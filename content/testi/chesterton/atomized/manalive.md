@@ -6373,6 +6373,117 @@ To the crashing orchestration of the air the clouds [[Rose|rose]]
 like the curtain of some long-expected pantomime.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Capitolo I
+
+Come il gran [[Wind|Vento]] giunse
+a Beacon [[house|House]]
+
+Un [[Wind|vento]] si levò impetuoso a occidente, come un'ondata di
+irragionevole felicità, e si slanciò verso oriente attraverso l'Inghilterra,
+trascinando con sé il gelido profumo delle foreste e la fredda
+ebbrezza del mare.  In un milione di buchi e cantucci ristorava
+l'uomo come un boccale e lo stupiva come un colpo.  Nelle camere
+più riposte di case intricate e frondose si destava come un'esplosione
+domestica, disseminando il pavimento delle carte di qualche
+professore finché non parevano preziose quanto fuggitive, o spegnendo
+la candela alla cui luce un ragazzo leggeva "L'isola del tesoro"
+e avvolgendolo in un buio rombante.  Ma dovunque portava il dramma
+nelle vite prive di dramma, e recava per il mondo la tromba della crisi.
+Più d'una madre affannata, in un misero cortiletto, aveva guardato
+cinque camicine nane sulla corda del bucato come una piccola, malata
+[[Tragedy|tragedia]]; era come se avesse impiccato i suoi cinque figli.
+Venne il [[Wind|vento]], e quelle si gonfiarono e scalciarono come se
+cinque grassi folletti vi fossero balzati dentro; e giù nel fondo
+del suo oppresso subcosciente ella ricordò a metà quelle rozze
+commedie dei suoi padri, quando gli elfi ancora dimoravano nelle
+case degli uomini.  Più d'una fanciulla inosservata, in un umido
+[[Garden|giardino]] cinto di mura, si era gettata nell'amaca con lo
+stesso gesto intollerante con cui avrebbe potuto gettarsi nel Tamigi;
+e quel [[Wind|vento]] squarciò l'ondeggiante muraglia dei boschi e
+sollevò l'amaca come un pallone, e le mostrò le forme di bizzarre nubi
+lontanissime, e immagini di luminosi villaggi laggiù in basso,
+come se cavalcasse il cielo in una barca fatata.  Più d'un impiegato
+polveroso o d'un chierico, arrancando lungo una telescopica [[Road|strada]]
+di pioppi, pensava per la centesima [[Time|volta]] che quelli erano come
+i pennacchi d'un carro funebre; quando questa invisibile energia li
+afferrò e li fece oscillare e cozzare attorno al suo capo come una
+ghirlanda o un saluto d'ali serafiche.  In esso vi era qualcosa di più
+ispirato e autorevole persino del vecchio [[Wind|vento]] del proverbio;
+poiché questo era il buon [[Wind|vento]] che non fa male a nessuno.
+
+La raffica volante colpì [[London|Londra]] proprio dove essa scala
+le alture settentrionali, terrazza sopra terrazza, ripida come Edimburgo.
+Fu attorno a questo luogo che un poeta, probabilmente ubriaco, guardò
+in su stupito verso tutte quelle strade salite al cielo, e (pensando
+vagamente a ghiacciai e ad alpinisti legati alla corda) le diede il nome
+di Swiss Cottage, che essa non è mai più riuscita a scrollarsi di dosso.
+A un certo punto di quelle alture una terrazza di alte case grigie,
+per lo più vuote e quasi desolate come i Grampiani, si curvava
+all'estremità occidentale, cosicché l'ultimo edificio, una pensione
+chiamata "Beacon [[house|House]]," offriva bruscamente al tramonto la
+sua alta, stretta e torreggiante terminazione, come la prua di qualche
+[[Ship|nave]] deserta.
+
+La [[Ship|nave]], tuttavia, non era del tutto deserta.  La proprietaria
+della [[house|pensione]], una certa signora Duke, era una di quelle persone
+inermi contro cui il destino combatte invano; sorrideva vagamente sia
+prima sia dopo tutte le sue calamità; era troppo molle per essere ferita.
+Ma con l'aiuto (o piuttosto sotto gli ordini) di un'operosa nipote,
+teneva sempre in piedi i resti di una clientela, per lo più di gente
+giovane ma svogliata.  E c'erano davvero cinque pensionanti che se ne
+stavano sconsolati qua e là per il [[Garden|giardino]] quando la gran
+burrasca si abbatté alla base della torre terminale dietro di loro,
+come il mare si frange alla base di una rupe sporgente.
+
+Tutto il giorno quel [[Hill|colle]] di case sopra [[London|Londra]] era
+rimasto cupolato e sigillato di fredda nuvolaglia.  Eppure tre uomini
+e due ragazze avevano infine trovato persino il grigio e gelido
+[[Garden|giardino]] più tollerabile del nero e tetro interno.
+Quando venne il [[Wind|vento]] esso squarciò il cielo e spinse in disparte,
+a destra e a sinistra, il paese delle nubi, sbarrando grandi limpide
+fornaci d'oro serale.  Lo scoppio di luce liberato e lo scoppio d'aria
+soffiante parvero giungere quasi simultaneamente; e il [[Wind|vento]]
+in special modo afferrava ogni cosa con una violenza soffocante.
+L'erba corta e lucente era tutta piegata da una parte come capelli
+spazzolati.  Ogni arbusto del [[Garden|giardino]] tirava alle proprie
+radici come un cane al collare, e protendeva ogni foglia guizzante
+dietro l'elemento cacciatore e sterminatore.  Di tanto in tanto un
+ramoscello si spezzava e volava via come un dardo di balestra.
+I tre uomini stavano rigidi e inclinati contro il [[Wind|vento]], come
+se si appoggiassero a un muro.  Le due dame scomparvero dentro la
+[[house|casa]]; o meglio, a dire il vero, furono soffiate dentro la
+[[house|casa]].  I loro due abiti, azzurro e bianco, parevano due
+grandi [[Flowers|fiori]] spezzati, sospinti e trascinati dalla burrasca.
+Né tale fantasia poetica è inopportuna, poiché c'era qualcosa di
+stranamente romantico in questa irruzione d'aria e di luce dopo una
+lunga giornata plumbea e senza sollievo.  L'erba e gli alberi del
+[[Garden|giardino]] parevano scintillare di qualcosa insieme buono e
+innaturale, come un [[Fire|fuoco]] uscito dal paese delle fate.
+Sembrava una strana alba spuntata nel punto sbagliato del giorno.
+
+La ragazza in bianco si tuffò dentro abbastanza in fretta, poiché
+portava un cappello bianco delle proporzioni di un paracadute, che
+avrebbe potuto trasportarla via tra le colorate nubi della sera.
+Era la loro unica pennellata di splendore, e irradiava ricchezza in
+quel luogo squattrinato (dove soggiornava temporaneamente con
+un'amica), un'ereditiera in piccolo, di nome Rosamund Hunt, occhi
+castani, viso tondo, ma risoluta e piuttosto chiassosa.  Oltre alla
+ricchezza era di buon umore e piuttosto avvenente; ma non si era
+sposata, forse perché c'era sempre una folla di uomini attorno a lei.
+Non era una donna facile (benché qualcuno l'avrebbe detta volgare),
+ma dava ai giovani indecisi l'impressione di essere insieme popolare
+e inaccessibile.  Un uomo si sentiva come se si fosse innamorato di
+[[Cleopatra]], o come se chiedesse di una grande attrice all'ingresso
+degli artisti.  Difatti, certi lustrini teatrali parevano aderire alla
+signorina Hunt; suonava la chitarra e il mandolino; voleva sempre
+fare sciarade; e con quel gran lacerarsi del cielo per opera del sole
+e della [[Storm|tempesta]], sentì gonfiarsi di nuovo dentro di sé un
+[[Melodrama|melodramma]] da fanciulla.  Alla fragorosa orchestrazione
+dell'aria le nubi si [[Rose|levarono]] come il sipario di qualche
+pantomima lungamente attesa.
+
 
 
 <span class="atom-split" data-atom="chapter_01--part_02" data-title="Manalive — Chapter 1 (part 2)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="archetype/child,archetype/fool,archetype/innocent,motif/birds,motif/decay,motif/desire,motif/fire,motif/garden,motif/memory,motif/moon,motif/pain,motif/silence,motif/well,motif/wind,concept/ambition,concept/apocalypse,concept/body,character/arthur,character/diana,character/michael"></span>
@@ -6692,6 +6803,141 @@ Michael found, to his incredulous surprise, that he had been
 holding his breath, like a man watching a duel.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Lo sgombro colossale che il [[Wind|vento]] aveva fatto di quel cielo
+nuvoloso si faceva sempre più limpido; camera dentro camera pareva
+aprirsi in cielo.  Si aveva la sensazione che si potesse infine trovare
+qualcosa di più lieve della luce stessa.  Nella pienezza di quel
+silenzioso fulgore tutte le cose raccolsero di nuovo i loro colori:
+i grigi tronchi si fecero d'argento, e la squallida ghiaia si fece d'oro.
+Un uccello svolazzò come una foglia sciolta da un albero all'altro,
+e le sue penne brune erano lambite dal [[Fire|fuoco]].
+
+"Inglewood," disse [[Michael]] [[Moon]], con l'occhio azzurro fisso
+sull'uccello, "avete degli amici?"
+
+Il dottor Warner scambiò la persona a cui era rivolta la domanda, e,
+volgendo una larga faccia raggiante, disse,--
+
+"Oh sì, esco parecchio."
+
+[[Michael]] [[Moon]] fece un ghigno tragico, e attese il suo vero
+interlocutore, che parlò un attimo dopo con una voce curiosamente fredda,
+fresca e giovane, come venendo fuori da quell'interno bruno e persino
+polveroso.
+
+"A dire il vero," rispose Inglewood, "temo di aver perso i contatti
+con i miei vecchi amici.  Il più grande amico che io abbia mai avuto
+era a scuola, un tale di nome [[smith|Smith]].  È strano che voi lo
+menzioniate, perché proprio oggi pensavo a lui, benché non lo veda
+da sette o otto anni.  Era con me nella sezione scientifica a scuola--
+un tipo intelligente ma bizzarro; e andò a [[Oxford]] quando io andai
+in [[Germany|Germania]].  Il fatto è che è piuttosto una triste storia.
+Lo invitavo spesso a venirmi a trovare, e quando non ricevetti risposta
+mi informai, capite.  Fui sconvolto nell'apprendere che il povero
+[[smith|Smith]] aveva perso il senno.  Le notizie erano un po' confuse,
+naturalmente, alcuni dicevano che si era di nuovo ripreso; ma dicono
+sempre così.  Circa un anno fa ricevetti io stesso un telegramma da lui.
+Il telegramma, mi duole dirlo, pose la faccenda al di là di ogni
+[[Doubt|dubbio]]."
+
+"Proprio così," assentì flemmatico il dottor Warner; "la pazzia è in
+genere inguaribile."
+
+"E così pure la [[Sanity|sanità di mente]]," disse l'irlandese, e lo
+studiò con occhio tetro.
+
+"Sintomi?" chiese il dottore.  "Cos'era questo telegramma?"
+
+"È una vergogna scherzare su queste cose," disse Inglewood, nel suo
+modo onesto e imbarazzato; "il telegramma era la malattia di
+[[smith|Smith]], non [[smith|Smith]].  Le parole precise erano: ‘Uomo
+trovato vivo con due gambe.'"
+
+"Vivo con due gambe," ripeté Michael, aggrottando la fronte.  "Forse
+una variante di vivo e vegeto?  Non so molto della gente fuori di senno;
+ma suppongo che dovrebbero scalciare."
+
+"E la gente in senno?" chiese Warner, sorridendo.
+
+"Oh, quella dovrebbe essere presa a calci," disse Michael con
+improvvisa cordialità.
+
+"Il messaggio è chiaramente folle," proseguì l'impenetrabile Warner.
+"La prova migliore è un riferimento al tipo normale non sviluppato.
+Persino un neonato non si aspetta di trovare un uomo con tre gambe."
+
+"Tre gambe," disse Michael Moon, "sarebbero assai comode con questo vento."
+
+Una fresca eruzione dell'atmosfera aveva infatti quasi fatto perdere
+loro l'equilibrio e aveva spezzato gli alberi anneriti del giardino.
+Al di là, ogni sorta di oggetti fortuiti si potevano vedere sfrecciare
+per il cielo spazzato dal vento--pagliuzze, stecchi, stracci, carte, e,
+in lontananza, un cappello che spariva.  La sua sparizione, tuttavia,
+non fu definitiva; dopo un intervallo di qualche minuto lo videro di
+nuovo, molto più grande e vicino, come un panama bianco, torreggiante
+su nei cieli come un pallone, barcollante avanti e indietro per un
+istante come un aquilone colpito, e poi posarsi al centro del loro
+stesso prato esitante come una foglia caduta.
+
+"Qualcuno ha perso un buon cappello," disse brusco il dottor Warner.
+
+Quasi mentre parlava, un altro oggetto scavalcò il muro del giardino,
+volando dietro il panama svolazzante.  Era un grosso ombrello verde.
+Dopo quello venne rotolando una enorme borsa Gladstone gialla, e dopo
+quella venne una figura come una ruota volante di gambe, come nello
+stemma dell'Isola di Man.
+
+Ma benché per un lampo paresse avere cinque o sei gambe, si posò su
+due, come l'uomo del bizzarro telegramma.  Prese la forma di un
+grosso uomo dai capelli chiari, in gaie vesti verdi da vacanza.
+Aveva luminosi capelli biondi che il vento gli spingeva all'indietro
+come a un tedesco, un viso acceso e ardente come quello di un cherubino,
+e un naso prominente e puntuto, un po' come quello di un cane.  La sua
+testa, tuttavia, non era affatto cherubica nel senso di essere priva di
+corpo.  Al contrario, sulle sue vaste spalle e sulla forma
+complessivamente gigantesca, la testa pareva stranamente e innaturalmente
+piccola.  Ciò diede origine a una teoria scientifica (che la sua condotta
+appieno confermava) secondo cui egli era un idiota.
+
+Inglewood aveva una cortesia istintiva e insieme goffa.  La sua vita
+era piena di mezzi gesti di soccorso rimasti a metà.  E persino questo
+prodigio di grand'uomo in verde, che scavalcava il muro come una
+luminosa cavalletta verde, non paralizzò quel piccolo altruismo delle
+sue abitudini in una faccenda come un cappello perduto.  Si stava
+facendo avanti per recuperare il copricapo del gentiluomo in verde,
+quando fu impietrito da un ruggito come quello di un toro.
+
+"Antisportivo!" muggì il grosso uomo.  "Lasciategli fair play,
+lasciategli fair play!"  E venne dietro al proprio cappello in fretta
+ma con cautela, con occhi ardenti.  Il cappello dapprima era parso
+languire e gingillarsi come in ostentata mollezza sul prato assolato;
+ma il vento, di nuovo rinfrescando e levandosi, lo mandò a danzare giù
+per il giardino con la diavoleria di un ~pas de quatre~.  L'eccentrico
+gli andò dietro a balzi da canguro e a raffiche di parole senza fiato,
+di cui non era sempre facile cogliere il filo:  "Fair play, fair play...
+sport dei re... dar la caccia alle loro corone... del tutto umano...
+tramontana... i cardinali danno la caccia ai cappelli rossi... vecchia
+caccia inglese... stanato un cappello a Bramber Combe... cappello alle
+strette... segugi sbranati... Preso!"
+
+Mentre il vento saliva da un ruggito a un urlo, egli balzò nel cielo
+sulle sue gambe forti e fantastiche, ghermì il cappello che svaniva,
+lo mancò, e cadde disteso a faccia in avanti sull'erba.  Il cappello
+si levò sopra di lui come un uccello in trionfo.  Ma il suo trionfo
+fu prematuro; poiché il pazzo, scagliato in avanti sulle mani, gettò
+gli stivali all'indietro, agitò le due gambe in aria come vessilli
+simbolici (tanto che essi pensarono davvero di nuovo al telegramma),
+e afferrò per davvero il cappello con i piedi.  Un prolungato e
+lancinante urlo di vento squarciò il firmamento da un capo all'altro.
+Gli occhi di tutti gli uomini furono accecati dalla raffica invisibile,
+come da una strana, limpida cateratta di trasparenza precipitante fra
+loro e tutti gli oggetti intorno.  Ma quando il grand'uomo ricadde
+in posizione seduta e solennemente si incoronò col cappello, Michael
+si accorse, con incredulo stupore, che aveva trattenuto il fiato,
+come uno che assiste a un duello.
+
 
 
 <span class="atom-split" data-atom="chapter_01--part_04" data-title="Manalive — Chapter 1 (part 4)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="topos/axis_mundi_world_tree,motif/tree,motif/wind,motif/autumn,concept/wonder,character/innocent_smith,character/arthur_inglewood,character/michael_moon,character/dr_warner"></span>
@@ -6821,6 +7067,142 @@ the stranger's card to join the wild waste paper of the universe;
 and that great western wind shook the whole house and passed.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Mentre quel gran vento era al culmine della sua energia che scalava
+il cielo, si udì un altro breve grido, che cominciò assai querulo,
+ma finì assai rapido, inghiottito in un brusco silenzio.  Il lucido
+cilindro nero del cappello d'ordinanza del dottor Warner salpò dal suo
+capo nella lunga, liscia parabola di un dirigibile, e, quasi
+sormontando un albero del giardino, restò impigliato tra i rami più
+alti.  Un altro cappello era andato.  Quelli in quel giardino si
+sentirono presi in un insolito vortice di cose che accadevano; nessuno
+pareva sapere che cosa sarebbe volato via per il prossimo.  Prima che
+potessero fare congetture, il cacciatore di cappelli, che esultava e
+gridava, era già a metà dell'albero, dondolandosi di forcella in
+forcella con le sue forti, ricurve gambe da cavalletta, e ancora
+proferendo i suoi ansimanti, misteriosi commenti.
+
+"Albero della vita... Ygdrasil... arrampicarsi per secoli forse... gufi
+che nidificano nel cappello... remotissime generazioni di gufi... ancora
+usurpatori... andati in cielo... l'uomo nella luna lo porta... brigante...
+non è tuo... appartiene a un depresso medico... in giardino... rendetelo...
+rendetelo!"
+
+L'albero oscillava e spazzava e si dibatteva avanti e indietro nel
+tonante vento come un cardo, e fiammeggiava nel pieno sole come un falò.
+La verde, fantastica figura umana, vivida contro il rosso e l'oro
+autunnali, era già tra i suoi rami più alti e più folli, che per pura
+fortuna non si spezzarono sotto il peso del suo grosso corpo.  Era
+lassù tra le ultime foglie sbattute e le prime stelle scintillanti
+della sera, ancora parlando a se stesso allegramente, ragionevolmente,
+mezzo scusandosi, in piccoli aneliti.  Poteva ben essere senza fiato,
+poiché tutta la sua incursione preposterosa era andata con un solo
+slancio; aveva scavalcato il muro d'un balzo come un pallone da calcio,
+si era lanciato giù per il giardino come su uno scivolo, ed era
+schizzato su per l'albero come un razzo.  Gli altri tre uomini
+parevano sepolti sotto incidente ammucchiato su incidente--un mondo
+selvaggio dove una cosa cominciava prima che un'altra fosse finita.
+Tutti e tre ebbero il primo pensiero.  L'albero era stato lì per i
+cinque anni in cui avevano conosciuto la pensione.  Ciascuno di loro
+era attivo e forte.  Nessuno di loro aveva mai neppure pensato di
+arrampicarvisi.  Oltre a ciò, Inglewood avvertì per primo il puro
+fatto del colore.  Le foglie luminose e vivaci, il cielo azzurro e
+squallido, le selvagge membra verdi, gli rammentarono irrazionalmente
+qualcosa che splendeva nella sua infanzia, qualcosa affine a un uomo
+sgargiante su un albero d'oro; forse era solo una scimmia dipinta su
+un bastoncino.  Stranamente, Michael Moon, benché più incline all'umorismo,
+fu toccato su un nervo più tenero, ricordò a metà le vecchie, giovanili
+recite teatrali con Rosamund, e si divertì a trovarsi quasi a citare
+Shakespeare--
+
+"Per valore.  Non è forse l'amore un Ercole,
+sempre a scalare alberi nelle Esperidi?"
+
+Persino l'immobile uomo di scienza ebbe una luminosa, sconcertata
+sensazione che la Macchina del Tempo avesse dato un gran sobbalzo,
+e fosse balzata avanti con una rapidità piuttosto sferragliante.
+
+Egli non era, tuttavia, del tutto preparato a ciò che accadde poi.
+L'uomo in verde, cavalcando il fragile ramo più alto come una strega
+su una scopa assai rischiosa, si protese in su e strappò il cappello
+nero dal suo nido aereo di ramoscelli.  Era stato spezzato di traverso
+su un ramo pesante nel primo impeto del suo passaggio, un groviglio di
+rami lo aveva lacerato e solcato e graffiato in ogni direzione, uno
+schiaffo di vento e fogliame lo aveva appiattito come una fisarmonica;
+né si può dire che l'ossequioso gentiluomo dal naso aguzzo mostrasse
+alcuna adeguata tenerezza per la sua struttura quando infine lo staccò
+dal suo posto.  Quando però lo ebbe trovato, il suo procedere fu da
+alcuni giudicato singolare.  Lo agitò con un forte urlo di trionfo,
+e poi parve subito cadere all'indietro giù dall'albero, al quale però
+rimase attaccato per le sue lunghe forti gambe, come una scimmia
+sospesa per la coda.  Penzolando così a testa in giù sopra lo Warner
+senza elmo, procedette gravemente a lasciar cadere il malconcio
+cilindro di seta sulla sua fronte.  "Ogni uomo un re," spiegò il
+filosofo capovolto, "ogni cappello (di conseguenza) una corona.
+Ma questa è una corona venuta dal cielo."
+
+E tentò di nuovo l'incoronazione di Warner, il quale, tuttavia, si
+scostò con gran bruschezza dal diadema aleggiante; non sembrando,
+stranamente, desiderare la sua antica decorazione nello stato presente.
+
+"Sbagliato, sbagliato!" gridò l'ossequiosa persona con ilarità.
+"Portate sempre l'uniforme, anche se è un'uniforme malandata!
+I ritualisti possono sempre essere sciatti.  Andate a un ballo con la
+fuliggine sullo sparato; ma andateci con uno sparato.  Il cacciatore
+porta una vecchia giubba, ma una vecchia giubba rosa.  Portate un
+cilindro, anche se non ha più cilindro.  È il simbolo che conta, mio
+vecchio.  Prendete il vostro cappello, perché in fondo è il vostro
+cappello; il suo pelo tutto strofinato via dalla corteccia, cari miei,
+e la sua tesa neppure un pochino arricciata; ma per amor dei vecchi
+tempi resta ancora, cari miei, il più elegante copricapo del mondo."
+
+Parlando così, con una selvaggia comodità, sistemò o schiacciò
+l'informe cappello di seta sul viso del turbato medico, e cadde in
+piedi tra gli altri uomini, ancora parlando, raggiante e senza fiato.
+
+"Perché non inventano più giochi col vento?" chiese con una certa
+eccitazione.  "Gli aquiloni vanno bene, ma perché dovrebbero esserci
+solo aquiloni?  Ecco, ho pensato ad altri tre giochi per una giornata
+ventosa mentre mi arrampicavo su quell'albero.  Eccone uno:  prendete
+un mucchio di pepe--"
+
+"Io credo," s'interpose Moon, con una sardonica mitezza, "che i vostri
+giochi siano già sufficientemente interessanti.  Siete, mi permetto di
+chiedere, un acrobata professionista in tournée, o una réclame ambulante
+di Sunny Jim?  Come e perché sfoggiate tutta questa energia nello
+scavalcare muri e arrampicarvi sugli alberi nei nostri malinconici,
+ma almeno razionali, sobborghi?"
+
+Lo sconosciuto, per quanto una persona così rumorosa ne fosse capace,
+parve farsi confidenziale.
+
+"Be', è un trucco tutto mio," confessò candidamente.  "Ci riesco
+avendo due gambe."
+
+Arthur Inglewood, che era sprofondato sullo sfondo di questa scena di
+follia, sussultò e fissò il nuovo venuto con i suoi occhi miopi socchiusi
+e il suo acceso colorito lievemente ravvivato.
+
+"Ma come, credo che tu sia Smith," gridò con la sua voce fresca, quasi
+fanciullesca; e poi, dopo un istante di sguardo fisso, "eppure non ne
+sono sicuro."
+
+"Ho un biglietto, mi pare," disse lo sconosciuto, con sconcertante
+solennità--"un biglietto col mio vero nome, i miei titoli, le mie
+cariche, e il mio vero scopo su questa terra."
+
+Estrasse lentamente da un taschino superiore del panciotto un
+portabiglietti scarlatto, e altrettanto lentamente ne trasse un
+biglietto assai grande.  Persino nell'istante in cui lo produsse,
+essi ebbero l'impressione che fosse di una forma bizzarra, diversa dai
+biglietti dei comuni gentiluomini.  Ma restò lì solo un istante;
+poiché mentre passava dalle sue dita a quelle di Arthur, l'uno o l'altro
+allentò la presa.  La stridente, lacerante burrasca in quel giardino
+portò via il biglietto dello sconosciuto a unirsi alla selvaggia carta
+straccia dell'universo; e quel gran vento occidentale scosse tutta la
+casa e passò oltre.
+
 
 
 <span class="atom-split" data-atom="chapter_02--part_01" data-title="Manalive — Chapter 2 (part 1)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="concept/wonder,concept/optimism,character/innocent_smith,character/arthur_inglewood,character/michael_moon,character/moses_gould,character/rosamund_hunt,character/mary_gray"></span>
@@ -6941,6 +7323,126 @@ against the ultimate ceiling, Inglewood had an odd sensation that the tall
 house was much shorter than it used to be.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Capitolo II
+
+Il bagaglio di un ottimista
+
+Tutti ricordiamo le fiabe della scienza della nostra infanzia, che
+giocavano con la supposizione che i grandi animali potessero saltare
+in proporzione a quelli piccoli.  Se un elefante fosse forte come una
+cavalletta, potrebbe (suppongo) balzare di netto fuori dai Giardini
+Zoologici e atterrare barrendo su Primrose Hill.  Se una balena potesse
+saltar fuori dal mare come una trota, forse gli uomini potrebbero
+guardare in su e vederne una librarsi sopra Yarmouth come l'isola alata
+di Laputa.  Una tale energia naturale, benché sublime, potrebbe di certo
+riuscire scomoda, e molto di questo disagio accompagnava l'allegria e
+le buone intenzioni dell'uomo in verde.  Era troppo grande per ogni cosa,
+perché era vivace oltre che grande.  Per una fortunata provvidenza
+fisica, la maggior parte delle creature davvero massicce è anche pacata;
+e le pensioni della piccola borghesia nelle parti minori di Londra non
+sono costruite per un uomo grosso come un toro ed eccitabile come un
+gattino.
+
+Quando Inglewood seguì lo sconosciuto dentro la pensione, lo trovò che
+parlava con fervore (e, secondo lui, in privato) con l'inerme signora
+Duke.  Quella grassa, esangue signora poteva solo strabuzzare gli occhi
+in su come un pesce moribondo verso l'enorme nuovo gentiluomo, che
+cortesemente si offriva come pensionante, con vasti gesti del largo
+cappello bianco in una mano e della gialla borsa Gladstone nell'altra.
+Per fortuna la più efficiente nipote e socia della signora Duke era lì
+a concludere il contratto; poiché, in verità, tutta la gente della casa
+si era in qualche modo radunata nella stanza.  Questo fatto, a dire il
+vero, era tipico dell'intero episodio.  Il visitatore creava
+un'atmosfera di comica crisi; e dal momento in cui entrò in casa a
+quello in cui la lasciò, riuscì in qualche modo a far radunare la
+compagnia e persino a farla seguire (benché per derisione) come i
+bambini si radunano e seguono un Pulcinella.  Un'ora prima, e per
+quattro anni prima ancora, questa gente si era evitata a vicenda,
+persino quando davvero si piaceva.  Erano scivolati dentro e fuori da
+stanze tetre e deserte in cerca di particolari giornali o di cuciti
+privati.  Anche ora vennero tutti alla buona, come con vari interessi;
+ma vennero tutti.  C'era l'imbarazzato Inglewood, ancora una sorta di
+ombra rossa; c'era l'imperturbato Warner, una sostanza pallida ma solida.
+C'era Michael Moon, che offriva come un enigma il contrasto fra la
+cavallina rozzezza dei suoi abiti e la cupa sagacia del suo volto.
+Ora gli si era unito il suo compare ancor più comico, Moses Gould.
+Impettito su gambe corte con una prospera cravatta violacea, era il più
+gaio dei piccoli cani senza Dio; ma anche come un cane in questo, che,
+per quanto danzasse e scodinzolasse di gioia, i due occhi scuri ai lati
+del suo naso sporgente luccicavano cupamente come bottoni neri.
+C'era la signorina Rosamund Hunt, ancora col bel cappello bianco che
+incorniciava il suo viso squadrato e avvenente, e ancora con la sua
+innata aria di essere vestita per qualche festa che non aveva mai luogo.
+Anche lei, come il signor Moon, aveva una nuova compagna, nuova per
+quanto riguarda questa narrazione, ma in realtà una vecchia amica e una
+protetta.  Era una minuta giovane donna in grigio scuro, in nulla
+notevole se non per una massa di spenti capelli rossi, la cui forma in
+qualche modo dava al suo pallido viso quell'aspetto triangolare, quasi
+appuntito, che era conferito dal basso copricapo e dalla ricca profonda
+gorgiera delle bellezze elisabettiane.  Il suo cognome pareva essere
+Gray, e la signorina Hunt la chiamava Mary, in quel tono indescrivibile
+riservato a una dipendente che è praticamente diventata un'amica.
+Portava una piccola croce d'argento sui suoi assai pratici abiti grigi,
+ed era l'unica del gruppo che andasse in chiesa.  Ultima, ma tutt'altro
+che infima, c'era Diana Duke, che studiava il nuovo venuto con occhi
+d'acciaio, e ascoltava attentamente ogni idiota parola che egli diceva.
+Quanto alla signora Duke, gli sorrideva in su, ma non le passava
+neppure per la mente di ascoltarlo.  Non aveva mai davvero ascoltato
+nessuno in vita sua; e questo, dicevano alcuni, era il motivo per cui
+era sopravvissuta.
+
+Ciononostante, la signora Duke era compiaciuta della concentrazione di
+cortesia del suo nuovo ospite verso di lei; poiché nessuno le parlava
+mai sul serio, come mai lei ascoltava sul serio nessuno.  E quasi
+raggiava mentre lo sconosciuto, con gesti di spiegazione ancor più ampi
+e quasi vorticosi del suo enorme cappello e della sua borsa, si scusava
+per essere entrato dal muro invece che dalla porta d'ingresso.  Si
+intese che egli attribuiva la cosa a una sventurata tradizione di
+famiglia fatta di ordine e cura dei propri abiti.
+
+"Mia madre era piuttosto severa in proposito, a dire il vero," disse,
+abbassando la voce, alla signora Duke.  "Non le piaceva mai che io
+perdessi il berretto a scuola.  E quando a un uomo è stato insegnato a
+essere ordinato e lindo, la cosa gli resta addosso."
+
+La signora Duke ansimò debolmente che era sicura che egli doveva aver
+avuto una buona madre; ma la nipote pareva incline a sondare la
+faccenda più a fondo.
+
+"Avete una buffa idea dell'ordine," disse, "se è saltare i muri dei
+giardini e inerpicarvi sugli alberi.  Un uomo non può certo arrampicarsi
+su un albero ordinatamente."
+
+"Può scavalcare un muro con nettezza," disse Michael Moon; "gliel'ho
+visto fare."
+
+Smith pareva guardare la ragazza con genuino stupore.  "Mia cara
+signorina," disse, "stavo mettendo in ordine l'albero.  Non ci volete
+lì i cappelli dell'anno scorso, non è vero, più di quanto ci vogliate
+le foglie dell'anno scorso?  Il vento porta via le foglie, ma non è
+riuscito a venire a capo del cappello; quel vento, suppongo, oggi ha
+messo in ordine intere foreste.  Curiosa idea è questa, che l'ordine sia
+una cosa timida, quieta; ma via, l'ordine è una fatica da giganti.
+Non si può mettere in ordine alcunché senza mettere in disordine se
+stessi; guardate un po' i miei calzoni.  Non lo sapete?  Non avete mai
+fatto le pulizie di primavera?"
+
+"Oh sì, signore," disse la signora Duke, quasi con ansia.  "Troverete
+ogni cosa del genere assai a modo."  Per la prima volta aveva udito due
+parole che poteva capire.
+
+La signorina Diana Duke pareva studiare lo sconosciuto con una sorta di
+spasimo di calcolo; poi i suoi occhi neri scattarono con decisione, e
+disse che poteva avere una certa camera da letto all'ultimo piano se
+gli garbava:  e il silenzioso e sensibile Inglewood, che era stato sulla
+graticola durante questi malintesi, offrì premurosamente di accompagnarlo
+su alla stanza.  Smith salì le scale quattro gradini alla volta, e
+quando battè la testa contro il soffitto più alto, Inglewood ebbe la
+strana sensazione che l'alta casa fosse molto più bassa di quanto
+soleva essere.
+
 
 
 <span class="atom-split" data-atom="chapter_02--part_02" data-title="Manalive — Chapter 2 (part 2)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="archetype/innocent,archetype/child,motif/wine_and_drink,concept/innocence_and_experience,concept/wonder,character/innocent_smith,character/arthur_inglewood,character/michael_moon,character/moses_gould,character/diana_duke,character/rosamund_hunt,character/joan_of_arc"></span>
@@ -7059,6 +7561,120 @@ glancing round the rather dwarfish room, with its wedge of slanted ceiling,
 like the conical hood of a dwarf.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Arthur Inglewood seguì il suo vecchio amico--o il suo nuovo amico,
+poiché non sapeva con chiarezza quale dei due fosse.  Il viso somigliava
+moltissimo a quello del suo vecchio compagno di scuola in un secondo e
+moltissimo se ne discostava in un altro.  E quando Inglewood ruppe la
+sua innata cortesia al punto da dire d'un tratto: "Il vostro nome è
+Smith?", ricevette solo l'illuminante risposta: "Giustissimo;
+giustissimo.  Benissimo.  Eccellente!"  Il che parve a Inglewood,
+riflettendoci, più il discorso di un neonato che accetta un nome che
+di un uomo adulto che ne ammette uno.
+
+Nonostante questi dubbi sull'identità, lo sventurato Inglewood osservava
+l'altro disfare il bagaglio, e si aggirava per la sua camera in tutti
+gli impotenti atteggiamenti dell'amico maschio.  Il signor Smith disfaceva
+il bagaglio con la stessa specie di vorticosa precisione con cui si
+arrampicava su un albero--gettando le cose fuori dalla borsa come se
+fossero spazzatura, eppure riuscendo a distribuire tutt'intorno a sé sul
+pavimento un disegno abbastanza regolare.
+
+Mentre lo faceva continuava a parlare nella stessa maniera alquanto
+ansimante (era salito le scale quattro gradini alla volta, ma anche
+senza di ciò il suo stile di eloquio era affannoso e frammentario), e
+le sue osservazioni erano ancora una sfilza di immagini più o meno
+significative ma spesso staccate.
+
+"Come il giorno del giudizio," disse, gettando una bottiglia in modo
+che in qualche modo si assestò, dondolando sul suo giusto fondo.
+"La gente dice universo immenso... infinito e astronomia; non ne sono
+sicuro... credo che le cose siano troppo vicine tra loro... impacchettate;
+per viaggiare... le stelle troppo vicine, davvero... ma via, il sole è
+una stella, troppo vicina per essere vista come si deve; la terra è una
+stella, troppo vicina per essere vista affatto... troppi ciottoli sulla
+spiaggia; dovrebbero essere tutti messi in anelli; troppi fili d'erba da
+studiare... le penne su un uccello fanno girare la testa; aspettate che
+la grande borsa sia disfatta... allora forse saremo tutti messi al posto
+giusto."
+
+Qui si fermò, letteralmente per riprendere fiato--gettando una camicia
+all'altro capo della stanza, e poi una boccetta d'inchiostro sì che
+cadde assai nettamente al di là di essa.  Inglewood si guardò intorno
+in quel disordine strano e semi-simmetrico con crescente dubbio.
+
+Difatti, più si esplorava il bagaglio da vacanza del signor Smith, meno
+se ne riusciva a cavare qualcosa.  Una sua peculiarità era che quasi
+ogni cosa pareva esser lì per la ragione sbagliata; ciò che per tutti
+gli altri è secondario per lui era primario.  Avvolgeva una pentola o un
+tegame in carta da pacchi; e l'ignaro assistente scopriva che la pentola
+era senza valore o persino superflua, e che era la carta da pacchi a
+essere davvero preziosa.  Tirò fuori due o tre scatole di sigari, e
+spiegò con schietta e sconcertante sincerità che non era un fumatore,
+ma che il legno delle scatole da sigari era di gran lunga il migliore
+per i lavori di traforo.  Esibì anche una mezza dozzina di piccole
+bottiglie di vino, bianco e rosso, e Inglewood, notando per caso un
+Volnay che sapeva essere eccellente, suppose dapprima che lo sconosciuto
+fosse un epicureo in fatto di annate.  Rimase perciò sorpreso nel
+trovare che la bottiglia successiva era un vile falso claretto delle
+colonie, che persino i coloni (a render loro giustizia) non bevono.
+Fu solo allora che osservò che tutte e sei le bottiglie avevano quei
+lucidi sigilli metallici di svariate tinte, e parevano essere state
+scelte unicamente perché avevano i tre colori primari e i tre secondari:
+rosso, blu e giallo; verde, viola e arancio.  Crebbe in Inglewood un
+senso quasi raccapricciante della reale puerilità di questa creatura.
+Poiché Smith era davvero, per quanto la psicologia umana lo consenta,
+innocente.  Aveva le sensualità dell'innocenza:  amava l'appiccicaticcio
+della gomma, e intagliava avidamente il legno bianco come se tagliasse
+una torta.  Per quest'uomo il vino non era una cosa dubbia da difendere
+o denunciare; era uno sciroppo dai bizzarri colori, quale un bambino
+vede in una vetrina di negozio.  Parlava in modo dominante e travolgeva
+la situazione sociale; ma non affermava se stesso, come un superuomo in
+una commedia moderna.  Semplicemente dimenticava se stesso, come un
+ragazzino a una festa.  In qualche modo aveva compiuto il gran passo
+dall'infanzia alla virilità, e aveva mancato quella crisi della
+giovinezza in cui la maggior parte di noi invecchia.
+
+Mentre spostava la sua grossa borsa, Arthur osservò le iniziali I. S.
+stampate su un lato di essa, e ricordò che a scuola Smith era stato
+chiamato Innocent Smith, benché non ricordasse se come formale nome di
+battesimo o come descrizione morale.  Stava giusto per arrischiare
+un'altra domanda, quando si udì un colpo alla porta, e la corta figura
+del signor Gould si presentò, col malinconico Moon, ritto come la sua
+alta ombra storta, dietro di lui.  Erano saliti alla deriva su per le
+scale dietro agli altri due uomini con la vagabonda gregarietà del maschio.
+
+"Spero di non disturbare," disse il raggiante Moses con un fervore di
+buona natura, ma senza la più aerea sfumatura di scusa.
+
+"La verità è," disse Michael Moon con relativa cortesia, "che abbiamo
+pensato di venire a vedere se ti avevano sistemato comodamente.
+La signorina Duke è piuttosto--"
+
+"Lo so," gridò lo sconosciuto, alzando lo sguardo raggiante dalla sua
+borsa; "magnifica, non è vero?  Avvicinatevi a lei--sentite passare
+musica militare, come Giovanna d'Arco."
+
+Inglewood fissava e fissava chi parlava come uno che ha appena udito una
+selvaggia fiaba, la quale nondimeno contiene un piccolo e dimenticato
+fatto vero.  Poiché ricordava come lui stesso avesse pensato a Giovanna
+d'Arco anni prima, quando, poco più che uno scolaretto, era giunto per
+la prima volta alla pensione.  Da tempo il polverizzante razionalismo
+del suo amico dottor Warner aveva schiacciato tali giovanili ignoranze
+e sproporzionati sogni.  Sotto lo scetticismo warneriano e la scienza
+dei disperati tipi umani, Inglewood era da tempo giunto a considerare
+se stesso un tipo timido, insufficiente e "debole", che non si sarebbe
+mai sposato; a considerare Diana Duke una materialistica domestica; e a
+considerare la sua prima infatuazione per lei come la piccola, scialba
+farsa di uno studente universitario che bacia la figlia della padrona
+di casa.  Eppure la frase sulla musica militare lo turbò stranamente,
+come se avesse udito quei tamburi lontani.
+
+"Deve tener le cose piuttosto strette, com'è solo naturale," disse Moon,
+girando lo sguardo per la stanza piuttosto nana, col suo cuneo di
+soffitto inclinato, come il cappuccio conico di un nano.
+
 
 
 <span class="atom-split" data-atom="chapter_02--part_03" data-title="Manalive — Chapter 2 (part 3)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="topos/world_upside_down,motif/wine_and_drink,motif/stars,motif/the_supernatural,concept/wonder,character/innocent_smith,character/michael_moon,character/arthur_inglewood,character/moses_gould,character/satan"></span>
@@ -7172,6 +7788,120 @@ Arthur Inglewood was staring with feelings that made him nearly
 fall off the roof, for indeed the Irishman's face, always sinister,
 was now almost demoniacal.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+"Piuttosto una scatoletta per voi, signore," disse il faceto signor Gould.
+
+"Splendida stanza, però," rispose con entusiasmo il signor Smith, con la
+testa dentro la sua borsa Gladstone.  "Adoro questo genere di stanze
+appuntite, come il gotico.  A proposito," gridò, indicando in modo
+alquanto sorprendente, "dove porta quella porta?"
+
+"A morte certa, direi," rispose Michael Moon, fissando in su una botola
+impolverata e in disuso nel tetto spiovente della soffitta.  "Non credo
+che ci sia un solaio lassù; e non so a cos'altro potrebbe portare."
+Molto prima che avesse finito la frase, l'uomo dalle forti gambe verdi
+era balzato verso la porta nel soffitto, si era in qualche modo issato
+sulla sporgenza sottostante, l'aveva divelta dopo una lotta, e vi era
+salito attraverso.  Per un momento videro le due gambe simboliche ritte
+come una statua troncata; poi svanirono.  Attraverso il buco così aperto
+nel tetto apparve il vuoto e limpido cielo della sera, con una grande
+nube dai molti colori che vi navigava attraverso come un'intera contea
+capovolta.
+
+"Ehilà, voialtri!" giunse il grido lontano di Innocent Smith, in
+apparenza da qualche remoto pinnacolo.  "Salite quassù; e portate
+qualcosa delle mie cose da mangiare e da bere.  È proprio il posto per
+un picnic."
+
+Con un impulso improvviso Michael afferrò due delle piccole bottiglie di
+vino, una per ciascun solido pugno; e Arthur Inglewood, come ipnotizzato,
+andò a tastoni in cerca di una scatola di biscotti e di un grande barattolo
+di zenzero.  L'enorme mano di Innocent Smith, comparendo attraverso
+l'apertura, come quella di un gigante in una fiaba, ricevette questi
+tributi e li portò via al suo nido d'aquila; poi entrambi si issarono
+fuori dalla finestra.  Erano entrambi atletici, e persino ginnici;
+Inglewood per la sua premura per l'igiene, e Moon per la sua premura per
+lo sport, che non era del tutto così ozioso e inattivo come quello dello
+sportivo medio.  Inoltre entrambi ebbero un'esaltata vampata di celeste
+sensazione quando la porta fu sfondata nel tetto, come se una porta
+fosse stata sfondata nel cielo, e potessero arrampicarsi fuori sul tetto
+stesso dell'universo.  Erano entrambi uomini che erano stati a lungo
+inconsapevolmente imprigionati nella banalità, benché l'uno la prendesse
+con comicità, e l'altro sul serio.  Erano entrambi uomini, nondimeno, in
+cui il sentimento non era mai morto.  Ma il signor Moses Gould nutriva un
+uguale disprezzo per il loro suicida atletismo e per il loro subcosciente
+trascendentalismo, e se ne stette a ridere della cosa con la spudorata
+razionalità di un'altra razza.
+
+Quando il singolare Smith, a cavalcioni di un comignolo, apprese che
+Gould non lo seguiva, la sua infantile invadenza e buona natura lo
+costrinsero a tuffarsi di nuovo nella soffitta per consolarlo o
+persuaderlo; e Inglewood e Moon restarono soli sul lungo crinale
+grigio-verde del tetto d'ardesia, coi piedi contro le grondaie e le
+schiene contro i comignoli, guardandosi agnosticamente l'un l'altro.
+La loro prima sensazione fu di esser usciti nell'eternità, e che
+l'eternità somigliava assai al mondo alla rovescia.  A entrambi venne
+in mente una definizione--che egli era uscito nella luce di quella
+lucida e radiosa ignoranza in cui tutte le credenze erano cominciate.
+Il cielo sopra di loro era pieno di mitologia.  Il paradiso pareva
+abbastanza profondo da contenere tutti gli dèi.  La volta dell'etere
+passava dal verde al giallo gradualmente come un grande frutto acerbo.
+Tutt'intorno al sole calato era come un limone; per tutto l'oriente era
+una sorta di verde dorato, più suggestivo d'una susina Regina Claudia;
+ma il tutto aveva ancora il vuoto della luce diurna e nulla della
+segretezza del crepuscolo.  Sparsi qua e là attraverso quest'oro e
+questo verde pallido c'erano cocci e frammenti sfracellati di nube di
+un purpureo d'inchiostro, che parevano precipitare verso la terra in
+ogni sorta di colossale prospettiva.  Uno di essi aveva davvero il
+carattere di qualche immagine assira dalle molte mitre, dalle molte
+barbe, dalle molte ali, con l'enorme testa all'ingiù, scagliata giù dal
+cielo--una sorta di falso Geova, che forse era [[Satan|Satana]].  Tutte
+le altre nubi avevano preposterose forme a pinnacolo, come se i palazzi
+del dio gli fossero stati scagliati dietro.
+
+Eppure, mentre il vuoto firmamento era pieno di silenziosa catastrofe,
+l'altezza delle costruzioni umane su cui sedevano racchiudeva qua e là
+un minuscolo, triviale rumore che ne era l'esatta antitesi; e udirono,
+sei strade più giù, uno strillone che gridava, e una campana che
+chiamava alla cappella.  Potevano anche udire chiacchiere dal giardino
+sottostante; e capirono che l'irreprimibile Smith doveva aver seguito
+Gould giù per le scale, poiché si udivano i suoi accenti ansiosi e
+supplichevoli, seguiti dalle proteste semischerzose della signorina Duke
+e dalla piena e giovanissima risata di Rosamund Hunt.  L'aria aveva
+quella fredda bontà che viene dopo una tempesta.  Michael Moon la beveva
+con serietà pari a quella con cui aveva bevuto la bottiglietta di
+claretto a buon mercato, che aveva vuotato quasi d'un fiato.  Inglewood
+seguitava a mangiare zenzero assai lentamente e con una solennità
+insondabile come il cielo sopra di lui.  C'era ancora abbastanza fermento
+nella freschezza dell'atmosfera da far loro quasi immaginare di sentire
+l'odore del terriccio del giardino e delle ultime rose d'autunno.
+D'improvviso giunse dalla stanza che si andava oscurando un argenteo
+ping e pong che disse loro che Rosamund aveva tirato fuori il lungamente
+trascurato mandolino.  Dopo le prime note ci fu altra di quella lontana
+risata simile a un campanello.
+
+"Inglewood," disse Michael Moon, "hai mai sentito dire che sono una
+canaglia?"
+
+"Non l'ho sentito dire, e non ci credo," rispose Inglewood, dopo una
+strana pausa.  "Ma ho sentito dire che eri--quello che chiamano piuttosto
+sregolato."
+
+"Se hai sentito dire che sono sregolato, puoi smentire la voce," disse
+Moon, con straordinaria calma; "sono mansueto.  Sono del tutto mansueto;
+sono all'incirca la più mansueta bestia che striscia.  Bevo troppo dello
+stesso genere di whisky alla stessa ora ogni sera.  Bevo persino press'a
+poco la stessa quantità di troppo.  Vado nello stesso numero di osterie.
+Incontro le stesse maledette donne dalle facce color malva.  Sento lo
+stesso numero di storielle sporche--in genere le stesse storielle sporche.
+Puoi assicurare ai miei amici, Inglewood, che vedi davanti a te una
+persona che la civiltà ha del tutto addomesticato."
+
+Arthur Inglewood fissava con sentimenti che quasi lo fecero cadere dal
+tetto, poiché in verità il viso dell'irlandese, sempre sinistro, era ora
+quasi demoniaco.
 
 
 
@@ -7446,6 +8176,128 @@ the right way.  She had the knack of saying everything with her face:
 her silence was a sort of steady applause.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Capitolo III
+
+Il vessillo di Beacon
+
+Per tutto il giorno seguente, a Beacon House, aleggiava la folle
+sensazione che fosse il compleanno di tutti.  È di moda parlare delle
+istituzioni come di cose fredde e costrittive.  La verità è che quando
+gli uomini sono di uno straordinario buon umore, davvero pazzi di
+libertà e d'invenzione, essi sempre devono, e sempre lo fanno, creare
+istituzioni.  Quando gli uomini sono stanchi cadono nell'anarchia; ma
+finché sono gai e vigorosi immancabilmente si danno delle regole.
+Questo, che è vero di tutte le chiese e le repubbliche della storia, è
+vero anche del più triviale gioco da salotto o del più ingenuo trastullo
+in un prato.  Non siamo mai liberi finché qualche istituzione non ci
+libera; e la libertà non può esistere finché non è proclamata
+dall'autorità.  Persino la selvaggia autorità dell'arlecchino Smith era
+pur sempre autorità, poiché produceva dappertutto un raccolto di folli
+regolamenti e condizioni.  Egli riempiva tutti della sua stessa vita
+mezzo lunatica; ma essa non si esprimeva nella distruzione, bensì
+piuttosto in una vertiginosa e traballante costruzione.  Ogni persona
+che avesse un passatempo se lo vedeva tramutare in un'istituzione.
+Le canzoni di Rosamund parevano coagularsi in una sorta di opera lirica;
+le facezie e i paragrafi di Michael in una rivista.  La pipa di lui e il
+mandolino di lei parevano insieme dar vita a una specie di concerto tra
+il fumo.  Il timido e sconcertato Arthur Inglewood quasi lottava contro
+la propria crescente importanza.  Si sentiva come se, suo malgrado, le
+sue fotografie si stessero tramutando in una pinacoteca, e la sua
+bicicletta in una gimcana.  Ma nessuno aveva tempo di criticare questi
+improvvisati possedimenti e uffici, poiché si susseguivano in selvaggia
+successione come gli argomenti di un chiacchierone divagante.
+
+L'esistenza con un uomo simile era una corsa a ostacoli fatta di
+piacevoli ostacoli.  Da qualsiasi oggetto casalingo e triviale egli
+poteva estrarre rocchetti di esagerazione, come un prestigiatore.  Nulla
+poteva essere più schivo e impersonale della fotografia del povero
+Arthur.  Eppure si vide il preposteroso Smith assisterlo con ardore
+durante le assolate ore mattutine, e un'indifendibile sequenza descritta
+come "Fotografia Morale" cominciò a dispiegarsi per la pensione.  Non
+era che una versione della vecchia burla del fotografo che produce due
+volte la stessa figura sulla stessa lastra, facendo giocare un uomo a
+scacchi con se stesso, pranzare con se stesso, e così via.  Ma queste
+lastre erano più isteriche e ambiziose--come "La signorina Hunt si
+dimentica di sé", che mostrava quella dama rispondere al proprio troppo
+rapito riconoscimento con un più che spaventoso sguardo d'ignoranza;
+o "Il signor Moon interroga se stesso", in cui il signor Moon appariva
+come uno spinto alla pazzia sotto il proprio controinterrogatorio legale,
+condotto con un lungo indice e un'aria di feroce arguzia.  Una trilogia
+di gran successo--che rappresentava Inglewood mentre riconosce Inglewood,
+Inglewood mentre si prostra davanti a Inglewood, e Inglewood mentre
+picchia severamente Inglewood con un ombrello--Innocent Smith la voleva
+far ingrandire e appendere nell'ingresso, come una sorta di affresco,
+con l'iscrizione:--
+
+"Rispetto di sé, conoscenza di sé, dominio di sé--
+questi tre soli faranno di un uomo un saccente."
+
+-- Tennyson.
+
+Nulla, ancora, poteva essere più prosaico e impenetrabile delle
+domestiche energie della signorina Diana Duke.  Ma Innocent si era in
+qualche modo imbattuto per caso nella scoperta che la sua parsimoniosa
+arte del cucito si accompagnava a una considerevole cura femminile per
+l'abbigliamento--l'unica cosa femminile che non avesse mai fatto difetto
+al suo solitario amor proprio.  Di conseguenza Smith la tormentava con
+una teoria (che pareva prendere davvero sul serio) secondo cui le signore
+avrebbero potuto unire l'economia alla magnificenza se avessero tracciato
+leggeri disegni a gesso su un abito semplice per poi spolverarli via di
+nuovo.  Fondò la "Compagnia di Sartoria Fulminea di Smith", con due
+paraventi, un cartello di cartone e una scatola di gessetti morbidi e
+vivaci; e la signorina Diana gli gettò davvero un dismesso grembiule
+nero, o abito da lavoro, su cui esercitare i talenti di una modista.
+Egli le produsse prontamente una veste avvampante di girasoli rossi e
+d'oro; ella se la tenne un istante alle spalle, e pareva un'imperatrice.
+E Arthur Inglewood, alcune ore dopo, mentre puliva la bicicletta (con la
+sua solita aria di esservi inestricabilmente nascosto dentro), alzò lo
+sguardo; e il suo viso acceso si fece ancor più acceso, poiché Diana
+stava ridendo per un lampo sulla soglia, e la sua veste scura era ricca
+del verde e del porpora di grandi pavoni decorativi, come un giardino
+segreto delle "Mille e una notte."  Una fitta troppo rapida per essere
+chiamata dolore o piacere le trapassò--gli trapassò il cuore come uno
+spadino d'altri tempi.  Ricordava quanto graziosa l'avesse trovata anni
+prima, quando era pronto a innamorarsi di chiunque; ma era come ricordare
+l'adorazione di qualche principessa babilonese in qualche precedente
+esistenza.  Alla sua successiva visione di lei (e si sorprese ad
+attenderla), il gesso porpora e verde era spolverato via, ed ella passò
+in fretta nei suoi abiti da lavoro.
+
+Quanto alla signora Duke, nessuno che conoscesse quella matrona avrebbe
+potuto concepirla mentre resisteva attivamente a questa invasione che le
+aveva messo la casa sottosopra.  Ma tra gli osservatori più attenti si
+credeva seriamente che la cosa le piacesse.  Poiché era una di quelle
+donne che in fondo considerano tutti gli uomini ugualmente pazzi,
+animali selvatici di una specie del tutto a parte.  Ed è dubbio se ella
+vedesse davvero qualcosa di più eccentrico o inspiegabile nei picnic sui
+comignoli o nei girasoli cremisi di Smith che nelle sostanze chimiche di
+Inglewood o nei sardonici discorsi di Moon.  La cortesia, d'altro canto,
+è una cosa che chiunque può capire, e le maniere di Smith erano tanto
+cortesi quanto poco convenzionali.  Diceva che egli era "un vero
+gentiluomo", con che intendeva semplicemente un uomo di buon cuore, che
+è una cosa assai diversa.  Se ne stava seduta a capotavola con le grasse
+mani intrecciate e un grasso, ripiegato sorriso per ore e ore, mentre
+tutti gli altri parlavano tutti insieme.  Se non altro, l'unica altra
+eccezione era la compagna di Rosamund, Mary Gray, il cui silenzio era di
+tutt'altra e più ansiosa specie.  Benché non parlasse mai, sembrava
+sempre sul punto di parlare da un momento all'altro.  Forse è questa la
+vera definizione di una dama di compagnia.  Innocent Smith pareva
+gettarsi, come in altre avventure, nell'avventura di farla parlare.
+Non ci riusciva mai, eppure non veniva mai respinto; se otteneva
+qualcosa, era solo di attirare l'attenzione su questa quieta figura, e
+di trasformarla, sia pure di pochissimo, da una modestia in un mistero.
+Ma se era un enigma, tutti riconoscevano che era un enigma fresco e non
+guasto, come l'enigma del cielo e dei boschi a primavera.  Difatti,
+benché fosse un po' più grande delle altre due ragazze, aveva un ardore
+da primo mattino, una fresca serietà di giovinezza, che Rosamund pareva
+aver perduto nel mero spendere denaro, e Diana nel mero custodirlo.
+Smith la guardava e riguardava.  I suoi occhi e la sua bocca erano
+disposti nel viso nel modo sbagliato--che era in realtà il modo giusto.
+Aveva il dono di dire ogni cosa col viso:  il suo silenzio era una sorta
+di costante applauso.
+
 
 
 <span class="atom-split" data-atom="chapter_03--part_02" data-title="Manalive — Chapter 3 (part 2)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="motif/crown,motif/desire,motif/storm,motif/time,form/sonnet,character/michael"></span>
@@ -7570,6 +8422,127 @@ but we could collect enough ten-shilling bits from our own
 pockets to string round a man's head for half an hour;
 or one of Miss Hunt's gold bangles is nearly big enough to--"
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Ma tra gli esilaranti esperimenti di quella vacanza
+(che pareva più una vacanza d'una settimana che d'un giorno)
+uno ne svetta supremo, non perché fosse più sciocco
+o più riuscito degli altri, ma perché da questa
+particolare follia scaturirono tutti gli strani eventi che dovevano seguire.
+Tutti gli altri scherzi esplosero da sé, e lasciarono il vuoto;
+tutte le altre finzioni ritornarono su se stesse, e finirono
+come una canzone.  Ma la sequenza di eventi solidi e sorprendenti—
+che dovevano comprendere una carrozza da nolo, un investigatore, una pistola
+e una licenza di matrimonio—furono tutti resi possibili in primo luogo
+dallo scherzo sull'Alta Corte di Beacon.
+
+Era nata, non con Innocent Smith, ma con Michael Moon.  Era
+in uno strano ardore e in una strana concitazione di spirito, e parlava senza posa;
+eppure non era mai stato più sarcastico, e persino disumano.
+Adoperava la sua vecchia e inutile scienza d'avvocato per discorrere
+con brio d'un tribunale che era una parodia delle pompose
+anomalie del diritto inglese.  L'Alta Corte di Beacon, dichiarò,
+era uno splendido esempio della nostra libera e assennata costituzione.
+Era stata fondata da re Giovanni in spregio alla Magna Carta,
+e ora deteneva potere assoluto sui mulini a vento, sulle licenze di vino e liquori,
+sulle signore in viaggio in Turchia, sulla revisione delle sentenze per furto di cani
+e parricidio, oltre che su qualunque cosa accadesse nella città di
+Market Bosworth.  Tutti i centonove siniscalchi dell'Alta Corte
+di Beacon si riunivano una volta ogni quattro secoli; ma negli intervalli
+(come spiegava il signor Moon) tutti i poteri dell'istituzione erano riposti
+nella signora Duke.  Sballottata però tra i restanti della compagnia,
+l'Alta Corte non conservava la sua serietà storica e legale,
+ma veniva impiegata con una certa spregiudicatezza in un tripudio di dettagli domestici.
+Se qualcuno rovesciava la salsa Worcester sulla tovaglia, era certissimo
+che si trattava d'un rito senza il quale le sedute e i verdetti della Corte
+sarebbero stati invalidi; o se qualcuno voleva che una finestra restasse chiusa,
+si rammentava d'un tratto che nessuno tranne il terzogenito del signore
+del maniero di Penge aveva il diritto d'aprirla.  Giunsero persino
+al punto d'operare arresti e condurre inchieste criminali.
+Il proposto processo a Moses Gould per patriottismo era piuttosto
+al di sopra delle teste della compagnia, e specialmente del criminale;
+ma il processo a Inglewood con l'accusa di diffamazione fotografica,
+e la sua trionfale assoluzione per infermità mentale, furono ammessi
+come degni della migliore tradizione della Corte.
+
+Ma quando Smith era in vena selvaggia si faceva sempre più serio, non sempre
+più frivolo come Michael Moon.  Questa proposta d'una corte di giustizia privata,
+che Moon aveva buttato lì col distacco d'un umorista politico,
+Smith la raccolse davvero con l'ardore d'un filosofo astratto.
+Era di gran lunga la cosa migliore che potessero fare, dichiarò, rivendicare poteri
+sovrani perfino per il singolo focolare domestico.
+
+"Tu credi nell'autonomia per l'Irlanda; io credo nell'autonomia
+per le case," gridò con foga a Michael.  "Sarebbe meglio
+se ogni padre POTESSE uccidere il proprio figlio, come tra gli antichi Romani;
+sarebbe meglio, perché nessuno verrebbe ucciso.
+Emaniamo una Dichiarazione d'Indipendenza da Beacon House.
+Potremmo coltivare in quel giardino verdura a sufficienza per mantenerci,
+e quando viene l'esattore diciamogli che siamo autosufficienti,
+e innaffiamolo con la canna....  Be', forse, come dici tu,
+non potremmo davvero avere una canna, dato che l'acqua viene dall'acquedotto;
+ma potremmo scavare un pozzo in questo gesso, e molto si potrebbe
+fare con le brocche d'acqua....  Che questa sia davvero Beacon House.
+Accendiamo sul tetto un falò d'indipendenza, e vediamo casa
+dopo casa rispondergli attraverso la valle del Tamigi!  Diamo inizio
+alla Lega delle Famiglie Libere!  Abbasso il governo locale!  Un fico secco
+per il patriottismo locale!  Che ogni casa sia uno stato sovrano come questo,
+e giudichi i propri figli secondo la propria legge, come facciamo noi con la Corte
+di Beacon.  Tagliamo la fune, e cominciamo a essere felici insieme,
+come se fossimo su un'isola deserta."
+
+"La conosco quell'isola deserta," disse Michael Moon; "esiste
+soltanto nella ‘Famiglia Robinson svizzera.'  Un uomo prova uno strano
+[[Desire|desiderio]] d'una specie di latte vegetale, e crac, giù cade
+un'inattesa noce di cocco da qualche scimmia mai scoperta.
+Un letterato si sente incline a vergare un [[Sonnet|sonetto]], e subito
+un istrice ossequioso schizza fuori da un cespuglio e lancia
+uno dei suoi aculei."
+
+"Non dire una parola contro la ‘Famiglia Robinson svizzera,'"
+gridò Innocent con gran calore.  "Non sarà
+scienza esatta, ma è filosofia perfettamente esatta.
+Quando fai davvero naufragio, trovi davvero ciò che ti serve.
+Quando sei davvero su un'isola deserta, non la trovi mai deserta.
+Se fossimo davvero assediati in questo giardino, troveremmo cento
+uccelli inglesi e bacche inglesi che non sapevamo fossero qui.
+Se restassimo bloccati dalla neve in questa stanza, avremmo tutto da guadagnare a leggere
+decine di libri in quella libreria di cui ignoriamo perfino l'esistenza;
+faremmo conversazioni tra noi, buone, terribili conversazioni, che ci porteremmo
+nella tomba senza mai sospettarle; troveremmo materiali per ogni cosa—
+battesimo, matrimonio o funerale; sì, persino per un'incoronazione—
+se non decidessimo di essere una repubblica."
+
+"Un'incoronazione secondo i canoni della ‘Famiglia Robinson,' immagino," disse [[Michael]], ridendo.
+"Oh, lo so che troveresti ogni cosa in quell'atmosfera.  Se volessimo
+una cosa tanto semplice, per esempio, come un Baldacchino d'Incoronazione, dovremmo
+scendere oltre i gerani e trovare l'Albero del Baldacchino in piena fioritura.
+Se volessimo un'inezia come una [[Crown|corona]] d'oro, ebbene, staremmo
+a estirpare denti di leone, e troveremmo una miniera d'oro sotto il prato.
+E quando volessimo l'olio per la cerimonia, be', immagino che una gran [[Storm|tempesta]]
+riverserebbe ogni cosa sulla riva, e scopriremmo che c'è una Balena
+nella proprietà."
+
+"E infatti C'È una balena nella proprietà, per quel che ne sai,"
+asseverò [[smith|Smith]], battendo il tavolo con passione.
+"Scommetto che non hai mai esaminato la proprietà!  Scommetto che non sei
+mai stato dietro come ci sono stato io stamattina—
+perché ho trovato proprio la cosa che tu dici potrebbe crescere solo su un albero.
+C'è una vecchia tenda quadrata addossata al bidone della spazzatura;
+ha tre buchi nella tela, e un palo spezzato,
+sicché non serve granché come tenda, ma come Baldacchino—" E la sua
+voce gli venne del tutto meno per esprimerne la fulgida adeguatezza;
+poi proseguì con ardore polemico:  "Vedi, io
+raccolgo ogni sfida come tu la lanci.  Credo che ogni benedetta
+cosa che tu dici non potrebbe essere qui sia stata qui da sempre, per tutto il [[Time|tempo]].
+Dici che vuoi una balena spiaggiata per l'olio.  Ebbene, c'è olio
+in quel portaampolle al tuo gomito; e non credo
+che nessuno l'abbia toccato o ci abbia pensato per anni.
+E quanto alla tua [[Crown|corona]] d'oro, nessuno di noi qui è ricco,
+ma potremmo raccogliere abbastanza monete da dieci scellini dalle nostre stesse
+tasche da infilarne una fila attorno alla testa d'un uomo per mezz'ora;
+oppure uno dei braccialetti d'oro della signorina Hunt è quasi abbastanza grande da—"
 
 
 
@@ -7704,6 +8677,133 @@ some seconds, and then stepped back with an ironical bow.
 An [[Allegory|allegory]], shall we say? a social [[Satire|satire]]."
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+La bonaria Rosamund quasi soffocava dalle risa.
+"Non è tutto oro quel che luccica," disse, "e per giunta—"
+
+"Che errore è mai questo!" gridò [[Innocent]] [[smith|Smith]],
+balzando in piedi in gran fervore.  "Tutto è oro quel che luccica—
+specialmente ora che siamo uno Stato Sovrano.  A che serve
+uno Stato Sovrano se non sai definire un sovrano?
+Possiamo fare di qualunque cosa un metallo prezioso, come gli uomini potevano nel mattino
+del mondo.  Non scelsero l'oro perché era raro;
+i vostri scienziati sanno indicarvi venti tipi di melma assai più rari.
+Scelsero l'oro perché era splendente—perché era
+una cosa difficile da trovare, ma graziosa una volta trovata.
+Non puoi combattere con spade d'oro né mangiare biscotti d'oro;
+puoi soltanto guardarlo—e puoi guardarlo qui fuori."
+
+Con uno dei suoi moti incalcolabili balzò indietro e spalancò
+le porte sul [[Garden|giardino]].  Nel medesimo [[Time|tempo]], anche, con uno dei suoi
+gesti che nell'istante non sembravano mai tanto anticonvenzionali quanto erano,
+tese la mano a Mary Gray, e la condusse fuori sul prato
+come per una [[Dance|danza]].
+
+Le portefinestre, così spalancate, lasciarono entrare una sera ancor più bella di quella
+del giorno prima.  Il ponente nuotava in colori sanguigni, e una sorta
+di fiamma sonnolenta giaceva lungo il prato.  Le ombre contorte dei due o tre
+alberi del [[Garden|giardino]] si stagliavano su quel bagliore, non grigie o nere, come nella luce comune del giorno,
+ma come arabeschi vergati in vivido inchiostro violetto su qualche pagina d'oro d'Oriente.
+Il tramonto era una di quelle conflagrazioni festose e insieme misteriose in cui
+le cose comuni, coi loro colori, ci rammentano cose costose o curiose.
+Le ardesie sul tetto spiovente ardevano come le penne d'un vasto pavone,
+in ogni misteriosa fusione d'azzurro e verde.  I mattoni rosso-bruni del
+muro rilucevano di tutte le tinte d'ottobre dei vini forti, rubino e fulvi.
+Il sole pareva incendiare ogni oggetto d'una fiamma di diverso colore,
+come un uomo che accende fuochi d'artificio; e persino i capelli di [[Innocent]], che erano d'un biondo
+piuttosto scialbo, parevano avere sopra una fiamma d'oro pagano mentre attraversava a gran passi
+il prato verso l'unico alto crinale della roccaglia.
+
+"Che pro avrebbe l'oro," diceva, "se non luccicasse?
+Perché dovremmo tenere a un sovrano nero più che a un
+sole nero a [[Noon|mezzogiorno]]?  Un bottone nero servirebbe altrettanto [[Well|bene]].
+Non vedi che ogni cosa in questo [[Garden|giardino]] sembra un [[Jewel|gioiello]]?
+E vuoi cortesemente dirmi a che diamine serve un [[Jewel|gioiello]]
+se non a sembrare un [[Jewel|gioiello]]?  Smettila di comprare e vendere,
+e comincia a guardare!  Apri gli occhi, e ti sveglierai
+nella Nuova Gerusalemme.
+
+"Tutto è oro quel che luccica—
+Albero e torre d'ottone;
+Rotola l'aria dorata della sera
+Giù per l'erba dorata.
+Scaccia il grido a Gerico,
+Come si vende il fango giallo;
+Tutto è oro quel che luccica,
+Perché il luccichio è l'oro."
+
+"E chi l'ha scritta?" chiese Rosamund, divertita.
+
+"Nessuno la scriverà mai," rispose [[smith|Smith]], e superò la roccaglia
+con un balzo volante.
+
+"Davvero," disse Rosamund a [[Michael]] [[Moon]], "bisognerebbe mandarlo in manicomio.
+Non credi?"
+
+"Chiedo scusa," domandò [[Michael]], piuttosto cupo; la sua lunga
+testa bruna era scura contro il tramonto, e, per caso o per umore,
+aveva l'aria di qualcosa d'isolato e persino d'ostile in mezzo alla sociale
+stravaganza del [[Garden|giardino]].
+
+"Ho solo detto che il signor [[smith|Smith]] dovrebbe andare in manicomio," ripeté la signora.
+
+Il viso scarno pareva farsi sempre più lungo, perché [[Moon]]
+sogghignava inequivocabilmente.  "No," disse; "non credo
+sia affatto necessario."
+
+"Che vuoi dire?" chiese Rosamund in fretta.  "Perché no?"
+
+"Perché ci si trova già," rispose [[Michael]] [[Moon]], con voce sommessa ma sgradevole.  "Come, non lo sapevi?"
+
+"Cosa?" gridò la ragazza, e ci fu un'incrinatura nella sua voce;
+perché il viso e la voce dell'irlandese erano davvero quasi raccapriccianti.
+Con la sua figura scura e i suoi cupi detti in tutto quel sole
+sembrava il diavolo in paradiso.
+
+"Mi dispiace," proseguì, con una sorta d'aspra [[Humility|umiltà]].
+"Naturalmente non ne parliamo molto... ma pensavo che
+lo sapessimo tutti, in fondo."
+
+"Sapessimo cosa?"
+
+"[[Well|Ebbene]]," rispose [[Moon]], "che Beacon [[house|House]] è una [[house|casa]] d'un tipo piuttosto singolare—una [[house|casa]] con le tegole smosse, diciamo così?  [[Innocent]] [[smith|Smith]]
+è soltanto il medico che ci visita; non eri arrivata quando venne l'altra volta?
+Poiché i nostri mali sono per lo più malinconici, egli deve naturalmente essere di più che allegra compagnia.
+[[Sanity|La sanità mentale]], naturalmente, ci pare una cosa oltremodo presuntuosa ed eccentrica.
+Saltare un muro, arrampicarsi su un albero—questo è il suo modo di stare al capezzale."
+
+"Non oserai dire una cosa simile!" gridò Rosamund in collera.
+"Non oserai insinuare che io—"
+
+"Non più di quanto lo sia io," disse [[Michael]] in tono rassicurante; "non più del resto di noi.
+Non hai mai notato che la signorina Duke non sta mai ferma—un segno notorio?
+Non hai mai osservato che Inglewood si lava di continuo le mani—
+un marchio riconosciuto di malattia mentale?  Io, naturalmente, sono un dipsomane."
+
+"Non ti credo," proruppe la sua compagna, non senza agitazione.
+"Ho sentito dire che avevi qualche cattiva abitudine—"
+
+"Tutte le abitudini sono cattive abitudini," disse [[Michael]], con calma mortale.
+"[[Madness|La follia]] non viene dallo sfogarsi, ma dal cedere; dall'adagiarsi
+in qualche sudicio, angusto cerchio d'idee che si ripete su se stesso; dal lasciarsi addomesticare.
+TU sei impazzita per il denaro, perché sei un'ereditiera."
+
+"È una menzogna," gridò Rosamund furibonda.  "Non sono mai stata gretta col denaro."
+
+"Sei stata peggio," disse [[Michael]], a voce bassa eppure violenta.
+"Pensavi che lo fossero gli altri.  Pensavi che ogni uomo che ti si avvicinava
+dovesse essere un cacciatore di dote; non ti sei lasciata andare a essere sana;
+e ora sei pazza e io sono pazzo, e ci sta bene."
+
+"Bruto!" disse Rosamund, del tutto pallida.  "E questo è vero?"
+
+Con la crudeltà intellettuale di cui il Celta è capace
+quando i suoi abissi sono in rivolta, [[Michael]] tacque per
+alcuni secondi, poi indietreggiò con un inchino ironico.
+"Non letteralmente vero, certo," disse; "solo davvero vero.
+Un'[[Allegory|allegoria]], diciamo così? una [[Satire|satira]] sociale."
+
 
 
 <span class="atom-split" data-atom="chapter_03--part_04" data-title="Manalive — Chapter 3 (part 4)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="archetype/innocent,motif/garden,motif/machine,motif/road,motif/time,motif/well,motif/window,concept/wonder,character/arthur,character/diana,character/michael,character/speed"></span>
@@ -7793,6 +8893,92 @@ but beyond the hedge and railings, in the [[Road|road]] outside
 the [[Garden|garden]] gate, a hansom cab was waiting, with the yellow
 Gladstone bag on top of it.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+"E io odio e disprezzo le tue satire," gridò Rosamund Hunt,
+scatenando tutta la sua vigorosa personalità femminile come un ciclone,
+e pronunciando ogni parola per ferire.  "Le disprezzo come disprezzo
+il tuo tabacco rancido, e i tuoi modi sciatti e indolenti, e il tuo ringhiare,
+e il tuo radicalismo, e i tuoi vestiti logori, e il tuo insignificante
+giornaletto, e il tuo marcio fallimento in ogni cosa.
+Non m'importa se lo chiami snobismo o no, a me piacciono
+la vita e il [[success|successo]], e le cose allegre da guardare, e l'azione.
+Non mi spaventerai con Diogene; io preferisco Alessandro."
+
+"Victrix causa deae—" disse [[Michael]] tetro; e questo la fece
+adirare ancor di più poiché, non sapendo cosa significasse, lo immaginò
+arguto.
+
+"Oh, immagino che tu sappia il greco," disse, con allegra imprecisione;
+"non ne hai cavato granché neanche da quello."  E attraversò il [[Garden|giardino]],
+inseguendo lo scomparso [[Innocent]] e Mary.
+
+Nel far ciò passò accanto a Inglewood, che rientrava in [[house|casa]] lentamente,
+con la fronte annuvolata dai pensieri.  Era uno di quegli uomini che sono
+del tutto intelligenti, ma tutt'altro che svelti.  Mentre rientrava
+dal [[Garden|giardino]] al tramonto nel crepuscolare salotto, [[Diana]] Duke
+si rizzò svelta in piedi e cominciò a sparecchiare il servizio da tè.
+Ma non prima che Inglewood avesse colto un'immagine istantanea tanto singolare
+che avrebbe [[Well|ben]] potuto fissarla con la sua eterna macchina fotografica.
+Perché [[Diana]] era rimasta seduta davanti al suo lavoro incompiuto col mento
+sulla mano, guardando fuori dritto dalla [[Window|finestra]], in puro pensiero spensierato.
+
+"Sei occupata," disse [[arthur|Arthur]], stranamente imbarazzato da ciò che aveva visto,
+e desideroso d'ignorarlo.
+
+"Non c'è [[Time|tempo]] per sognare in questo mondo," rispose la giovane
+dandogli le spalle.
+
+"Ultimamente ho pensato," disse Inglewood a voce bassa,
+"che non c'è [[Time|tempo]] per svegliarsi."
+
+Lei non rispose, ed egli si accostò alla [[Window|finestra]] e guardò fuori sul [[Garden|giardino]].
+
+"Non fumo né bevo, sai," disse a sproposito,
+"perché li ritengo droghe.  Eppure sospetto che tutti gli svaghi,
+come la mia macchina fotografica e la bicicletta, siano droghe anch'essi.
+Infilarsi sotto un panno nero, entrare in una camera oscura—cacciarsi in un buco, insomma.
+Drogarmi di [[Speed|velocità]], e di sole, e di stanchezza, e d'aria fresca.
+Pedalare sulla [[Machine|macchina]] così in fretta da trasformarmi io stesso in una [[Machine|macchina]].
+È questo che ci affligge tutti.  Siamo troppo occupati per svegliarci."
+
+"[[Well|Ebbene]]," disse la ragazza con fermezza, "a che cosa c'è da svegliarsi?"
+
+"Dev'esserci qualcosa!" gridò Inglewood, voltandosi con singolare
+eccitazione—"dev'esserci qualcosa a cui svegliarsi!
+Tutto ciò che facciamo sono preparativi—la tua pulizia, e la mia salute,
+e gli apparecchi scientifici di Warner.  Ci prepariamo sempre
+per qualcosa—qualcosa che non si compie mai.  Io arieggio
+la [[house|casa]], e tu spazzi la [[house|casa]]; ma che cosa deve mai ACCADERE
+in questa casa?"
+
+Lei lo guardava tranquilla, ma con occhi lucidissimi,
+e pareva cercare qualche forma di parole che non
+riusciva a trovare.
+
+Prima che potesse parlare la porta si spalancò, e la chiassosa Rosamund Hunt,
+col suo sgargiante cappello bianco, il boa e il parasole, apparve incorniciata sulla soglia.
+Era ansante per il caldo, e sul viso aperto aveva un'espressione
+del più infantile stupore.
+
+"[[Well|Ebbene]], che bella storia!" disse, ansimando.  "Che cosa devo fare ora,
+mi [[Wonder|domando]]?  Ho telegrafato al dottor Warner; è tutto ciò che mi viene in mente di fare."
+
+"Che cosa c'è?" chiese [[Diana]], piuttosto secca, ma facendosi
+avanti come chi è avvezza a essere chiamata in aiuto.
+
+"È Mary," disse l'ereditiera, "la mia dama di compagnia Mary Gray:
+quel tuo amico svitato di nome [[smith|Smith]] le ha fatto la proposta di matrimonio
+nel [[Garden|giardino]], dopo dieci ore di conoscenza, e vuole
+partire con lei sùbito per una licenza speciale."
+
+[[arthur|Arthur]] Inglewood si accostò alle portefinestre aperte e guardò
+fuori sul [[Garden|giardino]], ancora dorato dalla luce della sera.
+Nulla vi si muoveva tranne un uccello o due che saltellavano e cinguettavano;
+ma oltre la siepe e la cancellata, nella [[Road|strada]] fuori
+dal cancello del [[Garden|giardino]], una carrozza da nolo attendeva, con la gialla
+borsa Gladstone in cima.
 
 
 
@@ -8134,6 +9320,124 @@ Silently as they strolled and stood they were bursting like
 batteries with an animal magnetism.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+"[[Michael]]," disse la signorina Hunt, con voce assai dolce, "se non parlerai tanto,
+ti sposerò."
+
+"Non è [[Time|tempo]] di parlare," gridò [[Michael]] [[Moon]]; "cantare è l'unica cosa.
+Non riesci a trovare quel tuo mandolino, Rosamund?"
+
+"Va' a prendermelo," disse Rosamund, con secca e tagliente autorità.
+
+L'indolente signor [[Moon]] restò per una frazione di secondo attonito;
+poi schizzò via attraverso il prato, come calzato con le scarpe
+alate della fiaba greca.  Superò tre metri
+e quindici margherite d'un balzo, per pura leggerezza corporea;
+ma quando giunse a un metro o due dalle finestre aperte del salotto,
+i suoi piedi volanti ricaddero al loro vecchio modo come piombo;
+si girò e tornò indietro lentamente, fischiettando.  Gli eventi
+di quell'incantata serata non erano giunti al termine.
+
+Dentro l'oscuro salottino di cui [[Moon]] aveva colto una fugace visione era accaduta
+una cosa curiosa, quasi un istante dopo l'intemperante uscita
+di Rosamund.  Era qualcosa che, accadendo in quell'oscuro salotto,
+parve a [[arthur|Arthur]] Inglewood come il cielo e la terra che si capovolgono a testa in giù,
+col mare per soffitto e le [[Stars|stelle]] per pavimento.  Nessuna parola può esprimere
+quanto lo stupì, come stupisce tutti gli uomini semplici quando accade.
+Eppure il più rigido stoicismo femminile ne è separato solo da un foglio di
+carta o da una lamina d'acciaio.  Non indica alcuna resa, tanto meno alcuna simpatia.
+La donna più rigida e spietata può mettersi a piangere, proprio come l'uomo più
+effeminato può farsi crescere la barba.  È un potere sessuale a sé,
+e non prova nulla, in un senso o nell'altro, sulla forza del carattere.
+Ma per i giovani ignari delle donne, come [[arthur|Arthur]] Inglewood, vedere [[Diana]] Duke
+piangere fu come vedere un'automobile versare [[Tears|lacrime]] di benzina.
+
+Non avrebbe mai potuto rendere (anche se il suo pudore davvero virile glielo avesse permesso)
+la benché minima visione di ciò che fece nel vedere quel portento.  Agì
+come agiscono gli uomini quando un teatro prende [[Fire|fuoco]]—molto diversamente da come
+si sarebbero immaginati d'agire, in meglio o in peggio.
+Ebbe un vago [[Memory|ricordo]] di certe spiegazioni mezzo soffocate, che l'ereditiera
+era l'unica vera pensionante pagante, e sarebbe andata via, e gli ufficiali giudiziari
+(di conseguenza) sarebbero venuti; ma oltre a ciò non seppe nulla della propria
+condotta se non dalle proteste che essa suscitò.
+
+"Lasciami [[Alone|sola]], signor Inglewood—lasciami [[Alone|sola]]; non è così che si aiuta."
+
+"Ma io posso aiutarti," disse [[arthur|Arthur]], con incrollabile certezza;
+"posso, posso, posso..."
+
+"Ma se hai detto," gridò la ragazza, "che eri molto più debole di me."
+
+"È vero, sono più debole di te," disse [[arthur|Arthur]], con voce che andava
+vibrando attraverso ogni cosa, "ma non proprio adesso."
+
+"Lasciami le mani!" gridò [[Diana]].  "Non voglio essere sopraffatta."
+
+In un elemento egli era molto più forte di lei—la questione dell'[[Humour|umorismo]].
+Questo balzò in lui d'improvviso, ed egli rise, dicendo:  "[[Well|Ebbene]], sei crudele.
+Sai benissimo che mi sopraffarai per tutto il resto della mia vita.
+Potresti concedere a un uomo l'unico minuto della sua vita in cui gli è permesso sopraffare."
+
+Fu tanto straordinario per lui ridere quanto per lei piangere,
+e per la prima volta dalla sua [[Childhood|infanzia]] [[Diana]] fu del tutto
+priva di difese.
+
+"Vuoi dire che vuoi sposarmi?" disse.
+
+"Come, c'è una carrozza alla porta!" gridò Inglewood, balzando in piedi
+con un'inconsapevole energia e spalancando le porte a vetri
+che davano sul [[Garden|giardino]].
+
+Mentre la conduceva fuori per mano si resero conto in qualche modo per la prima [[Time|volta]]
+che la [[house|casa]] e il [[Garden|giardino]] sorgevano su un'erta altura sopra [[London|Londra]].  Eppure,
+sebbene sentissero il luogo elevato, lo sentivano anche segreto:
+era come un [[Garden|giardino]] cinto di mura sulla cima d'una delle
+torri del cielo.
+
+Inglewood si guardò intorno trasognato, i suoi occhi bruni divorando
+ogni sorta di dettagli con un insensato diletto.  Notò per
+la prima [[Time|volta]] che la cancellata del cancello oltre i cespugli del [[Garden|giardino]]
+era foggiata come piccole punte di lancia e dipinta d'azzurro.
+Notò che una delle azzurre lance s'era allentata nel suo posto,
+e pendeva di traverso; e questo per poco non lo fece ridere.  Trovava
+in qualche modo squisitamente innocuo e buffo che la cancellata fosse
+storta; pensò che gli sarebbe piaciuto sapere com'era accaduto,
+chi l'aveva fatto, e come se la passava quell'uomo.
+
+Quando furono a pochi passi attraverso quell'erba infuocata si accorsero
+di non essere [[Alone|soli]].  Rosamund Hunt e l'eccentrico signor [[Moon]],
+che entrambi avevano visto per l'ultima volta nel più nero umore di distacco,
+stavano insieme sul prato.  Stavano in maniera del tutto
+ordinaria, eppure sembravano in qualche modo persone di un libro.
+
+"Oh," disse [[Diana]], "che aria deliziosa!"
+
+"Lo so," esclamò Rosamund, con un piacere così assoluto
+che risuonò come un lamento.  "È proprio come quell'orrenda,
+bestiale roba frizzante che mi diedero e che mi fece sentire felice."
+
+"Oh, non è come nient'altro che se stessa!" rispose [[Diana]], respirando profondamente.
+"Come, è tutta fredda, eppure sembra [[Fire|fuoco]]."
+
+"'Balsamica' è la parola che usiamo in Fleet Street,"
+disse il signor [[Moon]].  "Balsamica—specie sulla focaccina."
+E si sventolò del tutto inutilmente col suo cappello di paglia.
+Erano tutti pieni di piccoli balzi e pulsazioni d'una energia
+senza scopo e leggera.  [[Diana]] si mosse e tese le lunghe braccia rigide,
+come crocifissa, in una sorta di straziante riposo;
+[[Michael]] restava immobile per lunghi intervalli, coi muscoli raccolti,
+poi ruotava su se stesso come una trottola, e restava di nuovo immobile;
+Rosamund non incespicò, perché le donne non incespicano mai, tranne quando
+cadono sul naso, ma batteva il suolo col piede
+mentre si muoveva, come su qualche inudibile aria di [[Dance|danza]]; e Inglewood,
+appoggiato del tutto quietamente a un albero, aveva inconsapevolmente
+afferrato un ramo e l'aveva scosso con una violenza creatrice.
+Quei giganteschi gesti dell'Uomo, che eressero le alte statue
+e vibrarono i colpi di guerra, agitavano e tormentavano tutte le loro membra.
+Silenziosi mentre passeggiavano e sostavano, prorompevano come
+batterie di un magnetismo animale.
+
 
 
 <span class="atom-split" data-atom="chapter_04--part_03" data-title="Manalive — Chapter 4 (part 3)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="archetype/child,motif/dance,motif/garden,motif/grave,motif/hill,motif/memory,motif/moon,motif/night,motif/time,concept/truth,concept/wonder,setting/london,character/arthur,character/diana,character/michael"></span>
@@ -8275,6 +9579,143 @@ old schoolfellows.  He is the endless bun-eating, ball-throwing
 animal that we have all been."
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+"E ora," gridò [[Moon]] d'un tratto, tendendo una mano per parte,
+"[[Dance|danziamo]] attorno a quel cespuglio!"
+
+"Come, quale cespuglio intendi?" chiese Rosamund, guardandosi intorno con una sorta
+di raggiante sfrontatezza.
+
+"Il cespuglio che non c'è," disse [[Michael]]—"il Cespuglio di Gelso."
+
+Si erano presi per mano, mezzo ridendo e del tutto ritualmente;
+e prima che potessero staccarsi di nuovo [[Michael]] li fece girare tutti,
+come un demone che fa girare il mondo per trottola.  [[Diana]] sentì, mentre il cerchio
+dell'orizzonte le volava all'istante attorno, un lontano senso aereo dell'anello
+d'alture oltre [[London|Londra]] e degli anfratti dove s'era arrampicata da [[Child|bambina]];
+le parve quasi d'udire le cornacchie gracchiare tra i vecchi pini di Highgate,
+o di vedere le lucciole radunarsi e accendersi nei boschi di Box [[Hill]].
+
+Il cerchio si spezzò—come devono spezzarsi tutti quei perfetti cerchi di leggerezza—
+e scagliò il suo autore, [[Michael]], via, come per forza centrifuga, lontano
+contro le azzurre sbarre del cancello.  Vacillando là d'improvviso
+levò grido dopo grido di carattere nuovo e affatto drammatico.
+
+"Come, è Warner!" gridò, agitando le braccia.  "È il caro vecchio Warner—
+con un nuovo cappello di seta e i vecchi baffi di seta!"
+
+"È il dottor Warner?" gridò Rosamund, balzando avanti in un
+impeto di [[Memory|ricordi]], divertimento e sgomento.  "Oh, mi dispiace tanto!
+Oh, ditegli che va tutto bene!"
+
+"Prendiamoci per mano e diciamoglielo," disse [[Michael]] [[Moon]].  Perché in effetti,
+mentre parlavano, un'altra carrozza da nolo era arrivata di gran carriera dietro
+quella già in attesa, e il dottor Herbert Warner, lasciando un compagno
+nella carrozza, si era accuratamente deposto sul selciato.
+
+Ora, quando sei un eminente medico e vieni chiamato per telegramma da
+un'ereditiera per un caso di pericolosa mania, e quando,
+mentre entri attraverso il [[Garden|giardino]] verso la [[house|casa]], l'ereditiera
+e la sua padrona di casa e due dei signori pensionanti si prendono per mano
+e [[Dance|danzano]] attorno a te in cerchio, gridando: "Va tutto bene! va
+tutto bene!" sei facilmente turbato e persino contrariato.
+Il dottor Warner era una persona placida ma tutt'altro che placabile.
+Le due cose non sono affatto la stessa; e persino quando [[Moon]] gli spiegò
+che egli, Warner, col suo alto cappello e la figura alta e solida,
+era proprio quella classica figura che DOVREBBE essere danzata intorno
+da un cerchio di fanciulle ridenti su qualche antica dorata spiaggia greca—
+persino allora egli parve non cogliere il senso del generale giubilo.
+
+"Inglewood!" gridò il dottor Warner, fissando il suo antico discepolo con uno sguardo,
+"sei impazzito?"
+
+[[arthur|Arthur]] arrossì fino alla radice dei capelli bruni, ma rispose,
+con abbastanza scioltezza e calma, "Non ora.  La [[Truth|verità]] è, Warner, che ho appena
+fatto una scoperta medica piuttosto importante—proprio nel tuo campo."
+
+"Che cosa vuoi dire?" chiese il grande dottore rigidamente—"quale scoperta?"
+
+"Ho scoperto che la salute è davvero contagiosa, come la malattia,"
+rispose [[arthur|Arthur]].
+
+"Sì; la [[Sanity|sanità mentale]] è scoppiata, e si sta diffondendo," disse [[Michael]],
+eseguendo un ~pas seul~ con espressione pensosa.
+"Ventimila casi in più portati agli ospedali;
+infermiere impiegate [[Night|notte]] e giorno."
+
+Il dottor Warner studiò il [[Grave|grave]] volto di [[Michael]] e le gambe che si muovevano
+leggere con un'insondabile [[Wonder|meraviglia]].  "E questa, posso chiedere,"
+disse, "è la [[Sanity|sanità mentale]] che si sta diffondendo?"
+
+"Dovete perdonarmi, dottor Warner," gridò Rosamund Hunt con calore.
+"So d'avervi trattato male; ma davvero è stato tutto un equivoco.
+Ero d'un umore spaventosamente pessimo quando vi ho mandato a chiamare, ma ora
+tutto sembra [[A Dream|un sogno]]—e e il signor [[smith|Smith]] è la più dolce,
+la più assennata, la più deliziosa vecchia creatura che sia mai esistita,
+e può sposare chiunque gli piaccia—tranne me."
+
+"Suggerirei la signora Duke," disse [[Michael]].
+
+La gravità del volto del dottor Warner s'accrebbe.  Prese un foglietto
+di carta rosa dal taschino del panciotto, coi suoi pallidi
+occhi azzurri fissi quietamente sul volto di Rosamund per tutto il [[Time|tempo]].
+Parlò con una frigidità non ingiustificabile.
+
+"Davvero, signorina Hunt," disse, "non è ancora molto rassicurante.
+Mi avete mandato questo telegramma appena mezz'ora fa:  ‘Venite subito,
+se possibile, con un altro medico.  Un uomo—Innocent Smith—impazzito
+in casa, e sta facendo cose spaventose.  Sapete qualcosa di lui?'
+Sono andato subito da un mio illustre collega, un medico
+che è anche investigatore privato e un'autorità in fatto di follia criminale;
+è venuto con me, e attende nella carrozza.  Ora voi tranquillamente
+mi dite che questo pazzo criminale è una dolcissima e sanissima vecchia creatura,
+con contorni che mi fanno riflettere sulla vostra personale definizione di sanità mentale.
+Faccio fatica a comprendere il mutamento."
+
+"Oh, come si può spiegare un mutamento nel sole e nella luna e nell'anima di ciascuno?"
+gridò Rosamund, disperata.  "Devo confessare che eravamo diventati così morbosi
+da crederlo pazzo solo perché voleva sposarsi; e che noi
+non sapevamo neppure che era soltanto perché volevamo sposarci noi stessi?
+Ci umilieremo, se volete, dottore; siamo abbastanza felici."
+
+"Dov'è il signor Smith?" chiese Warner a Inglewood, molto secco.
+
+Arthur trasalì; aveva del tutto dimenticato la figura centrale della loro farsa,
+che non si vedeva da un'ora o più.
+
+"Io—credo che sia dall'altro lato della casa, presso il bidone della spazzatura," disse.
+
+"Potrebbe essere sulla via della Russia," disse Warner, "ma dev'essere trovato."
+E si allontanò a gran passi e scomparve dietro un angolo della casa
+presso i girasoli.
+
+"Spero," disse Rosamund, "che non interferisca davvero col signor Smith."
+
+"Interferire con le margherite!" disse Michael con uno sbuffo.
+"Un uomo non può essere rinchiuso per essersi innamorato—almeno
+spero di no."
+
+"No; credo che neppure un medico potrebbe cavarne una malattia.
+Si scrollerebbe di dosso il medico come la malattia, non trovi?
+Credo sia un caso d'una sorta di sacro pozzo.  Credo che Innocent Smith
+sia semplicemente innocente, ed è per questo che è così straordinario."
+
+Fu Rosamund a parlare, tracciando irrequieta cerchi nell'erba
+con la punta della sua scarpa bianca.
+
+"Io credo," disse Inglewood, "che Smith non sia affatto straordinario.
+È comico proprio perché è così sorprendentemente comune.
+Non sai cos'è essere tutti una cerchia familiare, con zie
+e zii, quando uno scolaro torna a casa per le vacanze?
+Quella borsa là sulla carrozza è solo il paniere d'uno scolaro.
+Quest'albero qui nel giardino è solo il tipo d'albero su cui qualunque
+scolaro si sarebbe arrampicato.  Sì, è questo che ci ha
+ossessionati in lui, la cosa a cui non riuscivamo mai a dare un nome.
+Che sia o no il mio vecchio compagno di scuola, egli è quantomeno tutti i miei
+vecchi compagni di scuola.  È l'infinito animale che mangia focacce e lancia palle
+che siamo stati tutti noi."
+
 
 
 <span class="atom-split" data-atom="chapter_04--part_04" data-title="Manalive — Chapter 4 (part 4)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="archetype/innocent,motif/swords_and_weapons,concept/innocence_and_experience,concept/appearance_vs_reality,character/innocent_smith,character/michael_moon,character/dr_warner,character/arthur_inglewood,character/dr_cyrus_pym,character/rosamund_hunt"></span>
@@ -8403,6 +9844,130 @@ but he continued to lean on it without moving, with his face turned
 away towards the darkening road.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+"Questo vale solo per voi assurdi ragazzi," disse Diana.  "Non credo
+che nessuna ragazza sia mai stata così sciocca, e sono certa che nessuna ragazza
+sia mai stata così felice, tranne—" e si fermò.
+
+"Vi dirò la verità su Innocent Smith," disse Michael Moon a
+voce bassa.  "Il dottor Warner è andato a cercarlo invano.  Non è là.
+Non avete notato che non l'abbiamo più visto da quando abbiamo ritrovato noi stessi?
+Era un bimbo astrale nato da tutti e quattro noi; era soltanto la nostra stessa
+giovinezza tornata.  Molto prima che il povero vecchio Warner scendesse a fatica dalla sua carrozza,
+la cosa che chiamavamo Smith s'era dissolta in rugiada e luce su questo prato.
+Una volta o due ancora, per grazia di Dio, potremo sentire la cosa,
+ma l'uomo non lo vedremo mai più.  In un giardino di primavera prima di colazione
+sentiremo l'odore chiamato Smith.  Nello schiocco di ramoscelli vivaci
+in minuscoli fuochi udremo un suono di nome Smith.  Tutto ciò che è insaziabile
+e innocente nelle erbe che divorano la terra come bimbi a una merenda di focacce,
+nelle bianche mattine che spaccano il cielo come un ragazzo spacca il bianco legno d'abete,
+potremo per un istante sentire la presenza d'una impetuosa purezza;
+ma la sua innocenza era troppo prossima all'inconsapevolezza delle cose inanimate
+per non fondersi di nuovo, a un semplice tocco, nelle miti siepi e nei cieli; egli—"
+
+Fu interrotto da dietro la casa da un fragore come quello d'una bomba.
+Quasi nel medesimo istante lo sconosciuto nella carrozza ne balzò fuori,
+lasciandola oscillare sulle pietre della strada.  Afferrò l'azzurra cancellata
+del giardino, e vi sbirciò avidamente al di sopra nella direzione del rumore.
+Era un uomo piccolo, sciolto, eppure guardingo, magrissimo, con un volto che pareva
+fatto di lische di pesce, e un cappello di seta rigido e sfolgorante
+quanto quello di Warner, ma spinto all'indietro sconsideratamente sulla nuca.
+
+"All'assassino!" strillò, con voce acuta e femminea ma assai penetrante.
+"Fermate quell'assassino!"
+
+Proprio mentre strillava un secondo sparo scosse le finestre inferiori
+della casa, e col rumore di esso il dottor Herbert Warner venne
+volando dietro l'angolo come un coniglio in fuga.  Eppure prima
+che avesse raggiunto il gruppo una terza detonazione li assordò,
+ed essi videro coi propri occhi due macchie di cielo bianco trapassare
+il secondo degli alti cappelli dell'infelice Herbert.
+L'attimo dopo il medico fuggiasco inciampò in un vaso di fiori,
+e cadde a quattro zampe, con lo sguardo fisso come una vacca.  Il cappello coi
+due fori di proiettile rotolò sul sentiero di ghiaia davanti a lui,
+e Innocent Smith girò l'angolo come un treno.
+Sembrava grande il doppio del suo naturale—un gigante vestito di verde,
+il grosso revolver ancora fumante in mano, il volto sanguigno
+e in ombra, gli occhi fiammeggianti come tutte le stelle, e i suoi gialli
+capelli ritti in ogni direzione come quelli di Struwelpeter.
+
+Sebbene questa sconvolgente scena rimanesse sospesa solo un istante nell'immobilità,
+Inglewood ebbe il tempo di sentire ancora una volta ciò che aveva sentito quando
+aveva visto gli altri innamorati stare sul prato—la sensazione
+d'una certa nettezza incisa e colorata che appartiene piuttosto
+alle cose dell'arte che alle cose dell'esperienza.
+Il vaso di fiori spezzato coi suoi gerani incandescenti, la verde
+mole di Smith e la nera mole di Warner, la cancellata dalle azzurre punte
+dietro, ghermita dai gialli artigli d'avvoltoio dello sconosciuto
+e sovrastata dal suo lungo collo d'avvoltoio, il cappello di seta
+sulla ghiaia, e la piccola nuvoletta di fumo che aleggiava
+attraverso il giardino innocente come lo sbuffo d'una sigaretta—
+tutto ciò pareva innaturalmente distinto e definito.
+Esistevano, come simboli, in un'estasi di separazione.
+Anzi, ogni oggetto si faceva sempre più particolare
+e prezioso perché l'intero quadro andava sfaldandosi.
+Le cose appaiono così luminose proprio prima di scoppiare.
+
+Molto prima che le sue fantasticherie fossero cominciate, non che cessate,
+Arthur si era fatto avanti e aveva afferrato uno dei bracci di Smith.
+Simultaneamente il piccolo sconosciuto era salito di corsa i gradini e aveva afferrato
+l'altro.  Smith scoppiò in fragorose risate, e consegnò
+la pistola con perfetta prontezza.  Moon rialzò il dottore
+in piedi, poi andò ad appoggiarsi imbronciato al cancello del giardino.
+Le ragazze erano silenziose e vigili, come le donne buone per lo più
+sono negli attimi di catastrofe, ma i loro volti mostravano che,
+in un modo o nell'altro, una luce era stata scagliata via dal cielo.
+Il dottore stesso, quando si fu rialzato, raccolse cappello e senno,
+e spolverandosi con aria di gran disgusto, si volse a
+loro in breve scusa.  Era pallidissimo per il recente panico,
+ma parlava con perfetto autocontrollo.
+
+"Vogliate scusarci, signore," disse; "il mio amico e
+il signor Inglewood sono entrambi scienziati, ciascuno a suo modo.
+Credo che faremmo meglio a portare tutti il signor Smith in casa, e a metterci
+in comunicazione con voi più tardi."
+
+E sotto la scorta dei tre filosofi naturali il disarmato Smith
+fu condotto con tatto dentro la casa, ancora ruggendo di risa.
+
+Di tanto in tanto durante i venti minuti successivi il suo lontano
+rombo d'ilarità poté di nuovo udirsi attraverso la finestra socchiusa;
+ma non giunse alcuna eco delle quiete voci dei medici.
+Le ragazze passeggiavano insieme per il giardino, sollevandosi a vicenda
+gli spiriti come meglio potevano; Michael Moon pendeva ancora pesantemente contro
+il cancello.  Verso lo scadere di quel tempo il dottor Warner
+uscì di casa con un volto meno pallido ma ancor più severo,
+e il piccolo uomo dal volto di lische di pesce avanzò gravemente alle sue spalle.
+E se il volto di Warner nella luce del sole era quello d'un giudice che manda alla forca,
+il volto del piccolo uomo dietro somigliava più a un teschio.
+
+"Signorina Hunt," disse il dottor Herbert Warner, "desidero soltanto offrirvi i miei calorosi
+ringraziamenti e la mia ammirazione.  Col vostro pronto coraggio e la vostra saggezza nel mandarci
+a chiamare per telegramma questa sera, ci avete consentito di catturare e mettere
+in condizione di non nuocere uno dei più crudeli e terribili nemici dell'umanità—
+un criminale la cui plausibilità e spietatezza non si erano mai prima
+combinate in carne umana."
+
+Rosamund lo guardò con un volto bianco, vuoto, e occhi che sbattevano.
+"Che cosa volete dire?" chiese.  "Non potete intendere il signor Smith?"
+
+"È passato sotto molti altri nomi," disse il dottore gravemente,
+"e non ce n'è uno che non abbia lasciato dietro di sé a essere maledetto.  Quell'uomo,
+signorina Hunt, ha lasciato una scia di sangue e lacrime attraverso il mondo.
+Se sia pazzo oltre che malvagio, stiamo cercando, nell'interesse
+della scienza, di scoprirlo.  In ogni caso, dovremo condurlo
+prima da un magistrato, foss'anche solo sulla via d'un manicomio.
+Ma il manicomio in cui verrà rinchiuso dovrà essere
+sigillato con muro dentro muro, e cinto di cannoni come una fortezza,
+o egli evaderà di nuovo per portare strage e tenebra
+sulla terra."
+
+Rosamund guardò i due medici, col volto che si faceva sempre più pallido.
+Poi i suoi occhi vagarono verso Michael, che era appoggiato al cancello;
+ma egli continuò ad appoggiarvisi senza muoversi, col volto voltato
+lontano verso la strada che s'incupiva.
+
 
 
 <span class="atom-split" data-atom="chapter_05--part_01" data-title="Manalive — Chapter 5 (part 1)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="archetype/detective,concept/appearance_vs_reality,concept/deception,concept/crime_and_punishment,character/dr_cyrus_pym,character/dr_warner,character/rosamund_hunt,character/innocent_smith,character/don_quixote"></span>
@@ -8526,6 +10091,126 @@ and Diana, who had moved to his assistance from without.  After a few minutes
 and gestures they went inside, shutting the glass doors upon the garden;
 and the garden seemed to grow grayer still.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Capitolo V
+
+Il Burlone Allegorico
+
+Lo specialista in criminologia che era venuto col dottor Warner era una figura alquanto
+più urbana e persino più azzimata di quanto fosse apparsa quando
+si aggrappava alla cancellata e allungava il collo dentro il giardino.
+Sembrava perfino relativamente giovane quando si tolse il cappello,
+avendo capelli biondi con la scriminatura in mezzo e accuratamente arricciati
+su ciascun lato, e movimenti vivaci, specialmente delle mani.
+Aveva un damerino monocolo appeso al collo da un largo nastro nero,
+e un gran cravattino a fiocco, come se una grossa falena americana si fosse posata su di lui.
+Il suo abbigliamento e i suoi gesti erano abbastanza sgargianti per un ragazzo; era soltanto
+quando guardavi il volto di lische di pesce che scorgevi qualcosa
+d'acre e di vecchio.  I suoi modi erano eccellenti, sebbene poco inglesi,
+e aveva due vezzi semiconsapevoli per i quali la gente che lo incontrava
+una volta sola se lo ricordava.  Uno era il vezzo di chiudere gli occhi
+quando voleva essere particolarmente cortese; l'altro era quello di
+sollevare in aria il pollice e l'indice uniti come se reggesse
+una presa di tabacco, quando esitava o indugiava su una parola.
+Ma chi restava più a lungo in sua compagnia tendeva a dimenticare queste
+stranezze nel fluire della sua bizzarra e solenne conversazione
+e delle sue vedute davvero singolari.
+
+"Signorina Hunt," disse il dottor Warner, "questi è il dottor Cyrus Pym."
+
+Il dottor Cyrus Pym chiuse gli occhi durante la presentazione, quasi come se stesse
+"giocando lealmente" in qualche gioco di bambini, e fece un pronto inchinetto,
+che in qualche modo d'un tratto lo rivelava cittadino degli Stati Uniti.
+
+"Il dottor Cyrus Pym," proseguì Warner (il dottor Pym richiuse gli occhi), "è forse
+il primo esperto di criminologia d'America.  Siamo assai fortunati a poterci
+consultare con lui in questo straordinario caso—"
+
+"Non riesco a raccapezzarmi di nulla," disse Rosamund.  "Come può
+il povero signor Smith essere tanto orribile quanto lo dite voi?"
+
+"O quanto dice il vostro telegramma," disse Herbert Warner, sorridendo.
+
+"Oh, voi non capite," gridò la ragazza spazientita.
+"Come, ci ha fatto a tutti più bene che andare in chiesa."
+
+"Credo di poter spiegare alla signorina," disse il dottor Cyrus Pym.  "Questo criminale
+o maniaco Smith è un vero genio del male, e ha un metodo tutto suo,
+un metodo della più audace ingegnosità.  È benvoluto ovunque vada,
+perché invade ogni casa come un bambino chiassoso.  La gente sta
+diventando sospettosa di tutti i rispettabili travestimenti d'un mascalzone;
+sicché egli usa sempre il travestimento di—come dire—il bohémien,
+l'irreprensibile bohémien.  Conquista sempre tutti d'un colpo.
+La gente è avvezza alla maschera della buona condotta convenzionale.
+Egli punta sull'eccentrica bonarietà.  Ci si aspetta che un Don Giovanni si mascheri
+da solenne e solido mercante spagnolo; ma non si è preparati
+quando si maschera da Don Chisciotte.  Ci si aspetta che un impostore si comporti come
+Sir Charles Grandison; perché (con tutto il rispetto, signorina Hunt, per la profonda,
+commovente tenerezza di Samuel Richardson) Sir Charles Grandison
+si comportava così spesso da impostore.  Ma nessun vero cittadino dal sangue caldo è mai del tutto
+pronto per un impostore che si modella non su Sir Charles Grandison
+ma su Sir Roger de Coverly.  Ergersi a uomo dabbene un po' svitato
+è un nuovo travestimento criminale, signorina Hunt.  È stata una grande trovata,
+e straordinariamente riuscita; ma proprio il suo successo la rende oltremodo crudele.
+Posso perdonare Dick Turpin se impersona il dottor Busby; non posso perdonarlo
+quando impersona il dottor Johnson.  Il santo con una tegola smossa
+è, credo, un po' troppo sacro per essere parodiato."
+
+"Ma come fate a sapere," gridò Rosamund disperata, "che il signor Smith
+è un noto criminale?"
+
+"Ho collazionato tutti i documenti," disse l'americano, "quando il mio amico Warner
+mi ha svegliato al ricevimento del vostro cablogramma.  È mio dovere professionale
+conoscere questi fatti, signorina Hunt; e su di essi non c'è più dubbio
+che sul Bradshaw laggiù alla stazione.  Quest'uomo è finora sfuggito
+alla legge, grazie alle sue mirabili simulazioni d'infanzia o di follia.
+Ma io stesso, come specialista, ho note privatamente autenticate
+di alcuni diciotto o venti delitti tentati o compiuti in questa maniera.
+Egli arriva nelle case come è arrivato in questa, e ottiene una gran popolarità.
+Fa sì che le cose vadano.  E vanno; quando lui se n'è andato, le cose sono sparite.
+Sparite, signorina Hunt, sparite: la vita d'un uomo o i cucchiai d'un uomo, o più spesso una donna.
+Vi assicuro che ho tutti i memorandum."
+
+"Li ho visti," disse Warner con fermezza, "e posso assicurarvi
+che tutto questo è esatto."
+
+"L'aspetto più vile, secondo il mio sentire," proseguì il medico
+americano, "è questo perpetuo inganno di donne innocenti con una selvaggia simulazione
+d'innocenza.  Da quasi ogni casa dove questo grande diavolo immaginifico
+è passato, ha portato via con sé qualche povera ragazza; taluni dicono che abbia
+un occhio ipnotico oltre agli altri suoi bizzarri tratti, e che esse vadano come automi.
+Che ne sia stato di tutte quelle povere ragazze nessuno lo sa.  Assassinate, oserei dire;
+perché abbiamo molti casi, oltre a questo, in cui si è dato
+all'assassinio, benché nessuno l'abbia mai portato sotto la legge.  Comunque, i nostri più
+moderni metodi d'indagine non riescono a trovare alcuna traccia delle sciagurate donne.
+È quando penso a loro che mi commuovo davvero, signorina Hunt.  E davvero
+non ho null'altro da dire ora se non ciò che ha detto il dottor Warner."
+
+"Proprio così," disse Warner, con un sorriso che pareva scolpito nel marmo—"che
+tutti dobbiamo ringraziarvi tanto per quel telegramma."
+
+Il piccolo scienziato yankee aveva parlato con tale evidente
+sincerità che si dimenticavano i vezzi della sua voce e dei suoi modi—
+le palpebre che si abbassavano, l'intonazione che saliva, e il dito
+e il pollice sospesi—che in altri momenti erano un po' comici.
+Non era tanto che fosse più intelligente di Warner;
+forse non lo era altrettanto, benché fosse più celebre.
+Ma egli aveva ciò che Warner non ebbe mai, una fresca e schietta serietà—
+la grande virtù americana della semplicità.  Rosamund aggrottò
+le sopracciglia e guardò cupamente verso la casa che s'incupiva
+e conteneva l'oscuro prodigio.
+
+La piena luce del giorno durava ancora; ma era già mutata dall'oro all'argento,
+e mutava dall'argento al grigio.  Le lunghe ombre piumate dei due o
+tre alberi del giardino sbiadivano sempre più su uno sfondo morto di crepuscolo.
+Nell'ombra più netta e profonda, che era l'ingresso della casa
+dalle grandi portefinestre, Rosamund poteva osservare un'affrettata consultazione
+tra Inglewood (ancora lasciato a guardia del misterioso prigioniero)
+e Diana, che s'era mossa in suo aiuto dall'esterno.  Dopo pochi minuti
+e gesti entrarono, chiudendo le porte a vetri sul giardino;
+e il giardino parve farsi ancor più grigio.
 
 
 
@@ -8661,6 +10346,138 @@ man in the world.  He has sent bullets at lots of other men
 and gone off in cabs with lots of other women.  And he seems
 to have killed the women too, for nobody can find them."
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Il gentiluomo americano di nome Pym pareva volgersi e mettersi in moto
+nella stessa direzione; ma prima di avviarsi rivolse la parola a Rosamund
+con un lampo di quel candido tatto che riscattava gran parte della sua
+puerile vanità, e con un che di quella poesia spontanea che rendeva
+difficile, per quanto fosse pedante, chiamarlo un pedante.
+
+«Mi dispiace vurramente, signorina Hunt» disse; «ma il dottor Warner ed io,
+come due professionisti quali-FICATI, faremmo meglio a portar via il signor
+Smith su quella carrozza, e meno se ne parla meglio è.
+Non si agiti, signorina Hunt. Deve solo pensare
+che stiamo portando via una mostruosità, qualcosa che non dovrebbe affatto
+esistere—qualcosa come uno di quegli dèi nel vostro Museo Britannico,
+tutto ali, e barbe, e gambe, e occhi, e senza forma.
+Ecco cos'è Smith, e presto ve ne sarete liberata.»
+
+Aveva già mosso un passo verso la casa, e Warner stava per
+seguirlo, quando le porte a vetri si riaprirono e Diana Duke
+uscì attraversando il prato con più della sua consueta rapidità.
+Il volto le fremeva d'ansia ed eccitazione, e i suoi occhi scuri e intenti
+erano fissi soltanto sull'altra ragazza.
+
+«Rosamund» gridò disperata, «che cosa devo farne di lei?»
+
+«Di lei?» esclamò la signorina Hunt, con un violento sussulto. «Oh Signore,
+non sarà mica una donna anche lui, vero?»
+
+«No, no, no» disse il dottor Pym con tono rassicurante, come per pura equità.
+«Una donna? no, davvero, non è poi tanto grave.»
+
+«Intendo la vostra amica Mary Gray» ribatté Diana con pari asprezza.
+«Che diavolo devo farne di lei?»
+
+«Vuoi dire come dirle di Smith» rispose Rosamund, il volto
+a un tempo rannuvolato e intenerito. «Sì, sarà piuttosto penoso.»
+
+«Ma gliel'HO già detto» esplose Diana, con più della sua
+congenita esasperazione. «Gliel'ho detto, e non sembra darsene pensiero.
+Continua a dire che se ne andrà con Smith su quella carrozza.»
+
+«Ma è impossibile!» esclamò Rosamund. «Ma se Mary è
+davvero religiosa. Lei—»
+
+Si fermò in tempo per accorgersi che Mary Gray le era relativamente
+vicina sul prato. La sua quieta compagna era scesa in giardino con molta
+quiete, ma vestita con molta risolutezza per il viaggio.
+Portava in capo un tam-o'-shanter azzurro, lindo ma assai vecchio,
+e si stava infilando sulle mani certi guanti grigi piuttosto logori.
+Eppure le due tinte si accordavano a meraviglia con i suoi pesanti capelli
+color rame; tanto più a meraviglia per quel tocco di trasandatezza: perché
+gli abiti di una donna non le stanno mai così bene come quando sembrano
+starle bene per caso.
+
+Ma in questo caso la donna aveva una qualità ancor più singolare e attraente.
+In quelle ore grigie, quando il sole è tramontato e i cieli sono
+già tristi, accade spesso che un solo riflesso, a un qualche
+angolo casuale, faccia indugiare l'ultimo della luce.
+Un lembo di finestra, un lembo d'acqua, un lembo di specchio,
+sarà colmo del fuoco che è perduto per tutto il resto della terra.
+Il volto bizzarro, quasi triangolare, di Mary Gray era come un
+frammento triangolare di specchio che potesse ancora ripetere lo splendore
+delle ore trascorse. Mary, per quanto fosse sempre aggraziata,
+non avrebbe mai potuto prima essere propriamente detta bella; eppure
+la sua felicità in mezzo a tutta quella miseria era tanto bella da
+mozzare il fiato a un uomo.
+
+«Oh Diana» esclamò Rosamund a voce più bassa, mutando frase;
+«ma come gliel'hai detto?»
+
+«È facilissimo dirglielo» rispose Diana cupa;
+«non fa alcuna impressione.»
+
+«Temo di aver fatto aspettare tutti» disse Mary Gray in tono di scusa,
+«e ora dobbiamo proprio dirci addio. Innocent mi porta da sua zia,
+laggiù a Hampstead, e temo che lei vada a letto presto.»
+
+Le sue parole erano del tutto disinvolte e pratiche, ma c'era una sorta
+di luce assonnata nei suoi occhi più sconcertante del buio;
+era come chi parla distrattamente con l'occhio fisso su qualche
+oggetto assai lontano.
+
+«Mary, Mary» gridò Rosamund, quasi crollando, «mi dispiace tanto,
+ma la cosa non può proprio essere. Noi—noi abbiamo scoperto tutto sul signor Smith.»
+
+«Tutto?» ripeté Mary, con un'intonazione bassa e curiosa;
+«ma allora dev'essere terribilmente emozionante.»
+
+Per un istante non vi fu rumore né movimento, salvo che
+il silenzioso Michael Moon, appoggiato al cancello, sollevò il capo,
+come per mettersi in ascolto. Poi, rimanendo Rosamund senza parole,
+il dottor Pym venne in suo soccorso in modo netto.
+
+«Tanto per cominciare» disse, «quest'uomo, Smith, tenta di continuo l'omicidio.
+Il Rettore del Brakespeare College—»
+
+«Lo so» disse Mary, con un vago ma radioso sorriso.
+«Me l'ha detto Innocent.»
+
+«Non so che cosa vi abbia detto» replicò svelto Pym, «ma temo assai
+che non fosse vero. La pura verità è che quest'uomo è macchiato
+d'ogni crimine umano conosciuto. Vi assicuro che ho tutti i documenti.
+Ho la prova che ha commesso un furto con scasso, firmata da un eminentissimo
+curato inglese. Ho—»
+
+«Oh, ma i curati erano due» esclamò Mary, con una certa gentile premura;
+«ed è proprio questo che l'ha resa tanto più buffa.»
+
+Le porte a vetri oscurate della casa si aprirono ancora una volta,
+e Inglewood comparve per un istante, facendo una sorta di segnale.
+Il dottore americano s'inchinò, quello inglese no,
+ma entrambi s'avviarono impassibili verso la casa.
+Nessun altro si mosse, nemmeno Michael appeso al cancello;
+ma la nuca e le spalle avevano ancora un'indescrivibile
+indicazione ch'egli stava ascoltando ogni parola.
+
+«Ma non capisci, Mary» gridò Rosamund disperata; «non
+sai che sono accadute cose spaventose proprio sotto i nostri occhi.
+Avrei creduto che avessi sentito gli spari di rivoltella al piano di sopra.»
+
+«Sì, ho sentito gli spari» disse Mary quasi allegramente; «ma proprio allora
+ero occupata a fare i bagagli. E Innocent mi aveva detto che avrebbe sparato al dottor Warner;
+così non valeva la pena di scendere.»
+
+«Oh, non capisco che cosa intendi» gridò Rosamund Hunt,
+pestando i piedi, «ma devi e dovrai capire che cosa intendo io.
+Non m'importa quanto crudelmente lo dico, purché possa salvarti.
+Intendo che il tuo Innocent Smith è l'uomo più spaventosamente
+malvagio del mondo. Ha scagliato pallottole contro un mucchio di altri uomini
+ed è filato via in carrozza con un mucchio di altre donne. E pare
+che abbia ucciso anche le donne, perché nessuno riesce a trovarle.»
 
 
 
@@ -8807,6 +10624,147 @@ For my part, I simply refuse to let things be done in this light
 and airy style.  I appeal to Mrs. Duke--it's her house."
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+«A volte è davvero un po' birichino» disse Mary Gray,
+ridendo dolcemente mentre s'abbottonava i vecchi guanti grigi.
+
+«Oh, questo è proprio mesmerismo, o qualcosa del genere» disse Rosamund,
+e scoppiò in lacrime.
+
+Nello stesso istante i due dottori vestiti di nero comparvero fuori
+dalla casa con il loro grande prigioniero vestito di verde in mezzo a loro.
+Egli non oppose resistenza, ma rideva ancora in modo stordito
+e mezzo scemo. Arthur Inglewood seguiva in coda,
+uno studio in nero e rosso nelle ultime sfumature dell'angoscia e della vergogna.
+In questo stile nero, funereo e penosamente realistico avvenne l'uscita
+da Beacon House di un uomo la cui entrata, il giorno prima,
+si era compiuta col felice balzo d'un muro e la spassosa
+arrampicata d'un albero. Nessuno dei gruppi in giardino si mosse,
+salvo Mary Gray, che fece un passo avanti con tutta naturalezza,
+gridando: «Sei pronto, Innocent? La nostra carrozza aspetta
+già da tanto tempo.»
+
+«Signore e signori» disse fermamente il dottor Warner, «devo insistere nel pregare
+questa signora di farsi da parte. Avremo già abbastanza guai così,
+in tre dentro una carrozza.»
+
+«Ma È la nostra carrozza» insistette Mary. «Ma se c'è la borsa gialla
+d'Innocent sul tetto.»
+
+«Si faccia da parte» ripeté Warner rudemente. «E lei, signor Moon,
+sia tanto gentile da spostarsi un momento. Su, su! prima
+si sbriga questa brutta faccenda, meglio è—e come possiamo aprire il cancello
+se lei continua ad appoggiarcisi?»
+
+Michael Moon guardò il suo lungo e magro indice, e parve
+considerare e riconsiderare questo argomento. «Sì» disse infine;
+«ma come posso appoggiarmi a questo cancello se lei continua ad aprirlo?»
+
+«Oh, si tolga di mezzo!» gridò Warner, quasi bonariamente.
+«Al cancello può appoggiarsi in qualunque momento.»
+
+«No» disse Moon riflessivamente. «Di rado il momento e il luogo
+e il cancello azzurro coincidono; e tutto dipende dal fatto che
+uno discenda o no da un'antica famiglia di campagna. I miei antenati si appoggiavano ai cancelli
+prima che qualcuno avesse scoperto come aprirli.»
+
+«Michael!» gridò Arthur Inglewood in una specie d'agonia, «hai intenzione di toglierti
+di mezzo?»
+
+«Ma no; credo di no» disse Michael, dopo qualche meditazione,
+e si girò lentamente su se stesso, così da fronteggiare la compagnia,
+pur continuando, in atteggiamento indolente, a occupare il sentiero.
+
+«Ehilà!» gridò all'improvviso; «che cosa state facendo al signor Smith?»
+
+«Lo portiamo via» rispose seccamente Warner, «perché sia esaminato.»
+
+«Immatricolazione?» chiese Moon vivacemente.
+
+«Da un magistrato» disse l'altro asciutto.
+
+«E quale altro magistrato» gridò Michael, alzando la voce,
+«osa giudicare ciò che è accaduto su questo libero suolo, se non gli antichi
+e indipendenti Duchi di Beacon? Quale altra corte osa giudicare
+uno della nostra compagnia, se non l'Alta [[Court|Corte]] di Beacon? Avete
+dimenticato che proprio questo pomeriggio abbiamo issato la bandiera dell'indipendenza
+e ci siamo staccati da tutte le nazioni della terra?»
+
+«Michael» gridò Rosamund, torcendosi le mani, «come puoi startene
+lì a dire sciocchezze? Ma se hai visto tu stesso la cosa spaventosa.
+Eri lì quando è impazzito. Sei stato tu ad aiutare il dottore
+a rialzarsi quando è caduto sul vaso di fiori.»
+
+«E l'Alta [[Court|Corte]] di Beacon» replicò Moon con alterigia,
+«ha poteri speciali in tutti i casi concernenti lunatici,
+vasi di fiori e dottori che cadono nei giardini.
+È nella nostra primissima carta di Edoardo I: ‘Si medicus
+quisquam in horto prostratus—'»
+
+«Fuori dai piedi!» gridò Warner con improvviso furore, «o ti ci caveremo
+noi.»
+
+«Cosa!» gridò [[Michael]] [[Moon]], con un grido di ilare ferocia.
+«Dovrò morire a difesa di questo sacro recinto? Dipingerete
+di rosso questa cancellata azzurra col mio sangue?» e afferrò una
+delle punte azzurre dietro di sé. Come Inglewood aveva notato prima
+nella serata, la cancellata era lenta e storta in quel punto,
+e l'asta di ferro dipinto con la sua cuspide gli rimase in mano
+mentre la scuoteva.
+
+«Guardate!» gridò, brandendo in aria quel giavellotto spezzato,
+«le lance stesse attorno alla Torre di Beacon balzano dai loro posti per difenderla.
+Ah, in un tal luogo e in una tal ora è bella cosa morire [[Alone|solo]]!»
+E con voce simile a un tamburo declamò i nobili versi di Ronsard—
+
+"Ou pour l'honneur de Dieu, ou pour le droit de mon prince, Navre,
+poitrine ouverte, au bord de mon province."
+
+«Perdinci!» disse il gentiluomo americano, quasi con tono reverente.
+Poi aggiunse: «Ci sono due maniaci qui?»
+
+«No; ce ne sono cinque» tuonò [[Moon]]. «[[smith|Smith]] ed io siamo le uniche
+persone sane rimaste.»
+
+«[[Michael]]!» gridò Rosamund; «[[Michael]], che cosa significa?»
+
+«Significa fandonie!» ruggì [[Michael]], e scagliò la sua lancia dipinta
+lontano, verso l'altro capo del [[Garden|giardino]]. «Significa che i dottori
+sono fandonie, e la criminologia è fandonia, e gli americani sono fandonie—
+assai più fandonia della nostra [[Court|Corte]] di Beacon. Significa, testoni,
+che [[Innocent]] [[smith|Smith]] non è più pazzo o malvagio dell'uccello
+su quell'albero.»
+
+«Ma, mio caro [[Moon]]» cominciò Inglewood nel suo modo modesto, «questi signori—»
+
+«Sulla parola di due dottori» esplose di nuovo [[Moon]],
+senza ascoltare nessun altro, «rinchiuso in un inferno privato
+sulla parola di due dottori! E che dottori! Oh, per la miseria!
+Guardateli!—ma guardateli un po'! Comprereste un libro,
+o un cane, o andreste in un albergo sul consiglio di venti pari loro?
+La mia gente veniva dall'Irlanda, ed erano cattolici. Che cosa
+direste se io dicessi malvagio un uomo sulla parola di due preti?»
+
+«Ma non è soltanto la loro parola, [[Michael]]» ragionò Rosamund;
+«hanno anche le prove.»
+
+«Le hai guardate?» chiese [[Moon]].
+
+«No» disse Rosamund, con una specie di lieve sorpresa; «di quelle
+si occupano questi signori.»
+
+«E di tutto il resto, mi pare» disse [[Michael]]. «Ma se non
+avete nemmeno avuto la decenza di consultare la signora Duke.»
+
+«Oh, è inutile» disse [[Diana]] sottovoce a Rosamund; «la zia non sa
+dire ‘Bu!' a un'oca.»
+
+«Ne sono lieto» rispose Michael, «perché con un tale stormo d'oche
+a cui dirlo, l'orrida esclamazione le sarebbe sempre sulle labbra.
+Da parte mia, mi rifiuto semplicemente di lasciar fare le cose in questo modo
+leggero e frivolo. Mi appello alla signora Duke—è casa sua.»
+
 
 
 <span class="atom-split" data-atom="chapter_05--part_04" data-title="Manalive — Chapter 5 (part 4)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="archetype/fool,archetype/innocent,archetype/monster,motif/desert,motif/home,motif/moon,motif/well,concept/melancholy,concept/self,concept/truth,setting/court,setting/desert,character/arthur"></span>
@@ -8928,6 +10886,124 @@ part he had played that afternoon was very painful.  He was not likely
 to be reluctant if any one could convince him that his duty was to let
 sleeping [[dogs]] lie.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+«La signora Duke?» ripeté Inglewood dubbioso.
+
+«Sì, la signora Duke» disse Michael fermamente, «comunemente detta il Duca di Ferro.»
+
+«Se lo chiedete alla zia» disse Diana con calma, «sarà solo per non far nulla
+del tutto. La sua unica idea è mettere tutto a tacere o lasciar correre.
+È proprio quel che le piace.»
+
+«Sì» replicò Michael Moon; «e, guarda caso, è proprio quel che
+piace a tutti noi. Siete impaziente con i vostri anziani, signorina Duke;
+ma quando sarete anziana anche voi saprete ciò che sapeva Napoleone—
+che metà delle proprie lettere si risponde da sé, se solo si riesce ad astenersi
+dall'appetito carnale di rispondervi.»
+
+Se ne stava ancora sdraiato nel medesimo assurdo atteggiamento, col gomito
+sulla grata, ma la voce gli era mutata di colpo per la terza volta;
+proprio come era passata dal finto eroismo all'umana indignazione,
+ora mutava nell'ariosa incisività d'un avvocato che dà
+un buon consiglio legale.
+
+«Non è soltanto vostra zia a voler tenere la cosa nascosta se
+può» disse; «tutti noi vogliamo tenerla nascosta se possiamo.
+Guardate i fatti grossi—le grandi ossa del caso. Credo
+che quei signori scientifici abbiano commesso un errore altamente scientifico.
+Credo che Smith sia innocente come un ranuncolo. Ammetto
+che i ranuncoli non lasciano spesso partire pistole cariche nelle case private;
+ammetto che c'è qualcosa che esige spiegazione.
+Ma sono moralmente certo che dietro tutto ciò c'è qualche cantonata,
+o qualche scherzo, o qualche allegoria, o qualche incidente.
+Bene, supponiamo che io mi sbagli. L'abbiamo disarmato; siamo cinque uomini
+a tenerlo; tanto vale che vada in gattabuia più tardi come adesso.
+Ma supponiamo che ci sia anche solo una probabilità che io abbia ragione.
+È forse nell'interesse di qualcuno, qui, lavare questi panni in pubblico?
+
+«Suvvia, prenderò ciascuno di voi a turno. Basta portare Smith fuori da quel cancello,
+e lo portate nella prima pagina dei giornali della sera. Lo so;
+la prima pagina l'ho scritta io stesso. Signorina Duke, volete voi o vostra zia
+un avviso appeso sopra la vostra pensione—‘Qui si sparano dottori.'?
+No, no—i dottori sono spazzatura, come ho detto; ma non volete la spazzatura
+sparata qui. [[arthur|Arthur]], supponi che io abbia ragione, o supponi che abbia torto.
+[[smith|Smith]] è comparso come un tuo vecchio compagno di scuola. Bada alle mie parole,
+se sarà dichiarato colpevole, gli Organi della Pubblica Opinione diranno che l'hai
+presentato tu. Se sarà dichiarato [[Innocent|innocente]], diranno che hai aiutato
+ad acchiapparlo. Rosamund, mia cara, supponi che io abbia ragione o torto.
+Se sarà dichiarato colpevole, diranno che gli hai fidanzato la tua dama di compagnia.
+Se sarà dichiarato [[Innocent|innocente]], stamperanno quel telegramma.
+Io li conosco, gli Organi, maledetti loro.»
+
+Si fermò un istante; perché questo rapido razionalismo lo lasciava più
+senza fiato di quanto avessero fatto la sua denuncia teatrale o quella vera.
+Ma era chiaramente sincero, oltre che positivo e lucido;
+come provò il fatto che riprese in fretta appena ebbe
+ritrovato il fiato.
+
+«È esattamente lo stesso» gridò, «coi nostri amici medici.
+Direte che il dottor Warner ha di che lamentarsi. D'accordo.
+Ma vuole davvero farsi fotografare da tutti i
+giornalisti ~prostratus in horto~? Non è stata colpa sua,
+ma la scena non è stata molto dignitosa nemmeno per lui.
+Deve avere giustizia; ma vuole chiederla, la giustizia,
+non solo in ginocchio, ma carponi, mani e ginocchia a terra?
+Vuole entrare nella [[Court|corte]] di giustizia a quattro zampe?
+Ai dottori non è permesso farsi pubblicità; e son certo che nessun
+dottore vuol farsi pubblicità mostrandosi in quello stato.
+E anche per il nostro ospite americano l'interesse è lo stesso.
+Supponiamo che egli abbia documenti conclusivi.
+Ammettiamo che abbia rivelazioni davvero degne d'essere lette.
+[[Well|Ebbene]], in un'inchiesta legale (o medica, se è per questo)
+dieci a uno che non gli sarà permesso di leggerle. Sarà inciampato
+ogni due o tre minuti in qualche groviglio di vecchie regole.
+Oggigiorno un uomo non può dire la [[Truth|verità]] in pubblico. Ma può
+ancora dirla in privato; può dirla dentro quella [[house|casa]].»
+
+«È verissimo» disse il dottor Cyrus Pym, che aveva ascoltato per tutto
+il discorso con una serietà che solo un americano avrebbe potuto conservare
+attraverso una scena simile. «È vero che sono stato percettibilmente meno
+ostacolato nelle indagini private.»
+
+«Dottor Pym!» gridò Warner in una sorta d'improvvisa collera.
+«Dottor Pym! non starà davvero per ammettere—»
+
+«[[smith|Smith]] sarà anche pazzo» proseguì il [[Melancholy|malinconico]] [[Moon]] in un monologo
+che pareva pesante come una scure, «ma c'era pur qualcosa
+in quel che diceva a proposito dell'autogoverno per ogni [[Home|casa]].
+Sì, c'è qualcosa, a conti fatti, nell'Alta [[Court|Corte]]
+di Beacon. È davvero vero che gli esseri umani potrebbero spesso ottenere
+una qualche giustizia domestica là dove adesso non possono ottenere che
+un'ingiustizia legale—oh, sono anch'io un avvocato, e lo so [[Well|bene]].
+È vero che c'è troppo potere ufficiale e indiretto.
+Spesso e volentieri la cosa che un'intera nazione non sa risolvere è proprio quella
+che una famiglia saprebbe risolvere. Decine di giovani criminali sono stati multati
+e mandati in prigione quando avrebbero dovuto essere frustati e mandati a letto.
+Decine di uomini, ne sono certo, hanno passato una vita a Hanwell quando
+volevano solo una settimana a Brighton. C'È qualcosa nell'idea di [[smith|Smith]]
+sull'[[Self|auto]]-[[government|governo]] domestico; e io propongo di metterla
+in pratica. Avete il prigioniero; avete i documenti.
+Suvvia, siamo un'accolita di gente libera, bianca e cristiana,
+tale da poter essere assediata in una città o gettata su un'isola [[Desert|deserta]].
+Facciamo la cosa noi stessi. Andiamo in quella [[house|casa]] lì
+e sediamoci e scopriamo coi nostri occhi e le nostre orecchie se questa
+cosa è vera o no; se questo [[smith|Smith]] è un uomo o un [[Monster|mostro]].
+Se non sappiamo fare una piccola cosa come questa, che diritto abbiamo di mettere
+crocette sulle schede elettorali?»
+
+Inglewood e Pym si scambiarono un'occhiata; e Warner, che non era uno [[Fool|sciocco]],
+vide in quell'occhiata che [[Moon]] guadagnava terreno. I motivi che portavano
+[[arthur|Arthur]] a pensare alla resa erano invero assai diversi da quelli
+che influenzavano il dottor Cyrus Pym. Tutti gli istinti di [[arthur|Arthur]] erano dalla parte
+della riservatezza e della composizione garbata; era molto inglese e spesso avrebbe
+sopportato torti piuttosto che raddrizzarli con scenate e retorica solenne.
+Recitare a un tempo il buffone e il cavaliere errante, come il suo amico irlandese,
+sarebbe stato per lui una vera tortura; ma persino la parte semiufficiale
+che aveva recitato quel pomeriggio gli era stata assai penosa. Non era probabile
+che si mostrasse riluttante se qualcuno riusciva a convincerlo che il suo dovere era di lasciar
+dormire i [[dogs|cani]] che dormono.
 
 
 
@@ -9216,6 +11292,115 @@ and coming back into the [[Garden|garden]] stood in the same elephantine
 attitude as before.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+«Ecco» gridò [[Michael]], con uno scoppio di risa, «la [[Court|Corte]] di Beacon
+si è aperta—e anche richiusa. Adesso sapete tutti che ho ragione.
+Il vostro buon senso sepolto vi ha detto quel che il mio buon senso sepolto ha
+detto a me. [[smith|Smith]] avrebbe potuto sparare cento cannoni invece d'una [[Pistol|pistola]],
+e voi sapreste ancora che è innocuo come io so che è innocuo.
+Torniamo tutti alla [[house|casa]] e sgombriamo una stanza per la discussione.
+Perché l'Alta [[Court|Corte]] di Beacon, che è già giunta alla sua decisione,
+sta giusto per iniziare la sua inchiesta.»
+
+«Giusto giusto per iniziare!» gridò il piccolo signor Moses in una straordinaria
+sorta d'eccitazione disinteressata, come quella d'un animale durante la musica
+o un temporale. «Seguite l'Alta [[Court|Corte]] di Uova e Pancetta;
+prendete un'aringa affumicata della vecchia ditta! Sua Signoria s'è complimentato
+col signor Gould per l'alta finezza professionale che aveva mostrato,
+e ch'era degna delle migliori tradizioni del Bar del Saloon—
+e tre di whisky caldo, signorina! Oh, rincorretemi, ragazze!»
+
+Non tradendo le ragazze alcuna [[Temptation|tentazione]] di rincorrerlo, egli se ne andò in una
+sorta di [[Dance|danza]] dondolante di pura eccitazione; e aveva fatto un giro
+del [[Garden|giardino]] prima di ricomparire, ansante ma ancora raggiante.
+[[Moon]] aveva conosciuto il suo uomo quando comprese che nessuno, messo davanti
+a Moses Gould, poteva restare del tutto serio, anche se era
+del tutto furioso. Le porte a vetri stavano aperte sul lato più vicino
+al signor Moses Gould; e poiché i piedi di quell'idiota festoso erano
+evidentemente volti nella stessa direzione, tutti gli altri andarono
+da quella parte con l'unanimità di qualche chiassosa processione.
+Solo [[Diana]] Duke conservò abbastanza rigidità da dire la cosa che le
+ribolliva sulle fiere labbra femminili da qualche ora.
+Sotto l'[[Shadow|ombra]] della [[Tragedy|tragedia]] l'aveva trattenuta come inopportuna.
+«In tal caso» disse tagliente, «queste carrozze possono essere rimandate via.»
+
+«[[Well|Ebbene]], [[Innocent]] deve avere la sua borsa, sapete» disse Mary con un sorriso.
+«Oserei dire che il [[cabman|vetturino]] ce la tirerebbe giù.»
+
+«Prendo io la borsa» disse [[smith|Smith]], parlando per la prima [[Time|volta]] da ore;
+la voce gli suonava remota e rude, come la voce d'una statua.
+
+Coloro che così a lungo avevano danzato e disputato attorno alla sua immobilità
+furono lasciati senza fiato dalla sua precipitazione. Con una corsa e un [[spring|balzo]]
+fu fuori dal [[Garden|giardino]], nella strada; con un [[spring|balzo]] e
+un solo calcio fremente si trovò addirittura sul tetto della carrozza.
+Il [[cabman|vetturino]] si trovava per caso a fianco della testa del [[Horse|cavallo]], avendo appena
+tolto la sacca da naso ormai vuota. [[smith|Smith]] parve per un istante
+[[rolling|rotolarsi]] sul dorso della carrozza tra gli abbracci della sua borsa Gladstone.
+L'istante dopo, tuttavia, era rotolato, come per fortuna regale,
+nell'alto sedile posteriore, e con uno strillo di penetrante e
+spaventosa subitaneità aveva lanciato il [[Horse|cavallo]] a volare e galoppare
+giù per la strada.
+
+La sua sparizione fu tanto violenta e rapida che questa [[Time|volta]] furono
+tutti gli altri a essere mutati in statue da [[Garden|giardino]].
+Il signor Moses Gould, tuttavia, essendo mal adatto sia fisicamente sia moralmente
+agli scopi della scultura permanente, tornò in vita qualche [[Time|tempo]] prima
+degli altri e, voltandosi verso [[Moon]], osservò, come uno che attacca chiacchiera
+con uno sconosciuto su un omnibus: «Tegola smossa, eh? Carrozza smossa comunque.»
+Seguì un fatale [[Silence|silenzio]]; e poi il dottor Warner disse, con un ghigno
+simile a una mazza di pietra,—
+
+«Ecco cosa viene dalla [[Court|Corte]] di Beacon, signor [[Moon]]. Avete scatenato
+un maniaco su tutta la metropoli.»
+
+Beacon [[house|House]] sorgeva, come s'è detto, all'estremità d'una lunga mezzaluna
+di case continue. Il piccolo [[Garden|giardino]] che la racchiudeva sporgeva in
+una punta acuta, come un verde promontorio spinto nel mare di due strade.
+[[smith|Smith]] e la sua carrozza schizzarono su un lato del triangolo, e certo
+la maggior parte di quanti stavano dentro non si aspettavano di rivederlo mai più.
+All'apice, però, egli fece girare bruscamente il [[Horse|cavallo]] e guidò con pari
+violenza su per l'altro lato del [[Garden|giardino]], visibile a tutti quelli del gruppo.
+Con un impulso comune la piccola folla corse attraverso il prato come per fermarlo,
+ma ebbe presto ragione d'abbassarsi e ritrarsi. Proprio mentre spariva su per
+la strada per la seconda [[Time|volta]], lasciò volare dalla mano la grande borsa gialla,
+sicché cadde nel centro del [[Garden|giardino]], disperdendo la compagnia
+come una bomba, e per poco non danneggiò il cappello del dottor Warner per la terza [[Time|volta]].
+Molto prima che si fossero ricomposti, la carrozza era schizzata via con uno
+strillo che si spense in un sussurro.
+
+«[[Well|Ebbene]]» disse [[Michael]] [[Moon]], con una strana nota nella voce;
+«potete [[Well|bene]] entrare tutti dentro comunque. Abbiamo almeno due reliquie
+del signor [[smith|Smith]]: la sua fidanzata e il suo baule.»
+
+«Perché volete che entriamo?» chiese [[arthur|Arthur]] Inglewood,
+nella cui rossa fronte e ruvida chioma bruna lo sconcerto pareva
+aver raggiunto il limite.
+
+«Voglio che gli altri entrino» disse [[Michael]] con voce chiara,
+«perché voglio tutto questo [[Garden|giardino]] per parlare con te.»
+
+C'era un'atmosfera d'irrazionale [[Doubt|dubbio]]; faceva davvero più freddo,
+e un [[Wind|vento]] [[Night|notturno]] aveva cominciato ad agitare l'uno o due alberi nel crepuscolo.
+Il dottor Warner, tuttavia, parlò con voce priva d'indecisione.
+
+«Mi rifiuto d'ascoltare qualsiasi simile proposta» disse; «avete perduto
+questo furfante, e io devo trovarlo.»
+
+«Non vi chiedo d'ascoltare alcuna proposta» rispose [[Moon]] con calma;
+«vi chiedo soltanto d'ascoltare.»
+
+Fece un gesto di silenzio con la mano, e immediatamente
+il fischio che s'era perduto nelle strade buie da un lato
+della [[house|casa]] si poté udire da tutt'altra parte, dall'altro lato.
+Attraverso il [[Night|notturno]] labirinto di strade il rumore crebbe con incredibile
+rapidità, e l'istante dopo gli zoccoli volanti e le ruote lampeggianti avevano
+spazzato fin verso il cancello dalla cancellata azzurra dove in origine erano stati.
+Il signor [[smith|Smith]] scese dal suo trespolo con aria di distrazione,
+e rientrando nel [[Garden|giardino]] si fermò nel medesimo elefantesco
+atteggiamento di prima.
+
 
 
 <span class="atom-split" data-atom="chapter_05--part_07" data-title="Manalive — Chapter 5 (part 7)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="archetype/innocent,motif/autumn,motif/dance,motif/flowers,motif/garden,motif/leaves,motif/marriage,motif/moon,motif/night,motif/soul,motif/storm,motif/time,motif/well,motif/wind,concept/body,concept/despair,setting/court,character/arthur,character/michael,character/oliver"></span>
@@ -9361,6 +11546,147 @@ Homer Danton Michaelangelo Shakespeare Brakespeare--"
 [[Leaves|leaves]] fluttered away across the [[Moon|moon]].
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+«Entrate! entrate!» gridò [[Moon]] ilare, con l'aria
+di chi caccia via uno stormo di gatti. «Su, su, spicciatevi!
+Non v'ho detto che volevo parlare con Inglewood?»
+
+Come fossero stati davvero ricacciati tutti nella [[house|casa]] sarebbe
+stato difficile dire in seguito. Erano giunti al punto
+d'essere sfiniti dalle incongruenze, come chi a una farsa
+sta male dal ridere, e la vivace crescita della [[Storm|tempesta]] tra
+gli alberi pareva un gesto finale delle cose in generale.
+Inglewood indugiò dietro di loro, dicendo con una certa amichevole
+esasperazione: «Dico, vuoi davvero parlarmi?»
+
+«Sì» disse [[Michael]], «moltissimo.»
+
+La [[Night|notte]] era venuta, come generalmente accade, più in fretta di quanto il crepuscolo
+sembrasse promettere. Mentre l'occhio umano sentiva ancora il cielo come grigio chiaro, una
+grandissima e lucente [[Moon|luna]], comparendo di colpo sopra una massa di tetti e alberi,
+provò per contrasto che il cielo era in realtà già d'un grigio assai scuro.
+Un cumulo di sterili [[Leaves|foglie]] attraverso il prato, un cumulo di nuvole squarciate attraverso
+il cielo, parevano sollevati dallo stesso [[Wind|vento]] forte eppure laborioso.
+
+«[[arthur|Arthur]]» disse [[Michael]], «ho cominciato con un'intuizione; ma ora ne sono sicuro.
+Tu ed io difenderemo questo tuo amico davanti alla benedetta [[Court|Corte]]
+di Beacon, e lo scagioneremo anche—lo scagioneremo sia dal crimine sia dalla follia.
+Ascoltami un po' mentre ti faccio la predica.» Camminavano su
+e giù insieme per il [[Garden|giardino]] che s'oscurava, mentre [[Michael]] [[Moon]] proseguiva.
+
+«Riesci» chiese [[Michael]] «a chiudere gli occhi e vedere alcuni di quei bizzarri
+vecchi geroglifici che appiccicavano ai muri bianchi negli antichi paesi caldi?
+Com'erano rigidi di forma eppure sgargianti di colore.
+Pensa a un qualche alfabeto di figure arbitrarie ritagliate in nero e rosso,
+o bianco e verde, con qualche antica folla semitica d'antenati di Nosey Gould
+a fissarlo, e prova a pensare perché mai la gente lo mettesse
+lì.»
+
+Il primo istinto di Inglewood fu di pensare che il suo sconcertante amico
+avesse davvero finalmente perso la testa; sembrava un volo così sconsiderato
+d'irrilevanza, da quei muri dipinti di tropici che gli si chiedeva
+d'immaginare al grigio [[Garden|giardino]] suburbano, spazzato dal [[Wind|vento]] e alquanto gelido,
+in cui stava effettivamente battendo i tacchi.
+Come potesse essere più felice nell'uno immaginando l'altro non riusciva
+a concepirlo. Entrambi (in sé) erano sgradevoli.
+
+«Perché tutti ripetono gli indovinelli» proseguì [[Moon]] bruscamente,
+«anche se ne hanno dimenticato le risposte? Gli indovinelli sono facili da ricordare
+perché sono difficili da indovinare. Così quei rigidi vecchi simboli
+in nero, rosso o verde erano facili da ricordare perché erano stati difficili
+da indovinare. I loro colori erano chiari. Le loro forme erano chiare.
+Tutto era chiaro tranne il significato.»
+
+Inglewood stava per aprir bocca in un'amabile protesta, ma [[Moon]]
+proseguì, tuffandosi sempre più svelto su e giù per il [[Garden|giardino]] e fumando
+sempre più in fretta. «Anche le danze» disse; «le danze non erano frivole.
+Le danze erano più difficili da capire delle iscrizioni e dei testi.
+Le antiche danze erano rigide, cerimoniali, dai colori vivaci ma silenziose.
+Hai notato qualcosa di strano in [[smith|Smith]]?»
+
+«[[Well|Beh]], davvero» esclamò Inglewood, rimasto indietro in un crollo d'[[Humour|umorismo]],
+«ho forse notato qualcos'altro?»
+
+«Hai notato questo di lui» chiese [[Moon]], con incrollabile insistenza,
+«che ha fatto tanto e detto tanto poco? Quando arrivò la prima volta parlò,
+ma in modo ansimante e irregolare, come se non ci fosse abituato.
+Tutto ciò che fece davvero furono azioni—dipingere [[Flowers|fiori]] rossi su toghe nere o gettare
+borse gialle sull'erba. Ti dico che quella grande figura verde è figurativa—
+come una qualsiasi figura verde che saltella su un bianco muro orientale.»
+
+«Mio caro [[Michael]]» esclamò Inglewood, in un'irritazione crescente che aumentava
+col crescere del [[Wind|vento]], «stai diventando assurdamente fantasioso.»
+
+«Penso a ciò che è appena successo» disse [[Michael]] con fermezza.
+«Quell'uomo non parla da ore; eppure ha parlato
+per tutto il [[Time|tempo]]. Ha sparato tre colpi da una sei-colpi e poi
+ce l'ha ceduta, quando avrebbe potuto stenderci morti sui nostri stivali.
+Come avrebbe potuto esprimere meglio di così la sua fiducia in noi?
+Voleva essere giudicato da noi. Come avrebbe potuto mostrarlo meglio
+che standosene del tutto immobile e lasciando che ne discutessimo?
+Voleva mostrare che stava lì di sua volontà,
+e che poteva fuggire se voleva. Come avrebbe potuto mostrarlo
+meglio che fuggendo nella carrozza e tornando indietro?
+[[Innocent]] [[smith|Smith]] non è un pazzo—è un ritualista. Vuole
+esprimere se stesso, non con la lingua, ma con le braccia e le gambe—
+col mio [[Body|corpo]] io ti venero, come dice il rito del [[Marriage|matrimonio]].
+Comincio a capire le vecchie recite e i cortei. Vedo perché
+i muti a un funerale erano muti. Vedo perché i mimi erano ammutoliti.
+SIGNIFICAVANO qualcosa; e anche [[smith|Smith]] significa qualcosa.
+Tutti gli altri scherzi devono essere rumorosi—come gli scherzi del piccolo Nosey Gould,
+per esempio. Gli unici scherzi silenziosi sono gli scherzi di fatto.
+Il povero [[smith|Smith]], a ben considerarlo, è un burlone allegorico da fatti.
+Ciò che ha davvero fatto in questa [[house|casa]] è stato frenetico
+come una [[Dance|danza]] di guerra, ma silenzioso come un quadro.»
+
+«Immagino tu voglia dire» disse l'altro dubbioso, «che dobbiamo scoprire
+che cosa significassero tutti questi crimini, come fossero tanti rompicapo a immagini colorate.
+Ma anche ammesso che significhino qualcosa—perbacco, Signore benedici l'[[Soul|anima]] mia!—»
+
+Prendendo la svolta del [[Garden|giardino]] con tutta naturalezza, aveva sollevato
+gli occhi alla [[Moon|luna]], ormai a quest'[[Time|ora]] levatasi grande e luminosa,
+e aveva visto un'enorme figura mezzo umana seduta sul muro del [[Garden|giardino]].
+Era stagliata così nettamente contro la [[Moon|luna]] che al primo lampo
+era difficile essere certi persino che fosse umana: le spalle curve
+e i capelli irti avevano piuttosto l'aria d'un gatto colossale.
+Somigliava a un gatto anche nel fatto che, spaventata la prima volta,
+balzò su e corse con facile agilità lungo la cima del muro.
+Mentre correva, tuttavia, le sue pesanti spalle e la piccola testa china
+suggerivano piuttosto un babbuino. Nell'istante in cui giunse a portata
+d'un albero fece un balzo scimmiesco e si perse tra i rami.
+La burrasca, che ormai a quest'[[Time|ora]] scuoteva ogni arbusto del [[Garden|giardino]],
+rendeva l'identificazione ancor più difficile, poiché fondeva
+le membra in moto del fuggitivo nelle innumerevoli membra in moto
+dell'albero.
+
+«Chi va là?» gridò [[arthur|Arthur]]. «Chi sei? Sei tu [[Innocent]]?»
+
+«Non proprio» rispose un'oscura voce tra le [[Leaves|foglie]].
+«Una volta ti ho imbrogliato su un temperino.»
+
+Il [[Wind|vento]] nel [[Garden|giardino]] aveva preso forza, e scagliava l'albero
+avanti e indietro con l'uomo nel folto, proprio come aveva
+fatto nel gaio e dorato pomeriggio in cui egli era arrivato la prima volta.
+
+«Ma sei tu [[smith|Smith]]?» chiese Inglewood come in un'agonia.
+
+«Quasi quasi» disse la voce dall'albero sballottato.
+
+«Ma devi pur avere qualche nome vero» strillò Inglewood in preda alla [[Despair|disperazione]].
+«Devi pur chiamarti in qualche modo.»
+
+«Chiamarmi in qualche modo» tuonò l'oscura voce, scuotendo l'albero
+sicché tutte le sue diecimila [[Leaves|foglie]] parvero parlare tutte insieme.
+«Mi chiamo Rolando [[Oliver]] Isaia Carlomagno [[arthur|Arthur]] Ildebrando
+Omero Danton Michelangelo Shakespeare Brakespeare—»
+
+«Ma, [[manalive]]!» cominciò Inglewood esasperato.
+
+«Giusto! giusto!» venne con un ruggito dall'albero dondolante;
+«questo è il mio vero nome.» E spezzò un ramo, e una o due [[Leaves|foglie]]
+[[Autumn|autunnali]] svolazzarono via attraverso la [[Moon|luna]].
+
 
 
 <span class="atom-split" data-atom="chapter_07--part_01" data-title="Manalive — Chapter 1 (part 1)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="archetype/child,motif/death,motif/flowers,motif/garden,motif/moon,motif/nature,motif/rose,motif/soul,motif/time,motif/window,concept/beauty,concept/nature,setting/court,character/michael,character/queen"></span>
@@ -9475,6 +11801,117 @@ training may be admirable, hopes may be high, but the huge elemental
 hunger of Innocent Smith for blood will in its appointed season
 burst like a well-timed bomb."
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Capitolo I
+
+L'Occhio della [[Death|Morte]];
+ovvero, l'Accusa d'Omicidio
+
+La sala da pranzo dei Duke era stata allestita per la [[Court|Corte]]
+di Beacon con una certa pomposità improvvisata che sembrava in qualche modo
+accrescerne l'intimità. La grande stanza era, per così dire,
+ritagliata in stanzette, con pareti alte solo fino alla cintola—quel tipo
+di separazione che i bambini fanno quando giocano ai negozi.
+Ciò era stato fatto da Moses Gould e [[Michael]] [[Moon]]
+(i due membri più attivi di questa notevole inchiesta)
+con i comuni mobili del luogo. A un capo del lungo
+tavolo di mogano era posta l'unica enorme sedia da [[Garden|giardino]], sormontata
+dalla vecchia tenda strappata o dall'ombrello che [[smith|Smith]] stesso
+aveva suggerito come baldacchino d'incoronazione. Dentro questa costruzione
+si scorgeva la tozza figura della signora Duke, con cuscini
+e un'espressione del volto che già minacciava sonnolenza.
+All'altro capo sedeva l'accusato [[smith|Smith]], in una specie di gabbia degli imputati;
+poiché era accuratamente recintato da un quadrilatero di leggere
+sedie da camera, ciascuna delle quali avrebbe potuto scaraventare fuori dalla [[Window|finestra]]
+con l'alluce. Gli erano stati forniti penne e carta,
+con la quale faceva barchette, freccette
+e bambole di carta, contento, per tutta la durata del procedimento.
+Non parlava mai né alzava lo sguardo, ma pareva inconsapevole
+come un [[Child|bambino]] sul pavimento d'una stanza dei giochi vuota.
+
+Su una fila di sedie sollevate in alto sopra un lungo divano sedevano
+le tre giovani signore con le spalle contro la [[Window|finestra]],
+e Mary Gray nel mezzo; era qualcosa tra un banco
+della giuria e il seggio della [[Queen|Regina]] di [[Beauty|Bellezza]] a un torneo.
+Lungo il centro del lungo tavolo [[Moon]] aveva eretto una bassa barriera
+con otto volumi rilegati di «Good Words» per esprimere il muro morale
+che divideva le parti in conflitto. Sul lato destro
+sedevano i due avvocati dell'accusa, il dottor Pym e il signor Gould;
+dietro una barricata di libri e documenti, per lo più (nel caso
+del dottor Pym) solidi volumi di criminologia. Sull'altro lato,
+[[Moon]] e Inglewood, per la difesa, erano anch'essi fortificati
+di libri e carte; ma poiché queste comprendevano parecchi vecchi volumi
+gialli di Ouida e Wilkie Collins, la mano del signor [[Moon]]
+pareva essere stata alquanto sbadata e onnicomprensiva.
+Quanto alla vittima e accusatore, il dottor Warner, [[Moon]] voleva dapprima
+tenerlo interamente dietro un alto paravento nell'angolo,
+adducendo l'indelicatezza della sua apparizione in [[Court|corte]], ma privatamente
+assicurandogli il permesso ufficioso di sbirciare al di sopra
+di tanto in tanto. Il dottor Warner, tuttavia, non seppe elevarsi alla cavalleria
+d'un tal partito, e dopo qualche piccolo disturbo e discussione
+fu sistemato con un posto sul lato destro del tavolo
+in linea con i suoi consulenti legali.
+
+Fu davanti a questo tribunale solidamente costituito che il dottor Cyrus Pym,
+dopo essersi passato una mano tra i capelli color miele sopra ciascun orecchio,
+si alzò per aprire il caso. La sua esposizione fu chiara e persino contenuta,
+e i voli d'immaginazione che vi comparivano attiravano l'attenzione soltanto
+per una certa indescrivibile bruschezza, non insolita nei [[Flowers|fiori]]
+del parlare americano.
+
+Piantò le punte delle sue dieci fragili dita sul mogano,
+chiuse gli occhi e aprì la bocca. «Il [[Time|tempo]] è passato» disse,
+«in cui l'omicidio poteva essere considerato un atto morale e individuale,
+importante forse per l'assassino, forse per l'assassinato.
+La scienza ha profondamente...» qui fece una pausa, tenendo sospesi in aria
+il dito e il pollice compressi come se stringesse un'idea sfuggente
+ben stretta per la coda, poi strizzò gli occhi e disse
+«modificato», e la lasciò andare—«ha profondamente Modificato la nostra visione della [[Death|morte]].
+Nelle epoche superstiziose essa era considerata la fine della vita,
+catastrofica, e perfino tragica, ed era spesso circondata di solennità.
+Giorni più luminosi, tuttavia, sono spuntati, e ora vediamo la [[Death|morte]] come universale
+e inevitabile, come parte di quella grande media che scuote l'[[Soul|anima]] e sostiene il cuore,
+che per comodità chiamiamo l'ordine della [[Nature|natura]].
+Allo stesso modo siamo giunti a considerare l'omicidio SOCIALMENTE.
+Elevandoci al di sopra dei meri sentimenti privati di un uomo mentre è forzatamente
+privato della vita, abbiamo il privilegio di contemplare l'omicidio come un possente tutto,
+di vedere la ricca rotazione del cosmo, che reca, come reca
+i dorati raccolti e i mietitori dalla barba dorata, il ritorno
+eterno degli uccisori e degli uccisi.»
+
+Abbassò lo sguardo, alquanto commosso dalla propria eloquenza, tossì lievemente,
+alzando quattro delle sue dita appuntite con le eccellenti maniere
+di Boston, e continuò: «V'è un solo risultato di questa più lieta
+e più umana prospettiva che riguardi il misero uomo dinanzi a noi.
+È quello elucidato appieno da un dottore di Milwaukee,
+il nostro grande indovino di segreti Sonnenschein, nella sua grande opera,
+‘Il Tipo Distruttivo.' Non denunciamo Smith come un assassino,
+ma piuttosto come un uomo omicida. Il tipo è tale che la sua vita stessa—
+direi la sua salute stessa—sta nell'uccidere. Alcuni ritengono che non sia
+propriamente un'aberrazione, ma una creatura più nuova e persino più alta.
+Il mio caro vecchio amico dottor Bulger, che teneva furetti—» (qui Moon
+d'improvviso proruppe in un forte «urrà!», ma riprese così istantaneamente
+la sua espressione tragica che la signora Duke cercò dappertutto
+altrove la fonte del suono); il dottor Pym continuò alquanto severamente—«che,
+nell'interesse della conoscenza, teneva furetti, riteneva che la ferocia della creatura
+non sia utilitaristica, ma assolutamente un fine in sé.
+Comunque stiano le cose coi furetti, è certamente così col prigioniero.
+Nelle sue altre iniquità potrete trovare l'astuzia del maniaco;
+ma i suoi atti di sangue hanno quasi la semplicità della sanità mentale.
+Ma è la spaventosa sanità del sole e degli elementi—una sanità crudele,
+malvagia. Tanto varrebbe fermare le cateratte balzanti d'iride del nostro vergine
+Occidente quanto fermare la forza naturale che lo spinge a uccidere.
+Nessun ambiente, per quanto scientifico, avrebbe potuto ammorbidirlo.
+Ponete quell'uomo nella purezza argenteo-silente del più pallido chiostro,
+e vi sarà qualche atto di violenza compiuto col pastorale o col camice.
+Allevatelo in una lieta stanza dei giochi, tra la nostra infanzia anglosassone dalla fronte fiera,
+ed egli troverà un qualche modo per strangolare con la corda per saltare
+o sfracellare il cranio col mattone. Le circostanze potranno essere favorevoli,
+l'educazione potrà essere ammirevole, le speranze potranno essere alte, ma l'enorme fame elementare
+d'Innocent Smith di sangue, nella sua stagione stabilita,
+scoppierà come una bomba a tempo ben regolato.»
 
 
 
@@ -9594,6 +12031,120 @@ gesticulating in great excitement.  "My principal's got something to say!
 My principal wants to do a bit of talkin'."
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Arthur Inglewood lanciò per un istante uno sguardo curioso all'enorme creatura
+ai piedi del tavolo, che stava adattando una figura di carta con un cappello a tricorno,
+poi tornò a guardare il dottor Pym, che concludeva in tono più pacato.
+
+«Non ci resta che» disse, «addurre l'effettiva prova
+dei suoi tentativi precedenti. In base a un accordo già preso con la Corte
+e con i capi della difesa, ci è permesso di produrre come prova autentiche
+lettere di testimoni di quelle scene, che la difesa è libera di esaminare.
+Fra parecchi casi di tali oltraggi abbiamo deciso di sceglierne uno—
+il più chiaro e il più scandaloso. Chiamerò dunque, senza ulteriore indugio,
+il mio assistente, il signor Gould, a leggere due lettere—una del Vice-Rettore e
+l'altra del portiere del Brakespeare College, dell'Università di Cambridge.»
+
+Gould balzò su di scatto come un pupazzo a molla, un foglio
+dall'aria accademica in mano e una febbre d'importanza sul volto.
+Cominciò con una voce alta, acuta, cockney, brusca
+come un canto di gallo:—
+
+«Signore,—Io so' il Vice-Rettore del Brikespeare College, Cambridge—»
+
+«Signore, abbi pietà di noi» mormorò Moon, facendo un movimento all'indietro come fanno gli uomini
+quando spara un fucile.
+
+«Io so' il Vice-Rettore del Brikespeare College, Cambridge»
+proclamò l'inflessibile Moses, «e posso avvalorare la descrizione
+che avete dato dell'infelice Smith. Non fu solo mio sfortunato dovere
+rimproverare molte delle violenze minori del suo periodo da studente,
+ma fui addirittura testimone dell'ultima iniquità che pose fine
+a quel periodo. Mi capitò di passare sotto la casa del mio amico
+il Rettore di Brikespeare, ch'è semistaccata dal College
+e a esso collegata da due o tre archi o sostegni assai antichi,
+come ponti, attraverso una piccola striscia d'acqua collegata al fiume.
+Con mia grive sorpresa scorsi il mio eminente amico sospeso a mezz'aria
+e aggrappato a uno di questi pezzi di muratura, l'aspetto e
+l'atteggiamento indicanti ch'egli soffriva delle più grivi apprensioni.
+Dopo breve tempo udii due fortissimi spari, e distintamente percepii
+lo sfortunato studente Smith sporgersi di molto dalla finestra
+del Rettore e mirare ripetutamente al Rettore con una rivoltella.
+Al vedermi, Smith proruppe in una forte risata (in cui
+l'impertinenza si mescolava alla pazzia), e parve desistere.
+Mandai il portiere del college a prendere una scala, ed egli riuscì a staccare
+il Rettore dalla sua penosa posizione. Smith fu espulso.
+La fotografia che accludo è tratta dal gruppo dei vincitori del Rifle Club
+dell'Università, e lo rappresenta com'era quando stava al College.—
+Io so', vostro obbediente servitore, Amos Boulter.
+
+«L'altra lettera» proseguì Gould in un fervore di trionfo, «è del portiere,
+e non ci vorrà molto a leggerla.
+
+«Egregio Signore,—È verissimo ch'io so' il portiere del Brikespeare College,
+e ch'io 'o aiutato il Rettore a scendere quando il giovane gli sparava,
+come il signor Boulter 'a detto nella sua lettera. Il giovane che gli sparava
+era il signor Smith, lo stesso ch'è nella fotografia che il signor Boulter manda.—
+Rispettosamente vostro, Samuel Barker.»
+
+Gould porse le due lettere a Moon, che le esaminò.
+Ma a parte le divergenze vocali in materia di acca e di a,
+la lettera del Vice-Rettore era esattamente come Gould l'aveva resa;
+e sia quella sia la lettera del portiere erano palesemente autentiche.
+Moon le porse a Inglewood, che le restituì in silenzio
+a Moses Gould.
+
+«Per quanto concerne questa prima accusa di continuo tentato omicidio»
+disse il dottor Pym, alzandosi per l'ultima volta, «questo è il mio caso.»
+
+Michael Moon si alzò per la difesa con un'aria di depressione che dava
+fin dal principio poca speranza ai simpatizzanti del prigioniero.
+Non intendeva, disse, seguire il dottore nelle
+questioni astratte. «Non ne so abbastanza per essere un agnostico»
+disse, piuttosto stancamente, «e posso padroneggiare solo gli elementi noti e ammessi
+in simili controversie. Quanto alla scienza e alla religione,
+i fatti noti e ammessi sono abbastanza chiari. Tutto ciò che i parroci
+dicono è indimostrato. Tutto ciò che i dottori dicono è smentito.
+Questa è l'unica differenza tra scienza e religione che ci sia mai stata,
+o che mai ci sarà. Eppure queste nuove scoperte mi toccano, in qualche modo» disse,
+guardando mestamente giù verso i suoi stivali. «Mi ricordano una cara
+vecchia prozia che se le godeva in gioventù.
+Mi vengono le lacrime agli occhi. Vedo il vecchio secchio presso lo steccato
+del giardino e la fila di pioppi scintillanti dietro—»
+
+«Ehi! qua, ferma un po' l'omnibus» gridò il signor Moses Gould, alzandosi in una specie
+di sudorazione. «Vogliamo dare alla difesa una corsa leale—da gentiluomini,
+sapete; ma qualunque gentiluomo tirerebbe una riga davanti ai pioppi scintillanti.»
+
+«Be', al diavolo» disse Moon, con aria offesa, «se il dottor Pym
+può avere un vecchio amico coi furetti, perché non posso avere io una vecchia
+zia coi pioppi?»
+
+«Sono certa» disse la signora Duke, impettendosi, con qualcosa di quasi
+simile a una traballante autorità, «che il signor Moon può avere le zie che gli pare.»
+
+«Be', quanto a se mi piacesse» cominciò Moon, «io—ma forse,
+come dite voi, non è propriamente il nocciolo della questione.
+Ripeto che non intendo seguire le speculazioni astratte.
+Perché, invero, la mia risposta al dottor Pym è semplice e severamente concreta.
+Il dottor Pym ha trattato un solo lato della psicologia dell'omicidio.
+Se è vero che esiste un tipo d'uomo che ha una naturale
+tendenza a uccidere, non è forse ugualmente vero»—qui abbassò
+la voce e parlò con una schiacciante quiete e serietà—«non
+è forse ugualmente vero che esiste un tipo d'uomo che ha
+una naturale tendenza a farsi uccidere? Non è almeno
+un'ipotesi che tiene il campo, che il dottor Warner sia un uomo simile?
+Non parlo senza il libro, non più del mio dotto amico.
+L'intera faccenda è esposta nell'opera monumentale del dottor Moonenschein,
+‘Il Dottore Distruttibile,' con diagrammi che mostrano i vari modi
+in cui una persona come il dottor Warner può essere scomposta nei suoi elementi.
+Alla luce di questi fatti—»
+
+«Ehi, ferma l'omnibus! ferma l'omnibus!» gridò Moses, saltando su e giù e
+gesticolando in grande eccitazione. «Il mio committente ha qualcosa da dire!
+Il mio committente vuol fare un po' di chiacchiere.»
+
 
 
 <span class="atom-split" data-atom="chapter_07--part_03" data-title="Manalive — Chapter 1 (part 3)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="motif/cross,motif/death,motif/moon,motif/water,concept/body,setting/london"></span>
@@ -9712,6 +12263,120 @@ shots really hit the doctor."
 
 "For the cause of science," cried the complacent Pym, "fortunately not."
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Il dottor Pym era davvero in piedi, pallido e piuttosto feroce.
+«Mi sono rigorosamente li-mitato», disse con voce nasale,
+«a libri ai quali si possa fare immediato riferimento.
+Ho qui sul tavolo il "Tipo distruttivo" del Sonnenschein,
+se la difesa desidera vederlo. Dov'è questa mirabile opera
+sulla Distruttibilità di cui parla il signor Moon? Esiste?
+Può produrla?»
+
+«Produrla!» esclamò l'irlandese con ricco disprezzo.
+«La produco in una settimana, se pagate voi l'inchiostro e la carta.»
+
+«Avrebbe molta autorità?» domandò Pym, sedendosi.
+
+«Oh, autorità!» disse Moon con leggerezza; «questo dipende dalla religione di ciascuno.»
+
+Il dottor Pym balzò di nuovo in piedi. «La nostra autorità si fonda su masse
+di dettagli accurati», disse. «Tratta di un àmbito in cui
+le cose possono essere maneggiate e verificate. Il mio avversario ammetterà
+almeno che la morte è un fatto dell'esperienza.»
+
+«Non della mia», disse Moon mestamente, scuotendo il capo.
+«In tutta la mia vita non ho mai sperimentato una cosa simile.»
+
+«Ma davvero», disse il dottor Pym, e si sedette di scatto tra un crepitìo di carte.
+
+«Vediamo dunque», riprese Moon, con la stessa voce malinconica, «che un
+uomo come il dottor Warner è, nei misteriosi meccanismi dell'evoluzione,
+condannato a simili aggressioni. L'assalto del mio cliente, ammesso che sia avvenuto,
+non fu un caso unico. Ho tra le mani lettere di più d'una conoscenza
+del dottor Warner che quell'uomo notevole ha turbato allo stesso modo.
+Seguendo l'esempio dei miei dotti colleghi ne leggerò soltanto due.
+La prima è di un'onesta e laboriosa matrona che abita presso la Harrow Road.
+
+«Signor Moon, Egregio,--Sì, gliel'ho tirata una padèla. E allora?
+Era tutto quel che avevo da tirà, ché le cose morbide eran tutte al monte de pietà,
+e se al vostro Dotor Warner non je piace che je se tirino le padèle,
+che non venga a tené il capèlo in casa d'una donna rispettabile, e ditegli
+de finilla de sogghignà oppure de dicce la battuta.--Vostra rispettosamente,
+Hannah Miles.
+
+«L'altra lettera è di un medico di una certa fama a Dublino,
+col quale il dottor Warner fu una volta impegnato in un consulto.
+Egli scrive quanto segue:--
+
+«Egregio Signore,--L'episodio a cui Ella fa riferimento è uno di quelli che rimpiango,
+e che, per di più, non sono mai riuscito a spiegarmi.
+Il mio ramo della medicina non è quello mentale; e sarei lieto di avere
+il parere di uno specialista in malattie mentali sul mio singolare, momentaneo e invero
+quasi automatico gesto. Dire che io "tirai il naso al dottor Warner"
+è, tuttavia, inesatto in un aspetto che mi pare importante.
+Che gli abbia assestato un pugno sul naso devo ammetterlo di buon grado (inutile dire con
+quale rammarico); ma il tirare mi sembra implicare una precisione d'intento
+di cui non posso rimproverarmi. In confronto a ciò, l'atto
+del colpire fu un gesto esteriore, istantaneo, e persino naturale.--
+Mi creda, con osservanza, Burton Lestrange.
+
+«Ho innumerevoli altre lettere», proseguì [[Moon]], «tutte a testimonianza
+di questo diffuso sentimento verso il mio eminente amico; e perciò ritengo
+che il dottor Pym avrebbe dovuto ammettere questo lato della questione nella sua disamina.
+Ci troviamo, come tanto giustamente dice il dottor Pym, dinanzi a una forza naturale.
+Tanto varrebbe arrestare la cateratta delle condutture dell'[[Water|acqua]] di [[London|Londra]] quanto arrestare
+la grande tendenza del dottor Warner a essere assassinato da qualcuno.
+Mettete quell'uomo in un'adunanza di Quaccheri, fra i più pacifici dei cristiani,
+e sarà immediatamente bastonato a [[Death|morte]] con stecche di cioccolato.
+Mettetelo tra gli angeli della Nuova Gerusalemme, e sarà lapidato
+a [[Death|morte]] con pietre preziose. Le circostanze possono essere belle e mirabili,
+la media può sollevare il cuore, il mietitore può avere la barba dorata,
+il medico può indovinare segreti, la cateratta può balzare d'iride,
+il pargolo anglosassone può avere la fronte ardita, ma contro e al di sopra
+di tutti questi prodigi la grande, semplice tendenza del dottor Warner a farsi
+assassinare seguirà pur sempre la sua via finché non riuscirà, felice e trionfante, alla fine.»
+
+Pronunciò questa perorazione con un'apparenza di forte emozione.
+Ma emozioni ancor più forti si manifestavano dall'altro
+lato del tavolo. Il dottor Warner aveva sporto il suo grande [[Body|corpo]] fin quasi attraverso
+l'esile figura di Moses Gould e parlava in eccitati bisbigli
+al dottor Pym. Quell'esperto annuì molte volte e infine balzò
+in piedi con una sincera espressione di severità.
+
+«Signore e signori», esclamò indignato, «come ha detto il mio collega,
+saremmo lietissimi di concedere ogni latitudine alla difesa--se ci
+fosse una difesa. Ma il signor [[Moon]] pare credere di essere qui per fare battute--
+ottime battute, oserei dire, ma per nulla adatte ad assistere il suo cliente.
+Egli trova pecche nella scienza. Trova pecche nella popolarità sociale del mio cliente.
+Trova pecche nel mio stile letterario, che non pare confarsi al suo raffinato
+gusto europeo. Ma in che modo questo trovar pecche incide sulla questione?
+Questo [[smith|Smith]] ha fatto due buchi nel cappello del mio cliente, e con una mira migliore d'un pollice
+avrebbe fatto due buchi nella sua testa. Tutte le battute del mondo
+non ricuciranno quei buchi né saranno d'alcuna utilità alla difesa.»
+
+Inglewood abbassò lo sguardo con un certo imbarazzo, come scosso dall'evidente
+correttezza di ciò, ma [[Moon]] fissava ancora il suo avversario in modo trasognato.
+«La difesa?» disse vagamente--«oh, non l'ho ancora cominciata.»
+
+«Di certo non l'avete cominciata», disse Pym con calore, tra un mormorio d'applausi
+dalla sua parte, al quale l'altra parte trovò impossibile rispondere.
+«Forse, se avete una qualche difesa, il che è stato dubbio
+fin dal principio--»
+
+«Mentre siete in piedi», disse [[Moon]], nel medesimo tono quasi sonnolento,
+«forse potrei porvi una domanda.»
+
+«Una domanda? Certamente», disse Pym rigidamente. «Fu distintamente
+stabilito fra noi che, non potendo [[Cross|contro]]interrogare
+i testimoni, avremmo potuto per interposta persona [[Cross|contro]]interrogarci a vicenda.
+Siamo nella posizione di invitare ogni simile indagine.»
+
+«Credo abbiate detto», osservò [[Moon]] distrattamente, «che nessuno degli spari del prigioniero
+colpì davvero il dottore.»
+
+«Per la causa della scienza», esclamò il compiaciuto Pym, «fortunatamente no.»
 
 
 
@@ -9847,6 +12512,136 @@ Earth splits under men's feet into precipitous aerial perspectives,
 into which a bird could as easily wing its way as--"
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+«Eppure furono esplosi da pochi piedi di distanza.»
+
+«Sì; circa quattro piedi.»
+
+«E nessuno sparo colpì il Rettore, benché fossero esplosi assai da presso
+anche a lui?» chiese [[Moon]].
+
+«Così è», disse il testimone gravemente.
+
+«Mi pare», disse [[Moon]], reprimendo un lieve sbadiglio, «che il vostro Vice-Rettore
+abbia accennato che [[smith|Smith]] era uno dei migliori tiratori nei primati dell'Università.»
+
+«Ebbene, quanto a questo--» cominciò Pym, dopo un istante d'immobilità.
+
+«Una seconda domanda», proseguì [[Moon]], relativamente asciutto.
+«Avete detto che vi furono altri casi in cui l'accusato tentò di uccidere delle persone.
+Perché non ne avete le prove?»
+
+L'americano piantò di nuovo le punte delle dita sul tavolo.
+«In quei casi», disse con precisione, «non vi furono prove da parte di estranei,
+come nel caso di Cambridge, ma soltanto la testimonianza delle vittime stesse.»
+
+«E perché non avete raccolto la loro testimonianza?»
+
+«Nel caso delle vittime effettive», disse Pym, «vi fu una certa difficoltà
+e riluttanza, e--»
+
+«Volete dire», chiese [[Moon]], «che nessuna delle vittime effettive
+volle presentarsi contro il prigioniero?»
+
+«Sarebbe esagerato», cominciò l'altro.
+
+«Una terza domanda», disse [[Moon]], così bruscamente che tutti sobbalzarono.
+«Avete la testimonianza del Vice-Rettore che udì alcuni spari;
+dov'è la testimonianza del Rettore stesso, contro cui si sparò?
+Il Rettore di Brakespeare vive, un signore prospero.»
+
+«Gli chiedemmo effettivamente una dichiarazione», disse Pym un po' nervosamente;
+«ma era espressa in modo così eccentrico che la sopprimemmo per
+deferenza verso un vecchio signore i cui passati servigi alla scienza
+sono stati grandi.»
+
+[[Moon]] si sporse in avanti. «Volete dire, suppongo», disse, «che la sua dichiarazione
+era favorevole al prigioniero.»
+
+«Si potrebbe intenderla così», rispose il medico americano;
+«ma, davvero, era difficile intenderla in alcun modo.
+Anzi, gliela rimandammo indietro.»
+
+«Non avete più, dunque, alcuna dichiarazione firmata dal Rettore di Brakespeare.»
+
+"No."
+
+«Lo chiedo soltanto», disse [[Michael]] con calma, «perché noi l'abbiamo.
+Per concludere la mia arringa chiederò al mio secondo, il signor Inglewood,
+di leggere una dichiarazione della vera storia--una dichiarazione attestata
+come veritiera dalla firma del Rettore stesso.»
+
+[[arthur|Arthur]] Inglewood [[Rose|si levò]] con parecchi fogli in mano, e benché
+avesse l'aria alquanto raffinata e [[Self|schiva]], come sempre,
+gli spettatori furono sorpresi di avvertire che la sua presenza era,
+nel complesso, più efficace e appagante di quella del suo capo. Era,
+in [[Truth|verità]], uno di quegli uomini modesti che non sanno parlare finché non venga loro detto
+di parlare; e allora sanno parlare [[Well|bene]]. [[Moon]] era tutto l'opposto.
+Le sue stesse impudenze lo divertivano in privato, ma lo mettevano un poco
+in imbarazzo in pubblico; si sentiva uno [[Fool|sciocco]] mentre parlava,
+mentre Inglewood si sentiva uno [[Fool|sciocco]] soltanto perché non sapeva parlare.
+Nel momento in cui aveva qualcosa da dire sapeva parlare;
+e nel momento in cui sapeva parlare, il parlare pareva del tutto naturale.
+Nulla in questo universo pareva del tutto naturale a [[Michael]] [[Moon]].
+
+«Come il mio collega ha appena spiegato», disse Inglewood, «vi sono
+due enigmi o incongruenze su cui fondiamo la difesa.
+Il primo è un semplice fatto fisico. Per ammissione di tutti,
+per le prove stesse addotte dall'accusa, è chiaro
+che l'accusato era celebre come tiratore particolarmente valente.
+Eppure in entrambe le occasioni lamentate sparò da una distanza di quattro
+o cinque piedi, e gli sparò contro quattro o cinque volte, senza mai colpirlo una sola volta.
+Questa è la prima circostanza sorprendente su cui fondiamo il nostro argomento.
+La seconda, come il mio collega ha sostenuto, è il curioso fatto che non riusciamo
+a trovare una sola vittima di questi presunti oltraggi che parli in prima persona.
+Parlano per lui i subalterni. I portieri si arrampicano fino a lui con le scale.
+Ma egli stesso tace. Signore e signori, mi propongo di spiegare
+qui su due piedi tanto l'[[Riddle|enigma]] degli spari quanto l'[[Riddle|enigma]] del [[Silence|silenzio]].
+Leggerò innanzitutto la lettera di accompagnamento in cui è contenuto il vero racconto
+dell'episodio di Cambridge, e poi il documento stesso.
+Quando li avrete uditi entrambi, non vi sarà alcun [[Doubt|dubbio]] sulla vostra decisione.
+La lettera di accompagnamento recita come segue:--
+
+«Egregio Signore,--Ciò che segue è un resoconto assai esatto e persino vivido dell'
+episodio come realmente accadde al Brakespeare College. Noi, sottoscritti,
+non vediamo alcuna particolare ragione per cui dovremmo attribuirlo a una
+paternità isolata. La [[Truth|verità]] è che è stato una produzione collettiva;
+e abbiamo avuto persino qualche divergenza d'opinione sugli aggettivi.
+Ma ogni parola è vera.--Siamo, con osservanza, vostri,
+
+«Wilfred Emerson Eames,
+Rettore del Brakespeare College, Cambridge.
+
+«[[Innocent]] [[smith|Smith]].
+
+«Il documento accluso», proseguì Inglewood, «recita come segue:--
+
+«Una celebre università inglese sorge così a ridosso del [[River|fiume]],
+che deve, per così dire, essere puntellata e rappezzata
+con ogni sorta di ponti e di edifici a schiera.
+Il [[River|fiume]] si divide in parecchi rigagnoli e canali,
+sicché in un angolo o due il luogo ha quasi l'aspetto
+di [[Venice|Venezia]]. Così era specialmente nel caso di cui
+ci occupiamo, in cui alcuni archi rampanti o aeree costole di pietra
+si slanciavano attraverso una striscia d'[[Water|acqua]] a congiungere il Brakespeare College
+con la [[house|casa]] del Rettore di Brakespeare.
+
+«La campagna intorno a questi collegi è piatta; ma non
+sembra piatta quando ci si trova così in mezzo ai collegi.
+Poiché in queste piatte paludi vi sono sempre laghi vaganti e pigri
+fiumi d'[[Water|acqua]]. E questi mutano sempre quello che avrebbe potuto essere
+uno schema di linee orizzontali in uno schema di linee verticali.
+Ovunque vi sia [[Water|acqua]] l'altezza degli alti edifici è raddoppiata,
+e una [[house|casa]] britannica di mattoni diventa una torre babilonese.
+In quella superficie lucente e immota le case pendono a capo
+in giù esattamente fino al loro comignolo più alto o più basso.
+La nuvola color corallo veduta in quell'abisso è tanto
+al di sotto del mondo quanto il suo originale appare al di sopra.
+Ogni brandello d'[[Water|acqua]] non è soltanto una [[Window|finestra]] ma un lucernario.
+La terra si spacca sotto i piedi degli uomini in precipiti prospettive aeree,
+nelle quali un uccello potrebbe librarsi con la stessa facilità con cui--
+
 
 
 <span class="atom-split" data-atom="chapter_07--part_05" data-title="Manalive — Chapter 1 (part 5)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="topos/double,motif/animals,motif/cross,motif/machine,motif/mirror,motif/moon,motif/nakedness,motif/nature,motif/night,motif/rose,motif/stars,motif/time,motif/water,motif/well,concept/body,concept/nature,concept/reform,concept/suicide,concept/truth,setting/court,character/brutus,character/michael,character/pistol"></span>
@@ -9959,6 +12754,115 @@ They did not know that in reality the [[Machine|machine]] only comes from the go
 In short, they were all pessimists, and starlight was atrocious to them--
 atrocious because it was true.  All their universe was black with white spots.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Il dottor Cyrus Pym [[Rose|si levò]] in segno di protesta. I documenti che aveva prodotto
+in giudizio si erano limitati a fredde affermazioni di fatto.
+La difesa, in linea generale, aveva l'indubbio diritto di esporre
+la propria causa a modo suo, ma tutto questo giardinaggio paesaggistico
+gli sembrava (a lui, il dottor Cyrus Pym) non essere all'altezza della faccenda.
+«Vorrà il capo della difesa dirmi», chiese, «come possa
+mai incidere su questo caso il fatto che una nuvola fosse color coràllo,
+o che un uccello avrebbe potuto librarsi in un luogo qualsiasi?»
+
+«Oh, non lo so», disse [[Michael]], sollevandosi pigramente;
+«vedete, non sapete ancora quale sia la nostra difesa.
+Finché non lo sapete, non capite, qualsiasi cosa può essere pertinente.
+Ma via, supponete», disse d'un tratto, come colpito da un'idea,
+«supponete che volessimo dimostrare che il vecchio Rettore era daltonico.
+Supponete che gli avesse sparato un uomo nero dai capelli bianchi, mentre egli
+credeva che gli sparasse un uomo bianco dai capelli gialli!
+Accertare se quella nuvola fosse davvero e veramente color corallo
+potrebbe essere della più massiccia importanza.»
+
+Si fermò con una serietà che era ben poco condivisa in generale,
+e continuò con la stessa scioltezza: «Oppure supponete che volessimo
+sostenere che il Rettore commise [[suicide|suicidio]]--che si limitò a far reggere a [[smith|Smith]]
+la [[Pistol|pistola]] come lo schiavo di [[Brutus|Bruto]] gli resse la [[Sword|spada]]. Ebbene, farebbe
+tutta la differenza il fatto che il Rettore potesse vedersi chiaramente
+in un'[[Water|acqua]] immota. L'[[Water|acqua]] immota ha prodotto centinaia di suicidi:
+ci si vede così--[[Well|beh]], così chiaramente.»
+
+«Sostenete forse», domandò Pym con austera ironia, «che il vostro
+cliente fosse un uccello di qualche specie--diciamo, un fenicottero?»
+
+«Quanto al fatto che sia un fenicottero», disse [[Moon]] con improvvisa severità,
+«il mio cliente si riserva la difesa.»
+
+Non sapendo bene nessuno che cosa farne di ciò, il signor [[Moon]] tornò a sedersi
+e Inglewood riprese la lettura del suo documento:--
+
+«C'è qualcosa di gradevole per un mistico in una simile terra di specchi.
+Poiché un mistico è colui che ritiene che due mondi siano meglio di uno.
+Nel senso più alto, invero, ogni pensiero è riflesso.
+
+«Questa è la vera [[Truth|verità]], nel detto che i secondi pensieri sono i migliori.
+Gli [[Animals|animali]] non hanno secondi pensieri; l'uomo [[Alone|solo]] è capace di vedere il proprio
+pensiero [[Double|doppio]], come un ubriaco vede un lampione; l'uomo [[Alone|solo]] è capace
+di vedere il proprio pensiero capovolto come si vede una [[house|casa]] in una pozzanghera.
+Questo raddoppiamento della mente, come in uno [[Mirror|specchio]], è (lo ripetiamo)
+la cosa più intima della [[philosophy|filosofia]] umana. Vi è una mistica, anzi
+mostruosa [[Truth|verità]], nell'affermazione che due teste sono meglio di una.
+Ma dovrebbero crescere entrambe sul medesimo [[Body|corpo]].»
+
+«So che all'inizio è un po' trascendentale», si intromise Inglewood,
+raggiante e con un'ampia scusa, «ma vedete, questo documento fu scritto
+in collaborazione da un docente e da un--»
+
+«Ubriacone, eh?» suggerì Moses Gould, cominciando a divertirsi.
+
+«Sono piuttosto propenso a credere», proseguì Inglewood con aria imperturbata
+e critica, «che questa parte l'abbia scritta il docente.
+Avverto soltanto la [[Court|Corte]] che la dichiarazione, benché indubitabilmente accurata,
+reca qua e là la traccia di provenire da due autori.»
+
+«In tal caso», disse il dottor Pym, reclinandosi all'indietro e annusando,
+«non posso concordare con loro che due teste siano meglio di una.»
+
+«I sottoscritti ritengono superfluo toccare un problema affine
+così spesso discusso nelle commissioni per la [[Reform|Riforma]] universitaria:
+la questione se i docenti vedano [[Double|doppio]] perché sono ubriachi,
+oppure si ubriachino perché vedono [[Double|doppio]]. Basta loro
+(ai sottoscritti) poter perseguire il proprio peculiare
+e proficuo tema--che sono le pozzanghere. Che cos'è (si domandano
+i sottoscritti) una pozzanghera? Una pozzanghera ripete l'infinito,
+ed è colma di luce; nondimeno, se analizzata oggettivamente,
+una pozzanghera è un pezzo d'[[Water|acqua]] sporca spalmata assai sottile sul fango.
+Le due grandi università storiche d'Inghilterra hanno tutta questa vasta
+e piana e riflettente brillantezza. Nondimeno, o, piuttosto, d'altra
+parte, sono pozzanghere--pozzanghere, pozzanghere, pozzanghere, pozzanghere.
+I sottoscritti vi chiedono di scusare un'enfasi inseparabile
+da una salda convinzione.»
+
+Inglewood ignorò un'espressione alquanto stralunata sui volti di alcuni presenti,
+e continuò con eminente allegria:--
+
+«Tali erano i pensieri che non riuscirono ad [[Cross|attraversare]] la mente
+dello studente [[smith|Smith]] mentre si faceva strada tra le strisce
+di canale e le luccicanti grondaie piovose in cui l'[[Water|acqua]]
+si frangeva intorno al retro del Brakespeare College. Se questi pensieri
+gli avessero attraversato la mente sarebbe stato molto più felice di quanto fosse.
+Purtroppo egli non sapeva che i suoi rompicapi erano pozzanghere.
+Non sapeva che la mente accademica riflette l'infinito ed è colma
+di luce per il semplice processo di essere poco profonda e di starsene immobile.
+Nel suo caso, dunque, vi era qualcosa di solenne, e persino di malvagio,
+nell'infinito implicato. Si era a metà d'una stellata
+[[Night|notte]] di sconcertante splendore; le [[Stars|stelle]] erano tanto in alto quanto in basso.
+Alla cupa fantasia del giovane [[smith|Smith]] i cieli in basso parevano ancor più cavi
+dei cieli in alto; aveva l'orribile idea che, se avesse contato
+le [[Stars|stelle]], ne avrebbe trovata una di troppo nella pozza.
+
+«Attraversando i piccoli sentieri e ponti si sentiva come chi cammina
+sulle nere ed esili costole di una cosmica Torre Eiffel. Poiché per lui,
+e per quasi tutta la gioventù istruita di quell'epoca, le [[Stars|stelle]] erano cose crudeli.
+Benché ardessero nella grande cupola ogni [[Night|notte]], erano un enorme
+e brutto segreto; scoprivano la [[Nakedness|nudità]] della [[Nature|natura]]; erano uno scorcio
+delle ruote di ferro e delle carrucole dietro le quinte. Poiché i giovani
+di quel triste [[Time|tempo]] credevano che il dio venga sempre dalla [[Machine|macchina]].
+Non sapevano che in realtà la [[Machine|macchina]] viene soltanto dal dio.
+In breve, erano tutti pessimisti, e la luce delle stelle era per loro atroce--
+atroce perché era vera. Tutto il loro universo era nero con macchie bianche.
 
 
 
@@ -10090,6 +12994,133 @@ and chimneys pendent in the pools, they felt [[Alone|alone]] in space.
 They felt as if they were looking over the edge from the North Pole
 and seeing the South Pole below.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+«[[smith|Smith]] alzò lo sguardo con sollievo dalle luccicanti pozze in basso
+verso i luccicanti cieli e la grande mole nera del collegio.
+L'unica luce oltre alle [[Stars|stelle]] brillava attraverso una tenda
+verde-pavone nella parte alta dell'edificio, a segnare dove
+il dottor Emerson Eames lavorava sempre fino al mattino e riceveva
+i suoi amici e allievi prediletti a qualsiasi ora della [[Night|notte]].
+Ed era infatti verso le sue stanze che il [[Melancholy|malinconico]] [[smith|Smith]] era diretto.
+[[smith|Smith]] era stato alla lezione del dottor Eames per la prima metà della mattina,
+e all'esercizio di [[Pistol|pistola]] e alla scherma in un salone per la seconda metà.
+Aveva remato all'impazzata per la prima metà del pomeriggio
+e pensato oziosamente (e ancor più follemente) per la seconda metà.
+Era andato a una cena dove fu chiassoso, e poi a un circolo
+di dibattito dove fu perfettamente insopportabile, e il [[Melancholy|malinconico]]
+[[smith|Smith]] era [[Melancholy|malinconico]] ancora. Poi, mentre tornava a [[Home|casa]] verso il suo
+alloggio, si ricordò dell'eccentricità del suo amico e maestro,
+il Rettore di Brakespeare, e risolse disperatamente di far capo
+alla [[house|casa]] privata di quel signore.
+
+«Emerson Eames era per molti versi un eccentrico, ma il suo trono
+nella [[philosophy|filosofia]] e nella metafisica era di eminenza internazionale;
+l'università difficilmente avrebbe potuto permettersi di perderlo, e, per di più,
+a un docente basta perseverare in una qualsiasi delle sue cattive abitudini abbastanza a lungo
+per farne parte della Costituzione britannica. Le cattive abitudini
+di Emerson Eames erano di vegliare tutta la [[Night|notte]] e di essere uno studioso
+di Schopenhauer. Di persona, era un uomo magro, dall'aria indolente,
+con una bionda barba a punta, non molto più anziano del suo
+allievo [[smith|Smith]] in fatto di meri anni, ma più anziano di secoli
+nei due aspetti essenziali di avere una fama europea
+e una testa calva.
+
+«‘Sono venuto, contro le regole, a quest'ora impossibile’, disse Smith, che
+non era nulla all'occhio se non un uomo assai grande che cercava di farsi piccolo,
+‘perché sto giungendo alla conclusione che l'esistenza è davvero troppo marcia.
+Conosco tutti gli argomenti dei pensatori che la pensano altrimenti--vescovi,
+e agnostici, e gente di quella sorta. E sapendo che eravate la più grande
+autorità vivente sui pensatori pessimisti--’
+
+«‘Tutti i pensatori’, disse Eames, ‘sono pensatori pessimisti.’
+
+«Dopo un tratto di pausa, non il primo--poiché questa deprimente conversazione
+andava avanti da alcune ore con alternanze di cinismo e [[Silence|silenzio]]--
+il Rettore continuò con la sua aria di stanca brillantezza: ‘È tutta una questione
+di calcolo sbagliato. La falena vola nella candela perché per caso
+non sa che il gioco non vale la candela. La vespa finisce
+nella marmellata in vigorosi e speranzosi sforzi di far entrare la marmellata in sé.
+ALLO stesso modo la gente volgare vuole godersi la vita proprio come vuole
+godersi il gin--perché è troppo stupida per vedere che ne sta pagando un prezzo
+troppo alto. Che non trovi mai la felicità--che non sappia nemmeno
+come cercarla--è provato dalla paralizzante goffaggine e bruttezza
+di tutto ciò che fa. I loro colori discordanti sono grida di dolore.
+Guarda le ville di mattoni oltre il collegio, da questo lato del fiume.
+Ce n'è una con le persiane a chiazze; guardala! va' e guardala!’
+
+«‘Naturalmente’, proseguì sognante, ‘uno o due uomini vedono il sobrio
+fatto da lontano--e impazziscono. Hai notato che i maniaci per lo più
+cercano o di distruggere le altre cose, o (se sono riflessivi)
+di distruggere se stessi? Il pazzo è l'uomo dietro le quinte,
+come l'uomo che vaga per la quinta di un teatro.
+Non ha fatto che aprire la porta sbagliata ed entrare nel posto giusto.
+Vede le cose dall'angolazione giusta. Ma il mondo comune--’
+
+«‘Oh, al diavolo il mondo comune!’ disse il cupo [[smith|Smith]], lasciando cadere il pugno
+sul tavolo in un'oziosa [[Despair|disperazione]].
+
+«‘Diamogli prima un cattivo nome’, disse il Professore con calma,
+‘e poi impicchiamolo. Un cucciolo con l'idrofobia probabilmente lotterebbe
+per la vita mentre lo uccidiamo; ma se fossimo benevoli lo uccideremmo.
+Così un dio onnisciente ci porrebbe fine al nostro [[Pain|dolore]].
+Ci colpirebbe a morte.’
+
+«‘Perché non ci colpisce a morte?’ chiese lo studente distrattamente,
+affondando le mani nelle tasche.
+
+«‘È morto lui stesso’, disse il filosofo; ‘ed è lì che
+è davvero da invidiare.’
+
+«‘Per chiunque pensi’, proseguì Eames, ‘i piaceri della vita,
+banali e presto insipidi, sono lusinghe per attirarci in una camera di tortura.
+Tutti vediamo che per ogni uomo pensante la mera estinzione è la... Che
+stai facendo?... Sei impazzito?... Metti giù quella cosa.’
+
+«Il dottor Eames aveva girato la sua testa stanca ma ancora loquace sopra la spalla,
+e si era ritrovato a fissare un piccolo foro nero e rotondo, cerchiato da un
+anello d'acciaio a sei lati, con una specie di punta ritta in cima.
+Lo teneva fermo come un occhio di ferro. Per quegli eterni istanti durante
+i quali la ragione resta stordita, egli non seppe nemmeno che cosa fosse.
+Poi vide dietro di esso la canna a tamburo e il cane armato di
+un revolver, e dietro ancora il volto arrossato e piuttosto pesante di Smith,
+in apparenza del tutto immutato, o persino più mite di prima.
+
+«‘Ti tirerò fuori dal tuo buco, vecchio mio’, disse [[smith|Smith]],
+con rude tenerezza. ‘Metterò fine al dolore del cucciolo.’
+
+«Emerson Eames indietreggiò verso la finestra. ‘Vuoi
+uccidermi?’ gridò.
+
+«‘Non è cosa che farei per chiunque’, disse Smith con emozione;
+‘ma tu e io pare che siamo diventati così intimi questa [[Night|notte]], chissà come.
+Ora conosco tutti i tuoi tormenti, e l'unica cura, vecchio mio.’
+
+«‘Metti giù quella cosa’, gridò il Rettore.
+
+«‘Sarà presto finita, sai’, disse [[smith|Smith]] con l'aria di un
+dentista compassionevole. E mentre il Rettore si slanciava verso la [[Window|finestra]]
+e il balcone, il suo benefattore lo seguì con passo fermo
+e un'espressione piena di compassione.
+
+«Entrambi gli uomini rimasero forse sorpresi nel vedere che il grigio e il bianco
+del primo albeggiare erano già venuti. Uno di loro, tuttavia,
+aveva emozioni tali da [[Swallow|inghiottire]] la sorpresa. Il Brakespeare College
+era uno dei pochi che conservavano vere tracce di ornamento gotico,
+e proprio sotto il balcone del dottor Eames si sporgeva quello che forse era
+stato un arco rampante, ancora informemente foggiato in bestie grigie
+e diavoli, ma accecato dai muschi e dilavato dalle piogge.
+Con un balzo sgraziato e coraggiosissimo, Eames si slanciò su questo
+antico ponte, quale unico modo possibile di sfuggire al maniaco.
+Vi sedette a cavalcioni, ancora nella sua toga accademica, dondolando le
+lunghe gambe sottili, e considerando ulteriori possibilità di fuga.
+La luce del giorno che imbiancava apriva sotto di lui [[Well|non meno]] che sopra quell'
+impressione di infinito verticale già rilevata a proposito dei piccoli
+laghi intorno a Brakespeare. Guardando in basso e vedendo le guglie
+e i comignoli sospesi nelle pozze, si sentirono [[Alone|soli]] nello spazio.
+Si sentirono come se guardassero oltre l'orlo dal Polo Nord
+e vedessero il Polo Sud in basso.
 
 
 
@@ -10226,6 +13257,137 @@ terror upon the face of the Sub-Warden, and heard the refined shriek
 with which he summoned the porter and the ladder.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+«‘Al diavolo il mondo, dicevamo’, osservò Smith, ‘e il mondo è impiccato.
+"Egli ha appeso il mondo sopra il nulla", dice la [[Bible|Bibbia]]. Ti piace essere
+appeso sopra il nulla? Io stesso sto per essere appeso a qualcosa.
+Sto per penzolare per te... Cara, tenera vecchia frase’, mormorò;
+‘mai vera fino a questo momento. Sto per penzolare per te.
+Per te, caro amico. Per amor tuo. Per tuo espresso desiderio.’
+
+«‘Aiuto!’ gridò il Rettore del Brakespeare College; ‘aiuto!’
+
+«‘Il cucciolo si dibatte’, disse lo studente, con occhio di pietà,
+‘il povero cucciolo si dibatte. Che fortuna che io sia più saggio
+e più benevolo di lui’, e puntò l'arma in modo da coprire esattamente
+la parte superiore della calva testa di Eames.
+
+«‘[[smith|Smith]]’, disse il filosofo con un improvviso mutamento verso una sorta
+di spettrale lucidità, ‘impazzirò.’
+
+«‘E così guarderai le cose dall'angolazione giusta’, osservò [[smith|Smith]],
+sospirando dolcemente. ‘Ah, ma la follia è nel migliore dei casi solo un palliativo,
+una droga. L'unica cura è un'operazione--un'operazione che ha
+sempre successo: la morte.’
+
+«Mentre parlava, il sole sorse. Parve infondere colore in ogni cosa,
+con la rapidità di un artista fulmineo. Una flotta di piccole
+nuvole che veleggiavano per il cielo passò dal grigio-colombo al rosa.
+Su tutta la piccola città accademica le cime dei diversi edifici
+assunsero diverse tinte: qui il sole faceva risaltare il verde
+smaltato su un pinnacolo, là le tegole scarlatte di una villa;
+qui l'ornamento di rame su qualche bottega d'arte, e là
+le ardesie azzurro-mare di qualche vecchio e ripido tetto di chiesa.
+Tutte queste creste colorate parevano avere qualcosa di stranamente
+individuale e significativo, come cimieri di famosi
+cavalieri additati in un corteo o su un campo di battaglia: ciascuna
+arrestava l'occhio, specialmente l'occhio roteante di Emerson Eames
+mentre si volgeva a guardare il mattino e lo accettava come il suo ultimo.
+Attraverso una stretta fessura tra una taverna di legno nero e un grande
+grigio collegio poteva scorgere un orologio dalle lancette dorate che il
+sole incendiava. Lo fissò come ipnotizzato;
+e d'un tratto l'orologio cominciò a battere, come in risposta personale.
+Come a un segnale, orologio dopo orologio riprese il grido:
+tutte le chiese si destarono come galletti al canto del gallo.
+Gli uccelli erano già rumorosi tra gli alberi dietro il collegio.
+Il sole sorse, radunando una gloria che pareva troppo piena perché i profondi
+cieli la contenessero, e le basse acque sottostanti parevano dorate
+e traboccanti e profonde abbastanza per la sete degli dèi.
+Proprio dietro l'angolo del Collegio, e visibili dal suo folle trespolo,
+c'erano le macchie più luminose di quel luminoso paesaggio, la villa
+con le persiane a chiazze che quella notte egli aveva preso a suo tema.
+Si domandò per la prima volta chi vi abitasse.
+
+«D'un tratto chiamò con mera autorità querula,
+come avrebbe potuto chiamare uno studente perché chiudesse una porta.
+
+«‘Lasciatemi scendere da questo posto’, gridò; ‘non lo sopporto.’
+
+«‘Piuttosto [[Doubt|dubito]] che ti regga’, disse [[smith|Smith]] in tono critico;
+‘ma prima che tu ti rompa il collo, o che io ti faccia saltare le cervella,
+o ti lasci rientrare in questa stanza (su quali complessi punti io
+sono indeciso) voglio che il punto metafisico sia chiarito.
+Ho capito bene che vuoi tornare alla vita?’
+
+«‘Darei qualunque cosa per tornare indietro’, rispose l'infelice professore.
+
+«‘Darai qualunque cosa!’ esclamò Smith; ‘allora, che tu sia dannato per la tua impudenza,
+dacci una [[Song|canzone]]!’
+
+«‘Che canzone intendi?’ domandò l'esasperato Eames; ‘quale [[Song|canzone]]?’
+
+«‘Un inno, credo, sarebbe quanto mai appropriato’, rispose l'altro gravemente.
+‘Ti lascerò andare se ripeterai dopo di me le parole--
+
+«‘Ringrazio la bontà e la grazia
+Che sulla mia nascita hanno sorriso,
+E su questo curioso luogo m'han posato,
+Un lieto fanciullo inglese.’
+
+«Avendo il dottor Emerson Eames brevemente obbedito, il suo persecutore bruscamente
+gli disse di tenere le mani in alto. Collegando vagamente questo
+procedimento con la solita condotta di briganti e predoni dell'entroterra,
+il signor Eames le tenne alzate, assai rigidamente, ma senza marcata sorpresa.
+Un uccello che si posò sul suo sedile di pietra non gli badò più
+di quanto avrebbe badato a una statua comica.
+
+«‘Sei ora impegnato in un pubblico culto’, osservò [[smith|Smith]] severamente,
+‘e prima che io abbia finito con te, ringrazierai Dio persino per le anatre
+dello stagno.’
+
+«Il celebre pessimista espresse in modo semiarticolato la sua perfetta
+prontezza a ringraziare Dio per le anatre dello stagno.
+
+«‘Senza dimenticare i maschi delle anatre’, disse [[smith|Smith]] con severità.
+(Eames debolmente concesse i maschi delle anatre.) ‘Senza dimenticare nulla, prego.
+Ringrazierai il cielo per le chiese e le cappelle e le ville
+e la gente volgare e le pozzanghere e le pentole e i tegami e i bastoni
+e gli stracci e le ossa e le persiane a chiazze.’
+
+«‘Va bene, va bene’, ripeté la vittima in preda alla [[Despair|disperazione]];
+‘bastoni e stracci e ossa e persiane.’
+
+«‘Persiane a chiazze, mi pare avessimo detto’, osservò [[smith|Smith]] con
+una furfantesca spietatezza, e agitandogli contro la canna della [[Pistol|pistola]]
+come un lungo dito metallico.
+
+«‘Persiane a chiazze’, disse Emerson Eames flebilmente.
+
+«‘Non puoi essere più giusto di così’, ammise il più giovane,
+‘e ora ti dirò soltanto questo per concludere.
+Se davvero fossi ciò che professi di essere, non vedo che cosa
+importerebbe a lumaca o serafino se ti rompessi l'empio rigido
+collo e ti spappolassi tutte le tue farneticanti cervella adoratrici del diavolo.
+Ma in rigoroso fatto biografico tu sei un tipo assai simpatico,
+dedito a dire putride sciocchezze, e ti voglio bene come a un fratello.
+Sparerò dunque tutte le mie cartucce intorno alla tua testa
+così da non colpirti (sono un buon tiratore, ti farà piacere saperlo),
+e poi entreremo a fare colazione.’
+
+«Poi scaricò due colpi in aria, che il Professore
+sopportò con singolare fermezza, e poi disse: ‘Ma non [[Fire|spararle]]
+tutte.’
+
+«‘Perché no’ chiese l'altro con baldanza.
+
+«‘Conservale’, chiese il suo compagno, ‘per il prossimo uomo che incontrerai
+che parli come stavamo parlando noi.’
+
+«Fu in questo momento che Smith, guardando in basso, scorse un apoplettico
+terrore sul volto del Vice-Rettore, e udì lo strillo raffinato
+con cui costui chiamò il portiere e la scala.
+
 
 
 <span class="atom-split" data-atom="chapter_07--part_08" data-title="Manalive — Chapter 1 (part 8)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="motif/birds,motif/death,motif/night,motif/pain,motif/rose,motif/time,motif/water,motif/well,character/pistol"></span>
@@ -10357,6 +13519,133 @@ Warden of Brakespeare College, Cambridge.
 "Innocent Smith."
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+«Al dottor Eames occorse un po' di tempo per districarsi dalla
+scala, e un po' più di tempo per districarsi dal
+Vice-Rettore. Ma non appena poté farlo senza dar nell'occhio,
+raggiunse il suo compagno della recente straordinaria scena.
+Fu stupito di trovare il gigantesco Smith profondamente scosso,
+seduto con la testa irsuta tra le mani. Quando gli fu rivolta la parola,
+sollevò un volto assai pallido.
+
+«‘Ma via, che cosa c'è?’ chiese Eames, i cui nervi a quest'[[Time|ora]]
+si erano cinguettati fino alla quiete, come gli [[Birds|uccelli]] del mattino.
+
+«‘Devo chiederti indulgenza’, disse Smith, con voce piuttosto rotta.
+‘Devo chiederti di renderti conto che sono appena scampato alla [[Death|morte]].’
+
+«‘TU sei scampato alla morte?’ ripeté il Professore
+con non imperdonabile irritazione. ‘[[Well|Beh]], questa poi è la faccia tosta--’
+
+«‘Oh, non capisci, non capisci?’ gridò il pallido
+giovane con impazienza. ‘Dovevo farlo, Eames; dovevo dimostrare
+che avevi torto, o morire. Quando un uomo è giovane, quasi sempre ha
+qualcuno che considera il segno d'alta [[Water|marea]] della mente umana--
+qualcuno che sa tutto, se qualcuno lo sa.
+
+«‘Ebbene, quello eri tu per me; parlavi con autorità,
+e non come gli scribi. Nessuno poteva consolarmi se TU
+dicevi che non c'era consolazione. Se davvero pensavi che non ci fosse
+nulla in nessun luogo, era perché c'eri stato a vedere.
+Non capisci che DOVEVO dimostrare che non lo pensavi davvero?--
+o altrimenti annegarmi nel canale.’
+
+«‘[[Well|Beh]]’, disse Eames esitante, ‘credo che forse tu confonda--’
+
+«‘Oh, non dirmi questo!’ gridò [[smith|Smith]] con l'improvvisa chiaroveggenza
+del [[Pain|dolore]] mentale; ‘non dirmi che confondo il godimento dell'esistenza
+con la Volontà di Vivere! Questo è tedesco, e il tedesco è alto-tedesco,
+e l'alto-tedesco è arabo. La cosa che vidi risplendere nei tuoi occhi
+quando penzolavi da quel ponte era il godimento della vita e non "la
+Volontà di Vivere". Ciò che sapevi quando sedevi su quel maledetto doccione
+era che il mondo, a conti fatti, è un luogo meraviglioso e
+bello; lo so, perché lo seppi nello stesso minuto.
+Vidi le grigie nuvole farsi rosa, e il piccolo orologio dorato nella fessura
+tra le case. Erano QUELLE cose che ti dispiaceva lasciare, non la Vita,
+qualunque cosa essa sia. Eames, siamo stati insieme sull'orlo della morte;
+non vuoi ammettere che ho ragione?’
+
+«‘Sì’, disse Eames assai lentamente, ‘credo che tu abbia ragione.
+Avrai il massimo dei voti!’
+
+«‘Bene!’ gridò [[smith|Smith]], balzando su rianimato. ‘Sono stato promosso
+con lode, e ora lasciami andare a occuparmi di farmi espellere.’
+
+«‘Non hai bisogno di essere espulso’, disse Eames con la tranquilla sicurezza
+di dodici anni d'intrigo. ‘Da noi tutto discende
+dall'uomo in cima alle persone che gli stanno intorno: io sono l'uomo in cima,
+e dirò la verità alle persone intorno a me.’
+
+«Il massiccio signor Smith si alzò e andò con fermezza alla finestra,
+ma parlò con uguale fermezza. ‘Devo essere espulso’, disse,
+‘e alle persone non deve essere detta la verità.’
+
+«‘E perché no’ chiese l'altro.
+
+«‘Perché intendo seguire il tuo consiglio’, rispose il massiccio giovane,
+‘intendo serbare i colpi rimanenti per le persone nel vergognoso stato
+in cui io e te eravamo la scorsa [[Night|notte]]--vorrei che potessimo persino addurre l'ubriachezza.
+Intendo serbare quelle pallottole per i pessimisti--pillole per gente pallida.
+E in questo modo voglio camminare per il mondo come una meravigliosa sorpresa--
+fluttuare ozioso come il pappo del cardo, e giungere silenzioso come l'alba;
+non essere atteso più di quanto lo sia il fulmine, non essere
+richiamato più di quanto lo sia la brezza morente. Non voglio che la gente
+mi preveda come uno scherzo [[Well|ben]] noto. Voglio che entrambi i miei doni
+giungano vergini e violenti, la [[Death|morte]] e la vita dopo la [[Death|morte]].
+Sto per puntare una [[Pistol|pistola]] alla testa dell'Uomo Moderno. Ma
+non la userò per ucciderlo--solo per portarlo alla vita.
+Comincio a vedere un nuovo significato nell'essere lo [[skeleton|scheletro]] al banchetto.’
+
+«‘Difficilmente ti si può chiamare uno scheletro’, disse il dottor Eames, sorridendo.
+
+«‘Questo viene dallo stare tanto al banchetto’, rispose il massiccio giovane.
+‘Nessuno scheletro può mantenere la linea se è sempre a cena fuori.
+Ma non è proprio ciò che intendevo: quello che intendo è che colsi
+una sorta di barlume del significato della morte e di tutto il resto--il teschio
+e le tibie incrociate, il ~memento mori~. Non serve soltanto a ricordarci
+una vita futura, ma a ricordarci anche una vita presente.
+Con i nostri deboli spiriti invecchieremmo nell'eternità se non fossimo mantenuti
+giovani dalla morte. La Provvidenza deve tagliarci l'immortalità a pezzi,
+come le balie tagliano il pane e burro a bastoncini.’
+
+«Poi aggiunse d'un tratto con voce di innaturale concretezza:
+‘Ma ora so qualcosa, Eames. Lo seppi quando vidi
+le nuvole farsi rosa.’
+
+«‘Che cosa intendi?’ chiese Eames. ‘Che cosa sapesti?’
+
+«‘Seppi per la prima volta che l'omicidio è davvero un male.’
+
+«Strinse la mano del dottor Eames e si avviò a tentoni, alquanto malfermo,
+verso la porta. Prima di sparire attraverso di essa aveva aggiunto:
+‘È molto pericoloso, però, quando un uomo crede per una frazione di secondo
+di comprendere la [[Death|morte]].’
+
+«Il dottor Eames rimase in riposo e in ruminazione per alcune ore dopo che il suo
+recente aggressore se n'era andato. Poi si [[Rose|alzò]], prese cappello e ombrello,
+e fece una vivace, per quanto rotatoria, passeggiata. Parecchie volte,
+tuttavia, sostò fuori dalla villa con le persiane a chiazze,
+studiandole intentamente con la testa leggermente inclinata da un lato.
+Alcuni lo presero per un pazzo e alcuni per un aspirante acquirente.
+Non è ancora certo che i due personaggi sarebbero molto diversi.
+
+«La narrazione di cui sopra è stata costruita su un principio che è,
+a parere dei sottoscritti, nuovo nell'arte delle lettere.
+Ciascuno dei due attori è descritto come appariva all'altro.
+Ma i sottoscritti garantiscono in modo assoluto l'esattezza
+della storia; e se la loro versione della cosa fosse messa in dubbio, essi,
+i sottoscritti, vorrebbero dannatamente [[Well|bene]] sapere chi mai ne
+sappia qualcosa se non loro.
+
+«I sottoscritti si ritireranno ora al ‘Cane a Chiazze’
+per una birra. Addio.
+
+«(Firmato) James Emerson Eames,
+Rettore del Brakespeare College, Cambridge.
+
+«Innocent Smith.»
+
 
 
 <span class="atom-split" data-atom="chapter_08--part_01" data-title="Manalive — Chapter 2 (part 1)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="motif/swords_and_weapons,concept/crime_and_punishment,concept/rationalism,concept/paradox,concept/satire_of_society,character/innocent_smith,character/arthur_inglewood,character/dr_cyrus_pym,character/michael_moon,character/dr_warner,character/moses_gould"></span>
@@ -10485,6 +13774,131 @@ closed again as he hesitated)--"in short, for the required period.
 But there is something special in the case we investigate here.
 Kleptomania commonly con-joins itself--"
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Capitolo II
+
+I Due Curati;
+ossia, l'Accusa di Furto con Scasso
+
+Arthur Inglewood porse il documento che aveva appena letto ai capi
+dell'accusa, i quali lo esaminarono con le teste unite.
+Tanto l'ebreo quanto l'americano erano di stirpe sensibile ed eccitabile,
+e rivelarono, con i sussulti e gli scossoni della testa nera e di quella
+gialla, che nulla si poteva fare quanto a smentire il documento.
+La lettera del Rettore era autentica quanto la lettera del
+Vice-Rettore, per quanto deplorevolmente diversa in dignità e tono sociale.
+
+«Pochissime parole», disse Inglewood, «occorrono per concludere
+la nostra causa in questa faccenda. Di certo è ormai chiaro che il nostro cliente
+portava con sé la pistola con l'eccentrico ma innocente
+scopo di dare un salutare spavento a coloro che egli considerava
+bestemmiatori. In ogni caso lo spavento fu tanto salutare
+che la vittima stessa lo ha datato come una nuova nascita.
+Smith, ben lungi dall'essere un pazzo, è piuttosto un medico dei pazzi--
+va per il mondo curando le frenesie, non distribuendole.
+Questa è la risposta alle due domande senza risposta che io
+posi agli accusatori. È per questo che non osarono produrre
+una sola riga di chi avesse effettivamente affrontato la pistola.
+Tutti coloro che avevano effettivamente affrontato la pistola confessarono di averne
+tratto profitto. Ecco perché Smith, benché buon tiratore,
+non colpì mai nessuno. Non colpì mai nessuno perché era un buon tiratore.
+La sua mente era sgombra d'omicidio come le sue mani lo sono di sangue.
+Questa, io dico, è l'unica spiegazione possibile di questi fatti
+e di tutti gli altri fatti. Nessuno può in alcun modo spiegare
+la condotta del Rettore se non credendo alla storia del Rettore.
+Persino il dottor Pym, che è una vera fabbrica d'ingegnose teorie,
+non ha saputo trovare altra teoria che copra il caso.»
+
+«Vi sono promettenti pro-spettive nell'ipnotismo e nella doppia personalità»,
+disse il dottor Cyrus Pym sognante; «la scienza della criminologia è nella
+sua infanzia, e--»
+
+«Infanzia!» esclamò Moon, agitando in aria la sua matita rossa con un gesto
+d'illuminazione; «ma certo, questo spiega tutto!»
+
+«Ripeto», proseguì Inglewood, «che né il dottor Pym né alcun altro
+può rendere ragione, con altra teoria che non sia la nostra, della firma del Rettore,
+degli spari mancati e dei testimoni mancanti.»
+
+Il piccolo yankee era scivolato in piedi con un certo ritorno
+di una freddezza da gallo da combattimento. «La difesa», disse,
+«omette un fatto freddamente colossale. Dicono che non produciamo nessuna
+delle vittime effettive. Beh, ecco una vittima--il celebre e
+colpito Warner d'Inghilterra. Direi che è prodotto piuttosto bene.
+E insinuano che tutti gli oltraggi furono seguiti
+da riconciliazione. Beh, non c'è mosca che si posi sul Warner d'Inghilterra;
+e lui non è per niente tanto riconciliato.»
+
+«Il mio dotto amico», disse Moon, alzandosi in piedi con studiata lentezza,
+«deve ricordare che la scienza dello sparare al dottor Warner è nella sua infanzia.
+Il dottor Warner colpirebbe anche l'occhio più pigro come uno particolarmente difficile da destare
+a un qualche riconoscimento della gloria di Dio. Ammettiamo che il nostro cliente,
+in questo unico caso, abbia fallito, e che l'operazione non abbia avuto successo.
+Ma sono autorizzato a offrire, a nome del mio cliente, una proposta
+per operare di nuovo il dottor Warner, alla sua prima comodità,
+e senza ulteriori onorari.»
+
+«Al diàvolo, Michael», esclamò Gould, serio per la prima volta
+in vita sua, «potresti dàrcene un po' di dannato buonsenso, tanto per cambià.»
+
+«Di che cosa parlava il dottor Warner appena prima del primo sparo?»
+chiese Moon bruscamente.
+
+«La creatura», disse il dottor Warner con alterigia, «mi chiese,
+con caratteristica razionalità, se fosse il mio compleanno.»
+
+«E voi rispondeste, con caratteristica boria», esclamò Moon, protendendo
+un lungo dito scarno, rigido e trattenente quanto la pistola di Smith,
+«che non festeggiavate il vostro compleanno.»
+
+«Qualcosa del genere», ammise il dottore.
+
+«Poi», continuò Moon, «vi chiese perché no, e voi diceste che era perché non
+vedevate nella nascita nulla di cui rallegrarsi. D'accordo? Ora, c'è
+qualcuno che dubiti che il nostro racconto sia vero?»
+
+Ci fu un freddo fragore d'immobilità nella sala; e Moon disse: «Pax populi
+vox Dei; è il silenzio del popolo a essere la voce di Dio. O, nel
+più civile linguaggio del dottor Pym, tocca a lui aprire il capo d'accusa successivo.
+Su questo reclamiamo un'assoluzione.»
+
+Era circa un'ora più tardi. Il dottor Cyrus Pym era rimasto per un tempo senza precedenti
+con gli occhi chiusi e il pollice e l'indice sospesi in aria.
+Sembrava quasi che fosse stato «colpito così», come dicono le balie;
+e nel silenzio mortale Michael Moon si sentì costretto ad alleviare
+la tensione con qualche osservazione. Nell'ultima mezz'ora circa l'eminente
+criminologo aveva spiegato che la scienza assumeva la stessa posizione
+riguardo ai reati contro la proprietà come riguardo ai reati contro la vita.
+«La maggior parte degli omicidi», aveva detto, «è una variazione della mania omicida,
+e allo stesso modo la maggior parte dei furti è una versione della cleptomania.
+Non posso nutrire alcun dubbio che i miei dotti amici di fronte
+concepiscano adeguatamente come questo debba comportare uno schema di pena
+più tol-lerante e umano dei crudeli metodi degli antichi codici.
+Essi esibiranno senza dubbio la consapevolezza di un abisso così eminentemente spalancato,
+così arrestante il pensiero, così--» Fu a questo punto che si fermò e si concesse
+il delicato gesto a cui si è fatto allusione; e Michael
+non poté più sopportarlo.
+
+«Sì, sì», disse con impazienza, «ammettiamo l'abisso.
+I vecchi crudeli codici accusano un uomo di furto e lo mandano
+in prigione per dieci anni. Il tollerante e umano cartellino
+non lo accusa di nulla e lo manda in prigione per sempre.
+Superiamo l'abisso.»
+
+Fu tipico dell'eminente Pym, in una delle sue trance
+di scrupolosità verbale, che proseguisse, inconsapevole non solo
+dell'interruzione del suo avversario, ma persino della propria pausa.
+
+«Così migliorativo della stirpe», continuò il dottor Cyrus Pym, «così gravido
+di vere alte speranze per il futuro. La scienza pertanto
+considera i ladri, in astratto, proprio come considera gli assassini.
+Li considera non come peccatori da punire per un periodo arbitrario,
+ma come pazienti da trattenere e curare», (le sue prime due dita
+si richiusero di nuovo mentre esitava)--«in breve, per il periodo richiesto.
+Ma vi è qualcosa di speciale nel caso che qui investighiamo.
+La cleptomania comunemente si con-giunge--»
 
 
 
@@ -12465,6 +15879,122 @@ After that conjectural date, alas, he seems to have plunged deeper
 and deeper into the shaking quagmires of infidelity and shame."
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Capitolo IV
+
+Le nozze selvagge;
+ovvero, l'accusa di poligamia
+
+"Un uomo moderno," disse il dottor Cyrus Pym, "deve, se è
+uomo di pensiero, accostarsi al problema del matrimonio
+con una certa cautela. Il matrimonio è una tappa—senza
+dubbio una tappa opportuna—nella lunga avanzata dell'umanità
+verso una meta che ancora non siamo in grado di concepire;
+che forse non siamo ancora nemmeno degni di desiderare.
+Qual è, signori, la posizione etica del matrimonio?
+Gli siamo forse sopravvissuti?"
+
+"Sopravvissuti?" scattò Moon; "ma nessuno gli è mai sopravvissuto!
+Guardate tutte le persone sposate da Adamo ed Eva in poi—e tutte
+morte stecchite."
+
+"Questa è senza dubbio un'inter-pellanza di carattere joc'lare,"
+disse gelidamente il dottor Pym. "Non saprei dire quale possa
+essere la matura e ponderata visione etica del signor Moon sul matrimonio—"
+
+"Io so dirlo," disse Michael ferocemente, fuori dall'oscurità. "Il matrimonio è un duello
+mortale, che nessun uomo d'onore dovrebbe rifiutare."
+
+"Michael," disse Arthur Inglewood a voce bassa, "DEVI startene zitto."
+
+"Il signor Moon," disse Pym con squisita amabilità, "probabilmente considera
+l'istituzione in maniera più antiquata. Probabilmente la vorrebbe
+rigorosa e uniforme. Tratterebbe il divorzio in qualche grande anima
+d'acciaio—il divorzio di un Giulio Cesare o di un Salt Ring Robinson—
+esattamente come tratterebbe qualche insignificante vagabondo o bracciante che
+se la svigna dalla moglie. La scienza ha vedute più ampie e più umane.
+Così come per lo scienziato l'omicidio è una sete di distruzione assoluta,
+così come per lo scienziato il furto è una fame di monotona acquisizione,
+così per lo scienziato la poligamia è uno sviluppo estremo dell'istinto
+di varietà. Un uomo così afflitto è incapace di costanza.
+Senza dubbio vi è una causa fisica per questo svolazzare di fiore in fiore—
+come vi è, senza dubbio, per il gemito intermittente che pare
+affliggere il signor Moon in questo preciso momento. Il nostro sprezzatore
+del mondo Winterbottom ha persino osato dire: ‘Per un certo raro e fine
+tipo fisico la poligamia non è che la realizzazione della varietà delle femmine,
+come il [[Comradeship|cameratismo]] è la realizzazione della varietà dei maschi.'
+In ogni caso, il tipo che tende alla varietà è riconosciuto da tutti
+gli inquisitori autorevoli. Un tale tipo, se vedovo di una negra,
+in molti casi accertati sposa ~en seconde noces~ un'albina;
+un tale tipo, quando liberato dai giganteschi amplessi di una femmina patagone,
+spesso evolve dal proprio istinto immaginativo la consolante figura di
+un'eschimese. A un tale tipo non vi può essere [[Doubt|dubbio]] che appartenga il prigioniero.
+Se cieca condanna e insopportabile [[Temptation|tentazione]] costituiscono una pur lieve scusa
+per un uomo, non vi è [[Doubt|dubbio]] che egli abbia queste scuse.
+
+"In una fase precedente dell'inchiesta la difesa ha mostrato un vero
+idealismo cavalleresco ammettendo metà della nostra storia senza ulteriore contestazione.
+Vorremmo riconoscere e imitare uno stile così eminentemente magnanimo
+concedendo a nostra volta che il racconto fatto dal curato Percy a proposito
+della canoa, della chiusa e della giovane sposa sembra essere sostanzialmente vero.
+A quanto pare [[smith|Smith]] sposò davvero una giovane donna che aveva quasi travolto con una barca;
+resta solo da valutare se non sarebbe stato più gentile da parte sua
+ucciderla anziché sposarla.
+A conferma di questo fatto posso ora con-cedere alla difesa
+un incontestabile documento di tale [[Marriage|matrimonio]]."
+
+Così dicendo, porse a [[Michael]] un ritaglio della
+"Maidenhead Gazette" che registrava distintamente il [[Marriage|matrimonio]]
+della figlia di un "ripetitore," un tutore [[Well|ben]] noto nel luogo,
+col signor [[Innocent]] [[smith|Smith]], già del Brakespeare College, di Cambridge.
+
+Quando il dottor Pym riprese, ci si accorse che il suo volto era divenuto
+a un tempo tragico e trionfante.
+
+"Mi soffermo su questo fatto pre-liminare," disse gravemente,
+"perché questo fatto [[Alone|da solo]] ci darebbe la vittoria,
+se aspirassimo alla vittoria e non alla [[Truth|verità]].
+Per quanto ci trattiene il problema personale e domestico,
+quel problema è risolto. Il dottor Warner e io entrammo in questa [[house|casa]] in
+un istante di diffi­coltà altamente emotiva. Il Warner d'Inghilterra è
+entrato in molte case per salvare il genere umano dalla malattia; questa [[Time|volta]]
+entrò per salvare una dama [[Innocent|innocente]] da una pestilenza ambulante.
+[[smith|Smith]] stava proprio per portar via una giovane fanciulla da questa [[house|casa]];
+la sua carrozza e la sua borsa erano già sulla porta stessa. Le aveva detto che sarebbe
+andata ad attendere la licenza di [[Marriage|matrimonio]] a casa di sua zia.
+Quella zia," proseguì Cyrus Pym, con il volto che si oscurava solennemente—"quella
+zia visionaria era stata il danzante fuoco fatuo
+che aveva condotto molte fanciulle d'animo elevato alla loro rovina.
+In quante orecchie verginali ha egli sussurrato quella sacra parola?
+Quando diceva ‘zia' brillava intorno a lei tutta l'allegria
+e l'alta moralità del focolare anglosassone. Le teiere cominciavano a canticchiare,
+i gattini a fare le fusa, in quella stessa selvaggia carrozza che veniva
+condotta alla distruzione."
+
+Inglewood alzò lo sguardo e scoprì, con suo stupore (come molti altri
+abitanti dell'emisfero orientale hanno scoperto), che l'americano era
+non solo perfettamente serio, ma davvero eloquente e commovente—
+una volta operato l'aggiustamento per la differenza tra gli emisferi.
+
+"È dunque atrocemente evidente che l'uomo Smith ha per lo
+meno rappresentato se stesso a un'innocente femmina di questa casa
+come uno scapolo idoneo, essendo, di fatto, un uomo sposato. Concordo con
+il mio collega, il signor Gould, che nessun altro delitto potrebbe avvicinarsi a questo.
+Quanto al fatto se ciò che i nostri antenati chiamavano purezza abbia un qualche valore
+etico ultimo, la scienza esita davvero con un'alta, orgogliosa esitazione.
+Ma quale esitazione può esservi sulla bassezza di un cittadino
+che si arrischia, con brutali esperimenti su femmine vive, ad anticipare
+il verdetto della scienza su un tale punto?
+
+"La donna menzionata dal curato Percy come convivente di Smith
+a Highbury può essere o non essere la stessa dama che egli sposò
+a Maidenhead. Se un breve dolce periodo di costanza e di riposo
+del cuore interruppe il torrente precipitoso della sua vita dissoluta,
+non lo priveremo di quella lontana possibilità.
+Dopo quella data congetturale, ahimè, egli sembra essersi tuffato sempre più
+profondamente nelle tremule paludi dell'infedeltà e della vergogna."
+
 
 
 <span class="atom-split" data-atom="chapter_10--part_02" data-title="Manalive — Chapter 4 (part 2)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="archetype/innocent,archetype/king,motif/machine,motif/marriage,motif/time,character/richard"></span>
@@ -12584,6 +16114,121 @@ these things in a record and leave it with them.
 Publishers' Reader.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Il dottor Pym chiuse gli occhi, ma la sfortunata circostanza che non vi fosse più
+luce lasciò questo consueto segnale privo del suo pieno e dovuto effetto morale.
+Dopo una pausa, che quasi partecipava del carattere della preghiera, proseguì.
+
+"Il primo caso delle ripetute e irregolari nozze dell'accusato,"
+esclamò, "proviene da Lady Bullingdon, la quale si esprime
+con quell'alta alterigia che va scusata in coloro che guardano
+l'intera umanità dalle torri di un maniero normanno e avito.
+La comunicazione che ci ha inviato recita come segue:—
+
+"Lady Bullingdon rammenta il penoso incidente cui si fa
+riferimento, e non ha alcun desiderio di trattarlo in dettaglio.
+La ragazza Polly Green era una sarta perfettamente adeguata,
+e visse nel villaggio per circa due anni. La sua condizione
+di nubile era dannosa per lei quanto per la moralità
+generale del villaggio. Lady Bullingdon, pertanto, lasciò intendere
+di essere favorevole al matrimonio della giovane donna.
+I paesani, desiderosi com'è naturale di compiacere Lady Bullingdon,
+si fecero avanti in più d'un caso; e tutto sarebbe andato bene se non
+fosse stato per la deplorevole eccentricità o depravazione della ragazza
+Green stessa. Lady Bullingdon suppone che dove c'è
+un villaggio debba esserci uno scemo del villaggio, e nel suo villaggio,
+a quanto pare, ve n'era una di queste misere creature.
+Lady Bullingdon lo vide una sola volta, ed è ben consapevole
+che è davvero difficile distinguere tra veri
+idioti e l'ordinario tipo ottuso dei ceti rurali inferiori.
+Notò, tuttavia, la sorprendente piccolezza della sua testa
+in confronto al resto del corpo; e, in effetti, il fatto
+che fosse comparso il giorno delle elezioni portando la coccarda
+di entrambi i due partiti avversi pare a Lady Bullingdon
+porre la questione del tutto fuor di dubbio. Lady Bullingdon fu
+sbalordita nell'apprendere che questo essere afflitto si era
+proposto come uno dei pretendenti della ragazza in questione.
+Il nipote di Lady Bullingdon interrogò lo sciagurato sul punto,
+dicendogli che era un ‘[[donkey|asino]]' a sognare una cosa simile,
+e ricevette effettivamente, insieme a un ghigno imbecille,
+la risposta che gli asini in genere vanno dietro alle carote.
+Ma Lady Bullingdon fu ancor più stupefatta nel trovare l'infelice
+ragazza incline ad accettare questa mostruosa proposta, benché fosse
+stata chiesta in [[Marriage|matrimonio]] da Garth, l'impresario di pompe funebri, un uomo
+in posizione di gran lunga superiore alla sua. Lady Bullingdon non poté,
+naturalmente, avallare per un solo istante un simile accordo,
+e le due infelici persone fuggirono per un [[Marriage|matrimonio]] clandestino.
+Lady Bullingdon non riesce a ricordare esattamente il nome dell'uomo,
+ma pensa fosse [[smith|Smith]]. Nel villaggio veniva sempre chiamato
+l'[[Innocent|Innocente]]. Più tardi, Lady Bullingdon crede che egli abbia assassinato
+la Green in un accesso di follia."
+
+"La comunicazione seguente," proseguì Pym, "spicca di più per brevità,
+ma ritengo che riuscirà a rendere adeguatamente il succo.
+È datata dagli uffici dei signori Hanbury e Bootle, editori,
+e recita come segue:—
+
+"Egr. Sig.,—Vs. ric. e cont. annotato. Voce re dattilografa forse riferita
+a una signorina Blake o nome simile, andatasene di qui nove anni fa per sposare
+un suonatore d'organetto. Il caso fu senza dubbio curioso, e attirò l'attenzione della polizia.
+La ragazza lavorò egregiamente fino a circa l'ott. 1907, quando parve impazzire.
+Fu redatto al [[Time|momento]] un resoconto, parte del quale accludo.—
+Vs., ecc., W. Trip.
+
+"La versione più ampia recita come segue:—
+
+"Il 12 ottobre una lettera fu spedita da questo ufficio ai signori
+Bernard e Juke, rilegatori. Aperta dal signor Juke, si scoprì
+che conteneva quanto segue: ‘Egr. Sig., il nostro sig. Trip passerà alle 3,
+poiché desideriamo sapere se è davvero deciso 00000073bb!!!!!xy.'
+A ciò il signor Juke, persona d'animo faceto, restituì la risposta:
+‘Egr. Sig., sono in grado di dare come mia più decisa opinione
+che non è affatto deciso che 00000073bb!!!!!xy. Vs., ecc.,
+J. Juke.'
+
+"Nel ricevere questa straordinaria risposta, il nostro sig. Trip chiese la lettera
+originale da lui spedita, e scoprì che la dattilografa aveva davvero sostituito
+questi dementi geroglifici alle frasi realmente dettatele.
+Il nostro sig. Trip interrogò la ragazza, temendo che fosse in uno
+stato di squilibrio, e non fu troppo rassicurato quando ella si limitò a osservare
+che le veniva sempre così quando sentiva l'organetto.
+Facendosi ancor più isterica e stravagante, ella fece una serie di affermazioni
+del tutto improbabili—come, che era fidanzata col suonatore d'organetto,
+che costui aveva l'abitudine di farle la serenata con quello strumento,
+che lei aveva l'abitudine di rispondergli suonando sulla macchina da scrivere
+(alla maniera di [[King|Re]] [[Richard|Riccardo]] e Blondel), e che l'orecchio
+musicale del suonatore era tanto squisito e la sua adorazione per lei tanto ardente
+che egli sapeva distinguere la nota delle diverse lettere sulla [[Machine|macchina]],
+e ne era rapito come da una melodia. A tutte queste affermazioni
+naturalmente il nostro sig. Trip e il resto di noi prestammo solo quel genere di assenso
+che si presta alle persone che vanno affidate quanto più rapidamente possibile
+alle cure dei propri parenti. Ma nell'accompagnare la signorina al pianterreno,
+la sua storia ricevette la più sorprendente e persino esasperante conferma;
+poiché il suonatore d'organetto, un uomo enorme dalla testa piccola e manifestamente
+un altro forsennato, aveva spinto il suo organetto contro le porte dell'ufficio
+come un ariete, e reclamava chiassosamente la sua presunta fidanzata.
+Quando io stesso comparvi sulla scena egli agitava le sue grandi braccia scimmiesche
+e le recitava una poesia. Ma eravamo abituati a matti che venivano a recitare
+[[Poems|poesie]] nel nostro ufficio, e non eravamo del tutto preparati a ciò che seguì.
+Il verso che effettivamente pronunciò cominciava, credo,
+
+"‘O vivida, inviolata testa,
+Cinta—'
+
+"ma non andò oltre. Il sig. Trip fece un brusco
+movimento verso di lui, e l'istante dopo il gigante sollevò
+la povera dattilografa come una bambola, la fece sedere in cima
+all'organetto, lo spinse fragorosamente fuori dalle porte dell'ufficio,
+e sfrecciò via lungo la strada come una carriola volante.
+Misi la polizia sulla faccenda; ma non si poté trovare traccia
+della sorprendente coppia. Me ne dispiacque io stesso; poiché la signorina era
+non solo piacevole ma insolitamente colta per la sua posizione.
+Poiché sto lasciando il servizio dei signori Hanbury e Bootle, metto
+queste cose in un resoconto e lo lascio a loro.
+(Firmato) Aubrey Clarke,
+Lettore Editoriale.
+
 
 
 <span class="atom-split" data-atom="chapter_10--part_03" data-title="Manalive — Chapter 4 (part 3)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="motif/wordplay,motif/letters_and_writing,concept/madness,concept/power_of_language,concept/nonsense,concept/crime_and_punishment,character/innocent_smith,character/dr_cyrus_pym,character/michael_moon"></span>
@@ -12693,6 +16338,112 @@ But we still ask whether they were ever born?"
 
 "Oh, crikey!" said Moses Gould, stifled with amusement.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+"E l'ultimo documento," disse il dottor Pym compiaciuto, "proviene da
+una di quelle donne d'animo elevato che in quest'epoca hanno introdotto
+la vostra gioventù femminile inglese all'hockey, alla matematica superiore,
+e a ogni forma di idealità.
+
+"Egregio Signore (scrive lei),—Non ho obiezioni a riferirle
+i fatti circa l'assurdo incidente che lei menziona; benché io la
+preghi di comunicarli con una certa cautela, poiché tali cose,
+per quanto divertenti in astratto, non sempre giovano
+al buon esito di una scuola femminile. La verità è questa:
+volevo qualcuno che tenesse una conferenza su una questione filologica
+o storica—una conferenza che, pur contenendo
+solida materia educativa, fosse un po' più popolare e
+divertente del solito, essendo l'ultima conferenza del trimestre.
+Ricordavo che un certo signor Smith di Cambridge aveva scritto da qualche
+parte un divertente saggio sul proprio nome alquanto ubiquo—
+un saggio che rivelava una notevole conoscenza di genealogia
+e topografia. Gli scrissi, chiedendogli se volesse venire a
+tenerci un brillante discorso sui cognomi inglesi; e lo fece.
+Fu molto brillante, quasi troppo brillante. Per dirla altrimenti,
+quando fu arrivato a metà divenne evidente
+alle altre insegnanti e a me stessa che l'uomo era del tutto
+e interamente fuori di senno. Cominciò abbastanza razionalmente trattando
+le due categorie dei nomi di luogo e dei nomi di mestiere, e disse
+(giustissimamente, oserei dire) che la perdita di ogni significato
+nei nomi era un esempio dell'intorpidimento della civiltà.
+Ma poi proseguì tranquillamente sostenendo che ogni uomo che avesse
+un nome di luogo dovrebbe andare a vivere in quel luogo, e che ogni
+uomo che avesse un nome di mestiere dovrebbe adottare all'istante quel mestiere;
+che le persone chiamate col nome di colori dovrebbero sempre vestirsi di quei colori,
+e che le persone chiamate col nome di alberi o piante (come Beech, faggio, o Rose, rosa)
+dovrebbero circondarsi e adornarsi di questi vegetali.
+In una breve discussione sorta in seguito tra le ragazze più grandi
+le difficoltà della proposta furono chiaramente, e persino con foga,
+messe in luce. Si obiettò, per esempio, dalla signorina Younghusband
+che le era sostanzialmente impossibile recitare la parte
+assegnatale; la signorina Mann si trovava in un dilemma analogo, dal quale
+nessuna moderna veduta sui sessi pareva poterla trarre;
+e alcune signorine, i cui cognomi si davano per Low (basso), Coward (vile)
+e Craven (codardo), erano decisamente entusiaste contro l'idea.
+Ma tutto questo accadde in seguito. Ciò che accadde nel momento
+cruciale fu che il conferenziere estrasse dalla borsa vari ferri di cavallo e un
+grosso martello di ferro, annunciò la sua immediata intenzione
+di impiantare una fucina nel vicinato, e chiamò tutti
+a insorgere nella stessa causa come per un'eroica rivoluzione.
+Le altre insegnanti e io tentammo di fermare lo sciagurato,
+ma devo confessare che per un accidente proprio questa intercessione
+produsse la peggiore esplosione della sua follia. Agitava
+il martello, e reclamava selvaggiamente i nomi di tutti;
+e volle il caso che la signorina Brown, una delle insegnanti più giovani,
+indossasse un abito marrone—un abito bruno-rossastro che si accordava
+abbastanza sommessamente col tono più caldo dei suoi capelli, come lei ben sapeva.
+Era una brava ragazza, e le brave ragazze sanno queste cose.
+Ma quando il nostro maniaco scoprì che avevamo davvero una signorina Brown
+che ERA brown, la sua ~idée fixe~ esplose come una polveriera,
+e lì, alla presenza di tutte le insegnanti e ragazze,
+egli propose pubblicamente il matrimonio alla dama in abito bruno-rosso.
+Potete immaginare l'effetto di una scena simile in una scuola femminile.
+O per lo meno, se non riuscite a immaginarla, io di certo non riesco
+a descriverla.
+
+"Naturalmente, l'anarchia si placò in una o due settimane, e ora posso
+pensarci come a uno scherzo. Vi fu un solo dettaglio curioso,
+che le racconterò, dato che dice che la sua indagine è vitale; ma dovrei
+pregarla di considerarlo un po' più confidenziale del resto.
+La signorina Brown, che era un'eccellente ragazza sotto ogni aspetto, ci lasciò
+del tutto improvvisamente e furtivamente appena un giorno o due dopo.
+Non avrei mai pensato che sarebbe stata la sua la testa
+davvero sconvolta da un'eccitazione così assurda.—Mi creda,
+sua devotissima, Ada Gridley.
+
+"Ritengo," disse Pym, con una semplicità e serietà davvero convincenti,
+"che queste lettere parlino da sé."
+
+Il signor Moon si alzò per l'ultima volta in un buio che non dava alcun indizio
+se la sua nativa gravità fosse mescolata alla sua nativa ironia.
+
+"Nel corso di tutta questa inchiesta," disse, "ma specialmente in questa sua
+fase conclusiva, l'accusa si è perpetuamente appoggiata a un solo argomento;
+intendo il fatto che nessuno sa che ne sia stato di tutte le infelici
+donne apparentemente sedotte da Smith. Non c'è alcuna sorta di prova
+che siano state assassinate, ma tale implicazione viene perpetuamente insinuata
+quando si pone la domanda su come siano morte. Ora, io non sono
+interessato a come siano morte, o quando siano morte, o se siano morte.
+Sono invece interessato a un'altra questione analoga—quella di come
+siano nate, e quando siano nate, e se siano nate.
+Non fraintendetemi. Non contesto l'esistenza di
+queste donne, né la veridicità di coloro che le hanno testimoniate.
+Rilevo semplicemente il fatto notevole che una sola di queste vittime,
+la ragazza di Maidenhead, è descritta come avente una qualche casa o dei genitori.
+Tutte le altre sono pensionanti o uccelli di passo—un'ospite, una solitaria
+sarta, una ragazza scapola addetta alla dattilografia. Lady Bullingdon,
+guardando dalle sue torri, che comprò dai Wharton con
+il denaro del vecchio fabbricante di sapone quando colse al volo l'occasione di sposare
+un gentiluomo squattrinato dell'Ulster—Lady Bullingdon, guardando fuori da quelle torri,
+vide davvero un oggetto che descrive come Green. Il signor Trip,
+di Hanbury e Bootle, ebbe davvero una dattilografa promessa
+a Smith. La signorina Gridley, per quanto idealista, è assolutamente onesta.
+Ella ospitò, nutrì e istruì davvero una giovane donna che Smith riuscì
+ad adescare e portar via. Ammettiamo che tutte queste donne siano davvero vissute.
+Ma continuiamo a chiederci: sono mai nate?"
+
+"Oh, perbacco!" disse Moses Gould, soffocato dal divertimento.
 
 
 
@@ -12816,6 +16567,125 @@ Miss Brown at the Hendon School; Miss Black at the publishers.
 A chord of colours, as it were, which ends up with Miss Gray
 at Beacon House, West Hampstead."
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+"Difficilmente potrebbe esservi," s'intromise Pym con un tranquillo sorriso,
+"un esempio migliore della trascuratezza del vero procedimento scientifico.
+Lo scienziato, una volta convinto del fatto della vitalità
+e della coscienza, dedurrebbe da queste il precedente
+processo di generazione."
+
+"Se queste ragazze," disse Gould con impazienza—"se queste ragazze erano tutte vive
+(tutte vive, oh!), scommetterei un biglietto da cinque che erano tutte nate."
+
+"Perderesti il tuo biglietto da cinque," disse Michael, parlando gravemente fuori dall'oscurità.
+"Tutte quelle ammirevoli dame erano vive. Erano ancor più vive per essere
+venute a contatto con Smith. Erano tutte decisamente vive,
+ma una sola di loro era mai nata."
+
+"Ci sta chiedendo di credere—" cominciò il dottor Pym.
+
+"Le sto ponendo una seconda domanda," disse Moon severamente. "Può la corte
+qui riunita gettare qualche luce su una circostanza davvero singolare?
+Il dottor Pym, nella sua interessante conferenza su ciò che si chiamano, credo,
+i rapporti tra i sessi, ha detto che Smith era schiavo
+di una brama di varietà che condurrebbe un uomo prima a una negra
+e poi a un'albina, prima a una gigantessa patagone e poi
+a una minuscola eschimese. Ma vi è qui una qualche prova di tale varietà?
+Vi è qualche traccia di una gigantesca patagone in questa storia?
+Era la dattilografa un'eschimese? Una circostanza così pittoresca non
+sarebbe di certo sfuggita all'osservazione. Era la sarta di Lady Bullingdon una negra?
+Una voce nel mio petto risponde: ‘No!' Lady Bullingdon, ne sono certo,
+troverebbe una negra tanto vistosa da essere quasi socialista,
+e proverebbe un che di leggermente dissoluto persino di fronte a un'albina.
+
+"Ma vi era nei gusti di [[smith|Smith]] una tale varietà quale la dotta
+descrive? Per quanto vanno i nostri scarsi materiali,
+sembra proprio il contrario. Abbiamo una sola
+descrizione effettiva di una qualsiasi delle mogli del prigioniero—
+il breve ma altamente poetico ritratto tracciato dall'estetico curato.
+‘Il suo abito aveva il colore della primavera, e i suoi capelli quello delle foglie d'autunno.'
+Le foglie d'autunno, certo, sono di vari colori, alcuni dei
+quali sarebbero piuttosto sorprendenti in una capigliatura (il verde, per esempio);
+ma penso che una tale espressione si userebbe assai più naturalmente per
+le sfumature dal rosso-bruno al rosso, tanto più che le dame dai
+capelli color rame indossano spesso verdi chiari e artistici.
+Ora, quando passiamo alla moglie successiva, troviamo l'eccentrico amante,
+quando gli si dice che è un asino, rispondere che gli asini vanno sempre
+dietro alle carote; un'osservazione che Lady Bullingdon evidentemente
+considerò priva di senso e parte del naturale cicaleccio di uno
+scemo del villaggio, ma che ha un ovvio significato se supponiamo
+che i capelli di Polly fossero rossi. Passando alla moglie successiva, quella
+che egli prese dalla scuola femminile, troviamo la signorina Gridley che nota
+come la scolara in questione indossasse ‘un abito bruno-rossastro,
+che si accordava abbastanza sommessamente col tono più caldo dei suoi capelli.'
+In altre parole, il colore dei capelli della ragazza era qualcosa di più rosso
+del rosso-bruno. Infine, il romantico suonatore d'organetto declamò
+nell'ufficio una poesia che non andò oltre le parole,—
+
+"‘O vivida, inviolata testa,
+Cinta—'
+
+"Ma penso che un ampio studio dei peggiori poeti moderni
+ci consentirà di indovinare che ‘cinta di una gloria di rosso,'
+oppure ‘cinta del suo rosso appassionato,' fosse il verso che rimava
+con ‘testa.' Anche in questo caso, dunque, vi è buon
+motivo di supporre che [[smith|Smith]] si accendesse d'[[Love|amore]] per una ragazza dai
+capelli di un qualche rosso ramato o rosso scuro—piuttosto," disse,
+abbassando lo sguardo sul tavolo, "piuttosto come i capelli della signorina Gray."
+
+Cyrus Pym era proteso in avanti con le palpebre abbassate,
+pronto con una delle sue più pedantesche interpellanze;
+ma Moses Gould d'un tratto si batté l'indice sul naso,
+con un'espressione di estremo stupore e intelligenza
+nei suoi occhi brillanti.
+
+"La tesi del signor [[Moon]] al momento," s'intromise Pym, "non è,
+anche se veridica, incoerente con la veduta lunatico-criminale
+di I. [[smith|Smith]], che abbiamo inchiodato all'albero maestro. La scienza ha
+da tempo previsto una simile complicazione. Un'incurabile attrazione
+verso un particolare tipo di donna fisica è una delle più comuni
+per-versità criminali, e quando considerata non angustamente,
+ma alla luce dell'induzione e dell'evoluzione—"
+
+"A questo tardo stadio," disse [[Michael]] [[Moon]] molto pacatamente, "posso forse
+sgravarmi di una semplice emozione che mi ha oppresso
+per tutto il corso del procedimento, dicendo che l'induzione e l'evoluzione
+possono andarsi a cuocere. L'Anello Mancante e tutto il resto va
+[[Well|bene]] per i bambini, ma io parlo di cose che conosciamo qui.
+Tutto ciò che sappiamo dell'Anello Mancante è che è mancante—e non
+mancherà nemmeno a nessuno. So tutto della sua testa umana e della sua orrida coda;
+appartengono a un giochetto molto vecchio che si chiama ‘Testa vinco io, croce perdi tu.'
+Se trovate le ossa di un tale, ciò prova che visse molto tempo fa;
+se non trovate le sue ossa, ciò prova quanto tempo fa visse.
+Questo è il gioco che avete giocato con questa faccenda di Smith.
+Poiché la testa di Smith è piccola per le sue spalle lo chiamate
+microcefalo; se fosse stata grande, l'avreste chiamata
+idrocefalia. Finché il serraglio del povero vecchio Smith è parso
+piuttosto vario, la varietà era il segno della follia: ora, poiché
+si scopre essere un po' monocromatico—ora la monotonia è il segno della follia.
+Soffro di tutti gli svantaggi dell'essere una persona adulta,
+e sono ben deciso a prendermi anche qualcuno dei vantaggi;
+e con tutta cortesia propongo di non lasciarmi tiranneggiare con parole lunghe
+al posto di brevi ragioni, né di considerare i vostri affari un progresso
+trionfale solo perché scoprite di continuo di aver avuto torto.
+Sgravatomi di questi sentimenti, non mi resta che aggiungere
+che considero il dottor Pym un ornamento del mondo assai più bello
+del Partenone, o del monumento sul Bunker's Hill, e che
+propongo di riprendere e concludere le mie osservazioni sui molti matrimoni
+del signor Innocent Smith.
+
+"Oltre a questi capelli rossi, vi è un altro filo unificante che
+corre attraverso questi episodi sparsi. Vi è qualcosa
+di molto peculiare e suggestivo nei nomi di queste donne.
+Il signor Trip, ricorderete, disse di pensare che il nome della dattilografa
+fosse Blake, ma non riusciva a rammentarlo esattamente.
+Suggerisco che potrebbe essere stato Black, e in tal caso
+abbiamo una curiosa serie: la signorina Green nel villaggio di Lady Bullingdon;
+la signorina Brown alla scuola di Hendon; la signorina Black presso gli editori.
+Un accordo di colori, per così dire, che si conclude con la signorina Gray
+a Beacon House, West Hampstead."
 
 
 
@@ -12964,6 +16834,149 @@ There was a long and mainly unmeaning [[Silence|silence]], and then
 Dr. Herbert Warner died years ago."
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+In mezzo a un silenzio di tomba Moon proseguì la sua esposizione.
+"Qual è il significato di questa strana coincidenza sui colori?
+Personalmente non posso dubitare per un solo istante che questi nomi siano puramente
+nomi arbitrari, assunti come parte di un qualche schema o scherzo generale.
+Ritengo molto probabile che fossero tratti da una serie di costumi—
+che Polly Green significasse solo Polly (o Mary) quando in verde,
+e che Mary Gray significhi solo Mary (o Polly) quando in grigio.
+Questo spiegherebbe—"
+
+Cyrus Pym si era alzato rigido e quasi pallido.
+"Intende davvero suggerire—" gridò.
+
+"Sì," disse Michael; "intendo davvero suggerire proprio questo. Innocent Smith ha avuto
+molti corteggiamenti, e molte nozze per quel che ne so; ma ha avuto una sola moglie.
+Un'ora fa era seduta su quella sedia, e ora sta parlando con la signorina Duke
+nel giardino.
+
+"Sì, Innocent Smith si è comportato qui, come si è comportato in centinaia di
+altre occasioni, secondo un principio semplice e perfettamente irreprensibile.
+È strano e stravagante nel mondo moderno, ma non più di quanto lo sarebbe qualsiasi altro
+principio applicato con chiarezza nel mondo moderno. Il suo principio
+può essere enunciato in modo assai semplice: egli rifiuta di morire finché è ancora vivo.
+Cerca di rammentare a se stesso, con ogni scossa elettrica all'intelletto,
+di essere ancora un uomo vivo, che cammina su due gambe per il mondo.
+Per questa ragione spara pallottole ai suoi migliori amici; per questa ragione
+sistema scale e comignoli pieghevoli per rubare la propria proprietà;
+per questa ragione arranca attorno a un intero pianeta per tornare alla propria
+casa; e per questa ragione ha preso l'abitudine di prendere la donna
+che amava con lealtà permanente, e di lasciarla in giro (per così dire)
+a scuole, pensioni e luoghi di lavoro, così da poterla
+riconquistare più e più volte con un'incursione e una romantica fuga d'amore.
+Cercava seriamente, con una perpetua ricattura della sua sposa, di mantenere vivo
+il senso del suo perpetuo valore, e dei pericoli che andrebbero corsi
+per amor suo.
+
+"Fin qui i suoi moventi sono abbastanza chiari; ma forse le sue convinzioni non
+sono altrettanto chiare. Penso che Innocent Smith abbia un'idea in fondo
+a tutto questo. Non sono affatto sicuro di crederci io stesso, ma sono
+del tutto sicuro che vale la pena che un uomo la enunci e la difenda.
+
+"L'idea che Smith attacca è questa. Vivendo in una civiltà
+ingarbugliata, siamo giunti a ritenere sbagliate certe cose che
+non sono affatto sbagliate. Siamo giunti a ritenere sbagliati l'impeto e l'esuberanza,
+lo strepitare e l'urtare, il fracassare e il devastare. In se stessi essi
+non sono soltanto perdonabili; sono inattaccabili. Non c'è nulla
+di malvagio nello sparare una pistola anche contro un amico, purché non
+si intenda colpirlo e si sappia che non lo si colpirà. Non è più sbagliato che gettare
+un ciottolo nel mare—meno, poiché il mare ogni tanto lo colpite.
+Non c'è nulla di male nell'abbattere un comignolo e sfondare
+un tetto, purché non si danneggino la vita o la proprietà
+di altri uomini. Non è più sbagliato scegliere di entrare in una casa dal
+tetto che scegliere di aprire una cassa da imballaggio dal fondo.
+Non c'è nulla di malvagio nel camminare attorno al mondo e tornare
+alla propria casa; non è più malvagio che camminare attorno al giardino
+e tornare alla propria casa. E non c'è nulla di malvagio
+nel raccogliere la propria moglie qui, là e ovunque, se, abbandonando
+tutte le altre, ci si tiene solo a lei finché entrambi vivrete.
+È innocente quanto giocare a nascondino nel giardino.
+Associate tali atti alla mascalzoneria per una mera associazione snobistica,
+così come pensate che vi sia qualcosa di vagamente vile nell'andare (o nell'essere
+visti andare) da un prestatore su pegno o in un'osteria. Pensate che vi
+sia qualcosa di squallido e ordinario in una simile frequentazione.
+Vi sbagliate.
+
+"La potenza spirituale di quest'uomo è stata precisamente questa,
+che egli ha distinto tra usanza e credo.
+Ha infranto le convenzioni, ma ha osservato i comandamenti.
+È come se un uomo fosse trovato a giocare selvaggiamente in una bisca,
+e scopriste che giocava solo per bottoni da pantaloni.
+È come se trovaste un uomo che fissa un clandestino appuntamento
+con una dama a un ballo di Covent Garden, e poi scopriste che
+era sua nonna. Tutto è brutto e disdicevole,
+tranne i fatti; tutto è sbagliato in lui, tranne che
+non ha commesso alcun male.
+
+"Si chiederà allora: ‘Perché [[Innocent]] [[smith|Smith]] prosegue fin nella
+sua mezza età un'esistenza farsesca, che lo espone a tante
+false accuse?' A ciò rispondo semplicemente che lo fa perché è davvero
+felice, perché è davvero ilare, perché è davvero un uomo
+e vivo. È così giovane che arrampicarsi sugli alberi del [[Garden|giardino]] e fare
+sciocchi scherzi pratici sono ancora per lui ciò che un tempo furono per tutti noi.
+E se mi chiedete ancora una volta perché egli [[Alone|solo]] fra gli uomini debba essere nutrito
+di follie così inesauribili, ho una risposta molto semplice a questo,
+benché sia una che non verrà approvata.
+
+"Vi è una sola risposta, e mi dispiace se non vi piace.
+Se [[Innocent]] è felice, è perché È [[Innocent|innocente]]. Se sa sfidare
+le convenzioni, è proprio perché sa osservare i comandamenti.
+È proprio perché non vuole uccidere ma eccitare alla vita
+che una [[Pistol|pistola]] è ancora tanto eccitante per lui quanto lo è per uno scolaretto.
+È proprio perché non vuole rubare, perché non brama i beni
+del suo prossimo, che ha carpito il trucco (oh, come tutti lo
+agogniamo!), il trucco di bramare i propri beni. È proprio perché
+non vuole commettere adulterio che egli consegue il [[Romance|romanticismo]] del sesso;
+è proprio perché ama una sola moglie che ha cento lune di miele.
+Se avesse davvero assassinato un uomo, se avesse davvero abbandonato una donna,
+non sarebbe capace di sentire che una [[Pistol|pistola]] o una lettera d'[[Love|amore]] è come una [[Song|canzone]]—
+o per lo meno, non una [[Song|canzone]] comica."
+
+"Non immaginate, vi prego, che un simile atteggiamento sia facile
+per me o si accordi in modo particolare con le mie simpatie.
+Sono un irlandese, e una certa tristezza è nelle mie ossa, generata sia
+dalle persecuzioni del mio credo, sia dal mio credo stesso.
+A parlare per me solo, sento come se l'uomo fosse legato alla [[Tragedy|tragedia]],
+e non vi fosse via d'uscita dalla trappola della vecchiaia e del [[Doubt|dubbio]].
+Ma se una via d'uscita c'è, allora, per [[Christ|Cristo]] e san Patrizio,
+questa è la via d'uscita. Se si potesse restare felici come un [[Child|bambino]] o un cane,
+sarebbe con l'essere [[Innocent|innocenti]] come un [[Child|bambino]], o senza peccato come un cane.
+Nudamente e brutalmente essere buoni—quella può essere la [[Road|via]], ed egli può averla
+trovata. [[Well|Beh]], [[Well|beh]], [[Well|beh]], vedo un'aria di scetticismo sul volto
+del mio vecchio amico Moses. Il signor Gould non crede che l'essere
+perfettamente buoni sotto ogni aspetto renderebbe un uomo allegro."
+
+"No," disse Gould, con una gravità insolita e convincente;
+"non credo che l'essere perfettamente buoni sotto ogni aspetto
+renderebbe un uomo allegro."
+
+"[[Well|Beh]]," disse [[Michael]] pacatamente, "mi dirai una cosa sola?
+Chi di noi ha mai provato?"
+
+Ne seguì un [[Silence|silenzio]], piuttosto simile al [[Silence|silenzio]] di qualche lunga
+epoca geologica che attende l'emergere di un tipo inatteso;
+poiché si [[Rose|levò]] infine nella quiete una massiccia figura
+che gli altri uomini avevano quasi completamente dimenticato.
+
+"[[Well|Ebbene]], signori," disse il dottor Warner allegramente, "sono stato piuttosto
+[[Well|bene]] intrattenuto con tutta questa insulsa e incompetente pagliacciata
+per un paio di giorni; ma sembra farsi alquanto sottile,
+e sono impegnato per un pranzo in [[City|città]]. Fra i cento [[Flowers|fiori]]
+di futilità da entrambe le parti non sono riuscito a scorgere alcuna sorta di ragione
+per cui a un pazzo dovrebbe essere consentito di spararmi nel [[Garden|giardino]] sul retro."
+
+Si era calcato in testa il suo cilindro di seta ed era uscito, veleggiando placido verso il
+cancello del [[Garden|giardino]], mentre la voce quasi lamentosa di Pym ancora lo inseguiva:
+"Ma in realtà la pallottola l'ha mancata di parecchi piedi." E un'altra voce aggiunse:
+"La pallottola l'ha mancato di parecchi anni."
+
+Vi fu un lungo e per lo più insensato [[Silence|silenzio]], e poi
+[[Moon]] disse d'un tratto: "Siamo stati seduti con un [[Ghost|fantasma]].
+Il dottor Herbert Warner è morto anni fa."
+
 
 
 <span class="atom-split" data-atom="chapter_11" data-title="Manalive — Chapter 5" data-chapter="Chapter 11" data-kind="chapter" data-tags="archetype/innocent,archetype/king,motif/fire,motif/garden,motif/leaves,motif/river,motif/road,motif/storm,motif/time,motif/well,motif/wind,motif/window,concept/truth,character/arthur,character/diana,character/michael,character/sunday"></span>
@@ -13101,3 +17114,139 @@ their evening's merriment, looked again for Mary and for him,
 they were not to be found.
 
 The End
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Capitolo V
+
+Come il Gran [[Wind|Vento]] Se ne Andò
+da Beacon [[house|House]]
+
+Mary passeggiava tra [[Diana]] e Rosamund su e giù lentamente per il [[Garden|giardino]];
+tacevano, e il sole era tramontato. Quegli spazi di luce diurna ancora
+aperti a occidente erano di un bianco dal tono caldo, che non si può
+paragonare a nulla se non a un formaggio cremoso; e le linee di nuvole piumate che correvano
+attraverso di essi avevano una soffusa ma vivida fioritura violetta, come un fumo violetto.
+Tutto il resto della scena si stemperava e svaniva in un grigio di colomba,
+e pareva fondersi e salire nella figura grigio scuro di Mary, finché ella pareva
+vestita del [[Garden|giardino]] e dei cieli. Vi era qualcosa in quegli ultimi
+quieti colori che le conferiva una cornice e una supremazia; e il crepuscolo,
+che celava la figura più maestosa di [[Diana]] e l'abbigliamento più ardito di Rosamund,
+esibiva e sottolineava lei, lasciandola signora del [[Garden|giardino]], e [[Alone|sola]].
+
+Quando parlarono infine, fu evidente che si stava riprendendo
+una conversazione a lungo caduta nel silenzio.
+
+"Ma dove ti sta portando tuo marito?" chiese [[Diana]] con la sua voce pratica.
+
+"Da una zia," disse Mary; "è proprio questo il bello. C'è davvero
+una zia, e lasciammo i bambini con lei quando organizzai
+di farmi cacciare dall'altra pensione giù per la [[Road|strada]].
+Non ci concediamo mai più di una settimana di questa specie di vacanza,
+ma a volte ne prendiamo due di fila."
+
+"E la zia se la prende molto?" chiese Rosamund ingenuamente. "Certo,
+oserei dire che è una cosa molto gretta e—com'è quell'altra parola?—
+sai, quella che era Golia—ma ho conosciuto molte zie che
+la riterrebbero—[[Well|beh]], sciocca."
+
+"Sciocca?" esclamò Mary con grande cordialità. "Oh, per il mio cappello della [[Sunday|domenica]]!
+Direi proprio che era sciocca! Ma cosa ti aspetti?
+Lui è davvero un brav'uomo, e avrebbero potuto essere serpenti o qualcosa del genere."
+
+"Serpenti?" domandò Rosamund, con un interesse un po' perplesso.
+
+"Lo zio Harry teneva serpenti, e diceva che gli volevano bene," rispose Mary
+con perfetta semplicità. "La zia gli permetteva di tenerli in tasca,
+ma non in camera da letto."
+
+"E tu—" cominciò [[Diana]], corrugando un poco le scure sopracciglia.
+
+"Oh, io faccio come faceva la zia," disse Mary; "finché non stiamo lontani
+dai bambini più di una quindicina di giorni di fila, sto al gioco.
+Lui mi chiama ‘[[manalive|Manalive]]'; e devi scriverlo tutto in una parola,
+o si agita moltissimo."
+
+"Ma se gli uomini vogliono cose del genere," cominciò [[Diana]].
+
+"Oh, a che serve parlare degli uomini?" esclamò Mary con impazienza;
+"ma via, tanto varrebbe essere una romanziera o qualche cosa orribile.
+Non esistono gli uomini. Non esiste gente simile. Esiste un uomo;
+e chiunque egli sia è del tutto diverso."
+
+"Allora non c'è sicurezza," disse [[Diana]] a bassa voce.
+
+"Oh, non saprei," rispose Mary, con sufficiente leggerezza;
+"ci sono solo due cose generalmente vere di loro.
+In certi curiosi momenti sono proprio adatti a prendersi cura di noi,
+e non sono mai adatti a prendersi cura di se stessi."
+
+"Si sta levando una burrasca," disse Rosamund d'un tratto.
+"Guarda quegli alberi laggiù, molto lontani, e le
+nuvole che vanno più veloci."
+
+"So a cosa stai pensando," disse Mary; "e non
+fare la sciocca. Non date retta alle romanziere.
+Voi andate per la strada maestra del [[King|re]]; per la [[Truth|verità]] di Dio, è di Dio. Sì,
+il mio caro [[Michael]] sarà spesso estremamente disordinato. [[arthur|Arthur]] Inglewood
+sarà peggio—sarà disordinato. Ma a che altro servono tutti gli alberi
+e le nuvole, sciocche gattine?"
+
+"Le nuvole e gli alberi ondeggiano tutti," disse Rosamund. "Sta
+arrivando una [[Storm|tempesta]], e in qualche modo mi fa sentire tutta eccitata. [[Michael]] è
+davvero un po' come una [[Storm|tempesta]]: mi spaventa e mi rende felice."
+
+"Non spaventarti," disse Mary. "In fondo, questi uomini
+hanno un vantaggio; sono di quel genere che esce fuori."
+
+Una raffica improvvisa di vento fra gli alberi trascinò lungo il sentiero le [[Leaves|foglie]]
+morenti, e si udivano i lontani alberi ruggire fiocamente.
+
+"Voglio dire," disse Mary, "sono di quel tipo che guarda all'esterno e si interessa
+al mondo. Non importa affatto se si tratta di discutere, o di andare in bicicletta,
+o di abbattere i confini della terra come fa il povero vecchio [[Innocent]]. Tieniti stretto
+l'uomo che guarda fuori dalla [[Window|finestra]] e cerca di capire il mondo.
+Sta' alla larga dall'uomo che guarda dentro dalla [[Window|finestra]] e cerca di capire te.
+Quando il povero vecchio Adamo era andato a fare giardinaggio ([[arthur|Arthur]] andrà a fare giardinaggio),
+l'altra specie sopraggiunse e si insinuò strisciando, sporco vecchio serpente."
+
+"Sei d'accordo con tua zia," disse Rosamund, sorridendo: "niente serpenti
+in camera da letto."
+
+"Non ero molto d'accordo con mia zia," rispose Mary semplicemente,
+"ma penso che facesse bene a lasciare che lo zio Harry collezionasse draghi
+e grifoni, purché ciò lo tenesse fuori dalla [[house|casa]]."
+
+Quasi nello stesso istante delle luci sfolgorarono dentro la [[house|casa]] oscurata,
+trasformando le due porte a vetri sul [[Garden|giardino]] in cancelli d'oro battuto.
+I cancelli dorati furono spalancati, e l'enorme [[smith|Smith]], che se ne era
+stato seduto come una goffa statua per tante ore, venne volando e facendo
+capriole giù per il prato gridando: "Assolto! assolto!"
+Facendo eco al grido, [[Michael]] corse a precipizio attraverso il prato fino a Rosamund e
+la fece roteare selvaggiamente in qualche passo di quello che voleva essere un valzer.
+Ma ormai la compagnia conosceva [[Innocent]] e [[Michael]] a questo [[Time|punto]],
+e le loro stravaganze venivano allegramente date per scontate; fu di gran lunga
+più straordinario che [[arthur|Arthur]] Inglewood si dirigesse dritto verso [[Diana]]
+e la baciasse come se fosse stato il compleanno di sua sorella. Persino il dottor Pym,
+benché si astenesse dal ballare, guardava con vera benevolenza;
+poiché in effetti l'intera assurda rivelazione lo aveva turbato
+meno degli altri; supponeva a metà che simili irresponsabili
+tribunali e folli discussioni fossero parte delle medievali buffonate
+della Vecchia Terra.
+
+Mentre la tempesta squarciava il cielo come con trombe, [[Window|finestra]] dopo [[Window|finestra]] si
+illuminava nella [[house|casa]] all'interno; e prima che la compagnia, sfinita dal ridere
+e sballottata dal [[Wind|vento]], si fosse fatta strada a tentoni verso la [[house|casa]] di nuovo,
+videro che la grande scimmiesca figura di [[Innocent]] [[smith|Smith]] si era arrampicata
+fuori dalla [[Window|finestra]] della propria soffitta, e ruggendo di continuo: "Beacon [[house|House]]!"
+faceva roteare sopra il capo un enorme ceppo o tronco preso dal [[Fire|fuoco]] di legna sottostante,
+del quale il [[River|fiume]] di fiamma cremisi e di fumo purpureo si spandeva
+nell'aria assordante.
+
+Era abbastanza visibile da poter essere scorto da tre contee;
+ma quando il [[Wind|vento]] si placò, e la compagnia, all'apice
+del proprio spasso serale, cercò di nuovo Mary e lui,
+non li si trovò da nessuna parte.
+
+Fine

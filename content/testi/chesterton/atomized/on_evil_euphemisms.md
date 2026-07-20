@@ -265,7 +265,7 @@ to do with either [[Marriage|marriage]] or companionship.
 
 SUI MALVAGI EUFEMISMI
 
-G. K. Chesterton
+G. K. Chesterton  
 
 Pubblicato in "G. K. Chesterton:  Stories, Essays, & [[Poems]]",
 (Everyman's Library - 913), J. M. Dent & Sons Ltd., [[London]], ristampa 1946

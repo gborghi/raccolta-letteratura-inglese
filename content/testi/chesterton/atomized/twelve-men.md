@@ -329,14 +329,14 @@ if I remember right, by the Founder of [[Christianity]].
 
 <span class="qlang-split" data-lang="it"></span>
 
-Ora, è cosa terribile additare un uomo alla vendetta degli uomini.
+Ora è cosa terribile segnare un uomo per la vendetta degli uomini.
 Ma è cosa a cui un uomo può abituarsi, come può abituarsi
-ad altre cose terribili; può abituarsi persino al sole.
-E l'orribile, in tutti i funzionari della legge, anche i migliori,
-in tutti i giudici, magistrati, avvocati, investigatori e poliziotti,
-non è che siano malvagi (alcuni sono buoni), non è che
-siano stupidi (parecchi sono assai intelligenti): è semplicemente
-che ci hanno fatto l'abitudine.
+ad altre cose terribili; può persino abituarsi al sole.
+E la cosa orribile di tutti i funzionari legali, anche i migliori,
+di tutti i giudici, magistrati, avvocati, investigatori e poliziotti,
+non è che siano malvagi (alcuni di loro sono buoni), non che
+siano stupidi (parecchi di loro sono assai intelligenti), è semplicemente
+che vi si sono abituati.
 
 A rigore, essi non vedono l'imputato al banco; tutto ciò che
 vedono è il solito uomo nel solito posto.  Non vedono

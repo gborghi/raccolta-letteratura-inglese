@@ -5444,7 +5444,7 @@ Irlanda--Il lavoro sporco--L'impiego di
 
 mercenari tedeschi--L'empia alleanza--Il trionfo
 
-dei Mercenari tedeschi.
+dei mercenari tedeschi.
 
 
 
@@ -5492,7 +5492,7 @@ inglese--Verità esagerate contro
 
 Menzogne esagerate--Sconfitta del Popolo--Trionfo
 
-dei Mercenari tedeschi.
+dei mercenari tedeschi.
 
 
 
@@ -15298,7 +15298,7 @@ del nauseante terrore del [[Time|tempo]]. Poiché era un giorno del giudizio in
 
 cui sul trono nei cieli e al di sopra dei cherubini, sedeva non Dio, ma
 
-altrove.
+un altro.
 
 I britannici erano stati postati all'estremità occidentale estrema dello schieramento alleato
 

@@ -4100,7 +4100,7 @@ del bene a _modo vostro_. Il Dottore rappresenta la tendenza a non bere
 
 affatto; e fa del bene a _modo suo_. Non possiamo essere Antichi Britanni,
 
-bene.
+sapete.
 
 [_Un [[Silence|silenzio]] prolungato e perplesso, come sempre segue le più
 
@@ -4166,7 +4166,7 @@ MORRIS. [_Ridendo._] [[Well|Beh]], piuttosto [[Well|bene]], Duca; e ancor meglio
 
 T. Vandam, immagino. Gestisco le miniere del vecchio giù in Arizona,
 
-bene.
+sapete.
 
 DUCA. [_Scuotendo il capo con aria saggia._] Ah, un uomo molto intraprendente! Metodi
 
@@ -4452,7 +4452,7 @@ avuto la maledetta sfrontatezza di insinuare che un qualche uomo....
 
 DUCA. Oh, non un _uomo_, sapete. Un mago, qualcosa di mitico, sapete
 
-bene.
+sapete.
 
 [[smith|SMITH]]. Non un _uomo_, ma un uomo di medicina.
 
@@ -6862,7 +6862,7 @@ DOTTORE. [_A voce più bassa._] Che cosa suppone lei?
 
 via dall'abito da sera. Rumina per un breve spazio e poi
 
-parli._
+parla._
 
 PRESTIGIATORE. Dottore, ci sono all'incirca mille ragioni per cui non dovrei
 
@@ -8012,7 +8012,7 @@ durante il quale gli uomini rimasti si agitano e pestano i piedi con grande
 
 irrequietezza. L'oscurità aumenta. Passa molto tempo prima che qualcuno
 
-parli._
+parla._
 
 DOTTORE. [_Bruscamente._] Uomo notevole, quel Prestigiatore. Uomo abile. Uomo
 

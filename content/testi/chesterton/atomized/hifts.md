@@ -345,7 +345,7 @@ and stood embarrassed.
 
 Come trovai il Superuomo
 
-G. K. Chesterton
+G. K. Chesterton  
 
 Daily News, 1909
 

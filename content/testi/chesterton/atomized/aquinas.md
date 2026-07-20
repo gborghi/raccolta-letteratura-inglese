@@ -5116,6 +5116,117 @@ There are moments when St. Francis, the most unworldly man who ever
 walked the world, is almost too efficient for me.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+I
+
+SU DUE FRATI
+
+Lasciate che anticipi subito le obiezioni rispondendo al nome di quel
+famigerato personaggio, che si precipita là dove persino gli Angeli del
+Dottore Angelico potrebbero [[Fear|temere]] di mettere piede. Qualche [[Time|tempo]] fa scrissi un libretto
+di questo tipo e formato su san Francesco d'Assisi; e qualche [[Time|tempo]] dopo
+(non so quando né come, come dice la [[Song|canzone]], e certamente non perché)
+promisi di scrivere un libro della medesima grandezza, o della medesima piccolezza, su
+san Tommaso [[aquinas|d'Aquino]]. La promessa fu francescana solo nella sua avventatezza;
+e il parallelo era ben lungi dall'essere tomistico nella sua [[logic|logica]].
+Di san Francesco si può fare uno [[Sketch|schizzo]]: di san Tommaso si potrebbe soltanto fare una
+pianta, come la pianta di una [[City|città]] labirintica. Eppure
+in un certo senso egli entrerebbe in un libro molto più grande o molto più piccolo.
+Ciò che davvero sappiamo della sua vita potrebbe essere trattato abbastanza equamente in
+poche pagine; poiché egli non scomparve, come san Francesco, in una pioggia
+di aneddoti personali e leggende popolari. Ciò che sappiamo, o potremmo sapere,
+o che potremmo alla fine avere la fortuna di apprendere, della sua opera, riempirà probabilmente
+in futuro ancor più biblioteche di quante ne abbia riempite in passato.
+Era lecito [[Sketch|abbozzare]] san Francesco a grandi linee; ma con
+san Tommaso tutto dipende dal riempimento dei contorni.
+Era persino medievale, in un certo modo, miniare un ritratto in piccolo del
+Poverello, il cui titolo stesso è un diminutivo. Ma fare un compendio,
+alla maniera di una pastiglia, del Bue Muto di Sicilia supera ogni esperimento
+digestivo in fatto di un bue in una tazza da tè. Ma dobbiamo [[Hope|sperare]] che sia
+possibile fare un abbozzo di [[Biography|biografia]], ora che chiunque sembra
+capace di scrivere un abbozzo di [[history|storia]] o un abbozzo di qualsiasi cosa.
+Solo che nel caso presente l'abbozzo è piuttosto fuori misura.
+La tonaca capace di contenere il colossale frate non è tenuta in magazzino.
+
+Ho detto che questi non possono essere che ritratti a grandi linee.
+Ma il contrasto concreto è qui così sorprendente, che anche se noi
+vedessimo davvero le due figure umane a grandi linee, valicare la [[Hill|collina]]
+nelle loro tonache da frate, troveremmo quel contrasto persino comico.
+Sarebbe come vedere, anche di lontano, le sagome di
+[[Don Quixote|Don Chisciotte]] e Sancho Panza, o di [[Falstaff]] e messer Slender.
+San Francesco era un ometto magro e vivace; sottile come un filo
+e vibrante come la corda di un arco; e nei suoi movimenti come una freccia
+scoccata dall'arco. Tutta la sua vita fu una serie di tuffi e di corse:
+scattare dietro al mendicante, precipitarsi nudo nei boschi,
+gettarsi sulla strana [[Ship|nave]], scagliarsi dentro
+la tenda del Sultano e offrirsi di scagliarsi nel [[Fire|fuoco]].
+Nell'aspetto dovette essere come una sottile bruna foglia d'[[Autumn|autunno]]
+[[skeleton|scheletrica]] che danza eternamente davanti al [[Wind|vento]]; ma in [[Truth|verità]] era lui che
+era il [[Wind|vento]].
+
+San Tommaso era un enorme e pesante toro d'uomo, grasso, lento e quieto;
+assai mite e magnanimo ma non molto socievole; timido, anche a prescindere
+dall'[[Humility|umiltà]] della santità; e assorto, anche a prescindere dalle sue
+occasionali e accuratamente celate esperienze di estasi o rapimento.
+San Francesco era così focoso e persino irrequieto che gli ecclesiastici,
+davanti ai quali comparve del tutto all'improvviso, lo credettero un pazzo.
+San Tommaso era così flemmatico che gli studiosi, nelle scuole che
+frequentava regolarmente, lo credettero un tonto. In verità, era quel tipo
+di scolaro, non ignoto, che assai preferirebbe essere ritenuto un tonto
+piuttosto che vedere invasi i propri [[Dreams|sogni]] da tonti più attivi o animati.
+Questo esteriore contrasto si estende a quasi ogni punto delle
+due personalità. Era il [[Paradox|paradosso]] di san Francesco che, mentre egli era
+appassionatamente amante delle [[Poems|poesie]], diffidava piuttosto dei libri.
+Era il fatto saliente di san Tommaso che egli amava i libri
+e viveva sui libri; che viveva la vita stessa del chierico o dello studioso
+dei Racconti di Canterbury, che preferirebbe avere cento libri di
+Aristotele e della sua [[philosophy|filosofia]] a qualsiasi ricchezza il mondo potesse dargli.
+Quando gli chiesero di che cosa ringraziasse Dio più di tutto, egli rispose semplicemente: "Ho
+compreso ogni pagina che io abbia mai letto." San Francesco era assai vivido nelle sue
+[[Poems|poesie]] e piuttosto vago nei suoi documenti; san Tommaso dedicò l'intera sua
+vita a documentare interi sistemi di letteratura pagana e cristiana;
+e occasionalmente scrisse un [[Hymn|inno]] come un uomo che si prende una vacanza.
+Vedevano lo stesso problema da angolazioni diverse, di semplicità
+e di sottigliezza; san Francesco pensava che sarebbe bastato riversare il suo
+cuore ai maomettani, per persuaderli a non adorare Maometto.
+San Tommaso si arrovellava il capo con ogni cavillosa
+distinzione e deduzione, sull'Assoluto o sull'Accidente,
+al solo scopo di impedir loro di fraintendere Aristotele.
+San Francesco era figlio di un bottegaio, o commerciante di ceto medio;
+e mentre tutta la sua vita fu una rivolta contro la vita mercantile
+di suo padre, egli conservò nondimeno qualcosa della prontezza
+e dell'adattabilità sociale che fa ronzare il mercato come un alveare.
+Nella frase comune, per quanto amasse i verdi campi, non lasciava
+crescere l'erba sotto i piedi. Era ciò che i milionari americani
+e i gangster chiamano un filo sotto tensione. È tipico dei meccanicistici
+moderni che, persino quando tentano di immaginare una cosa viva, riescano
+solo a pensare a una metafora meccanica tratta da una cosa morta. Esiste
+una cosa come un verme vivo; ma non esiste una cosa come un filo vivo.
+San Francesco avrebbe cordialmente convenuto di essere un verme; ma era
+un verme molto vivo. Massimo fra tutti i nemici dell'ideale dell'arrivismo,
+aveva certamente abbandonato l'arrivare, ma stava ancora andando.
+San Tommaso, d'altro canto, veniva da un mondo dove avrebbe potuto
+godere dell'ozio, e rimase uno di quegli uomini il cui lavoro
+ha qualcosa della placidità dell'ozio. Era un gran lavoratore,
+ma nessuno avrebbe mai potuto scambiarlo per un affarista frenetico. Aveva qualcosa
+di indefinibile in sé, che contrassegna coloro che lavorano quando non ne
+avrebbero bisogno. Poiché era per nascita un gentiluomo di [[Great House|grande casato]],
+e una tale quiete può permanere come abitudine, quando non è più un movente.
+Ma in lui essa si esprimeva solo nei suoi elementi più amabili;
+per esempio, ve n'era forse qualcosa nella sua cortesia e pazienza
+senza sforzo. Ogni santo è un uomo prima di essere un santo;
+e un santo può essere fatto di ogni sorta o specie d'uomo; e la maggior parte di noi
+sceglierà tra questi diversi tipi secondo i propri diversi gusti.
+Ma confesserò che, mentre la romantica gloria di san Francesco
+non ha perso nulla del suo fascino per me, negli anni successivi sono giunto
+a provare quasi altrettanto affetto, o sotto certi aspetti persino di più,
+per quest'uomo che inconsapevolmente abitava un gran cuore e una
+gran testa, come chi eredita una grande [[house|casa]], ed esercitava là
+un'ospitalità altrettanto generosa se pur alquanto più distratta.
+Vi sono momenti in cui san Francesco, l'uomo più distaccato dal mondo che mai
+abbia camminato per il mondo, è quasi troppo efficiente per me.
+
 
 
 <span class="atom-split" data-atom="chapter_01--part_02" data-title="St. Thomas Aquinas — Chapter 1 (part 2)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="motif/animals,motif/love,motif/poison,motif/seasons,motif/time,motif/uncanny,motif/well,concept/history,concept/paradox,concept/uncanny,form/history,histref/christianity,histref/reformation,character/aquinas,character/christ"></span>
@@ -5231,6 +5342,117 @@ In a constructive sense, it was more important than the [[Reformation]].
 Nay, in a constructive sense, it was the [[Reformation]].
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+San Tommaso [[aquinas|d'Aquino]] è recentemente riapparso, nella cultura
+odierna dei collegi e dei salotti, in un modo che sarebbe parso alquanto
+sorprendente anche solo dieci anni fa.  E lo stato d'animo che si è
+concentrato su di lui è senza dubbio assai diverso da quello che rese
+popolare san Francesco appena vent'anni or sono.
+
+Il Santo è una medicina perché è un antidoto.  Anzi, è proprio per questo
+che il santo è spesso un martire; lo si scambia per un [[Poison|veleno]]
+perché è un antidoto.  Lo si troverà per lo più intento a riportare
+il mondo alla [[Sanity|sanità mentale]] esagerando ciò che il mondo trascura,
+che non è affatto sempre il medesimo elemento in ogni epoca.
+Eppure ogni generazione cerca per istinto il proprio santo; ed egli non è ciò
+che il popolo vuole, ma piuttosto ciò di cui il popolo ha bisogno.  Questo è
+di certo il significato tanto frainteso di quelle parole rivolte ai primi santi,
+«Voi siete il sale della terra», che indussero l'ex Kaiser
+a osservare con ogni solennità che i suoi robusti tedeschi da manzo erano il sale
+della terra; intendendo con ciò soltanto che erano i più carnosi
+e perciò i migliori della terra.  Ma il sale [[Seasons|condisce]] e conserva la carne,
+non perché sia simile alla carne; ma perché ne è quanto mai diverso.
+[[Christ|Cristo]] non disse ai suoi apostoli che erano soltanto gli uomini eccellenti,
+o gli unici uomini eccellenti, ma che erano gli uomini eccezionali;
+gli uomini permanentemente incongrui e incompatibili; e il testo
+sul sale della terra è davvero tanto pungente e sagace e aspro
+quanto il sapore del sale.  È proprio perché erano gli uomini eccezionali
+che non devono perdere la loro qualità eccezionale.  «Se il sale perde
+il suo sapore, con che cosa lo si salerà?» è una domanda ben più acuta
+di qualsiasi mero lamento sul prezzo del manzo migliore.
+Se il mondo diventa troppo mondano, può essere ripreso dalla Chiesa;
+ma se la Chiesa diventa troppo mondana, non può essere adeguatamente ripresa
+della sua mondanità dal mondo.
+
+Perciò è il [[Paradox|paradosso]] della [[history|storia]] che ogni generazione
+sia convertita dal santo che più la contraddice.  San Francesco
+esercitava una curiosa e quasi [[Uncanny|perturbante]] attrattiva sui vittoriani;
+sugli inglesi dell'Ottocento che sembravano superficialmente
+i più compiaciuti del loro commercio e del loro buon senso.
+Non solo un inglese piuttosto compiaciuto come Matthew Arnold, ma perfino i
+liberali inglesi che egli criticava per la loro compiacenza cominciarono lentamente
+a scoprire il mistero del Medioevo attraverso la strana storia
+narrata in piume e fiamme nei quadri agiografici di Giotto.
+C'era qualcosa nella storia di san Francesco che trafiggeva attraverso
+tutte quelle qualità inglesi che sono più celebri e fatue,
+fino a tutte quelle qualità inglesi che sono più nascoste e umane:
+la segreta tenerezza di cuore; la poetica vaghezza della mente;
+l'[[Love|amore]] per il paesaggio e per gli [[Animals|animali]].  San Francesco d'Assisi fu
+l'unico cattolico medievale che divenne davvero popolare in Inghilterra
+per meriti suoi propri.  Ciò avvenne in gran parte per un sentimento subconscio
+che il mondo moderno avesse trascurato proprio quei meriti.
+Le classi medie inglesi trovarono il loro unico missionario nella figura
+che, fra tutti i tipi al mondo, più disprezzavano: un accattone italiano.
+
+Così, come l'Ottocento si aggrappò al [[Romance|romanticismo]] francescano,
+proprio perché aveva trascurato il [[Romance|romanticismo]], così il Novecento
+si sta già aggrappando alla teologia razionale tomista, perché ha
+trascurato la ragione.  In un mondo troppo ottuso, il [[Christianity|cristianesimo]] tornò
+nella forma di un vagabondo; in un mondo cresciuto assai
+troppo selvaggio, il [[Christianity|cristianesimo]] è tornato nella forma di un maestro di [[logic|logica]].
+Nel mondo di Herbert Spencer gli uomini volevano una cura per l'indigestione;
+nel mondo di Einstein vogliono una cura per le vertigini.
+Nel primo caso, percepivano oscuramente il fatto che fu dopo
+un lungo digiuno che san Francesco cantò il [[Song|Cantico]] del Sole e la lode
+della terra feconda.  Nel secondo caso, percepivano già oscuramente
+che, anche se vogliono soltanto comprendere Einstein,
+è necessario prima comprendere l'uso dell'intelletto.
+Cominciano a vedere che, come il Settecento si credeva
+l'età della ragione, e l'Ottocento si credeva
+l'età del buon senso, il Novecento non riesce ancora nemmeno
+a pensarsi qualcosa di diverso dall'età del non-comune non-senso.
+In tali condizioni il mondo ha bisogno di un santo; ma soprattutto
+ha bisogno di un filosofo.  E questi due casi mostrano bene che il mondo,
+a rendergli giustizia, ha un istinto per ciò di cui ha bisogno.  La terra
+era davvero assai piatta, per quei vittoriani che con più vigore
+ripetevano che era rotonda, e l'Alverna delle Stimmate si ergeva
+come un unico monte nella pianura.  Ma la terra è un terremoto,
+un incessante e apparentemente interminabile terremoto, per i moderni
+per i quali Newton è stato rottamato insieme a Tolomeo.  E per loro
+c'è qualcosa di più erto e persino più incredibile di un monte;
+un lembo di terra davvero solida; il piano dell'uomo dalla testa a posto.
+Così, nel nostro [[Time|tempo]], i due santi hanno parlato a due generazioni,
+un'età di romantici e un'età di scettici; eppure nella loro epoca
+compivano la medesima opera; un'opera che ha mutato il mondo.
+
+Di nuovo, si può ben dire che il confronto è ozioso,
+e non regge [[Well|bene]] nemmeno come fantasia: giacché i due uomini non erano
+propriamente nemmeno della stessa generazione o del medesimo momento storico.
+Se due frati devono essere presentati come una coppia di Gemelli Celesti,
+il confronto ovvio è fra san Francesco e san Domenico.
+I rapporti fra san Francesco e san Tommaso erano, al più prossimo,
+quelli di zio e nipote; e la mia fantasiosa digressione può apparire
+solo una versione altamente profana di «Tommy, fai posto a tuo zio».
+Poiché se san Francesco e san Domenico furono i grandi fratelli gemelli,
+Tommaso fu evidentemente il primo grande figlio di san Domenico, come lo fu il suo
+amico Bonaventura di san Francesco.  Ciononostante, ho una ragione
+(anzi due ragioni) per prendere a pretesto l'accidente di due frontespizi;
+e porre san Tommaso accanto a san Francesco, invece di appaiarlo
+con Bonaventura il francescano.  È perché il confronto,
+per remoto e perverso che possa sembrare, è davvero una sorta di scorciatoia
+al cuore della [[history|storia]]; e ci conduce per la via più rapida
+alla vera questione della vita e dell'opera di san Tommaso [[aquinas|d'Aquino]].
+Poiché ormai la maggior parte della gente ha una rozza ma pittoresca immagine
+nella mente della vita e dell'opera di san Francesco d'Assisi.
+E il modo più breve di raccontare l'altra storia è dire che,
+mentre i due uomini erano così un contrasto in quasi ogni tratto,
+in realtà facevano la medesima cosa.  L'uno la faceva
+nel mondo della mente e l'altro nel mondo del mondano.
+Ma era il medesimo grande movimento medievale; ancora ben poco compreso.
+In senso costruttivo, esso fu più importante della [[Reformation|Riforma]].
+Anzi, in senso costruttivo, esso fu la [[Reformation|Riforma]].
+
 
 
 <span class="atom-split" data-atom="chapter_01--part_03" data-title="St. Thomas Aquinas — Chapter 1 (part 3)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="archetype/child,archetype/lover,motif/animals,motif/leaves,motif/love,motif/nature,motif/prison,motif/time,motif/well,concept/history,concept/nature,concept/pride,concept/truth,form/history,histref/christianity,histref/renaissance,character/aquinas,character/christ"></span>
@@ -5335,6 +5557,107 @@ Now the first thing that [[aquinas|Aquinas]] did, though by no means
 the last, was to say to these pure transcendentalists something
 substantially like this.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Di questo movimento medievale vi sono due fatti che vanno anzitutto
+sottolineati.  Non sono, beninteso, fatti contrari, ma sono
+forse risposte a fallacie contrarie.  Primo, malgrado tutto
+ciò che un tempo si diceva sulla superstizione, i secoli bui e la sterilità
+della Scolastica, esso fu in ogni senso un movimento di ampliamento,
+sempre proteso verso una luce maggiore e persino una libertà maggiore.
+Secondo, malgrado tutto ciò che in seguito si disse sul progresso
+e sul [[Renaissance|Rinascimento]] e sui precursori del pensiero moderno, esso fu
+quasi interamente un movimento di ortodosso entusiasmo teologico,
+dispiegatosi dall'interno.  Non fu un compromesso con il mondo,
+o una resa a pagani o eretici, o nemmeno un semplice prestito
+di aiuti esterni, anche quando questi effettivamente li prese in prestito.
+Nella misura in cui esso si protese verso la luce del giorno comune, fu come l'atto
+di una pianta che con la propria forza spinge le sue [[Leaves|foglie]] verso il sole;
+non come l'atto di chi si limita a far entrare la luce del giorno in una [[Prison|prigione]].
+
+In breve, fu ciò che tecnicamente si chiama uno Sviluppo della dottrina.
+Ma pare esserci una strana ignoranza, non solo sul
+significato tecnico, ma anche su quello naturale della parola Sviluppo.
+I critici della teologia cattolica sembrano supporre che essa non sia tanto
+un'evoluzione quanto un'elusione; che sia nel migliore dei casi un adattamento.
+Immaginano che il suo stesso [[success|successo]] sia il [[success|successo]] della resa.
+Ma non è questo il significato naturale della parola Sviluppo.
+Quando diciamo che un [[Child|bambino]] è [[Well|ben]] sviluppato, intendiamo
+che è cresciuto più grande e più forte con la propria forza;
+non che sia imbottito di cuscini presi in prestito o cammini sui trampoli
+per farlo sembrare più alto.  Quando diciamo che un cucciolo si sviluppa in
+un cane, non intendiamo che la sua crescita sia un graduale compromesso
+con un gatto; intendiamo che diventa più cane e non meno.
+Lo Sviluppo è l'espansione di tutte le possibilità e implicazioni
+di una dottrina, man mano che c'è [[Time|tempo]] per distinguerle e trarle
+fuori; e il punto qui è che l'ampliamento della teologia medievale
+fu semplicemente la piena comprensione di quella teologia.
+Ed è di primaria importanza rendersi conto anzitutto di questo fatto,
+riguardo al [[Time|tempo]] del grande domenicano e del primo francescano,
+perché la loro tendenza, umanistica e naturalistica in cento modi,
+fu davvero lo sviluppo della dottrina suprema, che era
+anche il dogma di tutti i dogmi.  È in questo che la popolare
+poesia di san Francesco e la prosa quasi razionalistica di
+san Tommaso appaiono con più vividezza come parte del medesimo movimento.
+Sono entrambe grandi germinazioni dello sviluppo cattolico, dipendenti dalle
+cose esterne solo come ogni cosa vivente e crescente dipende da esse;
+cioè le digerisce e le trasforma, ma continua a propria
+immagine e non alla loro.  Un buddista o un comunista potrebbe sognare
+due cose che simultaneamente si divorano a vicenda, come la forma perfetta
+di unificazione.  Ma non è così per le cose viventi.
+San Francesco si accontentava di dirsi il Trovatore di Dio;
+ma non si accontentava del Dio dei trovatori.  San Tommaso non
+riconciliò [[Christ|Cristo]] con Aristotele; riconciliò Aristotele con [[Christ|Cristo]].
+
+Sì; malgrado i contrasti tanto cospicui e persino comici
+quanto il paragone fra l'uomo grasso e l'uomo magro, l'uomo alto
+e l'uomo basso: malgrado il contrasto fra il vagabondo
+e lo studente, fra l'apprendista e l'[[aristocrat|aristocratico]],
+fra chi odiava i libri e chi li [[Lover|amava]], fra il più selvaggio
+di tutti i missionari e il più mite di tutti i professori, il grande
+fatto della [[history|storia]] medievale è che questi due grandi uomini facevano
+la medesima grande opera; l'uno nello studio e l'altro nella strada.
+Non stavano portando qualcosa di nuovo nel [[Christianity|cristianesimo]]; nel senso
+di qualcosa di pagano o eretico nel [[Christianity|cristianesimo]]; al contrario,
+stavano portando il [[Christianity|cristianesimo]] nella Cristianità.  Ma lo stavano
+riportando contro la pressione di certe tendenze storiche,
+che si erano indurite in abitudini in molte grandi scuole e autorità
+della Chiesa cristiana; e si servivano di strumenti e armi che
+a molti sembravano associati con l'eresia o il paganesimo.
+San Francesco usava la [[Nature|natura]] press'a poco come san Tommaso usava Aristotele;
+e ad alcuni sembravano servirsi di una dea pagana e di un savio pagano.
+Ciò che davvero facevano, e specialmente ciò che san Tommaso
+davvero faceva, formerà la materia principale di queste pagine;
+ma è comodo poterlo confrontare fin dall'inizio con un
+santo più popolare; perché possiamo così riassumerne la sostanza
+nel modo più popolare.  Forse suonerebbe troppo paradossale dire
+che questi due santi ci salvarono dalla Spiritualità; una tremenda condanna.
+Forse può essere frainteso se dico che san Francesco, con tutto il suo
+[[Love|amore]] per gli [[Animals|animali]], ci salvò dall'essere buddisti; e che san Tommaso,
+con tutto il suo [[Love|amore]] per la [[philosophy|filosofia]] greca, ci salvò dall'essere platonici.
+Ma è meglio dire la [[Truth|verità]] nella sua forma più semplice; ossia che essi
+riaffermarono entrambi l'Incarnazione, riportando Dio sulla terra.
+
+Questa analogia, che può sembrare piuttosto remota, è davvero forse
+la migliore introduzione pratica alla [[philosophy|filosofia]] di san Tommaso.
+Come dovremo considerare più da vicino in seguito, il lato puramente spirituale
+o mistico del cattolicesimo aveva preso di gran lunga il sopravvento
+nei primi secoli cattolici; attraverso il genio di Agostino,
+che era stato platonico, e forse non cessò mai di essere platonico;
+attraverso il trascendentalismo della presunta opera dell'Areopagita;
+attraverso la tendenza orientale dell'Impero tardo e qualcosa di asiatico
+nella quasi pontificale regalità di Bisanzio; tutte queste cose
+gravavano su ciò che ora chiameremmo rozzamente l'elemento occidentale;
+sebbene esso abbia altrettanto diritto a essere chiamato l'elemento cristiano:
+poiché il suo buon senso non è che la santa familiarità del Verbo
+fatto carne.  Comunque, per il momento basti dire che
+i teologi si erano in qualche modo irrigiditi in una sorta di [[Pride|orgoglio]]
+platonico nel possesso di verità intangibili e intraducibili interiori;
+come se nessuna parte della loro saggezza avesse alcuna radice nel mondo reale.
+Ora, la prima cosa che [[aquinas|d'Aquino]] fece, benché non affatto
+l'ultima, fu dire a questi puri trascendentalisti qualcosa
+sostanzialmente simile a questo.
 
 
 
@@ -5458,6 +5781,125 @@ No historian will pretend that St. Francis wrote The Canticle of
 the Sun in close [[Imitation|imitation]] of a Homeric [[Hymn]] to [[Apollo]] or loved [[Birds|birds]]
 because he had carefully learned all the trick of the Roman Augurs.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+«Lungi da un povero frate il negare che voi abbiate questi abbaglianti
+diamanti nel capo, tutti disegnati nelle più perfette forme matematiche
+e splendenti di una luce puramente celeste; tutti già lì,
+quasi prima che cominciate a pensare, per non dire a vedere o udire o sentire.
+Ma non mi vergogno di dire che trovo la mia ragione nutrita dai miei sensi;
+che devo gran parte di ciò che penso a ciò che vedo
+e odoro e gusto e tocco; e che, per quanto riguarda la mia ragione,
+mi sento obbligato a trattare tutta questa realtà come reale.
+Per dirla in breve, in ogni [[Humility|umiltà]], non credo che Dio abbia inteso
+che l'Uomo esercitasse soltanto quella peculiare, elevata e astratta
+sorta di intelletto che voi avete la fortuna di possedere:
+ma credo che vi sia un campo intermedio di fatti che ci sono dati
+dai sensi per essere la materia della ragione; e che in
+quel campo la ragione ha il diritto di governare, come rappresentante
+di Dio nell'Uomo.  È vero che tutto questo è più basso degli angeli;
+ma è più alto degli [[Animals|animali]], e di tutti gli effettivi oggetti materiali
+che l'Uomo si trova intorno.  È vero, anche l'uomo può essere un oggetto;
+e persino un oggetto deplorevole.  Ma ciò che l'uomo ha fatto l'uomo può farlo;
+e se un antiquato vecchio pagano di nome Aristotele può aiutarmi
+a farlo, lo ringrazierò in ogni [[Humility|umiltà]]».
+
+Così ebbe inizio ciò che comunemente si chiama l'appello ad [[aquinas|d'Aquino]] e ad Aristotele.
+Si potrebbe chiamarlo l'appello alla Ragione e all'Autorità dei Sensi.
+E sarà evidente che vi è una sorta di parallelo popolare a esso
+nel fatto che san Francesco non solo prestava orecchio agli angeli,
+ma ascoltava anche gli [[Birds|uccelli]].  E prima di giungere a quegli aspetti
+di san Tommaso che erano assai severamente intellettuali, possiamo notare
+che in lui come in san Francesco vi è un preliminare elemento pratico
+che è piuttosto morale; una sorta di buona e schietta [[Humility|umiltà]];
+e una prontezza dell'uomo a considerare in certi modi persino se stesso
+come un animale; come san Francesco paragonava il proprio [[Body|corpo]] a un [[donkey|asino]].
+Si può dire che il contrasto valga ovunque, persino nella
+metafora zoologica, e che se san Francesco era simile a quel comune
+o dozzinale [[donkey|asino]] che portò [[Christ|Cristo]] a Gerusalemme, san Tommaso,
+che fu invece paragonato a un bue, somigliava piuttosto a quel apocalittico
+[[Monster|mostro]] di mistero quasi assiro; il toro alato.  Ma di nuovo,
+non dobbiamo lasciare che tutto ciò che si può contrapporre eclissi ciò che era comune;
+né dimenticare che nessuno dei due sarebbe stato troppo orgoglioso per attendere
+tanto pazientemente quanto il bue e l'asino nella stalla di Betlemme.
+
+Vi erano naturalmente, come vedremo presto, molte altre idee ben più
+curiose e complicate nella [[philosophy|filosofia]] di san Tommaso;
+oltre a questa idea primaria di un buon senso centrale che è
+nutrito dai cinque sensi.  Ma a questo punto, il punto
+della storia non è solo che questa fosse una dottrina tomista,
+ma che essa è una dottrina veramente ed eminentemente cristiana.
+Poiché su questo punto gli scrittori moderni scrivono un gran mucchio di sciocchezze;
+e mostrano più della loro consueta ingegnosità nel mancare il bersaglio.
+Avendo assunto senza argomentazione, fin dall'inizio, che ogni emancipazione
+debba condurre gli uomini lontano dalla religione e verso l'irreligione, hanno
+semplicemente e ciecamente dimenticato quale sia il tratto saliente
+della religione stessa.
+
+Non sarà più a lungo possibile celare ad alcuno
+il fatto che san Tommaso [[aquinas|d'Aquino]] fu uno dei grandi liberatori
+dell'intelletto umano.  I settari del Seicento e del
+Settecento erano essenzialmente oscurantisti, e custodivano
+una leggenda oscurantista secondo cui lo Scolastico era un oscurantista.
+Questa si stava assottigliando già nell'Ottocento; sarà
+impossibile nel Novecento.  Non ha nulla a che fare con la [[Truth|verità]]
+della loro teologia o della sua; ma solo con la [[Truth|verità]] della proporzione
+storica, che comincia a riapparire man mano che le liti cominciano a placarsi.
+Semplicemente come uno dei fatti che pesano grandemente nella [[history|storia]], è vero
+dire che Tommaso fu un uomo grandissimo che riconciliò la religione
+con la ragione, che la protese verso la scienza sperimentale,
+che insistette che i sensi erano le finestre dell'[[Soul|anima]]
+e che la ragione aveva un diritto divino di nutrirsi di fatti,
+e che era compito della [[Faith|fede]] digerire la forte
+carne delle più coriacee e più pratiche delle filosofie pagane.
+È un fatto, come la strategia militare di Napoleone, che [[aquinas|d'Aquino]]
+combattesse così per tutto ciò che è liberale e illuminato,
+in confronto ai suoi rivali, o del resto ai suoi successori
+e soppiantatori.  Coloro che, per altre ragioni, accettano onestamente
+l'effetto finale della [[Reformation|Riforma]] affronteranno nondimeno
+il fatto che fu lo Scolastico a essere il Riformatore;
+e che i Riformatori posteriori furono, in confronto, dei reazionari.
+Uso la parola non come un rimprovero dal mio punto di vista,
+ma come un fatto dall'ordinario punto di vista progressista moderno.
+Per esempio, essi inchiodarono la mente alla sufficienza letterale
+delle Scritture ebraiche; quando san Tommaso aveva già parlato
+dello Spirito che dava grazia alle filosofie greche.  Egli insistette sul
+dovere sociale delle opere; essi solo sul dovere spirituale della [[Faith|fede]].
+Era la vita stessa dell'insegnamento tomista che la Ragione possa
+essere degna di fiducia: era la vita stessa dell'insegnamento luterano che la Ragione
+sia del tutto indegna di fiducia.
+
+Ora, quando questo fatto si scopre essere un fatto, il pericolo è che tutta
+l'instabile opposizione scivoli d'un tratto all'estremo opposto.
+Coloro che fino a quel momento avevano insultato lo Scolastico come dogmatico
+cominceranno ad ammirare lo Scolastico come un Modernista che diluì il dogma.
+Cominceranno frettolosamente ad adornarne la statua con tutte le sbiadite
+ghirlande del progresso, a presentarlo come un uomo in anticipo sul suo tempo,
+il che si suppone sempre significhi in accordo con il nostro tempo;
+e a caricarlo dell'immotivata imputazione di aver
+prodotto la mente moderna.  Scopriranno la sua attrattiva,
+e assumeranno un po' frettolosamente che egli fosse come loro,
+perché era attraente.  Fino a un certo punto ciò è abbastanza perdonabile;
+fino a un certo punto è già accaduto nel caso di san Francesco.
+Ma non andrebbe oltre un certo punto nel caso di san Francesco.
+Nessuno, nemmeno un Libero Pensatore come Renan o Matthew Arnold,
+pretenderebbe che san Francesco fosse qualcosa di diverso da un devoto cristiano,
+o avesse un qualche altro movente originario se non l'[[Imitation|imitazione]] di [[Christ|Cristo]].
+Eppure anche san Francesco ebbe quell'effetto liberatore e umanizzante
+sulla religione; benché forse più sull'[[Imagination|immaginazione]] che
+sull'intelletto.  Ma nessuno dice che san Francesco stesse allentando
+il codice cristiano, quando evidentemente lo stringeva; come la corda
+attorno al saio del suo frate.  Nessuno dice che egli abbia semplicemente aperto i cancelli
+alla scienza scettica, o venduto il passo all'umanesimo pagano, o guardato
+avanti solo al [[Renaissance|Rinascimento]] o incontrato i Razionalisti a metà strada.
+Nessun biografo pretende che san Francesco, quando si racconta
+che aprisse i Vangeli a caso e leggesse i grandi testi
+sulla [[Poverty|povertà]], avesse in realtà solo aperto l'Eneide e praticato
+le Sortes Virgilianae per rispetto delle lettere e del sapere pagani.
+Nessuno storico pretenderà che san Francesco scrivesse il Cantico
+del Sole in stretta [[Imitation|imitazione]] di un [[Hymn|Inno]] omerico ad [[Apollo]] o amasse gli [[Birds|uccelli]]
+perché avesse accuratamente appreso tutti i trucchi degli Auguri romani.
 
 
 
@@ -5585,6 +6027,128 @@ St. Francis himself could [[Desire|desire]]; the message from heaven; the story
 that is told out of the sky; the fairytale that is really true.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+In breve, la maggior parte della gente, cristiana o pagana, converrebbe ormai
+che il sentimento francescano fosse primariamente un sentimento cristiano,
+dispiegatosi dall'interno, da una [[Innocent|innocente]] (o, se volete, ignorante)
+[[Faith|fede]] nella religione cristiana stessa.  Nessuno, come ho detto,
+dice che san Francesco traesse la sua ispirazione primaria da Ovidio.
+Sarebbe altrettanto falso dire che [[aquinas|d'Aquino]] traesse la sua
+ispirazione primaria da Aristotele.  L'intera lezione della sua vita,
+specialmente della sua prima giovinezza, l'intera storia della sua [[Childhood|infanzia]] e della scelta
+di una carriera, mostra che egli fu supremamente e direttamente devoto;
+e che amò appassionatamente il culto cattolico assai prima di scoprire
+di doverlo difendere.  Ma vi è anche un esempio speciale e decisivo
+di questo che connette ancora una volta san Tommaso con san Francesco.
+Sembra stranamente dimenticato che entrambi questi santi stavano in
+effetti imitando un Maestro, che non era Aristotele, per non dire Ovidio,
+quando santificavano i sensi o le cose semplici della [[Nature|natura]];
+quando san Francesco camminava umilmente tra le bestie o san Tommaso
+disputava cortesemente tra i Gentili.
+
+Coloro che mancano questo, mancano il punto della religione, anche se essa
+fosse una superstizione; anzi, mancano proprio il punto che chiamerebbero
+più superstizioso.  Intendo l'intera sbalorditiva storia del Dio-Uomo
+nei Vangeli.  Alcuni lo mancano perfino toccando san Francesco e il suo
+puro e non dotto appello ai Vangeli.  Parleranno della
+prontezza di san Francesco a imparare dai [[Flowers|fiori]] o dagli [[Birds|uccelli]]
+come di qualcosa che può solo additare il pagano [[Renaissance|Rinascimento]].
+Mentre il fatto li fissa in volto; primo, che esso addita
+all'indietro il Nuovo Testamento, e secondo che esso addita in avanti,
+se addita qualcosa, il realismo aristotelico della Summa
+di san Tommaso [[aquinas|d'Aquino]].  Essi immaginano vagamente che chiunque
+umanizzi la divinità debba paganizzare la divinità, senza
+vedere che l'umanizzazione della divinità è in realtà il più forte
+e crudo e incredibile dogma del Credo.  San Francesco
+stava diventando più simile a [[Christ|Cristo]], e non semplicemente più simile a Buddha,
+quando considerava i gigli del campo o gli uccelli del cielo;
+e san Tommaso stava diventando più cristiano, e non semplicemente
+più aristotelico, quando insisteva che Dio e l'immagine
+di Dio erano venuti in contatto attraverso la materia con un mondo materiale.
+Questi santi erano, nel senso più esatto del termine, Umanisti;
+perché insistevano sull'immensa importanza dell'essere
+umano nello schema teologico delle cose.  Ma non erano
+Umanisti in marcia lungo un sentiero di progresso che conduce al Modernismo
+e allo scetticismo generale; poiché nel loro stesso Umanesimo affermavano
+un dogma ora spesso considerato il più superstizioso Superumanesimo.
+Rafforzavano quella sbalorditiva dottrina dell'Incarnazione,
+che gli scettici trovano più difficile da credere.  Non può esservi
+un più rigido pezzo di divinità cristiana della divinità di [[Christ|Cristo]].
+
+Questo è un punto che qui è assai a proposito; ossia che questi uomini
+diventavano più ortodossi, quando diventavano più razionali o naturali.
+Solo essendo così ortodossi potevano essere così razionali e naturali.
+In altre parole, ciò che si può davvero chiamare una teologia liberale fu dispiegato
+dall'interno, fuori dai misteri originari del cattolicesimo.
+Ma quella liberalità non aveva nulla a che fare con il liberalismo; anzi, essa
+non può nemmeno ora coesistere con il liberalismo [(nota) uso qui la parola
+liberalismo nel senso teologico strettamente limitato, in cui
+Newman e altri teologi la usano.  Nel suo senso politico popolare,
+come sottolineo più avanti, san Tommaso tendeva piuttosto a essere un Liberale,
+specialmente per il suo [[Time|tempo]]].  La questione è così cogente che prenderò
+una o due idee particolari di san Tommaso per illustrare ciò che intendo.
+Senza anticipare l'elementare [[Sketch|schizzo]] del tomismo che dovrà
+essere fatto più avanti, i seguenti punti possono essere qui annotati.
+
+Per esempio, era un'idea assai particolare di san Tommaso che l'Uomo
+vada studiato nella sua intera virilità; che un uomo non è un uomo
+senza il suo [[Body|corpo]], così come non è un uomo senza la sua [[Soul|anima]].
+Un cadavere non è un uomo; ma neppure un [[Ghost|fantasma]] è un uomo.  La più antica
+scuola di Agostino e persino di Anselmo aveva piuttosto trascurato questo,
+trattando l'[[Soul|anima]] come l'unico tesoro necessario, avvolto per un [[Time|tempo]]
+in un trascurabile lino.  Anche qui erano meno ortodossi nell'essere
+più spirituali.  A volte si libravano sull'orlo di quei deserti orientali
+che si estendono verso la terra della trasmigrazione dove
+l'essenziale [[Soul|anima]] può passare attraverso cento corpi inessenziali;
+reincarnata persino nei corpi di bestie o [[Birds|uccelli]].  San Tommaso si erse
+saldamente in difesa del fatto che il [[Body|corpo]] di un uomo è il suo [[Body|corpo]] come la sua mente
+è la sua mente; e che egli può essere solo un equilibrio e un'[[Union|unione]] dei due.
+Ora questa è per certi versi una nozione naturalistica, assai vicina
+al moderno rispetto per le cose materiali; una lode del [[Body|corpo]]
+che potrebbe essere cantata da Walt Whitman o giustificata da D. H. Lawrence:
+una cosa che si potrebbe chiamare Umanesimo o persino rivendicare dal Modernismo.
+In effetti, può essere Materialismo; ma è il netto contrario del Modernismo.
+Essa è legata, nella visione moderna, al più mostruoso,
+al più materiale, e perciò al più miracoloso dei miracoli.
+È specialmente connessa con la più sbalorditiva sorta di dogma,
+che il Modernista può meno accettare; la [[Resurrection|Risurrezione]] del [[Body|Corpo]].
+
+O ancora, il suo argomento a favore della Rivelazione è del tutto razionalistico;
+e, dall'altro lato, decisamente democratico e popolare.  Il suo argomento
+a favore della Rivelazione non è affatto un argomento contro la Ragione.
+Al contrario, egli sembra incline ad ammettere che la [[Truth|verità]] potrebbe essere
+raggiunta con un processo razionale, se solo esso fosse abbastanza razionale;
+e anche abbastanza lungo.  Anzi, qualcosa nel suo carattere,
+che ho altrove chiamato ottimismo, e per cui non conosco
+altro termine approssimativo, lo portava piuttosto a esagerare
+la misura in cui tutti gli uomini avrebbero infine dato ascolto alla ragione.
+Nelle sue controversie, egli assume sempre che essi daranno ascolto
+alla ragione.  Cioè, crede enfaticamente che gli uomini possano
+essere convinti dall'argomentazione; quando giungono alla fine dell'argomentazione.
+Solo che il suo buon senso gli diceva anche che l'argomentazione non finisce mai.
+Potrei convincere un uomo che la materia come origine della Mente è
+del tutto priva di senso, se egli e io ci amassimo molto e ci battessimo
+ogni [[Night|notte]] per quarant'anni.  Ma assai prima che egli fosse
+convinto sul suo letto di morte, mille altri materialisti potrebbero
+essere nati, e nessuno può spiegare tutto a tutti.
+San Tommaso è del parere che le anime di tutta la gente comune, laboriosa
+e semplice, siano importanti quanto le anime
+dei pensatori e dei cercatori di [[Truth|verità]]; e chiede come tutta questa gente
+possa mai trovare il [[Time|tempo]] per la quantità di ragionamento necessaria
+a trovare la [[Truth|verità]].  L'intero tono del passo mostra sia un rispetto
+per l'indagine scientifica sia una forte simpatia per l'uomo comune.
+Il suo argomento a favore della Rivelazione non è un argomento contro la Ragione;
+ma è un argomento a favore della Rivelazione.  La conclusione che egli ne trae
+è che gli uomini devono ricevere le più alte verità morali in modo
+miracoloso; o la maggior parte degli uomini non le riceverebbe affatto.
+I suoi argomenti sono razionali e naturali; ma la sua stessa deduzione è tutta
+a favore del [[Supernatural|soprannaturale]]; e, come è comune nel caso del suo argomento,
+non è facile trovare alcuna deduzione se non la sua propria deduzione.
+E quando giungiamo a ciò, troviamo che è qualcosa di tanto semplice quanto
+san Francesco stesso poteva [[Desire|desiderare]]; il messaggio dal cielo; la storia
+che è narrata dal cielo; la fiaba che è davvero vera.
+
 
 
 <span class="atom-split" data-atom="chapter_01--part_06" data-title="St. Thomas Aquinas — Chapter 1 (part 6)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="motif/chalk,motif/home,motif/road,motif/soul,motif/well,concept/body,concept/greatness,concept/paradox,concept/resurrection,concept/sublime,histref/crusades,histref/renaissance,character/aquinas,character/christ"></span>
@@ -5685,6 +6249,103 @@ that is why it was Christian.  St. Thomas was, if you will,
 taking the lower [[Road|road]] when he walked in the steps of Aristotle.
 So was God, when He worked in the workshop of Joseph.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+È ancora più evidente in problemi più popolari come il Libero Arbitrio.
+Se san Tommaso sta per una cosa più che per un'altra, è per ciò che
+si può chiamare sovranità o autonomie subordinate.  Egli era,
+se mi si concede la frivolezza, un fervente autonomista.  Potremmo persino dire
+che difendeva sempre l'indipendenza delle cose dipendenti.  Egli insisteva
+che una tal cosa potesse avere i propri diritti nella propria regione.
+Era il suo atteggiamento verso l'autogoverno della ragione e persino dei sensi;
+«Figlia sono nella [[house|casa]] di mio padre; ma padrona nella mia».
+E proprio in questo senso egli sottolineò una certa dignità nell'Uomo,
+che a volte veniva piuttosto inghiottita nelle puramente teistiche
+generalizzazioni su Dio.  Nessuno direbbe che egli volesse dividere
+l'Uomo da Dio; ma volle bensì distinguere l'Uomo da Dio.
+In questo forte senso della dignità e libertà umana vi è molto
+che può essere e viene apprezzato oggi come una nobile liberalità umanistica.
+Ma non dimentichiamo che il suo esito fu proprio quel Libero Arbitrio, ossia la
+responsabilità morale dell'Uomo, che tanti liberali moderni negherebbero.
+A questa [[Sublime|sublime]] e perigliosa libertà sono appesi il cielo e l'inferno, e tutto
+il misterioso dramma dell'[[Soul|anima]].  È distinzione e non divisione;
+ma un uomo può dividersi da Dio, il che, sotto un certo aspetto,
+è la più grande distinzione di tutte.
+
+Di nuovo, benché sia una questione più metafisica, che dovrà
+essere menzionata più avanti, e allora solo troppo brevemente, avviene lo stesso
+con l'antica disputa filosofica sui Molti e sull'Uno.
+Le cose sono così diverse da non poter mai essere classificate;
+o così unificate da non poter mai essere distinte?
+Senza pretendere di rispondere a tali domande qui, possiamo dire in generale
+che san Tommaso si schiera decisamente dalla parte della Varietà,
+come cosa che è reale [[Well|tanto]] quanto l'[[unity|Unità]].  In questo, e in questioni affini
+a questo, egli si discosta spesso dai grandi filosofi greci che a volte
+gli erano modelli; e si discosta interamente dai grandi filosofi
+orientali che in un certo senso gli sono rivali.  Sembra abbastanza certo
+che la differenza tra il [[chalk|gesso]] e il [[cheese|formaggio]], o tra i maiali e i pellicani,
+non sia una mera illusione, o un abbaglio della nostra mente sconcertata, accecata
+da un'unica luce; ma sia press'a poco ciò che tutti sentiamo che sia.
+Si può dire che questo è mero buon senso; il buon senso
+per cui i maiali sono maiali; in tale misura affine al terragno
+buon senso aristotelico; a un buon senso umano e persino pagano.
+Ma si noti che qui di nuovo gli estremi della terra e del cielo si incontrano.
+È anche connesso con la dogmatica idea cristiana della Creazione;
+di un Creatore che creò i maiali, in quanto distinto da un Cosmo che
+semplicemente li fece evolvere.
+
+In tutti questi casi vediamo ripetersi il punto enunciato in principio.
+Il movimento tomista in metafisica, come il movimento francescano
+nella morale e nei costumi, fu un ampliamento e una liberazione,
+fu enfaticamente una crescita della teologia cristiana dall'interno;
+non fu enfaticamente un restringimento della teologia cristiana sotto influenze
+pagane o persino umane.  Il francescano era libero di essere frate,
+invece di essere costretto a essere monaco.  Ma era più cristiano,
+più cattolico, e persino più [[ascetic|asceta]].  Così il tomista era libero
+di essere aristotelico, invece di essere costretto a essere agostiniano.
+Ma era persino più teologo; più teologo ortodosso;
+più dogmatico, avendo ricuperato attraverso Aristotele
+il più temerario di tutti i dogmi, le nozze di Dio con l'Uomo
+e perciò con la Materia.  Nessuno può comprendere la [[Greatness|grandezza]]
+del tredicesimo secolo, se non si rende conto che esso fu una grande
+crescita di cose nuove prodotte da una cosa vivente.  In tal senso
+esso fu davvero più audace e più libero di ciò che chiamiamo il [[Renaissance|Rinascimento]],
+che fu una [[Resurrection|risurrezione]] di cose vecchie scoperte in una cosa morta.
+In tal senso il medievalismo non fu una Rinascita, ma piuttosto una Nascita.
+Non modellò i suoi templi sulle tombe, né richiamò dèi morti
+dall'Ade.  Creò un'architettura nuova come l'ingegneria moderna;
+anzi, resta tuttora l'architettura più moderna.  Solo che essa
+fu seguita al [[Renaissance|Rinascimento]] da un'architettura più antiquata.
+In tal senso il [[Renaissance|Rinascimento]] potrebbe chiamarsi la Ricaduta.
+Qualunque cosa si dica del gotico e del Vangelo secondo san Tommaso,
+essi non furono una Ricaduta.  Fu una nuova spinta come la [[titanic|titanica]] spinta
+dell'ingegneria gotica; e la sua forza era in un Dio che fa
+nuove tutte le cose.
+
+In una parola, san Tommaso rendeva la Cristianità più cristiana rendendola
+più aristotelica.  Questo non è un [[Paradox|paradosso]] ma una piana ovvietà,
+che può essere mancata solo da coloro che pur sapendo cosa si intende per
+aristotelico, hanno semplicemente dimenticato cosa si intende per cristiano.
+A paragone di un ebreo, di un musulmano, di un buddista, di un deista, o della maggior parte
+delle ovvie alternative, un cristiano significa un uomo che crede che la deità
+o la santità si sia unita alla materia o sia entrata nel mondo dei sensi.
+Alcuni scrittori moderni, mancando questo semplice punto, hanno persino parlato come
+se l'accettazione di Aristotele fosse una sorta di concessione agli Arabi;
+come un vicario Modernista che fa una concessione agli Agnostici.
+Potrebbero [[Well|altrettanto]] bene dire che le [[Crusades|Crociate]] furono una concessione agli
+Arabi quanto dire che [[aquinas|d'Aquino]], salvando Aristotele da Averroè,
+facesse una concessione agli Arabi.  I Crociati volevano ricuperare
+il luogo dove era stato il [[Body|corpo]] di [[Christ|Cristo]], perché credevano,
+a torto o a ragione, che fosse un luogo cristiano.  San Tommaso
+volle ricuperare ciò che in essenza era il [[Body|corpo]] di [[Christ|Cristo]] stesso;
+il santificato [[Body|corpo]] del Figlio dell'Uomo che era divenuto un miracoloso medium
+tra cielo e terra.  Ed egli volle il [[Body|corpo]], e tutti i suoi sensi,
+perché credeva, a torto o a ragione, che fosse una cosa cristiana.
+Poteva essere una cosa più umile o più casalinga della mente platonica;
+è per questo che era cristiana.  San Tommaso stava, se volete,
+prendendo la strada più bassa quando camminava sulle orme di Aristotele.
+Così faceva Dio, quando lavorava nella bottega di Giuseppe.
 
 
 
@@ -5800,6 +6461,117 @@ the miracle of Muret and the greater miracle of Dominic,
 when the roots of the Pyrenees and the shores of the Mediterranean
 saw defeated the Asiatic [[Despair|despair]].
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Infine, questi due grandi uomini non erano solo uniti l'uno all'altro
+ma separati dalla maggior parte dei loro compagni e contemporanei
+dal carattere quanto mai rivoluzionario della loro stessa rivoluzione.
+Nel 1215, Domenico di Guzmán, il castigliano, fondò un Ordine assai
+simile a quello di Francesco; e, per una curiosissima coincidenza
+della [[history|storia]], quasi esattamente nel medesimo momento di Francesco.
+Esso era rivolto primariamente a predicare la [[philosophy|filosofia]] cattolica
+agli eretici albigesi; la cui [[philosophy|filosofia]] era una delle molte
+forme di quel manicheismo di cui questa storia si occupa assai.
+Aveva le sue radici nel remoto misticismo e nel distacco morale dell'Oriente;
+ed era perciò inevitabile che i domenicani fossero piuttosto
+più una fratellanza di filosofi, laddove i francescani erano
+in confronto una fratellanza di poeti.  Per questa e altre ragioni,
+san Domenico e i suoi seguaci sono poco noti o compresi
+nell'Inghilterra moderna; furono coinvolti alla fine in una guerra religiosa
+che seguì a un argomento teologico; e vi era qualcosa
+nell'atmosfera del nostro paese, durante l'ultimo secolo circa,
+che rese l'argomento teologico persino più incomprensibile della
+guerra religiosa.  L'effetto ultimo è per certi versi curioso;
+perché san Domenico, ancor più di san Francesco, era segnato da quella
+indipendenza intellettuale, e da quel rigoroso criterio di virtù e veracità,
+che le culture protestanti sono solite considerare specialmente protestanti.
+Fu di lui che si raccontò la storia, e certamente sarebbe
+stata raccontata più largamente fra noi se fosse stata raccontata di un puritano,
+che il Papa additò il suo sfarzoso Palazzo Papale e disse:
+«Pietro non può più dire ‘Non ho né argento né oro'»;
+e il frate spagnolo rispose: «No, e neppure può ora dire,
+‘Àlzati e cammina'».
+
+Vi è dunque un altro modo in cui la storia popolare di san Francesco
+può essere una sorta di ponte tra il mondo moderno e quello medievale.
+Ed esso si fonda su quel medesimo fatto già menzionato:
+che san Francesco e san Domenico stanno insieme nella [[history|storia]]
+come coloro che compirono la medesima opera, eppure sono divisi nella tradizione
+popolare inglese nel modo più strano e sorprendente.
+Nelle loro terre sono come Gemelli Celesti, che irradiano la medesima
+luce dal cielo, sembrando talora due santi in una sola aureola,
+come un altro ordine raffigurò la Santa [[Poverty|Povertà]] come due cavalieri su un solo [[Horse|cavallo]].
+Nelle leggende della nostra terra, sono press'a poco uniti quanto
+san Giorgio e il Drago.  Domenico è ancora concepito come un Inquisitore
+che escogita strumenti di tortura; mentre Francesco è già accettato come un umanitario
+che deplora le trappole per topi.  Ci sembra, per esempio, del tutto naturale,
+e colmo delle medesime associazioni di [[Flowers|fiori]] e stellate fantasie,
+che il nome di Francesco appartenga a Francis Thompson.
+Ma immagino che sembrerebbe meno naturale chiamarlo Dominic Thompson;
+o scoprire che un uomo, con un lungo curriculum di simpatie popolari e pratica
+tenerezza verso i poveri, potesse portare un nome come Dominic Plater.
+Suonerebbe come se fosse stato chiamato Torquemada Thompson.
+
+Ora, dev'esserci qualcosa di sbagliato dietro questa contraddizione;
+che trasforma coloro che erano alleati in [[Home|patria]] in antagonisti all'estero.
+Su qualsiasi altra questione, il fatto sarebbe evidente al buon senso.
+Si supponga che i liberali inglesi o i liberoscambisti scoprissero che, in remote
+parti della Cina, si riteneva comunemente che Cobden fosse un crudele
+[[Monster|mostro]] ma Bright un santo immacolato.  Penserebbero che vi fosse
+un errore da qualche parte.  Si supponga che gli evangelici americani apprendessero
+che in Francia o in [[Italy|Italia]], o in altre civiltà impenetrabili
+a Moody e Sankey, vi fosse una credenza popolare secondo cui Moody era
+un angelo ma Sankey un demonio; indovinerebbero che dev'esserci
+un pasticcio da qualche parte.  Qualche altra posteriore distinzione accidentale
+dev'essersi frapposta al corso principale di una tendenza storica.
+Questi paralleli non sono così fantastici come possono sembrare.
+Cobden e Bright sono stati effettivamente chiamati «torturatori di [[Child|bambini]]»,
+nell'ira per la loro presunta insensibilità verso i mali emendati
+dalle Leggi sulle Fabbriche; e alcuni chiamerebbero il sermone di Moody e Sankey
+sull'Inferno un'esibizione infernale.  Tutto ciò è materia di opinione;
+ma entrambi gli uomini avevano la stessa sorta di opinione, e dev'esserci
+uno svarione in un'opinione che li separa così completamente.
+E naturalmente vi è un completo svarione nella leggenda
+su san Domenico.  Coloro che sanno qualcosa di san Domenico
+sanno che egli era un missionario e non un militante persecutore;
+che il suo contributo alla religione fu il Rosario e non il Cavalletto;
+che tutta la sua carriera è priva di senso, a meno che non comprendiamo che le sue
+famose vittorie furono vittorie di [[Persuasion|persuasione]] e non di persecuzione.
+Egli credeva sì nella giustificazione della persecuzione; nel senso
+che il braccio secolare potesse reprimere i disordini religiosi.
+Così credeva alla persecuzione chiunque altro; e nessuno più
+dell'elegante bestemmiatore Federico II che non credeva in nient'altro.
+Alcuni dicono che egli fu il primo a bruciare gli eretici; ma comunque, riteneva che
+fosse uno dei suoi privilegi e doveri imperiali perseguitare gli eretici.
+Ma parlare come se Domenico non facesse altro che perseguitare gli eretici,
+è come biasimare padre Matthew, che persuase milioni di
+ubriaconi a prendere un voto di temperanza, perché la legge accettata
+talvolta permetteva che un ubriacone fosse arrestato da un poliziotto.
+È mancare l'intero punto; ossia che questo particolare
+uomo aveva un genio per la [[conversion|conversione]], del tutto a prescindere dalla costrizione.
+La vera differenza tra Francesco e Domenico, che non è a discredito
+di nessuno dei due, è che a Domenico accadde di trovarsi di fronte
+a una vasta campagna per la [[conversion|conversione]] degli eretici, mentre Francesco
+aveva solo il più sottile compito della [[conversion|conversione]] degli esseri umani.
+È una vecchia storia che, mentre possiamo aver bisogno di qualcuno come Domenico
+per [[convert|convertire]] i pagani al [[Christianity|cristianesimo]], abbiamo un ancor più grande
+bisogno di qualcuno come Francesco, per [[convert|convertire]] i cristiani
+al [[Christianity|cristianesimo]].  Tuttavia, non dobbiamo perdere di vista il particolare
+problema di san Domenico, che era quello di aver a che fare con un'intera popolazione,
+regni e città e campagne, che erano andati alla deriva dalla
+[[Faith|fede]] e si erano solidificati in strane e abnormi nuove religioni.
+Che egli riconquistasse masse di uomini così ingannati, semplicemente parlando
+e predicando, resta un enorme trionfo degno di un colossale trofeo.
+San Francesco è detto umano perché tentò di [[convert|convertire]]
+i saraceni e fallì; san Domenico è detto bigotto e ottuso
+perché tentò di [[convert|convertire]] gli albigesi e riuscì.
+Ma ci troviamo per caso in un curioso angolo o cantuccio delle colline
+della [[history|storia]], da cui possiamo vedere Assisi e le colline umbre,
+ma siamo fuori dalla vista del vasto campo di battaglia della Crociata meridionale;
+il miracolo di Muret e il più grande miracolo di Domenico,
+quando le radici dei Pirenei e le sponde del Mediterraneo
+videro sconfitta l'asiatica [[Despair|disperazione]].
 
 
 
@@ -6051,6 +6823,120 @@ in another sense; in that his very brilliancy has made some of his
 modern admirers very stupid.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+II
+
+L'ABATE FUGGIASCO
+
+Tommaso [[aquinas|d'Aquino]], in un modo strano e piuttosto simbolico,
+sgorgò dal centro stesso del mondo civilizzato del suo [[Time|tempo]];
+il nodo o groviglio centrale delle potenze che allora controllavano la Cristianità.
+Era strettamente legato a tutte esse; persino ad alcune di
+esse che si potrebbero [[Well|ben]] descrivere come intente a distruggere la Cristianità.
+L'intera contesa religiosa, l'intera contesa internazionale,
+era per lui una contesa di famiglia.  Nacque nella porpora,
+quasi letteralmente sull'orlo della porpora imperiale; poiché suo cugino
+era il Sacro Romano Imperatore.  Avrebbe potuto inquartare metà dei regni
+d'Europa sul suo scudo — se non avesse gettato via lo scudo.
+Era italiano e francese e tedesco e in ogni modo europeo.
+Da un lato, ereditò dall'energia che generò l'episodio
+dei normanni, le cui strane incursioni organizzatrici risuonavano e sferragliavano come
+voli di frecce negli angoli d'Europa e ai confini della terra;
+un loro volo seguiva il duca Guglielmo lontano verso nord attraverso
+le acciecanti nevi fino a Chester; un altro calcava orme greche e puniche
+attraverso l'isola di Sicilia fino alle porte di Siracusa.
+Un altro vincolo di [[Blood|sangue]] lo legava ai grandi Imperatori del Reno
+e del Danubio che pretendevano di portare la [[Crown|corona]] di Carlomagno; il Rosso Barbarossa,
+che dorme sotto il [[River|fiume]] impetuoso, era il suo prozio, e Federico II,
+la [[Wonder|Meraviglia]] del Mondo, il suo cugino di secondo grado, eppure egli era tenuto da cento
+legami più intimi alla vivace [[Inner Life|vita interiore]], alla vivacità locale,
+alle piccole nazioni murate e ai mille santuari d'[[Italy|Italia]].
+Pur ereditando questa parentela fisica con l'Imperatore,
+egli mantenne assai più fermamente la sua parentela spirituale con il Papa.
+Comprendeva il significato di Roma, e in che senso essa stesse ancora
+governando il mondo; e non era incline a pensare che gli Imperatori tedeschi
+del suo tempo, non più degli Imperatori greci di un [[Time|tempo]] precedente,
+potessero essere davvero romani in sfida a Roma.
+A questa cosmopolita ampiezza della sua posizione ereditata,
+egli aggiunse in seguito molte cose sue proprie, che favorivano la mutua
+comprensione tra i popoli, e gli davano qualcosa del carattere
+di un ambasciatore e interprete.  Viaggiò molto;
+non solo era [[Well|ben]] noto a [[Paris|Parigi]] e nelle università tedesche,
+ma quasi certamente visitò l'Inghilterra; probabilmente andò a [[Oxford]]
+e a [[London|Londra]]; ed è stato detto che potremmo star camminando sulle orme
+di lui e dei suoi compagni domenicani, ogni volta che scendiamo lungo il [[River|fiume]]
+verso la stazione ferroviaria che porta ancora il nome di Blackfriars.  Ma
+la [[Truth|verità]] si applica ai viaggi della sua mente [[Well|tanto]] quanto a quelli del suo [[Body|corpo]].
+Studiò la letteratura persino degli avversari del [[Christianity|cristianesimo]]
+assai più accuratamente e imparzialmente di quanto fosse allora l'usanza;
+cercò davvero di comprendere l'aristotelismo arabo dei musulmani;
+e scrisse un trattato assai umano e ragionevole sul problema del
+trattamento degli ebrei.  Tentò sempre di guardare ogni cosa
+dall'interno; ma fu certamente fortunato nell'essere nato
+all'interno del sistema statale e dell'alta politica del suo tempo.
+Ciò che egli pensasse di essi si può forse dedurre dal passo seguente
+nella sua [[history|storia]].
+
+San Tommaso potrebbe dunque star assai [[Well|bene]] per l'Uomo Internazionale,
+per prendere in prestito il titolo di un libro moderno.  Ma è solo
+giusto ricordare che egli visse nell'Età Internazionale;
+in un mondo che era internazionale in un senso non suggeribile
+in alcun libro moderno, o da alcun uomo moderno.  Se ben ricordo,
+il candidato moderno al posto di Uomo Internazionale era Cobden,
+che era un uomo quasi anormalmente nazionale; un uomo strettamente nazionale;
+un tipo assai fine, ma che si può a stento immaginare se non in movimento
+tra Midhurst e Manchester.  Aveva una politica internazionale
+e si concedeva viaggi internazionali; ma se rimase sempre
+una persona nazionale, fu perché rimase una persona normale;
+cioè normale per l'Ottocento.  Ma non era così nel
+tredicesimo secolo.  Là un uomo di influenza internazionale,
+come Cobden, poteva essere anche quasi un uomo di nazionalità internazionale.
+I nomi delle nazioni e delle città e dei luoghi d'origine non
+connotavano quella profonda divisione che è il marchio del mondo moderno.
+[[aquinas|D'Aquino]] da studente era soprannominato il bue di Sicilia, benché il suo
+luogo di nascita fosse presso Napoli, ma questo non impedì alla [[City|città]] di [[Paris|Parigi]]
+di considerarlo semplicemente e solidamente come un parigino, perché era
+stato una gloria della Sorbona, al punto che essa propose di seppellirne le ossa
+quando fu morto.  O si prenda un contrasto più ovvio con i tempi moderni.
+Si consideri ciò che si intende nella maggior parte del discorso moderno con un Professore tedesco.
+E poi ci si renda conto che il più grande di tutti i Professori tedeschi,
+Alberto Magno, fu egli stesso una delle glorie dell'Università
+di [[Paris|Parigi]]; e fu a [[Paris|Parigi]] che [[aquinas|d'Aquino]] lo sostenne.
+Si pensi al moderno Professore tedesco famoso in tutta Europa
+per la sua popolarità mentre teneva lezione a [[Paris|Parigi]].
+
+Così, se vi era guerra nella Cristianità, era guerra internazionale
+nel senso speciale in cui parliamo di pace internazionale.
+Non era la guerra di due nazioni; ma la guerra di due internazionalismi:
+di due Stati Mondiali: la [[Catholic Church|Chiesa cattolica]] e il Sacro Romano Impero.
+La crisi politica nella Cristianità colpì la vita di [[aquinas|d'Aquino]]
+all'inizio in un netto disastro, e in seguito in molti modi indiretti.
+Aveva molti elementi; le [[Crusades|Crociate]]; le braci del pessimismo albigese
+su cui san Domenico aveva trionfato con l'argomentazione e Simone
+di Montfort con le armi; il dubbio esperimento di un'[[Inquisition|Inquisizione]]
+che ne prese avvio; e molte altre cose.  Ma, a grandi linee,
+è il periodo del grande duello tra i Papi e gli Imperatori,
+cioè gli Imperatori tedeschi che si chiamavano Sacri Romani Imperatori,
+la [[house|Casa]] di Hohenstaufen.  Il particolare periodo della vita
+di [[aquinas|d'Aquino]], tuttavia, è interamente adombrato dal particolare
+Imperatore che era egli stesso più un italiano che un tedesco; il brillante
+Federico II che era chiamato la [[Wonder|Meraviglia]] del Mondo.  Si può ricordare,
+di passaggio, che il latino era la più viva delle lingue in questo [[Time|tempo]],
+e spesso avvertiamo una certa debolezza nella necessaria [[Translation|traduzione]].
+Poiché mi pare di aver letto da qualche parte che la parola usata era più forte
+della Meraviglia del Mondo; che il suo titolo medievale era
+Stupor Mundi, che è più esattamente la Stupefazione del Mondo.
+Qualcosa del genere può essere notato più avanti a proposito del linguaggio filosofico,
+e della debolezza del tradurre una parola come Ens con una parola come Essere.
+Ma per il momento la parentesi ha un'altra applicazione;
+poiché si potrebbe [[Well|ben]] dire che Federico stupefece davvero il mondo;
+che vi era qualcosa di stordente e accecante nei colpi
+che egli inferse alla religione, come in quel colpo che quasi apre
+la [[Biography|biografia]] di Tommaso [[aquinas|d'Aquino]].  Egli può anche essere detto stupefacente
+in un altro senso; in quanto la sua stessa brillantezza ha reso alcuni dei suoi
+moderni ammiratori assai stupidi.
+
 
 
 <span class="atom-split" data-atom="chapter_02--part_02" data-title="St. Thomas Aquinas — Chapter 2 (part 2)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="motif/city,motif/fire,motif/nature,motif/night,motif/soul,motif/time,motif/well,concept/education,concept/history,concept/nature,form/epic,form/history,histref/dante,setting/castle,setting/new_york,setting/oxford,setting/paris,character/aquinas,character/monks"></span>
@@ -6183,6 +7069,134 @@ family found itself.  It was not a war of nations, but it was a rather
 widespread family quarrel.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Federico II è infatti la prima figura, e una figura piuttosto feroce
+e sinistra, che attraversa a cavallo la scena della nascita e della
+fanciullezza di suo cugino: una scena di battaglie selvagge e di [[Fire|fuoco]].
+E può essere lecito indugiare in una parentesi sul suo nome,
+per due ragioni particolari: primo, che la sua fama romantica,
+persino tra gli storici moderni, ricopre e in parte cela il vero
+sfondo dei tempi; e secondo, che la tradizione in questione
+coinvolge direttamente l'intero rango di san Tommaso [[aquinas|d'Aquino]].
+La visione ottocentesca, ancora così stranamente chiamata visione moderna
+da molti moderni, riguardo a un uomo come Federico II fu [[Well|bene]] riassunta
+da qualche solido vittoriano, credo da Macaulay; Federico era "uno
+statista in un'età di Crociati; un filosofo in un'età di [[Monks|monaci]]".
+Si può notare che l'antitesi presuppone l'assunto
+che un Crociato non possa facilmente essere uno statista; e che un monaco
+non possa facilmente essere un filosofo. Eppure, per prendere solo quel
+caso particolare, sarebbe facile far notare che i casi
+di due uomini famosi nell'età di Federico II basterebbero da [[Alone|soli]]
+a rovesciare tanto l'assunto quanto l'antitesi.
+San Luigi, benché Crociato e persino Crociato senza successo,
+fu in realtà uno statista assai più riuscito di Federico II.
+Alla prova della politica pratica, egli rese popolare, consolidò e
+santificò il più potente [[government|governo]] d'Europa, l'ordine e
+la concentrazione della Monarchia francese; l'unica dinastia che accrebbe
+costantemente la propria forza per cinquecento anni fino alle glorie del
+Grand Siècle, mentre Federico rovinò dinanzi al Papato,
+alle Repubbliche e a una vasta coalizione di preti e di popoli.
+Il Sacro Romano Impero che egli voleva fondare era un ideale piuttosto
+nel senso di [[A Dream|un sogno]]; non fu certamente mai un fatto come
+lo Stato quadrato e solido che lo statista francese fondò davvero.
+Oppure, per prendere un altro esempio dalla generazione successiva, uno
+dei più rigorosamente pratici statisti della [[history|storia]], il nostro Edoardo I,
+fu anch'egli un Crociato.
+
+L'altra metà dell'antitesi è ancora più falsa e qui ancora
+più pertinente. Federico II non era un filosofo nell'età dei [[Monks|monaci]].
+Era un gentiluomo che si dilettava di [[philosophy|filosofia]] nell'età del monaco
+Tommaso [[aquinas|d'Aquino]]. Era senza dubbio un gentiluomo intelligente e persino
+brillante; ma se pure lasciò qualche appunto sulla [[Nature|natura]] dell'Essere
+e del Divenire, o sul senso preciso in cui le realtà possono essere relative
+alla Realtà, non immagino che quegli appunti stiano ora entusiasmando gli studenti
+di [[Oxford]] o i letterati di [[Paris|Parigi]], per non dire dei piccoli gruppi
+di tomisti che sono già sorti persino a [[New York]] e a Chicago.
+Non è alcuna mancanza di rispetto verso l'Imperatore dire che egli certamente non fu
+un filosofo nel senso in cui Tommaso [[aquinas|d'Aquino]] fu un filosofo,
+per non dire un filosofo così grande, così universale o così duraturo.
+E Tommaso [[aquinas|d'Aquino]] visse proprio in quell'età di [[Monks|monaci]], e proprio in quel
+mondo di [[Monks|monaci]], di cui Macaulay parla come se fosse incapace
+di produrre [[philosophy|filosofia]].
+
+Non occorre soffermarsi sulle cause di questo pregiudizio vittoriano,
+che alcuni ancora ritengono così [[Well|bene]] avanzato. Esso nacque principalmente da una
+nozione angusta e insulare; che nessun uomo potesse mai star costruendo
+il meglio del mondo moderno, se andava con il movimento principale
+del mondo medievale. Questi vittoriani pensavano che solo l'eretico
+avesse mai aiutato l'umanità; che solo l'uomo che quasi mandò in rovina la civiltà
+medievale potesse essere di qualche utilità nel costruire la civiltà moderna.
+Di qui vennero una ventina di favole comiche; come quella che le cattedrali dovevano
+essere state costruite da una società segreta di massoni; o che l'[[Epic|epopea]] di [[Dante]]
+dovesse essere un crittogramma alludente alle speranze politiche di Garibaldi.
+Ma la generalizzazione non è nella sua [[Nature|natura]] probabile e non
+è di fatto vera. Questo periodo medievale fu piuttosto specialmente
+il periodo del pensiero comunitario o corporativo, e in alcune materie
+fu in realtà piuttosto più ampio del pensiero individualistico moderno.
+Ciò potrebbe essere provato in un lampo dal semplice fatto dell'uso
+della parola "statista". Per un uomo dell'epoca di Macaulay, uno statista
+significava sempre un uomo che difendeva i più ristretti interessi nazionali
+del proprio Stato contro altri Stati, come Richelieu difese
+quelli della Francia, o Chatham quelli dell'Inghilterra, o Bismarck quelli della Prussia.
+Ma se un uomo volesse davvero difendere tutti questi Stati, unire
+tutti questi Stati, farne una vivente fratellanza di tutti questi Stati,
+per resistere a qualche pericolo esterno come quello dei milioni di Mongoli—
+allora quel poveraccio, naturalmente, non poteva davvero essere chiamato statista.
+Era soltanto un Crociato.
+
+In questo modo è ma giusto verso Federico II dire che egli fu un Crociato;
+se pure fu anche piuttosto simile a un Anti-Crociato. Certamente egli fu
+uno statista internazionale. Anzi, fu un tipo particolare,
+che si può chiamare un soldato internazionale. Il soldato
+internazionale è sempre assai malvisto dagli internazionalisti.
+Essi detestano Carlo Magno e Carlo V e Napoleone; e chiunque
+abbia tentato di creare lo Stato Mondiale che invocano a gran voce
+[[Night|notte]] e giorno. Ma Federico è più dubbio e meno posto in dubbio;
+si supponeva che fosse il capo del Sacro Romano Impero;
+e lo si accusava di voler essere il capo di un ben poco sacro Impero Romano.
+Ma anche se fosse stato l'Anticristo, resterebbe pur sempre un testimone
+dell'[[unity|unità]] della Cristianità.
+
+Nondimeno, c'è una qualità singolare in quel [[Time|tempo]]; che, mentre era
+internazionale, era anche interno e intimo. La guerra, nel largo
+senso moderno, è possibile non perché più uomini siano in disaccordo,
+ma perché più uomini sono d'accordo. Sotto le coercizioni peculiarmente moderne,
+come l'[[Education|Istruzione]] Obbligatoria e la Coscrizione, vi sono aree
+pacifiche così vaste, che tutte possono mettersi d'accordo sulla Guerra.
+In quell'età gli uomini erano in disaccordo persino sulla guerra; e la pace poteva scoppiare
+in qualsiasi luogo. La pace era interrotta da faide e le faide da perdoni.
+L'individualità si snodava dentro e fuori un labirinto; estremi spirituali
+erano murati l'uno con l'altro in una piccola città cinta di mura;
+e vediamo la grande [[Soul|anima]] di [[Dante]] divisa, una fiamma fessa;
+che ama e odia la propria [[City|città]]. Questa complessità individuale
+è intensamente vivida nella particolare storia che abbiamo qui da raccontare,
+in un contorno assai grezzo. Se qualcuno desidera sapere cosa si intende
+dicendo che l'azione era più individuale, e anzi incalcolabile,
+può [[Well|bene]] notare alcune delle tappe nella storia della grande
+[[house|casa]] feudale di Aquino, che aveva il suo [[Castle|castello]] non lontano da Napoli.
+Nel semplice aneddoto frettoloso che ora dobbiamo raccontare, noteremo
+in successione cinque o sei tappe di questo genere. Landolfo d'Aquino,
+un pesante combattente feudale tipico dei tempi, cavalcò in armatura dietro
+le insegne imperiali, e attaccò un monastero, perché l'Imperatore
+considerava il monastero come una fortezza tenuta per il suo nemico il Papa.
+Più tardi, vedremo lo stesso Signore feudale mandare il proprio figlio allo
+stesso monastero; probabilmente su amichevole consiglio dello stesso Papa.
+Più tardi ancora, un altro dei suoi figli, del tutto per conto suo, si ribellò
+contro l'Imperatore, e passò agli eserciti del Papa.
+Per questo egli fu giustiziato dall'Imperatore, con prontezza e speditezza.
+Vorrei che sapessimo di più di quel fratello di Tommaso [[aquinas|d'Aquino]]
+che rischiò e perdette la vita per sostenere la causa del Papa
+che era, in tutto ciò che è umanamente essenziale, la causa del Popolo.
+Può non essere stato un santo; ma deve aver avuto qualche qualità
+di un martire. Frattanto, altri due fratelli, ancora ardenti e attivi
+apparentemente al servizio dell'Imperatore che uccise il terzo fratello,
+procedettero essi stessi a rapire un altro fratello, perché non
+approvavano la sua simpatia per i nuovi movimenti sociali nella religione.
+È questo il genere di groviglio in cui questa sola illustre famiglia
+medievale si trovò. Non era una guerra di nazioni, ma era una piuttosto
+diffusa lite di famiglia.
+
 
 
 <span class="atom-split" data-atom="chapter_02--part_03" data-title="St. Thomas Aquinas — Chapter 2 (part 3)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="motif/childhood,motif/death,motif/desire,motif/home,motif/nature,motif/time,motif/well,concept/ambition,concept/courage,concept/nature,setting/castle,character/aquinas"></span>
@@ -6304,6 +7318,123 @@ nor was he to be turned from his tall and towering [[Ambition|ambition]] to take
 the lowest place.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+La ragione per indugiare qui, tuttavia, sulla posizione dell'
+Imperatore Federico, come tipo del suo [[Time|tempo]], nella sua cultura e nella sua violenza,
+nella sua sollecitudine per la [[philosophy|filosofia]] e nel suo litigio con la religione,
+non riguarda soltanto queste cose. Egli può essere qui la prima
+figura che attraversa il palcoscenico, perché una delle sue azioni assai
+tipiche precipitò la prima azione, o ostinata inazione,
+che diede inizio alle avventure personali di Tommaso [[aquinas|d'Aquino]] in questo mondo.
+La storia illustra anche lo straordinario groviglio in cui
+una famiglia come quella del Conte d'Aquino si trovò;
+essendo al tempo stesso così vicina alla Chiesa e così in urto con essa.
+Poiché Federico II, nel corso di queste notevoli manovre,
+militari e politiche, che spaziavano dal bruciare eretici all'
+allearsi con i Saraceni, calò come un'aquila predatrice
+(e l'aquila imperiale era piuttosto predatrice) su un assai grande
+e ricco monastero; l'Abbazia benedettina di Montecassino;
+e prese d'assalto e saccheggiò il luogo.
+
+A qualche miglio dal monastero di Montecassino sorgeva una grande rupe
+o rocca, che si ergeva come un pilastro degli Appennini. Era coronata
+da un [[Castle|castello]] che portava il nome di Roccasecca, ed era il nido d'aquila
+in cui gli aquilotti del ramo aquinate della famiglia imperiale
+venivano allevati per volare. Qui viveva il Conte Landolfo d'Aquino, che era
+il padre di Tommaso [[aquinas|d'Aquino]] e di altri sette figli circa. Nelle faccende
+militari egli cavalcava senza dubbio con la sua famiglia, alla maniera feudale;
+e a quanto pare ebbe qualcosa a che fare con la distruzione del monastero.
+Ma era tipico del groviglio di quel [[Time|tempo]] che il Conte Landolfo
+sembri in seguito aver pensato che sarebbe stato un atto pieno di tatto e
+di delicatezza collocare suo figlio Tommaso come Abate del monastero.
+Ciò sarebbe stato della [[Nature|natura]] di una graziosa scusa alla Chiesa,
+e anche, a quanto pare, la soluzione di una difficoltà familiare.
+
+Poiché era da lungo tempo evidente al Conte Landolfo che nulla
+si poteva fare con il suo settimo figlio Tommaso, se non farne
+un Abate o qualcosa del genere. Nato nel 1226, egli aveva fin dalla
+[[Childhood|fanciullezza]] una misteriosa avversione a diventare un'aquila predatrice,
+o anche solo a nutrire un ordinario interesse per la falconeria o la giostra
+o qualsiasi altra occupazione da gentiluomo. Era un ragazzo grande e pesante
+e quieto, e fenomenalmente silenzioso, che a stento apriva bocca
+se non per dire d'improvviso al suo maestro in modo esplosivo,
+"Che cos'è Dio?" La risposta non è registrata, ma è probabile che
+chi domandava proseguisse a stillare risposte da sé. L'unico posto
+per una persona di questo genere era la Chiesa e presumibilmente il chiostro;
+e per quel che riguardava questo, non c'era alcuna particolare difficoltà.
+Era abbastanza facile per un uomo nella posizione del Conte Landolfo accordarsi
+con qualche monastero perché suo figlio vi fosse accolto; e in questo
+caso particolare egli pensò che sarebbe stata una buona idea se fosse stato accolto
+in qualche veste ufficiale, che fosse degna del suo rango mondano.
+Così ogni cosa fu senza intoppi predisposta perché Tommaso [[aquinas|d'Aquino]] diventasse monaco,
+il che sembrerebbe essere ciò che egli stesso voleva; e presto o tardi
+diventasse Abate di Montecassino. E allora accadde la cosa curiosa.
+
+Per quanto possiamo seguire eventi piuttosto oscuri e controversi,
+sembrerebbe che il giovane Tommaso [[aquinas|d'Aquino]] entrasse nel [[Castle|castello]]
+di suo padre un giorno e annunciasse con calma di essere diventato uno dei
+Frati Mendicanti, del nuovo ordine fondato da Domenico lo Spagnolo;
+proprio come il primogenito dello squire potrebbe tornare a [[Home|casa]] e informare con leggerezza
+la famiglia di aver sposato una zingara; o l'erede di un Duca Tory
+dichiarare che l'indomani avrebbe marciato con i Marciatori della Fame organizzati
+da presunti comunisti. Da questo, come già si è notato, possiamo
+misurare abbastanza [[Well|bene]] l'abisso tra il vecchio monachesimo e il nuovo,
+e il terremoto della rivoluzione domenicana e francescana.
+Tommaso era parso desiderare di essere un Monaco; e le porte gli erano silenziosamente
+aperte e i lunghi viali dell'abbazia, il tappeto stesso,
+per così dire, steso per lui fino al trono dell'abate mitrato.
+Egli disse che desiderava essere un Frate, e la sua famiglia gli si avventò contro
+come bestie feroci; i suoi fratelli lo inseguirono lungo le pubbliche strade,
+gli strapparono a metà il saio da frate dalla schiena e infine lo rinchiusero
+in una torre come un pazzo.
+
+Non è molto facile ripercorrere il corso di questa furiosa lite di famiglia,
+e come alla fine essa si consumò contro la tenacia
+del giovane Frate; secondo alcune storie, la disapprovazione di sua madre
+fu di breve durata ed ella passò dalla sua parte;
+ma non erano soltanto i suoi parenti a esservi implicati.
+Potremmo dire che la classe dirigente centrale d'Europa, che in parte
+consisteva della sua famiglia, era in tumulto per il deplorevole giovane;
+persino al Papa fu chiesto un intervento pieno di tatto, e fu
+a un certo [[Time|punto]] proposto che a Tommaso si permettesse di indossare
+l'abito domenicano mentre svolgeva la funzione di Abate nell'Abbazia benedettina.
+A molti ciò parrebbe un compromesso pieno di tatto; ma non si raccomandò
+alla stretta mente medievale di Tommaso [[aquinas|d'Aquino]]. Egli fece capire
+seccamente che desiderava essere un Domenicano nell'Ordine domenicano,
+e non a un ballo in maschera; e la proposta diplomatica pare
+essere stata lasciata cadere.
+
+Tommaso d'Aquino voleva essere un Frate. Era un fatto
+sbalorditivo per i suoi contemporanei; ed è un fatto piuttosto intrigante
+anche per noi; poiché questo [[Desire|desiderio]], limitato letteralmente e strettamente
+a questa affermazione, era l'unica cosa pratica a cui la sua
+volontà era serrata con adamantina ostinazione fino alla sua [[Death|morte]].
+Non voleva essere un Abate; non voleva essere un Monaco; non voleva
+neppure essere un Priore o un capo nella propria fraternità; non voleva essere
+un Frate eminente o importante; voleva essere un Frate. È come se
+Napoleone avesse insistito per restare un soldato semplice tutta la vita.
+Qualcosa in questo pesante, quieto, colto, piuttosto accademico gentiluomo
+non sarebbe stato soddisfatto finché non fosse, per fissa autorevole proclamazione
+e ufficiale pronunciamento, stabilito e nominato a essere un Mendicante.
+È tanto più interessante perché, mentre egli fece più
+del suo dovere mille volte, non era affatto simile a un Mendicante;
+né affatto propenso a essere un buon Mendicante. Non aveva nulla del vagabondo
+di natura, come avevano i suoi grandi precursori; non era nato
+con qualcosa del menestrello errante, come san Francesco;
+o con qualcosa del missionario girovago, come san Domenico.
+Ma insistette per porsi sotto ordini militari, per fare
+queste cose per volere di un altro, se richiesto. Egli può essere paragonato
+ad alcuni dei più magnanimi aristocratici che si sono arruolati
+in eserciti rivoluzionari; o ad alcuni dei migliori poeti
+e studiosi che si offrirono volontari come soldati semplici nella Grande Guerra.
+Qualcosa nel [[Courage|coraggio]] e nella coerenza di Domenico e Francesco
+aveva interpellato il suo profondo senso di giustizia; e pur rimanendo
+una persona assai ragionevole, e persino diplomatica, egli non lasciò mai
+che nulla scuotesse la ferrea immobilità di questa sola decisione della sua giovinezza;
+né si sarebbe lasciato distogliere dalla sua alta e torreggiante [[Ambition|ambizione]] di prendere
+l'ultimo posto.
+
 
 
 <span class="atom-split" data-atom="chapter_02--part_04" data-title="St. Thomas Aquinas — Chapter 2 (part 4)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="topos/double,topos/golden_age,motif/blood,motif/cross,motif/fire,motif/hill,motif/journey,motif/road,motif/rose,motif/storm,motif/time,motif/well,concept/ambition,concept/democracy,concept/faith,concept/history,concept/humility,concept/imagination,concept/imprisonment,concept/mercy,concept/poverty,concept/pride,concept/temptation,form/history,form/riddle,setting/castle,setting/italy,setting/paris,character/aquinas,character/cain"></span>
@@ -6415,6 +7546,113 @@ that secret throne of contemplation, from which he never [[Rose|rose]] again.
 --/--
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Il primo effetto della sua decisione, come abbiamo visto, fu assai più
+stimolante e persino sorprendente. Il Generale dei Domenicani, sotto il quale
+Tommaso si era arruolato, era probabilmente [[Well|bene]] consapevole dei tentativi
+diplomatici di sloggiarlo e delle mondane difficoltà di resistervi.
+Il suo espediente fu di portare il giovane seguace del tutto fuori dall'[[Italy|Italia]];
+ordinandogli di procedere con pochi altri frati verso [[Paris|Parigi]].
+C'era qualcosa di profetico persino in questo primo cammino
+del maestro itinerante delle nazioni; poiché [[Paris|Parigi]] era davvero
+destinata a essere in un certo senso la meta del suo [[Journey|viaggio]] spirituale;
+giacché fu là che egli dovette pronunciare tanto la sua grande difesa
+dei Frati quanto la sua grande sfida agli avversari di Aristotele.
+Ma questo suo primo [[Journey|viaggio]] a [[Paris|Parigi]] era destinato a essere interrotto
+assai bruscamente. I frati avevano raggiunto una svolta della [[Road|strada]] presso una
+fontana lungo il cammino, un po' a nord di Roma, quando furono raggiunti
+da una selvaggia cavalcata di rapitori, che si avventarono su Tommaso come briganti,
+ma che in realtà erano soltanto fratelli piuttosto inutilmente agitati.
+Egli aveva un gran numero di fratelli: forse solo due erano qui coinvolti.
+Anzi era il settimo; e gli amici del Controllo delle Nascite possono lamentare
+che questo filosofo fu inutilmente aggiunto alla nobile schiera
+di manigoldi che lo rapirono. Fu una faccenda del tutto bizzarra.
+C'è qualcosa di pittoresco e curioso nell'idea di rapire
+un frate mendicante, che in un certo senso poteva dirsi un abate fuggiasco.
+C'è un groviglio comico e tragico nei moventi e nei propositi di un simile
+trio di strani congiunti. C'è una sorta di cristiana [[Cross|contraddizione]]
+nel contrasto tra la febbrile illusione dell'importanza
+delle cose, che sempre contrassegna gli uomini detti pratici; e la assai
+più pratica pertinacia dell'uomo che è detto teorico.
+
+Così almeno quei tre strani fratelli barcollarono o si trascinarono
+lungo la loro tragica [[Road|strada]], legati insieme, per così dire, come criminale
+e poliziotto; salvo che erano i criminali a compiere l'arresto.
+Così le loro figure si vedono per un istante contro l'orizzonte della [[history|storia]];
+fratelli sinistri quanto nessuno da [[Cain|Caino]] e Abele in poi. Poiché questo bizzarro oltraggio
+nella grande famiglia d'Aquino spicca davvero simbolicamente,
+come rappresentante di qualcosa che renderà per sempre il Medioevo un mistero
+e uno sconcerto; capace di interpretazioni nettamente contrastanti
+come tenebra e luce. Poiché in due di quegli uomini infuriava,
+potremmo dire strepitava, un selvaggio [[Pride|orgoglio]] di [[Blood|sangue]] e di blasone d'armi,
+benché fossero principi del mondo più raffinato del loro [[Time|tempo]],
+che parrebbe più adatto a una tribù danzante attorno a un totem.
+Per il momento avevano dimenticato ogni cosa tranne il nome di una famiglia,
+che è più angusto di una tribù, e assai più angusto di una nazione.
+E la terza figura di quel trio, nata dalla stessa madre
+e forse visibilmente una con gli altri nel volto o nella forma,
+aveva una concezione della fratellanza più ampia della più moderna [[democracy|democrazia]],
+poiché non era nazionale ma internazionale; una [[Faith|fede]] nella [[Mercy|misericordia]] e nella modestia
+assai più profonda di ogni mera mitezza di modi nel mondo moderno;
+e un drastico voto di [[Poverty|povertà]], che ora sarebbe considerato addirittura
+una folle esagerazione della rivolta contro la plutocrazia e l'[[Pride|orgoglio]].
+Dallo stesso [[Castle|castello]] italiano uscirono due selvaggi e un savio;
+o un santo più pacifico della maggior parte dei savi moderni.
+È questo l'aspetto [[Double|duplice]] che confonde cento controversie.
+È questo che costituisce l'[[Riddle|enigma]] dell'età medievale; che essa non era
+un'età sola ma due età. Guardiamo negli umori di certi uomini,
+e potrebbe essere l'Età della Pietra; guardiamo nelle menti di altri uomini,
+e potrebbero vivere nell'[[Golden Age|Età dell'Oro]]; nella più moderna specie
+di Utopia. Vi furono sempre uomini buoni e uomini cattivi; ma in questo
+[[Time|tempo]] uomini buoni che erano sottili vivevano con uomini cattivi che erano semplici.
+Vivevano nella stessa famiglia; erano allevati nella stessa nursery;
+e uscivano a lottare, come lottarono i fratelli d'Aquino
+lungo il cammino, quando trascinarono il nuovo frate lungo la [[Road|strada]]
+e lo rinchiusero nel [[Castle|castello]] sull'[[Hill|altura]].
+
+Quando i suoi parenti tentarono di spogliarlo del suo saio da frate egli sembra
+averli menati tutt'intorno alla maniera battagliera dei suoi padri,
+e a quanto pare con successo, giacché questo tentativo fu abbandonato.
+Accettò l'[[Imprisonment|imprigionamento]] stesso con la sua consueta compostezza,
+e probabilmente non gli importava granché se fosse lasciato a filosofare
+in un sotterraneo o in una cella. Anzi c'è qualcosa nel modo in cui l'intera
+vicenda è raccontata, che suggerisce che per gran parte di quello strano
+rapimento egli fosse stato trasportato in giro come una goffa statua di pietra.
+Un solo racconto sulla sua prigionia lo mostra semplicemente in collera;
+e mostra lui più adirato di quanto fosse mai stato prima o dopo.
+Colpì l'[[Imagination|immaginazione]] del suo [[Time|tempo]] per ragioni più importanti;
+ma ha un interesse che è psicologico [[Well|oltre]] che morale.
+Per una volta nella sua vita, per la prima [[Time|volta]] e l'ultima, Tommaso d'
+Aquino fu davvero hors de lui; cavalcando una [[Storm|tempesta]] fuori da quella torre
+d'intelletto e di contemplazione in cui comunemente viveva.
+E ciò avvenne quando i suoi fratelli introdussero nella sua stanza una cortigiana
+particolarmente splendida e imbellettata, con l'idea di sorprenderlo
+con una improvvisa [[Temptation|tentazione]], o almeno di coinvolgerlo in uno scandalo.
+La sua collera era giustificata, anche secondo criteri morali meno rigidi dei suoi;
+poiché la meschinità era persino peggiore della turpitudine dell'espediente.
+Anche sul piano più basso, egli sapeva, i suoi fratelli sapevano, ed essi
+sapevano che egli sapeva, che era un insulto a lui come gentiluomo
+supporre che egli avrebbe infranto il suo voto per una così vile provocazione;
+ed egli aveva dietro di sé una sensibilità assai più terribile; tutta quella immensa
+[[Ambition|ambizione]] di [[Humility|umiltà]] che era per lui la voce di Dio dal cielo.
+In questo [[Alone|solo]] lampo vediamo quella enorme goffa figura in un atteggiamento
+di attività, o persino di animazione; ed egli era davvero assai animato.
+Balzò dal suo seggio e afferrò un tizzone dal [[Fire|fuoco]],
+e stette brandendolo come una fiammeggiante [[Sword|spada]]. La donna, non
+innaturalmente, strillò e fuggì, che era tutto ciò che egli voleva;
+ma è curioso pensare a cosa deve aver pensato di quel pazzo
+di mostruosa statura che giocolava con le fiamme e apparentemente minacciava
+di dar fuoco alla [[house|casa]]. Tutto quello che egli fece, tuttavia, fu incalzarla
+fino alla porta e sbatterla e sbarrarla dietro di lei; e poi, con una sorta
+di impulso di violento rito, cacciò il tizzone ardente nella porta,
+annerendola e ustionandola con un grande nero segno della [[Cross|croce]].
+Poi ritornò, e lo lasciò cadere di nuovo nel [[Fire|fuoco]]; e si sedette
+su quel seggio di sedentaria erudizione, quella cattedra di [[philosophy|filosofia]],
+quel segreto trono di contemplazione, dal quale non si [[Rose|levò]] mai più.
+
+--/--
+
 
 
 <span class="atom-split" data-atom="chapter_03--part_01" data-title="St. Thomas Aquinas — Chapter 3 (part 1)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="archetype/monster,motif/city,motif/desert,motif/fire,motif/time,motif/well,concept/truth,form/fable,histref/christianity,setting/desert,setting/paris,character/aquinas"></span>
@@ -6523,6 +7761,111 @@ which happened to be right.  The benevolent student was left staring,
 as at a [[Monster|monster]], at this mysterious lump of ignorance and intelligence;
 and strange whispers began to run round the schools.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+III
+
+LA RIVOLUZIONE ARISTOTELICA
+
+Alberto, lo Svevo, giustamente chiamato il Grande, fu il fondatore
+della scienza moderna. Egli fece più di ogni altro uomo per preparare
+quel processo, che ha trasformato l'alchimista nel chimico,
+e l'astrologo nell'astronomo. È singolare che,
+essendo stato al suo [[Time|tempo]], in questo senso quasi il primo astronomo,
+egli ora indugi nella leggenda quasi come l'ultimo astrologo.
+Gli storici seri stanno abbandonando l'assurda idea che
+la Chiesa medievale perseguitasse tutti gli scienziati come stregoni.
+È molto vicino all'opposto della [[Truth|verità]]. Il mondo talvolta
+li perseguitava come stregoni, e talvolta correva dietro a loro come stregoni;
+quella sorta di inseguimento che è il rovescio della persecuzione.
+La Chiesa [[Alone|sola]] li considerava realmente e unicamente come scienziati.
+Più d'un chierico indagatore fu accusato di mera [[Magic|magia]] nel fabbricare le sue lenti
+e i suoi specchi; era accusato dai suoi rozzi e rustici vicini; e sarebbe
+probabilmente stato accusato esattamente allo stesso modo se fossero stati vicini pagani
+o vicini puritani o vicini Avventisti del Settimo Giorno.
+Ma anche allora aveva miglior sorte quando giudicato dal
+Papato, che se fosse stato semplicemente linciato dal laicato.
+Il Pontefice cattolico non denunciò Alberto Magno come mago.
+Furono le tribù mezzo pagane del nord ad ammirarlo
+come mago. Sono le tribù mezzo pagane delle città
+industriali di oggi, i lettori di libri dei sogni a buon mercato, e di opuscoli ciarlataneschi,
+e di profeti da giornale, che ancora lo ammirano come astrologo.
+Si ammette che l'estensione della sua conoscenza documentata,
+di fatti strettamente materiali e meccanici, fosse stupefacente
+in un uomo del suo [[Time|tempo]]. È vero che, nella maggior parte degli altri casi,
+vi era una certa limitazione ai dati della scienza medievale;
+ma questo certamente non aveva nulla a che fare con la religione medievale.
+Poiché i dati di Aristotele, e della grande civiltà greca,
+erano per molti versi ancora più limitati. Ma non è in realtà tanto
+una questione di accesso ai fatti, quanto di atteggiamento verso i fatti.
+La maggior parte degli Scolastici, se informati dagli unici informatori che
+avevano che un unicorno ha un solo corno o che una salamandra vive nel [[Fire|fuoco]],
+lo usavano ancora più come illustrazione di [[logic|logica]] che come episodio di vita.
+Ciò che realmente dicevano era: "Se un Unicorno ha un solo corno, due unicorni hanno
+tanti corni quanti una vacca". E ciò non è di un pollice meno un fatto
+perché l'unicorno è una [[Fable|favola]]. Ma con Alberto nei tempi medievali,
+come con Aristotele nei tempi antichi, cominciò davvero qualcosa
+come l'idea di porre l'accento sulla domanda: "Ma l'unicorno
+ha davvero un solo corno o la salamandra un [[Fire|fuoco]] invece di un focolare?"
+Senza dubbio quando i limiti sociali e geografici della vita medievale
+cominciarono a consentir loro di cercare la salamandra nel [[Fire|fuoco]] o nel [[Desert|deserto]]
+gli unicorni, dovettero modificare molte delle loro idee scientifiche.
+Un fatto che li esporrà al ben legittimo disprezzo di una generazione
+di scienziati che ha appena scoperto che Newton è un'assurdità,
+che lo spazio è limitato, e che non esiste cosa alcuna come l'atomo.
+
+Questo grande tedesco, noto nel suo periodo più celebre come professore
+a [[Paris|Parigi]], fu in precedenza per qualche [[Time|tempo]] professore a Colonia.
+In quella bella [[City|città]] romana, si radunarono attorno a lui a migliaia gli
+[[lovers|amanti]] di quella straordinaria vita; la vita studentesca del Medioevo.
+Si riunivano in grandi gruppi chiamati Nazioni; e il fatto
+illustra assai [[Well|bene]] la differenza tra il nazionalismo medievale
+e il nazionalismo moderno. Poiché sebbene ogni mattina potesse esservi
+una rissa tra gli studenti spagnoli e gli studenti scozzesi,
+o tra i fiamminghi e i francesi, e balenassero spade o volassero pietre
+sui più puramente patriottici principii, resta il fatto che essi
+erano tutti venuti alla stessa scuola per apprendere la stessa [[philosophy|filosofia]].
+E benché ciò potesse non impedire l'inizio di un litigio,
+poteva avere molto a che fare con la fine di esso.
+Dinanzi a questi variopinti gruppi di uomini venuti dai confini della terra,
+il padre della scienza srotolava il suo rotolo di strana sapienza;
+di sole e di cometa, di pesce e di uccello. Egli era un aristotelico
+che sviluppava, per così dire, l'unico accenno sperimentale di Aristotele;
+e in questo era interamente originale. Gli premeva meno essere originale
+sulle materie più profonde degli uomini e della morale; riguardo alle quali era
+contento di trasmettere un decoroso e cristianizzato aristotelismo;
+era persino in un certo senso pronto a scendere a compromessi sulla
+questione meramente metafisica dei Nominalisti e dei Realisti.
+Non avrebbe mai da [[Alone|solo]] sostenuto la grande guerra che stava venendo,
+per un Cristianesimo bilanciato e umanizzato; ma quando venne,
+egli fu interamente dalla sua parte. Fu chiamato il Dottore Universale,
+per l'estensione dei suoi studi scientifici; eppure era in
+[[Truth|verità]] uno specialista. La leggenda popolare non è mai del tutto errata;
+se un uomo di scienza è un mago, egli era un mago. E l'uomo
+di scienza è sempre stato assai più mago del prete;
+giacché egli "controllerebbe gli elementi" piuttosto che sottomettersi allo Spirito
+che è più elementare degli elementi.
+
+Tra gli studenti che si affollavano nelle aule c'era
+uno studente, cospicuo per la sua figura alta e massiccia, e che del tutto
+mancava o rifiutava di essere cospicuo per qualsiasi altra cosa.
+Era così muto nei dibattiti che i suoi compagni cominciarono ad attribuire
+un significato americano alla parola mutismo; poiché in quella terra
+è sinonimo di ottusità. È chiaro che, ben presto, persino la sua
+imponente statura cominciò ad avere solo l'ignominiosa immensità del grosso
+ragazzo lasciato indietro nella classe più bassa. Fu chiamato il Bue Muto.
+Era l'oggetto, non soltanto di scherno, ma di pietà.
+Uno studente di buon cuore lo compassionò a tal punto da tentare di aiutarlo
+nelle sue lezioni, ripassando gli elementi della [[logic|logica]] come un alfabeto
+in un abbecedario. Lo zuccone lo ringraziò con patetica cortesia;
+e il filantropo proseguì a gonfie vele, finché giunse a un passo
+sul quale egli stesso era un po' dubbioso; sul quale, di fatto,
+si sbagliava. Al che lo zuccone, con ogni apparenza
+di imbarazzo e turbamento, indicò una possibile soluzione
+che si dava il caso fosse giusta. Lo studente benevolo restò a fissare,
+come dinanzi a un [[Monster|mostro]], quel misterioso grumo di ignoranza e intelligenza;
+e strani sussurri cominciarono a correre per le scuole.
 
 
 
@@ -6649,6 +7992,127 @@ is at [[Home|home]] in the topmost heavens; and that the appetite for [[Truth|tr
 may outlast and even devour all the duller appetites of man.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Un regolare biografo religioso di Tommaso [[aquinas|d'Aquino]] (che, inutile dirlo,
+era lo zuccone in questione) ha detto che alla fine di questo colloquio
+"il suo [[Love|amore]] della [[Truth|verità]] vinse la sua [[Humility|umiltà]]"; il che, rettamente inteso,
+è precisamente vero. Ma non descrive, nel senso secondario psicologico
+e sociale, tutto il tumulto di elementi che si agitava
+dentro quel massiccio capo. Tutti i relativamente pochi aneddoti su
+[[aquinas|d'Aquino]] hanno una vividezza assai peculiare se ci raffiguriamo il tipo d'uomo;
+e questo è un eccellente esempio. Tra quegli elementi c'era qualcosa
+della difficoltà che l'intelletto generalizzante ha nell'adattarsi
+all'improvviso a un minuto dettaglio della vita quotidiana; c'era qualcosa
+della timidezza delle persone davvero [[Well|ben]] educate riguardo al mettersi in mostra;
+c'era persino, forse, qualcosa di quella singolare paralisi,
+e [[Temptation|tentazione]] a preferire persino i malintesi alle lunghe spiegazioni,
+che indusse Sir James Barrie, nel suo divertente [[Sketch|schizzo]], a lasciarsi
+addossare un Fratello Henry che non aveva mai avuto,
+piuttosto che sforzarsi di inserire una parola d'avvertimento.
+Questi altri elementi lavorarono senza dubbio con la assai straordinaria
+[[Humility|umiltà]] di questo assai straordinario uomo; ma un altro elemento
+lavorò con il suo altrettanto incontestabile "[[Love|amore]] della [[Truth|verità]]"
+nel porre fine al malinteso. È un elemento
+che non va mai lasciato fuori dalla composizione di san Tommaso.
+Per quanto sognante o distratto o immerso in teorie egli potesse essere,
+aveva una quantità sconfinata di Senso Comune; e quando si giunse,
+non solo all'esser istruito, ma all'esser istruito in modo errato, c'era
+qualcosa in lui che diceva seccamente: "Oh, questo deve finire!"
+
+Sembra probabile che fosse Alberto Magno stesso, il conferenziere
+e dotto maestro di tutti questi giovani, il primo a sospettare qualcosa del
+genere. Egli dava a Tommaso piccoli compiti da svolgere, di annotazione o esposizione;
+lo persuase a bandire la sua timidezza così da prendere parte ad almeno
+un [[debate|dibattito]]. Era un vecchio assai accorto e aveva studiato
+le abitudini di altri [[Animals|animali]] oltre alla salamandra e all'unicorno.
+Aveva studiato molti esemplari della più mostruosa di tutte le mostruosità;
+quella che si chiama Uomo. Conosceva i segni e i tratti di quella sorta d'uomo,
+che è in modo [[Innocent|innocente]] qualcosa come un [[Monster|mostro]] tra gli uomini. Era troppo
+buon maestro per non sapere che lo zuccone non è sempre uno zuccone.
+Apprese con divertimento che questo zuccone era stato soprannominato il Bue Muto
+dai suoi compagni di scuola. Tutto ciò è abbastanza naturale; ma non
+toglie il sapore di qualcosa di piuttosto strano e simbolico,
+riguardo allo straordinario accento con cui egli parlò infine.
+Poiché [[aquinas|d'Aquino]] era ancora generalmente noto solo come un oscuro e ostinatamente
+poco reattivo allievo, tra molti allievi più brillanti e promettenti,
+quando il grande Alberto ruppe il [[Silence|silenzio]] con il suo famoso grido e profezia;
+"Voi lo chiamate Bue Muto: io vi dico che questo Bue Muto mugghierà
+così forte che i suoi muggiti riempiranno il mondo".
+
+Verso Alberto Magno, come verso Aristotele o Agostino o un qualsiasi numero di altri
+e più antichi maestri, san Tommaso era sempre pronto, con quella cordiale sorta
+di [[Humility|umiltà]], a rendere grazie per tutto il suo pensiero. Nondimeno,
+il suo proprio pensiero era un avanzamento su Alberto e sugli altri aristotelici,
+proprio come era un avanzamento su Agostino e sugli agostiniani.
+Alberto aveva richiamato l'attenzione sullo studio diretto dei fatti naturali,
+sia pure attraverso favole come l'unicorno e la salamandra, ma il [[Monster|mostro]]
+chiamato Uomo attendeva una vivisezione assai più sottile e flessibile.
+I due uomini, tuttavia, divennero intimi amici e la loro [[Friendship|amicizia]]
+conta molto in questa centrale battaglia del Medioevo.
+Poiché, come vedremo, la riabilitazione di Aristotele fu una rivoluzione
+quasi tanto rivoluzionaria quanto l'esaltazione di Domenico e Francesco;
+e san Tommaso era destinato a giocare una parte notevole in entrambe.
+
+Ci si renderà conto che la famiglia d'Aquino aveva alla fine abbandonato
+il suo vendicativo inseguimento del suo brutto anatroccolo; che, come frate nero,
+dovrebbe forse esserne chiamato la pecora nera. Di quella fuga alcune
+storie pittoresche sono raccontate. La pecora nera generalmente approfitta
+alla fine dei litigi tra le pecore bianche di una famiglia. Cominciano
+col litigare con lui, ma finiscono col litigare l'uno con l'altro.
+C'è un resoconto piuttosto confuso riguardo a quali membri della sua famiglia
+passarono dalla sua parte, mentre egli era ancora imprigionato nella torre.
+Ma è un fatto che egli era assai affezionato alle sue sorelle, e quindi
+probabilmente non è una [[Fable|favola]] che furono esse a orchestrare la sua fuga.
+Secondo la storia, esse allestirono una fune fino alla cima della torre,
+attaccata a una grande cesta, e doveva essere stata una cesta piuttosto
+grande se egli fu davvero calato in tal modo dalla sua [[Prison|prigione]],
+e fuggì nel mondo. Comunque, egli fuggì per energia,
+esterna o interna. Ma era soltanto un'energia individuale.
+Il mondo stava ancora inseguendo e perseguitando i Frati,
+tanto quanto quando essi fuggirono lungo la [[Road|strada]] verso Roma.
+Tommaso [[aquinas|d'Aquino]] ebbe la buona sorte di raccogliersi sotto l'[[Shadow|ombra]]
+del solo grande eminente Frate, la cui rispettabilità era
+difficile contestare, il dotto e ortodosso Alberto;
+ma persino lui e i suoi furono presto turbati dalla crescente [[Storm|tempesta]]
+che minacciava i nuovi movimenti popolari nella Chiesa.
+Alberto fu convocato a [[Paris|Parigi]], per ricevere il grado di Dottore;
+ma tutti sapevano che ogni mossa in quel gioco aveva il carattere
+di una sfida. Egli fece soltanto la richiesta, che probabilmente parve
+una richiesta eccentrica, di poter portare con sé il suo Bue Muto.
+Si misero in cammino, come comuni Frati o vagabondi religiosi;
+dormivano in quei monasteri che potevano trovare; e infine
+nel monastero di San Giacomo a [[Paris|Parigi]], dove Tommaso incontrò un altro
+Frate che era anche un altro amico.
+
+Forse sotto l'[[Shadow|ombra]] della [[Storm|tempesta]] che minacciava
+tutti i Frati, Bonaventura, il francescano, crebbe in una così grande
+[[Friendship|amicizia]] con Tommaso il domenicano, che i loro contemporanei
+li paragonarono a Davide e Gionata. Il punto è di un certo interesse;
+perché sarebbe assai facile rappresentare il francescano
+e il domenicano come in piatta contraddizione l'uno con l'altro.
+Il francescano può essere rappresentato come il Padre di tutti i Mistici;
+e i Mistici possono essere rappresentati come uomini che sostengono che la finale
+fruizione o gioia dell'[[Soul|anima]] è piuttosto una sensazione che un pensiero.
+Il motto dei Mistici è sempre stato: "Gustate e vedete".
+Ora anche san Tommaso cominciò col dire: "Gustate e vedete"; ma lo diceva
+delle prime rudimentali impressioni dell'animale umano.
+Si potrebbe [[Well|ben]] sostenere che il francescano pone il Gusto
+per ultimo e il domenicano lo pone per primo. Si potrebbe dire che
+il tomista comincia con qualcosa di solido come il gusto di una mela,
+e in seguito deduce una vita divina per l'intelletto;
+mentre il Mistico esaurisce prima l'intelletto, e dice infine
+che il senso di Dio è qualcosa come il gusto di una mela.
+Un nemico comune potrebbe sostenere che san Tommaso comincia con il gusto
+del frutto e san Bonaventura finisce con il gusto del frutto.
+Ma hanno entrambi ragione; se posso dir così, è un privilegio delle persone
+che si contraddicono nel loro cosmo aver entrambe ragione.
+Il Mistico ha ragione nel dire che la relazione tra Dio e l'Uomo è
+essenzialmente una storia d'[[Love|amore]]; il modello e il tipo di tutte le storie d'[[Love|amore]].
+Il razionalista domenicano ha ugualmente ragione nel dire che l'intelletto
+è di [[Home|casa]] nei cieli più alti; e che l'appetito della [[Truth|verità]]
+può sopravvivere e persino divorare tutti i più ottusi appetiti dell'uomo.
+
 
 
 <span class="atom-split" data-atom="chapter_03--part_03" data-title="St. Thomas Aquinas — Chapter 3 (part 3)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="archetype/king,archetype/rebel,motif/love,motif/time,concept/freedom,concept/history,concept/survival,form/history,histref/crusades,histref/islam,character/aquinas,character/monks"></span>
@@ -6758,6 +8222,112 @@ By the end of the medieval [[Time|time]], Aristotelianism did eventually
 grow stale.  Only a very fresh and successful novelty ever gets
 quite so stale as that.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+In quel momento [[aquinas|d'Aquino]] e Bonaventura furono incoraggiati nella possibilità
+di aver entrambi ragione; dall'accordo quasi universale che essi
+avessero entrambi torto. Era in ogni caso un [[Time|tempo]] di selvaggio scompiglio,
+e, come è comune in tali tempi, coloro che cercavano di raddrizzare
+le cose erano più vigorosamente accusati di storcere le cose.
+Nessuno sapeva chi avrebbe vinto in quel guazzabuglio: l'[[Islam]], o i Manichei
+del Midi; o l'Imperatore dalla doppia faccia e beffardo; o le [[Crusades|Crociate]];
+o i vecchi Ordini della Cristianità. Ma alcuni uomini avevano un assai vivido
+sentimento che ogni cosa stesse andando in pezzi; e che tutti i recenti
+esperimenti o eccessi fossero parte della stessa dissoluzione sociale;
+e c'erano due cose che tali uomini consideravano segni di rovina;
+una era la spaventosa apparizione di Aristotele venuto dall'Oriente, una sorta
+di dio greco sorretto da adoratori arabi; e l'altra era
+la nuova [[Freedom|libertà]] dei Frati. Era l'apertura del monastero
+e lo sparpagliarsi dei [[Monks|monaci]] a vagare per il mondo.
+Il sentimento generale che essi vagassero come scintille da una fornace
+fino allora contenuta; la fornace dell'abnorme [[Love|amore]] di Dio:
+la sensazione che avrebbero del tutto squilibrato la gente comune con
+i consigli di perfezione; che sarebbero degenerati in demagoghi;
+tutto questo alla fine esplose in un famoso libro chiamato I Pericoli
+degli Ultimi Tempi, di un furioso reazionario, Guglielmo di Sant'Amore.
+Esso sfidava il [[King|Re]] di Francia e il Papa, così che essi istituirono
+un'inchiesta. E [[aquinas|d'Aquino]] e Bonaventura, i due incongrui amici,
+con i loro rispettivamente capovolti universi, salirono insieme a Roma,
+a difendere la [[Freedom|libertà]] dei Frati.
+
+Tommaso [[aquinas|d'Aquino]] difese il grande voto della sua giovinezza, per la [[Freedom|libertà]]
+e per i poveri; e fu probabilmente il momento più alto della sua
+carriera generalmente trionfante; poiché egli respinse l'intero movimento all'indietro
+del suo [[Time|tempo]]. Autorità responsabili hanno detto che,
+se non fosse stato per lui, l'intero grande movimento popolare dei Frati avrebbe potuto
+essere distrutto. Con questa vittoria popolare il timido e goffo
+studente diventa infine un personaggio storico e un uomo pubblico.
+Dopo di ciò, egli fu identificato con gli Ordini Mendicanti.
+Ma mentre si può dire che san Tommaso si fece un nome nella difesa
+degli Ordini Mendicanti contro i reazionari, che ne assumevano la stessa vista
+che ne aveva assunto la sua stessa famiglia, c'è generalmente una differenza
+tra un uomo che si fa un nome e un uomo che davvero compie la sua opera.
+L'opera di Tommaso [[aquinas|d'Aquino]] doveva ancora venire; ma osservatori meno accorti
+di lui potevano già vedere che stava venendo.
+In linea di massima, il pericolo era il pericolo degli ortodossi,
+o di coloro che troppo facilmente identificano il vecchio ordine con l'ortodosso,
+i quali forzavano una finale e conclusiva condanna di Aristotele.
+Vi erano già state condanne avventate e casuali in tal senso,
+emesse qua e là, e la pressione dei più angusti agostiniani
+sul Papa e sui principali giudici si faceva ogni giorno più incalzante.
+Il pericolo era sorto, non innaturalmente, a causa dell'accidente storico
+e geografico della prossimità musulmana alla cultura
+di Bisanzio. Gli Arabi si erano impadroniti dei manoscritti greci
+prima dei Latini che erano i veri eredi dei Greci.
+E i Musulmani, benché non molto ortodossi Musulmani, stavano trasformando Aristotele
+in una [[philosophy|filosofia]] panteista ancora meno accettabile agli ortodossi Cristiani.
+Questa seconda controversia, tuttavia, richiede più spiegazioni della
+prima. Come si è osservato in una pagina introduttiva, la maggior parte delle
+persone moderne sa che almeno san Francesco fu un liberatore di
+larghe simpatie; che, quale che sia la loro positiva vista del medievalismo,
+i Frati erano in senso relativo un movimento popolare, che additava una
+maggiore fraternità e [[Freedom|libertà]]; e una assai piccola ulteriore informazione
+le informerebbe che ciò era vero in tutto e per tutto tanto dei Frati domenicani
+quanto dei francescani. Nessuno oggi è particolarmente propenso
+a insorgere in difesa degli abati feudali o dei [[Monks|monaci]] fissi e stanziali,
+contro innovatori tanto impudenti quanto san Francesco e san Tommaso.
+Ci sia dunque permesso riassumere brevemente il grande [[debate|dibattito]]
+sui Frati, benché ai suoi tempi scuotesse tutta la Cristianità.
+Ma il più grande [[debate|dibattito]] su Aristotele presenta una maggiore difficoltà;
+perché vi sono moderni fraintendimenti su di esso che possono solo essere
+affrontati con un po' più di elaborazione.
+
+Forse non esiste davvero cosa alcuna come una Rivoluzione registrata
+nella [[history|storia]]. Ciò che accadde fu sempre una Controrivoluzione. Gli uomini
+si ribellavano sempre contro gli ultimi ribelli; o persino si pentivano
+dell'ultima ribellione. Ciò si poteva vedere nelle più casuali
+mode contemporanee, se la mente alla moda non fosse caduta nell'
+abitudine di vedere l'ultimissimo [[Rebel|ribelle]] come ribelle contro tutte
+le età in una volta. La Ragazza Moderna con il rossetto e il cocktail
+è tanto [[Rebel|ribelle]] contro la Donna dei Diritti della Donna degli anni '80,
+con i suoi rigidi colletti inamidati e il severo astinenzialismo,
+quanto quest'ultima era [[Rebel|ribelle]] contro la dama del Primo Vittorianesimo dalle
+languide arie di valzer e dall'album pieno di citazioni da Byron:
+o come l'ultima, ancora, era [[Rebel|ribelle]] contro una madre puritana per la quale
+il valzer era una selvaggia orgia e Byron il Bolscevico della sua età.
+Rintraccia persino la madre puritana a ritroso nella [[history|storia]] ed ella rappresenta
+una ribellione contro il rilassamento Cavaliere della Chiesa inglese,
+che fu dapprima [[Rebel|ribelle]] contro la civiltà cattolica,
+la quale era stata [[Rebel|ribelle]] contro la civiltà pagana.
+Nessuno tranne un pazzo potrebbe pretendere che queste cose fossero un progresso;
+poiché esse vanno ovviamente prima in un senso e poi nell'altro.
+Ma quale che sia quella giusta, una cosa è certamente sbagliata; ed è
+la moderna abitudine di guardarle solo dall'estremità moderna.
+Poiché ciò è solo vedere la fine del racconto; essi si ribellano contro
+essi non sanno cosa, perché è sorto essi non sanno quando;
+intenti solo alla sua fine, sono ignari del suo principio;
+e perciò del suo essere stesso. La differenza tra i casi
+minori e i maggiori, è che in questi ultimi c'è davvero un così immenso
+sconvolgimento umano che gli uomini partono da esso come uomini in un mondo nuovo;
+e proprio quella novità consente loro di andare avanti assai a lungo;
+e generalmente di andare avanti troppo a lungo. È perché queste cose cominciano
+con una vigorosa rivolta che l'impeto intellettuale dura abbastanza a lungo
+da farle sembrare una [[Survival|sopravvivenza]]. Un eccellente esempio di ciò
+è la vera storia del rinascere e della trascuratezza di Aristotele.
+Alla fine del [[Time|tempo]] medievale, l'aristotelismo alla fine
+divenne stantio. Solo una novità assai fresca e riuscita diventa mai
+tanto stantia quanto quello.
 
 
 
@@ -6883,6 +8453,126 @@ into hair-splitting, it was none the less delicate hair-splitting;
 and work requiring very scientific tools.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Quando i moderni, tirando la più nera cortina di oscurantismo che
+abbia mai oscurato la [[history|storia]], decisero che nulla contava granché prima del
+[[Renaissance|Rinascimento]] e della [[Reformation|Riforma]], cominciarono all'istante la loro carriera
+moderna cadendo in un grosso abbaglio. Era l'abbaglio sul platonismo.
+Trovarono, che gravitavano attorno alle corti degli spavaldi principi
+del sedicesimo secolo (che era il più indietro nella [[history|storia]] a cui
+era loro permesso di andare) certi artisti e studiosi anticlericali
+i quali dicevano di essere annoiati di Aristotele e si supponeva che si
+concedessero segretamente a Platone. I moderni, del tutto ignoranti dell'
+intera storia dei medievali, caddero all'istante nella trappola.
+Assunsero che Aristotele fosse una qualche arcigna antichità e tirannia
+proveniente dal nero fondo dei Secoli Bui e che Platone fosse un
+piacere pagano interamente nuovo mai ancora assaporato da uomini cristiani.
+Padre Knox ha mostrato in quale sorprendente stato di [[innocence|innocenza]]
+si trovi la mente del signor H. L. Mencken, per esempio, su questo punto.
+Di fatto, naturalmente, la storia è esattamente all'incontrario.
+Semmai, fu il platonismo a essere la vecchia ortodossia.
+Fu l'aristotelismo a essere la assai moderna rivoluzione.
+E il capo di quella moderna rivoluzione fu l'uomo che è il soggetto
+di questo libro.
+
+La [[Truth|verità]] è che la storica [[Catholic Church|Chiesa cattolica]] cominciò con l'essere platonica;
+con l'essere piuttosto troppo platonica. Il platonismo era in quell'aurea aria
+greca che fu respirata dai primi grandi teologi greci.
+I Padri cristiani erano assai più simili ai Neoplatonici di quanto lo fossero
+gli studiosi del [[Renaissance|Rinascimento]]; che erano soltanto Neo-Neoplatonici.
+Per Crisostomo o Basilio era altrettanto ordinario e normale pensare in
+termini di Logos, o della Sapienza che è la meta dei filosofi,
+di quanto lo sia per uomini di qualsiasi religione oggi parlare di
+problemi sociali o di progresso o della crisi economica per tutto il mondo.
+Sant'Agostino seguì una naturale evoluzione mentale quando fu platonico
+prima di essere manicheo, e manicheo prima di essere cristiano.
+E fu esattamente in quell'ultima associazione che il primo debole accenno,
+del pericolo di essere troppo platonici, si può scorgere.
+
+Dal [[Renaissance|Rinascimento]] al diciannovesimo secolo, i Moderni
+hanno nutrito un [[Love|amore]] quasi mostruoso per gli Antichi.
+Nel considerare la vita medievale, non poterono mai considerare i
+Cristiani come qualcosa di diverso dagli allievi dei Pagani; di Platone
+nelle idee, o di Aristotele nella ragione e nella scienza. Non era così.
+Su alcuni punti, persino dal più monotonamente moderno punto di vista,
+il cattolicesimo era secoli avanti al platonismo o all'aristotelismo.
+Possiamo vederlo ancora, per esempio, nella tediosa tenacia dell'Astrologia.
+Su quella materia i filosofi erano tutti a favore della superstizione;
+e i santi e tutte le persone tanto superstiziose erano
+contro la superstizione. Ma persino i grandi santi trovarono difficile
+districarsi da questa superstizione. Due punti erano
+sempre messi avanti da coloro che sospettavano dell'aristotelismo di [[aquinas|d'Aquino]];
+e ci suonano ora assai bizzarri e comici, presi insieme.
+Uno era la vista che le [[Stars|stelle]] siano esseri personali, che governano le nostre vite:
+l'altro la grande teoria generale che gli uomini hanno una sola mente tra loro;
+una vista ovviamente opposta all'[[Immortality|immortalità]]; cioè, all'individualità.
+Entrambe indugiano tra i Moderni: tanto forte è ancora la tirannia
+degli Antichi. L'astrologia si sparpaglia sui giornali della [[Sunday|domenica]], e l'
+altra dottrina ha la sua centesima forma in ciò che si chiama Comunismo:
+o l'[[Soul|Anima]] dell'Alveare.
+
+Poiché su un punto preliminare, questa posizione non deve essere fraintesa.
+Quando lodiamo il valore pratico della Rivoluzione Aristotelica, e l'
+originalità di [[aquinas|d'Aquino]] nel guidarla, non intendiamo che i filosofi Scolastici
+prima di lui non fossero stati filosofi, o non fossero stati
+altamente filosofici, o non fossero stati in contatto con l'antica [[philosophy|filosofia]].
+In quanto vi fu mai una brutta frattura nella [[history|storia]] filosofica,
+essa non fu prima di san Tommaso, o all'inizio della [[history|storia]] medievale;
+fu dopo san Tommaso e all'inizio della [[history|storia]] moderna.
+La grande tradizione intellettuale che ci giunge da Pitagora
+e Platone non fu mai interrotta o perduta per inezie come il sacco
+di Roma, il trionfo di Attila o tutte le invasioni barbariche dei
+Secoli Bui. Fu perduta soltanto dopo l'introduzione della stampa,
+la scoperta dell'[[america|America]], la fondazione della Royal Society e
+tutto l'illuminismo del [[Renaissance|Rinascimento]] e del mondo moderno.
+Fu là, se in qualche luogo, che si perdette o si spezzò con impazienza
+il lungo sottile delicato filo che era disceso dalla remota antichità;
+il filo di quell'insolito passatempo umano; l'abitudine di pensare.
+Ciò è provato dal fatto che i libri stampati di questo più tardo
+periodo dovettero in gran parte attendere il diciottesimo secolo, o la fine del
+diciassettesimo secolo, per trovare persino i nomi dei nuovi filosofi;
+che erano al meglio una nuova specie di filosofi. Ma il declino
+dell'Impero, i Secoli Bui e l'alto Medioevo, benché troppo
+tentati di trascurare ciò che si opponeva alla [[philosophy|filosofia]] platonica,
+non avevano mai trascurato la [[philosophy|filosofia]]. In quel senso san Tommaso,
+come la maggior parte degli altri uomini assai originali, ha un lungo e chiaro pedigree.
+Egli stesso si riferisce costantemente alle autorità da
+sant'Agostino a sant'Anselmo, e da sant'Anselmo a sant'Alberto,
+e persino quando dissente, egli anche defersce.
+
+Un anglicano assai dotto mi disse una volta, forse non senza
+un tocco di asprezza: "Non riesco a capire perché tutti parlino come se
+Tommaso [[aquinas|d'Aquino]] fosse l'inizio della [[philosophy|filosofia]] Scolastica.
+Potrei capire che dicessero che egli ne fu la fine".
+Che il commento fosse o no inteso come aspro, possiamo essere sicuri
+che la replica di san Tommaso sarebbe stata perfettamente urbana.
+E in effetti sarebbe facile rispondere con una certa placidità,
+che nel suo linguaggio tomista la fine di una cosa non significa
+la sua distruzione, ma il suo compimento. Nessun tomista si lamenterà,
+se il tomismo è la fine della nostra [[philosophy|filosofia]], nel senso in cui Dio
+è la fine della nostra esistenza. Poiché ciò non significa che noi cessiamo
+di esistere, ma che diveniamo perenni come la philosophia perennis.
+Mettendo questa pretesa da un lato, tuttavia, è importante ricordare
+che il mio distinto interlocutore aveva perfettamente ragione, in ciò che vi
+erano state intere dinastie di filosofi dottrinali prima di [[aquinas|d'Aquino]],
+che conducevano fino al giorno della grande rivolta degli aristotelici.
+Né quella rivolta fu una cosa interamente brusca e imprevista.
+Un abile scrittore nella Dublin Review non molto tempo fa fece notare
+che sotto certi aspetti l'intera [[Nature|natura]] della metafisica era avanzata
+di un lungo tratto dai tempi di Aristotele, quando essa giunse a [[aquinas|d'Aquino]].
+E che non è alcuna mancanza di rispetto verso il primitivo e gigantesco genio
+dello Stagirita dire che sotto certi aspetti egli fu davvero soltanto un rude
+e rozzo fondatore della [[philosophy|filosofia]], se paragonato ad alcune delle susseguenti
+sottigliezze del medievalismo; che il Greco diede pochi grandi accenni
+che gli Scolastici svilupparono nelle più delicate fini sfumature.
+Questa può essere un'esagerazione, ma c'è una [[Truth|verità]] in essa.
+Comunque, è certo che persino nella [[philosophy|filosofia]] aristotelica,
+per non dire nella [[philosophy|filosofia]] platonica, vi era già una tradizione di
+altamente intelligente interpretazione. Se quella delicatezza in seguito degenerò
+nel cavillo, era nondimeno delicato cavillo;
+e opera che richiedeva strumenti assai scientifici.
+
 
 
 <span class="atom-split" data-atom="chapter_03--part_05" data-title="St. Thomas Aquinas — Chapter 3 (part 5)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="archetype/shadow,motif/city,motif/cross,motif/desert,motif/desire,motif/love,motif/storm,motif/time,motif/well,motif/wheel,motif/wind,concept/body,concept/faith,concept/fear,histref/christianity,histref/islam,setting/desert,character/aquinas,character/christ"></span>
@@ -6995,6 +8685,114 @@ They were both in the black and white of the Dominicans;
 for Albertus and [[aquinas|Aquinas]] stood firm.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Ciò che rese la Rivoluzione aristotelica davvero rivoluzionaria fu il fatto
+che essa era davvero religiosa.  È il fatto, tanto fondamentale che ho
+ritenuto [[Well|bene]] enunciarlo nelle prime pagine di questo libro;
+che la rivolta fu in gran parte una rivolta degli elementi più cristiani
+della Cristianità.  San Tommaso, non meno di san Francesco,
+sentiva in modo inconscio che la presa del suo popolo stava scivolando
+sulla solida dottrina e disciplina cattolica, consumata liscia da
+più di mille anni di routine; e che la [[Faith|Fede]] aveva bisogno
+di essere mostrata sotto una nuova luce e trattata da un'altra angolatura.
+Ma non aveva altro movente se non il [[Desire|desiderio]] di renderla popolare
+per la salvezza del popolo.  Era vero, in linea di massima,
+che da qualche [[Time|tempo]] era stata troppo platonica per essere popolare.
+Aveva bisogno di qualcosa come il tocco accorto e casalingo di
+Aristotele per tornare a essere una religione di buon senso.
+Sia il movente sia il metodo sono illustrati nella guerra di [[aquinas|Aquino]]
+contro gli agostiniani.
+
+Anzitutto, va ricordato che l'influenza greca continuava a scorrere
+dall'Impero greco; o almeno dal centro dell'Impero romano
+che era nella [[City|città]] greca di Bisanzio, e non più a Roma.
+Quell'influenza era bizantina in ogni senso buono e cattivo;
+come l'arte bizantina, era severa e matematica e un poco terribile;
+come l'etichetta bizantina, era orientale e vagamente decadente.
+Dobbiamo all'erudizione del signor Christopher Dawson molta luce
+sul modo in cui Bisanzio si irrigidì lentamente in una sorta di teocrazia
+asiatica, più simile a quella che serviva il Sacro Imperatore in Cina.
+Ma anche gli indotti possono cogliere la differenza, nel modo in cui
+il [[Christianity|Cristianesimo]] orientale appiattiva ogni cosa, come appiattiva i volti
+delle immagini in icone.  Divenne una cosa di motivi piuttosto
+che di quadri; e mosse una guerra decisa e distruttiva alle statue.
+Così vediamo, per quanto strano, che l'Oriente fu la terra
+della [[Cross|Croce]] e l'Occidente fu la terra del Crocifisso.
+I Greci venivano disumanizzati da un simbolo raggiante, mentre i Goti
+venivano umanizzati da uno strumento di tortura.  Solo l'Occidente fece
+quadri realistici del più grande di tutti i racconti venuti dall'Oriente.
+Perciò l'elemento greco nella teologia cristiana tendeva sempre più a essere
+una sorta di platonismo inaridito; una cosa di diagrammi e astrazioni;
+astrazioni fino all'ultimo nobili, invero, ma non abbastanza toccate
+da quella grande cosa che è per definizione quasi l'opposto
+dell'astrazione:  l'Incarnazione.  Il loro Logos era il Verbo; ma non
+il Verbo fatto Carne.  In mille modi assai sottili, spesso sfuggenti
+alla definizione dottrinale, questo spirito si diffuse sul mondo della Cristianità
+dal luogo dove il Sacro Imperatore sedeva sotto i suoi mosaici d'oro;
+e il pavimento piatto dell'Impero romano fu alla fine una sorta di
+liscio sentiero per Maometto.  Poiché l'[[Islam]] fu l'ultimo compimento
+degli Iconoclasti.  Molto prima di ciò, tuttavia, vi era questa
+tendenza a rendere la [[Cross|Croce]] meramente decorativa come la Mezzaluna;
+a farne un motivo come la greca o la [[Wheel|Ruota]] di Buddha.
+Ma c'è qualcosa di passivo in un simile mondo di motivi,
+e la greca non apre alcuna porta, mentre la [[Wheel|Ruota]] di Buddha
+gira sempre su se stessa e non avanza mai.
+
+In parte per queste influenze negative, in parte per una necessaria
+e nobile ascesi che cercava di emulare il tremendo esempio
+dei martiri, le prime età cristiane erano state eccessivamente
+anticorporee e troppo vicine alla linea di pericolo del misticismo manicheo.
+Ma vi era assai meno pericolo nel fatto che i santi
+macerassero il [[Body|corpo]] che nel fatto che i sapienti lo trascurassero.
+Ammessa tutta la grandezza del contributo di Agostino al [[Christianity|Cristianesimo]],
+vi era in un certo senso un pericolo più sottile in Agostino il platonico
+che perfino in Agostino il manicheo.  Ne veniva uno stato d'animo
+che inconsciamente commetteva l'eresia di dividere la sostanza della
+Trinità.  Pensava a Dio troppo esclusivamente come a uno Spirito che purifica
+o a un Salvatore che redime; e troppo poco come a un Creatore che crea.
+Ecco perché uomini come [[aquinas|Aquino]] ritennero giusto correggere Platone con
+un appello ad Aristotele; Aristotele che prendeva le cose come le trovava,
+proprio come [[aquinas|Aquino]] accettava le cose come Dio le aveva create.  In tutta l'opera
+di san Tommaso il mondo della creazione positiva è perpetuamente presente.
+Umanamente parlando, fu lui a salvare l'elemento umano nella
+teologia cristiana, pur usando per comodità certi elementi
+della [[philosophy|filosofia]] pagana.  Solo che, come già si è insistito, l'elemento
+umano è anche quello cristiano.
+
+Il panico per il pericolo aristotelico, che era passato per gli alti
+luoghi della Chiesa, era probabilmente un secco [[Wind|vento]] dal [[Desert|deserto]].
+Era davvero colmo più di [[Fear|paura]] di Maometto che di [[Fear|paura]] di Aristotele.
+E ciò era ironico, perché vi era in realtà molta più difficoltà
+nel conciliare Aristotele con Maometto che nel conciliarlo
+con [[Christ|Cristo]].  L'[[Islam]] è essenzialmente un credo semplice per uomini semplici;
+e nessuno può mai davvero trasformare il panteismo in un credo semplice.
+È al tempo stesso troppo astratto e troppo complicato.  Vi sono
+semplici credenti in un Dio personale; e vi sono atei
+più ingenui di qualsiasi credente in un Dio personale.
+Ma pochi possono, per mera semplicità, accettare un universo senza dio come un dio.
+E mentre il musulmano, in confronto al cristiano, aveva forse
+un Dio meno umano, aveva se possibile un Dio più personale.
+La volontà di Allah era in sommo grado una volontà, e non poteva essere mutata
+in una corrente di tendenza.  Su tutto quel versante cosmico e astratto
+il cattolico era più accomodante del musulmano—
+fino a un certo punto.  Il cattolico poteva ammettere almeno che Aristotele
+aveva ragione riguardo agli elementi impersonali di un Dio personale.
+Perciò possiamo dire in generale dei filosofi musulmani,
+che quanti divennero buoni filosofi divennero cattivi musulmani.
+Non è del tutto innaturale che molti vescovi e dottori temessero
+che i tomisti potessero divenire buoni filosofi e cattivi cristiani.
+Ma ve n'erano anche molti, della rigida scuola di Platone e di Agostino,
+che negavano con fermezza che fossero perfino buoni filosofi.
+Fra quelle passioni piuttosto incongrue, l'[[Love|amore]] di Platone
+e la [[Fear|paura]] di Maometto, vi fu un momento in cui le prospettive
+di una qualsiasi cultura aristotelica nella Cristianità apparvero davvero assai fosche.
+Anatema dopo anatema tuonava dagli alti luoghi; e sotto
+l'[[Shadow|ombra]] della persecuzione, come spesso accade, parve per un momento
+che appena una o due figure stessero [[Alone|sole]] nell'area spazzata dalla [[Storm|tempesta]].
+Erano entrambe nel bianco e nero dei domenicani;
+poiché Alberto e [[aquinas|Aquino]] tennero saldo.
+
 
 
 <span class="atom-split" data-atom="chapter_03--part_06" data-title="St. Thomas Aquinas — Chapter 3 (part 6)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="motif/death,motif/nature,motif/time,concept/conversion,concept/freedom,concept/humility,concept/nature,concept/self,concept/truth,form/translation,histref/bible,setting/paris,character/apollo,character/aquinas,character/bottom"></span>
@@ -7099,6 +8897,107 @@ would have been any quarrel between Science and Religion.
 He did his very best to map out two provinces for them, and to trace
 a just frontier between them.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+In quella sorta di battaglia c'è sempre confusione; e le maggioranze
+mutano in minoranze e viceversa, come per [[Magic|magia]].  È sempre
+difficile datare il volgere della marea, che pare un guazzabuglio
+di gorghi; le date stesse paiono sovrapporsi e confondere la crisi.
+Ma il cambiamento, dal momento in cui i due domenicani stettero [[Alone|soli]]
+al momento in cui l'intera Chiesa finalmente si schierò in linea
+con loro, si può forse collocare all'incirca nel momento in cui essi
+furono praticamente condotti dinanzi a un giudice ostile ma non ingiusto.
+Stephen Tempier, vescovo di [[Paris|Parigi]], era a quanto pare un discreto
+esemplare del vecchio ecclesiastico fanatico, che riteneva l'ammirazione
+per Aristotele una debolezza destinata verosimilmente a esser seguita dall'adorazione di [[Apollo]].
+Era anche, per un caso di malasorte, uno dei vecchi conservatori sociali,
+che avevano intensamente detestato la rivoluzione popolare dei
+Frati Predicatori.  Ma era un uomo onesto; e Tommaso d'[[aquinas|Aquino]]
+non chiese mai altro che il permesso di rivolgersi a uomini onesti.
+Tutt'attorno a lui vi erano altri rivoluzionari aristotelici di specie assai
+più dubbia.  C'era Siger, il sofista del Brabante,
+che apprese tutto il suo aristotelismo dagli Arabi; e aveva un'ingegnosa
+teoria su come un agnostico arabo potesse essere anche cristiano.
+C'erano mille giovani del genere che aveva gridato
+per Abelardo; pieni della giovinezza del tredicesimo secolo
+e ubriachi del vino greco di Stagira.  Contro di loro,
+minaccioso e implacabile, stava il vecchio partito puritano degli agostiniani;
+fin troppo lieto di annoverare i razionalisti Alberto e Tommaso
+con gli equivoci metafisici musulmani.
+
+Parrebbe che il trionfo di Tommaso fosse davvero un trionfo personale.
+Non ritirò una sola delle sue proposizioni; benché si dica
+che il vescovo reazionario ne condannò alcune dopo la sua [[Death|morte]].
+Nel complesso, tuttavia, [[aquinas|Aquino]] convinse la maggior parte dei suoi critici che era
+tanto buon cattolico quanto loro.  Vi fu uno strascico di dispute
+tra gli Ordini religiosi, in seguito a questa crisi controversistica.
+Ma è probabilmente vero dire che il fatto che un uomo come [[aquinas|Aquino]]
+fosse riuscito anche solo in parte a soddisfare un uomo come Tempier fu la fine
+della disputa essenziale.  Ciò che era già familiare ai pochi
+divenne familiare ai molti; che un aristotelico potesse davvero
+essere cristiano.  Un altro fatto contribuì alla comune [[conversion|conversione]].
+Rassomiglia curiosamente alla storia della [[Translation|traduzione]]
+della [[Bible|Bibbia]]; e alla presunta soppressione cattolica della [[Bible|Bibbia]].
+Dietro le quinte, dove il Papa era assai più tollerante del
+vescovo di [[Paris|Parigi]], gli amici di [[aquinas|Aquino]] avevano lavorato alacremente per produrre
+una nuova [[Translation|traduzione]] di Aristotele.  Essa dimostrava che per molti versi
+la [[Translation|traduzione]] eretica era stata una [[Translation|traduzione]] assai eretica.
+Con il compimento finale di quest'opera, possiamo dire che la grande
+[[philosophy|filosofia]] greca entrò definitivamente nel sistema della Cristianità.
+Il processo è stato descritto, con un po' di umorismo, come il Battesimo
+di Aristotele.
+
+Tutti abbiamo sentito parlare dell'[[Humility|umiltà]] dell'uomo di scienza; di molti che furono
+assai genuinamente umili; e di alcuni che erano assai fieri della propria [[Humility|umiltà]].
+Sarà il ritornello alquanto troppo ricorrente di questo breve studio
+che Tommaso d'[[aquinas|Aquino]] ebbe davvero l'[[Humility|umiltà]] dell'uomo
+di scienza; come una particolare variante dell'[[Humility|umiltà]] del santo.
+È vero che egli stesso non contribuì con nulla di concreto
+all'esperimento o al dettaglio della scienza fisica; in questo, si può
+dire, restò perfino indietro rispetto all'ultima generazione, e fu assai
+meno uno scienziato sperimentale del suo maestro Alberto Magno.
+Ma con tutto ciò, egli fu storicamente un grande amico della [[Freedom|libertà]]
+della scienza.  I principii che egli stabilì, rettamente intesi,
+sono forse i migliori che si possano produrre per proteggere la scienza
+dalla mera persecuzione oscurantista.  Per esempio, in materia
+di ispirazione della Scrittura, egli fissò anzitutto l'ovvio fatto,
+dimenticato da quattro furiosi secoli di battaglia settaria,
+che il significato della Scrittura è ben lungi dall'essere [[Self|autoevidente]] e che dobbiamo
+spesso interpretarla alla luce di altre verità.  Se un'interpretazione
+letterale è davvero e nettamente contraddetta da un fatto ovvio,
+allora possiamo soltanto dire che l'interpretazione letterale dev'essere
+un'interpretazione falsa.  Ma il fatto dev'essere davvero un fatto ovvio.
+E purtroppo, gli scienziati del diciannovesimo secolo erano altrettanto pronti
+a saltare alla conclusione che una qualsiasi congettura sulla [[Nature|natura]] fosse un fatto ovvio,
+quanto i settari del diciassettesimo secolo a saltare alla conclusione
+che una qualsiasi congettura sulla Scrittura fosse la spiegazione ovvia.
+Così, teorie private su ciò che la [[Bible|Bibbia]] dovrebbe significare, e teorie premature
+su ciò che il mondo dovrebbe significare, si sono scontrate in rumorosa
+e assai reclamizzata controversia, specie nell'età vittoriana;
+e questa goffa collisione di due assai impazienti forme di ignoranza
+fu conosciuta come la contesa tra Scienza e Religione.
+
+Ma san Tommaso ebbe l'[[Humility|umiltà]] scientifica in questo senso assai vivo
+e particolare; che era pronto a prendere il posto più basso;
+per l'esame delle cose più basse.  Egli non studiò,
+come uno specialista moderno, il verme come se fosse il mondo;
+ma era disposto a cominciare a studiare la realtà del mondo nella
+realtà del verme.  Il suo aristotelismo significava semplicemente che lo studio
+del più umile fatto conduce allo studio della più alta [[Truth|verità]].
+Che per lui il processo fosse logico e non biologico, che riguardasse
+la [[philosophy|filosofia]] più che la scienza, non altera l'idea essenziale
+che egli credeva nel cominciare dal fondo, dal [[Bottom|basso]] della scala.
+Ma egli diede anche, con la sua concezione della Scrittura e della Scienza,
+e di altre questioni, una sorta di carta per pionieri più puramente
+pratici di lui.  Egli disse praticamente che se essi potevano
+davvero provare le loro scoperte pratiche, l'interpretazione
+tradizionale della Scrittura doveva cedere dinanzi a quelle scoperte.
+Difficilmente, come dice la frase corrente, avrebbe potuto essere più equo di così.
+Se la questione fosse stata lasciata a lui, e a uomini come lui, non vi sarebbe
+mai stata alcuna contesa tra Scienza e Religione.
+Egli fece del suo meglio per tracciare due province per esse, e per segnare
+una giusta frontiera tra loro.
 
 
 
@@ -7212,6 +9111,114 @@ with him.  But these enemies had attempted the worst treachery:
 they had made him agree with them.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Si osserva spesso con disinvoltura che il [[Christianity|Cristianesimo]] ha fallito,
+intendendo con ciò che esso non ha mai avuto quella travolgente, imperiale e
+imposta supremazia, che è appartenuta a ciascuna delle grandi rivoluzioni,
+ognuna delle quali è in seguito fallita.  Non vi fu mai un momento
+in cui gli uomini potessero dire che ogni uomo era cristiano; come potrebbero dire
+per alcuni mesi che ogni uomo era realista o repubblicano
+o comunista.  Ma se gli storici assennati vogliono comprendere il senso
+in cui il carattere cristiano ha avuto successo, non potrebbero
+trovare caso migliore della massiccia pressione morale di un uomo come
+san Tommaso, a sostegno del sepolto razionalismo dei pagani,
+che fino allora era stato dissotterrato solo per divertimento degli eretici.
+Fu, del tutto rigorosamente ed esattamente, perché un nuovo genere di uomo
+conduceva l'indagine razionale in un nuovo modo, che gli uomini
+dimenticarono la maledizione caduta sui templi dei demoni morti
+e sui palazzi dei despoti morti; dimenticarono perfino la nuova furia
+venuta dall'Arabia contro la quale combattevano per la vita;
+perché l'uomo che chiedeva loro di tornare al senno, o di tornare
+al buon senso, non era un sofista ma un santo.  Aristotele aveva descritto
+l'uomo magnanimo, che è grande e sa di esser grande.
+Ma Aristotele non avrebbe mai recuperato la propria [[Greatness|grandezza]],
+se non fosse stato per il miracolo che creò l'uomo più magnanimo;
+che è grande e sa di esser piccolo.
+
+Vi è una certa importanza storica in ciò che alcuni chiamerebbero
+la pesantezza dello stile adoperato.  Esso reca una curiosa impressione
+di candore, che ebbe davvero, credo, un notevole effetto
+sui contemporanei.  Il santo è stato talora chiamato scettico.
+La [[Truth|verità]] è che egli fu in larga misura tollerato come scettico
+perché era manifestamente un santo.  Quando pareva ergersi come un
+ostinato aristotelico, appena distinguibile dagli eretici arabi,
+credo seriamente che ciò che lo protesse fu in larghissima misura
+la prodigiosa forza della sua semplicità e la sua evidente bontà
+e l'[[Love|amore]] della [[Truth|verità]].  Coloro che uscivano contro l'altezzosa
+sicurezza degli eretici venivano fermati e bloccati di colpo,
+contro una sorta di enorme [[Humility|umiltà]] che era come una montagna:
+o forse come quella immensa valle che è lo stampo di una montagna.
+Tenuto conto di tutte le convenzioni medievali, possiamo sentire che con
+gli altri innovatori non fu sempre così.  Gli altri,
+da Abelardo giù fino a Siger di Brabante, non hanno mai del tutto perduto,
+nel lungo corso della [[history|storia]], una lieve aria di ostentazione.
+Nessuno potrebbe sentire per un istante che Tommaso d'[[aquinas|Aquino]] si mettesse in mostra.
+La stessa opacità della dizione, di cui alcuni si lamentano,
+era enormemente convincente.  Avrebbe potuto dare arguzia oltre che [[Well|bene]] la saggezza;
+ma era così prodigiosamente serio che diede la sua saggezza
+senza la sua arguzia.
+
+Dopo l'ora del trionfo venne il momento del pericolo.  È sempre
+così con le alleanze, e specialmente perché [[aquinas|Aquino]] combatteva su
+due fronti.  Il suo compito principale era difendere la [[Faith|Fede]] contro l'abuso
+di Aristotele; e lo fece arditamente sostenendo l'uso di Aristotele.
+Sapeva perfettamente [[Well|bene]] che eserciti di atei e anarchici
+ruggivano applausi sullo sfondo alla sua vittoria aristotelica su
+tutto ciò che aveva di più caro.  Nondimeno, non fu mai l'esistenza
+degli atei, non più degli Arabi o dei pagani aristotelici, a turbare
+la straordinaria compostezza controversistica di Tommaso d'[[aquinas|Aquino]].
+Il vero pericolo che seguì alla vittoria da lui conquistata per Aristotele
+si presentò vividamente nel curioso caso di Siger di Brabante; ed esso
+merita [[Well|bene]] uno studio, per chiunque voglia cominciare a comprendere la strana
+[[history|storia]] della Cristianità.  Esso è segnato da una qualità piuttosto singolare;
+che è sempre stata la nota unica della [[Faith|Fede]], benché non sia
+notata dai suoi nemici moderni, e di rado dai suoi amici moderni.
+È il fatto simboleggiato nella leggenda dell'Anticristo, che era il [[Double|Doppio]]
+di [[Christ|Cristo]]; nel profondo proverbio che il Diavolo è la scimmia di Dio.
+È il fatto che la falsità non è mai tanto falsa quanto quando
+è quasi del tutto vera.  È quando la pugnalata giunge vicino al nervo
+della [[Truth|verità]], che la [[Conscience|coscienza]] cristiana grida di [[Pain|dolore]].
+E Siger di Brabante, seguendo alcuni degli aristotelici arabi,
+avanzò una teoria che la maggior parte dei lettori di giornali moderni avrebbe all'istante
+dichiarato identica alla teoria di san Tommaso.  Fu proprio questo
+a suscitare infine in san Tommaso la sua ultima e più enfatica protesta.
+Egli aveva vinto la sua battaglia per un più ampio raggio di [[philosophy|filosofia]] e scienza;
+aveva sgombrato il terreno per un'intesa generale sulla [[Faith|fede]]
+e sull'indagine; un'intesa che è stata generalmente osservata
+tra i cattolici, e certamente mai abbandonata senza disastro.
+Era l'idea che lo scienziato dovesse continuare a esplorare e
+sperimentare liberamente, purché non pretendesse un'infallibilità
+e una definitività che era contro i suoi stessi principii pretendere.
+Nel frattempo la Chiesa doveva continuare a sviluppare e definire,
+sulle cose [[Supernatural|soprannaturali]], purché non pretendesse un diritto di alterare
+il deposito della [[Faith|fede]], che era contro i suoi stessi principii pretendere.
+E quando egli ebbe detto questo, Siger di Brabante si alzò e disse qualcosa
+di così orribilmente simile, e così orribilmente dissimile, che (come l'Anticristo)
+avrebbe potuto ingannare persino gli eletti.
+
+Siger di Brabante disse questo:  la Chiesa dev'essere nel giusto teologicamente,
+ma può sbagliare scientificamente.  Vi sono due verità;
+la [[Truth|verità]] del mondo [[Supernatural|soprannaturale]], e la [[Truth|verità]] del mondo naturale,
+che contraddice il mondo [[Supernatural|soprannaturale]].  Mentre siamo naturalisti,
+possiamo supporre che il [[Christianity|Cristianesimo]] sia tutto un'assurdità; ma poi, quando
+ci ricordiamo che siamo cristiani, dobbiamo ammettere che il [[Christianity|Cristianesimo]]
+è vero anche se è un'assurdità.  In altre parole, Siger di Brabante
+spaccò in due la testa umana, come il colpo in un'antica leggenda di battaglia;
+e dichiarò che un uomo ha due menti, con una delle quali deve
+credere interamente e con l'altra può assolutamente non credere.
+A molti questo parrebbe almeno una [[Parody|parodia]] del tomismo.
+In realtà, era l'assassinio del tomismo.  Non erano due modi
+di trovare la stessa [[Truth|verità]]; era un modo menzognero di fingere
+che vi siano due verità.  Ed è straordinariamente interessante
+notare che questa è l'unica occasione in cui il Bue Muto venne davvero
+fuori come un toro selvaggio.  Quando si alzò per rispondere a Siger di Brabante,
+fu del tutto trasfigurato, e lo stesso stile delle sue frasi,
+che è cosa simile al tono della voce di un uomo, si altera d'improvviso.
+Non era mai stato adirato con alcuno dei nemici che dissentivano
+da lui.  Ma questi nemici avevano tentato il peggiore tradimento:
+lo avevano fatto concordare con loro.
+
 
 
 <span class="atom-split" data-atom="chapter_03--part_08" data-title="St. Thomas Aquinas — Chapter 3 (part 8)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="topos/double,motif/desire,motif/journey,motif/nature,motif/silence,motif/time,concept/apocalypse,concept/body,concept/faith,concept/fanaticism,concept/history,concept/immortality,concept/nature,concept/pride,concept/self,concept/truth,form/history,character/aquinas,character/king_of_france"></span>
@@ -7313,6 +9320,104 @@ But before he had gone many miles on the [[Journey|journey]], he was dead.
 
 --/--
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Coloro che lamentano che i teologi tracciano sottili distinzioni
+difficilmente potrebbero trovare esempio migliore della loro stessa follia.
+Di fatto, una sottile distinzione può essere una netta contraddizione.
+Fu notevolmente così in questo caso.  San Tommaso era disposto a permettere
+che l'unica [[Truth|verità]] fosse avvicinata per due vie, proprio perché era
+certo che vi fosse una sola [[Truth|verità]].  Poiché la [[Faith|Fede]] era l'unica [[Truth|verità]],
+nulla di scoperto nella [[Nature|natura]] poteva in ultimo contraddire la [[Faith|Fede]].
+Poiché la [[Faith|Fede]] era l'unica [[Truth|verità]], nulla di realmente dedotto dalla
+[[Faith|Fede]] poteva in ultimo contraddire i fatti.  Era in [[Truth|verità]]
+una fiducia curiosamente ardita nella realtà della sua religione:
+e benché alcuni indugino a contestarla, essa è stata giustificata.
+I fatti scientifici, che si supponeva contraddicessero la [[Faith|Fede]] nel
+diciannovesimo secolo, sono quasi tutti considerati finzioni non scientifiche
+nel ventesimo.  Perfino i materialisti sono fuggiti
+dal materialismo; e coloro che ci ammaestravano sul determinismo
+in psicologia parlano già di indeterminismo nella materia.
+Ma che la sua fiducia fosse giusta o errata, essa era in modo particolare
+e supremo una fiducia che vi è una sola [[Truth|verità]] che non può
+contraddire se stessa.  E quest'ultimo gruppo di nemici sorse d'improvviso,
+per dirgli che concordavano interamente con lui nel dire che vi sono
+due verità contraddittorie.  La [[Truth|Verità]], nella frase medievale,
+portava due volti sotto un solo cappuccio; e questi sofisti dal [[Double|Doppio]]
+volto osavano praticamente suggerire che fosse il cappuccio domenicano.
+
+Così, nella sua ultima battaglia e per la prima [[Time|volta]], egli combatté
+come con un'ascia da guerra.  Vi è nelle parole un timbro del tutto
+al di là della pazienza quasi impersonale che egli mantenne nel [[debate|dibattito]]
+con tanti nemici.  "Ecco la nostra confutazione dell'errore.
+Essa non si fonda su documenti di [[Faith|fede]], ma sulle ragioni e sugli enunciati
+degli stessi filosofi.  Se dunque vi sia alcuno che,
+prendendo vanto e [[Pride|orgoglio]] della sua presunta sapienza, voglia sfidare
+ciò che abbiamo scritto, non lo faccia in qualche angolo né davanti a
+fanciulli che sono impotenti a decidere su questioni tanto difficili.
+Risponda apertamente se osa.  Mi troverà allora di fronte a lui,
+e non solo il mio trascurabile [[Self|me]], ma molti altri il cui studio è la [[Truth|verità]].
+Daremo battaglia ai suoi errori o porteremo un rimedio alla sua ignoranza."
+
+Il Bue Muto ora muggisce; come uno stretto alle strette eppure terribile
+e torreggiante su tutta la muta che latra.  Abbiamo già notato perché,
+in quest'unica contesa con Siger di Brabante, Tommaso d'[[aquinas|Aquino]] scatenò
+tali tuoni di passione puramente morale; fu perché
+l'intera opera della sua vita veniva tradita alle sue spalle,
+da coloro che si erano serviti delle sue vittorie sui reazionari.
+Il punto, al momento, è che questo è forse il suo unico momento di
+passione personale, salvo un unico lampo nei turbamenti della sua giovinezza:
+ed egli combatte ancora una volta i suoi nemici con un tizzone ardente.
+Eppure, perfino in questa isolata [[Apocalypse|apocalisse]] d'ira, vi è una
+frase che può essere raccomandata per ogni [[Time|tempo]] agli uomini che sono adirati
+con causa assai minore.  Se vi è una sola sentenza che si potrebbe
+scolpire nel marmo, come rappresentante la più calma e più duratura
+razionalità della sua unica intelligenza, è una sentenza
+che venne fuori a fiotti con tutto il resto di questa lava fusa.
+Se vi è una sola frase che sta davanti alla [[history|storia]] come tipica
+di Tommaso d'[[aquinas|Aquino]], è quella frase sul suo stesso argomento:
+"Essa non si fonda su documenti di [[Faith|fede]], ma sulle ragioni e sugli
+enunciati degli stessi filosofi."  Fossero tutti i dottori ortodossi
+nelle loro deliberazioni tanto ragionevoli quanto [[aquinas|Aquino]] nell'ira!
+Ricordassero tutti gli apologeti cristiani quella massima;
+e la scrivessero a grandi lettere sul muro, prima di inchiodarvi qualsivoglia
+tesi.  Al culmine della sua furia, Tommaso d'[[aquinas|Aquino]] comprende,
+ciò che tanti difensori dell'ortodossia non vogliono comprendere.
+Non serve a nulla dire a un ateo che è un ateo; o accusare
+chi nega l'[[Immortality|immortalità]] dell'infamia di negarla; o immaginare
+di poter costringere un avversario ad ammettere che ha torto, provando
+che ha torto secondo i principii di qualcun altro, ma non secondo i suoi.
+Dopo il grande esempio di san Tommaso, il principio resta, o avrebbe
+sempre dovuto restare stabilito; che dobbiamo o non discutere
+affatto con un uomo, oppure discutere sul suo terreno e non sul nostro.
+Possiamo fare altre cose invece di discutere, secondo le nostre vedute
+su quali azioni siano moralmente lecite; ma se discutiamo dobbiamo discutere
+"Sulle ragioni e sugli enunciati degli stessi filosofi."
+Questo è il buon senso in un detto attribuito a un amico
+di san Tommaso, il grande san Luigi, [[King of France|Re di Francia]], che gli spiriti
+superficiali citano come saggio di [[Fanaticism|fanatismo]]; il cui senso è che io
+devo o discutere con un infedele come può discutere un vero filosofo,
+oppure "trafiggergli il [[Body|corpo]] con una [[Sword|spada]] fin dove arriva."
+Un vero filosofo (anche della scuola opposta) sarà il primo
+a convenire che san Luigi fu del tutto filosofico.
+
+Così, nell'ultima grande crisi controversistica della sua campagna teologica,
+Tommaso d'[[aquinas|Aquino]] riuscì a dare ad amici e nemici non solo una lezione
+di teologia, ma una lezione di controversia.  Ma fu di fatto la sua
+ultima controversia.  Era stato un uomo dall'enorme appetito controversistico,
+cosa che esiste in certi uomini e non in altri, nei santi e nei peccatori.
+Ma dopo questo grande e vittorioso duello con Siger di Brabante,
+fu improvvisamente sopraffatto da un [[Desire|desiderio]] di [[Silence|silenzio]] e di riposo.
+Disse una cosa strana su questo suo stato d'animo a un amico,
+che troverà altrove il suo posto più appropriato.
+Si ritirò nelle estreme semplicità del suo giro monastico
+e parve non [[Desire|desiderare]] nulla se non una sorta di ritiro permanente.
+Gli giunse una richiesta dal Papa che si mettesse in cammino per qualche
+ulteriore missione di diplomazia o disputa; ed egli si preparò a obbedire.
+Ma prima che avesse percorso molte miglia del [[Journey|viaggio]], era morto.
+
+--/--
 
 
 
@@ -7425,6 +9530,114 @@ the point, had said to his courtiers, "[[Vanity]] should be avoided;
 but every man should dress [[Well|well]], in the manner of his rank,
 that his wife may the more easily [[Love|love]] him."
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+IV
+
+UNA MEDITAZIONE SUI MANICHEI
+
+Vi è un aneddoto occasionale su san Tommaso d'[[aquinas|Aquino]] che
+lo illumina come un lampo di [[Lightning|fulmine]], non solo di fuori ma di dentro.
+Poiché non solo lo mostra come carattere, e perfino come carattere da [[Comedy|commedia]],
+e mostra i colori della sua epoca e del suo sfondo sociale;
+ma anche, come per un istante, rende trasparente la sua mente.
+È un incidente banale accaduto un giorno, quando egli fu con riluttanza
+strappato al suo lavoro, e potremmo quasi dire al suo gioco.
+Poiché entrambi si trovavano per lui nell'insolito passatempo del pensare,
+che è per certi uomini cosa assai più inebriante del mero bere.
+Aveva declinato un gran numero di inviti mondani, alle corti
+di re e principi, non perché fosse scortese, ché non lo era;
+ma perché ardeva sempre dentro dei piani davvero giganteschi
+di esposizione e argomentazione che riempivano la sua vita.
+In un'occasione, tuttavia, fu invitato alla [[Court|corte]] di [[King|Re]] Luigi IX
+di Francia, più famoso come il grande san Luigi; e per qualche ragione
+o altra, le autorità domenicane del suo Ordine gli dissero di accettare;
+sicché egli subito lo fece, essendo un frate obbediente perfino nel [[Sleep|sonno]];
+o piuttosto nella sua permanente trance di riflessione.
+
+È una vera accusa contro l'agiografia convenzionale che essa talvolta
+tende a far sembrare tutti i santi uguali.  Mentre in realtà
+non vi sono uomini più diversi dei santi; nemmeno gli assassini.
+E difficilmente potrebbe esservi un contrasto più completo, dati gli
+essenziali della santità, che tra san Tommaso e san Luigi.
+San Luigi nacque cavaliere e [[King|re]]; ma era uno di quegli uomini
+in cui una certa semplicità, unita a [[Courage|coraggio]] e attività,
+rende naturale, e in un certo senso facile, adempiere direttamente e prontamente
+qualsiasi dovere o ufficio, per quanto ufficiale.  Era un uomo in cui santità
+e sanità non avevano contesa; e il loro esito era nell'azione.
+Non si dedicava molto al pensare, nel senso del molto teorizzare.
+Ma, anche in teoria, aveva quella sorta di presenza di spirito,
+che appartiene all'uomo raro e davvero pratico quando deve pensare.
+Non diceva mai la cosa sbagliata; ed era ortodosso per istinto.
+Nell'antico proverbio pagano sui re che sono filosofi
+o sui filosofi che sono re, vi era un certo errore di calcolo,
+connesso con un mistero che solo il [[Christianity|Cristianesimo]] poteva rivelare.
+Poiché mentre è possibile per un [[King|re]] desiderare assai di essere un santo,
+non è possibile per un santo desiderare assai di essere un [[King|re]].
+Un uomo buono difficilmente sognerà sempre di essere un grande monarca;
+ma tale è la liberalità della Chiesa, che essa non può
+proibire nemmeno a un grande monarca di sognare di essere un uomo buono.
+Ma Luigi era una persona schietta e soldatesca a cui non
+importava particolarmente di essere un [[King|re]], non più di quanto gli
+sarebbe importato di essere un capitano o un sergente o qualsiasi altro grado nel suo esercito.
+Ora un uomo come san Tommaso avrebbe decisamente detestato essere un [[King|re]],
+o essere invischiato nel fasto e nella politica dei re; non solo
+la sua [[Humility|umiltà]], ma una sorta di subconscia schizzinosità e una fine
+avversione per la futilità, spesso riscontrate negli uomini agiati e dotti
+dalle grandi menti, gli avrebbero davvero impedito di venire a contatto
+con la complessità della vita di [[Court|corte]].  Inoltre, egli fu ansioso per tutta
+la vita di tenersi fuori dalla politica; e non vi era simbolo politico
+più impressionante, o in un certo senso più provocatorio, in quel momento,
+del potere del [[King|Re]] a [[Paris|Parigi]].
+
+[[Paris|Parigi]] era davvero a quel [[Time|tempo]] un'aurora boreale; un'alba nel Nord.
+Dobbiamo renderci conto che terre assai più vicine a Roma erano imputridite di
+paganesimo e pessimismo e di influenze orientali di cui la più
+rispettabile era quella di Maometto.  La Provenza e tutto il Sud
+erano stati pieni di una febbre di nichilismo o misticismo negativo,
+e dalla Francia settentrionale erano venute le lance e le spade che spazzarono
+via la cosa anticristiana.  Nella Francia settentrionale sorse anche
+quello splendore di costruzioni che brillano come spade e lance:
+le prime guglie del gotico.  Parliamo ora di grigi edifici gotici;
+ma dovevano essere assai diversi quando si levavano
+bianchi e splendenti nei cieli del nord, in parte lumeggiati
+d'oro e di colori vivaci; un nuovo volo di architettura,
+sorprendente come navi volanti.  La nuova [[Paris|Parigi]] infine lasciata
+da san Luigi dovette essere una cosa bianca come i gigli e splendida
+come l'orifiamma.  Era l'inizio della grande cosa nuova:
+la nazione di Francia, che avrebbe trafitto e sopraffatto l'antica
+contesa di Papa e Imperatore nelle terre da cui Tommaso veniva.
+Ma Tommaso venne assai malvolentieri, e, se possiamo dirlo di un uomo così
+gentile, piuttosto imbronciato.  Mentre entrava a [[Paris|Parigi]] gli mostrarono dalla
+[[Hill|collina]] quello splendore di nuove guglie che cominciava, e qualcuno
+disse qualcosa come: "Come dev'essere magnifico possedere tutto questo."
+E Tommaso d'[[aquinas|Aquino]] mormorò soltanto: "Preferirei avere quel
+manoscritto di Crisostomo che non riesco a procurarmi."
+
+In qualche modo guidarono quella riluttante mole di riflessione a un posto
+nella sala del banchetto reale; e tutto ciò che sappiamo di Tommaso ci dice
+che egli fu perfettamente cortese con quanti gli parlavano,
+ma parlò poco, e fu presto dimenticato nel più brillante
+e rumoroso chiacchiericcio del mondo:  il rumore del parlare francese.
+Di cosa parlassero i francesi non lo sappiamo;
+ma essi dimenticarono del tutto il grosso e grasso italiano in mezzo a loro,
+e pare fin troppo possibile che egli dimenticasse del tutto loro.
+Silenzi improvvisi capitano perfino nella conversazione francese; e in
+uno di questi giunse l'interruzione.  Da lungo tempo non vi era stata parola
+né movimento in quel enorme mucchio di vesti bianche e nere, come un abito
+d'arlecchino a lutto, che lo segnavano come frate mendicante venuto dalle strade,
+e contrastavano con tutti i colori e i motivi e le partizioni araldiche
+di quella prima e più fresca [[Dawn|alba]] di cavalleria e araldica.
+Gli scudi e i pennoni triangolari e le lance appuntite, le spade
+triangolari della Crociata, le finestre a sesto acuto e i cappucci conici,
+ripetevano ovunque quel fresco spirito medievale francese che, in
+ogni senso, andava dritto al punto.  Ma i colori delle sopravvesti
+erano gai e vari, con poco da rimproverare alla loro ricchezza;
+poiché san Luigi, che aveva egli stesso una speciale qualità di andare
+dritto al punto, aveva detto ai suoi cortigiani: "La [[Vanity|Vanità]] va evitata;
+ma ogni uomo dovrebbe vestire [[Well|bene]], secondo il suo rango,
+affinché la moglie possa più facilmente [[Love|amarlo]]."
 
 
 
@@ -7552,6 +9765,128 @@ we realise the full and flat contradiction between the monk fasting
 and the fakir hanging himself on hooks.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+E poi d'improvviso i calici sussultarono e tintinnarono sulla tavola e la grande
+mensa tremò, poiché il frate aveva abbattuto il suo enorme pugno come una mazza
+di pietra, con un fragore che trasalì tutti come un'esplosione;
+e aveva gridato con voce forte, ma come un uomo in preda
+a [[A Dream|un sogno]]: "E questo sistemerà i Manichei!"
+
+Il palazzo di un [[King|re]], anche quando è il palazzo di un santo,
+ha le sue convenzioni.  Uno shock percorse la [[Court|corte]],
+e ognuno si sentì come se il grasso frate d'[[Italy|Italia]] avesse scagliato
+un piatto contro [[King|Re]] Luigi, o gli avesse spostato di traverso la [[Crown|corona]].
+Tutti guardarono timidamente al terribile seggio, che fu per mille
+anni il trono dei Capetingi:  e molti erano presumibilmente
+pronti a scaraventare il grosso mendicante in tonaca nera fuori dalla [[Window|finestra]].
+Ma san Luigi, per quanto semplice sembrasse, non era una mera fonte medievale
+di [[Honour|onore]] né soltanto una fonte di [[Mercy|misericordia]], ma anche la fonte
+di due fiumi eterni:  l'ironia e la cortesia di Francia.
+Ed egli si volse ai suoi segretari, chiedendo loro a bassa voce di portare
+le loro tavolette al seggio del distratto controversista,
+e di prendere nota dell'argomento che gli era appena venuto in mente;
+perché doveva essere un ottimo argomento ed egli avrebbe potuto dimenticarlo.
+Mi sono soffermato su questo aneddoto, anzitutto, come si è detto,
+perché è quello che ci offre l'istantanea più vivida di un
+grande carattere medievale; anzi di due grandi caratteri medievali.
+Ma esso è anche particolarmente adatto a essere preso come tipo o svolta,
+per lo scorcio che offre della principale preoccupazione dell'uomo;
+e del genere di cose che si sarebbero potute trovare nei suoi pensieri,
+se fossero stati così sorpresi in un momento qualsiasi da un origliatore
+filosofico o attraverso un buco della serratura psicologico.  Non per nulla
+egli stava ancora rimuginando, perfino nella bianca [[Court|corte]] di san Luigi,
+sull'oscura nube dei Manichei.
+
+Questo libro vuole essere solo lo [[Sketch|schizzo]] di un uomo; ma deve
+almeno sfiorare lievemente, più avanti, un metodo e un significato;
+o quello che il nostro giornalismo ha l'irritante abitudine di chiamare un messaggio.
+Poche pagine assai inadeguate vanno dedicate all'uomo in relazione
+alla sua teologia e alla sua [[philosophy|filosofia]]; ma la cosa di cui intendo
+parlare qui è qualcosa a un tempo più generale e più personale
+perfino della sua [[philosophy|filosofia]].  L'ho perciò introdotta qui,
+prima di giungere a qualcosa di simile a un discorso tecnico sulla sua [[philosophy|filosofia]].
+Era qualcosa che si potrebbe in alternativa chiamare il suo
+atteggiamento morale, o la sua predisposizione temperamentale, o lo scopo
+della sua vita per quanto riguarda gli effetti sociali e umani:
+poiché egli sapeva meglio della maggior parte di noi che vi è un solo
+scopo in questa vita, ed è uno che è al di là di questa vita.
+Ma se volessimo esprimere in forma pittoresca e semplificata
+ciò che egli voleva per il mondo, e quale fosse la sua opera nella [[history|storia]],
+a parte le definizioni teoriche e teologiche, potremmo [[Well|ben]]
+dire che essa fu davvero quella di sferrare un colpo e sistemare i Manichei.
+
+Il pieno significato di ciò può non apparire a coloro che non studiano
+la [[history|storia]] teologica e forse ancor meno a coloro che la studiano.
+Anzi può sembrare ugualmente irrilevante per la [[history|storia]] e per la teologia.
+Nella [[history|storia]] san Domenico e Simone di Montfort tra loro avevano già
+piuttosto [[Well|bene]] sistemato i Manichei.  E in teologia naturalmente
+un dottore enciclopedico come [[aquinas|Aquino]] trattò mille altre
+eresie oltre all'eresia manichea.  Nondimeno, essa rappresenta davvero
+la sua posizione principale e la svolta che egli diede all'intera
+[[history|storia]] della Cristianità.
+
+Ritengo [[Well|bene]] interporre questo capitolo, benché la sua portata possa sembrare
+più vaga del resto; perché vi è una sorta di grosso equivoco
+su san Tommaso e il suo credo, che è un ostacolo per la maggior parte delle persone
+moderne perfino nel cominciare a comprenderli.  Esso sorge grosso modo così.
+San Tommaso, come altri [[Monks|monaci]], e specialmente altri santi,
+visse una vita di [[Renunciation|rinuncia]] e austerità; i suoi digiuni, per esempio,
+in marcato contrasto col lusso in cui avrebbe potuto vivere
+se avesse voluto.  Questo elemento sta alto nella sua religione, come modo
+di affermare la volontà contro il potere della [[Nature|natura]], di ringraziare
+il Redentore condividendo in parte le sue sofferenze, di rendere un uomo
+pronto a tutto come missionario o martire, e ideali simili.
+Questi si trovano a essere rari nella moderna società industriale d'Occidente,
+al di fuori della sua comunione; e si presume perciò che essi siano
+l'intero significato di quella comunione.  Poiché è insolito che un
+assessore digiuni per quaranta giorni, o che un politico faccia voto
+trappista di [[Silence|silenzio]], o che un uomo di mondo viva una vita di stretto celibato,
+l'[[Outsider|estraneo]] medio è convinto, non solo che il cattolicesimo non sia nulla
+se non ascetismo, ma che l'ascetismo non sia nulla se non pessimismo.
+Egli è tanto compiacente da spiegare ai cattolici perché essi tengano questa eroica
+virtù in rispetto; ed è sempre pronto a far notare che la [[philosophy|filosofia]]
+che vi sta dietro è un odio orientale per tutto ciò che è connesso con la [[Nature|natura]],
+e un disgusto puramente schopenhaueriano per la Volontà di Vivere.
+Ho letto in una recensione "di alto livello" del libro di Miss Rebecca West su
+sant'Agostino, la sbalorditiva affermazione che la [[Catholic Church|Chiesa cattolica]]
+consideri il sesso come avente la [[Nature|natura]] del peccato.  Come il [[Marriage|matrimonio]] possa
+essere un sacramento se il sesso è un peccato, o perché siano i cattolici
+a essere favorevoli alla nascita e i loro nemici a essere favorevoli
+al controllo delle nascite, lascerò che il critico se lo sbrogli da sé.
+Il mio interesse non è con quella parte dell'argomento; ma con un'altra.
+
+L'ordinario critico moderno, vedendo questo ideale [[ascetic|ascetico]] in una
+Chiesa autorevole, e non vedendolo nella maggior parte degli altri abitanti
+di Brixton o Brighton, è incline a dire: "Questo è il risultato dell'Autorità;
+sarebbe meglio avere la Religione senza l'Autorità."  Ma in [[Truth|verità]],
+un'esperienza più ampia fuori da Brixton o Brighton rivelerebbe l'errore.
+È raro trovare un assessore che digiuna o un politico trappista, ma è
+ancor più raro vedere suore sospese in aria su ganci o punte;
+è insolito che un oratore della Catholic Evidence Guild a Hyde Park
+cominci il suo discorso lacerandosi tutto con dei coltelli;
+uno straniero che si presenti a un ordinario presbiterio raramente troverà
+il parroco disteso sul pavimento con un [[Fire|fuoco]] acceso sul
+petto a bruciacchiarlo mentre pronuncia giaculatorie spirituali.
+Eppure tutte queste cose si fanno in tutta l'Asia, per esempio, da volontari
+entusiasti che agiscono unicamente sul grande impulso della Religione; di una Religione,
+nel loro caso, non comunemente imposta da alcuna Autorità immediata;
+e certamente non imposta da questa particolare Autorità.  In breve,
+una vera conoscenza dell'umanità dirà a chiunque che la Religione è cosa assai
+terribile; che è davvero un [[Fire|fuoco]] furioso, e che l'Autorità
+è spesso tanto necessaria a frenarla quanto a imporla.
+L'ascetismo, ovvero la guerra agli appetiti, è esso stesso un appetito.
+Non può mai essere eliminato dalle strane ambizioni dell'Uomo.
+Ma può essere tenuto sotto un ragionevole controllo; ed è indulto
+in proporzione assai più sana sotto l'Autorità cattolica che nell'anarchia
+pagana o puritana.  Nel frattempo, l'intero di questo ideale,
+benché sia parte essenziale dell'idealismo cattolico quando è compreso,
+è per certi versi del tutto una questione secondaria.  Non è il principio primario
+della [[philosophy|filosofia]] cattolica; è solo una particolare deduzione dall'
+etica cattolica.  E quando cominciamo a parlare di [[philosophy|filosofia]] primaria,
+ci rendiamo conto della piena e netta contraddizione tra il monaco che digiuna
+e il fachiro che si appende ai ganci.
+
 
 
 <span class="atom-split" data-atom="chapter_04--part_03" data-title="St. Thomas Aquinas — Chapter 4 (part 3)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="archetype/usurper,motif/death,motif/love,motif/mutability,motif/nature,motif/soul,motif/time,motif/well,concept/doubt,concept/nature,histref/christianity,character/aquinas,character/kent,character/satan"></span>
@@ -7667,6 +10002,118 @@ towards a point, it will actually go further away from it as it
 comes nearer to it.  After a thousand years of extension,
 the miscalculation of Platonism had come very near to Manicheanism.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Ora nessuno comincerà a comprendere la [[philosophy|filosofia]] tomista,
+né invero la [[philosophy|filosofia]] cattolica, se non si rende conto che la
+parte primaria e fondamentale di essa è interamente la lode della Vita,
+la lode dell'Essere, la lode di Dio come Creatore del Mondo.
+Tutto il resto segue assai più tardi, essendo condizionato
+da varie complicazioni come la Caduta o la vocazione degli eroi.
+La difficoltà nasce perché la mente cattolica si muove su
+due piani; quello della Creazione e quello della Caduta.
+Il parallelo più prossimo è, per esempio, quello dell'Inghilterra invasa;
+potrebbe esservi rigida legge marziale nel [[Kent]] perché il nemico è
+sbarcato nel [[Kent]], e relativa libertà nell'Hereford; ma ciò non
+inciderebbe sull'affetto di un patriota inglese per l'Hereford o il [[Kent]],
+e la cautela strategica nel [[Kent]] non inciderebbe sull'[[Love|amore]] del [[Kent]].
+Poiché l'[[Love|amore]] dell'Inghilterra rimarrebbe, sia per le parti da redimere
+con la disciplina sia per le parti da godere in libertà.  Qualsiasi estremo
+di ascetismo cattolico è una saggia, o insensata, precauzione contro il male
+della Caduta; non è mai un [[Doubt|dubbio]] sul bene della Creazione.
+Ed è qui che esso differisce davvero, non solo dalla piuttosto
+eccessiva eccentricità del gentiluomo che si appende ai ganci,
+ma dall'intera teoria cosmica che è il gancio a cui egli si appende.
+Nel caso di molte religioni orientali, è davvero vero che
+l'ascetismo è pessimismo; che l'[[ascetic|asceta]] si tortura
+fino alla [[Death|morte]] per un astratto odio della vita; che egli non
+intende semplicemente controllare la [[Nature|natura]] come dovrebbe, ma contraddire
+la [[Nature|natura]] quanto più può.  E benché assuma forma più mite
+dei ganci in milioni delle popolazioni religiose dell'Asia,
+è un fatto troppo poco riconosciuto, che il dogma della negazione
+della vita governi davvero come primo principio su scala tanto vasta.
+Una forma storica che esso assunse fu quel grande nemico del [[Christianity|Cristianesimo]]
+fin dai suoi inizi:  i Manichei.
+
+Ciò che si chiama la [[philosophy|filosofia]] manichea ha avuto molte forme; anzi essa
+ha assalito ciò che è immortale e immutabile con una specie assai curiosa
+di immortale [[Mutability|mutevolezza]].  È come la leggenda del mago che si muta
+in un serpente o in una nube; e il tutto ha quella innominabile
+nota di irresponsabilità, che appartiene a gran parte della metafisica
+e della morale dell'Asia, da cui venne il mistero manicheo.
+Ma è sempre in un modo o nell'altro un'idea che la [[Nature|natura]] è malvagia;
+o che il male è almeno radicato nella [[Nature|natura]].  Il punto essenziale
+è che come il male ha radici nella [[Nature|natura]], così ha diritti nella [[Nature|natura]].
+Il torto ha tanto diritto di esistere quanto la ragione.  Come già detto questa
+nozione assunse molte forme.  Talvolta era un dualismo, che faceva del male
+un socio pari del bene; sicché nessuno dei due poteva dirsi un [[Usurper|usurpatore]].
+Più spesso era un'idea generale che dei demoni avessero fatto il mondo materiale,
+e che se vi erano spiriti buoni essi si occupavano solo del
+mondo spirituale.  Più tardi, ancora, assunse la forma del calvinismo,
+che sosteneva che Dio aveva sì fatto il mondo, ma in senso speciale,
+aveva fatto il male non meno [[Well|bene]] del bene:  aveva fatto una volontà malvagia non meno [[Well|bene]]
+di un mondo malvagio.  In questa veduta, se un uomo sceglie di dannare la propria
+[[Soul|anima]] da vivo, egli non contrasta la volontà di Dio ma piuttosto la compie.
+In queste due forme, del primo gnosticismo e del più tardo calvinismo,
+vediamo la superficiale varietà e la fondamentale [[unity|unità]] del manicheismo.
+I vecchi Manichei insegnavano che [[Satan|Satana]] fu all'origine dell'intera opera
+della creazione comunemente attribuita a Dio.  I nuovi calvinisti insegnavano che Dio
+è all'origine dell'intera opera della dannazione comunemente attribuita a [[Satan|Satana]].
+L'uno guardava indietro al primo giorno in cui un demonio agì come un dio,
+l'altro guardava avanti a un ultimo giorno in cui un dio agì come un demonio.
+Ma entrambi avevano l'idea che il creatore della terra fosse primariamente
+il creatore del male, sia che lo chiamiamo demonio o dio.
+
+Poiché vi sono parecchi Manichei tra i Moderni, come osserveremo
+tra un momento, alcuni concorderanno con questa veduta, alcuni ne saranno perplessi,
+alcuni saranno soltanto perplessi sul perché dovremmo obiettarvi.
+Per comprendere la controversia medievale, va detta una parola
+della dottrina cattolica, che è tanto moderna quanto medievale.
+Che "Dio guardò tutte le cose e vide che erano buone"
+racchiude una sottigliezza che il pessimista popolare non sa seguire, o è
+troppo frettoloso per notare.  È la tesi che non vi sono cose cattive,
+ma solo cattivi usi delle cose.  Se vuoi, non vi sono cose cattive
+ma solo cattivi pensieri; e specialmente cattive intenzioni.  Solo i calvinisti
+possono davvero credere che l'inferno sia lastricato di buone intenzioni.
+È esattamente l'unica cosa di cui non può essere lastricato.
+Ma è possibile avere cattive intenzioni su cose buone;
+e cose buone, come il mondo e la carne, sono state
+travolte da una cattiva intenzione chiamata il diavolo.  Ma egli non può
+rendere cattive le cose; esse rimangono come nel primo giorno della creazione.
+[[Alone|Soltanto]] l'opera del cielo fu materiale; il fare di un mondo materiale.
+L'opera dell'inferno è interamente spirituale.
+
+Questo errore ebbe dunque molte forme; ma specialmente, come quasi
+ogni errore, ne ebbe due, una più feroce che era fuori
+dalla Chiesa e assaliva la Chiesa, e una più sottile, che era
+dentro la Chiesa e corrompeva la Chiesa.  Non vi è mai
+stato un [[Time|tempo]] in cui la Chiesa non fosse lacerata tra quell'invasione
+e quel tradimento.  Fu così, per esempio, nell'età vittoriana:
+la "competizione" darwiniana, nel commercio o nel conflitto di razza, fu tanto
+sfrontato un assalto ateo, nel diciannovesimo secolo,
+quanto il movimento bolscevico del Senza-Dio nel ventesimo.
+Vantarsi della bruta prosperità, ammirare i più confusi milionari
+che avevano accaparrato il grano con un trucco, parlare degli "inadatti"
+(a [[Imitation|imitazione]] del pensatore scientifico che vorrebbe farli fuori
+perché non riesce nemmeno a finire la propria frase—inadatti a che cosa?)—
+tutto ciò è tanto semplicemente e apertamente anticristiano quanto la Messa Nera.
+Eppure alcuni deboli e mondani cattolici usarono davvero questo gergo in difesa
+del capitalismo, nella loro prima piuttosto fiacca resistenza al socialismo.
+Almeno lo fecero finché la grande Enciclica del Papa sui Diritti
+del Lavoro pose fine a tutte le loro sciocchezze.  Il male è sempre
+tanto dentro quanto fuori la Chiesa; ma in forma più selvaggia fuori
+e in forma più mite dentro.  Così fu, di nuovo, nel diciassettesimo
+secolo, quando vi era il calvinismo fuori e il giansenismo dentro.
+E così fu nel tredicesimo secolo, quando l'ovvio pericolo
+fuori era nella rivoluzione degli Albigesi; ma il potenziale
+pericolo dentro era nel tradizionalismo stesso degli agostiniani.
+Poiché gli agostiniani derivavano solo da Agostino, e Agostino
+derivava in parte da Platone, e Platone aveva ragione, ma non del tutto ragione.
+È un fatto matematico che se una linea non è perfettamente diretta
+verso un punto, essa in realtà se ne allontanerà sempre più mentre
+vi si avvicina.  Dopo mille anni di estensione,
+l'errore di calcolo del platonismo era giunto assai vicino al manicheismo.
 
 
 
@@ -7797,6 +10244,136 @@ That horror had threatened them in Asiatic Albigensianism, but it
 never became normal to them--until now.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Gli errori popolari hanno quasi sempre ragione.  Quasi sempre si
+riferiscono a qualche realtà ultima, riguardo alla quale coloro che
+li correggono sono essi stessi in errore.  È cosa assai curiosa che
+l'"[[Love|amore]] platonico" sia venuto a significare, per gli incolti,
+qualcosa di più puro e più netto di quanto significhi per i dotti.
+Eppure anche coloro che si rendono conto del grande male greco possono
+[[Well|ben]] rendersi conto che la perversità nasce spesso dal genere
+sbagliato di purezza.  Ora, era la menzogna più intima dei Manichei
+l'identificare la purezza con la sterilità.  Ciò contrasta in modo
+singolare con il linguaggio di san Tommaso, che collega sempre la
+purezza con la fecondità; sia essa naturale o [[Supernatural|soprannaturale]].
+E, per quanto strano, come ho detto, permane una sorta di realtà nel
+volgare modo di dire secondo cui la faccenda tra Tizio e Caia è "del
+tutto platonica."  È vero che, del tutto a parte la perversione locale,
+c'era in Platone una sorta di idea per cui gli uomini starebbero meglio
+senza il loro corpo:  che le loro teste potrebbero volar via e
+incontrarsi nel cielo in un [[Marriage|matrimonio]] puramente intellettuale,
+come cherubini in un quadro.  La fase ultima di questa [[philosophy|filosofia]]
+"platonica" fu ciò che infiammò il povero D. H. Lawrence a dire
+sciocchezze, ed egli probabilmente ignorava che la dottrina cattolica
+del [[Marriage|matrimonio]] avrebbe detto gran parte di ciò che egli diceva,
+senza dire sciocchezze.  Comunque sia, è storicamente importante vedere
+che l'[[Love|amore]] platonico distorse in qualche misura tanto l'amore umano
+quanto l'[[Divine Love|amore divino]], nella teoria dei primi teologi.  Molti
+uomini del medioevo, che avrebbero negato con indignazione la dottrina
+albigese della sterilità, erano tuttavia in uno stato d'animo emotivo
+tale da abbandonare il [[Body|corpo]] nella [[Despair|disperazione]]; e alcuni di
+loro tali da abbandonare ogni cosa nella [[Despair|disperazione]].
+
+In [[Truth|verità]], ciò illumina vividamente la stupidità provinciale di
+coloro che si oppongono a quelli che chiamano "credi e dogmi."
+Fu precisamente il credo e il dogma a salvare la [[Sanity|sanità mentale]]
+del mondo.  Costoro propongono generalmente una religione alternativa
+di intuizione e sentimento.  Se, nei Secoli davvero Bui, ci fosse stata
+una religione del sentimento, sarebbe stata una religione di sentimenti
+oscuri e suicidi.  Fu il rigido credo a resistere all'irrompere del
+sentimento suicida.  I critici dell'ascetismo hanno probabilmente ragione
+nel supporre che molti eremiti d'Occidente si sentissero piuttosto come
+un fachiro d'Oriente.  Ma egli non poteva davvero pensare come un fachiro
+d'Oriente; perché era un cattolico ortodosso.  E ciò che teneva il suo
+pensiero in contatto con un pensiero più sano e più umanistico era
+semplicemente e unicamente il Dogma.  Egli non poteva negare che un Dio
+buono avesse creato il mondo normale e naturale; non poteva dire che il
+diavolo avesse fatto il mondo; perché non era un Manicheo.  Un migliaio
+di entusiasti del celibato, nel giorno della grande corsa verso il
+[[Desert|deserto]] o il chiostro, avrebbero potuto chiamare il [[Marriage|matrimonio]]
+un peccato, se avessero considerato soltanto i loro ideali individuali,
+alla maniera moderna, e i loro immediati sentimenti riguardo al
+[[Marriage|matrimonio]].  Fortunatamente, essi dovevano accettare l'Autorità della
+Chiesa, che aveva definitivamente affermato che il [[Marriage|matrimonio]] non era
+peccato.  Una moderna religione emotiva avrebbe potuto in qualunque
+momento trasformare il cattolicesimo in manicheismo.  Ma quando la
+Religione avrebbe reso folli gli uomini, la Teologia li mantenne sani.
+
+In questo senso san Tommaso si erge semplicemente come il grande
+teologo ortodosso, che rammentò agli uomini il credo della Creazione,
+quando molti di loro erano ancora nell'animo della mera distruzione.
+È inutile che i critici del medievalismo citino un centinaio di frasi
+medievali che si possono supporre suonare come mero pessimismo, se non
+vogliono comprendere il fatto centrale; che gli uomini del medioevo non
+si curavano di essere medievali e non accettavano l'autorità di uno
+stato d'animo, perché fosse [[Melancholy|malinconico]], ma si curavano moltissimo
+dell'ortodossia, che non è uno stato d'animo.  Fu perché san Tommaso
+poté provare che la sua glorificazione del Creatore e della Sua gioia
+creatrice era più ortodossa di qualunque pessimismo atmosferico, che egli
+dominò la Chiesa e il mondo, i quali accettarono quella [[Truth|verità]] come
+banco di prova.  Ma quando si sia tenuto conto di questa immensa e
+impersonale importanza, possiamo convenire che vi era anche un elemento
+personale.  Come la maggior parte dei grandi maestri religiosi, egli
+era individualmente adatto al compito che Dio gli aveva dato da svolgere.
+Possiamo, se ci piace, chiamare quel talento istintivo; possiamo perfino
+scendere a chiamarlo temperamentale.
+
+Chiunque cerchi di divulgare un filosofo medievale deve usare un
+linguaggio assai moderno e assai poco filosofico.  Né questo è un
+sarcasmo contro la modernità; esso deriva dal fatto che i moderni si
+sono occupati tanto di stati d'animo ed emozioni, specialmente nelle
+arti, da aver sviluppato un vocabolario ampio ma vago, che tratta più
+di atmosfera che di effettivo atteggiamento o posizione.  Come si è
+notato altrove, perfino i filosofi moderni somigliano più ai poeti
+moderni; nel dare una tinta individuale perfino alla [[Truth|verità]], e nel
+guardare spesso tutta la vita attraverso occhiali di diverso colore.
+Dire che Schopenhauer aveva il malumore, o che William James aveva una
+prospettiva alquanto più rosea, spesso comunicherebbe di più che
+chiamare l'uno un Pessimista e l'altro un Pragmatista.  Questo umoralismo
+moderno ha il suo valore, benché i moderni lo sopravvalutino; proprio
+come la [[logic|logica]] medievale aveva il suo valore, benché fosse
+sopravvalutata nel tardo Medioevo.  Ma il punto è che, per spiegare i
+medievali ai moderni, dobbiamo spesso usare questo linguaggio moderno
+dello stato d'animo.  Altrimenti il carattere andrà perduto, a causa di
+certi pregiudizi e ignoranze intorno a tutti questi caratteri medievali.
+Ora, c'è qualcosa che si stende su tutta l'opera di san Tommaso
+[[aquinas|d'Aquino]] come una grande luce:  qualcosa di del tutto primario e
+forse inconscio in lui, che egli avrebbe forse trascurato come una
+qualità personale irrilevante; e che ora può essere espresso soltanto
+con un termine giornalistico piuttosto dozzinale, che egli avrebbe
+probabilmente ritenuto del tutto insensato.
+
+Nondimeno, l'unica parola utilizzabile per quell'atmosfera è Ottimismo.
+So che la parola è oggi ancora più degradata nel ventesimo secolo di
+quanto lo fosse nel diciannovesimo.  Gli uomini hanno parlato di recente
+di essere Ottimisti circa l'esito della Guerra; parlano ora di essere
+Ottimisti circa la ripresa del Commercio; potranno parlare domani di
+essere Ottimisti circa il Torneo Internazionale di Ping-pong.  Ma gli
+uomini del [[Time|tempo]] vittoriano intendevano un poco più di questo, quando
+usavano la parola Ottimista a proposito di Browning o di Stevenson o di
+Walt Whitman.  E in un senso piuttosto più ampio e più luminoso che nel
+caso di questi uomini, il termine era fondamentalmente vero di Tommaso
+[[aquinas|d'Aquino]].  Egli credeva, con la più solida e colossale convinzione,
+nella Vita:  e in qualcosa di simile a ciò che Stevenson chiamava il
+grande teorema della vivibilità della vita.  Ciò spira in qualche modo
+già nelle sue primissime frasi sulla realtà dell'Essere.  Se si suppone
+che il morboso intellettuale del [[Renaissance|Rinascimento]] dica: "Essere o non
+essere--questo è il problema," allora il massiccio dottore medievale di
+certo risponde con voce di tuono: "Essere--questa è la risposta."
+Il punto è importante; molti, non innaturalmente, parlano del
+[[Renaissance|Rinascimento]] come del [[Time|tempo]] in cui certi uomini cominciarono a
+credere nella Vita.  La [[Truth|verità]] è che fu il [[Time|tempo]] in cui pochi
+uomini, per la prima [[Time|volta]], cominciarono a non credere nella Vita.
+I medievali avevano posto molte restrizioni, e alcune restrizioni
+eccessive, all'universale fame umana e perfino furia di Vita.  Quelle
+restrizioni erano state spesso espresse in termini fanatici e rabbiosi;
+i termini di chi resiste a una grande forza naturale; la forza di uomini
+che desideravano vivere.  Mai, fino a quando cominciò il pensiero
+moderno, essi dovettero davvero combattere con uomini che desideravano
+morire.  Quell'orrore li aveva minacciati nell'albigismo asiatico, ma
+non divenne mai normale per loro--fino a ora.
+
 
 
 <span class="atom-split" data-atom="chapter_04--part_05" data-title="St. Thomas Aquinas — Chapter 4 (part 5)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="motif/cross,motif/dance,motif/hill,motif/silence,motif/well,motif/wheel,concept/charity,concept/comradeship,concept/despair,concept/doubt,concept/faith,concept/freedom,concept/renunciation,concept/sublime,form/sketch,character/aquinas,character/chorus,character/christ"></span>
@@ -7910,6 +10487,114 @@ Whether or no he baptised Aristotle, he was truly the godfather
 of Aristotle, he was his sponsor; he swore that the old Greek would
 do no harm; and the whole world trusted his word.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Ma questo fatto diviene assai vivido, in verità, quando confrontiamo
+il più grande dei filosofi cristiani con i soli uomini che fossero in
+qualche modo suoi pari, o capaci di essergli rivali.  Erano persone con
+cui egli non disputò direttamente; la maggior parte di loro non li aveva
+mai visti; di alcuni non aveva mai sentito parlare.  Platone e Agostino
+erano i due soli con cui poteva confrontarsi come faceva con Bonaventura
+o perfino con Averroè.  Ma dobbiamo cercare altrove i suoi veri rivali,
+e i soli veri rivali della teoria cattolica.  Essi sono i capi di grandi
+sistemi pagani; alcuni assai antichi, altri assai moderni, come Budda da
+un lato o Nietzsche dall'altro.  È quando vediamo la sua gigantesca
+figura contro questo vasto e cosmico sfondo, che ci rendiamo conto,
+primo, che egli fu il solo teologo ottimista, e secondo, che il
+cattolicesimo è la sola teologia ottimista.  Qualcosa di più mite e più
+amabile può ricavarsi dalla deliquescenza della teologia, e dalla
+mescolanza del credo con tutto ciò che lo contraddice; ma tra i coerenti
+credi cosmici, questo è il solo che sia interamente dalla parte della Vita.
+
+La religione comparata ci ha in effetti permesso di comparare le
+religioni--e di contrapporle.  Cinquant'anni fa, essa si accinse a
+provare che tutte le religioni erano press'a poco uguali; provando in
+genere, alternativamente, che erano tutte ugualmente degne e che erano
+tutte ugualmente indegne.  Da allora questo processo scientifico ha
+d'un tratto cominciato a essere scientifico, e ha scoperto le profondità
+degli abissi non meno delle altezze dei colli.  È in effetti un eccellente
+progresso che le persone sinceramente religiose si rispettino a vicenda.
+Ma il rispetto ha scoperto la differenza, là dove il disprezzo conosceva
+solo l'indifferenza.  Quanto più apprezziamo davvero la nobile ripulsa
+e [[Renunciation|rinuncia]] di Budda, tanto più vediamo che intellettualmente essa
+era l'inverso e quasi il contrario della salvezza del mondo per opera
+di [[Christ|Cristo]].  Il cristiano fuggirebbe dal mondo nell'universo:  il
+buddista desidera fuggire dall'universo ancor più che dal mondo.
+L'uno si dis-creerebbe; l'altro ritornerebbe alla sua Creazione:  al suo
+Creatore.  Invero era così genuinamente l'inverso dell'idea della
+[[Cross|Croce]] come Albero della Vita, che vi è qualche scusa nel porre le
+due cose l'una accanto all'altra, come se fossero di uguale significato.
+Esse sono in un certo senso parallele e uguali; come un monticello e una
+cavità, come una valle e un [[Hill|colle]].  C'è un senso in cui quella
+[[Sublime|sublime]] [[Despair|disperazione]] è la sola alternativa a quella divina
+audacia.  È perfino vero che l'uomo veramente spirituale e intellettuale
+la vede come una sorta di dilemma; una scelta assai dura e terribile.
+Poco altro vi è sulla terra che possa reggere il confronto con queste
+due cose quanto a completezza.  E colui che non vuole scalare la montagna
+di [[Christ|Cristo]] cade davvero nell'abisso di Budda.
+
+Lo stesso è vero, in maniera meno lucida e dignitosa, della maggior
+parte delle altre alternative dell'umanità pagana; quasi tutte sono
+risucchiate in quel gorgo della ricorrenza che tutti gli antichi
+conobbero.  Quasi tutte ritornano all'unica idea del ritornare.  È ciò
+che Budda descrisse così tenebrosamente come la Ruota Dolorosa.  È vero
+che quel genere di ricorrenza che Budda descrisse come la Ruota Dolorosa,
+il povero Nietzsche riuscì effettivamente a descriverlo come la Gaia
+Scienza.  Posso solo dire che se la nuda ripetizione era la sua idea di
+Gaia Scienza, sarei curioso di sapere quale fosse la sua idea di Triste
+Scienza.  Ma di fatto, nel caso di Nietzsche, ciò non apparteneva al
+momento del suo prorompere, bensì al momento del suo crollo.  Esso venne
+alla fine della sua vita, quando era vicino al collasso mentale; ed è
+davvero del tutto contrario alle sue precedenti e più nobili ispirazioni
+di selvaggia [[Freedom|libertà]] o di fresca e creativa innovazione.  Almeno
+una volta egli aveva tentato di prorompere; ma anche lui fu solo
+spezzato--sulla [[Wheel|ruota]].
+
+[[Alone|Sola]] sulla terra, e sollevata e liberata da tutte le ruote e i gorghi
+della terra, si erge la [[Faith|fede]] di san Tommaso:  gravata e bilanciata,
+in verità, da più che orientale metafisica e più che pagana pompa e
+sfarzo; ma vitalmente e vividamente [[Alone|sola]] nel dichiarare che la vita
+è una storia vivente, con un grande principio e un grande epilogo;
+radicata nella primeva gioia di Dio e che trova il suo compimento nella
+felicità ultima dell'umanità; che si apre con il colossale [[Chorus|coro]] in
+cui i figli di Dio gridarono di gioia, e si chiude in quella mistica
+[[Comradeship|fratellanza]], mostrata in modo ombroso in quelle antiche parole che si
+muovono come una arcaica [[Dance|danza]]; "Poiché la Sua delizia è con i figli
+degli uomini."
+
+È il destino di questo [[Sketch|schizzo]] essere schematico sulla [[philosophy|filosofia]],
+scarno o piuttosto vuoto sulla teologia, e raggiungere poco più di un
+decoroso [[Silence|silenzio]] sul tema della santità.  E tuttavia deve
+nondimeno essere il ritornello ricorrente di questo piccolo libro, al
+quale esso deve tornare con una certa monotonia, che in questa storia la
+[[philosophy|filosofia]] dipendeva dalla teologia, e la teologia dipendeva dalla
+santità.  In altre parole, esso deve ripetere il primo fatto, che fu
+sottolineato nel primo capitolo:  che questa grande creazione
+intellettuale fu una creazione cristiana e cattolica e non può essere
+compresa come alcunché d'altro.  Fu [[aquinas|d'Aquino]] a battezzare Aristotele,
+quando Aristotele non avrebbe potuto battezzare [[aquinas|d'Aquino]]; fu un
+miracolo puramente cristiano a risuscitare dai morti il grande Pagano.
+E ciò è provato in tre modi (come lo stesso san Tommaso direbbe), che
+sarà [[Well|bene]] riassumere come una sorta di sommario di questo libro.
+
+Primo, nella vita di san Tommaso, ciò è provato dal fatto che soltanto
+la sua immensa e solida ortodossia poteva sostenere tante cose che
+allora sembravano non ortodosse.  La [[Charity|carità]] copre una moltitudine
+di peccati; e in quel senso l'ortodossia copre una moltitudine di eresie;
+o di cose che vengono frettolosamente scambiate per eresie.  Fu
+precisamente perché il suo cattolicesimo personale era così convincente,
+che al suo impersonale aristotelismo fu concesso il beneficio del
+[[Doubt|dubbio]].  Egli non puzzava di fascina perché puzzava di tizzone; di
+quel tizzone che aveva così istantaneamente e istintivamente afferrato,
+sotto un reale assalto all'etica cattolica essenziale.  Una tipicamente
+cinica frase moderna allude all'uomo che è così buono da non essere buono
+a nulla.  San Tommaso era così buono da essere buono a tutto; sicché la
+sua garanzia valeva per ciò che altri consideravano le più selvagge e
+ardite speculazioni, culminanti nel culto del nulla.  Che avesse o no
+battezzato Aristotele, egli fu veramente il padrino di Aristotele, fu il
+suo garante; giurò che il vecchio Greco non avrebbe fatto alcun male; e
+il mondo intero si fidò della sua parola.
 
 
 
@@ -8025,6 +10710,116 @@ always a tangle of two or three roughly recognizable types.
 St. Thomas was of a certain type, which is not so much common in [[Italy]],
 as common to uncommon Italians.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Secondo, nella [[philosophy|filosofia]] di san Tommaso, ciò è provato dal fatto
+che tutto dipendeva dal nuovo motivo cristiano per lo studio dei fatti,
+distinti dalle verità.  La [[philosophy|filosofia]] tomista cominciava dalle più
+basse radici del pensiero, i sensi e i truismi della ragione; e un saggio
+pagano avrebbe potuto disprezzare tali cose, come disprezzava le arti
+servili.  Ma il materialismo, che in un pagano è mero cinismo, può essere
+[[Humility|umiltà]] cristiana in un cristiano.  San Tommaso era disposto a
+cominciare registrando i fatti e le sensazioni del mondo materiale,
+proprio come sarebbe stato disposto a cominciare lavando i piatti e le
+stoviglie nel monastero.  Il punto del suo aristotelismo era che, anche
+se il senso comune riguardo alle cose concrete era davvero una sorta di
+lavoro servile, egli non doveva vergognarsi di essere servus servorum
+Dei.  Tra i pagani il mero scettico poteva diventare il mero cinico;
+Diogene nella sua botte aveva sempre un che del comiziante da strapazzo;
+ma perfino la sozzura dei cinici veniva nobilitata in [[Dust|polvere]] e cenere
+tra i santi.  Se questo ci sfugge, ci sfugge l'intero significato della
+più grande rivoluzione della [[history|storia]].  C'era un nuovo motivo per
+cominciare dalle cose più materiali, e perfino dalle più umili.
+
+Terzo, nella teologia di san Tommaso, ciò è provato dalla tremenda
+[[Truth|verità]] che sostiene tutta quella teologia; o qualunque altra teologia
+cristiana.  C'era davvero una nuova ragione per considerare i sensi, e le
+sensazioni del [[Body|corpo]], e le esperienze dell'[[Common Man|uomo comune]], con una
+reverenza dinanzi alla quale il grande Aristotele avrebbe sgranato gli
+occhi, e che nessun uomo del mondo antico avrebbe potuto cominciare a
+comprendere.  Il [[Body|Corpo]] non era più ciò che era quando Platone e
+Porfirio e gli antichi mistici lo avevano lasciato per morto.  Esso era
+stato appeso a un patibolo.  Era risorto da una tomba.  Non era più
+possibile per l'[[Soul|anima]] disprezzare i sensi, che erano stati gli organi
+di qualcosa che era più che umano.  Platone poteva disprezzare la carne;
+ma Dio non l'aveva disprezzata.  I sensi erano veramente divenuti
+santificati; come vengono benedetti a uno a uno in un battesimo cattolico.
+"Vedere è credere" non era più la banalità di un mero idiota, o di un
+individuo qualunque, come nel mondo di Platone; esso era mescolato con le
+reali condizioni della reale fede.  Quegli specchi rotanti che mandano
+messaggi al cervello dell'uomo, quella luce che si infrange sul cervello,
+questi avevano veramente rivelato a Dio stesso il sentiero verso Betania
+o la luce sull'alta rupe di Gerusalemme.  Queste orecchie che risuonano
+di rumori comuni avevano riferito anche alla segreta conoscenza di Dio il
+frastuono della folla che spargeva palme e della folla che gridava per la
+Crocifissione.  Dopo che l'Incarnazione era divenuta l'idea centrale nella
+nostra civiltà, era inevitabile che vi fosse un ritorno al materialismo,
+nel senso del serio valore della materia e del fare del [[Body|corpo]].
+Una volta che [[Christ|Cristo]] fosse risorto, era inevitabile che Aristotele
+dovesse risorgere di nuovo.
+
+Queste sono tre vere ragioni, e ragioni assai sufficienti, per il
+generale sostegno dato dal santo a una filosofia solida e oggettiva.
+E tuttavia c'era qualcos'altro, assai vasto e vago, a cui ho tentato di
+dare una debole espressione con l'interposizione di questo capitolo.
+È difficile esprimerlo pienamente, senza l'orribile pericolo di essere
+popolare, o di ciò che i Modernisti immaginano del tutto a torto essere
+popolare; in breve, passando dalla religione alla religiosità.  Ma c'è un
+generale tono e temperamento di [[aquinas|d'Aquino]], che è difficile evitare
+quanto la luce del giorno in una [[Great House|grande casa]] di finestre.  È quella
+positiva posizione della sua mente, che è colma e impregnata come di sole
+del calore della [[Wonder|meraviglia]] delle cose create.  C'è una certa privata
+audacia, nella sua comunione, per cui gli uomini aggiungono ai loro nomi
+privati i tremendi titoli della Trinità e della Redenzione; così che
+qualche monaca può essere chiamata "dello Spirito [[Ghost|Santo]];" o un uomo
+portare un fardello quale il titolo di san Giovanni della [[Cross|Croce]].
+In questo senso, l'uomo che studiamo può specialmente essere chiamato san
+Tommaso del Creatore.  Gli Arabi hanno una frase sui cento nomi di Dio;
+ma essi ereditano anche la tradizione di un tremendo nome indicibile
+perché esprime l'Essere stesso, muto eppure terribile come un istantaneo
+grido inudibile; la proclamazione dell'Assoluto.  E forse nessun altro
+uomo giunse mai così vicino a chiamare il Creatore con il Suo proprio
+nome, che può soltanto scriversi Io Sono.
+
+--/--
+
+V LA VERA VITA DI SAN TOMMASO
+
+A questo punto, anche uno [[Sketch|schizzo]] così rozzo ed esteriore di un grande
+santo comporta la necessità di scrivere qualcosa che non può armonizzarsi
+con il resto; l'unica cosa che è importante scrivere e impossibile
+scrivere.  Un santo può essere qualunque tipo d'uomo, con una qualità
+aggiuntiva che è al contempo unica e universale.  Potremmo perfino dire
+che l'unica cosa che separa un santo dagli uomini comuni è la sua
+prontezza a essere una cosa sola con gli uomini comuni.  In questo senso
+la parola comune deve essere intesa nel suo significato originario e
+nobile; che è connesso con la parola ordine.  Un santo ha da lungo tempo
+superato ogni [[Desire|desiderio]] di distinzione; è il solo genere di uomo
+superiore che non sia mai stato una persona superiore.  Ma tutto ciò
+sorge da un grande fatto centrale, che egli non si degna di chiamare un
+privilegio, ma che è nella sua stessa [[Nature|natura]] una sorta di privatezza;
+e in quel senso quasi una forma di proprietà privata.  Come con ogni sana
+proprietà privata, gli basta possederla, e non [[Desire|desidera]] limitare il
+numero di persone che la possiedono.  Egli cerca sempre di nasconderla,
+per una sorta di celeste buona creanza; e Tommaso [[aquinas|d'Aquino]] cercò di
+nasconderla più di quasi tutti.  Per raggiungerla, nella misura in cui
+possiamo raggiungerla, sarà meglio cominciare dagli strati superiori; e
+raggiungere ciò che stava dentro a partire da ciò che era più cospicuo
+all'esterno.
+
+L'aspetto o la presenza corporea di san Tommaso [[aquinas|d'Aquino]] è in verità
+più facile da resuscitare di quella di molti che vissero prima dell'età
+della ritrattistica.  Si è detto che nel suo essere o portamento corporeo
+c'era poco dell'italiano; ma questo è, nel migliore dei casi, immagino,
+un inconscio confronto tra san Tommaso e san Francesco; e nel peggiore,
+solo un confronto tra lui e la frettolosa leggenda dei vivaci suonatori
+d'organetto e degli incendiari venditori di gelati.  Non tutti gli
+italiani sono vivaci suonatori d'organetto, e assai pochi italiani sono
+come san Francesco.  Una nazione non è mai un tipo, ma è quasi sempre un
+groviglio di due o tre tipi grossolanamente riconoscibili.  San Tommaso
+era di un certo tipo, che non è tanto comune in [[Italy|Italia]], quanto comune
+agli italiani non comuni.
 
 
 
@@ -8150,6 +10945,122 @@ and in that chase he was truly to be counted among the domini canes;
 and surely the mightiest and most magnanimous of the Hounds of Heaven.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+La sua mole rendeva facile considerarlo scherzosamente come una specie
+di botte di vino ambulante, comune nelle commedie di molte nazioni:
+egli stesso ci scherzava su.  Può darsi che sia stato lui, e non qualche
+partigiano irritato del partito agostiniano o arabo, il responsabile
+della [[Sublime|sublime]] esagerazione secondo cui una mezzaluna sarebbe stata
+ritagliata nella tavola da pranzo per permettergli di sedersi.  È del
+tutto certo che si trattò di un'esagerazione; e che la sua statura fu più
+notata della sua corpulenza; ma, soprattutto, che la sua testa era assai
+possente da dominare il suo [[Body|corpo]].  E la sua testa era di un tipo assai
+reale e riconoscibile, a giudicare dai ritratti tradizionali e dalle
+descrizioni personali.  Era quella sorta di testa dal mento e dalle
+mascelle pesanti, dal naso romano e dalla grande fronte piuttosto calva,
+che, malgrado la sua pienezza, dà anche una curiosa impressione concava
+di cavità qua e là, come caverne di pensiero.  Napoleone portava quella
+testa su un [[Body|corpo]] corto.  Mussolini la porta oggi, su uno piuttosto più
+alto ma altrettanto attivo.  La si può vedere nei busti di parecchi
+imperatori romani, e occasionalmente sopra lo sparato liso di un cameriere
+italiano; ma questi è generalmente un capocameriere.  Tanto inconfondibile
+è il tipo, che non posso non pensare che il più vivido [[Villain|malvagio]] della
+narrativa leggera, nel romanzo sensazionale vittoriano intitolato 'La
+donna in bianco', sia stato davvero abbozzato da Wilkie Collins da un
+vero Conte italiano; egli è un contrasto così completo con il convenzionale
+[[Villain|malvagio]] smilzo, olivastro e gesticolante che i vittoriani presentavano
+comunemente come un Conte italiano.  Il conte Fosco, come qualcuno forse
+ricorderà (lo [[Hope|spero]]), era un signore calmo, corpulento, colossale, la
+cui testa era esattamente come un busto di Napoleone di dimensioni
+eroiche.  Poteva essere un [[Villain|malvagio]] melodrammatico; ma era un italiano
+discretamente convincente--di quel tipo.  Se richiamiamo alla mente il
+suo modo tranquillo, e l'eccellente senso comune delle sue quotidiane
+parole e azioni esteriori, avremo probabilmente una semplice immagine
+materiale del tipo di Tommaso [[aquinas|d'Aquino]]; dato solo il lieve sforzo di
+[[Faith|fede]] richiesto per immaginare il conte Fosco trasformato d'un tratto in
+un santo.
+
+I dipinti di san Tommaso, benché molti di essi siano stati dipinti a
+lungo dopo la sua [[Death|morte]], sono tutti evidentemente ritratti dello stesso
+uomo.  Egli si erge in atteggiamento di sfida, con la testa napoleonica e
+l'oscura mole del [[Body|corpo]], nella "Disputa del Sacramento" di Raffaello.
+Un ritratto del Ghirlandaio mette in risalto un punto che rivela in modo
+speciale ciò che si può chiamare la trascurata qualità italiana
+nell'uomo.  Mette anche in risalto punti che sono assai importanti nel
+mistico e nel filosofo.  È universalmente attestato che [[aquinas|d'Aquino]] era
+ciò che comunemente si chiama un uomo distratto.  Quel tipo è stato spesso
+reso in pittura, in modo umoristico o serio; ma quasi sempre in uno di due
+o tre modi convenzionali.  Talvolta l'espressione degli occhi è
+semplicemente vacua, come se la distrazione significasse davvero una
+permanente assenza di mente.  Talvolta viene resa più rispettosamente come
+un'espressione malinconica, come di chi anela a qualcosa di lontano, che
+non può vedere e può solo debolmente [[Desire|desiderare]].  Guardate gli occhi
+nel ritratto di san Tommaso del Ghirlandaio; e vedrete una netta
+differenza.  Mentre gli occhi sono davvero completamente strappati dai
+dintorni immediati, così che il vaso di [[Flowers|fiori]] sopra la testa del
+filosofo potrebbe cadervi sopra senza attirare la sua attenzione, essi non
+sono affatto malinconici, tanto meno vacui.  In essi è acceso un [[Fire|fuoco]]
+di istantanea eccitazione interiore; sono occhi vividi e assai italiani.
+L'uomo sta pensando a qualcosa; e a qualcosa che è giunto a una crisi;
+non a nulla o a qualcosa di generico; o, ciò che è quasi peggio, a ogni
+cosa.  Doveva esserci quella covante vigilanza nei suoi occhi, l'istante
+prima che percuotesse la tavola e facesse sobbalzare la sala del banchetto
+del [[King|Re]].
+
+Delle abitudini personali che accompagnano la fisicità personale, abbiamo
+pure alcune impressioni convincenti e confermanti.  Quando non se ne
+stava seduto immobile, a leggere un libro, camminava tutt'intorno ai
+chiostri e camminava svelto e perfino furiosamente, azione assai
+caratteristica degli uomini che combattono le loro battaglie nella mente.
+Ogni volta che veniva interrotto era assai cortese e più incline a
+scusarsi di chi si scusava.  Ma c'era in lui qualcosa che suggeriva che
+era piuttosto più felice quando non veniva interrotto.  Era pronto a
+fermare il suo cammino veramente peripatetico:  ma sentiamo che, quando lo
+riprendeva, camminava tanto più veloce.
+
+Tutto ciò suggerisce che la sua superficiale astrazione, quella che il
+mondo vedeva, era di un certo genere.  Sarà [[Well|bene]] comprendere la
+qualità, poiché vi sono parecchi generi di assenza di mente, incluso
+quello di certi pretenziosi poeti e intellettuali, nei quali la mente non
+è mai stata percettibilmente presente.  C'è l'astrazione del contemplativo,
+che egli sia il vero tipo di contemplativo cristiano, che contempla
+Qualcosa, o il tipo sbagliato di contemplativo orientale, che contempla il
+Nulla.  Evidentemente san Tommaso non era un mistico buddista; ma non credo
+che i suoi accessi di astrazione fossero neppure quelli di un mistico
+cristiano.  Se aveva estasi di vero misticismo cristiano, si guardava assai
+bene dal farle accadere alle tavole da pranzo altrui.  Credo che avesse
+quella sorta di accesso di trasognamento, che appartiene davvero all'uomo
+pratico più che all'uomo interamente mistico.  Egli usa la riconosciuta
+distinzione tra la vita attiva e la vita contemplativa, ma nei casi qui
+in questione, credo che perfino la sua vita contemplativa fosse una vita
+attiva.  Ciò non aveva nulla a che fare con la sua vita superiore, nel
+senso della santità ultima.  Ci rammenta piuttosto che Napoleone cadeva
+in un accesso di apparente noia all'Opera, e in seguito confessava che
+stava pensando a come far combinare tre corpi d'armata a Francoforte con
+due corpi d'armata a Colonia.  Così, nel caso di [[aquinas|d'Aquino]], se le sue
+fantasticherie erano [[Dreams|sogni]], erano [[Dreams|sogni]] del giorno; e [[Dreams|sogni]] del
+giorno della battaglia.  Se parlava tra sé, era perché stava discutendo
+con qualcun altro.  Possiamo dirlo in un altro modo, dicendo che le sue
+fantasticherie, come i [[Dreams|sogni]] di un cane, erano [[Dreams|sogni]] di caccia; di
+inseguire l'errore non meno che di inseguire la [[Truth|verità]]; di seguire
+tutte le giravolte e i rigiri della sfuggente falsità, e di stanarla
+infine nel suo covo all'inferno.  Egli sarebbe stato il primo ad
+ammettere che il pensatore in errore sarebbe stato probabilmente più
+sorpreso di apprendere da dove veniva il suo pensiero, di quanto chiunque
+altro nel scoprire dove esso andasse.  Ma questa nozione dell'inseguire
+egli certamente l'aveva, e fu il principio di un migliaio di errori e di
+fraintendimenti il fatto che l'inseguire si chiami in latino Persecuzione.
+Nessuno ebbe meno di lui di ciò che comunemente si chiama il temperamento
+di un persecutore; ma egli aveva quella qualità che in tempi disperati
+viene spesso spinta a perseguitare; e cioè semplicemente il senso che
+ogni cosa vive da qualche parte, e nulla muore a meno che non muoia nella
+sua propria [[Home|dimora]].  Che egli talvolta, in questo senso, incalzasse nei
+[[Dreams|sogni]] l'ombrosa caccia perfino in pieno giorno, è del tutto vero.  Ma
+egli era un sognatore attivo, se non ciò che comunemente si chiama un uomo
+d'azione; e in quella caccia egli era veramente da annoverare tra i domini
+canes; e sicuramente il più possente e magnanimo dei Segugi del Cielo.
+
 
 
 <span class="atom-split" data-atom="chapter_04--part_08" data-title="St. Thomas Aquinas — Chapter 4 (part 8)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="topos/double,archetype/artist,archetype/king,motif/fire,motif/nature,motif/ship,motif/time,motif/well,concept/imagination,concept/nature,setting/ship,character/aquinas,character/christ"></span>
@@ -8260,6 +11171,116 @@ of evidence.  But there are certainly fewer of them, known to the world,
 than in the case of many saints equally sincere and even equally modest,
 but more preoccupied with zeal and less sensitive about publicity.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Vi possono essere molti che non comprendono la [[Nature|natura]] anche solo di
+questo genere di astrazione.  Ma poi, sfortunatamente, vi sono molti che
+non comprendono la [[Nature|natura]] di alcun genere di argomentazione.  In verità,
+credo che vi siano meno persone in vita ora che comprendono
+l'argomentazione di quante ve ne fossero venti o trent'anni fa; e san
+Tommaso avrebbe forse preferito la compagnia degli atei del primo
+Ottocento a quella dei vacui scettici del primo Novecento.  Comunque sia,
+uno dei reali svantaggi del grande e glorioso sport, che si chiama
+argomentazione, è la sua smisurata lunghezza.  Se si argomenta
+onestamente, come san Tommaso faceva sempre, si troverà che l'argomento
+talvolta sembra come se non dovesse finire mai.  Egli era fortemente
+consapevole di questo fatto, come appare in molti luoghi; per esempio nel
+suo argomento secondo cui la maggior parte degli uomini deve avere una
+religione rivelata, perché non ha il [[Time|tempo]] di argomentare.  Non ha il
+[[Time|tempo]], cioè, di argomentare lealmente.  C'è sempre [[Time|tempo]] di
+argomentare slealmente; non ultimo in un [[Time|tempo]] come il nostro.  Essendo
+egli stesso risoluto ad argomentare, ad argomentare onestamente, a
+rispondere a tutti, a trattare di ogni cosa, produsse libri a sufficienza
+per affondare una [[Ship|nave]] o rifornire una biblioteca; benché morisse in
+un'età di mezzo comparativamente precoce.  Probabilmente non avrebbe
+potuto farlo affatto, se non avesse pensato anche quando non scriveva; ma
+soprattutto se non avesse pensato combattivamente.  Ciò, nel suo caso, non
+significava certo in modo amaro o astioso o poco caritatevole; ma
+significava in modo combattivo.  Di fatto, è generalmente l'uomo che non
+è pronto ad argomentare, colui che è pronto a sogghignare.  È per questo
+che, nella letteratura recente, c'è stata così poca argomentazione e così
+tanto sogghignare.
+
+Abbiamo notato che vi sono a malapena una o due occasioni in cui san
+Tommaso si abbandonò a una denuncia.  Non c'è una sola occasione in cui
+si abbandonò a un sogghigno.  Il suo carattere curiosamente semplice, il
+suo intelletto lucido ma laborioso, non potrebbero essere meglio riassunti
+che dicendo che egli non sapeva sogghignare.  Egli era in [[Double|duplice]] senso
+un [[aristocrat|aristocratico]] intellettuale:  ma non fu mai uno snob intellettuale.
+Non si dava mai alcuna pena se coloro con cui parlava fossero più o meno
+del genere che il mondo ritiene degno di essere ascoltato:  ed era palese,
+dall'impressione dei suoi contemporanei, che coloro che ricevevano le
+comuni briciole del suo spirito o della sua saggezza erano tanto
+probabilmente dei nessuno quanto dei qualcuno, o perfino tanto
+probabilmente degli sciocchi quanto delle persone intelligenti.  Egli si
+interessava alle anime di tutte le sue creature simili, ma non a
+classificare le menti di nessuna di esse; in un senso ciò era troppo
+personale e in un altro senso troppo arrogante per la sua particolare
+mente e temperamento.  Egli era assai interessato all'argomento di cui
+parlava; e può talvolta aver parlato a lungo, benché fosse probabilmente
+silenzioso per un [[Time|tempo]] assai più lungo.  Ma egli aveva tutto quel
+inconscio disprezzo che i davvero intelligenti hanno per un'intellighenzia.
+
+Come la maggior parte degli uomini che si occupano dei problemi comuni
+degli uomini, egli sembra aver avuto una considerevole corrispondenza;
+considerando che la corrispondenza era assai più difficile ai suoi
+[[Time|tempi]].  Abbiamo notizia di moltissimi casi in cui perfetti sconosciuti
+gli scrivevano per porgli domande, e talvolta domande piuttosto ridicole.
+A tutte queste egli rispondeva con una caratteristica mescolanza di
+pazienza e di quella sorta di razionalità, che in certe persone razionali
+tende a essere impazienza.  Qualcuno, per esempio, gli chiese se i nomi
+di tutti i beati fossero scritti su un rotolo esposto in cielo.  Egli
+rispose per iscritto con instancabile calma; "Per quanto posso vedere,
+non è così; ma non c'è alcun male nel dirlo."
+
+Ho fatto osservazioni sul ritratto di san Tommaso di un pittore italiano,
+che lo mostra vigile anche nell'astrazione; e silenzioso solo come se
+stesse per parlare.  I dipinti di quella grande tradizione sono in genere
+pieni di piccoli tocchi che rivelano una assai grande [[Imagination|immaginazione]].
+Intendo quella sorta di [[Imagination|immaginazione]] su cui Ruskin fece osservazioni,
+quando vide che nella scena illuminata dal sole della Crocifissione del
+Tintoretto il volto di [[Christ|Cristo]] è scuro e indecifrabile; ma l'aureola
+intorno al suo capo è inaspettatamente fioca e grigia come il colore della
+cenere.  Sarebbe difficile esprimere con più potenza l'idea della Divinità
+stessa in eclissi.  C'è un tocco, che può essere fantasioso trovare
+altrettanto significativo, nel ritratto di Tommaso [[aquinas|d'Aquino]].
+L'[[artist|artista]], avendo dato tanta vividezza e vigilanza agli occhi, può aver
+sentito di aver sottolineato troppo la concentrazione meramente combattiva
+del santo; ma comunque per qualche ragione egli ha blasonato sul suo petto
+un emblema piuttosto curioso, come se fosse una specie di terzo occhio
+simbolico e ciclopico.  Per lo meno non è alcun normale segno cristiano;
+ma qualcosa di più simile al disco del sole quale reggeva il volto di un
+dio pagano; ma il volto stesso è oscuro e occulto, e solo i raggi che ne
+prorompono sono un anello di [[Fire|fuoco]].  Non so se un qualche significato
+tradizionale sia stato attribuito a questo; ma il suo significato
+immaginativo è stranamente calzante.  Quel sole segreto, oscuro per
+eccesso di luce, o che non mostra la sua luce se non nell'illuminare gli
+altri, potrebbe [[Well|ben]] essere l'esatto emblema di quella interiore e ideale
+vita del santo, che non era soltanto nascosta dalle sue parole e azioni
+esteriori, ma perfino nascosta dai suoi meramente esteriori e automatici
+silenzi e accessi di riflessione.  In breve, questo distacco spirituale
+non va confuso con la sua comune abitudine di rimuginare o di cadere in
+una cupa fantasticheria.  Egli era un uomo interamente incurante di ogni
+casuale critica del suo casuale contegno; come lo sono molti uomini
+plasmati su un grande modello maschile e che ereditano inconsciamente un
+certo splendore e una certa larghezza sociale.  Ma riguardo alla sua vera
+vita di santità egli era intensamente riservato.  Tale segretezza è in
+effetti generalmente andata di pari passo con la santità; poiché il santo
+ha un insondabile orrore di recitare la parte del Fariseo.  Ma in Tommaso
+[[aquinas|d'Aquino]] essa era ancora più sensibile, e ciò che molti nel mondo
+chiamerebbero morbosa.  Non gli dispiaceva essere colto a fantasticare
+sopra le coppe di vino del banchetto del [[King|Re]]; poiché ciò riguardava
+soltanto un punto di controversia.  Ma quando vi fu qualche questione
+riguardo al suo aver visto san Paolo in una visione, egli fu in un'agonia
+d'allarme per timore che venisse discusso; e di conseguenza la storia
+rimane alquanto incerta.  Inutile dire che i suoi seguaci e ammiratori
+erano tanto solerti nel raccogliere queste storie strettamente miracolose
+quanto egli era solerte nel celarle; e una o due sembrano conservate con
+una cornice di prove abbastanza solida.  Ma ve ne sono certamente meno,
+note al mondo, che nel caso di molti santi ugualmente sinceri e perfino
+ugualmente modesti, ma più assorbiti dallo zelo e meno sensibili riguardo
+alla pubblicità.
 
 
 
@@ -8372,6 +11393,114 @@ so that appetite almost faded in the furnace of his intellectual energy.
 Between [[Supernatural|supernatural]] and natural causes, it is probable that he never
 knew or suffered greatly on this side of his mind.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+La [[Truth|verità]] è che intorno a tutte queste cose, nella vita e nella
+[[Death|morte]], aleggia una sorta di enorme quiete attorno a san Tommaso.
+Egli era una di quelle grandi cose che occupano poco spazio.  Vi fu
+naturalmente un certo scalpore intorno ai suoi miracoli dopo la sua
+[[Death|morte]]; e intorno alla sua sepoltura al [[Time|tempo]] in cui l'Università di
+[[Paris|Parigi]] volle seppellirlo.  Non conosco nei dettagli la lunga [[history|storia]]
+degli altri piani di sepoltura, che sono infine terminati con le sue
+sacre ossa giacenti nella chiesa di San Sernin a Tolosa:  alla base stessa
+dei campi di battaglia dove i suoi Domenicani avevano debellato la
+pestilenza del pessimismo venuto dall'Oriente.  Ma in qualche modo, non è
+facile pensare al suo santuario come alla scena della devozione più
+gioviale, chiassosa e volgare, sia nella sua forma medievale che moderna.
+Egli era assai lontano dall'essere un Puritano, nel vero senso; predispose
+una festa e un banchetto per i suoi giovani amici, cosa che ha un suono
+del tutto conviviale.  L'orientamento dei suoi scritti, specialmente per il
+suo [[Time|tempo]], è ragionevole nel suo riconoscimento della vita fisica; ed
+egli si dà pena di dire che gli uomini devono variare le loro vite con
+scherzi e perfino con burle.  Ma malgrado tutto ciò, non riusciamo in
+qualche modo a vedere la sua personalità come una sorta di calamita per le
+folle:  o la [[Road|via]] verso la tomba di san Tommaso a Tolosa come sempre
+costeggiata da una lunga strada di taverne, quale quella verso la tomba di
+san Tommaso a Canterbury.  Credo che gli dispiacesse piuttosto il rumore;
+c'è una leggenda che gli dispiacessero i temporali; ma essa è contraddetta
+dal fatto che in un reale naufragio egli fu supremamente calmo.  Comunque
+sia, e ciò probabilmente riguardava la sua salute, per certi versi
+sensibile, egli era certamente assai calmo.  Abbiamo la sensazione che ci
+accorgeremmo gradualmente della sua presenza; come di un immenso sfondo.
+
+Qui, se questo lieve [[Sketch|schizzo]] potesse essere degno del suo soggetto,
+dovrebbe emergere qualcosa di quella stupenda certezza, alla presenza
+della quale tutte le sue biblioteche di [[philosophy|filosofia]], e perfino di
+teologia, non erano che un mucchio di opuscoli.  È certo che questa cosa
+era in lui fin dal principio, nella forma della convinzione assai prima
+che potesse anche solo aver cominciato a prendere la forma della
+controversia.  Era assai vivida nella sua [[Childhood|infanzia]]; e le sue erano
+esattamente le circostanze in cui gli aneddoti della stanza dei bambini e
+del cortile di gioco è assai probabile che siano stati davvero conservati.
+Egli ebbe fin dal principio quella piena e definitiva prova della cattolicità
+veramente ortodossa; l'impetuosa, impaziente, intollerante passione per i
+poveri; e perfino quella prontezza a essere piuttosto una molestia per i
+ricchi, per una fame di sfamare gli affamati.  Ciò non può aver avuto
+nulla a che fare con l'intellettualismo di cui egli fu in seguito accusato;
+ancor meno con una qualche abitudine alla dialettica.  Sembrerebbe
+improbabile che all'età di sei anni egli avesse una qualche [[Ambition|ambizione]]
+di replicare ad Averroè o che sapesse cosa sia la Causalità Efficiente; o
+perfino che avesse elaborato, come fece nella vita più tarda, l'intera
+teoria per cui l'[[Love|amore]] che un uomo ha di se stesso è Sincero e Costante
+e Indulgente; e che questo dovrebbe essere trasferito intatto (se
+possibile) al suo [[Love|amore]] per il prossimo.  A quella tenera età egli non
+comprendeva tutto ciò.  Egli semplicemente lo faceva.  Ma tutta
+l'atmosfera delle sue azioni porta con sé una sorta di convinzione.  È
+bellamente tipico, per esempio, di quella sorta di ménage aristocratico,
+che i suoi genitori sembrano essersi opposti blandamente, se pur si
+opposero, al suo distribuire cose a mendicanti e vagabondi; ma ciò era
+intensamente sgradito ai domestici di rango superiore.
+
+Tuttavia, se prendiamo la cosa seriamente come tutte le cose infantili
+dovrebbero essere prese, possiamo apprendere qualcosa da quel misterioso
+stato d'[[innocence|innocenza]], che è la prima e migliore [[Spring|sorgente]] di tutte le
+nostre successive indignazioni.  Possiamo cominciare a comprendere perché
+crebbe costantemente, con la sua mente in crescita, una grande e assai
+solitaria mente, un'[[Ambition|ambizione]] che era l'inversione di tutte le cose che
+lo circondavano.  Indovineremo ciò che si era continuamente gonfiato dentro
+di lui, fosse in protesta o profezia o [[prayer|preghiera]] di liberazione, prima
+che egli sbalordisse la sua famiglia gettando via non solo gli ornamenti
+della nobiltà, ma tutte le forme di [[Ambition|ambizione]], perfino l'[[Ambition|ambizione]]
+ecclesiastica.  La sua [[Childhood|infanzia]] può contenere l'accenno di quel primo
+passo della sua virilità, dalla [[house|casa]] alla strada maestra; e la sua
+proclamazione che anch'egli sarebbe stato un Mendicante.
+
+C'è un altro caso di una sorta di secondo scorcio o sequela, in cui un
+episodio [[Well|ben]] noto nel senso esteriore ci dà anche uno scorcio
+dell'interiore.  Dopo la faccenda del tizzone, e della donna che lo tentò
+nella torre, si dice che egli ebbe [[A Dream|un sogno]]; in cui due angeli lo
+cinsero con una corda di [[Fire|fuoco]], cosa di terribile [[Pain|dolore]] eppure che
+dava una terribile forza; ed egli si destò con un grande grido nel buio.
+Anche questo ha qualcosa di assai vivido, date le circostanze; e
+probabilmente contiene verità che un giorno saranno meglio comprese,
+quando sacerdoti e medici avranno imparato a parlarsi senza la stantia
+etichetta delle negazioni ottocentesche.  Sarebbe facile analizzare il
+sogno, come fece il medico assai ottocentesco in Armadale, risolvendolo
+nei dettagli dei giorni passati; la corda dalla sua lotta contro l'essere
+spogliato del suo saio di frate; il filo di [[Fire|fuoco]] che corre attraverso
+gli arazzi della [[Night|notte]], dal tizzone che aveva strappato dal focolare.
+Ma anche in Armadale il sogno si compì misticamente [[Well|del pari]], e il sogno
+di san Tommaso si compì in verità assai misticamente.  Poiché egli di
+fatto rimase notevolmente indisturbato su quel versante della sua natura
+umana dopo l'episodio; benché sia abbastanza probabile che l'episodio
+avesse causato uno sconvolgimento della sua normale umanità, che produsse
+[[A Dream|un sogno]] più forte di un [[nightmare|incubo]].  Questo non è il luogo per
+analizzare il fatto psicologico, che tanto sconcerta i non cattolici:  del
+modo in cui i sacerdoti riescono a essere celibi senza cessare di essere
+virili.  Comunque sia, sembra probabile che in questa materia egli fosse
+meno turbato della maggior parte.  Ciò non ha nulla a che fare con la vera
+virtù, che è della volontà; santi santi quanto lui si sono rotolati nei
+rovi per distogliere la pressione della passione; ma egli non ebbe mai
+molto bisogno di un contro-irritante; per la semplice ragione che in
+questo modo, come nella maggior parte dei modi, egli non era molto spesso
+irritato.  Molto deve restare inspiegato, come parte dei misteri della
+grazia; ma vi è probabilmente una certa [[Truth|verità]] nell'idea psicologica
+della "sublimazione;" cioè l'elevazione di un'energia inferiore a fini
+superiori; sicché l'appetito quasi svanì nella fornace della sua energia
+intellettuale.  Tra cause [[Supernatural|soprannaturali]] e naturali, è probabile che
+egli non conoscesse né soffrisse mai gravemente su questo versante della
+sua mente.
 
 
 
@@ -8495,6 +11624,119 @@ It was after this vision that the incident is said to have happened,
 of his being born up miraculously in mid-air.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Ci sono momenti in cui il lettore più ortodosso è tentato di odiare
+l'agiografo quanto ama il sant'uomo.  Il sant'uomo cela sempre la sua
+santità; questa è l'unica regola invariabile.  E l'agiografo talvolta
+sembra come un persecutore che cerca di frustrare il sant'uomo; una spia
+o un origliatore poco più rispettoso di un intervistatore americano.
+Ammetto che questi sentimenti sono schizzinosi e unilaterali, e procederò
+ora a provare la mia penitenza menzionando uno o due degli episodi che
+soltanto in questo deplorevole modo poterono giungere a conoscenza comune.
+
+Sembra certo che egli visse una sorta di vita secondaria e misteriosa; il
+divino [[Double|Doppio]] di ciò che si chiama una [[Double|doppia]] vita.  Qualcuno sembra
+aver colto uno scorcio di quella sorta di solitario miracolo che i moderni
+cultori dello psichico chiamano Levitazione; ed egli deve senz'altro essere
+stato o un bugiardo o un testimone letterale, poiché non poteva esserci
+alcun dubbio o gradazione riguardo a un prodigio simile che accadeva a una
+persona simile:  deve essere stato come vedere uno degli enormi pilastri
+della chiesa sospeso come una nuvola.  Nessuno sa, immagino, quale
+spirituale [[Storm|tempesta]] di esaltazione o d'agonia produca questa convulsione
+nella materia o nello spazio; ma la cosa quasi certamente accade.  Perfino
+nel caso dei comuni medium spiritisti, per qualunque ragione, la prova è
+assai difficile da confutare.  Ma probabilmente la più rappresentativa
+rivelazione di questo versante della sua vita può trovarsi nella celebre
+storia del miracolo del crocifisso; quando, nella quiete della chiesa di
+San Domenico a Napoli, una voce parlò dal [[Christ|Cristo]] scolpito, e disse al
+Frate inginocchiato che aveva scritto rettamente, e gli offrì la scelta di
+una ricompensa tra tutte le cose del mondo.
+
+Non tutti, credo, hanno colto il senso di questa particolare storia
+applicata a questo particolare santo.  È una storia antica, in quanto è
+semplicemente l'offerta fatta a un devoto della [[Solitude|solitudine]] o della
+semplicità, della scelta di tutti i premi della vita.  L'eremita, vero o
+falso, il fachiro, il fanatico o il cinico, Stilita sulla sua colonna o
+Diogene nella sua botte, possono tutti essere raffigurati come tentati
+dalle potenze della terra, dell'aria o dei cieli, con l'offerta del meglio
+di ogni cosa; e rispondenti che non vogliono nulla.  Nel cinico o stoico
+greco ciò significava davvero il mero negativo; che egli non voleva nulla.
+Nel mistico o fanatico orientale, esso significava talvolta una sorta di
+negativo positivo; che egli voleva il Nulla; che il Nulla era davvero ciò
+che egli voleva.  Talvolta esso esprimeva una nobile indipendenza, e le
+due virtù gemelle dell'antichità, l'[[Love|amore]] della libertà e l'odio del
+lusso.  Talvolta esso esprimeva soltanto un'[[Self-Sufficiency|autosufficienza]] che è il
+vero opposto della santità.  Ma perfino le storie dei santi reali, di
+questo genere, non coprono del tutto il caso di san Tommaso.  Egli non era
+una persona che non voleva nulla; ed era una persona che era enormemente
+interessata a ogni cosa.  La sua risposta non è così inevitabile o
+semplice come alcuni potrebbero supporre.  Rispetto a molti altri santi, e
+a molti altri filosofi, egli era avido nella sua accettazione delle Cose;
+nella sua fame e sete di Cose.  Era la sua speciale tesi spirituale che
+davvero esistono le cose; e non soltanto la Cosa; che i Molti esistevano
+[[Well|non meno]] dell'Uno.  Non intendo cose da mangiare o da bere o da
+indossare, benché egli non abbia mai negato a queste il loro posto nella
+nobile gerarchia dell'Essere; ma piuttosto cose su cui pensare, e
+specialmente cose da provare, da sperimentare e da conoscere.  Nessuno
+suppone che Tommaso [[aquinas|d'Aquino]], quando gli fu offerta da Dio la scelta
+tra tutti i doni di Dio, avrebbe chiesto mille sterline, o la [[Crown|Corona]] di
+Sicilia, o un dono di raro vino greco.  Ma egli avrebbe potuto chiedere
+cose che davvero desiderava:  ed era un uomo che poteva desiderare cose;
+come desiderò il manoscritto perduto di san Crisostomo.  Avrebbe potuto
+chiedere la soluzione di un'antica difficoltà; o il segreto di una nuova
+scienza; o un lampo dell'inconcepibile mente intuitiva degli angeli, o
+una qualunque di mille cose che avrebbero davvero appagato il suo ampio e
+virile appetito per la vastità stessa e la varietà dell'universo.  Il
+punto è che per lui, quando la voce parlò di fra le braccia distese del
+Crocifisso, quelle braccia erano veramente aperte in ampiezza, e aprivano
+in modo gloriosissimo le porte di tutti i mondi; erano braccia che
+indicavano l'oriente e l'occidente, le estremità della terra e gli estremi
+stessi dell'esistenza.  Erano veramente distese con un gesto di onnipotente
+generosità; il Creatore stesso che offriva la Creazione stessa; con tutto
+il suo milionario mistero di esseri distinti, e il trionfale [[Chorus|coro]] delle
+creature.  Questo è l'ardente sfondo di moltitudinario Essere che
+conferisce la particolare forza, e perfino una sorta di sorpresa, alla
+risposta di san Tommaso, quando egli sollevò infine il capo e parlò con,
+e per, quella audacia quasi blasfema che è una cosa sola con l'[[Humility|umiltà]]
+della sua religione; "Voglio Te stesso."
+
+Oppure, per aggiungere la coronante e schiacciante ironia a questa storia,
+così unicamente cristiana per coloro che possono davvero comprenderla, vi
+sono alcuni che sentono che l'audacia è addolcita insistendo sul fatto che
+egli disse: "Soltanto Te stesso."
+
+Di questi miracoli, nel senso strettamente miracoloso, non ve ne sono
+tanti quanti nelle vite di santi meno immediatamente influenti; ma essi
+sono probabilmente abbastanza [[Well|ben]] autenticati; poiché egli era un uomo
+pubblico [[Well|assai]] noto in una posizione di rilievo, e, ciò che è ancor più
+comodo per lui, aveva un gran numero di nemici altamente indignati, ai
+quali si poteva affidare il vaglio delle sue pretese.  C'è almeno un
+miracolo di guarigione; quello di una donna che toccò la sua veste; e
+parecchi episodi che possono essere varianti della storia del crocifisso a
+Napoli.  Una di queste storie, tuttavia, ha un'ulteriore importanza in
+quanto ci conduce a un'altra sezione della sua vita religiosa più privata,
+personale o perfino emotiva; la sezione che si espresse nella poesia.
+Quando fu di stanza a [[Paris|Parigi]], gli altri Dottori della Sorbona gli
+posero un problema riguardo alla [[Nature|natura]] del mutamento mistico negli
+elementi del Santissimo Sacramento, ed egli procedette a scrivere, alla
+sua maniera consueta, un'esposizione assai accurata ed elaboratamente
+lucida della propria soluzione.  Inutile dire che egli sentì con cordiale
+semplicità la pesante responsabilità e gravità di una tale decisione
+giudiziale; e non innaturalmente sembra essersene preoccupato più di
+quanto comunemente facesse per il suo lavoro.  Cercò guida in una
+[[prayer|preghiera]] e intercessione più prolungata del solito; e infine, con uno
+di quei pochi ma sorprendenti gesti corporei che segnano i punti di svolta
+della sua vita, gettò la sua tesi ai piedi del crocifisso sull'altare, e
+la lasciò lì giacente; come in attesa di giudizio.  Poi si voltò e scese
+i gradini dell'altare e si sprofondò ancora una volta nella [[prayer|preghiera]];
+ma gli altri Frati, si dice, stavano guardando; e [[Well|ben]] potevano farlo.
+Poiché essi dichiararono in seguito che la figura di [[Christ|Cristo]] era scesa
+dalla [[Cross|Croce]] dinanzi ai loro occhi mortali; e si ergeva sul rotolo,
+dicendo: "Tommaso, hai scritto [[Well|bene]] riguardo al Sacramento del Mio
+[[Body|Corpo]]."  Fu dopo questa visione che si dice sia accaduto l'episodio, del
+suo essere sollevato miracolosamente a mezz'aria.
+
 
 
 <span class="atom-split" data-atom="chapter_04--part_11" data-title="St. Thomas Aquinas — Chapter 4 (part 11)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="topos/double,archetype/artist,motif/city,motif/fire,motif/love,motif/time,concept/charity,concept/conversion,concept/history,concept/hope,concept/truth,form/history,form/sketch,form/translation,histref/america,histref/renaissance,setting/america,character/aquinas,character/columbus"></span>
@@ -8597,6 +11839,108 @@ which was the end of his controversial career, and practically of his
 earthly life; a hint that [[history]] has never been able to explain.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Un acuto osservatore disse di Tommaso [[aquinas|d'Aquino]] al suo
+[[Time|tempo]]: «Egli potrebbe [[Alone|da solo]] restaurare tutta
+la [[philosophy|filosofia]], se essa fosse stata arsa dal [[Fire|fuoco]]».
+È questo che si intende dicendo che egli era un uomo originale,
+una mente creatrice; che avrebbe potuto costruire un proprio cosmo
+con pietre e fili di paglia, anche senza i manoscritti di Aristotele
+o di Agostino. Ma vi è qui una confusione non rara, tra ciò in cui
+un uomo è più originale e ciò a cui è più interessato; ovvero tra ciò
+che fa meglio e ciò che ama di più. Poiché san Tommaso fu un filosofo
+unico e straordinario, è quasi inevitabile che questo libro sia
+soltanto, o principalmente, un [[Sketch|abbozzo]] della sua
+[[philosophy|filosofia]]. Non può essere, e non pretende di essere,
+un [[Sketch|abbozzo]] della sua teologia. Ma ciò accade perché la
+teologia di un santo è semplicemente il teismo di un santo; o piuttosto
+il teismo di tutti i santi. È meno individuale, ma è molto più intensa.
+Riguarda l'origine comune; ma difficilmente è occasione di originalità.
+Così siamo costretti a pensare a Tommaso anzitutto come all'artefice
+della [[philosophy|filosofia]] tomista; come pensiamo a Cristoforo
+[[Columbus|Colombo]] anzitutto come allo scopritore dell'[[america|America]],
+per quanto egli possa essere stato del tutto sincero nella sua pia
+[[Hope|speranza]] di [[convert|convertire]] il Khan di Tartaria; o a
+James Watt come allo scopritore della macchina a vapore, benché possa
+essere stato un devoto adoratore del [[Fire|fuoco]], o un sincero
+calvinista scozzese, o ogni sorta di cose curiose. In ogni caso, è del
+tutto naturale che Agostino e [[aquinas|d'Aquino]], Bonaventura e Duns
+Scoto, tutti i dottori e i santi, si avvicinino gli uni agli altri man
+mano che si accostano alle unità divine nelle cose; e che in tal senso
+vi sia minor differenza tra loro nella teologia che nella
+[[philosophy|filosofia]]. È vero che, in alcune materie, i critici di
+[[aquinas|d'Aquino]] ritennero che la sua [[philosophy|filosofia]] avesse
+indebitamente influenzato la sua teologia. Ciò vale in special modo
+riguardo all'accusa di aver reso lo stato di Beatitudine troppo
+intellettuale, concependolo come il soddisfacimento dell'[[Love|amore]]
+della [[Truth|verità]]; piuttosto che, in modo specifico, come la
+[[Truth|verità]] dell'[[Love|amore]]. È vero che i mistici e gli uomini
+della scuola francescana indugiarono più amorosamente sull'ammessa
+supremazia dell'[[Love|amore]]. Ma era per lo più questione di accento;
+forse lievemente tinta di temperamento, e possibilmente (per suggerire
+qualcosa che è più facile sentire che spiegare), nel caso di san Tommaso,
+l'ombra dell'influsso di una sorta di timidezza. Se l'estasi suprema sia
+più affettiva che intellettuale non è affatto una questione da lite
+mortale tra uomini che credono sia entrambe le cose, ma non pretendono
+nemmeno di immaginare l'esperienza reale dell'una o dell'altra. Ma ho una
+sorta di sensazione che, anche se san Tommaso avesse ritenuto che essa
+fosse tanto emotiva quanto la ritenne san Bonaventura, non sarebbe mai
+stato così emotivo a riguardo. Lo avrebbe sempre messo in imbarazzo
+scrivere dell'[[Love|amore]] tanto a lungo.
+
+L'unica eccezione che gli fu concessa fu la rara ma notevole produzione
+della sua poesia. Ogni santità è segretezza; e la sua poesia sacra fu
+davvero una secrezione, come la perla in un'ostrica strettamente chiusa.
+Può darsi che ne abbia scritta più di quanta ne conosciamo; ma parte di
+essa entrò nell'uso pubblico per la particolare circostanza di essergli
+stato chiesto di comporre l'ufficio per la Festa del Corpus Domini: una
+festività istituita per la prima volta dopo la controversia alla quale
+egli aveva contribuito, nel rotolo che depose sull'altare. Essa rivela di
+certo un lato interamente diverso del suo genio; e genio era di certo. Di
+regola egli era un prosatore eminentemente pratico; alcuni direbbero un
+prosatore assai prosaico. Sosteneva la controversia con l'occhio a due
+sole qualità: chiarezza e cortesia. E le manteneva perché erano qualità
+del tutto pratiche, che influivano sulle probabilità della
+[[conversion|conversione]]. Ma il compositore dell'ufficio del Corpus
+Domini non era soltanto ciò che perfino i più rozzi chiamerebbero un
+poeta; era ciò che i più schizzinosi chiamerebbero un [[artist|artista]].
+La sua [[Double|duplice]] funzione richiama piuttosto la [[Double|duplice]]
+attività di qualche grande artigiano del [[Renaissance|Rinascimento]],
+come Michelangelo o Leonardo da Vinci, che lavorava sulle mura esterne,
+progettando e costruendo le fortificazioni della [[City|città]]; e poi si
+ritirava nella stanza interna a intagliare o modellare qualche coppa o
+cofanetto per un reliquiario. L'ufficio del Corpus Domini è come qualche
+antico strumento musicale, bizzarramente e accuratamente intarsiato di
+pietre e metalli di molti colori; l'autore ha raccolto testi remoti sui
+pascoli e sui frutti come erbe rare; vi è una notevole assenza del sonoro
+e dell'ovvio nell'armonia; e il tutto è teso da due vigorose liriche
+latine. Padre John O'Connor le ha tradotte con un'attitudine quasi
+miracolosa; ma un buon traduttore sarà il primo ad ammettere che nessuna
+[[Translation|traduzione]] è buona; o, in ogni caso, abbastanza buona.
+Come troveremo otto brevi parole inglesi che stiano davvero per «Sumit
+unus, sumunt mille; quantum isti, tantum ille»? Come si può davvero
+rendere il suono del «Pange Lingua», quando la primissima sillaba ha un
+rimbombo come il fragore dei cembali?
+
+Vi era un altro canale, oltre a quello della poesia, ed era quello degli
+affetti privati, mediante il quale questo uomo grande e timido poteva
+mostrare di avere davvero tanta Caritas quanta san Francesco; e certamente
+tanta quanta qualsiasi teologo francescano. Non era probabile che
+Bonaventura pensasse che a Tommaso mancasse l'[[Love|amore]] di Dio, e
+certo non gli mancò mai l'[[Love|amore]] per Bonaventura. Provava per
+l'intera sua famiglia una costante, potremmo dire ostinata tenerezza; e,
+considerando come la sua famiglia lo trattò, ciò sembrerebbe richiedere
+non solo [[Charity|carità]], ma anche la sua caratteristica virtù della
+pazienza. Verso la fine della vita sembra essersi appoggiato in special
+modo all'[[Love|amore]] per uno dei confratelli, un frate di nome
+Reginaldo, che ricevette da lui alcune strane e piuttosto sorprendenti
+confidenze, del genere che egli assai di rado faceva persino ai suoi
+amici. Fu a Reginaldo che egli diede quell'ultimo e piuttosto
+straordinario accenno, che fu la fine della sua carriera di controversista,
+e praticamente della sua vita terrena; un accenno che la [[history|storia]]
+non è mai stata capace di spiegare.
+
 
 
 <span class="atom-split" data-atom="chapter_04--part_12" data-title="St. Thomas Aquinas — Chapter 4 (part 12)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="topos/double,archetype/child,motif/animals,motif/childhood,motif/hill,motif/journey,motif/machine,motif/nature,motif/night,motif/rose,motif/silence,motif/time,motif/wheel,concept/fear,concept/inner_life,concept/longing,concept/nature,concept/self,concept/truth,character/aquinas,character/christ"></span>
@@ -8687,6 +12031,95 @@ that of a [[Child|child]] of five.
 
 --/--
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Era tornato vittorioso dal suo ultimo scontro con Sigieri di Brabante;
+tornato e ritiratosi. Questa particolare disputa fu l'unico punto, per
+così dire, in cui la sua [[Inner Life|vita interiore]] e la sua vita
+esteriore si erano incrociate e coincise; egli si rese conto di come
+avesse desiderato fin dalla [[Childhood|fanciullezza]] di chiamare a
+raccolta tutti gli alleati nella battaglia per [[Christ|Cristo]]; di come
+solo molto tempo dopo avesse chiamato Aristotele come alleato; e ora, in
+quell'ultimo [[nightmare|incubo]] di sofismi, per la prima [[Time|volta]]
+aveva davvero compreso che alcuni potessero realmente desiderare che
+[[Christ|Cristo]] soccombesse dinanzi ad Aristotele. Non si riprese mai da
+quello shock. Vinse la sua battaglia, perché era la mente migliore del suo
+[[Time|tempo]], ma non poté dimenticare una simile inversione dell'intera
+idea e dello scopo della sua vita. Era il genere d'uomo che odia odiare le
+persone. Non era abituato a odiare nemmeno le loro idee odiose, oltre un
+certo punto. Ma nell'abisso di anarchia aperto dal sofisma di Sigieri sulla
+[[Double|Duplice]] Mente dell'Uomo, egli aveva visto la possibilità del
+perire di ogni idea di religione, e perfino di ogni idea di [[Truth|verità]].
+Per quanto brevi e frammentarie siano le frasi che lo registrano, possiamo
+desumere che tornò con una sorta di orrore per quel mondo esteriore, in cui
+soffiavano tali venti selvaggi di dottrina, e con un [[Longing|anelito]]
+verso il mondo interiore che ogni cattolico può condividere, e nel quale il
+santo non è separato dagli uomini semplici. Riprese la stretta osservanza
+della vita religiosa, e per qualche [[Time|tempo]] non disse nulla a
+nessuno. E poi accadde qualcosa (si dice mentre celebrava la Messa) la cui
+[[Nature|natura]] non sarà mai conosciuta tra i mortali.
+
+Il suo amico Reginaldo gli chiese di tornare anche alle sue abitudini
+altrettanto regolari di lettura e scrittura, e a seguire le controversie
+del momento. Egli disse con singolare enfasi: «Non posso scrivere più
+nulla». Sembra vi sia stato un [[Silence|silenzio]]; dopo il quale
+Reginaldo si azzardò di nuovo ad avvicinare l'argomento; e Tommaso gli
+rispose con vigore ancora maggiore: «Non posso scrivere più nulla. Ho
+visto cose che rendono tutti i miei scritti simili a paglia».
+
+Nel 1274, quando [[aquinas|d'Aquino]] aveva quasi cinquant'anni, il Papa,
+rallegrandosi della recente vittoria sui sofisti arabi, gli mandò a dire,
+chiedendogli di recarsi a un Concilio su queste materie controverse, da
+tenersi a Lione. Egli [[Rose|si levò]] in obbedienza automatica, come si
+leva un soldato; ma possiamo immaginare che vi fosse qualcosa nei suoi
+occhi che diceva a chi gli stava intorno che l'obbedienza al comando
+esterno non avrebbe di fatto frustrato l'obbedienza a un comando interiore
+più misterioso; un segnale che solo lui aveva visto. Partì con il suo
+amico per il [[Journey|viaggio]], proponendosi di riposare per la
+[[Night|notte]] presso la sorella, alla quale era profondamente devoto; e
+quando entrò nella sua [[house|casa]] fu colpito da un male senza nome. Non
+occorre discutere i dubbi problemi medici. È vero che era sempre stato uno
+di quegli uomini, sani nel complesso, che vengono abbattuti da piccole
+malattie; è altrettanto vero che non esiste alcun resoconto molto chiaro di
+questa particolare malattia. Fu infine trasportato a un monastero a
+Fossanova; e la sua strana fine giunse su di lui a grandi passi. Può valere
+la pena di osservare, per coloro che pensano che egli tenesse in troppo
+scarso conto il lato emotivo o romantico della [[Truth|verità]] religiosa,
+che egli chiese che gli si leggesse il [[Song|Cantico]] dei Cantici da cima
+a fondo. I sentimenti degli uomini intorno a lui devono essere stati misti
+e piuttosto indescrivibili; e certamente assai diversi dai suoi. Egli
+confessò i suoi peccati e ricevette il suo Dio; e possiamo essere certi che
+il grande filosofo aveva interamente dimenticato la [[philosophy|filosofia]].
+Ma non fu del tutto così per coloro che lo avevano amato, o anche solo per
+coloro che semplicemente vissero al suo [[Time|tempo]]. Gli elementi del
+racconto sono così pochi, eppure così essenziali, che nel leggere la storia
+abbiamo un forte senso dei due lati emotivi dell'evento. Quegli uomini
+devono aver saputo che una grande mente stava ancora lavorando come un
+grande mulino in mezzo a loro. Devono aver sentito che, per quel momento,
+l'interno del monastero era più vasto del suo esterno. Deve aver
+rassomigliato al caso di qualche possente motore moderno, che scuote
+l'edificio sgangherato in cui è per il momento racchiuso. Perché in verità
+quella [[Machine|macchina]] era fatta delle ruote di tutti i mondi; e
+ruotava come quel cosmo di sfere concentriche che, qualunque sia la sua
+sorte di fronte alla scienza che muta, dovrà sempre essere qualcosa come un
+simbolo per la [[philosophy|filosofia]]; la profondità di [[Double|duplici]]
+e triplici trasparenze più misteriose delle tenebre; il settemplice, il
+terribile cristallo. Nel mondo di quella mente vi era una [[Wheel|ruota]] di
+angeli, e una [[Wheel|ruota]] di pianeti, e una [[Wheel|ruota]] di piante o
+di [[Animals|animali]]; ma vi era anche un ordine giusto e intelligibile di
+tutte le cose terrene, un'autorità sana e una libertà rispettosa di
+[[Self|sé]], e cento risposte a cento domande nella complessità dell'etica o
+dell'economia. Ma vi deve essere stato un momento in cui gli uomini seppero
+che il tonante mulino del pensiero si era arrestato all'improvviso; e che
+dopo lo shock dell'immobilità quella [[Wheel|ruota]] non avrebbe più scosso
+il mondo; che ormai non c'era nulla dentro quella [[house|casa]] vuota se
+non una grande [[Hill|collina]] di argilla; e il confessore, che era stato
+con lui nella stanza interna, corse fuori come in preda alla [[Fear|paura]],
+e sussurrò che la sua confessione era stata quella di un [[Child|bambino]]
+di cinque anni.
+
+--/--
 
 
 
@@ -8986,6 +12419,125 @@ Anyhow it has a wild and woolly sort of sound; as if only very vague
 people used it; or as if it might mean all sorts of different things.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Così, perfino coloro che apprezzano la profondità metafisica del tomismo
+in altre materie hanno espresso sorpresa che egli non tratti affatto quella
+che molti oggi ritengono la principale questione metafisica: se possiamo
+provare che l'atto primario di riconoscimento di una qualsiasi realtà sia
+reale. La risposta è che san Tommaso riconobbe all'istante ciò che tanti
+scettici moderni hanno cominciato a sospettare piuttosto faticosamente: che
+un uomo deve o rispondere a quella domanda in senso affermativo, oppure non
+rispondere mai ad alcuna domanda, non porre mai alcuna domanda, non esistere
+neppure intellettualmente, per rispondere o per domandare. Suppongo sia vero,
+in un certo senso, che un uomo possa essere uno scettico fondamentale, ma
+non può essere nient'altro: certamente neppure un difensore dello
+scetticismo fondamentale. Se un uomo sente che tutti i moti della propria
+mente sono privi di senso, allora la sua mente è priva di senso, ed egli è
+privo di senso; e non significa nulla tentare di scoprire il suo significato.
+La maggior parte degli scettici fondamentali pare sopravvivere, perché non
+sono coerentemente scettici e non sono affatto fondamentali. Prima negheranno
+tutto e poi ammetteranno qualcosa, non foss'altro che per amor di discussione
+— o spesso piuttosto per amor di attacco senza discussione. Ho visto un
+esempio quasi sconcertante di questa essenziale frivolezza in un professore
+di scetticismo estremo, in un articolo qualche giorno fa. Un uomo scrisse per
+dire che non accettava altro che il solipsismo, e aggiunse di essersi spesso
+chiesto come mai non fosse una [[philosophy|filosofia]] più diffusa. Ora, il
+solipsismo significa semplicemente che un uomo crede nella propria esistenza,
+ma non in quella di chiunque o di qualunque altra cosa. E non venne mai in
+mente a questo semplice sofista che, se la sua [[philosophy|filosofia]] fosse
+vera, evidentemente non vi sarebbero altri filosofi a professarla.
+
+A questa domanda «Esiste qualcosa?» san Tommaso comincia col rispondere
+«Sì»; se cominciasse rispondendo «No», non sarebbe l'inizio, ma la fine. È
+ciò che alcuni di noi chiamano senso comune. O non vi è alcuna
+[[philosophy|filosofia]], nessun filosofo, nessun pensatore, nessun pensiero,
+nulla di nulla; oppure vi è un ponte reale tra la mente e la realtà. Ma egli
+è in realtà meno esigente di molti pensatori, molto meno della maggior parte
+dei pensatori razionalisti e materialisti, riguardo a ciò che quel primo
+passo comporta; si accontenta, come vedremo, di dire che esso comporta il
+riconoscimento dell'Ens, ossia dell'Essere, come qualcosa di decisamente al
+di là di noi stessi. Ens è Ens: le uova sono uova, e non è sostenibile che
+tutte le uova siano state trovate in un nido di cavalla.
+
+Inutile dire che non sono così sciocco da suggerire che tutti gli scritti di
+san Tommaso siano semplici e lineari, nel senso di essere facili da
+comprendere. Vi sono passi che io stesso non comprendo minimamente; vi sono
+passi che lasciano perplessi filosofi assai più dotti e logici di me; vi
+sono passi sui quali i più grandi tomisti ancora discordano e disputano. Ma
+questa è una questione del fatto che una cosa sia difficile da leggere o da
+comprendere: non difficile da accettare una volta compresa. È una mera
+questione di «The Cat sat on the Mat» scritto in caratteri cinesi, o di
+«Mary aveva un piccolo [[Lamb|agnello]]» in geroglifici egizi. L'unico punto
+che qui sottolineo è che [[aquinas|d'Aquino]] sta quasi sempre dalla parte
+della semplicità, e sostiene l'accettazione, da parte dell'uomo comune, dei
+luoghi comuni ordinari. Per esempio, uno dei passi più oscuri, a mio
+giudizio assai inadeguato, è quello in cui egli spiega come la mente sia
+certa di un oggetto esterno e non semplicemente di un'impressione di quell'
+oggetto; e come tuttavia essa lo raggiunga, a quanto pare, attraverso un
+concetto, benché non semplicemente attraverso un'impressione. Ma l'unico
+punto qui è che egli spiega davvero che la mente è certa di un oggetto
+esterno. Basta a questo scopo che la sua conclusione sia ciò che si chiama la
+conclusione del senso comune; che il suo scopo sia giustificare il senso
+comune; anche se lo giustifica in un passo che si dà il caso sia di una
+sottigliezza piuttosto insolita. Il problema dei filosofi posteriori è che la
+loro conclusione è oscura quanto la loro dimostrazione; o che essi producono
+un risultato il cui risultato è il caos.
+
+Sfortunatamente, tra l'uomo della strada e l'Angelo delle Scuole si erge in
+questo momento un altissimo muro di mattoni, con punte in cima, che separa
+due uomini che per molti versi rappresentano la stessa cosa. Il muro è quasi
+un incidente storico; perlomeno fu costruito assai lungo [[Time|tempo]] fa,
+per ragioni che non hanno bisogno di toccare i bisogni degli uomini normali
+di oggi; men che meno il più grande bisogno degli uomini normali, che è
+quello di una [[philosophy|filosofia]] normale. La prima difficoltà è
+meramente una differenza di forma; non nel senso medievale, ma in quello
+moderno. Vi è dapprima un semplice ostacolo di linguaggio; vi è poi un
+ostacolo alquanto più sottile di metodo logico. Ma il linguaggio in sé conta
+moltissimo; anche quando è tradotto, resta pur sempre una lingua straniera;
+ed è, come le altre lingue straniere, assai spesso tradotto male. Come per
+ogni altra letteratura di un'altra epoca o di un altro paese, esso reca con
+sé un'atmosfera che va oltre la mera [[Translation|traduzione]] delle parole,
+così come vengono tradotte nel frasario di un viaggiatore. Per esempio,
+l'intero sistema di san Tommaso è appeso a un'unica idea, enorme e tuttavia
+semplice, che copre effettivamente tutto ciò che esiste, e perfino tutto ciò
+che potrebbe esistere. Egli rappresenta questa concezione cosmica con la
+parola Ens; e chiunque sappia leggere anche solo un po' di latino, per
+quanto rozzamente, la sente come la parola giusta e appropriata; esattamente
+come la sente in una parola francese all'interno di un brano di buona prosa
+francese. Dovrebbe essere una questione di [[logic|logica]]; ma è anche una
+questione di linguaggio.
+
+Sfortunatamente non esiste una [[Translation|traduzione]] soddisfacente della
+parola Ens. La difficoltà è verbale più che logica, ma è pratica. Voglio dire
+che quando il traduttore dice in inglese 'being', avvertiamo un'atmosfera
+piuttosto diversa. L'atmosfera non dovrebbe influire su questi assoluti
+dell'intelletto; eppure lo fa. I nuovi psicologi, che sono quasi avidamente
+in guerra con la ragione, non si stancano mai di dirci che i termini stessi
+che usiamo sono colorati dal nostro subconscio, con qualcosa che intendevamo
+escludere dalla nostra coscienza. E non occorre essere idealisticamente
+irrazionali quanto uno psicologo moderno, per ammettere che la forma stessa e
+il suono delle parole fanno davvero una differenza, anche nella prosa più
+spoglia, come la fanno nella più bella poesia. Non possiamo del tutto
+impedire all'[[Imagination|immaginazione]] di ricordare associazioni
+irrilevanti persino nelle scienze astratte come la matematica. [[Jones]]
+Minimus, spinto in fretta dalla [[history|storia]] alla geometria, può per un
+istante collegare gli Angoli del triangolo isoscele con gli Angli della
+Cronaca anglosassone; e persino il matematico maturo, se è tanto folle quanto
+lo psicoanalista spera, può avere nelle radici della sua mente subconscia
+qualcosa di materiale nella sua idea di radice. Ora, sfortunatamente accade
+che la parola 'being', così come giunge a un inglese moderno attraverso
+associazioni moderne, abbia una sorta di atmosfera nebulosa che non è nella
+breve e tagliente parola latina. Forse gli ricorda fantastici professori
+nella narrativa, che agitano le mani e dicono: «Così ci innalziamo alle
+ineffabili altezze dell'Essere puro e radioso»: o, peggio ancora, professori
+reali nella vita reale, che dicono: «Ogni Essere è Divenire; ed è soltanto
+l'evoluzione del Non-Essere per la legge del suo Essere». Forse gli ricorda
+soltanto le rapsodie romantiche nelle vecchie storie d'[[Love|amore]]: «Bella
+e adorabile creatura, luce e respiro del mio stesso essere». In ogni caso ha
+una sorta di suono vago e sciatto; come se lo usasse soltanto gente assai
+confusa; o come se potesse significare ogni sorta di cose diverse.
+
 
 
 <span class="atom-split" data-atom="chapter_05--part_03" data-title="St. Thomas Aquinas — Chapter 6 (part 3)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="motif/nature,motif/well,motif/wind,concept/body,concept/humility,concept/imagination,concept/nature,concept/truth,histref/dante,character/aquinas"></span>
@@ -9091,6 +12643,107 @@ But that is not induction; it is only a very bad blunder in deduction.
 That is not another or new way of thinking; it is only ceasing to think.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Ora la parola latina Ens ha un suono simile alla parola inglese End [fine].
+È definitiva e persino brusca; non è nient'altro che se stessa. Vi fu un
+tempo una sciocca canzonatura contro gli Scolastici come [[aquinas|d'Aquino]],
+secondo cui essi discutevano se gli angeli potessero stare sulla punta di un
+ago. È perlomeno certo che questa prima parola di [[aquinas|d'Aquino]] è
+aguzza come la punta di uno spillo. Perché anche quella è, in un senso quasi
+ideale, una Fine. Ma quando diciamo che san Tommaso [[aquinas|d'Aquino]] si
+occupa fondamentalmente dell'idea dell'Essere, non dobbiamo ammettere nessuna
+di quelle generalizzazioni più nebulose a cui possiamo esserci abituati, o di
+cui possiamo esserci perfino stancati, in quel genere di scrittura idealistica
+che è retorica più che [[philosophy|filosofia]]. La retorica è cosa assai
+buona al suo posto, come un dotto medievale avrebbe volentieri convenuto,
+poiché la insegnava insieme alla [[logic|logica]] nelle scuole; ma san
+Tommaso [[aquinas|d'Aquino]] in persona non è affatto retorico. Forse non è
+nemmeno sufficientemente retorico. Vi è un gran numero di brani sfarzosi in
+Agostino; ma non vi sono brani sfarzosi in [[aquinas|d'Aquino]]. In certe
+determinate occasioni egli si abbandonò alla poesia; ma assai di rado si
+abbandonò all'oratoria. E così poco era in sintonia con certe tendenze
+moderne, che ogni volta che scriveva poesia, la metteva effettivamente in
+[[Poems|poesie]]. Vi è un altro lato della questione, che noteremo più avanti.
+Egli possedeva in modo del tutto speciale la [[philosophy|filosofia]] che
+ispira la poesia; come in effetti ispirò tanto largamente la poesia di
+[[Dante]]. E la poesia senza [[philosophy|filosofia]] ha solo ispirazione, o,
+in linguaggio volgare, solo [[Wind|vento]]. Egli aveva, per così dire,
+l'[[Imagination|immaginazione]] senza le immagini. E anche questo è forse
+troppo generico. Vi è un'immagine sua, che è vera poesia [[Well|tanto]]
+quanto vera [[philosophy|filosofia]]: quella dell'albero della vita che si
+china con una immensa [[Humility|umiltà]], per il peso stesso della sua
+vivente fecondità; una cosa che [[Dante]] avrebbe potuto descrivere così da
+sopraffarci con il tremendo crepuscolo e quasi inebriarci col frutto divino.
+Ma di norma, possiamo dire che le sue parole sono brevi anche quando i suoi
+libri sono lunghi. Ho preso l'esempio della parola Ens proprio perché è uno
+dei casi in cui il latino è più chiaro del più chiaro inglese. E il suo
+stile, a differenza di quello di sant'Agostino e di molti Dottori cattolici,
+è sempre semplice come un soldo, piuttosto che colorato per due soldi. È
+spesso difficile da comprendere, semplicemente perché gli argomenti sono così
+difficili che quasi nessuna mente, tranne una come la sua, può comprenderli
+pienamente. Ma egli non lo oscura mai usando parole senza cognizione, o,
+ancor più legittimamente, usando parole appartenenti soltanto
+all'[[Imagination|immaginazione]] o all'intuizione. Per quanto concerne il
+suo metodo, egli è forse l'unico vero Razionalista tra tutti i figli degli
+uomini.
+
+Questo ci porta all'altra difficoltà: quella del metodo logico. Non ho mai
+capito perché si supponga che vi sia qualcosa di contorto o di antiquato in
+un sillogismo; ancor meno riesco a capire che cosa intenda chiunque parlando
+come se l'induzione avesse in qualche modo preso il posto della deduzione.
+Tutto il senso della deduzione è che premesse vere producono una conclusione
+vera. Ciò che si chiama induzione sembra significare semplicemente raccogliere
+un maggior numero di premesse vere. O forse, in certe questioni fisiche,
+prendersi un po' più di cura di accertare che siano vere. Può darsi che un
+uomo moderno riesca a ricavare di più da moltissime premesse, riguardanti
+microbi o asteroidi, di quanto un uomo medievale potesse ricavare da
+pochissime premesse riguardanti salamandre e unicorni. Ma il processo di
+deduzione a partire dai dati è lo stesso per la mente moderna come per la
+mente medievale; e ciò che si chiama pomposamente induzione è semplicemente
+raccogliere più dati. E Aristotele o [[aquinas|d'Aquino]], o chiunque abbia i
+suoi cinque sensi, converrebbe naturalmente che la conclusione può essere
+vera solo se le premesse sono vere; e che più premesse vere vi sono, meglio
+è. Fu la sventura della cultura medievale che non vi fossero premesse vere in
+numero sufficiente, a causa delle condizioni piuttosto più rudi di viaggio o
+di sperimentazione. Ma per quanto perfette fossero le condizioni di viaggio o
+di sperimentazione, esse potevano solo produrre premesse; sarebbe pur sempre
+necessario dedurne le conclusioni. Ma molti moderni parlano come se ciò che
+chiamano induzione fosse una qualche via [[Magic|magica]] per giungere a una
+conclusione, senza usare nessuno di quegli orridi vecchi sillogismi. Ma
+l'induzione non ci conduce a una conclusione. L'induzione ci conduce soltanto
+a una deduzione. A meno che gli ultimi tre passaggi sillogistici non siano
+tutti corretti, la conclusione è tutta sbagliata. Così, i grandi uomini di
+scienza del diciannovesimo secolo, che fui educato a venerare («accettare le
+conclusioni della scienza», si diceva sempre), uscirono e ispezionarono da
+vicino l'aria e la terra, le sostanze chimiche e i gas, senza dubbio più da
+vicino di Aristotele o di [[aquinas|d'Aquino]], e poi tornarono e incarnarono
+la loro conclusione finale in un sillogismo. «Tutta la materia è fatta di
+minuscoli noduli microscopici che sono indivisibili. Il mio [[Body|corpo]] è
+fatto di materia. Dunque il mio [[Body|corpo]] è fatto di minuscoli noduli
+microscopici che sono indivisibili.» Non sbagliavano nella forma del loro
+ragionamento; perché è l'unico modo di ragionare. In questo mondo non vi è
+nulla se non un sillogismo — e una fallacia. Ma naturalmente questi uomini
+moderni sapevano, come lo sapevano gli uomini medievali, che le loro
+conclusioni non sarebbero state vere a meno che le loro premesse non fossero
+vere. Ed è lì che cominciarono i guai. Perché gli uomini di scienza, o i loro
+figli e nipoti, uscirono e diedero un altro sguardo alla [[Nature|natura]]
+nodulare della materia; e furono sorpresi di scoprire che non era affatto
+nodulare. Così tornarono e completarono il processo con il loro sillogismo:
+«Tutta la materia è fatta di protoni ed elettroni vorticanti. Il mio
+[[Body|corpo]] è fatto di materia. Dunque il mio [[Body|corpo]] è fatto di
+protoni ed elettroni vorticanti.» E anche quello è un buon sillogismo; benché
+possano dover guardare la materia una o due volte ancora, prima che sappiamo
+se sia una premessa vera e una conclusione vera. Ma nel processo finale della
+[[Truth|verità]] non vi è nient'altro che un buon sillogismo. L'unica altra
+cosa è un cattivo sillogismo; come nella nota forma alla moda: «Tutta la
+materia è fatta di protoni ed elettroni. Mi piacerebbe molto pensare che la
+mente sia più o meno la stessa cosa della materia. Perciò annuncerò,
+attraverso il microfono o il megafono, che la mia mente è fatta di protoni ed
+elettroni.» Ma quella non è induzione; è soltanto un pessimo abbaglio nella
+deduzione. Non è un altro o nuovo modo di pensare; è soltanto smettere di
+pensare.
+
 
 
 <span class="atom-split" data-atom="chapter_05--part_04" data-title="St. Thomas Aquinas — Chapter 6 (part 4)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="archetype/artist,motif/soul,motif/tears,motif/time,motif/window,concept/identity,concept/truth,form/sonnet,histref/renaissance,character/aquinas"></span>
@@ -9180,6 +12833,89 @@ as an intellectual equal.
 
 --/--
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Ciò che davvero si intende, e che è assai più ragionevole, è che i vecchi
+sillogisti talvolta esponevano il sillogismo per esteso; e certo ciò non è
+sempre necessario. Un uomo può scendere di corsa i tre gradini assai più
+rapidamente di così; ma un uomo non può scendere di corsa i tre gradini se
+essi non ci sono. Se lo fa, si romperà il collo, come se uscisse camminando
+da una [[Window|finestra]] del quarto piano. La [[Truth|verità]] su questa
+falsa antitesi di induzione e deduzione è semplicemente questa: che, man mano
+che premesse o dati si accumulavano, l'accento e il dettaglio si spostavano su
+di essi, dalla deduzione finale a cui conducono. Ma essi conducevano pur
+sempre a una deduzione finale; oppure non conducevano a nulla. Il logico aveva
+tanto da dire sugli elettroni o sui microbi che indugiava soprattutto su
+questi dati e abbreviava o dava per scontato il suo sillogismo ultimo. Ma se
+ragionava correttamente, per quanto rapidamente, ragionava sillogisticamente.
+
+In effetti, [[aquinas|d'Aquino]] di solito non argomenta per sillogismi;
+benché argomenti sempre sillogisticamente. Voglio dire che non espone tutti i
+passaggi della [[logic|logica]] in ogni caso; la leggenda che lo faccia fa
+parte di quella vaga e in gran parte non verificata leggenda del
+[[Renaissance|Rinascimento]]: quella per cui gli Scolastici erano tutti
+noiosi medievali contorti e meccanici. Ma egli argomenta con una certa
+austerità, e con disdegno dell'ornamento, il che può farlo apparire monotono
+a chiunque cerchi in modo particolare le forme moderne dell'arguzia o della
+fantasia. Ma tutto questo non ha nulla a che vedere con la domanda posta
+all'inizio di questo capitolo e a cui occorre rispondere alla sua fine: la
+domanda su che cosa egli stia argomentando. A tale riguardo si può ripetere,
+con la massima enfasi, che egli sta argomentando a favore del senso comune.
+Sta argomentando a favore di un senso comune che ancora oggi si
+raccomanderebbe alla maggior parte della gente comune. Sta argomentando a
+favore dei proverbi popolari secondo cui vedere è credere; secondo cui la
+prova del budino sta nel mangiarlo; secondo cui un uomo non può saltare giù
+nella propria gola né negare il fatto della propria esistenza. Egli sostiene
+spesso questa tesi ricorrendo ad astrazioni; ma le astrazioni non sono più
+astratte di Energia o Evoluzione o Spazio-[[Time|Tempo]]; e non ci gettano,
+come spesso fanno le altre, in disperate contraddizioni sulla vita comune. Il
+Pragmatista si propone di essere pratico, ma la sua praticità si rivela
+interamente teorica. Il Tomista comincia con l'essere teorico, ma la sua
+teoria si rivela interamente pratica. È per questo che gran parte del mondo vi
+sta oggi ritornando.
+
+Infine, vi è una reale difficoltà nel fatto di una lingua straniera; a parte
+il fatto ordinario della lingua latina. La terminologia filosofica moderna
+non è sempre esattamente identica al semplice inglese; e la terminologia
+filosofica medievale non è affatto identica nemmeno alla terminologia
+filosofica moderna. Non è in realtà molto difficile imparare il significato
+dei termini principali; ma il loro significato medievale è talvolta l'esatto
+opposto del loro significato moderno. L'esempio ovvio è nella parola cardine
+«forma». Diciamo oggigiorno: «Ho scritto delle scuse formali al Preside»,
+oppure «I lavori con cui abbiamo sciolto il Circolo del Tip-Cat furono
+puramente formali». Ma intendiamo dire che furono puramente fittizi; e san
+Tommaso, se fosse stato membro del Circolo del Tip-Cat, avrebbe inteso proprio
+l'opposto. Avrebbe inteso che i lavori riguardavano il cuore stesso e
+l'[[Soul|anima]] e il segreto dell'intero essere del Circolo del Tip-Cat; e
+che le scuse al Preside erano così essenzialmente apologetiche da strappargli
+il cuore stesso in [[Tears|lacrime]] di vera contrizione. Perché «formale» nel
+linguaggio tomista significa attuale, ovvero che possiede la reale qualità
+decisiva che fa sì che una cosa sia se stessa. Grosso modo, quando egli
+descrive una cosa come fatta di Forma e Materia, riconosce assai giustamente
+che la Materia è l'elemento più misterioso e indefinito e privo di connotati;
+e che ciò che imprime a qualunque cosa la propria [[Identity|identità]] è la
+sua Forma. La Materia, per così dire, non è tanto l'elemento solido quanto
+quello liquido o gassoso nel cosmo: e in ciò gli scienziati più moderni
+cominciano a concordare con lui. Ma la forma è il fatto; è ciò che fa di un
+mattone un mattone, e di un busto un busto, e non l'argilla informe e
+calpestata di cui l'uno o l'altro possono essere fatti. La pietra che spezzò
+una statuetta, in qualche nicchia gotica, avrebbe potuto essere essa stessa
+una statuetta; e sotto l'analisi chimica, la statuetta è soltanto una pietra.
+Ma una simile analisi chimica è del tutto falsa come analisi filosofica. La
+realtà, ciò che rende reali le due cose, sta nell'idea dell'immagine e
+nell'idea di colui che l'immagine spezza. Questo è solo un esempio di
+passaggio del mero idioma della terminologia tomista; ma non è un cattivo
+campione introduttivo della [[Truth|verità]] del pensiero tomista. Ogni
+[[artist|artista]] sa che la forma non è superficiale ma fondamentale; che la
+forma è il fondamento. Ogni scultore sa che la forma della statua non è
+l'esterno della statua, ma piuttosto l'interno della statua; persino nel senso
+dell'interno dello scultore. Ogni poeta sa che la forma del [[Sonnet|sonetto]]
+non è soltanto la forma della poesia; ma la poesia. Nessun critico moderno che
+non comprenda ciò che lo Scolastico medievale intendeva per forma può
+incontrare lo Scolastico come un pari intellettuale.
+
+--/--
 
 
 
@@ -9294,6 +13030,115 @@ sense, [[Supernatural|supernatural]].  He said it had arbitrary rights above [[N
 a sort of theology without theism.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+VII
+
+LA [[philosophy|FILOSOFIA]] PERMANENTE
+
+È un peccato che la parola Antropologia sia stata degradata allo studio
+degli Antropoidi. Essa è ormai inguaribilmente associata alle baruffe tra
+professori preistorici (in più sensi di uno) sul fatto che una scheggia di
+pietra sia il dente di un uomo o di una scimmia; talvolta risolte, come in
+quel celebre caso, quando si scoprì che era il dente di un maiale. È
+giustissimo che vi sia una scienza puramente fisica di tali cose; ma il nome
+comunemente usato avrebbe potuto [[Well|bene]], per analogia, essere dedicato
+a cose non solo più ampie e profonde, ma anche più pertinenti. Proprio come,
+in [[america|America]], i nuovi Umanisti hanno fatto notare ai vecchi
+Umanitari che il loro [[Humanitarianism|umanitarismo]] si è largamente
+concentrato su cose che non sono specialmente umane, quali le condizioni
+fisiche, gli appetiti, i bisogni economici, l'ambiente e così via — così in
+pratica coloro che vengono chiamati Antropologi devono restringere la loro
+mente alle cose materialistiche che non sono notevolmente antropiche. Devono
+andare a caccia, attraverso la [[history|storia]] e la [[history|preistoria]],
+di qualcosa che con enfasi non è Homo Sapiens, ma è sempre in realtà
+considerato come Simius Insipiens. L'Homo Sapiens può essere considerato solo
+in relazione alla Sapientia, e solo un libro come quello di san Tommaso è
+davvero dedicato all'idea intrinseca di Sapientia. In breve, dovrebbe esistere
+un vero studio chiamato Antropologia corrispondente alla Teologia. In questo
+senso san Tommaso [[aquinas|d'Aquino]], forse più che qualsiasi altra cosa, è
+un grande antropologo.
+
+Mi scuso per le parole d'apertura di questo capitolo con tutti quegli
+eccellenti ed eminenti uomini di scienza che sono impegnati nel vero studio
+dell'umanità nella sua relazione con la biologia. Ma sono piuttosto propenso
+a credere che saranno i primi a negare che vi sia stata una disposizione
+alquanto sproporzionata, nella scienza popolare, a trasformare lo studio degli
+esseri umani nello studio dei selvaggi. E la selvatichezza non è
+[[history|storia]]; è o l'inizio della [[history|storia]] o la sua fine.
+Sospetto che i più grandi scienziati converrebbero che fin troppi professori
+si sono così smarriti nella boscaglia o nella giungla; professori che
+volevano studiare l'antropologia e non andarono mai più in là
+dell'antropofagia. Ma ho una ragione particolare per premettere questo
+suggerimento di una più alta antropologia con delle scuse a qualsiasi genuino
+biologo che potrebbe sembrare incluso, ma certamente non è incluso, in una
+protesta contro la scienza popolare da quattro soldi. Perché la prima cosa da
+dire su san Tommaso come antropologo è che egli somiglia davvero in modo
+notevole al miglior tipo di antropologo biologico moderno; del tipo che si
+definirebbe Agnostico. Questo fatto è un punto di svolta così netto e decisivo
+nella [[history|storia]], che la [[history|storia]] ha davvero bisogno di
+essere richiamata e registrata.
+
+San Tommaso [[aquinas|d'Aquino]] somiglia da vicino al grande Professor
+Huxley, l'Agnostico che inventò la parola Agnosticismo. Gli somiglia nel suo
+modo di dare inizio all'argomentazione, ed è diverso da chiunque altro, prima
+e dopo, fino all'età huxleyana. Egli adotta quasi alla lettera la definizione
+huxleyana del metodo agnostico: «Seguire la ragione fin dove essa arriva»;
+l'unica questione è: dove arriva? Egli enuncia l'affermazione quasi
+sorprendentemente moderna o materialistica: «Ogni cosa che è nell'intelletto è
+stata nei sensi». È qui che egli cominciò, non meno di qualsiasi uomo di
+scienza moderno, anzi non meno di qualsiasi materialista moderno che ormai
+difficilmente può dirsi uomo di scienza; all'estremità opposta dell'indagine
+rispetto a quella del puro mistico. I Platonici, o almeno i Neoplatonici,
+tendevano tutti alla concezione che la mente fosse illuminata interamente dal
+di dentro; san Tommaso insistette sul fatto che essa fosse illuminata da
+cinque finestre, che chiamiamo le finestre dei sensi. Ma egli voleva che la
+luce proveniente dal di fuori risplendesse su ciò che era dentro. Voleva
+studiare la [[Nature|natura]] dell'Uomo, e non semplicemente quel muschio e
+quei funghi che poteva scorgere attraverso la [[Window|finestra]], e che
+apprezzava come la prima illuminante esperienza dell'uomo. E partendo da
+questo punto, egli procede a scalare la [[house|Casa]] dell'Uomo, gradino
+dopo gradino e piano dopo piano, finché non è uscito sulla torre più alta e
+ha contemplato la visione più vasta.
+
+In altre parole, egli è un antropologo, con una teoria completa dell'Uomo,
+giusta o sbagliata. Ora gli Antropologi moderni, che si definivano Agnostici,
+fallirono completamente nell'essere Antropologi. Entro i loro limiti, non
+potevano ottenere una teoria completa dell'Uomo, [[Alone|tanto meno]] una
+teoria completa della [[Nature|natura]]. Cominciarono con l'escludere qualcosa
+che chiamavano l'Inconoscibile. L'incomprensibilità era quasi comprensibile,
+se potessimo davvero intendere l'Inconoscibile nel senso dell'Ultimo. Ma
+divenne rapidamente evidente che ogni sorta di cose erano Inconoscibili, che
+erano proprio le cose che un uomo deve conoscere. È necessario sapere se egli
+sia responsabile o irresponsabile, perfetto o imperfetto, perfettibile o
+imperfettibile, mortale o immortale, condannato o libero, non per comprendere
+Dio, ma per comprendere l'Uomo. Nulla che [[Leaves|lasci]] queste cose sotto
+una nube di [[Doubt|dubbio]] religioso può in alcun modo pretendere di essere
+una Scienza dell'Uomo; essa rifugge dall'antropologia altrettanto
+completamente quanto dalla teologia. Ha l'uomo il libero arbitrio; oppure il
+suo senso della scelta è un'illusione? Ha una [[Conscience|coscienza]], o la
+sua [[Conscience|coscienza]] ha una qualche autorità; o è soltanto il
+pregiudizio del passato tribale? Vi è una reale [[Hope|speranza]] di risolvere
+queste cose mediante la ragione umana; e ha essa una qualche autorità? Deve
+egli considerare la [[Death|morte]] come definitiva; e deve considerare
+possibile un aiuto miracoloso? Ora, è tutto un nonsenso dire che queste cose
+sono inconoscibili in un qualche senso remoto, come la distinzione tra i
+Cherubini e i Serafini, o la Processione dello [[Ghost|Spirito]] Santo. Gli
+Scolastici possono aver mirato troppo oltre i nostri limiti nell'inseguire i
+Cherubini e i Serafini. Ma nel chiedere se un uomo possa scegliere o se un
+uomo morirà, essi ponevano domande ordinarie di [[history|storia]] naturale;
+come se un gatto possa graffiare o se un cane possa fiutare. Nulla che si
+definisca una Scienza completa dell'Uomo può eluderle. E i grandi Agnostici le
+elusero davvero. Possono aver detto di non avere prove scientifiche; in tal
+caso non riuscirono a produrre nemmeno un'ipotesi scientifica. Ciò che
+generalmente produssero fu una contraddizione selvaggiamente antiscientifica.
+La maggior parte dei moralisti monisti si limitava a dire che l'Uomo non ha
+scelta; ma che egli deve pensare e agire eroicamente come se l'avesse. Huxley
+rese la [[morality|moralità]], e perfino la [[morality|moralità]] vittoriana,
+nel senso esatto, [[Supernatural|soprannaturale]]. Disse che essa aveva
+diritti arbitrari al di sopra della [[Nature|natura]]; una sorta di teologia
+senza teismo.
+
 
 
 <span class="atom-split" data-atom="chapter_06--part_02" data-title="St. Thomas Aquinas — Chapter 7 (part 2)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="topos/double,archetype/child,motif/childhood,motif/city,motif/garden,motif/insects,motif/mirror,motif/nature,motif/stars,motif/window,concept/beauty,concept/history,concept/nature,concept/self,form/history,form/sketch,histref/islam,histref/milton,character/aquinas,character/milton"></span>
@@ -9397,6 +13242,105 @@ And yet, upon this sharp pin-point of reality, he rears by long
 logical processes that have never really been successfully overthrown,
 the whole cosmic system of Christendom.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Non so con certezza perché san Tommaso fu chiamato il Dottore Angelico: se
+fosse perché aveva un temperamento angelico, o l'intellettualità di un Angelo;
+oppure se vi fosse una leggenda posteriore secondo cui egli si concentrava
+sugli Angeli — specialmente sulle punte degli aghi. Se così è, non capisco
+bene come sia sorta questa idea; la [[history|storia]] ha molti esempi di
+un'irritante abitudine a etichettare qualcuno in connessione con qualcosa,
+come se non facesse mai nient'altro. Chi fu che diede inizio all'inane
+abitudine di riferirsi al Dr. Johnson come «il nostro lessicografo», quasi non
+avesse mai fatto nient'altro che scrivere un dizionario? Perché la maggior
+parte della gente insiste nell'incontrare la vasta e ampia mente di Pascal nel
+suo punto più angusto: il punto in cui essa fu affilata a spillo dal livore
+dei Giansenisti contro i Gesuiti? È solo possibile, per quanto ne so, che
+questo etichettare [[aquinas|d'Aquino]] come uno specialista fosse un'oscura
+svalutazione di lui come universalista. Perché questo è un trucco assai comune
+per sminuire gli uomini di lettere o di scienza. San Tommaso deve essersi
+fatto un certo numero di nemici, benché non li trattasse quasi mai da nemici.
+Sfortunatamente, il buon carattere è talvolta più irritante del cattivo
+carattere. E, dopotutto, egli aveva fatto una gran quantità di danni, come
+molti uomini medievali avrebbero pensato; e, cosa ancor più curiosa, una gran
+quantità di danni a entrambi gli schieramenti. Era stato un rivoluzionario
+contro Agostino e un tradizionalista contro Averroè. A taluni poteva sembrare
+che avesse tentato di mandare in rovina quell'antica [[Beauty|bellezza]] della
+[[City|città]] di Dio, che aveva qualche somiglianza con la Repubblica di
+Platone. Ad altri poteva sembrare che avesse inferto un colpo alle forze
+avanzanti e livellatrici dell'[[Islam]], drammatico quanto quello di Goffredo
+che prende d'assalto Gerusalemme. È possibile che questi nemici, per via di
+lodare a mezza bocca, parlassero della sua rispettabilissima operetta sugli
+Angeli: come un uomo potrebbe dire che Darwin era davvero attendibile quando
+scriveva sugli [[Insects|insetti]] corallini; o che alcune delle
+[[Poems|poesie]] latine di [[Milton]] erano davvero assai pregevoli. Ma questa
+è solo una congettura, e molte altre congetture sono possibili. E sono incline
+a pensare che san Tommaso fosse davvero interessato in modo piuttosto speciale
+alla [[Nature|natura]] degli Angeli, per la stessa ragione che lo rendeva
+ancor più interessato alla [[Nature|natura]] degli Uomini. Faceva parte di
+quel forte interesse personale per le cose subordinate e semidipendenti, che
+attraversa l'intero suo sistema: una gerarchia di libertà superiori e
+inferiori. Egli era interessato al problema dell'Angelo, così come era
+interessato al problema dell'Uomo, perché era un problema; e specialmente
+perché era un problema di una creatura intermedia. Non pretendo di trattare
+qui questa misteriosa qualità, così come egli la concepisce esistere in
+quell'imperscrutabile essere intellettuale, che è meno di Dio ma più
+dell'Uomo. Ma fu questa qualità di anello nella catena, o di piolo nella
+scala, che principalmente riguardava il teologo, nello sviluppare la sua
+particolare teoria dei gradi. Soprattutto, è questo che principalmente lo
+commuove, quando trova così affascinante il centrale mistero dell'Uomo. E per
+lui il punto è sempre che l'Uomo non è un pallone che sale nel cielo né una
+talpa che scava soltanto nella terra; ma piuttosto una cosa come un albero le
+cui radici sono nutrite dalla terra, mentre i suoi rami più alti sembrano
+innalzarsi quasi fino alle [[Stars|stelle]].
+
+Ho fatto notare che il mero libero pensiero moderno ha lasciato ogni cosa
+nella nebbia, se stesso incluso. L'affermazione che il pensiero è libero
+condusse dapprima alla negazione che la volontà sia libera; ma persino su ciò
+non vi fu alcuna reale determinazione tra i Deterministi. In pratica, dicevano
+agli uomini che dovevano trattare la propria volontà come libera benché non
+fosse libera. In altre parole, l'Uomo deve vivere una [[Double|duplice]] vita;
+il che è esattamente la vecchia eresia di Sigieri di Brabante sulla
+[[Double|Duplice]] Mente. In altre parole, il diciannovesimo secolo lasciò
+ogni cosa nel caos: e l'importanza del tomismo per il ventesimo secolo è che
+esso può restituirci un cosmo. Possiamo qui dare solo il più rozzo
+[[Sketch|abbozzo]] di come [[aquinas|d'Aquino]], al pari degli Agnostici,
+cominciando nelle cantine cosmiche, si sia tuttavia inerpicato fino alle torri
+cosmiche.
+
+Senza pretendere di abbracciare entro tali limiti l'essenziale idea tomista,
+mi sia concesso di buttar giù una sorta di versione approssimativa della
+domanda fondamentale, che credo di aver conosciuto io stesso, consciamente o
+inconsciamente, fin dalla mia [[Childhood|fanciullezza]]. Quando un
+[[Child|bambino]] guarda fuori dalla [[Window|finestra]] della stanza dei
+bambini e vede qualcosa, poniamo il verde prato del [[Garden|giardino]], che
+cosa conosce in realtà; o conosce qualcosa? Vi sono ogni sorta di giochi
+infantili di [[philosophy|filosofia]] negativa che si giocano attorno a questa
+domanda. Un brillante scienziato vittoriano si compiaceva di dichiarare che il
+[[Child|bambino]] non vede affatto dell'erba; ma soltanto una sorta di nebbia
+verde riflessa in un minuscolo [[Mirror|specchio]] dell'occhio umano. Questo
+esemplare di razionalismo mi ha sempre colpito come quasi follemente
+irrazionale. Se egli non è certo dell'esistenza dell'erba, che vede attraverso
+il vetro di una [[Window|finestra]], come diamine può essere certo
+dell'esistenza della retina, che vede attraverso il vetro di un microscopio?
+Se la vista inganna, perché non potrebbe continuare a ingannare? Uomini di
+un'altra scuola rispondono che l'erba è una mera impressione verde nella
+mente; e che egli non può essere certo di nulla tranne che della mente.
+Dichiarano che egli può essere cosciente soltanto della propria coscienza; il
+che si dà il caso sia l'unica cosa di cui sappiamo che il [[Child|bambino]]
+non è affatto cosciente. In tal senso, sarebbe assai più vero dire che c'è
+l'erba e nessun [[Child|bambino]], che dire che c'è un [[Child|bambino]]
+cosciente ma nessuna erba. San Tommaso [[aquinas|d'Aquino]], intervenendo
+all'improvviso in questa disputa da stanza dei bambini, dice con enfasi che il
+[[Child|bambino]] è consapevole dell'Ens. Molto prima di sapere che l'erba è
+erba, o che il [[Self|sé]] è [[Self|sé]], egli sa che qualcosa è qualcosa.
+Forse sarebbe meglio dire con grande enfasi (con un pugno sul tavolo): «C'è un
+È». Questa è tutta la credulità monastica che san Tommaso ci chiede
+all'inizio. Assai pochi miscredenti cominciano col chiederci di credere così
+poco. E tuttavia, su questa aguzza punta di spillo di realtà, egli erige,
+mediante lunghi processi logici che non sono mai stati davvero rovesciati con
+successo, l'intero sistema cosmico della Cristianità.
 
 
 
@@ -9506,6 +13450,117 @@ God is more actual even than Man; more actual even than Matter;
 for God with all His powers at every instant is immortally in action.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Così [[aquinas|Aquinas]] insiste in modo profondissimo ma anche assai
+pratico che con questa idea di affermazione entra all'istante
+l'idea di contraddizione.  È immediatamente evidente, perfino al
+[[Child|bambino]], che non possono darsi insieme affermazione e contraddizione.
+Comunque si voglia chiamare la cosa che egli vede, una [[Moon|luna]] o un
+miraggio o una sensazione o uno stato di coscienza, quando la vede
+sa che non è vero che non la vede.  O comunque si voglia chiamare
+ciò che si suppone egli stia facendo, vedere o sognare o essere
+cosciente di un'impressione, egli sa che, se lo sta facendo, è una
+menzogna dire che non lo sta facendo.  Perciò è già entrato qualcosa
+che va oltre persino il primo fatto dell'essere; lo segue come la sua
+[[Shadow|ombra]] il primo fondamentale credo o comandamento, che una cosa
+non può essere e non essere.  D'ora innanzi, nel linguaggio comune
+o popolare, esiste un falso e un vero.  Dico nel linguaggio popolare,
+perché in nessun luogo [[aquinas|Aquinas]] è più sottile che nel rilevare come
+l'essere non sia rigorosamente la stessa cosa della [[Truth|verità]]; giacché
+scorgere la [[Truth|verità]] deve significare l'apprezzamento dell'essere da
+parte di qualche mente capace di apprezzarlo.  Ma in senso generale
+è entrata in quel mondo primordiale di pura attualità la divisione
+e il dilemma che porta nel mondo la specie ultima di guerra;
+il duello eterno fra il Sì e il No.  È il dilemma per sfuggire al quale
+molti scettici hanno oscurato l'universo e dissolto la mente.
+Sono coloro che sostengono esservi qualcosa che è insieme Sì e No.
+Non so se lo pronuncino Sìo.
+
+Il passo successivo, che segue a questa accettazione dell'attualità
+o certezza, o comunque la si chiami nel linguaggio popolare, è assai
+più difficile da spiegare in quel linguaggio.  Ma esso rappresenta
+esattamente il punto in cui quasi tutti gli altri sistemi sbagliano
+e, nel compiere il terzo passo, abbandonano il primo.  [[aquinas|Aquinas]] ha
+affermato che il nostro primo senso del fatto è un fatto; e non può
+rimangiarselo senza cadere nella falsità.  Ma quando andiamo a
+considerare il fatto o i fatti, così come li conosciamo, osserviamo
+che essi hanno un carattere piuttosto bizzarro; il che ha reso molti
+moderni stranamente e inquietamente scettici a loro riguardo.
+Per esempio, essi sono in gran parte in uno stato di mutamento,
+dall'essere una cosa all'essere un'altra; oppure le loro qualità sono
+relative ad altre cose; oppure sembrano muoversi incessantemente;
+oppure sembrano svanire del tutto.  A questo punto, come dico, molti
+sapienti perdono la presa sul primo principio della realtà, che in un
+primo momento concederebbero; e ripiegano sul dire che non vi è nulla
+se non il mutamento; o nulla se non la comparazione; o nulla se non
+il flusso; o, in effetti, che non vi è nulla del tutto.  [[aquinas|Aquinas]]
+rovescia l'intero ragionamento nel senso opposto, restando fedele
+alla sua prima presa di coscienza della realtà.  Non vi è alcun
+[[Doubt|dubbio]] intorno all'essere dell'essere, anche se talvolta esso appare
+come un divenire; e ciò perché quel che vediamo non è la pienezza
+dell'essere; ovvero (per continuare in una sorta di gergo colloquiale)
+non vediamo mai l'essere essere tanto quanto potrebbe.  Il ghiaccio
+si scioglie in [[Water|acqua]] fredda e l'[[Water|acqua]] fredda si riscalda in
+[[Water|acqua]] calda; non può essere tutte e tre le cose in una volta.  Ma
+questo non rende l'[[Water|acqua]] irreale né tantomeno relativa; significa
+soltanto che il suo essere è limitato all'essere una cosa per [[Time|volta]].
+Ma la pienezza dell'essere è tutto ciò che esso può essere; e senza
+di essa le forme minori o approssimative dell'essere non possono
+venire spiegate come alcunché; a meno che non le si spieghi via come nulla.
+
+Questo rozzo abbozzo può, nella migliore delle ipotesi, essere
+soltanto storico anziché filosofico.  È impossibile comprimervi
+le prove metafisiche di una simile idea; specialmente nel linguaggio
+metafisico medievale.  Ma questa distinzione nella [[philosophy|filosofia]] è
+enorme come punto di svolta nella [[history|storia]].  La maggior parte dei
+pensatori, accorgendosi dell'apparente [[Mutability|mutabilità]] dell'essere, ha in
+realtà dimenticato la propria presa di coscienza dell'essere, e ha
+creduto soltanto nella [[Mutability|mutabilità]].  Non possono nemmeno dire che una
+cosa muta in un'altra cosa; per loro non vi è, nel processo, alcun
+istante in cui essa sia una cosa qualsiasi.  È soltanto un mutamento.
+Sarebbe più logico chiamarlo un nulla che muta in un nulla, che non
+dire (partendo da questi principi) che vi sia mai stato o vi sarà un
+momento in cui la cosa è se stessa.  San Tommaso sostiene che la cosa
+ordinaria, in ogni istante, è qualcosa; ma non è tutto ciò che potrebbe
+essere.  Vi è una pienezza dell'essere, nella quale essa potrebbe essere
+tutto ciò che può essere.  Così, mentre la maggior parte dei sapienti
+approda infine a null'altro che al nudo mutamento, egli approda alla
+cosa ultima che è immutabile, perché è tutte le altre cose in una volta.
+Mentre essi descrivono un mutamento che è realmente un mutamento nel
+nulla, egli descrive un'immutabilità che comprende i mutamenti di ogni
+cosa.  Le cose mutano perché non sono complete; ma la loro realtà può
+essere spiegata soltanto come parte di qualcosa che è completo.
+È Dio.
+
+Storicamente, almeno, è attorno a questo angolo netto e storto
+che tutti i sofisti si sono seguiti l'un l'altro, mentre il grande
+Scolastico saliva l'alta [[Road|strada]] dell'esperienza e dell'espansione;
+fino a contemplare città, fino a edificare città.  Tutti fallirono
+già a questo stadio iniziale perché, per usare le parole del vecchio
+gioco, tolsero via il numero che avevano pensato per primo.  Il
+riconoscimento di qualcosa, di una cosa o di più cose, è il primo
+atto dell'intelletto.  Ma poiché l'esame di una cosa mostra che essa
+non è una cosa fissa o definitiva, ne dedussero che non vi è nulla
+di fisso o di definitivo.  Così, in vari modi, cominciarono tutti a
+vedere una cosa come qualcosa di più esile di una cosa; un'onda;
+una debolezza; un'instabilità astratta.  San Tommaso, per usare la
+stessa rozza immagine, vide una cosa che era più densa di una cosa;
+che era persino più solida dei fatti solidi ma secondari che aveva
+cominciato con l'ammettere come fatti.  Poiché sappiamo che essi sono
+reali, qualunque elemento elusivo o sconcertante nella loro realtà
+non può essere davvero irrealtà; e deve essere soltanto la loro
+relazione con la realtà reale.  Un centinaio di filosofie umane,
+spaziando per la terra dal Nominalismo al Nirvana e alla Maya,
+dall'evoluzione informe al quietismo privo di mente, provengono tutte
+da questa prima rottura nella catena tomista; l'idea che, poiché ciò
+che vediamo non ci soddisfa né spiega se stesso, esso non sia neppure
+ciò che vediamo.  Quel cosmo è una contraddizione in termini e strozza
+se stesso; ma il Tomismo si libera con un taglio.  Il difetto che
+scorgiamo, in ciò che è, è semplicemente che esso non è tutto ciò che è.
+Dio è più attuale persino dell'Uomo; più attuale persino della Materia;
+poiché Dio, con tutte le Sue potenze, in ogni istante è immortalmente in azione.
+
 
 
 <span class="atom-split" data-atom="chapter_06--part_04" data-title="St. Thomas Aquinas — Chapter 7 (part 4)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="archetype/king,motif/clock,motif/ship,motif/water,concept/self,form/comedy,setting/ship,character/aquinas"></span>
@@ -9609,6 +13664,114 @@ is unthinkable for an admittedly unthinkable God to make everything
 out of nothing and then pretend that it is more thinkable that nothing
 should turn itself into everything.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Una [[Comedy|Commedia]] cosmica di specie assai curiosa si è verificata di
+recente; coinvolgendo le opinioni di uomini brillantissimi, come il
+signor Bernard [[Shaw]] e il Decano di San Paolo.  In breve, liberi
+pensatori d'ogni sorta avevano spesso detto di non aver bisogno di una
+Creazione, perché il cosmo era sempre esistito e sarebbe sempre esistito.
+Il signor Bernard [[Shaw]] diceva d'esser diventato ateo perché l'universo
+aveva continuato a farsi da sé fin dal principio o senza principio;
+il Decano Inge più tardi mostrò costernazione alla sola idea che
+l'universo potesse avere una fine.  La maggior parte dei cristiani
+moderni, che vivono di tradizione là dove i cristiani medievali
+potevano vivere di [[logic|logica]] o di ragione, sentiva vagamente che fosse
+un'idea spaventosa privarli del Giorno del Giudizio.  La maggior parte
+degli agnostici moderni (che sono deliziati nel sentir definire
+spaventose le loro idee) gridò tanto più forte, all'unisono, che
+l'universo [[Self|auto]]-produttivo, [[Self|auto]]-esistente e veramente scientifico
+non aveva mai avuto bisogno di un principio e non poteva giungere a
+una fine.  In quello stesso istante, del tutto d'improvviso, come la
+vedetta su una [[Ship|nave]] che grida un avvertimento su uno scoglio, il vero
+uomo di scienza, l'esperto che stava esaminando i fatti, annunciò a
+gran voce che l'universo stava giungendo alla fine.  Egli non era stato
+ad ascoltare, s'intende, le chiacchiere dei dilettanti; era stato
+effettivamente a esaminare la tessitura della materia; e disse che si
+stava disintegrando:  il mondo, a quanto pareva, si stava facendo
+saltare in aria mediante una graduale esplosione chiamata energia;
+l'intera faccenda avrebbe di certo avuto una fine e presumibilmente
+aveva avuto un principio.  La cosa era davvero assai sconvolgente;
+non per gli ortodossi, ma piuttosto in special modo per gli eterodossi;
+i quali si scandalizzano assai più facilmente.  Il Decano Inge, che
+per anni aveva ammonito gli ortodossi sul loro severo dovere di
+accettare tutte le scoperte scientifiche, si mise addirittura a gemere
+ad alta voce per questa scoperta scientifica davvero priva di tatto;
+e praticamente implorò gli scopritori scientifici di andarsene a
+scoprire qualcosa di diverso.  Sembra quasi incredibile; ma è un fatto
+che egli chiese che cosa avrebbe avuto Dio per divertirsi, qualora
+l'universo cessasse.  Ecco una misura di quanto la mente moderna abbia
+bisogno di Tommaso [[aquinas|Aquinas]].  Ma anche senza [[aquinas|Aquinas]], stento a concepire
+un qualsiasi uomo colto, e ancor meno un uomo così dotto, che creda in
+Dio senza affatto presupporre che Dio contenga in Sé ogni perfezione,
+ivi compresa la gioia eterna; e non abbia bisogno del sistema solare
+per intrattenerlo come un circo.
+
+Uscire da queste presunzioni, pregiudizi e private delusioni, per
+entrare nel mondo di san Tommaso, è come sfuggire da una rissa in una
+stanza buia per ritrovarsi in pieno giorno.  San Tommaso dice, con
+tutta schiettezza, di credere egli stesso che questo mondo abbia un
+principio e una fine; perché tale sembra essere l'insegnamento della
+Chiesa; la validità del quale messaggio mistico all'umanità egli
+difende altrove con dozzine di argomenti del tutto differenti.
+Comunque sia, la Chiesa disse che il mondo sarebbe finito; e a quanto
+pare la Chiesa aveva ragione; sempre supponendo (come si suppone
+sempre che si debba supporre) che gli ultimi uomini di scienza abbiano
+ragione.  Ma [[aquinas|Aquinas]] dice di non vedere alcuna ragione particolare, in
+ragione, per cui questo mondo non dovrebbe essere un mondo senza fine;
+o addirittura senza principio.  Ed è del tutto certo che, se esso fosse
+interamente senza fine né principio, vi sarebbe pur sempre esattamente
+la stessa necessità logica di un Creatore.  Chiunque non lo veda, egli
+lascia intendere con garbo, non comprende veramente che cosa si intenda
+per Creatore.
+
+Poiché ciò che san Tommaso intende non è un'immagine medievale di un
+vecchio [[King|re]]; bensì questo secondo passo nel grande ragionamento
+intorno all'Ens ossia all'Essere; il secondo punto che è così
+disperatamente difficile da esprimere correttamente nel linguaggio
+popolare.  Ecco perché l'ho introdotto qui nella forma particolare
+dell'argomento secondo cui dev'esservi un Creatore anche se non vi è
+alcun Giorno della Creazione.  Guardando l'Essere così com'è ora, come
+il bambino guarda l'erba, notiamo di esso una seconda cosa; in
+linguaggio del tutto popolare, esso appare secondario e dipendente.
+L'esistenza esiste; ma non è sufficientemente [[Self|auto]]-esistente; e non lo
+diverrebbe mai per il solo fatto di continuare a esistere.  Il medesimo
+senso primario che ci dice essere esso Essere, ci dice che non è Essere
+perfetto; non semplicemente imperfetto nel senso popolare e polemico di
+contenere peccato o dolore; ma imperfetto in quanto Essere; meno attuale
+dell'attualità che esso implica.  Per esempio, il suo Essere è spesso
+soltanto un Divenire; un cominciare a Essere o un cessare di Essere;
+esso implica una cosa più costante o completa di cui non fornisce in sé
+alcun esempio.  Questo è il significato di quella fondamentale frase
+medievale, «Tutto ciò che si muove è mosso da un altro»; la quale,
+nella limpida sottigliezza di san Tommaso, significa inesprimibilmente
+più del mero «qualcuno ha caricato l'[[Clock|orologio]]» deistico con cui
+probabilmente la si confonde spesso.  Chiunque pensi in profondità
+vedrà che il moto ha in sé un'essenziale incompletezza, che si
+approssima a qualcosa di più completo.
+
+L'argomento vero e proprio è piuttosto tecnico; e riguarda il fatto che
+la potenzialità non spiega se stessa; e inoltre, in ogni caso, il
+dispiegarsi dev'essere il dispiegarsi di qualcosa di ripiegato.  Basti
+dire che i meri evoluzionisti moderni, i quali vorrebbero ignorare
+l'argomento, non lo fanno perché abbiano scoperto un qualche difetto
+nell'argomento; giacché non hanno mai scoperto l'argomento stesso.
+Lo fanno perché sono troppo superficiali per scorgere il difetto nel
+proprio argomento, poiché la debolezza della loro tesi è coperta da una
+fraseologia alla moda, come la forza della vecchia tesi è coperta da una
+fraseologia all'antica.  Ma per coloro che pensano davvero, vi è sempre
+qualcosa di realmente impensabile nell'intero cosmo evolutivo, così come
+essi lo concepiscono; perché è qualcosa che viene fuori dal nulla;
+un'inondazione sempre crescente d'[[Water|acqua]] che si riversa da una brocca
+vuota.  Coloro che possono semplicemente accettarlo, senza nemmeno
+scorgere la difficoltà, difficilmente andranno tanto in profondità
+quanto [[aquinas|Aquinas]] e vedranno la soluzione della sua difficoltà.  In una
+parola, il mondo non spiega se stesso, e non può farlo semplicemente
+continuando a espandersi.  Ma in ogni caso è assurdo che l'Evoluzionista
+si lamenti perché è impensabile che un Dio, riconosciutamente
+impensabile, faccia ogni cosa dal nulla, e pretenda poi che sia più
+pensabile che il nulla si trasformi da sé nel tutto.
 
 
 
@@ -9729,6 +13892,123 @@ diverse reality.  He will not take away the numbers he first thought of,
 though there may be quite a number of them.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Abbiamo visto che la maggior parte dei filosofi non riesce
+semplicemente a filosofare sulle cose perché esse mutano; e non riesce
+parimenti a filosofare sulle cose perché esse differiscono.  Non
+abbiamo spazio per seguire san Tommaso attraverso tutte queste eresie
+negative; ma una parola va detta sul Nominalismo, ossia il [[Doubt|dubbio]]
+fondato sulle cose che differiscono.  Tutti sanno che il Nominalista
+dichiarò che le cose differiscono troppo per poter essere realmente
+classificate; sicché esse sono soltanto etichettate.  [[aquinas|Aquinas]] era un
+Realista fermo ma moderato, e perciò riteneva che esistano realmente
+qualità generali; come che gli esseri umani sono umani, tra gli altri
+paradossi.  Essere un Realista estremo lo avrebbe portato troppo vicino
+all'essere un Platonico.  Riconosceva che l'individualità è reale, ma
+diceva che essa coesiste con un carattere comune che rende possibile
+una certa generalizzazione; in effetti, come nella maggior parte delle
+cose, egli disse esattamente ciò che direbbe ogni senso comune, se
+nessun intelligente eretico l'avesse mai turbato.  Nondimeno, essi
+continuano tuttora a turbarlo.  Ricordo quando il signor H. G. Wells
+ebbe un allarmante accesso di [[philosophy|filosofia]] nominalista; e riversò libro
+dopo libro per sostenere che ogni cosa è unica e atipica, al punto che
+un uomo è talmente un individuo da non essere nemmeno un uomo.  È un
+fatto bizzarro e quasi comico che questa negazione caotica attragga
+particolarmente coloro che si lamentano di continuo del caos sociale,
+e che propongono di rimpiazzarlo con le più radicali regolamentazioni
+sociali.  Sono proprio gli uomini che dicono che nulla può essere
+classificato a dire che tutto dev'essere codificato.  Così il signor
+Bernard [[Shaw]] disse che l'unica regola aurea è che non vi è alcuna
+regola aurea.  Egli preferisce una regola di ferro; come in [[Russia]].
+
+Ma questa è solo una piccola incoerenza in alcuni moderni in quanto
+individui.  Vi è un'incoerenza assai più profonda in essi in quanto
+teorici, in relazione alla teoria generale chiamata Evoluzione
+Creatrice.  Sembrano immaginare di sfuggire al [[Doubt|dubbio]] metafisico
+intorno al mero mutamento assumendo (non è molto chiaro perché) che il
+mutamento sarà sempre in meglio.  Ma la difficoltà matematica di
+trovare uno spigolo in una curva non è alterata dal capovolgere il
+diagramma, e dal dire che una curva discendente è ora una curva
+ascendente.  Il punto è che non vi è alcun punto nella curva; nessun
+luogo in cui abbiamo il diritto logico di dire che la curva ha
+raggiunto il suo culmine, o rivelato la sua origine, o giunto alla sua
+fine.  Non fa alcuna differenza che essi scelgano di rallegrarsene, e
+dicano: «È sufficiente che vi sia sempre un aldilà»; anziché lamentarsi,
+come i più realistici poeti del passato, sulla [[Tragedy|tragedia]] della mera
+[[Mutability|Mutabilità]].  Non è sufficiente che vi sia sempre un aldilà; perché esso
+potrebbe essere al di là del sopportabile.  Anzi, l'unica difesa di
+questa concezione è che la pura noia è un'agonia tale, che qualsiasi
+movimento è un sollievo.  Ma la [[Truth|verità]] è che essi non hanno mai letto
+san Tommaso, altrimenti scoprirebbero, con non poco terrore, di trovarsi
+realmente d'accordo con lui.  Ciò che essi realmente intendono è che il
+mutamento non è mero mutamento; bensì è il dispiegarsi di qualcosa; e se
+esso viene così dispiegato, per quanto il dispiegarsi richieda dodici
+milioni d'anni, esso deve essere già lì.  In altre parole, essi
+concordano con [[aquinas|Aquinas]] che vi sia ovunque una potenzialità che non ha
+raggiunto il suo fine nell'atto.  Ma se si tratta di una potenzialità
+definita, e se essa può terminare soltanto in un atto definito, ebbene
+allora vi è un Grande Essere, nel quale tutte le potenzialità già
+esistono come un piano d'azione.  In altre parole, è impossibile persino
+dire che il mutamento sia in meglio, a meno che il meglio non esista da
+qualche parte, tanto prima quanto dopo il mutamento.  Altrimenti esso è
+davvero mero mutamento, così come lo vedrebbero gli scettici più vuoti o
+i pessimisti più cupi.  Si supponga che due sentieri interamente nuovi
+si aprano dinanzi al progredire dell'Evoluzione Creatrice.  Come farà
+l'evoluzionista a sapere quale Aldilà sia il migliore; se non accetta
+dal passato e dal presente un qualche criterio del meglio?  Secondo la
+loro teoria superficiale, tutto può cambiare; tutto può migliorare,
+persino la [[Nature|natura]] del miglioramento.  Ma nel loro sommerso senso
+comune, essi non pensano davvero che un ideale di bontà possa mutare in
+un ideale di crudeltà.  È tipico di loro che talvolta usino, piuttosto
+timidamente, la parola Fine; ma arrossiscano alla sola menzione della
+parola Persona.
+
+San Tommaso è l'esatto contrario di antropomorfico, a dispetto della
+sua acutezza come antropologo.  Alcuni teologi hanno persino sostenuto
+che egli è troppo agnostico; e ha lasciato la [[Nature|natura]] di Dio troppo come
+un'astrazione intellettuale.  Ma non abbiamo bisogno nemmeno di san
+Tommaso, non abbiamo bisogno d'altro che del nostro senso comune, per
+dirci che se fin dal principio è esistito qualcosa che possa in qualche
+modo essere chiamato un Fine, esso deve risiedere in qualcosa che
+possiede gli elementi essenziali di una Persona.  Non può esservi
+un'intenzione che aleggi nell'aria tutta da sé, non più di quanto possa
+esservi un [[Memory|ricordo]] che nessuno rammenta o una battuta che nessuno ha
+fatto.  L'unica possibilità per coloro che sostengono simili suggerimenti
+è di rifugiarsi in una vuota e senza fondo irrazionalità; e persino
+allora è impossibile provare che qualcuno abbia un qualche diritto di
+essere irragionevole, se san Tommaso non ha alcun diritto di essere
+ragionevole.
+
+In uno [[Sketch|schizzo]] che mira soltanto alla più nuda semplificazione, questa
+mi pare la più semplice [[Truth|verità]] su san Tommaso filosofo.  Egli è, per
+così dire, uno che è fedele al suo primo [[Love|amore]]; ed è [[Love|amore]] a prima vista.
+Voglio dire che egli riconobbe immediatamente una qualità reale nelle
+cose; e in seguito resistette a tutti i dubbi disgregatori sorti dalla
+[[Nature|natura]] di quelle cose.  Ecco perché sottolineo, sin dalle prime pagine,
+il fatto che vi è una sorta di [[Humility|umiltà]] e fedeltà puramente cristiane a
+fondamento del suo realismo filosofico.  San Tommaso potrebbe dire, con
+altrettanta verità, dell'aver veduto soltanto un bastone o una pietra,
+ciò che san Paolo disse dell'aver veduto lo squarciarsi dei cieli
+segreti: «Non fui disobbediente alla visione celeste».  Poiché, per
+quanto il bastone o la pietra siano una visione terrena, è attraverso di
+essi che san Tommaso trova la sua via verso il cielo; e il punto è che
+egli è obbediente alla visione; non la rinnega.  Quasi tutti gli altri
+sapienti che hanno guidato o fuorviato l'umanità la rinnegano, con l'uno
+o l'altro pretesto.  Essi dissolvono il bastone o la pietra in soluzioni
+chimiche di scetticismo; sia nel medium del mero [[Time|tempo]] e mutamento; sia
+nelle difficoltà di classificazione di unità uniche; sia nella
+difficoltà di riconoscere la varietà pur ammettendo l'[[unity|unità]].  Il primo
+di questi tre è chiamato [[debate|dibattito]] sul flusso o transizione informe; il
+secondo è il [[debate|dibattito]] sul Nominalismo e sul Realismo, ossia l'esistenza
+delle idee generali; il terzo è chiamato l'antico [[Riddle|enigma]] metafisico
+dell'Uno e dei Molti.  Ma tutti possono essere ricondotti, sotto una
+rozza immagine, a questa medesima affermazione su san Tommaso.  Egli
+resta fedele alla prima [[Truth|verità]] e rifiuta il primo tradimento.  Egli non
+negherà ciò che ha visto, anche se si tratta di una realtà secondaria e
+diversa.  Non toglierà via i numeri che ha pensato per primo, per quanto
+essi possano essere parecchi.
+
 
 
 <span class="atom-split" data-atom="chapter_06--part_06" data-title="St. Thomas Aquinas — Chapter 7 (part 6)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="archetype/artist,motif/mutability,setting/germany,character/aquinas"></span>
@@ -9816,6 +14096,88 @@ considerable consideration, I have left out the only important thing.
 
 --/--
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Egli ha veduto l'erba; e non dirà di non aver veduto l'erba, perché
+essa oggi è e domani è gettata nel forno.  Questa è la sostanza di ogni
+scetticismo intorno al mutamento, alla transizione, al trasformismo e
+al resto.  Egli non dirà che non vi è erba ma soltanto crescita.  Se
+l'erba cresce e appassisce, ciò può solo significare che essa è parte
+di una cosa più grande, la quale è ancor più reale; non che l'erba sia
+meno reale di quanto appaia.  San Tommaso ha un diritto davvero logico
+di dire, con le parole del mistico moderno, A. E.: «Comincio dall'erba
+per essere di nuovo legato al Signore».
+
+Egli ha veduto l'erba e il grano; e non dirà che essi non differiscono,
+per il fatto che vi è qualcosa di comune all'erba e al grano.  Né dirà
+che non vi è nulla di comune all'erba e al grano, per il fatto che essi
+realmente differiscono.  Non dirà, con i Nominalisti estremi, che poiché
+il grano può differenziarsi in ogni sorta di frutto, o l'erba può essere
+calpestata nel fango insieme a qualsiasi tipo d'erbaccia, perciò non può
+esservi alcuna classificazione che distingua le erbacce dalla melma o
+che tracci una sottile distinzione tra il foraggio e il bestiame.
+D'altra parte, non dirà, con i Platonici estremi, di aver veduto il
+frutto perfetto nella propria testa chiudendo gli occhi, prima di veder
+alcuna differenza tra il grano e l'erba.  Egli vide una cosa e poi
+un'altra cosa e poi una qualità comune; ma non pretende davvero di aver
+veduto la qualità prima della cosa.
+
+Egli ha veduto l'erba e la ghiaia; vale a dire, ha veduto cose
+realmente diverse; cose non classificate insieme come l'erba e il grano.
+Il primo lampo del fatto ci mostra un mondo di cose davvero strane, non
+semplicemente strane a noi, ma strane le une alle altre.  Le cose
+separate non hanno bisogno di avere nulla in comune se non l'Essere.
+Ogni cosa è Essere; ma non è vero che ogni cosa sia [[unity|Unità]].  È qui,
+come ho detto, che san Tommaso definitivamente, si potrebbe dire con
+aria di sfida, si separa dal Panteista e dal Monista.  Tutte le cose
+sono; ma tra le cose che sono vi è la cosa chiamata differenza, tanto
+quanto la cosa chiamata somiglianza.  E qui di nuovo cominciamo a essere
+legati di nuovo al Signore, non solo per l'universalità dell'erba, ma
+per l'incompatibilità dell'erba e della ghiaia.  Poiché questo mondo di
+esseri diversi e svariati è in special modo il mondo del Creatore
+cristiano; il mondo delle cose create, come cose fatte da un [[artist|artista]];
+a paragone del mondo che è una cosa sola, con una sorta di velo
+scintillante e cangiante di mutamento ingannevole; il quale è la
+concezione di tante fra le antiche religioni dell'Asia e i moderni
+sofismi della [[Germany|Germania]].  Di fronte a questi, san Tommaso resta pur
+sempre ostinato nella medesima caparbia fedeltà oggettiva.  Egli ha
+veduto l'erba e la ghiaia; e non è disobbediente alla visione celeste.
+
+Per riassumere: la realtà delle cose, la [[Mutability|mutabilità]] delle cose, la
+diversità delle cose, e tutte le altre cose simili che possono essere
+attribuite alle cose, sono seguite con cura dal filosofo medievale,
+senza perdere il contatto con il punto originario della realtà.  Non vi
+è spazio in questo libro per specificare i mille passi di pensiero
+mediante i quali egli mostra di aver ragione.  Ma il punto è che, anche
+a prescindere dall'aver ragione, egli è reale.  Egli è realista in un
+senso tutto suo piuttosto curioso, che è una terza cosa, distinta dai
+significati quasi contrari, medievale e moderno, della parola.  Persino
+i dubbi e le difficoltà intorno alla realtà lo hanno spinto a credere in
+più realtà anziché in meno.  L'ingannevolezza delle cose, che ha avuto
+un effetto così triste su tanti sapienti, ha un effetto quasi contrario
+su questo sapiente.  Se le cose ci ingannano, è per l'essere più reali
+di quanto sembrino.  Come fini in se stesse esse ci ingannano sempre; ma
+come cose tendenti a un fine più grande, esse sono ancor più reali di
+quanto le pensiamo.  Se sembrano avere una relativa irrealtà (per così
+dire) è perché sono potenziali e non attuali; sono incompiute, come
+pacchetti di semi o scatole di fuochi d'artificio.  Esse hanno in sé la
+capacità di essere più reali di quanto siano.  E vi è un mondo superiore
+di ciò che lo Scolastico chiamava Fruizione, o Compimento, nel quale
+tutta questa relativa relatività diviene attualità; nel quale gli alberi
+prorompono in fiore o i razzi in fiamma.
+
+Qui lascio il lettore, sul più basso piolo di quelle scale di [[logic|logica]],
+mediante le quali san Tommaso assediò e scalò la [[house|Casa]] dell'Uomo.
+È sufficiente dire che, con argomenti altrettanto onesti e laboriosi,
+egli salì fino alle torrette e conversò con gli angeli sui tetti d'oro.
+Questa è, in un abbozzo assai rozzo, la sua [[philosophy|filosofia]]; è impossibile in
+un simile abbozzo descrivere la sua teologia.  Chiunque scriva un libro
+così piccolo su un uomo così grande, deve tralasciare qualcosa.  Coloro
+che meglio lo conoscono comprenderanno meglio perché, dopo non poca
+riflessione, ho tralasciato l'unica cosa importante.
+
+--/--
 
 
 
@@ -9923,6 +14285,111 @@ the only [[philosophy]] now in the world that really is fruitful.
 It produces practical results, precisely because it is the combination
 of an adventurous mind and a strange fact.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+VIII
+
+IL SEGUITO DI SAN TOMMASO
+
+Si dice spesso che san Tommaso, a differenza di san Francesco, non
+ammise nella sua opera l'indescrivibile elemento della poesia.  Come,
+per esempio, che vi è scarso riferimento a un qualche piacere per i
+[[Flowers|fiori]] e i frutti concreti delle cose naturali, sebbene vi sia ogni
+sorta di interesse per le radici sepolte della [[Nature|natura]].  Eppure confesso
+che, leggendo la sua [[philosophy|filosofia]], provo un'impressione assai peculiare e
+potente, analoga alla poesia.  Curiosamente, essa è per certi versi più
+analoga alla pittura, e mi ricorda moltissimo l'effetto prodotto dai
+migliori tra i pittori moderni, quando gettano una luce strana e quasi
+cruda su oggetti nudi e rettangolari, o sembrano brancolare verso,
+anziché afferrare, i pilastri stessi della mente subconscia.  Ciò
+dipende probabilmente dal fatto che vi è nella sua opera una qualità
+Primitiva, nel senso migliore di una parola malamente abusata; ma
+comunque sia, il piacere non è di certo soltanto della ragione, ma anche
+dell'[[Imagination|immaginazione]].
+
+Forse questa impressione è connessa al fatto che i pittori trattano le
+cose senza parole.  Un [[artist|artista]] disegna con tutta serietà le grandi
+curve di un maiale; perché non sta pensando alla parola maiale.  Non vi
+è pensatore che pensi in modo tanto inequivocabile alle cose, senza
+lasciarsi fuorviare dall'influenza indiretta delle parole, quanto san
+Tommaso [[aquinas|Aquinas]].  È vero in questo senso che egli non ha il vantaggio
+delle parole, non più di quanto ne abbia lo svantaggio.  In ciò egli
+differisce nettamente, per esempio, da sant'Agostino, il quale era, tra
+le altre cose, un uomo di spirito.  Era anche una sorta di poeta in
+prosa, con un potere sulle parole nel loro aspetto atmosferico ed
+emotivo; sicché i suoi libri abbondano di passi bellissimi che si levano
+nella [[Memory|memoria]] come melodie musicali; l'illi in vos saeviant; o
+l'indimenticabile grido: «Tardi ti ho amata, o Antica [[Beauty|Bellezza]]!»  È
+vero che di questo genere vi è poco o nulla in san Tommaso; ma se egli
+era privo degli usi più elevati della mera [[Magic|magia]] delle parole, era
+anche libero da quell'abuso di essa, da parte di meri sentimentali o di
+artisti [[Self|ego]]centrici, che può divenire semplicemente morboso e una
+[[Magic|magia]] davvero assai nera.  E in verità è mediante un qualche simile
+paragone con l'intellettuale puramente introspettivo che possiamo
+trovare un accenno alla vera [[Nature|natura]] della cosa che descrivo, o piuttosto
+non riesco a descrivere; intendo la poesia elementare e primitiva che
+traspare attraverso tutti i suoi pensieri; e specialmente attraverso il
+pensiero con cui ogni suo pensare comincia.  È l'intensa giustezza del
+suo senso della relazione tra la mente e la cosa reale al di fuori della
+mente.
+
+Quella stranezza delle cose, che è la luce in tutta la poesia, e invero
+in tutta l'arte, è realmente connessa alla loro alterità; o a ciò che si
+chiama la loro oggettività.  Ciò che è soggettivo dev'essere stantìo; è
+esattamente ciò che è oggettivo a essere, in questo modo immaginativo,
+strano.  In questo il grande contemplativo è l'esatto contrario di quel
+falso contemplativo, il mistico che guarda soltanto dentro la propria
+[[Soul|anima]], l'[[artist|artista]] egoista che si ritrae dal mondo e vive soltanto nella
+propria mente.  Secondo san Tommaso, la mente agisce liberamente da sé,
+ma la sua [[Freedom|libertà]] consiste esattamente nel trovare una via d'uscita
+verso la libertà e la luce del giorno; verso la realtà e la terra dei
+viventi.  Nel soggettivista, la pressione del mondo spinge
+l'[[Imagination|immaginazione]] verso l'interno.  Nel tomista, l'energia della mente
+spinge l'[[Imagination|immaginazione]] verso l'esterno, ma perché le immagini che essa
+cerca sono cose reali.  Tutto il loro [[Romance|fascino romanzesco]] e incanto,
+per così dire, risiede nel fatto che esse sono cose reali; cose che non
+si trovano fissando lo sguardo all'interno, verso la mente.  Il fiore è
+una visione perché non è soltanto una visione.  O, se si vuole, è una
+visione perché non è [[A Dream|un sogno]].  Questa è, per il poeta, la stranezza
+delle pietre e degli alberi e delle cose solide; esse sono strane perché
+sono solide.  Lo pongo dapprima nella maniera poetica, e invero occorre
+una ben maggiore sottigliezza tecnica per porlo nella maniera filosofica.
+Secondo [[aquinas|Aquinas]], l'oggetto diventa una parte della mente; anzi, secondo
+[[aquinas|Aquinas]], la mente diventa effettivamente l'oggetto.  Ma, come acutamente
+osserva un commentatore, essa diventa soltanto l'oggetto e non crea
+l'oggetto.  In altre parole, l'oggetto è un oggetto; può esistere ed
+esiste al di fuori della mente, o in assenza della mente.  E perciò esso
+amplia la mente di cui diviene parte.  La mente conquista una nuova
+provincia come un imperatore; ma solo perché la mente ha risposto al
+campanello come un servo.  La mente ha aperto le porte e le finestre,
+perché è la naturale attività di ciò che sta dentro la [[house|casa]] scoprire
+ciò che sta fuori della [[house|casa]].  Se la mente è sufficiente a se stessa,
+essa è insufficiente per se stessa.  Poiché questo nutrirsi del fatto è
+se stessa; in quanto organo essa ha un oggetto che è oggettivo; questo
+cibarsi della strana e forte carne della realtà.
+
+Si noti come questa concezione eviti entrambe le insidie; gli abissi
+alternativi dell'impotenza.  La mente non è meramente ricettiva, nel
+senso che assorba le sensazioni come tanta carta assorbente; su quella
+sorta di mollezza è stato fondato tutto quel vile materialismo, che
+concepisce l'uomo come interamente servile al proprio ambiente.
+D'altra parte, la mente non è puramente creativa, nel senso che dipinga
+quadri sulle finestre e poi li scambi per un paesaggio esterno.  Ma la
+mente è attiva, e la sua attività consiste nel seguire, per quanto la
+volontà scelga di seguire, la luce esterna che risplende davvero su
+paesaggi reali.  È questo a conferire la qualità indefinibilmente virile
+e persino avventurosa a questa concezione della vita; a paragone di
+quella che ritiene che le inferenze materiali si riversino su una mente
+del tutto impotente, o di quella che ritiene che le influenze
+psicologiche si riversino all'esterno e creino una fantasmagoria
+interamente priva di fondamento.  In altre parole, l'essenza del senso
+comune tomista è che due agenti sono all'opera; la realtà e il
+riconoscimento della realtà; e il loro incontro è una sorta di
+[[Marriage|matrimonio]].  Anzi, è veramente e propriamente un [[Marriage|matrimonio]], perché è
+fecondo; l'unica [[philosophy|filosofia]] oggi al mondo che sia realmente feconda.
+Essa produce risultati pratici, proprio perché è la combinazione di una
+mente avventurosa e di un fatto strano.
 
 
 
@@ -10038,6 +14505,122 @@ and this seemed sound while their view led to practical prosperity.
 Things are a little different now that it has led to universal bankruptcy.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Il signor Maritain ha usato un'ammirevole metafora, nel suo libro
+Theonas, quando dice che il fatto esterno feconda l'intelligenza
+interna, come l'ape feconda il fiore.  Comunque sia, su quel [[Marriage|matrimonio]],
+o comunque lo si voglia chiamare, è fondato l'intero sistema di san
+Tommaso; Dio fece l'Uomo in modo che egli fosse capace di venire a
+contatto con la realtà; e ciò che Dio ha congiunto, nessun uomo lo separi.
+
+Ora, è degno di nota che essa è l'unica [[philosophy|filosofia]] che funziona.  Di
+quasi tutte le altre filosofie è rigorosamente vero che i loro seguaci
+operano loro malgrado, o non operano affatto.  Nessuno scettico opera
+scetticamente; nessun fatalista opera fatalisticamente; tutti, senza
+eccezione, operano sul principio che è possibile assumere ciò che non è
+possibile credere.  Nessun materialista che pensi che la sua mente sia
+stata fatta per lui, dal fango e dal [[Blood|sangue]] e dall'eredità, ha alcuna
+esitazione nel fare la propria mente.  Nessuno scettico che creda che la
+[[Truth|verità]] sia soggettiva ha alcuna esitazione nel trattarla come oggettiva.
+
+Così l'opera di san Tommaso possiede una qualità costruttiva assente da
+quasi tutti i sistemi cosmici venuti dopo di lui.  Poiché egli sta già
+edificando una [[house|casa]], mentre i più recenti speculatori sono ancora allo
+stadio di saggiare i pioli di una scala, di dimostrare la disperata
+mollezza dei mattoni non cotti, di analizzare chimicamente lo spirito
+nella livella a bolla, e in genere di questionare se siano addirittura in
+grado di fabbricare gli strumenti che fabbricheranno la [[house|casa]].  [[aquinas|Aquinas]]
+è avanti a loro di interi eoni intellettuali, ben oltre il comune senso
+cronologico del dire che un uomo è in anticipo sulla propria epoca; egli
+è secoli in anticipo sulla nostra epoca.  Poiché egli ha gettato un
+ponte attraverso l'abisso del primo [[Doubt|dubbio]], e ha trovato la realtà al
+di là e ha cominciato a costruire su di essa.  La maggior parte delle
+filosofie moderne non è [[philosophy|filosofia]] ma [[Doubt|dubbio]] filosofico; vale a dire,
+[[Doubt|dubbio]] sul fatto che possa esservi una qualsiasi [[philosophy|filosofia]].  Se
+accettiamo l'atto o l'argomento fondamentale di san Tommaso
+nell'accettazione della realtà, le ulteriori deduzioni da esso saranno
+ugualmente reali; saranno cose e non parole.  A differenza di Kant e
+della maggior parte degli hegeliani, egli ha una [[Faith|fede]] che non è
+meramente un [[Doubt|dubbio]] sul [[Doubt|dubbio]].  Non è meramente ciò che comunemente
+si chiama una [[Faith|fede]] sulla [[Faith|fede]]; è una [[Faith|fede]] sul fatto.  Da questo
+punto egli può andare avanti, e dedurre e sviluppare e decidere, come un
+uomo che progetta una [[City|città]] e siede su un seggio di giudizio.  Ma mai
+da quel [[Time|tempo]] in poi alcun uomo pensante di quell'eminenza ha pensato
+che vi sia una qualsiasi prova reale di alcunché, nemmeno la prova dei
+suoi sensi, tanto forte da reggere il peso di una deduzione definita.
+
+Da tutto ciò possiamo facilmente inferire che questo filosofo non si
+limita a sfiorare le cose sociali, né semplicemente le attraversa di
+slancio per giungere alle cose spirituali; sebbene quella sia sempre la
+sua direzione.  Egli le afferra, ne ha non soltanto una presa, ma una
+stretta.  Come provano tutte le sue controversie, egli fu forse un
+esempio perfetto della mano di ferro nel guanto di velluto.  Era un uomo
+che rivolgeva sempre la sua piena attenzione a qualsiasi cosa; e sembra
+fissare persino le cose che passano nell'atto stesso in cui passano.
+Per lui persino ciò che era momentaneo era di momento.  Il lettore
+avverte che qualsiasi piccolo punto di consuetudine economica o di
+accidente umano viene per un istante quasi bruciato sotto i raggi
+convergenti di una lente d'ingrandimento.  È impossibile mettere in
+queste pagine un millesimo delle decisioni sui particolari della vita
+che si possono trovare nella sua opera; sarebbe come ristampare i
+resoconti giudiziari di un incredibile secolo di giudici giusti e di
+magistrati assennati.  Possiamo solo sfiorare uno o due ovvi argomenti
+di questa specie.
+
+Ho rilevato la necessità di usare moderne parole d'atmosfera per certe
+antiche cose d'atmosfera; come nel dire che san Tommaso era ciò che la
+maggior parte degli uomini moderni intende vagamente per Ottimista.
+Allo stesso modo, egli era in gran parte ciò che essi intendono
+vagamente per Liberale.  Non intendo dire che uno qualsiasi dei suoi
+mille suggerimenti politici si adatterebbe a un simile preciso credo
+politico; ammesso che vi siano oggigiorno precisi credi politici.
+Intendo, nel medesimo senso, che egli ha una sorta di atmosfera del
+credere nell'ampiezza e nell'equilibrio e nel [[debate|dibattito]].  Egli può non
+essere un Liberale secondo le esigenze estreme dei moderni, giacché
+sembra che per moderni si intendano sempre gli uomini del secolo scorso,
+anziché di questo.  Egli era in gran parte un Liberale a paragone dei
+più moderni fra tutti i moderni, poiché essi si stanno quasi tutti
+trasformando in Fascisti e Hitleriani.  Ma il punto è che egli
+evidentemente preferiva quel tipo di decisioni che si raggiungono
+mediante la deliberazione piuttosto che mediante l'azione dispotica;
+e mentre, come tutti i suoi contemporanei e correligionari, egli non ha
+alcun [[Doubt|dubbio]] che la vera autorità possa essere autorevole, è piuttosto
+avverso all'intero sapore del suo essere arbitraria.  Egli è assai meno
+Imperialista di [[Dante]], e persino il suo Papalismo non è molto Imperiale.
+Egli ama molto espressioni come «una folla di uomini liberi» quale
+materiale essenziale di una [[City|città]]; ed è enfatico sul fatto che la legge,
+quando cessa di essere giustizia, cessa persino di essere legge.
+
+Se quest'opera fosse polemica, si potrebbero dedicare interi capitoli
+all'economia oltre che all'etica del sistema tomista.  Sarebbe facile
+mostrare che, in questa materia, egli era un [[Prophet|profeta]] oltre che un
+filosofo.  Egli previde sin dal principio il pericolo di quel mero
+affidarsi al commercio e allo scambio, che stava cominciando ai suoi
+[[Time|tempi]]; e che è culminato in un universale crollo commerciale nei nostri
+[[Time|tempi]].  Egli non si limitò ad affermare che l'Usura è innaturale,
+benché nel dirlo non facesse che seguire Aristotele e l'ovvio senso
+comune, che non fu mai contraddetto da nessuno fino al [[Time|tempo]] dei
+commercialisti, i quali ci hanno coinvolti nel crollo.  Il mondo moderno
+cominciò con Bentham che scriveva la Difesa dell'Usura, ed è finito dopo
+cent'anni con il fatto che persino la volgare opinione dei giornali
+trova la Finanza indifendibile.  Ma san Tommaso colpì assai più in
+profondità di così.  Egli menzionò persino la [[Truth|verità]], ignorata durante
+la lunga idolatria del commercio, che le cose che gli uomini producono
+solo per vendere sono probabilmente peggiori in qualità delle cose che
+producono per consumare.  Qualcosa della nostra difficoltà circa le
+sottili sfumature del latino si avvertirà quando giungiamo alla sua
+affermazione che vi è sempre una certa inhonestas nel commercio.  Poiché
+inhonestas non significa esattamente disonestà.  Significa all'incirca
+«qualcosa di indegno», o, forse più propriamente, «qualcosa di non del
+tutto decoroso».  Ed egli aveva ragione; poiché il commercio, nel senso
+moderno, significa proprio vendere qualcosa per un po' più di quanto
+valga, né gli economisti del diciannovesimo secolo lo avrebbero negato.
+Avrebbero detto soltanto che egli non era pratico; e questo sembrava
+sensato finché la loro concezione conduceva a una prosperità pratica.
+Le cose sono un po' diverse ora che essa ha condotto alla bancarotta
+universale.
+
 
 
 <span class="atom-split" data-atom="chapter_07--part_03" data-title="St. Thomas Aquinas — Chapter 8 (part 3)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="archetype/detective,motif/dawn,motif/death,motif/supernatural,motif/time,motif/uncanny,concept/faith,concept/fear,concept/freedom,concept/history,concept/hope,concept/paradox,concept/truth,concept/uncanny,form/history,histref/christianity,histref/reformation,histref/renaissance,setting/germany,character/aquinas,character/christ,character/monks"></span>
@@ -10148,6 +14731,112 @@ In one sense, the schismatics had a sort of spiritual ancestry
 even in mediaeval times.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Qui, tuttavia, ci scontriamo con un colossale [[Paradox|paradosso]] della [[history|storia]].
+La [[philosophy|filosofia]] e la teologia tomiste, se comparate con equità con altre
+filosofie come la buddhista o la monista, con altre teologie come la
+calvinista o quella della Scienza Cristiana, sono con tutta evidenza un
+sistema operante e persino combattivo; pieno di senso comune e di
+fiducia costruttiva; e perciò normalmente pieno di [[Hope|speranza]] e di
+promessa.  Né questa [[Hope|speranza]] è vana né questa promessa incompiuta.  In
+questo momento moderno non molto pieno di speranza, non vi sono uomini
+tanto pieni di speranza quanto coloro che oggi guardano a san Tommaso
+come a una guida in un centinaio di questioni urgenti di artigianato, di
+proprietà e di etica economica.  Vi è indubbiamente un Tomismo pieno di
+speranza e creativo nel nostro [[Time|tempo]].  Ma non siamo per questo meno
+perplessi dinanzi al fatto che ciò non seguì immediatamente al [[Time|tempo]] di
+san Tommaso.  È vero che vi fu una grande marcia di progresso nel
+tredicesimo secolo; e in alcune cose, come la condizione del contadino,
+le cose erano grandemente migliorate entro la fine del Medioevo.  Ma
+nessuno può onestamente dire che la Scolastica fosse grandemente
+migliorata entro la fine del Medioevo.  Nessuno può dire fino a che punto
+lo spirito popolare dei Frati avesse aiutato i successivi movimenti
+popolari medievali; o fino a che punto questo grande Frate, con le sue
+luminose regole di giustizia e la sua simpatia di tutta una vita per i
+poveri, possa aver indirettamente contribuito al miglioramento che
+certamente si verificò.  Ma coloro che seguirono il suo metodo, distinto
+dal suo spirito morale, degenerarono con una strana rapidità; e non fu
+certo negli Scolastici che il miglioramento si verificò.  Di alcuni
+Scolastici possiamo solo dire che presero tutto ciò che vi era di
+peggiore nella Scolastica e lo resero peggiore.  Continuarono a contare
+i passi della [[logic|logica]]; ma ogni passo della [[logic|logica]] li portava più lontano
+dal senso comune.  Dimenticarono come san Tommaso avesse cominciato
+quasi da agnostico; e sembravano risoluti a non lasciare nulla in cielo
+o all'inferno intorno a cui qualcuno potesse essere agnostico.  Erano una
+sorta di rabbiosi razionalisti, che non avrebbero lasciato alcun mistero
+nella [[Faith|Fede]].  Nella Scolastica più antica vi è qualcosa che colpisce un
+moderno come fantasioso e pedantesco; ma, inteso rettamente, esso ha un
+bello spirito nella sua fantasia.  È lo spirito di [[Freedom|libertà]]; e
+specialmente lo spirito del libero arbitrio.  Nulla sembra più bizzarro,
+per esempio, delle speculazioni su ciò che sarebbe accaduto a ogni
+vegetale o animale o angelo, se Eva avesse scelto di non mangiare il
+frutto dell'albero.  Ma questo era in origine pieno del brivido della
+scelta; e della sensazione che ella avrebbe potuto scegliere altrimenti.
+Fu questo minuzioso metodo [[Detective|poliziesco]] a essere seguito, senza il
+brivido dell'originaria storia [[Detective|poliziesca]].  Il mondo era ingombrato di
+innumerevoli tomi, che provavano mediante la [[logic|logica]] mille cose che
+possono essere conosciute soltanto da Dio.  Essi svilupparono tutto ciò
+che era realmente sterile nella Scolastica, e lasciarono a noi tutto ciò
+che è realmente fecondo nel Tomismo.
+
+Vi sono molte spiegazioni storiche.  Vi è la [[Death|Morte]] Nera, che spezzò le
+reni al Medioevo; il conseguente declino della cultura clericale, che
+tanto contribuì a provocare la [[Reformation|Riforma]].  Ma sospetto che vi fosse
+anche un'altra causa; che può essere enunciata soltanto dicendo che i
+fanatici contemporanei, che polemizzarono con [[aquinas|Aquinas]], lasciarono dietro
+di sé la propria scuola; e in un certo senso quella scuola trionfò dopo
+tutto.  I davvero angusti Agostiniani, gli uomini che vedevano la vita
+cristiana soltanto come la via stretta, gli uomini che non potevano
+nemmeno comprendere l'esultanza del grande Domenicano nel divampare
+dell'Essere, o la gloria di Dio in tutte le sue creature, gli uomini che
+continuavano a insistere febbrilmente su ogni testo, o persino su ogni
+[[Truth|verità]], che apparisse pessimistico o paralizzante, questi cupi cristiani
+non poterono essere estirpati dalla Cristianità; ed essi rimasero e
+attesero la loro occasione.  Gli angusti Agostiniani, gli uomini che non
+volevano alcuna scienza né ragione né uso razionale delle cose secolari,
+potevano essere stati sconfitti nella controversia, ma avevano una
+passione accumulata di convinzione.  Vi era un monastero agostiniano nel
+Nord dove essa era prossima all'esplosione.
+
+Tommaso [[aquinas|Aquinas]] aveva vibrato il suo colpo; ma non aveva interamente
+sistemato i Manichei.  I Manichei non si sistemano così facilmente; nel
+senso di sistemati per sempre.  Egli aveva garantito che i tratti
+principali del [[Christianity|Cristianesimo]] che è giunto fino a noi fossero
+[[Supernatural|soprannaturali]] ma non anti-naturali; e che non venissero mai oscurati da
+una falsa spiritualità fino all'oblio del Creatore e del [[Christ|Cristo]] che si
+fece Uomo.  Ma mentre la sua tradizione si smarriva in abitudini di
+pensiero meno liberali o meno creative, e mentre la sua società medievale
+decadeva e si sfaldava per altre cause, la cosa contro cui egli aveva
+mosso guerra si insinuò di nuovo nella Cristianità.  Un certo spirito o
+elemento nella religione cristiana, necessario e talvolta nobile ma
+sempre bisognoso di essere bilanciato da elementi più miti e generosi
+della [[Faith|Fede]], cominciò di nuovo a rafforzarsi, mentre l'impalcatura della
+Scolastica s'irrigidiva o si spaccava.  Il [[Fear|Timore]] del Signore, che è il
+principio della sapienza, e perciò appartiene ai principii, e si avverte
+nelle prime ore fredde prima dell'[[Dawn|alba]] della civiltà; la potenza che
+esce dal deserto e cavalca il turbine e spezza gli dèi di pietra; la
+potenza dinanzi alla quale le nazioni orientali sono prostrate come un
+lastricato; la potenza dinanzi alla quale i profeti primitivi corrono
+nudi e gridando, al tempo stesso proclamando il loro dio e fuggendo da
+esso; il [[Fear|timore]] che è giustamente radicato negli inizi di ogni religione
+vera o falsa: il [[Fear|timore]] del Signore, che è il principio della sapienza;
+ma non la fine.
+
+Si osserva spesso, a mostrare l'ironica indifferenza dei governanti
+verso le rivoluzioni, e specialmente la frivolezza di coloro che sono
+chiamati i Papi Pagani del [[Renaissance|Rinascimento]], nel loro atteggiamento verso la
+[[Reformation|Riforma]], che quando il Papa udì per la prima volta dei primi movimenti
+del Protestantesimo, che erano cominciati in [[Germany|Germania]], si limitò a dire
+con noncuranza che si trattava di «qualche litigio di [[Monks|monaci]]».  Ogni
+Papa, s'intende, era avvezzo alle liti tra gli ordini monastici; ma è
+sempre stata notata come una strana e quasi [[Uncanny|inquietante]] negligenza il
+fatto che egli non riuscisse a vedere più di questo negli inizi del
+grande scisma del sedicesimo secolo.  Eppure, in un senso alquanto più
+recondito, vi è qualcosa da dire in favore di ciò per cui egli è stato
+biasimato.  In un certo senso, gli scismatici avevano una sorta di
+ascendenza spirituale già nei tempi medievali.
+
 
 
 <span class="atom-split" data-atom="chapter_07--part_04" data-title="St. Thomas Aquinas — Chapter 8 (part 4)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="motif/death,motif/pain,motif/storm,motif/supernatural,motif/time,concept/body,concept/fear,concept/history,concept/mercy,concept/pride,concept/truth,form/history,character/aquinas,character/christ,character/monks"></span>
@@ -10247,6 +14936,102 @@ that he did triumph at last over the Angel of the Schools,
 but that he did in a very real sense make the modern world.
 He destroyed Reason; and substituted Suggestion.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Lo si troverà più addietro in questo libro; e fu una lite di [[Monks|monaci]].
+Abbiamo visto come il grande nome di Agostino, un nome mai citato
+da [[aquinas|Aquino]] senza rispetto ma spesso citato senza consenso,
+ricoprisse una scuola di pensiero agostiniana che indugiava naturalmente
+più a lungo proprio nell'Ordine agostiniano. La differenza, come ogni
+differenza tra cattolici, era soltanto una differenza di accento.
+Gli agostiniani insistevano sull'idea dell'impotenza dell'uomo
+davanti a Dio, sull'onniscienza di Dio circa il destino dell'uomo,
+sulla necessità del santo [[Fear|timore]] e dell'umiliazione dell'orgoglio intellettuale [[Pride|superbia]],
+più che sulle verità opposte e corrispondenti del libero arbitrio
+o della dignità umana o delle buone opere. In ciò essi in un certo senso
+continuavano la nota distintiva di sant'Agostino, che ancora oggi
+è considerato relativamente il dottore determinista della Chiesa.
+Ma c'è accento e accento; e stava per venire un [[Time|tempo]] in cui
+accentuare l'una parte avrebbe significato contraddire recisamente l'altra.
+Forse, dopo tutto, cominciò davvero con una lite di [[Monks|monaci]];
+ma il Papa doveva ancora imparare quanto litigioso potesse essere un monaco.
+Poiché c'era un monaco in particolare in quel monastero agostiniano nelle
+foreste tedesche, di cui si può dire che avesse un unico e speciale talento
+per l'accento; per l'accento e nient'altro che l'accento; per l'accento
+con la qualità del terremoto. Era figlio di un tagliatore d'ardesia;
+un uomo dalla gran voce e da una certa mole di personalità;
+cupo, sincero, decisamente morboso; e il suo nome era Martin Lutero.
+Né Agostino né gli agostiniani avrebbero desiderato vedere
+il giorno di quella rivendicazione della tradizione agostiniana; ma in
+un senso, forse, la tradizione agostiniana fu dopo tutto vendicata.
+
+Uscì di nuovo dalla sua cella, nel giorno di [[Storm|tempesta]] e di rovina,
+e gridò con voce nuova e possente per una religione elementare ed
+emotiva, e per la distruzione di tutte le filosofie.
+Aveva un orrore e un ribrezzo particolari per le grandi filosofie greche,
+e per la scolastica che era stata fondata su quelle filosofie.
+Aveva una teoria che era la distruzione di tutte le teorie;
+di fatto aveva una propria teologia che era essa stessa la [[Death|morte]]
+della teologia. L'uomo non poteva dire nulla a Dio, nulla da Dio,
+nulla su Dio, se non un grido quasi inarticolato di [[Mercy|misericordia]]
+e per l'aiuto [[Supernatural|soprannaturale]] di [[Christ|Cristo]], in un mondo dove tutte le cose
+naturali erano inutili. La ragione era inutile. La volontà era inutile.
+L'uomo non poteva muoversi di un pollice più di quanto potesse una pietra.
+L'uomo non poteva fidarsi di ciò che aveva in testa più di quanto potesse una rapa.
+Nulla restava in terra o in cielo, se non il nome di [[Christ|Cristo]] levato
+in quella solitaria imprecazione; terribile come il grido di una bestia nel [[Pain|dolore]].
+
+Dobbiamo essere giusti verso quelle immense figure umane, che sono di fatto
+i cardini della [[history|storia]]. Per quanto forte, e giustamente forte,
+sia la nostra stessa convinzione polemica, essa non deve mai indurci
+a pensare che qualcosa di banale abbia trasformato il mondo.
+Così è di quel grande monaco agostiniano, che vendicò tutti gli agostiniani [[ascetic|ascetici]]
+del Medioevo; e la cui figura ampia e corpulenta è stata
+grande abbastanza da nascondere per quattro secoli la lontana montagna umana
+di [[aquinas|Aquino]]. Non è, come ai moderni piace dire,
+una questione di teologia. La teologia protestante di Martin Lutero era
+una cosa con cui nessun protestante moderno vorrebbe farsi vedere morto in un campo;
+o, se la frase è troppo frivola, che sarebbe particolarmente ansioso di toccare
+nemmeno con una pertica. Quel protestantesimo era pessimismo; non era null'altro
+che nuda insistenza sulla disperazione di ogni virtù umana,
+come tentativo di sfuggire all'inferno. Quel luteranesimo è ormai del tutto irreale;
+le fasi più moderne del luteranesimo sono anzi ancora più irreali;
+ma Lutero non era irreale. Era uno di quei grandi barbari
+elementari, ai quali è davvero dato di cambiare il mondo.
+Paragonare quelle due figure che si stagliano così grandi nella [[history|storia]], in qualsiasi
+senso filosofico, sarebbe naturalmente futile e persino ingiusto.
+Su una grande mappa come la mente di [[aquinas|Aquino]], la mente di Lutero sarebbe
+quasi invisibile. Ma non è del tutto falso dire,
+come tanti giornalisti hanno detto senza curarsi se fosse vero
+o falso, che Lutero aprì un'epoca; e diede inizio al mondo moderno.
+
+Fu il primo uomo che abbia mai usato consapevolmente la propria coscienza
+o quella che più tardi fu chiamata la propria Personalità. Aveva di fatto una
+personalità piuttosto forte. [[aquinas|Aquino]] aveva una personalità ancora più forte;
+aveva una presenza massiccia e magnetica; aveva un intelletto che poteva
+agire come un enorme sistema d'artiglieria disteso sul mondo intero;
+aveva quella istantanea presenza di spirito nel [[debate|dibattito]], che [[Alone|sola]]
+merita davvero il nome di arguzia. Ma non gli venne mai in mente di usare
+qualcosa che non fosse il suo ingegno, in difesa di una [[Truth|verità]] distinta da sé.
+Non venne mai in mente ad [[aquinas|Aquino]] di usare [[aquinas|Aquino]] come un'arma.
+Non c'è traccia che egli abbia mai usato i suoi vantaggi personali,
+di nascita o di [[Body|corpo]] o di cervello o di educazione, nel [[debate|dibattito]] con chicchessia.
+In breve, egli apparteneva a un'età di inconsapevolezza intellettuale, a un'età
+di [[innocence|innocenza]] intellettuale, che era assai intellettuale. Ora Lutero diede
+davvero inizio all'umore moderno di affidarsi a cose non meramente intellettuali.
+Non è una questione di lode o di biasimo; poco importa se diciamo
+che era una forte personalità, o che era un po' un gran prepotente.
+Quando citava un testo della Scrittura, inserendovi una parola che non
+è nella Scrittura, si accontentava di gridare in risposta a tutti i contestatori:
+"Dite loro che il dottor Martin Lutero vuole così!" Questo è ciò che
+ora chiamiamo Personalità. Un po' più tardi fu chiamato Psicologia.
+Dopo di che fu chiamato Pubblicità o Arte della Vendita.
+Ma non stiamo discutendo di vantaggi o svantaggi.
+Va reso a questo grande pessimista agostiniano il riconoscere, non solo
+che egli trionfò infine sull'Angelo delle Scuole,
+ma che egli in un senso ben reale creò il mondo moderno.
+Distrusse la Ragione; e vi sostituì la Suggestione.
 
 
 

@@ -23703,7 +23703,7 @@ Il prete pareva davvero incerto su dove cominciare, e alla fine disse ancora:
 
 «Dove nasconderebbe un uomo saggio una foglia? Nella foresta.»
 
-L’altro non rispose.
+L'altro non rispose.
 
 «Se non ci fosse foresta, ne farebbe una. E se volesse nascondere una foglia morta, farebbe una foresta morta.»
 

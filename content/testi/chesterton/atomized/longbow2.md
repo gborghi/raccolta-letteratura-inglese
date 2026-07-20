@@ -8370,7 +8370,7 @@ e si incontrarono sulla cima di quella ventosa [[Hill|collina]], come se fossero
 “Questo è un [[Epic|poema epico]]”, disse, “che è piuttosto un'azione che una parola.
 Ho vissuto troppo a lungo con le parole.”
 
-«Cosa volete dire?»
+«Che cosa intendete?»
 
 "Voglio dire che mi hai trasformato in un uomo d'azione", rispose.
 "Fino a quando eri nel passato, nulla era migliore del passato.

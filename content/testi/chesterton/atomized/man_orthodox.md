@@ -5442,10 +5442,10 @@ contestata da molti metafisici.
 (4) Infine, la maggior parte degli uomini sani di mente crede, e tutti gli uomini sani di mente in pratica assumono,
 di avere un potere di scelta e una responsabilità dell'azione....
 
-Certamente sarebbe possibile stabilire qualche piana, banale enunciazione
-come la precedente, per far vedere alle persone dove si trovano.
-E se alla gioventù del futuro non deve (per ora) essere insegnata
-alcuna religione, le si potrebbe almeno insegnare, chiaramente e fermamente,
+Sicuramente sarebbe possibile stabilire qualche affermazione piana e scialba
+come quella di sopra, per far vedere alla gente dove si trova.
+E se la gioventù del futuro non deve (per ora) essere istruita
+in alcuna religione, potrebbe almeno esserle insegnato, chiaramente e fermamente,
 le tre o quattro sanità e certezze del libero pensiero umano.
 
 Daily News, 22 giugno 1907
@@ -10931,7 +10931,7 @@ G. K.'s Weekly, September 25th, 1926
 
 <span class="qlang-split" data-lang="it"></span>
 
-Il profilo della caduta
+I LINEAMENTI DELLA CADUTA
 
 Che il giardino fosse o no un'allegoria, la verità stessa può essere
 benissimo allegorizzata come un giardino.  E il punto è che l'Uomo,

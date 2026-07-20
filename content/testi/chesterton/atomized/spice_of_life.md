@@ -7993,7 +7993,7 @@ PARTE TERZA:  PENSIERO E FEDE
 
 IL PENSIERO ANTIRELIGIOSO NEL SECOLO DICIOTTESIMO
 
-Di G.K. Chesterton 
+Di G.K. Chesterton
 
 In origine un contributo a An Outline of Christianity; the Story of our Civilization.  Vol.  IV.  Christianity and Modern Thought, 1926. The Waverley Book Co., Londra
 
@@ -8764,7 +8764,7 @@ Non sarebbero riusciti a comprendere come un vago darwiniano quale Cecil Rhodes,
 
 LO SCOPO RELIGIOSO DELL'[[Education|EDUCAZIONE]]
 
-Di G.K. Chesterton 
+Di G.K. Chesterton
 
 Da The Torchbearer, 1925
 
@@ -11301,7 +11301,7 @@ THE SPICE OF LIFE
 
 by
 
-G. K. Chesterton
+G. K. Chesterton  
 
 Sul [[Essay|Saggio]] Un estratto dall'ultimo paragrafo di un [[Essay|saggio]] introduttivo
 agli Essays of the Year 1931-32. Pubblicato da The Argonaut Press, 1932

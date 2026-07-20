@@ -40,7 +40,7 @@ And decidedly over the Border.
 
 LA NUOVA NARRATIVA  
 
-di G.K. Chesterton
+di G.K.Chesterton  
 
 ("Lasciateli [[Alone|in pace]]", par di sentir dire al signor Galsworthy dei suoi Giovani.  
 ---Da una recensione del signor Bettany)  
@@ -86,7 +86,7 @@ And decidedly over the Border.
 
 LA NUOVA NARRATIVA  
 
-di G.K. Chesterton
+di G.K.Chesterton  
 
 ("Lasciateli [[Alone|in pace]]", par di sentir dire al signor Galsworthy dei suoi Giovani.  
 ---Da una recensione del signor Bettany)  

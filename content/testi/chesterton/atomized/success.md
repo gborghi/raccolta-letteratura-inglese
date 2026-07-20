@@ -333,7 +333,7 @@ it [[Leaves|leaves]] so little [[Doubt|doubt]] about what should be our next ste
 
 La fallacia del [[success|successo]]
 
-G. K. Chesterton
+G. K. Chesterton  
 
 Estratto da TUTTE LE COSE DA TENERE PRESENTI di G.K. Chesterton, da un'edizione della John Lane Company, [[New York]], 1909.
 
@@ -519,26 +519,7 @@ Parlando dell'istinto che rende le persone ricche, lo stesso autore osserva...
 
 Nei tempi antichi la sua esistenza era pienamente compresa. I Greci l'hanno immortalata nella storia di Mida, del "Tocco d'Oro". Ecco un uomo che trasformava in oro tutto ciò a cui poneva mano. La sua vita era un progresso tra le ricchezze. Da ogni cosa che gli capitava tra le mani creava il prezioso metallo. 'Una leggenda sciocca', dicevano i sapientoni dell'era vittoriana. 'Una [[Truth|verità]]', diciamo noi di oggi. Tutti conosciamo uomini del genere. Incontriamo sempre o leggiamo di persone che trasformano in oro tutto ciò a cui toccano. Il [[success|successo]] [[dogs|seguono]] i loro passi. La strada della vita li conduce senza errore verso l'alto. Non possono fallire.
 
-Sfortunatamente, tuttavia, anche Mida poteva fallire; e infatti è accaduto.  Il suo cammino non conduceva inesorabilmente verso l'alto.  Moriva di fame perché ogni volta che toccava un biscotto o un panino al prosciutto si trasformavano in oro.
-Questo era il punto cruciale della storia, anche se lo scrittore deve sottolinearlo delicatamente, scrivendo così vicino a un ritratto del Lord Rothschild.
-Le vecchie favole dell'umanità sono davvero profondamente sagge; ma non dobbiamo permettere che vengano censurate nell'interesse di Mr. Vanderbilt.
-Non dobbiamo rappresentare il [[King|Re]] Mida come un esempio di [[success|successo]]; era un fallimento di una specie insolitamente dolorosa.  Inoltre, aveva le orecchie
-di un asino.  E in più (come la maggior parte delle altre persone prominenti e facoltose)
-si sforzava di nascondere il fatto.  Fu il suo barbiere (se non ricordo male) a dover essere trattato con riservatezza
-riguardo a questa peculiarità; e invece di comportarsi
-come una persona intraprendente della scuola del "Riuscire-a-tutti-i-costi" e cercare di estorcere denaro al [[King|Re]] Mida, il barbiere se ne andò e sussurrò questo splendido
-pezzo di scandalo mondano alle canne, che lo apprezzarono enormemente.
-Si dice che le canne lo sussurrassero anche mentre i venti le facevano oscillare
-avanti e indietro.  Guardo con riverenza il ritratto del Lord Rothschild; leggo
-con riverenza delle imprese di Mr. Vanderbilt.  So che non posso trasformare tutto ciò che tocco in oro; ma poi so anche
-che non ho mai provato, avendo una preferenza per altre sostanze,
-come l'erba e il buon vino.  So che queste persone hanno certamente
-avuto successo in qualcosa; che hanno certamente superato qualcuno;
-so che sono re in un senso in cui nessun uomo è mai stato
-re prima d'ora; che creano mercati e si estendono su continenti.
-Eppure mi sembra sempre che ci sia qualche piccolo fatto domestico
-che nascondono, e a volte ho pensato di aver sentito sul
-[[Wind|vento]] la risata e il sussurro delle canne.
+Sfortunatamente, però, Mida poteva fallire; e fallì. Il suo sentiero non condusse infallibilmente verso l'alto. Egli morì di fame perché ogni volta che toccava un biscotto o un panino al prosciutto, quello si tramutava in oro. Era questo l'intero senso della storia, per quanto lo scrittore debba sopprimerlo con delicatezza, scrivendo così vicino a un ritratto di Lord Rothschild. Le antiche favole dell'umanità sono, invero, insondabilmente sagge; ma non dobbiamo lasciarcele espurgare nell'interesse del signor Vanderbilt. Non dobbiamo lasciar rappresentare [[King|re]] Mida come un esempio di [[success|successo]]; egli fu un fallito di specie insolitamente penosa. Inoltre, aveva le orecchie d'asino. Inoltre (come la maggior parte delle altre persone eminenti e facoltose) si sforzava di celare il fatto. Fu il suo barbiere (se ben ricordo) a dover essere trattato in confidenza riguardo a questa particolarità; e il suo barbiere, invece di comportarsi come un intraprendente adepto della scuola del Riesci-a-ogni-costo e di provare a ricattare [[King|re]] Mida, se ne andò e sussurrò questo splendido pettegolezzo mondano alle canne, che se ne dilettarono immensamente. Si dice che anch'esse lo sussurrassero mentre i venti le facevano ondeggiare avanti e indietro. Io guardo con reverenza il ritratto di Lord Rothschild; leggo con reverenza le imprese del signor Vanderbilt. So di non poter trasformare in oro tutto ciò che tocco; ma so anche di non averci mai provato, avendo una predilezione per altre sostanze, come l'erba e il buon vino. So che questa gente ha certamente avuto successo in qualcosa; che ha certamente sopraffatto qualcuno; so che sono re in un senso in cui nessun uomo fu mai re prima; che creano mercati e scavalcano continenti. Eppure mi sembra sempre che vi sia qualche piccolo fatto domestico che essi vanno celando, e talvolta ho creduto di udire sul [[Wind|vento]] la risata e il sussurro delle canne.
 
 
 
@@ -574,22 +555,7 @@ Email: martin@gkc.org.uk
 
 <span class="qlang-split" data-lang="it"></span>
 
-Almeno, [[Hope|speriamo]] che tutti vivremo abbastanza da vedere questi assurdi
-libri sul [[success|Successo]] coperti da un giusto scherno e dall'oblio.
-Non insegnano alla gente a riuscire, ma le insegnano
-a essere snob; diffondono una sorta di malvagia poesia della mondanità.
-I Puritani denunciano di continuo i libri che infiammano la lussuria; che cosa
-diremo dei libri che infiammano le passioni più vili dell'avarizia e dell'[[Pride|orgoglio]]?
-Cent'anni fa avevamo l'ideale dell'Apprendista Operoso;
-si diceva ai ragazzi che con la parsimonia e il lavoro sarebbero tutti diventati Lord Mayor.
-Era illusorio, ma era virile, e aveva un minimo di [[Truth|verità]] morale.
-Nella nostra società, la temperanza non aiuterà un pover'uomo ad arricchirsi,
-ma può aiutarlo a rispettare sé stesso.  Il buon lavoro non lo renderà
-ricco, ma il buon lavoro può renderlo un buon lavoratore.
-L'Apprendista Operoso si [[Rose|elevò]] per virtù poche e anguste invero,
-ma pur sempre virtù.  Ma che cosa diremo del vangelo predicato
-al nuovo Apprendista Operoso; l'Apprendista che si eleva non
-per le sue virtù, ma dichiaratamente per i suoi vizi?
+Almeno, [[Hope|speriamo]] di vivere tutti abbastanza a lungo da vedere questi assurdi libri sul [[success|Successo]] ricoperti di una giusta derisione e dimenticanza. Essi non insegnano alla gente a riuscire, ma le insegnano a essere snob; diffondono una sorta di malvagia poesia della mondanità. I Puritani denunciano di continuo i libri che infiammano la lussuria; che cosa diremo dei libri che infiammano le passioni più vili dell'avarizia e dell'[[Pride|orgoglio]]? Cento anni fa avevamo l'ideale del Garzone Diligente; ai ragazzi si diceva che con parsimonia e lavoro sarebbero tutti diventati Lord Sindaci. Era fallace, ma era virile, e conteneva un minimo di [[Truth|verità]] morale. Nella nostra società la temperanza non aiuterà un uomo povero ad arricchirsi, ma può aiutarlo a rispettare se stesso. Il buon lavoro non ne farà un uomo ricco, ma il buon lavoro può farne un buon lavoratore. Il Garzone Diligente si [[Rose|elevava]] grazie a virtù invero poche e anguste, ma pur sempre virtù. Ma che cosa diremo del vangelo predicato al nuovo Garzone Diligente; il Garzone che si eleva non per le sue virtù, ma dichiaratamente per i suoi vizi?
 
 --------------------------------------------------------------------------
 [[[Home|inizio]]] Su alle Opere di G.K.Chesterton sul Web.

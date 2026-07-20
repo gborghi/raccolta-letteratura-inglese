@@ -74,7 +74,7 @@ But I don't care where the [[Water|water]] goes if it doesn't get into the wine.
 
 Vino e [[Water|Acqua]]
 
-di G.K. Chesterton
+di G.K.Chesterton  
 
 Il vecchio Noè aveva un allevamento di struzzi e polli su vastissima scala,
 mangiava l'uovo con un mestolo in un portauovo grande come un secchio,

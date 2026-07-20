@@ -9858,6 +9858,154 @@ I could not live in that imbecile universe.  Shall I not fight
 for my own existence?"
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Il magistrato di polizia dinanzi al quale furono condotti in fretta
+e processati era un certo Mr. Cumberland Vane, un gentiluomo allegro
+e di mezza età, onorevolmente celebre per la mitezza delle sue
+sentenze e la leggerezza della sua conversazione.  Di tanto in tanto
+si montava in una specie di collera teorica riguardo a certi
+particolari trasgressori, come gli uomini che prendevano
+l'attizzatoio contro le mogli; parlava in modo vago e sentimentale
+dell'opportunità di frustarli, ed era irrimediabilmente sconcertato
+dal fatto che le mogli sembravano ancora più in collera con lui che
+con i loro mariti.  Era un uomo alto e azzimato, con un baffo nero
+arricciato e un impareggiabile abito da mattina.  Aveva l'aspetto di
+un gentiluomo, e tuttavia, in qualche modo, di un gentiluomo da
+palcoscenico.
+
+Aveva spesso trattato reati gravi contro il semplice ordine o la
+proprietà con una umana leggerezza.  Perciò, riguardo alla mera
+rottura della [[Window|finestra]] di un direttore di giornale, era
+quasi sguaiato.
+
+"Suvvia, Mr. MacIan, suvvia," disse, appoggiandosi allo schienale
+della sedia, "entra di solito nelle case dei suoi amici passando
+attraverso il vetro?"  (Risate.)
+
+"Non è mio amico," disse Evan, con l'impassibilità di un [[Child|bambino]] ottuso.
+
+"Non è suo amico, eh?" disse il magistrato, scintillante.
+"È suo cognato?"  (Risa forti e prolungate.)
+
+"È mio nemico," disse Evan, semplicemente; "è il nemico di Dio."
+
+Mr. Vane si spostò bruscamente sul sedile, lasciando cadere il
+monocolo dall'occhio in un momentaneo imbarazzo non indegno di un uomo.
+
+"Non deve parlare così qui," disse, rudemente, e con una specie
+di fretta, "questo non ha nulla a che vedere con noi."
+
+Evan spalancò i grandi occhi azzurri; "Dio," cominciò.
+
+"Stia zitto," disse il magistrato, con collera, "è quanto mai
+sconveniente che cose di tal genere si dicano... ehm... in pubblico,
+e in un'ordinaria [[Court|corte]] di giustizia.  La religione è... ehm...
+una faccenda troppo personale per essere menzionata in un luogo simile."
+
+"Davvero?" rispose il montanaro, "e allora su che cosa hanno appena
+giurato quei poliziotti?"
+
+"Non è affatto un parallelo," rispose Vane, piuttosto irritato;
+"naturalmente c'è una formula di giuramento... da prestarsi con
+riverenza... con riverenza, e con ciò è finita.  Ma parlare in un
+luogo pubblico dei propri sentimenti più sacri e più privati...
+[[Well|ebbene]], lo chiamo cattivo gusto.  (Lievi applausi.)  Lo chiamo
+irriverente.  Lo chiamo irriverente, e non sono nemmeno
+particolarmente ortodosso."
+
+"Vedo che non lo è," disse Evan, "ma io lo sono."
+
+"Ci stiamo allontanando dal punto," disse il magistrato di polizia,
+ricomponendosi.
+
+"Posso chiederle perché ha fracassato la [[Window|finestra]] di questo degno cittadino?"
+
+Evan impallidì un poco al solo [[Memory|ricordo]], ma rispose
+con lo stesso letteralismo freddo e mortale che mostrò per tutto il tempo.
+
+"Perché ha bestemmiato la Madonna."
+
+"Glielo dico una volta per tutte," gridò Mr. Cumberland Vane, battendo
+con rabbia le nocche sul tavolo, "glielo dico, una volta per tutte,
+amico mio, che non tollererò che lei si metta a fare tirate o
+cantilene religiose qui.  Non immagini che ciò mi impressionerà.
+Le persone più religiose non sono quelle che ne parlano.  (Applausi.)
+Lei risponda alle domande e non faccia altro."
+
+"Non ho fatto altro," disse Evan, con un lieve sorriso.
+
+"Eh," gridò Vane, fulminandolo con lo sguardo attraverso il monocolo.
+
+"Mi ha chiesto perché ho rotto la sua [[Window|finestra]]," disse MacIan,
+con una faccia di legno.  "Ho risposto: 'Perché ha bestemmiato la Madonna.'
+Non avevo altra ragione.  Perciò non ho altra risposta."  Vane continuò
+a fissarlo con una severità a lui non abituale.
+
+"Non sta prendendo la strada giusta, signore," disse, con severità.
+"Non sta prendendo la strada giusta per... ehm... far trattare il suo
+caso con particolare riguardo.  Se avesse semplicemente espresso
+rammarico per ciò che ha fatto, sarei stato fortemente propenso ad
+archiviare la faccenda come uno scatto d'ira.  Anche adesso, se dice
+di essere spiacente, mi limiterò soltanto a..."
+
+"Ma non sono affatto spiacente," disse Evan, "sono molto contento."
+
+"Credo davvero che lei sia pazzo," disse lo stipendiato, indignato,
+poiché aveva veramente fatto del suo meglio, da uomo bonario, per
+comporre la disputa.  "Che diritto concepibile ha di rompere le finestre
+altrui perché le loro opinioni non concordano con le sue?  Quest'uomo
+ha soltanto dato espressione alla sua sincera convinzione."
+
+"Anch'io," disse il montanaro.
+
+"E lei chi è?" esplose Vane.  "Sono necessariamente le sue opinioni
+quelle giuste?  È necessariamente in possesso della [[Truth|verità]]?"
+
+"Sì," disse MacIan.
+
+Il magistrato proruppe in una risata sprezzante.
+
+"Oh, lei ha bisogno di una [[Nurse|balia]] che si prenda cura di lei," disse.
+"Deve pagare 10 sterline."
+
+[[Evan MacIan]] affondò le mani nella sua ampia veste grigia e ne
+trasse una curiosa borsa di cuoio.  Conteneva esattamente dodici sovrane.
+Pagò le dieci, moneta per moneta, in [[Silence|silenzio]], e con
+altrettanto silenzio restituì le due rimanenti nel ricettacolo.
+Poi disse: "Posso dire una parola, vostro onore?"
+
+Cumberland Vane sembrava mezzo ipnotizzato dal [[Silence|silenzio]] e dai
+movimenti automatici dello straniero; fece col capo un cenno che avrebbe
+potuto significare tanto "sì" quanto "no".  "Volevo soltanto dire, vostro
+onore," disse MacIan, riponendo la borsa nella tasca dei pantaloni,
+"che fracassare la [[Window|finestra]] di quella bottega è stato, lo confesso,
+un gesto inutile e piuttosto irregolare.  Può essere scusato, tuttavia,
+come mero preliminare a ulteriori procedimenti, una sorta di prefazione.
+Ovunque e ogni volta che incontrerò quell'uomo," e indicò il direttore
+di _The Atheist_, "sia fuori da questa porta tra dieci minuti, sia fra
+vent'anni in qualche paese lontano, ovunque e ogni volta che incontrerò
+quell'uomo, lo affronterò in duello.  Non abbiate paura.  Non mi avventerò
+su di lui come un bullo, né lo sopraffarò con alcuna bruta superiorità.
+Lo affronterò da gentiluomo; lo affronterò come combatterono i nostri padri.
+Sceglierà lui come: [[Sword|spada]] o [[Pistol|pistola]], [[Horse|cavallo]] o a piedi.
+Ma se rifiuta, scriverò la sua codardia su ogni muro del mondo.
+Se avesse detto di mia madre ciò che ha detto della Madre di Dio,
+non c'è circolo di uomini onesti in Europa che negherebbe il mio diritto
+di sfidarlo.  Se l'avesse detto di mia moglie, voi inglesi stessi mi avreste
+perdonato di averlo bastonato come un cane in mezzo alla piazza del mercato.
+Vostro onore, io non ho madre; non ho moglie.  Ho soltanto ciò che i poveri
+possiedono al pari dei ricchi; ciò che i soli possiedono al pari dell'uomo
+dai molti amici.  Per me questo intero mondo strano è familiare, perché
+nel suo cuore c'è una [[Home|casa]]; per me questo mondo crudele è benigno,
+perché più in alto dei cieli c'è qualcosa di più umano dell'umanità.
+Se un uomo non deve combattere per questo, per che cosa mai potrà combattere?
+Combatterei per il mio amico, ma se perdessi il mio amico, io ci sarei ancora.
+Combatterei per il mio paese, ma se perdessi il mio paese, esisterei ancora.
+Ma se ciò che quel demonio [[Dreams|sogna]] fosse vero, io non sarei...
+scoppierei come una bolla e svanirei.  Non potrei vivere in quell'universo
+imbecille.  Non dovrò forse combattere per la mia stessa esistenza?"
+
 
 
 <span class="atom-split" data-atom="story_02_the_religion_of_the_stipendiary_magistra--part_04" data-title="ball and cross — The Religion of the Stipendiary Magistrate (part 4)" data-chapter="The Religion of the Stipendiary Magistra" data-kind="excerpt" data-tags="archetype/fool,motif/blood,motif/cross,motif/love,motif/night,motif/silence,motif/time,motif/well,concept/faith,concept/honour,setting/court,character/virgin_mary"></span>
@@ -9954,6 +10102,98 @@ of the [[Blood]] of God."
 
 The atheist drew up his head.  "And I," he said, "give my word."
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Il magistrato ritrovò la voce e la presenza di spirito.  La prima parte
+del discorso, la sfida ampollosa e brutalmente pratica, lo stordì di
+sorpresa; ma il resto delle osservazioni di Evan, diramandosi come
+facevano in frasi teoriche, diede alla sua mente vaga e assai inglese
+(piena di ricordi delle reticenze e dei compromessi dell'eloquenza
+pubblica inglese) un'indistinta sensazione di sollievo, come se l'uomo,
+benché pazzo, non fosse così pericoloso come aveva pensato.  Si abbandonò
+a una sorta di stanca risata.
+
+"Per amor del cielo, amico," disse, "non parli tanto.  Lasci una
+possibilità agli altri (risate).  Confido che tutto ciò che ha detto
+riguardo allo sfidare Mr. Turnbull a battersi possa considerarsi fandonia.
+In caso di incidenti, tuttavia, devo obbligarla a mantenere la pace."
+
+"A mantenere la pace," ripeté Evan, "con chi?"
+
+"Con Mr. Turnbull," disse Vane.
+
+"Certamente no," rispose MacIan.  "Che cosa ha egli a che fare con la pace?"
+
+"Vuol forse dire," cominciò il magistrato, "che si rifiuta di..."
+La voce di Turnbull stesso si inserì per la prima [[Time|volta]].
+
+"Potrei suggerire," disse, "che io, vostro onore, posso sistemare
+in certa misura da me questa faccenda assurda.  Questo gentiluomo
+piuttosto scapestrato promette che non mi assalirà con alcuna
+aggressione ordinaria... e se lo fa, potete star certo che la polizia
+ne verrà a conoscenza.  Ma dice che non lo farà.  Dice che mi sfiderà
+a duello; e non posso dire nulla di più forte sul suo stato mentale
+che dire che ritengo altamente probabile che lo faccia.  (Risate.)
+Ma per fare un duello bisogna essere in due, vostro onore (risate
+rinnovate).  Non m'importa minimamente d'essere descritto su ogni muro
+del mondo come il codardo che non volle battersi con un uomo a Fleet
+Street, sulla questione se la [[Virgin Mary|Vergine Maria]] avesse un
+parallelo nella mitologia mesopotamica.  No, vostro onore.  Non dovete
+darvi la pena di obbligarlo a mantenere la pace.  Io mi obbligo da me
+a mantenere la pace, e potete restare del tutto soddisfatto che non vi
+sarà alcun duello che mi veda coinvolto."
+
+Mr. Cumberland Vane si sbellicava, ridendo in una specie di sollievo.
+
+"Lei è come un soffio d'aprile, signore," gridò.  "Lei è ozono dopo
+quell'individuo.  Ha perfettamente ragione.  Forse ho preso la cosa
+troppo sul serio.  [[Love|Adorerei]] vederlo mandarle sfide e vedere lei
+sorridere.  [[Well|Ebbene]], [[Well|ebbene]]."
+
+Evan uscì dalla [[Court|corte]] di giustizia libero, ma stranamente scosso,
+come un uomo malato.  Qualunque castigo di soppressione l'avrebbe sentito
+come naturale; ma l'improvvisa congiunzione tra il riso del suo giudice
+e il riso dell'uomo cui aveva fatto torto lo fece sentire d'un tratto
+piccolo, o almeno sconfitto.  Era davvero vero che il mondo moderno intero
+considerava il suo mondo come una bolla.  Nessuna crudeltà avrebbe potuto
+mostrarlo, ma la loro benevolenza lo mostrava con una spaventosa chiarezza.
+Mentre rimuginava, si accorse d'improvviso di una piccola, severa figura
+che gli stava di fronte in [[Silence|silenzio]].  I suoi occhi erano grigi
+e terribili, e la sua barba rossa.  Era Turnbull.
+
+"[[Well|Ebbene]], signore," disse il direttore di _The Atheist_, "dove ha
+da svolgersi il duello?  Nomini il campo, signore."
+
+Evan restò come folgorato.  Balbettò qualcosa, non sapeva che cosa;
+lo indovinò soltanto dalla risposta dell'altro.
+
+"Voglio battermi?  Voglio battermi?" gridò il furioso libero pensatore.
+"Ma via, spaventapasseri lunatico della superstizione, credi che i tuoi
+luridi santi siano gli unici che sappiano morire?  Non avete impiccato
+gli atei, e non li avete bruciati, e bolliti, e mai essi rinnegarono la
+loro [[Faith|fede]]?  Credi che noi non vogliamo batterci?  [[Night|Notte]]
+e giorno ho pregato... ho agognato... una rivoluzione atea... ho agognato
+di vedere il tuo [[Blood|sangue]] e il nostro sulle strade.  Che sia il tuo
+o il mio?"
+
+"Ma lei ha detto..." cominciò MacIan.
+
+"Lo so," disse Turnbull con disprezzo.  "E tu che cosa hai detto?
+[[Fool|Stolto]] dannato, hai detto cose che avrebbero potuto farci sbattere
+dentro per un anno, e pedinare dagli sbirri per mezzo decennio.  Se volevi
+batterti, perché hai detto a quell'asino che lo volevi?  Ti ho tirato fuori,
+per batterci se lo vuoi.  Ora, battiti se ne hai il coraggio."
+
+"Allora ti giuro," disse MacIan, dopo una pausa.  "Ti giuro che nulla
+si frapporrà tra noi.  Ti giuro che nulla vi sarà nel mio cuore né nella
+mia mente finché le nostre spade non si incroceranno.  Lo giuro per il Dio
+che hai negato, per la Beata Signora che hai bestemmiato; lo giuro per le
+sette spade nel suo cuore.  Lo giuro per la Santa Isola dove riposano i
+miei padri, per l'[[Honour|onore]] di mia madre, per il segreto della mia
+gente, e per il calice del [[Blood|Sangue]] di Dio."
+
+L'ateo drizzò il capo.  "E io," disse, "do la mia parola."
 
 
 
@@ -10078,6 +10318,127 @@ with your swords.  Be still!  Raise your voice above a whisper,
 and I run you through the [[Body|body]]."
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+III.  ALCUNE VECCHIE CURIOSITÀ
+
+Il cielo della sera, una cupola d'oro massiccio, non scalfita neppure
+da una sola nuvola di tramonto, immergeva le più misere vedute di
+[[London|Londra]] in una luce strana e dolce.  Faceva sì che una viuzza
+untuosa di St. Martin's Lane sembrasse lastricata d'oro.  Faceva
+risplendere il banco dei pegni a metà della via come se fosse davvero
+quel Monte di Pietà che l'istinto poetico francese ha così chiamato;
+faceva sì che la meschina pseudo-francese libreria, a due porte da esso,
+una bottega gremita di squallida oscenità, mostrasse per un istante una
+sorta di colorito parigino.  E la bottega che stava tra il banco dei
+pegni e la bottega della squallida oscenità mostrava un vero e proprio
+splendore di [[Beauty|bellezza]] d'altri tempi, perché era, per caso, una
+bottega non priva di bellezza in sé.  La [[Window|finestra]] sul davanti
+aveva un baluginio di bronzo e d'acciaio azzurro, illuminato, come da
+poche [[Stars|stelle]], dalle scintille di ciò che si diceva fossero
+gioielli; poiché era, in breve, una bottega di cianfrusaglie e vecchie
+curiosità.  Una fila di spade seicentesche a mezza brunitura correva come
+un'ornata ringhiera lungo la fronte della [[Window|finestra]]; dietro si
+scorgeva un più cupo baluginio di vecchia quercia e di vecchie armature;
+e più in alto pendevano i più straordinari arnesi o utensili dei Mari del
+Sud, se concepiti per uccidere i nemici o soltanto per cuocerli, nessun
+semplice uomo bianco avrebbe potuto congetturarlo.  Ma l'[[Romance|incanto]]
+dell'occhio, che davvero in questa ricca sera si stringeva intorno alla
+bottega, aveva la sua fonte principale nel caso di due porte spalancate:
+la porta anteriore che dava sulla strada e una porta posteriore che dava
+su un curioso quadrato verde di [[Garden|giardino]], che il sole tramutava
+in un quadrato d'oro.  Non c'è nulla di più bello che guardare così, per
+così dire, attraverso l'arco di una [[house|casa]]; come se il cielo aperto
+fosse una camera interna, e il sole la lampada segreta del luogo.
+
+Ho suggerito che la luce del tramonto rendeva bello ogni cosa.  Dire che
+rendeva bello il custode del negozio di curiosità sarebbe forse un tributo
+ad essa troppo estremo.  L'avrebbe reso facilmente bello se fosse stato
+semplicemente squallido; se fosse stato un ebreo del tipo di [[Fagin]].
+Ma era un ebreo di un altro e assai meno ammirevole tipo; un ebreo dal
+nome molto [[Well|ben]] sonante.  Poiché, per quanto non vi siano prove
+sicure per separare la zizzania dal grano di un popolo qualsiasi, una guida
+rozza ma efficace è che l'ebreo simpatico si chiama Moses Solomon, e
+l'ebreo antipatico si chiama Thornton Percy.  Il custode del negozio di
+curiosità apparteneva al ramo Thornton Percy del popolo eletto; apparteneva
+a quelle Dieci Tribù Perdute il cui industrioso proposito è perdere se
+stesse.  Era un uomo ancora giovane, ma già corpulento, con lisci capelli
+scuri, abiti pesanti ed eleganti, e un sorriso pieno, grasso e permanente,
+che al primo sguardo appariva benevolo, e al secondo codardo.  Il nome
+sopra la sua bottega era Henry Gordon, ma due scozzesi che si trovavano nel
+suo negozio quella sera non riuscirono a cogliere traccia alcuna di accento
+scozzese.
+
+Questi due scozzesi in questa bottega erano acquirenti attenti, ma pagatori
+generosi.  Uno di loro, che sembrava essere il principale e l'autorità (e
+che, in verità, Mr. Henry Gordon credeva di aver visto da qualche parte in
+precedenza), era un tipo piccolo e robusto, con begli occhi grigi, una
+cravatta rossa e squadrata e una barba rossa e squadrata, che portava
+aggressivamente in avanti come se sfidasse chiunque a tirargliela.  L'altro,
+al confronto, se ne stava talmente in disparte da apparire quasi spettrale
+nel suo mantello grigio o plaid, un giovane alto, giallastro e silenzioso.
+
+I due scozzesi si interessavano di spade seicentesche.  Erano esigenti al
+riguardo.  Si fecero tirar fuori un intero arsenale di queste armi e le
+fecero rotolare tintinnando sul bancone, finché non ne trovarono due
+esattamente della stessa lunghezza.  Presumibilmente desideravano l'esatta
+simmetria per qualche trofeo decorativo.  Anche allora ne tastarono le punte,
+ne soppesarono l'equilibrio e le piegarono in cerchio per vedere se
+scattavano di nuovo dritte; il che, per scopi decorativi, sembra spingere
+il realismo piuttosto lontano.
+
+"Queste andranno bene," disse lo strano individuo dalla barba rossa.
+"E forse farei meglio a pagarle subito.  E dato che è lei lo sfidante,
+Mr. MacIan, forse farebbe meglio a spiegare lei la situazione."
+
+L'alto scozzese in grigio fece un passo avanti e parlò con voce del tutto
+chiara e ardita, e tuttavia in qualche modo priva di vita, come un uomo che
+compie un'antica formalità.
+
+"Il fatto è, Mr. Gordon, che dobbiamo porre il nostro [[Honour|onore]] nelle
+sue mani.  Sono corse parole tra Mr. Turnbull e me su una [[Grave|grave]]
+e inestimabile questione, che può essere espiata soltanto battendosi.
+Sfortunatamente, poiché la polizia in un certo senso ci insegue, siamo di
+fretta, e dobbiamo batterci ora e senza padrini.  Ma se lei avrà la cortesia
+di condurci nel suo piccolo [[Garden|giardino]] e di vigilare sulla lealtà
+del combattimento, sentiremo quanto..."
+
+Il bottegaio si riprese da una sbalorditiva sorpresa e proruppe:
+
+"Signori, siete ubriachi?  Un duello!  Un duello nel mio [[Garden|giardino]].
+Andate a [[Home|casa]], signori, andate a [[Home|casa]].  Ma insomma, per
+che cosa avete litigato?"
+
+"Abbiamo litigato," disse Evan, con la stessa voce spenta, "per religione."
+Il grasso negoziante si sbellicava sulla sedia dal divertimento.
+
+"[[Well|Ebbene]], questo sì che è un gioco buffo," disse.  "Così volete
+commettere un omicidio in nome della religione.  [[Well|Ebbene]],
+[[Well|ebbene]], la mia religione è un po' di rispetto per l'umanità, e..."
+
+"Mi scusi," lo interruppe Turnbull, d'un tratto e con veemenza, indicando
+il banco dei pegni della porta accanto.  "Non è forse suo quel negozio?"
+
+"Ma... ehm... sì," disse Gordon.
+
+"E non è forse suo quel negozio?" ripeté il secolarista, indicando
+all'indietro il libraio pornografico.
+
+"E se anche lo fosse?"
+
+"Ma allora," gridò Turnbull, con stridente disprezzo.  "Lascerò con
+fiducia la religione dell'umanità nelle sue mani; ma mi dispiace di averla
+disturbata per una cosa come l'[[Honour|onore]].  Mi ascolti, amico mio.
+Io credo davvero nell'umanità.  Credo davvero nella libertà.  Mio padre
+morì per essa sotto le spade della Yeomanry.  Io morirò per essa, se
+necessario, sotto quella [[Sword|spada]] sul suo bancone.  Ma se c'è una
+vista che me ne fa [[Doubt|dubitare]], è la sua turpe faccia grassa.  È
+difficile credere che lei non fosse destinato a essere governato come un
+cane o ucciso come uno scarafaggio.  Non provi con me la sua
+[[philosophy|filosofia]] da schiavo.  Noi ci batteremo, e ci batteremo nel
+suo [[Garden|giardino]], con le sue spade.  Stia fermo!  Alzi la voce oltre
+un sussurro, e le trapasso il [[Body|corpo]]."
+
 
 
 <span class="atom-split" data-atom="story_03_some_old_curiosities--part_02" data-title="ball and cross — Some Old Curiosities (part 2)" data-chapter="Some Old Curiosities" data-kind="excerpt" data-tags="motif/cross,motif/fire,motif/garden,motif/machine,motif/pain,motif/prayer,motif/summer,motif/time,motif/well,concept/fear,concept/hope,character/evan_macian"></span>
@@ -10197,6 +10558,123 @@ And he saw the archway blocked and blackened with strange figures.
 "We must bolt, MacIan," he said abruptly.  "And there isn't a damned
 second to lose either.  Do as I do."
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Turnbull appoggiò la lucente punta della [[Sword|spada]] contro il vistoso
+panciotto del mercante, che stava soffocando di rabbia e di [[Fear|paura]],
+e di uno stupore così schiacciante da essere più grande di entrambe.
+
+"MacIan," disse Turnbull, cadendo quasi nel tono familiare di un socio
+d'affari, "MacIan, lega questo tizio e mettigli un bavaglio in bocca.
+Sta' fermo, dico, o ti uccido dove sei."
+
+L'uomo era troppo spaventato per gridare, ma si dibatteva selvaggiamente,
+mentre [[Evan MacIan]], le cui lunghe e magre mani erano insolitamente forti,
+gli stringeva attorno alcuni vecchi cordoni di tenda, gli legava in bocca
+un bavaglio di corda e lo rovesciava supino sul pavimento.
+
+"Qui non c'è nulla di molto robusto," disse Evan, guardandosi attorno.
+"Temo che riuscirà a liberarsi di quel bavaglio in una mezz'ora o giù di lì."
+
+"Sì," disse Turnbull, "ma per quel [[Time|momento]] uno di noi sarà morto."
+
+"[[Well|Ebbene]], [[Hope|speriamo]] di sì," disse il montanaro, lanciando
+un'occhiata dubbiosa alla cosa che si contorceva sul pavimento.
+
+"E ora," disse Turnbull, arricciandosi i baffi fiammeggianti e tastando la
+sua [[Sword|spada]], "andiamo nel [[Garden|giardino]].  Che squisita sera
+d'[[Summer|estate]]!"
+
+MacIan non disse nulla, ma, sollevando la sua [[Sword|spada]] dal bancone,
+uscì al sole.
+
+La luce sfolgorante correva lungo le lame, riempiendone le scanalature di
+bianco [[Fire|fuoco]]; i combattenti conficcarono le spade nell'erba e si
+tolsero cappelli, giacche, panciotti e stivali.  Evan recitò tra sé una
+breve [[Prayer|preghiera]] in latino, durante la quale Turnbull fece una
+specie di sfoggio nell'accendere una sigaretta che gettò via l'istante dopo,
+quando vide MacIan apparentemente pronto.  Eppure MacIan non era esattamente
+pronto.  Se ne stava a fissare come un uomo colto da una trance.
+
+"Che cosa stai fissando?" chiese Turnbull.  "Vedi gli sbirri?"
+
+"Vedo Gerusalemme," disse Evan, "tutta coperta dagli scudi e dagli
+stendardi dei Saraceni."
+
+"Gerusalemme!" disse Turnbull, ridendo.  "[[Well|Ebbene]], ne abbiamo preso
+prigioniero l'unico abitante."
+
+E raccolse la sua [[Sword|spada]] e la fece fischiare come la bacchetta di
+un ragazzo.
+
+"Ti chiedo scusa," disse MacIan, seccamente.  "Cominciamo."
+
+MacIan fece un saluto militare con la sua arma, che Turnbull imitò o
+parodiò con un impaziente disprezzo; e nella quiete del [[Garden|giardino]]
+le spade si incontrarono con un suono chiaro come quello di una campana.
+Nell'istante in cui le lame si toccarono, ciascuno le sentì vibrare fino
+alla punta con una vitalità personale, come se fossero due nudi nervi
+d'acciaio.  Evan aveva mantenuto per tutto il tempo un'aria di apatia, che
+avrebbe potuto essere la stantia apatia di chi non vuole nulla.  Ma era
+invece la più terribile apatia di chi vuole qualcosa e non si cura di
+nient'altro.  E ciò si vide d'improvviso; poiché nell'istante in cui Evan
+ingaggiò lo scontro, disimpegnò e affondò con una violenza infernale.  Il
+suo avversario con disperata prontezza parò e ribatté; la parata riuscì
+appena, la risposta fallì.  Qualcosa di grande e di insopportabile sembrava
+essersi finalmente spezzato in Evan in quel primo omicida affondo,
+lasciandolo più leggero, più freddo e più svelto sui piedi.  Tornò
+all'attacco, feroce e immobile, ma ora con una feroce cautela.  L'istante
+dopo Turnbull affondò; MacIan parve afferrarne la punta e scagliarla lontano
+da sé, e stava spingendo indietro come una folgore, quando un suono lo
+paralizzò; un altro suono accanto alle loro armi tintinnanti.  Turnbull,
+forse per un pari stupore, forse per cavalleria, si fermò anch'egli e si
+trattenne dal passare la [[Sword|spada]] attraverso il nemico scoperto.
+
+"Che cos'è?" chiese Evan, con voce roca.
+
+Un pesante rumore di trascinamento, come di un baule tirato lungo un
+pavimento ingombro, veniva dalla buia bottega alle loro spalle.
+
+"Il vecchio ebreo ha spezzato uno dei suoi lacci, e si trascina in giro,"
+disse Turnbull.  "Presto!  Dobbiamo finire prima che si tolga il bavaglio."
+
+"Sì, sì, presto!  In guardia!" gridò il montanaro.  Le lame si incrociarono
+di nuovo con lo stesso suono di [[Song|canto]], e gli uomini si rimisero
+all'opera con le stesse facce bianche e vigili.  Evan, nella sua impazienza,
+ricadde un poco nella sua foga.  Faceva mulinelli, come dicono i duellanti
+francesi, e benché fosse probabilmente d'un soffio il migliore schermidore
+dei due, si trovò la punta dell'altro passargli davanti al viso due volte
+così vicino da quasi sfiorargli la guancia.  La seconda [[Time|volta]]
+comprese la reale possibilità della sconfitta e si ricompose sotto lo shock
+della [[Sanity|lucidità]] dell'ira.  Restrinse, e, per così dire, serrò le
+sue operazioni: tirava di scherma (come recita il vanto dello spadaccino)
+dentro un anello nuziale; deviava le stoccate di Turnbull con un click
+esasperante e quasi meccanico, come quello di una [[Machine|macchina]].
+Ogni volta che la [[Sword|spada]] di Turnbull cercava di scavalcare
+quell'altra semplice striscia bianca, sembrava restare impigliata in una
+complessa rete d'acciaio.  Deviò una stoccata, ne deviò un'altra, ne deviò
+un'altra ancora.  Poi d'improvviso si spinse in avanti nell'affondo con
+tutto il suo vivo peso.  Turnbull balzò all'indietro, ma Evan affondò e
+affondò e affondò ancora come un diabolico stantuffo o ariete.  E alto al
+di sopra di tutto il rumore della lotta irruppe nella silenziosa sera una
+muggente voce umana, nasale, rauca, al più acuto grado del [[Pain|dolore]].
+"Aiuto!  Aiuto!  Polizia!  Assassinio!  Assassinio!"  Il bavaglio era stato
+spezzato; e la lingua del terrore era libera.
+
+"Vai avanti!" ansimò Turnbull.  "Uno può essere ucciso prima che arrivino."
+
+La voce del bottegaio che urlava era abbastanza forte da coprire non solo
+il rumore delle spade ma tutti gli altri rumori intorno, ma persino
+attraverso il suo lacerante fracasso sembrava esserci qualche altro
+movimento o trambusto.  Ed Evan, nell'atto stesso di affondare su Turnbull,
+vide qualcosa nei suoi occhi che gli fece lasciar cadere la [[Sword|spada]].
+L'ateo, con gli occhi grigi sbarrati al massimo e stralunati, fissava dritto
+oltre la sua spalla il piccolo arco della bottega che si apriva sulla strada
+al di là.  E vide l'arco ostruito e annerito da strane figure.
+
+"Dobbiamo filarcela, MacIan," disse bruscamente.  "E non c'è un dannato
+secondo da perdere.  Fa' come faccio io."
 
 
 
@@ -10326,6 +10804,129 @@ But a good man in the wrong--why one thirsts for his [[Blood|blood]].
 Yes, you open for me a vista of thought."
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Con un balzo fu accanto al piccolo mucchio dei suoi abiti e stivali che
+giacevano sul prato; li afferrò, senza aspettare di indossarne alcuno;
+e, cacciandosi la [[Sword|spada]] sotto l'altro braccio, si lanciò
+all'impazzata contro il muro in [[Bottom|fondo]] al [[Garden|giardino]] e
+si issò dall'altra parte.  Tre secondi dopo che era atterrato in calze
+dall'altro lato, MacIan atterrò accanto a lui, anch'egli in calze e
+anch'egli portando abiti e [[Sword|spada]] in un disperato fagotto.
+
+Si trovavano in una via traversa, di per sé molto stretta e solitaria, ma
+così vicina a un affollato corso da poter vedere le vaghe masse dei veicoli
+che passavano, e da poter persino vedere un singolo calessino che in
+quell'istante svoltava l'angolo.  Turnbull si portò le dita alla bocca come
+un monello di strada e fischiò due volte.  Proprio mentre lo faceva poté
+udire le forti voci dei vicini e della polizia che scendevano per il
+[[Garden|giardino]].
+
+Il calessino sterzò di scatto e venne giù a tutta velocità per la stradina
+al suo richiamo.  Quando il [[cabman|vetturino]] vide i suoi clienti, però,
+due uomini dai capelli arruffati in camicia e calze con spade sguainate
+sotto le braccia, non innaturalmente arrestò di colpo la sua prontezza e li
+fissò con sospetto.
+
+"Parlaci tu un momento," bisbigliò Turnbull, e si ritirò nell'[[Shadow|ombra]]
+del muro.
+
+"Vogliamo che lei," disse MacIan al [[cabman|vetturino]], con un superbo
+strascico scozzese d'indifferenza e sicurezza, "ci porti alla stazione di
+St. Pancras... assai in fretta."
+
+"Spiacente, signore," disse il [[cabman|vetturino]], "ma vorrei essere
+sicuro che sia tutto in regola.  Potrei chiederle da dove venite, signore?"
+
+Un secondo dopo che ebbe parlato MacIan udì una voce pesante dall'altra
+parte del muro, che diceva: "Immagino che farei meglio a scavalcare e a
+cercarli.  Fammi la scaletta."
+
+"Vetturino," disse MacIan, assumendo di nuovo la più deliberata e cadenzata
+intonazione scozzese delle pianure, "se davvero è tanto ansioso di sapere
+da dove vengo, glielo dirò come grandissimo segreto.  Vengo dalla Scozia.
+E vado alla stazione di St. Pancras.  Apra gli sportelli, vetturino."
+
+Il [[cabman|vetturino]] lo fissò, ma rise.  La voce pesante dietro il muro
+disse: "Su, una scaletta migliore questa [[Time|volta]], Mr. Price."  E
+dall'[[Shadow|ombra]] del muro Turnbull sgusciò fuori.  Si era infilato
+all'impazzata la giacca (lasciando il panciotto sul marciapiede), e con una
+faccia pallida e feroce stava arrampicandosi sul calesse dietro il
+[[cabman|vetturino]].  MacIan non aveva la minima idea di che cosa stesse
+combinando, ma un istinto di disciplina, ereditato da cento uomini di
+guerra, gli fece attenersi alla propria parte e fidarsi di quella dell'altro.
+
+"Apra gli sportelli, vetturino," ripeté, con qualcosa dell'ostinata
+solennità di un ubriaco, "apra gli sportelli.  Non mi ha sentito dire
+stazione di St. Pancras?"
+
+La cima dell'elmo di un poliziotto apparve al di sopra del muro del
+[[Garden|giardino]].  Il [[cabman|vetturino]] non la vide, ma era ancora
+sospettoso e cominciò:
+
+"Spiacente, signore, ma..." e con ciò il felino Turnbull lo strappò dal suo
+sedile e lo scagliò nella strada sottostante, dove giacque di colpo tramortito.
+
+"Dammi il suo cappello," disse Turnbull con voce argentina, cui l'altro
+obbedì come a uno squillo di tromba.  "E sali dentro con le spade."
+
+E proprio mentre la faccia rossa e furibonda di un poliziotto appariva al di
+sopra del muro, Turnbull colpì il [[Horse|cavallo]] con una terribile
+sferzata di frusta e i due si allontanarono roteando come un boomerang.
+
+Avevano attraversato vorticando sette strade e tre o quattro piazze prima
+che accadesse altro.  Poi, nei pressi di Maida Vale, il conducente aprì la
+botola e vi parlò attraverso in una maniera non del tutto comune nelle
+conversazioni attraverso quell'apertura.
+
+"Mr. MacIan," disse, breve e cortese.
+
+"Mr. Turnbull," rispose il suo immobile passeggero.
+
+"In circostanze come quelle in cui poc'anzi ci trovammo entrambi non c'era
+[[Time|tempo]] per nulla se non per un'azione assai brusca.  Confido perciò
+che lei non abbia motivo di lamentarsi di me se ho differito fino a questo
+momento una consultazione con lei sulla nostra presente posizione o
+sull'azione futura.  La nostra presente posizione, Mr. MacIan, immagino di
+non avere alcuna speciale necessità di descriverla.  Abbiamo infranto la
+legge e stiamo fuggendo dai suoi agenti.  La nostra azione futura è cosa
+sulla quale io stesso nutro opinioni sufficientemente ferme; ma non ho il
+diritto di presumere o di anticipare le sue, benché possa essermi formato
+una decisa concezione del suo carattere e una decisa nozione di quali esse
+probabilmente saranno.  Ciò nondimeno, per ogni principio di giustizia
+intellettuale, sono tenuto a chiederle ora e seriamente se lei desidera
+proseguire le nostre interrotte relazioni."
+
+MacIan appoggiò all'indietro sui cuscini il suo viso bianco e piuttosto
+stanco per poter parlare su, attraverso lo sportello aperto.
+
+"Mr. Turnbull," disse, "non ho nulla da aggiungere a ciò che ho detto prima.
+Mi è fortemente impresso nell'animo che lei ed io, unici occupanti di questo
+calesse in fuga, siamo in questo momento le due persone più importanti di
+[[London|Londra]], forse d'Europa.  Ho guardato tutte le strade mentre
+passavamo, ho guardato tutte le botteghe mentre passavamo, ho guardato tutte
+le chiese mentre passavamo.  Dapprima mi sono sentito un poco stordito dalla
+vastità di tutto ciò.  Non riuscivo a capire che cosa significasse tutto.
+Ma ora so esattamente che cosa significa tutto.  Significa noi.  Questa
+intera civiltà è soltanto [[A Dream|un sogno]].  Lei ed io siamo le realtà."
+
+"Il simbolismo religioso," disse Mr. Turnbull, attraverso la botola, "non fa
+presa, come lei probabilmente sa, di norma sui pensatori della scuola cui io
+appartengo.  Ma nel simbolismo così come lei lo usa in questo caso, devo,
+credo, concedere una certa [[Truth|verità]].  Noi _dobbiamo_ risolvere questa
+faccenda in qualche luogo; perché, come lei dice giustamente, abbiamo
+scoperto la reciproca realtà.  Noi _dobbiamo_ ucciderci a vicenda... o
+[[convert|convertirci]] a vicenda.  Solevo pensare che tutti i cristiani
+fossero ipocriti, e provavo davvero verso di loro sentimenti piuttosto blandi.
+Ma so che lei è sincero... e la mia [[Soul|anima]] è furente contro di lei.
+Allo stesso modo lei soleva, suppongo, pensare che tutti gli atei ritenessero
+che l'ateismo li avrebbe lasciati liberi per l'immoralità... eppure in cuor
+suo li tollerava del tutto.  Ora lei _sa_ che io sono un uomo onesto, e lei
+è furente contro di me, come io lo sono contro di lei.  Sì, è proprio così.
+Non ci si può adirare con gli uomini malvagi.  Ma un uomo buono in errore...
+ah, per il suo [[Blood|sangue]] si ha sete.  Sì, lei apre per me una
+prospettiva di pensiero."
+
 
 
 <span class="atom-split" data-atom="story_03_some_old_curiosities--part_04" data-title="ball and cross — Some Old Curiosities (part 4)" data-chapter="Some Old Curiosities" data-kind="excerpt" data-tags="archetype/outsider,motif/blood,motif/cross,motif/dawn,motif/garden,motif/hill,motif/night,motif/road,motif/time,motif/well,motif/window,concept/history,concept/honour,concept/melancholy,form/history,setting/court,setting/london,character/jones"></span>
@@ -10453,6 +11054,127 @@ with a shopkeeper bound and gagged in the front of the [[house]],
 the editors and sub-editors were stricken still as men are
 by great beatitudes.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+"Non andare a sbattere contro nulla," disse Evan, immobile.
+
+"C'è qualcosa anche in quella sua veduta," disse Turnbull, e richiuse la
+botola.
+
+Sfrecciavano lungo strade luccicanti che passavano loro accanto come frecce.
+Mr. Turnbull aveva evidentemente una gran quantità di talento pratico
+inutilizzato che si andava dispiegando in questa ridicola avventura.  Se
+l'erano svignata con una prontezza così sbalorditiva che l'inseguimento
+della polizia, con ogni probabilità, non era nemmeno cominciato per bene.
+Ma nel caso lo fosse, il [[cabman|vetturino]] dilettante scelse la sua
+vertiginosa rotta attraverso [[London|Londra]] con una strana destrezza.
+Non fece ciò che sarebbe venuto in mente per primo a un qualunque
+[[Outsider|estraneo]] desideroso di cancellare le proprie tracce.  Non si
+infilò in viottoli né si contorse attraverso vie miserabili.  Il suo buon
+senso di dilettante gli diceva che era proprio la strada povera, la via
+laterale, quella che con più probabilità avrebbe ricordato e segnalato il
+passaggio di un calessino, come il passaggio di una processione reale.  Si
+tenne principalmente sui grandi corsi, così pieni di calessini che una
+coppia più scapestrata della loro sarebbe potuta facilmente passare nella
+ressa.  In una delle strade più tranquille Evan si mise gli stivali.
+
+Verso la cima di Albany Street il singolare [[cabman|vetturino]] aprì di
+nuovo la botola.
+
+"Mr. MacIan," disse, "intendo che ormai abbiamo definitivamente stabilito
+che, nel linguaggio convenzionale, l'[[Honour|onore]] non è soddisfatto.
+La nostra azione deve almeno spingersi oltre quanto si è spinta nelle recenti
+condizioni interrotte.  Questo, credo, è inteso."
+
+"Perfettamente," rispose l'altro con il laccio dello stivale fra i denti.
+
+"In tali condizioni," proseguì Turnbull, la voce che gli usciva dal foro con
+una lieve nota di trepidazione assai insolita in lui, "ho una proposta da
+fare, se può chiamarsi proposta, che probabilmente è venuta in mente a lei
+con la stessa prontezza che a me.  Fino a quando l'evento vero e proprio non
+avrà luogo, siamo praticamente nella posizione, se non di compagni, almeno
+di soci d'affari.  Fino a quando l'evento non avrà luogo, perciò, suggerirei
+che litigare sarebbe scomodo e piuttosto inartistico; mentre l'ordinario
+scambio di cortesie tra uomo e uomo sarebbe non solo elegante ma anche
+straordinariamente pratico."
+
+"Lei ha perfettamente ragione," rispose MacIan, con la sua voce
+[[Melancholy|malinconica]], "nel dire che tutto ciò è venuto in mente anche
+a me.  Tutti i duellanti dovrebbero comportarsi da gentiluomini l'uno con
+l'altro.  Ma noi, per la stranezza della nostra posizione, siamo qualcosa di
+ben più che duellanti o gentiluomini.  Siamo, nel senso più bizzarro e più
+esatto del termine, fratelli... d'armi."
+
+"Mr. MacIan," rispose Turnbull, con calma, "non c'è bisogno di dire altro."
+E chiuse la botola ancora una volta.
+
+Avevano raggiunto Finchley [[Road]] prima che egli la riaprisse.
+
+Poi disse: "Mr. MacIan, posso offrirle un sigaro?  Sarà un tocco di realismo."
+
+"Grazie," rispose Evan.  "Lei è molto gentile."  E cominciò a fumare nel
+calesse.
+
+IV.  UNA DISCUSSIONE ALL'[[Dawn|ALBA]]
+
+I duellanti, dal loro punto di vista, erano sfuggiti o avevano sconfitto le
+principali potenze del mondo moderno.  Avevano soddisfatto il magistrato,
+avevano legato il negoziante mani e piedi, e si erano lasciati la polizia
+alle spalle.  Per quanto riguardava i loro stessi sentimenti, si erano
+dissolti in un mostruoso mare; non erano che il passeggero e il conducente
+di uno dei milioni di calessini che riempiono le strade di [[London|Londra]].
+Ma avevano dimenticato qualcosa; avevano dimenticato il giornalismo.
+Avevano dimenticato che esiste nel mondo moderno, forse per la prima
+[[Time|volta]] nella [[history|storia]], una classe di persone il cui
+interesse non è che le cose accadano [[Well|bene]] o accadano male, che
+accadano con successo o senza successo, che accadano a vantaggio di questa
+parte o a vantaggio di quella, ma il cui interesse è semplicemente che le
+cose accadano.
+
+È la grande debolezza del giornalismo come quadro della nostra esistenza
+moderna, che esso debba essere un quadro composto interamente di eccezioni.
+Annunciamo su manifesti sgargianti che un uomo è caduto da un'impalcatura.
+Non annunciamo su manifesti sgargianti che un uomo non è caduto da
+un'impalcatura.  Eppure quest'ultimo fatto è fondamentalmente più eccitante,
+in quanto indica che quella mobile torre di terrore e di mistero, un uomo,
+è ancora in cammino sulla terra.  Che l'uomo non sia caduto da un'impalcatura
+è davvero più sensazionale; ed è anche mille volte più comune.  Ma non ci si
+può ragionevolmente aspettare che il giornalismo insista così sui miracoli
+permanenti.  Non ci si può aspettare che direttori indaffarati mettano sui
+loro manifesti: "Mr. Wilkinson ancora salvo," oppure "Mr. [[Jones]], di
+Worthing, non ancora morto."  Non possono affatto annunciare la felicità del
+genere umano.  Non possono descrivere tutte le forchette che non vengono
+rubate, o tutti i matrimoni che non vengono giudiziosamente sciolti.  Perciò
+il quadro completo che danno della vita è per necessità fallace; possono
+rappresentare soltanto ciò che è insolito.  Per quanto democratici possano
+essere, si occupano soltanto della minoranza.
+
+L'episodio del fanatico religioso che ruppe una [[Window|finestra]] a Ludgate
+[[Hill]] bastava [[Alone|da solo]] a fornire loro buona materia da stampa per
+la [[Night|notte]].  Ma quando lo stesso uomo fu condotto dinanzi a un
+magistrato e sfidò il proprio nemico a mortale combattimento nell'aperta
+[[Court|corte]], allora le colonne a stento contenevano la lancinante
+informazione, e i titoli erano così grandi che a stento restava spazio per
+il testo.  Il _Daily Telegraph_ intitolò una colonna "Un duello sulla
+divinità," e ne seguì una corrispondenza che durò per mesi, sul se i
+magistrati di polizia dovessero menzionare la religione.  Il _Daily Mail_,
+nel suo modo ottuso e assennato, intitolò gli eventi "Voleva battersi per la
+Vergine."  Mr. James Douglas, in _The Star_, presumendo della sua conoscenza
+dei termini filosofici e teologici, descrisse lo scoppio del cristiano sotto
+il titolo "Dualista e duellista."  Il _Daily News_ inserì un resoconto
+scialbo della faccenda, ma fu incalzato e divorato per alcune settimane da
+lettere di pastori di periferia, intitolate "Omicidio e mariolatria."  Ma la
+temperatura giornalistica veniva costantemente e coerentemente riscaldata da
+tutte queste influenze; i giornalisti avevano assaggiato il [[Blood|sangue]],
+in prospettiva, ed erano in vena d'averne ancora; ogni cosa nella faccenda li
+preparava a ulteriori scoppi di indignazione morale.  E quando un cronista
+trafelato irruppe nelle ultime ore della sera con l'annuncio che i due eroi
+della [[Court|corte]] di polizia erano stati letteralmente trovati a battersi
+in un [[Garden|giardino]] sul retro a [[London|Londra]], con un bottegaio
+legato e imbavagliato sul davanti della [[house|casa]], i direttori e i
+vicedirettori restarono impietriti come sono gli uomini davanti alle grandi
+beatitudini.
 
 
 
@@ -10689,6 +11411,131 @@ prevent the duel, if it is only by locking us both up in asylums
 for the rest of our days."
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Ci fu un [[Silence|silenzio]] alquanto privo di significato, e poi MacIan disse di nuovo:
+
+"È un posto molto grande.  Quando ci entrai la prima volta ne ebbi paura.
+Paura esattamente come si avrebbe paura alla vista di un uomo alto
+dodici metri.  Sono abituato alle cose grandi, là da dove vengo,
+grandi [[Mountains|montagne]] che sembrano colmare l'infinito di Dio, e il grande mare
+che va fino ai confini del mondo.  Ma quelle cose sono tutte
+informi e confuse, non plasmate in alcuna forma familiare.
+Ma vedere le cose semplici, squadrate, umane, così grandi,
+case così grandi e strade così grandi, e la città stessa così grande,
+era come essersi avvitato nell'occhio la lente d'ingrandimento di un demonio.
+Era come vedere una scodella di porridge grande come una [[house|casa]], o una trappola
+per topi fatta per catturare elefanti."
+
+"Come il paese dei Brobdingnag," disse Turnbull, sorridendo.
+
+"Oh!  E dov'è?" disse MacIan.
+
+Turnbull disse amaramente: "In un libro," e il [[Silence|silenzio]] tornò a cadere
+di colpo tra loro.
+
+Sedevano in una sorta di disordine sul fianco della collina;
+tutte le cose che avevano raccolto in fretta, in vari luoghi,
+per la loro fuga, erano sparpagliate alla rinfusa intorno a loro.
+Le due spade con cui poco prima avevano cercato di togliersi
+la vita a vicenda giacevano gettate a caso sull'erba, come due oziosi
+bastoni da passeggio. Alcune provviste comprate la [[Night|notte]] prima,
+in una bettola infima, in caso di imprecisate contingenze,
+erano sparse in giro come il materiale di un comune picnic,
+qui un cestino di cioccolato, là una bottiglia di vino.  E ad aggiungere
+al disordine, infine, c'erano gettate sopra ogni cosa,
+le più disordinate delle cose moderne, giornali, e altri giornali,
+e ancora giornali, i ministri della moderna anarchia.
+Turnbull ne raccolse uno tristemente, e tirò fuori una pipa.
+
+"C'è parecchio su di noi," disse.  "Ti dispiace se accendo?"
+
+"Perché dovrebbe dispiacermi?" chiese MacIan.
+
+Turnbull osservò con un certo studioso interesse l'uomo che non
+comprendeva nessuna delle cortesie verbali; accese la pipa e ne soffiò
+fuori grandi nuvole.
+
+"Sì," riprese.  "La faccenda in cui io e te siamo impegnati è
+in questo momento davvero il miglior articolo d'Inghilterra.  Sono un giornalista,
+e me ne intendo.  Per la prima [[Time|volta]], forse, dopo molte generazioni,
+gli inglesi sono davvero più indignati per un torto commesso in Inghilterra
+di quanto lo siano per un torto commesso in Francia."
+
+"Non è un torto," disse MacIan.
+
+Turnbull rise.  "Sembri incapace di comprendere l'uso ordinario
+del linguaggio umano.  Se non sospettassi che sei
+un genio, saprei di certo che sei uno zuccone.
+Credo che faremmo meglio a incamminarci e raccogliere i nostri bagagli."
+
+E balzò in piedi e cominciò a ficcarsi i bagagli nelle tasche,
+o a legarseli sulla schiena.  Mentre cacciava alla meglio una scatoletta
+di carne in conserva nella tasca laterale già scoppiante, disse con noncuranza:
+
+"Volevo solo dire che io e te siamo le persone più in vista
+sui giornali inglesi."
+
+"[[Well|Beh]], cosa ti aspettavi?" chiese MacIan, spalancando i suoi grandi
+occhi azzurri e [[Grave|solenni]].
+
+"I giornali sono pieni di noi," disse Turnbull, chinandosi a raccogliere
+una delle spade.
+
+MacIan si chinò e raccolse l'altra.
+
+"Sì," disse, nel suo modo semplice.  "Ho letto ciò che hanno da dire.
+Ma non sembrano cogliere il punto."
+
+"Il punto di cosa?" chiese Turnbull.
+
+"Il punto della [[Sword|spada]]," disse MacIan, con violenza, e piantò
+la punta d'acciaio nel terreno come chi pianta un albero.
+
+"Quello è un punto," disse Turnbull, torvo, "che discuteremo più tardi.
+Vieni."
+
+Turnbull si legò addosso disperatamente con dello spago l'ultima scatola
+di biscotti; e poi parlò, come un tuffatore cinto per l'immersione,
+breve e secco.
+
+"Ora, signor MacIan, deve ascoltarmi.  Deve ascoltarmi,
+non solo perché conosco il paese, cosa che lei potrebbe imparare
+guardando una carta geografica, ma perché conosco la gente del paese,
+che lei non potrebbe conoscere neppure vivendoci trent'anni.
+Quell'infernale [[City|città]] laggiù è sveglia; ed è sveglia contro di noi.
+Tutte quelle interminabili file di finestre e finestre sono occhi che ci fissano.
+Tutte quelle foreste di comignoli sono dita puntate contro di noi,
+mentre stiamo qui sul fianco della collina.  La cosa ha attecchito.
+Per i prossimi sei mortali mesi non penseranno che a noi,
+come per sei mortali mesi non pensarono che al
+caso Dreyfus.  Oh, lo so che è buffo.  Lasciano che bambini affamati,
+che non vogliono morire, cadano a decine senza voltarsi.
+Ma poiché due gentiluomini, per privati sentimenti di delicatezza,
+vogliono morire, mobiliteranno esercito e marina per impedirlo.
+Per mezzo anno o più, io e lei, signor MacIan, saremo un ostacolo
+a ogni [[Reform|riforma]] dell'Impero britannico.  Impediremo che i cinesi vengano
+mandati via dal Transvaal e che si sblocchi il traffico nello Strand.
+Saremo l'argomento di conversazione di ricambio ogni volta che qualcuno raccomanderà
+l'[[Home|autonomia]] irlandese, o si lamenterà delle insegne luminose.  Perciò non immagini,
+nella sua [[innocence|innocenza]], che ci basti dileguarci tra queste
+colline inglesi come un predone delle Highlands potrebbe dileguarsi nelle sue derelitte
+[[Mountains|montagne]] scozzesi.  Dobbiamo stare eternamente in guardia; dobbiamo vivere
+la vita braccata di due illustri criminali.  Dobbiamo aspettarci
+di essere riconosciuti tanto quanto se fossimo Napoleone in fuga dall'Elba.
+Dobbiamo prepararci a che le nostre descrizioni siano inviate a ogni minuscolo villaggio,
+e a che i nostri volti siano riconosciuti da ogni poliziotto ambizioso.
+Dovremo spesso [[Sleep|dormire]] sotto le [[Stars|stelle]] come se fossimo in Africa.
+Ultima e più importante cosa, non dobbiamo neppure sognarci di attuare il nostro--
+il nostro regolamento finale, che sarà una faccenda famosa quanto
+gli omicidi di Phoenix Park, a meno che non abbiamo preso disposizioni
+reali e precise per il nostro isolamento--non dirò per la nostra sicurezza.
+Non dobbiamo, in breve, batterci finché non li avremo depistati,
+foss'anche solo per un istante.  Perché, mi creda sulla parola, signor MacIan,
+se il Pubblico britannico ci mette una volta le mani addosso, il Pubblico britannico
+impedirà il duello, non fosse che rinchiudendoci entrambi in manicomio
+per il resto dei nostri giorni."
+
 
 
 <span class="atom-split" data-atom="story_03_some_old_curiosities--part_07" data-title="ball and cross — Some Old Curiosities (part 7)" data-chapter="Some Old Curiosities" data-kind="excerpt" data-tags="archetype/fool,motif/cross,motif/hill,motif/pain,motif/well,motif/window,concept/body,concept/doubt,setting/london,character/evan_macian"></span>
@@ -10843,6 +11690,157 @@ be certainly wrong?"
 a green elephant," answered MacIan, "but have I not the right to say now,
 that if I thought that I should think wrong?"
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+MacIan guardava l'orizzonte con un'espressione piuttosto velata.
+
+"Non mi sorprende affatto," disse, "che il mondo sia contro di noi.
+Mi fa sentire che ho avuto ragione a----"
+
+"A?" disse Turnbull.
+
+"A sfondare la sua [[Window|finestra]]," disse MacIan.  "Ho svegliato il mondo."
+
+"Benissimo, allora," disse Turnbull, imperturbabile.  "Guardiamo qualche
+fatto conclusivo.  Oltre quella [[Hill|collina]] c'è un terreno relativamente sgombro.
+Per fortuna conosco [[Well|bene]] quella zona, e se mi seguirà
+con esattezza, e, quando occorre, strisciando sul ventre, potremmo riuscire
+ad allontanarci di dieci miglia da [[London|Londra]], letteralmente senza incontrare nessuno,
+il che sarà comunque il miglior inizio possibile.
+Abbiamo provviste per almeno due giorni e due notti, tre giorni
+se le razioniamo con cura.  Potremmo riuscire ad allontanarci di cinquanta o sessanta miglia
+senza neppure mettere piede nella porta di una locanda.  Io ho i biscotti
+e la carne in scatola, e il latte.  Lei ha il cioccolato, mi pare?
+E il brandy?"
+
+"Sì," disse MacIan, come un soldato che riceve ordini.
+
+"Benissimo, allora, andiamo.  In marcia.  Svoltiamo sotto quel terzo cespuglio
+e giù nella valle."  E si avviò davanti con passo dondolante.
+
+Poi si fermò di colpo; perché si accorse che l'altro
+non lo seguiva.  [[Evan MacIan]] era appoggiato alla sua [[Sword|spada]] con volto abbassato,
+come un uomo colpito d'improvviso e immobilizzato dal [[Doubt|dubbio]].
+
+"Cosa diavolo c'è?" chiese Turnbull, fissandolo con una certa ira.
+
+Evan non rispose.
+
+"Cosa diamine ti prende?" domandò di nuovo il capo,
+il volto che a poco a poco si faceva rosso come la sua barba; poi disse,
+d'improvviso, e con voce più umana, "Soffri, MacIan?"
+
+"Sì," rispose il montanaro, senza alzare il volto.
+
+"Prendi del brandy," gridò Turnbull, avanzando in fretta
+verso di lui.  "Ce l'hai."
+
+"Non è nel [[Body|corpo]]," disse MacIan, nel suo modo cupo e strano.
+"Il [[Pain|dolore]] è entrato nella mia mente.  Una cosa spaventosa mi è appena
+venuta in mente."
+
+"Di cosa diavolo stai parlando?" chiese Turnbull.
+
+MacIan proruppe con una voce strana e viva.
+
+"Dobbiamo batterci ora, Turnbull.  Dobbiamo batterci ora.  Una cosa
+tremenda mi è piombata addosso, e so che dev'essere ora e qui.
+Devo ucciderti qui," gridò, con una sorta di rabbia lacrimosa
+impossibile da descrivere.  "Qui, qui, su quest'erba benedetta."
+
+"Ma, idiota," cominciò Turnbull.
+
+"L'ora è venuta--l'ora nera che Dio le ha destinato.  Presto, tra poco
+sarà passata.  Presto!"
+
+E scagliò via il fodero con furia, e restò in piedi con
+la luce del sole che scintillava lungo la sua [[Sword|spada]].
+
+"Maledetto [[Fool|sciocco]]," ripeté Turnbull.  "Metti via quella cosa,
+somaro; la gente uscirà da quella [[house|casa]] al primo cozzo
+dell'acciaio."
+
+"Uno di noi sarà morto prima che escano," disse l'altro, con voce roca,
+"perché questa è l'ora che Dio ha destinato."
+
+"[[Well|Beh]], non ho mai fatto gran conto di Dio," disse il direttore de _L'Ateo_,
+perdendo ogni pazienza.  "E ne faccio ancor meno adesso.  Non m'importa cosa Dio abbia destinato.
+Abbi la bontà di illuminare le mie pagane tenebre su cosa diavolo intendi _tu_."
+
+"L'ora sarà presto passata.  Tra un istante sarà passata,"
+disse il pazzo.  "È adesso, adesso, adesso che devo inchiodare
+il tuo [[Body|corpo]] blasfemo alla terra--adesso, adesso che devo vendicare Nostra Signora
+sul suo vile calunniatore.  Ora o mai più.  Perché il pensiero tremendo
+è nella mia mente."
+
+"E quale pensiero," chiese Turnbull, con frenetica compostezza,
+"occupa ciò che tu chiami la tua mente?"
+
+"Devo ucciderti ora," disse il fanatico, "perché----"
+
+"[[Well|Beh]], perché," disse Turnbull, con pazienza.
+
+"Perché ho cominciato ad affezionarmi a te."
+
+Il volto di Turnbull ebbe uno spasmo improvviso nella luce del sole, un mutamento
+così istantaneo da non lasciare traccia dietro di sé; e i suoi lineamenti
+parvero ancora scolpiti in uno sguardo freddo.  Ma quando parlò di nuovo
+sembrò un uomo che placidamente fingeva di fraintendere
+qualcosa che comprendeva perfettamente [[Well|bene]].
+
+"Il tuo affetto si esprime in forma brusca," cominciò,
+ma MacIan mandò in pezzi il fragile e frivolo discorso con
+una voce violenta.  "Non prenderti la briga di parlare così," disse.
+"Sai cosa intendo tanto [[Well|bene]] quanto lo so io.  Vieni a batterti, ti dico.
+Forse provi esattamente quello che provo io."
+
+Il volto di Turnbull trasalì di nuovo nella luce spietata del sole, ma il suo
+atteggiamento conservò la sua sprezzante disinvoltura.
+
+"La tua mente celtica corre davvero troppo per me," disse; "mi sia
+concesso, nel mio pesante modo delle Lowlands, di comprendere questo nuovo sviluppo.
+Mio caro signor MacIan, cosa intende davvero?"
+
+MacIan teneva ancora la punta lucente della [[Sword|spada]] rivolta verso il petto dell'altro.
+
+"Sai cosa intendo.  Tu stesso intendi la stessa cosa.  Dobbiamo batterci
+ora o altrimenti----"
+
+"O altrimenti?" ripeté Turnbull, fissandolo con una gravità
+quasi accecante.
+
+"O altrimenti potremmo non voler più batterci affatto," rispose Evan, e la fine
+del suo discorso fu come un grido disperato.
+
+Turnbull sguainò d'improvviso la propria [[Sword|spada]] come per ingaggiare;
+poi, piantandola per un istante con la punta all'ingiù, disse: "Prima di cominciare,
+posso farti una domanda?"
+
+MacIan chinò il capo con pazienza, ma con occhi ardenti.
+
+"Hai detto, poco fa," proseguì Turnbull dopo un momento, "che se non
+ci battessimo ora, potremmo non voler più batterci affatto.  Come ti sentiresti
+a riguardo se arrivassimo a non voler più batterci affatto?"
+
+"Mi sentirei," rispose l'altro, "esattamente come mi sentirei
+se tu avessi sguainato la tua [[Sword|spada]], e io fossi fuggito.
+Sentirei che, poiché sono stato debole, non è stata resa giustizia."
+
+"Giustizia," rispose Turnbull, con un sorriso pensoso, "ma noi
+stiamo parlando dei tuoi sentimenti.  E cosa intendi per giustizia,
+al di là dei tuoi sentimenti?"
+
+MacIan fece un gesto di stanco riconoscimento!  "Oh, Nominalismo," disse,
+con una sorta di sospiro, "abbiamo risolto tutto questo nel dodicesimo secolo."
+
+"Vorrei che potessimo risolverlo adesso," rispose l'altro, con fermezza.
+"Vuoi davvero dire che se arrivassi a ritenermi nel giusto, tu saresti
+certamente nel torto?"
+
+"Se ricevessi un colpo sulla nuca, potrei arrivare a crederti
+un elefante verde," rispose MacIan, "ma non ho forse il diritto di dire ora
+che, se lo pensassi, penserei una cosa sbagliata?"
 
 
 
@@ -11135,6 +12133,139 @@ Murder is a spiritual incident.  Bloodshed is a physical incident.
 A surgeon commits bloodshed.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+V. IL PACIERE
+
+Quando i contendenti, con le spade incrociate, divennero d'improvviso
+consapevoli di una terza persona, fecero entrambi lo stesso movimento.
+Fu rapido come lo scatto di una [[Pistol|pistola]], e lo corressero
+istantaneamente e ripresero la loro posa originaria, ma entrambi lo avevano
+fatto, entrambi lo avevano visto, ed entrambi sapevano cosa fosse.
+Non era un movimento di collera per essere stati interrotti.
+Che ne dicessero o pensassero ciò che volevano, era un movimento di sollievo.
+Una forza dentro di loro, eppure del tutto al di là di loro, sembrava lentamente
+e senza pietà dilavare l'adamante del loro giuramento.
+Come amanti delusi potrebbero contemplare l'inevitabile tramonto del primo [[Love|amore]],
+questi uomini contemplavano il tramonto del loro primo odio.
+
+I loro cuori si facevano sempre più deboli l'uno contro l'altro.
+Quando le loro armi risuonavano e ribattevano nel piccolo [[Garden|giardino]] di [[London|Londra]],
+avrebbero potuto essere ben certi che, se una terza persona li avesse
+interrotti, qualcosa almeno sarebbe accaduto.
+Si sarebbero uccisi a vicenda oppure avrebbero ucciso lei.
+Ma ora nulla poteva disfare o negare quel lampo di realtà, che per un secondo
+erano stati contenti di essere interrotti.  Qualcosa di nuovo e strano
+saliva sempre più alto nei loro cuori come un mare grosso nella [[Night|notte]].
+Era qualcosa che sembrava tanto più spietato, perché
+poteva rivelarsi una [[Mercy|misericordia]] immensa.  C'era forse, nell'[[Friendship|amicizia]], una
+qualche fatalità di quelle di cui tutti gli amanti parlano nell'[[Love|amore]]?
+Dio faceva forse gli uomini [[Love|amarsi]] l'un l'altro contro la loro volontà?
+
+"Sono certo che mi scuserete se vi rivolgo la parola," disse lo sconosciuto,
+con una voce insieme ansiosa e deferente.
+
+La voce era troppo cortese per essere buona educazione.  Era incongrua
+con lo spettacolo eccentrico dei duellanti, che avrebbe dovuto
+sconcertare un uomo sano e libero.  Era anche incongrua con il pieno
+e sano, sebbene alquanto flaccido, fisico dell'uomo che parlava.
+A prima vista aveva l'aria di un bell'animale, con barba e capelli
+biondi e ondulati, e occhi azzurri, insolitamente vividi.
+Era solo al secondo sguardo che la mente provava un'improvvisa
+e forse insensata irritazione per il modo in cui la barba
+d'oro arretrava dentro il panciotto, e per il modo in cui
+il naso finemente sagomato sporgeva in avanti come se fiutasse la strada.
+Ed era solo, forse, al centesimo sguardo che gli occhi azzurri e vividi,
+che normalmente prima e dopo quell'istante parevano brillanti
+d'intelligenza, parevano per così dire brillare d'idiozia.
+Era un uomo pesante, dall'aria robusta, che sembrava tanto più grosso
+per via degli abiti larghi e dai colori chiari che indossava,
+e che avevano, nella loro estrema leggerezza e ampiezza, quasi un tocco
+tropicale.  Ma un esame più attento del suo abbigliamento avrebbe
+mostrato che perfino ai tropici sarebbe stato unico;
+esso era tutto tessuto secondo una qualche trama igienica di cui nessun
+essere umano aveva mai sentito parlare prima, e che era assolutamente
+necessaria anche solo per la salute di una giornata.  Portava un enorme cappello a tesa larga,
+altrettanto igienico, molto arretrato sulla nuca, e la sua voce
+uscendo da un tipo d'uomo così pesante e gioviale era, come ho detto,
+sorprendentemente stridula e ossequiosa.
+
+"Sono certo che mi scuserete se vi rivolgo la parola," disse.
+"Ora, mi [[Wonder|domando]] se non siate in qualche piccola difficoltà che, in fondo,
+potremmo risolvere assai comodamente insieme?  Ora, non vi dispiace
+che io dica questo, vero?"
+
+Il volto di entrambi i contendenti rimase alquanto impassibile a quest'appello.
+Ma lo sconosciuto, prendendo probabilmente il loro [[Silence|silenzio]] per un montante imbarazzo,
+continuò con una sorta di allegria:
+
+"Dunque siete voi i giovani di cui ho letto sui giornali.
+[[Well|Beh]], certo, quando si è giovani, si è piuttosto romantici.
+Sapete cosa dico sempre ai giovani?"
+
+Un vuoto [[Silence|silenzio]] seguì questa gaia domanda.  Poi Turnbull disse
+con voce incolore:
+
+"Dato che all'ultimo compleanno ho compiuto quarantasette anni, probabilmente sono venuto al mondo
+troppo presto per l'esperienza."
+
+"Molto bene, molto bene," disse la persona cordiale.  "Secco [[Humour|umorismo]] scozzese.
+Secco [[Humour|umorismo]] scozzese.  [[Well|Bene]], dunque.  Ho capito che voi due volete
+battervi in duello.  Suppongo che non siate molto al corrente del mondo moderno.
+Il duello lo abbiamo del tutto superato, sapete.  Anzi, [[tolstoy|Tolstoj]] ci dice
+che presto supereremo la guerra, che secondo lui è semplicemente un duello
+tra nazioni.  Un duello tra nazioni.  Ma non c'è alcun [[Doubt|dubbio]]
+che abbiamo superato il duello."
+
+In attesa di un qualche effetto sui suoi legnosi ascoltatori, lo sconosciuto
+rimase raggiante per un momento e poi riprese:
+
+"Ora, mi dicono i giornali che volete davvero
+battervi per qualcosa legato al cattolicesimo romano.
+Ora, sapete cosa dico sempre ai cattolici romani?"
+
+"No," disse Turnbull, pesantemente.  "Lo sanno _loro_?"  Pareva
+essere una caratteristica del gioviale, igienico gentiluomo il fatto che
+dimenticava sempre la frase che aveva pronunciato l'istante prima.
+Senza dilungarsi oltre sulla fissa formula del suo appello alla
+Chiesa di Roma, rise cordialmente alla risposta di Turnbull;
+poi i suoi erranti occhi azzurri colsero la luce del sole sulle spade,
+ed egli assunse una gravità bonaria.
+
+"Ma sapete che questa è una cosa seria," disse, squadrando Turnbull
+e MacIan, come se fino a un attimo prima avessero tenuto la tavolata
+a ridere con le loro frivolezze.  "Sono certo che se mi appellassi alle vostre nature
+superiori...le vostre nature superiori.  Ogni uomo ha una [[Nature|natura]] superiore
+e una [[Nature|natura]] inferiore.  Ora, mettiamo la faccenda molto chiaramente,
+e senza alcuna romantica sciocchezza sull'[[Honour|onore]] o roba del genere.
+Non è forse lo spargimento di sangue un gran peccato?"
+
+"No," disse MacIan, parlando per la prima [[Time|volta]].
+
+"[[Well|Beh]], davvero, davvero!" disse il paciere.
+
+"L'omicidio è un peccato," disse l'incrollabile montanaro.  "Non esiste
+peccato di spargimento di sangue."
+
+"[[Well|Beh]], non litigheremo per una parola," disse l'altro, affabilmente.
+
+"E perché diavolo no?" disse MacIan, con improvvisa asprezza.
+"Perché non dovremmo litigare per una parola?  A cosa servono
+le parole se non sono abbastanza importanti da farci litigare?
+Perché scegliamo una parola invece di un'altra se non c'è alcuna
+differenza tra loro?  Se chiamaste una donna scimpanzé invece
+che angelo, non nascerebbe forse una lite per una parola?  Se non
+avete intenzione di discutere sulle parole, su cosa avete intenzione di discutere?
+Avete intenzione di trasmettermi il vostro pensiero muovendo le orecchie?
+La Chiesa e le eresie hanno sempre combattuto sulle parole,
+perché sono le uniche cose per cui vale la pena combattere.
+Io dico che l'omicidio è un peccato, e lo spargimento di sangue no, e che c'è
+tanta differenza tra queste parole quanta ce n'è tra
+la parola 'sì' e la parola 'no'; o piuttosto maggiore differenza,
+perché 'sì' e 'no', almeno, appartengono alla stessa categoria.
+L'omicidio è un evento spirituale.  Lo spargimento di sangue è un evento fisico.
+Un chirurgo compie spargimento di sangue.
+
 
 
 <span class="atom-split" data-atom="story_04_the_peacemaker--part_02" data-title="ball and cross — The Peacemaker (part 2)" data-chapter="The Peacemaker" data-kind="excerpt" data-tags="archetype/child,motif/cross,motif/hill,motif/love,motif/prayer,motif/silence,motif/soul,motif/time,motif/well,concept/fear,histref/christianity,character/tolstoy"></span>
@@ -11271,6 +12402,138 @@ Suddenly, furious as they were, they were frozen for a moment motionless.
 said Turnbull, quietly.  "The police are coming up the [[Hill|hill]]."
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+"Ah, siete un casuista!" disse l'omone, scuotendo il capo.
+"Ora, sapete cosa dico sempre ai casuisti...?"
+
+MacIan fece un gesto violento; e Turnbull scoppiò in una risata aperta.
+Il paciere non parve minimamente seccato, ma continuò
+nel suo immutato godimento.
+
+"[[Well|Su]], [[Well|su]]," disse, "torniamo al punto.
+Ora [[tolstoy|Tolstoj]] ha dimostrato che la forza non è rimedio; sicché vedete
+la posizione in cui mi trovo.  Faccio del mio meglio
+per fermare quella che, son certo non vi dispiacerà se la chiamo, questa
+violenza davvero inutile, questa violenza davvero del tutto sbagliata da parte vostra.
+Ma è contro i miei principi chiamare la polizia contro di voi,
+perché la polizia è ancora su un piano morale inferiore, per così dire,
+perché, in breve, la polizia indubbiamente talvolta impiega la forza.
+[[tolstoy|Tolstoj]] ha dimostrato che la violenza non fa che generare violenza nella persona
+verso cui è usata, mentre l'[[Love|amore]], d'altra parte, genera [[Love|amore]].
+Sicché vedete in che posizione mi trovo.  Sono ridotto a usare l'[[Love|amore]] per
+fermarvi.  Sono costretto a usare l'[[Love|amore]]."
+
+Diede alla parola un indescrivibile suono di qualcosa di duro e pesante,
+come se dicesse "stivali". Turnbull afferrò d'improvviso la propria [[Sword|spada]]
+e disse, seccamente, "Vedo perfettamente [[Well|bene]] in che posizione vi trovate, signore.
+Non chiamerete la polizia.  Signor MacIan, ingaggiamo?"
+MacIan strappò la propria [[Sword|spada]] dall'erba.
+
+"Devo e voglio fermare questo crimine sconvolgente," gridò il tolstoiano,
+paonazzo in volto.  "È contro tutte le idee moderne.
+È contro il principio dell'[[Love|amore]].  Come voi, signore, che pretendete
+di essere cristiano..."
+
+MacIan si voltò verso di lui con volto bianco e labbro amaro.
+"Signore," disse, "parlate quanto volete del principio dell'[[Love|amore]].
+Mi sembrate più freddo di un blocco di pietra; ma sono disposto a credere
+che possiate, in qualche [[Time|momento]], aver amato un gatto, o un cane, o un [[Child|bambino]].
+Quando eravate un neonato, suppongo che amaste vostra madre.
+Parlate dell'[[Love|amore]], allora, finché il mondo non sia nauseato della parola.
+Ma non parlate del [[Christianity|Cristianesimo]].  Non osate dire una sola parola,
+bianca o nera, su di esso.  Il [[Christianity|Cristianesimo]] è, per quel che vi riguarda,
+un mistero orribile.  Statene alla larga, tacetene,
+come tacereste di un'abominazione.  È una cosa che ha spinto
+gli uomini a uccidersi e torturarsi a vicenda; e voi non saprete mai perché.
+È una cosa che ha spinto gli uomini a fare il male affinché ne venisse il bene;
+e voi non comprenderete mai il male, [[Alone|tanto meno]] il bene.
+Il [[Christianity|Cristianesimo]] è una cosa che potrebbe solo farvi vomitare, finché non sarete
+altro da ciò che siete.  Non lo giustificherei a voi neppure se potessi.
+Odiatelo, in nome di Dio, come lo odia Turnbull, che è un uomo.
+È una cosa mostruosa, per cui gli uomini muoiono.  E se resterete
+qui a parlare dell'[[Love|amore]] per altri dieci minuti, è assai probabile
+che vedrete un uomo morire per esso."
+
+E si mise in guardia.  Turnbull era intento a sistemare qualcosa di allentato
+nella sua elaborata impugnatura, e la pausa fu rotta dallo sconosciuto.
+
+"E se chiamassi la polizia?" disse, con volto acceso.
+
+"E rinnegaste il vostro dogma più sacro," disse MacIan.
+
+"Dogma!" gridò l'uomo, con una sorta di sgomento.  "Oh, noi non abbiamo
+_dogmi_, sapete!"
+
+Ci fu un altro [[Silence|silenzio]], ed egli disse di nuovo, con leggerezza:
+
+"Sapete, credo che ci sia qualcosa in ciò che [[Shaw]] insegna
+sul fatto che nessun principio morale sia del tutto fisso.  Avete mai letto
+_La quintessenza dell'ibsenismo_?  Naturalmente prese un grosso abbaglio
+sulla guerra."
+
+Turnbull, con volto chino e arrossato, stava legando con lo spago
+il pezzo allentato del pomolo.  Con lo spago tra i denti,
+disse: "Oh, deciditi una buona volta, dannazione, e togliti di mezzo!"
+
+"È una cosa seria," disse il filosofo, scuotendo il capo.
+"Devo restare [[Alone|solo]] e considerare qual è il punto di vista più elevato.
+Ho piuttosto la sensazione che, in un caso così estremo come questo..." e se ne andò
+lentamente.  Mentre spariva tra gli alberi, lo udirono
+mormorare con voce [[Song|cantilenante]], "Nuove occasioni insegnano nuovi doveri,"
+tratto da una poesia di James Russell Lowell.
+
+"Ah," disse MacIan, traendo un profondo respiro.  "Non credi
+ora nella [[Prayer|preghiera]]?  Ho pregato per un angelo."
+
+"Temo di non capire," rispose Turnbull.
+
+"Un'ora fa," disse il montanaro, nella sua pesante voce meditativa,
+"sentivo il diavolo indebolirmi il cuore e il mio giuramento contro di te,
+e pregai che Dio mandasse un angelo in mio aiuto."
+
+"[[Well|Ebbene]]?" chiese l'altro, terminando la sua [[mending|riparazione]] e avvolgendosi
+il resto dello spago intorno alla mano per stringere meglio la presa.
+
+"[[Well|Ebbene]]?"
+
+"[[Well|Ebbene]], quell'uomo era un angelo," disse MacIan.
+
+"Non sapevo fossero brutti a tal punto," rispose Turnbull.
+
+"Sappiamo che i diavoli talvolta citano le Scritture e contraffanno il bene,"
+replicò il mistico.  "Perché gli angeli non dovrebbero talvolta venire
+a mostrarci il nero abisso del male sull'orlo del quale ci troviamo.
+Se quell'uomo non avesse cercato di fermarci...avrei potuto...avrei potuto fermarmi."
+
+"So cosa intendi," disse Turnbull, torvo.
+
+"Ma poi lui è venuto," proruppe MacIan, "e la mia [[Soul|anima]] mi ha detto:
+'Rinuncia a batterti, e diventerai come Quello.  Rinuncia ai voti
+e ai dogmi, e alle cose fisse, e potrai diventare come Quello.
+Potrai apprendere, anche, quella nebbia di falsa [[philosophy|filosofia]].  Potrai affezionarti
+a quel pantano di morali striscianti e codarde, e potrai arrivare
+a ritenere un colpo cattivo perché fa male, e non perché umilia.
+Potrai arrivare a ritenere l'omicidio sbagliato perché è violento,
+e non perché è ingiusto.'  Oh, tu bestemmiatore del bene,
+un'ora fa quasi ti amavo!  Ma non [[Fear|temere]] ora per me.
+Ho udito la parola [[Love|amore]] pronunciata nella _sua_ intonazione;
+e so esattamente cosa significa.  In guardia!"
+
+Le spade si agganciarono l'una all'altra con un clangore e uno stridore tremendi,
+pieni della vecchia energia e del vecchio odio; e subito affondarono e riaffondarono.
+Ancora una volta il cuore di ciascuno era divenuto la calamita di una folle [[Sword|spada]].
+D'improvviso, per quanto furiosi, restarono gelati per un momento immobili.
+
+"Che rumore è quello?" chiese il montanaro, con voce roca.
+
+"Credo di saperlo," rispose Turnbull.
+
+"Cosa?... Cosa?" gridò l'altro.
+
+"L'allievo di [[Shaw]] e [[tolstoy|Tolstoj]] ha preso la sua notevole decisione,"
+disse Turnbull, con calma.  "La polizia sta salendo la [[Hill|collina]]."
+
 
 
 <span class="atom-split" data-atom="story_05_the_other_philosopher--part_01" data-title="ball and cross — The Other Philosopher (part 1)" data-chapter="The Other Philosopher" data-kind="excerpt" data-tags="archetype/shadow,motif/blood,motif/childhood,motif/cross,motif/garden,motif/hill,motif/horse,motif/love,motif/night,motif/road,motif/rose,motif/silence,motif/summer,motif/time,motif/well,concept/body,concept/friendship,form/epic,character/oliver"></span>
@@ -11402,6 +12665,134 @@ louder and louder with inconceivable rapidity, and the cavalcade
 of police rushed by below them in the lane, almost with the roar
 and rattle of an express train.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+VI.  L'ALTRO FILOSOFO
+
+Tra alte siepi dell'Hertfordshire, siepi così alte da creare una sorta
+di boschetto, due uomini correvano.  Non correvano in modo scomposto
+o febbrile, ma con l'oscillazione regolare di un pendolo.
+Sulle grandi pianure e sugli altipiani a destra e a sinistra della
+stradina, una lunga marea di luce del tramonto rotolava come un mare di rubino,
+illuminando le lunghe terrazze delle colline e facendo risaltare le poche
+finestre dei casolari sparsi in trasalenti scintille rosso [[Blood|sangue]].
+Ma la stradina era incassata profonda nella [[Hill|collina]] e restava in un'[[Shadow|ombra]] brusca.
+I due uomini che vi correvano avevano un'impressione non di rado provata
+tra quelle selvagge verdi pareti inglesi; una sensazione di essere condotti tra
+le pareti di un labirinto.
+
+Benché il loro passo fosse regolare, era vigoroso; i loro volti erano accaldati
+e i loro occhi fissi e lucenti.  C'era, in effetti, qualcosa di un po'
+folle nel contrasto tra la quiete della sera sulla campagna
+deserta, e queste due figure che fuggivano forsennatamente da nulla.
+Avevano l'aria di due lunatici, e forse lo erano.
+
+"Tutto bene?" disse Turnbull, con cortesia.  "Puoi
+continuare così?"
+
+"Con tutta facilità, grazie," rispose MacIan.  "Corro molto [[Well|bene]]."
+
+"È forse una qualità apprezzata in una famiglia di guerrieri?" chiese Turnbull.
+
+"Indubbiamente. Il movimento rapido è essenziale," rispose MacIan,
+che in vita sua non colse mai una battuta.
+
+Turnbull proruppe in una breve risata, e cadde tra loro il [[Silence|silenzio]],
+l'ansante [[Silence|silenzio]] dei corridori.
+
+Poi MacIan disse:  "Noi corriamo meglio di tutti quei poliziotti.
+Sono troppo grassi.  Perché fate i vostri poliziotti così grassi?"
+
+"Non ho fatto granché io stesso per ingrassarli," rispose Turnbull,
+gioviale, "ma mi lusingo di star facendo ora qualcosa per
+farli dimagrire.  Vedrai che saranno secchi come stecchi quando
+ci prenderanno.  Avranno l'aria del tuo amico, il cardinale Manning."
+
+"Ma non ci prenderanno," disse MacIan, nel suo modo letterale.
+
+"No, li battiamo nella grande arte militare della fuga,"
+ribatté l'altro.  "Non ci prenderanno a meno che----"
+
+MacIan volse il suo lungo volto equino con aria interrogativa.  "A meno che cosa?"
+disse, perché Turnbull era ammutolito di colpo, e pareva
+tendere l'orecchio con attenzione mentre correva, come fa un [[Horse|cavallo]] con le orecchie all'indietro.
+
+"A meno che cosa?" ripeté il montanaro.
+
+"A meno che facciano--ciò che hanno fatto.  Ascolta."  MacIan rallentò
+il trotto, e volse il capo verso la traccia che si erano lasciati alle spalle.
+Attraverso due o tre ondulazioni della stradina che saliva e scendeva giungeva lungo
+il terreno l'inconfondibile pulsare di zoccoli di cavalli.
+
+"Ci hanno messo alle calcagna la polizia a cavallo," disse Turnbull, seccamente.
+"Buon Dio, si direbbe che siamo una Rivoluzione."
+
+"E infatti lo siamo," disse MacIan con calma.  "Cosa facciamo?
+Ci voltiamo contro di loro con le nostre punte?"
+
+"Potremmo arrivarci," rispose Turnbull, "anche se, se lo facciamo,
+credo che sarà l'ultimo atto.  Dobbiamo rimandarlo se possiamo."
+E fissò e scrutò intorno a sé tra i cespugli.
+"Se potessimo nasconderci da qualche parte, le bestie potrebbero passarci accanto," disse.
+"La polizia ha i suoi difetti, ma grazie a Dio è inefficiente.
+Ecco, ecco proprio ciò che ci vuole.  Sii svelto e silenzioso.  Seguimi."
+
+Si issò d'improvviso su per l'alta scarpata su un lato della stradina.
+Era quasi tanto alta e liscia quanto un muro, e in cima
+la nera siepe si protendeva sopra di loro ad angolo, quasi come un tetto
+di paglia della stradina.  E il cielo serale ardente li guardava dall'alto
+attraverso l'intrico con occhi rossi come un'armata di folletti.
+
+Turnbull si issò e ruppe la siepe con il proprio [[Body|corpo]].
+Mentre il capo e le spalle si [[Rose|levarono]] al di sopra di essa divamparono in fiamma
+nel pieno bagliore come illuminati da un immenso fuoco.
+I suoi capelli e la sua barba rossi parevano quasi scarlatti, e il suo volto pallido
+luminoso come quello di un ragazzo. Qualcosa di violento, qualcosa che era insieme
+[[Love|amore]] e odio, montò nello strano cuore del Gaelo sotto di lui.
+Ebbe un'indicibile sensazione di importanza [[Epic|epica]], come se stesse in qualche modo
+sollevando tutta l'umanità in una regione più fiera e più appassionata
+dell'aria.  Mentre si issava anch'egli su nella luce serale
+si sentì come se si stesse levando su enormi ali.
+
+Leggende del mattino del mondo che aveva udito nell'[[Childhood|infanzia]]
+o letto in gioventù gli tornarono in mente in un nuvoloso splendore,
+racconti purpurei d'ira e d'[[Friendship|amicizia]], come Orlando e [[Oliver|Oliviero]],
+o Balin e Balan, ricordandogli intrecci emotivi.
+Uomini che si erano amati e poi si erano combattuti;
+uomini che si erano combattuti e poi si erano amati,
+componevano insieme un senso misto ma mostruoso di solennità.
+I mari cremisi del tramonto gli parevano come uno sgorgare
+di qualche [[Blood|sangue]] sacro, come se il cuore del mondo si fosse spezzato.
+
+Turnbull era del tutto insensibile a qualsiasi poesia scritta o parlata;
+la sua era una mente potente e prosaica.  Ma perfino su di lui scese
+per un momento qualcosa che veniva dalla terra e dai confini appassionati
+del cielo.  L'unica prova fu nella sua voce, che era ancora
+pratica ma d'una sfumatura più quieta.
+
+"Vedi quella cosa laggiù che pare un [[house|padiglione]] [[Summer|estivo]]?"
+chiese seccamente.  "Farà molto al caso nostro."
+
+Tenendosi libero dall'intrico della siepe attraversò a passo tranquillo
+un triangolo di oscuro orto, e si avvicinò a una squallida capanna
+o casotto un metro o due oltre di esso.  Era una baracca segnata dalle intemperie,
+di legno grigio, che con tutta la sua desolazione conservava un brandello o due
+di banale ornamento, il che suggeriva che la cosa fosse stata un tempo
+una sorta di [[house|padiglione]] [[Summer|estivo]], e il luogo probabilmente una sorta di [[Garden|giardino]].
+
+"Quello è del tutto invisibile dalla [[Road|strada]]," disse Turnbull, entrandovi,
+"e ci coprirà per la [[Night|notte]]."
+
+MacIan lo guardò gravemente per qualche momento.  "Signore," disse,
+"devo dirvi una cosa.  Devo dire----"
+
+"Zitto," disse Turnbull, alzando d'improvviso la mano; "fermo, amico."
+
+Nell'improvviso [[Silence|silenzio]], il tambureggiare dei cavalli lontani si fece
+sempre più forte con inconcepibile rapidità, e la cavalcata
+di poliziotti si precipitò accanto a loro giù nella stradina, quasi con il rombo
+e lo strepito di un treno espresso.
 
 
 
@@ -11543,6 +12934,143 @@ every police station with our enemies; we are driven therefore
 to the edge of a lonely lane, and indirectly to taking liberties
 with your [[Summer|summer]]-[[house]] in order to arrange our..."
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+"Devo dirvi," proseguì MacIan, sempre fissando impassibile
+l'altro, "che voi siete un grande capo, ed è bello andare
+in guerra dietro di voi."
+
+Turnbull non disse nulla, ma si voltò e guardò fuori dalla sciocca
+grata delle finestrelle, poi disse: "Prima dobbiamo procurarci cibo
+e [[Sleep|sonno]]."
+
+Quando l'ultima eco dei loro inseguitori sfuggiti si spense sui lontani
+altipiani, Turnbull cominciò a disfare le provviste con l'aria disinvolta
+di un uomo a un picnic.  Aveva appena disposto gli ultimi articoli, posato una
+bottiglia di vino sul pavimento, e una scatoletta di salmone sul davanzale della [[Window|finestra]],
+quando lo sconfinato [[Silence|silenzio]] di quel luogo dimenticato fu rotto.
+E fu rotto da tre pesanti colpi di bastone vibrati
+sulla porta.
+
+Turnbull alzò lo sguardo nell'atto di aprire una scatoletta e fissò in silenzio
+il suo compagno.  La lunga, magra bocca di MacIan si era serrata dura.
+
+"Chi diavolo può essere?" disse Turnbull.
+
+"Dio lo sa," disse l'altro.  "Potrebbe essere Dio."
+
+Di nuovo il suono del bastone di legno riecheggiò sulla porta di legno.
+Era un suono curioso e, a rifletterci, non somigliava
+ai comuni effetti del bussare a una porta per farsi ammettere.
+Era piuttosto come se la punta di un bastone venisse ficcata più e più volte
+contro i pannelli, in un assurdo tentativo di farvi un buco.
+
+Uno sguardo folle balzò negli occhi di MacIan ed egli si alzò mezzo istupidito,
+con una sorta di barcollamento, tese la mano e afferrò una delle spade.
+"Battiamoci subito," gridò, "è la fine del mondo."
+
+"Sei stravolto, MacIan," disse Turnbull, mettendolo da parte.
+"È solo qualcuno che fa lo stupido.  Lascia che apra io la porta."
+
+Ma raccolse anche lui una [[Sword|spada]] mentre si accostava ad aprirla.
+
+Si soffermò un momento con la mano sulla maniglia e poi spalancò
+la porta.  Quasi nell'atto di farlo, il puntale di un comune
+bastone di bambù gli venne agli occhi, tanto che dovette davvero pararlo
+con l'arma nuda che aveva in mano.  Al toccarsi dei due, la punta
+del bastone fu abbassata assai bruscamente, e l'uomo con il bastone
+indietreggiò in fretta.
+
+Contro lo sfondo araldico di cremisi e oro sparpagliati
+offertogli dal tramonto morente, la figura dell'uomo
+con il bastone appariva dapprima soltanto nera e fantastica.
+Era un ometto con due ciuffi di lunghi capelli che si arricciavano
+su ciascun lato e, visti in controluce, parevano corna.
+Aveva un cravattino a farfalla così grande che i due lembi spuntavano su ciascun lato del collo
+come innaturali ali atrofizzate.  Teneva il suo lungo bastone nero ancora inclinato
+in mano come un fioretto da scherma e in parte presentato verso la porta aperta.
+Il suo grande cappello di paglia gli era caduto dietro mentre balzava all'indietro.
+
+"Riguardo alla tua ipotesi, MacIan," disse Turnbull, placidamente,
+"credo che assomigli più al Diavolo."
+
+"Chi diavolo siete voi?" gridò lo sconosciuto con voce acuta e stridula,
+brandendo il bastone in difesa.
+
+"Vediamo un po'," disse Turnbull, voltandosi verso MacIan con la
+stessa blandezza.  "Chi siamo noi?"
+
+"Uscite fuori," strillò l'ometto con il bastone.
+
+"Certamente," disse Turnbull, e uscì con la [[Sword|spada]],
+seguito da MacIan.
+
+Visto più compiutamente, con la luce della sera sul volto,
+lo strano uomo pareva un po' meno un folletto.
+Indossava un completo squadrato con giacca grigio pallido, sul quale la grigia
+cravatta a farfalla era l'unico indiscutibile tocco di affettazione.
+Contro il grande tramonto la sua figura era parsa soltanto piccola:
+vista in una luce più equa pareva discretamente compatta e ben fatta.
+I suoi capelli castano-rossicci, pettinati in due grandi boccoli, parevano i lunghi,
+lenti capelli ondulati delle donne in certi quadri preraffaelliti.
+Ma dentro questa femminea cornice di capelli il suo volto era inaspettatamente impudente,
+come quello di una scimmia.
+
+"Che ci fate qui?" disse, con voce acuta e sottile.
+
+"[[Well|Beh]]," disse MacIan, nel suo modo [[Grave|serio]] e infantile, "che ci fate
+_voi_ qui?"
+
+"Io," disse l'uomo, indignato, "io sono nel mio [[Garden|giardino]]."
+
+"Oh," disse MacIan, semplicemente, "chiedo scusa."
+
+Turnbull si arricciava freddamente i baffi rossi, e lo sconosciuto passava lo sguardo
+dall'uno all'altro, temporaneamente sbalordito dalla loro [[Innocent|innocente]] sicurezza.
+
+"Ma, posso chiedere," disse infine, "che diavolo state facendo
+nel mio [[house|padiglione]] [[Summer|estivo]]?"
+
+"Certamente," disse MacIan.  "Stavamo giusto per batterci."
+
+"Per battervi!" ripeté l'uomo.
+
+"Faremmo meglio a raccontare a questo signore l'intera faccenda,"
+intervenne Turnbull.  Poi, rivolgendosi allo sconosciuto, disse con fermezza,
+"Mi dispiace, signore, ma abbiamo qualcosa da fare che dev'essere fatto.
+E tanto vale che ve lo dica fin da principio, per evitare spreco
+di [[Time|tempo]] o di parole, che non possiamo ammettere alcuna interferenza."
+
+"Stavamo giusto per prendere un piccolo rinfresco quando
+ci avete interrotti..."
+
+L'ometto ebbe un'espressione nascente di comprensione e si chinò
+a raccogliere la bottiglia di vino non usata, osservandola con curiosità.
+
+Turnbull continuò:
+
+"Ma quel rinfresco era preparatorio a qualcosa che
+[[Fear|temo]] troverete meno comprensibile, ma su cui le nostre menti
+sono interamente fisse, signore.  Siamo costretti a batterci in duello.
+Vi siamo costretti dall'[[Honour|onore]] e da un intimo bisogno intellettuale.
+Non tentate, per il vostro stesso bene, di fermarci.  Conosco tutte
+le eccellenti ed etiche cose che vorrete dirci.
+So tutto degli essenziali requisiti dell'ordine civile:
+ho scritto articoli di fondo su tutti loro per tutta la vita.  So tutto
+della sacralità della vita umana; ho annoiato tutti i miei amici con essa.
+Cercate di comprendere la nostra posizione.  Quest'uomo e io siamo [[Alone|soli]] nel
+mondo moderno nel ritenere che Dio sia essenzialmente importante.
+Io penso che Egli non esista; è lì che sta l'importanza
+per me.  Ma quest'uomo pensa che Egli esista, e pensando
+ciò, ben giustamente Lo ritiene più importante di ogni altra cosa.
+Ora, noi desideriamo compiere una grande dimostrazione e affermazione--qualcosa che
+darà [[Fire|fuoco]] al mondo come le prime persecuzioni cristiane.
+Se volete, stiamo tentando un reciproco [[Martyrdom|martirio]].  I giornali
+hanno aizzato contro di noi ogni città.  Scotland Yard ha fortificato
+ogni stazione di polizia con i nostri nemici; siamo dunque spinti
+sull'orlo di una stradina solitaria, e indirettamente a prenderci delle libertà
+con il vostro [[house|padiglione]] [[Summer|estivo]] per predisporre il nostro..."
 
 
 
@@ -12118,6 +13646,134 @@ MacIan wore an expression of sad bewilderment not uncommon with him.
 "I am to understand, then," he said, "that you don't believe in [[Nature|nature]]."
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+VII.  IL VILLAGGIO DI GRASSLEY-IN-THE-HOLE
+
+Verso l'una e mezzo, sotto un forte cielo azzurro, Turnbull si alzò
+dall'erba e dalle felci in cui era rimasto sdraiato, e la sua risata ancora
+intermittente si spense in una sorta di sbadiglio.
+
+"Ho fame," disse seccamente.  "E tu?"
+
+"Non ci ho fatto caso," rispose MacIan.  "Cosa hai intenzione di fare?"
+
+"C'è un villaggio giù per la [[Road|strada]], oltre lo stagno," rispose Turnbull.
+"Lo vedo da qui.  Vedo i muri imbiancati a calce di alcune
+casupole e una specie di angolo della chiesa.  Come sembra tutto allegro.
+Sembra così--non so quale sia la parola--così assennato.  Non credere che io
+mi faccia illusioni sulla virtù arcadica e sugli [[Innocent|innocenti]] villici.
+Là gli uomini si abbrutiscono con il bere, ma non
+si fanno deliberatamente demoni con il solo parlare.
+Uccidono [[Animals|animali]] selvatici nei boschi selvaggi, ma non uccidono gatti
+al Dio della Vittoria.  Non----" S'interruppe e d'improvviso
+sputò per terra.
+
+"Scusami," disse; "era cerimoniale.  Bisogna togliersi il sapore
+dalla bocca."
+
+"Il sapore di cosa?" chiese MacIan.
+
+"Non so il nome esatto," rispose Turnbull.
+"Forse sono le Isole dei Mari del Sud, o forse è il Magdalen College."
+
+Ci fu una lunga pausa, e anche MacIan sollevò le sue grandi membra da
+terra--gli occhi particolarmente sognanti.
+
+"So cosa intendi, Turnbull," disse, "ma...ho sempre creduto
+che voialtri foste d'accordo con tutto ciò."
+
+"Con tutto quel discorso sul fare ciò che si vuole, e l'individuo,
+e la [[Nature|natura]] che ama il più forte, e tutte le cose di cui parlava
+quello scarafaggio."
+
+I grandi occhi grigio-azzurri di Turnbull si spalancarono con un [[Grave|serio]] stupore.
+
+"Vuoi davvero dirmi, MacIan," disse, "che ti eri immaginato che noi,
+i liberi pensatori, che Bradlaugh, o Holyoake, o Ingersoll,
+credessimo a tutto quel sudicio, immorale misticismo sulla [[Nature|natura]]?  Al diavolo la [[Nature|natura]]!"
+
+"Supponevo di sì," disse MacIan con calma.  "Mi sembra la vostra
+posizione più conclusiva."
+
+"E vuoi dirmi," ribatté l'altro, "che hai rotto
+la mia [[Window|finestra]], e mi hai sfidato a mortale combattimento, e hai legato un bottegaio
+con delle corde, e hai inseguito un professore di [[Oxford]] attraverso cinque prati--
+il tutto nella convinzione che io sia un idiota tanto ignorante da
+credere nella [[Nature|natura]]!"
+
+"Supponevo di sì," ripeté MacIan con la sua consueta mitezza;
+"ma ammetto di sapere ben poco dei dettagli della tua fede--
+o miscredenza."
+
+Turnbull si voltò di scatto, e si avviò verso il villaggio.
+
+"Vieni," gridò.  "Scendiamo al villaggio.  Scendiamo
+al più vicino pub decente e abitabile.  Questo è un caso da birra."
+
+"Non ti seguo del tutto," disse il montanaro.
+
+"Sì che mi segui," rispose Turnbull.  "Mi segui dritto dentro
+la sala della locanda. Ripeto, questo è un caso da birra.  Dobbiamo tirar
+fuori tutta questa faccenda a fondo prima di fare un passo più in là.
+Sai che mi è appena venuta in mente un'idea di grande semplicità
+e di una certa forza persuasiva.  Non abbandoniamo affatto le nostre
+intenzioni di regolare le nostre divergenze con due spade d'acciaio.
+Ma non pensi che con due boccali di peltro potremmo fare ciò che finora
+non abbiamo mai pensato di fare--scoprire qual è la nostra divergenza?"
+
+"Non mi era mai venuto in mente prima," rispose MacIan con tranquillità.
+"È una buona proposta."
+
+E si avviarono con un passo disinvolto giù per la ripida [[Road|strada]] verso il
+villaggio di Grassley-in-the-Hole.
+
+Grassley-in-the-Hole era un rozzo parallelogramma di edifici,
+con due arterie che si sarebbero potute chiamare due vie
+principali se fosse stato possibile chiamarle vie.
+Una di queste strade era più in alto sul pendio dell'altra, l'intero
+parallelogramma giacendo, per così dire, di traverso sul fianco della [[Hill|collina]].
+La più alta di queste due strade era ornata da una grande [[house|osteria]],
+una macelleria, una piccola [[house|osteria]], una bottega di dolciumi, una piccolissima
+[[house|osteria]], e un cartello illeggibile.  La più bassa delle due strade
+vantava uno stagno per [[Horse|cavalli]], un ufficio postale, il [[Garden|giardino]] di un gentiluomo con siepi
+altissime, una [[house|osteria]] microscopicamente piccola, e due casupole.
+Dove vivessero tutte le persone che sostenevano tutte quelle osterie era,
+in questo come in molti altri villaggi inglesi, un silenzioso e sorridente mistero.
+La chiesa sorgeva un po' più in alto e oltre il villaggio, con una squadrata
+torre grigia che la dominava con decisione.
+
+Ma perfino la chiesa era a stento un'istituzione tanto centrale e solenne
+quanto la grande [[house|osteria]], la Valencourt Arms.
+Era intitolata a una qualche splendida famiglia da tempo caduta in bancarotta,
+e la cui dimora era occupata da un uomo che aveva inventato un
+cavastivali igienico; ma l'insondabile sentimentalismo del popolo
+inglese si ostinava a considerare la Locanda, la dimora e chi vi sedeva,
+come parti ugualmente di una pura e marmorea antichità.
+E nella Valencourt Arms perfino la baldoria aveva una certa solennità
+e decoro; e la birra si beveva con reverenza, come si conviene.
+Nella sala principale di questo luogo entrarono due sconosciuti,
+che si trovarono, come è sempre il caso in tali osterie, oggetto,
+non di trepida curiosità o di sfrontata domanda, ma di un fisso, incessante,
+divorante studio oculare.  Avevano lunghi cappotti che scendevano fino ai talloni,
+e portavano sotto ciascun cappotto qualcosa che pareva un bastone.
+Uno era alto e bruno, l'altro basso e dai capelli rossi. Ordinarono
+un boccale di birra a testa.
+
+"MacIan," disse Turnbull, sollevando il boccale, "lo [[Fool|sciocco]] che voleva
+farci amici ci ha fatto venir voglia di continuare a batterci.  È solo naturale
+che lo [[Fool|sciocco]] che voleva farci battere debba renderci amici.
+MacIan, alla tua salute!"
+
+Il crepuscolo già calava, i contadini nella taverna
+già barcollavano e uscivano goffamente a due a due e a tre a tre,
+gridando clamorose buonanotti a un solitario vecchio beone che restava,
+prima che MacIan e Turnbull avessero raggiunto la parte davvero importante
+della loro discussione.
+
+MacIan aveva un'espressione di triste smarrimento in lui non rara.
+"Devo dunque intendere," disse, "che tu non credi nella [[Nature|natura]]."
+
 
 
 <span class="atom-split" data-atom="story_06_the_village_of_grassley_in_the_hole--part_02" data-title="ball and cross — The Village of Grassley-in-the-Hole (part 2)" data-chapter="The Village of Grassley in the Hole" data-kind="excerpt" data-tags="archetype/ghost,motif/cross,motif/horse,motif/love,motif/nature,motif/supernatural,motif/time,motif/well,concept/nature"></span>
@@ -12247,6 +13903,132 @@ that were merely local, the respect for the chief of your clan,
 or such things; the village [[Ghost|ghost]], the family feud, or what not?
 Did you not take in those things, too, along with your theology?"
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+"Potete ben dirlo, in un senso del tutto speciale ed enfatico," disse Turnbull.
+"Io non credo nella [[Nature|natura]], così come non credo in Odino.
+Essa è un mito. Non è soltanto che io non creda che la [[Nature|natura]]
+possa guidarci. È che io non credo che la [[Nature|natura]] esista."
+
+"Esista?" disse MacIan col suo tono monotono, posando il boccale
+di peltro sul tavolo.
+
+"Sì, in un senso reale la [[Nature|natura]] non esiste. Voglio dire che nessuno
+può scoprire quale sarebbe stata la [[Nature|natura]] originaria delle cose
+se le cose non l'avessero contrastata. Il primo filo d'erba cominciò
+a lacerare la terra e a divorarla; interferiva con la [[Nature|natura]],
+se esiste una qualche [[Nature|natura]]. Il primo bue selvatico cominciò a strappare l'erba
+e a mangiarla; interferiva con la [[Nature|natura]], se esiste una qualche [[Nature|natura]].
+Allo stesso modo," proseguì Turnbull, "l'uomo, quando afferma
+il proprio dominio sulla [[Nature|natura]], è tanto naturale quanto la cosa
+che distrugge."
+
+"E allo stesso modo," disse MacIan quasi sognante, "il sovrumano,
+il [[Supernatural|soprannaturale]] è tanto naturale quanto la [[Nature|natura]] che distrugge."
+
+Turnbull tirò fuori la testa dal suo boccale di peltro con una certa ira.
+
+"Il [[Supernatural|soprannaturale]], naturalmente," disse, "è tutt'altra cosa;
+il caso del [[Supernatural|soprannaturale]] è semplice. Il [[Supernatural|soprannaturale]]
+non esiste."
+
+"Appunto," disse MacIan con voce piuttosto spenta; "avete detto lo stesso
+del naturale. Se il naturale non esiste, il [[Supernatural|soprannaturale]]
+ovviamente non può esistere." E sbadigliò un poco sulla sua birra.
+
+Turnbull si fece per qualche ragione un poco rosso e osservò in fretta:
+"Sarà anche molto arguto, per quel che ne so io. Ma tutti sanno bene
+che c'è una divisione tra le cose che di fatto
+accadono comunemente e le cose che non accadono. Le cose che infrangono
+le evidenti leggi della [[Nature|natura]]----"
+
+"La quale non esiste," inserì MacIan con aria assonnata. Turnbull batté
+sul tavolo con una mano improvvisa.
+
+"Buon Dio del cielo!" gridò----
+
+"Il quale non esiste," mormorò MacIan.
+
+"Buon Dio del cielo!" tuonò Turnbull, senza curarsi
+dell'interruzione. "Volete davvero starvene lì seduto a dirmi che voi,
+come chiunque altro, non riconoscereste la differenza tra un evento naturale
+e uno [[Supernatural|soprannaturale]]--ammesso che una cosa simile potesse esistere?
+Se io volassi fino al soffitto----"
+
+"Vi battereste malamente la testa," gridò MacIan, balzando all'improvviso in piedi.
+"Di questa sorta di cose non si può parlare affatto sotto un soffitto.
+Venite fuori! Venite fuori e salite in cielo!"
+
+Spalancò la porta su un azzurro abisso di sera ed essi vi uscirono:
+d'un tratto, e stranamente, faceva fresco.
+
+"Turnbull," disse MacIan, "avete detto certe cose così vere
+e certe così false che ho voglia di parlare; e cercherò di parlare in modo
+che voi capiate. Perché per ora non capite affatto.
+Non pare che intendiamo le stesse cose con le stesse parole."
+
+Rimase in silenzio per un secondo o due, poi riprese.
+
+"Un minuto o due fa vi ho colto in una vera contraddizione.
+In quel momento, logicamente, avevo ragione. E in quel momento sapevo
+di avere torto. Sì, c'è una vera differenza tra il naturale
+e il [[Supernatural|soprannaturale]]: se voi in questo istante volaste su in quel cielo azzurro,
+penserei che foste mosso da Dio--o dal diavolo.
+Ma se volete sapere ciò che davvero penso... devo spiegarmi."
+
+Si fermò di nuovo, ficcando distrattamente la punta della sua [[Sword|spada]] nel
+terreno, e proseguì:
+
+"Sono nato, cresciuto ed educato in un universo completo.
+Il [[Supernatural|soprannaturale]] non era naturale, ma era perfettamente ragionevole.
+Anzi, il [[Supernatural|soprannaturale]] per me è più ragionevole del naturale;
+poiché il [[Supernatural|soprannaturale]] è un messaggio diretto di Dio, che è ragione.
+Mi fu insegnato che alcune cose sono naturali e alcune cose divine.
+Voglio dire che alcune cose sono meccaniche e alcune cose divine.
+Ma qui sta la grande difficoltà, Turnbull. La grande difficoltà
+è che, secondo il mio insegnamento, voi siete divino."
+
+"Io! Divino?" disse Turnbull in tono truce. "Che cosa intendete?"
+
+"È proprio questa la difficoltà," continuò MacIan pensieroso. "Mi fu
+detto che c'era una differenza tra l'erba e la volontà di un uomo;
+e la differenza era che la volontà di un uomo era speciale e divina.
+Il libero arbitrio di un uomo, ho sentito dire, era [[Supernatural|soprannaturale]]."
+
+"Sciocchezze!" disse Turnbull.
+
+"Oh," disse MacIan con pazienza, "allora, se il libero arbitrio di un uomo non è
+[[Supernatural|soprannaturale]], perché i vostri materialisti negano che esista?"
+
+Turnbull tacque per un momento. Poi cominciò a parlare,
+ma MacIan proseguì con la stessa voce ferma e gli occhi tristi:
+
+"Dunque ciò che sento è questo: ecco la grande creazione divina in cui
+mi fu insegnato a credere. Posso capire che voi non ci crediate,
+ma perché non credere in una sua parte soltanto? Per me era tutt'uno. Dio aveva
+autorità perché era Dio. L'uomo aveva autorità perché era uomo.
+Non potete provare che Dio sia migliore di un uomo; né potete provare
+che un uomo sia migliore di un [[Horse|cavallo]]. Perché permettere una cosa qualsiasi?
+Perché lasciate che si selli un [[Horse|cavallo]]?"
+
+"Certi pensatori moderni lo disapprovano," disse Turnbull
+con un lieve dubbio.
+
+"Lo so," disse MacIan cupamente; "quell'uomo che parlava d'[[Love|amore]],
+per esempio."
+
+Turnbull fece una smorfia divertita; poi disse: "Pare che parliamo
+in una sorta di stenografia; ma non fingerò di non capirvi.
+Ciò che intendete è questo: che avete appreso di tutti i vostri santi
+e angeli nello stesso [[Time|tempo]] in cui avete appreso della comune [[morality|moralità]],
+dalle stesse persone, nello stesso modo. E volete dire che se una
+può essere messa in dubbio, così può l'altra. [[Well|Ebbene]], lasciamo correre per il momento.
+Ma lasciate che a mia volta vi ponga una domanda. Questo vostro sistema,
+che avete inghiottito tutto intero, non conteneva forse ogni sorta di cose
+che erano meramente locali: il rispetto per il capo del vostro clan,
+o cose del genere; il [[Ghost|fantasma]] del villaggio, la faida di famiglia, e chi più ne ha più ne metta?
+Non avete forse assorbito anche quelle cose, insieme alla vostra teologia?"
 
 
 
@@ -12397,6 +14179,151 @@ as realizing that man is a man.  But your Ibsens and your Zolas
 and your Shaws and your Tolstoys have not even got so far."
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+MacIan fissava lungo la fioca [[Road|strada]] del villaggio, giù per la quale l'ultimo
+ritardatario della locanda si trascinava per la sua via.
+
+"Ciò che dite non è irragionevole," disse. "Ma non è del tutto vero.
+La distinzione tra il capo e noi esisteva davvero; ma non fu mai
+qualcosa di simile alla distinzione tra l'umano e il divino,
+o tra l'umano e l'animale. Era più simile alla distinzione
+tra un animale e un altro. Ma----"
+
+"[[Well|Ebbene]]?" disse Turnbull.
+
+MacIan taceva.
+
+"Continuate," ripeté Turnbull; "che cos'avete?
+Che cosa state fissando?"
+
+"Sto fissando," disse infine MacIan, "colui che
+ci giudicherà entrambi."
+
+"Oh, sì," disse Turnbull con aria stanca, "immagino intendiate Dio."
+
+"No, non è così," disse MacIan, scuotendo il capo. "Intendo lui."
+
+E indicò il bifolco mezzo brillo che avanzava a fatica lungo la [[Road|strada]].
+
+"Che cosa intendete?" chiese l'ateo.
+
+"Intendo lui," ripeté MacIan con enfasi. "Esce
+alla prima [[Dawn|alba]]; zappa o ara un campo.
+Poi torna e beve birra, e poi canta una [[Song|canzone]].
+Tutte le vostre filosofie e i vostri sistemi politici sono giovani a paragone di lui.
+Tutte le vostre canute cattedrali, sì, perfino la Chiesa Eterna sulla terra è
+nuova a paragone di lui. Gli dèi più tarlati del British Museum
+sono fatti nuovi accanto a lui. È lui che alla fine giudicherà tutti noi."
+
+E MacIan [[Rose|si alzò]] in piedi con una vaga eccitazione.
+
+"Che cosa avete intenzione di fare?"
+
+"Ho intenzione di chiedergli," gridò MacIan, "chi di noi ha ragione."
+
+Turnbull proruppe in una specie di risata. "Chiedere a quell'ubriaco
+mangiatore di rape----" cominciò.
+
+"Sì--chi di noi ha ragione," gridò MacIan con violenza. "Oh, voi avete
+parole altisonanti e io ho parole altisonanti; e io parlo di ogni uomo che è
+l'immagine di Dio; e voi parlate di ogni uomo che è un cittadino
+e abbastanza illuminato per governare. Ma se ogni uomo raffigura Dio,
+ecco Dio. Se ogni uomo è un cittadino illuminato, ecco
+il vostro cittadino illuminato. Il primo uomo che si incontra è sempre l'uomo.
+Raggiungiamolo."
+
+E a passi giganteschi il lungo, magro Highlander si lanciò via nel
+grigio crepuscolo, seguito da Turnbull con un'imprecazione bonaria.
+
+La traccia del campagnolo era facile da seguire, anche nel buio incerto;
+poiché egli ravvivava il suo passo malfermo con la [[Song|canzone]].
+Era un poema interminabile, che cominciava con un imprecisato
+[[King|re]] Guglielmo, il quale (a quanto pareva) viveva nella città di [[London|Londra]] e che dopo
+la seconda strofa scomparve piuttosto bruscamente dal filo del pensiero.
+Il resto trattava quasi interamente di birra ed era fitto di
+toponomastica locale di specie del tutto irriconoscibile. Il passo del cantore
+non era né molto rapido, né, in verità, eccezionalmente sicuro;
+così la [[Song|canzone]] si fece sempre più forte e i due presto lo raggiunsero.
+
+Era un uomo anziano, o piuttosto di età indefinibile, con radi capelli grigi e un magro
+volto rosso, ma con quella singolare fisionomia rustica in cui
+sembra che tutti i lineamenti si stacchino l'uno dall'altro dal viso;
+il ruvido naso rosso che sporgeva come un arto; gli occhi azzurri annebbiati
+che spiccavano come segnali.
+
+Li salutò con l'elaborata cortesia
+del leggermente brillo. MacIan, che vibrava per una delle
+sue silenziose, violente decisioni, pose la questione senza indugio.
+Espose la posizione filosofica con parole quanto più brevi e
+semplici possibile. Ma quello strano vecchio dal magro volto
+rosso parve tenere in conto assai poco le parole brevi.
+Si aggrappò con feroce affetto a una o due di quelle lunghe.
+
+"Atei!" ripeté con lussurioso disprezzo. "Atei! Conosco
+la loro razza, padrone. Atei! Non parlatemene. Atei!"
+
+Le ragioni del suo sdegno parevano un po' oscure e confuse; ma erano
+evidentemente sufficienti. MacIan riprese con un certo incoraggiamento:
+
+"Voi la pensate come me, lo [[Hope|spero]]; voi pensate che un uomo debba essere legato
+alla Chiesa; al comune cristiano----"
+
+Il vecchio protese un bastone tremante in direzione di
+una [[Hill|collina]] lontana.
+
+"Ecco la chiesa," disse con voce impastata. "La vecchia chiesa di Grassley, quella lì.
+L'hanno abbattuta, al [[Time|tempo]] del vecchio castellano, e----"
+
+"Voglio dire," spiegò MacIan con cura, "che voi pensate che ci
+dovrebbe essere qualcuno che raffigura la religione, un prete----"
+
+"Preti!" disse il vecchio con improvvisa passione. "Preti! Li
+conosco. Che cosa vogliono in Inghilterra? Ecco che dico io. Che cosa
+vogliono in Inghilterra?"
+
+"Vogliono voi," disse MacIan.
+
+"Appunto," disse Turnbull, "e me; ma non ci avranno.
+MacIan, il vostro tentativo sull'[[innocence|innocenza]] primitiva non pare
+troppo riuscito. Lasciate provare a me. Ciò che volete, amico mio, sono i vostri diritti.
+Non volete preti né chiese. Un voto, il diritto di parola
+è ciò che voi----"
+
+"Chi dice che non ho il diritto di parlare?" disse il vecchio,
+voltandosi di scatto in un frenetico impeto irrazionale. "Ho il diritto di parlare.
+Sono un uomo, io. Non voglio né votazioni né preti.
+Dico che un uomo è un uomo; ecco quel che dico. Se un uomo non è un uomo,
+che cos'è? Ecco quel che dico, se un uomo non è un uomo, che cos'è?
+Quando vedo un uomo, dico ch'è un uomo."
+
+"Appunto," disse Turnbull, "un cittadino."
+
+"Dico ch'è un uomo," disse il campagnolo con furia, fermandosi e
+battendo il bastone per terra. "Non una [[City|città]] né altro.
+È un uomo."
+
+"Avete perfettamente ragione," disse l'improvvisa voce di MacIan,
+calando come una [[Sword|spada]]. "E vi siete tenuto stretto a qualcosa
+che il mondo intero d'oggi cerca di dimenticare."
+
+"Buona [[Night|notte]]."
+
+E il vecchio proseguì cantando follemente nella [[Night|notte]].
+
+"Un vecchio allegro tipo," disse Turnbull; "non pareva capace di andare
+molto oltre il fatto che un uomo è un uomo."
+
+"Qualcuno è mai andato oltre?" chiese MacIan.
+
+Turnbull lo guardò con curiosità. "State diventando agnostico?"
+chiese.
+
+"Oh, voi non capite!" esclamò MacIan. "Noi cattolici siamo
+tutti agnostici. Noi cattolici, in quel senso, siamo arrivati soltanto
+a renderci conto che l'uomo è un uomo. Ma i vostri Ibsen e i vostri Zola
+e i vostri Shaw e i vostri Tolstoj non sono nemmeno arrivati fin là."
+
 
 
 <span class="atom-split" data-atom="story_07_an_interlude_of_argument--part_01" data-title="ball and cross — An Interlude of Argument (part 1)" data-chapter="An Interlude of Argument" data-kind="excerpt" data-tags="archetype/hero,motif/cross,motif/hill,motif/nature,motif/night,motif/stars,motif/time,concept/doubt,concept/history,concept/nature,form/history,histref/catholic_church,histref/christianity,histref/renaissance,character/james_turnbull,character/monks"></span>
@@ -12505,6 +14432,111 @@ of men I never heard of to discover the electric light.
 Still I can see the electric light.  But I cannot see the supreme
 virtue which is the result of all your theologies and sacraments."
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+VIII. UN INTERLUDIO DI DISCUSSIONE
+
+Il mattino spuntò in un aspro argento lungo la grigia e piatta pianura;
+e quasi nell'istante in cui ciò avvenne Turnbull e MacIan uscirono da un basso
+e stentato bosco sulle desolate distese vuote. Avevano
+camminato tutta la [[Night|notte]].
+
+Avevano camminato tutta la [[Night|notte]] e discusso tutta la [[Night|notte]], e se l'argomento
+fosse stato tale da poter essere esaurito lo avrebbero esaurito.
+La loro lunga e mutevole discussione li aveva condotti attraverso regioni
+e paesaggi ugualmente mutevoli. Avevano dibattuto di Haeckel su
+colline così alte e ripide che, malgrado il freddo della [[Night|notte]],
+sembrava che le [[Stars|stelle]] potessero bruciarli. Avevano spiegato
+e rispiegato il Massacro di San Bartolomeo in bianchi
+viottoli murati da grano ritto come da muraglie d'oro.
+Avevano parlato del signor Kensit in fioche e scintillanti pinete,
+tra la sconcertante monotonia dei pini. E fu con la fine
+di un lungo discorso di MacIan, che difendeva appassionatamente le realizzazioni pratiche
+e la solida prosperità della tradizione cattolica,
+che sbucarono sulla terra aperta.
+
+MacIan aveva imparato molto e pensato ancor di più da quando era uscito dalle nebbiose
+alture di Arisaig. Aveva incontrato molte figure moderne tipiche in
+circostanze che erano nettamente simboliche; e, per di più, aveva
+assorbito la principale atmosfera moderna dalla semplice presenza e dalle frasi occasionali
+di Turnbull, come tali atmosfere si possono sempre assorbire dalla
+presenza e dalle frasi di ogni uomo di grande vitalità mentale.
+Aveva finalmente cominciato a comprendere a fondo quali siano i motivi
+per cui la massa del mondo moderno disapprova con fermezza
+il suo credo; e si gettò a rispondere loro con un
+ardente godimento intellettuale.
+
+"Comincio a capire uno o due dei vostri dogmi, signor Turnbull,"
+aveva detto con enfasi mentre arrancavano su per una [[Hill|collina]] boscosa.
+"E ognuno che capisco lo nego. Prendetene uno qualsiasi a piacere.
+Voi sostenete che i vostri eretici e scettici hanno spinto avanti il mondo
+e tramandato una lampada di progresso. Io lo nego. Nulla è più chiaro
+dalla vera [[history|storia]] del fatto che ciascuno dei vostri eretici inventò un intero
+cosmo tutto suo che l'eretico successivo fece interamente a pezzi.
+Chi sa ora esattamente che cosa insegnò Nestorio? A chi importa?
+Ci sono solo due cose che ne sappiamo per certo.
+La prima è che Nestorio, come eretico, insegnò qualcosa di del tutto
+opposto all'insegnamento di Ario, l'eretico che venne prima di lui,
+e qualcosa di del tutto inutile a [[James Turnbull]], l'eretico
+che viene dopo. Vi sfido a risalire ai liberi pensatori
+del passato e a trovarvi una qualsiasi dimora per voi stesso.
+Vi sfido a leggere Godwin o Shelley o i deisti del diciottesimo
+secolo o gli umanisti adoratori della [[Nature|natura]] del [[Renaissance|Rinascimento]],
+senza scoprire che voi differite da loro il doppio di quanto
+differiate dal Papa. Voi siete uno scettico del diciannovesimo secolo,
+e mi andate sempre dicendo che io ignoro la crudeltà della [[Nature|natura]].
+Se foste stato uno scettico del diciottesimo secolo mi avreste
+detto che io ignoro la bontà e la benevolenza della [[Nature|natura]].
+Voi siete ateo, e lodate i deisti del diciottesimo secolo.
+Leggeteli invece di lodarli, e scoprirete che tutto il loro
+universo sta o cade con la divinità. Voi siete materialista,
+e ritenete Bruno un [[Hero|eroe]] scientifico. Guardate ciò che disse e lo
+riterrete un mistico folle. No, il grande libero pensatore, con la sua
+genuina abilità e onestà, non distrugge in pratica il [[Christianity|Cristianesimo]].
+Ciò che distrugge è il libero pensatore che lo precedette.
+Il libero pensiero può essere suggestivo, può essere corroborante, può avere
+quanto vi piace dei meriti che vengono dalla vivacità e dalla varietà.
+Ma c'è una cosa che il libero pensiero non potrà mai essere in alcun modo--
+il libero pensiero non potrà mai essere progressivo. Non potrà mai essere progressivo
+perché non accetterà nulla dal passato; ricomincia ogni [[Time|volta]] daccapo
+dal principio; e va ogni [[Time|volta]] in una direzione diversa.
+Tutti i filosofi razionali hanno percorso strade diverse,
+sicché è impossibile dire quale sia andato più lontano. Chi può discutere
+se Emerson fosse ottimista migliore di quanto Schopenhauer fosse pessimista?
+È come chiedere se questo grano è tanto giallo quanto quella [[Hill|collina]] è ripida.
+No; ci sono solo due cose che davvero progrediscono; ed entrambe
+accettano accumuli di autorità. Possono progredire in salita
+e in discesa; possono farsi costantemente migliori o costantemente peggiori;
+ma sono costantemente cresciute in certe materie definibili;
+sono costantemente avanzate in una certa direzione definibile;
+sono le uniche due cose, pare, che mai _possano_ progredire.
+La prima è rigorosamente la scienza fisica. La seconda è
+la [[Catholic Church|Chiesa cattolica]]."
+
+"La scienza fisica e la [[Catholic Church|Chiesa cattolica]]!" disse Turnbull sarcasticamente;
+"e senza [[Doubt|dubbio]] la prima deve molto alla seconda."
+
+"Se insisteste su quel punto potrei rispondere che è molto probabile,"
+rispose MacIan con calma. "Immagino spesso che le vostre generalizzazioni
+storiche poggino di frequente su istanze casuali;
+non mi stupirei se le vostre vaghe nozioni della Chiesa
+come persecutrice della scienza fossero una generalizzazione tratta da Galileo.
+Non mi stupirei affatto se, contando le
+indagini e le scoperte scientifiche dalla caduta di Roma,
+scopriste che gran parte di esse è stata compiuta da [[Monks|monaci]].
+Ma la questione è irrilevante rispetto al mio pensiero. Dico che se volete
+un esempio di qualcosa che sia progredito nel mondo
+morale con lo stesso metodo con cui la scienza nel mondo materiale,
+aggiungendo continuamente senza sconvolgere ciò che c'era prima,
+allora dico che ne _esiste_ un solo esempio. E siamo Noi."
+
+"Con questa enorme differenza," disse Turnbull, "che per quanto elaborati
+siano i calcoli della scienza fisica, il loro risultato netto può essere verificato.
+Ammesso che ci siano voluti milioni di libri che non ho mai letto e milioni
+di uomini di cui non ho mai sentito parlare per scoprire la luce elettrica,
+posso comunque vedere la luce elettrica. Ma non posso vedere la suprema
+virtù che è il risultato di tutte le vostre teologie e i vostri sacramenti."
 
 
 
@@ -12647,6 +14679,143 @@ MacIan answered nothing to the speech; perhaps it is unanswerable.
 And indeed they scarcely spoke another word to each other all that day.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+"La virtù cattolica è spesso invisibile perché è la norma,"
+rispose MacIan. "Il [[Christianity|Cristianesimo]] è sempre fuori moda
+perché è sempre sano; e tutte le mode sono lievi follie.
+Quando l'[[Italy|Italia]] impazzisce per l'arte la Chiesa sembra troppo puritana;
+quando l'Inghilterra impazzisce per il [[Puritanism|Puritanesimo]] la Chiesa sembra troppo artistica.
+Quando litigate con noi ora ci accostate alla regalità e al dispotismo;
+ma quando litigaste con noi la prima volta fu perché noi non volevamo
+accettare il dispotismo divino di [[Henry VIII|Enrico VIII]]. La Chiesa sembra sempre
+essere indietro rispetto ai tempi, quando in realtà è al di là dei tempi;
+attende che l'ultima fisima abbia visto la sua ultima [[Summer|estate]].
+Custodisce la chiave di una virtù permanente."
+
+"Oh, ho già sentito tutto questo!" disse Turnbull con genuino disprezzo.
+"Ho sentito dire che il [[Christianity|Cristianesimo]] custodisce la chiave della virtù, e che
+se leggi Tom Paine ti taglierai la gola a Monte Carlo.
+Sono tali sciocchezze che non me ne adiro nemmeno. Dite
+che il [[Christianity|Cristianesimo]] è il sostegno della morale; ma che altro fate voi?
+Quando un medico vi cura e potrebbe [[Poison|avvelenarvi]] con un pizzico
+di sale, gli chiedete forse se è cristiano? Chiedete se
+è un gentiluomo, se è un dottore in medicina--qualsiasi cosa tranne quella.
+Quando un soldato si arruola per morire per la sua patria o per disonorarla,
+gli chiedete forse se è cristiano? È più probabile
+che chiediate se è di [[Oxford]] o di Cambridge alla regata.
+Se ritenete il vostro credo essenziale alla morale, perché non ne fate
+un requisito per queste cose?"
+
+"Un tempo ne facevamo davvero un requisito per queste cose," disse MacIan sorridendo,
+"e allora ci diceste che imponevamo con la forza una [[Faith|fede]] non sostenuta
+dalla ragione. Pare piuttosto duro che, essendoci prima stato detto
+che il nostro credo doveva essere falso perché usavamo requisiti, ci si debba ora
+dire che deve essere falso perché non ne usiamo. Ma noto che
+la maggior parte degli argomenti anticristiani è nello stesso stile incoerente."
+
+"Va tutto benissimo come risposta da circolo di dibattito,"
+replicò Turnbull con buon umore, "ma la questione resta:
+perché non vi limitate maggiormente ai cristiani, se i cristiani
+sono gli unici uomini davvero buoni?"
+
+"Chi ha mai parlato di simile follia?" chiese MacIan con sdegno. "Supponete forse
+che la [[Catholic Church|Chiesa cattolica]] abbia mai sostenuto che i cristiani fossero gli unici
+uomini buoni? Ma i cattolici del cattolico Medioevo parlarono
+delle virtù di tutti i pagani virtuosi finché l'umanità non fu stanca
+dell'argomento. No, se volete davvero sapere che cosa intendiamo quando
+diciamo che il [[Christianity|Cristianesimo]] ha uno speciale potere di virtù, ve lo dirò.
+La Chiesa è l'unica cosa sulla terra che possa perpetuare un tipo
+di virtù e renderlo qualcosa di più di una moda. La cosa è
+così evidente e storica che a stento credo che voi la negherete mai.
+Non potete negare che sia perfettamente possibile che domani mattina,
+in Irlanda o in [[Italy|Italia]], possa comparire un uomo non solo buono,
+ma buono esattamente nello stesso modo di san Francesco d'Assisi. Benissimo,
+ora prendete gli altri tipi di virtù umana; molti di essi splendidi.
+Il gentiluomo inglese dell'epoca di Elisabetta era cavalleresco e idealista.
+Ma potete voi restarvene fermo qui in questo prato ed _essere_ un gentiluomo inglese
+dell'epoca di Elisabetta? L'austero repubblicano del diciottesimo secolo,
+col suo severo patriottismo e la sua vita semplice, era un bravo tipo.
+Ma lo avete mai visto? avete mai visto un austero repubblicano?
+Sono passati solo cent'anni e quel vulcano di [[Truth|verità]] e valore
+rivoluzionari è freddo come le [[Mountains|montagne]] della [[Moon|luna]].
+E così è e così sarà con l'etica che
+ronza per Fleet Street proprio in questo istante mentre parlo.
+Quale frase ispirerebbe l'impiegato o l'operaio di [[London|Londra]] proprio ora?
+Forse che è un figlio dell'Impero Britannico su cui il sole
+non tramonta mai; forse che è un sostegno del suo [[Union|Sindacato]] di mestiere,
+o un proletario con coscienza di classe o qualcosa del genere;
+forse semplicemente che è un gentiluomo quando è evidente che non lo è.
+Quei nomi e quelle nozioni sono tutti onorevoli; ma quanto dureranno?
+Gli imperi crollano; le condizioni industriali cambiano; i sobborghi
+non dureranno per sempre. Che cosa resterà? Ve lo dirò io.
+Resterà il santo cattolico."
+
+"E supponiamo che non mi piaccia?" disse Turnbull.
+
+"Secondo la mia teoria la questione è piuttosto se piacerete voi a lui:
+o più probabilmente se avrà mai sentito parlare di voi.
+Ma vi concedo la ragionevolezza della vostra domanda. Avete il diritto,
+se parlate come l'uomo comune, di chiedere se il santo vi piacerà.
+Ma in quanto uomo comune, egli vi piace. Voi ne andate in visibilio.
+Se vi dispiace non è perché siete un simpatico uomo comune,
+ma perché siete (se mi permettete) un sofisticato saccente
+direttore di Fleet Street. È proprio questa la parte buffa.
+Il genere umano ha sempre ammirato le virtù cattoliche,
+per quanto poco possa praticarle; e stranamente ha ammirato
+soprattutto quelle che il mondo moderno contesta con maggior asprezza.
+Vi lamentate del cattolicesimo per aver eretto un ideale di verginità;
+non fece nulla del genere. Fu l'intero genere umano a erigere un ideale
+di verginità; i greci in Atena, i romani nel [[Fire|Fuoco]] vestale,
+eressero un ideale di verginità. Qual è dunque il vostro vero dissidio
+col cattolicesimo? Il vostro dissidio può soltanto essere, il vostro dissidio in realtà
+soltanto è, che il cattolicesimo ha _realizzato_ un ideale di verginità;
+che non è più un semplice frammento di poesia fluttuante. Ma se voi,
+e pochi uomini febbrili, in cilindro, che corrono per una strada
+di [[London|Londra]], scegliete di dissentire quanto all'ideale stesso, non solo dalla
+Chiesa, ma dal Partenone il cui nome significa verginità,
+dall'Impero Romano che si irradiò dalla fiamma verginale,
+da tutta la leggenda e la tradizione d'Europa, dal [[Lion|leone]]
+che non tocca le vergini, dall'unicorno che le rispetta,
+e che insieme compongono i sostenitori del vostro stesso stemma nazionale,
+dal più vivo e sfrenato dei vostri stessi poeti, da Massinger,
+che scrisse il _Virgin Martyr_, da Shakespeare, che scrisse
+_Misura per misura_--se voi in Fleet Street dissentite da tutta questa
+esperienza umana, non vi sfiora mai il pensiero che potrebbe essere Fleet Street
+ad avere torto?"
+
+"No," rispose Turnbull; "confido di essere sufficientemente equanime
+da vagliare e considerare l'idea; ma dopo averla considerata,
+penso che Fleet Street abbia ragione, sì--anche se il Partenone ha torto.
+Penso che, con l'andare del mondo, si generino nuove atmosfere psicologiche,
+e in queste atmosfere è possibile trovare delicatezze
+e combinazioni che in altri tempi avrebbero dovuto essere rappresentate
+da qualche simbolo più rozzo. Ogni uomo sente il bisogno di qualche elemento di purezza
+nel sesso; forse essi possono raffigurare la purezza solo come assenza di sesso.
+Riderete se suggerisco che possiamo aver creato in Fleet Street
+un'atmosfera in cui un uomo può essere tanto appassionato quanto Sir Lancillotto
+e tanto puro quanto Sir Galahad. Ma, dopo tutto, nel mondo moderno abbiamo
+eretto molte atmosfere di questo genere. Abbiamo, per esempio,
+un nuovo e immaginoso apprezzamento dei bambini."
+
+"Appunto," replicò MacIan con un singolare sorriso. "È stato
+detto molto [[Well|bene]] da uno dei più brillanti dei vostri giovani autori,
+il quale disse: 'Se non diventerete come bambini, non entrerete in alcun
+modo nel regno dei cieli.' Ma avete perfettamente ragione;
+esiste un moderno culto dei bambini. E che cos'è, vi chiedo,
+questo moderno culto dei bambini? Che cos'è, nel nome di tutti
+gli angeli e i diavoli, se non un culto della verginità?
+Perché mai si dovrebbe venerare una cosa solo perché è piccola o immatura?
+No; avete cercato di fuggire da questa cosa, e proprio la cosa
+che indicate come meta della vostra fuga non è che la stessa cosa di nuovo.
+Sbaglio a dire che queste cose paiono essere eterne?"
+
+E fu con queste parole che giunsero in vista delle grandi pianure.
+Procedettero un breve tratto in [[Silence|silenzio]], e poi [[James Turnbull]]
+disse d'un tratto: "Ma io _non posso_ credere in quella cosa."
+MacIan non rispose nulla a quelle parole; forse sono senza risposta.
+E in verità non si scambiarono quasi più una parola per tutto il giorno.
+
 
 
 <span class="atom-split" data-atom="story_08_the_strange_lady--part_01" data-title="ball and cross — The Strange Lady (part 1)" data-chapter="The Strange Lady" data-kind="excerpt" data-tags="motif/cross,motif/horse,motif/lightning,motif/moon,motif/night,motif/road,motif/silence,motif/soul,motif/time,motif/well,motif/wind,concept/solitude"></span>
@@ -12776,6 +14945,131 @@ The chauffeur had risen to defend himself.  By his side sat
 a young lady.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+IX. LA DAMA SCONOSCIUTA
+
+Il sorgere della [[Moon|luna]], con una grande e crescente [[Moon|luna]], si dischiuse su tutte quelle distese,
+facendole sembrare più piatte e più vaste di quanto fossero, mutandole
+in un lago di luce azzurra. I due compagni arrancarono attraverso
+la pianura illuminata dalla luna per mezz'ora in pieno [[Silence|silenzio]]. Poi MacIan
+si fermò all'improvviso e piantò la punta della sua [[Sword|spada]] nel terreno come chi
+pianta il palo della tenda per la [[Night|notte]]. Lasciandola ritta là,
+si strinse il cranio dai capelli neri con i suoi grandi artigli di mani,
+come era sua abitudine quando forzava l'andatura del cervello.
+Poi le mani ricaddero ed egli parlò.
+
+"Sono certo che pensate la stessa cosa che penso io," disse; "per quanto
+dovremo restare su questa maledetta altalena?"
+
+L'altro non rispose, ma il suo [[Silence|silenzio]] pareva in qualche modo solido
+come un assenso; e MacIan proseguì in tono discorsivo. Nessuno dei due notò
+che entrambi si erano istintivamente fermati davanti al segno della fissa
+e ritta [[Sword|spada]].
+
+"È difficile indovinare che cosa intenda Dio in questa faccenda.
+Ma qualcosa intende--o l'altra cosa, o entrambe.
+Ogni volta che abbiamo cercato di batterci l'uno contro l'altro qualcosa ci ha fermati.
+Ogni volta che abbiamo cercato di riconciliarci l'uno con l'altro, qualcosa ci ha
+fermati di nuovo. Per il corso della nostra sorte non abbiamo mai avuto [[Time|tempo]]
+di essere né amici né nemici. Qualcosa saltava sempre fuori
+dai cespugli."
+
+Turnbull annuì gravemente e si guardò intorno, verso l'enorme prato senza siepi
+che digradava verso l'orizzonte in una scintillante [[Road|strada]] maestra.
+
+"Qui, in ogni caso, non salterà nulla fuori dai cespugli," disse.
+
+"È ciò che intendevo," disse MacIan, e fissò con costanza la pesante
+elsa della sua [[Sword|spada]] ritta, che nel lieve [[Wind|vento]] oscillava sul suo
+acciaio temprato come un enorme cardo sul gambo.
+
+"È ciò che intendevo; qui siamo del tutto [[Alone|soli]]. Non ho sentito
+uno zoccolo di [[Horse|cavallo]] né un passo né il fischio di un treno per miglia.
+Perciò penso che potremmo fermarci qui e chiedere un miracolo."
+
+"Oh! potremmo davvero?" disse il direttore ateo con una sorta di gusto per il disgusto.
+
+"Vi chiedo scusa," disse MacIan, con umiltà. "Avevo dimenticato i vostri pregiudizi."
+Adocchiò l'elsa della [[Sword|spada]] mossa dal [[Wind|vento]] in triste meditazione e riprese:
+"Ciò che intendo è che potremmo scoprire, in questo luogo quieto, se davvero
+ci sia un qualche destino o un qualche comandamento contro la nostra impresa.
+Mi impegnerò, da parte mia, come Elia, ad accettare una prova dal cielo.
+Turnbull, sguainiamo le spade qui in questo chiaro di luna e in questa
+mostruosa [[Solitude|solitudine]]. E se qui in questo chiaro di luna e in questa [[Solitude|solitudine]]
+accade qualcosa a interromperci--sia un [[Lightning|fulmine]] che colpisce
+le lame delle nostre [[Sword|spade]] o un coniglio che corre tra le nostre gambe--lo prenderò
+come un segno di Dio e ci stringeremo la mano per sempre."
+
+La bocca di Turnbull ebbe un guizzo in un [[Humour|umore]] irato sotto i baffi rossi.
+Disse: "Aspetterò i segni di Dio finché non avrò un qualche segno
+della Sua esistenza; ma Dio--o il Fato--non voglia che un uomo di cultura
+scientifica rifiuti una qualsiasi sorta di esperimento."
+
+"Molto [[Well|bene]], allora," disse MacIan, secco. "Qui siamo più quieti
+che in qualunque altro luogo; battiamoci." E strappò la punta della sua [[Sword|spada]]
+dalla zolla.
+
+Turnbull lo osservò per un secondo e mezzo con un volto sconcertante,
+quasi nero contro il sorgere della luna; poi la sua mano fece uno scatto
+netto verso l'anca e la sua [[Sword|spada]] brillò nella [[Moon|luna]].
+
+Come i vecchi scacchisti aprono ogni partita con gambetti consacrati, aprirono
+con un affondo e una parata, ortodossi e persino francamente inefficaci.
+Ma nell'[[Soul|anima]] di MacIan si andavano radunando tempeste più informi,
+ed egli sferrò un affondo o due tanto selvaggi da sorprendere dapprima e poi
+da far infuriare il suo avversario. Turnbull digrignò i denti, mantenne la calma,
+e, attendendo il terzo affondo, il peggiore, aveva quasi
+infilzato lo schermidore quando un grido acuto e sottile venne da dietro di lui,
+un grido come non ne emette alcuna delle bestie che periscono.
+
+Turnbull doveva essere più superstizioso di quanto sapesse, perché si fermò
+nell'atto di avanzare. MacIan era spudoratamente superstizioso,
+e lasciò cadere la sua [[Sword|spada]]. Dopotutto, aveva sfidato l'universo
+a mandare un'interruzione; e questa era un'interruzione, qualunque altra cosa
+fosse. Un istante dopo il grido acuto e debole si ripeté.
+Questa [[Time|volta]] fu certo che era umano e che era femminile.
+
+MacIan stava [[rolling|roteando]] quei grandi occhi azzurri gaelici che contrastavano
+con i suoi capelli scuri. "È la voce di Dio," diceva ripetutamente.
+
+"Dio non ha una gran voce," disse Turnbull, che afferrava ogni
+occasione di volgare empietà. "In effetti, MacIan, non è
+la voce di Dio, ma è qualcosa di ben più importante--
+è la voce dell'uomo--o meglio della donna. Perciò credo faremmo meglio
+a filare nella sua direzione."
+
+MacIan raccolse l'arma caduta senza una parola, e i due
+si lanciarono di corsa verso quel tratto della lontana [[Road|strada]] da cui il grido
+si rinnovava ormai di continuo.
+
+Dovettero correre su una curva di terreno che pareva liscia ma era
+molto accidentata; un campo abbandonato che presto trovarono pieno
+delle erbe più alte e delle più profonde tane di conigli. Per di più,
+quella grande curva della campagna che pareva così lenta e dolce
+quando la si guardava, si rivelò assai scoscesa quando la si
+percorse di corsa; e Turnbull fu due volte quasi scaraventato sul viso.
+MacIan, benché assai più pesante, evitò una simile caduta soltanto
+per il possesso dei piedi rapidi e imprevedibili del montanaro;
+ma di entrambi si può dire che balzarono da una bassa rupe quando
+balzarono sulla [[Road|strada]].
+
+Il chiaro di luna posava sulla bianca [[Road|strada]] con un bagliore più nudo ed elettrico
+che sull'altura grigioverde, e sebbene la scena che
+rivelava fosse complicata, non era difficile coglierne i primi
+tratti a colpo d'occhio.
+
+Una piccola ma assai linda automobile nera e gialla stava impassibile,
+un poco a sinistra della [[Road|strada]]. Un'automobile un po' più grande, verde chiaro,
+era rovesciata per metà in un fosso sullo stesso lato,
+e quattro uomini paonazzi e barcollanti in abito da sera ne erano
+sbalzati fuori. Tre di loro se ne stavano attorno alla [[Road|strada]],
+esponendo le loro opinioni alla [[Moon|luna]] con vaga ma echeggiante violenza.
+Il quarto, invece, aveva già avanzato contro l'autista
+dell'automobile nera e gialla, e lo minacciava con un bastone.
+L'autista si era alzato per difendersi. Al suo fianco sedeva
+una giovane dama.
+
 
 
 <span class="atom-split" data-atom="story_08_the_strange_lady--part_02" data-title="ball and cross — The Strange Lady (part 2)" data-chapter="The Strange Lady" data-kind="excerpt" data-tags="motif/cross,motif/hill,motif/moon,motif/road,motif/time,motif/well,concept/body,concept/conscience,concept/self,setting/court"></span>
@@ -12887,6 +15181,114 @@ like a stray cat, and left him swaying unsteadily in the [[Moon|moon]].
 Then he approached the front part of the car in a somewhat embarrassed
 manner and pulled off his cap.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Sedeva rigidamente eretta, una figura snella e irrigidita che stringeva
+i lati del sedile, e le sue prime poche grida erano cessate.
+Era vestita di un abito scuro e aderente, una massa di caldi capelli castani
+si dipartiva in due ali od onde su ciascun lato della fronte;
+e persino a quella distanza si poteva scorgere che il suo profilo era
+di quella sorta aquilina e ardente, come un giovane falco appena libero
+dal nido.
+
+Turnbull celava in sé, chissà dove, una riserva di buon senso
+e di conoscenza del mondo di cui egli stesso e i suoi migliori
+amici erano appena consapevoli. Era uno di quelli che recepiscono molto
+delle apparenze delle cose distrattamente, e in una fantasticheria estranea.
+Mentre stava alla porta della sua bottega di direttore su Ludgate [[Hill]]
+e meditava sull'inesistenza di Dio, assorbiva in silenzio
+una buona dose di svariate cognizioni sull'esistenza degli uomini.
+Era giunto a conoscere i tipi per istinto e i dilemmi con un'occhiata;
+vide il nocciolo della situazione sulla [[Road|strada]], e ciò che vide lo indusse
+a raddoppiare il passo.
+
+Sapeva che gli uomini erano ricchi; sapeva che erano ubriachi; e sapeva,
+cosa peggiore di tutte, che erano in fondo spaventati.
+E sapeva anche questo, che nessun comune malfattore (di quelli che assalgono
+le dame nei romanzi) è mai tanto feroce e spietato quanto una rozza
+sorta di gentiluomo quando è davvero allarmato. La ragione non è
+recondita; è semplicemente perché il [[Court|tribunale]] di polizia non è una novità
+tanto minacciosa per il povero malfattore quanto lo è per il ricco.
+Quando giunsero a portata di voce e udirono le grida, confermarono
+tutte le previsioni di Turnbull. L'uomo in mezzo alla [[Road|strada]]
+gridava con voce roca e impastata che l'autista
+aveva sfasciato la loro macchina apposta; che dovevano arrivare al Cri
+quella sera, e che lui ce li avrebbe [[Well|ben]] dovuti portare.
+L'autista aveva blandamente obiettato che stava trasportando una dama.
+"Oh! ci penseremo noi alla dama," disse il giovanotto dal volto rosso,
+e proruppe in una risata gorgogliante e quasi senile.
+
+Quando i due campioni giunsero, le cose erano fatte più serie.
+L'ebbrezza dell'uomo che parlava con l'autista aveva compiuto uno
+dei suoi balzi perversi e felini nel puro dispetto urlante e nella rabbia.
+Alzò il bastone e colpì l'autista, il quale lo afferrò,
+e l'ubriaco cadde all'indietro, trascinandolo giù dal suo posto sulla macchina.
+Un altro dei teppisti si precipitò avanti schiamazzando in un'idiota eccitazione,
+inciampò sull'autista e, o per caso o di proposito,
+lo prese a calci mentre giaceva. L'ubriaco si rialzò in piedi;
+ma l'autista no.
+
+L'uomo che aveva sferrato il calcio conservava una specie di [[Conscience|coscienza]]
+o di viltà da mezzo scemo, poiché se ne stava fissando il [[Body|corpo]] esanime
+e mormorando parole di incoerente [[Self|auto]]-giustificazione,
+facendo gesti con le mani come se stesse discutendo con qualcuno.
+Ma gli altri tre, con un semplice grido e ululato di vittoria,
+stavano assalendo la macchina da tre lati insieme. Fu esattamente in questo
+momento che Turnbull piombò tra loro come uno caduto dal cielo.
+Strappò all'indietro per il colletto uno degli arrampicatori e, con una vigorosa
+spinta, lo mandò a barcollare a testa in giù nel fosso sul naso.
+Uno dei due rimasti, che era troppo andato per accorgersi di nulla,
+continuava ad arrampicarsi senza costrutto sull'alto schienale della macchina,
+sferrando calci e riversando un rivolo di soliloquio. Ma l'altro si staccò
+all'interruzione, si volse contro Turnbull e diede inizio a un'incalzante tenzone
+di pugni. Nello stesso istante l'uomo strisciò fuori dal fosso
+in una mascherata di fango e si precipitò contro il suo vecchio nemico alle spalle.
+Il tutto non aveva richiesto un secondo; e un istante dopo MacIan era
+in mezzo a loro.
+
+Turnbull aveva gettato via la sua [[Sword|spada]] inguainata, preferendo di gran lunga
+le mani, salvo nella dichiarata etichetta del duello; poiché aveva
+imparato a usare le mani nelle vecchie battaglie di strada di Bradlaugh.
+Ma per MacIan la [[Sword|spada]], anche inguainata, era un'arma più naturale,
+ed egli menava colpi da ogni lato con essa come con un bastone.
+L'uomo che aveva il bastone da passeggio si vide parare i colpi
+con prontezza; e un attimo dopo, con suo grande stupore,
+si vide volare in aria il proprio bastone come per un trucco di prestigio,
+con un giro di polso dello schermidore. Un altro dei gaudenti
+raccolse il bastone dal fosso e si avventò su MacIan,
+chiamando il suo compagno perché lo aiutasse.
+
+"Non ho un bastone," brontolò l'uomo disarmato, e si guardò
+vagamente attorno nel fosso.
+
+"Forse," disse MacIan, cortesemente, "vi piacerebbe questo."
+E con la parola l'ubriaco si trovò la mano che aveva afferrato
+il bastone d'un tratto torta e vuota; e il bastone giaceva
+ai piedi del suo compagno dall'altro lato della [[Road|strada]].
+MacIan sentì un lieve movimento dietro di sé; la ragazza si era alzata in piedi
+e si sporgeva in avanti a fissare i combattenti. Turnbull era ancora
+impegnato a parare e a tempestare di pugni il terzo giovanotto.
+Il quarto giovanotto era ancora impegnato con se stesso, agitando le
+gambe in un'inutile rotazione sullo schienale della macchina e parlando
+con melodiosa razionalità.
+
+Alla fine l'avversario di Turnbull cominciò ad arretrare davanti alla gragnuola
+delle sue pesanti mani, pur continuando a battersi, poiché era il più sobrio
+e il più ardito dei quattro. Se queste sono cronache di gloria militare,
+gli si deve dare atto che non era tenuto ad abbandonare il conflitto;
+solo che, mentre arretrava verso il ciglio del fosso, il piede gli si impigliò
+in un cappio d'erba ed egli finì disteso in una posizione piatta e comoda
+dalla quale gli occorse un considerevole [[Time|tempo]] per rialzarsi.
+Quando si fu rialzato, Turnbull era venuto in soccorso di MacIan,
+che era alle strette ma bastonava egregiamente i suoi due nemici.
+La vista della riserva liberata fu per loro come quella di Blücher
+a Waterloo; i due se ne andarono al piccolo trotto imbronciato giù per la [[Road|strada]],
+lasciandosi dietro persino il bastone da passeggio nel chiaro di luna.
+MacIan staccò l'idiota che si dibatteva e si arrampicava dallo schienale della macchina
+come un gatto randagio, e lo lasciò a oscillare malfermo nella [[Moon|luna]].
+Poi si avvicinò alla parte anteriore della macchina in maniera alquanto
+imbarazzata e si tolse il berretto.
 
 
 
@@ -13011,6 +15413,126 @@ the brisk breeze of their passage stirred and fluttered a little
 not only the brown hair of her head but the black fur on her cap.
 All these facts were to him certain and incredible, like sacraments.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Per parecchi secondi interi la dama ed egli si guardarono soltanto l'un l'altra, e
+MacIan ebbe l'irrazionale sensazione di trovarsi in un quadro appeso a una parete.
+Vale a dire che era immobile, persino esanime, eppure fissamente significativo,
+come un quadro. Il bianco chiaro di luna sulla [[Road|strada]], quando non lo
+guardava, gli dava la visione della [[Road|strada]] bianca di [[Snow|neve]].
+L'automobile, quando non la guardava, gli dava una rozza
+impressione di una carrozza catturata nei vecchi tempi dei briganti da strada.
+Ed egli, la cui intera [[Soul|anima]] era con le spade e i modi solenni
+del diciottesimo secolo, egli che era un giacobita risorto dai morti,
+ebbe un travolgente senso di trovarsi ancora una volta nel quadro,
+dopo esserne stato così a lungo fuori.
+
+In quel breve e intenso [[Silence|silenzio]] egli assorbì la dama dalla testa ai piedi.
+Non aveva mai davvero guardato un essere umano prima d'allora in vita sua.
+Vide dapprima il viso e i capelli di lei, poi che aveva lunghi guanti di camoscio;
+poi che c'era un berretto di pelliccia dietro i suoi capelli castani.
+Poteva forse essere scusato per questa affamata attenzione.
+Aveva pregato che un qualche segno venisse dal cielo; e dopo uno
+scrutinio quasi feroce giunse alla conclusione che il suo era venuto.
+L'istantaneo arresto di parola della dama poteva richiedere maggior spiegazione;
+ma poteva [[Well|ben]] essere rimasta stordita dallo squallido assalto e
+dall'improvviso soccorso. Eppure fu lei a riprendersi per prima
+e a esclamare d'un tratto con orrore [[Self|auto]]-accusatore:
+
+"Oh, quel povero, povero uomo!"
+
+Entrambi si voltarono di scatto e videro che Turnbull, con la sua
+[[Sword|spada]] ritrovata sotto l'ascella, stava già sollevando l'autista caduto
+dentro la macchina. Era soltanto stordito e si stava lentamente ridestando,
+agitando debolmente il braccio sinistro.
+
+La dama dai lunghi guanti e dal berretto di pelliccia balzò fuori e corse rapida
+verso di loro, solo per essere rassicurata da Turnbull, il quale (a differenza di molti
+della sua scuola) conosceva davvero un poco di scienza quando la invocava
+per redimere il mondo. "Sta bene," disse; "è del tutto al sicuro.
+Ma temo che non sarà in grado di guidare la macchina per una mezz'
+oretta."
+
+"Posso guidare io la macchina," disse la giovane donna dal berretto di pelliccia
+con impassibile senso pratico.
+
+"Oh, in tal caso," cominciò MacIan, a disagio; e quella paralizzante timidezza
+che è parte del [[Romance|Romanticismo]] lo indusse a fare un movimento all'indietro
+come se la lasciasse a se stessa. Ma Turnbull era più razionale di lui,
+essendo più indifferente.
+
+"Non credo che dovreste guidare fino a [[Home|casa]] [[Alone|da sola]], signora," disse, burbero.
+"Sembra esserci un mucchio di comitive turbolente lungo questa [[Road|strada]], e l'uomo
+non servirà a nulla per un'ora. Se ci direte dove siete diretta,
+vi accompagneremo fin là sani e salvi e vi diremo buona [[Night|notte]]."
+
+La giovane dama manifestò tutto l'improvviso turbamento di una persona
+che di solito non si turba. Disse quasi seccamente eppure
+con evidente sincerità: "Naturalmente vi sono tremendamente grata
+per tutto quello che avete fatto--e c'è posto in abbondanza, se volete salire."
+
+Turnbull, con la completa [[innocence|innocenza]] di un movente assolutamente sano,
+saltò immediatamente nella macchina; ma la ragazza gettò un'occhiata a MacIan,
+che rimase sulla [[Road|strada]] per un istante come radicato a un albero.
+Poi anche lui infilò le sue lunghe gambe nel tonneau, avendo quel
+senso di tuffarsi in modo abietto nel paradiso che tanti hanno provato
+in tante case umane quando hanno acconsentito a fermarsi per il tè o sono stati
+invitati a fermarsi per la cena. L'autista che lentamente rinveniva fu sistemato
+sul sedile posteriore; Turnbull e MacIan erano piombati in quello di mezzo;
+la dama con acciaiata freddezza aveva preso il posto di guida
+e tutte le leve di quella impetuosa [[Machine|macchina]]. Un momento dopo
+il motore si avviò, con un fremito e uno scatto ignoti a Turnbull,
+che era salito su un'automobile una sola volta durante certe elezioni generali,
+e del tutto sconosciuti a MacIan, il quale nel suo stato d'animo presente pensò
+fosse la fine del mondo. Quasi nello stesso istante in cui la macchina
+si strappò fuori dal fango e sfrecciò via su per la [[Road|strada]], l'uomo
+che era stato scaraventato nel fosso [[Rose|si alzò]] barcollando in piedi.
+Quando vide la macchina che fuggiva le corse dietro e gridò qualcosa
+che, a causa della distanza crescente, non poté essere udito.
+È tremendo pensare che, se la sua osservazione era preziosa, essa è del tutto
+perduta per il mondo.
+
+La macchina proseguì di slancio su e giù per i vicoli splendenti al chiaro di luna,
+e non vi era suono in essa se non l'occasionale scatto o ingranaggio
+del suo meccanismo; poiché, per una causa o per l'altra, nessun'[[Soul|anima]] al suo interno
+riusciva a pensare una parola da dire. La dama simboleggiò i suoi sentimenti,
+quali che fossero, spingendo la [[Machine|macchina]] sempre più veloce finché
+sparsi boschetti sfilavano accanto a loro in un'unica macchia nera e pesanti colline
+e valli parevano ondeggiare sotto le ruote come mere onde.
+Un po' più tardi questo umore parve allentarsi ed ella
+si mise a un'andatura più ordinaria; ma ancora non parlava.
+Turnbull, che manteneva della faccenda una visione più comune e assennata di
+chiunque altro, fece qualche osservazione sul chiaro di luna; ma qualcosa
+di indescrivibile lo fece anch'egli ricadere nel [[Silence|silenzio]].
+
+Per tutto questo [[Time|tempo]] MacIan era stato in una sorta di mostruoso delirio,
+come un favoloso [[Hero|eroe]] rapito su nella [[Moon|luna]].
+La differenza tra questa esperienza e le esperienze comuni
+era analoga a quella tra la vita da svegli e [[A Dream|un sogno]].
+Eppure non si sentiva minimamente come se stesse sognando;
+anzi, al contrario; come lo stato di veglia era più reale del sogno,
+così questo pareva di un altro grado più reale della veglia stessa.
+Ma era tutt'altra vita, come un cosmo con una nuova dimensione.
+
+Sentiva di essere stato scagliato in qualche nuova incarnazione:
+in mezzo a nuove relazioni, torti e diritti, con torreggianti
+responsabilità e gioie quasi tragiche che non aveva ancora avuto
+[[Time|tempo]] di esaminare. Il cielo non gli aveva semplicemente mandato un messaggio;
+il cielo stesso si era aperto attorno a lui e gli aveva dato un'ora della
+sua antica energia frantumatrice di stelle. Non si era mai sentito
+così vivo prima d'allora; eppure era come un uomo in trance.
+E se gli aveste chiesto a che cosa fosse appesa la sua palpitante felicità,
+avrebbe potuto dirvi soltanto che era appesa a quattro o cinque
+fatti visibili, come una tenda pende da quattro o cinque chiodi fissi.
+Il fatto che la dama avesse un po' di pelliccia alla gola; il fatto che
+la curva della sua guancia fosse una curva bassa e sottile e che il chiaro di luna
+cogliesse l'altezza del suo zigomo; il fatto che le sue mani
+fossero piccole ma pesantemente inguantate mentre stringevano il [[Wheel|volante]];
+il fatto che una bianca luce da [[Witch|strega]] fosse sulla [[Road|strada]]; il fatto che
+la vivace brezza del loro passaggio agitasse e facesse svolazzare un poco
+non solo i capelli castani del suo capo ma la nera pelliccia sul suo berretto.
+Tutti questi fatti erano per lui certi e incredibili, come sacramenti.
 
 
 
@@ -13141,6 +15663,132 @@ again and found it smaller than ever.
 or anything else, I think."  And she sighed again.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Quando ebbero percorso ancora mezzo miglio, una grande [[Shadow|ombra]] fu
+proiettata attraverso il sentiero, seguita dal suo corpulento padrone,
+che squadrò l'automobile con occhio critico ma la lasciò passare.
+Il chiaro di luna d'argento fece risaltare un pezzo o due di ornamento
+di peltro sulla sua uniforme blu; e mentre gli passavano accanto
+capirono che era un sergente di polizia.  Trecento metri più avanti
+un altro poliziotto fece un passo sulla [[Road|strada]] come per fermarli,
+poi parve [[Doubt|dubitare]] della propria autorità e si tirò di nuovo indietro.
+La ragazza era figlia dei ricchi; e questo sospetto della polizia
+(sotto il quale tutti i poveri vivono giorno e [[Night|notte]]) la punse per la prima
+[[Time|volta]] fino a farla parlare.
+
+"Che cosa vorranno mai?" esclamò con una specie di stizza;
+"quest'automobile va come una lumaca."
+
+Ci fu un breve [[Silence|silenzio]], e poi Turnbull disse:  "È certamente
+molto strano, lei sta guidando con abbastanza calma."
+
+"Lei guida nobilmente," disse MacIan, e le sue parole (che non avevano
+alcun significato) suonarono roche e goffe perfino alle sue stesse orecchie.
+
+Percorsero il miglio e mezzo successivo rapidamente e senza scosse;
+eppure tra le molte cose che oltrepassarono nel corso di esso
+vi era un capannello di poliziotti ansiosi fermi a un [[Cross|crocevia]] della [[Road|strada]].  Mentre
+passavano, uno dei poliziotti gridò qualcosa agli altri;
+ma non accadde nient'altro.  Ottocento metri più avanti,
+Turnbull si alzò all'improvviso nell'automobile ondeggiante.
+
+"Mio Dio, MacIan!" gridò, mostrando la sua prima emozione di quella [[Night|notte]].
+"Non credo che sia l'andatura; non può essere l'andatura.
+Credo che siamo noi."
+
+MacIan rimase immobile per qualche istante e poi rivolse verso il suo
+compagno un volto bianco come la [[Moon|luna]] che lo sovrastava.
+
+"Forse hai ragione," disse infine; "se è così, devo dirglielo."
+
+"Lo dirò io alla signora, se vuoi," disse Turnbull, con la sua
+imperturbabile buona indole.
+
+"Tu!" disse MacIan, con una sorta di sincero e istintivo stupore.
+"Perché dovresti tu... no, devo dirglielo io, naturalmente..."
+
+E si sporse in avanti e parlò alla signora dal berretto di pelliccia.
+
+"Temo, signora, che possiamo averla cacciata in qualche guaio,"
+disse, e già nel dirlo suonò sbagliato, come tutto ciò che diceva
+a questa particolare persona dai lunghi guanti.  "Il fatto è," riprese,
+disperatamente, "il fatto è che siamo inseguiti dalla polizia."
+Poi l'ultimo martello schiacciante calò sull'imbarazzo del povero Evan;
+poiché la vaporosa testa bruna con il peloso berretto nero non girò
+di una sola tacca della bussola.
+
+"Siamo inseguiti dalla polizia," ripeté MacIan, con vigore; poi aggiunse,
+come iniziando una spiegazione, "Vede, io sono cattolico."
+
+Il [[Wind|vento]] scostò all'indietro un ricciolo dei capelli bruni così da rendere necessaria
+una nuova teoria dell'estetica riguardo alla linea dello zigomo;
+ma la testa non girò.
+
+"Vede," cominciò MacIan, di nuovo maldestramente, "questo signore ha scritto
+nel suo giornale che la Nostra Signora era una donna comune, una donna cattiva,
+e così ci siamo accordati per batterci; e ci stavamo battendo appena poco [[Time|fa]]...
+ma questo prima di aver visto lei."
+
+La giovane signora che guidava l'automobile aveva mezzo voltato il viso per ascoltare;
+e non era un viso riverente né paziente quello che gli mostrò.
+Il suo naso normanno era inclinato un po' troppo in alto sullo stelo sottile
+del suo collo e del suo [[Body|corpo]].
+
+Quando MacIan vide quel profilo arrogante e sollevato disegnato
+nettamente contro il chiaro di luna, accettò una sconfitta definitiva.
+Si era aspettato che gli angeli lo disprezzassero se avesse avuto torto,
+ma non che lo disprezzassero fino a questo punto.
+
+"Vede," disse l'incespicante oratore, "ero in collera con lui quando
+ha insultato la Madre di Dio, e gli ho chiesto di battersi a duello con me;
+ma la polizia sta facendo di tutto per impedirlo."
+
+Nulla parve vacillare o tremolare nel giovane e biondo profilo di falco;
+ed esso non schiuse le labbra che per dire, dopo un [[Silence|silenzio]]:  "Credevo
+che ai nostri [[Time|tempi]] si dovesse rispettare la religione altrui."
+
+Sotto l'[[Shadow|ombra]] di quel volto arrogante MacIan poté solo ripiegare
+sulla risposta ovvia:  "Ma che ne è dell'irreligione di un uomo?"
+Il volto rispose soltanto:  "[[Well|Beh]], dovrebbe essere più di larghe vedute."
+
+Se chiunque altro al mondo avesse pronunciato quelle parole, MacIan avrebbe
+sbuffato col suo equino nitrito di scherno.  Ma in questo caso
+parve atterrato da una superiore semplicità, come se la sua
+attitudine eccentrica fosse rimproverata dall'[[innocence|innocenza]] di un [[Child|bambino]].
+Non riusciva a dissociare nulla di ciò che questa donna diceva o faceva o indossava
+da un'idea di rarità e virtù spirituale.  Come la maggior parte di coloro che sono in preda
+alla medesima elementare passione, la sua [[Soul|anima]] era al momento intrisa di etica.
+Avrebbe potuto applicare termini morali agli oggetti materiali del
+suo ambiente.  Se qualcuno avesse parlato del "suo generoso nastro"
+o dei "suoi cavallereschi guanti" o della "sua misericordiosa fibbia della scarpa,"
+non gli sarebbe parso un'assurdità.
+
+Egli tacque, e la ragazza proseguì in tono più basso, come se fosse
+per un momento addolcita e anche un poco rattristata.  "Non va bene,
+sa," disse; "non si può scoprire la [[Truth|verità]] in quel modo.
+Ci sono tali mucchi di chiese e di gente che oggigiorno la pensa in modo
+diverso, e tutti credono di aver ragione.  Mio zio
+era swedenborghiano."
+
+MacIan sedeva a capo chino, ascoltando avidamente la sua voce ma a malapena
+le sue parole, e vedendo il suo grande dramma cosmico farsi sempre più piccolo
+davanti agli occhi finché non fu più grande del teatrino di giocattolo di un [[Child|bambino]].
+
+"Il [[Time|tempo]] per tutto questo è passato," proseguì; "non si può scoprire
+la cosa vera in quel modo... ammesso che vi sia davvero qualcosa da scoprire..."
+e sospirò piuttosto tristemente; perché, come molte delle donne della nostra
+classe agiata, era vecchia e spezzata nel pensiero, benché giovane
+e abbastanza pura nelle sue emozioni.
+
+"Il nostro scopo," disse Turnbull, seccamente, "è fare una
+dimostrazione efficace"; e dopo quella parola, MacIan guardò di nuovo la sua
+visione e la trovò più piccola che mai.
+
+"Finirebbe sui giornali, naturalmente," disse la ragazza.
+"La gente legge i giornali, ma non ci crede,
+né a essi né ad altro, credo."  E sospirò di nuovo.
+
 
 
 <span class="atom-split" data-atom="story_08_the_strange_lady--part_05" data-title="ball and cross — The Strange Lady (part 5)" data-chapter="The Strange Lady" data-kind="excerpt" data-tags="motif/blood,motif/cross,motif/dust,motif/fire,motif/flag,motif/hill,motif/machine,motif/moon,motif/nature,motif/night,motif/road,motif/secrets,motif/silence,motif/sleep,motif/well,motif/window,concept/courage,concept/grotesque,concept/nature,setting/london,character/evan_macian,character/james_turnbull,character/phantom,character/speed,character/witch"></span>
@@ -13256,6 +15904,119 @@ great [[Hill|hill]]; and above them and black against the broadening light,
 there stood one of those crouching and fantastic trees that are
 first signals of the sea.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Guidò in [[Silence|silenzio]] per un terzo di miglio prima di aggiungere, come
+completando la frase:  "Comunque, tutta la faccenda è del tutto assurda."
+
+"Non credo," cominciò Turnbull, "che lei si renda proprio conto...
+Ehilà! ehilà... ehilà... cos'è questo?"
+
+L'autista dilettante era stato costretta a portare l'automobile a un
+arresto barcollante, poiché una fila di grassi poliziotti blu faceva muro
+attraverso la via.  Un sergente si avvicinò al fianco e si toccò il berretto con
+visiera in segno di saluto alla signora.
+
+"Chiedo scusa, signorina," disse con un certo imbarazzo,
+poiché la conosceva come figlia di una [[house|casata]] dominante, "ma
+abbiamo motivo di credere che i signori nella sua automobile siano..."
+ed esitò in cerca di una frase cortese.
+
+"Io sono [[Evan MacIan]]," disse quel signore, e si alzò in una sorta di
+cupa pompa, non del tutto priva di un pizzico del broncio di uno scolaretto.
+
+"Sì, scenderemo, sergente," disse Turnbull, con maggiore disinvoltura;
+"il mio nome è [[James Turnbull]].  Non dobbiamo incomodare la signora."
+
+"Perché li state arrestando?" chiese la giovane donna,
+guardando dritto davanti a sé lungo la [[Road|strada]].
+
+"È in base alla nuova legge," disse il sergente, quasi scusandosi.
+"Incorreggibili turbatori della quiete pubblica."
+
+"Che ne sarà di loro?" chiese, con la stessa gelida chiarezza.
+
+"Riformatorio per adulti di Westgate," rispose, brevemente.
+
+"Fino a quando?"
+
+"Finché non saranno guariti," disse il funzionario.
+
+"Molto [[Well|bene]], sergente," disse la giovane signora, con una sorta di stanco
+buon senso.  "Sono certa di non voler proteggere criminali
+né di andare contro la legge; ma devo dirle che questi signori
+mi hanno reso un servizio considerevole; non le dispiacerà far ritirare
+i suoi uomini un po' più in là mentre do loro la buona [[Night|notte]].
+Uomini così fraintendono sempre."
+
+Il sergente era profondamente turbato fin dal principio alla
+sola idea di arrestare qualcuno in compagnia di una gran dama;
+rifiutare una delle sue minori richieste era del tutto al di là del suo [[Courage|coraggio]].
+La polizia si ritrasse a pochi metri dietro l'automobile.  Turnbull raccolse
+le due spade che erano il loro unico bagaglio; le spade che,
+dopo tanti mezzi duelli, ora dovevano finalmente consegnare.
+MacIan, il [[Blood|sangue]] che gli rombava nel cervello al pensiero di quell'
+istante d'addio, si chinò, armeggiò con la maniglia e spalancò
+la portiera per uscire.
+
+Ma non uscì.  Non uscì, perché è
+pericoloso saltare fuori da un'automobile quando va a piena [[Speed|velocità]].
+E l'automobile andava a piena [[Speed|velocità]], perché la giovane signora,
+senza voltare la testa né pronunciare una sola sillaba,
+aveva abbassato una leva che fece balzare in avanti la [[Machine|macchina]]
+come un bufalo per poi volare sul paesaggio come un levriero.
+La polizia fece un solo scatto per seguire, e poi lasciò cadere un inseguimento
+tanto [[Grotesque|grottesco]] e disperato.  Lontano, nella distanza che svaniva, poterono
+vedere il sergente che prendeva furiosamente appunti.
+
+La portiera aperta, ancora abbandonata sui suoi cardini, oscillava e sbatteva
+del tutto follemente mentre sfrecciavano su per una [[Road|strada]] e giù per un'altra.
+Né MacIan si sedette; rimase in piedi stordito eppure fisso a guardare,
+come si sarebbe alzato al suono della tromba dell'Ultimo Giorno.
+Un punto nero in lontananza si drizzò in un'alta foresta nera,
+li inghiottì e li risputò all'altra estremità.
+Un ponte ferroviario si fece sempre più grande finché non balzò sulle
+loro spalle mugghiando, e fu a sua volta lasciato indietro.
+Filari di pioppi su entrambi i lati della [[Road|strada]] si rincorrevano come
+le figure di uno zootropio.  Di tanto in tanto con uno scossone e un fragore
+attraversavano villaggi addormentati e illuminati dalla luna, che devono aver trasalito
+un istante nel loro [[Sleep|sonno]] come al passaggio di un terremoto fuggitivo.
+Talvolta in una [[house|casa]] isolata una luce a una qualche capricciosa,
+inattesa [[Window|finestra]] dava loro un cenno senza nome dei cento
+[[Secrets|segreti]] umani che si lasciavano dietro con la loro [[Dust|polvere]].
+Talvolta perfino un villico dall'andatura strascicata era in piedi sulla [[Road|strada]]
+e li seguiva con lo sguardo, come dietro un [[Phantom|fantasma]] in volo.  Ma ancora
+MacIan restava in piedi a fissare la terra e il cielo; e ancora la portiera
+che aveva spalancato sbatteva libera come una [[Flag|bandiera]].  Turnbull, dopo pochi
+minuti di muto stupore, aveva ceduto all'elemento più sano
+della sua [[Nature|natura]] e si era abbandonato a incontrollabili accessi di risa.
+La ragazza non si era mossa di un pollice.
+
+Dopo un altro mezzo miglio che parve un semplice lampo, Turnbull si sporse
+e chiuse a chiave la portiera.  Evan barcollò finalmente fino al suo
+posto e nascose la testa pulsante tra le mani; e ancora
+l'automobile volava e la sua guidatrice sedeva inflessibile e silenziosa.
+La [[Moon|luna]] era già tramontata, e l'intera oscurità era debolmente
+turbata dal crepuscolo e dai primi movimenti di bestie e di uccelli.
+Era quel misterioso momento in cui la luce sta arrivando come se
+fosse qualcosa di ignoto la cui [[Nature|natura]] non si potrebbe indovinare...
+una mera alterazione di ogni cosa.  Guardarono il cielo
+e sembrava buio come sempre; poi videro la sagoma nera
+di una torre o di un albero contro di esso e capirono che era già grigio.
+Salvo che stavano guidando verso sud e avevano certamente oltrepassato
+la longitudine di [[London|Londra]], non sapevano nulla della loro direzione;
+ma Turnbull, che aveva trascorso un anno sulla costa dell'Hampshire nella sua giovinezza,
+cominciò a riconoscere gli inconfondibili ma del tutto indescrivibili
+villaggi del sud dell'Inghilterra.  Poi un bianco [[Fire|fuoco]] da [[Witch|strega]] cominciò
+ad ardere tra i neri fusti degli abeti; e, come tante
+cose in [[Nature|natura]], anche se non nei libri sull'evoluzione, l'alba,
+quando venne, venne molto più in fretta di quanto si penserebbe.
+I cupi cieli furono squarciati e arrotolati via come un rotolo di pergamena,
+rivelando splendori, mentre l'automobile saliva ruggendo la curva di una
+grande [[Hill|collina]]; e sopra di loro e nero contro la luce che si allargava,
+si ergeva uno di quegli alberi accovacciati e fantastici che sono
+i primi segnali del mare.
 
 
 
@@ -13385,6 +16146,130 @@ Evan put his hand to his forehead and began stumblingly:
 she replied, with inhuman honesty.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+X. LE SPADE RIUNITE
+
+Mentre valicavano la [[Hill|collina]] e scendevano dall'altro versante,
+non è troppo dire che l'intero universo di Dio si aprì sopra di
+loro e sotto di loro, come una cosa che si dispiega fino a cinque volte la sua misura.
+Quasi sotto i loro piedi si spalancava l'enorme mare, in [[Bottom|fondo]] a una
+ripida valle che precipitava in una baia; e il mare sotto i loro piedi
+fiammeggiava verso di loro quasi lucente e quasi vuoto come il cielo.
+L'alba si aprì sopra di loro come una qualche esplosione cosmica,
+splendente e frantumante eppure silenziosa; come se il mondo fosse stato fatto
+a pezzi senza un suono.  Attorno ai raggi del vittorioso
+sole si stendeva una sorta di arcobaleno di colori confusi e vinti...
+bruno e azzurro e verde e fiammeggiante color di [[Rose|rosa]]; come se
+l'oro sospingesse davanti a sé tutti i colori del mondo.
+Le linee del paesaggio giù per il quale sfrecciavano erano le semplici,
+severe, eppure sinuose, linee di un [[River|fiume]] impetuoso; sicché era quasi
+come se venissero risucchiati in un enorme e immobile vortice.
+Turnbull ebbe una sensazione del genere, perché parlò per la prima [[Time|volta]]
+dopo molte ore.
+
+"Se scendiamo a questa velocità finiremo oltre la scogliera sul mare," disse.
+
+"Che meraviglia!" disse MacIan.
+
+Quando, tuttavia, furono giunti nell'ampio avvallamento in [[Bottom|fondo]]
+a quella frana, l'automobile descrisse una curva calma e aggraziata lungo
+il fianco del mare, si fuse nella frangia di pochi alberi,
+e con quiete, eppure con stupore, si fermò.  Una luce attardata stava
+ardendo nella vasta luce del mattino alla [[Window|finestra]] di una specie di casetta
+del guardiano o del custode del cancello; e la ragazza si alzò nell'automobile e volse
+il suo splendido viso al sole.
+
+Evan parve trasalire per l'immobilità, come chi fosse nato
+tra suono e [[Speed|velocità]].  Vacillò sulle lunghe gambe mentre si alzava;
+si ricompose, e l'unica conseguenza fu che
+tremava da capo a piedi.  Turnbull aveva già aperto la portiera
+dal suo lato ed era saltato fuori.
+
+Nell'istante in cui l'ebbe fatto la strana giovane donna ebbe un ultimo
+folle movimento, e deliberatamente spinse l'automobile qualche metro più avanti.
+Poi ne uscì con una freddezza quasi crudele e cominciò a sfilarsi
+i lunghi guanti quasi fischiettando.
+
+"Potete lasciarmi qui," disse, con tutta noncuranza, come se si fossero
+incontrati cinque minuti prima.  "Quella è la casetta della tenuta di mio padre.
+Entrate pure, se volete... ma ho capito che avevate certi affari."
+
+Evan guardò quel viso sollevato e lo trovò semplicemente incantevole;
+era di gran lunga troppo [[Fool|sciocco]] per vedere che esso era travagliato
+da un'ultima stanchezza e che la sua austerità era agonia.
+Fu perfino tanto [[Fool|sciocco]] da porgli una domanda.  "Perché ci hai salvati?"
+disse, del tutto umilmente.
+
+La ragazza si strappò via uno dei guanti, come se si strappasse via la mano.
+"Oh, non lo so," disse, amaramente.  "Ora che ci penso,
+non riesco a immaginarlo."
+
+I pensieri di Evan, che si erano ammucchiati fino alla stella del mattino, di colpo lo
+lasciarono precipitare con uno schianto fino nelle cantine stesse dell'universo emotivo.
+Rimase in uno stordito [[Silence|silenzio]] per lungo [[Time|tempo]]; e quella,
+se solo l'avesse saputo, era la cosa più saggia che potesse mai
+fare in quel momento.
+
+In verità, il [[Silence|silenzio]] e l'alba ebbero il loro effetto risanatore,
+poiché quando la straordinaria signora parlò di nuovo, il suo tono era più
+amichevole e come di scusa.  "Non sono davvero ingrata," disse;
+"è stato molto gentile da parte vostra salvarmi da quegli uomini."
+
+"Ma perché?" ripeté l'ostinato e stordito MacIan, "perché ci hai
+salvati dagli altri uomini?  Intendo dai poliziotti?"
+
+I grandi occhi bruni della ragazza si accesero di un lampo che era
+a un tempo disperazione ultima e l'allentarsi di una qualche privata
+e appassionata riserva.
+
+"Oh, Dio lo sa!" esclamò.  "Dio sa che se esiste
+un Dio Egli ha voltato la sua grande schiena a ogni cosa.  Dio sa che non ho
+avuto alcun piacere nella mia vita, benché io sia graziosa e giovane
+e mio padre abbia denaro in abbondanza.  E poi la gente viene a dirmi
+che dovrei fare delle cose e io le faccio ed è tutta stupidaggine.
+Vogliono che tu faccia opere tra i poveri; il che significa leggere Ruskin
+e sentirsi [[Self|farisaicamente virtuosi]] nella stanza migliore di un misero casamento.
+Oppure aiutare una qualche causa, il che significa sempre sloggiare la gente
+da case storte, in cui hanno sempre vissuto, per metterla in case dritte,
+in cui spesso muore.  E per tutto il [[Time|tempo]] hai dentro
+soltanto l'orrida ironia della tua stessa testa vuota e del tuo cuore vuoto.
+Devo dare agli sventurati, quando la mia intera sventura è che non
+ho nulla da dare.  Devo insegnare, quando non credo affatto a
+niente di ciò che mi è stato insegnato.  Devo salvare i bambini dalla [[Death|morte]],
+e non sono nemmeno certa che non starei meglio morta.
+Suppongo che se vedessi davvero un [[Child|bambino]] annegare lo salverei.
+Ma sarebbe per lo stesso motivo per cui ho salvato voi,
+o vi ho distrutti, qualunque delle due cose io abbia fatto."
+
+"Qual era il motivo?" chiese Evan, a bassa voce.
+
+"Il mio motivo è troppo grande per la mia mente," rispose la ragazza.
+
+Poi, dopo una pausa, mentre fissava con un colorito che le saliva
+il mare scintillante, disse:  "Non si può descrivere,
+eppure sto cercando di descriverlo.  Mi sembra non solo
+che io sia infelice, ma che non ci sia modo di essere felici.
+Mio padre non è felice, benché sia membro del Parlamento..." Si fermò
+un istante e aggiunse con un [[Ghost|fantasma]] di sorriso:  "Né zia Mabel,
+benché un uomo venuto dall'India le abbia rivelato il segreto di tutti i credi.
+Ma potrei sbagliarmi; potrebbe esserci una via d'uscita.  E per un solo netto,
+folle secondo, ho sentito che, dopo tutto, voi avevate trovato la via d'uscita e
+che era per questo che il mondo vi odiava.  Vedete, se ci fosse una via d'uscita,
+sarebbe di sicuro qualcosa dall'aspetto molto bizzarro."
+
+Evan si portò la mano alla fronte e cominciò incespicando:
+"Sì, suppongo che noi sembriamo proprio..."
+
+"Oh, sì, avete un aspetto abbastanza bizzarro," disse, con squillante sincerità.
+"Vi farà un gran bene una lavata e una ripulita."
+
+"Dimenticate i nostri affari, signora," disse Evan, con voce tremante;
+"non abbiamo altra faccenda che ucciderci a vicenda."
+
+"[[Well|Beh]], al posto vostro non mi farei uccidere conciata così,"
+replicò, con inumana franchezza.
+
 
 
 <span class="atom-split" data-atom="story_09_the_swords_rejoined--part_02" data-title="ball and cross — The Swords Rejoined (part 2)" data-chapter="The Swords Rejoined" data-kind="excerpt" data-tags="archetype/innocent,motif/animals,motif/birds,motif/blood,motif/cross,motif/journey,motif/night,motif/pain,motif/road,motif/rose,motif/silence,motif/sleep,motif/time,motif/well,concept/doubt,concept/faith,concept/honour,concept/hope,character/proteus"></span>
@@ -13513,6 +16398,130 @@ that _Natura Naturans_, which is the whole theme of Lucretius.
 It was down this clamorous ladder of life that they went down to die.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Evan restò in piedi e roteò gli occhi in uno smarrimento virile.
+Poi venne il mutamento finale in questo [[Proteus|Proteo]], ed ella tese entrambe
+le mani per un istante e disse in tono sommesso, del quale egli visse
+per giorni e notti:
+
+"Non capisci che non ho osato fermarti?
+Ciò che state facendo è tanto folle che potrebbe essere del tutto vero.
+In qualche modo non si riesce mai davvero a essere atei."
+
+Turnbull stava fissando il mare; ma le sue spalle mostravano
+che aveva udito, e dopo un minuto girò la testa.
+Ma la ragazza aveva soltanto sfiorato la mano di Evan con la sua ed era fuggita
+su per il buio vicolo accanto al cancello della casetta.
+
+Evan restò radicato sulla [[Road|strada]], letteralmente come una pesante statua scolpita
+lì nell'età dei Druidi.  Pareva impossibile che potesse
+mai muoversi.  Turnbull si fece inquieto per quella rigidità, e alla fine,
+dopo aver chiamato il suo compagno due o tre volte, si avvicinò e gli batté
+impaziente la mano su una delle grosse spalle.  Evan trasalì e balzò via
+da lui con una repulsione che non era l'odio per una cosa immonda
+né il timore per una cosa pericolosa, ma era uno spasimo di soggezione e separazione
+da qualcosa da cui ora era diviso come dalla [[Sword|spada]] di Dio.
+Non odiava l'ateo; è possibile che lo amasse.
+Ma Turnbull era ora qualcosa di più terribile di un nemico:
+era una cosa sigillata e consacrata... una cosa ormai irrimediabilmente
+condannata a essere o un cadavere o un carnefice.
+
+"Che cos'hai?" chiese Turnbull, con la sua cordiale mano
+ancora in aria; eppure ne sapeva più di quanto il suo [[Innocent|innocente]]
+gesto lasciasse intendere.
+
+"James," disse Evan, parlando come uno in preda a un forte [[Pain|dolore]] fisico,
+"ho chiesto la risposta di Dio e l'ho ottenuta... ottenuta nelle mie viscere.
+Egli sa quanto sono debole, e che potrei dimenticare il pericolo della [[Faith|fede]],
+dimenticare il volto della Nostra Signora... sì, perfino con il tuo colpo sulla sua guancia.
+Ma l'[[Honour|onore]] di questa terra ha proprio questo, che può
+rendere il cuore di un uomo simile al ferro.  Io discendo dai Signori delle Isole
+e non oso essere un semplice disertore.  Perciò, Dio mi ha legato
+con la catena del mio posto e della mia parola nel mondo, e non c'è nient'altro
+ormai che combattere."
+
+"Credo di capirti," disse Turnbull, "ma tu dici
+ogni cosa a rovescio."
+
+"Lei vuole che lo facciamo," disse Evan, con voce schiacciata dalla passione.
+"Si è fatta del male perché noi lo facessimo.  Ha gettato il suo
+buon nome e il suo buon [[Sleep|sonno]] e tutte le sue abitudini e la sua dignità, buttati
+via dall'altra parte dell'Inghilterra nella [[Hope|speranza]] che possa udire
+di noi e che noi abbiamo aperto qualche varco in cielo."
+
+"Credevo di sapere cosa intendi," disse Turnbull, mordendosi la barba;
+"sembra davvero che dovremmo fare qualcosa dopo tutto ciò che lei ha
+fatto questa [[Night|notte]]."
+
+"Non mi sei mai piaciuto tanto prima d'ora," disse MacIan, in amaro dolore.
+
+Mentre parlava, tre solenni valletti uscirono dal cancello della casetta e
+si radunarono per aiutare la guidatrice a raggiungere la sua stanza.  La sola vista di loro
+fece fuggire i due erranti come da un'incongruità troppo spaventosa,
+e prima che sapessero dove fossero, erano ormai [[Well|proprio]] sulla cengia erbosa
+d'Inghilterra che domina la Manica.  Evan disse all'improvviso:
+"Mi lasceranno rivederla in cielo una volta ogni mille evi?"
+e rivolse l'osservazione al direttore di _The Atheist_, come se
+fosse probabile o competente a rispondere.  Ma nessuna risposta venne;
+un [[Silence|silenzio]] calò tra i due.
+
+Turnbull avanzò risoluto fino all'orlo della scogliera e guardò fuori,
+il suo compagno seguendolo, alquanto più scosso dalla sua recente agitazione.
+
+"Se questa è l'opinione che ne hai," disse Turnbull, "e non dico che tu
+abbia torto, credo di sapere dove staremo meglio per la faccenda.
+Si dà il caso che io conosca piuttosto [[Well|bene]] questa parte della costa meridionale.
+E se non m'inganno c'è una via giù per la scogliera proprio qui
+che ci porterà su una distesa di sabbia soda dove nessuno è probabile
+che ci segua."
+
+Il montanaro fece un gesto d'assenso e giunse anch'egli quasi all'orlo
+del precipizio.  L'alba, che si andava allargando su mare e riva,
+era una di quelle rare e splendide albe in cui pare
+non esservi né bruma né [[Doubt|dubbio]], e nient'altro che una chiarificazione universale
+sempre più completa.  Tutti i colori erano trasparenti.
+Sembrava una trionfante profezia di un qualche mondo perfetto
+dove ogni cosa, essendo [[Innocent|innocente]], sarà intelligibile; un mondo
+dove perfino i nostri corpi, per così dire, potrebbero essere come di vetro ardente.
+Un mondo simile è debolmente ma fieramente raffigurato nelle vetrate
+colorate dell'architettura cristiana.  Il mare che si stendeva davanti a loro
+era come un lastricato di smeraldo, luminoso e quasi fragile; il cielo
+contro il quale pendeva il suo severo orizzonte era quasi assolutamente bianco,
+salvo che vicino alla linea del cielo, come trecce scarlatte sull'orlo
+di una veste, stavano file di nubi sfilacciate di un rosso tanto lucente e sfarzoso
+che parevano ritagliate da un qualche strano metallo celeste color del [[Blood|sangue]],
+di cui il puro oro di questa terra non è che una scialba [[Imitation|imitazione]] gialla.
+
+"La mano del Cielo sta ancora indicando," mormorò tra sé l'uomo della superstizione.
+"E ora è una mano color del [[Blood|sangue]]."
+
+La fredda voce del suo compagno s'intromise nel suo monologo,
+chiamandolo da poco più in là lungo la scogliera,
+per dirgli che aveva trovato la scala della discesa.
+Cominciava come un sentiero ripido e alquanto viscido, che poi precipitava giù
+per venti o trenta piedi sotto forma di una scarpata di rozzi gradini di pietra.
+Dopodiché, c'era un salto piuttosto scomodo su una cengia di pietra
+e poi il [[Journey|viaggio]] veniva intrapreso agevolmente e perfino con eleganza per mezzo
+dei resti di una scalinata ornamentale, quale poteva essere appartenuta
+a una qualche stazione balneare da tempo abbandonata.  Per tutto il [[Time|tempo]] in cui i due
+viaggiatori scendevano di gradino in gradino di questo cammino discendente,
+si chiudevano sopra le loro teste ponti viventi e caverne del più
+vario fogliame, tutto ciò che cresceva più verde, più rosso, o più dorato,
+nella luce crescente del mattino.  Anche la vita, di specie più
+mobile, [[Rose|si levava]] al sole da ogni lato attorno a loro.  Gli [[Birds|Uccelli]] frullavano
+e svolazzavano nel sottobosco, come imprigionati in gabbie verdi.
+Altri [[Birds|uccelli]] venivano scossi in grandi nubi dalle cime degli alberi,
+come fossero fiori staccati e sparpagliati su verso il cielo.
+[[Animals|Animali]] che Turnbull era troppo londinese e MacIan troppo
+nordico per conoscere, sgusciavano tra l'intrico o correvano
+zampettando su per i tronchi degli alberi.  Entrambi gli uomini, secondo i loro
+diversi credi, sentirono il pieno tuono del salmo della vita come non
+l'avevano mai udito prima; MacIan sentì Dio Padre, benigno in
+tutte le sue energie, e Turnbull quell'ultima anonima energia,
+quella _Natura Naturans_, che è l'intero tema di Lucrezio.
+Fu giù per questa clamorosa scala della vita che scesero a morire.
+
 
 
 <span class="atom-split" data-atom="story_09_the_swords_rejoined--part_03" data-title="ball and cross — The Swords Rejoined (part 3)" data-chapter="The Swords Rejoined" data-kind="excerpt" data-tags="motif/blood,motif/childhood,motif/cross,motif/death,motif/nature,motif/rose,motif/time,motif/water,motif/well,concept/nature,setting/court,character/bottom,character/evan_macian"></span>
@@ -13639,6 +16648,128 @@ You wanted to finish this fight and you shall finish it, or I'll
 denounce you as a coward to the whole of that assembled company."
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Sbucarono su un bruno semicerchio di sabbia, tanto libero da impronte
+umane da giustificare l'affermazione di Turnbull.  Vi avanzarono a gran passi,
+piantarono le spade nella sabbia, ed ebbero una pausa troppo importante per le parole.
+Turnbull scrutò la costa con curiosità per un momento, come uno che risveglia
+memorie d'[[Childhood|infanzia]]; poi disse bruscamente, come un uomo che ricorda
+il nome di qualcuno:  "Ma, naturalmente, staremo ancor meglio dietro
+l'angolo di Cragness Point; là non ci viene mai proprio nessuno."
+E raccogliendo di nuovo la sua [[Sword|spada]], cominciò a incamminarsi verso
+un grande sperone di rocce che spuntava sulla loro sinistra.
+MacIan lo seguì oltre l'angolo e si ritrovò in quello che
+era di certo un [[Court|campo]] di scherma ancor più bello, di sabbia piatta e soda,
+racchiuso su tre lati da bianche pareti di roccia, e sul quarto
+dalla verde parete del mare che avanzava.
+
+"Qui siamo del tutto al sicuro," disse Turnbull, e, con sorpresa dell'altro,
+si buttò a terra, sedendosi sulla bruna spiaggia.
+
+"Vedi, io sono cresciuto qui vicino," spiegò.  "Fui mandato
+dalla Scozia a stare con mia zia.  È altamente probabile che io
+possa morire qui.  Ti spiace se accendo la pipa?"
+
+"Ma certo, fa' quello che vuoi," disse MacIan, con voce strozzata,
+e andò a camminare tutto [[Alone|solo]] lungo la sabbia umida e luccicante.
+
+Dieci minuti dopo tornò di nuovo, bianco per il suo stesso
+turbine di emozioni; Turnbull era del tutto allegro e stava battendo
+via il fondo della sua pipa.
+
+"Vedi, dobbiamo farlo," disse MacIan.  "Lei ci ha vincolati a questo."
+
+"Ma certo, mio caro amico," disse l'altro, e balzò in piedi con leggerezza
+come una scimmia.
+
+Presero posto gravemente proprio al centro del grande
+quadrato di sabbia, come se avessero migliaia di spettatori.
+Prima di salutare, MacIan, che, essendo un mistico, era di un pollice più vicino
+alla [[Nature|Natura]], girò l'occhio attorno all'enorme cornice della loro eroica follia.
+Le tre pareti di roccia pendevano tutte un poco verso l'esterno, sebbene ad
+angoli vari; ma questa impressione era esagerata in direzione
+dell'incredibile dal pesante carico di alberi vivi e cespugli
+che ciascuna parete portava in cima come un'enorme chioma arruffata.  Su tutta
+quella lussureggiante cresta di vita batteva il sole levato e vittorioso,
+brunendola tutta come oro, e ogni uccello che [[Rose|si levava]] con quell'alba
+coglieva su di sé una luce come una stella, simile alla colomba dello Spirito Santo.
+Mai la vita immaginativa si era tanto accalcata su MacIan.  Sentiva
+che avrebbe potuto scrivere interi libri sui sentimenti di un solo uccello.
+Sentiva che per due secoli non si sarebbe stancato di essere un coniglio.
+Era nel Palazzo della Vita, di cui perfino gli arazzi e le tende
+erano vivi.  Poi si riprese, e ricordò i suoi affari.
+Entrambi gli uomini salutarono, e ferro risuonò su ferro.  Fu esattamente nello stesso
+momento che si accorse che la caviglia sinistra del suo nemico era cinta
+da un anello di [[Water|acqua]] salata che era strisciato fino ai suoi piedi.
+
+"Che c'è?" disse Turnbull, fermandosi un istante, poiché aveva imparato
+a conoscere ogni movimento del volto del suo straordinario compagno di viaggio.
+
+MacIan lanciò di nuovo un'occhiata a quella cavigliera d'argento di [[Water|acqua]] marina e poi
+guardò oltre, verso il promontorio successivo attorno al quale un mare profondo
+ribolliva e balzava.  Poi si voltò e guardò indietro e vide pesante
+schiuma scagliata verso il cielo attorno alla base di Cragness Point.
+
+"Il mare ci ha tagliato fuori," disse, seccamente.
+
+"Me ne sono accorto," disse Turnbull con eguale gravità.
+"Che parere ti fai dello sviluppo?"
+
+Evan gettò via la sua arma, e, com'era sua abitudine, imprigionò la sua
+grossa testa tra le mani.  Poi le lasciò ricadere e disse:
+"Sì, so cosa significa; e credo che sia la cosa più giusta.
+È il dito di Dio... rosso come il [[Blood|sangue]]... che ancora indica.
+Ma ora indica due tombe."
+
+Ci fu uno spazio colmato dal suono del mare, e poi
+MacIan parlò di nuovo con una voce pateticamente ragionevole:
+"Vedi, l'abbiamo salvata entrambi... e lei ha detto a entrambi di batterci...
+e non sarebbe giusto che l'uno mancasse e cadesse [[Alone|solo]],
+mentre l'altro..."
+
+"Vuoi dire," disse Turnbull, con una voce sorprendentemente dolce e gentile,
+"che c'è qualcosa di bello nel battersi in un luogo dove perfino
+il vincitore deve morire?"
+
+"Oh, l'hai colto nel segno, l'hai colto nel segno!" esclamò Evan,
+in una straordinaria estasi infantile.  "Oh, sono sicuro che tu credi davvero
+in Dio!"
+
+Turnbull non rispose una parola, ma raccolse soltanto la sua [[Sword|spada]] caduta.
+
+Per la terza [[Time|volta]] [[Evan MacIan]] guardò quei tre lati di scogliera inglese
+appesantiti dal loro chiassoso carico di vita.  Era rimasto perplesso
+a comprendere la magnificenza quasi ironica di tutte quelle brulicanti
+creature e colori e odori tropicali che fumavano felici verso il cielo.
+Ma ora sapeva di essere nella [[Court|corte]] chiusa della [[Death|morte]] e che
+tutte le porte erano sigillate.
+
+Bevve l'ultimo verde e l'ultimo rosso e l'ultimo oro,
+quelle cose uniche e indescrivibili di Dio, come un uomo scola
+il buon vino sul [[Bottom|fondo]] del suo bicchiere.  Poi si voltò e salutò
+di nuovo il suo nemico, e i due si drizzarono e combatterono finché la schiuma
+non scorse sopra le loro ginocchia.
+
+Poi MacIan fece all'improvviso un passo indietro con uno schizzo e alzò
+la mano.  "Turnbull!" gridò; "non posso farci nulla... combattere lealmente
+conta ancor più delle promesse.  E questo non è combattere lealmente."
+
+"Che diavolo intendi?" chiese l'altro, fissandolo.
+
+"Ci ho pensato solo adesso," esclamò Evan, con voce rotta.
+"Siamo molto [[Well|ben]] assortiti... potrebbe durare parecchio [[Time|tempo]]...
+la marea sale in fretta... e io sono più alto di un piede e mezzo.
+Tu sarai spazzato via come alga marina prima che l'acqua mi arrivi sopra i calzoni.
+Non voglio combattere slealmente per tutte le ragazze e gli angeli dell'universo."
+
+"Vuoi farmi il piacere," disse Turnbull, con occhi grigi sbarrati
+e una voce di netta e violenta cortesia; "vuoi farmi il piacere
+di farti [[Well|proprio]] gli affaracci tuoi?  Su, mettiti in piedi
+e combatti, e vedremo chi sarà spazzato via come alga marina.
+Volevi finire questo duello e lo finirai, oppure
+ti denuncerò come vigliacco davanti a tutta quella compagnia radunata."
+
 
 
 <span class="atom-split" data-atom="story_09_the_swords_rejoined--part_04" data-title="ball and cross — The Swords Rejoined (part 4)" data-chapter="The Swords Rejoined" data-kind="excerpt" data-tags="motif/cross,motif/dawn,motif/home,motif/night,motif/soul,motif/time,motif/water,motif/well,motif/wind,character/bottom,character/christ,character/evan_macian,character/james_turnbull"></span>
@@ -13751,6 +16882,115 @@ Every [[Night|night]] and all,
 Sit thee down and put them on,
 And [[Christ]] receive thy [[Soul|soul]].
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Evan pareva molto dubbioso e offrì un'arma alquanto malferma;
+ma fu prontamente richiamato alla ragione dalla punta della
+[[Sword|spada]] dell'avversario, che gli sfrecciò accanto, sfiorandogli la spalla per un pelo.
+A questo [[Time|punto]] le onde erano [[Well|ben]] su per la coscia di Turnbull, e, quel che è peggio,
+cominciavano a rotolare e a frangersi pesantemente attorno a loro.
+
+MacIan parò questo primo affondo alla perfezione, il successivo meno perfettamente;
+il terzo, con ogni umana probabilità, non lo avrebbe parato affatto;
+il campione cristiano sarebbe stato inchiodato come una farfalla,
+e il campione ateo lasciato ad annegare come un topo,
+con quella consolazione che la sua visione del cosmo gli concedeva.
+Ma proprio mentre Turnbull vibrava il suo colpo più pesante, il mare,
+nel quale stava immerso fino ai fianchi, ne vibrò uno ancor più pesante.
+Un'onda che si frangeva oltre le altre lo colpì con violenza come un martello
+d'[[Water|acqua]].  Una gamba cedette, egli fu fatto ruotare e risucchiato
+nel mare che si ritraeva, ancora stringendo la sua [[Sword|spada]].
+
+MacIan si mise la [[Sword|spada]] tra i denti e si tuffò dietro il suo
+nemico che spariva.  Ebbe la sensazione di avere l'intero
+universo addosso mentre cresta dopo cresta lo abbatteva.
+Gli parve proprio un crollo cosmico, come se tutti e sette
+i cieli gli cadessero addosso l'uno dopo l'altro.  Ma afferrò
+la gamba sinistra dell'ateo e non la lasciò andare.
+
+Dopo circa dieci minuti di schiuma e frenesia, in cui tutti i sensi
+a un tempo parvero devastati dal mare, Evan si ritrovò a nuotare
+faticosamente su una bassa, verde onda lunga, con la [[Sword|spada]] ancora tra i
+denti e il direttore di _The Atheist_ ancora sotto il braccio.
+Che cosa avesse intenzione di fare non ne aveva la più pallida idea;
+così mantenne semplicemente la presa e nuotò in qualche modo con una mano sola.
+
+Si abbassò d'istinto poiché sopra di lui si profilò una grande, nera onda,
+molto più alta di qualunque ne avesse vista.  Poi vide che essa aveva
+a malapena la forma di una qualunque onda possibile.  Poi vide che era
+la barca di un pescatore e, balzando in alto, si aggrappò alla prua.
+La barca beccheggiò in avanti con la poppa in aria giusto per
+quel tanto di [[Time|tempo]] necessario a vedere che non c'era nessuno a bordo.
+Dopo un paio di momenti di disperato arrampicarsi, però, ci furono
+due persone a bordo, il signor [[Evan MacIan]], ansante e sudato,
+e il signor [[James Turnbull]], straordinariamente vicino all'annegare.
+Dopo dieci minuti di sballottamento senza meta nella barca da pesca vuota
+egli si riprese, tuttavia, si mosse, si stiracchiò, e si guardò intorno
+sulle acque [[rolling|ondeggianti]].  Poi, senza far caso ai rivoli
+di [[Water|acqua]] salata che gli colavano da capelli, barba, giacca, stivali
+e calzoni, asciugò con cura il bagnato dalla lama della sua [[Sword|spada]]
+per preservarla dalla possibilità della ruggine.
+
+MacIan trovò due remi sul [[Bottom|fondo]] della barca abbandonata e cominciò
+alquanto tristemente a vogare.
+
+* * *
+
+Un crepuscolo piovoso si andava schiarendo in freddo argento sul mare gemente,
+quando la barca malconcia, che aveva rollato e derivato quasi
+senza meta per tutta la [[Night|notte]], giunse in vista della terra, sebbene di
+una terra che appariva quasi tanto perduta e selvaggia quanto le onde.
+Per tutta la [[Night|notte]] c'era stato ben poco sollevamento nel mare plumbeo,
+solo di tanto in tanto la barca era stata issata, come su un enorme
+spalla che le scivolava di sotto; tali occasionali sussulti marini
+provenivano probabilmente dal moto ondoso di qualche piroscafo che l'aveva oltrepassata
+nel buio; per il resto le onde erano innocue benché inquiete.
+Ma faceva un freddo pungente, e c'era, di [[Time|tanto]] in [[Time|tanto]],
+uno spruzzo di pioggia come lo spruzzo dei frangenti, che pareva quasi
+gelare cadendo.  MacIan, più a suo [[Home|agio]] del compagno in questa
+avventura del tutto barbara ed elementare, aveva vogato faticosamente
+con i pesanti remi ogni volta che scorgeva qualcosa che pareva terra;
+ma per lo più si era affidato con cupo trascendentalismo al [[Wind|vento]]
+e alla marea.  Tra gli attrezzi del loro primo equipaggiamento il brandy
+[[Alone|soltanto]] gli era rimasto, e lo diede al suo compagno intirizzito
+in quantità che allarmarono assai quel temperante londinese;
+ma MacIan veniva dai mari freddi e dalle brume dove un uomo può bere
+un bicchiere di whisky puro in barca senza che gli faccia battere ciglio.
+
+Quando il montanaro cominciò a tirare davvero forte sui remi,
+Turnbull sporse la sua rossa testa gocciolante fuori dalla barca per vedere
+la meta dei suoi sforzi.  Era una meta abbastanza poco invitante;
+nulla, per quanto si potesse vedere, se non una ripida e digradante riva di ghiaia,
+fatta di piccoli ciottoli sciolti come piacciono ai bambini, ma inclinata verso l'alto
+più di una [[house|casa]].  In cima al cumulo, contro la linea del cielo,
+si drizzava il bruno [[skeleton|scheletro]] di una qualche rotta staccionata o frangiflutti.
+Con la grigia e acquosa [[Dawn|alba]] che strisciava su dietro di esso, la staccionata pareva davvero
+dire ai nostri filosofici avventurieri che erano giunti
+finalmente all'altro capo del nulla.
+
+Piegato dalla necessità alla sua fatica, MacIan governò la pesante barca con
+vera forza e abilità, e quando infine la spinse su una parte più liscia
+del pendio essa fece presa e si tenne così che poterono arrampicarsi fuori,
+affondando non più delle ginocchia nell'[[Water|acqua]] e nella ghiaia.
+Un piede o due più su i loro piedi trovarono la spiaggia più soda,
+e pochi istanti dopo erano appoggiati al malandato
+frangiflutti e guardavano indietro verso il mare cui erano scampati.
+
+Ebbero una tetra camminata attraverso distese di grigia ghiaia nella grigia
+[[Dawn|alba]] prima di cominciare a giungere a portata di voce di campi o strade umane;
+né avevano alcuna idea di quali campi o strade sarebbero stati.
+I loro stivali cominciavano a sfasciarsi e la confusione delle pietre
+li provava severamente, sicché furono lieti di appoggiarsi alle loro spade,
+come se fossero i bordoni di pellegrini.  MacIan pensò vagamente
+a una bizzarra ballata del suo paese che descrive l'[[Soul|anima]]
+in Purgatorio mentre cammina su una piana piena di pietre aguzze, e solo
+salvata dalle proprie opere di carità sulla terra.
+
+Se mai donasti calze e scarpe
+Ogni [[Night|notte]] e per sempre,
+Siediti e mettitele ai piedi,
+E [[Christ|Cristo]] accolga la tua [[Soul|anima]].
 
 
 
@@ -13880,6 +17120,131 @@ At the same moment a mass of blue blocked the corner of the [[Road|road]] behind
 the small, smart figure of Turnbull, and a small company of policemen
 in the English uniform came up at a kind of half-military [[Double|double]].
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Turnbull non aveva simili meditazioni liriche, ma era di un umore
+anche peggiore.
+
+Alla fine giunsero a un pallido nastro di [[Road|strada]], bordato da una fascia
+di erba ruvida e quasi incolore; e pochi piedi su per il pendio
+si ergeva grigio e sferzato dalle intemperie uno di quei grandi crocifissi
+lungo la strada che di rado si vedono se non nei paesi cattolici.
+
+MacIan si portò la mano al capo e scoprì che il suo berretto non c'era.
+Turnbull gettò una sola occhiata al crocifisso... un'occhiata a un tempo
+solidale e amara, nella quale era concentrato l'intero poema di Swinburne
+sulla medesima occasione.
+
+O nascosto volto dell'uomo, sopra il quale
+gli anni hanno tessuto un velo invisibile,
+se davvero fosti l'[[Lover|amante]] dell'uomo
+a che valse il tuo [[Love|amore]] o il tuo [[Blood|sangue]]?
+Del tuo [[Blood|sangue]] i preti mescolano [[Poison|veleno]],
+e in aurei sicli coniano il tuo [[Love|amore]].
+
+Poi, lasciando MacIan nel suo atteggiamento di [[Prayer|preghiera]], Turnbull cominciò
+a guardare a destra e a sinistra molto attentamente, come uno che cerca qualcosa.
+Improvvisamente, con un piccolo grido, lo vide e corse in avanti.
+A pochi metri da loro lungo la [[Road|strada]] una siepe magra e stenta
+finiva pietosamente.  Impigliato però sul suo spinoso angolo,
+c'era un pezzetto di carta molto piccolo e molto sudicio che poteva essere
+rimasto lì per mesi, sfuggito a qualcuno che stracciava
+una lettera o faceva uno stoppino con un giornale.  Turnbull vi si avventò
+e trovò che era l'angolo di una pagina stampata, stampata molto rozzamente,
+come un romanzetto a buon mercato, e appena grande abbastanza da contenere le parole:
+"_et c'est elle qui_----"
+
+"Urrà!" gridò Turnbull, agitando il suo [[Fragment|frammento]]; "siamo finalmente salvi.
+Siamo finalmente liberi.  Siamo in un luogo migliore dell'Inghilterra o dell'Eden
+o del Paradiso.  MacIan, siamo nella Terra del Duello!"
+
+"Dove dici?" disse l'altro, guardandolo pesantemente e
+con le sopracciglia aggrottate, come uno quasi stordito dai grigi dubbi
+del desolato crepuscolo e del mare alla deriva.
+
+"Siamo in Francia!" gridò Turnbull, con una voce come una tromba,
+"nella terra dove le cose accadono davvero... _Tout arrive en France_.
+Arriviamo in Francia.  Guarda questo piccolo messaggio," e porse
+il pezzo di carta.  "Ecco un presagio per voi superstiziosa gente delle [[Hill|colline]].
+_C'est elle qui--Mais oui, mais oui, c'est elle qui sauvera
+encore le monde_."
+
+"Francia!" ripeté MacIan, e i suoi occhi si ridestarono nel suo capo
+come grandi lampade accese.
+
+"Sì, Francia!" disse Turnbull, e tutta la parte retorica
+di lui salì in superficie, il volto facendosi rosso come i capelli.
+"La Francia, che è sempre stata in rivolta per la libertà e la ragione.
+La Francia, che ha sempre assalito la superstizione con la clava di Rabelais
+o il fioretto di Voltaire.  La Francia, al cui primo tavolo del consiglio
+siede la [[Sublime|sublime]] figura di Giuliano l'Apostata.  La Francia, dove un
+uomo l'altro giorno ha detto quelle splendide parole irrefutabili"...
+con un gesto superbo... "'abbiamo spento in cielo quelle luci
+che gli uomini non riaccenderanno mai più.'"
+
+"No," disse MacIan, con una voce che tremava di una passione controllata.
+"Ma la Francia, che fu istruita da San Bernardo e condotta alla guerra
+da Giovanna d'Arco.  La Francia che fece le [[Crusades|crociate]].  La Francia che salvò
+la Chiesa e disperse le eresie per bocca di Bossuet
+e di Massillon.  La Francia, che mostra oggi la marcia
+conquistatrice del cattolicesimo, mentre cervello dopo cervello vi si arrende,
+Brunetière, Coppée, Hauptmann, Barrès, Bourget, Lemaître."
+
+"Francia!" affermò Turnbull con una sorta di gioviale [[Self|auto]]-esagerazione,
+molto insolita in lui, "la Francia, che è un solo torrente di splendido
+scetticismo da Abelardo ad Anatole France."
+
+"La Francia," disse MacIan, "che è una sola cateratta di limpida [[Faith|fede]]
+da San Luigi alla Nostra Signora di Lourdes."
+
+"La Francia almeno," gridò Turnbull, scagliando in alto la sua [[Sword|spada]] in un trionfo
+da scolaretto, "dove queste cose si pensano e si combattono.
+La Francia, dove ragione e religione si scontrano in un continuo torneo.
+La Francia, soprattutto, dove gli uomini comprendono l'[[Pride|orgoglio]] e la passione che hanno
+strappato le nostre lame dai foderi.  Qui, almeno, non saremo
+inseguiti e spiati da smorti parroci e untuosi poliziotti,
+perché vogliamo mettere in gioco le nostre vite.  [[Courage|Coraggio]], amico mio,
+siamo giunti nella terra dell'[[Honour|onore]]."
+
+MacIan non notò nemmeno l'incongrua espressione "amico mio",
+ma annuendo più e più volte, sguainò la sua [[Sword|spada]] e scagliò il fodero
+lontano dietro di sé nella [[Road|strada]].
+
+"Sì," gridò, con una voce di tuono, "combatteremo qui ed _Egli_
+starà a guardarci."
+
+Turnbull lanciò un'occhiata al crocifisso con una sorta di accigliato buon [[Humour|umore]]
+e poi disse:  "Egli può guardare e vedere la sua [[Cross|croce]] sconfitta."
+
+"La [[Cross|croce]] non può essere sconfitta," disse MacIan, "perché essa è la Sconfitta."
+
+Un secondo dopo le due lucenti armi assetate di [[Blood|sangue]] fecero
+il segno della [[Cross|croce]] in orribile [[Parody|parodia]] l'una contro l'altra.
+
+Non si erano però toccati due volte, quando sulla [[Hill|collina]],
+sopra il crocifisso, apparve un'altra orribile [[Parody|parodia]]
+della sua forma; la figura di un uomo che comparve per un istante
+agitando le braccia spalancate.  Era svanito in un istante;
+ma MacIan, il cui volto da combattente era rivolto in quella direzione,
+aveva visto la figura per un momento ma in modo assolutamente fotografico.
+E benché fosse come una comica ripetizione della [[Cross|croce]],
+era anche, in quel luogo e in quell'ora, qualcosa di più incredibile.
+Era stata solo istantaneamente sulla retina del suo occhio;
+ma a meno che il suo occhio e la sua mente non stessero impazzendo insieme, la figura
+era quella di un comune poliziotto di [[London|Londra]].
+
+Cercò di concentrare i sensi sul gioco della [[Sword|spada]];
+ma una metà del suo cervello era alle prese con l'enigma;
+l'apocalittica e quasi serafica apparizione di un tozzo agente
+di Clapham in cima a una tetra e deserta [[Hill|collina]] in Francia.
+Non dovette, tuttavia, arrovellarsi a lungo.  Prima che i duellanti avessero
+scambiato una mezza dozzina di passate, il grosso poliziotto blu apparve di nuovo
+sulla cima della [[Hill|collina]], una palpabile mostruosità all'occhio del cielo.
+Ora agitava un braccio solo e pareva gridare istruzioni.
+Nello stesso momento una massa di blu ostruì l'angolo della [[Road|strada]] dietro
+la piccola, elegante figura di Turnbull, e una piccola compagnia di poliziotti
+in uniforme inglese si fece avanti a una sorta di semi-militare [[Double|passo di corsa]].
 
 
 
@@ -14157,6 +17522,112 @@ He would have stared still more doubtfully if he had been told
 that it all went into her prayers.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+XI.  UNO SCANDALO NEL VILLAGGIO
+
+Nel piccolo [[Hamlet|borgo]] di Haroc, nell'Isola di St. Loup, viveva
+un uomo che--pur vivendo sotto la [[Flag|bandiera]] inglese--era assolutamente
+atipico rispetto alla tradizione francese.  Era del tutto inosservabile,
+ma era proprio in questo che era pienamente sé stesso.  Non era nemmeno
+straordinariamente francese; ma d'altronde è contro la tradizione francese
+essere straordinariamente francesi.  Gli inglesi comuni lo avrebbero soltanto
+giudicato un po' all'antica; gli inglesi imperialisti lo avrebbero
+davvero scambiato per il vecchio John Bull delle caricature.
+Era corpulento; era del tutto privo di distinzione; e portava basette,
+tenute appena un po' più lunghe di quelle di John Bull.  Si chiamava
+Pierre Durand; di mestiere era mercante di vino; per politica era
+un repubblicano conservatore; era stato allevato cattolico,
+aveva sempre pensato e agito da agnostico, e stava molto blandamente
+tornando alla Chiesa negli anni della sua vecchiaia.  Aveva un genio
+(se pure si può usare una parola tanto ardita per una persona tanto mite)
+un genio per dire la cosa convenzionale su ogni concepibile argomento;
+o piuttosto ciò che noi in Inghilterra chiameremmo la cosa convenzionale.
+Perché in lui non era convenzione, ma solida e virile convinzione.
+La convenzione implica ipocrisia o affettazione, e di queste egli non aveva
+il minimo sentore.  Era semplicemente un comune cittadino dalle idee comuni; e se
+gliel'aveste detto, l'avrebbe preso come un comune complimento.
+Se gli aveste chiesto delle donne, avrebbe detto che bisogna
+preservarne la domesticità e il decoro; avrebbe usato le
+parole più trite, ma avrebbe avuto in serbo gli argomenti più forti.
+Se gli aveste chiesto del [[government|governo]], avrebbe detto che tutti
+i cittadini erano liberi e uguali, ma avrebbe pensato ciò che diceva.
+Se gli aveste chiesto dell'[[Education|educazione]], avrebbe detto che i
+giovani devono essere addestrati ad abitudini di operosità e di rispetto
+per i genitori.  E tuttavia avrebbe dato loro egli stesso l'esempio dell'operosità,
+e sarebbe stato uno di quei genitori che potevano rispettare.
+Uno stato d'animo così irrimediabilmente centrale è deprimente per
+l'istinto inglese.  Ma d'altronde in Inghilterra un uomo che proclama queste
+banalità è generalmente uno [[Fool|sciocco]], e uno [[Fool|sciocco]] impaurito, che le proclama
+per pura servilità sociale.  Ma Durand era tutt'altro che uno [[Fool|sciocco]];
+aveva letto tutto il Settecento, e avrebbe potuto difendere
+le sue banalità da ogni angolatura del ragionamento settecentesco.
+E di certo era tutt'altro che un vigliacco: gonfio e sedentario
+com'era, avrebbe potuto restituire il colpo a chiunque lo toccasse con la
+violenza istantanea di una [[Machine|macchina]] automatica; e morire in uniforme gli
+sarebbe parso soltanto il genere di cosa che talvolta accade.
+Temo sia impossibile spiegare questo [[Monster|mostro]] fra
+le sette esagerate e i club eccentrici del mio paese.
+Era semplicemente un uomo.
+
+Viveva in una piccola villa arredata [[Well|bene]] con comode
+sedie e tavoli e con quadri e medaglioni classici estremamente scomodi.
+L'arte nella sua [[Home|casa]] non conteneva nulla fra i due
+estremi di duri, magri disegni di teste greche e toghe romane, e dall'altra
+parte alcune immagini cattoliche assai volgari nei colori più crudi;
+queste stavano per lo più nella stanza di sua figlia.  Aveva da poco perso la moglie,
+che aveva amato di cuore e piuttosto pesantemente in completo [[Silence|silenzio]],
+e sulla cui [[Grave|tomba]] aveva la costante abitudine di deporre
+orribili piccole corone, fatte con una sorta di perline bianche e nere.
+Alla sua unica figlia era ugualmente devoto, benché la limitasse
+parecchio per una sorta di allarme teorico riguardo alla sua [[innocence|innocenza]];
+un allarme che era particolarmente inutile, primo, perché ella
+era una ragazza eccezionalmente riservata e religiosa, e secondo,
+perché non c'era quasi nessun altro in quel luogo.
+
+Madeleine Durand era fisicamente una giovane donna sonnolenta,
+e la si sarebbe potuta facilmente supporre moralmente pigra.
+È certo, tuttavia, che il lavoro della sua [[house|casa]] veniva in qualche modo sbrigato,
+ed è ancora più rapido appurare che nessun altro lo faceva.
+Il logico è dunque costretto a ripiegare sull'assunto che fosse lei
+a farlo; e ciò conferisce una sorta di misterioso interesse alla sua personalità
+fin dal principio.  Aveva fronte assai larga, bassa e diritta, che sembrava
+persino più bassa perché i suoi caldi capelli biondi le scendevano a ciocche fino alle sopracciglia;
+e aveva un volto appena abbastanza pieno da non apparire potente quanto era.
+Tutto ciò che in questo vi era di pesante veniva bruscamente alleggerito
+da due grandi occhi chiari, azzurro porcellana, alleggerito d'un tratto
+come se fosse stato sollevato in aria da due grandi farfalle azzurre.
+Il resto di lei era meno che di media statura, ed era di un genere disinvolto
+e comodo; e in questo differiva da ragazze come
+quella dell'automobile: che non si era per nulla inclini a osservarne la
+figura, ma soltanto la sua testa larga, leonina e [[Innocent|innocente]].
+
+Sia il padre sia la figlia erano del genere che
+normalmente avrebbe evitato ogni attenzione; cioè, ogni attenzione
+in quello straordinario mondo moderno che mette in risalto tutto
+tranne la forza.  Entrambi avevano una forza sotto la superficie;
+erano come quieti contadini padroni di enormi miniere inesplorate.
+Il padre col suo volto quadrato e le grigie basette,
+la figlia col suo volto quadrato e la dorata frangia di capelli,
+erano entrambi più forti di quanto sapessero; più forti di quanto chiunque sapesse.
+Il padre credeva nella civiltà, nella torre leggendaria che abbiamo
+eretto per sfidare la [[Nature|natura]]; cioè, il padre credeva nell'Uomo.
+La figlia credeva in Dio; ed era ancora più forte.  Nessuno dei
+due credeva in sé stesso; perché questa è una debolezza decadente.
+
+La figlia era detta una devota.  Lasciava sulle persone
+comuni l'impressione--l'impressione alquanto irritante--
+prodotta da una tale persona; la si può descrivere solo come la sensazione
+di un'[[Water|acqua]] impetuosa versata perpetuamente in qualche abisso.
+Sbrigava le sue faccende domestiche con facilità; intratteneva i suoi rapporti sociali con dolcezza;
+non era mai negligente e mai scortese.  Ciò spiegava tutto
+ciò che in lei era tenero, ma non tutto ciò che era duro.  Camminava con fermezza
+come se andasse da qualche parte; gettava indietro il volto come sfidando qualcosa;
+non pronunciava quasi mai una parola [[Cross|aspra]], eppure spesso c'era battaglia nei suoi occhi.
+L'uomo moderno si chiedeva dubbioso dove andasse a finire tutta questa silenziosa energia.
+Avrebbe fissato ancora più dubbioso se gli fosse stato detto
+che tutta quanta andava a finire nelle sue preghiere.
+
 
 
 <span class="atom-split" data-atom="story_10_a_scandal_in_the_village--part_02" data-title="ball and cross — A Scandal in the Village (part 2)" data-chapter="A Scandal in the Village" data-kind="excerpt" data-tags="motif/cross,motif/home,motif/nature,motif/silence,motif/time,motif/well,concept/loneliness,concept/mercy,concept/nature,concept/self,concept/solitude,concept/wonder,setting/denmark,setting/italy,setting/london,setting/paris,character/hamlet"></span>
@@ -14262,6 +17733,108 @@ bullet and had caught Count Gregory a crack across the face before his
 own could be recognized.  When it was recognized it was that of Camille,
 with the black elderly beard and the young ardent eyes.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Le convenzioni dell'Isola di St. Loup erano necessariamente un compromesso
+o una confusione fra quelle di Francia e d'Inghilterra; ed era vagamente
+possibile per una rispettabile signorina avere degli [[lovers|innamorati]] a metà,
+in un modo che sarebbe stato impossibile alla _bourgeoisie_ di Francia.
+Un uomo in particolare si era reso figura inconfondibile
+sul cammino di questa ragazza mentre andava in chiesa.  Era un uomo basso,
+dall'aria prospera, la cui lunga e folta barba nera e il goffo ombrello nero
+lo facevano sembrare più basso e più vecchio di quanto realmente fosse;
+ma i cui occhi grandi e arditi, e il passo che spregiava il terreno,
+gli conferivano all'istante un carattere di giovinezza.
+
+Si chiamava Camille Bert, ed era un commesso viaggiatore che si trovava
+sull'isola soltanto da un'oziosa settimana quando cominciò ad aggirarsi sulle tracce
+di Madeleine Durand.  Poiché in un luogo così piccolo tutti conoscono tutti,
+Madeleine certamente lo conosceva abbastanza da salutarlo; ma non è molto evidente
+che gli abbia mai parlato.  Egli però la perseguitava; specialmente in chiesa,
+che era, in effetti, uno dei pochi luoghi sicuri in cui trovarla.
+Nella sua [[Home|casa]] aveva l'abitudine di rendersi invisibile, talvolta per
+insaziabile domesticità, talvolta per una [[Solitude|solitudine]] altrettanto insaziabile.
+M. Bert non dava l'impressione di un uomo pio, benché desse,
+soprattutto con gli occhi, l'impressione di un uomo onesto.
+Ma andava a Messa con una semplice esattezza che non poteva
+essere scambiata per una posa, né per una volgare infatuazione.
+Fu forse questa regolarità religiosa che alla fine indusse Madeleine
+a prendere atto di lui.  Certo è, almeno, che due volte gli parlò
+col suo sorriso quadrato e aperto sotto il portico della chiesa;
+e c'era abbastanza [[Nature|natura]] umana nel [[Hamlet|borgo]] da trasformare persino
+questo in pettegolezzo.
+
+Ma il vero interesse sorse d'improvviso come sorge una raffica con
+lo straordinario fatto che accadde circa cinque giorni dopo.
+A circa un terzo di miglio oltre il villaggio di Haroc c'era un grande
+ma solitario albergo sul modello di [[London|Londra]] o [[Paris|Parigi]], ma comunemente quasi
+del tutto vuoto.  Fra l'occasionale gruppo di ospiti che vi erano giunti
+in quella stagione c'era un uomo la cui nazionalità nessuno riusciva a stabilire
+e che portava il nome non compromettente di Conte Gregory.  Trattava
+tutti con perfetta cortesia e quasi in perfetto [[Silence|silenzio]].
+Nelle poche occasioni in cui parlava, parlava o francese, o inglese,
+o una volta (al prete) latino; e l'opinione generale era che
+li parlasse tutti male.  Era un uomo alto e magro, con la curvatura
+di un'aquila invecchiata, e persino il naso dell'aquila a completarla;
+aveva basette e baffi all'antica militare tinti di un
+giallo sgargiante e assai poco credibile.  Aveva l'abbigliamento di un
+gentiluomo vistoso e i modi di un gentiluomo decaduto; sembrava
+(come con una sorta di semplicità) cercare di fare il dandy quando era
+troppo vecchio perfino per sapere di essere vecchio.  Eppure era decisamente una
+bella figura coi suoi capelli gialli inanellati e il magro volto schizzinoso;
+e portava una peculiare finanziera d'un vivo azzurro turchese, con una
+onorificenza sconosciuta appuntata sopra, e reggeva un enorme e pesante bastone.
+Nonostante il suo [[Silence|silenzio]] e il suo abito e le sue basette da dandy, l'isola
+non avrebbe forse mai sentito parlare di lui se non fosse stato per lo straordinario evento
+di cui ho parlato, che avvenne nel modo seguente:
+
+In atmosfere così casuali soltanto gli entusiasti vanno alla Benedizione;
+e mentre il caldo crepuscolo azzurro si chiudeva sulla piccola chiesa illuminata a candele
+e sul villaggio, la fila dei fedeli che andavano a [[Home|casa]] dalla prima
+al secondo si assottigliò fino a spezzarsi.  In una tale sera almeno,
+in chiesa non c'era nessuno tranne la quieta e indomabile Madeleine,
+quattro vecchie, un pescatore e, naturalmente, l'irrefrenabile
+M. Camille Bert.  Gli altri parvero dissolversi in seguito nei
+colori di pavone dell'erba verde e opaca e del cielo blu scuro.
+Persino Durand era invisibile invece di essere solo riverentemente remoto;
+e Madeleine si incamminò attraverso quel tratto di nera foresta [[Alone|sola]].
+Non aveva affatto paura della [[Loneliness|solitudine]], perché non aveva
+paura dei demoni.  Credo fossero loro ad aver paura di lei.
+
+In una radura del bosco, tuttavia, che era illuminata da un ultimo
+lembo del morente chiarore del sole, le si fece incontro d'improvviso
+qualcuno più sconvolgente di un demonio.  L'incomprensibile
+Conte Gregory, coi suoi capelli gialli come fiamma e il volto come
+le bianche ceneri della fiamma, avanzava a capo scoperto verso di lei,
+protendendo le braccia e le lunghe dita con un gesto frenetico.
+
+«Siamo [[Alone|soli]] qui», gridò, «e voi sareste alla mia [[Mercy|mercé]],
+se non fosse che io sono alla vostra.»
+
+Poi le sue mani frenetiche ricaddero lungo i fianchi ed egli guardò in alto sotto le
+sopracciglia con un'espressione che si accordava [[Well|bene]] col suo respiro affannoso.
+Madeleine Durand si era dapprima fermata in una fanciullesca [[Wonder|meraviglia]],
+e ora, con più che maschile [[Self|autocontrollo]], «Mi pare di conoscere
+il vostro volto, signore», disse, come per guadagnare [[Time|tempo]].
+
+«Io so che non dimenticherò il vostro», disse l'altro, e stese ancora
+una volta le sue sgraziate braccia in un gesto innaturale.  Poi d'un tratto
+gli uscì un fiotto di frasi selvagge e insieme pompose.
+«È [[Well|bene]] che voi sappiate il peggio e il meglio.
+Sono un uomo che non conosce limiti; sono il più insensibile dei criminali,
+il più impenitente dei peccatori.  Non c'è uomo nei miei domini
+tanto vile quanto me.  Ma i miei domini si stendono dagli ulivi d'[[Italy|Italia]]
+alle abetaie di [[Denmark|Danimarca]], e non c'è angolo di tutti essi
+in cui io non abbia commesso un peccato.  Ma quando vi porterò via compirò
+il mio primo sacrilegio, e anche il mio primo atto di virtù.»
+La afferrò d'improvviso per il gomito; ed ella non gridò
+ma si limitò a tirare e strattonare.  Eppure, benché non avesse gridato,
+qualcuno smarrito nei boschi parve aver udito la lotta.
+Una figura bassa ma agile venne lungo il sentiero del bosco come un ronzante
+proiettile e aveva assestato al Conte Gregory un colpo secco sul volto prima che il
+proprio potesse essere riconosciuto.  Quando fu riconosciuto era quello di Camille,
+con la nera barba invecchiata e i giovani occhi ardenti.
 
 
 
@@ -14385,6 +17958,125 @@ do as you say--I mean not to do it at all?"
 "You always go to Mass," answered the girl, opening her wide blue eyes,
 "and the Mass is very long and tiresome unless one loves God."
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Fino al momento in cui Camille aveva colpito il Conte, Madeleine non aveva
+nutrito alcun [[Doubt|dubbio]] che il Conte fosse semplicemente un pazzo.
+Ora fu sconcertata da una nuova [[Sanity|lucidità]]; poiché l'uomo alto dalle basette
+gialle e dai baffi gialli dapprima restituì il colpo di Bert,
+come se fosse una sorta di dovere, e poi indietreggiò con un lieve
+inchino e un facile sorriso.
+
+«Non occorre andare oltre qui, M. Bert», disse.  «Non ho bisogno di ricordarvi
+fin dove la cosa debba andare altrove.»
+
+«Certamente, non avete bisogno di ricordarmi nulla», rispose Camille, impassibile.
+«Sono lieto che voi non siate poi troppo furfante perché un
+gentiluomo possa battersi.»
+
+«Stiamo trattenendo la signora», disse il Conte Gregory, con garbo;
+e, facendo un gesto che suggeriva che si sarebbe tolto
+il cappello se ne avesse avuto uno, si allontanò a grandi passi su per il viale d'alberi
+e alla fine scomparve.  Era così completamente un [[aristocrat|aristocratico]]
+da poter offrire loro la schiena per tutta la lunghezza di quel viale;
+e la sua schiena non parve mai per un solo istante a disagio.
+
+«Dovete permettermi di accompagnarvi a [[Home|casa]]», disse Bert alla ragazza,
+con voce rude e quasi soffocata; «penso che ci sia solo un breve
+tratto da fare.»
+
+«Solo un breve tratto», disse lei, e sorrise ancora una volta quella [[Night|notte]],
+nonostante la stanchezza e la [[Fear|paura]] e il mondo e la carne e il demonio.
+Il azzurro incandescente e trasparente del crepuscolo era da tempo stato coperto
+dall'azzurro opaco e ardesia della [[Night|notte]], quando egli la consegnò
+all'interno illuminato a lampada della sua [[Home|casa]].  Uscì egli stesso
+nell'oscurità, camminando con passo fermo, ma tirandosi la barba nera.
+
+Tutta la piccola nobiltà francese o semifrancese del distretto considerava questo
+un caso in cui un duello era naturale e inevitabile, e nessuna delle parti ebbe
+difficoltà a trovare i padrini, per quanto fossero forestieri in quel luogo.
+Due piccoli proprietari terrieri, che erano cattolici scrupolosi e praticanti,
+si assunsero volentieri l'incarico di rappresentare quell'assiduo frequentatore di chiesa Camille Burt;
+mentre il dissoluto ma apparentemente potente Conte Gregory trovò
+amici in un energico medico locale che era pronto a farsi strada in società
+e in un turista californiano capitato per caso che era pronto a tutto.
+Poiché nessuno scopo particolare poteva essere servito da un rinvio, si
+stabilì che la faccenda si svolgesse tre giorni dopo.
+E quando ciò fu deciso l'intera comunità, per così dire,
+si rigirò di nuovo nel letto e non pensò più alla cosa.
+Ce n'era almeno un solo membro che sembrava
+inquieto, ed era colei che era comunemente la più serena.
+La sera dopo Madeleine Durand andò in chiesa come al solito;
+e come al solito anche l'afflitto Camille era là.  Ciò che non
+era così solito fu che, quando furono a un tiro d'arco dalla chiesa,
+Madeleine si voltò e tornò indietro verso di lui.  «Signore», cominciò,
+«non è male da parte mia parlarvi», e proprio quelle parole gli diedero
+uno scossone di inattesa [[Truth|verità]]; poiché in tutti i romanzi che aveva mai
+letto ella avrebbe cominciato: «È male da parte mia parlarvi.»
+Proseguì con occhi ampi e seri come quelli di un animale: «Non è
+male da parte mia parlarvi, perché la vostra [[Soul|anima]], o l'anima di chiunque,
+conta assai più di ciò che il mondo dice di chiunque.
+Voglio parlarvi di ciò che state per fare.»
+
+Bert vide davanti a sé l'inevitabile eroina dei romanzi che cerca
+di impedire uno spargimento di sangue; e il suo pallido volto fermo si fece implacabile.
+
+«Farei qualunque cosa tranne quella per voi», disse; «ma nessun uomo può
+essere chiamato meno di un uomo.»
+
+Ella lo guardò per un momento con un volto apertamente perplesso,
+e poi ruppe in uno strano e bel mezzo sorriso.
+
+«Oh, non intendo quello», disse; «non parlo di ciò che
+non capisco.  Nessuno mi ha mai colpita; e se l'avessero fatto non
+proverei ciò che può provare un uomo.  Sono certa che non è la cosa migliore battersi.
+Sarebbe meglio perdonare--se solo si potesse davvero perdonare.
+Ma quando la gente cena da mio padre e dice che battersi in duello
+è puro assassinio--certo, capisco che questo non è giusto.  È tutto
+così diverso--avere una ragione--e far sapere all'altro--e usare
+le stesse armi e cose simili--e farlo davanti ai vostri amici.
+Sono terribilmente stupida, ma so che uomini come voi non sono assassini.
+Ma non era questo che intendevo.»
+
+«Che cosa intendevate?» chiese l'altro, guardando cupamente la terra.
+
+«Non sapete», disse lei, «che c'è solo una celebrazione in più?
+Pensavo che, dato che andate sempre in chiesa--pensavo che vi sareste
+comunicato stamattina.»
+
+Bert fece un passo indietro con una sorta di movimento che lei non aveva mai visto
+in lui prima d'allora.  Parve alterargli tutto il [[Body|corpo]].
+
+«Potete aver ragione o torto a rischiare di morire», disse la ragazza, semplicemente;
+«le povere donne del nostro villaggio lo rischiano ogni volta che hanno un bambino.
+Voi uomini siete l'altra metà del mondo.  Non so nulla di quando
+un uomo debba morire.  Ma di sicuro, se osate cercare di trovare Dio
+al di là della [[Grave|tomba]] e appellarvi a Lui--dovreste lasciare che Lui trovi voi
+quando viene e si presenta là ogni mattina nella nostra piccola chiesa.»
+
+E placida com'era, fece un piccolo gesto d'argomentazione,
+il cui pathos strinse il cuore.
+
+M. Camille Bert non era affatto placido.  Davanti a quel gesto incompiuto
+e a quel volto francamente supplice egli retrocedette come dalle fauci di un drago.
+I suoi capelli e la sua barba neri come il carbone apparivano del tutto innaturali contro il
+sorprendente pallore del suo volto.  Quando finalmente disse qualcosa fu:
+«O Dio!  Non posso sopportarlo!»  Non lo disse in francese.
+Né, a rigore, lo disse in inglese.  La [[Truth|verità]]
+(interessante solo per gli antropologi) è che lo disse in scozzese.
+
+«Ci sarà un'altra messa entro otto ore»,
+disse Madeleine, con una sorta di sollecitudine ed energia da faccenda pratica,
+«e potrete farlo allora, prima del combattimento.  Dovete perdonarmi,
+ma avevo tanta paura che non l'avreste fatto affatto.»
+
+Bert parve serrare i denti fino a spezzarli, e riuscì
+a dire tra essi: «E perché mai dovreste supporre che io non
+faccia come dite--intendo dire, che non lo faccia affatto?»
+
+«Andate sempre a Messa», rispose la ragazza, spalancando i suoi grandi occhi azzurri,
+«e la Messa è molto lunga e noiosa a meno che non si ami Dio.»
 
 
 
@@ -14520,6 +18212,136 @@ and half-way up it a similar transformation was seen to take place
 in Mr. Turnbull's singular umbrella.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Fu allora che Bert esplose con una brutalità che avrebbe potuto venire
+dal Conte Gregory, il suo criminale avversario.  Avanzò su Madeleine
+con occhi fiammeggianti, e quasi la prese per le due spalle.  «Non
+[[Love|amo]] Dio», gridò, parlando francese col più marcato accento scozzese;
+«non voglio trovarLo; non credo che sia là da trovare.
+Devo far saltare tutta la messinscena; devo e voglio dire ogni cosa.  Voi siete
+la cosa più felice e più onesta che io abbia mai visto in questo universo senza Dio.
+E io sono la più sporca e la più disonesta.»
+
+Madeleine lo guardò dubbiosa per un istante, e poi disse
+con un'improvvisa semplicità e allegria: «Oh, ma se siete davvero
+dispiaciuto va tutto bene.  Se siete orribilmente dispiaciuto è ancora meglio.
+Non dovete far altro che andarlo a dire al prete ed egli vi darà
+Dio dalle sue stesse mani.»
+
+«Odio il vostro prete e nego il vostro Dio!» gridò l'uomo, «e vi dico
+che Dio è una menzogna e una [[Fable|favola]] e una maschera.  E per la prima [[Time|volta]]
+nella mia vita non mi sento superiore a Dio.»
+
+«Che cosa può mai significare tutto questo?» disse Madeleine, in massiccia [[Wonder|meraviglia]].
+
+«Perché anch'io sono una [[Fable|favola]] e una maschera», disse l'uomo.
+Si era strappato con furia la barba e i capelli neri per tutto il [[Time|tempo]];
+ora d'improvviso se li strappò via e li gettò come penne mutate
+nel fango.  Questa straordinaria spoliazione lasciò alla luce del sole
+lo stesso volto, ma una testa molto più giovane--una testa con fitti riccioli
+castani e una corta barba castana.
+
+«Ora conoscete la [[Truth|verità]]», rispose, con occhi duri.
+«Sono un mascalzone che ha giocato un tiro subdolo a un quieto villaggio
+e a una donna perbene per un suo privato tornaconto.  Avrei potuto
+giocarlo con successo su qualsiasi altra donna; ho colpito l'unica donna
+su cui non lo si può giocare.  È proprio la mia dannata fortuna.
+La pura [[Truth|verità]] è», e qui, quando giunse alla pura [[Truth|verità]],
+si impappinò e balbettò come aveva fatto Evan nel raccontarla alla ragazza
+nell'automobile.
+
+«La pura [[Truth|verità]] è», disse alla fine, «che io sono [[James Turnbull]]
+l'ateo.  La polizia mi dà la caccia; non per ateismo, ma per essere stato
+pronto a battermi per esso.»
+
+«Ho letto qualcosa su di voi in un giornale», disse la ragazza, con una
+semplicità che nemmeno la sorpresa riusciva a scuotere dal suo equilibrio.
+
+«[[Evan MacIan]] diceva che c'era un Dio», proseguì l'altro, ostinatamente,
+«e io dico che non c'è.  E sono venuto a battermi per il fatto
+che non c'è alcun Dio; è per questo che ho visto questa maledetta
+isola e il vostro volto benedetto.»
+
+«Volete davvero che io creda», disse Madeleine, con le labbra socchiuse,
+«che voi pensiate----»
+
+«Voglio che mi odiate!» gridò Turnbull, in agonia.  «Voglio che
+proviate nausea quando pensate al mio nome.  Sono certo che non c'è alcun Dio.»
+
+«Ma c'è», disse Madeleine, del tutto quietamente, e piuttosto con l'aria
+di chi racconta ai bambini di un elefante.  «Ma sì, ho toccato il Suo
+[[Body|corpo]] proprio stamattina.»
+
+«Avete toccato un pezzo di pane», disse Turnbull, mordendosi le nocche.
+«Oh, dirò qualunque cosa possa farvi impazzire!»
+
+«Voi pensate che sia solo un pezzo di pane», disse la ragazza, e le sue labbra
+si strinsero appena appena.
+
+«Io so che è solo un pezzo di pane», disse Turnbull, con violenza.
+
+Ella gettò indietro il volto aperto e sorrise.  «Allora perché avete rifiutato
+di mangiarlo?» disse.
+
+[[James Turnbull]] fece un piccolo passo indietro, e per la prima [[Time|volta]]
+nella sua vita parvero prorompere e divampare nella sua testa pensieri
+che non erano i suoi.
+
+«Ma, che sciocchi», esclamò Madeleine, con una gaiezza del tutto
+da collegiale, «ma, che sciocchi a chiamare _voi_ un bestemmiatore!
+Ma, voi avete mandato in rovina tutto il vostro affare perché non
+avete voluto commettere blasfemia.»
+
+L'uomo stava là, figura alquanto comica nel suo tragico sconcerto,
+con l'onesta testa rossa di [[James Turnbull]] che sporgeva dalle ricche
+e fittizie vesti di Camille Bert.  Ma il [[Pain|dolore]] sbigottito
+del suo volto era abbastanza forte da cancellarne la bizzarria.
+
+«Voi venite quaggiù», proseguì la signora, con quell'enfasi femminile
+che è così polverizzante in una conversazione e così
+fiacca in un'assemblea pubblica, «voi e il vostro MacIan venite quaggiù
+e vi mettete false barbe o falsi nasi per battervi.
+Fingete di essere un commesso viaggiatore cattolico venuto dalla Francia.
+Il povero signor MacIan deve fingere di essere un nobile dissoluto venuto dal nulla.
+Il vostro piano riesce; provocate una lite del tutto convincente;
+organizzate un duello del tutto rispettabile; il duello che avete progettato
+così a lungo si svolgerà domani con assoluta certezza e sicurezza.
+E poi vi togliete la parrucca e mandate all'aria il vostro piano e piantate
+in asso il vostro collega, perché io vi chiedo di entrare in un edificio e mangiare
+un pezzo di pane.  E _poi_ osate dirmi che siete sicuro
+che non c'è nulla che ci osservi.  Poi dite di sapere che non c'è nulla
+sull'altare stesso da cui fuggite.  Voi sapete----»
+
+«Io so solo», disse Turnbull, «che devo fuggire da voi.
+Questo è andato oltre ogni parola.»  E si precipitò dentro il villaggio,
+lasciandosi dietro sulla [[Road|strada]] la sua parrucca e la sua barba nere.
+
+Mentre la piazza del mercato gli si apriva davanti, egli scorse il Conte Gregory,
+quel distinto forestiero, in piedi a fumare in elegante
+meditazione all'angolo del caffè locale.  Si diresse immediatamente
+rapidamente verso di lui, ritenendo che una consultazione fosse urgente.
+Ma aveva appena attraversato metà di quel pietroso quadrilatero quando una
+[[Window|finestra]] si spalancò sopra di lui e una testa si sporse, gridando.
+L'uomo era in canottiera di lana, ma Turnbull riconobbe
+l'energica e apologetica testa del sergente di polizia.
+Egli additò furiosamente Turnbull e ne gridò il nome.
+Un poliziotto uscì di corsa concitato da sotto un arco e tentò di afferrarlo.
+Due uomini che vendevano verdura lasciarono cadere le loro ceste e si unirono all'inseguimento.
+Turnbull schivò l'agente, rovesciò uno degli uomini nella sua
+stessa cesta e, balzando verso il distinto Conte forestiero,
+gli gridò clamorosamente: «Andiamo, MacIan, la caccia è ripresa.»
+
+La pronta risposta del Conte Gregory fu quella di strapparsi le grandi
+basette gialle e spargerle al vento con un'aria
+di considerevole sollievo.  Poi si unì alla fuga di Turnbull,
+e proprio mentre lo faceva, con uno strappo delle sue potenti mani
+squarciò e spaccò lo strano, spesso bastone che portava.
+Dentro vi era un nudo spadino all'antica.  I due presero un buon
+vantaggio su per la [[Road|strada]] prima che l'intera città si fosse svegliata dietro di loro;
+e a metà strada una simile trasformazione si vide avvenire
+nel singolare ombrello del signor Turnbull.
+
 
 
 <span class="atom-split" data-atom="story_10_a_scandal_in_the_village--part_05" data-title="ball and cross — A Scandal in the Village (part 5)" data-chapter="A Scandal in the Village" data-kind="excerpt" data-tags="motif/cross,motif/desert,motif/hill,motif/road,motif/ship,motif/supernatural,motif/time,motif/well,concept/despair,concept/doubt,concept/truth,histref/america,setting/america,setting/desert,setting/ship,character/evan_macian"></span>
@@ -14642,6 +18464,125 @@ and even the rudimentary ingenuity of the two amateur mariners
 managed to run up the little [[Ship|ship]] with her prow [[Well|well]] on shore
 and her bowsprit pointing upward, as in a sort of idiotic triumph.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+I due fecero una lunga corsa fino al porto; ma la polizia inglese
+era pesante e gli abitanti francesi erano indifferenti.
+In ogni caso, si abituarono all'idea che la [[Road|strada]] fosse libera;
+e proprio mentre erano giunti alle scogliere MacIan andò a sbattere contro un altro
+gentiluomo con inconfondibile sorpresa.  Come sapesse che era un altro
+gentiluomo semplicemente sbattendogli contro, deve rimanere un mistero.
+MacIan era un gentiluomo scozzese assai povero e assai sobrio.
+L'altro era un gentiluomo inglese assai ubriaco e assai ricco.
+Ma c'era qualcosa nelle scuse barcollanti e apertamente imbarazzate
+che li faceva capire l'uno con l'altro tanto prontamente e
+rapidamente e appieno quanto due uomini che parlano francese nel bel mezzo della Cina.
+L'espressione più prossima del tipo è che esso o colpisce o si scusa;
+e in questo caso entrambi si scusarono.
+
+«Sembrate avere fretta», disse lo sconosciuto inglese, indietreggiando
+di un passo o due per ridere con un'innaturale cordialità.
+«Di che si tratta, eh?»  Poi, prima che MacIan potesse superare
+la sua figura sbracata e vacillante, corse di nuovo avanti e disse
+con una sorta di sussurro gridato e lacerante: «Sentite, il mio nome
+è Wilkinson.  _Voi_ sapete--la Wilkinson's Entire era di mio nonno.
+Non posso bere birra io.  Il fegato.»  E scosse il capo
+con straordinaria saggezza.
+
+«Abbiamo davvero fretta, come dite voi», disse MacIan, evocando un
+sorriso sufficientemente affabile, «così, se ci lasciate passare----»
+
+«Vi dirò una cosa, ragazzi miei», disse il gentiluomo sbracato,
+in tono confidenziale, mentre le orecchie in agonia di Evan udivano dietro di sé i primi
+passi dell'inseguimento, «se davvero avete, come dite, fretta,
+io so cosa vuol dire aver fretta--Signore, che fretta avevo quando noi
+tutti uscimmo dalle stanze di Cartwright--se davvero avete fretta»--
+e parve rassodare la voce in una sorta di solennità--«se
+avete fretta, non c'è niente come un buon yacht per un uomo
+che ha fretta.»
+
+«Non c'è [[Doubt|dubbio]] che abbiate ragione», disse MacIan, e gli sfrecciò accanto in [[Despair|disperazione]].
+La testa della schiera inseguitrice stava proprio spuntando sopra la cima della [[Hill|collina]]
+dietro di lui.  Turnbull si era già abbassato sotto il gomito del gentiluomo
+ubriaco ed era fuggito assai più avanti.
+
+«No, ma sentite», disse il signor Wilkinson, correndo con entusiasmo
+dietro a MacIan e afferrandolo per la manica della giacca.
+«Se volete far presto dovreste prendere uno yacht, e se»--disse,
+con uno scoppio di razionalità, come chi balza a un punto ulteriore
+nella [[logic|logica]]--«se volete uno yacht--potete avere il mio.»
+
+Evan si fermò di colpo e si voltò a guardarlo.  «Abbiamo davvero
+una fretta del diavolo», disse, «e se davvero avete uno yacht,
+la [[Truth|verità]] è che daremmo le orecchie per averlo.»
+
+«Lo troverete in porto», disse Wilkinson, lottando con la parola.
+«Lato sinistro del porto--si chiama _Gibson Girl_--non so proprio perché,
+vecchio mio, non ve l'ho mai prestato prima.»
+
+Con queste parole il benevolo signor Wilkinson cadde lungo disteso sul volto
+sulla [[Road|strada]], ma continuò a ridere sommessamente, e volse verso
+il suo compagno in fuga un volto di peculiare pace e benignità.
+La mente di Evan attraversò una crisi di istantanea casuistica,
+nella quale può darsi che decise male; ma su come decise
+il suo biografo non può professare alcun [[Doubt|dubbio]].  Due minuti dopo egli aveva
+raggiunto Turnbull e gli aveva raccontato la vicenda; dieci minuti dopo egli e
+Turnbull si erano in qualche modo ritrovati a bordo dello yacht chiamato _Gibson Girl_
+e in qualche modo avevano preso il largo dall'Isola di St. Loup.
+
+XII.  L'ISOLA [[Desert|DESERTA]]
+
+Coloro che per caso sono di quel parere (e il signor [[Evan MacIan]], ora vivo
+e a suo agio, è tra il numero) che qualcosa di [[Supernatural|soprannaturale]],
+qualche eccentrica benevolenza di un dio o di una fata avesse guidato i nostri avventurieri
+attraverso tutti i loro assurdi pericoli, potrebbero trovare il loro argomento più forte
+forse nella gestione o cattiva gestione dello yacht del signor Wilkinson.
+Nessuno dei due aveva la benché minima qualifica per governare un simile
+vascello; ma MacIan aveva una conoscenza pratica del mare su barche assai
+più piccole e del tutto diverse, mentre Turnbull aveva una conoscenza
+astratta della scienza e di alcune sue applicazioni alla navigazione,
+il che era peggio.  La presenza del dio o della fata può essere
+dedotta solo dal fatto che non andarono mai decisamente a sbattere contro nulla,
+né una barca, né una roccia, né una sabbia mobile, né una nave da guerra.  A parte questa
+descrizione negativa, il loro viaggio sarebbe difficile da descrivere.
+Durò almeno una quindicina di giorni, e MacIan, che era certamente il più accorto
+marinaio dei due, si rese conto che stavano navigando verso ovest nell'
+Atlantico ed erano probabilmente a quel [[Time|tempo]] già oltre le Isole Scilly.
+Quanto più lontano si fossero spinti nel mare occidentale era
+impossibile congetturarlo.  Ma erano certi, almeno,
+di essere abbastanza addentro in quel terribile golfo tra noi e
+l'[[America]] da rendere improbabile che rivedessero terra presto.
+Fu dunque con legittima eccitazione che una mattina piovosa
+dopo l'alba videro quella nitida sagoma di un'isola solitaria
+che si ergeva contro la fascia avvolgente d'argento che correva intorno
+all'orizzonte e separava il grigio e il verde dei flutti dal
+grigio e malva delle nubi del mattino.
+
+«Che cosa può essere?» gridò MacIan, in un'eccitazione dalla gola secca.
+«Non sapevo che ci fossero isole atlantiche così al di là
+delle Scilly--Buon Dio, non può essere Madera, no?»
+
+«Credevo che foste amante di leggende e menzogne e favole»,
+disse Turnbull, arcigno.  «Forse è Atlantide.»
+
+«Certo, potrebbe essere», rispose l'altro, del tutto innocentemente
+e gravemente; «ma non ho mai pensato che la storia di Atlantide fosse
+molto solidamente accertata.»
+
+«Qualunque cosa sia, ci stiamo andando addosso», disse Turnbull, con calma,
+«e faremo naufragio due volte, in ogni caso.»
+
+Il nudo naso di terra che sporgeva dall'isola sconosciuta
+stava, in effetti, facendosi sempre più grande, come la proboscide
+di un terribile elefante in avanzata.  Non pareva esserci
+nulla di particolare, almeno da questo lato dell'isola,
+tranne banchi di molluschi giacenti così fitti da quasi far
+sembrare il tutto una di quelle grotte-giocattolo che fanno i bambini.
+In un punto, tuttavia, la costa offriva una morbida, liscia baia di sabbia,
+e persino la rudimentale ingegnosità dei due marinai dilettanti
+riuscì a spingere la piccola [[Ship|nave]] con la prua [[Well|ben]] sulla riva
+e il bompresso puntato verso l'alto, come in una sorta di idiota trionfo.
 
 
 
@@ -14768,6 +18709,128 @@ the island or the horizon.  But Turnbull being of a more active
 and birdlike type of mind did throw a glance round the scene.
 The consequence of which was that he nearly fell off the rock.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Ruzzolarono a riva e cominciarono a scaricare il vascello, disponendo le provviste
+in file sulla sabbia con qualcosa della solennità di ragazzi
+che giocano ai pirati.  C'erano le scatole di sigari del signor Wilkinson e
+la dozzina di champagne del signor Wilkinson e il salmone in scatola del signor Wilkinson
+e la lingua in scatola del signor Wilkinson e le sardine in scatola del signor Wilkinson,
+e ogni sorta di cosa conservata che si potesse vedere agli empori dell'Esercito
+e della Marina.  Poi MacIan si fermò con un barattolo di sottaceti in
+mano e disse bruscamente:
+
+«Non so perché stiamo facendo tutto questo; suppongo che dovremmo davvero
+metterci all'opera e farla finita.»
+
+Poi aggiunse più pensoso: «Certo, quest'isola sembra
+piuttosto spoglia, e il sopravvissuto----»
+
+«La questione è», disse Turnbull, con allegra speculazione,
+«se il sopravvissuto sarà nella giusta disposizione d'animo
+per dei gamberetti in vasetto.»
+
+MacIan abbassò lo sguardo sulle file di scatolette e bottiglie, e la nube
+del [[Doubt|dubbio]] gravava ancora sul suo volto.
+
+«Mi permetterete due libertà, mio caro signore», disse infine Turnbull:
+«La prima è di scassinare questa scatola e accendere uno degli eccellenti
+sigari del signor Wilkinson, che, ne sono certo, favorirà le mie meditazioni;
+la seconda è di offrire un penny per i vostri pensieri; o piuttosto
+di sconvolgere le già complesse finanze di quest'isola scommettendo
+un penny che li conosco.»
+
+«Ma di che diavolo state parlando?» chiese MacIan, svogliatamente,
+alla maniera di un [[Child|bambino]] disattento.
+
+«So che cosa state realmente pensando, MacIan», ripeté Turnbull,
+ridendo.  «So che cosa sto pensando io, in ogni caso.  E ho la mezza impressione
+che sia la stessa cosa.»
+
+«Che cosa state pensando?» chiese Evan.
+
+«Sto pensando, e voi state pensando», disse Turnbull, «che
+è una dannata sciocchezza sprecare tutto quello champagne.»
+
+Qualcosa come lo spettro di un sorriso apparve sul non sorridente
+volto del Gaelico; e non fece almeno alcun movimento di dissenso.
+
+«Potremmo bere tutto il vino e fumare tutti i sigari facilmente in una settimana»,
+disse Turnbull; «e sarebbe morire banchettando come eroi.»
+
+«Sì, e c'è qualcos'altro», disse MacIan, con una lieve esitazione.
+«Vedete, siamo su una roccia quasi sconosciuta, sperduta nell'Atlantico.
+La polizia non ci prenderà mai; ma allora forse nemmeno il pubblico
+sentirà mai parlare di noi; e questa era una delle cose che volevamo.»
+Poi, dopo una pausa, disse, tracciando nella sabbia con la punta della sua [[Sword|spada]]:
+«Può darsi che lei non ne senta mai parlare affatto.»
+
+«[[Well|Ebbene]]?» chiese l'altro, tirando una boccata dal suo sigaro.
+
+«[[Well|Ebbene]]», disse MacIan, «potremmo occupare un giorno o due a stendere
+una minuziosa e completa dichiarazione di ciò che abbiamo fatto e perché lo abbiamo fatto,
+e di tutti e due i nostri punti di vista.  Poi potremmo lasciare una copia
+sull'isola qualunque cosa ci accada e mettere l'altra in una bottiglia
+vuota e affidarla al mare, come fanno nei libri.»
+
+«Una buona idea», disse Turnbull, «e ora finiamo di scaricare.»
+
+Mentre MacIan, alta figura quasi spettrale, camminava lungo l'orlo di sabbia
+che correva intorno all'isolotto, la purpurea ma nuvolosa poesia che era
+il suo elemento natio si ammassava al suo massimo spessore sulla sua [[Soul|anima]].
+L'unica isola e il mare senza fine mettevano in risalto la cosa unicamente
+come un'[[Epic|epopea]].  Non c'erano dame né poliziotti qui a dargli
+un accenno della sua farsa o della sua [[Tragedy|tragedia]].
+
+«Forse quando furono create le [[Stars|stelle]] del mattino», disse fra sé,
+«Dio innalzò quest'isola dal [[Bottom|fondo]] del mondo perché fosse una torre
+e un teatro per la lotta tra il sì e il no.»
+
+Poi vagò fino al livello più alto della roccia, dove c'era
+un tetto o pianoro di pietra piana.  Mezz'ora dopo,
+Turnbull lo trovò intento a sgombrare la sabbia sciolta da quell'altopiano
+rendendolo liscio e uniforme.
+
+«Ci batteremo quassù, Turnbull», disse MacIan, «quando verrà il [[Time|momento]].
+E finché il [[Time|momento]] non verrà questo luogo sarà sacro.»
+
+«Pensavo di far pranzo quassù», disse Turnbull, che aveva una bottiglia
+di champagne in mano.
+
+«No, no--non quassù», disse MacIan, e scese dall'altura
+piuttosto in fretta.  Prima di scendere, tuttavia, piantò le due
+spade ritte, una a ciascun capo della piattaforma, come se fossero
+sentinelle umane a custodirla sotto le [[Stars|stelle]].
+
+Poi scesero e pranzarono abbondantemente in un nido di rocce sciolte.
+Nello stesso luogo, quella [[Night|notte]], cenarono ancora più abbondantemente.
+Il fumo dei sigari del signor Wilkinson saliva incessante e dall'odore forte,
+come un sacrificio pagano; le dorate glorie dello champagne del signor Wilkinson
+[[Rose|salirono]] alle loro teste e ne traboccarono in fantasie e filosofie.
+E di tanto in tanto alzavano lo sguardo al chiarore delle stelle e alla roccia
+e vedevano lo spazio custodito dalle due spade dall'elsa a [[Cross|croce]],
+che parevano due nere croci a ciascun capo di una [[Grave|tomba]].
+
+In questa primitiva e omerica tregua trascorse la settimana;
+consisté quasi interamente nel mangiare, bere, fumare, parlare
+e occasionalmente cantare.  Scrissero i loro resoconti e affidarono al mare
+la loro bottiglia.  Non salirono mai all'ominoso pianoro; non vi erano
+mai stati salvo per quell'unico imbarazzato minuto in cui non
+avevano avuto [[Time|tempo]] di prendere atto del paesaggio marino o della forma della terra.
+Non esplorarono nemmeno l'isola; poiché MacIan era in parte
+occupato nella [[Prayer|preghiera]] e Turnbull interamente occupato col tabacco;
+ed entrambe queste forme di ispirazione possono essere godute dagli appartati
+e persino dai sedentari.  Fu in un dorato pomeriggio, col sole che calava
+sul mare, raggiante come la testa stessa di [[Apollo]], che Turnbull
+tracannò l'ultima mezza pinta dalla svuotata bottiglia wilkinsoniana,
+scagliò la bottiglia in mare con energia senza scopo, e salì
+là dove la sua [[Sword|spada]] lo attendeva sulla [[Hill|collina]].
+MacIan era già in piedi pesantemente accanto alla sua, col capo chino e gli occhi
+che leggevano il terreno.  Non si era nemmeno preso il disturbo di gettare uno sguardo attorno
+all'isola o all'orizzonte.  Ma Turnbull, essendo di indole più attiva
+e più simile a un uccello, gettò invece uno sguardo attorno alla scena.
+La conseguenza fu che per poco non cadde giù dalla roccia.
 
 
 
@@ -15275,6 +19338,109 @@ whether for kindness or for insolence.
 "Can I do anything for you?" he said, at last.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Centocinquanta metri dietro di loro, giù per il centro della vuota
+[[Road|strada]], il primo dei loro inseguitori arrivava correndo e ansimando--
+un poliziotto grasso ma poderoso che aveva distanziato tutti gli altri.
+Procedeva a un'andatura splendida per una figura così corpulenta; ma, come tutti
+i corpi pesanti in movimento, dava l'impressione che gli sarebbe stato
+più facile accelerare il passo che rallentarlo di colpo.
+Nulla di meno di un muro di mattoni avrebbe potuto fermarlo bruscamente.
+Turnbull voltò leggermente la testa e trovò fiato per dire qualcosa
+a MacIan.  MacIan annuì.
+
+Inseguitore e inseguiti restarono fissi nella loro distanza mentre fuggivano,
+per circa un quarto di miglio, finché giunsero a un punto dove due o tre
+degli alberi crescevano contorti insieme, formando un'oscurità particolare.
+Oltre quel punto il poliziotto inseguitore proseguì tuonando senza
+pensiero né esitazione.  Ma stava inseguendo la sua [[Shadow|ombra]] o il [[Wind|vento]];
+poiché Turnbull aveva messo un piede in una fessura dell'albero e vi era salito
+tanto rapidamente e silenziosamente quanto un gatto.  Con qualche maggior fatica
+ma in eguale [[Silence|silenzio]] le lunghe gambe dell'Altoatesino avevano seguito;
+e, acquattati in un cruciale [[Silence|silenzio]] nella nube di [[Leaves|foglie]], videro
+l'intera squadra dei loro inseguitori passare e spegnersi nella [[Dust|polvere]]
+e nelle brume della distanza.
+
+Il bianco vapore giaceva, come spesso accade, in magri e palpabili strati;
+e persino la cima dell'albero ne era al di sopra nella mezza luce del giorno,
+come una verde [[Ship|nave]] che dondola su un mare di schiuma.  Ma più in alto ancora dietro di loro,
+e più pronto a cogliere il primo arrivo del sole, correva il bastione
+della sommità del muro, che nella loro eccitazione di fuga appariva
+insieme indispensabile e [[Unattainable|irraggiungibile]], come il muro del cielo.
+Qui, tuttavia, fu la volta di MacIan ad avere il vantaggio; poiché, benché
+meno agile e felino, era più lungo e più forte nelle braccia.
+In due secondi ebbe issato il mento oltre il muro come su una
+sbarra orizzontale; l'attimo dopo vi sedette a cavalcioni, come un [[Horse|cavallo]] di pietra.
+Col suo aiuto Turnbull si issò allo stesso trespolo, e i due
+cominciarono a spostarsi cautamente lungo il muro nella direzione da cui erano
+venuti, tornando sui propri passi per sviare l'ultimo inseguimento.
+MacIan non riusciva a liberarsi della fantasia di stare in groppa a un destriero;
+il lungo, grigio spigolo del muro si protendeva davanti a lui,
+come il lungo, grigio collo di qualche Ronzinante da [[nightmare|incubo]].
+Ebbe il bizzarro pensiero che lui e Turnbull fossero due cavalieri
+su un solo destriero sull'antico scudo dei Templari.
+
+L'[[nightmare|incubo]] del [[Horse|cavallo]] di pietra era accresciuto dalla bianca nebbia,
+che pareva più fitta dentro il muro che fuori.  Non riuscivano a capir
+nulla del recinto sul quale erano in parte intrusi,
+tranne che i verdi e storti rami di un grande melo
+venivano strisciando verso di loro fuori dalla foschia, come i tentacoli
+di qualche verde seppia.  Qualunque cosa andava bene, tuttavia, purché
+potesse confondere la loro traccia, così entrambi decisero senza bisogno
+di parole di usare anche questo albero come scala--una scala di discesa.
+Quando si lasciarono cadere dal ramo più basso al suolo i loro piedi
+inguainati nelle calze sentirono sotto di sé una dura ghiaia.
+
+Erano atterrati nel mezzo di un vialetto assai largo di un [[Garden|giardino]], e la
+nebbia che si diradava permise loro di vedere l'orlo di un prato [[Well|ben]] rasato.
+Benché il bianco vapore fosse ancora un velo, era come il velo diafano
+di una scena di trasformazione in una pantomima; poiché attraverso di esso
+riardevano informi masse di colore, masse che potevano essere
+nubi d'aurora o mosaici d'oro e cremisi, o dame
+vestite di drappeggi di rubino e smeraldo.  Man mano che si assottigliava ancora
+di più videro che erano soltanto [[Flowers|fiori]]; ma [[Flowers|fiori]] in una tanto insolente
+massa e magnificenza quanto se ne può raramente vedere fuori dei tropici.
+Rododendri purpurei e cremisi [[Rose|si levavano]] arroganti, come rampanti
+[[Animals|animali]] araldici contro il loro ardente sfondo d'oro di maggiociondolo.
+Le rose erano rosse arroventate; la clematide era, per così dire, blu arroventata.
+Eppure il mero candore della siringa pareva il colore più violento
+di tutti.  Man mano che la dorata luce del sole gradualmente conquistava le brume,
+essa aveva davvero qualcosa della sensazionale dolcezza del lento aprirsi
+delle porte dell'Eden.  MacIan, la cui mente era sempre ossessionata da tali
+parallelismi serafici o [[titanic|titanici]], fece qualche osservazione del genere al compagno.
+Ma Turnbull si limitò a imprecare e disse che era il [[Garden|giardino]] sul retro
+di qualche dannato riccone.
+
+Quando l'ultima foschia si fu dissolta dai vialetti ordinati, dai prati aperti
+e dalle fiammeggianti aiuole, i due si resero conto, non senza un
+brusco riesame della propria posizione, di non essere [[Alone|soli]]
+nel [[Garden|giardino]].
+
+Giù per il centro del vialetto centrale del [[Garden|giardino]], preceduto da un'azzurra
+nuvola di sigaretta, camminava un gentiluomo che evidentemente
+comprendeva tutto il gusto di un [[Garden|giardino]] nel primissimo mattino.
+Era una figura snella eppure soddisfatta, vestita d'un abito di tweed grigio pallido,
+tanto smorzato che il disegno era impercettibile--un costume che era
+disinvolto ma per nulla trasandato.  Il suo volto, che era riflessivo
+e alquanto troppo raffinato, era il volto di un uomo del tutto anziano,
+benché i suoi capelli filamentosi e i baffi fossero ancora del tutto gialli.
+Un [[Double|doppio]] occhialino, con un largo nastro nero, pendeva dal
+suo naso aquilino, ed egli sorrideva, mentre conversava fra sé,
+con un [[Self|autocompiacimento]] che era raro e quasi irritante.
+Il panama di paglia sul suo capo era di molte tonalità più liso dei suoi abiti,
+come se lo avesse afferrato per caso.
+
+Ci volle tutto lo shock dell'enorme [[Shadow|ombra]] di MacIan, che cadeva attraverso
+il suo sentiero soleggiato, per riscuoterlo dalla sua sorridente fantasticheria.
+Quando questa gli fu caduta addosso egli sollevò un poco il capo
+e sbatté le palpebre verso gli intrusi con una benevolenza da miope,
+ma con assai meno sorpresa di quanto ci si sarebbe potuto aspettare.
+Era un gentiluomo; vale a dire, aveva presenza di spirito sociale,
+fosse per gentilezza o per insolenza.
+
+«Posso fare qualcosa per voi?» disse, alla fine.
+
 
 
 <span class="atom-split" data-atom="story_10_a_scandal_in_the_village--part_10" data-title="ball and cross — A Scandal in the Village (part 10)" data-chapter="A Scandal in the Village" data-kind="excerpt" data-tags="archetype/fool,archetype/lover,motif/cross,motif/dance,motif/garden,motif/grave,motif/moon,motif/stars,motif/well"></span>
@@ -15422,6 +19588,149 @@ the buttons of a fine frock-coat; but he was talking to himself,
 and one of his elbows had a singular outward jerk as he went by.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+MacIan s'inchinò.  "Potete concederci il vostro perdono", disse,
+perché anch'egli discendeva da un'intera stirpe di gentiluomini--di gentiluomini
+senza una camicia sulla schiena.  "Temo che stiamo violando la proprietà.
+Siamo appena venuti scavalcando il muro."
+
+"Scavalcando il muro?" ripeté il vecchio gentiluomo sorridente, senza però
+lasciare che la sorpresa prendesse il sopravvento.
+
+"Suppongo di non sbagliarmi, signore", proseguì MacIan, "nel supporre
+che questi terreni entro il muro appartengano a voi?"
+
+L'uomo dal panama guardò il suolo e fumò pensoso per
+qualche istante, dopodiché disse, con una sorta di convinzione maturata:
+
+"Sì, certamente; i terreni entro il muro appartengono davvero a me,
+e anche i terreni fuori dal muro."
+
+"Un grande proprietario, immagino", disse Turnbull, con occhio truce.
+
+"Sì", rispose il vecchio gentiluomo, guardandolo con un sorriso fermo.
+"Un grande proprietario."
+
+L'occhio di Turnbull si fece ancor più offensivo, ed egli cominciò a mordersi
+la barba rossa; ma MacIan parve riconoscere un tipo d'uomo con cui sapeva
+trattare, e proseguì con tutta disinvoltura:
+
+"Sono certo che un uomo come voi non avrà bisogno che gli si dica che si vedono
+e si fanno molte cose che non finiscono sui giornali.
+Cose che, tutto sommato, è meglio non finiscano sui giornali."
+
+Il sorriso del grande proprietario s'allargò per un istante sotto i baffi
+molli e chiari, e l'altro proseguì con maggiore sicurezza:
+
+"A volte si vuol regolare i conti con un altro uomo.  La polizia
+non lo permette per le strade--e poi c'è il Consiglio di Contea--
+e nei campi non è ammesso nulla se non i manifesti delle pillole.
+Ma nel [[Garden|giardino]] di un gentiluomo, ecco----"
+
+Lo strano gentiluomo sorrise di nuovo e disse, con abbastanza facilità:
+"Volete battervi?  E per che cosa volete battervi?"
+
+MacIan aveva capito il suo uomo abbastanza [[Well|bene]] fino a quel punto;
+un istinto comune a tutti gli uomini con la tradizione aristocratica
+d'Europa lo aveva guidato.  Sapeva che il genere d'uomo
+che nel proprio [[Garden|giardino]] sul retro porta abiti buoni e li rovina
+con un cattivo cappello non è il genere d'uomo che nutre un orrore astratto
+per le azioni illegali di violenza o per l'elusione della polizia.
+Ma un uomo può capire una scaramuccia e tuttavia essere ben lontano dal capire
+una scaramuccia religiosa.  Questo loro presunto ospite avrebbe forse compreso
+un litigio tra marito e [[Lover|amante]] o una difficoltà alle carte o perfino
+la fuga da un sarto all'inseguimento; ma restava comunque dubbio
+se avrebbe sentito la terra mancargli sotto i piedi in quell'istante
+di terremoto in cui la Vergine viene paragonata a una dea della Mesopotamia.
+Perfino MacIan, dunque (il cui tatto era ben lungi dall'essere il suo forte),
+sentì la necessità di qualche compromesso nel modo d'accostarsi.
+Alla fine disse, e anche allora con esitazione:
+
+"Ci battiamo a proposito di Dio; non vi può essere nulla di così importante."
+
+Le lenti inclinate del vecchio gentiluomo gli caddero di scatto dal naso,
+ed egli spinse il suo mento aristocratico tanto in avanti che il collo magro
+parve allungarsi come un cannocchiale.
+
+"A proposito di Dio?" domandò, in un tono del tutto nuovo.
+
+"Sentite un po'!" gridò Turnbull, prendendo la parola con rudezza, "ve lo dico io
+di che si tratta.  Io penso che Dio non esista.  Ritengo che non siano
+affari di nessuno tranne miei--o di Dio, se ne esiste uno.  A questo giovane
+gentiluomo delle Highlands capita di pensare che siano affari suoi.
+Di conseguenza, prima prende un bastone da passeggio e mi fracassa la bottega;
+poi prende lo stesso bastone e cerca di fracassare me.
+A ciò mi oppongo naturalmente.  Suggerisco che, se si arriva a tanto,
+si debba avere entrambi un bastone.  Egli perfeziona il suggerimento
+e propone che si abbia entrambi un bastone dalla punta d'acciaio.
+La polizia (con caratteristica irragionevolezza) non accetta
+nessuna delle nostre proposte; il risultato è che corriamo qua e là schivando
+la polizia e abbiamo scavalcato il muro del vostro [[Garden|giardino]] per gettarci
+nel vostro magnifico [[Garden|giardino]] e affidarci alla vostra magnifica ospitalità."
+
+Il volto del vecchio gentiluomo s'era fatto sempre più rosso durante
+questo discorso, ma sorrideva ancora; e quando proruppe, fu
+con una sorta di sghignazzo.
+
+"Dunque volete davvero battervi a spade sguainate nel mio [[Garden|giardino]]",
+chiese, "sulla questione se vi sia davvero un Dio?"
+
+"E perché no?" disse MacIan, con la sua semplice mostruosità di parola;
+"ogni culto dell'uomo cominciò quando fu fondato il [[Garden|giardino]] dell'Eden."
+
+"Sì, per----!" disse Turnbull, con una bestemmia, "e finì quando furono
+fondati i Giardini Zoologici."
+
+"In questo [[Garden|giardino]]!  Alla mia presenza!" gridò lo sconosciuto,
+pestando i piedi su e giù sulla ghiaia e soffocando dalle risa,
+"se vi sia un Dio!"  E se ne andava pestando i piedi su e giù
+per il [[Garden|giardino]], facendolo echeggiare della sua risata incomprensibile.
+Poi tornò da loro più composto, asciugandosi gli occhi.
+
+"Ma quanto è piccolo il mondo!" gridò infine.  "Posso risolvere
+l'intera faccenda.  Ma come, io sono Dio!"
+
+E all'improvviso prese a scalciare e ad agitare le gambe [[Well|ben]]
+vestite sul prato.
+
+"Voi siete cosa?" ripeté Turnbull, in un tono che è al di là di ogni descrizione.
+
+"Ma come, Dio, naturalmente!" rispose l'altro, del tutto divertito.
+"Che buffo pensare che abbiate ruzzolato oltre il muro d'un [[Garden|giardino]]
+e siate caduti proprio sulla persona giusta!  Avreste potuto arrancare
+in ogni sorta di chiese e cappelle e collegi e scuole
+di [[philosophy|filosofia]] in cerca di qualche prova dell'esistenza di Dio.
+Ebbene, non c'è prova alcuna, se non il vederlo.  E ora l'avete visto.
+L'avete visto [[Dance|danzare]]!"
+
+E l'accondiscendente vecchio gentiluomo si mise all'istante su una gamba sola senza
+allentare minimamente la [[Grave|grave]] e colta benevolenza della sua espressione.
+
+"Avevo capito che questo [[Garden|giardino]]----" cominciò il perplesso MacIan.
+
+"Proprio così!  Proprio così!" disse l'uomo su una gamba sola, annuendo gravemente.
+"Ho detto che questo [[Garden|giardino]] apparteneva a me, e così la terra al di fuori.
+E infatti è così.  E così anche il paese al di là, e il mare
+al di là ancora, e tutto il resto della terra.  E così la [[Moon|luna]].
+E così il sole e le [[Stars|stelle]]."  E aggiunse, con un sorriso di scusa:
+"Vedete, io sono Dio."
+
+Turnbull e MacIan lo guardarono per un istante con la vaga idea
+che forse non fosse troppo vecchio per fare semplicemente lo [[Fool|sciocco]].
+Ma dopo aver fissato con fermezza per un attimo, Turnbull scorse la dura
+e orribile serietà negli occhi dell'uomo dietro tutta la sua
+vuota animazione.  Poi Turnbull guardò con molta gravità i severi
+muri di ghiaia e le allegre aiuole fiorite e il lungo edificio rettangolare
+di mattoni rossi, che la nebbia aveva lasciato evidente al di là di essi.
+Poi guardò MacIan.
+
+Quasi nello stesso momento un altro uomo venne camminando in fretta attorno al regale
+cespuglio di rododendri.  Aveva l'aspetto di un prospero banchiere,
+portava un buon cilindro di seta, era quasi tanto corpulento da far scoppiare
+i bottoni di una bella finanziera; ma parlava tra sé,
+e uno dei suoi gomiti aveva un singolare scatto verso l'esterno mentre passava.
+
 
 
 <span class="atom-split" data-atom="story_11_a_museum_of_souls--part_01" data-title="ball and cross — A Museum of Souls (part 1)" data-chapter="A Museum of Souls" data-kind="excerpt" data-tags="archetype/king,motif/cross,motif/flowers,motif/garden,motif/grave,motif/leaves,motif/rose,motif/ship,motif/well,motif/wind,concept/beauty,concept/deception,concept/humility,concept/madness,concept/self,form/novel,setting/ship"></span>
@@ -15548,6 +19857,129 @@ brow and said in a voice much saner than any he had yet used:
 "[[Well]], if you dislike my assistance, of course--perhaps the
 other gentleman----"
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+XIV.  UN MUSEO DI ANIME
+
+L'uomo dal buon cappello e dal gomito sussultante passò molto in fretta;
+eppure l'uomo dal cattivo cappello, che si credeva Dio, lo raggiunse.
+Gli corse dietro e saltò oltre un'aiuola di gerani per acciuffarlo.
+
+"Chiedo perdono a Vostra Maestà", disse, con finta [[Humility|umiltà]],
+"ma ecco una lite che dovreste davvero giudicare voi."
+
+Poi, mentre riconduceva verso il gruppo l'uomo pesante dal cilindro di seta,
+afferrò l'orecchio di MacIan per sussurrargli:  "Questo povero gentiluomo è pazzo;
+si crede Edoardo VII."  A ciò il [[Self|sé]] proclamatosi Creatore
+ammiccò lievemente.  "Naturalmente non vi fiderete troppo di lui; rivolgetevi a me
+per ogni cosa.  Ma nella mia posizione si deve incontrare tanta gente.
+Bisogna avere ampie vedute."
+
+Il grosso banchiere in finanziera e cilindro neri se ne stava tutto [[Grave|grave]]
+e dignitoso sul prato, salvo per il lieve tremolio di un arto,
+e non pareva affatto indegno della parte che l'altro
+gli imponeva prontamente.
+
+"Mio caro amico", disse l'uomo dal cappello di paglia, "questi due
+gentiluomini stanno per battersi in un duello della massima importanza.
+La vostra regale posizione e la mia assai più umile ci indicano di certo
+come i padrini appropriati.  Padrini--sì, padrini----" e qui
+l'oratore fu di nuovo scosso dal suo vecchio male della risata.
+
+"Sì, voi ed io siamo entrambi padrini--e questi due gentiluomini possono
+ovviamente battersi davanti a noi.  Voi, eh-eh, siete il [[King|re]].
+Io sono Dio; davvero, non avrebbero potuto avere sostenitori migliori.
+Sono capitati nel posto giusto."
+
+Allora Turnbull, che aveva fissato con un cipiglio la fresca zolla erbosa,
+proruppe in una risata piuttosto amara e gridò, buttando la sua rossa
+testa all'aria:
+
+"Sì, per Dio, MacIan, credo che siamo capitati nel posto giusto!"
+E MacIan rispose, con adamantina stupidità:
+
+"Ogni posto è quello giusto, purché ci lascino farlo."
+
+Vi fu una lunga immobilità, e i loro occhi involontariamente colsero
+il paesaggio, come avevano colto tutti i paesaggi del loro
+eterno combattimento; il luminoso, quadrato [[Garden|giardino]] dietro la bottega;
+tutto lo slancio e il declivio del fianco di Hampstead Heath; il piccolo
+[[Garden|giardino]] del decadente soffocato di [[Flowers|fiori]]; il quadrato di sabbia
+in riva al mare all'alba.  Entrambi sentirono nello stesso istante tutta
+l'ampiezza e la fiorente [[Beauty|bellezza]] di quel paradiso, gli alberi colorati,
+i cantucci naturali e riposanti e anche il gran muro di pietra--
+più tremendo del muro della Cina--da cui nessuna carne poteva fuggire.
+
+Turnbull soppesava cupamente la [[Sword|spada]] in mano mentre l'altro parlava;
+poi trasalì, perché una bocca sussurrò vicinissima al suo orecchio.
+Con una morbidezza incredibile in qualsiasi gatto, l'enorme, pesante uomo dal
+cilindro nero e dalla finanziera aveva strisciato attraverso il prato dal proprio lato
+e gli stava dicendo all'orecchio:  "Non fidatevi di quel vostro padrino.
+È pazzo e non così pazzo, poi; perché è spaventosamente astuto e sagace.
+Non credete alla storia che vi racconta sul perché lo odio.
+Conosco la storia che vi racconterà; l'ho sentita per caso quando la governante
+parlava col postino.  È troppo lunga da raccontare ora,
+e credo che ci sorveglino, ma----"
+
+Qualcosa in Turnbull lo fece all'improvviso desiderare di vomitare sull'erba;
+il puro, sano e pagano orrore dell'impuro; il puro, disumano
+odio dello stato disumano della [[Madness|follia]].  Gli parve di udire tutt'intorno
+a sé gli odiosi sussurri di quel luogo, innumerevoli come [[Leaves|foglie]]
+sussurranti al [[Wind|vento]], e ciascuno di essi che raccontava con avidità qualche male
+non accaduto o qualche terrificante segreto che non era vero.
+Tutto il razionalista e l'uomo comune in lui si rivoltavano contro l'inchinarsi
+anche per un istante in quella foresta di [[Deception|inganno]] e tenebra egoista.
+Voleva far saltare in aria quel palazzo di illusioni con la dinamite;
+e, in qualche modo selvaggio, che non intendo difendere, tentò di farlo.
+
+Guardò dall'altra parte verso MacIan e disse:  "Oh, non lo sopporto!"
+
+"Non sopporti cosa?" chiese l'avversario, squadrandolo dubbioso.
+
+"Diciamo l'atmosfera?" rispose Turnbull; "non si possono usare
+espressioni scortesi neppure con una--divinità.  Il fatto è che non mi va
+di avere Dio per padrino."
+
+"Signore!" disse quell'essere in stato di grande offesa, "nella mia posizione
+non sono abituato a vedermi rifiutare i favori.  Sapete chi sono io?"
+
+Il direttore de _L'Ateo_ si volse verso di lui come chi ha perduto
+ogni pazienza, ed esplose:  "Sì, voi siete Dio, non è così?"
+disse, di scatto, "perché mai abbiamo due dentature?"
+
+"Denti?" farfugliò il gentile lunatico; "denti?"
+
+"Sì", gridò Turnbull, avanzando su di lui rapidamente e con gesti
+animati, "perché fa male mettere i denti?  Perché fanno male i dolori della crescita?
+Perché il morbillo è contagioso?  Perché una [[Rose|rosa]] ha le spine?
+Perché i rinoceronti hanno il corno?  Perché il corno sta in cima al naso?
+Perché io non ho un corno in cima al naso, eh?"  E si batté
+il dorso del naso con energia con l'indice per indicare
+il luogo dell'omissione, poi agitò il dito minacciosamente
+verso il Creatore.
+
+"Ho spesso desiderato incontrarvi", riprese, severo, dopo una pausa,
+"per chiamarvi a rendere conto di tutta l'idiozia e la crudeltà di questo confuso
+e insensato mondo vostro.  Fate cento semi e uno solo
+porta frutto.  Fate un milione di mondi e uno solo pare abitato.
+Che cosa intendete con ciò, eh?  Che cosa intendete con ciò?"
+
+L'infelice lunatico era indietreggiato davanti a questa forma d'attacco
+del tutto [[Novel|inedita]], e sollevò la sigaretta spenta quasi come chi para
+un colpo.  Turnbull continuava come un torrente.
+
+"Un uomo è morto ieri a Ealing.  L'avete assassinato voi.
+Una ragazza ha avuto il mal di denti a Croydon.  Gliel'avete dato voi.
+Cinquanta marinai sono annegati al largo di Selsey Bill.  Avete affondato la loro [[Ship|nave]].
+Che cosa avete da dire a vostra discolpa, eh?"
+
+Il rappresentante dell'onnipotenza aveva l'aria di chi aveva lasciato la gran parte
+di queste cose ai suoi subalterni; si passò una mano sulla fronte
+corrugata e disse con voce assai più sana di ogni altra usata fin lì:
+
+"[[Well|Beh]], se la mia assistenza vi dispiace, certo--forse l'altro
+gentiluomo----"
 
 
 
@@ -15686,6 +20118,140 @@ have been fathers of families, and every one of them thinks he is
 God the Father.  Oh! you may talk about the ugliness of science,
 but there is no one here who thinks he is Protoplasm."
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+"L'altro gentiluomo", gridò Turnbull, con disprezzo, "è un
+gentiluomo remissivo e leale e obbediente.  Gli piace
+la gente che porta corone, siano di diamanti o di [[Stars|stelle]].
+Crede nel diritto divino dei re, ed è del tutto appropriato
+che egli abbia il [[King|re]] per padrino.  Ma non è
+appropriato per me avere Dio per padrino.
+Dio non è abbastanza buono.  Detesto e nego il diritto divino dei re.
+Ma detesto di più e nego di più il diritto divino della divinità."
+
+Poi, dopo una pausa in cui ingoiò la sua collera, disse
+a MacIan:  "Comunque tu il padrino giusto ce l'hai."
+
+Il montanaro non rispose, ma rimase come fulminato
+da un unico, lungo e pesante pensiero.  Poi alla fine si volse di scatto
+al suo padrino dal cilindro di seta e disse:  "Chi siete voi?"
+
+L'uomo dal cilindro di seta batté le palpebre e s'impennò in finta sorpresa,
+come chi in [[Truth|verità]] era abituato a essere messo in dubbio.
+
+"Sono [[King|Re]] Edoardo VII", disse, con traballante arroganza.
+"[[Doubt|Dubitate]] della mia parola?"
+
+"Non ne [[Doubt|dubito]] minimamente", rispose MacIan.
+
+"E allora perché", disse il grosso uomo dal cilindro di seta, tremando da capo
+a piedi, "perché tenete il cappello in testa davanti al [[King|re]]?"
+
+"E perché dovrei toglierlo", ribatté MacIan, con pari ardore,
+"davanti a un [[Usurper|usurpatore]]?"
+
+Turnbull si girò sui tacchi.  "[[Well|Beh]], davvero", disse,
+"pensavo che almeno tu fossi un suddito leale."
+
+"Sono l'unico suddito leale", rispose il gaelico.  "Per quasi trent'anni
+ho percorso queste isole e non ne ho trovato un altro."
+
+"Sei sempre difficile da seguire", osservò Turnbull, bonariamente,
+"e a volte tanto da non valere quasi la pena di seguirti."
+
+"Io [[Alone|solo]] sono leale", insisté MacIan; "perché io [[Alone|solo]] sono in ribellione.
+Sono pronto a ogni istante a restaurare gli Stuart.  Sono pronto a ogni
+istante a sfidare la stirpe hannoveriana--e la sfido ora perfino faccia
+a faccia con l'effettivo sovrano dell'enorme Impero Britannico!"
+
+E incrociando le braccia e gettando indietro il magro volto da falco,
+affrontò altezzosamente l'uomo dalla finanziera formale e
+dal gomito eccentrico.
+
+"Che diritto avevate voi, tozzi cavalieri tedeschi", gridò, "d'immischiarvi
+in una lite tra gentiluomini scozzesi e inglesi e irlandesi?
+Chi ha fatto di voi, i cui padri non sapevano biascicare l'inglese mentre
+passeggiavano a Whitehall, chi ha fatto di voi il giudice fra la repubblica
+di Sidney e la monarchia di Montrose?  Che avevano da spartire i vostri avi
+con l'Inghilterra, per meritare l'immonda offerta del [[Blood|sangue]]
+di Derwentwater e del cuore di Jimmy Dawson?  Dove sono i cadaveri
+di Culloden?  Dov'è il [[Blood|sangue]] di Lochiel?"  MacIan avanzò
+sul suo avversario con un dito ossuto e puntato, come a indicare
+la tasca esatta in cui era probabilmente custodito il [[Blood|sangue]] di quel Cameron;
+ed Edoardo VII arretrò di qualche passo in notevole confusione.
+
+"Che bene ci avete mai fatto?" proseguì in accenti sempre
+più aspri, respingendo l'altro verso le aiuole fiorite.
+"Che bene avete mai fatto, voi razza di salsicce tedesche?  Metri di
+etichetta barbarica, per strozzare la [[Freedom|libertà]] dell'aristocrazia!  Gas di
+metafisica nordica per gonfiare come palloni i vescovi della Chiesa Larga.
+Brutti quadri e brutte maniere e panteismo e l'Albert Memorial.
+Tornate ad Hannover, impostori!  Andate al----"
+
+Prima della fine di questa tirata l'arroganza del monarca aveva
+del tutto ceduto; s'era addirittura voltato e si allontanava
+rotolando giù per il sentiero.  MacIan gli marciò dietro ancora predicando
+e agitando le sue grandi, magre mani.  Gli altri due rimasero
+al centro del prato--Turnbull in convulsioni di risa,
+il lunatico in convulsioni di disgusto.  Quasi nello stesso momento
+una terza figura venne avanti a passo svelto attraverso il prato.
+
+La figura che avanzava camminava curva, eppure in qualche modo protendeva
+in avanti la barba biforcuta e stretta.  Quella barba gialla accuratamente
+tagliata e appuntita era, in verità, la cosa più marcata di lui.
+Quando congiungeva le mani dietro la schiena, sotto le falde della giacca,
+agitava la barba contro un uomo come un grosso indice.
+Essa compiva quasi tutti i suoi gesti; era più importante
+degli scintillanti occhiali attraverso cui guardava o della bella
+voce belante con cui parlava.  Il volto e il collo erano di un
+rosso gagliardo, ma magri e fibrosi; portava sempre i suoi costosi
+occhiali dalla montatura d'oro un po' storti sul naso aquilino;
+e mostrava sempre due lucenti incisivi sotto i baffi,
+in un sorriso così perpetuo da guadagnargli la fama di ghigno.
+Se non fosse stato per gli occhiali storti, il suo abbigliamento era sempre squisito;
+e se non fosse stato per il sorriso, era perfettamente e perennemente depresso.
+
+"Non pensate", disse il nuovo venuto, con una sorta di
+sdegnosa supplica, "che faremmo meglio a entrare tutti a colazione?
+È un tale errore aspettare per la colazione.  Guasta talmente
+l'umore."
+
+"Proprio così", rispose Turnbull, con serietà.
+
+"Pare quasi che qui ci sia stato un piccolo litigio",
+disse l'uomo dalla barba caprina.
+
+"È una storia piuttosto lunga", disse Turnbull, sorridendo.  "In origine, la
+si potrebbe chiamare una fase nella lite tra scienza e religione."
+
+Il nuovo venuto trasalì lievemente, e Turnbull rispose alla domanda
+sul suo volto.
+
+"Oh, sì", disse, "io sono la scienza!"
+
+"Mi congratulo di cuore", rispose l'altro, "io sono il dottor Quayle."
+
+Gli occhi di Turnbull non si mossero, ma egli si accorse che l'uomo dal panama
+aveva perduto tutta la sua disinvoltura di proprietario terriero e si era ritirato
+a una distanza di trenta iarde, dove stava fulminando con tutta
+la contrazione di [[Fear|paura]] e odio che può irrigidire un gatto.
+
+* * *
+
+MacIan sedeva alquanto sconsolato su un ceppo d'albero,
+la grande testa nera per metà sepolta nelle grandi mani brune,
+quando Turnbull gli si avvicinò a grandi passi masticando una sigaretta.  Non alzò lo sguardo,
+ma il suo compagno e nemico lo apostrofò come chi deve liberarsi
+dei propri sentimenti.
+
+"[[Well|Beh]], [[Hope|spero]], in ogni caso", disse, "che ora ti piaccia la tua preziosa
+religione.  [[Hope|Spero]] ti piaccia la compagnia di questo povero diavolo che
+i tuoi maledetti opuscoli e inni e preti hanno fatto uscire di senno.
+Cinque uomini in questo posto, mi dicono, cinque uomini in questo posto che avrebbero
+potuto essere padri di famiglia, e ciascuno di loro si crede
+Dio Padre.  Oh! puoi pure parlare della bruttezza della scienza,
+ma qui non c'è nessuno che si creda Protoplasma."
 
 
 
@@ -15831,6 +20397,147 @@ to a jail, where we mayn't. No, if we manage this very quietly,
 he may merely let us out at the front door as stray revellers.
 If there's half an hour of inquiry, we are cooked."
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+"È naturale che preferiscano una parte brillante", disse MacIan, stancamente.
+"Il Protoplasma non vale la pena d'impazzirci."
+
+"Almeno", disse Turnbull, ferocemente, "fu il tuo Gesù [[Christ|Cristo]]
+a dare inizio a tutta questa sciocchezza dell'essere Dio."
+
+Per un istante MacIan aprì gli occhi della battaglia; poi le sue labbra serrate
+presero un sorriso storto ed egli disse, con tutta calma:
+
+"No, l'idea è più antica; fu [[Satan|Satana]] il primo a dire di essere Dio."
+
+"E allora qual è", chiese Turnbull, assai lentamente, mentre coglieva pian piano un fiore,
+"qual è la differenza tra [[Christ|Cristo]] e [[Satan|Satana]]?"
+
+"È molto semplice", rispose il montanaro.  "[[Christ|Cristo]] discese
+nell'inferno; [[Satan|Satana]] vi cadde dentro."
+
+"Fa poi tanta differenza?" chiese il libero pensatore.
+
+"Fa tutta la differenza", disse l'altro.  "Uno di loro voleva
+salire e discese; l'altro voleva scendere e salì.
+Un dio può umiliarsi, un diavolo può soltanto essere umiliato."
+
+"Perché vuoi sempre umiliare un uomo?" chiese Turnbull,
+aggrottando le sopracciglia.  "Mi pare poco generoso."
+
+"E perché volevi umiliare un dio quando lo hai trovato in
+questo [[Garden|giardino]]?" chiese MacIan.
+
+"Quello era un caso estremo di impudenza", disse Turnbull.
+
+"Ammesse all'uomo le sue pretese onnipotenti, io penso che fosse molto modesto",
+disse MacIan.  "Siamo noi a essere arroganti, noi che sappiamo di essere solo uomini.
+L'uomo comune della strada è più un [[Monster|mostro]] di quel
+poveretto; perché l'uomo della strada tratta se stesso come Dio Onnipotente
+pur sapendo di non esserlo.  Si aspetta che l'universo gli giri intorno,
+pur sapendo di non esserne il centro."
+
+"[[Well|Beh]]", disse Turnbull, sedendosi sull'erba, "questa è comunque
+una digressione.  Ciò che voglio far notare è che la tua [[Faith|fede]]
+finisce sì nei manicomi, e la mia scienza no."
+
+"Non ci finisce, per Giorgio!" gridò MacIan, con disprezzo.  "Ci sono alcuni
+uomini qui che sono pazzi di Dio e alcuni che sono pazzi della [[Bible|Bibbia]].
+Ma scommetto che ce ne sono molti di più che sono semplicemente pazzi di [[Madness|follia]]."
+
+"Lo credi davvero?" chiese l'altro.
+
+"A decine, direi", rispose MacIan.  "Tizi che hanno
+letto libri di medicina o tizi i cui padri e zii avevano qualcosa
+di ereditario nella testa--l'aria stessa che respirano è folle."
+
+"Ciò nonostante", disse Turnbull, con acume, "scommetto che non hai trovato
+un pazzo di quella sorta."
+
+"Scommetto di sì!" gridò Evan, con insolita animazione.  "Ho passato
+la mattinata a passeggiare per il [[Garden|giardino]] parlando con un pover'uomo.
+È stato semplicemente distrutto e ridotto a delirare dalla tua maledetta scienza.
+Parla pure del credersi Dio--ma è una fantasia vecchia, comoda,
+da cantuccio del focolare, in confronto al genere di cose che quest'uomo crede.
+Egli crede che ci sia un Dio, ma che lui sia migliore di Dio.
+Dice che Dio avrà paura d'affrontarlo.  Dice che si progredisce
+sempre oltre il meglio.  Mi mise il braccio sotto il mio e sussurrò
+al mio orecchio, come se fosse l'[[Apocalypse|apocalisse]]:  'Non fidarti mai di un Dio che
+non riesci a migliorare.'"
+
+"Che cosa può aver voluto dire?" chiese l'ateo, con tutta la sua [[logic|logica]] sveglia.
+"È ovvio che non ci si dovrebbe fidare di alcun Dio che si possa migliorare."
+
+"È il suo modo di parlare", disse MacIan, quasi con indifferenza;
+"ma dice cose ancor più strampalate.  Dice che il medico di un uomo
+dovrebbe decidere quale donna egli sposi; e dice che i figli
+non dovrebbero essere allevati dai genitori, perché una parzialità
+fisica finirebbe poi per distorcere il giudizio dell'educatore."
+
+"Oh, povero me!" disse Turnbull, ridendo, "hai certamente incontrato
+un bel caso disperato, e per giunta hai provato il tuo.
+Suppongo che qualche uomo perda davvero il senno per la scienza come per
+l'[[Love|amore]] e altre cose buone."
+
+"E dice", proseguì MacIan, monotono, "che non riesce a capire
+perché mai si debba supporre che un triangolo sia una figura a tre lati.
+Dice che su un piano superiore----"
+
+Turnbull balzò in piedi come per una scossa elettrica.  "Non avrei mai
+potuto credere", gridò, "che tu avessi abbastanza [[Humour|umorismo]] da dire una bugia.
+Ti sei spinto un po' troppo oltre, vecchio mio, con questo tuo scherzetto.
+Neppure in un manicomio ci può essere qualcuno che, dopo aver riflettuto
+sulla questione, pensi che un triangolo non abbia tre lati.
+Se esiste, dev'essere una nuova era nella psicologia umana.
+Ma non esiste."
+
+"Andrò a prenderlo", disse MacIan, con calma; "ho lasciato il pover'uomo
+a girovagare intorno all'aiuola dei nasturzi."
+
+MacIan scomparve, e dopo pochi istanti tornò, trascinandosi
+dietro la sua scoperta tra i lunatici, che era un uomo
+snello dal sorriso fisso e dalla testa non fissa e [[rolling|ondeggiante]].
+Aveva una barbetta caprina lunga giusto quanto bastava per essere scossa da un forte [[Wind|vento]].
+Turnbull scattò in piedi e fu come chi resta senza parola
+per aver soffocato un improvviso scoppio di risa.
+
+"Ma, grande [[donkey|asino]]", tuonò, in un sussurro assordante,
+"quello non è affatto uno dei pazienti.  Quello è uno dei medici."
+
+Evan ricambiò lo sguardo alla testa sogghignante dalla lunga barba a punta
+e ripeté la parola con aria interrogativa:  "Uno dei medici?"
+
+"Oh, sai cosa intendo", disse Turnbull, spazientito.  "Le autorità
+mediche del posto."
+
+Evan stava ancora fissando incuriosito la raggiante e barbuta
+creatura alle sue spalle.
+
+"I medici dei pazzi", disse Turnbull, seccamente.
+
+"Proprio così", disse MacIan.
+
+Dopo un [[Silence|silenzio]] piuttosto inquieto, Turnbull afferrò MacIan per il gomito
+e lo tirò da parte.
+
+"Per l'amor del cielo", disse, "non offendere questo tizio; potrà anche essere matto
+come dieci cappellai, se vuoi, ma ci tiene tra pollice e indice.
+Questo è proprio il [[Time|momento]] che aveva fissato per parlarci del nostro--
+[[Well|beh]], del nostro permesso d'uscita."
+
+"Ma che importanza può avere?" chiese lo stupito MacIan.
+"Non può tenerci nel manicomio.  Non siamo pazzi."
+
+"Testone!" disse Turnbull, di cuore, "certo che non siamo pazzi.
+Certo, se ci fanno una visita medica e la cosa viene sviscerata,
+scopriranno che non siamo pazzi.  Ma non vedi che, se
+la cosa viene sviscerata, significherà lettere a questa referenza
+e telegrammi a quell'altra; e alla prima parola su chi siamo,
+verremo tolti da un manicomio, dove si può fumare,
+per finire in una prigione, dove non si può.  No, se gestiamo la faccenda con molta calma,
+egli potrebbe semplicemente lasciarci uscire dalla porta principale come festaioli di passaggio.
+Se c'è mezz'ora d'indagine, siamo cotti."
 
 
 
@@ -16011,6 +20718,181 @@ Evan gazed at the [[Garden|garden]] wall, gravely for more than a minute,
 and then he nodded without a word.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+MacIan guardò l'erba corrucciato per qualche secondo, poi
+disse con voce nuova, sommessa e infantile:  "Sono terribilmente stupido,
+signor Turnbull; dovete avere pazienza con me."
+
+Turnbull afferrò di nuovo il gomito di Evan con tutt'altro gesto.
+"Vieni", gridò, con la voce aspra di chi nasconde l'emozione,
+"vieni, mostriamoci pieni di tatto in [[Chorus|coro]]."
+
+Il medico dalla barba a punta la stava già inclinando
+in avanti a un angolo più acuto del solito, con il sorriso
+che esprimeva attesa.
+
+"[[Hope|Spero]] di non mettervi fretta, signori", disse, con la più tenue
+sfumatura di scherno per la loro affrettata consultazione, "ma credo
+che desideraste vedermi alle undici e mezza."
+
+"Sono terribilmente spiacente, dottore", disse Turnbull, con pronta amabilità;
+"non intendevo affatto farvi aspettare; ma lo sciocco incidente che ci
+ha fatti finire nel vostro [[Garden|giardino]] potrebbe avere conseguenze
+piuttosto gravi per i nostri amici altrove, e il mio amico qui stava proprio richiamando
+la mia attenzione su alcune di esse."
+
+"Proprio così!  Proprio così!" disse il medico, in fretta.  "Se davvero
+volete esporre qualcosa, posso concedervi qualche momento
+nel mio studio."
+
+Li condusse rapidamente in un piccolo ma imponente appartamento, che pareva
+costruito e ammobiliato interamente in legno verniciato di rosso.
+C'era una scrivania occupata da carte accuratamente etichettate; e c'erano
+diverse sedie di legno verniciato di rosso--benché di forma diversa.
+Lungo tutta la parete correva qualcosa che poteva sembrare una libreria,
+solo che non era piena di libri, bensì di lastre piatte,
+oblunghe, o custodie della medesima lucida consistenza rosso scuro.
+Che cosa fossero quelle custodie di legno piatte, non riuscivano a immaginarlo.
+
+Il medico si sedette con cortese impazienza sul suo trespolo professionale;
+MacIan rimase in piedi, ma Turnbull si gettò quasi con
+voluttà in una dura poltrona di legno.
+
+"È una faccenda assurdissima, dottore", disse, "e mi vergogno di
+sottrarre [[Time|tempo]] a occupatissimi professionisti con simili scherzi venuti da fuori.
+Il fatto puro e semplice è che io e lui e un branco di sciocchi uomini e ragazze abbiamo
+organizzato un gioco per questa parte della campagna--una specie di combinazione
+di lepre e cani e nascondino--immagino ne abbiate sentito parlare.
+Noi siamo le lepri e, vedendo il vostro alto muro parere così invitante,
+lo scavalcammo ruzzolando, e naturalmente ci spaventammo un poco per ciò che
+trovammo dall'altra parte."
+
+"Proprio così!" disse il medico, con dolcezza.  "Capisco che
+vi siate spaventati."
+
+Turnbull s'era aspettato che egli chiedesse quale luogo fosse il quartier generale
+del nuovo e stimolante gioco, e chi fossero gli appassionati, maschi e femmine,
+che l'avevano portato a tale perfezione; anzi,
+Turnbull era intento a inventarsi questi particolari personali e topografici.
+Poiché il medico non pose la domanda, egli si fece lievemente inquieto,
+e azzardò la domanda:  "[[Hope|Spero]] accetterete la mia assicurazione
+che la cosa è stata un incidente e che non s'intendeva alcuna intrusione."
+
+"Oh, sì, signore", rispose il medico, sorridendo, "accetto tutto
+ciò che dite."
+
+"In tal caso", disse Turnbull, alzandosi con cordialità, "non dobbiamo interrompere
+oltre i vostri importanti doveri.  Suppongo che ci sarà qualcuno
+per farci uscire?"
+
+"No", disse il medico, sorridendo ancora fermo e cortese,
+"non ci sarà nessuno per farvi uscire."
+
+"Possiamo allora uscire da soli?" chiese Turnbull, con una certa sorpresa.
+
+"Ma no, certo che no", disse lo scienziato raggiante; "pensate quanto sarebbe
+pericoloso in un luogo come questo."
+
+"E allora come diavolo dobbiamo uscire?" gridò Turnbull, perdendo le
+buone maniere per la prima [[Time|volta]].
+
+"È una questione di [[Time|tempo]], di ricettività e di trattamento",
+disse il medico, inarcando le sopracciglia con indifferenza.
+"Non considero incurabile nessuno dei vostri due casi."
+
+E a ciò l'uomo di mondo restò ammutolito, e, come in tutti
+i momenti intollerabili, la parola spettò a chi era estraneo al mondo.
+
+MacIan fece un passo verso il tavolo, vi si sporse sopra, e disse:
+"Non possiamo restare qui, non siamo pazzi!"
+
+"Non usiamo l'espressione cruda", disse il medico, sorridendo ai
+suoi stivali di vernice.
+
+"Ma non _potete_ crederci pazzi", tuonò MacIan.  "Non ci avete mai visti
+prima.  Non sapete nulla di noi.  Non ci avete neppure esaminati."
+
+Il medico gettò all'indietro la testa e la barba.  "Oh, sì", disse,
+"molto accuratamente."
+
+"Ma non potete rinchiudere un uomo sulle vostre semplici impressioni, senza
+documenti o certificati o alcunché?"
+
+Il medico si alzò languidamente in piedi.  "Proprio così", disse.
+"Dovreste senz'altro vedere i documenti."
+
+Attraversò verso le curiose finte scaffalature e ne trasse
+una delle piatte custodie di mogano.  La aprì con una curiosa
+chiave alla catena dell'orologio e, ripiegando all'indietro un lembo, rivelò una risma
+di carta protocollo coperta di una scrittura fitta ma del tutto chiara.
+Le prime tre parole erano vergate in caratteri da quaderno di calligrafia così grandi da
+attirare l'occhio anche a distanza.  Erano:  "MacIan, Evan Stuart."
+
+Evan chinò il suo adirato volto d'aquila su di esse; eppure qualcosa le offuscava
+ed egli non avrebbe mai potuto giurare di averle viste distintamente.  Vide qualcosa
+che cominciava:  "Influenze prenatali predisponenti alla mania.
+Il nonno credeva nel ritorno degli Stuart.  La madre portava un
+osso di sant'Eulalia con cui toccava i figli nelle malattie.
+Marcata mania religiosa in tenera età----"
+
+Evan si ritrasse e lottò per ritrovare la parola.  "Oh!" proruppe alla fine.
+"Oh! se solo tutto questo mondo in cui ho camminato fosse stato tanto sano quanto
+lo era mia madre."
+
+Poi si comprimeva le tempie con le mani, come per schiacciarle.
+E poi sollevò all'improvviso un volto che appariva fresco e giovane,
+come se lo avesse immerso e lavato in qualche santo [[Well|pozzo]].
+
+"Molto [[Well|bene]]", gridò; "prenderò l'aspro col dolce.
+Pagherò la pena d'aver goduto di Dio in questa
+mostruosa terra moderna che non sa godere né dell'uomo né della bestia.
+Morirò felice nel vostro manicomio, solo perché so ciò che so.
+Sia concesso, dunque--MacIan è un mistico; MacIan è un maniaco.
+Ma questo onesto bottegaio e direttore che ho trascinato nelle mie
+disumane scorribande, lui non potete trattenerlo.  Uscirà libero, grazie a Dio,
+lui non è annotato in nessun maledetto documento.  Il suo avo, ne sono certo,
+non morì a Culloden.  Sua madre, lo giuro, non aveva reliquie.
+Lasciate uscire il mio amico dalla vostra porta principale, e quanto a me----"
+
+Il medico era già andato verso gli scaffali carichi e, dopo
+qualche minuto di miope scrutinio, aveva tirato giù un altro
+parallelogramma di legno rosso scuro.
+
+Anche questo aprì sul tavolo e, con lo stesso infallibile
+occhio egoista, uno della compagnia scorse le parole, scritte a
+grandi lettere:  "Turnbull, James."
+
+Fino ad allora Turnbull stesso aveva alquanto sdegnosamente rinunciato alla sua parte
+in tutta la faccenda; ma era troppo onesto e schietto per non trasalire
+al proprio nome.  Dopo il nome, l'[[Inscription|iscrizione]] pareva proseguire:
+"Caso unico di Eleuteromania.  Genealogia, come tanto spesso in simili casi,
+prosaica e sana.  I segni eleuteromaniaci comparvero però presto,
+inducendolo a legarsi all'individualista Bradlaugh.
+Recente esplosione di pura anarchia----"
+
+Turnbull richiuse di scatto la custodia, quasi frantumandola, e disse con uno scoppio
+di feroce risata:  "Oh! andiamo, MacIan; non m'importa poi tanto,
+neppure d'uscire dal manicomio, purché usciamo da
+questa stanza.  Avevi ragione, MacIan, quando parlavi dei--
+dei medici dei pazzi."
+
+In qualche modo si ritrovarono fuori nel fresco, verde [[Garden|giardino]],
+e poi, dopo un [[Silence|silenzio]] sbigottito, Turnbull disse:  "C'è una
+cosa che mi ha lasciato perplesso per tutto il [[Time|tempo]], e ora la capisco."
+
+"Che cosa vuoi dire?" chiese Evan.
+
+"Nessun uomo con la volontà o con l'ingegno", rispose Turnbull, "può uscire da questo [[Garden|giardino]];
+eppure noi vi entrammo semplicemente scavalcando un muro di [[Garden|giardino]].
+Tutta la faccenda si spiega abbastanza facilmente.  Quel muro indifeso
+era una trappola aperta.  Era una trappola tesa per due celebri lunatici.
+Ci videro entrare senza fallo.  E baderanno che non
+usciamo."
+
+Evan fissò il muro del [[Garden|giardino]], gravemente, per più di un minuto,
+e poi annuì senza una parola.
+
 
 
 <span class="atom-split" data-atom="story_12_the_dream_of_macian--part_01" data-title="ball and cross — The Dream of MacIan (part 1)" data-chapter="The Dream of MacIan" data-kind="excerpt" data-tags="archetype/king,motif/cross,motif/garden,motif/moon,motif/nature,motif/night,motif/rose,motif/ship,motif/silence,motif/snow,motif/stars,motif/supernatural,motif/well,concept/beauty,concept/doubt,concept/imprisonment,concept/loneliness,concept/nature,concept/self,concept/solitude,setting/ship,character/apollo,character/diana,character/evan_macian"></span>
@@ -16131,6 +21013,123 @@ place and owns his superior.  And now England will be beautiful after
 the same fashion.  The earth will be as beautiful as the heavens,
 because our kings have come back to us."
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+XV.  IL SOGNO DI MACIAN
+
+Il sistema di spionaggio nel manicomio era così efficace e completo
+che in pratica i pazienti potevano spesso godere di un senso di quasi
+completa [[Solitude|solitudine]].  Potevano avvicinarsi tanto al muro in un
+[[Garden|giardino]] all'apparenza non sorvegliato da trovar facile scavalcarlo.
+Si sarebbero accorti dell'errore dei loro calcoli soltanto se
+avessero tentato di saltare.
+
+Sotto questa oltraggiosa libertà, in questa artificiale [[Loneliness|solitudine]],
+[[Evan MacIan]] aveva l'abitudine di sgusciar fuori nel [[Garden|giardino]]
+dopo il calar del buio--specie nelle notti di luna.  La [[Moon|luna]], in verità,
+era per lui sempre una vera calamita in un modo alquanto difficile
+da spiegare a chi ha un'indole più robusta.  Evidentemente [[Apollo]] è
+tanto poetico quanto [[Diana]]; ma non è una questione
+di poesia nel senso maturo e intellettuale della parola.
+È una questione di una certa solida e fanciullesca fantasia.
+Il sole, in senso stretto e letterale, è invisibile; vale a
+dire che coi nostri occhi corporei non può propriamente essere veduto.
+Ma la [[Moon|luna]] è una cosa assai più semplice; una cosa nuda e da camera di bambini.
+Pende nel cielo tutta solida e tutta d'argento e tutta inutile;
+è un'unica enorme palla di neve celeste.  Furono almeno tali
+puerili fatti e fantasie a indurre Evan più e più volte durante
+la sua disumanizzata [[Imprisonment|prigionia]] a uscire come per prendere la [[Moon|luna]] a fucilate.
+
+Era fuori nel [[Garden|giardino]] in una di tali [[Night|notti]] luminose e spettrali,
+quando il costante chiaro di luna smorzava tutti i colori del [[Garden|giardino]]
+finché quasi le tinte più forti visibili erano l'azzurro forte
+e morbido del cielo e la grande [[Moon|luna]] color limone.  Egli camminava
+col viso rivolto in su verso di essa in quella maniera piuttosto ebete
+che avrebbe potuto scusare l'errore dei suoi guardiani; e mentre fissava
+si accorse di qualcosa di piccolo e lucente che volava vicino
+al lucente disco, come una scheggia luminosa staccata dalla [[Moon|luna]].
+Dapprima pensò fosse un semplice scintillio o una rifrazione
+nella sua stessa vista; batté le palpebre e si stropicciò gli occhi.
+Poi pensò fosse una stella cadente; solo che non cadeva.
+Sussultava goffamente su e giù in un modo ignoto tra le meteore
+e stranamente memore delle opere dell'uomo.  L'attimo dopo
+la cosa passò dritta attraverso la [[Moon|luna]], e da argento su azzurro
+divenne all'improvviso nera su argento; poi, benché attraversasse il campo
+di luce in un lampo, il suo profilo era inconfondibile per quanto bizzarro.
+Era una [[Ship|nave]] volante.
+
+Il vascello compì una lunga e ampia curva attraverso il cielo e venne
+sempre più vicino a MacIan, come una locomotiva a vapore che gira una curva.
+Era di puro acciaio bianco, e nella [[Moon|luna]] luccicava come l'armatura
+di Sir Galahad.  Il paragone con tale verginità non è inappropriato;
+poiché, man mano che si faceva più grande e più bassa, Evan vide che
+l'unica figura in essa era ammantata di bianco da capo a piedi e incoronata
+di capelli bianchi come [[Snow|neve]], su cui il chiaro di luna posava come una benedizione.
+La figura stava tanto immobile che egli avrebbe facilmente potuto supporla
+una statua.  Anzi, la credette tale finché non parlò.
+
+"Evan", disse la voce, e parlò con la semplice autorità
+di qualche padre dimenticato che torni a visitare i figli, "sei rimasto
+qui abbastanza a lungo, e la tua [[Sword|spada]] è richiesta altrove."
+
+"Richiesta per cosa?" chiese il giovane, accettando il mostruoso evento
+con una strana e goffa naturalezza; "per cosa è richiesta la mia [[Sword|spada]]?"
+
+"Per tutto ciò che ti è caro", disse l'uomo ritto nel chiaro di luna;
+"per i troni dell'autorità e per ogni antica lealtà alla legge."
+
+Evan alzò di nuovo lo sguardo al disco lunare come in irrazionale appello--
+un vitello della [[Moon|luna]] che bela alla madre la [[Moon|luna]].  Ma il volto di Luna
+pareva sciocco quanto il suo; non v'è aiuto nella [[Nature|natura]] contro
+il [[Supernatural|soprannaturale]]; ed egli guardò di nuovo l'alta figura di marmo
+che avrebbe potuto essere fatta di solido chiaro di luna.
+
+Poi disse ad alta voce:  "Chi siete?" e l'attimo dopo
+fu preso da una sorta di soffocante terrore che alla sua domanda
+venisse data risposta.  Ma l'ignoto serbò un impenetrabile [[Silence|silenzio]]
+per un lungo spazio e poi rispose soltanto:  "Non devo dire
+chi sono fino alla fine del mondo; ma posso dire ciò che sono.
+Io sono la legge."
+
+E sollevò il capo così che la [[Moon|luna]] colpì in pieno il suo bello
+e antico volto.
+
+Il volto era il volto d'un dio greco invecchiato, ma non divenuto
+né debole né brutto; nulla ne rompeva la regolarità
+tranne un mento piuttosto lungo con una fossetta in mezzo, e ciò piuttosto aggiungeva
+distinzione che sminuire la [[Beauty|bellezza]].  I suoi occhi forti e [[Well|ben]] aperti
+erano assai brillanti ma del tutto incolori come acciaio.
+
+MacIan era uno di quelli a cui una riverenza e un'[[Self|auto]]-sottomissione
+nel rituale vengono con tutta facilità, e sono cose ordinarie.  Non era
+artificioso in lui inchinarsi lievemente a questa solenne apparizione o
+abbassare la voce quando disse:  "Mi recate qualche messaggio?"
+
+"Sì, ti reco un messaggio", rispose l'uomo di [[Moon|luna]] e marmo.
+"Il [[King|re]] è tornato."
+
+Evan non chiese né pretese alcuna spiegazione.  "Suppongo che possiate
+condurmi alla guerra", disse, e la silente figura d'argento
+si limitò a chinare di nuovo il capo.  MacIan si arrampicò nella barca d'argento,
+ed essa [[Rose|salì]] verso le [[Stars|stelle]].
+
+Dire che [[Rose|salì]] alle [[Stars|stelle]] non è mera metafora, perché il cielo
+s'era rischiarato in quell'occasionale e stupefacente trasparenza
+in cui si possono vedere distintamente sia le [[Stars|stelle]] sia la [[Moon|luna]].
+
+Mentre la figura vestita di bianco saliva nel suo bianco carro,
+disse con tutta calma a Evan:  "C'è una risposta a tutta la follia
+che si dice sull'uguaglianza.  Alcune [[Stars|stelle]] sono grandi e alcune piccole;
+alcune stanno immobili e altre girano loro intorno mentre esse stanno ferme.
+Possono essere ordinate, ma non possono essere uguali."
+
+"Sono tutte bellissime", disse Evan, come in [[Doubt|dubbio]].
+
+"Sono tutte belle", rispose l'altro, "perché ciascuna è al suo
+posto e riconosce il suo superiore.  E ora l'Inghilterra sarà bella
+allo stesso modo.  La terra sarà bella come i cieli,
+perché i nostri re ci sono tornati."
 
 
 
@@ -16306,6 +21305,176 @@ The being's hand dropped from his mouth and Evan dropped out
 of the car.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+"Lo Stuart----" cominciò Evan, con fervore.
+
+"Sì", rispose il vecchio, "ciò che è tornato è Stuart e
+tuttavia più antico di Stuart.  È Capeto e Plantageneto e Pendragon.
+È tutto quel buon vecchio [[Time|tempo]] di cui narrano i proverbi, quel dorato
+regno di [[Saturn|Saturno]] contro cui dèi e uomini furono ribelli.
+È tutto ciò che fu mai perduto per insolenza e travolto nella ribellione.
+È il tuo stesso antenato, MacIan dalla [[Sword|spada]] spezzata, che sanguina senza
+[[Hope|speranza]] a Culloden.  È Carlo che rifiuta di rispondere alle domande
+della [[Rebel|ribelle]] [[Court|corte]].  È Maria dal volto [[Magic|magico]] che affronta
+i cupi e avidi pari e le rozze moralità di Knox.
+È [[Richard|Riccardo]], l'ultimo Plantageneto, che dà la sua [[Crown|corona]] a Bolingbroke
+come a un comune brigante.  È [[arthur|Artù]], travolto in Lyonesse da eserciti
+pagani e morente nella nebbia, incerto se mai tornerà."
+
+"Ma ora----" disse Evan, a voce bassa.
+
+"Ma ora!" disse il vecchio; "egli è tornato."
+
+"Infuria ancora la guerra?" chiese MacIan.
+
+"Infuria come l'abisso stesso al di là del mare dove ti sto portando",
+rispose l'altro.  "Ma in Inghilterra il [[King|re]] gode di nuovo di ciò che è suo.
+Il popolo è di nuovo istruito e governato come è meglio; sono
+cavalieri felici, scudieri felici, servitori felici, servi della gleba felici, se vuoi;
+ma liberi finalmente da quel peso di afflizione e di solitaria [[Vanity|vanità]] che
+veniva chiamato l'essere cittadino."
+
+"È davvero così sicura, l'Inghilterra?" chiese Evan.
+
+"Guarda fuori e vedi", disse la guida.  "Credo che tu abbia già visto
+questo luogo."
+
+Filavano attraverso l'aria verso una regione del cielo dove
+la cavità della [[Night|notte]] pareva più oscura e che era del tutto priva di [[Stars|stelle]].
+Ma contro questo nero sfondo si ergeva, stagliata
+in scintillante argento, una cupola e una [[Cross|croce]].  Pareva che fosse
+davvero da poco ricoperta d'argento, che nel forte chiaro di luna
+era come bianca fiamma.  Comunque, ricoperta o dipinta, Evan non ebbe
+difficoltà a riconoscere di nuovo il luogo.  Vide la grande arteria
+che saliva in pendio fino alla base dell'enorme piedistallo di gradini.
+E si domandò se la piccola bottega fosse ancora al suo fianco
+e se la sua [[Window|vetrina]] fosse stata riparata.
+
+Mentre la [[Ship|nave]] volante girava attorno alla cupola, egli notò altre modifiche.
+La cupola era stata ridecorata in modo da darle una nota più solenne
+e alquanto più ecclesiastica; la palla era drappeggiata
+o distrutta, e attorno alla galleria, sotto la [[Cross|croce]], correva ciò che sembrava
+un anello di statue d'argento, come le piccole immagini di piombo
+che stavano attorno al cappello di Luigi XI.  Attorno alla seconda galleria,
+alla base della cupola, correva una seconda fila di tali immagini,
+ed Evan pensò che ve ne fosse un'altra attorno ai gradini sottostanti.
+Quando furono più vicini vide che erano figure in completa
+armatura d'acciaio o d'argento, ciascuna con una [[Sword|spada]] nuda, la punta all'insù;
+e poi vide una delle spade muoversi.  Non erano statue ma
+un ordine cavalleresco in armi disposto in tre cerchi attorno alla [[Cross|croce]].
+MacIan trattenne il respiro, come fanno i bambini davanti a qualcosa che ritengono
+del tutto bello.  Poiché non riusciva a immaginare nulla che così echeggiasse
+le sue proprie visioni d'arte pontificale o cavalleresca come questa bianca cupola
+posata come un vasto diadema d'argento sopra [[London|Londra]], cinta da una triplice
+[[Crown|corona]] di spade.
+
+Mentre discendevano veleggiando per Ludgate [[Hill]], Evan vide che lo stato
+delle strade rispondeva pienamente all'affermazione del suo compagno circa
+la reintroduzione dell'ordine.  Tutto il vecchio trambusto in nero
+con la sua vivacità e volgarità da cockney era scomparso.
+Gruppi di operai, sobriamente ma pittorescamente vestiti, andavano su
+e giù in numero abbastanza cospicuo; ma bastavano pochi
+uomini a cavallo a tenere le strade in ordine.  Gli uomini a cavallo non erano
+comuni poliziotti, ma cavalieri con speroni e pennacchio la cui liscia
+e splendida armatura scintillava come diamante più che come acciaio.
+Soltanto in un luogo--all'angolo di Bouverie Street--pareva
+esserci un momento di confusione, e ciò era dovuto alla fretta più che
+alla resistenza.  Ma un vecchio brontolone non si tolse di mezzo
+abbastanza in fretta, e l'uomo a cavallo lo colpì, non con violenza,
+sulle spalle col piatto della sua [[Sword|spada]].
+
+"Il soldato non aveva diritto di farlo", disse MacIan, aspramente.
+"Il vecchio si stava spostando più in fretta che poteva."
+
+"Attribuiamo grande importanza alla disciplina nelle strade",
+disse l'uomo in bianco, con un lieve sorriso.
+
+"La disciplina non è importante quanto la giustizia", disse MacIan.
+
+L'altro non rispose.
+
+Poi, dopo uno svelto [[Silence|silenzio]] che li portò fuori attraverso St. James's Park,
+egli disse:  "Il popolo dev'essere educato a obbedire; deve imparare la propria
+ignoranza.  E non sono sicuro", proseguì, voltando le spalle
+a Evan e guardando fuori dalla prua della [[Ship|nave]] verso l'oscurità,
+"non sono sicuro di concordare con quella tua piccola massima sulla giustizia.
+La disciplina per l'intera società è di certo più importante della
+giustizia verso un individuo."
+
+Evan, anch'egli sporto oltre il bordo, si voltò con sorprendente
+subitaneità e fissò la schiena dell'altro.
+
+"La disciplina per la società----" ripeté, molto staccato, "più importante--
+la giustizia verso l'individuo?"
+
+Poi, dopo un lungo [[Silence|silenzio]], gridò:  "Chi e che cosa siete?"
+
+"Sono un angelo", disse la figura vestita di bianco, senza voltarsi.
+
+"Non siete un cattolico", disse MacIan.
+
+L'altro parve non farci caso, ma tornò all'argomento principale.
+
+"Nei nostri eserciti lassù in cielo impariamo a mettere una salutare
+[[Fear|paura]] nei subalterni."
+
+MacIan sedeva protendendo il collo in avanti con uno straordinario
+e inspiegabile fervore.
+
+"Continuate!" gridò, intrecciando e sciogliendo le sue lunghe, ossute dita,
+"continuate!"
+
+"Inoltre", proseguì quello, alla prua, "dovete tener conto di un certo
+alto spirito e di una certa alterigia nel tipo superiore."
+
+"Continuate!" disse Evan, con occhi ardenti.
+
+"Proprio come la vista del peccato offende Dio", disse l'ignoto, "così
+la vista della bruttezza offende [[Apollo]].  Il bello e il principesco devono,
+per necessità, essere insofferenti verso lo squallido e----"
+
+"Ma come, grande [[Fool|sciocco]]!" gridò MacIan, ergendosi in tutta la sua
+tremenda statura, "credevate che avrei dubitato soltanto per
+quel colpetto con una [[Sword|spada]]?  So che nobili ordini hanno cattivi cavalieri,
+che buoni cavalieri hanno cattivo carattere, che la Chiesa ha preti rozzi
+e cardinali grossolani; lo so da quando sono nato.
+[[Fool|Sciocco]]! bastava che diceste, 'Sì, è piuttosto una vergogna',
+e avrei dimenticato la faccenda.  Ma vidi sulla vostra bocca
+la contrazione della vostra infernale sofistica; capii che qualcosa
+non andava in voi e nelle vostre cattedrali.  Qualcosa non va;
+tutto non va.  Voi non siete un angelo.  Quella non è una chiesa.
+Non è il legittimo [[King|re]] a essere tornato a [[Home|casa]]."
+
+"Questo è spiacevole", disse l'altro, con voce quieta ma dura,
+"perché state per vedere Sua Maestà."
+
+"No", disse MacIan, "sto per saltare oltre il bordo."
+
+"[[Desire|Desiderate]] la [[Death|morte]]?"
+
+"No", disse Evan, con tutta compostezza, "[[Desire|desidero]] un miracolo."
+
+"A chi lo chiedete?  A chi vi appellate?"
+disse il suo compagno, severamente.  "Avete tradito il [[King|re]],
+rinnegato la sua [[Cross|croce]] sulla [[Cathedral|cattedrale]] e insultato un arcangelo."
+
+"Mi appello a Dio", disse Evan, e balzò su e si drizzò sul bordo
+della [[Ship|nave]] ondeggiante.
+
+L'essere nella prua si voltò lentamente; guardò Evan
+con occhi che erano come due soli, e si portò la mano alla bocca
+appena troppo tardi per celare un orribile sorriso.
+
+"E come sapete", disse, "come sapete che io non sono Dio?"
+
+MacIan urlò.  "Ah!" gridò.  "Ora so chi siete davvero.
+Non siete Dio.  Non siete uno degli angeli di Dio.
+Ma un tempo lo eravate."
+
+La mano dell'essere cadde dalla bocca ed Evan cadde giù
+dal carro.
+
 
 
 <span class="atom-split" data-atom="story_13_the_dream_of_turnbull--part_01" data-title="ball and cross — The Dream of Turnbull (part 1)" data-chapter="The Dream of Turnbull" data-kind="excerpt" data-tags="topos/double,motif/autumn,motif/cross,motif/death,motif/flowers,motif/garden,motif/leaves,motif/memory,motif/mirror,motif/ship,motif/soul,motif/time,motif/well,motif/wind,concept/body,concept/courage,concept/hope,concept/inner_life,concept/mortality,form/parody,setting/ship"></span>
@@ -16412,6 +21581,104 @@ but it greatly assisted it in wearing the expression of half-smiling
 and half-sneering arrogance with which it was staring at all the stones,
 all the [[Flowers|flowers]], but especially at the solitary man.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+XVI.  IL SOGNO DI TURNBULL
+
+Turnbull passeggiava piuttosto irruento su e giù per il [[Garden|giardino]] in
+una sera ventosa, masticando il sigaro e in quello stato d'animo in cui
+ogni uomo reprime l'istinto di sputare.  Non era, di regola, un uomo molto
+avvezzo agli umori; e le tempeste e gli squarci di sole dell'[[Soul|anima]]
+di MacIan gli passavano davanti come un panorama imponente ma privo di senso,
+simile all'anarchia dei paesaggi delle Highlands.  Turnbull era uno di quegli
+uomini in cui un continuo appetito e un'operosità dell'intelletto lasciano
+le emozioni assai semplici e salde.  Aveva il cuore al posto giusto; ma era
+ben contento di lasciarvelo.  Era la testa il suo passatempo.  Le sue mattine
+e le sue sere erano scandite non da impulsi o da desideri assetati, non da
+[[Hope|speranza]] o da crepacuore; erano colme delle fallacie che aveva scovato,
+dei problemi che aveva chiarito, delle teorie avverse con cui aveva lottato
+e che aveva atterrato, delle grandi generalizzazioni che aveva giustificato.
+Ma persino la serena [[Inner Life|vita interiore]] di un logico può essere
+sconvolta da un manicomio, per non dire delle folate di [[Memory|memoria]]
+di una dama nel Jersey, e il piccolo uomo dalla barba rossa, in quella sera
+ventosa, era in una pericolosa disposizione d'animo.
+
+Per quanto schietto e concreto fosse, l'influsso della terra e del cielo può
+aver avuto su di lui più potere di quanto immaginasse; e il tempo che
+percorreva il mondo in quel momento era rosso e adirato quanto Turnbull.
+Lunghe strisce e vortici di nubi lacere e fulve erano trascinati giù verso
+occidente esattamente come sarebbero trascinate vesti rosse stracciate.
+E tanto forte e spietato era il [[Wind|vento]] che strappava via brandelli
+di cespugli dai fiori rossi o di faggio purpureo, e li sospingeva anch'essi
+attraverso il [[Garden|giardino]], una deriva di rosse [[Leaves|foglie]],
+come le [[Leaves|foglie]] d'[[Autumn|autunno]], quasi a [[Parody|parodia]]
+dei rossi cenci di nube sospinti dal vento.
+
+C'era nella terra e nel cielo come un senso che tutto andasse in frantumi,
+e tutto ciò che di rivoluzionario era in Turnbull si rallegrava che andasse
+in frantumi.  Gli alberi si sfaldavano sotto il [[Wind|vento]], persino
+nell'alta forza della loro fioritura: le nubi si sfaldavano e perdevano
+perfino le loro grandi forme araldiche.  Schegge e brandelli di nube color
+rame si staccavano di continuo e fluttuavano per conto proprio, e per qualche
+ragione l'occhio truce di Turnbull fu attratto da una di quelle nuvolette
+impazzite, che gli parve corresse in modo esagerato.  Inoltre conservava la
+sua forma, cosa insolita per le nubi che si distaccano; e per giunta la sua
+forma era di un tipo bizzarro.
+
+Turnbull continuò a fissarla, e dopo poco [[Time|tempo]] si verificò quell'istante
+cruciale in cui una cosa, per quanto incredibile, viene accettata come un fatto.
+La nube color rame stava precipitando verso la terra, come un gigantesco fogliame
+staccato dai faggi purpurei.  E man mano che si avvicinava fu evidente, primo,
+che non era una nube, e, secondo, che non era essa stessa del colore del rame;
+soltanto, essendo brunita come uno [[Mirror|specchio]], aveva riflesso i colori
+rosso-bruni delle nubi in fiamme.  Mentre la cosa turbinava come una foglia
+sospinta dal vento giù verso il muro del [[Garden|giardino]], fu chiaro che si
+trattava di una sorta di [[Ship|nave]] aerea fatta di metallo, che schiaffeggiava
+l'aria con grandi larghe pinne d'acciaio.  Quando giunse a un centinaio di piedi
+sopra il [[Garden|giardino]], una figura ispida e magra vi balzò in piedi, quasi
+nera contro il bronzo e lo scarlatto dell'occidente e, scagliando fuori una specie
+di gancio o d'àncora, si agganciò al verde melo proprio sotto il muro; e da
+quell'appiglio fisso la [[Ship|nave]] oscillava nella rossa tempesta come un
+pallone prigioniero.
+
+Mentre il nostro amico restava impietrito per un istante dallo stupore, la strana
+figura nel carro aereo capovolse quasi del tutto il veicolo scavalcandone il bordo,
+parve scivolare o lasciarsi cadere lungo la fune come una scimmia, e si posò
+(con impossibile precisione e placidità) seduta sull'orlo del muro, oltre il quale
+scalciava e dondolava le gambe mentre ghignava a Turnbull.  Il [[Wind|vento]]
+ruggiva tra gli alberi ancor più rovinoso e desolato, le rosse code del tramonto
+erano trascinate in basso come rossi draghi risucchiati giù verso la [[Death|morte]],
+e ancora in cima al muro del manicomio sedeva la figura sinistra dalla smorfia,
+agitando i piedi al ritmo della tempesta; mentre sopra di lui, all'estremità della
+sua fune sballottata o tesa, l'enorme [[Ship|nave]] aerea di ferro fluttuava lieve
+e inosservata come il palloncino di un bambino sul suo spago.
+
+Il primo movimento di Turnbull, dopo sessanta secondi d'immobilità, fu di voltarsi
+e guardare l'ampio, lussureggiante parallelogramma del [[Garden|giardino]] e il
+lungo, basso edificio rettangolare al di là.  Non c'era in vista un'[[Soul|anima]]
+né un fremito di vita.  Ed egli ebbe una sensazione del tutto priva di senso, come
+se non ci fosse mai davvero stato nessun altro lì all'infuori di lui fin dalla
+fondazione del mondo.
+
+Irrigidendo in sé il [[Courage|coraggio]] virile ma privo di allegria dell'ateo,
+si avvicinò un poco al muro e, cogliendo l'uomo sotto un'angolazione leggermente
+diversa della luce serale, poté vederne il volto e la figura con chiarezza.
+Due fatti che lo riguardavano spiccavano nei colori vividi di qualche racconto
+di pirati da scolaretto.  Il primo era che il suo magro [[Body|corpo]] bruno era
+nudo fino alla cintola dei larghi calzoni bianchi; l'altro che, per igiene, per
+affettazione o per qualunque altra causa, portava un fazzoletto scarlatto legato
+stretto ma un po' di traverso sulla fronte.  Dopo che questi due fatti si furono
+imposti, altri apparvero abbastanza importanti.  Uno era che sotto lo straccio
+scarlatto i capelli erano folti, ma bianchi come per le ultime nevi della
+[[Mortality|mortalità]].  Un altro era che sotto la zazzera di capelli bianchi
+e senili il volto era forte, bello e sorridente, con un profilo [[Well|ben]]
+disegnato e un lungo mento fesso.  La lunghezza di questa parte inferiore del viso
+e la strana fenditura in essa (che davano all'uomo, in tutt'altro senso da quello
+comune, un [[Double|doppio]] mento) sciupavano lievemente la pretesa del volto a
+un'assoluta regolarità, ma lo aiutavano assai a indossare quell'espressione di
+arroganza a metà sorridente e a metà sprezzante con cui fissava tutte le pietre,
+tutti i [[Flowers|fiori]], ma soprattutto l'uomo solitario.
 
 
 
@@ -16543,6 +21810,131 @@ their knowing it, just as I [[Fear|fear]] it has soaked and weakened you."
 Turnbull stood in an attitude which might [[Well|well]] have meant pitching
 the other man out of the flying [[Ship|ship]].
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+«Che cosa volete?» gridò Turnbull.
+
+«Voglio voi, Jimmy» disse l'uomo eccentrico sul muro, e con quella stessa
+parola si era calato con un balzo al centro del prato, dove rimbalzò una volta,
+letteralmente come una palla di caucciù, e poi restò lì a ghignare a gambe
+divaricate.  Gli unici tre fatti che ora Turnbull poteva aggiungere al suo
+inventario erano che l'uomo aveva un coltello dall'aria sinistra che gli
+penzolava dalla cintola dei calzoni, che i suoi piedi bruni erano nudi come
+il tronco e le braccia abbronzati, e che i suoi occhi avevano una singolare,
+gelida brillantezza che non era di alcun colore particolare.
+
+«Scusate se non sono in abito da sera» disse il nuovo venuto con un sorriso
+cortese.  «Noi uomini di scienza, sapete... devo far funzionare io stesso
+i miei motori... ingegnere elettrotecnico... un lavoro molto caldo.»
+
+«Sentite un po'» disse Turnbull, serrando risoluto i pugni nelle tasche dei
+calzoni, «sono tenuto ad aspettarmi dei pazzi dentro queste quattro mura;
+ma mi rifiuto proprio che vengano da fuori, sbucando di colpo dalle nubi del
+tramonto.»
+
+«Eppure anche voi siete venuto da fuori, Jim» disse lo straniero con voce
+quasi affettuosa.
+
+«Che cosa volete?» chiese Turnbull, con un'esplosione di collera improvvisa
+come un colpo di [[Pistol|pistola]].
+
+«Ve l'ho già detto» disse l'uomo, abbassando la voce e parlando con evidente
+sincerità; «voglio voi.»
+
+«Che cosa volete da me?»
+
+«Voglio esattamente ciò che volete voi» disse il nuovo venuto con rinnovata
+gravità.  «Voglio la Rivoluzione.»
+
+Turnbull guardò il cielo spazzato dal [[Fire|fuoco]] e i boschi flagellati
+dal [[Wind|vento]], e continuò a ripetere fra sé quella parola senza voce...
+la parola che davvero esprimeva così pienamente il suo stato d'animo di rabbia,
+così com'era stato fra quelle rosse nubi e quelle cime d'albero ondeggianti.
+«Rivoluzione!» diceva fra sé.  «La Rivoluzione... sì, è proprio questo che
+voglio... qualunque cosa, purché sia una Rivoluzione.»
+
+Per qualche ragione che non seppe mai spiegare, si ritrovò a completare la
+frase in cima al muro, avendo seguito automaticamente lo straniero fin lassù.
+Ma quando lo straniero indicò in silenzio la fune che conduceva alla
+[[Machine|macchina]], si ritrovò a esitare e a dire:
+«Non posso lasciare MacIan in questa tana.»
+
+«Andiamo a distruggere il Papa e tutti i re» disse il nuovo venuto.
+«Sarebbe più saggio portarlo con noi?»
+
+In qualche modo il borbottante Turnbull si ritrovò anch'egli nella
+[[Ship|nave]] volante, che si sollevò nel tramonto.
+
+«Tutti i grandi ribelli sono stati ribelli piccolissimi» disse l'uomo dalla
+sciarpa rossa.  «Sono stati come ragazzi di quarta che ogni tanto osano
+colpire un ragazzo di quinta.  Ecco tutto il valore della loro
+[[French Revolution|Rivoluzione francese]] e del regicidio.  I ragazzi non
+hanno mai osato davvero sfidare il maestro.»
+
+«Chi intendete per il maestro?» chiese Turnbull.
+
+«Sapete bene chi intendo» rispose lo strano uomo, mentre si adagiava
+all'indietro sui cuscini e guardava su, verso il cielo adirato.
+
+Sembravano salire in una luce solare sempre più forte, come se fosse un'alba
+anziché un tramonto.  Ma quando guardavano giù verso la terra la vedevano
+farsi sempre più buia.  Il manicomio, nei suoi ampi terreni rettangolari,
+si stendeva sotto di loro in una pianta scorciata e infantile, e appariva per
+la prima [[Time|volta]] la cosa [[Grotesque|grottesca]] che era.  Ma i colori
+nitidi di quella pianta si facevano più cupi a ogni istante.  Le masse di
+[[Rose|rose]] o di rododendri si incupivano dal cremisi al violetto.  Il dedalo
+dei vialetti di ghiaia sbiadiva dall'oro al bruno.  Nel [[Time|tempo]] in cui
+furono saliti di qualche centinaio di piedi ancora, di quel paesaggio che si
+oscurava non si poteva più scorgere altro che le file delle finestre illuminate,
+ciascuna delle quali, almeno, era la luce di un'intelligenza perduta.  Ma su di
+loro, mentre si slanciavano verso l'alto, parevano soffiare venti migliori e più
+arditi, e su di loro pareva battere la luce rubino della sera, e spruzzava come
+rossi zampilli dai grappoli di Dioniso.  Sotto di loro le luci cadute erano
+letteralmente le cadute [[Stars|stelle]] della servitù.  E sopra di loro tutte
+le rosse e furiose nubi erano come le bandiere ondeggianti della libertà.
+
+L'uomo dal mento fesso pareva possedere un singolare potere di comprendere
+i pensieri; poiché, mentre Turnbull sentiva l'intero universo inclinarsi e
+rovesciarsi sopra la sua testa, lo straniero disse esattamente la cosa giusta.
+
+«Non sembra che tutto stia venendo capovolto?» disse.  «E una volta che tutto
+è capovolto, Lui sarà capovolto in cima al tutto.»
+
+Poi, poiché Turnbull non rispose, il suo ospite continuò:
+
+«È questa la cosa davvero magnifica dello spazio.  È a rovescio.  Basta
+arrampicarsi abbastanza in alto verso la stella del mattino per sentire che
+vi si sta scendendo.  Basta tuffarsi abbastanza a fondo nell'abisso per sentire
+che si sta salendo.  È l'unica gloria di questo universo: è un universo
+vertiginoso.»
+
+Poi, poiché Turnbull taceva ancora, aggiunse:
+
+«I cieli sono pieni di rivoluzione... del genere autentico di rivoluzione.
+Tutte le cose alte sprofondano in basso e tutte le cose grandi appaiono piccole.
+Tutti coloro che credono di ascendere scoprono di precipitare a capofitto.
+E tutti coloro che credono di degnarsi scoprono di arrampicarsi su un precipizio.
+È questa l'ebbrezza dello spazio.  È questa l'unica gioia dell'[[Eternity|eternità]]:
+il [[Doubt|dubbio]].  C'è un solo piacere che gli angeli possano avere nel volare,
+ed è che non sanno se stiano sulla testa o sui talloni.»
+
+Poi, trovando il suo compagno ancora muto, cadde egli stesso in una meditazione
+sorridente e immobile, al termine della quale disse d'un tratto:
+
+«Così MacIan vi ha convertito?»
+
+Turnbull balzò in piedi come respingendo da sotto i piedi il carro d'acciaio.
+«Convertito me!» gridò.  «Che diavolo intendete?  Lo conosco da un mese, e non
+ho ritrattato una sola...»
+
+«Questo cattolicesimo è una cosa curiosa» disse l'uomo dal mento fesso in
+ininterrotta riflessività, appoggiando gli eleganti gomiti sull'orlo del
+vascello; «impregna e indebolisce gli uomini senza che se ne accorgano, proprio
+come [[Fear|temo]] abbia impregnato e indebolito voi.»
+
+Turnbull stava in un atteggiamento che [[Well|ben]] avrebbe potuto significare
+l'intenzione di scaraventare l'altro fuori dalla [[Ship|nave]] volante.
 
 
 
@@ -16689,6 +22081,140 @@ These people have rights."
 "Rights!" repeated the unknown in a tone quite indescribable.
 Then he added with a more open sneer:  "Perhaps they also have souls."
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+«Sono un ateo» disse, con voce soffocata.  «Sono sempre stato un ateo.
+Sono ancora un ateo.»  Poi, rivolgendosi alla schiena indolente e indifferente
+dell'altro, gridò: «In nome di Dio, che cosa intendete?»
+
+E l'altro rispose senza voltarsi:
+
+«Non intendo nulla in nome di Dio.»
+
+Turnbull sputò oltre l'orlo del carro e si lasciò ricadere furioso al suo posto.
+
+L'altro continuava imperturbabile, e fissava oltre il bordo con la stessa
+oziosità con cui un pescatore fissa giù una corrente.
+
+«La [[Truth|verità]] è che non pensavamo che poteste esser preso» disse;
+«contavamo su di voi come sull'unico rivoluzionario incandescente rimasto al
+mondo.  Ma, certo, questi uomini come MacIan sono terribilmente astuti,
+specialmente quando fingono di essere stupidi.»
+
+Turnbull balzò di nuovo in piedi in un furore vivo e gridò:
+«Che cosa ho a che fare io con MacIan?  Credo tutto ciò che ho sempre creduto,
+e non credo a tutto ciò a cui non ho mai creduto.  Che cosa significa tutto
+questo, e che cosa volete da me qui?»
+
+Allora per la prima [[Time|volta]] l'altro si sollevò dall'orlo del carro
+e gli si volse in faccia.
+
+«Vi ho portato qui» rispose «a prender parte all'ultima guerra del mondo.»
+
+«L'ultima guerra!» ripeté Turnbull, che persino nel suo stato stordito era
+un po' suscettibile su un simile dogma; «come sapete che sarà l'ultima?»
+
+L'uomo si riadagiò nel suo atteggiamento riposato, e disse:
+
+«È l'ultima guerra, perché se non guarisce il mondo per sempre, lo distruggerà.»
+
+«Che cosa intendete?»
+
+«Intendo soltanto ciò che intendete voi» rispose lo sconosciuto con voce
+temperata.  «Che cosa intendevate sempre in quel milione e una notte in cui
+camminavate fuori dalla vostra bottega di Ludgate [[Hill]] e scuotevate la mano
+nell'aria?»
+
+«Continuo a non capire» disse Turnbull, ostinato.
+
+«Capirete presto» disse l'altro, e piegò bruscamente verso il basso una maniglia
+di ferro della sua enorme [[Machine|macchina]].  Il motore si arrestò, si chinò
+e si tuffò quasi con la stessa deliberatezza di un uomo che fa il bagno; nella
+loro corsa verso il basso passarono a meno di cinquanta iarde da una grossa mole
+di pietra che Turnbull conosceva fin troppo [[Well|bene]].  L'ultima rossa collera
+del tramonto era spenta; la cupola del cielo era buia; le corsie di luce guizzante
+nelle strade sottostanti rischiaravano a stento la base dell'edificio.  Ma egli
+vide che era la [[Cathedral|cattedrale]] di San Paolo, e vide che sulla sua sommità
+la palla stava ancora ritta, ma la [[Cross|croce]] era stata colpita e s'era
+piegata di lato.  Solo allora si curò di guardare giù nelle strade, e vide che
+erano infiammate di tumulto e di passioni ondeggianti.
+
+«Arriviamo in un momento felice» disse l'uomo che governava la [[Ship|nave]].
+«Gli insorti stanno bombardando la [[City|città]], e una palla di cannone ha
+appena colpito la [[Cross|croce]].  Molti degli insorti sono gente semplice,
+e naturalmente lo considerano un lieto presagio.»
+
+«Proprio così» disse Turnbull, con voce piuttosto incolore.
+
+«Sì» replicò l'altro.  «Pensavo che sareste stato lieto di veder esaudita la
+vostra [[Prayer|preghiera]].  Naturalmente mi scuso per la parola [[Prayer|preghiera]].»
+
+«Non fa niente» disse Turnbull.
+
+La [[Ship|nave]] volante era scesa lungo una sorta di curva, e ora risaliva.
+Più in alto e più in alto [[Rose|saliva]], più ampie e più ampie si facevano
+le scene di fiamma e di desolazione sottostanti.
+
+Ludgate [[Hill]] era in effetti un'altura non conquistata e relativamente
+tranquilla, alterata soltanto dalla sorprendente coincidenza della [[Cross|croce]]
+caduta di traverso.  Tutte le altre strade su ogni lato di quella [[Hill|collina]]
+erano piene della pulsazione e della [[Pain|pena]] della battaglia, piene di torce
+tremolanti e di volti urlanti.  Quando alfine furono saliti abbastanza in alto da
+avere una veduta a volo d'uccello dell'intera campagna, Turnbull era già inebriato.
+Aveva fiutato la polvere da sparo, che era l'incenso della sua stessa religione
+rivoluzionaria.
+
+«Il popolo si è davvero sollevato?» chiese, col fiato mozzo.  «Per che cosa
+combattono?»
+
+«Il programma è piuttosto elaborato» disse il suo anfitrione con una certa
+indifferenza.  «Credo che l'abbia steso il dottor Hertz.»
+
+Turnbull corrugò la fronte.  «Sono tutti i poveri con la Rivoluzione?» chiese.
+
+L'altro scrollò le spalle.  «Tutta la parte istruita e dotata di coscienza di
+classe, senza eccezione» rispose.  «C'erano certamente alcuni quartieri; anzi,
+stiamo passando proprio ora sopra di essi...»
+
+Turnbull guardò giù e vide che il carro lucido era letteralmente illuminato dal
+basso dai fuochi lanciati lontano da sotto.  Sotto, interi isolati e solidi
+quartieri erano in fiamme, come praterie o foreste in [[Fire|fuoco]].
+
+«Il dottor Hertz ha convinto tutti» disse il cicerone di Turnbull con voce
+suadente, «che con i veri bassifondi non si può davvero far nulla.  La sua celebre
+massima è stata pienamente adottata.  Intendo le tre celebri frasi: 'Nessun uomo
+dovrebbe essere disoccupato.  Impiegate gli impiegabili.  Distruggete gli
+inimpiegabili.'»
+
+Vi fu un [[Silence|silenzio]], e poi Turnbull disse con voce piuttosto tesa:
+«E devo intendere che questa buona opera è in corso qui sotto?»
+
+«Procede splendidamente» replicò il suo compagno con la voce più cordiale.
+«Vedete, questa gente era troppo stanca e debole persino per unirsi alla guerra
+sociale.  Erano un vero e proprio ostacolo ad essa.»
+
+«E così li state semplicemente bruciando via?»
+
+«Sembra assurdamente semplice» disse l'uomo, con un sorriso radioso, «quando si
+pensa a tutto l'affanno e le chiacchiere sull'aiutare una disperata popolazione
+di schiavi, mentre il futuro ovviamente non faceva che implorare di esserne
+sbarazzato.  Ci sono felici bimbi [[unborn|non ancora nati]] pronti a sfondare le
+porte quando questi rimbambiti saranno spazzati via.»
+
+«Mi permettete di dire» disse Turnbull, dopo aver riflettuto, «che tutto questo
+non mi piace?»
+
+«E mi permettete di dire» disse l'altro, di scatto, «che a me non piace il signor
+[[Evan MacIan]]?»
+
+Con una certa sorpresa di chi parlava, ciò non infiammò il sensibile scettico;
+egli ebbe l'aria di riflettere a fondo, e poi disse: «No, non credo sia stato il
+mio amico MacIan a insegnarmelo.  Credo che avrei sempre detto che questo non mi
+piace.  Questa gente ha dei diritti.»
+
+«Diritti!» ripeté lo sconosciuto in un tono del tutto indescrivibile.  Poi aggiunse
+con un ghigno più aperto: «Forse hanno anche un'anima.»
 
 
 
@@ -16983,6 +22509,128 @@ But in the white wall there were two iron doors painted white on
 which were written, respectively, in neat black capitals B and C.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+XVII.  L'IDIOTA
+
+[[Evan MacIan]] se ne stava a pochi metri di distanza, guardandolo in assoluto
+[[Silence|silenzio]].
+
+Non ebbe il [[Courage|coraggio]] morale di chiedere a MacIan se ci fosse stato
+qualcosa di sbalorditivo nel modo in cui era giunto lì, né MacIan pareva avere
+alcuna domanda da fare, o forse alcun bisogno di farla.  I due uomini si mossero
+lentamente l'uno verso l'altro, e trovarono la medesima espressione sul volto
+l'uno dell'altro.  Poi, per la prima [[Time|volta]] in tutta la loro conoscenza,
+si strinsero la mano.
+
+Quasi fosse una sorta di segnale inconscio, ciò fece sbucare il dottor Quayle
+da una porta e attraversare di corsa il prato.
+
+«Oh, eccovi qui!» esclamò con una risatina di sollievo.  «Volete entrare, per
+favore?  Desidero parlare con entrambi.»
+
+Lo seguirono nel suo lindo ufficio di legno lucido dove era custodito il loro
+registro accusatore.  Il dottor Quayle si sedette su una sedia girevole e si
+voltò verso di loro.  Il suo sorriso scolpito era d'un tratto scomparso.
+
+«Sarò franco con voi, signori» disse, bruscamente; «sapete benissimo che qui
+facciamo del nostro meglio per tutti.  I vostri casi sono stati oggetto di
+particolare considerazione, e il Direttore in persona ha deciso che dovreste
+essere trattati in modo speciale e... ehm... in condizioni alquanto più
+semplici.»
+
+«Trattati peggio, suppongo» disse Turnbull, burbero.
+
+Il dottore non rispose, e MacIan disse: «Me l'aspettavo.»  I suoi occhi avevano
+cominciato a brillare.
+
+Il dottore rispose, guardando la scrivania e giocherellando con una chiave:
+«[[Well|Ebbene]], in certi casi che destano inquietudine... è spesso meglio...»
+
+«Destano inquietudine» disse Turnbull, con foga.  «Al diavolo la vostra
+sfacciataggine!  Che cosa intendete?  Rinchiudete due uomini perfettamente sani
+in un manicomio perché avete inventato una parola lunga.  Loro la prendono di buon
+umore, passeggiano e discorrono nel vostro [[Garden|giardino]] come [[Monks|monaci]]
+che abbiano trovato una vocazione, sono cortesi persino con voi, brutto galoppino
+da speziali!  Si comportano non solo più sensatamente di qualunque vostro paziente,
+ma più sensatamente della metà dei sani là fuori, e voi avete la faccia tosta,
+soffocante per l'[[Soul|anima]], di dire che destano inquietudine.»
+
+«Il capo del manicomio ha deciso tutto» disse il dottor Quayle, sempre guardando
+in giù.
+
+MacIan fece uno dei suoi immensi passi in avanti e si ergette sopra il dottore
+con occhi fiammeggianti.
+
+«Se il capo ha deciso, che sia il capo ad annunciarlo» disse.  «Non lo accetterò
+da voi.  Vi credo un basso, farneticante degenerato.  Portateci a vedere il capo
+del manicomio.»
+
+«Vedere il capo del manicomio» ripeté il dottor Quayle.  «Assolutamente no.»
+
+L'alto montanaro, chinandosi su di lui, gli posò una mano sulla spalla con paterno
+interesse.
+
+«Non pare che apprezziate i particolari vantaggi della mia posizione di pazzo»
+disse.  «Potrei uccidervi con la mano sinistra prima che un topo come voi riesca
+anche solo a squittire.  E non verrei impiccato per questo.»
+
+«Concordo senz'altro col signor MacIan» disse Turnbull con sobrietà e perfetta
+compostezza, «che fareste meglio a lasciarci vedere il capo dell'istituto.»
+
+Il dottor Quayle si alzò in piedi in un misto di improvvisa isteria e goffa
+presenza di spirito.
+
+«Oh, certamente» disse con una debole risata.  «Potete vedere il capo del
+manicomio se proprio lo desiderate.»  Corse quasi fuori dalla stanza, e i due lo
+seguirono spediti sulle falde svolazzanti della sua giacca.  Bussò a una comune
+porta verniciata nel corridoio.  Quando una voce disse «Avanti», il respiro di
+MacIan gli tornò sibilando fra i denti nel petto.  Turnbull fu più impetuoso, e
+aprì la porta.
+
+Era una stanza ordinata e ben arredata, interamente rivestita di una biblioteca
+medica.  All'altra estremità c'era una scrivania massiccia e lucida con sopra una
+lampada a incandescenza, la cui luce bastava appena a mostrare una figura snella
+e [[Well|ben]] educata in un comune abito nero medico a redingote, la cui testa,
+tutta inargentata dall'età, era china su ordinate pile di appunti.  Questo signore
+alzò lo sguardo per un istante mentre entravano, e la luce della lampada cadde sui
+suoi occhiali scintillanti e sul suo lungo volto ben rasato... un volto che sarebbe
+stato semplicemente simile a quello di un [[aristocrat|aristocratico]] se non fosse
+che un certo portamento leonino della testa e la lunga fenditura nel mento lo
+facevano somigliare piuttosto a quello di un attore assai bello.  Fu solo per un
+lampo che il suo viso si sollevò così.  Poi chinò di nuovo la testa d'argento sui
+suoi appunti, e disse, senza più alzare lo sguardo:
+
+«Vi ho detto, dottor Quayle, che questi uomini dovevano andare nelle celle B e C.»
+
+Turnbull e MacIan si guardarono, e dissero più di quanto avrebbero mai potuto dire
+con la lingua o con la spada.  Fra le altre cose, dissero che a quel particolare
+Capo dell'istituto era uno spreco di [[Time|tempo]] appellarsi, e seguirono il
+dottor Quayle fuori dalla stanza.
+
+Nell'istante in cui misero piede nel corridoio, quattro robuste figure sbucarono
+da quattro lati, li immobilizzarono e li spinsero lungo le gallerie.  Molto
+probabilmente avrebbero potuto scaraventare i loro catturatori a destra e a
+sinistra, se fossero stati inclini a resistere, ma per qualche ragione senza nome
+erano piuttosto inclini a ridere.  Un misto di folle ironia e di puerile curiosità
+li faceva sentire assai disposti a vedere quale nuova piega avrebbe preso la loro
+imbecille sorte.  Furono trascinati giù per innumerevoli fredde corsie rivestite
+di piastrelle smaltate, diverse solo per essere di lunghezze diverse e disposte ad
+angoli diversi.  Erano così tante e così monotone che tornare indietro per esse
+sarebbe stato assai più arduo che fuggire dal labirinto di Hampton [[Court]].
+Solo il fatto che le finestre si facevano più rade, ricorrendo a intervalli più
+lunghi, e il fatto che quando le finestre comparivano parevano adombrate e
+lasciavano entrare meno luce, mostravano che stavano avvolgendosi verso il nucleo
+o il ventre di qualche enorme edificio.  Dopo un po' di [[Time|tempo]] i corridoi
+smaltati cominciarono a essere illuminati dall'elettricità.
+
+Alfine, quando ebbero camminato quasi un miglio in quei bianchi e lucidi tunnel,
+giunsero con un vero e proprio urto alla futile finalità di un vicolo cieco.  Tutto
+quel bianco e sfibrante [[Journey|viaggio]] terminava d'un tratto in uno spazio
+oblungo e in una nuda parete bianca.  Ma nella parete bianca c'erano due porte di
+ferro dipinte di bianco su cui erano scritte, rispettivamente, in nitide maiuscole
+nere, B e C.
+
 
 
 <span class="atom-split" data-atom="story_14_the_idiot--part_02" data-title="ball and cross — The Idiot (part 2)" data-chapter="The Idiot" data-kind="excerpt" data-tags="motif/bells,motif/cross,motif/death,motif/desert,motif/machine,motif/nature,motif/poison,motif/ship,motif/silence,motif/soul,concept/madness,concept/nature,concept/pride,concept/truth,concept/wonder,setting/desert,setting/mountains,setting/ship"></span>
@@ -17111,6 +22759,119 @@ Above all, he had a hatred, deep as the hell he did not believe in,
 for the objectless iron peg in the wall.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+«Voi entrate qui, signore» disse il capo dei funzionari, con tutto rispetto,
+«e voi qui.»
+
+Ma prima che le porte si fossero richiuse con fragore sulle loro vittime stordite,
+MacIan era riuscito a dire a Turnbull con uno strano strascico di significato:
+«[[Wonder|Mi domando]] chi sia A.»
+
+Turnbull oppose una lotta automatica prima di lasciarsi gettare nella cella.
+Accadde così che fu l'ultimo a entrare, e rimase ancora colmo dell'esaltazione
+dell'avventura per almeno cinque minuti dopo che l'eco della porta sbattuta si fu
+spenta.
+
+Poi, quando il [[Silence|silenzio]] fu calato profondo e per due ore e mezza non
+accadde nulla, gli venne d'un tratto in mente che quella era la fine della sua
+vita.  Era nascosto e sigillato in quella piccola fessura di pietra finché la carne
+non gli fosse caduta dalle ossa.  Era morto, e il mondo aveva vinto.
+
+La sua cella era di forma oblunga, ma molto lunga rispetto alla sua larghezza.
+Era appena larga abbastanza da permettere di distendere del tutto le braccia con
+i [[Bells|manubri]], che erano appesi alla parete di sinistra, assai polverosi.
+Era, tuttavia, lunga abbastanza perché un uomo potesse percorrere un trentacinquesimo
+di miglio se la attraversava per intero.  Sullo stesso principio, una fila di fori
+fissi, assai ravvicinati, lasciavano entrare nelle celle attraverso tubi quella che
+si diceva fosse l'aria più fresca.  Poiché questi grandi organizzatori scientifici
+insistevano che un uomo dovesse essere sano anche se era infelice.  Gli fornivano
+una passeggiata lunga abbastanza da dargli esercizio e fori grandi abbastanza da
+dargli ossigeno.  Lì il loro interesse per la [[Nature|natura]] umana cessava di
+colpo.  Pareva non fosse mai venuto loro in mente che il beneficio dell'esercizio
+appartiene in parte al beneficio della libertà.  Non avevano preso in considerazione
+il fatto che l'aria aperta è solo uno dei vantaggi del cielo aperto.  Somministravano
+aria in segreto, ma in dosi sufficienti, come se fosse una medicina.  Suggerivano
+di camminare, come se nessun uomo si fosse mai sentito incline a camminare.
+Soprattutto, le autorità del manicomio insistevano sulla propria straordinaria
+pulizia.  Ogni mattina, mentre Turnbull era ancora mezzo addormentato sul suo
+lettino di ferro, che era sollevato a metà della parete e ad essa serrato con ferro,
+quattro chiuse o bocche metalliche si aprivano sopra di lui ai quattro angoli della
+camera e la lavavano candida da ogni contaminazione.  La solitaria [[Soul|anima]]
+di Turnbull insorgeva contro quella nauseante solennità quotidiana.
+
+«Sono sepolto vivo!» gridava, amaramente; «mi hanno nascosto sotto le
+[[Mountains|montagne]].  Resterò qui finché non marcirò.  Che diavolo può importar
+loro se sono sporco o pulito.»
+
+Ogni mattina e ogni sera uno sportello di ferro si apriva nella sua cella oblunga,
+e una o due mani brune e pelose vi spingevano dentro un piatto di lenticchie
+perfettamente cotte e una grande ciotola di cacao.  Non era nutrito troppo poco,
+così come non gli era negato l'esercizio o l'ossigeno.  Aveva ampio spazio per
+camminare, aria in abbondanza, cibo abbondante e persino saziante.  L'unica
+obiezione era che non aveva nulla verso cui camminare, nulla di cui far festa, e
+nessuna ragione al mondo per trarre il respiro della vita.
+
+Persino la forma della sua cella lo irritava in modo particolare.  Era un lungo,
+stretto parallelogramma, che aveva una parete piatta a un'estremità e avrebbe
+dovuto averne una piatta anche all'altra; ma quell'estremità era interrotta da un
+cuneo o angolo di spazio, come la prua di una [[Ship|nave]].  Dopo tre giorni di
+[[Silence|silenzio]] e di cacao, quell'angolo all'estremità cominciò a mandare
+Turnbull in bestia.  Lo faceva impazzire pensare che due linee si congiungessero
+e puntassero verso il nulla.  Dopo il quinto giorno divenne temerario, e cacciò la
+testa nell'angolo.  Dopo venticinque giorni per poco non vi si spaccò la testa.
+Poi tornò del tutto freddo e ottuso, e cominciò a esaminarlo come una sorta di
+Robinson Crusoe.
+
+Quasi inconsciamente era suo istinto esaminare le vie d'uscita, e si ritrovò a
+prestare particolare attenzione alla fila di fori che lasciavano entrare l'aria
+nella sua ultima [[house|dimora]] di vita.  Scoprì presto che questi fori d'aria
+erano tutti le estremità e le bocche di lunghi tubi di piombo che senza dubbio
+portavano aria da qualche remota stazione balneare presso Margate.  Una sera, mentre
+era impegnato nella quinta indagine, notò qualcosa come un crepuscolo in una di
+quelle bocche mute, in confronto all'oscurità delle altre.  Spingendovi dentro il
+dito fin dove poté, trovò un foro e un lembo sporgente nel tubo.  Questo lo lacerò
+aprendolo, e all'istante vide una luce dietro; era per lo meno certo che aveva
+urtato qualche altra cella.
+
+È caratteristica di tutte le cose oggi chiamate "efficienti", il che significa
+meccaniche e calcolate, che se vanno storte, vanno storte del tutto.  Non v'è alcun
+potere di rimediare a una sconfitta, come negli organismi più semplici e più vivi.
+Un cannone potente può vincere un elefante potente, ma un elefante ferito può
+facilmente vincere un cannone rotto.  Così la monarchia prussiana nel diciottesimo
+secolo, o anche oggi, può creare un esercito potente semplicemente rendendo gli
+uomini spaventati.  Ma lo fa con la permanente possibilità che gli uomini possano
+un giorno aver più paura dei loro nemici che dei loro ufficiali.  Così le fognature
+nelle nostre città, finché sono del tutto salde, significano una sicurezza generale,
+ma se c'è una sola falla significano [[Poison|veleno]] concentrato... un'esplosione
+di germi mortali come dinamite, uno spirito di fetore.  Così, in verità, tutto
+quell'eccellente macchinario che è la cosa più veloce sulla terra nel risparmiare
+fatica umana è anche la cosa più lenta sulla terra nel resistere all'interferenza
+umana.  Può essere più facile ottenere cioccolato per nulla da un bottegaio che da
+una [[Machine|macchina]] automatica.  Ma se riuscivate a rubare il cioccolato, la
+[[Machine|macchina]] automatica avrebbe molte meno probabilità di corrervi dietro.
+
+Turnbull non tardò a scoprire questa [[Truth|verità]] in rapporto al freddo e
+colossale macchinario di quel grande manicomio.  Era stato scosso da molti stati
+spirituali fin dall'istante in cui era stato scaraventato a capofitto in quella
+cella privata che doveva essere la sua stanza privata fino alla [[Death|morte]].
+Aveva provato un alto accesso di [[Pride|orgoglio]] e di poesia, che si era ritirato
+lasciandolo mortalmente freddo.  Aveva conosciuto un periodo di mera curiosità
+scientifica, nel corso del quale esaminò tutte le piastrelle della sua cella, con
+la gratificante conclusione che erano tutte della medesima forma e grandezza; ma
+rimase assai perplesso riguardo all'angolo nella parete all'estremità, e anche
+riguardo a un piolo o punta di ferro che sporgeva dalla parete, il cui scopo egli
+non conosce fino a questo giorno.  Poi ebbe un periodo di pura [[Madness|follia]],
+che non può essere descritto da uomini perbene, ma solo da quei pochi sudici
+romanzieri aizzati dal cacciatore infernale a dar la caccia e a umiliare la
+[[Nature|natura]] umana.  Anche questo passò, ma lasciò dietro di sé un febbrile
+disgusto per molti dei semplici oggetti che lo circondavano.  A lungo dopo essere
+tornato alla [[Sanity|ragione]] e a quella disperata giovialità che un uomo potrebbe
+avere su un'isola [[Desert|deserta]], gli erano invisi i regolari quadrati del
+disegno della parete e del pavimento e il triangolo che terminava il suo corridoio.
+Soprattutto, provava un odio, profondo come l'inferno in cui non credeva, per
+l'inutile piolo di ferro nella parete.
+
 
 
 <span class="atom-split" data-atom="story_14_the_idiot--part_03" data-title="ball and cross — The Idiot (part 3)" data-chapter="The Idiot" data-kind="excerpt" data-tags="motif/cross,motif/decay,motif/machine,motif/nature,motif/silence,motif/time,motif/well,motif/window,concept/imprisonment,concept/loneliness,concept/nature,character/james_turnbull"></span>
@@ -17237,6 +22998,119 @@ The small hole from which the peg had been displaced was in that short
 oblique wall at the end nearest to Turnbull's. That individual
 looked at it with a puzzled face.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Ma in tutti i suoi umori, sani o folli, intolleranti o stoici, egli non dubitò mai
+davvero di questo: che la [[Machine|macchina]] lo tenesse tanto lievemente e tanto
+disperatamente quanto lo aveva tenuto fin dalla nascita il disperato cosmo del suo
+stesso credo.  Conosceva [[Well|bene]] le spietate e inesauribili risorse della
+nostra civiltà scientifica.  Non si aspettava un soccorso da un certificato medico
+più di quanto se ne aspettasse dal sistema solare.  In molti dei suoi umori alla
+Robinson Crusoe pensava con affetto a MacIan come a qualche litigioso compagno di
+scuola morto da tempo.  Pensava di lasciare nella cella, alla sua morte, un rigido
+resoconto delle sue opinioni, e quando cominciò a scriverle su ritagli di busta che
+aveva in tasca, si stupì di scoprire quanto fossero cambiate.  Poi ricordò la Torre
+di Beauchamp, e tentò di scrivere il suo ardente scetticismo sulla parete, e scoprì
+che era tutto piastrelle lucide su cui non si poteva né disegnare né incidere nulla.
+Poi per un istante gli si sospese e s'infranse sopra come un'alta ondata tutto
+l'orrore della [[Imprisonment|prigionia]] scientifica, che riesce a negare a un uomo
+non solo la libertà, ma ogni casuale conforto della schiavitù.  Nelle vecchie sudicie
+segrete gli uomini potevano incidere le loro preghiere o le loro proteste nella
+roccia.  Qui le pareti bianche e sdrucciolevoli sfuggivano persino al recare
+testimonianza.  I vecchi prigionieri potevano farsi un cucciolo di un topo o di uno
+scarabeo sbucato da un buco.  Qui le pareti impenetrabili erano lavate ogni mattina
+da una chiusa automatica.  Non v'era corruzione naturale né alcun misericordioso
+[[Decay|decadimento]] per cui una cosa vivente potesse entrare.  Allora
+[[James Turnbull]] alzò lo sguardo e vide l'alta, invincibile odiosità della società
+in cui viveva, e vide l'odiosità di qualcos'altro ancora, che ripeteva a sé stesso
+ancora e ancora non essere il cosmo in cui credeva.  Ma per tutto il [[Time|tempo]]
+non aveva mai dubitato neppure una volta che i cinque lati della sua cella fossero
+per lui, d'ora in avanti, la parete del mondo, e provò uno shock di sorpresa persino
+nello scoprire la debole luce attraverso l'apertura nel tubo di ventilazione.  Ma
+aveva dimenticato quanto strettamente l'efficienza debba stipare ogni cosa insieme
+e quanto facilmente, perciò, un tubo qua o là possa perdere.
+
+Turnbull spinse il primo dito giù per l'apertura, e alfine riuscì a produrre una
+lieve ulteriore fenditura nella tubatura.  La luce che saliva dall'aldilà era assai
+debole, e apparentemente indiretta; pareva cadere da qualche foro o [[Window|finestra]]
+più in alto.  Mentre stringeva l'occhio per scrutare quel grigio e untuoso crepuscolo,
+si stupì di veder scendere dall'alto verso il tubo rotto un altro dito umano, assai
+lungo e magro, e agganciarlo a qualcosa di più in alto.  L'apertura illuminata fu
+bruscamente annerita e ostruita, presumibilmente da un volto e da una bocca, poiché
+qualcosa di umano parlò giù per il tubo, benché le parole non fossero chiare.
+
+«Chi è là?» chiese Turnbull, tremando per l'eccitazione, eppure guardingo e ben
+deciso a non guastare alcuna possibilità.
+
+Dopo qualche suono indistinto la voce scese con un forte accento dell'Argyllshire:
+
+«Senti un po', Turnbull, non potremmo batterci attraverso questo tubo, che ne dici?»
+
+Sentimenti al di là della parola sorsero in Turnbull e lo ammutolirono per un tratto
+giusto abbastanza lungo da essere doloroso.  Poi disse con la sua antica allegria:
+«Propongo di parlare un po' prima; non voglio assassinare il primo uomo che incontro
+dopo dieci milioni di anni.»
+
+«So cosa vuoi dire» rispose l'altro.  «È stato spaventoso.  Per un mese mortale sono
+stato [[Alone|solo]] con Dio.»
+
+Turnbull trasalì, e gli fu sulla punta della lingua rispondere:
+«[[Alone|Solo]] con Dio!  Allora non sai che cosa sia la [[Loneliness|solitudine]].»
+
+Ma alla fine rispose, nel suo antico stile di sfida:
+«[[Alone|Solo]] con Dio, eri?  E suppongo che tu abbia trovato la compagnia di Sua
+Maestà piuttosto monotona?»
+
+«Oh, no» disse MacIan, e la sua voce rabbrividì; «è stata fin troppo emozionante.»
+
+Dopo un [[Silence|silenzio]] assai lungo la voce di MacIan disse: «Che cosa odi
+davvero di più nel tuo posto?»
+
+«Penseresti che sia davvero pazzo se te lo dicessi» rispose Turnbull, amaramente.
+
+«Allora m'aspetto sia la stessa cosa che odio io» disse l'altra voce.
+
+«Sono sicuro che non è la stessa di nessun altro» disse Turnbull, «perché non ha né
+capo né coda.  Forse il mio cervello se n'è andato davvero, ma detesto quella punta
+di ferro nella parete di sinistra più della maledetta desolazione o del maledetto
+cacao.  Ne hai una nella tua cella?»
+
+«Non più» rispose MacIan con serenità.  «L'ho tirata via.»
+
+Il suo compagno di prigionia poté soltanto ripetere le parole.
+
+«L'ho tirata via l'altro giorno, quando ero fuori di senno» continuò la tranquilla
+voce delle Highlands.  «Sembrava così superflua.»
+
+«Devi essere spaventosamente forte» disse Turnbull.
+
+«Lo si è, quando si è pazzi» fu la noncurante risposta, «e s'era un po' allentata
+nel suo alloggiamento.  Persino ora che l'ho tirata fuori non riesco a scoprire a
+che cosa servisse.  Ma ho scoperto una cosa molto più buffa.»
+
+«Che cosa vuoi dire?» chiese Turnbull.
+
+«Ho scoperto dov'è A» disse l'altro.
+
+Tre settimane dopo MacIan era riuscito ad aprire comunicazioni che rendevano chiaro
+il suo significato.  A quel [[Time|tempo]] i due prigionieri avevano pienamente
+scoperto e dimostrato quella debolezza nella [[Nature|natura]] stessa del macchinario
+moderno cui abbiamo già accennato.  Il fatto stesso che fossero isolati da ogni
+compagno significava che erano liberi da ogni spia, e poiché non c'erano carcerieri
+da corrompere, così non ce n'erano da beffare.  Il macchinario portava loro il cacao
+e puliva le loro celle; quel macchinario era tanto impotente quanto spietato.  Un po'
+di paziente violenza, condotta giorno dopo giorno tra un continuo scambio di
+suggerimenti, aprì un foro irregolare nella parete, abbastanza grande da lasciar
+passare un piccolo uomo, nel punto esatto dove prima c'erano stati i minuscoli fori
+di ventilazione.  Turnbull ruzzolò in qualche modo nell'appartamento di MacIan, e la
+sua prima occhiata scoprì che la punta di ferro era davvero divelta dal suo
+alloggiamento, e lasciava, per giunta, un altro foro frastagliato in qualche cavità
+dietro.  Ma a parte questo, la cella di MacIan era il duplicato di quella di Turnbull:
+un lungo rettangolo che terminava in un cuneo e rivestito di piastrelle fredde e
+lucenti.  Il piccolo foro da cui il piolo era stato rimosso si trovava in quella corta
+parete obliqua all'estremità più vicina a quella di Turnbull.  Costui lo guardava con
+volto perplesso.
 
 
 
@@ -17372,6 +23246,122 @@ he said, "I cannot help you?"
 "Good day."
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+«Che cosa c'è là dentro?» chiese.
+
+MacIan rispose brevemente: «Un'altra cella.»
+
+«Ma dove può essere la sua porta?» disse il compagno, ancor più perplesso;
+«le porte delle nostre celle sono all'altra estremità.»
+
+«Non ha porta» disse Evan.
+
+Nella pausa di perplessità che seguì, una sensazione strana e sinistra strisciò
+sull'ostinata [[Soul|anima]] di Turnbull suo malgrado.  L'idea della stanza senza
+porta lo agghiacciò con quel senso di curiosità mezza ebete che si ha quando
+qualcosa di orribile è compreso a metà.
+
+«[[James Turnbull]]» disse MacIan, con voce bassa e scossa, «questa gente ci odia
+più di quanto Nerone odiasse i cristiani, e ci [[Fear|teme]] più di quanto qualsiasi
+uomo temesse Nerone.  Hanno riempito l'Inghilterra di frenesia e di cavalcate per
+catturarci e cancellarci... per ucciderci.  E ci hanno uccisi, poiché tu e io abbiamo
+soltanto fatto un buco nelle nostre bare.  Ma sebbene questo odio che hanno provato
+per noi sia più grande di quello che provarono per Bonaparte, e più concreto e
+pratico di quello che proverebbero per Jack lo Squartatore, pure non siamo noi che
+la gente di questo luogo odia di più.»
+
+Una fredda e tremante impazienza continuava a strisciar su per la spina dorsale di
+Turnbull; non si era mai sentito così vicino alla superstizione e al soprannaturalismo,
+e non era nemmeno un bel genere di superstizione.
+
+«C'è un altro uomo più spaventoso e più odioso» proseguì MacIan, nella sua bassa
+voce monotona, «e lo hanno sepolto ancora più a fondo.  Dio sa come abbiano fatto,
+poiché non fu introdotto né da porta né da [[Window|finestra]], né calato attraverso
+qualche apertura in alto.  M'aspetto che quelle maniglie di ferro che entrambi odiamo
+siano state parte di qualche maledetto macchinario per murarlo.  Egli è là.  L'ho
+guardato attraverso il foro; ma non riesco a sopportare di guardarlo a lungo, perché
+il suo volto è rivolto lontano da me e non si muove.»
+
+Tutti i sentimenti innaturali e incompiuti di Turnbull trovarono il loro sfogo nel
+precipitarsi all'apertura e nel guardare dentro la stanza sconosciuta.
+
+Era una terza cella oblunga esattamente come le altre due, salvo che era senza porta,
+e salvo che su una delle pareti era dipinta una grande A nera come la B e la C fuori
+dalle loro porte.  In questo caso la lettera non era dipinta all'esterno, perché
+questa [[Prison|prigione]] non aveva un esterno.
+
+Sullo stesso tipo di pavimento piastrellato, i cui monotoni quadrati avevano fatto
+impazzire l'occhio e il cervello di Turnbull, sedeva una figura che era
+sorprendentemente bassa persino per un [[Child|bambino]], solo che l'enorme testa
+era cinta di capelli d'un grigio gelido.  La figura era ammantata, in modo insieme
+malsicuro e insufficiente, in quelli che parevano i resti di una veste da camera di
+flanella marrone; una tazza vuota di cacao stava sul pavimento accanto a lei, e la
+creatura teneva la sua grossa testa grigia inclinata a un particolare angolo
+d'interrogazione o d'attenzione che, in mezzo a tutta quella tenebra e a quel mistero
+che si addensavano, colpiva come comico se non addirittura tracotante.
+
+Dopo sei immobili secondi Turnbull non poté più sopportarlo, e chiamò quella cosa
+nanesca... con quali parole il cielo lo sa.  La cosa si alzò con la prontezza di un
+animale, e voltandosi offrì lo spettacolo di due occhi da civetta e di un'enorme barba
+grigia e bianca non dissimile dal piumaggio di una civetta.  Questa straordinaria
+barba lo copriva letteralmente fino ai piedi (non che questi fossero molto lontani),
+e forse fu un [[Well|bene]] che lo facesse, poiché porzioni delle vesti che gli
+rimanevano parevano cadergli di dosso ogni volta che si muoveva.  Si parla banalmente
+di un volto simile a pergamena, ma il volto di questo vecchio era così rugoso da
+parere una pergamena carica di geroglifici.  Le linee del suo volto erano così
+profonde e complesse che vi si potevano scorgere cinque o dieci volti diversi oltre
+a quello reale, come li si può scorgere in un'elaborata carta da parati.  E tuttavia,
+mentre il suo volto pareva una scrittura più antica degli dèi, i suoi occhi erano
+assai vividi, azzurri e trasaliti come quelli di un neonato.  Sembravano essere stati
+calati nella sua testa solo un istante prima.
+
+Tutto dipendeva così evidentemente dal fatto che questo [[Monster|mostro]] sepolto
+parlasse, che Turnbull non seppe né gli importò se lui stesso avesse parlato.  Disse
+qualcosa o nulla.  E poi attese quella voce nanesca che era stata nascosta sotto le
+[[Mountains|montagne]] del mondo.  Alfine essa parlò, e parlò in inglese, con un
+accento straniero che non era né latino né teutonico.  D'un tratto tese un lungo e
+assai sudicio dito indice, e gridò con voce di chiara scoperta, come quella di un
+[[Child|bambino]]: «Quello è un buco.»
+
+Digerì la scoperta per qualche secondo, succhiandosi il dito, e poi gridò, con uno
+scoppio di risa: «E quella è una testa venuta attraverso di esso.»
+
+L'ilare energia in quell'atteggiamento idiota diede a Turnbull un altro colpo di
+nausea.  Era arrivato a tollerare quei tetri e biascicanti pazzi che si trascinavano
+per i bei giardini del manicomio.  Ma c'era qualcosa di nuovo e di sovversivo
+dell'universo nella combinazione di tanta gioviale risolutezza con un [[Body|corpo]]
+privo di cervello.
+
+«Perché vi hanno messo in un posto simile?» chiese infine con imbarazzo.
+
+«Bel posto.  Sì» disse il vecchio, annuendo un gran numero di volte e raggiante come
+un locandiere lusingato.  «Bella forma.  Lungo e stretto, con una punta.  Come questo»
+e con le mani tracciò amorevolmente nell'aria una mappa della stanza.
+
+«Ma non è questo il meglio» aggiunse, in tono confidenziale.  «I quadrati molto buoni;
+ho una bella lunga vacanza, e posso contarli.  Ma non è questo il meglio.»
+
+«Qual è il meglio?» chiese Turnbull in grande angoscia.
+
+«La punta è il meglio» disse il vecchio, spalancando gli occhi azzurri fiammeggianti;
+«sporge in fuori.»
+
+Le parole che Turnbull pronunciò gli sgorgarono da pura pietà.  «Non possiamo far
+nulla per voi?» disse.
+
+«Sono molto felice» disse l'altro, alfabeticamente.  «Voi siete un buon uomo.  Posso
+aiutarvi io?»
+
+«No, non credo che possiate, signore» disse Turnbull con rude pathos; «sono lieto che
+almeno siate contento.»
+
+Lo strano vecchio spalancò i suoi larghi occhi azzurri e fissò Turnbull con uno
+sguardo straordinariamente severo.  «Siete proprio sicuro» disse «che io non possa
+aiutarvi?»
+
+«Del tutto sicuro, grazie» disse Turnbull con spezzata brevità.  «Buona giornata.»
+
 
 
 <span class="atom-split" data-atom="story_14_the_idiot--part_05" data-title="ball and cross — The Idiot (part 5)" data-chapter="The Idiot" data-kind="excerpt" data-tags="archetype/fool,archetype/innocent,motif/chains,motif/cross,motif/garden,motif/water,motif/well,motif/window,concept/courage,concept/fear,form/riddle"></span>
@@ -17506,6 +23496,136 @@ like jars of pickles for a mortal month, and why does he now let
 us walk free in the [[Garden|garden]] again?"
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Poi si voltò verso MacIan, che gli stava ritto proprio alle spalle,
+e il cui volto, ormai familiare in ogni suo umore, gli disse senza
+fatica che Evan aveva udito per intero lo strano dialogo.
+
+"Maledette quelle bestie crudeli!" gridò Turnbull. "L'hanno ridotto
+a un imbecille semplicemente seppellendolo vivo. Il suo cervello adesso
+è ridotto a una capocchia di spillo."
+
+"Sei sicuro che sia un pazzo?" disse Evan, lentamente.
+
+"Non un pazzo," disse Turnbull, "un idiota. Non fa che indicare le cose
+e dire che sporgono."
+
+"Aveva l'idea di poterci aiutare," disse MacIan cupamente,
+e cominciò a camminare avanti e indietro verso l'altro capo della cella.
+
+"Sì, c'era qualcosa di patetico," convenne Turnbull; "una Cosa simile
+che offriva aiuto, e per giunta---- Ehi! Ehi! Che succede?"
+
+"Dio Onnipotente ci guidi tutti!" disse MacIan.
+
+Se ne stava pesante e immobile all'altro capo della stanza,
+fissando in silenzio la porta che per trenta giorni li aveva
+sigillati lontano dal sole. Turnbull, seguendo lo sguardo dell'altro,
+fissò anch'egli la porta, e poi anche lui emise un'esclamazione.
+La porta di ferro era socchiusa di circa un pollice e mezzo.
+
+"Lui ha detto----" cominciò Evan, con voce tremante--"lui ha offerto----"
+
+"Andiamo, [[Fool|sciocco]] che non sei altro!" gridò Turnbull con improvvisa e
+furiosa energia. "Adesso capisco tutto, ed è il più bel colpo di fortuna
+del mondo. Hai tirato fuori quella maniglia di ferro che aveva serrato
+la sua cella, e in qualche modo ha alterato il meccanismo e ha aperto
+tutte le porte."
+
+Afferrando MacIan per il gomito lo sospinse di peso fuori nel
+corridoio aperto e lo trascinò avanti finché non videro la luce del giorno
+attraverso una [[Window|finestra]] quasi oscurata.
+
+"Comunque sia," disse Evan, come uno che risponde in una conversazione qualunque,
+"lui ti ha chiesto se poteva aiutarti."
+
+Tutto quel dedalo di corridoi senza finestre era così intrecciato
+nel cuore di quella fortezza della [[Fear|paura]] che parve trascorrere più di un'ora
+prima che i fuggiaschi cogliessero un buon scorcio del mondo esterno.
+Non sapevano neppure che ora del giorno fosse; e quando,
+svoltando un angolo, videro il nudo cunicolo del corridoio terminare
+d'un tratto in un quadrato splendente di [[Garden|giardino]], l'erba avvampante
+in quella forte luce serale che la rende oro brunito più che
+verde, l'improvviso spalancarsi sulla terra parve un varco
+aperto a colpi nella parete del cielo. Solo una o due volte nella vita è
+concesso a un uomo di vedere così l'universo stesso dall'esterno,
+e di sentire l'esistenza medesima come un'adorabile avventura non ancora cominciata.
+Trovando questa splendente via di fuga da quel labirinto infernale
+ebbero entrambi simultaneamente la sensazione di essere pargoli [[unborn|non nati]],
+di essere interrogati da Dio se desiderassero vivere sulla terra.
+Stavano guardando dentro una delle sette porte dell'Eden.
+
+Turnbull fu il primo a balzare nel [[Garden|giardino]], con un salto che sfidava la terra
+come quello di chi potesse davvero spiegare le ali e volare.
+MacIan, che giunse un istante dopo, era meno colmo di puro gusto
+animale e più pieno di un piacere più timoroso e trepidante nei
+limpidi e [[Innocent|innocenti]] colori dei fiori e negli alti e sacri alberi.
+Con un solo balzo furono in quel paesaggio fresco e nitido,
+e trovarono proprio fuori della porta il gentiluomo vestito di nero
+dal mento bifido che li osservava sorridente; e il suo mento pareva
+allungarsi sempre di più mentre sorrideva.
+
+XVIII. UN [[Riddle|ENIGMA]] DI VOLTI
+
+Proprio dietro di lui stavano altri due medici: uno, il familiare
+Dr. Quayle, dagli occhi ammiccanti e dalla voce belante; l'altro,
+una figura più comune ma assai più energica, un giovane medico
+tarchiato dai capelli corti, [[Well|ben]] spazzolati, e dal volto tondo ma risoluto.
+Alla vista della fuga questi due subalterni emisero un grido e
+scattarono avanti, ma il loro superiore rimase immobile e sorridente,
+e in qualche modo la mancanza del suo appoggio parve arrestarli e gelarli
+nel gesto stesso dell'inseguimento.
+
+"Lasciateli," gridò con una voce che tagliava come una lama di ghiaccio;
+e non solo di ghiaccio, ma di un terribile ghiaccio primordiale che non era
+mai stato [[Water|acqua]].
+
+"Non voglio campioni devoti," disse la voce tagliente; "persino la follia
+degli amici alla fine annoia. Non crederete che io avrei
+lasciato uscire questi pazzi dalle loro celle senza una buona ragione.
+Ho la migliore e più piena delle ragioni. Possono essere lasciati fuori dalla loro
+cella oggi, perché oggi il mondo intero è diventato la loro cella.
+Non voglio più pantomime medievali di [[Chains|catene]] e di porte.
+Che vaghino per la terra come hanno vagato per questo [[Garden|giardino]],
+e io sarò ancora il loro agevole padrone. Prendano le ali dell'aurora
+e vadano a dimorare negli estremi confini del mare--io sono là.
+Dove andranno lontano dalla mia presenza e dove fuggiranno
+dal mio spirito? [[Courage|Coraggio]], Dr. Quayle, e non lasciatevi abbattere;
+i veri giorni della tirannia stanno appena cominciando su questa terra."
+
+E con ciò il Padrone rise e si allontanò da loro,
+quasi come se la sua risata fosse una cosa che è male vedere.
+
+"Potrei parlarvi un momento?" disse Turnbull, facendosi avanti
+con rispettosa risolutezza. Ma le spalle del Padrone
+parvero soltanto assumere un nuovo e inatteso angolo di scherno
+mentre si allontanava a grandi passi.
+
+Turnbull si girò di scatto verso gli altri due medici,
+e disse, aspramente: "Che diavolo intende dire--e voi chi siete?"
+
+"Il mio nome è Hutton," disse l'uomo basso e tarchiato, "e sono--[[Well|beh]], uno di
+coloro il cui compito è sostenere questa istituzione."
+
+"Il mio nome è Turnbull," disse l'altro; "io sono uno di coloro il cui
+compito è raderla al suolo."
+
+Il piccolo medico sorrise, e l'ira di Turnbull parve d'un tratto
+rasserenarlo.
+
+"Ma non voglio parlare di questo," disse, con calma; "voglio soltanto
+sapere che cosa intende davvero il Padrone di questo manicomio."
+
+Il sorriso del Dr. Hutton si sciolse in una risata che, per quanto breve,
+aveva il sospetto di un tremito. "Suppongo che riteniate questa
+una domanda affatto semplice," disse.
+
+"La ritengo una domanda schietta," disse Turnbull, "e una che merita
+una risposta schietta. Perché il Padrone ci ha rinchiusi in un paio di stipetti
+come barattoli di sottaceti per un mese intero, e perché adesso ci lascia
+camminare liberi di nuovo nel [[Garden|giardino]]?"
+
 
 
 <span class="atom-split" data-atom="story_14_the_idiot--part_06" data-title="ball and cross — The Idiot (part 6)" data-chapter="The Idiot" data-kind="excerpt" data-tags="motif/cross,motif/garden,motif/silence,motif/well,concept/truth,setting/london"></span>
@@ -17630,6 +23750,127 @@ magistrate before whom he and MacIan had once stood on their trial.
 The magistrate must have been transferred to some other official duties--
 to something connected with the inspection of asylums.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+"Se ho ben capito," disse Hutton, inarcando le sopracciglia, "la vostra
+lagnanza è che ora siete libero di passeggiare nel [[Garden|giardino]]."
+
+"La mia lagnanza è," disse Turnbull, ostinato, "che se sono idoneo
+a camminare libero adesso, lo sono stato altrettanto per tutto il mese scorso.
+Nessuno mi ha esaminato, nessuno mi si è avvicinato. Il vostro capo dice
+che sono libero soltanto perché ha preso altre disposizioni.
+Quali sono queste disposizioni?"
+
+Il giovane dal volto tondo abbassò lo sguardo per un poco e
+fumò meditabondo. L'altro medico, più anziano, se ne era andato camminando
+nervosamente per conto suo sul prato. Alla fine il volto tondo
+si rialzò, e mostrò due tondi occhi azzurri con una certa
+franchezza. 
+
+"[[Well|Beh]], non vedo che male possa fare dirvelo, ormai,"
+disse. "Voi foste rinchiuso proprio allora perché fu proprio durante
+quel mese che il Padrone stava portando a compimento il suo grande disegno.
+Stava facendo passare la sua legge in Parlamento, e organizzando la nuova
+polizia medica. Ma naturalmente voi non avete saputo nulla di tutto ciò;
+in effetti, non era previsto che sapeste."
+
+"Saputo tutto che cosa?" chiese l'impaziente investigatore.
+
+"C'è una nuova legge adesso, e i poteri dei manicomi sono grandemente estesi.
+Anche se ora evadeste, qualunque poliziotto vi arresterebbe nella
+prima città in cui giungeste, se non poteste esibire un certificato di [[Sanity|sanità mentale]] rilasciato da noi."
+
+"[[Well|Beh]]," continuò il Dr. Hutton, "il Padrone ha esposto dinanzi a entrambe
+le Camere del Parlamento la vera obiezione scientifica a tutta la legislazione
+esistente in materia di follia. Come ha detto giustissimamente, l'errore stava
+nel supporre che la pazzia fosse una mera eccezione o un estremo.
+La pazzia, come la smemoratezza, è semplicemente una qualità che entra
+più o meno in tutti gli esseri umani; e per fini pratici
+è più necessario sapere di chi la mente sia davvero degna di fiducia
+che di chi ne abbia qualche accidentale macchia. Abbiamo perciò rovesciato
+il metodo esistente, e ora le persone devono provare di essere sane di mente.
+Nel primo villaggio in cui entraste, la guardia del villaggio noterebbe
+che non portate sul risvolto sinistro della giacca la piccola
+S di peltro che è ora necessaria a chiunque cammini oltre i confini
+del manicomio o fuori dalle ore consentite dal manicomio."
+
+"Volete dirmi," disse Turnbull, "che questo è ciò che il Padrone
+del manicomio ha sostenuto dinanzi alla [[house|Camera]] dei Comuni?"
+
+Il Dr. Hutton annuì con gravità.
+
+"E volete dirmi," gridò Turnbull, con uno sbuffo vibrante, "che quella
+proposta è stata approvata in un'assemblea che si dice democratica?"
+
+Il medico mostrò l'intera fila dei denti in un sorriso. "Oh, l'assemblea
+si dice Socialista adesso," disse, "ma abbiamo spiegato loro
+che questa era una questione da uomini di scienza."
+
+Turnbull batté una volta il piede sulla ghiaia, poi si ricompose,
+e riprese: "Ma perché il vostro infernale medicastro capo doveva rinchiuderci
+in celle separate mentre trasformava l'Inghilterra in un manicomio?
+Io non sono il Primo Ministro; noi non siamo la [[house|Camera]] dei Lord."
+
+"Non aveva paura del Primo Ministro," replicò il Dr. Hutton;
+"non ha paura della [[house|Camera]] dei Lord. Ma----"
+
+"[[Well|Beh]]?" incalzò Turnbull, pestando di nuovo il piede.
+
+"Ha paura di voi," disse Hutton, semplicemente. "Come, non lo sapevate?"
+
+MacIan, che non aveva ancora parlato, fece un solo passo avanti e restò
+ritto con le membra tremanti e gli occhi splendenti.
+
+"Aveva paura!" cominciò Evan, con voce impastata. "Volete dire che noi----"
+
+"Voglio dire la pura [[Truth|verità]], ora che il pericolo è passato,"
+disse Hutton, con calma; "senza dubbio voi due eravate le sole persone di cui
+egli avesse mai avuto paura." Poi aggiunse con voce bassa ma non inudibile:
+"Tranne una--che temeva ancora di più, e che ha sepolto ancora più a fondo."
+
+"Vieni via," gridò MacIan, "su questo bisogna riflettere."
+
+Turnbull lo seguì in [[Silence|silenzio]] mentre si allontanava a grandi passi, ma poco prima
+di sparire, si voltò e parlò di nuovo ai medici.
+
+"Ma che cosa ha preso la gente?" chiese, di scatto. "Perché mai
+tutta l'Inghilterra sarebbe impazzita sul mero argomento della pazzia?"
+
+Il Dr. Hutton sorrise ancora una volta del suo sorriso aperto e s'inchinò leggermente.
+"Anche in quanto a questo," replicò, "non voglio rendervi vanitoso."
+
+Turnbull si girò di scatto senza una parola, e lui e il suo compagno
+si persero nel lucente fogliame del [[Garden|giardino]]. Non notarono
+nulla di particolare nella scena, se non che il [[Garden|giardino]] pareva
+più squisito che mai nel tramonto che si faceva più intenso, e che vi
+parevano esserci molte più persone, fossero pazienti o inservienti,
+che vi passeggiavano.
+
+Da dietro i due medici in nero, mentre stavano sul prato,
+un'altra figura vestita in modo alquanto simile passò loro accanto in fretta,
+avendo anch'essa i capelli brizzolati e un'aperta redingote svolazzante. Sia
+il suo passo deciso sia il lindo abbigliamento nero lo segnalavano come un altro
+uomo di medicina, o almeno un uomo d'autorità, e mentre passava
+accanto a Turnbull, questi fu colpito dalla forte impressione di aver
+già visto quell'uomo da qualche parte. Non era nessuno che conoscesse [[Well|bene]],
+eppure era certo che fosse qualcuno che in un momento o nell'altro aveva
+guardato fissamente. Non era né il volto di un amico né quello di un nemico;
+non suscitava né irritazione né tenerezza, eppure era un volto
+che per qualche ragione aveva avuto grande importanza nella sua vita.
+Girando e rigirando, e facendo deviazioni intorno al [[Garden|giardino]],
+riuscì a studiare di nuovo, più e più volte, il volto di quell'uomo--un volto
+baffuto, alquanto militaresco, con un monocolo, quel genere di volto che è
+aristocratico senza essere distinto. Turnbull non riusciva a
+ricordare alcun medico in particolare nella sua esistenza decisamente sana.
+Era forse l'uomo uno zio perduto da tempo, o era soltanto qualcuno che gli si era
+seduto regolarmente di fronte in un treno? In quel momento l'uomo fece cadere
+il proprio monocolo con un gesto di stizza; Turnbull ricordò
+il gesto, e la [[Truth|verità]] gli si drizzò davanti, solida.
+L'uomo dai baffi era Cumberland Vane, il magistrato di polizia di [[London|Londra]]
+dinanzi al quale lui e MacIan si erano un tempo trovati sotto processo.
+Il magistrato doveva essere stato trasferito a qualche altro incarico ufficiale--
+a qualcosa connesso con l'ispezione dei manicomi.
 
 
 
@@ -17758,6 +23999,130 @@ troubled by as many tempests as his own west Highland seas,
 but there had always been a fixed star of [[Faith|faith]] behind the storms.
 Now the star had gone out, and there was only misery.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Il cuore di Turnbull ebbe un balzo di eccitazione che era per metà [[Hope|speranza]].
+Come magistrato il signor Cumberland Vane era stato alquanto negligente
+e superficiale, ma certamente benevolo, e non insensibile al buon
+senso, purché gli fosse esposto in un linguaggio rigorosamente convenzionale.
+Era per lo meno un'autorità di specie più umana e ristoratrice del
+maniaco dalla barba dondolante o del demonio dal mento biforcuto.
+
+Andò dritto dal magistrato, e disse: "Buonasera,
+signor Vane; [[Doubt|dubito]] che vi ricordiate di me."
+
+Cumberland Vane si avvitò il monocolo nel volto accigliato per
+un istante, e poi disse seccamente ma non sgarbatamente: "Sì, mi ricordo
+di voi, signore; aggressione o percosse, non è vero?--un tale vi ruppe la [[Window|finestra]].
+Un tale alto--Mc-qualcosa--il caso fece parecchio rumore in seguito."
+
+"MacIan è il nome, signore," disse Turnbull, rispettosamente; "l'ho
+qui con me."
+
+"Eh!" fece Vane molto seccamente. "Al diavolo! Ha forse qualcosa
+a che fare con questa faccenda?"
+
+"Signor Vane," disse Turnbull, in tono conciliante, "non pretenderò che né
+lui né io ci comportammo del tutto decorosamente in quell'occasione. Voi foste molto
+indulgente con noi, e non ci trattaste da criminali quando ben avreste potuto.
+Perciò sono certo che ci renderete testimonianza che, anche se fummo
+criminali, non siamo pazzi in alcun senso legale o medico, di sorta.
+Sono certo che userete la vostra influenza in nostro favore."
+
+"La mia influenza!" ripeté il magistrato, con un lieve sussulto.
+"Non vi comprendo bene."
+
+"Non so in quale veste voi vi troviate qui," continuò Turnbull,
+gravemente, "ma un'autorità legale della vostra distinzione deve certamente
+trovarsi qui in una veste importante. Che voi stiate visitando e ispezionando
+il luogo, o vi siate legato ad esso come una sorta di consulente legale
+permanente, la vostra opinione dovrà pur----"
+
+Cumberland Vane esplose con una detonazione di bestemmie; il suo volto
+era trasfigurato dalla furia e dal disprezzo, eppure in qualche strano modo
+non pareva particolarmente adirato con Turnbull.
+
+"Ma che il Signore ci benedica e ci salvi!" ansimò, alla fine;
+"Non sono qui affatto come funzionario. Sono qui come paziente.
+Quella maledetta banda di chimici acchiappatopi dice tutta
+che ho perduto il senno."
+
+"Voi!" gridò Turnbull con terribile enfasi. "Voi! Perduto il senno!"
+
+Nell'impeto del suo autentico stupore dinanzi a questa torreggiante irrealtà
+Turnbull per poco non aggiunse: "Ma se non ne avete affatto da perdere."
+Ma per fortuna si ricordò dei resti della sua disperata diplomazia.
+
+"Questo non può continuare," disse, deciso. "Uomini come MacIan e me possono
+soffrire ingiustamente per tutta la vita, ma un uomo come voi deve avere influenza."
+
+"C'è un solo uomo che abbia una qualche influenza in Inghilterra ora,"
+disse Vane, e la sua voce acuta cadde in un'improvvisa e convincente quiete.
+
+"Chi intendete?" chiese Turnbull.
+
+"Intendo quel maledetto individuo dal lungo mento spaccato," disse l'altro.
+
+"È davvero vero," chiese Turnbull, "che gli è stato permesso di comprarsi
+e controllare così tanto? Che cosa ha ridotto il paese in un simile stato?"
+
+Il signor Cumberland Vane rise apertamente. "Che cosa ha ridotto il paese in
+un simile stato?" chiese. "Ma voi, siete stato voi. Quando foste [[Fool|sciocco]] abbastanza
+da acconsentire a battervi con MacIan, dopotutto, chiunque era pronto a credere
+che la Banca d'Inghilterra potesse verniciarsi di rosa a pallini bianchi."
+
+"Non capisco," rispose Turnbull. "Perché mai dovreste essere sorpreso
+del fatto che io mi battessi? [[Hope|Spero]] di essermi sempre battuto."
+
+"[[Well|Beh]]," disse Cumberland Vane, con leggerezza, "voi non credevate
+nella religione, capite--e così pensavamo che foste al sicuro, in ogni caso.
+Con il vostro linguaggio andaste più in là di quanto la maggior parte di noi volesse andare;
+non serve a nulla ferire i sentimenti della propria madre, credo.
+Ma naturalmente sapevamo tutti che avevate ragione e, davvero, contavamo su di voi."
+
+"Contavate?" disse il direttore di _L'Ateo_ con il cuore che scoppiava.
+"Mi dispiace che non me l'aveste detto al [[Time|momento]]."
+
+Si allontanò a passi rapidissimi e si gettò su un sedile del [[Garden|giardino]],
+e per una buona sei minuti i propri torti gli nascosero l'enorme e
+esilarante fatto che Cumberland Vane fosse stato rinchiuso come pazzo.
+
+Il [[Garden|giardino]] del manicomio era così perfettamente disegnato, e rispondeva
+così squisitamente a ogni ora del giorno, che si sarebbe quasi potuto immaginare
+che la luce del sole vi fosse catturata, impigliata tra i suoi alberi tinti,
+come i saggi di Gotham cercarono di incatenare la [[spring|primavera]] a un cespuglio.
+Oppure pareva come se questo ironico paradiso conservasse ancora la sua unica
+[[Dawn|alba]] o il suo particolare tramonto mentre il resto del globo terrestre
+rotolava attraverso le sue ore ordinarie. Vi fu una sera,
+o tardo pomeriggio, in particolare, che [[Evan MacIan]] ricorderà
+negli ultimi istanti della [[Death|morte]]. Era ciò che gli artisti chiamano un
+cielo color giunchiglia, ma è già reso volgare persino dal riferimento a una giunchiglia.
+Era di quel giallo [[Innocent|innocente]] e solitario che non ha mai sentito parlare dell'arancione,
+benché potesse volgersi, del tutto inconsapevolmente, al verde. Contro di esso le cime,
+si potrebbe dire le torrette, degli alberi potati e ordinati si stagliavano
+in quella sfumatura di violetto velato che tinge le cime della lavanda.
+Una bianca luna precoce era appena rintracciabile su quel delicato giallo.
+MacIan, dico, ricorderà questa sera tenera e trasparente,
+in parte per il suo verginale oro e argento, e in parte perché
+vi passò sotto attraverso l'istante più orribile della sua vita.
+
+Turnbull sedeva sul suo sedile sul prato, e la dorata
+sera fece impressione persino sulla sua positiva [[Nature|natura]], come del resto avrebbe potuto
+fare impressione sui buoi in un campo. Fu scosso dal suo ozioso
+umore di soggezione nel vedere MacIan sbucare da dietro i cespugli e correre
+attraverso il prato con un'azione che non aveva mai visto nell'uomo prima,
+con tutta la sua esperienza degli eccentrici umori di questo Celta.
+MacIan si abbatté sulla panca, scuotendola tanto che sferragliò,
+e la strinse con le ginocchia come uno in preda a spaventoso [[Pain|dolore]] del [[Body|corpo]].
+Quella particolare corsa e caduta è tipica solo di un uomo che è stato
+colpito da qualche subitaneo e incurabile male, che è morso da una vipera
+o condannato all'impiccagione. Turnbull alzò lo sguardo al bianco volto
+del suo amico e nemico, e per poco non si raggelò a ciò che vi vide.
+Aveva veduto gli occhi azzurri ma cupi del montanaro delle Highlands occidentali
+turbati da tante tempeste quante i suoi propri mari delle Highlands occidentali,
+ma vi era sempre stata una stella fissa di [[Faith|fede]] dietro le tempeste.
+Ora la stella si era spenta, e non c'era che desolazione.
 
 
 
@@ -17898,6 +24263,142 @@ blazing smile, "and I am locked up because it was to me you promised."
 "Oh, you can see my certificate if you like," she replied
 with some hauteur.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Eppure MacIan ebbe la forza di rispondere alla domanda là dove Turnbull,
+colto di sorpresa, non aveva la forza di porla.
+
+"Hanno ragione, hanno ragione!" gridò. "Oh, mio Dio! hanno
+ragione, Turnbull. Il mio posto è qui!"
+
+Proseguì con informe scioltezza, come se non avesse più il coraggio
+di scegliere o frenare le sue parole. "Suppongo che avrei dovuto intuirlo
+molto tempo fa--tutti i miei grandi [[Dreams|sogni]] e progetti--e tutti contro di noi--
+ma ero pieno di boria, sai."
+
+"Raccontami tutto, davvero," gridò l'ateo e, di fronte
+alla fornace del [[Pain|dolore]] dell'altro, non si accorse di parlare
+con l'affetto di un padre.
+
+"Sono pazzo, Turnbull," disse Evan, con una morta chiarezza di parola,
+e si abbandonò all'indietro contro il sedile del [[Garden|giardino]].
+
+"Sciocchezze," disse l'altro, aggrappandosi all'ovvio spunto di
+una brutalità benevola, "questo è uno dei tuoi sciocchi umori."
+
+MacIan scosse il capo. "So abbastanza di me stesso," disse,
+"da fare la tara a qualunque umore, anche se aprisse il cielo o l'inferno.
+Ma vedere cose--vederle camminare solide nel sole--
+cose che non possono essere lì--i veri mistici non fanno mai così, Turnbull."
+
+"Quali cose?" chiese l'altro, incredulo.
+
+MacIan abbassò la voce. "Ho visto _lei_," disse, "tre minuti fa--
+che camminava qui, in questo cortile infernale."
+
+Tra il tentare di apparire sprezzante e l'apparire davvero trasecolato,
+il volto di Turnbull era abbastanza confuso da non emettere parola, ed Evan
+proseguì con monotona sincerità:
+
+"L'ho vista camminare dietro quegli alberi benedetti contro quel sacro
+cielo d'oro, distinta come la vedo ogni volta che chiudo gli occhi.
+Li ho proprio chiusi, e riaperti, e lei era ancora lì--
+cioè, naturalmente, lei non c'era---- Aveva ancora una pelliccetta
+intorno al collo, ma il suo vestito era di una sfumatura più viva di quando
+la vidi davvero."
+
+"Mio caro amico," gridò Turnbull, richiamando una risata cordiale,
+"le fantasie ti hanno davvero preso. Hai scambiato per lei qualche altra
+povera ragazza qui."
+
+"Scambiato qualche altra----" disse MacIan, e le parole gli mancarono del tutto.
+
+Sedettero per alcuni momenti nel morbido [[Silence|silenzio]] del [[Garden|giardino]] serale,
+un [[Silence|silenzio]] che era soffocante per lo scettico, ma del tutto vuoto e definitivo
+per l'uomo di [[Faith|fede]]. Alla fine egli proruppe di nuovo con le parole:
+"[[Well|Beh]], in ogni caso, se sono pazzo, sono lieto di essere pazzo per questo."
+
+Turnbull mormorò qualche goffa protesta, e sedette fumando impassibile
+per raccogliere i pensieri; l'istante seguente aveva tutti i nervi
+impegnati nel puro sforzo di restare immobile.
+
+Attraverso lo spazio limpido di freddo argento e di un pallido cielo color limone che era
+lasciato dal varco tra gli elci, passò una figura snella e scura,
+un profilo e il portamento di un capo scuro come quello di un uccello, che davvero
+lo inchiodò al suo posto con la punta della coincidenza. Con uno sforzo
+si alzò in piedi, e disse con una voce di affettata noncuranza:
+"Per Giove! MacIan, lei è straordinariamente simile a----"
+
+"Cosa!" gridò MacIan, con un balzo di brama che spezzava il cuore,
+"la vedi anche tu?" E la fiamma tornò al centro
+dei suoi occhi.
+
+Le fulve sopracciglia di Turnbull si strinsero in un peculiare cipiglio
+di curiosità, e d'un tratto attraversò rapidamente il prato.
+MacIan restò rigido, ma lo scrutò con labbra aperte e riarse.
+Vide lo spettacolo che o lo provava sano di mente o provava l'intero
+universo dissennato; vide l'uomo di carne accostarsi a quel
+bel [[Phantom|fantasma]], vide i loro gesti di riconoscimento, e li vide
+contro il tramonto congiungere le mani.
+
+Non poté più sopportarlo, ma corse fino al viale, svoltò l'angolo
+e vide, ritta del tutto palpabile nella luce serale, mentre parlava con
+disinvolta grazia a Turnbull, il volto e la figura che avevano riempito le sue
+mezzenotti di lineamenti spaventosamente vividi o disperatamente semidimenticati.
+Lei avanzò in modo del tutto piacevole e calmo, e gli porse la mano.
+Nell'istante in cui la toccò seppe di essere sano di mente anche se
+il sistema solare era impazzito.
+
+Lei era interamente elegante e disinvolta. È questa la cosa terribile
+delle donne--si rifiutano di essere emotive nei momenti emotivi,
+con qualche ridicolo pretesto, come che ci sia qualcun altro presente.
+Ma MacIan si trovava in una condizione di critica assai inferiore alla media
+maschile, essendo di fatto semplicemente sconvolto dall'incalzante [[Riddle|enigma]]
+degli eventi.
+
+Evan non sa fino a oggi quale precisa domanda pose,
+ma ricorda vividamente che lei rispose, e ogni linea od
+oscillazione del suo volto mentre lo diceva.
+
+"Oh, non lo sapete?" disse lei, sorridendo, e sollevando d'un tratto
+le sue diritte sopracciglia brune. "Non avete sentito la notizia?
+Sono una pazza."
+
+Poi aggiunse dopo una breve pausa, e con una sorta di [[Pride|orgoglio]]:
+"Ho un certificato."
+
+Il suo contegno, per l'impareggiabile stoicismo sociale del suo sesso,
+si addiceva del tutto a un salotto, ma la risposta di Evan cadde
+alquanto al di sotto di un tale standard, poiché egli disse soltanto:
+"Che diavolo d'inferno significa tutta questa assurdità?"
+
+"Davvero," disse la giovane signora, e rise.
+
+"Vi chiedo scusa," disse l'infelice giovane, piuttosto stralunato,
+"ma quel che intendo è: perché siete qui in un manicomio?"
+
+La giovane donna proruppe di nuovo in una di quelle esasperanti e misteriose
+risate della femminilità. Poi ricompose i lineamenti, e replicò
+con pari dignità: "[[Well|Beh]], se è per questo, perché ci siete voi?"
+
+Il fatto che Turnbull si fosse allontanato a passeggio e stesse esaminando
+dei rododendri può essere stato dovuto alle riuscite preghiere di Evan
+all'altro mondo, o forse alla sua stessa esperienza abbastanza riuscita
+di questo. Ma benché essi due fossero isolati come un nuovo Adamo
+ed Eva in un grazioso Eden ornamentale, la signora non allentò di un pollice
+il rigore del suo motteggio.
+
+"Sono rinchiuso nel manicomio," disse Evan, con una sorta di rigido [[Pride|orgoglio]],
+"perché ho cercato di mantenere la promessa che vi feci."
+
+"Proprio così," rispose l'inspiegabile signora, annuendo con un sorriso perfettamente
+sfolgorante, "e io sono rinchiusa perché fu a me che voi la prometteste."
+
+"È scandaloso!" gridò Evan; "è impossibile!"
+
+"Oh, potete vedere il mio certificato, se volete," replicò lei
+con una certa alterigia.
 
 
 
@@ -18148,6 +24649,131 @@ What can it mean--meeting all these old people again?
 One never meets such old friends again except in [[A Dream|a dream]]."
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+XIX. L'ULTIMO COLLOQUIO
+
+Turnbull si allontanò, cercando febbrilmente di spiegarsi la presenza
+di due conoscenze personali così diverse come Vane e la ragazza.
+Mentre costeggiava una bassa siepe di alloro, un giovanotto enormemente
+alto la scavalcò con un balzo, gli si piantò davanti, e per poco non gli
+cadde al collo come cercando di abbracciarlo.
+
+"Non mi riconosci?" quasi singhiozzò il giovanotto, che era del
+più allegro degli umori. "Non sono scritto nel tuo cuore, vecchio mio?
+Di', che ne hai fatto del mio yacht?"
+
+"Togliti le braccia dal mio collo," disse Turnbull, irritato.
+"Sei pazzo?"
+
+Il giovanotto si sedette sul sentiero di ghiaia e si abbandonò a estasi
+di risate. "No, è proprio questo il bello--non sono pazzo,"
+replicò. "Mi hanno rinchiuso in questo posto, e non sono pazzo."
+E si abbandonò di nuovo a un'ilarità [[Innocent|innocente]] come [[Bells|campane]] nuziali.
+
+Turnbull, i cui poteri di sorpresa erano esauriti, roteò i suoi tondi
+occhi grigi e disse: "Il signor Wilkinson, mi pare," perché non
+riusciva a pensare a nient'altro da dire.
+
+Il tale alto seduto sulla ghiaia s'inchinò con urbanità, e disse:
+"Del tutto al vostro servizio. Da non confondersi con i Wilkinson
+del Cumberland; e come dico, vecchio mio, che ne hai fatto del mio yacht?
+Vedi, mi hanno rinchiuso qui--in questo [[Garden|giardino]]--e uno yacht
+sarebbe una sorta di occupazione per uno scapolo."
+
+"Mi dispiace davvero orribilmente," cominciò Turnbull, all'ultimo stadio
+del trattenuto sconcerto e dell'esasperazione, "ma davvero----"
+
+"Oh, vedo bene che non puoi averlo con te in questo momento,"
+disse il signor Wilkinson con molta magnanimità intellettuale.
+
+"[[Well|Beh]], il fatto è----" ricominciò Turnbull, e poi la frase
+gli si gelò in bocca, perché dietro l'angolo comparvero il volto
+caprino e gli scintillanti occhiali del Dr. Quayle.
+
+"Ah, mio caro signor Wilkinson," disse il medico, come deliziato
+da una coincidenza; "e il signor Turnbull, pure. Ma guarda, volevo proprio parlare
+al signor Turnbull."
+
+Il signor Turnbull fece un qualche movimento più di resa che di assenso,
+e il medico lo raccolse squisitamente, mostrando anche di più i suoi due
+denti anteriori. "Sono certo che il signor Wilkinson ci scuserà un momento."
+E con la redingote svolazzante condusse Turnbull rapidamente dietro l'angolo
+di un sentiero.
+
+"Mio caro signore," disse, in modo del tutto affettuoso,
+"non mi dispiace dirvelo--voi siete un caso talmente promettente--
+comprendete così [[Well|bene]] il punto di vista scientifico; e a me
+non piace vedervi importunato dai casi davvero disperati.
+Sono monotoni e fanno impazzire. L'uomo con cui avete appena
+parlato, pover'uomo, è uno dei più forti casi di pura _idée
+fixe_ che abbiamo. È molto triste, e temo del tutto incurabile.
+Continua a dire a tutti"--e il medico abbassò la voce
+in tono confidenziale--"dice a tutti che due persone gli hanno preso lo yacht.
+Il suo racconto di come lo perse è del tutto incoerente."
+
+Turnbull batté il piede sul sentiero di ghiaia, ed esclamò:
+"Oh, non posso sopportarlo. Davvero----"
+
+"Lo so, lo so," disse lo psicologo, mestamente; "è un caso quanto mai
+[[Melancholy|malinconico]], e per fortuna anche molto raro. È così raro,
+di fatto, che in una classificazione di questi mali è registrato
+sotto una voce a sé--Perdinavititis, infiammazione mentale
+che genera l'impressione di aver perduto una [[Ship|nave]]. Davvero," aggiunse,
+con una sorta di [[Guilt|colpa]] mezzo imbarazzata, "è piuttosto una piuma sul mio cappello.
+Ho scoperto l'unico caso esistente di perdinavititis."
+
+"Ma questo non va, dottore," disse Turnbull, quasi strappandosi i capelli,
+"questo davvero non va. L'uomo ha davvero perduto una [[Ship|nave]].
+Anzi, per non mettere la cosa troppo per il sottile, sono io che gli ho preso la [[Ship|nave]]."
+
+Il Dr. Quayle si girò di scatto per un istante, così che il suo soprabito
+foderato di seta frusciò, e fissò Turnbull in modo singolare.
+Poi disse con affrettata amabilità: "Ma certo che l'avete fatto.
+Proprio così, proprio così," e con cortesi gesti se ne andò a grandi passi su per il
+sentiero del [[Garden|giardino]]. Sotto il primo maggiociondolo si fermò, però,
+e tirando fuori la matita e il taccuino scrisse febbrilmente:
+"Sviluppo singolare nell'Eleutero-maniaco, Turnbull.
+Improvvisa manifestazione di Rapinavititis--l'illusione di aver
+rubato una [[Ship|nave]]. Primo caso mai registrato."
+
+Turnbull restò per un istante impietrito nell'immobilità.
+Poi corse infuriato intorno al [[Garden|giardino]] a cercare MacIan, proprio come un marito,
+anche un cattivo marito, corre infuriato a cercare la moglie se è
+pieno di una furiosa domanda. Trovò MacIan che vagava cupamente
+per il [[Garden|giardino]] semibuio, dopo il suo straordinario incontro con [[Beatrice]].
+Nessuno che avesse visto il suo passo strascicato e il capo chino avrebbe
+potuto sapere che la sua [[Soul|anima]] era nel settimo cielo dell'estasi.
+Non pensava; non [[Desire|desiderava]] neppure in modo molto definito.
+Si crogiolava semplicemente nei ricordi, per lo più in ricordi materiali;
+parole dette con una certa cadenza o insignificanti torsioni del collo o del polso.
+Nel bel mezzo del suo statico e insensato godimento furono cacciati
+d'un tratto il gomito sporgente e la sporgente barba rossa di Turnbull.
+MacIan indietreggiò un poco, e l'[[Soul|anima]] nei suoi occhi tornò molto
+lentamente alle sue finestre. Quando [[James Turnbull]] ebbe la scintillante
+punta della [[Sword|spada]] piantata sul petto era in ben minor pericolo.
+Per tre pulsanti secondi dopo l'interruzione MacIan fu
+in uno stato d'animo tale da poter uccidere suo padre.
+
+Eppure tutta la sua collera emotiva lo abbandonò quando vide il volto di Turnbull,
+in cui gli occhi parevano schizzargli dalla testa come proiettili.
+Tutto il [[Fire|fuoco]] e la fragranza persino di un giovane e onorevole [[Love|amore]] svanirono
+per un momento dinanzi a quella rigida agonia dell'interrogativo.
+
+"Sei ferito, Turnbull?" chiese, ansiosamente.
+
+"Sto morendo," rispose l'altro con tutta calma. "Sto, nel
+senso più letterale delle parole, morendo dalla voglia di sapere una cosa.
+Voglio sapere che cosa può mai significare tutto questo."
+
+MacIan non rispose, ed egli continuò con asprezza:
+"Tu stai ancora pensando a quella ragazza, ma ti dico
+che la cosa è tutta incredibile. Non è la sola persona qui.
+Ho incontrato quel tale Wilkinson, il cui yacht perdemmo. Ho incontrato
+proprio il magistrato dinanzi al quale fosti trascinato quando rompesti la mia [[Window|finestra]].
+Che cosa può significare--incontrare di nuovo tutte queste vecchie conoscenze?
+Non si incontrano mai di nuovo simili vecchi amici se non in [[A Dream|un sogno]]."
+
 
 
 <span class="atom-split" data-atom="story_15_the_last_parley--part_02" data-title="ball and cross — The Last Parley (part 2)" data-chapter="The Last Parley" data-kind="excerpt" data-tags="motif/cross,motif/garden,motif/love,motif/silence,motif/time,concept/apocalypse,concept/madness,concept/truth,histref/inquisition,character/tolstoy"></span>
@@ -18280,6 +24906,135 @@ between the ball and the [[Cross|cross]]----"
 
 Turnbull for the first [[Time|time]] started.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Poi, dopo un [[Silence|silenzio]], gridò con una lacerante sincerità:
+"Sei davvero lì, Evan? Ci sei mai stato davvero?
+Sto semplicemente sognando?"
+
+MacIan aveva ascoltato con un vivo [[Silence|silenzio]] ogni parola,
+e ora il suo volto avvampò in una delle sue rare rivelazioni di vita.
+
+"No, mio buon ateo," gridò; "no, mio pulito, cortese, riverente,
+pio vecchio bestemmiatore. No, non stai sognando--ti stai destando."
+
+«Che cosa intendete?»
+
+"Ci sono due stati in cui si incontrano tanti vecchi amici,"
+disse MacIan; "uno è [[A Dream|un sogno]], l'altro è la fine del mondo."
+
+"E tu dici----"
+
+"Dico che questo non è [[A Dream|un sogno]]," disse Evan con voce squillante.
+
+"Vuoi davvero suggerire----" cominciò Turnbull.
+
+"Taci! o dirò tutto storto," disse MacIan, respirando affannosamente.
+"È difficile da spiegare, in ogni caso. Un'[[Apocalypse|apocalisse]] è l'opposto di [[A Dream|un sogno]].
+[[A Dream|Un sogno]] è più falso della vita esteriore. Ma la fine del mondo
+è più reale del mondo che essa termina. Non dico che questa sia davvero
+la fine del mondo, ma è qualcosa del genere--è la fine
+di qualcosa. Tutta la gente si sta accalcando in un angolo.
+Ogni cosa converge verso un punto."
+
+"Qual è il punto?" chiese Turnbull.
+
+"Non riesco a vederlo," disse Evan; "è troppo grande e chiaro."
+
+Poi, dopo un [[Silence|silenzio]], disse: "Non riesco a vederlo--eppure cercherò
+di descriverlo. Turnbull, tre giorni fa vidi d'un tratto
+che il nostro duello, dopotutto, non era giusto."
+
+"Tre giorni fa!" ripeté Turnbull. "Quando e perché
+avvenne questa illuminazione?"
+
+"Seppi di non essere del tutto nel giusto," rispose Evan, "nel
+momento in cui vidi gli occhi tondi di quel vecchio nella cella."
+
+"Il vecchio nella cella!" ripeté il suo attonito compagno.
+"Vuoi dire il povero vecchio idiota a cui piace che le punte sporgano?"
+
+"Sì," disse MacIan, dopo una lieve pausa, "voglio dire il povero vecchio
+idiota a cui piace che le punte sporgano. Quando vidi i suoi occhi e udii
+il suo vecchio accento gracchiante, seppi che in realtà non sarebbe stato
+giusto ucciderti. Sarebbe stato un peccato veniale."
+
+"Ti sono molto obbligato," disse Turnbull, burbero.
+
+"Devi darmi [[Time|tempo]]," disse MacIan, con tutta pazienza, "perché sto
+cercando di dire l'intera [[Truth|verità]]. Sto cercando di dirne più
+di quanto io ne sappia."
+
+"Così vedi, confesso"--proseguì con laboriosa precisione--
+"confesso che tutte le persone che chiamarono folle il nostro duello avevano ragione,
+in un certo senso. Lo confesserei al vecchio Cumberland Vane e al suo
+monocolo. Lo confesserei persino a quel vecchio somaro in flanella marrone
+che ci parlò dell'[[Love|amore]]. Sì, hanno ragione, in un certo senso.
+Io sono un po' pazzo."
+
+Si fermò e si asciugò la fronte come se stesse letteralmente compiendo una dura fatica.
+Poi proseguì:
+
+"Io sono un po' pazzo; ma, dopotutto, è solo una piccola [[Madness|follia]].
+Quando centinaia di uomini di alti principi si erano battuti in duello per
+un urto di gomito o per l'asso di picche, il mondo intero
+non aveva bisogno di impazzire per la mia unica piccola stravaganza.
+Molte altre persone si sono uccise tra allora e adesso.
+Ma tutta l'Inghilterra è caduta in schiavitù per rendere schiavi noi.
+Tutta l'Inghilterra si è trasformata in un manicomio per provare
+che noi siamo pazzi. In confronto al pubblico in generale, potrei positivamente
+essere chiamato sano di mente."
+
+Si fermò di nuovo, e proseguì con la stessa aria di travagliarsi
+con la [[Truth|verità]]:
+
+"Quando vidi ciò, vidi ogni cosa; vidi la Chiesa e il mondo.
+La Chiesa nella sua azione terrena ha davvero toccato cose morbose--
+torture e visioni sanguinanti e soffi di sterminio.
+La Chiesa ha avuto le sue follie, e io sono una di esse.
+Io sono il massacro di San Bartolomeo. Io sono l'[[Inquisition|Inquisizione]] di Spagna.
+Non dico che non siamo mai impazziti, ma dico che siamo adatti
+a fare da custodi ai nostri nemici. Il massacro è malvagio anche con
+una provocazione, come nel caso di San Bartolomeo. Ma il tuo moderno Nietzsche
+ti dirà che il massacro sarebbe glorioso senza una provocazione.
+La tortura andrebbe fermata con la violenza, per quanto sia la Chiesa a praticarla.
+Ma il tuo moderno [[tolstoy|Tolstoj]] ti dirà che non andrebbe fermata con
+la violenza, chiunque la pratichi. Alla lunga, chi è più pazzo--
+la Chiesa o il mondo? Chi è più pazzo, il prete spagnolo
+che permise la tirannia, o il sofista prussiano che l'ammirava?
+Chi è più pazzo, il prete russo che scoraggia la giusta ribellione,
+o il romanziere russo che la vieta? Questa è la prova finale e
+folgorante. Il mondo, lasciato a se stesso, si fa più selvaggio di qualunque credo.
+Pochi giorni fa tu e io eravamo le persone più pazze d'Inghilterra.
+Ora, per Dio! credo che siamo le più sane. Questa è la sola
+vera domanda--se la Chiesa sia davvero più pazza del mondo.
+Lascia che i razionalisti corrano la loro corsa, e vediamo dove finiscono _loro_.
+Se il mondo ha un qualche sano equilibrio diverso da Dio, lascia che il mondo
+lo trovi. Lo trova, il mondo? Sciogli il mondo dagli ormeggi," gridò
+con un gesto feroce. "Sta forse in piedi da solo, il mondo?
+Sta ritto, o vacilla?"
+
+Turnbull rimase in silenzio, e MacIan gli disse, guardando ancora una volta
+la terra: "Vacilla, Turnbull. Non può reggersi da solo;
+tu lo sai che non può. È stato il dolore della tua vita.
+Turnbull, questo [[Garden|giardino]] non è [[A Dream|un sogno]], ma un compimento apocalittico.
+Questo [[Garden|giardino]] è il mondo impazzito."
+
+Turnbull non mosse il capo, ed era stato in ascolto per tutto
+il [[Time|tempo]]; eppure, in qualche modo, l'altro comprese che per la prima [[Time|volta]]
+egli stava ascoltando seriamente.
+
+"Il mondo è impazzito," disse MacIan, "ed è impazzito per causa Nostra.
+Il mondo si prende la briga di commettere un grande errore su ogni piccolo
+errore commesso dalla Chiesa. È per questo che hanno ridotto dieci contee
+a un manicomio; è per questo che folle di gente benevola vengono riversate
+in questo lurido crogiolo. Ora è il giudizio di questo mondo.
+Il Principe di questo Mondo è giudicato, ed è giudicato precisamente perché
+egli giudica. C'è finalmente una semplice soluzione alla contesa
+tra la palla e la [[Cross|Croce]]----"
+
+Turnbull, per la prima [[Time|volta]], sussultò.
 
 
 
@@ -18532,6 +25287,121 @@ felt in scientific circles that great harm was done by such a legend
 as that of the Crucifixion."
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+XX. DIES IRAE
+
+Mentre avanzavano verso il manicomio alzarono lo sguardo alle sue file
+su file di finestre, e compresero la minaccia materiale del Padrone.
+Per mezzo di quel complesso ma nascosto macchinario che correva come una
+rete di nervi su tutta la struttura, erano stati fatti scattare fuori
+sotto il davanzale di ogni [[Window|finestra]] file su file di cilindri d'acciaio lucidato,
+i freddi prodigi della moderna artiglieria. Dominavano l'intero
+[[Garden|giardino]] e l'intera campagna, e avrebbero potuto fare a pezzi
+un corpo d'armata.
+
+Questa silenziosa dichiarazione di guerra aveva evidentemente avuto il suo pieno effetto.
+Mentre MacIan e Turnbull camminavano fermi ma lenti verso l'atrio
+d'ingresso dell'istituzione, poterono vedere che la maggior parte, o almeno molti,
+dei pazienti si erano già radunati lì, [[Well|come pure]] il personale
+di medici e l'intero reggimento di custodi e assistenti.
+Ma quando entrarono nell'atrio illuminato a lampada, e l'alta porta di ferro
+fu sbattuta e chiusa a chiave dietro di loro, un nuovo stupore
+balzò ancora nei loro occhi, e il robusto Turnbull per poco non cadde.
+Poiché vide uno spettacolo che era davvero, come aveva detto MacIan--
+o il Giorno del Giudizio o [[A Dream|un sogno]].
+
+A pochi piedi da lui, a un angolo del quadrato di persone in piedi,
+stava la ragazza che aveva conosciuto a Jersey, Madeleine Durand.
+Lo guardava dritto negli occhi con un sorriso costante che illuminava la scena
+di tenebra e di dissennatezza come la luce di un onesto focolare.
+Il suo volto quadrato e la gola erano gettati all'indietro, com'era sua abitudine,
+e c'era qualcosa di quasi assonnato nella cordialità dei suoi occhi.
+Vide lei per prima, e per alcuni secondi vide lei sola; poi il bordo
+esterno della sua vista abbracciò tutti gli altri volti che fissavano,
+e vide tutti i volti che avesse mai visto per settimane e mesi trascorsi.
+C'era il tolstoiano in flanella Jaeger, con la barba gialla
+che andava all'indietro e il naso sciocco e gli occhi che andavano avanti,
+con la curiosità di un maniaco. Parlava con foga al signor Gordon,
+il corpulento bottegaio ebreo che una volta avevano imbavagliato nella sua stessa bottega.
+C'era il vecchio villico ubriaco dell'Hertfordshire; parlava
+animatamente da solo. C'era non solo il signor Vane il magistrato,
+ma anche il cancelliere del signor Vane, il magistrato. C'era non solo
+la signorina Drake dell'automobile, ma anche l'autista della signorina Drake.
+Nulla di selvaggio o di ignoto avrebbe potuto produrre su Turnbull
+un'impressione da [[nightmare|incubo]] pari a quell'anello di volti familiari.
+Eppure ebbe uno shock intellettuale che fu maggiore di tutti gli altri.
+Si fece avanti d'impulso verso Madeleine, e poi vacillò
+con una sorta di selvaggia [[Humility|umiltà]]. Nel far ciò scorse un altro
+volto quadrato dietro quello di Madeleine, un volto dalle lunghe basette grigie e da uno
+sguardo austero. Era il vecchio Durand, il padre della ragazza; e quando Turnbull
+lo vide vide l'ultima e peggiore meraviglia di quella mostruosa [[Night|notte]].
+Ricordava Durand; ricordava la sua monotona, eterna lucidità,
+le sue vedute stupefacentemente assennate su ogni cosa, la sua colossale contentezza
+di fronte alle ovvietà solo perché erano vere. "Al diavolo tutto!"
+gridò tra sé Turnbull, "se _lui_ è nel manicomio, non può
+esserci nessuno fuori." Si avvicinò a Madeleine, ma sempre
+con dubbio e tanto più perché lei continuava a sorridergli.
+MacIan era già andato da [[Beatrice]] con un'aria di spavento.
+
+Poi tutti questi sconcertati ma in parte amichevoli riconoscimenti furono fenduti
+da una voce crudele che faceva sempre inasprire ogni [[Blood|sangue]] umano.
+Il Padrone stava ritto in mezzo alla stanza contemplando
+la scena come un grande [[Artist|artista]] che guarda un quadro compiuto.
+Bello com'era, non avevano mai visto così chiaramente ciò che era
+davvero odioso nel suo volto; e persino allora poterono esprimerlo
+soltanto dicendo che le sopracciglia arcuate e il lungo mento marcato
+gli davano sempre un'aria di essere illuminato dal basso, come il volto
+di un qualche attore infernale.
+
+"Questa è davvero una riunione accogliente," disse, con occhi scintillanti.
+
+Il Padrone intendeva evidentemente dire di più, ma prima che potesse dire
+alcunché il signor Durand gli si era piantato proprio davanti e stava parlando.
+
+Parlava esattamente come un borghese francese parla al direttore
+di un ristorante. Cioè, parlava con crepitante e affannosa rapidità,
+ma senza alcuna incoerenza, e perciò senza alcuna emozione. Era
+una vivacità costante e monotona, che pareva provenire non dalla passione,
+ma semplicemente dalla ragione lanciata al galoppo.
+Diceva qualcosa di simile a questo:
+
+"Voi mi negate la mia mezza bottiglia di Médoc, la bevanda più salubre
+e più consueta. Voi mi negate la compagnia e l'obbedienza
+di mia figlia, che la [[Nature|Natura]] stessa indica. Voi mi negate il manzo
+e il montone, senza pretendere che sia un digiuno della Chiesa.
+Voi ora mi vietate la passeggiata, cosa necessaria a una persona
+della mia età. È inutile dirmi che fate tutto questo per legge.
+La legge riposa sul contratto sociale. Se il cittadino si trova
+spogliato di quei piaceri e poteri che avrebbe avuto persino
+allo stato selvaggio, il contratto sociale è annullato."
+
+"È inutile cianciare, Monsieur," disse Hutton, poiché il Padrone
+taceva. "Il luogo è coperto di [[Machine|mitragliatrici]]. Noi dobbiamo
+obbedire ai nostri ordini, e altrettanto dovete fare voi."
+
+"Il macchinario è dei più perfetti," convenne Durand,
+in modo alquanto inconferente; "azionato a petrolio, credo.
+Vi chiedo soltanto di ammettere che, se cose simili scendono al di sotto
+della comodità della barbarie, il contratto sociale è annullato.
+È un grazioso piccolo punto di teoria."
+
+"Oh! può ben darsi," disse Hutton.
+
+Durand s'inchinò molto civilmente e si ritirò.
+
+"Una riunione accogliente," riprese il Padrone, sprezzante, "eppure
+credo che alcuni di voi siano in [[Doubt|dubbio]] su come ci siamo tutti riuniti.
+Lo spiegherò, signore e signori; spiegherò ogni cosa.
+A chi dovrò rivolgermi in particolare? Al signor [[James Turnbull]].
+Egli ha una mente scientifica."
+
+Turnbull parve soffocare per un'improvvisa protesta. Il Padrone
+parve tossire soltanto per pura cortesia e proseguì:
+"Il signor Turnbull sarà d'accordo con me," disse, "quando dico che a lungo
+sentimmo, nei circoli scientifici, che gran danno era fatto da una leggenda
+come quella della Crocifissione."
+
 
 
 <span class="atom-split" data-atom="story_16_dies_irae--part_02" data-title="ball and cross — Dies Irae (part 2)" data-chapter="Dies Irae" data-kind="excerpt" data-tags="archetype/hero,motif/bees,motif/cross,motif/death,motif/fire,motif/machine,motif/soul,motif/time,motif/well,concept/history,concept/hope,concept/suicide,form/fable,form/history,histref/christianity,histref/french_revolution,character/speed"></span>
@@ -18657,6 +25527,130 @@ afraid of [[Death|death]]."
 "So this is [[suicide]]," sneered the doctor; "a somewhat doubtful
 sign of [[Sanity|sanity]]."
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Turnbull borbottò qualcosa che era presumibilmente un assenso.
+
+Il Maestro proseguì con scioltezza: "Fu vano da parte nostra
+insistere che l'episodio fosse irrilevante; che vi fossero molti
+di questi fanatici, molte di queste esecuzioni. Fummo costretti a
+prendere la cosa fermamente in mano, a investigarla nello spirito
+della [[history|storia]] scientifica, e con l'assistenza del signor
+Turnbull e di altri fummo lieti di poter annunciare che questa
+presunta Crocifissione non ebbe mai luogo affatto."
+
+MacIan sollevò il capo e guardò il Maestro con fermezza,
+ma Turnbull non alzò lo sguardo.
+
+"Questo, scoprimmo, era l'unico modo per trattare tutte le
+superstizioni," continuò l'oratore; "era necessario negarle
+storicamente, e lo abbiamo fatto con grande [[success|successo]] nel
+caso dei miracoli e di cose simili. Ora, entro il nostro stesso
+[[Time|tempo]], sorse uno sciagurato clamore che minacciava (come direbbe
+il signor Turnbull) di galvanizzare il cadavere del [[Christianity|cristianesimo]]
+in una vita fittizia: il presunto caso di un eccentrico delle Highland
+che voleva battersi per la Vergine."
+
+MacIan, del tutto pallido, fece un passo avanti, ma l'oratore non
+mutò né il suo atteggiamento disinvolto né il suo fiume di parole.
+"Di nuovo insistemmo che questo duello non fosse da ammirare, che
+fosse una semplice rissa, ma il popolo era ignorante e romantico.
+Vi erano segni che si trattavano questo presunto montanaro e il suo
+presunto avversario come eroi. Provammo ogni altro mezzo per arrestare
+questo reazionario culto dell'[[Hero|eroe]]. Gli operai che scommettevano sul
+duello furono incarcerati per gioco d'azzardo. Gli operai che
+brindavano alla salute di un duellante furono incarcerati per
+ubriachezza. Ma l'eccitazione popolare intorno al presunto duello
+continuò, e dovemmo ripiegare sul nostro vecchio metodo storico.
+Investigammo, secondo principi scientifici, la storia della sfida di
+MacIan, e siamo felici di potervi informare che l'intera storia del
+tentato duello è una [[Fable|favola]]. Non vi fu mai alcuna sfida. Non vi fu
+mai alcun uomo di nome MacIan. È un mito melodrammatico, come il Calvario."
+
+Non un'[[Soul|anima]] si mosse tranne Turnbull, che sollevò il capo; eppure
+si avvertì il senso di una silenziosa esplosione.
+
+"L'intera storia della sfida di MacIan," proseguì il Maestro,
+sorridendo a tutti loro con una sinistra benevolenza, "si è scoperto
+che ha origine nelle ossessioni di alcuni tipi patologici, che ora
+sono fortunatamente tutti sotto la nostra cura. Vi è, per esempio,
+una persona qui di nome Gordon, un tempo custode di un negozio di
+curiosità. È vittima della malattia detta Vincolomania: l'impressione
+di essere stato legato o vincolato. Abbiamo anche un caso di Fugacità
+(il signor Whimpey), che immagina di essere stato inseguito da due uomini."
+
+Le facce indignate del bottegaio ebreo e del Don di Magdalen
+sporsero dalla folla nella loro indignazione, ma l'oratore continuò:
+
+"Una povera donna che abbiamo con noi," disse, con voce compassionevole,
+"crede di essere stata in un'automobile con due di questi uomini; questa
+è la [[Well|ben]] nota illusione della [[Speed|velocità]] su cui non ho bisogno di
+soffermarmi. Un'altra sventurata donna ha la semplice mania egotistica
+di aver causato il duello. Madeleine Durand professa addirittura di
+essere stata l'oggetto della lotta tra MacIan e il suo nemico, una
+lotta che, se mai avvenne, cominciò certamente molto tempo prima. Ma
+non avvenne mai affatto. Abbiamo preso in mano ogni persona che
+professava di aver visto una cosa simile, e le abbiamo dimostrate
+tutte squilibrate. Ecco perché sono qui."
+
+Il Maestro si guardò intorno per la sala, mostrando appena i suoi
+denti perfetti con la perfezione di una crudeltà artistica, esaltato
+per un istante nell'enorme semplicità del suo [[success|successo]], e poi
+attraversò l'atrio e svanì attraverso una porta interna. I suoi due
+luogotenenti, Quayle e Hutton, rimasero in piedi alla testa della
+grande armata di servitori e custodi.
+
+"[[Hope|Spero]] non avremo altri guai," disse il dottor Quayle assai
+piacevolmente, rivolgendosi a Turnbull, che si appoggiava pesantemente
+allo schienale di una sedia.
+
+Ancora guardando in basso, Turnbull sollevò la sedia di un pollice o
+due da terra. Poi d'improvviso la fece roteare sopra la testa e la
+scagliò contro il dottore che lo interrogava con uno schianto tremendo
+che liberò una delle sue gambe di legno lungo il pavimento e ricacciò
+il dottore ansimante in un angolo. MacIan lanciò un grande grido,
+afferrò la gamba di sedia staccata e, precipitandosi sull'altro
+dottore, lo abbatté con un colpo. Venti inservienti si precipitarono
+a catturare i ribelli; MacIan ne respinse tre e Turnbull rovinò
+addosso a uno, quando da dietro tutti loro giunse uno strillo come
+di qualcosa di del tutto nuovo e spaventoso.
+
+Due dei tre passaggi che conducevano fuori dalla sala erano soffocati
+da fumo azzurro. Un altro istante e la sala fu piena della sua nebbia,
+e scintille rosse cominciarono a sciamare come [[Bees|api]] scarlatte.
+
+"Il posto va a [[Fire|fuoco]]!" gridò Quayle con un urlo di terrore
+sconveniente. "Oh, chi può averlo fatto? Come può essere accaduto?"
+
+Una luce era comparsa negli occhi di Turnbull. "Come accadde la
+[[French Revolution|Rivoluzione francese]]?" chiese.
+
+"Oh, e che ne so io!" gemette l'altro.
+
+"Allora te lo dirò io," disse Turnbull; "accadde perché certa gente
+s'immaginò che un [[grocer|droghiere]] francese fosse rispettabile quanto
+sembrava."
+
+Proprio mentre parlava, come per conferma, il vecchio signor Durand
+rientrò nella stanza fumosa del tutto placidamente, asciugandosi il
+petrolio dalle mani con un fazzoletto. Aveva dato [[Fire|fuoco]] all'edificio
+in conformità con i rigorosi principi del contratto sociale.
+
+Ma MacIan aveva fatto un balzo in avanti e stava lì scosso e terribile.
+"Ora," gridò, ansimando, "ora è il giudizio del mondo. I dottori
+lasceranno questo luogo; i custodi lasceranno questo luogo. Ci
+lasceranno in custodia dei macchinari e delle [[Machine|mitragliatrici]]
+alle finestre. Ma noi, i pazzi, aspetteremo di essere bruciati vivi
+pur di vederli andar via."
+
+"Come sai che ce ne andremo?" chiese Hutton, con ferocia.
+
+"Voi non credete in nulla," disse MacIan, semplicemente, "e avete
+un'insopportabile paura della [[Death|morte]]."
+
+"Dunque questo è [[suicide|suicidio]]," sogghignò il dottore; "un segno
+alquanto dubbio di [[Sanity|sanità mentale]]."
 
 
 
@@ -18789,6 +25783,136 @@ Its smoke was no longer sent up to choke the [[Stars|stars]], but was
 trailed and dragged across county after county like one dreadful
 banner of defeat.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+"Niente affatto: questa è vendetta," rispose Turnbull, con perfetta
+calma; "una cosa del tutto sana."
+
+"Tu pensi che i dottori se ne andranno," disse Hutton, con ferocia.
+
+"I custodi se ne sono già andati," disse Turnbull.
+
+Proprio mentre parlavano le porte principali furono spalancate in un
+puro panico brutale, e tutti gli ufficiali e i subalterni del manicomio
+fuggirono via attraverso il [[Garden|giardino]] inseguiti dal fumo. Ma tra i
+maniaci schedati non un uomo né una donna si mosse.
+
+"Odiamo morire," disse Turnbull, con compostezza, "ma vi odiamo ancora
+di più. Questa è una rivoluzione riuscita."
+
+Nel tetto sopra le loro teste un pannello scivolò indietro, mostrando
+una striscia di cielo stellato e un'enorme cosa fatta di metallo bianco,
+con la forma e le pinne di un pesce, dondolante come se fosse
+all'ancora. Nello stesso istante una scala d'acciaio scese
+scivolando dall'apertura e colpì il pavimento, e il mento fesso del
+misterioso Maestro si sporse nell'apertura. "Quayle, Hutton," disse,
+"voi fuggirete con me." E salirono la scala come automi di piombo.
+
+A lungo dopo che si furono arrampicati nel veicolo, la creatura dal
+volto biforcuto continuò a sogghignare verso la folla in basso, punta
+dal fumo. Poi finalmente disse con voce di seta e con un sorriso di
+soddisfazione finale:
+
+"A proposito, [[Fear|temo]] di essere molto distratto. Vi è un uomo in
+particolare che, chissà come, dimentico sempre. Lo lascio sempre in
+giro. Una volta lo smarrii sulla [[Cross|Croce]] di San Paolo. Che sciocco
+sono; e ora l'ho dimenticato in una di quelle piccole celle dove sta
+bruciando il vostro [[Fire|fuoco]]. Assai sfortunato... specialmente per lui."
+E, annuendo cordialmente, salì sulla sua [[Ship|nave]] volante.
+
+MacIan rimase immobile per due minuti, poi si precipitò lungo uno dei
+corridoi soffocanti finché non trovò le fiamme. Turnbull guardò una
+volta Madeleine, e lo seguì.
+
+* * *
+
+MacIan, coi capelli strinati, le vesti fumanti e le mani e il volto
+brucianti, si era già aperto un varco abbastanza profondo attraverso
+le prime barriere di legname in fiamme da giungere a portata di voce
+dalle celle che un tempo aveva conosciuto. Era impossibile, tuttavia,
+scorgere il punto dove il vecchio giaceva morto o vivo; non più a causa
+dell'oscurità, ma di una luce cocente e dolorosa. Il luogo della cella
+del vecchio mezzo scemo era ora il cuore di una foresta eretta di
+[[Fire|fuoco]]: le fiamme fitte e gialle come un campo di grano. Il loro
+incessante stridere e crepitare era come una folla che urla contro un
+oratore. Eppure attraverso tutta quella densità assordante MacIan
+credette di udire un suono piccolo e distinto. Quando lo udì si slanciò
+in avanti come per tuffarsi in quella fornace, ma Turnbull lo trattenne
+per un gomito.
+
+"Lasciami andare!" gridò Evan, in agonia; "è la voce del povero
+vecchio mendicante... è ancora vivo, e grida aiuto."
+
+"Ascolta!" disse Turnbull, e sollevò un dito dal pugno serrato.
+
+"Oppure sta strillando dal [[Pain|dolore]]," protestò MacIan.
+"Non lo sopporterò."
+
+"Ascolta!" ripeté Turnbull, cupamente. "Hai mai sentito qualcuno
+gridare aiuto o strillare dal [[Pain|dolore]] con quella voce?"
+
+I piccoli suoni acuti che giungevano attraverso il fragore
+dell'incendio erano davvero di una specie bizzarra, e MacIan volse
+al compagno un volto d'interrogazione perplessa.
+
+"Sta cantando," disse Turnbull, semplicemente.
+
+Un bastione residuo crollò, schiacciando il [[Fire|fuoco]], e attraverso il
+frastuono diminuito la voce del piccolo vecchio pazzo giunse più
+chiara. Nel cuore di quell'inferno incandescente egli cantava come un
+uccello. Cosa cantasse non era molto facile da seguire, ma sembrava
+essere qualcosa a proposito del giocare nel fieno d'oro.
+
+"Buon Dio!" gridò Turnbull, con amarezza, "sembra che vi siano davvero
+dei vantaggi nell'essere un idiota." Poi, avvicinandosi al margine del
+[[Fire|fuoco]], chiamò a caso il cantore invisibile: "Puoi uscire? Sei
+tagliato fuori?"
+
+"Che Dio ci aiuti tutti!" disse MacIan, con un brivido; "ora sta ridendo."
+
+A qualunque stadio dell'essere bruciato vivo si trovasse ora
+l'invisibile, egli scuoteva adesso scoppi di risa argentine e ilari.
+Mentre ascoltava, i due occhi di MacIan cominciarono ad ardere, come
+se uno strano pensiero gli fosse entrato in testa.
+
+"[[Fool|Stolto]], esci e salvati!" gridò Turnbull.
+
+"No, per il Cielo! non è quella la via," gridò Evan, d'improvviso.
+"Padre," gridò, "esci e salvaci tutti!"
+
+Il [[Fire|fuoco]], benché fosse calato in uno o due punti, era, nel complesso,
+più alto e più indomabile che mai. Fiamme alte e separate si levavano
+e si spandevano sopra di loro come i chiostri infuocati di qualche
+[[Cathedral|cattedrale]] infernale, o come un boschetto di rossi alberi tropicali
+nel [[Garden|giardino]] del diavolo. Più in alto ancora, nella purpurea cavità
+della [[Night|notte]], le fiamme più alte balzavano ancora e ancora invano
+verso le [[Stars|stelle]], come draghi d'oro incatenati ma dibattentisi. Le
+torri e le cupole del fumo opprimente parevano alte e lontane abbastanza
+da annegare pianeti distanti in una nebbia di [[London|Londra]]. Ma se
+esaurissimo tutte le frenetiche similitudini per quella frenetica scena,
+l'impressione principale intorno al [[Fire|fuoco]] resterebbe la sua rigidità
+eretta e schierata e una sorta di ruggente immobilità. Era letteralmente
+un muro di [[Fire|fuoco]].
+
+"Padre," gridò MacIan, ancora una volta, "esci di lì e salvaci tutti!"
+Turnbull lo fissava mentre gridava.
+
+L'alta e ferma foresta di [[Fire|fuoco]] doveva essere già un portento
+visibile all'intero cerchio di terra e mare. Il suo rossore ardente
+illuminava i lunghi fianchi delle bianche navi al largo nel Mare di
+Germania, e faceva risaltare come rubini penetranti le finestre nei
+villaggi sulle alture lontane. Se qualche abitante o marinaio guardava
+verso di essa, dovette vedere uno strano spettacolo mentre MacIan
+gridava per la terza [[Time|volta]].
+
+Quella foresta di [[Fire|fuoco]] vacillò, e si spaccò nel centro; e poi
+tutta una metà di essa si piegò da un lato come un campo di grano si
+piega tutto da una parte sotto il peso del [[Wind|vento]]. Anzi, sembrava
+che un gran [[Wind|vento]] si fosse levato e avesse spinto il gran [[Fire|fuoco]]
+di traverso. Il suo fumo non era più mandato in alto a soffocare le
+[[Stars|stelle]], ma era trascinato e strascicato di contea in contea come
+un tremendo vessillo di sconfitta.
 
 
 

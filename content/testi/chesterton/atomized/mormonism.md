@@ -257,7 +257,17 @@ sia ormai a questo [[Time|punto]] l'eccezione piuttosto che la regola.  Come la 
 viene sempre reintrodotta, per le sue ovvie convenienze.
 Ha un solo piccolo inconveniente, che è quello di essere intollerabile.
 
-Il nostro vero errore in un caso simile è che non conosciamo né ci curiamo del credo in sé, dal quale i costumi di un popolo, buoni o cattivi, necessariamente scaturiscono. Parliamo molto di «rispettare» la religione di questa o quella persona; ma il modo di rispettare una religione è trattarla come una religione: chiedersi quali siano i suoi principi e quali le loro conseguenze. Ma la tolleranza moderna è più sorda dell'intolleranza. Le antiche autorità religiose, almeno, definivano un'eresia prima di condannarla, e leggevano un libro prima di bruciarlo. Noi invece diciamo di continuo a un mormone o a un musulmano: «Non curarti della tua religione, vieni tra le mie braccia». Al che egli naturalmente risponde: «Ma io mi curo della mia religione, e ti consiglio di badare bene a te stesso».
+Il nostro vero errore in un caso simile è che non conosciamo né ci curiamo
+del credo stesso, da cui necessariamente scaturiscono i costumi di un popolo, buoni o cattivi.
+Parliamo molto di "rispettare"
+la religione di questa o quella persona; ma il modo di rispettare una religione
+è trattarla come una religione: chiederci quali siano i suoi dogmi e quali
+le loro conseguenze.  Ma la tolleranza moderna è più sorda dell'intolleranza.
+Le antiche autorità religiose, almeno, definivano un'eresia
+prima di condannarla, e leggevano un libro prima di bruciarlo.
+Ma noi diciamo sempre a un Mormone o a un Musulmano: "Non badare alla
+tua religione, vieni tra le mie braccia."  Al che egli naturalmente risponde: "Ma io
+bado eccome alla mia religione, e ti consiglio di badare all'occhio tuo."
 
 
 
