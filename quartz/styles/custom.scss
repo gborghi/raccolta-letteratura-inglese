@@ -1183,10 +1183,14 @@ a.ar-tag:hover, a.ar-tag:focus-visible {
 // leftover `margin-inline:auto` CENTERS it, marooning narrow content (e.g. the
 // reading-page reader shell) mid-track with a dead left gutter. Neutralise the
 // auto-margin and force the box to fill its track so it stays flush-left.
+// NOTE: justify-self:stretch does NOT fill here (the box keeps shrink-to-fit
+// sizing, verified live) — an explicit width:100% is what actually stretches it
+// to the grid-area. min-width:0 keeps the overflow-safety; width:100% + margin:0
+// give flush-left fill; max-width:100% (from base) still caps it to the track.
 #quartz-body > .center {
   grid-area: grid-center;
   min-width: 0;
-  justify-self: stretch;
+  width: 100%;
   margin-left: 0;
   margin-right: 0;
 }
