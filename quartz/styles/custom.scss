@@ -1225,10 +1225,15 @@ body.reading-page {
     &.left-open #quartz-body { grid-template-columns: 320px auto; }
   }
   @media (min-width: 800px) {
+    // Restore the sidebar into its (now 320px) grid column. Keep base's sticky,
+    // viewport-height, internally-scrolling column — do NOT use height:auto /
+    // overflow:visible / position:static here: with those, expanding an Explorer
+    // aggregator grows the sidebar unbounded, which (since grid-sidebar-left spans
+    // all rows) inflates the grid rows and shoves the reading content down the page.
     &.left-open #quartz-body > .sidebar.left {
-      display: flex; position: static; inset: auto; width: auto; max-width: none;
-      height: auto; overflow: visible; background: transparent; box-shadow: none;
-      z-index: auto; padding: 0;
+      display: flex; position: sticky; top: 0; inset: auto; align-self: start;
+      width: auto; max-width: none; height: 100vh; overflow-y: auto;
+      background: transparent; box-shadow: none; z-index: auto; padding: 0;
     }
   }
   // Open on mobile: overlay drawer + dimming scrim (no horizontal room to squeeze).
