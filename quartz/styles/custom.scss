@@ -1057,36 +1057,34 @@ ul.tags {
   font-style: italic;
 }
 
-/* Search index loading spinner (see searchLoading.inline.ts). The top-bar search
-   button stays inert for seconds while the large contentIndex loads + FlexSearch
-   builds; this spinner tells the visitor to wait. */
-.search-button {
-  position: relative;
-}
-.search-loading .search-button {
-  cursor: progress;
-}
-.search-index-spinner {
-  display: inline-block;
-  width: 0.85em;
-  height: 0.85em;
-  margin-left: 0.4rem;
-  vertical-align: middle;
-  border: 2px solid var(--lightgray);
-  border-top-color: var(--secondary);
-  border-radius: 50%;
-  animation: search-index-spin 0.7s linear infinite;
-}
-@keyframes search-index-spin {
-  to {
-    transform: rotate(360deg);
-  }
-}
-@media (prefers-reduced-motion: reduce) {
-  .search-index-spinner {
-    animation-duration: 2s;
-  }
-}
+/* ---- Tiered depth search (searchDepth.inline.ts) --------------------------- */
+.sd-button { display: inline-flex; align-items: center; gap: .4rem; font: inherit; cursor: pointer;
+  border: 1px solid var(--lightgray); background: var(--light); color: var(--dark);
+  border-radius: 7px; padding: .35rem .7rem; }
+.sd-button:hover { border-color: var(--secondary); color: var(--secondary); }
+.sd-button-icon { font-size: .95rem; line-height: 1; }
+.sd-modal { display: none; position: fixed; inset: 0; z-index: 60; padding: 8vh 1rem 1rem;
+  background: color-mix(in srgb, var(--dark) 32%, transparent); backdrop-filter: blur(2px); }
+.sd-modal.active { display: block; }
+.sd-inner { max-width: 640px; margin: 0 auto; background: var(--light); border: 1px solid var(--lightgray);
+  border-radius: 12px; box-shadow: 0 18px 60px rgba(0, 0, 0, .28); padding: 1rem; }
+.sd-input { width: 100%; font: inherit; font-size: 1.05rem; padding: .6rem .7rem; color: var(--dark);
+  background: var(--light); border: 1px solid var(--lightgray); border-radius: 8px; }
+.sd-input:focus { outline: none; border-color: var(--secondary); }
+.sd-slider-wrap { display: flex; align-items: center; gap: .6rem; margin: .7rem .1rem .3rem; }
+.sd-slider { flex: 0 0 9rem; accent-color: var(--secondary); cursor: pointer; }
+.sd-slider-label { flex: 1; font-size: .78rem; color: var(--darkgray); }
+.sd-spin { display: inline-block; width: .85em; height: .85em; border: 2px solid var(--lightgray);
+  border-top-color: var(--secondary); border-radius: 50%; animation: sd-spin .7s linear infinite; }
+.sd-spin[hidden] { display: none; }
+@keyframes sd-spin { to { transform: rotate(360deg); } }
+@media (prefers-reduced-motion: reduce) { .sd-spin { animation-duration: 2s; } }
+.sd-results { list-style: none; margin: .5rem 0 0; padding: 0; max-height: 55vh; overflow-y: auto; }
+.sd-results:empty { display: none; }
+.sd-hit { display: block; text-decoration: none; color: var(--dark); padding: .5rem .6rem;
+  border-radius: 7px; border: 1px solid transparent; }
+.sd-hit:hover { background: color-mix(in srgb, var(--secondary) 12%, transparent); border-color: var(--lightgray); }
+.sd-hit-title { font-weight: 600; }
 
 /* ---- Reading-page SPA (atomRouter.inline.ts) ------------------------------- */
 .atom-reader { display: flex; flex-direction: column; gap: 0; margin: 0 0 2rem; }
