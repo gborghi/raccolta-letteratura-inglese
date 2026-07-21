@@ -52,16 +52,37 @@ export function buildShards(master) {
     l: d.links || [],
     c: contentFor(d, 80, 400),
   }))
-  const t3 = [
-    ...works.map(([s, d]) => ({ s, c: contentFor(d, 500, 700) })),
-    ...atoms.map(([s, d]) => ({ s, c: contentFor(d, 500, 700) })),
-  ]
+  // t3 = Max delta upgrades WORKS only (top500/700). Atoms are ≤2000 chars — they are
+  // already fully searchable from t2, so re-shipping them at greater term/snippet depth
+  // adds tens of MB for no recall. Max's extra power is the client-built MiniSearch fuzzy.
+  const t3 = works.map(([s, d]) => ({ s, c: contentFor(d, 500, 700) }))
   return {
     t0: { tier: 0, entries: t0 },
     t1: { tier: 1, entries: t1 },
     t2: { tier: 2, entries: t2 },
     t3: { tier: 3, entries: t3 },
   }
+}
+
+// Split entries into contiguous buckets each serializing under ~targetBytes, so the
+// atom tier stays under the Cloudflare per-file cap however large the corpus grows.
+// Deterministic (insertion order), so builds are reproducible.
+export function chunkBySize(entries, targetBytes) {
+  const buckets = []
+  let cur = []
+  let curBytes = 2 // "[]"
+  for (const e of entries) {
+    const b = Buffer.byteLength(JSON.stringify(e)) + 1 // + comma
+    if (cur.length && curBytes + b > targetBytes) {
+      buckets.push(cur)
+      cur = []
+      curBytes = 2
+    }
+    cur.push(e)
+    curBytes += b
+  }
+  if (cur.length) buckets.push(cur)
+  return buckets
 }
 
 function main() {
@@ -74,23 +95,40 @@ function main() {
   const master = JSON.parse(fs.readFileSync(masterPath, "utf8"))
   const shards = buildShards(master)
   fs.mkdirSync(outDir, { recursive: true })
-  for (const key of ["t0", "t1", "t2", "t3"]) {
-    const shard = shards[key]
-    const json = JSON.stringify(shard)
+
+  const writeShard = (name, obj, tier) => {
+    const json = JSON.stringify(obj)
     const bytes = Buffer.byteLength(json)
     if (bytes > HARD_CAP) {
       console.error(
-        `build-search-shards: ${key} = ${(bytes / 1e6).toFixed(1)}MB exceeds the 24MB Cloudflare ` +
-          `hard cap (fatal — split this tier, see the t2-split note in the plan)`,
+        `build-search-shards: ${name} = ${(bytes / 1e6).toFixed(1)}MB exceeds the 24MB ` +
+          `Cloudflare hard cap (fatal)`,
       )
       process.exit(1)
     }
-    const warn = bytes > SOFT[shard.tier] ? " ⚠ over soft target" : ""
-    fs.writeFileSync(path.join(outDir, `search-${key}.json`), json)
-    console.log(
-      `build-search-shards: search-${key}.json = ${(bytes / 1e6).toFixed(2)}MB (${shard.entries.length} entries)${warn}`,
-    )
+    const warn = bytes > SOFT[tier] ? " ⚠ over soft target" : ""
+    fs.writeFileSync(path.join(outDir, name), json)
+    const n = obj.entries ? obj.entries.length : ""
+    console.log(`build-search-shards: ${name} = ${(bytes / 1e6).toFixed(2)}MB (${n} entries)${warn}`)
   }
+
+  // Single-file tiers.
+  writeShard("search-t0.json", shards.t0, 0)
+  writeShard("search-t1.json", shards.t1, 1)
+  writeShard("search-t3.json", shards.t3, 3)
+
+  // Atom tier (t2): bucket under the soft target so no single file nears the CF cap,
+  // and emit a manifest the client reads to know how many buckets to fetch.
+  const buckets = chunkBySize(shards.t2.entries, SOFT[2])
+  const bucketFiles = buckets.map((_, i) => `search-t2-${i}.json`)
+  buckets.forEach((entries, i) => writeShard(bucketFiles[i], { tier: 2, entries }, 2))
+  fs.writeFileSync(
+    path.join(outDir, "search-t2.json"),
+    JSON.stringify({ tier: 2, buckets: bucketFiles }),
+  )
+  console.log(
+    `build-search-shards: search-t2.json manifest -> ${bucketFiles.length} buckets (${shards.t2.entries.length} atoms)`,
+  )
 }
 
 // cross-platform main-guard: `file://${argv[1]}` breaks on Windows (backslashes,

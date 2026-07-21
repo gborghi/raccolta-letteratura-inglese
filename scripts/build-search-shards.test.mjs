@@ -1,6 +1,6 @@
 import test from "node:test"
 import assert from "node:assert/strict"
-import { buildShards, contentFor } from "./build-search-shards.mjs"
+import { buildShards, contentFor, chunkBySize } from "./build-search-shards.mjs"
 
 const master = {
   "works/w1": {
@@ -56,10 +56,21 @@ test("t2 = atom entries only, full shape, top80", () => {
   assert.ok(e.c.includes("av79") && !/\bav80\b/.test(e.c))
 })
 
-test("t3 delta = works+atoms, {s,c}, top500/700", () => {
+test("t3 delta = WORKS ONLY, {s,c}, top500/700 (atoms not re-shipped)", () => {
   const { t3 } = buildShards(master)
   const w = t3.entries.find((e) => e.s === "works/w1")
   assert.ok(w.c.includes("term499"))
   assert.equal(w.c.slice(0, 700), "s".repeat(700))
-  assert.ok(t3.entries.some((e) => e.s === "testi/w1#a2"))
+  assert.ok(!t3.entries.some((e) => e.s.includes("#"))) // atoms excluded
+})
+
+test("chunkBySize splits into size-bounded contiguous buckets covering all entries", () => {
+  const entries = Array.from({ length: 20 }, (_, i) => ({ s: `a${i}`, c: "x".repeat(100) }))
+  const buckets = chunkBySize(entries, 400) // each entry ~ >100 bytes → a few per bucket
+  assert.ok(buckets.length > 1)
+  for (const b of buckets) assert.ok(Buffer.byteLength(JSON.stringify(b)) <= 400 || b.length === 1)
+  assert.deepEqual(
+    buckets.flat().map((e) => e.s),
+    entries.map((e) => e.s), // order + completeness preserved
+  )
 })

@@ -51,16 +51,6 @@ export function clampStop(stop: number, isMobile: boolean): number {
   return s
 }
 
-// Cumulative list of shard files a stop needs (clamped for mobile).
-export function tierFiles(stop: number, isMobile: boolean): string[] {
-  const s = clampStop(stop, isMobile)
-  const files = ["search-t0.json"]
-  if (s >= 1) files.push("search-t1.json")
-  if (s >= 2) files.push("search-t2.json")
-  if (s >= 3) files.push("search-t3.json")
-  return files
-}
-
 export const STOP_LABELS = ["Fast", "Standard", "Deep", "Max"] as const
 
 export function stopHint(stop: number): string {

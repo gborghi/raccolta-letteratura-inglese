@@ -3,7 +3,6 @@ import assert from "node:assert/strict"
 import {
   entryToDoc,
   mergeTier,
-  tierFiles,
   clampStop,
   STOP_LABELS,
   stopHint,
@@ -31,12 +30,6 @@ test("mergeTier adds new + replaces content by slug", () => {
   assert.deepEqual(b, ["w1"])
   assert.equal(store.get("w1").content, "c1-richer")
   assert.equal(store.get("w1").title, "W1") // preserved
-})
-
-test("tierFiles is cumulative; mobile stops at t1", () => {
-  assert.deepEqual(tierFiles(0, false), ["search-t0.json"])
-  assert.deepEqual(tierFiles(2, false), ["search-t0.json", "search-t1.json", "search-t2.json"])
-  assert.deepEqual(tierFiles(3, true), ["search-t0.json", "search-t1.json"]) // clamped
 })
 
 test("clampStop caps mobile at 1", () => {

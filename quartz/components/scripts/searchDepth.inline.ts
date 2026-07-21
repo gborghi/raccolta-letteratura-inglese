@@ -14,7 +14,6 @@ import {
   Doc,
   Entry,
   mergeTier,
-  tierFiles,
   clampStop,
   STOP_LABELS,
   stopHint,
@@ -45,19 +44,38 @@ function newIndex(): any {
   })
 }
 
-async function fetchShard(file: string): Promise<Entry[]> {
+async function fetchJson(file: string): Promise<any> {
   try {
-    const url = `${basePath()}/static/${file}`
-    const r = await fetch(url)
-    if (!r.ok) return []
-    const j = await r.json()
-    return (j.entries ?? []) as Entry[]
+    const r = await fetch(`${basePath()}/static/${file}`)
+    return r.ok ? await r.json() : null
   } catch {
-    return []
+    return null
   }
 }
 
-// Load every shard up to `target`, merging each into the store + FlexSearch. At Max,
+// Merge one shard file (either {entries} or, for t2, a {buckets:[…]} manifest whose
+// bucket files are fetched + merged) into the store + FlexSearch.
+async function mergeFile(file: string): Promise<void> {
+  const j = await fetchJson(file)
+  if (!j) return
+  if (Array.isArray(j.buckets)) {
+    for (const b of j.buckets) await mergeFile(b)
+    return
+  }
+  const changed = mergeTier(store, (j.entries ?? []) as Entry[])
+  for (const id of changed) {
+    const d = store.get(id)!
+    index.remove(id)
+    index.add({ id: d.id, title: d.title, content: d.content, tags: (d.tags || []).join(" ") })
+  }
+}
+
+// The delta file(s) each stop adds on top of the shallower tier.
+function stopFile(s: number): string {
+  return ["search-t0.json", "search-t1.json", "search-t2.json", "search-t3.json"][s]
+}
+
+// Load every tier up to `target`, merging into the store + FlexSearch. At Max, also
 // build the MiniSearch fuzzy index off the accumulated store.
 async function loadUpTo(target: number): Promise<void> {
   if (loading) return
@@ -65,14 +83,7 @@ async function loadUpTo(target: number): Promise<void> {
   try {
     if (!index) index = newIndex()
     for (let s = loadedStop + 1; s <= target; s++) {
-      const file = tierFiles(s, isMobile()).slice(-1)[0] // the delta this stop adds
-      const entries = await fetchShard(file)
-      const changed = mergeTier(store, entries)
-      for (const id of changed) {
-        const d = store.get(id)!
-        index.remove(id)
-        index.add({ id: d.id, title: d.title, content: d.content, tags: (d.tags || []).join(" ") })
-      }
+      await mergeFile(stopFile(s))
       loadedStop = s
     }
     if (target >= 3) buildFuzzy()
