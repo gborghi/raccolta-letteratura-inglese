@@ -12666,6 +12666,121 @@ of thought and ask ourselves what is the ultimate point and meaning
 of this odd business called voting.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+È altrettanto ovvio che queste due necessarie sacralità
+dell'economia e della dignità sono destinate a entrare in conflitto
+con la verbosità, lo sperpero e l'incessante
+ricerca del piacere dell'amicizia maschile. Le donne sagge tollerano
+la cosa; le donne sciocche cercano di reprimerla; ma tutte le donne cercano
+di contrastarla, e fanno [[Well|bene]]. In molte [[Home|case]] intorno a noi
+in questo momento, sappiamo che la filastrocca è invertita.
+La [[Queen|regina]] è nella [[house|cassa]], contando i soldi.
+Il [[King|re]] è nel salotto, mangiando pane e miele.
+Ma deve essere inteso rigorosamente che il [[King|re]] ha conquistato
+il miele in guerre eroiche. La disputa si trova
+in scolpite decorazioni gotiche ormai polverose e in ingarbugliati manoscritti greci.
+In ogni epoca, in ogni terra, in ogni tribù e villaggio, è stata
+combattuta la grande guerra sessuale tra la [[house|Casa]] Privata e la
+[[house|Casa]] Pubblica. Ho visto una raccolta di [[Poems|poesie]] inglesi medievali,
+divise in sezioni come "Villanelle Religiose", "[[songs|Canzoni]] da bere,"
+e così via; e la sezione intitolata, "[[Poems|Poesie]] della Vita Domestica"
+consisteva interamente (letteralmente, interamente) nelle lamentele
+dei mariti vessati dalle mogli. Sebbene l'inglese fosse arcaico, le parole erano in molti casi esattamente le stesse
+di quelle che ho sentito nelle strade e nei pub
+di Battersea, proteste a favore di una proroga del [[Time|tempo]] e della conversazione,
+proteste contro l'impazienza nervosa e il divorante
+utilitarismo delle donne. Tale, dico, è la disputa;
+non può mai essere altro che una disputa; ma lo scopo di ogni morale
+e di ogni società è mantenerla come una disputa tra [[lovers|amanti]].
+
+* * *
+
+VII
+
+LA RESA MODERNA DELLE DONNE
+
+Ma in questo angolo chiamato Inghilterra, a questa fine del secolo,
+è accaduta una cosa strana e sorprendente. Apertamente e all'apparenza,
+questo conflitto ancestrale è finito silenziosamente e bruscamente;
+uno dei due sessi ha improvvisamente ceduto all'altro.
+All'inizio del ventesimo secolo, negli ultimi
+anni, la donna in pubblico si è arresa all'uomo.
+Ha seriamente e ufficialmente riconosciuto che l'uomo aveva ragione
+tutto il tempo; che la [[house|casa]] pubblica (o Parlamento) è davvero
+più importante della [[house|casa]] privata; che la politica non è
+(come le donne hanno sempre sostenuto) una scusa per boccali di birra,
+ma è una sacra solennità a cui nuove adoratrici femminili possono inginocchiarsi;
+che i patriottici chiacchieroni al pub non sono solo ammirabili
+ma invidiabili; che parlare non è uno spreco di [[Time|tempo]], e quindi
+(come conseguenza, sicuramente) che i pub non sono uno spreco di denaro.
+Tutti noi uomini ci eravamo abituati a nostre mogli e madri,
+nonne e prozie che versavano tutte insieme un [[Chorus|coro]] di
+disprezzo sui nostri hobby dello sport, del bere e della politica di partito.
+Ed ecco ora arrivare Miss Pankhurst con le [[Tears|lacrime]] negli occhi,
+riconoscendo che tutte le donne avevano torto e tutti gli uomini ragione;
+implorando umilmente di essere ammessa anche solo in un [[Court|tribunale]] esterno
+da cui può cogliere uno sguardo a quei meriti maschili
+che le sue sorelle erranti avevano così distrattamente disprezzato.
+
+Ora questo sviluppo ci perturba e addirittura ci paralizza.
+Gli uomini, come le donne, nel corso di quella vecchia lotta tra la [[house|casa]] pubblica
+e privata, si erano abbandonati a esagerazioni e stravaganze,
+sentendo che dovevano sostenere la loro parte del gioco. Dicevamo
+alle nostre mogli che il Parlamento era rimasto in seduta fino a tardi per affari di grande importanza;
+ma non ci passava mai per la mente che le nostre mogli l'avrebbero creduto.
+Dicevamo che tutti dovevano avere diritto al voto nel paese; allo stesso modo
+le nostre mogli dicevano che nessuno poteva fumare in salotto.
+In entrambi i casi l'idea era la stessa.  "Non è una cosa importante,
+ma se lasci scivolare queste cose c'è il caos."  Dicevamo che
+Lord Huggins o Mr. Buggins erano assolutamente necessari al paese.
+Sapevamo benissimo che nulla era necessario al paese
+tranne che gli uomini fossero uomini e le donne donne.
+Lo sapevamo; pensavamo che le donne lo sapessero ancora più chiaramente;
+e pensavamo che le donne l'avrebbero detto.  Improvvisamente, senza preavviso,
+le donne hanno iniziato a dire tutta la sciocchezza che noi stessi
+non credevamo quasi quando la dicevamo.  La solennità della politica;
+la necessità del voto; la necessità di Huggins; la necessità
+di Buggins; tutto questo fluisce in un ruscello limpido dalle labbra
+di tutte le oratrici suffragiste.  Suppongo che in ogni lotta,
+per quanto vecchia, si abbia una vaga [[Aspiration|aspirazione]] a conquistare; ma non abbiamo mai
+voluto conquistare le donne così completamente come questa.  Ci aspettavamo solo
+che ci lasciassero un po' più di margine per la nostra sciocchezza;
+non ci siamo mai aspettati che l'avrebbero accettata seriamente come senno.
+Pertanto sono completamente disorientato riguardo alla situazione attuale;
+non so quasi se essere sollevato o infuriato da questa
+sostituzione della debole conferenza pubblica con la vigorosa
+lezione dietro le tende. Sono perso senza la schietta e candida
+Mrs. Caudle.  Non so davvero cosa fare con la prostrata
+e pentita Miss Pankhurst.  Questa resa della donna moderna
+ci ha colti tutti così tanto di sorpresa che è desiderabile fermarsi
+un momento, e raccogliere i nostri sensi su ciò che sta realmente dicendo.
+
+Come ho già osservato, c'è una risposta molto semplice a tutto questo:
+non si tratta delle donne moderne, ma di una su duemila
+delle donne moderne. Questo dato è importante per un democratico;
+ma ha ben poca importanza per la mentalità tipicamente moderna.
+Entrambe le caratteristiche fazioni moderne credevano in un [[government|governo]]
+di pochi; l'unica differenza è se si tratti dei Conservatori
+pochi o dei Progressisti pochi. Si potrebbe dire, forse un po' grossolanamente,
+che uno crede in qualsiasi minoranza che sia ricca e l'altro
+in qualsiasi minoranza che sia pazza. Ma in questo stato di cose l'argomento democratico ovviamente cade per il momento; e siamo costretti
+a prendere la minoranza prominente, semplicemente perché è prominente.
+Eliminiamo del tutto dalle nostre menti le migliaia di donne che
+detestano questa causa, e i milioni di donne che ne hanno a malapena sentito parlare.
+Concediamo che il popolo inglese stesso non sia e non sarà
+per un [[Time|tempo]] molto lungo all'interno della sfera della politica pratica.
+Limitiamoci a dire che queste donne in particolare vogliono
+votare e chiedersi cosa sia un voto. Se chiediamo a queste
+signore stesse cosa sia un voto, otterremo una risposta molto vaga.
+È l'unica domanda, di solito, per cui non sono preparate.
+Perché la [[Truth|verità]] è che si basano principalmente sul precedente; sul semplice fatto
+che gli uomini hanno già il diritto di voto. Lungi dall'essere un movimento ribelle,
+è in realtà molto conservatore; è nella più stretta tradizione della
+Costituzione britannica. Facciamo un pensiero un po' più ampio e libero
+e chiediamoci qual è il punto finale e il significato
+di questa strana faccenda chiamata voto.
+
 
 
 <span class="atom-split" data-atom="chapter_07--part_09" data-title="whats wrong — Part 3 (part 9)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="archetype/child,archetype/innocent,archetype/king,motif/dawn,motif/death,motif/fire,motif/pain,motif/secrets,motif/well,concept/courage,concept/democracy,concept/faith,concept/fear,concept/history,concept/self,concept/slavery,form/history,histref/america,histref/reformation,setting/america"></span>
@@ -12769,6 +12884,69 @@ Every statute is a declaration of war, to be backed by arms.
 Every tribunal is a revolutionary tribunal.  In a republic
 all punishment is as sacred and solemn as lynching.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+* * *
+
+VIII
+
+IL MARCHIO DEL FIORDALISO
+
+Apparentemente fin dal [[Dawn|alba]] dell'uomo tutte le nazioni hanno avuto governi;
+e tutte le nazioni ne sono state sempre imbarazzate.  Nulla è più apertamente
+fallace che immaginare che in epoche più rozze o semplici governare,
+giudicare e punire apparissero perfettamente [[Innocent|innocenti]] e dignitosi.
+Queste cose sono sempre state considerate le pene della Caduta;
+parte dell'umiliazione dell'umanità, cattive in sé.
+Che il [[King|re]] non possa fare nulla di sbagliato non è mai stato altro che una finzione legale;
+ed è ancora oggi una finzione legale.  La dottrina del Diritto Divino non era
+un pezzo di idealismo, ma piuttosto un pezzo di realismo, un modo pratico
+di governare tra le rovine dell'umanità; un pezzo di [[Faith|fede]] molto pragmatico.
+La base religiosa del [[government|governo]] non era tanto che la gente
+mettesse fiducia nei principi, quanto che non mettesse fiducia
+in alcun [[Child|figlio]] dell'uomo.  Così è stato per tutte le istituzioni brutte
+che disfigurano la storia umana. La tortura e lo [[Slavery|schiavitù]] non sono mai state discusse
+come cose buone; sono sempre state discusse come mali necessari.
+Un pagano parlava di un uomo che possedeva dieci schiavi proprio come un moderno imprenditore
+parla di un commerciante che licenzia dieci impiegati:  "È molto orribile;
+ma altrimenti, come potrebbe essere condotta la società?" Un scolastico medievale considerava
+la possibilità che un uomo venisse bruciato fino alla [[Death|morte]] proprio come un moderno
+imprenditore considera la possibilità che un uomo muoia di fame fino alla [[Death|morte]]:
+"È una tortura scioccante; ma puoi organizzare un mondo senza dolore?"
+È possibile che una società futura trovi il modo di fare a meno
+della questione della fame come abbiamo fatto a meno della questione del [[Fire|fuoco]].
+È altrettanto possibile, per quel che ne sappiamo, che una società futura
+possa reistituire la tortura legale con tutto l'apparato di ruota e rogo.
+Il paese più moderno, gli [[America|Stati Uniti]], ha introdotto con un vago
+sapore di scienza, un metodo che chiama "il terzo grado."
+Questo è semplicemente l'estorsione dei [[Secrets|segreti]] tramite affaticamento nervoso;
+che è sicuramente molto vicino alla loro estorsione tramite dolore fisico.
+E questo è legale e scientifico negli [[America|Stati Uniti]].  L'[[America]] ordinaria amatoriale,
+naturalmente, semplicemente brucia le persone vive in pieno giorno, come facevano
+nelle guerre della [[Reformation|Riforma]].  Ma sebbene alcune punizioni siano più
+disumane di altre non esiste una cosa come la punizione umana.
+Finché diciannove uomini rivendicano il diritto in qualsiasi senso o forma di prendere
+il ventesimo uomo e renderlo anche moderatamente a disagio,
+finché l'intera procedura deve essere un'umiliazione per tutti i coinvolti.
+E la prova di quanto gli uomini abbiano sempre sentito acutamente questo sta nel fatto
+che il boia e l'impiccatore, i carcerieri e i torturatori,
+sono stati sempre considerati non solo con [[Fear|paura]] ma con disprezzo;
+mentre tutti i tipi di colpitori distratti, cavalieri falliti e spacconi
+e fuorilegge, erano considerati con indulgenza o anche ammirazione.  Uccidere
+un uomo illegalmente era perdonato.  Uccidere un uomo legalmente era imperdonabile.
+Il duellante più sfacciato poteva quasi brandire la sua arma.
+Ma l'esecutore era sempre mascherato.
+
+Questo è il primo elemento essenziale del [[government|governo]], la coercizione; un elemento necessario, ma non nobile. Posso osservare di sfuggita che quando le persone dicono che il [[government|governo]] si basa sulla forza, offrono un esempio ammirevole del cinismo nebuloso e confuso della modernità. Il [[government|governo]] non si basa sulla forza. Il [[government|governo]] è la forza; si fonda sul consenso o su una concezione di giustizia. Un [[King|re]] o una comunità che considera un certo fatto anormale, malvagio, usa la forza generale per annientarlo; la forza è il suo strumento, ma la credenza è l'unica sua sanzione. Potreste altrettanto bene dire che il vetro è la vera ragione dei telescopi. Ma derivando da qualsiasi motivo, l'atto del [[government|governo]] è coercitivo e gravato di tutte le qualità rozze e dolorose della coercizione. E se qualcuno chiede a cosa serve insistere sulla bruttezza di questo compito di violenza statale dal momento che tutta l'umanità è condannata ad impiegarla, ho una semplice risposta a ciò. Sarebbe inutile insistervi se tutta l'umanità fosse condannata ad essa. Ma non è irrilevante insistere sulla sua bruttezza finché metà dell'umanità ne viene esclusa.
+
+Allora ogni [[government|governo]] è coercitivo; ci è capitato di creare un [[government|governo]] che non solo è coercitivo, ma anche collettivo.
+Esistono solo due tipi di [[government|governo]], come ho già detto: il dispotico e il democratico. L'aristocrazia non è un [[government|governo]], è una rivolta; la più efficace delle rivolte, quella dei ricchi.
+I più intelligenti apologeti dell'aristocrazia, sofisti come Burke e Nietzsche, non hanno mai attribuito all'aristocrazia altre virtù se non quelle di una rivolta: le virtù accidentali, il [[Courage|coraggio]], la varietà e l'avventura.
+Non esiste alcun caso in cui l'aristocrazia abbia stabilito un ordine universale ed applicabile, come hanno spesso fatto i dispotici e i democratici; come gli ultimi Cesari crearono il diritto romano, o gli ultimi giacobini crearono il Codice Napoleonico. Con la prima di queste forme elementari di [[government|governo]], quella del [[King|re]] o capo tribù, non siamo direttamente coinvolti in questa questione dei sessi. Ci torneremo sopra più tardi quando osserveremo come l'umanità abbia trattato le rivendicazioni femminili in modo diverso nei campi dispotico e democratico.
+Ma per il momento il punto essenziale è che nei paesi [[Self|auto]]-governati questa coercizione dei criminali è una coercizione collettiva. La persona anormale viene teoricamente percossa da un milione di pugni e calciata da un milione di piedi.
+Se un uomo viene frustato, siamo tutti noi a frustarlo; se un uomo viene impiccato, siamo tutti noi ad impiccarlo. Questo è l'unico significato possibile della [[Democracy|democrazia]], che può dare senso sia alle prime due sillabe che alle ultime due.
+In questo senso ogni cittadino ha la grande responsabilità di un rivoltoso. Ogni statuto è una dichiarazione di guerra, da sostenere con le armi. Ogni tribunale è un tribunale rivoluzionario. In una repubblica tutte le punizioni sono sacre e solenni come il linciaggio.
 
 
 

@@ -1124,9 +1124,13 @@ ul.tags {
   display: inline-flex; align-items: center; justify-content: center;
 }
 .site-nav-toggle:hover { border-color: var(--secondary); color: var(--secondary); }
-// While open the sidebar occupies a 320px column, so park the ✕ at its top-right
-// corner (clear of the site title) instead of the screen corner.
-@media (min-width: 800px) { body.nav-open .site-nav-toggle { left: calc(320px - 2.7rem); } }
+// The ✕ stays at the screen's top-LEFT corner whether open or closed — i.e. above-left
+// of the sidebar, never over the center page <h1>. The sidebar's own masthead
+// (H2.page-title) also lives at that top-left corner, so while the sidebar is open drop
+// the masthead below the button so the ✕ never covers the site title.
+@media (min-width: 800px) {
+  body.nav-open #quartz-body > .sidebar.left > .page-title { padding-top: 2.9rem; }
+}
 @media (max-width: 799.98px) { .site-nav-toggle { display: none; } }
 .ar-shell { display: grid; grid-template-columns: 230px minmax(0,1fr); gap: 1.4rem; }
 .ar-toc { align-self: start; position: sticky; top: 3.2rem; max-height: calc(100vh - 4rem);

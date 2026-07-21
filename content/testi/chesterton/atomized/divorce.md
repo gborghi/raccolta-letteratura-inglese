@@ -2353,6 +2353,122 @@ that he is still [[The Professor|the professor]]'s keeper.  He may possibly add 
 in his opinion, [[The Professor|the professor]] seems to require a keeper.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+I
+
+LA SUPERSTIZIONE DEL [[divorce|DIVORZIO]] (1)
+
+È inutile parlare di [[Reform|riforma]] senza riferimento alla forma.
+Per prendere un caso dal mio gusto e dalla mia fantasia, non c'è
+nulla che io senta tanto bello e meraviglioso quanto una [[Window|finestra]].
+Tutte le finestre sono finestre [[Magic|magiche]], sia che si aprano sulla
+spuma sia sul [[Garden|giardino]] antistante; giacciono vicine al mistero
+ultimo e al [[Paradox|paradosso]] della limitazione e della libertà.
+Ma se seguissi il mio istinto verso un numero infinito di finestre,
+finirei col non avere pareti. Finirei anche (si può aggiungere
+incidentalmente) col non avere neppure finestre; poiché una [[Window|finestra]]
+fa un quadro facendo una cornice. Ma c'è un modo più semplice di
+enunciare il mio errore più semplice e fatale. Ed è che ho desiderato
+una [[Window|finestra]], senza considerare se desiderassi una [[house|casa]].
+Ora molti appelli ci vengono rivolti oggi a favore di quella luce
+e libertà che potrebbero [[Well|ben]] essere simboleggiate dalle finestre;
+specialmente perché tanti di essi riguardano l'illuminazione e la
+liberazione della [[house|casa]], nel senso del [[Home|focolare]].
+Molte persone del tutto disinteressate adducono molte considerazioni
+del tutto ragionevoli nel caso del [[divorce|divorzio]], come tipo di
+liberazione domestica; ma nella discussione giornalistica e generale
+della questione c'è fin troppo di quella mente che lavora a ritroso
+e a caso, alla maniera del tutte finestre e nessuna parete. Tali persone
+dicono di volere il [[divorce|divorzio]], senza chiedersi se vogliano il
+[[Marriage|matrimonio]]. Persino per divorziare si è generalmente trovato
+necessario passare attraverso la formalità preliminare di sposarsi;
+e a meno che non si consideri la [[Nature|natura]] di questo atto iniziale,
+potremmo [[Well|bene]] discutere di tagli di capelli per i calvi o di
+occhiali per i ciechi. Essere divorziati significa, in senso letterale,
+essere non sposati; e non ha senso che una cosa venga disfatta quando
+non sappiamo se sia stata fatta.
+
+Non c'è forse peggior consiglio, nove volte su dieci, del consiglio
+di fare il lavoro che è più vicino. È particolarmente cattivo quando
+significa, come generalmente significa, rimuovere l'ostacolo più vicino.
+Significa che gli uomini non devono comportarsi da uomini ma da topi;
+che rosicchiano la cosa più vicina. L'uomo, come il topo, mina ciò
+che non riesce a comprendere. Poiché egli stesso urta contro una cosa,
+la chiama l'ostacolo più vicino; sebbene l'ostacolo possa darsi che
+sia il pilastro che regge tutto il tetto sopra la sua testa. Egli
+rimuove diligentemente l'ostacolo; e in cambio, l'ostacolo rimuove lui,
+e cose ben più preziose di lui. Questo opportunismo è forse la cosa
+più impraticabile in questo mondo altamente impraticabile. Si parla
+vagamente contro la critica distruttiva; ma ciò che non va in questa
+critica non è che essa distrugga, ma che non critichi. È distruzione
+senza disegno. È prendere una complessa [[Machine|macchina]] a pezzi uno
+per uno, in qualunque ordine, senza neppure sapere a cosa serva la
+[[Machine|macchina]]. E se un uomo tratta una [[Machine|macchina]] dinamica e mortale
+col principio di toccare la manopola più vicina, scoprirà i difetti
+di quell'allegra [[philosophy|filosofia]]. Ora, lasciando da parte per il
+momento molti critici sinceri e seri del [[Marriage|matrimonio]] moderno,
+grandi masse di uomini e donne moderni, che scrivono e parlano del
+[[Marriage|matrimonio]], lo stanno così rosicchiando alla cieca come un
+esercito di topi. Quando i riformatori propongono, per esempio, che
+il [[divorce|divorzio]] debba essere ottenibile dopo un'assenza di tre anni
+(l'assenza effettivamente data per scontata nei primi ordinamenti
+militari della recente Guerra europea) i loro lettori e sostenitori
+raramente saprebbero dare una qualche ragione logica per cui il periodo
+sia di tre anni, e non di tre mesi o tre minuti. Sono come persone
+che dicessero "Datemi tre piedi di cane"; e non si curassero di dove
+cada il taglio. Tali persone non riescono a vedere un cane come entità
+organica; in altre parole, non riescono a raccapezzarcisi. E la cosa
+principale da dire di tali riformatori del [[Marriage|matrimonio]] è che non
+riescono a raccapezzarcisi. Non sanno cosa esso sia, o cosa sia inteso
+essere, o cosa i suoi sostenitori suppongano che sia; non lo guardano
+mai, nemmeno quando ci sono dentro. Fanno il lavoro che è più vicino;
+il che consiste nel praticare buchi nel [[Bottom|fondo]] di una barca nella
+convinzione di stare zappando in un [[Garden|giardino]]. Questa questione di
+cosa una cosa sia, e se sia un [[Garden|giardino]] o una barca, appare loro
+astratta e accademica. Non hanno idea di quanto grande sia l'idea che
+attaccano; o di quanto relativamente piccoli appaiano i buchi che vi
+praticano.
+
+Così, Sir [[arthur|Arthur]] Conan Doyle, un uomo intelligente in altre
+faccende, dice che c'è soltanto un'opposizione "teologica" al [[divorce|divorzio]],
+e che essa è interamente fondata su "certi testi" della [[Bible|Bibbia]]
+riguardo ai matrimoni. Questo è esattamente come se dicesse che la
+credenza nella fratellanza degli uomini fosse fondata soltanto su
+certi testi della [[Bible|Bibbia]], sul fatto che tutti gli uomini sono
+figli di Adamo ed Eva. Milioni di contadini e di gente semplice in
+tutto il mondo danno per scontato che il [[Marriage|matrimonio]] sia statico,
+senza aver mai posato gli occhi su alcun testo. Numeri di persone più
+moderne, specialmente dopo i recenti esperimenti in [[America]], pensano
+che il [[divorce|divorzio]] sia una malattia sociale, senza essersi mai
+preoccupate di alcun testo. Si può sostenere che persino in costoro,
+o in chiunque, l'idea del [[Marriage|matrimonio]] sia in ultima analisi mistica;
+e lo stesso si può sostenere dell'idea di fratellanza. È ovvio che
+marito e moglie non sono visibilmente una sola carne, nel senso di
+essere un solo quadrupede. È altrettanto ovvio che Paderewski e Jack
+Johnson non sono gemelli, e probabilmente non hanno giocato insieme
+sulle ginocchia della madre. C'è invero un'ammissione, o aggiunta,
+molto importante da cogliere qui. Ciò che è vero è questo: che se le
+sciocchezze di Nietzsche o di qualche altro sofista sommergessero la
+cultura corrente, sì da rendere di moda negare i doveri della
+fraternità; allora invero potrebbe trovarsi che il gruppo che ancora
+affermava la fraternità fosse il gruppo originario nei cui libri sacri
+stava il testo su Adamo ed Eva. Supponiamo che qualche professore
+prussiano abbia opportunamente scoperto che i Tedeschi e gli uomini
+inferiori discendono rispettivamente da due scimmie tanto diverse da
+non essere in alcun senso fratelli, ma appena cugini (tedeschi) rimossi
+un numero qualsiasi di volte. E supponiamo che egli proceda a rimuoverli
+ancor più con un'accetta, supponiamo che egli fondi su ciò una
+ripetizione della condotta di [[Cain|Caino]], dicendo non tanto "Sono forse
+il custode di mio fratello?" quanto "È davvero mio fratello?" E supponiamo
+che questa più alta [[philosophy|filosofia]] dell'accetta divenga prevalente
+nei collegi e nei circoli colti, come hanno fatto filosofie ancor più
+sciocche. Allora convengo che probabilmente sarà il cristiano, l'uomo
+che conserva il testo su [[Cain|Caino]], a continuare ad affermare di essere
+ancora il fratello [[The Professor|del professore]]; di essere ancora il
+custode [[The Professor|del professore]]. Egli forse aggiungerà che, a suo
+parere, [[The Professor|il professore]] sembra richiedere un custode.
+
 
 
 <span class="atom-split" data-atom="chapter_01--part_02" data-title="The Superstition of Divorce — Chapter 1 (part 2)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="motif/dawn,motif/fire,motif/flag,motif/love,motif/machine,motif/marriage,motif/nature,motif/well,concept/honour,concept/nature,concept/poverty,concept/suffering"></span>
@@ -2446,6 +2562,98 @@ national loyalty, some of us would have deserted our nation long ago.
 
 --/--
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+E questa è senza dubbio la situazione nelle controversie odierne sul
+[[divorce|divorzio]] e sul [[Marriage|matrimonio]]. È la Chiesa cristiana che continua
+a sostenere con fermezza, quando il mondo per qualche ragione si è
+indebolito su di esso, ciò che molti altri sostengono in altri tempi.
+Ma anche allora è appena raccogliere i brandelli e i frammenti della
+questione parlare di un affidamento ai testi. Il punto vitale nel
+paragone è questo: che la fratellanza umana significa un'intera visione
+della vita, tenuta alla luce della vita, e difesa, a torto o a ragione,
+mediante costanti appelli a ogni aspetto della vita. La religione che
+la sostiene con più forza la sosterrà quando nessun altro la sostiene;
+questo è del tutto vero, e alcuni di noi possono essere tanto perversi
+da ritenerlo un punto a favore della religione. Ma chiunque la sostenga,
+in qualsiasi misura, la sosterrà come una [[philosophy|filosofia]], non appesa
+a un solo testo ma a cento verità. La fraternità può essere una
+metafora sentimentale; posso essere vittima di un'illusione, [[Suffering|soffrire]]
+un delirio, quando saluto un contadino montenegrino come mio fratello
+perduto da tempo. In effetti, ho i miei sospetti su chi di noi due sia
+quello che si è perduto. Ma la mia illusione non è una deduzione da un
+solo testo, o da venti; è l'espressione di una relazione che a me
+almeno pare una realtà. E ciò che direi dell'idea di fratello, lo direi
+dell'idea di moglie.
+
+Si suppone sia molto poco pratico cominciare dal principio. Lo si
+chiama "principi astratti e accademici coi quali noi Inglesi, eccetera,
+eccetera". In qualche strano modo si considera ancora poco pratico
+aprire indagini su qualsiasi cosa chiedendo che cosa essa sia. Accade
+però che io provi un disprezzo abbastanza completo per quella sorta di
+praticità; poiché so che non è nemmeno pratica. Il mio uomo d'affari
+ideale non sarebbe uno che sbatte sul tavolo cinquanta sterline e dice
+"Ecco denaro contante; sono un uomo semplice; mi è del tutto indifferente
+se stia pagando un debito, o facendo l'elemosina a un mendicante, o
+comprando un toro selvatico o una [[Machine|macchina]] da bagno". Nonostante
+la contagiosa cordialità del suo tono, io, considerando il denaro
+contante, direi comunque (come un [[cabman|vetturino]]) "Che cos'è questo?"
+Continuerei a insistere, pedantemente, che era un punto altamente
+pratico stabilire che cosa fosse quel denaro; che cosa fosse inteso a
+rappresentare, a mirare o a dichiarare; quale fosse la [[Nature|natura]] della
+transazione; o, in breve, che diamine credesse di fare quell'uomo.
+Comincerò dunque col chiedere, in modo altrettanto mistico, che cosa
+in nome di Dio e degli angeli creda di fare un uomo che si sposa.
+Comincerò col chiedere che cosa sia il [[Marriage|matrimonio]]; e la sola domanda
+rivelerà probabilmente che l'atto stesso, buono o cattivo, saggio o
+folle, è di una certa specie; che non è un'indagine né un esperimento
+né un incidente; ci potrà probabilmente [[Dawn|balenare]] alla mente che è
+una promessa. Lo si può definire più compiutamente dicendo che è un voto.
+
+Molti risponderanno immediatamente che è un voto avventato. Mi accontento
+per il momento di replicare che tutti i voti sono voti avventati. Non
+sto ora difendendo ma definendo i voti; sto facendo notare che questa è
+una discussione sui voti; primo, se debbano esserci voti; e secondo,
+quali voti debbano esserci. Deve un uomo rompere una promessa? Deve un
+uomo fare una promessa? Queste sono questioni filosofiche; ma la
+peculiarità filosofica del [[divorce|divorzio]] e delle nuove nozze, in confronto
+al [[Love|libero amore]] e al nessun [[Marriage|matrimonio]], è che un uomo rompe e fa
+una promessa nel medesimo istante. È una [[philosophy|filosofia]] assai tedesca;
+e ricorda il modo in cui il nemico desidera celebrare la sua riuscita
+distruzione di tutti i trattati firmandone qualche altro. Se rompessi
+una promessa, lo farei senza promesse. Ma sono ben lontano dal
+minimizzare la [[Nature|natura]] momentosa e discutibile del voto stesso.
+Cercherò di mostrare, in un articolo successivo, che questa operazione
+avventata e romantica è l'unica fornace da cui possa uscire la semplice
+ferramenta dell'umanità, la resistenza di ghisa della cittadinanza o il
+freddo acciaio del buon senso; ma non nego che la fornace sia un [[Fire|fuoco]].
+Il voto è una cosa violenta e unica; benché ve ne siano stati molti oltre
+al voto di [[Marriage|matrimonio]]; voti di cavalleria, voti di [[Poverty|povertà]], voti
+di celibato, pagani non meno che cristiani. Ma la moda moderna è piuttosto
+uscita dall'abitudine; e gli uomini mancano il tipo per mancanza dei
+paralleli. Il modo più breve di porre il problema è chiedere se l'essere
+liberi includa l'essere liberi di legarsi. Poiché il voto è un appuntamento
+con se stessi.
+
+Posso essere frainteso se dico, per brevità, che il [[Marriage|matrimonio]] è una
+faccenda d'[[Honour|onore]]. Lo scettico sarà lieto di acconsentire, dicendo che
+è una lotta. E così è, non fosse che con se stessi; ma il punto qui è che
+esso ha necessariamente il tocco dell'eroico, in cui la virtù si può
+tradurre con virtus. Ora, riguardo al combattere, nella sua [[Nature|natura]],
+c'è un'infinità implicita o almeno un'infinità potenziale. Voglio dire che
+la lealtà in guerra è lealtà nella sconfitta o persino nel disonore; è
+dovuta alla [[Flag|bandiera]] proprio nel momento in cui la [[Flag|bandiera]] quasi
+cade. Già applichiamo questo alla [[Flag|bandiera]] della nazione; e la questione
+è se sia saggio o insensato applicarlo alla [[Flag|bandiera]] della famiglia.
+Naturalmente, è sostenibile che non dovremmo applicarlo a nessuna delle
+due; che il malgoverno nella nazione o la miseria nel cittadino
+renderebbero la diserzione dalla [[Flag|bandiera]] un atto di ragione e non di
+tradimento. Dirò qui soltanto che, se questo fosse davvero il limite della
+lealtà nazionale, alcuni di noi avrebbero disertato la propria nazione da
+tempo.
+
+--/--
 
 
 
@@ -2559,6 +2767,114 @@ voluntary and the most natural of all [[Self|self]]-governing states.
 It is not true of Mr. Brown that he might have been a Russian;
 but it may be true of Mrs. Brown that she might have been a Robinson.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+II
+
+LA SUPERSTIZIONE DEL [[divorce|DIVORZIO]] (2)
+
+Ai due o tre articoli che qui compaiono su questo argomento ho dato il
+titolo di Superstizione del [[divorce|Divorzio]]; e il titolo non è preso a
+caso. Mentre il [[Love|libero amore]] mi sembra un'eresia, il [[divorce|divorzio]] mi
+sembra davvero una superstizione. Non è soltanto più superstizione del
+[[Love|libero amore]], ma molto più superstizione del rigoroso [[Marriage|matrimonio]]
+sacramentale; e questo punto non si può rendere troppo chiaro. Sono i
+fautori del [[divorce|divorzio]], non i difensori del [[Marriage|matrimonio]], ad
+attribuire una rigida e insensata santità a una mera cerimonia, a
+prescindere dal significato della cerimonia. Sono i nostri avversari, e
+non noi, a [[Hope|sperare]] di essere salvati dalla lettera del rito, invece
+che dallo spirito della realtà. Sono loro a sostenere che voto o
+violazione, lealtà o slealtà, possano tutti risolversi mediante un rito
+misterioso e [[Magic|magico]], celebrato prima in un [[Court|tribunale]] e poi in una
+chiesa o in un ufficio dello stato civile. C'è poca differenza tra le
+due parti del rito; se non che il [[Court|tribunale]] è molto più ritualistico.
+Ma i paralleli più semplici mostreranno a chiunque che tutto ciò è pura
+e barbara credulità. Può darsi che sia o non sia superstizione, per un
+uomo, credere di dover baciare la [[Bible|Bibbia]] per mostrare che sta dicendo
+la [[Truth|verità]]. È certamente la più abietta superstizione, per lui, credere
+che, se bacia la [[Bible|Bibbia]], qualunque cosa dica diventerà vera. Sarebbe
+di sicuro il più nero e ottenebrato culto della [[Bible|Bibbia]] suggerire che
+il mero bacio sul mero libro alteri la qualità morale dello spergiuro.
+Eppure è precisamente ciò che è implicito nel dire che le nuove nozze
+formali alterano la qualità morale dell'infedeltà coniugale. Può essere
+stato un segno del Medioevo che Aroldo giurasse su una reliquia, benché
+egli fosse poi spergiuro. Ma di sicuro quelle età sarebbero state al
+loro più cupo, se egli si fosse accontentato di giurare su una reliquia
+e spergiurare su un'altra reliquia. Eppure questo è il nuovo altare che
+questi riformatori vorrebbero erigere per noi, con le ammuffite e
+insensate reliquie della loro legge morta e della loro religione morente.
+
+Ora noi, in ogni caso, parliamo di un'idea, di una cosa dell'intelletto
+e dell'[[Soul|anima]]; che sentiamo inalterabile dalle buffonate legali.
+Parliamo dell'idea di lealtà; forse un'idea fantastica, forse soltanto
+un'idea fuori moda, ma un'idea che possiamo spiegare e difendere come
+idea. Ora ho già fatto notare che la maggior parte degli uomini sensati
+ammette il nostro ideale in un caso come il patriottismo o lo spirito
+pubblico; la necessità di salvare lo Stato al quale apparteniamo. Il
+patriota può inveire ma non deve rinnegare il proprio paese; deve
+maledirlo per guarirlo, ma non per farlo appassire. Gli antichi cittadini
+pagani sentivano così riguardo alla [[City|città]]; e i nazionalisti moderni
+sentono così riguardo alla nazione. Ma persino i meri internazionalisti
+moderni lo sentono per qualcosa; non fosse che per la nazione dell'umanità.
+Persino l'umanitario non diventa un misantropo e va a vivere in una
+[[house|casa]] di scimmie. Persino un deluso collettivista o comunista non si
+ritira nell'esclusiva società dei castori, perché i castori sono tutti
+comunisti della più consapevole solidarietà di classe. Egli ammette la
+necessità di aggrapparsi ai propri simili, e di supplicarli di abbandonare
+l'uso del pronome possessivo; per quanto strazianti debbano parergli i
+suoi sforzi dopo un [[Time|certo tempo]]. Persino un pacifista non preferisce
+i ratti agli uomini, sul fondamento che la comunità dei ratti è così
+pura dalla contaminazione del bellicismo da abbandonare sempre la [[Ship|nave]]
+che affonda. In breve, ognuno riconosce che c'è qualche [[Ship|nave]], grande
+o piccola, che non dovrebbe abbandonare, anche quando pensa che stia
+affondando.
+
+Possiamo dunque ritenere che vi siano istituzioni alle quali siamo
+attaccati definitivamente; proprio come ve ne sono altre alle quali siamo
+attaccati temporaneamente. Andiamo di negozio in negozio cercando di
+ottenere ciò che vogliamo; ma non andiamo di nazione in nazione facendo
+questo; a meno di non appartenere a un certo gruppo che ora si dirige
+molto dritto verso i pogrom. Nel primo caso è la minaccia che ritireremo
+la nostra clientela; nel secondo è la minaccia che non ci ritireremo mai;
+che faremo parte dell'istituzione fino all'ultimo. Il [[Time|momento]] in cui
+il negozio perde i suoi clienti è il [[Time|momento]] in cui la [[City|città]] ha
+bisogno dei suoi cittadini; ma ne ha bisogno come critici che sempre
+rimarranno a criticare. Non ho bisogno ora di sottolineare la mortale
+necessità di questa [[Double|duplice]] energia di [[Reform|riforma]] interna e difesa
+esterna; l'intera torreggiante [[Tragedy|tragedia]] che ha oscurato la nostra
+terra ai nostri [[Time|giorni]] non è che una tremenda illustrazione di essa.
+I colpi di maglio giungono ora fitti e rapidi; e riempiono il mondo di
+tuoni infernali; e c'è ancora il ferreo suono di qualcosa d'infrangibile,
+più profondo e più forte di tutte le cose che si spezzano. Possiamo
+maledire i re, possiamo diffidare dei capitani, possiamo mormorare contro
+l'esistenza stessa degli eserciti; ma sappiamo che nei giorni più oscuri
+che possano venire a noi, nessun uomo [[Desert|diserterà]] la [[Flag|bandiera]].
+
+Ora, quando passiamo dalla lealtà alla nazione alla lealtà alla famiglia,
+non ci può essere alcun [[Doubt|dubbio]] sulla prima e più evidente differenza.
+La differenza è che la famiglia è una cosa assai più libera. Il voto è
+una lealtà volontaria; e il voto di [[Marriage|matrimonio]] si distingue tra i
+comuni giuramenti di fedeltà per il fatto che la fedeltà è anche una
+scelta. L'uomo non è soltanto un cittadino della [[City|città]], ma anche il
+fondatore e costruttore della [[City|città]]. Non è soltanto un soldato che
+serve i colori, ma ha egli stesso artisticamente scelto e combinato i
+colori, come i colori di un abito individuale. Se è ammissibile
+chiedergli di essere fedele allo Stato che lo ha fatto, non è almeno più
+illiberale chiedergli di essere fedele allo Stato che egli stesso ha
+fatto. Se la fedeltà civica è, com'è, una necessità, essa è anche in un
+senso speciale una costrizione. La vecchia beffa contro il patriottismo,
+l'ironia gilbertiana, si congratulava con l'inglese per il suo fine e
+schizzinoso gusto di essere nato in Inghilterra. Segnava un punto
+plausibile dicendo "Poiché avrebbe potuto essere un russo"; benché invero
+siamo vissuti fino a vedere alcune persone che parevano credere di poter
+essere russi quando ne avessero il capriccio. Se il buon senso considera
+naturale persino una tale lealtà involontaria, difficilmente possiamo
+[[Wonder|stupirci]] se giudica ancor più naturale la lealtà volontaria. E il
+piccolo Stato fondato sui sessi è al tempo stesso il più volontario e il
+più naturale di tutti gli Stati che si governano da [[Self|sé]]. Non è vero
+del signor Brown che avrebbe potuto essere un russo; ma può esser vero
+della signora Brown che avrebbe potuto essere una Robinson.
 
 
 
@@ -2691,6 +3007,137 @@ permit for adultery; and why is running away with his neighbour's
 wife to be the only exhilaration still left open to him?
 Why must he [[Love|love]] as he pleases; when he may not even live as he pleases?
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Ora non è affatto difficile vedere perché questa piccola comunità, così
+particolarmente libera quanto alla sua causa, debba tuttavia essere
+particolarmente vincolata quanto ai suoi effetti. Non è difficile vedere
+perché il voto fatto più liberamente sia il voto mantenuto più fermamente.
+Ad esso sono legate, per la [[Nature|natura]] delle cose, conseguenze così
+tremende che nessun contratto può offrire alcun paragone. Non c'è
+contratto, a meno che non sia quello che si dice firmato col [[Blood|sangue]],
+che possa chiamare spiriti dal profondo immenso, o portare cherubini (o
+folletti) ad abitare una piccola villetta moderna. Non c'è tratto di penna
+che crei corpi e anime reali, o che faccia prendere vita ai personaggi di
+un [[Novel|romanzo]]. L'istituzione che tanto sconcerta gli intellettuali si può
+spiegare col mero fatto materiale (percepibile persino agli intellettuali)
+che i figli sono, generalmente parlando, più giovani dei loro genitori.
+"Finché [[Death|morte]] non ci separi" non è una formula irrazionale, poiché
+costoro moriranno quasi certamente prima di vedere più della metà della
+cosa stupefacente (o allarmante) che hanno compiuto.
+
+Tale è, in un abbozzo brusco e grezzo, questa cosa ovvia per coloro ai
+quali non è ovvia. Ora so che vi sono uomini di pensiero tra coloro che
+vi metterebbero mano; e mi aspetto che alcuni di questi replichino alle
+mie domande. Ma per il momento pongo soltanto questa domanda: se il
+movimento parlamentare e giornalistico per il [[divorce|divorzio]] mostri anche
+una traccia d'ombra di queste verità fondamentali, considerate come
+banchi di prova. Discute forse la [[Nature|natura]] di un voto, i limiti e gli
+oggetti della lealtà, la [[Survival|sopravvivenza]] della famiglia come piccolo e
+libero Stato? Gli scrittori si accontentano di dire che il signor Brown è
+a disagio con la signora Brown, e l'ultima emancipazione, per le coppie
+separate, sembra significare soltanto che egli è ancora a disagio senza la
+signora Brown. Non sono giorni in cui l'essere a disagio è sentito come la
+prova ultima dell'azione pubblica. Per il resto, i riformatori mostrano
+statisticamente che le famiglie sono di fatto così sparpagliate nella
+nostra anarchia industriale, che potrebbero anche abbandonare la [[Hope|speranza]]
+di ritrovare la via di [[Home|casa]]. Conosco quell'argomento del rendere peggio
+il male e lo vedo dovunque condurre alla [[Slavery|schiavitù]]. Poiché il ponte
+di [[London|Londra]] è crollato, dobbiamo supporre che i ponti non siano fatti
+per fare da ponte. Poiché il commercialismo e il capitalismo di [[London|Londra]]
+hanno copiato l'inferno, dobbiamo continuare a copiarli. Comunque sia,
+alcuni conserveranno la convinzione che l'antico ponte costruito tra le
+due torri del sesso sia la più degna delle grandi opere della terra.
+
+È estremamente caratteristico dei tetri decenni prima della Guerra che le
+forme di [[Freedom|libertà]] nelle quali essi parevano specializzarsi fossero il
+[[suicide|suicidio]] e il [[divorce|divorzio]]. Non mi sto in questo momento
+pronunciando sul problema morale né dell'uno né dell'altro; sto soltanto
+notando, come segni di quei tempi, quei due veri o falsi consigli di
+[[Despair|disperazione]]; la fine della vita e la fine dell'[[Love|amore]]. Altre forme
+di [[Freedom|libertà]] venivano sempre più ristrette. La [[Freedom|libertà]], invero, era
+l'unica cosa che progressisti e conservatori del pari disprezzavano. I
+socialisti si preoccupavano in gran parte di impedire gli scioperi,
+mediante l'arbitrato statale; cioè aggiungendo un altro uomo ricco che
+desse il voto decisivo tra ricchi e poveri. Persino nel rivendicare ciò
+che chiamavano il diritto al lavoro cedevano tacitamente il diritto di
+smettere di lavorare. I Tory predicavano la coscrizione, non tanto per
+difendere l'indipendenza dell'Inghilterra quanto per distruggere
+l'indipendenza degli inglesi. I liberali, naturalmente, erano soprattutto
+interessati a eliminare la libertà, specialmente quanto alla birra e alle
+scommesse. Era malvagio combattere, e malsicuro persino discutere; poiché
+citare un qualche fatto certo e contemporaneo poteva far finire in una
+causa per diffamazione. Mentre tutte queste porte venivano chiuse con
+successo in faccia a noi lungo il gelido e squallido corridoio del progresso
+(con le sue piastrelle smaltate) le porte della [[Death|morte]] e del [[divorce|divorzio]]
+[[Alone|sole]] restavano aperte, o piuttosto si aprivano sempre più. Non mi
+aspetto che i fautori del [[divorce|divorzio]] ammettano alcuna somiglianza tra
+le due cose; eppure il fugace parallelo non è irrilevante. Può metterli in
+grado di rendersi conto dei limiti entro i quali i nostri istinti morali
+possono, anche solo per amor di discussione, trattare questo rimedio
+disperato come un normale oggetto di [[Desire|desiderio]]. Il [[divorce|divorzio]] è per
+noi nel migliore dei casi un fallimento, di cui ci preoccupiamo più di
+trovare e curare la causa che di completarne gli effetti; e consideriamo
+un sistema che produce molti divorzi come consideriamo un sistema che
+spinge gli uomini ad annegarsi e a spararsi. Per esempio, è forse la più
+comune lagnanza contro la legge esistente che i poveri non possano
+permettersi di avvalersene. È un argomento al quale normalmente presterei
+ascolto con speciale simpatia. Ma per quanto condannerei che la legge sia
+un lusso, il mio primo pensiero sarà naturalmente che il [[divorce|divorzio]] e la
+[[Death|morte]] sono lussi soltanto in un senso piuttosto raro. Non condoglierei
+in primo luogo col povero per l'alto prezzo dell'acido prussico; o per il
+fatto che tutti i precipizi di conveniente altezza suicida fossero
+proprietà privata dei latifondisti. Ci sono altri alti prezzi e altri
+alti precipizi che attaccherei per primi. Ammetterei in astratto che ciò
+che è salsa per l'oca è salsa per il papero; che ciò che è buono per il
+ricco è buono per il povero; ma la mia prima e più forte impressione
+sarebbe che la salsa all'acido prussico non è buona per nessuno. Temo che,
+sull'impulso del momento, tirerei indietro per le falde della giacca un
+povero impiegato o artigiano, se stesse saltando dalla Rupe di Shakespeare,
+anche se le sabbie di Dover fossero cosparse dei resti dei duchi e dei
+banchieri che avevano già fatto il gran salto.
+
+Ma sotto un aspetto, lo concederò di cuore, il culto del [[divorce|divorzio]] si
+è distinto dal mero culto della [[Death|morte]]. Il culto della [[Death|morte]] è morto.
+Quelli che conoscevo in gioventù come giovani pessimisti sono ora attempati
+ottimisti. E, ciò che più conta al presente, persino quando era vivo era
+limitato; era cosa di una sola cricca in una sola classe. Conosciamo la
+regola nella vecchia [[Comedy|commedia]], che quando l'eroina impazziva in raso
+bianco, la confidente impazziva in mussola bianca. Ma quando, in qualche
+[[Tragedy|tragedia]] del temperamento artistico, il pittore si suicidava in velluto,
+non si sottintendeva mai che l'idraulico dovesse suicidarsi in fustagno.
+Non si è mai sostenuto che la cameriera di Hedda Gabler dovesse morire tra
+i tormenti sul tappeto (per quanto arduo possa essere stato il suo periodo
+di servizio); o che il maggiordomo della signora Tanqueray dovesse fare il
+[[Fool|folle]] alla romana e morire sul proprio trinciante. Quella particolare
+forma di fare il [[Fool|folle]], alla romana o altrimenti, era un privilegio
+oligarchico nell'epoca decadente; e persino come tale è in gran parte
+passata con quell'epoca. Il pessimismo, che non fu mai popolare, non è più
+neppure di moda. Una sorte assai diversa ha atteso l'altra moda; l'altra
+forma alquanto lugubre di [[Freedom|libertà]]. Se il [[divorce|divorzio]] è una malattia,
+non dev'essere più una malattia alla moda come l'appendicite; dev'essere
+resa un'epidemia come il vaiolo. Come già abbiamo visto, giornali e uomini
+pubblici oggi fanno grande sfoggio della necessità di rendere il povero
+libero di ottenere un [[divorce|divorzio]]. Ora, perché sono così mortalmente
+ansiosi che egli sia libero di ottenere un [[divorce|divorzio]], e per nulla
+ansiosi che egli sia libero di ottenere qualsiasi altra cosa? Perché le
+stesse persone sono felici, anzi quasi ilari, quando egli ottiene un
+[[divorce|divorzio]], loro che inorridiscono quando egli ottiene da bere? Che ne
+sia del suo denaro, che ne sia dei suoi figli, dove egli lavori, quando
+cessi di lavorare, sono cose sempre meno sotto il suo controllo personale.
+Uffici di collocamento, tessere assicurative, opere assistenziali, e cento
+forme di ispezione e sorveglianza di polizia si sono combinate, nel bene o
+nel male, per fissarlo sempre più rigidamente a un certo posto nella
+società. Gli è sempre meno permesso di andare a cercare un nuovo impiego;
+perché gli è permesso di andare a cercare una nuova moglie? È sempre più
+costretto a riconoscere un codice musulmano riguardo ai liquori; perché gli
+è reso così facile sfuggire al suo vecchio codice cristiano riguardo al
+sesso? Qual è il significato di questa misteriosa immunità, di questo
+speciale permesso di adulterio; e perché il fuggire con la moglie del
+vicino dev'essere l'unica euforia ancora aperta a lui? Perché deve [[Love|amare]]
+come gli aggrada; quando non gli è permesso neppure di vivere come gli
+aggrada?
 
 
 
@@ -2972,6 +3419,168 @@ And the experience of mankind points the other way.
 --/--
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+III
+
+LA SUPERSTIZIONE DEL [[divorce|DIVORZIO]] (3)
+
+C'è stato a lungo un tentativo curiosamente coerente di celare il fatto
+che la Francia è un paese cristiano. Ci sono stati francesi nella congiura,
+senza [[Doubt|dubbio]], e senza [[Doubt|dubbio]] ci sono stati francesi—benché io
+stesso abbia trovato soltanto inglesi—nel tentativo derivato di celare il
+fatto che Balzac fosse uno scrittore cristiano. Cominciai a leggere Balzac
+molto tempo dopo aver letto gli ammiratori di Balzac; ed essi non mi
+avevano mai dato un accenno di questa [[Truth|verità]]. Avevo letto che i suoi
+libri erano rilegati in giallo e "del tutto sfrontatamente francesi";
+benché possa essere stato nel vago sul perché l'essere francese dovesse
+essere sfrontato in un francese. Avevo letto la più veritiera descrizione
+del "sudicio mago della Comédie Humaine", e sono vissuto per apprenderne la
+[[Truth|verità]]; Balzac è certamente un genio del tipo di quell'[[Artist|artista]] che
+egli stesso descrive, capace di disegnare un manico di scopa così che si
+sapeva che aveva spazzato la stanza dopo un omicidio. Il mobilio di Balzac
+è più vivo delle figure di molti drammi. A questo ero preparato; ma non a
+una certa assunzione spirituale che riconobbi subito come fenomeno storico.
+La [[morality|moralità]] di un grande scrittore non è la [[morality|moralità]] che egli
+insegna, ma la [[morality|moralità]] che egli dà per scontata. Il tipo cattolico
+dell'etica cristiana attraversa i libri di Balzac, esattamente come il tipo
+puritano dell'etica cristiana attraversa i libri di Bunyan. Quali fossero
+le sue opinioni professate non lo so, non più di quanto conosca quelle di
+Shakespeare; ma so che entrambi quei grandi creatori di un mondo
+moltitudinario lo fecero, in confronto ad altri e più tardi scrittori, sul
+medesimo fondamentale piano morale dell'universo di [[Dante]]. Non ci può
+essere alcun [[Doubt|dubbio]] su ciò per chiunque sappia applicare come banco di
+prova la [[Truth|verità]] che ho menzionato; che le cose fondamentali in un uomo
+non sono le cose che egli spiega, ma piuttosto le cose che dimentica di
+spiegare. Ma qua e là Balzac spiega davvero; e con quella concentrazione
+intellettuale che il signor George Moore ha acutamente osservato in quel
+romanziere quando è teorico. E l'altro giorno ho trovato in uno dei romanzi
+di Balzac questo brano; il quale, che colga o no precisamente l'umore del
+signor George Moore in questo momento, mi colpisce come una perfetta
+profezia di quest'epoca, e potrebbe anche essere un motto per questo libro:
+"Con la solidarietà della famiglia la società ha perduto quella forza
+elementare che Montesquieu definì e chiamò '[[Honour|onore]].' La società ha
+isolato i suoi membri per meglio governarli, e ha diviso per indebolire."
+
+Per tutta la nostra giovinezza e gli anni prima della Guerra, la critica
+corrente seguiva Ibsen nel descrivere il sistema domestico come una
+[[house|casa]] di bambole e la donna domestica come una bambola. Il signor
+Bernard [[Shaw]] variava la metafora dicendo che la mera consuetudine teneva
+la donna nel [[Home|focolare]] come tiene il pappagallo nella gabbia; e le opere
+teatrali e i racconti del periodo davano vividi schizzi di una donna che
+somigliava a un pappagallo anche in altri particolari, ricca di vesti,
+stridula d'accento e incline a ripetere più e più volte ciò che le era stato
+insegnato a dire. Il signor Granville Barker, il [[Child|figlio]] spirituale del
+signor Bernard [[Shaw]], commentava nella sua abile commedia "L'eredità dei
+Voysey" la tirannia, l'ipocrisia e la noia, come elementi costitutivi di un
+"felice [[Home|focolare]] inglese". Lasciando da parte per il momento la
+[[Truth|verità]] di ciò, sarà [[Well|bene]] insistere che la convenzionalità così
+criticata sarebbe ancor più caratteristica di un felice [[Home|focolare]] francese.
+Non è la [[house|casa]] dell'inglese, ma la [[house|casa]] del francese a essere il
+suo [[Castle|castello]]. Si potrebbe aggiungere inoltre, riguardo almeno alla
+veduta etica essenziale dei sessi, che la [[house|casa]] dell'irlandese è il suo
+[[Castle|castello]]; benché sia stata per alcuni secoli un [[Castle|castello]] assediato.
+Comunque sia, quelle convenzioni che si notavano come rendenti la domesticità
+cupa, angusta e innaturalmente mite e sottomessa, sono particolarmente
+potenti tra gli irlandesi e i francesi. Da ciò sarà di sicuro facile, per
+qualsiasi pensatore lucido e logico, dedurre il fatto che i francesi sono
+cupi e angusti, e che gli irlandesi sono innaturalmente miti e sottomessi.
+Il signor Bernard [[Shaw]], essendo un irlandese che vive tra inglesi, può
+essere convenientemente preso come il tipo della differenza; e si troverà
+senza [[Doubt|dubbio]] che gli amici politici del signor [[Shaw]], tra gli inglesi,
+saranno di un tipo rivoluzionario più selvaggio di quelli che egli avrebbe
+trovato tra gli irlandesi. Siamo in grado di paragonare la mitezza dei
+Feniani con la furia dei Fabiani. Questo mortifero ideale monogamico può
+persino, in un senso più largo, definire e distinguere tutta la piatta
+subordinazione di Clare da tutta la fiammeggiante rivolta di Clapham. Né
+dobbiamo ora guardare lontano per comprendere perché le rivoluzioni siano
+state sconosciute nella [[history|storia]] della Francia; o perché avvengano così
+persistentemente nella più vaga politica dell'Inghilterra. Questa rigidità
+e rispettabilità dev'essere di sicuro la spiegazione di tutta quell'incapacità
+per qualsiasi esperimento o esplosione civile, che ha sempre contraddistinto
+quel sonnolento [[Hamlet|borgo]] di case assai private che chiamiamo la [[City|Città]]
+di [[Paris|Parigi]]. Ma le stesse cose sono vere non soltanto dei parigini ma dei
+contadini; sono vere persino di altri contadini nella grande Alleanza. Gli
+studiosi delle tradizioni serbe ci dicono che la letteratura contadina getta
+una speciale e singolare maledizione sulla violazione del [[Marriage|matrimonio]]; e
+questo può [[Well|ben]] spiegare il pacifismo compìto e pecoresco lamentato in
+quel popolo.
+
+In parole povere, c'è chiaramente qualcosa di sbagliato nel calcolo mediante
+il quale si dimostrava che una massaia dev'essere serva tanto quanto una
+domestica; o che esibiva l'uomo addomesticato come tanto gentile quanto la
+primula o tanto conservatore quanto la Primrose League. Sono precisamente
+coloro che sono stati conservatori riguardo alla famiglia ad essere stati
+rivoluzionari riguardo allo Stato. Coloro che vengono biasimati per la
+bigotteria o la borghese compiacenza delle loro convenzioni di [[Marriage|matrimonio]]
+sono in realtà quelli biasimati per l'irrequietezza e la violenza delle loro
+riforme politiche. Né c'è seriamente alcuna difficoltà nello scoprire la
+causa di ciò. È semplicemente che in una tale società il [[government|governo]], nel
+trattare con la famiglia, tratta con qualcosa di quasi altrettanto permanente
+e capace di rinnovarsi da [[Self|sé]] quanto esso stesso. Ci può essere una
+politica familiare continua, come una politica estera continua. Nei paesi
+contadini la famiglia combatte, si può quasi dire che la fattoria combatte.
+Non intendo soltanto che essa si ribella in tempi cattivi ed eccezionali;
+benché ciò non sia senza importanza. Fu un tratto selvaggio ma sano quando,
+negli sfratti irlandesi, le donne versavano [[Water|acqua]] bollente dalle
+finestre; era parte di un ripiego finale su strumenti privati come armi
+pubbliche. Quella sorta di cosa non è soltanto guerra al coltello, ma quasi
+guerra alla forchetta e al cucchiaio. Fu in questo cupo senso forse che
+Parnell, in quel misterioso gioco di parole, disse che Kettle era una parola
+di casa in Irlanda (dovrebbe certamente esserlo dopo le sue glorie
+successive), e in un senso più generale è certo che l'immischiarsi con la
+massaia significherà alla fine cacciarsi in [[Water|acqua]] bollente. Ma non è di
+tali crisi di lotta corporea che parlo, bensì di una pressione costante e
+pacifica dal basso di mille famiglie sull'intelaiatura del [[government|governo]].
+Per questo è essenziale un certo spirito di difesa e di recinto; e persino il
+feudalesimo aveva ragione nel sentire che ogni simile affare d'[[Honour|onore]]
+dovesse essere un affare di famiglia. Fu un vero istinto artistico quello che
+raffigurò il lignaggio su un giubbone che protegge il [[Body|corpo]]. Il libero
+contadino ha armi se non ha insegne araldiche. Non ha uno scudo gentilizio;
+ma ha uno scudo. Né vedo perché, in una società più libera e più felice della
+presente, o persino del passato, non dovrebbe essere uno scudo blasonato.
+Poiché ciò che è vero della proprietà è vero del lignaggio; il torto non sta
+nell'esser esso imposto agli uomini, ma piuttosto nell'esser loro negato.
+Troppo capitalismo non significa troppi capitalisti, ma troppo pochi
+capitalisti; e così l'aristocrazia pecca non nel piantare un albero
+genealogico, ma nel non piantare una foresta genealogica.
+
+Comunque sia, si trova nella pratica che il cittadino domestico può sostenere
+un assedio, persino da parte dello Stato; perché ha coloro che gli staranno
+accanto nella buona e nella cattiva sorte—specialmente nella cattiva. Ora
+coloro che sostengono che lo Stato può esser reso atto a possedere tutto e
+amministrare tutto, possono coerentemente ignorare questo argomento; ma si
+può dire con tutto il rispetto che il mondo li ignora sempre più. Se potessimo
+trovare una [[Machine|macchina]] perfetta, e un uomo perfetto per farla funzionare,
+potrebbe essere un buon argomento per il socialismo di Stato, benché un
+argomento altrettanto buono per il dispotismo personale. Ma la maggior parte
+di noi, immagino, è ora d'accordo che qualcosa di quella pressione sociale dal
+basso che chiamiamo [[Freedom|libertà]] è vitale per la salute dello Stato; e questo
+è ciò che non può essere pienamente esercitato dagli individui, ma soltanto da
+gruppi e tradizioni. Tali gruppi sono stati molti; ci sono stati monasteri; ci
+possono essere gilde; ma c'è un solo tipo tra essi che tutti gli esseri umani
+hanno una spontanea e onnipresente ispirazione a costruire per sé; e questo
+tipo è la famiglia.
+
+Avevo inteso che questo articolo fosse l'ultimo di quelli che delineano gli
+elementi di questo [[debate|dibattito]]; ma dovrò aggiungere una breve sezione
+conclusiva sul modo in cui tutto ciò viene mancato nelle proposte pratiche
+(o piuttosto impratiche) riguardo al [[divorce|divorzio]]. Qui dirò soltanto che
+esse soffrono delle moderne e morbose debolezze del sacrificare sempre il
+normale all'anormale. Di fatto la "tirannia, ipocrisia e noia" di cui ci si
+lagna non sono la domesticità, ma il [[Decay|decadimento]] della domesticità. Il
+caso di quella particolare lagnanza, nella commedia del signor Granville
+Barker, è esso stesso una prova. Tutto il punto de "L'eredità dei Voysey" era
+che non c'era alcuna eredità Voysey. L'unica eredità di quella famiglia era un
+debito altamente disonorevole. Naturalmente i loro affetti familiari si erano
+decomposti quando tutto il loro ideale di proprietà e probità si era
+decomposto; e c'era poco [[Love|amore]] non meno che poco [[Honour|onore]] tra i ladri.
+Resta ancora da provare che sarebbero stati altrettanto annoiati se avessero
+avuto un'eredità positiva e non negativa; e avessero lavorato una fattoria
+invece che una frode. E l'esperienza dell'umanità indica il senso opposto.
+
+--/--
+
 
 
 <span class="atom-split" data-atom="chapter_04" data-title="The Superstition of Divorce — Chapter 4" data-chapter="Chapter 04" data-kind="chapter" data-tags="archetype/king,archetype/orphan,archetype/pilgrim,archetype/tyrant,motif/blood,motif/crown,motif/flowers,motif/garden,motif/home,motif/marriage,motif/spring,motif/well,concept/democracy,concept/doubt,concept/eugenics,concept/exile,concept/faith,concept/paradox,concept/reform,concept/slavery,form/sketch,form/tragedy,histref/america,setting/america,setting/germany,setting/orient,setting/russia,character/cain,character/mermaid,character/ulysses"></span>
@@ -3129,6 +3738,146 @@ of what the latest enlightenment can only slowly discover in the end.
 
 --/--
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+IV
+
+LA SUPERSTIZIONE DEL [[divorce|DIVORZIO]] (4)
+
+Ho già accennato in altre occasioni a un famoso o famigerato realista che
+suggerì che il popolo mangiasse erba; osservazione sfortunata forse per un
+realista da farsi; giacché quel regime è registrato soltanto di un Personaggio
+Reale. Ma c'era certamente una semplicità nella soluzione degna di un sultano
+o persino di un capo selvaggio; ed è questo tocco di [[innocence|innocenza]]
+autocratica su cui ho principalmente insistito riguardo alle riforme sociali
+dei nostri giorni, e specialmente la [[Reform|riforma]] sociale nota come [[divorce|divorzio]].
+Mi preoccupa principalmente più il metodo arbitrario che il risultato
+anarchico. Proprio come il vecchio [[Tyrant|tiranno]] avrebbe mandato al pascolo un
+numero qualsiasi di uomini, così il nuovo [[Tyrant|tiranno]] trasformerebbe un numero
+qualsiasi di donne in vedove bianche. Comunque sia, per variare il simbolismo
+leggendario, non sembra mai venire in mente al [[King|re]] di questa fiaba che la
+[[Crown|corona]] d'oro sul suo capo è un ornamento meno, e non più, sacro e stabile
+dell'anello d'oro al dito della donna. Questo mutamento viene attuato dal
+[[government|governo]] sommario e persino segreto che ora subiamo; e questo sarebbe il
+primo punto contro di esso, anche se fosse davvero un'emancipazione; ed è
+soltanto nella forma un'emancipazione. Non anticiperò i dettagli della sua
+difesa, che possono essere offerti da altri, ma qui concluderò per il momento
+suggerendo a grandi linee le difese pratiche del [[divorce|divorzio]], come
+generalmente date proprio al presente, sotto quattro capi. E chiederò soltanto
+al lettore di notare che tutte hanno una cosa in comune; il fatto che ogni
+argomento è usato anche per tutta quella [[Reform|riforma]] sociale che gli uomini
+semplici stanno già chiamando [[Slavery|schiavitù]].
+
+Primo, è molto tipico delle più recenti proposte pratiche che esse si occupino
+del caso di coloro che sono già separati, e dei passi che devono compiere per
+divorziare. C'è uno spirito che penetra oggi tutta la nostra società, per cui
+all'eccezione è concesso di alterare la regola; all'[[Exile|esule]] di deflettere il
+patriottismo, all'[[Orphan|orfano]] di deporre la paternità, e persino alla vedova o,
+in questo caso come abbiamo visto alla vedova bianca, di distruggere la
+posizione della moglie. C'è una sorta di simbolo di questa tendenza in quella
+misteriosa e sventurata nazione nomade a cui è stato concesso di alterare tante
+cose, da una crociata in [[Russia]] a un cottage nel South Bucks. Ci è stato detto
+di trattare l'ebreo errante come un [[Pilgrim|pellegrino]], mentre ancora trattiamo il
+cristiano errante come un vagabondo. Eppure quest'ultimo sta almeno cercando di
+tornare a [[Home|casa]], come [[Ulysses|Ulisse]]; mentre il primo sta, semmai, piuttosto
+fuggendo da [[Home|casa]], come [[Cain|Caino]]. Colui che è distaccato, scontento,
+indefinibile, intermedio è ovunque fatto scusa per alterare ciò che è comune,
+corporativo, tradizionale e popolare. E l'alterazione è sempre in peggio. La
+[[Mermaid|sirena]] non diventa mai più femminile, ma solo più pesciforme. Il centauro
+non diventa mai più virile, ma solo più cavallino. L'ebreo non può realmente
+internazionalizzare la cristianità; può soltanto snazionalizzare la cristianità.
+Il proletario non trova facile diventare un piccolo proprietario; sta trovando
+assai più facile diventare uno schiavo. Così lo sventurato uomo, che non riesce
+a tollerare la donna che ha scelto fra tutte le donne del mondo, non è
+incoraggiato a tornare da lei e a tollerarla, ma è incoraggiato a scegliere
+un'altra donna che a suo tempo potrà rifiutarsi di tollerare. E in tutti questi
+casi l'argomento è il medesimo; che l'uomo nello stato intermedio è infelice.
+Probabilmente è infelice, poiché è anormale; ma il punto è che gli è permesso
+di allentare il vincolo universale che ha tenuto normali milioni di altri.
+Poiché egli stesso si è cacciato in un buco, gli è consentito di scavarvi come
+un coniglio e di minare tutta una campagna.
+
+Poi abbiamo, come sempre abbiamo riguardo a tali esperimenti grezzi, un
+argomento tratto dall'esempio di altri paesi, e specialmente di paesi nuovi.
+Così gli eugenisti mi dicono solennemente che ci sono stati esperimenti eugenici
+di grande successo in [[America]]. E conservano rigidamente la loro solennità
+(mentre rifiutano con molti rimproveri di credere alla mia) quando dico loro
+che uno degli esperimenti eugenici in [[America]] è un esperimento chimico;
+consistente nel trasformare un uomo nero nella forma allotropica di bianca
+cenere. È davvero un esperimento estremamente eugenico; poiché il suo scopo
+principale è scoraggiare una mescolanza interrazziale di [[Blood|sangue]] che non è
+desiderata. Ma non mi piace questo esperimento americano, per quanto americano;
+e confido e credo che non sia affatto tipicamente americano. Esso rappresenta,
+immagino, soltanto un elemento nella complessità della grande [[democracy|democrazia]]; e
+si accompagna ad altri elementi malvagi; sicché non mi sorprende affatto che le
+stesse strane sezioni sociali, che permettono che un essere umano sia bruciato
+vivo, permettano anche l'esaltata scienza dell'[[Eugenics|Eugenetica]]. Lo stesso avviene
+nella più mite questione delle leggi sui liquori; e ci viene detto che certi
+coloniali piuttosto rozzi hanno stabilito leggi proibizioniste, che cercano di
+eludere; proprio come ci viene detto che hanno stabilito leggi sul [[divorce|divorzio]],
+che ora stanno cercando di abrogare. Poiché in questo caso del [[divorce|divorzio]],
+almeno, l'argomento dei precedenti lontani ha rinculato schiacciante su se
+stesso. C'è già un'agitazione per meno [[divorce|divorzio]] in [[America]], mentre c'è
+un'agitazione per più [[divorce|divorzio]] in Inghilterra.
+
+Di nuovo, quando un argomento è fondato su un bisogno di popolazione, sarà [[Well|bene]]
+che coloro che lo sostengono si rendano conto di dove esso possa condurli. È
+estremamente dubbio che la popolazione sia uno dei vantaggi del [[divorce|divorzio]]; ma
+non c'è [[Doubt|dubbio]] che sia uno dei vantaggi della poligamia. Esso è già usato in
+[[Germany|Germania]] come argomento per la poligamia. Ma la parola stessa ci insegnerà a
+guardare persino oltre la [[Germany|Germania]] per qualcosa di ancor più remoto e
+ripugnante. La mera popolazione, insieme a una sorta di anarchia poligama, non
+apparirà nemmeno come un ideale pratico a chiunque consideri, per esempio, con
+quanta coerenza l'Europa abbia tenuto la testa della razza umana, di fronte alle
+miriadi caotiche dell'Asia. Se la popolazione fosse la prova principale del
+progresso e dell'efficienza, la Cina si sarebbe da tempo dimostrata lo Stato più
+progressivo ed efficiente. De Quincey riassunse tutta quell'enorme situazione in
+una frase che è forse più impressionante e persino agghiacciante di tutte le
+prospettive dell'architettura d'[[Orient|oriente]] e degli scorci di visione d'oppio in
+mezzo ai quali essa compare. "L'uomo è un'erbaccia in quelle regioni." Molti
+europei, temendo per il [[Garden|giardino]] del mondo, hanno immaginato che in qualche
+futura fatalità quelle erbacce possano [[spring|spuntare]] e soffocarlo. Ma nessun
+europeo ha realmente desiderato che i [[Flowers|fiori]] divenissero come le erbacce.
+Anche se fosse vero, dunque, che l'allentamento del vincolo aumenti
+necessariamente la popolazione; anche se questo non fosse contraddetto, come lo
+è, dai fatti di molti paesi, avremmo forti fondamenti storici per non accettare
+la deduzione. Saremmo ancora sospettosi del [[Paradox|paradosso]] che possiamo incoraggiare
+le famiglie numerose abolendo la famiglia.
+
+Infine, credo faccia parte della difesa della nuova proposta che persino i suoi
+difensori abbiano trovato il suo principio un po' troppo grezzo. Sento che hanno
+aggiunto disposizioni che modificano il principio; e che sembrano essere in
+sostanza, primo, che un uomo sarà reso responsabile di un pagamento di denaro
+alla moglie che abbandona, e secondo, che la questione sarà di nuovo sottoposta
+in qualche modo a qualche magistrato. Per il mio scopo qui, basta notare che c'è
+qualcosa dell'inconfondibile sapore della sociologia a cui resistiamo, in questi
+due commoventi atti di [[Faith|fede]], in un libretto degli assegni e in un avvocato.
+La maggior parte dei riformatori alla moda del [[Marriage|matrimonio]] sarebbe lievemente
+scandalizzata da qualsiasi insinuazione che una povera vecchia sguattera potesse
+forse rifiutare tale denaro, o che un buon e gentile magistrato potesse non avere
+il diritto di dare tale consiglio. Poiché i riformatori del [[Marriage|matrimonio]] sono
+persone assai rispettabili, con alcune onorevoli eccezioni; e nulla potrebbe
+incastrarsi più agevolmente nel piuttosto untuoso solco della loro rispettabilità
+che l'insinuazione che il tradimento è trattato meglio coi danni, signori, con
+pesanti danni, del signor Sergente Buzfuz; o che la [[Tragedy|tragedia]] è trattata meglio
+col spirituale arbitrato del signor Nupkins.
+
+Una parola dovrebbe essere aggiunta a questo frettoloso [[Sketch|schizzo]] degli elementi
+del caso. Ho deliberatamente lasciato fuori l'aspetto e l'argomento più elevato,
+quello che vede il [[Marriage|matrimonio]] come un'istituzione divina; e ciò per la logica
+ragione che coloro che credono in questo non crederebbero nel [[divorce|divorzio]]; e io
+sto discutendo con coloro che credono davvero nel [[divorce|divorzio]]. Non chiedo loro di
+assumere il valore del mio credo o di alcun credo; e vorrei che essi non
+chiedessero così spesso a me di assumere il valore della loro senza valore,
+velenosa, plutocratica società moderna. Ma se si potesse mostrare, come credo si
+possa, che una lunga veduta storica e una paziente esperienza politica possono
+alla fine accumulare solide prove scientifiche del vitale bisogno di un tale voto,
+allora non posso concepire tributo più tremendo di questo, per qualsiasi [[Faith|fede]],
+che fece una fiammeggiante affermazione fin dai più oscuri inizi, di ciò che il
+più tardo illuminismo può soltanto lentamente scoprire alla fine.
+
+--/--
 
 
 
@@ -3426,6 +4175,98 @@ There must be a heraldry and heredity of [[Freedom|freedom]]; a tradition of
 resistance to tyranny.  A man must be not only free, but free-born.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Questo triangolo di truismi, di padre, madre e [[Child|figlio]], non può essere
+distrutto; può soltanto distruggere quelle civiltà che lo ignorano. La maggior
+parte dei riformatori moderni sono meri scettici senza fondo, e non hanno base
+su cui ricostruire; ed è [[Well|bene]] che tali riformatori si rendano conto che c'è
+qualcosa che non possono [[Reform|riformare]]. Puoi rovesciare i potenti dai loro
+troni; puoi mettere il [[World Upside Down|mondo alla rovescia]], e c'è molto da dire a favore
+dell'opinione che allora potrebbe essere dritto per il verso giusto. Ma non puoi
+creare un mondo in cui il bimbo porti la madre. Non puoi creare un mondo in cui
+la madre non abbia autorità sul bimbo. Puoi sprecare il tuo [[Time|tempo]] a tentare,
+dando voti ai bimbi o proclamando una repubblica di lattanti in braccio. Puoi
+dire, come disse l'altro giorno un pedagogo, che i bambini piccoli dovrebbero
+"criticare, mettere in dubbio l'autorità e sospendere il giudizio". Non so perché
+non abbia proseguito dicendo che dovrebbero guadagnarsi da vivere, pagare
+l'imposta sul reddito allo Stato, e morire in battaglia per la patria; poiché la
+proposta evidentemente è che i bambini non abbiano alcuna [[Childhood|infanzia]]. Ma puoi,
+se trovi divertimento in tali giochi, organizzare un "[[government|governo]] rappresentativo"
+tra i bambini e le bambine, e dir loro di prendere le loro responsabilità legali
+e costituzionali con la massima serietà possibile. In breve, puoi essere pazzo;
+ma non puoi essere coerente. Non puoi realmente riportare il tuo stesso principio
+fino al gruppo aborigeno, e applicarlo davvero alla madre e al bimbo. Non agirai
+secondo la tua stessa teoria nel più semplice e più pratico di tutti i casi
+possibili. Non sei del tutto così pazzo.
+
+Questo nucleo di autorità naturale è sempre esistito in mezzo ad autorità più
+artificiali. È sempre stato considerato qualcosa in senso letterale individuale;
+cioè, come un assoluto che non poteva realmente essere diviso. Un bimbo non era
+nemmeno un bimbo separato dalla madre; era qualcos'altro, molto probabilmente un
+cadavere. Fu sempre riconosciuto come stante in una peculiare relazione col
+[[government|governo]]; semplicemente perché era una delle poche cose che non erano state
+fatte dal [[government|governo]]; e poteva in qualche misura venire all'esistenza senza il
+sostegno del [[government|governo]]. Invero la causa a suo favore è troppo forte per essere
+esposta. Poiché la causa a suo favore è che non c'è nulla di simile ad esso; e
+possiamo trovarne soltanto deboli paralleli in quei poteri e istituzioni più
+elaborati e penosi che ne sono gli inferiori. Così l'unico modo di renderlo è
+paragonarlo a una nazione; benché, in confronto ad esso, le divisioni nazionali
+siano moderne e formali quanto gli inni nazionali. Così posso spesso usare la
+metafora di una [[City|città]]; benché al suo cospetto un cittadino sia recente quanto
+un impiegato di [[City|città]]. Basta notare qui che ognuno sa per intuizione e ammette
+per implicazione che una famiglia è un fatto solido, avente un carattere e un
+colore come una nazione. La [[Truth|verità]] può essere messa alla prova dalle più
+moderne e quotidiane esperienze. Un uomo dice davvero "Quella è il genere di cosa
+che piacerà ai Brown"; per quanto aggrovigliato e interminabile sia il [[Novel|romanzo]]
+psicologico che potrebbe comporre sulle sfumature di differenza tra il signore e
+la signora Brown. Una donna dice davvero "Non mi piace che Jemima frequenti tanto
+i Robinson"; e non sempre, nella fretta dei suoi doveri sociali o domestici, si
+ferma a distinguere l'ottimistico materialismo della signora Robinson dal più
+acido cinismo che tinge l'edonismo del signor Robinson. C'è un colore della
+famiglia all'interno, cospicuo quanto il colore della [[house|casa]] all'esterno. Quel
+colore è una mescolanza, e se qualche tinta in esso predomina è generalmente
+quella preferita dalla signora Robinson. Ma, come tutti i colori compositi, è un
+colore a sé; distinto quanto il verde lo è dal blu e dal giallo. Ogni [[Marriage|matrimonio]]
+è una sorta di selvaggio equilibrio; e in ogni caso il compromesso è unico quanto
+un'eccentricità. I filantropi che passeggiano nei bassifondi vedono spesso il
+compromesso in strada, e lo scambiano per una lotta. Quando interferiscono,
+vengono sonoramente picchiati da entrambe le parti; e ben gli sta, per non aver
+rispettato la stessa istituzione che li ha portati al mondo.
+
+La prima cosa da vedere è che questa enorme normalità è come una montagna; e una
+che è capace di essere un vulcano. Ogni anormalità che ora vi si oppone è come una
+[[Hill|collinetta]] di talpa; e i seri organizzatori sociologici di essa sono
+estremamente simili a talpe. Ma la montagna è un vulcano anche in un altro senso;
+come suggerito in quella tradizione dei campi meridionali fertilizzati dalla lava.
+Ha un lato creativo [[Well|non meno]] che distruttivo; e non resta, in questa parte
+dell'analisi, che notare l'effetto politico di questa istituzione extra-politica,
+e gli ideali politici di cui essa è stata la campionessa; e forse l'unica
+campionessa permanente.
+
+L'ideale per cui essa sta nello Stato è la libertà. Sta per la libertà per la
+ragione assai semplice con cui è iniziata questa rozza analisi. È l'unica di
+queste istituzioni che sia al tempo stesso necessaria e volontaria. È l'unico
+freno allo Stato che sia tenuto a rinnovarsi tanto eternamente quanto lo Stato, e
+più naturalmente dello Stato. Ogni uomo sano riconosce che la libertà illimitata
+è anarchia, o piuttosto è nullità. L'idea civica della libertà è dare al cittadino
+una provincia di libertà; una limitazione entro la quale un cittadino è un [[King|re]].
+Questo è l'unico modo in cui la [[Truth|verità]] possa mai trovare rifugio dalla
+persecuzione pubblica, e l'uomo buono sopravvivere al cattivo [[government|governo]]. Ma
+l'uomo buono da solo non è pari alla [[City|città]]. Deve esserci, contrapposta ad essa,
+un'altra istituzione ideale, e in quel senso un'istituzione immortale. Finché lo
+Stato è l'unica istituzione ideale, lo Stato chiamerà il cittadino a sacrificarsi,
+e perciò non avrà il minimo scrupolo a sacrificare il cittadino. Lo Stato consiste
+di coercizione; e deve sempre essere giustificato dal proprio punto di vista
+nell'estendere i confini della coercizione; come, per esempio, nel caso della
+coscrizione. L'unica cosa che si può erigere per frenare o sfidare questa autorità
+è una legge volontaria e una lealtà volontaria. Quella lealtà è la protezione
+della libertà, nell'unica sfera in cui la libertà può pienamente dimorare. È un
+principio della costituzione che il [[King|Re]] non muore mai. È tutto il principio
+della famiglia che il cittadino non muore mai. Deve esserci un'araldica e
+un'ereditarietà della [[Freedom|libertà]]; una tradizione di resistenza alla tirannia. Un
+uomo deve essere non soltanto libero, ma libero per nascita.
+
 
 
 <span class="atom-split" data-atom="chapter_05--part_03" data-title="The Superstition of Divorce — Chapter 5 (part 3)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="archetype/child,motif/city,motif/dreams,motif/home,motif/love,motif/mirror,motif/nature,motif/time,motif/well,concept/doubt,concept/education,concept/faith,concept/fear,concept/history,concept/nature,concept/paradox,concept/reform,concept/slavery,form/history,form/sketch,histref/bible,character/king_lear"></span>
@@ -3577,6 +4418,153 @@ to the human family of father, mother and [[Child|child]].
 --/--
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Invero, c'è nella famiglia qualcosa che si potrebbe alla buona
+chiamare anarchico; e più correttamente dilettantesco.
+Come pare esservi qualcosa di quasi vago nella sua origine volontaria,
+così pare esservi qualcosa di vago nella sua organizzazione volontaria.
+La funzione più vitale che essa svolge, forse la più vitale funzione
+che alcunché possa svolgere, è quella dell'[[Education|educazione]]; ma il suo tipo di prima
+[[Education|educazione]] è troppo essenziale per essere scambiato per istruzione.
+In mille cose essa opera più per regola empirica che per regola
+di teoria.  Per prendere un esempio comune e persino comico, io [[Doubt|dubito]]
+che alcun manuale o codice di regole abbia mai contenuto direttive
+sul mettere un [[Child|bambino]] in un angolo.  Senza dubbio, quando il moderno
+processo sarà compiuto, e il principio coercitivo dello Stato
+avrà interamente estinto l'elemento volontario della famiglia,
+vi sarà qualche esatta regolamentazione o restrizione in materia.
+Forse dirà che l'angolo dev'essere di almeno
+novantacinque gradi.  Forse dirà che la linea convergente
+di un qualunque angolo ordinario tende a far strabuzzare gli occhi a un [[Child|bambino]].
+In effetti sono certo che se dicessi con noncuranza, a un numero
+sufficiente di tavoli da tè, che gli angoli fanno strabuzzare gli occhi ai bambini, ciò
+diverrebbe rapidamente un dogma universalmente accolto della scienza popolare.
+Perché il mondo moderno non accetterà alcun dogma su alcuna autorità;
+ma accetterà qualunque dogma su nessuna autorità.  Dite che una cosa
+è così, secondo il Papa o la [[Bible|Bibbia]], e sarà liquidata
+come superstizione senza esame.  Ma premettete alla vostra osservazione
+soltanto un «si dice» o un «non sapete che?» oppure provate (e fallite)
+a ricordare il nome di qualche professore menzionato in qualche giornale;
+e il tagliente razionalismo della mente moderna accetterà ogni vostra parola.
+Questa parentesi non è così irrilevante come può apparire,
+perché sarà [[Well|bene]] ricordare che quando un rigido ufficialismo irrompe
+nei volontari compromessi della [[Home|casa]], quell'ufficialismo
+stesso sarà rigido soltanto nella sua azione e sarà oltremodo
+flaccido nel suo pensiero.  Intellettualmente sarà almeno tanto vago
+quanto gli assetti dilettanteschi della [[Home|casa]], e l'unica differenza è
+che gli assetti domestici sono nell'unico senso reale pratici,
+cioè sono fondati su esperienze che sono state sofferte.
+Gli altri sono ciò che ora comunemente si chiama scientifico; cioè
+sono fondati su esperimenti che non sono ancora stati fatti.
+In verità, invece di invadere la famiglia con la maldestra
+burocrazia che malgoverna i pubblici servizi, sarebbe assai
+più filosofico operare la [[Reform|riforma]] al contrario.
+Sarebbe davvero altrettanto ragionevole modificare le leggi
+della nazione così da farle somigliare alle leggi della nursery.
+Le punizioni sarebbero assai meno orribili, assai più umoristiche,
+e assai più realmente calcolate per far sentire agli uomini di aver fatto
+la figura degli sciocchi.  Sarebbe un piacevole cambiamento se un giudice,
+invece di mettersi il berretto nero, dovesse mettersi il berretto d'asino;
+o se potessimo mettere un finanziere nel suo proprio angolo.
+
+Naturalmente questa opinione è rara, e reazionaria—qualunque cosa ciò significhi.
+L'[[Education|educazione]] moderna è fondata sul principio che un genitore è più
+probabilmente crudele di chiunque altro.  Trascura l'ovvio
+fatto che egli è meno probabilmente crudele di chiunque altro.
+Chiunque può darsi che sia crudele; ma le prime probabilità di crudeltà vengono
+con l'intera incolore e indifferente folla di perfetti estranei
+e di mercenari meccanici, che ora è consuetudine chiamare come
+infallibili agenti di miglioramento; poliziotti, medici, detective,
+ispettori, istruttori, e così via.  A costoro è automaticamente dato
+un potere arbitrario perché esistono qua e là cose come
+genitori criminali; come se non esistessero cose come medici criminali
+o maestri di scuola criminali.  Una madre non è sempre giudiziosa riguardo
+alla dieta del suo [[Child|bambino]], e così esso è affidato al controllo del dottor Crippen.
+Un padre è ritenuto incapace di insegnare ai suoi figli la più pura [[morality|moralità]];
+e così essi sono posti sotto la tutela di Eugene Aram.
+Questi celebri criminali non sono più rari nelle loro rispettive
+professioni di quanto i genitori crudeli lo siano nella professione
+della genitorialità.  Ma in verità il caso è assai più forte di questo;
+e non c'è alcun bisogno di fare affidamento sul caso di simili criminali.
+Le ordinarie debolezze della [[Nature|natura]] umana spiegheranno tutte le debolezze
+della burocrazia e del [[government|governo]] degli affari in tutto il mondo.
+Basta che il funzionario sia un uomo ordinario per essere più indifferente
+ai figli altrui che ai propri; e persino per sacrificare
+la prosperità della famiglia altrui alla propria.  Può essere annoiato;
+può essere corrotto; può essere brutale, per una qualunque delle mille
+ragioni che mai fecero di un uomo un bruto.  Tutto questo elementare buon
+senso è interamente lasciato fuori dal conto nei nostri sistemi educativi
+e sociali di oggi.  Si dà per scontato che il mercenario non fuggirà,
+e ciò unicamente perché è un mercenario.  Si nega che il
+pastore deporrà la sua vita per le pecore; o, se è per questo,
+persino che la lupa combatterà per i suoi cuccioli.  Dobbiamo credere
+che le madri sono disumane; ma non che i funzionari sono umani.
+Vi sono genitori snaturati, ma non vi sono passioni naturali;
+o almeno, non ve ne sono là dove la furia di [[King Lear]] osò trovarle—
+nel bidello.  Tale è l'ultima luce sull'[[Education|educazione]] dei giovani;
+e lo stesso principio che si applica al [[Child|bambino]] si applica
+al marito e alla moglie.  Proprio come esso presume che un [[Child|bambino]] sarà
+certamente amato da chiunque tranne che da sua madre, così presume
+che un uomo possa essere felice con chiunque tranne che con l'unica donna che egli
+stesso ha scelto per moglie.
+
+Così lo spirito coercitivo dello Stato prevale sulla libera
+promessa della famiglia, sotto la forma di formale ufficialismo.
+Ma questo non è il più coercitivo degli elementi coercitivi
+nel moderno commonwealth.  Un potere esterno ancora più rigido
+e spietato è quello dell'occupazione e della disoccupazione industriale.
+Un nemico ancora più feroce della famiglia è la fabbrica.  Tra queste
+moderne cose meccaniche l'antica istituzione naturale non viene
+riformata o modificata o nemmeno ridimensionata; viene fatta a pezzi.
+Non solo viene fatta a pezzi nel senso di una vera metafora,
+come una cosa vivente colta in un orrendo meccanismo di manifattura.
+Viene letteralmente fatta a pezzi, in ciò che il marito può andare
+in una fabbrica, la moglie in un'altra, e il [[Child|figlio]] in una terza.
+Ciascuno diverrà il servo di un separato gruppo finanziario,
+che sempre più va acquistando il potere politico di un gruppo feudale.
+Ma laddove il feudalesimo riceveva la lealtà delle famiglie, i signori
+del nuovo Stato servile riceveranno soltanto la lealtà degli individui;
+cioè di uomini solitari e persino di bambini perduti.
+
+Talvolta si dice che il Socialismo attacca la famiglia;
+cosa fondata su poco più che sul caso che alcuni Socialisti
+credano nel libero [[Love|amore]]. Io sono stato Socialista, e non sono più
+Socialista, e in nessun [[Time|tempo]] credetti nel libero [[Love|amore]]. È vero,
+penso in un senso ampio e inconscio, che il Socialismo di Stato
+incoraggia la generale pretesa coercitiva che sono venuto considerando.
+Ma se è vero che il Socialismo attacca la famiglia in teoria, è assai
+più certo che il Capitalismo la attacca in pratica.  È un [[Paradox|paradosso]],
+ma un semplice fatto, che gli uomini non notano mai una cosa finché essa esiste
+in pratica.  Uomini che noteranno un'eresia ignoreranno un abuso.
+Chiunque dubiti del [[Paradox|paradosso]] immagini i giornali stampare formalmente
+insieme all'Elenco delle Onorificenze un listino prezzi, per titoli nobiliari
+e cavalierati; benché tutti sappiano che sono comprati e venduti.
+Così la fabbrica sta distruggendo la famiglia di fatto; e non ha bisogno di dipendere
+da alcun povero teorico folle che [[Dreams|sogna]] di distruggerla per fantasia.
+E ciò che la sta distruggendo non è nulla di così plausibile come il libero [[Love|amore]];
+ma qualcosa che si può piuttosto descrivere come una [[Fear|paura]] imposta.
+È una punizione economica più terribile della punizione legale,
+che potrebbe ancora gettarci nella [[Slavery|schiavitù]] come unica salvezza.
+
+Fin dai suoi primi giorni nella foresta questo gruppo umano dovette lottare
+contro mostri selvaggi; e così ora sta lottando contro
+queste macchine selvagge.  Riuscì a sopravvivere allora, e
+riuscirà a sopravvivere ora, soltanto per una forte santità interna;
+un tacito giuramento o dedizione più profondo di quello della [[City|città]] o della tribù.
+Ma sebbene questa silenziosa promessa fosse sempre presente, essa prese
+a un certo punto di svolta della nostra [[history|storia]] una forma speciale che
+tenterò di [[Sketch|abbozzare]] nel prossimo capitolo.  Quel punto di svolta fu
+la creazione della Cristianità da parte della religione che la creò.
+Nulla distruggerà il sacro triangolo; e persino la [[Faith|fede]] cristiana,
+la più stupefacente rivoluzione che mai ebbe luogo nella mente,
+servì solo in un senso a capovolgere quel triangolo.
+Essa levò in alto uno [[Mirror|specchio]] mistico in cui l'ordine delle tre cose
+era rovesciato; e aggiunse una sacra famiglia di [[Child|figlio]], madre e padre
+alla famiglia umana di padre, madre e [[Child|figlio]].
+
+--/--
+
 
 
 <span class="atom-split" data-atom="chapter_06--part_01" data-title="The Superstition of Divorce — Chapter 6 (part 1)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="archetype/lover,motif/city,motif/dance,motif/lamb,motif/love,motif/marriage,motif/nature,motif/well,concept/ambition,concept/charity,concept/doubt,concept/history,concept/imagination,concept/nature,concept/paradox,concept/truth,form/allegory,form/history,histref/christianity,setting/cathedral,character/orlando,character/valentine"></span>
@@ -3688,6 +4676,113 @@ and that sceptical modernity has been the age of contracts;
 or rather has tried to be, and has failed.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+VI
+
+LA STORIA DEL VOTO
+
+Charles [[Lamb]], col suo fine e fantastico istinto per le combinazioni che sono
+anche contrasti, ha notato in qualche luogo un contrasto tra San [[Valentine|Valentino]]
+e i biglietti di San Valentino.  Vi è una comica incongruenza in flirt
+tanto vivaci e frivoli che ancora dipendono dalla data e dal titolo
+di un vescovo [[ascetic|asceta]] e celibe dei Secoli Bui.  Il [[Paradox|paradosso]] si presta
+al suo trattamento, e vi è una [[Truth|verità]] nella sua veduta di esso.
+Forse potrà sembrare ancora più un [[Paradox|paradosso]] dire che non vi è alcun [[Paradox|paradosso]].
+In tali casi l'unificazione appare più provocatoria della divisione;
+e può sembrare oziosamente contraddittorio negare la contraddizione.
+Eppure in [[Truth|verità]] non vi è alcuna contraddizione.  Nel senso più profondo
+vi è una assai reale somiglianza, che pone San [[Valentine|Valentino]] e i suoi
+biglietti da una parte, e gran parte del mondo moderno dall'altra.
+Esiterei a chiedere anche a un professore tedesco di raccogliere,
+collazionare e studiare accuratamente tutti i biglietti di San Valentino del mondo, con lo
+scopo di rintracciare un principio filosofico che li attraversi.
+Ma se lo facesse, non ho alcun [[Doubt|dubbio]] sul principio filosofico
+che troverebbe.  Per quanto banale, per quanto imbecille, per quanto volgare
+o insulsa o stereotipata potesse essere l'immagine di simili cose, essa
+implicherebbe sempre un'unica idea, la stessa idea che spinge gli [[lovers|amanti]] a intagliare laboriosamente
+le loro iniziali su un albero o su una roccia, in una sorta di monogramma
+della monogamia.  Può essere una trovata da cockney legare il proprio [[Love|amore]] a un albero;
+sebbene [[Orlando]] lo facesse, e ora senza dubbio verrebbe arrestato
+dalla polizia per aver violato i regolamenti della Foresta di Arden.
+Non mi preme qui in modo speciale lodare l'abitudine di incidere
+il proprio nome e indirizzo privato a grandi lettere sulla facciata
+del Partenone, sul volto de [[The Sphinx|la Sfinge]], o in ogni altro cantuccio
+o angolo dove per caso possa attirare l'interesse sentimentale
+dei posteri.  Ma come molte altre cose popolari, del genere
+che generalmente si trova in Shakespeare, vi è in essa un significato
+che probabilmente sfuggirebbe a un poeta meno popolare, come Shelley.
+Vi è una assai permanente [[Truth|verità]] nel fatto che due persone libere
+deliberatamente si legano a un pezzo di legno.  Ed è l'idea
+di legarsi a qualcosa che scorre attraverso tutta questa vecchia amorosa
+[[Allegory|allegoria]] come un motivo di ceppi.  Vi è sempre la nozione
+di cuori incatenati insieme, o infilzati insieme, o in qualche
+modo assicurati; vi è una sicurezza che può solo chiamarsi cattività.
+Che essa frequentemente non riesca ad assicurarsi non ha nulla a che fare
+col presente punto.  Il punto è che ogni [[philosophy|filosofia]] del sesso
+deve fallire, se non rende conto della sua [[Ambition|ambizione]] di fissità,
+tanto [[Well|bene]] quanto della sua esperienza di fallimento.  Non c'è nulla che costringa
+[[Orlando]] a impegnarsi sulla giurata testimonianza dell'albero più vicino.
+Egli non è tenuto a essere legato; è sotto costrizione, ma nessuno
+lo costringe a essere sotto costrizione.  In breve, [[Orlando]] fece
+voto di sposarsi esattamente come [[Valentine|Valentino]] fece voto di non sposarsi.
+Né alcun [[ascetic|asceta]], senza essere un eretico, avrebbe potuto asserire
+nelle più selvagge reazioni dell'ascetismo, che il voto di [[Orlando]]
+non fosse lecito tanto [[Well|quanto]] il voto di [[Valentine|Valentino]].  Ma è un notevole
+fatto che anche quando non era lecito, era pur sempre un voto.
+Attraverso tutta quella cultura medievale, che ci ha lasciato la leggenda
+del [[Romance|romanzo]] cavalleresco, correva questo motivo di una catena, che era sentito come vincolante
+anche là dove non avrebbe dovuto vincolare.  Gli amori senza legge delle leggende
+medievali hanno tutti la loro propria legge, e specialmente la loro propria lealtà,
+come nei racconti di Tristano o di Lancillotto.  In questo senso potremmo dire
+che la dissolutezza medievale era più fissa del [[Marriage|matrimonio]] moderno.
+Non sto qui discutendo né l'etica moderna né quella medievale,
+riguardo a ciò che dissero o avrebbero dovuto dire di tali cose.
+Sto solo notando come fatto storico l'insistenza dell'
+[[Imagination|immaginazione]] medievale, anche al suo più selvaggio, su una particolare idea.
+Quell'idea è l'idea del voto.  Poteva essere il voto che
+San [[Valentine|Valentino]] fece; poteva essere un voto minore che egli riteneva lecito;
+poteva essere un voto selvaggio che egli riteneva del tutto illecito.  Ma l'intera
+società che fece tali feste e ci trasmise tali tradizioni
+era piena dell'idea dei voti; e dobbiamo riconoscere questa nozione,
+anche se la riteniamo insensata, come la nota dell'intera civiltà.
+E [[Valentine|Valentino]] e il [[Valentine|biglietto di San Valentino]] entrambi la esprimono per noi; ancor più se li
+sentiamo entrambi come esagerati, o persino come esageranti opposti.
+Quegli estremi si incontrano; e si incontrano nello stesso luogo.
+Il loro luogo di convegno è presso l'albero al quale l'[[Lover|amante]] appese le sue
+lettere d'[[Love|amore]]. E anche se l'[[Lover|amante]] si impiccasse all'albero,
+invece delle sue composizioni letterarie, anche quell'atto avrebbe in sé
+anche un indefinibile sapore di finalità.
+
+Spesso si dice dai critici delle origini cristiane che certe
+feste rituali, processioni o danze sono in realtà di origine pagana.
+Tanto varrebbe dire che le nostre gambe sono di origine pagana.
+Nessuno ha mai contestato che l'umanità fosse umana prima di essere cristiana;
+e nessuna Chiesa fabbricò le gambe con cui gli uomini camminavano o danzavano,
+sia in un pellegrinaggio sia in un balletto.  Ciò che davvero si può sostenere,
+sì da recare non poca convinzione, è questo: che dove tale Chiesa
+è esistita essa ha preservato non solo le processioni ma le danze;
+non solo la [[Cathedral|cattedrale]] ma il carnevale.  Una delle principali rivendicazioni
+della civiltà cristiana è di aver preservato cose di origine pagana.
+In breve, nei vecchi paesi religiosi gli uomini continuano a [[Dance|danzare]];
+mentre nelle nuove città scientifiche si contentano spesso di sgobbare.
+
+Ma quando questa più sana veduta della [[history|storia]] è compresa, rimane pur
+qualcosa di più mistico e difficile da definire.  Anche le cose pagane
+sono cristiane quando sono state preservate dal [[Christianity|Cristianesimo]].  La cavalleria è
+qualcosa di riconoscibilmente diverso persino dalla virtus di Virgilio.
+La [[Charity|Carità]] è qualcosa di estremamente diverso dalla semplice pietà di Omero.
+Persino il nostro patriottismo è qualcosa di più sottile dell'indiviso [[Love|amore]]
+della [[City|città]]; e il mutamento è sentito nelle cose più permanenti,
+come l'[[Love|amore]] per il paesaggio o l'[[Love|amore]] per la donna.  Definire la
+differenziazione in tutte queste cose sarà sempre irrimediabilmente difficile.
+Ma vorrei qui suggerire un elemento nel mutamento che forse è
+troppo trascurato; che ad ogni modo non dovrebbe essere trascurato;
+la [[Nature|natura]] di un voto.  Potrei esprimerlo dicendo che l'antichità pagana
+fu l'età dello status; che il medievalismo cristiano fu l'età dei voti;
+e che la modernità scettica è stata l'età dei contratti;
+o piuttosto ha tentato di esserlo, ed è fallita.
+
 
 
 <span class="atom-split" data-atom="chapter_06--part_02" data-title="The Superstition of Divorce — Chapter 6 (part 2)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="motif/birds,motif/love,motif/marriage,motif/memory,motif/time,motif/well,concept/charity,concept/doubt,concept/freedom,concept/friendship,concept/history,concept/slavery,form/history,histref/christianity,character/monks"></span>
@@ -3794,6 +4889,109 @@ the sentiment of something at once free and final.  We can feel it,
 if the service is properly understood, before and after the [[Marriage|marriage]]
 vows at any ordinary wedding in any ordinary church.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+L'esempio eminente di status era la [[Slavery|schiavitù]].  Inutile dire
+che la [[Slavery|schiavitù]] non significa tirannia; anzi, basta considerarla
+relativamente ad altre cose per considerarla come [[Charity|carità]].
+L'idea della [[Slavery|schiavitù]] è che gran numero di uomini sono destinati e fatti
+a compiere il pesante lavoro del mondo, e che altri, mentre prendono
+il margine dei profitti, devono nondimeno mantenerli mentre lo compiono.
+Il punto non è se il lavoro sia eccessivo o moderato,
+o se la condizione sia comoda o scomoda.
+Il punto è che il suo lavoro è scelto per l'uomo, il suo status
+fissato per l'uomo; e questo status gli è imposto dalla legge.
+Come disse il signor Balfour a proposito del Socialismo, quella è [[Slavery|schiavitù]] e nient'altro
+è [[Slavery|schiavitù]].  Lo schiavo poteva [[Well|bene]] essere, e spesso era,
+assai più comodo del comune bracciante libero, e certamente
+assai più pigro del comune contadino.  Era uno schiavo perché
+non aveva raggiunto la sua posizione per scelta, o promessa, o patto,
+ma unicamente per status.
+
+Si ammette che quando il [[Christianity|Cristianesimo]] ebbe operato per qualche [[Time|tempo]]
+nel mondo, questo antico status servile cominciò in qualche misterioso
+modo a scomparire.  Suggerisco qui che una delle forme che il nuovo
+spirito prese fu l'importanza del voto.  Il feudalesimo, per esempio,
+differiva dalla [[Slavery|schiavitù]] principalmente perché il feudalesimo era un voto.
+Il vassallo poneva le sue mani in quelle del suo signore, e votava di essere il suo uomo;
+ma vi era un accento sul sostantivo tanto [[Well|quanto]] sul
+pronome possessivo.  Giurando di essere il suo uomo, egli provava
+di non essere il suo bene mobile.  Nessuno esige una promessa da un piccone,
+o si aspetta che un attizzatoio giuri eterna [[Friendship|amicizia]] con le molle.
+Nessuno prende la parola di una vanga; e nessuno mai prese la parola di
+uno schiavo.  Segna almeno uno speciale stadio di transizione il fatto che la forma
+della [[Freedom|libertà]] fosse essenziale al fatto del servizio, o persino della servitù.
+In questo modo non è una coincidenza che la parola omaggio significhi in realtà
+virilità.  E se vi era voto invece di status persino nelle
+parti statiche del Feudalesimo, è inutile dire che vi era
+un più selvaggio rigoglio di voti nella parte più avventurosa di esso.
+L'intera di ciò che chiamiamo cavalleria era un solo grande voto.  I voti di
+cavalleria variavano infinitamente dal più solido al più fantastico;
+dal voto di dare tutte le spoglie della conquista ai poveri al voto
+di astenersi dal radersi finché non si scorgesse la prima immagine di Gerusalemme.
+Come ho osservato, questa regola di lealtà, persino nelle indisciplinate
+eccezioni che confermavano la regola, correva attraverso tutti i romanzi
+e i [[songs|canti]] dei trovatori; e vi erano sempre voti
+anche quando erano ben lungi dall'essere voti [[Marriage|matrimoniali]].
+L'idea è altrettanto presente in ciò che chiamavano la Gaia Scienza,
+dell'[[Love|amore]], quanto in ciò che chiamavano la Divina Scienza, della teologia.
+Il lettore moderno sorriderà alla menzione di queste cose come scienze;
+e si volgerà allo studio della sociologia, dell'etnologia e della psicoanalisi;
+poiché se queste sono scienze (sulle quali non divulgherei un [[Doubt|dubbio]])
+almeno nessuno le insulterebbe chiamandole o gaie o divine.
+
+Intendo qui sottolineare la presenza, e non già stabilire
+la proporzione, di questa nuova nozione nel medioevo.
+Ma il critico avrà del tutto torto se pensa che basti
+rispondere che tutte queste cose riguardavano soltanto una classe colta,
+non corrispondente alla classe servile dell'antichità.
+Quando veniamo agli operai e ai piccoli commercianti, troviamo la stessa vaga
+eppur vivida presenza dello spirito che può solo chiamarsi il voto.
+In questo senso vi era una cavalleria dei mestieri tanto [[Well|quanto]] una cavalleria
+degli ordini cavallereschi; proprio come vi era un'araldica delle insegne di bottega
+tanto [[Well|quanto]] un'araldica degli scudi.  Solo che accade che nel-
+l'illuminazione e liberazione del sedicesimo secolo, l'araldica
+dei ricchi fu preservata, e l'araldica dei poveri distrutta.
+E vi è un sinistro simbolismo nel fatto che quasi l'unico
+emblema ancora appeso sopra una bottega è quello delle tre palle di Lombardia.
+Di tutte quelle glorie democratiche nulla può ora brillare al sole;
+tranne l'insegna dell'aurea usura che le ha tutte divorate.
+Il punto qui, tuttavia, è che il commercio o il mestiere aveva non solo
+qualcosa come lo stemma, ma qualcosa come il voto di cavalleria.
+Vi era nella posizione del membro di gilda la stessa fondamentale nozione
+che apparteneva ai cavalieri e persino ai [[Monks|monaci]].  Era la nozione
+della libera scelta di uno stato fisso.  Possiamo cogliere l'atmosfera morale
+se paragoniamo il sistema delle gilde cristiane,
+non solo con lo status degli schiavi greci e romani, ma con
+uno schema come quello delle caste indiane.  La casta orientale
+ha alcune delle qualità della gilda occidentale; specialmente la
+preziosa qualità della tradizione e dell'accumulo di cultura.
+Gli uomini potevano essere fieri delle loro caste, come erano fieri delle loro gilde.
+Ma non avevano mai scelto le loro caste, come hanno scelto le loro gilde.
+Non avevano mai, entro la [[Memory|memoria]] storica, nemmeno collettivamente creato
+le loro caste, come collettivamente crearono le loro gilde.
+Come il sistema schiavista, il sistema delle caste era più antico della [[history|storia]].
+I pagani dell'Asia moderna, non meno dei pagani dell'antica Europa,
+vivevano proprio dello spirito dello status.  Lo status in un mestiere è stato
+accettato come lo status in una tribù; e ciò in una tribù di bestie
+e di [[Birds|uccelli]] piuttosto che di uomini.  Il pescatore continuava a essere pescatore
+come il pesce continuava a essere pesce; e il cacciatore non si sarebbe più
+mutato in cuoco di quanto il suo cane tenterebbe la sorte come gatto.
+Certamente il suo cane non si troverebbe prostrato dinanzi al misterioso
+altare di Pasht, abbaiando o guaendo un selvaggio, solitario e individuale
+voto che egli a ogni costo sarebbe divenuto un gatto.  Eppure quella fu la vitale
+rivolta e innovazione dei voti, in confronto alle caste o alla [[Slavery|schiavitù]];
+come quando un uomo votava di farsi monaco, o il figlio di un ciabattino salutava
+il sacrario di San Giuseppe, il santo patrono dei carpentieri.
+Quando era entrato nella gilda dei carpentieri egli si trovava invero
+responsabile di una assai reale lealtà e disciplina;
+ma l'intera atmosfera sociale che circondava il suo ingresso
+era piena del senso di una decisione separata e personale.
+Vi è un luogo dove possiamo ancora trovare questo sentimento;
+il sentimento di qualcosa a un tempo libero e definitivo.  Possiamo sentirlo,
+se il servizio è propriamente compreso, prima e dopo i voti
+[[Marriage|matrimoniali]] a ogni ordinaria cerimonia nuziale in ogni ordinaria chiesa.
 
 
 
@@ -3926,6 +5124,134 @@ against [[Slavery|slavery]] has not always been the breaking up of families.
 
 --/--
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Tale, in assai vago contorno, è stata la [[Nature|natura]] storica
+dei voti; e la parte unica che essi giocarono in quella medievale
+civiltà dalla quale la civiltà moderna [[Rose|sorse]]—o cadde.
+Possiamo ora considerare, un poco meno nebulosamente di quanto generalmente
+si consideri oggigiorno, se davvero pensiamo che i voti siano cose buone;
+se debbano essere infranti; e (come naturalmente seguirebbe)
+se debbano essere fatti.  Ma non potremo mai giudicarlo con equità
+finché non affronteremo, come ho cercato di suggerire, questo fatto centrale della [[history|storia]];
+che il pegno personale, feudale o civico o monastico, fu il modo
+in cui il mondo sfuggì al sistema della [[Slavery|schiavitù]] nel passato.
+Poiché il moderno crollo del mero contratto [[Leaves|lascia]] ancora dubbio
+se vi sia alcun altro modo di sfuggirvi nel futuro.
+
+L'idea, o comunque l'ideale, della cosa chiamata voto è
+abbastanza ovvia.  È di combinare la fissità che va con la finalità
+col rispetto di [[Self|sé]] che va soltanto con la [[Freedom|libertà]].  L'uomo è
+uno schiavo che è padrone di sé stesso, e un [[King|re]] che è antenato di sé stesso.
+Per ogni sorta di scopi sociali egli ha l'orbita calcolabile
+dell'uomo nella casta o nello Stato servile; ma nella storia della sua
+propria [[Soul|anima]] egli sta ancora inseguendo, a grande rischio, la sua propria avventura.
+Come veduto dai suoi vicini, egli è sicuro come se murato in una fortezza;
+ma come veduto da sé stesso egli può eternamente sfrecciare per
+il cielo o precipitare verso la terra in una [[Ship|nave]] volante.  Ciò
+che è socialmente monotono è prodotto da ciò che è individualmente eroico;
+e una [[City|città]] è fatta non solo di cittadini ma di cavalieri erranti.
+È inutile far notare la parte giocata dal monastero
+nel civilizzare l'Europa nel suo più barbaro interregno; e persino
+coloro che ancora denunciano i monasteri li si troverà denunciarli
+per queste due estreme e apparentemente opposte eccentricità.
+Sono biasimati per il rigido carattere della loro collettiva routine;
+e anche per il fantastico carattere del loro individuale [[Fanaticism|fanatismo]].
+Ai fini di questa parte dell'argomento, non importerebbe se il
+voto [[Marriage|matrimoniale]] producesse i più austeri disagi del voto monastico.
+Il punto per ora è che esso era sostenuto da un senso di
+libero arbitrio; e dal sentimento che i suoi mali non erano accettati ma scelti.
+Lo stesso spirito correva attraverso tutte le gilde e le arti popolari
+e i sistemi sociali spontanei dell'intera civiltà.
+Aveva tutta la disciplina di un esercito; ma era un esercito di volontari.
+
+La civiltà dei voti fu disgregata quando Enrico Ottavo
+infranse il suo proprio voto di [[Marriage|matrimonio]].  O piuttosto, fu disgregata
+da un nuovo cinismo nei poteri regnanti d'Europa,
+di cui quello fu la quasi accidentale espressione in Inghilterra.
+I monasteri, che erano stati costruiti da voti, furono distrutti.
+Le gilde, che erano state reggimenti di volontari, furono disperse.
+La [[Nature|natura]] sacramentale del [[Marriage|matrimonio]] fu negata; e molti
+dei più grandi intelletti del nuovo movimento, come [[Milton]],
+già indulgevano a una assai moderna idealizzazione del [[divorce|divorzio]].
+Il progresso di questa sorta di emancipazione avanzò passo dopo passo
+col progresso di quell'ascendente aristocratico che ha fatto
+la [[history|storia]] dell'Inghilterra moderna; con tutta la sua simpatia per la libertà
+personale, e tutta la sua totale mancanza di simpatia per la vita popolare.
+Il [[Marriage|matrimonio]] non solo divenne meno un sacramento ma meno una santità.
+Minacciò di divenire non solo un contratto, ma un contratto che non poteva
+essere mantenuto.  Poiché quest'unica questione ha conservato una strana simbolica
+supremazia tra tutte le questioni simili, che sembra perpetuare
+la coincidenza dell'origine.  Cominciò con un [[divorce|divorzio]] per un [[King|re]];
+e ora sta finendo in divorzi per un intero regno.
+
+L'era moderna che seguì può chiamarsi l'era del contratto;
+ma può ancor più veramente chiamarsi l'era del contratto leonino.
+I nobili del nuovo [[Time|tempo]] dapprima derubarono il popolo, e poi offrirono
+di contrattare con esso.  Non sarebbe un'esagerazione dire
+che dapprima derubarono il popolo, e poi offrirono di ingannarlo.
+Poiché le loro rendite erano rendite competitive, la loro economia
+economia competitiva, la loro etica etica competitiva;
+essi applicavano non solo la legalità ma il cavillo.  Non si udì più
+delle rendite consuetudinarie dei possedimenti medievali; proprio come non si
+udì più dei salari standard delle gilde medievali.
+L'oggetto dell'intero processo era di isolare il singolo povero
+nei suoi rapporti col singolo ricco; e poi offrire
+di comprare e vendere con lui, benché dovesse necessariamente essere lui stesso
+a essere comprato e venduto.  In materia di lavoro, cioè,
+benché un uomo si supponesse nella posizione di un venditore,
+egli era sempre più realmente nel possesso di uno schiavo.  A meno che la
+tendenza non si inverta, egli probabilmente diverrà dichiaratamente uno schiavo.
+Vale a dire, la parola schiavo non verrà mai usata; poiché è sempre facile
+trovare una parola inoffensiva; ma egli sarà dichiaratamente un uomo legalmente
+vincolato a un certo servizio sociale, in cambio di sicurezza economica.
+In altre parole, il moderno esperimento del mero contratto è fallito.
+I Trust tanto [[Well|quanto]] i Sindacati esprimono il fatto che è
+fallito.  La [[Reform|riforma]] sociale, il Socialismo, il Socialismo delle gilde, il Sindacalismo,
+persino la filantropia organizzata, sono altrettanti modi di dire che è
+fallito.  Il sostituto di esso potrà essere il vecchio dello status;
+ma dovrà essere qualcosa che abbia parte della stabilità dello status.
+Finora la [[history|storia]] ha trovato un solo modo di combinare quella sorta
+di stabilità con qualsiasi sorta di libertà.  In questo senso vi è
+un significato nella tanto abusata frase sull'esercito dell'industria.
+Ma l'esercito dev'essere irrigidito o dalla disciplina dei coscritti
+o dai voti dei volontari.
+
+Se possiamo estendere la dubbia metafora di un esercito dell'industria
+per coprire la frase ancor più debole sui capitani d'industria,
+non vi è alcun [[Doubt|dubbio]] su ciò che quei capitani comandano al presente.
+Essi lavorano per una disciplina centralizzata in ogni dipartimento.
+Erigono un vasto apparato di supervisione e ispezione;
+sostengono tutte le moderne restrizioni riguardanti l'alcol e l'igiene.
+Possono essere chiamati amici della temperanza o persino della felicità;
+ma nemmeno i loro amici li chiamerebbero amici della [[Freedom|libertà]].
+Vi è una sola forma di [[Freedom|libertà]] che essi tollerano; ed è quella
+sorta di [[Freedom|libertà]] sessuale che è coperta dalla finzione legale del [[divorce|divorzio]].
+Se domandiamo perché questa libertà è [[Alone|sola]] lasciata, quando tante libertà
+sono perdute, troveremo la risposta nel sommario di questo capitolo.
+Essi stanno cercando di infrangere il voto del cavaliere come infransero il voto
+del monaco.  Riconoscono il voto come la vitale antitesi
+allo status servile, l'alternativa e perciò l'antagonista.
+Il [[Marriage|Matrimonio]] fa un piccolo Stato dentro lo Stato, che resiste
+a ogni tale irreggimentazione.  Quel legame spezza tutti gli altri legami;
+quella legge si trova più forte di tutte le leggi posteriori e minori.
+Essi [[Desire|desiderano]] che la [[democracy|democrazia]] sia sessualmente fluida, perché il
+fare piccoli nuclei è come il fare piccole nazioni.
+Come le piccole nazioni, esse sono un fastidio per la mente di scopo imperiale.
+In breve, ciò che essi [[Fear|temono]], nel senso più letterale, è il governo della [[Home|casa]].
+
+Gli uomini possono sempre essere ciechi a una cosa fintanto che essa è abbastanza grande.
+È così difficile vedere il mondo in cui viviamo, che io
+so che molti vedranno tutto ciò che ho detto qui della [[Slavery|schiavitù]] come un
+insensato [[nightmare|incubo]].  Ma se la mia associazione del [[divorce|divorzio]] con la [[Slavery|schiavitù]]
+sembra solo un [[Paradox|paradosso]] forzato e teorico, non avrei alcuna
+difficoltà a sostituirlo con un quadro concreto e familiare.
+Ricordino soltanto il [[Time|tempo]] in cui lessero «La capanna dello zio Tom»,
+e si domandino se la più antica e semplice delle accuse
+contro la [[Slavery|schiavitù]] non sia stata sempre la disgregazione delle famiglie.
+
+--/--
 
 
 
@@ -4071,6 +5397,146 @@ They were not so superstitious as those moderns, who think it
 is the veil that makes the bride.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+VII
+
+LE TRAGEDIE DEL MATRIMONIO
+
+Vi è una veduta assai comune tra le persone di mente liberale che è
+oltremodo faticosa per le persone di mente chiara.  È simboleggiata nella sorta
+d'uomo che dice: «Questi spietati bigotti rifiuteranno di seppellirmi in
+terra consacrata, perché io ho sempre rifiutato di essere battezzato.»
+Una persona di mente chiara può facilmente concepire il suo punto di vista,
+nella misura in cui gli accade di pensare che il battesimo non importi.
+Ma le persone di mente chiara resteranno completamente sconcertate quando si domanderanno
+perché, se egli pensa che il battesimo non importi,
+dovrebbe pensare che la sepoltura importi.  Se non è affatto imprudente
+per un uomo tenersi lontano da un fonte consacrato, come può
+essere disumano per altri tenerlo lontano da un campo consacrato?
+È certo assai più prossimo alla mera superstizione attribuire
+importanza a ciò che si fa a un [[Body|corpo]] morto che a un bimbo vivo.
+Posso comprendere un uomo che pensi entrambe le cose superstiziose, o entrambe sacre;
+ma non riesco a vedere perché egli debba lagnarsi che altri non gli diano
+come santità ciò che egli considera superstizioni.  Egli si sta meramente
+lagnando di essere trattato come ciò che egli stesso dichiara di essere.
+È come se un uomo dicesse: «I miei persecutori ancora rifiutano di farmi
+[[King|re]], per pura malizia perché io sono un rigido repubblicano.»
+Oppure è come se dicesse: «Questi bruti senza cuore sono così prevenuti
+contro un astemio, che non vogliono nemmeno dargli un bicchiere di brandy.»
+
+La moda del [[divorce|divorzio]] non sarebbe una moda moderna se non fosse
+piena di questa toccante fallacia.  Gran parte di essa potrebbe
+riassumersi come un appetito quanto mai illogico e fanatico di sposarsi
+nelle chiese.  È come se un uomo praticasse la poligamia
+per pura [[Greed|ingordigia]] di torta nuziale.  Oppure è come se provvedesse
+la sua casa di scarpe nuove, interamente facendosele gettare
+dietro alla carrozza nuziale quando parte con una nuova moglie.
+Vi sono altri modi di procurarsi la torta o di comprare le scarpe;
+e vi sono altri modi di mettere su una casa umana.
+Ciò che è irragionevole è la richiesta che l'uomo moderno
+davvero avanza alle istituzioni religiose dei suoi padri.
+L'uomo moderno vuole comprare una scarpa senza l'altra;
+ottenere una metà di una rivelazione [[Supernatural|soprannaturale]] senza l'altra.
+L'uomo moderno vuole mangiare la sua torta nuziale e insieme conservarla.
+
+Non sto basando questo libro sull'argomento religioso,
+e perciò non mi fermerò a indagare perché le vecchie istituzioni
+cattoliche del [[Christianity|Cristianesimo]] sembrino essere fatte in special modo oggetto
+di queste irragionevoli lamentele.  In verità nessuno
+propone che qualche feroce antisemita come il signor Drumont
+debba essere sepolto come ebreo con tutti i riti della Sinagoga.
+Ma i larghi di mente erano furiosi perché Tolstoj, che aveva denunciato
+l'ortodossia russa altrettanto ferocemente, non fu sepolto come ortodosso,
+con tutti i riti della Chiesa russa.  Nessuno insiste che
+un uomo il quale desideri avere cinquanta mogli quando Maometto gliene permetteva cinque
+debba avere le sue cinquanta con la piena approvazione della religione di Maometto.
+Ma i larghi di mente sono estremamente amareggiati perché un cristiano che
+desidera avere parecchie mogli quando la sua propria promessa lo vincolava a una,
+non è ammesso a violare il suo voto al medesimo altare al quale lo fece.
+Nessuno insiste che i Battisti immergano totalmente persone che totalmente
+negano i vantaggi dell'essere totalmente immersi.  Nessuno mai
+si aspettò che i Mormoni accogliessero gli aperti schernitori del Libro di Mormon,
+né che gli Scientisti Cristiani lasciassero usare le loro chiese per smascherare
+la signora Eddy come una vecchia impostora.  È solo delle forme del [[Christianity|Cristianesimo]]
+che avanzano la pretesa cattolica che tali pretese incoerenti si fanno.
+E persino l'incoerenza è, io credo, un tributo all'accettazione
+dell'idea cattolica in modo cattolico.  Può darsi che gli uomini
+abbiano un oscuro senso che nessuno ha bisogno di appartenere alla religione
+mormone e che ognuno alla fine appartiene alla Chiesa;
+e per quanto egli possa aver contratto qualche dozzina di matrimoni mormoni in una
+vita errabonda e divertente, egli non avrà davvero alcun luogo dove andare
+se non ritroverà in qualche modo la via del ritorno al cimitero della chiesa.
+Ma tutto ciò riguarda la questione teologica generale e non
+la materia qui in causa, che è meramente storica e sociale.
+Il punto qui è che è almeno superficialmente incoerente
+chiedere alle istituzioni un'approvazione formale, che esse possono soltanto
+dare per incoerenza.
+
+Ho posto per prima la questione di che cosa sia il [[Marriage|matrimonio]].
+E siamo ora in grado di chiedere più chiaramente che cosa sia il [[divorce|divorzio]].
+Non è meramente la negazione o la trascuranza del [[Marriage|matrimonio]]; poiché chiunque può
+sempre trascurare il [[Marriage|matrimonio]].  Non è la dissoluzione dell'obbligo legale
+del [[Marriage|matrimonio]], e nemmeno dell'obbligo legale della monogamia;
+per la semplice ragione che nessun tale obbligo esiste.
+Qualunque uomo nella [[London|Londra]] moderna può avere cento mogli se non
+le chiama mogli; o piuttosto, se non compie certe
+cerimonie più o meno mistiche per asserire che esse
+sono mogli.  Egli potrebbe creare una certa freddezza sociale intorno
+alla sua casa, un certo appassire della sua generale popolarità.
+Ma ciò non è creato dalla legge, e non potrebbe essere impedito dalla legge.
+Come il defunto Lord Salisbury molto sensatamente osservò a proposito del boicottaggio
+in Irlanda: «Come si può fare una legge per impedire alla gente di uscire
+dalla stanza quando vi entra qualcuno che non le piace?»
+Non possiamo essere presentati a forza a un poligamo da un poliziotto.
+Non sarebbe un'affermazione di libertà sociale, ma una negazione
+di libertà sociale, se ci trovassimo praticamente obbligati
+a frequentare tutti i dissoluti della società.  Ma il [[divorce|divorzio]] non è
+in questo senso mera anarchia.  Al contrario il [[divorce|divorzio]] è in questo
+senso rispettabilità; e persino un rigido eccesso di rispettabilità.
+[[divorce|Il divorzio]] in questo senso potrebbe invero non ingiustamente chiamarsi snobismo.
+La definizione del [[divorce|divorzio]], che qui ci concerne, è che esso
+è il tentativo di dare rispettabilità, e non libertà.  È
+il tentativo di dare un certo status sociale, e non uno status legale.
+Si suppone invero che ciò si possa fare con l'alterazione
+di certe forme legali; e questo sarà più o meno vero a seconda
+della misura in cui la legge come tale intimidiva l'opinione pubblica,
+o era valutata come una vera espressione dell'opinione pubblica.
+Se un uomo divorziato alla larga maniera di Enrico Ottavo
+facesse valere il suo titolo legale tra i contadini d'Irlanda, per esempio,
+penso che troverebbe una differenza ancora esistente tra rispettabilità
+e religione.  Ma il punto peculiare qui è che molti stanno
+rivendicando la sanzione della religione tanto [[Well|quanto]] della rispettabilità.
+Essi vorrebbero attaccare ai loro assai naturali e talvolta assai perdonabili
+esperimenti una certa atmosfera, e persino un certo fascino, che ha
+indubbiamente appartenuto allo status del [[Marriage|matrimonio]] nella Cristianità storica.
+Ma prima di fare questo tentativo, sarebbe [[Well|bene]] domandarsi
+perché tale dignità mai apparve o in che cosa consistette.
+E credo che ci troveremo di fronte alla assai
+semplice [[Truth|verità]], che la dignità sorse interamente e completamente dalla
+fedeltà; e che il fascino veniva meramente dal voto.
+Le persone erano considerate come aventi una certa dignità perché
+erano dedicate in un certo modo; come vincolate a certi doveri e,
+se si preferisce, a certi disagi.  Può essere irrazionale
+sopportare questi disagi; può persino essere irrazionale rispettarli.
+Ma è certamente assai più irrazionale rispettarli, e poi
+artificialmente trasferire il medesimo rispetto alla loro assenza.
+È come se ci aspettassimo che le uniformi fossero salutate quando gli eserciti
+fossero sciolti; e chiedessimo alla gente di acclamare la giubba di un soldato quando essa non
+contenesse un soldato.  Se pensate di poter abolire la guerra, abolitela;
+ma non supponete che quando non vi saranno più guerre da combattere,
+vi saranno ancora guerrieri da venerare.  Se fu una cosa buona
+che i monasteri fossero sciolti, diciamolo pure e congediamoli.
+Ma i nobili che sciolsero i monasteri non si rasarono
+il capo, né chiesero di essere considerati santi unicamente in ragione
+di quella cerimonia.  I nobili non si travestirono da abati né chiesero
+che si accreditasse loro un potenziale talento per operare miracoli,
+per via dell'austerità dei loro voti di [[Poverty|povertà]] e castità.
+Entrarono dentro le case, ma non i cappucci, e ancor meno le aureole.
+Essi almeno sapevano che non è l'abito che fa il monaco.
+Non erano così superstiziosi come quei moderni, che pensano
+sia il velo a fare la sposa.
+
 
 
 <span class="atom-split" data-atom="chapter_07--part_02" data-title="The Superstition of Divorce — Chapter 7 (part 2)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="motif/bells,motif/death,motif/dreams,motif/flag,motif/love,motif/marriage,motif/pain,motif/rose,motif/soul,motif/well,concept/freedom,concept/heroism,concept/honour,concept/poverty,concept/truth,form/tragedy,histref/crusades,setting/court"></span>
@@ -4166,6 +5632,98 @@ the first accept a [[Tragedy|tragedy]].  In the realm of reality and not [[Roman
 it is commonly a case of breaking hearts as [[Well|well]] as breaking promises;
 and even dishonour is not always a remedy for remorse.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Ciò che è rispettato, in breve, è la fedeltà all'antica
+[[Flag|bandiera]] della famiglia, e una prontezza a battersi per ciò che ho
+notato come il suo tipo unico di [[Freedom|libertà]].  Dico prontezza a battersi,
+poiché per fortuna la lotta stessa è l'eccezione piuttosto che la regola.
+Il soldato non è rispettato perché è condannato alla [[Death|morte]],
+ma perché è pronto alla [[Death|morte]]; e persino pronto alla sconfitta.
+L'uomo o la donna sposati non sono condannati al male, alla malattia o alla [[Poverty|povertà]];
+ma sono rispettati per aver compiuto un certo passo nel bene e nel male,
+nella ricchezza e nella povertà, nella malattia e nella salute.  Ma vi è
+un risultato di questa linea di argomentazione che dovrebbe correggere un pericolo
+in alcuni argomenti dalla stessa parte.
+
+È assai essenziale che una critica al [[divorce|divorzio]], che è di fatto
+semplicemente una difesa del [[Marriage|matrimonio]], sia indipendente dal sentimentalismo,
+specialmente nella forma chiamata ottimismo.  Un uomo che giustifica una lotta
+per l'indipendenza nazionale o la [[Freedom|libertà]] civica non è né sentimentale
+né ottimista.  Egli spiega il sacrificio, ma non lo spiega
+via.  Non dice che le ferite di baionetta sono punture di spillo,
+o meri graffi delle spine su una [[Rose|rosa]] di piacere.  Non dice
+che l'intera esibizione di armi da fuoco è una festosa esibizione di fuochi d'artificio.
+Al contrario, quando la loda di più, la loda come [[Pain|dolore]]
+piuttosto che come piacere.  Accresce la lode con il [[Pain|dolore]];
+è tutto il suo vanto che il militarismo, e persino la scienza moderna,
+non possano produrre alcuno strumento di tortura per domare l'[[Soul|anima]] dell'uomo.
+È vano, parlando di guerra, contrapporre il realistico al romantico,
+nel senso dell'eroico; poiché ogni realismo possibile può soltanto accrescere
+l'[[Heroism|eroismo]]; e perciò, nel senso più alto, accrescere il [[Romance|romanzesco]].
+Ora io non paragono il [[Marriage|matrimonio]] alla guerra, ma paragono il [[Marriage|matrimonio]]
+alla legge o alla libertà o al patriottismo o al [[government|governo]] popolare,
+o a uno qualunque degli ideali umani che spesso devono essere difesi con la guerra.
+Persino il più selvaggio di quegli ideali, che sembrano sfuggire a tutta
+la disciplina della pace, non sfugge alla disciplina della guerra.
+I Bolscevichi possono aver mirato alla pura pace e libertà; ma sono
+stati costretti, per il loro proprio scopo, dapprima a levare eserciti
+e poi a governare eserciti.  In una parola, per quanto belle possiate ritenere
+le vostre proprie visioni di beatitudine, gli uomini devono soffrire per essere belli,
+e persino soffrire un considerevole intervallo di essere brutti.  E io non ho
+alcuna intenzione di negare che l'umanità soffra molto dal mantenimento
+dello standard del [[Marriage|matrimonio]]; come soffre molto dalla necessità
+della legge penale o dal ricorrere delle [[Crusades|crociate]] e delle rivoluzioni.
+L'unica questione qui è se il [[Marriage|matrimonio]] sia davvero, come io sostengo,
+un ideale e un'istituzione che opera per la [[Freedom|libertà]] popolare; non ho bisogno
+che mi si dica che qualunque cosa operi per la [[Freedom|libertà]] popolare deve essere pagata
+in vigilanza e [[Pain|dolore]], e con un intero esercito di martiri.
+
+Sono dunque assai lontano dal negare i casi difficili che
+esistono qui, come in ogni materia che coinvolga l'idea dell'[[Honour|onore]].
+Poiché invero non potrei negarli senza negare l'intero
+parallelo della [[morality|moralità]] militante su cui poggia il mio argomento.
+Ma inteso prima questo, sarà [[Well|bene]] discutere in un
+poco più di dettaglio ciò che è descritto come le tragedie del [[Marriage|matrimonio]].
+E la prima cosa da notare sulla più tragica di esse è che esse
+non sono affatto tragedie del [[Marriage|matrimonio]].  Sono tragedie del sesso;
+e potrebbero facilmente accadere in un [[Romance|romanzo]] quanto mai moderno in cui il [[Marriage|matrimonio]]
+non fosse affatto menzionato.  Generalmente si riassume dicendo
+che l'elemento tragico è l'assenza dell'[[Love|amore]].  Ma spesso si
+dimentica che un altro elemento tragico è spesso la presenza dell'[[Love|amore]].
+I dottori del [[divorce|divorzio]], con un'aria del franco e amichevole
+realismo degli uomini di mondo, stanno sempre raccomandando e rallegrandosi
+di una sensata separazione per mutuo consenso.  Ma se dobbiamo davvero
+congedare i nostri [[Dreams|sogni]] di dignità e [[Honour|onore]], se dobbiamo davvero
+ripiegare sul franco realismo della nostra esperienza di uomini di mondo,
+allora la primissima cosa che la nostra esperienza ci dirà è
+che assai di rado si tratta di una separazione per mutuo consenso; cioè,
+che il consenso assai di rado è sinceramente e spontaneamente mutuo.
+Di gran lunga il problema più comune in tali casi è quello in cui una
+parte desidera porre fine alla società e l'altra no.
+E di quella situazione emotiva non si può fare altro che una [[Tragedy|tragedia]],
+in qualunque modo la si rivolti.  Con o senza [[Marriage|matrimonio]],
+con o senza [[divorce|divorzio]], con o senza qualsiasi accordo
+che chiunque possa suggerire o immaginare, essa rimane una [[Tragedy|tragedia]].
+L'unica differenza è che per la dottrina del [[Marriage|matrimonio]] essa rimane
+insieme una nobile e feconda [[Tragedy|tragedia]]; come quella di un uomo che cade
+combattendo per il suo paese, o muore testimoniando la [[Truth|verità]].
+Ma la [[Truth|verità]] è che gli innovatori hanno tanto falso ottimismo
+sul [[divorce|divorzio]] quanto qualsiasi romanticista poté mai avere sul [[Marriage|matrimonio]].
+Essi guardano alla loro storia, quando finisce nel [[Court|tribunale]] del [[divorce|divorzio]],
+attraverso una foschia sentimentale rosea come chiunque mai guardò
+a una storia che finisce con [[Bells|campane]] nuziali.  Tale riformatore è del tutto
+certo che una volta che il principe e la principessa siano divorziati
+dalla fata madrina, essi vivranno felici e contenti per sempre.
+Io godo del [[Romance|romanzesco]], ma mi piace che sia radicato nella realtà; e chiunque
+con un tocco di realtà sa che nove coppie su dieci,
+quando divorziano, restano in uno stato oltremodo diverso.
+Sarà prudente dire che nella maggior parte dei casi un partner non riuscirà
+a trovare la felicità in un'infatuazione, e l'altro fin
+dal principio accetterà una [[Tragedy|tragedia]].  Nel regno della realtà e non del [[Romance|romanzesco]],
+è comunemente un caso di cuori spezzati tanto [[Well|quanto]] di promesse infrante;
+e persino il disonore non è sempre un rimedio al rimorso.
 
 
 
@@ -4296,6 +5854,131 @@ gone into [[Exile|exile]] from the oldest of earthly cities.
 --/--
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+La prossima limitazione da porre in materia riguarda certe
+forme pratiche di disagi a un livello piuttosto più basso dell'[[Love|amore]]
+o dell'odio.  I casi più comunemente citati concernono ciò che si chiama «alcol»
+e ciò che si chiama «crudeltà».  Se ne parla sempre come di questioni
+di fatto; benché in pratica siano assai decisamente questioni di opinione.
+Non è una frivolezza, ma un fatto, che la sventura della
+donna che ha sposato un ubriacone possa dover essere bilanciata
+contro la sventura dell'uomo che ha sposato un'astemia.
+Poiché la definizione stessa di ubriachezza può dipendere dal dogma
+dell'astemismo.  L'ubriachezza, si è assai giustamente osservato,
+«può significare qualunque cosa, dal delirium tremens all'avere una testa più
+salda di quella del funzionario incaricato di condurre l'esame.»
+Il signor Bernard [[Shaw]] una volta professò, apparentemente sul serio, che qualunque uomo
+bevesse vino o birra fosse inabilitato a condurre un'automobile;
+e ancor più, dunque, si supporrebbe, a condurre una moglie.
+Le bilance sono qui truccate, s'intende, con tutti quei falsi pesi
+di snobismo che sono la maledizione della giustizia in questo paese.
+La classe operaia è costretta a condurre quasi in pubblico una normale
+e variabile abitudine festiva, che la classe superiore può permettersi di condurre
+in privato; e una certa sezione della classe media, quella che
+si occupa più che mai di politica locale e di riforme sociali,
+ha davvero o affetta uno standard del tutto anormale e persino alieno.
+Essi potrebbero andare a qualunque lunghezza d'ingiustizia nel trattare l'operaio
+o l'operaia accusati di un gusto troppo cordiale per la birra.
+Per menzionare una sola cosa fra mille, i riformatori della classe media
+sono evidentemente del tutto ignari delle ore in cui la gente lavoratrice comincia
+a lavorare.  Poiché essi stessi, alle undici [[Clock|in punto]] del mattino,
+hanno solo di recente finito la colazione e la piena digestione morale
+del Daily Mail, pensano che una donna delle pulizie che beve birra a quell'ora sia
+una di coloro che si levano di buon mattino per correr dietro alle bevande forti.
+La maggior parte di loro davvero non sa che ella ha già fatto più di metà
+di una pesante giornata di lavoro, e sta prendendo un assai ragionevole spuntino.
+L'intero problema del bere proletario è impigliato in una rete
+di questi malintesi; e non v'è alcun [[Doubt|dubbio]] di sorta che,
+quando giudicati con queste generalizzazioni, i poveri saranno presi
+in una rete di ingiustizie.  E questa [[Truth|verità]] è tanto certa nel
+caso di ciò che si chiama crudeltà quanto in quello di ciò che si chiama alcol.
+Nove volte su dieci il giudizio su uno sterratore per aver percosso una donna
+è giusto press'a poco quanto un giudizio su di lui per non essersi tolto il cappello
+davanti a una signora.  È una prova di classe; potrà essere una superiorità di classe;
+ma non è un atto di eguale giustizia tra le classi.
+[[Leaves|Tralascia]] mille cose: la provocazione, l'atmosfera,
+le assillanti ristrettezze di spazio, il brontolio che Dickens
+descrisse come i terrori del «cattivo umore in un carretto», l'assenza di certi
+tabù dell'educazione sociale, la tradizione di una maggiore rudezza persino
+nei gesti dell'affetto.  Far dipendere ogni [[Marriage|matrimonio]] o [[divorce|divorzio]],
+nel caso di un tal uomo, da un colpo è come dare alle fiamme
+l'intera vita di un gentiluomo perché ha sbattuto la porta.
+Spesso un pover'uomo non può sbattere la porta; in parte perché la
+villetta modello potrebbe crollare; ma più perché non ha alcun luogo dove andare;
+la sala per fumatori, la sala da biliardo e la sala di musica del pavone
+non essendo ancora annesse ai suoi locali.
+
+Dico questo di passaggio, per far notare che, mentre io non sogno
+di suggerire che vi siano solo matrimoni felici, vi sarà
+quasi certamente, per come vanno le cose oggigiorno, un assai gran numero di
+divorzi infelici e ingiusti.  Saranno casi in cui il partner [[Innocent|innocente]]
+riceverà la vera punizione del partner colpevole,
+per il fatto di essere di fatto e di sentimento il partner fedele.
+Per esempio, si insiste che una persona sposata debba almeno
+trovare liberazione dalla compagnia di un pazzo; ma è anche vero che
+i riformatori scientifici, col loro can can sui «deboli di mente»,
+danno di continuo definizioni più larghe e più vaghe della pazzia.
+Il processo potrebbe cominciare col liberare qualcuno da un maniaco omicida,
+e finire col trattare allo stesso modo un conversatore alquanto noioso.
+Ma di fatto nessuno nega che a una persona debba essere concessa qualche
+sorta di liberazione da un maniaco omicida.  La più estrema scuola
+di ortodossia sostiene soltanto che chiunque abbia avuto quell'esperienza
+dovrebbe accontentarsi di quella liberazione.  In altre parole, dice che egli dovrebbe
+accontentarsi di quell'esperienza del matrimonio, e non cercarne un'altra.
+Fu detto assai argutamente, credo, da un mio amico cattolico romano,
+che disse di approvare la liberazione (release) purché non fosse scritta
+con un trattino.
+
+Per dirla rozzamente, siamo disposti in certi casi a dare ascolto all'uomo
+che si lagna di avere una moglie.  Ma non siamo disposti a dare ascolto,
+a tale lunghezza, al medesimo uomo quando torna e si lagna
+di non avere una moglie.  Ora in pratica in questo momento
+la gran massa delle lagnanze è precisamente di questo genere.
+I riformatori insistono particolarmente sul pathos della posizione
+di un uomo quando ha ottenuto una separazione senza un [[divorce|divorzio]].
+La loro figura più tragica è quella dell'uomo che è già libero di tutti
+quei mali che aveva, e chiede soltanto che gli sia concesso di volare verso altri
+che egli non conosce.  Sarei l'ultimo a negare che, in certe
+circostanze emotive, la sua [[Tragedy|tragedia]] possa essere davvero assai tragica.
+Ma la sua [[Tragedy|tragedia]] è del genere emotivo che non può mai essere
+interamente eliminato; e che egli stesso, con ogni probabilità,
+ha inflitto al partner che ha lasciato.  Possiamo chiamarlo il prezzo
+del mantenere un ideale o il prezzo del commettere un errore;
+ma comunque è il punto dell'intera nostra distinzione in materia;
+è qui che tracciamo la linea, e in nessun luogo ho negato che essa
+sia una linea di battaglia.  La battaglia s'ingaggia sul terreno conteso,
+non del dubbio passato dell'uomo ma del suo ancor più dubbio futuro.
+In una parola, la controversia sul [[divorce|divorzio]] non è realmente una controversia
+sul [[divorce|divorzio]].  È una controversia sul ri-[[Marriage|matrimonio]]; o piuttosto
+sul se sia affatto un [[Marriage|matrimonio]].
+
+E con ciò possiamo soltanto tornare al punto d'[[Honour|onore]]
+che ho qui paragonato a un punto di patriottismo; poiché esso
+è insieme la più piccola e la più grande specie di patriottismo.
+Uomini sono morti fra i tormenti negli ultimi cinque anni per punti
+di patriottismo assai più dubbi e fuggevoli.  Uomini come i Polacchi
+o i Serbi, per lunghi periodi della loro [[history|storia]], si può dire
+piuttosto siano vissuti fra i tormenti.  Non ammetterò mai che il vitale
+bisogno della [[Freedom|libertà]] della famiglia, come ho cercato di [[Sketch|abbozzarlo]] qui,
+non sia una causa altrettanto preziosa quanto la [[Freedom|libertà]] di qualsiasi frontiera.
+Ma ammetto volentieri che la causa sarebbe oscura e terribile,
+se davvero chiedesse a questi uomini di soffrire tormenti.  Come l'ho enunciata,
+nei suoi termini più estremi, essa chiede loro soltanto di soffrire abnegazioni.
+E quelle sofferenze negative penso davvero che essi possano onorevolmente essere
+chiamati a sopportare, per la gloria del loro proprio giuramento e per le grandi cose
+per cui le nazioni vivono.  In relazione alla loro propria nazione la maggior parte degli uomini normali
+sentirà che questa distinzione tra la liberazione (release) e la «ri-locazione» (re-lease)
+non è né fantasiosa né dura, ma assai razionale e umana.
+Un patriota può essere un [[Exile|esule]] in un altro paese; ma non sarà
+un patriota di un altro paese.  Sarà allegro quanto può
+in una posizione anormale; potrà o non potrà cantare i [[songs|canti]] del suo paese
+in una terra straniera; ma non canterà i [[songs|canti]] stranieri come propri.
+E tale può ben essere anche l'atteggiamento del cittadino che è
+andato in [[Exile|esilio]] dalla più antica delle città terrene.
+
+--/--
+
 
 
 <span class="atom-split" data-atom="chapter_08--part_01" data-title="The Superstition of Divorce — Chapter 8 (part 1)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="archetype/innocent,archetype/tyrant,motif/city,motif/dance,motif/death,motif/desire,motif/dust,motif/grave,motif/home,motif/leaves,motif/love,motif/marriage,motif/memory,motif/nature,motif/time,motif/well,concept/democracy,concept/doubt,concept/individualism,concept/nature,concept/reform,concept/truth,setting/court,character/nurse"></span>
@@ -4422,6 +6105,133 @@ we might almost as [[Well|well]] reveal the military force of infantry
 by pointing to one infant.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+VIII
+
+LA PROSPETTIVA DEL [[divorce|DIVORZIO]]
+
+Le ragioni a favore del [[divorce|divorzio]] combinano tutti i vantaggi
+del poter avere la cosa in entrambi i modi; e del trarre la medesima
+deduzione tanto da destra quanto da sinistra, e dal bianco come dal nero.
+In qualunque modo il programma funzioni nella pratica, esso può comunque
+essere giustificato in teoria.  Se vi sono pochi esempi di [[divorce|divorzio]],
+ciò dimostra quanto poco il [[divorce|divorzio]] debba essere temuto;
+se ve ne sono molti, ciò dimostra quanto esso sia necessario.
+La rarità del [[divorce|divorzio]] è un argomento in favore del [[divorce|divorzio]];
+e la molteplicità del [[divorce|divorzio]] è un argomento contro il [[Marriage|matrimonio]].
+Ora, in [[Truth|verità]], se ci limitassimo a considerare questa alternativa
+in maniera speculativa, se non vi fossero fatti concreti ma soltanto
+astratte probabilità, non avremmo alcuna difficoltà a sostenere la nostra tesi.
+La libertà astratta concessa dai riformatori è quanto più possibile
+vicina all'anarchia, e non offre alcuna garanzia logica o legale che
+valga la pena discutere.  I vantaggi della loro [[Reform|riforma]] non ricadono
+sulla parte [[Innocent|innocente]], bensì sulla parte colpevole;
+specialmente se essa sia sufficientemente colpevole.  A un uomo basta
+commettere il delitto dell'abbandono per ottenere il premio del [[divorce|divorzio]].
+E se essi hanno il diritto di prendere come tipici i più orribili casi
+ipotetici di abuso delle leggi sul [[Marriage|matrimonio]], di certo noi
+abbiamo il diritto di prendere possibilità altrettanto estreme
+nell'abuso delle loro stesse leggi sul [[divorce|divorzio]].  Se essi,
+cercandosi un marito, tanto spesso s'imbattono in un maniaco omicida,
+di certo noi possiamo garbatamente presentar loro la figura assai più
+umana del gentiluomo che sposa quante donne gli aggrada e se ne disfa
+tutte le volte che gli piace.  Ma in realtà non v'è alcuna necessità
+di ragionare così in astratto; giacché l'amabile gentiluomo in questione
+esiste senza dubbio nel concreto.  Naturalmente egli non è una figura nuova;
+è un tipo di mascalzone assai ricorrente; il suo nome è stato Lotario
+o Don Giovanni; ed è stato spesso rappresentato come un mascalzone
+piuttosto romantico.  Il nocciolo della [[Reform|riforma]] del [[divorce|divorzio]],
+non lo si ripeterà mai abbastanza, è che il mascalzone non debba soltanto
+essere considerato romantico, ma considerato rispettabile.  Egli non deve
+seminare la sua avena selvatica e poi mettere la testa a posto; deve
+semplicemente mettere la testa a posto nel seminare la sua avena selvatica.
+Essa va considerata come avena mite e inoffensiva; quasi, se così si può dire,
+come avena da quaccheri.  Ma non v'è bisogno, come dico, di speculare
+se la visione più permissiva del [[divorce|divorzio]] possa prevalere;
+giacché essa sta già prevalendo.  I giornali sono pieni di una sorprendente
+ilarità circa la rapidità con cui centinaia o migliaia di famiglie umane
+vengono disgregate dagli avvocati; e circa la non dissimulata fretta
+dei «giudici solerti» che portano avanti l'opera.  È una forma di ilarità
+che parrebbe richiamare l'allegria di un [[Grave|becchino]] in una [[City|città]]
+flagellata da una pestilenza.  Ma di tanto in tanto qualche dettaglio
+balena nella lieta [[Dance|danza]]; di [[Time|tempo]] in [[Time|tempo]]
+il [[Court|tribunale]] è mosso da una momentanea curiosità circa le cause
+della generale violazione di giuramenti e promesse; come se potesse esservi,
+qua e là, un accenno di qualche sorta di ragione per rovinare l'istituzione
+fondamentale della società.  E nessuno che noti quei dettagli, o consideri
+quei fievoli accenni di ragione, può [[Doubt|dubitare]] per un istante
+che masse di questi uomini e donne stiano ora semplicemente usando
+il [[divorce|divorzio]] nello spirito del libero [[Love|amore]].  Assai di rado
+sono il genere di persone che una volta erano tragicamente cadute
+nel posto sbagliato, e hanno ora trovato trionfalmente la via
+verso il posto giusto.  Sono quasi sempre persone che palesemente
+vagano da un luogo all'altro, e probabilmente lasceranno il loro ultimo
+rifugio esattamente come hanno lasciato il primo.  Ma pare divertirle
+il fare di nuovo, se possibile in una chiesa, una promessa che hanno già
+infranto nella pratica e in cui, quasi dichiaratamente, non credono per principio.
+
+Di fronte a questa moda precipitosa, è davvero ragionevole domandare
+ai riformatori del [[divorce|divorzio]] quale sia il loro atteggiamento
+verso la vecchia etica monogamica della nostra civiltà; e se desiderino
+conservarla in generale, oppure conservarla affatto.  Purtroppo persino
+i più sinceri e lucidi tra loro adoperano un linguaggio che [[Leaves|lascia]]
+la questione un poco dubbia.  Il signor E. S. P. Haynes è uno dei più
+brillanti e più equanimi polemisti di quella parte; ed egli ha detto,
+per esempio, di concordare con me nel sostenere l'ideale del [[Marriage|matrimonio]]
+indissolubile o, quanto meno, non disciolto.  Il signor Haynes è uno dei
+pochi amici del [[divorce|divorzio]] che siano anche veri amici
+della [[democracy|democrazia]]; e sono certo che nella pratica ciò equivalga
+a una reale simpatia per la [[Home|casa]], specialmente la [[Home|casa]]
+dei poveri.  Purtroppo, sul versante teorico, la parola «ideale»
+è tutt'altro che un termine esatto, ed è aperta a due interpretazioni
+quasi opposte.  Poiché molti direbbero che il [[Marriage|matrimonio]] è un ideale
+come alcuni direbbero che il monachesimo è un ideale, nel senso di un
+consiglio di perfezione.  Ora, certamente potremmo preservare un ideale
+coniugale in questo modo.  Un uomo potrebbe essere indicato con riverenza
+per la strada come una sorta di santo, semplicemente perché è sposato.
+Un uomo potrebbe portare una medaglia per la monogamia; o avere delle sigle
+dopo il proprio nome simili a V.C. o D.D.; diciamo V.C.M. per «Vive Con la
+Moglie», oppure N.A.D. per «Non Ancora Divorziato».  Potremmo, entrando
+in qualche [[City|città]] straniera, restare colpiti da una maestosa colonna
+eretta alla [[Memory|memoria]] di una moglie che mai fuggì con un soldato,
+o dal sacrario e dall'effigie di un personaggio storico che avesse resistito
+all'esempio dell'uomo della ballata sul «New Witness», il quale se la svignò
+con la [[Nurse|bambinaia]] dei bambini.  Una così alta agiografia artistica
+sarebbe del tutto coerente con la [[Reform|riforma]] del [[divorce|divorzio]]
+del signor Haynes; con il nuovo [[Marriage|matrimonio]] dopo tre anni, o tre ore.
+Sarebbe anche del tutto coerente con la frase del signor Haynes
+sul preservare un ideale del [[Marriage|matrimonio]].  Ciò con cui non sarebbe
+coerente è la perfettamente semplice, solida, laica e sociale utilità
+che ho qui attribuito al [[Marriage|matrimonio]].  Essa non crea né preserva
+un'istituzione naturale, normale all'intera comunità, atta a bilanciare
+l'istituzione più artificiale e persino più arbitraria dello Stato;
+il quale è meno naturale anche se è ugualmente necessario.  Essa non difende
+un'associazione volontaria, ma [[Leaves|lascia]] l'unico diritto sulla vita,
+sulla [[Death|morte]] e sulla lealtà a un'istituzione più coercitiva.
+Essa non rappresenta, nel senso che ho cercato di spiegare, il principio
+della libertà.  In breve, non fa nessuna delle cose che lo stesso signor
+Haynes [[Desire|desidererebbe]] soprattutto veder fatte.  Affinché l'umanità
+sia così spontaneamente organizzata dal basso, è necessario che
+l'organizzazione sia quasi altrettanto universale quanto l'organizzazione
+ufficiale dall'alto.  Il [[Tyrant|tiranno]] deve trovare non una famiglia
+ma molte famiglie che sfidano il suo potere; deve trovare il genere umano
+non una [[Dust|polvere]] di atomi, bensì saldo in solidi blocchi di fedeltà.
+E quei gruppi umani devono sostenere non soltanto sé stessi ma l'un l'altro.
+In questo senso ciò che alcuni chiamano [[Individualism|individualismo]]
+è tanto corporativo quanto il comunismo.  È una cosa di volontari;
+ma i volontari devono essere soldati.  È una difesa di persone private;
+ma potremmo dire che le persone private devono essere soldati semplici.
+La famiglia dev'essere riconosciuta oltre che reale; soprattutto,
+la famiglia dev'essere riconosciuta dalle famiglie.  Attendersi che
+gli individui soffrano con successo per una [[Home|casa]] separata
+dalla [[Home|casa]], ossia per qualcosa che è un episodio ma non
+un'istituzione, è davvero una confusione tra due idee; è un sofisma verbale
+quasi nella [[Nature|natura]] di un gioco di parole.  Similmente, per esempio,
+non possiamo provare la forza morale di un contadinato additando un solo
+contadino; potremmo quasi altrettanto [[Well|bene]] rivelare la forza militare
+della fanteria additando un solo fante.
+
 
 
 <span class="atom-split" data-atom="chapter_08--part_02" data-title="The Superstition of Divorce — Chapter 8 (part 2)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="motif/desire,motif/home,motif/marriage,motif/well,concept/beauty,concept/courage,concept/hope,form/satire,histref/america,histref/catholic_church,histref/christianity,setting/america"></span>
@@ -4524,6 +6334,106 @@ But to understand this it is only necessary to know a little Latin--
 and a little French.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Suppongo, tuttavia, che i fautori del [[divorce|divorzio]] non intendano
+che il [[Marriage|matrimonio]] debba rimanere ideale soltanto nel senso
+di essere quasi impossibile.  Non intendono che un marito fedele debba
+essere ammirato soltanto come un fanatico.  Gli uomini ragionevoli tra loro
+intendono davvero che una persona divorziata sia tollerata come qualcosa
+di insolitamente sventurato, non semplicemente che una persona sposata
+sia ammirata come qualcosa di insolitamente benedetto e ispirato.
+Ma qualunque cosa [[Desire|desiderino]], è bene che si rendano conto
+esattamente di ciò che fanno; e in questo caso vorrei udire le loro critiche
+riguardo a ciò che vedono.  Devono di certo vedere che in Inghilterra
+attualmente, come in molte parti dell'[[America]] in passato, la nuova libertà
+viene presa nello spirito della licenza, come se l'eccezione dovesse essere
+la regola, o, piuttosto, forse l'assenza di regola.  Ciò si renderà manifesto
+soprattutto se consideriamo che l'effetto del processo è cumulativo come
+una palla di neve, e ritorna su sé stesso come una palla di neve.
+L'ovvio effetto del [[divorce|divorzio]] frivolo sarà il [[Marriage|matrimonio]]
+frivolo.  Se le persone possono essere separate senza alcuna ragione,
+tanto più facile parrà loro essere unite senza alcuna ragione.  Un uomo
+potrebbe assai chiaramente prevedere che un'infatuazione sensuale sarebbe
+fugace, e consolarsi con la consapevolezza che il legame potrebbe essere
+ugualmente fugace.  Non pare esservi alcuna ragione particolare per cui egli
+non dovrebbe calcolare minuziosamente di poter sopportare il carattere
+di una certa dama per dieci mesi; o stimare che avrebbe goduto ed esaurito
+il suo repertorio di [[songs|canzoni]] da salotto in due anni.  La vecchia
+facezia sullo scegliere la moglie che s'intoni ai mobili o alle mode
+potrebbe assai logicamente ritornare, non come una vecchia facezia
+ma come una nuova solennità; anzi, si scoprirà che una nuova religione
+è generalmente il ritorno di una vecchia facezia.  Un uomo potrebbe assai
+coerentemente vedere una donna come adatta all'epoca della gonna a fascia,
+e meno adatta al minacciato ritorno della crinolina.  Queste fantasticherie
+sono già abbastanza fantastiche, ma non sono di un'ombra più fantastiche
+dei fatti di molte controversie di [[divorce|divorzio]] così come vengono
+perorate nei tribunali del [[divorce|divorzio]].  E ciò senza contare affatto
+il fatto più fantastico di tutti: il chiudere un occhio su una collusione
+diffusa e cospicua.  La collusione è divenuta non tanto un'evasione illegale
+quanto una finzione legale, e persino un'istituzione legale, come è
+mirabilmente satireggiata nella brillante commedia del signor Somerset
+Maugham «[[Home|Casa]] e [[Beauty|Bellezza]]».  Il fatto fu assai francamente
+portato dinanzi al pubblico da un uomo che era eminentemente atto a disarmare
+la [[Satire|satira]] con la sincerità.  Il colonnello Wedgewood è un uomo
+che non potrà mai essere onorato abbastanza da tutti coloro che nutrono
+qualche [[Hope|speranza]] che le libertà popolari trovino ancora dei campioni
+in mezzo alla corruzione parlamentare.  Egli è uno dei pochissimi uomini
+viventi che abbiano mostrato tanto il [[Courage|coraggio]] militare quanto
+quello politico; il [[Courage|coraggio]] dell'accampamento e il [[Courage|coraggio]]
+del foro.  E senza dubbio egli mostrò un terzo tipo di [[Courage|coraggio]]
+sociale, nel confessare l'assurdo espediente che tanti altri si accontentano
+semplicemente di accettare e adoperare.  È indubbiamente una cosa forsennata
+e farsesca che un uomo dabbene trovi o creda necessario fingere di commettere
+un peccato.  Alcuni dei moralisti del [[divorce|divorzio]] paiono dedurne
+che egli dovrebbe davvero commettere il peccato.  Può darsi, tuttavia,
+che siano consapevoli che vi sono alcuni che non concordano con loro.
+
+Poiché quest'ultimo fatto è il passo successivo nel progresso speculativo
+della nuova [[morality|moralità]].  I fautori del [[divorce|divorzio]] devono
+essere ben consapevoli che la civiltà moderna contiene ancora elementi forti,
+non i meno intelligenti e certamente non i meno vigorosi, che non accetteranno
+la nuova rispettabilità come surrogato del vecchio voto religioso.
+La [[Catholic Church|Chiesa cattolica]] romana, la scuola anglo-cattolica,
+i contadinati conservatori, e un'ampia parte della vita popolare ovunque,
+considereranno la sregolatezza del [[divorce|divorzio]] e del nuovo
+[[Marriage|matrimonio]] come considererebbero qualsiasi altra sregolatezza
+di irresponsabilità.  La conseguenza parrebbe essere che due diversi criteri
+appariranno nella [[morality|moralità]] ordinaria, e persino nella società
+ordinaria.  Invece della vecchia distinzione sociale tra coloro che sono
+sposati e coloro che non lo sono, vi sarà una distinzione tra coloro che
+sono sposati e coloro che sono davvero sposati.  La società potrebbe persino
+dividersi in due società, il che si avvicina pericolosamente alla famosa
+esagerazione di Disraeli sull'Inghilterra divisa in due nazioni.  Ma che
+l'Inghilterra sia effettivamente così divisa o no, questa nota delle due
+nazioni è la vera nota d'allarme nella questione.  È forse a questo proposito
+che dobbiamo considerare nel modo più grave e più incerto il futuro
+del nostro stesso paese.
+
+L'anarchia non può durare, ma nemmeno le comunità anarchiche possono durare.
+La mera illegalità non può vivere, ma può distruggere la vita.  Le nazioni
+della terra ritornano sempre al [[Sanity|senno]] e alla solidarietà;
+ma le nazioni che vi ritornano per prime sono le nazioni che sopravvivono.
+Noi in Inghilterra non possiamo permetterci di lasciare che le nostre
+istituzioni sociali vadano in pezzi, come se questo antico e nobile paese
+fosse una colonia [[ephemeral|effimera]].  Non possiamo permettercelo
+relativamente, anche se potessimo permettercelo assolutamente.  Siamo
+circondati da nazioni vigorose radicate principalmente negli ideali contadini
+o permanenti; segnatamente nel caso della Francia e dell'Irlanda.  So che
+la detestata e detestabilmente antidemocratica cricca parlamentare,
+che corrompe la Francia come corrompe l'Inghilterra, fu persuasa o corrotta
+da un ebreo di nome Naquet a far passare una rozza e recente legge
+sul [[divorce|divorzio]], che era colma dell'odio verso il [[Christianity|Cristianesimo]].
+Ma solo un critico assai superficiale della Francia può ignorare che
+il parlamentarismo francese è superficiale.  La nazione francese nel suo
+insieme, la nazione più rigidamente rispettabile del mondo, continuerà
+certamente a vivere secondo i vecchi criteri della vita domestica.
+Quando i Francesi non sono cristiani sono pagani; i pagani che adoravano
+gli dèi domestici.  Potrebbe sembrare strano dire, per esempio, che un ateo
+come Monsieur Clemenceau abbia per suo ideale principale una cosa chiamata
+pietas.  Ma per comprenderlo è solo necessario conoscere un poco di latino...
+e un poco di francese.
+
 
 
 <span class="atom-split" data-atom="chapter_08--part_03" data-title="The Superstition of Divorce — Chapter 8 (part 3)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="archetype/fool,motif/animals,motif/clock,motif/machine,motif/memory,motif/supernatural,motif/time,motif/well,concept/truth,character/queen"></span>
@@ -4601,6 +6511,79 @@ has age after age sought refuge in the high [[Sanity|sanity]] of a sacrament.
 
 --/--
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Poco [[Time|tempo]] fa, come [[Well|ben]] so, sarebbe suonato assai strano
+rappresentare le vecchie comunità religiose e contadine o come un modello
+o come una minaccia.  Era ritenuta una cosa bislacca da dirsi, ai tempi
+in cui i miei amici ed io per primi la dicemmo; ai tempi della mia giovinezza
+in cui la repubblica di Francia e la religione d'Irlanda erano considerate
+del pari ridicole e decadenti.  Ma molte cose sono accadute da allora;
+e ora non sarà più tanto facile persuadere persino i lettori di giornali
+che Foch è uno [[Fool|sciocco]], vuoi perché è francese vuoi perché è cattolico.
+La tradizione più antica, persino nelle forme meno alla moda, ha trovato
+campioni negli ambienti più inaspettati.  Solo l'altro giorno il dottor
+Saleeby, un illustre critico scientifico che si era fatto speciale
+patrocinatore di tutta l'istruzione e l'organizzazione che si chiama scienza
+sociale, sbalordì tanto gli amici quanto i nemici affermando che le famiglie
+contadine dell'ovest dell'Irlanda erano assai più soddisfacenti e prospere
+di quelle covate da tutta la benevola sociologia di Bradford.  Egli rese
+la sua testimonianza da un punto di vista interamente razionalistico
+e persino materialistico; anzi, spinse il razionalismo fino al punto
+di dare la preferenza a Roscommon perché le donne vi sono ancora mammifere.
+A una mente del tipo più tradizionale potrebbe parere sufficiente dire
+che esse sono ancora madri.  A una [[Memory|memoria]] che indugia sulle
+leggende e sui moti lirici del genere umano, potrebbe non parere un gran
+miglioramento immaginare una [[Song|canzone]] che facesse «La mia mammifera
+mi chiede di raccogliere i capelli», oppure «Sarò la [[Queen|Regina]] di Maggio,
+mammifera, sarò la [[Queen|Regina]] di Maggio».  Ma invero la [[Truth|verità]]
+cui egli rese testimonianza è tanto più impressionante, poiché per lui era
+materialistica e non mistica.  Il bruto vantaggio biologico, oltre ad altri
+vantaggi, stava dalla parte di coloro per i quali quella [[Truth|verità]] era
+una [[Truth|verità]]; ed era tanto più istintivo e automatico là dove quella
+[[Truth|verità]] era una tradizione.  Il genere di luogo in cui le madri
+sono ancora qualcosa di più che mammifere è l'unico genere di luogo in cui
+esse sono ancora mammifere.  Là la gente è ancora fatta di sani [[Animals|animali]];
+abbastanza sana da colpirti se la chiami [[Animals|animali]].  Anch'io ho,
+in questa occasione meramente polemica, adoperato in tutto l'appello
+razionalistico e non quello religioso.  Ma non è irragionevole notare
+che i vantaggi materialistici si trovano realmente tra coloro che più
+ripudiano il materialismo.  Questa singola testimonianza sparsa non è che
+un esempio di mille cose dello stesso genere, che convinceranno chiunque
+abbia il senso delle atmosfere sociali che il giorno dei contadinati
+non sta tramontando bensì piuttosto sorgendo.  Sono i tipi più complessi
+di società quelli che ora si trovano impigliati nelle proprie complessità.
+Coloro che ci dicono, con una monotona metafora, che non possiamo riportare
+indietro l'[[Clock|orologio]], paiono curiosamente inconsapevoli del fatto
+che il loro proprio [[Clock|orologio]] si è fermato.  E non v'è nulla di così
+senza speranza quanto un meccanismo a orologeria quando si arresta.
+Una [[Machine|macchina]] non può ripararsi da sé; occorre un uomo per ripararla;
+e il futuro appartiene a coloro che sanno fare leggi vive per gli uomini
+e non semplicemente leggi morte per i macchinari.  Quelle leggi vive
+non si trovano nello scetticismo scervellato che s'affaccenda nelle grandi
+città, dissolvendo ciò che non sa analizzare.  Le leggi primarie dell'uomo
+si trovano nella vita permanente dell'uomo; in quelle cose che le sono state
+comuni in ogni [[Time|tempo]] e terra, benché nella più alta civiltà abbiano
+raggiunto un arricchimento come quello del divino idillio di Cana di Galilea.
+Sappiamo che molti critici di una simile storia dicono che i suoi elementi
+non sono permanenti; ma invero sono i critici a non essere permanenti.
+Cento [[dogs|cani]] rabbiosi dell'eresia hanno azzannato l'uomo fin dal
+principio; ma è sempre stato il cane a morire.  Sappiamo che vi è una scuola
+di saccenti che disapprovano il vino; e vi potrebbe ora essere una scuola
+di saccenti che disapprovano le nozze.  Poiché in un caso come la storia
+di Cana, si può osservare che i pedanti hanno pregiudizi contro gli elementi
+terreni tanto quanto, o più che, contro gli elementi celesti.  Non è tanto
+il [[Supernatural|soprannaturale]] a disgustarli, quanto il naturale.
+E quelli tra noi che hanno visto tutte le regole e relazioni normali
+dell'umanità sradicate da speculatori a casaccio, come se fossero abusi
+anomali e quasi accidenti, comprenderanno perché gli uomini abbiano cercato
+qualcosa di divino se desideravano preservare qualcosa di umano.  Sapranno
+perché il buon senso, scacciato da qualche accademia di mode e capricci
+condotta sulla falsariga di un lussuoso manicomio, abbia epoca dopo epoca
+cercato rifugio nell'alto [[Sanity|senno]] di un sacramento.
+
+--/--
 
 
 

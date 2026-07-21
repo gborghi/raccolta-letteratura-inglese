@@ -4565,6 +4565,162 @@ and Mr. Kirkwood has said things about capitalists of which even
 Cobbett might be proud.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+CAPITOLO I
+
+LA RINASCITA DI COBBETT
+
+Questo capitolo è qui intitolato «La rinascita di Cobbett».
+Come fu concepito in origine, appena poco tempo fa,
+avrebbe dovuto intitolarsi «L'oblio di Cobbett».
+Non è privo d'importanza rendersi conto di quanto recente sia stato il mutamento.
+È appena un anno o due che ebbi il grande e
+(c'è da temere) immeritato [[Honour|onore]] di leggere una relazione
+sull'argomento dinanzi alla Royal Society of Literature, in occasione
+della mia ammissione a quel [[Body|consesso]], che certamente si compone quasi
+interamente di uomini che sanno di letteratura assai più di me.
+Fu una graziosa formalità, in tale circostanza, che la persona meno
+dotta della sala tenesse lezione a tutte le altre.
+Eppure in quell'occasione il presidente, che era assai più esperto
+di lettere di me, osservò che avevo scelto uno scrittore oscuro
+e in gran parte dimenticato, proprio come se avessi tenuto conferenza
+su uno degli ultimi e più infimi sofisti greci, o su uno
+degli innumerevoli e senza nome lirici tra i Cavalieri.
+Fra allora e ora il mutamento dall'oblio alla rinascita ha
+avuto luogo. È vero che soltanto ai primissimi
+albori della rinascita sentiamo mai parlare dell'oblio.
+Fino a quel momento perfino l'oblio è dimenticato.
+Quando pronunciai il discorso assai dilettantesco in questione,
+la [[Memory|memoria]] già si ridestava, in altri oltre che in me.
+Ma non è per egotismo che porto questo esempio;
+bensì perché si dà il caso che esso illustri il primo fatto da
+comprendere circa l'attuale posizione di Cobbett.
+
+In un certo senso, naturalmente, Cobbett non è mai stato trascurato.
+È stato ammirato soltanto nel modo in cui egli avrebbe
+particolarmente detestato essere ammirato. Colui che era pieno del suo tema
+è stato apprezzato solo per lo stile. Colui che era così ricolmo
+di sostanza è stato ammirato per la sua maniera; benché non
+forse per le sue maniere. Egli gridava alla folla tumultuante,
+e la sua voce in un fioco sussurro ha raggiunto i pochi raffinati;
+che con delicatezza applaudivano un giro di frase o un volo di sintassi.
+Ma se tale applauso riesce piuttosto sconcertante per il demagogo,
+la vera rinascita della sua demagogia riuscirebbe ancora più sconcertante
+all'ammiratore accademico. Ora, per rinascita di Cobbett io intendo
+la rinascita delle cose che Cobbett desiderava far rinascere.
+Erano cose che fino a poco tempo fa nessuno immaginava
+vi fosse la minima probabilità di far rinascere; quali la libertà,
+l'Inghilterra, la famiglia, l'[[Honour|onore]] del piccolo proprietario terriero, e così via.
+Molti dei dotti che, nell'occasione sopra menzionata, furono assai
+indulgenti verso il mio eccentrico entusiasmo, resterebbero perfino oggi un poco
+perplessi se quell'entusiasmo divenisse qualcosa di più d'una eccentricità.
+Cobbett era stato per loro un uomo che lodava un'Inghilterra stravagante
+e impossibile in un inglese esatto ed eccellente.
+Deve parere invero strano che chi non può mai [[Hope|sperare]]
+di scrivere un simile inglese possa nondimeno [[Hope|sperare]] di vedere una simile Inghilterra.
+I critici devono sentirsi come raffinati gentiluomini che, dopo aver a lungo
+assaporato la dizione di Jeremy Taylor, ricevessero d'un tratto
+uno sgradito invito a dare una dimostrazione di Santa Morte.
+Devono sentirsi come eruditi che avessero indugiato amorevolmente
+tutta la vita sui lapidari motti babilonesi e sulle vaste
+incantazioni verbali del meraviglioso [[Essay|saggio]] sulla Sepoltura nell'Urna;
+e poi fossero vissuti tanto da vederlo venduto a centinaia come il popolare
+opuscolo d'un frenetico movimento moderno a favore della cremazione.
+
+Nondimeno, questa classica conservazione di Cobbett in un'urna,
+sotto forma di ceneri, non è stata del tutto coerente con se stessa.
+Ancora adesso parrebbe che le ceneri fossero ancora un po' troppo calde
+da toccare. E ho menzionato il mio piccolo sforzo di conferenza
+accademica solo perché riguardava qualcosa che può essere ripetuto qui,
+in quanto attinente ai primi elementi essenziali dell'argomento. Molti professori
+hanno riconosciuto Cobbett come modello in un senso meramente letterario;
+ma pochi si sono modellati sul loro modello. Erano sempre
+pronti a [[Hope|sperare]] che i loro allievi scrivessero un inglese così buono.
+Ma sarebbero rimasti lievemente sorpresi se un allievo avesse scritto
+un inglese così schietto. Eppure, come feci notare in quell'occasione,
+la più forte qualità di Cobbett come stilista sta nell'uso che egli faceva
+d'un certo genere di linguaggio; quel genere d'uso comunemente detto abuso.
+È soprattutto il suo linguaggio ingiurioso a essere sempre eccellente.
+Sono precisamente i passi che sono sempre stati riconosciuti
+come di buono stile quelli che ora sarebbero giudicati di cattiva forma.
+Ed è precisamente questi passi violenti che soprattutto mettono
+in luce non solo le migliori capacità di Cobbett ma anche le migliori
+capacità dell'inglese. Ero e sono dunque pronto a ripetere
+ciò che dissi nella mia piccola conferenza, e a ripeterlo con tutta serietà,
+benché fosse a quel [[Time|tempo]] oggetto di commento meramente divertito.
+Feci notare che nella formazione della nobile e bella
+lingua inglese, da tanti elementi locali, nulla era
+emerso di più veramente bello del genere d'inglese
+che è stato localizzato sotto il nome di Billingsgate.
+Feci notare che l'inglese eccelle in certe consonanti angolose
+e brusche terminazioni che lo rendono straordinariamente efficace
+per l'espressione dello spirito combattivo e d'un fiero disprezzo.
+Quanto fortunata è la condizione dell'inglese che può prendere a calci la gente;
+e quanto relativamente [[Melancholy|malinconica]] quella del francese che può soltanto dar loro
+un colpo di piede! Se diciamo che due persone si azzuffano come cane
+e gatto, le parole stesse paiono avere in sé un baccano di morsi
+e di strida e di graffi. Se diciamo «comme le chat et le chien»,
+siamo depressi dal suggerimento d'una relativa pace.
+Il francese ha naturalmente le proprie profondità di risonante potenza:
+ma non questa sorta di ariete da sfondamento del bathos. Ora, nessuno
+nega che Cobbett e i suoi nemici si azzuffassero come cane e gatto,
+ma sono precisamente i suoi passi combattivi a contenere alcuni
+dei più begli esempi d'uno stile inglese quanto la parola cane
+o la parola gatto. Fin qui la faccenda non ha nulla
+a che fare con la simpatia politica o morale per la causa di Cobbett.
+La bellezza del suo incessante ingiuriare è questione d'arte per l'arte.
+Il piacere che un gusto educato riceverebbe nell'udire
+Cobbett chiamare una duchessa una vecchia gatta o un vescovo un cane sudicio è quasi
+onomatopeico, nel suo amore per una melodia quasi del tutto staccata dal significato.
+Nel dire ciò, si potrebbe supporre, andavo invero incontro
+al critico puramente artistico e accademico a metà strada, e ben avrei potuto
+essere accolto, per così dire, con un abbraccio di riconciliazione.
+Questa è invero la ragione per cui la maggior parte degli amanti delle lettere inglesi
+ha almeno tenuto viva una tradizione puramente letteraria di Cobbett.
+Ma, come accadde, aggiunsi alcune parole che mi prenderò anche
+la libertà di menzionare, perché illustrano esattamente
+le tappe di questo riemergere della fama del grande scrittore dal
+campo della letteratura al campo della vita. «C'è un serio
+pericolo che questo fascino della letteratura inglese vada perduto.
+La relativa assenza d'ingiurie nella vita sociale e senatoriale può
+togliere una delle bellezze del nostro bel linguaggio storico.
+Parole come "briccone" e "farabutto", che hanno la singolare forza
+dell'inglese in sé, rischiano di divenire poco familiari per mancanza
+d'uso, benché certo non per mancanza d'occasioni d'uso.
+È invero strano che, quando la vita pubblica offre un campo tanto vasto e
+promettente per l'impiego di questi termini, essi vengano lasciati
+cadere in disuso. Pare singolare che, quando le carriere
+dei nostri uomini pubblici, il carattere dei nostri trionfi commerciali,
+e la cultura ed etica generale del mondo moderno paiono tanto specialmente
+invitare e, per così dire, invocare a gran voce l'uso di tale linguaggio,
+il segreto di tale linguaggio rischi d'andare perduto.»
+Ora, quando richiamai l'attenzione di quegli autorevoli custodi
+della letteratura inglese, responsabili della conservazione della purezza
+della lingua inglese, su questo deplorevole stato di cose—
+sulle parole che sono come armi che arrugginiscono alla parete, sui più
+scelti termini d'ingiuria che divengono obsoleti a fronte di ricche e perfino
+sconcertanti occasioni offerte da persone pubbliche a cui applicarli—
+quando protestai contro questa trascuratezza della nostra nobile lingua,
+mi duole dire che il mio appello fu accolto con spietate
+risate e fu bonariamente criticato sui giornali come uno scherzo.
+Fu considerato non solo un pezzo di mite buffoneria ma una sorta
+di mascherata settecentesca; come se io desiderassi soltanto riportare
+randelli e coltellacci insieme a parrucche e cappelli a tre punte.
+Si diede per scontato che nessuno potesse forse seriamente [[Hope|sperare]], o perfino
+seriamente aspettarsi, di udire di nuovo l'antico Billingsgate dei comizi
+e della lotta elettorale. Eppure, da quando quelle critiche furono scritte,
+appena pochissimo [[Time|tempo]] fa, quella sorta di antichissimo inglese si è
+d'un tratto udita, se non nel giornalismo, almeno in politica.
+Per uno strano [[Paradox|paradosso]], perfino la [[house|Camera]] dei Comuni ha udito il suono
+del linguaggio comune, non del tutto slegato dal buon senso.
+Deputati laburisti e giovani Tory si sono entrambi uditi parlare
+come uomini della strada. Il signor Jack [[Jones]], con le sue interruzioni,
+si è reso un giudizioso patrono di questa rinascita letteraria,
+questo tentativo di salvare il patrimonio della cultura inglese;
+e il signor Kirkwood ha detto sui capitalisti cose delle quali perfino
+Cobbett potrebbe andar fiero.
+
 
 
 <span class="atom-split" data-atom="chapter_01--part_02" data-title="William Cobbett — Chapter 1 (part 2)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="concept/class_conflict,concept/tradition,concept/poverty,form/biography,histref/victorian_england,setting/england,character/william_cobbett"></span>
@@ -4697,6 +4853,135 @@ was still summoned to take part in that retrospective revolution.
 For there were moments when even Mr. Dickens had the same obsession
 as Mr. Dick.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Ora, ho menzionato il mio prematuro lamento sul barcaiolo,
+quel disreputabile Tom Bowling, solo perché serve a introdurre
+un certo tripudio altrettanto prematuro che spiega gran parte
+della nostra posizione attuale. I critici vittoriani avevano insistito nel
+considerare la violenza di Cobbett come interamente cosa del passato;
+col risultato di trovarsi d'un tratto minacciati
+da quella sorta di violenza che avanza su di loro dal futuro.
+Sono forse un poco allarmati; e almeno
+sono assai naturalmente perplessi. Era sempre stato loro insegnato
+che Cobbett era un maniaco le cui teorie erano state confutate
+a fondo tanto tempo fa e trovate del tutto vuote e fallaci.
+Era stato conservato soltanto per il suo stile; e perfino quello era
+rozzo e antiquato, specie nel bizzarro arcaismo sassone
+di chiamare pane il pane e vino il vino. Poco pensavano
+d'avere a udire l'orrido suono, la parola orribile «vanga»
+stessa, scuotere le arcate di St. Stephen come una bestemmia.
+Ma la questione non è meramente d'idiomi bensì d'idee.
+Avevano sempre supposto almeno che le idee di Cobbett
+fossero esplose; e trovarono che stavano ancora esplodendo.
+Trovarono che l'esplosione che fece cilecca cento
+anni fa, come quella di Guy Fawkes trecento anni fa,
+ha ancora una miccia a tempo il cui tempo non era del tutto scaduto;
+e che la sede del pericolo (mi dispiace dirlo)
+non era neppure molto lontana dal medesimo luogo di Guy Fawkes.
+In un pericolo di tal sorta è assai importante comprendere
+ciò che sta realmente accadendo; e dubito che le classi
+agiate comprendano ciò che accade molto meglio di quanto
+facessero ai tempi di Cobbett—per non dire di quelli di Guy Fawkes. E
+una ragione per cui in origine accettai di scrivere questo piccolo libro
+è che ritengo questione di vita o di morte che esso
+sia compreso.
+
+Il randello è tornato come un boomerang: e il comune inglese,
+così a lungo pago di prendere mezza pagnotta, potrebbe ancora, nella stessa
+tradizione di compromesso, limitarsi a scagliare mezzo mattone.
+La ragione per cui il linguaggio parlamentare è antiparlamentare e Westminster
+si è unita a Billingsgate, la ragione per cui i poveri d'Inghilterra in molti
+luoghi non stanno più brontolando o nemmeno ringhiando ma piuttosto ululando,
+la ragione per cui c'è una nota nuova nella nostra vecchia e cortese politica,
+è una ragione che riguarda vitalmente il soggetto di questo piccolo studio.
+Vi sono moltissimi modi d'enunciare quella ragione;
+ma il modo più pertinente qui è questo. Tutto ciò accade
+perché i critici hanno avuto tutti torto su Cobbett.
+Voglio dire che ebbero specialmente torto su ciò che egli rappresentava.
+Accade perché Cobbett non era ciò che l'hanno sempre rappresentato
+essere; e nemmeno ciò per cui l'hanno sempre lodato d'essere.
+Accade perché Cobbett stava per una realtà di tutt'altra sorta;
+e le realtà possono ritornare, che noi le comprendiamo o no.
+Cobbett non era semplicemente un tipo dalla testa storta con l'abilità di dire
+la parola giusta sulla cosa sbagliata. Cobbett non era semplicemente un vecchio
+contadino irato e antiquato che pensava il paese dovesse andare
+in malora perché il mondo intero non era abbandonato alle vacche.
+Cobbett non era semplicemente un uomo con un mucchio d'idee insensate
+che potevano essere confutate dall'economia politica; un uomo che mirava a trasformare
+l'Inghilterra in un Eden che non doveva coltivare altro che il Grano di Cobbett.
+Ciò che egli vide non era un Eden che non può esistere ma piuttosto un
+Inferno che può esistere, e che perfino esiste. Ciò che egli vide
+era il perire di tutta la potenza inglese di autosostentamento,
+la crescita di città che prosciugano e disseccano la campagna,
+la crescita di dense popolazioni dipendenti incapaci di trovare
+il proprio cibo, il trionfo rovinoso delle macchine sugli uomini,
+la dilagante onnipotenza dei finanzieri sui patrioti, l'ammassarsi
+dell'umanità in orde nomadi le cui stesse case sono senza casa,
+la terribile necessità della pace e la terribile probabilità della guerra,
+tutto il caricare la nostra piccola isola come una nave che affonda;
+la ricchezza che può significare carestia e la cultura che può
+significare disperazione; il pane di Mida e la spada di Damocle.
+In una parola, egli vide ciò che vediamo noi, ma lo vide quando non c'era.
+E alcuni non riescono a vederlo—perfino quando c'è.
+
+È il paradosso della sua vita che egli amasse il passato, e lui solo davvero
+vivesse nel futuro. Vale a dire, lui solo viveva nel futuro reale.
+Il futuro era una nebbia, come sempre è; e in certi modi la sua intelligenza
+in gran parte istintiva era abbastanza nebulosa al riguardo. Ma lui e lui solo
+aveva una qualche nozione del genere di nebbia londinese che stava per essere.
+Egli era in Francia durante la Rivoluzione francese; in mezzo a tutto quel mondo di
+carneficine e citazioni classiche, di nomi greci e tumulti oltremodo latini.
+Deve essere apparso, mentre stava là con la sua grossa e pesante figura
+e il nero cappello di castoro, un esemplare tanto solenne e solido quanto mai se ne vide
+dell'inglese all'estero—quel genere d'inglese che è oltremodo fuori posto.
+Andò in America subito dopo la Rivoluzione americana; e recitò
+la parte del vecchio contadino Tory, agitando il cappello di castoro e invocando
+da quei repubblicani stupefatti tre urrà per re Giorgio.
+Ovunque, in mezzo a tutta quella danza di speranze umanitarie, egli pareva
+una sopravvivenza e una reliquia di tempi trascorsi. E lui solo era in un qualche
+vivo contatto coi tempi che stavano per venire.
+
+Tutti quei riformatori e rivoluzionari intorno a lui, che parlavano speranzosi
+del futuro, vivevano senza eccezione nel passato.
+Il futuro stesso che essi felicemente profetavano era il futuro quale
+sarebbe stato nel passato. Alcuni sognavano un passato remoto
+e altri un passato recente; alcuni un passato vero e altri un passato falso;
+alcuni un passato eroico e altri un passato più dubbio.
+Ma tutti intendevano per loro democrazia ideale ciò che la democrazia
+sarebbe stata in un'età più semplice della loro. I repubblicani
+francesi vivevano nelle perdute repubbliche del Mediterraneo;
+nei freddi vulcani d'Atene e di Tebe. Il loro era un grande ideale;
+ma nessuno stato moderno è abbastanza piccolo per compiere qualcosa di così grande.
+Potremmo dire che alcuni di quei progressisti del Settecento si erano
+perfino spinti fino al regno di Pipino o di Dagoberto, e avevano scoperto
+l'esistenza della Monarchia francese. Poiché cose così genuine
+e in origine così popolari come la Monarchia francese generalmente
+non vengono davvero scoperte finché non siano esistite per qualche tempo;
+e quando vengono scoperte, generalmente vengono distrutte.
+I liberali inglesi e in certa misura americani vivevano
+in un certo senso ancora più nel passato; poiché non distruggevano
+ciò che era stato di recente scoperto. Distruggevano
+ciò che era stato di recente distrutto. Gli americani sfidavano
+Giorgio Terzo, sotto la stravagante idea che Giorgio
+Terzo governasse l'Inghilterra. Quando istituirono la loro repubblica,
+i semplici coloni probabilmente credevano davvero che l'Inghilterra
+fosse una monarchia. La stessa illusione riempiva i Whig inglesi;
+ma solo perché l'Inghilterra era stata un tempo una monarchia.
+I Whig erano occupati in permanenza a espellere gli Stuart,
+piacevole occupazione che poteva essere ripetuta all'infinito.
+Combattevano sempre di nuovo le battaglie di Naseby e di Newbury,
+e sfidavano un diritto divino che nessuno difendeva.
+Per loro invero Carlo Primo camminava e parlava per mezz'ora,
+o mezzo secolo, o un secolo e mezzo, dopo che la sua testa era
+stata mozzata, e loro stessi non potevano camminare in nessun luogo se non a Whitehall,
+né parlare d'altro se non di ciò che vi era accaduto. Possiamo vedere
+come quella lunga tradizione indugiasse in un libro leggero e popolare
+come la Storia d'Inghilterra per fanciulli di Dickens; e come perfino il fanciullo
+fosse ancora chiamato a prender parte a quella rivoluzione retrospettiva.
+Poiché vi furono momenti in cui perfino il signor Dickens aveva la medesima ossessione
+del signor Dick.
 
 
 
@@ -4860,6 +5145,164 @@ decipherable title of ‘Cobbett's Register'; and taking down the book,
 amid the gathering [[Storm|storm]] and the growing darkness, reads this old story.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Ma il punto è che questi idealisti—i più fra loro nobilissimi idealisti—
+vedevano tutti il futuro sul semplice modello del passato. È tipico
+che la schiera americana di compagni fosse chiamata i Cincinnati,
+e prendesse nome da Cincinnato il Console che gettò via la toga
+per impugnare l'aratro. Ma Cobbett sapeva un po' di più sull'arare.
+Sapeva che il vomere s'era conficcato in un solco rigido; e sapeva
+come nessun altro sapeva su che sorta di pietra avesse urtato.
+Sapeva che quella pietra era il metallo di cui sarebbe stato fatto
+tutto il mondo moderno; a meno che l'operazione non si potesse fermare in tempo. Lo sapeva
+invero soltanto ciecamente e istintivamente; ma nessun altro lo sapeva affatto.
+Nessun altro aveva presentito il futuro; nessun altro aveva fiutato la nebbia;
+nessun altro aveva alcuna nozione di ciò che stava davvero calando sul mondo.
+
+Voglio dire che, se foste andati da Jefferson nel momento in cui
+egli scriveva la Dichiarazione d'Indipendenza, e gli aveste mostrato
+l'esatta immagine d'un Trust del Petrolio, e la sua attuale posizione
+in America, avrebbe detto: «Non è da credersi».
+Se foste andati da Cobbett, e gli aveste mostrato la stessa cosa,
+avrebbe detto, come il vecchio gentiluomo barbuto della filastrocca:
+«È proprio come temevo». Se aveste messo Carnot di fronte a Caillaux,
+il vecchio rivoluzionario si sarebbe chiesto quale inconcepibile
+maledizione fosse potuta cadere sulla grande Francia dei soldati.
+Se aveste messo Cobbett di fronte ad alcuni dei nostri simili esemplari,
+avrebbe detto ch'era ciò che ci si poteva aspettare quando si consegnava
+la grande Inghilterra agli speculatori di borsa. Poiché uomini come Jefferson
+e Carnot pensavano a un'antica società agricola che semplicemente
+mutasse dalla disuguaglianza all'uguaglianza. Pensavano a villaggi greci
+e romani in cui la democrazia avesse scacciato l'oligarchia.
+Pensavano a un maniero medievale divenuto un
+comune medievale. Il mercante e l'uomo d'affari era un piccolo
+e innocuo sottoprodotto del loro sistema; non avevano alcuna nozione
+che sarebbe cresciuto abbastanza da inghiottire tutto il resto.
+Il punto riguardo a Cobbett è che lui solo sapeva davvero che là,
+e non nei re o nelle repubbliche, nei giacobini o negli antigiacobini,
+stava il pericolo e l'oppressione dei tempi a venire.
+
+È l'enigma dell'uomo che, se ebbe torto allora,
+ha ragione adesso. Come uomo morto che si batte con uomini morti,
+può ancora assai facilmente essere coperto di derisione; ma se lo
+immaginiamo ancora vivo e in colloquio con uomini vivi, le sue osservazioni
+somigliano piuttosto scomodamente alla vita. Le stesse parole che una volta
+avremmo letto come la storia più sbiadita e antiquata
+possono ora essere lette come il giornalismo più sconcertante e d'attualità.
+Si conceda pure che la denuncia non fosse sempre corretta
+riguardo al dottor Priestley o al dottor Rush, che l'ingiuria non fosse davvero
+applicabile al signor Hunt o al signor Wright; consoliamoci
+col fatto che l'ingiuria è del tutto applicabile a noi.
+Noi almeno abbiamo fatto tutto ciò di cui i nemici di Cobbett erano accusati
+di fare. Abbiamo adempiuto tutte quelle folli profezie;
+abbiamo giustificato tutte quelle ingiustissime calunnie;
+siamo venuti al mondo come per incarnare e adempiere
+in modo tardivo quella oltremodo improbabile predizione.
+I nemici di Cobbett possono aver rovinato l'agricoltura o no;
+ma in ogni caso l'abbiamo rovinata noi. I contemporanei di Cobbett possono aver
+diminuito la ricchezza nazionale o no, ma essa è diminuita.
+La carta moneta può non aver scacciato l'oro nel corso della sua vita,
+ma noi siamo stati più privilegiati di lui. In una mera contesa
+tra il diciottesimo secolo e il diciannovesimo
+può facilmente apparire in torto; ma in una contesa tra il
+diciannovesimo secolo e il ventesimo ha ragione.
+Non tracciò sempre diagrammi precisi delle cose com'erano.
+Ebbe soltanto frenetici e fantastici incubi delle cose come sono.
+La fama di Cobbett impallidì e anzi svanì del tutto durante
+la nostra epoca di prosperità, o quella che è contata la nostra epoca di prosperità.
+Poiché in realtà era soltanto la prosperità dei prosperi.
+Ma per tutto quel tempo la sua versione dei dubbi su
+ciò che Carlyle chiamava la filosofia del profitto-e-perdita praticamente
+scomparve dalla mente moderna. Ho menzionato Carlyle ma,
+per come espressi da Carlyle, quei medesimi dubbi non erano la stessa cosa.
+Carlyle avrebbe trasformato il capitalismo in una sorta di feudalesimo,
+con la lealtà feudale da un lato e la
+liberalità feudale dall'altro. Egli intendeva per filosofia del profitto-e-perdita
+una filosofia piccola e meschina che non sapeva
+affrontare una piccola perdita neppure in vista d'un grande profitto.
+Ma non negò mai che potesse esservi un grande profitto,
+non contraddisse mai l'intera tendenza dell'epoca come fece Cobbett.
+Al contrario, Carlyle chiamava il capitalista con un nome romantico,
+là dove Cobbett l'avrebbe chiamato con un nome scandalosamente realistico.
+Carlyle chiamava il capitalista un capitano dell'industria,
+un ben triste brandello di sentimentalismo vittoriano. Quella romantica
+evasione manca tutto il punto, il punto che Cobbett tenne
+costantemente in vista per tutta la vita. Il militarismo sarebbe assai meno
+rispettabile e rispettato se il capitano d'un reggimento di linea avesse
+intascato la rendita d'ogni acro per cui combatté nelle Fiandre.
+Il capitalismo sarebbe assai più rispettabile e rispettato se tutti
+i mastri costruttori s'arrampicassero in cima alle torri e ne cadessero,
+se vi fossero tanti capitalisti colpiti alla testa da mattoni
+quanti erano i capitani uccisi al fronte dai proiettili.
+Ma, come feci notare in un contesto già menzionato,
+Carlyle era in realtà un ottimista piuttosto che un pessimista.
+Certamente Carlyle era un ottimista là dove Cobbett era un pessimista.
+Cobbett scavava assai più a fondo; non solo chiamava pane il pane,
+ma lo usava come un dissotterratore di cadaveri—non soltanto come un riformatore
+che estirpa piccoli mali. Potremmo dire che il mero riformatore
+chiama il pane pancotto. Carlyle dava accenni e suggerimenti
+piuttosto oscuramente che l'intera faccenda potesse finir male;
+ma non osò mai davvero augurarsi che non fosse mai cominciata.
+Diceva ai ricchi severamente come avrebbero dovuto disporre della loro ricchezza,
+non diceva, come Cobbett, rozzamente come l'avevano
+raccolta. La conseguenza fu che Carlyle è stato
+esibito come un puritano, un pessimista, un profeta di sciagure.
+Cobbett non è stato esibito affatto. Carlyle è stato posto
+di contro a Mill e Macaulay come una sorta d'opposizione ufficiale,
+ma l'opposizione di Cobbett non era sufficientemente ufficiale.
+A Carlyle è stato concesso di brontolare come un vecchio maggiore collerico
+assai rispettato al circolo. Cobbett è stato interamente rimosso,
+come l'enfant terrible, che scalcia e strilla,
+per timore che dicesse qualcosa di terribile in salotto.
+Perciò il grande segreto di cui era gonfio fino a scoppiare è stato
+in realtà troppo grande per essere pronunciato; la sua condanna era
+così ampia e travolgente che dovette essere nascosta in un buco.
+I vittoriani erano abbastanza colti e abbastanza di larghe vedute
+da rendersi conto che dovesse esservi qualche promemoria, in mezzo
+ai loro tripudi, della fallibilità e fragilità umana;
+per timore che il signor George Augustus Sala paresse una creatura
+troppo luminosa e buona per il quotidiano nutrimento della natura umana.
+Avevano qualcosa dell'immaginazione imperiale e dello sguardo
+filosofico degli antichi Egizi, che ponevano uno scheletro al
+banchetto per rammentar loro la mortalità e uno stato d'animo più malinconico
+che potesse mescolarsi innocuamente allo stato d'animo della gioia.
+Carlyle era lo scheletro del festino. Ma Cobbett non era
+lo scheletro del festino; era lo scheletro nell'armadio.
+
+In breve, Carlyle criticò sì la scuola del profitto-e-perdita,
+ma non la profittevolezza dell'intero mondo in cui essa era sorta.
+Certamente non mise in dubbio l'assunto che esso fosse
+almeno profittevole nel senso d'essere praticabile.
+Ma da allora forze più profonde si sono mosse e più oscuri enigmi
+hanno cominciato a essere mormorati tra noi; e non sono le superficiali
+anomalie e accidentalità, ma l'intero movimento e
+proposito centrale del diciannovesimo secolo, a essere messo in questione.
+Siamo tornati a fare ciò che Carlyle non fece mai davvero,
+ciò che Cobbett volle sempre fare: stilare un vero conto
+della perdita e del profitto ultimi sulla filosofia del profitto-e-perdita.
+Perfino nella sfera economica la risposta è apparsa sempre
+più dubbia. La chiamiamo l'età dei profittatori;
+ma è una questione per quanto tempo ancora perfino i profittatori faranno profitti.
+La chiamiamo capitalismo; e tale è, nel piuttosto
+sinistro senso di vivere sul capitale.
+
+Così, in qualche vecchio romanzo di qualche vecchio maniero e vecchia famiglia signorile,
+potrebbe giungere un'ora oscura nei suoi annali e una nube oscura sulle sue torri
+(un temporale gettato lì per giunta, o la caduta di qualche scudo o quadro o
+statua da giardino o quant'altro necessario al gusto del romanziere per la rovina);
+e attraverso le sale e i corridoi oscurati il padrone della casa
+passerebbe fino a qualche fioca e disordinata biblioteca e ne trarrebbe giù qualche proibito
+o trascurato volume, in cui sono tracciati strani emblemi o figure
+o mappe o carte di cose nascoste, o dimenticate rune ed enigmi
+che ritornano solo con la fine. Così l'inglese del ventesimo secolo
+sta oggi ritrovando a tentoni la sua strada indietro, oltre tutta la letteratura del diciannovesimo;
+oltre tutti i variegati romanzi vittoriani del progresso alla moda in Macaulay
+e della reazione alla moda in Carlyle; finché non trova in alto su uno scaffale elevato
+i vecchi volumi spessi, rilegati in pelle, con la stampa sbiadita e il titolo
+appena decifrabile di «Cobbett's Register»; e, traendo giù il libro,
+in mezzo alla [[Storm|tempesta]] che s'addensa e all'oscurità crescente, legge questa vecchia storia.
+
 
 
 <span class="atom-split" data-atom="chapter_02--part_01" data-title="William Cobbett — Chapter 2 (part 1)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="archetype/fool,archetype/king,archetype/self_made_man,motif/bees,motif/city,motif/love,motif/prison,motif/rose,motif/secrets,motif/silence,motif/soul,motif/time,motif/well,concept/exile,concept/history,concept/pride,concept/reform,concept/slavery,form/history,setting/london,character/christ"></span>
@@ -5007,6 +5450,149 @@ but it is just here that there appears that little twist or bias
 which decided how William Cobbett was to live and die.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+CAPITOLO II
+
+UN [[Self-Made Man|UOMO CHE S'È FATTO DA SÉ]]
+
+È ormai un po' più d'un secolo e mezzo da quando un fanciullo
+del ceto più povero era occupato a spaventare i corvi là dove si [[Rose|levavano]],
+come ancora si levano, in nere flottiglie che screziano le grandi nubi bianche
+che rotolano contro i grandi crinali del Surrey e delle contee meridionali.
+Ancora più a sud, dove le colline del Sussex assumono un profilo insieme
+più opulento e più spoglio, si ripeteva una filastrocca che potrebbe correre
+come un ritornello attraverso gran parte della sua storia.
+
+[[Bees|Api]] sono [[Bees|api]] di Paradiso,
+Fanno l'opera di Gesù [[Christ|Cristo]],
+Fanno l'opera che nessun uomo può;
+Dio fece le [[Bees|api]] e le [[Bees|api]] fanno il miele,
+Dio fece l'uomo e l'uomo fa il denaro,
+Dio fece l'uomo per arare e mietere e seminare,
+E Dio fece i fanciulli per scacciare la cornacchia.
+
+E così il fanciullo in questione continuò a scacciare la cornacchia,
+in obbedienza a quella provvidenziale disposizione.
+
+Il fanciullo era destinato a crescere fino a divenire un uomo alto e vigoroso,
+che avrebbe viaggiato lontano e in luoghi strani, nell'[[Exile|esilio]] e
+nella [[Prison|prigione]] e in Parlamento; ma il suo cuore non vagò mai
+molto lontano dai semplici ideali che sono riassunti in quel verso.
+Non era un mero sognatore né un più o meno amabile fannullone,
+del genere talvolta associato al genio del villaggio.
+Sarebbe stato pronto quanto qualsiasi uomo della scuola
+utilitarista ad ammettere che gli uomini farebbero [[Well|bene]] a imitare l'industriosità
+delle [[Bees|api]]. Solo che chi guarda alla sua industriosità letteraria
+potrebbe esser tentato di dire che aveva più pungiglione che miele.
+Similmente non era un mero romantico o sentimentale,
+del genere talvolta associato a un [[Love|amore]] per la scena rurale.
+Sarebbe stato pronto quanto qualsiasi mercante o commerciante ad affrontare
+il fatto che l'uomo, come Dio l'ha fatto, deve fare denaro.
+Ma aveva un vivo senso che il denaro dovesse essere solido e
+onesto quanto il grano e la frutta per cui stava, che dovesse
+essere strettamente in contatto con le realtà che rappresentava;
+e mosse una guerra furibonda a tutti quegli indiretti e talvolta
+immaginari processi di debiti e azioni e promesse
+e percentuali che fanno del mondo della ricchezza, oggi,
+un mondo nel peggiore dei casi irreale e nel migliore invisibile.
+Era in modo più immediato interessato, nelle condizioni dell'ora,
+a ciò che egli considerava la fuggitiva e dissipatrice caccia cartacea
+della carta moneta. Ma ciò che al tempo stesso prediceva e denunciava,
+come una piccola nube che non era ancora divenuta una nebbia universale,
+era quella vasta finzione legale che chiamiamo finanza. In ogni caso,
+contro un mondo in cui simili misteri finanziari si moltiplicavano
+ogni giorno, in cui il macchinario era ovunque in marcia,
+e le nuove città si diffondevano con la rapidità d'una frana,
+in cui l'Inghilterra era già [[Well|bene]] avviata a divenire meramente
+l'officina del mondo, contro l'intero grande labirinto strisciante
+dello stato moderno che è quasi una cosa sola con la moderna [[City|città]],
+rimaneva in lui immutata, incisa a fondo nella solitaria
+roccia della sua [[Soul|anima]], l'unica clausola del suo unico credo:
+che Dio fece l'uomo per arare e mietere e seminare.
+
+Poiché questi era William Cobbett, che nacque nel 1762 in una piccola
+fattoria a Farnham nel Surrey. Suo nonno era stato un ordinario
+bracciante agricolo, uno d'una classe che sgobbava per una misera paga,
+e tanto decaduta da qualsiasi cosa somigliasse all'[[Pride|orgoglio]] d'un contadinato
+che nella [[history|storia]] inglese era completamente sparita dalla vista.
+Era qualcosa che a stento s'è conosciuto dai tempi pagani;
+su tutte le sue testimonianze grava l'antico [[Silence|silenzio]] della [[Slavery|schiavitù]].
+Era a questi schiavi che il cuore di Cobbett continuamente si volgeva,
+in ciò che a molti pareva il suo vertiginoso e incalcolabile volgersi.
+Coloro che erano calpestati e dimenticati tanto dallo squire Tory
+quanto dal mercante radicale erano coloro che a Cobbett premeva ricordare;
+esattamente come i cittadini patrizi e plebei avrebbero potuto essere
+sconcertati da un sapiente il cui primo pensiero era per gli schiavi.
+E se mai in questa nostra terra i poveri saranno davvero sollevati,
+se mai i veri bisognosi troveranno una lingua per i propri bisogni,
+se mai progressisti e reazionari egualmente si renderanno conto su quali rovine
+furono edificati e il loro ordine e la loro [[Reform|riforma]], quanti fallimenti
+occorsero a fare il loro [[success|successo]], e quali crimini abbiano messo in ordine la loro [[house|casa]],
+se vedranno il rovescio della propria [[history|storia]] coi suoi
+[[Secrets|segreti]] d'ira sigillata e irrevocabile ingiustizia—in una parola,
+se un grande popolo può mai pentirsi, allora i posteri potranno veder compiuta
+anche da questa agenzia, da quest'unica solitaria e irata ape in cui
+la società non vide altro che un calabrone, l'opera di Gesù [[Christ|Cristo]].
+
+Suo padre era un piccolo agricoltore ed evidentemente non uno [[Fool|sciocco]]; ma il figlio
+non poté avere che un'istruzione assai rudimentale e rustica.
+Il figlio fu forse per tutta la vita un po' troppo incline a fare
+il maestro di scuola; e fin dalla prima età fece il maestro di scuola
+a se stesso. Abbiamo molte note delle sue prime letture;
+in particolare uno scorcio che ce lo mostra a bocca aperta davanti all'ampio
+farsesco titolo di «La favola della botte», tanto nella sua propria
+maniera verbale, mentre lo compra e cerca di comprenderlo.
+Lo lesse sotto un pagliaio, e fu così che gli cadde
+addosso, nel suo primo sole, l'ombra di quello spirito oscuro
+ma non ignobile che cent'anni prima aveva veduto
+la prima vittoria della nostra oligarchia veneziana e n'era disperato.
+Poiché molti hanno discusso se Cobbett dovesse qualcosa allo
+stile di Swift, ma pochi hanno sufficientemente considerato il suo legame
+con la causa o il credo di Swift. In ogni caso, ben poco dell'uno o dell'altro
+poteva ricavare il figlio d'un contadino leggendo «La favola
+della botte» sotto un pagliaio. Del resto, c'è qualcosa
+del racconto d'avventura per ragazzi che corre attraverso la sua fanciullezza.
+Egli incarnò il riconosciuto romanzo d'Inghilterra fuggendo per mare.
+Incarnò anche la propria piuttosto ricorrente e discontinua saggezza
+tornando indietro di corsa.
+
+Fu un carattere fin dai primissimi anni. C'era una sorta di calma
+impetuosità nei suoi movimenti. Un giorno partì per accompagnare alcune
+ragazze alla fiera del villaggio, agghindato in tutti i suoi ornamenti paesani.
+Vide una diligenza con su scritto «[[London|Londra]]», e senza costrutto vi salì
+e se ne andò sfrecciando via, lasciandosi dietro le sue amiche, la sua fiera,
+la sua fattoria e la sua famiglia come cose del passato.
+Per fortuna incontrò un amico di suo padre a [[London|Londra]],
+che gli procurò un posto come scrivano nello studio d'un avvocato. Egli odiò
+lo studio dell'avvocato, come odiò gli avvocati e la legge, per tutta la vita;
+come odiò le parole lunghe e la pedanteria e la meschina tirannia.
+Fece un altro tuffo con la medesima placida bruschezza;
+prese lo scellino del [[King|Re]] e s'arruolò come soldato semplice.
+Qui ebbe più successo; poiché c'era in lui assai più del soldato
+che dell'avvocato. Inoltre, non era meno un ragazzo di campagna
+per il fatto d'aver recitato la parte tradizionale del ragazzo di campagna
+che sale a [[London|Londra]] dove le strade sono lastricate d'oro.
+Era alto e forte, con una falcata per cui non pareva
+esserci spazio nelle strette vie, e che aveva miglior
+slancio sulle lunghe marce oltre le colline e lontano.
+I suoi polmoni, che in ogni senso ebbero una parte tanto grande
+nella sua vita, esigevano l'aria profonda dei luoghi aperti.
+Cinquant'anni dopo, a Westminster, come avrebbe detto lui,
+si sarebbe trovato a morire in un'altra tana d'avvocati.
+Fu comunque assai più felice nell'accampamento dei soldati; anzi, era
+non solo felice ma fortunato. Fu riconosciuto come buon soldato,
+e [[Rose|salì]] al grado di caporale e di sergente e infine a una sorta
+di segretario dell'intero reggimento, coadiuvando l'aiutante maggiore.
+Per tutto questo [[Time|tempo]] aveva insegnato a se stesso la grammatica; e insegnava anche
+(cosa piacevolmente caratteristica) la grammatica all'aiutante maggiore.
+In ogni caso è ovvio che era degno di fiducia e che gli si dava fiducia.
+Era rigoroso nel suo dovere; si [[Rose|levava]] presto, un uccello mattiniero pronto a ghermire
+il primo verme; teneva l'occhio su tutto; era indaffarato
+come un uomo d'affari. Un uomo simile generalmente muore ricco e rispettato;
+ma è proprio qui che appare quella piccola torsione o inclinazione
+che decise come William Cobbett dovesse vivere e morire.
+
 
 
 <span class="atom-split" data-atom="chapter_02--part_02" data-title="William Cobbett — Chapter 2 (part 2)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="motif/death,motif/home,motif/love,motif/memory,motif/snow,motif/storm,concept/beauty,concept/honour,concept/melancholy,concept/pride,concept/self,concept/solitude,concept/truth,concept/vanity,form/comedy,histref/america,setting/america"></span>
@@ -5135,6 +5721,130 @@ but in his own narration it becomes easy to understand that she
 came back to him with all the [[Beauty|beauty]] of banners.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Cobbett cominciò a notare qualcosa di strano e del tutto sbagliato nei
+conti del reggimento. Presto scoprì che un certo numero d'ufficiali
+si stava semplicemente intascando il denaro destinato al vitto del reggimento.
+Fu allora che apparve la deplorevole differenza
+tra Cobbett e un uomo davvero rispettabile e di successo.
+Per tutta la vita non riuscì mai a lasciare le cose [[Alone|in pace]].
+Era un uomo d'affari: ma non sapeva badare ai fatti propri.
+Teneva l'occhio sulle cose; ma non aveva mai imparato a chiudere
+l'altro occhio. Era l'uccello mattiniero; ma cadde nel [[Melancholy|malinconico]]
+errore di supporre che tutti i vermi dovessero davvero essere trattati
+come vermi. Non aveva quel fine istinto che fa sì che l'uccello-segretario
+davvero di successo distingua tra i lombrichi
+del sottosuolo e i bachi da seta del bel mondo.
+Non si suggerisce che fosse un puro altruista, un immacolato santo
+del patriottismo; allora come sempre la sua azione comportava una vasta quantità
+di [[Vanity|vanità]], d'affermazione di [[Self|sé]], di sensazionalismo e rozzezza,
+e anche una vasta quantità d'incoerenza e sconclusione.
+Il punto è che, quali che fossero gli altri suoi vizi, non sapeva davvero
+come far carriera al mondo. Fece una scenata; e scoprì
+troppo tardi che, nel denunciare quello che supponeva essere un dettaglio
+d'imbroglio individuale nel suo stesso reggimento, aveva in realtà
+messo in questione un sistema che correva attraverso tutto l'Esercito britannico,
+o se è per questo attraverso tutta la Costituzione britannica.
+Là dove il suo irrequieto immischiarsi pensava di far uscire dal sacco il gatto
+del reggimento, o da un particolare zaino,
+scoprì d'aver stanato dal suo covo una sorta di Tigre di Tammany.
+Non ne era affatto chiaro né coerente.
+La [[Truth|verità]] è che era del tutto fuori dalla sua portata; eppure aveva perfettamente
+ragione nel sentire che vi erano abissi di degradazione.
+Mentre era nell'Esercito la sua protesta fu facilmente schiacciata;
+quando l'ebbe lasciato il [[government|Governo]] concesse una sorta d'inchiesta;
+ma poiché Cobbett non poté ottenere ciò che chiedeva come condizioni
+di quell'inchiesta, rifiutò perfino di presentarvisi lui stesso,
+e l'intera protesta cadde per contumacia. In una società come la nostra,
+è assai comune che scandali troppo grandi per essere sanati
+sfumino così, come se fossero troppo piccoli per essere considerati.
+
+Fu mentre era soldato che compì un altro di quei
+passi caratteristici, che a molti potrebbero parere passi
+sopra un precipizio. Ma è essenziale rendersi conto, riguardo a lui,
+che il primissimo passo aveva sempre in sé qualcosa
+di quasi rigido e automatico nella sua compostezza, per quanto tempestose
+potessero essere le conseguenze o per quanto egli potesse imprecare
+contro la [[Storm|tempesta]]. A questo proposito dobbiamo cercare di ricordare
+ciò che è tanto interamente dimenticato: l'ideale stoico della fine
+del diciottesimo secolo. Gli ideali secolari dell'umanità
+si fossilizzano assai in fretta, e null'altro che la religione mai rimane.
+Lo stoicismo è stratificato in mezzo a strati di perdute mode morali;
+ma fu una bella cosa ai suoi giorni, quando irrigidiva con
+virtù pagane i rivoluzionari di Francia e d'[[America]].
+Le nostre lussuose e orientaleggianti mode e finzioni hanno molto
+da imparare dalle virtù romane sostenute in Sandford e Merton.
+Ecco perché certamente non le impareranno. Bisogna
+ammettere che nel signor Cobbett c'era un tocco del signor Barlow.
+Per tutta la vita ammirò le persone che facevano le cose da sé;
+specialmente se le facevano tra le difficoltà. Ammirava
+il pane fatto in [[Home|casa]] o la birra fatta in [[Home|casa]], anche se qualcuno l'avrebbe chiamato
+il pane dell'afflizione o l'avrebbe considerata birra assai amara.
+Assai presto, un mattino, stava facendo alcuni dei suoi giri militari
+nella sua uniforme di sergente, quando il grigio giorno stava appena spuntando
+su campi di [[Snow|neve]]. Aveva un grande potere di abbozzare un paesaggio
+con parole semplici; e in qualche modo un tale crepuscolo di grigio e argento
+rimane a lungo nella [[Memory|memoria]] del lettore. In fondo a un piccolo cortile
+vide una ragazza dai capelli scuri che sfregava alcune pentole e padelle.
+La guardò di nuovo e vide che era bellissima.
+Poi disse con una sorta di fatale finalità: «Quella è la ragazza per me».
+E infatti fu la moglie che era con lui quando morì cinquant'anni
+dopo, su quelle colline del Surrey che erano la sua casa.
+
+Un altro episodio si lega alla sua memoria, che è
+assai significativo della carriera di Cobbett fin dai primissimi giorni.
+Senza dubbio aveva prima e dopo condotto molte ragazze alle fiere,
+o mancato di condurvele, come quelle che devono
+aver aspettato meravigliate dopo l'episodio della diligenza.
+Ma come molti uomini combattivi e concreti egli era in realtà
+per natura assai fedele nelle relazioni di puro affetto;
+e ce lo fa credere con un resoconto assai convincente della sua
+unica seria tentazione all'infedeltà. L'infedeltà non è
+mai tanto vivida per un uomo infedele. Nel tempo in cui tornò
+in Inghilterra, fu col proposito perfettamente semplice e concentrato
+di cercare la ragazza che aveva veduto nella neve.
+Ai vecchi tempi era giunto a una sorta d'intesa con lei;
+e aveva solennemente posto nelle sue mani un pacchetto sigillato
+di denaro, dicendole di usarlo ogniqualvolta fosse nel bisogno.
+Poi il suo reggimento attraversò l'Atlantico e lei si perse
+nel labirinto della povertà d'una città moderna.
+Per lungo tempo non poté trovarne traccia; alla fine la rintracciò
+in un tugurio dove lavorava come la più misera sorta di serva;
+e lei gli riconsegnò il suo pacchetto di denaro col sigillo intatto.
+
+È chiaro che per Cobbett quel piccolo gesto di restituzione
+parve splendido quanto il gettare il guanto di sfida.
+Per entrare nel suo senso di trionfo dobbiamo comprendere qualcosa
+che si ritrova in lui per tutta la vita, e specialmente in lui,
+quando è generalmente più raro, nella giovinezza. È qualcosa raramente
+compreso in una società senza contadini; un'oligarchia che sa
+comprendere ciò che chiamiamo «[[Honour|onore]]» soltanto come è compreso
+dai gentiluomini. Era il rispetto di [[Self|sé]] dei poveri, che tutta la
+moderna società industriale è andata lentamente schiacciando a [[Death|morte]].
+Trovarlo in qualsiasi luogo non schiacciato e perfino non intimidito era, per Cobbett,
+come il fragore d'una grande vittoria in una guerra del mondo.
+Quando la povera serva si levò in piedi e gli riconsegnò
+la sua piccola manciata, c'erano in ciò cose che né
+gli snob né i bohémien mai comprenderanno. C'era al tempo stesso
+fedeltà e sfida, c'era al tempo stesso lealtà e [[Solitude|solitudine]],
+c'era un duro [[Pride|orgoglio]] nel lavoro e una fine sfumatura di delicatezza;
+c'era dignità, c'era giustizia, e soprattutto c'era trionfo.
+Non qui almeno aveva prevalso l'onnipotente meschinità del mondo
+moderno, che ha reciso tutte le alte semplicità
+e azzoppato tutte le ricerche degli [[lovers|amanti]]; qui c'era un [[Romance|romanzo]] compiuto
+e completo e solido come il pacchetto sigillato nella sua mano;
+qui, in questo mondo infelice, c'era una storia con un lieto fine.
+In tutta la lunga [[Comedy|commedia]] del contrasto tra il cuore
+dell'uomo e ciò che lo circonda, mai vi fu una più strana
+sproporzione che tra l'esterno e l'interno di quel
+solo piccolo episodio; di un giovane che ritrova il suo primo [[Love|amore]]
+lasciata [[Alone|sola]] col suo [[Honour|onore]] e il suo [[Pride|orgoglio]]. A chiunque passasse
+per la strada nulla poteva essere visibile se non un alto
+e malandato soldato che fissava una serva su una soglia;
+ma nella sua narrazione diviene facile comprendere che ella
+tornò a lui con tutta la [[Beauty|bellezza]] di vessilli spiegati.
+
 
 
 <span class="atom-split" data-atom="chapter_02--part_03" data-title="William Cobbett — Chapter 2 (part 3)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="archetype/child,archetype/self_made_man,motif/desire,motif/fire,motif/horse,motif/love,motif/marriage,motif/night,motif/silence,motif/sleep,motif/water,motif/well,concept/exile,concept/honour,concept/hope,concept/poverty,concept/self,concept/truth,histref/america,histref/french_revolution,setting/america"></span>
@@ -5244,6 +5954,112 @@ threatens to destroy domesticity; but it is capitalism that destroys it.
 This is doubtless what is meant by saying that capitalism is the more
 practical of the two.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Mi sono soffermato su questo solo caso del contrasto tra
+la dimessa esteriorità della [[Poverty|povertà]] e l'interno ardore
+delle sue occasionali feste e trionfi, perché questo è
+qualcosa d'assai vicino all'intero segreto della vita di quest'uomo.
+Era sempre a simili piccole tragedie e piccoli trionfi che
+egli pensava quando parlava del problema della [[Poverty|povertà]].
+Differiva da molti riformatori sociali moderni e dalla maggior parte dei
+moderni filantropi, per il fatto che non era meramente
+interessato a ciò che si chiama il benessere dei lavoratori.
+Era assai interessato alla loro dignità,
+al loro buon nome, al loro [[Honour|onore]], e perfino alla loro gloria.
+Qualsiasi uomo umano può [[Desire|desiderare]] il [[Well|ben]]essere dei propri servi,
+come può desiderare il [[Well|ben]]essere dei propri cavalli o delle proprie pecore.
+Ma non si aspetta comunemente che un [[Horse|cavallo]] riporti indietro una sacca da foraggio
+piena d'avena, alla quale il coscienzioso quadrupede non
+ritenga d'aver diritto secondo i termini del contratto.
+Non si aspetta che una pecora s'[[Fire|infiammi]] e si offenda,
+o per essere corrotta con erba o [[Water|acqua]], o per
+essere criticata come la pecora nera del gregge.
+Non si aspetta che la pecora si offra di combattere il cane pastore,
+quando è accusata d'esser fuggita dal lupo. In breve,
+non si aspetta che cavalli e pecore abbiano un senso dell'[[Honour|onore]];
+ma Cobbett, sempre tanto eccentrico e paradossale, davvero
+[[Desire|desiderava]] che contadini e operai avessero un senso dell'[[Honour|onore]].
+L'agonia di rabbia in cui trascorse tanta parte della sua vita era
+dovuta alla consapevolezza che questo popolare senso dell'[[Honour|onore]] veniva
+ovunque abbattuto da un crudele e ignobile industrialismo.
+Tutta la sua vita fu una resistenza alla degradazione dei poveri;
+alla loro degradazione nel senso letterale della perdita d'un gradino,
+d'un rango, d'uno status. Gravava sulla sua mente, come un
+[[nightmare|incubo]] di macchinario che schiaccia e stritola milioni d'ossa,
+tutta la minuta distruzione della proprietà privata e delle tradizioni
+domestiche delle famiglie indigenti; tutto lo sfratto e la disgregazione
+delle masserizie, tutto l'impegno al monte di cimeli e ricordi;
+tutto ciò che è significato dall'atroce sacrificio della fede nuziale. Egli
+pensava a mille storie come la storia della serva:
+salvo che queste storie non avevano un lieto fine.
+
+Sua moglie doveva presto scoprire che, se aveva sposato (come aveva fatto)
+uno dei più costanti e premurosi dei mariti, aveva
+anche sposato uno dei più irrequieti e incalcolabili degli uomini.
+Sarebbe istruttivo avere un diario della signora Cobbett, non meno [[Well|bene]]
+delle infinite autobiografie del signor Cobbett. Ma ella rimane
+sullo sfondo della sua vita in una sorta di potente [[Silence|silenzio]];
+e ci è nota soltanto dagli elogi che egli non cessò mai di tributarle.
+Ella fu presto chiamata a intraprendere alcuni dei suoi interminabili viaggi.
+Quando scoprì, nel caso della corruzione dell'Esercito, per usare una delle sue
+schiette immagini, d'aver preso un boccone più grande di quanto
+potesse masticare, si ritirò disgustato in Francia, e vi rimase
+durante alcuni dei giorni più emozionanti della [[French Revolution|Rivoluzione francese]].
+Eppure è tipico di lui che si applicasse con immensa serietà
+al tema della grammatica francese, come pendant al suo divorante hobby
+della grammatica inglese. Quando salpò di nuovo dalla Francia non fu
+per l'Inghilterra ma per l'[[America]], dove egli e sua moglie rimasero in [[Exile|esilio]]
+per sette anni. I loro viaggi non furono privi di tragedie;
+poiché il suo primo [[Child|figlio]] morì e il secondo nacque morto, e
+non fu che quando si fu più stabilmente sistemato che un [[Child|figlio]] vivo
+rallegrò il più entusiasta dei padri. Ma per tutti questi
+primi giorni abbiamo la medesima vigile attività nelle cose private;
+come nella toccante storia del suo andare su e giù a grandi passi tutta la [[Night|notte]]
+per scacciare i [[dogs|cani]] ululanti affinché sua moglie potesse [[Sleep|dormire]].
+
+Ma c'è un'altra morale che riguarda l'uomo e la sua opera e che sorge
+in questo contesto da un episodio come quello del suo corteggiamento
+e [[Marriage|matrimonio]]. Fin dall'inizio lo troviamo che difende severamente e
+quasi pedantescamente ideali di parsimonia e d'[[Self|auto]]controllo. Avrebbe
+quasi potuto essere scambiato per un sostenitore di Smiles e di [[Self]]-Help,
+se non fosse per la sua seconda fase, nel sollevare un tumulto assai più temerario
+di quello di Wilkes e della Libertà. Ma egli rafforzò enormemente
+la sua causa per la Libertà con l'essere la vera antitesi di Wilkes.
+Giustificò il suo tumulto proprio perché non poteva essere scambiato
+meramente per vita tumultuosa e dissoluta. Nessuna persona sana di mente poteva pretendere che Cobbett
+simpatizzasse con la [[Poverty|povertà]] soltanto perché simpatizzava con la sregolatezza;
+perché simpatizzava con l'imprevidenza e l'irresponsabilità
+e l'imbecille sperpero. Nessuno poteva dire ch'egli fosse un mero ozioso
+che simpatizzava con gli oziosi, o uno scioperato che simpatizzava con gli scioperati,
+o un uomo che amava l'ignoranza e preferiva gli ignoranti.
+Non era neppure un uomo come Byron o Burns, il cui sincero [[Love|amore]]
+per la libertà pubblica poteva essere confuso con un [[Love|amore]] per la licenza privata.
+La sua accusa contro l'industrialismo era immensamente rafforzata dal fatto
+ch'egli stesso era del tutto tagliato per essere l'apprendista industrioso.
+Quando diceva che migliaia d'uomini non erano soltanto sfortunati ma ingiustamente oppressi,
+lo diceva con l'autorità di chi avrebbe potuto assai [[Well|bene]] essere
+il centesimo uomo fortunato che era l'unica [[Hope|speranza]] della competizione industriale.
+Egli, che era così palesemente un uomo [[Self|auto]]didatta, avrebbe di certo potuto essere
+un [[Self-Made Man|uomo che s'è fatto da sé]]. Almeno ne aveva più probabilità di
+quelle migliaia cui si diceva di vivere solo per quella remota possibilità.
+Quando diceva che la possibilità era senza valore era un testimone
+ragionevole e valido; quando diceva che la maggior parte degli uomini era ingiustamente
+equipaggiata per la lotta, era meglio equipaggiato della maggior parte.
+Fu un signor Smiles assai più saggio, egli stesso interamente capace d'[[Self|auto]]aiuto,
+a comprendere che i poveri erano davvero e veramente inermi. E questa seconda
+considerazione ritorna alla medesima [[Truth|verità]] della prima. Ritorna
+alla fondamentale [[Truth|verità]] dello stato moderno. Il nostro commercialismo
+non punisce i vizi dei poveri, ma le virtù dei poveri.
+Ostacola il carattere umano nel suo meglio e non soltanto nel suo peggio;
+e rende impossibili perfino i meriti che vanamente raccomanda.
+Il capitalismo ha impedito all'uomo povero di risparmiare più di quanto gli abbia
+impedito di spendere. L'ha trattenuto dal rispettabile
+[[Marriage|matrimonio]] più che dall'immoralità occasionale. Può darsi che il Socialismo
+minacci di distruggere la vita domestica; ma è il capitalismo che la distrugge.
+Questo è senza dubbio ciò che s'intende dicendo che il capitalismo è il più
+pratico dei due.
 
 
 
@@ -5476,6 +6292,135 @@ I take it that the air that Cobbett had to breathe was not only
 American but Anti-English.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+CAPITOLO II
+
+LA [[Tragedy|TRAGEDIA]] DEL PATRIOTA
+
+Un libro come questo non può essere che un nudo profilo d'una vita così piena
+come quella di William Cobbett. Nondimeno un profilo è necessario,
+ed è un profilo che non è spesso fornito, il vantaggio
+d'una portata tanto ridotta che essa può mettere a fuoco ciò che spesso pare
+informe e sconnesso, per l'essere troppo vasto per essere veduto.
+Cobbett produsse una vasta e voluminosa mole di lavoro; e vaste
+e voluminose moli di lavoro sono state prodotte su Cobbett.
+Gran parte di ciò è interessante e molto di ciò è vero; ma nulla
+di ciò è la [[Truth|verità]]. Ciò che occorre nella moderna [[Biography|biografia]] è
+qualcosa di semplice come la sola linea che segna la curva
+ampia o l'angolo netto in una carta meteorologica, quella linea ancora più
+semplice che corre intorno al naso o al mento è una caricatura.
+Vi sono state caricature a sufficienza di Cobbett ma esse
+caricaturarono i lineamenti sbagliati. Mancarono il punto.
+Il soggetto di Cobbett è stato mirabilmente semplificato;
+ma quando è stato semplificato, è stato semplificato in modo sbagliato.
+
+La storia di Cobbett fu una [[Tragedy|tragedia]]; una [[Tragedy|tragedia]] d'un certo tipo.
+Fu la [[Disillusionment|disillusione]] d'un patriota. Quella definizione
+abbraccia tutto ciò che è chiamato la sua sconcertante incoerenza.
+Non intendo insinuare che egli perdesse il suo patriottismo.
+Lo conservò di certo, e questa fu la [[Tragedy|tragedia]]. Ma cominciò
+con l'avere l'ordinario patriottismo ottimistico che guarda all'esterno,
+e questo mutò in un patriottismo pessimistico che guardava all'interno.
+Il suo atteggiamento più precoce e più allegro era di mera sfida;
+ma crebbe fino a divenire un atteggiamento assai più cupo quando passò
+seriamente dalla sfida alla difesa. Era come la differenza tra
+un uomo che soffia in una tromba e un uomo che esamina la condizione d'un fucile.
+Ma vi era anche legato tutto l'affare del moderno
+problema economico; dell'[[Individualism|individualismo]] industriale che produsse
+il pericolo proletario; in breve, l'intero problema dell'Inghilterra moderna.
+Possiamo dire di Cobbett, come di più d'un grand'uomo, che alcuni
+dei più importanti episodi della sua vita accaddero dopo la sua morte.
+Ma la [[Truth|verità]] da cogliere a questo stadio è la [[Truth|verità]] su questa transizione
+da una sorta di nazionalismo centrifugo, che era gaio e perfino sfacciato,
+a una sorta di nazionalismo centripeto che era [[Grave|grave]] e perfino tetro.
+Uno scrittore moderno, che rassomiglia a Cobbett solo per aver provato che il più alto
+genio letterario può combinarsi con la pubblicità e il giornalismo popolare,
+ha intitolato uno dei suoi libri di saggi Un inglese guarda il mondo.
+Sarebbe calzato assai [[Well|bene]] ai primi saggi di Cobbett.
+Ma venne il [[Time|tempo]] in cui una più profonda, una più oscura, una più devastante esperienza
+avrebbe potuto recare il titolo: Un inglese guarda l'Inghilterra.
+
+Il primo fatto riguardo a questa prima fase è che il patriottismo
+di Cobbett era l'appassionato patriottismo dell'[[Exile|esule]].
+Egli andò in [[America]] mentre era ancora assai giovane; sicché perfino
+i suoi ricordi dell'Inghilterra erano quasi ricordi d'[[Childhood|infanzia]].
+Avevano non solo l'incanto della distanza, ma l'incanto di
+cui scrisse Wordsworth, la gloria e la freschezza di [[A Dream|un sogno]].
+Si supponeva che le isole dei beati giacessero a occidente
+come Atlantide; ma ogni uomo che abbia davvero navigato fino ad Atlantide
+sa che le isole dei beati restano indietro.
+Certamente tutti gli isolani che siano mai partiti da queste
+isole verso la moderna Atlantide concordano nell'avere quell'[[Imagination|immaginazione]]
+che torna al nido volando all'indietro verso il sorgere del sole.
+Per quanto abbiano dissentito tra loro, concordano tutti
+in questo. Forse l'unico punto di raduno per tutti i Britanni
+è che i loro [[songs|canti]] in [[America]] sono stati [[songs|canti]] d'[[Exile|esilio]].
+Il più familiare di essi rappresenta l'irlandese col suo fagotto
+diretto a Filadelfia, o l'inglese che fischietta «Falmouth
+è una bella città» mentre percorre la strada di Baltimora,
+o lo scozzese che s'innalza a quell'alta nota non indegna
+delle acque di Babilonia.
+
+Ma i nostri cuori restano fedeli, i nostri cuori sono delle Highland,
+E noi nei sogni contempliamo le Ebridi.
+
+Tanto forte è una simile tradizione che le generazioni successive sogneranno
+ciò che non hanno mai veduto. Il nazionalismo è più intenso là dove
+la nazione è soltanto un nome. L'irlandese-americano è più irlandese dell'irlandese.
+Il lealista coloniale inglese è più leale d'un inglese.
+Gli amori e gli odii s'induriscono in quell'aria dura sotto quei limpidi
+cieli del mondo occidentale. Sono non ammorbiditi da tutti
+i dubbi e le critiche interne che vengono dall'essere sul posto.
+Ma in Cobbett questa ignoranza dei dettagli interni si combinava
+coi ricordi d'uno che aveva fin dall'infanzia un occhio
+per il dettaglio, specie per i dettagli dei campi e dei cieli.
+Ricordava l'Inghilterra come un grande vivaio verde; e si sentiva
+nostalgico di casa in America come un ragazzo mandato in un grande, spoglio, strano,
+scomodo collegio.
+
+In nessun luogo del mondo un inglese si sente tanto straniero
+quanto in America. Non necessariamente detesta l'America,
+e Cobbett stesso giunse ad amarla alla lunga.
+Semplicemente sente ch'essa è un luogo più straniero della Francia o delle Fiandre
+o dell'Italia; che è davvero l'altra faccia del mondo
+come l'altra faccia della luna. Ma se un inglese ancora
+si sente così, malgrado l'ipnotismo dei discorsi su
+una razza anglosassone e la speranza d'un'alleanza angloamericana,
+tanto più fu così quando Cobbett sbarcò in quello che era
+stato assai di recente territorio nemico. Egli incontrò non solo un'atmosfera
+aliena ma una raffica d'odio contro l'Inghilterra.
+
+Vi erano invero alcuni americani che simpatizzavano con
+l'Inghilterra rispetto alla Francia. Erano quelli raggruppati
+attorno a Hamilton, il quale, essendo dichiaratamente antipopolare nella sua
+politica, non era probabile che fosse assai popolare nella sua persona.
+Contavano un certo numero di puritani del New England; poiché quasi
+l'unica vera somiglianza tra il New England e la vecchia Inghilterra
+era che nessuno dei due sapeva raccapezzarsi con la Francia.
+Ma sebbene gli storici dividano l'opinione americana nel partito francese
+e nel partito inglese, sospetto che l'atmosfera
+della simpatia popolare fosse assai più francese che inglese.
+L'intero romanzo dell'America consisteva nella ribellione contro l'Inghilterra;
+salvo quella parte di esso che consisteva nel soccorso da parte della Francia.
+Nessuno che sappia come sono le leggende popolari potrebbe aspettarsi che la
+principessa prendesse d'un tratto le parti del drago contro san Giorgio.
+Era ben vero, naturalmente, che l'Inghilterra non era affatto
+soltanto un drago e la Francia non era affatto soltanto una santa.
+Ma nelle rivoluzioni abbastanza forti da rovesciare tutte le storiche
+autorità e creare una nuova nazionalità dev'esservi quella sorta
+d'impaziente semplicità che vede i caratteri in bianco e nero;
+e pochi uomini in quel momento avrebbero potuto persuadere una vera folla
+americana che l'Inghilterra non era così nera come la si dipingeva.
+Inoltre, gli uomini di quell'epoca non parlavano d'unità razziale;
+ed erano legati alla Francia da qualcosa come un'unità religiosa.
+Lasciar fuori il preciso credo democratico nel giudicare Jefferson e i suoi
+contemporanei è esattamente come lasciar fuori il maomettanesimo da Maometto.
+L'Inghilterra non credeva in quel credo democratico; ed essendo onesta
+in quei giorni, non finse per un istante di crederci.
+Ritengo che l'aria che Cobbett dovette respirare non fosse soltanto
+americana ma antinglese.
+
 
 
 <span class="atom-split" data-atom="chapter_03--part_02" data-title="William Cobbett — Chapter 2 (part 2)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="concept/nationalism_and_patriotism,concept/exile,form/biography,histref/america,setting/america,character/william_cobbett,character/thomas_paine,character/thomas_jefferson"></span>
@@ -5590,6 +6535,117 @@ He turned to his own Tory leaders, to Windham and the party of Pitt;
 for they were the natural saviours of the green countryside from
 this yellow fever of finance.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Fa parte del pittoresco combattimento di personalità che percorre
+tutta la sua vita il fatto che il suo primo bersaglio fosse, tra tutti
+gli uomini del mondo, il celebre Priestley, l'unitariano e amico degli
+ideali francesi o americani in Inghilterra.  Priestley era un tipo di
+quell'idealista i cui ideali sono puri ma appena un poco perversi; quel
+genere di internazionalista che riesce particolarmente antipatico ai
+nazionalisti.  La lieve superiorità nel tono di simili intellettuali
+verso il patriottismo popolare della loro ora suscitava in Cobbett
+una collera del tutto ignorante e incongrua eppure non malsana.
+Ciò che probabilmente rendeva il raffinato unitariano assai fastidioso
+al rozzo contadino del Surrey era l'idea di attaccare l'Inghilterra in
+America.  Poiché l'esilio agiva sul contadino del Surrey in tutt'altro
+modo.  Lo spingeva a rappresentare l'Inghilterra come una sorta di Eden
+dal quale lui e il dottor Priestley erano stati cacciati; solo che
+Priestley calunniava quel paradiso, e toccò a Cobbett difenderlo.
+In una serie di furibondi opuscoli con l'appropriata firma di Peter
+Porcupine, egli attaccò non solo i democratici inglesi ma in gran parte
+la democrazia americana.  È importante notare che il suo movente era
+molto più patriottismo che conservatorismo.  Si dice a volte che Cobbett
+cominciasse in puro conservatorismo; si parla di lui come di un Tory
+fin dall'inizio; ma anche fin dall'inizio la faccenda era più complessa
+di così.  Suo padre, il vecchio agricoltore, se era un Tory, era un Tory
+con idee proprie, poiché difendeva i ribelli americani; e Cobbett era
+andato in America la prima volta recando una lettera per il grande Thomas
+Jefferson.  Egli non difese l'Inghilterra perché essa era monarchica e
+lui era realista, o perché l'Inghilterra era aristocratica e lui uno
+snob, o perché l'Inghilterra era la patria del Toryismo e lui un Tory.
+Difese l'Inghilterra perché l'Inghilterra era attaccata ed egli era un
+inglese; e la sua vera collera era riservata agli altri inglesi che
+l'attaccavano, o che gli parevano non difenderla a sufficienza.
+Per questa ragione ingiuriò smodatamente il dottor Priestley, per questa
+ragione ingiuriò smodatamente Tom Paine, l'autore di The Age of Reason:
+scrivendone una amara e burlesca biografia, piena di innocenti menzogne:
+una storia con uno strano seguito.  Per questa ragione tenne conferenze
+alle stupite genti di quella terra occidentale sulla bellezza della
+Costituzione britannica, delle leggi britanniche, dei proprietari
+terrieri britannici, della politica militare britannica, di quasi tutto,
+in verità, per cui in seguito fu celebre nel dilaniare e trascinare
+nel fango.
+
+Intanto la sua opera di pamphlettista andava facendosi sempre migliore;
+quei bizzarri studi di grammatica inglese negli angoli delle fredde
+caserme allo spuntar del giorno lo avevano addestrato non solo nella
+lingua ma nella logica; e la furiosa tenerezza dell'esilio gli dava
+ispirazione.  Verso la fine della sua visita americana mostrò la sua
+incontrollabile smania di ficcare il dito in ogni piatto denunciando un
+medico americano come ciarlatano.  Perse la causa e fu condannato a
+pesanti danni, sicché decise di lasciare il paese, lasciandosi dietro un
+discorso d'addio agli americani, uno dei congedi meno amichevoli che si
+possano trovare in letteratura.  Quest'ultima ingiustizia americana,
+come lui la vedeva, lo riconciliò finalmente con il suo paese; e fu in
+un fervore di romantica reazione a favore di tutto ciò che era inglese
+che l'esule rientrò in Inghilterra.  La crisi della sua vita cadde tra
+quell'ora e l'ora, circa diciassette anni più tardi, in cui la
+lasciò ancora una volta.
+
+I Tory d'Inghilterra, che facevano guerra ai repubblicani all'estero
+e ai radicali in patria, accolsero naturalmente il grande reazionario
+con un ruggito di benvenuto.  La figura più eminente del gruppo politico
+che lo accolse fu William Windham.  Egli era un bell'esemplare del vecchio
+aristocratico inglese; vale a dire, era un Whig più Tory dei Tory.
+Era un bell'esemplare del gentiluomo colto e dilettante; e perciò era
+abbastanza istruito da vedere che il demagogo incolto era un genuino
+uomo di lettere inglese.  Lui e i suoi amici diedero a Cobbett l'appoggio
+pratico necessario alla fondazione del celebre Cobbett's Register.
+Sarà bene osservare che il Cobbett's Register era davvero di Cobbett.
+Egli mantenne la sua indipendenza intellettuale, non strinse alcun patto
+di partito con Windham o chiunque altro:  anzi, rifiutò recisamente il
+denaro dai suoi amici in un modo quasi aspramente onorevole.
+Ma lui e Windham erano una cosa sola nell'entusiasmo con cui gettarono
+le loro energie nella difesa della Vecchia Inghilterra contro la
+Rivoluzione francese e i suoi simpatizzanti americani.
+Lo slancio e la spinta dei suoi trionfi americani portavano Cobbett
+avanti come una marea, ed egli poté ben sentire di essere al culmine
+delle sue fortune.  Fu proprio verso quel tempo che cose curiose
+cominciarono ad accadere.
+
+Per tutto il tempo in cui aveva vagato sulle nude praterie riarse sotto
+la dura luce bianca dei cieli occidentali, egli aveva ricordato gli alti
+campi verdi della fattoria di suo padre e le nubi e il conforto della
+pioggia.  Per lui, ancor più che per Nelson, e in altro senso, c'era
+qualcosa di unito e quasi di intercambiabile nei tre termini
+Inghilterra, casa e bellezza.  Ma il suo non era il semplice amore di un
+paesaggista, bensì l'amore di un proprietario terriero e di un lavoratore
+della terra; ed egli si chinava sempre più intento sulla pratica e sui
+particolari dell'agricoltura che aveva conosciuto da fanciullo.
+Mentre guardava i raccolti o i fienili o i frutteti, pareva che il cipiglio
+sul suo scaltro volto quadrato si facesse dapprima pensoso e poi dubbioso.
+Le cose non andavano bene; e a poco a poco egli cominciò a elaborare nella
+propria mente un'idea della causa.  Per esempio, era essenziale alla vera
+agricoltura che l'agricoltore fosse sicuro sulla sua terra.
+Se non era legalmente e letteralmente un contadino proprietario, doveva
+almeno essere radicato come un contadino.  In quel momento i contadini
+venivano sradicati come erbacce invece di essere radicati come alberi.
+I proprietari rifiutavano di concedere i lunghi contratti d'affitto che
+davano uno status a una piccola proprietà terriera; li frazionavano in
+termini più brevi, e spostavano e sfrattavano per affitti più alti.
+E quando cercò la causa di ciò, credette di averla trovata nella nuova
+fluttuazione dei prezzi e persino del valore del denaro; nella carta
+moneta che a lui simboleggiava tanta insicurezza e imbroglio e disonestà.
+Ciò significava la distruzione non solo del vecchio tipo di piccolo
+proprietario ma del vecchio tipo di gentiluomo di campagna.  Agenti di
+cambio ed ebrei e speculatori venuti dalla città stavano scacciando la
+nobiltà terriera nazionale; egli si sarebbe appellato ai grandi capi
+del partito dei possidenti perché li salvassero.  Si rivolse ai suoi
+propri capi Tory, a Windham e al partito di Pitt; poiché essi erano i
+naturali salvatori della verde campagna da questa febbre gialla della
+finanza.
 
 
 
@@ -5706,6 +6762,112 @@ the most genial and humane of all forms of hatred; their passionate
 and personal hatred of people they had never seen.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+C'è talvolta in una grande commedia una scena di ironia quasi tragica,
+quando qualche personaggio ingenuo entra, ansioso, loquace e tutto pieno
+del suo argomento, e lo riversa con piena fiducia davanti a un gruppo di
+ascoltatori.  Passa molto tempo prima che persino lo spettatore si accorga
+che gli ascoltatori sono ben silenziosi.  Passa assai più tempo prima che
+se ne accorga chi parla.  Passa molto tempo prima che persino un cenno
+lo induca a guardare, dapprima con dubbio e infine con orrore, il
+significativo e sinistro sorriso che aleggia debolmente su tutti quei
+volti che non rispondono.  Quello fu il genere di scena che si verificò
+nella storia quando Cobbett venne di corsa dai suoi amici Tory con il suo
+grande piano per salvare l'agricoltura inglese.  Egli non comprese quel
+represso sogghigno sul volto contratto di Pitt; quell'ombra di qualcosa
+come vergogna che forse posò per un istante sul volto più generoso di
+Windham.  Possiamo immaginare l'uno che guardava il soffitto e l'altro
+il pavimento; e nessuno dei due che rispondesse parola.
+
+Poiché William Cobbett in realtà non aveva la più pallida idea di che
+razza di uomini servisse, o che sorta di governo stesse sostenendo.
+Se alla fine Cobbett trovò che i Tory non erano soddisfacenti, fu per la
+semplicissima ragione che scoprì che i Tory non erano Tory.  Potevano
+avere il desiderio di restaurare il vecchio regime in Francia, in gran
+parte perché ciò avrebbe significato una Francia meno vigorosa e vittoriosa
+che sotto il nuovo regime di Napoleone.  Ma non avevano il minimo desiderio
+di salvare il vecchio regime in Inghilterra.  E perché avrebbero dovuto?
+Uomini come Pitt e Perceval e gli altri erano più invischiati nel mondo
+nuovo di quanto lo fossero mai stati in quello vecchio; ed erano in assai
+più stretto contatto con gli agenti di cambio che con gli agricoltori.
+Soprattutto non avevano la minima idea di che cosa parlasse Cobbett quando
+parlava di dare all'agricoltore la stabilità di un piccolo proprietario.
+Le sole leggi che riuscivano a immaginare applicabili alla vita rurale
+erano le leggi sulla caccia.  A quello scopo, forse, era desiderabile che
+la campagna continuasse a esistere.  Di rado era possibile stanare una
+lepre in Lombard Street, e assai scomodo abbattere una pernice in
+Threadneedle Street.  Per il resto non c'era in verità alcuna ragione
+perché Lombard Street e Threadneedle Street non dovessero estendersi fino
+ai confini della terra.  La classe istruita in Inghilterra sapeva molto
+di più sul preservare i fagiani che i contadini:  era un'acca che stavano
+ben attenti a non far cadere.
+
+Le biografie di Cobbett dicono comunemente che egli cominciò la vita come
+Tory e in seguito mutò le sue idee politiche e divenne una sorta di
+radicale.  Le proporzioni di questo quadro sono fuorvianti.  Cobbett non
+fu mai qualcosa che un nemico avrebbe chiamato voltagabbana o un amico
+avrebbe chiamato tizzone strappato al fuoco.  Non c'è alcuna netta frattura
+nella sua vita, che spezzi la spina dorsale stessa dei suoi princìpi;
+quale c'è nella vita di un penitente o nella vita di un traditore.
+Non è vero che egli appartenne successivamente a due partiti:  è assai
+più vero dire che non appartenne mai a nessuno.  Ma nella misura in cui
+c'erano in lui alla fine elementi del radicale, ve n'erano state tracce
+fin dal principio.  E nella misura in cui in un certo senso egli era un
+Tory all'inizio, rimase un Tory fino alla fine.  La verità è che la
+confusione non era in Cobbett ma nei termini Tory e radicale.  Non sono
+termini esatti; non sono affatto esatti quanto lo era Cobbett.  La sua
+posizione generale è intrinsecamente ben chiara e, per quanto vanno gli
+uomini, ben coerente.  Erano i Tory a non avere le idee chiare sul Toryismo.
+Erano i radicali a essere incoerenti sul radicalismo.  Non intendo dire che
+egli non avesse incoerenze; ne aveva moltissime.  Aveva tutte quelle
+incoerenze di mera variazione verbale che sono quasi immancabili in un uomo
+che si getta con eguale veemenza a dimostrare molte diverse proposizioni in
+molti diversi contesti.  Ma le incoerenze di Cobbett erano assai
+superficiali; assai più superficiali dei mutamenti nella maggior parte
+delle carriere politiche.  L'uomo che recitò la parte di Peter Porcupine
+in America non differiva tanto dall'uomo che portò le ossa di Tom Paine
+come sacre reliquie in Inghilterra quanto il Disraeli del Revolutionary
+Epick differiva dal Disraeli della Primrose League, o il Gladstone che era
+la speranza dei severi e inflessibili Tory dal Gladstone che era l'idolo
+dei radicali e dei non conformisti.
+
+Cobbett fu un uomo assai coerente, in ogni senso essenziale.  Erano i
+partiti che lo rivendicavano o lo ripudiavano a essere del tutto incoerenti.
+Per comprendere il punto è necessario riferirsi brevemente alla storia di
+quei partiti.  C'era stata un tempo qualcosa come una vera guerra tra Whig
+e Tory.  Era la vera guerra tra aristocrazia e monarchia; due nemici
+mortali che hanno lottato attraverso tutta la storia.  Ma in Inghilterra
+aveva vinto l'aristocrazia.  Le storie ufficiali ci dicono che la Corona
+passò dalla Casa degli Stuart alla Casa di Brunswick.  Ma in realtà, mentre
+gli Stuart la perdettero, i Brunswick non la ottennero mai.  L'antica e
+originale Corona che gli Stuart avevano portato fu gettata via insieme al
+Gran Sigillo, quando Giacomo II fuggì in Francia.  Il giovane Giorgio III
+aveva in verità tentato di riprenderla con l'aiuto di un Tory scozzese;
+proprio come il giovane Carlo Edoardo aveva tentato di riprenderla con
+l'aiuto dei giacobiti scozzesi.  Ma non fu mai ripresa.  Una lealtà verso
+di essa indugiava negli ambienti della classe media e specialmente
+letterari; come in Johnson e Goldsmith e in molti dei più saggi e migliori
+pensatori individuali del Settecento.  Cobbett venne un poco troppo tardi
+nel tempo e un poco troppo in basso nella scala sociale per toccare questa
+vecchia e intelligente classe media Tory prima che si estinguesse.
+Non so se egli si rendesse conto di quanto spesso visitava il Villaggio
+Abbandonato nel corso delle Rural Rides.  Johnson lo considerava con una
+di quelle animosità accidentali che giustificavano in qualche misura la
+sua fama di pura malevolenza.  Cobbett aveva un pregiudizio contro Johnson;
+il che è tanto più divertente perché era esattamente il genere di pregiudizio
+che Johnson avrebbe potuto avere contro di lui.  Cobbett considerava Johnson
+come un mero pedante pensionato; e Johnson molto probabilmente avrebbe
+considerato Cobbett come considerava Wilkes, più o meno in astratto come un
+sudicio demagogo.  Tante cose univano questi due grandi inglesi, e non
+ultima la loro istintiva incarnazione dell'Inghilterra; erano simili nel
+loro benevolo bullismo, in qualcosa di privato e pratico, e assai
+pertinente nella loro tenerezza individuale, nella loro burbera simpatia
+per la tradizione cattolica, nei loro cupi dubbi sui tempi a venire.
+Ma soprattutto erano uniti dalla cosa che li divideva:  la più geniale e
+umana di tutte le forme di odio; il loro appassionato e personale odio
+verso persone che non avevano mai visto.
+
 
 
 <span class="atom-split" data-atom="chapter_03--part_04" data-title="William Cobbett — Chapter 2 (part 4)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="motif/wheel,motif/flag,concept/tradition,concept/anti_industrialism,concept/nationalism_and_patriotism,concept/class_conflict,form/biography,histref/the_industrial_revolution,setting/rural_england,character/william_cobbett"></span>
@@ -5812,6 +6974,102 @@ And if it be a glory to have created the modern industrial state,
 they can claim a very great share in it.  Cobbett did not grudge
 it to them.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+In ogni caso, Cobbett nacque molto dopo che la vera monarchia Tory era
+morta, ed egli non ne comprese mai del tutto la tradizione.  Se crebbe
+Tory e in un certo senso rimase Tory, era in tradizioni alquanto più
+vaghe che egli era tradizionalista.  Amava le vecchie usanze e la
+continuità della vita familiare che si trovano nella campagna; amava
+l'Inghilterra in un senso che era assai reale e purtroppo assai raro.
+Voglio dire che era un amore positivo che guardava all'interno, verso
+l'amata; e non semplicemente un amore negativo che guardava all'esterno
+in cerca di rivali o di remote imitazioni.  Se questa sorta di amore per
+ciò che è nazionale e normale va detta conservatrice, certo quel carattere
+era radicato in lui.  Ma ciò che veniva chiamato il suo radicalismo era
+ugualmente radicale.  Egli comprese al lume della natura le ultime
+deduzioni degli speculatori democratici nella misura in cui esse possono
+lealmente dedursi.  Ma le ultime conclusioni cui i repubblicani potevano
+giungere erano soltanto gli antichi assiomi su cui le monarchie erano state
+originariamente fondate.  Erano dimenticate soltanto perché erano
+fondamentali.  Cobbett aveva una grande facoltà di non dimenticare le
+fondamenta, come la maggior parte di noi dimentica le fondamenta di una
+casa, specie se camminiamo sul tetto.  Aveva una specie di semplicità
+assai virile:  era fedele ai truismi.  Non si vergognava mai dell'aspetto
+dimesso di una verità umile e fedele.  Cobbett credette sempre davvero nei
+princìpi popolari, benché non vedesse alcuna ragione di parlar greco e
+chiamarli princìpi democratici.  Non riusciva a vedere che il nuovo
+progresso industriale avesse alcunché a che fare con questi princìpi; e
+aveva perfettamente ragione.  Sapeva che il vero canto rivoluzionario aveva
+riguardato campi e solchi, e non ruote e rotaie.  Sapeva che la Rivoluzione
+era cominciata con il pane.  Non era minimamente impressionato dal suo
+finire in fumo.  L'uomo che un tempo era stato un rivoltoso che sventolava
+la bandiera rossa in una rivoluzione può ora essere un guardiano che
+sventola la bandiera rossa su una linea ferroviaria.  Ma questo non
+convincerà il riformatore realista che una linea ferroviaria sia la stessa
+cosa di una rivoluzione.
+
+Quando il radicalismo fu preso dentro la ruota che era il simbolo
+dell'industrialismo, la scuola opposta tese nella direzione contraria, per
+quel lieve movimento che fa l'equilibrio di un sistema di partiti.
+I Tory potevano atteggiarsi a partito agricolo; sia pure un partito di
+gentiluomini di campagna e non di contadini.  Ma non era più una vera
+guerra, come la guerra tra il Parlamento e il Re, in cui il Parlamento
+aveva finalmente trionfato.  I nuovi Whig e Tory erano soltanto due diverse
+sfumature dello stesso colore, come il blu scuro dell'università Tory e il
+blu chiaro dell'università Whig.  Erano al più soltanto due diversi tipi
+della stessa oligarchia.  Erano spesso soltanto due diverse generazioni
+della stessa oligarchia.  L'una stava ancora facendo denaro in città,
+mentre l'altra aveva fatto abbastanza denaro da vivere in campagna.  Che
+Cobbett tagliasse trasversalmente questa sorta di distinzione di puro
+sentimento e associazione non è un segno della sua incoerenza ma della sua
+coerenza.  Egli sapeva ciò che voleva e i Whig e i Tory offrivano soltanto
+due ragioni leggermente diverse per non darglielo.  Non c'era alcuna logica
+nelle cose che li tenevano separati, o nelle cose che accomunavano.  Non
+c'era nulla della natura di una sequenza razionale nell'idea di un partito
+che stesse per l'aristocrazia e la terra, e l'altro per la democrazia e le
+macchine.  Era insensato come se un partito fosse associato alla giustizia
+e al manzo, mentre l'altro fosse tutto dedito alla misericordia e al montone.
+Ed era come se si fossero uniti nell'inveire contro l'incoerenza di una
+persona di buon senso, che desiderasse il trattamento più misericordioso
+dei buoi o la più giusta distribuzione delle costolette di montone.
+Ora, ecco perché è vitale a questo punto rendersi conto della vera natura
+del regime Tory che si estende a tratti da Pitt a Peel.  Amici e nemici
+del pari lo hanno trattato come un regime reazionario; ma ciò è soltanto
+perché i fatti che lo riguardano non sono stati affrontati.  Pitt e i suoi
+seguaci non erano minimamente Tory nel senso di tradizionali.  Erano Tory
+soltanto nel senso di tirannici.  Se il tentare di distruggere tutte le
+antiche libertà costituzionali fa di un uomo un conservatore, allora certo
+Pitt e Castlereagh erano conservatori esemplari.  Ma sarebbe difficile
+dire che cosa mai conservassero.  Non c'era una sola tradizione storica,
+non un solo ricordo umano del passato, per cui essi mostrassero mai la più
+pallida simpatia.  La verità è che tutto questo passaggio della storia sarà
+letto follemente a rovescio a meno che non si comprenda chiaramente che
+Pitt e Peel erano figure altamente moderne e puramente mercantili, che
+contribuirono a fondare il mondo puramente moderno e mercantile.
+Fu così Pitt a iniziare la degradazione e distruzione di una genuina
+nobiltà terriera, vendendo titoli nobiliari a destra e a manca a ogni
+prestatore su pegno o macellaio di maiali che li pagasse.  Se mai vi furono
+uomini responsabili di aver consegnato il paese ai villani, fu il partito
+dei gentiluomini che sventolò l'Union Jack dopo Waterloo.  Fu così in tutti
+gli aspetti più decenti o difendibili del commercialismo.  In quel senso
+Pitt non si curava affatto dell'opinione del Country Party; e nemmeno
+dell'opinione del Paese.  Ciò di cui si curava era l'opinione della City.
+La sua vera guardia del corpo era un battaglione di banchieri.  Si è spesso
+fatto notare che egli aveva molti dei meriti di un liberale; aveva anche i
+vizi di un liberale, e specialmente le illiberalità di un liberale.
+Pitt fu il vero fondatore della Scuola di Manchester.  Peel non fece che
+seguire la vera politica del suo partito aiutandone infine il trionfo.
+Parliamo dell'improvvisa accettazione del libero scambio da parte di Peel;
+ma sarebbe più esatto parlare della sua temporanea accettazione del
+protezionismo.  Come tipo di essere umano, egli era sempre stato puramente
+commerciale, e minimamente conservatore.  In una parola, questi uomini
+combatterono in effetti la democrazia all'estero e la perseguitarono in
+patria.  Ma non difesero l'aristocrazia, tanto meno la monarchia.  Ciò che
+fecero fu di stabilire la plutocrazia; e principalmente una plutocrazia di
+parvenu.  E se è una gloria aver creato il moderno stato industriale, essi
+possono rivendicarne una parte assai grande.  Cobbett non gliela invidiava.
 
 
 
@@ -5973,6 +7231,145 @@ be prepared to make allowances; as much as when we see him
 swaying rather blindly under this first blow.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+In linea di massima, se c'era un uomo destinato a essere l'antitesi di
+William Cobbett, quello era William Pitt.  Chiunque si aspettasse qualcosa
+di diverso, solo perché i due uomini erano stati a un certo punto
+classificati come Tory, è proprio la persona incapace di comprendere la
+coerenza intellettuale.  Cobbett aveva sostenuto Pitt soltanto perché
+pensava che il governo di Pitt rappresentasse la Vecchia Inghilterra; ma
+non era così.  Cobbett non sostenne mai il partito di Pitt dopo aver scoperto
+che non era così.  È vero che, allontanandosi sempre più da Pitt e dai Tory,
+egli appariva necessariamente avvicinarsi a Brougham e ai radicali, che
+nemmeno lo facevano.  Ma la più lieve conoscenza di ciò che disse di Brougham
+e dei radicali mostrerà che si trattava quasi sempre di un moto di repulsione
+e non di attrazione.  La sua preferenza per un partito qualsiasi era piuttosto
+troppo comparativa per essere lusinghiera.  Sarebbe stato ben poco lusinghiero
+per il signor Pitt sentirsi dire che la sua comparsa era parsa soltanto una
+sorta di sollievo dopo quella del dottor Rush, o per Lord Brougham dire che
+la sua compagnia pareva del tutto tollerabile a chi fuggiva da quella di
+Lord Castlereagh.  Ma le alleanze pubbliche di Cobbett, a differenza dei
+suoi affetti privati, di rado andavano molto oltre questo.  Può darsi che
+alla fine giungesse quasi a odiare l'Oratore Hunt; ma dubito che lo avesse
+mai davvero amato.  Windham sono incline a pensare che lo amasse davvero;
+e fece sinceri sforzi per spiegare a quel perplesso Tory che non c'era nulla
+di incompatibile con il Toryismo nelle sue perorazioni a favore del lavoro
+e della terra.  Rimase in questo atteggiamento incerto e negativo, più
+vicino ai radicali che non più radicale, quando accadde qualcosa che mutò
+ogni cosa; qualcosa che gli spezzò la vita in due nel mezzo come un colpo
+che spezza la spina dorsale.
+
+Inserì nel suo Register una protesta indignata contro la fustigazione di
+certi soldati inglesi sotto la guardia di mercenari tedeschi.  È essenziale
+rendersi conto che l'accento è sulla parola inglesi e sulla parola tedeschi.
+Egli non era semplicemente un umanitario che protestava contro la disumanità.
+Era un patriota che protestava contro i suoi compatrioti torturati per fare
+spettacolo agli stranieri.  Essendo un inglese assai genuino, non si curava
+di tutte le sciocchezze sugli alleati e i nemici, in confronto alla vera
+differenza tra inglesi e stranieri.  Anzi, per l'intera inclinazione della
+sua mente avrebbe sempre preferito i francesi ai tedeschi; e nessuno si
+sarebbe rallegrato più di lui di quella grande e giusta alleanza che
+determinò la caduta della Prussia.  In ogni caso stampò la sua protesta; e
+scoprì all'istante di aver toccato la molla che scagliò contro di lui
+un'intera, enorme macchina di distruzione.  Il grande governo Tory, che egli
+era tornato dall'America a servire, non aveva alcun dubbio su come dovesse
+trattare questa sorta di servizio patriottico.  Fu all'istante inchiodato
+con un processo, giudicato dinanzi alla consueta giuria addomesticata del
+Terrore Bianco, e infine condannato a due anni di prigione a Newgate,
+accompagnati da un'ammenda che significava la rovina.
+
+Cobbett fu sconvolto dal colpo; e sembra dapprima essersi ridotto alla
+disperazione.  Si dice che parlasse di abbandonare tutta la sua opera
+pubblica, poiché non poteva essere condotta senza coinvolgere la sua famiglia
+in una simile rovina.  Molto si è disputato sulla storia di una qualche
+disperata resa di questo genere che sarebbe stata comunicata al governo.
+Mi pare che il resoconto che Cobbett stesso dà dell'episodio sia
+probabilmente vero nell'insieme; tanto più che egli riconobbe francamente
+che la sua famiglia lo aveva una volta persuaso a questo passo:  del quale,
+disse, si era in seguito pentito.  Si parlò di una lettera che egli aveva
+ritirato e che sarebbe stata pubblicata con malizia.  È possibile:  ma tutta
+la storia sembra piuttosto confusa.  Certo Cobbett fu combattuto per tutta
+la vita con armi di una peculiare bassezza; una certa meschinità di spirito
+che è piuttosto propria di simili aristocrazie quando sono allarmate.  Fu
+quella meschinità di spirito a rubare e pubblicare lo scandaloso poema di
+Wilkes.  Fu quello spirito a sfruttare a fini politici la colpa privata di
+Parnell.  Cobbett ne soffrì abbastanza spesso; ma le sue lagnanze in questo
+caso sono piuttosto caotiche e incoerenti.  È assai caratteristico di Cobbett
+che persino nel ripudiare quell'atto egli argomentasse in sua difesa;
+facendo notare che non ci sarebbe nulla di immorale nel fatto che un uomo
+privato, per privato affetto, abbandoni un'opera pubblica che nessuno
+potrebbe esigere da lui come un dovere.  Il suo argomento era abbastanza
+solido; ma non dava un quadro reale della sua situazione complessa e confusa.
+Per comprendere il significato dell'intera faccenda, dobbiamo comprendere
+due cose che sono pertinenti a tutta la sua vita; benché la prima si
+riferisca più particolarmente a questo passaggio anteriore della sua vita.
+Sarà bene chiarire questi concetti prima che questo capitolo si concluda.
+
+Primo, si deve comprendere chiaramente che Cobbett non era ancora un
+rivoluzionario; anche se era già un radicale, era ancora inconsciamente il
+patriota Tory che si era fatto un nome facendo guerra a tutti i
+rivoluzionari.  Egli aveva in verità tenuto il suo giornalismo inglese
+indipendente dai partiti; ma se originariamente aveva avuto un qualche
+partito, era il partito Tory.  In altre parole, la sua delusione era
+cominciata, ma egli aveva ancora abbastanza ammirazione per poter essere
+deluso.  Era ancora sufficientemente ortodosso da essere turbato dal dubbio.
+Poi venne lo scandaloso e incredibile urto della Costituzione che egli un
+tempo aveva difeso e che si volgeva d'un tratto ad accasciarlo istupidito.
+Non c'è da meravigliarsi se, per il momento, essa lo accasciò istupidito.
+Ma è leggere l'ultima lucida collera del Cobbett radicale entro i primi
+oscuri e confusi dubbi del Cobbett conservatore l'aspettarsi che egli avesse
+affrontato la sua prima prova come affrontò la sua seconda prova.  Il suo
+vero spirito rivoluzionario non fu la causa della sua prigionia; ne fu il
+risultato.
+
+Gli sciocchi che misero Cobbett in prigione probabilmente credevano
+davvero di schiacciare un giacobino, quando in realtà ne stavano creando
+uno.  E stavano creando un giacobino a partire dal migliore antigiacobino
+dell'epoca.  A prescindere da tutte le etichette politiche, stavano
+fabbricando il più grande ribelle della storia inglese a partire dai
+materiali meno promettenti.  Forse egli fu l'unico vero ribelle mai
+fabbricato con materiali puramente inglesi.  Ma fu tanto più un ribelle
+furioso in quanto fu un ribelle riluttante.  Poiché l'uomo che misurava a
+passi quella cella, come un leone in gabbia, non aveva nulla del distacco
+dato o dall'idealismo o dal cinismo.  Non aveva ancora appreso del tutto ad
+aspettarsi l'ingiustizia; non era ancora sopravvissuto alla delusione,
+l'oscura sorpresa della giovinezza.  L'uomo in quella cella non era uno
+stoico, addestrato nella logica latina di Condorcet o Carnot, che vedeva le
+proprie virtù come parte del sistema ideale della Repubblica e le proprie
+sofferenze come parte dell'inevitabile sistema dei Re.  Non era un martire
+irlandese, educato a respirare l'aria stessa della tragedia e della tirannia
+e della vendetta, e vivente in una nobile ma innaturale esaltazione di odio
+tutto spirituale.  Come la maggior parte degli uomini di tipo assai inglese,
+era smodatamente amante della felicità.  E la felicità per lui era concreta
+e non astratta; era la sua propria fattoria, la sua propria famiglia, i suoi
+propri figli.  Come la maggior parte degli uomini di tipo assai virile, era
+probabilmente in buona misura dominato dalla moglie.  E la moglie e la
+famiglia si erano evidentemente aggrappate con tutto il loro peso per
+trascinarlo indietro dal suo precipizio politico.  Ma il peggio era che egli
+soffriva per un'idea; e ancora non sapeva bene quale idea.  È qui che questo
+grande inglese, irato e sconvolto, differiva dagli stoici francesi o dai
+patrioti irlandesi.  Essi si appellavano agli dèi contro i re, alle idee
+contro i fatti; ma all'inglese pareva che il suo proprio dio e re lo avessero
+condannato.  Essi vedevano cieli sereni sopra un mondo confuso; ma era su di
+lui che era caduto il suo proprio cielo.  Egli aveva in verità nella mente
+tutto quel vulcanico amalgama di antiche lealtà e simpatie popolari che
+sconcerta lo studioso delle etichette di partito; ma era ancora nella sua
+mente subconscia.  Non aveva ancora un credo come Robespierre o Jefferson o
+O'Connell avevano un credo.  In realtà egli non soffriva per un'idea:
+soffriva per un istinto.  Ma l'istinto gli pareva parte naturale di quell'
+ordine naturale che gli aveva d'un tratto scatenato addosso una vendetta
+innaturale.  Nella misura in cui originariamente aveva creduto in qualcosa,
+era nelle autorità che lo avevano gettato in carcere.  Nella misura in cui
+aveva un credo, era stato la Costituzione che lo condannava come un
+malfattore.  Egli aveva agito per un impulso patriottico; e il patriottismo
+lo aveva punito per essere stato patriottico.  Di tutta questa prima
+transizione di smarrimento si deve tener conto; ma quando se ne è tenuto
+conto, rimane qualcos'altro.  Persino quando la sua testa si fu schiarita e
+il suo credo consolidato, rimaneva in lui qualcosa per cui il lettore deve
+essere pronto a fare la tara; tanto quanto quando lo vediamo vacillare
+piuttosto ciecamente sotto questo primo colpo.
+
 
 
 <span class="atom-split" data-atom="chapter_03--part_06" data-title="William Cobbett — Chapter 2 (part 6)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="archetype/hero,motif/well,concept/charity,concept/courage,concept/heroism,form/tragedy"></span>
@@ -6086,6 +7483,109 @@ land he looked at, dotted with peaceful houses and indifferent men,
 had the lines and slopes of a slow earthquake.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Cobbett era un particolare tipo umano; l'ultimissimo a essere compreso
+con equità in quei tempi quieti la cui virtù è la socievolezza e il cui
+vizio è lo snobismo.  Era il martire imperfetto.  Il modo moderno e
+popolare di dirlo è affermare che un uomo può essere davvero un martire
+senza essere in alcun modo un santo.  La verità più sottile è che egli può
+persino essere un santo e avere pur sempre quel genere di imperfezione.
+Il primo dei santi cristiani fu in quel senso un martire assai imperfetto.
+Egli infine subì il martirio per un Maestro che aveva maledetto e rinnegato.
+Ciò segna il tremendo realismo della nostra religione:  i suoi eroi non
+avevano difetti eroici.  Non avevano quei vizi byroniani che possono
+atteggiarsi quasi a virtù.  Quando dicevano di essere miseri peccatori,
+era perché osavano davvero confessare i miseri peccati.  La tradizione
+narra che il santo in questione chiese effettivamente di essere crocifisso
+a testa in giù, come per farsi mera parodia di un martire.  E c'è qualcosa
+della medesima sacra capovolgitura nella strana fantasia per cui egli è
+perseguitato in tutta l'arte e la leggenda agiografica dal simbolo del suo
+fallimento.  Il canto di un gallo, che è divenuto un modo di dire per
+insolenza, in questo caso è divenuto in realtà un emblema di mitezza.  Roma
+ha innalzato il gallo di Pietro più in alto dell'aquila di Cesare, non per
+predicare l'orgoglio ai re ma per predicare l'umiltà ai pontefici.  Il gallo
+canta in eterno affinché il santo non canti mai.
+
+Cobbett era un martire assai più imperfetto; poiché visse e morì a una luce
+assai più imperfetta.  Ma questa è la contraddizione che spiega tutte le sue
+contraddizioni.  Il suo coraggio non era coerente, completo, cosa che si
+svolge secondo un principio perfettamente chiaro.  La sua statura eroica non
+era propriamente o perfettamente proporzionata, era semplicemente eroica.
+Talvolta cadeva al di sotto di sé stesso; ma era perché aveva un ben più
+alto e arduo modello di virilità di quanto avesse la maggior parte degli
+uomini, specie gli uomini che lo circondavano.  Iniziava compiti che non
+sempre portava a termine; assumeva posizioni avventate che a volte trovava
+insostenibili.
+
+Più d'una volta nella sua carriera interviene un elemento di anticlimax e di
+bathos, di cui il mondo troverà facile ridere.  Ma il mondo non avrà alcun
+diritto di ridere.  Nelle vite della maggior parte di noi non c'è simile
+anticlimax semplicemente perché non c'è climax.  Se non abbandoniamo quei
+compiti è perché non li tentiamo; e non siamo crocifissi a testa in giù
+perché non abbiamo alcuna intenzione di essere crocifissi affatto.
+L'ordinario sofista o sadduceo, passando davanti alla grottesca crocifissione,
+non avrebbe alcun diritto di schernire il martire con il canto del gallo.
+L'ordinario politico o scrittore politico del tempo di Cobbett o del nostro
+non aveva alcun diritto di schernire le incoerenze di Cobbett.  L'intero
+disegno e modello della sua vita era più alto e più duro del loro, anche del
+migliore di loro.  Uomini come Bentham e Brougham erano sinceri riformatori
+nel senso ordinario.  Uomini come Macaulay e Mackintosh erano buoni uomini
+nella maniera normale.  Ma servivano il loro mondo; non si proposero mai di
+combattere il mondo intero come fece Cobbett.  Buoni e cattivi allo stesso
+modo, sono come civili seduti a casa a criticare un soldato dilaniato e
+scioccato dalle granate.  Non c'è particolare disonore nell'essere un civile;
+benché ve ne possa essere nell'essere un civile ingeneroso.
+
+Un esempio può illustrare ciò che si intende con il paragone.  Cobbett si
+fece gettare in un carcere comune per aver protestato contro la fustigazione
+di soldati britannici nel mezzo della guerra napoleonica; in seguito andò in
+America per evitare di essere gettato di nuovo in prigione.  Macaulay, quasi
+una generazione più tardi, in tempo di pace, quando l'umore generale era
+assai più umanitario, ebbe l'ordinario compito ufficiale di scusare
+fustigazioni flagrantemente selvagge dello stesso genere, semplicemente
+perché si dava il caso che fosse Segretario alla Guerra e che lo spavaldo
+Lord Cardigan fosse Comandante delle Forze a Londra.  Nessuno sano di mente
+chiamerebbe Macaulay un uomo crudele.  Egli semplicemente si considerava un
+buon uomo di partito, che cavava il meglio da una brutta causa, come parte
+dei suoi meno gradevoli doveri parlamentari.  Il suo biografo, Sir George
+Trevelyan, certamente un uomo assai liberale e umano, non ne esprime alcuna
+particolare sorpresa; e nessuno provò alcuna particolare sorpresa.  La maggior
+parte delle persone probabilmente lo considerò come noi consideriamo lo
+scomodo dovere di un avvocato, che deve minimizzare gli atti di un mostro che
+ha torturato bambini.  Faceva parte della routine, delle regole del gioco,
+dell'andazzo del mondo.  Ma l'uomo che accetta ogni cosa e difende tali cose
+non è nello stesso mondo dell'uomo che rischia ogni cosa, o anche qualsiasi
+cosa, per denunciarle.  Possiamo ben dire di Macaulay ciò che egli stesso
+disse di Cranmer:  «Non è gran condanna per un uomo dire che non possedeva
+un'eroica fortezza d'animo.»  E non è gran condanna per lui dire che non
+giungerà mai a mille miglia dall'uomo che possiede un'eroica fortezza
+d'animo, sia pure per un istante.
+
+Poiché se l'uomo comune o convenzionale non va condannato per non essere
+riuscito a essere un [[Hero|eroe]], ancor meno l'altro uomo va condannato
+per essere riuscito a essere mezzo [[Hero|eroe]] o nove decimi di un [[Hero|eroe]].
+Il martire imperfetto può essere giudicato dal martire perfetto, ma non da
+chiunque altro; e il martire perfetto avrà probabilmente la [[Charity|carità]]
+tanto [[Well|quanto]] la pazienza del santo perfetto.  Nessuno pretenderà
+che Cobbett avesse la pazienza del santo perfetto.  Non aveva abbastanza
+[[Charity|carità]], benché ne avesse più di quanto molti potrebbero supporre,
+specie le persone che si fanno un punto d'onore di essere caritatevoli verso
+i ricchi.  È vero che persino il suo [[Heroism|eroismo]] era incalcolabile e
+inconseguente; ma la questione della proporzione e persino della quantità
+non tocca la questione della qualità.  Un solo momento del [[Courage|coraggio]]
+di Cobbett è di una qualità diversa da un'intera vita di buon senso di
+Macaulay.  Macaulay, nella sua vita come nella sua [[logic|logica]], non fu
+nulla di peggio che superficiale.  Fu la [[Tragedy|tragedia]] di Cobbett
+l'essere fondamentale.  Di tutti i nostri critici sociali egli fu di gran
+lunga il più fondamentale.  Non poteva fare a meno di vedere una lotta di
+princìpi primi abbastanza mortale da sgomentare qualsiasi combattente.  Non
+poteva fare a meno di cogliere un male troppo grande perché la maggior parte
+degli uomini lo cogliesse, [[Alone|figuriamoci]] resistervi.  Era come se
+gli fosse stata data una spaventosa visione, in cui l'intera terra che
+guardava, punteggiata di case tranquille e uomini indifferenti, avesse le
+linee e i declivi di un lento terremoto.
+
 
 
 <span class="atom-split" data-atom="chapter_03--part_07" data-title="William Cobbett — Chapter 2 (part 7)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="archetype/hero,motif/memory,motif/soul,concept/charity,concept/doubt,concept/faith,concept/truth,character/cranmer"></span>
@@ -6160,6 +7660,71 @@ the country like a wandering bell, of incessant anger and alarum;
 till men must have wondered why, when it was in their power,
 they had not cut it out.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Macaulay, si è notato, disse di [[Cranmer]] che non lo si poteva biasimare
+per non essere un [[Hero|eroe]] e un martire.  Ma nonostante ciò Macaulay
+lo biasimò non poco per essere un codardo e uno snob.  Cobbett disse di
+[[Cranmer]] che il solo pensiero che un simile essere avesse camminato sulla
+terra su due gambe bastava a far [[Doubt|dubitare]] il cervello vacillante
+dell'esistenza di Dio; ma che la pace e la [[Faith|fede]] rifluiscono di
+nuovo nell'[[Soul|anima]] quando ricordiamo che egli fu bruciato vivo.
+Cito il sentimento a [[Memory|memoria]]; ma quella era la sostanza
+dell'osservazione.  È un'osservazione tocca da una certa esagerazione.
+Non è un'osservazione contraddistinta primariamente da misura o precisa
+proporzione o dall'addolcimento della [[Truth|verità]] con la [[Charity|carità]].
+La critica di [[Cranmer]] fatta da Macaulay è più efficace per gli scopi di
+ogni giorno; come quando dice che il delitto del politico Tudor non fu
+l'essere troppo indifferente per farsi uccidere, ma l'uccidere altre persone
+per cose verso cui era indifferente, e il promulgare leggi contro chiunque
+«facesse per convinzione ciò che egli aveva fatto per codardia.»  Ma c'è una
+qualità in quella sfuriata di Cobbett su Cranmer che dobbiamo imparare ad
+apprezzare, oppure smettere di darci pensiero di Cobbett.  C'è un volume e
+una violenza di umanità in un simile odio; un odio che viene diritto dal
+cuore come un colpo da knockout viene diritto dalla spalla.  È una vampata
+da una fornace.  Ed è soltanto in una simile fornace sette volte arroventata
+che gli uomini soffrono per un'idea, o persino soffrono per un impulso.
+
+In ogni caso, l'unico effetto della prigionia fu di trasformare un impulso
+in un'idea.  Può darsi che gli mancassero alcune delle virtù di un filosofo;
+inclusa persino la filosofia.  Può darsi che non fosse perfetto come eroe;
+o persino che possedesse alcuna delle qualità di un martire tranne il
+martirio.  Ma egli era enfaticamente il genere di uomo con cui non ci si può
+permettere di avere torto.  Fu suicidamente sciocco agire con tale ingiustizia
+verso un uomo con tale talento nell'esporre la giustizia, inclusa la giustizia
+intellettuale.  Sarebbe stato più saggio, per la classe dirigente, seguire il
+suo corso naturale e continuare a tormentare l'imbecille e a torturare il muto.
+Migliaia di uomini poveri sono stati e sono perseguitati altrettanto
+ingiustamente di Cobbett dalla polizia e dalla plutocrazia degli stati
+moderni; ma un certo istinto politico e una pratica intuizione hanno
+generalmente e saggiamente guidato le autorità a colpire il genere di uomo
+che non può in alcun modo restituire il colpo.  È impossibile non commentare
+la ben curiosa sbadataggine che in questo caso permise ai ricchi e ai
+governanti di commettere le consuete crudeltà su un uomo eminentemente
+capace di raccontare la storia.  Lo gettarono in carcere per nulla, o per
+qualsiasi cosa, o per qualcosa di più o meno meritorio, esattamente come se
+fosse stato suo nonno, il bracciante agricolo.
+
+Certo, se lo misero in prigione, non avrebbero mai dovuto lasciarlo uscire.
+Di sicuro la flessibile Costituzione britannica di Pitt e Castlereagh
+sarebbe stata all'altezza della necessità di spedirlo a Botany Bay a vita.
+Poiché quella Costituzione era ben libera quando si trattava di attaccare la
+libertà.  L'uomo che uscì da quella prigione non era l'uomo che vi era
+entrato.  Non basta dire che ne uscì incollerito, e che si può dire sia
+rimasto incollerito; che sia vissuto in collera per trent'anni, finché morì
+incollerito nella sua propria dimora sulle colline del Surrey.  Ci sono
+collere e collere, e avrebbero dovuto vedergli negli occhi, quando aprirono
+la porta, che avevano scatenato una rivoluzione.  Parliamo di un uomo in
+preda a una passione torreggiante, e quella vigorosa espressione inglese,
+tanto nella sua stessa maniera letteraria, è simbolica della sua importanza
+intellettuale.  Egli in verità tornò in una passione torreggiante, una
+passione che torreggiava sopra città e villaggi come una tromba marina, o un
+ciclone visibile da dieci contee e che attraversava l'Inghilterra come la
+falcata della tempesta.  La più terribile delle lingue umane fu sciolta e
+percorse il paese come una campana errante, di incessante ira e allarme;
+finché gli uomini dovettero domandarsi perché, quando era in loro potere,
+non l'avessero recisa.
 
 
 
@@ -6308,6 +7873,139 @@ In any case, he reached [[America]] in the May of 1817, and soon
 established himself on a farm in Long Island.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+CAPITOLO IV
+
+LA RIVOLUZIONE E LE OSSA DI PAINE
+
+La prigionia distrusse in Cobbett tutto il sogno con cui era tornato
+esultante dall'America.  Vale a dire, non distrusse minimamente il suo
+amore per la terra natia; ma distrusse l'illusione che vi avrebbe potuto
+respirare del tutto agevolmente un'aria natia.  Non poteva più sperare,
+come un tempo era parso tanto naturale fare, che il linguaggio spontaneo
+e colloquiale che gli saliva così facilmente alle labbra si sarebbe
+raccomandato altrettanto facilmente alla gente della sua propria terra;
+che là egli sarebbe stato tra vicini e avrebbe parlato senza interprete.
+L'Inghilterra non era un luogo dove capissero il puro e semplice inglese.
+Fin dal principio stesso del suo nuovo inizio dopo la prigionia lo
+troviamo, perciò, di fronte al fatto che non sarà mai in grado di dire
+tutto ciò che vuole dire o di realizzarsi come aveva inteso fare.  Per di
+più, il suo nuovo inizio era non solo dopo la prigionia, ma dopo la rovina
+e una pratica bancarotta; e il nuovo inizio non fu un inizio molto fortunato.
+La sua agricoltura non ebbe successo, le sue difficoltà finanziarie si
+fecero acute; e pareva che Cobbett in Inghilterra sarebbe stato in ogni
+senso un fallimento.  Perciò dobbiamo registrare (prima di giungere alla
+parte culminante e decisiva della sua carriera inglese) un'altra
+interruzione sotto forma di una visita in America.  La visita fu più breve;
+ed è interessante soprattutto per due o tre episodi che dovranno essere
+presi ciascuno a suo turno.  Ma dobbiamo prima dire una parola sulle
+condizioni del suo proprio paese.
+
+La prima nota del nuovo Cobbett che uscì dalla prigionia è la brusca e
+assoluta cessazione dei suoi primi sentimenti fanciulleschi riguardo alla
+guerra con la Francia; i sentimenti che probabilmente aveva quando da
+ragazzo era fuggito per mare.  Non era più abbastanza allegro per essere un
+Jingo.  Non uso la parola in senso cattivo; poiché in verità il jingoismo
+di Cobbett non è mai stato abbastanza cattivo da essere chiamato
+imperialismo.  Egli era stato per combattere i francesi sul terreno
+perfettamente sano di salvare la sua propria amata isola dai francesi.
+Ma comunque questo semplice modo di vedere la cosa divenne impossibile dopo
+la sua prigionia.  Era ancora un patriota; non fu mai nulla che somigliasse
+minimamente a un pacifista; ma aveva imparato qualcosa che non poteva
+disimparare.  Colui che aveva incitato i cani della guerra con Windham per
+compagno di caccia li richiamò bruscamente, con una sorta di aspro
+umanitarismo.  Si schierò decisamente dalla parte di chi voleva fermare la
+guerra.  È questo il mutamento che è davvero significativo.  Non avrebbe
+sprecato altro tempo a salvare l'Inghilterra dai francesi.  Aveva l'immane
+compito di salvare l'Inghilterra dagli inglesi.
+
+Anche qui, tuttavia, è facile non cogliere la coerenza sotto tutte le
+incoerenze.  È assai caratteristico di lui l'aver rifiutato con speciale
+furia la proposta di fermare la guerra a uno stadio anteriore, quando la
+proposta era fondata sull'argomento (ancora così comune tra i mercanti di
+pace commerciali) che la guerra fa male al commercio.  Cobbett era del tutto
+coerente nel nutrire eguale disprezzo per il pacifista che faceva la pace
+per quella ragione e per il pittiano che faceva la guerra per quella ragione.
+Ma era sempre più convinto che i pittiani stessero facendo la guerra solo
+per quella ragione.  Nel momento in cui concluse che soltanto i banchieri e
+i mercanti volevano davvero la guerra, e che il popolo ne soffriva senza
+necessità, fu perfettamente coerente nel cambiare schieramento.  Sarebbe
+stato del tutto incoerente se non avesse cambiato schieramento.  Windham
+stesso aveva detto: «Perisca il Commercio; ma sia salvata la Costituzione.»
+Cobbett ne aveva fatto il suo motto, benché ora forse nella forma emendata:
+«Periscano il Commercio e le Costituzioni; ma sia salvato il paese.»
+Soltanto, era sempre più cupamente convinto che avesse bisogno di essere
+salvato, e non da Napoleone.  Non era meno patriota inglese, ma forse era in
+un certo senso un poco meno inglese, se essere inglese significa essere
+felice e spensierato e confortato dai compromessi e pronto a credere a
+qualsiasi cosa stampata sul Times.
+
+Intanto la guerra finì con Waterloo e la pace cominciò con Peterloo.  Quello
+era il solo genere di pace che sembrasse probabile cominciasse.  Era tempo
+che qualcuno facesse qualcosa, che Cobbett potesse o no fare alcunché.  La
+nuova fase capitalistica dell'Inghilterra stava giungendo a una crisi,
+specialmente nel Nord.  La rivoluzione industriale stava già producendo la
+rivoluzione anti-industriale, che è probabile sia una rivoluzione molto più
+reale.  Le macchine erano indaffarate e gli uomini erano inoperosi.  Alcuni
+uomini in verità non erano inoperosi; ma i più indaffarati erano gli
+economisti politici, che erano indaffarati a dimostrare sulla carta che il
+macchinario che aveva reso povera la gente doveva in realtà averla resa ricca.
+Ben presto cominciò ad accadere qualcosa che chiunque avrebbe potuto
+prevedere, fosse dalla parte delle macchine o degli uomini, purché comprendesse
+che gli uomini non sono macchine.  Cobbett se ne rese conto, benché non lo
+approvasse.  Gli uomini cominciarono a distruggere le macchine; a distruggerle
+come se fossero draghi venuti a distruggere il paradiso dell'innocenza e della
+libertà.  Cobbett, che su quella questione era un moderato, scrisse una
+Lettera ai luddisti, esortandoli a desistere da questo metodo di protesta;
+ma si unì ai più risoluti dei radicali, con il vecchio Cartwright e l'Oratore
+Hunt e Burdett, nel domandare drastiche riforme democratiche.  Il suo Register,
+già popolare a uno scellino, fu reso enormemente più popolare vendendolo a due
+penny, con l'ironica millanteria di Twopenny Trash.  Mai forse nella storia
+inglese un solo uomo maneggiò uno strumento popolare tanto vasto e potente
+quanto fece Cobbett.  Egli e i suoi amici erano incessanti nel domandare la
+riforma, che aveva già cominciato a scriversi con l'iniziale maiuscola.
+Additavano la cupa sfinge dell'indigenza industriale e domandavano che vi
+fosse almeno una qualche risposta al suo enigma.
+
+La risposta del governo fu interessante.  Fu scoprire un Complotto del genere
+più vasto e sanguinario, ordito da un certo signor Spence, un piccolo libraio
+che professava quel mite genere di socialismo che si chiama nazionalizzazione
+della terra.  Fu chiamato filantropia spenceana.  Tutti gli altri riformatori
+erano a quanto pare nel complotto, per quanto remote o contrarie fossero le
+loro idee di riforma.  Cobbett era circa tanto diverso da un filantropo
+spenceano, o invero da qualsiasi altro filantropo, quanto chiunque potesse
+concepibilmente essere, ma si supponeva che fosse immerso a fondo nel
+complotto.  Il governo si armò in fretta di poteri abnormi di violenza e
+segretezza, e gettò una rete di ferro di spie e agenti speciali su tutto il
+paese per catturare ogni pesce, grande e piccolo, tutti i riformatori,
+ragionevoli e irragionevoli.  Uno dei pesci grossi decise di rompere la rete
+prima che si chiudesse e di sfuggire in altre acque.  Può essere stato saggio
+o folle, ma aveva l'abitudine di agire assai prontamente sulla sua saggezza o
+follia.  Cobbett risolvette ancora una volta di fuggire in America e condurre
+di là la sua campagna.  In effetti, vi rimase solo due anni, bombardando
+l'Inghilterra di opuscoli per tutto il tempo, e poi tornò per far seguire ai
+suoi opuscoli un assalto personale ancor più furioso.  Ma fu biasimato per il
+suo espediente; e in verità fu suo destino attraversare la vita venendo
+biasimato prima per attaccare e poi per ritirarsi, biasimato per tutto ciò che
+fece e tutto ciò che non fece.  Comunque egli riteneva di essere più utile
+alla riforma in America che in carcere; e di certo altrimenti avremmo perduto
+alcune proteste di cui c'era gran bisogno.  Nessun altro avrebbe potuto rendere
+giustizia a un complotto ancor più assurdo chiamato «l'Insurrezione del
+Derbyshire», che fu interamente creato da un agente provocatore di nome
+[[Oliver]].  È tipico dei litigi che si svolgono tra i riformatori che, se
+alcuni degli altri radicali biasimarono Cobbett per essere fuggito in
+[[America]], egli fu ancor più mordace verso di loro per aver fatto i codardi
+in Inghilterra.  Li denunciò per non aver fatto nulla per salvare gli
+sventurati che soffrivano di questo orrendo complotto ordito per fabbricare un
+complotto.  Fu in quell'occasione che Cobbett litigò con Burdett, come poi
+litigò con Hunt, e invero con quasi tutti gli altri.  Prima di partire per
+l'[[America]], in verità, aveva avuto litigi di importanza meno pubblica ma più
+personale con i suoi stessi agenti.  Come già notato, la sua propria posizione
+economica non era promettente; e ciò contribuì probabilmente alla sua decisione
+di una seconda visita americana.  In ogni caso, egli raggiunse l'[[America]] nel
+maggio del 1817, e si stabilì ben presto in una fattoria a Long Island.
+
 
 
 <span class="atom-split" data-atom="chapter_04--part_02" data-title="William Cobbett — Chapter 4 (part 2)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="archetype/innocent,motif/garden,motif/time,motif/well,concept/sublime,concept/wonder,histref/america,histref/christianity,setting/america"></span>
@@ -6424,6 +8122,119 @@ and was certainly his ally.  And it was too late to tell him so.
 For that which he had madly splashed with mud had already
 returned to dust, and Thomas Paine was dead.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+La seconda visita di Cobbett in [[America]] si lega a un'azione
+che tutte le autorità hanno biasimato come ridicola,
+e che io ritengo sia stata biasimata in modo ridicolo.
+Non voglio dire che non vi fosse nulla da criticare, ma soltanto
+che c'è qualcosa di del tutto sbagliato nelle critiche.
+La vicenda così stranamente fraintesa è la vicenda di Cobbett
+che riporta le spoglie di Thomas Paine, il giacobino inglese,
+perché fossero deposte a riposare in Inghilterra.
+
+Thomas Paine inventò il nome di Età della Ragione; ed era uno di
+quegli uomini sinceri ma curiosamente ingenui che davvero credettero che l'età
+della ragione stesse cominciando, proprio nel [[Time|momento]] in cui in realtà stava finendo.
+Essendo un secolarista della specie più candida, suscitò naturalmente
+accese passioni sul momento, come fa ogni pover'uomo
+che sale su una sedia e cerca di interpellare il cielo a Hyde Park.
+Ma considerandolo a posteriori, il mondo moderno sarà
+più incline a [[Wonder|stupirsi]] della sua fede che della sua incredulità.
+La negazione del [[Christianity|Cristianesimo]] è antica quanto il [[Christianity|Cristianesimo]];
+potremmo [[Well|ben]] dire più antica. L'anticlericale durerà probabilmente
+quanto la Chiesa, che durerà quanto il mondo.
+Ma è dubbio quando rivedremo il lato positivo della
+[[philosophy|filosofia]] di Paine; la parte che era a un tempo credula e creatrice.
+Ci è impossibile, ahimè, credere che una Repubblica metterà
+a posto ogni cosa, che le elezioni dovunque garantiranno l'uguaglianza per tutti.
+Per lui la Chiesa era nel migliore dei casi un bel sogno e la Repubblica
+una realtà umana; oggi è la sua Repubblica a essere il bel sogno.
+Vi era in quel liberalismo molto dell'ozio degli aristocratici del Settecento
+che lo inventarono; e molto anche del loro appartato isolamento.
+Il [[Garden|giardino]] che Voltaire diceva all'uomo di coltivare era in realtà quasi
+altrettanto [[Innocent|innocente]] quanto il [[Garden|giardino]] dell'Eden. Ma i giovani che vedevano simili
+visioni non per questo vedevano meno visioni di paradiso, per quanto
+fosse un paradiso terrestre. Il razionalismo è un [[Romance|romanzo]] della giovinezza.
+Non c'è gran che di male nell'età della ragione;
+se non, ahimè, che essa viene prima dell'età della discrezione.
+
+Ma Paine aveva un punto di superiorità sui semplici Radicali
+che allora sorgevano in Inghilterra, i quali condividevano il suo tracotante razionalismo
+e la sua [[Sublime|sublime]] superficialità. Egli non era meramente mercantile,
+non più di Shelley; e pare avesse i suoi
+dubbi sulla speranza riposta nel puro mercanteggiare e
+nel libero scambio, un po' alla maniera di Cobbett.
+Ora Cobbett, nel suo primo periodo americano, colpiva
+i giacobini secondo il principio di «vedi una testa e picchiala»;
+e la fronte intellettuale di Thomas Paine era naturalmente prominente.
+Attaccò Paine come attaccava in genere le persone, in modo assai
+personale e feroce. Disse di quell'ingenuo
+deista cose certamente del tutto false; Cobbett non era
+colpevole di menzogna, ma era colpevole di pensare troppo prontamente il male.
+Per lui, in quel tempo, Tom Paine era semplicemente l'Età della Ragione;
+vale a dire l'Età della Rossa Rovina. Poiché anche Cobbett era ingenuo
+quanto Tom Paine e specialmente in quel tempo aveva una così candida
+fede nel Realismo quanto l'altro l'aveva nel Repubblicanesimo.
+Ma quando Cobbett tornò in America dopo la prigionia,
+aveva fatto la terribile scoperta che pone fine alla giovinezza,
+anche se spesso dà alla vita un nuovo interesse; la scoperta
+che il mondo è strano, che le cose non sono ciò che sembrano,
+e di certo non sempre ciò che dichiarano di essere.
+Era in condizione di cominciare ad ammettere che in Tom Paine ci potesse essere
+più di quanto apparisse all'occhio, specialmente all'occhio cieco
+che egli aveva rivolto a tutti i nemici della corona inglese.
+Ma soprattutto andò in America con la testa che ancora gli ronzava
+come un alveare di ogni sorta di nuove nozioni e sospetti,
+i quali andarono a comporre la filosofia politica davvero originale
+dei suoi anni successivi. Stava diventando scettico, non riguardo a corone
+e credi, ma riguardo a cose che il mondo intorno a lui venerava assai
+più di qualsiasi credo o corona. Dubitava di cose che Whig
+e Tory e Radicali davano sempre più per scontate;
+l'intero fondamento del successo commerciale del suo paese.
+Proprio come metteva in dubbio il mezzo stesso del loro scambio,
+così metteva in dubbio il linguaggio stesso della loro polemica.
+Riteneva che la cartamoneta fosse carta straccia; e riteneva
+che la ricchezza industriale fosse in realtà soltanto industrioso spreco.
+Dubitava soprattutto della parte astratta e invisibile,
+potremmo dire trascendentale, del capitalismo moderno;
+i debiti nazionali e i prestiti internazionali. Tom Paine
+si assunse un compito relativamente facile quando attaccò la Chiesa.
+Will Cobbett ebbe l'inconcepibile sfrontatezza di attaccare la Banca.
+Allora seppe di essere in collisione con la forza colossale
+dell'intero mondo moderno, come un uomo che corre a testa bassa contro
+un treno espresso. Il mondo intero avrebbe lasciato correre da solo un simile
+pazzo; e Cobbett fu lasciato a correre completamente solo.
+Tutti i libri e gli opuscoli dell'epoca, e in verità tutti i libri
+e gli opuscoli da allora in poi, l'hanno schernito a proposito di questa parte
+della sua avventura politica. Leggeva simili libri e opuscoli
+con un volto che si induriva di continuo in sfida e disprezzo;
+e poi fece una strana scoperta. Sfogliando,
+può darsi, uno su venti dei libri e dei
+fogli contemporanei che aveva così l'abitudine di gettare da parte con uno sbuffo,
+per non dire un ringhio, s'imbatté in alcuni degli scritti autentici
+dell'atroce Paine; e rimase stupito nel trovare che alcune
+delle opinioni dell'atroce Paine recavano una notevole
+somiglianza con quelle del giusto e civico Cobbett.
+Scoprì che Paine, fra tutti gli uomini, e apparentemente solo fra
+tutti gli uomini, aveva davvero tentato di dire alcune di quelle cose
+che avevano un così straziante bisogno di essere dette; e riguardo alle quali
+tutta l'umanità andava in giro imbavagliata e in un orribile silenzio.
+Non è certo così difficile capire come egli dovesse
+provare una ripulsa tanto violenta e impetuosa quanto il suo originario
+slancio di pregiudizio; certo coloro che si sono presi la briga
+di scrivere studi su Cobbett avrebbero potuto imparare qualcosa
+del suo modo di vivere, e come tutta la sua generosità e
+la sua vanità, la sua semplicità e il suo sentimentalismo, la sua simpatia
+per il più debole e la sua furia nell'essere egli stesso il gabbato,
+dovessero invocare clamorosamente in lui qualche vigorosa
+azione esteriore; qualche proclama o mozione pratica
+che sollevasse i sentimenti e forse raddrizzasse il torto.
+Aveva crudelmente calunniato un uomo che avrebbe potuto essere suo amico
+ed era certamente suo alleato. Ed era troppo tardi per dirglielo.
+Poiché ciò che egli aveva follemente inzaccherato di fango era già
+tornato polvere, e Thomas Paine era morto.
 
 
 
@@ -6599,6 +8410,176 @@ such a man is very much less of a man than William Cobbett
 or Daniel O'Connell or Thomas Paine.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Cobbett fece qualcosa che qualsiasi altra epoca avrebbe compreso; anzi,
+qualcosa che noi stessi avremmo compreso se narrato di qualsiasi altra epoca.
+Fu istantaneamente posseduto da un impulso umano, che perfino i pagani
+hanno compreso e soltanto gli umanitari hanno negato.
+Lo condusse, per così dire, con un solo balzo alla tomba dell'uomo
+di cui avrebbe voluto chiedere il perdono. L'uomo era stato sepolto nella sua
+terra d'esilio; e Cobbett, egli stesso un esule, comprese come pochi potevano
+comprendere l'orrore di morire lontano da casa. Credeva,
+come solo lui poteva credere, che l'unico atto perfetto di pietà che si potesse
+compiere verso il corpo di un inglese fosse riportarlo in Inghilterra.
+Sembrò un'idea assurda agli uomini nella disposizione mercantile e piuttosto
+materialistica dell'inizio del diciannovesimo secolo;
+ben potrà sembrare ancora assurda a molti nel ventesimo secolo.
+Non sarebbe sembrata assurda agli uomini del dodicesimo secolo.
+Non sembrerà assurda agli uomini del trentesimo o del quarantesimo secolo.
+La si sentiva incongrua con qualcosa di comico e ordinario
+nei costumi contemporanei; con i cappelli a cilindro e le
+fedine a costoletta di montone. Ma quando gli uomini volgono lo sguardo indietro su lunghi periodi
+hanno perduto la derisione contemporanea dei dettagli e vedono soltanto le linee
+principali dell'umanità, e questi atti di rito primitivo appaiono meramente umani.
+Aristofane fu un possente schernitore e beffeggiatore dei dettagli che erano
+moderni ai suoi giorni; i cappelli e le fedine stravaganti dell'antico progresso.
+Aristofane fu un nemico della modernità, e invero del modernismo.
+Aristofane fu anche un signore del turpiloquio, un uomo con tutta
+la splendida scurrilità di Cobbett. Ma si supponga che fosse tramandato
+di Aristofane che giunse a pentirsi della sua satira su Euripide;
+si supponga che avesse concluso troppo tardi che ciò che aveva preso per sofisticheria
+e scetticismo era stato un tradizionalismo più autentico. Non vedremmo nulla
+se non bellezza e pathos in una qualche storia di Aristofane che riporta il corpo
+di Euripide da un qualche paese barbaro al tempio di Atena.
+Non vi sarebbe nulla di indegno o di sconveniente da scolpire su un
+fregio classico nella figura del grande beffatore che segue il feretro
+del grande scettico. Ma ciò è solo perché nel corso
+del tempo le piccole cose si perdono e restano soltanto le grandi linee.
+Poiché quella fialetta d'olio, con cui il beffatore un tempo
+tappò la bocca dello scettico, ha perduto per noi il suo bathos:
+e ben potrebbe essere il vaso del sacro crisma per l'unzione
+dei morti.
+
+Cobbett era un figlio della terra, o ciò che si era soliti chiamare un figlio
+della natura; e questa gente rude e naturale è tutta ritualista.
+Aveva quei gesti giganteschi che sono incoraggiati dallo spazio
+degli ampi vuoti e dei cieli aperti; quegli impulsi a inviare segnali
+con posture e pantomime istintive; a far cenno, a brandire,
+a levare il capo nella battaglia o a chinarlo presso la tomba.
+Aveva in sé anche il misticismo della folla; la folla che accende
+falò e brucia gli uomini in effigie e porta in trionfo un uomo
+per le strade esultanti su un carro fatto di uomini in marcia.
+In tutta questa impulsiva immaginosità, e in un senso (temo) diverso
+da quello in cui fu detto di Abraham Lincoln, egli appartiene davvero
+e in verità ai secoli. Appartiene a tutti i secoli
+tranne forse il suo. Il suo tempo di certo non vide se non
+assurdità nel suo strano pellegrinaggio e nelle sue strane reliquie.
+Gli uomini dai cappelli a cilindro non sapevano vedere altro che
+il lato grottesco di «Cobby» che si trascinava dietro come suo bagaglio
+le ossa di un vecchio bestemmiatore dentro una cassa. Eppure la loro idea
+del grottesco in questa faccenda è alquanto paradossale.
+Poiché in un certo senso costoro obiettavano al rito non perché
+fosse grottesco ma perché non era grottesco. Non era
+abbastanza grottesco da accordarsi con i cappelli e le fedine grotteschi
+che erano di moda. Gli utilitaristi, come i loro padri
+i puritani, usavano la bruttezza come un'uniforme; vale a dire, come un simbolo.
+Poiché il rito utilitarista non era meramente utilitaristico.
+I cappelli a cilindro non erano davvero utili come i comignoli.
+Le fedine a costoletta di montone non erano davvero nutrienti
+come le costolette di montone. Anch'esse erano una sorta di araldica nera,
+come i neri paramenti dei loro funerali; ma simboleggiavano
+il funerale dell'arte o dell'antico simbolismo spontaneo.
+Quando un uomo usava uno dei gesti di quel simbolismo più generoso
+si offendevano con lui e lo giudicavano ridicolo.
+Ma in realtà si offendevano con lui perché non era così
+ridicolo quanto loro.
+
+Questo prurito o istinto per l'azione rappresentativa, per il rito
+che va oltre le parole come un abbraccio o un colpo, era quella parte
+del carattere di Cobbett che sempre si protendeva all'indietro verso
+l'Inghilterra medievale che non ha mai perduto il nome di Allegra Inghilterra.
+Era un uomo nato fuori dal suo tempo, e costretto a vivere e
+a soffrire in un mondo di traffici meccanici diretti a Manchester;
+quando avrebbe dovuto cavalcare con Chaucer verso Canterbury.
+La sua araldica era talvolta deliberatamente grottesca, ma era
+sempre araldica. Quando appese la graticola fuori della sua casa
+a Kensington, non solo ripeté il rito di tutte le antiche
+insegne di botteghe e osterie, ma anche quello degli stemmi e dei vessilli.
+Ma fu proprio questo in lui a portarlo in simpatia con un altro
+popolo che cominciò a comprendere; e un'osservazione di Peel illustra bene
+quanto poco quella comprensione fosse compresa.
+
+Sir Robert Peel era un uomo che aveva la stupidità nell'anima.
+Essa andava, come spesso accade, insieme a tutti i talenti
+di un uomo d'affari e di un uomo di mondo.
+Era il genere d'uomo che conosce le cose solo dalle loro etichette,
+e non ha non solo comprensione ma nemmeno curiosità riguardo
+alla loro sostanza o a ciò di cui sono fatte. Un supremo esempio
+di ciò si trova in questa fase della vita di Cobbett.
+Peel pare abbia insinuato che nulla potesse apparentemente
+essere più impossibile, nulla di certo più assurdo, di un'alleanza
+tra Cobbett e O'Connell. E la ragione
+che ne diede era che O'Connell era cattolico romano e Cobbett
+aveva riportato le ossa di Tom Paine, che era un infedele.
+In altre parole, O'Connell era etichettato come papista e Paine
+era etichettato come bestemmiatore e Cobbett si trovava gravato
+delle sue ossa come una sorta di barzelletta sui giornali umoristici.
+Questo è il genere di follia che fa camminare lo stolto come una
+figura mistica attraverso le pagine del Libro dei Proverbi.
+Se l'uomo che lo disse avesse mai colto un solo barlume dell'interno
+delle cose, dell'interno delle menti umane, delle intrinseche
+implicazioni delle religioni degli uomini, avrebbe visto qualcosa
+che avrebbe potuto sorprenderlo. La verità è che in tutta la vita
+pubblica di quel momento vi era un solo uomo pubblico che potesse
+comprendere e simpatizzare con la faccenda delle ossa del povero
+Paine; e quell'uomo era Daniel O'Connell il Liberatore.
+Ogni cattolico comprende l'idea della penitenza che assume la forma
+di espiazione; anche se si tratti soltanto di naturale contrizione per un torto fatto
+a un filosofo naturalista. Ogni cattolico comprende
+l'idea dell'espiazione che assume la forma di penitenza pubblica, e tanto
+più se essa ha davvero in sé qualcosa di umiliante.
+Ma soprattutto O'Connell aveva le migliori ragioni al mondo
+per sapere che, nell'atmosfera inglese del momento,
+ogni tentativo di una simile penitenza pubblica sarebbe stato realmente accompagnato
+dalla più semplice forma di umiliazione: quella di essere deriso.
+Sapeva assai meglio della maggior parte della gente che l'Inghilterra
+in quello stato d'animo giudicava teatrale una simile penitenza pubblica.
+La faccenda della morte di D'Esterre era per molti versi
+un curioso parallelo a quella della sepoltura di Paine.
+O'Connell in gioventù aveva ucciso un uomo in un duello;
+e il suo rimorso perfettamente sincero lo indusse a giurare di non
+accettare mai più una sfida, e a portare sulla mano destra
+un guanto bianco per rammentare a se stesso il suo peccato, specialmente quando
+si accostava al Sacramento. Il rifiuto delle sfide forniva ai suoi
+avversari politici un uomo comodamente sicuro da sfidare.
+E il portare il guanto bianco era un tratto di drammatico
+simbolismo che naturalmente offendeva la piana sobrietà e
+la semplice modestia del giovane Disraeli. Ma O'Connell era ben
+consapevole che, perfino tra gli inglesi comuni, non ce n'era uno
+su mille che comprendesse ciò che significava il suo gesto pubblico.
+È possibile che i loro padri l'avrebbero compreso.
+È possibile che i loro padri non ritenessero che Enrico
+Secondo stesse semplicemente assumendo una posa melodrammatica quando
+fu flagellato presso la tomba del santo che aveva martirizzato.
+Ma comunque i sentimenti di O'Connell erano ugualmente semplici,
+troppo semplici per essere compresi. Per quanto morboso possa sembrare il suo scrupolo
+a coloro che deplorano le abitudini omicide degli irlandesi, a O'Connell sembrava davvero
+una cosa grave aver ucciso un uomo.
+Per quanto morboso possa sembrare l'altro scrupolo a coloro che sempre
+inveiscono contro quel demagogo per il suo inveire contro tutti, a Cobbett sembrava davvero
+una cosa grave aver diffamato un uomo.
+Che il suo dolore per il male fatto fosse assai intermittente
+e incoerente è verissimo; ma egli non è certo il solo
+fra i suoi simili sotto questo aspetto.
+Ma non vedere che vi era una ragione di rimorso nel caso
+di Paine significa essere ciechi all'intero caso di Cobbett.
+Cobbett gridava con toni assordanti a orecchie sorde
+un certo avvertimento di pericolo; un pericolo che lui solo sapeva vedere,
+o almeno un pericolo in cui nessun altro voleva credere.
+Credeva che l'intera rete finanziaria dei debiti nazionali
+e della cartamoneta avrebbe alla fine trascinato l'Inghilterra alla rovina.
+Può darsi si sbagliasse; benché di fatto sia assai più facile
+ora di quanto non fosse allora sostenere che avesse ragione.
+Ma comunque, credendo ciò, scoprì che quasi l'unico
+altro inglese che avesse messo in guardia l'Inghilterra, o l'avesse aiutato
+a salvare l'Inghilterra, era un inglese che egli stesso aveva
+calunniato e forse persino ridotto al silenzio per errore.
+Se vi è un uomo che non comprende il suo sentire il bisogno
+di una pubblica scusa verso un alleato così solitario e silenzioso,
+quell'uomo è assai meno uomo di quanto lo fossero William Cobbett
+o Daniel O'Connell o Thomas Paine.
+
 
 
 <span class="atom-split" data-atom="chapter_04--part_04" data-title="William Cobbett — Chapter 4 (part 4)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="archetype/child,archetype/king,archetype/prophet,motif/home,motif/time,motif/well,concept/exile,concept/history,concept/wonder,form/history,setting/new_york"></span>
@@ -6691,6 +8672,95 @@ strange sunrise under the sea, under his all too salt [[Humour|humour]]
 and all the waters of bitterness that had gone over him,
 a lucid and enduring surprise.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Comunque, stando così le cose, non poteva trarre più giovamento dalla possibile
+simpatia di O'Connell di quanto ne traesse dall'inevitabile disprezzo di Peel.
+Le sue amicizie politiche, come abbiamo notato, erano assai instabili
+e insoddisfacenti; non tanto, come spesso si suppone,
+perché Cobbett cambiasse opinione, quanto perché nessun altro mai
+comprese davvero l'opinione fondamentale che egli non cambiava.
+Il sodalizio che in seguito stabilì con O'Connell fu
+più genuino della maggior parte; ma anch'esso fu turbato da litigi.
+In un caso, per quanto curioso, Cobbett fu più oconnelliano di
+O'Connell. Rimproverò aspramente (e forse a ragione) il Liberatore per
+aver accettato un compromesso confacente ai vescovi irlandesi più reazionari.
+La sua lite con Hunt risale in origine alla sua seconda visita in America,
+dalla quale mandò a dire, alla sua maniera avventata, ripudiando una qualche lettera
+di cui aveva dimenticato i particolari, e che conteneva un'accusa
+contro la morale domestica di Hunt, che Cobbett allora nemmeno conosceva.
+Eppure anche il malinteso è del genere che esige comprensione.
+Molti dei Radicali erano davvero separati da Cobbett da una profonda
+divergenza in fatto di morale; e chiunque ritenga che il Programma Radicale
+debba apparire cosa più grande dell'istituto del matrimonio non
+sa di che cosa tratti l'intera storia di Cobbett.
+
+Un'altra opera di questo periodo portava il bel titolo di
+Gli Ultimi Cento Giorni della Libertà Inglese, e attaccava le
+leggi coercitive che avevano minacciato la sua libertà in Inghilterra.
+È notevole che Cobbett trattò sempre la tirannia come una cosa nuova;
+il suo atteggiamento verso la rivoluzione astratta era ben espresso
+nella frase: «Sono nato sotto un [[King|Re]] e una Costituzione;
+ma non sono nato sotto i Sei Atti». Fu una nuova incursione tory
+e un nuovo regno del terrore a spingerlo in [[Exile|esilio]];
+ma non vi rimase a lungo; e la sua condotta al
+ritorno mostrò che non aveva alcuna intenzione di tacere in [[Home|patria]]
+se era stato rumoroso all'estero. Un incidente portò a compimento
+il suo mutamento di piani. La sua fattoria a Long Island fu distrutta da un incendio;
+si trasferì dapprima a [[New York]], e infine da [[New York]] in Inghilterra.
+Gli fu offerto un banchetto pubblico e parlò a una grande assemblea;
+forse è ironico che la sua unica difficoltà immediata
+fosse far passare le ossa di Paine attraverso la dogana. Mi
+[[Wonder|domando]] che cosa disse quando gli chiesero se avesse qualcosa da dichiarare.
+
+Così per la seconda [[Time|volta]] William Cobbett riattraversò l'Atlantico
+verso i porti della sua terra. Sarebbe facile insistere su un
+contrasto pittoresco tra i due viaggi. Senza dubbio, se qualcuno
+gli avesse detto nel suo primo viaggio che avrebbe compiuto il secondo
+nella veste di primo dolente per Tom Paine,
+egli [[Well|ben]] avrebbe potuto gettare in mare quel compiacente [[Prophet|profeta]].
+Nella prima occasione era tornato per ricevere ciò che davvero
+si potrebbe chiamare un'accoglienza regale; un'accoglienza regale da parte dei realisti.
+Era tornato per essere brindato dai gentiluomini d'Inghilterra,
+che discorrevano davanti al loro vino dei suoi servigi alla causa tory,
+dei colpi che il loro leale contadino sapeva assestare a Boney e agli yankee.
+Era tornato la seconda [[Time|volta]], il demagogo di un'ora più cupa,
+per incontrare un ruggito di collerica ammirazione da parte degli scioperanti e dei distruttori di telai
+del fumoso nord, come pure dei potenziali incendiari di covoni
+della guerra agraria; il Titano della Rivoluzione Inglese.
+Se mai un uomo avesse potuto fare una rivoluzione inglese,
+se mai un'ora della nostra [[history|storia]] avesse potuto davvero essere rivoluzionaria,
+l'ora era giunta e con essa l'uomo.
+
+Eppure era esattamente lo stesso uomo. Era la stessa figura solida,
+col suo volto sobrio e bonario e il suo piccolo occhio acuto;
+e nelle profondità della sua mente, immagino, nessuna differenza affatto.
+È difficile parlare della sua coscienza interiore,
+poiché nessuno mai vi penetrò, lui meno di tutti.
+Ma se vi si penetrasse, immagino che la si troverebbe colma
+di un vasto vuoto d'[[innocence|innocenza]] che si stupiva e si interrogava,
+ed era un po' sconcertato dalle risposte alle proprie domande;
+come lo è un [[Child|bambino]] dalle incoerenze o dai litigi dei suoi genitori.
+Enormi quesiti, elementari come indovinelli da bambini,
+si sarebbero trovati a colmare quel vuoto. Che cosa c'era di sbagliato?
+e come poteva essere sbagliato avere ragione? Perché un
+soldato non dovrebbe opporsi al fatto che i soldati siano affamati dai truffatori?
+Perché un patriota non dovrebbe opporsi al fatto che siano frustati dagli stranieri?
+Perché un tory non dovrebbe dispiacersi che i possidenti siano scacciati
+dagli agenti di borsa? Perché un radicale non dovrebbe dispiacersi che
+i contadini siano oppressi dagli ebrei? Perché un uomo si ritrovava
+nella [[house|Camera]] dei Lord se frodava la nazione,
+e a Newgate se cercava di far notare che essa era frodata?
+Mentre contemplava le grandi distese di quel mare vuoto e splendente,
+può darsi che vi fosse un intervallo nella sua incessante
+attività mentale di mera recriminazione e replica,
+che le nubi di troppa polemica si diradassero un poco,
+ed egli divenisse per metà consapevole del perché fosse così inguaribilmente se stesso.
+Ma anche allora vi si sarebbe trovata soltanto, come una
+strana alba sotto il mare, sotto il suo fin troppo salato [[Humour|umore]]
+e tutte le acque di amarezza che l'avevano sommerso,
+una lucida e duratura sorpresa.
 
 
 
@@ -6819,6 +8889,129 @@ He liked books; but he could not only read between the lines
 but through the book.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+CAPITOLO V
+
+LO STORICO DILETTANTE
+
+C'è una barzelletta a tutti nota, quella del contadino
+che racconta una qualche leggenda locale, come di un [[Hero|eroe]] che scagliò un enorme masso
+in un [[River|fiume]], e che dice che deve essere vera perché il masso
+è ancora là. Come accade comunemente nelle chiacchiere di un'epoca
+scientifica, la [[Satire|satira]] è diretta contro le idee popolari.
+Come pure accade comunemente in un'epoca simile, la [[Satire|satira]] è in realtà
+assai superficiale. Quando i critici deridono un uomo per aver detto «Ci credo
+perché ho visto il masso», nove decimi di loro non saprebbero fornire
+alcun genere di ragione per le proprie convinzioni storiche, oltre a dire:
+«Ci credo perché l'ho letto da qualche parte stampato in inchiostro tipografico
+da qualcuno che non ho mai conosciuto, il quale si riferiva a prove che non ho mai visto,
+e narrava un racconto che non posso verificare in alcun modo,
+nemmeno con l'aspetto del paesaggio». Il contadino non si affida
+soltanto al masso ma alla tradizione, vale a dire alla veridicità
+di una certa sorta di persone, molte delle quali ha conosciuto.
+Ma almeno il masso e il fiume si accordano con la tradizione;
+e in quella misura limitata la coerenza è conferma.
+È assai più superstizioso presumere che la stampa sia prova.
+Per quanto riguarda la stampa, l'intera storia potrebbe essere altrettanto
+totalmente immaginaria quanto quel tortuoso fiume e quel masso danzante
+nel vertiginoso sogno a occhi aperti di «[[Kubla Khan]]».
+
+Ma ve ne sono altri il cui stato mentale è ancora più straordinario.
+Costoro non solo non hanno bisogno del paesaggio per confermare la loro [[history|storia]],
+ma non si curano affatto se il paesaggio contraddice la loro [[history|storia]].
+Non si accontentano dell'affermazione assai ragionevole che
+l'esistenza del masso non prova l'esistenza dell'[[Hero|eroe]].
+Sono tanto ansiosi di mostrare che non vi fu alcun [[Hero|eroe]], che
+chiudono gli occhi e dicono che non c'è alcun masso. Se la carta segna
+il luogo come un [[Desert|deserto]] senz'acqua, dichiareranno che è arido
+come un osso, benché l'intera valle risuoni dello scrosciare del [[River|fiume]].
+L'intero enorme masso sarà invisibile, se un libriccino di geologia dice
+che è impossibile. Ciò sta all'estremo opposto rispetto all'irrazionale
+credulità del contadino, ma è infinitamente più irrazionale.
+Non è dedurre dal masso qualcosa che il masso non prova;
+è negare ciò che il masso prova. O piuttosto è negare
+ciò che il masso è; quell'ultima e terribile roccia della realtà,
+quella verace pietra dello scandalo, contro la quale tutte le illusioni andranno
+a infrangersi in pezzi. Questa grande illusione della pretesa priorità
+della materia stampata, come qualcosa di anteriore all'esperienza e capace
+di contraddirla, è la principale debolezza della moderna società urbana.
+Il segno precipuo dell'uomo moderno è stato di attraversare
+un paesaggio con gli occhi incollati a una guida turistica, e di poter effettivamente
+negare nell'uno tutto ciò che non trovava nell'altra.
+Un uomo, tuttavia, per caso alzò lo sguardo dal libro e vide le cose
+da sé; era un uomo di temperamento troppo impaziente, e in seguito mostrò
+una disposizione troppo affrettata a fare a pezzi il libro, o a gettarlo via.
+Ma gli era stata concessa una strana e alta ed eroica sorta
+di [[Faith|fede]]. Sapeva credere ai propri occhi.
+
+William Cobbett era in sommo grado un uomo con gli occhi in testa.
+Aveva naturalmente altri attributi umani; come una lingua in
+bocca. Molti la ritennero una lingua meramente aspra o blasfemamente
+sediziosa; ma era una lingua che talvolta poteva
+essere per le grandi folle come la campana a martello di una grande torre.
+Ma quando tutti gli effetti emotivi di simile demagogia o di assordante
+sensazionalismo si sono spenti, l'impressione che rimarrà
+più a lungo nella mente è l'uso quieto e costante che egli fece
+dei propri occhi. È come se, dopo che tutte le passioni si erano inseguite
+l'una l'altra come ombre sul suo volto, vedessimo finalmente il suo viso
+in riposo e ci rendessimo conto che aveva gli occhi di un marinaio;
+gli occhi che sanno scorgere un punto o un granello sul lontano orizzonte.
+Ma sapeva vedere punti e granelli in primo piano [[Well|altrettanto bene]].
+Sapeva mettere a fuoco la vista a molte diverse distanze;
+una facoltà organica che è il senso di ciò che Carlyle disse
+di un altro, cioè che aveva occhi e non meramente occhiali.
+Poiché i suoi occhi erano acuti erano limpidi; poiché la sua
+vista era esatta era perfino sottile. Al suo meglio sapeva
+davvero misurare le cose, e persino i gradi delle cose.
+Sapeva collocare qualsiasi cosa, dal volto di uno straniero alla
+forza di un [[Horse|cavallo]]; dalla sfumatura di maturità in un
+campo di grano alla sfumatura di marciume in un Ministro di gabinetto.
+L'impressione ultima della sua personalità non è tanto
+di violenza quanto di vigilanza. Tanto forte è questa impressione,
+che chiunque sia stato a lungo in sua compagnia letteraria
+non riesce a scrollarsi di dosso un'[[Uncanny|inquietante]] sensazione di essere osservato.
+Non può fare a meno d'immaginare che quest'uomo morto da cent'anni
+tenga d'occhio gli eventi d'Inghilterra e possa d'improvviso parlare,
+probabilmente non in maniera amabile. È come se, in una qualche
+fiaba elfica, quegli strani occhi nella testa di un uomo fossero [[Stars|stelle]]
+capaci di sopravvivergli.
+
+Ma vi è una particolare forma di questa facoltà in Cobbett
+che non è così nettamente colta; e forse non è così facile
+da cogliere. Poiché in questo senso è una facoltà che poche persone,
+se pure alcune, possiedono pienamente nella popolazione urbana d'oggi.
+Essa è distrutta anziché favorita dall'[[Education|istruzione]] urbana d'oggi.
+Cobbett era ben lontano dall'essere un nemico dell'[[Education|istruzione]].
+Era, come si è detto altrove, un grande educatore.
+Pubblicò grammatiche francesi e inglesi di sua composizione,
+ed esortava tutti i giovani a imparare. Qua e là
+mostrò persino un tocco di quel troppo crudo e serio rispetto
+per l'[[Education|istruzione]] che così spesso contraddistingue l'uomo [[Self|da sé]] istruito.
+Ma con tutto ciò, aveva un potere innato o un colpo di buona
+fortuna che l'[[Education|istruzione]] non dà mai e talvolta distrugge.
+In una cosa fu un mortale assai fortunato e solitario.
+
+Sapeva vedere prima di saper leggere. La maggior parte delle persone moderne
+sa leggere prima di saper vedere. Hanno letto di un
+centinaio di cose molto prima di averne vista una sola.
+La maggior parte dei bambini di città ha letto del grano o del bestiame come se
+fossero nani o draghi, molto prima di aver visto un chicco di
+frumento o una mucca. Molti di loro hanno letto di navi o di chiese,
+o della marcia dei soldati o della folla che acclama un [[King|re]],
+o di qualsiasi altra scena normale, che non hanno mai visto.
+Per uno strano [[Mesmerism|mesmerismo]] che qui non è necessario analizzare,
+ciò che la gente legge ha una sorta di potere [[Magic|magico]] sulla sua vista.
+Getta un incantesimo sui loro occhi, così che vedono ciò che
+si aspettano di vedere. Non vedono le cose più solide e
+sorprendenti che contraddicono ciò che si aspettano di vedere.
+Credono ai loro maestri troppo [[Well|bene]] per credere
+ai propri occhi. Si fidano della carta contro la montagna.
+Cobbett era un uomo privo di questi occhiali [[Magic|magici]].
+Non vedeva ciò che si aspettava di vedere, ma ciò che vedeva.
+Amava i libri; ma sapeva leggere non solo tra le righe
+ma attraverso il libro.
+
 
 
 <span class="atom-split" data-atom="chapter_05--part_02" data-title="William Cobbett — Chapter 5 (part 2)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="archetype/king,motif/well,concept/history,form/history"></span>
@@ -6944,6 +9137,128 @@ of six rhododendron-trees. Yet we may repeat, in a spiritual
 but most realistic sense, that nobody except Cobbett could
 see the church spire.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Ora, in nulla ciò è più vivido che nella sua visione della [[history|storia]].
+Quasi tutti noi sappiamo quale fosse la versione generale accolta della [[history|storia]] inglese
+quando eravamo a scuola; per lo meno quando io ero a scuola, e ancora di più,
+naturalmente, quando Cobbett era a scuola, per quel poco che vi fu mai.
+L'Inghilterra era emersa da un passato selvaggio per diventare il più grande impero
+del mondo, con la costituzione meglio bilanciata del mondo,
+mediante un saggio e [[Well|ben]] calibrato progresso o serie di riforme, che tenne sempre
+presente la necessità del costituzionalismo e dell'equilibrio.
+I Baroni avevano estorto una carta costituzionale al [[King|Re]], in anticipo
+su quell'«età» feudale e a fondamento della libertà parlamentare.
+I Comuni entrarono nella lotta per la libertà parlamentare quando
+essa fu condotta contro gli Stuart. A quel tempo la Rinascita del Sapere
+aveva condotto alla Riforma, ossia allo spazzar via della superstizione
+che era stata l'unica religione del più rozzo tempo feudale.
+Questo illuminismo favorì la crescita della democrazia; e benché gli
+aristocratici ancora rimanessero, e ancora rimangano, a dare dignità allo Stato
+con la loro antica blasonatura della Conquista e delle Crociate, la legge
+del paese non è più controllata dai lord ma dai cittadini.
+Di qui il paese si è riempito di una popolazione fresca e libera,
+resa felice da idee umane e razionali, dove un tempo vi erano
+soltanto pochi servi della gleba intristiti dalle più insensate superstizioni.
+Domando a chiunque se questo non sia un giusto riassunto dell'educazione
+storica in cui fu allevata la maggior parte delle persone moderne oltre i quarant'anni.
+E avendola letta prima, andammo poi a guardare le città e i
+castelli e le abbazie, e la vedemmo o cercammo di vederla.
+Cobbett, non avendola letta, o non curandosi di averla letta,
+vide qualcosa di totalmente diverso. Vide ciò che davvero c'è.
+
+Che cosa vedrebbe davvero un uomo con i propri occhi se semplicemente camminasse
+attraverso l'Inghilterra? Che cosa vedrebbe effettivamente nelle solide fattorie
+e cittadine di tre quarti del paese, se potesse vederle
+senza alcun pregiudizio d'interpretazione storica?
+Per cominciare, vedrebbe una cosa che Cobbett vide,
+e che nessun altro pare abbia mai visto, benché essa fissasse
+e ancora fissi ognuno in grande mole e in pieno giorno.
+Troverebbe l'Inghilterra costellata di un vasto numero di piccoli villaggi
+costituiti interamente da piccole case. Considerate come piccole
+case, molto vi sarebbe da dire su di esse, sia in senso critico
+sia in senso benevolo. Sono generalmente pittoreschi casolari;
+sono spesso ciò che si descrive come pittoreschi casolari cadenti.
+Sono le case più belle del mondo per tutte
+le persone di gusto che siano mai state fuori di esse.
+Per le persone meno appariscenti e ragguardevoli che sono sempre
+state dentro di esse, sarebbe un'esagerazione dire che esse
+sono le case più belle del mondo. Anche di queste persone
+di dentro molto si potrebbe dire di buono e di cattivo;
+sono cordiali e piene di umori inglesi e di tutte le virtù
+che appartengono a un'atmosfera di birra. Ma non sono cittadini
+e non desiderano esserlo; a malapena hanno mai sentito la parola.
+Non sanno immaginare lo sparire del possidente più di quanto sappiano immaginare lo sparire
+del cielo; per quanto possano brontolare degli umori di entrambi.
+Ma comunque il punto è che le loro case sono piccole case, e
+specialmente case basse; sicché un uomo alto che vi passasse accanto
+talvolta dovrebbe chinarsi sotto le gronde per sbirciare dentro
+la finestra sul davanti, come se viaggiasse in una città di nani.
+E la città è una città assai piccola; spesso solo una manciata
+di case da contarsi sulle dita.
+
+In mezzo a questo piccolo grappolo o ammasso di case basse s'innalza
+qualcosa la cui guglia o torre si può scorgere per miglia.
+In rapporto ai tetti sottostanti, la torre è tanto un'eccezione
+quanto la Torre Eiffel. In rapporto al mondo in cui fu costruita,
+era davvero un esperimento d'ingegneria più straordinario della
+Torre Eiffel. Poiché il primo arco gotico fu davvero cosa più
+originale della prima nave volante. E in verità qualcosa del suo slancio
+e della sua elevazione sembra rendere l'architettura affine all'aviazione.
+La sua remota volta somiglia a un dedalo di schemi matematici
+misteriosi quanto le stelle; e il suo equilibrio di gravitazioni contrastanti
+e di archi rampanti era un fine calcolo della matematica medievale.
+Ma non è nuda e metallica come la Torre Eiffel o lo Zeppelin.
+Le sue pietre sono scagliate verso il cielo in un arco come dal calcio di una catapulta;
+ma quella semplice curva non ha la mera crudeltà di una macchina da guerra.
+L'intero edificio è anche una foresta di immagini e simboli e storie.
+Vi sono santi che recano i loro racconti da tutte le città
+e i paesi d'Europa. Vi sono santi che recano gli strumenti
+di tutti i mestieri e le arti d'Inghilterra. Vi sono tracce
+di confraternite di mestiere egualitarie quanto i sindacati. Vi sono
+tradizioni di università più popolari dell'istruzione popolare.
+Vi sono mille cose in fatto di fantasia e parodia e pantomima;
+ma con la più sfrenata varietà creatrice non è caotico.
+Dal più alto simbolo di Dio torturato nella pietra e nel silenzio,
+all'ultimo bizzarro gargoyle scagliato verso il cielo come un diavolo cacciato
+via con un gesto, l'intero disegno di quel labirinto innalzato
+mostra la maestria di una mente ordinata.
+
+È la chiesa parrocchiale, ed è spesso assai antica; poiché
+fu costruita nei giorni delle tenebre e della selvaggia superstizione.
+I pittoreschi casolari sono tutti di data assai più recente;
+poiché appartengono alle età del progresso e dell'illuminismo.
+
+Se la gente vedesse la Grande Piramide e trovasse sparse attorno alla sua
+base poche tende rappezzate di pochi beduini cenciosi, difficilmente
+direbbe che non vi era stata alcuna civiltà in quella terra finché
+non l'ebbero portata i beduini. Eppure una Piramide è semplice come un palo
+di legno a paragone del vertiginoso equilibrio e della delicata energia
+del gotico. Se avessero visto qualche squallida tribù di barbari
+che viveva nelle sue piccole capanne di fango, mentre alta sopra le loro teste
+passava l'arco slanciato di un acquedotto romano quasi remoto
+quanto l'arcobaleno, difficilmente direbbero che i romani dovevano
+essere selvaggi e che soltanto i selvaggi erano civili.
+Eppure il tondo arco romano è davvero rudimentale a paragone
+del prisma di forze dell'arco gotico a sesto acuto.
+Ma la verità è che i cattolici, avendo una certa umiltà
+perfino nel loro odio, non fecero mai questa assurda pretesa
+che il paganesimo fosse barbaro, come i loro nemici in seguito
+fecero l'assurda pretesa che il cattolicesimo fosse barbaro.
+Denunciarono la malvagità del mondo, ma riconobbero
+le Piramidi e il Colosseo come meraviglie del mondo.
+Fu soltanto la grande civiltà medievale i cui conquistatori furono
+tanto vili da pretendere che non fosse affatto stata una civiltà.
+Ma non è questo l'aspetto del caso immediatamente importante qui.
+Il punto immediatamente importante qui è che questo solido oggetto di pietra
+si ergeva e si erge fra gli altri come una montagna
+fra monticelli di talpa; e che nessuno sapeva vederlo se non Cobbett.
+Parliamo di non vedere il bosco per via degli alberi; ma si
+penserebbe che chiunque possa vedere un pioppo nonostante la presenza
+di sei rododendri. Eppure possiamo ripetere, in senso spirituale
+ma quanto mai realistico, che nessuno tranne Cobbett sapeva
+vedere la guglia della chiesa.
 
 
 
@@ -7074,6 +9389,131 @@ the whole architecture is the recent creation of a rationalistic age.
 It belongs as much to the Age of Reason as the books of Voltaire.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Egli non vide affatto tutto ciò che c'era da vedere nella chiesa,
+né tutto ciò che qui si è annotato della chiesa. Per questo gli
+sarebbe davvero occorsa più istruzione; e non il genere di
+istruzione che avrebbe allora potuto ottenere semplicemente venendo istruito.
+Era un uomo semplice in un'epoca razionalistica, e vide qualcosa.
+Era qualcosa di assai primitivo ed elementare; ma lo vide.
+Vide la dimensione. Ci racconta più e più volte di aver
+trovato un villaggio la cui intera popolazione attuale si sarebbe potuta
+collocare nel portico della chiesa del villaggio, lasciando l'intero
+vasto e vario interno tanto vuoto e inutile quanto Stonehenge.
+Che ne era stato di tutta quella gente? Perché mai qualcuno, in una qualsiasi epoca,
+avrebbe dovuto pagare per costruire una chiesa capace di servire duemila persone quando ne doveva
+servire soltanto venti? Era vero, poteva essere vero, dopotutto,
+che la popolazione d'Inghilterra fosse tanto enormemente cresciuta rispetto a ciò che
+un tempo era stata una semplice manciata? Era soltanto che le nuove città
+erano enormemente cresciute, lasciando la campagna una mera landa deserta?
+E poteva essere vero che gli uomini che costruirono simili cose fossero una sorta
+di nani pitti o di troglodici del crepuscolo, quando ciò che essi
+avevano lasciato somigliava tanto alle case di una generazione di giganti,
+che non si sarebbero potute riempire nemmeno con una generazione di nani?
+
+Questi dubbi avevano molto a che fare con le concezioni storiche e sociali
+di Cobbett, da considerarsi a loro tempo; ma in primo
+luogo sono da notarsi come un modello operante del suo potere
+di vedere le cose semplicemente e per come stanno. Centinaia di eleganti
+saggisti e artisti avevano ritratto le proporzioni più aggraziate
+degli edifici gotici, riguardandoli vagamente come rovine.
+La fine del diciottesimo secolo è piena di questi pittori
+ad acquerello e cugini primi del conte di Cork.
+Ciò che Cobbett vide non furono le proporzioni aggraziate ma piuttosto
+le sconce sproporzioni. Vide un contrasto colossale;
+il contrasto tra un villaggio che era a stento un borgo
+e una chiesa di villaggio che era quasi una cattedrale.
+Era il più grande e il più nudo di tutti i fatti;
+eppure era il fatto che nessun altro vedeva. Gli altri
+non lo vedevano perché erano stati educati a non vederlo;
+perché erano stati educati a vedere l'opposto. Poiché la libertà
+e la luce erano giunte ai Comuni con la rivoluzione whig, i
+Comuni dovevano in un modo o nell'altro essere liberi e illuminati;
+non potevano ancora vivere in tuguri all'ombra di una
+enorme vecchia chiesa. Prima di quella rivoluzione non vi era stato altro
+che ferocia feudale e arti pretesche. Così, in un modo o nell'altro,
+qualcuno aveva costruito la chiesa per pura ferocia; oppure l'arte
+pretesca può essere resa un completo surrogato di ogni altra arte,
+compresa l'arte dello scultore e dello scalpellino.
+Ma Cobbett partì dal grande fatto che poteva vedere con
+i propri occhi, e con quello riuscì, con tremenda
+forza ricostruttiva, a capovolgere tutta la storia inglese.
+
+La sua concezione implicava un'altra verità che può essere simboleggiata da
+un altro edificio. Quando dicemmo che non vi erano che piccole
+case a competere con la chiesa, intendevamo naturalmente che non vi
+era nient'altro entro il circuito immediato della chiesa:
+che la chiesa del villaggio era l'unico grande edificio del villaggio.
+Vi era un altro edificio assai grande a qualche distanza dal villaggio
+che campeggiava assai più grande nella mente dei villici.
+In verità, si potrebbe dire che essi vivevano nell'ombra materiale
+della chiesa e nell'ombra morale della villa signorile.
+Ora l'esempio della casa del possidente è un altro ancora che illustra
+l'illusione che è generale e il realismo che è oltremodo raro.
+Tutto ciò che Cobbett avrebbe potuto leggere nei libri, tutto ciò che avrebbe potuto
+apprendere a scuola, gli avrebbe insegnato una visione del maniero
+o della residenza di campagna che è tuttora un luogo comune nei romanzi e nei giornali.
+È quasi letteralmente una veduta; nel senso di un paesaggio visto con
+l'occhio della mente. Ma gli uomini vedono quella sorta di veduta soltanto chiudendo gli occhi.
+Cobbett formava le proprie vedute aprendo gli occhi. L'impressione
+o illusione universale era che i possidenti tory fossero un'antica aristocrazia,
+piena di nozioni feudali e di sangue normanno; e da ciò seguiva
+logicamente che vivessero in castelli o quanto meno in fattorie cinte da fossati,
+manieri Tudor e altri antichi e appropriati ricoveri.
+Se Cobbett avesse creduto ai romanzi storici, o alle storie che
+erano tutte sul medesimo modello dei romanzi storici, sarebbe andato
+in giro a cercare il Castello di Otranto nelle valli d'Inghilterra:
+e non avrebbe mai visto il piccolo tempietto che Horace Walpole si eresse davvero
+in cima a Strawberry Hill.
+
+Ma Cobbett aveva questo strano potere di fede: sapeva credere ai propri occhi.
+La maggior parte della gente non sa credere ai propri occhi; è l'ultima cosa
+in cui sa credere. Sanno credere ai credi più stravaganti
+e alle filosofie più rozze; allo stesso modo sanno credere in un passato
+fatto del Castello di Otranto e dei Misteri di Udolpho.
+Ma non sanno credere nel presente; nella cosa presente
+alla loro vista; nella cosa alla cui reale presenza essi stanno.
+Ma Cobbett aveva davvero questo distacco ultraterreno, questa asciutta
+luce della realtà, questa visione di un uomo venuto dalla luna.
+In quella luce probabilmente vide come sono in realtà le ville di campagna;
+come certamente vide come sono in realtà le chiese parrocchiali.
+Qua e là c'è davvero un castello; ora generalmente un luogo da esibizione.
+Qua e là c'è davvero un antico maniero Tudor,
+spesso conservato con la stessa cura di un modellino in un museo.
+Ma la casa del possidente che domina un centinaio di contrade in tutta
+l'Inghilterra è qualcosa di del tutto diverso; qualcosa di del tutto inconfondibile;
+e qualcosa in larga misura uniforme. È enfaticamente
+una regola, laddove i romantici castelli e manieri sono eccezioni.
+È una regola in più di un senso; poiché il popolo ha il possidente
+per padrone di casa, per datore di lavoro e, si può aggiungere, per giudice;
+poiché la magistratura è composta dalla piccola nobiltà. Comunque, la casa
+ha un carattere positivo che equivale a un modello.
+
+Somiglia in realtà piuttosto a un grande edificio pubblico di una grande
+città esiliato in provincia. Somiglia a un Municipio portato via
+sulle ali delle fate, e deposto lontano tra i boschi.
+Somiglia a un Palais de Justice che villeggia per una ragione
+o per l'altra e si concede una passeggiata in campagna. Non solo è
+assai grande, ma non ha affatto l'aspetto di una casa privata.
+È come qualcosa di consapevole di essere una sede di governo e
+di potere sugli uomini, come in effetti è. Non è affatto accogliente come un castello.
+È piuttosto aperto nello stesso senso in cui lo è un tribunale. Soprattutto,
+è costruito nello stesso stile del tribunale moderno medio.
+Ciò che rende importante quello stile è la sua data. Assai poche delle vere
+residenze di campagna sono davvero di tipo Tudor; quasi nessuna è di
+tipo medievale. Il loro tipo e modello è di una sorta che reca
+l'impronta di un'epoca successiva e chiaramente segnata della società.
+Generalmente sono case georgiane; spesso sono un po' anteriori,
+e corrispondono allo stile più bizzarro di Guglielmo d'Orange e della regina Anna.
+Ma quasi tutte appartengono a ciò che i francesi chiamano l'Età Classica;
+intendendo quel tratto del diciassettesimo e diciottesimo secolo
+in cui il pieno risultato del Rinascimento si dispiegò,
+divenendo semmai sempre più classico finché il suo guscio non fu
+infranto dal movimento romantico e dalla Rivoluzione francese. In breve,
+l'intera architettura è la recente creazione di un'epoca razionalistica.
+Appartiene all'Età della Ragione quanto i libri di Voltaire.
+
 
 
 <span class="atom-split" data-atom="chapter_05--part_04" data-title="William Cobbett — Chapter 5 (part 4)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="motif/ruins_the_abbey,motif/the_castle,concept/appearance_vs_reality,concept/tradition,concept/paganism_and_classical_revival,form/biography,histref/jane_austen,character/tennyson,character/catherine_morland,character/general_tilney"></span>
@@ -7187,6 +9627,115 @@ And when he really began to read, he found that what he read
 confirmed what he had seen.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Ma la gente era resa cieca a questo fatto da libri che conosceva meglio
+di quelli di Voltaire. Ogni romanzo e romanzetto le diceva
+che un malvagio baronetto viveva in una torre merlata; e non
+riusciva a vedere che egli viveva in una sorta di comodo tempio classico.
+Tennyson, facendo visita in gioventù a Lady Clara Vere de Vere,
+patì l'illusione di vedere un leone sui suoi vecchi cancelli di pietra.
+Con ogni probabilità era in realtà una ninfa o un'urna. Del resto,
+Tennyson avrebbe probabilmente fatto qualche curiosa scoperta se avesse
+esaminato più da vicino le pretese di Lady Clara al sangue normanno,
+comunque stessero le cose con le sue pretese ai coronet. Ma per il momento
+parlo semplicemente di cose viste, o piuttosto di cose non viste.
+Parlo del velo che la nostra versione della storia sospende
+tra noi e i fatti reali riguardo ai nostri padri, persino i fatti
+davanti ai nostri occhi. Assai poche persone videro che l'aristocratica
+villa di campagna è comunemente un edificio relativamente nuovo,
+e somiglia più a un Ufficio Postale Centrale che a una fortezza feudale.
+Il poco ornamento che possiede è una curiosa fredda esuberanza di ninfe pagane
+e templi vuoti. Poiché sta a rappresentare l'età degli scettici,
+i suoi dèi non solo sono morti ma non sono mai stati vivi. I suoi giardini
+sono pieni di sacrari senza idoli o di idoli senza idolatri.
+
+Infine, come già si è accennato, esiste davvero un terzo monumento
+storico e una terza varietà di architettura, o dell'uso dell'architettura.
+Fra queste case e proprietà aristocratiche, lasciando da parte tali
+curiosità come i castelli, compare abbastanza comunemente un tipo
+di villa di campagna che è davvero antica e davvero medievale.
+La parte medievale di essa è spesso in rovina, e pregiata
+soltanto perché è in rovina. Ma le rovine hanno le stesse linee slanciate
+e protese al cielo di quelle della grande e vuota chiesa parrocchiale.
+Eppure la casa nel suo insieme non è affatto una rovina, ma è trasformata
+in una villa di campagna comoda, o piuttosto lussuosa,
+quanto il più comune modello delle case georgiane.
+Ma il nome stesso di quella casa di lusso rimane un nome medievale;
+e per giunta un nome assai singolare.
+
+Ci parrebbe alquanto strano se un profittatore avesse una villa di campagna
+che si chiamasse La Cattedrale. Ci parrebbe strano
+se un agente di borsa avesse costruito una villa e usualmente la chiamasse
+una chiesa. Ma a stento riusciamo a scorgere l'assurda profanità
+per cui un ricco casuale dopo l'altro ha potuto
+requisire o acquistare una casa che continua a chiamare Abbazia.
+È esattamente come se fosse andato a vivere nella chiesa parrocchiale;
+avesse fatto colazione sull'altare, o si fosse lavato i denti nel fonte battesimale.
+Questo è il breve e netto riassunto di ciò che è accaduto nella
+storia inglese; ma pochi sanno coglierlo così scorciato o in un
+contorno così netto. Comunque, questo terzo tipo di monumento del
+passato si offre visibilmente all'occhio come gli altri due.
+Il romantico reazionario alla fine del diciottesimo secolo
+poteva non trovare spesso il Malvagio Baronetto in un castello, ma poteva
+davvero trovarlo in un'abbazia. La più attraente di tutti
+questi reazionari, Miss Catherine Morland, non rimase del tutto
+delusa nella sua ricerca dei Misteri di Udolpho.
+Sapeva almeno che il Generale Tilney viveva in un'abbazia;
+benché nemmeno lei potesse facilmente scambiare il Generale Tilney
+per un abate. Né si sbagliava nel supporre che un delitto
+fosse stato commesso da quel signore a Northanger Abbey.
+Il suo delitto era di non essere un abate. Ma Jane Austen, che aveva una così
+acuta penetrazione delle finzioni della propria epoca, aveva avuto un po'
+troppa raffinata educazione per penetrare le finzioni della storia.
+Nonostante l'umorismo perverso della sua giovanile Storia d'Inghilterra,
+nonostante la sua vivace simpatia per Maria Stuart, non ci si poteva
+aspettare che vedesse la verità sulla transizione dei Tudor.
+In queste materie ella aveva cominciato con i libri, e non ci si poteva aspettare
+che leggesse ciò che è scritto in semplici edifici e grandi monumenti.
+Era istruita, e non ebbe la fortuna di essere autodidatta
+come Cobbett. Il paragone non è così incongruo come può sembrare.
+Erano i quattro occhi più acuti che Dio avesse dato all'
+Inghilterra di quel tempo; ma due di essi erano rivolti all'interno,
+dentro la casa, e due guardavano fuori dalla finestra.
+Vorrei poter pensare che si siano mai incontrati.
+
+Comunque, tutto ciò è scritto a grandi lettere di pietra e d'argilla attraverso
+la terra; in un gigantesco alfabeto di arco e colonna e arco rampante.
+E queste tre cose sorprendenti risaltano a narrare il racconto principale
+della storia inglese, perfino a un uomo che non abbia mai aperto un libro.
+La prima è una chiesa parrocchiale assai antica e artisticamente bella,
+di gran lunga troppo grande per la sua parrocchia. La seconda è una dimora aristocratica
+di data assai più recente, dall'aspetto di palazzo di un principe tedesco
+del diciottesimo secolo. La terza è un palazzo simile
+costruito con le rovine, se non di una simile chiesa parrocchiale,
+almeno di un edificio religioso simile alla chiesa parrocchiale.
+Con quei tre soli fatti solidi un uomo avrebbe potuto ricomporre
+la verità che nessuno storico gli avrebbe detto. In un modo o nell'altro vi
+era stata un tempo una più ampia vita religiosa che era anche una vita popolare.
+In un modo o nell'altro i suoi memoriali erano stati rilevati da una nuova razza
+di uomini, che erano divenuti grandi signori nel paese, e avevano potuto
+disdegnare a un tempo il popolo e la religione.
+
+Cobbett era uno storico dilettante in quel senso; che si serviva del
+proprio ingegno. Coloro che arricciano il naso davanti a una simile storia dilettantesca non si servono del proprio.
+Dicono che le vedute del dilettante non possono essere corrette, perché
+non sono fondate sulla ricerca. In altre parole, dicono che egli non può
+vedere ciò che c'è, perché vede ciò che è ovviamente lì.
+Non può aver visto il sole, perché evidentemente non ha dovuto
+estrarre i raggi solari dai cetrioli. Non può aver davvero
+compreso che due più due fanno quattro, perché lo comprese
+all'istante. Ma pur ammettendo ciò, simili figure accademiche
+sottovalutano perfino le informazioni dettagliate di uomini come Cobbett.
+Va ancora una volta sottolineato con grande forza che Cobbett non
+disprezzava affatto i libri. Aveva fin troppo buon senso
+per disprezzare un qualsiasi modo comune e comodo di procurarsi informazioni.
+Era l'esatto contrario di quel genere di reazionario sentimentale che pensa
+che tutta l'umanità sarebbe innocente se solo fosse analfabeta.
+Ma non permetteva che ciò che leggeva contraddicesse ciò che aveva visto.
+E quando cominciò davvero a leggere, scoprì che ciò che leggeva
+confermava ciò che aveva visto.
+
 
 
 <span class="atom-split" data-atom="chapter_05--part_05" data-title="William Cobbett — Chapter 5 (part 5)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="archetype/innocent,concept/doubt,concept/history,concept/paradox,concept/truth,form/history,histref/reformation,character/queen,character/queen_elizabeth"></span>
@@ -7298,6 +9847,113 @@ It was not really Cobbett's [[history]] that was in controversy;
 it was his controversialism.  It was not his facts that
 were challenged; it was his challenge.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Dico che cominciò davvero a leggere; perché in questo caso c'è una
+distinzione. Non è soltanto una questione di libri, ma piuttosto dei
+libri dietro i libri. Il libro di storia alla moda è, nel migliore dei
+casi, poco più di un articolo di fondo; si fonda sui documenti come un
+articolo di fondo si fonda sulle notizie; in entrambi i casi una
+selezione piuttosto accurata. Come un articolo di fondo, il riassunto
+storico è in genere partigiano; e non è mai tanto partigiano come
+quando pretende di essere imparziale. Cobbett dovette scavare un poco
+più a fondo di questi riassunti superficiali per rintracciare nel
+passato le verità che aveva già scoperto nel presente. Fu una
+fortunata coincidenza che proprio in quel tempo il più dotto e
+laborioso degli storici inglesi producesse l'opera su cui tante altre
+opere si sono fondate. John Lingard era un uomo molto moderato, ma
+persino i pregiudizi che gli si presumevano gli davano una posizione
+distaccata rispetto alle fallacie alla moda di quella particolare età.
+Con una massa di materiale egli stabilì la propria versione molto
+moderata di ciò che era realmente accaduto in Inghilterra; e servendosi
+di quel materiale Cobbett produsse la propria versione, che alcuni hanno
+esitato a definire moderata.
+
+Fu questa la celebre Storia della Riforma, pubblicata nel 1824. La vera
+questione in gioco riguardo alla Storia della Riforma non concerne
+tanto un certo stato di cose quanto la giusta reazione a quello stato di
+cose. Che cosa deve fare un uomo quando crede che l'opinione pubblica si
+sia abituata a riposare con fiducia in un quadro del passato del tutto
+sbagliato? Un uomo potrebbe concordare con Cobbett sull'esistenza
+dell'errore, senza minimamente concordare con Cobbett sul procedimento
+adeguato dell'illuminazione. Il nome stesso di Lingard basta a provare
+la possibilità. Lingard aveva una tesi solida, e deliberatamente la
+attenuò per dare una maggiore impressione di imparzialità. Cobbett aveva
+la medesima tesi solida, e deliberatamente gettò via ogni aria di
+imparzialità per dimostrare quanto completamente ne fosse stato
+convinto. Quando Cobbett scoprì che ciò che riteneva una verità era
+stato occultato con un inganno, la sua reazione fu una passione
+torreggiante; e che sia questa o una più paziente esposizione a
+convenire alla controversia, non c'è dubbio su quale convenga a
+Cobbett. Egli avrebbe detto che quando sorprendeva un uomo a
+depredargli il pollaio gridava «Al ladro!» e non «Fermatevi, comunista
+filosofico che invadi la tesi della proprietà privata!». Avrebbe detto
+che quando un uomo diceva menzogne lo chiamava bugiardo, e non persona
+insensibile al valore della realtà oggettiva. Eppure è probabilmente
+vero che molti ascoltarono Lingard senza poter ascoltare Cobbett. Ed è
+vero dire che tali persone non potevano udirlo perché parlava troppo
+forte. Ma quanto a mettere in dubbio ciò che diceva—questo è cosa ben
+diversa e assai più difficile. Coloro che suppongono che egli dovesse
+dire sciocchezze perché parlava troppo forte sono assai meno lucidi, e
+persino meno freddi di mente, di quanto fosse lui. La veracità non ha
+nulla a che vedere con la violenza, né in un senso né nell'altro. Uno
+storico può preferire dire: «L'imperatore Nerone ordì parecchie congiure
+contro la vita di Agrippina sua madre, e manifestò soddisfazione quando
+l'estremo tentativo riuscì». Un altro può dire: «Il sanguinario e infido
+tiranno assassinò turpemente la propria madre, e si esaltò
+diabolicamente nel detestabile misfatto». Ma la seconda affermazione
+registra lo stesso fatto della prima, e lo registra con eguale
+correttezza. È esatto dire: «Il Reverendo Titus Oates dichiarò sotto
+giuramento di essere a conoscenza di una congiura papista; ma le sue
+affermazioni, che condussero all'esecuzione di molti papisti, furono in
+seguito riconosciute fittizie». Ma è altrettanto esatto dire: «Il
+bugiardo e spergiuro Oates giurò crudelmente togliendo la vita a
+cattolici [[Innocent|innocenti]], invocando blasfemamente Dio a
+testimone della sua menzogna omicida». L'uomo violento dice la
+[[Truth|verità]] con altrettanta logica e precisione dell'uomo più
+dignitoso. È questione di ciò che consideriamo superiorità di forma
+letteraria; non di alcuna superiorità nel fatto storico. E questa era
+sostanzialmente la principale differenza fra Cobbett e Lingard; per non
+parlare di tutti gli studiosi moderni che sono allievi di Lingard.
+
+Cobbett espose tutti i suoi fatti in un unico prolungato e quasi monotono
+furore. Ma se sbagliava, sbagliava nel suo furore, non particolarmente
+nei suoi fatti. Vi sono molti errori nella sua [[history|Storia]] della
+[[Reformation|Riforma]], come ve ne sono nella maggior parte delle
+storie; benché la maggior parte della gente non sapesse nemmeno quali
+fossero finché non furono accuratamente scoperti e catalogati dal
+Cardinale Gasquet. [[Doubt|Dubito]] che ve ne siano tanti quanti se ne
+potrebbero trovare, da parte di uno studioso altrettanto valente, in
+tutti gli storici più cauti e costituzionali. Cobbett non partì da
+intere masse di mito palese e [[Romance|romanzo]], come quelle che
+Macaulay criticava in Hume. Non dipese dalle stravaganze espurgate di
+settari manifestamente folli, come quelle che Aytoun criticava in
+Macaulay. La [[Truth|verità]] è che l'impressione generale che Cobbett
+abbia scritto uno sfrenato [[Romance|romanzo]] è in realtà soltanto
+un'impressione generale. Non poggia, e non ha mai poggiato, sulla
+scoperta dei punti particolari in cui egli sbagliava. L'impressione era
+di [[Paradox|paradosso]]; il semplice fatto che egli sembrasse chiamare
+bianco il nero, quando dichiarava che ciò che era bianco era stato
+annerito, o che ciò che sembrava bianco era stato solo imbiancato. Ma lo
+sgomento veniva dal commento o dall'applicazione morale piuttosto che
+dai dettagli precisi. Perché i dettagli precisi, anche allora, molto
+spesso non erano in discussione. Per esempio, è supremamente
+caratteristico di Cobbett che egli rovesciasse i titoli consueti
+parlando della Sanguinaria Bess e della Buona [[Queen|Regina]] Maria.
+Sapeva sempre trovare una frase popolare per un'opinione impopolare.
+Perché parlava sempre alla folla, anche quando la sfidava. Ma questo è
+un esempio eccellente; perché non è scosso da alcuna particolare
+controversia sui fatti. Tutti sapevano persino allora che
+[[Queen Elizabeth|Elisabetta]] era sanguinaria, se perseguitare la gente
+con esecuzioni e persecuzioni e torture rende sanguinaria una persona; e
+questa era la sola ragione per dirlo di Maria. Tutti sapevano persino
+allora che Maria era buona, se certe reali virtù e responsabilità
+rendono buona una persona; assai più indubitabilmente buona di
+Elisabetta. Fu il movente troppo ovvio e prevenuto dell'inversione a
+irritare la gente. Non era davvero la [[history|storia]] di Cobbett ad
+essere in controversia; era la sua contenziosità. Non erano i suoi fatti
+ad essere contestati; era la sua sfida.
 
 
 
@@ -7454,6 +10110,158 @@ Perhaps the real story of Jack the Giant Killer is that Jack
 was the first man who was even tall enough to see the giant.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Qui ci occupiamo della sua controversia soltanto in quanto parte del suo
+carattere. E di questa sorta di sfida possiamo quasi dire che era
+l'intero suo carattere. Dobbiamo vedere la situazione con grande
+semplicità, se vogliamo vederla come la vedeva lui. Egli era
+semplicemente un uomo che aveva scoperto un delitto: antico come molti
+delitti; occultato come tutti i delitti. Era come uno che avesse trovato
+in un bosco oscuro le ossa di sua madre, e d'un tratto sapesse che era
+stata assassinata. Egli sapeva ora che l'Inghilterra era stata
+segretamente trucidata. Alcuni, avrebbe detto, potevano ritenerla cosa
+di mite rammarico da esprimersi in mormorii. Ma quando egli trovò un
+cadavere lanciò un grido; e se gli sciocchi ridevano di chi gridava,
+egli avrebbe gridato ancora di più, finché il mondo non fosse scosso da
+quel terribile grido nella [[Night|notte]].
+
+È quel grido squillante e sconvolgente di «Assassinio!», strappatogli
+mentre inciampava in quelle ossa dell'Inghilterra morta, a distinguerlo
+da tutti i suoi contemporanei. Non è la mera scoperta delle ossa, né in
+un certo senso il loro stesso studio. Non erano davvero, ripeto, i fatti
+ad essere in discussione. La torre gotica che sovrastava il moderno
+casolare era palese come uno scheletro appeso a una forca. Alcuni
+sostenevano che le ossa fossero giustamente esposte al patibolo; che la
+vecchia Inghilterra fosse fortunatamente morta. Altri sostenevano che le
+ossa fossero tanto vecchie e decadute da poter essere oramai oggetto di
+un interesse puramente archeologico, come le mummie egizie. Ciò che era
+peculiare in Cobbett era il modo in cui egli trattava questa questione
+del passato come una questione del presente. La trattava non come un
+punto storico da decidere, ma piuttosto come un torto legale da
+raddrizzare. Se non rispondeva esattamente alla domanda «Possono queste
+ossa aride rivivere?», diceva però in un altro senso: «Io so che il loro
+vendicatore vive». Era pronto a fare di quelle ossa la sua faccenda,
+come di quelle di Paine; a farsi detective in una storia di mistero, e a
+presentarsi ex ossibus ultor. Si potrebbe supporre che una storia di
+detective sia più popolare di un saggio antiquario; e un'accusa di
+delitto più lucida di una meditazione sull'archeologia. Eppure non era
+del tutto così; e il paradosso è pertinente all'intero enigma di
+Cobbett. Il grido che risuonò per il villaggio trasalito era forte ma
+difficilmente chiaro. Può darsi che fosse troppo forte per essere
+chiaro.
+
+È possibile parlare troppo chiaramente per essere compresi. La maggior
+parte degli uomini che abbiano una qualche convinzione in un'età confusa
+e complicata ha provato la sensazione quasi inquietante di gridare alla
+gente che un cane rabbioso è a piede libero o che la casa è in fiamme,
+per essere accolti soltanto da espressioni perplesse e penosamente
+rispettose, come se l'osservazione fosse una dotta citazione in greco o
+in ebraico. Poiché in un'età siffatta gli uomini sono avvezzi alle
+parole lunghe e non sanno comprendere quelle corte. Questa comica sorta
+di equivoco fu specialmente il caso di Cobbett. Il mondo, nel senso
+dell'ordinario mondo politico e letterario, non poteva comprendere lui
+né ciò che diceva. La gente non poteva comprenderlo perché non era
+abbastanza oscuro. Non la blandiva con quelle oscurità informi ma
+familiari che essa si aspettava come il debito preludio a ogni proposta
+politica. Egli veniva al punto troppo in fretta; e ciò li assordava come
+un'esplosione e li accecava come un lampo. La sua rapidità produceva
+tutto l'effetto della lontananza. La gente di questa risma politica e
+letteraria comprendeva assai meglio gli oratori a cui era avvezza; o
+prediligeva assai di più gli oratori che non comprendeva. Le pompose e
+polisillabiche felicità della dizione di Pitt parevano loro confortanti
+se non comprensibili. Lo stile ricco e carico di Burke pareva una
+qualche esibizione di ricchezza imperiale che si poteva ammirare benché
+non calcolare. Era lo stesso con l'espressione letteraria come con
+quella politica del tempo. Era assai più facile persuadere la gente ad
+ascoltare la lode meramente romantica del passato quale la pronunciava
+Scott che quella realistica del passato quale la pronunciava Cobbett.
+Gli uomini sentivano vagamente che ogni simpatia per cose così perdute
+nelle nebbie dell'antichità dovesse essere espressa in un linguaggio più
+o meno nebuloso, e con l'aria di chi tratta cose non solo morte ma
+addirittura irreali. Era più rasserenante sentirsi dire da un Grande
+Incantatore quali fantasmi potessero infestare un'abbazia in rovina che
+sentirsi chiedere da un ruvido e prepotente contadino quante persone
+potessero entrare nel portico di una chiesa parrocchiale. Gli uomini
+trovavano l'Abbazia di Melrose più visibile al chiaro di luna della loro
+stessa chiesa parrocchiale alla luce del giorno. Il mondo non pagherà
+mai il proprio debito verso il grande genio di Walter Scott, che operò
+nella letteratura europea quel secondo Rinascimento che fu chiamato
+Romanticismo. Egli aprì quegli alti argini di fango che tagliavano gli
+uomini fuori dai fiumi della tradizione romantica popolare, e irrigò
+l'arido giardino dell'Età della Ragione. Non gli si manca di rispetto
+dicendo che egli era, come il suo stesso eroe, un antiquario e al tempo
+stesso uno scettico. Ma egli era alla moda perché assicurava agli uomini
+che il medievalismo era soltanto un romanzo; e Cobbett era assai meno
+alla moda quando lo sosteneva come realtà. Scott era meramente
+sentimentale riguardo a Maria Stuarda, come lo era riguardo a Carlo
+Edoardo Stuart; cantava «Non tornerai più?» a gente che sarebbe stata
+un'orribile seccatura per lui se fosse davvero tornata. Ma Cobbett non
+era sentimentale riguardo a Maria Tudor; credeva solidamente che con lei
+i tempi buoni se ne fossero andati; e voleva davvero che ritornassero.
+
+Comunque sia, quando egli riformò la [[history|storia]] la riforma fu
+davvero una rivelazione. La riforma potrà essere riformata, ma non sarà
+rovesciata. La rivelazione potrà rivelarsi ulteriormente, ma non si
+nasconderà mai più. Cobbett lasciò uscire il gatto dal sacco; e questo
+non è meno vero per il fatto che fosse piuttosto un gatto selvatico
+quando ne uscì. Nessuno poteva pretendere che, perché era un gatto
+selvatico, fosse un animale favoloso, mentre correva così palesemente
+giù per la strada. In altre parole, egli attirò l'attenzione su un
+fatto; un fatto che altri hanno seguito e riscontrato e bilanciato con
+altri fatti, un fatto che altri hanno riformulato più mitemente o
+analizzato più delicatamente, ma pur sempre il fatto originario che egli
+asserì furiosamente e i suoi nemici furiosamente negarono. Nella misura
+in cui le storie moderne differiscono davvero dalla [[history|Storia]]
+della [[Reformation|Riforma]], ciò avviene per lo più perché siamo
+giunti a ripetere con decoro ciò che persino lui osò soltanto scagliare
+con sfida. Ruskin e William Morris e molti altri percorsero il suo
+sentiero attraverso quel vivente labirinto che un tempo era stato
+considerato il guscio morto di una chiesa di villaggio. Maitland e
+Gasquet e molti altri giustificarono con laborioso studio e annotazione
+le sue congetture selvagge ma acute sulla [[Greatness|grandezza]] della
+sociologia medievale. Era facile per loro esporre l'argomento medievale
+più mitemente; semplicemente perché l'uditorio moderno era divenuto più
+mite. Ma la scoperta di Cobbett non può mai essere disfatta; vale a
+dire, non può mai essere di nuovo occultata. E ciò per la ragione
+enunciata al punto di partenza di questo capitolo.
+
+Una [[City|città]] posta su un [[Hill|colle]] non può rimanere nascosta;
+una chiesa posta in alto sopra una [[City|città]] è ancora più difficile
+da nascondere, una volta che sia stata scoperta. Non si può
+disconoscere l'elefante. Ecco perché è essenziale in questo capitolo
+insistere sulla mole e sulla semplicità della cosa negletta, e sul
+quadro schietto del contadino del Surrey che sta a fissare il campanile
+del villaggio. Poiché le concezioni storiche di Cobbett hanno sempre più
+prevalso, vi sono stati molti tentativi, tra gli oppositori degli
+ideali medievali, di sbarazzarsi di questa rinascita medievale. Vi sono
+stati molti sforzi per liquidare l'elefante o minimizzare la
+[[Cathedral|cattedrale]]. E tutti falliscono perché cominciano
+dall'estremità triviale e tentano di mozzare qualche pollice dalla coda
+dell'elefante; o cercano di contrapporre la bruttezza di un doccione
+alla [[Beauty|bellezza]] di una [[Cathedral|cattedrale]]. Così troveranno
+questa o quella pecca nell'applicazione del principio corporativo, senza
+avvedersi che tutto è concesso con il principio corporativo stesso; il
+semplice fatto che il principio del commercio medievale era
+riconosciutamente [[Comradeship|cameratismo]] e giustizia, mentre il
+principio del commercio moderno era dichiaratamente concorrenza e
+[[Greed|avidità]]. Diranno che lo spirito corporativo era deficiente in
+questo e in quello; senza nemmeno sfiorare la [[Truth|verità]] che noi
+siamo deficienti nello spirito corporativo. In breve, i tentativi di
+confutare le rivelazioni della cultura medievale e della creativa
+[[Reform|riforma]] sono soprattutto triviali. Non solo trovano pecche
+piccolissime in una cosa grandissima, ma non sembrano rendersi conto che
+il resto del mondo può ormai guardare la cosa grande così
+[[Well|bene]] come la piccola pecca. Ma fu davvero William Cobbett,
+sceso dal suo [[Horse|cavallo]] e fermatosi per qualche ozioso istante
+nel portico di una chiesa al riparo dalla pioggia, che per primo ebbe la
+visione di questa torreggiante [[Resurrection|resurrezione]] di una
+Cristianità dimenticata; e levò gli occhi verso cose così alte e remote
+che gli uomini le avevano lasciate fluttuare inosservate sopra le loro
+teste come le cime degli alberi o le nubi. Forse la vera storia di Jack
+l'Ammazzagiganti è che Jack fu il primo uomo abbastanza alto anche solo
+per vedere il gigante.
+
 
 
 <span class="atom-split" data-atom="chapter_06--part_01" data-title="William Cobbett — Chapter 6 (part 1)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="motif/home,motif/road,motif/time,motif/well,concept/body,concept/imprisonment,form/biography,form/satire,setting/london"></span>
@@ -7586,6 +10394,134 @@ the inconsequence, the intellectual outrage of having these two
 things so near to each other and not bringing the two things together
 into one harmonious whole.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+CAPITOLO VI
+
+IL CAVALIERE RURALE
+
+Persino gli schizzi più elementari di Cobbett hanno teso a dare troppo
+della sua [[Biography|biografia]] e troppo poco della sua vita. Egli
+ebbe una carriera pittoresca, se pure i quadri parvero talvolta ai suoi
+critici quadri comici; combatteva sempre, fu gettato in prigione, andò
+errando in terre straniere. E tuttavia vi fu un senso in cui tutto ciò
+che egli fece era diretto verso la pace; una pace che non conseguì mai
+pienamente. Ho detto che egli spazzò per il paese come un turbine; ma
+nel cuore del turbine c'è una calma. Il quadro nella sua stessa mente
+era un quadro quieto; solo che non gli fu mai lasciato di goderlo in
+pace da [[Alone|solo]]. Forse sarebbe più esatto dire che egli non
+lasciò mai a se stesso di goderlo in pace da [[Alone|solo]]. Comunque
+sia, fu soltanto occasionalmente, nei suoi vagabondaggi per il mondo,
+che egli incontrò la romantica avventura di restarsene a [[Home|casa]].
+Nel bel mezzo della sua mente v'era un segreto paesaggio di campi e
+poderi sotto la luce della sera, che veniva continuamente strappato via
+dal campo visivo come un'immagine in una macchina fotografica scossa. È
+molto difficile in pratica presentare l'intera sua mente se non come una
+mente frammentaria; ma forse il più continuo rotolo di tutto ciò che gli
+piaceva e su cui rifletteva si può trovare nel lungo panorama
+[[rolling|ondeggiante]] delle Cavalcate Rurali.
+
+Poco prima della faccenda della sua [[Imprisonment|prigionia]] egli
+aveva preso un podere a Botley, nell'Hampshire; dove visse per un
+[[Time|tempo]] quella sorta di vita che gli piaceva, viziando i figli e
+azzuffandosi con i vicini; specialmente con il parroco di Botley. Questo
+reverendo gentiluomo figurò così in evidenza nella [[Satire|satira]] di
+Cobbett da divenire una sorta di proverbio; e tuttavia l'origine di un
+proverbio è spesso difficile da rintracciare. E non è affatto chiaro in
+che cosa l'infamia del titolare di Botley differisse da quella degli
+altri parroci di campagna. Ma egli sta come un simbolo della querela di
+Cobbett contro il clero della Chiesa d'Inghilterra; la quale nella
+maggior parte degli altri casi aveva altri e più seri fondamenti. Due
+cose si possono notare, fin da questo punto, sul suo alquanto curioso
+genere di anticlericalismo. Una è che, se schernì il clero anglicano,
+egli aveva non meno, ma assai più scherno e furore per i Ministri
+Dissenzienti e per i Metodisti e per i Quaccheri. E la seconda, che il
+suo primo serio motivo di avversione riguardava la corruzione del
+pluralismo, e specialmente il favoritismo familiare. Egli esecrava per
+ragioni economiche le grandi famiglie clericali che mantenevano la
+propria presa su una vastissima varietà di benefici e decime. Non era
+ancora consapevole che questa [[Road|strada]] lo stava conducendo, oltre
+la comoda canonica che malediceva mentre le passava accanto, verso il
+portale di una grigia rovina ancora chiamata abbazia.
+
+Nella confusione che accompagnò la sua grande catastrofe, egli fu
+costretto a vendere la sua tenuta di Botley; ma gran parte della sua
+prima vita si era irradiata di là, ed essa costituisce una sorta di
+punto di partenza per considerarlo nella sua veste di Cavaliere Rurale.
+
+Le Cavalcate Rurali sono un paesaggio; ma sono anche un ritratto. Talora
+ci pare di osservare sotto nubi [[rolling|ondeggianti]] la
+[[rolling|ondeggiante]] campagna delle contee, valli colorate come
+carte geografiche, o dossi che paiono spingersi via il cielo con le
+spalle; e poi di nuovo stiamo soltanto guardando i mutamenti su un
+volto ostinato mentre ricade nel buon [[Humour|umore]] o si indurisce
+nell'odio. Quella combinazione dell'oggetto e del soggetto è ciò che fa
+della scrittura letteratura; e le Cavalcate Rurali sono pura
+letteratura. Forse sono tanto più letteratura in quanto potrebbero
+essere giudicate sciolte e colloquiali persino per un discorso parlato.
+Sarebbe un'esperienza mozzafiato persino udire un uomo parlare in uno
+stile così sbrigativo come quello con cui Cobbett scriveva; ma la cosa
+sarebbe brillante oltre che mozzafiato. Tutto entra in questo grande
+soliloquio: dettagli, dogmi, personalità, dibattiti politici, memorie
+private, mere esclamazioni quali un uomo profferisce mentre davvero
+cavalca lungo una [[Road|strada]]. Ma attraverso tutto vi è
+l'assunzione che il cielo lo abbia designato, o che egli abbia designato
+se stesso (e forse era troppo incline a confondere le due condizioni),
+come una sorta di ispettore nazionale dell'intera terra d'Inghilterra,
+tenuto a pubblicare al mondo la propria relazione. I suoi appunti,
+semplicemente come appunti, non mancano mai di essere divertenti.
+Chiunque abbia un po' di senno può [[Well|ben]] leggere Cobbett per
+divertimento, anche quando non vi è alcuna questione di accordo. Egli
+sapeva far apparire ridicoli grandi edifici e persino paesaggi, come
+paesaggi di un mondo alla rovescia, quando volgeva su di essi quel suo
+gargantuesco ghigno. Noteremo più avanti come per lui la grande
+[[London|Londra]] fosse semplicemente «il Bubbone», un grosso foruncolo
+e una repulsiva eruzione sul [[Body|corpo]] politico. Vedremo come Old
+Sarum fosse «il Colle Maledetto». Egli fece apparire le torri Martello
+ancora più sciocche di quanto appaiano adesso. Nulla fu mai migliore nel
+suo genere della derisione drammatica con cui indicò il canale di Hythe,
+e disse alla gente che quello era destinato a tenere fuori gli eserciti
+francesi—che avevano appena varcato il Reno e il Danubio. Più
+discutibile, ma egualmente ridicolo, era il suo irriverente quadro delle
+fortificazioni sulle scogliere di Dover; che egli descrisse, con una
+sorta di sfacciata innocenza, come un colle pieno di buche per nascondere
+gli inglesi ai francesi. Una così semplice veduta della scienza della
+fortificazione è forse superfluo sostenere; ma persino qui abbiamo quella
+sorta di stralunato buon senso che non era mai lontano da Cobbett, anche
+quando parlava di ciò che non comprendeva minimamente; come quando fece
+notare che era assai improbabile che i francesi tentassero di sbarcare su
+un precipizio a Dover quando avevano tutta la distesa piatta fino
+all'East Sussex e ai livelli di Rye e Pevensey, dove tutti i
+conquistatori erano sbarcati da quando la storia ebbe inizio.
+
+Egli aveva odii che parevano troppo grandi per il loro oggetto; come la
+sua avversione per il tè e le patate. Ma nel suo odio vi era umorismo, e
+persino umorismo consapevole. Molti riformatori sociali che nutrono un
+debole per i suoi principii sarebbero assai afflitti dai suoi
+pregiudizi. Ma era uno dei suoi principii avere tali pregiudizi. Né in
+verità è un principio inintelligente o inintelligibile. Egli credeva
+nelle tradizioni del passato e negli istinti del popolo. E queste cose
+si sono sempre mosse per generalizzazioni, toccando certi tipi sociali o
+certe atmosfere locali. Non si può avere quella sorta di buon senso
+della campagna se non le è consentito di dire che gli uomini dello
+Yorkshire sono questo o quelli del Kent sono quello, o che un certo modo
+è il migliore con gli Zingari o un altro è la consueta abitudine degli
+Ebrei. Alla maggior parte della gente è ancora consentito esprimere
+queste impressioni generali, finché non si giunge al caso degli Ebrei.
+Lì (per qualche ragione che non ho mai compreso), l'intera tendenza
+naturale è stata di arrestarsi; e chiunque dica alcunché sugli Ebrei in
+quanto Ebrei si suppone desideri bruciarli sul rogo. Cobbett era così
+straordinariamente e quasi allarmantemente schietto nell'espressione
+delle proprie avversioni che difficilmente si può dire si sia adoperato
+per cancellare quest'ultima impressione. Per chiunque non abbia ancora
+del tutto distrutto il proprio senso dell'umorismo per orrore della
+persecuzione, nulla potrebbe essere più esilarante del passo in cui
+Cobbett, avendo udito un metodista predicare in un villaggio, e
+essendogli poi mostrata sul prato comunale una antiquata coppia di
+ceppi, commenta con indignazione l'incongruità, l'inconseguenza,
+l'oltraggio intellettuale dell'avere queste due cose così vicine l'una
+all'altra senza congiungerle in un unico armonioso insieme.
 
 
 
@@ -7720,6 +10656,129 @@ There was no dunce in the class he taught; for the whole fury
 of his genius was poured into simplifying his lesson to suit
 it to the village idiot.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+La pittoresca vivacità primaria della sua opera ha perciò qualcosa della
+farsa a suon di legnate o persino della pantomima; come il signor
+Pulcinella, egli combatte col randello, l'arma inglese pesante ma
+umoristica e relativamente persino umana. Quando egli assesta ai nostri
+nobili lord e ai nostri dotti giudici certe tonanti bastonate, abbiamo
+gli stessi motivi di consolazione che nel caso di Pulcinella e la sua
+Rosaura. Abbiamo ragione di sapere che l'arma è fatta di legno. Abbiamo
+ancor migliore ragione di sapere che le teste sono fatte di legno.
+Tutta questa farsa superficiale e grossolana va messa in conto per prima
+come parte del divertimento. Egli ne ricavava un gran divertimento, e
+noi ricaviamo un gran divertimento da lui; anche se non sono soltanto i
+suoi nemici a essere fatti apparire un po' buffi. Ma accontentarsi di
+considerare questa energia pantomimica significa mancare il paradosso e
+perciò mancare il punto. La cosa interessante è che questo spaccone che,
+come diciamo, si dava tante arie aveva assai notevolmente un altro lato;
+che si potrebbe chiamare un lato tenero. Ma era anche decisamente un
+lato posato. Per esempio, colui che era il più impaziente degli uomini
+era il più paziente dei padri. Era persino il più paziente dei maestri.
+L'aratore era capace di procedere passo passo oltre che di sferrare
+calci. Poteva essere non solo tenero ma persino sottile; e se leggiamo
+le Cavalcate Rurali una seconda volta, per così dire, scorgeremo certe
+cose che sono la morale del libro: e che non vi furono mai poste da un
+mero prepotente.
+
+Per esempio, vi è in lui l'elemento educativo. Cobbett era un demagogo
+nel senso letterale; vale a dire, era un demagogo nel senso dignitoso.
+Era un capopopolo; ma non era meramente un uomo condotto dal popolo.
+Certo non era un uomo che cercasse meramente di ingraziarsi la folla, o
+in verità chiunque altro. Per lo meno, se lo si supponesse intento a
+ingraziarsi qualcuno, gli si dovrebbe riconoscere una curiosa e
+originale scelta di parole con cui farlo. Ma la verità è che non erano le
+sue parole bensì le sue idee ad essere curiose e originali. Egli
+desiderava suscitare una folla, o se volete una plebaglia, a sostegno di
+quelle idee; ma non a sostegno di idee qualsiasi—meno che mai a sostegno
+di idee che essa potesse già per avventura possedere. Fondamentalmente e
+quasi inconsciamente egli si appellava in verità a istinti popolari che
+erano non solo egualmente fondamentali ma egualmente inconsci. Ma nella
+mera forma e nel metodo della sua espressione, era assai più disposto a
+cacciare l'informazione giù per le loro gole che a cogliere suggerimenti
+dai loro volti. Se a suo modo era demagogico, era assai più decisamente
+didattico. L'educazione era per lui un entusiasmo: dall'insegnare
+economia come insegnava il francese, per una sorta di pubblica
+corrispondenza, all'aiutare il suo stesso figlioletto con l'abbecedario.
+Ma mentre in privato era il più gentile dei maestri, in pubblico, quando
+parlava a una folla di contadini invece che a un ragazzino, era il più
+violento e persino offensivo; con il bambino era piuttosto persuasivo
+che didattico, e con gli uomini non tanto didattico quanto dittatoriale.
+
+Abbiamo già notato qualcosa del genere a proposito della Grammatica
+Inglese. Egli era un logico oltre che un grammatico. Era l'ultimo uomo
+al mondo a essere davvero un pedante. Avrebbe sempre preferito spaccare
+gli infiniti che spaccare i capelli in quattro. Queste critiche della
+dizione sono anche critiche del pensiero; o dell'assenza di pensiero.
+Questo era il periodo di cui si soleva dire, con tutta solennità, che
+uno statista inglese non si riprendeva mai del tutto dall'aver
+profferito una quantità falsa in una citazione latina in gioventù. Suona
+come una parodia del segreto peccato del misterioso baronetto; ma in
+verità egli si riprendeva abbastanza facilmente dall'aver abbandonato la
+fanciulla del villaggio; e non tentava mai di riprendersi dall'essere
+stato ubriaco. In queste circostanze, Cobbett era sicuramente
+giustificato nel suggerire che si prestasse troppa attenzione a una
+quantità falsa in latino, e troppo poca a una qualità falsa in inglese.
+Ad alcuni può sembrare una questione piuttosto remota se lo statista
+inglese, parlando latino, lo accentasse giusto, considerato che quasi
+certamente lo pronunciava sbagliato: ma in ogni caso Cobbett, se ci è
+lecito estendere la metafora, gettava sempre l'accento morale assai
+indietro e lo lasciava cadere sulla radice della parola. In questo e in
+molti altri rispetti egli era davvero un Radicale.
+
+Ma il nostro interesse qui non è tanto se ciò fosse corretto quanto se
+fosse caratteristico. Certo, se Cobbett avesse trattato una qualsiasi
+scienza astratta essa sarebbe divenuta una scienza concreta. Se avesse
+semplicemente intrapreso di esporre la tavola pitagorica, essa sarebbe
+suonata così: «Due volte un reggimento inutile fa due reggimenti
+inutili; due volte due Ministri venali fa quattro Ministri venali; due
+volte tre canoniche pluralistiche fa sei canoniche pluralistiche come
+quelle possedute dal Reverendo signor Hugg di Netherwallop», e così via.
+Se avesse esposto un sistema di astronomia, e avesse dovuto soltanto dare
+i nomi delle [[Stars|stelle]], non sarebbe stato capace di menzionare
+Marte senza dire qualcosa di caustico su Lord Wellington, o Mercurio
+senza qualche illustrazione contemporanea della connessione fra commercio
+e furto. Nessuna gelida astrazione poteva raggelare quella feroce
+familiarità. Si dice che lo scopritore del Polo Nord vi troverebbe il
+berretto di uno scozzese; certo la vista di quel berretto avrebbe colmato
+Cobbett di sentimenti sufficienti a tenerlo caldo. Da quel lato
+l'esperimento grammaticale illustra soltanto la sua ovvia combattività;
+la sua tendenza a personificare ogni cosa per poterla lapidare di
+personalismi. Ma illustra anche qualcos'altro. Ed è esattamente
+quel qualcos'altro che pare in un certo senso contrario, e tuttavia è il
+completamento del carattere, senza il quale esso non può essere
+compreso.
+
+Vi era qualcosa di freddo in Cobbett, con tutto il suo [[Fire|fuoco]]; e
+quello era il suo istinto educativo, il suo [[Love|amore]] per
+l'insegnamento alfabetico e oggettivo. Era un furibondo disputatore; ma
+era un mite e paziente maestro. Il suo dogmatismo cessava là dove la
+maggior parte del dogmatismo comincia. Avrebbe sempre tiranneggiato un
+pari; ma non avrebbe mai tiranneggiato un allievo. Ponetegli davanti un
+[[Child|bambino]] da istruire in aritmetica o nell'uso dei globi, ed egli
+diveniva, nel senso più profondo e persino commovente, un uomo diverso.
+Sopraggiungeva intorno a lui, come un'aria fresca uscita dai cieli
+limpidi, a rinfrescargli la testa accalorata, qualcosa che contava per
+lui più di quanto conti per la maggior parte degli uomini; qualcosa di
+cui forse sentiamo dire ora troppo come allora troppo poco; qualcosa che
+solo troppo facilmente fornisce perorazioni ai politici o temi alle
+società etiche; ma qualcosa che pure esiste in certi uomini ed esisteva
+enfaticamente in costui. La pura passione dell'[[Education|educazione]]
+lo attraversava come un [[Wind|vento]] purificatore; egli aveva sete di
+parlare ai giovani delle cose—non di teorie o partiti o accuse politiche,
+ma delle cose. Che fossero radici grammaticali o radici vegetali o radici
+cubiche, egli voleva dissotterrarle; per mostrarle e per condividerle.
+Aveva l'entusiasmo del maestro per l'essere seguito, per l'essere
+compreso; il suo ideale più intimo era una sorta di lucidità
+incandescente. Egli, più di ogni altro uomo, lanciava l'appello: Chi ha
+orecchi per intendere, intenda; benché fosse troppo incline a ornare di
+lunghissime orecchie i rivali che di certo avrebbero rifiutato di
+intendere. Ma gli asini erano i dotti. Non c'era alcun asino nella
+classe che egli istruiva; poiché tutto il furore del suo genio era
+versato nel semplificare la lezione fino ad adattarla all'idiota del
+villaggio.
 
 
 
@@ -7890,6 +10949,160 @@ but if he had been arranging such an allegorical illumination,
 he would probably have added a Lamp of Thrift.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Anche per questa ragione, e non soltanto per l'altra, egli aveva
+decorato la sua Grammatica con [[Grotesque|grottesche]] caricature. Era
+risoluto a rendere divertente la grammatica inglese; e ci riuscì. Non è
+vero che il suo unico piacere fosse esecrare qualcuno o persino smascherare
+qualcosa. Più forte ancora di questi era il suo razionale rapimento nello
+spiegare qualcosa. Aveva appreso che per spiegare qualcosa è necessario
+tenere desta l'attenzione; e i suoi esempi tengono sempre desta
+l'attenzione. In certi modi, dunque, le due forze contrarie che sono in
+lui si congiungono, più che altrove, in questo strano volume; in ciò che
+alcuni chiamerebbero questo folle manuale.
+
+Ma egli appare come un maestro migliore, perché più ampio, nelle
+Cavalcate Rurali. Aveva davvero un gran talento per l'insegnamento; nel
+senso reale in cui un maestro, come un poeta, nasce e non si fa. Sapeva
+tornare col principiante ai principii. Sapeva comprendere l'incapacità
+dell'allievo di comprendere. Si prendeva la briga di far sì che ogni cosa
+significasse qualcosa, e vagliava la lingua in cerca di termini a cui
+altri termini potessero essere ridotti. Un modello di metodo educativo si
+può trovare nel suo breve colloquio col bracciante a Beaulieu Abbey. La
+maggior parte degli uomini colti, persino di piega didattica, si
+accontenterebbe di dire all'uomo che si scriveva Beaulieu ma si
+pronunciava Buley, e lo lascerebbe soltanto perplesso. Al meglio gli
+avrebbero detto che Beau è il francese per bello e lieu il francese per
+luogo; e lo avrebbero lasciato con un fatto arbitrario caduto dall'aria,
+come la parola ebraica per cappello o quella cinese per ombrello. Ma
+Cobbett tradusse davvero le parole, facendone parte della lingua
+dell'uomo stesso. Egli fece notare che persino in inglese parliamo di un
+beau quando intendiamo un damerino o un bellimbusto; e parliamo di
+prendere merci in lieu di denaro quando intendiamo in luogo di denaro.
+Non c'è un uomo colto su mille che penserebbe a quelle illustrazioni per
+chiarire le cose a un villano in un viottolo; e l'uomo che parlava
+abitualmente in quel modo era uno dei grandi maestri del mondo.
+
+È del tutto impossibile raccogliere tutte le varie e vivide bagattelle
+che sono sparse per le Cavalcate Rurali. Sarebbe indesiderabile anche se
+non fosse impossibile. Significherebbe risparmiare al lettore la briga di
+leggere il libro; e non dovrebbe essere alcuna briga. L'uomo che non trova
+divertente uno dei libri di Cobbett è condannato a trovare noioso ogni
+libro. Essi contengono un centinaio di frammenti con cui è stata
+costruita l'intera abitudine della sua vita. Ce lo mostrano in una serie
+di istantanee, in atteggiamenti così attivi da equivalere all'animazione
+di un cinematografo. Possiamo raffigurarcelo mentre pavoneggia per il suo
+stesso podere a Botley, nel panciotto rosso che portava così
+appropriatamente, come una sfida a un'intera mandria di tori. Possiamo
+osservarlo mentre spia oltre steccati e siepi nella sua avida e sfrontata
+[[Vanity|vanità]], informandosi ovunque sul Grano di Cobbett (il nome che
+modestamente diede al granoturco che portò dall'[[America]]), e
+ammonendo severamente coloro che erano inconsapevoli della loro fortuna
+nel possederlo. Possiamo vederlo mentre maledice [[London|Londra]] dalle
+colline; egli la chiamava sempre il Bubbone. Ma qui di nuovo il suo
+[[Humour|umorismo]] è più sottile di quanto sembri. Abbiamo notato la
+medesima disinvolta offensività nelle sue citazioni della Grammatica
+Inglese. Con la sua ingenua maestria, egli dà maggior peso a questo
+termine ingiurioso usandolo non tanto ingiuriosamente quanto
+allusivamente. Invece di dire: «Questa vile città non è che un mostruoso
+Bubbone», ha cura di dire con tutta noncuranza: «Venivo dal Bubbone»,
+come se dicesse: «Venivo dal Bosco». Pare dare per scontato che tutti la
+conoscano con quel nome. È impossibile, ripeto, trattare tutti questi
+dettagli; possiamo solo sceglierne uno o due perché sono simbolici e
+considerare la veduta sociale che simboleggiano.
+
+Per esempio, possiamo vedere che persino come reazionario egli era un
+realista. Un eccellente esempio dell'atteggiamento generale di Cobbett si
+può trovare nella sua veduta delle fiere e dei mercati. Ciò è
+specialmente vero in quanto il suo atteggiamento non è affatto quello che
+la maggior parte dei suoi critici e alcuni dei suoi sostenitori
+supporrebbero. Nella teoria che egli fosse una sorta di rustico
+retrospettivo, che rimpiangeva meramente i buoni vecchi tempi, sarebbe
+abbastanza facile fare un quadro di tale sentimentale veterano che
+rievoca il romanzo della sua gioventù alla fiera e al mercato. Ma Cobbett
+si occupa davvero degli affari del mercato, e non meramente del divertimento
+della fiera. Egli non immagina che le fanciulle del villaggio passino
+l'intera vita danzando attorno all'Albero di Maggio. Alcuni dei romantici
+più tardi della Giovane Inghilterra sarebbero stati ben capaci di far
+loro rizzare un Albero di Maggio a Natale, magari con un budino natalizio
+in cima. Egli non si aggrappa nemmeno a quel pilastro pur più nobile
+della Cristianità, l'albero della cuccagna con un cosciotto di montone in
+cima; più veramente cristiano perché offre più occasioni per un'allegra
+umiltà. Egli non la vede come un antico corteo del vecchio mondo, alla
+maniera di Ruskin o di William Morris. La vede come una questione
+economica con tutto il rigore di Ricardo o di John Stuart Mill. Solo che,
+a torto o a ragione, egli volge l'argomento economico dall'altra parte. È
+anche del tutto tipico di lui che la sua economia sia davvero economica.
+Egli non loda in primo luogo la fiera come un luogo in cui la gente può
+spendere denaro. La loda invece come un modo in cui essa può risparmiare
+denaro. E il suo argomento, che siamo o no d'accordo con esso, è
+perfettamente pratico e prosaico. Non intendo, s'intende, che egli non
+simpatizzasse con l'Albero di Maggio e con l'albero della cuccagna;
+poiché certamente lo faceva. Non intendo che egli non godesse del
+godimento, poiché certamente lo faceva. Aveva un bel gusto per le belle
+ragazze, come hanno molti uomini del tutto felici con le proprie mogli;
+avrebbe di certo amato vederle danzare attorno a un Albero di Maggio;
+benché forse non sarebbe stato abbastanza moderno e avanzato da godere
+nel vederne una affermare la parità dei sessi e farsi la propria carriera
+arrampicandosi sull'albero della cuccagna. Avrebbe interamente
+simpatizzato con la ragazza il cui innamorato indugiava alla fiera, dopo
+averle promesso di comprarle un mazzo di nastri azzurri, come dice la
+canzone, per legare i suoi bei capelli castani. Forse, di nuovo, sarebbe
+stato tanto all'antica da dubitare che la ragazza guadagnasse granché nel
+non comprare mai nastro per i propri capelli, ma soltanto nastro per la
+propria macchina da scrivere. Ma tutto questo era per lui una faccenda di
+lieve sentimento; ed egli era abbastanza sano di mente da prendere alla
+leggera il proprio sentimento. Il fondamento del suo argomento non era in
+alcun senso sentimentale; era perfettamente pratico per quanto arrivava.
+Era che il giovane non avrebbe dovuto pagare tanto per i nastri destinati
+alla giovane, perché la persona che vendeva i nastri non avrebbe dovuto
+pagare tanto per costruire o affittare una bottega. Qualcuno da qualche
+altra parte, egli sosteneva, che vivesse in un ordinario casolare con
+giardino, avrebbe fatto i nastri in casa, come le vecchie merlettaie di
+campagna facevano il merletto, e poi sarebbe andato a piedi fino alla più
+vicina città di mercato per venderli al giovane, che pure era andato a
+piedi nella medesima città di mercato per comprarli. La giovane avrebbe
+avuto i suoi nastri, e al giovane sarebbe rimasto tanto di più da
+destinare all'Economia del Casolare e alle spese della vita coniugale, le
+quali non consistono interamente nell'acquisto di nastri. Ma supponiamo
+(così correva l'argomento di Cobbett) che la donna del casolare, invece
+di lavorare nel proprio casolare a modo suo, dovesse recarsi in un luogo
+apposito per lavorare, tutte le spese di quel luogo dovranno essere
+messe in conto. Supponiamo che la donna del casolare debba venire al
+mercato e tirar su quattro pareti e un tetto per vendere un nastro. Le
+spese della bottega si aggiungono anch'esse alle spese del nastro; e la
+giovane ha meno nastri o (più probabilmente) meno denaro per la casa. Non
+sto ora discutendo se questo argomento economico sia solido. Sto solo
+facendo notare che questo argomento economico è economico. Cobbett di
+rado si sentiva a proprio agio se i suoi più forti istinti sentimentali
+non avevano qualche solido fondamento del genere. Penso che nel complesso
+l'argomento sia del tutto solido per quanto arriva; e arriva assai
+lontano, finché non entriamo nel mondo di una produzione di massa così
+vasta e così esanime che le cose possono essere prodotte a buon mercato,
+specialmente da enormi e ricchi monopoli grazie ai quali possono persino
+essere, per qualche tempo, prodotte in perdita. In altre parole, è
+probabilmente vero che un solo grande milionario possa possedere una sola
+grande macchina con ruote che girano incessantemente sciorinando
+lunghezze interminabili del medesimo bruttissimo nastro; e che egli possa
+persino venderlo sottocosto per il piacere di scacciare dal mercato ogni
+altra sorta di nastro migliore e più vario. Ma alcuni (compreso chi
+scrive) non amano monopoli di quel genere né macchine di quel genere, né
+milionari di quel genere, né persino nastri di quel genere; e alcuni di
+noi rifiutano persino, in qualsiasi circostanza, di usarli per legare i
+nostri bei capelli castani. In ogni caso, in questo schizzo ci occupiamo
+meno della controversia che del carattere; ed è essenziale al carattere
+di Cobbett che egli credesse che un mercato fosse migliore di una
+bottega, non meramente perché fosse più vivace o più singolare o più
+pittoresco, ma perché lo riteneva più a buon mercato. Va notato, come ciò
+che lo distingue dal reazionario romantico, e persino dalla scuola di
+Ruskin quando denunciava la tendenza economizzatrice dell'economia.
+Possiamo tutti simpatizzare con ciò che Ruskin intendeva per la Lampada
+del Sacrificio. Persino Cobbett avrebbe potuto simpatizzarvi, come il suo
+amore per le grandi chiese gotiche aveva dimostrato; ma se avesse
+disposto una tale illuminazione allegorica, avrebbe probabilmente
+aggiunto una Lampada della Parsimonia.
+
 
 
 <span class="atom-split" data-atom="chapter_06--part_04" data-title="William Cobbett — Chapter 6 (part 4)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="archetype/monster,concept/charity,concept/history,concept/paradox,concept/reform,concept/truth,form/history,histref/industrial_revolution"></span>
@@ -8024,6 +11237,130 @@ all who were more fortunate and respectfully touch their hats
 to anybody who had a little more money.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+In questo senso limitato e preciso egli obiettava davvero che
+l'Inghilterra fosse una nazione di bottegai. Oggi, s'intende,
+l'Inghilterra è nel modo più inequivocabile non una nazione di bottegai.
+Io stesso, in un momento di esagerazione polemica, l'ho descritta come
+una nazione di commessi. Ma comunque sia, è ovvio che il processo che
+Cobbett condannava non solo è andato assai oltre qualsiasi cosa egli
+descrivesse, ma è andato tanto oltre da distruggere se stesso, in quanto
+cosa coperta da quella descrizione. Se la proprietà è il criterio, esso è
+stato un processo e un periodo di gente che perdeva cose e non le
+guadagnava. È stato un processo di gente che andava a servizio, nel
+linguaggio dei servi, a servizio se non in servitù. È stato un processo
+di gente che perdeva persino la piccola baracca alla fiera, che era stata
+considerata un così misero surrogato del piccolo podere nei campi. Con
+una certa tristezza possiamo ora scagliar via da noi il dileggio del
+nostro grande nemico. Con la migliore prova di tutte, gli inglesi non
+sono una nazione di bottegai. Non hanno tenuto le loro botteghe.
+
+Ma il punto qui è che Cobbett non piangeva su cause perdute; egli era
+semmai delirante su contanti perduti: o comunque su capitale perduto. Era
+perfettamente pratico; ma gli rincresceva che i piccoli capitalisti
+venissero rovinati; e alla lunga può darsi che risulti aver ragione. Come
+abbiamo detto, egli non era enfaticamente un mero laudator temporis acti.
+Non piangeva meramente sul latte versato; piangeva chiedendo giustizia
+per le vacche rubate. Ma non era temerario nel senso di amico della
+temerarietà: al contrario, sentiva che una tale licenza al furto era la
+fine della parsimonia. Egli dava fil da torcere ai suoi nemici, come dice
+il detto, ma sapeva far di conto: e persino li contava con cura.
+
+È curioso che uomini del tipo di Brougham stessero sempre a far la lezione
+ai poveri sulla previdenza, quando l'unica cosa che non sapevano fare era
+prevedere il futuro dei poveri. Li esortavano sempre alla parsimonia e li
+esortavano a istituire un sistema che avrebbe reso impossibile essere
+parsimoniosi. Coloro che usavano la parola parsimonia venti volte al
+giorno non guardavano la parola nemmeno una volta. Se lo avessero fatto,
+avrebbero visto che la parsimonia dipende dal prosperare. In Shakespeare
+essa è usata a significare praticamente proprietà o ricchezza; «dove la
+parsimonia possa seguire l'adulazione». Purtroppo, in una moderna
+plutocrazia essa può seguire soltanto l'adulazione. Di certo non può
+seguire il risparmio. Un servo piacevolmente servile può forse fare
+fortuna per favoritismo. Ma per nessuna possibilità potrebbe risparmiare
+abbastanza dal salario comune da comprare un podere, e ancor meno una
+bottega in città dove la terra non ha prezzo; e quelle sono le cose per
+cui gli uomini risparmiano. Ma è il [[Paradox|paradosso]] dell'intera
+posizione che gli Utilitaristi che predicavano sempre la prudenza abbiano
+impegnato questo paese in una delle rivoluzioni più realmente temerarie
+della [[history|storia]]—la [[Industrial Revolution|rivoluzione
+industriale]]. Essi distrussero l'agricoltura e trasformarono
+l'Inghilterra in un'officina; un'officina in cui gli operai rischiavano
+in ogni momento di essere chiusi fuori e lasciati a mangiare martelli e
+seghe. I Radicali che fecero ciò erano pittoreschi come pirati, nella
+misura in cui i pirati diventano specialmente pittoreschi quando bruciano
+le proprie navi. In [[Truth|verità]] essi non bruciavano tanto
+metaforicamente le proprie navi: bruciavano quasi letteralmente i propri
+granai. Ma vi è qualcosa di calzante nell'accidente per cui il termine
+liberoscambista soleva significare contrabbandiere. Se la temerarietà
+romantica è il criterio, Cobden e Bright avrebbero dovuto sempre apparire
+brandendo sciabole e con una cintura piena di pistole.
+
+Ma Cobbett dava davvero valore alla previdenza; Cobbett credeva davvero
+nell'antiveggenza; Cobbett credeva davvero nella parsimonia. Era sempre
+pronto a raccomandare una saggia economia della spesa con la più sfrenata
+stravaganza di parole. Lodava la prudenza in una serie dei discorsi più
+spaventosamente imprudenti mai fatti da uomo. Ululava e muggiva tutte le
+bellezze di una vita sobria e sensata e quieta. Ma era perfettamente
+sincero; ed era davvero parsimonia e antiveggenza e sobrietà ciò che
+raccomandava. Solo che il guaio della sua antiveggenza era che essa era,
+fra le altre cose, pensiero; e della sua previdenza che egli sapeva
+vedere un po' più lontano. Sapeva vedere un po' più in là del proprio
+naso; o di quel naso sdegnoso su cui erano bilanciati gli occhiali
+dell'economista. Egli vedeva che persino quando gli economisti avevano
+ragione nel raccomandare l'economia, la raccomandavano a gente che non
+poteva in alcun modo essere economa. Vedeva che gli economisti non stavano
+nemmeno creando il loro proprio [[Monster|mostro]] dell'Uomo Economico;
+non stavano creando nulla se non le migliaia senza parsimonia di un
+proletariato errante. Quanto ai comuni Whig e ai campioni della
+[[Reform|Riforma]], egli non credeva che stessero nemmeno tentando di
+creare alcunché tranne stipendi e sinecure per se stessi.
+
+E poi, la sua rozzezza non è solo tocca dall'acume ma dalla tenerezza; di
+una specie assai troppo accorta per essere sentimentale. La sua
+[[Charity|carità]] non era a buon mercato. Dire che egli aveva un senso
+dell'uguaglianza umana significherà poco per coloro che non riescono a
+dare alcun senso a quel senso. Forse sarebbe più intelligibile dire che
+vi sono alcuni che simpatizzano coi poveri dall'esterno e alcuni che
+sanno simpatizzare dall'interno. V'è una specie d'uomo che ha pietà d'un
+mendicante perché il mendicante è così diverso da lui, e un altro che lo
+fa perché il mendicante è così simile. Molti riformatori del tutto
+sinceri diranno: «Immaginate un uomo che muore di fame in un simile
+tugurio», come direbbero: «Immaginate un uomo davvero bollito dai
+cannibali in una pentola», oppure: «Immaginate che un uomo sia stato
+davvero fatto a pezzi da torturatori cinesi». La loro frase è un brano di
+retorica perfettamente onesta; ma essi sanno che non lo immaginiamo
+davvero. Ma quando Cobbett ne scrive, noi lo immaginiamo. Egli non fa
+commercio di descrizioni truci; in questa materia è piuttosto
+insolitamente responsabile e ragionevole. Egli ha semplicemente il dono
+di far accadere la cosa a se stesso e perciò al suo lettore. V'è
+un'eccellente illustrazione del suo metodo più quieto in un passo delle
+Cavalcate Rurali. Egli descrive, in quello stile narrativo schietto e
+quasi nudo che pare posarsi come una forte luce mattutina su ogni
+dettaglio della giornata, come partì a cavallo col figlio all'alba; come
+sorse un intoppo circa la locanda in cui aveva inteso far colazione, ed
+egli proseguì sperando di raggiungere un altro albergo in tempo
+ragionevole; come sorsero altri intoppi che lo irritarono, facendogli
+sgridare il ragazzo per qualche piccolo sbaglio nell'assicurare con le
+cinghie una bisaccia; e come alla fine si destò a una sorta di stupore sul
+perché dovesse essere così irritabile con un bambino che amava tanto. E
+allora gli si affacciò alla mente che era per la ragione semplicissima che
+non aveva fatto colazione. Egli, che aveva mangiato bene la sera
+precedente e intendeva mangiar bene di nuovo, che era ben vestito e ben
+montato, non poteva negare che un buon appetito potesse gradualmente
+mutarsi in cattivo umore. E allora, con una delle sue svolte o gesti
+drammatici, egli evoca d'un tratto davanti a noi tutto l'esercito degli
+inglesi che non avevano speranza di fare alcuna colazione finché non
+avessero in qualche modo elemosinato lavoro da uomini duri o
+indifferenti; che vagavano per il mondo in un normale stato di fame e
+d'ira e di cupa disperazione riguardo al futuro; che erano esposti a ogni
+insulto e impotenti sotto ogni torto; e da cui i politici e i giornali si
+aspettavano che fossero perfettamente miti e moderati nel loro linguaggio,
+perfettamente leali e ligi alla legge nei loro sentimenti, che invocassero
+benedizioni su tutti coloro che erano più fortunati e rispettosamente si
+toccassero il cappello davanti a chiunque avesse un po' più di denaro.
+
 
 
 <span class="atom-split" data-atom="chapter_06--part_05" data-title="William Cobbett — Chapter 6 (part 5)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="motif/home,motif/well"></span>
@@ -8140,6 +11477,111 @@ And he had a better right than Hugo to say truly of himself
 that ‘thunder should be mild at [[Home|home]].'
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Ora, l'inconscia ingegnosità di quell'approccio sta nel fatto che ci
+sorprende dall'interno. L'uomo che lo scrive non ha assunto alcun
+atteggiamento da demagogo o da profeta di sventura; non si è messo a
+descrivere i tuguri come un missionario a descrivere i selvaggi. L'uomo
+che lo legge non sa che cosa stia per venire; ma quando viene, viene a
+lui e non a qualche estraneo remoto. È lui che sente lo sprofondamento
+interiore che deriva dal venir meno di tutti i nostri sostegni corporali;
+è il suo stesso stomaco a essere vuoto e il suo stesso cuore a essere
+malato di speranza differita. Sarà tanto meglio per lui se è il suo
+stesso cervello a farsi nero e la sua stessa lingua amara; se ciò gli
+insegna per un momento che cosa debba essere l'essere un vagabondo che
+cammina con dolore e bastonato da perpetui rabbuffi e sogghigni e
+rifiuti. Quando un uomo ha immaginato ciò per un momento a proprio
+riguardo, egli sa per la prima volta che cosa si intenda dicendo che gli
+uomini sono fratelli, e non meramente poveri parenti. Questa è
+l'esperienza psicologica corrispondente alla dottrina filosofica che per
+molti rimane un mistero: l'uguaglianza dell'uomo.
+
+Bisogna anche sempre ricordare, se vogliamo cavare un qualche senso dal
+racconto, che era questo tipo dell'uomo poverissimo, il vagabondo o il
+mendicante, che Cobbett faceva quasi inconsciamente il metro del tempo.
+Egli non era l'uomo per il quale fosse possibile rappresentarlo come un
+buon tempo. Non era l'uomo che veniva tollerato da atti di tolleranza o
+affrancato da leggi di riforma. Non era l'uomo che veniva istruito dalla
+scienza popolare di Brougham o equipaggiato dalle scoperte meccaniche di
+Arkwright. Non era uno di coloro che il mondo nuovo stava rendendo più
+ricchi. Come Cobbett l'avrebbe detto nel suo modo amaro, egli non aveva
+il vantaggio di essere un Ebreo che bestemmiava Cristo o un Quacchero che
+fuggiva dal patriottismo. Era soltanto un normale inglese nazionale
+battezzato, che non aveva nulla da mangiare. Era soltanto un pover'uomo;
+e stava del tutto certamente impoverendo.
+
+La tirannide varia col temperamento, specialmente col temperamento
+nazionale. Alcuni hanno tassato i poveri, e alcuni hanno reso schiavi i
+poveri, e alcuni pochi hanno massacrato i poveri; ma i governanti inglesi
+semplicemente dimenticarono i poveri. Parlavano come se essi non
+esistessero; generalizzavano come se non occorresse includere gente
+siffatta nella generalizzazione. Compilavano relazioni di progresso e
+prosperità in cui il popolo comune non figurava affatto. Non
+sopprimevano l'argomento; a quel tempo semplicemente non ci pensavano più
+di quanto un uomo che spara ai fagiani si vanti di uccidere mosche o un
+pescatore conti i moscerini. Si è detto che gli inglesi fondarono un
+impero in un accesso di distrazione. Bisogna aggiungere con una certa
+tristezza che essi trascurarono una nazione con la medesima distrazione.
+Oligarchie assai più dure e più arbitrarie nella forma legale avrebbero
+probabilmente più responsabilità nel senso della memoria. Un funzionario
+romano avrebbe potuto scrivere in una carestia: «Vi è ancora cibo a
+sufficienza per i cittadini e persino per gli schiavi». Un gentiluomo
+vittoriano negli Affamati Anni Quaranta si sedeva semplicemente al suo
+gemente tavolo di mogano e diceva: «Vi è cibo a sufficienza». Un
+piantatore della Carolina del Sud avrebbe ben potuto essere udito dire:
+«Il Blocco sta affamando i neri così [[Well|bene]] come noi stessi». Il
+mercante di Manchester era udito dire soltanto: «Vi potrà essere una
+recessione; ma col prossimo boom ci riprenderemo completamente». Questo è
+il vuoto mentale peculiare a questa mentalità. Essi non guardavano
+nemmeno dall'alto con disprezzo per dire: «Noi stiamo tutti comodi, anche
+se questi vagabondi sono ridotti alla mendicità dai propri stessi vizi».
+Si guardavano intorno con completa soddisfazione e dicevano: «Noi stiamo
+tutti comodi».
+
+Questa distinzione è semplicemente un fatto, e non dovrebbe essere
+confusa con recriminazioni morali o sentimentali. È un carattere della
+condizione chiamata capitalismo, sia che ci soffermiamo sulla dipendenza
+economica sia sull'indipendenza politica del lavoratore sotto il
+capitalismo. In parte, senza dubbio, il proletario era dimenticato perché
+era libero. Lo schiavo era ricordato perché era sempre sotto l'occhio del
+padrone. Ma io non sto ora discutendo se il capitalismo del diciannovesimo
+secolo sia stato migliore o peggiore della schiavitù. Sto facendo notare
+che l'intera faccenda di assumere uomini e licenziare uomini permetteva
+davvero di dimenticare gli uomini. Lo permetteva assai più del sistema
+servile del possedere uomini. Il capitalismo ha prodotto una cosa
+peculiare, che si può chiamare oppressione mediante oblio. E questa
+ingiustizia negativa e indiretta era nativa tanto di ciò che vi è di buono
+quanto di ciò che vi è di cattivo nel temperamento inglese. È il paradosso
+degli inglesi che essi siano sempre crudeli per avversione alla crudeltà.
+Detestano del tutto sinceramente la vista del dolore, e perciò vi chiudono
+gli occhi; e non era innaturale che preferissero un sistema in cui gli
+uomini erano affamati nei tuguri ma non fustigati nei recinti degli
+schiavi.
+
+Ora, qui di nuovo abbiamo una delle sottigliezze sotto le superficiali
+semplicità delle Cavalcate Rurali. Cobbett, si è ripetuto spesso, era
+inglese quanto qualsiasi inglese sia mai vissuto. Aveva tutte le virtù
+inglesi: l'amore dell'ozio e dell'avventura solitaria; lo spirito del
+geniale eccentrico; la capacità di essere un eremita senza essere un
+misantropo; l'amore del paesaggio e delle strade smarrite; e soprattutto
+quell'amore del grottesco che è ardito quanto un largo sorriso. Né,
+come diciamo, egli era privo di quel lato più tenero, solo che con lui
+esso era generalmente il lato di dentro. Intendo che era nel suo carattere
+privato e domestico che vediamo l'avversione inglese per ciò che è
+doloroso e severo. Egli era un padre e un maestro molto gentile, non solo
+in pratica ma in teoria; e molto di ciò che scrisse sull'educazione quasi
+anticipa la completa amnistia della scuola Montessori. Egli si esprimeva
+sempre con forza sulla stupidità dei maestri che picchiano i bambini,
+benché lo facesse con una allegra prontezza a picchiare i maestri. Qui
+egli tocca in verità qualcosa negli inglesi che sta dietro alla loro
+avversione per una scenata. Victor Hugo, nella sua Arte di essere nonno,
+descrive nel suo modo piuttosto vanaglorioso come avesse flagellato il
+mondo al pari di Isaia o di Giovenale, e avesse rifiutato di scendere al
+bathos di sculacciare un bambino. Cobbett aveva flagellato il mondo come
+nessuno al mondo tranne Cobbett. E aveva più diritto di Hugo a dire
+veramente di sé che «il tuono dovrebbe essere mite a [[Home|casa]]».
+
 
 
 <span class="atom-split" data-atom="chapter_06--part_06" data-title="William Cobbett — Chapter 6 (part 6)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="concept/optimism_and_pessimism,concept/capitalism,concept/social_injustice,concept/poverty,form/biography,histref/victorian_england,histref/irish_question,character/william_cobbett,character/charles_stewart_parnell"></span>
@@ -8247,6 +11689,109 @@ which might have been felt by some ardent devotee of the Use of Sarum.
 But in that sense Cobbett could not see the u se of Sarum.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Ma anche dopo aver tenuto conto di tutto questo elemento nel grande
+inglese, resta pur vero che vi era in lui una qualità che non era
+inglese. Era straordinariamente provocatorio. Era provocatorio
+come un irlandese. Si rifiutava di lasciare la gente [[Alone|in pace]].
+Si rifiutava categoricamente di lasciare che i [[dogs|cani]] dormissero
+indisturbati. Non c'è da stupirsi che alla fine avesse l'intera muta
+che gli abbaiava dietro a squarciagola; e che ciò non facesse altro che
+offrirgli un'ulteriore occasione per rivoltarsi contro di loro e dir
+loro che erano tutti bastardi e cani ibridi, per non parlare di [[dogs|cani]]
+rabbiosi. Trascinava sempre il proprio cappotto, apposta perché la
+gente potesse dire che aveva voltato gabbana. Godeva ed esultava in una
+scena. Non c'è nulla di più vivido di quella scena che il signor Edward
+Thomas ha toccato con grande felicità, la grande assemblea che Cobbett
+aveva portato fino al punto di un entusiasmo appassionato pur di farsi
+buttare fuori. «Mi sono alzato in piedi», dice, «perché potessero
+vedere l'uomo che dovevano buttare fuori.» Quella frase è una fotografia
+prima ancora dei tempi della fotografia; l'immagine di quel grosso
+fattore sbuffante e bellicoso, ritto in piedi con le narici dilatate e
+quell'espressione che sul ring pugilistico si chiama essere un ingordo
+di colpi.
+
+Ora, la combinazione in Cobbett dei più profondi umori inglesi e
+dell'amore e della comprensione dell'Inghilterra con questa qualità che
+è rara in Inghilterra, la qualità aggressiva e provocatoria, è una
+sorta di coincidenza o di contraddizione che gli conferì tutto il suo
+valore nella nostra politica e nella nostra storia. Fu proprio perché
+era inglese in ogni altra cosa, e non inglese in questa, che egli servì
+davvero l'Inghilterra, e per poco non la salvò. Per poco non la salvò
+da quell'oppressione fatta di oblio, da quella crudeltà distratta del
+puro capitalista, che ora ha riversato su di lei problemi tanto
+accumulati e spaventosi nel mondo industriale. Era capace di essere
+schietto sulla crudeltà; e anzi di essere crudele riguardo alla
+crudeltà. Non voleva lasciar dormire il can che dorme; né voleva
+lasciar mentire i politici progressisti. Mentre un ottimismo piuttosto
+untuoso veniva spalmato come olio, egli strofinava dentro il suo
+pessimismo come pepe. A una società che sempre più andava ricoprendosi
+del proprio successo superficiale, egli andava sempre deliberatamente
+dissotterrando la massa del fallimento sommerso. Per usare una metafora
+che gli sarebbe piaciuta, si rifiutava sempre di giudicare la nostra
+società dallo strato superiore di mele o di fragole nel cesto, e
+dichiarava sempre che il bottegaio era un imbroglione e che la frutta
+sotto era marcia. Mentre tutta quella versione delle cose che poi si
+sarebbe chiamata vittoriana andava gentilmente spingendo ciascuno a
+giudicare l'Inghilterra da una versione idealizzata dello scolaro di
+buona famiglia e del gentiluomo, egli si divertiva a tormentare la
+nostra stessa immaginazione con mendicanti e vagabondi. Mentre la Nuova
+Legge sui Poveri metteva via simili persone in prigioni e istituti di
+polizia, egli si divertiva a esibirle con tutte le loro piaghe come gli
+storpi sui gradini di una chiesa in Italia.
+
+Ma benché in questo fosse un'eccezione tra gli inglesi, restava pur
+sempre un'eccezione inglese tra gli inglesi. La distinzione va compresa;
+in un certo senso, malgrado quanto si dice in contrario, un uomo come
+[[Charles_Stewart_Parnell|Parnell]] era un'eccezione tra gli irlandesi,
+ma un'eccezione puramente irlandese. Cobbett rappresentava un pezzo di
+Inghilterra desta là dove gran parte dell'Inghilterra dormiva:
+rappresentava certe cose inglesi in rivolta che di solito sono in
+riposo. Ma il suo modo di raggiungere anche queste era assai nazionale;
+poiché era assai casuale e quasi interamente sperimentale. Non partiva
+da teorie ma da cose; dalle cose che vedeva. Una filosofia può essere
+dedotta dai suoi commenti; ma noi non sentiamo che essi fossero dedotti
+da una filosofia.
+
+Infine, egli incarnava il paradosso inglese: perché era una sorta di
+poeta il cui ideale era la prosa. Si infuriava facilmente; e si sarebbe
+infuriato immensamente a essere chiamato poeta; o, ancor di più, a
+essere chiamato mistico. Ma vi era in lui molta più poesia di quanta ne
+sapesse. Vi era in lui perfino molto più misticismo di quanto ne
+sapesse; poiché un uomo semplice è un mistero a se stesso. E nulla è più
+notevole nel grande panorama delle Rural Rides del fatto che egli spesso
+vede le cose in modo epico e simbolico là dove altri le videro in modo
+assai materiale o meccanico. Per prendere un solo esempio: tutti i libri
+e i discorsi e i pamphlet dell'ultimo periodo della sua vita sono pieni
+di allusioni a Old Sarum. Era, naturalmente, l'esempio più clamoroso,
+per non dire più scandaloso, delle anomalie del sistema rappresentativo
+non riformato; un luogo che aveva praticamente cessato di esistere senza
+cessare di mandare legislatori a fare leggi per l'Inghilterra. Vi sono
+un'infinità di battute e di aneddoti e di dibattiti e di diatribe su Old
+Sarum; ma riguardano tutti quel luogo come qualcosa su una carta
+geografica o addirittura in una tabella di cifre. La battuta è una
+battuta astratta e aritmetica. L'idea che qualcuno andasse davvero a Old
+Sarum sembrerebbe in qualche modo come andare all'Altro Capo del Nulla.
+È intensamente caratteristico di Cobbett che per lui solo Old Sarum
+fosse un luogo; e poiché si dava il caso che fosse un luogo alto e
+collinoso, esso si ergeva nella sua immaginazione con la mostruosità di
+una montagna. La chiamava la Collina Maledetta. Quel solo titolo, a
+paragone dei termini usati da pamphlettisti e politici, ha in sé
+qualcosa della palpabile apocalisse. Possiamo immaginarlo mentre la
+scorge da lontano da qualche terrazza di colline che guarda sulle contee
+variopinte, come qualche viaggiatore primitivo poteva immaginare di
+scorgere da lontano la vetta del Purgatorio, o la prigione vulcanica dei
+Titani. La odiava non come si possono odiare le anomalie aritmetiche; ma
+come si possono odiare i luoghi, il che è quasi come si possono odiare
+le persone. E in tutto questo, a paragone del razionalismo contemporaneo,
+vi era più misticismo proprio perché vi era più materialismo. C'è quasi,
+in una simile combinazione, una sorta di sacramento dell'odio. Il suo
+sentimento riguardo al peccato e alla vergogna di Sarum era dello stesso
+tipo morale del sentimento riguardo alla santità dell'altra Sarum, quale
+poteva essere provato da qualche ardente devoto dell'Uso di Sarum. Ma in
+quel senso Cobbett non poteva vedere l'uso di Sarum.
+
 
 
 <span class="atom-split" data-atom="chapter_06--part_07" data-title="William Cobbett — Chapter 6 (part 7)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="motif/cross,motif/horse,motif/road,motif/time,motif/uncanny,concept/uncanny,histref/bible"></span>
@@ -8349,6 +11894,100 @@ black against the daybreak of the world, the shape of shame;
 and saving such a strange flash of reversion, the [[Cross|cross]] no
 Christian will ever see.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Questa qualità immaginativa nell'uomo è tanto più interessante in quanto
+è in parte inconscia e in parte repressa. Nella misura in cui aveva un
+concetto immaginativo di sé, potremmo quasi dire che era il concetto di
+non essere immaginativo. Perfino il mondo che l'ha capito così poco ha
+almeno capito che egli era essenzialmente ed enfaticamente inglese. Ma
+forse la cosa più inglese che avesse era che riusciva, per pura poesia,
+a raffigurarsi come prosaico. Era così immaginativo da immaginare di
+essere semplicemente un uomo comune. Questa è in realtà un'illusione che
+spiega molto della storia di John Bull; anzi, spiega l'intera leggenda e
+l'ideale di John Bull. Come i poeti sognano non di un poeta ma di un
+eroe, così una nazione di poeti ha evocato come suo ideale la visione di
+un uomo pratico. Ma ai tempi di Cobbett, e specialmente nel caso di
+Cobbett, ciò che in questo vi era di illusione era del tutto innocente;
+ed egli non sapeva che vi fosse in lui qualcosa di spirituale o di
+elementare. Quell'universo che esiste nel cervello di ogni uomo era
+allora piuttosto un universo sepolto; e pochi erano coloro che, come
+Blake e Swedenborg, si tuffavano a cercarne le stelle sommerse.
+Nell'Età della Ragione vi era una certa tendenza dell'anima a diventare
+il subcosciente. Cobbett era certamente e allegramente inconsapevole di
+avere alcun subcosciente. Rabbrividisco a pensare che cosa sarebbe
+accaduto a chiunque gli avesse detto che aveva un complesso; e in verità
+vi era assai poco di complesso in lui. In quel senso egli credeva nella
+ragione con la stessa rigidità di Tom Paine; e il mondo in cui si muove
+tra brughiere e valli e cittadine di campagna è eternamente nella piena
+luce del giorno. Ma vi è un passo in quel pratico pellegrinaggio in cui
+otteniamo davvero uno scorcio di quelle cose più profonde, insieme più
+oscure e più illuminate. È tanto più commovente in quanto giunge del
+tutto senza preavviso in mezzo a quella narrazione quieta e senza
+pretese, e con una sola svolta assume il carattere di qualche terribile
+allegoria. Vi è in esso qualcosa di misterioso e di macabro, come una
+cupa xilografia di Albrecht Dürer.
+
+Egli descrive come giunse, nei suoi accurati vagabondaggi, a un distretto
+in cui le grandi tenute erano state riorganizzate da nuovi proprietari
+di un certo genere; proprietari dai nomi come Ricardo e Baring e altri
+nomi piuttosto stranieri e finanziari, ch'egli era solito nominare assai
+schiettamente. Per tutto il giorno il suo cuore si era fatto più greve
+per il crescente sentimento che la campagna stesse passando nelle mani
+di questi mercanti orientali, ed egli probabilmente rimuginava, come
+faceva spesso, sulla versione più tenebrosa della loro storia e del loro
+carattere, quando scorse uno strano oggetto o ornamento o accidente che
+si ergeva in quei terreni lisci e ben ordinati, ordinatamente recintati
+dalla strada. Aveva effettivamente la forma di una croce; «abbastanza
+grande e abbastanza larga da crocifiggervi sopra un uomo». Con qualcosa
+che fa suonare il suo stile staccato per la prima [[Time|volta]] come un
+discorso spezzato, egli ripete più di una volta: «Sì, abbastanza grande
+e abbastanza larga da crocifiggervi sopra un uomo». E poi dice che il suo
+cavallo, avvezzo al trotto ambiante con cui egli andava girovagando in
+cerca delle sue avventure, fu spaventato dallo sprone o dal gesto che lo
+spinse a un'improvvisa attività. Deve essere andato, dice, a un'andatura
+grande e assai insolita mentre si allontanava da quel luogo. «Credo che
+lui [intendendo il [[Horse|cavallo]]] debba aver spesso pensato che cosa
+mi avesse messo le ali quell'unica volta e quell'unica volta soltanto.»
+
+Quel curioso episodio è tanto più impressionante in quanto Cobbett lo
+racconta con potente misura, dicendo il meno possibile del suo lato
+emotivo. Colui che scagliava parole feroci all'intorno come una furia
+che scaglia fiamme, aveva sempre un istinto piuttosto fine di sobrietà e
+semplicità quando si trattava di quelle poche cose, piuttosto sullo
+sfondo della sua mente, ch'egli davvero, benché vagamente, riveriva. Ma
+in questo caso era coinvolto qualcosa di più insolito e perfino di
+[[Uncanny|perturbante]]. Un uomo se n'è andato bighellonando di fattoria
+in fattoria e di città in città su un [[Horse|cavallo]] al trotto,
+ispezionando raccolti, prendendo appunti sui salari, sbirciando il tempo
+e chiedendo un bicchiere di birra alla locanda; ma tutto con la
+sensazione che questa vecchia Inghilterra stia passando via, e sentendolo
+sempre più via via che si avvicina al Surrey e ai sobborghi, o alle
+grandi nuove tenute gestite dalla nuova nobiltà. I loro nomi sono nomi
+strani; ed egli ha il sospetto che perfino quei nomi non siano sempre i
+loro. I loro volti sono volti strani; associati nella sua mente a bozzetti
+di viaggi orientali o a immagini nella [[Bible|Bibbia]] di famiglia. Sono
+assai indaffarati; assai ordinati; a modo loro assai filantropici. Ma che
+cosa stanno facendo, a che cosa mirano, qual è il disegno ultimo secondo
+cui costruiscono? Giace su di lui come un peso l'impressione che l'intero
+mondo venga riformato; e che venga riformato in modo sbagliato. La grande
+età del mondo ricomincia da capo; e ricomincia in modo sbagliato. Non
+riesce a pensare dove andrà tutto a finire; quale forma sia in ultimo
+destinata ad assumere una crescita tanto straniera e forse informe. E
+allora vede, ergendosi tutto lindo e nuovo e solido nella luce del sole,
+qualcosa che sembra rozzo e appena squadrato dal falegname eppure
+spaventosamente familiare; non un simbolo ma piuttosto uno scopo
+sostanziale; non un emblema ma un fine. E noi non sappiamo quale urto di
+rivelazione o di ripulsa quasi disarcionò quel robusto cavaliere come
+sulla [[Road|via]] di Damasco; qualcosa di indescrivibile, che travolgeva
+un uomo comune in una passione di sottigliezze, che non aveva altro
+sfogo se non un impeto di fuga; e lontano, giù per le buie corsie inglesi,
+il palpito e il tuono degli zoccoli in volo. Poiché quella empia
+[[Cross|croce]] che il pagano vide si ergeva ancora brutta e non
+santificata; nera contro l'alba del mondo, la forma della vergogna; e,
+salvo un simile strano lampo di ritorno, la [[Cross|croce]] che nessun
+cristiano vedrà mai.
 
 
 
@@ -8630,6 +12269,108 @@ grandeur and gratification in his powdered hair and new court-suit
 and sword.  There was no red waistcoat on these occasions.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Prima che tutto ciò accadesse, naturalmente, e mentre stava accadendo,
+egli aveva perseguito i suoi altri interessi polemici, e aveva figurato
+in parecchi altri campi. Aveva preso una fattoria da sementi a
+Kensington: dove condusse un esperimento di baratto di merci contro
+lavoro, e vendeva ogni sorta di cose. Il suo Register vendeva ancora
+come il pane; e il pane continuava a essere ben caldo davvero. Alcune di
+quelle pagnotte erano più di quanto la maggior parte della gente potesse
+[[Swallow|inghiottire]], in fatto di asserzioni assolute, profezie
+categoriche e minacce personali. Era a questo [[Time|tempo]] un grande
+personaggio pubblico; da certi punti di vista un grande personaggio
+comico. È possibile che qualcuno abbia cercato di prenderlo in giro. A
+volte la risata era dalla sua parte; a volte dall'altra. Ma questo si
+poteva sempre dire di lui, che stava nella stessa attitudine spavalda sia
+che stesse [[Alone|solo]] sia che avesse alle spalle un'intera nazione.
+Serviranno due esempi: del primo caso, la battuta della graticola; del
+secondo, un affare accaduto in precedenza: quello del [[divorce|Divorzio]]
+Reale.
+
+Certamente Cobbett aveva un modo di far la faccia tosta, che lo si giudichi
+nel giusto o nel torto; anzi, non possiamo non provare una sorta di
+ammirazione senza fiato specialmente quando lo giudichiamo nel torto. La
+storia della graticola, che egli finì per portare come uno stemma
+araldico, è un'eccellente illustrazione della sua invincibile
+sfrontatezza. Sorse da un'inezia, o comunque da un particolare; un
+particolare assai dubbio e per nulla decisivo. Il [[government|Governo]]
+aveva dichiarato, in connessione con la crisi che rendeva necessaria la
+carta moneta, che le cose sarebbero migliorate, e che certi pagamenti
+sarebbero stati fatti in moneta sonante. Cobbett, contraddicendo di netto
+e montando su tutte le furie, come era sua abitudine riguardo a un
+centinaio di cose grandi e piccole, aveva detto che si sarebbe fatto
+arrostire su una graticola se il [[government|Governo]] fosse stato
+capace di fare una cosa simile. Era naturalmente solo uno dei suoi
+idiomi caratteristici; che erano insieme casalinghi e stravaganti. Con
+questa singolare fantasticheria da focolare non intendeva più di quanto
+avrebbe inteso usando la più familiare fantasticheria teologica e dicendo
+che li avrebbe visti dannati prima. Anzi, avrebbe atteso di vedere i
+Ministri dannati con un'aspettativa assai più solenne e religiosa. Ciò
+non fa che illustrare di passaggio una certa piega individuale che egli
+sapeva sempre dare al suo parlare schietto: che dove un altro avrebbe
+detto «che io sia impiccato se lo fai», o magari «che io sia fucilato se
+lo fai», egli aveva la fine ricercatezza di dire «che io sia arrostito se
+lo fai». Ma quando i suoi nemici cominciarono a scagliargli addosso
+questa cosa leggera come una freccia tratta dalla sua stessa faretra,
+egli la portò come una piuma sul cappello. Colse l'occasione di
+solidificare in un emblema qualcosa che era stato solo una parola oziosa.
+Lo schernivano rivoltandogli contro la sua metafora; ed egli rispose loro
+rivoltando contro di loro il loro scherno. Appese una enorme graticola
+fuori dalla sua casa; brandiva la sua graticola nella polemica come una
+clava in una rissa di strada. Sembrava impossibile credere che un uomo
+potesse aver torto su un punto ch'egli premeva in modo tanto
+provocatorio; era manifesto che nessuno poteva vergognarsi di un episodio
+ch'egli tanto ostentava e perpetuava. Eppure, nell'episodio stesso, è del
+tutto possibile che avesse del tutto torto. Una leggera ripresa
+finanziaria di quel genere non era certo così follemente impossibile come
+la sua metafora implicava; e di fatto egli ebbe torto nella sua
+convinzione generale che un fallimento immediato sarebbe seguito ai nuovi
+esperimenti finanziari. Comunque, si sarebbe probabilmente comportato
+esattamente nello stesso modo qualunque cosa fosse accaduta nella
+particolare questione di cui in origine aveva parlato. Si può discutere
+se questa audacia vada classificata come uno dei suoi vizi o soltanto
+come uno dei suoi talenti. Ma certamente egli aveva questo talento, o se
+si vuole questo trucco, di volgere la sconfitta in vittoria. In questo
+senso è vero dire che aveva i trucchi di un demagogo. Solo che occorre
+qualcosa di più in fatto di definizione della demagogia prima che gli si
+renda giustizia. Ma egli faceva davvero tacere a forza di grida i suoi
+disturbatori; ed era lui sul palco elettorale, assai più che Johnson al
+tavolo da tè, a stendere gli uomini col calcio quando la pistola faceva
+cilecca. E aveva davvero il potere di rendere le sue stesse divagazioni e
+irrilevanze più importanti delle domande degli altri; la grande graticola
+si marchiò davvero nella memoria degli uomini quando la sua origine fu
+dimenticata, e ardeva attraverso il crepuscolo del tempo quasi come la
+sacra graticola di San Lorenzo.
+
+Era caratteristico dell'istinto di Cobbett per il sentimento nazionale,
+per una sorta di sportiva varietà di cavalleria assai profonda nel suo
+popolo, che si fosse gettato con rinfrancante furia contro gli avversari
+della regina Carolina. È anche caratteristico del suo spirito combattivo
+che dovette essere piuttosto più molesto ai sostenitori di lei che ai
+suoi nemici. Tiranneggiava e intimidiva gli avvocati e i consiglieri
+della regina, arrivava quasi a tiranneggiare e intimidire la regina; ma
+nel complesso si limitò rispettosamente a tormentarla e infastidirla.
+Eppure il suo scopo, come spesso accadeva con lui, non era per questo
+meno sano perché era strenuo. Era suo intero proposito inchiodarla alle
+sue piene pretese, e specialmente inchiodarla al suo posto a Londra,
+ogni volta che vi fosse qualche pericolo che ella lasciasse il paese; il
+che poteva avere l'aria di una resa. Così Dundee, uomo del tipo
+battagliero, aveva cercato di inchiodare Giacomo II, e di impedirgli di
+sembrare abbandonare la sua pretesa insieme al suo paese. Forse il
+sentimento era più feroce perché il vecchio nemico di Cobbett, Brougham,
+era il principale consigliere legale della signora; e nulla piaceva tanto
+a Cobbett quanto insinuare ch'egli era troppo legale per essere leale.
+Comunque, non v'è dubbio che Cobbett fosse del tutto sinceramente leale.
+Si godeva, invero, non senza un'innocente vanità, il suo atteggiamento
+cavalleresco di campione di una donna; ebbe per tutta la vita una assai
+onorevole semplicità nella sua visione delle donne. Vi sono alcuni tocchi
+assai deliziosi nelle lettere di sua figlia, che lo adorava, ma che non
+nasconde il proprio divertimento per la nuova grandezza di papà e per la
+sua gratificazione nei capelli incipriati e nel nuovo abito di corte e
+nella spada. Non c'era alcun panciotto rosso in quelle occasioni.
+
 
 
 <span class="atom-split" data-atom="chapter_07--part_03" data-title="William Cobbett — Chapter 7 (part 3)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="motif/hill"></span>
@@ -8734,6 +12475,107 @@ phrase that his England depended on yeomen, but the new Lancashire
 was apparently lost without little girls-was so typical as the fact
 that he opposed a Police Force.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+L'affare di Carolina di Anspach non ha bisogno di essere pienamente
+discusso qui; benché non sia privo d'interesse e certo non privo
+d'ironia. L'ironia più pertinente ai suoi rapporti col grande demagogo è
+il suo suggerire qualcosa di non raro nelle emozioni democratiche. La
+folla ha un curioso modo di aver ragione avendo torto. Spesso si fa
+paladina della persona sbagliata per punire la persona giusta. Sostiene
+una tesi vera con un argomento falso; o condanna un vero criminale per un
+crimine irreale. Si può dubitare se la moglie ufficiale di Giorgio IV
+meritasse tutta la devozione democratica che fu riversata per lei; ma vi
+è poco dubbio che a questo punto Giorgio IV meritasse gran parte del
+detesto democratico che gli fu scagliato contro. Eppure egli era stato un
+tempo un uomo assai più generoso e perfino assai più liberale. E il
+peccato che aveva imputridito il suo onore non era stato il ripudio della
+sua moglie ufficiale Carolina, ma il ripudio della sua vera moglie, la
+signora Fitzherbert. Ed è la suprema ironia di quella strana storia che
+il suo vecchio e vero crimine si levasse dalla tomba contro di lui,
+proprio nel momento in cui commetteva ciò che era considerato un crimine
+più indifendibile, ma che era in realtà assai più difendibile. Lord
+Liverpool e gli amici del re, spronati dalle sfide di Cobbett e della
+folla, presentarono un disegno di legge che legalmente divorziava e
+degradava la regina. Il partito della regina ribatté con un'audacia che
+sa molto dello spirito polemico di Cobbett; minacciarono di tirare in
+ballo il primo e segreto matrimonio del re come un'illegalità che gli
+faceva perdere l'intera sua posizione, perché era un matrimonio con una
+cattolica. Anche a questo punto, e non per la prima volta, l'Inghilterra
+e il grande agitatore inglese toccarono per un istante la cosa nascosta
+rimasta dietro la storia inglese; dapprima martire e sempre testimone, e
+forse alla fine liberatrice.
+
+È più difficile far sostenere al popolo la causa del popolo che fargli
+sostenere la causa di una persona. Cobbett aveva con sé non solo le masse
+ma la maggior parte della classe media riguardo alla dubbia storia
+d'amore reale. Stava assai più solo nel trattare l'indubitabile realtà
+popolare. Quella realtà, cui egli testimoniava con instancabile violenza,
+era qualcosa di del tutto semplice; eppure sembrava essere troppo
+semplice perché gli istruiti la capissero. La gridava in un luogo sempre
+più imbottito e cuscinato di un comodo ottimismo; e non aveva eco. La
+gridava in modo tale che molti dei suoi uditori avrebbero ribattuto che
+era bene ch'egli fosse in una cella imbottita. Eppure ciò che egli gridava
+è di un certo curioso interesse ed è degno di essere registrato. Potrebbe
+essere tipizzato assai concisamente in ciò ch'egli disse in risposta a
+uno dei principali uomini di Stato, il quale aveva detto che potevamo
+guardare con fiducia al futuro, «perché tutti i grandi interessi
+prosperano». Cobbett scrisse a grandi lettere come un uomo che scarabocchia
+su un gran muro o sul fianco di una [[Hill|collina]]: «Le classi lavoratrici,
+dunque, non sono un grande interesse.»
+
+Aggiunse cupamente che forse un giorno avrebbero potuto esserlo. Coloro
+che vedono nella dittatura dei Sindacati un'alba rossa di tirannia
+rivoluzionaria possono soffermarsi sul poscritto: mi preme sottolineare
+che questo fu, in primo e in ultimo luogo, ciò ch'egli aveva da dire: e
+non poteva dirlo nel Parlamento riformato. È notevole che uno schizzo
+assai equanime di Cobbett dica ch'egli non fece nulla in Parlamento se
+non un attacco da testa balzana contro Peel. Eppure può essere giudicato
+perfino da ciò che attaccò.
+
+Che Cobbett dovesse attaccare Peel, specialmente in Parlamento, è
+esattamente ciò che qualunque persona di buon senso si sarebbe aspettata;
+sono tentato di dire ciò che qualunque persona di buon senso avrebbe
+sperato. Era ugualmente ovvio che lo avrebbe attaccato in Parlamento con
+un linguaggio assai poco parlamentare. È ovvissimo di tutto che il suo
+attacco sarebbe stato del tutto inintelligibile a tutti i parlamentari
+che sanno parlare soltanto il linguaggio parlamentare e non hanno
+dimestichezza con la lingua inglese. Peel era un parlamentare modello; in
+altre parole, era un monumento di tutto ciò che Cobbett detestava e
+disprezzava. Peel era un Tory senza tradizioni; Peel era un Liberale
+senza simpatie popolari. Peel era il Parlamento, e non ci si poteva
+aspettare che avesse la più pallida nozione di ciò che il popolo sentiva
+o sperimentava. L'unica tradizione veramente popolare su Peel non ha
+nulla a che fare con le iscrizioni sulle statue o coi discorsi sulle
+Corn Laws. È il fatto che, laggiù nelle profondità di un mondo
+democratico che i politici non visitano mai, i soprannomi gergali per la
+nuova polizia erano «Bobbies» o «Peelers». E se vogliamo cogliere la vera
+anima di Peel e del suo tipo parlamentare, possiamo fissarla nel fatto
+che egli organizzò una gendarmeria tremendamente potente e privilegiata
+per il controllo o la coercizione del popolo, e pensava che la si potesse
+distinguere dalle guardie dei despoti continentali per il fatto che
+portava il cilindro. Quella era la definizione della cittadinanza
+peeliana: corruzione in cilindro; tirannia in cilindro; qualsiasi cosa
+purché fosse in cilindro. Tutto ciò che va davvero chiamato ipocrisia
+britannica, tutto ciò che si può equamente classificare come snobismo
+inglese, tutti i vizi che crebbero sotto la copertura del decoro, e delle
+cui volgarità perfino ci si vergognava — tutto ciò è veramente espresso
+nel fatto che a quei tempi gli uomini erano messi a controllare le folle
+in cilindro, proprio come giocavano a cricket in cilindro. Non è
+contraddittorio a ciò che il cappello si sia poi evoluto in un elmo.
+Avrebbe potuto evolversi in una completa armatura, purché si evolvesse;
+l'evoluzione era l'essenza di quella cauta e strisciante filosofia. Il
+punto è che al principio il gendarme non sarebbe stato accettato se fosse
+apparso in feluca. Era un mondo, come Tennyson avrebbe dovuto dire, dove
+la tirannia si allargava lentamente di precedente in precedente. La cosa
+essenziale dell'epoca era la punta sottile del cuneo. È inutile chiedere
+che cosa Cobbett pensasse della punta sottile del cuneo; lui che
+combatteva sempre con l'estremità grossa del randello. Niente — nemmeno
+la sua difesa dei Factory Acts con la frase sprezzante che la sua
+Inghilterra dipendeva dagli yeomen, ma il nuovo Lancashire era a quanto
+pare perduto senza le bambine — fu tanto tipico quanto il fatto ch'egli
+si oppose a una Forza di Polizia.
 
 
 
@@ -8894,6 +12736,150 @@ Oliver Twist to be starved and beaten by Bumble and Claypole:
 and sell English children into slavery for being poor.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Il modo breve di dirlo è che Cobbett fallì in Parlamento. In una visione
+più ampia può essere che fosse il Parlamento a fallire. Difficilmente
+possiamo dire che i politici non seppero servirsi del genio e
+dell'energia di uno dei più grandi inglesi; poiché egli non era uomo da
+essere usato per fini altrui che i propri, ed essi non desideravano il
+minimo di servire quei fini. Non v'era alcun possibile punto di contatto,
+nemmeno per la contraddizione. Sarebbe una metafora assai inadeguata dire
+ch'egli era un pesce fuor d'acqua; poiché erano piuttosto i politici a
+essere loschi. Sarebbe più vero dire ch'egli era un tuffatore assai
+imprudente che affogava in una vasca; ma la verità è che era semplicemente
+un toro in una cristalleria. La sua specie di inglese, la sua specie di
+eloquenza, il suo gesto e la sua stessa presenza corporea non erano in
+alcun caso adatti alle deliberazioni senatorie. La sua era la specie di
+oratoria che può far risonare la volta celeste, ma fa solo suonare al
+presidente un campanellino. Il suo atteggiamento e la sua azione avevano
+in sé i grandi spazi delle brughiere o delle ampie campagne; il levarsi
+delle grandi nubi e il silenzioso sollevarsi delle colline. I suoi
+ammonimenti e i suoi rimproveri suonavano più casalinghi e naturali
+quando venivano gridati, come un uomo può gridare attraverso un prato un
+rimprovero a uno sconfinatore o un avvertimento contro un toro. Ma quella
+specie di grido, quando è rinchiusa in una stanza angusta e surriscaldata,
+ha l'apparenza della pazzia. La compagnia ricevette l'impressione di un
+puro maniaco. Eppure non v'era in quella stanza un uomo che avesse la
+testa più chiara o lo stile più chiaro, o una migliore base di buon
+senso. E mostrò abbastanza facilmente nella sua English Grammar che era
+in realtà lui a saper ragionare e i suoi critici a saper soltanto
+sbraitare.
+
+Invero, un cambiamento stava passando sull'Inghilterra ch'egli era già
+troppo vecchio per comprendere; sotto il doppio governo di un Liberale
+tanto patrizio come Melbourne e di un Tory tanto borghese come Peel. Si
+stava generando un'atmosfera non esattamente simile a nulla che fosse mai
+esistito o forse mai esisterà di nuovo; in cui i frizzi di Canning
+sarebbero stati altrettanto inappropriati quanto le imprecazioni di
+Cobbett. Non era esattamente un credo o una causa, e nemmeno uno spirito;
+la descrizione più prossima è dire che era un silenzio. Tutte le sue
+imprese erano intese; tutte le sue leggi erano leggi non scritte. Vi era
+una silenziosa intesa nella nuova classe media che non si sarebbe
+davvero ribellata all'aristocrazia. Vi era una silenziosa intesa
+nell'aristocrazia che non avrebbe davvero resistito all'invasione della
+classe media. Vi era una silenziosa alleanza tra le due che nessuna
+avrebbe davvero pensato a quella terza cosa che si muoveva nelle
+profondità; visibile per un istante nei covoni in fiamme e nelle
+macchine spezzate. Era un'intesa che produsse la propria cortesia e la
+propria cultura, i propri poeti e pittori, il proprio patriottismo e il
+proprio orgoglio storico; sicché noi che nascemmo negli ultimi giorni di
+quella tradizione non possiamo mai trattarla del tutto senza pietà e
+gratitudine. L'atmosfera non aveva allora nome; ma pochi anni dopo le si
+trovò un nome e una figura e un simbolo nazionale; quando una fanciulla
+stette incoronata davanti all'altare a Westminster. La chiamiamo l'Età
+Vittoriana.
+
+Non è molto probabile che molti membri del Parlamento notassero, poco
+prima di questo tempo, che un seggio alla Camera dei Comuni era vuoto. In
+misura assai maggiore di quanto il volgo profano si avveda, la Camera dei
+Comuni consiste spesso in larga parte di seggi vuoti. Nelle occasioni
+importanti, quando vi era più trambusto e più folla, il vuoto poteva
+essere ancor meno evidente; vi erano così tante cose serie a trattenere
+l'attenzione. C'era la questione se un certo Graham con l'assistenza di
+un altro Graham, suo fratello, potesse o no aver formato un Ministero che
+includesse un signore di nome Grey. C'era la questione se un tale noto
+come Lord Althorpe sarebbe presto stato trasformato in un altro chiamato
+Earl Spencer. Sotto la tensione di problemi impellenti di questo genere,
+i Comuni non erano probabilmente propensi a preoccuparsi dell'assenza
+sempre più frequente e infine prolungata di un solo membro o perfino di
+un solo voto; poiché invero il voto era stato altrettanto erratico quanto
+il membro. Il suo nome figurava negli elenchi tra quella strana e
+risibile piccola minoranza che aveva votato contro la Nuova Legge sui
+Poveri; insieme a Dan O'Connell e simili strane creature. Ultimamente non
+lo si era più visto in giro affatto. Probabilmente nessuno sapeva che
+negli ultimi giorni William Cobbett era tornato alla sua fattoria ed era
+morto.
+
+Lontano, su quelle grandi alture ventose ed erbose dove da bambino era
+andato a spaventare le cornacchie, il suo corteo funebre si trascinava
+nero e scarno come una fila di cornacchie. Lo seppellirono nel piccolo
+cimitero di Farnham; ed egli era morto nella fattoria non lontano da lì,
+che giaceva sul fianco della collina guardando di là verso la
+cittadina-collina di Guildford: un luogo di ripide strade e una corona di
+tetti e guglie che, visto da lontano, non sembra indegno del suo nobile
+nome medievale. Ebbe una morte felice, lui che nell'ultimo compimento
+della sua ambizione aveva avuto una vita infelice. Poiché gli fu concesso
+di morire, dopo tutti i suoi vagabondaggi, fra coloro che amava, e in
+quella intimità ch'egli amava fosse la copertura di un tale amore, con
+tutto il suo appetito per una rumorosa pubblicità nelle altre cose.
+Considerando quale nome lasciò, l'intimità avrebbe potuto essere chiamata
+abbandono; ma in quel senso, e specialmente in quello stato d'animo, egli
+avrebbe certamente preferito essere a tal punto trascurato. Solo la sua
+famiglia e pochi amici appaiono come figure riconoscibili nel paesaggio
+del suo funerale; ma mentre portavano la bara attraverso il prato e il
+cimitero, la seguiva una figura solitaria che sarebbe stata cospicua in
+qualunque paesaggio; un uomo di statura gigantesca, vestito di nero e con
+un guanto bianco sulla mano destra: O'Connell.
+
+Sembra essere stata l'impressione generale dei suoi contemporanei che
+egli, che era sopravvissuto a dure cavalcate e al mare e alla prigione e
+all'estate americana, fosse infine ucciso dalla Camera dei Comuni.
+Chatham aveva portato il suo talento drammatico quasi fino al punto di
+morire nella Camera dei Lord. Ma certamente Westminster era proprio
+l'ultimo luogo dove Cobbett avrebbe desiderato morire — o del resto
+vivere. Egli non aveva quel potere d'illusione che aveva permesso al
+grande imperialista di vivere e morire in una passione di recitazione
+patriottica. Invero, Cobbett non aveva alcun potere d'illusione; ecco
+perché non era ciò che la gente chiama un uomo pratico. Ecco specialmente
+perché non riuscì mai a essere un Whig; per quanto lo si potesse chiamare
+Tory o Radicale. Non avrebbe mai potuto comprendere la sincerità che
+c'era nell'autoinganno di un uomo come Burke, che poteva ripensare agli
+intrighi oligarchici del 1688 e seguenti in un ardore di entusiasmo
+costituzionale. Forse dire ch'egli non fu mai un Whig è soltanto un altro
+modo di dire che non era un aristocratico. La storia non era un
+passatempo; la politica non era un gioco, nemmeno un gioco giocato per
+denaro. Egli aveva quell'atteggiamento indefinibile che contraddistingue
+l'uomo che ha sempre dovuto guadagnarsi da vivere. Voleva che la storia e
+la politica fossero utili; in quel senso era del tutto utilitarista. Nel
+senso stretto della parola, non era un gentiluomo — era uno yeoman. Era un
+fattore che lavorava per un raccolto; non un paesaggista né tantomeno un
+giardiniere paesaggista. Per tutta la sua selvaggia vita lavorò per un
+raccolto; anche quando gli uomini pensavano che seminasse l'avena
+selvatica del fanatismo; anche quando pensavano che seminasse i denti del
+drago della rivoluzione. Cercava di ottenere risultati; e non gl'importava
+quanto duramente dovesse lavorare per ottenerli. Lavorò per ottenere una
+riforma del Parlamento; lavorò per ottenere un controllo più popolare del
+Parlamento; non perché desiderasse in modo particolare vedere il
+funzionamento di una nuova costituzione in astratto, ma perché pensava
+che la vecchia costituzione stesse ritardando il raccolto. Lavorò per un
+diritto a prender parte al lavoro. Lavorò per un posto tra i nuovi
+reggitori di un nuovo regno. Lavorò per un seggio a Westminster perché
+credeva davvero, più o meno, che sarebbe stato una sorta di trono da cui
+avrebbe visto tutta l'Inghilterra gioire nella nuova libertà; una volta
+che gli scherani e i mercenari dei malvagi possidenti se ne fossero
+andati e fosse stato convocato, nell'antica lingua della libertà inglese,
+un Libero Parlamento. L'altura da cui avrebbe guardato quel paesaggio di
+libertà sarebbe stata più alta della Collina Maledetta. Egli avrebbe
+visto una Nuova Sarum quasi tanto ideale quanto la Nuova Gerusalemme, se
+non discendente dal cielo da Dio, almeno sollevata verso il cielo dalle
+membra gigantesche dell'uomo liberato; dal fiero travaglio e dalla
+spontanea prudenza degli uomini liberi. Il nuovo Parlamento doveva fare
+un nuovo popolo. E quasi la prima cosa che fece fu approvare la Nuova
+Legge sui Poveri. Quasi la prima cosa che fece fu consegnare il piccolo
+Oliver Twist a esser affamato e picchiato da Bumble e Claypole: e vendere
+i bambini inglesi in schiavitù per il fatto d'essere poveri.
+
 
 
 <span class="atom-split" data-atom="chapter_07--part_05" data-title="William Cobbett — Chapter 7 (part 5)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="motif/well,concept/fanaticism,concept/friendship,concept/greatness,concept/self,concept/truth"></span>
@@ -9001,6 +12987,106 @@ I think, a thing on the heroic scale.  It would surely be no bad
 definition of [[Greatness|greatness]] in a man, to say that we can strike out in any
 direction and still find the circumference of his mind.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+C'è un'ironia che è come un'agonia ed è al di là della parola o della
+misura. Sarebbe vano domandarsi, nel modo consueto, quale sorta di parole
+sarebbe venuta a quelle labbra fin troppo tempestose; quale lucida
+violenza di logica, come di luce attraverso rocce che si squarciano,
+avrebbe cercato di rendere giustizia a quella torreggiante contraddizione,
+nei giorni in cui il gigante era giovane. Molto egli disse, certo, a modo
+suo. Ma vi era qualcosa in quella contraddizione finale che non poteva
+essere così contraddetto in modo finale o pieno: e quando Cobbett venne
+con gli occhi più chiari della tarda vita a guardare il Parlamento
+riformato, a guardare fermamente i suoi riformatori e i suoi parlamentari,
+ad assorbire l'intera scena di come tali leggi si fanno e di come tali
+uomini le fanno; a sedere al suo seggio in silenzio per un poco, e
+cogliere tutta quella enorme cosa con calma e per intero — allora fece il
+solo commento in qualche modo commensurato ad essa, o pari in eloquenza
+all'occasione: morì.
+
+Il gran mondo con le sue ruote del progresso che rotolavano su di lui non
+comprese la sua morte più di quanto comprendesse la sua vita. Cent'anni
+dopo egli è forse meglio conosciuto di quanto lo fosse dieci anni dopo, o
+perfino dieci minuti dopo. Duecento anni dopo, forse, sarà conosciuto
+ancor meglio. Johnson è più umano e familiare a ogni lettore casuale
+d'oggi di quanto lo fosse per Churchill o per Horace Walpole; ma Johnson
+aveva una guardia del corpo di fedeli amici che davvero lo comprendevano,
+le sue bizzarre debolezze e il suo possente valore. Cobbett a stento ebbe
+un amico fuori della sua famiglia; ed è dubbio se vi sia mai stato un solo
+essere umano che comprendesse davvero ciò ch'egli intendeva. I suoi
+alleati politici non erano amici; e non erano in genere alleati per molto
+tempo. E la ragione era che non uno di loro poteva allargare la propria
+mente fino a comprendere la mente di Cobbett; o quell'immenso desiderio
+di liberazione e di perpetuazione dell'intera enorme umanità
+dell'Inghilterra. I costruttori del Pantheon francese, combinando
+saggiamente trofei repubblicani e regi e imperiali, hanno inscritto sul
+loro comune monumento: «A tutte le Glorie di Francia». Se un uomo
+altrettanto saggio fosse stato presso la piccola pietra tombale nel
+cimitero di Farnham, avrebbe potuto tracciare le parole: «A tutte le
+Glorie d'Inghilterra». Tutti gli altri capi andavano sgretolandosi in
+sciocchi sistemi di partito e false antitesi; in Tory che erano meri
+possidenti, e Radicali che erano meri mercanti. Windham era stato suo
+amico; ma chi poteva aspettarsi che Windham capisse ciò ch'egli sentiva
+riguardo alla selvaggia giustizia dei fuochi luddisti? L'Oratore Hunt era
+stato suo alleato; ma chi poteva aspettarsi che Hunt sapesse di che cosa
+parlava Cobbett quando lodava le guglie delle chiese gotiche o i santi dei
+Secoli Bui? Quest'uomo senza istruzione era troppo [[Well|ben]] istruito
+per tutti i suoi contemporanei. Stava in un mondo che credeva di
+allargarsi; e l'intera mente di quel mondo era più angusta della sua.
+Credeva di farsi moderno e poliedrico; ed egli [[Alone|solo]] vedeva che
+si faceva monomaniaco e meschino. E quella più ampia visione morì con lui:
+e svanì per cent'anni.
+
+Cobbett era fin troppo pronto a dare alla gente, nel linguaggio della
+comica padrona di casa, un pezzetto della sua mente. Ma la frase casuale è
+dopotutto una frase esatta. Era solo un pezzetto della sua mente ciò che
+veniva mai dato a chicchessia; un pezzetto piuttosto sbrindellato, spesso
+strappato via in modo piuttosto casuale: ma non l'intera [[Truth|verità]]
+che davvero intendeva, poiché a darla a chicchessia egli aveva grande
+difficoltà, forse perfino a se stesso. Loquace com'era, può darsi che non
+dicesse mai abbastanza; e lucido com'era, può darsi che non arrivasse mai
+del tutto al punto. Ma il punto era un intero punto di vista. E che fosse
+colpa sua o colpa degli altri, quel punto di vista non fu mai davvero
+assunto da nessun altro: nessuno stava esattamente dove stava lui né
+vedeva il mondo esattamente come lo vedeva lui; altrimenti gli altri si
+sarebbero resi conto che, in mezzo a tutte le sue frasi contraddittorie e
+alle sue passioni combattive, egli in un senso reale tutto suo vedeva la
+vita fermamente e la vedeva intera. Quando ripensiamo alla sua vita,
+perfino le vedute che non erano coerenti l'una con l'altra sembrano
+coerenti con lui. Un amico non negherebbe ch'egli si contraddiceva; ma un
+amico saprebbe indovinare quando e dove probabilmente si sarebbe
+contraddetto. Solo in questo senso è vero dire che non ebbe mai un amico.
+Aveva affetti, e aveva alleanze; ma non una sola vera
+[[Friendship|amicizia]] intellettuale.
+
+Vi era questa vera distinzione nella mente del fattore [[Self|autodidatta]]:
+che la sua mente è un luogo dove gli estremi s'incontrano. Quando di un
+uomo si può dire che i Tory lo credevano un Radicale, e i Radicali lo
+credevano un Tory, la prima cosa che ci verrà in mente è che egli sia un
+moderato. Lo si può dire con verità di Cobbett; e l'ultimissima cosa che
+verrebbe in mente a chicchessia sarebbe chiamarlo un moderato. Non solo
+era l'opposto di un moderato, era qualcosa che riuscirebbe del tutto
+sconcertante a qualunque moderato. Era un estremista a tutto tondo. Era
+più Tory della maggior parte dei Tory, e più Radicale della maggior parte
+dei Radicali. In altre parole, era perché era originale; ma era anche
+perché era universale. Non comprendeva del tutto la propria universalità;
+e la esprimeva per lo più nella forma dell'incoerenza. Era fanatico, ma
+non era angusto. Con tutto il suo [[Fanaticism|fanatismo]], egli in realtà
+guardava le cose da troppi punti di vista al tempo stesso per essere
+compreso da coloro che portavano i paraocchi di un partito o perfino di
+una teoria. Sembrava essere a tutti gli estremi, perché in un certo senso
+aveva accerchiato e circondato l'intera sua generazione. Ignorante e
+violento come sembrava in superficie, il suo spirito era come uno che
+fosse vissuto prima e dopo. Egli era là prima che fossero tutti nati,
+nelle affollate chiese medievali. Era là dopo che furono tutti morti,
+negli affollati congressi dei Sindacati. Non era sapere, ma era
+comprensione, nel senso di simpatia. Quando troviamo questa sorta di
+universalità troviamo, io credo, una cosa di scala eroica. Non sarebbe
+certo una cattiva definizione della [[Greatness|grandezza]] in un uomo,
+dire che possiamo lanciarci in qualunque direzione e trovare ancora la
+circonferenza della sua mente.
 
 
 
@@ -9111,3 +13197,109 @@ to remind us that there is still somewhere a countryside.
 And in that stillness I have sometimes fancied I heard,
 tiny and infinitely far away, something like a faint voice
 hallooing and the sound of [[Horse|horse]]-hoofs that return.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Non vi fu mai un cobbettiano tranne Cobbett. Ciò gli conferisce una
+qualità assoluta non priva di una sorta di autorità. Era un uomo pieno e
+un uomo pronto, ma non era un uomo esatto. Non era un uomo scientifico né,
+nel senso ordinato e consapevole, nemmeno un uomo filosofico. Ma era, per
+questo criterio piuttosto decisivo, un grande uomo. Era abbastanza grande
+da essere solo. Aveva dentro di sé più di quanto potesse facilmente
+trovare soddisfatto fuori di sé. Intendeva più con ciò che diceva perfino
+degli altri uomini che lo dicevano. Era uno di quei rari uomini per cui i
+truismi sono verità. Questa [[Union|unione]] di cose diverse nei suoi
+pensieri non era sufficientemente ragionata; ma era una [[Union|unione]].
+Non era un compromesso; era un uomo. È questo che s'intende dicendo che
+era anche un grande uomo. Vi era in lui qualcosa che il mondo non gli
+aveva insegnato; anche se era troppo vasto e vago perché egli potesse
+insegnarlo al mondo. Le cose erano parte di quella cosa che non poteva
+essere parte di nessun'altra cosa. Ecco perché non ebbe vere amicizie
+intellettuali fra gli intellettuali del suo tempo, pur facendo ogni
+tolleranza per i suoi reali difetti di [[Vanity|vanità]] e di violenza e
+di prontezza a litigare. È facile discutere come sia arrivato a litigare
+coi suoi migliori amici. È più penetrante chiedersi come mai sia potuto
+arrivare a trovarsi d'accordo con loro. Anche al migliore di loro l'intera
+sua veduta, che a lui sembrava così semplice, sarebbe riuscita
+sconcertante. Come poteva l'Oratore Hunt comprendere che le grandi chiese
+vuote con le loro bocche spalancate gridavano forte di appartenere anche
+al futuro, perché appartenevano al passato? Come poteva l'Onorevole
+William Windham comprendere che gli artigiani in tumulto nel Black
+Country si appellavano anch'essi al passato, così [[Well|come]]
+minacciavano il futuro? Come poteva il signor Carlile, il libraio ateo,
+sapere che un'abbazia in rovina e una folla furibonda erano una cosa sola;
+e che quella cosa era la libertà? Come poteva Lord Brougham comprendere
+che un campo di trifoglio e una [[Grotesque|grottesca]] graticola erano
+una cosa sola; e che quella cosa era l'Inghilterra?
+
+Questo è il [[Paradox|paradosso]] di Cobbett: che in un certo senso egli
+litigava con tutti perché conciliava ogni cosa. Da lui, almeno, tanti
+uomini erano divisi, perché in lui tante cose erano unificate. Appariva
+abbastanza incoerente nelle mille cose che vituperava; ma sarebbe apparso
+assai più incoerente nelle cose che accettava. L'ampiezza della sua
+simpatia sarebbe stata più strana di tutte le sue antipatie; e la sua pace
+era più provocatoria della guerra. Perciò è che la nostra ultima
+impressione di lui è di una [[Loneliness|solitudine]] non dovuta interamente
+ai suoi odi, ma in parte anche ai suoi amori. Poiché i desideri del suo
+intelletto e della sua [[Imagination|immaginazione]] non incontrarono mai
+altro che ostacolo e ferita in questo mondo; e benché la parte ordinaria
+di lui fosse spesso abbastanza felice, la parte superiore non fu mai
+soddisfatta. Non giunse mai abbastanza vicino a una religione che avrebbe
+potuto soddisfarlo. Ma delle filosofie non si sarebbe mai accontentato,
+specialmente le meschine e magre filosofie del suo tempo. La causa ch'egli
+sentiva dentro di sé era troppo possente e multiforme per essere nutrita
+di qualcosa di meno della [[Faith|Fede]]. Perciò fu che, mentre giaceva
+morente nella sua fattoria sulle colline, coloro ch'egli aveva amato di
+più alla sua semplice maniera erano vicini al suo cuore; ma di tutti i
+milioni del mondo esterno non ve n'era nessuno vicino alla sua mente, e
+tutto ciò ch'egli intendeva sfuggì e se ne andò per la sua via, come un
+gran [[Wind|vento]] che rugge sopra le [[rolling|ondulate]] brughiere.
+
+Questo libro cominciò con un'indifendibile scheggia di ricordo personale,
+e [[Fear|temo]] che dovrà finire con un'altra. Forse potrei addurre
+l'influenza dell'uomo che ho studiato e cercato di comprendere; che è
+stato detto egotista, benché io mi accontenterei di chiamarlo
+autobiografico. Come il signor Cole ha sottolineato nella sua ammirevole
+[[Biography|biografia]], Cobbett trattava il proprio io come una figura
+emblematica dell'Inghilterra, come Whitman trattava il suo
+dell'[[America]]. I miei ricordi non possono avere una simile scusa
+simbolica; ma trascorsi gran parte della mia [[Childhood|infanzia]] lungo
+quella via maestra dove Cobbett aveva la sua fattoria da sementi a
+Kensington; e una delle ultime cose che mio padre mi raccontò fu la storia
+di uno strano oggetto appeso sopra la [[Road|strada]], prima che alterazioni
+e demolizioni lo togliessero; un solo scorcio di una forma simbolica più
+brutta e più sgraziata di una forca alla luce del sole: la Graticola.
+
+Tutto ciò ch'egli odiava ha trionfato in quel luogo. La comune bottega
+ch'egli riteneva una molestia si è gonfiata nel grande emporio ch'egli
+avrebbe ritenuto un [[nightmare|incubo]]; il sobborgo è sprofondato nella
+nuova [[London|Londra]]; ma la [[Road|strada]] corre ancora verso ovest,
+quella lungo cui egli andava a cavallo tanto spesso, dirigendosi verso la
+campagna aperta, e lasciandosi la Wen quanto più possibile alle spalle. La
+Wen lo ha inseguito, spuntando fuori sempre più lontano in prospettiva
+telescopica, oltre Hammersmith e Chiswick e Richmond; e ancora mi sembra
+di vedere la schiena di quel cavaliere che svanisce sempre più avanti, e
+si rimpicciolisce fra scenari che cambiano; colline che si volgono intorno
+a lui come in una scena di trasformazione, via quasi fino alla tempestosa
+muraglia del Galles. Era come s'egli cavalcasse sempre più lontano verso
+ovest, seguendo verso il tramonto la [[Road|strada]] dei re caduti; dove
+una bassa luce rossa splende per sempre su cose dimenticate e sulle ultime
+rovine della Tavola Rotonda. Eppure non sono certo di una simile visione
+della [[history|storia]]; mi sembra che anche presso di noi le cose
+cambino e perfino si scambino di posto; e che la guerra non vada sempre in
+una sola direzione. Quando da ragazzo uscivo nel verde crepuscolo, avendo
+scritto sciocchezze tutta la [[Night|notte]] (per fortuna inedite), e
+bevevo caffè a un banchetto per la strada, rimuginando su tutte queste
+cose, sembrava allora come se la marea salisse abbastanza alta in una sola
+direzione; ma da allora ho avuto l'idea che le alte maree possono
+volgersi. Gli enormi edifici, visti in profilo come rozzi disegni,
+sembrano ergersi più malfermi contro un cielo mutato; con qualche
+cambiamento in esso ancora troppo sottile per esser chiamato il crepuscolo.
+Scoprii, almeno, che perfino in tutto quel labirinto della nuova
+[[London|Londra]] di [[Night|notte]] c'è un'ora non visitata di quasi
+totale silenzio, prima che i carri cigolanti comincino ad arrivare dagli
+orti-giardino, a ricordarci che c'è ancora, da qualche parte, una campagna.
+E in quel silenzio ho talvolta immaginato di udire, minuscolo e
+infinitamente lontano, qualcosa come una debole voce che grida e il suono
+di zoccoli di [[Horse|cavallo]] che ritornano.
