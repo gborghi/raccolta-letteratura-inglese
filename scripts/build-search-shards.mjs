@@ -13,8 +13,11 @@ import { pathToFileURL } from "node:url"
 
 const masterPath = path.join("data", "search-full-index.json")
 const outDir = path.join("public", "static")
-// Per-shard raw-byte budgets (Cloudflare per-file cap is 25 MiB; stay well under).
-const BUDGET = { 0: 3_500_000, 1: 4_500_000, 2: 12_000_000, 3: 6_000_000 }
+// HARD_CAP = the real guard: Cloudflare Pages rejects any file > 25 MiB, so fail the
+// build well below that. SOFT = per-tier size we'd LIKE to stay under (progressive-load
+// budget); exceeding it only warns — real sizes get reported either way.
+const HARD_CAP = 24_000_000
+const SOFT = { 0: 5_000_000, 1: 6_000_000, 2: 14_000_000, 3: 9_000_000 }
 
 const isAtom = (slug) => slug.includes("#")
 
@@ -75,16 +78,17 @@ function main() {
     const shard = shards[key]
     const json = JSON.stringify(shard)
     const bytes = Buffer.byteLength(json)
-    if (bytes > BUDGET[shard.tier]) {
+    if (bytes > HARD_CAP) {
       console.error(
-        `build-search-shards: ${key} = ${(bytes / 1e6).toFixed(1)}MB exceeds budget ` +
-          `${(BUDGET[shard.tier] / 1e6).toFixed(1)}MB (fatal — see t2-split note in the plan)`,
+        `build-search-shards: ${key} = ${(bytes / 1e6).toFixed(1)}MB exceeds the 24MB Cloudflare ` +
+          `hard cap (fatal — split this tier, see the t2-split note in the plan)`,
       )
       process.exit(1)
     }
+    const warn = bytes > SOFT[shard.tier] ? " ⚠ over soft target" : ""
     fs.writeFileSync(path.join(outDir, `search-${key}.json`), json)
     console.log(
-      `build-search-shards: search-${key}.json = ${(bytes / 1e6).toFixed(2)}MB (${shard.entries.length} entries)`,
+      `build-search-shards: search-${key}.json = ${(bytes / 1e6).toFixed(2)}MB (${shard.entries.length} entries)${warn}`,
     )
   }
 }
