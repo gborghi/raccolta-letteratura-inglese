@@ -164,11 +164,18 @@ function main() {
   const index = wrapped ? raw.content : raw
   const fullSizeBefore = fs.statSync(full).size
 
+  // Build the off-site TF-IDF master (includes injected `#`-keyed atom entries: they
+  // carry `content`, so they get ranked terms + a snippet like any doc). Two consumers:
+  //  - make-mobile-index.mjs projects it to the light contentIndexMobile.json,
+  //  - build-search-shards.mjs slices it into the tiered searchDepth shards.
   const master = buildFullIndex(index)
   const masterJson = JSON.stringify(master)
   fs.mkdirSync(path.dirname(masterPath), { recursive: true })
   fs.writeFileSync(masterPath, masterJson)
 
+  // contentIndex.json is ALSO the fetchData payload for the graph + backlinks
+  // (renderPage.tsx), not just search — so keep projecting it to the desktop budget
+  // (the disabled community search no longer reads it, but the graph/backlinks do).
   const desktop = projectToTarget(master, DESKTOP_TARGET)
   if (wrapped) raw.content = desktop
   const out = wrapped ? JSON.stringify(raw) : JSON.stringify(desktop)
@@ -176,7 +183,7 @@ function main() {
 
   console.log(
     `compress-search-index: ${Object.keys(master).length} entries | ` +
-      `master ${(masterJson.length / 1e6).toFixed(1)}MB (off-site, data/search-full-index.json) | ` +
+      `master ${(masterJson.length / 1e6).toFixed(1)}MB (off-site) | ` +
       `desktop ${(fullSizeBefore / 1e6).toFixed(1)}MB -> ${(out.length / 1e6).toFixed(1)}MB`,
   )
 }

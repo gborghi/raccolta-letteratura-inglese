@@ -39,20 +39,24 @@ jobs:
           NODE_OPTIONS: "--max-old-space-size=14336"
       - name: Inject atom search entries
         # Merge the committed data/atom_search.json.gz (per-atom search entries) into
-        # the raw contentIndex.json before it gets TF-IDF compressed.
+        # the raw contentIndex.json before the TF-IDF master is built from it (atoms also
+        # appear as leaf->work nodes in the graph).
         run: node scripts/inject-atom-search.mjs
-      - name: Compress desktop search index
-        # Replace each page's full text with a short snippet + top TF-IDF terms so the
-        # desktop contentIndex.json shrinks ~10x (~300MB -> ~26MB) while staying searchable.
-        # Also builds the off-site master data/search-full-index.json, which the mobile
-        # derivation step below reads. Must run BEFORE make-mobile-index.mjs.
+      - name: Compress desktop index + build TF-IDF master
+        # Projects contentIndex.json to the desktop budget (fetchData payload for the
+        # graph + backlinks) AND writes the off-site master data/search-full-index.json,
+        # read by both make-mobile-index.mjs and build-search-shards.mjs. Must run first.
         run: node scripts/compress-search-index.mjs
         env:
           NODE_OPTIONS: "--max-old-space-size=8192"
-      - name: Build mobile search index
-        # Derive the light contentIndexMobile.json by projecting the master index
-        # that compress-search-index.mjs just built.
+      - name: Build mobile index
+        # Light contentIndexMobile.json (graph/backlinks on narrow viewports), projected
+        # from the master.
         run: node scripts/make-mobile-index.mjs
+      - name: Build tiered search shards
+        # Slice the master into search-t{0,1,2,3}.json (Fast/Standard/Deep/Max) for the
+        # searchDepth depth slider. Fails loudly if any shard exceeds its per-file budget.
+        run: node scripts/build-search-shards.mjs
       - name: Slim tags index page
         # Replace the ~24MB server-rendered /tags/ aggregator with a lightweight client
         # table (static/tags.json + tags-table.js) so no single file nears the 25 MiB cap.

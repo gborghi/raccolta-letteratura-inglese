@@ -33,6 +33,21 @@ test("projectToTarget lands under target and near it", () => {
   assert.ok(size >= target * 0.9, `size ${size} >= ${target * 0.9}`)
 })
 
+test("buildFullIndex ranks terms for '#'-keyed atom entries", () => {
+  const m = buildFullIndex({
+    "testi/w#a1": {
+      title: "A1",
+      slug: "testi/w#a1",
+      content: "philosophy paradox philosophy",
+      tags: [],
+      links: ["works/w"],
+    },
+    "works/w": { title: "W", slug: "works/w", content: "history england", tags: [], links: [] },
+  })
+  assert.ok(m["testi/w#a1"].terms.length > 0)
+  assert.equal(m["testi/w#a1"].terms[0][0], "philosophy")
+})
+
 test("buildFullIndex keeps up to 700 chars of snippet", () => {
   const long = "word ".repeat(400).trim() // ~2000 chars
   const master = buildFullIndex({

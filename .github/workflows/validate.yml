@@ -46,16 +46,19 @@ jobs:
           find public -type f -size +26214400c -printf '%s %p\n' | tee -a "$GITHUB_STEP_SUMMARY" || true
           s="public/testi/chesterton/atomized/ortho14.html"
           echo "- Orthodoxy SPA page: atom-reader=$(grep -c 'atom-reader' "$s" || echo 0) atom-split=$(grep -o 'atom-split' "$s" | wc -l)" | tee -a "$GITHUB_STEP_SUMMARY"
-      - name: Build mobile search index
-        run: node scripts/make-mobile-index.mjs
       - name: Compress desktop search index
         run: node scripts/compress-search-index.mjs
         env:
           NODE_OPTIONS: "--max-old-space-size=8192"
+      - name: Build mobile search index
+        run: node scripts/make-mobile-index.mjs
+      - name: Build tiered search shards
+        run: node scripts/build-search-shards.mjs
       - name: Report index sizes
         run: |
           echo "- contentIndex.json: $(du -h public/static/contentIndex.json | cut -f1)" | tee -a "$GITHUB_STEP_SUMMARY"
           echo "- contentIndexMobile.json: $(du -h public/static/contentIndexMobile.json | cut -f1)" | tee -a "$GITHUB_STEP_SUMMARY"
+          for t in 0 1 2 3; do echo "- search-t$t.json: $(du -h public/static/search-t$t.json | cut -f1)" | tee -a "$GITHUB_STEP_SUMMARY"; done
       - name: Upload built site
         uses: actions/upload-artifact@v4
         with:
