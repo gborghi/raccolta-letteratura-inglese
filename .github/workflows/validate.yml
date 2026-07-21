@@ -46,6 +46,11 @@ jobs:
           find public -type f -size +26214400c -printf '%s %p\n' | tee -a "$GITHUB_STEP_SUMMARY" || true
           s="public/testi/chesterton/atomized/ortho14.html"
           echo "- Orthodoxy SPA page: atom-reader=$(grep -c 'atom-reader' "$s" || echo 0) atom-split=$(grep -o 'atom-split' "$s" | wc -l)" | tee -a "$GITHUB_STEP_SUMMARY"
+      - name: Inject atom search entries
+        # Same as deploy: merge data/atom_search.json.gz so the master (and hence the
+        # Deep/Max shards) include the ~19k per-atom entries. Without this, search-t2
+        # is empty in validation and its true size is never measured.
+        run: node scripts/inject-atom-search.mjs
       - name: Compress desktop search index
         run: node scripts/compress-search-index.mjs
         env:
