@@ -33,6 +33,15 @@ test("projectToTarget lands under target and near it", () => {
   assert.ok(size >= target * 0.9, `size ${size} >= ${target * 0.9}`)
 })
 
+test("buildFullIndex keeps up to 700 chars of snippet", () => {
+  const long = "word ".repeat(400).trim() // ~2000 chars
+  const master = buildFullIndex({
+    "a/b": { title: "T", slug: "a/b", content: long, tags: [], links: [] },
+  })
+  assert.ok(master["a/b"].snippet.length > 160)
+  assert.ok(master["a/b"].snippet.length <= 700)
+})
+
 test("projected content leads with readable prose snippet, not just terms", () => {
   const raw = {
     p0: {

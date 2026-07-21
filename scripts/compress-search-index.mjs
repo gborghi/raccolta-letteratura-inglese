@@ -25,6 +25,7 @@ const dir = "public/static"
 const full = path.join(dir, "contentIndex.json")
 const masterPath = path.join("data", "search-full-index.json")
 const MASTER_CAP = 500 // ranked terms kept per doc in the master (bounds its size)
+const MASTER_SNIPPET = 700 // chars of readable prose kept per doc (deep tiers slice this down)
 const DESKTOP_TARGET = 15_000_000 // bytes; desktop contentIndex.json budget
 const MIN_LEN = 3 // ignore tokens shorter than this
 // NOTE: widened from the original prose-only /[a-z][a-z']+/g to also admit digits
@@ -61,7 +62,7 @@ export function buildFullIndex(rawIndex) {
   for (const slug of slugs) {
     const it = rawIndex[slug]
     const rawText = it && typeof it.content === "string" ? it.content : ""
-    snippets.set(slug, rawText.replace(/\s+/g, " ").trim().slice(0, 160))
+    snippets.set(slug, rawText.replace(/\s+/g, " ").trim().slice(0, MASTER_SNIPPET))
     const text = rawText.toLowerCase()
     const counts = new Map()
     for (const m of text.matchAll(WORD)) {
@@ -118,7 +119,12 @@ export function projectToTarget(
       for (const f of fields) entry[f] = d[f]
       const terms = Array.isArray(d.terms) ? d.terms.slice(0, n) : []
       const termStr = terms.map(([w]) => w).join(" ")
-      entry.content = d.snippet ? `${d.snippet} ${termStr}` : termStr
+      // Legacy single-file projector keeps a short 160-char snippet (the master now
+      // stores up to 700 for the tiered shard emitter; re-slice here so this path's
+      // output size is unchanged). This projector is retired from main() in the shard
+      // build but stays exported + unit-tested.
+      const snip = (d.snippet || "").slice(0, 160)
+      entry.content = snip ? `${snip} ${termStr}` : termStr
       out[slug] = entry
     }
     return out
