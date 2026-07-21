@@ -9004,6 +9004,83 @@ which I find great difficulty in expressing, especially in
 a foreign language."
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+# Una discussione un po' in aria
+
+La [[Ship|nave]] volante del professor [[Lucifer|Lucifero]] cantava attraverso i cieli come una freccia d'argento; il suo acciaio bianco e desolato, che brillava nel vuoto azzurro cupo della sera. Non si poteva dire che fosse lontana dalla terra; per gli due uomini al suo interno, sembrava essere lontana dalle [[Stars|stelle]]. [[The Professor|Il professore]] aveva inventato lui stesso la [[Machine|macchina]] volante e aveva anche inventato quasi tutto ciò che conteneva. Di conseguenza ogni sorta di strumento o apparecchiatura aveva pienamente quell'aspetto fantastico e distorto che appartiene ai miracoli della scienza. Perché il mondo della scienza e dell'evoluzione è molto più anonimo ed elusivo, simile a [[A Dream|un sogno]], rispetto al mondo della poesia e della religione; dato che in quest'ultimo le immagini e le idee rimangono eternamente se stesse, mentre l'idea stessa dell'evoluzione è che le identità si fondono tra loro come avviene in un [[nightmare|incubo]].
+
+Tutti gli strumenti del professor [[Lucifer|Lucifero]] erano gli antichi strumenti umani impazziti,
+cresciuti in forme irriconoscibili, dimentichi della loro origine,
+dimentichi dei loro nomi. Quella cosa che sembrava una enorme
+chiave con tre ruote era in realtà un revolver brevettato e molto mortale.
+Quell'oggetto che sembrava essere creato dall'intreccio di due
+tappi a vite era in realtà la chiave. La cosa che avrebbe potuto essere
+scambiata per un triciclo capovolto era lo strumento inesprimibilmente
+importante al quale il tappo a vite faceva da chiave.
+Tutte queste cose, come dicevo, [[The Professor|il professore]] le aveva inventate; aveva inventato
+tutto nella nave volante con l'eccezione, forse, di se stesso.
+Questo era nato troppo tardi per inaugurare realmente, ma credeva
+almeno che lo avesse notevolmente migliorato.
+
+C'era però un altro uomo a bordo, per così dire,
+all'[[Time|epoca]]. Anche lui, per una curiosa coincidenza, non era stato inventato [[The Professor|dal professore]], e nemmeno lo aveva molto migliorato,
+sebbene l'avesse pescato con un laccio dal suo retro[[Garden|orto]],
+nella Bulgaria occidentale, col solo scopo di perfezionarlo.
+Era un uomo estremamente santo, quasi interamente ricoperto da capelli bianchi.
+Non si vedeva altro che i suoi occhi, e sembrava parlare con quelli.
+Un monaco di immensa erudizione e acuto intelletto, aveva saputo
+rendere felice se stesso in una piccola capanna di pietra e un piccolo [[Garden|orto]] sassoso nei Balcani,
+soprattutto scrivendo le più schiaccianti confutazioni delle denunce
+di certe eresie, i cui ultimi professori erano stati bruciati
+(generalmente l'uno dall'altro) esattamente 1.119 anni prima.
+Erano davvero eresie molto plausibili e ponderate,
+ed era veramente una circostanza meritevole o addirittura gloriosa
+che il vecchio monaco fosse stato abbastanza intelligente da individuarne
+l'errore; l'unica disgrazia era che nessuno nel mondo moderno
+era abbastanza intelligente nemmeno per capire la loro argomentazione.
+Il vecchio monaco, uno dei cui nomi era [[Michael|Michelangelo]], e l'altro un nome
+del tutto impossibile da ricordare o ripetere nella nostra civiltà occidentale,
+si era però reso felice, come ho detto, mentre
+era in un eremo di montagna in compagnia di animali [[Animals|selvaggi]].
+E ora che la sua fortuna lo aveva sollevato al disopra di tutte le [[Mountains|montagne]]
+in compagnia di uno scienziato pazzo, si rendeva felice ancora.
+
+«Non ho alcuna intenzione, mio buon [[Michael|Michelangelo]]», disse il professor [[Lucifer|Lucifero]],
+«di tentare di [[convert|convertirti]] con argomentazioni. L'imbecillità delle tue tradizioni può essere esposta in modo definitivo a chiunque abbia una semplice conoscenza ordinaria del mondo, lo stesso tipo di conoscenza che ci insegna a non sederci nelle correnti d'aria o a non incoraggiare la cordialità nelle persone senza soldi. È follia parlare di questo o quello come dimostrazione della [[philosophy|filosofia]] razionalista. Tutto lo dimostra.
+Strofinarsi le spalle con uomini di ogni tipo----»
+
+«Mi perdonerete», disse il monaco con umiltà da sotto i suoi folti
+baffi bianchi, «ma [[Fear|temo]] di non aver capito; è stato forse perché potessi sfregare la mia spalla contro uomini di ogni tipo che mi avete messo dentro questa cosa?»
+
+«Una risposta divertente, nel modo ristretto e deduttivo del Medioevo», replicò [[The Professor|il professore]], con calma, «ma anche sulla base delle tue stesse premesse illustrerò il mio punto.  Siamo in cielo.
+Nella tua religione e in tutte le religioni, per quanto ne so (e io
+so tutto), il cielo è fatto simbolo di tutto ciò che è
+sacro e misericordioso.  [[Well|Beh]], ora sei in cielo, lo sai meglio.
+Formulalo come vuoi, distorcelo come vuoi, tu sai che ne sai più di prima.
+Tu sai quali sono i veri sentimenti di un uomo verso il cielo,
+quando si trova [[Alone|solo]] nel cielo, circondato dal cielo.
+Conosci la [[Truth|verità]], e la [[Truth|verità]] è questa.  Il cielo è malvagio,
+il cielo è malvagio, le [[Stars|stelle]] sono malvagie.  Questo semplice spazio, questa mera
+quantità, terrorizza un uomo più di tigri o della terribile peste.
+Tu sai che da quando la nostra scienza ha parlato, il [[Bottom|fondamento]] è caduto
+dell'Universo.  Ora, il cielo è la cosa senza speranza, più senza speranza
+di qualsiasi inferno.  Ora, se c'è qualche conforto per tutta la tua miserabile
+progenie di scimmie morbide, deve essere nella terra, sotto di te,
+sotto le radici dell'erba, nel luogo dove un tempo era l'inferno.
+Le cripte infuocate, i seminterrati lividi del mondo sotterraneo,
+a cui una volta condannavi i malvagi, sono abbastanza orribili,
+ma almeno sono più familiari del cielo in cui cavalchiamo.
+E verrà il [[Time|tempo]] in cui vi nasconderete tutti in essi, per sfuggire
+all'orrore delle [[Stars|stelle]].»
+
+"Spero che mi perdonerete se vi interrompo", disse [[Michael]], con un leggero colpo di tosse,
+"ma ho sempre notato ----"
+
+«Continuate pure, prego continuate», disse il professor [[Lucifer|Lucifero]] con un sorriso raggiante, «mi piace davvero farvi esprimere le vostre semplici idee.»
+
+«[[Well|Bene]], il fatto è», disse l'altro, «che per quanto io ammiri la tua retorica e quella della tua scuola, da un punto di vista puramente verbale, lo scarso studio che ho potuto fare su te e sulla tua scuola nella [[history|storia]] umana mi ha portato a una --ehm-- conclusione piuttosto singolare, che trovo molto difficile esprimere, specialmente in una lingua straniera.»
+
 
 
 <span class="atom-split" data-atom="story_01_a_discussion_somewhat_in_the_air--part_02" data-title="ball and cross — A Discussion Somewhat in the Air (part 2)" data-chapter="A Discussion Somewhat in the Air" data-kind="excerpt" data-tags="archetype/innocent,motif/cross,motif/desert,motif/fire,motif/ship,motif/time,motif/well,concept/body,concept/truth,setting/cathedral,setting/desert,setting/london,setting/ship,character/lucifer,character/michael"></span>
@@ -9114,6 +9191,113 @@ When we speak of men at once ignorant of each other and frustrated
 by each other, we say they are at [[Cross|cross]]-purposes. Away with the thing!
 The very shape of it is a contradiction in terms."
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+"Su, su," disse [[The Professor|il Professore]], con tono incoraggiante, "vi darò una mano.
+Come vi ha colpito la mia visione delle cose?"
+
+"[[Well|Ecco]], la [[Truth|verità]] è che so di non esprimerla come si deve, ma in
+qualche modo mi è parso che voi trasmettiate sempre idee di quel genere con
+la massima eloquenza, quando... ehm... quando... ..."
+
+"Oh! andate avanti," gridò [[Lucifer]], in modo chiassoso.
+
+"[[Well|Ecco]], in sostanza quando la vostra [[Ship|nave]] volante sta per andare
+a sbattere contro qualcosa. Ho pensato che non vi sarebbe dispiaciuto se ve lo facevo notare,
+ma proprio adesso sta andando a sbattere contro qualcosa."
+
+[[Lucifer]] proruppe in un'imprecazione e balzò in piedi, appoggiandosi con forza
+alla leva che fungeva da timone al veicolo.
+Negli ultimi dieci minuti erano precipitati in giù, tra grandi
+fenditure e caverne di nuvola. Ora, attraverso una sorta di foschia purpurea,
+si poteva scorgere relativamente vicino a loro quella che sembrava essere la parte
+superiore di un enorme, scuro globo o sfera, come un'isola in un mare di nuvole.
+Gli occhi [[The Professor|del Professore]] fiammeggiavano come quelli di un pazzo.
+
+"È un mondo nuovo," gridò, con una gioia spaventosa.
+"È un nuovo pianeta e porterà il mio nome. Sarà questa stella, e non
+quell'altra volgare, a essere '[[Lucifer]], astro del mattino.'
+Qui non avremo follie sancite per statuto, qui non avremo dèi.
+Qui l'uomo sarà [[Innocent|innocente]] come le margherite, [[Innocent|innocente]] e crudele quanto loro...
+qui l'intelletto..."
+
+"Pare," disse [[Michael]], timidamente, "che ci sia qualcosa che sporge
+in mezzo ad esso."
+
+"Difatti c'è," disse [[The Professor|il Professore]], sporgendosi oltre la fiancata della [[Ship|nave]],
+con gli occhiali che brillavano d'eccitazione intellettuale. "Che cosa può essere?
+Potrebbe naturalmente essere soltanto un..."
+
+Poi d'improvviso gli eruppe di dosso un urlo indescrivibile, e levò in alto
+le braccia come uno spirito perduto. Il monaco prese il timone in modo stanco;
+non parve troppo stupito, poiché veniva da una parte ignorante
+del mondo in cui non è raro che gli spiriti perduti urlino
+quando vedono la curiosa forma che [[The Professor|il Professore]] aveva appena veduto
+in cima alla misteriosa sfera, ma prese il timone appena
+in [[Time|tempo]], e spingendolo con forza verso sinistra impedì alla [[Ship|nave]] volante
+di fracassarsi contro la [[Cathedral|cattedrale]] di San Paolo.
+
+Una pianura di nuvola dal colore mesto si stendeva all'altezza della sommità della
+cupola della [[Cathedral|cattedrale]], sicché la sfera e la [[Cross|croce]] parevano una boa
+che galleggiava su un mare di piombo. Mentre la [[Ship|nave]] volante si avventava verso di essa, questa pianura
+di nuvola pareva arida e definita e rocciosa come un qualsiasi grigio [[Desert|deserto]].
+Perciò diede alla mente e al [[Body|corpo]] una sensazione acuta e ultraterrena
+quando la [[Ship|nave]] fendette e affondò nella nuvola come in una qualunque comune caligine,
+una cosa priva di resistenza. Vi fu, per così dire, un urto mortale
+nel fatto che non vi fosse alcun urto. Era come se avessero fenduto
+antiche rupi come tanto burro. Ma li attendevano sensazioni
+assai più strane di quelle dello sprofondare attraverso la terra solida.
+Per un istante i loro occhi e le loro narici furono ostruiti dall'oscurità
+e da opaca nuvola; poi l'oscurità si scaldò in una sorta di nebbia bruna.
+E lontano, lontano sotto di loro la nebbia bruna scendeva finché non si scaldava in [[Fire|fuoco]].
+Attraverso la densa atmosfera di [[London|Londra]] potevano vedere sotto di loro
+le fiammeggianti luci di [[London|Londra]]; luci che giacevano al di sotto di loro in
+quadrati e rettangoli di [[Fire|fuoco]]. La nebbia e il [[Fire|fuoco]] erano mescolati in un
+vapore appassionato; si sarebbe potuto dire che la nebbia stava annegando le fiamme;
+oppure si sarebbe potuto dire che le fiamme avevano dato [[Fire|fuoco]] alla nebbia.
+Accanto alla [[Ship|nave]] e sotto di essa (poiché essa oscillava proprio sotto la sfera),
+l'incommensurabile cupola stessa si slanciava fuori e giù nel buio come una
+combinazione di cateratte senza voce. O era come una qualche ciclopica
+bestia marina seduta al di sopra di [[London|Londra]] che calava le sue tentacoli
+in modo sconcertante da ogni lato, una mostruosità in quel cielo senza stelle.
+Poiché le nuvole che appartenevano a [[London|Londra]] si erano chiuse sopra le teste
+dei viaggiatori, sigillando l'ingresso dell'aria superiore.
+Avevano sfondato un tetto ed erano entrati in un tempio di crepuscolo.
+
+Erano così vicini alla sfera che [[Lucifer]] vi appoggiò contro la mano,
+tenendo il veicolo discosto, come gli uomini spingono una barca lontano dalla riva.
+Sopra di essa la [[Cross|croce]], già ammantata nelle scure brume della terra di confine,
+era ombrosa e più tremenda nella forma e nelle dimensioni.
+
+Il Professor [[Lucifer]] batté due volte la mano sulla superficie
+del grande globo come se stesse accarezzando un enorme animale.
+"Questo è il tipo giusto," disse, "questo è quello che fa per me."
+
+"Posso, con tutto il rispetto, domandare," chiese il vecchio monaco, "di che diavolo
+state parlando?"
+
+"Ebbene, di questo," gridò [[Lucifer]], percuotendo di nuovo la sfera, "ecco
+l'unico simbolo, ragazzo mio. Così grasso. Così soddisfatto. Non come quell'altro
+individuo scarno, che tende le braccia in una spossatezza assoluta."
+E indicò in su verso la [[Cross|croce]], il viso scuro per un ghigno.
+"Ti stavo dicendo poco fa, [[Michael]], che posso dimostrare la parte migliore
+della tesi razionalista e della fandonia cristiana a partire da qualunque
+simbolo tu volessi darmi, da qualunque esempio mi capitasse davanti.
+Ecco un esempio in tutta la sua evidenza. Cosa potrebbe mai esprimere
+la tua [[philosophy|filosofia]] e la mia [[philosophy|filosofia]] meglio della forma di quella [[Cross|croce]]
+e della forma di questa sfera? Questo globo è ragionevole; quella [[Cross|croce]]
+è irragionevole. È un animale a quattro zampe, con una zampa più lunga
+delle altre. Il globo è inevitabile. La [[Cross|croce]] è arbitraria.
+Soprattutto il globo è in [[unity|unità]] con se stesso; la [[Cross|croce]] è anzitutto
+e sopra ogni cosa in inimicizia con se stessa. La [[Cross|croce]] è
+il conflitto di due linee ostili, di direzione inconciliabile.
+Quella cosa silenziosa lassù è essenzialmente una collisione, uno schianto,
+una lotta nella pietra. Puah! quel vostro sacro simbolo ha addirittura
+dato il proprio nome a una descrizione della disperazione e della confusione.
+Quando parliamo di uomini a un tempo ignari l'uno dell'altro e frustrati
+l'uno dall'altro, diciamo che agiscono a scopi incrociati. Via quella cosa!
+La sua forma stessa è una contraddizione in termini."
 
 
 
@@ -9232,6 +9416,120 @@ of the reeling car on to the upper part of the stone ball.
 and saved himself from falling.  At the same instant [[Lucifer]] drove
 down a lever and the [[Ship|ship]] shot up with him in it [[Alone|alone]].
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+"Quel che dite è perfettamente vero," disse [[Michael]], con serenità.
+"Ma a noi piacciono le contraddizioni nei termini.  L'uomo è una contraddizione
+nei termini; è una bestia la cui superiorità sulle altre bestie
+consiste nell'essere caduta.  Quella [[Cross|croce]] è, come dite voi,
+una collisione eterna; e così sono io.  È una lotta impressa nella pietra.
+Ogni forma di vita è una lotta impressa nella carne.  La forma della [[Cross|croce]]
+è irrazionale, esattamente come è irrazionale la forma dell'animale umano.
+Voi dite che la [[Cross|croce]] è un quadrupede con un arto più lungo degli altri.
+Io dico che l'uomo è un quadrupede che si serve soltanto di due delle sue zampe."
+
+[[The Professor|Il Professore]] aggrottò la fronte pensieroso per un istante, e disse:
+"Naturalmente tutto è relativo, e non negherei che
+l'elemento di lotta e di [[Self|autocontraddizione]], rappresentato da
+quella [[Cross|croce]], abbia un posto necessario a un certo stadio evolutivo.
+Ma di certo la [[Cross|croce]] è lo sviluppo inferiore e la sfera quello superiore.
+Dopotutto è abbastanza facile vedere che cosa c'è davvero di sbagliato
+nella disposizione architettonica del Wren."
+
+"E che cosa sarebbe, di grazia?" domandò [[Michael]], mansueto.
+
+"La [[Cross|croce]] è in cima alla palla," disse il Professor [[Lucifer]], con semplicità.
+"Questo è di sicuro sbagliato.  La palla dovrebbe stare in cima alla [[Cross|croce]].
+La [[Cross|croce]] è un mero puntello barbarico; la palla è la perfezione.
+La [[Cross|croce]], nel suo meglio, non è che l'albero amaro della [[history|storia]] dell'uomo;
+la palla è il frutto tondeggiante, maturo e ultimo.  E il frutto
+dovrebbe stare in cima all'albero, non alla sua [[Bottom|base]]."
+
+"Oh!" disse il monaco, mentre una ruga gli affiorava sulla fronte, "così voi
+pensate che in uno schema razionalistico di simbolismo la palla dovrebbe
+stare in cima alla [[Cross|croce]]?"
+
+"Riassume tutta la mia [[Allegory|allegoria]]," disse [[The Professor|il professore]].
+
+"[[Well|Ebbene]], è davvero molto interessante," riprese [[Michael]] lentamente,
+"perché credo che in tal caso vedreste un effetto assai singolare,
+un effetto che è stato generalmente conseguito da tutti quei sistemi abili e
+potenti che il razionalismo, ovvero la religione della palla,
+ha prodotto per guidare o istruire il genere umano.  Vedreste, io credo,
+accadere quella cosa che è sempre l'ultima incarnazione e il logico
+esito del vostro schema logico."
+
+"Di che cosa state parlando?" chiese [[Lucifer]].  "Che cosa accadrebbe?"
+
+"Voglio dire che crollerebbe," disse il monaco, guardando malinconico
+nel vuoto.
+
+[[Lucifer]] fece un movimento adirato e aprì la bocca per parlare,
+ma [[Michael]], con tutta la sua aria di deliberazione, stava procedendo
+prima che egli potesse cavar fuori una parola.
+
+"Una volta ho conosciuto un uomo come voi, [[Lucifer]]," disse, con una
+esasperante monotonia e lentezza di articolazione.  "Egli prese questa..."
+
+"Non c'è uomo come me," gridò [[Lucifer]], con una violenza che
+scosse la [[Ship|nave]].
+
+"Come stavo osservando," continuò [[Michael]], "quest'uomo prese anch'egli
+il punto di vista secondo cui il simbolo del [[Christianity|Cristianesimo]] fosse un simbolo di
+barbarie e di ogni irragionevolezza.  La sua [[history|storia]] è piuttosto divertente.
+È anche una perfetta [[Allegory|allegoria]] di ciò che accade ai razionalisti
+come voi.  Cominciò, naturalmente, col rifiutare di ammettere un crocifisso
+in [[house|casa]] sua, o al collo di sua moglie, o perfino in un quadro.
+Diceva, come dite voi, che era una forma arbitraria e fantastica,
+che era una mostruosità, amata perché paradossale.
+Poi cominciò a farsi più feroce e più eccentrico; si mise a demolire
+le croci lungo le strade; poiché viveva in un paese cattolico romano.
+Infine, al culmine di una frenesia, si arrampicò sul campanile della
+Chiesa Parrocchiale e strappò via la [[Cross|croce]], agitandola nell'aria,
+e pronunciando selvaggi soliloqui lassù sotto le [[Stars|stelle]].
+Poi una quieta sera d'[[Summer|estate]], mentre se ne tornava verso casa
+lungo un viottolo, il demone della sua [[Madness|follia]] lo colse con una violenza
+e una trasfigurazione che mutano il mondo.  Se ne stava fermo a fumare,
+per un momento, davanti a un'interminabile fila di steccati,
+quando i suoi occhi si aprirono.  Non una luce si spostò, non una foglia si mosse,
+ma egli vide, come per un improvviso mutamento della vista, che quello steccato
+era un esercito di innumerevoli croci congiunte l'una all'altra su per [[Hill|colle]] e valle.
+E fece roteare il suo pesante bastone e vi si scagliò contro come contro un esercito.
+Miglio dopo miglio, lungo il cammino verso casa, lo abbatté e lo divelse.
+Poiché odiava la [[Cross|croce]] e ogni steccato è un muro di croci.
+Quando fece ritorno alla sua [[house|casa]] era un pazzo in senso letterale.
+Si sedette su una sedia e poi ne balzò via, poiché le sbarre
+incrociate della falegnameria ripetevano l'immagine intollerabile.
+Si gettò su un letto solo per ricordare che anche questo,
+come tutte le cose fatte a regola d'arte, era costruito sul piano maledetto.
+Ruppe i suoi mobili perché erano fatti di croci.
+Bruciò la sua [[house|casa]] perché era fatta di croci.  Fu ritrovato
+nel [[River|fiume]]."
+
+[[Lucifer]] lo guardava mordendosi il labbro.
+
+"È davvero vera quella storia?" chiese.
+
+"Oh, no," disse [[Michael]], con disinvoltura.  "È una [[Parable|parabola]].  È una [[Parable|parabola]]
+di voi e di tutti i vostri razionalisti.  Cominciate con lo spezzare la [[Cross]];
+ma finite col mandare in pezzi il mondo abitabile.  Vi lasciamo
+mentre dite che nessuno dovrebbe unirsi alla Chiesa contro la propria volontà.
+Vi ritroviamo mentre dite che nessuno ha più alcuna volontà con cui unirsi
+ad essa.  Vi lasciamo mentre dite che non esiste alcun luogo come l'Eden.
+Vi ritroviamo mentre dite che non esiste alcun luogo come l'Irlanda.
+Cominciate odiando l'irrazionale e arrivate a odiare ogni cosa,
+poiché ogni cosa è irrazionale, e così..."
+
+[[Lucifer]] gli si avventò contro con un grido pari a quello di una belva.  "Ah,"
+strillò, "a ciascun uomo la sua [[Madness|follia]].  Voi siete pazzo per la [[Cross|croce]].
+Che essa vi salvi."
+
+E con un'energia erculea spinse il monaco all'indietro fuori
+dalla vettura oscillante, sulla parte superiore della palla di pietra.
+[[Michael]], con altrettanto brusca agilità, afferrò una delle travi della [[Cross|croce]]
+e si salvò dalla caduta.  Nello stesso istante [[Lucifer]] abbassò
+di scatto una leva e la [[Ship|nave]] schizzò in alto con lui dentro, [[Alone|solo]].
 
 
 
@@ -9365,6 +9663,134 @@ who is the noblest and most divine and most lovable of all men,
 better than all the saints, greater than all the heroes--man Friday.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+«Ah! ah!» urlò, «che razza di sostegno lo trovi, vecchio mio?»
+
+«Per usi pratici di sostegno,» replicò [[Michael]] cupamente,
+«è in ogni caso assai migliore della palla.
+Posso chiederti se hai intenzione di lasciarmi qui?»
+
+«Sì, sì. Io salgo! Io salgo!» gridò [[The Professor|il professore]] in
+un'eccitazione incontenibile. «_Altiora peto_. La mia via è verso l'alto.»
+
+«Quante volte mi avete detto, Professore, che nello spazio non c'è in realtà né
+alto né basso?» disse il monaco. «Salirò tanto in alto
+quanto salirete voi.»
+
+«Davvero,» disse [[Lucifer]], sogghignando oltre il fianco della [[Ship|nave]] volante.
+«Posso chiedere che cosa intendi fare?»
+
+Il monaco indicò in basso, verso Ludgate [[Hill]]. «Ho intenzione,» disse,
+«di arrampicarmi su fino a una stella.»
+
+Coloro che guardano la questione nel modo più superficiale considerano il [[Paradox|paradosso]]
+come qualcosa che appartiene allo scherzo e al giornalismo leggero.
+Il [[Paradox|paradosso]] di questa specie si trova nel detto del damerino, nella
+[[Comedy|commedia]] decadente: «La vita è troppo importante per essere presa sul serio.»
+Coloro che guardano la questione un po' più a fondo o con maggior delicatezza vedono
+che il [[Paradox|paradosso]] è una cosa che appartiene in modo speciale a tutte le religioni.
+Il [[Paradox|paradosso]] di questa specie si trova in un detto come «I miti
+erediteranno la terra.» Ma coloro che vedono e sentono il fondamentale
+fatto della questione sanno che il [[Paradox|paradosso]] è una cosa che appartiene non
+solo alla religione, ma a tutte le crisi vivide e violente e pratiche
+del vivere umano. Questa specie di [[Paradox|paradosso]] può essere chiaramente percepita
+da chiunque si trovi a penzolare nel vuoto dello spazio, aggrappato a un
+braccio della [[Cross|croce]] di San Paolo.
+
+Padre [[Michael]], a dispetto dei suoi anni, e a dispetto del suo ascetismo
+(o a causa di esso, per quel che ne so), era un vecchio gentiluomo assai sano
+e felice. E mentre dondolava su una sbarra sopra la nauseante
+vacuità dell'aria, comprese, con quella sorta di morta distaccatezza
+che appartiene ai cervelli di coloro che sono in pericolo, la contraddizione
+imperitura e disperata che è insita nella semplice idea del [[Courage|coraggio]].
+Era un vecchio gentiluomo felice e sano e perciò se ne curava
+del tutto poco. E sentì, come ogni uomo sente nell'istante teso
+di un simile terrore, che il suo massimo pericolo era il terrore stesso;
+la sua unica forza possibile sarebbe stata una freddezza che sfiorava la noncuranza,
+una noncuranza che sfiorava quasi la spavalderia suicida.
+La sua unica folle possibilità di uscirne salvo sarebbe stata nel non
+desiderare troppo disperatamente di essere salvo. Potevano esserci appigli lungo quell'orribile facciata,
+purché egli potesse non curarsi se fossero appigli o no.
+Se fosse stato temerario, forse sarebbe scampato; se fosse stato saggio, si sarebbe
+fermato dov'era finché non fosse caduto dalla [[Cross|croce]] come una pietra.
+E questa antinomia continuava a ripetersi nella sua mente, una contraddizione
+tanto grande e sbalorditiva quanto l'immensa contraddizione della [[Cross|croce]];
+ricordava di aver spesso udito le parole: «Chiunque perderà
+la propria vita, quello stesso la salverà.» Ricordava con una sorta
+di strana pietà che ciò era sempre stato inteso a significare che
+chiunque perdesse la propria vita fisica avrebbe salvato la propria vita spirituale.
+Ora egli conosceva la [[Truth|verità]] che è nota a tutti i combattenti, e cacciatori,
+e scalatori di rupi. Sapeva che perfino la sua vita animale poteva
+essere salvata soltanto attraverso una considerevole disponibilità a perderla.
+
+Alcuni penseranno improbabile che un'[[Soul|anima]] umana che dondola disperatamente
+a mezz'aria possa riflettere su incoerenze filosofiche.
+Ma tali stati estremi sono cose pericolose su cui dogmatizzare.
+Sovente essi producono una certa inutile e gioiosa attività
+del puro intelletto, un pensiero divorziato non solo dalla [[Hope|speranza]]
+ma perfino dal [[Desire|desiderio]]. E se è impossibile dogmatizzare
+su tali stati, è ancor più impossibile descriverli.
+A questo spasimo di [[Sanity|lucidità]] e chiarezza nella mente di [[Michael]] succedette uno spasimo
+del terrore elementare; il terrore dell'animale che è in noi, che considera
+l'intero universo come suo nemico; il quale, quando è vittorioso,
+non ha pietà, e così, quando è sconfitto, non ha [[Hope|speranza]] immaginabile.
+Di quei dieci minuti di terrore non è possibile parlare con parole umane.
+Ma poi di nuovo, in quella dannata oscurità, cominciò a spuntare una strana
+[[Dawn|alba]] come di grigio e pallido argento. E di questa ultima [[Resignation|rassegnazione]]
+o certezza è ancor meno possibile scrivere; è qualcosa di più strano
+dell'inferno stesso; è forse l'ultimo dei [[Secrets|segreti]] di Dio.
+Al culmine di una qualche insanabile angoscia cadrà d'improvviso
+sull'uomo la quiete di una contentezza folle.
+Non è [[Hope|speranza]], poiché la [[Hope|speranza]] è spezzata e romantica e rivolta
+al futuro; questa è completa e del presente.
+Non è [[Faith|fede]], poiché la [[Faith|fede]] per sua stessa [[Nature|natura]] è feroce, e per così
+dire a un tempo dubbiosa e sfidante; ma questa è semplicemente una soddisfazione.
+Non è conoscenza, poiché l'intelletto sembra non avervi parte alcuna
+in particolare. Né è (come gli idioti moderni direbbero certamente che è)
+un mero intorpidimento o una paralisi negativa delle facoltà del dolore.
+Non è affatto negativa; è positiva quanto una buona novella.
+In un certo senso, invero, è una buona novella. Sembra quasi che vi
+fosse una qualche eguaglianza tra le cose, un qualche equilibrio in tutte le possibili
+contingenze che non ci è concesso di conoscere, per timore che apprendiamo
+l'indifferenza al bene e al male, ma che talvolta ci viene mostrato
+per un istante come ultimo soccorso nella nostra ultima agonia.
+
+[[Michael]] certamente non avrebbe saputo dare alcuna sorta di resoconto razionale
+di questa vasta e insensata soddisfazione che lo pervadeva
+e lo colmava fino all'orlo. Sentiva con una sorta di scempia
+lucidità che la [[Cross|croce]] era là, e la palla era là,
+e la cupola era là, che stava per calare giù da esse,
+e che non gli importava minimamente se sarebbe stato ucciso o no.
+Questo misterioso stato d'animo durò abbastanza a lungo da avviarlo nella sua
+terribile discesa e da costringerlo a proseguirla. Ma sei volte
+prima che raggiungesse la più alta delle gallerie esterne il terrore era
+tornato su di lui come una [[Storm|tempesta]] volante di oscurità e tuono.
+Quando ebbe raggiunto quel luogo sicuro quasi sentiva
+(come in qualche impossibile accesso d'ebbrezza) di avere due teste;
+una era calma, noncurante ed efficiente; l'altra vedeva il pericolo come una
+mappa mortale, era saggia, prudente e inutile. Aveva immaginato che avrebbe
+dovuto calarsi verticalmente lungo la faccia dell'intero edificio.
+Quando si lasciò cadere nella galleria superiore sentiva ancora di essere tanto lontano dal
+globo terrestre come se fosse solo sceso dal sole alla [[Moon|luna]].
+Si fermò un poco, ansimando nella galleria sotto la palla,
+e sbatacchiò oziosamente i talloni, spostandosi di qualche iarda lungo di essa.
+E mentre lo faceva un fulmine colpì la sua [[Soul|anima]]. Un uomo, un uomo pesante,
+ordinario, dal volto composto e indifferente, e con una prosaica sorta
+di uniforme, con una fila di bottoni, gli sbarrava il passo. [[Michael]] non aveva
+alcuna voglia di [[Wonder|chiedersi]] se questo solido uomo attonito, con i baffi
+castani e i bottoni di nichel, fosse anch'egli giunto su una [[Ship|nave]] volante.
+Lasciò semplicemente che la sua mente fluttuasse in una felicità sconfinata riguardo all'uomo.
+Pensò a quanto sarebbe stato bello se avesse dovuto vivere lassù in quella galleria
+con quell'unico uomo per sempre. Pensò a come si sarebbe crogiolato
+nelle sfumature senza nome dell'[[Soul|anima]] di quest'uomo e poi udito con un
+interminabile eccitazione delle sfumature senza nome delle anime di tutte
+le sue zie e i suoi zii. Un attimo prima era stato morente e [[Alone|solo]].
+Ora viveva nel medesimo mondo con un uomo; un'estasi inesauribile.
+Nella galleria sotto la palla Padre [[Michael]] aveva trovato quell'uomo
+che è il più nobile e più divino e più amabile di tutti gli uomini,
+migliore di tutti i santi, più grande di tutti gli eroi--l'uomo Venerdì.
+
 
 
 <span class="atom-split" data-atom="story_01_a_discussion_somewhat_in_the_air--part_05" data-title="ball and cross — A Discussion Somewhat in the Air (part 5)" data-chapter="A Discussion Somewhat in the Air" data-kind="excerpt" data-tags="archetype/child,archetype/shadow,motif/cross,motif/death,motif/hill,motif/home,motif/love,motif/ship,motif/stars,motif/time,motif/window,concept/mercy,setting/cathedral,setting/ship,character/lucifer,character/michael"></span>
@@ -9494,6 +9920,132 @@ They took the tall young man away to a magistrate, whither we shall
 follow him in an ensuing chapter.  And they took the happiest man
 in the world away to an asylum.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Nel colore confuso e nella musica del suo nuovo paradiso,
+[[Michael]] udì solo in modo fioco e lontano alcune osservazioni
+che quest'uomo bello e massiccio pareva rivolgergli;
+osservazioni su qualcosa che era fuori orario e contro il regolamento.
+Sembrava inoltre chiedergli come [[Michael]] fosse "salito" lassù.  Quest'uomo
+bello sentiva evidentemente, proprio come [[Michael]], che la terra era una stella,
+incastonata nel cielo.
+
+Alla fine [[Michael]] si saziò della semplice musica sensuale della voce
+dell'uomo in bottoni.  Cominciò ad ascoltare ciò che diceva, e persino
+a tentare qualche risposta a una domanda che pareva essergli stata
+posta più volte e che ora veniva posta con un certo eccesso di enfasi.
+[[Michael]] comprese che l'immagine di Dio in bottoni di nichel gli stava chiedendo
+come fosse giunto lassù.  Disse di esservi giunto con la [[Ship|nave]] di [[Lucifer]].
+A questa risposta, il contegno dell'immagine di Dio
+subì un cambiamento notevole.  Da rivolgersi a [[Michael]] con tono burbero,
+come se fosse un malfattore, prese d'improvviso a parlargli
+con una sorta di premurosa e febbrile affabilità, come a un [[Child|bambino]].
+Pareva particolarmente ansioso di allontanarlo con le buone dalla balaustra.
+Lo condusse per il braccio verso una porta che dava nell'edificio stesso,
+rabbonendolo per tutto il [[Time|tempo]].  Fornì quello che perfino [[Michael]] (per
+quanto scarsa fosse la sua conoscenza del mondo) sentì essere un improbabile resoconto
+dei sontuosi piaceri e dei svariati vantaggi che lo attendevano di sotto.
+[[Michael]] lo seguì, tuttavia, non fosse che per cortesia,
+giù per una spirale di scale apparentemente interminabile.
+A un certo punto una porta si aprì.  [[Michael]] la varcò,
+e l'inspiegabile uomo in bottoni gli balzò dietro e lo tenne fermo
+là dove si trovava.  Ma egli desiderava solo restare fermo; restare e fissare.
+Era entrato, per così dire, in un'altra infinità, sotto la cupola
+di un altro cielo.  Ma questa era una cupola di cielo fatta dall'uomo.
+L'oro, il verde e il cremisi del suo tramonto non erano in nubi
+informi, ma in figure di cherubini e serafini, tremende figure umane
+dal piumaggio appassionato.  Le sue [[Stars|stelle]] non erano in alto ma assai in basso,
+come stelle cadute e ancora disposte in costellazioni intatte; la cupola stessa
+era piena di oscurità.  E laggiù in fondo, più in basso ancora delle luci,
+si scorgevano, striscianti o immobili, grandi masse nere di uomini.
+La lingua di un organo tremendo pareva scuotere l'aria stessa in
+tutto quel vuoto; e attraverso di essa saliva fino a [[Michael]] il suono
+di una lingua più tremenda ancora; la spaventosa voce eterna dell'uomo,
+che invoca i suoi dèi dal principio alla fine del mondo.
+[[Michael]] si sentì quasi un dio, e tutte quelle voci
+gli venivano scagliate contro.
+
+"No, le cose belle non sono qui," disse il semidio
+in bottoni, in tono carezzevole.  "Le cose belle sono di sotto.
+Venga con me.  C'è qualcosa che la sorprenderà
+di sotto; qualcosa che desidera moltissimo vedere."
+
+Evidentemente l'uomo in bottoni non si sentiva un dio, così [[Michael]]
+non tentò di spiegargli i propri sentimenti, ma lo seguì
+abbastanza docilmente giù per la traccia della scala serpentina.
+Non aveva idea di dove o a quale livello si trovasse.  Era ancora
+pieno del freddo splendore dello spazio, e di ciò che uno scrittore
+francese ha brillantemente chiamato la "vertigine dell'infinito,"
+quando un'altra porta si aprì, e con uno shock indescrivibile si ritrovò
+sul familiare livello di terra, in una strada gremita di volti,
+con le case e perfino i lampioni al di sopra del suo capo.
+Si sentì d'improvviso felice e d'improvviso indescrivibilmente piccolo.
+Gli parve di essere tornato un [[Child|bambino]]; i suoi occhi
+cercavano il selciato con serietà, come fanno quelli dei bambini, come se
+fosse una cosa con cui si potesse fare qualcosa di soddisfacente.
+Sentì tutto il tepore di quel piacere da cui i superbi si escludono;
+il piacere che non solo accompagna l'umiliazione,
+ma che quasi è umiliazione.  Lo provano gli uomini scampati alla [[Death|morte]] per un pelo,
+e gli uomini il cui [[Love|amore]] è ricambiato da una donna inaspettatamente,
+e gli uomini a cui i peccati sono perdonati.  Su ogni cosa su cui cadeva il suo occhio
+esso si saziava, non esteticamente, ma con un semplice, gioviale appetito,
+come di un ragazzo che mangia focacce.  Assaporava la squadratura delle case;
+gli piacevano i loro angoli netti, come se li avesse appena tagliati con un coltello.
+I riquadri illuminati delle vetrine lo eccitavano come i giovani
+si eccitano davanti al palco illuminato di qualche promettente pantomima.
+Gli capitò di vedere in una bottega, che sporgeva con bombata baldanza
+sul marciapiede, alcune scatolette quadrate di carne in conserva, e gli parve un accenno
+di cento ilari e sostanziose merende in cento strade del mondo.
+Egli era, forse, il più felice di tutti i figli degli uomini.
+Poiché in quell'istante insopportabile in cui era rimasto appeso, mezzo scivolando, alla palla
+di San Paolo, l'intero universo era stato distrutto e ricreato.
+
+D'improvviso, attraverso tutto il frastuono delle strade buie, giunse un fragore di vetri infranti.
+Con quella misteriosa subitaneità della folla londinese, ci fu uno slancio nella
+direzione giusta, verso un ufficio squallido, accanto alla bottega della carne in conserva.
+La lastra di vetro giaceva in schegge sul marciapiede.
+E la polizia aveva già le mani addosso a un giovanotto altissimo,
+dai capelli scuri e lisci e dagli occhi scuri e sbalorditi, con un plaid grigio
+sulle spalle, che aveva appena mandato in frantumi la [[Window|vetrina]] della bottega con un solo
+colpo del suo bastone.
+
+"Lo rifarei," disse il giovane, con un viso bianco e furioso.
+"Chiunque l'avrebbe fatto.  Avete visto cosa c'era scritto?
+Giuro che lo rifarei."  Poi i suoi occhi incontrarono l'abito
+monacale di [[Michael]], ed egli si tolse il suo tam o'shanter grigio con
+il gesto di un cattolico.
+
+"Padre, avete visto cosa dicevano?" gridò, tremando.
+"Avete visto cosa hanno osato dire?  Sulle prime non capivo.
+L'ho letto per metà prima di rompere la [[Window|vetrina]]."
+
+[[Michael]] sentì senza sapere come.  Tutta la pace del mondo era racchiusa
+dolorosamente nel suo cuore.  Il mondo nuovo e fanciullesco che egli aveva
+visto così d'improvviso, gli uomini non l'avevano visto affatto.  Eccoli ancora
+ai loro vecchi litigi sconcertanti, perdonabili, inutili, con tanto
+da dire da entrambe le parti, e così poco che valesse la pena di dire.
+Una fiera ispirazione lo colse d'improvviso; li avrebbe colpiti
+là dove si trovavano con l'[[Love|amore]] di Dio.  Non si sarebbero
+mossi finché non avessero visto la propria dolce e sconvolgente esistenza.
+Non se ne sarebbero andati da quel luogo finché non fossero tornati a [[Home|casa]] abbracciandosi
+come fratelli e gridando come uomini liberati.  Dalla [[Cross|croce]]
+da cui era caduto scendeva l'[[Shadow|ombra]] della sua fantastica [[Mercy|misericordia]];
+e le prime tre parole che pronunciò, con una voce come una tromba d'argento,
+tennero gli uomini immobili come pietre.  Forse, se avesse parlato lì per un'ora
+nella sua illuminazione, avrebbe potuto fondare una religione su Ludgate [[Hill]].
+Ma la pesante mano della sua guida gli cadde d'improvviso sulla spalla.
+
+"Questo pover'uomo è tocco," disse bonariamente alla folla.
+"L'ho trovato che vagava nella [[Cathedral|cattedrale]].  Dice di essere arrivato con una [[Ship|nave]] volante.
+C'è un agente disponibile per prendersi cura di lui?"
+
+C'era un agente disponibile.  Altri due agenti si occuparono
+del giovanotto alto in grigio; un quarto si prese cura
+del proprietario della bottega, che mostrava una certa tendenza a essere turbolento.
+Portarono il giovanotto alto davanti a un magistrato, dove lo
+seguiremo in un capitolo successivo.  E portarono l'uomo più felice
+del mondo via, in un manicomio.
 
 
 
@@ -9707,6 +10259,113 @@ seemed to the police quite as much gibberish as Evan's mysticism
 could have done.  The police were not used to hearing principles,
 even the principles of their own existence.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+La sua tradizione familiare era ugualmente selvaggia e ultraterrena.
+Il suo bisnonno era stato falciato a Culloden,
+certo nel suo ultimo istante che Dio avrebbe restaurato il [[King|Re]].
+Suo nonno, allora un ragazzo di dieci anni, aveva preso il terribile
+spadone dalla mano del morto e lo aveva appeso nella sua [[house|casa]],
+lucidandolo e affilandolo per sessant'anni, per essere pronto
+alla prossima ribellione. Suo padre, l'ultimogenito e l'ultimo
+rimasto in vita, aveva rifiutato di rendere omaggio alla [[Queen|Regina]] Vittoria in Scozia.
+Ed Evan stesso era stato di un solo pezzo con i suoi progenitori;
+e non era morto con loro, ma vivo nel ventesimo secolo.
+Non era affatto il patetico giacobita di cui leggiamo,
+lasciato indietro da un ultimo avanzare di tutte le cose. Era, nella sua fantasia,
+un cospiratore, feroce e al passo coi tempi. Nei lunghi, oscuri pomeriggi
+dell'[[Winter|inverno]] delle Highlands, tramava e fremeva nel buio.
+Tracciava piani per la conquista di [[London|Londra]] sulla sabbia desolata di Arisaig.
+
+Quando salì per conquistare [[London|Londra]], non fu con un esercito di
+coccarde bianche, ma con un bastone e una borsa. [[London|Londra]] lo intimidì un poco,
+non perché la ritenesse grandiosa o persino terribile, ma perché lo
+sconcertava; non era la Città d'Oro né l'inferno; era il Limbo.
+Ebbe un sussulto di sentimento, quando svoltò quel meraviglioso angolo
+di Fleet Street e vide San Paolo assiso nel cielo.
+
+«Ah,» disse, dopo una lunga pausa, «quel genere di cose fu costruito sotto
+gli Stuart!» Poi con un ghigno acido si chiese quale fosse il
+monumento corrispondente dei Brunswick e della Costituzione protestante.
+Dopo qualche esitazione, scelse un'insegna luminosa di certe pillole.
+
+Mezz'ora dopo le sue emozioni lo lasciarono con la mente svuotata
+nello stesso punto. E fu in uno stato d'animo di pura oziosa indagine
+che gli capitò di fermarsi di fronte alla redazione
+di _L'Ateo_. Non vide la parola «ateo», o se la vide,
+è del tutto possibile che non ne conoscesse il significato.
+Anche così com'era, il documento non avrebbe scandalizzato nemmeno
+l'[[Innocent|innocente]] montanaro, se non fosse stato per il fastidioso e del tutto imprevisto
+fatto che l'[[Innocent|innocente]] montanaro lo lesse imperturbabile fino alla fine;
+cosa ignota tra i più entusiasti abbonati del giornale,
+e comunque tale da creare una situazione nuova.
+
+Con un pronto istinto giornalistico caratteristico di tutta la sua scuola,
+il direttore de _L'Ateo_ aveva messo per primo nel suo giornale e nel modo
+più cospicuo nella sua [[Window|vetrina]] un articolo intitolato «La mitologia mesopotamica
+e i suoi effetti sul folclore siriaco». Il signor [[Evan MacIan]] cominciò a leggerlo
+del tutto oziosamente, come avrebbe letto un annuncio pubblico che comincia
+con una giovinetta morente a Brighton e finisce con le Pillole di Bile.
+Ricevette la considerevole quantità di informazioni accumulate
+dall'autore con quella stanca lucidità della mente che
+i bambini hanno nei greve pomeriggi d'[[Summer|estate]]—quella stanca lucidità
+che li induce a continuare a fare domande molto dopo aver
+perso interesse per l'argomento e a essere annoiati quanto la loro [[Nurse|bambinaia]].
+Le strade erano piene di gente e vuote di avventure.
+Tanto valeva che conoscesse gli dèi della Mesopotamia quanto no;
+così appiattì il suo lungo, magro volto contro il fioco squallido vetro della
+[[Window|vetrina]] e lesse tutto quello che c'era da leggere sugli dèi mesopotamici. Lesse
+come i Mesopotami avessero un dio chiamato Sho (talvolta pronunciato Ji),
+e che veniva descritto come molto potente, sorprendente somiglianza
+con certe espressioni riguardo a Jahvè, il quale è pure descritto come dotato di potenza.
+Evan non aveva mai sentito parlare di Jahvè in vita sua, e immaginandolo
+qualche altro idolo mesopotamico, proseguì la lettura con una spenta curiosità.
+Apprese che il nome Sho, sotto la sua terza forma di Psa, ricorre in
+una leggenda antica che descrive come la divinità, alla maniera
+di Giove in tante occasioni, sedusse una Vergine e generò un [[Hero|eroe]].
+Questo [[Hero|eroe]], il cui nome non è essenziale alla nostra esistenza, era, si diceva,
+il principale [[Hero|eroe]] e Salvatore dello schema etico mesopotamico.
+Seguiva poi un paragrafo che dava altri esempi di simili eroi
+e Salvatori nati da qualche congiunzione dissoluta tra Dio
+e un mortale. Seguiva poi un paragrafo—ma Evan non lo capì.
+Lo rilesse e poi ancora. Poi lo capì.
+Il vetro cadde in frammenti tintinnanti sul selciato, ed Evan
+saltò oltre la barriera dentro il negozio, brandendo il bastone.
+
+«Che roba è questa?» gridò il piccolo signor Turnbull, balzando su con i capelli in fiamme.
+«Come osate rompere la mia [[Window|vetrina]]?»
+
+«Perché era la via più rapida per arrivare a voi,» gridò Evan, pestando i piedi.
+«Alzatevi e battetevi, vigliacco da crapula. Sudicio lunatico,
+alzatevi, volete? Avete armi qui?»
+
+«Siete pazzo?» chiese Turnbull, fulminandolo con lo sguardo.
+
+«E voi?» gridò Evan. «Potete essere altro quando tappezzate la
+vostra stessa [[house|casa]] con quella sozzura che sfida Dio? Alzatevi e battetevi, dico.»
+
+Una grande luce come l'[[Dawn|alba]] apparve sul volto del signor Turnbull.
+Dietro i capelli e la barba rossi impallidì mortalmente di piacere.
+Ecco, dopo venti solitari anni di inutile fatica, la sua ricompensa.
+Qualcuno era in collera col giornale. Balzò in piedi come un ragazzo;
+vide una nuova giovinezza aprirsi davanti a sé. E come non di rado
+accade ai gentiluomini di mezza età quando vedono una nuova giovinezza aprirsi
+davanti a loro, si trovò al cospetto della polizia.
+
+I poliziotti, dopo qualche ponderoso interrogatorio, acciuffarono entrambi
+i due entusiasti. Furono però più rispettosi verso il giovane
+che aveva mandato in frantumi la [[Window|vetrina]], che verso il malandrino a cui la
+[[Window|vetrina]] era stata infranta. C'era un'aria di raffinato mistero attorno a
+[[Evan MacIan]], che non esisteva nell'irascibile piccolo bottegaio,
+un'aria di raffinato mistero che faceva presa sui poliziotti, poiché i poliziotti,
+come la maggior parte degli altri tipi inglesi, sono al contempo snob e poeti.
+MacIan poteva forse essere un gentiluomo, sentivano; il direttore manifestamente
+non lo era. E i raffinati appelli razionali e repubblicani del direttore al suo
+rispetto per la legge, e la sua ardente voglia di essere giudicato dai suoi
+concittadini, parevano alla polizia altrettanto farfugliamento quanto avrebbe potuto
+parere il misticismo di Evan. La polizia non era avvezza a udire principi,
+neppure i principi della propria esistenza.
 
 
 
@@ -11281,6 +11940,116 @@ out like two householders coming out into their doorways.
 
 "Yes," he said, with a sort of stupidity.  "It's a very big place."
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Il mattino seguente, cinque o sei dei grandi quotidiani di
+[[London|Londra]] esplosero simultaneamente in grandi fioriture di
+eloquenti articoli di fondo. Verso la fine tutti gli editoriali
+tendevano a somigliarsi, ma cominciavano tutti in modo diverso.
+Il _Daily Telegraph_, per esempio, esordiva: "Vi sarà ben poca
+divergenza tra i nostri lettori, o tra tutti gli uomini
+veramente inglesi e rispettosi della legge, riguardo alla ecc., ecc."
+Il _Daily Mail_ diceva: "La gente deve imparare, nel mondo moderno,
+a tenersi per sé le proprie divergenze teologiche.
+La rissa, ecc., ecc." Il _Daily News_ attaccava: "Nulla potrebbe
+essere più nocivo alla causa della vera religione che, ecc., ecc."
+Il _Times_ cominciava con qualcosa sui turbamenti celtici
+dell'equilibrio dell'Impero, e il _Daily Express_ si distinse
+splendidamente omettendo del tutto una faccenda così controversa
+e sostituendovi un editoriale sulle galosce.
+
+E il mattino dopo ancora, i direttori e i giornali erano
+in tale stato che, come si suol dire, non c'era modo di trattenerli.
+Qualunque cosa segreta e ariosa sia quella che aleggia sui direttori
+e d'improvviso ne stravolge il cervello, quella cosa si era
+impadronita della storia del vetro rotto e del duello nel
+[[Garden|giardino]]. Divenne mostruosa e onnipresente, come lo sono
+al nostro [[Time|tempo]] le irrilevanti gesta della setta degli
+Agapemoniti, o come lo furono in un [[Time|tempo]] precedente
+le squallide disonestà dei finanzieri rhodesiani.
+Se ne fecero domande, e persino se ne diedero risposte, alla [[house|Camera]]
+dei Comuni. Il [[government|Governo]] fu solennemente denunciato sui giornali
+per non aver fatto qualcosa, nessuno sapeva cosa, onde impedire
+che la [[Window|finestra]] venisse rotta. Fu avviata un'enorme
+sottoscrizione per risarcire il signor Gordon, l'uomo che era stato
+imbavagliato nella bottega. Il signor MacIan, uno dei contendenti,
+divenne per qualche misteriosa ragione, singolarmente e immensamente
+popolare come figura comica sui giornali umoristici e sul palco
+del music hall. Veniva sempre raffigurato (a dispetto dei fatti)
+con basette rosse, e un naso rosso rosso, e in pieno costume delle
+Highland. E una [[Song|canzone]], composta d'un numero inimmaginabile
+di strofe, in cui il suo nome faceva rima con ferro da stiro, il
+[[Lion|Leone]] britannico, dritto furbacchione, dente di leone, Spion
+(con Kop nel verso seguente), veniva cantata a teatri gremiti ogni
+[[Night|notte]]. I giornali svilupparono una sete divorante per la
+cattura dei fuggiaschi; e quando questi non furono presi entro
+quarantotto ore, mutarono d'improvviso l'intera faccenda in un mistero
+[[Detective|poliziesco]]. Lettere sotto il titolo "Dove Sono?" affluirono
+a ogni giornale, con ogni concepibile sorta di spiegazione, che li
+stanavano nel Monumento, nel Twopenny Tube, nella Foresta di Epping,
+nell'Abbazia di Westminster, arrotolati nei tappeti da Shoolbreds,
+chiusi a chiave nelle casseforti di Chancery Lane. Sì, i giornali
+erano assai interessanti, e il signor Turnbull ne srotolò un intero
+fascio per il divertimento del signor MacIan mentre sedevano su
+un'alta brughiera a nord di [[London|Londra]], nel sopraggiungere
+della bianca [[Dawn|alba]].
+
+Le tenebre a oriente si erano spezzate con una barra di grigio;
+la barra di grigio si scisse con una [[Sword|spada]] d'argento e il
+mattino si sollevò faticosamente sopra [[London|Londra]]. Dal punto
+in cui Turnbull e MacIan sedevano su uno di quei brulli pendii dietro
+Hampstead, potevano vedere l'intera [[London|Londra]] prender forma
+vagamente e ampiamente nella luce grigia e crescente, finché il sole
+bianco non le stette sopra ed essa giacque ai loro piedi, la splendida
+mostruosità ch'essa è. I suoi sconcertanti riquadri e parallelogrammi
+erano compatti e perfetti come un rompicapo cinese; un enorme
+geroglifico che l'uomo deve decifrare o morire. Cadde su entrambi,
+ma su Turnbull più che sull'altro, perché egli sapeva meglio cosa
+la scena significasse, quel senso del tutto indescrivibile come d'una
+[[Sublime|sublime]] e appassionata e commovente futilità, che non è
+mai evocato dai deserti o dai morti o dagli uomini trascurati e barbari,
+e che può essere invocato soltanto dalla vista dell'enorme genio
+dell'uomo applicato a qualcosa d'altro che non sia il meglio.
+Turnbull, il vecchio democratico idealista, aveva così spesso
+vituperato la [[democracy|democrazia]] e l'aveva vituperata a ragione
+per la sua indolenza, il suo snobismo, la sua malvagia venerazione
+per le cose oziose. Aveva ragione a sufficienza; poiché la nostra
+[[democracy|democrazia]] ha un solo grande difetto: non è democratica.
+E dopo aver denunciato così giustamente l'uomo comune e moderno per
+tanti anni come sofista e come schiavo, egli guardò in basso da un
+vuoto declivio di Hampstead e vide quali dèi essi siano. La loro
+impresa gli parve tanto più eroica e divina, in quanto pareva dubbio
+che valesse la pena di compierla. Pareva esservi qualcosa di più grande
+della mera esattezza nel commettere un errore come [[London|Londra]].
+E quale doveva esserne la fine di tutto ciò? quale doveva essere
+l'ultima trasformazione di questo comune e incredibile uomo di
+[[London|Londra]], questo operaio su un tram a Battersea, questo suo
+impiegato su un omnibus a Cheapside? Turnbull, mentre fissava
+tetramente, mormorò tra sé le parole del vecchio Swinburne ateo
+e rivoluzionario che aveva inebriato la sua gioventù:
+
+"E ancora chiediamo se Dio o l'uomo
+possa scioglierti, Lazzaro;
+comandarti di levarti repubblicano,
+e salvare te stesso e tutti noi.
+Ma nessuna lingua di discepolo può dire
+se tu possa togliere via i nostri peccati."
+
+Turnbull rabbrividì lievemente come se dietro il mattino terreno
+sentisse la sera del mondo, il tramonto di tante speranze.
+Quelle parole erano tratte da "[[songs|Canti]] prima dell'aurora".
+Ma i [[songs|canti]] di Turnbull, al loro meglio, erano [[songs|canti]]
+dopo l'aurora, e l'aurora non era poi stata gran cosa dopotutto.
+Turnbull rabbrividì di nuovo nell'aria pungente del mattino.
+Anche MacIan guardava fisso col volto rivolto verso la [[City|città]],
+ma vi era in quel suo sguardo cieco e mistico qualcosa che diceva,
+per così dire, che i suoi occhi erano rivolti all'interno.
+Quando Turnbull gli disse qualcosa a proposito di [[London|Londra]],
+essi parvero muoversi come a un richiamo e uscir fuori come due
+padroni di casa che si affacciano sulle loro soglie.
+
+"Sì," disse, con una specie di ottusità. "È un posto molto grande."
 
 
 

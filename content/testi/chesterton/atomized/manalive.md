@@ -14017,6 +14017,119 @@ Yet a glance round the room, revealing ranks of debased
 and envious faces--"
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+"Chiedo scusa," disse Michael; "non l'ho domandato poco fa perché,
+a dire il vero, credevo davvero che il dottor Pym, per quanto in apparenza verticale,
+stesse godendo di un meritato sonnellino, con tra le dita un pizzico
+di polvere inodore e delicata. Ma ora che le cose si muovono
+un poco di più, c'è qualcosa che desidererei proprio sapere.
+Sono stato appeso alle labbra del dottor Pym, s'intende, con un interesse che
+sarebbe fiacco chiamare rapimento, ma finora mi è stato impossibile formulare
+una qualsiasi congettura su ciò che l'accusato, nella fattispecie,
+si suppone abbia pensato bene di andare a fare."
+
+"Se il signor Moon avrà pazienza," disse Pym con dignità, "scoprirà
+che questo era esattamente il punto verso cui era di-retta la mia esposizione.
+La cleptomania, dico, si manifesta come una sorta di attrazione fisica
+verso certe materie ben definite; e si è sostenuto (da un uomo non meno
+autorevole di Harris) che questa è la spiegazione ultima del rigoroso
+specialismo e della vurry angusta prospettiva professionale della maggior parte dei criminali.
+L'uno proverà un impulso fisico irresistibile verso i gemelli
+da polsino di perla, mentre trascurerà i più eleganti e celebri
+gemelli di diamante, disposti nei luoghi più cospicui.
+Un altro impaccerà la propria fuga con non meno di quarantasette stivali abbottonati,
+mentre gli stivali con i fianchi elastici lo lasciano freddo, e persino sarcastico.
+Lo specialismo del criminale, lo ripeto, è un segno di follia
+più che di una qualche vivacità nelle abitudini d'affari; ma vi è una specie
+di predone a cui questo principio, a prima vista, mal si applica.
+Alludo al nostro concittadino lo svaligiatore di case.
+
+"È stato sostenuto da alcuni dei nostri più arditi giovani
+cercatori di verità che l'occhio di uno scassinatore, di là dal muro
+del giardino sul retro, difficilmente potrebbe essere catturato e ipnotizzato da una forchetta
+isolata in una cassetta chiusa a chiave sotto il letto del maggiordomo.
+Hanno gettato il guanto di sfida alla scienza americana su questo punto.
+Dichiarano che i gemelli di diamante non vengono lasciati in giro in luoghi cospicui
+nei covi delle classi inferiori, come lo furono
+nel grande esperimento di verifica del Calypso College. Speriamo che questo
+esperimento qui costituisca una risposta a quella giovane e squillante sfida,
+e riporti lo scassinatore ancora una volta in fila e in unione
+con i suoi compagni criminali."
+
+Moon, il cui volto era passato attraverso ogni fase di un cupo smarrimento
+negli ultimi cinque minuti, alzò a un tratto la mano e batté sul tavolo
+in un'esplosiva illuminazione.
+
+"Oh, capisco!" esclamò; "volete dire che Smith è uno scassinatore."
+
+"Credevo di averlo reso abbastanza ad'guatamente lucido," disse il signor Pym,
+ripiegando le palpebre. Era tipico di questo capovolto processo
+privato che tutti gli eloquenti extra, tutta la retorica o le digressioni
+dell'una e dell'altra parte, riuscissero esasperanti e incomprensibili all'altro.
+Moon non riusciva a raccapezzarsi nella solennità di una nuova civiltà.
+Pym non riusciva a raccapezzarsi nella gaiezza di una vecchia.
+
+"Tutti i casi in cui Smith ha figurato come espropriatore,"
+proseguì il dottore americano, "sono casi di scasso.
+Seguendo lo stesso corso del caso precedente, scegliamo
+l'istanza indubitabile fra le altre, e prendiamo la prova
+più corretta e di ferro battuto. Chiamerò ora il mio collega,
+il signor Gould, a leggere una lettera che abbiamo ricevuto dal fervente
+e immacolato Canonico di Durham, il canonico Hawkins."
+
+Il signor Moses Gould balzò in piedi con la sua consueta alacrità per leggere la lettera del
+fervente e immacolato Hawkins. Moses Gould sapeva imitare bene un'aia,
+Sir Henry Irving non altrettanto bene, Marie Lloyd fino a un punto d'eccellenza, e i
+nuovi clacson delle automobili in un modo che lo poneva sul podio dei grandi artisti.
+Ma la sua imitazione di un Canonico di Durham non era convincente; anzi, il senso
+della lettera fu talmente oscurato dagli straordinari salti e ansimi della sua
+pronuncia che è forse meglio stamparla qui come la lesse Moon quando,
+poco più tardi, gli fu passata attraverso il tavolo.
+
+"Egregio signore,--stento a provare sorpresa che l'incidente
+da lei menzionato, per quanto privato, sia filtrato attraverso
+i nostri onnivori giornali fino al mero volgo; poiché la posizione
+che ho da allora conseguito mi rende, ritengo, un personaggio pubblico,
+e questo fu di certo l'incidente più straordinario
+in una carriera non priva di eventi e forse non priva d'importanza.
+Non sono affatto sprovvisto di esperienza in scene di tumulto civile.
+Ho affrontato più d'una crisi politica nei vecchi giorni della Primrose League
+a Herne Bay, e, prima di rompere con la cerchia più sfrenata,
+ho trascorso più d'una notte alla Christian Social Union. Ma quest'
+altra esperienza fu del tutto inconcepibile. Posso solo descriverla
+come lo scatenarsi di un luogo che non spetta a me,
+in quanto ecclesiastico, nominare.
+
+"Accadde nei giorni in cui ero, per un breve periodo,
+curato a Hoxton; e l'altro curato, allora mio collega,
+mi indusse a presenziare a una riunione che egli descrisse, devo dire
+profanamente descrisse, come atta a promuovere il regno
+di Dio. Trovai, al contrario, che essa era composta interamente
+di uomini in velluto a coste e vestiti unti, i cui modi erano rozzi
+e le cui opinioni estreme.
+
+"Del collega in questione desidero parlare con il più pieno
+rispetto e cordialità, e perciò dirò poco.
+Nessuno può essere più convinto di me del male della politica
+sul pulpito; e non offro mai alla mia congregazione alcun consiglio
+sul voto salvo nei casi in cui senta fortemente che sono
+propensi a compiere una scelta erronea. Ma, pur non intendendo
+toccare affatto i problemi politici o sociali,
+devo dire che, per un ecclesiastico, avallare, anche per scherzo,
+tali screditati toccasana di dissipati demagoghi quali il Socialismo
+o il Radicalismo partecipa del carattere del tradimento
+di un sacro incarico. Lungi da me dire una parola contro
+il reverendo Raymond Percy, il collega in questione.
+Era brillante, suppongo, e per alcuni apparentemente affascinante;
+ma un ecclesiastico che parla come un Socialista, porta i capelli
+come un pianista, e si comporta come una persona ubriaca,
+non salirà mai nella sua professione, né otterrà mai l'ammirazione
+dei buoni e dei saggi. Né spetta a me pronunciare i miei personali
+giudizi sull'aspetto della gente nella sala.
+Eppure un'occhiata attorno alla stanza, che rivelava file di volti
+avviliti e invidiosi--"
+
 
 
 <span class="atom-split" data-atom="chapter_08--part_03" data-title="Manalive — Chapter 2 (part 3)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="motif/cross,motif/grave,motif/well,concept/vanity"></span>
@@ -14133,6 +14246,124 @@ walking along the top of a garden wall like a tom cat.
 and let loose my just reprobation, balancing myself as best I
 could all the time.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+«Adottando», disse Moon con foga, poiché cominciava a spazientirsi,
+«adottando la figura logica prediletta dal reverendo signore, mi sia
+concesso di dire che, mentre nemmeno le torture mi strapperebbero
+una sillaba sul suo intelletto, egli è un vecchio somaro rimbecillito.»
+
+«Davvero!» esclamò il dottor Pym; «io protesto.»
+
+«Devi startene quieto, Michael», disse Inglewood; «hanno il diritto
+di leggere la loro storia.»
+
+«Ordine!  Ordine!  Ordine!» gridò Gould, dimenandosi con esuberanza
+sulla propria sedia; e Pym volse per un istante lo sguardo verso il
+baldacchino che copriva tutta l'autorità della Corte del Faro.
+
+«Oh, non svegliate la vecchia signora», disse Moon, abbassando la voce
+con un cupo buonumore.  «Chiedo scusa.  Non interromperò più.»
+
+Prima che il piccolo mulinello dell'interruzione si fosse placato,
+la lettura della lettera del reverendo era già ripresa.
+
+«L'assemblea si aprì con un discorso del mio collega, del quale non
+dirò nulla.  Fu deplorevole.  Molti fra il pubblico erano Irlandesi,
+e mostravano la debolezza di quel popolo impetuoso.  Radunati in bande
+e cospirazioni, sembrano perdere del tutto quell'amabile bonarietà
+e quella prontezza ad accettare qualunque cosa venga loro detta
+che li contraddistingue come singoli individui.»
+
+Con un leggero sussulto, Michael si levò in piedi, s'inchinò
+solennemente, e tornò a sedersi.
+
+«Costoro, se non silenziosi, furono almeno plaudenti durante il discorso
+del signor Percy.  Egli discese al loro livello con arguzie sull'affitto
+e su una riserva di manodopera.  Confisca, espropriazione, arbitrato,
+e simili parole con cui non intendo lordarmi le labbra, ricorrevano di
+continuo.  Alcune ore più tardi scoppiò la tempesta.  Stavo parlando
+all'assemblea già da qualche tempo, additando la mancanza di parsimonia
+nelle classi lavoratrici, la loro insufficiente frequenza alle funzioni
+serali, la loro negligenza verso la Festa del Raccolto, e molte altre
+cose che avrebbero potuto materialmente aiutarle a migliorare la propria
+sorte.  Fu, credo, all'incirca in quel momento che si verificò una
+straordinaria interruzione.  Un uomo enorme e possente, in parte coperto
+di calce bianca, si alzò in mezzo alla sala, e offrì (con voce alta e
+ruggente, come quella d'un toro) alcune osservazioni che parvero essere
+in una lingua straniera.  Il signor Raymond Percy, mio collega, discese
+al suo livello impegnandosi in un duello di frizzi, dal quale parve
+uscire vincitore.  L'assemblea prese a comportarsi con maggior rispetto
+per un poco; eppure, prima che avessi pronunciato altre dodici frasi,
+si fece ressa verso il palco.  L'enorme imbianchino, in particolare,
+si scagliò verso di noi, scuotendo la terra come un elefante; e non so
+davvero che cosa sarebbe accaduto se un uomo altrettanto grande, ma non
+altrettanto malvestito, non fosse balzato in piedi anch'egli tenendolo
+lontano.  Quest'altro omone lanciò una sorta di discorso alla folla
+mentre la respingeva.  Non so che cosa dicesse, ma, tra il gridare
+e lo spingere e simili strapazzi, ci fece uscire da una porta sul retro,
+mentre la sciagurata gente andava ruggendo giù per un altro corridoio.
+
+«Segue poi la parte davvero straordinaria della mia storia.  Quando ci
+ebbe condotti fuori, in un misero cortile di erba riarsa che dava in un
+vicolo con un lampione dall'aria assai solitaria, questo gigante mi si
+rivolse in questi termini: ‘L'avete scampata [[Well|bella]], signore;
+ora fareste meglio a venire con me.  Voglio che mi aiutiate in un atto
+di giustizia sociale, di quelli di cui tutti andiamo parlando.  Venite!'
+E voltando bruscamente le sue larghe spalle, ci guidò giù per lo smilzo
+e vecchio vicolo col suo unico smilzo e vecchio lampione, senza che noi
+sapessimo far altro che seguirlo.  Certo egli ci aveva aiutati in una
+situazione oltremodo difficile, e, da gentiluomo, non potevo trattare
+con sospetto un tale benefattore senza [[Grave|gravi]] motivi.  Tale era
+del resto anche l'opinione del mio collega socialista, il quale (con
+tutto il suo terribile parlare di arbitrato) è pur esso un gentiluomo.
+In verità, egli discende dai Percy dello Staffordshire, un ramo
+dell'antica [[house|casata]], e ha i capelli neri e il volto pallido
+e dai tratti netti di tutta la famiglia.  Non posso non attribuire alla
+[[Vanity|vanità]] che egli accresca i suoi vantaggi personali con velluto
+nero o con una [[Cross|croce]] rossa di considerevole ostentazione,
+e certamente... ma divago.
+
+«Una nebbia risaliva la via, e quell'ultimo lampione smarrito svaniva
+alle nostre spalle in un modo che di certo deprimeva l'animo.  L'omone
+davanti a noi appariva sempre più grande nella foschia.  Non si voltò,
+ma disse volgendoci l'immenso dorso: ‘Tutto questo parlare non serve
+a nulla; ci vuole un po' di socialismo pratico.'
+
+«‘Sono pienamente d'accordo', disse Percy; ‘ma mi piace sempre
+comprendere le cose in teoria prima di metterle in pratica.'
+
+«‘Oh, lasciate pur fare a me', disse il socialista pratico, o qualunque
+cosa fosse, con la più terrificante vaghezza.  ‘Io ho un mio metodo.
+Sono un Permeatore.'
+
+«Non riuscivo a immaginare che cosa intendesse, ma il mio compagno rise,
+sicché mi sentii abbastanza rassicurato da proseguire per il momento
+quell'inspiegabile viaggio.  Esso ci condusse per vie oltremodo singolari;
+fuori dal vicolo, dove già eravamo piuttosto pigiati, in un passaggio
+lastricato, in fondo al quale attraversammo un cancello di legno lasciato
+aperto.  Ci trovammo allora, nell'oscurità e nel vapore crescenti,
+ad attraversare quello che pareva un sentiero battuto in mezzo a un orto.
+Chiamai l'enorme individuo che procedeva davanti, ma egli rispose
+oscuramente che era una scorciatoia.
+
+«Stavo appunto ripetendo il mio dubbio, quanto mai naturale, al mio
+compagno ecclesiastico, allorché venni arrestato da una corta scala,
+che pareva condurre a un livello più alto della strada.  Il mio
+sconsiderato collega vi salì così in fretta che non potei far altro
+che seguirlo alla meglio.  Il sentiero su cui allora posai i piedi era
+di una strettezza affatto inaudita.  Non avevo mai dovuto camminare
+lungo un passaggio tanto angusto.  Lungo un suo lato cresceva ciò che,
+nel buio e nella densità dell'aria, presi dapprima per qualche basso
+e fitto boschetto d'arbusti.  Poi vidi che non erano bassi arbusti;
+erano le cime di alti alberi.  Io, un gentiluomo inglese e sacerdote
+della Chiesa d'Inghilterra... io camminavo lungo la sommità del muro
+di un giardino come un gatto randagio.
+
+«Sono lieto di dire che mi fermai entro i miei primi cinque passi,
+e diedi sfogo alla mia giusta riprovazione, mantenendomi in equilibrio
+come meglio potevo per tutto quel tempo.
 
 
 
@@ -14274,6 +14505,142 @@ to the court.  I begin Mr. Percy's letter, then, at the point
 when all three men were standing on the garden wall:--
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+"‘È un diritto di passaggio,' dichiarò il mio indifendibile informatore.
+‘Viene chiuso al transito una volta ogni cent'anni.'
+
+"‘Signor Percy, signor Percy!' gridai; ‘non vorrà mica proseguire
+con questo furfante?'
+
+"‘Ma sì, credo di sì,' rispose con leggerezza il mio infelice collega.
+‘Credo che io e lei siamo furfanti ben più grandi di lui,
+qualunque cosa egli sia.'
+
+"‘Sono un ladro,' spiegò con perfetta calma quella grossa creatura.
+‘Sono un membro della Fabian Society.  Riprendo la ricchezza rubata
+dal capitalista, non con una guerra civile o una rivoluzione dilagante, ma con riforme
+adatte all'occasione particolare--qui un poco e là un poco.
+Vede quella quinta casa lungo la fila, quella dal tetto piatto?
+Stanotte la sto permeando.'
+
+"‘Che si tratti di un delitto o di uno scherzo,' esclamai, ‘desidero esserne fuori.'
+
+"‘La scala è proprio dietro di lei,' rispose la creatura
+con orribile cortesia; ‘e, prima che se ne vada, mi permetta di darle
+il mio biglietto.'
+
+"Se avessi avuto la presenza di spirito di mostrare un contegno dignitoso, l'avrei
+scagliato via, benché qualunque gesto adeguato di quel genere
+avrebbe gravemente compromesso il mio equilibrio sul muro.
+Così com'era, nella follia del momento, me lo cacciai nel
+taschino del panciotto, e, aprendomi la via del ritorno per muro e scala,
+sbarcai di nuovo nelle strade rispettabili.  Non prima, tuttavia,
+di aver visto con i miei occhi i due fatti terribili e deplorevoli--
+che il ladro stava arrampicandosi su per un tetto spiovente verso
+i comignoli, e che Raymond Percy (un sacerdote di Dio e,
+cosa ancor peggiore, un gentiluomo) gli si trascinava dietro carponi.
+Non ho più rivisto né l'uno né l'altro da quel giorno.
+
+"In conseguenza di questa esperienza che mi scavò nell'anima, ruppi i miei
+rapporti con quella cerchia scapestrata.  Sono ben lungi dal dire che ogni
+membro della Christian Social Union debba per forza essere un ladro.
+Non ho alcun diritto di muovere una simile accusa.  Ma quel fatto mi diede un indizio
+di dove tali strade possano condurre in molti casi; e non li vidi mai più.
+
+"Non mi resta che aggiungere che la fotografia da voi allegata, scattata da un
+certo signor Inglewood, è senza alcun dubbio quella del ladro in questione.
+Quando quella notte tornai a casa guardai il suo biglietto, ed egli vi era iscritto
+sotto il nome di Innocent Smith.--Vostro devotissimo,
+John Clement Hawkins."
+
+Moon si limitò a compiere la formalità di gettare un'occhiata al foglio.  Sapeva che
+gli accusatori non avrebbero potuto inventare un documento così solenne; che Moses Gould
+(tanto per dirne uno) non sapeva scrivere come un canonico più di quanto sapesse leggere come tale.
+Dopo averlo restituito si alzò per aprire la difesa sull'accusa di furto con scasso.
+
+"Desideriamo," disse Michael, "concedere ogni ragionevole agevolazione
+all'accusa; tanto più che ciò farà risparmiare tempo all'intera corte.
+Quest'ultimo scopo lo perseguirò ancora una volta sorvolando su tutti
+quei punti di teoria tanto cari al dottor Pym.  So bene come vengono
+costruiti.  Lo spergiuro è una varietà di afasia, che induce un uomo a dire
+una cosa al posto di un'altra.  Il falso è una specie di crampo dello scrivano,
+che costringe un uomo a scrivere il nome di suo zio invece del proprio.
+La pirateria in alto mare è probabilmente una forma di mal di mare.  Ma è
+inutile per noi indagare le cause di un fatto che neghiamo.
+Innocent Smith non ha mai commesso alcun furto con scasso.
+
+"Vorrei avvalermi della facoltà consentita dal nostro precedente accordo,
+e porre all'accusa due o tre domande."
+
+Il dottor Cyrus Pym chiuse gli occhi per indicare un cortese assenso.
+
+"In primo luogo," proseguì Moon, "avete la data dell'ultimo momento in cui il canonico Hawkins
+scorse Smith e Percy arrampicarsi su per i muri e i tetti?"
+
+"Eh, sì!" gridò prontamente Gould.  "Tredici novembre, milleottocentonovantuno."
+
+"Avete," continuò Moon, "identificato le case di Hoxton su
+cui si arrampicarono?"
+
+"Dev'essere stato Ladysmith Terrace, appena fuori dalla strada maestra,"
+rispose Gould con la stessa prontezza da orologeria.
+
+"Bene," disse Michael, inarcando un sopracciglio verso di lui, "ci fu qualche furto con scasso
+in quella fila di case, quella notte?  Certo che potreste scoprirlo."
+
+"Può ben darsi che ci sia stato," disse il dottore compassato, dopo una pausa,
+"uno tentato senza successo, che non condusse ad alcuna conseguenza legale."
+
+"Un'altra domanda," proseguì Michael.  "Il canonico Hawkins, nella
+sua fanciullesca maniera da romanzo d'avventura, s'è interrotto sul più bello.
+Perché non producete la testimonianza dell'altro ecclesiastico,
+che di fatto seguì il ladro e presumibilmente fu presente
+al delitto?"
+
+Il dottor Pym si alzò e piantò le punte delle dita sul tavolo,
+come faceva quando era particolarmente sicuro della limpidezza
+della propria risposta.
+
+"Abbiamo completamente fallito," disse, "nel rintracciare l'altro ecclesiastico,
+che sembra essersi dileguato nell'etere dopo che il canonico Hawkins l'ebbe
+visto sa-lire su per le grondaie e le lamiere di piombo.  Sono pienamente consapevole
+che ciò possa colpire molti come singo-lare; eppure, a ben riflettere,
+credo apparirà piuttosto naturale a un pensatore acuto.
+Questo signor Raymond Percy è, come lo stesso canonico attesta,
+un ministro dai modi eccentrici.  Il suo lega-me con la più fiera
+e nobile schiatta d'Inghilterra non pare impedirgli il gusto per la compagnia
+della vera feccia.  D'altra parte, il prigioniero Smith è,
+per generale consenso, un uomo dal fascino irre-sistibile.
+Non nutro alcun dubbio che Smith abbia trascinato il reverendo Percy nel delitto
+e l'abbia costretto a nascondere il capo nella vera classe crimi-nale.
+Ciò spiegherebbe pienamente la sua mancata comparsa, e il fallimento
+di ogni tentativo di rintracciarlo."
+
+"È impossibile, dunque, rintracciarlo?" chiese Moon.
+
+"Impossibile," ripeté lo specialista, chiudendo gli occhi.
+
+"Siete sicuro che sia impossibile?"
+
+"Oh, piàntala, Michael," gridò Gould, spazientito.  "L'avremmo trovato
+se avessimo potuto, perché ci puoi scommettere che ha visto il furto.  Non metterti TU
+a cercarlo.  Cerca piuttosto la tua stessa testa nella pattumiera.
+Quella la troverai--dopo un po'," e la sua voce si spense in un borbottio.
+
+"Arthur," ordinò Michael Moon, sedendosi, "abbi la cortesia di leggere
+alla corte la lettera del signor Raymond Percy."
+
+"Desiderando, come ha detto il signor Moon, abbreviare il più
+possibile il procedimento," cominciò Inglewood, "non leggerò la prima parte
+della lettera che ci è stata inviata.  È solo giusto verso l'accusa
+ammettere che il resoconto fornito dal secondo ecclesiastico ratifica pienamente,
+per quanto concerne i fatti, quello fornito dal primo ecclesiastico.
+Concediamo, dunque, la versione del canonico per quel che vale.
+Ciò dev'essere necessariamente prezioso per l'accusatore e insieme comodo
+per la corte.  Comincio dunque la lettera del signor Percy dal punto
+in cui tutti e tre gli uomini si trovavano in piedi sul muro del giardino:--
+
 
 
 <span class="atom-split" data-atom="chapter_08--part_05" data-title="Manalive — Chapter 2 (part 5)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="motif/blood,motif/rose,character/michael,character/witch"></span>
@@ -14386,6 +14753,114 @@ and by [[Michael]] with a red pencil.  Inglewood then resumed
 the reading of the document.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+"Mentre osservavo Hawkins vacillare sul muro, decisi tra me e me
+di non vacillare.  Una nube d'ira gravava sul mio cervello, come la nube
+di nebbia ramata sulle case e sui giardini all'intorno.  La mia decisione fu
+violenta e semplice; eppure i pensieri che vi condussero erano tanto
+intricati e contraddittori che ora non saprei più ripercorrerli.
+Sapevo che Hawkins era un gentiluomo buono e innocente; e avrei
+dato dieci sterline per il piacere di scaraventarlo giù per la strada a calci.
+Che Dio permettesse a gente buona d'essere tanto bestialmente stupida—
+si levò contro di me come una torreggiante bestemmia.
+
+"A Oxford, temo, ebbi il temperamento artistico piuttosto forte;
+e gli artisti amano essere limitati.  Amavo la chiesa come un bel disegno;
+la disciplina non era che ornamento.  Mi dilettavo di semplici divisioni del tempo;
+mi piaceva mangiar pesce il venerdì.  Ma poi, il pesce mi piace; e il digiuno
+era fatto per gli uomini a cui piace la carne.  Poi giunsi a Hoxton e vi trovai uomini
+che avevano digiunato per cinquecento anni; uomini costretti a rosicchiare pesce perché
+non potevano procurarsi carne—e lische di pesce quando non potevano procurarsi pesce.
+Come troppi ufficiali britannici trattano l'esercito come una parata, così io avevo trattato
+la Chiesa Militante come se fosse la Chiesa in Corteo.  Hoxton guarisce da questo.
+Allora compresi che per milleottocento anni la Chiesa Militante
+non era stata un corteo, ma una sommossa—e una sommossa soffocata.
+Là, ancora viventi pazientemente a Hoxton, stavano coloro ai quali
+erano state fatte le tremende promesse.  Di fronte a ciò dovevo
+diventare un rivoluzionario se volevo continuare a essere religioso.
+A Hoxton non si può essere conservatori senza essere anche atei—
+e pessimisti.  Nessuno se non il diavolo potrebbe voler conservare Hoxton.
+
+"Sopra tutto questo giunge Hawkins.  Se avesse maledetto tutti gli uomini di Hoxton,
+scomunicandoli e dicendo loro che sarebbero andati all'inferno, l'avrei
+piuttosto ammirato.  Se avesse ordinato che fossero tutti arsi
+sulla pubblica piazza, avrei ancora avuto quella pazienza che tutti
+i buoni cristiani hanno per i torti inflitti ad altri.
+Ma in Hawkins non c'è nulla dell'arte del prete—né di alcun'altra arte.
+Egli è perfettamente incapace di essere prete quanto lo è d'essere falegname
+o vetturino o giardiniere o intonacatore.  È un perfetto gentiluomo;
+questa è la sua malattia.  Non impone il suo credo, ma semplicemente la sua classe.
+Non disse una sola parola di religione in tutto il suo dannato discorso.
+Disse semplicemente tutte le cose che avrebbe detto suo fratello, il maggiore.
+Una voce dal cielo mi assicura che egli ha un fratello, e che questo
+fratello è un maggiore.
+
+"Quando quest'aristocratico impotente ebbe lodato la pulizia del corpo
+e la convenzione dell'anima a gente che a stento riusciva a tenere insieme corpo
+e anima, cominciò la fuga precipitosa contro la nostra tribuna.
+Presi parte al suo immeritato salvataggio, seguii il suo
+oscuro liberatore, finché (come ho detto) ci trovammo insieme
+sul muro sopra i giardini indistinti, già velati di nebbia.
+Poi guardai il curato e il ladro, e decisi, in uno spasimo
+d'ispirazione, che il ladro era il migliore dei due.
+Il ladro sembrava altrettanto buono e umano di quanto lo fosse il curato—
+ed era anche coraggioso e sicuro di sé, ciò che il curato non era.
+Sapevo che non c'era virtù nella classe alta, poiché vi appartengo
+io stesso; sapevo che non ce n'era poi molta nella classe bassa,
+poiché vi avevo vissuto a lungo.  Molti vecchi testi sui
+disprezzati e i perseguitati mi tornarono alla mente, e pensai
+che i santi ben potessero celarsi nella classe criminale.
+Verso il momento in cui Hawkins si calava giù per la scala io mi arrampicavo
+su un basso tetto spiovente d'ardesia azzurra dietro l'omone, che andava
+saltando davanti a me come un gorilla.
+
+"Questa arrampicata all'insù fu breve, e presto ci trovammo
+a camminare lungo un'ampia strada di tetti piatti,
+più larga di molte grandi vie di transito, con comignoli qua
+e là che nella foschia parevano massicci come piccoli forti.
+L'asfissia della nebbia sembrava accrescere l'ira alquanto
+gonfia e morbosa sotto cui affaticavano il mio cervello e il mio corpo.
+Il cielo e tutte quelle cose che di solito sono limpide parevano
+soggiogate da spiriti sinistri.  Alti spettri con turbanti di vapore
+sembravano ergersi più in alto del sole o della luna, eclissando entrambi.
+Pensai vagamente alle illustrazioni delle ‘Mille e una notte'
+su carta bruna dai colori ricchi ma cupi, che mostravano i geni
+raccolti attorno al Sigillo di Salomone.  A proposito, cos'era
+il Sigillo di Salomone?  Nulla che avesse a che fare con la ceralacca, in verità,
+suppongo; ma la mia fantasia confusa sentiva le dense nubi come fatte
+di quella sostanza pesante e vischiosa, dal colore forte e opaco,
+versata da pentole in ebollizione e impressa in emblemi mostruosi.
+
+"Il primo effetto degli alti vapori inturbantati fu quell'aspetto
+scolorito da zuppa di piselli o da caffè scuro di cui i londinesi parlano di solito.
+Ma la scena si fece più sottile con la familiarità.  Stavamo al di sopra della media
+dei tetti e vedemmo qualcosa di quella cosa chiamata fumo, che nelle
+grandi città crea la strana cosa chiamata nebbia.  Sotto di noi si levava [[Rose|rosa]]
+una foresta di comignoli. E in ogni comignolo stava, come se fosse
+un vaso da fiori, un breve arbusto o un alto albero di vapore colorato.
+I colori del fumo erano vari; poiché certi camini venivano
+da focolari e certi da fabbriche, e certi ancora da meri mucchi di rifiuti.
+Eppure, benché le tinte fossero tutte diverse, parevano tutte innaturali,
+come esalazioni dalla pentola di una [[Witch|strega]].  Era come se le forme vergognose e brutte
+che si disfacevano informi nel calderone mandassero su ciascuna il suo separato
+getto di vapore, colorato secondo il pesce o la carne consumata.
+Qui, ardenti di sotto, stavano nubi rosso scuro, quali potrebbero levarsi
+da cupi orci di [[Blood|sangue]] sacrificale; là il vapore era d'un grigio indaco scuro,
+come le lunghe chiome di streghe immerse nel brodo infernale. In un altro
+luogo il fumo era d'un tremendo giallo avorio opaco, quale potrebbe
+essere la scorporazione di una delle loro vecchie, lebbrose immagini di cera.
+Ma proprio attraverso di esso correva una linea d'un verde brillante, sinistro, sulfureo,
+netta e tortuosa come l'arabo—"
+
+Il signor Moses Gould tentò ancora una volta di fermare l'omnibus.
+Si intese che egli suggerisse di abbreviare
+il procedimento tralasciando tutti gli aggettivi.  La signora Duke,
+che si era svegliata, osservò che era certa che fosse tutto molto bello,
+e la decisione fu debitamente annotata da Moses con una matita blu,
+e da [[Michael]] con una matita rossa.  Inglewood riprese allora
+la lettura del documento.
+
 
 
 <span class="atom-split" data-atom="chapter_08--part_06" data-title="Manalive — Chapter 2 (part 6)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="motif/childhood,motif/city,motif/moon,motif/time,concept/truth,concept/vanity,form/comedy,setting/italy,setting/london"></span>
@@ -14497,6 +14972,114 @@ down a ladder in a dark room in the bodily act of burglar,
 I saw suddenly for the first time that theft, after all,
 is really wrong.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+«Poi lessi la scrittura del fumo. Il fumo era come la moderna
+[[City|città]] che lo produce; non è sempre spento o brutto, ma è sempre
+malvagio e vano.
+
+«L'Inghilterra moderna era come una nube di fumo; poteva recare
+tutti i colori, ma non poteva lasciare altro che una macchia. Era la nostra
+debolezza e non la nostra forza a mettere un ricco rifiuto nel cielo.
+Questi erano i fiumi della nostra [[Vanity|vanità]] che si riversavano nel vuoto.
+Avevamo preso il cerchio sacro del turbine, e l'avevamo guardato dall'alto,
+e l'avevamo visto come un gorgo. E poi l'avevamo usato come un lavandino.
+Era un buon simbolo dell'ammutinamento nella mia stessa mente.
+Solo le nostre cose peggiori salivano al cielo. Solo i nostri criminali
+riuscivano ancora ad ascendere come angeli.
+
+«Mentre la mia mente era accecata da simili emozioni, la mia guida si fermò
+presso uno di quei grossi comignoli che si ergevano a intervalli regolari
+come lampioni lungo quella strada sopraelevata e aerea.
+Vi posò sopra la sua mano pesante, e per un momento pensai che stesse
+semplicemente appoggiandovisi, stanco della sua ripida arrampicata lungo la terrazza.
+Per quanto potessi indovinare dagli abissi, colmi di nebbia da entrambi i lati,
+e dalle luci velate di rosso bruno e vecchio oro che vi brillavano
+attraverso di tanto in tanto, ci trovavamo in cima a una di quelle lunghe,
+consecutive e signorili file di case che si possono ancora
+trovare a levare il capo al di sopra dei quartieri più poveri, i resti
+di qualche furore di ottimismo dei primi costruttori speculatori.
+Con ogni probabilità erano del tutto disabitate, o abitate
+soltanto da quelle piccole tribù di poveri che si radunano anche nei vecchi
+palazzi svuotati d'[[Italy|Italia]]. In effetti, qualche po' di [[Time|tempo]] più tardi,
+quando la nebbia si fu un poco sollevata, scoprii che stavamo
+camminando lungo il semicerchio di una mezzaluna che digradava
+sotto di noi in una piazza piana o in un'ampia strada dietro l'altra,
+come una scalinata gigantesca, in una maniera non ignota all'eccentrica
+edilizia di [[London|Londra]], e simile agli ultimi cigli della terra.
+Ma una nube sigillava ancora la scalinata gigantesca.
+
+«Le mie speculazioni sul cupo paesaggio del cielo, tuttavia, furono interrotte
+da qualcosa di inatteso come la caduta della [[Moon|luna]] dal firmamento.
+Invece di sollevare la mano dal comignolo su cui
+si appoggiava, il mio scassinatore vi si appoggiò un poco più pesantemente, e l'intero
+comignolo si ribaltò come il coperchio apribile di un calamaio.
+Ricordai la scala corta appoggiata al muretto e fui
+certo che avesse predisposto il suo approccio criminale molto tempo prima.
+
+«Il crollo del grosso comignolo avrebbe dovuto essere il culmine
+dei miei sentimenti caotici; ma, a dire la [[Truth|verità]], produsse un improvviso senso
+di [[Comedy|commedia]] e perfino di conforto. Non riuscivo a ricordare che cosa collegasse questo
+brusco frammento di scasso ad alcune fantasie bizzarre eppure benevole.
+Poi ricordai le scene deliziose e chiassose di tetti e comignoli
+nelle arlecchinate della mia [[Childhood|infanzia]], e fui oscuramente e del tutto irrazionalmente
+confortato da un senso di inconsistenza nella scena, come se le case
+fossero di assicelle e vernice e cartone, e servissero soltanto ad essere ribaltate
+da poliziotti e pantaloni che vi entravano e uscivano. La violazione della legge da parte del mio compagno
+mi pareva non solo seriamente scusabile, ma persino comicamente scusabile.
+Chi erano tutte queste persone pompose e assurde con i loro lacchè e i loro
+raschiatoi da scarpe, i loro comignoli e i loro cappelli a cilindro, per
+impedire a un povero pagliaccio di procurarsi delle salsicce se le desiderava?
+Si sarebbe supposto che la proprietà fosse una cosa seria. Avevo raggiunto,
+per così dire, un livello più alto di quelle visioni montuose e vaporose,
+il cielo di una leggerezza più alta.
+
+«La mia guida era saltata giù nella scura cavità rivelata dal comignolo
+spostato. Doveva essere atterrata a un livello considerevolmente più basso, poiché,
+per quanto fosse alto, non restava visibile altro che la sua testa stranamente arruffata.
+Qualcosa di nuovo, lontano eppure familiare, mi compiaceva in questo modo
+di invadere le case degli uomini. Pensai ai piccoli spazzacamini,
+e a ‘I Bambini dell'Acqua'; ma decisi che non era quello.
+Poi ricordai che cosa fosse a farmi collegare una simile sottosopra
+violazione con idee del tutto opposte all'idea del delitto.
+La vigilia di Natale, naturalmente, e Babbo Natale che scende dal camino.
+
+«Quasi nello stesso istante la testa irsuta scomparve nel buco nero;
+ma udii una voce che mi chiamava dal basso. Un secondo o due dopo,
+la testa irsuta riapparve; era scura contro la parte più infuocata della nebbia,
+e non se ne poteva decifrare l'espressione, ma la sua voce mi chiamava
+a seguirla con quell'impaziente entusiasmo proprio soltanto dei vecchi amici.
+Saltai nell'abisso, e alla cieca come Curzio, poiché stavo ancora pensando
+a Babbo Natale e alla tradizionale virtù di tale ingresso verticale.
+
+«In ogni casa di gentiluomo ben provvista, riflettei, c'era
+la porta d'ingresso per i signori, e la porta di servizio per i fornitori;
+ma c'era anche la porta in cima per gli dèi. Il camino è,
+per così dire, il passaggio sotterraneo tra la terra e il cielo.
+Attraverso questo tunnel stellato Babbo Natale riesce—come l'allodola—
+a essere fedele ai punti affini del cielo e della casa.
+Anzi, a causa di certe convenzioni, e di una mancanza largamente diffusa
+di coraggio nell'arrampicarsi, questa porta era, forse, poco usata.
+Ma la porta di Babbo Natale era davvero la porta d'ingresso:
+era la porta che si affaccia sull'universo.
+
+«Questo pensavo mentre procedevo a tentoni per la nera soffitta, o solaio sotto
+il tetto, e scendevo goffamente lungo la tozza scala che ci calava in un solaio
+ancora più grande sottostante. Eppure non fu che a metà della scala che
+improvvisamente mi fermai, e pensai per un istante di rifare tutti i miei passi,
+come il mio compagno li aveva rifatti dall'inizio del muro del giardino.
+Il nome di Babbo Natale mi aveva improvvisamente riportato alla ragione.
+Ricordai perché Babbo Natale venisse, e perché fosse il benvenuto.
+
+«Ero stato allevato nelle classi possidenti, e con tutto
+il loro orrore delle offese contro la proprietà. Avevo udito tutte
+le consuete denunce del furto, giuste e sbagliate;
+avevo letto i Dieci Comandamenti in chiesa un migliaio di volte.
+E lì, in quel momento, all'età di trentaquattro anni, a metà
+di una scala in una stanza buia, nell'atto materiale dello scassinatore,
+vidi improvvisamente per la prima volta che il furto, dopo tutto,
+è davvero sbagliato.
 
 
 
@@ -14628,6 +15211,132 @@ or [[Double|double]], I expected to see when the door was pushed open from withi
 I am only quite certain that I did not expect to see what I did see.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+"Era però troppo tardi per tornare indietro, e seguii
+i passi stranamente ovattati del mio enorme compagno attraverso
+il solaio più basso e più ampio, finché egli non si inginocchiò su un punto
+del pavimento nudo e, dopo qualche armeggìo,
+sollevò una specie di botola. Ne uscì una luce dal basso,
+e ci trovammo a guardare giù in un salotto illuminato da una lampada,
+di quel genere che nelle grandi case spesso si apre da una camera da letto,
+e ne è un annesso. La luce che così irrompeva sotto
+i nostri piedi come un'esplosione silenziosa mostrò che la botola
+appena sollevata era incrostata di polvere e ruggine, e senza dubbio
+era rimasta a lungo in disuso fino all'arrivo del mio intraprendente amico.
+Ma non la osservai a lungo, perché la vista della stanza scintillante
+sotto di noi aveva un fascino quasi innaturale.
+Entrare in un interno moderno da un'angolazione così strana,
+per una porta tanto dimenticata, era un'epoca nella propria psicologia.
+Era come aver trovato una quarta dimensione.
+
+"Il mio compagno si lasciò cadere dall'apertura nella stanza così all'improvviso
+e senza rumore, che non potei far altro che seguirlo;
+sebbene, per mancanza di pratica nel crimine, non fossi affatto silenzioso.
+Prima che l'eco dei miei stivali si spegnesse, il grosso scassinatore
+era andato rapido alla porta, l'aveva socchiusa, e stava a guardare
+giù per la scala, in ascolto. Poi, lasciando la porta
+ancora socchiusa, tornò in mezzo alla stanza,
+e fece scorrere il suo occhio azzurro e vagabondo sui mobili e gli ornamenti.
+La stanza era comodamente rivestita di libri in quel modo ricco e umano
+che fa sembrare vive le pareti; era una libreria profonda e piena,
+ma disordinata, di quel genere che viene di continuo saccheggiato
+per leggere a letto. Una di quelle tozze
+stufe tedesche che paiono folletti rossi stava in un angolo,
+e una credenza di legno di noce con gli sportelli chiusi nella parte inferiore.
+C'erano tre finestre, alte ma strette. Dopo un altro sguardo in giro,
+il mio ladro spalancò gli sportelli di noce e frugò all'interno.
+Non vi trovò nulla, a quanto pare, se non una caraffa
+di cristallo intagliato assai bella, che conteneva ciò che pareva porto.
+In qualche modo la vista del ladro che tornava con quel ridicolo piccolo
+lusso in mano risvegliò di nuovo in me tutta la rivelazione
+e la repulsione che avevo provato di sopra.
+
+"«Non farlo!» gridai in modo del tutto incoerente, «Babbo Natale...»
+
+"«Ah,» disse lo scassinatore, mentre posava la caraffa sul tavolo
+e restava a guardarmi, «anche tu ci hai pensato.»
+
+"«Non posso esprimere un milionesimo di quel che ho pensato,» gridai,
+«ma è qualcosa del genere... oh, non lo vedi? Perché i bambini
+non hanno paura di Babbo Natale, benché venga come un ladro nella notte?
+Gli sono permessi il segreto, la violazione di domicilio, quasi il tradimento... perché ci sono
+più giocattoli là dove è passato. Che cosa proveremmo se ce ne fossero di meno?
+Da quale camino d'inferno scenderebbe il folletto che dovesse portar
+via ai bambini le palle e le bambole mentre dormono? Potrebbe una tragedia
+greca essere più grigia e crudele di quell'alba e di quel risveglio?
+Ladro di cani, ladro di cavalli, ladro d'uomini... riesci a pensare a qualcosa
+di tanto abietto come un ladro di giocattoli?»
+
+"Lo scassinatore, come distratto, trasse dalla tasca un grosso revolver e lo posò
+sul tavolo accanto alla caraffa, ma tenne ancora i suoi occhi azzurri e riflessivi
+fissi sul mio volto.
+
+"«Amico!» dissi, «ogni furto è furto di giocattoli. Ecco perché
+è davvero male. I beni degli infelici figli degli uomini
+dovrebbero essere davvero rispettati proprio per la loro nullità.
+So che la vigna di Nabot è dipinta come l'Arca di Noè. So
+che l'agnellina di Natan è in realtà un lanoso agnellino belante su un piedistallo di legno.
+Ecco perché non potevo portarli via. Non mi importava tanto,
+finché pensavo alle cose degli uomini come ai loro oggetti di valore;
+ma non oso posare una mano sulle loro vanità.»
+
+"Dopo un momento aggiunsi bruscamente: «Solo i santi e i saggi dovrebbero essere derubati.
+Loro possono essere spogliati e saccheggiati; ma non i poveri piccoli mondani
+delle cose che sono il loro povero piccolo [[Pride|orgoglio]].»
+
+"Prese dalla credenza due bicchieri da vino, li riempì entrambi,
+e ne sollevò uno con un cenno di saluto verso le labbra.
+
+"«Non farlo!» gridai. «Potrebbe essere l'ultima bottiglia di una qualche
+annata scadente. Il padrone di questa [[house|casa]] potrebbe esserne assai fiero.
+Non vedi che c'è qualcosa di sacro nella scempiaggine di simili cose?»
+
+"«Non è l'ultima bottiglia,» rispose il mio criminale con calma;
+«ce n'è molto altro in cantina.»
+
+"«Conosci la casa, allora?» dissi.
+
+"«Troppo [[Well|bene]],» rispose, con una tristezza così strana da avere
+in sé qualcosa di sinistro. «Cerco sempre di dimenticare ciò che so...
+e di trovare ciò che non so.» Vuotò il bicchiere.
+«Del resto,» aggiunse, «gli farà bene.»
+
+"«Che cosa gli farà bene?»
+
+"«Il vino che sto bevendo,» disse lo strano individuo.
+
+"«Beve troppo, dunque?» chiesi.
+
+"«No,» rispose, «a meno che non lo faccia io.»
+
+"«Vuoi dire,» domandai, «che il proprietario di questa [[house|casa]] approva
+tutto ciò che fai?»
+
+"«Dio non voglia,» rispose; «ma è costretto a fare lo stesso.»
+
+"Il volto morto della nebbia che sbirciava a tutte e tre le finestre
+accrebbe irragionevolmente un senso di [[Riddle|enigma]], e persino di terrore,
+intorno a quella [[house|casa]] alta e stretta in cui eravamo entrati dal cielo.
+Ebbi ancora una volta l'idea dei giganteschi geni...
+immaginai che enormi volti egizi, dei rossi e dei gialli
+morti dell'[[Egypt|Egitto]], scrutassero dentro ogni [[Window|finestra]] della nostra
+stanzetta illuminata dalla lampada come a un palcoscenico illuminato di marionette.
+Il mio compagno continuava a giocherellare con la [[Pistol|pistola]] davanti a sé,
+e a parlare con la stessa confidenzialità piuttosto inquietante.
+
+"«Cerco sempre di trovarlo... di coglierlo alla sprovvista.
+Entro dai lucernari e dalle botole per trovarlo;
+ma ogni volta che lo trovo... sta facendo ciò che faccio io.»
+
+"Balzai in piedi con un brivido di paura. «C'è qualcuno che viene,»
+gridai, e nel mio grido c'era qualcosa di uno strillo. Non dalle
+scale sottostanti, ma lungo il corridoio dalla camera da letto interna
+(il che in qualche modo lo rendeva più allarmante), dei passi si
+avvicinavano. Sono del tutto incapace di dire quale mistero, o [[Monster|mostro]],
+o [[Double|doppio]], mi aspettassi di vedere quando la porta fu spinta dall'interno.
+Sono soltanto certissimo che non mi aspettavo di vedere ciò che vidi.
+
 
 
 <span class="atom-split" data-atom="chapter_08--part_08" data-title="Manalive — Chapter 2 (part 8)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="motif/autumn,motif/blood,motif/death,motif/leaves,motif/love,motif/spring,motif/stars,motif/time,motif/well,concept/doubt,concept/faith,concept/fear,concept/wonder,form/satire,character/brutus,character/pistol,character/speed"></span>
@@ -14748,6 +15457,122 @@ but perhaps one could hardly say that he had settled down.
 late for tea.'
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+"Incorniciata nel vano della porta aperta se ne stava, con un'aria di grande serenità,
+una giovane donna piuttosto alta, decisamente benché indefinibilmente artistica--
+la veste del colore della [[spring|primavera]] e i capelli di [[Autumn|autunno]] e di [[Leaves|foglie]],
+con un volto che, per quanto ancora relativamente giovane,
+tradiva l'esperienza [[Well|oltre]] che l'intelligenza. Tutto ciò che disse fu:
+‘Non vi ho sentito entrare.'
+
+"‘Sono entrato per un'altra via,' disse il Permeatore, alquanto vagamente.
+‘Avevo lasciato la chiave di casa a casa.'
+
+"Mi alzai in piedi in un misto di cortesia e follia.
+‘Sono davvero molto spiacente,' esclamai. ‘So che la mia posizione è irregolare.
+Vorreste avere la cortesia di dirmi di chi è questa casa?'
+
+"‘Mia,' disse lo scassinatore. ‘Posso presentarvi a mia moglie?'
+
+"Riluttante, e con una certa lentezza, ripresi il mio posto;
+e non me ne mossi fin quasi al mattino. La signora Smith
+(tale era il prosaico nome di quella tutt'altro che prosaica famiglia)
+si trattenne un poco, conversando con leggerezza e cordialità.
+Lasciò nella mia mente l'impressione di una certa curiosa mescolanza
+di timidezza e acume; come se conoscesse bene il mondo,
+ma ne fosse ancora un poco, e innocuamente, intimorita.
+Forse il possesso di un marito tanto scattante e imprevedibile
+l'aveva resa un poco nervosa. Comunque sia, quando si fu ritirata
+di nuovo nella stanza interna, quello straordinario uomo riversò
+la sua apologia e la sua autobiografia sul vino che andava scemando.
+
+"Era stato mandato a Cambridge in vista di una carriera matematica
+e scientifica, piuttosto che classica o letteraria.
+Un nichilismo senza stelle era allora la filosofia delle scuole;
+e generò in lui una guerra fra le membra e lo spirito,
+ma una guerra nella quale le membra avevano ragione. Mentre il suo cervello
+accettava il nero credo, il suo stesso corpo vi si ribellava.
+Come diceva lui, la sua mano destra gli insegnò cose terribili.
+Come dicevano le autorità dell'Università di Cambridge, purtroppo,
+ciò aveva preso la forma della sua mano destra che brandiva un'arma
+da fuoco carica proprio in faccia a un illustre docente, costringendolo
+ad arrampicarsi fuori dalla finestra e ad aggrapparsi a un pluviale.
+L'aveva fatto unicamente perché il povero docente aveva professato
+in teoria una preferenza per la non-esistenza. Per questo
+tipo di argomentazione assai poco accademica fu espulso.
+Rigettando com'era, per la ripugnanza, il pessimismo che si era
+acquattato sotto la sua pistola, si fece una sorta di fanatico
+della gioia di vivere. Tagliò trasversalmente tutte le consuetudini
+degli uomini seri. Era gaio, ma niente affatto sventato.
+I suoi scherzi pratici erano più seri di quelli verbali.
+Pur non essendo un ottimista nel senso assurdo di sostenere che
+la vita sia tutta birra e birilli, sembrava davvero sostenere
+che la birra e i birilli ne siano la parte più seria.
+‘Che cosa è più immortale,' gridava, ‘dell'amore e della guerra?
+Emblema di ogni desiderio e gioia--la birra. Emblema di ogni battaglia
+e conquista--i birilli.'
+
+"C'era in lui qualcosa di ciò che il vecchio mondo chiamava
+la solennità dei baldorie--quando parlavano di ‘solennizzare'
+una semplice mascherata o un banchetto di nozze. Nondimeno egli non era
+un semplice pagano, non più di quanto fosse un semplice burlone.
+Le sue eccentricità nascevano da un fatto statico di [[Faith|fede]],
+in sé mistico, e persino fanciullesco e cristiano.
+
+"‘Non nego,' disse, ‘che debbano esservi sacerdoti a ricordare
+agli uomini che un giorno moriranno. Dico solo che in certe
+strane epoche è necessario avere un altro genere di sacerdoti,
+detti poeti, che ricordino agli uomini, per l'appunto, che non sono ancora morti.
+Gli intellettuali fra i quali mi muovevo non erano neppure abbastanza vivi
+da [[Fear|temere]] la [[Death|morte]]. Non avevano abbastanza [[Blood|sangue]] in corpo per essere codardi.
+Finché una canna di [[Pistol|pistola]] non veniva cacciata proprio sotto il loro naso non
+sapevano nemmeno di essere nati. Per epoche intere, guardando su per un'eterna
+prospettiva, poteva esser vero che la vita è un imparare a morire.
+Ma per questi piccoli topi bianchi era altrettanto vero che la [[Death|morte]]
+era la loro unica occasione di imparare a vivere.'
+
+"Il suo credo della [[Wonder|meraviglia]] era cristiano per questa prova assoluta: che egli lo sentiva
+scivolar via di continuo da sé quanto dagli altri.
+Aveva la stessa [[Pistol|pistola]] per sé, come [[Brutus]] disse del pugnale.
+Correva di continuo rischi assurdi di alti precipizi o di sfrenata
+[[Speed|velocità]] per tener viva la mera convinzione di essere vivo.
+Faceva tesoro di dettagli banali eppure folli che una volta gli avevano
+ricordato la terribile realtà subconscia. Quando il docente
+si era appeso alla grondaia di pietra, la vista delle sue lunghe gambe penzolanti,
+vibranti nel vuoto come ali, ridestò in qualche modo la nuda [[Satire|satira]]
+della vecchia definizione dell'uomo come animale bipede senza penne.
+Il misero professore era stato messo in pericolo dalla sua testa,
+che aveva coltivato con tanta cura, e salvato soltanto
+dalle sue gambe, che aveva trattato con freddezza e trascuratezza.
+[[smith|Smith]] non riusciva a pensare ad altro modo di annunciare o registrare la cosa,
+se non mandare un telegramma a un vecchio amico (ormai a questo [[Time|punto]] un
+perfetto estraneo) per dire che aveva appena visto un uomo con due gambe;
+e che l'uomo era vivo.
+
+"Lo slancio del suo ottimismo liberato esplose in [[Stars|stelle]] come un razzo
+quando all'improvviso s'innamorò. Gli capitava di discendere in canoa
+una chiusa alta e ripidissima, per provare a sé stesso
+di essere vivo; e ben presto si trovò coinvolto in qualche [[Doubt|dubbio]]
+circa il perdurare di tale fatto. Quel che era peggio, scoprì di aver
+egualmente messo in pericolo un'innocua signora [[Alone|sola]] in una barca a remi, e per giunta
+una che non aveva provocato la [[Death|morte]] con alcuna professione di negazione filosofica.
+Le porse le sue scuse in ansimi disperati durante tutte le sue disperate fatiche zuppe per portarla
+a riva, e quando alla fine vi riuscì, pare che le abbia
+fatto la proposta sulla sponda. Comunque, con la stessa impetuosità
+con cui l'aveva quasi uccisa, la sposò senz'altro;
+ed ella era la signora in verde a cui poco prima avevo dato la ‘buonanotte.'
+
+"Si erano stabiliti in queste alte e strette case
+presso Highbury. Forse, invero, non è la parola giusta.
+Si potrebbe a rigore dire che Smith era sposato, che era assai
+felicemente sposato, che non solo non gli importava di nessuna donna
+tranne sua moglie, ma non sembrava importargli di nessun luogo tranne casa sua;
+ma forse non si potrebbe proprio dire che si fosse messo tranquillo.
+‘Sono un tipo molto casalingo,' spiegò con gravità,
+‘e più di una volta sono entrato da una finestra rotta pur di non essere
+in ritardo per il tè.'
+
 
 
 <span class="atom-split" data-atom="chapter_08--part_09" data-title="Manalive — Chapter 2 (part 9)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="archetype/innocent,motif/home,concept/wonder_and_gratitude,concept/marriage_and_fidelity,concept/paradox,character/innocent_smith,character/moses_gould,character/michael_moon,character/arthur_inglewood,character/mary_gray"></span>
@@ -14843,6 +15668,106 @@ and a wrinkle was on his forehead that might have been worry or shame.
 He carefully plucked out one corner of a complicated paper and tucked it
 in elsewhere; then the wrinkle vanished and he looked relieved.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+"Sferzava la propria anima con la risata per impedirle di
+addormentarsi. Fece perdere alla moglie una serie di ottimi
+domestici bussando alla porta come un perfetto sconosciuto, e
+chiedendo se il signor Smith abitasse lì e che razza d'uomo
+fosse. La domestica tuttofare londinese non è abituata a un
+padrone che si concede simili ironie trascendentali. E si rivelò
+impossibile spiegarle che lo faceva per provare per le proprie
+faccende lo stesso interesse che provava sempre per quelle altrui.
+
+"‘So che c'è un tale di nome [[smith|Smith]],' diceva col suo modo
+piuttosto bizzarro, ‘che abita in una di quelle case alte di questa
+fila. So che è davvero felice, eppure non riesco mai a coglierlo sul fatto.'
+
+"A volte, all'improvviso, trattava la moglie con una specie di
+cortesia paralizzata, come un giovane forestiero colpito
+dall'amore a prima vista. A volte estendeva questo timore poetico
+persino ai mobili; pareva chiedere scusa alla sedia su cui sedeva,
+e saliva le scale con la stessa cautela di uno scalatore di rocce,
+per rinnovare in sé il senso del loro scheletro di realtà. Ogni
+gradino è una scala a pioli e ogni sgabello una gamba, diceva. E
+altre volte recitava la parte dell'estraneo esattamente nel senso
+opposto, ed entrava per un'altra via, così da sentirsi un ladro e
+un brigante. Sfondava e violava la propria casa, come aveva fatto
+con me quella notte. Era quasi mattino prima che riuscissi a
+staccarmi da questa strana confidenza dell'Uomo Che Non Voleva
+Morire, e mentre gli stringevo la mano sulla soglia l'ultimo carico
+di nebbia si stava sollevando, e squarci di luce diurna rivelavano
+la scalinata degli irregolari livelli stradali che pareva la fine del mondo.
+
+"A molti basterà dire che avevo trascorso una notte con un maniaco.
+Quale altro termine, si dirà, si potrebbe applicare a un tale essere?
+Un uomo che si ricorda di essere sposato fingendo di non esserlo!
+Un uomo che cerca di bramare i propri beni invece di quelli del suo
+prossimo! Su questo ho una sola parola da dire, e sento che è mio
+onore dirla, benché nessuno la comprenda. Credo che quel maniaco
+fosse uno di quelli che non semplicemente vengono, ma sono mandati;
+mandati come una grande burrasca sulle navi da Colui che fece dei
+suoi angeli venti e dei suoi messaggeri una fiamma ardente. Questo,
+almeno, lo so per certo. Che tali uomini abbiano riso o pianto, noi
+abbiamo riso della loro risata tanto quanto del loro pianto. Che
+abbiano maledetto o benedetto il mondo, non vi si sono mai adattati.
+È vero che gli uomini hanno rifuggito il pungiglione di un grande
+satirico come dal pungiglione di una vipera. Ma è altrettanto vero
+che gli uomini fuggono l'abbraccio di un grande ottimista come
+dall'abbraccio di un orso. Nulla attira più maledizioni di una vera
+benedizione. Poiché la bontà delle cose buone, come la malvagità
+delle cose cattive, è un prodigio che va oltre le parole; è cosa da
+raffigurare piuttosto che da dire. Saremo scesi più a fondo degli
+abissi del cielo e invecchiati più dei più antichi angeli prima di
+sentire, anche solo nelle sue prime deboli vibrazioni, l'eterna
+violenza di quella duplice passione con cui Dio odia e ama il
+mondo.--Vostro devotissimo,
+"Raymond Percy."
+
+"Oh, santo, santo, santo!" disse il signor Moses Gould.
+
+Nell'istante in cui ebbe parlato tutti gli altri seppero di essere
+stati in uno stato di sottomissione e assenso quasi religioso.
+Qualcosa li aveva uniti; qualcosa nella sacra tradizione delle
+ultime due parole della lettera; qualcosa anche nel commovente e
+fanciullesco imbarazzo con cui Inglewood le aveva lette--poiché
+egli aveva tutta la delicata reverenza dell'agnostico. Moses Gould
+era un buon diavolo nel suo genere quanto mai ne sia vissuto uno;
+assai più affettuoso con la sua famiglia di quanto lo siano gli
+uomini di piacere più raffinati, semplice e fedele nella sua
+ammirazione, un animale del tutto sano e un carattere del tutto
+genuino. Ma dovunque vi sia conflitto, sopraggiungono crisi in cui
+un'anima qualsiasi, personale o razziale, volge inconsciamente al
+mondo la più odiosa delle sue cento facce. La reverenza inglese, il
+misticismo irlandese, l'idealismo americano, alzarono lo sguardo e
+videro sul volto di Moses un certo sorriso. Era quel sorriso del
+Cinico Trionfante, che è stato la campana a martello di più d'un
+crudele tumulto nei villaggi russi o nelle città medievali.
+
+"Oh, santo, santo, santo!" disse Moses Gould.
+
+Constatando che ciò non era ben accolto, si spiegò ulteriormente,
+mentre l'esuberanza si faceva più marcata sui suoi scuri lineamenti esuberanti.
+
+"Sempre uno spasso vedere un tizio ingoiare una vespa mentre sta
+tossendo per sputare una mosca," disse amabilmente. "Non vedete che
+avete comunque messo nei guai il vecchio Smith? Se la storia di
+questo pretino è a posto--be', Smith è cotto. È bell'e cotto. Lo
+becchiamo che scappa con la signorina Gray (coi miei rispetti!) in
+carrozza. Be', e che ne dite di questa signora Smith di cui parla il
+curato, con la sua maledetta timidezza--trasmigogrificata in una
+disgraziata spigolosità? La signorina Gray non è stata molto
+spigolosa, ma scommetto che sarà piuttosto timida."
+
+"Non fare la bestia," ringhiò Michael Moon.
+
+Nessuno riusciva a sollevare gli occhi per guardare Mary; ma
+Inglewood lanciò uno sguardo lungo il tavolo verso Innocent Smith.
+Era ancora chino sui suoi giocattoli di carta, e aveva sulla fronte
+una ruga che poteva essere preoccupazione o vergogna. Estrasse con
+cura un angolo di un complicato foglio di carta e lo infilò
+altrove; poi la ruga svanì ed egli parve sollevato.
 
 
 
@@ -14963,6 +15888,122 @@ the Continent, he seemed prepared to prove all this on his own account.
 the word of a French innkeeper as much as that of an English gardener.
 By Mr. Inglewood's favour we will hear the French innkeeper."
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Capitolo III
+
+La strada che gira;
+ovvero, l'accusa di abbandono
+
+Pym si alzò con sincero imbarazzo; era infatti un americano,
+e il suo rispetto per le signore era reale, e per nulla scientifico.
+
+«Sorvolando», disse, «sulle delicate e non trascurabili proteste cavalleresche
+che il senso oratorio innato del mio collega ha suscitato,
+e chiedendo scusa a tutti coloro ai quali la nostra selvaggia ricerca della verità
+appare inadatta alle grandi rovine di una terra feudale, continuo a ritenere
+la domanda del mio collega tutt'altro che priva di rilevanza. L'ultima accusa
+contro l'imputato era di effrazione; la successiva accusa in elenco è di bigamia
+e abbandono. Appare senza dubbio che la difesa, nell'aspirare a confutare
+quest'ultima accusa, abbia in realtà ammesso la precedente. O Innocent Smith
+è ancora sotto accusa per tentata effrazione, oppure quella è demolita;
+ma resta piuttosto ben inchiodato per tentata bigamia. Tutto dipende da
+quale interpretazione diamo della presunta lettera del curato Percy. In queste
+condizioni mi sento autorizzato a rivendicare il mio diritto a porre domande.
+Posso chiedere come la difesa sia entrata in possesso della lettera del curato Percy?
+È giunta direttamente dal prigioniero?»
+
+«Non abbiamo ricevuto nulla direttamente dal prigioniero», disse Moon con calma.
+«I pochi documenti che la difesa garantisce ci sono pervenuti
+da un'altra fonte.»
+
+«Da quale fonte?» chiese il dottor Pym.
+
+«Se insiste», rispose Moon, «li abbiamo avuti dalla signorina Gray.
+
+«Il dottor Cyrus Pym dimenticò del tutto di chiudere gli occhi, e, al contrario,
+li spalancò moltissimo.
+
+«Vuole davvero dirmi», disse, «che la signorina Gray era in possesso
+di questo documento attestante l'esistenza di una precedente signora Smith?»
+
+«Proprio così», disse Inglewood, e si sedette.
+
+Il dottore mormorò qualcosa a proposito di infatuazione con voce bassa e dolente,
+e poi, con visibile difficoltà, riprese le sue osservazioni introduttive.
+
+«Purtroppo la tragica verità rivelata dal racconto del curato Percy
+è confermata fin troppo schiacciantemente da altri e sconvolgenti documenti
+in nostro possesso. Di questi il principale e più certo è
+la testimonianza del giardiniere di Innocent Smith, che era presente al più
+drammatico e rivelatore dei suoi molti atti di infedeltà coniugale.
+Il signor Gould, il giardiniere, prego.»
+
+Il signor Gould, con la sua instancabile allegria, si alzò per presentare il giardiniere.
+Quel funzionario spiegò di aver servito il signore e la signora Innocent Smith
+quando avevano una piccola casa ai margini di Croydon.
+Dal racconto del giardiniere, con le sue molte piccole allusioni, Inglewood si convinse
+di aver visto il luogo. Era uno di quegli angoli di città
+o di campagna che non si dimenticano, perché sembrava una frontiera.
+Il giardino era sospeso assai in alto sopra il viottolo, e il suo limite era ripido
+e tagliente, come una fortezza. Al di là si stendeva un tratto di vera campagna,
+con un sentiero bianco che vi serpeggiava attraverso, e le radici, i tronchi e i rami
+di grandi alberi grigi che si contorcevano e si attorcigliavano contro il cielo.
+Ma, come per affermare che il viottolo stesso era suburbano,
+si stagliavano nitidamente contro quell'altura grigia e agitata
+un lampione dipinto di un peculiare verde-giallo e una cassetta postale rossa
+che sorgeva esattamente all'angolo. Inglewood era certo del luogo;
+c'era passato venti volte nelle sue passeggiate salutari in bicicletta;
+aveva sempre oscuramente avvertito che era un posto dove qualcosa poteva accadere.
+Ma gli venne un vero brivido al pensiero che il volto del suo
+spaventoso amico o nemico Smith potesse essere apparso, in un momento qualsiasi,
+al di sopra dei cespugli del giardino, lassù. Il resoconto del giardiniere,
+diversamente da quello del curato, era del tutto privo di aggettivi ornamentali,
+per quanti ne possa aver pronunciati in privato mentre lo redigeva.
+Disse semplicemente che, in una certa mattina, il signor Smith era uscito
+e si era messo a gingillarsi con un rastrello, come faceva spesso. A volte
+solleticava il naso del figlio maggiore (aveva due figli);
+a volte agganciava il rastrello al ramo di un albero,
+e si issava con orribili scatti ginnici, simili a quelli di
+un rospo gigante nella sua agonia finale. Mai, a quanto pareva, gli veniva in mente
+di usare il rastrello per uno qualsiasi dei suoi scopi propri, e il giardiniere,
+di conseguenza, trattava le sue azioni con freddezza e brevità.
+Ma il giardiniere era certo che una certa mattina d'ottobre lui
+(il giardiniere) aveva svoltato l'angolo della casa portando
+la canna dell'acqua, aveva visto il signor Smith in piedi sul prato con una giacca
+a righe rosse e bianche (che poteva essere la sua giacca da camera,
+ma somigliava del pari a un pezzo del suo pigiama), e lo aveva sentito allora
+e lì gridare alla moglie, che si affacciava dalla finestra della camera
+da letto sul giardino, queste espressioni decisive e assai sonore:
+
+«Non resto qui un momento di più. Ho un'altra moglie e figli molto
+migliori a gran distanza da qui. La mia altra moglie ha i capelli più rossi
+dei tuoi, e il mio altro giardino gode di una posizione ben più bella;
+e me ne vado da loro.»
+
+Con queste parole, a quanto pare, scagliò il rastrello in alto nel cielo,
+più in alto di quanto molti avrebbero saputo scoccare una freccia, e lo riafferrò.
+Poi superò la siepe con un balzo e atterrò in piedi giù
+nel viottolo sottostante, e s'incamminò su per la strada senza nemmeno un cappello.
+Buona parte del quadro fu senza dubbio fornita dal ricordo casuale
+che Inglewood aveva del luogo. Poteva vedere con l'occhio della mente quella grande
+figura a capo scoperto, col rastrello logoro, incedere spavaldamente su per la tortuosa
+strada boschiva, lasciandosi dietro il lampione e la cassetta postale.
+Ma il giardiniere, per parte sua, era del tutto pronto a giurare
+sulla pubblica confessione di bigamia, sulla temporanea scomparsa
+del rastrello nel cielo, e sulla scomparsa definitiva dell'uomo su per
+la strada. Inoltre, essendo un uomo del posto, poteva giurare che, oltre a certe
+voci locali secondo cui Smith si era imbarcato sulla costa sud-orientale,
+non se ne era più saputo nulla.
+
+Questa impressione fu, in modo alquanto curioso, suggellata da Michael Moon nelle poche
+ma chiare frasi con cui aprì la difesa sulla terza accusa.
+Ben lungi dal negare che Smith fosse fuggito da Croydon e scomparso sul
+Continente, sembrava pronto a dimostrare tutto questo per conto proprio.
+«Spero che non siate così insulari», disse, «da non rispettare
+la parola di un locandiere francese quanto quella di un giardiniere inglese.
+Con il permesso del signor Inglewood ascolteremo il locandiere francese.»
 
 
 
@@ -15098,6 +16139,136 @@ with which I have the [[Honour|honour]] to be your obedient servant,
 "Jules Durobin."
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Prima che la compagnia avesse deciso il delicato punto, Inglewood stava
+già leggendo il resoconto in questione.  Era in francese.  Pareva loro
+suonasse pressappoco così:--
+
+"Signore,--Sì; io sono Durobin del Caffè Durobin sul lungomare a Gras,
+un po' a nord di Dunquerque.  Sono disposto a scrivere tutto ciò che so
+dello straniero venuto dal mare.
+
+"Non ho alcuna simpatia per gli eccentrici o i poeti.  Un uomo di buon senso
+cerca la bellezza nelle cose deliberatamente destinate a essere belle,
+come un'aiuola ben curata o una statuetta d'avorio.  Non si permette
+alla bellezza di pervadere l'intera vita, così come non si lastricano
+tutte le strade d'avorio né si coprono tutti i campi di gerani.
+In fede mia, ci mancherebbero le cipolle!
+
+"Ma sia che io legga le cose all'indietro attraverso la mia memoria, sia che
+esistano davvero atmosfere della psiche che l'occhio della scienza non riesce
+ancora a penetrare, resta il fatto umiliante che quella particolare sera
+mi sentii come un poeta--come un qualunque piccolo furfante di poeta che beve
+assenzio nella folle Montmartre.
+
+"Il mare stesso pareva addirittura assenzio, verde e amaro
+e velenoso.  Non l'avevo mai visto così estraneo.
+Nel cielo c'era quell'oscurità precoce e tempestosa che tanto deprime
+la mente, e il vento fischiava stridulo intorno al piccolo chiosco solitario
+e variopinto dove vendono i giornali, e lungo le dune di sabbia presso la riva.
+Là vidi una barca da pesca con una vela bruna avanzare silenziosa dal
+mare.  Era già assai vicina, e ne discese arrampicandosi un uomo
+di statura mostruosa, che venne guadando verso la riva con l'acqua che non
+gli arrivava alle ginocchia, benché avrebbe raggiunto i fianchi di molti uomini.
+Si appoggiava a un lungo rastrello o palo, che sembrava un tridente, e lo faceva
+assomigliare a un Tritone.  Bagnato com'era, e con strisce d'alga aggrappate
+addosso, attraversò fino al mio caffè e, sedutosi a un tavolo all'aperto,
+chiese del cherry brandy, un liquore che tengo, ma di rado richiesto.
+Poi il mostro, con grande cortesia, mi invitò a prendere
+un vermouth prima della mia cena, e attaccammo discorso.
+A quanto pareva aveva attraversato dal Kent con una piccola barca ottenuta
+con un accordo privato per via di qualche bizzarra fantasia che aveva
+di procedere prontamente in direzione orientale, senza attendere nessuna
+delle imbarcazioni ufficiali.  Cercava, spiegò in modo alquanto vago,
+una casa.  Quando gli domandai, com'era naturale, dove fosse la casa,
+rispose che non lo sapeva; era su un'isola; era da qualche parte a oriente;
+oppure, come si espresse con un gesto nebuloso eppure impaziente, ‘laggiù'.
+
+"Gli chiesi come, se non conosceva il luogo, l'avrebbe riconosciuto vedendolo.
+Qui d'un tratto cessò di essere nebuloso, e divenne spaventosamente minuzioso.
+Diede una descrizione della [[house|casa]] abbastanza dettagliata per un banditore.
+Ho dimenticato quasi tutti i particolari tranne gli ultimi due, che erano
+che il lampione era dipinto di verde, e che c'era una cassetta postale rossa
+all'angolo.
+
+"‘Una cassetta postale rossa!' esclamai stupito.  ‘Ma allora il posto
+dev'essere in Inghilterra!'
+
+"‘L'avevo dimenticato,' disse, annuendo pesantemente.  ‘È il nome dell'isola.'
+
+"‘Ma, ~nom du nom~,' esclamai spazientito, ‘vieni proprio adesso
+dall'Inghilterra, ragazzo mio.'
+
+"‘DICEVANO che era l'Inghilterra,' disse il mio imbecille, con aria di complotto.
+‘Dicevano che era il [[Kent]].  Ma gli uomini del Kent sono tali bugiardi che non si può
+credere a nulla di ciò che dicono.'
+
+"‘Monsieur,' dissi, ‘dovete perdonarmi.  Sono anziano,
+e le ~fumisteries~ dei giovani mi superano.
+Vado per buon senso, o, tutt'al più, per quell'estensione
+del buon senso applicato che si chiama scienza.'
+
+"‘Scienza!' esclamò lo straniero.  ‘C'è una sola cosa buona
+che la scienza abbia mai scoperto--una cosa buona, una buona novella di grande gioia--
+che il mondo è rotondo.'
+
+"Gli dissi con garbo che le sue parole non trasmettevano alcuna impressione
+alla mia intelligenza.  ‘Voglio dire,' disse, ‘che fare tutto il giro
+del mondo è la via più breve per arrivare dove già ti trovi.'
+
+"‘Non è forse ancor più breve,' chiesi, ‘fermarsi dove si è?'
+
+"‘No, no, no!' esclamò con enfasi.  ‘Quella via è lunga e faticosissima.
+Alla fine del mondo, dietro l'[[Dawn|alba]], troverò
+la moglie che davvero ho sposato e la [[house|casa]] che davvero è mia.
+E quella [[house|casa]] avrà un lampione più verde e una cassetta postale più rossa.
+Voi,' chiese con un'improvvisa intensità, ‘voi non desiderate mai precipitarvi
+fuori di casa vostra per trovarla?'
+
+"‘No, credo di no,' risposi; ‘la ragione insegna all'uomo fin
+da principio ad adattare i propri desideri alla probabile provvista della vita.
+Io resto qui, contento di compiere la vita dell'uomo.
+Tutti i miei interessi sono qui, e la maggior parte dei miei amici, e--'
+
+"‘Eppure,' esclamò, drizzandosi alla sua statura quasi terrificante,
+‘voi avete fatto la Rivoluzione francese!'
+
+"‘Perdonatemi,' dissi, ‘non sono poi così anziano.
+Un parente, forse.'
+
+"‘Voglio dire che è stata la vostra razza!' esclamò questo personaggio.
+‘Sì, la vostra maledetta razza compiaciuta, assestata, assennata ha fatto
+la Rivoluzione francese.  Oh!  So che qualcuno dice che non è servita a nulla,
+e che siete di nuovo esattamente dov'eravate prima.  Ma, accidenti a tutto,
+è proprio lì che tutti vogliamo essere--di nuovo dov'eravamo prima!
+Questa è la rivoluzione--fare tutto il giro!  Ogni rivoluzione,
+come un pentimento, è un ritorno.'
+
+"Era così agitato che aspettai finché non si fosse rimesso a sedere,
+e poi dissi qualcosa di indifferente e rassicurante; ma egli colpì
+il minuscolo tavolo col suo pugno colossale e proseguì.
+
+"‘Io farò una rivoluzione, non una [[French Revolution|Rivoluzione francese]], ma una
+Rivoluzione inglese.  Dio ha dato a ogni tribù il proprio tipo di ammutinamento.
+I francesi marciano contro la cittadella della [[City|città]] tutti insieme; l'inglese
+marcia verso i sobborghi della [[City|città]], e [[Alone|solo]].  Ma anch'io metterò
+il [[World Upside Down|mondo a rovescio]].  Metterò me stesso a rovescio.
+Camminerò a testa in giù nel maledetto paese capovolto degli Antipodi,
+dove alberi e uomini pendono a testa in giù nel cielo.  Ma la mia rivoluzione,
+come la vostra, come quella della terra, finirà nel luogo santo e felice--
+il luogo celeste, incredibile--il luogo dove eravamo prima.'
+
+"Con queste osservazioni, che a stento si conciliano con la ragione,
+balzò dal sedile e si allontanò a grandi passi nel crepuscolo,
+facendo roteare il suo palo e lasciandosi dietro un pagamento eccessivo,
+che pure indicava una certa perdita di equilibrio mentale.
+Questo è tutto ciò che so dell'episodio dell'uomo sbarcato dalla
+barca da pesca, e [[Hope|spero]] possa servire agli interessi della giustizia.--
+Gradite, Signore, le assicurazioni dell'altissima considerazione,
+con la quale ho l'[[Honour|onore]] di essere il vostro obbediente servitore,
+"Jules Durobin."
+
 
 
 <span class="atom-split" data-atom="chapter_09--part_03" data-title="Manalive — Chapter 3 (part 3)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="motif/marriage,motif/memory,motif/snow,motif/window,motif/winter,concept/freedom,setting/russia"></span>
@@ -15217,6 +16388,122 @@ where the only moving thing was the long and labouring trail of smoke
 out of the railway engine, violet in tint, volcanic in outline,
 the one hot and heavy cloud of that cold clear evening of pale green.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+«Il documento successivo del nostro incartamento,» proseguì Inglewood,
+«proviene dalla cittadina di Crazok, nelle pianure centrali della [[Russia]],
+e recita così:--
+
+«Signore,--Il mio nome è Paul Nickolaiovitch: sono il capostazione
+della stazione presso Crazok. I grandi treni passano attraverso
+le pianure portando gente in Cina, ma pochissimi scendono
+sul marciapiede che io devo sorvegliare. Questo rende la mia vita
+piuttosto solitaria, e sono costretto a ripiegare molto sui libri che possiedo.
+Ma non posso discuterne granché con i miei vicini,
+perché le idee illuminate non si sono diffuse in questa parte della [[Russia]]
+tanto quanto in altre. Molti dei contadini di qui
+non hanno mai sentito parlare di Bernard [[Shaw]].
+
+«Sono un Liberale, e faccio del mio meglio per diffondere le idee liberali; ma dopo
+il fallimento della rivoluzione ciò è divenuto ancora più difficile.
+I rivoluzionari commisero molti atti contrari ai puri princìpi
+dell'[[Humanitarianism|umanitarismo]], coi quali del resto, data la scarsità di libri,
+avevano scarsa dimestichezza. Io non approvavo quegli atti crudeli,
+benché provocati dalla tirannia del [[government|governo]]; ma ora vi è
+la tendenza a rimproverare a tutti gli Intelligenti il [[Memory|ricordo]] di essi.
+Il che è assai sfortunato per gli Intelligenti.
+
+«Fu quando lo sciopero ferroviario era quasi finito, e pochi treni
+passavano a lunghi intervalli, che un giorno mi trovai a osservare
+un treno appena arrivato. Una sola persona scese dal treno,
+laggiù in fondo, all'altra estremità, poiché era un treno molto lungo.
+Era sera, con un cielo freddo e verdastro. Era caduta un po' di [[Snow|neve]],
+ma non abbastanza da imbiancare la pianura, che si stendeva d'una sorta
+di triste violaceo in ogni direzione, salvo dove le sommità piatte
+di alcuni altipiani lontani coglievano la luce della sera come laghi.
+Mentre l'uomo solitario avanzava battendo i piedi sulla [[Snow|neve]] sottile lungo il treno,
+si faceva sempre più grande; mi parve di non aver mai visto un uomo così grande.
+Ma sembrava persino più alto di quanto fosse, credo, perché le sue
+spalle erano assai larghe e la testa relativamente piccola.
+Dalle grandi spalle pendeva una vecchia giacca sbrindellata, a righe d'un rosso spento
+e d'un bianco sudicio, molto leggera per l'[[Winter|inverno]], e una mano posava
+su un enorme palo simile a quelli con cui i contadini rastrellano le erbacce per bruciarle.
+
+«Prima che avesse percorso l'intera lunghezza del treno, si trovò impigliato in uno
+di quei capannelli di teppisti che erano le braci della rivoluzione ormai spenta,
+sebbene per lo più si disonorassero dalla parte del [[government|governo]].
+Stavo giusto muovendomi in suo soccorso, quando egli fece roteare il rastrello e menò
+colpi a destra e a manca con tale energia che ne uscì incolume
+e mi venne dritto incontro, lasciandoli storditi e davvero attoniti.
+
+«Eppure quando mi raggiunse, dopo un'affermazione tanto brusca del suo intento,
+non seppe dire che dubbiosamente, in francese, di volere una [[house|casa]].
+
+«‘Non ci sono molte case disponibili da queste parti,' risposi
+nella medesima lingua, ‘il distretto è stato molto turbato.
+Una rivoluzione, come sapete, è stata di recente soffocata.
+Qualunque ulteriore costruzione--'
+
+«‘Oh! non intendo questo,' esclamò; ‘intendo una vera [[house|casa]]--una [[house|casa]] viva.
+È proprio una [[house|casa]] viva, perché scappa via da me.'
+
+«‘Mi vergogno di dirlo, ma qualcosa nella sua frase o nel suo gesto
+mi commosse profondamente. Noi Russi siamo cresciuti in un'atmosfera
+di folclore, e i suoi sfortunati effetti si possono ancora scorgere
+nei colori vivaci delle bambole dei bambini e delle icone.
+Per un istante l'idea di una casa che scappa via da un uomo mi diede
+piacere, poiché l'illuminazione dell'uomo procede lenta.
+
+«‘Non avete nessun'altra [[house|casa]] vostra?' domandai.
+
+«‘L'ho lasciata,' disse assai tristemente. ‘Non era la [[house|casa]] a essere divenuta scialba,
+ma io a divenire scialbo in essa. Mia moglie era migliore di tutte le donne, eppure io
+non riuscivo a sentirlo.'
+
+«‘E così,' dissi con simpatia, ‘siete uscito dritto dalla porta d'ingresso,
+come una Nora al maschile.'
+
+«‘Nora?' s'informò cortesemente, supponendola a quanto pare una parola russa.
+
+«‘Intendo Nora in "Casa di [[house|bambola]],"' replicai.
+
+«A questo parve oltremodo stupito, e capii che era un Inglese;
+perché gli Inglesi credono sempre che i Russi non studino altro che ‘ukaz.'
+
+«‘"Casa di [[house|bambola]]"?' esclamò con veemenza; ‘ma è proprio lì che Ibsen
+sbagliava di grosso! Perché, lo scopo intero di una casa è di essere una casa di bambola.
+Non ricordate, quando eravate bambino, come quelle piccole finestre
+ERANO finestre, mentre le grandi finestre non lo erano? Un bambino ha una casa di bambola,
+e strilla quando una porta d'ingresso si apre verso l'interno. Un banchiere ha una casa vera,
+eppure quanto numerosi sono i banchieri che non riescono a emettere il più flebile strillo
+quando le loro vere porte d'ingresso si aprono verso l'interno.'
+
+«Qualcosa del folclore della mia infanzia mi tratteneva ancora in uno sciocco silenzio;
+e prima che potessi parlare, l'Inglese si era chinato e stava dicendo
+in una sorta di forte sussurro: ‘Ho scoperto come rendere piccola una cosa grande.
+Ho scoperto come mutare una [[house|casa]] in una casa di bambola. Allontanatevene
+di molto: Dio ci concede di mutare ogni cosa in giocattolo col suo grande dono
+della distanza. Lasciate che veda una volta la mia vecchia [[house|casa]] di mattoni ergersi ben
+piccola contro l'orizzonte, e vorrò tornarvi di nuovo.
+Vedrò il buffo lampioncino giocattolo dipinto di verde contro il cancello,
+e tutta la cara gente minuta simile a bambole affacciata alla [[Window|finestra]].
+Perché le finestre si aprono davvero nella mia casa di bambola.'
+
+«‘Ma perché,' domandai, ‘dovreste desiderare di tornare a quella particolare
+casa di bambola? Avendo compiuto, come Nora, l'audace passo contro le convenzioni,
+essendovi reso disonorevole nel senso convenzionale, avendo osato
+essere libero, perché non dovreste approfittare della vostra [[Freedom|libertà]]?
+Come i massimi scrittori moderni hanno rilevato, ciò che chiamavate il vostro
+[[Marriage|matrimonio]] era soltanto il vostro umore. Avete il diritto di lasciarvelo tutto alle spalle,
+come i ritagli dei vostri capelli o i frammenti delle vostre unghie.
+Una volta fuggito, avete il mondo dinanzi a voi. Per quanto le parole
+possano parervi strane, siete libero in [[Russia]].'
+
+«Sedeva con gli occhi sognanti sui cerchi oscuri delle pianure,
+dove l'unica cosa in movimento era la lunga e faticosa scia di fumo
+della locomotiva, di tinta violacea, di profilo vulcanico,
+l'unica nube calda e greve di quella fredda sera limpida d'un verde pallido.
 
 
 
@@ -15345,6 +16632,130 @@ yet his look was very gentle.
 
 "‘Break your temple,' he said, ‘and your gods will be freed.'
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+"‘Sì,' disse con un enorme sospiro, ‘io sono libero in [[Russia]]. Avete ragione.
+Potrei davvero incamminarmi verso quella città laggiù e ricominciare da capo con l'[[Love|amore]],
+e forse sposare qualche bella donna e ricominciare tutto, e nessuno
+potrebbe mai ritrovarmi. Sì, di certo mi avete convinto di qualcosa.'
+
+"Il suo tono era così strano e mistico che mi sentii spinto a chiedergli
+che cosa intendesse, e di che cosa esattamente lo avessi convinto.
+
+"‘Mi avete convinto,' disse con quello stesso occhio sognante,
+‘del perché sia davvero malvagio e pericoloso per un uomo fuggire
+dalla propria moglie.'
+
+"‘E perché è pericoloso?' domandai.
+
+"‘Ma perché nessuno può ritrovarlo,' rispose quello strano individuo,
+‘e tutti noi desideriamo essere ritrovati.'
+
+"‘I più originali pensatori moderni,' osservai,
+‘Ibsen, Gorki, Nietzsche, Shaw, direbbero piuttosto che ciò che
+più desideriamo è perderci: ritrovarci su sentieri mai calcati,
+e compiere cose senza precedenti: rompere col passato e appartenere
+al futuro.'
+
+"Si levò in tutta la sua statura in modo un po' sonnolento, e volse lo sguardo
+su quella che era, lo confesso, una scena piuttosto desolata: le pianure di un cupo violetto,
+la ferrovia abbandonata, i pochi laceri capannelli di malcontenti.
+‘Non troverò la [[house|casa]] qui,' disse. ‘È ancora più a oriente...
+sempre più e più a oriente.'
+
+"Poi si volse verso di me con qualcosa di simile alla furia, e battè il piede
+del suo palo sulla terra gelata.
+
+"‘E se davvero torno al mio paese,' gridò, ‘potrei essere rinchiuso in un
+manicomio prima di raggiungere la mia stessa casa. Sono stato un po' anticonformista
+ai miei tempi! Ma vedete, Nietzsche stava impettito in fila come una bacchetta nel vecchio, sciocco
+esercito prussiano, e Shaw sorseggia bevande temperanti in periferia;
+ma le cose che faccio io sono cose senza precedenti. Questa strada circolare che
+sto percorrendo è un sentiero mai calcato. Io credo davvero nell'evadere;
+sono un rivoluzionario. Ma non capite che tutti questi veri salti
+e distruzioni e fughe non sono altro che tentativi di tornare all'Eden...
+a qualcosa che abbiamo avuto, a qualcosa di cui almeno abbiamo sentito parlare?
+Non capite che si scavalca la staccionata o si punta alla luna soltanto
+per tornare a CASA?'
+
+"‘No,' risposi dopo la dovuta riflessione, ‘non credo che potrei accettarlo.'
+
+"‘Ah,' disse con una sorta di sospiro, ‘allora mi avete spiegato una seconda
+cosa.'
+
+"‘Che cosa intendete?' chiesi; ‘quale cosa?'
+
+"‘Ma perché la vostra rivoluzione è fallita,' disse; e attraversando del tutto
+d'improvviso verso il treno vi salì proprio mentre finalmente si allontanava sbuffando.
+E mentre vedevo la lunga coda serpentina di esso sparire lungo le pianure che si oscuravano.
+
+"Non lo vidi più. Ma per quanto le sue idee fossero contrarie al miglior
+pensiero avanzato, mi colpì come una persona interessante: mi
+piacerebbe scoprire se ha prodotto qualche opera letteraria. --Vostro, ecc.,
+
+"Paul Nickolaiovitch."
+
+C'era qualcosa in questa strana serie di scorci su vite straniere che tenne
+l'assurdo tribunale più tranquillo di quanto fosse stato finora, e fu di nuovo
+senza interruzioni che Inglewood aprì un altro foglio dalla sua pila.
+"La [[Court|Corte]] sarà indulgente," disse, "se la prossima nota difetta delle particolari
+cerimonie del nostro modo di scrivere lettere. È abbastanza cerimoniosa a modo suo:--
+
+"I Principi Celesti sono permanenti: Salute.--Io sono Wong-Hi,
+e custodisco il tempio di tutti gli antenati della mia famiglia nella foresta
+di Fu. L'uomo che sfondò il cielo e venne da me disse che
+doveva essere ben tedioso, ma io gli mostrai l'errore del suo pensiero.
+Io sto invero in un solo luogo, poiché mio zio mi condusse a questo
+tempio quand'ero fanciullo, e in esso senza dubbio morirò.
+Ma se un uomo rimane in un solo luogo vedrà che quel luogo muta.
+La pagoda del mio tempio si erge silenziosa al di sopra di tutti gli alberi,
+come una pagoda gialla sopra molte pagode verdi. Ma i cieli
+sono a volte azzurri come la porcellana, e a volte verdi come la giada,
+e a volte rossi come il granato. Ma la [[Night|notte]] è sempre d'ebano
+e sempre ritorna, disse l'Imperatore Ho.
+
+"Colui che sfonda il cielo venne di sera all'improvviso, poiché avevo appena
+scorto un fremito nelle cime dei verdi alberi su cui volgo lo sguardo
+come su un mare, quando salgo in cima al tempio al mattino.
+Eppure quando venne, fu come se un elefante si fosse smarrito
+dagli eserciti dei grandi re dell'India. Poiché le palme si spezzarono,
+e i bambù si ruppero, e apparve nel sole dinanzi
+al tempio uno più alto dei figli degli uomini.
+
+"Strisce rosse e bianche gli pendevano addosso come nastri di un carnevale,
+e portava un palo con una fila di denti come i denti di un drago.
+Il suo volto era bianco e sconvolto, alla maniera degli stranieri,
+sicché somigliano a morti pieni di demoni; e parlava
+la nostra lingua in modo stentato.
+
+"Mi disse: ‘Questo è soltanto un tempio; io sto cercando una casa.'
+E poi mi raccontò con sconveniente fretta che la lampada fuori dalla sua casa
+era verde, e che c'era un palo rosso all'angolo di essa.
+
+"‘Non ho visto la vostra [[house|casa]] né alcuna casa,' risposi.
+‘Io dimoro in questo tempio e servo gli dèi.'
+
+"‘Credete negli dèi?' chiese con la fame negli occhi,
+come la fame dei [[dogs|cani]]. E questa mi parve una strana domanda
+da porre, poiché che cosa dovrebbe fare un uomo se non ciò che gli uomini hanno fatto?
+
+"‘Mio Signore,' dissi, ‘dev'essere bene per gli uomini levare le mani anche
+se i cieli sono vuoti. Poiché se vi sono dèi, ne saranno compiaciuti,
+e se non ve ne sono, allora non ve n'è alcuno da scontentare.
+A volte i cieli sono d'oro e a volte di porfido e a volte
+d'ebano, ma gli alberi e il tempio restano immobili sotto tutto ciò.
+Così il grande Confucio ci insegnò che se facciamo sempre le stesse cose
+con le mani e coi piedi come fanno le sagge bestie e gli [[Birds|uccelli]], con la
+testa possiamo pensare molte cose: sì, mio Signore, e [[Doubt|dubitare]] di molte cose.
+Finché gli uomini offrono riso nella giusta stagione, e accendono lanterne
+nell'ora giusta, poco importa se vi siano dèi o no.
+Poiché queste cose non servono a placare gli dèi, ma a placare gli uomini.'
+
+"Si fece ancora più vicino a me, sicché parve enorme;
+eppure il suo sguardo era assai gentile.
+
+"‘Spezza il tuo tempio,' disse, ‘e i tuoi dèi saranno liberati.'
 
 
 
@@ -15659,6 +17070,137 @@ to convince the tribunal but to convince each other, still sat round
 the table like the Committee of Public Safety.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+"Poi lentamente distolse gli occhi da tutto ciò e guardò verso oriente,
+dove la [[Road|strada]] digradava sotto di noi. Il cielo del tramonto era una volta
+di ricco velluto, che sfumava nel malva e nell'argento intorno ai bordi
+del cupo anfiteatro di montagne; e fra noi e il burrone sottostante
+[[Rose|si levava]] dagli abissi e saliva verso le altezze la roccia diritta e
+solitaria che chiamiamo Dito Verde. Di uno strano colore vulcanico,
+e tutta corrugata da quella che pare una scrittura indecifrabile,
+se ne stava sospesa lassù come un pilastro o un ago babilonese.
+
+"L'uomo tese in silenzio il suo rastrello in quella direzione,
+e prima ancora che parlasse capii cosa intendeva. Oltre la grande roccia
+verde, nel cielo purpureo, pendeva una sola stella.
+
+"«Una stella a oriente», disse con una strana voce roca simile a quella
+di una delle nostre antiche aquile. «I re magi seguirono la stella e trovarono
+la [[house|casa]]. Ma se io seguissi la stella, troverei la [[house|casa]]?»
+
+"«Dipende forse», dissi sorridendo, «dal fatto che tu sia o meno un saggio».
+Mi trattenni dall'aggiungere che di certo non ne aveva l'aspetto.
+
+"«Puoi giudicare da te», rispose. «Sono un uomo che ha lasciato la propria
+[[house|casa]] perché non sopportava più di starne lontano».
+
+"«Suona certamente paradossale», dissi.
+
+"«Udivo mia moglie e i miei figli parlare e li vedevo muoversi
+per la stanza», proseguì, «e per tutto quel tempo sapevo
+che camminavano e parlavano in un'altra casa lontana migliaia
+di miglia, sotto la luce di cieli diversi, e al di là
+della sequenza dei mari. Li amavo di un amore divorante,
+perché mi parevano non solo distanti ma irraggiungibili.
+Mai creature umane mi parvero così care e così desiderabili:
+ma io ero come un freddo fantasma; perciò scossi via
+la loro polvere dai miei piedi in testimonianza. Anzi, feci di più.
+Spinsi via il mondo sotto i miei piedi finché non girò
+tutt'intorno come una ruota da mulino».
+
+"«Vuoi davvero dire», esclamai, «che hai fatto tutto il giro del mondo?
+Il tuo modo di parlare è inglese, eppure vieni da occidente».
+
+"«Il mio pellegrinaggio non è ancora compiuto», rispose tristemente.
+«Sono diventato un pellegrino per guarire dall'essere un esule».
+
+"Qualcosa nella parola «[[Pilgrim|pellegrino]]» risvegliò giù nelle radici
+della mia rovinosa esperienza i ricordi di ciò che i miei padri avevano
+sentito riguardo al mondo, e di qualcosa da cui io stesso provenivo.
+Guardai di nuovo la piccola lanterna istoriata che non
+guardavo da quattordici anni.
+
+"«Mia nonna», dissi a voce bassa, «avrebbe detto che eravamo
+tutti in [[Exile|esilio]], e che nessuna [[house|casa]] terrena poteva guarire la santa
+nostalgia di [[Home|casa]] che ci vieta ogni riposo».
+
+"Rimase in silenzio a lungo, e osservò una sola aquila allontanarsi
+oltre il Dito Verde nel vuoto che si oscurava.
+
+"Poi disse: «Credo che tua nonna avesse ragione», e si alzò
+appoggiandosi al suo palo erboso. «Credo che debba essere questa la ragione»,
+disse, «il segreto di questa vita dell'uomo, così estatica e così inappagata.
+Ma credo che ci sia dell'altro da dire. Credo che Dio ci abbia dato
+l'amore per i luoghi speciali, per un focolare e per una terra natia,
+per una buona ragione».
+
+"«Può darsi», dissi. «Quale ragione?»
+
+"«Perché altrimenti», disse, indicando col palo il cielo e l'abisso,
+«potremmo adorare quello».
+
+"«Che cosa vuoi dire?», domandai.
+
+"«L'eternità», disse con la sua voce aspra, «il più grande degli idoli,
+il più possente dei rivali di Dio».
+
+"«Vuoi dire il panteismo e l'infinito e tutto il resto», suggerii.
+
+"«Voglio dire», disse con crescente veemenza, «che se c'è una casa
+per me in cielo, o avrà un lampione verde e una siepe,
+oppure qualcosa di altrettanto concreto e personale quanto un lampione verde
+e una siepe. Voglio dire che Dio mi ha comandato di amare un solo luogo e di servirlo,
+e di compiere ogni cosa, per quanto folle, in sua lode, cosicché questo unico luogo
+possa essere una testimonianza contro tutte le infinità e i sofismi,
+che il Paradiso è in qualche luogo e non ovunque, è qualcosa e non una cosa qualunque.
+E non mi stupirei poi molto se la casa in cielo avesse
+davvero un vero lampione verde dopotutto».
+
+"Con ciò si caricò il palo in spalla e discese a grandi passi
+i sentieri pericolosi in basso, e mi lasciò solo con le aquile.
+Ma da quando se n'è andato una febbre di sradicamento spesso mi scuote.
+Mi turbano prati piovosi e capanne di fango che non ho
+mai visto; e mi domando se l'America durerà.--
+Vostro devotissimo, Louis Hara."
+
+Dopo un breve silenzio Inglewood disse: "E, infine, desideriamo
+presentare come prova il seguente documento:--
+
+"Con la presente dichiaro di essere Ruth Davis, e di essere stata cameriera
+della signora I. Smith a «The Laurels» a Croydon negli ultimi sei mesi.
+Quando arrivai la signora era [[Alone|sola]], con due bambini; non era vedova,
+ma il marito era via. Le era stato lasciato denaro in abbondanza e non
+sembrava in pena per lui, benché sperasse spesso che tornasse presto.
+Diceva che era piuttosto eccentrico e che un po' di svago gli faceva bene.
+Una sera della scorsa settimana stavo portando il servizio da tè sul prato
+quando per poco non lo lasciai cadere. L'estremità di un lungo rastrello si
+conficcò all'improvviso oltre la siepe, piantata come un palo per il salto;
+e oltre la siepe, proprio come una scimmia su un bastone,
+arrivò un uomo enorme e orribile, tutto peloso
+e cencioso come Robinson Crusoe. Cacciai un urlo, ma la mia padrona non
+si alzò nemmeno dalla sedia, e sorridendo disse che aveva bisogno di farsi la barba.
+Poi lui si sedette tranquillissimo al tavolo del [[Garden|giardino]] e prese una tazza
+di tè, e allora capii che quello doveva essere il signor [[smith|Smith]] in persona.
+Da allora è rimasto qui e in verità non dà molto fastidio,
+benché a volte mi venga il sospetto che sia un po' debole di testa.
+
+"Ruth Davis.
+
+"P.S.--Dimenticavo di dire che si guardò intorno nel [[Garden|giardino]] e disse,
+molto forte e a voce alta: «Oh, che posto delizioso avete;»
+proprio come se non l'avesse mai visto prima."
+
+La stanza si era andata facendo buia e sonnolenta; il sole del pomeriggio
+lanciava attraverso di essa un pesante fascio d'oro polverizzato, che cadeva con
+un'intangibile solennità sul seggio vuoto di Mary Gray, poiché le donne più giovani
+avevano lasciato la corte prima delle più recenti indagini.
+La signora Duke dormiva ancora, e Innocent Smith, simile a un grande
+gobbo nella penombra, si chinava sempre più vicino ai suoi giocattoli di carta.
+Ma i cinque uomini davvero impegnati nella controversia, e desiderosi non
+di convincere il tribunale ma di convincersi a vicenda, sedevano ancora intorno
+al tavolo come il Comitato di Salute Pubblica.
+
 
 
 <span class="atom-split" data-atom="chapter_09--part_07" data-title="Manalive — Chapter 3 (part 7)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="motif/well,concept/conscience,concept/doubt"></span>
@@ -15759,6 +17301,104 @@ and scientific manner."
 Nothing but a faint groan from Michael broke the silence
 of the darkening room.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+D'un tratto Moses Gould sbatté un grosso libro scientifico
+sopra un altro, puntò le gambette contro il tavolo, inclinò
+la sedia all'indietro fino a rischiare seriamente di rovesciarsi,
+emise un fischio sorprendente e prolungato come una locomotiva
+a vapore, e dichiarò che erano tutte fandonie.
+
+Quando Moon gli chiese che cosa fossero le fandonie, lui si
+rituffò dietro i libri e rispose con notevole eccitazione,
+spargendo in giro le sue carte.  «Tutte quelle favole che siete
+stati a leggerci», disse.  «Oh! non venite a raccontarle a me!
+Non sarò un letterato e via dicendo, ma le favole le riconosco
+quando le sento.  Su certi passaggi filosofici mi sono un po'
+impantanato e mi veniva voglia di uscire a farmi un brandy e soda.
+Ma abitiamo a West 'Ampstead, mica all'Inferno; e il nocciolo
+della faccenda è che certe cose succedono e certe cose non succedono.
+Quelle lì sono le cose che non succedono.»
+
+«Credevo», disse Moon con gravità, «che avessimo spiegato molto chiaramente...»
+
+«Oh sì, vecchio mio, avete spiegato molto chiaramente», assentì
+il signor Gould con straordinaria loquacità.  «Voi spieghereste
+via anche un elefante dallo zerbino di casa, ecco cosa fareste.
+Non sono uno in gamba come voi; ma non sono neanche uno scemo
+nato, Michael Moon, e quando c'è un elefante sul mio zerbino
+non sto a sentire nessuna spiegazione.  ‘Ha una proboscide,' dico io.
+--‘La mia proboscide,' dite voi: ‘Mi piace viaggiare, e un po'
+di cambiamento mi fa bene.'--‘Ma quel maledetto affare ha le zanne,'
+dico io.--‘A caval donato non si guarda in bocca,' dite voi,
+‘ma ringrazia la bontà e la grazia che sulla tua nascita hanno sorriso.'
+--‘Ma è grande quasi quanto la casa,' dico io.--‘Quella è la
+maledetta prospettiva,' dite voi, ‘e la sacra [[Magic|magia]] della distanza.'
+--‘Ma insomma, l'elefante barrisce come il Giorno del Giudizio,'
+dico io.--‘È la tua [[Conscience|coscienza]] che ti parla, Moses Gould,'
+dite voi con voce grave e tenera.  [[Well|Beh]], ce l'ho una [[Conscience|coscienza]]
+anch'io, quanto voi.  Non credo alla maggior parte delle cose
+che ti raccontano in chiesa la domenica; e non credo di più
+a queste cose qui solo perché voi ci ricamate sopra come se
+foste in chiesa.  Io credo che un elefante sia un bestione grande,
+brutto e pericoloso--e credo che [[smith|Smith]] sia un altro.»
+
+«Vuoi dire», chiese Inglewood, «che [[Doubt|dubiti]] ancora delle prove
+a discarico che abbiamo portato?»
+
+«Sì, che le [[Doubt|dubito]] ancora», disse Gould con calore.  «È tutto
+un po' troppo tirato per i capelli, e certe cose un po' troppo lontane.
+Come facciamo a verificare tutte quelle storie?  Come facciamo
+a fare un salto a comprare il ‘Pink 'Un' alla stazione di Kosky
+Wosky o come diavolo si chiamava?  Come facciamo ad andare a farci
+una bevuta al bar in cima ai Monti della Sierra?  Ma chiunque può
+andare a vedersi la pensione di Bunting a Worthing.»
+
+Moon lo osservò con un'espressione di sorpresa reale o simulata.
+
+«Chiunque», proseguì Gould, «può andare a trovare il signor Trip.»
+
+«È un pensiero consolante», replicò Michael con contegno;
+«ma perché mai qualcuno dovrebbe andare a trovare il signor Trip?»
+
+«Esattamente per la stessa ragione», gridò l'eccitato Moses,
+martellando il tavolo con entrambe le mani, «esattamente per la
+stessa ragione per cui dovrebbe mettersi in contatto con gli egregi
+signori 'Anbury e Bootle di Paternoster Row e con l'Accademia di gran
+classe della signorina Gridley a 'Endon, e con la vecchia Lady
+Bullingdon che abita a Penge.»
+
+«Di nuovo, per andare subito alle radici morali della vita», disse Michael,
+«perché mai rientra tra i doveri dell'uomo mettersi in contatto con
+la vecchia Lady Bullingdon che abita a Penge?»
+
+«Non rientra tra i doveri dell'uomo», disse Gould, «e nemmeno tra i suoi piaceri,
+questo te lo garantisco.  È il colmo, la Lady Bullingdon di Penge.
+Ma rientra tra i doveri di un accusatore che dà la caccia all'innocente,
+immacolata carriera da farfalla del vostro amico Smith,
+ed è lo stesso con tutti gli altri che ho nominato.»
+
+«Ma perché tiri in ballo questa gente qui?» chiese Inglewood.
+
+«Perché!  Perché abbiamo prove abbastanza da affondare un piroscafo»,
+ruggì Moses; «perché ho le carte proprio qui in mano;
+perché il vostro prezioso Innocent è un mascalzone e un distruttore
+di focolari, e questi sono i focolari che ha distrutto.  Non faccio il santarello;
+ma non me le vorrei sulla coscienza tutte quelle povere ragazze per niente al mondo.
+E penso che un tipo capace di abbandonarle e magari di ammazzarle
+tutte sia più o meno capace di svaligiare una casa o di sparare
+a un vecchio maestro di scuola--così degli altri raccontini
+non m'importa granché, in un senso o nell'altro.»
+
+«Io credo», disse il dottor Cyrus Pym con un tossicchio raffinato,
+«che stiamo affrontando la questione in modo piuttosto irregolare.
+Questa è in realtà la quarta imputazione del capo d'accusa,
+e forse è meglio che ve la esponga in maniera ordinata
+e scientifica.»
+
+Nient'altro che un debole gemito di Michael ruppe il silenzio
+della stanza che si andava oscurando.
 
 
 

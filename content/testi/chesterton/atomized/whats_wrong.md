@@ -6406,6 +6406,123 @@ and the upshot of the title can be easily and clearly stated.
 What is wrong is that we do not ask what is right.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+PARTE PRIMA
+
+LA MANCANZA DI CASA DELL'UOMO
+
+* * *
+
+L'ERRORE MEDICO
+
+Un libro di moderna indagine sociale ha una forma alquanto
+nettamente definita. Comincia di regola con un'analisi, con statistiche,
+tavole della popolazione, decremento del crimine tra i congregazionalisti,
+crescita dell'isteria tra i poliziotti, e simili fatti accertati;
+si conclude con un capitolo che generalmente si intitola «Il Rimedio». È
+quasi interamente per merito di questo metodo attento, solido e scientifico
+che «Il Rimedio» non viene mai trovato. Poiché questo schema di domanda
+e risposta medica è un abbaglio; il primo grande abbaglio della sociologia.
+Lo si chiama sempre enunciare la malattia prima di trovare la cura.
+Ma è l'intera definizione e dignità dell'uomo che nelle questioni
+sociali dobbiamo in realtà trovare la cura prima di trovare la malattia.
+
+La fallacia è una delle cinquanta fallacie che provengono dalla moderna
+[[Madness|follia]] per le metafore biologiche o corporee. È comodo
+parlare dell'Organismo Sociale, così come è comodo
+parlare del [[Lion]] britannico. Ma la Gran Bretagna non è un organismo
+più di quanto la Gran Bretagna sia un [[Lion|leone]]. Nell'attimo in cui cominciamo a dare a una nazione
+l'[[unity]] unità e la semplicità di un animale, cominciamo a pensare stravagantemente.
+Poiché ogni uomo è un bipede, cinquanta uomini non sono un centopiedi.
+Questo ha prodotto, per esempio, l'assurdità sbadigliante del
+parlare perpetuamente di «giovani nazioni» e «nazioni morenti»,
+come se una nazione avesse un arco di vita fisso e fisico.
+Così la gente dirà che la Spagna è entrata in una senilità finale;
+tanto varrebbe [[Well|dire]] che la Spagna sta perdendo tutti i denti.
+Oppure la gente dirà che il Canada dovrebbe presto produrre una letteratura;
+il che equivale a dire che al Canada deve presto crescere un nuovo paio di baffi.
+Le nazioni consistono di persone; la prima generazione può
+essere decrepita, o la decimillesima può essere vigorosa.
+Simili applicazioni della fallacia sono fatte da coloro che vedono
+nella crescente estensione dei possedimenti nazionali un semplice
+incremento di saggezza e di statura, e di favore presso Dio e presso gli uomini.
+Costoro, invero, restano perfino al di sotto, in sottigliezza, del parallelo
+di un [[Body|corpo]] umano. Non si chiedono neppure se un impero stia diventando
+più alto nella sua giovinezza, o stia solo diventando più grasso nella sua vecchiaia.
+Ma di tutti gli esempi di errore che sorgono da questa
+fantasticheria fisica, il peggiore è quello che abbiamo davanti:
+l'abitudine di descrivere esaurientemente una malattia sociale,
+e poi di propinare un farmaco sociale.
+
+Ora, noi parliamo bensì per prima cosa della malattia nei casi di collasso corporeo;
+e ciò per un'eccellente ragione. Perché, sebbene possa esservi [[Doubt|dubbio]]
+sul modo in cui il [[Body|corpo]] è crollato, non vi è [[Doubt|dubbio]] alcuno
+sulla forma in cui esso dovrebbe essere ricostruito. Nessun medico si propone
+di produrre un nuovo tipo d'uomo, con una nuova disposizione di occhi o di membra.
+L'ospedale, per necessità, può rimandare un uomo a [[Home|casa]] con una gamba di meno:
+ma non lo rimanderà (in un rapimento creativo) a [[Home|casa]] con una gamba in più.
+La scienza medica si accontenta del normale [[Body|corpo]] umano, e cerca soltanto
+di ripristinarlo.
+
+Ma la scienza sociale non si accontenta affatto sempre della normale
+[[Soul|anima]] umana; ha ogni sorta di anime di fantasia in vendita. L'uomo come
+idealista sociale dirà «Sono stanco di essere un puritano; voglio
+essere un pagano», oppure «Al di là di questa oscura prova dell'[[Individualism]] individualismo io
+scorgo lo splendente paradiso del collettivismo». Ora nei mali corporei
+non c'è nulla di questa divergenza sull'ideale ultimo.
+Il paziente può volere o non volere il chinino; ma di certo
+vuole la salute. Nessuno dice «Sono stanco di questo mal di testa;
+voglio un po' di mal di denti», oppure «L'unica cosa per questa influenza
+russa è qualche morbillo tedesco», oppure «Attraverso questa oscura
+prova del catarro io scorgo lo splendente paradiso del reumatismo».
+Ma proprio l'intera difficoltà nei nostri problemi pubblici
+è che alcuni uomini mirano a cure che altri uomini
+considererebbero mali peggiori; offrono condizioni ultime
+come stati di salute che altri, senza compromessi,
+chiamerebbero stati di malattia. Il signor Belloc disse una volta che non si
+separerebbe dall'idea della proprietà più di quanto si separerebbe dai suoi denti;
+eppure per il signor Bernard [[Shaw]] la proprietà non è un dente, ma un mal di denti.
+Lord Milner ha sinceramente tentato di introdurre l'efficienza tedesca;
+e molti di noi darebbero volentieri il benvenuto al morbillo tedesco.
+Il dottor Saleeby vorrebbe onestamente avere l'[[Eugenics]] eugenetica; ma io preferirei
+avere i reumatismi.
+
+Questo è il fatto arrestante e dominante della moderna
+discussione sociale; che la lite non riguarda meramente
+le difficoltà, ma il fine. Concordiamo sul male;
+è sul bene che ci caveremmo gli occhi a vicenda.
+Ammettiamo tutti che un'aristocrazia pigra sia una cosa cattiva.
+Non ammetteremmo affatto tutti che un'aristocrazia attiva sarebbe
+una cosa buona. Ci sentiamo tutti adirati con un clero irreligioso;
+ma alcuni di noi impazzirebbero di disgusto davanti a uno davvero religioso.
+Chiunque è indignato se il nostro esercito è debole, comprese le persone
+che sarebbero ancora più indignate se fosse forte.
+Il caso sociale è esattamente l'opposto del caso medico.
+Non siamo in disaccordo, come i medici, sulla precisa [[Nature|natura]]
+della malattia, pur concordando sulla [[Nature|natura]] della salute.
+Al contrario, concordiamo tutti che l'Inghilterra sia malsana, ma metà
+di noi non la guarderebbe in quella che l'altra metà chiamerebbe florida
+salute. Gli abusi pubblici sono così cospicui e pestilenziali che
+travolgono tutte le persone generose in una sorta di unanimità fittizia.
+Dimentichiamo che, mentre concordiamo sugli abusi delle cose,
+differiremmo assai sugli usi di esse.
+Il signor Cadbury e io concorderemmo sulla cattiva [[house]] osteria.
+Sarebbe proprio davanti alla buona [[house]] osteria che si verificherebbe
+la nostra penosa zuffa personale.
+
+Sostengo, perciò, che il comune metodo sociologico
+è del tutto inutile: quello di sezionare per primo l'abietta [[Poverty|povertà]]
+o di catalogare la prostituzione. A tutti spiace l'abietta [[Poverty|povertà]];
+ma potrebbe essere un altro paio di maniche se cominciassimo a discutere di una [[Poverty|povertà]]
+indipendente e dignitosa. Disapproviamo tutti la prostituzione;
+ma non approviamo tutti la purezza. L'unico modo per discutere
+del male sociale è arrivare subito all'ideale sociale.
+Possiamo tutti vedere la [[Madness|follia]] nazionale; ma che cos'è la [[Sanity|sanità mentale]] nazionale?
+Ho intitolato questo libro «Che cosa c'è di storto nel mondo?»
+e la conclusione del titolo può essere enunciata con facilità e chiarezza.
+Ciò che è storto è che non chiediamo che cosa sia giusto.
+
 
 
 <span class="atom-split" data-atom="chapter_05--part_02" data-title="whats wrong — Part 1 (part 2)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="motif/machine,motif/poison,motif/ship,motif/supernatural,motif/time,setting/ship"></span>
@@ -6523,6 +6640,119 @@ If he only likes victory he must always come late for the battle.
 For the man of action there is nothing but idealism.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+* * *
+
+II
+
+CERCASI UN UOMO NON PRATICO
+
+C'è una popolare facezia filosofica intesa a tipizzare
+gli interminabili e inutili ragionamenti dei filosofi; alludo
+alla facezia su chi sia venuto prima, la gallina o l'uovo.
+Non sono sicuro che, propriamente intesa, sia poi un'indagine
+tanto futile, dopotutto. Non mi preme qui addentrarmi in quelle profonde
+differenze metafisiche e teologiche di cui il [[debate]] dibattito
+sulla gallina e l'uovo è un tipo frivolo, ma assai felice.
+I materialisti evoluzionisti sono opportunamente rappresentati
+nella visione di tutte le cose provenienti da un uovo,
+un germe ovale, fosco e mostruoso, che si era deposto da sé per caso.
+Quell'altra scuola di pensiero [[Supernatural|soprannaturale]] (alla quale io
+personalmente aderisco) sarebbe non indegnamente tipizzata nella fantasia
+che questo nostro mondo rotondo non sia che un uovo covato
+da un sacro e ingenerato uccello; la mistica colomba dei profeti.
+Ma è a funzioni assai più umili che qui chiamo il tremendo
+potere di una simile distinzione. Che l'uccello vivente
+sia o no all'inizio della nostra catena mentale, è assolutamente
+necessario che sia alla fine della nostra catena mentale.
+L'uccello è la cosa a cui mirare, non con un fucile, ma con una
+bacchetta datrice di vita. Ciò che è essenziale al nostro retto pensare è questo:
+che l'uovo e l'uccello non debbono essere pensati come uguali eventi cosmici
+ricorrenti alternativamente in eterno. Non debbono divenire
+un mero motivo a uovo e uccello, come il motivo a uovo e dardo. L'uno è
+un mezzo e l'altro un fine; sono in mondi mentali diversi.
+Lasciando fuori conto le complicazioni della tavola della colazione
+umana, in senso elementare, l'uovo esiste soltanto per produrre
+il pulcino. Ma il pulcino non esiste soltanto al fine
+di produrre un altro uovo. Può anche esistere per divertirsi,
+per lodare Dio, e perfino per suggerire idee a un drammaturgo francese.
+Essendo una vita cosciente, egli è, o può essere, prezioso in sé.
+Ora la nostra politica moderna è piena di una rumorosa dimenticanza;
+la dimenticanza che la produzione di questa felice e cosciente
+vita è dopotutto il fine di tutte le complessità e i compromessi.
+Non parliamo d'altro che di uomini utili e istituzioni funzionanti; cioè,
+pensiamo ai pulcini soltanto come cose che deporranno più uova.
+Invece di cercare di allevare il nostro uccello ideale, l'aquila
+di Zeus o il Cigno dell'Avon, o qualunque cosa ci capiti di volere,
+parliamo interamente in termini di processo e di embrione.
+Il processo stesso, divorziato dal suo oggetto divino, diviene dubbioso
+e perfino morboso; il [[Poison|veleno]] entra nell'embrione di ogni cosa;
+e la nostra politica è fatta di uova marce.
+
+L'idealismo non è che considerare ogni cosa nella sua essenza pratica.
+L'idealismo significa soltanto che dovremmo considerare un attizzatoio in riferimento
+all'attizzare prima di discuterne l'idoneità a picchiare la moglie;
+che dovremmo chiederci se un uovo sia abbastanza buono per il pratico
+allevamento del pollame prima di decidere che l'uovo sia abbastanza cattivo
+per la politica pratica. Ma so che questa primaria ricerca
+della teoria (che non è che ricerca del fine) espone
+alla dozzinale accusa di suonare il violino mentre Roma brucia.
+Una scuola, di cui Lord Rosebery è rappresentante, si è adoperata
+per sostituire agli ideali morali o sociali che finora
+sono stati il movente della politica una generale coerenza o completezza
+nel sistema sociale, che ha guadagnato il soprannome di «efficienza».
+Non sono molto certo della dottrina segreta di questa setta in proposito.
+Ma, per quel che riesco a capire, «efficienza» significa che dovremmo
+scoprire ogni cosa di una [[Machine|macchina]] tranne a che cosa serva.
+È sorta nel nostro [[Time|tempo]] una fantasticheria assai singolare:
+la fantasticheria che quando le cose vanno molto storte ci occorre un uomo pratico.
+Sarebbe assai più vero dire che quando le cose vanno molto storte ci
+occorre un uomo non pratico. Certamente, almeno, ci occorre un teorico.
+Un uomo pratico significa un uomo avvezzo alla mera pratica quotidiana,
+al modo in cui le cose comunemente funzionano. Quando le cose non funzionano,
+occorre il pensatore, l'uomo che ha una qualche dottrina sul perché
+esse funzionino affatto. È sbagliato suonare il violino mentre Roma brucia;
+ma è del tutto giusto studiare la teoria dell'idraulica mentre
+Roma brucia.
+
+È allora necessario deporre il proprio agnosticismo quotidiano
+e tentare il rerum cognoscere causas. Se il vostro aeroplano
+ha una lieve indisposizione, un uomo ingegnoso può ripararlo.
+Ma, se è gravemente malato, è tanto più probabile che qualche
+vecchio professore distratto, dai selvaggi capelli bianchi, debba essere
+trascinato fuori da un collegio o da un laboratorio per analizzare il male.
+Più complicato è lo sfacelo, più canuto e più
+distratto sarà il teorico che occorre per farvi fronte;
+e in qualche caso estremo, nessuno tranne l'uomo (probabilmente pazzo)
+che inventò la vostra [[Ship|nave]] volante potrebbe forse dire quale fosse
+la cosa che non andava in essa.
+
+L'«efficienza», naturalmente, è futile per la stessa ragione
+per cui gli uomini forti, la forza di volontà e il superuomo sono futili.
+Cioè, è futile perché si occupa soltanto delle azioni dopo
+che sono state compiute. Non ha [[philosophy]] filosofia per gli avvenimenti
+prima che accadano; perciò non ha potere di scelta.
+Un atto può essere riuscito o fallito solo quando è concluso;
+se deve cominciare, deve essere, in astratto, giusto o sbagliato.
+Non esiste cosa come puntare su un vincitore; poiché egli non può essere un
+vincitore quando ci si punta sopra. Non esiste cosa come combattere dalla
+parte vincente; si combatte per scoprire quale sia la parte vincente.
+Se una qualsiasi operazione è avvenuta, quell'operazione fu efficiente.
+Se un uomo è assassinato, l'assassinio fu efficiente. Un sole
+tropicale è efficiente nel rendere la gente pigra quanto un caposquadra
+prepotente del Lancashire nel renderla energica. Maeterlinck è
+efficiente nel riempire un uomo di strani tremori spirituali
+quanto i signori Crosse e Blackwell sono efficienti nel riempire un uomo di marmellata.
+Ma tutto dipende da ciò di cui volete essere riempiti.
+Lord Rosebery, essendo un moderno [[skeptic]] scettico, preferisce probabilmente i
+tremori spirituali. Io, essendo un cristiano ortodosso, preferisco la marmellata.
+Ma entrambe sono efficienti quando sono state effettuate; e inefficienti
+finché non sono effettuate. Un uomo che pensa molto al [[success]] successo deve
+essere il più sonnolento dei sentimentali; poiché deve sempre guardare indietro.
+Se ama soltanto la vittoria deve sempre arrivare tardi alla battaglia.
+Per l'uomo d'azione non c'è nulla se non l'idealismo.
+
 
 
 <span class="atom-split" data-atom="chapter_05--part_03" data-title="whats wrong — Part 1 (part 3)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="motif/desire,motif/soul,concept/doubt,concept/education,concept/faith,concept/history,concept/self,concept/truth,form/history,histref/islam,histref/puritanism,setting/oxford,character/apollo,character/clifford"></span>
@@ -6634,6 +6864,114 @@ and simplicity could admire Dr. [[Clifford]] as a Baptist minister.
 It is when he says that he is simply a citizen that nobody can
 possibly believe him.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Questo ideale definito è una faccenda assai più urgente e pratica nel nostro
+attuale travaglio inglese di qualsiasi piano o proposta immediati.
+Poiché il presente caos è dovuto a una sorta di generale oblio
+di tutto ciò a cui gli uomini in origine miravano. Nessun uomo domanda
+ciò che desidera; ciascun uomo domanda ciò che gli pare di poter ottenere.
+Presto la gente dimentica ciò che l'uomo davvero voleva per primo; e dopo
+una vita politica riuscita e vigorosa, egli stesso lo dimentica.
+Il tutto è uno stravagante tumulto di ripieghi, un pandemonio
+di pis-aller. Ora questa sorta di pieghevolezza non impedisce soltanto ogni
+eroica coerenza, impedisce anche ogni compromesso davvero pratico.
+Si può trovare la distanza mediana fra due punti
+soltanto se i due punti staranno fermi. Possiamo stipulare un accordo
+fra due litiganti che non possono entrambi ottenere ciò che vogliono;
+ma non se non vogliono neppure dirci ciò che vogliono.
+Il gestore di un ristorante preferirebbe di gran lunga che ciascun cliente
+ordinasse svelto, foss'anche ibis in umido
+o elefante lesso, piuttosto che ciascun cliente
+sedesse tenendosi la testa fra le mani, immerso in calcoli
+aritmetici su quanto cibo possa esserci nel locale.
+La maggior parte di noi ha sofferto per una certa sorta di signore che, con il loro
+perverso altruismo, danno più fastidio degli egoisti; che quasi
+strepitano per il piatto impopolare e si accapigliano per il posto peggiore.
+La maggior parte di noi ha conosciuto ricevimenti o spedizioni pieni di questo ribollente
+trambusto di annullamento di [[Self|sé]]. Per moventi assai più meschini di quelli di tali
+ammirevoli donne, i nostri politici pratici tengono le cose nella medesima
+confusione attraverso il medesimo [[Doubt|dubbio]] circa le loro reali richieste.
+Non c'è nulla che tanto impedisca una composizione quanto un groviglio
+di piccole rese. Siamo sconcertati da ogni lato da politici
+che sono favorevoli all'[[Education|istruzione]] laica, ma la ritengono senza speranza
+da perseguire; che [[Desire|desiderano]] il proibizionismo totale, ma sono certi
+di non doverlo pretendere; che rimpiangono l'[[Education|istruzione]] obbligatoria,
+ma rassegnatamente la proseguono; o che vogliono la piccola proprietà contadina
+e perciò votano per qualcos'altro. È questo stordito e
+brancolante opportunismo che si mette di traverso a ogni cosa.
+Se i nostri statisti fossero visionari, qualcosa di pratico potrebbe farsi.
+Se chiedessimo qualcosa in astratto, potremmo ottenere qualcosa
+in concreto. Così com'è, non solo è impossibile ottenere
+ciò che si vuole, ma è impossibile ottenerne una qualsiasi parte,
+perché nessuno riesce a delinearlo chiaramente come una carta geografica. Quella chiara
+e perfino dura qualità che c'era nell'antico mercanteggiare è
+del tutto svanita. Dimentichiamo che la parola «compromesso» contiene,
+tra le altre cose, la rigida e squillante parola «promessa».
+La moderazione non è vaga; è definita quanto la perfezione.
+Il punto mediano è fisso quanto il punto estremo.
+
+Se sono costretto a camminare sull'asse da un pirata, è vano
+per me offrire, come compromesso di buon senso, di camminare
+lungo l'asse per una distanza ragionevole. È esattamente
+sulla distanza ragionevole che il pirata e io divergiamo.
+C'è uno squisito, matematico frazione di secondo in cui l'asse
+si ribalta. Il mio buon senso finisce appena prima di quell'istante;
+il buon senso del pirata comincia appena oltre di esso.
+Ma il punto stesso è duro quanto qualsiasi diagramma geometrico;
+astratto quanto qualsiasi dogma teologico.
+
+* * *
+
+III
+
+IL NUOVO IPOCRITA
+
+Ma questa nuova, nebulosa codardia politica ha reso inutile
+l'antico compromesso inglese. La gente ha cominciato a
+essere terrorizzata da un miglioramento meramente perché esso è completo.
+Chiamano utopistico e rivoluzionario che qualcuno debba davvero
+avere la propria strada, o che qualcosa venga davvero fatto, e concluso.
+Compromesso soleva significare che mezza pagnotta era meglio di niente pane.
+Fra gli statisti moderni sembra davvero significare che mezza pagnotta
+è meglio di una pagnotta intera.
+
+Come esempio per affilare l'argomento, prendo l'unico caso
+delle nostre eterne leggi sull'[[Education|istruzione]]. Siamo effettivamente riusciti
+a inventare un nuovo tipo di ipocrita. Il vecchio ipocrita,
+Tartufo o Pecksniff, era un uomo i cui fini erano davvero mondani
+e pratici, mentre fingeva che fossero religiosi.
+Il nuovo ipocrita è colui i cui fini sono davvero religiosi,
+mentre finge che siano mondani e pratici.
+Il reverendo Brown, il ministro wesleyano, dichiara risolutamente
+che non gli importa nulla dei credi, ma solo dell'[[Education|istruzione]];
+mentre, in [[Truth|verità]], il più selvaggio wesleyanesimo gli dilania l'[[Soul|anima]].
+Il reverendo [[smith|Smith]], della Chiesa d'Inghilterra, spiega con grazia,
+alla maniera di [[Oxford]], che l'unica questione per lui è
+la prosperità e l'efficienza delle scuole; mentre in [[Truth|verità]]
+tutte le male passioni di un curato gli ruggiscono dentro.
+È una lotta di credi mascherati da politiche.
+Penso che questi reverendi signori facciano torto a sé stessi; penso
+che siano più devoti di quanto vogliano ammettere. La teologia non è
+(come alcuni suppongono) cassata come un errore. È semplicemente celata,
+come un peccato. Il dottor [[Clifford]] vuole davvero un'atmosfera teologica
+quanto Lord Halifax; solo che è una diversa.
+Se il dottor [[Clifford]] chiedesse apertamente il [[Puritanism]] puritanesimo e Lord Halifax
+chiedesse apertamente il cattolicesimo, qualcosa potrebbe farsi per loro.
+Siamo tutti, si spera, abbastanza dotati d'immaginazione da riconoscere la dignità
+e la distinzione di un'altra religione, come l'[[Islam]] o il culto
+di [[Apollo]]. Sono del tutto pronto a rispettare la [[Faith|fede]] di un altro uomo;
+ma è troppo chiedere che io debba rispettare il suo [[Doubt|dubbio]],
+le sue mondane esitazioni e finzioni, il suo baratto politico
+e la sua finzione. La maggior parte dei non-conformisti con un istinto per
+la [[history]] storia inglese potrebbe scorgere qualcosa di poetico e nazionale nell'
+arcivescovo di Canterbury in quanto arcivescovo di Canterbury. È
+quando fa il razionale statista britannico che essi assai
+giustificatamente si irritano. La maggior parte degli anglicani con un occhio per il fegato
+e la semplicità potrebbe ammirare il dottor [[Clifford]] come ministro battista.
+È quando dice di essere semplicemente un cittadino che nessuno può
+in alcun modo credergli.
 
 
 
@@ -6758,6 +7096,125 @@ It is the Son of Man, says Scripture, who shall judge the quick
 and the dead.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Ma in verità il caso è ancora più curioso di così.
+L'unico argomento che si soleva addurre a favore della nostra
+vaghezza priva di credo era che almeno ci salvava dal [[Fanaticism|fanatismo]].
+Ma non fa nemmeno questo.  Al contrario, esso crea
+e rinnova il [[Fanaticism|fanatismo]] con una forza tutta sua propria.
+Ciò è insieme tanto strano e tanto vero che chiederò al lettore
+di prestarvi attenzione con un poco più di precisione.
+
+Ad alcuni non piace la parola "dogma".  Per loro fortuna sono liberi,
+e c'è un'alternativa per loro.  Vi sono due cose,
+e due cose soltanto, per la mente umana: un dogma e un pregiudizio.
+Il Medioevo fu un'epoca razionale, un'età di dottrina.
+La nostra età è, nel migliore dei casi, un'epoca poetica, un'età di pregiudizio.
+Una dottrina è un punto preciso; un pregiudizio è una direzione.
+Che un bue si possa mangiare, mentre un uomo non si debba mangiare,
+è una dottrina.  Che si debba mangiare il meno possibile di qualsiasi cosa
+è un pregiudizio; che talvolta viene anche chiamato ideale.
+Ora, una direzione è sempre assai più fantastica di un piano.
+Preferirei avere la più arcaica delle mappe della [[Road|strada]] per
+Brighton piuttosto che una generica raccomandazione di svoltare a sinistra.
+Rette che non siano parallele devono infine incontrarsi; ma le curve
+possono scartare all'infinito.  Una coppia di [[lovers|innamorati]] potrebbe camminare lungo il confine
+tra Francia e [[Germany|Germania]], l'uno da una parte e l'altra dall'altra,
+finché non fosse loro vagamente ingiunto di tenersi lontani l'uno dall'altra.
+E questa è una [[Parable|parabola]] rigorosamente vera dell'effetto della nostra moderna
+vaghezza nel perdere e separare gli uomini come in una nebbia.
+
+Non è soltanto vero che un credo unisce gli uomini.  Anzi, una differenza
+di credo unisce gli uomini--purché sia una differenza chiara.
+Un confine unisce.  Più d'un magnanimo Musulmano e più d'un cavalleresco Crociato
+devono essere stati più vicini l'uno all'altro, perché entrambi dogmatici,
+di quanto lo siano due agnostici senza patria in un banco della cappella del signor Campbell.
+"Io dico che Dio è Uno" e "Io dico che Dio è Uno ma anche Trino",
+ecco l'inizio di una buona, litigiosa, virile [[Friendship|amicizia]].
+Ma la nostra età trasformerebbe questi credi in tendenze.  Direbbe
+al Trinitario di seguire la molteplicità in quanto tale (perché era
+il suo "temperamento"), ed egli si ripresenterebbe più tardi con trecento
+trentatré persone nella Trinità.  Nel frattempo,
+trasformerebbe il Musulmano in un Monista: una spaventosa caduta intellettuale.
+Costringerebbe quella persona prima sana non solo ad ammettere
+che vi era un solo Dio, ma ad ammettere che non vi era nessun altro.
+Quando ciascuno avesse, per un periodo abbastanza lungo, seguito il bagliore
+del proprio naso (come il Dong) essi ricomparirebbero;
+il Cristiano un Politeista, e il Musulmano un Panegoista, entrambi del tutto pazzi,
+e assai più incapaci di comprendersi a vicenda di prima.
+
+È esattamente lo stesso con la politica.  La nostra vaghezza politica
+divide gli uomini, non li fonde.  Gli uomini camminano lungo l'orlo di un
+precipizio col tempo sereno, ma se ne allontanano di miglia nella nebbia.
+Così un Tory può spingersi fin sull'orlo stesso del Socialismo, se sa
+che cosa sia il Socialismo.  Ma se gli si dice che il Socialismo è uno spirito,
+un'atmosfera [[Sublime|sublime]], una nobile, indefinibile tendenza, ebbene, allora si tiene
+alla larga; e giustamente, per giunta.  Si può fronteggiare un'asserzione
+con l'argomentazione; ma un sano fanatismo è l'unico modo in cui si possa
+fronteggiare una tendenza.  Mi dicono che il metodo giapponese di lotta
+consiste non nel premere all'improvviso, ma nel cedere all'improvviso.
+Questa è una delle mie molte ragioni per detestare la civiltà giapponese.
+Usare la resa come un'arma è il peggiore spirito dell'Oriente.
+Ma certo non v'è forza tanto difficile da combattere quanto la forza che è
+facile vincere; la forza che sempre cede e poi ritorna.
+Tale è la forza di un grande pregiudizio impersonale, quale possiede
+il mondo moderno su tanti punti.  Contro di essa non v'è arma
+alcuna se non una rigida e ferrea [[Sanity|sanità di mente]], una risoluzione a non prestare orecchio
+alle mode, e a non lasciarsi contagiare dalle malattie.
+
+In breve, la razionale [[Faith|fede]] umana deve corazzarsi di pregiudizio
+in un'età di pregiudizi, proprio come si corazzò di [[logic|logica]] in
+un'età di [[logic|logica]].  Ma la differenza tra i due metodi mentali
+è marcata e inconfondibile.  L'essenza della differenza è questa:
+che i pregiudizi sono divergenti, mentre i credi sono sempre in collisione.
+I credenti si urtano fra loro; mentre i fanatici si scansano l'un l'altro.
+Un credo è cosa collettiva, e persino i suoi peccati sono socievoli.
+Un pregiudizio è cosa privata, e persino la sua tolleranza è misantropica.
+Così è con le nostre divisioni esistenti.  Si scansano a vicenda;
+il giornale Tory e il giornale Radicale non si rispondono l'un l'altro;
+si ignorano a vicenda.  La controversia genuina, il leale duello di stoccate
+davanti a un pubblico comune, è divenuta nella nostra speciale epoca assai rara.
+Poiché il sincero polemista è soprattutto un buon ascoltatore.
+L'entusiasta davvero ardente non interrompe mai; ascolta gli argomenti
+del nemico con la stessa avidità con cui una spia ascolterebbe le disposizioni del nemico.
+Ma se tentate un'argomentazione effettiva con un moderno giornale di politica
+opposta, scoprirete che non è ammessa via di mezzo tra la violenza
+e l'evasione.  Non avrete altra risposta che l'ingiuria o il [[Silence|silenzio]].
+Un moderno direttore di giornale non deve avere quell'orecchio avido che accompagna
+la lingua onesta.  Può essere sordo e silenzioso; e questo si chiama dignità.
+Oppure può essere sordo e chiassoso; e questo si chiama giornalismo mordace.
+In nessuno dei due casi vi è controversia alcuna; giacché tutto lo scopo dei moderni
+combattenti di parte è di caricare fuori dalla portata dell'udito.
+
+L'unica cura logica per tutto questo è l'affermazione di un ideale umano.
+Nel trattarne, cercherò di essere il meno trascendentale
+possibile, per quanto è conciliabile con la ragione; basti dire che a meno che non
+abbiamo qualche dottrina di un uomo divino, tutti gli abusi possono essere scusati,
+poiché l'evoluzione può mutarli in usi.  Sarà facile per
+il plutocrate scientifico sostenere che l'umanità si adatterà
+a qualsiasi condizione che noi ora consideriamo malvagia.  I vecchi tiranni
+invocavano il passato; i nuovi tiranni invocheranno il futuro: l'evoluzione
+ha prodotto la lumaca e il gufo; l'evoluzione può produrre un operaio
+che non voglia più spazio d'una lumaca, né più luce d'un gufo.
+Il datore di lavoro non abbia scrupolo a mandare un Cafro a lavorare sottoterra;
+diverrà presto un animale sotterraneo, come una talpa.
+Non abbia scrupolo a mandare un palombaro a trattenere il fiato negli abissi marini;
+diverrà presto un animale d'alto mare.  Gli uomini non abbiano la briga
+di alterare le condizioni: le condizioni altereranno assai presto gli uomini.
+La testa può essere ridotta a picchiate quanto basta perché entri nel cappello.
+Non togliete i ceppi allo schiavo; picchiate lo schiavo finché
+non dimentica i ceppi.  A tutto questo plausibile argomento moderno
+a favore dell'oppressione, l'unica risposta adeguata è che vi è un permanente
+ideale umano che non deve essere né confuso né distrutto.
+L'uomo più importante sulla terra è l'uomo perfetto che non c'è.
+La religione cristiana ha specialmente proclamato l'ultima [[Sanity|sanità di mente]] dell'Uomo,
+dice la Scrittura, che giudicherà la [[Truth|verità]] incarnata e umana.
+Le nostre vite e le nostre leggi non sono giudicate da una superiorità divina, ma semplicemente
+dalla perfezione umana.  È l'uomo, dice Aristotele, che è la misura.
+È il Figlio dell'Uomo, dice la Scrittura, che giudicherà i vivi
+e i morti.
+
 
 
 <span class="atom-split" data-atom="chapter_05--part_05" data-title="whats wrong — Part 1 (part 5)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="archetype/king,archetype/shadow,motif/dawn,motif/desire,motif/memory,motif/road,motif/time,motif/water,motif/winter,concept/beauty,concept/fear,concept/imagination,concept/sublime,concept/truth,form/biography,form/novel,histref/crusades,character/angelo,character/michael"></span>
@@ -6868,6 +7325,112 @@ They look forward with enthusiasm, because they are afraid
 to look back.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+La dottrina, dunque, non causa dissensi;
+piuttosto una dottrina [[Alone|soltanto]] può guarire i nostri dissensi.
+È necessario chiedersi, tuttavia, per sommi capi, quale forma astratta
+e ideale nello Stato o nella famiglia appagherebbe la fame umana;
+e ciò a prescindere dal fatto che possiamo o no ottenerla appieno.
+Ma quando veniamo a chiederci quale sia il bisogno degli uomini normali,
+quale sia il [[Desire|desiderio]] di tutte le nazioni, quale sia la [[house|casa]] ideale,
+o [[Road|strada]], o regola, o repubblica, o [[King|re]], o sacerdozio,
+allora ci troviamo di fronte a una difficoltà strana e irritante
+peculiare al [[Time|tempo]] presente; e dobbiamo fare una sosta temporanea
+ed esaminare quell'ostacolo.
+
+* * *
+
+IV
+
+LA [[Fear|PAURA]] DEL PASSATO
+
+Gli ultimi decenni sono stati segnati da una speciale coltivazione
+del [[Romance|romanzesco]] del futuro.  Pare che ci siamo decisi
+a fraintendere ciò che è accaduto; e ci volgiamo, con una sorta di sollievo,
+a enunciare ciò che accadrà--il che è (a quanto sembra) assai più facile.
+L'uomo moderno non presenta più le memorie del suo bisnonno;
+ma è impegnato a scrivere una dettagliata e autorevole [[Biography|biografia]]
+del suo pronipote.  Invece di tremare dinanzi agli spettri
+dei morti, rabbrividiamo abbiettamente sotto l'[[Shadow|ombra]] del bimbo [[unborn|non ancora nato]].
+Questo spirito è manifesto ovunque, fin nella creazione di una forma
+di [[Romance|romanzo]] futurista.  Sir Walter Scott sta all'[[Dawn|alba]] del
+diciannovesimo secolo per il [[Novel|romanzo]] del passato; il signor H. G. Wells
+sta all'[[Dawn|alba]] del ventesimo secolo per il [[Novel|romanzo]]
+del futuro.  La vecchia storia, lo sappiamo, si supponeva iniziasse:
+"Sul tardi di una sera d'[[Winter|inverno]] si sarebbero potuti scorgere due cavalieri--."
+La nuova storia deve iniziare: "Sul tardi di una sera d'[[Winter|inverno]] si vedranno due aviatori
+--." Il movimento non è privo dei suoi elementi di fascino;
+v'è qualcosa di animoso, se pur eccentrico, nello spettacolo di tante
+persone che tornano a combattere le battaglie che non sono ancora accadute;
+di gente ancora accesa dal [[Memory|ricordo]] di domani mattina.
+Un uomo in anticipo sui tempi è espressione abbastanza familiare.
+Un'età in anticipo sull'età è davvero piuttosto bizzarra.
+
+Ma quando si sia fatta piena concessione a questo innocuo
+elemento di poesia e di graziosa perversità umana nella cosa,
+non esiterò a sostenere qui che questo culto del
+futuro non è soltanto una debolezza ma una viltà dell'età.
+È il male peculiare di questa epoca che persino la sua combattività
+è fondamentalmente spaventata; e lo Jingo è spregevole
+non perché sia sfrontato, ma perché è timoroso.
+La ragione per cui gli armamenti moderni non infiammano l'[[Imagination|immaginazione]]
+come le armi e i blasoni delle [[Crusades|Crociate]] è una ragione
+del tutto estranea alla bruttezza o alla [[Beauty|bellezza]] ottica.  Certe corazzate
+sono belle quanto il mare; e molti nasali normanni erano
+brutti quanto i nasi normanni.  La bruttezza atmosferica che circonda
+la nostra guerra scientifica è un'emanazione di quel maligno panico che le sta
+al cuore.  La carica delle [[Crusades|Crociate]] era una carica;
+era una carica verso Dio, la selvaggia consolazione dei più coraggiosi.
+La carica degli armamenti moderni non è affatto una carica.
+È una rotta, una ritirata, una fuga dal diavolo, che afferrerà
+il più tardo.  È impossibile immaginare un cavaliere medievale
+che parli di lance francesi sempre più lunghe, con esattamente
+il tremore adoperato a proposito di navi tedesche sempre più grandi.  L'uomo
+che chiamò la Scuola dell'Acqua Blu la "Scuola dello Sgomento Blu"
+enunciò una [[Truth|verità]] psicologica che quella scuola stessa
+difficilmente negherebbe nella sostanza.  Persino lo standard delle due potenze,
+se è una necessità, è in un certo senso una necessità degradante.
+Nulla ha più alienato molte menti magnanime dalle imprese
+imperiali del fatto che esse sono sempre esibite come furtive
+o improvvise difese contro un mondo di gelida rapacità e [[Fear|paura]].
+La Guerra Boera, per esempio, fu colorata non tanto dal credo
+che noi stessimo facendo qualcosa di giusto, quanto dal credo che i Boeri
+e i Tedeschi stessero probabilmente facendo qualcosa di sbagliato; sospingendoci
+(come si diceva) verso il mare.  Il signor Chamberlain, credo,
+disse che la guerra era una piuma nel suo cappello: e così era,
+una piuma bianca.
+
+Ora, questo stesso panico primordiale che avverto nella nostra corsa verso gli armamenti
+patriottici lo avverto anche nella nostra corsa verso visioni future della società.
+La mente moderna è spinta verso il futuro da un certo senso
+di stanchezza, non scevro di terrore, con cui essa guarda al passato.
+È sospinta verso il [[Time|tempo]] a venire; è, con le esatte parole
+della frase popolare, spedita a calci in mezzo alla settimana ventura.
+E il pungolo che così avidamente la incalza non è un'affettazione
+per la futurità: la futurità non esiste, perché è ancora futura.
+Piuttosto è una [[Fear|paura]] del passato; una [[Fear|paura]] non solo
+del male nel passato, ma anche del bene nel passato.
+Il cervello cede sotto l'insopportabile virtù del genere umano.
+Vi sono state tante fedi fiammeggianti che non possiamo tenere;
+tanti aspri eroismi che non possiamo imitare; tanti
+grandi sforzi di edificazione monumentale o di gloria militare
+che ci appaiono a un tempo [[Sublime|sublimi]] e patetici.  Il futuro
+è un rifugio dalla feroce competizione dei nostri antenati.
+La generazione più anziana, non la più giovane, bussa alla nostra porta.
+È gradevole fuggire, come diceva Henley, nella Via
+del Poi-e-Poi, dove sorge l'Osteria del Mai.  È
+piacevole giocare coi bambini, specialmente coi bambini [[unborn|non ancora nati]].
+Il futuro è un muro bianco su cui ogni uomo può scrivere il proprio
+nome grande quanto gli piace; il passato lo trovo già coperto
+di scarabocchi illeggibili, come Platone, Isaia, Shakespeare,
+[[Michael]] [[Angelo]], Napoleone.  Posso rendere il futuro angusto quanto me stesso;
+il passato è costretto a essere vasto e turbolento quanto l'umanità.
+E l'esito di questo atteggiamento moderno è in realtà questo:
+che gli uomini inventano nuovi ideali perché non osano tentare i vecchi ideali.
+Guardano avanti con entusiasmo, perché hanno paura
+di guardare indietro.
+
 
 
 <span class="atom-split" data-atom="chapter_05--part_06" data-title="whats wrong — Part 1 (part 6)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="archetype/monster,motif/fire,motif/flag,motif/memory,motif/silence,motif/well,concept/democracy,concept/eugenics,concept/fear,concept/freedom,concept/history,concept/melancholy,form/history,histref/bible,histref/reformation,histref/renaissance,character/angelo,character/michael"></span>
@@ -6977,6 +7540,112 @@ But we have not got all the good out of them, perhaps at this
 moment not any of the good out of them.  And the need here is
 a need of complete [[Freedom|freedom]] for restoration as [[Well|well]] as revolution.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Ora nella [[history|storia]] non v'è Rivoluzione che non sia una Restaurazione.
+Fra le molte cose che mi lasciano dubbioso circa la moderna
+abitudine di fissare gli occhi sul futuro, nessuna è più forte di questa:
+che tutti gli uomini della [[history|storia]] che hanno davvero fatto qualcosa
+col futuro avevano gli occhi fissi sul passato.
+Non ho bisogno di menzionare il [[Renaissance|Rinascimento]], la parola stessa prova la mia tesi.
+L'originalità di [[Michael]] [[Angelo]] e di Shakespeare cominciò col
+disseppellimento di vecchi vasi e manoscritti.  La mitezza
+dei poeti sorse per l'appunto dalla mitezza degli antiquari.
+Così la grande rinascita medievale fu un [[Memory|ricordo]] dell'Impero Romano.
+Così la [[Reformation|Riforma]] guardò indietro alla [[Bible|Bibbia]] e ai tempi biblici.
+Così il moderno movimento cattolico ha guardato indietro ai tempi patristici.
+Ma quel movimento moderno che molti riterrebbero il più
+anarchico di tutti è in questo senso il più conservatore di tutti.
+Mai il passato fu più venerato dagli uomini di quanto lo fu dai
+Rivoluzionari francesi.  Essi invocavano le piccole repubbliche
+dell'antichità con la piena fiducia di chi invoca gli dèi.
+I Sanculotti credevano (come il loro nome potrebbe implicare) in un ritorno
+alla semplicità.  Credevano piissimamente in un passato remoto;
+alcuni potrebbero chiamarlo un passato mitico.  Per qualche strana ragione
+l'uomo deve sempre piantare così i suoi alberi da frutto in un cimitero.
+L'uomo può trovare la vita solo tra i morti.  L'uomo è un deforme [[Monster|mostro]],
+coi piedi rivolti in avanti e il volto rivolto all'indietro.  Egli può rendere
+il futuro lussureggiante e gigantesco, purché stia pensando
+al passato.  Quando cerca di pensare al futuro in sé,
+la sua mente si riduce a una capocchia di spillo per imbecillità, che alcuni
+chiamano Nirvana.  Il domani è la Gorgone; l'uomo deve solo vederlo
+riflesso nello scudo lucente dell'ieri.  Se lo vede direttamente
+è mutato in pietra.  Questo è stato il destino di tutti coloro che
+hanno davvero visto il fato e la futurità chiari e inevitabili.
+I Calvinisti, col loro perfetto credo della predestinazione,
+furono mutati in pietra.  I moderni scienziati sociologi
+(con la loro straziante [[Eugenics|Eugenetica]]) sono mutati in pietra.
+L'unica differenza è che i Puritani formano statue dignitose,
+e gli Eugenisti statue alquanto divertenti.
+
+Ma v'è un tratto nel passato che più di tutti
+gli altri sfida e deprime i moderni e li sospinge
+verso questo futuro senza tratti.  Intendo la presenza nel
+passato di enormi ideali, incompiuti e talvolta abbandonati.
+La vista di questi splendidi fallimenti è [[Melancholy|malinconica]] a una generazione irrequieta
+e piuttosto morbosa; ed essi mantengono uno strano [[Silence|silenzio]]
+intorno ad essi--che talvolta arriva a un [[Silence|silenzio]] senza scrupoli.
+Li tengono del tutto fuori dai loro giornali e quasi del tutto
+fuori dai loro libri di [[history|storia]].  Per esempio, spesso vi diranno
+(nelle loro lodi dell'età a venire) che stiamo procedendo verso
+degli Stati Uniti d'Europa.  Ma omettono accuratamente di dirvi
+che ci stiamo allontanando dagli Stati Uniti d'Europa,
+che una cosa siffatta esistette letteralmente in epoca romana ed essenzialmente in
+epoca medievale.  Non ammettono mai che gli odii internazionali
+(che essi chiamano barbarici) sono in realtà assai recenti, il mero
+crollo dell'ideale del Sacro Romano Impero.  O ancora,
+vi diranno che ci sarà una rivoluzione sociale,
+una grande insurrezione dei poveri contro i ricchi; ma non vi ricordano mai a fondo
+che la Francia fece quel magnifico tentativo, senza aiuto, e che noi
+e tutto il mondo lasciammo che fosse calpestato e dimenticato.
+Dico risolutamente che nulla è tanto marcato nella scrittura moderna
+quanto la predizione di simili ideali nel futuro unita all'
+ignorarli nel passato.  Chiunque può verificarlo da sé.
+Leggete trenta o quaranta pagine qualsiasi di opuscoli che perorano la pace
+in Europa e vedete quanti di essi lodano i vecchi Papi o Imperatori
+per aver mantenuto la pace in Europa.  Leggete una bracciata qualsiasi di saggi
+e di [[Poems|poesie]] in lode della [[Democracy|democrazia]] sociale, e vedete quanti di essi
+lodano i vecchi Giacobini che crearono la [[Democracy|democrazia]] e morirono per essa.
+Queste colossali rovine sono per il moderno soltanto enormi pugni negli occhi.
+Egli guarda indietro lungo la valle del passato e vede una prospettiva
+di città splendide ma incompiute.  Sono incompiute,
+non sempre per inimicizia o per accidente, ma spesso per incostanza,
+stanchezza mentale e brama di filosofie aliene.
+Non solo abbiamo lasciato incompiute quelle cose che avremmo dovuto fare,
+ma abbiamo persino lasciato incompiute quelle cose che desideravamo fare.
+
+Assai correntemente si suggerisce che l'uomo moderno è l'erede di tutte le
+età, che ha tratto il bene da questi successivi esperimenti umani.
+Non so che dire in risposta a ciò, se non chiedere al lettore
+di guardare l'uomo moderno, come io l'ho appena guardato--
+nello specchio.  È davvero vero che voi e io siamo due torri stellate
+edificate di tutte le più torreggianti visioni del passato?
+Abbiamo davvero adempiuto tutti i grandi ideali storici uno dopo
+l'altro, dal nostro nudo antenato che ebbe il coraggio di uccidere
+un mammut con un coltello di pietra, attraverso il cittadino greco e il
+santo cristiano fino a nostro nonno o bisnonno, che può
+essere stato sciabolato dalla Yeomanry di Manchester o fucilato nel '48?
+Siamo ancora abbastanza forti da infilzare mammut, ma ora abbastanza teneri
+da risparmiarli?  Contiene il cosmo alcun mammut che noi abbiamo
+o infilzato o risparmiato?  Quando ci rifiutiamo (in maniera marcata)
+di innalzare la [[Flag|bandiera]] rossa e di far [[Fire|fuoco]] attraverso una barricata come i nostri nonni,
+stiamo davvero declinando in deferenza ai sociologi--o ai soldati?
+Abbiamo davvero superato il guerriero e sorpassato il santo ascetico?
+[[Fear|Temo]] che superiamo il guerriero solo nel senso che probabilmente
+scapperemmo via da lui.  E se abbiamo sorpassato il santo,
+[[Fear|temo]] che lo abbiamo sorpassato senza inchinarci.
+
+Questo è, in primo luogo e soprattutto, ciò che intendo con la ristrettezza
+delle nuove idee, l'effetto limitante del futuro.
+Il nostro moderno idealismo profetico è ristretto perché ha subito
+un persistente processo di eliminazione.  Dobbiamo chiedere cose
+nuove perché non ci è permesso chiedere cose vecchie.
+L'intera posizione è fondata su questa idea che abbiamo ottenuto
+tutto il bene che si può ottenere dalle idee del passato.
+Ma non abbiamo ottenuto tutto il bene da esse, forse in questo
+momento nemmeno un briciolo del bene da esse.  E il bisogno qui è
+un bisogno di completa [[Freedom|libertà]] per la restaurazione come [[Well|pure]] per la rivoluzione.
 
 
 
@@ -7114,6 +7783,139 @@ has retreated from the Middle Ages in reaction and rout.
 The Christian ideal has not been tried and found wanting.
 It has been found difficult; and left untried.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Leggiamo spesso, oggigiorno, del valore o dell'audacia con cui qualche
+[[Rebel|ribelle]] assale una canuta tirannia o un'antiquata superstizione.
+Non v'è in realtà [[Courage|coraggio]] alcuno nell'assalire cose canute
+o antiquate, non più che nell'offrirsi di combattere
+la propria nonna.  L'uomo davvero coraggioso è colui che sfida
+tirannie giovani come il mattino e superstizioni fresche
+come i primi [[Flowers|fiori]].  L'unico vero libero pensatore è colui il cui
+intelletto è libero dal futuro tanto quanto dal passato.
+Gli importa tanto poco di ciò che sarà quanto di ciò che è stato;
+gli importa soltanto di ciò che dovrebbe essere.  E per il mio presente
+scopo insisto specialmente su questa astratta indipendenza.
+Se devo discutere ciò che non va, una delle prime cose
+che non vanno è questa: il profondo e silente presupposto moderno
+che le cose passate siano divenute impossibili.  V'è una metafora
+di cui i moderni sono assai ghiotti; vanno sempre dicendo:
+"Non si può rimettere indietro l'[[Clock|orologio]]."  La risposta semplice e ovvia
+è "Lo si può."  Un [[Clock|orologio]], essendo un manufatto umano,
+può essere riportato dal dito umano a qualsiasi cifra o ora.
+Allo stesso modo la società, essendo un manufatto umano,
+può essere ricostruita secondo qualsiasi disegno che sia mai esistito.
+
+V'è un altro proverbio: "Come hai fatto il letto,
+così devi coricarti"; che di nuovo è semplicemente una menzogna.
+Se ho fatto il letto scomodo, a Dio piacendo lo rifarò.
+Potremmo restaurare l'Eptarchia o le diligenze, se lo scegliessimo.
+Potrebbe richiedere del [[Time|tempo]] farlo, e potrebbe essere assai sconsigliabile farlo;
+ma certo non è impossibile come è impossibile far tornare
+venerdì scorso.  Questa è, come dico, la prima [[Freedom|libertà]] che rivendico:
+la [[Freedom|libertà]] di restaurare.  Rivendico il diritto di proporre come soluzione
+il vecchio sistema patriarcale di un clan delle Highland, se ciò dovesse parere
+eliminare il maggior numero di mali.  Certo eliminerebbe
+alcuni mali; per esempio, l'innaturale senso dell'obbedire a
+freddi e aspri estranei, meri burocrati e poliziotti.
+Rivendico il diritto di proporre la completa indipendenza delle piccole
+città greche o italiane, una sovrana [[City|città]] di Brixton o Brompton,
+se ciò pare la migliore via d'uscita dai nostri guai.  Sarebbe una via
+d'uscita da alcuni dei nostri guai; non potremmo avere in un piccolo stato,
+per esempio, quelle enormi illusioni su uomini o provvedimenti che
+sono nutrite dai grandi giornali nazionali o internazionali.
+Non si potrebbe persuadere una città-stato che il signor Beit fosse un Inglese,
+o il signor Dillon un fuorilegge, non più di quanto si potrebbe persuadere
+un villaggio dello Hampshire che l'ubriacone del villaggio fosse un astemio
+o l'idiota del villaggio uno statista.  Nondimeno, in
+realtà io non propongo che i Brown e gli Smith siano riuniti
+sotto tartan separati.  Né propongo nemmeno che Clapham debba
+dichiarare la propria indipendenza.  Io dichiaro semplicemente la mia indipendenza.
+Rivendico semplicemente la mia scelta di tutti gli strumenti dell'universo;
+e non ammetterò che alcuno di essi sia spuntato solo perché
+è stato usato.
+
+* * *
+
+V
+
+IL TEMPIO INCOMPIUTO
+
+Il compito degli idealisti moderni è invero reso fin troppo facile per loro
+dal fatto che viene sempre insegnato loro che se una cosa è stata
+sconfitta è stata confutata.  Logicamente, il caso è del tutto
+chiaramente all'opposto.  Le cause perdute sono esattamente quelle che
+avrebbero potuto salvare il mondo.  Se un uomo dice che il Giovane Pretendente
+avrebbe reso felice l'Inghilterra, è arduo ribattergli.
+Se qualcuno dice che i Giorgio resero felice l'Inghilterra, [[Hope|spero]] che tutti sappiamo
+che cosa rispondere.  Ciò che fu impedito è sempre imprendibile;
+e l'unico perfetto [[King|Re]] d'Inghilterra fu colui che venne soffocato.
+Proprio perché il Giacobitismo fallì non possiamo chiamarlo un fallimento.
+Proprio perché la Comune crollò come ribellione non possiamo
+dire che crollò come sistema.  Ma simili scoppi furono brevi
+o incidentali.  Poca gente si rende conto di quanti dei più grandi sforzi,
+i fatti che riempiranno la [[history|storia]], siano stati frustrati nel loro pieno
+disegno e giungano a noi come giganteschi storpi.  Ho soltanto
+lo spazio per accennare ai due fatti più grandi della [[history|storia]] moderna:
+la [[Catholic Church|Chiesa cattolica]] e quella moderna crescita radicata nella
+[[French Revolution|Rivoluzione francese]].
+
+Quando quattro cavalieri sparsero il [[Blood|sangue]] e le cervella di San Tommaso
+di Canterbury, non fu solo un segno d'ira ma d'una sorta
+di nera ammirazione.  Bramavano il suo [[Blood|sangue]], ma bramavano
+ancor più le sue cervella.  Un tal colpo resterà per sempre
+inintelligibile a meno che non ci rendiamo conto di che cosa le cervella di San Tommaso
+stessero pensando appena prima di essere distribuite sul pavimento.
+Stavano pensando alla grande concezione medievale che la chiesa
+è il giudice del mondo.  Becket si opponeva a che un prete fosse
+processato persino dal [[Lord Chief Justice|Lord Presidente della Corte]].  E la sua ragione era semplice:
+perché il [[Lord Chief Justice|Lord Presidente della Corte]] era processato dal prete.
+La magistratura era essa stessa sub judice.  I re erano essi stessi
+sul banco degli imputati.  L'idea era di creare un regno invisibile,
+senza eserciti né prigioni, ma con completa [[Freedom|libertà]] di condannare
+pubblicamente tutti i regni della terra.  Se una tale chiesa
+suprema avrebbe guarito la società non possiamo affermarlo con certezza;
+perché la chiesa non fu mai una chiesa suprema.  Sappiamo soltanto
+che in Inghilterra, a ogni modo, i principi conquistarono i santi.
+Ciò che il mondo volle lo vediamo davanti a noi; e alcuni di noi lo chiamano
+un fallimento.  Ma non possiamo chiamare fallimento ciò che la chiesa volle,
+semplicemente perché la chiesa fallì.  Tracy colpì un poco troppo presto.
+L'Inghilterra non aveva ancora fatto la grande scoperta protestante che
+il [[King|re]] non può fare torto.  Il [[King|re]] fu flagellato nella [[Cathedral|Cattedrale]];
+una rappresentazione che raccomando a coloro che rimpiangono l'impopolarità
+del recarsi in chiesa.  Ma la scoperta fu fatta; ed [[Henry VIII|Enrico VIII]] disperse
+le ossa di Becket con la stessa facilità con cui Tracy ne aveva disperso le cervella.
+
+Naturalmente, intendo che il Cattolicesimo non fu messo alla prova;
+molti cattolici furono messi alla prova, e trovati colpevoli.
+Il mio punto è che il mondo non si stancò dell'ideale della chiesa,
+ma della sua realtà.  I monasteri furono impugnati non per
+la castità dei [[Monks|monaci]], ma per la lascivia dei [[Monks|monaci]].
+Il [[Christianity|Cristianesimo]] fu impopolare non per l'[[Humility|umiltà]],
+ma per l'arroganza dei cristiani.  Certo, se la
+chiesa fallì fu in gran parte per colpa degli uomini di chiesa.
+Ma nello stesso [[Time|tempo]] elementi ostili avevano di certo cominciato
+a porvi fine assai prima che essa avesse potuto compiere la sua opera.
+Per la [[Nature|natura]] stessa delle cose essa aveva bisogno di uno schema comune di vita e
+di pensiero in Europa.  Eppure il sistema medievale cominciò a essere fatto
+a pezzi intellettualmente, assai prima che mostrasse il minimo
+indizio di cadere a pezzi moralmente.  Le enormi prime eresie,
+come gli Albigesi, non avevano il più tenue pretesto di superiorità morale.
+Ed è realmente vero che la [[Reformation|Riforma]] cominciò a lacerare l'Europa
+prima che la [[Catholic Church|Chiesa cattolica]] avesse avuto il [[Time|tempo]] di riunirla.
+I Prussiani, per esempio, non furono affatto convertiti al [[Christianity|Cristianesimo]]
+se non assai a ridosso della [[Reformation|Riforma]].  Quelle povere
+creature ebbero appena il [[Time|tempo]] di diventare cattoliche prima che
+fosse loro detto di diventare protestanti.  Questo spiega gran parte
+della loro condotta successiva.  Ma ho preso questo soltanto
+come il primo e più evidente caso della [[Truth|verità]] generale:
+che i grandi ideali del passato fallirono non per essere sopravvissuti
+(il che deve significare troppo vissuti), ma per non essere stati vissuti abbastanza.
+Il genere umano non è passato attraverso il Medioevo.  Piuttosto il genere umano
+si è ritirato dal Medioevo in reazione e in rotta.
+L'ideale cristiano non è stato provato e trovato manchevole.
+È stato trovato difficile; e lasciato non provato.
 
 
 
@@ -7253,6 +8055,140 @@ as the Old Adam, but its fulfilment almost as fresh, as miraculous,
 and as new as the New Jerusalem.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+È, naturalmente, lo stesso nel caso della [[French Revolution|Rivoluzione francese]].
+Gran parte della nostra presente perplessità nasce dal fatto
+che la [[French Revolution|Rivoluzione francese]] è a metà riuscita e a metà fallita.
+In un senso, Valmy fu la battaglia decisiva dell'Occidente,
+e in un altro Trafalgar.  Abbiamo, invero, distrutto le maggiori
+tirannie territoriali, e creato un contadinato libero in quasi tutti
+i paesi cristiani tranne l'Inghilterra; di cui diremo di più fra poco.
+Ma il [[government|governo]] rappresentativo, l'unica reliquia universale,
+è un ben misero [[Fragment|frammento]] della piena idea repubblicana.
+La teoria della [[French Revolution|Rivoluzione francese]] presupponeva due cose
+nel [[government|governo]], cose che essa conseguì al suo [[Time|tempo]], ma che di certo
+non ha lasciato in eredità ai suoi imitatori in Inghilterra, [[Germany|Germania]]
+e [[America]].  La prima di queste era l'idea dell'onorevole [[Poverty|povertà]];
+che uno statista deve avere in sé qualcosa dello stoico; la seconda era
+l'idea dell'estrema pubblicità.  Molti fantasiosi scrittori inglesi,
+compreso Carlyle, paiono del tutto incapaci di immaginare come fosse
+possibile che uomini come Robespierre e Marat fossero ardentemente ammirati.
+La miglior risposta è che essi erano ammirati per essere poveri--
+poveri quando avrebbero potuto essere ricchi.
+
+Nessuno pretenderà che questo ideale esista minimamente nella haute
+politique di questo paese.  La nostra pretesa nazionale all'incorruttibilità
+politica è in realtà fondata sull'argomento esattamente opposto;
+è fondata sulla teoria che gli uomini ricchi in posizioni
+sicure non avranno [[Temptation|tentazione]] alcuna di frode finanziaria.
+Se la [[history|storia]] dell'aristocrazia inglese, dalla spoliazione
+dei monasteri all'annessione delle miniere, avvalori pienamente
+questa teoria non è ciò che ora indago; ma di certo è la nostra teoria,
+che la ricchezza sarà una protezione contro la corruzione politica.
+Lo statista inglese è corrotto affinché non si lasci corrompere.
+Nasce con un cucchiaio d'argento in bocca, così che possa
+non essere mai poi trovato coi cucchiai d'argento in tasca.
+Tanto forte è la nostra [[Faith|fede]] in questa protezione da parte della plutocrazia,
+che affidiamo sempre più il nostro impero nelle mani di
+famiglie che ereditano ricchezza senza [[Blood|sangue]] né maniere.
+Alcune delle nostre casate politiche sono parvenue per lignaggio;
+tramandano la volgarità come uno stemma araldico.  Nel caso di
+molti statisti moderni dire che sono nati con un cucchiaio d'argento
+in bocca è a un tempo insufficiente ed eccessivo.
+Sono nati con un coltello d'argento in bocca.  Ma tutto questo
+non fa che illustrare la teoria inglese che la [[Poverty|povertà]] è perigliosa
+per un politico.
+
+Sarà lo stesso se confrontiamo le condizioni che sono
+sopravvenute con la leggenda rivoluzionaria riguardante la pubblicità.
+La vecchia dottrina democratica era che quanta più luce si lasciava
+entrare in tutti i dipartimenti dello Stato, tanto più facile era per una giusta
+indignazione muoversi prontamente contro il torto.  In altre parole,
+i monarchi dovevano vivere in case di vetro, affinché le folle potessero scagliar pietre.
+Di nuovo, nessun ammiratore dell'esistente politica inglese (se v'è
+alcun ammiratore dell'esistente politica inglese) pretenderà davvero
+che questo ideale di pubblicità sia esaurito, o anche solo tentato.
+Ovviamente la vita pubblica si fa più privata ogni giorno.
+I Francesi hanno, invero, continuato la tradizione di rivelare
+[[Secrets|segreti]] e di fare scandali; perciò sono più flagranti
+e palpabili di noi, non nel peccato ma nella confessione del peccato.
+Il primo processo a Dreyfus sarebbe potuto avvenire in Inghilterra;
+è esattamente il secondo processo che sarebbe stato
+legalmente impossibile.  Ma, invero, se vogliamo renderci conto
+di quanto siamo al di sotto dell'originario abbozzo repubblicano,
+il modo più acuto di metterlo alla prova è notare quanto siamo al
+di sotto persino dell'elemento repubblicano del vecchio regime.
+Non solo siamo meno democratici di Danton e Condorcet,
+ma siamo per molti versi meno democratici di Choiseul
+e Maria Antonietta.  I nobili più ricchi prima della rivolta
+erano bisognosi borghesi in confronto ai nostri Rothschild
+e Rosebery.  E in fatto di pubblicità la vecchia monarchia francese
+era infinitamente più democratica di qualsiasi monarchia odierna.
+Praticamente chiunque lo scegliesse poteva entrare nel palazzo e vedere
+il [[King|re]] che giocava coi suoi figli, o si tagliava le unghie.
+Il popolo possedeva il monarca, come il popolo possiede Primrose [[Hill|Hill]];
+vale a dire, non possono spostarlo, ma possono sdraiarcisi sopra a piacimento.
+La vecchia monarchia francese era fondata sull'eccellente principio
+che un gatto può guardare un [[King|re]].  Ma oggigiorno un gatto non può guardare
+un [[King|re]]; a meno che non sia un gatto assai mansueto.  Persino dove la stampa
+è libera di criticare, essa è usata solo per l'adulazione.
+La differenza sostanziale si riduce a qualcosa di straordinariamente simile a questo:
+la tirannia del diciottesimo secolo significava che si poteva dire "Il R__
+di Br__rd è un dissoluto."  La libertà del ventesimo secolo significa in realtà
+che vi è permesso dire "Il [[King|Re]] di Brentford è
+un modello di padre di famiglia."
+
+Ma abbiamo indugiato troppo a lungo nell'argomento principale per lo scopo
+parentetico di mostrare che il grande sogno democratico, come il grande
+sogno medievale, è stato in senso stretto e pratico
+[[A Dream|un sogno]] non adempiuto.  Qualunque cosa ci sia di sbagliato nell'Inghilterra moderna
+non è che abbiamo attuato troppo alla lettera, o realizzato
+con deludente completezza, o il Cattolicesimo di Becket
+o l'uguaglianza di Marat.  Ora, ho preso questi due casi soltanto
+perché sono tipici di diecimila altri casi; il mondo
+è pieno di queste idee non adempiute, di questi templi incompiuti.
+La [[history|Storia]] non consiste di rovine compiute e diroccate; piuttosto essa
+consiste di villini a metà costruiti e abbandonati da un costruttore in bancarotta.  Questo
+mondo somiglia più a un sobborgo incompiuto che a un cimitero deserto.
+
+* * *
+
+VI
+
+I NEMICI DELLA PROPRIETÀ
+
+Ma è proprio per questa speciale ragione che una tale spiegazione
+è necessaria sulla soglia stessa della definizione degli ideali.
+Poiché, a causa di quella fallacia storica di cui ho appena trattato,
+numerosi lettori si aspetteranno che io, quando propongo un ideale, proponga
+un ideale nuovo.  Ora, non ho alcuna intenzione di proporre un ideale nuovo.
+Non v'è ideale nuovo immaginabile dalla [[Madness|follia]] dei moderni sofisti,
+che sarà mai qualcosa di così sconvolgente quanto l'adempiere anche uno solo
+dei vecchi.  Il giorno in cui una qualsiasi massima da quaderno di scuola sarà messa
+in atto, vi sarà qualcosa di simile a un terremoto sulla terra.
+V'è una sola cosa nuova che si possa fare sotto il sole;
+ed è guardare il sole.  Se lo tentate in un giorno azzurro
+di giugno, capirete perché gli uomini non guardano dritto ai loro ideali.
+V'è una sola cosa davvero sconvolgente da fare con l'ideale,
+ed è farlo.  È affrontare il fiammeggiante fatto logico,
+e le sue spaventose conseguenze.  [[Christ|Cristo]] sapeva che sarebbe stato
+un fulmine più stordente adempiere la legge che distruggerla.
+Ciò è vero di entrambi i casi che ho citato, e di ogni caso.
+I pagani avevano sempre adorato la purezza: Atena, Artemide, Vesta.  Fu
+quando le vergini martiri cominciarono a praticare con sfida la purezza che essi
+le sbranarono con le bestie feroci, e le rotolarono su carboni ardenti.
+Il mondo aveva sempre amato l'idea del povero al di sopra di tutti;
+lo prova ogni leggenda da Cenerentola a Whittington,
+ogni poema dal Magnificat alla Marsigliese.  I re
+impazzirono contro la Francia non perché essa idealizzava questo ideale,
+ma perché essa lo realizzava.  Giuseppe d'Austria e Caterina
+di [[Russia]] concordavano pienamente che il popolo dovesse governare; ciò che li inorridì
+fu che il popolo governasse.  La [[French Revolution|Rivoluzione francese]], dunque,
+è il tipo di tutte le vere rivoluzioni, perché il suo ideale è antico
+quanto il Vecchio Adamo, ma il suo adempimento fresco, miracoloso
+e nuovo quasi quanto la Nuova Gerusalemme.
+
 
 
 <span class="atom-split" data-atom="chapter_05--part_09" data-title="whats wrong — Part 1 (part 9)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="archetype/artist,archetype/hero,archetype/lover,motif/garden,motif/home,motif/love,motif/marriage,motif/nature,motif/time,motif/well,concept/beauty,concept/democracy,concept/history,concept/nature,concept/self,form/history,form/sonnet,histref/christianity"></span>
@@ -7362,6 +8298,112 @@ the cigarette produces a baby giant, the [[Song|song]] only an infant seraph.
 Thence arises the necessity for some prolonged system of co-operation;
 and thence arises the family in its full educational sense.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Ma nel mondo moderno siamo anzitutto messi di fronte allo
+straordinario spettacolo di gente che si volge a nuovi ideali perché
+non ha provato i vecchi.  Gli uomini non si sono stancati del [[Christianity|Cristianesimo]];
+non hanno mai trovato abbastanza [[Christianity|Cristianesimo]] da stancarsene.
+Gli uomini non si sono mai stancati della giustizia politica; si sono stancati
+di attenderla.
+
+Ora, ai fini di questo libro, mi propongo di prendere uno solo
+di questi vecchi ideali; ma uno che è forse il più antico.
+Prendo il principio della domesticità: la [[house|casa]] ideale;
+la famiglia felice, la sacra famiglia della [[history|storia]].  Per il momento
+è solo necessario osservare che essa, come la chiesa
+e come la repubblica, è ora assalita principalmente da coloro che non l'hanno
+mai conosciuta, o da coloro che hanno mancato di adempierla.
+Innumerevoli donne moderne si sono ribellate alla domesticità in teoria
+perché non l'hanno mai conosciuta in pratica.  Schiere di poveri
+sono sospinte all'ospizio senza aver mai conosciuto la [[house|casa]].
+Generalmente parlando, la classe colta strilla per essere fatta uscire
+dalla decorosa [[Home|dimora]], proprio come la classe operaia grida
+per esservi fatta entrare.
+
+Ora, se prendiamo questa [[house|casa]] o [[Home|dimora]] come banco di prova, possiamo assai
+generalmente porre le semplici fondamenta spirituali dell'idea.
+Dio è ciò che può fare qualcosa dal nulla.  L'uomo (si può
+in verità dire) è ciò che può fare qualcosa da qualsiasi cosa.
+In altre parole, mentre la gioia di Dio è la creazione illimitata,
+la speciale gioia dell'uomo è la creazione limitata, la combinazione
+della creazione coi limiti.  Il piacere dell'uomo, dunque, è di
+possedere condizioni, ma anche di esserne in parte posseduto;
+di essere per metà controllato dal flauto che suona o dal campo che scava.
+L'eccitazione è trarre il massimo da condizioni date;
+le condizioni si tenderanno, ma non all'infinito.  Un uomo può scrivere un
+immortale [[Sonnet|sonetto]] su una vecchia busta, o cavare un [[Hero|eroe]] da un blocco di roccia.
+Ma cavare un [[Sonnet|sonetto]] da una roccia sarebbe un'impresa laboriosa,
+e fare un [[Hero|eroe]] da una busta è quasi fuori dalla sfera
+della politica pratica.  Questa feconda lotta coi limiti,
+quando riguarda qualche aereo passatempo di una classe colta,
+va sotto il nome di Arte.  Ma la massa degli uomini non ha né [[Time|tempo]]
+né attitudine per l'invenzione di una [[Beauty|bellezza]] invisibile o astratta.
+Per la massa degli uomini l'idea della creazione artistica può essere espressa solo
+da un'idea impopolare nelle presenti discussioni--l'idea della proprietà.
+L'uomo medio non sa tagliare l'argilla nella forma di un uomo;
+ma sa tagliare la terra nella forma di un [[Garden|giardino]]; e per quanto
+lo disponga con gerani rossi e patate blu in alterne
+righe diritte, egli è pur sempre un [[artist|artista]]; perché ha scelto.
+L'uomo medio non sa dipingere il tramonto i cui colori ammira;
+ma sa dipingere la propria [[house|casa]] col colore che sceglie, e per quanto
+la dipinga verde pisello a pois rosa, egli è pur sempre un [[artist|artista]];
+perché quella è la sua scelta.  La proprietà è semplicemente l'arte della [[Democracy|democrazia]].
+Significa che ogni uomo dovrebbe avere qualcosa che possa plasmare
+a propria immagine, così come egli è plasmato a immagine del cielo.
+Ma poiché egli non è Dio, ma solo un'immagine scolpita di Dio,
+la sua [[Self|auto]]-espressione deve fare i conti coi limiti; propriamente con limiti
+che sono rigorosi e persino piccoli.
+
+Sono [[Well|ben]] consapevole che la parola "proprietà" è stata sfidata nel nostro
+[[Time|tempo]] dalla corruzione dei grandi capitalisti.  A sentire parlare
+la gente, si penserebbe che i Rothschild e i Rockefeller
+fossero dalla parte della proprietà.  Ma ovviamente essi sono i nemici
+della proprietà; perché sono nemici dei propri limiti.
+Non vogliono la propria terra; ma quella altrui.  Quando
+rimuovono il confine del vicino, rimuovono anche il proprio.
+Un uomo che ama un piccolo campo triangolare dovrebbe [[Love|amarlo]]
+perché è triangolare; chiunque ne distrugge la forma,
+dandogli più terra, è un ladro che ha rubato un triangolo.
+Un uomo con la vera poesia del possesso desidera vedere il muro
+dove il suo [[Garden|giardino]] incontra il [[smith|giardino]] di [[smith|Smith]]; la siepe dove la sua fattoria
+tocca quella di Brown.  Non può vedere la forma della propria terra se non
+vede i margini di quella del vicino.  È la negazione della proprietà
+che il Duca di Sutherland debba avere tutte le fattorie in un unico latifondo;
+proprio come sarebbe la negazione del [[Marriage|matrimonio]] se egli avesse tutte le nostre
+mogli in un unico harem.
+
+* * *
+
+VII
+
+LA LIBERA FAMIGLIA
+
+Come ho detto, mi propongo di prendere un solo caso centrale;
+prenderò l'istituzione chiamata la [[house|casa]] privata o [[Home|dimora]];
+il guscio e l'organo della famiglia.  Considereremo le tendenze cosmiche
+e politiche semplicemente come esse colpiscono quell'antico e
+unico tetto.  Pochissime parole basteranno per tutto ciò che ho da dire
+sulla famiglia in sé.  Lascio [[Alone|da parte]] le speculazioni sulla
+sua origine animale e i dettagli della sua ricostruzione sociale;
+mi occupo soltanto della sua palpabile onnipresenza.
+È una necessità per il genere umano; è (se vi piace metterla così)
+una trappola per il genere umano.  Solo con l'ipocrita ignorare di un enorme
+fatto chiunque può riuscire a parlare di "libero [[Love|amore]]"; come se l'[[Love|amore]]
+fosse un episodio come accendere una sigaretta, o fischiettare un motivo.
+Supponete che ogni volta che un uomo accende una sigaretta, un torreggiante genio si levi
+dagli anelli di fumo e lo segua ovunque come un enorme schiavo.
+Supponete che ogni volta che un uomo fischietta un motivo egli "faccia scendere un angelo"
+e debba camminare per sempre con un serafino al guinzaglio.
+Queste immagini catastrofiche non sono che deboli parallelismi delle conseguenze
+tellurico che la [[Nature|Natura]] ha legato al sesso; ed è perfettamente
+chiaro fin dal principio che un uomo non può essere un libero [[Lover|amante]];
+egli è o un traditore o un uomo legato.  Il secondo elemento che crea
+la famiglia è che le sue conseguenze, per quanto colossali, sono graduali;
+la sigaretta produce un bimbo gigante, la [[Song|canzone]] solo un serafino in fasce.
+Di lì sorge la necessità di qualche prolungato sistema di cooperazione;
+e di lì sorge la famiglia nel suo pieno senso educativo.
 
 
 
@@ -7473,6 +8515,112 @@ VIII
 THE WILDNESS OF DOMESTICITY
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Si può dire che questa istituzione della [[Home|dimora]] è l'unica
+istituzione anarchica.  Vale a dire, essa è più antica della legge,
+e sta al di fuori dello Stato.  Per sua [[Nature|natura]] essa è ravvivata
+o corrotta da indefinibili forze di consuetudine o di parentela.
+Ciò non va inteso come se lo Stato non avesse
+autorità alcuna sulle famiglie; l'autorità dello Stato è invocata e va
+invocata in molti casi anomali.  Ma nella maggior parte dei casi normali
+di gioie e dolori familiari, lo Stato non ha modo d'ingresso.
+Non è tanto che la legge non debba interferire, quanto che
+la legge non può.  Come vi sono campi troppo lontani per la legge,
+così vi sono campi troppo vicini; come un uomo può vedere il Polo Nord
+prima di vedere la propria spina dorsale.  Le cose piccole e vicine
+sfuggono al controllo almeno tanto quanto quelle vaste e remote;
+e le vere pene e i veri piaceri della famiglia ne sono un forte
+esempio.  Se un bimbo piange per la [[Moon|luna]], il poliziotto
+non può procurargli la [[Moon|luna]]--ma nemmeno può far tacere il bimbo.
+Creature così vicine l'una all'altra come marito e moglie,
+o una madre e i figli, hanno il potere di rendersi a vicenda
+felici o infelici, con cui nessuna coercizione pubblica può misurarsi.
+Se un [[Marriage|matrimonio]] potesse essere sciolto ogni mattina non restituirebbe
+il riposo notturno a un uomo tenuto sveglio da una ramanzina in camera da letto;
+e a che giova dare a un uomo un mucchio di potere là dove
+egli vuole solo un po' di pace?  Il [[Child|bambino]] deve dipendere dalla più
+imperfetta delle madri; la madre può essere devota ai più
+indegni dei figli; in tali relazioni le vendette legali sono vane.
+Persino nei casi anomali in cui la legge può operare, questa difficoltà
+si riscontra di continuo; come sa più d'un magistrato sconcertato.
+Egli deve salvare i bambini dalla fame togliendo loro
+chi porta il pane.  E spesso deve spezzare il cuore d'una moglie
+perché il marito le ha già spezzato la testa.
+Lo Stato non ha strumento abbastanza delicato da sradicare le radicate
+abitudini e i grovigliati affetti della famiglia; i due sessi,
+felici o infelici che siano, sono incollati insieme troppo strettamente
+perché possiamo insinuare tra loro la lama d'un temperino legale.
+L'uomo e la donna sono una sola carne--sì, anche quando non sono
+un solo spirito.  L'uomo è un quadrupede.  Su questa antica e
+anarchica intimità, le forme di [[government|governo]] hanno poco o nessun effetto;
+essa è felice o infelice, per la propria sanità sessuale e
+per l'affabile consuetudine, sotto la repubblica di Svizzera o il dispotismo
+del Siam.  Persino una repubblica nel Siam non avrebbe fatto molto
+per liberare i Gemelli Siamesi.
+
+Il problema non è nel [[Marriage|matrimonio]], ma nel sesso; e si avvertirebbe
+sotto il più libero dei concubinaggi.  Nondimeno, la stragrande massa
+del genere umano non ha creduto nella [[Freedom|libertà]] in questa materia, bensì
+in un vincolo più o meno duraturo.  Tribù e civiltà differiscono circa
+le occasioni in cui possiamo allentare il legame, ma tutte concordano
+che v'è un legame da allentare, non un mero distacco universale.
+Ai fini di questo libro non mi preme discutere
+quella visione mistica del [[Marriage|matrimonio]] in cui io stesso credo:
+la grande tradizione europea che ha fatto del [[Marriage|matrimonio]] un sacramento.
+Basti dire qui che pagani e cristiani del pari hanno
+considerato il [[Marriage|matrimonio]] come un vincolo; una cosa che normalmente non si deve spezzare.
+In breve, questa umana credenza in un legame sessuale poggia su un principio
+di cui la mente moderna ha fatto uno studio assai inadeguato.
+Esso è, forse, meglio paragonato al principio del secondo
+[[Wind|fiato]] nel camminare.
+
+Il principio è questo: che in ogni cosa che valga la pena avere,
+persino in ogni piacere, v'è un punto di [[Pain|dolore]] o di tedio che
+deve essere superato, affinché il piacere possa rinascere e durare.
+La gioia della battaglia viene dopo la prima [[Fear|paura]] della [[Death|morte]];
+la gioia di leggere Virgilio viene dopo la noia di impararlo;
+l'ardore del bagnante marino viene dopo il gelido shock del bagno di mare;
+e il [[success|successo]] del [[Marriage|matrimonio]] viene dopo il fallimento
+della luna di miele.  Tutti i voti, le leggi e i contratti umani sono
+altrettanti modi di sopravvivere con [[success|successo]] a questo punto di rottura,
+a questo istante di potenziale resa.
+
+In ogni cosa su questa terra che valga la pena fare, v'è uno
+stadio in cui nessuno la farebbe, se non per necessità od onore.
+È allora che l'Istituzione sorregge un uomo e lo aiuta
+ad avanzare verso il terreno più fermo dinanzi.  Se questo solido fatto della
+[[Nature|natura]] umana sia sufficiente a giustificare la [[Sublime|sublime]] dedizione del [[Marriage|matrimonio]]
+cristiano è tutt'altra questione; è ampiamente sufficiente a
+giustificare il generale sentimento umano del [[Marriage|matrimonio]] come cosa fissa,
+la cui dissoluzione è una colpa o, quanto meno, un'ignominia.
+L'elemento essenziale non è tanto la durata quanto la sicurezza.
+Due persone devono essere legate insieme per rendere giustizia a se stesse;
+per venti minuti a un [[Dance|ballo]], o per vent'anni in un [[Marriage|matrimonio]].
+In entrambi i casi il punto è che, se un uomo si annoia nei primi
+cinque minuti, deve andare avanti e costringersi a essere felice.
+La coercizione è una sorta di incoraggiamento; e l'anarchia (o ciò
+che alcuni chiamano libertà) è essenzialmente oppressiva, perché è
+essenzialmente scoraggiante.  Se tutti fluttuassimo nell'aria come bolle,
+liberi di andare alla deriva ovunque in ogni istante, il risultato pratico
+sarebbe che nessuno avrebbe il [[Courage|coraggio]] di avviare una conversazione.
+Sarebbe così imbarazzante cominciare una frase in un amichevole sussurro,
+per poi dover gridarne l'ultima metà perché l'altra
+parte se ne fluttuava via nell'etere libero e informe.
+I due devono trattenersi a vicenda per rendersi giustizia a vicenda.
+Se gli Americani possono divorziare per "incompatibilità di carattere"
+non riesco a concepire perché non divorzino tutti.
+Ho conosciuto molti matrimoni felici, ma mai uno compatibile.
+Tutto lo scopo del [[Marriage|matrimonio]] è di lottare fino in fondo e sopravvivere
+all'istante in cui l'incompatibilità diviene indiscutibile.
+Poiché un uomo e una donna, in quanto tali, sono incompatibili.
+
+* * *
+
+VIII
+
+LA SELVATICHEZZA DELLA DOMESTICITÀ
+
 
 
 <span class="atom-split" data-atom="chapter_05--part_11" data-title="whats wrong — Part 1 (part 11)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="motif/city,motif/desire,motif/dreams,motif/garden,motif/home,motif/love,motif/night,motif/sleep,motif/time,motif/well,motif/window,concept/poverty,concept/sexuality,concept/truth,setting/court"></span>
@@ -7578,6 +8726,108 @@ An idea of earthy contact and foundation, as [[Well|well]] as an
 idea of separation and independence, is a part of this
 instructive human picture.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Nel corso di questo studio grezzo dovremo toccare quello che
+si chiama il problema della [[Poverty|povertà]], specialmente la [[Poverty|povertà]] disumanizzata
+dell'industrialismo moderno.  Ma in questa questione primaria dell'ideale
+la difficoltà non è il problema della [[Poverty|povertà]], bensì il problema della ricchezza.
+È la particolare psicologia dell'ozio e del lusso a falsare la vita.
+Una certa esperienza dei movimenti moderni del genere detto "avanzato" mi ha
+condotto alla convinzione che essi in genere riposano su qualche esperienza
+propria dei ricchi.  Così è per quella fallacia del libero [[Love|amore]] di cui
+ho già parlato; l'idea della [[Sexuality|sessualità]] come una sfilza di episodi.
+Ciò presuppone una lunga vacanza in cui stancarsi di una donna,
+e un'automobile con cui vagare in cerca di altre; presuppone anche
+denaro per i mantenimenti.  Un bigliettaio d'autobus ha a malapena il [[Time|tempo]]
+di [[Love|amare]] la propria moglie, per non parlare di quelle altrui. E il [[success|successo]] con
+cui le estraniazioni coniugali vengono dipinte nei moderni "drammi a tesi"
+è dovuto al fatto che c'è una sola cosa che un dramma
+non può rappresentare: una dura giornata di lavoro.  Potrei fornire molti altri
+esempi di questa presunzione plutocratica che sta dietro le mode progressiste.
+Per esempio, c'è una presunzione plutocratica dietro la frase
+"Perché la donna dovrebbe essere economicamente dipendente dall'uomo?"
+La risposta è che tra la gente povera e pratica non lo è;
+salvo nel senso in cui lui è dipendente da lei.
+Un cacciatore deve strapparsi i vestiti; ci dev'essere qualcuno che li rammendi.
+Un pescatore deve prendere il pesce; ci dev'essere qualcuno che lo cucini.
+È del tutto chiaro, di certo, che questa nozione moderna secondo cui la donna è un mero
+"grazioso parassita aggrappato", "un giocattolo", ecc., sorse dalla cupa
+contemplazione di qualche ricca famiglia di banchieri, in cui il banchiere, almeno,
+andava in [[City|città]] e fingeva di fare qualcosa, mentre la moglie del banchiere
+andava al Parco e non fingeva di fare proprio nulla.
+Un uomo povero e sua moglie sono una società d'affari.  Se un socio
+in una casa editrice riceve gli autori mentre l'altro
+riceve gli impiegati, uno dei due è economicamente dipendente?
+Era forse Hodder un grazioso parassita aggrappato a Stoughton?  Era forse Marshall
+un mero giocattolo per Snelgrove?
+
+Ma di tutte le nozioni moderne generate dalla sola ricchezza la peggiore è questa:
+la nozione che la vita domestica sia noiosa e mansueta.  Dentro la [[Home|casa]] (dicono)
+regnano il decoro morto e la routine; fuori c'è avventura e varietà.
+Questa è davvero l'opinione di un uomo ricco.  L'uomo ricco sa che la propria
+[[house|casa]] si muove su vaste e silenziose ruote di ricchezza, è gestita da reggimenti
+di servitori, da un rituale rapido e silenzioso.  D'altra parte, ogni sorta
+di vagabondaggio [[Romance|romanzesco]] gli è aperto nelle strade là fuori.
+Ha denaro in abbondanza e può permettersi di fare il barbone.
+La sua avventura più selvaggia finirà in un ristorante, mentre l'avventura
+più mansueta del villano può finire davanti a un [[Court|tribunale]] di polizia. Se rompe una [[Window|finestra]]
+può pagarla; se ammacca un uomo può pensionarlo.  Può
+(come il milionario della storia) comprare un albergo per un bicchiere di gin.
+E poiché egli, l'uomo lussuoso, detta il tono di quasi
+tutto il pensiero "avanzato" e "progressista", abbiamo quasi dimenticato
+che cosa significhi davvero una [[Home|casa]] per gli schiaccianti milioni dell'umanità.
+
+Perché la [[Truth|verità]] è che, per chi è moderatamente povero, la [[Home|casa]] è l'unico
+luogo di libertà.  Anzi, è l'unico luogo di anarchia.
+È l'unico punto sulla terra in cui un uomo può alterare
+gli assetti all'improvviso, fare un esperimento o concedersi un capriccio.
+Ovunque altro vada, egli deve accettare le rigide regole
+del negozio, della locanda, del club o del museo in cui capita di entrare.
+Può mangiare i suoi pasti sul pavimento, nella propria [[house|casa]], se gli va.
+Lo faccio spesso io stesso; dà una curiosa sensazione infantile, poetica,
+da pic-nic.  Ci sarebbero notevoli guai se provassi
+a farlo in una sala da tè dell'A.B.C. Un uomo può indossare vestaglia
+e pantofole nella propria [[house|casa]]; mentre sono certo che ciò non sarebbe
+permesso al Savoy, benché non abbia mai messo davvero alla prova la cosa.
+Se vai in un ristorante devi bere qualcuno dei vini nella
+carta dei vini, tutti quanti se insisti, ma di certo qualcuno.
+Ma se hai una [[house|casa]] e un [[Garden|giardino]] puoi provare a fare
+tè di malvarosa o vino di convolvolo, se ti va.  Per un uomo semplice e laborioso
+la [[Home|casa]] non è l'unico luogo mansueto nel mondo dell'avventura.
+È l'unico luogo selvaggio nel mondo delle regole e dei compiti prestabiliti.
+La [[Home|casa]] è l'unico luogo in cui egli può mettere il tappeto
+sul soffitto o le tegole sul pavimento, se lo desidera.
+Quando un uomo passa ogni [[Night|notte]] barcollando di bar in bar o da
+un caffè-concerto all'altro, diciamo che vive una vita irregolare.
+Ma non è così; egli vive una vita altamente regolare,
+sotto le noiose, e spesso opprimenti, leggi di tali luoghi.
+Talvolta non gli è permesso nemmeno di sedersi nei bar;
+e spesso non gli è permesso di cantare nei caffè-concerto.
+Gli alberghi si possono definire come luoghi in cui sei costretto a vestirti bene;
+e i teatri si possono definire come luoghi in cui ti è proibito
+fumare.  Un uomo può fare pic-nic solo a [[Home|casa]].
+
+Ora prendo, come ho detto, questa piccola onnipotenza umana,
+questo possesso di una cella o camera ben definita di libertà,
+come modello operativo per la presente indagine.
+Che si possa dare o no a ogni inglese una libera [[Home|casa]] tutta sua,
+per lo meno dovremmo [[Desire|desiderarla]]; ed egli la desidera.
+Per il momento parliamo di ciò che egli vuole, non di ciò che
+si aspetta di ottenere.  Egli vuole, per esempio, una [[house|casa]] separata;
+non vuole una [[house|casa]] bifamiliare.  Può essere costretto
+nella corsa commerciale a condividere un muro con un altro uomo.
+Allo stesso modo potrebbe essere costretto, in una corsa a tre gambe, a condividere
+una gamba con un altro uomo; ma non è così che si raffigura
+se stesso nei suoi [[Dreams|sogni]] di eleganza e libertà.  Di nuovo, egli non
+[[Desire|desidera]] un appartamento.  Può mangiare e [[Sleep|dormire]] e lodare Dio in un appartamento;
+può mangiare e [[Sleep|dormire]] e lodare Dio in un treno.
+Ma un treno non è una [[house|casa]], perché è una [[house|casa]] su ruote.
+E un appartamento non è una [[house|casa]], perché è una [[house|casa]] su trampoli.
+Un'idea di contatto e fondamenta terrene, [[Well|così come]] un'idea
+di separazione e indipendenza, è parte di questa
+istruttiva immagine umana.
 
 
 
@@ -7688,6 +8938,112 @@ Now, I think that in some philosophical sense it is his own fault, I think
 in a yet more philosophical sense it is the fault of his [[philosophy]].
 And this is what I have now to attempt to explain.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Prendo dunque questa sola istituzione come banco di prova.  Come ogni
+uomo normale desidera una donna, e figli nati da una donna,
+così ogni uomo normale desidera una [[house|casa]] tutta sua in cui metterli.
+Non vuole soltanto un tetto sopra di sé e una sedia
+sotto di sé; vuole un regno oggettivo e visibile;
+un [[Fire|fuoco]] sul quale possa cuocere il cibo che preferisce, una porta
+che possa aprire agli amici che sceglie.  Questo è il normale
+appetito degli uomini; non dico che non vi siano eccezioni.
+Vi possono essere santi al di sopra di questo bisogno e filantropi al di sotto.
+Opalstein, ora che è duca, può essersi abituato a ben più di questo;
+e quando era un galeotto può essersi abituato a ben meno.
+Ma la normalità della cosa è enorme.  Dare a quasi
+tutti case ordinarie farebbe piacere a quasi tutti;
+questo è ciò che affermo senza chiedere scusa.  Ora, nell'Inghilterra moderna
+(come voi ansiosamente fate notare) è assai difficile dare a quasi
+tutti una casa.  Verissimo; io mi limito a porre il desideratum;
+e chiedo al lettore di lasciarlo lì ritto mentre si volge
+con me a considerare ciò che davvero accade nelle guerre sociali
+del nostro [[Time|tempo]].
+
+* * *
+
+IX
+
+[[history|STORIA]] DI HUDGE E GUDGE
+
+C'è, mettiamo, un certo lurido casamento in Hoxton,
+grondante di malattia e crivellato di crimine e promiscuità.
+Ci sono, mettiamo, due giovani nobili e coraggiosi,
+di puri intenti e (se preferite) di nobili natali; chiamiamoli
+Hudge e Gudge.  Hudge, mettiamo, è di indole affaccendata;
+egli fa notare che la gente dev'essere a ogni costo tolta
+da quella tana; si sottoscrive e raccoglie denaro, ma trova
+(nonostante i grandi interessi finanziari degli Hudge) che la cosa
+dovrà esser fatta a buon mercato se dev'esser fatta sul posto.
+Perciò tira su una fila di alti e nudi caseggiati come alveari;
+e presto ha tutti i poveri stipati nelle loro piccole
+celle di mattoni, che sono certo migliori dei loro vecchi alloggi,
+in quanto sono a prova d'intemperie, ben [[Well|ventilate]] e provviste
+d'[[Water|acqua]] pulita.  Ma Gudge ha una [[Nature|natura]] più delicata.
+Egli avverte un non so che d'ineffabile che manca nelle piccole scatole di mattoni;
+solleva innumerevoli obiezioni; assale perfino il celebre
+Rapporto Hudge, con il Rapporto di Minoranza Gudge; e verso la fine
+di un anno o giù di lì è arrivato a dire a Hudge, con foga, che la gente
+era assai più felice dov'era prima.  Poiché la gente conserva
+in entrambi i luoghi esattamente la stessa aria di stordita amabilità,
+è assai difficile scoprire chi abbia ragione.  Ma almeno
+si potrebbe dire con sicurezza che nessun popolo amò mai il fetore o la fame
+in quanto tali, ma solo certi peculiari piaceri a essi intrecciati.
+Non così sente il sensibile Gudge.  Molto prima della lite finale
+(Hudge contro Gudge e Altri), Gudge è riuscito a persuadere
+se stesso che i tuguri e i lezzi sono in realtà cose assai belle;
+che l'abitudine di dormire in quattordici in una stanza è ciò che ha reso
+grande la nostra Inghilterra; e che l'odore delle fogne a cielo aperto è assolutamente
+essenziale all'allevamento di una stirpe di vichinghi.
+
+Ma, intanto, non c'è stata degenerazione alcuna in Hudge?  Ahimè, [[Fear|temo]]
+che ci sia stata.  Quegli edifici maniacalmente brutti che egli in origine
+tirò su come baracche senza pretese, appena buone a riparare la vita umana,
+si fanno ogni giorno più e più leggiadri al suo occhio illuso.
+Cose che non avrebbe mai sognato di difendere, se non come rozze
+necessità, cose come le cucine comuni o le infami stufe d'amianto,
+cominciano a risplendere del tutto sacralmente dinanzi a lui, solo perché riflettono
+l'ira di Gudge.  Egli sostiene, con l'aiuto di zelanti libriccini
+di socialisti, che l'uomo è in realtà più felice in un alveare che in una [[house|casa]].
+La difficoltà pratica di tenere perfetti sconosciuti fuori dalla vostra
+camera da letto la descrive come Fratellanza; e la necessità di
+salire ventitré rampe di gelide scale di pietra, oserei dire, la
+chiama Sforzo.  Il risultato netto della loro impresa filantropica è questo:
+che l'uno è arrivato a difendere tuguri indifendibili e padroni di tuguri
+ancor più indifendibili, mentre l'altro è arrivato a trattare
+come divine le baracche e i tubi che intendeva solo come rimedio disperato.
+Gudge è ora un vecchio Tory corrotto e apoplettico al Carlton Club;
+se gli menzionate la [[Poverty|povertà]] vi ruggisce con voce spessa e
+rauca qualcosa che si congettura essere "Gli fa bene!"
+Né Hudge è più felice; poiché è un magro [[vegetarian|vegetariano]] con una barba grigia
+e appuntita e un sorriso innaturalmente disinvolto, che va in giro dicendo
+a tutti che alla fine dormiremo tutti in un'unica camera da letto universale;
+e vive in una [[Garden|Città]] [[City|giardino]], come uno dimenticato da Dio.
+
+Tale è la lamentevole [[history|storia]] di Hudge e Gudge; che io introduco soltanto
+come tipo di un fraintendimento senza fine ed esasperante
+che sempre si ripete nell'Inghilterra moderna.  Per togliere gli uomini da un casamento
+li si caccia in un caseggiato; e all'inizio la sana [[Soul|anima]] umana
+li aborre entrambi.  Il primo [[Desire|desiderio]] di un uomo è di allontanarsi il più
+possibile dal casamento, anche se la sua folle corsa dovesse condurlo
+a un'abitazione modello.  Il secondo [[Desire|desiderio]] è, naturalmente, di allontanarsi dall'
+abitazione modello, anche se ciò dovesse ricondurre l'uomo al casamento.
+Ma io non sono né hudgiano né gudgiano; e penso che gli errori
+di questi due famosi e affascinanti personaggi nascano da un solo semplice fatto.
+Nacquero dal fatto che né Hudge né Gudge avevano mai pensato
+per un istante quale sorta di [[house|casa]] un uomo potesse verosimilmente desiderare per sé.
+In breve, essi non partirono dall'ideale; e, perciò, non erano
+politici pratici.
+
+Possiamo ora tornare allo scopo della nostra goffa parentesi
+sulla lode del futuro e i fallimenti del passato.
+Essendo una [[house|casa]] propria l'ovvio ideale di ogni uomo, possiamo ora chiederci
+(prendendo questo bisogno come tipico di tutti i bisogni simili) perché egli non ce l'abbia;
+e se in qualche senso filosofico sia colpa sua.
+Ora, io penso che in un certo senso filosofico sia colpa sua, penso
+che in un senso ancor più filosofico sia colpa della sua [[philosophy|filosofia]].
+Ed è questo ciò che ora devo tentare di spiegare.
 
 
 
@@ -7805,6 +9161,118 @@ But the immediate effect of this fact upon the question we
 are studying is somewhat singular.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Burke, fine retore che di rado si trovò davanti alla realtà,
+disse, mi pare, che la [[house|casa]] di un inglese è il suo [[Castle|castello]].
+La cosa è francamente spassosa; giacché, guarda caso, l'inglese
+è quasi l'unico uomo d'Europa la cui [[house|casa]] non è il suo [[Castle|castello]].
+Quasi ovunque altrove vige il presupposto della piccola proprietà contadina;
+che un pover'uomo possa essere padrone di terra, benché signore
+soltanto della propria terra.  Fare del padrone e dell'affittuario la stessa
+persona ha certi vantaggi da poco, come quello che l'affittuario
+non paga alcun affitto, mentre il padrone fa un po' di lavoro.
+Ma non mi curo qui di difendere la piccola proprietà,
+bensì soltanto del fatto ch'essa esiste quasi dappertutto tranne
+che in Inghilterra.  È anche vero, tuttavia, che questa condizione di piccolo
+possesso è oggi attaccata ovunque; da noi non è mai esistita,
+e presso i nostri vicini potrebbe venire distrutta.
+Dobbiamo dunque chiederci che cosa vi sia nelle vicende umane
+in generale, e in questo ideale domestico in particolare,
+che ha davvero rovinato la naturale creazione umana,
+specialmente in questo paese.
+
+L'uomo ha sempre smarrito la strada.  È stato un vagabondo fin dall'Eden;
+ma sempre sapeva, o credeva di sapere, ciò che andava cercando.
+Ogni uomo ha una [[house|casa]] in qualche punto dell'elaborato cosmo;
+la sua [[house|casa]] lo attende immersa fino alla cintola nei lenti fiumi del Norfolk
+o crogiolandosi al sole sulle dune del Sussex.  L'uomo ha sempre
+cercato quella [[Home|casa]] che è l'argomento di questo libro.
+Ma nella tetra e accecante grandine di scetticismo cui è ormai
+da tanto tempo sottoposto, ha cominciato per la prima [[Time|volta]]
+a intirizzirsi, non solo nelle sue speranze, ma nei suoi desideri.
+Per la prima [[Time|volta]] nella [[history|storia]] comincia davvero a [[Doubt|dubitare]] dell'oggetto
+del suo peregrinare sulla terra.  Ha sempre smarrito la strada;
+ma ora ha smarrito il proprio recapito.
+
+Sotto la pressione di certe filosofie delle classi alte
+(o, in altre parole, sotto la pressione di Hudge e Gudge)
+l'uomo comune è davvero rimasto sconcertato circa la meta dei
+suoi sforzi; e i suoi sforzi, perciò, si fanno sempre più fiacchi.
+La sua semplice idea di avere una [[Home|casa]] propria è derisa come borghese,
+come sentimentale, o come spregevolmente cristiana.  Sotto varie
+forme verbali gli si raccomanda di andarsene per le strade--
+il che si chiama [[Individualism|Individualismo]]; oppure all'ospizio dei poveri--il che si
+chiama Collettivismo.  Esamineremo questo processo un poco
+più attentamente tra breve.  Ma qui si può dire che Hudge
+e Gudge, o la classe dirigente in generale, non resteranno mai a corto
+di qualche frase moderna per coprire il loro antico predominio.
+I grandi signori negheranno al contadino inglese i suoi tre acri
+e una mucca su basi progressiste, se non potranno più negarglieli
+su basi reazionarie.  Gli negheranno i tre acri
+in nome della Proprietà Statale.  Gli proibiranno la mucca
+in nome dell'[[Humanitarianism|umanitarismo]].
+
+E questo ci conduce all'analisi ultima di quel singolare influsso
+che ha impedito rivendicazioni dottrinali da parte del popolo inglese.  Vi sono,
+credo, alcuni che ancora negano che l'Inghilterra sia governata da un'oligarchia.
+A me basta ampiamente sapere che un uomo avrebbe potuto [[Sleep|addormentarsi]]
+una trentina d'anni fa sul giornale del giorno e risvegliarsi la settimana scorsa sul
+giornale più recente, e figurarsi di leggere degli stessi personaggi.
+In un giornale avrebbe trovato un Lord Robert Cecil, un signor Gladstone,
+un signor Lyttleton, un Churchill, un Chamberlain, un Trevelyan, un Acland.
+Nell'altro giornale troverebbe un Lord Robert Cecil, un signor Gladstone,
+un signor Lyttleton, un Churchill, un Chamberlain, un Trevelyan, un Acland.
+Se questo non è essere governati da famiglie, non riesco a immaginare che cosa sia.
+Suppongo che sia essere governati da straordinarie coincidenze democratiche.
+
+* * *
+
+X
+
+L'OPPRESSIONE PER MEZZO DELL'OTTIMISMO
+
+Ma qui non ci occupiamo della [[Nature|natura]] e dell'esistenza
+dell'aristocrazia, bensì dell'origine del suo peculiare potere,
+del perché essa sia l'ultima delle vere oligarchie d'Europa; e del perché
+non paia esservi prospettiva alcuna, molto prossima, di vederne la fine.
+La spiegazione è semplice, benché resti stranamente inosservata.
+Gli amici dell'aristocrazia spesso la lodano per aver conservato
+antiche e gentili tradizioni.  I nemici dell'aristocrazia
+spesso la biasimano per l'attaccamento a usanze crudeli o antiquate.
+Tanto i suoi nemici quanto i suoi amici sbagliano.  In linea di massima
+l'aristocrazia non conserva tradizioni né buone né cattive;
+non conserva nulla eccetto la selvaggina.  Chi mai si sognerebbe
+di cercare tra gli aristocrati, dovunque, una vecchia usanza?
+Tanto varrebbe cercare un vecchio costume!  Il dio degli aristocratici
+non è la tradizione, ma la moda, che della tradizione è l'opposto.
+Se voleste trovare un antico copricapo norvegese, lo cerchereste
+forse nel Bel Mondo scandinavo?  No; gli aristocratici
+non hanno mai usanze; al più hanno abitudini, come gli [[Animals|animali]].
+Solo la plebe ha usanze.
+
+Il vero potere degli aristocratici inglesi è consistito esattamente
+nell'opposto della tradizione.  La semplice chiave del potere delle nostre classi
+alte è questa:  che si sono sempre tenute con cura dalla parte
+di ciò che si chiama Progresso.  Sono sempre state al passo coi tempi,
+e ciò riesce assai facile a un'aristocrazia.  Poiché l'aristocrazia è
+l'esempio supremo di quella disposizione d'animo di cui poc'anzi parlavamo.
+La novità è per essa un lusso che rasenta la necessità.  Essi, più di tutti,
+sono così annoiati del passato e del presente, che spalancano la bocca,
+con orribile fame, verso il futuro.
+
+Ma qualunque altra cosa i grandi signori dimenticassero, non dimenticarono mai che
+era loro compito farsi paladini delle cose nuove, di qualunque cosa
+si stesse discutendo di più tra i dotti universitari o i pignoli finanzieri.
+Così stettero dalla parte della [[Reformation|Riforma]] contro la Chiesa,
+dei Whig contro gli Stuart, della scienza baconiana
+contro la vecchia [[philosophy|filosofia]], del sistema manifatturiero
+contro gli operai, e (oggi) dell'accresciuto potere
+dello Stato contro gli individualisti all'antica.
+Insomma, i ricchi sono sempre moderni; è il loro mestiere.
+Ma l'effetto immediato di questo fatto sulla questione che
+stiamo studiando è alquanto singolare.
+
 
 
 <span class="atom-split" data-atom="chapter_05--part_14" data-title="whats wrong — Part 1 (part 14)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="topos/golden_age,archetype/fool,motif/cross,motif/dawn,motif/dreams,motif/garden,motif/home,motif/love,motif/nature,motif/night,motif/ship,motif/spring,motif/well,concept/democracy,concept/doubt,concept/nature,concept/sublime,concept/truth,setting/ship,character/jones"></span>
@@ -7920,6 +9388,118 @@ He has been offered bribes of worlds and systems; he has been offered
 Eden and Utopia and the New Jerusalem, and he only wanted a [[house]];
 and that has been refused him.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+In ciascuno dei diversi buchi o impacci in cui l'inglese
+comune è stato cacciato, gli è stato detto che la sua
+situazione è, per qualche ragione particolare, tutta per il meglio.
+Una bella mattina si svegliò e scoprì che i beni pubblici,
+che per ottocento anni aveva usato al tempo stesso come locande
+e come santuari, erano stati tutti d'improvviso e ferocemente aboliti,
+per accrescere la ricchezza privata di sei o sette uomini circa.
+Si direbbe che avrebbe potuto seccarsene;
+in molti luoghi se ne seccò, e fu domato dalla soldataglia.
+Ma non fu soltanto l'esercito a tenerlo tranquillo.
+Lo tennero tranquillo i saggi non meno dei soldati;
+i sei o sette uomini che portarono via le locande dei poveri gli dissero
+che non lo facevano per sé, ma per la religione
+del futuro, la grande [[Dawn|alba]] del protestantesimo e della [[Truth|verità]].
+Così, ogni volta che un nobile del Seicento veniva colto ad abbattere
+lo steccato di un contadino e a rubargli il campo, il nobile
+additava tutto eccitato il volto di Carlo I o di Giacomo II
+(che in quel momento, forse, portava un'espressione [[Cross|contrariata]])
+e distoglieva così l'attenzione del contadino ingenuo.  I grandi lord
+puritani crearono il Commonwealth, e distrussero le terre comuni.
+Salvarono i loro più poveri connazionali dall'onta di pagare
+la [[Ship]] Money, togliendo loro il denaro dell'aratro e il denaro della vanga
+che erano senza dubbio troppo deboli per difendere.  Una bella vecchia rima
+inglese ha immortalato questa comoda abitudine aristocratica--
+
+Voi perseguitate l'uomo o la donna 
+che dal comune ruba via l'oca,
+ma lasciate libero il fellone maggiore
+che all'oca ruba il comune intero.
+
+Ma qui, come nel caso dei monasteri, ci troviamo davanti allo strano
+problema della sottomissione.  Se rubarono il comune all'oca,
+si può solo dire che essa fu una gran oca a sopportarlo.
+La [[Truth|verità]] è che ragionarono con l'oca; le spiegarono
+che tutto questo serviva per far passare oltremare la volpe degli Stuart.
+Così, nell'Ottocento, i grandi nobili che divennero
+proprietari di miniere e direttori di ferrovie assicurarono con fervore a tutti
+che non lo facevano per scelta, ma a causa di una Legge Economica
+appena scoperta.  Così i prosperi politici della nostra
+generazione presentano progetti di legge per impedire alle povere madri
+di andare in giro con i propri bambini; oppure vietano placidamente ai loro affittuari
+di bere birra nelle locande pubbliche.  Ma questa insolenza non è (come
+si potrebbe supporre) additata a gran voce da tutti come feudalesimo scandaloso.
+Viene dolcemente rimproverata come Socialismo.  Perché un'aristocrazia
+è sempre progressista; è una forma dell'andare al passo coi tempi.
+I loro ricevimenti si fanno sempre più tardi nella [[Night|notte]]; perché cercano
+di vivere già il domani.
+
+* * *
+
+XI
+
+LA MANCANZA DI CASA DI [[Jones|JONES]]
+
+Così il Futuro di cui parlavamo all'inizio è stato
+(in Inghilterra almeno) sempre l'alleato della tirannia.
+All'inglese comune sono stati sottratti con l'inganno i suoi antichi possessi,
+quali che fossero, e sempre in nome del progresso.
+I distruttori delle abbazie gli tolsero il pane e gli diedero
+una pietra, assicurandogli che era una pietra preziosa, il bianco
+ciottolo degli eletti del Signore.  Gli tolsero il suo albero di maggio e la sua
+originaria vita rurale e gli promisero in cambio l'[[Golden Age|Età dell'Oro]]
+di Pace e Commercio inaugurata al Crystal Palace.  E ora
+gli stanno togliendo il poco che resta della sua dignità
+di padrone di casa e capofamiglia, promettendogli
+in cambio Utopie che si chiamano (assai appropriatamente)
+"Anticipazioni" o "Notizie da nessun luogo".  Ritorniamo, di fatto,
+al tratto principale già ricordato.
+Il passato è comunitario: il futuro dev'essere individualista.
+Nel passato stanno tutti i mali della [[Democracy|democrazia]], la varietà e la violenza
+e il [[Doubt|dubbio]], ma il futuro è puro dispotismo, perché il futuro
+è puro capriccio.  Ieri, lo so, ero uno [[Fool|sciocco]] umano,
+ma domani posso facilmente essere il Superuomo.
+
+L'inglese moderno, tuttavia, è come un uomo che dovrebbe
+essere tenuto perpetuamente fuori, per una ragione dopo l'altra,
+dalla [[house|casa]] in cui aveva pensato di dare inizio alla sua vita coniugale.
+Quest'uomo (chiamiamolo [[Jones]]) ha sempre desiderato
+le cose divinamente ordinarie; si è sposato per [[Love|amore]],
+ha scelto o costruito una piccola [[house|casa]] che gli sta addosso come un abito;
+è pronto a diventare un bisnonno e un dio locale.
+E proprio mentre sta traslocando, qualcosa va storto.
+Qualche tirannia, personale o politica, d'improvviso gli sbarra
+la [[Home|casa]]; ed egli deve consumare i suoi pasti nel [[Garden|giardino]] antistante.
+Un filosofo di passaggio (che è anche, per pura coincidenza, l'uomo
+che l'ha buttato fuori) si ferma e, appoggiandosi con eleganza alla ringhiera,
+gli spiega che ora sta vivendo quella vita ardita sulla
+generosità della [[Nature|natura]] che sarà la vita del [[Sublime|sublime]] futuro.
+Egli trova la vita nel [[Garden|giardino]] antistante più ardita che generosa, ed è
+costretto a trasferirsi in un misero alloggio nella [[spring|primavera]] successiva.  Il filosofo
+(che l'ha buttato fuori), capitando a far visita a quell'alloggio,
+con la probabile intenzione di alzare l'affitto, si ferma a spiegargli
+che ora è nella vera vita dell'impresa mercantile;
+la lotta economica fra lui e la padrona di casa è l'unica cosa
+da cui, nel [[Sublime|sublime]] futuro, può nascere la ricchezza delle nazioni.
+Egli è sconfitto nella lotta economica, e va all'ospizio dei poveri.
+Il filosofo che l'ha buttato fuori (trovandosi in quel preciso momento
+a ispezionare l'ospizio) gli assicura che è ora finalmente in
+quella repubblica dorata che è la meta dell'umanità;
+è in un uguale, scientifico, socialistico commonwealth,
+di proprietà dello Stato e governato da pubblici ufficiali; di fatto,
+il commonwealth del [[Sublime|sublime]] futuro.
+
+Nondimeno, vi sono segni che l'irrazionale [[Jones]] ancora
+[[Dreams|sogna]] di [[Night|notte]] questa vecchia idea di avere una [[Home|casa]] ordinaria.
+Ha chiesto così poco, e gli è stato offerto così tanto.
+Gli sono stati offerti in dono mondi e sistemi; gli sono stati offerti
+l'Eden e l'Utopia e la Nuova Gerusalemme, ed egli voleva soltanto una [[house|casa]];
+e quella gli è stata negata.
 
 
 
@@ -8177,6 +9757,118 @@ we must cast back and begin anew with a more general discussion
 of the first needs of human intercourse.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+PARTE SECONDA
+
+L'IMPERIALISMO, OVVERO L'ERRORE SULL'UOMO
+
+* * *
+
+I
+
+IL FASCINO DEL SCIOVINISMO
+
+Ho cercato a lungo e in ogni direzione un titolo per questa sezione; e confesso
+che la parola «Imperialismo» è una versione goffa di ciò che intendo.  Ma nessun'altra
+parola vi si avvicinava di più; «Militarismo» sarebbe stato ancora più fuorviante,
+e «Il Superuomo» rende insensata qualunque discussione in cui entri.
+Forse, tutto sommato, la parola «Cesarismo» sarebbe stata migliore;
+ma io [[Desire|desidero]] una parola popolare; e Imperialismo (come il lettore intuirà)
+copre in gran parte gli uomini e le teorie di cui intendo discutere.
+
+Questa piccola confusione è però accresciuta dal fatto che io
+non credo affatto nell'Imperialismo nel suo senso corrente,
+come modo o teoria del sentimento patriottico di questo paese.
+Ma l'Imperialismo popolare in Inghilterra ha ben poco a che fare
+con quella sorta di Imperialismo cesareo che desidero [[Sketch|tratteggiare]].
+Mi discosto dall'idealismo coloniale di Rhodes e di Kipling;
+ma non penso, come pensano alcuni dei suoi oppositori, che esso
+sia un'insolente creazione della durezza e della rapacità inglesi.
+L'Imperialismo, io credo, è una finzione creata non dalla durezza inglese,
+ma dalla mollezza inglese; anzi, in un certo senso, perfino dalla bontà inglese.
+
+Le ragioni per credere nell'Australia sono per lo più sentimentali
+quanto le più sentimentali ragioni per credere nel paradiso.
+Il Nuovo Galles del Sud è considerato quasi alla lettera come un luogo dove i malvagi
+cessano di tormentare e gli stanchi trovano riposo; ossia un paradiso
+per zii che si sono dati alla disonestà e per nipoti che nascono già stanchi.
+La Columbia Britannica è in senso stretto un paese delle fate, un mondo dove
+si suppone che una fortuna [[Magic|magica]] e irrazionale accompagni i figli minori.
+Questo strano ottimismo sui confini della terra è una debolezza inglese;
+ma per mostrare che non è una freddezza né una durezza è del tutto
+sufficiente dire che nessuno la condivise più di quel gigantesco
+sentimentalista inglese: il grande Charles Dickens.  La conclusione
+di «[[David Copperfield]]» è irreale non soltanto perché è una
+conclusione ottimistica, ma perché è una conclusione imperialistica.
+La decorosa felicità britannica architettata per [[David Copperfield]] e Agnese
+sarebbe imbarazzata dalla presenza perpetua della disperata [[Tragedy|tragedia]]
+di Emily, o della più disperata farsa di Micawber.  Perciò tanto Emily
+quanto Micawber vengono spediti in una vaga colonia dove dei mutamenti
+li colgono senza alcuna causa concepibile, se non il clima.
+La donna tragica diventa contenta e l'uomo comico diventa responsabile,
+unicamente per effetto di un viaggio per mare e della prima vista di un canguro.
+
+All'Imperialismo nel senso politico leggero, dunque, la mia unica
+obiezione è che esso è un'illusione di conforto; che un Impero il cui
+cuore sta venendo meno debba andare specialmente fiero delle estremità,
+non è per me un fatto più [[Sublime|sublime]] di quanto lo sia che un vecchio bellimbusto
+il cui cervello se n'è andato vada ancora fiero delle proprie gambe.  Esso consola gli uomini
+per l'evidente bruttezza e apatia dell'Inghilterra con leggende di bella
+giovinezza e di eroica alacrità in continenti e isole lontani.
+Un uomo può sedere in mezzo allo squallore di Seven Dials e sentire che
+la vita è [[Innocent|innocente]] e divina nella boscaglia o nel veldt.
+Proprio così un uomo potrebbe sedere nello squallore di Seven Dials e sentire che
+la vita era [[Innocent|innocente]] e divina a Brixton e a Surbiton.  Brixton e
+Surbiton sono «nuove»; si stanno espandendo; sono «più vicine alla [[Nature|natura]]»,
+nel senso che hanno divorato la [[Nature|natura]] miglio dopo miglio.
+L'unica obiezione è l'obiezione del fatto.  I giovani di Brixton
+non sono giovani giganti.  Gli [[lovers|innamorati]] di Surbiton non sono tutti poeti pagani,
+che cantano con la dolce energia della [[spring|primavera]].  Né la gente
+delle Colonie, quando la incontri, è fatta di giovani giganti o di poeti pagani.
+Sono per lo più [[cockneys|cockney]] che hanno perduto la loro ultima musica delle cose reali
+uscendo dalla portata del suono delle [[Bells|campane]] di Bow.  Il signor Rudyard Kipling,
+uomo di genio reale benché decadente, gettò su di loro un fascino teorico
+che va già svanendo.  Il signor Kipling è, in un senso preciso
+e piuttosto sorprendente, l'eccezione che conferma la regola.
+Poiché egli ha [[Imagination|immaginazione]], di una specie orientale e crudele, ma la possiede
+non perché sia cresciuto in un paese nuovo, bensì appunto perché è cresciuto
+nel più antico paese della terra.  Egli affonda le radici in un passato:
+un passato asiatico.  Non avrebbe forse mai scritto «Il [[River|fiume]] di Kabul»
+se fosse nato a Melbourne.
+
+Dico dunque francamente (perché non vi sia alcuna aria di evasione),
+che l'Imperialismo, nelle sue comuni pretese patriottiche, mi appare a un tempo
+debole e pericoloso.  È il tentativo di un paese europeo di creare
+una specie di Europa fasulla che possa dominare, invece dell'Europa reale,
+che può soltanto condividere.  È un [[Love|amore]] del vivere con i propri inferiori.
+L'idea di restaurare l'Impero Romano da sé e per sé
+è [[A Dream|un sogno]] che ha ossessionato ogni nazione cristiana sotto forme diverse
+e in quasi ogni forma come un tranello.  Gli Spagnoli sono un popolo coerente
+e conservatore; perciò incarnarono quel tentativo d'Impero
+in lunghe e persistenti dinastie.  I Francesi sono un popolo violento,
+e perciò conquistarono per due volte quell'Impero con la violenza delle armi.
+Gli Inglesi sono soprattutto un popolo poetico e ottimista;
+e perciò il loro Impero è qualcosa di vago eppure di simpatico,
+qualcosa di distante eppure di caro.  Ma questo loro sogno di essere
+potenti nei luoghi più remoti, benché sia una debolezza connaturata, è pur sempre
+una debolezza in loro; assai più una debolezza di quanto l'oro lo fosse per la Spagna
+o la gloria per Napoleone.  Se mai ci trovassimo in urto con i nostri veri
+fratelli e rivali, lasceremmo del tutto fuori conto questa fantasticheria.
+Non ci sogneremmo di opporre eserciti australiani ai tedeschi più di quanto
+ci sogneremmo di opporre la scultura tasmaniana a quella francese.  Ho così spiegato,
+perché nessuno mi accusi di celare un atteggiamento impopolare,
+perché non creda nell'Imperialismo comunemente inteso.
+Lo ritengo non soltanto un torto occasionale verso altri popoli,
+ma una debolezza continua, una piaga che suppura, nel mio.
+Ma è pur vero che mi sono soffermato su questo Imperialismo che è
+un'amabile illusione in parte per mostrare quanto sia diverso dalla
+cosa più profonda, più sinistra e tuttavia più persuasiva che sono
+stato costretto a chiamare Imperialismo per comodità di questo capitolo.
+Per arrivare alla radice di questo malvagio e affatto non inglese Imperialismo
+dobbiamo tornare indietro e ricominciare da capo con una discussione più generale
+dei primi bisogni del commercio umano.
+
 
 
 <span class="atom-split" data-atom="chapter_06--part_02" data-title="whats wrong — Part 2 (part 2)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="topos/memento_mori,motif/dance,motif/death,motif/fire,motif/frost,motif/home,motif/love,motif/nature,motif/prayer,motif/soul,motif/well,concept/beauty,concept/body,concept/comradeship,concept/friendship,concept/hope,concept/humility,concept/nature,concept/self,concept/sexuality,histref/milton,character/jones,character/milton"></span>
@@ -8289,6 +9981,113 @@ Most of us have heard the voice in which the hostess tells her
 husband not to sit too long over the cigars.  It is the dreadful
 voice of [[Love]], seeking to destroy [[Comradeship]].
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+* * *
+
+II
+
+LA SAGGEZZA E IL TEMPO
+
+Si ammette, così almeno si può [[Hope|sperare]], che le cose comuni non
+sono mai banali. La nascita è avvolta di cortine proprio perché è
+un prodigio sconvolgente e mostruoso. La [[Death|morte]] e il primo [[Love|amore]],
+per quanto accadano a chiunque, possono fermare il cuore alla sola
+idea di essi. Ma pur concedendo questo, si può rivendicare qualcosa
+di più. Non è soltanto vero che queste cose universali sono strane;
+è vero, per giunta, che sono sottili. In ultima analisi la maggior
+parte delle cose comuni si rivelerà assai complicata. Alcuni uomini
+di scienza superano davvero la difficoltà occupandosi soltanto della
+parte facile: così chiameranno il primo [[Love|amore]] l'istinto sessuale, e il
+timore reverenziale della [[Death|morte]] l'istinto di [[Self|autoconservazione]]. Ma
+questo non è che superare la difficoltà di descrivere il verde pavone
+chiamandolo azzurro. Un po' d'azzurro c'è. Il fatto che vi sia un
+forte elemento fisico tanto nel [[Romance|romanticismo]] quanto nel [[Memento Mori]] li
+rende, se possibile, più sconcertanti che se fossero stati del tutto
+intellettuali. Nessun uomo saprebbe dire esattamente quanto la sua
+[[Sexuality|sessualità]] fosse tinta da un puro [[Love|amore]] della [[Beauty|bellezza]], o dal semplice
+prurito adolescenziale di avventure irrevocabili, come fuggire per
+mare. Nessun uomo saprebbe dire fino a che punto il suo animalesco
+terrore della fine si mescolasse a tradizioni mistiche che toccano
+la morale e la religione. È precisamente perché queste cose sono
+animali, ma non del tutto animali, che comincia la [[Dance|danza]] di tutte
+le difficoltà. I materialisti analizzano la parte facile, negano
+la parte difficile e se ne tornano a [[Home|casa]] a prendere il tè.
+
+È errore completo supporre che, poiché una cosa è volgare, essa
+non sia perciò raffinata; cioè sottile e difficile da definire.
+Una [[Song|canzone]] da salotto della mia gioventù che cominciava «Nel
+crepuscolo, o mia diletta», era abbastanza volgare come [[Song|canzone]];
+ma il legame tra la passione umana e il crepuscolo non è per questo
+meno una cosa squisita e persino imperscrutabile. O, per prendere
+un altro esempio ovvio: le battute sulla suocera sono ben poco
+delicate, ma il problema di una suocera è estremamente delicato.
+Una suocera è sottile perché è una cosa come il crepuscolo. È una
+mistica fusione di due cose incoerenti: la legge e una madre. Le
+caricature la travisano; ma nascono da un vero enigma umano. «Comic
+Cuts» affronta la difficoltà nel modo sbagliato, ma occorrerebbe
+George Meredith al suo meglio per affrontare la difficoltà nel modo
+giusto. L'enunciato più prossimo del problema è forse questo: non
+è che una suocera debba essere odiosa, ma che debba essere molto
+gentile.
+
+Ma forse è meglio prendere come illustrazione qualche usanza
+quotidiana che tutti abbiamo sentito disprezzare come volgare o
+trita. Prendiamo, per amor di ragionamento, l'usanza di parlare del
+tempo. Stevenson la chiama «il nadir stesso e lo scherno dei buoni
+conversatori». Ora, vi sono ragioni assai profonde per parlare del
+tempo, ragioni tanto delicate quanto profonde; giacciono in strato
+su strato di stratificata sagacia. Anzitutto è un gesto di adorazione
+primordiale. Il cielo deve essere invocato; e cominciare ogni cosa
+col tempo è una sorta di modo pagano di cominciare ogni cosa con la
+[[Prayer|preghiera]]. [[Jones]] e Brown parlano del tempo: ma così fanno anche [[Milton]]
+e Shelley. Poi è un'espressione di quell'idea elementare che è la
+cortesia: l'uguaglianza. Poiché la parola stessa «cortesia» non è
+che il greco per «cittadinanza». La parola cortesia è affine alla
+parola poliziotto: pensiero incantevole. Bene inteso, il cittadino
+dovrebbe essere più cortese del gentiluomo; forse il poliziotto
+dovrebbe essere il più garbato ed elegante dei tre. Ma ogni buona
+maniera deve ovviamente cominciare con la condivisione di qualcosa
+in stile semplice. Due uomini dovrebbero condividere un ombrello;
+se non hanno un ombrello, dovrebbero almeno condividere la pioggia,
+con tutte le sue ricche potenzialità di spirito e [[philosophy|filosofia]]. «Poiché
+Egli fa splendere il suo sole...» Questo è il secondo elemento del
+tempo; il suo riconoscimento dell'uguaglianza umana in quanto tutti
+teniamo il cappello sotto l'azzurro cupo e trapunto ombrello
+dell'universo. Da ciò sorge la terza salutare venatura di questa
+usanza; intendo che comincia col [[Body|corpo]] e con la nostra inevitabile
+fratellanza corporea. Ogni vera cordialità comincia col [[Fire|fuoco]]
+e col cibo e la bevanda e col riconoscimento della pioggia o del
+[[Frost|gelo]]. Quelli che non vogliono cominciare dal capo corporeo delle
+cose sono già saccenti e potrebbero presto diventare Scientisti
+Cristiani. Ogni [[Soul|anima]] umana deve in un certo senso recitare per sé
+la gigantesca [[Humility|umiltà]] dell'Incarnazione. Ogni uomo deve discendere
+nella carne per incontrare l'umanità.
+
+In breve, nella semplice osservazione «bella giornata» c'è tutta la
+grande idea umana del [[Comradeship|cameratismo]]. Ora, il puro [[Comradeship|cameratismo]] è un'altra
+di quelle cose ampie e tuttavia sconcertanti. Tutti lo godiamo;
+eppure, quando arriviamo a parlarne, quasi sempre diciamo sciocchezze,
+soprattutto perché lo supponiamo faccenda più semplice di quel che è.
+È semplice da praticare; ma non è affatto semplice da analizzare.
+Il [[Comradeship|cameratismo]] è al più soltanto una metà della vita umana; l'altra
+metà è l'[[Love|amore]], cosa tanto diversa che si potrebbe immaginare fosse
+stata fatta per un altro universo. E non intendo il mero [[Love|amore]]
+sessuale; ogni sorta di passione concentrata, l'[[Love|amore]] materno, o
+persino le specie più feroci dell'[[Friendship|amicizia]] sono per loro [[Nature|natura]]
+estranee al puro [[Comradeship|cameratismo]]. Entrambi i lati sono essenziali alla
+vita; ed entrambi sono conosciuti, in gradi diversi, da chiunque, di
+ogni età o sesso. Ma, parlando molto in generale, si può ancora dire
+che le donne stanno per la dignità dell'[[Love|amore]] e gli uomini per la
+dignità del [[Comradeship|cameratismo]]. Intendo che l'istituzione difficilmente ci si
+aspetterebbe se i maschi della tribù non montassero la guardia su di
+essa. Gli affetti in cui le donne eccellono hanno tanta più autorità
+e intensità che il puro [[Comradeship|cameratismo]] verrebbe spazzato via se non fosse
+raccolto e custodito in club, corpi, collegi, banchetti e reggimenti.
+La maggior parte di noi ha udito la voce con cui la padrona di casa
+dice al marito di non attardarsi troppo sui sigari. È la voce
+tremenda dell'[[Love|amore]], che cerca di distruggere il [[Comradeship|cameratismo]].
 
 
 
@@ -8417,6 +10216,131 @@ What you would observe before any newcomer in a tavern--that is
 the real English law.  The first man you see from the [[Window|window]],
 he is the [[King]] of England.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Ogni vero [[Comradeship|cameratismo]] contiene quei tre elementi che ho
+notato nella comune esclamazione sul tempo.  Primo, possiede
+una sorta di ampia [[philosophy|filosofia]] simile al cielo comune, che
+sottolinea come siamo tutti sotto le medesime condizioni cosmiche.
+Siamo tutti nella stessa barca, la «roccia alata» del signor
+Herbert Trench.  Secondo, riconosce questo legame come quello
+essenziale; perché il [[Comradeship|cameratismo]] è semplicemente
+l'umanità vista in quell'unico aspetto in cui gli uomini sono davvero uguali.
+Gli antichi scrittori furono del tutto saggi quando parlarono dell'uguaglianza
+degli uomini; ma furono anche molto saggi a non menzionare le donne.
+Le donne sono sempre autoritarie; stanno sempre al di sopra o al di sotto;
+ecco perché il [[Marriage|matrimonio]] è una sorta di altalena poetica.  Vi sono
+solo tre cose al mondo che le donne non comprendono;
+e sono la Libertà, l'Uguaglianza e la Fraternità.  Ma gli uomini (una classe
+poco compresa nel mondo moderno) trovano in queste cose il respiro
+delle loro narici; e le nostre più dotte signore non cominceranno nemmeno
+a comprenderle finché non terranno conto di questa specie di
+fresco cameratismo.  Infine, contiene la terza qualità del tempo,
+l'insistenza sul [[Body|corpo]] e sulla sua indispensabile soddisfazione.
+Nessuno ha nemmeno cominciato a comprendere il [[Comradeship|cameratismo]] se non accetta
+insieme ad esso una certa cordiale avidità nel mangiare, bere o fumare,
+un materialismo fragoroso che a molte donne appare soltanto porcino.
+Potete chiamare la cosa un'orgia o un sacramento; è certamente
+un elemento essenziale.  Alla radice è una resistenza alla superbia
+dell'individuo.  Anzi, il suo stesso spavaldo urlare è umile.
+Nel cuore del suo baccano c'è una sorta di folle modestia; un [[Desire|desiderio]]
+di fondere l'[[Soul|anima]] separata nella massa della schietta mascolinità.
+È una clamorosa confessione della debolezza di ogni carne.
+Nessun uomo deve essere superiore alle cose che sono comuni agli uomini.
+Questa sorta di uguaglianza dev'essere corporea e grossolana e comica.
+Non solo siamo tutti nella stessa barca, ma abbiamo tutti il mal di mare.
+
+La parola [[Comradeship|cameratismo]] promette in questo momento di diventare tanto fatua
+quanto la parola «affinità».  Vi sono circoli di tipo socialista in cui tutti
+i membri, uomini e donne, si chiamano l'un l'altro «Compagno».  Non nutro
+emozioni serie, ostili o d'altro genere, riguardo a questa particolare abitudine:
+nel peggiore dei casi è convenzionalità, e nel migliore civetteria.
+Mi soffermo qui solo per additare un principio razionale.
+Se scegliete di mettere insieme tutti i [[Flowers|fiori]], gigli e dalie
+e tulipani e crisantemi, e li chiamate tutti margherite,
+scoprirete di aver rovinato la bellissima parola margherita.
+Se scegliete di chiamare [[Comradeship|cameratismo]] ogni affetto umano,
+se includete sotto quel nome il rispetto di un giovane per una
+venerabile profetessa, l'interesse di un uomo per una bella donna
+che lo confonde, il piacere di un vecchio brontolone filosofico per una ragazza
+impertinente e [[Innocent|innocente]], la fine della più meschina lite
+o l'inizio del più montuoso [[Love|amore]]; se avete intenzione
+di chiamare tutte queste cose [[Comradeship|cameratismo]], non guadagnerete nulla, perderete
+soltanto una parola.  Le margherite sono ovvie e universali e aperte;
+ma sono solo un tipo di fiore.  Il [[Comradeship|cameratismo]] è ovvio
+e universale e aperto; ma è solo un tipo di affetto;
+ha caratteristiche che distruggerebbero qualunque altro tipo.
+Chiunque abbia conosciuto il vero [[Comradeship|cameratismo]] in un circolo o in un reggimento
+sa che è impersonale.  C'è una frase pedantesca usata
+nei circoli di dibattito che è rigorosamente fedele all'emozione maschile;
+la chiamano «parlare alla questione».  Le donne parlano l'una all'altra;
+gli uomini parlano dell'argomento di cui stanno parlando.  Più d'un uomo
+onesto è stato seduto in un cerchio dei suoi cinque migliori amici sotto il cielo
+e ha dimenticato chi fosse nella stanza mentre spiegava qualche sistema.
+Questo non è peculiare degli uomini intellettuali; gli uomini sono tutti teorici,
+sia che parlino di Dio sia che parlino di golf.
+Gli uomini sono tutti impersonali; vale a dire, repubblicani.  Nessuno
+ricorda, dopo una conversazione davvero buona, chi abbia detto le cose buone.
+Ogni uomo parla a una moltitudine visionaria; una nube mistica,
+che si chiama il circolo.
+
+È evidente che questa qualità fredda e noncurante che è essenziale
+all'affetto collettivo dei maschi comporta svantaggi e pericoli.
+Conduce allo sputare; conduce al parlare grossolano; deve condurre a
+queste cose finché è onorevole; il [[Comradeship|cameratismo]] dev'essere in qualche
+misura brutto.  Nel momento in cui la [[Beauty|bellezza]] viene menzionata nell'[[Friendship|amicizia]] maschile,
+le narici vengono turate dall'odore di cose abominevoli.
+L'[[Friendship|amicizia]] dev'essere fisicamente sudicia se vuol essere moralmente pulita.
+Dev'essere in maniche di camicia.  Il caos di abitudini che sempre accompagna
+i maschi lasciati interamente a se stessi ha un solo rimedio onorevole;
+ed è la severa disciplina di un monastero.  Chiunque abbia
+visto i nostri infelici giovani idealisti negli East End Settlements perdere i
+colletti in lavanderia e vivere di salmone in scatola comprenderà appieno
+perché fu deciso dalla saggezza di san Bernardo o di san Benedetto,
+che, se gli uomini dovevano vivere senza donne, non dovevano vivere senza regole.
+Qualcosa dello stesso genere di esattezza artificiale, naturalmente,
+si ottiene in un esercito; e anche un esercito dev'essere per molti versi monastico;
+solo che ha il celibato senza la castità.  Ma queste cose non
+si applicano ai normali uomini sposati.  Questi hanno un freno del tutto sufficiente
+alla loro anarchia istintiva nel selvaggio buon senso dell'altro sesso.
+C'è un solo tipo di uomo, molto timido, che non ha paura delle donne.
+
+* * *
+
+III
+
+LA VISIONE COMUNE
+
+Ora questo maschile [[Love|amore]] per un cameratismo aperto e paritario è
+la vita entro tutte le democrazie e i tentativi di governare mediante il [[debate|dibattito]];
+senza di esso la repubblica sarebbe una formula morta.  Persino così com'è,
+naturalmente, lo spirito della [[Democracy|democrazia]] differisce spesso ampiamente
+dalla lettera, e una bettola è spesso una prova migliore di
+un Parlamento.  La [[Democracy|democrazia]] nel suo senso umano non è l'arbitrato
+della maggioranza; non è nemmeno l'arbitrato di tutti.
+Può essere definita più esattamente come l'arbitrato di chiunque.
+Intendo che si fonda su quell'abitudine da circolo di dare per scontato
+un perfetto sconosciuto, di presumere che certe cose siano inevitabilmente
+comuni a voi e a lui.  Solo le cose che si può presumere che chiunque
+sostenga hanno la piena autorità della [[Democracy|democrazia]].
+Guardate fuori dalla [[Window|finestra]] e osservate il primo uomo che passa.
+I liberali possono aver travolto l'Inghilterra con una maggioranza schiacciante;
+ma non scommettereste un bottone che quell'uomo sia un liberale.  La [[Bible|Bibbia]]
+può essere letta in tutte le scuole e rispettata in tutti i tribunali; ma non
+scommettereste un fuscello ch'egli creda nella [[Bible|Bibbia]].  Ma scommettereste
+la paga di una settimana, diciamo, ch'egli creda nel portare abiti.
+Scommettereste ch'egli creda che il [[Courage|coraggio]] fisico sia una bella cosa,
+o che i genitori abbiano autorità sui figli.  Certo,
+potrebbe essere l'uomo su un milione che non crede a queste cose;
+se è per questo, potrebbe essere la Donna Barbuta travestita da uomo.
+Ma questi prodigi sono tutt'altra cosa rispetto a qualsiasi mero
+calcolo di numeri.  Le persone che sostengono queste idee non sono una minoranza,
+ma una mostruosità.  Ma di questi dogmi universali che hanno piena
+autorità democratica l'unico banco di prova è questo banco di prova di chiunque.
+Ciò che osservereste davanti a qualsiasi nuovo venuto in una taverna: questa è
+la vera legge inglese.  Il primo uomo che vedete dalla [[Window|finestra]],
+egli è il [[King|Re]] d'Inghilterra.
 
 
 
@@ -8548,6 +10472,134 @@ weakest and stupidest man, obeying him merely because he is a man,
 and not a thousand men.  Submission to a weak man is discipline.
 Submission to a strong man is only servility.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Il [[Decay|decadimento]] delle taverne, che non è se non una parte del
+generale [[Decay|decadimento]] della [[Democracy|democrazia]], ha senza
+dubbio indebolito questo spirito virile di uguaglianza. Ricordo che una
+stanza gremita di socialisti si mise letteralmente a ridere quando dissi
+loro che in tutta la poesia non esistono due parole più nobili di
+[[house|Casa]] Pubblica. Credettero fosse uno scherzo. Perché mai debbano
+ritenerlo uno scherzo, dal momento che vogliono trasformare tutte le case
+in case pubbliche, non riesco a immaginarlo. Ma se qualcuno desidera
+vedere il vero, chiassoso egualitarismo che è necessario (agli uomini,
+almeno) può trovarlo altrettanto [[Well|bene]] che altrove nelle grandi,
+antiche dispute da taverna che ci sono giunte in libri come il Johnson di
+Boswell. Vale la pena di menzionare quel nome in particolare, perché il
+mondo moderno, nella sua morbosità, gli ha fatto una strana ingiustizia.
+Il contegno di Johnson, si dice, era «aspro e dispotico». Era di quando in
+quando aspro, ma non fu mai dispotico. Johnson non era affatto un despota;
+Johnson era un demagogo, gridava contro una folla che gridava. Il fatto
+stesso che egli si accapigliasse con gli altri è la prova che agli altri
+era permesso di accapigliarsi con lui. La sua stessa brutalità si fondava
+sull'idea di una mischia fra pari, come quella del calcio. È rigorosamente
+vero che egli sbraitava e batteva i pugni sul tavolo perché era un uomo
+modesto. Aveva onestamente paura di essere sopraffatto o persino
+trascurato. Addison aveva maniere squisite ed era il [[King|re]] della sua
+compagnia; era cortese con tutti; ma superiore a tutti; perciò è stato
+tramandato per sempre nell'immortale insulto di Pope—
+
+«Come Catone, dà leggi al suo piccolo Senato E siede attento al proprio
+applauso.»
+
+Johnson, ben lungi dall'essere il [[King|re]] della sua compagnia, era una
+sorta di Deputato Irlandese nel proprio Parlamento. Addison era un
+superiore cortese ed era odiato. Johnson era un pari insolente e perciò
+era amato da tutti quelli che lo conoscevano, e tramandato in un libro
+meraviglioso, che è uno dei semplici miracoli dell'[[Love|amore]].
+
+Questa dottrina dell'uguaglianza è essenziale alla conversazione; tanto
+può essere ammesso da chiunque sappia che cosa sia la conversazione.
+Discutendo una volta a un tavolo in una taverna, l'uomo più famoso della
+terra desidererebbe essere oscuro, affinché le sue osservazioni brillanti
+possano fiammeggiare come le [[Stars|stelle]] sullo sfondo della sua
+oscurità. Per qualunque cosa meriti d'essere chiamata uomo, nulla si può
+concepire di più freddo o desolante che essere il [[King|re]] della
+propria compagnia. Ma si potrebbe obiettare che negli sport e nei giochi
+virili, diversi dal grande gioco del [[debate|dibattito]], vi è una netta
+emulazione ed eclissi. Vi è in effetti emulazione, ma questa non è che una
+sorta ardente di uguaglianza. I giochi sono competitivi, perché quello è
+l'unico modo di renderli entusiasmanti. Ma se qualcuno dubita che gli
+uomini debbano per sempre tornare all'ideale dell'uguaglianza, basta
+rispondere che esiste una cosa chiamata handicap. Se gli uomini
+esultassero nella mera superiorità, cercherebbero di vedere fin dove tale
+superiorità potesse spingersi; sarebbero lieti quando un corridore forte
+giungesse miglia avanti a tutti gli altri. Ma ciò che agli uomini piace
+non è il trionfo dei superiori, bensì la lotta fra pari; e, perciò, essi
+introducono persino nei loro sport competitivi un'uguaglianza artificiale.
+È triste pensare quanto pochi fra coloro che dispongono i nostri handicap
+sportivi si possano supporre con qualche probabilità consapevoli di essere
+astratti e persino severi repubblicani.
+
+No; la vera obiezione all'uguaglianza e all'auto-governo del [[Self|sé]]
+non ha nulla a che fare con nessuno di questi aspetti liberi e festosi del
+genere umano; tutti gli uomini sono democratici quando sono felici.
+L'avversario filosofico della [[Democracy|democrazia]] riassumerebbe in
+sostanza la propria posizione dicendo che essa «non funzionerà». Prima di
+procedere oltre, registrerò di sfuggita una protesta contro l'assunto che
+il funzionare sia l'unica prova dell'umanità. Il Cielo non lavora; gioca.
+Gli uomini sono più sé stessi quando sono liberi; e se scopro che gli
+uomini sono snob nel loro lavoro ma democratici nelle loro vacanze, mi
+prenderò la libertà di credere alle loro vacanze. Ma è questa questione
+del lavoro che davvero complica la questione dell'uguaglianza; ed è di
+quella che dobbiamo ora occuparci. Forse la [[Truth|verità]] può essere
+espressa nel modo più incisivo così: che la [[Democracy|democrazia]] ha un
+solo vero nemico, e questo è la civiltà. Quei miracoli utilitaristici che
+la scienza ha compiuto sono anti-democratici, non tanto nella loro
+perversione, o persino nel loro risultato pratico, quanto nella loro forma
+e finalità primaria. I Rivoltosi Distruttori di Telai avevano ragione; non
+forse nel pensare che le macchine avrebbero reso operai un minor numero di
+uomini; ma certamente nel pensare che le macchine avrebbero reso padroni
+un minor numero di uomini. Più ruote significano meno manopole; meno
+manopole significano meno mani. Il macchinario della scienza dev'essere
+individualistico e isolato. Una folla può gridare intorno a un palazzo; ma
+una folla non può gridare dentro un telefono. Compare lo specialista e la
+[[Democracy|democrazia]] è mezza rovinata in un colpo solo.
+
+* * *
+
+IV
+
+LA FOLLE NECESSITÀ
+
+La concezione comune fra la feccia della cultura darwiniana è che gli
+uomini si siano lentamente aperti la strada fuori dalla disuguaglianza
+verso uno stato di relativa uguaglianza. La [[Truth|verità]], mi pare, è
+quasi esattamente l'opposto. Tutti gli uomini hanno normalmente e
+naturalmente cominciato con l'idea dell'uguaglianza; l'hanno abbandonata
+solo tardi e con riluttanza, e sempre per qualche ragione materiale di
+dettaglio. Non hanno mai sentito naturalmente che una classe di uomini
+fosse superiore a un'altra; sono sempre stati costretti a presumerlo
+attraverso certe limitazioni pratiche di spazio e di [[Time|tempo]].
+
+Per esempio, vi è un elemento che deve sempre tendere all'oligarchia—o
+piuttosto al dispotismo; intendo l'elemento della fretta. Se la
+[[house|casa]] ha preso [[Fire|fuoco]] un uomo deve chiamare i pompieri; un
+comitato non può chiamarli. Se un accampamento è sorpreso di
+[[Night|notte]] qualcuno deve dare l'ordine di far [[Fire|fuoco]]; non c'è
+[[Time|tempo]] di metterlo ai voti. È unicamente una questione delle
+limitazioni fisiche di [[Time|tempo]] e spazio; niente affatto di qualche
+limitazione mentale nella massa degli uomini comandati. Se tutte le
+persone nella [[house|casa]] fossero uomini del destino sarebbe pur sempre
+meglio che non parlassero tutte insieme nel telefono; anzi, sarebbe meglio
+che l'uomo più sciocco di tutti parlasse senza essere interrotto. Se un
+esercito consistesse effettivamente di null'altro che Annibali e
+Napoleoni, sarebbe pur sempre meglio, nel caso di una sorpresa, che non
+dessero tutti gli ordini insieme. Anzi, sarebbe meglio che il più stupido
+di tutti desse gli ordini. Così, vediamo che la mera subordinazione
+militare, ben lungi dal poggiare sulla disuguaglianza degli uomini,
+poggia in realtà sull'uguaglianza degli uomini. La disciplina non implica
+la nozione carlyliana che qualcuno abbia sempre ragione quando tutti hanno
+torto, e che dobbiamo scoprire e [[Crown|incoronare]] quel qualcuno. Al
+contrario, la disciplina significa che in certe circostanze
+spaventosamente rapide, ci si può fidare di chiunque purché non sia
+chiunque. Lo spirito militare non significa (come Carlyle immaginava)
+obbedire all'uomo più forte e più saggio. Al contrario, lo spirito
+militare significa, semmai, obbedire all'uomo più debole e più stupido,
+obbedirgli semplicemente perché è un uomo, e non mille uomini. La
+sottomissione a un uomo debole è disciplina. La sottomissione a un uomo
+forte è soltanto servilismo.
 
 
 
@@ -8909,6 +10961,132 @@ and to be the red heart of a man's [[house]] and that hearth for which,
 as the great heathens said, a man should die.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+PARTE TERZA
+
+IL FEMMINISMO, OVVERO L'ERRORE SULLA DONNA
+
+* * *
+
+I
+
+LA SUFFRAGETTA NON MILITARE
+
+Sarà meglio adottare in questo capitolo lo stesso procedimento che è parso
+un atto di giustizia mentale nel precedente. Le mie opinioni generali
+sulla questione femminile sono tali che molti suffragisti approverebbero
+con calore; e sarebbe facile enunciarle senza alcun riferimento esplicito
+all'attuale controversia. Ma proprio come è parso più decoroso dire
+anzitutto che non ero a favore dell'Imperialismo neppure nel suo senso
+pratico e popolare, così pare più decoroso dire lo stesso del Suffragio
+Femminile, nel suo senso pratico e popolare. In altre parole, è solo
+giusto enunciare, per quanto frettolosamente, l'obiezione superficiale
+alle Suffragette prima di passare alle questioni davvero sottili che
+stanno dietro il Suffragio.
+
+[[Well|Ebbene]], per sbrigare questa faccenda onesta ma sgradevole,
+l'obiezione alle Suffragette non è che siano Suffragette Militanti. Al
+contrario, è che non sono abbastanza militanti. Una rivoluzione è una cosa
+militare; possiede tutte le virtù militari; una delle quali è che giunge a
+una fine. Due parti combattono con armi letali, ma sotto certe regole di
+onore arbitrario; la parte che vince diventa il [[government|governo]] e
+procede a governare. Lo scopo della guerra civile, come lo scopo di ogni
+guerra, è la pace. Ora le Suffragette non possono suscitare una guerra
+civile in questo senso soldatesco e decisivo; primo, perché sono donne; e,
+secondo, perché sono pochissime donne. Ma possono suscitare qualcos'altro;
+che è tutt'altro paio di maniche. Non creano una rivoluzione; ciò che
+creano è l'anarchia; e la differenza fra queste non è una questione di
+violenza, ma una questione di fecondità e finalità. La rivoluzione per sua
+[[Nature|natura]] produce [[government|governo]]; l'anarchia produce
+soltanto altra anarchia. Gli uomini possono avere le opinioni che vogliono
+sulla decapitazione di [[King|re]] Carlo o di [[King|re]] Luigi, ma non
+possono negare che Bradshaw e Cromwell governarono, che Carnot e Napoleone
+governarono. Qualcuno vinse; qualcosa accadde. Si può mozzare la testa al
+[[King|re]] una sola volta. Ma si può far cadere il cappello del [[King|re]]
+un numero qualsiasi di volte. La distruzione è finita, l'ostruzione è
+infinita: finché la ribellione prende la forma di mero disordine (invece
+di un tentativo di imporre un nuovo ordine) non vi è fine logica ad essa;
+può nutrirsi di sé stessa e rinnovarsi per sempre. Se Napoleone non avesse
+voluto essere Console, ma avesse voluto solo essere una seccatura, avrebbe
+potuto, forse, impedire a qualsiasi [[government|governo]] di sorgere con
+successo dalla Rivoluzione. Ma un tale procedere non avrebbe meritato il
+dignitoso nome di ribellione.
+
+È esattamente questa qualità non militante nelle Suffragette a costituire
+il loro problema superficiale. Il problema è che la loro azione non
+possiede nessuno dei vantaggi della violenza definitiva; non offre una
+prova. La guerra è una cosa terribile; ma dimostra due punti in modo netto
+e inconfutabile—il numero, e un valore innaturale. Si scoprono davvero le
+due questioni urgenti; quanti ribelli vi siano in vita, e quanti siano
+pronti a essere morti. Ma una minuscola minoranza, persino una minoranza
+interessata, può mantenere il mero disordine per sempre. Vi è inoltre,
+naturalmente, nel caso di queste donne, l'ulteriore falsità che è
+introdotta dal loro sesso. È falso presentare la faccenda come una mera
+brutale questione di forza. Se i suoi muscoli danno a un uomo un voto,
+allora il suo [[Horse|cavallo]] dovrebbe avere due voti e il suo elefante
+cinque voti. La [[Truth|verità]] è più sottile di così; è che l'esplosione
+fisica è l'arma istintiva dell'uomo, come gli zoccoli per il
+[[Horse|cavallo]] o le zanne per l'elefante. Ogni tumulto è una minaccia
+di guerra; ma la donna brandisce un'arma che non potrà mai usare. Vi sono
+molte armi che essa potrebbe usare e usa. Se (per esempio) tutte le donne
+assillassero per ottenere il voto lo otterrebbero in un mese. Ma anche lì,
+bisogna ricordare, sarebbe necessario indurre tutte le donne ad assillare.
+E questo ci porta alla fine della superficie politica della faccenda.
+L'obiezione pratica alla [[philosophy|filosofia]] delle Suffragette è
+semplicemente che milioni schiaccianti di donne non sono d'accordo con
+essa. So bene che alcuni sostengono che le donne dovrebbero avere il voto
+sia che la maggioranza lo voglia sia che no; ma questo è certo uno strano
+e puerile caso di erigere una [[Democracy|democrazia]] formale a
+distruzione della [[Democracy|democrazia]] reale. Che cosa dovrebbe
+decidere la massa delle donne se non decide il proprio posto generale
+nello Stato? Questa gente in pratica dice che le femmine possono votare su
+tutto tranne che sul Suffragio Femminile.
+
+Ma avendo di nuovo sgombrato la mia [[Conscience|coscienza]] dalla mia
+opinione meramente politica e forse impopolare, tornerò di nuovo indietro
+e cercherò di trattare la faccenda in uno stile più lento e più
+comprensivo; tenterò di rintracciare le vere radici della posizione della
+donna nello stato occidentale, e le cause delle nostre tradizioni
+esistenti o forse dei pregiudizi su questo punto. E a tale scopo è ancora
+una volta necessario viaggiare lontano dal tema moderno, la mera
+Suffragetta di oggi, e risalire a soggetti che, benché assai più antichi,
+sono, credo, considerevolmente più freschi.
+
+* * *
+
+II
+
+IL BASTONE UNIVERSALE
+
+Girate l'occhio per la stanza in cui sedete, e scegliete tre o quattro
+cose che sono state con l'uomo quasi fin dal suo principio; delle quali
+almeno sentiamo parlare presto nei secoli e spesso fra le tribù.
+Supponiamo che vediate un coltello sul tavolo, un bastone nell'angolo, o
+un [[Fire|fuoco]] sul focolare. Riguardo a ciascuna di queste noterete una
+particolarità; che non una di esse è particolare. Ciascuna di queste cose
+ancestrali è una cosa universale; fatta per soddisfare molti bisogni
+differenti; e mentre pedanti traballanti vanno ficcando il naso in giro
+per trovare la causa e l'origine di qualche vecchia usanza, la
+[[Truth|verità]] è che essa aveva cinquanta cause o cento origini. Il
+coltello è fatto per tagliare la legna, per tagliare il [[cheese|formaggio]],
+per temperare le matite, per tagliare le gole; per una miriade di scopi
+umani ingegnosi o [[Innocent|innocenti]]. Il bastone è fatto in parte per
+sorreggere un uomo, in parte per abbattere un uomo; in parte per indicare
+come un dito, in parte per bilanciarsi come un bilanciere, in parte per
+gingillarsi come una sigaretta, in parte per uccidere come la clava di un
+gigante; è una stampella e un randello; un dito allungato e una gamba in
+più. Lo stesso vale, naturalmente, per il [[Fire|fuoco]]; a proposito del
+quale sono sorte le più strane concezioni moderne. Pare corra una bizzarra
+fantasia secondo cui un [[Fire|fuoco]] esiste per riscaldare la gente.
+Esso esiste per riscaldare la gente, per illuminare la sua oscurità, per
+risollevarne lo spirito, per tostare i suoi muffin, per arieggiare le sue
+stanze, per cuocere le sue castagne, per raccontare storie ai suoi
+bambini, per fare ombre screziate sui suoi muri, per far bollire i suoi
+frettolosi bollitori, e per essere il cuore rosso della [[house|casa]] di
+un uomo e quel focolare per cui, come dissero i grandi pagani, un uomo
+dovrebbe morire.
+
 
 
 <span class="atom-split" data-atom="chapter_07--part_02" data-title="whats wrong — Part 3 (part 2)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="motif/bells,motif/desert,motif/fire,motif/home,motif/horse,motif/nature,motif/time,motif/water,motif/well,motif/wheel,concept/conscience,concept/education,concept/nature,concept/wonder,form/parable,setting/court,setting/desert"></span>
@@ -9063,6 +11241,149 @@ For cleverness kills wisdom; that is one of the few sad
 and certain things.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Ora è il gran segno della nostra modernità che la gente propone sempre
+sostituti a queste vecchie cose; e questi sostituti rispondono sempre a
+uno scopo là dove la vecchia cosa ne rispondeva dieci. L'uomo moderno
+agiterà una sigaretta invece di un bastone; temperà la sua matita con un
+piccolo temperamatite a vite invece che con un coltello; e persino offrirà
+arditamente di essere riscaldato da tubi d'[[Water|acqua]] calda invece che
+da un [[Fire|fuoco]]. Ho i miei dubbi sui temperamatite persino per
+temperare le matite; e sui tubi d'[[Water|acqua]] calda persino per il
+calore. Ma quando pensiamo a tutti quegli altri requisiti a cui queste
+istituzioni rispondevano, si spalanca dinanzi a noi l'intera orribile
+arlecchinata della nostra civiltà. Vediamo come in una visione un mondo in
+cui un uomo cerca di tagliarsi la gola con un temperamatite; in cui un uomo
+deve imparare la scherma col bastone servendosi di una sigaretta; in cui un
+uomo deve cercare di tostare i muffin alle lampade elettriche, e vedere
+castelli rossi e dorati nella superficie di tubi d'[[Water|acqua]] calda.
+
+Il principio di cui parlo può essere visto ovunque in un confronto fra le
+cose antiche e universali e le cose moderne e specialistiche. L'oggetto di
+un teodolite è di stare in piano; l'oggetto di un bastone è di oscillare
+libero a qualunque angolo; di roteare come la [[Wheel|ruota]] stessa della
+libertà. L'oggetto di una lancetta è di lancinare; quando la si usa per
+fendere, squarciare, sventrare, mozzare teste e membra, è uno strumento
+deludente. L'oggetto di una luce elettrica è meramente di illuminare (una
+spregevole modestia); e l'oggetto di una stufa d'amianto... Mi
+[[Wonder|domando]] quale sia l'oggetto di una stufa d'amianto? Se un uomo
+trovasse una matassa di corda in un [[Desert|deserto]] potrebbe almeno
+pensare a tutte le cose che si possono fare con una matassa di corda; e
+alcune di esse potrebbero persino essere pratiche. Potrebbe rimorchiare
+una barca o prendere al lazo un [[Horse|cavallo]]. Potrebbe giocare al
+gioco del ripiglino, o sfilacciare stoppa. Potrebbe costruire una scala di
+corda per un'ereditiera in fuga, o legare i bauli di una zia zitella in
+viaggio. Potrebbe imparare ad annodare un fiocco, oppure potrebbe
+impiccarsi. Ben diversamente per lo sfortunato viaggiatore che trovasse un
+telefono nel [[Desert|deserto]]. Con un telefono si può telefonare; non se
+ne può fare nient'altro. E benché questo sia uno dei più selvaggi piaceri
+della vita, decade di un grado dal suo pieno delirio quando non c'è
+nessuno a risponderti. La tesi è, in breve, che si devono strappare cento
+radici, e non una, prima di sradicare uno qualsiasi di questi canuti e
+semplici espedienti. È solo con grande difficoltà che si può indurre un
+moderno sociologo scientifico a vedere che qualche vecchio metodo abbia
+una gamba su cui reggersi. Ma quasi ogni vecchio metodo ha quattro o
+cinque gambe su cui reggersi. Quasi tutte le vecchie istituzioni sono
+quadrupedi; e alcune di esse sono centopiedi.
+
+Considerate questi casi, vecchi e nuovi, e osserverete l'operare di una
+tendenza generale. Ovunque c'era una grande cosa che serviva a sei scopi;
+ovunque ora vi sono sei piccole cose; o, piuttosto (e qui sta il guaio),
+ve ne sono appena cinque e mezzo. Nondimeno, non diremo che questa
+separazione e questo specialismo siano interamente inutili o inescusabili.
+Ho spesso ringraziato Dio per il telefono; potrò un giorno qualsiasi
+ringraziare Dio per la lancetta; e non ve n'è alcuna di queste brillanti e
+anguste invenzioni (eccetto, naturalmente, la stufa d'amianto) che non
+possa in qualche momento essere necessaria e amabile. Ma non credo che il
+più austero sostenitore dello specialismo negherà che in queste vecchie
+istituzioni dai molti lati vi sia un elemento di [[unity|unità]] e
+universalità che può [[Well|ben]] essere preservato nella sua giusta
+proporzione e collocazione. Spiritualmente, almeno, si ammetterà che è
+necessario un qualche equilibrio a tutto tondo per pareggiare la
+stravaganza degli esperti. Non sarebbe difficile portare la
+[[Parable|parabola]] del coltello e del bastone in regioni più alte. La
+religione, l'immortale fanciulla, è stata una serva tuttofare non meno
+[[Well|bene]] che una serva del genere umano. Essa forniva agli uomini a
+un tempo le leggi teoriche di un cosmo immutabile e insieme le regole
+pratiche del rapido ed emozionante gioco della [[morality|moralità]].
+Insegnava la [[logic|logica]] allo studente e raccontava fiabe ai bambini;
+era compito suo affrontare gli innominati dèi i cui terrori gravano su
+ogni carne, e insieme badare che le strade fossero macchiate d'argento e
+di scarlatto, che vi fosse un giorno per portare nastri o un'ora per
+suonare le [[Bells|campane]]. I grandi usi della religione sono stati
+spezzettati in specialità minori, proprio come gli usi del focolare sono
+stati spezzettati in tubi d'[[Water|acqua]] calda e lampadine elettriche.
+Il [[Romance|romanticismo]] del rito e dell'emblema colorato è stato
+assunto da quella più angusta di tutte le arti, l'arte moderna (quella
+detta arte per l'arte), e agli uomini nella pratica moderna si fa sapere
+che possono usare tutti i simboli purché con essi non intendano nulla. Il
+[[Romance|romanticismo]] della [[Conscience|coscienza]] è stato prosciugato
+nella scienza dell'etica; che può [[Well|ben]] chiamarsi decenza per amor
+di decenza, decenza [[unborn|non nata]] da energie cosmiche e sterile di
+fiore artistico. Il grido ai fiochi dèi, reciso dall'etica e dalla
+cosmologia, è divenuto mera Ricerca Psichica. Ogni cosa è stata scissa da
+ogni altra cosa, e ogni cosa si è raffreddata. Presto sentiremo di
+specialisti che dividono la melodia dalle parole di una [[Song|canzone]],
+col pretesto che si guastino a vicenda; e io una volta incontrai davvero
+un uomo che apertamente propugnava la separazione delle mandorle dall'uva
+passa. Questo mondo è tutto un unico selvaggio [[Court|tribunale]] di
+[[divorce|divorzio]]; nondimeno, vi sono molti che ancora odono nelle loro
+anime il tuono dell'autorità dell'abitudine umana; coloro che l'Uomo ha
+congiunto nessun uomo separi.
+
+Questo libro deve evitare la religione, ma vi devono (dico) essere molti,
+religiosi e irreligiosi, che concederanno che questo potere di rispondere
+a molti scopi era una sorta di forza che non dovrebbe del tutto
+estinguersi dalle nostre vite. Come parte del carattere personale, persino
+i moderni ammetteranno che la poliedricità è un pregio, e un pregio che
+può facilmente essere trascurato. Questo equilibrio e questa universalità
+sono stati la visione di molti gruppi di uomini in molte epoche. Furono
+l'[[Education|Educazione]] Liberale di Aristotele; l'arte da tuttofare di
+Leonardo da Vinci e dei suoi amici; l'augusto dilettantismo del Cavaliere
+di Qualità come Sir William Temple o il grande Conte di Dorset. È apparso
+in letteratura ai nostri [[Time|tempi]] nelle forme più erratiche e
+opposte, messo in musica quasi inudibile da Walter Pater ed enunciato
+attraverso una sirena da nebbia da Walt Whitman. Ma la gran massa degli
+uomini è sempre stata incapace di raggiungere questa universalità
+letterale, a causa della [[Nature|natura]] del proprio lavoro nel mondo.
+Non, si badi, a causa dell'esistenza del proprio lavoro. Leonardo da Vinci
+deve aver lavorato assai duramente; d'altro canto, più d'un impiegato di
+[[government|governo]], poliziotto di villaggio o idraulico inafferrabile
+può non fare (a ogni umana apparenza) alcun lavoro, e tuttavia non mostrare
+alcun segno dell'universalismo aristotelico. Ciò che rende difficile
+all'uomo medio essere un universalista è che l'uomo medio deve essere uno
+specialista; egli non solo deve imparare un mestiere, ma impararlo tanto
+[[Well|bene]] da sostenersi in una società più o meno spietata. Questo è
+generalmente vero degli uomini dal primo cacciatore all'ultimo ingegnere
+elettrotecnico; ciascuno non deve semplicemente agire, ma eccellere.
+Nimrod non solo deve essere un potente cacciatore al cospetto del Signore,
+ma anche un potente cacciatore al cospetto degli altri cacciatori.
+L'ingegnere elettrotecnico deve essere un ingegnere assai elettrotecnico, o
+è superato da ingegneri ancor più elettrotecnici. Quegli stessi miracoli
+della mente umana di cui il mondo moderno si vanta, e a ragione nel
+complesso, sarebbero impossibili senza una certa concentrazione che turba
+il puro equilibrio della ragione più di quanto non faccia il bigottismo
+religioso. Nessun credo può essere tanto limitante quanto quella tremenda
+ingiunzione che il calzolaio non debba andare oltre la sua forma. Così i
+più grandi e selvaggi colpi del nostro mondo non vanno che in una sola
+direzione e con una traiettoria definita: l'artigliere non può andare
+oltre il suo colpo, e il suo colpo così spesso cade corto; l'astronomo non
+può andare oltre il suo telescopio e il suo telescopio arriva così poco
+lontano. Tutti costoro sono come uomini che sono stati sull'alta vetta di
+una montagna e hanno visto l'orizzonte come un unico anello e che poi
+discendono per sentieri diversi verso città diverse, viaggiando lenti o
+veloci. È giusto; vi devono essere persone che viaggiano verso città
+diverse; vi devono essere specialisti; ma non dovrà nessuno contemplare
+l'orizzonte? Dovrà tutto il genere umano essere fatto di chirurghi
+specialisti o di idraulici peculiari; dovrà tutta l'umanità essere
+monomaniaca? La tradizione ha deciso che solo metà dell'umanità sarà
+monomaniaca. Ha deciso che in ogni [[Home|casa]] vi sarà un mercante e un
+tuttofare. Ma ha anche deciso, fra le altre cose, che il tuttofare sarà
+una donna-tuttofare. L'ingegno sarà lasciato agli uomini e la saggezza
+alle donne. Poiché l'ingegno uccide la saggezza; questa è una delle poche
+cose tristi e certe.
+
 
 
 <span class="atom-split" data-atom="chapter_07--part_03" data-title="whats wrong — Part 3 (part 3)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="archetype/child,archetype/king,motif/fire,motif/home,motif/machine,motif/time,motif/water,concept/ambition,concept/doubt"></span>
@@ -9169,6 +11490,111 @@ The French [[King]] wrote--
 
 "Toujours femme varie Bien fol qui s'y fie,"
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Ma per le donne questo ideale di capacità onnicomprensiva (o buon senso)
+deve da lungo tempo essere stato spazzato via. Deve essersi fuso nelle
+spaventose fornaci dell'[[Ambition|ambizione]] e dell'avida tecnicità. Un
+uomo dev'essere in parte un uomo di una sola idea, perché è un uomo di una
+sola arma—ed è scagliato nudo nella lotta. La richiesta del mondo giunge a
+lui direttamente; a sua moglie indirettamente. In breve, egli deve (come
+dicono i libri sul [[success|Successo]]) dare «il meglio di sé»; e che
+piccola parte di un uomo è «il meglio di sé»! Il suo secondo e terzo
+meglio sono spesso assai migliori. Se è il primo violino deve suonare per
+tutta la vita; non deve ricordare di essere una buona quarta cornamusa,
+una discreta quindicesima stecca da biliardo, un fioretto, una penna
+stilografica, un giocatore di whist, un fucile, e un'immagine di Dio.
+
+* * *
+
+III
+
+L'EMANCIPAZIONE DELLA DOMESTICITÀ
+
+E si dovrebbe osservare di sfuggita che questa costrizione su un uomo a
+sviluppare un solo tratto non ha nulla a che fare con ciò che comunemente
+si chiama il nostro sistema competitivo, ma esisterebbe ugualmente sotto
+qualunque forma razionalmente concepibile di Collettivismo. A meno che i
+socialisti non siano francamente pronti a un abbassamento del livello dei
+violini, dei telescopi e delle luci elettriche, essi devono in qualche
+modo creare una domanda morale sull'individuo affinché mantenga la sua
+attuale concentrazione su queste cose. Fu solo per il fatto che gli uomini
+erano in qualche grado specialisti che vi furono mai dei telescopi; essi
+devono certamente essere in qualche grado specialisti per tenerli in
+funzione. Non è facendo di un uomo un salariato dello Stato che gli si può
+impedire di pensare principalmente al modo assai difficile in cui guadagna
+il suo salario. Vi è un solo modo di preservare nel mondo quell'alta
+levità e quello sguardo più agiato che adempie l'antica visione
+dell'universalismo. Ossia, permettere l'esistenza di una metà parzialmente
+protetta dell'umanità; una metà che l'assillante domanda industriale turba
+certo, ma turba solo indirettamente. In altre parole, vi dev'essere in
+ogni centro dell'umanità un essere umano concepito su un piano più vasto;
+uno che non dà «il meglio di sé», ma dà tutta sé stessa.
+
+La nostra vecchia analogia del [[Fire|fuoco]] rimane la più praticabile. Il
+[[Fire|fuoco]] non ha bisogno di fiammeggiare come l'elettricità né di
+bollire come l'[[Water|acqua]] bollente; il suo punto è che fiammeggia più
+dell'[[Water|acqua]] e riscalda più della luce. La moglie è come il
+[[Fire|fuoco]], o, per mettere le cose nella loro giusta proporzione, il
+[[Fire|fuoco]] è come la moglie. Come il [[Fire|fuoco]], ci si aspetta che
+la donna cucini: non che eccella nel cucinare, ma che cucini; che cucini
+meglio del marito che guadagna il coke tenendo conferenze di botanica o
+spaccando pietre. Come il [[Fire|fuoco]], ci si aspetta che la donna
+racconti storie ai bambini, non storie originali e artistiche, ma
+storie—storie migliori di quelle che probabilmente racconterebbe un cuoco
+di prim'ordine. Come il [[Fire|fuoco]], ci si aspetta che la donna illumini
+e ventili, non con le rivelazioni più sbalorditive o i più selvaggi venti
+del pensiero, ma meglio di quanto possa fare un uomo dopo aver spaccato
+pietre o tenuto conferenze. Ma non le si può chiedere di sopportare
+qualcosa come questo dovere universale se deve anche sopportare la diretta
+crudeltà della fatica competitiva o burocratica. La donna dev'essere una
+cuoca, ma non una cuoca competitiva; una maestra, ma non una maestra
+competitiva; una decoratrice di [[house|case]] ma non una decoratrice di
+[[house|case]] competitiva; una sarta, ma non una sarta competitiva. Non
+dovrebbe avere un solo mestiere ma venti passatempi; essa, a differenza
+dell'uomo, può sviluppare tutti i suoi secondi meglio. Questo è ciò a cui
+si è realmente mirato fin dal principio in ciò che si chiama la
+segregazione, o persino l'oppressione, delle donne. Le donne non erano
+tenute in [[Home|casa]] per renderle anguste; al contrario, erano tenute
+in [[Home|casa]] per renderle ampie. Il mondo fuori dalla [[Home|casa]]
+era una massa unica di angustia, un labirinto di sentieri angusti, un
+manicomio di monomaniaci. Fu solo limitando e proteggendo in parte la
+donna che le fu consentito di giocare a cinque o sei professioni e così
+arrivare quasi vicina a Dio come il [[Child|fanciullo]] quando gioca a
+cento mestieri. Ma le professioni della donna, a differenza di quelle del
+[[Child|fanciullo]], erano tutte veramente e quasi terribilmente feconde;
+così tragicamente reali che nulla se non la sua universalità ed equilibrio
+impediva loro di essere meramente morbose. Questa è la sostanza della tesi
+che offro sulla storica posizione femminile. Non nego che le donne siano
+state offese e persino torturate; ma [[Doubt|dubito]] che siano mai state
+torturate tanto quanto lo sono ora dall'assurdo tentativo moderno di
+renderle imperatrici domestiche e impiegate competitive nello stesso
+[[Time|tempo]]. Non nego che persino sotto la vecchia tradizione le donne
+avessero un [[Time|tempo]] più duro degli uomini; è per questo che ci
+togliamo il cappello. Non nego che tutte queste svariate funzioni
+femminili fossero esasperanti; ma dico che vi era un qualche scopo e
+significato nel mantenerle svariate. Non mi fermo neppure a negare che la
+donna fosse una serva; ma almeno era una serva tuttofare.
+
+Il modo più breve di riassumere la posizione è dire che la donna sta per
+l'idea di [[Sanity|Sanità mentale]]; quella [[Home|casa]] intellettuale a
+cui la mente deve ritornare dopo ogni escursione nella stravaganza. La
+mente che trova la strada verso luoghi selvaggi è quella del poeta; ma la
+mente che non ritrova mai la strada del ritorno è quella del pazzo. Vi
+dev'essere in ogni [[Machine|macchina]] una parte che si muove e una parte
+che sta ferma; vi dev'essere in ogni cosa che cambia una parte che è
+immutabile. E molti dei fenomeni che i moderni condannano frettolosamente
+sono in realtà parti di questa posizione della donna come centro e
+pilastro della salute. Molto di ciò che si chiama la sua remissività, e
+persino la sua arrendevolezza, è semplicemente la remissività e
+l'arrendevolezza di un rimedio universale; essa varia come variano le
+medicine, con la malattia. Deve essere un'ottimista per il marito morboso,
+una salutare pessimista per il marito spensierato. Deve impedire che il
+Chisciotte sia raggirato, e che il prepotente prevarichi sugli altri. Il
+[[King|re]] francese scrisse—
+
+«Toujours femme varie Bien fol qui s'y fie,»
 
 
 
@@ -9280,6 +11706,111 @@ entirely in order to preserve her own.  The two points on which woman,
 actually and of herself, is most tenacious may be roughly summarized
 as the ideal of thrift and the ideal of dignity.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+ma la [[Truth|verità]] è che la donna varia sempre, ed è esattamente per
+questo che sempre le prestiamo fiducia. Correggere ogni avventura e
+stravaganza col suo antidoto nel buon senso non significa (come i moderni
+paiono credere) trovarsi nella posizione di una spia o di una schiava.
+Significa trovarsi nella posizione di Aristotele o (al minimo) di Herbert
+Spencer, essere una [[morality|moralità]] universale, un completo sistema
+di pensiero. La schiava adula; il moralista completo rimprovera. Significa,
+in breve, essere un Trimmer nel vero senso di quel termine onorevole; che
+per una ragione o l'altra è sempre usato in un senso esattamente opposto al
+proprio. Pare davvero si supponga che un Trimmer significhi una persona
+codarda che passa sempre dalla parte più forte. Significa in realtà una
+persona altamente cavalleresca che passa sempre dalla parte più debole;
+come chi bilancia una barca sedendosi dove pochi sono seduti. La donna è un
+trimmer; ed è un mestiere generoso, pericoloso e romantico.
+
+Il fatto conclusivo che fissa questo è abbastanza evidente. Ammesso che si
+conceda che l'umanità ha agito almeno non innaturalmente dividendosi in due
+metà, che tipizzano rispettivamente gli ideali del talento speciale e della
+[[Sanity|sanità mentale]] generale (poiché sono genuinamente difficili da
+combinare completamente in una sola mente), non è difficile capire perché
+la linea di frattura abbia seguito la linea del sesso, o perché la femmina
+sia divenuta l'emblema dell'universale e il maschio quello dello speciale e
+superiore. Due giganteschi fatti di [[Nature|natura]] la fissarono così:
+primo, che la donna che frequentemente adempiva letteralmente le sue
+funzioni non poteva essere particolarmente in vista nell'esperimento e
+nell'avventura; e secondo, che la stessa operazione naturale la circondava
+di bambini piccolissimi, che hanno bisogno che si insegni loro non tanto
+qualcosa quanto ogni cosa. I neonati non hanno bisogno che si insegni loro
+un mestiere, ma che li si introduca a un mondo. Per dirla in breve, la
+donna è generalmente rinchiusa in una [[house|casa]] con un essere umano
+nel [[Time|momento]] in cui costui pone tutte le domande che esistono, e
+alcune che non esistono. Sarebbe strano se essa conservasse un po'
+dell'angustia di uno specialista. Ora se qualcuno dice che questo dovere di
+illuminazione generale (anche quando è liberato dalle regole e dagli orari
+moderni, ed esercitato più spontaneamente da una persona più protetta) è in
+sé troppo gravoso e opprimente, posso comprendere il punto di vista. Posso
+solo rispondere che la nostra razza ha ritenuto valesse la pena di gettare
+questo fardello sulle donne per mantenere il buon senso nel mondo. Ma
+quando la gente comincia a parlare di questo dovere domestico come non
+soltanto difficile ma triviale e tetro, rinuncio semplicemente alla
+questione. Poiché non riesco, con la massima energia dell'[[Imagination|immaginazione]],
+a concepire che cosa intendano. Quando la domesticità, per esempio, è
+chiamata sgobbata, tutta la difficoltà nasce da un [[Double|doppio]]
+significato nella parola. Se sgobbata significa solo lavoro spaventosamente
+duro, ammetto che la donna sgobbi in [[Home|casa]], come un uomo potrebbe
+sgobbare alla [[Cathedral|Cattedrale]] di Amiens o sgobbare dietro un
+cannone a Trafalgar. Ma se significa che il duro lavoro è più gravoso
+perché è insignificante, incolore e di poca importanza per l'[[Soul|anima]],
+allora, come dico, rinuncio; non so che cosa vogliano dire le parole.
+Essere [[Queen Elizabeth|Regina Elisabetta]] entro un'area definita,
+decidendo vendite, banchetti, fatiche e vacanze; essere Whiteley entro una
+certa area, fornendo giocattoli, stivali, lenzuola, dolci e libri, essere
+Aristotele entro una certa area, insegnando morale, buone maniere,
+teologia e igiene; posso capire come questo possa sfinire la mente, ma non
+riesco a immaginare come possa restringerla. Come può essere una grande
+carriera insegnare ai figli altrui la regola del tre, e una piccola
+carriera insegnare ai propri figli l'universo? Come può essere ampio
+essere la stessa cosa per tutti, e angusto essere ogni cosa per qualcuno?
+No; la funzione della donna è laboriosa, ma perché è gigantesca, non
+perché è minuta. Compiangerò la signora [[Jones]] per l'enormità del suo
+compito; non la compiangerò mai per la sua piccolezza.
+
+Ma benché l'essenziale del compito della donna sia l'universalità, questo
+non le impedisce, naturalmente, di avere uno o due pregiudizi severi
+benché in gran parte salutari. Essa è stata, nel complesso, più consapevole
+dell'uomo di essere solo una metà dell'umanità; ma l'ha espresso (se così
+si può dire di una signora) piantando i denti nelle due o tre cose per cui
+pensa di stare. Osserverei qui tra parentesi che gran parte dei recenti
+guai ufficiali riguardo alle donne è sorta dal fatto che esse trasferiscono
+a cose di [[Doubt|dubbio]] e di ragione quella sacra ostinazione propria
+soltanto delle cose primarie che una donna era posta a custodire. I propri
+figli, il proprio altare, dovrebbero essere una questione di principio—o,
+se preferite, una questione di pregiudizio. D'altro canto, chi abbia
+scritto le Lettere di Junius non dovrebbe essere un principio o un
+pregiudizio, dovrebbe essere una questione di libera e quasi indifferente
+indagine. Ma prendete un'energica moderna ragazza segretaria di una lega
+volta a dimostrare che Giorgio III scrisse Junius, e in tre mesi lo crederà
+anche lei, per pura lealtà verso i suoi datori di lavoro. Le donne moderne
+difendono il proprio ufficio con tutta la ferocia della domesticità.
+Combattono per la scrivania e la macchina da scrivere come per il focolare
+e la [[Home|casa]], e sviluppano una sorta di lupesca moglieria in favore
+dell'invisibile capo della ditta. È per questo che svolgono il lavoro
+d'ufficio così [[Well|bene]]; ed è per questo che non dovrebbero farlo.
+
+* * *
+
+IV
+
+IL [[Romance|ROMANTICISMO]] DELLA PARSIMONIA
+
+La parte maggiore del genere femminile, tuttavia, ha dovuto combattere per
+cose leggermente più inebrianti per l'occhio della scrivania o della
+macchina da scrivere; e non si può negare che, nel difenderle, le donne
+abbiano sviluppato la qualità chiamata pregiudizio a un grado potente e
+persino minaccioso. Ma questi pregiudizi si troveranno sempre a
+fortificare la posizione principale della donna, che è di rimanere una
+sovrintendente generale, un'autocrate entro un piccolo raggio ma su tutti i
+lati. Sull'uno o due punti su cui essa realmente fraintende la posizione
+dell'uomo, è quasi interamente per preservare la propria. I due punti su
+cui la donna, effettivamente e di per sé, è più tenace possono essere
+riassunti grossolanamente come l'ideale della parsimonia e l'ideale della
+dignità.
 
 
 
@@ -9402,6 +11933,120 @@ High and low, the woman's objection to the Public [[house|House]] is
 perfectly definite and rational, it is that the Public [[house|House]]
 wastes the energies that could be used on the private [[house]].
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Sfortunatamente per questo libro, esso è scritto da un maschio, e queste
+due qualità, se non odiose a un uomo, sono per lo meno odiose in un uomo.
+Ma se dobbiamo regolare la questione dei sessi in modo un minimo equo,
+tutti i maschi devono compiere un tentativo immaginativo di entrare
+nell'atteggiamento di tutte le buone donne verso queste due cose. La
+difficoltà esiste specialmente, forse, nella cosa chiamata parsimonia; noi
+uomini ci siamo tanto incoraggiati a vicenda a gettare denaro a destra e a
+manca, che è finito per esservi una sorta di aria cavalleresca e poetica
+nel perdere sei pence. Ma a una considerazione più ampia e più candida il
+caso a stento sta così.
+
+La parsimonia è la cosa davvero romantica; l'economia è più romantica della
+prodigalità. Il Cielo sa che io, per parte mia, parlo in modo disinteressato
+in questa faccenda; poiché non riesco a ricordare chiaramente di aver
+risparmiato un mezzo penny da quando sono nato. Ma la cosa è vera;
+l'economia, propriamente intesa, è la più poetica. La parsimonia è poetica
+perché è creativa; lo spreco è impoetico perché è spreco. È prosaico
+gettar via il denaro, perché è prosaico gettar via qualsiasi cosa; è
+negativo; è una confessione di indifferenza, cioè, è una confessione di
+fallimento. La cosa più prosaica riguardo alla [[house|casa]] è la
+pattumiera, e l'unica grande obiezione al nuovo focolare schizzinoso ed
+estetico è semplicemente che in un tale ménage morale la pattumiera
+dev'essere più grande della [[house|casa]]. Se un uomo potesse impegnarsi a
+far uso di tutte le cose nella sua pattumiera sarebbe un genio più ampio di
+Shakespeare. Quando la scienza cominciò a usare i sottoprodotti; quando la
+scienza scoprì che i colori potevano essere ricavati dal catrame di
+carbone, essa avanzò la sua più grande e forse unica pretesa al vero
+rispetto dell'[[Soul|anima]] umana. Ora lo scopo della buona donna è di
+usare i sottoprodotti, o, in altre parole, di rovistare nella pattumiera.
+
+Un uomo può comprenderlo pienamente solo se pensa a qualche improvviso
+scherzo o espediente escogitato con materiali quali si possono trovare in
+una [[house|casa]] privata in un giorno di pioggia. Il preciso lavoro
+quotidiano di un uomo è generalmente condotto con una tale rigida comodità
+della scienza moderna che la parsimonia, il raccogliere qua e là aiuti
+potenziali, è divenuta quasi priva di significato per lui. Vi si imbatte
+soprattutto (come dico) quando gioca a qualche gioco entro quattro mura;
+quando negli sciarada, un tappeto da focolare andrà benissimo per una
+pelliccia, o un copriteiera andrà benissimo per una feluca; quando un
+teatrino di giocattoli ha bisogno di legname e cartone, e la [[house|casa]]
+ha giusto abbastanza legna da ardere e giusto abbastanza scatole da
+cappelli. Questo è l'occasionale scorcio, e piacevole [[Parody|parodia]],
+della parsimonia da parte dell'uomo. Ma più d'una brava massaia gioca lo
+stesso gioco ogni giorno con avanzi di [[cheese|formaggio]] e ritagli di
+seta, non perché sia meschina, ma al contrario, perché è magnanima; perché
+desidera che la sua creativa [[Mercy|misericordia]] sia sopra tutte le sue
+opere, che non una sola sardina sia distrutta, o gettata come rifiuto nel
+vuoto, quando essa ha completato la catasta.
+
+Il mondo moderno dev'essere in qualche modo indotto a comprendere (in
+teologia e in altre cose) che una veduta può essere vasta, ampia,
+universale, liberale e tuttavia entrare in conflitto con un'altra veduta
+che è vasta, ampia, universale e liberale anch'essa. Non vi è mai una
+guerra fra due sette, ma solo fra due universali Chiese Cattoliche. L'unica
+collisione possibile è la collisione di un cosmo con un altro. Così, in
+modo minore, dev'essere anzitutto chiarito che questo ideale economico
+femminile è una parte di quella varietà di veduta femminile e di
+quell'arte di vivere a tutto tondo che abbiamo già attribuito al sesso: la
+parsimonia non è una cosa piccola o timida o provinciale; è parte di quella
+grande idea della donna che veglia da tutti i lati fuori da tutte le
+finestre dell'[[Soul|anima]] ed è responsabile di ogni cosa. Poiché nella
+[[house|casa]] umana media vi è un solo buco da cui il denaro entra e cento
+da cui esce; l'uomo ha a che fare con l'unico buco, la donna con i cento.
+Ma benché la stessa spilorceria di una donna sia una parte della sua
+ampiezza spirituale, non è per questo meno vero che essa la porta in
+conflitto con quel particolare genere di ampiezza spirituale che appartiene
+ai maschi della tribù. La porta in conflitto con quell'informe cateratta di
+[[Comradeship|Cameratismo]], di caotico banchettare e assordante
+[[debate|dibattito]], che abbiamo notato nell'ultima sezione. Il tocco
+stesso dell'eterno nei due gusti sessuali li porta ancor più in
+antagonismo; poiché l'uno sta per una vigilanza universale e l'altro per
+una produzione quasi infinita. In parte per la [[Nature|natura]] della sua
+debolezza morale, e in parte per la [[Nature|natura]] della sua forza
+fisica, il maschio è normalmente incline a espandere le cose in una sorta
+di [[Eternity|eternità]]; egli pensa sempre a una cena come se durasse
+tutta la [[Night|notte]]; e pensa sempre a una [[Night|notte]] come se
+durasse per sempre. Quando le donne lavoratrici nei quartieri poveri
+vengono alle porte delle case pubbliche e cercano di riportare i loro
+mariti a [[Home|casa]], i «lavoratori sociali» dalla mente semplice
+immaginano sempre che ogni marito sia un tragico ubriacone e ogni moglie
+una santa dal cuore spezzato. Non viene loro mai in mente che la povera
+donna sta solo facendo, sotto convenzioni più rozze, esattamente ciò che
+ogni padrona di casa alla moda fa quando cerca di distogliere gli uomini
+dal discutere sui sigari per venire a chiacchierare davanti alle tazze da
+tè. Queste donne non sono esasperate solo dalla quantità di denaro che si
+spreca in birra; sono esasperate anche dalla quantità di [[Time|tempo]] che
+si spreca in chiacchiere. Non è soltanto ciò che entra nella bocca ma ciò
+che esce dalla bocca che, a loro parere, contamina un uomo. Solleveranno
+contro un ragionamento (come le loro sorelle di ogni ceto) la ridicola
+obiezione che nessuno ne è convinto; come se un uomo volesse fare uno
+schiavo del [[Body|corpo]] di chiunque con cui abbia giocato alla scherma
+col bastone. Ma il vero pregiudizio femminile su questo punto non è privo
+di fondamento; il vero sentimento è questo, che i più maschili piaceri
+hanno una qualità di [[ephemeral|effimero]]. Una duchessa può rovinare un
+duca per una collana di diamanti; ma la collana c'è. Un venditore
+ambulante può rovinare la moglie per un boccale di birra; e dov'è la birra?
+La duchessa litiga con un'altra duchessa allo scopo di schiacciarla, di
+produrre un risultato; il venditore ambulante non discute con un altro
+venditore allo scopo di convincerlo, ma allo scopo di godere all'istante il
+suono della propria voce, la chiarezza delle proprie opinioni e il senso
+della società maschile. Vi è questo elemento di una raffinata infruttuosità
+nei godimenti maschili; il vino è versato in un secchio senza fondo; il
+pensiero si tuffa in un abisso senza fondo. Tutto questo ha posto la donna
+contro la [[house|Casa]] Pubblica—cioè, contro la [[house|Casa]] del
+Parlamento. Essa è lì per impedire lo spreco; e il «pub» e il parlamento
+sono i veri palazzi dello spreco. Nelle classi superiori il «pub» è
+chiamato il club, ma questo non fa più differenza per la ragione di quanta
+ne faccia per la rima. In alto e in basso, l'obiezione della donna alla
+[[house|Casa]] Pubblica è perfettamente definita e razionale: è che la
+[[house|Casa]] Pubblica spreca le energie che potrebbero essere usate sulla
+[[house|casa]] privata.
 
 
 
@@ -9762,6 +12407,144 @@ women ever were married by capture I think they pretended to be;
 as they do still.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Ma introduco il lettore in questa atmosfera delle più antiche e più franche
+opere di finzione solo perché sia indotto ad avere per un momento pazienza
+con un certo elemento che è assai comune nella decorazione e nella
+letteratura di quell'epoca e dei due secoli che la precedettero. È
+necessario menzionarlo in tale contesto perché è esattamente una di quelle
+cose che sembrano superficiali come la cipria, e sono in realtà radicate
+come i capelli.
+
+In tutte le vecchie [[songs|canzoni]] d'[[Love|amore]] fiorite e
+[[Pastoral|pastorali]], specialmente quelle del diciassettesimo e
+diciottesimo secolo, troverete un perpetuo rimprovero alla donna in fatto
+di freddezza; incessanti e trite similitudini che paragonano i suoi occhi a
+[[Stars|stelle]] settentrionali, il suo cuore al ghiaccio, o il suo seno
+alla [[Snow|neve]]. Ora la maggior parte di noi ha sempre supposto che
+queste vecchie e reiterate frasi fossero un mero disegno di parole morte,
+una cosa come una fredda tappezzeria. Eppure penso che quei vecchi poeti
+cavalieri che scrivevano della freddezza di Cloe avessero còlto una
+[[Truth|verità]] psicologica mancata in quasi tutti i romanzi realistici di
+oggi. I nostri romanzieri psicologici rappresentano perpetuamente le mogli
+mentre incutono terrore ai loro mariti [[rolling|rotolandosi]] sul
+pavimento, digrignando i denti, scagliando in giro i mobili o avvelenando
+il caffè; tutto questo sulla base di qualche strana teoria fissa secondo
+cui le donne sono ciò che essi chiamano emotive. Ma in [[Truth|verità]] la
+vecchia e frigida forma è assai più vicina al fatto vitale. La maggior
+parte degli uomini, se parlasse con un minimo di sincerità, converrebbe che
+la qualità più terribile nelle donne, sia nell'[[Friendship|amicizia]], nel
+corteggiamento o nel [[Marriage|matrimonio]], non era tanto l'essere
+emotive quanto l'essere non emotive.
+
+Vi è una tremenda armatura di ghiaccio che può essere la legittima
+protezione di un organismo più delicato; ma qualunque sia la spiegazione
+psicologica non vi può certo essere alcun dubbio sul fatto. Il grido
+istintivo della femmina in collera è noli me tangere. Prendo questo come
+l'esempio più ovvio e al tempo stesso il meno abusato di una qualità
+fondamentale nella tradizione femminile, che ha teso ai nostri
+[[Time|tempi]] a essere fraintesa quasi incommensurabilmente, sia dalla
+cantilena dei moralisti sia dalla cantilena degli immoralisti. Il nome
+proprio della cosa è modestia; ma poiché viviamo in un'epoca di pregiudizio
+e non dobbiamo chiamare le cose col loro giusto nome, cederemo a una
+nomenclatura più moderna e la chiameremo dignità. Qualunque altra cosa sia,
+è la cosa che mille poeti e un milione di [[lovers|amanti]] hanno chiamato
+la freddezza di Cloe. È affine al classico, ed è per lo meno l'opposto del
+[[Grotesque|grottesco]]. E poiché parliamo qui principalmente per tipi e
+simboli, forse una realizzazione dell'idea buona quanto qualunque altra si
+può trovare nel semplice fatto di una donna che indossa una gonna. È
+altamente tipico del rabbioso plagio che ora passa dappertutto per
+emancipazione, che poco tempo fa fosse comune per una donna «avanzata»
+rivendicare il diritto di portare i pantaloni; un diritto [[Grotesque|grottesco]]
+press'a poco quanto il diritto di portare un naso finto. Se la libertà
+femminile sia molto avanzata dall'atto di portare una gonna su ciascuna
+gamba non so; forse le donne turche potrebbero offrire qualche informazione
+sul punto. Ma se la donna occidentale va in giro (per così dire)
+trascinandosi dietro le tende dell'harem, è del tutto certo che la dimora
+tessuta è intesa come un palazzo ambulante, non come una [[Prison|prigione]]
+ambulante. È del tutto certo che la gonna significa dignità femminile, non
+sottomissione femminile; lo si può provare con la più semplice di tutte le
+prove. Nessun sovrano si vestirebbe deliberatamente delle riconosciute
+catene di uno schiavo; nessun giudice apparirebbe coperto di frecce larghe.
+Ma quando gli uomini desiderano essere sicuramente imponenti, come giudici,
+sacerdoti o re, indossano effettivamente gonne, le lunghe vesti strascicate
+della dignità femminile. Il mondo intero è sotto il [[government|governo]]
+della sottana; poiché persino gli uomini portano sottane quando desiderano
+governare.
+
+* * *
+
+VI
+
+IL PEDANTE E IL SELVAGGIO
+
+Diciamo dunque che la femmina sostiene con due forti braccia questi due
+pilastri della civiltà; diciamo anche che essa non potrebbe fare né l'uno
+né l'altro, se non fosse per la sua posizione; la sua curiosa posizione di
+privata onnipotenza, universalità su piccola scala. Il primo elemento è la
+parsimonia; non la parsimonia distruttiva dell'avaro, ma la parsimonia
+creativa del contadino; il secondo elemento è la dignità, che non è se non
+l'espressione della sacra personalità e riservatezza. Ora conosco la
+domanda che sarà bruscamente e automaticamente posta da tutti coloro che
+conoscono i banali trucchi e giravolte della moderna disputa sui sessi. La
+persona avanzata comincerà subito a discutere se questi istinti siano
+inerenti e inevitabili nella donna o se siano meri pregiudizi prodotti
+dalla sua [[history|storia]] ed [[Education|educazione]]. Ora non mi
+propongo di discutere se la donna possa ora essere educata fuori dalle sue
+abitudini che toccano la parsimonia e la dignità; e ciò per due eccellenti
+ragioni. Primo, è una questione che non può concepibilmente mai trovare
+risposta alcuna: è per questo che i moderni ne sono tanto ghiotti. Dalla
+natura del caso è ovviamente impossibile decidere se qualcuna delle
+peculiarità dell'uomo civilizzato sia stata strettamente necessaria alla
+sua civiltà. Non è di per sé evidente (per esempio) che persino l'abitudine
+di stare eretti sia stata l'unica via del progresso umano. Vi avrebbe
+potuto essere una civiltà quadrupede, in cui un gentiluomo di [[City|città]]
+si infilava quattro stivali per andare in [[City|città]] ogni mattina. O vi
+avrebbe potuto essere una civiltà rettiliana, in cui costui rotolava in
+ufficio sul ventre; è impossibile dire che l'intelligenza non sarebbe
+potuta svilupparsi in tali creature. Tutto ciò che possiamo dire è che
+l'uomo com'è cammina eretto; e che la donna è qualcosa di quasi più eretto
+dell'eretto.
+
+E il secondo punto è questo: che nel complesso preferiamo piuttosto che le
+donne (anzi, persino gli uomini) camminino erette; perciò non sprechiamo
+gran parte delle nostre nobili vite a inventare qualche altro modo perché
+camminino. In breve, la mia seconda ragione per non speculare se la donna
+possa liberarsi di queste peculiarità, è che non voglio che se ne liberi;
+né lo vuole lei. Non esaurirò la mia intelligenza inventando modi in cui il
+genere umano potrebbe disimparare il violino o dimenticare come si
+cavalcano i cavalli; e l'arte della domesticità mi sembra tanto speciale e
+preziosa quanto tutte le antiche arti della nostra razza. Né mi propongo di
+entrare affatto in quelle informi e maldestre speculazioni su come la donna
+fosse o sia considerata nei tempi primitivi che non possiamo ricordare, o
+nei paesi selvaggi che non possiamo comprendere. Anche se questa gente
+segregava le proprie donne per ragioni basse o barbare, ciò non renderebbe
+barbare le nostre ragioni; e mi perseguita un tenace sospetto che i
+sentimenti di questa gente fossero in realtà, sotto altre forme, assai
+simili ai nostri. Qualche impaziente mercante, qualche superficiale
+missionario, attraversa a piedi un'isola e vede la squaw scavare nei campi
+mentre l'uomo suona un flauto; e immediatamente dice che l'uomo è un mero
+signore del creato e la donna una mera serva della gleba. Non ricorda che
+potrebbe vedere la stessa cosa in metà dei giardinetti sul retro di
+Brixton, solo perché le donne sono a un tempo più coscienziose e più
+impazienti, mentre gli uomini sono a un tempo più quieti e più avidi di
+piacere. Può spesso essere alle Hawaii semplicemente come è a Hoxton.
+Ossia, la donna non lavora perché l'uomo le dice di lavorare ed essa
+obbedisce. Al contrario, la donna lavora perché ha detto all'uomo di
+lavorare ed egli non ha obbedito. Non affermo che questa sia tutta la
+[[Truth|verità]], ma affermo che abbiamo troppo poca comprensione delle
+anime dei selvaggi per sapere fin dove sia falsa. Lo stesso vale per le
+relazioni della nostra frettolosa e superficiale scienza, col problema
+della dignità e modestia sessuale. I professori trovano in tutto il mondo
+cerimonie frammentarie in cui la sposa affetta una sorta di riluttanza, si
+nasconde dal marito, o gli scappa via. [[The Professor|Il professore]]
+allora pomposamente proclama che questa è una [[Survival|sopravvivenza]]
+del [[Marriage|Matrimonio]] per Ratto. Mi [[Wonder|stupisco]] che non dica
+mai che il velo gettato sulla sposa è in realtà una rete. [[Doubt|Dubito]]
+gravemente che le donne siano mai state sposate per ratto; penso che
+fingessero di esserlo; come fanno ancora.
+
 
 
 <span class="atom-split" data-atom="chapter_07--part_08" data-title="whats wrong — Part 3 (part 8)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="archetype/king,motif/home,motif/tears,motif/time,motif/well,concept/aspiration,concept/truth,setting/court,character/chorus,character/queen"></span>
@@ -10105,6 +12888,126 @@ and sometimes motherwit.  The last phrase suggests the whole [[Truth|truth]],
 for none ever called it fatherwit.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+* * *
+
+IX
+
+SINCERITÀ E FORCA
+
+Quando, dunque, si dice che la tradizione contraria al Suffragio
+Femminile tiene le donne fuori dall'attività, dall'influenza sociale
+e dalla cittadinanza, chiediamoci con un poco più di sobrietà e di
+rigore da che cosa effettivamente essa la tenga fuori. La tiene fuori,
+in modo assai preciso, dall'atto collettivo di coercizione; dall'atto
+di punizione compiuto da una folla. La tradizione umana dice bensì
+che, se venti uomini impiccano un uomo a un albero o a un lampione,
+essi dovranno essere venti uomini e non venti donne. Ora, non credo
+che alcun ragionevole Suffragista negherà che l'esclusione da tale
+funzione, per dirla al minimo, potrebbe sostenersi essere una
+protezione oltre che [[Well|bene]] un veto. Nessuna persona schietta
+respingerà del tutto la proposizione che l'idea di avere un Lord
+Cancelliere ma non una Lady Cancelliera possa quantomeno essere
+connessa con l'idea di avere un boia ma non una boia, un impiccatore
+ma non un'impiccatrice. Né sarà sufficiente rispondere (come tanto
+spesso si risponde a questa tesi) che nella civiltà moderna non si
+richiederebbe realmente alle donne di catturare, di condannare o di
+uccidere; che tutto ciò si compie indirettamente, che degli
+specialisti ammazzano i nostri criminali come ammazzano il nostro
+bestiame. Addurre questo non è addurre la realtà del voto, ma la sua
+irrealtà. La [[Democracy|Democrazia]] doveva essere un modo più
+diretto di governare, non un modo più indiretto; e se non sentiamo
+di essere tutti carcerieri, tanto peggio per noi, e per i prigionieri.
+Se è davvero cosa disdicevole a una donna rinchiudere un ladro o un
+[[Tyrant|tiranno]], non dovrebbe attenuare la situazione il fatto che
+la donna non senta di star facendo la cosa che di certo sta facendo.
+È già abbastanza grave che gli uomini possano ormai associarsi solo
+sulla carta là dove un tempo si associavano nella strada; è già
+abbastanza grave che gli uomini abbiano fatto del voto assai più una
+finzione. È assai peggio che una grande classe reclami il voto perché
+esso è una finzione, quella stessa classe che ne sarebbe nauseata se
+fosse un fatto. Se il voto alle donne non significa folle di donne,
+non significa ciò che era destinato a significare. Una donna può
+tracciare una [[Cross|croce]] su un foglio [[Well|bene]] quanto un
+uomo; un [[Child|bambino]] potrebbe farlo [[Well|bene]] quanto una
+donna; e uno scimpanzé, dopo qualche lezione, potrebbe farlo
+[[Well|bene]] quanto un [[Child|bambino]]. Ma nessuno dovrebbe
+considerarlo come un mero tracciare una [[Cross|croce]] su un foglio;
+ognuno dovrebbe considerarlo per ciò che in ultimo è: marchiare a
+fuoco il giglio, imprimere la larga freccia, firmare la condanna a
+[[Death|morte]]. Tanto gli uomini quanto le donne dovrebbero guardare
+più pienamente in faccia le cose che fanno o fanno fare; guardarle in
+faccia, o smettere di farle.
+
+In quel giorno disastroso in cui le esecuzioni pubbliche furono
+abolite, le esecuzioni private furono rinnovate e ratificate, forse
+per sempre. Le cose grossolanamente inadatte al sentimento morale di
+una società non possono compiersi senza pericolo alla luce del sole;
+ma non vedo ragione per cui non dovremmo tuttora arrostire vivi gli
+eretici, in una stanza privata. È assai probabile (per parlare in
+quel modo scioccamente detto irlandese) che, se vi fossero esecuzioni
+pubbliche, non vi sarebbero affatto esecuzioni. Gli antichi castighi
+all'aria aperta, la gogna e il patibolo, quantomeno fissavano la
+responsabilità sulla legge; e nella pratica effettiva davano alla
+folla l'occasione di gettare rose [[Well|bene]] quanto uova marce; di
+gridare «Osanna» [[Well|bene]] quanto «Crocifiggilo». Ma non mi piace
+che il pubblico carnefice sia mutato in carnefice privato. Penso che
+sia un affare storto, orientale, sinistro, che sa d'harem e di divano
+piuttosto che di foro e di piazza del mercato. Nei tempi moderni il
+funzionario ha perduto tutto l'onore sociale e la dignità del comune
+impiccatore. Non è più che il portatore della corda dello strangolo.
+
+Qui, tuttavia, avanzo una perorazione in favore di una brutale
+pubblicità solo per porre in rilievo il fatto che è da questa brutale
+pubblicità, e da nient'altro, che le donne sono state escluse. Lo dico
+anche per porre in rilievo il fatto che il mero velamento moderno
+della brutalità non rende la situazione diversa, a meno che non
+diciamo apertamente che concediamo il suffragio non solo perché esso è
+potere, ma perché non lo è; ovvero, in altre parole, che le donne non
+tanto debbano votare quanto giocare a votare. Nessun suffragista,
+suppongo, assumerà quella posizione; e pochi suffragisti negheranno
+del tutto che questa umana necessità di pene e di castighi sia un
+affare brutto, umiliante, e che buoni moventi [[Well|bene]] quanto
+cattivi possano aver contribuito a tenerne fuori le donne. Più d'una
+volta ho osservato in queste pagine che i limiti femminili possono
+essere i limiti di un tempio [[Well|bene]] quanto di una
+[[Prison|prigione]], le inabilità di un sacerdote e non di un paria.
+Lo notai, credo, nel caso della veste femminile pontificale. Allo
+stesso modo non è manifestamente irrazionale, se gli uomini decisero
+che una donna, al pari di un sacerdote, non debba essere una
+versatrice di [[Blood|sangue]].
+
+* * *
+
+X
+
+L'ANARCHIA SUPERIORE
+
+Ma vi è un ulteriore fatto; dimenticato anch'esso perché noi moderni
+dimentichiamo che esiste un punto di vista femminile. La saggezza
+della donna sta in parte non solo per una salutare esitazione riguardo
+al castigo, ma persino per una salutare esitazione riguardo alle
+regole assolute. Vi era qualcosa di femminile e perversamente vero in
+quella frase di Wilde, che le persone non dovrebbero essere trattate
+come la regola, ma tutte quante come eccezioni. Fatta da un uomo,
+l'osservazione risultava un po' effeminata; poiché a Wilde mancava
+davvero la virile potenza del dogma e della cooperazione democratica.
+Ma se l'avesse detta una donna, sarebbe stata semplicemente vera; una
+donna tratta bensì ciascuna persona come una persona a sé. In altre
+parole, essa sta per l'Anarchia; una [[philosophy|filosofia]] assai
+antica e discutibile; non l'anarchia nel senso di non avere costumi
+nella propria vita (il che è inconcepibile), ma l'anarchia nel senso
+di non avere regole per la propria mente. A lei, quasi certamente, si
+devono tutte quelle tradizioni operanti che non si trovano nei libri,
+specialmente quelle dell'[[Education|educazione]]; fu lei che per
+prima diede a un [[Child|bambino]] una calza imbottita perché era
+stato buono, o lo mise in castigo nell'angolo perché era stato
+cattivo. Questa conoscenza non catalogata è talora chiamata regola
+empirica e talora buonsenso materno. Quest'ultima espressione lascia
+intendere l'intera [[Truth|verità]], poiché nessuno mai la chiamò
+buonsenso paterno.
+
 
 
 <span class="atom-split" data-atom="chapter_07--part_11" data-title="whats wrong — Part 3 (part 11)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="archetype/child,archetype/monster,motif/chains,motif/cross,motif/death,motif/desire,motif/flag,motif/marriage,motif/moon,motif/silence,motif/soul,motif/time,motif/well,concept/body,concept/education,concept/freedom,concept/self,concept/suffering,concept/truth,form/tragedy"></span>
@@ -10204,6 +13107,103 @@ Man that is born of a woman has short days and full of misery;
 but nobody can picture the obscenity and bestial [[Tragedy|tragedy]] that would
 belong to such a [[Monster|monster]] as man that was born of a man.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Ora l'anarchia non è che tatto quando funziona male.  Il tatto
+non è che anarchia quando funziona [[Well|bene]].  E dovremmo
+renderci conto che in una metà del mondo--la [[house|casa]] privata--esso
+funziona davvero [[Well|bene]].  Noi uomini moderni dimentichiamo
+di continuo che le ragioni a favore di regole chiare e di pene
+brutali non sono evidenti di per [[Self|sé]], che molto si può dire
+in favore della benevola illegalità dell'autocrate, specie su
+piccola scala; in breve, che il [[government|governo]] è soltanto un lato della vita.
+L'altra metà si chiama Società, nella quale le donne sono, per comune ammissione, dominanti.
+E sono sempre state pronte a sostenere che il loro regno è
+meglio governato del nostro, perché (in senso logico e legale)
+non è affatto governato.  «Ogni volta che vi trovate davanti a una vera difficoltà,»
+dicono, «quando un ragazzo è impertinente o una zia è tirchia, quando una sciocca
+fanciulla vuole sposare qualcuno, o un uomo malvagio non vuole sposare nessuno, tutto il vostro
+pesante Diritto romano e la Costituzione britannica si arrestano di colpo.
+Uno sgarbo di una duchessa o una lavata di capo di una pescivendola hanno molte più
+probabilità di rimettere le cose a posto.»  Così, almeno, risuonò l'antica
+sfida femminile lungo i secoli, fino alla recente capitolazione femminile.
+Così sventolò lo stendardo rosso della più alta anarchia, finché la signorina Pankhurst
+non issò la bianca [[Flag|bandiera]].
+
+Bisogna ricordare che il mondo moderno ha commesso un profondo tradimento
+verso l'intelletto eterno credendo nell'oscillazione del pendolo.
+Un uomo dev'essere morto prima di oscillare.  Esso ha sostituito un'idea
+di alternanza fatalistica alla medievale [[Freedom|libertà]] dell'[[Soul|anima]]
+in cerca della [[Truth|verità]].  Tutti i pensatori moderni sono reazionari; poiché il loro
+pensiero è sempre una reazione a ciò che è venuto prima.  Quando incontri
+un uomo moderno, egli viene sempre da un luogo, non vi si sta dirigendo.
+Così, il genere umano ha in quasi tutti i luoghi e in tutte le epoche visto che
+esiste un'[[Soul|anima]] e un [[Body|corpo]] con la stessa evidenza con cui esistono un sole e una [[Moon|luna]].
+Ma poiché una ristretta setta protestante detta dei Materialisti dichiarò
+per un breve [[Time|tempo]] che non c'era alcuna [[Soul|anima]], un'altra ristretta setta protestante
+detta Scienza Cristiana sostiene ora che non c'è alcun [[Body|corpo]].
+Ora, esattamente allo stesso modo, l'irragionevole negligenza del [[government|governo]]
+da parte della Scuola di Manchester ha prodotto, non un ragionevole riguardo
+per il [[government|governo]], ma un'irragionevole negligenza di ogni altra cosa.
+Tanto che a sentir parlare la gente oggi si direbbe che ogni
+importante funzione umana debba essere organizzata e vendicata dalla legge;
+che ogni [[Education|istruzione]] debba essere [[Education|istruzione]] statale, e ogni impiego
+impiego statale; che tutti e tutto debbano essere
+condotti ai piedi dell'augusta e preistorica forca.
+Ma un esame un poco più liberale e comprensivo del genere umano
+ci convincerà che la [[Cross|croce]] è ancora più antica della forca,
+che la [[Suffering|sofferenza]] volontaria fu prima e indipendente da quella obbligatoria;
+e, in breve, che nelle questioni più importanti un uomo è sempre stato
+libero di rovinarsi se lo sceglieva.  L'enorme funzione fondamentale
+attorno a cui ruota tutta l'antropologia, quella del sesso e della nascita,
+non è mai stata dentro lo Stato politico, ma sempre al di fuori di esso.
+Lo Stato si occupò della banale questione di uccidere gli uomini,
+ma lasciò saggiamente [[Alone|in pace]] tutta la faccenda di farli nascere.
+Un eugenista potrebbe in effetti sostenere con una certa plausibilità che il [[government|governo]] è una
+persona distratta e incoerente che si occupa di
+provvedere alla vecchiaia di gente che non è mai stata infante.
+Non tratterò qui in dettaglio il fatto che alcuni eugenisti
+abbiano ai nostri [[Time|tempi]] dato la maniacale risposta che la polizia dovrebbe
+controllare il [[Marriage|matrimonio]] e la nascita come controlla il lavoro e la [[Death|morte]].
+Eccezion fatta per questa disumana manciata (di cui, mi spiace dirlo, dovrò
+occuparmi più avanti) tutti gli eugenisti che conosco si dividono
+in due sezioni: persone ingegnose che un tempo intendevano questo, e piuttosto
+sconcertate persone che giurano di non averlo mai inteso--né alcun'altra cosa.
+Ma se si concede (con una stima più spensierata degli uomini) che essi
+per lo più [[Desire|desiderino]] che il [[Marriage|matrimonio]] resti libero dal [[government|governo]], non ne
+consegue che lo [[Desire|desiderino]] libero da ogni cosa.  Se l'uomo
+non controlla il mercato del [[Marriage|matrimonio]] con la legge, è controllato in qualche modo?
+Certamente la risposta è, in linea di massima, che l'uomo non controlla il mercato del [[Marriage|matrimonio]]
+con la legge, ma la donna lo controlla con la simpatia e il pregiudizio.
+Vi era fino a poco tempo fa una legge che vietava a un uomo di sposare la sorella
+della moglie defunta; eppure la cosa accadeva di continuo.  Non vi era alcuna legge
+che vietasse a un uomo di sposare la sguattera della moglie defunta; eppure
+non accadeva affatto altrettanto spesso.  Non accadeva perché il mercato del [[Marriage|matrimonio]]
+è governato nello spirito e con l'autorità delle donne;
+e le donne sono generalmente conservatrici quando si tratta di classi.
+Lo stesso vale per quel sistema di esclusività con cui le signore
+hanno così spesso saputo escogitare (come per un processo di eliminazione)
+di impedire i matrimoni che non volevano e persino talvolta
+di procurare quelli che volevano.  Non c'è bisogno della freccia larga e
+del giglio, delle [[Chains|catene]] del carceriere o del capestro del boia.
+Non occorre strangolare un uomo se lo si può ridurre al [[Silence|silenzio]].  La spalla
+marchiata è meno efficace e definitiva della spalla fredda;
+e non occorre darsi la pena di chiudere un uomo dentro se lo si può chiudere fuori.
+
+Lo stesso, naturalmente, vale per la colossale architettura che
+chiamiamo [[Education|istruzione]] infantile: un'architettura eretta interamente dalle donne.
+Nulla potrà mai vincere quell'unica enorme superiorità sessuale, ossia che perfino
+il [[Child|bambino]] maschio nasce più vicino alla madre che al padre.
+Nessuno, contemplando quello spaventoso privilegio femminile, può davvero
+credere all'uguaglianza dei sessi.  Qua e là leggiamo
+di una fanciulla allevata come un maschiaccio; ma ogni ragazzo è allevato
+come una docile fanciulla.  La carne e lo spirito della femminilità lo circondano
+fin dal primo istante come le quattro pareti di una [[house|casa]]; e persino
+l'uomo più vago o più brutale è stato femminilizzato dal nascere.
+L'uomo nato da donna ha giorni brevi e colmi di miseria;
+ma nessuno può raffigurarsi l'oscenità e la bestiale [[Tragedy|tragedia]] che
+apparterrebbero a un simile [[Monster|mostro]] quale sarebbe un uomo nato da un uomo.
 
 
 
@@ -10318,6 +13318,116 @@ which we can perceive the needs of women, like the rights of men,
 stopped and falsified by something which it is the object
 of this book to expose.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+* * *
+
+XI
+
+LA [[Queen|REGINA]] E LE SUFFRAGETTE
+
+Ma, in verità, con questa faccenda dell'educazione dovrò per forza
+invischiarmi più avanti.  La quarta sezione della discussione dovrebbe
+vertere sul [[Child|fanciullo]], ma credo che verterà soprattutto sulla madre.
+In questa sede ho insistito sistematicamente sulla gran parte
+della vita che è governata non dall'uomo col suo voto, ma dalla donna
+con la sua voce, o più spesso, col suo orribile [[Silence|silenzio]].
+Resta da aggiungere soltanto una cosa.  In uno stile disteso e prolisso
+è stata tratteggiata l'idea che il [[government|governo]] sia in ultima analisi coercizione,
+che la coercizione debba significare fredde definizioni non [[Well|meno]] che crudeli conseguenze,
+e che dunque qualcosa si possa dire a favore dell'antica abitudine umana
+di tenere una metà dell'umanità fuori da un affare tanto duro e sudicio.
+Ma il ragionamento è ancora più forte.
+
+Il voto non è solo coercizione, ma coercizione collettiva.
+Penso che la [[Queen|regina]] Vittoria sarebbe stata ancor più amata e soddisfacente
+se non avesse mai firmato una condanna a [[Death|morte]].  Penso che [[Queen Elizabeth|la regina Elisabetta]]
+sarebbe risaltata più solida e splendida nella [[history|storia]] se non
+si fosse guadagnata (fra quanti conoscono per caso la sua [[history|storia]])
+il soprannome di Bess la Sanguinaria.  Penso, insomma, che la grande donna
+storica sia più se stessa quando è persuasiva anziché coercitiva.
+Ma sento tutta l'umanità dietro di me quando dico che se una donna ha
+questo potere esso dovrebbe essere un potere dispotico—non un potere democratico.
+Vi è un argomento storico assai più forte per dare a Miss Pankhurst
+un trono che per darle un voto.  Potrebbe avere una [[Crown|corona]],
+o quantomeno un coroncina, come tanti suoi sostenitori;
+poiché questi antichi poteri sono puramente personali e perciò femminili.
+Miss Pankhurst come despota potrebbe essere virtuosa quanto la [[Queen|regina]] Vittoria,
+e certo troverebbe difficile essere malvagia quanto la [[Queen|regina]] Bess,
+ma il punto è che, buona o cattiva, sarebbe irresponsabile—
+non sarebbe governata da una regola e da un governante.
+Vi sono soltanto due modi di governare:  con una regola e con un governante.
+Ed è seriamente vero dire di una donna, nell'[[Education|educazione]] e nella vita domestica,
+che la [[Freedom|libertà]] dell'autocrate le appare necessaria.
+Non è mai responsabile finché non è irresponsabile.
+Nel caso ciò suoni come un'oziosa contraddizione, mi appello con fiducia
+ai freddi fatti della [[history|storia]].  Quasi ogni stato dispotico
+od oligarchico ha ammesso le donne ai suoi privilegi.
+Quasi nessuno stato democratico le ha mai ammesse ai suoi diritti.
+La ragione è molto semplice:  che qualcosa di femminile è messo in pericolo
+assai più dalla violenza della folla.  In breve, una Pankhurst
+è un'eccezione, ma mille Pankhurst sono un [[nightmare|incubo]],
+un'orgia bacchica, un sabba di streghe.  Poiché in tutte le leggende gli uomini hanno
+pensato alla donna come [[Sublime|sublime]] presa a sé ma orribile in branco.
+
+* * *
+
+XII
+
+LA SCHIAVA MODERNA
+
+Ora, ho preso il caso di prova del Suffragio Femminile soltanto perché
+è d'attualità e concreto; non ha per me gran peso come
+proposta politica.  Posso benissimo immaginare che qualcuno concordi
+in sostanza con la mia visione della donna come universalista e autocrate
+in un ambito limitato; e tuttavia pensi che ella non se ne troverebbe
+per nulla peggio con una scheda elettorale.  La vera questione è se questo
+antico ideale della donna come grande dilettante sia ammesso oppure no.
+Vi sono molte cose moderne che lo minacciano assai più
+del suffragismo; notevolmente l'aumento delle donne che [[Self|sé]] stesse mantengono,
+persino negli impieghi più duri o più squallidi.
+Se v'è qualcosa contro [[Nature|natura]] nell'idea di un'orda
+di donne selvagge che governano, v'è qualcosa di veramente intollerabile
+nell'idea di un gregge di donne mansuete che vengono governate.
+E vi sono elementi nella psicologia umana che rendono
+questa situazione particolarmente straziante o ignominiosa.
+Le brutte esattezze degli affari, [[The Bells|le campane]] e gli orologi, le ore fisse
+e i reparti rigidi, furono tutti pensati per il maschio:
+il quale, di regola, sa fare una sola cosa e solo con la più grande
+difficoltà può essere indotto a farla.  Se gli impiegati non cercassero di scansare
+il loro lavoro, tutto il nostro grande sistema commerciale crollerebbe.
+Sta crollando, sotto l'irruzione delle donne che adottano
+la condotta senza precedenti e impossibile di prendere il sistema
+sul serio e di svolgerlo [[Well|bene]].  La loro stessa efficienza è
+la definizione della loro [[Slavery|schiavitù]].  È in genere un pessimo
+segno quando si è troppo fidati dai propri datori di lavoro.
+E se gli impiegati evasivi hanno l'aria d'essere mascalzoni,
+le donne coscienziose sono spesso qualcosa di molto simile a crumiri.
+Ma il punto più immediato è che la donna che lavora oggi porta
+un [[Double|duplice]] fardello, perché sopporta sia il logorante burocratismo
+del nuovo ufficio sia la distraente scrupolosità dell'antica [[Home|casa]].
+Pochi uomini capiscono cos'è la coscienziosità.  Capiscono il dovere,
+che di solito significa un solo dovere; ma la coscienziosità è
+il dovere dell'universalista.  Non è limitata da giorni feriali
+o festivi; è un decoro senza legge, senza limiti, divorante.
+Se le donne devono essere assoggettate alla scialba regola del commercio,
+dobbiamo trovare qualche modo di emanciparle dalla selvaggia
+regola della [[Conscience|coscienza]].  Ma sospetto piuttosto che troverete più
+facile lasciare la [[Conscience|coscienza]] e liberarsi del commercio.
+Così com'è, la moderna impiegata o segretaria si sfianca per mettere
+una cosa in ordine nel registro e poi torna a [[Home|casa]] a mettere
+ogni cosa in ordine nella [[house|casa]].
+
+Questa condizione (definita da alcuni emancipata) è quantomeno
+l'opposto del mio ideale.  Alla donna darei, non più diritti,
+ma più privilegi.  Invece di mandarla a cercare quella
+[[Freedom|libertà]] che notoriamente regna nelle banche e nelle fabbriche,
+progetterei appositamente una [[house|casa]] in cui ella possa essere libera.
+E con ciò giungiamo all'ultimo punto di tutti; il punto in
+cui possiamo scorgere i bisogni delle donne, come i diritti degli uomini,
+arrestati e falsati da qualcosa che è l'oggetto
+che questo libro si propone di smascherare.
 
 
 
@@ -10550,6 +13660,125 @@ The thing is always a new color; a strange star.  Every birth is as
 lonely as a miracle.  Every [[Child|child]] is as uninvited as a monstrosity.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+PARTE QUARTA
+
+[[Education|L'EDUCAZIONE]]: OVVERO L'ERRORE INTORNO AL [[Child|FANCIULLO]]
+
+* * *
+
+I
+
+IL CALVINISMO DI OGGI
+
+Quando scrissi un piccolo volume sul mio amico il signor Bernard [[Shaw]], è
+superfluo dire che egli ne fece la recensione. Naturalmente fui tentato di rispondere
+e di criticare il libro da quello stesso punto di vista disinteressato e imparziale
+dal quale il signor [[Shaw]] aveva criticato l'argomento del libro medesimo.
+Non mi trattenne alcuna sensazione che lo scherzo cominciasse a farsi
+un po' scontato; poiché uno scherzo scontato è soltanto uno scherzo riuscito; sono
+soltanto i buffoni maldestri a consolarsi d'essere sottili.
+La vera ragione per cui non risposi al divertente attacco del signor [[Shaw]] fu questa:
+che una sola frase, in esso contenuta, mi consegnava tutto ciò che io
+abbia mai voluto, o potessi mai volere da lui per tutta l'[[Eternity|eternità]].
+Avevo detto al signor [[Shaw]] (in sostanza) che egli era un individuo affascinante e brillante,
+ma un comune calvinista. Egli ammise che ciò era vero,
+e lì (per quanto mi riguarda) la faccenda si conclude.
+Disse che, naturalmente, Calvino aveva pienamente ragione nel sostenere
+che «una volta che un uomo è nato, è troppo tardi per dannarlo o salvarlo».
+Questo è il segreto fondamentale e sotterraneo; questa è l'ultima
+menzogna dell'inferno.
+
+La differenza tra il [[Puritanism|puritanesimo]] e il cattolicesimo non riguarda
+se una qualche parola o gesto sacerdotale sia significativo e sacro.
+Riguarda se una qualsiasi parola o gesto sia significativo e sacro.
+Per il cattolico ogni singolo atto quotidiano è una drammatica dedizione
+al servizio del bene o del male. Per il calvinista nessun atto
+può avere quel genere di solennità, perché la persona che lo
+compie è stata predestinata fin dall'[[Eternity|eternità]], e non fa che colmare
+il proprio [[Time|tempo]] fino allo schianto del giudizio. La differenza è
+qualcosa di più sottile dei budini di prugne o delle recite private;
+la differenza è che per un cristiano della mia specie questa breve
+vita terrena è intensamente emozionante e preziosa; per un calvinista
+come il signor [[Shaw]] essa è, per sua stessa ammissione, automatica e priva d'interesse.
+Per me questi settant'anni sono la battaglia.
+Per il calvinista fabiano (per sua stessa confessione) essi sono soltanto un lungo
+corteo di vincitori inghirlandati d'alloro e di vinti in [[Chains|catene]].
+Per me la vita terrena è il dramma; per lui è l'epilogo.
+Gli shaviani pensano all'embrione; gli spiritisti al [[Ghost|fantasma]];
+i cristiani all'uomo. È [[Well|bene]] avere chiare queste cose.
+
+Ora, tutta la nostra sociologia e l'[[Eugenics|eugenetica]] e tutto il resto non sono
+tanto materialisti quanto confusamente calvinisti; essi sono
+principalmente occupati a educare il [[Child|fanciullo]] prima che esso esista.
+L'intero movimento è pervaso da una singolare depressione riguardo a
+ciò che si può fare con la plebe, unita a una strana
+allegria disincarnata riguardo a ciò che si potrà fare con la posterità.
+Questi calvinisti essenziali hanno, in verità, abolito alcune delle parti più
+liberali e universali del calvinismo, come la fede
+in un disegno intellettuale o in una felicità eterna.
+Ma per quanto il signor [[Shaw]] e i suoi amici ammettano che sia una superstizione che
+un uomo venga giudicato dopo la [[Death|morte]], essi restano fedeli alla loro dottrina centrale,
+cioè che egli venga giudicato prima di nascere.
+
+In conseguenza di questa atmosfera di calvinismo nel mondo colto
+d'oggi, pare necessario cominciare ogni argomentazione sull'[[Education|educazione]]
+con qualche accenno all'ostetricia e al mondo ignoto del prenatale.
+Tutto ciò che avrò da dire, tuttavia, sull'ereditarietà sarà molto breve,
+perché mi limiterò a ciò che se ne conosce, e cioè
+pressoché nulla. Non è affatto [[Self|evidente]] di per sé, ma è un corrente
+dogma moderno, che nulla entri realmente nel [[Body|corpo]] alla nascita se non una vita
+derivata e composta dai genitori. C'è almeno altrettanto
+da dire in favore della teoria cristiana secondo cui un elemento proviene da Dio, o della
+teoria buddhista secondo cui tale elemento proviene da esistenze precedenti.
+Ma questa non è un'opera religiosa, e io devo sottomettermi a quegli angustissimi
+limiti intellettuali che l'assenza di teologia sempre impone.
+Lasciando da parte l'[[Soul|anima]], supponiamo per amor di discussione
+che il carattere umano, nel primo caso, provenga interamente dai genitori;
+e poi esponiamo bruscamente ciò che sappiamo piuttosto che ciò che ignoriamo.
+
+* * *
+
+II
+
+IL TERRORE TRIBALE
+
+La scienza popolare, come quella del signor Blatchford, è in questa materia mite
+quanto le fiabe delle vecchie comari. Il signor Blatchford, con colossale semplicità,
+spiegò a milioni di impiegati e operai che la madre è come
+una bottiglia di perline azzurre e il padre è come una bottiglia di perline gialle;
+e così il [[Child|fanciullo]] è come una bottiglia di perline azzurre e gialle mescolate.
+Avrebbe potuto altrettanto [[Well|bene]] dire che se il padre ha due gambe
+e la madre ha due gambe, il [[Child|fanciullo]] avrà quattro gambe.
+Evidentemente non si tratta di una semplice addizione o di una semplice
+divisione di un certo numero di dure e staccate «qualità», come le perline.
+È una crisi organica e una trasformazione del genere più misterioso;
+cosicché anche se il risultato è inevitabile, sarà pur sempre inaspettato.
+Non è come perline azzurre mescolate a perline gialle; è come l'azzurro
+mescolato al giallo; il cui risultato è il verde, un'esperienza del tutto [[Novel|nuova]]
+e unica, un'emozione nuova. Un uomo potrebbe vivere in un intero
+cosmo di azzurro e di giallo, come la «Edinburgh Review»; un uomo potrebbe
+non aver mai visto altro che un aureo campo di grano e un cielo di zaffiro;
+e tuttavia potrebbe non aver mai concepito una fantasia tanto sfrenata quanto il verde.
+Se pagaste una sterlina per una campanula; se rovesciaste la senape
+sui libri azzurri; se maritaste un canarino a un babbuino azzurro;
+non v'è nulla, in nessuna di queste sfrenate nozze, che contenga anche solo
+un accenno di verde. Il verde non è una combinazione mentale, come l'addizione;
+è un risultato fisico, come la nascita. Così, a parte il fatto che
+nessuno comprende mai davvero né i genitori né i figli, tuttavia perfino
+se potessimo comprendere i genitori, non potremmo formulare alcuna congettura
+sui figli. Ogni [[Time|volta]] la forza opera in un modo diverso;
+ogni [[Time|volta]] i colori costituenti si combinano in uno spettacolo diverso.
+Una ragazza può in realtà ereditare la propria bruttezza dalla bellezza di sua madre.
+Un ragazzo può in realtà trarre la propria debolezza dalla forza di suo padre.
+Anche ammettendo che sia davvero un destino, per noi deve restare una fiaba.
+Considerata riguardo alle sue cause, i calvinisti e i materialisti
+possono aver ragione o torto; lasciamo loro il loro tetro [[debate|dibattito]].
+Ma considerata riguardo ai suoi risultati non v'è alcun [[Doubt|dubbio]] al riguardo.
+La cosa è sempre un nuovo colore; una strana stella. Ogni nascita è
+solitaria quanto un miracolo. Ogni [[Child|fanciullo]] è indesiderato quanto una mostruosità.
+
 
 
 <span class="atom-split" data-atom="chapter_08--part_02" data-title="whats wrong — Part 4 (part 2)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="archetype/child,motif/crown,motif/dreams,motif/nature,motif/rose,motif/soul,motif/time,motif/well,concept/doubt,concept/education,concept/eugenics,concept/faith,concept/freedom,concept/nature,concept/truth,form/tragedy,histref/christianity,histref/reformation,setting/mountains"></span>
@@ -10674,6 +13903,127 @@ in Gibbon look rather alike; but they really mean quite different things.
 [[Faith]] and creed do not look alike, but they mean exactly the same thing.
 Creed happens to be the Latin for [[Faith|faith]].
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Su tutti questi argomenti non esiste alcuna scienza, ma soltanto una specie
+di ardente ignoranza; e nessuno è mai stato in grado di offrire teorie
+sull'eredità morale che si giustificassero nell'unico senso scientifico che conti,
+vale a dire che su di esse si potesse fare un calcolo in anticipo. Vi sono
+sei casi, poniamo, di un nipote che ha lo stesso tic della bocca o vizio
+di carattere del nonno; o forse ve ne sono sedici,
+o forse sessanta. Ma non vi sono due casi, non ve n'è uno solo,
+non ve n'è alcuno, di chicchessia che scommetta mezza [[Crown|corona]]
+che il nonno avrà un nipote col medesimo tic o vizio.
+In breve, trattiamo l'eredità come trattiamo i presagi, le affinità e
+l'avverarsi dei [[Dreams|sogni]]. Queste cose accadono, e quando
+accadono le registriamo; ma nemmeno un pazzo ci fa mai conto sopra.
+Anzi, l'eredità, come i [[Dreams|sogni]] e i presagi, è una nozione barbarica; cioè
+non necessariamente falsa, ma una nozione confusa, brancolante e non sistematizzata.
+L'uomo civile si sente un poco più libero dalla propria famiglia.
+Prima del [[Christianity|Cristianesimo]] questi racconti di condanna tribale occupavano il selvaggio nord;
+e dopo la [[Reformation|Riforma]] e la rivolta contro il [[Christianity|Cristianesimo]]
+(che è la religione di una [[Freedom|libertà]] civile) la barbarie va lentamente
+riaffiorando sotto forma di romanzi realistici e drammi a tesi.
+La maledizione dei Rougon-Macquart è pagana e superstiziosa quanto la maledizione
+di Ravenswood; solo, non così ben [[Well|scritta]]. Ma in questo crepuscolare senso
+barbarico il sentimento di un destino di stirpe non è irrazionale, e può
+essere ammesso come cento altre mezze emozioni che rendono la vita intera.
+L'unica cosa essenziale della [[Tragedy|tragedia]] è che la si prenda alla leggera.
+Ma anche quando il [[deluge|diluvio]] barbarico [[Rose|salì]] al suo culmine nei più folli
+romanzi di Zola (come quello intitolato "La bestia umana", una grossolana
+calunnia contro le bestie non meno che [[Well|contro]] l'umanità), anche allora l'applicazione
+dell'idea ereditaria alla pratica è dichiaratamente timida e maldestra.
+Gli studiosi dell'eredità sono selvaggi in questo senso vitale: che
+fissano lo sguardo indietro sui prodigi, ma non osano fissarlo avanti sui progetti.
+In pratica nessuno è tanto pazzo da legiferare o educare sui dogmi
+dell'eredità fisica; e persino il linguaggio della cosa è raramente
+adoperato, se non per certi speciali scopi moderni, come il finanziamento
+della ricerca o l'oppressione dei poveri.
+
+* * *
+
+III
+
+I TRUCCHI DELL'AMBIENTE
+
+Dopo tutto il moderno clamore del calvinismo, dunque, è
+soltanto col [[Child|bambino]] già nato che qualcuno osa avere a che fare;
+e la questione non è l'[[Eugenics|eugenetica]] ma l'[[Education|educazione]]. Ovvero, ancora,
+per adottare quella piuttosto tediosa terminologia della scienza popolare,
+non è questione di eredità ma di ambiente.
+Non complicherò inutilmente questa questione insistendo a
+lungo sul fatto che anche l'ambiente è soggetto ad alcune delle obiezioni
+e delle esitazioni che paralizzano l'impiego dell'eredità.
+Mi limiterò a suggerire di sfuggita che perfino riguardo all'effetto
+dell'ambiente la gente moderna parla con troppa disinvoltura e leggerezza.
+L'idea che l'ambiente plasmi l'uomo è sempre confusa
+con l'idea del tutto diversa che lo plasmerà in un
+modo particolare. Per prendere il caso più ampio, il paesaggio senza [[Doubt|dubbio]]
+influisce sull'[[Soul|anima]]; ma come vi influisca è tutt'altra faccenda.
+Nascere fra i pini potrebbe significare amare i pini.
+Potrebbe significare detestare i pini. Potrebbe assai seriamente
+significare non aver mai visto un pino. Oppure potrebbe significare
+una qualsiasi mescolanza di queste cose o un qualsiasi grado di ciascuna di esse.
+Cosicché il metodo scientifico qui difetta un poco di precisione.
+Non parlo senza il libro; al contrario, parlo
+col libro azzurro, con la guida e con l'atlante.
+Può darsi che gli Highlander siano poetici perché
+abitano fra i [[Mountains|monti]]; ma sono forse prosaici gli Svizzeri perché
+abitano fra i [[Mountains|monti]]? Può darsi che gli Svizzeri abbiano combattuto per la [[Freedom|libertà]]
+perché avevano le montagne; combatterono forse gli Olandesi per la [[Freedom|libertà]]
+perché non le avevano? Personalmente lo riterrei assai probabile.
+L'ambiente potrebbe agire negativamente non meno che [[Well|positivamente]].
+Gli Svizzeri possono essere assennati non a dispetto del loro selvaggio orizzonte,
+ma a causa del loro selvaggio orizzonte. I Fiamminghi possono essere
+artisti fantastici non a dispetto del loro spento orizzonte,
+ma proprio a causa di esso.
+
+Mi soffermo su questa parentesi solo per mostrare che, perfino nelle
+materie ammesse come rientranti nella sua portata, la scienza popolare procede
+un bel po' troppo in fretta, e lascia cadere enormi anelli della [[logic|logica]].
+Ciononostante, resta la realtà operante che ciò con cui
+dobbiamo avere a che fare nel caso dei fanciulli è, a tutti i fini pratici,
+l'ambiente; o, per usare la parola più antica, l'[[Education|educazione]].
+Fatte tutte queste sottrazioni, l'[[Education|educazione]] è quantomeno
+una forma di culto della volontà; non di vile culto del fatto;
+si occupa di un ambito che possiamo controllare; non si limita
+a ottenebrarci col pessimismo barbarico di Zola e
+della caccia all'eredità. Certamente faremo di noi degli sciocchi;
+ed è questo che s'intende per [[philosophy|filosofia]]. Ma non faremo semplicemente
+di noi delle bestie; che è la più prossima definizione popolare
+del semplice seguire le leggi della [[Nature|Natura]] e acquattarsi sotto
+la vendetta della carne. L'[[Education|Educazione]] contiene molta luce di luna;
+ma non di quella specie che rende meri lunatici e idioti
+schiavi di una calamita d'argento, l'unico occhio del mondo.
+In questa decorosa arena vi sono fisime, ma non frenesie.
+Senza dubbio troveremo spesso il nido della cavalla; ma non
+sarà sempre quello dell'[[nightmare|incubo]].
+
+* * *
+
+IV
+
+LA [[Truth|VERITÀ]] SULL'[[Education|EDUCAZIONE]]
+
+Quando a un uomo si chiede di mettere per iscritto ciò che pensa davvero sull'[[Education|educazione]],
+una certa gravità gli afferra e irrigidisce l'[[Soul|anima]], che potrebbe essere scambiata
+dal superficiale per disgusto. Se è davvero vero che gli uomini si nausearono
+delle parole sacre e si stancarono della teologia, se questa irritazione in gran parte
+irragionevole contro il "dogma" sorse realmente da qualche ridicolo eccesso
+di simili cose fra i preti del passato, allora immagino che dobbiamo star
+mettendo da parte un bel raccolto di ipocrisie di cui i nostri discendenti si stancheranno.
+Probabilmente la parola "[[Education|educazione]]" un giorno parrà onestamente antica e
+priva di oggetto quanto la parola "giustificazione" pare oggi in un in-folio puritano.
+Gibbon trovava tremendamente buffo che la gente avesse combattuto per
+la differenza fra "Homoousion" e "Homoiousion". Verrà il [[Time|tempo]]
+in cui qualcuno riderà più forte al pensiero che gli uomini tuonassero
+contro l'[[Education|Educazione]] settaria e insieme contro l'[[Education|Educazione]] laica;
+che uomini di spicco e di posizione denunciassero davvero le scuole perché
+insegnavano un credo e insieme perché non insegnavano una [[Faith|fede]]. Le due parole greche
+in Gibbon si somigliano parecchio; ma significano in realtà cose del tutto diverse.
+[[Faith|Fede]] e credo non si somigliano, eppure significano esattamente la stessa cosa.
+Credo si dà il caso che sia il latino per [[Faith|fede]].
 
 
 
@@ -10906,6 +14256,119 @@ all use Popular [[Education]] as meaning [[Education|education]] of the people.
 I wish I could use it as meaning [[Education|education]] by the people.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+So bene che certi folli pedanti hanno tentato di aggirare questa
+difficoltà sostenendo che l'[[Education|educazione]] non è affatto istruzione,
+non insegna affatto per via d'autorità.  Essi presentano il processo
+come proveniente non dall'esterno, dal maestro, ma interamente
+dall'interno del ragazzo.  [[Education|Educazione]], dicono, è il latino per
+condurre fuori o trarre fuori le facoltà dormienti di ciascuno.
+In qualche punto giù nel fondo della fosca [[Soul|anima]] del ragazzo c'è un primordiale desiderio
+d'imparare gli accenti greci o di portare colletti puliti; e il maestro
+non fa che liberare, dolcemente e teneramente, questo intento imprigionato.
+Sigillati nel neonato stanno gli intrinseci [[Secrets|segreti]] di come
+mangiare gli [[asparagus|asparagi]] e quale fosse la data di Bannockburn.  L'educatore
+non fa che trarre fuori dal [[Child|bambino]] il suo stesso inapparente [[Love|amore]] per la divisione lunga;
+non fa che condurre fuori la leggermente velata preferenza del [[Child|bambino]] per il budino di latte
+piuttosto che per le crostate.  Non sono certo di credere all'etimologia;
+ho udito la vergognosa insinuazione che «educatore», se applicato
+a un maestro romano, non significava condurre le nostre giovani funzioni
+verso la [[Freedom|libertà]]; ma significava soltanto portare i ragazzini a passeggio.
+Ma sono assai più certo di non concordare con la dottrina;
+credo sarebbe sensato press'a poco come dire che il latte del bambino viene
+dal bambino, il dire che ne vengono i suoi meriti educativi.
+Vi è, in effetti, in ogni creatura vivente una raccolta di forze
+e di funzioni; ma [[Education|educazione]] significa produrle in forme particolari
+e addestrarle a scopi particolari, oppure non significa proprio nulla.
+Il parlare è l'esempio più pratico dell'intera faccenda.
+Puoi certo «trarre fuori» strilli e grugniti dal [[Child|bambino]] semplicemente
+punzecchiandolo e strattonandolo, un passatempo piacevole ma crudele
+a cui molti psicologi sono dediti.  Ma aspetterai e osserverai
+davvero con molta pazienza prima di trarre fuori da lui la lingua inglese.
+Quella gliela devi mettere dentro; e qui finisce la questione.
+
+* * *
+
+VI
+
+L'AUTORITÀ L'INEVITABILE
+
+Ma il punto importante qui è soltanto che non puoi in alcun modo
+sbarazzarti dell'autorità nell'[[Education|educazione]]; non si tratta tanto
+(come dicono i poveri conservatori) che l'autorità paterna debba
+essere preservata, quanto che non può essere distrutta.  Il signor Bernard [[Shaw]]
+disse una volta di odiare l'idea di plasmare la mente di un [[Child|bambino]].
+In tal caso il signor Bernard [[Shaw]] farebbe meglio a impiccarsi;
+poiché odia qualcosa d'inseparabile dalla vita umana.
+Ho menzionato l'educere e il trarre fuori le facoltà
+solo per far notare che perfino questo trucco mentale non evita
+l'inevitabile idea dell'autorità paterna o scolastica.
+L'educatore che trae fuori è altrettanto arbitrario e coercitivo
+dell'istruttore che versa dentro; poiché egli trae fuori ciò che sceglie.
+Egli decide che cosa nel [[Child|bambino]] debba essere sviluppato e che cosa
+non debba esserlo.  Egli non (suppongo) trae fuori
+la trascurata facoltà della falsificazione.  Egli non (almeno finora)
+conduce fuori, con timidi passi, un ritroso talento per la tortura.
+L'unico risultato di tutta questa pomposa e precisa distinzione
+tra l'educatore e l'istruttore è che l'istruttore
+punzecchia dove gli pare e l'educatore tira dove gli pare.
+Esattamente la stessa violenza intellettuale è fatta alla creatura
+che viene punzecchiata e tirata.  Ora dobbiamo tutti accettare la responsabilità
+di questa violenza intellettuale.  L'[[Education|educazione]] è violenta;
+perché è creativa.  È creativa perché è umana.
+È temeraria come suonare il violino; dogmatica
+come disegnare un quadro; brutale come costruire una [[house|casa]].
+In breve, è ciò che è ogni azione umana; è un'interferenza
+con la vita e la crescita.  Dopodiché è una questione futile e persino
+faceta se diciamo di questo tremendo tormentatore,
+l'[[artist|artista]] Uomo, che ci mette dentro le cose come uno speziale,
+o ce le trae fuori, come un dentista.
+
+Il punto è che l'Uomo fa ciò che gli pare.  Egli reclama
+il diritto di prendere sotto il proprio controllo sua madre [[Nature|Natura]];
+reclama il diritto di fare del suo [[Child|figlio]] il Superuomo, a sua immagine.
+Una volta che si rifugga da questa autorità creativa dell'uomo, e l'intera
+coraggiosa incursione che chiamiamo civiltà vacilla e cade
+a pezzi.  Ora gran parte della moderna [[Freedom|libertà]] è alla radice [[Fear|paura]].
+Non è tanto che siamo troppo audaci per sopportare regole;
+è piuttosto che siamo troppo timidi per sopportare responsabilità.
+E il signor [[Shaw]] e simile gente si ritraggono specialmente da
+quella tremenda e ancestrale responsabilità a cui i nostri padri
+ci vincolarono quando compirono il passo selvaggio di diventare uomini.
+Intendo la responsabilità di affermare la [[Truth|verità]] della nostra umana
+tradizione e di tramandarla con una voce d'autorità,
+una voce incrollabile.  Quella è l'unica eterna [[Education|educazione]];
+essere sicuri abbastanza che qualcosa sia vero da osare di dirlo
+a un [[Child|bambino]].  Da questo alto e audace dovere i moderni
+fuggono da ogni parte; e l'unica scusa per loro è,
+(naturalmente,) che le loro moderne filosofie sono così mal cotte
+e ipotetiche che essi non riescono a convincere se stessi
+abbastanza da convincere perfino un neonato.  Ciò, naturalmente,
+è connesso col [[Decay|declino]] della [[Democracy|democrazia]]; ed è in qualche modo
+un argomento a sé.  Basti dire qui che quando dico
+che dovremmo istruire i nostri figli, intendo che dovremmo farlo noi,
+non che dovrebbero farlo il signor Sully o il professor Earl Barnes.
+Il guaio in troppe delle nostre scuole moderne è che lo Stato,
+essendo controllato così specialmente dai pochi, permette a fissazioni ed
+esperimenti di andar dritti all'aula scolastica quando non sono mai
+passati per il Parlamento, l'osteria, la [[house|casa]] privata,
+la chiesa o la piazza del mercato.  Ovviamente, dovrebbero essere
+le cose più antiche quelle insegnate alle persone più giovani;
+le verità sicure e sperimentate quelle poste per prime al neonato.
+Ma in una scuola d'oggi il neonato deve sottomettersi a un sistema
+che è più giovane di lui stesso.  Il floscio bimbo di quattro anni
+ha in realtà più esperienza, e ha affrontato il mondo più a lungo,
+del dogma a cui è costretto a sottomettersi.  Più d'una scuola
+si vanta di avere le ultime idee in [[Education|educazione]], quando non ha
+neppure la prima idea; poiché la prima idea è che perfino l'[[innocence|innocenza]],
+per quanto divina, può imparare qualcosa dall'esperienza.
+Ma questo, come dico, è tutto dovuto al mero fatto che siamo
+governati da una piccola oligarchia; il mio sistema presuppone che gli uomini
+che governano se stessi governeranno i propri figli.  Oggi
+tutti usiamo Educazione Popolare nel senso di [[Education|educazione]] del popolo.
+Vorrei poterla usare nel senso di [[Education|educazione]] da parte del popolo.
+
 
 
 <span class="atom-split" data-atom="chapter_08--part_05" data-title="whats wrong — Part 4 (part 5)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="archetype/child,motif/blood,motif/night,motif/prison,motif/well,concept/democracy,concept/education,concept/humility,concept/imagination,concept/imprisonment,concept/paradox,concept/self,histref/puritanism,setting/london,setting/russia,character/sunday"></span>
@@ -11012,6 +14475,110 @@ is none of it.  We may now say that if [[Education|education]] is an abstract
 expansion there is no lack of it.  There is far too much of it.
 In fact, there is nothing else.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Il punto urgente al momento è che questi educatori espansivi
+non evitano la violenza dell'autorità un pollice più
+dei vecchi maestri di scuola.  Anzi, si potrebbe sostenere
+che la evitino meno.  Il vecchio maestro di villaggio
+picchiava un ragazzo perché non imparava la grammatica
+e lo mandava fuori nel cortile a giocare a ciò che voleva;
+o a nulla, se preferiva così.  Il moderno maestro
+scientifico lo insegue nel cortile e lo costringe a giocare
+a cricket, perché l'esercizio fa tanto bene alla salute.  Il moderno
+Dr. Busby è dottore in medicina non meno che dottore in teologia.
+Egli può dire che il bene dell'esercizio è [[Self|autoevidente]]; ma deve
+dirlo, e dirlo con autorità.  Non può essere davvero [[Self|autoevidente]]
+o non sarebbe mai potuto diventare obbligatorio.  Ma questo è, nella pratica
+moderna, un caso assai mite.  Nella pratica moderna gli educatori liberi
+proibiscono assai più cose degli educatori all'antica.
+Una persona con il gusto del [[Paradox|paradosso]] (se una simile creatura spudorata
+potesse esistere) potrebbe con qualche plausibilità sostenere, riguardo
+a tutta la nostra espansione dopo il fallimento del franco paganesimo di Lutero
+e la sua sostituzione col [[Puritanism|puritanesimo]] di Calvino, che tutta questa espansione
+non è stata un'espansione, ma il chiudersi di una [[Prison|prigione]], sicché
+sempre meno cose belle e umane sono state permesse.
+I Puritani distrussero le immagini; i Razionalisti proibirono le fiabe.
+Il Conte Tolstoj emanò praticamente una delle sue encicliche papali
+contro la musica; e ho sentito di educatori moderni che vietano
+ai bambini di giocare con i soldatini di stagno.  Ricordo un piccolo mite folle
+che mi si avvicinò a un qualche ricevimento socialista, e mi chiese di usare
+la mia influenza (ne ho forse qualcuna?) contro i racconti d'avventura per ragazzi.
+Pare che essi generino un appetito per il [[Blood|sangue]].  Ma non importa;
+bisogna conservare la calma in questo manicomio.  Devo solo insistere qui
+che queste cose, anche se giusta privazione, sono una privazione.
+Non nego che i vecchi divieti e le vecchie punizioni fossero spesso idioti
+e crudeli; benché lo siano assai di più in un paese come l'Inghilterra
+(dove in pratica solo un ricco decreta la punizione e solo un povero
+la riceve) che nei paesi con una più chiara tradizione popolare--
+come la [[Russia]].  In [[Russia]] la fustigazione è spesso inflitta da contadini
+a un contadino.  Nell'Inghilterra moderna la fustigazione può in pratica solo
+essere inflitta da un gentiluomo a un uomo molto povero.  Così, solo pochi
+giorni fa mentre scrivo, un ragazzino (figlio di poveri, s'intende)
+fu condannato alla fustigazione e alla [[Imprisonment|reclusione]] per cinque anni per aver
+raccolto un piccolo pezzo di carbone che gli esperti valutano 5 pence.
+Sono interamente dalla parte di quei liberali e umanitari che
+hanno protestato contro questa quasi bestiale ignoranza sui ragazzi.
+Ma trovo un po' ingiusto che questi umanitari, che scusano
+i ragazzi per essere ladri, li denuncino per giocare ai ladri.
+Trovo che chi comprende un monello che gioca con un pezzo
+di carbone potrebbe, con un improvviso slancio d'[[Imagination|immaginazione]], comprenderlo
+mentre gioca con un soldatino di stagno.  Per riassumere in una frase:
+penso che il mio piccolo mite folle avrebbe potuto capire che c'è
+più d'un ragazzo che preferirebbe essere fustigato, e ingiustamente fustigato,
+piuttosto che vedersi togliere il suo racconto d'avventura.
+
+* * *
+
+VII
+
+L'[[Humility|UMILTÀ]] DELLA SIGNORA GRUNDY
+
+In breve, la nuova [[Education|educazione]] è dura quanto la vecchia, sia o no
+altrettanto alta.  La più libera delle manie, non meno della più rigida formula,
+è rigida d'autorità.  È perché il padre umano ritiene
+i soldati un male che essi sono proibiti; non c'è finzione,
+non ci può essere finzione, che il ragazzo la pensi così.
+L'impressione del ragazzo medio sarebbe certo semplicemente questa:
+«Se tuo padre è metodista non devi giocare con i soldati
+di [[Sunday|domenica]].  Se tuo padre è socialista non devi giocare
+con essi neppure nei giorni feriali.»  Tutti gli educatori sono del tutto
+dogmatici e autoritari.  Non si può avere una libera [[Education|educazione]];
+perché se lasciassi libero un [[Child|bambino]] non lo educheresti affatto.
+Non c'è dunque distinzione o differenza tra i più impastoiati
+convenzionalisti e i più brillanti e bizzarri innovatori?
+Non c'è differenza tra il più greve dei gravi padri e la più
+avventata e speculativa delle zie zitelle?  Sì; c'è.  La differenza
+è che il grave padre, alla sua greve maniera, è un democratico.
+Egli non caldeggia una cosa soltanto perché al suo capriccio dovrebbe
+esser fatta; ma perché (nella sua ammirevole formula repubblicana)
+«Tutti lo fanno.»  L'autorità convenzionale rivendica almeno
+un qualche mandato popolare; l'autorità non convenzionale no.
+Il Puritano che proibisce i soldati di [[Sunday|domenica]] esprime almeno
+un'opinione puritana; non soltanto la propria opinione.
+Non è un despota; è una [[Democracy|democrazia]], una [[Democracy|democrazia]] tirannica,
+una [[Democracy|democrazia]] fosca e locale forse; ma tale da poter fare
+e aver fatto le due ultime cose virili--combattere e appellarsi
+a Dio.  Ma il veto del nuovo educatore è come il veto
+della [[house|Camera]] dei Lords; non pretende di essere rappresentativo.
+Questi innovatori parlano sempre della modestia che arrossisce
+della Signora Grundy.  Non so se la Signora Grundy sia più modesta
+di loro; ma sono certo che è più umile.
+
+Ma c'è un'ulteriore complicazione.  Il moderno più anarchico
+può di nuovo tentare di sfuggire al dilemma dicendo che l'[[Education|educazione]]
+dovrebbe essere solo un ampliamento della mente, un'apertura di tutti
+gli organi della recettività.  La luce (egli dice) dovrebbe essere portata
+nelle tenebre; le esistenze accecate e ostacolate in tutti i nostri brutti
+angoli dovrebbero solo essere lasciate percepire ed espandersi; in breve,
+l'illuminazione dovrebbe essere diffusa sulla più oscura [[London|Londra]].  Ora, qui sta
+proprio il guaio; che, in quanto ciò è implicato, non esiste
+la più oscura [[London|Londra]].  [[London|Londra]] non è affatto oscura; nemmeno di [[Night|notte]].
+Abbiamo detto che se l'[[Education|educazione]] è una sostanza solida, allora
+non ce n'è affatto.  Possiamo ora dire che se l'[[Education|educazione]] è un'espansione
+astratta non ne manca.  Ce n'è fin troppa.
+In effetti, non c'è altro.
 
 
 
@@ -11133,6 +14700,145 @@ But to look at these seas of yellow is to be like a man
 who should [[Swallow|swallow]] gallons of mustard.  He would either die,
 or lose the taste of mustard altogether.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Non esistono persone prive di istruzione.  In Inghilterra
+sono tutti istruiti; solo che i più sono istruiti male.
+Le scuole statali non furono le prime scuole, ma tra le
+ultime a essere fondate; e [[London|Londra]] educava i
+londinesi molto prima che esistesse il Provveditorato
+scolastico di [[London|Londra]].  L'errore è di indole
+quanto mai pratica.  Si dà per scontato con ostinazione che,
+se un [[Child|bambino]] non viene incivilito dalle scuole
+ufficiali, debba rimanere un barbaro.  Vorrei che fosse
+così.  Ogni [[Child|bambino]] di [[London|Londra]] diventa
+una persona altamente civile.  Ma qui vi sono tante diverse
+civiltà, e la maggior parte nasce già stanca.  Chiunque vi
+dirà che il guaio dei poveri non è tanto che i vecchi siano
+ancora sciocchi, quanto piuttosto che i giovani siano già
+scaltri.  Senza andare affatto a scuola, il monello di strada
+sarebbe istruito.  Senza andare affatto a scuola, sarebbe
+istruito fin troppo.  Il vero scopo delle nostre scuole non
+dovrebbe essere tanto quello di suggerire complessità, quanto
+unicamente di restituire semplicità.  Sentirete venerabili
+idealisti dichiarare che dobbiamo muover guerra all'ignoranza
+dei poveri; ma, in verità, dobbiamo piuttosto muover guerra
+al loro sapere.  I veri educatori devono resistere a una
+sorta di fragorosa cateratta di cultura.  Il ragazzo che
+marina la scuola viene istruito tutto il giorno.  Se i
+bambini non guardano le grandi lettere del sillabario, basta
+che escano fuori a guardare le grandi lettere del manifesto.
+Se non si curano delle carte geografiche colorate fornite
+dalla scuola, possono restare a bocca aperta davanti alle
+carte colorate fornite dal Daily Mail.  Se si stancano
+dell'elettricità, possono darsi ai tram elettrici.  Se non
+li commuove la musica, possono darsi al bere.  Se non vogliono
+lavorare per ottenere un premio dalla loro scuola, possono
+lavorare per ottenere un premio dai Prizy Bits.  Se non
+riescono a imparare abbastanza di legge e di cittadinanza
+per compiacere il maestro, ne imparano abbastanza da
+scansare il poliziotto.  Se non vogliono imparare la
+[[history|storia]] in avanti, dal capo giusto, sui libri di
+[[history|storia]], la impareranno all'indietro, dal capo
+sbagliato, sui giornali di partito.  E questa è la
+[[Tragedy|tragedia]] di tutta la faccenda: che i poveri di
+[[London|Londra]], una classe particolarmente svelta di
+mente e civile, imparano ogni cosa a rovescio, imparano
+persino ciò che è giusto per la via di ciò che è sbagliato.
+Non vedono i primi princìpi della legge in un codice; ne
+vedono soltanto gli ultimi effetti nella cronaca nera.  Non
+vedono le verità della politica in una rassegna generale.
+Ne vedono soltanto le menzogne, a un'Elezione Generale.
+
+Ma qualunque sia il pathos dei poveri di [[London|Londra]],
+esso nulla ha a che fare con l'essere privi di istruzione.
+Ben lungi dall'essere senza guida, sono guidati di continuo,
+con zelo, con foga; solo, guidati male.  I poveri non sono
+affatto trascurati, sono semplicemente oppressi; anzi,
+piuttosto perseguitati.  Non c'è persona a [[London|Londra]]
+alla quale i ricchi non facciano appello; gli appelli dei
+ricchi strillano da ogni tabellone e gridano da ogni
+comizio.  Poiché si dovrebbe sempre ricordare che la strana,
+brusca bruttezza delle nostre strade e delle nostre fogge non
+è creazione della [[Democracy|democrazia]], ma
+dell'aristocrazia.  La [[house|Camera]] dei Lord si oppose a
+che il Lungofiume venisse deturpato dai tram.  Ma la maggior
+parte dei ricchi che deturpano i muri delle strade con le
+loro mercanzie siede proprio nella [[house|Camera]] dei Lord.
+I pari rendono belle le residenze di campagna rendendo
+orribili le strade cittadine.  Questo, tuttavia, è per
+inciso.  Il punto è che i poveri di [[London|Londra]] non
+sono lasciati [[Alone|soli]], ma piuttosto assordati e
+disorientati da consigli rauchi e dispotici.  Non sono come
+pecore senza pastore.  Sono piuttosto come una sola pecora
+alla quale ventisette pastori stanno gridando.  Tutti i
+giornali, tutte le nuove réclame, tutte le nuove medicine e
+le nuove teologie, tutto il bagliore e il fragore del gas e
+dell'ottone dei tempi moderni: è contro tutto questo che la
+scuola pubblica deve reggere, se può.  Non metterò in dubbio
+che la nostra [[Education|istruzione]] elementare sia meglio
+dell'ignoranza barbarica.  Ma non esiste ignoranza barbarica.
+Non [[Doubt|dubito]] che le nostre scuole sarebbero buone per
+ragazzi non ammaestrati.  Ma non esistono ragazzi non
+ammaestrati.  Una moderna scuola di [[London|Londra]] non
+dovrebbe soltanto essere più chiara, più benevola, più
+intelligente e più rapida dell'ignoranza e delle tenebre.
+Deve anche essere più chiara di una cartolina illustrata, più
+arguta di un concorso di Limerick, più veloce del tram, e più
+benevola dell'osteria.  La scuola, di fatto, ha la
+responsabilità di una rivalità universale.  Non c'è bisogno di
+negare che ovunque vi sia una luce che deve vincere le
+tenebre.  Ma qui esigiamo una luce che sappia vincere la luce.
+
+* * *
+
+VIII
+
+L'ARCOBALENO INFRANTO
+
+Prenderò un solo caso che servirà insieme da simbolo e da
+esempio: il caso del colore.  Sentiamo i realisti (quei tipi
+sentimentali) parlare delle strade grigie e delle vite grigie
+dei poveri.  Ma qualunque cosa siano le strade dei poveri,
+grigie non sono; bensì screziate, striate, chiazzate, pezzate
+e rappezzate come una trapunta.  Hoxton non è abbastanza
+estetica da essere monocroma; e non vi è in essa nulla del
+crepuscolo celtico.  In realtà, un monello di strada di
+[[London|Londra]] cammina indenne tra fornaci di colore.
+Guardatelo camminare lungo una fila di tabelloni, e lo
+vedrete ora stagliarsi contro un verde ardente, come un
+viaggiatore in una foresta tropicale; ora nero come un
+uccello contro l'azzurro incandescente del Mezzogiorno; ora
+passante su un campo di rosso, come i leopardi d'oro
+d'Inghilterra.  Dovrebbe comprendere l'irrazionale rapimento
+di quel grido del signor Stephen Phillips a proposito di
+"quell'azzurro più azzurro, quel verde più verde."  Non c'è
+azzurro molto più azzurro dell'Azzurro Reckitt né lucido da
+scarpe più nero di quello di Day and Martin; nessun giallo
+più marcato di quello della Senape Colman.  Se, malgrado
+questo caos di colore, simile a un arcobaleno frantumato,
+l'animo del ragazzino non è propriamente inebriato d'arte e
+di cultura, la causa non risiede certo in un grigiore
+universale o nel semplice affamare dei suoi sensi.  Risiede
+nel fatto che i colori gli sono presentati nella connessione
+sbagliata, nella scala sbagliata e, soprattutto, per il
+motivo sbagliato.  Non è di colori che egli manca, ma di una
+[[philosophy|filosofia]] dei colori.  In breve, non c'è nulla
+di sbagliato nell'Azzurro Reckitt, se non che non è Reckitt.
+L'azzurro non appartiene a Reckitt, ma al cielo; il nero non
+appartiene a Day and Martin, ma all'abisso.  Perfino i più
+bei manifesti sono solo cose piccolissime su scala
+grandissima.  Vi è qualcosa di particolarmente irritante, in
+questo senso, nel ripetersi delle réclame della senape: un
+condimento, un piccolo lusso; una cosa che per sua
+[[Nature|natura]] non va presa in quantità.  Vi è una
+speciale ironia, in queste strade affamate, nel vedere tanta
+senape a fronte di così poca carne.  Il giallo è un pigmento
+vivace; la senape è un piacere pungente.  Ma guardare questi
+mari di giallo è come essere un uomo che dovesse
+[[Swallow|inghiottire]] galloni di senape.  O morirebbe, o
+perderebbe del tutto il gusto della senape.
 
 
 
@@ -11382,6 +15088,127 @@ He must brace himself to bear his fate; he shall have nothing
 but his heart's [[Desire|desire]].
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Ho parlato finora dell'[[Education|istruzione]] popolare, che nacque troppo
+vaga e sconfinata e che perciò ha realizzato ben poco.
+Ma si dà il caso che in Inghilterra vi sia qualcosa con cui confrontarla.
+Esiste un'istituzione, o una categoria di istituzioni, che cominciò
+con lo stesso scopo popolare, che da allora ha perseguito un fine assai
+più angusto, ma che ebbe il grande vantaggio di perseguire
+davvero un fine, a differenza delle nostre moderne scuole elementari.
+
+In tutti questi problemi vorrei sostenere la soluzione che è positiva,
+o, come dice la gente sciocca, "ottimistica". Vorrei cioè oppormi
+alla maggior parte delle soluzioni che sono soltanto negative e abolizioniste.
+La maggior parte degli educatori dei poveri sembra credere di dover insegnare
+al povero a non bere. Io sarei ben contento se gli insegnassero a bere;
+poiché è la mera ignoranza su come bere e su quando bere che è
+responsabile della maggior parte delle sue tragedie. Non propongo (come alcuni
+dei miei amici rivoluzionari) di abolire le scuole pubbliche.
+Propongo l'esperimento assai più cupo e disperato di renderle
+pubbliche. Non desidero far cessare il lavoro del Parlamento, ma piuttosto
+farlo lavorare; non chiudere le chiese, ma piuttosto aprirle;
+non spegnere la lampada del sapere né abbattere la siepe della proprietà,
+ma solo compiere qualche rozzo sforzo per rendere le università discretamente
+universali e la proprietà decentemente propria.
+
+In molti casi, si tenga a mente, tale azione non è un mero ritorno
+all'antico ideale, ma è addirittura un ritorno all'antica realtà.
+Sarebbe un gran passo avanti per la bettola tornare
+alla locanda. È incontrovertibilmente vero che medievalizzare
+le scuole pubbliche significherebbe democratizzare le scuole pubbliche.
+Un tempo il Parlamento significava davvero (come il suo nome par suggerire)
+un luogo dove alle persone era permesso di parlare. È solo di recente
+che il generale aumento dell'efficienza, cioè dello Speaker,
+lo ha reso perlopiù un luogo dove alle persone è impedito di parlare.
+I poveri non vanno alla chiesa moderna, ma andavano alla chiesa
+antica benissimo; e se l'[[Common Man|uomo comune]] nel passato aveva un [[Grave|grave]] rispetto
+per la proprietà, può ben darsi che fosse perché talvolta ne possedeva
+un po' di propria. Posso dunque affermare di non avere alcun volgare prurito
+di innovazione in nulla di ciò che dico su alcuna di queste istituzioni.
+Certamente non ne ho alcuno in quella particolare che ora sono costretto
+a estrarre dall'elenco; un tipo di istituzione verso cui ho
+ragioni genuine e personali per essere amico e riconoscente:
+intendo le grandi fondazioni Tudor, le scuole pubbliche
+d'Inghilterra. Sono state lodate per moltissime cose, per lo più,
+mi rincresce dirlo, lodate da se stesse e dai loro figli.
+E tuttavia per qualche ragione nessuno le ha mai lodate per l'unica
+ragione davvero convincente.
+
+* * *
+
+X
+
+LE RAGIONI IN FAVORE DELLE SCUOLE PUBBLICHE
+
+La parola [[success|successo]] può naturalmente essere usata in due sensi.
+Può essere usata in riferimento a una cosa che serve al suo scopo immediato
+e peculiare, come di una [[Wheel|ruota]] che gira; oppure può
+essere usata in riferimento a una cosa che accresce il benessere generale,
+come di una [[Wheel|ruota]] che è un'utile invenzione. Una cosa è
+dire che la [[Machine|macchina]] volante di [[smith|Smith]] è un fallimento, e tutt'altra
+è dire che [[smith|Smith]] ha fallito nel costruire una [[Machine|macchina]] volante.
+Ora questa è, molto in generale, la differenza tra le vecchie
+scuole pubbliche inglesi e le nuove scuole democratiche.
+Forse le vecchie scuole pubbliche stanno (come io personalmente credo)
+in ultima analisi indebolendo il paese anziché rafforzarlo,
+e sono perciò, in quel senso ultimo, inefficienti.
+Ma esiste una cosa come l'essere efficientemente inefficienti.
+Puoi costruire la tua [[Ship|nave]] volante così che voli, anche se
+la costruisci pure così che ti uccida. Ora il sistema delle scuole pubbliche
+può non funzionare in modo soddisfacente, ma funziona; le scuole pubbliche
+possono non raggiungere ciò che noi vogliamo, ma raggiungono ciò che esse vogliono.
+Le scuole elementari popolari non raggiungono, in quel senso,
+proprio nulla. È assai difficile additare un qualsiasi monello
+per strada e dire che egli incarna l'ideale per cui l'[[Education|istruzione]]
+popolare ha lavorato, nel senso in cui il ragazzo dal viso fresco
+e sciocco in "abito da Eton" incarna davvero l'ideale per cui
+i presidi di Harrow e Winchester hanno lavorato.
+Gli educatori aristocratici hanno lo scopo positivo
+di sfornare gentiluomini, ed essi sfornano davvero gentiluomini,
+anche quando li espellono. Gli educatori popolari direbbero
+di avere l'idea assai più nobile di sfornare cittadini.
+Concedo che sia un'idea assai più nobile, ma dove sono i cittadini?
+So che il ragazzo in "abito da Eton" è impettito in uno stoicismo
+piuttosto sciocco e sentimentale, chiamato l'essere un uomo di mondo.
+Non m'immagino che il fattorino sia rigido in quello stoicismo
+repubblicano che si chiama l'essere un cittadino. Lo scolaro dirà davvero
+con fresca e [[Innocent|innocente]] alterigia: "Sono un gentiluomo inglese".
+Non riesco a raffigurarmi così facilmente il fattorino che leva
+il capo alle [[Stars|stelle]] e risponde: "Romanus civis sum".
+Si conceda pure che i nostri maestri elementari insegnino
+il codice morale più ampio in assoluto, mentre i nostri grandi presidi
+insegnano soltanto il codice di buone maniere più angusto.
+Si conceda pure che entrambe queste cose vengano insegnate.
+Ma solo una di esse viene appresa.
+
+Si dice sempre che i grandi riformatori o padroni degli eventi
+riescano a portare a compimento alcune riforme specifiche e pratiche,
+ma che non realizzino mai le loro visioni né appaghino le loro anime.
+Credo che vi sia un senso reale in cui questa apparente banalità
+è del tutto falsa. Per una strana inversione l'idealista politico
+spesso non ottiene ciò che chiede, ma ottiene ciò che vuole.
+La silenziosa pressione del suo ideale dura assai più a lungo e riplasma il mondo
+assai più delle realtà con cui egli tentò di suggerirlo.
+Ciò che perisce è la lettera, che egli riteneva tanto pratica.
+Ciò che perdura è lo spirito, che egli sentiva [[Unattainable|irraggiungibile]]
+e persino indicibile. Sono proprio i suoi progetti a non
+compiersi; è proprio la sua visione a compiersi.
+Così le dieci o dodici costituzioni cartacee della [[French Revolution|Rivoluzione francese]],
+che parevano tanto pratiche a chi le redigeva, sembrano a
+noi essere volate via al [[Wind|vento]] come le più sfrenate fantasie.
+Ciò che non è volato via, ciò che è un fatto stabile in Europa,
+è l'ideale e la visione. La Repubblica, l'idea di una terra
+piena di meri cittadini tutti con un qualche minimo di buone maniere
+e minimo di ricchezza, la visione del diciottesimo secolo,
+la realtà del ventesimo. Così credo che generalmente
+sarà con il creatore di cose sociali, desiderabili o indesiderabili.
+Tutti i suoi progetti falliranno, tutti i suoi strumenti si spezzeranno tra le sue mani.
+I suoi compromessi crolleranno, le sue concessioni saranno inutili.
+Egli dovrà farsi forza per sopportare il proprio destino; non avrà nulla
+se non il [[Desire|desiderio]] del proprio cuore.
+
 
 
 <span class="atom-split" data-atom="chapter_08--part_09" data-title="whats wrong — Part 4 (part 9)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="topos/double,motif/blood,motif/city,concept/body,concept/courage,concept/democracy,concept/education,concept/history,concept/reform,concept/self,concept/truth,form/history"></span>
@@ -11500,6 +15327,121 @@ Gentlemen only."  If the public schools stuck up a notice it
 ought to be inscribed, "For the Fathers of Gentlemen only."
 In two generations they can do the trick.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Ora, se è lecito paragonare cose piccolissime a cose grandissime,
+si può dire che le scuole aristocratiche inglesi possono vantare
+qualcosa dello stesso genere di [[success|successo]] e di solido splendore
+della politica democratica francese.  Perlomeno possono rivendicare
+lo stesso genere di superiorità sui tentativi distratti e maldestri
+dell'Inghilterra moderna di istituire un'[[Education|istruzione]] democratica.
+Il [[success|successo]] che ha accompagnato l'allievo delle public school in tutto
+l'Impero, un [[success|successo]] certo esagerato da lui stesso, ma pur sempre
+positivo e fatto di una forma e di una grandezza indiscutibili,
+è dovuto alla circostanza centrale e suprema che i responsabili
+delle nostre public school sapevano che tipo di ragazzo prediligevano.
+Volevano qualcosa e qualcosa ottenevano; invece di mettersi
+all'opera in quel modo dalle vedute larghe, volendo ogni cosa
+e non ottenendo nulla.
+
+L'unica questione è la qualità di ciò che ottennero.
+C'è qualcosa di profondamente esasperante nella circostanza
+che, quando le persone moderne attaccano un'istituzione che davvero
+esige una [[Reform|riforma]], la attaccano sempre per le ragioni sbagliate.
+Così molti avversari delle nostre public school, immaginandosi
+democraticissimi, si sono sfiancati in un attacco insensato
+allo studio del greco.  Posso capire come il greco possa essere
+ritenuto inutile, specie da chi anela a gettarsi
+in quel commercio spietato che è la negazione della cittadinanza;
+ma non capisco come possa essere considerato antidemocratico.
+Capisco benissimo perché Mr. Carnegie odii il greco.  È
+oscuramente fondato sulla ferma e giusta impressione che in
+qualsiasi [[City|città]] greca [[Self|autogovernata]] egli sarebbe stato ucciso.
+Ma non riesco a comprendere perché un qualsiasi democratico d'occasione, poniamo Mr. Quelch,
+o Mr. Will Crooks, o Mr. John M. Robertson, dovrebbe opporsi a
+che la gente impari l'alfabeto greco, che fu l'alfabeto della libertà.
+Perché i Radicali dovrebbero detestare il greco?  In quella lingua è scritta
+tutta la più antica e, Dio sa, la più eroica [[history|storia]]
+del partito radicale.  Perché il greco dovrebbe disgustare un democratico,
+quando la parola stessa democratico è greca?
+
+Un errore analogo, benché meno grave, è il semplice
+attacco all'atletismo delle public school come a qualcosa che
+promuove l'animalità e la brutalità.  Ora la brutalità, nell'unico
+senso immorale, non è un vizio delle public school inglesi.
+Vi è molto sopruso morale, dovuto alla generale mancanza
+di [[Courage|coraggio]] morale nell'atmosfera delle public school.
+Queste scuole, nel complesso, incoraggiano il [[Courage|coraggio]] fisico;
+ma non si limitano a scoraggiare il [[Courage|coraggio]] morale, lo proibiscono.
+Il risultato ultimo della cosa si vede nell'egregio
+ufficiale inglese che non sopporta nemmeno di indossare una divisa sgargiante
+se non quando è offuscata e nascosta nel fumo della battaglia.
+Questo, come tutte le affettazioni della nostra attuale plutocrazia,
+è cosa interamente moderna.  Era ignoto agli antichi aristocratici.
+Il Principe Nero avrebbe certo preteso che ogni cavaliere
+che avesse il [[Courage|coraggio]] di levare il proprio cimiero tra i nemici,
+avesse anche il [[Courage|coraggio]] di levarlo tra gli amici.
+Quanto al [[Courage|coraggio]] morale, dunque, non è tanto che le public
+school lo sostengano debolmente, quanto che lo reprimano fermamente.
+Ma il [[Courage|coraggio]] fisico lo sostengono, nel complesso; e il [[Courage|coraggio]]
+fisico è un fondamento magnifico.  Il solo grande,
+saggio inglese del diciottesimo secolo disse con verità che se un uomo
+perdeva quella virtù non poteva mai esser sicuro di conservarne alcun'altra.
+Ora è una delle meschine e morbose menzogne moderne che il [[Courage|coraggio]]
+fisico sia connesso alla crudeltà.  Il tolstoiano e il kiplingiano
+in nulla sono più d'accordo che nel sostenere questo.  Hanno,
+credo, qualche piccola disputa settaria fra loro, dicendo l'uno
+che il [[Courage|coraggio]] va abbandonato perché è connesso
+alla crudeltà, e sostenendo l'altro che la crudeltà è affascinante
+perché è parte del [[Courage|coraggio]].  Ma è tutto, grazie a Dio, una menzogna.
+Un'energia e un'audacia del [[Body|corpo]] possono rendere un uomo stupido o temerario
+o ottuso o ubriaco o affamato, ma non lo rendono maligno.
+E possiamo ammettere di cuore (senza unirci a quella perpetua
+lode che gli uomini delle public school si riversano di continuo addosso)
+che ciò opera per la rimozione della mera cattiva crudeltà
+nelle public school.  La vita delle public school inglesi è estremamente
+simile alla vita pubblica inglese, di cui è la scuola preparatoria.
+Le somiglia specialmente in questo, che le cose o sono molto aperte,
+comuni e convenzionali, oppure sono davvero molto segrete.
+Ora vi è crudeltà nelle public school, proprio come vi è
+cleptomania e bere di nascosto e vizi senza nome.
+Ma queste cose non prosperano nella piena luce del giorno e nella comune
+coscienza della scuola, e nemmeno la crudeltà lo fa.
+Un minuscolo terzetto di ragazzi dall'aria imbronciata si raduna negli angoli e pare
+avere sempre qualche losco affare; può essere letteratura indecente,
+può essere l'inizio del bere, può essere di quando in quando crudeltà
+verso i ragazzini.  Ma su questo palcoscenico il prepotente non è un fanfarone.
+Il proverbio dice che i prepotenti sono sempre codardi, ma questi
+prepotenti sono più che codardi; sono timidi.
+
+Come terzo esempio della forma sbagliata di rivolta contro
+le public school, posso citare l'abitudine di usare la parola
+aristocrazia con un [[Double|doppio]] sottinteso.  Per dire la [[Truth|verità]] schietta
+nel modo più breve possibile, se aristocrazia significa dominio di una ricca cricca,
+l'Inghilterra ha l'aristocrazia e le public school inglesi la sostengono.
+Se significa dominio di famiglie antiche o di [[Blood|sangue]] immacolato,
+l'Inghilterra non ha l'aristocrazia, e le public school
+sistematicamente la distruggono.  In questi ambienti la vera aristocrazia,
+come la vera [[Democracy|democrazia]], è divenuta cattivo gusto.  Un moderno anfitrione
+alla moda non osa lodare i propri antenati; sarebbe così spesso un insulto
+a metà degli altri oligarchi a tavola, che di antenati non ne hanno.
+Abbiamo detto che non ha il [[Courage|coraggio]] morale di indossare la divisa;
+ancor meno ha il [[Courage|coraggio]] morale di portare il proprio stemma.
+Il tutto ormai è solo un vago guazzabuglio di gentiluomini piacevoli e
+sgradevoli.  Il gentiluomo piacevole non allude mai al padre di
+qualcun altro, il gentiluomo sgradevole non allude mai al proprio.
+È questa la sola differenza, il resto è il modo delle public school.
+Ma Eton e Harrow devono essere aristocratiche perché constano
+in gran parte di parvenu.  La public school non è una sorta
+di rifugio per aristocratici, come un asilo, un luogo dove essi
+entrano e non escono più.  È una fabbrica di aristocratici;
+ne escono senza esservi mai percettibilmente entrati.
+Le povere piccole scuole private, nel loro stile antico, sentimentale,
+feudale, usavano affiggere un avviso: "Solo per i Figli di
+Gentiluomini".  Se le public school affiggessero un avviso,
+dovrebbe recare l'iscrizione: "Solo per i Padri di Gentiluomini".
+In due generazioni possono compiere il trucco.
 
 
 
@@ -11633,6 +15575,134 @@ above us, it is very likely indeed to find the simplest man
 in a muck cart and the most complex blackguard in a bath.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+* * *
+
+XI
+
+LA SCUOLA PER IPOCRITI
+
+Queste sono le false accuse; l'accusa di classicismo,
+l'accusa di crudeltà, e l'accusa di un'esclusività fondata
+sulla perfezione del lignaggio. I ragazzi delle public school inglesi non sono pedanti,
+non sono aguzzini; e non sono, nella stragrande maggioranza dei casi,
+persone ferocemente orgogliose dei propri antenati, e nemmeno persone che abbiano
+antenati di cui andare fiere. Vengono educati a essere cortesi, a essere di buon carattere,
+a essere coraggiosi in senso corporeo, a essere puliti in senso corporeo;
+sono in genere gentili con gli [[Animals|animali]], in genere civili con i domestici,
+e con chiunque sia in qualche senso loro pari, i più allegri compagni della terra.
+C'è dunque qualcosa di sbagliato nell'ideale della public school?
+Credo che tutti sentiamo esservi qualcosa di assai sbagliato in esso, ma un'accecante
+rete di fraseologia giornalistica ci offusca e ci imbriglia; sicché
+è difficile risalire fino al principio, al di là di tutte le parole e le frasi,
+dei difetti di questa grande conquista inglese.
+
+Di certo, quando tutto è stato detto, l'obiezione ultima alla public school
+inglese è il suo disprezzo assolutamente sfacciato e indecente
+del dovere di dire la [[Truth|verità]]. So che indugia ancora
+fra le zitelle nelle remote case di campagna l'idea
+che agli scolari inglesi si insegni a dire la [[Truth|verità]], ma essa
+non può essere sostenuta seriamente neppure per un istante. Molto di rado,
+molto vagamente, agli scolari inglesi si dice di non dire bugie,
+il che è una cosa del tutto diversa. Io posso sostenere in silenzio
+tutte le oscene finzioni e falsificazioni dell'universo,
+senza mai dire una sola bugia. Posso indossare il cappotto di un altro,
+rubare l'arguzia di un altro, apostatare al credo di un altro,
+o [[Poison|avvelenare]] il caffè di un altro, il tutto senza mai dire una bugia.
+Ma a nessuno scolaro inglese si insegna mai a dire la [[Truth|verità]], per la
+semplicissima ragione che non gli si insegna mai a [[Desire|desiderare]] la [[Truth|verità]].
+Fin dal primo momento gli si insegna a essere totalmente incurante del fatto
+che un fatto sia un fatto; gli si insegna a curarsi soltanto se il fatto possa
+essere usato dalla sua "parte" mentre è impegnato a "giocare la partita".
+Prende posizione nella sua società di dibattito della [[Union]] per stabilire se
+Carlo I avrebbe dovuto essere ucciso, con la stessa solenne
+e pomposa frivolezza con cui prende posizione sul campo
+di cricket per decidere se debbano vincere Rugby o Westminster.
+Non gli è mai concesso di ammettere la nozione astratta della [[Truth|verità]],
+che la partita è una questione di ciò che può accadere, ma che Carlo I
+è una questione di ciò che è accaduto—o non è accaduto. È Liberale o Tory
+alle elezioni generali esattamente come è [[Oxford]] o Cambridge
+alla gara di canottaggio. Sa che lo sport ha a che fare con l'ignoto;
+non ha nemmeno la minima idea che la politica dovrebbe avere a che fare con il noto.
+Se qualcuno dubita davvero di questa proposizione [[Self|auto]]-evidente,
+che le public school scoraggiano decisamente l'[[Love|amore]] della [[Truth|verità]],
+c'è un fatto che, credo, lo metterebbe a tacere.
+L'Inghilterra è il paese del Sistema dei Partiti, ed è sempre
+stata governata principalmente da uomini di public school. C'è qualcuno,
+fuori da Hanwell, che voglia sostenere che il Sistema dei Partiti,
+quali che siano le sue comodità o scomodità, avrebbe potuto essere
+creato da gente particolarmente amante della [[Truth|verità]]?
+
+La stessa felicità inglese su questo punto è essa stessa un'ipocrisia.
+Quando un uomo dice davvero la [[Truth|verità]], la prima [[Truth|verità]] che dice è che
+egli stesso è un bugiardo. Davide disse nella sua fretta, ossia nella sua onestà,
+che tutti gli uomini sono bugiardi. Fu in seguito, in qualche pacata spiegazione
+ufficiale, che disse che i Re d'Israele almeno dicevano la [[Truth|verità]].
+Quando Lord Curzon era Viceré tenne una predica morale
+agli indiani sulla loro reputata indifferenza per la veridicità, per l'effettualità
+e per l'onore intellettuale. Moltissime persone discussero con indignazione
+se gli orientali meritassero di ricevere questo rimprovero; se gli indiani
+fossero davvero nella posizione di ricevere un ammonimento tanto severo.
+Nessuno parve chiedersi, come io oserei chiedermi, se Lord Curzon
+fosse nella posizione di darlo. È un comune politico di partito; un politico
+di partito significa un politico che avrebbe potuto appartenere all'uno o all'altro partito.
+Essendo una tale persona, egli deve, di continuo, a ogni giro e svolta della
+strategia di partito, aver ingannato altri o aver grossolanamente ingannato se stesso.
+Non conosco l'Oriente; né mi piace ciò che ne conosco. Sono del tutto disposto a
+credere che, quando Lord Curzon vi si recò, trovò un'atmosfera assai falsa.
+Dico soltanto che deve essere stata qualcosa di sbalorditivamente e soffocantemente falso
+se era più falsa di quell'atmosfera inglese da cui egli proveniva.
+Il Parlamento inglese in realtà si cura di ogni cosa tranne che della veridicità.
+L'uomo di public school è gentile, coraggioso, garbato, pulito, socievole;
+ma, nel senso più tremendo delle parole, la [[Truth|verità]] non è in lui.
+
+Questa debolezza della falsità nelle public school inglesi,
+nel sistema politico inglese, e in certa misura nel carattere
+inglese, è una debolezza che produce necessariamente una curiosa
+messe di superstizioni, di leggende menzognere, di evidenti illusioni
+a cui ci si aggrappa per bassa [[Self|auto]]-indulgenza spirituale. Vi sono tante
+di queste superstizioni da public school che qui ho spazio soltanto
+per una di esse, che si potrebbe chiamare la superstizione del sapone.
+Pare che essa fosse condivisa dai Farisei abluzionari,
+che assomigliavano agli aristocratici delle public school inglesi sotto tanti
+aspetti: nella loro cura per le regole e le tradizioni del club,
+nel loro offensivo ottimismo a spese degli altri,
+e soprattutto nel loro sfaticato e privo di immaginazione patriottismo
+esercitato nel peggior interesse del loro paese. Ora, l'antico buon
+senso umano intorno al lavarsi è che esso è un grande piacere.
+L'[[Water|acqua]] (applicata esternamente) è una cosa splendida, come il vino.
+I sibariti si bagnano nel vino, e i Non-conformisti bevono l'[[Water|acqua]];
+ma noi non ci occupiamo di queste frenetiche eccezioni.
+Essendo il lavarsi un piacere, è logico che i ricchi possano
+permetterselo più dei poveri, e finché ciò fu riconosciuto
+tutto andava [[Well|bene]]; ed era giustissimo che i ricchi offrissero
+bagni ai poveri, come potevano offrire qualsiasi altra cosa piacevole—
+una bevanda o una cavalcata sull'[[donkey|asino]]. Ma un giorno terribile, verso
+la metà del diciannovesimo secolo, qualcuno scoprì
+(qualcuno piuttosto [[Well|bene]]stante) le due grandi verità moderne,
+che il lavarsi è una virtù nei ricchi e perciò un dovere
+nei poveri. Poiché un dovere è una virtù che non si può compiere.
+E una virtù è generalmente un dovere che si può compiere assai facilmente;
+come la pulizia corporea delle classi superiori.
+Ma nella tradizione da public school della vita pubblica, il sapone è divenuto
+meritevole di lode semplicemente perché è piacevole. I bagni vengono rappresentati
+come una parte della [[Decay|decadenza]] dell'Impero Romano; ma quegli stessi bagni
+vengono rappresentati come parte dell'energia e del ringiovanimento
+dell'Impero Britannico. Vi sono illustri uomini di public school,
+vescovi, docenti, presidi e alti politici, i quali, nel corso
+degli elogi che di [[Time|tempo]] in [[Time|tempo]] rivolgono a se stessi,
+hanno addirittura identificato la pulizia fisica con la purezza morale.
+Dicono (se ricordo bene) che un uomo di public school è
+pulito dentro e fuori. Come se non tutti sapessero che, mentre
+i santi possono permettersi di essere sudici, i seduttori devono essere puliti.
+Come se non tutti sapessero che la meretrice deve essere pulita,
+perché è suo mestiere ammaliare, mentre la buona
+moglie può essere sudicia, perché è suo mestiere pulire.
+Come se non sapessimo tutti che, ogni volta che il tuono di Dio scoppia
+sopra di noi, è davvero assai probabile che trovi l'uomo più semplice
+su un carro di letame e il più complesso furfante in una vasca da bagno.
+
 
 
 <span class="atom-split" data-atom="chapter_08--part_11" data-title="whats wrong — Part 4 (part 11)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="motif/clock,motif/home,motif/love,motif/time,concept/charity,concept/doubt,concept/education,concept/grotesque,concept/history,concept/reform,concept/truth,form/history,histref/reformation"></span>
@@ -11761,6 +15831,131 @@ As Mr. Blatchford says, "The world does not want piety, but soap--
 and Socialism."  Piety is one of the popular virtues, whereas soap
 and Socialism are two hobbies of the upper middle class.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Vi sono naturalmente altri esempi di questo untuoso trucco
+di trasformare i piaceri di un gentiluomo nelle virtù di
+un anglosassone. Lo sport, come il sapone, è cosa ammirevole, ma,
+come il sapone, è cosa gradevole. E non riassume
+tutti i meriti mortali l'essere uno sportivo che gioca la sua partita in un mondo
+in cui è così spesso necessario essere un operaio che fa il suo lavoro.
+Con tutto il cuore lasciamo pure che un gentiluomo si congratuli con sé stesso di non aver
+perduto il suo naturale [[Love|amore]] del piacere, a differenza degli individui blasé
+e privi d'infanzia. Ma quando si possiede la gioia fanciullesca è
+meglio possedere anche l'incoscienza fanciullesca; e non
+credo che dovremmo nutrire particolare affetto per quel bambino
+che spiegasse in eterno che era suo dovere giocare a Rimpiattino
+e una delle virtù di famiglia il distinguersi al gioco del Gatto
+nell'angolo.
+
+Un'altra ipocrisia altrettanto irritante è l'atteggiamento oligarchico verso
+l'accattonaggio contrapposto alla [[Charity|carità]] organizzata. Anche qui, come nel caso
+della pulizia e dell'atletica, l'atteggiamento sarebbe perfettamente
+umano e comprensibile se non fosse sostenuto come un merito.
+Proprio come la cosa evidente riguardo al sapone è che è una comodità,
+così la cosa evidente riguardo ai mendicanti è che sono una scomodità.
+I ricchi meriterebbero ben poco biasimo se dicessero semplicemente
+di non avere mai a che fare direttamente con i mendicanti, perché nella moderna
+civiltà urbana è impossibile avere a che fare direttamente con i mendicanti;
+o se non impossibile, almeno assai difficile. Ma costoro non
+rifiutano il denaro ai mendicanti col pretesto che tale [[Charity|carità]] sia difficile.
+Lo rifiutano sull'ipocritissimo pretesto che tale
+[[Charity|carità]] sia facile. Dicono, con la più [[Grotesque|grottesca]] gravità:
+"Chiunque può mettere la mano in tasca e dare a un pover'uomo un soldo;
+ma noi, filantropi, torniamo a [[Home|casa]] e rimuginiamo e ci affanniamo sui
+guai del pover'uomo finché non abbiamo scoperto esattamente
+quale prigione, riformatorio, ospizio o manicomio sia
+davvero meglio per lui frequentare". Tutto questo è pura menzogna.
+Non rimuginano affatto sull'uomo quando arrivano a [[Home|casa]], e se anche lo
+facessero non muterebbe il fatto originario che il loro motivo per
+scoraggiare i mendicanti è quello perfettamente razionale che i mendicanti
+sono una seccatura. Un uomo può essere facilmente perdonato per non aver compiuto questo
+o quell'atto occasionale di [[Charity|carità]], specialmente quando la questione
+è genuinamente difficile come nel caso dell'accattonaggio.
+Ma vi è qualcosa di pestilenzialmente pecksniffiano nel
+tirarsi indietro davanti a un compito arduo col pretesto che non sia abbastanza arduo.
+Se un uomo proverà davvero a parlare con i dieci mendicanti che giungono
+alla sua porta, scoprirà presto se sia davvero tanto più
+facile della fatica di scrivere un assegno per un ospedale.
+
+* * *
+
+XII
+
+LA STANTIA DELLE NUOVE SCUOLE
+
+Per questa profonda e paralizzante ragione, dunque, per la sua cinica
+e dissoluta indifferenza verso la [[Truth|verità]], la public school
+inglese non ci fornisce l'ideale di cui abbiamo bisogno.
+Possiamo soltanto chiedere ai suoi critici moderni di ricordare che, a torto
+o a ragione, la cosa può essere fatta; la fabbrica è in funzione,
+le ruote girano, i gentiluomini vengono prodotti,
+col loro sapone, il loro cricket e la loro [[Charity|carità]] organizzata al completo.
+E in questo, come abbiamo già detto, la public school ha davvero
+un vantaggio su tutti gli altri schemi educativi del nostro [[Time|tempo]].
+Puoi riconoscere un uomo di public school in una qualsiasi delle molte
+compagnie in cui costoro si smarriscono, da una fumeria d'oppio cinese
+a un pranzo di ebrei tedeschi. Ma [[Doubt|dubito]] che tu
+possa dire quale piccola fiammiferaia sia stata allevata
+dalla religione non confessionale e quale dall'[[Education|educazione]] laica.
+La grande aristocrazia inglese che ci governa fin dalla
+[[Reformation|Riforma]] è davvero, in questo senso, un modello per i moderni.
+Essa ebbe un ideale, e perciò ha prodotto una realtà.
+
+Possiamo ripetere qui che queste pagine si propongono soprattutto di mostrare una cosa:
+che il progresso dovrebbe fondarsi sul principio, mentre il nostro progresso moderno
+si fonda per lo più sul precedente. Procediamo non secondo ciò che può essere affermato
+in teoria, ma secondo ciò che è già stato ammesso nella pratica.
+Ecco perché i giacobiti sono gli ultimi Tory nella [[history|storia]]
+verso i quali una persona di nobile animo possa nutrire molta simpatia.
+Volevano una cosa precisa; erano pronti ad andare avanti
+per essa, e così erano anche pronti a tornare indietro per essa.
+Ma i Tory moderni hanno soltanto la tediosità di difendere
+situazioni che non ebbero l'emozione di creare.
+I rivoluzionari fanno una [[Reform|riforma]], i conservatori si limitano a conservare la [[Reform|riforma]].
+Non [[Reform|riformano]] mai la [[Reform|riforma]], cosa che è spesso quanto mai necessaria.
+Proprio come la rivalità degli armamenti è solo una sorta di imbronciato plagio,
+così la rivalità dei partiti è solo una sorta di imbronciata eredità.
+Gli uomini hanno il voto, dunque le donne dovranno presto avere il voto; i bambini poveri
+sono istruiti a forza, dunque dovranno presto essere nutriti a forza;
+la polizia chiude le osterie alle dodici in [[Clock|punto]], dunque presto
+dovrà chiuderle alle undici in [[Clock|punto]]; i bambini restano a scuola finché
+non hanno quattordici anni, dunque presto vi resteranno finché non ne avranno quaranta.
+Nessun barlume di ragione, nessun momentaneo ritorno ai primi principi,
+nessuna astratta formulazione di una qualche ovvia domanda può interrompere questo
+folle e monotono galoppo del mero progresso per precedente.
+È un ottimo modo per prevenire la rivoluzione vera.
+Per questa [[logic|logica]] degli eventi, il Radicale finisce in un solco
+proprio quanto il Conservatore. Incontriamo un vecchio pazzo incanutito
+che dice che suo nonno gli ordinò di restare presso una certa staccionata.
+Incontriamo un altro vecchio pazzo incanutito che dice che suo nonno gli ordinò
+di camminare soltanto lungo un certo vicolo.
+
+Dico che possiamo ripetere qui questa parte fondamentale dell'argomentazione,
+perché siamo appena giunti al punto in cui essa si mostra nel modo più
+sorprendente e più forte. La prova definitiva che le nostre
+scuole elementari non hanno alcun ideale definito proprio è il fatto
+che imitano così apertamente gli ideali delle public school.
+Nelle scuole elementari abbiamo tutti i pregiudizi etici
+e le esagerazioni di Eton e Harrow accuratamente copiati
+per gente a cui non si applicano nemmeno alla lontana.
+Abbiamo la stessa dottrina selvaggiamente sproporzionata riguardo
+all'effetto della pulizia fisica sul carattere morale.
+Educatori e politici dell'istruzione dichiarano, tra calorosi applausi,
+che la pulizia è assai più importante di tutte le baruffe
+sull'educazione morale e religiosa. Parrebbe davvero
+che, purché un bambino si lavi le mani, non importi
+se stia lavando via la marmellata di sua madre o il sangue di suo fratello.
+Abbiamo la stessa grossolanamente insincera pretesa che lo sport incoraggi sempre
+il senso dell'onore, quando sappiamo che spesso lo rovina.
+Soprattutto, abbiamo la stessa grande presunzione dell'alta classe
+secondo cui le cose si fanno meglio con grandi istituzioni che maneggiano
+grandi somme di denaro e comandano tutti; e che
+la [[Charity|carità]] modesta e impulsiva sia in qualche modo spregevole.
+Come dice il signor Blatchford: "Il mondo non vuole la pietà, ma il sapone...
+e il Socialismo". La pietà è una delle virtù popolari, mentre il sapone
+e il Socialismo sono due hobby della media borghesia alta.
 
 
 
@@ -11895,6 +16090,138 @@ against being fed by the parish, because aristocrats feel no shame
 about being fed by the nation.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Questi ideali "sani", come li chiamano, che i nostri politici
+e i nostri maestri hanno preso in prestito dalle scuole
+aristocratiche per applicarli a quelle democratiche, non sono
+affatto particolarmente adatti a una [[Democracy|democrazia]] impoverita.  Una vaga
+ammirazione per il [[government|governo]] organizzato e una vaga diffidenza
+verso l'aiuto individuale non possono in alcun modo conciliarsi
+con la vita di gente presso la quale la gentilezza significa
+prestare una pentola e l'onore significa tenersi fuori dall'ospizio.
+Si risolve o nello scoraggiare quel sistema di generosità pronta
+e rappezzata che è una gloria quotidiana dei poveri,
+oppure in un vago consiglio, rivolto a chi non ha denaro, di non
+buttarlo via sconsideratamente.  E neppure l'esagerata gloria
+dell'atletica, abbastanza difendibile quando si tratta dei ricchi
+che, se non corressero e non si scapigliassero, mangerebbero
+e berrebbero in modo malsano, è per nulla tanto pertinente quando
+la si applica a gente che, per la maggior parte, farà comunque
+un bel po' di esercizio, con la vanga o il martello, il piccone
+o la sega.  E quanto al terzo caso, quello del lavarsi, è evidente
+che quella stessa retorica sulla delicatezza corporea che si addice
+a una classe ornamentale non può, presa così com'è, applicarsi
+a uno spazzino.  Da un gentiluomo ci si aspetta che sia
+sostanzialmente immacolato per tutto il [[Time|tempo]].
+Ma non è più disonorevole per un netturbino essere sudicio di quanto
+lo sia per un palombaro essere bagnato.  Uno spazzacamino non è
+più svergognato quando è coperto di fuliggine di quanto lo sia
+[[Michael]] [[Angelo]] quando è coperto d'argilla, o Bayard quando è coperto
+di [[Blood|sangue]].  Né questi propagatori della tradizione delle public school
+hanno fatto o proposto alcunché a mo' di sostituto dell'attuale
+sistema snobistico che rende la pulizia quasi impossibile ai poveri;
+intendo il generale rituale della biancheria e l'uso degli abiti
+smessi dei ricchi.  Un uomo entra negli abiti di un altro come entra
+nella [[house|casa]] di un altro.  Non c'è da [[Wonder|meravigliarsi]] se i nostri educatori
+non inorridiscono davanti a un uomo che raccoglie i calzoni di seconda
+mano dell'[[aristocrat|aristocratico]], quando essi stessi non hanno fatto altro
+che raccogliere le idee di seconda mano dell'[[aristocrat|aristocratico]].
+
+* * *
+
+XIII
+
+IL GENITORE MESSO AL BANDO
+
+C'è almeno una cosa di cui non si sente mai neppure un sussurro
+dentro le scuole popolari; ed è l'opinione del popolo.  Le uniche
+persone che sembrano non avere nulla a che fare con l'[[Education|educazione]]
+dei fanciulli sono i genitori.  Eppure i poveri inglesi hanno, per molti
+versi, tradizioni ben precise.  Sono nascoste sotto l'imbarazzo
+e l'ironia; e quegli psicologi che le hanno districate ne parlano
+come di cose stranissime, barbariche e segrete.  Ma, in verità,
+le tradizioni dei poveri sono per lo più semplicemente le tradizioni
+dell'umanità, una cosa che molti di noi non vedono da qualche [[Time|tempo]].
+Per esempio, gli operai hanno la tradizione che, se si parla
+di una cosa vile, è meglio parlarne in linguaggio crudo;
+si è meno esposti al rischio di essere sedotti a scusarla.
+Ma anche l'umanità ebbe questa tradizione, finché i Puritani
+e i loro figli, gli Ibseniani, avviarono l'idea opposta,
+secondo cui non importa che cosa si dica purché lo si dica
+con paroloni e col viso lungo.  O ancora, le classi colte hanno
+messo al bando quasi ogni scherzo sull'aspetto fisico;
+ma facendo questo mettono al bando non solo l'umorismo dei bassifondi,
+ma più di metà della sana letteratura del mondo; mettono educate
+musette sul naso di Punch e di Bardolfo, di Stiggins e di
+Cirano di Bergerac.  Di nuovo, le classi colte hanno adottato
+l'orribile e pagana usanza di considerare la [[Death|morte]] come una cosa
+troppo terribile per parlarne, lasciando che rimanga un segreto
+per ciascuno, come una qualche malformazione privata.  I poveri,
+al contrario, fanno un gran chiacchiericcio e una gran mostra
+del lutto; e hanno ragione.  Essi posseggono una [[Truth|verità]] psicologica
+che sta dietro a tutte le usanze funebri dei figli degli uomini.
+Il modo per attenuare il dolore è farne molto.  Il modo per sopportare
+una crisi penosa è insistere fortemente sul fatto che è una crisi;
+permettere a chi non può non sentirsi triste di sentirsi almeno importante.
+In questo i poveri sono semplicemente i sacerdoti della civiltà universale;
+e nei loro banchetti soffocanti e nel loro solenne cicaleccio c'è
+l'odore delle carni arrostite di [[Hamlet|Amleto]] e la [[Dust|polvere]] e l'eco
+dei giochi funebri di Patroclo.
+
+Le cose che i filantropi a stento scusano (o non scusano affatto)
+nella vita delle classi lavoratrici sono semplicemente le cose che
+dobbiamo scusare in tutti i più grandi monumenti dell'uomo.  Può darsi
+che il lavoratore sia grossolano come Shakespeare o loquace come Omero;
+che, se è religioso, parli quasi tanto dell'inferno quanto [[Dante]];
+che, se è mondano, parli quasi tanto del bere quanto Dickens.
+Né il povero è privo di appoggio storico se dà meno peso a quella
+abluzione cerimoniale che [[Christ|Cristo]] respinse, e piuttosto più a quella
+bevuta cerimoniale che [[Christ|Cristo]] espressamente santificò.  La sola
+differenza tra il povero di oggi e i santi e gli eroi della [[history|storia]]
+è quella che, in tutte le classi, separa l'uomo comune che sa
+sentire le cose dal grande uomo che sa esprimerle.  Ciò che egli
+sente non è che l'eredità dell'uomo.  Ora, nessuno si aspetta
+naturalmente che i vetturini e i portatori di carbone possano essere
+istruttori completi dei loro figli, non più di quanto lo siano
+gli squire, i colonnelli e i mercanti di tè per i loro.
+Ci deve essere uno specialista dell'educazione in loco parentis.
+Ma il maestro di Harrow è in loco parentis; il maestro di Hoxton
+è piuttosto contra parentem.  Le vaghe idee politiche dello squire,
+le ancor più vaghe virtù del colonnello, l'[[Soul|anima]] e le aspirazioni
+spirituali di un mercante di tè, vengono, nella pratica reale, trasmesse
+ai figli di queste persone nelle public school inglesi.
+Ma qui desidero porre una domanda molto chiara ed enfatica.
+Può qualcuno al mondo anche solo fingere di indicare un qualche modo
+in cui queste virtù e tradizioni particolari dei poveri siano riprodotte
+nell'[[Education|educazione]] dei poveri?  Non desidero che l'ironia del venditore
+ambulante risuoni nella scuola con la stessa crudezza con cui risuona
+nella bettola; ma vi compare affatto?  Al [[Child|fanciullo]] viene insegnato
+a simpatizzare in qualche misura con l'ammirevole allegria e col gergo
+di suo padre?  Non mi aspetto che la patetica, ardente pietas della madre,
+con i suoi abiti da lutto e le sue carni funebri arrostite, venga
+esattamente imitata nel sistema educativo; ma ha essa una qualche
+influenza sul sistema educativo?  Un qualsiasi maestro elementare
+le concede anche solo un istante di considerazione o di rispetto?
+Non mi aspetto che il maestro odii gli ospedali e i centri della C.O.S.
+tanto quanto il padre dello scolaro; ma li odia affatto?
+Simpatizza minimamente con il punto d'onore del povero contro
+le istituzioni ufficiali?  Non è forse del tutto certo che l'ordinario
+maestro elementare riterrà non solo naturale ma addirittura scrupoloso
+sradicare tutte queste rudi leggende di un popolo laborioso, e per
+principio predicare sapone e Socialismo contro birra e libertà?
+Nelle classi inferiori il maestro non lavora per il genitore,
+ma contro il genitore.  L'[[Education|educazione]] moderna significa tramandare le usanze
+della minoranza e sradicare le usanze della maggioranza.
+Al posto della loro [[Charity|carità]] cristica, della loro risata shakespeariana
+e del loro alto omerico rispetto per i morti, ai poveri vengono imposte
+mere copie pedantesche dei pregiudizi dei ricchi lontani.
+Devono ritenere un bagno una necessità perché per i fortunati esso
+è un lusso; devono roteare clave svedesi perché i loro padroni
+hanno paura dei randelli inglesi; e devono superare il loro pregiudizio
+contro l'essere nutriti dalla parrocchia, perché gli aristocratici non provano
+alcuna vergogna nell'essere nutriti dalla nazione.
+
 
 
 <span class="atom-split" data-atom="chapter_08--part_13" data-title="whats wrong — Part 4 (part 13)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="archetype/child,motif/city,motif/garden,motif/home,motif/soul,motif/time,motif/water,concept/education,concept/truth,concept/unattainable,setting/oxford,character/portia,character/queen"></span>
@@ -12013,6 +16340,121 @@ that if a thing is worth doing, it is worth doing badly.
 
 * * *
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+* * *
+
+XIV
+
+FOLLIA E [[Education|EDUCAZIONE]] FEMMINILE
+
+Lo stesso vale nel caso delle ragazze. Mi si chiede spesso, con
+solennità, cosa io pensi delle nuove idee sull'[[Education|educazione]] femminile.
+Ma non esistono nuove idee sull'[[Education|educazione]] femminile.
+Non c'è, non c'è mai stata, neppure la traccia di una nuova idea.
+Tutto ciò che i riformatori dell'educazione fecero fu chiedersi cosa si stesse facendo ai
+maschi, e poi andare a farlo alle femmine; proprio come si chiesero cosa si
+insegnasse ai giovani signorotti e poi lo insegnarono ai giovani spazzacamini.
+Ciò che essi chiamano nuove idee sono idee vecchissime nel posto sbagliato.
+I maschi giocano a calcio, perché non dovrebbero giocare a calcio le femmine;
+i maschi hanno i colori della scuola, perché non dovrebbero avere i colori della scuola le femmine;
+i maschi vanno a centinaia nelle scuole diurne, perché non dovrebbero andare
+a centinaia nelle scuole diurne le femmine; i maschi vanno a [[Oxford]], perché non dovrebbero
+andare a [[Oxford]] le femmine—in breve, ai maschi cresce il baffo, perché non dovrebbe
+crescere il baffo alle femmine—questa è più o meno la loro nozione di nuova idea.
+Non c'è alcun lavoro di cervello nella cosa; nessuna domanda radicale
+su cosa sia il sesso, se esso alteri questo o quello, e perché,
+non più di quanto vi sia una presa immaginativa sull'umorismo
+e sul cuore del popolo nell'[[Education|educazione]] popolare.
+Non c'è nulla se non pesante, elaborata, elefantiaca [[Imitation|imitazione]].
+E proprio come nel caso dell'insegnamento elementare, i casi sono
+di una fredda e sconsiderata inopportunità. Persino un selvaggio potrebbe vedere
+che le cose corporee, almeno, che fanno bene a un uomo assai probabilmente
+faranno male a una donna. Eppure non c'è gioco da maschi, per quanto brutale,
+che questi miti lunatici non abbiano promosso tra le femmine.
+Per prendere un caso più forte, danno alle ragazze compiti a [[Home|casa]] pesantissimi;
+senza mai riflettere che tutte le ragazze hanno già compiti a [[Home|casa]] nelle
+loro case. È tutto parte della stessa sciocca soggezione;
+ci deve essere un duro colletto inamidato attorno al collo di una donna,
+perché è già una seccatura attorno al collo di un uomo.
+Eppure un servo sassone, se portasse quel colletto di cartone,
+chiederebbe il suo colletto d'ottone.
+
+A ciò si risponderà, non senza un sogghigno: "E cosa preferireste?
+Tornereste all'elegante donna del primo periodo vittoriano,
+coi boccoli e il flaconcino di sali, che si dilettava un po' con gli acquerelli,
+si azzardava un po' con l'italiano, suonava un po' l'arpa,
+scriveva in album di cattivo gusto e dipingeva su insensati paraventi?
+Preferite questo?" Al che rispondo: "Con enfasi, sì."
+Lo preferisco decisamente alla nuova [[Education|educazione]] femminile, per questa ragione:
+che in esso posso vedere un disegno intellettuale, mentre non ve n'è
+alcuno nell'altra. Non sono affatto sicuro che, anche sul piano
+dei fatti pratici, quell'elegante donna non sarebbe stata
+più che all'altezza della maggior parte delle donne ineleganti.
+Immagino che Jane Austen fosse più forte, più acuta e più scaltra di
+Charlotte Bronte; sono del tutto certo che fosse più forte, più acuta e
+più scaltra di George Eliot. Sapeva fare una cosa che nessuna delle
+due sapeva fare: sapeva descrivere un uomo con freddezza e buon senso.
+Non sono sicuro che la vecchia gran dama che sapeva solo farfugliare
+l'italiano non fosse più vigorosa della nuova gran dama che sa
+solo balbettare l'americano; né sono certo che le duchesse d'un tempo,
+che ebbero scarso successo quando dipinsero
+l'Abbazia di Melrose, fossero tanto più deboli di mente delle moderne
+duchesse che dipingono solo il proprio volto, e sono cattive persino in quello.
+Ma non è questo il punto. Qual era la teoria, qual era l'idea,
+nei loro vecchi, deboli [[Water|acquerelli]] e nel loro malfermo italiano? L'idea
+era la stessa che, in un rango più rozzo, si esprimeva nei [[Home|vini]] fatti in casa
+e nelle ricette ereditarie; e che ancora, in mille
+modi inaspettati, si può trovare aggrappata alle donne dei poveri.
+Era l'idea che ho sostenuto nella seconda parte di questo libro:
+che il mondo deve conservare un grande dilettante, per timore che tutti diventiamo
+artisti e periamo. Qualcuno deve rinunciare a tutte le conquiste specialistiche,
+affinché possa conquistare tutti i conquistatori. Affinché possa essere una [[Queen|regina]]
+della vita, non deve esserne un soldato semplice. Non penso
+che l'elegante donna col suo cattivo italiano fosse un prodotto perfetto,
+non più di quanto pensi che la donna dei bassifondi che parla di gin e funerali
+sia un prodotto perfetto; ahimè! pochi sono i prodotti perfetti.
+Ma esse provengono da un'idea comprensibile; e la nuova donna proviene
+dal nulla e da nessun luogo. È giusto avere un ideale, è
+giusto avere l'ideale giusto, e queste due hanno l'ideale giusto.
+La madre dei bassifondi coi suoi funerali è la figlia degenerata
+di Antigone, l'ostinata sacerdotessa degli dèi domestici.
+La dama che parlava cattivo italiano era la decaduta cugina di decimo grado di [[Portia]],
+la grande e aurea dama italiana, la dilettante di vita del Rinascimento,
+che poteva essere un avvocato perché poteva essere qualsiasi cosa.
+Sommersi e trascurati nel mare della monotonia e dell'[[Imitation|imitazione]] moderne,
+i tipi si aggrappano saldamente alle loro verità originarie. Antigone, brutta,
+sudicia e spesso ubriaca, seppellirà comunque suo padre.
+L'elegante donna, insulsa e dileguantesi nel nulla, sente ancora
+debolmente la differenza fondamentale tra sé e suo marito:
+che egli deve essere Qualcosa nella [[City|Città]], affinché ella possa essere ogni cosa
+nella campagna.
+
+Ci fu un [[Time|tempo]] in cui tu ed io e tutti noi eravamo assai vicini a Dio;
+tanto che ancora adesso il colore di un ciottolo (o di una vernice), il profumo di un fiore
+(o di un fuoco d'artificio), giungono ai nostri cuori con una sorta di autorità
+e certezza; come se fossero frammenti di un messaggio confuso,
+o lineamenti di un volto dimenticato. Riversare quella infuocata semplicità
+sull'intera vita è l'unico vero scopo dell'[[Education|educazione]];
+e più vicina al [[Child|bambino]] viene la donna—ella comprende.
+Dire cosa ella comprenda è al di là delle mie forze; salvo solo questo, che
+non è una solennità. Piuttosto è una torreggiante leggerezza, un fragoroso
+dilettantismo dell'universo, quale sentivamo quando eravamo piccoli,
+e cantavamo con la stessa prontezza con cui [[Garden|coltivavamo il giardino]], dipingevamo con la stessa prontezza con cui correvamo. Farfugliare
+le lingue degli uomini e degli angeli, dilettarsi nelle terribili scienze,
+giocolare con colonne e piramidi e lanciare in alto i pianeti come palle,
+questa è quell'intima audacia e indifferenza che l'[[Soul|anima]] umana,
+come un prestigiatore che afferra arance, deve mantenere per sempre.
+Questa è quella cosa follemente frivola che chiamiamo [[Sanity|sanità mentale]].
+E l'elegante donna, chinando i suoi boccoli sui suoi [[Water|acquerelli]], lo sapeva
+e vi agiva di conseguenza. Ella giocolava con soli frenetici e fiammeggianti.
+Ella manteneva il coraggioso equilibrio di inferiorità che è
+la più misteriosa delle superiorità e forse la più [[Unattainable|irraggiungibile]].
+Ella manteneva la prima [[Truth|verità]] della donna, la madre universale:
+che se una cosa vale la pena di essere fatta, vale la pena di essere fatta male.
+
+* * *
 
 
 
@@ -12350,6 +16792,126 @@ power of Mr. Bumble.  Apparently, progress means being moved on--
 by the police.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Maurice Maeterlinck è un uomo di genio inconfondibile, e il genio
+porta sempre con sé una lente d'ingrandimento. Nel terribile cristallo
+della sua lente abbiamo veduto le [[Bees|api]] non come un piccolo sciame giallo,
+ma piuttosto in eserciti dorati e gerarchie di guerrieri e di regine.
+L'[[Imagination|immaginazione]] scruta e s'insinua perpetuamente sempre più giù per i viali
+e le prospettive nei cannocchiali della scienza, e ci si figura ogni
+frenetico rovesciamento delle proporzioni; la forbicina che avanza a grandi passi
+per la pianura risonante come un elefante, o la cavalletta che viene
+rombando sopra i nostri tetti come un vasto aeroplano, mentre balza
+dall'Hertfordshire al Surrey. Sembra di entrare in [[A Dream|un sogno]] in un tempio
+di enorme entomologia, la cui architettura si fonda su qualcosa
+di più selvaggio delle braccia o delle spine dorsali; in cui le colonne nervate
+hanno l'aspetto semistrisciante di bruchi fioca­mente mostruosi;
+o la cupola è un ragno stellato appeso orribilmente nel vuoto.
+V'è una delle moderne opere d'ingegneria che dà qualcosa
+di questa innominabile [[Fear|paura]] delle esagerazioni di un mondo sotterraneo;
+ed è la curiosa architettura curva della ferrovia sotterranea,
+comunemente chiamata Twopenny Tube. Quelle arcate tozze,
+prive di ogni linea o pilastro verticale, sembrano scavate come tunnel
+da vermi enormi che non hanno mai imparato a sollevare il capo.
+È il vero palazzo sotterraneo del Serpente, lo spirito
+del mutare di forma e di colore, che è il nemico dell'uomo.
+
+Ma non è soltanto per tali strane suggestioni estetiche
+che scrittori come Maeterlinck ci hanno influenzato in questa materia;
+vi è anche un lato etico della faccenda.
+La conclusione del libro di M. Maeterlinck sulle [[Bees|api]] è un'ammirazione,
+si potrebbe anche dire un'invidia, per la loro spiritualità collettiva;
+per il fatto che esse vivono soltanto per qualcosa che egli chiama
+l'[[Soul|Anima]] dell'Alveare. E questa ammirazione per la [[morality|moralità]] comunitaria
+degli [[Insects|insetti]] è espressa in molti altri scrittori moderni in vari
+ambienti e forme; nella teoria del signor Benjamin Kidd del vivere
+soltanto per l'avvenire evolutivo della nostra razza, e nel grande
+interesse di alcuni socialisti per le formiche, che generalmente preferiscono
+alle [[Bees|api]], suppongo, perché non sono così vivacemente colorate.
+Non ultima fra le cento prove di questa vaga insettolatria
+sono i fiumi di adulazione riversati dai moderni su quell'
+energica nazione dell'Estremo Oriente della quale è stato detto
+che «il patriottismo è la sua unica religione»; ossia, in altre parole,
+che essa vive soltanto per l'[[Soul|Anima]] dell'Alveare. Quando a lunghi intervalli
+di secoli la Cristianità s'indebolisce, si fa morbosa o scettica,
+e la misteriosa Asia comincia a muovere contro di noi le sue fosche popolazioni
+e a riversarle verso occidente come un oscuro movimento di materia,
+in tali casi è stato assai comune paragonare l'invasione
+a una piaga di pidocchi o a incessanti eserciti di locuste.
+Gli eserciti orientali erano davvero simili agli [[Insects|insetti]]; nella loro cieca,
+affaccendata capacità di distruzione, nel loro nero nichilismo di visione personale,
+nella loro odiosa indifferenza verso la vita e l'[[Love|amore]] individuali,
+nella loro vile fede nel puro numero, nel loro pessimistico
+[[Courage|coraggio]] e nel loro patriottismo ateo, i cavalieri e i predoni
+dell'Oriente sono davvero simili a tutti gli esseri striscianti della terra.
+Ma mai prima, io credo, i cristiani avevano chiamato locusta un Turco
+intendendolo come un complimento. Ora per la prima [[Time|volta]] noi adoriamo
+tanto quanto [[Well|temiamo]]; e seguiamo con adorazione quell'enorme forma
+che avanza vasta e vaga fuori dall'Asia, appena discernibile in mezzo
+alle mistiche nubi di creature alate sospese sopra le terre devastate,
+affollando i cieli come tuono e scolorando i cieli
+come pioggia; Belzebù, il Signore delle Mosche.
+
+Nel resistere a questa orribile teoria dell'[[Soul|Anima]] dell'Alveare,
+noi della Cristianità non stiamo per noi stessi, ma per tutta l'umanità;
+per l'idea umana essenziale e distintiva che un uomo buono e
+felice sia un fine in sé, che un'[[Soul|anima]] valga la pena di essere salvata.
+Anzi, per coloro che amano tali fantasie biologiche si potrebbe [[Well|bene]]
+dire che noi stiamo come capi e campioni di tutta una sezione
+della [[Nature|natura]], principi della [[house|casa]] il cui blasone è la spina dorsale,
+sostenendo il latte della madre individuale e il [[Courage|coraggio]]
+del cucciolo errante, rappresentando la patetica cavalleria del cane,
+l'umorismo e la perversità dei gatti, l'affetto del tranquillo [[Horse|cavallo]],
+la [[Loneliness|solitudine]] del [[Lion|leone]]. È più al punto, tuttavia,
+insistere sul fatto che questa mera glorificazione della società com'è
+negli [[Insects|insetti]] sociali è una trasformazione e una dissoluzione insieme
+di uno dei profili che sono stati specialmente i simboli dell'uomo.
+Nella nube e nella confusione delle mosche e delle [[Bees|api]] si fa sempre più fioca
+e più fioca, fino a scomparire del tutto, l'idea della famiglia umana.
+L'alveare è divenuto più grande della [[house|casa]], le [[Bees|api]] stanno distruggendo
+i loro carcerieri; ciò che la locusta ha lasciato, il bruco l'ha divorato;
+e la piccola [[house|casa]] e il [[Garden|giardino]] del nostro amico [[Jones]] sono in cattivo stato.
+
+* * *
+
+II
+
+LA FALLACIA DEL PORTAOMBRELLI
+
+Quando Lord Morley disse che la [[house|Camera]] dei Lord doveva essere o
+riparata o soppressa, usò una frase che ha causato qualche confusione;
+perché potrebbe sembrare che suggerisca che il [[mending|riparare]] e il sopprimere siano cose in qualche modo
+simili. Desidero specialmente insistere sul fatto che il [[mending|riparare]]
+e il sopprimere sono cose opposte. Si ripara una cosa perché la si ama;
+si sopprime una cosa perché non la si ama. Riparare è rafforzare.
+Io, per esempio, non credo nell'oligarchia; perciò non riparerei
+la [[house|Camera]] dei Lord più di quanto riparerei uno schiacciapollici. D'altra parte,
+credo nella famiglia; perciò riparerei la famiglia
+come riparerei una sedia; e non negherò mai per un istante che
+la famiglia moderna sia una sedia che ha bisogno di [[mending|riparazione]]. Ma qui entra
+il punto essenziale riguardo alla massa dei moderni sociologi avanzati.
+Ecco due istituzioni che sono sempre state fondamentali per l'umanità,
+la famiglia e lo stato. Gli anarchici, credo, non credono in nessuna delle due.
+È del tutto ingiusto dire che i socialisti credono nello stato,
+ma non credono nella famiglia; migliaia di socialisti credono
+nella famiglia più di qualsiasi Tory. Ma è vero dire che, mentre
+gli anarchici sopprimerebbero entrambe, i socialisti sono specialmente impegnati a [[mending|riparare]]
+(cioè a rafforzare e rinnovare) lo stato; e non sono
+specialmente impegnati a rafforzare e rinnovare la famiglia.
+Non stanno facendo nulla per definire le funzioni del padre, della madre,
+e del [[Child|figlio]], in quanto tali; non stanno riavvitando di nuovo la [[Machine|macchina]];
+non stanno annerendo di nuovo le linee sbiadite del vecchio disegno.
+Con lo stato fanno questo; ne affilano il macchinario,
+ne anneriscono le nere linee dogmatiche, rendono il puro
+[[government|governo]] in ogni modo più forte e per certi versi più aspro di prima.
+Mentre lasciano la [[Home|casa]] in rovina, restaurano l'alveare,
+specialmente i pungiglioni. Anzi, alcuni progetti di lavoro e di [[Reform|riforma]]
+della Poor Law recentemente avanzati da illustri socialisti, non equivalgono a poco
+più che a porre il maggior numero di persone nel potere dispotico
+del signor Bumble. A quanto pare, progresso significa essere fatti circolare—
+dalla polizia.
+
 
 
 <span class="atom-split" data-atom="chapter_09--part_03" data-title="whats wrong — Part 5 (part 3)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="archetype/child,motif/cross,motif/death,motif/hill,motif/insects,motif/nature,motif/soul,motif/well,concept/nature,concept/reform,concept/truth,histref/french_revolution,setting/court,character/chorus,character/oliver_twist"></span>
@@ -12524,6 +17086,174 @@ the [[French Revolution]].  If we are to preserve the family we must
 revolutionize the nation.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Il punto che mi propongo di sostenere potrebbe forse essere formulato
+così: che i socialisti e la maggior parte dei riformatori sociali
+del loro stampo hanno viva coscienza della linea che separa le cose
+appartenenti allo Stato dalle cose appartenenti al puro caos o alla
+[[Nature|natura]] incoercibile; possono costringere i bambini ad andare
+a scuola prima che sorga il sole, ma non tenteranno di costringere il
+sole a sorgere; non bandiranno il mare, come Canuto, ma soltanto i
+bagnanti. Dentro il perimetro dello Stato, però, le loro linee si
+confondono e le entità si fondono l'una nell'altra. Non hanno alcun
+saldo senso istintivo che una cosa sia per sua [[Nature|natura]]
+privata e un'altra pubblica, che una cosa sia necessariamente vincolata
+e un'altra libera. Ecco perché, pezzo per pezzo e del tutto in silenzio,
+la libertà personale viene sottratta agli inglesi, come la terra
+personale è stata silenziosamente rubata fin dal sedicesimo secolo.
+
+Non so esprimerlo con sufficiente concisione se non in una similitudine
+noncurante. Un socialista è un uomo che ritiene un bastone da passeggio
+simile a un ombrello perché entrambi finiscono nel portaombrelli. Eppure
+sono diversi come un'ascia da battaglia e un cavastivali. L'idea essenziale
+dell'ombrello è ampiezza e protezione. L'idea essenziale del bastone è
+snellezza e, in parte, attacco. Il bastone è la [[Sword|spada]], l'ombrello
+è lo scudo, ma è uno scudo contro un altro e più innominabile nemico:
+l'universo ostile ma anonimo. Più propriamente, dunque, l'ombrello è il
+tetto; è una sorta di [[house|casa]] pieghevole. Ma la differenza vitale
+va assai più a fondo di questo; si dirama in due regni della mente
+dell'uomo, con un abisso a separarli. Il punto infatti è questo: che
+l'ombrello è uno scudo contro un nemico tanto reale da essere una mera
+seccatura; mentre il bastone è una [[Sword|spada]] contro nemici tanto
+interamente immaginari da essere un puro piacere. Il bastone non è
+soltanto una [[Sword|spada]], ma una [[Sword|spada]] da [[Court|corte]];
+è un oggetto di spavalderia puramente cerimoniale. Non si può esprimere
+l'emozione in altro modo se non dicendo che un uomo si sente più uomo
+con un bastone in mano, proprio come si sente più uomo con una
+[[Sword|spada]] al fianco. Ma nessuno ha mai provato sentimenti
+trepidanti per un ombrello; è una comodità, come un raschietto da porta.
+Un ombrello è un male necessario. Un bastone da passeggio è un bene del
+tutto superfluo. Questa, immagino, è la vera spiegazione del perpetuo
+smarrimento degli ombrelli; non si sente mai dire che qualcuno abbia
+perso un bastone da passeggio. Perché un bastone da passeggio è un
+piacere, un pezzo di autentica proprietà personale; se ne sente la
+mancanza anche quando non serve. Quando la mia mano destra dimenticherà
+il suo bastone, dimentichi pure la sua abilità. Ma chiunque può
+dimenticare un ombrello, come chiunque può dimenticare una tettoia
+sotto cui si è riparato dalla pioggia. Chiunque può dimenticare una
+cosa necessaria.
+
+Se mi fosse concesso proseguire la figura retorica, potrei dire in breve
+che l'intero errore collettivista consiste nell'affermare che, poiché
+due uomini possono condividere un ombrello, allora due uomini possono
+condividere un bastone da passeggio. Gli ombrelli potrebbero forse essere
+sostituiti da una sorta di tende comuni che riparino certe strade da
+particolari acquazzoni. Ma non c'è che assurdità nell'idea di brandire
+un bastone comunitario; è come parlare di arricciarsi un baffo comunitario.
+Si dirà che questa è una schietta fantasia e che nessun sociologo propone
+simili follie. Perdonatemi se lo fanno. Darò un parallelo preciso al caso
+della confusione tra bastoni e ombrelli, un parallelo tratto da un
+suggerimento di [[Reform|riforma]] perpetuamente ripetuto. Almeno sessanta
+socialisti su cento, dopo aver parlato di lavanderie comuni, passeranno
+subito a parlare di cucine comuni. Questo è altrettanto meccanico e privo
+d'intelligenza quanto il caso fantasioso che ho citato. Bastoni e ombrelli
+sono entrambi rigide aste che entrano nei fori di un portaoggetti
+nell'ingresso. Cucine e lavatoi sono entrambi grandi stanze piene di
+calore, umidità e vapore. Ma l'[[Soul|anima]] e la funzione delle due cose
+sono del tutto opposte. C'è un solo modo di lavare una camicia; ossia,
+c'è un solo modo giusto. Non c'è gusto né fantasia nelle camicie stracciate.
+Nessuno dice: "Tompkins ama cinque fori nella sua camicia, ma io, devo
+dirlo, dammi i buoni vecchi quattro fori." Nessuno dice: "Questa lavandaia
+mi strappa la gamba sinistra del pigiama; ebbene, se c'è una cosa su cui
+insisto è che si strappi la gamba destra." Il lavaggio ideale è
+semplicemente restituire una cosa lavata. Ma non è affatto vero che la
+cucina ideale sia semplicemente restituire una cosa cotta. Cucinare è
+un'arte; ha in sé personalità, e persino perversità, perché la definizione
+di un'arte è ciò che deve essere personale e può essere perverso. Conosco
+un uomo, per il resto per nulla schizzinoso, che non sa toccare le comuni
+salsicce se non sono quasi carbonizzate. Le vuole fritte fino a ridurle
+in stracci, eppure non pretende che le sue camicie siano bollite fino a
+ridurle in stracci. Non dico che simili punti di raffinatezza culinaria
+siano di grande importanza. Non dico che l'ideale comunitario debba
+cedere loro il passo. Ciò che dico è che l'ideale comunitario non è
+consapevole della loro esistenza, e perciò sbaglia fin dal primo istante,
+mescolando una cosa del tutto pubblica con una altamente individuale.
+Forse dovremmo accettare le cucine comuni nella crisi sociale, proprio
+come dovremmo accettare la carne comune per i gatti durante un assedio.
+Ma il socialista colto, del tutto a suo agio, per nulla in stato d'assedio,
+parla di cucine comuni come se fossero la stessa cosa delle lavanderie
+comuni. Questo mostra fin dall'inizio che egli fraintende la [[Nature|natura]]
+umana. È diverso come tre uomini che cantano lo stesso [[Chorus|coro]]
+da tre uomini che suonano tre melodie sullo stesso pianoforte.
+
+* * *
+
+III
+
+IL TREMENDO DOVERE DI GUDGE
+
+Nella disputa cui si è accennato prima tra l'energico Progressista e
+l'ostinato Conservatore (o, per usare un linguaggio più tenero, tra
+Hudge e Gudge), lo stato di [[Cross|equivoci]] reciproci è in questo
+preciso momento acuto. Il Tory dice di voler preservare la vita familiare
+a Cindertown; il socialista molto ragionevolmente gli fa notare che a
+Cindertown, al momento, non c'è alcuna vita familiare da preservare. Ma
+Hudge, il socialista, a sua volta, è assai vago e misterioso sul fatto se
+preserverebbe la vita familiare qualora ve ne fosse una; o se cercherà
+di ripristinarla là dove è scomparsa. È tutto molto confuso. Il Tory a
+volte parla come se volesse stringere i vincoli domestici che non
+esistono; il socialista come se volesse allentare i vincoli che non
+legano nessuno. La domanda che tutti vorremmo porre a entrambi è la
+domanda ideale originaria: "Volete conservare la famiglia, sì o no?" Se
+Hudge, il socialista, vuole davvero la famiglia, deve essere preparato
+ai freni, alle distinzioni e alle divisioni del lavoro naturali della
+famiglia. Deve farsi forza per sopportare l'idea che la donna abbia una
+preferenza per la [[house|casa]] privata e l'uomo per la [[house|casa]]
+pubblica. Deve riuscire in qualche modo a tollerare l'idea di una donna
+che sia femminile, il che non significa molle e arrendevole, bensì
+pratica, parsimoniosa, piuttosto dura e assai spiritosa. Deve affrontare
+senza un fremito l'idea di un [[Child|bambino]] che sia infantile, cioè
+pieno di energia, ma privo di ogni idea di indipendenza; fondamentalmente
+avido di autorità quanto di informazioni e di caramelle mou. Se un uomo,
+una donna e un [[Child|bambino]] vivranno ancora insieme in nuclei
+domestici liberi e sovrani, queste antiche relazioni riaffioreranno; e
+Hudge dovrà rassegnarvisi. Può evitarlo solo distruggendo la famiglia,
+spingendo entrambi i sessi in alveari e orde asessuati, e allevando tutti
+i bambini come figli dello Stato, come [[Oliver Twist]]. Ma se queste
+severe parole devono essere rivolte a Hudge, neppure Gudge sfuggirà a un
+ammonimento alquanto severo. Perché la semplice [[Truth|verità]] da dire
+piuttosto bruscamente al Tory è questa: che se vuole che la famiglia
+sopravviva, se vuole essere abbastanza forte da resistere alle forze
+laceranti del nostro commercio essenzialmente selvaggio, deve compiere
+sacrifici molto grandi e cercare di uguagliare la proprietà. La
+schiacciante massa del popolo inglese, in questo preciso istante, è
+semplicemente troppo povera per essere domestica. Sono domestici quanto
+riescono a esserlo; sono assai più domestici della classe dirigente; ma
+non possono ottenere quel bene che in origine questa istituzione doveva
+contenere, semplicemente perché non hanno abbastanza denaro. L'uomo
+dovrebbe rappresentare una certa magnanimità, del tutto legittimamente
+espressa nel gettar via il denaro: ma se in date circostanze può farlo
+soltanto gettando via il cibo della settimana, allora non è magnanimo,
+bensì meschino. La donna dovrebbe rappresentare una certa saggezza, [[Well|ben]]
+espressa nel valutare le cose rettamente e nel custodire il denaro con
+buon senso; ma come può custodire il denaro se non c'è denaro da custodire?
+Il [[Child|bambino]] dovrebbe guardare alla madre come a una fonte di
+naturale allegria e poesia; ma come può, se alla fonte, come alle altre
+fontane, non è concesso di zampillare? Che possibilità hanno mai queste
+antiche arti e funzioni in una [[house|casa]] così spaventosamente
+sottosopra; una [[house|casa]] dove la donna è fuori a lavorare e l'uomo
+no; e il [[Child|bambino]] è costretto dalla legge a ritenere le esigenze
+del suo maestro più importanti di quelle della madre? No, Gudge e i suoi
+amici nella [[house|Camera]] dei Lord e al Carlton Club devono decidersi
+su questa faccenda, e molto rapidamente. Se si accontentano di veder
+l'Inghilterra trasformata in un alveare e in un [[Hill|formicaio]],
+decorati qua e là con qualche sbiadita farfalla che gioca a un vecchio
+gioco chiamato domesticità negli intervalli del [[Court|tribunale]] del
+[[divorce|divorzio]], allora abbiano pure il loro impero di
+[[Insects|insetti]]; troveranno un mucchio di socialisti disposti a
+darglielo. Ma se vogliono un'Inghilterra domestica, devono "sganciare",
+come si suol dire, in misura assai maggiore di quanto qualsiasi politico
+radicale abbia finora osato suggerire; devono sopportare oneri molto più
+pesanti del Bilancio e colpi molto più letali delle imposte di
+[[Death|successione]]; perché ciò che va fatto non è né più né meno che
+la distribuzione delle grandi fortune e delle grandi tenute. Ormai
+possiamo evitare il socialismo solo con un mutamento vasto quanto il
+socialismo. Se vogliamo salvare la proprietà, dobbiamo distribuire la
+proprietà, quasi con la stessa severità e ampiezza con cui fece la
+[[French Revolution|Rivoluzione francese]]. Se vogliamo preservare la
+famiglia, dobbiamo rivoluzionare la nazione.
+
 
 
 <span class="atom-split" data-atom="chapter_09--part_04" data-title="whats wrong — Part 5 (part 4)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="motif/flowers,motif/insects,motif/soul,motif/spring,motif/time,motif/well,concept/eternity,concept/freedom,concept/poverty,concept/reform,concept/truth,form/lyric,form/parable,character/jones"></span>
@@ -12654,6 +17384,133 @@ like hair that we can test passing institutions like empires.
 If a [[house]] is so built as to knock a man's head off when he enters it,
 it is built wrong.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+* * *
+
+IV
+
+UN ULTIMO ESEMPIO
+
+E ora, mentre questo libro volge al termine, sussurrerò
+all'orecchio del lettore un sospetto orribile che a volte mi ha
+perseguitato: il sospetto che Hudge e Gudge siano segretamente in
+combutta. Che la lite che mantengono in pubblico sia in gran parte
+una messinscena, e che il modo in cui perpetuamente si fanno il gioco
+a vicenda non sia un'eterna coincidenza. Gudge, il plutocrate, vuole
+un industrialismo anarchico; Hudge, l'idealista, gli fornisce [[Lyric|liriche]]
+lodi dell'anarchia. Gudge vuole operaie donne perché costano meno;
+Hudge chiama il lavoro della donna "[[Freedom|libertà]] di vivere la propria vita".
+Gudge vuole operai fermi e obbedienti, Hudge predica l'astinenza dall'alcol--
+agli operai, non a Gudge--Gudge vuole una popolazione docile e timorosa
+che non prenda mai le armi contro la tirannia; Hudge dimostra con Tolstoj
+che nessuno deve prendere le armi contro alcunché. Gudge è per natura
+un gentiluomo sano e [[Well|ben]]-lavato; Hudge predica con fervore
+la perfezione del bagno di Gudge a gente che non può praticarlo.
+Soprattutto, Gudge governa con un rozzo e crudele sistema di licenziamenti,
+sfruttamenti e fatica di entrambi i sessi, del tutto incompatibile con
+la libera famiglia e che è destinato a distruggerla; perciò Hudge,
+tendendo le braccia verso l'universo con un sorriso profetico, ci dice
+che la famiglia è qualcosa che presto supereremo gloriosamente.
+
+Non so se la combutta di Hudge e Gudge sia consapevole
+o inconsapevole. So soltanto che fra loro due tengono ancora l'uomo comune
+senza tetto. So soltanto che incontro ancora [[Jones]] che cammina per le strade
+nel grigio crepuscolo, guardando tristemente i pali e le barriere e le basse
+lanterne rosse da folletto che ancora custodiscono la [[house|casa]] che non è meno
+sua per il fatto che non vi è mai entrato.
+
+* * *
+
+V
+
+CONCLUSIONE
+
+Qui, si potrebbe dire, il mio libro finisce proprio dove dovrebbe cominciare.
+Ho detto che i forti centri della moderna proprietà inglese
+devono, in fretta o lentamente, essere spezzati, se anche solo l'idea di proprietà
+deve rimanere fra gli inglesi. Ci sono due modi in cui
+lo si potrebbe fare: una fredda amministrazione da parte di funzionari del tutto distaccati,
+che si chiama Collettivismo, oppure una distribuzione personale,
+così da produrre ciò che si chiama Proprietà Contadina. Ritengo
+la seconda soluzione la più bella e più pienamente umana, perché
+rende ogni uomo, come qualcuno rimproverò a qualcun altro di aver detto del Papa,
+una sorta di piccolo dio. Un uomo sulla propria zolla assapora l'[[Eternity|eternità]] o,
+in altre parole, darà dieci minuti di lavoro in più di quanto sia richiesto.
+Ma credo di essere giustificato nel chiudere la porta su questo scorcio
+di argomento, invece di aprirla. Perché questo libro non è concepito
+per dimostrare la tesi a favore della Proprietà Contadina, ma per dimostrare
+la tesi contro i moderni saggi che riducono la [[Reform|riforma]] a una routine.
+L'intero libro è stato un'esortazione divagante ed elaborata
+di un fatto puramente etico. E se per caso dovesse accadere
+che ci siano ancora alcuni che non vedono bene quale sia quel punto,
+concluderò con una semplice [[Parable|parabola]], che non è da meno
+per il fatto di essere anche un fatto reale.
+
+Poco tempo fa certi medici e altre persone autorizzate
+dalla legge moderna a dettare legge ai loro concittadini più malmessi, emisero
+un ordine secondo cui a tutte le bambine dovevano essere tagliati i capelli corti.
+Intendo, naturalmente, tutte le bambine i cui genitori erano poveri.
+Molte abitudini assai malsane sono comuni tra le bambine ricche,
+ma passerà molto tempo prima che qualche medico interferisca con esse con la forza.
+Ora, il motivo di questa particolare interferenza era questo,
+che i poveri sono schiacciati dall'alto dentro bassifondi di squallore
+tanto puzzolenti e soffocanti che alla povera gente non si deve
+permettere di avere capelli, perché nel loro caso ciò deve significare pidocchi
+nei capelli. Perciò i medici propongono di abolire i capelli.
+Non sembra mai venir loro in mente di abolire i pidocchi.
+Eppure si potrebbe fare. Come è comune nella maggior parte delle discussioni moderne,
+la cosa innominabile è il perno dell'intera discussione.
+È ovvio a qualunque cristiano (cioè a qualunque uomo dotato di un'
+[[Soul|anima]] libera) che ogni coercizione applicata alla figlia di un [[cabman|vetturino]] dovrebbe,
+se possibile, essere applicata alla figlia di un Ministro.
+Non chiederò perché i medici non, di fatto,
+applichino la loro regola alla figlia di un Ministro.
+Non lo chiederò, perché lo so. Non lo fanno perché non osano.
+Ma qual è la scusa che addurrebbero, qual è il plausibile
+argomento che userebbero, per tagliare e tosare così i bambini poveri
+e non i ricchi? Il loro argomento sarebbe che la malattia è più
+probabile nei capelli dei poveri che dei ricchi. E perché?
+Perché i bambini poveri sono costretti (contro tutti gli istinti
+delle classi lavoratrici, altamente domestiche) ad ammassarsi in stanze
+anguste sotto un sistema di pubblica istruzione follemente inefficiente;
+e perché in uno su quaranta bambini può esservi contagio.
+E perché? Perché il povero è talmente schiacciato dalle grandi
+rendite dei grandi proprietari terrieri che sua moglie spesso deve
+lavorare [[Well|quanto]] lui. Perciò non ha [[Time|tempo]] di badare
+ai figli, perciò uno su quaranta di essi è sporco.
+Poiché il lavoratore ha queste due persone addosso,
+il proprietario terriero seduto (letteralmente) sul suo stomaco, e il
+maestro seduto (letteralmente) sulla sua testa, il lavoratore deve
+lasciare che i capelli della sua bambina siano dapprima trascurati per [[Poverty|povertà]],
+poi avvelenati dalla promiscuità, e, infine, aboliti
+dall'igiene. Egli, forse, era orgoglioso dei capelli della sua bambina.
+Ma egli non conta.
+
+Su questo semplice principio (o piuttosto precedente) il medico
+sociologo procede allegramente. Quando una crapulona tirannia schiaccia gli uomini
+nel fango, così che i loro stessi capelli sono sporchi, la via scientifica
+è chiara. Sarebbe lungo e faticoso tagliare le teste
+dei tiranni; è più facile tagliare i capelli degli schiavi.
+Allo stesso modo, se mai dovesse accadere che bambini poveri,
+urlanti per il mal di denti, disturbassero qualche maestro o qualche
+signore artistico, sarebbe facile strappare tutti i denti dei poveri;
+se le loro unghie fossero disgustosamente sporche, le loro unghie potrebbero
+essere estirpate; se i loro nasi fossero soffiati in modo indecente, i loro nasi
+potrebbero essere tagliati via. L'aspetto dei nostri più umili concittadini
+potrebbe essere semplificato in modo assai notevole prima che avessimo finito con loro.
+Ma tutto questo non è per nulla più folle del bruto fatto che un medico
+possa entrare nella [[house|casa]] di un uomo libero, i cui capelli della figlia
+possono essere puliti come [[Flowers|fiori]] di [[spring|primavera]], e ordinargli di tagliarli.
+Non sembra mai colpire questa gente che la lezione dei pidocchi
+nei bassifondi è l'iniquità dei bassifondi, non l'iniquità dei capelli.
+I capelli sono, a dir poco, una cosa radicata. Il loro nemico
+(come gli altri [[Insects|insetti]] e le armate orientali di cui abbiamo parlato)
+piomba su di noi ma di rado. In [[Truth|verità]], è solo mediante istituzioni eterne
+come i capelli che possiamo mettere alla prova istituzioni passeggere come gli imperi.
+Se una [[house|casa]] è costruita in modo da staccare la testa a un uomo quando vi entra,
+è costruita male.
 
 
 
@@ -12831,3 +17688,178 @@ and that I dislike Socialism because it will (according to Socialists)
 be so like that shop.  It is its fulfilment, not its reversal.
 I do not object to Socialism because it will revolutionize our commerce,
 but because it will leave it so horribly the same.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+La folla non può mai [[Rebel|ribellarsi]] se non è conservatrice, almeno abbastanza
+da aver conservato qualche ragione per ribellarsi.  È il pensiero più
+tremendo in tutta la nostra anarchia, che la maggior parte degli antichi colpi
+vibrati per la [[Freedom|libertà]] non verrebbero oggi affatto vibrati, a causa
+dell'oscuramento di quelle limpide consuetudini popolari da cui essi nacquero.
+L'oltraggio che fece calare il martello di Wat Tyler potrebbe oggi
+esser chiamato una visita medica.  Ciò che Virginio detestò
+e vendicò come turpe [[Slavery|schiavitù]] potrebbe oggi essere lodato come libero [[Love|amore]].
+Il crudele scherno di Foulon, "Che mangino erba," potrebbe oggi
+esser rappresentato come il grido morente di un idealistico [[vegetarian|vegetariano]].
+Quelle grandi forbici della scienza che vorrebbero tagliare i riccioli
+dei poveri scolaretti si serrano incessantemente
+sempre più vicine per recidere tutti gli angoli e le frange
+delle arti e degli onori dei poveri.  Presto torceranno
+i colli per adattarli a colletti puliti, e mozzeranno i piedi per farli entrare in stivali nuovi.
+Non par mai venir loro in mente che il [[Body|corpo]] è più della veste;
+che il Sabato fu fatto per l'uomo; che tutte le istituzioni saranno
+giudicate e condannate a seconda che si siano adattate alla carne
+e allo spirito normali.  È la prova della sanità politica il conservare la testa.
+È la prova della sanità artistica il conservare i propri capelli.
+
+Ora, l'intera [[Parable|parabola]] e lo scopo di queste ultime pagine, e invero di tutte
+queste pagine, è questo:  affermare che dobbiamo immediatamente ricominciare tutto
+daccapo, e cominciare dall'altro capo.  Io comincio dai capelli di una bambina.
+Questo, almeno, so che è una cosa buona.  Qualunque altra cosa sia malvagia,
+l'[[Pride|orgoglio]] di una buona madre per la [[Beauty|bellezza]] della figlia è cosa buona.
+È una di quelle tenerezze adamantine che sono le pietre di paragone
+di ogni epoca e di ogni stirpe.  Se altre cose le si oppongono, altre cose
+devono cadere.  Se proprietari terrieri e leggi e scienze le si oppongono,
+proprietari terrieri e leggi e scienze devono cadere.  Con i capelli rossi di una
+monella nel rigagnolo io darò [[Fire|fuoco]] a tutta la civiltà moderna.
+Poiché una bambina deve avere i capelli lunghi, deve avere i capelli puliti;
+poiché deve avere i capelli puliti, non deve avere una [[Home|casa]] sudicia:
+poiché non deve avere una [[Home|casa]] sudicia, deve avere una madre libera
+e disoccupata; poiché deve avere una madre libera, non deve
+avere un proprietario usuraio; poiché non deve esservi un proprietario
+usuraio, deve esservi una ridistribuzione della proprietà; poiché deve
+esservi una ridistribuzione della proprietà, vi sarà una rivoluzione.
+Quella piccola monella dai capelli rosso-oro, che ho appena osservata
+passare barcollando davanti alla mia [[house|casa]], non sarà potata né azzoppata né alterata;
+i suoi capelli non saranno tagliati corti come quelli di un galeotto; no, tutti i regni
+della terra saranno fatti a pezzi e mutilati per adattarsi a lei.
+Ella è l'immagine umana e sacra; tutt'intorno a lei il tessuto sociale
+oscillerà e si spaccherà e cadrà; le colonne della società saranno scosse,
+e i tetti dei secoli verranno giù rovinando, e non un capello del suo capo
+sarà toccato.
+
+* * *
+
+TRE NOTE
+
+* * *
+
+I
+
+SUL SUFFRAGIO FEMMINILE
+
+Non volendo sovraccaricare questo lungo [[Essay|saggio]] con troppe parentesi,
+al di fuori della sua tesi di progresso e precedente, aggiungo qui tre
+note su punti di dettaglio che potrebbero forse essere fraintesi.
+
+La prima riguarda la controversia femminile.  Potrà sembrare
+a molti che io respinga troppo bruscamente la tesi secondo cui tutte le donne
+dovrebbero avere il voto, anche se la maggior parte delle donne non lo [[Desire|desidera]].
+In questo contesto si dice di continuo che i maschi hanno
+ricevuto il voto (i braccianti agricoli, ad esempio)
+quando solo una minoranza di essi ne era favorevole.  Il signor Galsworthy,
+uno dei pochi begli intelletti battaglieri del nostro [[Time|tempo]], ha parlato
+questo linguaggio nella "Nation."  Ora, in generale, non ho che da
+rispondere qui, come dappertutto in questo libro, che la [[history|storia]] non è una
+discesa in slittino, ma una [[Road|strada]] da riconsiderare e persino da ripercorrere.
+Se davvero abbiamo imposto le Elezioni Generali a braccianti liberi che
+detestavano decisamente le Elezioni Generali, allora fu una cosa profondamente
+antidemocratica da farsi; se siamo democratici dovremmo disfarla.
+Vogliamo la volontà del popolo, non i voti del popolo;
+e dare a un uomo un voto contro la sua volontà significa rendere il votare
+più prezioso della [[Democracy|democrazia]] che esso proclama.
+
+Ma questa analogia è falsa, per una ragione semplice e particolare.
+Molte donne prive del voto considerano il voto come cosa non femminile.
+Nessuno dice che la maggior parte degli uomini privi del voto considerasse il voto come cosa non virile.
+Nessuno dice che alcun uomo privo del voto lo considerasse come cosa non virile.
+Nemmeno nel più quieto [[Hamlet|villaggio]] o nella più stagnante palude potresti
+trovare un villano o un vagabondo che credesse di perdere la propria dignità sessuale
+per il fatto di far parte di una folla politica.  Se non gli importava di un voto,
+era unicamente perché non sapeva nulla di un voto; non
+comprendeva quella parola meglio di quanto comprendesse Bimetallismo.  La sua opposizione,
+se esisteva, era meramente negativa.  La sua indifferenza verso un voto
+era realmente indifferenza.
+
+Ma il sentimento femminile contro il diritto di voto, quale che ne sia l'entità,
+è positivo.  Non è negativo; non è affatto indifferente.
+Quelle donne che si oppongono al mutamento lo considerano (a torto o a ragione)
+come non femminile.  Cioè, come un affronto a certe tradizioni affermative
+a cui esse sono legate.  Puoi ritenere prevenuta una simile veduta;
+ma io nego con veemenza che alcun democratico abbia il diritto di calpestare
+tali pregiudizi, se essi sono popolari e positivi.  Così egli non
+avrebbe il diritto di far votare milioni di musulmani con una [[Cross|croce]]
+se essi avessero un pregiudizio in favore del votare con una mezzaluna.
+A meno che ciò non venga ammesso, la [[Democracy|democrazia]] è una farsa che a stento vale la pena di mantenere.
+Se ciò viene ammesso, le suffragette non hanno soltanto da risvegliare
+una maggioranza indifferente, ma da [[convert|convertire]] una maggioranza ostile.
+
+* * *
+
+II
+
+SULLA PULIZIA NELL'[[Education|EDUCAZIONE]]
+
+Rileggendo la mia protesta, che onestamente credo assai necessaria,
+contro la nostra pagana idolatria della mera abluzione, mi accorgo che essa
+potrebbe forse essere fraintesa.  Mi affretto a dire che ritengo il lavarsi
+una cosa importantissima da insegnare tanto ai ricchi quanto ai poveri.
+Non attacco la posizione positiva, ma quella relativa del sapone.
+Vi si insista pure quanto ora; ma su altre
+cose si insista molto di più.  Sono persino pronto ad ammettere
+che la pulizia viene subito dopo la santità; ma i moderni
+non ammetteranno nemmeno che la santità venga subito dopo la pulizia.
+Nei loro discorsi su [[Thomas Becket]] e simili santi ed eroi
+essi rendono il sapone più importante dell'[[Soul|anima]]; respingono la santità
+ogniqualvolta essa non sia pulizia.  Se ci indigniamo di questo riguardo a remoti
+santi ed eroi, dovremmo indignarcene ancor più riguardo ai molti santi
+ed eroi dei bassifondi, le cui mani sudicie mondano il mondo.
+La sporcizia è male soprattutto come prova di accidia; ma resta il fatto
+che le classi che si lavano di più sono quelle che lavorano di meno.
+Riguardo a costoro, la via pratica è semplice; il sapone dovrebbe
+esser loro raccomandato e reclamizzato per quel che è--un lusso.
+Anche riguardo ai poveri la via pratica non è difficile
+da armonizzare con la nostra tesi.  Se vogliamo dare ai poveri
+il sapone, dobbiamo proporci deliberatamente di dar loro dei lussi.
+Se non vogliamo renderli abbastanza ricchi da esser puliti,
+allora enfaticamente dobbiamo fare ciò che facemmo con i santi.
+Dobbiamo riverirli per il fatto di essere sudici.
+
+* * *
+
+III
+
+SULLA PICCOLA PROPRIETÀ CONTADINA
+
+Non ho trattato alcun dettaglio concernente la proprietà distribuita,
+o la sua possibilità in Inghilterra, per la ragione esposta nel testo.
+Questo libro tratta di ciò che è sbagliato, sbagliato nella radice stessa del
+nostro ragionare e del nostro adoperarci.  Questo sbaglio è, dico, che noi andiamo
+avanti perché non osiamo tornare indietro.  Così il socialista dice
+che la proprietà è già concentrata in Trust e Grandi Magazzini:
+l'unica [[Hope|speranza]] è concentrarla ulteriormente nello Stato.  Io dico
+che l'unica [[Hope|speranza]] è disconcentrarla; cioè, pentirsi e ritornare;
+l'unico passo avanti è il passo indietro.
+
+Ma a proposito di questa distribuzione mi sono esposto a
+un altro possibile equivoco.  Nel parlare di una radicale ridistribuzione,
+parlo di decisione nel fine, non necessariamente di bruschezza
+nei mezzi.  Non è affatto troppo tardi per ristabilire uno stato
+pressoché razionale dei possessi inglesi senza alcuna semplice confisca.
+Una politica di riscatto del possesso fondiario, adottata con costanza in Inghilterra
+come è già stata adottata in Irlanda (notevolmente nell'Atto saggio
+e fecondo del signor Wyndham), in un [[Time|tempo]] assai breve libererebbe l'estremità
+più bassa dell'altalena e farebbe oscillare l'intera asse più in piano.
+L'obiezione a questa via non è affatto che essa non funzionerebbe,
+ma soltanto che non verrà attuata.  Se lasciamo le cose come stanno,
+vi sarà quasi certamente un crollo per confisca.
+Se esitiamo, dovremo presto affrettarci.  Ma se cominciamo a farlo
+in fretta, abbiamo ancora [[Time|tempo]] di farlo con calma.
+
+Questo punto, tuttavia, non è essenziale al mio libro.  Tutto ciò che ho da sostenere
+tra queste due copertine è che detesto il grande emporio Whiteley,
+e che detesto il Socialismo perché esso (a detta dei socialisti)
+sarà tanto simile a quell'emporio.  Ne è il compimento, non il rovesciamento.
+Non mi oppongo al Socialismo perché rivoluzionerà il nostro commercio,
+ma perché lo lascerà così orribilmente identico.
