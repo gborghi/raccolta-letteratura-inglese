@@ -270,7 +270,7 @@ message of [[democracy]]."
 
 <span class="qlang-split" data-lang="it"></span>
 
-I Pali del Telegrafo
+I pali del telegrafo
 
 Il mio amico e io camminavamo in una di quelle distese di pineta che formano mari interni di [[Solitude|solitudine]] in ogni parte dell'Europa occidentale; che hanno il vero terrore di un [[Desert|deserto]], poiché sono uniformi, e perciò vi si può smarrire la via. Rigidi, dritti e simili, si ergevano tutt'intorno a noi i pini del bosco, come le picche di un ammutinamento silenzioso. C'è una [[Truth|verità]] nel parlare della varietà della [[Nature|Natura]]; ma io penso che la [[Nature|Natura]] mostri spesso la sua più grande stranezza nella sua uniformità. C'è un ritmo arcano in questa stessa ripetizione; è come se la terra fosse decisa a ripetere un'unica forma finché la forma non diventi terribile.
 
@@ -278,7 +278,8 @@ Avete mai provato l'esperimento di dire una parola qualunque, come "cane", trent
 
 Può darsi che questo spieghi le ripetizioni della [[Nature|Natura]]; può darsi che sia per questa ragione che vi sono tanti milioni di [[Leaves|foglie]] e di ciottoli. Forse non sono ripetuti affinché diventino familiari. Forse sono ripetuti soltanto nella [[Hope|speranza]] che possano infine diventare non familiari. Forse un uomo non si spaventa al primo gatto che vede, ma balza in aria per la sorpresa al settantanovesimo gatto. Forse deve attraversare migliaia di pini prima di trovare quello che è davvero un pino. Comunque sia, c'è qualcosa di singolarmente emozionante, persino qualcosa di urgente e intollerante, in queste infinite ripetizioni della foresta; c'è il sentore di qualcosa come la [[Madness|follia]] in quella monotonia musicale dei pini.
 
-Dissi qualcosa del genere al mio amico; ed egli rispose con sardonica [[Truth|verità]]: "Ah, aspetta che arriviamo a un palo del telegrafo".
+Dissi qualcosa di simile al mio amico; ed egli rispose con
+sardonica [[Truth|verità]]: "Ah, aspetta di arrivare a un palo del telegrafo."
 
 * * * *
 
@@ -294,7 +295,12 @@ Avevamo iniziato a camminare dalla nostra [[Home|casa]] provvisoria più tardi n
 
 "È dunque tanto un simbolo di [[democracy|democrazia]] quel palo del telegrafo?" domandai. "Immagino che, mentre tre uomini hanno fatto il telegrafo per ricavarne dividendi, un migliaio circa di uomini hanno conservato la foresta per tagliar legna. Ma se il palo del telegrafo è orribile (come ammetto) ciò non è dovuto a una dottrina, bensì piuttosto all'anarchia commerciale. Se qualcuno avesse una dottrina su un palo del telegrafo, esso potrebbe essere intagliato nell'avorio e adorno d'oro. Le cose moderne sono brutte perché gli uomini moderni sono trascurati, non perché sono accurati."
 
-"No", rispose il mio amico con l'occhio all'estremità di uno splendido e disteso tramonto, "c'è qualcosa di intrinsecamente mortifero nell'idea stessa di una dottrina. Una linea diritta è sempre brutta. La [[Beauty|Bellezza]] è sempre storta. Questi pali rigidi a intervalli regolari sono brutti perché stanno portando attraverso il mondo il vero messaggio della [[democracy|democrazia]]."
+"No," rispose il mio amico con l'occhio fisso all'estremità di uno splendido
+e dilagante tramonto, "vi è qualcosa di intrinsecamente mortifero
+nell'idea stessa di una dottrina.  Una linea diritta è sempre brutta.
+La [[Beauty|bellezza]] è sempre storta.  Questi rigidi pali a intervalli regolari
+sono brutti perché stanno recando attraverso il mondo il vero
+messaggio della [[democracy|democrazia]]."
 
 
 
@@ -362,26 +368,26 @@ Vediamo, credo che la nostra via attraverso il bosco sia questa.
 Vieni, malediciamo entrambi il palo del telegrafo per ragioni del tutto
 diverse e torniamo a [[Home|casa]] prima che faccia buio.»
 
-Non tornammo a [[Home|casa]] prima del buio. Per un motivo o per l'altro
-avevamo sottovalutato la rapidità del crepuscolo e l'improvvisa venuta
-della [[Night|notte]], specie nell'inoltrarsi in boschi fitti.
-Quando il mio amico, dopo i primi cinque minuti di cammino, inciampò
-in un tronco, e io, dieci minuti dopo, sprofondai quasi fino alle ginocchia
-nel fango, cominciammo a nutrire qualche sospetto sulla nostra direzione.
-Alla fine il mio amico disse, con voce bassa e roca:
+Non tornammo a [[Home|casa]] prima che facesse buio.  Per una ragione o per l'altra
+avevamo sottostimato la rapidità del crepuscolo e la subitaneità
+della [[Night|notte]], specialmente nell'infilarsi tra fitti boschi.
+Quando il mio amico, dopo i primi cinque minuti di marcia, fu caduto
+su un tronco, e io, dieci minuti dopo, mi fui impantanato quasi fino alle
+ginocchia nel fango, cominciammo ad avere qualche sospetto sulla nostra direzione.
+Alfine il mio amico disse, con voce bassa e roca:
 
-«Temo che abbiamo sbagliato sentiero. È buio pesto.»
+"Temo che siamo sul sentiero sbagliato.  È buio pesto."
 
-«Credevo fossimo andati per la via giusta», dissi, esitante.
+"Credevo che avessimo preso la via giusta," dissi, tentennando.
 
 «[[Well|Beh]]», disse; e poi, dopo una lunga pausa, «non riesco a vedere
 nessun palo del telegrafo. Li ho cercati.»
 
-«Anch'io», dissi. «Sono così dritti.»
+"Anch'io," dissi.  "Sono così diritti."
 
-Brancolammo per circa due ore nel buio, in mezzo alla fitta
-frangia di alberi che parevano [[Dance|danzarci]] intorno in derisione.
-Qua e là, tuttavia, era possibile scorgere il profilo
-di qualcosa di troppo eretto e rigido per essere un pino.
-Guidati da questi, ritrovammo infine a tastoni la via di [[Home|casa]], giungendo in un freddo verde
+Andammo tastoni per circa due ore di tenebra nel folto della
+frangia di alberi che parevano [[Dance|danzare]] intorno a noi in derisione.
+Qua e là, tuttavia, era possibile tracciare il profilo
+di qualcosa appena troppo eretto e rigido per essere un pino.
+Da questi trovammo alfine, a tentoni, la via verso [[Home|casa]], giungendo in un freddo verde
 crepuscolo prima dell'[[Dawn|alba]].

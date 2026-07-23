@@ -421,7 +421,10 @@ Email: martin@gkc.org.uk
 
 «[[Well|Be']], naturalmente, sa,» disse Lady Hypatia con quel sorriso davvero incantevole della padrona di casa aristocratica. «Sa, non può proprio stringere la mano... non ha mani, capisce... La struttura, s'intende...»
 
-Ruppi ogni limite di convenienza e mi precipitai alla porta della stanza che credevo contenesse l'incredibile creatura. La spalancai; la stanza era buia pesta. Ma dinanzi a me giunse un piccolo triste guaito, e dietro a me un [[Double|doppio]] strillo.
+Ruppi ogni limite mondano, e mi precipitai alla porta della
+stanza che credevo contenesse l'incredibile creatura.
+La spalancai; la stanza era buia pesta. Ma dinanzi a me
+giunse un piccolo triste guaito, e alle mie spalle un [[Double|doppio]] strillo.
 
 «Ora l'ha combinata!» gridò il dottor Hagg, affondando la fronte calva tra le mani. «Ha lasciato entrare una corrente d'aria su di lui; ed egli è morto.»
 

@@ -39830,7 +39830,7 @@ CHAPTER XXVIII. Alterations
 
 
 
-<span class="atom-split" data-atom="chapter_12_the_interval_before_the_marria" data-title="Dombey and Son — Chapter 30: The interval before the [[Marriage" data-chapter="The interval before the Marria" data-kind="chapter" data-tags="motif/marriage,form/social_novel"></span>
+<span class="atom-split" data-atom="chapter_12_the_interval_before_the_marria" data-title="Dombey and Son — Chapter 30: The interval before the Marriage" data-chapter="The interval before the Marria" data-kind="chapter" data-tags="motif/marriage,form/social_novel"></span>
 
 
 CHAPTER XXIX. The Opening of the Eyes of Mrs Chick

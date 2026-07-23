@@ -3435,6 +3435,201 @@ And the third stage is perhaps the truest and the most terrible.
 It is that in which the man is trying not to be converted.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Lo stesso vale per tutti gli altri punti d'attacco,
+specialmente quelli antichi.  L'uomo che è giunto tanto
+avanti lungo la [[Road|strada]] si è ormai lasciato alle spalle l'idea
+che il prete lo costringerà ad abbandonare la propria volontà.
+Ma non è irragionevolmente sgomento di fronte alla misura in cui
+gli toccherà usare la propria volontà.  Non ha paura perché,
+dopo aver preso questa droga, sarà d'ora in poi irresponsabile.
+Ha invece moltissima paura perché sarà responsabile.
+Avrà qualcuno di fronte a cui essere responsabile e saprà
+di che cosa è responsabile; due scomode condizioni a cui i suoi
+più fortunati simili al giorno d'oggi sono interamente sfuggiti.
+Vi sono naturalmente molti altri esempi dello stesso principio:
+che c'è in effetti un intervallo di acuto [[Doubt|dubbio]], il quale è,
+a rigor di termini, più [[Fear|paura]] che [[Doubt|dubbio]], poiché in alcuni casi
+almeno (come mostrerò altrove) vi è in realtà
+il minimo [[Doubt|dubbio]] quando vi è la massima [[Fear|paura]].
+
+Ma comunque sia, i dubbi non sono quasi mai di quel tipo suggerito
+dalla comune propaganda anticattolica:  ed è certamente [[Time|tempo]]
+che simili propagandisti si mettano un po' più in contatto
+col problema reale.  Il cattolico ha di rado
+paura del ritratto protestante del cattolicesimo; ma ha
+talvolta paura del ritratto cattolico del cattolicesimo;
+il che può essere una buona ragione per non insistere
+in modo sproporzionato sulle parti difficili o sconcertanti del sistema.
+Per amore del [[convert|convertito]], si dovrebbe pure ricordare che una
+sola parola sciocca dall'interno fa più danno di centomila
+parole sciocche dall'esterno.  Le seconde ha già imparato
+ad aspettarsele, come una cieca grandine o pioggia che batte sull'Arca;
+ma le voci dall'interno, anche le più casuali e accidentali,
+egli è già disposto a considerarle sante o più che umane;
+e sebbene ciò sia ingiusto verso persone che dichiarano soltanto di essere
+esseri umani, è un fatto che i cattolici dovrebbero ricordare.
+C'è più d'un [[convert|convertito]] che ha raggiunto uno stadio in cui nessuna parola
+di alcun protestante o pagano poteva più trattenerlo.
+Solo la parola di un cattolico può tenerlo lontano dal cattolicesimo.
+
+È del tutto falso, per mia esperienza, dire che i gesuiti, o qualunque altro
+prete romano, tormentino e perseguitino la gente per fare proseliti.
+Nessuno ha idea di che cosa parli tutta la vicenda, se non
+sa che, attraverso quei giorni lunghi e oscuri e indecisi, è
+l'uomo che perseguita se stesso.  L'apparente inazione del prete
+può somigliare all'immobilità statuaria del pescatore con la lenza; e un tale
+atteggiamento non è innaturale nelle funzioni di un pescatore di uomini.
+Ma è ben di rado impaziente o prematuro e la persona su cui si agisce
+è abbastanza sola da rendersi conto che non è nulla di puramente
+esterno a tirarle la libertà.  I laici sono probabilmente
+meno saggi; poiché nella maggior parte delle confessioni il laico ecclesiastico è
+più ecclesiastico di quanto convenga alla sua salute, e certamente
+molto più ecclesiastico degli ecclesiastici.  La mia esperienza è
+che il dilettante è in genere assai più adirato del professionista;
+e se esprime la sua irritazione per la lentezza del processo di [[conversion|conversione]],
+o per le incoerenze della condizione intermedia, può fare
+un gran danno, del genere che meno intende fare.
+So nel mio caso che provavo sempre un lieve arretramento
+ogni volta che qualche individuo irresponsabile si intrometteva per spronarmi.
+Vale la pena, per ragioni pratiche, di testimoniare tale esperienza,
+perché essa può guidare il [[convert|convertito]] quando a sua volta comincerà a convertire.
+I nostri nemici non sanno più davvero come attaccare la [[Faith|fede]];
+ma ciò non è una ragione perché noi non dovremmo saperla difendere.
+
+Eppure anche quell'unica banale o incidentale cautela porta
+con sé un richiamo a ciò che si è già notato:
+intendo il fatto che, quali che siano le preoccupazioni del cattolico,
+esse sono il vero contrario degli avvertimenti del protestante.
+Semplicemente come questione di esperienza personale, sono stato indotto a notare
+qui che non è generalmente il prete, ma assai più spesso
+il laico, quello che un po' troppo ostentatamente percorre mare e terra
+per fare un solo proselito.  Tutti i sussurri agghiaccianti e [[Uncanny|inquietanti]] sull'
+orrore di avere il prete in [[Home|casa]], come se fosse una specie
+di vampiro o un [[Monster|mostro]] intrinsecamente diverso dal genere umano,
+svaniscono alla minima esperienza del laico militante.
+Il prete fa il suo mestiere, ma è assai più il suo secolare
+correligionario a essere disposto a spiegarlo e a parlarne.
+Non ho nulla in contrario a che i laici facciano proseliti; poiché non ho mai potuto vedere,
+neppure quando ero praticamente un pagano, perché un uomo non dovrebbe sostenere le
+proprie opinioni se gli piace, e quell'opinione tanto quanto qualunque altra.
+Non è probabile che io mi lamenti dell'energia evangelizzatrice
+del signor Hilaire Belloc o del signor Eric Gill; non fosse che perché
+a essa devo i più intelligenti discorsi della mia giovinezza.
+Ma è quel genere d'uomo che fa proseliti in quel genere di modo;
+e la caricatura convenzionale sbaglia di nuovo quando lo
+rappresenta sempre in tonaca.  Il cattolicesimo non si diffonde per mezzo di
+particolari trucchi professionali o toni o segni segreti o cerimonie.
+Il cattolicesimo si diffonde per mezzo dei cattolici; ma non di certo,
+nella vita privata almeno, per mezzo dei soli preti cattolici.
+Do qui questo semplicemente fra cento esempi, per mostrare ancora
+una volta che l'antica versione tradizionale dei terrori del papismo era
+quasi sempre sbagliata, anche là dove sarebbe magari potuta essere giusta.
+Un uomo può dire, se gli piace, che il cattolicesimo è il nemico;
+e può star affermando, dal suo punto di vista, una profonda
+[[Truth|verità]] spirituale.  Ma se dice che il clericalismo è il nemico,
+non fa che ripetere uno slogan.
+
+È mia esperienza che il [[convert|convertito]] attraversa comunemente tre
+stadi o stati d'animo.  Il primo è quando immagina se stesso
+del tutto distaccato, o persino del tutto indifferente,
+ma nel vecchio senso del termine, come quando il libro di [[Prayer|preghiere]] parla
+di giudici che amministreranno la giustizia in modo vero e indifferente.
+Qualche moderno spirito frivolo converrebbe probabilmente che i nostri giudici
+amministrano la giustizia in modo molto indifferente.  Ma il senso più antico era
+legittimo e persino logico ed è quello che qui si applica.
+La prima fase è quella del giovane filosofo che sente
+di dover essere equo verso la Chiesa di Roma.  Egli desidera renderle
+giustizia; ma soprattutto perché vede che essa subisce ingiustizia.
+Ricordo che, quando ero appena entrato al Daily News, il grande
+organo liberale dei nonconformisti, mi presi la briga
+di stilare un elenco di quindici falsità che scoprii,
+per mia personale conoscenza, in una denuncia di Roma
+da parte dei signori Horton e Hocking.  Notai, per esempio, che era
+un'assurdità dire che i Covenanters combattevano per la libertà
+religiosa quando il Covenant condannava la tolleranza religiosa;
+che era falso dire che la Chiesa chiedeva solo l'ortodossia ed
+era indifferente alla [[morality|moralità]], poiché, se ciò era vero di qualcuno,
+era evidentemente vero dei sostenitori della salvezza per [[Faith|fede]]
+e non della salvezza per opere; che era assurdo dire che
+i cattolici introducevano un orribile sofisma nel dire che un uomo
+potesse talvolta mentire, poiché ogni uomo sano di mente sa che
+direbbe una bugia per salvare un [[Child|bambino]] dai torturatori cinesi; che si perdeva
+tutto il punto, a questo proposito, nel citare la frase di Ward,
+"Convinciti di essere giustificato nel mentire e poi menti
+come un soldataccio," poiché l'argomento di Ward era contro l'equivoco
+o quel che la gente chiama gesuitismo.  Egli intendeva: "Quando il [[Child|bambino]] davvero
+si nasconde nell'armadio e i torturatori cinesi davvero
+lo inseguono con tenaglie arroventate, allora (e allora soltanto)
+sii certo di aver ragione di ingannare e non esitare a mentire;
+ma non abbassarti all'equivoco.  Non darti la pena
+di dire, «Il [[Child|bambino]] è in una [[house|casa]] di legno non lontano da qui,»
+intendendo l'armadio; ma di' che il [[Child|bambino]] è a Chiswick o
+allo zoo di Chimbora, o dovunque tu voglia."  Trovo che presi minuziose
+note di tutti questi argomenti tanto [[Time|tempo]] fa, unicamente per
+il piacere logico di sbrogliare un'ingiustizia intellettuale.
+Non avevo più idea di diventare cattolico di quanta ne avessi di diventare cannibale.
+Immaginavo di limitarmi a far notare che la giustizia dovrebbe
+essere resa persino ai cannibali.  Immaginavo di rilevare
+certe fallacie in parte per il gusto della cosa e in parte
+per un certo senso di lealtà verso la [[Truth|verità]] delle cose.
+Ma di fatto, ripensando a queste note (che non
+pubblicai mai), mi pare di essermi preso un'enorme quantità
+di pena a riguardo, se davvero la consideravo una sciocchezza; e prendersi
+pena non è mai stato certo un mio particolare difetto.
+Mi pare che qualcosa stesse già lavorando inconsciamente
+per tenermi più interessato alle fallacie su questo particolare
+argomento che alle fallacie sul libero scambio o sul suffragio femminile
+o sulla [[house|Camera]] dei Lord.  Comunque sia, quello è il primo stadio nel mio
+caso e credo in molti altri casi:  lo stadio del semplice
+desiderio di proteggere i papisti dalla calunnia e dall'oppressione, non
+(consciamente almeno) perché detengano una qualche particolare [[Truth|verità]],
+ma perché soffrono di un particolare accumulo di falsità.
+Il secondo stadio è quello in cui il [[convert|convertito]] comincia a diventare
+consapevole non solo della falsità ma della [[Truth|verità]] ed è enormemente
+eccitato di scoprire che ce n'è assai più di quanta avrebbe mai
+potuto aspettarsi.  Questo non è tanto uno stadio quanto un progresso;
+e procede abbastanza rapidamente ma spesso per lungo [[Time|tempo]].
+Consiste nello scoprire quale gran numero di idee vivaci
+e interessanti vi sia nella [[philosophy|filosofia]] cattolica,
+che moltissime di esse si raccomandano subito alle
+sue simpatie, e che persino quelle che non accetterebbe
+hanno qualcosa che si può dire in loro favore a giustificarne l'accettazione.
+Questo processo, che si può chiamare lo scoprire la [[Catholic Church|Chiesa cattolica]],
+è forse la parte più piacevole e lineare
+dell'impresa, più facile che entrare nella [[Catholic Church|Chiesa cattolica]]
+e molto più facile che cercare di vivere la vita cattolica.
+È come scoprire un nuovo continente pieno di strani [[Flowers|fiori]]
+e di fantastici [[Animals|animali]], che è a un tempo selvaggio e ospitale.
+Dare qualcosa come un resoconto completo di quel processo significherebbe semplicemente
+discutere a turno una cinquantina di idee e istituzioni cattoliche.
+Potrei osservare che gran parte di esso consiste nell'atto
+della [[Translation|traduzione]]; nello scoprire il vero significato delle parole,
+che la Chiesa usa rettamente e il mondo usa scorrettamente.
+Per esempio, il [[convert|convertito]] scopre che "scandalo" non
+significa "pettegolezzo"; e il peccato di provocarlo non significa che sia
+sempre malvagio far chiacchierare sciocche vecchine.
+Scandalo significa scandalo, ciò che originariamente significava in greco e latino:
+lo sgambetto a qualcun altro mentre cerca di essere buono.
+Oppure scoprirà che espressioni come "consiglio di perfezione"
+o "peccato veniale," che non significano nulla sui giornali,
+significano qualcosa di assai intelligente e interessante nei manuali
+di teologia morale.  Comincia a rendersi conto che è il mondo
+secolare a rovinare il senso delle parole; e coglie un
+eccitante barlume del vero motivo a favore della ferrea [[Immortality|immortalità]]
+della Messa latina.  Non è una questione fra una lingua morta
+e una lingua viva, nel senso di una lingua eterna.
+È una questione fra una lingua morta e una lingua morente;
+una lingua che inevitabilmente degenera.  Sono questi innumerevoli
+barlumi di grandi idee, che sono stati nascosti al
+[[convert|convertito]] dai pregiudizi della sua cultura provinciale,
+a costituire l'avventuroso e vario secondo stadio
+della [[conversion|conversione]].  È, in senso lato, lo stadio
+in cui l'uomo sta inconsciamente cercando di essere convertito.
+E il terzo stadio è forse il più vero e il più terribile.
+È quello in cui l'uomo sta cercando di non essere convertito.
+
 
 
 <span class="atom-split" data-atom="chapter_03_the_real_obstacles--part_03" data-title="The Catholic Church and Conversion — Chapter 3: THE REAL OBSTACLES (part 3)" data-chapter="THE REAL OBSTACLES" data-kind="excerpt" data-tags="archetype/fool,motif/love,motif/nature,motif/poison,motif/road,motif/time,motif/window,concept/conversion,concept/doubt,concept/fear,concept/nature,concept/paradox,concept/suicide,concept/truth,histref/catholic_church,histref/renaissance,character/venus"></span>
@@ -3543,6 +3738,111 @@ If he still has the notion of being trapped, he has no longer any
 notion of being tricked.  He is not afraid of finding the Church out,
 but rather of the Church finding him out.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Egli si è accostato troppo alla [[Truth|verità]], e ha dimenticato che la [[Truth|verità]]
+è una calamita, dotata dei poteri dell'attrazione e della repulsione.
+È invaso da una sorta di [[Fear|timore]], che lo fa sentire come uno [[Fool|sciocco]]
+che ha trattato con degnazione il "papismo" mentre avrebbe dovuto
+destarsi alla realtà di Roma. Scopre un fatto strano e allarmante,
+forse implicito nell'interessante conferenza di Newman su Blanco White
+e sui due modi di attaccare il cattolicesimo. In ogni caso, è una [[Truth|verità]] che
+Newman e ogni altro [[convert|convertito]] ha probabilmente trovato in una forma o nell'altra.
+È impossibile essere giusti verso la [[Catholic Church|Chiesa cattolica]]. Nel momento in cui gli uomini
+smettono di tirare contro di essa, sentono uno strattone verso di essa. Nel momento in cui
+smettono di gridarle contro, cominciano ad ascoltarla con piacere.
+Nel momento in cui cercano di essere equi verso di essa, cominciano ad affezionarvisi.
+Ma quando quell'affetto ha superato un certo punto, comincia ad assumere
+la tragica e minacciosa grandezza di una grande storia d'[[Love|amore]]. L'uomo
+prova esattamente lo stesso senso di essersi impegnato o compromesso;
+di essere stato in un certo senso irretito, anche se è lieto di esserlo.
+Ma per un [[Time|tempo]] considerevole non è tanto lieto quanto semplicemente terrorizzato.
+Può darsi che questa reale esperienza psicologica sia
+stata fraintesa da gente più ottusa e sia responsabile
+di tutto ciò che rimane della leggenda secondo cui Roma è una mera trappola.
+Ma quella leggenda manca completamente il punto della psicologia. Non è
+il Papa che ha teso la trappola né i preti che l'hanno adescata.
+Tutto il punto della posizione è che la trappola è semplicemente la [[Truth|verità]].
+Tutto il punto è che l'uomo stesso si è fatto strada verso
+la trappola della [[Truth|verità]], e non la trappola che ha corso dietro all'uomo.
+Tutti i passi tranne l'ultimo li ha compiuti avidamente di propria iniziativa,
+per interesse verso la [[Truth|verità]]; e persino l'ultimo passo, o l'ultima tappa,
+lo allarma soltanto perché è così tremendamente vera. Se posso riferirmi
+ancora una volta a un'esperienza personale, posso dire che io, per parte mia, non fui mai meno
+turbato dai dubbi che nell'ultima fase, quando ero turbato dai timori.
+Prima di quell'ultimo indugio ero stato distaccato e pronto a considerare ogni
+sorta di dottrine con mente aperta. Da quando quell'indugio si è concluso
+in decisione, ho avuto ogni sorta di mutamenti di semplice umore; e credo
+di simpatizzare con i dubbi e le difficoltà più di quanto facessi prima.
+Ma non avevo dubbi né difficoltà appena prima. Avevo soltanto timori;
+timori di qualcosa che aveva la finalità e la semplicità del [[suicide|suicidio]].
+Ma più cacciavo la cosa in fondo alla mente, più
+certo diventavo di quale Cosa fosse. E per un [[Paradox|paradosso]] che non
+mi spaventa affatto ora, può darsi che non avrò mai più
+un'assicurazione tanto assoluta che la cosa è vera come l'avevo quando
+compii il mio ultimo sforzo per negarla.
+
+C'è un poscritto o punto minore da aggiungere qui
+a questo [[Paradox|paradosso]]; che so che molti fraintenderanno.
+Diventare cattolico allarga la mente. Allarga specialmente
+la mente riguardo alle ragioni per diventare cattolico. Stando
+nel centro dove tutte le strade si incontrano, un uomo può guardare lungo ciascuna delle strade
+a turno e rendersi conto che vengono da tutti i punti dei cieli.
+Finché egli marcia ancora lungo la propria [[Road|strada]], quella è
+l'unica [[Road|strada]] che si possa vedere, o talvolta persino immaginare.
+Per esempio, molti che non sono ancora cattolici si dicono
+medievalisti. Ma un uomo che è soltanto un medievalista viene molto
+allargato diventando cattolico. Io stesso sono un medievalista,
+nel senso che penso che la vita moderna abbia molto da imparare dalla
+vita medievale; che le Corporazioni siano un sistema sociale migliore del Capitalismo;
+che i frati siano assai meno offensivi dei filantropi.
+Ma sono un medievalista molto più ragionevole e moderato
+di quanto fossi quando ero soltanto un medievalista. Per esempio,
+sentivo la necessità di contrapporre perpetuamente l'architettura gotica
+all'architettura greca, perché era necessario sostenere
+i cristiani contro i pagani. Ma ora non sono in tale agitazione e
+so che cosa intendeva Coventry Patmore quando disse pacatamente che
+sarebbe stato altrettanto cattolico decorare la propria mensola del caminetto
+con la [[Venus|Venere]] di Milo quanto con la Vergine. Come medievalista sono
+ancora fierissimo del gotico; ma come cattolico sono fiero
+del barocco. Quell'intensità che sembra quasi angusta
+perché va dritta al punto, come una [[Window|finestra]] medievale,
+è assai rappresentativa di quell'ultima concentrazione che viene
+proprio prima della [[conversion|conversione]]. Nell'ultimissimo momento, il [[convert|convertito]]
+spesso sente come se stesse guardando attraverso la [[Window|finestra]] di un lebbroso.
+Guarda attraverso una piccola fessura o foro storto che sembra
+farsi più piccolo mentre lo fissa; ma è un'apertura che
+guarda verso l'Altare. Solo che, quando è entrato nella Chiesa,
+scopre che la Chiesa è molto più grande dentro di quanto lo sia fuori.
+Si è lasciato alle spalle la sbilenchezza delle finestre
+dei lebbrosi e persino, in un certo senso, la strettezza delle porte gotiche;
+ed è sotto vaste cupole aperte come il [[Renaissance|Rinascimento]] e
+universali come la Repubblica del mondo. Egli può dire in un senso
+ignoto a tutti gli uomini moderni certe parole antiche e serene:
+Romanus civis sum; io non sono uno schiavo.
+
+Il punto per il momento, tuttavia, è che vi è generalmente
+un intervallo di intensa apprensione, per dire il meno,
+prima che si raggiunga questa normale eredità. In una certa misura
+è un [[Fear|timore]] che si lega a tutte le decisioni nette e irrevocabili;
+è suggerito in tutte le vecchie battute sulla malfermezza dello
+sposo alle nozze o sulla recluta che accetta lo scellino
+e si ubriaca in parte per festeggiare, ma in parte anche per dimenticarlo.
+Ma è il [[Fear|timore]] di un sacramento più pieno e di un esercito più possente.
+Egli, per la [[Nature|natura]] stessa del caso, si è lasciato assai indietro la mera
+goffa idea che il sacramento lo [[Poison|avvelenerà]] o che l'esercito lo ucciderà.
+Ha probabilmente superato il punto, anche se in genere lo supera
+in qualche [[Time|momento]], in cui si domanda se l'intera faccenda sia un
+imbroglio straordinariamente intelligente e ingegnoso. Ora non è
+nella condizione che si può chiamare l'ultima fase del vero [[Doubt|dubbio]].
+Intendo quella in cui si domandava se la cosa che tutti
+gli dicevano essere troppo cattiva per essere tollerabile non sia troppo buona per essere vera.
+Anche qui è presente il principio ricorrente; e l'ostacolo è
+l'esatto contrario di quello che la propaganda protestante ha indicato.
+Se egli ha ancora la nozione di essere intrappolato, non ha più alcuna
+nozione di essere ingannato. Non ha paura di scoprire la Chiesa,
+ma piuttosto che la Chiesa scopra lui.
 
 
 

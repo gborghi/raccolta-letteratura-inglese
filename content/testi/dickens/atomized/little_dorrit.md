@@ -36898,7 +36898,7 @@ the vain, fretted and chafed, and made their usual uproar.
 
 
 
-<span class="atom-split" data-atom="chapter_01_poverty_poverty" data-title="Little Dorrit — Book 1: [[Poverty|POVERTY" data-chapter="Poverty POVERTY" data-kind="chapter" data-tags="archetype/child,archetype/lover,archetype/orphan,archetype/shadow,motif/home,concept/poverty,character/mr_merdle,character/mr_pancks"></span>
+<span class="atom-split" data-atom="chapter_01_poverty_poverty" data-title="Little Dorrit — Book 1: POVERTY" data-chapter="Poverty POVERTY" data-kind="chapter" data-tags="archetype/child,archetype/lover,archetype/orphan,archetype/shadow,motif/home,concept/poverty,character/mr_merdle,character/mr_pancks"></span>
 
 
 BOOK THE FIRST: [[Poverty|POVERTY]]
@@ -37057,7 +37057,7 @@ added to that, May we meet again!
 
 
 
-<span class="atom-split" data-atom="chapter_03_sun_and_shadow--part_01" data-title="Little Dorrit — Chapter 1: Sun and [[Shadow (part 1)" data-chapter="Sun and Shadow" data-kind="excerpt" data-tags="archetype/king,archetype/shadow,motif/bells,motif/dust,motif/fire,motif/hill,motif/jewel,motif/leaves,motif/night,motif/prison,motif/river,motif/road,motif/time,motif/water,motif/well,motif/wind,motif/window,character/bottom"></span>
+<span class="atom-split" data-atom="chapter_03_sun_and_shadow--part_01" data-title="Little Dorrit — Chapter 1: Sun and Shadow (part 1)" data-chapter="Sun and Shadow" data-kind="excerpt" data-tags="archetype/king,archetype/shadow,motif/bells,motif/dust,motif/fire,motif/hill,motif/jewel,motif/leaves,motif/night,motif/prison,motif/river,motif/road,motif/time,motif/water,motif/well,motif/wind,motif/window,character/bottom"></span>
 
 
 BOOK THE FIRST: [[Poverty|POVERTY]]
@@ -37173,7 +37173,7 @@ unusually small and plump; would have been unusually white but for the
 
 
 
-<span class="atom-split" data-atom="chapter_03_sun_and_shadow--part_02" data-title="Little Dorrit — Chapter 1: Sun and [[Shadow (part 2)" data-chapter="Sun and Shadow" data-kind="excerpt" data-tags="archetype/child,motif/bells,motif/birds,motif/city,motif/clock,motif/night,motif/prison,motif/rose,motif/sleep,motif/time,motif/well,concept/grotesque,character/rigaud"></span>
+<span class="atom-split" data-atom="chapter_03_sun_and_shadow--part_02" data-title="Little Dorrit — Chapter 1: Sun and Shadow (part 2)" data-chapter="Sun and Shadow" data-kind="excerpt" data-tags="archetype/child,motif/bells,motif/birds,motif/city,motif/clock,motif/night,motif/prison,motif/rose,motif/sleep,motif/time,motif/well,concept/grotesque,character/rigaud"></span>
 
 
 The other man was lying on the stone floor, covered with a coarse brown
@@ -37295,7 +37295,7 @@ an hour after mid-day, to-day.’
 
 
 
-<span class="atom-split" data-atom="chapter_03_sun_and_shadow--part_03" data-title="Little Dorrit — Chapter 1: Sun and [[Shadow (part 3)" data-chapter="Sun and Shadow" data-kind="excerpt" data-tags="archetype/child,archetype/innocent,archetype/king,motif/birds,motif/death,motif/leaves,motif/night,motif/prison,motif/road,motif/time,motif/water,motif/window,concept/honour,concept/imprisonment,character/rigaud"></span>
+<span class="atom-split" data-atom="chapter_03_sun_and_shadow--part_03" data-title="Little Dorrit — Chapter 1: Sun and Shadow (part 3)" data-chapter="Sun and Shadow" data-kind="excerpt" data-tags="archetype/child,archetype/innocent,archetype/king,motif/birds,motif/death,motif/leaves,motif/night,motif/prison,motif/road,motif/time,motif/water,motif/window,concept/honour,concept/imprisonment,character/rigaud"></span>
 
 
 ‘To try me, eh?’ said [[Rigaud]], pausing, knife in hand and morsel in
@@ -37439,7 +37439,7 @@ gentleman?’
 
 
 
-<span class="atom-split" data-atom="chapter_03_sun_and_shadow--part_04" data-title="Little Dorrit — Chapter 1: Sun and [[Shadow (part 4)" data-chapter="Sun and Shadow" data-kind="excerpt" data-tags="motif/blood,motif/cross,motif/soul,motif/well,concept/beauty,concept/hope,concept/pride,character/rigaud"></span>
+<span class="atom-split" data-atom="chapter_03_sun_and_shadow--part_04" data-title="Little Dorrit — Chapter 1: Sun and Shadow (part 4)" data-chapter="Sun and Shadow" data-kind="excerpt" data-tags="motif/blood,motif/cross,motif/soul,motif/well,concept/beauty,concept/hope,concept/pride,character/rigaud"></span>
 
 
 ‘ALTRO!’ returned John Baptist, closing his eyes and giving his head a
@@ -37561,7 +37561,7 @@ seriously.
 
 
 
-<span class="atom-split" data-atom="chapter_03_sun_and_shadow--part_05" data-title="Little Dorrit — Chapter 1: Sun and [[Shadow (part 5)" data-chapter="Sun and Shadow" data-kind="excerpt" data-tags="motif/death,motif/dust,motif/fire,motif/leaves,motif/love,motif/night,motif/prison,motif/silence,motif/sleep,motif/stars,motif/storm,motif/time,motif/well,concept/doubt,concept/freedom,concept/grotesque,concept/history,form/history,character/rigaud"></span>
+<span class="atom-split" data-atom="chapter_03_sun_and_shadow--part_05" data-title="Little Dorrit — Chapter 1: Sun and Shadow (part 5)" data-chapter="Sun and Shadow" data-kind="excerpt" data-tags="motif/death,motif/dust,motif/fire,motif/leaves,motif/love,motif/night,motif/prison,motif/silence,motif/sleep,motif/stars,motif/storm,motif/time,motif/well,concept/doubt,concept/freedom,concept/grotesque,concept/history,form/history,character/rigaud"></span>
 
 
 ‘I am sensitive and brave. I do not advance it as a merit to be
@@ -38341,7 +38341,7 @@ another, move all we restless travellers through the pilgrimage of life.
 
 
 
-<span class="atom-split" data-atom="chapter_05_home--part_01" data-title="Little Dorrit — Chapter 3: [[Home (part 1)" data-chapter="Home" data-kind="excerpt" data-tags="archetype/child,motif/animals,motif/bells,motif/childhood,motif/city,motif/death,motif/flowers,motif/grave,motif/hill,motif/home,motif/leaves,motif/night,motif/river,motif/sleep,motif/time,motif/water,motif/window,concept/despair,concept/history,concept/hope,concept/melancholy,form/history,histref/bible,setting/london,character/arthur_clennam,character/sunday"></span>
+<span class="atom-split" data-atom="chapter_05_home--part_01" data-title="Little Dorrit — Chapter 3: Home (part 1)" data-chapter="Home" data-kind="excerpt" data-tags="archetype/child,motif/animals,motif/bells,motif/childhood,motif/city,motif/death,motif/flowers,motif/grave,motif/hill,motif/home,motif/leaves,motif/night,motif/river,motif/sleep,motif/time,motif/water,motif/window,concept/despair,concept/history,concept/hope,concept/melancholy,form/history,histref/bible,setting/london,character/arthur_clennam,character/sunday"></span>
 
 
 CHAPTER 3. [[Home]]
@@ -38446,7 +38446,7 @@ bed-room?’
 
 
 
-<span class="atom-split" data-atom="chapter_05_home--part_02" data-title="Little Dorrit — Chapter 3: [[Home (part 2)" data-chapter="Home" data-kind="excerpt" data-tags="topos/double,motif/city,motif/home,motif/river,motif/sleep,motif/time,motif/water,motif/well,motif/window,concept/doubt,concept/history,concept/imprisonment,form/history,setting/court,character/arthur,character/arthur_clennam"></span>
+<span class="atom-split" data-atom="chapter_05_home--part_02" data-title="Little Dorrit — Chapter 3: Home (part 2)" data-chapter="Home" data-kind="excerpt" data-tags="topos/double,motif/city,motif/home,motif/river,motif/sleep,motif/time,motif/water,motif/well,motif/window,concept/doubt,concept/history,concept/imprisonment,form/history,setting/court,character/arthur,character/arthur_clennam"></span>
 
 
 ‘Stay!’ said Clennam, rousing himself. ‘I was not thinking of what I
@@ -38559,7 +38559,7 @@ have been propped up in a similar manner.
 
 
 
-<span class="atom-split" data-atom="chapter_05_home--part_03" data-title="Little Dorrit — Chapter 3: [[Home (part 3)" data-chapter="Home" data-kind="excerpt" data-tags="topos/double,motif/childhood,motif/clock,motif/dawn,motif/death,motif/fire,motif/nature,motif/night,motif/pain,motif/seasons,motif/silence,motif/snow,motif/summer,motif/tears,motif/time,motif/well,motif/winter,concept/nature,setting/egypt,setting/london,character/arthur,character/mrs_clennam"></span>
+<span class="atom-split" data-atom="chapter_05_home--part_03" data-title="Little Dorrit — Chapter 3: Home (part 3)" data-chapter="Home" data-kind="excerpt" data-tags="topos/double,motif/childhood,motif/clock,motif/dawn,motif/death,motif/fire,motif/nature,motif/night,motif/pain,motif/seasons,motif/silence,motif/snow,motif/summer,motif/tears,motif/time,motif/well,motif/winter,concept/nature,setting/egypt,setting/london,character/arthur,character/mrs_clennam"></span>
 
 
 ‘How weak am I,’ said [[Arthur Clennam]], when he was gone, ‘that I could
@@ -38685,7 +38685,7 @@ opposing herself to her son’s opinion, was not clearly expressed.
 
 
 
-<span class="atom-split" data-atom="chapter_05_home--part_04" data-title="Little Dorrit — Chapter 3: [[Home (part 4)" data-chapter="Home" data-kind="excerpt" data-tags="archetype/child,archetype/innocent,motif/clock,motif/death,motif/dust,motif/fire,motif/nature,motif/night,motif/sleep,motif/time,motif/well,concept/doubt,concept/fear,concept/nature,character/arthur,character/mrs_clennam"></span>
+<span class="atom-split" data-atom="chapter_05_home--part_04" data-title="Little Dorrit — Chapter 3: Home (part 4)" data-chapter="Home" data-kind="excerpt" data-tags="archetype/child,archetype/innocent,motif/clock,motif/death,motif/dust,motif/fire,motif/nature,motif/night,motif/sleep,motif/time,motif/well,concept/doubt,concept/fear,concept/nature,character/arthur,character/mrs_clennam"></span>
 
 
 ‘After my father’s [[Death|death]] I opened it myself, thinking there might be,
@@ -38813,7 +38813,7 @@ want yet?’
 
 
 
-<span class="atom-split" data-atom="chapter_05_home--part_05" data-title="Little Dorrit — Chapter 3: [[Home (part 5)" data-chapter="Home" data-kind="excerpt" data-tags="motif/fire,motif/love,motif/night,motif/time,motif/well,motif/window,concept/faith,setting/castle,character/arthur,character/mrs_clennam,character/sunday"></span>
+<span class="atom-split" data-atom="chapter_05_home--part_05" data-title="Little Dorrit — Chapter 3: Home (part 5)" data-chapter="Home" data-kind="excerpt" data-tags="motif/fire,motif/love,motif/night,motif/time,motif/well,motif/window,concept/faith,setting/castle,character/arthur,character/mrs_clennam,character/sunday"></span>
 
 
 She had been collecting sheets and blankets from a press, and hastened
@@ -38973,7 +38973,7 @@ all.
 
 
 
-<span class="atom-split" data-atom="chapter_06_mrs_flintwinch_has_a_dream_a_d" data-title="Little Dorrit — Chapter 4: Mrs Flintwinch has [[A Dream|a Dream" data-chapter="Mrs Flintwinch has A Dream a D" data-kind="chapter" data-tags="topos/double,motif/clock,motif/dreams,motif/night,motif/silence,motif/sleep,motif/stars,motif/time,motif/well,motif/window,concept/body,concept/doubt,histref/king_alfred,character/mrs_clennam"></span>
+<span class="atom-split" data-atom="chapter_06_mrs_flintwinch_has_a_dream_a_d" data-title="Little Dorrit — Chapter 4: Mrs Flintwinch has a Dream" data-chapter="Mrs Flintwinch has A Dream a D" data-kind="chapter" data-tags="topos/double,motif/clock,motif/dreams,motif/night,motif/silence,motif/sleep,motif/stars,motif/time,motif/well,motif/window,concept/body,concept/doubt,histref/king_alfred,character/mrs_clennam"></span>
 
 
 CHAPTER 4. Mrs Flintwinch has [[A Dream|a Dream]]
@@ -41862,7 +41862,7 @@ tamely fluttered in, he saw it shut again; and then he came away.
 
 
 
-<span class="atom-split" data-atom="chapter_12_containing_the_whole_science_o--part_01" data-title="Little Dorrit — Chapter 10: Containing the whole Science of [[government|Government (part 1)" data-chapter="Containing the whole Science o" data-kind="excerpt" data-tags="motif/pain,motif/time,motif/wheel,concept/honour,concept/providence,concept/sublime"></span>
+<span class="atom-split" data-atom="chapter_12_containing_the_whole_science_o--part_01" data-title="Little Dorrit — Chapter 10: Containing the whole Science of Government (part 1)" data-chapter="Containing the whole Science o" data-kind="excerpt" data-tags="motif/pain,motif/time,motif/wheel,concept/honour,concept/providence,concept/sublime"></span>
 
 
 CHAPTER 10. Containing the whole Science of [[government|Government]]
@@ -41977,7 +41977,7 @@ immaculate by an accommodating majority.
 
 
 
-<span class="atom-split" data-atom="chapter_12_containing_the_whole_science_o--part_02" data-title="Little Dorrit — Chapter 10: Containing the whole Science of [[government|Government (part 2)" data-chapter="Containing the whole Science o" data-kind="excerpt" data-tags="motif/blood,motif/desire,motif/fire,motif/home,motif/marriage,motif/time,motif/wind,character/arthur,character/arthur_clennam"></span>
+<span class="atom-split" data-atom="chapter_12_containing_the_whole_science_o--part_02" data-title="Little Dorrit — Chapter 10: Containing the whole Science of Government (part 2)" data-chapter="Containing the whole Science o" data-kind="excerpt" data-tags="motif/blood,motif/desire,motif/fire,motif/home,motif/marriage,motif/time,motif/wind,character/arthur,character/arthur_clennam"></span>
 
 
 Such a nursery of statesmen had the Department become in virtue of a
@@ -42101,7 +42101,7 @@ he had conceived; ‘that it’s nothing about Tonnage?’
 
 
 
-<span class="atom-split" data-atom="chapter_12_containing_the_whole_science_o--part_03" data-title="Little Dorrit — Chapter 10: Containing the whole Science of [[government|Government (part 3)" data-chapter="Containing the whole Science o" data-kind="excerpt" data-tags="archetype/artist,motif/blood,motif/home,motif/time,concept/mortality,character/arthur_clennam"></span>
+<span class="atom-split" data-atom="chapter_12_containing_the_whole_science_o--part_03" data-title="Little Dorrit — Chapter 10: Containing the whole Science of Government (part 3)" data-chapter="Containing the whole Science o" data-kind="excerpt" data-tags="archetype/artist,motif/blood,motif/home,motif/time,concept/mortality,character/arthur_clennam"></span>
 
 
 ‘Quite sure.’
@@ -42218,7 +42218,7 @@ lofty expression, I shall feel obliged.’
 
 
 
-<span class="atom-split" data-atom="chapter_12_containing_the_whole_science_o--part_04" data-title="Little Dorrit — Chapter 10: Containing the whole Science of [[government|Government (part 4)" data-chapter="Containing the whole Science o" data-kind="excerpt" data-tags="motif/clock,motif/crown,motif/fire,motif/nature,motif/soul,motif/time,motif/well,concept/body,concept/nature,character/arthur,character/arthur_clennam"></span>
+<span class="atom-split" data-atom="chapter_12_containing_the_whole_science_o--part_04" data-title="Little Dorrit — Chapter 10: Containing the whole Science of Government (part 4)" data-chapter="Containing the whole Science o" data-kind="excerpt" data-tags="motif/clock,motif/crown,motif/fire,motif/nature,motif/soul,motif/time,motif/well,concept/body,concept/nature,character/arthur,character/arthur_clennam"></span>
 
 
 ‘I have found a debtor in the Marshalsea [[Prison]] of the name of Dorrit,
@@ -42349,7 +42349,7 @@ cleaned out.’
 
 
 
-<span class="atom-split" data-atom="chapter_12_containing_the_whole_science_o--part_05" data-title="Little Dorrit — Chapter 10: Containing the whole Science of [[government|Government (part 5)" data-chapter="Containing the whole Science o" data-kind="excerpt" data-tags="topos/double,motif/time,motif/well,character/arthur_clennam"></span>
+<span class="atom-split" data-atom="chapter_12_containing_the_whole_science_o--part_05" data-title="Little Dorrit — Chapter 10: Containing the whole Science of Government (part 5)" data-chapter="Containing the whole Science o" data-kind="excerpt" data-tags="topos/double,motif/time,motif/well,character/arthur_clennam"></span>
 
 
 ‘Mr Wobbler?’ inquired the suitor.
@@ -42488,7 +42488,7 @@ Idol of the Circumlocution Office.
 
 
 
-<span class="atom-split" data-atom="chapter_12_containing_the_whole_science_o--part_06" data-title="Little Dorrit — Chapter 10: Containing the whole Science of [[government|Government (part 6)" data-chapter="Containing the whole Science o" data-kind="excerpt" data-tags="archetype/innocent,motif/time,motif/well,character/arthur,character/arthur_clennam,character/daniel_doyce"></span>
+<span class="atom-split" data-atom="chapter_12_containing_the_whole_science_o--part_06" data-title="Little Dorrit — Chapter 10: Containing the whole Science of Government (part 6)" data-chapter="Containing the whole Science o" data-kind="excerpt" data-tags="archetype/innocent,motif/time,motif/well,character/arthur,character/arthur_clennam,character/daniel_doyce"></span>
 
 
 [[Arthur Clennam]] put his forms in his pocket gloomily enough, and went
@@ -42625,7 +42625,7 @@ to get rid of anyhow; a man to be worn out by all possible means.’
 
 
 
-<span class="atom-split" data-atom="chapter_12_containing_the_whole_science_o--part_07" data-title="Little Dorrit — Chapter 10: Containing the whole Science of [[government|Government (part 7)" data-chapter="Containing the whole Science o" data-kind="excerpt" data-tags="motif/ship,motif/time,concept/doubt,concept/hope,concept/wonder,setting/ship,character/arthur_clennam"></span>
+<span class="atom-split" data-atom="chapter_12_containing_the_whole_science_o--part_07" data-title="Little Dorrit — Chapter 10: Containing the whole Science of Government (part 7)" data-chapter="Containing the whole Science o" data-kind="excerpt" data-tags="motif/ship,motif/time,concept/doubt,concept/hope,concept/wonder,setting/ship,character/arthur_clennam"></span>
 
 
 It was not so difficult to believe, after the morning’s experience, as
@@ -42745,7 +42745,7 @@ not discourage and ill-treat?’
 
 
 
-<span class="atom-split" data-atom="chapter_12_containing_the_whole_science_o--part_08" data-title="Little Dorrit — Chapter 10: Containing the whole Science of [[government|Government (part 8)" data-chapter="Containing the whole Science o" data-kind="excerpt" data-tags="motif/memory,motif/silence,motif/well,concept/body,character/arthur,character/daniel_doyce"></span>
+<span class="atom-split" data-atom="chapter_12_containing_the_whole_science_o--part_08" data-title="Little Dorrit — Chapter 10: Containing the whole Science of Government (part 8)" data-chapter="Containing the whole Science o" data-kind="excerpt" data-tags="motif/memory,motif/silence,motif/well,concept/body,character/arthur,character/daniel_doyce"></span>
 
 
 ‘I cannot say that I ever have.’
@@ -46890,7 +46890,7 @@ As it was, the rain fell heavily, drearily.
 
 
 
-<span class="atom-split" data-atom="chapter_20_little_dorrits_lover--part_01" data-title="Little Dorrit — Chapter 18: Little Dorrit’s [[Lover (part 1)" data-chapter="Little Dorrits Lover" data-kind="excerpt" data-tags="archetype/child,archetype/lover,motif/chalk,motif/love,motif/memory,motif/prison,motif/soul,motif/tears,motif/time,concept/ambition,concept/courage,concept/self,concept/truth,concept/wonder,form/inscription,character/queen,character/sunday"></span>
+<span class="atom-split" data-atom="chapter_20_little_dorrits_lover--part_01" data-title="Little Dorrit — Chapter 18: Little Dorrit’s Lover (part 1)" data-chapter="Little Dorrits Lover" data-kind="excerpt" data-tags="archetype/child,archetype/lover,motif/chalk,motif/love,motif/memory,motif/prison,motif/soul,motif/tears,motif/time,concept/ambition,concept/courage,concept/self,concept/truth,concept/wonder,form/inscription,character/queen,character/sunday"></span>
 
 
 CHAPTER 18. Little Dorrit’s [[Lover]]
@@ -46993,7 +46993,7 @@ returned excited to the tobacco shop, and flown at the customers.
 
 
 
-<span class="atom-split" data-atom="chapter_20_little_dorrits_lover--part_02" data-title="Little Dorrit — Chapter 18: Little Dorrit’s [[Lover (part 2)" data-chapter="Little Dorrits Lover" data-kind="excerpt" data-tags="archetype/lover,motif/home,motif/soul,motif/time,motif/well,motif/wind,concept/hope,setting/court,character/sunday"></span>
+<span class="atom-split" data-atom="chapter_20_little_dorrits_lover--part_02" data-title="Little Dorrit — Chapter 18: Little Dorrit’s Lover (part 2)" data-chapter="Little Dorrits Lover" data-kind="excerpt" data-tags="archetype/lover,motif/home,motif/soul,motif/time,motif/well,motif/wind,concept/hope,setting/court,character/sunday"></span>
 
 
 In this affair, as in every other, Little Dorrit herself was the last
@@ -47102,7 +47102,7 @@ round and round upon his left-hand, like a slowly twirling mouse-cage;
 
 
 
-<span class="atom-split" data-atom="chapter_20_little_dorrits_lover--part_03" data-title="Little Dorrit — Chapter 18: Little Dorrit’s [[Lover (part 3)" data-chapter="Little Dorrits Lover" data-kind="excerpt" data-tags="archetype/lover,motif/city,motif/pain,motif/time,motif/water,motif/well,motif/window,concept/friendship,concept/hope,concept/imagination,concept/self"></span>
+<span class="atom-split" data-atom="chapter_20_little_dorrits_lover--part_03" data-title="Little Dorrit — Chapter 18: Little Dorrit’s Lover (part 3)" data-chapter="Little Dorrits Lover" data-kind="excerpt" data-tags="archetype/lover,motif/city,motif/pain,motif/time,motif/water,motif/well,motif/window,concept/friendship,concept/hope,concept/imagination,concept/self"></span>
 
 
 ‘Yes, John, yes; very [[Well|well]]. She is out.’
@@ -47225,7 +47225,7 @@ happy.’
 
 
 
-<span class="atom-split" data-atom="chapter_20_little_dorrits_lover--part_04" data-title="Little Dorrit — Chapter 18: Little Dorrit’s [[Lover (part 4)" data-chapter="Little Dorrits Lover" data-kind="excerpt" data-tags="archetype/child,archetype/lover,archetype/shadow,motif/home,motif/pain,motif/prison,motif/tears,concept/fear,concept/hope,concept/truth,form/inscription,character/speed"></span>
+<span class="atom-split" data-atom="chapter_20_little_dorrits_lover--part_04" data-title="Little Dorrit — Chapter 18: Little Dorrit’s Lover (part 4)" data-chapter="Little Dorrits Lover" data-kind="excerpt" data-tags="archetype/child,archetype/lover,archetype/shadow,motif/home,motif/pain,motif/prison,motif/tears,concept/fear,concept/hope,concept/truth,form/inscription,character/speed"></span>
 
 
 There really was a genuineness in the poor fellow, and a contrast
@@ -56729,7 +56729,7 @@ softly, opened and closed the door without a sound, and passed from the
 
 
 
-<span class="atom-split" data-atom="chapter_38_the_marshalsea_becomes_an_orph--part_01" data-title="Little Dorrit — Chapter 36: The Marshalsea becomes an [[Orphan (part 1)" data-chapter="The Marshalsea becomes an Orph" data-kind="excerpt" data-tags="motif/horse,motif/prison,motif/time,motif/well,concept/doubt,concept/honour,setting/court,character/arthur_clennam"></span>
+<span class="atom-split" data-atom="chapter_38_the_marshalsea_becomes_an_orph--part_01" data-title="Little Dorrit — Chapter 36: The Marshalsea becomes an Orphan (part 1)" data-chapter="The Marshalsea becomes an Orph" data-kind="excerpt" data-tags="motif/horse,motif/prison,motif/time,motif/well,concept/doubt,concept/honour,setting/court,character/arthur_clennam"></span>
 
 
 CHAPTER 36. The Marshalsea becomes an [[Orphan]]
@@ -56835,7 +56835,7 @@ happiness of all those whom he was about to leave behind.
 
 
 
-<span class="atom-split" data-atom="chapter_38_the_marshalsea_becomes_an_orph--part_02" data-title="Little Dorrit — Chapter 36: The Marshalsea becomes an [[Orphan (part 2)" data-chapter="The Marshalsea becomes an Orph" data-kind="excerpt" data-tags="motif/birds,motif/clock,motif/nature,motif/noon,motif/prison,motif/time,motif/well,concept/history,concept/imprisonment,concept/nature,concept/poverty,form/history,setting/court,character/sunday"></span>
+<span class="atom-split" data-atom="chapter_38_the_marshalsea_becomes_an_orph--part_02" data-title="Little Dorrit — Chapter 36: The Marshalsea becomes an Orphan (part 2)" data-chapter="The Marshalsea becomes an Orph" data-kind="excerpt" data-tags="motif/birds,motif/clock,motif/nature,motif/noon,motif/prison,motif/time,motif/well,concept/history,concept/imprisonment,concept/nature,concept/poverty,form/history,setting/court,character/sunday"></span>
 
 
 He did not in person dine at this public repast (it took place at two in
@@ -56984,7 +56984,7 @@ passed.
 
 
 
-<span class="atom-split" data-atom="chapter_38_the_marshalsea_becomes_an_orph--part_03" data-title="Little Dorrit — Chapter 36: The Marshalsea becomes an [[Orphan (part 3)" data-chapter="The Marshalsea becomes an Orph" data-kind="excerpt" data-tags="archetype/child,motif/love,motif/prison,motif/tears,motif/time"></span>
+<span class="atom-split" data-atom="chapter_38_the_marshalsea_becomes_an_orph--part_03" data-title="Little Dorrit — Chapter 36: The Marshalsea becomes an Orphan (part 3)" data-chapter="The Marshalsea becomes an Orph" data-kind="excerpt" data-tags="archetype/child,motif/love,motif/prison,motif/tears,motif/time"></span>
 
 
 Through these spectators the little procession, headed by the two
@@ -58035,7 +58035,7 @@ falling on his [[house]]-top.
 
 
 
-<span class="atom-split" data-atom="chapter_41_on_the_road--part_01" data-title="Little Dorrit — Chapter 3: On the [[Road (part 1)" data-chapter="On the Road" data-kind="excerpt" data-tags="archetype/child,motif/bells,motif/fire,motif/frost,motif/journey,motif/leaves,motif/night,motif/snow,motif/soul,motif/time,motif/water,motif/well,concept/body,concept/truth,setting/mountains,setting/paris"></span>
+<span class="atom-split" data-atom="chapter_41_on_the_road--part_01" data-title="Little Dorrit — Chapter 3: On the Road (part 1)" data-chapter="On the Road" data-kind="excerpt" data-tags="archetype/child,motif/bells,motif/fire,motif/frost,motif/journey,motif/leaves,motif/night,motif/snow,motif/soul,motif/time,motif/water,motif/well,concept/body,concept/truth,setting/mountains,setting/paris"></span>
 
 
 CHAPTER 3. On the [[Road]]
@@ -58167,7 +58167,7 @@ could have conducted himself as he did.’
 
 
 
-<span class="atom-split" data-atom="chapter_41_on_the_road--part_02" data-title="Little Dorrit — Chapter 3: On the [[Road (part 2)" data-chapter="On the Road" data-kind="excerpt" data-tags="motif/fire,motif/grave,motif/night,motif/prison,motif/rose,motif/snow,motif/time,motif/water,motif/well,concept/doubt,concept/history,concept/wonder,form/history"></span>
+<span class="atom-split" data-atom="chapter_41_on_the_road--part_02" data-title="Little Dorrit — Chapter 3: On the Road (part 2)" data-chapter="On the Road" data-kind="excerpt" data-tags="motif/fire,motif/grave,motif/night,motif/prison,motif/rose,motif/snow,motif/time,motif/water,motif/well,concept/doubt,concept/history,concept/wonder,form/history"></span>
 
 
 ‘And see,’ said Miss Fanny, ‘see what is involved in this! Can we ever
@@ -58285,7 +58285,7 @@ him.
 
 
 
-<span class="atom-split" data-atom="chapter_41_on_the_road--part_03" data-title="Little Dorrit — Chapter 3: On the [[Road (part 3)" data-chapter="On the Road" data-kind="excerpt" data-tags="archetype/shadow,motif/death,motif/desire,motif/dust,motif/journey,motif/nature,motif/road,motif/well,concept/body,concept/freedom,concept/greatness,concept/nature,setting/paris,character/amy_dorrit"></span>
+<span class="atom-split" data-atom="chapter_41_on_the_road--part_03" data-title="Little Dorrit — Chapter 3: On the Road (part 3)" data-chapter="On the Road" data-kind="excerpt" data-tags="archetype/shadow,motif/death,motif/desire,motif/dust,motif/journey,motif/nature,motif/road,motif/well,concept/body,concept/freedom,concept/greatness,concept/nature,setting/paris,character/amy_dorrit"></span>
 
 
 More treacherous than [[Snow|snow]], perhaps, colder at heart, and harder to
@@ -58388,7 +58388,7 @@ gentlemen?’
 
 
 
-<span class="atom-split" data-atom="chapter_41_on_the_road--part_04" data-title="Little Dorrit — Chapter 3: On the [[Road (part 4)" data-chapter="On the Road" data-kind="excerpt" data-tags="motif/silence,motif/soul,motif/time,motif/well,motif/wheel,concept/honour,concept/hope,character/edmund"></span>
+<span class="atom-split" data-atom="chapter_41_on_the_road--part_04" data-title="Little Dorrit — Chapter 3: On the Road (part 4)" data-chapter="On the Road" data-kind="excerpt" data-tags="motif/silence,motif/soul,motif/time,motif/well,motif/wheel,concept/honour,concept/hope,character/edmund"></span>
 
 
 Alas! The host called all the universe to witness that Monseigneur was
@@ -58510,7 +58510,7 @@ lady from head to foot.
 
 
 
-<span class="atom-split" data-atom="chapter_41_on_the_road--part_05" data-title="Little Dorrit — Chapter 3: On the [[Road (part 5)" data-chapter="On the Road" data-kind="excerpt" data-tags="motif/horse,motif/journey,motif/leaves,motif/prison,motif/road,motif/well,motif/wheel,motif/window,concept/honour,concept/imprisonment,concept/inner_life,concept/pride,setting/italy,setting/mountains,character/amy_dorrit,character/edmund,character/monks"></span>
+<span class="atom-split" data-atom="chapter_41_on_the_road--part_05" data-title="Little Dorrit — Chapter 3: On the Road (part 5)" data-chapter="On the Road" data-kind="excerpt" data-tags="motif/horse,motif/journey,motif/leaves,motif/prison,motif/road,motif/well,motif/wheel,motif/window,concept/honour,concept/imprisonment,concept/inner_life,concept/pride,setting/italy,setting/mountains,character/amy_dorrit,character/edmund,character/monks"></span>
 
 
 The lady, recovering herself quickly--for it was Mrs Merdle and she was
@@ -58630,7 +58630,7 @@ narrow unsavoury streets, and jerked out at the town gate.
 
 
 
-<span class="atom-split" data-atom="chapter_41_on_the_road--part_06" data-title="Little Dorrit — Chapter 3: On the [[Road (part 6)" data-chapter="On the Road" data-kind="excerpt" data-tags="motif/bells,motif/city,motif/dust,motif/home,motif/night,motif/prison,motif/stars,motif/time,motif/water,motif/well,motif/window,concept/hope,concept/poverty,setting/venice"></span>
+<span class="atom-split" data-atom="chapter_41_on_the_road--part_06" data-title="Little Dorrit — Chapter 3: On the Road (part 6)" data-chapter="On the Road" data-kind="excerpt" data-tags="motif/bells,motif/city,motif/dust,motif/home,motif/night,motif/prison,motif/stars,motif/time,motif/water,motif/well,motif/window,concept/hope,concept/poverty,setting/venice"></span>
 
 
 Among the day’s unrealities would be roads where the bright red vines

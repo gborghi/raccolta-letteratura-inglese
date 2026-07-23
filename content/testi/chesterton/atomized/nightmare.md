@@ -318,20 +318,20 @@ but she shall not ride on me.
 <span class="qlang-split" data-lang="it"></span>
 
 Questa è, immagino, la vera dottrina in materia di Racconti
-del Terrore e cose simili: dottrina che, se un uomo di lettere non crede [[Well|bene]]
-e davvero, senza [[Doubt|dubbio]] finirà col farsi saltare le cervella
-o con lo scrivere male.  L'uomo, pilastro centrale del mondo,
-deve stare eretto e diritto; intorno a lui tutti gli alberi e le bestie
-e gli elementi e i diavoli possono torcersi e arricciarsi come fumo, se vogliono.
-Tutta la letteratura davvero fantasiosa non è che il contrasto tra
-le curve bizzarre della [[Nature|Natura]] e la rettitudine dell'[[Soul|anima]].
-L'uomo può contemplare quanta bruttezza vuole, se è certo che non
-l'adorerà; ma ve ne sono alcuni così deboli da adorare
-una cosa solo perché è brutta.  Costoro vanno incatenati
-al bello.  Non è sempre sbagliato spingersi, come [[Dante]],
-sull'orlo del più basso promontorio e guardare giù nell'inferno.
-È quando si guarda in alto verso l'inferno che, probabilmente,
-si è commesso un grave errore di calcolo.
+del Terrore e simili cose, la quale, se un uomo di lettere non crede [[Well|bene]]
+e veramente, senza [[Doubt|dubbio]] finirà per farsi saltare le cervella
+o per scrivere male.  L'uomo, il pilastro centrale del mondo,
+deve essere eretto e diritto; intorno a lui tutti gli alberi e le bestie
+e gli elementi e i diavoli possono incurvarsi e attorcigliarsi come fumo se vogliono.
+Tutta la letteratura davvero immaginosa non è che il contrasto tra
+le bizzarre curve della [[Nature|Natura]] e la rettitudine dell'[[Soul|anima]].
+L'uomo può contemplare quanta bruttezza voglia se è sicuro che non
+la venererà; ma vi sono alcuni così deboli che venereranno
+una cosa solo perché è brutta.  Costoro devono essere incatenati
+al bello.  Non è sempre male anche andare, come [[Dante]],
+sull'orlo del più basso promontorio e guardare giù verso l'inferno.
+È quando guardi in su verso l'inferno che, probabilmente, è stato
+commesso un grave errore di calcolo.
 
 * * * *
 

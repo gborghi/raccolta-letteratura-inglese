@@ -3860,7 +3860,7 @@ observed, God bless Us, Every One!
 
 
 
-<span class="atom-split" data-atom="chapter_01_marley_s_ghost_ghost--part_01" data-title="A Christmas Carol — Stave 1: MARLEY'S [[Ghost|GHOST (part 1)" data-chapter="MARLEY S Ghost GHOST" data-kind="excerpt" data-tags="archetype/ghost,motif/city,motif/clock,motif/fire,motif/frost,motif/nature,motif/night,motif/snow,motif/time,motif/wind,concept/doubt,concept/imagination,concept/nature,concept/self,setting/court,character/hamlet"></span>
+<span class="atom-split" data-atom="chapter_01_marley_s_ghost_ghost--part_01" data-title="A Christmas Carol — Stave 1: MARLEY'S GHOST (part 1)" data-chapter="MARLEY S Ghost GHOST" data-kind="excerpt" data-tags="archetype/ghost,motif/city,motif/clock,motif/fire,motif/frost,motif/nature,motif/night,motif/snow,motif/time,motif/wind,concept/doubt,concept/imagination,concept/nature,concept/self,setting/court,character/hamlet"></span>
 
 
 STAVE I:  MARLEY'S [[Ghost|GHOST]]
@@ -4000,7 +4000,7 @@ eyes sparkled, and his breath smoked again.
 
 
 
-<span class="atom-split" data-atom="chapter_01_marley_s_ghost_ghost--part_02" data-title="A Christmas Carol — Stave 1: MARLEY'S [[Ghost|GHOST (part 2)" data-chapter="MARLEY S Ghost GHOST" data-kind="excerpt" data-tags="archetype/ghost,motif/fire,motif/grave,motif/love,motif/night,motif/time,motif/well,concept/body,concept/doubt,concept/union,concept/wonder"></span>
+<span class="atom-split" data-atom="chapter_01_marley_s_ghost_ghost--part_02" data-title="A Christmas Carol — Stave 1: MARLEY'S GHOST (part 2)" data-chapter="MARLEY S Ghost GHOST" data-kind="excerpt" data-tags="archetype/ghost,motif/fire,motif/grave,motif/love,motif/night,motif/time,motif/well,concept/body,concept/doubt,concept/union,concept/wonder"></span>
 
 
 "Christmas a humbug, uncle!" said Scrooge's
@@ -4188,7 +4188,7 @@ for?"
 
 
 
-<span class="atom-split" data-atom="chapter_01_marley_s_ghost_ghost--part_03" data-title="A Christmas Carol — Stave 1: MARLEY'S [[Ghost|GHOST (part 3)" data-chapter="MARLEY S Ghost GHOST" data-kind="excerpt" data-tags="archetype/ghost,motif/city,motif/crown,motif/fire,motif/frost,motif/home,motif/night,motif/water,motif/window,concept/honour,concept/melancholy,concept/solitude,setting/court,setting/london,character/lord_mayor"></span>
+<span class="atom-split" data-atom="chapter_01_marley_s_ghost_ghost--part_03" data-title="A Christmas Carol — Stave 1: MARLEY'S GHOST (part 3)" data-chapter="MARLEY S Ghost GHOST" data-kind="excerpt" data-tags="archetype/ghost,motif/city,motif/crown,motif/fire,motif/frost,motif/home,motif/night,motif/water,motif/window,concept/honour,concept/melancholy,concept/solitude,setting/court,setting/london,character/lord_mayor"></span>
 
 
 "Nothing!" Scrooge replied.
@@ -4347,7 +4347,7 @@ process of change--not a knocker, but Marley's face.
 
 
 
-<span class="atom-split" data-atom="chapter_01_marley_s_ghost_ghost--part_04" data-title="A Christmas Carol — Stave 1: MARLEY'S [[Ghost|GHOST (part 4)" data-chapter="MARLEY S Ghost GHOST" data-kind="excerpt" data-tags="topos/double,archetype/ghost,archetype/prophet,motif/blood,motif/chains,motif/desire,motif/fire,motif/ghosts,motif/night,motif/well,concept/body"></span>
+<span class="atom-split" data-atom="chapter_01_marley_s_ghost_ghost--part_04" data-title="A Christmas Carol — Stave 1: MARLEY'S GHOST (part 4)" data-chapter="MARLEY S Ghost GHOST" data-kind="excerpt" data-tags="topos/double,archetype/ghost,archetype/prophet,motif/blood,motif/chains,motif/desire,motif/fire,motif/ghosts,motif/night,motif/well,concept/body"></span>
 
 
 Marley's face. It was not in impenetrable [[Shadow|shadow]]
@@ -4496,7 +4496,7 @@ the two buttons on his coat behind.
 
 
 
-<span class="atom-split" data-atom="chapter_01_marley_s_ghost_ghost--part_05" data-title="A Christmas Carol — Stave 1: MARLEY'S [[Ghost|GHOST (part 5)" data-chapter="MARLEY S Ghost GHOST" data-kind="excerpt" data-tags="archetype/ghost,motif/death,motif/grave,motif/silence,motif/swallow,motif/time,motif/well,concept/doubt,concept/humility,concept/mercy,concept/truth,form/fragment,character/ebenezer_scrooge,character/jacob_marley,character/phantom"></span>
+<span class="atom-split" data-atom="chapter_01_marley_s_ghost_ghost--part_05" data-title="A Christmas Carol — Stave 1: MARLEY'S GHOST (part 5)" data-chapter="MARLEY S Ghost GHOST" data-kind="excerpt" data-tags="archetype/ghost,motif/death,motif/grave,motif/silence,motif/swallow,motif/time,motif/well,concept/doubt,concept/humility,concept/mercy,concept/truth,form/fragment,character/ebenezer_scrooge,character/jacob_marley,character/phantom"></span>
 
 
 Scrooge had often heard it said that Marley had no
@@ -4676,7 +4676,7 @@ all the [[Time|time]]!"
 
 
 
-<span class="atom-split" data-atom="chapter_01_marley_s_ghost_ghost--part_06" data-title="A Christmas Carol — Stave 1: MARLEY'S [[Ghost|GHOST (part 6)" data-chapter="MARLEY S Ghost GHOST" data-kind="excerpt" data-tags="topos/double,archetype/ghost,motif/chains,motif/home,motif/night,motif/silence,motif/supernatural,motif/time,motif/water,motif/wind,motif/window,concept/charity,concept/eternity,concept/fear,concept/hope,concept/mercy,concept/self,form/dirge,character/phantom"></span>
+<span class="atom-split" data-atom="chapter_01_marley_s_ghost_ghost--part_06" data-title="A Christmas Carol — Stave 1: MARLEY'S GHOST (part 6)" data-chapter="MARLEY S Ghost GHOST" data-kind="excerpt" data-tags="topos/double,archetype/ghost,motif/chains,motif/home,motif/night,motif/silence,motif/supernatural,motif/time,motif/water,motif/wind,motif/window,concept/charity,concept/eternity,concept/fear,concept/hope,concept/mercy,concept/self,form/dirge,character/phantom"></span>
 
 
 "The whole [[Time|time]]," said the [[Ghost]]. "No rest, no

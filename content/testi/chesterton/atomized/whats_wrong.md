@@ -14317,6 +14317,107 @@ be so simple to teach an ideal manhood to others if it is so vain
 and hopeless to find one for ourselves?
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Avendo letto innumerevoli articoli di giornale sull'[[Education|educazione]],
+e avendone scritti anche parecchi io stesso, e avendo ascoltato discussioni assordanti
+e indefinite che mi circondavano quasi fin dalla mia nascita,
+sul fatto se la religione facesse parte dell'[[Education|educazione]],
+se l'igiene fosse un elemento essenziale dell'[[Education|educazione]],
+se il militarismo fosse incompatibile con una vera [[Education|educazione]],
+ho naturalmente riflettuto molto su questo sostantivo ricorrente,
+e mi vergogno di dire che è stato relativamente tardi nella vita
+che ho visto il fatto principale al riguardo.
+
+Naturalmente, il fatto principale riguardo all'[[Education|educazione]] è che non esiste.
+Non esiste come esistono la teologia o l'essere soldati.
+La teologia è una parola come geologia, essere soldati è una parola
+come saldare; queste scienze possono essere sane o meno come hobby;
+ma si occupano di pietre e pentole, di cose definite.
+Ma [[Education|educazione]] non è una parola come geologia o pentole.
+[[Education|Educazione]] è una parola come "trasmissione" o "eredità"; non
+è un oggetto, ma un metodo.  Deve significare la trasmissione
+di certi fatti, punti di vista o qualità, all'ultimo bambino nato.
+Potrebbero essere i fatti più banali o i punti di vista più assurdi
+o le qualità più offensive; ma se vengono tramandati
+da una generazione all'altra sono [[Education|educazione]].
+[[Education|Educazione]] non è una cosa come la teologia, non è una cosa inferiore
+o superiore; non è una cosa nella stessa categoria di termini.
+La teologia e l'[[Education|educazione]] sono tra loro come una [[Love|lettera d'amore]]
+all'ufficio postale generale.  Il signor [[Fagin]] era altrettanto educativo
+del Dr. Strong; nella pratica probabilmente più educativo.
+È dare qualcosa--forse il [[Poison|veleno]].  L'[[Education|educazione]] è tradizione,
+e la tradizione (come implica il suo nome) può essere tradimento.
+
+Questa prima [[Truth|verità]] è francamente banale; ma viene così perpetuamente ignorata nelle nostre prosopopee politiche che bisogna renderla chiara.
+Un bambino in una piccola [[house|casa]], figlio di un piccolo commerciante, impara a fare colazione, a prendere le medicine, ad [[Love|amare]] la sua patria, a dire le preghiere e a indossare i vestiti della [[Sunday|domenica]].
+Ovviamente [[Fagin]], se trovasse un bambino del genere, gli insegnerebbe a bere gin, a mentire, a tradire la patria, a bestemmiare e ad indossare baffi finti.
+Ma anche il signor Salt, il [[vegetarian|vegetariano]], abolirebbe la colazione del bambino; la signora Eddy getterebbe via le sue medicine; il conte Tolstoi lo rimprovererebbe per aver amato la patria; il signor Blatchford gli impedirebbe di pregare, e il signor Edward Carpenter denuncierebbe teoricamente i vestiti della [[Sunday|domenica]], e forse tutti i vestiti.  Non difendo nessuna di queste vedute avanzate,
+nemmeno quelle di [[Fagin]]. Ma chiedo che cosa, tra loro, sia diventato
+dell'ente astratto chiamato [[Education|educazione]].  Non è (come comunemente si suppone)
+che il commerciante insegna l'[[Education|educazione]] più il [[Christianity|cristianesimo]]; il signor Salt,
+l'[[Education|educazione]] più il vegetarianismo; [[Fagin]], l'[[Education|educazione]] più il crimine.  La [[Truth|verità]] è
+che non c'è niente in comune tra questi insegnanti,
+salvo che insegnano.  In breve, l'unica cosa che condividono è l'unica
+cosa che professano di non gradire:  l'idea generale dell'autorità.
+È curioso che la gente parli di separare il dogma dall'[[Education|educazione]].
+Il dogma è in realtà l'unica cosa che non può essere separata dall'[[Education|educazione]].
+È [[Education|educazione]].  Un insegnante che non sia dogmatico è semplicemente un insegnante
+che non sta insegnando.
+
+* * *
+
+V
+
+Un grido malvagio
+
+L'errore di moda è che con l'[[Education|educazione]] possiamo dare alle persone qualcosa che noi non abbiamo.
+Ascoltando la gente parlare si direbbe che sia una specie di [[Magic|magia]] chimica, per cui,
+da un laborioso miscuglio di pasti igienici, bagni, esercizi respiratori, aria fresca
+e disegno libero, possiamo produrre qualcosa di splendido per caso;
+possiamo creare ciò che non siamo in grado di concepire.  Queste pagine hanno, naturalmente,
+nessun altro scopo generale se non quello di sottolineare che non possiamo creare
+nulla di buono finché non l'abbiamo concepito. È strano che queste persone,
+che nella questione dell'ereditarietà sono così cupamente attaccate alla legge,
+nella questione dell'ambiente sembrino quasi credere nel miracolo.
+Insistono sul fatto che nulla di ciò che non era nei corpi dei genitori
+può contribuire a formare i corpi dei figli.  Ma sembra in qualche modo
+che pensino che nelle menti dei figli possano entrare cose che non erano
+nelle menti dei genitori, o addirittura da nessun'altra parte.
+
+È sorto in questo contesto un grido sciocco e malvagio,
+tipico della confusione. Intendo il grido: "Salviamo i bambini".
+È, naturalmente, parte di quella morbosa modernità che
+insiste nel trattare lo Stato (che è la [[Home|casa]] dell'uomo)
+come una sorta di disperata soluzione in [[Time|tempo]] di panico.
+Questo opportunismo terrorizzato è anche l'origine degli schemi socialisti
+e di altri. Proprio come raccoglierebbero e condividerebbero
+tutto il cibo, come fanno gli uomini durante una carestia,
+così vorrebbero separare i bambini dai loro padri, come si fa in un naufragio.
+Che una comunità umana potrebbe non trovarsi in condizioni
+di carestia o di naufragio sembra non [[Cross|venire]] mai in mente a questi uomini.
+Questo grido "Salviamo i bambini" contiene l'odiosa
+implicazione che sia impossibile salvare i padri;
+in altre parole, che milioni e milioni di europei adulti, sani,
+responsabili e [[Self|autonomi]] debbano essere trattati
+come spazzatura o detriti e spazzati via dalla discussione;
+chiamati alcolisti perché bevono nei pub invece che nelle case private;
+chiamati inoccupabili perché nessuno sa come dargli lavoro;
+chiamati ottusi se ancora aderiscono alle convenzioni,
+e chiamati fannulloni se ancora [[Love|amano]] la libertà.
+Ora io sono preoccupato, prima e dopo tutto, di sostenere che a meno che non
+si possa salvare i padri, non si può salvare i bambini; che attualmente
+non possiamo salvare gli altri, perché non possiamo salvarci noi stessi.
+Non possiamo insegnare la cittadinanza se non siamo cittadini;
+non possiamo liberare gli altri se abbiamo dimenticato il desiderio di [[Freedom|libertà]].
+[[Education|Educazione]] è solo [[Truth|verità]] in uno stato di trasmissione; e come possiamo
+trasmettere la [[Truth|verità]] se non ci è mai giunta tra le mani?  Così scopriamo che
+l'[[Education|educazione]] è, tra tutti i casi, il più chiaro per il nostro scopo generale.
+È vano salvare i bambini; perché non possono rimanere bambini.
+Per ipotesi stiamo insegnando loro a diventare uomini; e come può
+essere così semplice insegnare un'idealità di virilità agli altri se è così vano
+e disperato trovarla per noi stessi?
+
 
 
 <span class="atom-split" data-atom="chapter_08--part_04" data-title="whats wrong — Part 4 (part 4)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="archetype/artist,archetype/child,motif/decay,motif/love,motif/nature,motif/secrets,motif/soul,concept/democracy,concept/education,concept/fear,concept/freedom,concept/nature,concept/truth"></span>
@@ -15140,6 +15241,60 @@ out of all this awful and aching battle of blinding lights,
 without one [[Shadow|shadow]] to give shape to them, it must manage somehow
 to trace and to track a star.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Supponiamo ora di confrontare queste gigantesche banalità sui cartelloni pubblicitari con quei piccoli e terribili dipinti nei quali i medievali registrarono i loro [[Dreams|sogni]]; piccoli dipinti in cui il cielo azzurro è appena più lungo di un solo zaffiro, e le fiamme del giudizio non sono che una minuscola macchia d'oro.
+La differenza qui non sta semplicemente nel fatto che l'arte dei manifesti per sua [[Nature|natura]] sia più affrettata dell'arte miniaturistica; né è neppure solo il fatto che l'antico [[artist|artista]] servisse il Signore mentre l'[[artist|artista]] moderno serve i signori. È che l'antico [[artist|artista]] riusciva a trasmettere un'impressione che i colori fossero davvero cose significative e preziose, come gioielli e pietre talismaniche.
+Il colore era spesso arbitrario; ma era sempre autorevole.
+Se un uccello era blu, se un albero era dorato, se un pesce era argenteo, se una nuvola era scarlatta, l'[[artist|artista]] riusciva a trasmettere che questi colori erano importanti e quasi dolorosamente intensi; tutto il rosso incandescente e tutto l'oro provato nel [[Fire|fuoco]].
+Ora, questo è lo spirito riguardo al colore che le scuole devono recuperare e proteggere se vogliono davvero dare ai bambini un qualche appetito immaginativo o piacere per la cosa.
+Non si tratta tanto di indulgere nel colore; è piuttosto, se mai, una sorta di parsimonia ardente. Delimitava un campo verde nell'araldica con altrettanta precisione come un campo verde nella proprietà contadina.
+Non avrebbe sprecato foglia d'oro più che moneta d'oro; non avrebbe versato porpora o cremisi in modo sconsiderato, più di quanto avrebbe rovesciato buon vino o sparso [[Blood|sangue]] innocente.
+Questa è la difficile impresa davanti agli educatori in questa materia specifica: devono insegnare alle persone ad apprezzare i colori come liquori.
+Hanno il compito arduo di trasformare gli ubriaconi in assaggiatori di vino.
+Se anche il ventesimo secolo riuscirà a fare queste cose, quasi raggiungerà il dodicesimo.
+
+Il principio si estende, tuttavia, a tutta la vita moderna.
+Morris e i semplici medievalisti estetici indicavano sempre
+che una folla nell'[[Time|epoca]] di Chaucer sarebbe stata vestita in modo vivace
+e scintillante, rispetto a una folla nell'[[Time|epoca]] della
+[[Queen|Regina]] Vittoria. Non sono così sicuro che la vera distinzione
+sia qui. Ci sarebbero state tonache marroni di frati nella prima
+scena, come [[Well|pure]] cappelli marroni da impiegato nella seconda.
+Ci sarebbero stati piumaggi viola delle operaie della fabbrica nella seconda
+scena, come [[Well|pure]] paramenti viola quaresimali nella prima.
+Ci sarebbero state giubbe bianche contro ermellino bianco; catene d'oro degli orologi
+contro leoni dorati. La vera differenza è questa:
+il marrone terroso del mantello del monaco fu scelto istintivamente
+per esprimere lavoro e [[Humility|umiltà]], mentre il colore marrone
+del cappello dell'impiegato non fu scelto per esprimere nulla.
+Il monaco intendeva dire che si vestiva di [[Dust|polvere]].
+Sono sicuro che l'impiegato non intende dire che si incorona
+con l'argilla. Non sta mettendo la [[Dust|polvere]] sulla sua testa,
+come unico diadema dell'uomo. Il viola, allo stesso tempo ricco e cupo,
+suggerisce davvero un trionfo temporaneamente eclissato da una [[Tragedy|tragedia]].
+Ma l'operaia della fabbrica non intende che il suo cappello esprima un trionfo
+temporaneamente eclissato da una [[Tragedy|tragedia]]; tutt'altro. L'ermellino bianco
+doveva esprimere purezza morale; le giubbe bianche no.
+I leoni dorati suggeriscono davvero una magnanimità infuocata; le catene d'oro degli orologi non lo fanno.
+Il punto non è che abbiamo perso i colori materiali, ma che abbiamo
+perso la capacità di sfruttarli al meglio.
+Non siamo come bambini che hanno perso il loro scatolone dei colori e
+sono rimasti [[Alone|soli]] con una matita grigia. Siamo come bambini
+che hanno mescolato tutti i colori dello scatolone insieme
+e hanno perso le istruzioni per l'uso. Anche allora (non nego)
+si ha un po' di divertimento.
+
+Ora questa abbondanza di colori e perdita di uno schema cromatico è una piuttosto perfetta [[Parable|parabola]] di tutto ciò che non va nei nostri ideali moderni, e specialmente nella nostra moderna [[Education|educazione]]. È la stessa cosa con l'[[Education|educazione]] etica, l'[[Education|educazione]] economica, ogni tipo di [[Education|educazione]]. Il crescente [[London|bambino]] di [[Child|Londra]] non troverà mancanza di insegnanti altamente controversi che gli insegneranno che la geografia significa dipingere la mappa di rosso; che l'economia significa tassare lo straniero, che il patriottismo significa l'abitudine peculiare e non inglese di sventolare una [[Flag|bandiera]] nel Giorno dell'Impero. Nel menzionare questi esempi in modo particolare non intendo implicare che non ci siano crudeltà simili e fallacie popolari anche dall'altra parte politica. Li menziono perché costituiscono una caratteristica molto speciale e sorprendente della situazione. Intendo dire che c'erano sempre rivoluzionari radicali; ma ora ci sono anche rivoluzionari conservatori. Il moderno conservatore non conserva più. È dichiaratamente un innovatore. Così tutte le attuali difese della [[house|Camera]] dei Lord che la descrivono come un baluardo contro la folla, sono intellettualmente finite; il [[Bottom|fondo]] è caduto; perché su cinque o sei degli argomenti più turbolenti del giorno, la [[house|Camera]] dei Lord è essa stessa una folla; e molto probabile che si comporti come tale.
+
+* * *
+
+IX
+
+LA NECESSITÀ DELLA STREZZA
+
+Attraverso tutto questo caos, torniamo ancora una volta alla nostra conclusione principale. Il vero compito della cultura oggi non è un compito di espansione, ma decisamente di selezione - e rifiuto. L'educatore deve trovare un credo e insegnarlo. Anche se non fosse un credo teologico, dovrebbe comunque essere altrettanto esigente e saldo come la teologia. In breve, deve essere ortodosso. L'insegnante può pensare che sia antiquato dover decidere precisamente tra la [[Faith|fede]] di Calvino e quella di Laud, la [[Faith|fede]] di [[aquinas|Aquinate]] e quella di Swedenborg; ma deve comunque scegliere tra la [[Faith|fede]] di Kipling e quella di [[Shaw]], tra il mondo di Blatchford e quello del Generale Booth. Chiamatela, se volete, una questione ristretta se il vostro [[Child|figlio]] debba essere educato dal vicario o dal ministro o dal prete cattolico. Dovete comunque affrontare quella questione più ampia, più liberale, più altamente civilizzata, di se dovrà essere educato da Harmsworth o da Pearson, dal signor Eustace Miles con la sua Vita Semplice o dal signor Peter Keary con la sua Vita Intensa; se dovrà leggere con maggiore entusiasmo Miss Annie S. Swan o il signor Bart Kennedy; in breve, se dovrà finire nella mera violenza del S.D.F., o nella mera volgarità della Primrose League. Dicono che oggigiorno i credi stiano crollando; io [[Doubt|ne dubito]], ma almeno le sette sono in aumento; e l'[[Education|educazione]] deve ora essere un'[[Education|educazione]] settaria, semplicemente per scopi pratici. Da tutta questa folla di teorie deve in qualche modo selezionare una teoria; da tutte queste voci tonanti deve riuscire a sentire una voce; da tutta questa terribile e dolorosa battaglia di luci accecanti, senza un'[[Shadow|ombra]] che dia loro forma, deve in qualche modo riuscire a tracciare e seguire una stella.
 
 
 
