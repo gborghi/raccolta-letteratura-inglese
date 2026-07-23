@@ -11,6 +11,7 @@ import matter from "gray-matter"
 import { fileURLToPath } from "node:url"
 import { execSync } from "node:child_process"
 import zlib from "node:zlib"
+import { classifyUnit } from "./preprocess-classify.mjs"
 
 // ---- per-work readability (prose only) ----------------------------------------
 const POETRY_FORMS = new Set(["ballad","narrative_poem","lyric","sonnet","shakespearean_sonnet","petrarchan_sonnet","ode","pindaric_ode","elegy","epic","mock_epic","free_verse","blank_verse","heroic_couplet","hexameter_verse","conversation_poem","comic_verse_song","dirge","hymn","litany","inscription","ottava_rima","rhyme_royal","spenserian_stanza","terza_rima","verse_epistle","poem_sequence","riddle","epigram","fragment","dramatic_monologue"])
@@ -524,17 +525,8 @@ function plainForSearch(md) {
     .trim()
 }
 
-// Classify a unit relative path (under an author dir) -> { unitType, order }.
-function classifyUnit(relParts, fileName) {
-  const f = fileName.replace(/\.md$/, "")
-  let m
-  if ((m = f.match(/^part_(\d+)$/i))) return { unitType: "excerpt", order: parseInt(m[1], 10) }
-  if ((m = f.match(/^Chapter_(\d+)/i))) return { unitType: "chapter", order: parseInt(m[1], 10) }
-  if ((m = f.match(/^Story_(\d+)/i))) return { unitType: "story", order: parseInt(m[1], 10) }
-  if ((m = f.match(/^Section_(\d+)/i))) return { unitType: "section", order: parseInt(m[1], 10) }
-  if ((m = f.match(/^Scene_(\d+)/i))) return { unitType: "scene", order: parseInt(m[1], 10) }
-  return { unitType: "work", order: 0 }
-}
+// classifyUnit now lives in ./preprocess-classify.mjs (imported above) so it can be
+// unit-tested without triggering this file's top-level main().
 
 // Publish all atomized excerpts, play scenes and long-poem sections as pages.
 // Returns { unitHref, excerpts } where unitHref maps "Authors/.../x[.md]" -> slug,
