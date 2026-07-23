@@ -165,3 +165,81 @@ for one generation.
 
 --From GK's Weekly, July 26, 1930
 ----------------------------------------------------------------------------
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+L'uguaglianza dell'[[sexlessness|assenza di sesso]]
+
+G. K. Chesterton  
+
+----------------------------------------------------------------------------
+
+In quasi tutte le opinioni moderne sulle donne è curioso osservare
+quante menzogne occorra dare per scontate prima che si possa
+costruire una tesi. Una giovane signora vola dall'Inghilterra
+all'Australia; un'altra vince una gara aerea; una duchessa stabilisce
+un primato di [[Speed|velocità]] nel raggiungere l'India; altre conquistano
+trofei automobilistici; e ora il premio del [[King|Re]] per il tiro
+di precisione è andato a una donna. Tutto ciò è assai interessante
+e forse degno di lode come modo di impiegare il proprio [[Time|tempo]] libero;
+e se ci si fermasse a questo, anche senza aggiungere altro se non
+il fatto perfettamente evidente che simili imprese non avrebbero potuto
+essere compiute dalle loro madri e dalle loro nonne, saremmo lieti
+di levarci il cappello davanti a queste signore con tutta la cortesia
+e il rispetto che il [[Courage|coraggio]], la [[Endurance|resistenza]] e l'abilità
+hanno sempre giustamente preteso.
+
+Ma non ci si ferma a questo; e si aggiunge parecchio di più.
+Si insinua, per esempio, che quei compiti fossero al di là delle madri
+e delle nonne, non per la ragione ovvissima che esse non avevano
+automobili né aeroplani con cui divertirsi nelle ore d'ozio,
+ma perché le donne erano allora rese schiave dalla convenzione di una
+naturale inferiorità rispetto all'uomo. Quei giorni, ci si dice, "in cui
+le donne erano ritenute incapaci di positivi traguardi sociali sono finiti
+per sempre." Non pare essere venuto in mente a questo critico che il fatto
+stesso di essere madre o nonna indica un certo positivo traguardo sociale;
+un traguardo il cui conseguimento, in verità, lasciava probabilmente ben poco
+ozio per svolazzare leggeri per gli emisferi. Lo stesso critico prosegue
+dichiarando, con tutta la solenne enfasi del pensiero profondo,
+che "l'importante non è che le donne siano uguali agli uomini--
+ciò è una fallacia--ma che siano altrettanto preziose per la società quanto
+gli uomini. L'uguaglianza di cittadinanza significa che vi sono il doppio
+delle teste per risolvere i problemi odierni di quante ve ne fossero per
+risolvere i problemi del passato. E due teste valgono più di una." E la prova
+spaventosa del moderno crollo di tutto ciò che si intendeva per marito e moglie
+e consiglio di famiglia è che simile imbecillità possa essere presa sul serio.
+
+Il Times di [[London|Londra]], in un meditato articolo di fondo, osserva
+che i primi emancipatori delle donne (chiunque essi fossero)
+non avevano idea di ciò che riserbava il futuro alle generazioni venture.
+"Se avessero potuto prevederlo, avrebbero forse disarmato molta
+opposizione additando le possibilità, non solo di [[Freedom|libertà]],
+ma anche di uguaglianza e fraternità."
+
+E noi chiediamo: che cosa significa tutto questo? Che cosa, in nome di tutto
+ciò che è aggraziato e dignitoso, significa fraternità con le donne?
+Quale insensatezza, o peggio, si allude con la [[Freedom|libertà]] e l'uguaglianza
+dei sessi?
+
+Intendiamo qualcosa di ben preciso quando diciamo che un uomo si prende
+qualche [[Freedom|libertà]] con le signore. Quale precisa [[Freedom|libertà]] si intende quando
+si propone la [[Freedom|libertà]] delle donne? Se significa soltanto il diritto a libere
+opinioni, il diritto di votare indipendentemente da padri e mariti, quale possibile
+rapporto ha ciò con la [[Freedom|libertà]] di volare in Australia o di centrare
+il bersaglio a Bisley? Se significa, come [[Fear|temiamo]] che significhi, [[Freedom|libertà]] dalla
+responsabilità di governare una [[Home|casa]] e una famiglia, un pari diritto con gli uomini
+nelle carriere professionali e sociali, a spese della [[Home|casa]] e della famiglia,
+allora un simile progresso non possiamo che chiamarlo progressivo degrado.
+
+E anche per gli uomini vi è, secondo una celebre scrittrice,
+una [[Hope|speranza]] di [[Freedom|libertà]]. Gli uomini cominciano a ribellarsi, ci si dice,
+contro l'antico costume tribale del desiderio di paternità.
+Il maschio si scrolla di dosso le catene dell'essere un creatore e un uomo.
+Quando tutti saranno privi di sesso vi sarà l'uguaglianza. Non vi saranno donne
+né uomini. Non vi sarà che una fraternità, libera e uguale.
+L'unico pensiero consolante è che essa durerà soltanto
+per una generazione.
+
+--Da GK's Weekly, 26 luglio 1930
+----------------------------------------------------------------------------

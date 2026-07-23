@@ -10514,6 +10514,152 @@ out of the land, that his people probably saw him most plainly
 at once as a knight errant and a tender father of his people.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+IX
+
+LA NAZIONALITÀ E LE GUERRE FRANCESI
+
+Se qualcuno desidera sapere che cosa intendiamo quando diciamo
+che la Cristianità era ed è una sola cultura, o una sola civiltà,
+esiste un modo rozzo ma limpido di esprimerlo.  Consiste nel
+chiedersi quale sia l'uso più comune, o meglio più corrente,
+di tutti gli usi della parola "cristiano."  Vi è, certo, l'uso
+più alto di tutti; ma oggi essa ha molti altri usi.  Talvolta
+cristiano significa evangelico.  Talvolta, e più di recente,
+cristiano significa quacchero.  Talvolta cristiano significa
+una persona modesta che crede di portare una somiglianza con
+[[Christ|Cristo]].  Ma da lungo tempo ha avuto un significato nel
+parlare comune della gente semplice, e significa una cultura o
+una civiltà.  Ben Gunn sull'Isola del Tesoro non disse davvero
+a Jim Hawkins: "Mi sento fuori contatto con un certo tipo di
+civiltà"; ma disse: "Non ho più assaggiato cibo cristiano."
+Le vecchie comari di un villaggio, guardando una signora dai
+capelli corti e in pantaloni, non dicono certo: "Percepiamo una
+divergenza fra la sua cultura e la nostra"; ma dicono: "Perché
+non può vestirsi come una cristiana?"  Che il sentimento sia
+così filtrato fin dentro il discorso quotidiano più semplice e
+persino più sciocco è soltanto una prova che la Cristianità era
+una cosa quanto mai reale.  Ma era anche, come abbiamo visto,
+una cosa quanto mai localizzata, specialmente nel Medioevo.
+E quel vivacissimo localismo che la [[Faith|fede]] e gli affetti cristiani
+incoraggiavano condusse alla fine a un eccessivo ed esclusivo
+campanilismo.  Vi erano santuari rivali dello stesso santo, e una
+sorta di duello fra due statue della stessa divinità.  Per un
+processo che è ora nostro arduo dovere seguire, cominciò un vero
+estraniamento fra i popoli europei.  Gli uomini presero a sentire
+che gli stranieri non mangiavano né bevevano da cristiani, e
+persino, quando venne lo scisma filosofico, a [[Doubt|dubitare]] che
+fossero cristiani.
+
+Vi era, in verità, ben più di questo in gioco.  Mentre la
+struttura interna del medievalismo era così campanilistica e in
+gran parte popolare, nelle faccende maggiori, e specialmente in
+quelle esterne, come la pace e la guerra, gran parte (benché per
+nulla la totalità) di ciò che era medievale era monarchica.  Per
+vedere che cosa i re giunsero a significare dobbiamo volgere lo
+sguardo al grande sfondo, come di tenebra e di primo giorno,
+contro il quale le prime figure della nostra [[history|storia]] sono già
+apparse.  Quello sfondo era la guerra con i barbari.  Finché durò,
+la Cristianità non era soltanto una nazione ma più simile a una
+sola [[City|città]]--e a una [[City|città]] assediata.  Il Wessex non era che una
+muraglia o [[Paris|Parigi]] una torre di essa; e in un'unica lingua e con
+un unico spirito Beda avrebbe potuto narrare l'assedio di [[Paris|Parigi]]
+o Abbone cantare il [[Song|canto]] di Alfredo.  Ciò che seguì fu una
+conquista e una [[conversion|conversione]]; tutta la fine dei Secoli Bui e
+l'[[Dawn|alba]] del medievalismo è colma dell'evangelizzazione della
+barbarie.  Ed è il [[Paradox|paradosso]] delle [[Crusades|Crociate]] che, benché il
+Saraceno fosse superficialmente più civile del cristiano, fu un
+sano istinto quello che vide anche in lui, nello spirito, un
+distruttore.  Nel caso più semplice del paganesimo settentrionale
+la civiltà si diffuse con un cammino più semplice.  Ma fu solo
+alla fine del Medioevo, e ormai prossimi alla [[Reformation|Riforma]], che il
+popolo della Prussia, la terra selvaggia che si stende oltre la
+[[Germany|Germania]], fu finalmente battezzato.  Una persona faceta, se si
+concedesse una profana confusione con la vaccinazione, potrebbe
+quasi essere incline a suggerire che, per qualche ragione, non
+"attecchì" nemmeno allora.
+
+Il pericolo barbarico fu così soggiogato a poco a poco, e persino
+nel caso dell'[[Islam]] la potenza aliena che non poteva essere
+schiacciata fu evidentemente tenuta a freno.  Le [[Crusades|Crociate]]
+divennero senza speranza, ma divennero anche superflue.  Man mano
+che questi timori svanivano, i principi d'Europa, che si erano
+riuniti per affrontarli, si ritrovarono a fronteggiarsi l'un
+l'altro.  Avevano più agio per scoprire che i loro comandi
+cozzavano fra loro; ma ciò sarebbe stato facilmente composto, o
+avrebbe prodotto una meschina rissa, se la vera spontaneità
+creatrice, di cui abbiamo parlato nella vita locale, non avesse
+teso a una reale varietà.  Le case regnanti scoprirono di essere
+rappresentanti quasi senza saperlo; e più di un [[King|re]], insistendo
+su un albero genealogico o su un titolo di proprietà, scoprì di
+parlare per le foreste e i [[songs|canti]] di un'intera contrada.  In
+Inghilterra specialmente la transizione è simboleggiata nell'evento
+fortuito che innalzò al trono uno dei più nobili uomini del
+Medioevo.
+
+Edoardo I venne rivestito di tutti gli splendori della sua epoca.
+Aveva preso la [[Cross|croce]] e combattuto i Saraceni; era stato l'unico
+degno avversario di Simon de Montfort in quelle guerre baronali
+che, come abbiamo visto, furono il primo segno (per quanto tenue)
+di una teoria seria secondo cui l'Inghilterra dovesse essere
+governata dai suoi baroni piuttosto che dai suoi re.  Egli
+procedette, come Simon de Montfort, e più solidamente, a sviluppare
+la grande istituzione medievale del parlamento.  Come si è detto,
+esso fu sovrapposto alle democrazie parrocchiali già esistenti, e
+fu dapprima soltanto la convocazione di rappresentanti locali
+perché consigliassero sulla tassazione locale.  Anzi, il suo sorgere
+fu tutt'uno con il sorgere di ciò che ora chiamiamo tassazione; e vi
+è così un filo di teoria che conduce alle sue ultime pretese di
+avere il diritto esclusivo di tassare.  Ma agli inizi esso fu uno
+strumento dei re più equanimi, e in particolare uno strumento di
+Edoardo I. Egli litigò spesso con i suoi parlamenti e talvolta può
+aver dispiaciuto al suo popolo (il che non è mai stata affatto la
+stessa cosa), ma nel complesso egli fu supremamente il sovrano
+rappresentativo.  A questo proposito si può qui considerare una
+questione curiosa e difficile, benché essa segni la fine di una
+storia che cominciò con la Conquista normanna.  È abbastanza certo
+che egli non fu mai più veramente un [[King|re]] rappresentativo, si
+potrebbe dire un [[King|re]] repubblicano, che nel fatto di aver espulso
+gli ebrei.  Il problema è talmente frainteso e mescolato a nozioni
+di uno stupido rancore contro una razza dotata e storica in quanto
+tale, che dobbiamo indugiare un paragrafo su di esso.
+
+Gli ebrei nel Medioevo erano tanto potenti quanto impopolari.
+Erano i capitalisti dell'epoca, gli uomini con la ricchezza
+depositata pronta all'uso.  È assai sostenibile che in tal modo
+essi fossero utili; è certo che in tal modo essi furono usati.
+È anche del tutto giusto dire che in tal modo essi furono maltrattati.
+Il maltrattamento non fu invero quello suggerito a casaccio nei
+romanzi, che per lo più ruotano sull'unica idea che venissero loro
+strappati i denti.  Coloro che conoscono questo come un racconto su
+[[King John|re Giovanni]] generalmente ignorano il fatto piuttosto
+importante che era un racconto contro [[King John|re Giovanni]].  È
+probabilmente dubbio; vi si insisteva soltanto come su un'eccezione;
+ed era, proprio per quell'insistenza, evidentemente ritenuto
+disonorevole.  Ma la vera ingiustizia della condizione degli ebrei
+era più profonda e più angosciosa per un popolo sensibile e
+altamente civile.  Essi potevano ragionevolmente dire che re e
+nobili cristiani, e persino papi e vescovi cristiani, usavano per
+scopi cristiani (come le [[Crusades|Crociate]] e le cattedrali) il denaro che
+poteva accumularsi in simili [[Mountains|montagne]] solo mediante un'usura che
+essi incoerentemente denunciavano come non cristiana; e poi, quando
+venivano tempi peggiori, abbandonavano l'ebreo al furore dei poveri,
+che quella utile usura aveva rovinato.  Questa era la vera causa
+dell'ebreo; e senza [[Doubt|dubbio]] egli si sentiva realmente oppresso.
+Sfortunatamente la causa dei cristiani era che essi, con almeno
+uguale ragione, lo sentivano come l'oppressore; e quella reciproca
+accusa di tirannia è il travaglio semitico di ogni tempo.  È certo
+che nel sentimento popolare questo antisemitismo non era scusato
+come mancanza di carità, ma semplicemente considerato [[Charity|carità]].
+Chaucer pone la sua maledizione contro la crudeltà ebraica in bocca
+alla tenera priora, che piangeva quando vedeva un topo in trappola;
+e fu quando Edoardo, infrangendo la regola per cui i governanti
+avevano fino allora favorito la ricchezza dei loro banchieri,
+scacciò i finanzieri stranieri fuori dal paese, che il suo popolo lo
+vide probabilmente nel modo più limpido, a un tempo come un cavaliere
+errante e un tenero padre del suo popolo.
+
 
 
 <span class="atom-split" data-atom="chapter_09--part_02" data-title="A Short History of England — Chapter 9 (part 2)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="archetype/hero,archetype/king,motif/cross,motif/crown,motif/fire,motif/home,motif/storm,motif/time,motif/well,concept/history,concept/union,form/history,histref/reformation,character/edward_iii,character/henry_v"></span>
@@ -10619,6 +10765,112 @@ St. Crispin of the Cobblers, might truly as [[Well|well]] as sincerely
 have hailed the splintering of the French lances in a [[Storm|storm]]
 of arrows, and cried, "St. George for Merry England."
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Quali che siano i meriti di questa questione, un tale ritratto di
+Edoardo era ben lungi dall'essere falso.  Egli era il tipo più
+giusto e coscienzioso di monarca medievale; ed è proprio questo
+fatto che pone in risalto la nuova forza che stava per [[Cross|attraversare]]
+il suo cammino e nella lotta con la quale egli morì.  Se era giusto,
+era anche eminentemente legalista.  E occorre ricordare, se non
+vogliamo semplicemente proiettare noi stessi nel passato, che gran
+parte delle dispute del [[Time|tempo]] era di natura legale; l'aggiustamento
+delle differenze dinastiche e feudali non era ancora sentito come
+qualcosa d'altro.  In questo spirito Edoardo fu invitato ad
+arbitrare dai pretendenti rivali alla [[Crown|corona]] scozzese; e in questo
+senso pare che abbia arbitrato con tutta onestà.  Ma la sua mente
+legalista, o, come alcuni direbbero, pedantesca, pose la clausola
+che il [[King|re]] scozzese in quanto tale era già sotto la sua sovranità,
+ed egli probabilmente non comprese mai lo spirito che evocava contro
+di sé; poiché quello spirito non aveva ancora un nome.  Oggi lo
+chiamiamo Nazionalismo.  La Scozia resistette; e le avventure di un
+cavaliere bandito di nome Wallace le fornirono ben presto una di
+quelle leggende che sono più importanti della [[history|storia]].  In un modo
+che era allora almeno altrettanto pratico, i preti cattolici di
+Scozia divennero in special modo il partito patriottico e
+antinglese; come infatti rimasero anche per tutta la [[Reformation|Riforma]].
+Wallace fu sconfitto e giustiziato; ma l'erica era già in [[Fire|fiamme]];
+e l'abbraccio della nuova causa nazionale da parte di uno degli
+stessi cavalieri di Edoardo, di nome Bruce, parve al vecchio [[King|re]] un
+puro tradimento dell'equità feudale.  Egli morì in un ultimo furore
+alla testa di una nuova invasione proprio sul confine di Scozia.
+Con le sue ultime parole il grande [[King|re]] comandò che le sue ossa
+fossero portate davanti alla battaglia; e le ossa, che erano di
+gigantesca mole, furono infine sepolte con l'epitaffio: "Qui giace
+Edoardo il Lungo, che fu il martello degli Scozzesi."  Era un vero
+epitaffio, ma in un senso esattamente opposto alla sua intenzione.
+Egli fu il loro martello, ma non li spezzò bensì li plasmò; poiché
+li batté su un'incudine e li forgiò in una [[Sword|spada]].
+
+Quella coincidenza, o corso di eventi, che spesso va rilevato in
+questa storia, per cui (per qualunque ragione) i nostri re più
+potenti in qualche modo non lasciarono sicuro il loro potere, si
+manifestò nel regno successivo, quando le contese baronali furono
+riprese e il regno del nord, sotto Bruce, si tagliò via infine
+libero con il colpo di Bannockburn.  Per il resto quel regno è un
+mero interludio, ed è con quello che gli succede che troviamo la
+nuova tendenza nazionale ancor più sviluppata.  Le grandi guerre
+francesi, in cui l'Inghilterra conquistò tanta gloria, furono aperte
+da [[Edward III|Edoardo III]], e divennero sempre più nazionaliste.  Ma
+anche solo per cogliere la transizione del [[Time|tempo]] dobbiamo dapprima
+renderci conto che il terzo Edoardo avanzò sulla Francia una pretesa
+tanto rigorosamente legale e dinastica quanto il primo Edoardo aveva
+avanzato sulla Scozia; la pretesa era assai più debole nella
+sostanza, ma era ugualmente convenzionale nella forma.  Egli pensava,
+o diceva, di avere un diritto su un regno come uno scudiero potrebbe
+dire di avere un diritto su una tenuta; superficialmente era una
+faccenda per gli avvocati inglesi e francesi.  Leggere in questo che
+il popolo fosse un gregge comprato e venduto significa fraintendere
+tutta la [[history|storia]] medievale; le pecore non hanno [[Union|sindacato]].  Le armi
+inglesi dovettero molta della loro forza alla classe dei liberi
+piccoli proprietari; e il [[success|successo]] della fanteria, specialmente degli
+arcieri, rappresentò in gran parte quell'elemento popolare che aveva
+già disarcionato l'alta cavalleria francese a Courtrai.  Ma il punto
+è questo: che mentre gli avvocati discutevano della Legge Salica, i
+soldati, che un tempo avrebbero discusso della legge di gilda o della
+legge del beneficio ecclesiastico, discutevano già di legge inglese e
+di legge francese.  I francesi furono i primi in questa tendenza a
+vedere qualcosa al di là del borgo, della fratellanza di mestiere,
+dei tributi feudali, o del bene comunale del villaggio.  Tutta la
+[[history|storia]] del cambiamento si può scorgere nel fatto che i francesi
+avevano cominciato per tempo a chiamare la nazione la Terra Maggiore.
+La Francia fu la prima delle nazioni ed è rimasta la norma delle
+nazioni, l'unica che è una nazione e nient'altro.  Ma nell'urto gli
+inglesi si fecero ugualmente corporativi; e un vero applauso
+patriottico salutò probabilmente le vittorie di Crécy e di Poitiers,
+come certamente salutò la successiva vittoria di Azincourt.
+Quest'ultima non avvenne invero se non dopo un intervallo di
+rivoluzioni interne in Inghilterra, che saranno considerate in una
+pagina più avanti; ma per quanto riguarda la crescita del
+nazionalismo, le guerre francesi furono continue.  E la tradizione
+inglese che seguì dopo Azincourt fu continua del pari.  Essa è
+incarnata in ballate rozze e animose prima dei grandi Elisabettiani.
+L'[[Henry V|Enrico V]] di Shakespeare non è invero l'[[Henry V|Enrico V]] della
+[[history|storia]]; eppure è più storico.  Egli non è soltanto una persona più
+sana e più cordiale ma più importante.  Poiché la tradizione
+dell'intera avventura non fu quella di Henry, ma del popolino che
+trasformò Henry in Harry.  Vi erano mille Harry nell'esercito ad
+Azincourt, e non uno solo.  Poiché la figura che Shakespeare plasmò
+dalle leggende della grande vittoria è in gran parte la figura che
+tutti gli uomini videro come l'inglese del Medioevo.  Egli non
+parlava davvero in poesia, come l'[[Hero|eroe]] di Shakespeare, ma gli
+sarebbe piaciuto.  Non potendo far ciò, cantava; e il popolo inglese
+appare principalmente nelle impressioni contemporanee come il popolo
+che canta.  Erano evidentemente non solo espansivi ma esagerati; e
+forse non fu solo in battaglia che tesero l'arco lungo.  Quella bella
+immaginazione farsesca, che è discesa fino a colorare le [[songs|canzoni]]
+comiche e il parlare comune dei poveri inglesi ancor oggi, ebbe la
+sua felice infanzia quando l'Inghilterra divenne così una nazione;
+benché i poveri moderni, sotto la pressione del progresso economico,
+abbiano in parte perduto la gaiezza e conservato soltanto l'[[Humour|umorismo]].
+Ma in quel primo aprile del patriottismo la nuova [[unity|unità]] dello Stato
+posava ancora leggera su di loro; e un ciabattino nell'esercito di
+Henry, che a [[Home|casa]] avrebbe pensato per prima cosa che era il giorno
+di San Crispino dei Ciabattini, poteva davvero, tanto a ragione
+quanto sinceramente, aver salutato lo schiantarsi delle lance
+francesi in una [[Storm|tempesta]] di frecce, gridando: "San Giorgio per
+l'allegra Inghilterra."
 
 
 
@@ -10741,6 +10993,121 @@ asunder to bind it into a [[Cross|cross]] for Joan of Arc.
 
 --/--
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Le cose umane sono scomodamente complesse, e mentre era l'aprile
+del patriottismo era l'[[Autumn|autunno]] della società medievale.  Nel
+capitolo seguente cercherò di tracciare le forze che stavano
+disgregando la civiltà; e anche qui, dopo le prime vittorie, è
+necessario insistere sull'amarezza e sulla sterile [[Ambition|ambizione]] che si
+manifestarono sempre più nelle fasi ulteriori, man mano che le lunghe
+guerre francesi si trascinavano.  La Francia era in quel [[Time|tempo]] assai
+meno felice dell'Inghilterra--devastata dal tradimento dei suoi
+nobili e dalla debolezza dei suoi re quasi quanto dall'invasione
+degli isolani.  Eppure fu proprio questa [[Despair|disperazione]] e umiliazione
+che parve alla fine squarciare il cielo, e lasciar entrare la luce
+di ciò che è difficile per lo storico più freddo chiamare altrimenti
+che un miracolo.
+
+Può darsi che sia questo apparente miracolo ad aver reso, a quanto
+pare, eterno il Nazionalismo.  Si può congetturare, benché la
+questione sia troppo difficile per essere qui svolta, che vi fosse
+qualcosa nel grande mutamento morale che trasformò l'Impero romano in
+Cristianità, per cui ogni grande cosa, a cui esso in seguito diede
+vita, veniva battezzata in una promessa, o almeno in una [[Hope|speranza]] di
+permanenza.  Può darsi che ciascuna delle sue idee fosse, per così
+dire, mescolata all'[[Immortality|immortalità]].  Certamente qualcosa di questo
+genere si può scorgere nella concezione che mutò il [[Marriage|matrimonio]] da
+contratto in sacramento.  Ma qualunque ne sia la causa, è certo che
+persino per i tipi più secolari del nostro stesso [[Time|tempo]] il loro
+rapporto con la terra natia è divenuto non contrattuale ma
+sacramentale.  Possiamo dire che le bandiere sono stracci, che le
+frontiere sono finzioni, ma proprio gli uomini che l'hanno detto per
+metà della loro vita stanno morendo per uno straccio, ed essendo fatti
+a pezzi per una finzione proprio mentre scrivo.  Quando la tromba di
+battaglia suonò nel 1914 l'umanità moderna si era raggruppata in
+nazioni quasi prima di sapere ciò che aveva fatto.  Se lo stesso suono
+sarà udito fra mille anni, non vi è alcun segno al mondo che suggerisca
+a un uomo razionale che l'umanità non farà esattamente la stessa cosa.
+Ma anche se questo grande e strano sviluppo non fosse duraturo, il
+punto è che è sentito come duraturo; è difficile dare una definizione
+di lealtà, ma forse ci avviciniamo a essa se la chiamiamo la cosa che
+opera là dove un obbligo è sentito come illimitato.  E il minimo di
+dovere o persino di decenza chiesto a un patriota è il massimo che è
+chiesto dalla più miracolosa concezione del [[Marriage|matrimonio]].  La realtà
+riconosciuta del patriottismo non è la mera cittadinanza.  La realtà
+riconosciuta del patriottismo è nel bene e nel male, nella ricchezza e
+nella povertà, in salute e in malattia, nella crescita e nella gloria
+nazionale e nella vergogna e nel declino nazionale; non è viaggiare
+nella [[Ship|nave]] dello Stato come passeggero, ma, se necessario, affondare
+con la [[Ship|nave]].
+
+È superfluo raccontare qui di nuovo il racconto di quell'episodio da
+terremoto in cui uno squarcio nella terra e nel cielo, sopra la
+confusione e l'abbassamento delle corone, mostrò la figura imperante
+di una donna del popolo.  Ella era, nella sua stessa viva [[Loneliness|solitudine]],
+una [[French Revolution|Rivoluzione francese]].  Era la prova che una certa potenza non
+era nei re francesi né nei cavalieri francesi, ma nei francesi.  Ma il
+fatto che ella vedesse qualcosa al di sopra di sé che era altro dal
+cielo, il fatto che vivesse la vita di una santa e morisse la [[Death|morte]] di
+una martire, impresse probabilmente sul nuovo sentimento nazionale un
+sacro sigillo.  E il fatto che ella combattesse per un paese sconfitto,
+e, benché esso fosse vittorioso, fosse lei stessa alla fine sconfitta,
+definisce quell'elemento più oscuro di devozione di cui ho parlato
+sopra, che rende persino il pessimismo coerente con il patriottismo.
+È più appropriato in questo luogo considerare la reazione ultima di
+questo sacrificio sul [[Romance|romanzesco]] e sulle realtà dell'Inghilterra.
+
+Non ho mai ritenuto compito patriottico intonacare il mio stesso paese
+di complimenti convenzionali e poco convincenti; ma nessuno può
+comprendere l'Inghilterra se non comprende che un episodio come questo,
+in cui essa fu così chiaramente dalla parte del torto, è stato pur alla
+fine collegato a una curiosa qualità in cui essa è piuttosto
+insolitamente dalla parte della ragione.  Nessuno che ci confronti
+candidamente con altri paesi può dire che abbiamo particolarmente
+mancato di edificare i sepolcri dei profeti che lapidammo, o persino
+dei profeti che lapidarono noi.  La tradizione storica inglese ha
+almeno una larga e vaga magnanimità che finisce sempre per cadere nella
+lode non solo dei grandi stranieri ma dei grandi nemici.  Spesso,
+insieme a molta ingiustizia, essa ha una generosità illogica; e mentre
+liquida un grande popolo con mera ignoranza, tratta una grande
+personalità con un cordiale culto dell'[[Hero|eroe]].  Vi è più di un esempio
+persino in questo capitolo, poiché i nostri libri ben possono fare di
+Wallace un uomo migliore di quel che era, come poi assegnarono a
+Washington una causa persino migliore di quella che aveva.  Thackeray
+sorrise del ritratto di Wallace fatto da Miss Jane Porter, che andava
+in guerra piangendo con un fazzoletto di batista; ma il suo
+atteggiamento era più inglese e non meno accurato.  Poiché la sua
+idealizzazione era, semmai, più vicina alla [[Truth|verità]] della nozione di
+Thackeray stesso di un medievalismo di ipocriti porci in armatura.
+Edoardo, che figura come un [[Tyrant|tiranno]], sapeva piangere di compassione;
+ed è abbastanza probabile che Wallace piangesse, con o senza
+fazzoletto.  Inoltre, il suo [[Romance|romanzo]] era una realtà, la realtà del
+nazionalismo; ed ella sapeva molto di più sui patrioti scozzesi
+vissuti secoli prima del suo [[Time|tempo]] di quanto Thackeray sapesse sui
+patrioti irlandesi che aveva proprio sotto il naso.  Thackeray era un
+grande uomo; ma in quella faccenda fu un uomo assai piccolo, anzi
+invisibile.  I casi di Wallace e di Washington e di molti altri sono
+qui menzionati, tuttavia, solo per suggerire un'eccentrica magnanimità
+che sicuramente bilancia alcuni dei nostri pregiudizi.  Abbiamo fatto
+molte cose sciocche, ma abbiamo almeno fatto una cosa bella; abbiamo
+imbiancato i nostri peggiori nemici.  Se abbiamo fatto questo per un
+ardito predone scozzese e per un vigoroso schiavista virginiano, ciò
+può almeno mostrare che non è probabile che manchiamo nel nostro
+apprezzamento finale dell'unica figura candida nei variopinti cortei
+della guerra.  Credo che vi sia nell'Inghilterra moderna qualcosa come
+un entusiasmo universale su questo tema.  Abbiamo visto un grande
+critico inglese scrivere un libro su questa eroina, in opposizione a un
+grande critico francese, unicamente allo scopo di rimproverargli di non
+averla lodata abbastanza.  E non credo che viva oggi un inglese il
+quale, se avesse l'offerta di essere un inglese di allora, non
+rinuncerebbe alla sua occasione di cavalcare come conquistatore
+incoronato alla testa di tutte le lance di Azincourt, se potesse essere
+quel comune soldato inglese di cui la tradizione racconta che spezzò la
+sua lancia per legarla in una [[Cross|croce]] per Giovanna d'Arco.
+
+--/--
 
 
 
@@ -10884,6 +11251,143 @@ They announced their decision to the people, and the people
 [[Rose|rose]] in arms.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+X
+
+LA GUERRA DEGLI USURPATORI
+
+Il poeta Pope, benché amico del più grande dei Tory Democratici,
+Bolingbroke, viveva necessariamente in un mondo in cui persino il
+Toryismo era Whig.  E il Whig, in quanto arguto, non espresse mai il
+suo punto politico più chiaramente che nel verso di Pope che suonava:
+"Il diritto divino dei re di governare male."  Sarà evidente, quando
+tratterò di quel periodo, che io non attenuo la reale irragionevolezza
+insita nel diritto divino come lo interpretarono Filmer e certi
+pedanti cavalieri.  Essi professavano l'impossibile ideale della "non
+resistenza" a qualsiasi potere nazionale e legittimo; benché io non
+riesca a vedere che neppure ciò fosse così servile e superstizioso
+quanto il puro e moderno ideale della "non resistenza" persino a un
+potere straniero e senza legge.  Ma il diciassettesimo secolo fu
+un'età di sette, cioè di fisime; e i Filmeriti fecero del diritto
+divino una fisima.  Le sue radici erano più antiche, ugualmente
+religiose ma molto più realistiche; e benché intrecciate con molte
+altre e persino opposte cose del Medioevo, si ramificano attraverso
+tutti i mutamenti che ora dobbiamo considerare.  Il legame non può
+essere enunciato meglio che prendendo il facile [[Epigram|epigramma]] di Pope e
+osservando che esso è, dopo tutto, assai debole in [[philosophy|filosofia]].  "Il
+diritto divino dei re di governare male," considerato come uno
+scherno, elude in realtà tutto ciò che intendiamo con "un diritto."
+Avere il diritto di fare una cosa non è affatto lo stesso che aver
+ragione nel farla.  Ciò che Pope dice satiricamente di un diritto
+divino è ciò che tutti diciamo assai seriamente di un diritto umano.
+Se un uomo ha il diritto di votare, non ha forse il diritto di votar
+male?  Se un uomo ha il diritto di scegliersi la moglie, non ha forse
+il diritto di sceglier male?  Io ho il diritto di esprimere l'opinione
+che sto ora mettendo per iscritto; ma esiterei ad avanzare la pretesa
+controversa che ciò dimostri che l'opinione è giusta.
+
+Ora la monarchia medievale, benché solo un aspetto del governo
+medievale, era grossolanamente rappresentata nell'idea che il sovrano
+avesse il diritto di governare come un elettore ha il diritto di
+votare.  Egli poteva governare male, ma a meno che non governasse in
+modo orribile e smisuratamente sbagliato, conservava la sua posizione
+di diritto; come un privato conserva il suo diritto al [[Marriage|matrimonio]] e
+al movimento a meno che non esca orribilmente e smisuratamente di
+senno.  Non era in realtà neppure così semplice; poiché il Medioevo
+non era, come spesso è di moda immaginare, sotto un'unica e ferrea
+disciplina.  Era assai polemico e perciò assai complesso; ed è facile,
+isolando singoli elementi, sia riguardo al jus divinum sia al primus
+inter pares, sostenere che i medievali erano quasi qualsiasi cosa; si
+è seriamente sostenuto che erano tutti tedeschi.  Ma è vero che
+l'influenza della Chiesa, benché per nulla di tutti i grandi
+ecclesiastici, incoraggiava il senso di una sorta di sacramento del
+[[government|governo]], che era inteso a rendere il monarca terribile e perciò
+spesso rendeva l'uomo tirannico.  Lo svantaggio di un simile
+dispotismo è abbastanza ovvio.  La precisa [[Nature|natura]] del suo vantaggio
+deve essere compresa meglio di quanto lo sia, non tanto per se stessa
+quanto per la storia che ora dobbiamo raccontare.
+
+Il vantaggio del "diritto divino," o della legittimità inamovibile, è
+questo: che vi è un limite alle ambizioni dei ricchi.  "Roi ne puis",
+il potere regale, fosse o non fosse il potere del cielo, era per un
+aspetto simile al potere del cielo.  Non era in vendita.  I moralisti
+costituzionali hanno spesso lasciato intendere che un [[Tyrant|tiranno]] e una
+plebaglia abbiano gli stessi vizi.  Si è forse notato meno che un
+[[Tyrant|tiranno]] e una plebaglia hanno con la massima evidenza le stesse virtù.
+E una virtù che essi molto marcatamente condividono è che né i tiranni
+né le plebaglie sono snob; non si curano un fico secco di ciò che fanno
+alle persone ricche.  È vero che la tirannia era talvolta considerata
+come proveniente dai cieli quasi nel senso minore e più letterale di
+provenire dal cielo; un uomo non si aspettava di essere il [[King|re]] più di
+quanto si aspettasse di essere il [[Wind|vento]] d'occidente o la stella del
+mattino.  Ma almeno nessun malvagio mugnaio può incatenare il [[Wind|vento]]
+perché faccia girare soltanto il proprio mulino; nessun pedante
+studioso può regolare la stella del mattino perché sia la propria lampada
+da lettura.  Eppure qualcosa di assai simile a questo è ciò che accadde
+realmente all'Inghilterra nel tardo Medioevo; e il primo segno di ciò,
+immagino, fu la caduta di [[Richard II|Riccardo II]].
+
+Le opere storiche di Shakespeare sono qualcosa di più vero dello
+storico; sono tradizionali; la viva [[Memory|memoria]] di molte cose indugiava,
+benché la [[Memory|memoria]] di altre fosse perduta.  Egli ha ragione nel fare di
+[[Richard II|Riccardo II]] l'incarnazione della pretesa al diritto divino; e di
+Bolingbroke l'[[Ambition|ambizione]] baronale che infine mandò in pezzi il vecchio
+ordine medievale.  Ma il diritto divino era divenuto a un tempo più
+arido e più fantastico al [[Time|tempo]] dei Tudor.  Shakespeare non poteva
+recuperare la parte fresca e popolare della cosa; poiché egli giunse a
+uno stadio più tardo in un processo di irrigidimento che è la cosa
+principale da studiare nel medievalismo più tardo.  [[Richard|Riccardo]] stesso
+era forse un principe capriccioso ed esasperante; poteva [[Well|ben]] essere
+l'anello debole che si spezzò nella forte catena dei Plantageneti.  Può
+darsi che vi fosse un vero motivo contro il colpo di Stato che egli
+effettuò nel 1397, e il suo parente Enrico di Bolingbroke può aver
+avuto forti settori di opinione delusa dalla sua parte quando effettuò
+nel 1399 la prima vera usurpazione nella [[history|storia]] inglese.  Ma se
+vogliamo comprendere quella più ampia tradizione che persino
+Shakespeare aveva perduto, dobbiamo volgere lo sguardo a qualcosa che
+capitò a [[Richard|Riccardo]] persino nei primi anni del suo regno.  Fu
+certamente il più grande evento del suo regno; e fu forse il più grande
+evento di tutti i regni che sono rapidamente considerati in questo
+libro.  Il vero popolo inglese, gli uomini che lavorano con le mani,
+levarono le mani per colpire i loro padroni, probabilmente per la prima
+e certamente per l'ultima volta nella [[history|storia]].
+
+La [[Slavery|schiavitù]] pagana era lentamente perita, non tanto decadendo quanto
+sviluppandosi in qualcosa di migliore.  In un senso essa non morì, ma
+piuttosto prese vita.  Il proprietario di schiavi era come un uomo che
+dovesse piantare una fila di paletti per una staccionata, e poi
+scoprisse che avevano messo radici e gemmavano in piccoli alberi.
+Sarebbero stati a un tempo più preziosi e meno maneggevoli, specialmente
+meno trasportabili; e una tale differenza fra un paletto e un albero era
+precisamente la differenza fra uno schiavo e un servo della gleba--o
+persino il libero contadino che il servo pareva rapidamente tendere a
+diventare.  Fu, nel senso migliore di una frase logora, un'evoluzione
+sociale, e ne ebbe il grande male.  Il male era che, pur essendo
+essenzialmente ordinata, era ancora letteralmente senza legge.  Vale a
+dire, l'emancipazione dei comuni era già avanzata assai, ma non era
+ancora avanzata abbastanza da essere incarnata in una legge.  La
+consuetudine era "non scritta," come la Costituzione britannica, e (come
+quell'entità evolutiva, per non dire evasiva) poteva sempre essere
+scavalcata dai ricchi, che ora spingono le loro grandi carrozze
+attraverso gli Atti del Parlamento.  Il nuovo contadino era ancora
+legalmente uno schiavo, e doveva impararlo per uno di quei rivolgimenti
+della fortuna che confondono una sciocca [[Faith|fede]] nel buon senso delle
+costituzioni non scritte.  Le Guerre Francesi divennero a poco a poco
+quasi altrettanto un flagello per l'Inghilterra quanto lo erano per la
+Francia.  L'Inghilterra fu spogliata dalle sue stesse vittorie; il lusso
+e la [[Poverty|povertà]] crebbero agli estremi della società; e, per un processo
+più proprio di un capitolo successivo, l'equilibrio del miglior
+medievalismo andò perduto.  Infine, una peste furiosa, chiamata la
+[[Death|Morte]] Nera, scoppiò come una raffica sulla terra, diradando la
+popolazione e gettando in rovina il lavoro del mondo.  Vi fu una
+carenza di manodopera; una difficoltà a procurarsi beni di lusso; e i
+grandi signori fecero ciò che ci si aspetterebbe che facessero.
+Divennero avvocati, e sostenitori della lettera della legge.  Si
+appellarono a una norma già quasi obsoleta, per ricacciare il servo
+nella più diretta servitù dei Secoli Bui.  Annunciarono la loro
+decisione al popolo, e il popolo [[Rose|insorse]] in armi.
+
 
 
 <span class="atom-split" data-atom="chapter_10--part_02" data-title="A Short History of England — Chapter 10 (part 2)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="archetype/child,archetype/king,archetype/usurper,motif/blood,motif/city,motif/cross,motif/crown,motif/desire,motif/flag,motif/time,concept/ambition,concept/body,concept/freedom,concept/history,concept/imagination,concept/truth,form/history,histref/reformation,setting/court,setting/london,character/lord_mayor,character/richard"></span>
@@ -11007,6 +11511,125 @@ Across the channel, one of them was presiding at the trial
 of Joan of Arc.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Le due drammatiche vicende che collegano Wat Tyler, dubbiosamente
+con l'inizio, e con certezza con la fine della rivolta, sono ben
+lungi dall'essere trascurabili, malgrado il [[Desire|desiderio]] dei nostri
+odierni storici prosaici di fingere che tutte le vicende drammatiche
+siano trascurabili.  Il racconto del primo colpo di Tyler è
+significativo nel senso che non è solo drammatico ma domestico.
+Vendicava un'offesa alla famiglia, e fece della leggenda dell'intera
+sommossa, quali che fossero le sue incidentali indecenze, una sorta di
+manifestazione a favore della decenza.  Questo è importante; poiché la
+dignità dei poveri è quasi priva di senso nei dibattiti moderni; e a un
+ispettore basta portare un modulo stampato e qualche parola altisonante
+per fare la stessa cosa senza avere la testa rotta.  L'occasione della
+protesta, e la forma che la reazione feudale aveva dapprima assunto, fu
+una Tassa Testatica; ma questa non era che una parte di un processo
+generale di costringere la popolazione al lavoro servile, il che spiega
+appieno il linguaggio feroce tenuto dal [[government|governo]] dopo che l'insurrezione
+era fallita; il linguaggio in cui minacciava di rendere la condizione
+del servo più servile di prima.  I fatti che accompagnano il fallimento
+in questione sono meno controversi.  Il popolino medievale mostrò
+considerevole energia militare e cooperazione, si aprì la strada con la
+forza fino a [[London|Londra]], e fu affrontato fuori della [[City|città]] da una
+compagnia che comprendeva il [[King|re]] e il [[Lord Mayor]], i quali furono
+costretti ad acconsentire a un parlamento.  Il proditorio
+pugnalamento di Tyler da parte del Mayor diede il segnale della
+battaglia e del massacro sul posto.  I contadini si serrarono ruggendo:
+"Hanno ucciso il nostro capo", quando accadde una cosa strana; qualcosa
+che ci offre un fuggevole e definitivo scorcio dell'uomo incoronato e
+sacramentale del Medioevo.  Per un istante folle il diritto divino fu
+divino.
+
+Il [[King|re]] non era che un ragazzo; la sua stessa voce dovette risuonare a
+quella moltitudine quasi come la voce di un [[Child|bambino]].  Ma il potere dei
+suoi padri e la grande Cristianità da cui proveniva calò in qualche
+strana maniera su di lui; e cavalcando fuori da [[Alone|solo]] davanti al
+popolo, gridò: "Io sono il vostro capo"; e promise egli stesso di
+concedere loro tutto ciò che chiedevano.  Quella promessa fu poi
+infranta; ma coloro che vedono nella sua rottura la mera volubilità del
+giovane e frivolo [[King|re]], sono non solo superficiali ma del tutto
+ignoranti interpreti dell'intera tendenza di quel [[Time|tempo]].  Il punto che
+va afferrato, se le cose successive devono essere viste come sono, è
+che il Parlamento certamente incoraggiò, e quasi certamente costrinse,
+il [[King|re]] a rinnegare il popolo.  Poiché quando, dopo che i rivoluzionari
+esultanti si erano disarmati ed erano stati traditi, il [[King|re]] sollecitò
+un umano compromesso al Parlamento, il Parlamento lo rifiutò con furore.
+Già il Parlamento non è soltanto un [[Body|corpo]] governante ma una classe
+governante.  Il Parlamento fu tanto sprezzante verso i contadini nel
+quattordicesimo secolo quanto verso i Cartisti nel diciannovesimo.
+Questo consiglio, dapprima convocato dal [[King|re]] come le giurie e molte
+altre cose, per ottenere da uomini semplici una testimonianza piuttosto
+riluttante sulla tassazione, è già divenuto un oggetto di [[Ambition|ambizione]], ed
+è, perciò, un'aristocrazia.  Vi è già guerra, in questo caso
+letteralmente all'arma bianca, fra i Comuni con la C maiuscola e i comuni
+con la c minuscola.  A proposito di coltello, è notevole che
+l'assassino di Tyler non fosse un semplice nobile ma un magistrato
+elettivo dell'oligarchia mercantile di [[London|Londra]]; benché non vi sia
+probabilmente alcuna [[Truth|verità]] nel racconto che il suo pugnale macchiato di
+[[Blood|sangue]] figuri sullo stemma della [[City]] di [[London|Londra]].  I londinesi
+medievali erano ben capaci di assassinare un uomo, ma non di conficcare
+un coltello così sudicio nelle vicinanze della [[Cross|croce]] del loro
+Redentore, nel luogo che è realmente occupato dalla [[Sword|spada]] di San
+Paolo.
+
+Si è osservato sopra che il Parlamento era ormai un'aristocrazia,
+essendo un oggetto di [[Ambition|ambizione]].  La [[Truth|verità]] è, forse, più sottile di
+così; ma se mai gli uomini bramano di servire nelle giurie possiamo
+probabilmente indovinare che le giurie non sono più popolari.  In ogni
+caso, questo va tenuto a mente, contro l'idea opposta del jus divinum o
+dell'autorità fissa, se vogliamo apprezzare la caduta di [[Richard|Riccardo]].  Se
+la cosa che lo detronizzò fu una ribellione, fu una ribellione del
+parlamento, di quella cosa che si era appena dimostrata assai più
+spietata di lui verso una ribellione del popolo.  Ma non è questo il
+punto principale.  Il punto è che con la rimozione di [[Richard|Riccardo]] un
+gradino al di sopra del parlamento divenne possibile per la prima
+[[Time|volta]].  La transizione fu tremenda; la [[Crown|corona]] divenne un oggetto di
+[[Ambition|ambizione]].  Ciò che uno poteva ghermire un altro poteva ghermirglielo;
+ciò che la [[house|Casa]] di Lancaster teneva soltanto con la forza la [[house|Casa]] di
+York poteva toglierglielo con la forza.  L'incantesimo di una cosa
+indetronizzabile assisa fuori portata era spezzato, e per tre infelici
+generazioni gli avventurieri lottarono e inciamparono su una scala
+sdrucciolevole di [[Blood|sangue]], al di sopra della quale vi era qualcosa di
+nuovo nell'[[Imagination|immaginazione]] medievale: un trono vuoto.
+
+È ovvio che l'insicurezza dell'[[Usurper|usurpatore]] lancastriano, in gran parte
+perché era un [[Usurper|usurpatore]], è la chiave di molte cose, alcune delle quali
+ora chiameremmo buone, altre cattive, tutte le quali probabilmente
+chiameremmo buone o cattive con l'eccessiva facilità con cui liquidiamo
+le cose lontane.  Indusse la [[house|Casa]] lancastriana ad appoggiarsi al
+Parlamento, che era la faccenda mista che abbiamo già visto.  Può essere
+stato per certi versi un bene per la monarchia essere controllata e
+sfidata da un'istituzione che almeno conservava qualcosa dell'antica
+freschezza e [[Freedom|libertà]] di parola.  Fu quasi certamente un male per il
+parlamento, rendendolo ancor più l'alleato del semplice nobile
+ambizioso, del quale vedremo molto più avanti.  Indusse anche la [[house|Casa]]
+lancastriana ad appoggiarsi al patriottismo, che era forse più
+popolare; a fare dell'inglese la lingua della [[Court|corte]] per la prima
+[[Time|volta]], e a riaprire le guerre francesi con il bel [[Flag|bandiere]]-sventolio di
+Azincourt.  La indusse di nuovo ad appoggiarsi alla Chiesa, o piuttosto,
+forse, all'alto clero, e ciò nell'aspetto meno degno del clericalismo.
+Una certa morbosità che sempre più oscurava la fine del medievalismo si
+manifestò in nuove e più accurate crudeltà contro l'ultimo raccolto di
+eresie.  Una lieve conoscenza della [[philosophy|filosofia]] di queste eresie darà
+scarso sostegno all'idea che esse fossero in se stesse profetiche della
+[[Reformation|Riforma]].  È difficile vedere come chiunque possa chiamare Wycliffe un
+protestante a meno che non chiami protestante Pelagio o Ario; e se John
+Ball era un Riformatore, Latimer non era un Riformatore.  Ma benché le
+nuove eresie non alludessero neppure all'inizio del protestantesimo
+inglese, esse alludevano, forse, alla fine del cattolicesimo inglese.
+Cobham non accese una candela da tramandare alle cappelle
+anticonformiste; ma Arundel accese davvero una torcia e la mise alla sua
+stessa chiesa.  Quella reale impopolarità che col [[Time|tempo]] si legò
+effettivamente al vecchio sistema religioso, e che poi divenne una vera
+tradizione nazionale contro Maria, fu senza dubbio avviata dall'energia
+malata di questi vescovi del quindicesimo secolo.  La persecuzione può
+essere una [[philosophy|filosofia]], e una [[philosophy|filosofia]] difendibile, ma con alcuni di
+questi uomini la persecuzione era piuttosto una perversione.  Al di là
+della Manica, uno di essi presiedeva il processo di Giovanna d'Arco.
+
 
 
 <span class="atom-split" data-atom="chapter_10--part_03" data-title="A Short History of England — Chapter 10 (part 3)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="archetype/innocent,archetype/king,archetype/shadow,motif/blood,motif/crown,motif/death,motif/desire,motif/lion,motif/memory,motif/soul,motif/time,concept/beauty,concept/body,concept/charity,concept/history,concept/truth,form/history,form/riddle,character/gloucester,character/henry_v,character/richard,character/richard_ii,character/richard_iii"></span>
@@ -11104,6 +11727,97 @@ found the [[Crown|crown]] of England under a bush of thorn.
 
 --/--
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Ma questa perversione, questa energia malata, è la potenza in tutta
+l'epoca che segue la caduta di [[Richard II|Riccardo II]], e specialmente in
+quelle faide che trovarono un'immagine così ironica nelle rose
+inglesi--e nelle spine.  Lo scorcio prospettico di uno sguardo
+retrospettivo quale questo libro può [[Alone|soltanto]] pretendere di essere,
+vieta ogni ingresso nei labirinti militari delle guerre di York e
+Lancaster, o ogni tentativo di seguire le emozionanti riscosse e
+vendette che colmarono le vite di Warwick il Fabbricatore di Re e della
+bellicosa vedova di [[Henry V|Enrico V]].  I rivali non stavano, in verità, come
+talora si lascia intendere con esagerazione, combattendo per nulla, o
+persino (come il [[Lion|leone]] e l'unicorno) combattendo semplicemente per la
+[[Crown|corona]].  L'[[Shadow|ombra]] di una differenza morale può ancora essere
+rintracciata persino in quel tempestoso crepuscolo di un'età eroica.  Ma
+quando abbiamo detto che Lancaster stava, nel complesso, per la nuova
+nozione di un [[King|re]] sorretto da parlamenti e da potenti vescovi, e York,
+nel complesso, per i resti della più antica idea di un [[King|re]] che non
+permette a nulla di frapporsi fra sé e il suo popolo, abbiamo detto
+tutto ciò che di permanente interesse politico potesse essere
+rintracciato contando tutti gli archi di Barnet o tutte le lance di
+Tewkesbury.  Ma questa [[Truth|verità]], che vi era qualcosa che si può soltanto
+vagamente chiamare Tory negli Yorkisti, ha almeno un interesse, quello
+di conferire un giustificabile [[Romance|romanticismo]] all'ultima e più notevole
+figura della battagliera [[house|Casa]] di York, con la cui caduta ebbero fine
+le Guerre delle Rose.
+
+Se [[Desire|desideriamo]] affatto cogliere gli strani colori del tramonto del
+Medioevo, vedere ciò che aveva mutato ma non del tutto ucciso la
+cavalleria, non vi è studio migliore dell'[[Riddle|enigma]] di [[Richard III|Riccardo III]].
+Naturalmente, quasi nessun tratto di lui era simile alla caricatura con
+cui il suo assai più meschino successore lo affisse al mondo quando egli
+era morto.  Non era neppure un gobbo; aveva una spalla leggermente più
+alta dell'altra, probabilmente l'effetto della sua furiosa maestria di
+spada su una struttura naturalmente snella e sensibile.  Eppure la sua
+[[Soul|anima]], se non il suo [[Body|corpo]], in qualche modo ci perseguita come l'[[Shadow|ombra]]
+storta di un retto cavaliere di giorni migliori.  Non era un orco che
+versava fiumi di [[Blood|sangue]]; alcuni degli uomini che giustiziò lo
+meritavano quanto qualsiasi uomo di quel malvagio [[Time|tempo]]; e persino il
+racconto dei suoi nipoti assassinati non è certo, poiché è narrato da
+coloro che ci dicono anche che nacque con le zanne e che in origine era
+coperto di peli.  Eppure una nube cremisi non può essere dissipata dalla
+sua [[Memory|memoria]], e, tanto è contaminata la stessa aria di quel [[Time|tempo]] dalla
+carneficina, che non possiamo dire che egli fosse incapace persino delle
+cose di cui può essere stato [[Innocent|innocente]].  Che fosse o no un uomo buono,
+egli fu a quanto pare un buon [[King|re]] e persino uno popolare; eppure noi
+pensiamo a lui vagamente, e non, immagino, senza verità, come a uno
+tollerato per grazia.  Anticipò il Rinascimento in un anormale entusiasmo
+per l'arte e la musica, e pare si tenesse all'antico sentiero della
+religione e della [[Charity|carità]].  Non impugnava di continuo la [[Sword|spada]] e il
+pugnale perché il suo unico piacere fosse tagliare gole; probabilmente lo
+faceva perché era nervoso.  Fu l'età della nostra prima ritrattistica, e
+un bel ritratto coevo di lui getta una luce più plausibile su questo
+particolare dettaglio.  Poiché lo mostra mentre tocca, e probabilmente
+gira, un anello sul dito, proprio l'atto di una personalità tesa che
+tormenterebbe del pari un pugnale.  E nel suo volto, come lì dipinto,
+possiamo studiare tutto ciò che ha reso degno di indugiare così a lungo
+sul suo nome; un'atmosfera assai diversa da tutto ciò che venne prima e
+dopo.  Il volto era di una notevole [[Beauty|bellezza]] intellettuale; ma vi è
+qualcos'altro su quel volto che di per sé non è propriamente né buono né
+cattivo, e quella cosa è la [[Death|morte]]; la [[Death|morte]] di un'epoca, la [[Death|morte]] di
+una grande civiltà, la [[Death|morte]] di qualcosa che un tempo cantava al sole
+nel cantico di San Francesco e navigava ai confini della terra sulle navi
+della Prima Crociata, ma che in pace si stancò e rivolse le armi verso
+l'interno, ferì i propri fratelli, ruppe le proprie fedeltà, giocò
+d'azzardo per la [[Crown|corona]], e si fece febbrile persino riguardo al credo,
+e ha questa sola grazia fra le sue virtù morenti, che il suo valore è
+l'ultimo a morire.
+
+Ma qualunque altra cosa possa esserci stata di cattivo o di buono in
+[[Richard|Riccardo]] di [[Gloucester]], vi era in lui un tocco che lo rende veramente
+l'ultimo dei re medievali.  Esso è espresso nell'unica parola che egli
+gridò a gran voce mentre abbatteva nemico dopo nemico nell'ultima carica
+a Bosworth--tradimento.  Per lui, come per i primi re normanni,
+tradimento era lo stesso che slealtà; e in questo caso almeno era lo
+stesso che slealtà.  Quando i suoi nobili lo abbandonarono prima della
+battaglia, egli non lo considerò come una nuova combinazione politica, ma
+come il peccato di falsi amici e di servi infedeli.  Usando la propria
+voce come la tromba di un araldo, sfidò il suo rivale a un combattimento
+tanto personale quanto quello di due paladini di Carlomagno.  Il suo
+rivale non rispose, e non era probabile che rispondesse.  Il mondo
+moderno aveva avuto inizio.  Il grido echeggiò senza risposta giù per i
+secoli; poiché da quel giorno nessun [[King|re]] inglese ha più combattuto in
+quel modo.  Avendone uccisi molti, egli stesso fu ucciso e la sua
+diminuita schiera distrutta.  Così ebbe fine la guerra degli usurpatori;
+e l'ultimo e più dubbio di tutti gli usurpatori, un vagabondo dalle
+marche gallesi, un cavaliere venuto dal nulla, trovò la [[Crown|corona]]
+d'Inghilterra sotto un cespuglio di spine.
+
+--/--
 
 
 
@@ -11224,6 +11938,115 @@ into unnecessary things.  Luxury was made alive with a [[Soul|soul]].
 We must remember this real thirst for [[Beauty|beauty]]; for it is an explanation--
 and an excuse.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+XI
+
+LA RIBELLIONE DEI RICCHI
+
+[[Sir Thomas More|SIR TOMMASO MORO]], a prescindere da ogni discussione
+sulle maglie più mistiche in cui fu infine irretito e ucciso, sarà
+acclamato da tutti come un [[Hero|eroe]] della Nuova Cultura; quella grande
+[[Dawn|alba]] di una luce più razionale che a tanti fece parere il medievalismo
+una mera tenebra.  Qualunque cosa pensiamo del suo apprezzamento della
+[[Reformation|Riforma]], non vi sarà disputa sul suo apprezzamento del Rinascimento.
+Egli fu soprattutto un umanista, e un umanista assai umano.  Fu persino,
+per molti versi, assai moderno, il che alcuni suppongono piuttosto
+erroneamente essere la stessa cosa che essere umano; fu anche umano, nel
+senso di umanitario.  Abbozzò un ideale, o piuttosto forse un fantasioso
+sistema sociale, con qualcosa dell'ingegnosità del signor H. G. Wells, ma
+essenzialmente con molto più della frivolezza attribuita al signor
+Bernard [[Shaw]].  Non è giusto imputare le nozioni utopistiche alla sua
+[[morality|moralità]]; ma i loro temi e le loro suggestioni segnano ciò che (in
+mancanza di una parola migliore) possiamo soltanto chiamare il suo
+modernismo.  Così l'[[Immortality|immortalità]] degli [[Animals|animali]] è quel genere di
+trascendentalismo che sa di evoluzione, e lo scherzo più grossolano sui
+preliminari del [[Marriage|matrimonio]] potrebbe essere preso assai sul serio dagli
+studiosi di [[Eugenics|Eugenetica]].  Egli suggerì una sorta di pacifismo--benché gli
+Utopiani avessero un curioso modo di realizzarlo.  In breve, mentre egli
+era, insieme al suo amico Erasmo, un satirico degli abusi medievali,
+pochi negherebbero ora che il protestantesimo sarebbe stato per lui
+troppo angusto piuttosto che troppo ampio.  Se egli evidentemente non
+era un protestante, vi sono pochi protestanti che gli negherebbero il
+nome di Riformatore.  Ma egli fu un innovatore in cose più allettanti per
+le menti moderne della teologia; fu in parte ciò che chiameremmo un
+neopagano.  Il suo amico Colet riassunse quella fuga dal medievalismo che
+potrebbe chiamarsi il passaggio dal cattivo latino al buon greco.  Nei
+nostri vaghi dibattiti moderni essi vengono confusi insieme; ma la
+cultura greca fu la crescita di questo [[Time|tempo]]; vi era sempre stato un
+latino popolare, sia pure un latino da cani.  Sarebbe più vicino alla
+[[Truth|verità]] chiamare bilingui i medievali che chiamare il loro latino una
+lingua morta.  Il greco non divenne mai, certo, un possesso così
+generale; ma per l'uomo che lo acquisiva, non è troppo dire che egli si
+sentiva come se fosse all'aria aperta per la prima [[Time|volta]].  Molto di
+questo spirito greco si rifletté in Moro; la sua universalità, la sua
+urbanità, il suo equilibrio di ragione esuberante e fredda curiosità.
+È persino probabile che egli condividesse alcuni degli eccessi e degli
+errori di gusto che inevitabilmente infettarono il magnifico
+intellettualismo della reazione contro il Medioevo; possiamo
+immaginarlo mentre giudica gotiche le [[gargoyles|gargolle]], nel senso di
+barbariche, o persino mentre non si commuove, come si commuoveva
+Sydney, alla tromba di "Chevy Chase."  La ricchezza dell'antico mondo
+pagano, in arguzia, avvenenza ed [[Heroism|eroismo]] civico, era stata rivelata
+così di recente a quella generazione nella sua abbagliante profusione e
+perfezione, che poteva sembrare una bagatella se essa commetteva qua e
+là un'ingiustizia verso le reliquie dei Secoli Bui.  Quando, dunque,
+guardiamo il mondo con gli occhi di Moro guardiamo dalle più ampie
+finestre di quel [[Time|tempo]]; guardiamo su un paesaggio inglese visto per la
+prima [[Time|volta]] in modo assai uniforme, nella luce radente del sole al
+mattino.  Poiché ciò che egli vide era l'Inghilterra del Rinascimento;
+l'Inghilterra che passava dal medievale al moderno.  Così egli guardò
+fuori, e vide molte cose e disse molte cose, tutte degne e molte
+argute; ma notò una cosa che è a un tempo una fantasia orribile e un
+fatto casalingo e pratico.  Egli, che contemplava quel paesaggio, disse:
+"Le pecore stanno mangiando gli uomini."
+
+Questo singolare compendio della grande epoca della nostra emancipazione
+e illuminazione non è il fatto solitamente posto per primo in resoconti
+storici così assai laconici di essa.  Non ha nulla a che vedere con la
+[[Translation|traduzione]] della [[Bible|Bibbia]], o con il carattere di [[Henry VIII|Enrico VIII]], o con i
+caratteri delle mogli di [[Henry VIII|Enrico VIII]], o con i dibattiti triangolari fra
+Enrico e Lutero e il Papa.  Non erano pecore papiste che mangiavano
+uomini protestanti, o viceversa; né Enrico, in alcun periodo del suo pur
+breve e piuttosto sconcertante papato, ebbe martiri mangiati dagli agnelli
+come i pagani li avevano fatti mangiare dai leoni.  Ciò che si intendeva,
+naturalmente, con questa pittoresca espressione, era che un tipo
+intensivo di agricoltura stava cedendo il passo a un tipo assai estensivo
+di pascolo.  Grandi distese d'Inghilterra che fino allora erano state
+suddivise nella comunità di un certo numero di agricoltori venivano poste
+sotto la sovranità di un solitario pastore.  Il punto è stato espresso,
+con un tocco di [[Epigram|epigramma]] piuttosto alla maniera dello stesso Moro, dal
+signor J. Stephen, in un notevole [[Essay|saggio]] ora, credo, reperibile solo
+negli arretrati di The New Witness.  Egli enunciò il [[Paradox|paradosso]] che
+l'individuo tanto ammirato, che faceva crescere due fili d'erba invece di
+uno, era un assassino.  Nello stesso articolo, il signor Stephen tracciò
+le vere origini morali di questo movimento, che condusse alla crescita di
+tanta erba e all'assassinio, o quantomeno alla distruzione, di tanta
+umanità.  Lo fece risalire, e ogni vero resoconto di quella trasformazione
+lo fa risalire, alla crescita di una nuova raffinatezza, in un certo senso
+una raffinatezza più razionale, nella classe dirigente.  Il signore
+medievale era stato, in confronto, un tipo rozzo; aveva semplicemente
+vissuto nel più grande tipo di [[house|casa]] colonica alla maniera del più
+grande tipo di agricoltore.  Beveva vino quando poteva, ma era pronto a
+bere birra; e la scienza non aveva ancora lisciato i suoi sentieri con la
+benzina.  In un [[Time|tempo]] più tardo di questo, una delle più grandi dame
+d'Inghilterra scrive al marito che non può raggiungerlo perché i cavalli
+della sua carrozza stanno tirando l'aratro.  Nel vero Medioevo i più
+grandi uomini erano ancor più rozzamente impacciati, ma nel [[Time|tempo]] di
+[[Henry VIII|Enrico VIII]] la trasformazione cominciava.  Nella generazione successiva
+era comune una frase che è una delle chiavi del [[Time|tempo]], ed è assai la
+chiave di questi più ambiziosi disegni territoriali.  Questo o quel gran
+signore veniva detto "Italianizzato."  Significava forme più sottili di
+[[Beauty|bellezza]], vetro delicato e duttile, oro e argento trattati non come pietre
+barbariche ma piuttosto come steli e ghirlande di metallo fuso, specchi,
+carte e simili ninnoli che recavano un carico di [[Beauty|bellezza]]; significava la
+perfezione delle bagatelle.  Non era, come nell'artigianato gotico
+popolare, il tocco quasi inconscio dell'arte su tutte le cose necessarie:
+era piuttosto il riversare l'intera [[Soul|anima]] dell'arte appassionatamente
+consapevole soprattutto nelle cose non necessarie.  Il lusso fu reso vivo
+con un'[[Soul|anima]].  Dobbiamo ricordare questa reale sete di [[Beauty|bellezza]]; poiché
+essa è una spiegazione--e una scusa.
 
 
 
@@ -11358,6 +12181,142 @@ off England from Europe, but what was even more important,
 he cuts off England from England.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+L'antica baronia era stata in verità assottigliata dalle guerre
+civili che si chiusero a Bosworth, e ridotta dalla politica
+parsimoniosa e astuta di quel [[King|re]] così poco regale,
+Enrico VII. Egli stesso era un «uomo nuovo», e vedremo i baroni
+cedere in gran parte il posto a un'intera nobiltà di uomini nuovi.
+Ma già le famiglie più antiche avevano il volto rivolto nella
+direzione più nuova. Alcune di esse, gli Howard, per esempio,
+si può dire che figurassero al tempo stesso come famiglie vecchie
+e nuove. In ogni caso lo spirito dell'intera classe superiore
+può essere descritto come sempre più nuovo. L'aristocrazia inglese,
+che è la creazione principale della [[Reformation|Riforma]],
+ha innegabilmente diritto a un certo elogio, che oggi è quasi
+universalmente considerato un elogio altissimo. Fu sempre
+progressista. Si accusano gli aristocratici di essere orgogliosi
+dei loro antenati; si può dire con verità che gli aristocratici
+inglesi sono stati piuttosto orgogliosi dei loro discendenti.
+Per i loro discendenti progettarono immense fondazioni e
+ammassarono [[Mountains|montagne]] di ricchezza; per i loro
+discendenti lottarono per un posto sempre più alto nel
+[[government|governo]] dello Stato; per i loro discendenti,
+soprattutto, alimentarono ogni nuova scienza o disegno di
+[[philosophy|filosofia]] sociale. Colsero le vaste occasioni
+economiche del pascolo; ma prosciugarono anche le paludi.
+Spazzarono via i preti, ma si degnarono di accogliere i filosofi.
+Man mano che la nuova [[house|casata]] Tudor attraversa le sue
+generazioni, si va formando una civiltà nuova e più razionalista;
+gli eruditi criticano i testi autentici; gli scettici screditano
+non solo i santi papisti ma anche i filosofi pagani; gli specialisti
+analizzano e razionalizzano le tradizioni, e le pecore divorano
+gli uomini.
+
+Abbiamo visto che nel quattordicesimo secolo in Inghilterra vi fu
+una vera rivoluzione dei poveri. Andò assai vicina al successo;
+e non ho bisogno di nascondere la convinzione che sarebbe stata
+la cosa migliore possibile per tutti noi se fosse pienamente
+riuscita. Se [[Richard II|Riccardo II]] fosse davvero balzato
+in sella al posto di Wat Tyler, o meglio se il suo parlamento
+non l'avesse disarcionato quando vi era giunto, se avesse
+confermato il fatto della nuova [[Freedom|libertà]] contadina
+con qualche forma di autorità regia, come già era comune
+confermare il fatto delle Trade Unions con la forma di una carta
+regia, il nostro paese avrebbe probabilmente avuto una
+[[history|storia]] tanto felice quanto è possibile alla
+[[Nature|natura]] umana. Il Rinascimento, quando venne, sarebbe
+venuto come [[Education|educazione]] popolare e non come cultura
+di un circolo di esteti. Il Nuovo Sapere avrebbe potuto essere
+democratico quanto l'antico sapere degli antichi giorni della
+[[Paris|Parigi]] e della [[Oxford]] medievali. La squisita arte
+della scuola di Cellini avrebbe potuto essere soltanto il grado
+più alto del mestiere di una corporazione. Il dramma
+shakespeariano avrebbe potuto essere recitato da operai su palchi
+di legno eretti per strada come Pulcinella, il più fine compimento
+del dramma sacro quale veniva recitato da una corporazione.
+Gli attori non avrebbero avuto bisogno di essere «i servi del
+[[King|re]]», ma padroni di sé stessi. Il grande Rinascimento
+avrebbe potuto essere liberale con la sua liberale
+[[Education|educazione]]. Se questa è una fantasia, è almeno una
+di quelle che non si possono confutare; la rivoluzione medievale
+fu troppo poco riuscita al principio perché alcuno possa mostrare
+che avrebbe dovuto essere altrettanto poco riuscita alla fine.
+Il parlamento feudale prevalse, e ricacciò i contadini almeno
+nel loro status dubbio e semisviluppato. Dire più di questo
+sarebbe esagerato, e un mero anticipare gli eventi veramente
+decisivi che seguirono. Quando [[Henry VIII|Enrico VIII]] salì
+al trono le corporazioni erano forse frenate ma apparentemente
+immutate, e persino i contadini avevano probabilmente riguadagnato
+terreno; molti erano ancora teoricamente servi della gleba,
+ma in gran parte sotto il mite dominio fondiario degli abati;
+il sistema medievale reggeva ancora. Avrebbe potuto, per quel che
+ne sappiamo, cominciare a crescere di nuovo; ma tutte queste
+congetture sono travolte da cose nuove e assai strane. Il
+fallimento della rivoluzione dei poveri fu alla fine seguito da
+una controrivoluzione; una riuscita rivoluzione dei ricchi.
+
+Il perno apparente di essa fu in certi eventi, politici e persino
+personali. Si riducono grosso modo a due: i matrimoni di
+[[Henry VIII|Enrico VIII]] e la faccenda dei monasteri.
+I matrimoni di [[Henry VIII|Enrico VIII]] sono da tempo una
+barzelletta popolare e persino trita; e vi è una [[Truth|verità]]
+di tradizione nella barzelletta, come vi è in quasi ogni
+barzelletta se è abbastanza popolare, e in verità se è abbastanza
+trita. Una cosa scherzosa non vive tanto da diventare trita se non
+è anche seria. Enrico fu popolare nei suoi primi giorni, e persino
+i contemporanei stranieri ci danno un quadro davvero glorioso di
+un giovane principe del Rinascimento, raggiante di tutte le nuove
+doti. Nei suoi ultimi giorni era qualcosa di molto simile a un
+maniaco; non ispirava più [[Love|amore]], e persino quando
+ispirava [[Fear|paura]], era piuttosto la [[Fear|paura]] di un
+cane rabbioso che di un cane da guardia. In questo mutamento senza
+dubbio ebbero gran parte l'incoerenza e persino l'ignominia delle
+sue nozze da Barbablù. Ed è giusto verso di lui dire che, forse
+con l'eccezione della prima e dell'ultima, egli fu quasi
+altrettanto sfortunato nelle sue mogli quanto esse lo furono nel
+loro marito. Ma fu senza dubbio la faccenda del primo
+[[divorce|divorzio]] che spezzò le reni al suo [[Honour|onore]],
+e per inciso spezzò un gran numero di altre cose ben più preziose
+e universali. Per cogliere il senso della sua furia dobbiamo
+comprendere che egli non si considerava il nemico ma piuttosto
+l'amico del Papa; vi è un'[[Shadow|ombra]] della vecchia storia
+di Becket. Aveva difeso il Papa nella diplomazia e la Chiesa nella
+controversia; e quando si stancò della sua [[Queen|regina]]
+e s'invaghì appassionatamente di una delle sue dame, Anna Bolena,
+sentì vagamente che una concessione piuttosto cinica, in quell'età
+di ciniche concessioni, avrebbe ben potuto essergli fatta da un
+amico. Ma è parte di quell'alta incoerenza che è il destino della
+[[Faith|fede]] cristiana nelle mani umane, che nessun uomo sa
+quando il lato più alto di essa sarà davvero in cima, non fosse
+che per un istante; e che le peggiori epoche della Chiesa non
+mancheranno di fare o dire qualcosa, come per caso, che è degno
+delle migliori. Comunque sia, per qualunque ragione, Enrico cercò
+di appoggiarsi ai cuscini di Leone e trovò di aver urtato il
+braccio contro la roccia di Pietro. Il Papa negò il nuovo
+[[Marriage|matrimonio]]; ed Enrico, in una [[Storm|tempesta]] e in
+un buio d'ira, sciolse tutte le antiche relazioni col Papato.
+È probabile che allora non sapesse chiaramente quanto stava
+facendo; ed è assai sostenibile che non lo sappiamo neppure ora.
+Certamente non pensava di essere anti-cattolico; e, in un senso
+piuttosto ridicolo, difficilmente possiamo dire che pensasse di
+essere anti-papale, poiché a quanto pare pensava di essere lui
+stesso un papa. Da questo giorno data davvero qualcosa che ebbe
+una certa parte nella [[history|storia]], la più moderna dottrina
+del diritto divino dei re, assai diversa da quella medievale.
+È una faccenda che imbarazza ulteriormente la questione aperta
+sulla continuità delle cose cattoliche nell'anglicanesimo, poiché
+fu una nota nuova eppure suonata dal partito più antico. La
+supremazia del [[King|re]] sulla chiesa nazionale inglese non fu,
+purtroppo, un mero capriccio del [[King|re]], ma divenne in parte,
+e per un periodo, un capriccio della chiesa. Ma a prescindere da
+tutte le questioni controverse, vi è almeno un senso umano e
+storico in cui la continuità del nostro passato è pericolosamente
+spezzata a questo punto. Enrico non solo tagliò fuori l'Inghilterra
+dall'Europa, ma, cosa ancor più importante, taglia fuori
+l'Inghilterra dall'Inghilterra.
+
 
 
 <span class="atom-split" data-atom="chapter_11--part_03" data-title="A Short History of England — Chapter 11 (part 3)" data-chapter="Chapter 11" data-kind="excerpt" data-tags="archetype/king,archetype/tyrant,motif/death,motif/love,motif/nature,motif/rose,motif/soul,motif/time,motif/well,concept/charity,concept/history,concept/nature,concept/reform,concept/truth,form/history,histref/christianity,histref/reformation,setting/germany,character/christ,character/monks,character/richard_ii"></span>
@@ -11475,6 +12434,127 @@ called a [[Reform|reform]], would have rendered quite impossible everything
 that we now know as the [[Reformation]].
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Il grande [[divorce|divorzio]] fece cadere Wolsey, il potente
+ministro che aveva tenuto in equilibrio la bilancia tra l'Impero
+e la Monarchia francese, e aveva creato il moderno equilibrio di
+potere in Europa. Viene spesso descritto sotto il motto di Ego et
+Rex Meus; ma egli segna una tappa nella vicenda inglese piuttosto
+perché ne soffrì che perché lo disse. Ego et Rex Meus potrebbe
+essere il motto di qualsiasi moderno Primo Ministro; poiché
+abbiamo dimenticato il fatto stesso che la parola ministro
+significa semplicemente servo. Wolsey fu l'ultimo grande servo che
+poté essere, e fu, semplicemente congedato; il segno di una
+monarchia ancora assoluta; gli inglesi ne furono stupiti nella
+moderna [[Germany|Germania]], quando Bismarck fu allontanato come
+un maggiordomo. Un atto più tremendo dimostrò che la nuova forza
+era già inumana; abbatté il più nobile degli Umanisti. Tommaso
+Moro, che talvolta pareva un epicureo sotto Augusto, morì la
+[[Death|morte]] di un santo sotto Diocleziano. Morì scherzando
+gloriosamente; e la [[Death|morte]] ha naturalmente fatto emergere
+per noi piuttosto i sacri profumi della sua [[Soul|anima]]; la sua
+tenerezza e la sua fiducia nella [[Truth|verità]] di Dio. Ma per
+l'Umanesimo dev'essere parso un sacrificio mostruoso; fu in
+qualche modo come se Montaigne fosse un martire. E questa è davvero
+la nota; qualcosa che si può veramente chiamare innaturale era già
+entrato nel naturalismo del Rinascimento; e l'[[Soul|anima]] del
+grande cristiano [[Rose|insorse]] contro di esso. Egli indicò il
+sole, dicendo «Io sarò al di sopra di quel tale» con familiarità
+francescana, che sa [[Love|amare]] la [[Nature|natura]] perché non
+vuole adorarla. Così lasciò al suo [[King|re]] il sole, che per
+tanti giorni e anni stanchi doveva tramontare solo sulla sua ira.
+
+Ma il processo più impersonale che Moro stesso aveva osservato
+(come notato all'inizio di questo capitolo) è definito più
+chiaramente, e meno annebbiato da controversie, nella seconda
+delle due parti della politica di Enrico. Vi è invero una
+controversia sui monasteri; ma è una di quelle che si chiariscono
+e si assestano ogni giorno. Ora è vero che la Chiesa, all'epoca
+del Rinascimento, aveva raggiunto una considerevole corruzione;
+ma le vere prove di ciò sono del tutto diverse sia dalla pretesa
+dispotica contemporanea sia dalla comune storia protestante.
+È follemente ingiusto, per esempio, citare le lettere di vescovi
+e simili autorità che denunciano i peccati della vita monastica,
+per quanto violente esse siano spesso. Non possono essere più
+violente delle lettere di san Paolo alle più pure e primitive
+delle chiese; l'apostolo scriveva là a quei primi cristiani che
+tutte le chiese idealizzano; e parla loro come a tagliagole e
+ladri. La spiegazione, per chi si interessa di simili sottigliezze,
+si può forse trovare nel fatto che il [[Christianity|Cristianesimo]]
+non è un credo per uomini buoni, ma per uomini. Lettere simili
+erano state scritte in tutti i secoli; e persino nel sedicesimo
+secolo esse non provano tanto che vi fossero cattivi abati quanto
+che vi fossero buoni vescovi. Tuttavia, persino coloro che
+professano che i [[Monks|monaci]] fossero dissoluti non osano
+professare che fossero oppressori; vi è [[Truth|verità]]
+nell'osservazione di Cobbett che là dove i [[Monks|monaci]] erano
+proprietari terrieri, non diventavano proprietari da affitti
+esosi, e non potevano diventare proprietari assenteisti. Ciò
+nondimeno, vi era una debolezza nelle buone istituzioni tanto
+[[Well|bene]] quanto una mera forza nelle cattive; e quella
+debolezza partecipa del peggior elemento del [[Time|tempo]]. Nella
+caduta delle cose buone vi è quasi sempre un tocco di tradimento
+dall'interno; e gli abati furono distrutti più facilmente perché
+non fecero fronte comune. Non fecero fronte comune perché lo
+spirito dell'epoca (che è assai spesso il peggior nemico
+dell'epoca) era la crescente divisione tra ricchi e poveri; ed
+essa aveva in parte diviso persino il clero ricco e povero. E il
+tradimento venne, come quasi sempre viene, da quel servo di
+[[Christ|Cristo]] che tiene la borsa.
+
+Per prendere un moderno attacco alla libertà, su un piano assai
+più basso, ci è familiare l'immagine di un politico che va dai
+grandi birrai, o persino dai grandi proprietari d'alberghi, e fa
+notare l'inutilità di una nidiata di piccole osterie. Questo è ciò
+che i politici Tudor fecero dapprima con i monasteri. Andarono dai
+capi delle grandi case e proposero l'estinzione delle piccole.
+I grandi signori monastici non resistettero, o, in ogni caso, non
+resistettero abbastanza; e il saccheggio delle case religiose
+cominciò. Ma se i signori abati agirono per un momento da signori,
+ciò non poteva scusarli, agli occhi di signori assai più grandi,
+per aver frequentemente agito da abati. Un momentaneo schierarsi
+con la causa dei ricchi non cancellò l'onta di mille piccole
+ingerenze che erano tornate solo a vantaggio dei poveri; e presto
+avrebbero appreso che non era un'epoca per il loro comodo governo
+e la loro noncurante ospitalità. Le grandi case, ora isolate,
+furono a loro volta abbattute una a una; e il mendicante, cui il
+monastero aveva servito da sorta di sacra taverna, vi giunse a
+sera e la trovò in rovina. Poiché una [[philosophy|filosofia]]
+nuova e vasta era nel mondo, che ancora governa la nostra società.
+Secondo questo credo la maggior parte delle mistiche virtù degli
+antichi [[Monks|monaci]] è stata semplicemente tramutata in grandi
+peccati; e la più grande di queste è la [[Charity|carità]].
+
+Ma il popolo che era insorto sotto [[Richard II|Riccardo II]] non
+era ancora disarmato. Era addestrato nella rude disciplina
+dell'arco e della picca, e organizzato in gruppi locali di città,
+corporazione e maniero. In più della metà delle contee
+d'Inghilterra il popolo [[Rose|insorse]], e combatté un'ultima
+battaglia per la visione del Medioevo. Il principale strumento
+della nuova tirannia, un individuo sordido di nome Thomas
+Cromwell, fu additato in particolare come il [[Tyrant|tiranno]],
+ed egli stava in effetti rapidamente trasformando ogni
+[[government|governo]] in un [[nightmare|incubo]]. Il moto popolare
+fu represso in parte con la forza; e vi è la nuova nota del
+moderno militarismo nel fatto che fu represso da cinici soldati di
+professione, effettivamente fatti venire da paesi stranieri, che
+distrussero la religione inglese per denaro. Ma, come l'antica
+rivolta popolare, fu ancor più represso con la frode. Come
+l'antica rivolta, fu abbastanza trionfante da costringere il
+[[government|governo]] a un negoziato; e il [[government|governo]]
+dovette ricorrere al semplice espediente di calmare il popolo con
+promesse, e poi procedere a rompere prima le promesse e poi il
+popolo, secondo la maniera resaci familiare dai moderni politici
+nel loro atteggiamento verso i grandi scioperi. La rivolta portò
+il nome di Pellegrinaggio della Grazia, e il suo programma era
+praticamente la restaurazione dell'antica religione. In connessione
+con la fantasia sul destino dell'Inghilterra se Tyler avesse
+trionfato, essa prova, credo, una cosa; che il suo trionfo, mentre
+avrebbe potuto o meno condurre a qualcosa che si potesse chiamare
+una [[Reform|riforma]], avrebbe reso del tutto impossibile tutto
+ciò che oggi conosciamo come la [[Reformation|Riforma]].
+
 
 
 <span class="atom-split" data-atom="chapter_11--part_04" data-title="A Short History of England — Chapter 11 (part 4)" data-chapter="Chapter 11" data-kind="excerpt" data-tags="archetype/detective,archetype/king,archetype/rebel,archetype/shadow,motif/blood,motif/crown,motif/desire,motif/rose,motif/time,motif/well,concept/doubt,concept/greed,concept/history,concept/self,concept/truth,form/history,form/tragedy,histref/inquisition,character/pompey"></span>
@@ -11574,6 +12654,107 @@ at the foot of the statue of [[Pompey]].
 
 --/--
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Il regime di terrore instaurato da Thomas Cromwell divenne
+un'[[Inquisition|Inquisizione]] della specie più nera e
+insopportabile. Gli storici, che non hanno [[Shadow|ombra]] di
+simpatia per l'antica religione, concordano che essa fu sradicata
+con mezzi più orribili di quanti forse ne siano mai stati
+impiegati in Inghilterra prima o dopo. Fu un [[government|governo]]
+di torturatori reso onnipresente dalle spie. La spoliazione dei
+monasteri in particolare fu compiuta non solo con una violenza che
+richiamava la barbarie, ma con una minuzia per la quale non vi è
+altra parola se non meschinità. Era come se il danese fosse
+tornato nei panni di un [[Detective|detective]]. L'incoerenza
+dell'atteggiamento personale del [[King|re]] verso il
+cattolicesimo complicò invero la congiura con nuove brutalità
+verso i protestanti; ma quella reazione che vi fu in ciò era
+interamente teologica. Cromwell perse quel favore incostante e fu
+giustiziato, ma il terrorismo proseguì tanto più terribilmente per
+essere semplificato all'unica visione dell'ira del [[King|re]].
+Culminò in un atto strano che chiude simbolicamente la storia
+narrata in una pagina precedente. Poiché il despota si vendicò su
+un [[Rebel|ribelle]] la cui sfida gli pareva risuonare attraverso
+tre secoli. Devastò il più popolare santuario degli inglesi, il
+santuario verso cui Chaucer aveva un tempo cavalcato cantando,
+perché era anche il santuario dove il [[King|re]] Enrico si era
+inginocchiato a pentirsi. Per tre secoli la Chiesa e il popolo
+avevano chiamato Becket un santo, quando Enrico Tudor sorse e lo
+chiamò un traditore. Questo ben potrebbe essere ritenuto il punto
+più alto dell'autocrazia; eppure non lo era davvero.
+
+Poiché allora [[Rose|s'innalzò]] alla sua suprema altezza di
+rivelazione di [[Self|sé]] quel qualcosa ancora più strano di cui,
+forse fantasiosamente, abbiamo trovato accenni prima in questa
+[[history|storia]]. Il forte [[King|re]] era debole. Era
+incommensurabilmente più debole dei re forti del Medioevo; e sia o
+no che il suo fallimento fosse stato presagito, egli fallì. La
+breccia che aveva aperto nell'argine delle antiche dottrine lasciò
+entrare un'inondazione che si può quasi dire lo abbia spazzato via.
+In un certo senso egli scomparve prima di morire; poiché il dramma
+che riempì i suoi ultimi giorni non è più il dramma del suo stesso
+carattere. Possiamo porre la questione nel modo più pratico
+dicendo che è impratico discutere se Froude trovi qualche
+giustificazione per i delitti di Enrico nel [[Desire|desiderio]]
+di creare una forte monarchia nazionale. Poiché sia o no che fosse
+desiderata, essa non fu creata. Meno di tutti i nostri principi i
+Tudor lasciarono dietro di sé un sicuro [[government|governo]]
+centrale, e il [[Time|tempo]] in cui la monarchia era al suo peggio
+viene solo una o due generazioni prima del [[Time|tempo]] in cui
+era più debole. Ma pochi anni dopo, per come va la
+[[history|storia]], le relazioni tra la [[Crown|Corona]] e i suoi
+nuovi servi dovevano essere rovesciate su un alto palcoscenico
+così da inorridire il mondo; e la scure che era stata santificata
+col [[Blood|sangue]] di Moro e insozzata col [[Blood|sangue]] di
+Cromwell doveva, al segnale di uno dei discendenti di quello stesso
+servo, cadere e uccidere un [[King|re]] inglese.
+
+La marea che così irruppe attraverso la breccia e travolse il
+[[King|re]] non meno della Chiesa fu la rivolta dei ricchi, e
+specialmente dei nuovi ricchi. Usarono il nome del [[King|re]], e
+non avrebbero potuto prevalere senza il suo potere, ma l'effetto
+ultimo fu piuttosto come se avessero saccheggiato il [[King|re]]
+dopo che egli aveva saccheggiato i monasteri. Sorprendentemente
+poco della ricchezza, considerando il nome e la teoria della cosa,
+rimase davvero in mani regie. Il caos fu accresciuto, senza
+[[Doubt|dubbio]], dal fatto che Edoardo VI succedette al trono da
+semplice fanciullo, ma la [[Truth|verità]] più profonda si può
+vedere nella difficoltà di tracciare una qualsiasi vera linea tra
+i due regni. Sposandosi nella famiglia Seymour, e procurandosi
+così un figlio, Enrico aveva anche procurato al paese proprio il
+tipo di famiglia potente che doveva governare unicamente col
+saccheggio. Un'enorme e innaturale [[Tragedy|tragedia]],
+l'esecuzione di uno dei Seymour da parte del proprio fratello, fu
+inscenata durante l'impotenza del fanciullo [[King|re]], e il
+Seymour vincente figurò come Lord Protettore, benché persino egli
+avrebbe trovato difficile dire cosa stesse proteggendo, poiché non
+era neppure la propria famiglia. Comunque sia, non è troppo dire
+che ogni cosa umana fu lasciata indifesa dall'[[Greed|avidità]] di
+simili protettori cannibali. Parliamo della dissoluzione dei
+monasteri, ma ciò che avvenne fu la dissoluzione dell'intera
+vecchia civiltà. Avvocati e lacchè e usurai, i più meschini degli
+uomini fortunati, saccheggiarono l'arte e l'economia del Medioevo
+come ladri che derubano una chiesa. I loro nomi (quando non li
+cambiarono) divennero i nomi dei grandi duchi e marchesi dei
+nostri giorni. Ma se guardiamo avanti e indietro nella nostra
+[[history|storia]], forse l'atto più fondamentale di distruzione
+avvenne quando gli uomini armati dei Seymour e dei loro simili
+passarono dal saccheggio dei Monasteri al saccheggio delle
+Corporazioni. Le Trade Unions medievali furono abbattute, i loro
+edifici sfondati dalla soldataglia, e i loro fondi sequestrati
+dalla nuova nobiltà. E questo semplice episodio toglie ogni comune
+significato all'asserzione (in sé abbastanza plausibile) che le
+Corporazioni, come ogni altra cosa a quel [[Time|tempo]],
+probabilmente non erano al loro meglio. La proporzione è l'unica
+cosa pratica; e può essere vero che Cesare non si sentisse
+[[Well|bene]] la mattina delle Idi di marzo. Ma dire semplicemente
+che le Corporazioni declinarono è vero press'a poco quanto dire
+che Cesare tranquillamente decadde per cause puramente naturali ai
+piedi della statua di [[Pompey|Pompeo]].
+
+--/--
 
 
 
@@ -11697,6 +12878,135 @@ matured which was wider and mightier than the plots of princes.
 The Englishman, standing on his little island as on a lonely boat,
 had already felt falling across him the [[Shadow|shadow]] of a tall [[Ship|ship]].
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+XII
+
+SPAGNA E LO SCISMA DELLE NAZIONI
+
+LA rivoluzione che nacque da ciò che si chiama il Rinascimento, e
+finì in alcuni paesi in ciò che si chiama la [[Reformation|Riforma]],
+fece nella politica interna dell'Inghilterra una cosa drastica e
+precisa. Quella cosa fu la distruzione delle istituzioni dei poveri.
+Non fu l'unica cosa che fece, ma fu di gran lunga la più pratica.
+Fu la base di tutti i problemi ora connessi con il Capitale e il
+Lavoro. Quanto le teorie teologiche del [[Time|tempo]] vi abbiano
+avuto a che fare è una questione perfettamente aperta a diversità
+d'opinione. Ma nessuno dei due partiti, se istruito sui fatti,
+negherà che lo stesso [[Time|tempo]] e temperamento che produsse lo
+scisma religioso produsse anche questa nuova illegalità nei ricchi.
+Il protestante più estremo sarà probabilmente contento di dire che
+il protestantesimo non fu il movente, ma la maschera. Il cattolico
+più estremo sarà probabilmente contento di ammettere che il
+protestantesimo non fu il peccato, ma piuttosto il castigo. La
+parte più radicale e sfrontata del processo non fu completa,
+invero, fino alla fine del diciottesimo secolo, quando il
+protestantesimo stava già passando nello scetticismo. Anzi, si
+potrebbe costruire un caso assai decoroso a favore del
+[[Paradox|paradosso]] che il [[Puritanism|Puritanesimo]] fosse dal
+principio alla fine una vernice sul Paganesimo; che la cosa
+cominciò nella smodata sete di cose nuove nella nobiltà del
+Rinascimento e finì nell'Hell-[[Fire]] Club. Comunque sia, ciò che
+fu prima fondato alla [[Reformation|Riforma]] fu una nuova e
+anormalmente potente aristocrazia, e ciò che fu distrutto, in
+misura sempre crescente, fu tutto ciò che poteva essere posseduto,
+direttamente o indirettamente, dal popolo a dispetto di una tale
+aristocrazia. Questo fatto ha riempito tutta la successiva
+[[history|storia]] del nostro paese; ma il prossimo punto
+particolare in quella [[history|storia]] riguarda la posizione
+della [[Crown|Corona]]. Il [[King|re]], in realtà, era già stato
+spinto da parte a gomitate dai cortigiani che si erano accalcati
+dietro di lui proprio prima che la porta cedesse. Il [[King|re]] è
+lasciato indietro nella corsa alla ricchezza, e già non può far
+nulla [[Alone|da solo]]. E di questo fatto il regno successivo,
+dopo il caos di quello di Edoardo VI, offre una prova assai
+impressionante.
+
+Maria Tudor, figlia della ripudiata [[Queen Katherine|regina Caterina]],
+ha cattiva fama persino nella [[history|storia]] popolare; e il
+pregiudizio popolare è generalmente più degno di studio del
+sofisma dotto. I suoi nemici sbagliavano invero in gran parte sul
+suo carattere, ma non sbagliavano sul suo effetto. Era, nel senso
+limitato, una buona donna, convinta, coscienziosa, piuttosto
+morbosa. Ma è vero che fu una cattiva [[Queen|regina]]; cattiva per
+molte cose, ma specialmente cattiva per la sua stessa causa più
+amata. È vero, a conti fatti, che si accinse a estirpare con il
+fuoco il «No al Papismo» e riuscì invece a imprimerlo con il fuoco.
+La concentrazione del suo [[Fanaticism|fanatismo]] nella crudeltà,
+specialmente la sua concentrazione in luoghi particolari e in un
+breve [[Time|tempo]], rimase invero come qualcosa di rovente nella
+[[Memory|memoria]] pubblica. Fu il primo della serie di grandi
+incidenti storici che separarono un'opinione pubblica reale, se non
+universale, dall'antico regime. Esso è stato riassunto nella
+[[Death|morte]] per [[Fire|fuoco]] dei tre famosi martiri a
+[[Oxford]]; poiché uno di essi almeno, Latimer, era un riformatore
+del tipo più robusto e umano, benché un altro di essi, [[Cranmer]],
+fosse stato uno snob e un vigliacco tanto insinuante nei consigli
+di [[Henry VIII|Enrico VIII]] da far sembrare Thomas Cromwell, al
+confronto, un uomo. Ma di ciò che si può chiamare la tradizione di
+Latimer, il protestantesimo più sano e più genuino, parlerò più
+avanti. All'epoca persino i Martiri di [[Oxford]] produssero
+probabilmente meno pietà e ripugnanza del massacro tra le fiamme
+di molti più oscuri entusiasti, la cui stessa ignoranza e
+[[Poverty|povertà]] faceva sembrare la loro causa più popolare di
+quanto realmente fosse. Ma quest'ultimo brutto tratto fu portato in
+più netto rilievo, e produsse più consapevole o inconsapevole
+amarezza, a causa di quell'altro grande fatto di cui ho parlato
+sopra, che è la prova determinante di questo [[Time|tempo]] di
+transizione.
+
+Ciò che fece tutta la differenza fu questo: che persino in questo
+regno cattolico la proprietà della [[Catholic Church|Chiesa cattolica]]
+non poté essere restituita. Il fatto stesso che Maria fosse una
+fanatica, e tuttavia questo atto di giustizia fosse al di là dei
+più sfrenati [[Dreams|sogni]] del [[Fanaticism|fanatismo]]--questo
+è il punto. Il fatto stesso che fosse abbastanza irata da commettere
+torti per la Chiesa, e tuttavia non abbastanza audace da chiedere i
+diritti della Chiesa--questo è la prova del [[Time|tempo]]. Le fu
+permesso di privare piccoli uomini della loro vita, non le fu
+permesso di privare grandi uomini della loro proprietà--o piuttosto
+della proprietà altrui. Poté punire l'eresia, non poté punire il
+sacrilegio. Fu costretta nella falsa posizione di uccidere uomini
+che non erano andati in chiesa, e di risparmiare uomini che vi
+erano andati per rubare gli ornamenti della chiesa. Cosa la
+costrinse a ciò? Non certo il suo stesso atteggiamento religioso,
+che era quasi maniacalmente sincero; non l'opinione pubblica, che
+naturalmente aveva assai più simpatia per le umanità religiose che
+ella non restituì che per le disumanità religiose che ella compì.
+La forza venne, naturalmente, dalla nuova nobiltà e dalla nuova
+ricchezza che essi rifiutavano di cedere; e il [[success|successo]]
+di questa precoce pressione prova che la nobiltà era già più forte
+della [[Crown|Corona]]. Lo scettro era stato usato solo come un
+piede di porco per scardinare la porta di una [[house|casa]] del
+tesoro, e fu esso stesso spezzato, o almeno piegato, dal colpo.
+
+Vi è una [[Truth|verità]] anche nell'insistenza popolare sulla
+storia di Maria che aveva «Calais» scritto nel cuore, quando
+l'ultima reliquia delle conquiste medievali tornò alla Francia.
+Maria ebbe la solitaria ed eroica mezza-virtù dei Tudor: era una
+patriota. Ma i patrioti sono spesso pateticamente indietro coi
+tempi; poiché il fatto stesso che si soffermino sui vecchi nemici
+spesso li acceca ai nuovi. In una generazione successiva Cromwell
+esibì lo stesso errore rovesciato, e continuò a tenere un occhio
+ostile sulla Spagna quando avrebbe dovuto tenerlo sulla Francia.
+Nel nostro stesso [[Time|tempo]] i Jingoes di Fashoda lo tennero
+sulla Francia quando avrebbero già dovuto tenerlo sulla
+[[Germany|Germania]]. Senza alcuna particolare intenzione
+anti-nazionale, Maria si mise nondimeno in una posizione
+anti-nazionale verso il più tremendo problema internazionale del
+suo popolo. È la seconda delle coincidenze che confermarono il
+mutamento del sedicesimo secolo, e il suo nome era Spagna. Figlia
+di una [[Queen|regina]] spagnola, sposò un principe spagnolo, e
+probabilmente non vide in una tale alleanza più di quanto vi avesse
+visto suo padre. Ma quando le succedette sua sorella Elisabetta,
+che era più tagliata fuori dall'antica religione (benché assai
+tenuamente legata alla nuova), e quando il progetto di un simile
+[[Marriage|matrimonio]] spagnolo per Elisabetta stessa era fallito,
+qualcosa era maturato che era più ampio e più possente degli
+intrighi dei principi. L'inglese, ritto sulla sua piccola isola
+come su una barca solitaria, aveva già sentito calare su di sé
+l'[[Shadow|ombra]] di un'alta [[Ship|nave]].
 
 
 
@@ -11834,6 +13144,144 @@ The [[Shadow|shadow]] of racial fatalism first fell across our path,
 and far away in distance and darkness something moved that men
 had almost forgotten.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Luoghi comuni di legno sulla nascita dell'Impero Britannico e sui
+giorni spaziosi della [[Queen Elizabeth|regina Elisabetta]] non
+hanno soltanto oscurato ma contraddetto la cruciale [[Truth|verità]].
+Da simili frasi si immaginerebbe che l'Inghilterra, in qualche modo
+imperiale, ora si rendesse conto per la prima volta di essere
+grande. Sarebbe assai più vero dire che ora si rendeva conto per la
+prima volta di essere piccola. Il grande poeta dei giorni spaziosi
+non la loda come spaziosa, ma solo come piccola, come un
+[[Jewel|gioiello]]. La visione dell'espansione universale rimase
+interamente velata fino al diciottesimo secolo; e persino quando
+venne fu assai meno vivida e vitale di ciò che venne nel sedicesimo.
+Ciò che venne allora non fu Imperialismo; fu Anti-Imperialismo.
+L'Inghilterra conseguì, all'inizio della sua [[history|storia]]
+moderna, quell'unica cosa che l'[[Imagination|immaginazione]] umana
+troverà sempre eroica--la storia di una piccola nazionalità. La
+faccenda dell'Armata fu per lei ciò che Bannockburn fu per gli
+scozzesi o Majuba per i boeri--una vittoria che stupì persino i
+vincitori. Ciò che le si opponeva era l'Imperialismo nel suo senso
+completo e colossale, una cosa impensabile dopo Roma. Era, in
+nessun senso forzato, la civiltà stessa. Fu la [[Greatness|grandezza]]
+della Spagna a essere la gloria dell'Inghilterra. È solo quando
+comprendiamo che gli inglesi erano, al confronto, tanto squallidi,
+tanto poco sviluppati, tanto meschini e provinciali quanto i boeri,
+che possiamo apprezzare l'altezza della loro sfida o lo splendore
+della loro salvezza. Possiamo coglierlo solo cogliendo che per gran
+parte dell'Europa la causa dell'Armata aveva quasi il cosmopolita
+buon senso di una crociata. Il Papa aveva dichiarato Elisabetta
+illegittima--logicamente, è difficile vedere cos'altro potesse
+dire, avendo dichiarato invalido il [[Marriage|matrimonio]] di sua
+madre; ma il fatto fu un altro e forse un ultimo colpo che scisse
+l'Inghilterra dal mondo più antico. Nel frattempo quei pittoreschi
+corsari inglesi che avevano flagellato l'Impero spagnolo del Nuovo
+Mondo erano nominati nel Sud semplicemente come pirati, e
+tecnicamente la descrizione era vera; solo che gli assalti tecnici
+della parte più debole sono, in retrospettiva, giustamente giudicati
+con qualche generosa indulgenza. Poi, come per imprimere il
+contrasto in un'immagine imperitura, la Spagna, o piuttosto l'impero
+con la Spagna per centro, mise in campo tutta la sua forza, e parve
+coprire il mare con una flotta simile alla leggendaria flotta di
+Serse. Piombò sull'isola condannata col peso e la solennità di un
+giorno del giudizio; marinai o pirati la colpirono con piccole navi
+vacillanti sotto grandi cannoni, la combatterono con mere masse di
+detriti fiammeggianti, e in quell'ultima ora di corpo a corpo una
+grande [[Storm|tempesta]] sorse dal mare e spazzò attorno all'isola,
+e la gigantesca flotta non fu vista mai più. La [[Uncanny|perturbante]]
+compiutezza e l'improvviso [[Silence|silenzio]] che inghiottirono
+questo prodigio toccarono un nervo che non ha mai cessato di vibrare.
+La [[Hope|speranza]] dell'Inghilterra data da quell'ora senza
+speranza, poiché non vi è vera [[Hope|speranza]] che non sia stata
+una volta una [[Hope|speranza]] disperata. Lo squarciarsi di quella
+vasta rete navale rimase come un segno che la piccola cosa che
+sfuggì sarebbe sopravvissuta alla [[Greatness|grandezza]]. Eppure
+vi è davvero un senso in cui non potremo mai più essere così piccoli
+o così grandi.
+
+Poiché lo splendore dell'età elisabettiana, di cui si parla sempre
+come di un'alba, fu per molti versi un tramonto. Sia che lo
+consideriamo come la fine del Rinascimento o come la fine
+dell'antica civiltà medievale, nessun critico candido può negare
+che le sue glorie principali finirono con esso. Il lettore si
+chieda che cosa lo colpisca in particolare nella magnificenza
+elisabettiana, e generalmente troverà che è qualcosa di cui vi
+erano almeno tracce nei tempi medievali, e assai meno tracce nei
+tempi moderni. Il dramma elisabettiano è come una delle sue stesse
+tragedie--la sua torcia tempestosa doveva presto essere calpestata
+e spenta dai Puritani. È inutile dire che la [[Tragedy|tragedia]]
+principale fu il troncamento della [[Comedy|commedia]]; poiché la
+[[Comedy|commedia]] che venne in Inghilterra dopo la Restaurazione
+era, al confronto, tanto straniera quanto gelida. Al meglio è
+[[Comedy|commedia]] nel senso di essere spiritosa, ma non nel senso
+di essere felice. Si può notare che i portatori di buone nuove e di
+buona sorte nelle storie d'[[Love|amore]] shakespeariane
+appartengono quasi tutti a un mondo che stava passando, siano essi
+frati o fate. Lo stesso vale per i principali ideali elisabettiani,
+spesso incarnati nel dramma elisabettiano. La devozione nazionale
+alla [[Queen|Regina]] Vergine non deve essere del tutto screditata
+dalla sua incongruità col carattere rozzo e astuto della storica
+Elisabetta. I suoi critici potrebbero invero ragionevolmente dire
+che, nel sostituire la [[Virgin Mary|Vergine Maria]] con la
+[[Queen|Regina]] Vergine, i riformatori inglesi scambiarono
+semplicemente una vera Vergine con una falsa. Ma questa
+[[Truth|verità]] non liquida un vero, benché limitato, culto
+contemporaneo. Qualunque cosa pensiamo di quella particolare
+[[Queen|Regina]] Vergine, le eroine tragiche del [[Time|tempo]] ci
+offrono un'intera processione di regine vergini. Ed è certo che i
+medievali avrebbero compreso assai meglio dei moderni il
+[[Martyrdom|martirio]] di Misura per misura. E come col titolo di
+Vergine, così col titolo di [[Queen|Regina]]. La mistica monarchia
+glorificata in [[Richard II|Riccardo II]] doveva presto essere
+detronizzata assai più rovinosamente che in [[Richard II|Riccardo II]].
+Gli stessi Puritani che strapparono le corone di cartone degli
+attori di teatro dovevano anche strappare le vere corone dei re le
+cui parti recitavano. Ogni finzione doveva essere proibita e ogni
+monarchia doveva essere chiamata finzione.
+
+Shakespeare morì nel giorno di san Giorgio, e molto di ciò che san
+Giorgio aveva significato morì con lui. Non intendo dire che il
+patriottismo di Shakespeare o dell'Inghilterra morì; quello rimase
+e persino [[Rose|s'innalzò]] costantemente, per essere il più
+nobile [[Pride|orgoglio]] dei tempi a venire. Ma assai più del
+patriottismo era stato coinvolto in quell'immagine di san Giorgio a
+cui il Cuor di [[Lion|Leone]] aveva dedicato l'Inghilterra tanto
+tempo fa nei deserti di Palestina. La concezione di un santo
+patrono aveva portato dal Medioevo un'idea assai singolare e ancora
+insostituita. Era l'idea della variazione senza antagonismo. I Sette
+Campioni della Cristianità furono moltiplicati per settanta volte
+sette nei patroni di città, mestieri e tipi sociali; ma la stessa
+idea che fossero tutti santi escludeva la possibilità di un'ultima
+rivalità nel fatto che fossero tutti patroni. La Corporazione dei
+Calzolai e la Corporazione dei Conciatori, recando i distintivi di
+san Crispino e san Bartolomeo, potevano battersi tra loro per le
+strade; ma non credevano che san Crispino e san Bartolomeo si
+battessero tra loro nei cieli. Similmente gli inglesi gridavano in
+battaglia su san Giorgio e i francesi su san Dionigi; ma non
+credevano seriamente che san Giorgio odiasse san Dionigi o persino
+coloro che gridavano su san Dionigi. Giovanna d'Arco, che sul punto
+del patriottismo era ciò che molti moderni chiamerebbero assai
+fanatica, era tuttavia su questo punto ciò che la maggior parte dei
+moderni chiamerebbe assai illuminata. Ora, con lo scisma religioso,
+non si può negare, apparve una divisione più profonda e più
+inumana. Non era più una zuffa tra i seguaci di santi che erano
+essi stessi in pace, ma una guerra tra i seguaci di dèi che erano
+essi stessi in guerra. Che le grandi navi spagnole fossero chiamate
+col nome di san Francesco o san Filippo cominciava già a significare
+poco per la [[New England|nuova Inghilterra]]; presto doveva
+significare qualcosa di quasi comicamente contraddittorio, come se
+fossero chiamate col nome di Baal o di Thor. Questi sono invero
+meri simboli, ma il processo di cui sono simboli era assai pratico
+e deve essere seguito seriamente. Entrò con le guerre di religione
+l'idea che la scienza moderna applica alle guerre razziali; l'idea
+delle guerre naturali, non nascenti da una particolare contesa ma
+dalla [[Nature|natura]] del popolo in contesa. L'[[Shadow|ombra]]
+del fatalismo razziale cadde per la prima volta attraverso il
+nostro cammino, e lontano nella distanza e nell'oscurità qualcosa
+si mosse che gli uomini avevano quasi dimenticato.
 
 
 
@@ -12067,6 +13515,147 @@ like the lady in Mr. Bernard [[Shaw]]'s play, "How splendid!
 How glorious! ...and oh what an escape!"
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+XIII
+
+L'ETÀ DEI PURITANI
+
+Ci annoieremmo assai se dovessimo leggere il resoconto della più
+eccitante discussione o serie di avventure in cui parole prive di
+senso come «snark» o «boojum» fossero sistematicamente sostituite
+ai nomi dei principali personaggi o oggetti in questione; se ci
+venisse detto che a un [[King|re]] fu data l'alternativa di
+diventare uno snark o di rinunciare definitivamente al boojum, o
+che una folla fu incitata al furore dalla pubblica esibizione di un
+boojum, che era inevitabilmente considerata una grossolana offesa
+allo snark. Eppure qualcosa di assai simile a questa situazione è
+creato dalla maggior parte dei moderni tentativi di raccontare la
+vicenda dei travagli teologici del sedicesimo e diciassettesimo
+secolo, mentre ci si inchina alla moda del disgusto per la teologia
+in questa generazione--o piuttosto nell'ultima generazione. Così i
+Puritani, come il loro nome implica, erano anzitutto entusiasti di
+ciò che ritenevano fosse pura religione; frequentemente volevano
+imporla ad altri; talvolta volevano solo essere liberi di
+praticarla essi stessi; ma in nessun caso si può rendere giustizia
+a ciò che vi era di più fine nei loro caratteri, [[Well|come pure]]
+di primo nei loro pensieri, se non ci chiediamo mai, per caso,
+quale fosse quell'«essa» che volevano imporre o praticare. Ora, vi
+era moltissimo di assai fine in molti dei Puritani, che è quasi
+interamente mancato dai moderni ammiratori dei Puritani. Sono lodati
+per cose che essi o consideravano con indifferenza o più spesso
+detestavano con frenesia--come la libertà religiosa. Eppure sono
+compresi in modo del tutto insufficiente, e sono persino
+sottovalutati, nella loro logica difesa delle cose a cui davvero
+tenevano--come il Calvinismo. Rendiamo i Puritani pittoreschi in un
+modo che essi violentemente ripudierebbero, in romanzi e drammi che
+avrebbero pubblicamente bruciato. Ci interessa tutto di loro, tranne
+l'unica cosa a cui essi affatto s'interessavano.
+
+Abbiamo visto che in prima istanza le nuove dottrine in Inghilterra
+furono semplicemente un pretesto per un saccheggio plutocratico, e
+questa è l'unica [[Truth|verità]] da dire sulla faccenda. Ma fu ben
+altrimenti per gli individui una generazione o due dopo, per i
+quali il naufragio dell'Armata era già una leggenda di nazionale
+liberazione dal Papismo, tanto miracolosa e quasi tanto remota
+quanto le liberazioni di cui leggevano così realisticamente nei
+Libri ebraici ora dispiegati davanti a loro. L'augusto accidente di
+quella sconfitta spagnola può forse aver coinciso solo troppo
+[[Well|bene]] con la loro concentrazione sulle parti non cristiane
+della Scrittura. Può aver soddisfatto un certo sentimento
+vetero-testamentario dell'elezione degli inglesi annunciata nei
+tempestosi oracoli dell'aria e del mare, che fu facilmente tramutato
+in quell'eresia di un [[Pride|orgoglio]] tribale che prese anche
+più pesante presa sui tedeschi. È per cose simili che uno stato
+civilizzato può decadere dall'essere una nazione cristiana
+all'essere un Popolo Eletto. Ma anche se il loro nazionalismo era
+di una specie che si è alla fine rivelata perigliosa per la
+concordia delle nazioni, era pur sempre nazionalismo. Dal principio
+alla fine i Puritani furono patrioti, un punto in cui avevano una
+marcata superiorità sugli Ugonotti francesi. Politicamente, erano
+invero dapprima solo un'ala della nuova classe ricca che aveva
+spogliato la Chiesa e stava procedendo a spogliare la
+[[Crown|Corona]]. Ma mentre erano tutti meramente le creature della
+grande spoliazione, molti di essi ne erano le creature inconsapevoli.
+Erano fortemente rappresentati nell'aristocrazia, ma un gran numero
+era delle classi medie, benché quasi interamente le classi medie
+delle città. Dalla povera popolazione agricola, che era ancora di
+gran lunga la parte più grande della popolazione, erano
+semplicemente derisi e detestati. Si può notare, per esempio, che,
+mentre guidavano la nazione in molti dei suoi dipartimenti più
+elevati, non potevano produrre nulla che avesse l'atmosfera di ciò
+che si chiama piuttosto affettatamente folclore. Tutta la tradizione
+popolare che esiste, come nelle [[songs|canzoni]], nei brindisi,
+nelle rime o nei proverbi, è tutta Realista. Sui Puritani non
+possiamo trovare alcuna grande leggenda. Dobbiamo accontentarci come
+meglio possiamo della grande letteratura.
+
+Tutte queste cose, tuttavia, sono semplicemente cose che altri
+avrebbero potuto notare di loro; non sono le cose più importanti, e
+certamente non le cose che essi pensavano di sé stessi. L'[[Soul|anima]]
+del movimento era in due concezioni, o piuttosto in due passi, il
+primo essendo il processo morale con cui giunsero alla loro
+principale conclusione, e il secondo la principale conclusione a cui
+giunsero. Cominceremo dal primo, tanto più che fu questo a
+determinare tutto quell'atteggiamento sociale esteriore che colpì
+l'occhio dei contemporanei. L'onesto Puritano, cresciuto nella
+giovinezza in un mondo spazzato nudo dalla grande razzia, si
+impossessò di un primo principio che è uno dei tre o quattro primi
+principi alternativi che sono possibili alla mente dell'uomo. Era il
+principio che la mente dell'uomo può [[Alone|da sola]] trattare
+direttamente con la mente di Dio. Lo si può brevemente chiamare il
+principio anti-sacramentale; ma esso si applica realmente, ed egli
+lo applicava realmente, a molte cose oltre ai sacramenti della
+Chiesa. Si applica egualmente, ed egli lo applicava egualmente,
+all'arte, alle lettere, all'[[Love|amore]] del luogo natio, alla
+musica, e persino alle buone maniere. La frase sul fatto che nessun
+prete si frapponga tra un uomo e il suo Creatore non è che un
+impoverito [[Fragment|frammento]] della piena dottrina filosofica;
+il vero Puritano era egualmente chiaro sul fatto che nessun cantore
+o narratore o suonatore dovesse tradurgli la voce di Dio nelle
+lingue della [[Beauty|bellezza]] terrestre. È notevole che l'unico
+Puritano uomo di genio dei tempi moderni, [[tolstoy|Tolstoy]],
+accettò questa piena conclusione; denunciò tutta la musica come una
+mera droga, e proibì ai suoi stessi ammiratori di leggere i suoi
+stessi ammirevoli romanzi. Ora, i Puritani inglesi non erano solo
+Puritani ma inglesi, e perciò non brillavano sempre per chiarezza
+di testa; come vedremo, il vero [[Puritanism|Puritanesimo]] fu
+piuttosto una cosa scozzese che inglese. Ma questa era la forza
+propulsiva e la direzione; e la dottrina è del tutto sostenibile se
+un tantino folle. La [[Truth|verità]] intellettuale era l'unico
+tributo degno della più alta [[Truth|verità]] dell'universo; e il
+passo successivo in tale studio è osservare ciò che il Puritano
+riteneva fosse la [[Truth|verità]] su quella [[Truth|verità]]. La
+sua ragione individuale, recisa dall'istinto [[Well|come pure]]
+dalla tradizione, gli insegnò un concetto dell'onnipotenza di Dio
+che significava semplicemente l'impotenza dell'uomo. In Lutero, la
+forma più antica e più mite del processo protestante andò solo fino
+a dire che nulla di ciò che un uomo faceva poteva aiutarlo tranne la
+sua confessione di [[Christ|Cristo]]; con Calvino compì l'ultimo
+passo logico e disse che neppure questo poteva aiutarlo, poiché
+l'Onnipotenza doveva aver disposto di tutto il suo destino in
+anticipo; che gli uomini dovevano essere creati per essere perduti
+e salvati. Nei tipi più puri di cui parlo questa [[logic|logica]]
+era incandescente, e dobbiamo leggere la formula in tutte le loro
+formule parlamentari e legali. Quando leggiamo «Il partito Puritano
+chiese riforme nella chiesa», dobbiamo intendere «Il partito
+Puritano chiese una più piena e chiara affermazione che gli uomini
+sono creati per essere perduti e salvati». Quando leggiamo
+«L'Esercito selezionava persone per la loro devozione» dobbiamo
+intendere «L'Esercito selezionava quelle persone che sembravano più
+convinte che gli uomini fossero creati per essere perduti e
+salvati». Si dovrebbe aggiungere che questa terribile tendenza non
+era confinata neppure ai paesi protestanti; alcuni grandi cattolici
+romani la seguirono esitanti finché non furono fermati da Roma. Era
+lo spirito dell'epoca, e dovrebbe essere un permanente avvertimento
+contro lo scambiare lo spirito dell'epoca per l'immortale spirito
+dell'uomo. Poiché vi sono ora pochi cristiani o non cristiani che
+possano guardare indietro al Calvinismo che quasi catturò Canterbury
+e persino Roma per il genio e l'[[Heroism|eroismo]] di Pascal o di
+[[Milton]], senza esclamare, come la dama nel dramma del signor
+Bernard [[Shaw]], «Che splendido! Che glorioso!... e oh che
+scampo!».
+
 
 
 <span class="atom-split" data-atom="chapter_13--part_02" data-title="A Short History of England — Chapter 13 (part 2)" data-chapter="Chapter 13" data-kind="excerpt" data-tags="archetype/hero,archetype/king,motif/death,motif/dust,motif/love,motif/storm,motif/time,motif/well,concept/courage,concept/democracy,concept/history,concept/paradox,concept/self,form/history,form/tragedy,histref/puritanism,character/buckingham"></span>
@@ -12180,6 +13769,121 @@ of the Stuart fall, which are of very different certainty,
 and should be considered separately.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+La cosa successiva da notare è che la loro concezione del
+[[government|governo]] della chiesa era in un vero senso
+[[Self|auto]][[government|governo]]; eppure, per una ragione
+particolare, risultò essere un piuttosto egoistico
+[[Self|auto]][[government|governo]]. Era paritario eppure era
+esclusivo. Internamente il sinodo o conventicola tendeva a essere
+una piccola repubblica, ma sfortunatamente a essere una repubblica
+assai piccola. In relazione alla strada esterna la conventicola non
+era una repubblica ma un'aristocrazia. Era la più tremenda di tutte
+le aristocrazie, quella degli eletti; poiché non era un diritto di
+nascita ma un diritto anteriore alla nascita, e [[Alone|sola]] fra
+tutte le nobiltà non era spianata nella [[Dust|polvere]]. Di qui
+abbiamo, da un lato, nei Puritani più semplici un suono di vera
+virtù repubblicana; una sfida ai tiranni, un'affermazione della
+dignità umana, ma soprattutto un appello a quella prima fra tutte
+le virtù repubblicane--la pubblicità. Uno dei Regicidi, sotto
+processo per la sua vita, colpì la nota che tutta l'innaturalezza
+della sua scuola non può privare di nobiltà: «Questa cosa non fu
+fatta in un angolo». Ma il loro più drastico idealismo non fece
+nulla per recuperare un raggio della luce che ad un tempo
+illuminava ogni uomo che veniva al mondo, l'assunzione di una
+fratellanza in tutte le persone battezzate. Erano, invero, assai
+simili a quel terribile patibolo verso cui il Regicida non aveva
+paura di puntare. Erano certamente pubblici, possono essere stati
+animati da spirito pubblico, non furono mai popolari; e sembra non
+aver mai attraversato le loro menti che vi fosse alcun bisogno di
+essere popolari. L'Inghilterra non fu mai così poco una
+[[democracy|democrazia]] come durante il breve [[Time|tempo]] in
+cui fu una repubblica.
+
+La lotta con gli Stuart, che è il passaggio successivo nella nostra
+[[history|storia]], nacque da un'alleanza, che alcuni possono
+ritenere un'alleanza accidentale, tra due cose. La prima fu questa
+moda intellettuale del Calvinismo che influì sul mondo colto come
+fece la nostra recente moda intellettuale del Collettivismo. La
+seconda fu la cosa più antica che aveva reso possibile quel credo e
+forse quel mondo colto--la rivolta aristocratica sotto gli ultimi
+Tudor. Fu, potremmo dire, la storia di un padre e di un figlio che
+abbattono la stessa immagine dorata, ma il più giovane davvero per
+odio dell'idolatria, e il più vecchio unicamente per [[Love|amore]]
+dell'oro. È ad un tempo la [[Tragedy|tragedia]] e il
+[[Paradox|paradosso]] dell'Inghilterra che fu la passione eterna a
+passare, e la passione transitoria o terrena a rimanere. Questo fu
+vero dell'Inghilterra; fu assai meno vero della Scozia; ed è questo
+il significato della guerra scozzese e inglese che si chiuse a
+Worcester. Il primo mutamento era stato invero press'a poco la
+stessa faccenda materialistica in entrambi i paesi--un mero
+brigantaggio di baroni; e persino John Knox, benché sia diventato
+un [[Hero|eroe]] nazionale, fu un politico estremamente
+anti-nazionale. Il partito patriota in Scozia era quello del
+Cardinale Beaton e di Maria Stuart. Ciò nondimeno il nuovo credo
+divenne davvero popolare nelle Lowlands in un senso positivo, non
+ancora nemmeno conosciuto nel nostro proprio paese. Di qui in
+Scozia il [[Puritanism|Puritanesimo]] fu la cosa principale, e fu
+mescolato con oligarchie parlamentari e d'altro genere. In
+Inghilterra l'oligarchia parlamentare fu la cosa principale, e fu
+mescolata col [[Puritanism|Puritanesimo]]. Quando la [[Storm|tempesta]]
+cominciò a levarsi contro Carlo I, dopo il [[Time|tempo]] più o meno
+transitorio di suo padre, il successore scozzese di Elisabetta, gli
+esempi comunemente citati segnano tutta la differenza tra religione
+democratica e politica aristocratica. La leggenda scozzese è quella
+di Jenny Geddes, la povera donna che scagliò uno sgabello contro il
+prete. La leggenda inglese è quella di John Hampden, il grande
+possidente che sollevò una contea contro il [[King|re]]. Il
+movimento parlamentare in Inghilterra fu, invero, quasi interamente
+una cosa di possidenti, con i loro nuovi alleati i mercanti. Erano
+possidenti che ben potevano considerarsi i veri e naturali capi
+degli inglesi; ma erano capi che non permettevano alcun ammutinamento
+tra i loro seguaci. Non vi fu certamente alcun Hampden di villaggio
+nel villaggio di Hampden.
+
+Gli Stuart, si può sospettare, portarono dalla Scozia una visione
+più medievale e perciò più logica della loro propria funzione;
+poiché la nota della loro nazione era la [[logic|logica]]. È un
+proverbio che Giacomo I fosse uno scozzese e un pedante; non si nota
+abbastanza che anche Carlo I era non poco un pedante, essendo molto
+uno scozzese. Aveva anche le virtù di uno scozzese, il
+[[Courage|coraggio]], e una dignità del tutto naturale e un
+appetito per le cose della mente. Essendo alquanto scozzese, era
+assai poco inglese, e non sapeva gestire un compromesso: cercava
+invece di spaccare il capello in quattro, e sembrava semplicemente
+rompere le promesse. Eppure avrebbe potuto senza pericolo essere
+assai più incoerente se fosse stato un po' cordiale e nebuloso; ma
+era del tipo che vede tutto in bianco e nero; e perciò è
+ricordato--specialmente il nero. Fin dal principio schermì col suo
+Parlamento come con un mero nemico; forse quasi lo sentiva come uno
+straniero. La questione è ben nota, e non abbiamo bisogno di essere
+così cauti come il gentiluomo che desiderava finire il capitolo per
+scoprire non cosa accadde a Carlo I. Il suo ministro, il grande
+Strafford, fu sventato in un tentativo di renderlo forte alla
+maniera di un [[King|re]] francese, e perì sul patibolo, un
+frustrato Richelieu. Rivendicando il Parlamento il potere della
+borsa, Carlo si appellò al potere della [[Sword|spada]], e dapprima
+ebbe la meglio su tutto; ma il [[success|successo]] passò alla
+ricchezza della classe parlamentare, alla disciplina del nuovo
+esercito, e alla pazienza e al genio di Cromwell, e Carlo morì la
+stessa [[Death|morte]] del suo grande servo.
+
+Storicamente, la contesa si risolse; attraverso ramificazioni
+generalmente seguite forse in più dettaglio di quanto meritino, nel
+grande quesito moderno se un [[King|re]] possa imporre tasse senza
+il consenso del suo Parlamento. Il caso di prova fu quello di
+Hampden, il grande magnate del [[Buckingham]]shire, che contestò la
+legalità di una tassa che Carlo impose, dichiaratamente per una
+marina nazionale. Poiché anche gli innovatori sempre di necessità
+cercano santità nel passato, i possidenti Puritani fecero una
+leggenda della medievale Magna Carta; ed erano finora in una vera
+tradizione poiché la concessione di Giovanni era stata realmente,
+come abbiamo già notato, anti-dispotica senza essere democratica.
+Queste due verità coprono due parti del problema della caduta degli
+Stuart, che sono di assai diversa certezza, e dovrebbero essere
+considerate separatamente.
+
 
 
 <span class="atom-split" data-atom="chapter_13--part_03" data-title="A Short History of England — Chapter 13 (part 3)" data-chapter="Chapter 13" data-kind="excerpt" data-tags="archetype/king,archetype/monster,motif/autumn,motif/dreams,motif/ship,motif/storm,motif/well,concept/democracy,concept/history,concept/truth,form/history,histref/puritanism,histref/reformation,setting/ship,character/oliver,character/richard_ii"></span>
@@ -12290,6 +13994,113 @@ but it was their own God who delivered them, the dark unnatural
 God of the Calvinist [[Dreams|dreams]], as overpowering as a [[nightmare]]--
 and as passing.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Quanto al primo punto sulla [[democracy|democrazia]], nessuna persona schietta,
+di fronte ai fatti, può davvero prenderla in considerazione. È perfettamente
+possibile sostenere che il Parlamento del Seicento combattesse per la [[Truth|verità]];
+non è possibile sostenere che combattesse per il popolo minuto.
+Dopo l'[[Autumn|autunno]] del Medioevo il Parlamento fu sempre attivamente
+aristocratico e attivamente antipopolare. L'istituzione che
+proibì a Carlo I di riscuotere la [[Ship|Ship]] Money era la stessa istituzione
+che in precedenza aveva proibito a [[Richard II|Riccardo II]] di liberare i servi.
+Il gruppo che rivendicò carbone e minerali a Carlo I era lo stesso
+che in seguito rivendicò le terre comuni alle comunità di villaggio.
+Era la stessa istituzione che solo due generazioni prima aveva
+avidamente contribuito a distruggere non soltanto cose di sentimento
+popolare come i monasteri, ma tutte le cose di pubblica utilità come
+le corporazioni e le parrocchie, i governi locali delle città e dei mestieri.
+L'opera dei grandi signori può avere avuto, e certamente ebbe,
+un altro lato più patriottico e creativo; ma fu esclusivamente
+l'opera dei grandi signori quella che fu compiuta dal Parlamento.
+La [[house|Camera]] dei Comuni è stata essa stessa una [[house|Camera]] dei Lord.
+
+Ma quando ci volgiamo all'altro aspetto, o aspetto anti-dispotico, della
+campagna contro gli Stuart, giungiamo a qualcosa di assai
+più difficile da liquidare e assai più facile da giustificare.
+Mentre si dicono le cose più stupide contro gli Stuart,
+il vero argomento contemporaneo a favore dei loro nemici è poco compreso;
+perché è connesso con ciò che la nostra [[history|storia]] insulare più trascura,
+la condizione del Continente. Si dovrebbe ricordare che
+sebbene gli Stuart fallissero in Inghilterra, essi combatterono per cose
+che riuscirono in Europa. Erano, all'ingrosso, in primo luogo gli effetti
+della Contro[[Reformation|riforma]], che facevano vedere al sincero protestante
+il cattolicismo degli Stuart non affatto come l'ultimo guizzo
+di una vecchia fiamma, ma come il propagarsi di un incendio.
+Carlo II, per esempio, era un uomo di intelletto forte, scettico e quasi
+irritabilmente umoristico, ed era del tutto certamente,
+e persino a malincuore, convinto del cattolicismo come [[philosophy|filosofia]].
+L'altra e più importante questione qui era la quasi spaventosa
+plutocrazia che si stava edificando in Francia come una Bastiglia.
+Era più logica, e per molti versi più eguale e persino più equa
+dell'oligarchia inglese, ma diventava davvero una tirannia in caso
+di ribellione o persino di resistenza. Non vi era nessuna delle rozze
+salvaguardie inglesi delle giurie e delle buone consuetudini dell'antica common law;
+vi era la lettre de cachet, inappellabile come la [[Magic|magia]].
+Gli inglesi che sfidavano la legge stavano meglio dei francesi;
+un satirico francese avrebbe probabilmente ribattuto che erano
+gli inglesi che obbedivano alla legge a stare peggio dei francesi.
+L'ordinamento della vita quotidiana degli uomini spettava allo squire;
+ma egli era, semmai, più limitato là dove era magistrato.
+Era più forte come padrone del villaggio, ma in realtà più debole
+come agente del [[King|Re]]. Nel difendere questo stato di cose,
+in breve, i Whig non stavano certo difendendo la [[democracy|democrazia]],
+ma in un senso reale stavano difendendo la libertà.
+Difendevano persino alcuni resti della libertà medievale,
+sebbene non i migliori; la giuria sebbene non la corporazione.
+Persino il feudalesimo aveva comportato un localismo non privo
+di elementi liberali, che perdurava nel sistema aristocratico.
+Coloro che amavano simili cose potevano [[Well|ben]] allarmarsi per il Leviatano
+dello Stato, che per Hobbes era un unico [[Monster|mostro]] e per
+la Francia un unico uomo.
+
+Quanto ai meri fatti, va detto ancora una volta che nella misura
+in cui il [[Puritanism|Puritanesimo]] fu puro, esso stava purtroppo tramontando.
+E il tipo stesso della transizione con cui tramontò si può
+ritrovare in quell'uomo straordinario che è popolarmente accreditato
+di averlo fatto prevalere. [[Oliver]] Cromwell è nella [[history|storia]] assai
+meno il capo del [[Puritanism|Puritanesimo]] che il domatore del [[Puritanism|Puritanesimo]].
+Fu senza dubbio posseduto, certamente in gioventù,
+forse per tutta la vita, dalle passioni religiose piuttosto cupe
+della sua epoca; ma man mano che emerge alla ribalta, egli sta
+sempre più per il Positivismo degli inglesi in confronto al
+[[Puritanism|Puritanesimo]] degli scozzesi. È uno degli squire puritani;
+ma è costantemente più squire e meno puritano;
+ed egli indica il processo per cui la squirearchia divenne
+alla fine meramente pagana. Questa è la chiave della maggior parte di ciò che si loda
+e della maggior parte di ciò che si biasima in lui; la chiave della relativa [[Sanity|sanità mentale]],
+tolleranza e moderna efficienza di molti dei suoi allontanamenti;
+la chiave della relativa rozzezza, terrestrità, cinismo e mancanza
+di simpatia in molti altri. Egli era l'opposto di un idealista;
+e non lo si può senza assurdità additare come un ideale;
+ma egli fu, come la maggior parte degli squire, un tipo genuinamente inglese;
+non privo di spirito pubblico, certamente non privo di patriottismo.
+La sua presa del potere personale, che distrusse un [[government|governo]] impersonale
+e ideale, aveva qualcosa di inglese nella sua stessa irragionevolezza.
+L'atto di uccidere il [[King|Re]], immagino, non fu primariamente suo,
+e certamente non caratteristicamente suo. Fu una concessione
+agli alti e disumani ideali del minuscolo gruppo dei veri puritani,
+con i quali dovette scendere a compromessi ma con i quali in seguito si scontrò.
+Fu la [[logic|logica]] più che la crudeltà nell'atto a non essere cromwelliana;
+poiché egli trattò con bestiale crudeltà gli irlandesi nativi,
+che la nuova esclusività spirituale considerava bestie--
+o, come direbbe l'eufemismo moderno, aborigeni.
+Ma il suo temperamento pratico era più affine a un simile massacro
+umano su quelli che gli parevano i margini della civiltà,
+che a una sorta di sacrificio umano nel centro stesso
+e nel foro di essa; egli non è un regicida rappresentativo.
+In un certo senso quell'opera di boia era piuttosto al di sopra della sua testa.
+I veri regicidi lo fecero in una sorta di trance o di visione;
+ed egli non era turbato da visioni. Ma il vero scontro
+tra i lati religioso e razionale del movimento del Seicento
+giunse simbolicamente in quel giorno di incalzante [[Storm|tempesta]] a Dunbar,
+quando i deliranti predicatori scozzesi scavalcarono Leslie e lo costrinsero a scendere
+nella valle per essere la vittima del buon senso cromwelliano.
+Cromwell disse che Dio li aveva consegnati nelle sue mani;
+ma fu il loro stesso Dio a consegnarli, l'oscuro e innaturale
+Dio dei [[Dreams|sogni]] calvinisti, opprimente come un [[nightmare|incubo]]--
+e come esso passeggero.
 
 
 
@@ -12505,6 +14316,109 @@ philosophical extremes meet, merely because they were philosophical;
 and which brought the weary but humorous mind of Charles II into
 alliance with the subtle and detached spirit of William Penn.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+XIV
+
+IL TRIONFO DEI WHIG
+
+CHE crediamo o no che la [[Reformation|Riforma]] abbia davvero riformato,
+vi può essere poco [[Doubt|dubbio]] che la Restaurazione non abbia davvero restaurato.
+Carlo II non fu mai nel vecchio senso un [[King|Re]]; egli fu un Capo
+dell'Opposizione ai suoi stessi Ministri. Poiché era un abile
+politico mantenne la sua carica ufficiale, e poiché suo fratello
+e successore fu un politico incredibilmente sciocco, la perse;
+ma il trono era già soltanto una delle cariche ufficiali.
+Per certi versi, in verità, Carlo II era fatto per il mondo più moderno
+che allora cominciava; egli era piuttosto un uomo del Settecento
+che del Seicento. Era arguto come un personaggio in una [[Comedy|commedia]];
+ed era già la [[Comedy|commedia]] di Sheridan e non di Shakespeare.
+Era ancora più moderno quando si dilettava del puro sperimentalismo
+della Royal Society, e si chinava avidamente sui giocattoli che erano
+destinati a crescere fino a divenire i terribili motori della scienza. Egli e suo fratello,
+tuttavia, avevano due legami con quella che in Inghilterra era la parte perdente;
+e per la tensione su questi la loro causa dinastica fu perduta.
+Il primo, che diminuiva nella sua pressione pratica col passare del [[Time|tempo]],
+era, naturalmente, l'odio provato per la loro religione.
+Il secondo, che cresceva man mano che si avvicinava il secolo successivo, era il loro
+legame con la Monarchia francese. Tratteremo della disputa religiosa
+prima di passare a un'epoca assai più irreligiosa;
+ma la [[Truth|verità]] al riguardo è intricata e tutt'altro che facile da rintracciare.
+
+I Tudor avevano cominciato a perseguitare l'antica religione prima di
+aver cessato di appartenervi. Questa è una delle complessità di transizione
+che possono essere trasmesse solo con simili contraddizioni.
+Una persona del tipo e del [[Time|tempo]] di Elisabetta sentiva fondamentalmente,
+e persino ferocemente, che i preti dovessero essere celibi, mentre torturava
+e squartava chiunque fosse colto a parlare con gli unici preti celibi.
+Questo mistero, che può essere spiegato in modi assai vari, copriva la
+Chiesa d'Inghilterra, e in gran misura il popolo d'Inghilterra.
+Che lo si chiami la continuità cattolica dell'anglicanesimo
+o meramente la lenta estirpazione del cattolicismo, non vi può
+essere [[Doubt|dubbio]] che un parroco come Herrick, per esempio, ancora
+al tempo della Guerra Civile, fosse imbottito di "superstizioni" che erano
+cattoliche nel senso estremo che oggi chiameremmo continentale.
+Eppure molti parroci simili avevano già una passione parallela e opposta,
+e pensavano al cattolicismo continentale non nemmeno come alla errante
+Chiesa di [[Christ|Cristo]], ma come alla coerente Chiesa dell'Anticristo.
+È, dunque, assai difficile ora indovinare la proporzione
+del protestantesimo; ma non vi è [[Doubt|dubbio]] sulla sua presenza,
+specialmente sulla sua presenza in centri di rilievo come [[London|Londra]].
+Al [[Time|tempo]] di Carlo II, dopo l'epurazione del Terrore puritano,
+esso era divenuto qualcosa almeno di più insito e umano della mera
+esclusività dei credi calvinisti o dell'astuzia dei nobili Tudor.
+La ribellione di Monmouth mostrò che aveva un sostegno popolare,
+sebbene insufficientemente popolare. La forza del "No Popery"
+divenne la folla anche se non divenne mai il popolo.
+Era, forse, sempre più una folla urbana, ed era soggetta
+a quelle epidemie di dettagliata illusione con cui il giornalismo
+sensazionalistico gioca sulle folle urbane di oggi. Uno di questi
+allarmi e scoop (per non aggiungere il nome meno tecnico di menzogne)
+fu il Complotto Papista, una [[Storm|tempesta]] affrontata con prudenza da Carlo II.
+Un altro fu la Storia dello Scaldaletto, ovvero il falso erede
+al trono, una [[Storm|tempesta]] che infine spazzò via Giacomo II.
+
+L'ultimo colpo, tuttavia, non avrebbe potuto cadere se non fosse stato per uno di
+quei localismi illogici ma quasi amabili a cui il temperamento
+inglese è incline. Il [[debate|dibattito]] sulla Chiesa d'Inghilterra,
+allora e oggi, differisce dalla maggior parte dei dibattiti in un punto vitale.
+Non è un [[debate|dibattito]] su ciò che un'istituzione dovrebbe fare, o se quell'istituzione
+dovrebbe mutare, ma su ciò che quell'istituzione effettivamente è.
+Un partito, allora come oggi, si curava di essa soltanto perché era cattolica,
+e l'altro se ne curava soltanto perché era protestante.
+Ora, qualcosa era certamente accaduto agli inglesi del tutto
+inconcepibile per gli scozzesi o gli irlandesi. Masse di gente comune
+amavano la Chiesa d'Inghilterra senza aver nemmeno deciso cosa fosse.
+Aveva una presa ben diversa da quella della Chiesa medievale,
+ma anche assai diversa dallo sterile prestigio di nobiltà che le si aggrappò
+nel secolo seguente. Macaulay, con uno scopo assai diverso
+in mente, dedica alcune pagine a dimostrare che un ecclesiastico anglicano
+era socialmente un mero servitore di rango nel Seicento. Egli ha
+probabilmente ragione; ma non intuisce che questa non era che la degenerata
+continuità del sacerdozio più democratico del Medioevo.
+Un prete non era trattato come un gentiluomo; ma un contadino era trattato
+come un prete. E in Inghilterra allora, come in Europa oggi, molti coltivavano
+la fantasia che il sacerdozio fosse cosa più alta della nobiltà.
+In breve, la chiesa nazionale era allora almeno davvero nazionale,
+in un modo che era emotivamente vivido benché intellettualmente vago.
+Quando, dunque, Giacomo II parve minacciare questa comunione praticante,
+egli suscitò qualcosa almeno di più popolare della mera saccenteria
+dei lord Whig. A ciò si deve aggiungere un fatto generalmente dimenticato.
+Intendo il fatto che l'influenza allora chiamata papista era allora
+in un senso reale considerata rivoluzionaria. Il gesuita sembrava
+agli inglesi non semplicemente un cospiratore ma una sorta di anarchico.
+C'è qualcosa di spaventoso nelle speculazioni astratte per
+molti inglesi; e le speculazioni astratte di gesuiti come
+Suarez trattavano di estrema [[democracy|democrazia]] e di cose qui insognate.
+Le ultime proposte di tolleranza degli Stuart parvero così a molti tanto vaste
+e vuote quanto l'ateismo. Gli unici inglesi del Seicento che avevano
+qualcosa di questa trascendentale astrazione erano i Quaccheri, e il
+comodo compromesso inglese rabbrividì quando le due cose si strinsero la mano.
+Poiché fu qualcosa di assai più che un intrigo degli Stuart a far incontrare questi
+estremi filosofici, semplicemente perché erano filosofici;
+e a portare la mente stanca ma umoristica di Carlo II in
+alleanza con lo spirito sottile e distaccato di William Penn.
 
 
 
@@ -12782,6 +14696,121 @@ And considering who it was who defeated it, it is almost
 unnecessary to say that it was defeated by a trick.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Il regno della [[Queen|Regina]] Anna, che copre il periodo tra questi
+due re stranieri, è dunque il vero [[Time|tempo]] di transizione.
+È il ponte tra il [[Time|tempo]] in cui gli aristocratici erano
+almeno abbastanza deboli da chiamare un uomo forte ad aiutarli,
+e il [[Time|tempo]] in cui erano abbastanza forti da chiamare deliberatamente
+un uomo debole che avrebbe permesso loro di aiutare se stessi.
+Simboleggiare è sempre semplificare, e semplificare troppo;
+ma il tutto può [[Well|ben]] essere simboleggiato come la lotta
+di due grandi figure, entrambi gentiluomini e uomini di genio,
+entrambi coraggiosi e chiari riguardo ai propri fini,
+e in ogni altra cosa un violento contrasto in ogni punto.
+Uno di essi era Henry St. John, Lord Bolingbroke; l'altro era
+John Churchill, il famoso e famigerato Duca di Marlborough.
+La storia di Churchill è primariamente la storia della Rivoluzione
+e di come essa riuscì; la storia di Bolingbroke è la storia
+della Controrivoluzione e di come essa fallì.
+
+Churchill è un tipo del [[Time|tempo]] straordinario in questo,
+che egli combina la presenza della gloria con l'assenza dell'[[Honour|onore]].
+Quando la nuova aristocrazia fu divenuta normale per la nazione,
+nelle poche generazioni successive, essa produsse tipi personali non solo di
+aristocrazia ma di cavalleria. La Rivoluzione ci ridusse a un paese
+interamente governato da gentiluomini; le università e le scuole
+popolari del Medioevo, come le loro corporazioni e abbazie, erano state confiscate e
+trasformate in ciò che sono--fabbriche di gentiluomini, quando non
+sono meramente fabbriche di snob. È difficile ora rendersi conto
+che ciò che chiamiamo Public Schools furono un tempo indubbiamente pubbliche.
+Al tempo della Rivoluzione stavano già divenendo private come lo sono ora.
+Ma almeno nel Settecento c'erano grandi gentiluomini
+nel senso generoso, forse troppo generoso, ora dato al titolo.
+Tipi non solo onesti, ma avventati e romantici nella loro onestà,
+rimangono negli annali con i nomi di Nelson o di Fox.
+Abbiamo già visto che i riformatori posteriori sfregiarono per
+[[Fanaticism|fanatismo]] le chiese che i primi riformatori avevano sfregiato
+semplicemente per avarizia. Piuttosto allo stesso modo i Whig
+del Settecento lodavano spesso, in uno spirito di pura magnanimità, ciò che i
+Whig del Seicento avevano fatto in uno spirito di pura meschinità.
+Quanto meschina fosse quella meschinità può essere valutato solo rendendosi conto che
+un grande [[Hero|eroe]] militare non aveva nemmeno le ordinarie virtù militari
+di lealtà alla sua [[Flag|bandiera]] o di obbedienza ai suoi ufficiali superiori,
+che egli si aprì la strada attraverso campagne che lo hanno reso
+immortale con lo spirito vigile di un ladresco vivandiere.
+Quando Guglielmo sbarcò a Torbay su invito degli altri
+nobili Whig, Churchill, come per aggiungere qualcosa di ideale alla sua [[Imitation|imitazione]]
+dell'Iscariota, andò da Giacomo con sfrenate professioni di [[Love|amore]] e lealtà,
+uscì in armi come per difendere il paese dall'invasione,
+e poi consegnò tranquillamente l'esercito all'invasore. Al culmine
+di quest'opera d'arte pochi potevano aspirare, ma nel loro grado tutti
+i politici della Rivoluzione erano su questo schema etico.
+Mentre circondavano il trono di Giacomo, non ce n'era quasi
+uno che non fosse in corrispondenza con Guglielmo.
+Quando in seguito circondarono il trono di Guglielmo, non ce n'era
+uno che non fosse ancora in corrispondenza con Giacomo.
+Furono tali uomini a sconfiggere il giacobitismo irlandese con il tradimento
+di Limerick; furono tali uomini a sconfiggere il giacobitismo scozzese
+con il tradimento di Glencoe.
+
+Così la strana ma splendida storia dell'Inghilterra del Settecento
+è una storia di [[Greatness|grandezza]] fondata sulla piccolezza, una piramide poggiata su
+una punta. O, per variare la metafora, la nuova oligarchia mercantile
+potrebbe essere simboleggiata anche negli aspetti esteriori della sua grande sorella,
+l'oligarchia mercantile di [[Venice|Venezia]]. La solidità era tutta nella
+sovrastruttura; la fluttuazione era stata tutta nelle fondamenta.
+Il grande tempio di Chatham e Warren [[Hastings]] fu eretto nelle sue
+origini su cose instabili come l'[[Water|acqua]] e fuggevoli come la schiuma.
+È soltanto una fantasia, naturalmente, collegare l'elemento instabile
+con qualcosa di irrequieto e persino sfuggente nei signori del mare.
+Ma vi era certamente nella genesi, se non nelle generazioni successive
+della nostra aristocrazia mercantile, una cosa fin troppo mercantile;
+qualcosa che era stato anche imputato a un esempio ancora più antico di
+quella politica, qualcosa chiamato Punica fides. Il grande realista Strafford,
+andando disilluso alla [[Death|morte]], aveva detto: "Non riponete la vostra fiducia nei principi."
+Del grande realista Bolingbroke si può [[Well|ben]] dire che ribatté:
+"E meno di tutto nei principi mercanti."
+
+Bolingbroke sta per un intero [[Body|corpo]] di convinzioni che occupava
+un posto assai grande nella [[history|storia]] inglese, ma che con il recente
+sinuoso corso della [[history|storia]] è scomparso dalla vista.
+Eppure senza afferrarlo non possiamo comprendere il nostro passato, né,
+aggiungerò, il nostro futuro. Cosa abbastanza curiosa, i migliori libri inglesi
+del Settecento ne sono zeppi, eppure la cultura moderna
+non riesce a vederlo quando è lì. Il dottor Johnson ne è pieno;
+è ciò che egli intendeva quando denunciava il dominio della minoranza in Irlanda,
+così [[Well|come]] quando disse che il diavolo fu il primo Whig.
+Goldsmith ne è pieno; è tutto il senso di quel bel
+poema "Il villaggio abbandonato", ed è esposto teoricamente
+con grande lucidità e spirito ne "Il vicario di Wakefield".
+Swift ne è pieno; e vi trovò una fratellanza d'armi intellettuale
+con lo stesso Bolingbroke. Al [[Time|tempo]] della [[Queen|Regina]] Anna esso era
+probabilmente l'opinione della maggioranza della gente in Inghilterra.
+Ma non era solo in Irlanda che la minoranza aveva cominciato a dominare.
+
+Questa convinzione, come brillantemente esposta da Bolingbroke,
+aveva molti aspetti; forse il più pratico era il punto
+che una delle virtù di un despota è la distanza.
+È "il piccolo [[Tyrant|tiranno]] dei campi" che avvelena la vita umana.
+La tesi implicava il truismo che un buon [[King|re]] non è soltanto
+una buona cosa, ma forse la migliore cosa. Ma implicava anche
+il [[Paradox|paradosso]] che persino un cattivo [[King|re]] è un buon [[King|re]], perché la sua oppressione
+indebolisce la nobiltà e allevia la pressione sul popolo minuto.
+Se è un [[Tyrant|tiranno]] egli tortura principalmente i torturatori;
+e sebbene l'assassinio di Nerone della propria madre fosse forse difficilmente
+un guadagno per la sua [[Soul|anima]], non fu una grande perdita per il suo impero.
+Bolingbroke aveva così una teoria del giacobitismo del tutto razionalistica.
+Egli era, sotto altri aspetti, un intelletto fine e tipico del Settecento,
+un deista libero pensatore, uno scrittore chiaro e classico
+d'inglese. Ma era anche un uomo di spirito avventuroso
+e splendido [[Courage|coraggio]] politico, e fece un ultimo tentativo
+per gli Stuart. Fu sconfitto dai grandi nobili Whig
+che formavano il comitato del nuovo regime della gentry.
+E considerando chi fu a sconfiggerlo, è quasi
+superfluo dire che fu sconfitto con un inganno.
+
 
 
 <span class="atom-split" data-atom="chapter_14--part_04" data-title="A Short History of England — Chapter 14 (part 4)" data-chapter="Chapter 14" data-kind="excerpt" data-tags="archetype/king,archetype/shadow,motif/nature,motif/time,concept/exile,concept/faith,concept/freedom,concept/history,concept/nature,form/history,histref/new_england"></span>
@@ -12854,6 +14883,75 @@ Bolingbroke had made a dying gesture, as if to forbid the banns.
 
 --/--
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Il piccolo principe tedesco salì al trono, o piuttosto vi fu issato
+come un fantoccio, e il grande realista inglese andò in [[Exile|esilio]].
+Vent'anni dopo egli riappare e riafferma la sua viva e
+logica [[Faith|fede]] in una monarchia popolare. Ma è tipico di tutto il
+distacco e la distinzione della sua mente che per questo ideale astratto
+egli fosse disposto a rafforzare l'erede del [[King|re]] che aveva cercato
+di escludere. Egli fu sempre un realista, ma mai un giacobita.
+Ciò a cui teneva non era una famiglia reale ma una carica reale.
+La celebrò nel suo grande libro "Il [[King|Re]] Patriota", scritto in [[Exile|esilio]];
+e quando ritenne che il pronipote di Giorgio fosse abbastanza
+patriota, desiderò soltanto che egli fosse più [[King|re]].
+Fece in vecchiaia un ulteriore tentativo, con strumenti così poco
+promettenti come Giorgio III e Lord Bute; e quando questi gli si spezzarono
+in mano egli morì con tutta la dignità del sed victa Catoni.
+La grande aristocrazia commerciale crebbe fino alla sua piena statura.
+Ma se vogliamo renderci conto del bene e del male della sua crescita, non c'è
+sommario migliore di questa sezione dal primo all'ultimo
+fallito colpo di stato di Bolingbroke. Nel primo la sua politica
+fece la pace con la Francia, e ruppe il legame con l'Austria.
+Nel secondo la sua politica di nuovo fece la pace con la Francia, e ruppe
+il legame con la Prussia. Poiché in quell'intervallo il seme degli
+squire usurai del Brandeburgo si era fatto potente, ed era già
+divenuto quel prodigio che è divenuto un problema così enorme in Europa.
+Alla fine di questa epoca Chatham, che incarnava e persino creava,
+almeno in senso rappresentativo, tutto ciò che chiamiamo l'Impero Britannico,
+era all'apice della propria gloria e di quella del suo paese.
+Egli riassumeva la [[New England|nuova Inghilterra]] della Rivoluzione in ogni cosa,
+specialmente in ogni cosa in cui quel movimento sembra a molti essere
+intrinsecamente contraddittorio eppure era più corporativamente coerente.
+Così egli era un Whig, e persino per certi versi ciò che chiameremmo un Liberale,
+come suo figlio dopo di lui; ma era anche un Imperialista e ciò che
+chiameremmo un Jingo; e il partito Whig era coerentemente il partito Jingo.
+Egli era un [[aristocrat|aristocratico]], nel senso che tutti i nostri uomini pubblici
+erano allora aristocratici; ma era assai enfaticamente ciò che si può
+chiamare un commercialista--si potrebbe quasi dire cartaginese.
+A questo proposito egli ha la caratteristica che forse umanizzò
+ma non fu lasciata intralciare il piano aristocratico; intendo che egli poteva
+usare le classi medie. Fu un giovane soldato di medio rango,
+James Wolfe, a cadere gloriosamente cacciando i francesi dal Quebec;
+fu un giovane impiegato della Compagnia delle Indie Orientali, Robert Clive,
+a spalancare agli inglesi le porte dorate dell'India.
+Ma fu precisamente uno dei punti di forza di questa aristocrazia
+del Settecento che essa maneggiava senza attrito la borghesia più ricca;
+non fu lì che sarebbe venuta la frattura sociale.
+Egli era un eloquente oratore parlamentare, e sebbene il Parlamento fosse
+angusto come un senato, era uno di grandi senatori. La parola stessa
+richiama il rullo di quelle nobili frasi romane che essi usavano spesso,
+che abbiamo ragione di chiamare classiche, ma torto di chiamare fredde.
+Per certi versi nulla poteva essere più lontano da tutta questa fine sebbene
+florida erudizione, da tutta questa principesca e patrizia gioviale cordialità,
+da tutta questa aria di [[Freedom|libertà]] e avventura sul mare, del piccolo
+stato interno degli avari sergenti istruttori di Potsdam, che martellavano meri
+selvaggi trasformandoli in meri soldati. Eppure il grande capo di questi era
+per certi versi come un'[[Shadow|ombra]] di Chatham proiettata attraverso il mondo--
+il tipo di [[Shadow|ombra]] che è al tempo stesso un ingrandimento e una caricatura.
+I lord inglesi, il cui paganesimo era nobilitato dal patriottismo,
+vedevano qui qualcosa di tirato in lungo e in sottile fuori dalle loro stesse teorie.
+Ciò che era paganesimo in Chatham era ateismo in Federico il Grande.
+E ciò che nel primo era patriottismo era nel secondo qualcosa senza
+nome se non Prussianesimo. La teoria cannibalesca di uno stato, che esso
+possa per sua [[Nature|natura]] mangiare altri stati, era entrata nella Cristianità.
+La sua autocrazia e la nostra stessa aristocrazia si avvicinarono indirettamente,
+e sembrarono per un [[Time|tempo]] essere sposate; ma non prima che il grande
+Bolingbroke avesse fatto un gesto morente, come per proibire le nozze.
+
+--/--
 
 
 
@@ -12996,6 +15094,144 @@ for the same thing as the juncture with Frederick the Great;
 it stood for that Anglo-German alliance which, at a very much later
 [[Time|time]] in [[history]], was to turn into the world-old Teutonic Race.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+XV
+
+LA GUERRA CON LE GRANDI REPUBBLICHE
+
+Non possiamo comprendere il Settecento finché
+supponiamo che la retorica sia artificiale perché è artistica.
+Non cadiamo in questa follia riguardo a nessuna delle altre arti.
+Parliamo di un uomo che sceglie note disposte nell'avorio su un
+pianoforte di legno "con molto sentimento", o che riversa la sua [[Soul|anima]]
+raschiando budella di gatto dopo un addestramento accurato come quello di un acrobata.
+Ma siamo ancora perseguitati dal pregiudizio che la forma verbale
+e l'effetto verbale debbano in qualche modo essere ipocriti quando
+sono il legame tra cose così vive come un uomo e una folla.
+[[Doubt|Dubitiamo]] del sentimento del vecchio oratore all'antica, perché i suoi
+periodi sono così arrotondati e appuntiti da trasmettere il suo sentimento.
+Ora, prima di qualsiasi critica ai grandi uomini del Settecento
+deve essere posta la clausola della loro perfetta sincerità artistica.
+La loro oratoria era poesia senza rima, e aveva l'umanità della poesia.
+Non era nemmeno poesia senza metro; quel secolo è pieno di grandi frasi,
+spesso pronunciate d'impulso in grandi momenti, che hanno in sé
+il palpito e il ricorso del [[Song|canto]], come di un uomo che pensa a un motivo.
+Il "Nell'[[Honour|onore]] le ho conquistate, nell'[[Honour|onore]] morirò con esse" di Nelson,
+ha più ritmo di molto ciò che si chiama vers libres.
+Il "Datemi la libertà o datemi la [[Death|morte]]" di Patrick Henry potrebbe
+essere un grande verso in Walt Whitman.
+
+È una delle molte bizzarre perversità degli inglesi fingere
+di essere cattivi oratori; ma di fatto l'epoca del Settecento più inglese
+sfolgorò di brillanti oratori. Vi può essere stata una scrittura più fine
+in Francia; non vi fu un'oratoria così fine come in Inghilterra.
+Il Parlamento aveva difetti a sufficienza, ma era abbastanza sincero
+da essere retorico. Il Parlamento era corrotto, come lo è ora;
+sebbene gli esempi di corruzione fossero allora spesso davvero resi esempi,
+nel senso di ammonimenti, dove ora sono esempi solo nel senso
+di modelli. Il Parlamento era indifferente ai collegi elettorali,
+come lo è ora; sebbene forse i collegi elettorali fossero meno indifferenti
+al Parlamento. Il Parlamento era snob, come lo è ora,
+sebbene forse più rispettoso del mero rango e meno della mera ricchezza.
+Ma il Parlamento era un Parlamento; adempiva davvero al suo nome e dovere
+parlando, e cercando di parlare [[Well|bene]]. Non faceva semplicemente le cose
+perché esse non sopportano di essere discusse--come fa ora. Era allora,
+a eterna gloria del nostro paese, un grande "negozio di chiacchiere", non un mero
+negozio di compravendita per soffiate finanziarie e cariche ufficiali.
+E come con qualsiasi altro [[Artist|artista]], la cura che l'uomo del Settecento
+profondeva nell'oratoria è una prova della sua sincerità, non una sua smentita.
+Un entusiastico elogio di Burke è ricco ed elaborato quanto il
+[[Sonnet|sonetto]] di un [[Lover|amante]]; ma è perché Burke è realmente entusiasta,
+come l'[[Lover|amante]]. Una frase adirata di Junius è compilata con tanta cura
+quanto un [[Poison|veleno]] rinascimentale; ma è perché Junius è realmente adirato--
+come l'avvelenatore. Ora, nessuno che abbia compreso questa psicologica
+[[Truth|verità]] può [[Doubt|dubitare]] per un momento che molti degli aristocratici inglesi del
+Settecento avessero un reale entusiasmo per la libertà; le loro voci
+si levano come trombe alla parola stessa. Qualunque cosa i loro immediati
+antenati possano aver inteso, questi uomini intendevano ciò che dicevano quando
+parlavano dell'alta [[Memory|memoria]] di Hampden o della maestà della Magna Carta.
+Quei Patrioti che Walpole chiamava i Ragazzi includevano molti che
+davvero erano patrioti--o meglio ancora, che davvero erano ragazzi.
+Se preferiamo dirla così, tra gli aristocratici Whig ce n'erano molti che
+davvero erano Whig; Whig secondo tutte le definizioni ideali che identificavano
+il partito con una difesa della legge contro i tiranni e i cortigiani.
+Ma se qualcuno deduce, dal fatto che gli aristocratici Whig
+fossero Whig, un qualche [[Doubt|dubbio]] sul fatto che gli aristocratici Whig fossero aristocratici,
+c'è una prova pratica e una risposta. Potrebbe essere provato in molti modi:
+dalle leggi sulla caccia e sulle recinzioni che approvarono, o dal severo codice
+del duello e dalla definizione dell'[[Honour|onore]] su cui tutti insistevano.
+Ma se si mette davvero in questione se io abbia ragione nel chiamare il loro
+intero mondo un'aristocrazia, e il suo esatto contrario una [[democracy|democrazia]],
+la vera prova storica è questa: che quando il repubblicanesimo entrò davvero
+nel mondo, essi immediatamente mossero due grandi guerre contro di esso--o (se si
+preferisce questa visione) esso immediatamente mosse due grandi guerre contro di loro.
+L'[[America]] e la Francia rivelarono la vera [[Nature|natura]] del Parlamento inglese.
+Il ghiaccio può scintillare, ma una vera scintilla mostrerà che è solo ghiaccio.
+Così quando il rosso [[Fire|fuoco]] della Rivoluzione toccò i gelidi splendori
+dei Whig, vi fu immediatamente un sibilo e un contrasto; un contrasto
+della fiamma per sciogliere il ghiaccio, dell'[[Water|acqua]] per spegnere la fiamma.
+
+È stato notato che una delle virtù degli aristocratici
+era la libertà, specialmente la libertà tra loro stessi. Si potrebbe persino
+dire che una delle virtù degli aristocratici era il cinismo.
+Non erano imbottiti della nostra alla moda finzione, con le sue rigide
+e legnose figure di un uomo buono chiamato Washington e di un uomo cattivo
+chiamato Boney. Essi almeno erano consapevoli che la causa di Washington non era
+così ovviamente bianca né quella di Napoleone così ovviamente nera come la maggior parte
+dei libri in generale circolazione lascerebbero intendere. Avevano una naturale
+ammirazione per il genio militare di Washington e di Napoleone;
+avevano il più assoluto disprezzo per la Famiglia Reale tedesca.
+Ma essi erano, come classe, non soltanto contro sia Washington
+sia Napoleone, ma contro entrambi per la stessa ragione.
+Ed era che entrambi stavano per la [[democracy|democrazia]].
+
+Grande ingiustizia è fatta al [[government|governo]] aristocratico inglese
+del [[Time|tempo]] a causa di un mancato riconoscimento di questa fondamentale differenza,
+specialmente nel caso dell'[[America]]. C'è un ostinato
+[[Humour|umorismo]] negli inglesi che appare specialmente in questo,
+che mentre spesso (come nel caso dell'Irlanda) si fanno passare
+per giusti là dove erano interamente in torto, sono facilmente persuasi
+(come nel caso dell'[[America]]) a farsi passare per interamente
+in torto là dove c'è almeno un argomento per il loro essere stati
+più o meno nel giusto. Il [[government|governo]] di Giorgio III impose certe tasse
+alla comunità coloniale sulla costa orientale dell'[[America]].
+Non era certo [[Self|auto]]evidente, nel senso della legge e del precedente,
+che il [[government|governo]] imperiale non potesse imporre tasse su tali coloni.
+Né le tasse stesse erano di quella sorta praticamente oppressiva
+che giustamente solleva ovunque la comune casistica della rivoluzione.
+Gli oligarchi Whig avevano i loro difetti, ma la totale mancanza di simpatia
+per la libertà, specialmente la libertà locale, e per i loro avventurosi
+consanguinei oltre i mari, non era affatto uno dei loro difetti.
+Chatham, il grande capo della nuova e assai nazionale noblesse,
+era tipico di loro nell'essere libero dalla più debole illiberalità
+e irritazione contro le colonie in quanto tali. Egli le avrebbe
+rese colonie libere e persino favorite, se solo avesse potuto
+tenerle come colonie. Burke, che era allora l'eloquente
+voce del Whiggismo, ed era destinato più tardi a mostrare quanto interamente
+essa fosse una voce dell'aristocrazia, andò naturalmente ancora oltre.
+Persino North scese a compromessi; e sebbene Giorgio III, essendo uno [[Fool|sciocco]],
+potesse egli stesso aver rifiutato di scendere a compromessi, aveva già fallito nel
+realizzare il piano di Bolingbroke della restituzione del potere regale.
+L'argomento a favore degli americani, la vera ragione per chiamarli nel giusto
+nella disputa, era qualcosa di assai più profondo della disputa. Essi erano
+in contrasto, non con una monarchia morta, ma con un'aristocrazia viva;
+dichiararono guerra a qualcosa di assai più fine e più formidabile
+del povero vecchio Giorgio. Nondimeno, la tradizione popolare,
+specialmente in [[America]], l'ha raffigurata primariamente come un duello
+tra Giorgio III e George Washington; e, come abbiamo notato
+più di una volta, tali raffigurazioni, benché figurate, di rado sono false.
+La testa di [[King|Re]] Giorgio non era molto più utile sul trono
+di quanto lo fosse sull'insegna di una taverna; nondimeno,
+l'insegna era davvero un segno, e un segno dei tempi.
+Stava per una taverna che vendeva non birra inglese ma tedesca.
+Stava per quel lato della politica Whig che Chatham mostrò
+quando fu tollerante verso l'[[America]] [[Alone|da sola]], ma intollerante dell'[[America]]
+quando alleata alla Francia. Quella stessa insegna di legno stava, in breve,
+per la stessa cosa della congiunzione con Federico il Grande;
+stava per quell'alleanza anglo-tedesca che, in un [[Time|tempo]] assai più tardo
+nella [[history|storia]], sarebbe diventata l'antichissima Razza Teutonica.
 
 
 
@@ -13441,6 +15677,116 @@ in our literature.  The [[Romance|romance]] of them was a [[Romance|romance]] of
 but not of the real robbers.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+XVI
+
+L'ARISTOCRAZIA E I MALCONTENTI
+
+È il pathos di molte cose trite che esse sono intrinsecamente
+delicate e sono solo meccanicamente rese insulse. Chiunque abbia visto
+la prima luce bianca, quando entra da una [[Window|finestra]], sa che
+la luce del giorno non è soltanto bella quanto la luce lunare, ma altrettanto misteriosa.
+È la sottigliezza del colore della luce solare che sembra essere incolore.
+Così il patriottismo, e specialmente il patriottismo inglese, che è volgarizzato
+con volumi di nebbia e fumo verbale, è ancora in se stesso qualcosa
+di tenue e tenero come un clima. Il nome di Nelson, con il quale
+si è concluso l'ultimo capitolo, potrebbe assai [[Well|bene]] riassumere la questione;
+poiché il suo nome è sballottato e percosso come un vecchio barattolo di latta, mentre la sua
+[[Soul|anima]] aveva in sé qualcosa di un fine e fragile vaso del Settecento.
+E si scoprirà che le cose più logore contemporanee e
+connesse con lui hanno una reale [[Truth|verità]] rispetto al tono e al significato della sua vita
+e del suo [[Time|tempo]], sebbene per noi troppo spesso siano degenerate in scherzi morti.
+L'espressione "cuori di quercia", per esempio, non è una frase infelice
+per il lato più fine di quell'Inghilterra di cui egli fu la migliore espressione.
+Persino come metafora materiale essa copre molto di ciò che intendo; la quercia era
+tutt'altro che ricavata solo in randelli, né nemmeno solo in navi da battaglia;
+e la gentry inglese non riteneva professionale fingere
+di essere meri bruti. Il solo nome della quercia richiama come [[A Dream|un sogno]]
+quegli scuri ma geniali interni di collegi e case di campagna,
+in cui grandi gentiluomini, non degenerati, resero quasi il latino una lingua
+inglese e il porto un vino inglese. Qualche parte di quel mondo almeno
+non perirà; poiché il suo bagliore autunnale passò nel pennello
+dei grandi ritrattisti inglesi, ai quali, più di ogni altro uomo,
+fu dato il potere di commemorare la vasta umanità della propria terra;
+immortalando uno stato d'animo ampio e morbido quanto la loro stessa pennellata. Giungi
+naturalmente, al giusto angolo emotivo, su una tela di Gainsborough,
+che dipingeva le dame come paesaggi, tanto grandi e tanto inconsapevoli
+nel loro riposo, e noterai quanto sottilmente l'[[Artist|artista]] dia a un abito
+che fluttua in primo piano qualcosa della divina qualità della distanza.
+Allora comprenderai un'altra frase sbiadita e parole pronunciate lontano
+sul mare; sorgeranno del tutto fresche davanti a te e saranno
+portate su una battuta di musica, come parole che non hai mai udito prima:
+"Per l'Inghilterra, la [[Home|casa]] e la [[Beauty|bellezza]]."
+
+Quando penso a queste cose, non ho alcuna [[Temptation|tentazione]] a mero brontolamento
+contro la grande gentry che condusse la grande guerra dei nostri padri.
+Ma in verità la difficoltà al riguardo era qualcosa di assai più profondo di
+quanto potesse essere affrontato con qualsiasi brontolamento. Era una classe esclusiva,
+ma non una vita esclusiva; era interessata a tutte le cose,
+sebbene non per tutti gli uomini. O piuttosto quelle cose che mancava
+di includere, per via delle limitazioni di questo intervallo razionalista
+tra il misticismo medievale e quello moderno, non erano almeno
+del genere da scioccarci con superficiale disumanità.
+La più grande lacuna nelle loro anime, per coloro che la ritengono una lacuna,
+era il loro completo e compiaciuto paganesimo. Tutte le loro stesse
+decenze presupponevano che l'antica [[Faith|fede]] fosse morta; coloro che la tenevano
+ancora, come il grande Johnson, erano considerati eccentrici.
+La [[French Revolution|Rivoluzione francese]] fu un tumulto che interruppe il assai
+formale funerale del [[Christianity|Cristianesimo]]; e fu seguita da varie
+altre complicazioni, tra cui il cadavere che tornava in vita.
+Ma lo scetticismo non fu una mera orgia oligarchica; non era
+confinato all'Hell-[[Fire]] Club; il quale poteva in virtù
+del suo vivido nome essere considerato relativamente ortodosso.
+È presente nella più mite atmosfera borghese;
+come nel capolavoro borghese su "[[Northanger Abbey]]",
+dove effettivamente ci ricordiamo che è un'antichità, senza mai
+ricordare che è un'abbazia. In verità non c'è caso più chiaro
+di esso di ciò che può solo essere chiamato l'ateismo di Jane Austen.
+
+Sfortunatamente si potrebbe davvero dire del gentiluomo inglese,
+come di un altro individuo galante e grazioso, che il suo [[Honour|onore]]
+stava radicato nel disonore. Egli era, in verità, alquanto nella
+posizione di un tale [[aristocrat|aristocratico]] in un [[Romance|romanzo]], il cui splendore
+ha la macchia scura di un segreto e di una sorta di ricatto.
+C'era, per cominciare, uno scomodo [[Paradox|paradosso]] nel racconto
+del suo lignaggio. Molti eroi hanno preteso di discendere
+dagli dèi, da esseri più grandi di loro stessi;
+ma egli stesso era assai più eroico dei suoi antenati.
+La sua gloria non veniva dalle [[Crusades|Crociate]] ma dal Grande Saccheggio.
+I suoi padri non erano giunti con Guglielmo il Conquistatore,
+ma avevano soltanto assistito in un modo alquanto ambiguo, alla venuta
+di Guglielmo d'Orange. Le sue proprie imprese erano spesso
+davvero romantiche, nelle città dei sultani indiani o nella guerra
+delle navi di legno; erano le imprese dei lontani
+fondatori della sua famiglia a essere penosamente realistiche.
+In questo la grande gentry era più nella posizione di marescialli
+napoleonici che di cavalieri normanni, ma la loro posizione era peggiore;
+poiché i marescialli potevano discendere da contadini e bottegai;
+ma gli oligarchi discendevano da usurai e ladri.
+Quello, nel bene o nel male, era il [[Paradox|paradosso]] dell'Inghilterra;
+l'[[aristocrat|aristocratico]] tipico era il tipico arrampicatore sociale.
+
+Ma il segreto era peggiore; non solo una tale famiglia era fondata
+sul rubare, ma la famiglia stava rubando ancora. È una cupa [[Truth|verità]]
+che per tutto il Settecento, per tutti i grandi
+discorsi Whig sulla libertà, per tutti i grandi discorsi Tory
+sul patriottismo, attraverso il periodo di Wandewash e Plassy,
+attraverso il periodo di Trafalgar e Waterloo, un processo
+procedeva costantemente nel senato centrale della nazione.
+Il Parlamento approvava legge dopo legge per la recinzione,
+da parte dei grandi proprietari terrieri, di quelle terre comuni che erano
+sopravvissute dal grande sistema comunitario del Medioevo.
+È assai più di un gioco di parole, è la prima ironia politica
+della nostra [[history|storia]], che i Comuni distruggessero le terre comuni.
+La parola stessa "comune", come abbiamo notato in precedenza, perse il suo grande
+significato morale, e divenne un mero termine topografico per qualche
+avanzo di boscaglia o brughiera che non valeva la pena rubare.
+Nel Settecento queste ultime e persistenti terre comuni erano
+connesse solo con storie di banditi di strada, che ancora indugiano
+nella nostra letteratura. Il [[Romance|romanticismo]] di esse era un [[Romance|romanticismo]] di ladri;
+ma non dei veri ladri.
+
 
 
 <span class="atom-split" data-atom="chapter_16--part_02" data-title="A Short History of England — Chapter 16 (part 2)" data-chapter="Chapter 16" data-kind="excerpt" data-tags="motif/prayer,motif/prison,motif/storm,motif/time,concept/history,concept/vanity,form/history,histref/french_revolution,histref/reformation,character/henry_viii"></span>
@@ -13555,6 +15901,117 @@ or evil, a certain national modification of the movement.
 There is something very typical of an English revolution
 in having the tumbril without the guillotine.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Questo era il misterioso peccato degli squire inglesi, che essi
+rimanevano umani, eppure rovinavano l'umanità tutt'intorno a loro.
+Il loro stesso ideale, anzi la loro stessa realtà di vita, era davvero più
+generoso e geniale della rigida ferocia dei capitani puritani
+e dei nobili prussiani; ma la terra appassiva sotto il loro sorriso
+come sotto un cipiglio estraneo. Essendo ancora almeno inglesi, erano
+ancora a modo loro di buon carattere; ma la loro posizione era falsa,
+e una falsa posizione spinge i buoni di carattere nella brutalità.
+La [[French Revolution|Rivoluzione francese]] fu la sfida che davvero rivelò
+ai Whig che dovevano decidersi a essere davvero
+democratici o ad ammettere di essere davvero aristocratici.
+Essi decisero, come nel caso del loro esponente filosofico Burke,
+di essere davvero aristocratici; e il risultato fu il Terrore Bianco,
+il periodo di repressione antigiacobina che rivelò il vero
+lato delle loro simpatie più di qualsiasi campo insanguinato in
+terre straniere. Cobbett, l'ultimo e il più grande degli yeoman,
+della piccola classe agricola che le grandi tenute stavano
+divorando quotidianamente, fu gettato in [[Prison|prigione]] semplicemente per aver protestato
+contro la fustigazione dei soldati inglesi da parte di mercenari tedeschi.
+In quella selvaggia dispersione di una riunione pacifica che fu
+chiamata il Massacro di Peterloo, furono impiegati soldati inglesi,
+in verità, sebbene assai più nello spirito di quelli tedeschi.
+Ed è una delle amare satire che si aggrappano alla continuità stessa
+della nostra [[history|storia]], che tale soppressione dell'antico
+spirito yeoman fosse l'opera di soldati che portavano ancora il titolo
+di Yeomanry.
+
+Il nome di Cobbett è assai importante qui; anzi è generalmente
+ignorato perché è importante. Cobbett fu l'unico uomo che vide
+la tendenza del [[Time|tempo]] nel suo insieme, e la sfidò nel suo insieme;
+di conseguenza rimase senza sostegno. È un segno di tutta la nostra
+moderna [[history|storia]] che le masse siano tenute tranquille con una lotta.
+Sono tenute tranquille dalla lotta perché è una finta lotta;
+così la maggior parte di noi sa ormai a questo [[Time|tempo]] che il Sistema dei Partiti è stato
+popolare solo nello stesso senso in cui una partita di calcio è popolare.
+La divisione al [[Time|tempo]] di Cobbett era leggermente più sincera, ma quasi
+altrettanto superficiale; era una differenza di sentimento riguardo agli esterni
+che divideva l'antica gentry agricola del Settecento
+dalla nuova gentry mercantile dell'Ottocento.
+Per tutta la prima metà dell'Ottocento vi furono
+alcune reali dispute tra lo squire e il mercante.
+Il mercante si convertì all'importante tesi economica
+del Libero Scambio, e accusò lo squire di affamare
+i poveri con il pane caro per mantenere il suo privilegio agrario.
+Più tardi lo squire ribatté non inefficacemente accusando
+il mercante di abbrutire i poveri sfruttandoli oltre misura
+nelle sue fabbriche per mantenere il suo [[success|successo]] commerciale.
+L'approvazione delle Leggi sulle Fabbriche fu una confessione della crudeltà
+che sottostava ai nuovi esperimenti industriali, proprio come la
+Abrogazione delle Leggi sul Grano fu una confessione della relativa
+debolezza e impopolarità degli squire, che avevano distrutto
+gli ultimi resti di qualsiasi contadinanza che avrebbe potuto difendere
+il campo contro la fabbrica. Queste dispute relativamente reali
+ci porterebbero alla metà dell'era vittoriana.
+Ma molto prima dell'inizio dell'era vittoriana, Cobbett aveva
+visto e detto che le dispute erano solo relativamente reali.
+O piuttosto avrebbe detto, nel suo modo più robusto, che esse
+non erano affatto reali. Avrebbe detto che la pentola
+agricola e il paiolo industriale si davano l'un l'altro del nero,
+quando erano stati entrambi anneriti nella stessa cucina.
+E avrebbe avuto sostanzialmente ragione; poiché il grande
+discepolo industriale del paiolo, James Watt (che apprese
+da esso la lezione della macchina a vapore), era tipico dell'epoca
+in questo, che egli trovò le antiche Corporazioni di Mestiere troppo decadute,
+fuori moda e fuori contatto con i tempi per aiutare la sua scoperta,
+sicché egli fece ricorso alla ricca minoranza che aveva
+combattuto e indebolito quelle Corporazioni fin dalla [[Reformation|Riforma]].
+Non c'era la pentola del contadino prospero, quale Enrico di
+Navarra invocò, per entrare in alleanza con il paiolo.
+In altre parole, non c'era nel senso stretto della parola
+alcuno stato, perché la ricchezza, benché sempre più ricca,
+era sempre meno comune. Che sia un merito o un demerito,
+la scienza e l'impresa industriali erano nel complesso un nuovo esperimento
+dell'antica oligarchia; e l'antica oligarchia era sempre stata
+pronta a nuovi esperimenti--a cominciare dalla [[Reformation|Riforma]].
+Ed è caratteristico della mente lucida che era nascosta
+a molti dal temperamento focoso di Cobbett, che egli vide davvero
+la [[Reformation|Riforma]] come la radice sia della squirearchia sia dell'industrialismo,
+e chiamò il popolo a rompere con entrambi.
+Il popolo fece più sforzi per farlo di quanto comunemente si creda.
+Ci sono molti silenzi nella nostra alquanto snob [[history|storia]];
+e quando la classe istruita può facilmente reprimere una rivolta,
+può ancora più facilmente reprimere il resoconto di essa.
+Fu così con alcuni dei principali tratti di quella grande rivoluzione
+medievale il cui fallimento, o piuttosto il cui tradimento,
+fu il vero punto di svolta della nostra [[history|storia]]. Fu così con le rivolte
+contro la politica religiosa di [[Henry VIII|Enrico VIII]]; e fu così con
+i tumulti dell'incendio dei covoni e della rottura dei telai dell'epoca di Cobbett.
+La vera plebe riapparve per un momento nella nostra [[history|storia]], per appena
+abbastanza a lungo da mostrare uno dei segni immortali del vero
+ritualismo plebeo. Non c'è nulla che colpisca il dottrinario
+antidemocratico così acutamente riguardo all'azione democratica diretta come la [[Vanity|vanità]]
+o la buffonata delle cose fatte seriamente alla luce del giorno;
+esse lo stupiscono per l'essere impratiche come un poema o una [[Prayer|preghiera]].
+I rivoluzionari francesi presero d'assalto una [[Prison|prigione]] vuota semplicemente
+perché era grande e solida e difficile da [[Storm|espugnare]],
+e perciò simbolica della possente macchina monarchica di
+cui essa non era stata che il capannone. I rivoltosi inglesi laboriosamente
+fecero a pezzi una macina parrocchiale, semplicemente perché era
+grande e solida e difficile da rompere, e perciò simbolica
+della possente macchina oligarchica che perpetuamente macinava
+i volti dei poveri. Misero anche l'oppressivo agente
+di qualche proprietario terriero in un carro e lo scortarono per la contea,
+soltanto per esibirne l'orribile personalità al cielo e alla terra.
+Poi lo lasciarono andare, il che segna forse, nel bene
+o nel male, una certa modificazione nazionale del movimento.
+C'è qualcosa di assai tipico di una rivoluzione inglese
+nell'avere il carro del boia senza la ghigliottina.
 
 
 
@@ -13697,6 +16154,154 @@ went so early in their youth to break down the doors of [[Death|death]].
 --/--
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Comunque sia, questi tizzoni dell'epoca rivoluzionaria furono
+calpestati con grande brutalità; la mola continuò (e continua)
+a macinare nel modo scritturale sopra ricordato, e,
+nella maggior parte delle crisi politiche da allora, è la folla
+che si è ritrovata nel carro del boia. Ma, naturalmente, tanto
+la sommossa quanto la repressione in Inghilterra non furono che
+ombre della terribile rivolta e vendetta che coronarono il processo
+parallelo in Irlanda. Qui il terrorismo, che in Inghilterra non fu
+che uno strumento temporaneo e disperato degli aristocratici
+(non essendo, a render loro giustizia, per nulla consono al loro
+temperamento, che non aveva né la crudeltà e la morbosità né
+la [[logic|logica]] e la fissità del terrorismo), divenne in
+un'atmosfera più spirituale una fiammeggiante [[Sword|spada]]
+di follia religiosa e razziale. Pitt, il figlio di Chatham,
+era del tutto inadatto a occupare il posto di suo padre, inadatto
+davvero (non posso non pensarlo) a occupare il posto che comunemente
+gli si assegna nella [[history|storia]]. Ma se fu pienamente degno
+della sua [[Immortality|immortalità]], i suoi espedienti irlandesi,
+anche se considerati come immediatamente difendibili, non sono stati
+degni della loro [[Immortality|immortalità]]. Egli era sinceramente
+convinto della necessità nazionale di sollevare coalizione dopo
+coalizione contro Napoleone, riversando la ricchezza commerciale
+allora piuttosto peculiare all'Inghilterra sui suoi Alleati più
+poveri, e fece questo con indubbio talento e pertinacia.
+Al medesimo [[Time|tempo]] si trovava di fronte a una ostile
+ribellione irlandese e a un Parlamento irlandese in parte o
+potenzialmente ostile. Egli spezzò quest'ultimo con la più
+indecente corruzione e la prima con la più indecente brutalità,
+ma può [[Well|ben]] essersi creduto autorizzato all'appello del
+[[Tyrant|tiranno]]. Ma non solo i suoi espedienti furono quelli
+del panico, o in ogni caso del pericolo, ma (ciò che meno chiaramente
+si comprende) l'unica loro reale difesa è proprio che furono quelli
+del panico e del pericolo. Egli era pronto a emancipare i cattolici
+in quanto tali, poiché il fanatismo religioso non era il vizio
+dell'oligarchia; ma non era pronto a emancipare gli irlandesi
+in quanto tali. Non voleva realmente arruolare l'Irlanda come una
+recluta, ma semplicemente disarmare l'Irlanda come un nemico.
+Perciò il suo assetto fu fin dall'inizio in una falsa posizione
+per assestare qualsiasi cosa. L'[[Union|Unione]] può essere stata
+una necessità, ma l'[[Union|Unione]] non era un'[[Union|Unione]].
+Non era stata pensata per esserlo, e nessuno l'ha mai trattata come tale.
+Non solo non siamo mai riusciti a rendere inglese l'Irlanda,
+come la Borgogna è stata resa francese, ma non ci abbiamo mai provato.
+La Borgogna poteva vantarsi di Corneille, benché Corneille fosse un
+normanno, ma noi sorrideremmo se l'Irlanda si vantasse di Shakespeare.
+La nostra [[Vanity|vanità]] ci ha coinvolto in una mera contraddizione;
+abbiamo cercato di combinare l'identificazione con la superiorità.
+È semplicemente ottuso schernire un irlandese se figura come inglese,
+e inveire contro di lui se figura come irlandese.
+Così l'[[Union|Unione]] non ha mai neppure applicato le leggi inglesi
+all'Irlanda, ma soltanto coercizioni e concessioni entrambe appositamente
+concepite per l'Irlanda. Dal [[Time|tempo]] di Pitt fino al nostro
+questa vacillante alternanza è continuata; dal [[Time|tempo]] in cui
+il grande O'Connell, con i suoi [[Monster|mostruosi]] raduni, costrinse
+il nostro [[government|governo]] ad ascoltare l'Emancipazione cattolica,
+al [[Time|tempo]] in cui il grande Parnell, con la sua ostruzione,
+lo costrinse ad ascoltare l'Autonomia irlandese ([[Home|Home Rule]]),
+il nostro barcollante equilibrio è stato mantenuto da colpi venuti
+dall'esterno. Nel tardo diciannovesimo secolo la specie migliore
+di trattamento speciale cominciò nel complesso ad aumentare.
+Gladstone, un liberale idealista benché incoerente, si rese conto
+piuttosto tardivamente che la [[Freedom|libertà]] che amava nella
+Grecia e in [[Italy|Italia]] aveva i suoi diritti più vicino a
+[[Home|casa]], e si può dire abbia trovato una seconda giovinezza
+sulla soglia della [[Grave|tomba]], nell'eloquenza e nell'enfasi
+della sua [[conversion|conversione]]. E uno statista che portava
+l'etichetta opposta (per quel che vale) ebbe l'intuizione spirituale
+di vedere che l'Irlanda, se risoluta a essere una nazione, era ancor
+più risoluta a essere un contadinato. George Wyndham, generoso,
+fantasioso, un uomo tra i politici, insistette perché l'agonia
+agraria degli sfratti, delle fucilazioni e degli affitti da strozzino
+finisse con il singolo irlandese che, come Parnell aveva detto,
+mettesse una salda presa sulle proprie fattorie. In più di un modo
+la sua opera conclude quasi romanticamente la [[Tragedy|tragedia]]
+della ribellione contro Pitt, poiché Wyndham stesso era del
+[[Blood|sangue]] del capo dei ribelli, e compì l'unica riparazione
+finora fatta per tutto il [[Blood|sangue]], vergognosamente versato,
+che scorse intorno alla caduta di FitzGerald.
+
+L'effetto sull'Inghilterra fu meno tragico; anzi, in un certo senso
+fu comico. Wellington, egli stesso un irlandese benché del partito
+più angusto, era eminentemente un realista, e, come molti irlandesi,
+era specialmente un realista riguardo agli inglesi.
+Diceva che l'esercito da lui comandato era la feccia della terra;
+e l'osservazione non è meno preziosa perché quell'esercito
+si dimostrò abbastanza utile da poter essere chiamato il sale
+della terra. Ma in [[Truth|verità]] esso era in questo qualcosa
+di un simbolo nazionale e il custode, per così dire, di un segreto
+nazionale. C'è un [[Paradox|paradosso]] riguardo agli inglesi,
+persino distinti dagli irlandesi o dagli scozzesi, che rende
+qualsiasi versione formale dei loro piani e principii
+inevitabilmente ingiusta verso di loro. L'Inghilterra non solo
+fa i suoi bastioni con i rifiuti, ma trova bastioni in ciò che
+lei stessa ha gettato via come rifiuto. Se sia un omaggio a una
+cosa dire che persino i suoi fallimenti sono stati successi,
+c'è [[Truth|verità]] in quell'omaggio. Alcune delle migliori colonie
+furono insediamenti penali, e potrebbero essere chiamate insediamenti
+penali abbandonati. L'esercito era in gran parte un esercito di
+[[Birds|avanzi di galera]], levato con la liberazione dalle prigioni;
+ma era un buon esercito di uomini cattivi; anzi, era un allegro
+esercito di uomini sventurati. Questo è il colore e il carattere
+che è corso attraverso le realtà della [[history|storia]] inglese,
+e difficilmente può essere messo in un libro, tanto meno in un libro
+di storia. Ha i suoi bagliori nella nostra fantastica narrativa
+e nelle [[songs|canzoni]] di strada, ma il suo vero mezzo è la
+conversazione. Non ha nome se non incongruità. Una risata illogica
+sopravvive a tutto nell'[[Soul|anima]] inglese. Sopravvisse, forse,
+con anche troppa pazienza, al [[Time|tempo]] di terrorismo in cui
+gli irlandesi più seri [[Rose|insorsero]] in rivolta. Quel [[Time|tempo]]
+era pieno di una tirannia del tutto a rovescio, e l'umorista inglese
+si mise a testa in giù per adattarvisi. Difatti egli riceve spesso
+una sentenza del tutto irrazionale in un tribunale ([[Court|corte]])
+di polizia dicendo che la farà a testa in giù. Così, sotto il regime
+coercitivo di Pitt, un uomo fu mandato in [[Prison|prigione]] per aver
+detto che Giorgio IV era grasso; ma sentiamo che deve essere stato
+in parte sostenuto in [[Prison|prigione]] dalla contemplazione artistica
+di quanto grasso egli fosse. Quella specie di libertà, quella specie
+di umanità — e non è una specie da poco — sopravvisse davvero a tutta
+la deriva e al vortice discendente di un sistema economico malvagio,
+così [[Well|come]] alla soldatesca disciplina di un'epoca reazionaria
+e alla più tetra minaccia della scienza sociale materialistica,
+incarnata nei nuovi Puritani, che si sono purificati persino della
+religione. Sotto questo lungo processo, il peggio che si possa dire
+è che l'umorista inglese è stato lentamente sospinto verso il basso
+nella scala sociale. [[Falstaff]] era un cavaliere, [[Sam Weller]] era
+il servo di un gentiluomo, e alcune delle nostre recenti restrizioni
+sembrano concepite per spingere [[Sam Weller]] allo stato del
+[[Artful Dodger|Furbacchione]]. Ma [[Well|per fortuna]] nostra qualche
+simile tradizione calpestata e oscura [[Memory|memoria]] dell'Allegra
+Inghilterra sopravvisse; [[Well|per fortuna]] nostra, come vedremo,
+che tutta la nostra scienza sociale fallì e tutta la nostra arte di
+governo crollò dinanzi ad essa. Poiché doveva venire il suono di una
+tromba e un tremendo giorno di visitazione, in cui tutti i lavoratori
+quotidiani di una grigia civiltà dovevano essere chiamati fuori dalle
+loro case e dalle loro tane come una [[Resurrection|resurrezione]]
+dei morti, e lasciati nudi sotto uno strano sole senza altra religione
+che il senso dell'[[Humour|umorismo]]. E gli uomini potrebbero sapere
+di quale nazione fosse Shakespeare, che prorompeva in giochi di parole
+e burle nella più cupa passione delle sue tragedie, se solo avessero
+udito quei ragazzi in Francia e nelle Fiandre che gridavano
+"Early Doors!" essi stessi in una [[Memory|memoria]] teatrale, mentre
+andavano così presto, nella loro giovinezza, ad abbattere le porte
+della [[Death|morte]].
+
+--/--
+
 
 
 <span class="atom-split" data-atom="chapter_17--part_01" data-title="A Short History of England — Chapter 17 (part 1)" data-chapter="Chapter 17" data-kind="excerpt" data-tags="motif/blood,motif/time,motif/well,concept/beauty,concept/democracy,concept/history,concept/reform,concept/truth,form/history,histref/french_revolution"></span>
@@ -13809,6 +16414,119 @@ The Party System does not consist, as some suppose, of two parties,
 but of one.  If there were two real parties, there could be no system.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+XVII
+
+IL RITORNO DEL BARBARO
+
+L'unico modo di scrivere una [[history|storia]] popolare, come abbiamo
+già osservato, sarebbe di scriverla a rovescio. Sarebbe di prendere
+gli oggetti comuni della nostra strada e raccontare la vicenda di come
+ciascuno di essi sia mai finito lì, nella strada. E per il mio scopo
+immediato è davvero comodo prendere due oggetti che abbiamo conosciuto
+per tutta la vita come tratti di moda o di rispettabilità. Uno,
+divenuto più raro di recente, è ciò che chiamiamo cappello a cilindro;
+l'altro, che è ancora una formalità consueta, è un paio di pantaloni.
+La [[history|storia]] di questi oggetti umoristici dà davvero una chiave
+di ciò che è accaduto in Inghilterra negli ultimi cento anni.
+Non è necessario essere un esteta per considerare entrambi gli oggetti
+il rovescio del bello, come li mette alla prova ciò che si potrebbe
+chiamare il lato razionale della [[Beauty|bellezza]]. Le linee delle
+membra umane possono essere belle, e così possono esserlo le linee
+di un panneggio sciolto, ma non cilindri troppo larghi per essere le
+prime e troppo stretti per essere il secondo. Né occorre un senso
+sottile dell'armonia per vedere che, mentre vi sono centinaia di
+cappelli di diverse proporzioni, un cappello che effettivamente cresce
+verso l'alto è alquanto sbilanciato in cima. Ma ciò che in gran parte
+si dimentica è questo, che questi due fantastici oggetti che ora
+colpiscono l'occhio come inconsapevoli stramberie erano in origine
+consapevoli stramberie. I nostri antenati, a render loro giustizia,
+non li ritenevano casuali o comuni; li ritenevano, se non ridicoli,
+almeno rococò. Il cappello a cilindro era il punto più alto di un
+tripudio di dandismo della Reggenza, e i bellimbusti portavano
+pantaloni mentre gli uomini d'affari indossavano ancora le brache
+al ginocchio. Non sarà fantasioso scorgere un certo tocco orientale
+nei pantaloni, che anche i Romani più tardi consideravano
+effeminatamente orientali; era un tocco orientale che si ritrovava
+in molte cose fiorite del [[Time|tempo]]—nei [[Poems|poemi]] di Byron
+o nel Padiglione di Brighton. Ora, il punto interessante è che per un
+intero secolo serio queste fantasie istantanee sono rimaste come
+fossili. Nel carnevale della Reggenza qualche sciocco si mise in
+costume, e noi tutti siamo rimasti in costume. Almeno, siamo rimasti
+nell'abito, benché ne abbiamo perduto la fantasia.
+
+Dico che questo è tipico della cosa più importante che accadde
+nell'epoca ([[Time|tempo]]) vittoriana. Poiché la cosa più importante
+fu che nulla accadde. Il gran clamore che si fece attorno a modifiche
+minori mette in rilievo la rigidità con cui le linee principali della
+vita sociale furono lasciate come erano alla [[French Revolution|Rivoluzione francese]].
+Parliamo della [[French Revolution|Rivoluzione francese]] come di qualcosa
+che cambiò il mondo; ma la sua relazione più importante con l'Inghilterra
+è che non cambiò l'Inghilterra. Uno studioso della nostra
+[[history|storia]] si occupa piuttosto dell'effetto che essa non ebbe
+che dell'effetto che ebbe. Se sia un fato splendido essere sopravvissuti
+al Diluvio, l'oligarchia inglese ebbe quello splendore aggiunto.
+Ma persino per i paesi in cui la Rivoluzione fu una convulsione,
+essa fu l'ultima convulsione—fino a quella che scuote il mondo
+oggi. Diede il loro carattere a tutte le repubbliche, che parlavano
+tutte di progresso, ed erano occupate a segnare il passo ([[Time|tempo]]).
+I francesi, sotto tutte le reazioni superficiali, rimasero repubblicani
+nello spirito, come erano stati quando indossarono per primi i cappelli
+a cilindro. Gli inglesi, sotto tutte le riforme superficiali, rimasero
+oligarchici nello spirito, come erano stati quando indossarono per
+primi i pantaloni. Solo una potenza si poteva dire crescesse, e questo
+in un modo laborioso e prosaico—la potenza nel Nord-Est il cui nome era
+la Prussia. E gli inglesi imparavano sempre più che questa crescita non
+doveva causar loro alcun allarme, poiché i tedeschi del Nord erano loro
+cugini nel [[Blood|sangue]] e loro fratelli nello spirito.
+
+La prima cosa da notare, dunque, riguardo al diciannovesimo secolo
+è che l'Europa rimase sé stessa in confronto all'Europa della grande
+guerra, e che l'Inghilterra specialmente rimase sé stessa in confronto
+persino al resto d'Europa. Ammesso questo, possiamo dare la loro giusta
+importanza ai cauti mutamenti interni in questo paese, i piccoli
+mutamenti consapevoli e i grandi mutamenti inconsapevoli.
+La maggior parte di quelli consapevoli furono molto sul modello di uno
+dei primi, la grande Legge di [[Reform|Riforma]] del 1832, e possono
+essere considerati alla luce di essa. Anzitutto, dal punto di vista
+della maggior parte dei veri riformatori, la cosa principale riguardo
+alla Legge di [[Reform|Riforma]] fu che essa non [[Reform|riformò]].
+Aveva alle spalle un'enorme marea di entusiasmo popolare, che scomparve
+del tutto quando il popolo si trovò dinanzi ad essa. Diede il voto a
+larghe masse delle classi medie; lo tolse a corpi ben definiti delle
+classi lavoratrici; e bilanciò talmente gli elementi conservatori e
+pericolosi nella repubblica che la classe dirigente ne uscì piuttosto
+più forte di prima. La data, tuttavia, è importante, non affatto perché
+fu l'inizio della [[democracy|democrazia]], ma perché fu l'inizio del
+miglior modo mai scoperto di eludere e rimandare la [[democracy|democrazia]].
+Qui entra il trattamento omeopatico della rivoluzione, tanto spesso
+riuscito. Ben addentro nella generazione successiva Disraeli, il
+brillante avventuriero ebreo che era il simbolo dell'aristocrazia
+inglese non più genuina, estese il diritto di voto agli artigiani,
+in parte, invero, come mossa di partito contro il suo grande rivale,
+Gladstone, ma più come il metodo con cui l'antica pressione popolare
+fu prima sfiancata e poi smorzata. I politici dicevano che la classe
+lavoratrice era ormai abbastanza forte per essere ammessa al voto.
+Sarebbe più vero dire che era ormai abbastanza debole per essere
+ammessa al voto. Così in tempi più recenti il Pagamento dei Deputati,
+che un tempo sarebbe stato considerato (e osteggiato) come un'irruzione
+di forze popolari, fu approvato tranquillamente e senza resistenza,
+e considerato solo come un'estensione dei privilegi parlamentari.
+La [[Truth|verità]] è che la vecchia oligarchia parlamentare abbandonò
+la sua prima linea di trincee perché aveva ormai a quel [[Time|tempo]]
+costruito una seconda linea di difesa. Essa consisteva nella
+concentrazione di colossali fondi politici nel potere privato e
+irresponsabile dei politici, raccolti con la vendita di titoli nobiliari
+e di cose più importanti, e spesi nei brogli delle elezioni
+enormemente costose. In presenza di questo ostacolo interno un voto
+diventava valido press'a poco quanto un biglietto ferroviario quando
+c'è un blocco permanente sulla linea. La facciata e la forma esteriore
+di questo nuovo [[government|governo]] segreto è la mera applicazione
+meccanica di ciò che si chiama il Sistema dei Partiti. Il Sistema dei
+Partiti non consiste, come alcuni suppongono, di due partiti, ma di
+uno. Se ci fossero due partiti reali, non potrebbe esserci sistema.
+
 
 
 <span class="atom-split" data-atom="chapter_17--part_02" data-title="A Short History of England — Chapter 17 (part 2)" data-chapter="Chapter 17" data-kind="excerpt" data-tags="archetype/fool,motif/memory,motif/prison,motif/sleep,motif/storm,concept/history,concept/poverty,concept/reform,concept/slavery,concept/truth,concept/union,form/history"></span>
@@ -13916,6 +16634,115 @@ And it is all the stronger because the man who puts his trust in
 Trades Unions does not call himself a Catholic or even a Christian,
 if he does call himself a Guild Socialist.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Ma se questa fu l'evoluzione della [[Reform|Riforma]] parlamentare,
+rappresentata dalla prima Legge di [[Reform|Riforma]], possiamo vederne
+l'altro lato nella [[Reform|Riforma]] sociale affrontata immediatamente
+dopo la prima Legge di [[Reform|Riforma]]. È una [[Truth|verità]] che
+dovrebbe essere una torre e un caposaldo, che una delle prime cose fatte
+dal Parlamento della [[Reform|Riforma]] fu di istituire quelle dure e
+disumanizzate case di lavoro che tanto gli onesti Radicali quanto gli
+onesti Tory marchiarono con il nero titolo di Nuova Bastiglia.
+Questo amaro nome indugia nella nostra letteratura, e può essere trovato
+dal curioso nelle opere di Carlyle e di Hood, ma è senza dubbio
+interessante piuttosto come nota di indignazione contemporanea che come
+esatto paragone. È facile immaginare i logici e gli oratori legali
+della scuola parlamentare del progresso trovare molti punti di
+differenziazione e persino di contrasto. La Bastiglia era una sola
+istituzione centrale; le case di lavoro sono state molte, e ovunque
+hanno trasformato la vita locale con quel che di simpatia sociale e
+d'ispirazione hanno da offrire. Uomini di alto rango e di grande
+ricchezza venivano di frequente mandati alla Bastiglia; ma nessun
+simile errore è mai stato commesso dall'amministrazione più
+affaristica della casa di lavoro. Sulle operazioni più capricciose delle
+lettres de cachet aleggiava ancora una qualche nebulosa idea
+tradizionale che un uomo è messo in [[Prison|prigione]] per punirlo di
+qualcosa. Fu la scoperta di una scienza sociale più tarda che gli
+uomini che non possono essere puniti possono comunque essere
+imprigionati. Ma la differenza più profonda e decisiva sta nella
+migliore fortuna della Nuova Bastiglia; poiché nessuna folla ha mai
+osato darle l'[[Storm|assalto]], ed essa non cadde mai.
+
+La Nuova Legge sui Poveri non era invero del tutto nuova, nel senso
+che era il culmine e la chiara enunciazione di un principio prefigurato
+nella precedente Legge sui Poveri di Elisabetta, che fu uno dei molti
+effetti antipopolari del Grande Saccheggio. Quando i monasteri furono
+spazzati via e il sistema medievale dell'ospitalità distrutto, i
+vagabondi e i mendicanti divennero un problema, la cui soluzione ha
+sempre teso verso la [[Slavery|schiavitù]], anche quando la questione
+della [[Slavery|schiavitù]] sia stata sgombrata dalla irrilevante
+questione della crudeltà. È ovvio che un uomo disperato potrebbe
+trovare il signor Bumble e il Consiglio dei Tutori meno crudeli del
+freddo e della nuda terra—anche se gli fosse permesso di [[Sleep|dormire]]
+per terra, cosa che (per un vero e proprio [[nightmare|incubo]] di
+insensatezza e ingiustizia) non gli è concesso. Egli viene in effetti
+punito per aver dormito sotto un cespuglio con la specifica e dichiarata
+motivazione che non può permettersi un letto. È ovvio, tuttavia, che
+egli può trovare il suo miglior bene fisico entrando nella casa di
+lavoro, come lo trovava spesso in tempi pagani vendendo sé stesso in
+[[Slavery|schiavitù]]. Il punto è che la soluzione resta servile,
+anche quando il signor Bumble e il Consiglio dei Tutori cessarono di
+essere crudeli in senso comune. Il pagano poteva avere la fortuna di
+vendersi a un padrone gentile. Il principio della Nuova Legge sui
+Poveri, che finora si è dimostrato permanente nella nostra società,
+è che l'uomo perdeva tutti i suoi diritti civici e li perdeva
+unicamente per [[Poverty|povertà]]. C'è un tocco di ironia, benché
+difficilmente di mera ipocrisia, nel fatto che il Parlamento che attuò
+questa [[Reform|riforma]] avesse appena abolito la nera
+[[Slavery|schiavitù]] riscattando i proprietari di schiavi nelle
+colonie britanniche. I proprietari di schiavi furono riscattati a un
+prezzo abbastanza grande da poter essere chiamato ricatto; ma sarebbe
+fraintendere la mentalità nazionale negare la sincerità del sentimento.
+Wilberforce rappresentava in questo la vera ondata della religione
+wesleyana che aveva prodotto una umana reazione contro il calvinismo,
+e non fu filantropico in senso da poco. Ma c'è qualcosa di romantico
+nella mente inglese che sa sempre vedere ciò che è remoto. È l'esempio
+più forte di ciò che gli uomini perdono per il vedere lontano.
+È giusto dire che essi guadagnano anche molte cose, i [[Poems|poemi]]
+che sono come avventure e le avventure che sono come [[Poems|poemi]].
+È un sapore nazionale, e perciò in sé né buono né cattivo; e dipende
+dall'applicazione se troviamo per esso un testo scritturale nel
+desiderio di prendere le ali dell'aurora e dimorare nelle parti più
+remote del mare, o soltanto nel detto che gli occhi dello
+[[Fool|stolto]] sono ai confini della terra.
+
+Comunque sia, il moto inconsapevole del diciannovesimo secolo, così
+lento da sembrare immobile, andava tutto in questa direzione, di cui
+la filantropia della casa di lavoro è il tipo. Nondimeno, esso aveva
+una istituzione nazionale da combattere e sopraffare; una istituzione
+tanto più intensamente nazionale in quanto non era ufficiale, e in un
+certo senso neppure politica. Il moderno Sindacato ([[Union|Trade Union]])
+fu l'ispirazione e la creazione degli inglesi; è ancora largamente
+conosciuto in tutta Europa con il suo nome inglese. Fu l'espressione
+inglese dello sforzo europeo di resistere alla tendenza del Capitalismo
+a raggiungere il suo naturale culmine nella [[Slavery|schiavitù]].
+In ciò esso ha un interesse psicologico quasi misterioso, poiché è un
+ritorno al passato da parte di uomini ignari del passato, come l'azione
+subconscia di un uomo che ha perduto la [[Memory|memoria]]. Diciamo che
+la [[history|storia]] si ripete, ed è ancor più interessante quando
+inconsapevolmente si ripete. Nessun uomo sulla terra è tenuto tanto
+ignaro del Medioevo quanto l'operaio britannico, tranne forse l'uomo
+d'affari britannico che lo impiega. Eppure tutti coloro che sanno anche
+solo un poco del Medioevo possono vedere che il moderno Sindacato
+([[Union|Trade Union]]) è un brancolare verso l'antica Corporazione.
+È vero che coloro che guardano al Sindacato ([[Union|Trade Union]]),
+e persino quelli abbastanza lungimiranti da chiamarlo la Corporazione,
+sono spesso privi della più tenue sfumatura di misticismo medievale,
+o persino di [[morality|moralità]] medievale. Ma questo fatto è esso
+stesso il più impressionante e persino sbalorditivo omaggio alla
+[[morality|moralità]] medievale. Ha tutta la stringente [[logic|logica]]
+della coincidenza. Se un gran numero degli atei più duri di testa
+avesse evoluto, dalla propria intima coscienza, l'idea che un certo
+numero di scapoli o di zitelle debbano vivere insieme in gruppi celibi
+per il bene dei poveri, o per l'osservanza di certe ore e uffici,
+sarebbe un fortissimo punto a favore dei monasteri. Sarebbe tanto più
+forte se gli atei non avessero mai sentito parlare di monasteri;
+sarebbe fortissimo se essi odiassero il nome stesso di monasteri.
+Ed è tanto più forte perché l'uomo che ripone la sua fiducia nei
+Sindacati non si dice cattolico e neppure cristiano, se pure si dice
+Socialista Corporativo (Guild Socialist).
 
 
 
@@ -14037,6 +16864,126 @@ For whatever reason, the poor Englishman remained in many
 things much as his fathers had been, and seemed to think
 the Higher Criticism too high for him even to criticize.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Il movimento del Sindacato ([[Union|Trade Union]]) attraversò molti
+pericoli, incluso un ridicolo tentativo di certi avvocati di condannare
+come cospirazione criminale quella solidarietà del Sindacato
+([[Union|Trade Union]]), di cui la loro stessa professione è l'esempio
+più forte e sorprendente al mondo. La lotta culminò in giganteschi
+scioperi che spaccarono il paese in ogni direzione nella prima parte
+del ventesimo secolo. Ma un altro processo, con molto più potere alle
+spalle, era anch'esso all'opera. Il principio rappresentato dalla
+Nuova Legge sui Poveri proseguì nel suo corso, e in un aspetto
+importante alterò il suo corso, benché si possa a stento dire che
+alterasse il suo scopo. Lo si può enunciare nel modo più corretto
+dicendo che i datori di lavoro stessi, che già organizzavano gli
+affari, cominciarono a organizzare la [[Reform|Riforma]] sociale.
+Fu espresso più pittorescamente da un cinico [[aristocrat|aristocratico]]
+in Parlamento che disse: "Adesso siamo tutti Socialisti."
+I Socialisti, un [[Body|corpo]] di uomini del tutto sinceri guidati da
+parecchi uomini cospicuamente brillanti, avevano a lungo martellato
+nella testa della gente la disperata sterilità del mero non-intervento
+nello scambio. I Socialisti proponevano che lo Stato non solo
+intervenisse negli affari ma prendesse in mano gli affari, e pagasse
+tutti gli uomini come uguali salariati, o in ogni caso come salariati.
+I datori di lavoro non erano disposti a cedere la propria posizione
+allo Stato, e questo progetto è in gran parte svanito dalla politica.
+Ma i più saggi tra loro erano disposti a pagare salari migliori,
+ed erano specialmente disposti a concedere vari altri benefici
+purché fossero concessi alla maniera dei salari. Così avemmo una serie
+di riforme sociali che, nel bene o nel male, tendevano tutte nella
+stessa direzione; il permesso ai dipendenti di rivendicare certi
+vantaggi in quanto dipendenti, e in quanto qualcosa di permanentemente
+diverso dai datori di lavoro. Di queste gli esempi ovvii furono la
+Responsabilità dei Datori di Lavoro, le Pensioni di Vecchiaia, e,
+a segnare un altro e più decisivo passo nel processo, la Legge
+sull'Assicurazione.
+
+Quest'ultima in particolare, e l'intero disegno della [[Reform|Riforma]]
+sociale in generale, furono modellati sulla [[Germany|Germania]]. Anzi
+tutta la vita inglese di questo periodo fu adombrata dalla
+[[Germany|Germania]]. Avevamo ora raggiunto, nel bene o nel male, il
+compimento finale di quell'influenza crescente che cominciò a montare
+su di noi nel diciassettesimo secolo, che fu consolidata dalle alleanze
+militari del diciottesimo secolo, e che nel diciannovesimo secolo era
+stata trasformata in una [[philosophy|filosofia]]—per non dire in una
+mitologia. La metafisica tedesca aveva diluito la nostra teologia,
+sicché per più d'uno la più solenne convinzione riguardo al Venerdì
+Santo era che il Venerdì (Friday) prendesse nome da Freya. La
+[[history|storia]] tedesca aveva semplicemente annesso la
+[[history|storia]] inglese, sicché si contava quasi dovere di ogni
+inglese patriottico essere orgoglioso di essere un tedesco.
+Il genio di Carlyle, la cultura predicata da Matthew Arnold, non
+avrebbero, per persuasivi che fossero, prodotto da [[Alone|soli]]
+questo effetto, se non fosse stato per un fenomeno esterno di grande
+forza. La nostra politica interna fu trasformata dalla nostra politica
+estera; e la politica estera era dominata dai passi sempre più drastici
+che il Prussiano, ormai chiaramente il principe di tutte le tribù
+tedesche, andava compiendo per estendere l'influenza tedesca nel mondo.
+La [[Denmark|Danimarca]] fu derubata di due province; la Francia fu
+derubata di due province; e benché la caduta di [[Paris|Parigi]] fosse
+sentita quasi ovunque come la caduta della capitale della civiltà,
+una cosa simile al sacco di Roma da parte dei Goti, molte delle persone
+più influenti in Inghilterra ancora non vi videro nient'altro che il
+solido [[success|successo]] dei nostri consanguinei e vecchi alleati
+di Waterloo. I metodi morali che lo ottennero, i giochi di prestigio
+con la pretesa di Augustenburg, la falsificazione del telegramma di
+Ems, furono o abilmente celati o solo nebulosamente apprezzati. La
+Critica Superiore era entrata nella nostra etica così [[Well|come]]
+nella nostra teologia. La nostra visione dell'Europa fu anche
+distorta e resa sproporzionata dall'accidente di una naturale
+preoccupazione per Costantinopoli e per la nostra via verso l'India,
+che indusse Palmerston e i successivi Primi Ministri a sostenere il
+Turco e a vedere la [[Russia]] come l'unico nemico. Questa reazione
+alquanto cinica fu riassunta nella strana figura di Disraeli, che
+concluse un accordo filo-turco pieno della sua nativa indifferenza
+verso i sudditi cristiani della Turchia, e lo suggellò a Berlino alla
+presenza di Bismarck. Disraeli non era privo di intuizione sulle
+incoerenze e le illusioni degli inglesi; disse molte cose sagaci su di
+loro, e una specialmente quando disse alla Scuola di Manchester che il
+loro motto era "Pace e Abbondanza, in mezzo a un popolo affamato, e con
+il mondo in armi." Ma ciò che disse su Pace e Abbondanza potrebbe
+[[Well|bene]] essere parodiato come commento a ciò che egli stesso disse
+su Pace con [[Honour|Onore]]. Di ritorno da quella Conferenza di Berlino
+avrebbe dovuto dire: "Vi porto Pace con [[Honour|Onore]], pace con i
+semi della più orribile guerra della [[history|storia]]; e
+[[Honour|onore]] come gli zimbelli e le vittime del vecchio prepotente
+di Berlino."
+
+Ma fu, come abbiamo visto, specialmente nella [[Reform|Riforma]] sociale
+che si credeva la [[Germany|Germania]] indicasse la via, e avesse trovato
+il segreto per trattare il male economico. Nel caso dell'Assicurazione,
+che fu il caso di prova, essa fu applaudita per aver obbligato tutti i
+suoi operai a mettere da parte una porzione dei loro salari per ogni
+[[Time|tempo]] di malattia; e numerose altre disposizioni, tanto in
+[[Germany|Germania]] quanto in Inghilterra, perseguirono il medesimo
+ideale, che era quello di proteggere i poveri contro sé stessi.
+Esso comportava ovunque una potenza esterna che ficcava il dito nel
+piatto di famiglia; ma poca attenzione fu prestata a qualsiasi attrito
+così causato, poiché si supponeva che tutti i pregiudizi contro il
+processo fossero il germoglio dell'ignoranza. E quell'ignoranza era già
+attaccata da ciò che si chiamava [[Education|educazione]]—un'impresa
+anch'essa ispirata in gran parte dall'esempio, e in parte dalla
+concorrenza commerciale della [[Germany|Germania]]. Si faceva notare che
+in [[Germany|Germania]] i governi e i grandi datori di lavoro ritenevano
+[[Well|ben]] degno del loro conto applicare la più grandiosa scala di
+organizzazione e la più minuziosa [[Inquisition|inquisizione]] del
+dettaglio all'istruzione dell'intera razza tedesca. Il
+[[government|governo]] era più forte per l'addestramento dei suoi
+scolari come addestrava i suoi soldati; le grandi imprese erano più
+forti per la fabbricazione della mente come fabbricavano la materia.
+L'[[Education|educazione]] inglese fu resa obbligatoria; fu resa
+gratuita; molti uomini buoni, seri ed entusiasti si adoperarono per
+creare una scala di livelli ed esami, che collegasse i più intelligenti
+tra i poveri con la cultura delle università inglesi e con
+l'insegnamento corrente di [[history|storia]] o di [[philosophy|filosofia]].
+Ma non si può dire che il collegamento fosse molto completo, o la
+realizzazione così accurata come la realizzazione tedesca. Per una
+qualche ragione, il povero inglese rimase in molte cose press'a poco
+come erano stati i suoi padri, e sembrava ritenere la Critica Superiore
+troppo alta persino perché la criticasse.
 
 
 
@@ -14236,3 +17183,101 @@ of our story, is half inclined to wish that the wave of
 Teutonic barbarism had washed out us and our armies together;
 and that the world should never know anything more of the last
 of the English, except that they died for liberty.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+XVIII
+
+CONCLUSIONE
+
+In un libro così piccolo su una materia così grande, terminato
+abbastanza in fretta tra le necessità di un'enorme crisi nazionale,
+sarebbe assurdo pretendere di aver raggiunto la proporzione;
+ma confesserò un certo tentativo di correggere una sproporzione.
+Parliamo di prospettiva storica, ma sospetto piuttosto che vi sia
+troppa prospettiva nella [[history|storia]]; poiché la prospettiva fa
+di un gigante un pigmeo e di un pigmeo un gigante. Il passato è un
+gigante scorciato con i piedi rivolti verso di noi; e talvolta i piedi
+sono d'argilla. Vediamo troppo soltanto il tramonto del Medioevo,
+anche quando ne ammiriamo i colori; e lo studio di un uomo come
+Napoleone è troppo spesso quello di "L'Ultima Fase." Così c'è uno
+spirito che ritiene ragionevole trattare in dettaglio di Old Sarum,
+e riterrebbe ridicolo trattare in dettaglio dell'Uso di Sarum; ovvero
+che erige nei Kensington Gardens un monumento d'oro ad Alberto più
+grande di quanto nessuno abbia mai eretto ad Alfredo. La
+[[history|storia]] inglese è mal letta specialmente, io penso, perché
+la crisi viene mancata. Di solito la si colloca attorno al periodo
+degli Stuart; e molti dei memoriali del nostro passato sembrano soffrire
+della stessa visitazione del memoriale del signor Dick. Ma benché la
+storia degli Stuart fosse una [[Tragedy|tragedia]], io penso che fosse
+anche un epilogo.
+
+Faccio la congettura, poiché altro non può essere, che il cambiamento
+venne realmente con la caduta di [[Richard II|Riccardo II]], in seguito
+al suo fallimento nell'usare il dispotismo medievale negli interessi
+della [[democracy|democrazia]] medievale. L'Inghilterra, come le altre
+nazioni della Cristianità, era stata creata non tanto dalla
+[[Death|morte]] dell'antica civiltà quanto dalla sua fuga dalla
+[[Death|morte]], ovvero dal suo rifiuto di morire. La civiltà medievale
+era sorta dalla resistenza ai barbari, alla nuda barbarie dal Nord e
+alla più sottile barbarie dall'Oriente. Crebbe in libertà e
+[[government|governo]] locale sotto re che controllavano le cose più
+ampie della guerra e della tassazione; e nella guerra dei contadini del
+quattordicesimo secolo in Inghilterra, il [[King|re]] e il popolo
+vennero per un momento in consapevole alleanza. Entrambi scoprirono che
+una terza cosa era già troppo forte per loro. Quella terza cosa era
+l'aristocrazia; ed essa si impadronì e si chiamò il Parlamento.
+La [[house|Camera]] dei Comuni, come implica il suo nome, aveva in
+origine consistito di uomini semplici convocati dal [[King|re]] come
+giurati; ma divenne presto una giuria assai speciale. Divenne, nel bene
+o nel male, un grande organo di [[government|governo]], sopravvivendo
+alla Chiesa, alla monarchia e alla folla; fece molte grandi cose e non
+poche cose buone. Creò ciò che chiamiamo l'Impero Britannico; creò
+qualcosa che era davvero assai più prezioso, una nuova e naturale specie
+di aristocrazia, più umana e persino più umanitaria della maggior parte
+delle aristocrazie del mondo. Ebbe sufficiente senso degli istinti del
+popolo, almeno fino a tempi recenti, da rispettare la libertà e
+specialmente il riso che era divenuto quasi la religione della razza.
+Ma nel fare tutto questo, deliberatamente fece altre due cose, che
+ritenne parte naturale della sua politica; prese le parti dei
+protestanti, e poi (in parte come conseguenza) prese le parti dei
+tedeschi. Fino a tempi recentissimi la maggior parte degli inglesi
+intelligenti era del tutto onestamente convinta che in entrambi i casi
+prendesse le parti del progresso contro il [[Decay|Decadimento]].
+La domanda che molti di loro ora inevitabilmente si pongono, e si
+porrebbero sia che io la ponessi o no, è se non avesse piuttosto preso
+le parti della barbarie contro la civiltà.
+
+Almeno, se c'è qualcosa di valido nella mia stessa visione di queste
+cose, siamo tornati a un'origine e siamo di nuovo nella guerra con i
+barbari. Cade con la stessa naturalezza per me che l'inglese e il
+francese debbano stare dalla stessa parte come che Alfredo e Abbone
+debbano stare dalla stessa parte, in quel nero secolo in cui i barbari
+devastarono il Wessex e assediarono [[Paris|Parigi]]. Ma vi sono ora,
+forse, prove meno certe della vittoria spirituale, distinta da quella
+materiale, della civiltà. Le idee sono più mescolate, sono complicate
+da sfumature sottili o coperte da nomi raffinati. E se il selvaggio in
+ritirata si lasci dietro l'[[Soul|anima]] della barbarie, come una
+malattia nell'aria, io stesso giudicherei anzitutto da una prova
+politica e morale. L'[[Soul|anima]] della barbarie è la
+[[Slavery|schiavitù]]. Sotto tutta la sua maschera di macchinari e
+istruzione, l'irreggimentazione tedesca dei poveri fu la ricaduta dei
+barbari nella [[Slavery|schiavitù]]. Non vedo per noi alcuno scampo da
+essa nei solchi delle nostre presenti riforme, ma solo facendo ciò che
+i medievali fecero dopo l'altra sconfitta barbarica: cominciando,
+mediante corporazioni e piccoli gruppi indipendenti, a restaurare
+gradualmente la proprietà personale dei poveri e la [[Freedom|libertà]]
+personale della famiglia. Se gli inglesi tenteranno davvero questo,
+gli inglesi hanno almeno mostrato nella guerra, a chiunque ne dubitasse,
+di non aver perduto il [[Courage|coraggio]] e la capacità dei loro padri,
+e di poterlo portare a compimento se vorranno. Se non lo faranno,
+se continueranno a muoversi solo con il morto slancio della disciplina
+sociale che apprendemmo dalla [[Germany|Germania]], non c'è davanti a
+noi nient'altro che quello che il signor Belloc, lo scopritore di questa
+grande deriva sociologica, ha chiamato lo Stato Servile. E vi sono stati
+d'animo in cui un uomo, considerando quella conclusione della nostra
+storia, è quasi incline a desiderare che l'ondata della barbarie
+teutonica avesse spazzato via noi e i nostri eserciti insieme; e che il
+mondo non dovesse mai sapere nulla di più degli ultimi degli inglesi,
+se non che morirono per la libertà.

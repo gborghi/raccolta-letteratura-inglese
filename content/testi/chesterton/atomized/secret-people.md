@@ -84,6 +84,77 @@ But we are the people of England; and we have not spoken yet.
 Smile at us, pay us, pass us. But do not quite forget.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Il Popolo Segreto  
+
+Sorrideteci, pagateci, oltrepassateci; ma non dimenticate del tutto;  
+poiché siamo il popolo d'Inghilterra, che non ha ancora parlato.  
+C'è più d'un grasso fattore che beve con minore allegria,  
+c'è più d'un libero contadino francese più ricco e più triste di noi.  
+Non v'è gente al mondo intero così inerme o così saggia.  
+C'è fame nei nostri ventri, c'è riso nei nostri occhi;  
+ridete di noi e ci [[Love|amate]], e boccali e occhi sono umidi:  
+solo, non ci conoscete. Poiché non abbiamo ancora parlato.  
+
+I bei re francesi giunsero in uno sventolìo di bandiere e dame.  
+Ci piacquero i loro sorrisi e le loro battaglie, ma i loro nomi mai sapemmo dire.  
+Il [[Blood|sangue]] corse rosso fino a Bosworth e caddero gli alti signori francesi;  
+non v'era che un popolo nudo sotto una nuda [[Crown|corona]].  
+E gli occhi dei Servi del [[King|Re]] si volgevano terribili in ogni direzione,  
+e l'oro dei Servi del [[King|Re]] [[Rose|saliva]] più alto ogni giorno.  
+Bruciarono le case degli uomini rasati, che erano bizzarre e gentili,  
+finché non vi fu letto nella [[house|casa]] d'un monaco, né cibo che l'uomo trovasse.  
+Le locande di Dio dove nessuno pagava, che erano il muro dei deboli.  
+I Servi del [[King|Re]] le divorarono tutte. E ancora non parlammo.  
+
+E il volto dei Servi del [[King|Re]] si fece più grande del [[King|Re]]:  
+egli li ingannò, ed essi lo intrappolarono, e gli stettero attorno in cerchio.  
+I nuovi [[Grave|gravi]] signori si serrarono intorno a lui, che avevano divorato i frutti dell'abbazia,  
+e gli uomini della nuova religione, con le loro bibbie negli stivali,  
+vedemmo muoversi le loro spalle, a minacciare o a discutere,  
+e alcuni erano puri e alcuni vili; ma nessuno ci prestò attenzione.  
+Vedemmo il [[King|Re]] mentre lo uccidevano, e il suo volto era fiero e pallido;  
+e pochi uomini parlarono di [[Freedom|libertà]], mentre l'Inghilterra parlava di birra.  
+
+Una guerra che non comprendemmo venne sul mondo e destò  
+americani, francesi, irlandesi; ma non sapevamo le cose che dicevano.  
+Parlavano di diritti e di [[Nature|natura]] e di pace e del regno del popolo:  
+e gli scudieri, nostri padroni, ci ordinarono di combattere; e mai più ci disprezzarono.  
+Deboli pur essendo per sempre, nessuno poté allora condannarci;  
+gli uomini ci chiamavano servi e sguatteri; gli uomini sapevano che eravamo uomini.  
+Tra schiuma e fiamma a Trafalgar, sulle pianure di Albuera,  
+agimmo e morimmo come leoni, per tenerci nelle [[Chains|catene]],  
+giacemmo in rovine viventi; sparando e senza temere  
+lo strano volto feroce dei francesi che sapevano per che cosa lottavano,  
+e l'uomo che pareva più che un uomo, contro cui ci battemmo e che spezzammo;  
+e con lui spezzammo i nostri stessi diritti. E ancora mai parlammo.  
+
+Il nostro lembo di gloria finì; mai più udimmo cannoni.  
+Ma lo scudiero pareva colpito in sella; era stolto, come in preda alla [[Pain|pena]],  
+si appoggiava a un avvocato vacillante, si aggrappava a un ebreo strisciante,  
+era abbattuto; forse, dopo tutto, era stato abbattuto a Waterloo.  
+O forse le ombre degli uomini rasati, il cui bottino è nella sua [[house|casa]],  
+tornano infine in forme lucenti a guastare la sua ultima gozzoviglia:  
+sappiamo soltanto che gli ultimi tristi scudieri cavalcarono lenti verso il mare,  
+e un nuovo popolo prende la terra: e ancora non siamo noi.  
+
+Ci hanno consegnati nelle mani di nuovi signori infelici,  
+signori senz'ira e senza [[Honour|onore]], che non osano cingere la spada.  
+Combattono rimescolando carte; hanno occhi lucidi, morti, stranieri;  
+guardano la nostra fatica e il nostro riso come un uomo stanco guarda le mosche.  
+E il peso della loro pietà senz'amore è peggiore degli antichi torti,  
+le loro porte si chiudono la sera; ed essi non conoscono [[songs|canti]].  
+
+Udiamo uomini parlare per noi di nuove leggi forti e dolci,  
+eppure non v'è uomo che parli come noi parliamo per strada.  
+Può darsi che ci leveremo per ultimi come i francesi si [[Rose|levarono]] per primi,  
+la nostra ira venga dopo l'ira della [[Russia]] e la nostra ira sia la peggiore.  
+Può darsi che siamo destinati a segnare col nostro tumulto e col nostro riposo  
+lo scherno di Dio per tutti gli uomini che governano. Può darsi che la birra sia il meglio.  
+Ma siamo il popolo d'Inghilterra; e non abbiamo ancora parlato.  
+Sorrideteci, pagateci, oltrepassateci. Ma non dimenticate del tutto.
+
 
 
 <span class="atom-split" data-atom="part--part_01" data-title="secret-people (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="archetype/king,motif/blood,motif/chains,motif/crown,motif/grave,motif/love,motif/nature,motif/pain,motif/rose,concept/freedom,concept/honour,concept/nature,setting/russia"></span>
@@ -157,3 +228,75 @@ It may be we are meant to mark with our riot and our rest
 God's scorn for all men governing. It may be beer is best.  
 But we are the people of England; and we have not spoken yet.  
 Smile at us, pay us, pass us. But do not quite forget.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Il Popolo Segreto  
+
+Sorrideteci, pagateci, oltrepassateci; ma non dimenticate del tutto;  
+poiché siamo il popolo d'Inghilterra, che non ha ancora parlato.  
+C'è più d'un grasso fattore che beve con minore allegria,  
+c'è più d'un libero contadino francese più ricco e più triste di noi.  
+Non v'è gente al mondo intero così inerme o così saggia.  
+C'è fame nei nostri ventri, c'è riso nei nostri occhi;  
+ridete di noi e ci [[Love|amate]], e boccali e occhi sono umidi:  
+solo, non ci conoscete. Poiché non abbiamo ancora parlato.  
+
+I bei re francesi giunsero in uno sventolìo di bandiere e dame.  
+Ci piacquero i loro sorrisi e le loro battaglie, ma i loro nomi mai sapemmo dire.  
+Il [[Blood|sangue]] corse rosso fino a Bosworth e caddero gli alti signori francesi;  
+non v'era che un popolo nudo sotto una nuda [[Crown|corona]].  
+E gli occhi dei Servi del [[King|Re]] si volgevano terribili in ogni direzione,  
+e l'oro dei Servi del [[King|Re]] [[Rose|saliva]] più alto ogni giorno.  
+Bruciarono le case degli uomini rasati, che erano bizzarre e gentili,  
+finché non vi fu letto nella [[house|casa]] d'un monaco, né cibo che l'uomo trovasse.  
+Le locande di Dio dove nessuno pagava, che erano il muro dei deboli.  
+I Servi del [[King|Re]] le divorarono tutte. E ancora non parlammo.  
+
+E il volto dei Servi del [[King|Re]] si fece più grande del [[King|Re]]:  
+egli li ingannò, ed essi lo intrappolarono, e gli stettero attorno in cerchio.  
+I nuovi [[Grave|gravi]] signori si serrarono intorno a lui, che avevano divorato i frutti dell'abbazia,  
+e gli uomini della nuova religione, con le loro bibbie negli stivali,  
+vedemmo muoversi le loro spalle, a minacciare o a discutere,  
+e alcuni erano puri e alcuni vili; ma nessuno ci prestò attenzione.  
+Vedemmo il [[King|Re]] mentre lo uccidevano, e il suo volto era fiero e pallido;  
+e pochi uomini parlarono di [[Freedom|libertà]], mentre l'Inghilterra parlava di birra.  
+
+Una guerra che non comprendemmo venne sul mondo e destò  
+americani, francesi, irlandesi; ma non sapevamo le cose che dicevano.  
+Parlavano di diritti e di [[Nature|natura]] e di pace e del regno del popolo:  
+e gli scudieri, nostri padroni, ci ordinarono di combattere; e mai più ci disprezzarono.  
+Deboli pur essendo per sempre, nessuno poté allora condannarci;  
+gli uomini ci chiamavano servi e sguatteri; gli uomini sapevano che eravamo uomini.  
+Tra schiuma e fiamma a Trafalgar, sulle pianure di Albuera,  
+agimmo e morimmo come leoni, per tenerci nelle [[Chains|catene]],  
+giacemmo in rovine viventi; sparando e senza temere  
+lo strano volto feroce dei francesi che sapevano per che cosa lottavano,  
+e l'uomo che pareva più che un uomo, contro cui ci battemmo e che spezzammo;  
+e con lui spezzammo i nostri stessi diritti. E ancora mai parlammo.  
+
+Il nostro lembo di gloria finì; mai più udimmo cannoni.  
+Ma lo scudiero pareva colpito in sella; era stolto, come in preda alla [[Pain|pena]],  
+si appoggiava a un avvocato vacillante, si aggrappava a un ebreo strisciante,  
+era abbattuto; forse, dopo tutto, era stato abbattuto a Waterloo.  
+O forse le ombre degli uomini rasati, il cui bottino è nella sua [[house|casa]],  
+tornano infine in forme lucenti a guastare la sua ultima gozzoviglia:  
+sappiamo soltanto che gli ultimi tristi scudieri cavalcarono lenti verso il mare,  
+e un nuovo popolo prende la terra: e ancora non siamo noi.  
+
+Ci hanno consegnati nelle mani di nuovi signori infelici,  
+signori senz'ira e senza [[Honour|onore]], che non osano cingere la spada.  
+Combattono rimescolando carte; hanno occhi lucidi, morti, stranieri;  
+guardano la nostra fatica e il nostro riso come un uomo stanco guarda le mosche.  
+E il peso della loro pietà senz'amore è peggiore degli antichi torti,  
+le loro porte si chiudono la sera; ed essi non conoscono [[songs|canti]].  
+
+Udiamo uomini parlare per noi di nuove leggi forti e dolci,  
+eppure non v'è uomo che parli come noi parliamo per strada.  
+Può darsi che ci leveremo per ultimi come i francesi si [[Rose|levarono]] per primi,  
+la nostra ira venga dopo l'ira della [[Russia]] e la nostra ira sia la peggiore.  
+Può darsi che siamo destinati a segnare col nostro tumulto e col nostro riposo  
+lo scherno di Dio per tutti gli uomini che governano. Può darsi che la birra sia il meglio.  
+Ma siamo il popolo d'Inghilterra; e non abbiamo ancora parlato.  
+Sorrideteci, pagateci, oltrepassateci. Ma non dimenticate del tutto.

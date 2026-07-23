@@ -6702,6 +6702,143 @@ and he had the relic of it on the edge of the kitchen-[[Garden|garden]]. At
 the moment, however, he was not looking at the idol, but at the scarecrow.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Capitolo I
+
+L'Impresentabile Apparizione del Colonnello Crane
+
+Questi racconti riguardano il compimento di cose ritenute
+impossibili da fare; impossibili da credere; e, come lo stanco
+lettore [[Well|ben]] può gridare, impossibili da leggere. Se il narratore
+si limitasse a dire che accaddero, senza dire come accaddero,
+potrebbero facilmente essere classificate insieme alla mucca che
+saltò oltre la [[Moon|luna]] o al più introspettivo individuo che saltò
+giù per la propria gola. In breve, sono tutte storie gonfiate;
+e sebbene le storie gonfiate possano anche essere storie vere,
+c'è qualcosa nella frase stessa di appropriato a un simile mondo
+alla rovescia; poiché il logico presumibilmente classificherà una
+storia gonfiata insieme a un [[Epigram|epigramma]] corpulento o a un [[Essay|saggio]]
+dalle lunghe gambe. È del tutto giusto che simili incidenti
+impossibili comincino nel più compassato e prosaico di tutti i
+luoghi, e in apparenza con il più compassato e prosaico di tutti
+gli esseri umani.
+
+Il luogo era una diritta [[Road|strada]] suburbana di case suburbane
+rigorosamente recintate, ai margini di una città moderna. L'[[Time|ora]]
+era circa le undici meno venti di una [[Sunday|domenica]] mattina, quando una
+processione di famiglie suburbane in abiti della [[Sunday|domenica]] saliva
+con decoro lungo la [[Road|strada]] verso la chiesa. E l'uomo era un
+rispettabilissimo militare in congedo di nome colonnello Crane,
+che anch'egli si recava in chiesa, come aveva fatto ogni [[Sunday|domenica]]
+alla stessa ora per una lunga serie d'anni. Non vi era differenza
+evidente tra lui e i suoi vicini, salvo che egli era un po' meno
+evidente. La sua [[house|casa]] si chiamava soltanto White Lodge, ed era
+perciò meno allettante per il passante romantico di Rowanmere da un
+lato o Heatherbrae dall'altro. Si presentava lindo e azzimato per
+la chiesa come per una parata; ma era troppo [[Well|ben]] vestito per essere
+additato come un uomo [[Well|ben]] vestito. Era piuttosto bello in uno stile
+secco e cotto dal sole; ma i suoi capelli biondo slavato erano di
+una tinta scialba che poteva sembrare castano chiaro o grigio
+pallido; e sebbene i suoi occhi azzurri fossero limpidi, guardavano
+un po' pesantemente sotto le palpebre abbassate. Il colonnello Crane
+era una specie di [[Survival|sopravvissuto]]. Non era veramente vecchio; anzi
+era appena di mezza età; e aveva conquistato le sue ultime
+onorificenze nella grande guerra. Ma una varietà di cause lo aveva
+mantenuto fedele al tipo tradizionale del vecchio soldato di
+professione, quale era esistito prima del 1914; quando una piccola
+parrocchia aveva un solo colonnello come aveva un solo curato.
+Sarebbe del tutto ingiusto chiamarlo un richiamato; anzi, sarebbe
+assai più vero chiamarlo un trincerato. Poiché era rimasto nelle
+tradizioni con la stessa fermezza e pazienza con cui era rimasto
+nelle trincee. Era semplicemente un uomo che non aveva alcun gusto
+per il mutare le proprie abitudini, e non si era mai curato delle
+convenzioni abbastanza da alterarle. Una delle sue eccellenti
+abitudini era andare in chiesa alle [[Clock|undici in punto]], e perciò vi
+andava; e non sapeva che con lui andava qualcosa di un'aria d'altri
+tempi e un brano nella [[history|storia]] d'Inghilterra.
+
+Mentre usciva dalla porta di casa, tuttavia, quella particolare
+mattina, torceva tra le dita un pezzetto di carta e aggrottava la
+fronte con una perplessità piuttosto insolita. Invece di dirigersi
+diritto al cancello del [[Garden|giardino]] passeggiò una o due volte su e giù
+per il [[Garden|giardino]] antistante, facendo dondolare il suo nero bastone da
+passeggio. Il biglietto gli era stato consegnato a colazione, ed
+evidentemente poneva un qualche problema pratico che esigeva
+immediata soluzione. Rimase alcuni minuti con l'occhio inchiodato su
+una margherita rossa all'angolo dell'aiuola più vicina; e poi una
+nuova espressione cominciò a muoversi nei muscoli del suo volto
+abbronzato, dando un cenno lievemente arcigno di [[Humour|umorismo]], di cui
+pochi, tranne i suoi intimi, erano consapevoli. Ripiegato il foglio
+e cacciatolo nel taschino del panciotto, girò intorno alla [[house|casa]]
+fino al [[Garden|giardino]] posteriore, dietro il quale c'era l'[[Garden|orto]], dove un
+vecchio domestico, una sorta di factotum o tuttofare di nome Archer,
+faceva da ortolano.
+
+Anche Archer era un [[Survival|sopravvissuto]]. In verità, i due erano sopravvissuti
+insieme; erano sopravvissuti a un buon numero di cose che avevano
+ucciso parecchi altri. Ma sebbene fossero stati insieme attraverso
+la guerra che fu anche una rivoluzione, e avessero completa fiducia
+l'uno nell'altro, quell'uomo, Archer, non era mai riuscito a perdere
+le maniere opprimenti del servitore. Svolgeva i doveri del
+giardiniere con l'aria di un maggiordomo. Svolgeva davvero quei
+doveri assai [[Well|bene]] e ci si divertiva molto; forse ci si divertiva
+tanto più in quanto era un abile cockney, per il quale i mestieri di
+campagna erano un nuovo passatempo. Ma in qualche modo, ogni volta
+che diceva: «Ho messo i semi, signore», suonava sempre come: «Ho
+messo lo sherry in tavola, signore»; e non poteva dire: «Devo
+strappare le carote?» senza sembrare dire: «Desidererebbe il claret?»
+
+«[[Hope|Spero]] tu non stia lavorando di [[Sunday|domenica]]», disse il colonnello,
+con un sorriso assai più cordiale di quello che la maggior parte
+della gente riceveva da lui, benché fosse sempre cortese con tutti.
+«Ti stai affezionando troppo a questi passatempi campestri. Sei
+diventato uno zotico rustico.»
+
+«Mi stavo azzardando a esaminare i cavoli, signore», rispose lo
+zotico rustico, con una dolorosa precisione d'articolazione. «Il loro
+stato ieri sera non mi è parso soddisfacente.»
+
+«Contento che tu non abbia vegliato con loro», rispose il colonnello.
+«Ma è una fortuna che t'interessino i cavoli. Voglio parlarti dei
+cavoli.»
+
+«Dei cavoli, signore?» s'informò l'altro rispettosamente.
+
+Ma il colonnello non parve dar seguito all'argomento, poiché stava
+fissando in un'improvvisa astrazione un altro oggetto negli
+appezzamenti di ortaggi davanti a sé. Il [[Garden|giardino]] del colonnello, come
+la [[house|casa]] del colonnello, il cappello, il cappotto e il contegno, era
+[[Well|ben]] tenuto in un modo discreto; e nella parte di esso dedicata ai
+[[Flowers|fiori]] dimorava qualcosa d'indefinibile che pareva più antico dei
+sobborghi. Le siepi stesse, pur essendo nette come quelle di
+Surbiton, riuscivano a sembrare mature come Hampton [[Court]], come se
+la loro medesima artificiosità appartenesse più alla [[Queen|regina]] Anna che
+alla [[Queen|regina]] Vittoria; e lo stagno dal bordo di pietra con una
+ghirlanda d'iris pareva in qualche modo una vasca classica e non una
+mera pozzanghera artificiale. È ozioso analizzare come l'[[Soul|anima]] e il
+tipo sociale di un uomo in qualche modo si impregnino di ciò che lo
+circonda; comunque sia, l'[[Soul|anima]] del signor Archer era penetrata
+nell'[[Garden|orto]] sì da conferirgli una fine sfumatura di differenza. Egli
+era, dopo tutto, un uomo pratico, e la pratica del suo nuovo
+mestiere era per lui assai più un vero appetito di quanto le parole
+lascerebbero intendere. Perciò l'[[Garden|orto]] non era artificiale, ma
+autoctono; sembrava davvero l'angolo di una fattoria in campagna; e
+vi erano allestiti ogni sorta di espedienti pratici. Le fragole erano
+protette da reti contro gli [[Birds|uccelli]]; erano tese delle corde di
+traverso con penne che vi svolazzavano; e in mezzo all'aiuola
+principale stava un antico e autentico spaventapasseri. Forse
+l'unico intruso incongruo, capace di contendere allo spaventapasseri
+il suo regno rurale, era la curiosa pietra di confine che segnava il
+limite del suo dominio; e che era, in effetti, un informe idolo dei
+Mari del Sud, piantato lì senza più appropriatezza di un raschietto
+da porta. Ma il colonnello Crane non sarebbe stato un esemplare così
+compiuto del vecchio uomo d'esercito se non avesse nascosto da
+qualche parte un passatempo legato ai suoi viaggi. Il suo passatempo
+un [[Time|tempo]] era stato il folklore selvaggio; e ne conservava la reliquia
+sul bordo dell'[[Garden|orto]]. In quel momento, tuttavia, non stava guardando
+l'idolo, ma lo spaventapasseri.
+
 
 
 <span class="atom-split" data-atom="chapter_01--part_02" data-title="Tales of the Long Bow — Chapter 1 (part 2)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="motif/desire,motif/garden,motif/leaves,motif/road,motif/stars,motif/time,motif/well,concept/grotesque,concept/truth,setting/mountains"></span>
@@ -6830,6 +6967,137 @@ moment when Dr. Hunter corrected himself and said, "What a fine day!"
 instead of "What a funny hat!"
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+«A proposito, Archer», disse, «non credi che lo spaventapasseri
+voglia un cappello nuovo?»
+
+«Difficilmente lo riterrei necessario, signore», disse gravemente il
+giardiniere.
+
+«Ma senti un po'», disse il colonnello, «devi considerare la
+[[philosophy|filosofia]] degli spaventapasseri. In teoria, quel coso dovrebbe
+convincere qualche uccello piuttosto sempliciotto che io stia
+passeggiando nel mio [[Garden|giardino]]. Quella cosa con il cappello
+innominabile sono Io. Un tantino abbozzato, forse. Una specie di
+ritratto impressionista; ma difficilmente atto a fare impressione.
+Un uomo con un cappello simile non saprebbe mai tenere testa a un
+passero. Conflitto di volontà, e tutto il resto, e scommetto che il
+passero avrebbe la meglio. A proposito, cos'è quel bastone legato
+sopra?»
+
+«Credo, signore», disse Archer, «che dovrebbe rappresentare un
+fucile.»
+
+«Tenuto a un'inclinazione assai poco convincente», osservò Crane. «Un
+uomo con un cappello simile mancherebbe di sicuro il bersaglio.»
+
+«[[Desire|Desidera]] che mi procuri un altro cappello?» s'informò il paziente Archer.
+
+«No, no», rispose il padrone con noncuranza. «Dato che il poveretto
+ha un cappello così scalcinato, gli darò il mio. Come la scena di San
+Martino e il mendicante.»
+
+«Gli dà il suo», ripeté Archer rispettosamente, ma con voce fioca.
+
+Il colonnello si tolse il lucido cilindro e gravemente lo posò sul
+capo dell'idolo dei Mari del Sud ai suoi piedi. Ebbe un curioso
+effetto di ridar vita al [[Grotesque|grottesco]] blocco di pietra, come se un
+folletto in cilindro stesse sogghignando al [[Garden|giardino]].
+
+«Pensi che il cappello non dovrebbe essere del tutto nuovo?»
+domandò quasi con ansia. «Non si conviene forse tra i migliori
+spaventapasseri. [[Well|Bene]], vediamo cosa possiamo fare per ingentilirlo
+un poco.»
+
+Fece roteare il bastone sopra la testa e vibrò un colpo secco sul
+cappello di seta, sfondandolo sopra gli occhi cavi dell'idolo.
+
+«Ammorbidito dal tocco del [[Time|tempo]], adesso, direi», osservò, porgendo
+i resti di seta al giardiniere. «Mettilo sullo spaventapasseri, amico
+mio; non lo voglio. Puoi testimoniare che a me non serve.»
+
+Archer obbedì come un automa, un automa dagli occhi piuttosto tondi.
+
+«Dobbiamo sbrigarci», disse allegramente il colonnello. «Ero in
+anticipo per la chiesa, ma temo di essere un po' in ritardo adesso.»
+
+«Intendeva recarsi in chiesa senza cappello, signore?» chiese l'altro.
+
+«Certo che no. Sarebbe di somma irriverenza», disse il colonnello.
+«Nessuno dovrebbe trascurare di togliersi il cappello entrando in
+chiesa. [[Well|Ebbene]], se non ho un cappello, trascurerò di togliermelo.
+Dov'è la tua facoltà di ragionare stamattina? No, no, dissotterra
+soltanto uno dei tuoi cavoli.»
+
+Ancora una volta il servitore [[Well|ben]] addestrato riuscì a ripetere la
+parola «Cavoli» con il proprio rigoroso accento; ma nella sua
+costrizione c'era un che di strangolato.
+
+«Sì, va' a strappare un cavolo, da bravo», disse il colonnello.
+«Devo proprio incamminarmi; mi pare di aver sentito battere le
+undici.»
+
+Il signor Archer si mosse pesantemente in direzione di un
+appezzamento di cavoli, che si gonfiavano di contorni mostruosi e di
+molti colori; oggetti, forse, più degni dell'occhio filosofico di
+quanto tenga conto la lingua più frivola. Gli ortaggi sono cose
+dall'aspetto curioso e meno banali di quanto il loro nome suggerisca.
+Se chiamassimo un cavolo un cactus, o con qualche altro nome
+bizzarro, potremmo vederlo come una cosa altrettanto bizzarra.
+
+Queste verità filosofiche il colonnello le rivelò anticipando il
+dubbioso Archer, e strappando dalla terra un grande cavolo verde con
+la sua radice pendula. Poi raccolse una sorta di roncola e recise la
+lunga coda della radice; scavò via le [[Leaves|foglie]] interne così da farne
+una specie d'incavo, e gravemente capovoltolo, se lo posò sul capo.
+Napoleone e altri principi guerrieri si sono incoronati da sé; ed
+egli, come i Cesari, indossava una corona che era, dopo tutto, fatta
+di verdi [[Leaves|foglie]] o vegetazione. Senza dubbio vi sono altri paragoni
+che potrebbero venire in mente a qualunque storico filosofico che lo
+considerasse in astratto.
+
+La gente che andava in chiesa certamente lo guardò; ma non lo guardò
+in astratto. Ai loro occhi appariva singolarmente concreto; e in
+verità incredibilmente solido. Gli abitanti di Rowanmere e Heatherbrae
+seguirono il colonnello mentre saliva quasi baldanzosamente lungo la
+[[Road|strada]], con sentimenti che nessuna [[philosophy|filosofia]] poteva per il momento
+soddisfare. Sembrava non vi fosse nulla da dire, salvo che uno dei
+più rispettabili e rispettati dei loro vicini, uno che avrebbe
+potuto essere definito, in modo sommesso, un modello di buone
+maniere se non un arbitro dell'eleganza, saliva solennemente verso
+la chiesa con un cavolo in cima al capo.
+
+Non vi fu invero alcuna azione collettiva per affrontare la crisi.
+Il loro mondo non era di quelli in cui una folla può radunarsi per
+gridare, e ancor meno per schernire. Nessun uovo marcio poteva essere
+raccolto dalle loro ordinate tavole della colazione; e non erano il
+tipo da scagliare torsoli di cavolo contro il cavolo. Forse c'era
+proprio quel tanto di [[Truth|verità]] nei nomi pateticamente pittoreschi sui
+loro cancelli, nomi che evocavano [[Mountains|montagne]] e possenti laghi celati
+in qualche punto della proprietà. Era vero che, in un certo senso,
+una simile [[house|casa]] era un eremo. Ciascuno di questi uomini viveva [[Alone|solo]]
+e non potevano essere trasformati in una plebaglia. Per miglia
+all'intorno non c'era né osteria né opinione pubblica.
+
+Mentre il colonnello si avvicinava al portico della chiesa e si
+preparava a togliersi con reverenza il suo [[vegetarian|vegetariano]] copricapo, fu
+salutato in un tono un po' più cordiale della umana cortesia che era
+l'esile legame di quella società. Ricambiò il saluto senza imbarazzo,
+e s'arrestò un istante mentre l'uomo che gli aveva parlato si
+lanciava in un ulteriore discorso. Era un giovane dottore di nome
+Horace Hunter, alto, elegantemente vestito e sicuro nei modi; e
+benché i suoi tratti fossero piuttosto comuni e i suoi capelli
+piuttosto rossi, gli si attribuiva un certo fascino.
+
+«Buongiorno, colonnello», disse il dottore con i suoi toni sonori,
+«che b--che bella giornata.»
+
+Le [[Stars|stelle]] deviarono dal loro corso come comete, per così dire, e il
+mondo virò verso possibilità più selvagge, in quell'istante cruciale
+in cui il dottor Hunter si corresse e disse: «Che bella giornata!»
+invece di «Che buffo cappello!»
+
 
 
 <span class="atom-split" data-atom="chapter_01--part_03" data-title="Tales of the Long Bow — Chapter 1 (part 3)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="archetype/shadow,motif/garden,motif/time,concept/courage,concept/fear,concept/self,concept/temptation,concept/wonder,character/sunday"></span>
@@ -6935,6 +7203,115 @@ was forbidden to say repeated themselves perpetually in his mind
 with the rhythmic pressure of a pulse.  It was his [[Temptation|temptation]]
 at the moment to call all houses hats and all visitors vegetables.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Quanto al perché si corresse, un quadro fedele di ciò che gli passò
+per la mente potrebbe suonare piuttosto fantasioso in sé. Sarebbe
+poco esplicito dire che lo fece a causa di una lunga automobile
+grigia in attesa fuori da White Lodge. Potrebbe non essere una
+spiegazione completa dire che ciò fu dovuto a una signora che
+camminava sui trampoli a una festa in [[Garden|giardino]]. Qualche oscurità
+potrebbe permanere, anche se dicessimo che aveva qualcosa a che fare
+con una camicia morbida e un soprannome; ciò nondimeno tutte queste
+cose si mescolarono nella mente del signor dottore quando prese la
+sua frettolosa decisione. Soprattutto, potrebbe o non potrebbe
+essere sufficiente spiegazione dire che Horace Hunter era un giovane
+assai ambizioso, che lo squillo nella sua voce e la sicurezza nei
+suoi modi venivano da una semplicissima risoluzione a salire nel
+mondo, e che il mondo in questione era piuttosto mondano.
+
+Gli piaceva farsi vedere a parlare con tanta sicurezza col
+colonnello Crane in quella parata della [[Sunday|domenica]]. Crane era
+relativamente povero, ma conosceva le Persone. E chi conosceva le
+Persone sapeva cosa le Persone stessero facendo adesso; mentre chi
+non conosceva le Persone poteva soltanto [[Wonder|domandarsi]] cosa mai al mondo
+le Persone avrebbero fatto poi. Una signora che era venuta con la
+Duchessa quando aveva inaugurato il Bazar aveva fatto un cenno a
+Crane e detto: «Salve, Cicogna», e il dottore ne aveva dedotto che
+si trattava di una sorta di scherzo di famiglia e non di una
+momentanea confusione ornitologica. Ed era stata la Duchessa a dar
+via a tutte quelle corse sui trampoli, che i Vernon-[[smith|Smith]] avevano
+introdotto a Heatherbrae. Ma sarebbe stato maledettamente imbarazzante
+non aver saputo cosa intendesse la signora Vernon-[[smith|Smith]] quando disse:
+«Naturalmente lei fa i trampoli.» Non si sapeva mai cosa avrebbero
+inventato dopo. Ricordava come lui stesso avesse pensato che il primo
+uomo in camicia morbida fosse un tipo bizzarro venuto dal nulla; e
+poi ne aveva cominciati a vedere altri qua e là, e aveva scoperto che
+non era un passo falso, ma una moda. Era strano immaginare che un
+giorno avrebbe cominciato a vedere cappelli di verdura qua e là, ma
+non si poteva mai dire; e non aveva intenzione di commettere di nuovo
+lo stesso errore. Il suo primo impulso medico era stato di aggiungere
+al bizzarro costume del colonnello una camicia di forza. Ma Crane non
+aveva l'aria di un pazzo, e di certo non aveva l'aria di un uomo che
+fa uno scherzo. Non aveva la rigida e [[Self|inibita]] solennità del burlone.
+La prendeva con la massima naturalezza. E una cosa era certa: se era
+davvero l'ultima novità, il dottore doveva prenderla con la stessa
+naturalezza del colonnello. Così disse che era una bella giornata, e
+fu compiaciuto d'apprendere che su quel punto non v'era disaccordo.
+
+Il dilemma del dottore, se possiamo applicare la frase, era stato il
+dilemma dell'intero vicinato. La decisione del dottore fu anche la
+decisione dell'intero vicinato. Non era tanto che la maggior parte di
+quella brava gente condividesse le serie ambizioni sociali di Hunter,
+quanto piuttosto che erano per natura inclini a decisioni negative e
+prudenti. Vivevano in un delicato terrore di essere disturbati; ed
+erano appena abbastanza giusti da applicare il principio non
+disturbando gli altri. Avevano anche un senso subconscio che il mite
+e rispettabile signor militare non sarebbe stato del tutto una
+persona facile da disturbare. La conseguenza fu che il colonnello
+portò in giro il suo mostruoso copricapo verde per le strade di quel
+sobborgo per quasi una settimana, e nessuno gli fece mai cenno
+all'argomento. Fu press'a poco alla fine di quel [[Time|periodo]] (mentre il
+dottore aveva scrutato l'orizzonte in cerca di aristocratici
+incoronati di cavolo e, non vedendone alcuno, andava raccogliendo il
+[[Courage|coraggio]] di parlare) che venne l'interruzione finale; e con
+l'interruzione la spiegazione.
+
+Il colonnello aveva tutta l'apparenza d'aver dimenticato del tutto il
+cappello. Se lo toglieva e se lo metteva come qualsiasi altro
+cappello; lo appendeva all'attaccapanni nel suo stretto ingresso,
+dove non c'era altro che la sua [[Sword|spada]] appesa a due ganci e una
+vecchia mappa bruna del diciassettesimo secolo. Lo porgeva ad Archer
+quando quel corretto personaggio pareva insistere sul suo diritto
+ufficiale di reggerlo; non insisteva sul suo diritto ufficiale di
+spazzolarlo, per [[Fear|paura]] che andasse in pezzi; ma di tanto in tanto gli
+dava una cauta scrollata, accompagnata da uno sguardo di trattenuto
+disgusto. Ma il colonnello stesso non ebbe mai l'aria né di gradirlo
+né di sgradirlo. La cosa anticonvenzionale era già divenuta una delle
+sue convenzioni--le convenzioni che non considerava mai abbastanza da
+violare. È probabile, dunque, che ciò che alla fine accadde fosse una
+sorpresa per lui non meno che per chiunque altro. Comunque sia, la
+spiegazione, o esplosione, venne nel modo seguente.
+
+Il signor Vernon-[[smith|Smith]], l'alpinista il cui piede posava sulla propria
+brughiera natia a Heatherbrae, era un ometto azzimato dal naso dal
+grosso dorso, baffi scuri e occhi scuri con una fissa espressione
+d'ansia, benché nessuno sapesse cosa ci fosse da temere nella sua
+solidissima esistenza sociale. Era amico del dottor Hunter; si
+potrebbe quasi dire un umile amico. Poiché aveva quello snobismo
+negativo che poteva soltanto ammirare lo snobismo positivo e
+progressivo di quella figura svettante e mondana. Un uomo come il
+dottor Hunter ama avere un uomo come il signor [[smith|Smith]], davanti al
+quale poter posare da perfetto uomo di mondo. Ciò che appare più
+straordinario, un uomo come il signor [[smith|Smith]] ama davvero avere un uomo
+come il dottor Hunter che posa dinanzi a lui e si pavoneggia su di
+lui e lo tratta con sussiego. Comunque sia, Vernon-[[smith|Smith]] si era
+azzardato a insinuare che il nuovo cappello del suo vicino Crane non
+fosse di un modello familiare in ogni figurino. E il dottor Hunter,
+scoppiando col segreto della propria originale diplomazia, aveva
+respinto l'insinuazione e l'aveva sepolta sotto un gelido disprezzo.
+Con gesti scaltri e risoluti, con ampie frasi allusive, aveva
+lasciato nella mente dell'amico l'impressione che l'intero mondo
+sociale si sarebbe dissolto se una parola fosse stata detta su un
+argomento così delicato. Il signor Vernon-[[smith|Smith]] si fece l'idea
+generale che il colonnello sarebbe esploso con un forte scoppio alla
+più vaga allusione agli ortaggi, o alla più innocua adombratura o
+verbale [[Shadow|ombra]] di un cappello. Come di solito accade in questi casi,
+le parole che gli era vietato dire si ripetevano perpetuamente nella
+sua mente con la pressione ritmica di un polso. Era la sua
+[[Temptation|tentazione]], in quel momento, di chiamare cappelli tutte le case e
+ortaggi tutti i visitatori.
 
 
 
@@ -7055,6 +7432,127 @@ the real reason.  I might even say I promise you shall SEE the real reason."
 "Why, of course I will," said the unconventional one heartily. 
 "Thanks awfully."
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Quando quella mattina Crane uscì dal cancello di casa trovò il suo
+vicino Vernon-[[smith|Smith]] ritto fuori, tra il maggiociondolo espanso e il
+lampione, a parlare con una giovane signora, una lontana cugina della
+sua famiglia. Questa ragazza era una studentessa d'arte che faceva da
+sé--un po' troppo da sé per gli standard di Heatherbrae, e perciò
+(qualcuno ne dedurrebbe) ancor più al di là di quelli di White Lodge.
+Aveva i capelli castani tagliati corti, e il colonnello non ammirava
+i capelli tagliati corti. D'altro canto, aveva un viso piuttosto
+attraente, con onesti occhi castani un po' troppo distanti tra loro,
+il che sminuiva l'impressione di [[Beauty|bellezza]] ma accresceva l'impressione
+di onestà. Aveva inoltre una voce assai fresca e schietta, e il
+colonnello l'aveva spesso udita gridare i punteggi al tennis
+dall'altro lato del muro del [[Garden|giardino]]. In qualche modo vago ciò lo
+faceva sentire vecchio; o almeno, non era certo se si sentisse più
+vecchio di quanto fosse, o più giovane di quanto avrebbe dovuto.
+Fu solo quando s'incontrarono sotto il lampione che seppe che il suo
+nome era Audrey [[smith|Smith]]; e fu debolmente grato di quell'unico
+monosillabo. Il signor Vernon-[[smith|Smith]] la presentò, e per poco non
+disse: «Posso presentarle il mio cavolo?» invece di «mia cugina.»
+
+Il colonnello, con schietta ottusità, disse che era una bella
+giornata; e il suo vicino, riprendendosi dall'ultimo scampato
+pericolo, proseguì la conversazione con animazione. I suoi modi, come
+quando ficcava il suo gran naso e i suoi occhietti neri e lucenti
+nelle riunioni e nei comitati locali, erano insieme esitanti ed
+enfatici.
+
+«Questa signorina si dà all'Arte», disse; «una ben magra prospettiva,
+non è vero? M'aspetto che la vedremo disegnare col [[chalk|gesso]] sul lastricato
+aspettando che le gettiamo un penny nel--in un vassoio, o qualcosa del
+genere.» Qui schivò un altro pericolo. «Ma naturalmente lei crede che
+diventerà un membro della Royal Academy.»
+
+«[[Hope|Spero]] di no», disse la giovane con foga. «I pittori da marciapiede
+sono assai più onesti della maggior parte dei membri della Royal
+Academy.»
+
+«Vorrei che quei tuoi amici non ti mettessero in testa idee così
+rivoluzionarie», disse il signor Vernon-[[smith|Smith]]. «Mia cugina conosce i
+più terribili esaltati, vegetariani e--e Socialisti.» Si arrischiò,
+sentendo che i vegetariani non erano proprio la stessa cosa degli
+ortaggi; ed era certo che il colonnello avrebbe condiviso il suo
+orrore per i Socialisti. «Gente che vuole essere uguale, e via
+dicendo. Quello che io dico è: non siamo uguali e non potremo mai
+esserlo. Come dico sempre ad Audrey--se anche domani si dividessero
+tutte le proprietà, tornerebbero nelle stesse mani. È una legge di
+[[Nature|natura]], e se un uomo crede di poter aggirare una legge di [[Nature|natura]],
+be', parla a vanvera--voglio dire, è matto come un--»
+
+Rifuggendo dall'onnipresente immagine, brancolò freneticamente nella
+mente in cerca dell'alternativa della lepre marzolina. Ma prima che
+potesse trovarla, la ragazza s'era intromessa e aveva completato la
+sua frase. Sorrise serena, e disse con i suoi toni limpidi e
+squillanti:
+
+«Matto come il cappellaio del colonnello Crane.»
+
+Non è ingiusto verso il signor Vernon-[[smith|Smith]] dire che fuggì come da
+un'esplosione di dinamite. Sarebbe ingiusto dire che abbandonò una
+dama in pericolo, poiché lei non aveva affatto l'aria di una dama in
+pericolo, mentre lui era un signore assai in pericolo. Tentò di farla
+entrare in casa con un cenno e qualche pretesto stravagante, e alla
+fine vi scomparve egli stesso con una scusa altrettanto casuale. Ma
+gli altri due non gli prestarono attenzione; continuarono a
+fronteggiarsi, ed entrambi sorridevano.
+
+«Credo che lei debba essere l'uomo più coraggioso d'Inghilterra»,
+disse. «Non intendo nulla riguardo alla guerra, o al D.S.O. e tutto
+il resto; intendo riguardo a questo. Oh, sì, qualcosa ne so, di
+questo, ma c'è una cosa che non so. Perché lo fa?»
+
+«Credo che sia lei la donna più coraggiosa d'Inghilterra», rispose
+lui, «o, quantomeno, la persona più coraggiosa di queste parti. Ho
+girato per questa città per una settimana, sentendomi come l'ultimo
+[[Fool|folle]] del creato, e aspettandomi che qualcuno dicesse qualcosa. E
+non un'[[Soul|anima]] ha detto una parola. Sembrano tutti aver paura di dire
+la cosa sbagliata.»
+
+«Li trovo mortiferi», osservò la signorina [[smith|Smith]]. «E se non hanno
+cavoli per cappelli, è solo perché hanno rape per teste.»
+
+«No», disse il colonnello con dolcezza; «ho qui molti vicini generosi
+e cordiali, compresa sua cugina. Mi creda, c'è un buon motivo per le
+convenzioni, e il mondo è più saggio di quanto lei sappia. Lei è
+troppo giovane per non essere intollerante. Ma vedo che ha lo spirito
+combattivo; è la parte migliore della giovinezza e dell'intolleranza.
+Quando poco fa ha detto quella parola, perbacco, aveva l'aria di
+Britomart.»
+
+«È la Suffragetta Militante nella Regina delle Fate, non è vero?»
+rispose la ragazza. «Temo di non conoscere la mia letteratura inglese
+[[Well|bene]] come la conosce lei. Vede, sono un'[[Artist|artista]], o cerco di
+esserlo; e alcuni dicono che ciò rende una persona limitata. Ma non
+posso fare a meno di [[Cross|arrabbiarmi]] con tutta la volgarità
+inverniciata con cui parlano di ogni cosa--guardi cos'ha detto sul
+Socialismo.»
+
+«Era un po' superficiale», disse Crane con un sorriso.
+
+«Ed ecco», concluse lei, «perché ammiro il suo cappello, benché non
+sappia perché lo porta.»
+
+Questa banale conversazione ebbe un curioso effetto sul colonnello.
+Vi si accompagnava una sorta di calore e un senso di crisi che non
+provava dai tempi della guerra. Un improvviso proposito prese forma
+nella sua mente, ed egli parlò come chi varca una frontiera.
+
+«Signorina [[smith|Smith]]», disse, «mi [[Wonder|domando]] se potrei chiederle di
+concedermi un ulteriore favore. Forse è anticonvenzionale, ma credo
+che lei non si tenga a queste convenzioni. Un mio vecchio amico verrà
+presto a farmi visita, per [[Wind|concludere]] la faccenda o cerimonia
+piuttosto insolita di cui ha per caso visto una parte. Se volesse
+farmi l'[[Honour|onore]] di pranzare con me domani all'una e mezza, la vera
+storia del cavolo l'attende. Le prometto che udrà la vera ragione.
+Potrei perfino dire che le prometto che VEDRÀ la vera ragione.»
+
+«Ma certo che verrò», disse l'anticonvenzionale con cordialità.
+«Grazie infinite.»
 
 
 
@@ -7179,6 +7677,130 @@ Making a blasted fool of myself was the fair price to be paid for
 the vow or wager; for one ought always to lose something on a wager."
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Il colonnello prese un vivo interesse nei preparativi del pranzo del
+giorno seguente. Con subconscia sorpresa si scoprì non solo
+interessato, ma eccitato. Come molti del suo tipo, provava piacere a
+far bene tali cose, e se ne intendeva di vini e di cucina. Ma ciò
+non basterebbe da [[Alone|solo]] a spiegare il suo piacere. Poiché sapeva che
+le giovani donne di solito sanno assai poco di vini, e le giovani
+donne emancipate forse meno di tutte. E benché intendesse che la
+cucina fosse buona, sapeva che in un particolare sarebbe apparsa
+piuttosto fantastica. Inoltre, era un signore di buon carattere a cui
+sarebbe sempre piaciuto vedere i giovani godersi un pranzo, come gli
+sarebbe piaciuto veder un [[Child|bambino]] godersi un albero di Natale. Ma non
+pareva esserci ragione perché egli dovesse avere una sorta di felice
+insonnia, come un [[Child|bambino]] alla vigilia di Natale. Non c'era davvero
+alcuna scusa per il suo andare su e giù per il [[Garden|giardino]] col sigaro,
+fumando furiosamente fino a notte fonda. Poiché mentre fissava gli
+iris purpurei e il grigio stagno nel fioco chiaro di luna, qualcosa
+nei suoi sentimenti trascorse come dall'una all'altra tinta; ebbe una
+nuova e inattesa reazione. Per la prima volta odiò davvero la
+mascherata che si era imposto di sopportare. Avrebbe voluto poter
+fracassare il cavolo come aveva fracassato il cilindro. Aveva poco più
+di quarant'anni; ma non aveva mai capito quanto ci fosse di appassito
+e sbiadito nella sua frivolezza, finché non sentì gonfiarsi
+inaspettatamente dentro di sé la mostruosa e solenne [[Vanity|vanità]] di un
+giovane. A volte alzava lo sguardo verso il pittoresco, troppo
+pittoresco, profilo della [[house|casa]] accanto, scura contro il sorgere della
+luna, e credeva di udirvi deboli voci, e qualcosa come una risata.
+
+Il visitatore che fece visita al colonnello la mattina seguente
+poteva anche essere un vecchio amico, ma era certamente uno strano
+contrasto. Era un uomo assai distratto, piuttosto trasandato, in un
+logoro completo alla zuava; aveva una testa lunga con capelli lisci
+del rosso scuro chiamato ramato, uno o due ciuffi dei quali gli
+stavano dritti comunque li spazzolasse, e un volto lungo, ben rasato
+e pesante attorno alla mascella e al mento, che aveva l'abitudine di
+affondare e assestare quadratamente nella cravatta. Il suo nome era
+Hood, ed era a quanto pareva un avvocato, benché non fosse venuto per
+affari strettamente legali. Comunque sia, scambiò saluti con Crane
+con un quieto calore e compiacimento, sorrise al vecchio servitore
+come se fosse un vecchio scherzo, e diede ogni segno di appetito per
+il suo pranzo.
+
+Il giorno stabilito era singolarmente caldo e luminoso e ogni cosa
+nel [[Garden|giardino]] pareva scintillare; il dio folletto dei Mari del Sud
+sembrava davvero sogghignare; e lo spaventapasseri avere davvero un
+cappello nuovo. Gli iris intorno allo stagno oscillavano e
+sventolavano in una lieve brezza; ed egli ricordò che li chiamavano
+«bandiere» e pensò a purpurei vessilli che andavano in battaglia.
+
+Lei era comparsa d'improvviso dietro l'angolo della [[house|casa]]. Il suo
+abito era di un azzurro cupo ma vivido, assai semplice e squadrato di
+linea, ma non oltraggiosamente artistico; e nella luce del mattino
+appariva meno come una scolaretta e più come una donna seria di
+venticinque o trent'anni; un po' più matura e assai più interessante.
+E qualcosa in questa serietà mattutina accresceva la reazione della
+[[Night|notte]] precedente. Una sola ondata di gratitudine si levò da Crane al
+pensiero che almeno il suo [[Grotesque|grottesco]] cappello verde era sparito e
+finito per sempre. L'aveva portato per una settimana senza curarsi un
+accidente di nessuno; ma durante quei dieci minuti di banale
+conversazione sotto il lampione, si era sentito come se gli fossero
+d'un tratto cresciute le orecchie d'[[donkey|asino]] in mezzo alla strada.
+
+Il tempo soleggiato l'aveva indotto a far apparecchiare una piccola
+tavola per tre in una specie di veranda aperta sul [[Garden|giardino]]. Quando i
+tre vi si sedettero, egli guardò la signora e disse: «[[Fear|Temo]] di dovermi
+mostrare come un esaltato; uno di quegli esaltati che suo cugino
+disapprova, signorina [[smith|Smith]]. [[Hope|Spero]] che ciò non rovinerà questo
+pranzetto a nessun altro. Ma sto per consumare un pasto [[vegetarian|vegetariano]].»
+
+«Davvero?» disse lei. «Non avrei mai detto che avesse l'aria di un
+[[vegetarian|vegetariano]].»
+
+«Di recente ho avuto soltanto l'aria di un [[Fool|folle]]», disse
+impassibile; «ma credo che preferirei aver l'aria di un [[Fool|folle]] che di
+un [[vegetarian|vegetariano]], nel senso ordinario. Questa è piuttosto
+un'occasione speciale. Forse è meglio che il mio amico Hood cominci;
+la storia è più sua che mia.»
+
+«Il mio nome è Robert Owen Hood», disse quel signore, piuttosto
+sardonicamente. «È così che spesso cominciano le rimembranze
+inverosimili; ma l'unico punto ora è che il mio vecchio amico qui
+presente mi ha orribilmente insultato chiamandomi [[Robin Hood]].»
+
+«L'avrei chiamato un complimento», rispose Audrey [[smith|Smith]]. «Ma perché
+la chiamò [[Robin Hood]]?»
+
+«Perché tiravo di lungo l'arco», disse l'avvocato.
+
+«Ma per renderle giustizia», disse il colonnello, «pare che lei
+abbia colpito il centro del bersaglio.»
+
+Mentre parlava entrò Archer recando un piatto che pose davanti al suo
+padrone. Aveva già servito gli altri con le portate precedenti, ma
+portava questa con la pompa di chi reca la testa del cinghiale a
+Natale. Consisteva in un semplice cavolo bollito.
+
+«Fui sfidato a fare una cosa», riprese Hood, «che il mio amico qui
+dichiarava impossibile. In effetti, ogni uomo di buon senso l'avrebbe
+dichiarata impossibile. Ma io la feci ugualmente. Solo che il mio
+amico, nella foga di respingere e ridicolizzare l'idea, fece uso di
+un'espressione avventata. Potrei quasi dire che pronunciò un voto
+temerario.»
+
+«Le mie precise parole furono», disse solennemente il colonnello
+Crane: «‘Se riesci a farlo, mi mangio il cappello.'»
+
+Si chinò in avanti pensoso e cominciò a mangiarlo. Poi riprese nello
+stesso modo riflessivo:
+
+«Vedete, tutti i voti temerari sono verbali o non sono nulla. Vi
+potrebbe essere un dibattito sul modo logico e letterario in cui il
+mio amico Hood adempì il SUO voto temerario. Ma io lo posi a me stesso
+nella stessa maniera pedante. Non era possibile mangiare alcun
+cappello che io portassi. Ma poteva essere possibile portare un
+cappello che io potessi mangiare. Gli articoli di vestiario ben
+difficilmente potevano essere usati come alimento; ma gli articoli di
+alimento potevano davvero essere usati come vestiario. Mi parve che
+si potesse a buon diritto dire che l'avessi fatto mio cappello, se lo
+portavo sistematicamente come cappello e non ne avevo altro,
+sopportando tutti gli svantaggi. Fare di me stesso un maledetto folle
+era il giusto prezzo da pagare per il voto o la scommessa; poiché su
+una scommessa si dovrebbe sempre perdere qualcosa.»
+
 
 
 <span class="atom-split" data-atom="chapter_01--part_06" data-title="Tales of the Long Bow — Chapter 1 (part 6)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="motif/marriage,concept/romantic_love,concept/marriage_and_fidelity,histref/the_grail_legend,character/owen_hood,character/colonel_crane"></span>
@@ -7301,6 +7923,126 @@ took on inevitably a new suggestion of one calling out familiarly
 and from afar, as one calls to an old companion.  It moved him
 in a disproportionate fashion, though all that she said was:
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+E si alzò da tavola con un gesto di scusa.
+
+La ragazza si alzò in piedi. «Trovo che sia assolutamente splendido»,
+disse. «È folle come una di quelle storie sulla ricerca del Santo
+Graal.»
+
+Anche l'avvocato si era alzato, piuttosto bruscamente, e stava
+lisciandosi il lungo mento col pollice e guardando il suo vecchio
+amico da sotto le sopracciglia aggrottate in un modo piuttosto
+riflessivo.
+
+«Bene, mi hai regolarmente citato come testimone», disse, «e ora, col
+permesso della corte, lascerò il banco dei testimoni. Temo di dovermene
+andare. Ho affari importanti a casa. Arrivederla, signorina Smith.»
+
+La ragazza ricambiò il suo commiato un po' meccanicamente; e Crane
+parve riscuotersi da una trance simile mentre muoveva dietro alla
+figura in ritirata del suo amico.
+
+«Senti, Owen», disse in fretta, «mi dispiace che te ne vada così
+presto. Devi proprio andare?»
+
+«Sì», rispose Owen Hood gravemente. «I miei affari privati sono del
+tutto reali e concreti, te l'assicuro.» La sua bocca grave si mosse un
+po' con umorismo agli angoli mentre aggiungeva: «La verità è che, non
+credo di averlo accennato, ma sto pensando di sposarmi.»
+
+«Sposarti!» ripeté il colonnello, come folgorato.
+
+«Grazie per i tuoi complimenti e le tue congratulazioni, vecchio
+mio», disse il satirico signor Hood. «Sì, è tutto ben ponderato. Ho
+persino deciso chi sposerò. Lei lo sa da sé. È stata avvertita.»
+
+«Ti chiedo davvero scusa», disse il colonnello in grande
+turbamento, «naturalmente mi congratulo con te di tutto cuore; e con
+lei ancor più di cuore. Naturalmente sono lietissimo di sentirlo. La
+verità è che ero sorpreso... non tanto in quel senso...»
+
+«Non tanto in quale senso?» chiese Hood. «Suppongo tu voglia dire che
+qualcuno direbbe che sono in via di diventare un vecchio scapolo. Ma
+ho scoperto che non è affatto tanto una questione d'anni quanto di
+modi. Uomini come me diventano attempati più per scelta che per caso;
+e nella vita c'è assai più scelta e assai meno caso di quanto
+sostengano i vostri fatalisti moderni. Per gente simile il fatalismo
+falsifica perfino la cronologia. Non sono scapoli perché sono
+vecchi. Sono vecchi perché sono scapoli.»
+
+«Ti sbagli davvero», disse Crane con serietà. «Come dico, ero
+sorpreso, ma la mia sorpresa non era così scortese come credi. Non
+era che pensassi ci fosse qualcosa di sconveniente in... in qualche
+modo era piuttosto il contrario... come se le cose potessero
+combaciare meglio di quanto si pensasse... come se--ma comunque sia,
+per poco che ne sappia, mi congratulo davvero con te.»
+
+«Ti racconterò tutto quanto tra non molto», rispose l'amico. «Basti
+dire per ora che era tutto legato al mio riuscire, dopo tutto, a
+fare--ciò che ho fatto. Lei fu l'ispirazione, sai. Ho compiuto ciò
+che si dice una cosa impossibile; ma credimi, è lei la parte
+davvero impossibile.»
+
+«Bene, non voglio trattenerti da un fidanzamento così impossibile»,
+disse Crane sorridendo. «Davvero, sono maledettamente contento di
+sentire tutto questo. Bene, arrivederci per ora.»
+
+Il colonnello Crane rimase a osservare le spalle quadre e la criniera
+rossiccia del suo vecchio amico, mentre scomparivano giù per la
+strada, in uno stato d'animo piuttosto indescrivibile. Mentre si
+voltava in fretta verso il suo giardino e l'altra sua ospite, ebbe
+coscienza di un mutamento; le cose parevano diverse in un modo
+frivolo e illogico. Non riusciva egli stesso a rintracciare il nesso;
+anzi, non sapeva se fosse un nesso o una sconnessione. Era ben lungi
+dall'essere uno sciocco; ma il suo cervello era del tipo diretto
+all'esterno, alle cose; il cervello del soldato o dell'uomo di
+scienza; e non aveva pratica nell'analizzare la propria mente. Non
+capiva bene perché la notizia su Owen Hood dovesse dargli quello
+stordito senso di una differenza nelle cose in generale. Senza dubbio
+era molto affezionato a Owen Hood; ma era stato affezionato ad altre
+persone che si erano sposate senza turbare in particolar modo
+l'atmosfera del proprio giardino sul retro. Sentiva perfino
+oscuramente che il mero affetto avrebbe potuto operare nell'altro
+verso; che avrebbe potuto indurlo a preoccuparsi per Hood, e a
+domandarsi se Hood non stesse facendo di sé uno sciocco, o perfino a
+sentirsi sospettoso o geloso della signora Hood--se non ci fosse
+stato qualcos'altro che lo faceva sentire tutto il contrario. Non
+riusciva a capirlo bene; sembrava esserci un numero crescente di cose
+che non riusciva a capire. Questo mondo in cui egli stesso portava
+ghirlande di verde cavolo e in cui il suo vecchio amico avvocato si
+sposava d'improvviso come un uomo che impazzisce--questo mondo era un
+mondo nuovo, insieme fresco e spaventoso, in cui a stento riusciva a
+comprendere le figure che vi si aggiravano, perfino la propria. I
+fiori nei vasi avevano un aspetto nuovo, insieme luminoso e senza
+nome; e persino la fila di ortaggi al di là non riusciva del tutto a
+deprimerlo con i ricordi della recente frivolezza. Fosse stato invero
+un profeta, o un visionario che scorge il futuro, avrebbe potuto
+vedere quella verde fila di cavoli estendersi all'infinito come un
+verde mare fino all'orizzonte. Poiché egli stava all'inizio di una
+storia che non doveva terminare finché il suo incongruo cavolo non
+fosse giunto a significare qualcosa che egli non aveva mai inteso con
+esso. Quella verde chiazza doveva dilagare come un grande verde
+incendio quasi fino ai confini della terra. Ma egli era una persona
+pratica e l'esatto contrario di un profeta; e come molte altre
+persone pratiche, spesso faceva le cose senza sapere con troppa
+chiarezza cosa stesse facendo. Aveva l'innocenza di qualche patriarca
+o eroe primitivo nel mattino del mondo, che fonda più di quanto egli
+stesso possa comprendere della propria leggenda e della propria
+stirpe. In verità si sentiva molto come qualcuno nel mattino del
+mondo; ma al di là di ciò non riusciva ad afferrare nulla.
+
+Audrey Smith stava ritta non troppi passi discosto; poiché era solo
+per pochi passi che aveva seguito il suo ospite più anziano verso il
+cancello. Eppure la sua figura era arretrata abbastanza fuori dal
+primo piano da assumere la verde cornice del giardino; sicché il suo
+abito avrebbe potuto quasi sembrare azzurro con una sfumatura di
+lontananza. E quando gli parlò, anche da quel breve tratto, la sua
+voce assunse inevitabilmente un nuovo che di chi chiama
+familiarmente e da lontano, come si chiama un vecchio compagno. Lo
+commosse in modo sproporzionato, benché tutto ciò che disse fosse:
 
 
 
@@ -7460,6 +8202,168 @@ of reading the story of The Improbable Success of Mr. Owen Hood,
 and an interval must be allowed him before such torments are renewed.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+«Che ne è stato del suo vecchio cappello?»
+
+«L'ho perduto», rispose gravemente, «ovviamente dovevo perderlo.
+Credo che l'abbia trovato lo spaventapasseri.»
+
+«Oh, andiamo a vedere lo spaventapasseri», esclamò lei.
+
+La condusse senza una parola all'orto e gravemente le illustrò
+ciascuna delle sue caratteristiche di spicco; dal serio signor Archer
+appoggiato alla vanga fino al grottesco dio delle Isole dei Mari del
+Sud che sogghignava all'angolo dell'appezzamento. Parlava con
+crescente solennità e prolissità, e per tutto il tempo sapeva poco o
+nulla di ciò che diceva.
+
+Alla fine lei interruppe il suo monologo con una distrazione quasi
+scortese; eppure i suoi occhi castani erano lucenti e la sua simpatia
+non dissimulata.
+
+«Non ne parli», esclamò con illogico entusiasmo. «Sembra che siamo
+davvero in piena campagna. È unico come il Giardino dell'Eden. È
+semplicemente il luogo più delizioso--»
+
+Fu in quel momento che, per qualche ragione inspiegabile, il
+colonnello che aveva perso il cappello d'un tratto passò a perdere la
+testa. Ritto in quella grottesca scenografia di ortaggi, figura nera
+e rigida eppure in qualche modo maestosa, procedette nel modo più
+tradizionale a offrire alla signora tutto ciò che possedeva, senza
+dimenticare lo spaventapasseri o i cavoli; il cui ricordo
+semiumoristico gli tornò col boomerang del bathos.
+
+«Quando penso ai gravami che pesano sulla tenuta--» concluse cupo.
+«Be', eccoli lì; uno spaventapasseri e un feticcio cannibalesco e un
+uomo stupido che si è impantanato in un solco di rispettabilità e di
+modi convenzionali.»
+
+«Assai convenzionali», disse lei, «specie nel suo gusto in fatto di
+cappelli.»
+
+«Quella fu l'eccezione, temo», disse con serietà. «Troverebbe quelle
+cose assai rare e la maggior parte delle cose assai noiose. Non ho
+potuto fare a meno d'innamorarmi di lei; ma ciò nondimeno noi siamo
+in mondi diversi; e lei appartiene a un mondo più giovane, che dice
+ciò che pensa, e non sa vedere cosa significassero la maggior parte
+dei nostri silenzi e dei nostri scrupoli.»
+
+«Suppongo che siamo assai maleducati», disse lei pensosa, «e deve
+certamente scusarmi se dico ciò che penso.»
+
+«Non merito di meglio», rispose lui mestamente.
+
+«Bene, credo che anch'io debba essere innamorata di lei», rispose lei
+con calma. «Non vedo cosa abbia a che fare il tempo con l'essere
+affezionati alle persone. Lei è la persona più originale che io abbia
+mai conosciuto.»
+
+«Mia cara, mia cara», protestò lui quasi con voce spezzata, «temo che
+lei stia commettendo un errore. Qualunque altra cosa io sia, non ho
+mai preteso di essere originale.»
+
+«Deve ricordare», rispose lei, «che ho conosciuto parecchia gente che
+pretendeva di essere originale. Una Scuola d'Arte ne pullula; e ce ne
+sono in gran numero tra quei miei amici socialisti e vegetariani di
+cui lei parlava. Per loro non sarebbe nulla portare cavoli in testa,
+naturalmente. Chiunque di loro sarebbe capace di infilarsi dentro una
+zucca, se potesse. Chiunque di loro potrebbe comparire in pubblico
+vestito interamente di crescione. Ma è proprio questo il punto.
+Potrebbero ben portare il crescione, perché sono creature d'acqua;
+vanno con la corrente. Fanno quelle cose perché quelle cose si fanno;
+perché si fanno nella loro cerchia bohémienne. L'anticonvenzionalità è
+la loro convenzione. A me non dispiace; la trovo un gran
+divertimento; ma ciò non significa che io non riconosca la vera forza
+o indipendenza quando la vedo. Tutto ciò è soltanto fuso e informe;
+ma l'uomo davvero forte è colui che sa foggiare uno stampo e poi
+spezzarlo. Quando un uomo come lei sa d'un tratto fare una cosa
+simile, dopo vent'anni d'abitudine, per amore della sua parola,
+allora in qualche modo si sente davvero che quell'uomo è uomo e
+padrone del proprio destino.»
+
+«Dubito di essere padrone del mio destino», rispose Crane, «e non so
+se cessai di esserlo ieri o due minuti fa.»
+
+Rimase lì un momento come un uomo in pesante armatura. Invero,
+l'antiquata immagine non è inappropriata sotto più d'un aspetto. Il
+mondo nuovo dentro di lui era così estraneo all'intera abitudine in
+cui viveva, alla stessa andatura e ai gesti della sua vita
+quotidiana, condotta lungo innumerevoli giorni, che il suo spirito
+aveva lottato prima di spezzare il proprio guscio. Ma era anche vero
+che, anche se avesse potuto fare ciò che ogni uomo desidera fare in
+un simile momento, qualcosa di supremo e appagante, sarebbe stato
+qualcosa in un certo senso formale, o non l'avrebbe appagato. Era uno
+di quelli per cui è naturale essere cerimoniosi. Perfino la musica
+nella sua mente, troppo profonda e lontana perché egli potesse
+coglierla e riecheggiarla, era la musica di un'antica danza rituale e
+non di baldoria; e non per nulla egli aveva costruito a poco a poco
+intorno a sé quel giardino della grigia fontana di pietra e della
+grande siepe di tasso. Si chinò d'improvviso e le baciò la mano.
+
+«Mi piace», disse lei. «Dovrebbe avere i capelli incipriati e una
+spada.»
+
+«Chiedo scusa», disse gravemente, «nessun uomo moderno è degno di
+lei. Ma in verità temo che, in ogni senso, io non sia un uomo molto
+moderno.»
+
+«Non deve più portare quel cappello», disse lei, indicando il malconcio
+cilindro originale.
+
+«A dire il vero», osservò lui con mitezza, «non avevo alcuna intenzione
+di riprendere quello.»
+
+«Sciocco», disse lei brevemente, «non intendo quel cappello; intendo
+quel genere di cappello. A dire il vero, non potrebbe esserci
+cappello più bello del cavolo.»
+
+«Mia cara--» protestò lui; ma lei lo guardava con tutta serietà.
+
+«Le ho detto che sono un'artista, e che non sapevo molto di
+letteratura», disse. «Ebbene, sa, fa davvero una differenza. Le
+persone letterarie lasciano che le parole si frappongano tra loro e
+le cose. Noi almeno guardiamo le cose e non i nomi delle cose. Lei
+crede che un cavolo sia comico perché il nome suona comico e perfino
+volgare; qualcosa a metà tra ‘caduco' e ‘cavolata', suppongo. Ma un
+cavolo non è affatto comico o volgare. Non lo penserebbe se dovesse
+semplicemente dipingerlo. Non ha visto le pinacoteche olandesi e
+fiamminghe, e non sa quali grandi maestri dipinsero cavoli? Ciò che
+vedevano erano certe linee e certi colori; linee e colori
+meravigliosi davvero.»
+
+«Può darsi che vada benissimo in un quadro», cominciò lui dubbioso.
+
+Lei d'improvviso rise forte.
+
+«Sciocco che è», esclamò; «non sa che aveva un aspetto assolutamente
+splendido? Le curve erano come un gran turbante di foglie e la radice
+si ergeva come la punta di un elmo; era piuttosto simile agli elmi a
+turbante di alcune figure di Rembrandt, col volto come bronzo nelle
+ombre di verde e di porpora. Ecco il genere di cose che gli artisti
+sanno vedere, quelli che tengono occhi e testa sgombri dalle parole! E
+poi lei vuole scusarsi per non portare quello stupido tubo di stufa
+coperto di lucido, quando andava in giro portando una corona colorata
+come un re. E lei era come un re in questo paese; poiché avevano tutti
+paura di lei.»
+
+Mentre egli continuava una debole protesta, la risata di lei prese un
+piega più maliziosa. «Se avesse insistito un po' più a lungo, giuro
+che avrebbero finito tutti col portare ortaggi per cappelli. Giuro
+che l'altro giorno ho visto mio cugino starsene lì con una specie di
+paletta, e guardare irresoluto un cavolo.»
+
+Poi, dopo una pausa, disse con una bella impertinenza fuori luogo:
+
+«Che cosa fece il signor Hood che lei diceva non potesse fare?»
+
+Ma questi sono racconti di un mondo alla rovescia perfino nel senso
+che devono essere narrati a coda in avanti. E chi voglia conoscere la
+risposta a quella domanda deve consegnarsi all'intollerabile tedio di
+leggere la storia dell'Improbabile Successo del Signor Owen Hood, e
+gli si deve concedere un intervallo prima che simili tormenti siano
+rinnovati.
+
 
 
 <span class="atom-split" data-atom="chapter_02--part_01" data-title="Tales of the Long Bow — Chapter 2 (part 1)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="motif/well,concept/hope"></span>
@@ -7589,6 +8493,136 @@ will have to be pretty loud to wake you up.  It's my opinion you'll
 be too late for the Day of Judgement."
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Capitolo II
+
+L'improbabile successo del signor Owen Hood
+
+Gli eroi che hanno sopportato la pesante fatica di leggere fino in
+fondo la storia dell'Impresentabile apparizione del colonnello Crane
+sanno che quell'impresa fu la prima di una serie di prodezze ritenute
+impossibili, come le cerche dei cavalieri di Artù. Ai fini di questo
+racconto, in cui il colonnello non è che una figura secondaria, basti
+dire che egli fu a lungo conosciuto e stimato, prima della sua ultima
+scappatella, come un rispettabile militare in pensione in una zona
+residenziale del Surrey, dalla carnagione abbronzata dal sole e con
+un interesse per la mitologia selvaggia. In verità, però, egli aveva
+raccolto l'abbronzatura e i miti selvaggi qualche tempo prima di
+riuscire a mettere insieme la rispettabilità e i miti suburbani.
+Nella sua prima giovinezza era stato un viaggiatore del tipo
+avventuroso e persino irrequieto; e riguarda questa storia soltanto
+perché fu membro di una specie di circolo o cricca di giovani la cui
+audacia rasentava la stravaganza. Erano tutti eccentrici dell'uno o
+dell'altro genere, alcuni professando opinioni rivoluzionarie estreme
+e altri opinioni reazionarie estreme, e alcuni entrambe. Tra questi
+ultimi si può annoverare il signor Robert Owen Hood, l'avvocato
+alquanto poco legale che è l'eroe di questo racconto.
+
+Robert Owen Hood era l'amico più intimo e più incongruo di Crane.
+Hood fu fin dal principio tanto sedentario quanto Crane era
+avventuroso. Hood fu fino all'ultimo tanto noncurante quanto Crane
+era convenzionale. Il prefisso di Robert Owen era una reliquia di una
+vaga tradizione rivoluzionaria nella sua famiglia; ma con esso egli
+ereditò anche un po' di denaro che gli permetteva di trascurare la
+legge e di coltivare il gusto della libertà e del vagabondare e
+sognare negli angoli sperduti della campagna, specialmente tra le
+piccole colline tra il Severn e il Tamigi. Nel corso superiore di
+quest'ultimo fiume c'è un isolotto sul quale amava particolarmente
+sedersi a pescare, figura trasandata ma non comune, vestita di grigio,
+con una criniera di capelli color ruggine e un viso lungo dal mento
+pronunciato, non dissimile da Napoleone. Accanto a lui, nell'occasione
+di cui ora si parla, stava lo spiccato contrasto del suo sveglio amico
+militare in pieno assetto da viaggio; sul punto di partire per una
+delle sue odissee nei Mari del Sud.
+
+«Allora», domandò l'impaziente viaggiatore in tono di rimprovero,
+«hai preso qualcosa?»
+
+«Una volta mi hai chiesto», rispose placidamente il pescatore, «che
+cosa intendessi chiamandoti materialista. Questo è ciò che intendevo
+chiamandoti materialista.»
+
+«Se si deve essere o materialisti o pazzi», sbuffò il soldato,
+«datemi il materialismo.»
+
+«Al contrario», rispose l'amico, «la tua fissazione è ben più folle
+della mia. E dubito che sia più fruttuosa. Nel momento in cui uomini
+come te vedono un uomo seduto in riva a un fiume con una canna, sono
+follemente spinti a chiedergli che cosa abbia preso. Ma quando tu
+parti per andare a caccia grossa, come la chiami tu, nessuno ti chiede
+che cosa hai preso. Nessuno si aspetta che tu porti a casa un
+ippopotamo per cena. Nessuno ti ha mai visto risalire Pall Mall,
+seguito rispettosamente da una giraffa in cattività. Il tuo carniere
+di elefanti, per quanto enorme, sembra singolarmente discreto;
+lasciato al guardaroba, senza dubbio. Personalmente, dubito che tu
+prenda mai qualcosa. È tutto decorosamente nascosto nella sabbia del
+deserto e nel dubbio e nella distanza. Ma ciò che io prendo è
+qualcosa di assai più elusivo, e sfuggente come qualunque pesce.
+È l'anima dell'Inghilterra.»
+
+«Direi che prenderai un raffreddore, se non un pesce», rispose Crane,
+«a startene lì con i piedi penzoloni in una pozza a quel modo. A me
+piace muovermi un po' di più. Sognare va benissimo, a modo suo.»
+
+A questo punto una nuvola simbolica avrebbe dovuto passare davanti al
+sole, e una certa ombra di mistero e di silenzio dovrebbe posarsi per
+un momento sulla narrazione. Poiché fu in questo momento che James
+Crane, cieco per l'ispirazione, pronunciò la sua celebre Profezia,
+attorno alla quale ruota questa improbabile vicenda. Come accadeva di
+solito agli uomini che pronunciano presagi, egli era del tutto
+inconsapevole che ci fosse qualcosa di ominoso in ciò che diceva. Un
+attimo dopo probabilmente non avrebbe più saputo di averlo detto. Un
+attimo dopo, fu come se una nuvola di strana forma fosse davvero
+passata dinanzi al volto del sole.
+
+La profezia ha assunto la forma di un proverbio. A tempo debito il
+paziente lettore, che tutto sopporta, potrà apprendere quale proverbio.
+Come accadde, in effetti, la conversazione era in gran parte consistita
+di proverbi; come spesso avviene con uomini come Hood, il cui cuore è
+con quell'antica vita campestre inglese da cui vennero tutti i proverbi.
+Ma fu Crane a dire:
+
+«Va benissimo essere affezionati all'Inghilterra; ma un uomo che vuole
+aiutare l'Inghilterra non deve lasciar crescere l'erba sotto i piedi.»
+
+«Ed è proprio quello che voglio fare io», rispose Hood. «È esattamente
+ciò che perfino la tua povera gente stanca delle grandi città vuole
+davvero fare. Quando un misero impiegato percorre Threadneedle Street,
+non sarebbe davvero deliziato se potesse abbassare lo sguardo e vedere
+l'erba crescere sotto i suoi piedi; un magico tappeto verde in mezzo
+al marciapiede? Sarebbe come una fiaba.»
+
+«Sì, ma non se ne starebbe seduto come un sasso come fai tu», ribatté
+l'altro. «Un uomo potrebbe lasciar crescere l'erba sotto i piedi senza
+lasciare che l'edera gli salga su per le gambe. Anche questo suona come
+una fiaba, se vuoi, ma non c'è proverbio che lo raccomandi.»
+
+«Oh, ci sono proverbi dalla mia parte, se è per questo», rispose Hood
+ridendo. «Potrei ricordarti quello della pietra che rotola e non fa
+muschio.»
+
+«Be', chi vuole fare muschio, a parte qualche vecchia signora pignola?»
+domandò Crane. «Sì, sono una pietra che rotola, suppongo; e vado
+rotolando attorno alla terra come la terra va rotolando attorno al
+sole. Ma ti dirò una cosa; c'è un solo tipo di pietra che il muschio
+lo fa davvero.»
+
+«E quale sarebbe, mio errante geologo?»
+
+«Una pietra tombale», disse Crane.
+
+Ci fu un silenzio, e Hood se ne stava seduto a fissare con il suo viso
+da gufo le pozze fioche in cui i boschi scuri si specchiavano. Alla
+fine disse:
+
+«Il muschio non è l'unica cosa che vi si trova. A volte c'è la parola
+"Resurgam".»
+
+«[[Well|Ebbene]], lo [[Hope|spero]] proprio», disse Crane bonariamente.
+«Ma la tromba dovrà essere piuttosto forte per svegliarti. A mio parere
+arriverai troppo tardi persino per il Giorno del Giudizio.»
+
 
 
 <span class="atom-split" data-atom="chapter_02--part_02" data-title="Tales of the Long Bow — Chapter 2 (part 2)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="archetype/ghost,motif/birds,motif/death,motif/flowers,motif/love,motif/mirror,motif/night,motif/river,motif/time,motif/water,motif/well,concept/truth,concept/unattainable,form/epic,setting/court"></span>
@@ -7706,6 +8740,123 @@ but it is probable that he went away convinced that he had been
 talking to a wandering lunatic.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+«Ora, se questo fosse un vero dialogo drammatico», osservò Hood,
+«dovrei risponderti che sarebbe meglio per te se lo fossi. Ma non
+sembra proprio un sentimento cristiano per un commiato. Parti davvero
+oggi?»
+
+«Sì, parto questa [[Night|notte]]», rispose l'amico. «Sicuro di non
+voler venire con me alle Isole dei Cannibali?»
+
+«Preferisco la mia isola», disse il signor Owen Hood.
+
+Quando l'amico se ne fu andato, egli continuò a fissare distrattamente
+il tranquillo mondo alla rovescia nel verde [[Mirror|specchio]] della
+pozza, né mutò postura e a malapena mosse il capo. Ciò poteva
+spiegarsi in parte con le immobili abitudini di un pescatore; ma a
+dire il [[Truth|vero]], non era facile scoprire se il solitario
+avvocato desiderasse davvero prendere qualche pesce. Portava spesso in
+tasca un volume di Isaac Walton, avendo un [[Love|amore]] per l'antica
+letteratura inglese non minore che per l'antico paesaggio inglese. Ma
+se era un pescatore, di certo non era un pescatore molto completo.
+
+Ma la [[Truth|verità]] è che Owen Hood non era stato del tutto sincero
+con il suo amico riguardo all'incantesimo che lo legava a quel
+particolare isolotto dell'Alto Tamigi. Se avesse detto, come era ben
+capace di dire, che sperava di prendere la pesca miracolosa, o la
+balena che inghiottì Giona, o addirittura il grande serpente marino,
+le sue espressioni sarebbero state meramente simboliche. Ma sarebbero
+state il simbolo di qualcosa di altrettanto unico e
+[[Unattainable|irraggiungibile]]. Poiché il signor Owen Hood pescava
+in realtà qualcosa che pochissimi pescatori prendono mai; e cioè
+[[A Dream|un sogno]] della sua fanciullezza, e qualcosa che era
+accaduto in quel luogo solitario molto tempo prima.
+
+Anni prima, quando era ancora molto giovane, se ne stava a pescare su
+quell'isola una sera, mentre le fasce del crepuscolo si mutavano in
+tenebra, e due o tre larghe fasce d'argento erano tutto ciò che restava
+del tramonto dietro gli alberi che s'oscuravano. Gli [[Birds|uccelli]]
+calavano giù dal cielo e non c'era alcun rumore se non i lievi rumori
+del [[River|fiume]]. Improvvisamente, e senza un suono, come giunge una
+vera visione, una fanciulla era uscita dal bosco di fronte. Gli parlò
+attraverso il ruscello, chiedendogli egli stesso non sapeva bene che
+cosa, cui egli rispose non sapeva bene come. Era vestita di bianco e
+portava un mazzo di campanule sciolte nella mano; i capelli, in una
+frangia diritta d'oro, le scendevano bassi sulla fronte; era pallida
+come avorio, e le sue pallide palpebre avevano una sorta di fremito
+come di emozione nervosa. Lo colse un soffocante senso di stupidità.
+Ma dovette riuscire a parlare con garbo, perché ella si attardò; e
+dovette dire qualcosa che la divertì, perché ella rise. Seguì poi
+l'episodio che egli non riuscì mai ad analizzare, benché fosse persona
+incline all'introspezione. Facendo un gesto verso qualcosa, ella
+lasciò cadere i suoi sciolti [[Flowers|fiori]] azzurri nell'[[Water|acqua]].
+Egli non seppe che sorta di turbine gli fosse nella testa, ma gli parve
+che stessero accadendo cose prodigiose, come in un'[[Epic|epopea]] degli
+dèi, di cui tutte le cose visibili non erano che i piccoli segni. Prima
+di rendersi conto di dove fosse, si ritrovò in piedi grondante
+sull'altra riva; poiché in qualche modo vi si era tuffato e aveva
+salvato il mazzo come se fosse un bimbo che stesse annegando. Di tutte
+le cose che ella disse egli riuscì a ricordarne una frase, che si
+ripeteva perpetuamente nella sua mente: «Ti prenderai la [[Death|morte]]
+di freddo.»
+
+Prese solo il raffreddore e non la [[Death|morte]]; eppure persino
+l'idea di quest'ultima non pareva, chissà come, sproporzionata. Il
+medico, al quale fu costretto a fornire una qualche spiegazione della
+sua immersione, s'interessò molto alla storia, o a quel che ne udì,
+provando piacere nel ricostruire gli alberi genealogici delle famiglie
+della contea e le parentele delle migliori casate del vicinato. Per un
+qualche ricco processo di eliminazione dedusse che la dama doveva
+essere la signorina Elizabeth Seymour di Marley [[Court]]. Il medico
+parlava con rispettoso compiacimento di tali cose; era un giovane
+professionista in ascesa di nome Hunter, in seguito vicino di casa del
+colonnello Crane. Condivideva l'ammirazione di Hood per il paesaggio
+locale, e diceva che ciò era dovuto al bel modo in cui Marley
+[[Court]] veniva tenuta.
+
+«Sono i proprietari terrieri come quello», disse, «che hanno fatto
+l'Inghilterra. Va tutto [[Well|bene]] che i Radicali parlino; ma dove
+saremmo senza i proprietari terrieri?»
+
+«Oh, io sono tutto per i proprietari terrieri», disse Hood piuttosto
+stancamente. «Mi piacciono tanto che ne vorrei di più. Sempre più
+proprietari terrieri. Centinaia e migliaia di loro.»
+
+È dubbio che il dottor Hunter seguisse appieno il suo entusiasmo, o
+anche solo il suo significato; ma Hood ebbe in seguito ragione di
+ricordare questa breve conversazione; per quanto fosse dell'umore di
+ricordare qualsiasi conversazione tranne una.
+
+Ad ogni modo, sarebbe vano nascondere all'intelligente per quanto
+esausto lettore che questa era probabilmente la vera origine
+dell'abitudine del signor Hood di sedere saldamente su quell'isola e
+di fissare distrattamente quella riva. Per tutti gli anni in cui
+sentiva che la sua prima giovinezza andava svanendo, e persino quando
+pareva scivolare verso la mezza età, egli infestava quella valle come
+un [[Ghost|fantasma]], in attesa di qualcosa che non tornò mai più. Non
+è affatto certo, nell'ultima e più sottile analisi, che egli si
+aspettasse persino che tornasse. In qualche modo pareva troppo simile
+a un miracolo perché ciò avvenisse. Soltanto, quel luogo era divenuto
+il santuario del miracolo; ed egli sentiva che se qualcosa fosse mai
+accaduto lì, doveva esserci per vederlo. E così avvenne che egli era
+lì a vedere quando le cose accaddero davvero; e cose piuttosto strane
+erano accadute prima della fine.
+
+Una mattina vide una cosa straordinaria. Certo non sarebbe parsa
+straordinaria alla maggior parte della gente; ma per lui fu del tutto
+apocalittica. Un uomo impolverato uscì dal bosco portando quelli che
+parevano polverosi pezzi di legname, e si accinse a innalzare sulla
+riva ciò che si rivelò essere una sorta di tabellone, un enorme cartello
+di legno sul quale era scritto a lettere gigantesche: «Vendesi», con
+annotazioni in caratteri più piccoli riguardo al terreno e il nome
+degli agenti immobiliari. Per la prima [[Time|volta]] da anni Owen Hood
+si alzò in piedi dal suo posto e abbandonò la pesca, e gridò domande
+attraverso il [[River|fiume]]. L'uomo rispose con la più grande pazienza
+e buon[[Humour|umore]]; ma è probabile che se ne andasse convinto di
+aver parlato con un lunatico errante.
+
 
 
 <span class="atom-split" data-atom="chapter_02--part_03" data-title="Tales of the Long Bow — Chapter 2 (part 3)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="motif/childhood,motif/dawn,motif/flowers,motif/nature,motif/night,motif/poison,motif/river,motif/silence,motif/soul,motif/time,motif/water,concept/beauty,concept/nature,concept/suicide,setting/court,character/robin_hood,character/witch"></span>
@@ -7820,6 +8971,124 @@ who had revolutionized the modern mind with his new discoveries about
 the complexion in relation to health.  When Hood realized who he was,
 a light of somewhat sinister understanding dawned on his long face.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Quello fu l'inizio di quello che per Owen Hood fu un [[nightmare|incubo]]
+strisciante. Il mutamento avanzava lentamente, per un processo che si
+stese lungo gli anni, ma gli pareva di essere impotente e paralizzato
+al suo cospetto, esattamente come un uomo è paralizzato in un vero
+[[nightmare|incubo]]. Rideva di una risata quasi orribile al pensiero
+che si suppone che un uomo in una società moderna sia padrone del
+proprio destino e libero di perseguire i propri piaceri; quando non
+aveva il potere d'impedire che la luce del giorno che egli contempla
+venisse oscurata, o che l'aria che respira venisse tramutata in
+[[Poison|veleno]], o che il [[Silence|silenzio]] che è suo pieno
+possesso venisse scosso dalla cacofonia dell'inferno. C'era qualcosa,
+pensava cupamente, nella semplice ammirazione del dottor Hunter per
+l'aristocrazia agraria. C'era qualcosa nell'aristocrazia del tutto
+primitiva e persino barbara. I signori feudali si davano a sprazzi alle
+battaglie e alle razzie; mettevano collari attorno al collo di alcuni
+servi della gleba; di tanto in tanto mettevano cappi attorno al collo
+di qualcuno di loro. Ma non facevano guerra giorno e [[Night|notte]]
+contro i cinque sensi dell'uomo.
+
+Erano dapprima comparse sulla riva del [[River|fiume]] piccole baracche
+e capanni, per operai che parevano piuttosto lungamente occupati a
+innalzare baracche e capanni più grandi. Fino all'ultimo, quando la
+fabbrica fu terminata, non era facile per l'occhio tradizionale
+distinguere fra ciò che era temporaneo e ciò che era permanente. Non
+pareva che nulla di tutto ciò potesse essere permanente, se vi era
+qualcosa di naturale nella [[Nature|natura]] delle cose, per così dire.
+Ma qualunque fosse il nome e la [[Nature|natura]] di quella cosa amorfa,
+essa si gonfiava e cresceva e persino si moltiplicava senza chiara
+divisione; finché sulla riva del [[River|fiume]] sorse un grande blocco
+nero e rappezzato di edifici che terminava in un'alta ciminiera di
+mattoni da cui un fiotto di fumo saliva nel cielo silenzioso. Un cumulo
+di una qualche sorta di detriti, ferraglia e cose simili, giaceva in
+primo piano; e una sbarra spezzata, rossa di ruggine, era caduta sul
+punto in cui la fanciulla era stata in piedi quando portò le campanule
+fuori dal bosco.
+
+Non lasciò la sua isola. Per rurale e romantico e sedentario che potesse
+sembrare, non era figlio di un vecchio rivoluzionario per nulla. Non fu
+del tutto invano che suo padre lo aveva chiamato Robert Owen o che i
+suoi amici lo avevano talvolta chiamato [[Robin Hood]]. A volte, in
+verità, l'[[Soul|anima]] gli sprofondava dentro con un male mortale che
+rasentava il [[suicide|suicidio]], ma più spesso marciava avanti e
+indietro in modo militante, deliziato di vedere gli alti
+[[Flowers|fiori]] selvatici ondeggiare sulle rive come bandiere a un
+tiro di sasso da tutto ciò che odiava, e mormorando: «Spiegate i
+vessilli sul muro esterno.» Aveva già, quando la tenuta di Marley
+[[Court]] fu smembrata per l'edificazione, preso alcuni provvedimenti
+per stabilirsi sull'isola, vi aveva costruito una sorta di capanna,
+nella quale era possibile fare picnic per periodi considerevoli.
+
+Una mattina, quando l'[[Dawn|alba]] era ancora radiosa dietro la
+fabbrica scura e la luce posava un lucore di raso sull'[[Water|acqua]],
+strisciò fuori su quel raso qualcosa come un filo che s'ispessiva, di
+diverso colore e materia. Era un sottile nastro di un qualche liquido
+che non si mescolava con l'[[Water|acqua]], ma giaceva sopra di essa
+ondeggiando come un verme; e Owen Hood lo osservava come un uomo osserva
+un serpente. Sembrava un serpente, avendo colori opalescenti non privi
+di intrinseca [[Beauty|bellezza]]; ma per lui era un serpente assai
+simbolico; come il serpente che distrusse l'Eden. Pochi giorni dopo
+c'erano una ventina di serpenti che coprivano la superficie; piccoli
+fiumi striscianti che si muovevano sul [[River|fiume]] ma non si
+mescolavano ad esso, essendo estranei come oli di [[Witch|strega]]. Più
+tardi vennero liquidi più scuri senza pretese di [[Beauty|bellezza]],
+scaglie nere e brune di grasso che galleggiavano pesantemente.
+
+Era assai caratteristico di Hood che fino all'ultimo restasse piuttosto
+vago sulla [[Nature|natura]] e sullo scopo della fabbrica; e perciò
+sugli ingredienti delle sostanze chimiche che scorrevano nel
+[[River|fiume]]; oltre al fatto che erano per lo più del tipo oleoso e
+galleggiavano sull'[[Water|acqua]] in scaglie e grumi, e che qualcosa di
+simile alla benzina pareva predominare, usata forse più per l'energia
+che come materia prima. Aveva udito una voce campagnola che l'impresa
+fosse dedita alla tintura per capelli. Odorava piuttosto come una
+fabbrica di sapone. Per quanto mai lo comprese, ricavò che era dedita a
+ciò che poteva considerarsi una giusta via di mezzo tra la tintura per
+capelli e il sapone, una qualche sorta di nuovi e altamente igienici
+cosmetici. C'era stata una moda ancora più febbrile di queste cose, da
+quando il professor Hake aveva scritto il suo libro che dimostrava che
+i cosmetici erano fra tutte le cose la più igienica. E Hood aveva visto
+molti dei prati della sua [[Childhood|fanciullezza]] ora ravvivati e
+adornati da grandi avvisi con su scritto «Perché invecchiare?», con il
+ritratto di una giovane donna che sorrideva a denti scoperti in modo
+deplorevole. Il nome appropriato sugli avvisi era Bliss, ed egli ricavò
+che tutto ciò aveva qualcosa a che fare con la grande fabbrica.
+
+Deciso a saperne un po' più di questo sulla faccenda, cominciò a fare
+indagini e reclami, e s'impegnò in una corrispondenza che si concluse
+in un vero e proprio colloquio con alcune delle principali persone
+coinvolte. La corrispondenza era andata avanti per lungo [[Time|tempo]]
+prima di avvicinarsi anche solo a qualcosa di tanto naturale. In effetti,
+la corrispondenza per lungo [[Time|tempo]] fu interamente da parte sua.
+Poiché le grandi imprese sono affaristiche assai poco quanto i
+dipartimenti del [[government|Governo]]; non sono migliori in efficienza
+e assai peggiori nei modi. Ma ottenne infine il suo colloquio, e fu con
+un senso di aspro divertimento che si trovò faccia a faccia con quattro
+persone che desiderava incontrare.
+
+Uno era Sir Samuel Bliss, poiché non aveva ancora reso quei servizi di
+partito che lo portarono a essere noto a tutti noi come Lord
+Normantowers. Era un uomo piccolo e sveglio come un furetto, con setole
+di barba e capelli grigi, e movimenti attivi o persino agitati. Il
+secondo era il suo direttore, il signor Low, un uomo tarchiato e bruno
+dal naso grosso e dai grossi anelli, che squadrava gli estranei con una
+curiosa e pesante diffidenza, come un congestionato senso di offesa. Si
+ritiene che si aspettasse di essere perseguitato. Il terzo uomo fu una
+certa sorpresa, poiché non era altri che il suo vecchio amico, il dottor
+Horace Hunter, sano e vigoroso come sempre, ma vestito ancora meglio;
+giacché aveva ora un grande incarico ufficiale come una sorta di
+ispettore medico delle condizioni sanitarie del distretto. Ma il quarto
+uomo fu la più grande sorpresa di tutte. Poiché parve che il loro
+convegno fosse onorato da una figura tanto grande del mondo scientifico
+quale il professor Hake in persona, che aveva rivoluzionato la mente
+moderna con le sue nuove scoperte sulla carnagione in relazione alla
+salute. Quando Hood comprese chi fosse, una luce di comprensione
+alquanto sinistra spuntò sul suo lungo viso.
 
 
 
@@ -7963,6 +9232,148 @@ railings and wooden posts of the factory, but to various human figures,
 known as "hands," which moved to and fro in it.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+In questa occasione [[The Professor|il professore]] avanzò una teoria
+ancora più interessante. Era un uomo grosso e biondo, dagli occhi
+ammiccanti e dal collo taurino; e senza dubbio in lui c'era più di
+quanto apparisse all'occhio, come suole accadere con i grandi uomini.
+Parlò per ultimo, e la sua teoria fu esposta con una certa aria di
+definitività. Il direttore aveva già affermato che era del tutto
+impossibile che grandi quantità di benzina fossero sfuggite, giacché
+nella fabbrica se ne usava solo una data quantità. Sir Samuel aveva
+spiegato, in un modo che pareva irascibile e persino irrilevante, che
+aveva donato al pubblico diversi parchi, e aveva fatto decorare i
+dormitori dei suoi operai con il gusto più semplice e migliore, e che
+nessuno poteva accusarlo di vandalismo o di non curarsi della
+[[Beauty|bellezza]] e di tutto ciò. Fu allora che il professor Hake
+spiegò la teoria dello Schermo Protettivo. Anche se fosse possibile,
+disse, che una qualche sottile pellicola di benzina comparisse
+sull'[[Water|acqua]], poiché essa non si mescolerebbe con l'[[Water|acqua]],
+quest'ultima verrebbe in realtà mantenuta in condizioni più limpide.
+Agirebbe, per così dire, come una Calotta; come fa la Calotta gelatinosa
+su certi cibi conservati.
+
+«È una veduta assai interessante», osservò Hood; «suppongo che ne
+scriverà un altro libro?»
+
+«Credo che siamo tanto più privilegiati», osservò Bliss, «nell'apprendere
+la scoperta in questo modo personale, prima che il nostro esperto la
+esponga al pubblico.»
+
+«Sì», disse Hood, «il vostro esperto è davvero esperto, non è vero...
+nello scrivere libri?»
+
+Sir Samuel Bliss s'irrigidì in tutte le sue setole. «Confido», disse,
+«che non stiate insinuando alcun [[Doubt|dubbio]] che il nostro esperto
+sia un esperto.»
+
+«Non ho alcun [[Doubt|dubbio]] sul vostro esperto», rispose Hood
+gravemente. «Non [[Doubt|dubito]] né che sia esperto né che sia vostro.»
+
+«Davvero, signori», esclamò Bliss in una sorta di raggiante protesta,
+«trovo che una simile insinuazione su un uomo nella posizione del
+professor Hake...»
+
+«Niente affatto, niente affatto», disse Hood in tono placante, «sono
+certo che sia una posizione quanto mai comoda.»
+
+[[The Professor|Il professore]] lo scrutò ammiccando, ma una luce ardeva
+nei bulbi oculari sotto le pesanti palpebre.
+
+«Se venite qui a parlare in questo modo...» cominciò, quando Hood gli
+troncò il discorso rivolgendo la parola, al di sopra di lui, a qualcun
+altro, con una gaia scortesia che nel suo disprezzo era come un calcio.
+
+«E voi che dite, mio caro dottore?» osservò, rivolgendosi a Hunter. «Un
+tempo eravate romantico quasi quanto me riguardo alle amenità di questo
+luogo. Ricordate quanto ammiravate i proprietari terrieri per aver
+tenuto il luogo quieto e scelto; e come diceste che le antiche famiglie
+preservavano la [[Beauty|bellezza]] della vecchia Inghilterra?»
+
+Ci fu un [[Silence|silenzio]], e poi il giovane dottore parlò.
+
+«[[Well|Ebbene]], non ne consegue che uno non possa credere nel progresso.
+È questo il tuo guaio, Hood; tu non credi nel progresso. Dobbiamo
+muoverci con i tempi; e qualcuno deve sempre soffrire. E poi, oggigiorno
+non conta più tanto l'[[Water|acqua]] di [[River|fiume]]. Non conta
+neppure tanto la principale fornitura d'[[Water|acqua]]. Quando sarà
+approvata la nuova legge, la gente sarà comunque obbligata a usare il
+Filtro Bulton.»
+
+«Capisco», disse Hood riflessivo, «prima insozzate l'[[Water|acqua]] per
+denaro, e poi vi fate un merito di costringere la gente a pulirsela da
+sé.»
+
+«Non so di che cosa tu stia parlando», disse Hunter con ira.
+
+«[[Well|Ebbene]], stavo pensando in questo momento», disse Hood nel suo
+modo piuttosto criptico. «Stavo pensando al signor Bulton. L'uomo che
+possiede i filtri. Mi domandavo se non potesse unirsi a noi. Sembriamo
+una così felice riunione di famiglia.»
+
+«Non vedo l'utilità di prolungare questa conversazione assurda», disse
+Sir Samuel.
+
+«Non chiamate assurda la povera teoria del professore», protestò Hood.
+«Un po' fantasiosa, forse. E quanto alla veduta del dottore, di certo
+non c'è nulla di assurdo in essa. Non pensa che le sostanze chimiche
+[[Poison|avveleneranno]] tutti i pesci che prendo, vero, dottore?»
+
+«No, certo che no», rispose Hunter seccamente.
+
+«Si adatteranno per selezione naturale», disse Hood sognante.
+«Svilupperanno organi adatti a un ambiente oleoso... impareranno ad
+[[Love|amare]] la benzina.»
+
+«Oh, non ho [[Time|tempo]] per queste sciocchezze», disse Hunter, e si
+stava voltando per andarsene, quando Hood gli si parò davanti e lo
+guardò fissamente.
+
+«Non dovete chiamare sciocchezza la selezione naturale», disse. «Di
+quella so tutto, in ogni caso. Non so dire se i liquidi versati dalla
+riva finiscano nel [[River|fiume]], perché non m'intendo di idraulica.
+Non so se i vostri macchinari facciano un fracasso d'inferno ogni
+mattina, perché non ho mai studiato acustica. Non so se puzzi o no,
+perché non ho letto il libro del vostro esperto su "Il Naso". Ma so
+tutto sull'adattamento all'ambiente. So che alcuni degli organismi
+inferiori mutano davvero con le loro mutevoli condizioni. So che ci
+sono creature tanto infime da sopravvivere arrendendosi a ogni
+successione di fango e melma; e quando le cose sono lente esse sono
+lente, e quando le cose sono rapide esse sono rapide, e quando le cose
+sono lorde esse sono lorde. Vi ringrazio di avermene convinto.»
+
+Non attese risposta, ma uscì dalla stanza dopo aver fatto un secco
+inchino agli altri; e quella fu la fine del grande convegno sulla
+questione dei diritti rivieraschi e forse la fine della Tutela del
+Tamigi e della vecchia aristocrazia, con tutto il suo bene e il suo
+male.
+
+Il grande pubblico non ne udì mai gran che; almeno fino a una scena
+catastrofica che doveva seguire. Ci fu qualche debole increspatura
+della questione alcuni mesi dopo, quando il dottor Horace Hunter si
+candidò al Parlamento in quella circoscrizione. Furono poste una o due
+domande sui suoi doveri in relazione all'inquinamento del fiume; ma fu
+presto evidente che nessun partito desiderava particolarmente forzare
+la questione contro le migliori opinioni avanzate dall'altra parte. La
+più grande autorità vivente in fatto d'igiene, il professor Hake, aveva
+addirittura scritto al Times (nell'interesse della scienza) per dire che
+in un caso ipotetico come quello menzionato, un uomo di medicina non
+poteva fare altro che quel che il dottor Hunter aveva evidentemente
+fatto. Volle il caso che il principale capitano d'industria di quella
+parte della Valle del Tamigi, Sir Samuel Bliss, avesse egli stesso, dopo
+aver gravemente soppesato le politiche rivali, deciso di Votare per
+Hunter. La mente del grande organizzatore era distaccata e filosofica
+nella faccenda; ma pare che il suo direttore, un certo signor Low, fosse
+della stessa politica e di uno spirito più pratico e intraprendente;
+sostenendo con calore le rivendicazioni di Hunter presso i suoi operai;
+additando i molti vantaggi pratici che avrebbero ottenuto votando per
+quel medico, e gli svantaggi ancora più pratici che avrebbero potuto
+subire non facendolo. Ne conseguì quindi che i nastri azzurri, che erano
+i distintivi locali degli Hunteriani, non solo si trovavano attaccati
+alle inferriate di ferro e ai pali di legno della fabbrica, ma a varie
+figure umane, note come "braccia", che vi si muovevano avanti e indietro.
+
 
 
 <span class="atom-split" data-atom="chapter_02--part_05" data-title="Tales of the Long Bow — Chapter 2 (part 5)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="motif/memory,concept/satire_of_society,concept/romantic_love,setting/london,character/owen_hood,character/lord_normantowers"></span>
@@ -8088,6 +9499,132 @@ They stepped on the crest of the hill and stood.  Below them the black
 factory belched its livid smoke into the air; and where the wood had
 been were rows of little houses like boxes, built of dirty yellow brick.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Hood non provava alcun interesse per le elezioni; ma mentre esse si
+svolgevano seguì la faccenda un poco oltre in un'altra forma. Era un
+avvocato, un avvocato pigro, ma per certi versi dotto; poiché, essendo
+i suoi gusti portati allo studio, aveva a suo tempo appreso il mestiere
+che non aveva mai esercitato. Più per sfida che per speranza, portò una
+volta la questione in tribunale, perorando la propria causa sulla base
+di una legge di Enrico Terzo contro lo spaventare i pesci dei fedeli
+sudditi del Re nella Valle del Tamigi. Il giudice, nel pronunciare la
+sentenza, si complimentò con lui per l'abilità e la plausibilità della
+sua tesi, ma alla fine la respinse per motivi altrettanto storici e
+remoti. Sua signoria sostenne che non sembrava previsto alcun criterio
+per accertare il grado di paura nei pesci, o se essa equivalesse a
+quella paura corporea di cui la legge prendeva cognizione. Ma il dotto
+giudice richiamò il precedente di una legge di Riccardo Secondo contro
+certe streghe che avevano spaventato dei bambini; legge che era stata
+interpretata da un'autorità tanto grande quanto Coke nel senso che il
+bambino «deve ritornare e di propria volontà testimoniare la sua paura».
+Non sembrava si sostenesse che alcuno dei pesci in questione fosse
+ritornato e avesse deposto una simile testimonianza dinanzi ad alcuna
+autorità competente; ed egli pertanto emise sentenza a favore dei
+convenuti. E quando il dotto giudice ebbe a incontrare Lord Normantowers
+(come ormai si chiamava) a cena quella sera, fu allegramente canzonato
+e felicitato da quel nuovo nobiluomo per la lucidità e la definitività
+della sua sentenza. In verità, il dotto giudice aveva davvero assaporato
+la logica tanto della propria tesi quanto di quella di Hood; ma la
+conclusione era quella cui sarebbe giunto in ogni caso. Poiché i nostri
+giudici non sono impacciati da alcun codice rigido; sono progressisti,
+come il dottor Hunter, e si alleano per principio con le forze
+progressiste dell'epoca, specialmente con quelle che è probabile
+incontrino a cena.
+
+Ma fu questa causa fallita a condurre a qualcosa che la cancellò del
+tutto in una vampata di gloria, per quanto riguardava il signor Owen
+Hood. Aveva appena lasciato il tribunale, e imboccando le vie che
+conducevano in direzione della stazione, vi si diresse in una sorta di
+cupa fantasticheria, come era sua abitudine. Le vie erano gremite di
+volti; lo colpì per la prima volta il fatto che al mondo vi fossero
+migliaia e migliaia di persone. C'erano più volti alla stazione
+ferroviaria, e poi, quando ne ebbe guardati oziosamente quattro o
+cinque, ne vide uno che per lui era incredibile quanto il volto di un
+morto.
+
+Ella usciva con disinvoltura dalla sala da tè, portando una borsetta,
+proprio come chiunque altro. Quella mistica perversità della sua mente,
+che aveva insistito nel suggellare il sacro ricordo come qualcosa che
+non si dovesse cercare per mera curiosità, lo aveva fissato nei suoi
+colori e nella sua cornice originari, come qualcosa di cui nessun
+dettaglio potesse mutare senza che la visione si dissolvesse. Avrebbe
+ritenuto quasi impossibile che ella potesse comparire in qualcosa che
+non fosse il bianco o uscire da qualcosa che non fosse un bosco. E si
+ritrovò sconvolto da un'antica e comune incredulità degli uomini nella
+sua condizione; trasalendo alla coincidenza che l'azzurro le si
+addicesse quanto il bianco; e che in ciò che ricordava di quel bosco vi
+fosse qualcos'altro; qualcosa da dire persino a favore delle sale da tè
+e delle stazioni ferroviarie.
+
+Ella si fermò dinanzi a lui e le sue pallide palpebre tremule si
+sollevarono dai suoi occhi grigio-azzurri.
+
+«Ma guarda», disse, «lei è il ragazzo che saltò nel fiume!»
+
+«Non sono più un ragazzo», rispose Hood, «ma sono pronto a saltare di
+nuovo nel fiume.»
+
+«Be', non salti sui binari», disse ella, mentre egli si voltava con una
+prontezza che suggeriva qualcosa del genere.
+
+«A dirle la verità», disse, «stavo pensando di saltare su un treno. Le
+dispiace se salto sul suo treno?»
+
+«Be', io vado a Birkstead», disse ella piuttosto dubbiosa.
+
+Al signor Owen Hood non importava minimamente dove ella andasse, giacché
+aveva deciso di andarci; ma per la verità si ricordò di una stazione
+lungo quella linea che si trovava assai vicino a ciò che aveva in mente;
+sicché si gettò nella carrozza, se possibile, con ancor più alacrità; e
+i paesaggi sfrecciavano loro accanto mentre sedevano guardandosi l'un
+l'altro in modo attonito e quasi sciocco. Alla fine la ragazza sorrise
+con il senso dell'assurdità della cosa.
+
+«Ho sentito parlare di lei da un suo amico», disse; «venne a farci
+visita poco dopo che accadde; almeno, fu allora che venne la prima
+volta. Conosce il dottor Hunter, vero?»
+
+«Sì», rispose Owen, mentre un'ombra calava sulla sua ora radiosa. «Lo...
+lo conosce bene?»
+
+«Ormai lo conosco piuttosto bene», disse la signorina Elizabeth Seymour.
+
+L'ombra sul suo spirito s'incupì rapidamente; sospettò qualcosa d'un
+tratto, all'improvviso e ferocemente. Hunter, nella vecchia frase di
+Crane, non era un uomo da lasciar crescere l'erba sotto i piedi. Era
+proprio da lui aver in qualche modo usato l'episodio come presentazione
+ai Seymour. Le cose erano sempre pietre di guado per Hunter, e la
+piccola roccia nel fiume era stata una pietra di guado verso la casa di
+campagna. Ma la casa di campagna era una pietra di guado verso
+qualcos'altro? All'improvviso Hood si rese conto che tutte le sue
+collere erano state collere assai astratte. Non aveva mai odiato un uomo
+prima d'allora.
+
+In quel momento il treno si fermò alla stazione di Cowford.
+
+«Vorrei che scendesse qui con me», disse bruscamente, «solo per poco...
+e potrebbe essere l'ultima volta. Voglio che faccia una cosa.»
+
+Ella lo guardò con una curiosa espressione e disse con voce piuttosto
+bassa: «Che cosa vuole che faccia?»
+
+«Voglio che venga a cogliere le campanule», disse aspramente.
+
+Ella scese dal treno, e risalirono una tortuosa strada di campagna
+senza una parola.
+
+«Mi ricordo!» disse d'un tratto. «Quando si arriva in cima a questa
+collina si vede il bosco dove c'erano le campanule, e la sua piccola
+isola più oltre.»
+
+«Venga a vederla», disse Owen.
+
+Salirono sul crinale della collina e si fermarono. Sotto di loro la nera
+fabbrica eruttava il suo fumo livido nell'aria; e dove era stato il
+bosco c'erano file di casette come scatole, costruite di sudicio mattone
+giallo.
 
 
 
@@ -8227,6 +9764,145 @@ But it would be hard indeed if when I find it DOES exist after all...
 hard on you, harder on me, if when I had really found it at last..."
 The catch in her voice came again and [[Silence|silence]] caught and held her.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Hood parlò. «E quando vedrà l'abominio della desolazione insediato nel
+Santo dei Santi... non è quello il momento in cui il mondo dovrebbe
+finire? Vorrei che il mondo finisse ora; con lei e me in piedi su una
+collina.»
+
+Ella fissava il luogo con le labbra dischiuse e con più del suo consueto
+pallore; egli sapeva che ella comprendeva qualcosa di mostruoso e
+simbolico nella scena; eppure la sua prima osservazione fu spezzata e
+banale. Sulla più vicina delle scatole di mattoni gialli erano visibili
+i colori dozzinali di varie réclame; e più grande delle altre un
+manifesto azzurro che proclamava «Votate Hunter». Con un ultimo tocco
+di anticlimax, Hood ricordò che era l'ultimo e più clamoroso giorno
+delle elezioni. Ma la ragazza aveva già ritrovato la voce.
+
+«È quello il dottor Hunter?» chiese con banale curiosità; «si candida
+al parlamento?»
+
+Un peso che gravava sulla mente di Hood come una roccia si sollevò d'un
+tratto come un'aquila; ed egli si sentì come se la collina su cui stava
+fosse più alta dell'Everest. Per l'intuito della propria follia, sapeva
+bene che LEI avrebbe saputo bene se Hunter si candidava, se... se ci
+fosse stato qualcosa di simile a ciò che egli supponeva. Il venir meno
+del peso che lo stabilizzava lo fece vacillare, ed egli disse qualcosa
+di del tutto indifendibile.
+
+«Pensavo che lo sapesse. Pensavo che lei e lui foste probabilmente...
+be', la verità è che pensavo foste fidanzati, benché davvero non sappia
+perché.»
+
+«Non riesco a immaginare perché», disse Elizabeth Seymour. «Ho sentito
+che era fidanzato con la figlia di Lord Normantowers. Ora hanno la
+nostra vecchia dimora, sa.»
+
+Ci fu un silenzio e poi Hood parlò d'un tratto con voce alta e allegra.
+
+«Be', quel che dico io è "Votate Hunter"», disse con calore. «Dopo
+tutto, perché non votare Hunter? Caro vecchio Hunter! [[Hope|Spero]] che
+sarà membro del Parlamento. [[Hope|Spero]] che sarà Primo Ministro.
+[[Hope|Spero]] che sarà Presidente dello Stato Mondiale di cui parla
+Wells. Per Giove, merita di essere Imperatore del Sistema Solare.»
+
+«Ma perché», protestò ella, «perché dovrebbe meritare tutto ciò?»
+
+«Per non essere fidanzato con lei, naturalmente», rispose.
+
+«Oh!» disse ella, e un che di brivido segreto nella sua voce lo
+attraversò come una campanella d'argento.
+
+Bruscamente, tutt'a un tratto, la foga dello scherzo parve aver lasciato
+la sua voce e il suo volto, sicché il suo profilo napoleonico apparve
+serio e ardente e assai più giovane, come il profilo del giovane
+Napoleone. Le sue ampie spalle persero la lieve curva che i libri
+avevano dato loro, e i suoi capelli rossi piuttosto arruffati ricaddero
+all'indietro dal capo sollevato.
+
+«C'è una cosa che devo dirle su di lui», disse, «e una cosa che lei deve
+udire su di me. I miei amici mi dicono che sono un vagabondo e un
+sognatore; che lascio crescere l'erba sotto i piedi; devo almeno dirle
+come e perché una volta la lasciai crescere. Tre giorni dopo quel giorno
+lungo il [[River|fiume]], parlai con Hunter; mi aveva in cura e parlò di
+quella faccenda e di lei. Naturalmente non sapeva nulla né dell'una né
+dell'altra. Ma è un uomo pratico; un uomo assai pratico; non sogna né
+vagabonda. Dal modo in cui parlava capii che stava già allora valutando
+come l'incidente potesse essere volto a profitto; a suo profitto e forse
+anche al mio; poiché è di buon cuore; sì, è proprio di buon cuore. Credo
+che se avessi colto il suo suggerimento e stretto una sorta di sodalizio
+sociale, avrei potuto conoscerla sei anni prima, non come un
+[[Memory|ricordo]], ma... come una conoscenza. E non riuscii a farlo. Mi
+giudichi come vuole, non riuscii a indurmi a farlo. È questo che si
+intende con l'essere nati con una fissazione in testa, con un impedimento
+nel parlare, con un ostacolo sul cammino, con uno scrupolo rannicchiato
+nell'[[Soul|anima]]. Non potevo sopportare di avvicinarmi a lei per
+quella porta, con quel volgare e sogghignante servitore a tenerla aperta.
+Non potevo sopportare che quello snob soffocantemente corpulento
+occupasse tanto spazio nella mia storia o sapesse tanto del mio segreto.
+Una ripugnanza che non seppi mai esprimere mi fece sentire che la
+visione doveva restare mia anche a costo di restare incompiuta; ma non
+doveva essere volgarizzata. È questo che si intende con l'essere un
+fallito nella vita. E quando il mio migliore amico fece una profezia sul
+mio conto, e disse che c'era una cosa che non avrei mai fatto, pensai
+che avesse ragione.»
+
+«Ma che intende?» chiese ella piuttosto fiocamente, «che cosa non
+avrebbe mai fatto?»
+
+«Non importa ora», disse, con l'[[Shadow|ombra]] di un sorriso di
+ritorno. «Cose piuttosto strane si agitano in me proprio ora, e chissà
+che non tenti ancora qualcosa? Ma prima di ogni altra cosa, devo render
+chiaro una volta per tutte ciò che sono e per che cosa ho vissuto. Ci
+sono uomini come me al mondo; sono ben lungi dal pensare che siano i
+migliori o i più preziosi; ma esistono, a confondere tutta la gente
+intelligente e i realisti e i nuovi romanzieri. C'è stata ed esiste una
+sola cosa per me; qualcosa che, nel senso comune, non ho mai neppure
+conosciuto. Andavo per il mondo cieco, con gli occhi rivolti
+all'interno, guardando lei. Per giorni dopo una [[Night|notte]] in cui
+l'avevo sognata, ero a pezzi; come un uomo che avesse visto un
+[[Ghost|fantasma]]. Rileggevo più e più volte i grandi e [[Grave|solenni]]
+versi degli antichi poeti, perché essi [[Alone|soli]] erano degni di lei.
+E quando la rividi per caso, pensai che il mondo fosse già finito; ed è
+quel ritorno e quell'appuntamento oltre la [[Grave|tomba]] che è troppo
+bello per essere vero.»
+
+«Non credo», rispose ella a bassa voce, «che quella fede sia troppo
+bella per essere vera.»
+
+Mentre la guardava un fremito lo attraversò come un messaggio troppo
+rapido per essere compreso; e in fondo alla sua mente qualcosa si destò
+che ripeteva ancora e ancora, come una [[Song|canzone]], le stesse
+parole: «troppo bello per essere vero». C'era sempre qualcosa di
+patetico, persino nei suoi giorni d'[[Pride|orgoglio]], nello sguardo
+miope dei suoi occhi socchiusi; ma era per altre ragioni che essi ora
+ammiccavano nella forte luce bianca del sole, quasi fossero ciechi.
+Erano ciechi e lucenti di [[Tears|lacrime]]: ella padroneggiò la voce e
+questa fu ferma.
+
+«Lei parla di fallimenti», disse ella. «Suppongo che la maggior parte
+della gente definirebbe me una fallita e tutta la mia gente dei falliti,
+ormai; tranne coloro che direbbero che non fallimmo mai, perché non
+dovemmo mai provarci. Comunque sia, ora siamo tutti abbastanza poveri;
+non so se lei sappia che ho insegnato musica. Oso dire che meritavamo di
+andarcene. Oso dire che eravamo inutili. Alcuni di noi cercarono di
+essere innocui. Ma... ma ora DEVO dire qualcosa, su alcuni di noi che si
+sforzarono piuttosto duramente di essere innocui... in quel modo. La
+gente nuova le dirà che quegli ideali erano vittoriani e tennysoniani, e
+tutto il resto... [[Well|be']], non importa ciò che dicono. Sanno tanto
+poco di noi quanto noi di loro. Ma a lei, quando parla in quel modo...
+che posso fare, se non dirle che se eravamo rigidi, se eravamo freddi,
+se eravamo cauti e conservatori, era perché in fondo alle nostre anime
+alcuni di noi CREDEVANO davvero che potessero esistere una lealtà e un
+[[Love|amore]] simili, per i quali una donna potrebbe [[Well|ben]]
+attendere fino alla fine del mondo. Che importa a questa gente se
+scegliemmo di non farci narcotizzare o distrarre con qualcosa di meno
+degno? Ma sarebbe davvero duro se, quando scopro che ESISTE dopo
+tutto... duro per lei, più duro per me, se quando l'avessi davvero
+trovato finalmente...» Il nodo nella sua voce tornò e il
+[[Silence|silenzio]] la colse e la trattenne.
 
 
 
@@ -8521,6 +10197,122 @@ for the ordeal of reading the story of The Unobtrusive Traffic
 of Captain Pierce, and their trials are for a time deferred.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+«Abbiamo radunato tutta quella gente giù in Bleak Row», disse il dottor
+Hunter. «Inutile scendere giù al Buco e in quei luoghi sudici. Là non
+c'è un voto. Le strade andrebbero abolite, e anche la gente.»
+
+«[[Well|Be']], abbiamo avuto un'ottima riunione nella Sala Massonica»,
+disse l'agente allegramente. «Lord Normantowers ha parlato, e davvero
+se l'è cavata bene. Ha raccontato qualche storiella, sa; e l'hanno
+sopportata magnificamente.»
+
+«E ora», disse Owen Hood, battendo le mani in modo quasi conviviale,
+«che ne è di questa fiaccolata?»
+
+«Questa quale processione?» chiese l'agente.
+
+«Vuole dirmi», disse Hood severamente, «che i preparativi non sono
+pronti per la fiaccolata del dottor Hunter? Che intende lasciar
+trascorrere questa [[Night|notte]] di trionfo senza accendere cento
+fiamme a illuminare il cammino del conquistatore? Si rende conto che i
+cuori di un intero popolo si sono spontaneamente commossi e lo hanno
+scelto? Che i poveri [[Suffering|sofferenti]] mormoravano nel
+[[Sleep|sonno]] "Votate Hunter" molto prima che il Comitato giungesse,
+per una provvidenziale coincidenza, alla medesima conclusione? Non
+darebbero fuoco, gli abitanti del Buco, agli ultimi loro poveri pezzi di
+mobilio per rendergli onore? Ma via, da questa sola sedia...»
+
+Afferrò la sedia su cui Hunter era stato seduto e cominciò a spezzarla
+con entusiasmo. In ciò fu frettolosamente fermato; ma riuscì davvero a
+trascinare con sé la compagnia nella sua proposta, così perorata
+all'ultimo momento.
+
+Al calar della sera aveva davvero organizzato la sua fiaccolata,
+scortando il trionfante Hunter, ricoperto di nastri azzurri, fino alla
+riva del fiume, quasi come se il degno dottore dovesse essere battezzato
+come un convertito o annegato come una strega. Del resto, Hood poteva
+forse intendere di bruciare la strega; poiché brandiva la fiaccola
+ardente che portava in modo da formare una sorta di aureola attorno al
+volto attonito di Hunter. Poi, balzando sul cumulo di rottami in riva
+al fiume, si rivolse alla folla per l'ultima volta.
+
+«Concittadini, ci raduniamo sulle sponde del Tamigi, il Tamigi che è per
+gli Inglesi tutto ciò che il Tevere fu mai per i Romani. Ci raduniamo in
+una valle che è stata quasi altrettanto rifugio dei poeti inglesi quanto
+degli uccelli inglesi. Mai vi fu arte tanto nativa alla nostra isola
+quanto la nostra antica tradizione nazionale della pittura di paesaggio
+all'acquerello; mai quell'acquerello fu così luminoso o così delicato
+come quando dedicato a queste acque sacre. Fu in una scena siffatta che
+uno dei più squisiti dei nostri poeti antichi ripeteva come ritornello
+alle sue meditazioni il verso solo: "Dolce Tamigi, scorri piano finch'io
+finisca il mio [[Song|canto]]."
+
+«Si sono udite voci di qualche intenzione di turbare queste acque; ma
+siamo stati ampiamente rassicurati. Nomi che ora si levano tanto alti
+quanto quelli dei nostri poeti e pittori nazionali sono garanzia che il
+corso è ancora limpido e puro e benefico come un tempo. Tutti conosciamo
+la bella opera che il signor Bulton ha compiuto in materia di filtri. Il
+dottor Hunter sostiene il signor Bulton. Voglio dire, il signor Bulton
+sostiene il dottor Hunter. Posso anche menzionare niente meno che il
+signor Low. Dolce Tamigi, scorri piano finch'io finisca il mio
+[[Song|canto]].
+
+«Ma d'altronde, se è per questo, sosteniamo tutti il dottor Hunter. Io
+stesso l'ho sempre trovato del tutto sopportabile; direi del tutto
+soddisfacente. È davvero un progressista, e nulla mi dà maggior piacere
+che osservarlo progredire. Come disse qualcuno, giaccio sveglio la
+[[Night|notte]], e nel [[Silence|silenzio]] dell'intero universo, mi par
+di udirlo salire, salire, salire. Tutti i numerosi pazienti tra i quali
+ha operato con tanto successo in questa località si uniranno in una
+sentita espressione di gioia se egli passerà al mondo superiore di
+Westminster. Confido di non essere frainteso. Dolce Tamigi, scorri piano
+finch'io finisca il mio [[Song|canto]].
+
+«Il mio unico scopo questa [[Night|notte]] è esprimere quell'unanimità.
+Vi possono essere stati momenti in cui dissentivo dal dottor Hunter; ma
+sono lieto di dire che tutto ciò è passato, e ora non nutro verso di lui
+che i più amichevoli sentimenti, per ragioni che non menzionerò, benché
+avrei molto da dire. In segno di questa [[Reconciliation|riconciliazione]]
+getto qui solennemente da me questa fiaccola. Come quel tizzone si
+spegne nelle fresche acque cristalline di quel sacro corso, così
+periranno tutte queste faide nella riscaldante pozza della pace
+universale.»
+
+Prima che alcuno capisse ciò che stava facendo, aveva fatto roteare la
+sua [[Flambeau|fiaccola]] in una fiammeggiante [[Wheel|ruota]] attorno
+al capo e l'aveva scagliata come una meteora nei fiochi gorghi del
+[[River|fiume]].
+
+L'attimo dopo si levò un grido breve e acuto, e ogni volto in quella
+folla fissava il [[River|fiume]]. Tutti i volti visibilmente fissavano,
+poiché erano tutti illuminati come da un orribile bagliore di fuoco da
+un'ampia, smorta, innaturale fiamma che si levava dalla superficie
+stessa del corso; una fiamma che la folla osservava come avrebbe
+osservato una cometa.
+
+«Ecco», gridò Owen Hood, voltandosi d'un tratto verso la ragazza e
+afferrandole il braccio, come esigendo congratulazioni. «Tanto per la
+profezia del vecchio Crane!»
+
+«Ma chi mai è il vecchio Crane?» chiese ella, «e che cosa profetizzò?
+È qualcosa come il vecchio Moore?»
+
+«Solo un vecchio amico», disse Hood frettolosamente, «solo un mio
+vecchio amico. È ciò che disse a essere così importante. Non gli piaceva
+vedermi gironzolare tetro con i libri e una canna da pesca, e disse,
+ritto su quella stessa isola: "Saprai anche molte cose; ma non credo che
+darai mai fuoco al Tamigi. Mi mangio il cappello se lo fai."»
+
+Ma la storia di come il vecchio Crane si mangiò il cappello è una di
+quelle su cui almeno alcuni lettori possono volgere lo sguardo indietro
+come su una fatica e una sofferenza coraggiosamente sopportate. E se
+sarà possibile ad alcuno di loro desiderare di sapere qualcosa di più
+sul signor Crane o sul signor Hood, allora dovranno cingersi i lombi per
+il cimento di leggere la storia del Discreto Traffico del capitano
+Pierce, e le loro prove sono per un poco rinviate.
+
 
 
 <span class="atom-split" data-atom="chapter_03--part_01" data-title="Tales of the Long Bow — Chapter 3 (part 1)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="motif/night,motif/swallow,motif/well,concept/pride"></span>
@@ -8646,6 +10438,128 @@ He had paused to speak to Joan Hardy by the rather tumble-down
 pig-sty in the corner, and when he came towards the breakfast-table
 he seemed transfigured as with flame.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Capitolo III
+
+Il traffico discreto del capitano Pierce
+
+Coloro che conoscono il colonnello Crane e il signor Owen Hood, l'avvocato,
+saranno o non saranno interessati a sapere che consumarono un pranzo mattutino
+di uova, pancetta e birra alla locanda detta del Cinghiale Azzurro, che sorge
+alla svolta di una strada ripida inerpicata su un crinale boscoso nel West Country.
+Coloro che non li conoscono si accontenteranno di sapere che il colonnello
+era un gentiluomo abbronzato e curato nel vestire, che sembrava taciturno e lo era;
+mentre l'avvocato era un gentiluomo dai capelli rossi più smorti, con un lungo
+volto napoleonico, che sembrava taciturno ed era invece piuttosto loquace.
+Crane amava la buona cucina; e la cucina di quella locanda appartata
+era migliore di quella di un ristorante di Soho e incomparabilmente
+migliore di quella di un ristorante alla moda. Hood amava
+le leggende e gli aspetti meno noti della campagna inglese;
+e quella valle aveva una qualità di riposo con un fremito di frescura,
+come se il vento dell'ovest vi fosse stato irretito e addomesticato in un'aria estiva.
+Entrambi nutrivano una sana ammirazione per la bellezza, nelle dame non meno
+che nei paesaggi; benché (o più probabilmente perché) entrambi fossero assai
+romanticamente legati alle mogli che avevano sposato in circostanze piuttosto
+romantiche, narrate altrove per chi sappia
+misurarsi con una narrazione tanto scoscesa. E la ragazza che li serviva,
+la figlia del locandiere, era essa stessa una cosa assai gradevole
+a vedersi; era di corporatura snella e quieta, con una testa che si muoveva
+come un uccello bruno, vivacemente e quasi inaspettatamente. I suoi modi
+erano pieni di una dignità inconsapevole, poiché suo padre, il vecchio John Hardy,
+era il tipo del vecchio locandiere che aveva la condizione, se non di un gentiluomo,
+almeno di un piccolo possidente. Non era privo di istruzione e di ingegno;
+un uomo brizzolato dal volto acuto e ostinato che avrebbe potuto appartenere
+a Cobbett, il cui _Register_ egli ancora leggeva nelle notti d'inverno.
+Hardy era ben noto a Hood, che aveva la stessa sorta di gusto
+antiquario per le rivoluzioni.
+
+C'era poco suono nella valle o nel vuoto splendente del cielo;
+le note degli uccelli cadevano solo a intermittenza; un debole suono di picchiettio
+veniva dalle colline di fronte, dove il pendio boscoso era rotto qua
+e là dalla nuda parete di una cava, e un aeroplano lontano
+passava e ripassava, lasciando una scia di flebile tuono. I due uomini
+a pranzo non gli prestarono più attenzione che se fosse stato una mosca ronzante;
+ma uno studio attento della ragazza avrebbe potuto suggerire che ella
+era almeno consapevole della mosca. Di tanto in tanto la guardava,
+quando nessuno guardava lei; per il resto, aveva un'aria piuttosto marcata
+di non guardarla.
+
+"Buona pancetta, quella che servono qui," osservò il colonnello Crane.
+
+"La migliore d'Inghilterra, e in fatto di colazione l'Inghilterra è
+il Paradiso Terrestre," ribatté prontamente Hood. "Non capisco perché
+dovremmo abbassarci a vantare l'Impero Britannico quando abbiamo pancetta
+e uova di cui vantarci. Dovrebbero essere inquartate nello Stemma Reale:
+tre porci passanti e tre uova in camicia su una banda. Furono la pancetta
+e le uova a dare tutta quella gloria mattutina ai poeti inglesi;
+dev'essere stato un uomo che aveva fatto una colazione come questa a poter
+levarsi con quel gesto da gigante: ‘Le candele della [[Night|notte]] sono consumate;
+e il giocondo giorno...'"
+
+"Fu Bacon a scrivere Shakespeare, di fatto," disse il colonnello.
+
+"Fu questa specie di pancetta a farlo," rispose l'altro ridendo; poi, notando la ragazza
+a portata d'orecchio, aggiunse: "Stavamo dicendo quanto è buona la sua pancetta, signorina Hardy."
+
+"Si dice che sia molto buona," disse con legittimo [[Pride|orgoglio]],
+"ma temo che non ne avrà molta di più. Non permetteranno alla gente
+di tenere maiali ancora per molto."
+
+"Non permetteranno di tenere maiali!" esclamò il colonnello stupefatto.
+
+"Secondo i vecchi regolamenti dovevano stare lontani dalla [[house|casa]],
+e noi abbiamo terreno a sufficienza per questo, benché la maggior parte dei contadini
+non lo avesse. Ma ora dicono che la legge viene elusa, e il consiglio di contea
+è deciso a proibire del tutto l'allevamento dei maiali."
+
+"Sciocchi porci," sbuffò il colonnello.
+
+"L'epiteto è mal scelto," ribatté Hood. "Gli uomini sono più bassi
+dei porci quando non sanno apprezzare i porci. Ma davvero
+non so dove andrà a finire il mondo. Come sarà la prossima
+generazione senza un buon maiale? E, a proposito
+della prossima generazione, che ne è stato del nostro giovane amico Pierce?
+Aveva detto che sarebbe venuto, ma non può essere arrivato con quel treno."
+
+"Credo che il capitano Pierce sia lassù, signore," disse Joan Hardy
+con voce corretta, mentre si ritirava discretamente.
+
+Il suo tono avrebbe potuto indicare che il gentiluomo era di sopra, ma il suo
+sguardo fugace era stato rivolto al vuoto azzurro del cielo.
+A lungo dopo che se ne fu andata, Owen Hood rimase a fissarlo,
+finché non vide l'aeroplano guizzare e volteggiare come una [[Swallow|rondine]].
+
+"Fa il gradasso," disse il colonnello brevemente, e vuotò il suo boccale di peltro.
+
+"Ma perché dovrebbe fare il gradasso con noi?" chiese Hood.
+
+"Diavolo se lo farebbe," rispose il colonnello. "Fa il gradasso
+con la ragazza, naturalmente."
+
+"Una ragazza molto per bene," disse Owen Hood con gravità. "Se c'è qualcosa
+sotto, potete star certo che è tutto onesto e serio."
+
+Il colonnello batté un poco le palpebre. "[[Well|Beh]], i tempi cambiano," disse.
+"Suppongo di essere all'antica io stesso; ma parlando da vecchio Tory,
+devo confessare che potrebbe far di peggio."
+
+"Sì," rispose Hood, "e parlando da vecchio radicale, direi
+che difficilmente potrebbe far di meglio."
+
+Mentre parlavano, l'erratico aviatore aveva infine planato
+verso terra in direzione di un campo pianeggiante ai piedi del pendio, e stava
+ora venendo verso di loro. Hilary Pierce aveva piuttosto l'aria di un
+poeta che di un aviatore di professione; e benché si fosse distinto
+nella guerra, era assai probabilmente uno di quelli il cui sogno naturale
+era piuttosto la conquista dell'aria che la conquista del nemico.
+I suoi capelli biondi erano più lunghi e più scomposti di quando era nell'esercito;
+e c'era un tocco di qualcosa di irresponsabile nel suo occhio azzurro errabondo.
+Aveva però in sé una vena di combattività, come apparve presto evidente.
+Si era fermato a parlare con Joan Hardy accanto al porcile piuttosto
+malandato nell'angolo, e quando venne verso la tavola della colazione
+sembrava trasfigurato come da una fiamma.
 
 
 
@@ -8995,6 +10909,125 @@ You shall have pigs, I say, if the skies fall and the whole world
 is whelmed in war."
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+"Applausi fragorosi e prolungati," disse Crane cortesemente, "e adesso venite
+via e non guastate la perorazione. Owen vuole gironzolare tra
+le antichità locali, come il signor Oates. A me interessano di più
+le novità. Voglio dare un'occhiata a quella [[Machine|macchina]] tua."
+
+Cominciarono a scendere il sentiero acciottolato a zig-zag recintato e arginato
+da siepi e aiuole come un [[Garden|giardino]] cresciuto su una scalinata,
+e a ogni svolta Hood doveva rimproverare il giovane che si attardava.
+
+"Non startene lì eternamente a contemplare il paradiso dei maiali," disse,
+"o sarai mutato in una statua di sale, o magari di senape,
+più appropriata a simile carne. Non scapperanno via subito. Ci sono
+altre creature formate dal Creatore per la contemplazione dell'uomo;
+ci sono altre cose fatte dall'uomo a somiglianza delle creature,
+dai grandi Cavalli Bianchi del Wessex a quel grande uccello bianco su
+cui tu stesso volasti tra gli [[Birds|uccelli]]. Bel soggetto per un poema
+sulle cose prime e ultime."
+
+"Un uccello che depone uova piuttosto tremende," disse Crane. "Nella prossima guerra...
+Ma dove diavolo è andato?"
+
+"Maiali, maiali," disse Hood tristemente. "Il fascino travolgente che
+i maiali esercitano su di noi a un certo [[Time|momento]] della vita; quando udiamo
+i loro zoccoli nei nostri [[Dreams|sogni]] e le loro codine ricciute ci si attorcigliano
+intorno come i tralci della vite..."
+
+"Oh, sciocchezze," disse il colonnello.
+
+Poiché in effetti il signor Hilary Pierce era svanito in modo alquanto sorprendente,
+sgusciando sotto l'angolo di una siepe e schizzando su per un sentiero più ripido,
+oltre un cancello e attraverso l'angolo di un campo di fieno, dove un ultimo
+balzo tra i cespugli che esplodevano lo portò in cima a un basso muro
+che guardava dall'alto il porcile e la signorina Joan Hardy, la quale se ne stava
+tranquillamente allontanando. Egli saltò giù sul sentiero; il sole del
+mattino ritagliava ogni cosa in colori nitidi come un libro illustrato di [[Child|bambino]];
+e ritto con le mani spalancate e le sue ciocche di capelli biondi
+spazzate in ogni direzione dai cespugli, richiamava un poco dignitoso
+[[Memory|ricordo]] di Pierino Scarmigliato.
+
+"Ho sentito che dovevo parlarti prima di partire," disse. "Vado via,
+non esattamente in servizio attivo, ma per affari... per affari assai attivi.
+Mi sento come si sentivano i ragazzi quando andavano in guerra... e ciò che
+volevano fare per prima cosa... So bene che una proposta di matrimonio sopra un porcile
+non è così simbolica per alcuni come lo è per me, ma davvero e sinceramente... Non
+so se te l'ho detto, ma forse sei consapevole che ti adoro."
+
+Joan Hardy ne era ben consapevole; ma nel suo caso le convenienze
+erano come mura di [[Castle|castello]] concentriche; le convenzioni vecchie come il mondo
+della campagna. In esse c'era la rigida [[Beauty|bellezza]] delle antiche
+danze paesane e il lento e delicato ricamo di un ceto contadino.
+Di tutte le dame le cui figure devono essere debolmente tracciate nell'arazzo
+di quelle frivole storie di cavalleria, la più riservata e dignitosa
+era colei che non era affatto una dama nel senso mondano.
+
+Ella stava a guardarlo in [[Silence|silenzio]], ed egli guardava lei; come il portamento
+della sua testa aveva una vaga suggestione di uccello, la linea del suo
+profilo aveva una delicata suggestione di falco, e il suo volto era di
+quella fine sfumatura che non ha nome, se non parlando di un bruno lucente.
+
+"Davvero, sembri terribilmente di fretta," disse lei. "Non mi va
+di sentirmi parlare così, di corsa."
+
+"Mi scuso," disse lui. "Non posso fare a meno di avere fretta, ma non
+volevo che tu avessi fretta. Volevo solo che tu sapessi.
+Non ho fatto nulla per meritarti, ma ci proverò.
+Vado a lavorare; sono certo che tu credi nel lavoro quieto e costante
+per un giovane."
+
+"Vai in banca?" chiese lei innocentemente. "Avevi detto
+che tuo zio era in una banca."
+
+"[[Hope|Spero]] che tutti i miei discorsi non siano stati a quel livello," rispose.
+E in verità sarebbe rimasto sorpreso se avesse saputo con quanta esattezza ella
+ricordasse tutti quei noiosi particolari che egli avesse mai menzionato su di sé,
+e quanto poco in confronto conoscesse le sue teorie e le sue fantasie,
+che egli reputava tanto più importanti.
+
+"[[Well|Beh]]," disse con accattivante franchezza, "sarebbe un'esagerazione
+dire che vado in banca; benché naturalmente ci siano
+banche e banche. Ma sì, conosco una sponda dove il timo selvatico...
+chiedo scusa, voglio dire che conosco un mucchio di occupazioni più rustiche
+e romantiche che sono davvero sicure quanto la banca. La [[Truth|verità]] è
+che penso di darmi al commercio della pancetta. Credo di vedere uno spiraglio
+per un giovane sveglio nell'affare del prosciutto e del maiale. Quando
+mi rivedrai sarò un commesso viaggiatore di maiale; un travestimento impenetrabile."
+
+"Allora non devi venire qui," rispose lei. "A quel [[Time|momento]] non sarà
+permesso qui. I vicini..."
+
+"[[Fear|Non temere]]," disse lui, "sarò un commesso viaggiatore. Oh, un
+commesso viaggiatore assai per bene. Quanto al non venire qui, la cosa mi pare
+del tutto impensabile. Devi almeno lasciarmi scriverti ogni
+ora o giù di lì. Devi lasciarmi mandare qualche regalo ogni mattina."
+
+"Sono certa che mio padre non gradirebbe che tu mi mandassi regali,"
+disse lei con gravità.
+
+"Chiedi a tuo padre di aspettare," disse Pierce con calore. "Chiedigli di
+aspettare finché non avrà visto i regali. Vedi, i miei saranno regali piuttosto
+curiosi. Non credo che li disapproverà.
+Credo che li approverà. Credo che si congratulerà con me
+per i miei gusti semplici e i miei sani principi commerciali. La [[Truth|verità]] è,
+cara Joan, che mi sono impegnato in un'impresa piuttosto importante.
+Non c'è bisogno che ti spaventi; ti prometto che non ti darò più fastidio
+finché non riesce. Mi accontenterò che tu sappia che è per te
+che lo faccio; e continuerò a farlo, dovessi sfidare il mondo intero."
+Balzò di nuovo sul muro e vi rimase a fissarla dall'alto
+quasi con indignazione.
+
+"Che qualcuno possa proibire a TE di tenere maiali," gridò.
+"Che qualcuno possa proibire a TE qualsiasi cosa. Che qualcuno
+possa contestare il TUO diritto di tenere coccodrilli domestici se ti va!
+Questo è il peccato imperdonabile; questa è la suprema bestemmia e
+il delitto contro la [[Nature|natura]] delle cose, che non resterà invendicato.
+Avrai i maiali, io dico, dovessero crollare i cieli e il mondo intero
+essere travolto dalla guerra."
+
 
 
 <span class="atom-split" data-atom="chapter_03--part_04" data-title="Tales of the Long Bow — Chapter 3 (part 4)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="archetype/hero,motif/animals,motif/lion,motif/poison,motif/road,motif/silence,motif/time,motif/well,motif/window,concept/fear,setting/london,character/speed"></span>
@@ -9108,6 +11141,116 @@ Hood handed it to him and he nodded, saying:
 Hilary Pierce; "but I managed to escape that [[Time|time]].  It was a fine
 sight to see the old lady clear a hedge and skedaddle across a meadow."
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Egli scomparve come un lampo dietro l'alto argine e il muro,
+e Joan tornò in [[Silence|silenzio]] alla locanda.
+
+Il primo episodio della guerra non parve superficialmente incoraggiante,
+benché l'[[Hero|eroe]] di esso non ne apparisse affatto scoraggiato.
+Come riferito nella cronaca nera di vari giornali, Hilary Patrick Pierce,
+già del Corpo d'Aviazione, fu arrestato per aver condotto maiali
+nella contea di Bluntshire, in contravvenzione ai regolamenti emanati
+per la salute pubblica. Pareva aver avuto quasi altrettanti guai
+con i maiali quanti con la polizia; ma tenne un discorso arguto ed eloquente
+al momento dell'arresto, al quale la polizia e i maiali parvero
+ugualmente insensibili. L'episodio fu ritenuto irrilevante
+e la sua pena fu irrisoria; ma l'occasione fu apprezzata
+da alcune delle autorità in quanto offriva l'opportunità della definitiva
+delucidazione e affermazione della nuova norma.
+
+A tale scopo fu una fortuna che il principale magistrato
+del collegio non fosse persona da meno del celebre igienista,
+Sir Horace Hunter, O.B.E., M.D., il quale aveva iniziato la vita, come alcuni
+ricorderanno, quale affermato medico di provincia e si era del pari
+distinto come ufficiale sanitario nella Valle del Tamigi.
+A lui infatti si doveva in gran parte la logica estensione delle precauzioni
+esistenti contro l'infezione dal maiale; benché fosse pienamente
+appoggiato dai colleghi magistrati, essendo l'uno il signor Rosenbaum Low,
+milionario e già amministratore della Bliss and Co., e l'altro
+il giovane socialista, il signor Amyas Minns, famoso per la sua esposizione di
+[[Shaw]] sulla Vita Semplice, il quale sedeva sul collegio come consigliere laburista.
+Tutti concordarono nel giudizio di Sir Horace, che, così come tutte le
+difficoltà e i casi dubbi sollevati dalla pratica del bere moderato
+erano stati semplificati dalla soluzione del Proibizionismo,
+così le varie liti ed elusioni riguardo alla febbre suina si affrontavano
+meglio con un regolamento franco e semplice contro i suini.
+Nelle assai sconvenienti osservazioni che egli offrì dopo il processo,
+il prigioniero pare abbia detto che, essendo i suoi tre giudici un ebreo,
+un [[vegetarian|vegetariano]] e un ciarlatano arrivista, non si stupiva
+che non sapessero apprezzare il maiale.
+
+Il pranzo successivo cui i tre amici si trovarono insieme fu in una cornice
+abbastanza diversa; poiché il colonnello aveva invitato gli altri due
+al suo circolo a [[London|Londra]]. Sarebbe stato quasi impossibile essere
+quel genere di colonnello senza avere quel genere di circolo.
+Ma di fatto ci andava assai di rado. In quell'occasione
+fu Owen Hood ad arrivare per primo e, secondo le istruzioni, fu scortato
+da un cameriere a un tavolo in una bovindo che si affacciava sul Green Park.
+Conoscendo la puntualità militare di Crane, Hood si figurò che potesse
+aver frainteso l'[[Time|ora]]; e mentre cercava il biglietto d'invito
+nel suo taccuino, si soffermò un momento su un ritaglio
+di giornale che aveva messo da parte come curiosità qualche giorno prima.
+Era un trafiletto intitolato "Vecchie signore pazze al volante," e diceva
+come segue:
+
+"Un numero senza precedenti di casi di automobilisti che superano il limite di [[Speed|velocità]]
+si è verificato di recente sulla [[Road|strada]] di Bath e su altre arterie occidentali.
+La caratteristica straordinaria del caso è che in un numero così cospicuo
+di casi i trasgressori sembravano essere vecchie signore di gran ricchezza
+e rispettabilità che asserivano di portare semplicemente i loro carlini
+e altri [[Animals|animali]] domestici a prendere aria. Sostenevano che la salute
+dell'animale richiedeva un transito nell'aria assai più rapido
+di quanto non sia il caso per gli esseri umani."
+
+Egli stava fissando questo estratto con la stessa perplessità della
+prima lettura, quando il colonnello entrò con un giornale in mano.
+
+"Senti," disse, "credo che la cosa stia diventando piuttosto ridicola.
+Non sono un rivoluzionario come te; tutt'altro. Ma tutte queste
+regole e regolamenti stanno superando ogni razionale disciplina.
+Poco tempo fa hanno cominciato a vietare tutti i serragli ambulanti;
+non, badabene, imponendo condizioni adeguate per gli [[Animals|animali]],
+ma vietandoli del tutto per qualche sciocchezza sulla sicurezza
+del pubblico. C'è stato un circo ambulante fermato vicino ad Acton
+e un altro sulla [[Road|strada]] per Reading. Folle di ragazzi di paese non
+devono mai vedere un [[Lion|leone]] in vita loro, perché una volta ogni cinquant'anni
+un [[Lion|leone]] è scappato ed è stato ripreso. Ma non è niente
+rispetto a quello che è successo dopo. Ora, se non ti dispiace, c'è una
+tale mortale [[Fear|paura]] del contagio che dobbiamo lasciar soffrire i malati,
+proprio come se fossimo selvaggi. Conosci quei nuovi treni ospedale
+che erano stati istituiti per portare i pazienti dagli ospedali giù
+alle stazioni climatiche. [[Well|Ebbene]], pare che non entreranno in funzione dopotutto,
+per timore che, semplicemente trasportando un infermo di qualsiasi genere attraverso l'aperta campagna,
+si [[Poison|avvelenino]] i quattro venti del cielo. Se questa sciocchezza continua,
+finirò per diventare matto quanto Hilary in persona."
+
+Hilary Pierce era arrivato durante questa conversazione e sedeva ad ascoltarla
+con un sorriso piuttosto curioso. In qualche modo, più Hood guardava
+quel sorriso, più esso lo lasciava perplesso; lo lasciava perplesso quanto
+il ritaglio di giornale che teneva in mano. Si sorprese a guardare dall'uno
+all'altro, e Pierce sorrise in modo ancor più irritante.
+
+"Non hai l'aria feroce e fanatica di quando ci siamo visti l'ultima volta,
+mio giovane amico," osservò Owen Hood. "Ti sei stancato dei maiali
+e dei tribunali di polizia? Queste leggi coercitive di cui parla il colonnello
+un tempo ti avrebbero fatto saltare il tetto in un attimo."
+
+"Oh, sono del tutto contrario alle nuove regole," rispose il giovane con freddezza.
+"Ci sono stato assai contrario; contrario, si potrebbe dire, con le unghie e coi denti.
+Anzi, ho già infranto tutte quelle nuove leggi e qualcuna in più.
+Potresti lasciarmi dare un'occhiata a quel ritaglio per un momento?"
+
+Hood glielo porse ed egli annuì, dicendo:
+
+"Sì; è per quello che sono stato arrestato."
+
+"Arrestato per cosa?"
+
+"Arrestato per essere una vecchia signora ricca e rispettabile," rispose
+Hilary Pierce; "ma quella [[Time|volta]] riuscii a farla franca. Era un bello
+spettacolo vedere la vecchia signora scavalcare una siepe e filarsela di corsa attraverso un prato."
 
 
 
@@ -9235,6 +11378,129 @@ As the great aerial [[Monster|monster]] moved up the valley it paused over
 the inn of the Blue Boar, and something fell fluttering from it
 like a brightly coloured feather.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Hood lo guardò con le sopracciglia aggrottate e la sua bocca cominciò a lavorare.
+
+"Ma cos'è tutta questa faccenda della vecchia signora con un carlino o un
+animaletto o quel che è?"
+
+"[[Well|Beh]], era quasi un carlino," disse Pierce con aria distaccata.
+"Feci notare a tutti che era, per così dire, un carlino approssimativo.
+Chiesi se fosse giusto punirmi per un piccolo errore di ortografia."
+
+"Comincio a capire," disse Hood. "Stavi di nuovo contrabbandando
+suini giù al tuo prezioso Cinghiale Azzurro, e pensavi di poter forzare
+la frontiera con automobili velocissime."
+
+"Sì," rispose il contrabbandiere placidamente. "Eravamo assai letteralmente
+dei pirati della [[Road|strada]]. Da principio pensai di travestire i maiali da milionari
+e da membri del Parlamento; ma quando li si guarda da vicino,
+c'è più differenza di quanto immagineresti possibile.
+Fu un gran divertimento quando mi costrinsero a togliere il mio animaletto dall'
+involto di scialli, e scoprirono che grosso animaletto fosse."
+
+"E devo intendere," interruppe il colonnello, "che era qualcosa
+del genere... con le altre leggi?"
+
+"Le altre leggi," disse Pierce, "sono certamente arbitrarie, ma tu
+non rendi loro del tutto giustizia. Non ne apprezzi appieno
+il movente. Non tieni pienamente conto della loro origine. Posso dire,
+spero con modestia, che io fui la loro origine. Non solo ebbi
+il piacere di infrangere quelle leggi, ma anche il piacere di farle."
+
+"Altri tuoi trucchi, vuoi dire," disse il colonnello; "ma perché
+i giornali non lo dicono?"
+
+"Le autorità non vogliono," rispose Pierce.
+"Le autorità non mi faranno pubblicità, ci puoi scommettere. Ho fin troppo
+appoggio popolare per questo. Quando avverrà la vera rivoluzione,
+non ne parleranno i giornali."
+
+Si fermò un momento in meditazione e poi proseguì.
+
+"Quando la polizia cercò il mio carlino e scoprì che era un maiale,
+cominciai a domandarmi come impedir loro di rifarlo.
+Mi venne in mente che potessero temere un maiale selvatico o un carlino che
+li mordesse. Così, naturalmente, la [[Time|volta]] seguente viaggiai con animali
+spaventosamente pericolosi in gabbia, avvertendo tutti delle più feroci
+tigri e pantere che si fossero mai conosciute. Quando lo scoprirono
+e non vollero lasciarlo uscire, non poterono che ripiegare
+sulla loro stessa buffonata di una proibizione all'ingrosso. Naturalmente fu
+lo stesso con l'altro mio numero, quello dei malati che andavano alle stazioni
+climatiche per essere curati di svariati e raffinati malanni alla moda.
+I maiali passarono un tempo dignitoso, forse un po' noioso, in vagoni
+ferroviari elaboratamente tendati con infermiere ospedaliere a servirli;
+mentre io stavo fuori e assicuravo i funzionari ferroviari che la cura
+era una cura di riposo, e che gli infermi non dovevano essere disturbati per nessun motivo."
+
+"Che bugiardo che sei!" esclamò Hood in schietta ammirazione.
+
+"Niente affatto," disse Pierce con dignità. "Era del tutto vero
+che stavano per essere curati."
+
+Crane, che aveva guardato piuttosto distrattamente fuori dalla [[Window|finestra]],
+girò lentamente la testa e disse bruscamente: "E come andrà a finire?
+Ti proponi di continuare a fare tutte queste cose impossibili?"
+
+Pierce balzò in piedi con una [[Resurrection|resurrezione]] di tutto il romantico
+abbandono del suo giuramento sopra il porcile.
+
+"Impossibili!" gridò. "Non sai quel che dici né
+quanto è vero. Tutto quel che ho fatto finora era possibile e prosaico.
+Ma farò una cosa impossibile. Farò qualcosa che è
+scritto in tutti i libri e le rime come impossibile... qualcosa che è
+passato in proverbio dell'impossibile. La guerra non è ancora finita;
+e se voi due vi appostate nella cava di fronte
+al Cinghiale Azzurro, [[thursday|giovedì]] otto al tramonto, vedrete qualcosa
+di tanto impossibile e tanto [[Self|evidente]] di per sé che perfino gli organi della pubblica
+informazione faticheranno a nasconderlo."
+
+Fu in quella parte del ripido declivio di pineta dove la cava formava
+una sorta di terrazza sotto un tetto di pini che due gentiluomini di età
+alquanto più che matura, i quali non avevano del tutto perduto l'appetito
+dell'avventura, si appostarono con tutti i preparativi propri di un picnic
+o di uno scherzo. Fu da quel luogo, come da una [[Window|finestra]] che guardava
+attraverso la valle, che videro ciò che pareva più una visione;
+ciò che pareva anzi piuttosto la [[Parody|parodia]] di un'[[Apocalypse|apocalisse]].
+Il vasto squarcio del cielo occidentale era di una luminosa tinta di limone,
+come di un giallo pallido che sfumava in un verde pallido, mentre una o due
+nuvole sparse all'orizzonte erano di un rosso di [[Rose|rosa]] e di colori ancor più ricchi.
+Ma il sole calante stesso era un [[Fire|fuoco]] senza nubi, sì che una luce
+fulva giaceva su tutto il paesaggio; e la locanda del Cinghiale Azzurro
+che sorgeva di fronte pareva quasi una [[house|casa]] d'oro. Owen Hood
+guardava alla sua maniera sognante, e disse infine:
+
+"Ecco un segno apocalittico in cielo per cominciare.
+È una cosa strana, ma quella nuvola che risale la valle è insolitamente
+simile alla forma di un maiale."
+
+"Assai simile a una balena," disse il colonnello Crane, sbadigliando lievemente;
+ma quando volse gli occhi in quella direzione, gli occhi si fecero più acuti.
+Gli [[Artist|artisti]] hanno osservato che una nuvola ha prospettiva come qualsiasi altra cosa;
+ma la prospettiva della nuvola che risaliva la valle era
+curiosamente solida.
+
+"Quella non è una nuvola," disse in tono tagliente, "è uno Zeppelin o qualcosa del genere."
+
+La forma solida cresceva sempre più grande; e man mano che si faceva più evidente
+si faceva più incredibile.
+
+"Santi e angeli!" gridò Hood all'improvviso. "Ma è un maiale!"
+
+"Ha proprio la forma di un maiale," disse il colonnello secco; e infatti,
+man mano che la grande forma simile a un pallone si gonfiava sempre più al di sopra del
+proprio riflesso nel [[River|fiume]] serpeggiante, potevano vedere che il lungo
+[[Body|corpo]] a salsiccia dello Zeppelin era stato fantasticamente addobbato
+con orecchie e zampe pendenti, per completare quella somiglianza da pantomima.
+
+"Suppongo siano altre birichinate di Hilary," osservò Hood;
+"ma cosa sta combinando adesso?"
+
+Mentre il grande [[Monster|mostro]] aereo risaliva la valle, si fermò sopra
+la locanda del Cinghiale Azzurro, e qualcosa ne cadde svolazzando
+come una piuma dai colori vivaci.
 
 
 
@@ -9367,6 +11633,134 @@ of a pig that I might flee away and be at rest.'  What would you
 say if I turned the [[World Upside Down|world upside down]] and set my foot upon
 the sun and [[Moon|moon]]?"
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+"Sta scendendo gente col paracadute," disse il colonnello brevemente.
+
+"Sono persone dall'aspetto bizzarro," osservò il suo compagno, scrutando sotto
+le sopracciglia aggrottate, poiché la luce radente abbagliava gli occhi.
+"Perbacco, non sono affatto persone! Sono maiali!"
+
+Da quella distanza, gli oggetti in questione avevano un poco
+l'aspetto di cherubini in qualche gaio quadro gotico dai colori vivaci,
+con il cielo giallo per sfondo dorato. L'apparato del paracadute
+da cui pendevano e libravano era foggiato e colorato
+con l'aspetto di una grande [[Wheel|ruota]] di piumaggio sgargiantemente dipinto,
+dall'aria più vistosa che mai nella forte luce serale
+che giaceva su tutto. Più i due uomini nella cava fissavano
+questi strani oggetti, più pareva certo che fossero
+davvero maiali; benché fosse impossibile a quella distanza dire
+se i maiali fossero morti o vivi. Guardarono giù nel
+[[Garden|giardino]] della locanda in cui le cose piumate stavano calando,
+e poterono vedere la figura di Joan Hardy ritta davanti
+al vecchio porcile, con la testa d'uccello levata, che guardava su verso il cielo.
+
+"Singolare regalo per una signorina," osservò Crane, "ma suppongo
+che quando il nostro giovane matto si mette davvero a fare la [[Love|corte]], sia probabile
+che offra regali impossibili."
+
+Gli occhi del più poetico Hood erano pieni di più ampie visioni,
+ed egli pareva a stento ascoltare. Ma quando la frase finì
+parve destarsi da una trance e batté le mani.
+
+"Sì!" gridò con voce nuova, "torniamo sempre a quella parola!"
+
+"Tornare a quale parola?" chiese l'amico.
+
+"‘Impossibile,'" rispose Owen Hood. "È la parola che percorre
+tutta la sua vita, e anche la nostra, del resto. Non
+vedi cos'ha fatto?"
+
+"Vedo benissimo cos'ha fatto," rispose il colonnello, "ma non
+sono affatto sicuro di vedere dove vuoi arrivare."
+
+"Ciò che abbiamo visto è un'altra cosa impossibile," disse Owen Hood;
+"una cosa che il parlar comune ha eretto a sfida; una cosa che
+mille rime e battute e frasi hanno definito impossibile.
+Abbiamo visto volare i maiali."
+
+"È piuttosto straordinario," ammise Crane, "ma non è
+così straordinario come il fatto che non sia loro permesso di camminare."
+
+E raccolsero insieme il loro corredo da viaggio e cominciarono
+a scendere la ripida collina.
+
+Così facendo, discesero in un crepuscolo più fondo tra i fusti
+degli alberi che si oscuravano; le pareti della valle cominciarono a chiudersi su di loro,
+per così dire, ed essi perdettero quella sensazione di essere nell'aria superiore
+in un raggiante sossopra di nuvole. Era quasi come se
+avessero davvero avuto una visione; e la voce di Crane uscì brusca
+dal buio, quasi come quella di un dubbioso quando parla di un sogno.
+
+"La cosa che non riesco a capire," disse bruscamente, "è come Hilary
+sia riuscito a FARE tutto quello da solo."
+
+"È davvero un tipo straordinario," disse Hood. "Tu stesso mi hai
+detto che fece meraviglie in guerra. E benché ora volga tutto a questi
+fini fanatici, ci vuole altrettanta fatica per fare l'una cosa che l'altra."
+
+"Ci vuole una fatica del diavolo di più a farlo da soli," disse Crane.
+"In guerra c'era tutta un'organizzazione."
+
+"Vuoi dire che dev'essere più di una persona notevole," suggerì Hood,
+"una specie di gigante dalle cento mani o dio dai cento occhi.
+Ebbene, un uomo lavorerà spaventosamente sodo quando vuole qualcosa
+con tutte le sue forze; anche un uomo che di solito ha l'aria di un poetucolo sfaccendato.
+E credo di sapere cos'era che voleva. Merita di ottenerlo.
+È di certo la sua ora di trionfo."
+
+"Per me resta un mistero lo stesso," disse il colonnello aggrottando la fronte.
+"Chissà se mai lo chiarirà." Ma quella parte del mistero
+non doveva essere chiarita finché molte altre cose curiose non si furono verificate.
+
+Lontano, su un'altra parte del pendio, Hilary Pierce, appena disceso sulla
+terra come l'araldo Mercurio, balzò giù in un rosso avvallamento
+della cava e venne verso Joan Hardy con le braccia levate.
+
+"Non è il momento della falsa modestia," disse. "È l'ora,
+e vengo a te coperto di gloria..."
+
+"Vieni coperto di fango," disse lei sorridendo, "e per giunta è quel
+terribile fango rosso che ci mette tanto ad asciugarsi. È inutile provare
+a spazzolarlo via finché..."
+
+"Ti porto il Vello d'Oro, o quantomeno la Pelle di Maiale Dorata,"
+gridò in estasi lirica. "Ho affrontato le fatiche; ho
+compiuto la ricerca. Ho reso il Porco dell'Hampshire leggendario
+quanto il Cinghiale Calidonio. Mi proibirono di condurlo a piedi,
+e lo condussi in automobile, travestito da carlino. Mi proibirono di
+portarlo in automobile, e lo portai su un treno, travestito
+da infermo. Mi proibirono di usare il treno, e presi
+le ali del mattino e mi levai fino alle estreme regioni dell'aria;
+per una via segreta e senza sentieri e solitaria come la via caparbia dell'amore.
+Ho reso immortale il mio romanzo. Ho reso immortale il mio romanzo.
+Ho scritto il tuo nome sul cielo. Cos'hai da dirmi ora?
+Ho mutato un Maiale in un Pegaso. Ho compiuto cose impossibili."
+
+"So che l'hai fatto," disse lei, "ma in qualche modo non posso fare a meno
+di volerti bene per questo."
+
+"MA non puoi fare a meno di volermi bene," ripeté con voce cava.
+"Ho preso d'assalto il cielo, eppure non sono poi così malvagio. Ercole può
+essere tollerato malgrado le sue Dodici Fatiche. San Giorgio può
+essere perdonato per aver ucciso il Drago. Donna, è così che vengo
+trattato nell'ora della vittoria; ed è questa la garbata usanza
+di un mondo più antico? Sei per caso diventata una Donna Nuova?
+Cos'ha combinato tuo padre? Cosa dice... di noi?"
+
+"Mio padre dice che sei del tutto matto, si capisce," rispose lei, "ma non può
+fare a meno di volerti bene anche lui. Dice che non crede nel matrimonio
+fuori dalla propria classe; ma che se proprio devo sposare un gentiluomo
+preferirebbe fosse qualcuno come te, e non uno dei nuovi gentiluomini."
+
+"Beh, sono contento di essere un gentiluomo all'antica, in ogni caso," rispose
+alquanto rabbonito. "Ma davvero questo dilagare del buon
+senso sta diventando piuttosto pericoloso. Nulla vi scuoterà tutti
+a un po' d'irrealtà; a dire, per così dire, ‘Oh, avessi io le ali
+di un maiale, per fuggire via e trovare riposo.' Cosa diresti
+se rivoltassi [[World Upside Down|il mondo a rovescio]] e posassi il piede sul
+sole e sulla [[Moon|luna]]?"
 
 
 
@@ -9651,6 +12045,127 @@ fulfils himself, and so on and so on.  It gives one quite a weird
 Asiatic feeling sometimes.'"
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Capitolo IV
+
+L'inafferrabile compagno del parroco White
+
+Nelle scritture e nelle cronache della Lega dell'Arco Lungo,
+ovvero compagnia di persone sciocche che compiono cose impossibili,
+è registrato che Owen Hood, l'avvocato, e il suo amico Crane,
+il colonnello a riposo, stavano un pomeriggio consumando una sorta
+di picnic sull'isola in mezzo al [[River|fiume]] che era stata la prima scena di un
+certo romantico episodio nella vita del primo, il gravame
+di leggere il quale è ricaduto sui lettori in altri giorni.
+Basti dire che l'isola era stata destinata dal signor Hood al suo
+passatempo della pesca, e che il pasto allora in corso era un'interruzione alquanto
+precoce di quel medesimo indolente svago. I due vecchi
+amiconi avevano un terzo compagno che, benché assai più giovane,
+era non solo un compagno ma un amico. Era un giovane dai capelli chiari, vivace,
+dall'occhio piuttosto selvaggio, noto col nome di Pierce,
+alle cui nozze con la figlia del locandiere del Cinghiale Azzurro
+gli altri avevano di recente presenziato.
+
+Era un aviatore e dedito a molte altre forme di birichinate.
+I due uomini più anziani avevano gusti eccentrici loro propri; ma c'è sempre
+una differenza tra l'eccentricità di un uomo attempato che sfida
+il mondo e l'entusiasmo di un uomo più giovane che spera di mutarlo.
+Il vecchio gentiluomo può essere disposto, in un certo senso, a stare a testa in giù;
+ma non [[Hope|spera]], come fa il ragazzo, di mettere il mondo a testa in giù.
+Con un giovane come Hilary Pierce era il mondo stesso che doveva
+essere rivoltato sottosopra; e a quel gioco i suoi più
+brizzolati compagni potevano solo assistere, come a un [[Child|bambino]] che amavano
+mentre giocava con un grosso pallone colorato.
+
+Fu forse questo senso di una divisione operata dal [[Time|tempo]], che alterava il tono,
+ma non il fatto, dell'[[Friendship|amicizia]], a spingere la mente di uno
+dei due uomini più anziani indietro al [[Memory|ricordo]] di un amico più antico. Ricordò
+di aver ricevuto quella mattina una lettera dall'unico coetaneo
+suo che avrebbe potuto degnamente far da quarto alla loro brigata.
+Owen Hood trasse la lettera di tasca con un sorriso che gli increspò
+il lungo volto umoristico e cadaverico.
+
+"A proposito, dimenticavo di dirti," disse, "ieri ho ricevuto una lettera da
+White."
+
+Anche il volto abbronzato del colonnello si solcò dei segni
+esteriori di una risatina silenziosa.
+
+"L'hai già letta?" chiese.
+
+"Sì," rispose l'avvocato; "il geroglifico è stato attaccato
+con rinnovato vigore dopo colazione stamattina, e le nubi
+e i misteri delle fatiche di ieri sono parsi dissiparsi.
+Alcune parti del cuneiforme attendono ancora un'esperta [[Translation|traduzione]];
+ma le frasi in sé paiono essere nell'inglese originale."
+
+"Assai originale, quell'inglese," sbuffò il colonnello Crane.
+
+"Sì, il nostro amico è un personaggio originale," rispose Hood.
+"La [[Vanity|vanità]] mi tenta a insinuare che è nostro amico perché ha un
+gusto originale in fatto di amici. La sua abitudine di mettere il pronome
+sulla prima pagina e il sostantivo su quella dopo mi ha rallegrato molte sere
+d'[[Winter|inverno]]. Tu non l'hai conosciuto il nostro amico White, vero?"
+aggiunse rivolto a Pierce. "È un colpo che ti minaccia ancora."
+
+"Ma perché, cos'ha che non va?" domandò Pierce.
+
+"Niente," osservò Crane nel suo stile più staccato. "Ha il gusto
+di cominciare una lettera con ‘Distinti saluti' e di chiuderla con ‘Egregio signore';
+tutto qui."
+
+"Mi piacerebbe piuttosto sentirla, quella lettera," osservò il giovane.
+
+"E la sentirai," rispose Hood, "non c'è nulla di confidenziale in essa;
+e se anche ci fosse, non lo scopriresti solo leggendola.
+Il reverendo Wilding White, chiamato da alcuni suoi critici ‘White il Selvaggio,'
+è uno di quei parroci di campagna, che si trovano negli angoli della campagna
+inglese, ai quali i loro vecchi compagni di collegio pensano di solito per
+domandarsi che diavolo pensino di loro i loro parrocchiani. Di fatto,
+mio caro Hilary, egli era piuttosto simile a te alla tua età;
+e come diavolo saresti tu da vicario della Chiesa
+d'Inghilterra, a cinquant'anni, potrebbe a tutta prima sconcertare l'immaginazione;
+ma il problema si potrebbe risolvere supponendo che saresti come lui.
+Ma spero soltanto che tu avrai uno stile più limpido nello scriver lettere.
+Il vecchio è sempre in un tale stato d'eccitazione per qualcosa
+che gli viene fuori alla rinfusa."
+
+È stato detto altrove che questi racconti sono, in un certo senso,
+per necessità narrati a rovescio, e certamente la lettera del
+reverendo Wilding White era un documento adatto a un simile schema narrativo.
+Era scritta in quella che un tempo era stata una buona calligrafia
+del genere più ardito, ma che era degenerata per eccesso di energia
+e di fretta in uno scarabocchio illeggibile. Pareva dire come segue:
+
+"‘Mio caro Owen, la mia decisione è ormai presa; benché io sappia il genere
+di prolisse obiezioni legali che vi opporrai; so
+in particolare una cosa che un vecchio avvocato coriaceo come te è tenuto a dire;
+ma di fatto nemmeno tu puoi dirla in un caso come questo,
+perché il legname veniva dall'altro capo della contea e non aveva
+nulla a che fare con lui né con alcuno dei suoi lacchè e adulatori.
+Del resto, ho fatto tutto da solo con un piccolo aiuto di cui ti dirò
+più avanti; e persino di questi tempi mi sorprenderei di sentire
+che QUEL genere d'aiuto possa essere altro che affar privato di un uomo.
+Sfido te e tutte le tue pergamene a sostenere che ricada
+sotto le Leggi sulla Caccia. Non ti dispiacerà se parlo così; so benissimo
+[[Well|bene]] che penseresti di agire da amico; ma credo che sia venuto il [[Time|tempo]]
+di parlare chiaro.'"
+
+"Giustissimo," disse il colonnello.
+
+"Sì," disse il giovane Pierce, con espressione piuttosto vaga, "sono contento
+che egli senta che è venuto il [[Time|tempo]] di parlare chiaro."
+
+"Appunto," osservò l'avvocato seccamente; "prosegue come segue:"
+
+"‘Ho un mucchio di cose da raccontarti sul nuovo assetto, che funziona
+assai meglio di quanto avessi sperato. Da principio temevo che sarebbe
+davvero stato un impaccio, come sai che si suppone sempre che sia.
+Ma vi sono più cose, e tutto il resto, e Dio
+compie se stesso, e così via e così via. A volte dà una sensazione del tutto
+strana, asiatica.'"
+
 
 
 <span class="atom-split" data-atom="chapter_04--part_02" data-title="Tales of the Long Bow — Chapter 4 (part 2)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="archetype/child,motif/love"></span>
@@ -9785,6 +12300,136 @@ you'd be surprised at what you saw."
 to somebody who didn't seem to be there."
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+"Sì," disse il colonnello, "è vero."
+
+"Cos'è vero?" chiese Pierce, drizzandosi all'improvviso, come chi non
+ne può più.
+
+"Non sei avvezzo al metodo epistolare," disse Hood con indulgenza;
+"non hai preso il ritmo dello stile. Prosegue:"
+
+"‘Naturalmente, quaggiù lui è un pezzo grosso, e ogni sorta di vigliacchi
+ne hanno paura e fingono di boicottarmi. Nessuno potrebbe aspettarsi
+altro da quella gente da ananas, ma confesso che sono rimasto
+sorpreso da Parkinson. Sally, s'intende, è salda come sempre;
+ma va parecchio in Scozia e non le si può dar torto.
+A volte resto piuttosto rigorosamente [[Alone|solo]], ma non sono avvilito;
+probabilmente riderai se ti dico che Bucaneve è davvero un compagno
+molto intelligente.'"
+
+"Confesso di essere da un pezzo al di là del ridere," disse Hilary Pierce tristemente;
+"ma vorrei piuttosto sapere chi sia Bucaneve."
+
+"Una [[Child|bambina]], suppongo," disse il colonnello brevemente.
+
+"Sì; suppongo debba essere una [[Child|bambina]]," disse Pierce. "Ha figli?"
+
+"No," disse il colonnello. "Scapolo."
+
+"Credo che fosse innamorato di una dama di quelle parti e che di conseguenza
+non si sia mai [[Love|sposato]]," disse Hood. "Sarebbe del tutto sulla falsariga
+del romanzo e del dramma cinematografico se Bucaneve fosse la figlia della dama,
+dopo che questa avesse sposato un Altro. Ma pare esserci qualcosa
+di più su Bucaneve, quel piccolo raggio di sole nella [[house|casa]]:"
+
+"‘Bucaneve cerca di entrare nelle nostre abitudini, come fanno sempre; ma, s'intende,
+sarebbe imbarazzante se combinasse dei tiri. Come si allarmerebbero
+tutti se le saltasse in testa di andare in giro su due gambe,
+come tutti gli altri.'"
+
+"Sciocchezze!" esclamò il colonnello Crane. "Non può essere una bambina...
+parlare di lei che va in giro su due gambe."
+
+"Dopotutto," disse Pierce pensieroso, "una bambina va bene
+in giro su due gambe."
+
+"Sarebbe un po' sorprendente se andasse in giro su tre," disse Crane.
+
+"Se il mio dotto confratello me lo permette," disse Hood, alla sua maniera forense,
+"descriverebbe egli il fatto di una bambina che cammina su due gambe
+come allarmante?"
+
+"Una bambina è sempre allarmante," rispose Pierce.
+
+"Sono giunto io stesso alla conclusione," proseguì Hood, "che Bucaneve
+debba essere un pony. Pare un nome abbastanza verosimile per un pony. Da principio
+pensai fosse un cane o un gatto, ma allarmante pare una parola forte
+persino per un cane o un gatto che si rizza a chiedere l'elemosina. Ma un pony sulle zampe
+posteriori potrebbe essere un poco allarmante, specie quando lo si cavalca.
+Solo che non riesco a far quadrare questa idea con la frase successiva: ‘Le ho insegnato
+a tirar giù le cose che voglio.'"
+
+"Perdio!" gridò Pierce. "È una scimmia!"
+
+"Quello," rispose Hood, "mi era venuto in mente come possibile spiegazione
+della strana atmosfera asiatica. Ma una scimmia su due gambe è ancor meno
+insolita di un cane su due gambe. Per di più, il riferimento al mistero
+asiatico pare in realtà rimandare a qualcos'altro e non ad alcun animale
+affatto. Poiché egli conclude dicendo: ‘Sento ora come se la mia mente si
+muovesse in spazi assai più vasti e più antichi di tempo o d'eternità;
+e come se ciò che a tutta prima credevo un'atmosfera orientale fosse soltanto
+un'atmosfera di oriente nel senso di aurora e di alba.
+Non ha nulla a che fare con lo stagnante occultismo di decaduti culti indiani;
+è qualcosa che unisce una vera innocenza con le immensità,
+una potenza come quella dei monti con la purezza della neve. Questa visione
+non viola la mia religione, ma anzi la rafforza;
+eppure non posso fare a meno di sentire di avere vedute più ampie. Spero in due
+sensi di predicare la libertà in queste parti. Così potrei vivere abbastanza da smentire
+il proverbio, dopotutto.'
+
+"Quella," aggiunse Hood, ripiegando la lettera, "è l'unica frase
+di tutta la faccenda che trasmetta qualcosa alla mia mente. Guarda caso,
+tutti e tre abbiamo vissuto abbastanza da smentire dei proverbi."
+
+Hilary Pierce si era levato in piedi con quel gesto irrequieto che
+meglio si accompagnava alla sua figura scattante. "Sì," disse; "suppongo
+che tutti e tre possiamo dire di aver vissuto per le avventure, o di averne avute
+comunque di curiose. E a dirti la verità, il senso dell'avventura
+mi è venuto addosso assai forte proprio in questo istante. Mi è presa
+la febbre del detective riguardo a quel tuo parroco. Vorrei arrivare
+al senso di quella lettera, come se fosse un cifrario su un tesoro sepolto."
+
+Poi aggiunse più gravemente: "E se, come intuisco, il tuo amico
+ecclesiastico è davvero un amico che val la pena avere, ti consiglio
+seriamente di tenerlo d'occhio proprio adesso. Scrivere lettere a rovescio
+va benissimo, e per questo non mi allarmerei.
+Un sacco di gente crede di aver spiegato le cose in lettere precedenti
+che non ha mai scritto. Non credo che importi chi sia Bucaneve,
+o che genere di bambini o di animali egli scelga di prediligere.
+È tutto essere eccentrici alla buona vecchia maniera inglese,
+come gli stagnini poeti e gli scudieri matti. Voi due siete entrambi eccentrici
+a quel modo, ed è una delle cose che mi piacciono di voi.
+Ma proprio perché per natura bazzico di più tra la gente nuova,
+vedo qualcosa delle nuove eccentricità. E credimi, non sono
+neppure la metà così simpatiche delle vecchie. Sono uno studioso di aviazione scientifica,
+che è di per sé una cosa nuova, e mi piace. Ma c'è una sorta di
+aviazione spirituale che non mi piace affatto."
+
+"Scusa," osservò Crane. "Non ho davvero la minima idea di ciò di cui
+stai parlando."
+
+"Certo che non l'hai," rispose Pierce con accattivante candore;
+"è un'altra cosa che mi piace di te. Ma non mi piace il modo in cui
+il tuo amico ecclesiastico parla di nuove visioni e di religioni più ampie
+e di luce e di libertà dall'Oriente. Ho sentito parecchia gente
+parlare così, ed erano ciarlatani o gli zimbelli di ciarlatani.
+E ti dirò un'altra cosa. È un tiro azzardato persino con quell'arco
+lungo di cui eravamo soliti parlare. È una supposizione piuttosto sfrenata persino in questa
+faccenda piuttosto sfrenata. Ma ho una sensazione da brivido, come se, se
+scendessi a casa sua e nel suo salottino privato a vedere Bucaneve,
+resteresti sorpreso di ciò che vedresti."
+
+"Cosa dovremmo vedere?" chiese il colonnello, sbarrando gli occhi.
+
+"Non vedreste proprio nulla," rispose il giovane.
+
+"Che diavolo vuoi dire?"
+
+"Voglio dire," rispose Pierce, "che trovereste il signor White a parlare
+con qualcuno che non pareva esserci."
+
 
 
 <span class="atom-split" data-atom="chapter_04--part_03" data-title="Tales of the Long Bow — Chapter 4 (part 3)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="archetype/child,archetype/fool,motif/journey,motif/time"></span>
@@ -9897,6 +12542,124 @@ And there was something in the lightness and youth of his vanishing
 gesture that seemed really like Icarus spurning the earth,
 the first man to mount upon wings.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Hilary Pierce, infiammato dalla sua febbre da detective, raccolse
+parecchie altre informazioni sul reverendo Wilding White, sia dai
+suoi due vecchi amici sia altrove.
+
+Una lunga conversazione legale con Owen Hood lo mise davvero in
+possesso del profilo giuridico di certe faccende, che si sarebbe
+potuto dire gettassero luce su alcune parti della strana lettera, e
+che col tempo si sarebbero forse potute far gettare luce anche sul
+resto. White era il vicario di una parrocchia sperduta nelle regioni
+occidentali del Somersetshire, dove il principale proprietario
+terriero era un certo Lord Arlington. E in questo caso c'era stata
+una lite fra il possidente e il pastore, di natura più rivoluzionaria
+di quanto sia comune nel caso dei pastori. Il chierico risentiva
+intensamente di quell'ironia o anomalia che ha provocato tanto
+malcontento fra i fittavoli in Irlanda e per tutto il mondo; il fatto
+che i miglioramenti o le opere costruttive effettivamente compiute
+dal fittavolo passino soltanto in possesso del proprietario. Aveva
+notevolmente migliorato una casa che egli stesso aveva preso in
+affitto dal possidente, ma in una sorta di crisi di sfida o di
+rinuncia aveva abbandonato con armi e bagagli quella residenza più
+ufficiale, ed erigendosi una specie di casotto o bungalow di legno
+su una piccola collina o altura che sorgeva fra i boschi all'estremo
+margine degli stessi terreni. Questa lite intorno alla pretesa del
+fittavolo sulla propria opera era evidentemente il significato di
+certe frasi della lettera: come il legname che veniva dall'altro capo
+della contea, il fatto che quel genere di lavoro fosse affare
+personale di ciascuno, e l'allusione generale ai lacchè o adulatori
+di qualcuno che avevano tentato di boicottare il fittavolo scontento.
+Ma non era del tutto chiaro se le allusioni a una nuova sistemazione,
+e a come funzionava, si riferissero al bungalow oppure all'altro e
+più sfuggente mistero della presenza di Snowdrop.
+
+Una frase della lettera egli scoprì essere stata ripetuta in molti
+luoghi e a molte persone senza per questo diventare del tutto chiara.
+Era la frase che diceva: «All'inizio temevo che sarebbe stato
+davvero un impaccio, come sai che si suppone sempre debba essere».
+Sia il colonnello Crane sia Owen Hood, e anche parecchie altre
+persone che egli incontrò più tardi nelle sue indagini, concordavano
+nell'affermare che il signor White aveva usato qualche espressione
+per indicare che si era invischiato in qualcosa di fastidioso o
+almeno di inutile; qualcosa che non desiderava. Nessuno di loro
+riusciva a ricordare le parole esatte da lui usate; ma tutti
+potevano dichiarare in termini generali che si riferiva a una specie
+di negativa seccatura o di sterile responsabilità. Ciò difficilmente
+poteva riferirsi a Snowdrop, di cui egli scriveva sempre in termini
+di tenerezza come se fosse un neonato o un gattino. Sembrava difficile
+credere che potesse riferirsi alla casa che aveva costruito interamente
+a proprio piacimento. Sembrava che dovesse esserci una terza cosa
+nella sua confusa esistenza, che si profilava vagamente sullo sfondo
+attraverso il vapore della sua corrispondenza sconclusionata.
+
+Il colonnello Crane fece schioccare le dita con lieve irritazione
+nel tentare di richiamare alla mente una minuzia. «Diceva che era
+un... sa, ho dimenticato la parola... un fastidio o un imbarazzo. Ma
+d'altronde è sempre in uno stato di fastidio e d'imbarazzo. A
+proposito, non le ho detto che avevo ricevuto anch'io una lettera da
+lui. È arrivata il giorno dopo che avevo saputo della vostra. Più
+breve, e forse un po' più chiara.» E porse la lettera a Hood, che la
+lesse lentamente ad alta voce:
+
+«"Non avrei mai immaginato che il vecchio popolino britannico, qui
+proprio ad Avalon, potesse lasciarsi ridurre così in soggezione da
+possidenti e da avvocati striscianti. Nessuno ha osato aiutarmi a
+spostare di nuovo la mia [[house|casa]]; dicevano che era illegale e
+avevano paura della polizia. Ma Snowdrop mi ha aiutato, e l'abbiamo
+portata via tutta in due o tre viaggi; l'abbiamo tolta di netto
+dalla terra del vecchio [[Fool|sciocco]] questa [[Time|volta]].
+Immagino che il vecchio [[Fool|sciocco]] dovrà ammettere che ci sono
+al mondo cose in cui non era preparato a credere."»
+
+«Ma senta un po'», cominciò Hood come d'impulso, e poi si fermò e
+parlò più lentamente e con più cautela. «Non capisco questa faccenda;
+la trovo estremamente strana. Non intendo strana per una persona
+comune, ma strana per una persona strana; strana per questa strana
+persona. Conosco White meglio di quanto possiate voi due, e posso
+dirvi che, per quanto racconti le cose alla rinfusa, il racconto è
+sempre vero. È piuttosto preciso e pedante quando si arriva ai fatti;
+questa gente litigiosa e attaccabrighe lo è sempre. Sarebbe capace di
+fare cose straordinarie, ma non le farebbe apparire più straordinarie
+di quanto fossero. Voglio dire che è il tipo d'uomo che potrebbe
+rompere tutte le finestre del possidente, ma non direbbe di averne
+rotte sei quando ne ha rotte cinque. Ho sempre scoperto, quando sono
+riuscito ad afferrare il senso di quelle folli lettere, che era
+verità pura. Ma come può essere vero questo? Come avrebbe potuto
+Snowdrop, qualunque cosa sia, spostare un'intera [[house|casa]], o il
+vecchio White?»
+
+«Suppongo che sappia cosa penso io», disse Pierce. «Le ho detto che
+Snowdrop, qualunque altra cosa sia, è invisibile. Sono certo che il
+suo amico si è dato allo spiritismo, e Snowdrop è il nome di uno
+spirito, o di una guida, o come diavolo la chiamano. Lo spirito
+direbbe, naturalmente, che era un mero gioco da [[Child|bambini]]
+scagliare la [[house|casa]] da un capo all'altro della contea. Ma se
+questo sventurato gentiluomo crede di essere stato scagliato, con
+tanto di [[house|casa]], a quel modo, ho molta paura che abbia
+davvero cominciato a soffrire di deliri.»
+
+I volti dei due uomini più anziani parvero d'improvviso molto più
+vecchi, forse per la prima [[Time|volta]] parvero vecchi. Il giovane,
+vedendo la loro espressione dolente, si sentì riscaldare e infiammare
+a parlare in fretta.
+
+«Senta un po'», disse frettolosamente, «scenderò io stesso laggiù e
+scoprirò per voi quello che potrò. Ci vado questo pomeriggio.»
+
+«Il [[Journey|viaggio]] in treno dura un'eternità», disse il
+colonnello, scuotendo il capo. «È in capo al mondo. Lei stesso mi ha
+detto d'avere un appuntamento al Ministero dell'Aria domani.»
+
+«Ci sarò in un batter d'occhio», rispose Pierce allegramente. «Ci
+volo.»
+
+E c'era qualcosa nella leggerezza e nella giovinezza del suo gesto
+che si dileguava, qualcosa che pareva davvero simile a Icaro nel
+disdegnare la terra, il primo uomo a levarsi sulle ali.
 
 
 
@@ -10014,6 +12777,130 @@ of resemblance to the neighing of a [[Horse|horse]] immensely magnified;
 yet it might have been half human, and there was triumph in it
 and derision.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Forse questa figura letteralmente volante brillava tanto più
+vividamente nei loro ricordi perché, quando la rividero, essa era in
+un senso sottile mutata. Quando gli altri due videro Hilary Pierce
+sui gradini del Ministero dell'Aria, s'accorsero che i suoi modi
+erano un po' più quieti, ma il suo occhio folle piuttosto più folle
+del solito. Si trasferirono in un ristorante vicino e parlarono di
+frivolezze mentre veniva servito il pranzo; ma il colonnello, che era
+un osservatore acuto, era sicuro che Pierce avesse subìto una specie
+di scossa, o almeno una specie di battuta d'arresto. Mentre stavano
+riflettendo su cosa dire, Pierce stesso disse bruscamente, fissando
+un vasetto di senape sulla tavola:
+
+«Cosa ne pensate degli spiriti?»
+
+«Non li tocco mai», disse il colonnello. «Un buon porto non ha mai
+fatto male a nessuno.»
+
+«Intendo l'altra specie», disse Pierce. «Cose come i
+[[Ghosts|fantasmi]] e tutto il resto.»
+
+«Non lo so», disse Owen Hood. «In greco si chiama agnosticismo. In
+latino si chiama ignoranza. Ma hai davvero avuto a che fare con
+[[Ghosts|fantasmi]] e spiriti laggiù, nella canonica del povero
+White?»
+
+«Non lo so», disse Pierce gravemente.
+
+«Non vorrai dire che credi davvero d'aver visto qualcosa!» esclamò
+Hood bruscamente.
+
+«Ecco l'agnostico!» disse Pierce con un sorriso piuttosto stanco.
+«Nel momento in cui l'agnostico sente un briciolo di vero
+agnosticismo, strilla che è superstizione. Io dico che non so se
+fosse uno spirito. Dico anche che non so che diavolo altro fosse, se
+non lo era. In parole povere, sono sceso laggiù convinto che il
+povero White soffrisse di una qualche specie di deliri. Ora
+[[Wonder|mi chiedo]] se non sia io ad averli, i deliri.»
+
+Fece una pausa per un momento e poi proseguì in modo più composto:
+
+«Ma è meglio che vi racconti tutto quanto. Tanto per cominciare, non
+lo ammetto come spiegazione, ma è pur giusto tenerne conto come di un
+fatto: che tutta quella parte del mondo sembra piena di cose del
+genere. Sapete come l'incanto di Glastonbury grava su tutta quella
+terra, e la tomba perduta di [[King Arthur|Re Artù]] e il
+[[Time|tempo]] in cui egli tornerà, e le profezie di Merlino e tutto
+il resto. Tanto per cominciare, il villaggio che chiamano Ponder's
+End dovrebbe chiamarsi World's End, la Fine del Mondo; dà
+l'impressione di trovarsi da qualche parte a occidente del tramonto.
+E poi la canonica è parecchio più a ovest della parrocchia, in vasti
+terreni trascurati che sfumano in boschi e colline senza sentieri;
+intendo la vecchia canonica vuota che il nostro folle amico ha
+abbandonato. Se ne stava lì, un guscio freddo e vuoto di piatta
+architettura classica, cava come uno di quei templi classici che
+usavano ficcare nelle tenute di campagna. Ma White dev'esservi
+riuscito a fare una qualche opera parrocchiale, perché trovai nei
+terreni un grande capannone vuoto: quel genere di cosa che serve da
+aula scolastica o da sala per esercitazioni o chissà cos'altro. Ma
+non v'è più ora alcun segno di lui o della sua opera. Ho detto che è
+parecchio a ovest del villaggio che si arriva finalmente alla vecchia
+[[house|casa]]. [[Well|Ebbene]], è parecchio a ovest di quella che si
+arriva alla nuova [[house|casa]]... ammesso che ci si arrivi. Quanto
+a me, ci arrivai, e ci arrivai proprio adesso, come in un antico
+[[Riddle|enigma]] di Merlino. Ma sentirete.
+
+«Ero sceso verso il tramonto in un prato presso Ponder's End, e feci
+il resto del [[Journey|viaggio]] a piedi, perché volevo vedere le
+cose nei particolari. Era già difficile, ché stava calando il
+crepuscolo, e cominciai a [[Fear|temere]] che non avrei trovato nulla
+d'importante prima di notte. Avevo posto una domanda o due agli
+abitanti del villaggio sul vicario e sulla sua nuova canonica
+costruita da [[Self|sé]]. Erano molto reticenti sul primo, ma capii
+che la seconda sorgeva all'estremo margine dei suoi terreni originari
+su una [[Hill|collina]] che si levava da una macchia di bosco. Nel
+buio crescente era difficile trovare il luogo, ma alla fine vi giunsi,
+in un punto dove una frangia di foresta correva sotto le basse fronti
+di una fila di rupi scoscese, come quelle che talvolta spezzano le
+curve delle grandi lande. Mi pareva di discendere un pendio fittamente
+boscoso, con un mare di cime d'alberi sotto di me, e da quel mare,
+come un'isola, si [[Rose|levava]] la cupola della [[Hill|collina]]
+isolata; e potevo vedere debolmente l'edificio su di essa, più scuro
+contro il cielo scuro di nubi. Per un momento una debole striscia di
+luce dalla [[Moon|luna]] velata mi mostrò un poco di più la sua
+forma, che pareva singolarmente semplice e aerea nel disegno. Contro
+quel pallido bagliore si ergevano quattro robuste colonne, con la
+mole dell'edificio apparentemente sollevata al di sopra di esse; ma
+produceva una strana impressione, come se questo sacerdote cristiano
+avesse costruito per la sua ultima [[Home|dimora]] un pagano tempio
+dei venti. Mentre mi sporgevo in avanti, scrutandolo, persi
+l'equilibrio e scivolai rapidamente giù per la ripida macchia, nelle
+più oscure viscere del bosco. Di là non riuscivo a vedere nulla della
+[[house|casa]] colonnata o tempio o quel che fosse sulla
+[[Hill|collina]]; i fitti boschi mi avevano inghiottito letteralmente
+come un mare, e brancolai per quasi mezz'ora fra radici aggrovigliate
+e rami bassi, in quella [[Double|doppia]] oscurità di [[Night|notte]]
+e d'[[Shadow|ombra]], prima di sentire i piedi scivolare su per il
+pendio opposto e cominciare a salire la [[Hill|collina]] sulla cui
+cima sorgeva il tempio. Era una salita molto difficile, s'intende,
+attraverso un intreccio di rovi e d'alberi ramosi, e fu qualche
+[[Time|tempo]] dopo che irruppi attraverso l'ultimo schermo di
+fogliame e sbucai sulla nuda cima della [[Hill|collina]].
+
+«Sì, sulla nuda cima della [[Hill|collina]]. Vi crescevano erbe
+rigogliose, e il [[Wind|vento]] le agitava come capelli su una testa;
+ma di qualsiasi traccia d'altro, quella verde cupola era nuda come un
+teschio. Non v'era segno né [[Shadow|ombra]] dell'edificio che vi
+avevo visto poco [[Time|tempo]] prima; era svanito come un palazzo
+fatato. Un ampio sentiero aperto attraverso i boschi pareva condurvi
+su, per quanto potessi discernere in quell'oscurità; ma non v'era
+traccia dell'edificio a cui conduceva. E quando vidi ciò, rinunciai.
+Qualcosa mi diceva che non avrei scoperto altro; forse avevo una
+qualche scossa sensazione che vi fossero cose impossibili da scoprire.
+Ripercorsi i miei passi, discendendo la [[Hill|collina]] come meglio
+potevo; ma quando fui di nuovo inghiottito in quel mare frondoso,
+accadde qualcosa che, per un istante, mi gelò come pietra. Un rumore
+ultraterreno, come una lunga risata beffarda, echeggiò in immenso
+volume sopra la foresta e [[Rose|salì]] fino alle [[Stars|stelle]].
+Non era rumore a cui potessi dare un nome; non era certo un rumore che
+avessi mai udito prima; portava una qualche somiglianza col nitrito
+di un [[Horse|cavallo]] immensamente amplificato; eppure poteva essere
+metà umano, e c'era in esso trionfo e derisione.
 
 
 
@@ -10133,6 +13020,131 @@ the elephant was an elephant and not a metaphor.  So that's
 what he meant by Asiatic atmosphere and [[Snow|snow]] and [[Mountains|mountains]]. 
 And that's what the big shed was really for."
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+«Vi dirò un'altra cosa che appresi prima di lasciare quelle contrade.
+Le lasciai subito, in parte perché avevo davvero un appuntamento di
+prima mattina, come vi ho detto; in parte anche, credo, perché
+sentivo che avevate il diritto di sapere subito che genere di cose
+c'era da affrontare. Ero allarmato quando pensavo che il vostro amico
+fosse tormentato da spauracchi immaginari; non lo sono meno se s'era
+imbrogliato con spauracchi veri. Comunque, prima di lasciare quel
+villaggio avevo raccontato a un uomo ciò che avevo visto, ed egli mi
+disse d'averlo visto anche lui. Ma lui l'aveva visto muoversi davvero,
+nel crepuscolo che volgeva al buio; l'intera [[Great House|grande
+casa]], con le sue alte colonne, muoversi attraverso i campi come una
+grande [[Ship|nave]] che veleggi sulla terraferma.»
+
+Owen Hood si drizzò a sedere di scatto, con occhi ridestati, e batté
+sulla tavola.
+
+«Sentite un po'», esclamò, con un nuovo squillo nella voce, «dobbiamo
+scendere tutti a Ponder's End e portare a compimento questa faccenda.»
+
+«Credi che la porterai a compimento?» chiese Pierce cupamente; «o
+puoi dirci che genere di compimento sarà?»
+
+«Sì», rispose Hood risolutamente. «Credo di poterla concludere, e
+credo di sapere quale sarà la conclusione. La [[Truth|verità]], amico
+mio, è che ora credo di comprendere l'intera faccenda. E come vi ho
+detto prima, White, lungi dall'essere ingannato da spauracchi
+immaginari, è un gentiluomo assai esatto nelle sue affermazioni. In
+questa faccenda è stato assai esatto. Ecco stato tutto il mistero
+intorno a lui: che è stato di gran lunga troppo esatto.»
+
+«Che diavolo intendi con ciò?» chiese Pierce.
+
+«Intendo», disse l'avvocato, «che mi sono d'un tratto ricordato la
+frase che ha usato. Era molto esatta; era piatta, mortale, letterale
+[[Truth|verità]]. Ma anch'io posso essere esatto, a volte, e proprio
+adesso mi piacerebbe dare un'occhiata a un [[Time|orario]].»
+
+Trovarono il villaggio di Ponder's End in una condizione tanto
+comicamente incongrua quanto meglio si potesse [[Well|immaginare]]
+rispetto alle mistiche esperienze del signor Hilary Pierce. Quando
+diciamo che luoghi simili sono sonnolenti, dimentichiamo che sono
+molto ben desti quanto ai loro propri affari, e specialmente nelle
+loro proprie occasioni festive. Piccadilly Circus ha pressoché lo
+stesso aspetto il giorno di Natale o qualsiasi altro; ma la piazza
+del mercato di una cittadina o d'un villaggio di campagna ha un
+aspetto molto diverso nel giorno di una fiera o di un bazar. E Hilary
+Pierce, che era sceso laggiù una prima volta per trovare in un bosco
+a mezzanotte l'[[Riddle|enigma]] che riteneva degno di Merlino,
+scese la seconda [[Time|volta]] per ritrovarsi d'improvviso immerso
+in mezzo alla brulicante prosaicità di una vendita di beneficenza.
+Era uno di quei bazar per procurare occasioni ai poveri, in cui si
+smerciano ogni sorta di cianfrusaglie. Ma era trattato come una
+specie di festa, e manifesti e volantini dai colori vivaci ne
+annunciavano la [[Nature|natura]] da ogni parte. Il trambusto pareva
+dominato da una donna alta e bruna, di aspetto distinto, che Owen
+Hood, con non poca sorpresa dei suoi compagni, salutò come una vecchia
+conoscenza e riuscì a trarre in disparte per un colloquio privato.
+Ella sembrava avere le mani piene di lavoro al bazar; nondimeno, il
+suo colloquio con Hood fu piuttosto lungo. Pierce ne udì soltanto le
+ultime parole:
+
+«Oh, ha promesso che avrebbe portato qualcosa per la vendita. Le
+assicuro che mantiene sempre la parola.»
+
+Tutto ciò che Hood disse quando raggiunse il suo compagno fu: «Quella
+è la signora che White stava per sposare. Credo di sapere adesso
+perché le cose sono andate storte, e [[Hope|spero]] che possano
+andar bene. Ma pare che ci sia un altro fastidio. Vedete quel
+crocchio di poliziotti zoticoni laggiù, con tanto d'ispettore. Pare
+che stiano aspettando White. Dicono che ha violato la legge portando
+via la sua [[house|casa]] dalla terra, e che li ha sempre elusi.
+[[Hope|Spero]] che non ci sarà una scenata quando salterà fuori.»
+
+Se questa era la [[Hope|speranza]] del signor Hood, era mal fondata e
+destinata alla delusione. Una scenata era ben poca cosa a descrivere
+ciò che era in serbo per quel signore fiducioso. Nel giro di dieci
+minuti la maggior parte della compagnia si trovò in un mondo in cui
+il sole e la [[Moon|luna]] parevano essersi capovolti e l'ultimo
+limite dell'inverosimile era stato raggiunto. Pierce aveva immaginato
+d'essere molto vicino a quel limite dell'[[Imagination|immaginazione]]
+quando aveva brancolato dietro il tempio che svaniva nell'oscura
+foresta. Ma nulla di ciò che aveva visto in quella tenebra e
+[[Solitude|solitudine]] era tanto fantastico quanto ciò che vide
+dopo, in pieno giorno e in mezzo a una folla.
+
+A un estremo margine della folla vi fu un movimento improvviso:
+un'ondata di ritrarsi e grida senza parole. Un istante dopo aveva
+spazzato come un [[Wind|vento]] l'intera moltitudine, e centinaia di
+volti erano rivolti in una sola direzione: nella direzione della
+[[Road|strada]] che scendeva con pendio graduale verso i boschi che
+orlavano i terreni della canonica. Da quei boschi ai piedi della
+[[Hill|collina]] era emerso qualcosa che dalle dimensioni avrebbe
+potuto essere un grosso omnibus grigio chiaro. Ma non era un omnibus.
+Scalava il pendio così rapidamente, a grandi falcate, che divenne
+all'istante evidente di per [[Self|sé]] cosa fosse. Era un elefante,
+la cui mostruosa forma era modellata in grigio e argento nella luce
+del sole, e sul cui dorso sedeva ben eretto un vigoroso gentiluomo di
+mezza età in nero abito clericale, coi capelli imbiancati e un profilo
+aquilino piuttosto fiero che guardava orgoglioso a destra e a sinistra.
+
+L'ispettore di polizia riuscì a fare un passo avanti, e poi rimase
+come una statua. Il vicario, sul suo enorme destriero, veleggiò in
+mezzo alla piazza del mercato con la stessa serenità che se fosse
+stato il padrone di un circo consueto. Additò trionfante uno dei
+manifesti rossi e blu sul muro, che portava il tradizionale titolo di
+«Vendita degli Elefanti Bianchi».
+
+«Vedete, ho mantenuto la parola», disse alla signora con voce alta e
+gioviale. «Ho portato un elefante bianco.»
+
+Un istante dopo agitò la mano ilarmente in un'altra direzione,
+avendo scorto Hood e Crane fra la folla.
+
+«Splendido da parte vostra esser venuti!» esclamò. «Solo che voi
+eravate a parte del segreto. Vi avevo detto che avevo un elefante
+bianco.»
+
+«È vero», disse Hood, «solo che non ci era mai venuto in mente che
+l'elefante fosse un elefante e non una metafora. Ecco dunque cosa
+intendeva per atmosfera asiatica e [[Snow|neve]] e
+[[Mountains|montagne]]. Ed ecco a cosa serviva davvero il grande
+capannone.»
 
 
 
@@ -10256,6 +13268,127 @@ Think of having a rival with a nose like that to turn up at you!
 Talk about a spire pointing to the [[Stars|stars]]--'"
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+«Senta un po'», disse l'ispettore, riprendendosi dallo stupore e
+irrompendo in mezzo a queste felicitazioni. «Non capisco tutti questi
+giochetti, ma è mio compito porre qualche domanda. Mi spiace dirlo,
+signore, ma lei ha ignorato le nostre notifiche ed eluso i nostri
+tentativi di...»
+
+«Davvero?» s'informò il signor White vivacemente. «L'ho davvero
+elusa? [[Well|Bene]], [[Well|bene]], forse sì. Un elefante è una tale
+perenne [[Temptation|tentazione]] all'evasione, all'evanescenza, al
+dileguarsi come una goccia di rugiada. Come un bucaneve, forse,
+sarebbe più appropriato. Vieni, Snowdrop.»
+
+L'ultima parola venne pronunciata con scatto, ed egli diede un vivace
+schiaffetto all'enorme testa del pachiderma. Prima che l'ispettore
+potesse muoversi o alcuno avesse compreso cos'era accaduto, l'intera
+gran mole si lanciò in avanti con un tuffo simile a una cateratta e
+partì a grandi falcate vorticose, mentre la folla si sparpagliava
+davanti a essa. La polizia non era venuta provvista per gli elefanti,
+che sono rari da quelle parti. Anche se l'avessero raggiunto in
+bicicletta, avrebbero trovato difficile arrampicarcisi in bicicletta.
+Anche se avessero avuto le rivoltelle, avevano tralasciato di
+occultare sulle proprie persone qualcosa che somigliasse a fucili da
+caccia grossa. Il bianco [[Monster|mostro]] svanì rapidamente su per
+la lunga [[Road|strada]] bianca, così rapidamente che quando si
+rimpicciolì in un piccolo oggetto e scomparve, la gente stentava a
+credere che un tale prodigio fosse mai stato presente, o che i loro
+occhi non fossero stati momentaneamente stregati. Solo che, mentre
+scompariva in lontananza, Pierce udì ancora una volta l'acuto
+barrito nasale che, nell'eclissi della [[Night|notte]], era parso
+riempire la foresta di [[Fear|paura]].
+
+Fu a un successivo incontro a [[London|Londra]] che Crane e Pierce
+ebbero occasione di apprendere, più o meno, la vera storia della
+faccenda, sotto forma di un'altra lettera del pastore all'avvocato.
+
+«Ora che conosciamo il segreto», disse Pierce allegramente, «anche il
+suo resoconto dovrebbe essere del tutto chiaro.»
+
+«Del tutto chiaro», rispose Hood con calma. «La sua lettera comincia:
+"Caro Owen, ti sono davvero enormemente grato, malgrado tutto quello
+che dicevo a proposito del cuoio e del crine di cavallo".»
+
+«A proposito di cosa?» chiese Pierce.
+
+«Crine di cavallo», disse Hood con severità. «Prosegue: "La
+[[Truth|verità]] è che credevano di poter fare di me ciò che volevano
+perché io mi vantavo sempre di non averne uno, e di non averne mai
+voluto uno; ma quando scoprirono che ne avevo uno, e devo proprio
+dire uno maledettamente buono, naturalmente fu tutto ben diverso".»
+
+Pierce aveva i gomiti puntati sulla tavola, e le dita affondate nei
+suoi lenti capelli gialli. Aveva piuttosto l'aria di reggersi la
+testa. Borbottava fra sé molto sommessamente, come uno scolaro che
+impara la lezione.
+
+«Ne aveva uno, ma non ne voleva uno, e non ne aveva uno e ne aveva
+uno maledettamente buono.»
+
+«Uno cosa?» chiese Crane irritato. «Pare una gara delle parole
+mancanti.»
+
+«Ho vinto il premio», osservò Hood placidamente. «La parola mancante
+è "avvocato". Ciò che intende è che la polizia si prese delle libertà
+con lui perché sapevano che non avrebbe avuto un legale. E ha
+perfettamente ragione; perché quando presi in mano la faccenda per suo
+conto, scoprii ben presto che s'erano messi dalla parte del torto,
+davanti alla legge, almeno quanto lui. In breve, riuscii a tirarlo
+fuori da questa faccenda con la polizia; di qui la sua cordiale, se
+non lucida, gratitudine. Ma prosegue parlando di qualcosa di piuttosto
+più personale; e credo che sia stato davvero un caso piuttosto
+interessante, anche se non brilla precisamente come narratore di esso.
+Come oserei dire avete notato, conoscevo qualcosa della signora a cui
+il nostro eccentrico amico andò a far la corte anni fa, un po' nello
+spirito di Sir Roger de Coverley quando andò a corteggiare la vedova.
+È una certa Miss Julia Drake, figlia di un gentiluomo di campagna.
+Spero che non mi fraintendiate se dico che è una signora piuttosto
+formidabile. È davvero una persona in gamba, per bene sino in fondo;
+ma quell'aria da Giunone dalle sopracciglia nere che porta con sé
+corrisponde davvero a certe reali qualità. È una di quelle persone che
+sanno gestire grandi imprese, e più queste sono grandi, più lei è
+felice. Quando quel genere di forza opera entro i limiti di un
+villaggio o di una piccola valle, l'impatto è talvolta piuttosto
+soverchiante. L'avete vista dirigere la Vendita degli Elefanti Bianchi
+a Ponder's End. Ebbene, se fosse stato letteralmente un esercito di
+elefanti selvaggi, difficilmente sarebbe stato di scala troppo grande
+per i suoi gusti. In tal senso, posso dire che l'elefante bianco del
+nostro amico non era poi tanto un elefante bianco. Voglio dire che, in
+tal senso, non era poi tanto un'irrilevanza e a stento persino una
+sorpresa. Ma in un altro modo, fu un grandissimo sollievo.»
+
+«Stai diventando quasi oscuro quanto lui», protestò Pierce. «Dove va
+a parare tutta questa misteriosa introduzione? Cosa intendi?»
+
+«Intendo», rispose l'avvocato, «che l'esperienza mi ha insegnato un
+piccolo segreto sui personaggi pubblici molto pratici come quella
+signora. Suona come un paradosso; ma quelle persone pratiche sono
+spesso più morbose delle persone teoriche. Sono capaci di agire; ma
+sono anche capaci di rimuginare quando non agiscono. Il loro stesso
+stoicismo fa del loro sentimentalismo un segreto troppo sentimentale.
+Fraintendono coloro che amano; e fanno un mistero del fraintendimento.
+Soffrono in silenzio; orribile abitudine. In breve, sanno fare tutto;
+ma non sanno come non far nulla. I teorici, gente felice che non fa
+nulla, come il nostro amico Pierce...»
+
+«Senta un po'», esclamò l'indignato Pierce. «Vorrei sapere che
+diavolo intendi. Ho violato più leggi di quante tu ne abbia mai lette
+in vita tua. Se questa conferenza psicologica è la nuova lucidità,
+datemi il signor White.»
+
+«Oh, benissimo», rispose Hood, «se preferisci il suo testo alla mia
+esposizione, egli descrive la stessa situazione come segue: "Dovrei
+essere grato, essendo perfettamente felice dopo tutto questo pasticcio;
+suppongo che si debba stare attenti alla nomenclatura; ma non mi era
+mai neppure venuto in mente che a lei sarebbe andato il naso di
+traverso. Piuttosto buffo parlar di nasi, non è vero, perché suppongo
+che in realtà fosse il naso della sua rivale a figurare più in vista.
+Pensa d'avere una rivale con un naso simile che ti si drizza contro!
+Parla di una guglia che punta alle [[Stars|stelle]]..."»
+
 
 
 <span class="atom-split" data-atom="chapter_04--part_07" data-title="Tales of the Long Bow — Chapter 4 (part 7)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="motif/nature,motif/secrets,motif/silence,motif/spring,motif/well,concept/doubt,concept/nature"></span>
@@ -10368,6 +13501,120 @@ the reader has already been warned--nay, threatened--that they are
 involved in the narrative called the Exclusive Luxury of Enoch Oates,
 and for the moment the threat must hang like thunder in the air.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+«Credo», disse Crane, interponendosi con mitezza, «che sarebbe meglio
+se riprendessi le tue funzioni d'interprete ufficiale. Cos'era che
+stavi per dire a proposito della signora che rimuginava sui
+fraintendimenti?»
+
+«Stavo per dire», rispose l'avvocato, «che quando m'imbattei per la
+prima volta in quella folla nel villaggio, e vidi quella figura alta
+e quel viso scuro e forte che la dominava alla vecchia maniera, la
+mia mente tornò a una ventina di cose che ricordavo di lei nel
+passato. Benché non ci fossimo incontrati per dieci anni, seppi dal
+primo sguardo al suo viso che si era tormentata, in un modo potente e
+riservato; tormentata per qualcosa che non capiva e su cui non voleva
+indagare. Ricordo tanto tempo fa, quand'ella era un'ordinaria figlia
+di possidente amante della caccia alla volpe e White era uno dei
+focosi curati di Sydney [[smith|Smith]], come rimase imbronciata per
+due mesi per un malinteso su una cartolina che si sarebbe potuto
+chiarire in due minuti. Almeno lo si sarebbe potuto chiarire da parte
+di chiunque tranne White. Ma capirete che se lui tentò di spiegare la
+cartolina su un'altra cartolina, i risultati potrebbero non essere
+stati luminosi, [[Alone|tanto meno]] radiosi.»
+
+«Ma cosa ha a che fare tutto questo coi nasi?» s'informò Pierce.
+
+«Non capisci ancora?» chiese Hood con un sorriso. «Non sai chi era la
+rivale dal lungo naso?»
+
+Fece una pausa per un momento e poi continuò: «Mi venne in mente non
+appena ebbi indovinato la [[Nature|natura]] del naso, che può
+certamente essere definito il tratto principale della storia. Un naso
+sfuggente, flessibile e insinuante, il serpente del loro Eden.
+[[Well|Ebbene]], pare che siano tornati al loro Eden ora; e non ho
+[[Doubt|dubbio]] che andrà tutto bene; perché è quando le persone
+sono separate che questo genere di [[Secrets|segreti]]
+[[spring|spuntano]] fra loro. Dopo tutto, era un mistero per noi e non
+possiamo stupirci se era un mistero per lei.»
+
+«Buona parte di questo discorso è ancora piuttosto un mistero per me»,
+osservò Pierce, «anche se ammetto che sta diventando un po' più
+chiaro. Vuoi dire che il punto che è stato appena chiarito è...»
+
+«Il punto riguardo a Snowdrop», rispose Hood. «Pensammo a un pony, e
+a una scimmia, e a un neonato, e a un buon numero d'altre cose che
+Snowdrop poteva forse essere. Ma non pensammo mai all'interpretazione
+che fu la prima a venire in mente alla signora.»
+
+Vi fu [[Silence|silenzio]], e poi Crane rise in modo trattenuto.
+
+«[[Well|Ebbene]], non la biasimo», disse. «Difficilmente ci si
+poteva aspettare che una signora di una qualche delicatezza deducesse
+un elefante.»
+
+«È una faccenda straordinaria, a pensarci bene», disse Pierce. «Dove
+ha preso l'elefante?»
+
+«Dice qualcosa anche su questo», disse Hood, riferendosi alla lettera.
+«Dice: "Sarò pure un tipo attaccabrighe. Ma le liti a volte fanno del
+bene. E benché non fosse propriamente una delle carovane del capitano
+Pierce..."»
+
+«No, al diavolo!» esclamò Pierce. «Questo è davvero troppo! Vedere il
+proprio nome invischiato in simili geroglifici... mi ricorda di averlo
+visto in un giornale olandese durante la guerra; e di chiedermi se
+tutte le altre parole fossero termini d'ingiuria.»
+
+«Credo di poter spiegare», rispose Hood pazientemente. «Ti assicuro
+che il reverendo gentiluomo non si prende delle libertà col tuo nome
+in uno spirito puramente irresponsabile. Come ti ho detto prima, è
+rigorosamente veritiero quando si arriva ai fatti, per quanto possano
+essere difficili da raggiungere. Curiosamente, c'è davvero un nesso.
+Talvolta penso che ci sia un nesso oltre la coincidenza che attraversa
+tutte le nostre avventure; uno scopo in questi inconsapevoli scherzi
+pratici. Pare piuttosto eccentrico fare amicizia con un elefante
+bianco...»
+
+«Piuttosto eccentrico fare amicizia con noi», disse il colonnello.
+«Siamo un branco di elefanti bianchi.»
+
+«A dire il vero», disse l'avvocato, «quest'ultima particolare
+birichinata del pastore nacque davvero dall'ultima birichinata del
+nostro amico Pierce.»
+
+«Io!» disse Pierce con sorpresa. «Ho prodotto elefanti senza saperlo?»
+
+«Sì», rispose Hood. «Ti ricordi quando contrabbandavi maiali in
+sfida ai regolamenti, ti concedesti (mi rincresce dirlo) l'inganno di
+metterli in gabbie e di fingere di viaggiare con un serraglio di
+animali pericolosi. La conseguenza fu, ricordi, che le autorità
+proibirono del tutto i serragli. Il nostro amico White prese in mano
+il caso di un circo ambulante fermato nella sua città come un caso di
+grave sopruso; e quando furono costretti a smantellarlo, egli si
+prese in carico l'elefante.»
+
+«Una specie di piccolo compenso per i suoi servigi, suppongo», disse
+Crane. «Curiosa idea, ricevere una mancia sotto forma di elefante.»
+
+«Forse non l'avrebbe fatto se avesse saputo cosa comportava», disse
+Hood. «Come dico, era un tipo attaccabrighe, con tutte le sue buone
+qualità.»
+
+Vi fu un silenzio, e poi Pierce disse in tono meditabondo: «È strano
+che debba essere il seguito della mia piccola avventura dei maiali.
+Una specie di rovesciamento del ~parturiunt montes~; ho messo dentro
+un piccolo maiale e ne è venuto fuori un elefante.»
+
+«Ne verranno fuori mostri ancora peggiori», disse Owen Hood. «Non
+abbiamo visto tutti i seguiti delle tue avventure di porcaro.»
+
+Ma quanto agli altri mostri o eventi mostruosi così prodotti, il
+lettore è già stato avvertito, anzi minacciato, che sono coinvolti
+nella narrazione chiamata l'Esclusivo Lusso di Enoch Oates, e per il
+momento la minaccia deve restare sospesa come tuono nell'aria.
 
 
 
@@ -10487,6 +13734,125 @@ madder than he is."
 the Americans.  He would think the Americans very dull compared with
 the American Indians.  Possibly he will come back in feathers and war-paint."
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Capitolo V
+
+L'Esclusivo Lusso di Enoch Oates
+
+«Da quando il colonnello ha mangiato il suo cappello, il Manicomio è
+rimasto privo di uno sfondo.»
+
+Lo scriba coscienzioso non può fare a meno di rendersi conto che la
+frase qui sopra, presa da sola e senza riferimento a fatti precedenti,
+può non spiegarsi del tutto da sé. Chiunque tenti l'esperimento di
+usare quella frase per pratici scopi sociali; di lanciarla con
+leggerezza come un saluto a un passante; di inviarla come telegramma a
+un perfetto sconosciuto; di sussurrarla rocamente all'orecchio del
+poliziotto più vicino, e così via, scoprirà che la sua insufficienza
+come dichiarazione piena e definitiva è generalmente avvertita. Senza
+morbosa curiosità, senza esagerato appetito d'onniscienza, gli uomini
+vorranno saperne di più su questa affermazione prima di agire di
+conseguenza. E l'unico modo di spiegarla, e le insolite circostanze in
+cui giunse a essere pronunciata, è di seguire il corso sdoppiato e
+tortuoso di queste narrazioni, e risalire a una data assai anteriore,
+quando uomini oggi più che maturi erano del tutto giovani.
+
+Era ai giorni in cui il colonnello non era il colonnello, ma soltanto
+Jimmy Crane, un giovane irrequieto sballottato da ogni vento
+d'avventura, ma ancora incapace di disciplina quanto di vestirsi per
+la cena. Era ai giorni prima che Robert Owen Hood, l'avvocato, avesse
+mai cominciato a studiare la legge e fosse arrivato soltanto ad
+abolirla; scendendo al club ogni sera con un nuovo piano per una
+rivoluzione che rovesciasse tutti i tribunali terreni. Era ai giorni
+prima che Wilding White si stabilisse come parroco di campagna,
+tornando al credo, se non alle convenzioni, della sua classe e del suo
+paese; quand'era ancora pronto a cambiare religione una volta la
+settimana, presentandosi ora nel costume di un monaco e ora di un
+mufti, e talvolta in quelle che dichiarava essere le originarie vesti
+di un druido, la cui religione stava per essere ripresa dall'intero
+popolo britannico. Era ai giorni in cui il loro giovane amico Hilary
+Pierce, l'aviatore, anticipava ancora l'aviazione facendo volare un
+piccolo aquilone. In breve, era agli inizi della vita persino dei più
+anziani del gruppo che essi avevano fondato un piccolo club sociale,
+nel quale le loro lunghe amicizie erano fiorite. Il club doveva avere
+una qualche sorta di nome, e i più riflessivi e distaccati fra loro,
+che vedevano il club con costanza e lo vedevano nella sua interezza,
+considerarono il punto con matura riflessione, e infine chiamarono la
+loro piccola società il Manicomio.
+
+«Potremmo tutti ficcarci della paglia nei capelli per la cena, come i
+Romani si coronavano di rose per il banchetto», osservò Hood.
+«Corrisponderebbe al vestirsi per la cena; non so cos'altro potremmo
+fare per variare il volgare trucco mondano di portare tutti lo stesso
+genere di panciotti bianchi.»
+
+«Portando tutti la camicia di forza, suppongo», disse Crane.
+
+«Potremmo cenare ciascuno separatamente in una cella imbottita, se è
+per questo», disse Hood; «ma pare che manchi qualcosa, considerandola
+come una serata di società.»
+
+Qui Wilding White, che era allora in una fase monastica, intervenne
+con entusiasmo. Spiegò che in certi monasteri a un monaco di
+particolare santità era concesso di farsi eremita in una cella
+interna, e propose una sistemazione analoga al club. Hood, col suo
+razionalismo più mite, intervenne con un emendamento più temperato.
+Suggerì che una grande poltrona imbottita rappresentasse la cella
+imbottita, e fosse riservata come un trono al più eccelso dei matti.
+
+«Non lasciamo», disse dolcemente e con fervore, «non lasciamo che ci
+dividano gelosie e meschine ambizioni. Non mettiamoci a disputare fra
+noi chi sarà il più svitato nel regno degli svitati. Forse ne comparirà
+uno più degno di tutti noi, più manifestamente e magnificamente debole
+di testa; per lui resti vuoto il trono imbottito.»
+
+Jimmy Crane non aveva detto più nulla dopo il suo breve suggerimento,
+ma passeggiava per la stanza come un orso polare, come faceva in
+genere quando lo coglieva un periodico impulso a partire dietro cose
+come gli orsi polari. Era il più selvaggio di tutte quelle selvagge
+figure, per quanto riguardava la portata delle sue avventure,
+svanendo di continuo ai confini della terra senza che nessuno sapesse
+perché, e ricomparendo senza che nessuno sapesse come. Aveva un
+passatempo, persino in gioventù, che rendeva la sua visione delle cose
+ancora più strana delle sconcertanti successive filosofie del suo
+amico White. Aveva un entusiasmo per i miti dei selvaggi, e mentre
+White soppesava le pretese relative del buddhismo e del brahmanesimo,
+Crane dichiarava arditamente la sua preferenza per la credenza che un
+grosso pesce mangiasse il sole ogni notte, o che l'intero cosmo fosse
+stato creato tagliando a pezzi un gigante. Per di più, c'era in tutto
+questo qualcosa d'indefinibile ma in certo modo più serio in Crane
+persino a quei tempi. C'era molto di semplicemente puerile nella cieca
+impetuosità di Wilding White, coi suoi capelli scarmigliati e il suo
+ansioso viso aquilino. Egli era evidentemente uno che avrebbe potuto
+(come diceva) apprendere il segreto di Iside, ma sarebbe stato del
+tutto incapace di tenerlo per sé. Il lungo viso legale di Owen Hood
+aveva già imparato a ridere della maggior parte delle cose, se non a
+ridere fragorosamente. Ma in Crane c'era qualcosa di più duro e
+militante, come l'acciaio, e come dimostrò in seguito nella faccenda
+del cappello, egli sapeva mantenere un segreto anche quando era uno
+scherzo. Sicché quando finalmente partì per un lungo giro intorno al
+mondo, con la dichiarata intenzione di studiare tutti i selvaggi che
+potesse trovare, nessuno tentò di fermarlo. Partì in un abito
+sorprendentemente logoro, con una fusciacca sbiadita al posto del
+panciotto, e senza bagaglio in particolare, salvo una grossa
+rivoltella appesa attorno a lui in una custodia simile a un binocolo,
+e un grande ombrello verde che brandiva risolutamente mentre
+camminava.
+
+«Beh, tornerà una figura ancora più bizzarra di quando è partito,
+suppongo», disse Wilding White.
+
+«Non potrebbe», rispose Hood, l'avvocato, scuotendo il capo. «Non
+credo che tutto il culto del diavolo dell'Africa potrebbe renderlo più
+matto di quanto già sia.»
+
+«Ma va prima in America, non è vero?» disse l'altro.
+
+«Sì», disse Hood. «Va in America, ma non per vedere gli americani.
+Riterrebbe gli americani molto insulsi in confronto agli indiani
+d'America. Forse tornerà in penne e pitture di guerra.»
 
 
 
@@ -11017,6 +14383,145 @@ I mean, why I rather approve of people being backgrounds."
 "Hilary must have been in long-clothes at that time."
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+«Settecentocinquantunmila dollari», mormorò Owen Hood. «Come suona
+tutto rasserenante.»
+
+«Mi sa che quei babbei non hanno afferrato cosa mi stavano vendendo»,
+proseguì il signor Oates, «o non avevano lo sprint per usarlo a quel
+modo loro stessi; perché, benché fosse la dritta più sicura che ci
+sia, non è chiunque che ci avrebbe pensato. Quando trattavo il maiale,
+naturalmente volevo gli altri fuori dai piedi; ma proprio ora non
+puntavo nulla sul maiale, ma solo su quella precisa parte del maiale
+che io volevo e loro non volevano. Avvertendo tutti i vostri
+allevatori di maiali, sono riuscito a importare quest'autunno
+novecentoventicinquemila orecchie di maiale, e credo di poter avere
+partite per tutto l'inverno.»
+
+Hood aveva una certa piccola esperienza legale coi testimoni
+commerciali prolissi, e a questo punto ascoltava con un sopracciglio
+inarcato e un'attenzione assai più acuta della sognante estasi con cui
+il poetico Pierce ascoltava il monologo del milionario, come se fosse
+la musica senza parole di qualche ruscello dall'eterno mormorio.
+
+«Mi scusi», disse Hood con serietà, «ma ho capito bene che ha detto
+orecchie di maiale?»
+
+«Proprio così, signor Hood», disse l'americano con grande pazienza e
+cortesia. «Non so se le ho dato una descrizione abbastanza dettagliata
+perché lei afferrasse la proposta, ma...»
+
+«Beh», mormorò Pierce con aria trasognata, «a me è suonata come una
+descrizione dettagliata.»
+
+«Mi perdoni», disse Hood, trattenendolo con un cipiglio. «Voglio
+davvero capire questa proposta del signor Oates. Devo intendere che
+lei ha comprato le orecchie di maiale a buon mercato, quando i maiali
+venivano macellati per altri scopi, e che pensava di poterle usare per
+qualche suo scopo personale?»
+
+«Sicuro!» disse il signor Enoch Oates, annuendo. «E il mio scopo era
+press'a poco la cosa più grossa mai realizzata negli Stati Uniti nel
+ramo della fantasia. Nel campo della pubblicità non c'è niente come
+dire che si può fare ciò che la gente dice non si possa fare. Sfidare
+i proverbi anziché la provvidenza, direi. Fa presa all'istante. Ci
+mettemmo al lavoro, e sfornammo la prima réclame in un baleno: solo
+uno spazio bianco con "Noi Possiamo Farlo" nel mezzo. Tenemmo la gente
+per una settimana a domandarsi cosa fosse.»
+
+«[[Hope|Spero]], signore», disse Pierce a voce bassa, «che lei non
+spingerà i sani princìpi commerciali al punto di tenerci per una
+settimana a domandarci cosa fosse.»
+
+«[[Well|Beh]]», disse Oates, «scoprimmo che potevamo sottoporre la
+cotenna e le setole a un nuovo processo gelatinoso per fabbricare seta
+artificiale, e calcolammo che la pubblicità avrebbe fatto il resto.
+Uscimmo col secondo gruppo di manifesti: "Lei la Vuole Adesso"... "La
+Donna più Meravigliosa della Terra aspetta accanto al Vecchio
+Focolare, sperando che tu le porti a [[Home|casa]] una Borsetta
+Sussurro di Maiale".»
+
+«Una borsetta!» sussultò Hilary.
+
+«Vedo che ci siete arrivato», proseguì l'imperturbabile americano.
+«Le chiamammo Borsette Sussurro di Maiale dal più abile e popolare
+manifesto che avessimo mai avuto: "C'era una Dama che Amava un
+Maiale". Conoscete la filastrocca, credo; ci figurava una principessa
+in gran ghingheri che sussurrava all'orecchio di un maiale. Vi dico
+che non c'è ormai una donna alla moda negli Stati Uniti che possa fare
+a meno di una delle nostre borsette in seta di maiale, e tutto perché
+capovolge il proverbio. Ecco, guardate qui...»
+
+Hilary Pierce era balzato freneticamente in piedi con una specie di
+barcollamento e s'era aggrappato al braccio dell'americano.
+
+«Trovato! Trovato!» gridò istericamente. «Oh, signore, la imploro di
+prendere la poltrona! Su, su, prenda la poltrona!»
+
+«Prendere la poltrona!» ripeté lo stupefatto milionario, che stava già
+quasi dibattendosi nella sua stretta. «Davvero, signori, non avevo
+supposto che i lavori fossero tanto formali da richiedere un
+presidente, ma in ogni caso...»
+
+Non si poteva certo dire, tuttavia, che i lavori fossero formali. Il
+signor Hilary Pierce aveva l'aria di trascinare a forza il signor
+Enoch Oates in direzione della grande poltrona imbottita, che era
+sempre rimasta vuota in capo alla tavola del club, emettendo grida
+che, per quanto incoerenti, parevano in parte di scusa.
+
+«Senza offesa», ansimava. «Spero non ci siano malintesi... ~Honoris
+causa~... lei, lei solo è degno di quel seggio... il club ha trovato
+il suo re e giustificato finalmente il suo titolo.»
+
+Qui il colonnello intervenne e ristabilì l'ordine. Il signor Oates se
+ne andò in pace; ma il signor Hilary Pierce ribolliva ancora.
+
+«Ed ecco la fine del nostro tranquillo, ordinario uomo d'affari»,
+esclamò. «Tale è il comportamento del nostro sfondo monocromo e
+discreto.» La sua voce si levò in una specie di lamento. «E noi che
+credevamo d'essere svitati! Ci illudevamo con la speranza d'essere
+belli e fuori di testa! Signore, abbi pietà di noi! Il grande affare
+americano si eleva a un'idiozia delirante in confronto alla quale noi
+siamo sani come le bestie dei campi. Il moderno mondo commerciale è
+assai più folle di qualsiasi cosa possiamo fare per satireggiarlo.»
+
+«Beh», disse il colonnello bonariamente, «anche noi abbiamo fatto
+qualche cosa piuttosto ridicola.»
+
+«Sì, sì», gridò Pierce eccitato, «ma le facevamo per rendere ridicoli
+noi stessi. Quell'uomo indicibile è totalmente, serenamente serio.
+Crede che quei manicomiali giochetti da scimmia siano la vita normale
+dell'uomo. Il tuo argomento si risponde da sé. Noi facemmo le cose più
+folli che ci venissero in mente, con l'intenzione di farle apparire
+folli. Ma non erano niente di tanto folle quanto ciò che un moderno
+uomo d'affari fa nel modo degli affari.»
+
+«Forse è l'uomo d'affari americano», disse White, «troppo pronto a
+coglierne il lato comico.»
+
+«Sciocchezze», disse Crane. «Milioni di americani hanno uno splendido
+senso dell'umorismo.»
+
+«Allora quanto siamo fortunati», disse Pierce con reverenza,
+«attraverso le cui vite è passato questo raro, questo ineffabile,
+questo divino essere.»
+
+«Passato via per sempre, suppongo», disse Hood con un sospiro. «Temo
+che il colonnello debba tornare a essere il nostro unico sfondo.»
+
+Il colonnello Crane aggrottava la fronte pensosamente, e alle ultime
+parole il suo cipiglio s'approfondì in disapprovazione. Tirò una
+boccata dal sigaro fumante e poi, togliendoselo di bocca, disse
+bruscamente:
+
+«Suppongo che voialtri abbiate dimenticato come sia arrivato a essere
+uno sfondo. Voglio dire, perché piuttosto approvo che la gente sia uno
+sfondo.»
+
+«Ricordo qualcosa che dicesti molto tempo fa», rispose Hood. «Hilary
+doveva essere in fasce a quel tempo.»
+
 
 
 <span class="atom-split" data-atom="chapter_05--part_05" data-title="Tales of the Long Bow — Chapter 5 (part 5)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="concept/nationalism_and_patriotism,concept/tradition,concept/nature_vs_civilization,histref/america,character/colonel_crane,character/owen_hood,character/enoch_oates,character/wilding_white"></span>
@@ -11147,6 +14652,135 @@ Perhaps there was something, after all, in Crane's suggestion that
 every nation assumes that every other nation is a sort of mild madhouse.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+«Ho detto che avevo scoperto qualcosa girando il mondo»,
+disse Crane.  «Voialtri giovani mi credete un vecchio Tory;
+ma ricordate che sono anche un vecchio viaggiatore.  Ebbene,
+è tutt'uno.  Sono un tradizionalista perché sono un viaggiatore. 
+Vi dissi, quando tornai al circolo, che ero tornato alla tribù. 
+Vi dissi che l'uomo migliore era colui che portava l'anello
+al naso là dove si portano gli anelli al naso.»
+
+«Ricordo», disse Owen Hood.
+
+«No, dimenticate», ribatté Crane piuttosto burbero.  «Lo dimenticate
+quando parlate di Enoch Oates l'americano.  Non sono un politico,
+grazie a Dio, e guarderò con distacco se lo farete saltare in aria
+per il fatto d'essere un milionario.  In verità egli non tiene al denaro
+neppure la metà di quanto ci tenga il vecchio Normantowers, che lo reputa
+troppo sacro per parlarne.  Ma voi non lo fate saltare in aria perché
+è un milionario.  Voi semplicemente lo deridete perché è un americano. 
+Lo deridete perché è nazionale e normale, perché è un buon cittadino,
+un buon membro della tribù, perché porta l'anello al naso là dove
+si portano gli anelli al naso.»
+
+«Dico io... Kuklux, sapete», obiettò Wilding White nel suo modo
+nebuloso.  «Gli americani non ne sarebbero lusingati...»
+
+«Credete forse di non avere un anello al naso voi?» esclamò Crane
+con tale asprezza che il curato trasalì dalla sua trance e fece
+un gesto meccanico come per tastarsi quel lineamento.  «Credete forse
+che un uomo come voi non porti la propria nazionalità chiara come
+il naso in mezzo alla faccia?  Credete che un uomo inguaribilmente
+inglese come siete voi non verrebbe deriso in America?  Non si può
+essere un buon inglese senza essere una buona barzelletta.  Più siete
+buon inglese, più siete barzelletta; eppure è meglio essere migliori. 
+Gli anelli al naso fanno ridere chi non li porta.  Le nazioni fanno
+ridere chi non vi appartiene.  Ma è meglio portare un anello al naso
+che essere un maniaco cosmopolita che si taglia il naso per far dispetto
+alla propria faccia.»
+
+Essendo questo di gran lunga il più lungo discorso che il Colonnello
+avesse mai tenuto dal giorno in cui era tornato dai suoi viaggi
+tropicali tanto tempo addietro, il suo vecchio amico lo guardò
+con una certa curiosità; perfino i suoi vecchi amici comprendevano
+a stento quanto egli si fosse infervorato in difesa di un ospite
+e delle proprie profonde delicatezze intorno al punto d'onore
+dell'ospitalità.  Egli proseguì con calore immutato:
+
+«Ebbene, è così anche col povero Oates.  Egli ha, come noi la vediamo,
+certe sproporzioni, certe insensibilità, certi pregiudizi che spiccano
+ai nostri occhi come deformità.  Offendono voi; offendono me, forse
+un po' più di quanto offendano voi.  Voialtri giovani rivoluzionari
+vi credete assai liberali e universali; ma il solo risultato è che
+siete gretti e nazionali senza saperlo.  Noi vecchi barbogi sappiamo
+che i nostri gusti sono gretti e nazionali; ma sappiamo che sono
+soltanto gusti.  E sappiamo, o almeno io so, che Oates ha assai più
+probabilità di essere un uomo onesto, un buon marito e un buon padre,
+proprio perché puzza del più rancido angolo di noce del Middle West,
+che se fosse un qualche newyorkese alla moda che finge di essere
+un aristocratico inglese o fa l'esteta a Firenze.»
+
+«Non dite un buon marito», implorò Pierce con un lieve brivido. 
+«Mi ricorda la sfarzosa réclame del Pig's Whisper.  Che ne pensate,
+mio caro Colonnello?  La Donna Più Meravigliosa Della Terra
+Che Aspetta Accanto al Vecchio Focolare...»
+
+«Mi fa venire la pelle d'oca», replicò Crane.  «Mi gela lungo
+la spina dorsale.  Sento che preferirei morire piuttosto che
+averci a che fare.  Ma questo nulla ha a che vedere col mio punto. 
+Io non appartengo alla tribù di chi porta l'anello al naso; né
+alla tribù di chi parla col naso.»
+
+«Ebbene, non ne siete un poco grato?» chiese White.
+
+«Sono grato di poter essere giusto malgrado ciò», rispose Crane. 
+«Quando mi misi un cavolo in testa, non mi aspettavo che la gente
+non lo fissasse.  E so che ciascuno di noi, in terra straniera,
+è uno straniero, e una cosa da fissare.»
+
+«Ciò che di lui non capisco», disse Hood, «è il genere di cose
+che non gli dispiace far fissare.  Come può la gente tollerare
+dovunque tutta quella retorica commerciale volgare, fetida, sdolcinata? 
+Come può un uomo parlare del Vecchio Focolare?  È osceno.  La polizia
+dovrebbe intervenire.»
+
+«Ed è proprio qui che vi sbagliate», disse il Colonnello.  «È abbastanza
+volgare, e abbastanza folle, e abbastanza oscena, se volete.  Ma non
+è retorica vuota.  Ho viaggiato tra queste tribù selvagge per anni
+e anni; e vi dico con enfasi che non è retorica vuota.  E se volete
+saperlo, domandate pure al vostro straordinario amico americano
+della sua propria moglie e del suo proprio, relativamente Vecchio,
+Focolare.  Non se ne avrà a male.  È questa la parte straordinaria.»
+
+«Che significa davvero tutto questo, Colonnello?» chiese Hilary Pierce.
+
+«Significa, ragazzo mio», rispose il Colonnello, «che credo dobbiate
+al nostro ospite delle scuse.»
+
+Così avvenne che vi fu un epilogo, come vi era stato un prologo,
+al dramma dell'entrata e dell'uscita di Mr. Enoch B. Oates;
+un epilogo che a sua volta divenne un prologo ai drammi successivi
+della Lega del Lungo Arco.  Poiché le parole del Colonnello ebbero
+una certa influenza sul Capitano, e le azioni del Capitano ebbero
+una certa influenza sul milionario americano; e così l'intero
+meccanismo degli eventi fu rimesso in moto da quell'ultimo gesto
+sopra le noci e il vino, quando il Colonnello Crane si era agitato
+tetro sulla sedia e aveva tolto il sigaro dalla bocca.
+
+Hilary Pierce era per temperamento un giovane amabile e persino
+eccessivamente ottimista, malgrado la sua combattività; sarebbe
+stato davvero l'ultimo uomo al mondo a voler ferire i sentimenti
+di un innocuo forestiero; e nutriva un rispetto profondo e quasi
+segreto per le opinioni del più anziano soldato.  Così, trovandosi
+poco dopo a passare davanti ai grandi portali dorati del quanto mai
+americano albergo che era la residenza londinese dell'americano,
+si fermò un istante esitante e poi entrò e diede il proprio nome
+a vari funzionari intimidatori in uniformi che avrebbero potuto essere
+quelle dello Stato Maggiore tedesco.  Fu sollevato quando il corpulento
+americano venne a incontrarlo con semplice e goffa affabilità,
+e gli porse la sua grande mano molle come se non vi fosse mai stata
+ombra di malinteso.  In qualche modo Pierce si convinse che la propria
+condotta piuttosto alticcia di quella sera era stata semplicemente
+annotata insieme agli stili architettonici e al morbido medievalismo
+del porcile, come parte delle fantasie di una terra feudale.  Tutte
+le buffonate del Manicomio avevano lasciato al viaggiatore americano
+l'impressione che simili giochi di società si stessero probabilmente
+giocando quella sera in tutti i salotti d'Inghilterra.  Forse c'era
+qualcosa di vero, dopotutto, nella tesi di Crane secondo cui ogni
+nazione presume che ogni altra nazione sia una sorta di mite manicomio.
+
 
 
 <span class="atom-split" data-atom="chapter_05--part_06" data-title="Tales of the Long Bow — Chapter 5 (part 6)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="motif/money_gold,concept/capitalism,concept/self_made_man_theme,concept/marriage_and_fidelity,concept/materialism,concept/romantic_love,character/enoch_oates,character/hilary_pierce"></span>
@@ -11255,6 +14889,116 @@ itself when the prostrate reader has recovered sufficient strength
 to support the story of The Unthinkable Theory of Professor Green,
 which those who would endure to the end may read at some later date.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Mr. Enoch Oates accolse il suo ospite con grande ospitalità e gli
+premette addosso cocktail dai nomi occulti e dai colori strani,
+benché egli stesso non prendesse altro che un regime di latte tiepido.
+
+Pierce cadde nella confidenza di Mr. Enoch Oates con una silenziosa
+rapidità che gli fece girare il cervello per lo sbigottimento. 
+Fu sconvolto come un uomo che fosse precipitato d'improvviso attraverso
+quindici piani di un grattacielo e si ritrovasse nella camera da letto
+di qualcuno.  Al più lieve accenno al genere di cose cui il Colonnello
+Crane aveva alluso, l'americano si aprì con un'espansività che era come
+un gigantesco abbraccio.  Tutte le interminabili tabelle di cifre
+e di calcoli in dollari erano per il momento scomparse; eppure Oates
+parlava con la medesima placida e naturale cadenza nasale, molto
+posato e un po' monotono, mentre diceva:
+
+«Sono sposato con la donna migliore e più luminosa che Dio abbia
+mai fatto, e vi dico che sono lei e Dio insieme ad avermi fatto,
+e credo proprio che a lei sia toccata la parte più dura.  Non avevamo
+che pochi cenci quando cominciai; e fu il modo in cui mi restò accanto
+a darmi il coraggio di rischiare persino quelli sul mio proprio
+giudizio di come andavano le cose nella Borsa.  Contai su un rialzo
+del Maiale, e se non fosse salito sarei stato rovinato e, oso dire,
+in gattabuia.  Ma lei è semplicemente meravigliosa.  Dovreste vederla.»
+
+Tirò fuori la fotografia di lei con una prontezza paralizzante;
+raffigurava una dama assai regale agghindata di tutto punto,
+probabilmente per l'occasione, con occhi vividissimi e un'elaborata
+massa di capelli chiari.
+
+«"Credo nella tua stella, Enoch", disse lei; "attieniti al Maiale"»,
+disse Oates con tenera reminiscenza, «e così la portammo a termine.»
+
+Pierce, che con involontaria irriverenza aveva riflettuto sull'estrema
+difficoltà di condurre una relazione amorosa o una conversazione
+sentimentale in cui una delle parti dovesse rivolgersi all'altra
+chiamandola Enoch, si vergognò del proprio cinismo quando la Stella
+del Maiale brillò con tanto splendore negli occhi del suo nuovo amico.
+
+«Fu un tempo terribile, ma mi attenni al Maiale, sentendo talvolta
+che lei vedeva più chiaro di me; e naturalmente aveva ragione,
+e non l'ho mai conosciuta in errore.  Poi venne la mia grande occasione
+di fare la combinazione e strozzare la concorrenza; e potei darle
+il genere di cose che le spettavano e lasciare che prendesse il comando
+come doveva.  A me non importa granché della società; ma spesso, la sera
+tardi in ufficio, sono lieto di telefonarle e di sentire che se ne
+sta godendo.»
+
+Parlava con una ponderosa semplicità che pareva disarmare e schiacciare
+la critica di una civiltà più sottile.  Era una di quelle cose che
+si vedono facilmente essere assurde; ma anche dopo che le si è viste
+essere assurde, restano lì.  Può darsi, dopotutto, che sia questa
+la definizione delle grandi cose.
+
+«Credo che sia questo che la gente intende per il romanzo degli affari»,
+proseguì Oates, «e per quanto i miei affari si facessero sempre più
+grandi, mi faceva un certo piacere che vi fosse stato un romanzo
+al loro cuore.  Dovevano farsi più grandi, perché volevamo rendere
+la combinazione a tenuta stagna in tutto il mondo.  Immagino che abbia
+dovuto sistemare un po' le cose con i vostri politici.  Ma i membri
+del Congresso sono uguali in tutto il mondo, e la cosa non mi turbò
+affatto.»
+
+Vi era una convinzione non rara tra coloro che conoscevano il Capitano
+Hilary Pierce che quell'ingegnoso giovane fosse svitato.  Faceva un gran
+numero di cose per giustificare tale impressione; e in un certo senso
+non aveva certo mai mostrato alcuna riluttanza a rendersi ridicolo. 
+Ma se era un pazzo, era nondimeno un pazzo assai inglese.  E l'idea
+di parlare dei propri più intimi affetti, così, d'improvviso, a uno
+straniero in un albergo, solo perché la conversazione aveva preso
+quella piega, era qualcosa che egli trovava del tutto terrificante. 
+Eppure un istinto, un impulso che attraversava tutti questi sviluppi,
+gli diceva che era giunto un momento e che doveva cogliere una qualche
+occasione che egli stesso a stento comprendeva.
+
+«Sentite», disse piuttosto goffamente, «voglio dirvi una cosa.»
+
+Guardò giù verso il tavolo mentre proseguiva.
+
+«Avete detto poco fa che eravate sposato con la donna migliore
+del mondo.  Ebbene, per un curioso caso, lo sono anch'io.  È una
+coincidenza che accade spesso.  Ma è una coincidenza ancor più curiosa
+che, a modo nostro, tranquillamente, ci dedicammo anche noi al Maiale. 
+Lei allevava maiali sul retro della piccola locanda di campagna dove
+la conobbi; e a un certo punto parve che i maiali si dovessero
+abbandonare.  Forse anche la locanda.  Forse anche le nozze.  Eravamo
+assai poveri, poveri come lo eravate voi quando cominciaste; e per
+i poveri quei modi supplementari di guadagnarsi la vita sono spesso
+la vita stessa.  Avremmo potuto essere rovinati; e la ragione era,
+da quanto capisco, che voi vi eravate dedicato al Maiale.  Ma dopotutto
+il nostro era il vero maiale; maiale che camminava sulle proprie gambe. 
+Noi facevamo il giaciglio per i maiali e riempivamo l'interno del maiale;
+voi non facevate che comprare e vendere il nome del maiale.  Voi non
+andavate agli affari con un piccolo maiale vivo sotto il braccio,
+né scendevate per Wall Street seguito da un branco di porci.  Era
+un maiale fantasma, il fantasma di un maiale, che poteva uccidere
+il nostro vero maiale e forse anche noi.  Potete davvero giustificare
+il modo in cui il vostro romanzo per poco non rovinò il nostro? 
+Non pensate che debba esserci qualcosa di sbagliato da qualche parte?»
+
+«Ebbene», disse Oates dopo un lunghissimo silenzio, «questa è una
+domanda parecchio grossa e ci vorrà un bel po' a discuterla.»
+
+Ma il fine cui condusse la loro discussione dovrà rivelarsi da sé
+quando il prostrato lettore abbia recuperato forze sufficienti
+a sostenere la storia dell'Impensabile Teoria del Professor Green,
+che coloro i quali resisteranno fino in fondo potranno leggere
+in qualche data futura.
 
 
 
@@ -11376,6 +15120,132 @@ or is it an anti-aircraft gun?"
 "Anti-airman gun, no [[Doubt|doubt]]," said Crane; "they heard you were coming
 down and took precautions."
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Capitolo VI
+
+L'Impensabile Teoria del Professor Green
+
+Se il presente passo nelle cronache del Lungo Arco dovesse sembrare
+soltanto un episodio marginale, un intermezzo e un idillio, un mero
+episodio romantico privo di quella più ampia costruzione strutturale
+che dà solidità e dura concretezza alle altre storie, si prega
+il lettore di non essere frettoloso nella sua condanna; poiché
+nella piccola storia d'amore di Mr. Oliver Green si trova, come
+in una parabola, l'inizio dell'apoteosi finale e dell'ultimo giudizio
+di tutte queste cose.
+
+Ben può cominciare in un mattino in cui la luce del sole giunse tardi
+ma splendente, sotto il sollevarsi di grandi nubi da un'ampia grigia
+distesa di brughiere che si facevano purpuree mentre di nuovo
+digradavano nella lontananza.  Gran parte di quella possente forma
+era striata e solcata di campi arati, ma un rozzo sentiero la
+attraversava, lungo il quale si vedevano due figure a passo spedito
+stagliate contro il cielo del mattino.
+
+Erano entrambi alti; ma al di là del fatto che entrambi erano stati
+un tempo soldati di professione, di tipi e di epoche piuttosto diversi,
+avevano assai poco in comune.  Dalle loro età avrebbero potuto quasi
+essere padre e figlio; e ciò non sarebbe stato smentito dal fatto
+che il più giovane pareva parlare in continuazione, con voce alta,
+sicura e quasi trionfante, mentre il più vecchio ficcava dentro
+una parola solo di tanto in tanto.  Ma non erano padre e figlio;
+per quanto strano, in verità parlavano e camminavano insieme perché
+erano amici.  Coloro che conoscono fin troppo bene le loro imprese,
+narrate altrove, vi avrebbero riconosciuto il Colonnello Crane,
+già delle Guardie Coldstream, e il Capitano Pierce, ex del Corpo
+d'Aviazione.
+
+Il giovane pareva parlare trionfalmente di un grande capitalista
+americano che vantava di aver persuaso a riconoscere l'errore delle
+proprie vie.  Ne parlava piuttosto come se avesse fatto opera
+di beneficenza nei bassifondi.
+
+«Ne sono molto orgoglioso, ve l'assicuro», disse.  «Chiunque può
+produrre un assassino pentito.  È già qualcosa produrre un milionario
+pentito.  E credo davvero che il povero Enoch Oates abbia visto
+la luce (grazie ai miei discorsi a pranzo); da quando gli ho parlato,
+Oates è un altro uomo, e migliore.»
+
+«In sostanza ha seminato la sua avena selvatica», osservò Crane.
+
+«Ebbene», replicò l'altro.  «In un certo senso era avena assai
+tranquilla.  Quasi ciò che si potrebbe chiamare Quaker Oats.  Era
+un Puritano e un Proibizionista e un Pacifista e un Internazionalista;
+in breve, tutto ciò che sta nelle tenebre e nell'ombra della morte. 
+Ma quel che dicevate di lui era del tutto giusto.  Ha il cuore
+al posto giusto.  Ce l'ha sulla manica, ben in vista.  È per questo
+che ho predicato il vangelo al nobile selvaggio e ne ho fatto
+un convertito.»
+
+«Ma a che cosa lo avete convertito?» domandò l'altro.
+
+«Alla proprietà privata», replicò Pierce prontamente.  «Essendo
+un milionario, non ne aveva mai sentito parlare.  Ma quando gliene
+spiegai la prima elementare idea in forma semplice, ne fu del tutto
+conquistato.  Gli feci notare che poteva abbandonare la rapina
+su larga scala e creare proprietà su piccola scala.  Sentì che era
+cosa assai rivoluzionaria, ma ammise che era giusta.  Ebbene, sapete,
+aveva comprato quella grande tenuta inglese qui fuori.  Voleva fare
+il filantropo, e avere una tenuta modello con tutte le regolari
+guarnizioni; teste rasate igienicamente a macchina ogni mattina;
+e i mezzadri ammessi una volta al mese nei loro stessi giardinetti
+davanti a casa, con l'ordine di non calpestare l'erba.  Ma io gli
+dissi: "Se avete intenzione di dare le cose alla gente, perché
+non dargliele?  Se date a un amico una pianta in vaso, non gli
+mandate un ispettore della Società per la Prevenzione della Crudeltà
+sui Vegetali a controllare che la annaffi come si deve.  Se date
+a un amico una scatola di sigari, non gli fate scrivere un rapporto
+mensile su quanti ne fuma al giorno.  Non potreste essere un poco
+generoso con la vostra generosità?  Perché non usate il vostro denaro
+per fare uomini liberi invece che per fare schiavi?  Perché non date
+ai vostri affittuari la loro terra e farla finita, o non gliela lasciate
+a bassissimo prezzo?"  E l'ha fatto; l'ha fatto davvero.  Ha creato
+centinaia di piccoli proprietari, e ha mutato l'intera campagna. 
+Ecco perché voglio che veniate a vedere una delle piccole fattorie.»
+
+«Sì», disse il Colonnello Crane, «mi piacerebbe vedere la fattoria.»
+
+«C'è un gran trambusto intorno alla cosa, per giunta; c'è un putiferio
+del diavolo», proseguì il giovane, di ottimo umore.  «Un mucchio
+di grandi cartelli e simili cercano di schiacciare i piccoli agricoltori
+con ogni sorta di trucchi; si lamentano perfino dell'ingerenza
+di un americano.  Potete immaginare quanto Rosenbaum Low e Goldstein
+e Guggenheimer debbano essere addolorati all'idea di uno straniero
+che si intromette in Inghilterra.  Vorrei sapere come uno straniero
+potrebbe intromettersi meno che restituendo la loro terra al popolo
+inglese e togliendosi di mezzo.  Danno tutta la colpa a me; e hanno
+ragione.  Considero Oates come mia proprietà; il mio [[convert|convertito]];
+prigioniero del mio arco e della mia lancia.»
+
+«Prigioniero del vostro lungo arco, immagino», disse il Colonnello. 
+«Scommetto che gli avete raccontato un bel po' di cose che nessuno
+tranne uno scaltro uomo d'affari sarebbe stato abbastanza
+[[Innocent|ingenuo]] da credere.»
+
+«Se io uso il lungo arco», replicò Pierce con dignità, «è un'arma
+dalle memorie eroiche, propria di un piccolo proprietario terriero
+d'Inghilterra.  Con quale arma più acconcia potremmo tentare
+di ristabilire una piccola proprietà contadina?»
+
+«C'è qualcosa laggiù», disse il Colonnello con calma, «che a me
+sembra piuttosto un'altra sorta d'arma.»
+
+Erano [[Time|ormai]] giunti in piena vista degli edifici della fattoria
+che coronavano il lungo pendio; e oltre un [[Garden|orto]] e un frutteto
+[[Rose|sorgeva]] un tetto di paglia con sotto una fila di finestre
+a graticcio all'antica; la [[Window|finestra]] all'estremità stava aperta. 
+E fuori da questa [[Window|finestra]], all'angolo del corpo di fabbrica,
+sporgeva un grande oggetto nero, rigido e apparentemente cilindrico,
+proteso al di sopra dell'[[Garden|orto]] e scuro contro la luce
+del mattino.
+
+«Un cannone!» esclamò Pierce involontariamente; «sembra proprio
+un obice; o è un cannone antiaereo?»
+
+«Un cannone anti-aviatore, senza [[Doubt|dubbio]]», disse Crane; «hanno
+saputo che stavate arrivando e hanno preso le loro precauzioni.»
 
 
 
@@ -11511,6 +15381,146 @@ frankly admitted that Professor Green soared high into the heavens
 of the Higher Mathematics, far beyond the flight of his little aeroplane.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+«Ma che diavolo può volersene fare di un cannone?» mormorò Pierce,
+scrutando l'oscuro profilo.
+
+«E chi diavolo è LUI, se è per questo?» disse il Colonnello.
+
+«Ma quella [[Window|finestra]]», spiegò Pierce, «quella è la [[Window|finestra]] della
+camera che hanno affittato a un pensionante, lo so.  Un tale di nome
+Green, mi risulta; piuttosto un eremita, e immagino qualche sorta
+di stravagante.»
+
+«Non uno stravagante antimilitarista, in ogni caso», disse il Colonnello.
+
+«Per Giove!» disse Pierce, fischiettando piano.  «Mi [[Wonder|chiedo]] se
+le cose non si siano mosse più in fretta di quanto potessimo immaginare! 
+Mi [[Wonder|chiedo]] se dopotutto stia cominciando una rivoluzione o una
+guerra civile.  Immagino che siamo un esercito noi stessi; io rappresento
+l'Aeronautica e voi rappresentate la fanteria.»
+
+«Voi rappresentate i lattanti», rispose il Colonnello.  «Siete troppo
+giovane per questo mondo; voi e le vostre rivoluzioni!  In verità,
+non è un cannone, benché ne abbia proprio l'aspetto.  Ora vedo
+che cos'è.»
+
+«E che cosa mai è?» chiese l'amico.
+
+«È un telescopio», disse Crane.  «Uno di quei telescopi molto grandi
+che di solito si hanno negli osservatori.»
+
+«Non potrebbe essere in parte un cannone e in parte un telescopio?»
+implorò Pierce, riluttante ad abbandonare la sua prima fantasia. 
+«Ho spesso incontrato l'espressione "stelle cadenti", ma forse
+ne ho frainteso la grammatica e il senso.  Il giovane che alloggia
+dal fattore potrebbe praticare uno degli sport locali... il surrogato
+locale della caccia all'anatra!»
+
+«Ma di che diamine state parlando?» brontolò l'altro.
+
+«Il loro pensionante potrebbe cacciare le stelle», spiegò Pierce.
+
+«Spero che il loro pensionante non se la cacci all'inglese», disse
+il frivolo Crane.
+
+Mentre parlavano venne loro incontro, attraverso il verde e scintillante
+crepuscolo del frutteto, una giovane donna dai capelli color rame
+e dal volto squadrato e piuttosto notevole, che Pierce salutò
+rispettosamente come la figlia di casa.  Egli era assai puntiglioso
+sul punto che questi nuovi coltivatori contadini dovessero essere
+trattati come piccoli signorotti e non come affittuari o servi.
+
+«Vedo che il vostro amico Mr. Green ha tirato fuori il suo telescopio»,
+disse.
+
+«Sì, signore», disse la ragazza.  «Dicono che Mr. Green sia un grande
+astronomo.»
+
+«Dubito che dovreste chiamarmi "signore"», disse Pierce meditabondo. 
+«Suggerisce piuttosto il dimenticato feudalesimo che la nuova uguaglianza. 
+Forse potreste farmi il favore di dire "Sì, cittadino", e allora
+potremmo continuare il nostro discorso sul Cittadino Green su un piede
+di parità.  A proposito, perdonatemi, lasciate che vi presenti
+il Cittadino Crane.»
+
+Il Cittadino Crane si inchinò cortesemente alla giovane donna senza
+alcun apparente entusiasmo per il suo nuovo titolo; ma Pierce proseguì.
+
+«Piuttosto buffo chiamarci cittadini quando siamo tutti così contenti
+di essere fuori dalla città.  Ci vorrebbe davvero qualche termine
+adatto all'uguaglianza rurale.  I Socialisti hanno rovinato "Compagno";
+non si può essere compagni senza una cravatta della Libertà e una barba
+a punta.  Morris aveva una buona idea, quella di chiamare un uomo
+Vicino.  Suona un po' più rustico.  Immagino», aggiunse malinconico
+alla ragazza, «immagino che non potrei indurvi a chiamarmi Nonnetto?»
+
+«Se non m'inganno», osservò Crane, «quello è il vostro astronomo
+che se ne va vagando nel [[Garden|giardino]].  Crede d'essere un botanico,
+forse.  Appropriato al nome di Green.»
+
+«Oh, spesso vaga nel [[Garden|giardino]] e giù fino al prato e alle stalle»,
+disse la giovane donna.  «Parla molto tra sé, spiegando una gran teoria
+che ha.  La spiega anche a tutti quelli che incontra.  A volte la spiega
+a me mentre mungo la mucca.»
+
+«Forse potreste spiegarla a noi?» disse Pierce.
+
+«Non fino a questo punto», disse lei, ridendo.  «È qualcosa come quella
+Quarta Dimensione di cui parlano.  Ma non ho [[Doubt|dubbio]] che ve la spiegherà
+se lo incontrate.»
+
+«Non per me», disse Pierce.  «Sono un semplice piccolo proprietario
+contadino e non chiedo altro che Tre Dimensioni e una Mucca.»
+
+«La Mucca è la Quarta Dimensione, immagino», disse Crane.
+
+«Devo andare ad occuparmi della Quarta Dimensione», disse lei
+con un sorriso.
+
+«I contadini vivono tutti di rappezzi, mandando avanti due o tre
+attività secondarie», osservò Pierce.  «Curiosa sorta di bestiame
+in questa fattoria.  Pensate a gente che vive di una mucca, di galline
+e di un astronomo.»
+
+Mentre egli parlava l'astronomo si avvicinò lungo il sentiero per
+cui la ragazza era appena passata.  I suoi occhi erano coperti
+da enormi occhiali di tartaruga di un color bluastro spento;
+poiché gli era stato raccomandato di risparmiare la vista per le sue
+veglie stellari.  Ciò dava un ingannevole aspetto di morbosità a un volto
+che era per natura franco e sano; e la figura, benché curva, era
+robusta.  Era molto distratto.  Di tanto in tanto guardava il suolo
+e aggrottava le sopracciglia come se non gli piacesse.
+
+[[Oliver]] Green era un professore assai giovane, ma un giovane assai
+vecchio.  Era passato dalla scienza come passatempo di uno scolaretto
+alla scienza come [[Ambition|ambizione]] di un uomo di mezz'età, senza
+alcuna intermedia vacanza di gioventù.  Per di più, la sua monomania
+era stata fissata e congelata dal [[success|successo]]; almeno da un
+[[success|successo]] considerevole per un uomo dei suoi anni.  Era già
+membro delle principali società dotte connesse alla sua materia,
+quando gli crebbe nella mente la grande, universale, onnisufficiente
+Teoria che era giunta a colmare l'intera sua vita come la luce del
+giorno colma il giorno.  Se tentassimo qui l'esposizione di quella
+teoria, è dubbio che il risultato somiglierebbe alla luce del giorno. 
+Il Professor Green era sempre pronto a dimostrarla; ma se dovessimo
+esporne la prova in questo luogo, le prossime quattro o cinque pagine
+sarebbero coperte di fitte colonne di cifre a stampa, rallegrate qua
+e là da disegni geometrici, quali di rado fanno parte del testo di una
+storia romantica.  Basti dire che la teoria aveva a che fare con
+la Relatività e con l'inversione dei rapporti tra l'oggetto fermo
+e quello in moto.  Pierce, l'aviatore, che aveva trascorso gran parte
+del suo [[Time|tempo]] su oggetti in moto non senza l'occasionale
+previsione di schiantarsi contro oggetti fermi, ne parlò un poco
+con Green.  Interessandosi di aviazione scientifica, era più vicino
+alle scienze astratte di quanto lo fossero i suoi amici, Crane
+col suo passatempo del folklore o Hood col suo [[Love|amore]] per
+la letteratura classica o Wilding White con le sue letture dei mistici. 
+Ma il giovane aviatore ammise francamente che il Professor Green
+si librava alto nei cieli della Matematica Superiore, assai oltre
+il volo del suo piccolo aeroplano.
+
 
 
 <span class="atom-split" data-atom="chapter_06--part_03" data-title="Tales of the Long Bow — Chapter 6 (part 3)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="topos/world_upside_down,archetype/child,motif/flowers,motif/home,motif/memory,motif/moon,motif/night,motif/stars,motif/summer,motif/time,motif/well,concept/hope"></span>
@@ -11624,6 +15634,121 @@ thinking about he was by no means fully conscious.
 "I suppose you have to be awfully clever even to understand it,"
 observed Margery Dale conversationally.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+[[The Professor|Il Professore]] aveva cominciato, come cominciava sempre,
+col dire che era assai facile spiegarla; il che era senza dubbio vero,
+poiché la stava sempre spiegando.  Ma spesso finiva col dichiarare
+fallacemente che era assai facile capirla, e sarebbe un'esagerazione
+dire che fosse sempre capita.  Comunque sia, egli era proprio sul punto
+di leggere la sua grande memoria sulla sua grande teoria al grande
+Congresso Astronomico che si sarebbe tenuto quell'anno a Bath;
+il che era una delle ragioni per cui aveva piantato il suo campo
+astronomico, o appostato il suo cannone astronomico, nella [[house|casa]]
+del Fattore Dale sulle colline del Somerset.  Mr. Enoch Oates non poté
+non avvertire la persistente esitazione del padrone di casa quando
+udì che i suoi protetti, i Dale, stavano per ammettere uno sconosciuto
+straniero nella loro famiglia.  Ma Pierce gli rammentò severamente
+che quell'atteggiamento paternalistico era cosa del passato e che
+un libero contadino era libero di affittare stanze a un maniaco
+omicida, se voleva.  Ciò nondimeno, Pierce fu piuttosto sollevato
+di scoprire che il maniaco era soltanto un astronomo; ma sarebbe stato
+lo stesso se fosse stato un astrologo.  Prima di venire alla fattoria,
+l'astronomo aveva installato il suo telescopio in luoghi assai più
+squallidi... in una pensione di Bloomsbury e nei fuligginosi edifici
+di un'Università delle Midlands.  Egli credeva d'essere, e in gran parte
+lo era, indifferente all'ambiente che lo circondava.  Ma con tutto
+ciò l'aria e il colore di quell'ambiente campestre gli penetravano
+lentamente e stranamente dentro.
+
+«L'idea è la semplicità stessa», disse con serietà, quando Pierce
+lo prese in giro sulla teoria.  «È solo la prova a essere, s'intende,
+un tantino tecnica.  Ridotta in forma assai grezza e popolare,
+dipende dalla formula matematica dell'inversione della sfera.»
+
+«Ciò che noi chiamiamo mettere il [[World Upside Down|mondo alla rovescia]]»,
+disse Pierce.  «Sono del tutto favorevole.»
+
+«Tutti conoscono l'idea della relatività applicata al moto», proseguì
+[[The Professor|il Professore]].  «Quando si esce da un villaggio in automobile,
+si potrebbe dire che è il villaggio a fuggire da voi.»
+
+«Il villaggio fugge davvero quando Pierce è fuori in automobile»,
+osservò Crane.  «Gli abitanti, in ogni caso.  Ma di solito egli
+preferisce spaventarli con un aeroplano.»
+
+«Davvero?» disse l'astronomo con un certo interesse.  «Un aeroplano
+sarebbe un modello di lavoro ancora migliore.  Confrontate il movimento
+di un aeroplano con quella che chiamiamo, solo per comodità, la fissità
+delle [[Stars|stelle]] fisse.»
+
+«Oserei dire che si scombinarono un poco quando Pierce vi si schiantò
+contro», disse il Colonnello.
+
+Il Professor Green sospirò in uno spirito triste ma paziente.  Non poteva
+fare a meno di restare un poco deluso anche dai più intelligenti profani
+con cui conversava.  Le loro osservazioni erano argute ma poco pertinenti. 
+Sentiva sempre più che davvero preferiva coloro che non facevano
+osservazioni.  I [[Flowers|fiori]] e gli alberi non facevano osservazioni;
+stavano in fila e gli permettevano di far loro lezione per ore intere
+sulle fallacie dell'astronomia accettata.  La mucca non faceva
+osservazioni.  La ragazza che mungeva la mucca non faceva osservazioni;
+o, se ne faceva, erano osservazioni gentili e cortesi, non intese
+a fare sfoggio di spirito.  Egli andò alla deriva, come aveva già fatto
+molte volte, nella direzione della mucca.
+
+La giovane donna che mungeva la mucca non era, nell'accezione comune,
+ciò che si intende per una lattaia.  Margery Dale era la figlia
+di un solido fattore già rispettato in quella contea.  Era andata
+a scuola e aveva imparato varie cose educate prima di tornare
+alla fattoria e continuare a fare le mille cose che avrebbe potuto
+insegnare ai maestri di scuola.  E qualcosa di questa proporzione
+o sproporzione di sapere andava albeggiando nel Professor Green,
+mentre stava a fissare la mucca e parlava, spesso in una sorta
+di soliloquio.  Poiché aveva una sensazione piuttosto simile di
+un gran numero di altre cose che gli crescevano intorno fitte come
+una giungla attorno alla sua cosa particolare; impressioni e implicazioni
+da tutte le disinvolte azioni della ragazza e dalle sue varie
+occupazioni.  Forse cominciava ad avere un vago sospetto d'essere
+lui il maestro di scuola che veniva istruito.
+
+La terra e il cielo cominciavano già ad arricchirsi di sera;
+l'azzurro era già quasi un bagliore come verde-mela dietro la linea
+dei rami dei meli; contro di esso la mole della fattoria si stagliava
+in un profilo più scuro, e per la prima [[Time|volta]] egli si accorse
+di qualcosa di bizzarro o di strano aggiunto a quel profilo dal suo
+grosso telescopio piantato in alto come un cannone puntato alla
+[[Moon|luna]].  In qualche modo sembrava, non avrebbe saputo dire perché,
+l'inizio di una storia.  Anche le malvarose parevano incredibilmente
+alte.  Vedere quelli che egli avrebbe chiamato «[[Flowers|fiori]]»
+così alti pareva come vedere una margherita o un dente di leone
+grande come un lampione.  Era certo che nulla di esattamente simile
+esistesse a Bloomsbury.  Anche questi alti [[Flowers|fiori]] parevano
+l'inizio di una storia... la storia di Jack e il fagiolo magico. 
+Benché sapesse assai poco di quali influenze andassero lentamente
+penetrando in lui, sentiva qualcosa di calzante nell'ultimo [[Memory|ricordo]]. 
+Qualunque cosa si muovesse dentro di lui era qualcosa di assai remoto,
+qualcosa che veniva prima del leggere e dello scrivere.  Aveva un sogno,
+come di una vita precedente, di scure striature di campo sotto nubi
+tempestose d'[[Summer|estate]] e la sensazione che i [[Flowers|fiori]] che
+vi si trovavano fossero cose come gemme.  Era in quella [[Home|casa]]
+di campagna che ogni [[Child|bambino]] di città sente d'aver sempre avuto
+e mai visitato.
+
+«Devo leggere la mia memoria [[Night|stasera]]», disse d'improvviso. 
+«Dovrei davvero starci pensando.»
+
+«[[Hope|Spero]] proprio che sarà un [[success|successo]]», disse la ragazza;
+«ma mi pareva che ci steste sempre pensando.»
+
+«[[Well|Beh]], ci pensavo... in generale», disse in un modo piuttosto
+smarrito; e in verità era probabilmente la prima [[Time|volta]] che egli
+si fosse mai trovato pienamente consapevole di non starci pensando. 
+A che cosa stesse pensando non era affatto pienamente consapevole.
+
+«Immagino che si debba essere terribilmente intelligenti anche solo
+per capirla», osservò Margery Dale, tanto per conversare.
 
 
 
@@ -11763,6 +15888,148 @@ it's we who always stay where we are, and the rest that's always
 moving and shifting and changing."
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+«Non lo so», disse, lievemente spinto sulla difensiva.  «Sono certo
+che potrei fervela vedere... non voglio dire che non siate intelligente,
+s'intende; voglio dire che sono più che certo che siete abbastanza
+intelligente da vedere... da vedere qualunque cosa.»
+
+«Solo certe specie di cose, temo», disse lei, sorridendo.  «Sono certa
+che la vostra teoria non ha nulla a che fare con mucche e sgabelli
+da mungitura.»
+
+«Ha a che fare con qualunque cosa», disse con foga; «con ogni cosa,
+in verità.  Sarebbe altrettanto facile dimostrarla partendo dagli
+sgabelli e dalle mucche come da qualunque altra cosa.  È davvero
+assai semplice.  Invertendo l'usuale formula matematica, è possibile
+raggiungere gli stessi risultati nella realtà trattando il moto come
+un punto fisso e la stabilità come una forma di moto.  Vi hanno detto
+che la terra gira intorno al sole, e la [[Moon|luna]] gira intorno
+alla terra.  [[Well|Beh]], nella mia formula, dapprima lo trattiamo
+come se il sole girasse intorno alla terra...»
+
+Lei alzò lo sguardo raggiante.  «Ho sempre PENSATO che avesse
+quell'aria», disse con enfasi.
+
+«E vedrete, naturalmente, da voi stessa», proseguì lui trionfalmente,
+«che per la medesima inversione logica dobbiamo supporre che la terra
+giri intorno alla [[Moon|luna]].»
+
+Il volto raggiante mostrò un'[[Shadow|ombra]] di [[Doubt|dubbio]] e lei disse
+«Oh!»
+
+«Ma una qualunque delle cose che menzionate, lo sgabello da mungitura
+o la mucca o quel che sia, servirebbe al medesimo scopo, poiché sono
+oggetti generalmente considerati fermi.»
+
+Egli alzò vagamente lo sguardo verso la [[Moon|luna]], che si andava
+costantemente rischiarando mentre vaste ombre si stendevano sul cielo.
+
+«[[Well|Beh]], prendete quelle cose di cui parlate», proseguì, mosso
+da un'irrequietezza e da un tremito senza senso.  «Voi vedete la
+[[Moon|luna]] sorgere dietro i boschi laggiù e descrivere una grande curva
+attraverso il cielo e parere tramontare di nuovo oltre la [[Hill|collina]]. 
+Ma sarebbe altrettanto facile conservare le medesime relazioni matematiche
+considerando la [[Moon|luna]] come il centro del cerchio e la curva descritta
+da qualche oggetto come la mucca...»
+
+Lei gettò la testa all'indietro e lo guardò, con gli occhi sfavillanti
+di un riso che non era in alcun modo scherno, ma un fanciullesco
+diletto per la coincidenza culminante di una fiaba.
+
+«Splendido!» esclamò.  «Così la mucca salta davvero al di sopra
+della [[Moon|luna]]!»
+
+Green si portò la mano ai capelli; e dopo un breve [[Silence|silenzio]]
+disse d'improvviso, come un uomo che rammenti una recondita citazione
+greca:
+
+«Ma sì, l'ho già udito da qualche parte.  C'era qualcos'altro...
+"il cagnolino rise..."»
+
+Poi accadde qualcosa che, nel mondo delle idee, fu assai più drammatico
+del fatto che il cagnolino ridesse.  Il professore d'astronomia rise. 
+Se il mondo delle cose avesse corrisposto al mondo delle idee,
+le foglie del melo avrebbero potuto accartocciarsi per lo spavento
+o gli uccelli precipitare dal cielo.  Fu piuttosto come se avesse
+riso la mucca.
+
+A quel brusco e sgraziato suono seguì un silenzio; e poi la mano
+che aveva alzato al capo strappò via d'un tratto i grossi occhiali
+azzurri e mostrò i suoi fissi occhi azzurri.  Aveva un'aria di ragazzo,
+anzi persino di bambino.
+
+«Mi chiedo se li avete sempre portati», disse lei.  «Credo che facessero
+sembrare azzurra quella vostra luna.  Non c'è un proverbio o qualcosa
+del genere su una cosa che accade una volta ogni luna blu?»
+
+Egli gettò a terra i grandi occhialoni e li ruppe.
+
+«Santo cielo!» esclamò lei, «pare che vi siano venuti in uggia
+tutt'a un tratto.  Credevo che li avreste portati finché... beh,
+finché tutto fosse blu, come si dice.»
+
+Egli scosse il capo.  «Tutto è bello», disse.  «Voi siete bella.»
+
+La giovane donna era di norma assai lucida e risoluta nel trattare
+i signori che facevano osservazioni di quel genere, specialmente
+quando concludeva che i signori non erano signori.  Ma per qualche
+ragione, in questo caso non le passò mai per la mente d'aver bisogno
+di difesa; forse perché l'altra parte pareva più indifesa che
+indifendibile.  Ella non disse nulla.  Ma l'altra parte disse assai,
+e le sue osservazioni non si fecero più razionali.  In quel momento,
+lontano, nel salotto della loro locanda nella cittadina vicina,
+Hood e Crane e la confraternita del Lungo Arco stavano proprio
+discutendo con considerevole interesse il significato e le possibilità
+della nuova teoria astronomica.  A Bath la sala delle conferenze
+veniva preparata per l'esposizione della teoria.  Il teorico se n'era
+completamente dimenticato.
+
+«Ho riflettuto parecchio», stava dicendo Hilary Pierce, «su quel tale
+astronomo che stasera terrà una conferenza a Bath.  Mi è parso in qualche
+modo che fosse uno spirito affine e che presto o tardi fossimo destinati
+a ritrovarci mischiati con lui... o che lui fosse destinato a ritrovarsi
+mischiato con noi.  Non dico che sia sempre molto comodo ritrovarsi
+mischiati con noi.  Sento nelle ossa che presto ci sarà un gran putiferio. 
+Mi sento come se avessi consultato un astrologo; come se Green fosse
+il Merlino della nostra Tavola Rotonda.  Comunque sia, l'astrologo
+ha un'interessante teoria astronomica.»
+
+«Perché?» domandò Wilding White con una certa sorpresa.  «Che cosa
+avete voi a che fare con la sua teoria?»
+
+«Perché», rispose il giovane, «io comprendo la sua teoria astronomica
+assai meglio di quanto egli creda.  E, lasciate che ve lo dica,
+la sua teoria astronomica è un'allegoria astronomica.»
+
+«Un'allegoria?» ripeté Crane.  «Di che cosa?»
+
+«Un'allegoria di noi», disse Pierce; «e, come accade con molte
+allegorie, l'abbiamo recitata senza saperlo.  Ho capito qualcosa
+sulla nostra storia, mentre egli parlava, che non credo d'aver mai
+pensato prima.»
+
+«Ma di che diamine state parlando?» esigette il Colonnello.
+
+«La sua teoria», disse Pierce in tono meditabondo, «ha qualcosa
+a che fare col fatto che gli oggetti in moto sono in realtà fermi,
+e gli oggetti fermi sono in realtà in moto.  Ebbene, voi parlate
+sempre di me come se fossi un oggetto in moto.»
+
+«Un oggetto talvolta straziante», assentì il Colonnello con cordiale
+incoraggiamento.
+
+«Voglio dire», proseguì Pierce con calma, «che voi parlate di me
+come se stessi sempre andando troppo in fretta in automobile o volando
+troppo lontano.  E ciò che dite di me è pressappoco ciò che la maggior
+parte della gente dice di voi.  Le persone assennate credono che tutti
+noi andiamo un bel po' troppo oltre.  Ci credono un branco di pazzi
+che sfuggono al gendarme o fanno il giro della morte, e sono sempre
+dietro a qualche nuova sciocchezza.  Ma se ci si pensa bene, siamo noi
+a restare sempre dove siamo, e sono gli altri a essere sempre in moto,
+a spostarsi e a mutare.»
+
 
 
 <span class="atom-split" data-atom="chapter_06--part_05" data-title="Tales of the Long Bow — Chapter 6 (part 5)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="motif/moon,motif/stars,concept/beauty,concept/suffering"></span>
@@ -11872,6 +16139,113 @@ clearly [[Suffering|suffering]] from dementia, which was immediately corroborate
 by a local doctor, so that the unhappy man might be removed without
 further scandal.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+«Sì», disse Owen Hood; «comincio ad avere una vaga idea di ciò
+di cui state parlando.»
+
+«In tutte le nostre piccole avventure», proseguì l'altro, «ciascuno
+di noi ha assunto una qualche posizione ben definita e vi si è tenuto,
+per difficile che potesse essere; era in ciò tutto il divertimento. 
+Ma i nostri critici non si tennero alla loro propria posizione...
+neppure alla loro propria posizione convenzionale o conservatrice. 
+In ognuna delle storie furono loro a essere volubili, e noi a essere
+saldi.  Quando il Colonnello disse che avrebbe mangiato il suo cappello,
+lo fece; quando scoprì che ciò significava portare un cappello
+assurdo, lo portò.  Ma i suoi vicini non si tennero neppure alla loro
+propria convinzione che il cappello fosse assurdo.  La moda è cosa
+troppo fluttuante e sensibile; e prima della fine, la metà di loro
+si chiedeva se non avrebbe dovuto avere cappelli dello stesso tipo. 
+In quell'affare della fabbrica sul Tamigi, Hood ammirava il vecchio
+paesaggio e Hunter ammirava i vecchi proprietari terrieri.  Ma Hunter
+non continuò ad ammirare i vecchi proprietari; disertò verso i nuovi
+proprietari non appena questi ebbero la terra.  Il suo conservatorismo
+era troppo snob per conservare alcunché.  Io volevo importare maiali,
+e continuai a importare maiali, benché i miei metodi di contrabbando
+potessero farmi finire in manicomio.  Ma Enoch Oates, il milionario,
+non continuò a importare carne di maiale; se ne andò subito dietro
+a qualche nuovo colpo di scena, prima sul lancio delle sue borse,
+e poi sull'ammirevole colpo di scena di avviare fattorie inglesi. 
+La mente d'affari non è costante; anche quando la si può volgere
+nel verso giusto, è troppo facile da volgere.  E tutto è stato così,
+fino alla piccola noia dell'elefante.  La polizia cominciò a perseguire
+Mr. White, ma ci rinunciò presto quando Hood le mostrò che egli aveva
+qualche appoggio.  Non vedete che è questa la morale di tutta
+la faccenda?  Il mondo moderno è materialistico, ma non è solido. 
+Non è duro né severo né spietato nel perseguire il proprio scopo,
+né tutte le cose che i giornali e i romanzi dicono che sia; e talvolta
+addirittura lo lodano per esserlo.  Il materialismo non è come
+la pietra; è come il fango, e per giunta fango liquido.»
+
+«C'è del vero in ciò che dite», disse Owen Hood, «e sarei incline
+ad aggiungervi qualcosa.  A un calcolo approssimativo delle probabilità
+nell'Inghilterra moderna, direi che la situazione è pressappoco questa. 
+In quell'atmosfera dubbia e vacillante è assai improbabile che vi sia
+mai una rivoluzione, o una qualche riforma davvero vitale.  Ma se
+vi fosse, credo sull'anima mia che potrebbe riuscire.  Credo che
+ogni altra cosa sarebbe troppo debole e traballante per tenerle testa.»
+
+«Immagino che ciò significhi», disse il Colonnello, «che state per fare
+qualcosa di sciocco.»
+
+«La cosa più sciocca che riesca a immaginare», replicò Pierce allegramente. 
+«Sto andando a una conferenza di astronomia.»
+
+Il grado di sciocchezza implicato nell'esperimento può essere esposto
+nel modo più compatto e chiaro dal resoconto giornalistico, che gli
+amici degli sperimentatori si trovarono a fissare con più del consueto
+sbigottimento il mattino seguente.  Il Colonnello, seduto al suo circolo
+con il suo quotidiano prediletto spiegato dinanzi, contemplava con grave
+stupore un trafiletto che cominciava con i seguenti titoli:
+
+SCENA STUPEFACENTE A UN CONGRESSO SCIENTIFICO
+
+IL RELATORE IMPAZZISCE E FUGGE
+
+«Una scena tanto penosa quanto sconcertante ha avuto luogo alla terza
+seduta della Società Astronomica che tiene ora il suo congresso a Bath. 
+Il Professor Oliver Green, uno dei più promettenti fra i più giovani
+astronomi, era iscritto nel programma per tenere una conferenza su
+"La Relatività in Relazione al Moto Planetario".  Circa un'ora prima
+della conferenza, tuttavia, le autorità hanno ricevuto un telegramma
+dal Professor Green, che modificava l'argomento del suo intervento
+adducendo di aver appena scoperto una nuova stella e di desiderare
+comunicare immediatamente la sua scoperta al mondo scientifico. 
+Grande eccitazione e viva attesa regnavano alla seduta, ma questi
+sentimenti si mutarono in sbigottimento con il procedere della
+conferenza.  Il relatore ha annunciato senza esitazione l'esistenza
+di un nuovo pianeta legato a una delle [[Stars|stelle]] fisse, ma ha
+proseguito descrivendone la formazione geologica e altre caratteristiche
+con una fantastica esattezza che va oltre qualunque cosa finora ottenuta
+per via dello spettro o del telescopio.  Si è compreso che egli dicesse
+che esso produce vita in forma stravagante, in oggetti torreggianti
+che continuamente si sdoppiavano o si dividevano finché terminavano
+in piatti filamenti, o lingue di un vivido color verde.  Stava
+procedendo a descrivere una forma di vita ancor più improbabile,
+più mobile ma egualmente mostruosa, poggiante su quattro tronchi
+o colonne che oscillavano in rotazione, e terminante in certe curiose
+appendici ricurve, quando un giovane in prima fila, il cui contegno
+aveva mostrato una crescente leggerezza, esclamò d'improvviso:
+"Ma è una mucca!"  A ciò il professore, abbandonando bruscamente
+ogni pretesa di dignità scientifica, ha replicato gridando con voce
+di tuono: "Sì, certo che è una mucca; e voialtri non vi sareste mai
+accorti di una mucca, neppure se saltasse al di sopra della [[Moon|luna]]!" 
+Lo sventurato professore ha poi cominciato a delirare nel modo più
+incoerente, agitando le braccia e gridando a gran voce che egli e i suoi
+colleghi scienziati erano tutti una masnada di gonzi che non avevano
+mai guardato il mondo su cui camminavano, il quale conteneva le cose
+più miracolose.  Ma l'ultima parte delle sue osservazioni, che pareva
+uno sfogo del tutto irrilevante in lode della [[Beauty|bellezza]] della Donna,
+è stata interrotta dal Presidente e dai funzionari del Congresso,
+che hanno invocato l'intervento medico e della forza pubblica. 
+Nientemeno che Sir Horace Hunter, il quale, benché noto soprattutto
+come psico-fisiologo, ha fatto di ogni sapere il proprio dominio
+ed era presente per mostrare il suo interesse per il progresso
+astronomico, ha potuto certificare sul posto che lo sventurato Green
+[[Suffering|soffriva]] chiaramente di demenza, il che è stato immediatamente
+corroborato da un medico locale, cosicché l'infelice uomo ha potuto
+essere condotto via senza ulteriore scandalo.
 
 
 
@@ -11989,6 +16363,126 @@ behind her or within her, that had driven her over the hills,
 seemed to sweep all the long lines of that landslide of a landscape,
 so that they pointed to that spot.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+"A questo punto, tuttavia, si verificò uno sviluppo ancora più
+straordinario. Il giovanotto in prima fila, che a più riprese aveva
+interrotto i lavori con osservazioni fuori luogo, balzò in piedi
+e, dichiarando ad alta voce che il professor Green era l'unico uomo
+sano di mente del Congresso, si scagliò contro il gruppo che lo
+circondava, scaraventò con violenza Sir Horace Hunter giù dal palco
+e, con l'aiuto di un amico e compagno di tumulto, riuscì a strappare
+il pazzo dalle mani dei medici e della polizia, portandolo fuori
+dall'edificio. Coloro che inseguirono i fuggitivi si trovarono
+dapprima di fronte a un nuovo mistero, sotto forma della loro completa
+scomparsa. Da allora si è scoperto che in realtà fuggirono in
+aeroplano; il giovanotto, il cui nome pare essere Pierce, essendo un
+[[Well|noto]] aviatore un tempo legato al Flying Corps. L'altro
+giovane, che lo aiutò e fungeva da pilota, non è ancora stato
+identificato."
+
+Scese la [[Night]] e le [[Stars|stelle]] si stagliarono sopra la
+fattoria dei Dale; e il telescopio puntava invano alle
+[[Stars|stelle]]. Le sue lenti gigantesche avevano invano rispecchiato
+la [[Moon|luna]] di cui il suo proprietario aveva parlato in modo così
+vano; ma il suo proprietario non tornava. La signorina Dale era
+turbata in modo piuttosto inspiegabile dalla sua assenza, e la
+menzionò una o due volte; dopotutto, come diceva la sua famiglia, era
+del tutto naturale che egli fosse andato in un albergo di Bath per la
+[[Night|notte]], specie se le baldorie dei chiassosi astronomi erano
+state lunghe e tardive. "Non è affar nostro," disse allegramente la
+moglie del contadino. "Non è un [[Child|bambino]]." Ma la figlia del
+contadino non ne era del tutto sicura su questo punto.
+
+Il mattino seguente si [[Rose|alzò]] persino prima del solito e attese
+ai suoi soliti compiti, che per un qualche caso o l'altro parevano
+sembrare più ordinari del solito. Nelle vuote ore del mattino, era
+forse naturale che la sua mente tornasse al pomeriggio precedente,
+quando la condotta dell'astronomo non poteva in alcun modo essere
+liquidata come ordinaria.
+
+"È tutto molto [[Well|bello]] dire che non è un [[Child|bambino]],"
+disse tra sé. "Vorrei essere altrettanto certa che non sia un idiota.
+Se va in un albergo, lo imbroglieranno."
+
+Quanto più i suoi dintorni apparivano angolosi e prosaici alla luce
+del giorno, tanto più [[Doubt|dubbio]] provava riguardo al probabile
+destino del gentiluomo lunatico che guardava una [[Moon|luna]] azzurra
+attraverso i suoi occhiali azzurri. Si chiedeva se in genere fossero la
+sua famiglia o i suoi amici a essere responsabili dei suoi movimenti;
+perché davvero doveva essere un po' tocco. Non l'aveva mai sentito
+parlare della sua famiglia; e ricordava parecchie cose di cui aveva
+parlato. Non l'aveva mai neppure visto parlare con un amico, salvo una
+volta col capitano Pierce, quando parlarono di astronomia. Ma il nome
+del capitano Pierce si collegò rapidamente ad altri e più pertinenti
+suggerimenti. Il capitano Pierce viveva al Blue Boar dall'altro lato
+della collina, essendosi sposato un anno o due prima con la figlia del
+locandiere, che era una vecchia amica della figlia del contadino. Erano
+state alla stessa scuola nella cittadina di provincia vicina, ed erano
+state un tempo, come si suol dire, inseparabili. Forse gli amici devono
+attraversare la fase in cui sono inseparabili per raggiungere la fase
+in cui possono essere separati senza pericolo.
+
+"Joan potrebbe saperne qualcosa," disse tra sé. "Almeno suo marito
+potrebbe saperlo."
+
+Rientrò in cucina e cominciò a tirar fuori le cose per la colazione;
+quando ebbe fatto tutto ciò che le venne in mente di fare per una
+famiglia che non si era ancora fatta viva, uscì di nuovo nel
+[[Garden|giardino]] e si ritrovò allo stesso cancello, fissando la
+ripida [[Hill|collina]] boscosa che si stendeva tra la fattoria e la
+valle del Blue Boar. Pensò di attaccare il pony; e poi si mise a
+camminare piuttosto irrequieta lungo la [[Road|strada]] oltre la
+[[Hill|collina]].
+
+Sulla mappa erano solo poche miglia fino al Blue Boar; ed ella era
+facilmente capace di camminare dieci volte quella distanza. Ma le
+mappe, come molti altri documenti scientifici, sono assai inesatte. La
+cresta che correva tra le due valli era, in rapporto a quella pianura
+[[rolling]] ondulata, netta quanto una catena di [[Mountains|monti]]. Il
+sentiero attraverso il bosco oscuro che si stendeva poco oltre la
+fattoria cominciava come un viottolo e poi pareva salire come una
+scala. Quando l'ebbe scalato, sotto la sua continua volta di alberi
+bassi e ramosi, ebbe la sensazione di aver camminato per un lungo
+[[Time|tempo]]. E quando l'ascesa terminò con un varco tra gli alberi e
+uno spazio vuoto di cielo, guardò oltre l'orlo come chi si affaccia su
+un altro mondo.
+
+Il signor Enoch Oates, nei suoi momenti più espansivi, era noto per
+alludere a ciò che chiamava le Grandi Praterie di Dio. Il signor
+Rosenbaum Low, essendo giunto a [[London]] da, o attraverso,
+Johannesburg, faceva spesso riferimento nei suoi discorsi imperialisti
+allo "sconfinato veldt." Ma né la prateria americana né il veldt
+africano appaiono in realtà più vasti, né potrebbero apparire più
+vasti, di un'ampia valle inglese vista da una bassa [[Hill|collina]]
+inglese. Nulla può essere più distante della distanza; l'orizzonte o la
+linea tracciata dal cielo attraverso la vista dell'uomo. Nulla è così
+sconfinato quanto quel confine. Entro la nostra angusta isola vi è
+un'intera serie di simili infinità; come se l'isola stessa potesse
+contenere sette mari. Mentre guardava quel nuovo paesaggio, l'[[Soul|anima]]
+pareva dissetarsi e appagarsi d'immensità e, per un [[Paradox|paradosso]],
+riempirsi infine di vuoto. Tutte le cose parevano non soltanto grandi
+ma crescenti in [[Greatness|grandezza]]. Poteva immaginare che gli alti
+alberi ritti nella luce del sole crescessero più alti mentre li
+guardava. Il sole stava sorgendo e pareva che il mondo intero
+[[Rose|sorgesse]] con esso. Persino la cupola del cielo pareva
+sollevarsi lentamente; come se il cielo stesso fosse una gonna tirata
+su e svanente nelle altezze della luce.
+
+La vasta conca sotto di lei era colorata in modo vario quanto una mappa
+in un atlante. Campi d'erba o di grano o di terra rossa parevano così
+lontani da poter essere gli imperi e i regni di un mondo appena creato.
+Ma già poteva scorgere sul ciglio di una [[Hill|collina]] sopra le
+pinete la pallida cicatrice della cava e sotto di essa lo scintillante
+serpeggiare del [[River|fiume]] dove sorgeva la locanda del Blue Boar.
+Man mano che le si avvicinava sempre più poteva vedere sempre più
+distintamente un verde campo triangolare con minuscoli puntini neri,
+che erano porcellini neri; e un altro puntino più piccolo, che era un
+[[Child|bambino]]. Qualcosa come un [[Wind|vento]] dietro di lei o
+dentro di lei, che l'aveva spinta oltre le colline, pareva spazzare
+tutte le lunghe linee di quella frana di paesaggio, sì che esse
+indicavano quel punto.
 
 
 
@@ -12110,6 +16604,126 @@ and with that, it is comforting to know, the story of all these things
 will be drawing near its explanation and its end.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Man mano che il sentiero scendeva verso il piano ed ella cominciava a
+camminare tra fattorie e villaggi, la [[Storm|tempesta]] nella sua mente
+cominciò a placarsi ed ella ritrovò la ragionevole prudenza con cui
+aveva sbrigato le faccende nella propria fattoria. Provò persino un
+certo senso di responsabilità e d'imbarazzo all'idea di disturbare la
+sua amica venendo per una commissione tanto vaga. Ma si disse in modo
+abbastanza convincente che dopotutto era giustificata. Di norma non ci
+si allarmerebbe per un pensionante smarrito come se fosse un
+[[Lion|leone]] scappato da un serraglio. Ma aveva dopotutto ottime
+ragioni per considerare questo [[Lion|leone]] un uccellaccio piuttosto
+temibile. Il suo modo di parlare era stato così eccentrico che tutti
+per miglia intorno avrebbero convenuto, se l'avessero udito, che aveva
+qualche rotella fuori posto. Era ben lieta che non l'avessero udito; ma
+la loro immaginaria opinione fortificava la propria. Avevano un dovere
+di comune umanità; non potevano lasciar sparire un povero gentiluomo di
+dubbia [[Sanity|sanità mentale]] senza ulteriori indagini.
+
+Entrò nella locanda con passo fermo e salutò la sua amica con qualcosa
+di quella cordiale allegria che è tanto sgradita in chi si alza presto.
+Era piuttosto più giovane e per [[Nature|natura]] piuttosto più esuberante
+di Joan; e Joan aveva già sentito il peso e la concentrazione dei
+figli. Ma Joan non aveva perduto il suo senso dell'[[Humour|umorismo]]
+piuttosto tagliente, e ascoltò i fatti principali della difficoltà
+dell'amica con un sorriso vigile.
+
+"Ci farebbe piuttosto piacere sapere cosa è successo," disse la
+visitatrice con vaga noncuranza. "Se fosse successo qualcosa di
+spiacevole, la gente potrebbe persino biasimare noi, dato che sapevamo
+che era fatto così."
+
+"Fatto come?" chiese Joan sorridendo.
+
+"Ma, un po' svitato, suppongo si debba dire," rispose l'altra. "Le cose
+che mi ha detto sulle mucche e sugli alberi e sull'aver trovato una
+nuova stella erano davvero—"
+
+"[[Well]], è piuttosto una fortuna che tu sia venuta da me," disse Joan
+tranquillamente. "Perché non credo che avresti trovato nessun altro su
+tutta la faccia della terra che sappia esattamente dove si trova
+adesso."
+
+"E dove si trova?"
+
+"[[Well]], non è sulla faccia della terra," disse Joan Hardy.
+
+"Non vorrai dire che è... morto?" chiese l'altra con voce innaturale.
+
+"Voglio dire che è su in aria," disse Joan, "o, il che spesso è più o
+meno la stessa cosa, è con mio marito. Hilary l'ha salvato proprio
+mentre stavano per acciuffarlo, e l'ha portato via in aeroplano. Dice
+che faranno meglio a nascondersi tra le nuvole per un po'. Sai come
+parla; naturalmente, scendono ogni tanto quando è sicuro."
+
+"Scappato! Acciuffato! Sicuro!" esclamò l'altra giovane donna con gli
+occhi sgranati. "Che diamine vuol dire tutto questo?"
+
+"[[Well]]," rispose la sua amica, "pare abbia detto lo stesso genere di
+cose che ha detto a te a un'intera sala piena di uomini di scienza a
+Bath. E, naturalmente, gli uomini di scienza hanno tutti detto che era
+matto; suppongo sia a questo che servono gli uomini di scienza. Così
+stavano proprio per portarlo via in manicomio, quando Hilary—"
+
+La figlia del contadino si [[Rose|levò]] in una gloria di collera che
+avrebbe potuto sembrare capace di sollevare il tetto, come il grande
+sorgere del sole aveva sembrato sollevare il cielo.
+
+"Portarlo via!" gridò. "Come osano parlare di cose simili? Come osano
+dire che è matto? Sono loro a dover essere matti per dire simili
+sciocchezze! Ma se ha più cervello lui negli stivali di quanto ne
+abbiano loro in tutte le loro sciocche vecchie teste pelate messe
+insieme—e mi piacerebbe metterle insieme a cozzare! Ma se andrebbero
+tutte in frantumi come gusci d'uovo, e lui ha una testa come di ghisa.
+Non lo sai che ha battuto tutti quei vecchi babbei nel loro stesso
+mestiere, delle [[Stars|stelle]] e di simili cose? Scommetto che sono
+tutti gelosi; è proprio quello che mi sarei aspettata da loro."
+
+Il fatto che ella non conoscesse affatto i nomi, e forse l'esistenza,
+di questi filosofi naturali non arrestò il vigoroso ritratto a parole
+con cui completò le loro effigi. "Brutti vecchi dispettosi con le
+basette," disse, "tutti raggruppati come tanti ragni a tessere sporche
+ragnatele per catturare i loro migliori; naturalmente, è tutta una
+congiura. Solo perché sono tutti matti e odiano chiunque sia del tutto
+sano di mente."
+
+"Così tu pensi che sia del tutto sano di mente?" chiese la padrona di
+casa con gravità.
+
+"Sano? Cosa vuoi dire? Ma certo che è del tutto sano di mente," ribatté
+Margery Dale.
+
+Con una montuosa magnanimità Joan tacque. Poi, dopo una pausa, disse:
+
+"[[Well]], Hilary ha preso in mano il suo caso e il tuo amico per ora è
+al sicuro; Hilary di solito porta a termine le cose, per quanto strane
+possano suonare. E non mi dispiace dirti in confidenza che sta portando
+a termine quella e parecchie altre cose, cose piuttosto grosse, proprio
+adesso. Non c'è verso di impedirgli di combattere qualunque cosa tu
+faccia; e pare che al momento sia in campo per combattere tutti quanti.
+Perciò non mi [[Wonder|meraviglierei]] se tu vedessi dopotutto tutte le
+teste dei tuoi vecchi signori messe a cozzare. Sono in corso preparativi
+piuttosto grossi; quel suo amico di nome Blair va e viene di continuo
+con i suoi palloni e simili cose; e credo che presto accadrà qualcosa
+su scala piuttosto vasta, forse in tutta l'Inghilterra."
+
+"Davvero?" chiese la signorina Dale in modo distratto (perché era
+tristemente carente di senso civico e politico). "È quello il tuo Tommy
+là fuori?"
+
+E parlarono del [[Child|bambino]] e poi di un centinaio di cose del
+tutto insignificanti; perché si comprendevano a perfezione.
+
+E se vi sono ancora cose che il lettore non riesce a comprendere, se
+(cosa che pare quasi incredibile) vi sono cose che egli desidera
+comprendere, allora ciò potrà avvenire solo al caro prezzo di studiare
+la storia dell'Architettura Senza Precedenti del Comandante Blair; e
+con ciò, è confortante saperlo, la storia di tutte queste cose si andrà
+avvicinando alla sua spiegazione e alla sua fine.
+
 
 
 <span class="atom-split" data-atom="chapter_07--part_01" data-title="Tales of the Long Bow — Chapter 7 (part 1)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="motif/garden,motif/home,motif/moon,motif/time,motif/window,concept/eugenics,concept/madness,concept/truth,histref/america,setting/america"></span>
@@ -12222,6 +16836,118 @@ the subject of revision.  I happened to be talking of it yesterday
 with the law officers of the Crown; and I am sure that the least
 hint that you yourself--"
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Capitolo VII
+
+L'Architettura Senza Precedenti
+del Comandante Blair
+
+Il Conte di Eden era divenuto Primo Ministro per la terza
+[[Time|volta]], e il suo volto e la sua figura erano perciò familiari
+nelle vignette politiche e persino nelle pubbliche vie. I suoi capelli
+biondi e la sua figura magra ed elastica gli davano un'aria fittizia di
+giovinezza; ma il suo volto, a un esame più attento, appariva segnato e
+rugoso e dava quasi un colpo di decrepitezza. Era in [[Truth|verità]] un
+uomo di grande esperienza e destrezza nella propria professione. Aveva
+appena mandato in rotta il Partito Socialista e rovesciato il
+[[government|Governo]] socialista, in gran parte grazie all'uso di certi
+motti e massime in rima che aveva egli stesso inventato con
+considerevole divertimento. Il suo grande slogan "Non nazionalizzare ma
+razionalizzare" era generalmente ritenuto averlo condotto alla
+vittoria. Ma nel momento in cui questa storia comincia, egli aveva
+altre cose a cui pensare. Aveva appena ricevuto un'urgente richiesta di
+consultazione da tre dei suoi più eminenti sostenitori—Lord
+Normantowers, Sir Horace Hunter, O.B.E., il grande fautore della
+politica scientifica, e il signor R. Low, il filantropo. Si trovavano
+di fronte a un problema, e il loro problema riguardava l'improvvisa
+[[Madness|follia]] di un milionario americano.
+
+Il Primo Ministro non era ignaro dei milionari americani, persino di
+quelli la cui condotta suggeriva che fossero difficilmente
+rappresentativi di un tipo normale o nazionale. C'era stato il grande
+Grigg, il milionario inventore, che aveva insistito presso il Ministero
+della Guerra con un piano per porre fine alla Guerra con un sol colpo;
+consisteva nel folgorare il Kaiser mediante telegrafia senza fili.
+C'era stato il signor Napper, del Nebraska, le cui trattative per
+trasferire la Rupe di Shakespeare in [[America]] come simbolo dell'[[unity]]
+anglosassone furono inspiegabilmente frustrate dal fermo rifiuto della
+Repubblica Americana di inviarci in cambio la Plymouth Rock. E c'era
+stato quell'affascinante e colto bostoniano, il colonnello Hoopoe, che
+tutta l'Inghilterra accolse nella sua crociata per la Purezza e la Lega
+del Giglio, finché l'Inghilterra non scoprì con considerevole sorpresa
+che l'Ambasciatore americano e tutti gli americani rispettabili si
+rifiutavano recisamente d'incontrare il Colonnello, il cui trascorso in
+[[Home|patria]] era quello di uno scampo per un pelo da Sing-Sing.
+
+Ma il problema di Enoch Oates, che aveva fatto i suoi soldi con la
+carne di maiale, era qualcosa di profondamente diverso. Come i tre
+sostenitori di Lord Eden gli spiegarono con foga, seduti attorno a un
+tavolo da [[Garden|giardino]] nella sua bella tenuta di campagna nel
+Somerset, il signor Oates aveva fatto qualcosa che il milionario più
+matto non aveva mai pensato di fare prima. Fino a un certo punto aveva
+proceduto in un modo normale per un tale straniero. Aveva acquistato
+tra l'approvazione generale una tenuta che copriva circa un quarto di
+una contea; e ci si aspettava che ne facesse un campo per alcuni di
+quegli esperimenti americani di temperanza o [[Eugenics|eugenetica]] per
+i quali la popolazione agricola inglese offre una sorta di suolo
+vergine. Invece di ciò, all'improvviso impazzì e fece dono della sua
+terra ai suoi affittuari; sicché per un'anomalia senza precedenti le
+fattorie divennero proprietà dei contadini. Che un milionario americano
+portasse via cose inglesi dall'Inghilterra—affitti inglesi, reliquie
+inglesi, quadri inglesi, cattedrali inglesi o le scogliere di Dover—era
+un'operazione naturale a cui a questo [[Time|punto]] tutti erano
+abituati. Ma che un milionario americano donasse terra inglese a gente
+inglese era un'ingerenza ingiustificabile ed equivaleva a un nemico
+straniero che fomentasse la rivoluzione. Enoch Oates era stato perciò
+convocato al Consiglio, e sedeva accigliato al tavolo come se fosse sul
+banco degli imputati.
+
+"Risultati già oltremodo deplorevoli," disse Sir Horace Hunter, con la
+sua voce piuttosto forte. "Le do un esempio, mio signore; certa gente
+di nome Dale nel Somerset ha preso in casa un pazzo come pensionante.
+Può essere stato un maniaco omicida, per quanto ne so io; qualcuno dice
+addirittura che avesse un gran cannone o colubrina che sporgeva dalla
+[[Window|finestra]] della sua camera. Ma senza alcuna gestione
+responsabile della tenuta, nessun proprietario terriero, nessun
+avvocato, nessuna persona istruita in giro, nulla impediva loro di
+affittare la camera a una tigre del Bengala. Comunque, l'uomo era
+matto, si precipitò delirante sul palco al Congresso Astronomico
+parlando della Bella Donna e della mucca che saltò oltre la
+[[Moon|luna]]. Quel maledetto agitatore di Pierce, che stava un tempo
+nel Flying Corps, era in sala, e fece un tumulto e portò via quel folle
+in aeroplano. È quel genere di cose che vi capiterà dappertutto se a
+questi individui ignoranti si permette di fare come gli pare."
+
+"È verissimo," disse Lord Normantowers. "Potrei fare molti altri
+esempi. Dicono che Owen Hood, un altro di questi eccentrici, abbia
+addirittura comprato una di queste piccole fattorie e l'abbia
+attorniata tutta di merli assurdi e di un fossato e di un ponte
+levatoio, con il motto 'La casa dell'inglese è il suo castello.'"
+
+"Io penso," disse il Primo Ministro tranquillamente, "che per quanto
+inglese possa essere l'inglese, scoprirà che il suo castello è un
+castello in Spagna; per non dire un castello in aria. Signor Oates,"
+disse, rivolgendosi con grande cortesia al grande americano
+rimuginante all'altro capo del tavolo, "la prego di non immaginare che
+io non sappia simpatizzare con simili romanticherie, benché siano
+soltanto per aria. Ma penso in tutta sincerità che scoprirà che sono
+inadatte al clima inglese. ~Et ego in Arcadia~, sa; abbiamo tutti fatto
+simili sogni di tutti gli uomini che zufolano in Arcadia. Ma dopotutto,
+lei ha già pagato lo zufolatore; e se è saggio, penso che possa ancora
+ordinare la melodia."
+
+"Mi dà gran soddisfazione dire che è troppo tardi," borbottò Oates.
+"Voglio che imparino a suonare e a pagare da soli."
+
+"Ma lei vuole che imparino," disse Lord Eden con dolcezza, "e io non
+avrei tanta fretta di dire che è troppo tardi. Mi pare che la porta sia
+ancora aperta per un ragionevole compromesso; ho inteso che l'atto di
+donazione, considerato come strumento giuridico, è ancora oggetto di
+qualche discussione legale e potrebbe benissimo essere oggetto di
+revisione. Mi è capitato di parlarne ieri con i legali della Corona; e
+sono certo che il minimo cenno che lei stesso—"
 
 
 
@@ -12367,6 +17093,150 @@ In the particular case of your [[Castle|castle]]--let me see--why, yes, of cours
 you are Lord Lieutenant of that county."
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+"Lo intendo nel senso," disse il signor Oates con grande ponderatezza,
+"che direte ai vostri avvocati che gli converrà trovare un cavillo
+nell'accordo."
+
+"Questo è ciò che noi chiamiamo il rude umorismo del West," disse Lord
+Eden, sorridendo, "ma io intendo soltanto che in questo paese facciamo
+molto per via di riesame e revisione. Commettiamo errori e li
+disfacciamo. Abbiamo una locuzione per ciò nei nostri libri di storia;
+la chiamiamo la flessibilità di una costituzione non scritta."
+
+"Anche noi abbiamo una locuzione per ciò," disse l'americano
+riflessivo. "Noi la chiamiamo corruzione."
+
+"Davvero," gridò Normantowers, un ometto piuttosto irsuto, con
+improvvisa stridulità, "non sapevo che lei fosse così scrupoloso nei
+propri metodi."
+
+"Del tutto thenza thcrupoli," disse virtuosamente il signor Low.
+
+Enoch Oates si levò lentamente come un enorme leviatano che risale alla
+superficie del mare; il suo grande volto giallastro non aveva mai
+mutato espressione; ma aveva l'aria di uno che si allontana sognante
+alla deriva.
+
+"Bèh," disse, "ammetto che è vero che ho fatto un po' di corruzione ai
+miei tempi, e parecchi affari che non erano quello che si potrebbe dire
+modellati sul Sermone della Montagna. Ma se ho stritolato la gente, è
+stato quando erano tutti pronti a stritolare me; e se alcuni di loro
+erano poveri, erano di quel genere pronto a spararmi o a pugnalarmi o a
+farmi saltare in pezzi. E vi dico che nel mio paese tutti quanti voi
+sareste linciati o incatramati e impiumati entro domani, se parlaste di
+avvocati che portano via la terra alla gente una volta che l'ha
+ottenuta. Forse il clima inglese è diverso, come dite; ma io intendo
+andare fino in fondo. Quanto a lei, signor Rosenbaum—"
+
+"Il mio nome è Low," disse il filantropo. "Non capithco perché qualcuno
+dovrebbe aver da ridire nell'uthare il mio nome."
+
+"Per carità," disse il signor Oates affabilmente. "Pare essere un nome
+piuttosto azzeccato."
+
+Si trascinò pesantemente fuori dalla stanza, e gli altri quattro uomini
+rimasero a fissare un enigma.
+
+"Va avanti con la cosa, o, piuttosto, ci vanno avanti loro," gemette
+Horace Hunter. "E cosa diavolo si deve fare adesso?"
+
+"Sembra davvero che avesse ragione a dire che è troppo tardi," disse
+Lord Normantowers amaramente. "Non riesco a pensare a nulla che si
+possa fare."
+
+"Io sì," disse il Primo Ministro. Tutti lo guardarono; ma nessuno di
+loro sapeva leggere le indecifrabili sottigliezze del suo volto vecchio
+e rugoso sotto i suoi giovanili capelli biondi.
+
+"Le risorse della civiltà non sono esaurite," disse cupamente. "Questo
+è ciò che i vecchi governi solevano dire quando cominciavano a fucilare
+la gente. Bene, potrei capire che voi signori vi sentiate inclini a
+fucilare la gente adesso. Suppongo vi paia che tutto il vostro potere
+nello Stato, che voi esercitate con tanto spirito pubblico
+naturalmente, tutte le riforme sanitarie di Sir Horace, la nuova tenuta
+dei Normantowers, e via dicendo, sia tutto ridotto in pezzi, in
+marci pezzettini di rusticità. Che ne sarà di una classe dirigente se
+non possiede tutta la terra, eh? Bene, ve lo dirò io. Conosco la
+prossima mossa, ed è giunto il momento di compierla."
+
+"Ma qual è?" domandò Sir Horace.
+
+"È giunto il momento," disse il Primo Ministro, "di nazionalizzare la
+Terra."
+
+Sir Horace Hunter si levò dalla sedia, aprì la bocca, la richiuse, e si
+rimise a sedere, il tutto con ciò che egli stesso avrebbe potuto
+chiamare un'azione riflessa.
+
+"Ma questo è Socialismo!" gridò Lord Normantowers, con gli occhi che
+gli schizzavano fuori dalla testa.
+
+"Vero Socialismo, non credete?" meditò il Primo Ministro. "Meglio
+chiamarlo Vero Socialismo; proprio il genere di cosa da ricordare alle
+elezioni. Il loro è Socialismo, e il nostro è Vero Socialismo."
+
+"Volete davvero dire, mio signore," gridò Hunter in un calore di
+sincerità più forte dello snobismo di tutta una vita, "che intendete
+sostenere i bolscevichi?"
+
+"No," disse Eden, con il sorriso di una sfinge. "Intendo che i
+bolscevichi sosterranno me. Idioti!"
+
+Dopo un silenzio, aggiunse in tono più malinconico:
+
+"Naturalmente, come questione di sentimento, è un po' triste. Tutti i
+nostri bei vecchi castelli e manieri inglesi, le dimore della piccola
+nobiltà... diverranno proprietà pubblica, come gli uffici postali,
+suppongo. Quando penso alle ore felici che io stesso ho trascorso ai
+Normantowers—" Sorrise verso il nobiluomo di quel nome e proseguì. "E
+Sir Horace ha ora, mi pare, la gioia di vivere nel Castello di
+Warbridge—bella vecchia dimora. Povero me, sì, e mi pare che il signor
+Low abbia un castello, benché il nome mi sfugga."
+
+"Castello di Rosewood," disse il signor Low piuttosto imbronciato.
+
+"Ma dico io," gridò Sir Horace, levandosi, "che ne è di 'Non
+nazionalizzare ma razionalizzare'?"
+
+"Suppongo," rispose Eden con leggerezza, "che dovrà diventare 'Non
+razionalizzare ma nazionalizzare.' È la stessa cosa. Del resto,
+possiamo facilmente trovare un nuovo motto di qualche sorta. Per
+esempio, noi, dopotutto, siamo il partito patriottico, il partito
+nazionale. Che ne dite di 'Che i Nazionalisti nazionalizzino'?"
+
+"[[Well]], tutto quel che posso dire è—" cominciò Normantowers
+esplosivamente.
+
+"Compenso, ci sarà un compenso, naturalmente," disse il Primo Ministro
+in tono rassicurante; "molto si può fare con un compenso. Se vorrete
+tutti presentarvi qui a otto giorni da oggi, diciamo alle quattro in
+punto, penso di potervi esporre tutti i piani."
+
+Quando si presentarono la settimana seguente e furono introdotti di
+nuovo nel soleggiato [[Garden|giardino]] del Primo Ministro, trovarono
+che i piani erano, in effetti, esposti dinanzi a loro; poiché il tavolo
+che stava sul prato assolato era coperto di mappe grandi e piccole e di
+una massa di documenti ufficiali. Il signor Eustace Pym, uno dei
+numerosi segretari privati del Primo Ministro, aleggiava su di esse, e
+il Primo Ministro in persona sedeva a capotavola studiandone una con un
+cipiglio intelligente.
+
+"Ho pensato che vi avrebbe fatto piacere udire i termini degli
+accordi," disse. "Temo che dobbiamo tutti fare dei sacrifici nella
+causa del progresso."
+
+"Oh, il progresso vada al ----" gridò Normantowers, perdendo la
+pazienza. "Voglio sapere se intendete davvero che la mia tenuta—"
+
+"Rientra nel dipartimento delle Tenute di [[Castle]] e Abbazia nella
+Sezione Quattro," disse Lord Eden, riferendosi al foglio dinanzi a lui.
+"Secondo le disposizioni del nuovo disegno di legge il controllo
+pubblico in tali casi sarà affidato al Lord-Luogotenente della Contea.
+Nel caso particolare del vostro [[Castle|castello]]—vediamo un po'—ma
+sì, certo, voi siete il Lord-Luogotenente di quella contea."
+
 
 
 <span class="atom-split" data-atom="chapter_07--part_03" data-title="Tales of the Long Bow — Chapter 7 (part 3)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="motif/animals,motif/death,motif/garden,motif/rose,motif/time,motif/well,concept/history,form/history,setting/castle,setting/cathedral"></span>
@@ -12505,6 +17375,150 @@ the [[Garden|garden]]-table. Lord Eden cogitated in a grim fashion for some [[Ti
 then he said as he [[Rose|rose]] from his chair:
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Il piccolo Lord Normantowers fissava, con i suoi capelli irsuti tutti
+ritti in cima; ma un nuovo sguardo albeggiava sul suo volto scaltro
+benché dai lineamenti minuti.
+
+"Il caso del [[Castle|Castello]] di Warbridge è diverso," disse il Primo
+Ministro. "Si dà il caso, purtroppo, che si trovi in un distretto
+devastato da tutti i recenti guai riguardo alla peste suina, in merito
+alla quale il Controllore Sanitario" (qui s'inchinò verso Sir Horace
+Hunter) "ha mostrato una così ammirevole solerzia. È stato necessario
+porre l'intero distretto nelle mani del Controllore Sanitario, affinché
+egli possa studiare qualsiasi traccia di peste suina che possa trovarsi
+nel [[Castle|Castello]], nella [[Cathedral|Cattedrale]], nella Canonica,
+e via dicendo. Tanto basti per quel caso, che sta in certo qual modo a
+sé; gli altri sono per lo più normali. Il [[Castle|Castello]] di
+Rosenbaum—dovrei dire il [[Castle|Castello]] di Rosewood—essendo di
+data più recente, rientra nella Sezione Cinque, e la nomina di un
+Custode permanente del [[Castle|Castello]] è lasciata alla discrezione
+del [[government|Governo]]. In questo caso il [[government|Governo]] ha
+deciso di nominare a tale carica il signor Rosewood Low, in
+riconoscimento dei suoi servigi locali alla scienza sociale e
+all'economia. In tutti questi casi, naturalmente, sarà versato ai
+presenti proprietari delle tenute il dovuto compenso, e stipendi
+cospicui e spese di rappresentanza saranno versati ai nuovi
+funzionari, affinché quei luoghi possano essere mantenuti in modo
+degno del loro carattere storico e nazionale."
+
+Si fermò, come in attesa di applausi, e Sir Horace fu vagamente
+irritato al punto di dire: "Ma senta un po', il mio
+[[Castle|castello]]—"
+
+"Al diavolo tutto quanto!" disse il Primo Ministro, con il suo primo
+lampo d'impazienza e di sincerità. "Non vedete che ne ricaverete il
+doppio di prima? Prima sarete compensato per la perdita del vostro
+[[Castle|castello]], e poi sarete pagato per custodirlo."
+
+"Mio signore," disse Lord Normantowers umilmente, "mi scuso per
+qualunque cosa io possa aver detto o insinuato. Avrei dovuto sapere che
+mi trovavo alla presenza di un grande statista inglese."
+
+"Oh, è abbastanza facile," disse Lord Eden francamente. "Guardate con
+quanta facilità siamo rimasti in sella, malgrado le elezioni
+democratiche; come siamo riusciti a dominare i Comuni tanto [[Well|bene]]
+quanto i Lord. Sarà lo stesso con ciò che chiamano Socialismo. Saremo
+ancora là; solo che ci chiameranno burocrati invece che aristocratici."
+
+"Ora vedo tutto!" gridò Hunter, "e per il Cielo, sarà la fine di tutta
+questa maledetta demagogia dei Tre Acri e una Mucca."
+
+"Credo di sì," disse il Primo Ministro con un sorriso; e cominciò a
+ripiegare le mappe.
+
+Mentre stava ripiegando l'ultima e la più grande, si arrestò
+all'improvviso e disse:
+
+"Ehilà!"
+
+Una lettera giaceva in mezzo al tavolo; una lettera in una busta
+sigillata, e una che egli evidentemente non riconosceva come parte
+alcuna del suo armamentario cartaceo.
+
+"Da dove è venuta questa lettera?" chiese piuttosto seccamente. "L'hai
+messa qui tu, Eustace?"
+
+"No," disse il signor Pym fissandola. "Non l'ho mai vista prima. Non è
+arrivata con la sua posta stamattina."
+
+"Non è affatto arrivata per posta," disse Lord Eden; "e nessuno dei
+domestici l'ha portata dentro. Come diavolo è finita qui fuori nel
+[[Garden|giardino]]?"
+
+La lacerò con il dito e rimase per qualche [[Time|tempo]] a fissare
+sconcertato il suo contenuto.
+
+"[[Castle|Castello]] di Welkin,
+4 sett., 19--.
+
+"Caro Lord Eden,—Poiché intendo che state prendendo pubbliche
+disposizioni per la futura destinazione dei nostri storici castelli
+nazionali, quali il [[Castle|Castello]] di Warbridge, apprezzerei molto
+qualsiasi informazione sulle vostre intenzioni riguardo al
+[[Castle|Castello]] di Welkin, la mia propria tenuta, poiché ciò mi
+permetterebbe di prendere le mie disposizioni.—Vostro devotissimo,
+"Welkyn di Welkin."
+
+"Chi è Welkyn?" chiese lo sconcertato uomo politico; "scrive come se mi
+conoscesse; ma non riesco a rammentarlo al momento. E dov'è il
+[[Castle|Castello]] di Welkin? Dobbiamo guardare di nuovo le mappe."
+
+Ma per quanto guardassero le mappe per ore, e scrutassero il Burke, il
+Debrett, il "Who's Who," l'atlante, e ogni altra opera di consultazione,
+non riuscirono a trovare traccia alcuna di quel fermo ma cortese
+gentiluomo di campagna.
+
+Lord Eden era un poco preoccupato, perché sapeva che persone
+curiosamente importanti potevano esistere in un angolo di questo paese,
+ed emergere all'improvviso dal loro angolo per creare guai. Sapeva che
+era molto importante che la sua stessa classe dirigente stesse con lui
+in questo grande mutamento pubblico (e intesa privata), e che nessun
+ricco eccentrico fosse lasciato fuori od offeso. Ma benché fosse
+preoccupato a tal punto, è probabile che la sua preoccupazione si
+sarebbe presto dileguata dalla sua mente se non fosse stato per
+qualcosa che accadde alcuni giorni dopo.
+
+Uscendo nello stesso [[Garden|giardino]] verso lo stesso tavolo, col più
+gradevole proposito di prendervi il tè, fu stupito di trovare un'altra
+lettera, benché questa giacesse non sul tavolo ma sul tappeto erboso
+proprio accanto ad esso. Era priva di francobollo come l'altra e
+indirizzata con la stessa calligrafia; ma il suo tono era più severo.
+
+"[[Castle|Castello]] di Welkin,
+6 ott., 19--.
+
+"Mio Signore,—Poiché parete aver deciso di proseguire il vostro
+radicale piano di confisca, come nel caso del [[Castle|Castello]] di
+Warbridge, senza il minimo riguardo per le storiche e persino eroiche
+rivendicazioni del [[Castle|Castello]] di Welkin, non posso far altro
+che informarvi che difenderò la fortezza dei miei padri fino alla
+[[Death|morte]]. Inoltre, ho deciso di levare una protesta di carattere
+più pubblico; e quando avrete di nuovo mie notizie, sarà sotto forma di
+un appello generale alla giustizia del popolo inglese.—Vostro
+sinceramente,
+Welkyn di Welkin."
+
+Le storiche e persino eroiche tradizioni del [[Castle|Castello]] di
+Welkin tennero occupata per una settimana una dozzina di segretari
+privati del Primo Ministro, a consultare enciclopedie e cronache e
+libri di [[history|storia]]. Ma il Primo Ministro stesso era più
+preoccupato di un altro problema. Come facevano queste misteriose
+lettere a entrare nella [[house|casa]], o piuttosto nel
+[[Garden|giardino]]? Nessuna di esse arrivava per posta e nessuno dei
+domestici ne sapeva nulla. Per di più, il Primo Ministro, in modo
+discreto, era assai attentamente sorvegliato. I Primi Ministri lo sono
+sempre. Ma egli era stato particolarmente protetto fin da quando, alcuni
+anni prima, i Vegetariani se n'erano andati in giro a uccidere chiunque
+credesse nell'uccidere gli [[Animals|animali]]. C'erano sempre poliziotti
+in borghese a ogni ingresso della sua [[house|casa]] e del suo
+[[Garden|giardino]]. E dalla loro testimonianza sarebbe parso certo che
+la lettera non potesse essere entrata nel [[Garden|giardino]]; se non
+per l'insignificante fatto che giaceva là sul tavolo del
+[[Garden|giardino]]. Lord Eden meditò in modo torvo per qualche
+[[Time|tempo]]; poi disse mentre si [[Rose|levava]] dalla sedia:
+
 
 
 <span class="atom-split" data-atom="chapter_07--part_04" data-title="Tales of the Long Bow — Chapter 7 (part 4)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="archetype/shadow,motif/garden,motif/time,motif/uncanny,motif/well,concept/madness,concept/uncanny,setting/castle"></span>
@@ -12630,6 +17644,136 @@ If It Is To Be His [[Castle]], It Must Be A [[Castle]] In The Air.
 The Idea, We Reply That It Is Not Half So Fantastic To Own Your Own
 Houses In The Clouds As Not To Own Your Own Houses On The Earth."
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+"Credo che farò due chiacchiere col nostro amico americano, il signor
+Oates."
+
+Vuoi per senso dell'[[Humour|umorismo]] vuoi per senso di giustizia,
+Lord Eden convocò Enoch Oates dinanzi alla stessa speciale giuria di
+tre; o convocò loro dinanzi a sé, secondo il caso. Poiché era ancora
+più difficile di prima leggere l'esatto segreto delle simpatie o delle
+intenzioni di Eden; egli parlò di una varietà di argomenti indifferenti
+conducenti a quello delle lettere, che trattò con molta leggerezza. Poi
+disse tutt'a un tratto:
+
+"A proposito, sapete qualcosa di quelle lettere?"
+
+L'americano presentò la sua faccia da giocatore di poker alla compagnia
+per qualche [[Time|tempo]] senza rispondere. Poi disse:
+
+"E cosa vi fa pensare che io ne sappia qualcosa?"
+
+"Perché," disse Horace Hunter, intromettendosi con incontenibile
+calore, "sappiamo che siete in combutta con tutti quei pazzi della Lega
+del Lungo Arco che stanno facendo tutta questa cagnara."
+
+"[[Well]]," disse Oates con calma, "non negherò mai che mi piacciono
+alcuni dei loro modi. A me piacciono i tipi in gamba; e, dopotutto,
+sono la cosa più viva di questo vecchio paese. E vi dirò di più. Mi
+piace la gente che si dà da fare; e, credetemi, loro si danno da fare.
+Voi dite che sono tutti tocchi; ma io ritengo che ci sia davvero
+metodo nella loro [[Madness|follia]]. Si danno da fare per mantenere
+quei loro folli voti. Avete parlato di quei tizi che hanno portato via
+l'astronomo in aeroplano. [[Well]], io conosco Bellew Blair, l'uomo che
+ha lavorato con Pierce in quell'impresa, e credetemi non è uomo da
+prendere sottogamba. È uno dei migliori esperti di aeronautica del
+paese; e se è passato dalla loro parte, vuol dire che c'è qualcosa
+nella loro idea a cui un intelletto scientifico possa aggrapparsi. È
+stato Blair a mettere in piedi quell'impresa dei maiali per Hilary
+Pierce; ha fatto un gran pallone a forma di scrofa e ha dato a tutti i
+porcellini dei paracadute."
+
+"[[Well]], eccoci qua," gridò Hunter. "Di tutte le follie—"
+
+"Mi ricordo del Comandante Blair durante la Guerra," disse il Primo
+Ministro tranquillamente. "Blair il Mantice, lo chiamavano. Faceva un
+lavoro da esperto: qualche nuovo piano con i dirigibili. Ma volevo solo
+chiedere al signor Oates se per caso sa dove si trova il
+[[Castle|Castello]] di Welkin."
+
+"Dev'essere da queste parti," suggerì Normantowers, "dato che le
+lettere paiono arrivare a mano."
+
+"[[Well]], non saprei," disse Enoch Oates con esitazione. "Conosco un
+uomo che vive a Ely, al quale una di quelle lettere fu recapitata a
+mano. E ne conosco un altro presso Land's End che pensava che la
+lettera dovesse esser venuta da qualcuno che viveva nei pressi. Come
+dite voi, paiono tutte arrivare a mano."
+
+"Per quale mano?" chiese il Primo Ministro, con una strana, torva
+espressione.
+
+"Signor Oates," disse Lord Normantowers con fermezza, "DOV'È il
+[[Castle|Castello]] di Welkin?"
+
+"Ma è dappertutto, per così dire," disse il signor Oates riflessivo. "È
+in qualunque luogo, comunque sia. Perbacco—!" s'interruppe di colpo:
+"Ma, a dire il vero, è qui!"
+
+"Ah," disse il Primo Ministro tranquillamente, "pensavo che avremmo
+visto qualcosa se avessimo aspettato qui abbastanza a lungo! Non
+crederete mica che vi abbia tenuti qui a bighellonare solo per fare al
+signor Oates domande di cui conoscevo già la risposta."
+
+"Cosa intendete? Pensavate che avremmo visto cosa?"
+
+"Da dove vengono le lettere prive di francobollo," rispose Lord Eden.
+
+Luminoso ed enorme, si sollevò sopra gli alberi del
+[[Garden|giardino]] qualcosa che dapprima sembrava una nuvola colorata;
+era arrossato da una luce simile a quella che posa sulle nuvole di
+fronte al tramonto, una luce a un tempo calda e smorta; e brillava come
+una fiamma opaca. Ma man mano che si avvicinava diveniva sempre più
+incredibile. Assunse solide proporzioni e prospettiva, come se una
+nuvola potesse sfiorare e schiacciare le oscure cime degli alberi. Era
+qualcosa mai visto prima nel cielo; era una nuvola cubista. Gli uomini
+che contemplano una simile nuvola al tramonto immaginano spesso di
+vedere castelli e città di una compiutezza quasi [[Uncanny|perturbante]].
+Ma vi sarebbe un possibile punto di compiutezza al quale
+griderebbero, o forse strillerebbero, come dinanzi a un segno nel
+cielo; e quella compiutezza era giunta. Il grande oggetto luminoso che
+veleggiava sopra il [[Garden|giardino]] era delineato in merli e
+torrette come un [[Castle|castello]] fatato; ma con un'esattezza
+architettonica impossibile in qualsiasi paese di nuvole. Al solo
+vederlo, una frase e un proverbio balzarono alla mente.
+
+"Ecco, mio signore!" gridò Oates, alzando all'improvviso la sua voce
+nasale e strascicata e puntando il dito, "ecco quel sogno di cui mi
+avete parlato. Ecco il vostro [[Castle|castello]] in aria."
+
+Mentre l'[[Shadow|ombra]] della cosa volante scorreva sul prato assolato,
+essi alzarono lo sguardo e videro per la prima [[Time|volta]] che la
+parte inferiore dell'edificio pendeva verso il basso come la navicella
+di una grande mongolfiera. Ricordarono i trucchi aeronautici del
+Comandante Blair e del Capitano Pierce e il modello del mostruoso
+maiale. Mentre passava sopra il tavolo un puntino bianco si staccò e
+cadde dalla navicella. Era una lettera.
+
+Un attimo dopo il puntino bianco fu seguito da una pioggia simile a una
+tempesta di neve. Innumerevoli lettere, volantini e ritagli di carta
+furono sparsi per tutto il prato. Gli ospiti parevano stare a fissare
+sbigottiti in una desolazione di carta straccia; ma gli occhi acuti ed
+esperti di Lord Eden riconobbero il materiale che, nelle elezioni
+politiche, viene alquanto satiricamente chiamato "letteratura."
+
+Ai dodici segretari privati occorse un po' di [[Time|tempo]] per
+raccoglierli tutti e rimettere il prato in ordine e pulito. All'esame
+risultarono essere principalmente di due tipi: uno una sorta di
+opuscolo elettorale della Lega del Lungo Arco, e l'altro una fantasia
+piuttosto aerea sulla proprietà privata dell'aria. Il più importante
+dei documenti, che Lord Eden studiò con maggiore attenzione, benché con
+un torvo sorriso, cominciava con la frase a grandi lettere:
+
+"La [[house|Casa]] di un Inglese Non È Più il Suo [[Castle|Castello]]
+Sul Suolo d'Inghilterra. Se Deve Essere il Suo [[Castle|Castello]], Deve
+Essere un [[Castle|Castello]] in Aria.
+
+"Se Vi Sembra Esservi Qualcosa di Insolito e Persino di Bizzarro
+nell'Idea, Rispondiamo Che Non È Neppure la Metà Tanto Fantastico
+Possedere le Proprie Case Tra le Nuvole Quanto Non Possedere le Proprie
+Case Sulla Terra."
 
 
 
@@ -12758,6 +17902,135 @@ For the young man was called Hilary Pierce, and had had previous
 dealings with the flying pig, though for that day he had been put in
 charge of the flying castle.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Seguiva poi un passo di valore politico alquanto meno solido, in cui il
+lettore acuto avrebbe potuto rintracciare l'influsso del poetico signor
+Pierce piuttosto che dello scientifico signor Blair. Cominciava così:
+"Essi Hanno Rubato la Terra; Noi Ci Divideremo il Cielo." Ma lo
+scrivente faceva seguire a ciò una pretesa alquanto poco convincente di
+aver addestrato corvi e rondini a librarsi in fila nell'aria per
+rappresentare le siepi dei "prati azzurri del nuovo reame," ed era così
+compiacente da accompagnare la spiegazione con diagrammi dello spazio
+che mostravano gli esatti confini ornitologici con linee punteggiate.
+Vi erano altri documenti ugualmente scientifici che trattavano della
+gestione delle nuvole, della conduzione degli [[Birds|uccelli]] al
+pascolo sugli [[Insects|insetti]], e via dicendo. L'intera sezione si
+concludeva col grande slogan sociale ed economico: "Tre Acri e un
+Corvo."
+
+Ma quando Lord Eden proseguì la lettura, la sua attenzione parve più
+grave di quanto questo particolare genere di ricostruzione sociale
+sembrasse giustificare. Lo scrittore dell'opuscolo riprendeva:
+
+"Non stupitevi se sembra esservi qualcosa di sottosopra nel programma
+di cui sopra. Quel mondo alla rovescia contrassegna l'intera nostra
+politica. Può parere strano che l'aria, che è sempre stata pubblica,
+divenga privata, quando la terra, che è sempre stata privata, è divenuta
+pubblica. Rispondiamo che è esattamente così che stanno oggi le cose in
+materia di ogni pubblicità e privatezza. Le cose private vengono in
+effetti rese pubbliche. Ma le cose pubbliche vengono tenute private.
+
+"Così abbiamo tutti avuto il piacere di vedere sui giornali una foto di
+Sir Horace Hunter, O.B.E., che sorride in maniera ingraziante al suo
+cacatua prediletto. Conosciamo questo particolare della sua esistenza,
+che potrebbe parere puramente domestico. Ma il fatto che egli stia per
+ricevere trentamila sterline di denaro pubblico, per continuare a
+vivere nella propria [[house|casa]], è celato con la massima delicatezza.
+
+"Similmente abbiamo visto intere pagine di un giornale illustrato
+riempite di scorci di Lord Normantowers che gode della sua luna di
+miele, che i giornali in questione hanno cura di descrivere come la sua
+[[Romance|Storia d'Amore]]. Qualunque cosa sia, un gusto antiquato e
+schizzinoso potrebbe forse essere disposto a considerarla un affar suo.
+Ma il fatto che il denaro del contribuente, che è affare del
+contribuente, gli venga dato in quantità enormi, prima per uscire dal
+suo [[Castle|castello]], e poi per rientrarvi—questo piccolo particolare
+domestico è ritenuto troppo insignificante perché il contribuente ne
+venga informato.
+
+"O ancora, veniamo di frequente informati che l'hobby del signor
+Rosenbaum Low è migliorare la razza dei Pechinesi, e Dio sa se ne hanno
+bisogno. Ma parrebbe il genere di hobby che chiunque potrebbe avere
+senza raccontarlo a tutti gli altri. D'altra parte, il fatto che al
+signor Rosenbaum Low venga pagata due volte la stessa [[house|casa]], e
+che egli tenga anche la [[house|casa]] per [[Well|giunta]], è celato al
+pubblico; assieme al fatto altrettanto interessante che gli è permesso
+fare queste cose principalmente perché presta denaro al Primo Ministro."
+
+Il Primo Ministro sorrise ancor più torvamente e gettò uno sguardo in
+modo lieve ma indugiante su alcuni dei volantini che accompagnavano il
+tutto. Parevano essere in forma di volantini elettorali, benché in
+apparenza non collegati ad alcuna elezione particolare.
+
+"Votate per Crane. Ha Detto Che Avrebbe Riscaldato il Suo Cappello e
+l'Ha Fatto. Lord Normantowers ha detto che avrebbe spiegato come mai la
+gente arrivasse a [[Swallow|inghiottire]] la sua corona; ma non l'ha
+ancora fatto.
+
+"Votate per Pierce. Ha Detto Che i Maiali Avrebbero Volato ed Essi
+Volarono. Rosenbaum Low disse che un servizio di treni espressi aerei
+internazionali avrebbe volato; ed essi non volarono. Fu il vostro
+denaro che egli fece volare.
+
+"Votate per la Lega del Lungo Arco. Sono Gli Unici Uomini Che Non
+Dicono Bugie."
+
+Il Primo Ministro stava a contemplare il [[Castle|castello]] di nuvole
+che svaniva, mentre si dissolveva tra le nubi, con una curiosa
+espressione negli occhi. Che fosse un bene o un male per la sua
+[[Soul|anima]], c'era in lui qualcosa che comprendeva molto di ciò che
+i confusi materialisti intorno a lui non avrebbero mai potuto
+comprendere.
+
+"Piuttosto poetico, non è vero?" disse asciutto. "Non fu Victor Hugo o
+qualche poeta francese a dire qualcosa a proposito della politica e
+delle nuvole?... Il popolo dice: 'Bah, il poeta è tra le nuvole. Lo è
+anche il fulmine.'"
+
+"Fulmini!" disse Normantowers con disprezzo. "Cosa possono fare questi
+sciocchi se non andarsene in giro a lanciare fuochi d'artificio?"
+
+"Proprio così," rispose Eden; "ma temo che ormai stiano lanciando
+fuochi d'artificio dentro una polveriera."
+
+Continuò a fissare il cielo con gli occhi socchiusi, benché l'oggetto
+fosse divenuto invisibile.
+
+Se il suo occhio avesse potuto davvero seguire la cosa che scrutava,
+sarebbe rimasto sorpreso; sempre che il suo insondabile scetticismo
+fosse ancora capace di sorpresa. Passò sopra boschi e prati come una
+nuvola al tramonto verso il tramonto, o un poco a nord-ovest di esso,
+come il castello fatato che stava a occidente della luna. Si lasciò
+alle spalle i verdi frutteti e le rosse torri di Hereford e passò in
+luoghi spogli le cui torri sono più possenti di qualsiasi cosa fatta
+dall'uomo, dove esse fanno da contrafforte alla possente muraglia del
+Galles. Lontano in questa landa selvaggia di rupi e fenditure a colonne
+trovò una fenditura o un incavo, lungo il cui fondo correva una linea
+scura che avrebbe potuto essere un nero fiume che scorreva attraverso
+una valle rocciosa. Ma era in realtà una crepa che si apriva sotto in
+un altro abisso. La strana nave volante seguì il corso della
+serpeggiante fessura finché non giunse a un punto in cui la crepa si
+apriva in una voragine, tonda come un calderone e casuale come il nodo
+in qualche colossale tronco d'albero; attraverso la quale sprofondò,
+entrando nel crepuscolo della tremenda caverna sottostante. L'abisso in
+basso era rischiarato qua e là da luci artificiali, come stelle cadute
+del mondo sotterraneo, e attraversato da piattaforme e gallerie di
+legno, sulle quali stavano capanne di legno e enormi casse d'imballaggio
+e molte cose che ricordavano in certo modo un deposito di munizioni.
+Sulle pareti rocciose erano dispiegati vari involucri di palloni,
+alcuni dei quali persino più grotteschi nel contorno del castello.
+Alcuni avevano la forma di animali; e su quello sfondo primordiale
+parevano gli ultimi fossili, o forse i primi contorni di vaste creature
+preistoriche. Forse c'era qualcosa di suggestivo nella fantasia che in
+quel mondo sotterraneo si stesse creando un nuovo mondo. L'uomo che
+scese dal castello volante riconobbe, quasi come si riconosce un animale
+domestico, il contorno di un maialino oltremodo primitivo che si
+stendeva come un grande disegno arcaico attraverso la parete. Poiché il
+giovane si chiamava Hilary Pierce, e aveva avuto trascorsi rapporti col
+maiale volante, benché per quel giorno fosse stato messo a capo del
+castello volante.
 
 
 
@@ -12897,6 +18170,140 @@ You've told me the true story of the Cow that Jumped over the [[Moon]].
 It's [[Time|time]] I told you the true story of the [[Castle]] in the Air."
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Sulla piattaforma su cui posò il piede sorgeva un tavolo coperto
+di carte, con quasi più carte del tavolo di Lord Eden.
+Ma queste carte erano coperte quasi interamente di cifre e numeri
+e simboli matematici.  Due uomini erano chini sul tavolo,
+discutendo e talora bisticciando.  Nel più alto dei due
+il mondo scientifico avrebbe potuto riconoscere il Professor Green,
+che andava cercando dappertutto come l'Anello Mancante, per incarcerarlo
+nell'interesse della scienza.  Nella figura più bassa e più tozza
+pochissimi avrebbero potuto riconoscere Bellew Blair,
+il cervello organizzatore della Rivoluzione Inglese.
+
+"Non sono venuto per fermarmi," spiegò Pierce in fretta.  "Riparto
+tra un minuto."
+
+"Perché non dovresti fermarti?" chiese Blair, nell'atto di accendere una pipa.
+
+"Non voglio che il vostro discorso venga interrotto.  Ancor meno, molto,
+molto meno, lo voglio ininterrotto.  Intendo mentre sono qui.  Un poco
+della vostra conversazione scientifica basta e avanza per me; so
+come siete quando siete davvero in vena di chiacchiere.  Il Professor Green dirà
+nel suo modo satirico ‘9920,05,' al che voi replicherete con tranquillo
+[[Humour|umorismo]] ‘75,007.' Sarà un'apertura troppo ghiotta per un tipo arguto
+come il Professore, il quale ribatterà all'istante ‘982,09.' Non
+di ottimo gusto, forse, ma una grande [[Temptation|tentazione]] nel fervore della [[debate|disputa]]."
+
+"Il Comandante Blair," disse [[The Professor|il Professore]], "è molto gentile a lasciarmi
+condividere i suoi calcoli."
+
+"Fortuna mia," disse Blair.  "Avrei fatto dieci volte di più con
+un matematico come voi."
+
+"[[Well|Bene]]," disse Pierce con noncuranza, "dato che siete così immersi
+nella matematica, vi lascio.  A dire il vero, avevo un messaggio
+per il Professor Green, riguardo alla signorina Dale, nella [[house|casa]] dove alloggiava;
+ma non dobbiamo interrompere gli studi scientifici per una cosuccia simile."
+
+La testa di Green si sollevò dalle carte con grande bruschezza.
+
+"Un messaggio!" gridò con ansia.  "Che messaggio?  È davvero per me?"
+
+"8282,003," rispose Pierce freddamente.
+
+"Non offenderti," disse Blair.  "Da' a [[The Professor|il Professore]] il suo messaggio
+e poi vattene, se vuoi."
+
+"È solo che è venuta a trovare mia moglie per scoprire dove foste
+andato," disse Pierce.  "Gliel'ho detto, per quanto sia possibile
+dirlo a chiunque.  È tutto," aggiunse, ma piuttosto con l'aria
+di chi dice: "dovrebbe bastare."
+
+A quanto pare bastava, perché Green, che stava di nuovo guardando
+le preziose carte, ne accartocciò una nella mano serrata
+senza accorgersene, come un uomo che domina d'improvviso i propri sentimenti.
+
+"[[Well|Bene]], io vado," disse Pierce allegramente; "devo visitare gli altri depositi."
+
+"Fermati un momento," disse Blair, mentre l'altro si voltava.
+"Non hai qualche notizia pubblica oltre a quelle private?
+Come vanno le cose nel mondo politico?"
+
+"Espresse in formula matematica," rispose Pierce da sopra la spalla,
+"le notizie politiche sono MP al quadrato più LSD su U uguale L. L
+scatenato.  L sulla terra, ragazzo mio."
+
+E si arrampicò di nuovo nel suo [[Castle|castello]] in aria.
+
+[[Oliver]] Green rimase a fissare la carta accartocciata e all'improvviso cominciò
+a spianarla.
+
+"Signor Blair," disse, "mi vergogno terribilmente di me stesso.  Quando
+vi vedo vivere qui come un eremita sulle [[Mountains|montagne]], scarabocchiando
+i vostri calcoli, per così dire, sulle rocce del deserto,
+votato alla vostra grande idea astratta, consacrato a una grande causa,
+mi sento molto piccolo per avere invischiato voi e i vostri amici
+nelle mie piccole faccende.  Certo, la faccenda non è affatto piccola per me;
+ma a voi deve sembrare molto piccola."
+
+"Non so con precisione," rispose Blair, "quale fosse la [[Nature|natura]]
+della faccenda.  Ma quella è enfaticamente cosa vostra.  Per il resto,
+vi assicuro che siamo lieti di avervi, a prescindere dai vostri preziosi
+servigi come [[Machine|macchina]] calcolatrice."
+
+Bellew Blair, l'ultimo e, in senso mondano, di gran lunga il più abile
+delle reclute del Lungo Arco, era un uomo nella prima maturità,
+di corporatura quadrata, ma di figura ordinata e leggero sui piedi, vestito di un
+abito di cuoio.  Per lo più si muoveva così in fretta che la sua figura
+faceva più impressione del suo volto; ma quando sedeva a fumare,
+in uno dei suoi rari momenti d'ozio, come ora, si poteva osservare
+che il suo viso era piuttosto calmo che vivace; un viso corto e quadrato
+con un naso corto e risoluto, ma occhi riflessivi assai più chiari
+dei suoi capelli neri e folti.
+
+"È del tutto omerico," aggiunse, "i due eserciti che combattono per
+il [[Body|corpo]] di un astronomo.  Saresti comunque una sorta di simbolo,
+da quando hanno cominciato quella follia di chiamarti pazzo.  Nessuno ha
+alcun diritto di importunarti sul lato personale della faccenda."
+
+Green pareva ruminare, e l'ultima frase lo destò
+a una decisione.  Cominciò a parlare.  Con grande schiettezza,
+benché con una certa goffaggine da scolaretto, prese a raccontare
+all'amico l'intera sua rozza storia d'[[Love|amore]]--il capovolgimento
+del suo mondo spirituale sulla melodia con cui morì la vecchia mucca, o piuttosto
+su cui danzò.
+
+"E vi ho trascinato a nascondermi come un assassino," concluse.
+"Per amore di qualcosa che a voi deve sembrare non tanto come
+una mucca che salta oltre la [[Moon|luna]], ma piuttosto come un vitello che ruzzola oltre
+lo sgabello della mungitura. Forse le persone votate a una grande opera come questa
+dovrebbero lasciarsi alle spalle tutto quel genere di cose."
+
+"[[Well|Bene]], non vedo nulla di cui vergognarsi," disse Blair,
+"e in questo caso non concordo con ciò che dite riguardo al lasciarsi
+quelle cose alle spalle.  Di certi generi di lavoro è vero; ma non di questo.
+Vi svelo un segreto?"
+
+"Se non vi dispiace."
+
+"La mucca non salta mai oltre la [[Moon|luna]]," disse Blair gravemente.
+"È uno degli sport dei tori della mandria."
+
+"Temo di non capire cosa intendiate," disse [[The Professor|il Professore]].
+
+"Intendo che le donne non si possono tenere fuori da questa guerra, perché è
+una guerra di terra," rispose Blair.  "Se fosse davvero una guerra nell'aria,
+avreste potuto farla tutta da solo.  Ma in tutte le guerre di contadini
+che difendono le loro fattorie e le loro case, le donne sono state sempre molto
+sul posto; come quando versavano [[Water|acqua]] bollente dalle finestre durante
+gli sfratti irlandesi.  Ascoltate, vi racconto una storia.  È pertinente
+perché ha una morale.  Dopotutto, tocca a me, per così dire.
+Voi mi avete raccontato la vera storia della Mucca che Saltò oltre la [[Moon|Luna]].
+È [[Time|tempo]] che io vi racconti la vera storia del [[Castle|Castello]] in Aria."
+
 
 
 <span class="atom-split" data-atom="chapter_07--part_07" data-title="Tales of the Long Bow — Chapter 7 (part 7)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="archetype/child,motif/crown,motif/silence,motif/well"></span>
@@ -12995,6 +18402,101 @@ his whole project fared, is a part of the story of The Ultimate
 Ultimatum of the League of the Long Bow, after which the exhausted
 and broken-spirited reader may find rest at last.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Fumò in silenzio per un momento, poi disse:
+
+"Vi sarete forse chiesto come un ingegnere scozzese assai prosaico
+e pratico come me sia mai arrivato a costruire una cosa come quel
+palazzo da pantomima laggiù, puerile come il palloncino colorato di un [[Child|bambino]].
+[[Well|Ebbene]], la risposta è la stessa; perché in certe circostanze
+un uomo può essere assai diverso da sé stesso.  In un certo periodo dei
+vecchi preparativi di guerra, stavo facendo un lavoro per il [[government|governo]]
+in una parte appartata della costa occidentale dell'Irlanda.  C'erano
+pochissime persone con cui potessi parlare; ma una di esse era la figlia
+di uno squire in rovina di nome Malone; e con lei parlai parecchio.
+Ero un meccanico dei più meccanici che si possano dissotterrare in giro;
+sporco, scontroso, sempre a trafficare con macchinari lerci.  Lei era
+davvero come quelle principesse di cui si legge nei [[Poems|Poemi]] celtici;
+con una rossa [[Crown|corona]] fatta di riccioli fatati come piccole fiamme,
+e un pallido viso di elfo che pareva in qualche modo sottile e luminoso
+come vetro; e sapeva farti ascoltare il [[Silence|silenzio]] come una [[Song|canzone]].
+Non era una posa in lei, era una poesia; c'è gente così,
+ma pochissimi come lei.  Cercavo di reggere il mio ruolo raccontandole
+delle meraviglie della scienza, e della grande nuova architettura
+dell'aria.  E allora Sheila era solita dire: ‘E a che mi servono
+quando le AVRAI costruite.  Posso vedere un castello
+costruirsi da sé senza mani con giganteschi macigni di limpide gemme
+nel cielo ogni notte.'  E indicava dove nuvole cremisi
+o violette pendevano nel verde bagliore del tramonto sopra il grande Atlantico.
+
+"Probabilmente direste che ero pazzo, se non vi capitasse per caso di essere
+stato pazzo voi stesso.  Ma io ero folle all'idea che ci fosse
+qualcosa che lei ammirava e che pensava la scienza non potesse fare.
+Ero morboso come un ragazzo; per metà credevo che mi disprezzasse; e volevo
+per metà darle torto e per metà fare ciò che lei riteneva giusto.
+Decisi che la mia scienza avrebbe battuto le nuvole al loro stesso gioco; e mi
+affaticai finché non ebbi davvero costruito una specie di castello d'arcobaleno che potesse
+cavalcare l'aria.  Credo che in fondo alla mente ci fosse una sorta
+di folle idea di rapirla su tra le nuvole in cui viveva,
+come se fosse letteralmente un angelo e dovesse dimorare su ali.  Non
+arrivò mai proprio a tanto, come sentirete, ma man mano che i miei esperimenti progredivano
+progrediva anche il mio romanzo d'amore.  Non ci sarà bisogno di dirvi nulla al riguardo;
+voglio solo raccontarvi la fine della storia per via della morale.
+Prendemmo accordi per sposarci; e dovetti lasciare a lei molti
+degli accordi, mentre io completavo la mia grande opera.
+Poi finalmente fu pronta e venni a cercarla come un dio
+pagano che discende in una nuvola per portare una ninfa sull'Olimpo.
+E scoprii che lei aveva già preso una villetta di mattoni assai solida
+ai margini di una città, avendola ottenuta a un prezzo notevolmente basso e arredata
+con i più moderni comfort.  E quando le parlai di
+castelli in aria, rise e disse che il suo castello era sceso
+a terra.  Questa è la morale.  Una donna, specialmente un'irlandese,
+è sempre straordinariamente pratica quando si tratta di sposarsi.
+È questo che intendevo dicendo che non è mai la mucca a saltare oltre
+la luna.  È la mucca che sta saldamente piantata in mezzo ai
+tre acri; e che conta sempre in ogni lotta per la terra.
+Ecco perché in questa storia ci devono essere donne, specialmente come
+quelle nella vostra storia e in quella di Pierce, donne che vengono dalla terra.
+Quando il mondo ha bisogno di una Crociata per ideali comuni, è meglio
+condurla da uomini senza legami, come i Francescani.  Ma quando si tratta
+di una lotta per la proprietà privata--non si possono tenerne fuori le donne.
+Non si può avere la fattoria di famiglia senza la famiglia.  Bisogna avere
+di nuovo il concreto matrimonio cristiano: non si può avere solida piccola
+proprietà con tutta questa poligamia vagabonda; un harem che non è nemmeno
+una casa."
+
+Green annuì e si alzò lentamente in piedi, con le mani in tasca.
+
+"Quando si tratta di una lotta," disse.  "Quando guardo questi enormi
+preparativi sotterranei, non è difficile dedurre che voi
+pensiate si arriverà a una lotta."
+
+"Io penso che si sia già arrivati a una lotta," rispose Blair.  "Lord Eden
+ha deciso così.  E gli altri forse non capiscono esattamente cosa
+stanno facendo; ma lui sì."
+
+E Blair scosse la pipa e si alzò, per riprendere il suo lavoro
+in quel laboratorio di montagna, all'incirca nello stesso momento in cui Lord
+Eden si destava dalle sue sorridenti meditazioni; e, accendendo una sigaretta,
+rientrava languidamente in casa.
+
+Non tentò di spiegare ciò che aveva in mente agli uomini
+intorno a lui.  Era l'unico uomo lì che capisse che l'Inghilterra
+intorno a lui non era l'Inghilterra che aveva circondato la sua giovinezza e
+sostenuto il suo ozio e il suo lusso; che le cose si stavano sgretolando,
+dapprima lentamente e poi sempre più rapidamente, e che le cose
+che si distaccavano erano sia buone sia cattive.  E una di esse
+era questo crudo, ampio e minaccioso fatto nuovo; un contadinato.
+La classe dei piccoli agricoltori esisteva già, e poteva ancora ritrovarsi
+a combattere per le sue fattorie come la stessa classe in tutto il mondo.
+Non era più certo che gli ampi aggiustamenti sociali
+stabiliti in quel giardino potessero applicarsi a tutta la terra inglese.
+Ma la storia di quanto i suoi dubbi fossero giustificati, e di quanto
+il suo intero progetto abbia prosperato, è parte della storia dell'Ultimo
+Ultimatum della Lega del Lungo Arco, dopo il quale il lettore esausto
+e affranto potrà trovare finalmente riposo.
 
 
 
@@ -13124,6 +18626,129 @@ old-world notions of the graces of a hostess, sometimes had double
 work to do.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Capitolo VIII
+
+L'Ultimo Ultimatum
+della Lega del Lungo Arco
+
+Il signor Robert Owen Hood attraversò la sua biblioteca rivestita di volumi
+di cuoio bruno con in mano un pacco di carta marrone; una persona frivola
+(come il suo amico, il signor Pierce) avrebbe potuto dire che era immerso in cupi pensieri.
+Uscì tuttavia al sole del suo giardino, dove la
+moglie stava disponendo il servizio da tè, poiché aspettava ospiti.
+Persino nella forte luce del giorno pareva stranamente poco mutato,
+malgrado il lungo e catastrofico periodo trascorso da quando l'aveva
+incontrata nella valle del Tamigi ed era riuscito davvero a incendiare
+il Tamigi.  Quel fuoco si era da allora esteso nello spazio e nel tempo ed era divenuto
+una conflagrazione in cui gran parte della civiltà moderna era stata consumata;
+ma nella quale (come i suoi fautori sostenevano) l'agricoltura inglese era stata
+salvata e un capitolo nuovo e più pieno di speranza s'era aperto nella storia inglese.
+Il suo viso angoloso era un po' più segnato e rugoso, ma la sua diritta
+zazzera di capelli color rame era immutata come se fosse stata
+una parrucca color rame.  Sua moglie Elizabeth era ancor meno segnata,
+poiché era più giovane; aveva negli occhi lo stesso sguardo un po' nervoso o miope
+che era come un tocco di umanità alla sua bellezza fatta
+d'avorio e d'oro.  Ma benché non fosse vecchia era sempre stata
+un po' all'antica; poiché discendeva da un'aristocrazia dimenticata le cui
+donne s'erano mosse con una certa gravità oltre che grazia per le vecchie
+case di campagna, prima che le corone si vendessero come cavoli o gli ebrei
+prestassero denaro agli squire.  Ma anche suo marito era all'antica;
+benché avesse appena preso parte a una rivoluzione riuscita e portasse
+un nome rivoluzionario, aveva anche i suoi pregiudizi; e uno di essi
+era la debolezza di volere che sua moglie fosse una signora--specialmente quella signora.
+
+"Owen," disse lei, alzando lo sguardo dal tavolo da tè con allarmata severità,
+"hai comprato altri vecchi libri."
+
+"Guarda caso, questi sono libri particolarmente nuovi," rispose lui;
+"ma suppongo che in un certo senso ormai sia tutta storia antica."
+
+"Quale storia antica?" chiese lei.  "È una Storia di Babilonia
+o della Cina preistorica?"
+
+"È una Storia di Noi."
+
+"Spero di no," disse lei; "ma che intendi?"
+
+"Intendo che è una storia della Nostra Rivoluzione," disse Owen Hood, "un resoconto
+verace e autentico delle recenti gloriose vittorie, come dicevano i vecchi
+fogli volanti.  La Grande Guerra del 1914 avviò la moda di
+tirar fuori la storia degli eventi quasi prima che fossero accaduti.
+C'erano storie ufficiali di quella guerra mentre era ancora in corso.
+La nostra piccola guerra civile è almeno finita, grazie a Dio; e questa è
+la sua storia di zecca.  Scritta da un tipo piuttosto in gamba,
+distaccato ma comprensivo e un po' ironico dalla parte giusta.
+Soprattutto, dà una descrizione assai buona della Battaglia
+degli Archi."
+
+"Io non la chiamerei la nostra storia," disse Elizabeth con calma.
+"Sono devotamente grata che nessuno possa mai scrivere la nostra storia o metterla
+in un libro.  Ti ricordi quando ti tuffasti in acqua dietro
+ai fiori?  Immagino sia stato allora che davvero incendiasti il Tamigi."
+
+"Con i miei capelli rossi, senza dubbio," rispose lui; "ma non credo di aver incendiato
+io il Tamigi.  Credo sia stato il Tamigi a incendiare me.
+Solo che tu sei sempre stata lo spirito della corrente e la dea
+della valle."
+
+"Spero di non essere poi così antica," rispose Elizabeth.
+
+"Ascolta questo," esclamò il marito, voltando le pagine
+del libro.  "‘Secondo la credenza generale, che prevalse
+fino al recente [[success|successo]] del movimento agrario del Lungo Arco,
+era straordinariamente improbabile che un mutamento rivoluzionario potesse
+compiersi in Inghilterra.  Il recente [[success|successo]] della protesta agraria--'"
+
+"Ma esci da quel libro," lo rimproverò la moglie.  "Uno dei nostri
+ospiti è appena arrivato."
+
+L'ospite risultò essere il Reverendo Wilding White, un uomo che aveva
+anch'egli avuto un ruolo di spicco nel recente trionfo, un ruolo che era
+talora assai pubblico e quasi pontificale; ma nella vita privata egli
+aveva sempre il modo di entrare coi capelli grigi spazzolati o soffiati nel verso
+sbagliato e il viso d'aquila ansioso o indignato; e la sua conversazione, come
+la sua corrispondenza, veniva a fiotti ed era troppo esplosiva per essere esplicativa.
+
+"Senti," esclamò, "sono venuto a parlarti di quell'idea,
+sai--Enoch Oates ne ha scritto dall'[[America]], ed è un tipo davvero
+in gamba e tutto il resto; ma dopotutto viene dall'[[America]],
+e perciò pensa che sia facilissimo.  Ma tu stesso puoi vedere che
+non è poi così facile, con i Turchi e tutto quanto.  È bello e
+[[Well|buono]] parlare degli Stati Uniti--"
+
+"Non ti curare degli Stati Uniti," disse Hood con disinvoltura; "io credo
+di essere piuttosto favorevole all'Eptarchia.  Ascolta solo questo;
+l'[[Epic|epopea]] della nostra Eptarchia, la storia della nostra cara piccola
+guerra domestica.  ‘Il recente successo della protesta agraria--'"
+
+Fu di nuovo interrotto dall'arrivo di altri due ospiti;
+dal silenzioso ingresso del Colonnello Crane e dal chiassosissimo ingresso
+del Capitano Pierce, che aveva portato con sé la giovane moglie dalla
+campagna, poiché si erano stabiliti nella locanda avita
+del Cinghiale Azzurro.  La moglie di White era ancora in campagna,
+e quella di Crane, essendo stata a lungo indaffarata nel suo studio con manifesti di guerra,
+era ora ugualmente indaffarata con manifesti di pace.
+
+Hood era uno di quegli uomini che i libri afferrano e inghiottono quasi alla lettera,
+come mostri dalle fauci di cuoio o di carta.  Non era esagerato
+dire che sprofondava in un libro come un viandante incauto potrebbe
+sprofondare in una palude o in una strana pianta carnivora dei tropici;
+solo che il viandante era magnetizzato e non lottava nemmeno.
+Cadeva d'improvviso nel silenzio in mezzo a una frase e continuava
+a leggere; oppure d'improvviso cominciava a leggere ad alta voce con grande passione,
+discutendo con qualcuno nel libro senza alcun riferimento a chicchessia
+nella stanza.  Benché non fosse normalmente scortese, andava alla deriva per
+i salotti altrui verso gli scaffali altrui
+e vi scompariva, per così dire, come un arrugginito fantasma di famiglia.
+Percorreva cento miglia per vedere un amico per un'ora,
+e poi sprecava mezz'ora con la testa in qualche strano volume che non
+gli era mai capitato di vedere prima.  Da tutto quel lato di lui c'era
+una sorta di quasi inquietante incoscienza.  Sua moglie, che aveva
+nozioni d'altri tempi sulle grazie di una padrona di casa, talora aveva doppio
+lavoro da fare.
+
 
 
 <span class="atom-split" data-atom="chapter_08--part_02" data-title="Tales of the Long Bow — Chapter 8 (part 2)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="archetype/innocent,motif/night,motif/time,motif/well,concept/deception,concept/democracy,setting/london"></span>
@@ -13252,6 +18877,130 @@ especially by an active young gentleman who was the author of most
 of them--Captain Hilary Pierce, late of the Flying Corps.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+"Il recente successo della protesta agraria," cominciò Hood allegramente
+mentre la moglie si alzava di scatto a ricevere altri due ospiti.  Questi erano
+il Professor Green e il Comandante Bellew Blair; poiché una bizzarra amicizia
+aveva a lungo legato insieme il più pratico e il più impratico
+dei fratelli del Lungo Arco.  L'amicizia, come osservò Pierce,
+era saldamente radicata nella radice quadrata di meno infinito.
+
+"Com'è bello il vostro giardino," disse Blair alla padrona di casa.
+"Così di rado si vedono ormai aiuole simili; ma io penserò sempre
+che i vecchi giardinieri avessero ragione."
+
+"Temo che qui la maggior parte delle cose sia all'antica," rispose Elizabeth,
+"ma a me piacciono sempre così.  E come stanno i bambini?"
+
+"Il recente successo della protesta agraria," osservò il marito
+con voce chiara, "è senza dubbio--"
+
+"Davvero," disse lei, ridendo, "sei ridicolo oltre ogni dire.
+Perché mai vorresti leggere ad alta voce la storia della guerra
+alle persone che vi hanno preso parte, e sanno benissimo già cosa
+davvero accadde?"
+
+"Chiedo scusa," disse il Colonnello Crane.  "È molto sconveniente
+contraddire una signora, ma in verità vi sbagliate.  L'ultimissima
+cosa che il soldato in genere sa è ciò che è davvero accaduto.
+Deve guardare un giornale la mattina dopo per la descrizione realistica
+di ciò che non accadde mai."
+
+"Ma allora faresti meglio a continuare a leggere, Hood," disse Hilary Pierce.
+"Il Colonnello vuol sapere se sia stato ucciso in battaglia;
+o se ci fosse un fondo di verità in quella storia che fu impiccato
+come spia proprio sull'albero su cui si era arrampicato mentre fuggiva da
+disertore."
+
+"Mi piacerebbe piuttosto sapere che cosa ne cavano fuori," disse il Colonnello.
+"Dopotutto, eravamo tutti troppo dentro per vederla.  Voglio dire vederla
+nel suo insieme."
+
+"Se Owen una volta comincia non si fermerà per ore," disse la signora.
+
+"Forse," cominciò Blair, "faremmo meglio a--"
+
+"Il recente successo della protesta agraria," osservò Hood
+con tono autorevole, "è senza dubbio da attribuirsi in gran parte
+al vantaggio economico che spetta a una popolazione agraria.
+Essa può nutrire la città o rifiutarsi di nutrire la città; e questa questione
+apparve assai presto nella politica del contadinato che era
+sorto nelle contee occidentali.  Nessuno dimenticherà la scena alla
+Stazione di Paddington nei primi giorni della ribellione.  Uomini che
+si erano abituati a vedere innumerevoli mattine gli innumerevoli
+ranghi e file dei grandi bidoni del latte, che parevano plumbei in una grigia
+e untuosa luce, si trovarono di fronte a un vuoto, in cui
+quelle cose trascurate brillavano nel ricordo come argenteria rubata.
+Era vero, come Sir Horace Hunter fece premurosamente notare quando fu
+messo al comando dell'assai igienico problema dell'approvvigionamento del latte,
+che non ci sarebbe stata difficoltà a fabbricare i bidoni di metallo,
+forse anche di un modello perfezionato, con una rapidità e una finitura
+di cui i villici del Somerset erano del tutto incapaci.  Egli era da tempo
+dell'opinione, spiegò il dotto professore, che la forma
+dei bidoni, specialmente i piccoli bidoni lasciati fuori dalle case povere,
+lasciasse molto a desiderare, e che l'intero procedimento di collocare questi
+piccoli oggetti negli scantinati delle case private fosse aperto
+a grave obiezione in materia di spreco di spazio.  Il pubblico,
+tuttavia, mostrò indifferenza verso questa nuova questione e una disposizione
+a tornare alla vecchia richiesta di latte; nel qual proposito, dicevano,
+c'era un vantaggio ingiusto per l'uomo che possedeva una mucca rispetto
+all'uomo che possedeva solo un bidone.  Ma la storia che Hunter avesse
+rivaleggiato con lo slogan agrario proclamando la politica dei ‘Tre
+Aree e un Bidone' era con ogni probabilità una frivola invenzione dei suoi nemici.
+
+"Questi scioperi agrari erano già avvenuti a intervalli prima di
+culminare nella guerra agraria.  Erano il risultato del tentativo
+di imporre agli agricoltori certi regolamenti e precauzioni generali
+circa le loro abitudini quotidiane, l'abbigliamento e la dieta, che Sir Horace Hunter e
+il Professor Hake avevano trovato di grande vantaggio nei grandi laboratori
+statali per la fabbricazione di veleni e gas distruttivi.
+C'era ogni ragione di credere che la gente, specialmente i
+giovani, del villaggio evadesse spesso il regolamento sulle
+maschere di guttaperca, e la regola che imponeva al lavoratore di verniciarsi
+tutto quanto con una gomma antisettica; e l'invio di ispettori da
+[[London|Londra]] per vigilare che queste regole fossero applicate condusse a lamentevoli scene
+di violenza.  Sarebbe però un errore attribuire l'intero
+di questa grande convulsione sociale a una qualche disputa agricola locale.
+Le cause devono ricercarsi anche nello stato generale della società,
+specialmente della società politica.  Il Conte di Eden era uno statista
+di grande abilità secondo i vecchi criteri parlamentari, ma era
+già vecchio quando lanciò la sua ultima sfida ai contadini
+sotto forma di Nazionalizzazione della Terra; e le Elezioni Generali
+che furono il risultato di questa svolta caddero in gran parte nelle mani
+dei suoi luogotenenti come Hunter e Low.  Divenne presto evidente
+che alcune delle illusioni dell'epoca di Eden si erano piuttosto logorate.
+Si scoprì che la [[democracy|democrazia]] non poteva sempre essere intimidita
+nemmeno con la minaccia di consultarla circa la scelta di un [[government|Governo]].
+
+"Né si può negare che le Elezioni Generali del 19-- furono fin
+dal principio rese alquanto irreali da certe finzioni giuridiche
+che si andavano diffondendo da tempo.  C'era un'usanza, originatasi
+nell'innocuo e umano [[Deception|inganno]] usato sulle eccitate zitelle
+delle province, per cui i segretari privati del Primo
+Ministro si presentavano come quel politico in persona;
+completando talora l'[[Innocent|innocente]] illusione col pettinarsi i capelli,
+lisciarsi i baffi o portare gli occhiali alla maniera
+del loro padrone.  Quando quest'usanza fu estesa alle tribune pubbliche non
+si può negare che divenisse più discutibile.  Negli ultimi giorni
+di quel venerabile statista si è affermato che non c'erano
+meno di cinque Lloyd George in giro per il paese nello stesso [[Time|tempo]],
+e che il Cancelliere dello Scacchiere di allora era apparso
+simultaneamente in tre città nella stessa [[Night|notte]], mentre l'originale
+di tutte queste repliche, il popolare e brillante Cancelliere in persona,
+si godeva un [[Well|ben]] meritato riposo presso il Lago di Como.  L'incidente
+dei due identici Lord Smith che apparvero fianco a fianco sulla stessa
+tribuna (per un errore di calcolo degli agenti di partito), benché
+accolto con buon [[Humour|umore]] e onesta allegria dal pubblico,
+giovò ben poco al serio credito delle istituzioni parlamentari.
+C'era naturalmente una certa esagerazione nel suggerimento
+del satirico che un'intera colonna di identici Primi Ministri,
+marciando a due a due come soldati, uscisse da Downing Street
+ogni mattina e si distribuisse ai propri vari posti
+come poliziotti; ma tali satire erano popolari e largamente diffuse,
+specialmente da un attivo giovane signore che era l'autore della maggior parte
+di esse--il Capitano Hilary Pierce, già del Corpo Volante.
+
 
 
 <span class="atom-split" data-atom="chapter_08--part_03" data-title="Tales of the Long Bow — Chapter 8 (part 3)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="motif/moon,concept/truth,setting/russia"></span>
@@ -13353,6 +19102,104 @@ militarism and coercion to crush the little experiment, he found himself
 confronted with a rural rising such as has not been known in England
 since the Middle Ages.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+"Ma se questo era vero per bazzecole come una mezza dozzina di Primi Ministri,
+era ancor più vero e più penoso nella pratica faccenda dei programmi
+e delle proposte di partito.  L'intestazione di ogni programma di partito
+con la vecchia promessa ‘Ogni Uomo un Milionario' era naturalmente divenuta
+meramente formale, come un motivo decorativo o un fregio.  Ma non si può
+negare che l'uso universale di questa frase, unito all'altrettanto
+universale consapevolezza dell'ingiustizia di aspettarsi che un politico la mantenga,
+indebolì in qualche modo la forza delle parole negli affari politici.
+Sarebbe stato bene se gli statisti si fossero limitati a queste
+accolte e familiari formalità.  Purtroppo, sotto la pressione
+della lotta che nacque dalla minacciosa organizzazione
+della Lega del Lungo Arco, cercarono di abbagliare i loro seguaci
+con nuove improbabilità invece di attenersi alle collaudate
+e fidate improbabilità che avevano reso loro egregi servigi nel passato.
+
+"Fu così imprudente da parte di Lord Normantowers discostarsi tanto dai
+principi di temperanza di tutta una vita da promettere a tutti i suoi operai una bottiglia
+di champagne a ogni pasto, se avessero acconsentito a completare la fornitura
+di munizioni per soffocare la ribellione della Lega del Lungo Arco.
+Il grande filantropo aveva senza dubbio le più alte intenzioni,
+tanto nella sua avventata promessa quanto nel suo più ragionevole adempimento.
+Ma quando gli operai delle munizioni scoprirono che le bottiglie di champagne,
+benché accuratamente rivestite della più bella lamina d'oro, non contenevano
+in realtà nulla se non acqua igienicamente bollita, il risultato fu un improvviso
+e sensazionale sciopero, che paralizzò l'intera produzione di munizioni
+e condusse alle prime incredibili vittorie della Lega del Lungo Arco.
+
+"Ne seguì di conseguenza una delle più stupefacenti guerre
+della storia umana--una guerra a senso unico.  Una delle parti sarebbe stata
+insignificante se l'altra non fosse stata impotente.  La minoranza non
+avrebbe potuto combattere a lungo; solo che la maggioranza non poteva combattere affatto.
+Prevaleva attraverso l'intero delle esistenti organizzazioni
+della società una diffidenza universale che le riduceva a una polvere
+di atomi sconnessi.  A che serviva offrire agli uomini una paga
+più alta quando non credevano che l'avrebbero mai ricevuta, ma solo
+alludevano beffardi a Lord Normantowers e alla sua marca di champagne?
+A che serviva dire a ogni uomo che avrebbe avuto un premio,
+quando gli si era detto per vent'anni che sarebbe presto stato
+un milionario?  A che serviva che il Primo Ministro impegnasse
+il suo onore con voce squillante su tribuna dopo tribuna, quando era
+già una beffa aperta che non fosse affatto il Primo Ministro?
+Il Governo votava tasse e non venivano pagate.  Mobilitava
+eserciti e non si muovevano.  Introduceva il modello di un nuovo
+cannone polverizza-tutto, e nessuno voleva costruirlo e nessuno voleva
+spararlo.  Tutti ricordiamo la romantica crisi in cui né più né meno
+di un genio come il Professor Hake venne da Sir Horace Hunter, il Ministro
+dell'Organizzazione Sociale Scientifica, con un nuovo esplosivo capace
+di frantumare l'intera formazione geologica d'Europa e affondare
+queste isole nell'Atlantico, ma non riuscì a indurre il vetturino
+o alcuno degli impiegati ad aiutarlo a tirarlo giù dalla carrozza.
+
+"Contro tutta quest'anarchia di promesse infrante la piccola organizzazione
+della Lega del Lungo Arco stava salda, leale e affidabile.
+Gli Arcieri del Lungo Arco erano divenuti popolari col soprannome di Bugiardi.
+Dappertutto la beffa o il motto si ripeteva come una canzone,
+‘Solo i Bugiardi Dicono la [[Truth|Verità]].'  Trovavano sempre più uomini
+disposti a lavorare e a combattere per loro, perché si sapeva che avrebbero
+pagato qualunque salario promettessero, e rifiutato di promettere qualsiasi cosa
+che non potessero eseguire.  Il soprannome divenne un simbolo ironico
+di idealismo e dignità.  Un uomo era fiero di essere un po' preciso
+e persino pedante nella sua accuratezza e probità perché era un Bugiardo.
+L'intera di questa strana organizzazione aveva avuto origine in certe
+folli scommesse o sciocchi scherzi pratici a cui si era abbandonato un piccolo gruppo
+di eccentrici.  Ma si erano vantati della logica,
+seppur piuttosto letterale, maniera in cui avevano adempiuto certi
+voti su elefanti bianchi o maiali volanti.  Perciò, quando giunsero
+a rappresentare una politica di proprietà contadina, e furono resi capaci
+dal denaro di uno svitato americano di stabilirla in modo diffuso
+attraverso l'ovest dell'Inghilterra, presero il più serio compito
+con la stessa tenacia.  Quando i loro nemici li schernivano col ‘mito
+dei tre acri e una mucca,' rispondevano: ‘Sì, è tanto mitico
+quanto la mucca che saltò oltre la [[Moon|luna]].  Ma i nostri miti si avverano.'
+
+"L'inspiegabile e in verità incredibile conclusione della storia fu dovuta
+a un fatto nuovo; il fatto dell'effettiva presenza del nuovo contadinato.
+Erano dapprima entrati in completo possesso delle loro nuove fattorie,
+per l'atto di donazione firmato da Enoch Oates nel febbraio del 19--
+ed erano così stati insediati sulla terra da moltissimi anni quando Lord
+Eden e il suo Gabinetto si impegnarono infine nel progetto
+di Nazionalizzazione della Terra, per il quale le loro fattorie dovevano passare
+al controllo ufficiale.  Quella curiosa e inspiegabile cosa,
+lo spirito del contadino, aveva fatto grandi passi in quell'intervallo.
+Si scoprì che il [[government|Governo]] non poteva spostare tali persone
+da luogo a luogo, come è possibile fare coi poveri urbani
+nella ricostruzione delle strade o nella demolizione delle baraccopoli.
+Non era una cosa come muovere pedine, ma una cosa come strappare
+piante; e piante che avevano già affondato le radici molto profonde.
+In breve, il [[government|Governo]], che aveva già adottato una politica comunemente
+detta Socialista per motivi che erano di fatto assai conservatori,
+si trovò di fronte alla stessa resistenza contadina che portò
+il [[government|Governo]] bolscevico in [[Russia]] a una stasi.  E quando Lord
+Eden e il suo Gabinetto misero in moto l'intero moderno macchinario del
+militarismo e della coercizione per schiacciare il piccolo esperimento, si trovò
+di fronte a una sollevazione rurale quale non si era vista in Inghilterra
+dal Medioevo.
 
 
 
@@ -13462,6 +19309,110 @@ and a great part of the war must be considered as a war in the open
 country of a much more primitive and sometimes almost prehistoric kind.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+"Si dice che gli uomini del Lungo Arco spingessero il loro medievale
+simbolismo fino a indossare il verde di [[Lincoln]] come divisa quando si
+ritiravano nei boschi alla maniera di [[Robin Hood]].  È certo
+che impiegarono l'arma da cui presero il nome;
+e, cosa abbastanza curiosa, come si vedrà, tutt'altro che senza effetto.
+Ma bisogna capire chiaramente che quando la nuova classe agraria si diede
+ai boschi come fuorilegge, non si sentiva minimamente come ladri.
+Non si sentiva nemmeno come ribelli.  Dal loro punto di vista, almeno,
+erano e da lungo tempo erano stati i legittimi proprietari dei loro stessi campi,
+e gli ufficiali che venivano a confiscare erano i ladri.
+Perciò quando Lord Eden proclamò la Nazionalizzazione, uscirono
+a migliaia come i loro padri sarebbero usciti contro i pirati
+o i lupi.
+
+"Il [[government|Governo]] agì con grande prontezza.  Votò all'istante
+50.000 sterline al signor Rosenbaum Low, la cui spesa
+fu saggiamente lasciata alla sua discrezione in una crisi così acuta,
+con nient'altro che l'intesa che egli desse un'approfondita
+ricognizione generale della situazione.  Si dimostrò degno della fiducia;
+e fu con la più grave considerazione e senso di responsabilità
+che egli scelse il signor Leonard Kramp, il brillante giovane finanziere,
+fra tutti i suoi altri nipoti per assumere il comando delle forze sul campo.
+Sul campo, tuttavia, la fortuna è [[Well|ben]] nota per essere alquanto
+più incalcolabile; e tutta l'intelligenza e la presenza di spirito
+che avevano permesso a Kramp di rinviare l'assalto alla Banca Potosi
+non bastarono a bilanciare l'accidentale possesso da parte di Crane
+e Pierce di una elementare conoscenza di strategia.
+
+"Prima di considerare i successi ottenuti da questi comandanti
+nel modo di guerra piuttosto rozzo che furono costretti ad adottare,
+va notato, naturalmente, che anche dalla loro parte c'erano
+risorse scientifiche di un certo tipo; e di tipo efficace se eccentrico.
+Il genio scientifico di Bellew Blair aveva dotato la sua parte
+di molti procedimenti segreti riguardanti l'aviazione e l'aeronautica,
+ed è la peculiarità di quest'uomo straordinario che i suoi
+procedimenti segreti rimasero davvero per un considerevole [[Time|tempo]] segreti.
+Poiché non li aveva rivelati a nessuno con l'intenzione di ricavarne
+del denaro.  Questo comportamento chisciottesco e visionario
+contrastava nettamente con l'astuto buonsenso dei grandi uomini
+d'affari che sanno che la pubblicità è l'[[Soul|anima]] del commercio.  Per qualche
+[[Time|tempo]] avevano ignorato con successo lo stantio pregiudizio sentimentale
+che aveva impedito a soldati e marinai di pubblicizzare
+i migliori metodi per sconfiggere il nemico; e possiamo tutti ricordare
+quei brillanti annunci colorati che solevano ravvivare
+tanti steccati in quei giorni, ‘Affonda nel Sottomarino di Smith;
+Gite di Piacere per Patrioti.'  Oppure ‘Il Riparo Portatile di Duffin Rende
+la Guerra un Lusso.'  La pubblicità non può mancare di raggiungere il suo scopo;
+il nome di un aeroplano scritto in cielo in luci rosa
+e verde-pisello non poteva che divenire un simbolo della conquista
+dell'aria; e lo statista patriottico, riflettendo profondamente
+su quale tipo di corazzata potesse meglio difendere le coste del suo paese,
+era insensibilmente e sottilmente influenzato dal numero di volte che aveva
+visto il suo nome ripetuto sugli scalini di una scala mobile
+a un'Esposizione Imperiale.  Né poteva esserci alcun [[Doubt|dubbio]] sul
+brillante [[success|successo]] che accompagnava queste specialità scientifiche
+finché le loro operazioni erano confinate al mercato.
+I metodi del Comandante Blair erano al confronto privati, locali,
+oscuri e privi di qualsiasi riconoscimento generale; e per una strana ironia
+fu un positivo vantaggio per questo anonimo e riservato svitato
+che egli non avesse mai pubblicizzato le sue armi finché non le usò.
+Aveva sfoggiato per gioco una serie di palloni e fuochi d'artificio
+meramente fantasiosi; ma i [[Secrets|segreti]] a cui attribuiva importanza li aveva
+nascosti nelle fenditure delle [[Mountains|montagne]] gallesi con una curiosa e insensibile
+indifferenza ai principi della distribuzione e dell'esibizione commerciale.
+In ogni caso non avrebbe potuto condurre operazioni su così larga
+scala, difettando di quel capitale, la cui mancanza è
+stata così spesso fatale agli inventori; e aveva reso inutile per un uomo
+scoprire una [[Machine|macchina]] a meno che non potesse scoprire anche un milionario.
+Ma non si può negare che quando la sua [[Machine|macchina]] veniva messa in
+azione era sempre operativa, persino al punto di uccidere
+il milionario che avrebbe potuto finanziarla.  Poiché il milionario aveva
+così ostinatamente coltivato le virtù dell'auto-[[Self|réclame]] che gli
+era difficile divenire d'improvviso ignoto e indistinto,
+persino in scene di conflitto dove più ardentemente desiderava esserlo.
+C'era un movimento in corso per trattare tutti i milionari come
+non-combattenti, essendo tesori appartenenti in egual misura a tutte le nazioni,
+come le Cattedrali o il Partenone.  Si dice che ci fosse
+persino un progetto alternativo per camuffare il milionario
+coi metodi pittorici che possono mascherare un cannone come parte
+del paesaggio; e che il Capitano Pierce dedicasse molta eloquenza
+a persuadere il signor Rosenbaum Low di quanto sarebbe stato meglio per tutte
+le parti se il suo viso potesse essere fatto dissolvere nella media
+distanza o assumere l'aspetto di un muro nudo o di un palo di legno."
+
+"La cosa straordinaria è," interruppe Pierce, che aveva
+ascoltato con avidità, "che disse che io ero personale.  Proprio nel momento
+in cui cercavo di scacciare tutte le caratteristiche personali che potessero
+frapporsi tra noi, mi disse davvero che io ero personale."
+
+Hood continuò a leggere come se nessuno avesse parlato.  "In [[Truth|Verità]] i successi degli
+strumenti di Blair rivelavano una fallacia nel comune argomento commerciale.
+Parliamo di una concorrenza tra due tipi di sapone o due tipi di marmellata
+o cacao, ma è una concorrenza nell'acquisto e non nella pratica.
+Non facciamo mangiare a due uomini due tipi di marmellata e poi osserviamo chi
+sfoggia il più radioso sorriso di soddisfazione.  Non diamo a due uomini
+due tipi di cacao e notiamo chi lo sopporta con più [[Resignation|rassegnazione]].
+Ma usiamo bensì due cannoni direttamente l'uno contro l'altro; e nel caso
+dei metodi di Blair il cannone meno pubblicizzato era il migliore.
+Nondimeno il suo genio scientifico poteva coprire solo un angolo del campo;
+e gran parte della guerra va considerata come una guerra nell'aperta
+campagna di un tipo assai più primitivo e talora quasi preistorico.
+
 
 
 <span class="atom-split" data-atom="chapter_08--part_05" data-title="Tales of the Long Bow — Chapter 8 (part 5)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="motif/journey,motif/road,motif/time,motif/well,concept/doubt,setting/london,character/robin_hood,character/speed"></span>
@@ -13566,6 +19517,107 @@ It was enough for them that there was a wood of some sort marked
 on the map, and they advanced toward it, low and crouching as its
 entrance appeared to be.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+"È ammesso naturalmente da tutti gli studiosi che le vittorie
+di Crane e Pierce furono grossolane violazioni della scienza strategica.
+Gli stessi vincitori in seguito riconobbero cavallerescamente il fatto;
+ma era ormai troppo tardi per riparare l'errore.  Per comprenderlo,
+tuttavia, è necessario afferrare la curiosa condizione in
+cui erano sprofondati tanti elementi della vita sociale nel [[Time|tempo]] appena
+precedente lo scoppio.  Fu questa strana situazione sociale a
+rendere la campagna una contraddizione a tante sane massime militari.
+
+"Per esempio, è una massima militare riconosciuta che gli eserciti
+dipendono dalle strade.  Ma chiunque avesse notato le condizioni che
+già cominciavano ad apparire nelle vie di [[London|Londra]] fin
+dal 1924 capirà che una [[Road|strada]] era qualcosa di meno semplice
+e statico di quanto i Romani immaginassero.  Il [[government|Governo]] aveva adottato
+dappertutto nella sua costruzione di [[Road|strade]] il [[Well|ben]] noto materiale a noi tutti
+familiare dalle pubblicità col nome di "Nobumpo,"
+assicurando così sia il comfort dei viaggiatori sia ricompensando
+un fedele sostenitore col piazzare un grosso ordine presso il signor Hugg.
+Poiché parecchi membri del [[government|Governo]] stessi possedevano azioni della Nobumpo,
+la loro entusiastica cooperazione all'opera pubblica era assicurata.
+Ma, come si è senza [[Doubt|dubbio]] osservato dappertutto, è uno dei molti
+vantaggi del Nobumpo, nel preservare quella freschezza di superficie
+così gradevole al pedone, che l'intero materiale può essere
+(ed è) rimosso e rinnovato ogni tre mesi, per il comfort
+dei viaggiatori e il profitto e l'incoraggiamento del commercio.  Accadde
+che nel preciso momento dello scoppio delle ostilità
+tutte le strade di campagna, specialmente nell'ovest, fossero tanto
+fuori uso quanto se fossero state le arterie principali di [[London|Londra]].
+Ciò di per sé tendeva a pareggiare le probabilità o persino ad aumentarle
+a favore di una forza di guerriglia, come quella che era scomparsa
+nei boschi e si muoveva dappertutto al riparo degli alberi.
+Nelle condizioni moderne, si scoprì che, evitando accuratamente
+le strade, era ancora più o meno possibile spostarsi da luogo a luogo.
+
+"Di nuovo, un altro fatto militare riconosciuto è il fatto che l'arco è un'
+arma obsoleta.  E nulla è più irritante per un gusto finemente equilibrato
+che essere ucciso con un'arma obsoleta, specialmente mentre si
+tira ostinatamente il grilletto di un'arma efficiente, senza alcun
+effetto apparente.  Tale fu il destino dei pochi sfortunati reggimenti
+che si arrischiarono ad avanzare nelle foreste e caddero sotto rovesci
+di frecce da agguati senza tracce.  Poiché va ricordato che le
+condizioni di questa straordinaria campagna capovolsero interamente la normale
+regola militare sull'essenziale reparto militare dell'approvvigionamento.
+Le comunicazioni meccaniche in teoria accelerano l'approvvigionamento, mentre l'approvvigionamento
+di una forza svincolata e che vive sul territorio si esaurisce presto.
+Ma il fattore meccanico dipende anche da un fattore morale.
+Le munizioni sarebbero normalmente state prodotte con impareggiabile
+rapidità dal Procedimento di Poole e portate su con impareggiabile [[Speed|Velocità]]
+nelle Auto di Blinker; ma non nel momento in cui operai in tumulto erano
+impegnati a immergere ripetutamente Poole in un grande tino alla fabbrica;
+o nelle più quiete condizioni della campagna, dove vari
+vagabondi acquisivano diritti d'occupazione sulle Auto di Blinker,
+accidentalmente ritardate nel loro [[Journey|viaggio]].  Dappertutto la stessa
+cosa accadde; proprio come il grande industriale non riuscì a mantenere la sua
+promessa agli operai che producevano munizioni, così i piccoli funzionari
+alla guida dei camion non riuscirono a mantenere le loro promesse ai fannulloni
+e ai vagabondi che li avevano aiutati a uscire da difficoltà temporanee;
+e l'intero sistema di approvvigionamento crollò su una parola infranta.
+D'altra parte, l'approvvigionamento dei fuorilegge era in un certo senso
+quasi infinito.  Coi taglialegna e i fabbri dalla loro parte,
+potevano produrre le loro rozze armi medievali dappertutto.
+Fu invano che il Professor Hake tenne una serie di conferenze
+popolari, dimostrando alle classi inferiori che alla lunga
+sarebbe stato a loro vantaggio economico essere uccisi in battaglia.
+Il Capitano Pierce avrebbe detto, si riferisce: ‘Credo che il Professore sia
+un botanico oltre che un economista; ma come botanico non ha ancora
+scoperto che i cannoni e le frecce non crescono sugli alberi.  Gli archi e le frecce sì.'
+
+"Ma l'episodio che la storia avrà più difficoltà a spiegare,
+e che forse potrà riferire alla regione del mito o del romanzo,
+è la vittoria culminante comunemente chiamata la Battaglia degli Archi.
+Fu invero originariamente chiamata ‘La Battaglia degli Archi di Dio';
+in riferimento a una qualche stranamente fantastica millanteria, altrettanto stranamente adempiuta,
+che si dice sia stata pronunciata dal celebre Parroco White,
+una sorta di cappellano popolare che pare sia stato il Frate Tuck
+di questa nuova banda di [[Robin Hood]].  Venuto in una sorta di ambasciata da Sir
+Horace Hunter, questo ecclesiastico si dice abbia minacciato il [[government|Governo]]
+con qualcosa di simile a un miracolo.  Quando fu punzecchiato sull'arcaico
+sport del lungo arco, rispose: ‘Sì, abbiamo lunghi archi e ne
+avremo di più lunghi; i più lunghi archi che il mondo abbia mai visto;
+archi più alti delle case; archi datici da Dio stesso e abbastanza
+grandi per i Suoi giganteschi angeli.'
+
+"L'intera faccenda di questa battaglia, storica e decisiva com'
+era, è coperta di una certa oscurità, come quella nube di tempesta
+che pesava greve sull'alba di quel cupo giorno di novembre.
+Se qualcuno fosse stato presente con le forze del Governo che fosse stato bene
+al corrente della valle occidentale in cui operavano,
+una tale persona non avrebbe potuto mancare di notare che il paesaggio stesso
+appariva diverso; appariva nuovo e anomalo.  Per quanto fioca potesse
+tracciarsi attraverso il crepuscolo del mattino, la linea stessa del bosco
+contro il cielo gli avrebbe mostrato una nuova forma; una deformità come
+una gobba.  Ma i piani erano stati tutti tracciati a Londra molto tempo prima,
+a imitazione di quella preveggenza, fermezza di proposito e finale successo
+che sarà sempre associata all'ultimo Imperatore tedesco.
+Bastava loro che ci fosse un bosco di qualche sorta segnato
+sulla mappa, e avanzarono verso di esso, bassi e curvi come ne
+appariva l'ingresso.
 
 
 
@@ -13870,3 +19922,114 @@ all over the neighbourhood, or expecting to find it still sticking
 in a mortal and murderous manner in the heart of a friend. 
 His is only a toy bow; and when a boy shoots with such a bow,
 it is generally very difficult to find the arrow--or the boy.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+«Strana cosa,» disse, «com'è vero quel che una volta disse Hilary sul
+recitare un'[[Allegory|allegoria]] senza saperlo. Non avevo la minima idea di ciò che
+stavo facendo quando raccolsi un cavolo e me lo posi in capo per una scommessa.
+Posizione dannatamente scomoda, ma non mi sarei mai sognato d'essere martirizzato
+per un simbolo. E il simbolo giusto, per giunta, perché ho vissuto abbastanza da vedere
+Britannia incoronata di cavolo. Sta tutto molto [[Well|bene]] dire che Britannia
+domina i flutti; era la terra che non riusciva a dominare, la sua stessa terra,
+e si sollevava come per terremoti. Ma finché c'è cavolo
+c'è [[Hope|speranza]]. Archer, amico mio, la morale è questa: qualunque paese
+che tenti di fare a meno dei cavoli è finito. E persino in guerra
+spesso si combatte tanto coi cavoli quanto con le palle di cannone.»
+
+«Sì, signore,» disse Archer rispettosamente; «desidererebbe un altro
+cavolo adesso, signore?»
+
+Il colonnello Crane represse un lieve fremito. «No, grazie; no, grazie,»
+disse in fretta. Poi mormorò mentre si voltava: «Non mi
+dispiacciono tanto le rivoluzioni, ma non vorrei ripassare per quella faccenda.»
+
+E girò rapidamente attorno alla sua [[house|casa]], le cui finestre cominciavano
+a mostrare il bagliore delle lampade accese, ed entrò dalla moglie.
+
+Archer rimase [[Alone|solo]] nel [[Garden|giardino]], mettendo in ordine dopo il suo lavoro e spostando
+gli arbusti in vaso; una figura scura e solitaria mentre il tramonto e il crepuscolo
+calavano tutt'intorno al recinto come morbide cortine di grigio con un orlo
+di porpora; e le finestre, ancora senza tende e piene di luce di lampada,
+dipingevano disegni d'oro sui prati e sui vialetti lastricati là fuori.
+Era forse appropriato che egli restasse [[Alone|solo]] e in disparte;
+poiché egli [[Alone|solo]] in tutti questi mutamenti era rimasto del tutto immutato.
+Era forse conveniente che la sua figura si stagliasse in un profilo scuro
+contro la scena che si oscurava; poiché il mistero della sua immutabile
+rispettabilità resta più un [[Riddle|enigma]] di tutto il tumulto del resto.
+Nessuna rivoluzione poteva rivoluzionare il signor Archer. Erano stati fatti
+tentativi di provvedere a un giardiniere così eccellente un [[Garden|giardino]] tutto suo;
+una fattoria tutta sua, in accordo con la politica popolare
+del momento. Ma egli non voleva adattarsi al nuovo mondo; né voleva
+affrettarsi a estinguersi, come era suo dovere secondo i principi evoluzionistici.
+Egli era soltanto una [[Survival|sopravvivenza]]; ma mostrava una sconcertante disposizione
+a sopravvivere.
+
+D'improvviso il solitario giardiniere si accorse di non essere [[Alone|solo]].
+Un volto era apparso sopra la siepe, fissandolo con occhi azzurri
+sognanti eppure ardenti; un volto con qualcosa della tinta e del profilo
+di Shelley. Era impossibile che il signor Archer avesse mai sentito
+parlare di una persona come Shelley: per fortuna riconobbe il visitatore
+come un amico del suo padrone.
+
+«Perdonatemi se mi sbaglio, Cittadino Archer,» disse Hilary Pierce
+con patetico ardore, «ma mi sembra che voi non siate
+trascinato dal movimento; che a un uomo delle vostre capacità
+sia stato consentito di restare in disparte, per così dire, dalla campagna
+dell'Arco Lungo. Eppure com'è strano! Non siete forse Archer?
+Non si leva forse il vostro stesso nome a rimproverarvi? Non avreste
+dovuto scoccare più frecce o raccontare più frottole di tutti
+gli altri? O si cela forse un mistero più elementare dietro
+la vostra immobilità, come quello di una statua nel [[Garden|giardino]]? Siete voi
+davvero il dio del [[Garden|giardino]], più bello di questo idolo dei
+Mari del Sud e più rispettabile di Priapo? Non siete voi in nessun senso mortale
+un Arciere? Siete forse [[Apollo]], al servizio di questo militare Admeto;
+con successo, sì, con successo, celandomi il vostro splendore?»
+Si fermò in attesa di una risposta, poi abbassò la voce riprendendo:
+«O non siete piuttosto quell'altro Arciere le cui saette non sono
+saette di [[Death|morte]] ma di vita e fecondità; le cui frecce si piantano
+come alberelli in fiore; come i piccoli arbusti che voi
+state piantando in questo [[Garden|giardino]]? Siete voi colui che dà l'insolazione
+non alla testa ma al cuore; e avete colpito ciascuno di noi
+a sua volta con quel [[Romance|romanticismo]] che ci ha destati per la rivoluzione?
+Poiché senza quello spirito di fecondità e la promessa della famiglia,
+queste visioni sarebbero davvero vane. Siete voi in [[Truth|verità]] il Dio dell'[[Love|Amore]];
+e la vostra freccia ha punto e trasalire fatto ciascuno di noi fino a raccontare
+la propria storia? Non vi chiamerò Cupido,» disse con una lieve aria
+di riprovazione o di scusa, «non vi chiamerò Cupido, signor Archer,
+poiché io vi concepisco non come una divinità pagana, ma piuttosto come quell'immagine
+chiarita e spiritualizzata in un simbolo quasi cristiano, come poteva
+apparire a Chaucer o a Botticelli. Anzi, foste voi che,
+vestito non di colori pagani, ma piuttosto d'araldica medievale,
+soffiaste uno squillo nella vostra tromba d'oro quando [[Beatrice]] salutò [[Dante]] sul
+ponte. Siete voi davvero quell'Arciere, o Arciere, e deste voi
+a ciascuno di noi la sua Vita Nuova?»
+
+«No, signore,» disse il signor Archer.
+
+*     *     *     *     *     *     *     *     *
+
+Così il cronista della Lega dell'Arco Lungo giunge
+al termine delle sue fatiche singolarmente improduttive e infruttuose,
+senza, forse, essere ancora giunto all'inizio. Il lettore avrà
+forse un tempo sperato che la storia fosse come l'universo;
+il quale, quando finisce, spiegherà perché mai cominciò. Ma il lettore
+già da tempo si è addormentato, dopo le pene e le prove della sua parte
+nella faccenda; e lo scrittore è troppo delicato per chiedere a quale stadio
+tanto precoce del suo narrare fu trovata quella soluzione
+generalmente soddisfacente di tutti i nostri guai. Egli non sa se il [[Sleep|sonno]] sia
+stato indisturbato, o in quel [[Sleep|sonno]] quali [[Dreams|sogni]] possano venire, se sia
+stata gettata su di esso alcun'[[Shadow|ombra]] delle forme del suo stesso privatissimo
+e comodo [[nightmare|incubo]]; torri rivestite delle ali del mattino
+o templi che marciano su prati indistinti come mostri viventi, o porci
+impennacchiati come cherubini o foreste piegate come archi, o un fiammeggiante [[River|fiume]]
+serpeggiante attraverso una terra oscura. Le immagini sono per loro [[Nature|natura]] indifendibili,
+se mancano l'[[Imagination|immaginazione]] di un altro; e lo sciocco scriba
+dell'Arco Lungo non commetterà l'ultima follia di difendere i suoi [[Dreams|sogni]].
+Egli almeno ha teso un arco a caso e scoccato una freccia nell'
+aria; e non ha alcuna intenzione di andarla a cercare fra le querce,
+per tutto il vicinato, né di aspettarsi di trovarla ancora conficcata
+in modo mortale e micidiale nel cuore di un amico.
+Il suo è soltanto un arco giocattolo; e quando un fanciullo tira con un tale arco,
+è di solito assai difficile trovare la freccia — o il fanciullo.
