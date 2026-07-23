@@ -7296,6 +7296,99 @@ the kingdom of Wessex, is called the West Country and is to-day
 the most real of them all.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+IV
+
+LA SCONFITTA DEI BARBARI
+
+È un curioso caso che noi usiamo la parola «miopia» come condanna; ma non la parola «ipermetropia», che probabilmente useremmo, se mai, come complimento. Eppure l'una è tanto quanto l'altra una malattia della vista. Abbiamo ragione di dire, in rimprovero a una modernità di piccola veduta, che è molto miope essere indifferenti a tutto ciò che è storico. Ma è disastrosamente ipermetrope interessarsi solo a ciò che è preistorico. E questo disastro è capitato a un'ampia proporzione dei dotti che brancolano nelle tenebre delle epoche non registrate per trovare le radici della loro razza o razze preferite. Le guerre, gli schiavizzamenti, i primitivi costumi del [[Marriage|matrimonio]], le colossali migrazioni e massacri su cui si basano le loro teorie, non fanno parte della [[history|storia]] o neppure della leggenda. E piuttosto che fidarsi con intera semplicità di queste cose sarebbe infinitamente più saggio fidarsi delle leggende del tipo più libero e locale. In ogni caso è [[Well|bene]] registrare anche una conclusione così semplice come quella che ciò che è preistorico è non storico.
+
+Ma c'è un altro modo di applicare il buon senso alla critica
+di alcune teorie razziali prodigiose.
+Per usare la stessa figura retorica, supponiamo che gli storici
+scientifici spieghino i secoli storici in termini di una divisione preistorica
+tra uomini miopi e ipermetropi.
+Potrebbero citare esempi ed illustrazioni.
+Spiegherebbero certamente la curiosità linguistica a cui ho accennato prima,
+come prova che i miopi erano la razza conquistata, e il loro nome quindi un termine di disprezzo.
+Ci potrebbero dare descrizioni molto vivide della guerra tribale selvaggia.
+Potrebbero mostrare come gli ipermetropi fossero sempre fatti a pezzi
+nelle lotte corpo a corpo con asce e coltelli;
+fino a quando, con l'invenzione di archi e frecce, il vantaggio cambiò
+a favore degli ipermetropi, e i loro nemici furono abbattuti a centinaia.
+Potrei facilmente scrivere un [[Romance|romanzo]] spietato su questo tema, e ancora più
+facilmente una teoria antropologica spietata. Secondo quella tesi
+che riferisce tutto il morale ai cambiamenti materiali, potrebbero spiegare
+la tradizione che i vecchi diventano conservatori in politica
+con la [[Well|nota]] ben nota che gli anziani diventano più ipermetropi.
+Ma penso che ci possa essere una cosa riguardo a questa teoria che
+ci lascerebbe di stucco, e potrebbe anche, se possibile, lasciarli di stucco loro.
+Supponiamo che si facesse notare che attraverso tutti i tremila anni
+di [[history|storia]] registrata, abbondante in letteratura di ogni tipo concepibile,
+non ci fosse neanche un accenno alla questione oculistica per la quale tutto era stato osato e fatto.
+Supponiamo che nessuna delle lingue vive o morte dell'umanità
+avesse neanche una parola per "ipermetrope" o "miopia".
+In breve, supponiamo che la questione che aveva diviso il mondo intero
+in due non fosse mai stata posta affatto, fino a quando qualche fabbricante di occhiali
+non l'avesse suggerita da qualche parte intorno al 1750. In tal caso penso che
+troveremmo difficile credere che questa differenza fisica abbia davvero giocato un ruolo così fondamentale nella [[history|storia]] umana.
+E questo è esattamente il caso con la differenza fisica tra i Celti, i Teutoni e i Latini.
+
+Non conosco alcun modo per impedire alle persone dai capelli chiari di innamorarsi di quelle dai capelli scuri; e non credo che il fatto che un uomo avesse la testa allungata o rotonda abbia mai fatto molta differenza a chiunque si sentisse incline a rompergliela.
+A quanto sembra, in tutti i documenti e le esperienze umane, le persone hanno ucciso o risparmiato, sposato o astenuto dal [[Marriage|matrimonio]], fatto re o reso schiavi, facendo riferimento a quasi ogni altra considerazione tranne questa.
+C'era l'[[Love|amore]] per una valle o un villaggio, un luogo o una famiglia; c'erano entusiasmi per un principe e il suo ufficio ereditario; c'erano passioni radicate nella località, emozioni speciali riguardo alla piega del mare o della montagna; c'erano ricordi storici di una causa o di un'alleanza; c'era, più di tutto, la tremenda prova della religione. Ma per quanto riguarda una causa come quella dei Celti o dei Tedeschi, che copriva metà del mondo, non c'era nulla o quasi.
+La razza non fu mai in alcun momento un motivo, né tantomeno una scusa. I Tedeschi non ebbero mai una credenza; non ebbero mai una causa; e solo pochi anni fa iniziarono ad avere anche un gergo.
+
+Lo storico moderno ortodosso, in particolare Green, osserva la singolarità della Gran Bretagna per essere [[Alone|l'unica]] di tutte le province romane completamente ripopolata da una razza germanica.
+Non prende in considerazione, come via d'uscita dalla singolarità di questo evento,
+la possibilità che non sia mai accaduto.  Nello stesso spirito tratta
+il poco che si può citare della società teutonica.
+Il suo quadro ideale è completato da piccoli tocchi che anche un dilettante può riconoscere come dubbi.  Così tocca il Teutone con una frase del tipo "la base della loro società era l'uomo libero";
+e sul Romano con una frase del tipo "le miniere, se lavorate con manodopera forzata, dovevano essere fonte di oppressione infinita."
+Il fatto semplice è che sia i Romani che i Teutoni avevano schiavi,
+tratta l'uomo libero teutonico come l'unica cosa da considerare,
+non solo allora ma anche ora; e poi si spinge a dire che se
+il Romano trattava male i suoi schiavi, gli schiavi erano maltrattati.
+Esprime una "strana delusione" per il fatto che Gildas, l'unico cronista britannico,
+non descriva il grande sistema teutonico.
+Secondo Gildas, in una versione modificata di quella di Gregorio,
+era un caso di non Angli sed diaboli.  Il moderno germanista
+è "deluso" che l'autorità contemporanea non vedesse nulla nei suoi
+Teutoni se non lupi, [[dogs|cani]], e cuccioli del canile della barbarie.
+Ma è almeno vagamente sostenibile che non ci fosse altro da vedere.
+
+In ogni caso, quando Sant'Agostino giunse in quella terra in gran parte barbarizzata,
+con quella che si può chiamare la seconda delle tre grandi visite meridionali
+che civilizzarono queste isole, non vide alcun problema etnologico,
+qualunque cosa ci fosse da vedere.
+Con lui o con i suoi convertiti la catena della testimonianza letteraria è ripresa;
+e dobbiamo guardare il mondo come lo vedevano loro.
+Trovò un [[King|re]] che regnava nel [[Kent]], oltre i cui confini si trovavano altri
+regni di dimensioni simili, i cui re erano tutti apparentemente pagani.
+I nomi di questi re erano per lo più quelli che noi chiamiamo nomi teutonici;
+ma coloro che scrivevano le registrazioni quasi interamente agiologiche non dicevano,
+e apparentemente non chiedevano, se le popolazioni fossero in questo senso di [[Blood|sangue]] puro.
+È almeno possibile che, come nel Continente,
+i re e le corti fossero quasi l'unico elemento teutonico.
+I cristiani trovarono convertiti, trovarono protettori,
+trovarono persecutori; ma non trovarono antichi britanni
+perché non li cercavano; e se si muovevano
+tra puri anglosassoni non avevano la soddisfazione
+di saperlo.  C'era, infatti, ciò che tutta la [[history|storia]] attesta,
+un marcato cambiamento di sentimento verso i confini del Galles.
+Ma tutta la [[history|storia]] attesta anche che questo si trova sempre,
+indipendentemente da qualsiasi differenza di razza, nella transizione
+dalle pianure alla zona montuosa.  Ma di tutte le cose che
+trovarono quella che conta di più nella [[history|storia]] inglese è questa:
+che almeno alcuni dei regni corrispondevano a vere
+divisioni umane, che non solo esistevano allora ma che esistono ancora oggi.
+La Northumbria è ancora una cosa più vera del Northumberland.
+Il Sussex è ancora il Sussex; l'Essex è ancora l'Essex.  E quel terzo
+regno sassone il cui nome non si trova nemmeno sulla mappa,
+il regno di Wessex, è chiamato West Country ed è oggi
+il più reale di tutti.
+
 
 
 <span class="atom-split" data-atom="chapter_04--part_02" data-title="A Short History of England — Chapter 4 (part 2)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="topos/last_stand,archetype/king,motif/cross,motif/nature,motif/time,concept/democracy,concept/despair,concept/faith,concept/history,concept/nature,concept/paradox,concept/self,concept/solitude,form/history,histref/christianity,character/monks"></span>
@@ -8283,6 +8376,71 @@ very energy our barons became our kings.
 --/--
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Che il feudalesimo fosse la caratteristica principale del Medioevo è un luogo comune dell'informazione di moda; ma è di quel tipo che cerca il passato più in Wardour Street che in Watling Street. Del resto, il termine stesso "medievale" viene usato per quasi qualsiasi cosa dall'inglese antico all'epoca vittoriana. Un eminente socialista lo applicò ai nostri armamenti, il che è come applicarlo ai nostri aerei. Allo stesso modo la giusta descrizione del feudalesimo e di quanto esso fosse parte o piuttosto un ostacolo nel principale movimento medievale, viene confusa dai dibattiti attuali su cose assolutamente moderne -- specialmente quella cosa moderna che è l'aristocrazia terriera inglese. Il feudalesimo era quasi l'esatto opposto della squires. Perché il punto cruciale dello squires sta nel fatto che la sua proprietà è assoluta e pacifica. E la definizione stessa del feudalesimo è che esso fosse un possesso, e un possesso per servizio militare. Gli uomini pagavano l'affitto in acciaio anziché in oro, con lance e frecce contro i nemici del loro padrone di casa. Ma anche questi proprietari terrieri non erano tali nel senso moderno; tutti erano praticamente, oltre che teoricamente, [[Well|inquilini]] del [[King|Re]]; e persino lui spesso cadeva in una inferiorità feudale nei confronti di un Papa o di un Imperatore. Chiamarlo semplice possesso per servizio militare può sembrare una semplificazione; ma infatti è proprio qui che non era così semplice come sembra. È precisamente un certo nodo o enigma nella [[Nature|natura]] del feudalesimo ciò che rende metà della lotta della [[history|storia]] europea, ma specialmente della [[history|storia]] inglese.
+
+Esisteva un certo tipo di stato e cultura unico nel suo genere,
+che chiamiamo medievale, per mancanza di una parola migliore,
+e che vediamo nell'arte gotica o nei grandi scolastici.
+Questa cosa in sé era soprattutto logica.
+Il suo stesso culto dell'autorità era una questione di ragione, come tutti gli uomini
+che sanno ragionare riconoscono immediatamente, anche se,
+come Huxley, negano i suoi presupposti o non amano i suoi frutti.
+Essendo logica, era molto precisa su chi detenesse l'autorità.
+Ora il feudalesimo non era del tutto logico e non fu mai
+del tutto preciso su chi detenesse l'autorità. Il feudalesimo già
+fioriva prima che iniziasse la rinascita medievale.
+Fu, se non la foresta che i medievali dovettero sgomberare,
+almeno il grezzo legname con cui dovettero costruire.
+Il feudalesimo fu una crescita combattuta dei secoli bui prima
+del Medioevo; l'età dei barbari resistiti da semi-barbari. Non lo dico per sminuirlo.
+Il feudalesimo era in gran parte una cosa molto umana; il nome più vicino contemporaneo
+era omaggio, una parola che significa quasi umanità.
+D'altra parte la [[logic|logica]] medievale, mai del tutto riconciliata con essa,
+poteva diventare nei suoi estremi disumana. Spesso era solo
+pregiudizio a proteggere gli uomini e pura ragione ad arderli.
+Le unità feudali crebbero attraverso il vivace localismo dei secoli bui,
+quando colline senza strade chiudevano una valle come un presidio.
+Il patriottismo doveva essere parrocchiale; perché gli uomini non avevano una patria, ma solo
+un paesaggio. In tali casi il signore diventava più grande del [[King|re]];
+ma ciò generò non solo un dominio locale ma anche una sorta di libertà locale.
+E sarebbe molto sconsigliabile ignorare l'elemento più libero
+nel feudalesimo nella [[history|storia]] inglese. Perché è l'unica specie
+di [[Freedom|libertà]] che gli inglesi abbiano avuto e mantenuto.
+
+Il nodo del sistema era qualcosa di simile a questo. In teoria il [[King|Re]]
+possedeva tutto, come una [[Providence|providenza]] terrena; e ciò portava al dispotismo
+e al "diritto divino", che significava in sostanza un'autorità naturale.
+In un aspetto il [[King|Re]] era semplicemente l'unico signore unto dalla Chiesa,
+cioè riconosciuto dall'etica dell'epoca. Ma mentre c'era
+più regalità nella teoria, poteva esserci più ribellione nella pratica.
+Combattere era molto più paritario che nella nostra epoca di munizioni, e i vari
+gruppi potevano armarsi quasi istantaneamente con archi dalla foresta o lance
+dal [[smith|fabbro]]. Dove gli uomini sono militari non c'è militarismo.
+Ma è più vitale che mentre il regno era in questo senso un'unica
+armata territoriale, i suoi reggimenti erano anche regni. Le sottounità
+erano anche sottomissioni. Quindi il lealista verso il suo signore poteva essere un [[Rebel|ribelle]]
+verso il suo [[King|re]]; o il [[King|re]] potrebbe essere un demagogo che lo liberava dal signore.
+Questo groviglio è responsabile delle tragiche passioni per il tradimento,
+come nel caso di Guglielmo e Aroldo; l'allegato traditore che si
+scopre sempre ricorrente, eppure sempre sentito come eccezionale.
+Rompere il legame era allo stesso tempo facile e terribile. Il tradimento nel senso
+di ribellione era allora davvero percepito come tradimento nel senso di slealtà,
+poiché era diserzione su un [[Battlefield|campo di battaglia]] perpetuo. Ora, c'era
+ancora più di questa guerra civile nella storia inglese che in altre [[history|storie]],
+e l'energia più locale e meno logica prevalse nel complesso.
+Che ci fosse qualcosa in quelle idiosincrasie insulari, informi
+come nebbie marine, con cui questa storia è iniziata, o se l'impronta romana
+fosse stata davvero più leggera che in Gallia, il sottobosco feudale impedì
+anche un tentativo completo di costruire la Civitas Dei, o lo stato medievale ideale.
+Ciò che emerse fu un compromesso, che molto tempo dopo gli uomini si divertirono
+a chiamare una costituzione.
+
+Ci sono paradossi ammissibili per ristabilire un cattivo equilibrio nella critica, e che possono essere enfatizzati senza rischi finché non vengono isolati. Uno di questi l'ho chiamato all'inizio di questo capitolo la forza dei re deboli. E vi è un suo complemento, anche in questa crisi del dominio normanno, che potrebbe [[Well|ben]] essere chiamata la debolezza dei re forti. Guglielmo il Normanno ebbe successo immediatamente, ma non riuscì pienamente alla fine; nel suo enorme [[success|successo]] c'era un segreto di fallimento che portò i suoi frutti molto tempo dopo la sua [[Death|morte]]. Era certamente il suo unico scopo quello di semplificare l'Inghilterra in una popolare autocrazia, come quella che stava crescendo in Francia; con questo obiettivo sparse i possedimenti feudali in frammenti, chiese un voto diretto dai sub-vassalli a se stesso e usò qualsiasi strumento contro la baronia, dalla più alta cultura degli ecclesiastici stranieri alle più rozze reliquie della consuetudine sassone. Ma proprio il parallelo con la Francia rende lo [[Paradox|paradosso]] sorprendentemente evidente. È un proverbio che i primi re francesi fossero burattini; che il maggiordomo del palazzo fosse in modo assolutamente insolente il [[King|re]] del [[King|re]]. Eppure è certo che il burattino divenne un idolo; un popolare idolo di potere senza pari, davanti al quale tutti i maggiordomi e i nobili si piegarono o furono spezzati. In Francia sorse un governo [[government|governo]] assoluto, tanto più perché non era precisamente un [[government|governo]] personale. Il [[King|Re]] era già una cosa--come la Repubblica. Infatti le repubbliche medievali erano rigide con il diritto divino. Nell'Inghilterra normanna, forse, il [[government|governo]] era troppo personale per essere assoluto. Comunque sia, c'è un senso reale sebbene oscuro in cui Guglielmo il Conquistatore fu Guglielmo il Vinto. Quando i suoi due figli furono morti, l'intero paese cadde in un caos feudale quasi come quello prima della Conquista. In Francia i principi che erano stati schiavi divennero qualcosa di eccezionale come sacerdoti; e uno di loro divenne un santo. Ma per qualche motivo i nostri più grandi re furono ancora baroni; e con quella stessa energia i nostri baroni divennero i nostri re.
+
+--/--
+
 
 
 <span class="atom-split" data-atom="chapter_06--part_01" data-title="A Short History of England — Chapter 6 (part 1)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="topos/double,archetype/ghost,archetype/hero,archetype/monster,archetype/shadow,motif/desert,motif/fire,motif/lion,motif/nature,motif/soul,motif/well,concept/body,concept/conversion,concept/faith,concept/fanaticism,concept/history,concept/nature,concept/paradox,concept/truth,concept/wonder,form/epic,form/history,histref/christianity,histref/crusades,histref/islam,histref/new_england,setting/desert,setting/italy,character/richard"></span>
@@ -8412,6 +8570,80 @@ He will soon learn that it was lately, and in his own lanes
 and homesteads, that the ecstasy of the deserts returned, and his
 bleak northern island was filled with the fury of the Iconoclasts.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+VI
+
+L'EPOCA DELLE [[Crusades|CROCIATE]]
+
+L'ultimo capitolo è iniziato, apparentemente senza motivo, col nome di San Edoardo; e questo potrebbe benissimo cominciare col nome di San Giorgio. Si dice che la sua prima apparizione come patrono del nostro popolo sia avvenuta su richiesta di [[Richard|Riccardo]] Cuor di [[Lion|Leone]] durante la sua campagna in Palestina; e questo, come vedremo, rappresenta veramente una [[New England|nuova Inghilterra]] che potrebbe [[Well|benissimo]] avere un nuovo santo. Ma il Confessore è un personaggio della storia inglese; mentre San Giorgio, a parte il suo posto nella martirologia come soldato romano, non può certo dirsi un personaggio di alcuna [[history|storia]]. E se vogliamo comprendere la più nobile e trascurata delle rivoluzioni umane, difficilmente possiamo avvicinarci a essa meglio che considerando questo [[Paradox|paradosso]], di quanto progresso e illuminazione fossero rappresentati passando così da una cronaca a un [[Romance|romanzo]].
+
+In qualsiasi angolo intellettuale della modernità si può trovare una frase come quella che ho appena letto in una controversia giornalistica: "La salvezza, come altre cose buone, non deve venire dall'esterno." Chiamare una cosa spirituale esterna e non interna è il principale modo di scomunica modernista. Ma se l'oggetto del nostro studio è medievale e non moderno, dobbiamo contrapporre a questa apparente banalità un'idea completamente opposta. Dobbiamo metterci nella posizione di uomini che pensavano che quasi ogni cosa buona venisse dall'esterno - come le buone notizie. Confesso di non essere imparziale nelle mie simpatie; e che la frase giornalistica che ho citato mi sembra un errore riguardo alla stessa [[Nature|natura]] della vita. Non credo, in quanto privato cittadino, che un bambino ottenga il suo miglior nutrimento fisico succhiandosi il pollice; né che un uomo ottenga il suo miglior nutrimento morale succhiando la sua [[Soul|anima]], e negando la sua dipendenza da Dio o da altre cose buone. Sostengo che i ringraziamenti sono la forma più alta di pensiero; e che la gratitudine è felicità [[Double|doppiata]] dal [[Wonder|meraviglia]]. Ma questa [[Faith|fede]] nella ricettività, e nel rispetto per le cose al di fuori di sé stessi, qui non deve fare altro che aiutarmi a spiegare ciò che qualsiasi versione di questo periodo dovrebbe comunque spiegare. In nulla il moderno tedesco è più moderno, o più pazzo, che nel suo sogno di trovare un nome tedesco per tutto; mangiando la sua lingua, o in altre parole mordendosi la lingua. E in nulla i medievali erano più liberi e sani che nell'accettare nomi ed emblemi dall'esterno dei loro limiti più amati. Il monastero spesso non solo accoglieva lo straniero, ma quasi lo canonizzava. Un semplice avventuriero come Bruce veniva innalzato al trono e ringraziato come se fosse davvero arrivato come un cavaliere errante. E una comunità appassionatamente patriottica più spesso che no aveva uno straniero per santo patrono. Così, tra le folle di santi irlandesi, San Patrizio non era un irlandese. Così, mentre gli inglesi gradualmente diventavano una nazione, lasciavano i numerosi santi sassoni in un certo senso alle loro spalle, superando per confronto non solo la santità di Edoardo ma anche la solida fama di Alfredo, e invocavano un eroe mezzo mitico, che lottava in un [[Desert|deserto]] orientale contro un mostro impossibile.
+
+Quella transizione e quel simbolo rappresentano le [[Crusades|crociate]]. Nel loro
+[[Romance|romanzo]] e nella realtà furono la prima esperienza inglese di apprendimento,
+non solo dall'esterno, ma dal lontano. L'Inghilterra, come ogni cosa cristiana,
+aveva prosperato grazie alle cose esterne senza vergogna.
+Dalle strade di Cesare alle chiese di Lanfranc, aveva cercato il suo nutrimento in Dio. Ma ora gli aquili erano in volo,
+fiutando un massacro più lontano; stavano cercando le cose strane invece di riceverle. Gli inglesi erano passati
+dall'accettazione all'avventura, e l'[[Epic|epica]] delle loro navi era iniziata.
+L'ampiezza del grande movimento religioso che travolse l'Inghilterra insieme a tutto l'Occidente distenderebbe un libro come questo in una sproporzione enorme,
+eppure sarebbe molto meglio farlo piuttosto che liquidarlo
+nel modo distante e frigido comune in tali brevi riassunti.
+L'inadeguatezza del nostro metodo insulare nella [[history|storia]] popolare è
+perfettamente dimostrata nel trattamento di [[Richard|Riccardo]] Cuor di [[Lion|Leone]].
+La sua storia viene raccontata con l'implicazione che la sua partenza per la crociata
+fosse qualcosa come la scappatella di un scolaretto che fugge in mare.
+Era, da questo punto di vista, una bravata perdonabile o amabile; mentre nella [[Truth|verità]]
+era più simile a quello di un responsabile inglese che ora va al Fronte.
+La cristianità era quasi una nazione, e il Fronte era la Terra Santa.
+Che lo stesso [[Richard|Riccardo]] fosse di temperamento avventuroso e persino romantico è vero,
+anche se non è irragionevolmente romantico per un soldato di nascita fare il lavoro che fa meglio. Ma il punto dell'argomentazione
+contro la [[history|storia]] insulare è particolarmente illustrato qui dall'
+assenza di un confronto continentale. In questo caso dobbiamo
+solo attraversare lo Stretto di Dover per trovare l'errore.
+Filippo Augusto, contemporaneo di [[Richard|Riccardo]] in Francia, aveva la reputazione
+di uno statista particolarmente cauto e freddamente dedito al bene pubblico;
+eppure Filippo Augusto partì per la stessa crociata. La ragione era,
+naturalmente, che le [[Crusades|crociate]] erano, per tutti gli europei riflessivi,
+cose degne del più alto statismo e dello spirito pubblico più puro.
+
+Circa seicento anni dopo che il [[Christianity|cristianesimo]] nacque in Oriente e si diffuse verso occidente,
+un'altra grande [[Faith|fede]] sorse quasi nelle stesse terre orientali e la seguì come una sua gigantesca [[Shadow|ombra]].
+Come un'[[Shadow|ombra]], era allo stesso tempo una copia e il suo contrario.  La chiamiamo [[Islam]],
+o la fede dei musulmani; e forse la descrizione più esplicativa
+è che fu l'ultimo grande sorgere degli orientalismi accumulati,
+forse degli ebraismi accumulati, gradualmente rifiutati man mano che la Chiesa
+diventava più europea, o il [[Christianity|cristianesimo]] si trasformava in cristianità.
+Il suo movente più alto era l'odio per gli idoli, e nella sua visione l'Incarnazione
+era essa stessa un'idolatria.  Le due cose che perseguiva erano l'idea
+che Dio fosse divenuto carne e che poi fosse stato trasformato in legno o pietra.
+Uno studio delle questioni che bruciano sulle tracce dell'incendio della prateria
+della [[Fire|fiamma]] della conversione cristiana favorisce il suggerimento che questo [[conversion|fanatismo]]
+contro l'arte o la mitologia fosse allo stesso tempo uno sviluppo e una reazione
+a quella [[Fanaticism|conversione]], una sorta di rapporto di minoranza degli ebraisti.
+In questo senso, l'[[conversion|Islam]] era qualcosa come una cristiana eresia.
+Le prime eresie erano piene di folli capovolgimenti ed elusioni
+dell'Incarnazione, salvando il loro Gesù dalla realtà del suo [[Body|corpo]]
+anche a spese della sincerità della sua [[Soul|anima]].
+E gli Iconoclasti greci erano affluiti in [[Italy|Italia]], distruggendo le statue popolari
+e denunciando l'idolatria del Papa, fino a quando furono sconfitti, in uno stile
+abbastanza simbolico, dalla [[Sword|spada]] del padre di Carlo Magno.
+Erano tutte queste negazioni deluse che presero [[Fire|fuoco]] dal genio
+di Maometto e lanciarono dalle terre ardenti una carica di cavalleria
+che quasi conquistò il mondo.  E se si suggerisce che una nota
+su tali origini orientali sia piuttosto lontana da una [[history|storia]] dell'Inghilterra,
+la risposta è che questo libro può, ahimè! contenere molte digressioni,
+ma questa non è una digressione.  È assolutamente necessario
+tenere a mente che questo dio semita perseguitò il [[Christianity|cristianesimo]] come un [[Ghost|fantasma]];
+ricordarlo in ogni angolo europeo, ma specialmente nel nostro.
+Se qualcuno dubita della necessità, faccia una passeggiata a tutte le chiese parrocchiali
+dell'Inghilterra entro un raggio di trenta miglia e chieda perché
+questa vergine di pietra è senza testa o quel vetro colorato è sparito.
+Ben presto saprà che fu recentemente, nelle sue stesse strade
+e case, che l'estasi dei deserti tornò, e la sua
+isola settentrionale desolata si riempì della furia degli Iconoclasti.
 
 
 
