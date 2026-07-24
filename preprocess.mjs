@@ -1862,7 +1862,11 @@ Hai trovato un **errore**, un refuso, un problema, o hai un **suggerimento** su 
     const notFound =
       `---\ntitle: "Pagina non trovata · Not found"\n---\n\n` +
       `<div class="nf-msg"><p><strong>Pagina non trovata.</strong> Reindirizzamento in corso…</p>\n` +
-      `<p><a href="/">Torna alla home</a></p></div>\n\n` +
+      // Drive the home link via onclick (href="#", a same-page fragment) so Quartz does NOT
+      // crawl it as an internal link — otherwise the 404 page becomes a backlink source for
+      // the homepage, leaving a junk "Backlinks" box (only "Pagina non trovata") on a page
+      // that has no real backlinks. The JS redirect above already handles atom/legacy URLs.
+      `<p><a href="#" onclick="location.replace('/');return false;">Torna alla home</a></p></div>\n\n` +
       `<script>\n(function(){\n` +
       `  var p=decodeURIComponent(location.pathname).replace(/\\/index\\.html$/,"").replace(/\\/$/,"");\n` +
       `  var m=p.match(/^(.*)\\/testi\\/([^/]+)\\/(atomized|plays|long)\\/([^/]+)\\/(.+)$/i);\n` +
