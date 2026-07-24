@@ -1778,6 +1778,76 @@ Every chapter, story, scene, section and paragraph-level excerpt across the pros
 `
   await fs.writeFile(path.join(CONTENT, "brani.md"), brani)
 
+  // ---------- Sostieni il sito (PayPal donate) ----------
+  // Reuses the same PayPal business account as the sibling Physics/Mathematics sites
+  // (item_name changed to "Letteratura Inglese"). Static HTML — no client script needed.
+  const sostieni = `---
+title: Sostieni il sito
+description: Se questa raccolta di letteratura inglese ti è utile, puoi lasciare un contributo con PayPal.
+---
+
+Questo sito è **gratuito e senza pubblicità**. Se ti è utile e vuoi contribuire alle spese (dominio, costi di sviluppo), puoi lasciare un piccolo contributo con PayPal. Grazie!
+
+<div style="display:flex;flex-wrap:wrap;gap:12px;margin:26px 0 14px;">
+  <a href="https://www.paypal.com/donate/?business=4ZM48BHWAGTDL&currency_code=EUR&amount=1&item_name=Letteratura+Inglese" target="_blank" rel="noopener" style="flex:1 1 100px;text-align:center;padding:16px 12px;border-radius:10px;background:#ffc439;color:#003087;font-weight:800;font-size:1.1rem;text-decoration:none;box-shadow:0 2px 6px rgba(0,0,0,.15);">1&nbsp;€</a>
+  <a href="https://www.paypal.com/donate/?business=4ZM48BHWAGTDL&currency_code=EUR&amount=2&item_name=Letteratura+Inglese" target="_blank" rel="noopener" style="flex:1 1 100px;text-align:center;padding:16px 12px;border-radius:10px;background:#ffc439;color:#003087;font-weight:800;font-size:1.1rem;text-decoration:none;box-shadow:0 2px 6px rgba(0,0,0,.15);">2&nbsp;€</a>
+  <a href="https://www.paypal.com/donate/?business=4ZM48BHWAGTDL&currency_code=EUR&amount=5&item_name=Letteratura+Inglese" target="_blank" rel="noopener" style="flex:1 1 100px;text-align:center;padding:16px 12px;border-radius:10px;background:#ffc439;color:#003087;font-weight:800;font-size:1.1rem;text-decoration:none;box-shadow:0 2px 6px rgba(0,0,0,.15);">5&nbsp;€</a>
+  <a href="https://www.paypal.com/donate/?business=4ZM48BHWAGTDL&currency_code=EUR&amount=10&item_name=Letteratura+Inglese" target="_blank" rel="noopener" style="flex:1 1 100px;text-align:center;padding:16px 12px;border-radius:10px;background:#ffc439;color:#003087;font-weight:800;font-size:1.1rem;text-decoration:none;box-shadow:0 2px 6px rgba(0,0,0,.15);">10&nbsp;€</a>
+</div>
+
+<p style="font-size:.92rem;"><a href="https://www.paypal.com/donate/?business=4ZM48BHWAGTDL&currency_code=EUR&item_name=Letteratura+Inglese" target="_blank" rel="noopener">↗ Dona un altro importo</a> · il pagamento avviene sui server sicuri di PayPal.</p>
+`
+  await fs.writeFile(path.join(CONTENT, "sostieni.md"), sostieni)
+
+  // ---------- Segnala un errore o dai un suggerimento (email relay) ----------
+  // The form is hydrated by feedbackForm.inline.ts, which POSTs (no-cors, fire-and-forget)
+  // to the shared Google Apps Script mail relay — the message is emailed to the teacher.
+  // No database, no login. Slug -> /feedback (matches the footer link).
+  const feedback = `---
+title: Segnala un errore o dai un suggerimento
+description: Segnala errori o proponi miglioramenti — il messaggio arriva direttamente al docente.
+---
+
+<style>
+.eng-feedback{display:flex;flex-direction:column;gap:14px;max-width:640px;margin:22px 0;}
+.eng-feedback .eng-field{display:flex;flex-direction:column;gap:5px;font-size:.92rem;flex:1;}
+.eng-feedback .eng-row{display:flex;flex-wrap:wrap;gap:14px;}
+.eng-feedback textarea,.eng-feedback input{font:inherit;padding:10px 12px;border:1px solid var(--lightgray);border-radius:8px;background:var(--light);color:var(--dark);width:100%;box-sizing:border-box;}
+.eng-feedback textarea:focus,.eng-feedback input:focus{outline:2px solid var(--secondary);border-color:var(--secondary);}
+.eng-feedback button{align-self:flex-start;padding:10px 20px;border:0;border-radius:8px;background:var(--secondary);color:#fff;font-weight:700;font-size:1rem;cursor:pointer;}
+.eng-feedback button:disabled{opacity:.5;cursor:default;}
+.eng-feedback em{color:var(--secondary);font-style:normal;}
+#eng-fb-status{margin:0;font-size:.92rem;}
+#eng-fb-status.fb-ok{color:#1a7f37;}
+#eng-fb-status.fb-err{color:#b00020;}
+.eng-privacy{font-size:.86rem;opacity:.75;}
+</style>
+
+Hai trovato un **errore**, un refuso, un problema, o hai un **suggerimento** su cosa migliorare o aggiungere? Scrivimi qui sotto — leggo tutti i messaggi.
+
+<form id="eng-feedback-form" class="eng-feedback" autocomplete="off">
+  <label class="eng-field">
+    <span>Messaggio <em>*</em></span>
+    <textarea name="message" rows="6" required placeholder="Es. nell'opera … c'è un refuso / un link rotto / un errore di traduzione…"></textarea>
+  </label>
+  <div class="eng-row">
+    <label class="eng-field">
+      <span>Nome <small>(facoltativo)</small></span>
+      <input name="name" type="text" placeholder="Come ti chiami">
+    </label>
+    <label class="eng-field">
+      <span>Email <small>(facoltativa, se vuoi risposta)</small></span>
+      <input name="email" type="email" placeholder="tua@email.it">
+    </label>
+  </div>
+  <button type="submit">Invia messaggio</button>
+  <p id="eng-fb-status" aria-live="polite"></p>
+</form>
+
+<p class="eng-privacy">Il messaggio viene inviato al docente via email. Non serve accedere. Nessun dato viene condiviso con terzi.</p>
+`
+  await fs.writeFile(path.join(CONTENT, "feedback.md"), feedback)
+
   // SPA backward-compat: old per-atom URLs (/testi/<author>/<sub>/<work>/<chapter>/
   // <part>) no longer exist as pages. Emit a 404 that rewrites any such path to the
   // work's single page + atom fragment (/testi/<author>/<sub>/<work>#<chapter>--<part>),

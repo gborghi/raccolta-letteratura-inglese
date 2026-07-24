@@ -195,6 +195,8 @@ plugins:
         grow: true
   - source: github:quartz-community/backlinks
     enabled: true
+    options:
+      hideWhenEmpty: true
     layout:
       position: right
       priority: 30
@@ -248,8 +250,10 @@ plugins:
     enabled: true
     options:
       links:
+        "❤ Sostieni il sito": /sostieni
+        "Segnala un errore o dai un suggerimento": /feedback
+        "Giovanni Borghi": https://independent.academia.edu/BorghiGiovanni
         GitHub: https://github.com/gborghi/raccolta-letteratura-inglese
-        Quartz: https://quartz.jzhao.xyz/
   - source: github:quartz-community/recent-notes
     enabled: false
   - source: github:quartz-community/spacer

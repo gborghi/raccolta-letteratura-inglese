@@ -26,6 +26,8 @@ import searchDepthScript from "../../components/scripts/searchDepth.inline"
 import atomRouterScript from "../../components/scripts/atomRouter.inline"
 // @ts-ignore
 import sidebarToggleScript from "../../components/scripts/sidebarToggle.inline"
+// @ts-ignore
+import feedbackFormScript from "../../components/scripts/feedbackForm.inline"
 import styles from "../../styles/custom.scss"
 import popoverStyle from "../../components/styles/popover.scss"
 import { BuildCtx } from "../../util/ctx"
@@ -139,6 +141,9 @@ function addGlobalPageResources(ctx: BuildCtx, componentResources: ComponentReso
     // mobile Explorer drawer). Pushed AFTER atomRouter so its "nav" listener runs after
     // atomRouter has set/cleared body.reading-page (see sidebarToggle.inline.ts).
     sidebarToggleScript,
+    // Feedback form on /feedback: fire-and-forget POST to the GAS mail relay. No-ops on
+    // every other page (see feedbackForm.inline.ts).
+    feedbackFormScript,
   )
 
   if (cfg.analytics?.provider === "google") {
