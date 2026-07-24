@@ -8,7 +8,7 @@ configuration:
     provider: goatcounter
     websiteId: gborghi83
   locale: en-US
-  baseUrl: gborghi.github.io/raccolta-letteratura-inglese
+  baseUrl: letteratura-inglese.pages.dev
   ignorePatterns:
     - private
     - templates
@@ -166,7 +166,7 @@ plugins:
       # settings, topoi, clusters, historical references, etc. "tags" also hidden.
       # Passed as a stringified arrow fn: the plugin serializes filterFn via
       # .toString() and the client rebuilds it with new Function().
-      filterFn: '(node) => node.slugSegment !== "tags" && node.slugSegment !== "testi" && node.slugSegment !== "works" && node.slugSegment !== "404"'
+      filterFn: '(node) => !["tags", "testi", "works", "404", "opere", "brani", "sostieni", "feedback"].includes(node.slugSegment)'
       folderDefaultState: collapsed
       folderClickBehavior: link
     layout:
