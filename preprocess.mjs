@@ -540,6 +540,21 @@ function plainForSearch(md) {
 // chrome preprocess bakes into a standalone unit page (nav, in-section child list,
 // qlang switch, readability box, and the leading "# [[..]]" H1), leaving only text.
 // The EN side needs no stripping — it is built from the clean source body directly.
+// Escape the alias-pipe of wikilinks that sit inside a markdown table row, so the GFM
+// tokenizer does not read `[[Witch|STREGA]]`'s pipe as a column divider — which splits the
+// cell in half and leaves the link malformed, rendering as literal "[[Witch" text. The
+// backslash is invisible to Quartz's wikilink regex, so the TARGET is untouched (this is a
+// display-time escape only; the vault keeps the unescaped form, where an escaped pipe would
+// change the link target).
+//
+// The EN side has done this since the plays were added. The IT side needs it too, and did
+// not have it: while every translation was prose there were no tables to break.
+function escapeTableAliasPipes(s) {
+  return s.replace(/^\|.*$/gm, (row) =>
+    row.replace(/\[\[([^\]|]+)\|([^\]]*)\]\]/g, "[[$1\\|$2]]"),
+  )
+}
+
 function stripUnitChrome(s) {
   return s
     .replace(/<div class="qlang-switch"[^>]*><\/div>/g, "")
@@ -766,10 +781,12 @@ async function publishUnits(rawSourceToWork, translations = new Map(), sourceTag
             }
             const unitRel = `${TESTI_REL}/${author}/${sub}/${it.relU}`.toLowerCase()
             const tr = translations.get(unitRel)
-            if (tr)
-              block +=
-                `\n\n<span class="qlang-split" data-lang="it"></span>\n\n` +
-                normalizeProse(stripUnitChrome(tr.body_it || ""))
+            if (tr) {
+              const itBody = escapeTableAliasPipes(
+                normalizeProse(stripUnitChrome(tr.body_it || "")),
+              )
+              block += `\n\n<span class="qlang-split" data-lang="it"></span>\n\n` + itBody
+            }
             blocks.push(block)
 
             // indexes (Brani / cerca / #17 / work-note TOC) point at the fragment url
@@ -958,7 +975,10 @@ async function publishUnits(rawSourceToWork, translations = new Map(), sourceTag
           if (tr) {
             // One bilingual page; the toggle swaps EN/IT client-side (no sibling
             // page, no navigation).
-            await fs.writeFile(dest, fm + bilingualBody(outBody, tr.body_it || outBody))
+            await fs.writeFile(
+              dest,
+              fm + bilingualBody(outBody, escapeTableAliasPipes(tr.body_it || outBody)),
+            )
           } else {
             await fs.writeFile(dest, fm + outBody)
           }
@@ -1314,7 +1334,7 @@ async function main() {
     await fs.mkdir(path.dirname(dest), { recursive: true })
     const trPage = translations.get(relU.toLowerCase())
     if (trPage) {
-      let itBody = trPage.body_it || newContent
+      let itBody = escapeTableAliasPipes(trPage.body_it || newContent)
       if (workTocMd) {
         itBody = itBody.replace(/\n##\s+Chapters \/ scenes \/ sections[\s\S]*?(?=\n##\s|$)/, "")
         itBody = /\n##\s+Connections/.test(itBody)

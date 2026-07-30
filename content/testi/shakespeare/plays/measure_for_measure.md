@@ -1272,27 +1272,27 @@ Measure for Measure
 
 | Chi parla | Battuta |
 |---|---|
-| *(didascalia)* | Entrano il Duca, [[Escalus|Escalo]] e altri signori DUCA [[Escalus|Escalo]]. |
-| [[Escalus|ESCALO]] | Mio signore. |
-| DUCA | Del [[government|governo]] esporre le proprietà<br>parrebbe in me ostentare eloquio e discorso,<br>poiché mi è dato sapere che la vostra scienza<br>in ciò eccede i confini d’ogni consiglio<br>che la mia facoltà vi possa dare. Altro non resta<br>che questo: alla vostra sufficienza, come il vostro merito consente,<br>e lasciate che operino. La [[Nature|natura]] del nostro popolo,<br>le istituzioni della nostra [[City|città]] e i termini<br>della giustizia comune, ne siete gravido<br>quanto arte ed esperienza n’hanno arricchito alcuno<br>di cui serbiamo memoria.<br>Consegna a [[Escalus|Escalo]] delle carte<br>Ecco la nostra commissione,<br>dalla quale non vorremmo che deviaste.<br>(A un signore) Chiamate qui,<br>dico, fate venire innanzi a noi, [[Angelo]]. Esce il signore<br><br>(A [[Escalus|Escalo]]) Quale figura di noi credete ch’egli<br>porterà?—<br>Ché dovete sapere che con speciale [[Soul|animo]]<br>l’abbiamo eletto a supplire la nostra assenza,<br>gli abbiamo prestato il nostro terrore, vestito del nostro [[Love|amore]],<br>e dato alla sua delega tutti gli organi<br>del nostro proprio potere. Che ve ne pare? |
-| [[Escalus|ESCALO]] | Se alcuno in Vienna è degno<br>di sostenere sì ampia grazia e [[Honour|onore]],<br>è il signor [[Angelo]]. |
+| *(didascalia)* | Entrano il Duca, [[Escalus\|Escalo]] e altri signori DUCA [[Escalus\|Escalo]]. |
+| [[Escalus\|ESCALO]] | Mio signore. |
+| DUCA | Del [[government\|governo]] esporre le proprietà<br>parrebbe in me ostentare eloquio e discorso,<br>poiché mi è dato sapere che la vostra scienza<br>in ciò eccede i confini d’ogni consiglio<br>che la mia facoltà vi possa dare. Altro non resta<br>che questo: alla vostra sufficienza, come il vostro merito consente,<br>e lasciate che operino. La [[Nature\|natura]] del nostro popolo,<br>le istituzioni della nostra [[City\|città]] e i termini<br>della giustizia comune, ne siete gravido<br>quanto arte ed esperienza n’hanno arricchito alcuno<br>di cui serbiamo memoria.<br>Consegna a [[Escalus\|Escalo]] delle carte<br>Ecco la nostra commissione,<br>dalla quale non vorremmo che deviaste.<br>(A un signore) Chiamate qui,<br>dico, fate venire innanzi a noi, [[Angelo]]. Esce il signore<br><br>(A [[Escalus\|Escalo]]) Quale figura di noi credete ch’egli<br>porterà?—<br>Ché dovete sapere che con speciale [[Soul\|animo]]<br>l’abbiamo eletto a supplire la nostra assenza,<br>gli abbiamo prestato il nostro terrore, vestito del nostro [[Love\|amore]],<br>e dato alla sua delega tutti gli organi<br>del nostro proprio potere. Che ve ne pare? |
+| [[Escalus\|ESCALO]] | Se alcuno in Vienna è degno<br>di sostenere sì ampia grazia e [[Honour\|onore]],<br>è il signor [[Angelo]]. |
 | *(didascalia)* | Entra [[Angelo]] |
 | DUCA | Ecco, guardate, viene. |
-| [[Angelo|ANGELO]] | Sempre obbediente al volere di vostra grazia,<br>vengo a conoscere il vostro piacere. |
-| DUCA | [[Angelo]],<br>v’è una sorta d’impronta nella tua vita<br>che all’osservatore la tua [[history|storia]]<br>pienamente dispiega. Te stesso e ciò che ti appartiene<br>non son tuoi tanto propriamente da sprecare<br>te sulle tue virtù, o quelle su di te.<br>Il cielo fa con noi come noi con le torce,<br>non le accende per se stesse; ché se le nostre virtù<br>non uscissero da noi, sarebbe tutt’uno<br>come se non le avessimo. Gli spiriti non son finemente tocchi<br>se non a fini scopi; né mai la [[Nature|natura]] presta<br>il più piccolo scrupolo della sua eccellenza<br>senza che, dea parsimoniosa, ella si destini<br>la gloria d’un creditore,<br>e grazie e interesse. Ma 1 volgo il mio discorso<br>a uno che sa in sé dichiarare la mia parte.<br>Prendi dunque, [[Angelo]].<br>Nella nostra assenza sii pienamente noi stessi.<br>[[Mortality|Morte]] e [[Mercy|misericordia]] in Vienna<br>vivano nella tua lingua e nel tuo cuore. Il vecchio [[Escalus|Escalo]],<br>benché primo interpellato, ti è secondo.<br>Prendi la tua commissione. |
-| [[Angelo|ANGELO]] | Ora, mio buon signore,<br>si faccia qualche altra prova del mio metallo<br>prima che sì nobile e sì grande effigie<br>vi sia impressa sopra. |
+| [[Angelo\|ANGELO]] | Sempre obbediente al volere di vostra grazia,<br>vengo a conoscere il vostro piacere. |
+| DUCA | [[Angelo]],<br>v’è una sorta d’impronta nella tua vita<br>che all’osservatore la tua [[history\|storia]]<br>pienamente dispiega. Te stesso e ciò che ti appartiene<br>non son tuoi tanto propriamente da sprecare<br>te sulle tue virtù, o quelle su di te.<br>Il cielo fa con noi come noi con le torce,<br>non le accende per se stesse; ché se le nostre virtù<br>non uscissero da noi, sarebbe tutt’uno<br>come se non le avessimo. Gli spiriti non son finemente tocchi<br>se non a fini scopi; né mai la [[Nature\|natura]] presta<br>il più piccolo scrupolo della sua eccellenza<br>senza che, dea parsimoniosa, ella si destini<br>la gloria d’un creditore,<br>e grazie e interesse. Ma 1 volgo il mio discorso<br>a uno che sa in sé dichiarare la mia parte.<br>Prendi dunque, [[Angelo]].<br>Nella nostra assenza sii pienamente noi stessi.<br>[[Mortality\|Morte]] e [[Mercy\|misericordia]] in Vienna<br>vivano nella tua lingua e nel tuo cuore. Il vecchio [[Escalus\|Escalo]],<br>benché primo interpellato, ti è secondo.<br>Prendi la tua commissione. |
+| [[Angelo\|ANGELO]] | Ora, mio buon signore,<br>si faccia qualche altra prova del mio metallo<br>prima che sì nobile e sì grande effigie<br>vi sia impressa sopra. |
 | DUCA | Basta con le evasioni.<br>Con scelta matura e ponderata<br>siam venuti a voi; prendete dunque i vostri onori. |
 | *(didascalia)* | [[Angelo]] prende la sua commissione |
-| DUCA | La nostra fretta di partire è di natura sì rapida<br>che si antepone, e [[Leaves|lascia]] inesaminate<br>materie di necessario valore. Vi scriveremo,<br>come il [[Time|tempo]] e i nostri interessi c’incalzeranno,<br>di come ci vada; e attendiamo di sapere<br>che cosa qui vi accada. Dunque state [[Well|bene]].<br>Alla speranzosa esecuzione vi lascio<br>delle vostre commissioni. |
-| [[Angelo|ANGELO]] | Pure concedete, mio signore,<br>che possiamo accompagnarvi un tratto di via. |
-| DUCA | La mia fretta non lo consente;<br>né v’occorre, sul mio [[Honour|onore]], aver che fare<br>con alcuno scrupolo. Il vostro potere è pari al mio,<br>così da applicare o temperare le leggi<br>come alla vostra [[Soul|anima]] parrà bene. Datemi la mano.<br>Me n’andrò di nascosto. [[Love|Amo]] il popolo,<br>ma non mi piace esibirmi ai suoi occhi.<br>Benché stia [[Well|bene]], non gusto [[Well|bene]]<br>i suoi rumorosi applausi e i veementi evviva;<br>né stimo uomo di sicura discrezione<br>colui che li ricerca. Ancora una volta, state [[Well|bene]]. |
-| [[Angelo|ANGELO]] | I cieli diano sicurezza ai vostri disegni! |
-| [[Escalus|ESCALO]] | Vi guidino e vi riconducano in felicità! |
-| DUCA | Vi ringrazio. State [[Well|bene]]. |
+| DUCA | La nostra fretta di partire è di natura sì rapida<br>che si antepone, e [[Leaves\|lascia]] inesaminate<br>materie di necessario valore. Vi scriveremo,<br>come il [[Time\|tempo]] e i nostri interessi c’incalzeranno,<br>di come ci vada; e attendiamo di sapere<br>che cosa qui vi accada. Dunque state [[Well\|bene]].<br>Alla speranzosa esecuzione vi lascio<br>delle vostre commissioni. |
+| [[Angelo\|ANGELO]] | Pure concedete, mio signore,<br>che possiamo accompagnarvi un tratto di via. |
+| DUCA | La mia fretta non lo consente;<br>né v’occorre, sul mio [[Honour\|onore]], aver che fare<br>con alcuno scrupolo. Il vostro potere è pari al mio,<br>così da applicare o temperare le leggi<br>come alla vostra [[Soul\|anima]] parrà bene. Datemi la mano.<br>Me n’andrò di nascosto. [[Love\|Amo]] il popolo,<br>ma non mi piace esibirmi ai suoi occhi.<br>Benché stia [[Well\|bene]], non gusto [[Well\|bene]]<br>i suoi rumorosi applausi e i veementi evviva;<br>né stimo uomo di sicura discrezione<br>colui che li ricerca. Ancora una volta, state [[Well\|bene]]. |
+| [[Angelo\|ANGELO]] | I cieli diano sicurezza ai vostri disegni! |
+| [[Escalus\|ESCALO]] | Vi guidino e vi riconducano in felicità! |
+| DUCA | Vi ringrazio. State [[Well\|bene]]. |
 | *(didascalia)* | Esce |
-| [[Escalus|ESCALO]] | Vi [[Desire|chiederò]], signore, di concedermi licenza<br>d’un libero colloquio con voi; e m’importa<br>di guardare in [[Bottom|fondo]] al mio ufficio.<br>Un potere l’ho, ma di quale forza e [[Nature|natura]]<br>non sono ancora istruito. |
-| [[Angelo|ANGELO]] | Così è per me. Ritiriamoci insieme,<br>e presto potremo avere soddisfazione<br>intorno a quel punto. |
-| [[Escalus|ESCALO]] | Sarò al servizio di vostro [[Honour|onore]]. |
+| [[Escalus\|ESCALO]] | Vi [[Desire\|chiederò]], signore, di concedermi licenza<br>d’un libero colloquio con voi; e m’importa<br>di guardare in [[Bottom\|fondo]] al mio ufficio.<br>Un potere l’ho, ma di quale forza e [[Nature\|natura]]<br>non sono ancora istruito. |
+| [[Angelo\|ANGELO]] | Così è per me. Ritiriamoci insieme,<br>e presto potremo avere soddisfazione<br>intorno a quel punto. |
+| [[Escalus\|ESCALO]] | Sarò al servizio di vostro [[Honour\|onore]]. |
 | *(didascalia)* | Escono |
 
 
@@ -1398,94 +1398,94 @@ Measure for Measure
 | Chi parla | Battuta |
 |---|---|
 | *(didascalia)* | Entrano [[Lucio]] e altri due Gentiluomini |
-| [[Lucio|LUCIO]] | Se il Duca con gli altri duchi non viene a patti col [[King|Re]] d’Ungheria, ebbene, tutti i duchi piomberanno addosso al [[King|Re]]. |
-| PRIMO GENTILUOMO | Il cielo ci conceda la sua pace, ma non quella del [[King|Re]] d’Ungheria! |
+| [[Lucio\|LUCIO]] | Se il Duca con gli altri duchi non viene a patti col [[King\|Re]] d’Ungheria, ebbene, tutti i duchi piomberanno addosso al [[King\|Re]]. |
+| PRIMO GENTILUOMO | Il cielo ci conceda la sua pace, ma non quella del [[King\|Re]] d’Ungheria! |
 | SECONDO GENTILUOMO | Amen. |
-| [[Lucio|LUCIO]] | Concludi come quel pirata bigotto che prese il mare coi Dieci Comandamenti, ma ne raschiò via uno dalla tavola. |
+| [[Lucio\|LUCIO]] | Concludi come quel pirata bigotto che prese il mare coi Dieci Comandamenti, ma ne raschiò via uno dalla tavola. |
 | SECONDO GENTILUOMO | ‘Non rubare’? |
-| [[Lucio|LUCIO]] | Sì, proprio quello cancellò. |
-| PRIMO GENTILUOMO | Già, era un comandamento che distoglieva il capitano e tutti gli altri dalle loro funzioni: prendevano il mare per rubare. Non c’è un soldato fra noi tutti che, nel ringraziamento prima del pasto, gusti [[Well|bene]] la petizione che prega per la pace. 16 |
+| [[Lucio\|LUCIO]] | Sì, proprio quello cancellò. |
+| PRIMO GENTILUOMO | Già, era un comandamento che distoglieva il capitano e tutti gli altri dalle loro funzioni: prendevano il mare per rubare. Non c’è un soldato fra noi tutti che, nel ringraziamento prima del pasto, gusti [[Well\|bene]] la petizione che prega per la pace. 16 |
 | SECONDO GENTILUOMO | Non ho mai sentito un soldato che l’avesse in uggia. |
-| [[Lucio|LUCIO]] | Ti credo, ché penso tu non sia mai stato dove si dicesse il benedicite. |
+| [[Lucio\|LUCIO]] | Ti credo, ché penso tu non sia mai stato dove si dicesse il benedicite. |
 | SECONDO GENTILUOMO | No? Una dozzina di volte almeno. 20 |
 | PRIMO GENTILUOMO | Come, in metro? |
-| [[Lucio|LUCIO]] | In qualsiasi misura, o in qualsiasi lingua. |
+| [[Lucio\|LUCIO]] | In qualsiasi misura, o in qualsiasi lingua. |
 | PRIMO GENTILUOMO | Penso, o in qualsiasi religione. |
-| [[Lucio|LUCIO]] | Sì, perché no? La grazia è grazia a dispetto d’ogni controversia; come per esempio, tu stesso sei un malvagio [[Villain|furfante]] a dispetto d’ogni grazia. |
-| PRIMO GENTILUOMO | [[Well|Bene]], fra noi due non è passato che un paio di forbici. |
-| [[Lucio|LUCIO]] | Concedo—come può passare fra la cimosa e il velluto. Tu sei la cimosa. |
+| [[Lucio\|LUCIO]] | Sì, perché no? La grazia è grazia a dispetto d’ogni controversia; come per esempio, tu stesso sei un malvagio [[Villain\|furfante]] a dispetto d’ogni grazia. |
+| PRIMO GENTILUOMO | [[Well\|Bene]], fra noi due non è passato che un paio di forbici. |
+| [[Lucio\|LUCIO]] | Concedo—come può passare fra la cimosa e il velluto. Tu sei la cimosa. |
 | PRIMO GENTILUOMO | E tu il velluto. Sei buon velluto, sei una pezza a tre peli, te lo garantisco. Preferirei essere cimosa d’una rascia inglese che essere peloso come tu sei pelato, per un velluto francese. Parlo con sentimento, adesso? |
-| [[Lucio|LUCIO]] | Credo di sì, e invero con dolorosissimo sentimento del tuo stesso discorso. Dalla tua propria confessione imparerò a brindare alla tua salute, ma finché vivo mi scorderò di bere dopo di te. |
+| [[Lucio\|LUCIO]] | Credo di sì, e invero con dolorosissimo sentimento del tuo stesso discorso. Dalla tua propria confessione imparerò a brindare alla tua salute, ma finché vivo mi scorderò di bere dopo di te. |
 | PRIMO GENTILUOMO | Credo d’aver fatto torto a me stesso, non è vero? 40 |
 | SECONDO GENTILUOMO | Sì, l’hai fatto, che tu sia infetto o sano. |
 | *(didascalia)* | Entra Mistress Overdone |
-| [[Lucio|LUCIO]] | Guardate, guardate, ecco che viene Madama Mitigazione! Ho comprato sotto il suo tetto tante malattie da arrivare a—45 |
+| [[Lucio\|LUCIO]] | Guardate, guardate, ecco che viene Madama Mitigazione! Ho comprato sotto il suo tetto tante malattie da arrivare a—45 |
 | SECONDO GENTILUOMO | A quanto, di grazia? |
-| [[Lucio|LUCIO]] | Indovina. |
+| [[Lucio\|LUCIO]] | Indovina. |
 | SECONDO GENTILUOMO | A tremila dolori l’anno? |
 | PRIMO GENTILUOMO | Sì, e di più. |
-| [[Lucio|LUCIO]] | Una [[Crown|corona]] francese di più. |
+| [[Lucio\|LUCIO]] | Una [[Crown\|corona]] francese di più. |
 | PRIMO GENTILUOMO | Tu vai sempre figurandoti malattie in me, ma sei pieno d’errore—io sono sano. |
-| [[Lucio|LUCIO]] | No, non sano come si direbbe, ma sonoro come le cose che son vuote—le tue ossa son vuote, l’empietà ha fatto banchetto di te. |
+| [[Lucio\|LUCIO]] | No, non sano come si direbbe, ma sonoro come le cose che son vuote—le tue ossa son vuote, l’empietà ha fatto banchetto di te. |
 | PRIMO GENTILUOMO | (a Mistress Overdone) Ebbene, quale delle vostre anche ha la sciatica più profonda? |
-| MISTRESS OVERDONE | [[Well|Bene]], [[Well|bene]]! Ce n’è uno laggiù, arrestato e portato in [[Prison|prigione]], che valeva cinquemila di voi tutti. |
+| MISTRESS OVERDONE | [[Well\|Bene]], [[Well\|bene]]! Ce n’è uno laggiù, arrestato e portato in [[Prison\|prigione]], che valeva cinquemila di voi tutti. |
 | SECONDO GENTILUOMO | Chi è, ti prego? |
 | MISTRESS OVERDONE | Perbacco, signore, è [[Claudio]], messer [[Claudio]]. |
-| PRIMO GENTILUOMO | [[Claudio]] in [[Prison|prigione]]? Non è così. |
+| PRIMO GENTILUOMO | [[Claudio]] in [[Prison\|prigione]]? Non è così. |
 | MISTRESS OVERDONE | No, ma io so che è così. L’ho visto arrestare, l’ho visto portar via; e per di più, entro tre giorni gli sarà mozzata la testa. |
-| [[Lucio|LUCIO]] | Ma dopo tutte queste burle, non vorrei che fosse così. Ne sei sicura? |
-| MISTRESS OVERDONE | Ne sono fin troppo sicura, ed è per aver reso madonna Julietta gravida d’un [[Child|figlio]]. |
-| [[Lucio|LUCIO]] | Credimi, può darsi. Aveva promesso d’incontrarmi due ore fa, ed è sempre stato preciso nel mantenere le promesse. |
+| [[Lucio\|LUCIO]] | Ma dopo tutte queste burle, non vorrei che fosse così. Ne sei sicura? |
+| MISTRESS OVERDONE | Ne sono fin troppo sicura, ed è per aver reso madonna Julietta gravida d’un [[Child\|figlio]]. |
+| [[Lucio\|LUCIO]] | Credimi, può darsi. Aveva promesso d’incontrarmi due ore fa, ed è sempre stato preciso nel mantenere le promesse. |
 | SECONDO GENTILUOMO | Inoltre, sapete, s’accorda assai col discorso che facemmo a tale proposito. |
 | PRIMO GENTILUOMO | Ma soprattutto concorda con la proclamazione. |
-| [[Lucio|LUCIO]] | Via; andiamo a sapere la [[Truth|verità]] della cosa. |
+| [[Lucio\|LUCIO]] | Via; andiamo a sapere la [[Truth\|verità]] della cosa. |
 | *(didascalia)* | Escono [[Lucio]] e i Gentiluomini |
-| MISTRESS OVERDONE | Così, fra la guerra, fra il sudore, fra la forca e fra la [[Poverty|povertà]], mi si è ristretta la clientela. |
-| *(didascalia)* | Entra [[Pompey|Pompeo]] |
+| MISTRESS OVERDONE | Così, fra la guerra, fra il sudore, fra la forca e fra la [[Poverty\|povertà]], mi si è ristretta la clientela. |
+| *(didascalia)* | Entra [[Pompey\|Pompeo]] |
 | MISTRESS OVERDONE | Ebbene, che notizie porti? |
-| [[Pompey|POMPEO]] | Non avete sentito della proclamazione, vero? |
+| [[Pompey\|POMPEO]] | Non avete sentito della proclamazione, vero? |
 | MISTRESS OVERDONE | Quale proclamazione, uomo? |
-| [[Pompey|POMPEO]] | Tutte le case nei sobborghi di Vienna devono essere abbattute. |
-| MISTRESS OVERDONE | E che ne sarà di quelle in [[City|città]]? |
-| [[Pompey|POMPEO]] | Resteranno in piedi per far semenza. Sarebbero cadute anche quelle, se un savio borghese non avesse perorato per loro. |
+| [[Pompey\|POMPEO]] | Tutte le case nei sobborghi di Vienna devono essere abbattute. |
+| MISTRESS OVERDONE | E che ne sarà di quelle in [[City\|città]]? |
+| [[Pompey\|POMPEO]] | Resteranno in piedi per far semenza. Sarebbero cadute anche quelle, se un savio borghese non avesse perorato per loro. |
 | MISTRESS OVERDONE | Ma tutte le nostre case di ritrovo nei sobborghi saranno buttate giù? |
-| [[Pompey|POMPEO]] | Al suolo, padrona. |
+| [[Pompey\|POMPEO]] | Al suolo, padrona. |
 | MISTRESS OVERDONE | Ecco davvero un bel cambiamento nello Stato. Che ne sarà di me? |
-| [[Pompey|POMPEO]] | Via, non [[Fear|temete]]. I buoni avvocati non mancano di clienti. Anche se cambiate luogo, non occorre che cambiate mestiere. Sarò ancora il vostro spillatore. [[Courage|Coraggio]], avranno pietà di voi. Voi che vi siete consumata quasi gli occhi nel servizio, sarete presa in considerazione. |
+| [[Pompey\|POMPEO]] | Via, non [[Fear\|temete]]. I buoni avvocati non mancano di clienti. Anche se cambiate luogo, non occorre che cambiate mestiere. Sarò ancora il vostro spillatore. [[Courage\|Coraggio]], avranno pietà di voi. Voi che vi siete consumata quasi gli occhi nel servizio, sarete presa in considerazione. |
 | *(didascalia)* | Rumore all’interno |
 | MISTRESS OVERDONE | Che c’è da fare qui, Tommaso Spillatore?<br>Ritiriamoci! |
-| *(didascalia)* | Entrano il Prevosto, [[Claudio]], [[Juliet|Giulietta]] e ufficiali; [[Lucio]] e i due Gentiluomini |
-| [[Pompey|POMPEO]] | Ecco che viene messer [[Claudio]], condotto in [[Prison|prigione]] dal Prevosto; e là c’è madonna [[Juliet|Giulietta]]. |
-| *(didascalia)* | Escono Mistress Overdone e [[Pompey|Pompeo]] |
-| [[Claudio|CLAUDIO]] | (al Prevosto)<br>Amico, perché mi mostri così al mondo?<br>Portami in [[Prison|prigione]], dove sono consegnato. |
+| *(didascalia)* | Entrano il Prevosto, [[Claudio]], [[Juliet\|Giulietta]] e ufficiali; [[Lucio]] e i due Gentiluomini |
+| [[Pompey\|POMPEO]] | Ecco che viene messer [[Claudio]], condotto in [[Prison\|prigione]] dal Prevosto; e là c’è madonna [[Juliet\|Giulietta]]. |
+| *(didascalia)* | Escono Mistress Overdone e [[Pompey\|Pompeo]] |
+| [[Claudio\|CLAUDIO]] | (al Prevosto)<br>Amico, perché mi mostri così al mondo?<br>Portami in [[Prison\|prigione]], dove sono consegnato. |
 | PREVOSTO | Non lo faccio per mala disposizione,<br>ma per speciale ordine del signor [[Angelo]]. |
-| [[Claudio|CLAUDIO]] | Così il semidio Autorità può<br>farci pagare per la nostra colpa, a peso,<br>i debiti del cielo. Su chi vuole, vuole;<br>su chi non vuole, no; e pure è giusto. |
-| [[Lucio|LUCIO]] | Ebbene, come va, [[Claudio]]? Donde viene questa<br>costrizione? |
-| [[Claudio|CLAUDIO]] | Da troppa libertà, mio [[Lucio]], libertà.<br>Come la crapula è padre di molto digiuno,<br>così ogni licenza, per l’uso smodato,<br>si volge in costrizione. Le nostre nature inseguono,<br>come topi che divorano il proprio veleno,<br>un male assetante; e quando beviamo, moriamo. |
-| [[Lucio|LUCIO]] | Se sapessi parlare così saggiamente sotto arresto, manderei a chiamare certi miei creditori. E tuttavia, a dire la [[Truth|verità]], preferirei la scempiaggine della [[Freedom|libertà]] alla [[morality|moralità]] della [[Imprisonment|prigionia]]. Qual è la tua colpa, [[Claudio]]? |
-| [[Claudio|CLAUDIO]] | Tale che il solo parlarne offenderebbe di nuovo. |
-| [[Lucio|LUCIO]] | Come, è omicidio? |
-| [[Claudio|CLAUDIO]] | No. |
-| [[Lucio|LUCIO]] | Lussuria? |
-| [[Claudio|CLAUDIO]] | Chiamala così. |
+| [[Claudio\|CLAUDIO]] | Così il semidio Autorità può<br>farci pagare per la nostra colpa, a peso,<br>i debiti del cielo. Su chi vuole, vuole;<br>su chi non vuole, no; e pure è giusto. |
+| [[Lucio\|LUCIO]] | Ebbene, come va, [[Claudio]]? Donde viene questa<br>costrizione? |
+| [[Claudio\|CLAUDIO]] | Da troppa libertà, mio [[Lucio]], libertà.<br>Come la crapula è padre di molto digiuno,<br>così ogni licenza, per l’uso smodato,<br>si volge in costrizione. Le nostre nature inseguono,<br>come topi che divorano il proprio veleno,<br>un male assetante; e quando beviamo, moriamo. |
+| [[Lucio\|LUCIO]] | Se sapessi parlare così saggiamente sotto arresto, manderei a chiamare certi miei creditori. E tuttavia, a dire la [[Truth\|verità]], preferirei la scempiaggine della [[Freedom\|libertà]] alla [[morality\|moralità]] della [[Imprisonment\|prigionia]]. Qual è la tua colpa, [[Claudio]]? |
+| [[Claudio\|CLAUDIO]] | Tale che il solo parlarne offenderebbe di nuovo. |
+| [[Lucio\|LUCIO]] | Come, è omicidio? |
+| [[Claudio\|CLAUDIO]] | No. |
+| [[Lucio\|LUCIO]] | Lussuria? |
+| [[Claudio\|CLAUDIO]] | Chiamala così. |
 | PREVOSTO | Via, signore; dovete andare. |
-| [[Claudio|CLAUDIO]] | Una parola, buon amico. |
+| [[Claudio\|CLAUDIO]] | Una parola, buon amico. |
 | *(didascalia)* | Il Prevosto acconsente |
-| [[Claudio|CLAUDIO]] | [[Lucio]], una parola con te. |
-| [[Lucio|LUCIO]] | Cento, se ti faranno qualche bene. |
+| [[Claudio\|CLAUDIO]] | [[Lucio]], una parola con te. |
+| [[Lucio\|LUCIO]] | Cento, se ti faranno qualche bene. |
 | *(didascalia)* | [[Claudio]] e [[Lucio]] parlano in disparte |
-| [[Lucio|LUCIO]] | La lussuria è così sorvegliata? |
-| [[Claudio|CLAUDIO]] | Ecco come sta con me. Per un vero contratto<br>presi possesso del letto di Julietta.<br>Conosci la donna; è saldamente mia moglie,<br>salvo che ci manca la denunzia<br>del rito esteriore. A questo non giungemmo<br>solo per l’accrescimento d’una dote<br>rimasta nel forziere dei suoi parenti,<br>ai quali stimammo bene celare il nostro [[Love|amore]]<br>finché il [[Time|tempo]] non li avesse resi a noi propizi. Ma accade<br>che il furto del nostro reciprocissimo diletto<br>con carattere troppo grosso è scritto su [[Juliet|Giulietta]]. |
-| [[Lucio|LUCIO]] | Gravida d’un [[Child|figlio]], forse? |
-| [[Claudio|CLAUDIO]] | Purtroppo proprio così.<br>E il nuovo vicario che ora fa per il Duca—<br>sia colpa e bagliore della novità,<br>o sia che il [[Body|corpo]] pubblico sia<br>un [[Horse|cavallo]] su cui il governante cavalca,<br>il quale, appena in sella, perché sappia<br>ch’egli sa comandare, gli fa subito sentir lo sprone—<br>sia la tirannide nella sua carica,<br>o in colui che con la sua eminenza la riempie—<br>io vacillo. Ma questo nuovo governante<br>ridesta contro di me tutte le pene registrate<br>che, come armatura non forbita, sono state appese al muro<br>tanto a lungo che quattordici zodiaci han compiuto il giro,<br>e nessuna d’esse è stata indossata; e, per farsi un nome,<br>ora l’assopita e trascurata legge<br>mi rovescia addosso fresca fresca. È di certo per un nome. |
-| [[Lucio|LUCIO]] | Ci scommetto; e la tua testa sta così malferma sulle spalle che una lattaia, se è presa d’[[Love|amore]], può farla cadere con un sospiro. Manda dietro al Duca, e appèllati a lui. |
-| [[Claudio|CLAUDIO]] | L’ho fatto, ma non si riesce a trovarlo.<br>Ti prego, [[Lucio]], rendimi questo cortese servizio.<br>Oggi mia sorella deve entrare in convento,<br>e là ricevere la sua ammissione.<br>Informala del pericolo del mio stato.<br>Supplicala a nome mio che si faccia amico<br>il rigido vicario. Dille di tentarlo lei stessa.<br>Ho grande [[Hope|speranza]] in ciò, ché nella sua giovinezza<br>v’è un linguaggio pronto e senza parole<br>che muove gli uomini; inoltre ha felice arte<br>quando voglia giocare di ragione e di discorso,<br>e [[Well|bene]] sa persuadere. |
-| [[Lucio|LUCIO]] | Prego che ci riesca—[[Well|tanto]] per l’incoraggiamento di quelli come te, che altrimenti starebbero sotto grave imposta, quanto per il godimento della tua vita, che mi dorrebbe fosse così scioccamente perduta a una partita a tric-trac. Vado da lei. |
-| [[Claudio|CLAUDIO]] | Ti ringrazio, buon amico [[Lucio]]. |
-| [[Lucio|LUCIO]] | Entro due ore. |
-| [[Claudio|CLAUDIO]] | Andiamo, ufficiale; via. |
+| [[Lucio\|LUCIO]] | La lussuria è così sorvegliata? |
+| [[Claudio\|CLAUDIO]] | Ecco come sta con me. Per un vero contratto<br>presi possesso del letto di Julietta.<br>Conosci la donna; è saldamente mia moglie,<br>salvo che ci manca la denunzia<br>del rito esteriore. A questo non giungemmo<br>solo per l’accrescimento d’una dote<br>rimasta nel forziere dei suoi parenti,<br>ai quali stimammo bene celare il nostro [[Love\|amore]]<br>finché il [[Time\|tempo]] non li avesse resi a noi propizi. Ma accade<br>che il furto del nostro reciprocissimo diletto<br>con carattere troppo grosso è scritto su [[Juliet\|Giulietta]]. |
+| [[Lucio\|LUCIO]] | Gravida d’un [[Child\|figlio]], forse? |
+| [[Claudio\|CLAUDIO]] | Purtroppo proprio così.<br>E il nuovo vicario che ora fa per il Duca—<br>sia colpa e bagliore della novità,<br>o sia che il [[Body\|corpo]] pubblico sia<br>un [[Horse\|cavallo]] su cui il governante cavalca,<br>il quale, appena in sella, perché sappia<br>ch’egli sa comandare, gli fa subito sentir lo sprone—<br>sia la tirannide nella sua carica,<br>o in colui che con la sua eminenza la riempie—<br>io vacillo. Ma questo nuovo governante<br>ridesta contro di me tutte le pene registrate<br>che, come armatura non forbita, sono state appese al muro<br>tanto a lungo che quattordici zodiaci han compiuto il giro,<br>e nessuna d’esse è stata indossata; e, per farsi un nome,<br>ora l’assopita e trascurata legge<br>mi rovescia addosso fresca fresca. È di certo per un nome. |
+| [[Lucio\|LUCIO]] | Ci scommetto; e la tua testa sta così malferma sulle spalle che una lattaia, se è presa d’[[Love\|amore]], può farla cadere con un sospiro. Manda dietro al Duca, e appèllati a lui. |
+| [[Claudio\|CLAUDIO]] | L’ho fatto, ma non si riesce a trovarlo.<br>Ti prego, [[Lucio]], rendimi questo cortese servizio.<br>Oggi mia sorella deve entrare in convento,<br>e là ricevere la sua ammissione.<br>Informala del pericolo del mio stato.<br>Supplicala a nome mio che si faccia amico<br>il rigido vicario. Dille di tentarlo lei stessa.<br>Ho grande [[Hope\|speranza]] in ciò, ché nella sua giovinezza<br>v’è un linguaggio pronto e senza parole<br>che muove gli uomini; inoltre ha felice arte<br>quando voglia giocare di ragione e di discorso,<br>e [[Well\|bene]] sa persuadere. |
+| [[Lucio\|LUCIO]] | Prego che ci riesca—[[Well\|tanto]] per l’incoraggiamento di quelli come te, che altrimenti starebbero sotto grave imposta, quanto per il godimento della tua vita, che mi dorrebbe fosse così scioccamente perduta a una partita a tric-trac. Vado da lei. |
+| [[Claudio\|CLAUDIO]] | Ti ringrazio, buon amico [[Lucio]]. |
+| [[Lucio\|LUCIO]] | Entro due ore. |
+| [[Claudio\|CLAUDIO]] | Andiamo, ufficiale; via. |
 | *(didascalia)* | Escono [[Lucio]] e i gentiluomini da una porta; |
-| *(didascalia)* | [[Claudio]], [[Juliet|Giulietta]], il Prevosto e gli ufficiali da un’altra |
+| *(didascalia)* | [[Claudio]], [[Juliet\|Giulietta]], il Prevosto e gli ufficiali da un’altra |
 
 
 
@@ -1510,13 +1510,13 @@ Measure for Measure
 | Chi parla | Battuta |
 |---|---|
 | *(didascalia)* | Entrano il Duca e un Frate |
-| DUCA | No, santo padre, scacciate quel pensiero.<br>Non crediate che il fiacco dardo d’[[Love|amore]]<br>possa trafiggere un petto compiuto. Se [[Desire|desidero]] da voi<br>un segreto rifugio, il fine ha uno scopo<br>più [[Grave|grave]] e corrugato delle mire e dei fini<br>dell’ardente giovinezza. |
+| DUCA | No, santo padre, scacciate quel pensiero.<br>Non crediate che il fiacco dardo d’[[Love\|amore]]<br>possa trafiggere un petto compiuto. Se [[Desire\|desidero]] da voi<br>un segreto rifugio, il fine ha uno scopo<br>più [[Grave\|grave]] e corrugato delle mire e dei fini<br>dell’ardente giovinezza. |
 | FRATE | Può vostra grazia parlarne? |
 | DUCA | Mio santo signore, nessuno meglio di voi sa<br>quanto io abbia sempre amato la vita appartata,<br>e tenuto in vil pregio il frequentare adunanze<br>dove giovinezza e sfarzo tengono un vano sfoggio.<br>Ho consegnato al signor [[Angelo]]—<br>uomo di rigore e ferma astinenza—<br>il mio assoluto potere e il mio seggio qui in Vienna;<br>ed egli mi suppone in viaggio verso la Polonia—<br>ché così l’ho sparso all’orecchio comune,<br>e così è accolto. Ora, pio signore,<br>voi mi domanderete perché io faccia questo. |
 | FRATE | Volentieri, mio signore. |
-| DUCA | Abbiamo statuti severi e leggi mordacissime,<br>i morsi e i freni necessari alle male erbe testarde,<br>che per questi quattordici anni abbiamo lasciato correre;<br>proprio come un [[Lion|leone]] invecchiato in una [[Cave|caverna]]<br>che non esce a far preda. Ora, come i padri indulgenti,<br>che avendo legato in fascio i minacciosi rami di betulla<br>solo per piantarli sotto gli occhi dei figli<br>a terrore, non a uso, col [[Time|tempo]] la verga<br>diventa più derisa che temuta: così i nostri decreti,<br>morti all’applicazione, a se stessi son morti;<br>e la Licenza prende la Giustizia per il naso,<br>il bimbo batte la [[Nurse|nutrice]], e affatto a rovescio<br>va ogni decoro. |
+| DUCA | Abbiamo statuti severi e leggi mordacissime,<br>i morsi e i freni necessari alle male erbe testarde,<br>che per questi quattordici anni abbiamo lasciato correre;<br>proprio come un [[Lion\|leone]] invecchiato in una [[Cave\|caverna]]<br>che non esce a far preda. Ora, come i padri indulgenti,<br>che avendo legato in fascio i minacciosi rami di betulla<br>solo per piantarli sotto gli occhi dei figli<br>a terrore, non a uso, col [[Time\|tempo]] la verga<br>diventa più derisa che temuta: così i nostri decreti,<br>morti all’applicazione, a se stessi son morti;<br>e la Licenza prende la Giustizia per il naso,<br>il bimbo batte la [[Nurse\|nutrice]], e affatto a rovescio<br>va ogni decoro. |
 | FRATE | Stava in vostra grazia<br>sciogliere questa Giustizia legata quando vi piacesse,<br>e in voi sarebbe parsa più temibile<br>che nel signor [[Angelo]]. |
-| DUCA | [[Fear|Temo]] anzi, troppo temibile.<br>Poiché fu mia colpa dar libertà al popolo,<br>sarebbe mia tirannide colpirlo e straziarlo<br>per ciò che io stesso comandai—ché comandiamo che ciò sia fatto<br>quando le male azioni hanno il loro salvacondotto,<br>e non la punizione. Perciò invero, padre mio,<br>ho imposto ad [[Angelo]] l’ufficio,<br>che nell’imboscata del mio nome può colpire a [[Home|fondo]],<br>e pure la mia [[Nature|natura]] mai nella lotta<br>lasciar esposta alla calunnia. E per osservare il suo governo,<br>io, come fossi un frate del vostro ordine,<br>visiterò e principe e popolo. Perciò, vi prego,<br>fornitemi l’abito, e istruitemi<br>come io possa in tutta forma portarmi<br>da vero frate. Altre ragioni di quest’atto<br>a più agio vi renderò.<br>Solo questa: il signor [[Angelo]] è rigoroso,<br>sta in guardia contro l’invidia, appena confessa<br>che il suo [[Blood|sangue]] scorra, o che il suo appetito<br>tenda più al pane che alla pietra. Di qui vedremo<br>se il potere muta proposito, e che siano quelli che sembrano. |
+| DUCA | [[Fear\|Temo]] anzi, troppo temibile.<br>Poiché fu mia colpa dar libertà al popolo,<br>sarebbe mia tirannide colpirlo e straziarlo<br>per ciò che io stesso comandai—ché comandiamo che ciò sia fatto<br>quando le male azioni hanno il loro salvacondotto,<br>e non la punizione. Perciò invero, padre mio,<br>ho imposto ad [[Angelo]] l’ufficio,<br>che nell’imboscata del mio nome può colpire a [[Home\|fondo]],<br>e pure la mia [[Nature\|natura]] mai nella lotta<br>lasciar esposta alla calunnia. E per osservare il suo governo,<br>io, come fossi un frate del vostro ordine,<br>visiterò e principe e popolo. Perciò, vi prego,<br>fornitemi l’abito, e istruitemi<br>come io possa in tutta forma portarmi<br>da vero frate. Altre ragioni di quest’atto<br>a più agio vi renderò.<br>Solo questa: il signor [[Angelo]] è rigoroso,<br>sta in guardia contro l’invidia, appena confessa<br>che il suo [[Blood\|sangue]] scorra, o che il suo appetito<br>tenda più al pane che alla pietra. Di qui vedremo<br>se il potere muta proposito, e che siano quelli che sembrano. |
 | *(didascalia)* | Escono |
 
 
@@ -1572,42 +1572,42 @@ Measure for Measure
 | Chi parla | Battuta |
 |---|---|
 | *(didascalia)* | Entrano [[Isabella]] e Francesca, una monaca |
-| [[Isabella|ISABELLA]] | E voi monache non avete altri privilegi? |
+| [[Isabella\|ISABELLA]] | E voi monache non avete altri privilegi? |
 | FRANCESCA | Non sono questi abbastanza ampi? |
-| [[Isabella|ISABELLA]] | Sì, davvero. Non parlo per desiderarne di più,<br>ma piuttosto augurando una più stretta disciplina<br>alla sorellanza, alle devote di Santa Chiara. |
-| [[Lucio|LUCIO]] | (dall’interno)<br>Ohilà, pace sia in questo luogo! |
-| *(didascalia)* | [[Isabella|ISABELLA]] a Francesca |
-| [[Lucio|LUCIO]] | Chi è che chiama? |
+| [[Isabella\|ISABELLA]] | Sì, davvero. Non parlo per desiderarne di più,<br>ma piuttosto augurando una più stretta disciplina<br>alla sorellanza, alle devote di Santa Chiara. |
+| [[Lucio\|LUCIO]] | (dall’interno)<br>Ohilà, pace sia in questo luogo! |
+| *(didascalia)* | [[Isabella\|ISABELLA]] a Francesca |
+| [[Lucio\|LUCIO]] | Chi è che chiama? |
 | FRANCESCA | È voce d’uomo. Gentile [[Isabella]],<br>gira tu la chiave, e sappi da lui che cosa vuole.<br>Tu puoi, io non posso; tu non hai ancor pronunciato i voti.<br>Quando avrai votato, non dovrai parlare con uomini<br>se non alla presenza della priora.<br>Allora, se parli, non devi mostrare il volto;<br>o se mostri il volto, non devi parlare.<br>[[Lucio]] chiama dall’interno<br>Chiama di nuovo. Ti prego, rispondigli. |
 | *(didascalia)* | Si mette in dispartel |
-| [[Isabella|ISABELLA]] | Pace e prosperità! Chi è che chiama?<br>Apre la porta. |
+| [[Isabella\|ISABELLA]] | Pace e prosperità! Chi è che chiama?<br>Apre la porta. |
 | *(didascalia)* | Entra [[Lucio]] |
-| [[Lucio|LUCIO]] | Salve, vergine, se tale siete—come quelle rose delle guance<br>proclamano che non siete da meno. Potete assistermi<br>tanto da condurmi al cospetto d’[[Isabella]],<br>novizia di questo luogo, e bella sorella<br>del suo infelice fratello [[Claudio]]? |
-| [[Isabella|ISABELLA]] | Perché infelice suo fratello? Lasciate ch’io chieda,<br>tanto più che ora devo farvi sapere<br>ch’io sono quell’[[Isabella]], e sua sorella. |
-| [[Lucio|LUCIO]] | Gentile e bella, vostro fratello vi saluta con affetto.<br>Per non tediarvi: è in [[Prison|prigione]]. |
-| [[Isabella|ISABELLA]] | Povera me! Per che cosa? |
-| [[Lucio|LUCIO]] | Per ciò che, se io stesso ne fossi giudice,<br>gli varrebbe come punizione un ringraziamento.<br>Ha reso la sua amica gravida d’un [[Child|figlio]]. |
-| [[Isabella|ISABELLA]] | Signore,<br>non fate di me la vostra favola. |
-| [[Lucio|LUCIO]] | È vero. Non vorrei—benché sia mio peccato familiare<br>fare con le fanciulle la pavoncella, e scherzare<br>con la lingua lontana dal cuore—giocare così con tutte le vergini.<br>Vi tengo per cosa incielata e santificata<br>dalla vostra rinuncia, spirito immortale,<br>da parlarvi in sincerità<br>come a una santa. |
-| [[Isabella|ISABELLA]] | Bestemmiate il bene, schernendo me. |
-| [[Lucio|LUCIO]] | Non lo crediate. In breve e in [[Truth|verità]], è così:<br>vostro fratello e la sua [[Lover|amante]] si sono abbracciati.<br>Come quelli che si nutrono si riempiono, come il [[Time|tempo]] del fiorire<br>che dalla semina reca il nudo maggese<br>a fecondo raccolto, così il suo grembo ricolmo<br>esprime la piena aratura e coltura di lui. |
-| [[Isabella|ISABELLA]] | Qualcuna gravida d’un [[Child|figlio]] per opera sua? Mia cugina [[Juliet|Giulietta]]? |
-| [[Lucio|LUCIO]] | È vostra cugina? |
-| [[Isabella|ISABELLA]] | Per adozione, come le scolarette si scambiano i nomi<br>per vano ma appropriato affetto. |
-| [[Lucio|LUCIO]] | È lei. |
-| [[Isabella|ISABELLA]] | Oh, che la sposi! |
-| [[Lucio|LUCIO]] | Qui sta il punto.<br>Il Duca è partito di qui assai stranamente;<br>tenne molti gentiluomini—io stesso fra questi—<br>in sospeso e in [[Hope|speranza]] d’impiego; ma apprendiamo,<br>da quelli che conoscono i veri nervi dello Stato,<br>che le sue dichiarazioni erano d’infinita distanza<br>dal suo vero disegno. Al suo posto,<br>e con pieno mandato della sua autorità,<br>governa il signor [[Angelo]]—uomo il cui [[Blood|sangue]]<br>è vera brodaglia di [[Snow|neve]]; uno che mai sente<br>le lascive punture e i moti dei sensi,<br>ma smussa e ottunde il suo naturale filo<br>coi profitti della mente, lo studio e il digiuno.<br>Egli, per dar [[Fear|paura]] al vizio e alla licenza,<br>che a lungo hanno corso accanto all’orrenda legge<br>come topi accanto ai leoni, ha ripescato un editto<br>sotto il cui grave senso la vita di vostro fratello<br>cade in penale. Lo arresta in base a quello,<br>e segue da presso il rigore dello statuto<br>per farne un esempio. Ogni [[Hope|speranza]] è perduta,<br>se non avete la grazia con la vostra bella [[prayer|preghiera]]<br>d’intenerire [[Angelo]]. E questo è il nocciolo<br>della faccenda fra voi e il vostro povero fratello. |
-| [[Isabella|ISABELLA]] | Cerca dunque così la sua vita? |
-| [[Lucio|LUCIO]] | L’ha già condannato,<br>e, per quanto sento, il Prevosto ha un mandato<br>per la sua esecuzione. |
-| [[Isabella|ISABELLA]] | Ahimè, quale povera<br>capacità è in me di fargli del bene? |
-| [[Lucio|LUCIO]] | Mettete alla prova il potere che avete. |
-| [[Isabella|ISABELLA]] | Il mio potere? Ahimè, ne [[Doubt|dubito]]. |
-| [[Lucio|LUCIO]] | I nostri dubbi sono traditori,<br>e ci fanno perdere il bene che spesso potremmo vincere,<br>per il timore di tentare. Andate dal signor [[Angelo]];<br>e fategli imparare che, quando le fanciulle supplicano,<br>gli uomini donano come dèi, ma quando esse piangono e s’inginocchiano,<br>tutte le loro petizioni son loro concesse così largamente<br>come se le possedessero già. |
-| [[Isabella|ISABELLA]] | Vedrò che cosa posso fare. |
-| [[Lucio|LUCIO]] | Ma presto. |
-| [[Isabella|ISABELLA]] | Mi ci metterò subito,<br>senza indugiare che a dare alla Madre<br>avviso della mia faccenda. Umilmente vi ringrazio.<br>Raccomandatemi a mio fratello. Stasera sul far della [[Night|notte]]<br>gli manderò notizia certa del mio [[success|esito]]. |
-| [[Lucio|LUCIO]] | Prendo congedo da voi. |
-| [[Isabella|ISABELLA]] | Buon signore, addio. |
+| [[Lucio\|LUCIO]] | Salve, vergine, se tale siete—come quelle rose delle guance<br>proclamano che non siete da meno. Potete assistermi<br>tanto da condurmi al cospetto d’[[Isabella]],<br>novizia di questo luogo, e bella sorella<br>del suo infelice fratello [[Claudio]]? |
+| [[Isabella\|ISABELLA]] | Perché infelice suo fratello? Lasciate ch’io chieda,<br>tanto più che ora devo farvi sapere<br>ch’io sono quell’[[Isabella]], e sua sorella. |
+| [[Lucio\|LUCIO]] | Gentile e bella, vostro fratello vi saluta con affetto.<br>Per non tediarvi: è in [[Prison\|prigione]]. |
+| [[Isabella\|ISABELLA]] | Povera me! Per che cosa? |
+| [[Lucio\|LUCIO]] | Per ciò che, se io stesso ne fossi giudice,<br>gli varrebbe come punizione un ringraziamento.<br>Ha reso la sua amica gravida d’un [[Child\|figlio]]. |
+| [[Isabella\|ISABELLA]] | Signore,<br>non fate di me la vostra favola. |
+| [[Lucio\|LUCIO]] | È vero. Non vorrei—benché sia mio peccato familiare<br>fare con le fanciulle la pavoncella, e scherzare<br>con la lingua lontana dal cuore—giocare così con tutte le vergini.<br>Vi tengo per cosa incielata e santificata<br>dalla vostra rinuncia, spirito immortale,<br>da parlarvi in sincerità<br>come a una santa. |
+| [[Isabella\|ISABELLA]] | Bestemmiate il bene, schernendo me. |
+| [[Lucio\|LUCIO]] | Non lo crediate. In breve e in [[Truth\|verità]], è così:<br>vostro fratello e la sua [[Lover\|amante]] si sono abbracciati.<br>Come quelli che si nutrono si riempiono, come il [[Time\|tempo]] del fiorire<br>che dalla semina reca il nudo maggese<br>a fecondo raccolto, così il suo grembo ricolmo<br>esprime la piena aratura e coltura di lui. |
+| [[Isabella\|ISABELLA]] | Qualcuna gravida d’un [[Child\|figlio]] per opera sua? Mia cugina [[Juliet\|Giulietta]]? |
+| [[Lucio\|LUCIO]] | È vostra cugina? |
+| [[Isabella\|ISABELLA]] | Per adozione, come le scolarette si scambiano i nomi<br>per vano ma appropriato affetto. |
+| [[Lucio\|LUCIO]] | È lei. |
+| [[Isabella\|ISABELLA]] | Oh, che la sposi! |
+| [[Lucio\|LUCIO]] | Qui sta il punto.<br>Il Duca è partito di qui assai stranamente;<br>tenne molti gentiluomini—io stesso fra questi—<br>in sospeso e in [[Hope\|speranza]] d’impiego; ma apprendiamo,<br>da quelli che conoscono i veri nervi dello Stato,<br>che le sue dichiarazioni erano d’infinita distanza<br>dal suo vero disegno. Al suo posto,<br>e con pieno mandato della sua autorità,<br>governa il signor [[Angelo]]—uomo il cui [[Blood\|sangue]]<br>è vera brodaglia di [[Snow\|neve]]; uno che mai sente<br>le lascive punture e i moti dei sensi,<br>ma smussa e ottunde il suo naturale filo<br>coi profitti della mente, lo studio e il digiuno.<br>Egli, per dar [[Fear\|paura]] al vizio e alla licenza,<br>che a lungo hanno corso accanto all’orrenda legge<br>come topi accanto ai leoni, ha ripescato un editto<br>sotto il cui grave senso la vita di vostro fratello<br>cade in penale. Lo arresta in base a quello,<br>e segue da presso il rigore dello statuto<br>per farne un esempio. Ogni [[Hope\|speranza]] è perduta,<br>se non avete la grazia con la vostra bella [[prayer\|preghiera]]<br>d’intenerire [[Angelo]]. E questo è il nocciolo<br>della faccenda fra voi e il vostro povero fratello. |
+| [[Isabella\|ISABELLA]] | Cerca dunque così la sua vita? |
+| [[Lucio\|LUCIO]] | L’ha già condannato,<br>e, per quanto sento, il Prevosto ha un mandato<br>per la sua esecuzione. |
+| [[Isabella\|ISABELLA]] | Ahimè, quale povera<br>capacità è in me di fargli del bene? |
+| [[Lucio\|LUCIO]] | Mettete alla prova il potere che avete. |
+| [[Isabella\|ISABELLA]] | Il mio potere? Ahimè, ne [[Doubt\|dubito]]. |
+| [[Lucio\|LUCIO]] | I nostri dubbi sono traditori,<br>e ci fanno perdere il bene che spesso potremmo vincere,<br>per il timore di tentare. Andate dal signor [[Angelo]];<br>e fategli imparare che, quando le fanciulle supplicano,<br>gli uomini donano come dèi, ma quando esse piangono e s’inginocchiano,<br>tutte le loro petizioni son loro concesse così largamente<br>come se le possedessero già. |
+| [[Isabella\|ISABELLA]] | Vedrò che cosa posso fare. |
+| [[Lucio\|LUCIO]] | Ma presto. |
+| [[Isabella\|ISABELLA]] | Mi ci metterò subito,<br>senza indugiare che a dare alla Madre<br>avviso della mia faccenda. Umilmente vi ringrazio.<br>Raccomandatemi a mio fratello. Stasera sul far della [[Night\|notte]]<br>gli manderò notizia certa del mio [[success\|esito]]. |
+| [[Lucio\|LUCIO]] | Prendo congedo da voi. |
+| [[Isabella\|ISABELLA]] | Buon signore, addio. |
 | *(didascalia)* | Escono [[Isabella]] e Francesca da una porta, |
 | *(didascalia)* | [[Lucio]] da un’altra porta |
 
@@ -1750,131 +1750,131 @@ Measure for Measure
 
 | Chi parla | Battuta |
 |---|---|
-| *(didascalia)* | Entrano [[Angelo]], [[Escalus|Escalo]] e servi; un Giudice |
-| [[Angelo|ANGELO]] | Non dobbiamo fare della legge uno spauracchio,<br>drizzandola a [[Fear|spaventare]] gli [[Birds|uccelli]] rapaci,<br>e lasciarle una sola forma finché l’uso la faccia<br>loro posatoio, e non loro terrore. |
-| [[Escalus|ESCALO]] | Sì, eppure<br>siamo affilati, e tagliamo piuttosto un poco<br>che piombare e ammaccare a [[Death|morte]]. Ahimè, questo gentiluomo<br>che vorrei salvare ebbe un padre nobilissimo.<br>Sappia solo vostro [[Honour|onore]]—<br>che credo rettissimo nella virtù—<br>che nell’operare dei vostri propri affetti,<br>se il [[Time|tempo]] avesse coinciso col luogo, o il luogo col volere,<br>o se il risoluto agire del vostro [[Blood|sangue]]<br>avesse potuto raggiungere l’effetto del vostro proposito—<br>se voi non abbiate qualche volta nella vita<br>errato in quel punto per cui ora lo condannate,<br>e tirata la legge su di voi. |
-| [[Angelo|ANGELO]] | Una cosa è essere tentati, [[Escalus|Escalo]],<br>altra cosa è cadere. Non nego<br>che la giuria che giudica la vita del prigioniero<br>possa fra i dodici giurati avere un ladro o due<br>più colpevoli di colui che processa. Che ne sa la legge<br>che ladri giudichino ladri? Ciò che è messo allo scoperto della<br>giustizia,<br>quello la giustizia afferra. È cosa evidentissima:<br>il [[Jewel|gioiello]] che troviamo, ci chiniamo e lo prendiamo<br>perché lo vediamo, ma ciò che non vediamo<br>lo calpestiamo e mai vi pensiamo.<br>Non potete così attenuare la sua colpa<br>perché io abbia avuto tali difetti; ma piuttosto ditemi,<br>quando io che lo condanno commetta la stessa offesa,<br>che il mio proprio giudizio tracci il modello della mia [[Death|morte]],<br>e nulla intervenga per parzialità. Signore, deve morire. |
-| [[Escalus|ESCALO]] | Sia come vuole la vostra saggezza. |
-| [[Angelo|ANGELO]] | Dov’è il Prevosto? |
+| *(didascalia)* | Entrano [[Angelo]], [[Escalus\|Escalo]] e servi; un Giudice |
+| [[Angelo\|ANGELO]] | Non dobbiamo fare della legge uno spauracchio,<br>drizzandola a [[Fear\|spaventare]] gli [[Birds\|uccelli]] rapaci,<br>e lasciarle una sola forma finché l’uso la faccia<br>loro posatoio, e non loro terrore. |
+| [[Escalus\|ESCALO]] | Sì, eppure<br>siamo affilati, e tagliamo piuttosto un poco<br>che piombare e ammaccare a [[Death\|morte]]. Ahimè, questo gentiluomo<br>che vorrei salvare ebbe un padre nobilissimo.<br>Sappia solo vostro [[Honour\|onore]]—<br>che credo rettissimo nella virtù—<br>che nell’operare dei vostri propri affetti,<br>se il [[Time\|tempo]] avesse coinciso col luogo, o il luogo col volere,<br>o se il risoluto agire del vostro [[Blood\|sangue]]<br>avesse potuto raggiungere l’effetto del vostro proposito—<br>se voi non abbiate qualche volta nella vita<br>errato in quel punto per cui ora lo condannate,<br>e tirata la legge su di voi. |
+| [[Angelo\|ANGELO]] | Una cosa è essere tentati, [[Escalus\|Escalo]],<br>altra cosa è cadere. Non nego<br>che la giuria che giudica la vita del prigioniero<br>possa fra i dodici giurati avere un ladro o due<br>più colpevoli di colui che processa. Che ne sa la legge<br>che ladri giudichino ladri? Ciò che è messo allo scoperto della<br>giustizia,<br>quello la giustizia afferra. È cosa evidentissima:<br>il [[Jewel\|gioiello]] che troviamo, ci chiniamo e lo prendiamo<br>perché lo vediamo, ma ciò che non vediamo<br>lo calpestiamo e mai vi pensiamo.<br>Non potete così attenuare la sua colpa<br>perché io abbia avuto tali difetti; ma piuttosto ditemi,<br>quando io che lo condanno commetta la stessa offesa,<br>che il mio proprio giudizio tracci il modello della mia [[Death\|morte]],<br>e nulla intervenga per parzialità. Signore, deve morire. |
+| [[Escalus\|ESCALO]] | Sia come vuole la vostra saggezza. |
+| [[Angelo\|ANGELO]] | Dov’è il Prevosto? |
 | *(didascalia)* | Entra il Prevosto |
-| PREVOSTO | Qui, se piace a vostro [[Honour|onore]]. |
-| [[Angelo|ANGELO]] | Badate che [[Claudio]]<br>sia giustiziato per le nove di domattina.<br>Portategli il suo confessore, sia preparato,<br>ché quello è l’estremo del suo pellegrinaggio. |
+| PREVOSTO | Qui, se piace a vostro [[Honour\|onore]]. |
+| [[Angelo\|ANGELO]] | Badate che [[Claudio]]<br>sia giustiziato per le nove di domattina.<br>Portategli il suo confessore, sia preparato,<br>ché quello è l’estremo del suo pellegrinaggio. |
 | *(didascalia)* | Esce il Prevosto |
-| [[Escalus|ESCALO]] | [[Well|Bene]], il cielo perdoni lui, e perdoni tutti noi!<br>Alcuni salgono col peccato, e altri per virtù cadono.<br>Alcuni corrono per i roveti del vizio, e non ne rispondono;<br>e altri son condannati per un [[Alone|solo]] fallo. |
-| *(didascalia)* | Entrano Elbow, Froth, [[Pompey|Pompeo]] e ufficiali |
+| [[Escalus\|ESCALO]] | [[Well\|Bene]], il cielo perdoni lui, e perdoni tutti noi!<br>Alcuni salgono col peccato, e altri per virtù cadono.<br>Alcuni corrono per i roveti del vizio, e non ne rispondono;<br>e altri son condannati per un [[Alone\|solo]] fallo. |
+| *(didascalia)* | Entrano Elbow, Froth, [[Pompey\|Pompeo]] e ufficiali |
 | ELBOW | Su, portateli via. Se questa è brava gente in uno Stato, che non fa altro che usare i suoi abusi in case comuni, allora io non conosco legge. Portateli via. |
-| [[Angelo|ANGELO]] | Ebbene, signore? Qual è il vostro nome? E di che si<br>tratta? |
-| ELBOW | Con licenza di vostro [[Honour|onore]], io sono il povero conestabile del Duca, e il mio nome è Elbow. Io mi appoggio sulla giustizia, signore; e conduco qui davanti al vostro buon [[Honour|onore]] due notori benefattori. |
-| [[Angelo|ANGELO]] | Benefattori? Bene! Che benefattori sono? Non sono piuttosto malefattori? |
-| ELBOW | Con licenza di vostro [[Honour|onore]], non so [[Well|bene]] che cosa siano; ma che siano precisi furfanti, di questo son certo, e privi d’ogni profanazione al mondo che i buoni cristiani dovrebbero avere. |
-| [[Escalus|ESCALO]] | (ad [[Angelo]]) Questa vien fuori [[Well|bene]]; ecco un savio ufficiale! |
-| [[Angelo|ANGELO]] | Andiamo, di che qualità sono? Elbow è il tuo nome? Perché non parli, Elbow? |
-| [[Pompey|POMPEO]] | Non può, signore; è scucito al gomito. |
-| [[Angelo|ANGELO]] | Che cosa siete voi, signore? |
-| ELBOW | Lui, signore? Uno spillatore, signore, mezzo ruffiano; uno che serve una cattiva donna la cui [[house|casa]], signore, fu, a quanto dicono, abbattuta nei sobborghi; e ora ella professa una [[house|casa]] di bagni caldi, che credo sia anch’essa una pessima [[house|casa]]. |
-| [[Escalus|ESCALO]] | Come lo sapete? |
-| ELBOW | Mia moglie, signore, che io detesto davanti al cielo e a vostro [[Honour|onore]]— |
-| [[Escalus|ESCALO]] | Come, tua moglie? |
+| [[Angelo\|ANGELO]] | Ebbene, signore? Qual è il vostro nome? E di che si<br>tratta? |
+| ELBOW | Con licenza di vostro [[Honour\|onore]], io sono il povero conestabile del Duca, e il mio nome è Elbow. Io mi appoggio sulla giustizia, signore; e conduco qui davanti al vostro buon [[Honour\|onore]] due notori benefattori. |
+| [[Angelo\|ANGELO]] | Benefattori? Bene! Che benefattori sono? Non sono piuttosto malefattori? |
+| ELBOW | Con licenza di vostro [[Honour\|onore]], non so [[Well\|bene]] che cosa siano; ma che siano precisi furfanti, di questo son certo, e privi d’ogni profanazione al mondo che i buoni cristiani dovrebbero avere. |
+| [[Escalus\|ESCALO]] | (ad [[Angelo]]) Questa vien fuori [[Well\|bene]]; ecco un savio ufficiale! |
+| [[Angelo\|ANGELO]] | Andiamo, di che qualità sono? Elbow è il tuo nome? Perché non parli, Elbow? |
+| [[Pompey\|POMPEO]] | Non può, signore; è scucito al gomito. |
+| [[Angelo\|ANGELO]] | Che cosa siete voi, signore? |
+| ELBOW | Lui, signore? Uno spillatore, signore, mezzo ruffiano; uno che serve una cattiva donna la cui [[house\|casa]], signore, fu, a quanto dicono, abbattuta nei sobborghi; e ora ella professa una [[house\|casa]] di bagni caldi, che credo sia anch’essa una pessima [[house\|casa]]. |
+| [[Escalus\|ESCALO]] | Come lo sapete? |
+| ELBOW | Mia moglie, signore, che io detesto davanti al cielo e a vostro [[Honour\|onore]]— |
+| [[Escalus\|ESCALO]] | Come, tua moglie? |
 | ELBOW | Sì, signore, la quale, ringrazio il cielo, è donna onesta— |
-| [[Escalus|ESCALO]] | E la detesti per questo? |
-| ELBOW | Io dico, signore, che detesterò anche me stesso, così [[Well|bene]] come lei, che questa [[house|casa]], se non è [[house|casa]] di ruffiana, è un peccato per la sua vita, ché è una [[house|casa]] sconcia. |
-| [[Escalus|ESCALO]] | E come lo sai, conestabile? |
+| [[Escalus\|ESCALO]] | E la detesti per questo? |
+| ELBOW | Io dico, signore, che detesterò anche me stesso, così [[Well\|bene]] come lei, che questa [[house\|casa]], se non è [[house\|casa]] di ruffiana, è un peccato per la sua vita, ché è una [[house\|casa]] sconcia. |
+| [[Escalus\|ESCALO]] | E come lo sai, conestabile? |
 | ELBOW | Perbacco, signore, da mia moglie, la quale, se fosse stata donna cardinalmente inclinata, avrebbe potuto essere accusata là dentro di fornicazione, adulterio e ogni immondezza. |
-| [[Escalus|ESCALO]] | Per opera di quella donna? |
+| [[Escalus\|ESCALO]] | Per opera di quella donna? |
 | ELBOW | Sì, signore, per opera di Mistress Overdone. Ma come lei gli sputò in faccia, così lo sfidò. |
-| [[Pompey|POMPEO]] | (a [[Escalus|Escalo]]) Signore, con licenza di vostro [[Honour|onore]], non è così. |
+| [[Pompey\|POMPEO]] | (a [[Escalus\|Escalo]]) Signore, con licenza di vostro [[Honour\|onore]], non è così. |
 | ELBOW | Provalo davanti a questi manigoldi qui, tu uomo onorevole, provalo. |
-| [[Escalus|ESCALO]] | (ad [[Angelo]]) Sentite come sposta le parole? |
-| [[Pompey|POMPEO]] | Signore, ella entrò grossa d’un [[Child|figlio]], e con [[Longing|voglia]]—salva la riverenza di vostro [[Honour|onore]]—di prugne cotte. Signore, non ne avevamo che due in [[house|casa]], le quali in quel medesimo distante [[Time|tempo]] stavano, per così dire, in un piatto da frutta—un piatto da tre soldi; le vostre signorie hanno visto piatti simili; non son piatti di porcellana, ma piatti buonissimi. |
-| [[Escalus|ESCALO]] | Andiamo, andiamo, non importa del piatto, signore. |
-| [[Pompey|POMPEO]] | No, davvero, signore, non vale uno spillo; in questo avete ragione. Ma veniamo al punto. Come dico, questa Mistress Elbow, essendo, come dico, gravida d’un [[Child|figlio]], e avendo la pancia grossa, e avendo [[Longing|voglia]], come ho detto, di prugne; e non essendocene che due nel piatto, come ho detto, avendone messer Froth qui, quest’uomo medesimo, mangiato il resto, come ho detto, e, come dico, pagandole assai onestamente; ché, come sapete, messer Froth, io non potevo rendervi i tre soldi. |
+| [[Escalus\|ESCALO]] | (ad [[Angelo]]) Sentite come sposta le parole? |
+| [[Pompey\|POMPEO]] | Signore, ella entrò grossa d’un [[Child\|figlio]], e con [[Longing\|voglia]]—salva la riverenza di vostro [[Honour\|onore]]—di prugne cotte. Signore, non ne avevamo che due in [[house\|casa]], le quali in quel medesimo distante [[Time\|tempo]] stavano, per così dire, in un piatto da frutta—un piatto da tre soldi; le vostre signorie hanno visto piatti simili; non son piatti di porcellana, ma piatti buonissimi. |
+| [[Escalus\|ESCALO]] | Andiamo, andiamo, non importa del piatto, signore. |
+| [[Pompey\|POMPEO]] | No, davvero, signore, non vale uno spillo; in questo avete ragione. Ma veniamo al punto. Come dico, questa Mistress Elbow, essendo, come dico, gravida d’un [[Child\|figlio]], e avendo la pancia grossa, e avendo [[Longing\|voglia]], come ho detto, di prugne; e non essendocene che due nel piatto, come ho detto, avendone messer Froth qui, quest’uomo medesimo, mangiato il resto, come ho detto, e, come dico, pagandole assai onestamente; ché, come sapete, messer Froth, io non potevo rendervi i tre soldi. |
 | FROTH | No, davvero. |
-| [[Pompey|POMPEO]] | Molto [[Well|bene]]. Voi essendo allora, se ben vi ricordate, a schiacciare i noccioli delle suddette prugne— |
+| [[Pompey\|POMPEO]] | Molto [[Well\|bene]]. Voi essendo allora, se ben vi ricordate, a schiacciare i noccioli delle suddette prugne— |
 | FROTH | Sì, così facevo davvero. |
-| [[Pompey|POMPEO]] | Ecco, molto [[Well|bene]].—Io dicendovi allora, se ben vi ricordate, che il tale e il tal altro erano inguaribili di quella cosa che sapete, se non tenevano ottima dieta, come vi dissi— |
+| [[Pompey\|POMPEO]] | Ecco, molto [[Well\|bene]].—Io dicendovi allora, se ben vi ricordate, che il tale e il tal altro erano inguaribili di quella cosa che sapete, se non tenevano ottima dieta, come vi dissi— |
 | FROTH | Tutto questo è vero. no |
-| [[Pompey|POMPEO]] | Ecco, molto [[Well|bene]] allora— |
-| [[Escalus|ESCALO]] | Su, sei un tedioso [[Fool|sciocco]]. Al punto. Che cosa fu fatto alla moglie di Elbow, di cui egli abbia motivo di lagnarsi? Vieni a ciò che le fu fatto. |
-| [[Pompey|POMPEO]] | Signore, vostro [[Honour|onore]] non può ancora venire a quello. |
-| [[Escalus|ESCALO]] | No, signore, né lo intendo. |
-| [[Pompey|POMPEO]] | Signore, ma ci verrete, con licenza di vostro [[Honour|onore]]. E vi supplico, guardate bene messer Froth qui, signore, uomo da ottanta sterline l’anno, il cui padre morì a Ognissanti—non fu a Ognissanti, messer Froth? |
+| [[Pompey\|POMPEO]] | Ecco, molto [[Well\|bene]] allora— |
+| [[Escalus\|ESCALO]] | Su, sei un tedioso [[Fool\|sciocco]]. Al punto. Che cosa fu fatto alla moglie di Elbow, di cui egli abbia motivo di lagnarsi? Vieni a ciò che le fu fatto. |
+| [[Pompey\|POMPEO]] | Signore, vostro [[Honour\|onore]] non può ancora venire a quello. |
+| [[Escalus\|ESCALO]] | No, signore, né lo intendo. |
+| [[Pompey\|POMPEO]] | Signore, ma ci verrete, con licenza di vostro [[Honour\|onore]]. E vi supplico, guardate bene messer Froth qui, signore, uomo da ottanta sterline l’anno, il cui padre morì a Ognissanti—non fu a Ognissanti, messer Froth? |
 | FROTH | La vigilia d’Ognissanti. |
-| [[Pompey|POMPEO]] | Ecco, molto [[Well|bene]]. [[Hope|Spero]] che qui ci siano verità. Egli, signore, sedendo, come dico, in una sedia bassa, signore—era al Grappolo d’Uva, dove invero avete diletto di sedere, non è vero? |
-| FROTH | Sì, l’ho, perché è una stanza aperta, e buona per l’[[Winter|inverno]]. |
-| [[Pompey|POMPEO]] | Ecco, molto [[Well|bene]] allora. [[Hope|Spero]] che qui ci siano verità. |
-| [[Angelo|ANGELO]] | Questo durerà quanto una [[Night|notte]] in [[Russia]],<br>quando là le notti son più lunghe. (A [[Escalus|Escalo]]) Prendo<br>congedo,<br>e vi lascio all’udienza della causa,<br>sperando che troverete buona causa di farli frustare tutti. |
-| [[Escalus|ESCALO]] | Non penso di meno. Buon giorno a vostra signoria. |
+| [[Pompey\|POMPEO]] | Ecco, molto [[Well\|bene]]. [[Hope\|Spero]] che qui ci siano verità. Egli, signore, sedendo, come dico, in una sedia bassa, signore—era al Grappolo d’Uva, dove invero avete diletto di sedere, non è vero? |
+| FROTH | Sì, l’ho, perché è una stanza aperta, e buona per l’[[Winter\|inverno]]. |
+| [[Pompey\|POMPEO]] | Ecco, molto [[Well\|bene]] allora. [[Hope\|Spero]] che qui ci siano verità. |
+| [[Angelo\|ANGELO]] | Questo durerà quanto una [[Night\|notte]] in [[Russia]],<br>quando là le notti son più lunghe. (A [[Escalus\|Escalo]]) Prendo<br>congedo,<br>e vi lascio all’udienza della causa,<br>sperando che troverete buona causa di farli frustare tutti. |
+| [[Escalus\|ESCALO]] | Non penso di meno. Buon giorno a vostra signoria. |
 | *(didascalia)* | Esce [[Angelo]] |
-| [[Escalus|ESCALO]] | Ora, signore, avanti, che cosa fu fatto alla moglie di Elbow,<br>ancora una volta? |
-| [[Pompey|POMPEO]] | Una volta, signore? Non le fu fatto niente una volta. |
+| [[Escalus\|ESCALO]] | Ora, signore, avanti, che cosa fu fatto alla moglie di Elbow,<br>ancora una volta? |
+| [[Pompey\|POMPEO]] | Una volta, signore? Non le fu fatto niente una volta. |
 | ELBOW | Vi supplico, signore, chiedetegli che cosa quest’uomo fece a mia moglie. |
-| [[Pompey|POMPEO]] | Supplico vostro [[Honour|onore]], chiedetelo a me. |
-| [[Escalus|ESCALO]] | [[Well|Bene]], signore, che le fece questo gentiluomo? |
-| [[Pompey|POMPEO]] | Vi supplico, signore, guardate in faccia questo gentiluomo. Buon messer Froth, guardate il suo [[Honour|onore]]. È per un buon fine. Nota vostro [[Honour|onore]] la sua faccia? |
-| [[Escalus|ESCALO]] | Sì, signore, molto [[Well|bene]]. |
-| [[Pompey|POMPEO]] | No, vi supplico, notatela [[Well|bene]]. |
-| [[Escalus|ESCALO]] | [[Well|Bene]], lo faccio. |
-| [[Pompey|POMPEO]] | Vede vostro [[Honour|onore]] alcun male nella sua faccia? |
-| [[Escalus|ESCALO]] | Ma no. |
-| [[Pompey|POMPEO]] | Sarò supposto sopra un libro che la sua faccia è la cosa peggiore che abbia. Bene, dunque—se la sua faccia è la cosa peggiore che abbia, come poteva messer Froth fare alcun male alla moglie del conestabile? Vorrei saperlo da vostro [[Honour|onore]]. |
-| [[Escalus|ESCALO]] | Ha ragione, conestabile; che ne dite? |
-| ELBOW | Primo, con vostra licenza, la [[house|casa]] è una [[house|casa]] rispettata; secondo, costui è un tipo rispettato; e la sua padrona è una donna rispettata. |
-| [[Pompey|POMPEO]] | (a [[Escalus|Escalo]]) Per questa mano, signore, sua moglie è persona più rispettata di tutti noi. |
-| ELBOW | Manigoldo, tu menti; tu menti, malvagio manigoldo. Deve ancora venire il [[Time|tempo]] in cui ella sia mai stata rispettata con uomo, donna o [[Child|fanciullo]]. |
-| [[Pompey|POMPEO]] | Signore, ella fu rispettata con lui prima ch’egli la sposasse. |
-| [[Escalus|ESCALO]] | Chi è il più savio qui, la giustizia o l’iniquità? (A Elbow) È vero questo? |
-| ELBOW | (a [[Pompey|Pompeo]]) O tu scellerato, o tu manigoldo, o tu malvagio Annibale! Io rispettato con lei prima d’esserle sposato? (A [[Escalus|Escalo]]) Se mai fui rispettato con lei, o lei con me, non mi tenga vossignoria per il povero ufficiale del Duca. (A [[Pompey|Pompeo]]) Prova questo, malvagio Annibale, o intenterò contro di te la mia azione per percosse. |
-| [[Escalus|ESCALO]] | Se ti desse uno schiaffo sull’orecchio, potresti avere anche la tua azione per calunnia. |
+| [[Pompey\|POMPEO]] | Supplico vostro [[Honour\|onore]], chiedetelo a me. |
+| [[Escalus\|ESCALO]] | [[Well\|Bene]], signore, che le fece questo gentiluomo? |
+| [[Pompey\|POMPEO]] | Vi supplico, signore, guardate in faccia questo gentiluomo. Buon messer Froth, guardate il suo [[Honour\|onore]]. È per un buon fine. Nota vostro [[Honour\|onore]] la sua faccia? |
+| [[Escalus\|ESCALO]] | Sì, signore, molto [[Well\|bene]]. |
+| [[Pompey\|POMPEO]] | No, vi supplico, notatela [[Well\|bene]]. |
+| [[Escalus\|ESCALO]] | [[Well\|Bene]], lo faccio. |
+| [[Pompey\|POMPEO]] | Vede vostro [[Honour\|onore]] alcun male nella sua faccia? |
+| [[Escalus\|ESCALO]] | Ma no. |
+| [[Pompey\|POMPEO]] | Sarò supposto sopra un libro che la sua faccia è la cosa peggiore che abbia. Bene, dunque—se la sua faccia è la cosa peggiore che abbia, come poteva messer Froth fare alcun male alla moglie del conestabile? Vorrei saperlo da vostro [[Honour\|onore]]. |
+| [[Escalus\|ESCALO]] | Ha ragione, conestabile; che ne dite? |
+| ELBOW | Primo, con vostra licenza, la [[house\|casa]] è una [[house\|casa]] rispettata; secondo, costui è un tipo rispettato; e la sua padrona è una donna rispettata. |
+| [[Pompey\|POMPEO]] | (a [[Escalus\|Escalo]]) Per questa mano, signore, sua moglie è persona più rispettata di tutti noi. |
+| ELBOW | Manigoldo, tu menti; tu menti, malvagio manigoldo. Deve ancora venire il [[Time\|tempo]] in cui ella sia mai stata rispettata con uomo, donna o [[Child\|fanciullo]]. |
+| [[Pompey\|POMPEO]] | Signore, ella fu rispettata con lui prima ch’egli la sposasse. |
+| [[Escalus\|ESCALO]] | Chi è il più savio qui, la giustizia o l’iniquità? (A Elbow) È vero questo? |
+| ELBOW | (a [[Pompey\|Pompeo]]) O tu scellerato, o tu manigoldo, o tu malvagio Annibale! Io rispettato con lei prima d’esserle sposato? (A [[Escalus\|Escalo]]) Se mai fui rispettato con lei, o lei con me, non mi tenga vossignoria per il povero ufficiale del Duca. (A [[Pompey\|Pompeo]]) Prova questo, malvagio Annibale, o intenterò contro di te la mia azione per percosse. |
+| [[Escalus\|ESCALO]] | Se ti desse uno schiaffo sull’orecchio, potresti avere anche la tua azione per calunnia. |
 | ELBOW | Perbacco, ne ringrazio la vostra buona signoria. Che cosa piace a vossignoria ch’io faccia di questo malvagio scellerato? |
-| [[Escalus|ESCALO]] | In verità, ufficiale, poiché egli ha in sé certe colpe che tu scopriresti se potessi, lascialo continuare nelle sue pratiche finché tu non sappia quali sono. |
+| [[Escalus\|ESCALO]] | In verità, ufficiale, poiché egli ha in sé certe colpe che tu scopriresti se potessi, lascialo continuare nelle sue pratiche finché tu non sappia quali sono. |
 | ELBOW | Perbacco, ne ringrazio vossignoria.—Vedi, malvagio manigoldo, ora, che cosa t’è capitato. Tu devi continuare adesso, manigoldo, tu devi continuare. |
-| [[Escalus|ESCALO]] | (a Froth) Dove siete nato, amico? |
+| [[Escalus\|ESCALO]] | (a Froth) Dove siete nato, amico? |
 | FROTH | Qui in Vienna, signore. |
-| [[Escalus|ESCALO]] | Avete ottanta sterline l’anno? |
+| [[Escalus\|ESCALO]] | Avete ottanta sterline l’anno? |
 | FROTH | Sì, con vostra licenza, signore. |
-| [[Escalus|ESCALO]] | Bene. (A [[Pompey|Pompeo]]) Di che mestiere siete, signore? |
-| [[Pompey|POMPEO]] | Spillatore, spillatore d’una povera vedova. |
-| [[Escalus|ESCALO]] | Il nome della vostra padrona? |
-| [[Pompey|POMPEO]] | Mistress Overdone. |
-| [[Escalus|ESCALO]] | Ha avuto più d’un marito? |
-| [[Pompey|POMPEO]] | Nove, signore—Overdone dall’ultimo. |
-| [[Escalus|ESCALO]] | Nove?—Venite qui da me, messer Froth. Messer Froth, non vorrei che frequentaste spillatori. Essi vi spilleranno, messer Froth, e voi li farete impiccare. Andatevene, e ch’io non senta più parlare di voi. |
-| FROTH | Ringrazio vossignoria. Per parte mia, non entro mai in una stanza d’una [[house|casa]] da spillare senza esservi tirato dentro. |
-| [[Escalus|ESCALO]] | [[Well|Bene]], basta così, messer Froth. Addio. |
+| [[Escalus\|ESCALO]] | Bene. (A [[Pompey\|Pompeo]]) Di che mestiere siete, signore? |
+| [[Pompey\|POMPEO]] | Spillatore, spillatore d’una povera vedova. |
+| [[Escalus\|ESCALO]] | Il nome della vostra padrona? |
+| [[Pompey\|POMPEO]] | Mistress Overdone. |
+| [[Escalus\|ESCALO]] | Ha avuto più d’un marito? |
+| [[Pompey\|POMPEO]] | Nove, signore—Overdone dall’ultimo. |
+| [[Escalus\|ESCALO]] | Nove?—Venite qui da me, messer Froth. Messer Froth, non vorrei che frequentaste spillatori. Essi vi spilleranno, messer Froth, e voi li farete impiccare. Andatevene, e ch’io non senta più parlare di voi. |
+| FROTH | Ringrazio vossignoria. Per parte mia, non entro mai in una stanza d’una [[house\|casa]] da spillare senza esservi tirato dentro. |
+| [[Escalus\|ESCALO]] | [[Well\|Bene]], basta così, messer Froth. Addio. |
 | *(didascalia)* | Esce Froth |
-| [[Escalus|ESCALO]] | Venite qui da me, messer Spillatore. Qual è il vostro<br>nome, messer Spillatore? |
-| [[Pompey|POMPEO]] | [[Pompey|Pompeo]]. |
-| [[Escalus|ESCALO]] | E poi? |
-| [[Pompey|POMPEO]] | Culo, signore. |
-| [[Escalus|ESCALO]] | In fede, e il tuo culo è la cosa più grande che tu abbia; sicché, nel senso più bestiale, sei [[Pompey|Pompeo]] il Grande. [[Pompey|Pompeo]], sei in parte un ruffiano, [[Pompey|Pompeo]], comunque tu lo colori con l’essere spillatore, non è vero? Su, dimmi il vero; sarà meglio per te. |
-| [[Pompey|POMPEO]] | In verità, signore, sono un pover’uomo che vorrebbe vivere. |
-| [[Escalus|ESCALO]] | E come vorresti vivere, [[Pompey|Pompeo]]? Facendo il ruffiano? Che pensi del mestiere, [[Pompey|Pompeo]]? È un mestiere lecito? |
-| [[Pompey|POMPEO]] | Se la legge lo permettesse, signore. |
-| [[Escalus|ESCALO]] | Ma la legge non lo permetterà, [[Pompey|Pompeo]]; né sarà permesso in Vienna. |
-| [[Pompey|POMPEO]] | Intende vossignoria castrare e sterilizzare tutta la gioventù della [[City|città]]? |
-| [[Escalus|ESCALO]] | No, [[Pompey|Pompeo]]. |
-| [[Pompey|POMPEO]] | In verità, signore, a mio povero parere ci si metteranno allora. Se vossignoria provvederà alle sgualdrine e ai furfanti, non c’è bisogno di [[Fear|temere]] i ruffiani. |
-| [[Escalus|ESCALO]] | Cominciano dei bei provvedimenti, ve lo posso dire. Non c’è che decapitare e impiccare. |
-| [[Pompey|POMPEO]] | Se decapitate e impiccate tutti quelli che offendono per quella via anche solo per dieci anni di fila, sarete lieti di emanare una commissione per aver altre teste. Se questa legge dura in Vienna dieci anni, affitterò la più bella [[house|casa]] della città a tre soldi la campata. Se vivrete tanto da veder ciò accadere, dite che [[Pompey|Pompeo]] ve l’aveva detto. |
-| [[Escalus|ESCALO]] | Grazie, buon [[Pompey|Pompeo]]; e in ricompensa della tua profezia, ascolta. Ti avverto: che io non ti trovi più davanti a me per qualsivoglia denuncia; no, neppure per abitare dove abiti. Se accade, [[Pompey|Pompeo]], ti ricaccerò a bastonate nella tua tenda, e sarò per te un accorto Cesare; a parlar chiaro, [[Pompey|Pompeo]], ti farò frustare. Dunque per questa [[Time|volta]], [[Pompey|Pompeo]], sta’ [[Well|bene]]. |
-| *(didascalia)* | [[Pompey|POMPEO]] Ringrazio vossignoria del buon consiglio; a parte ma lo seguirò come la carne e la fortuna meglio determineranno. Frustarmi? No, no; il carrettiere frusti la sua rozza. Il cuore valoroso non si lascia frustare fuori dal suo mestiere. Esce |
-| [[Escalus|ESCALO]] | Venite qui da me, messer Elbow; venite qui, messer Conestabile. Da quanto tempo siete in questo posto di conestabile? |
+| [[Escalus\|ESCALO]] | Venite qui da me, messer Spillatore. Qual è il vostro<br>nome, messer Spillatore? |
+| [[Pompey\|POMPEO]] | [[Pompey\|Pompeo]]. |
+| [[Escalus\|ESCALO]] | E poi? |
+| [[Pompey\|POMPEO]] | Culo, signore. |
+| [[Escalus\|ESCALO]] | In fede, e il tuo culo è la cosa più grande che tu abbia; sicché, nel senso più bestiale, sei [[Pompey\|Pompeo]] il Grande. [[Pompey\|Pompeo]], sei in parte un ruffiano, [[Pompey\|Pompeo]], comunque tu lo colori con l’essere spillatore, non è vero? Su, dimmi il vero; sarà meglio per te. |
+| [[Pompey\|POMPEO]] | In verità, signore, sono un pover’uomo che vorrebbe vivere. |
+| [[Escalus\|ESCALO]] | E come vorresti vivere, [[Pompey\|Pompeo]]? Facendo il ruffiano? Che pensi del mestiere, [[Pompey\|Pompeo]]? È un mestiere lecito? |
+| [[Pompey\|POMPEO]] | Se la legge lo permettesse, signore. |
+| [[Escalus\|ESCALO]] | Ma la legge non lo permetterà, [[Pompey\|Pompeo]]; né sarà permesso in Vienna. |
+| [[Pompey\|POMPEO]] | Intende vossignoria castrare e sterilizzare tutta la gioventù della [[City\|città]]? |
+| [[Escalus\|ESCALO]] | No, [[Pompey\|Pompeo]]. |
+| [[Pompey\|POMPEO]] | In verità, signore, a mio povero parere ci si metteranno allora. Se vossignoria provvederà alle sgualdrine e ai furfanti, non c’è bisogno di [[Fear\|temere]] i ruffiani. |
+| [[Escalus\|ESCALO]] | Cominciano dei bei provvedimenti, ve lo posso dire. Non c’è che decapitare e impiccare. |
+| [[Pompey\|POMPEO]] | Se decapitate e impiccate tutti quelli che offendono per quella via anche solo per dieci anni di fila, sarete lieti di emanare una commissione per aver altre teste. Se questa legge dura in Vienna dieci anni, affitterò la più bella [[house\|casa]] della città a tre soldi la campata. Se vivrete tanto da veder ciò accadere, dite che [[Pompey\|Pompeo]] ve l’aveva detto. |
+| [[Escalus\|ESCALO]] | Grazie, buon [[Pompey\|Pompeo]]; e in ricompensa della tua profezia, ascolta. Ti avverto: che io non ti trovi più davanti a me per qualsivoglia denuncia; no, neppure per abitare dove abiti. Se accade, [[Pompey\|Pompeo]], ti ricaccerò a bastonate nella tua tenda, e sarò per te un accorto Cesare; a parlar chiaro, [[Pompey\|Pompeo]], ti farò frustare. Dunque per questa [[Time\|volta]], [[Pompey\|Pompeo]], sta’ [[Well\|bene]]. |
+| *(didascalia)* | [[Pompey\|POMPEO]] Ringrazio vossignoria del buon consiglio; a parte ma lo seguirò come la carne e la fortuna meglio determineranno. Frustarmi? No, no; il carrettiere frusti la sua rozza. Il cuore valoroso non si lascia frustare fuori dal suo mestiere. Esce |
+| [[Escalus\|ESCALO]] | Venite qui da me, messer Elbow; venite qui, messer Conestabile. Da quanto tempo siete in questo posto di conestabile? |
 | ELBOW | Sette anni e mezzo, signore. |
-| [[Escalus|ESCALO]] | Pensavo, dalla prontezza nell’ufficio, che vi foste rimasto qualche [[Time|tempo]]. Dite sette anni di fila? |
+| [[Escalus\|ESCALO]] | Pensavo, dalla prontezza nell’ufficio, che vi foste rimasto qualche [[Time\|tempo]]. Dite sette anni di fila? |
 | ELBOW | E mezzo, signore. |
-| [[Escalus|ESCALO]] | Ahimè, è stata gran fatica per voi. Vi fanno torto a mettervici così spesso. Non ci sono uomini nel vostro quartiere capaci di servirlo? |
-| ELBOW | In [[Faith|fede]], signore, pochi con un po’ d’ingegno in tali materie. Quando son scelti, sono ben contenti di scegliere me al posto loro. Lo faccio per qualche pezzo di denaro, e sbrigo tutto. |
-| [[Escalus|ESCALO]] | Badate di portarmi i nomi di sei o sette, i più capaci della vostra parrocchia. |
-| ELBOW | Alla [[house|casa]] di vossignoria, signore? |
-| [[Escalus|ESCALO]] | Alla mia [[house|casa]]. State [[Well|bene]]. |
+| [[Escalus\|ESCALO]] | Ahimè, è stata gran fatica per voi. Vi fanno torto a mettervici così spesso. Non ci sono uomini nel vostro quartiere capaci di servirlo? |
+| ELBOW | In [[Faith\|fede]], signore, pochi con un po’ d’ingegno in tali materie. Quando son scelti, sono ben contenti di scegliere me al posto loro. Lo faccio per qualche pezzo di denaro, e sbrigo tutto. |
+| [[Escalus\|ESCALO]] | Badate di portarmi i nomi di sei o sette, i più capaci della vostra parrocchia. |
+| ELBOW | Alla [[house\|casa]] di vossignoria, signore? |
+| [[Escalus\|ESCALO]] | Alla mia [[house\|casa]]. State [[Well\|bene]]. |
 | *(didascalia)* | Esce Elbow con gli ufficiali |
-| [[Escalus|ESCALO]] | Che [[Clock|ora]] è, secondo voi? |
+| [[Escalus\|ESCALO]] | Che [[Clock\|ora]] è, secondo voi? |
 | GIUDICE | Le undici, signore. |
-| [[Escalus|ESCALO]] | Vi prego a [[Home|casa]] a pranzo con me. |
+| [[Escalus\|ESCALO]] | Vi prego a [[Home\|casa]] a pranzo con me. |
 | GIUDICE | Umilmente vi ringrazio. |
-| [[Escalus|ESCALO]] | Mi duole per la [[Death|morte]] di [[Claudio]],<br>ma non c’è rimedio. |
+| [[Escalus\|ESCALO]] | Mi duole per la [[Death\|morte]] di [[Claudio]],<br>ma non c’è rimedio. |
 | GIUDICE | Il signor [[Angelo]] è severo. |
-| [[Escalus|ESCALO]] | È solo necessario.<br>La [[Mercy|clemenza]] non è tale, quella che spesso lo sembra.<br>Il perdono è sempre la [[Nurse|nutrice]] d’una seconda sciagura.<br>Eppure, povero [[Claudio]]! Non c’è rimedio.<br>Venite, signore. |
+| [[Escalus\|ESCALO]] | È solo necessario.<br>La [[Mercy\|clemenza]] non è tale, quella che spesso lo sembra.<br>Il perdono è sempre la [[Nurse\|nutrice]] d’una seconda sciagura.<br>Eppure, povero [[Claudio]]! Non c’è rimedio.<br>Venite, signore. |
 | *(didascalia)* | Escono |
 
 
@@ -1976,83 +1976,83 @@ Measure for Measure
 | SERVO | Sta ascoltando una causa; verrà subito.<br>Gli dirò di voi. |
 | PREVOSTO | Fatelo, vi prego. |
 | *(didascalia)* | Esce il Servo |
-| PREVOSTO | Conoscerò<br>il suo piacere; forse s’intenerirà. Ahimè,<br>egli non ha peccato che in [[A Dream|un sogno]].<br>Ogni setta, ogni età sa di questo vizio; ed egli<br>morire per questo! |
+| PREVOSTO | Conoscerò<br>il suo piacere; forse s’intenerirà. Ahimè,<br>egli non ha peccato che in [[A Dream\|un sogno]].<br>Ogni setta, ogni età sa di questo vizio; ed egli<br>morire per questo! |
 | *(didascalia)* | Entra |
 | PREVOSTO | [[Angelo]] |
-| [[Angelo|ANGELO]] | Dunque, che c’è, Prevosto? |
+| [[Angelo\|ANGELO]] | Dunque, che c’è, Prevosto? |
 | PREVOSTO | È vostra volontà che [[Claudio]] muoia domani? |
-| [[Angelo|ANGELO]] | Non ti dissi di sì? Non avesti l’ordine?<br>Perché lo domandi di nuovo? |
+| [[Angelo\|ANGELO]] | Non ti dissi di sì? Non avesti l’ordine?<br>Perché lo domandi di nuovo? |
 | PREVOSTO | Per non essere troppo avventato.<br>Con vostra buona correzione, ho veduto<br>che dopo l’esecuzione il giudizio si è<br>pentito della sua condanna. |
-| [[Angelo|ANGELO]] | Andiamo; quello sia affar mio.<br>Fate il vostro ufficio, o cedete il vostro posto,<br>e sarete [[Well|bene]] risparmiato. |
-| PREVOSTO | Imploro il perdono di vostro [[Honour|onore]].<br>Che si farà, signore, della gemente [[Juliet|Giulietta]]?<br>È vicinissima alla sua ora. |
-| [[Angelo|ANGELO]] | Disponetela<br>in qualche luogo più adatto, e questo con [[Speed|prestezza]]. |
+| [[Angelo\|ANGELO]] | Andiamo; quello sia affar mio.<br>Fate il vostro ufficio, o cedete il vostro posto,<br>e sarete [[Well\|bene]] risparmiato. |
+| PREVOSTO | Imploro il perdono di vostro [[Honour\|onore]].<br>Che si farà, signore, della gemente [[Juliet\|Giulietta]]?<br>È vicinissima alla sua ora. |
+| [[Angelo\|ANGELO]] | Disponetela<br>in qualche luogo più adatto, e questo con [[Speed\|prestezza]]. |
 | *(didascalia)* | Entra il Servo |
 | SERVO | C’è qui la sorella del condannato che desidera accesso a voi. |
-| [[Angelo|ANGELO]] | Ha una sorella? |
+| [[Angelo\|ANGELO]] | Ha una sorella? |
 | PREVOSTO | Sì, mio buon signore; fanciulla virtuosissima,<br>e fra poco di una sorellanza,<br>se già non lo è. |
-| [[Angelo|ANGELO]] | [[Well|Bene]], sia ammessa. |
+| [[Angelo\|ANGELO]] | [[Well\|Bene]], sia ammessa. |
 | *(didascalia)* | Esce il Servo |
-| [[Angelo|ANGELO]] | Badate che la fornicatrice sia trasferita.<br>Abbia il necessario ma non mezzi larghi.<br>Se ne darà ordine. |
+| [[Angelo\|ANGELO]] | Badate che la fornicatrice sia trasferita.<br>Abbia il necessario ma non mezzi larghi.<br>Se ne darà ordine. |
 | *(didascalia)* | Entrano [[Lucio]] e [[Isabella]] |
-| PREVOSTO | Dio salvi vostro [[Honour|onore]]. |
-| [[Angelo|ANGELO]] | Trattenetevi un poco. (A [[Isabella]]) Siate la benvenuta.<br>Qual è la vostra volontà? |
-| [[Isabella|ISABELLA]] | Sono una dolente supplice a vostro [[Honour|onore]].<br>Piaccia solo a vostro [[Honour|onore]] ascoltarmi. |
-| [[Angelo|ANGELO]] | [[Well|Bene]], qual è la vostra supplica? |
-| [[Isabella|ISABELLA]] | V’è un vizio che sopra ogni altro aborro,<br>e sopra ogni altro [[Desire|desidero]] incontri il colpo della giustizia,<br>per il quale non vorrei perorare, se non dovessi;<br>per il quale non devo perorare, se non fossi<br>in guerra fra il volere e il non volere. |
-| [[Angelo|ANGELO]] | [[Well|Bene]], la faccenda? |
-| [[Isabella|ISABELLA]] | Ho un fratello ch’è condannato a morire.<br>Vi supplico, sia condannata la sua colpa,<br>e non mio fratello. |
+| PREVOSTO | Dio salvi vostro [[Honour\|onore]]. |
+| [[Angelo\|ANGELO]] | Trattenetevi un poco. (A [[Isabella]]) Siate la benvenuta.<br>Qual è la vostra volontà? |
+| [[Isabella\|ISABELLA]] | Sono una dolente supplice a vostro [[Honour\|onore]].<br>Piaccia solo a vostro [[Honour\|onore]] ascoltarmi. |
+| [[Angelo\|ANGELO]] | [[Well\|Bene]], qual è la vostra supplica? |
+| [[Isabella\|ISABELLA]] | V’è un vizio che sopra ogni altro aborro,<br>e sopra ogni altro [[Desire\|desidero]] incontri il colpo della giustizia,<br>per il quale non vorrei perorare, se non dovessi;<br>per il quale non devo perorare, se non fossi<br>in guerra fra il volere e il non volere. |
+| [[Angelo\|ANGELO]] | [[Well\|Bene]], la faccenda? |
+| [[Isabella\|ISABELLA]] | Ho un fratello ch’è condannato a morire.<br>Vi supplico, sia condannata la sua colpa,<br>e non mio fratello. |
 | PREVOSTO | (a parte)<br>Il cielo ti dia grazie che commuovano! |
-| [[Angelo|ANGELO]] | Condannare la colpa, e non chi l’ha commessa?<br>Ma ogni colpa è condannata prima ancora d’esser fatta.<br>La mia sarebbe la cifra vuota d’un ufficio,<br>multare le colpe la cui multa sta scritta nei registri,<br>e lasciar correre chi le compie. |
-| [[Isabella|ISABELLA]] | O legge giusta ma severa!<br>Avevo un fratello, dunque. Il cielo custodisca vostro [[Honour|onore]]. |
-| [[Lucio|LUCIO]] | (a parte, a [[Isabella]])<br>Non cedete così. Da lui di nuovo; supplicatelo.<br>Inginocchiatevi davanti a lui; aggrappatevi alla sua veste.<br>Siete troppo fredda. Se vi occorresse uno spillo,<br>non lo [[Desire|chiedereste]] con lingua più mansueta.<br>Da lui, vi dico! |
-| [[Isabella|ISABELLA]] | (ad [[Angelo]]) Deve proprio morire? |
-| [[Angelo|ANGELO]] | Fanciulla, non c’è rimedio. |
-| [[Isabella|ISABELLA]] | Sì, io penso che potreste perdonarlo,<br>e né cielo né uomo si dorrebbe di quella [[Mercy|clemenza]]. |
-| [[Angelo|ANGELO]] | Non lo farò. |
-| [[Isabella|ISABELLA]] | Ma potreste, se voleste? |
-| [[Angelo|ANGELO]] | Vedete, ciò che non voglio, quello non posso fare. |
-| [[Isabella|ISABELLA]] | Ma potreste farlo, e non fare torto al mondo,<br>se il vostro cuore fosse tocco da quella pietà<br>di cui il mio è tocco per lui? |
-| [[Angelo|ANGELO]] | È sentenziato; è troppo tardi. |
-| [[Lucio|LUCIO]] | (a parte, a [[Isabella]]) Siete troppo fredda. |
-| [[Isabella|ISABELLA]] | Troppo tardi? Ma no; io che pronuncio una parola<br>posso richiamarla. [[Well|Bene]], credete a questo,<br>nessuna cerimonia che ai grandi appartenga,<br>non la [[Crown|corona]] del [[King|re]], né la [[Sword|spada]] delegata,<br>il bastone del maresciallo, né la toga del giudice,<br>li adorna con grazia neppure a metà così bella<br>come fa la [[Mercy|clemenza]].<br>Se egli fosse stato come voi e voi come lui,<br>voi sareste scivolato al pari suo, ma egli, come voi,<br>non sarebbe stato così duro. |
-| [[Angelo|ANGELO]] | Vi prego, andatevene. |
-| [[Isabella|ISABELLA]] | Volesse il cielo ch’io avessi la vostra potenza,<br>e voi foste Isabella! Sarebbe allora così?<br>No; io direi che cosa è essere giudice,<br>e che cosa prigioniero. |
-| [[Lucio|LUCIO]] | (a parte, a [[Isabella]]) Sì, toccatelo; là è la vena. |
-| [[Angelo|ANGELO]] | Vostro fratello è confiscato dalla legge,<br>e voi non fate che sprecare parole. |
-| [[Isabella|ISABELLA]] | Ahimè, ahimè!<br>Ma tutte le anime che furono, furono un tempo confiscate,<br>e Colui che meglio d’ogni altro poteva prenderne vantaggio<br>trovò il rimedio. Che sarebbe di voi<br>se Colui ch’è il sommo del giudizio<br>vi giudicasse quale voi siete? Oh, pensate a questo,<br>e la [[Mercy|clemenza]] allora spirerà entro le vostre labbra,<br>come d’uomo rifatto nuovo. |
-| [[Angelo|ANGELO]] | Rassegnatevi, bella fanciulla.<br>È la legge, non io, che condanna vostro fratello.<br>Fosse mio parente, mio fratello, o mio figlio,<br>gli andrebbe così. Deve morire domani. |
-| [[Isabella|ISABELLA]] | Domani? Oh, è troppo improvviso! Risparmiatelo, risparmiatelo!<br>Non è preparato alla [[Death|morte]]. Persino per le nostre cucine<br>uccidiamo il volatile a stagione. Serviremo il cielo<br>con minor riguardo di quanto provvediamo<br>al nostro grossolano corpo? Buono, buon signore, pensateci:<br>chi è mai morto per questa colpa?<br>Molti l’hanno commessa. |
-| [[Lucio|LUCIO]] | (a parte)<br>Sì, [[Well|ben]] detto. |
-| [[Angelo|ANGELO]] | La legge non è stata morta, benché abbia dormito.<br>Quei molti non avrebbero osato compiere quel male<br>se il primo che infranse l’editto<br>ne avesse risposto. Ora essa è desta,<br>prende nota di ciò che si fa, e, come un [[Prophet|profeta]],<br>guarda in uno specchio che mostra quali mali futuri,<br>o non ancor formati, o per negligenza appena concepiti<br>e così in cammino per essere covati e nati,<br>ora non avranno gradi successivi,<br>ma prima di vivere finiranno. |
-| [[Isabella|ISABELLA]] | Mostrate pure un po’ di pietà. |
-| [[Angelo|ANGELO]] | La mostro più di tutto quando mostro giustizia,<br>ché allora ho pietà di quelli che non conosco<br>e che una colpa impunita poi strazierebbe,<br>e rendo giustizia a colui che, pagando un solo turpe torto,<br>non vive a commetterne un altro. Rassegnatevi.<br>Vostro fratello muore domani. Datevi pace. |
-| [[Isabella|ISABELLA]] | Così voi dovete essere il primo a dare questa sentenza,<br>ed egli il primo a subirla. Oh, è cosa eccellente<br>avere la forza d’un gigante, ma è tirannico<br>usarla da gigante. |
-| [[Lucio|LUCIO]] | (a parte, a [[Isabella]]) Questo è [[Well|ben]] detto. |
-| [[Isabella|ISABELLA]] | Se i grandi potessero tuonare<br>come Giove stesso, Giove non avrebbe mai quiete,<br>ché ogni meschino piccolo ufficiale<br>userebbe il suo cielo per tuonare, nient’altro che<br>tuonare.<br>Cielo misericordioso,<br>tu piuttosto col tuo acuto e sulfureo fulmine<br>spacchi la quercia nodosa e inspaccabile<br>che il tenero mirto. Ma l’uomo, l’uomo superbo,<br>vestito d’una piccola e breve autorità,<br>ignorantissimo di ciò di cui è più certo,<br>la sua vitrea essenza, come una scimmia adirata<br>fa tali fantastiche buffonate davanti all’alto cielo<br>da far piangere gli angeli, i quali, avendo la nostra milza,<br>riderebbero tutti fino a farsi mortali. |
-| [[Lucio|LUCIO]] | (a parte, a [[Isabella]])<br>Oh, addosso, addosso a lui, ragazza! Cederà.<br>Sta venendo; me n’accorgo. |
+| [[Angelo\|ANGELO]] | Condannare la colpa, e non chi l’ha commessa?<br>Ma ogni colpa è condannata prima ancora d’esser fatta.<br>La mia sarebbe la cifra vuota d’un ufficio,<br>multare le colpe la cui multa sta scritta nei registri,<br>e lasciar correre chi le compie. |
+| [[Isabella\|ISABELLA]] | O legge giusta ma severa!<br>Avevo un fratello, dunque. Il cielo custodisca vostro [[Honour\|onore]]. |
+| [[Lucio\|LUCIO]] | (a parte, a [[Isabella]])<br>Non cedete così. Da lui di nuovo; supplicatelo.<br>Inginocchiatevi davanti a lui; aggrappatevi alla sua veste.<br>Siete troppo fredda. Se vi occorresse uno spillo,<br>non lo [[Desire\|chiedereste]] con lingua più mansueta.<br>Da lui, vi dico! |
+| [[Isabella\|ISABELLA]] | (ad [[Angelo]]) Deve proprio morire? |
+| [[Angelo\|ANGELO]] | Fanciulla, non c’è rimedio. |
+| [[Isabella\|ISABELLA]] | Sì, io penso che potreste perdonarlo,<br>e né cielo né uomo si dorrebbe di quella [[Mercy\|clemenza]]. |
+| [[Angelo\|ANGELO]] | Non lo farò. |
+| [[Isabella\|ISABELLA]] | Ma potreste, se voleste? |
+| [[Angelo\|ANGELO]] | Vedete, ciò che non voglio, quello non posso fare. |
+| [[Isabella\|ISABELLA]] | Ma potreste farlo, e non fare torto al mondo,<br>se il vostro cuore fosse tocco da quella pietà<br>di cui il mio è tocco per lui? |
+| [[Angelo\|ANGELO]] | È sentenziato; è troppo tardi. |
+| [[Lucio\|LUCIO]] | (a parte, a [[Isabella]]) Siete troppo fredda. |
+| [[Isabella\|ISABELLA]] | Troppo tardi? Ma no; io che pronuncio una parola<br>posso richiamarla. [[Well\|Bene]], credete a questo,<br>nessuna cerimonia che ai grandi appartenga,<br>non la [[Crown\|corona]] del [[King\|re]], né la [[Sword\|spada]] delegata,<br>il bastone del maresciallo, né la toga del giudice,<br>li adorna con grazia neppure a metà così bella<br>come fa la [[Mercy\|clemenza]].<br>Se egli fosse stato come voi e voi come lui,<br>voi sareste scivolato al pari suo, ma egli, come voi,<br>non sarebbe stato così duro. |
+| [[Angelo\|ANGELO]] | Vi prego, andatevene. |
+| [[Isabella\|ISABELLA]] | Volesse il cielo ch’io avessi la vostra potenza,<br>e voi foste Isabella! Sarebbe allora così?<br>No; io direi che cosa è essere giudice,<br>e che cosa prigioniero. |
+| [[Lucio\|LUCIO]] | (a parte, a [[Isabella]]) Sì, toccatelo; là è la vena. |
+| [[Angelo\|ANGELO]] | Vostro fratello è confiscato dalla legge,<br>e voi non fate che sprecare parole. |
+| [[Isabella\|ISABELLA]] | Ahimè, ahimè!<br>Ma tutte le anime che furono, furono un tempo confiscate,<br>e Colui che meglio d’ogni altro poteva prenderne vantaggio<br>trovò il rimedio. Che sarebbe di voi<br>se Colui ch’è il sommo del giudizio<br>vi giudicasse quale voi siete? Oh, pensate a questo,<br>e la [[Mercy\|clemenza]] allora spirerà entro le vostre labbra,<br>come d’uomo rifatto nuovo. |
+| [[Angelo\|ANGELO]] | Rassegnatevi, bella fanciulla.<br>È la legge, non io, che condanna vostro fratello.<br>Fosse mio parente, mio fratello, o mio figlio,<br>gli andrebbe così. Deve morire domani. |
+| [[Isabella\|ISABELLA]] | Domani? Oh, è troppo improvviso! Risparmiatelo, risparmiatelo!<br>Non è preparato alla [[Death\|morte]]. Persino per le nostre cucine<br>uccidiamo il volatile a stagione. Serviremo il cielo<br>con minor riguardo di quanto provvediamo<br>al nostro grossolano corpo? Buono, buon signore, pensateci:<br>chi è mai morto per questa colpa?<br>Molti l’hanno commessa. |
+| [[Lucio\|LUCIO]] | (a parte)<br>Sì, [[Well\|ben]] detto. |
+| [[Angelo\|ANGELO]] | La legge non è stata morta, benché abbia dormito.<br>Quei molti non avrebbero osato compiere quel male<br>se il primo che infranse l’editto<br>ne avesse risposto. Ora essa è desta,<br>prende nota di ciò che si fa, e, come un [[Prophet\|profeta]],<br>guarda in uno specchio che mostra quali mali futuri,<br>o non ancor formati, o per negligenza appena concepiti<br>e così in cammino per essere covati e nati,<br>ora non avranno gradi successivi,<br>ma prima di vivere finiranno. |
+| [[Isabella\|ISABELLA]] | Mostrate pure un po’ di pietà. |
+| [[Angelo\|ANGELO]] | La mostro più di tutto quando mostro giustizia,<br>ché allora ho pietà di quelli che non conosco<br>e che una colpa impunita poi strazierebbe,<br>e rendo giustizia a colui che, pagando un solo turpe torto,<br>non vive a commetterne un altro. Rassegnatevi.<br>Vostro fratello muore domani. Datevi pace. |
+| [[Isabella\|ISABELLA]] | Così voi dovete essere il primo a dare questa sentenza,<br>ed egli il primo a subirla. Oh, è cosa eccellente<br>avere la forza d’un gigante, ma è tirannico<br>usarla da gigante. |
+| [[Lucio\|LUCIO]] | (a parte, a [[Isabella]]) Questo è [[Well\|ben]] detto. |
+| [[Isabella\|ISABELLA]] | Se i grandi potessero tuonare<br>come Giove stesso, Giove non avrebbe mai quiete,<br>ché ogni meschino piccolo ufficiale<br>userebbe il suo cielo per tuonare, nient’altro che<br>tuonare.<br>Cielo misericordioso,<br>tu piuttosto col tuo acuto e sulfureo fulmine<br>spacchi la quercia nodosa e inspaccabile<br>che il tenero mirto. Ma l’uomo, l’uomo superbo,<br>vestito d’una piccola e breve autorità,<br>ignorantissimo di ciò di cui è più certo,<br>la sua vitrea essenza, come una scimmia adirata<br>fa tali fantastiche buffonate davanti all’alto cielo<br>da far piangere gli angeli, i quali, avendo la nostra milza,<br>riderebbero tutti fino a farsi mortali. |
+| [[Lucio\|LUCIO]] | (a parte, a [[Isabella]])<br>Oh, addosso, addosso a lui, ragazza! Cederà.<br>Sta venendo; me n’accorgo. |
 | PREVOSTO | (a parte)<br>Voglia il cielo ch’ella lo vinca! |
-| [[Isabella|ISABELLA]] | Non possiamo pesare nostro fratello con noi stessi.<br>I grandi possono scherzare coi santi; in loro è arguzia,<br>ma nei minori, turpe profanazione. |
-| [[Lucio|LUCIO]] | (a parte, a [[Isabella]]) Hai ragione, ragazza. Ancora di<br>questo. |
-| [[Isabella|ISABELLA]] | Ciò che nel capitano è solo parola collerica,<br>nel soldato è bella e buona bestemmia. |
-| [[Lucio|LUCIO]] | (a parte, a [[Isabella]]) Te ne intendi? Ancora su questo. |
-| [[Angelo|ANGELO]] | Perché mi rovesciate addosso queste sentenze? |
-| [[Isabella|ISABELLA]] | Perché l’autorità, benché erri come gli altri,<br>ha pure in sé una specie di medicina<br>che cicatrizza il vizio in superficie. Andate al vostro petto;<br>bussate là, e chiedete al vostro cuore che cosa sappia<br>di simile alla colpa di mio fratello. Se esso confessa<br>una naturale colpevolezza, quale è la sua,<br>non lasci risonare un solo pensiero sulla vostra lingua<br>contro la vita di mio fratello. |
-| [[Angelo|ANGELO]] | (a parte)<br>Ella parla, ed è tale senso<br>che il mio senso ne germina. (A [[Isabella]]) State<br>[[Well|bene]]. |
-| [[Isabella|ISABELLA]] | Gentile mio signore, tornate indietro. |
-| [[Angelo|ANGELO]] | Ci penserò. Tornate domani. |
-| [[Isabella|ISABELLA]] | Udite come vi corromperò; buon signore, tornate indietro. |
-| [[Angelo|ANGELO]] | Come, corrompermi? |
-| [[Isabella|ISABELLA]] | Sì, con doni tali che il cielo li dividerà con voi. |
-| [[Lucio|LUCIO]] | (a parte, a [[Isabella]]) Altrimenti avreste rovinato tutto. |
-| [[Isabella|ISABELLA]] | Non con vani sicli d’oro saggiato,<br>o con gemme, il cui prezzo è ricco o povero<br>secondo che il capriccio le valuti; ma con vere preghiere,<br>che saranno lassù in cielo ed entreranno là<br>prima del levar del sole, preghiere d’anime preservate,<br>di fanciulle digiune le cui menti son dedicate<br>a nulla di temporale. |
-| [[Angelo|ANGELO]] | [[Well|Bene]], venite da me domani |
-| [[Lucio|LUCIO]] | (a parte, a [[Isabella]]) Andiamo; va [[Well|bene]]; via. |
-| [[Isabella|ISABELLA]] | Il cielo tenga salvo vostro [[Honour|onore]]. |
-| [[Angelo|ANGELO]] | (a parte) Amen;<br>ché per quella via io vado alla [[Temptation|tentazione]],<br>dove la [[prayer|preghiera]] è contrastata. |
-| [[Isabella|ISABELLA]] | A quale ora domani<br>dovrò presentarmi a vostra signoria? |
-| [[Angelo|ANGELO]] | A qualunque [[Time|ora]] prima di [[Noon|mezzogiorno]]. |
-| [[Isabella|ISABELLA]] | Dio salvi vostro [[Honour|onore]]. |
-| [[Angelo|ANGELO]] | (a parte)<br>Da te; proprio dalla tua virtù. Escono [[Isabella]], [[Lucio]] e il Prevosto<br>Che è questo? Che è questo? È sua colpa o mia?<br>Il tentatore o il tentato, chi pecca di più, eh?<br>Non lei; né ella tenta; ma sono io<br>che, giacendo accanto alla violetta al sole,<br>faccio come la carogna, non come il fiore,<br>e mi corrompo alla virtuosa stagione. Può essere<br>che la modestia tradisca i nostri sensi più<br>della leggerezza d’una donna? Avendo terra incolta a sufficienza,<br>[[Desire|desidereremo]] radere al suolo il santuario,<br>e piantarvi le nostre latrine? Oh, vergogna, vergogna, vergogna!<br>Che fai tu, o che sei tu, [[Angelo]]?<br>La [[Desire|desideri]] turpemente per quelle cose<br>che la fanno buona? Oh, viva pure suo fratello!<br>I ladri hanno licenza per la loro rapina,<br>quando i giudici rubano essi stessi. Come, l’[[Love|amo]] io,<br>che [[Desire|desidero]] udirla parlare ancora,<br>e banchettare sui suoi occhi? Che cos’è che sogno?<br>O astuto nemico, che per catturare un santo<br>coi santi eschi il tuo amo! Pericolosissima<br>è quella [[Temptation|tentazione]] che ci sprona<br>a peccare amando la virtù. Mai la meretrice,<br>con tutto il suo [[Double|doppio]] vigore—arte e [[Nature|natura]]—<br>poté smuovere una volta il mio umore; ma questa virtuosa fanciulla<br>mi soggioga del tutto. Sempre, fino a ora,<br>quando gli uomini s’infatuavano, io sorridevo, e mi chiedevo come. |
+| [[Isabella\|ISABELLA]] | Non possiamo pesare nostro fratello con noi stessi.<br>I grandi possono scherzare coi santi; in loro è arguzia,<br>ma nei minori, turpe profanazione. |
+| [[Lucio\|LUCIO]] | (a parte, a [[Isabella]]) Hai ragione, ragazza. Ancora di<br>questo. |
+| [[Isabella\|ISABELLA]] | Ciò che nel capitano è solo parola collerica,<br>nel soldato è bella e buona bestemmia. |
+| [[Lucio\|LUCIO]] | (a parte, a [[Isabella]]) Te ne intendi? Ancora su questo. |
+| [[Angelo\|ANGELO]] | Perché mi rovesciate addosso queste sentenze? |
+| [[Isabella\|ISABELLA]] | Perché l’autorità, benché erri come gli altri,<br>ha pure in sé una specie di medicina<br>che cicatrizza il vizio in superficie. Andate al vostro petto;<br>bussate là, e chiedete al vostro cuore che cosa sappia<br>di simile alla colpa di mio fratello. Se esso confessa<br>una naturale colpevolezza, quale è la sua,<br>non lasci risonare un solo pensiero sulla vostra lingua<br>contro la vita di mio fratello. |
+| [[Angelo\|ANGELO]] | (a parte)<br>Ella parla, ed è tale senso<br>che il mio senso ne germina. (A [[Isabella]]) State<br>[[Well\|bene]]. |
+| [[Isabella\|ISABELLA]] | Gentile mio signore, tornate indietro. |
+| [[Angelo\|ANGELO]] | Ci penserò. Tornate domani. |
+| [[Isabella\|ISABELLA]] | Udite come vi corromperò; buon signore, tornate indietro. |
+| [[Angelo\|ANGELO]] | Come, corrompermi? |
+| [[Isabella\|ISABELLA]] | Sì, con doni tali che il cielo li dividerà con voi. |
+| [[Lucio\|LUCIO]] | (a parte, a [[Isabella]]) Altrimenti avreste rovinato tutto. |
+| [[Isabella\|ISABELLA]] | Non con vani sicli d’oro saggiato,<br>o con gemme, il cui prezzo è ricco o povero<br>secondo che il capriccio le valuti; ma con vere preghiere,<br>che saranno lassù in cielo ed entreranno là<br>prima del levar del sole, preghiere d’anime preservate,<br>di fanciulle digiune le cui menti son dedicate<br>a nulla di temporale. |
+| [[Angelo\|ANGELO]] | [[Well\|Bene]], venite da me domani |
+| [[Lucio\|LUCIO]] | (a parte, a [[Isabella]]) Andiamo; va [[Well\|bene]]; via. |
+| [[Isabella\|ISABELLA]] | Il cielo tenga salvo vostro [[Honour\|onore]]. |
+| [[Angelo\|ANGELO]] | (a parte) Amen;<br>ché per quella via io vado alla [[Temptation\|tentazione]],<br>dove la [[prayer\|preghiera]] è contrastata. |
+| [[Isabella\|ISABELLA]] | A quale ora domani<br>dovrò presentarmi a vostra signoria? |
+| [[Angelo\|ANGELO]] | A qualunque [[Time\|ora]] prima di [[Noon\|mezzogiorno]]. |
+| [[Isabella\|ISABELLA]] | Dio salvi vostro [[Honour\|onore]]. |
+| [[Angelo\|ANGELO]] | (a parte)<br>Da te; proprio dalla tua virtù. Escono [[Isabella]], [[Lucio]] e il Prevosto<br>Che è questo? Che è questo? È sua colpa o mia?<br>Il tentatore o il tentato, chi pecca di più, eh?<br>Non lei; né ella tenta; ma sono io<br>che, giacendo accanto alla violetta al sole,<br>faccio come la carogna, non come il fiore,<br>e mi corrompo alla virtuosa stagione. Può essere<br>che la modestia tradisca i nostri sensi più<br>della leggerezza d’una donna? Avendo terra incolta a sufficienza,<br>[[Desire\|desidereremo]] radere al suolo il santuario,<br>e piantarvi le nostre latrine? Oh, vergogna, vergogna, vergogna!<br>Che fai tu, o che sei tu, [[Angelo]]?<br>La [[Desire\|desideri]] turpemente per quelle cose<br>che la fanno buona? Oh, viva pure suo fratello!<br>I ladri hanno licenza per la loro rapina,<br>quando i giudici rubano essi stessi. Come, l’[[Love\|amo]] io,<br>che [[Desire\|desidero]] udirla parlare ancora,<br>e banchettare sui suoi occhi? Che cos’è che sogno?<br>O astuto nemico, che per catturare un santo<br>coi santi eschi il tuo amo! Pericolosissima<br>è quella [[Temptation\|tentazione]] che ci sprona<br>a peccare amando la virtù. Mai la meretrice,<br>con tutto il suo [[Double\|doppio]] vigore—arte e [[Nature\|natura]]—<br>poté smuovere una volta il mio umore; ma questa virtuosa fanciulla<br>mi soggioga del tutto. Sempre, fino a ora,<br>quando gli uomini s’infatuavano, io sorridevo, e mi chiedevo come. |
 | *(didascalia)* | Esce |
 
 
@@ -2096,26 +2096,26 @@ Measure for Measure
 | *(didascalia)* | Entrano  da una porta il Duca, travestito da frate, e  da un’altra porta il Prevosto |
 | DUCA | Salute a voi, Prevosto!—tale credo che siate. |
 | PREVOSTO | Sono il Prevosto. Qual è il vostro volere, buon frate? |
-| DUCA | Obbligato dalla mia [[Charity|carità]] e dal mio benedetto ordine,<br>vengo a visitare gli spiriti afflitti<br>qui nella [[Prison|prigione]]. Fatemi il comune diritto<br>di lasciarmeli vedere, e di farmi conoscere<br>la [[Nature|natura]] dei loro delitti, ch’io possa provvedere<br>a loro di conseguenza. |
+| DUCA | Obbligato dalla mia [[Charity\|carità]] e dal mio benedetto ordine,<br>vengo a visitare gli spiriti afflitti<br>qui nella [[Prison\|prigione]]. Fatemi il comune diritto<br>di lasciarmeli vedere, e di farmi conoscere<br>la [[Nature\|natura]] dei loro delitti, ch’io possa provvedere<br>a loro di conseguenza. |
 | PREVOSTO | Farei più di questo, se più fosse necessario. |
-| *(didascalia)* | Entra [[Juliet|Giulietta]] |
-| PREVOSTO | Guardate, ne viene una, una gentildonna mia,<br>che, caduta nelle crepe della propria giovinezza,<br>ha bruciato la sua fama. È gravida d’un [[Child|figlio]],<br>e colui che glielo diede è condannato—un giovane<br>più adatto a commettere un’altra simile colpa<br>che a morire per questa. |
+| *(didascalia)* | Entra [[Juliet\|Giulietta]] |
+| PREVOSTO | Guardate, ne viene una, una gentildonna mia,<br>che, caduta nelle crepe della propria giovinezza,<br>ha bruciato la sua fama. È gravida d’un [[Child\|figlio]],<br>e colui che glielo diede è condannato—un giovane<br>più adatto a commettere un’altra simile colpa<br>che a morire per questa. |
 | DUCA | Quando deve morire? |
-| PREVOSTO | Domani, credo.<br>(A [[Juliet|Giulietta]]) Ho provveduto per voi. Attendete un poco,<br>e sarete accompagnata. |
+| PREVOSTO | Domani, credo.<br>(A [[Juliet\|Giulietta]]) Ho provveduto per voi. Attendete un poco,<br>e sarete accompagnata. |
 | DUCA | Vi pentite, bella, del peccato che portate? |
-| [[Juliet|GIULIETTA]] | Sì, e ne sopporto pazientissimamente la vergogna. |
-| DUCA | V’insegnerò come chiamare in giudizio la vostra [[Conscience|coscienza]],<br>e provare la vostra penitenza, se sia salda<br>o vanamente indossata. |
-| [[Juliet|GIULIETTA]] | Volentieri imparerò. |
-| DUCA | [[Love|Amate]] l’uomo che vi ha fatto torto? |
-| [[Juliet|GIULIETTA]] | Sì, come [[Love|amo]] la donna che a lui fece torto. |
+| [[Juliet\|GIULIETTA]] | Sì, e ne sopporto pazientissimamente la vergogna. |
+| DUCA | V’insegnerò come chiamare in giudizio la vostra [[Conscience\|coscienza]],<br>e provare la vostra penitenza, se sia salda<br>o vanamente indossata. |
+| [[Juliet\|GIULIETTA]] | Volentieri imparerò. |
+| DUCA | [[Love\|Amate]] l’uomo che vi ha fatto torto? |
+| [[Juliet\|GIULIETTA]] | Sì, come [[Love\|amo]] la donna che a lui fece torto. |
 | DUCA | Pare dunque che il vostro atto colpevolissimo<br>fu commesso di mutuo accordo? |
-| [[Juliet|GIULIETTA]] | Di mutuo accordo. |
+| [[Juliet\|GIULIETTA]] | Di mutuo accordo. |
 | DUCA | Allora il vostro peccato fu di specie più grave del suo. |
-| [[Juliet|GIULIETTA]] | Lo confesso e me ne pento, padre. |
-| DUCA | Così conviene, figliola. Ma badate di non pentirvi<br>solo perché il peccato v’ha portato a questa vergogna—<br>quale dolore è sempre volto a noi stessi, non al cielo,<br>e mostra che non risparmieremmo il cielo perché l’[[Love|amiamo]],<br>ma perché ne abbiamo [[Fear|paura]]— |
-| [[Juliet|GIULIETTA]] | Me ne pento in quanto è un male,<br>e accolgo la vergogna con gioia. |
+| [[Juliet\|GIULIETTA]] | Lo confesso e me ne pento, padre. |
+| DUCA | Così conviene, figliola. Ma badate di non pentirvi<br>solo perché il peccato v’ha portato a questa vergogna—<br>quale dolore è sempre volto a noi stessi, non al cielo,<br>e mostra che non risparmieremmo il cielo perché l’[[Love\|amiamo]],<br>ma perché ne abbiamo [[Fear\|paura]]— |
+| [[Juliet\|GIULIETTA]] | Me ne pento in quanto è un male,<br>e accolgo la vergogna con gioia. |
 | DUCA | Restate in questo.<br>Il vostro compagno, a quanto sento, deve morire domani,<br>e io vado a lui con istruzione.<br>La grazia sia con voi. Benedicite! Esce |
-| [[Juliet|GIULIETTA]] | Deve morire domani? O legge ingiuriosa,<br>che mi concede una vita il cui stesso conforto<br>è ancora un orrore che muore! |
+| [[Juliet\|GIULIETTA]] | Deve morire domani? O legge ingiuriosa,<br>che mi concede una vita il cui stesso conforto<br>è ancora un orrore che muore! |
 | PREVOSTO | Fa pietà per lui. |
 | *(didascalia)* | Escono |
 
@@ -2190,61 +2190,61 @@ Measure for Measure
 | Chi parla | Battuta |
 |---|---|
 | *(didascalia)* | Entra [[Angelo]] |
-| [[Angelo|ANGELO]] | Quando vorrei pregare e pensare, penso e prego<br>a soggetti diversi: il cielo ha le mie parole vuote,<br>mentre la mia immaginazione, non udendo la mia lingua,<br>getta l’àncora su Isabella; Dio nella mia bocca,<br>come se solo masticassi il suo nome,<br>e nel mio cuore il forte e gonfio male<br>del mio pensiero. Lo Stato su cui ho studiato<br>è come una cosa buona che, letta troppo spesso,<br>diventa arida e tediosa. Sì, la mia gravità,<br>della quale—nessuno mi senta—vado [[Pride|fiero]],<br>la cambierei con vantaggio per un’oziosa piuma<br>che l’aria batte invano. O carica, o forma,<br>quante volte col tuo involucro, col tuo abito,<br>strappi riverenza agli sciocchi, e leghi le anime più sagge<br>al tuo falso sembiante! [[Blood|Sangue]], tu sei [[Blood|sangue]].<br>Scriviamo pure ‘angelo buono’ sul corno del diavolo—<br>è ormai il cimiero del diavolo. |
+| [[Angelo\|ANGELO]] | Quando vorrei pregare e pensare, penso e prego<br>a soggetti diversi: il cielo ha le mie parole vuote,<br>mentre la mia immaginazione, non udendo la mia lingua,<br>getta l’àncora su Isabella; Dio nella mia bocca,<br>come se solo masticassi il suo nome,<br>e nel mio cuore il forte e gonfio male<br>del mio pensiero. Lo Stato su cui ho studiato<br>è come una cosa buona che, letta troppo spesso,<br>diventa arida e tediosa. Sì, la mia gravità,<br>della quale—nessuno mi senta—vado [[Pride\|fiero]],<br>la cambierei con vantaggio per un’oziosa piuma<br>che l’aria batte invano. O carica, o forma,<br>quante volte col tuo involucro, col tuo abito,<br>strappi riverenza agli sciocchi, e leghi le anime più sagge<br>al tuo falso sembiante! [[Blood\|Sangue]], tu sei [[Blood\|sangue]].<br>Scriviamo pure ‘angelo buono’ sul corno del diavolo—<br>è ormai il cimiero del diavolo. |
 | *(didascalia)* | Entra il Servo |
-| [[Angelo|ANGELO]] | Ebbene? Chi è là? |
+| [[Angelo\|ANGELO]] | Ebbene? Chi è là? |
 | SERVO | Una Isabella, una suora, desidera accesso a voi. |
-| [[Angelo|ANGELO]] | Insegnatele la via. |
+| [[Angelo\|ANGELO]] | Insegnatele la via. |
 | *(didascalia)* | Esce il Servo |
-| [[Angelo|ANGELO]] | O cieli,<br>perché il mio [[Blood|sangue]] così s’aduna al mio cuore,<br>rendendolo insieme incapace di se stesso,<br>e spogliando tutte le altre mie parti<br>della necessaria attitudine?<br>Così fanno le folle sciocche con uno che sviene—<br>tutti accorrono ad aiutarlo, e così tolgono l’aria<br>con la quale dovrebbe rinvenire—e proprio così<br>i sudditi tutti d’un [[King|re]] [[Well|ben]]amato<br>lasciano il proprio posto e, con ossequiosa smania,<br>s’accalcano alla sua presenza, dove il loro rozzo [[Love|amore]]<br>deve per forza apparire offesa. |
+| [[Angelo\|ANGELO]] | O cieli,<br>perché il mio [[Blood\|sangue]] così s’aduna al mio cuore,<br>rendendolo insieme incapace di se stesso,<br>e spogliando tutte le altre mie parti<br>della necessaria attitudine?<br>Così fanno le folle sciocche con uno che sviene—<br>tutti accorrono ad aiutarlo, e così tolgono l’aria<br>con la quale dovrebbe rinvenire—e proprio così<br>i sudditi tutti d’un [[King\|re]] [[Well\|ben]]amato<br>lasciano il proprio posto e, con ossequiosa smania,<br>s’accalcano alla sua presenza, dove il loro rozzo [[Love\|amore]]<br>deve per forza apparire offesa. |
 | *(didascalia)* | Entra |
-| [[Angelo|ANGELO]] | [[Isabella]]<br>Ebbene, bella fanciulla? |
-| [[Isabella|ISABELLA]] | Vengo a conoscere il vostro piacere. |
-| [[Angelo|ANGELO]] | (a parte)<br>Che voi lo conosceste mi piacerebbe assai più<br>che sentirmelo domandare. (A [[Isabella]]) Vostro fratello<br>non può vivere. |
-| [[Isabella|ISABELLA]] | Sia dunque. Il cielo custodisca vostro [[Honour|onore]]. |
-| [[Angelo|ANGELO]] | Eppure può vivere ancora un poco, e forse<br>quanto voi o me. Pure deve morire. |
-| [[Isabella|ISABELLA]] | Per vostra sentenza? |
-| [[Angelo|ANGELO]] | Sì. |
-| [[Isabella|ISABELLA]] | Quando, vi supplico?—che nella sua dilazione,<br>più lunga o più breve, egli sia così preparato<br>che la sua [[Soul|anima]] non s’ammali. |
-| [[Angelo|ANGELO]] | Ah, vergogna, questi sozzi vizi! Tanto varrebbe<br>perdonare colui che ha rubato alla [[Nature|natura]]<br>un uomo già fatto, quanto rimettere<br>l’insolente dolcezza di chi conia l’immagine di Dio<br>in stampi proibiti. È tutt’uno, ed è ugualmente facile,<br>togliere falsamente una vita fatta secondo verità<br>e mettere metallo in stampi vietati<br>per farne una falsa. |
-| [[Isabella|ISABELLA]] | Così è scritto in cielo, ma non in terra. |
-| [[Angelo|ANGELO]] | Dite così? Allora vi metterò subito alla prova.<br>Che preferireste: che la giustissima legge<br>prendesse ora la vita di vostro fratello, o, per riscattarlo,<br>dare il vostro [[Body|corpo]] a una dolce impurità<br>quale quella di colei ch’egli ha macchiata? |
-| [[Isabella|ISABELLA]] | Signore, credete a questo.<br>Darei piuttosto il mio [[Body|corpo]] che la mia [[Soul|anima]]. |
-| [[Angelo|ANGELO]] | Non parlo della vostra [[Soul|anima]]. I peccati che ci sono imposti<br>contano per numero più che per rendiconto. |
-| [[Isabella|ISABELLA]] | Che dite? |
-| [[Angelo|ANGELO]] | No, non lo garantisco, ché so parlare<br>contro ciò che dico. Rispondete a questo.<br>Io ora, voce della legge scritta,<br>pronuncio sentenza sulla vita di vostro fratello.<br>Non potrebbe esservi una [[Charity|carità]] nel peccato<br>per salvare la vita di questo fratello? |
-| [[Isabella|ISABELLA]] | Se vi piace farlo,<br>lo prenderò a rischio della mia [[Soul|anima]]:<br>non è peccato affatto, ma [[Charity|carità]]. |
-| [[Angelo|ANGELO]] | Se vi piacesse farlo a rischio della vostra [[Soul|anima]],<br>sarebbe pari bilancia di peccato e di [[Charity|carità]]. |
-| [[Isabella|ISABELLA]] | Se io imploro la sua vita, e se è peccato,<br>il cielo me lo lasci portare. Se voi concedete la mia supplica,<br>e se quello è peccato, ne farò la mia [[prayer|preghiera]] del mattino<br>perché sia aggiunto alle mie colpe,<br>e nulla al vostro conto. |
-| [[Angelo|ANGELO]] | No, ma ascoltatemi.<br>Il vostro senso non insegue il mio. O voi siete ignara,<br>o astutamente lo sembrate, e ciò non va bene. |
-| [[Isabella|ISABELLA]] | Ch’io sia ignara, e in nulla buona<br>se non nel sapere per grazia che non son migliore. |
-| [[Angelo|ANGELO]] | Così la saggezza desidera apparire più fulgida<br>quando accusa se stessa: come queste nere maschere<br>proclamano una [[Beauty|bellezza]] velata dieci volte più forte<br>di quanto potrebbe la [[Beauty|bellezza]] scoperta. Ma ascoltatemi.<br>Per essere inteso chiaramente, parlerò più crudo.<br>Vostro fratello deve morire. |
-| [[Isabella|ISABELLA]] | Sia. |
-| [[Angelo|ANGELO]] | E la sua colpa è tale, a quanto appare,<br>da doverne rispondere alla legge con quella [[Pain|pena]]. |
-| [[Isabella|ISABELLA]] | Vero. |
-| [[Angelo|ANGELO]] | Ammettete che non vi sia altro modo di salvargli la vita—<br>ché io non sottoscrivo né questo né altro—<br>se non che, perduta ogni altra questione, voi sua sorella,<br>trovandovi desiderata da una tal persona<br>il cui credito presso il giudice, o la cui alta carica,<br>potesse strappare vostro fratello alle manette<br>della legge che tutti lega, e che non vi fosse<br>mezzo terreno di salvarlo, se non che o<br>voi doveste deporre i tesori del vostro [[Body|corpo]]<br>a costui supposto, o lasciarlo patire—<br>che cosa fareste? |
-| [[Isabella|ISABELLA]] | Tanto per il mio povero fratello quanto per me.<br>Cioè: fossi io sotto sentenza di [[Death|morte]],<br>porterei l’impronta di sferze acute come rubini,<br>e mi spoglierei per la [[Death|morte]] come per un letto<br>[[Longing|desiderato]] fino a esserne malata, prima di cedere<br>il mio [[Body|corpo]] alla vergogna. |
-| [[Angelo|ANGELO]] | Allora vostro fratello deve morire. |
-| [[Isabella|ISABELLA]] | E sarebbe la via meno cara.<br>Meglio che un fratello muoia una volta sola<br>che una sorella, per riscattarlo,<br>muoia in eterno. |
-| [[Angelo|ANGELO]] | Non sareste allora crudele quanto la sentenza<br>che avete tanto calunniata? |
-| [[Isabella|ISABELLA]] | L’ignominia nel riscatto e il libero perdono<br>sono di due casate diverse; la [[Mercy|clemenza]] legittima<br>non è affatto parente d’una turpe redenzione. |
-| [[Angelo|ANGELO]] | Poco fa mostravate di fare della legge un [[Tyrant|tiranno]],<br>e provavate anzi che lo sdrucciolo di vostro fratello<br>era uno scherzo più che un vizio. |
-| [[Isabella|ISABELLA]] | Oh perdonatemi, mio signore. Spesso accade<br>che, per ottenere quel che vogliamo, non diciamo ciò che<br>intendiamo.<br>Io in qualche modo scuso la cosa che odio<br>a vantaggio di colui che teneramente [[Love|amo]]. |
-| [[Angelo|ANGELO]] | Siamo tutti fragili. |
-| [[Isabella|ISABELLA]] | Altrimenti muoia mio fratello—<br>se nessun complice, ma egli solo,<br>possiede ed eredita la tua debolezza. |
-| [[Angelo|ANGELO]] | Anzi, anche le donne sono fragili. |
-| [[Isabella|ISABELLA]] | Sì, come gli specchi in cui si guardano,<br>che si rompono con la stessa facilità con cui formano immagini.<br>Le donne? Aiuto, cielo! Gli uomini guastano la creazione di quelle<br>traendone profitto. Sì, chiamateci dieci volte fragili,<br>ché siamo tenere quanto le nostre carnagioni,<br>e credule a impronte false. |
-| [[Angelo|ANGELO]] | Lo credo [[Well|bene]],<br>e da questa testimonianza del vostro stesso sesso,<br>poiché suppongo che non siamo fatti più forti<br>di quanto le colpe possano scuotere il nostro telaio, lasciate ch’io osi.<br>Prendo in arresto le vostre parole. Siate quel che siete;<br>cioè, una donna. Se siete di più, non siete nulla.<br>Se siete tale, come [[Well|bene]] siete espressa<br>da ogni segno esteriore, mostratelo ora,<br>indossando la livrea che v’è destinata. |
-| [[Isabella|ISABELLA]] | Non ho che una sola lingua. Gentile mio signore,<br>lasciate ch’io vi preghi di parlare la lingua di prima. |
-| [[Angelo|ANGELO]] | Intendete chiaramente: vi [[Love|amo]]. |
-| [[Isabella|ISABELLA]] | Mio fratello [[Love|amò]] [[Juliet|Giulietta]],<br>e voi mi dite che per questo deve morire. |
-| [[Angelo|ANGELO]] | Non morrà, Isabella, se voi mi date [[Love|amore]]. |
-| [[Isabella|ISABELLA]] | So che la vostra virtù ha in sé una licenza<br>che sembra un po’ più turpe di quel che è,<br>per tirare in trappola gli altri. |
-| [[Angelo|ANGELO]] | Credetemi, sul mio [[Honour|onore]],<br>le mie parole esprimono il mio proposito. |
-| [[Isabella|ISABELLA]] | Ah, poco [[Honour|onore]] per esser molto creduto,<br>e proposito perniciosissimo! Sembiante, sembiante!<br>Ti denuncerò, [[Angelo]]; aspettatelo.<br>Firmami subito un perdono per mio fratello,<br>o a gola spiegata dirò forte al mondo<br>che uomo tu sia. |
-| [[Angelo|ANGELO]] | Chi ti crederà, Isabella?<br>Il mio nome immacolato, l’austerità della mia vita,<br>la mia parola contro di voi, e il mio posto nello Stato<br>peseranno tanto sulla vostra accusa<br>che soffocherete nella vostra stessa denuncia,<br>e puzzerete di calunnia. Ho cominciato,<br>e ora do le briglie alla mia corsa sensuale.<br>Adatta il tuo consenso al mio acuto appetito.<br>Deponi ogni ritrosia e i prolissi rossori<br>che scacciano ciò che invocano. Riscatta tuo fratello<br>cedendo il tuo [[Body|corpo]] al mio volere,<br>o altrimenti egli non solo morrà di [[Death|morte]],<br>ma la tua durezza gli protrarrà la [[Death|morte]]<br>in lento patire. Rispondimi domani,<br>o per l’affetto che ora più mi guida,<br>sarò un [[Tyrant|tiranno]] per lui. Quanto a voi,<br>dite quel che potete, il mio falso pesa più del vostro vero. |
+| [[Angelo\|ANGELO]] | [[Isabella]]<br>Ebbene, bella fanciulla? |
+| [[Isabella\|ISABELLA]] | Vengo a conoscere il vostro piacere. |
+| [[Angelo\|ANGELO]] | (a parte)<br>Che voi lo conosceste mi piacerebbe assai più<br>che sentirmelo domandare. (A [[Isabella]]) Vostro fratello<br>non può vivere. |
+| [[Isabella\|ISABELLA]] | Sia dunque. Il cielo custodisca vostro [[Honour\|onore]]. |
+| [[Angelo\|ANGELO]] | Eppure può vivere ancora un poco, e forse<br>quanto voi o me. Pure deve morire. |
+| [[Isabella\|ISABELLA]] | Per vostra sentenza? |
+| [[Angelo\|ANGELO]] | Sì. |
+| [[Isabella\|ISABELLA]] | Quando, vi supplico?—che nella sua dilazione,<br>più lunga o più breve, egli sia così preparato<br>che la sua [[Soul\|anima]] non s’ammali. |
+| [[Angelo\|ANGELO]] | Ah, vergogna, questi sozzi vizi! Tanto varrebbe<br>perdonare colui che ha rubato alla [[Nature\|natura]]<br>un uomo già fatto, quanto rimettere<br>l’insolente dolcezza di chi conia l’immagine di Dio<br>in stampi proibiti. È tutt’uno, ed è ugualmente facile,<br>togliere falsamente una vita fatta secondo verità<br>e mettere metallo in stampi vietati<br>per farne una falsa. |
+| [[Isabella\|ISABELLA]] | Così è scritto in cielo, ma non in terra. |
+| [[Angelo\|ANGELO]] | Dite così? Allora vi metterò subito alla prova.<br>Che preferireste: che la giustissima legge<br>prendesse ora la vita di vostro fratello, o, per riscattarlo,<br>dare il vostro [[Body\|corpo]] a una dolce impurità<br>quale quella di colei ch’egli ha macchiata? |
+| [[Isabella\|ISABELLA]] | Signore, credete a questo.<br>Darei piuttosto il mio [[Body\|corpo]] che la mia [[Soul\|anima]]. |
+| [[Angelo\|ANGELO]] | Non parlo della vostra [[Soul\|anima]]. I peccati che ci sono imposti<br>contano per numero più che per rendiconto. |
+| [[Isabella\|ISABELLA]] | Che dite? |
+| [[Angelo\|ANGELO]] | No, non lo garantisco, ché so parlare<br>contro ciò che dico. Rispondete a questo.<br>Io ora, voce della legge scritta,<br>pronuncio sentenza sulla vita di vostro fratello.<br>Non potrebbe esservi una [[Charity\|carità]] nel peccato<br>per salvare la vita di questo fratello? |
+| [[Isabella\|ISABELLA]] | Se vi piace farlo,<br>lo prenderò a rischio della mia [[Soul\|anima]]:<br>non è peccato affatto, ma [[Charity\|carità]]. |
+| [[Angelo\|ANGELO]] | Se vi piacesse farlo a rischio della vostra [[Soul\|anima]],<br>sarebbe pari bilancia di peccato e di [[Charity\|carità]]. |
+| [[Isabella\|ISABELLA]] | Se io imploro la sua vita, e se è peccato,<br>il cielo me lo lasci portare. Se voi concedete la mia supplica,<br>e se quello è peccato, ne farò la mia [[prayer\|preghiera]] del mattino<br>perché sia aggiunto alle mie colpe,<br>e nulla al vostro conto. |
+| [[Angelo\|ANGELO]] | No, ma ascoltatemi.<br>Il vostro senso non insegue il mio. O voi siete ignara,<br>o astutamente lo sembrate, e ciò non va bene. |
+| [[Isabella\|ISABELLA]] | Ch’io sia ignara, e in nulla buona<br>se non nel sapere per grazia che non son migliore. |
+| [[Angelo\|ANGELO]] | Così la saggezza desidera apparire più fulgida<br>quando accusa se stessa: come queste nere maschere<br>proclamano una [[Beauty\|bellezza]] velata dieci volte più forte<br>di quanto potrebbe la [[Beauty\|bellezza]] scoperta. Ma ascoltatemi.<br>Per essere inteso chiaramente, parlerò più crudo.<br>Vostro fratello deve morire. |
+| [[Isabella\|ISABELLA]] | Sia. |
+| [[Angelo\|ANGELO]] | E la sua colpa è tale, a quanto appare,<br>da doverne rispondere alla legge con quella [[Pain\|pena]]. |
+| [[Isabella\|ISABELLA]] | Vero. |
+| [[Angelo\|ANGELO]] | Ammettete che non vi sia altro modo di salvargli la vita—<br>ché io non sottoscrivo né questo né altro—<br>se non che, perduta ogni altra questione, voi sua sorella,<br>trovandovi desiderata da una tal persona<br>il cui credito presso il giudice, o la cui alta carica,<br>potesse strappare vostro fratello alle manette<br>della legge che tutti lega, e che non vi fosse<br>mezzo terreno di salvarlo, se non che o<br>voi doveste deporre i tesori del vostro [[Body\|corpo]]<br>a costui supposto, o lasciarlo patire—<br>che cosa fareste? |
+| [[Isabella\|ISABELLA]] | Tanto per il mio povero fratello quanto per me.<br>Cioè: fossi io sotto sentenza di [[Death\|morte]],<br>porterei l’impronta di sferze acute come rubini,<br>e mi spoglierei per la [[Death\|morte]] come per un letto<br>[[Longing\|desiderato]] fino a esserne malata, prima di cedere<br>il mio [[Body\|corpo]] alla vergogna. |
+| [[Angelo\|ANGELO]] | Allora vostro fratello deve morire. |
+| [[Isabella\|ISABELLA]] | E sarebbe la via meno cara.<br>Meglio che un fratello muoia una volta sola<br>che una sorella, per riscattarlo,<br>muoia in eterno. |
+| [[Angelo\|ANGELO]] | Non sareste allora crudele quanto la sentenza<br>che avete tanto calunniata? |
+| [[Isabella\|ISABELLA]] | L’ignominia nel riscatto e il libero perdono<br>sono di due casate diverse; la [[Mercy\|clemenza]] legittima<br>non è affatto parente d’una turpe redenzione. |
+| [[Angelo\|ANGELO]] | Poco fa mostravate di fare della legge un [[Tyrant\|tiranno]],<br>e provavate anzi che lo sdrucciolo di vostro fratello<br>era uno scherzo più che un vizio. |
+| [[Isabella\|ISABELLA]] | Oh perdonatemi, mio signore. Spesso accade<br>che, per ottenere quel che vogliamo, non diciamo ciò che<br>intendiamo.<br>Io in qualche modo scuso la cosa che odio<br>a vantaggio di colui che teneramente [[Love\|amo]]. |
+| [[Angelo\|ANGELO]] | Siamo tutti fragili. |
+| [[Isabella\|ISABELLA]] | Altrimenti muoia mio fratello—<br>se nessun complice, ma egli solo,<br>possiede ed eredita la tua debolezza. |
+| [[Angelo\|ANGELO]] | Anzi, anche le donne sono fragili. |
+| [[Isabella\|ISABELLA]] | Sì, come gli specchi in cui si guardano,<br>che si rompono con la stessa facilità con cui formano immagini.<br>Le donne? Aiuto, cielo! Gli uomini guastano la creazione di quelle<br>traendone profitto. Sì, chiamateci dieci volte fragili,<br>ché siamo tenere quanto le nostre carnagioni,<br>e credule a impronte false. |
+| [[Angelo\|ANGELO]] | Lo credo [[Well\|bene]],<br>e da questa testimonianza del vostro stesso sesso,<br>poiché suppongo che non siamo fatti più forti<br>di quanto le colpe possano scuotere il nostro telaio, lasciate ch’io osi.<br>Prendo in arresto le vostre parole. Siate quel che siete;<br>cioè, una donna. Se siete di più, non siete nulla.<br>Se siete tale, come [[Well\|bene]] siete espressa<br>da ogni segno esteriore, mostratelo ora,<br>indossando la livrea che v’è destinata. |
+| [[Isabella\|ISABELLA]] | Non ho che una sola lingua. Gentile mio signore,<br>lasciate ch’io vi preghi di parlare la lingua di prima. |
+| [[Angelo\|ANGELO]] | Intendete chiaramente: vi [[Love\|amo]]. |
+| [[Isabella\|ISABELLA]] | Mio fratello [[Love\|amò]] [[Juliet\|Giulietta]],<br>e voi mi dite che per questo deve morire. |
+| [[Angelo\|ANGELO]] | Non morrà, Isabella, se voi mi date [[Love\|amore]]. |
+| [[Isabella\|ISABELLA]] | So che la vostra virtù ha in sé una licenza<br>che sembra un po’ più turpe di quel che è,<br>per tirare in trappola gli altri. |
+| [[Angelo\|ANGELO]] | Credetemi, sul mio [[Honour\|onore]],<br>le mie parole esprimono il mio proposito. |
+| [[Isabella\|ISABELLA]] | Ah, poco [[Honour\|onore]] per esser molto creduto,<br>e proposito perniciosissimo! Sembiante, sembiante!<br>Ti denuncerò, [[Angelo]]; aspettatelo.<br>Firmami subito un perdono per mio fratello,<br>o a gola spiegata dirò forte al mondo<br>che uomo tu sia. |
+| [[Angelo\|ANGELO]] | Chi ti crederà, Isabella?<br>Il mio nome immacolato, l’austerità della mia vita,<br>la mia parola contro di voi, e il mio posto nello Stato<br>peseranno tanto sulla vostra accusa<br>che soffocherete nella vostra stessa denuncia,<br>e puzzerete di calunnia. Ho cominciato,<br>e ora do le briglie alla mia corsa sensuale.<br>Adatta il tuo consenso al mio acuto appetito.<br>Deponi ogni ritrosia e i prolissi rossori<br>che scacciano ciò che invocano. Riscatta tuo fratello<br>cedendo il tuo [[Body\|corpo]] al mio volere,<br>o altrimenti egli non solo morrà di [[Death\|morte]],<br>ma la tua durezza gli protrarrà la [[Death\|morte]]<br>in lento patire. Rispondimi domani,<br>o per l’affetto che ora più mi guida,<br>sarò un [[Tyrant\|tiranno]] per lui. Quanto a voi,<br>dite quel che potete, il mio falso pesa più del vostro vero. |
 | *(didascalia)* | Esce |
-| [[Isabella|ISABELLA]] | A chi dovrei lagnarmi? Se raccontassi questo,<br>chi mi crederebbe? O bocche pericolose,<br>che portano in sé una sola e medesima lingua<br>o di condanna o d’approvazione,<br>e comandano alla legge di far riverenza al loro volere,<br>agganciando il giusto e l’ingiusto all’appetito,<br>perché seguano dove esso tira! Andrò da mio fratello.<br>Benché sia caduto per l’impulso del [[Blood|sangue]],<br>pure ha in sé tale animo d’[[Honour|onore]]<br>che, avesse venti teste da porgere<br>su venti ceppi insanguinati, le cederebbe<br>prima che sua sorella pieghi il suo [[Body|corpo]]<br>a tale aborrita contaminazione.<br>Dunque viva Isabella casta, e muoia il fratello:<br>più di nostro fratello vale la nostra castità.<br>Pure gli dirò della richiesta d’[[Angelo]],<br>e disporrò il suo animo alla [[Death|morte]], per la pace della sua [[Soul|anima]]. |
+| [[Isabella\|ISABELLA]] | A chi dovrei lagnarmi? Se raccontassi questo,<br>chi mi crederebbe? O bocche pericolose,<br>che portano in sé una sola e medesima lingua<br>o di condanna o d’approvazione,<br>e comandano alla legge di far riverenza al loro volere,<br>agganciando il giusto e l’ingiusto all’appetito,<br>perché seguano dove esso tira! Andrò da mio fratello.<br>Benché sia caduto per l’impulso del [[Blood\|sangue]],<br>pure ha in sé tale animo d’[[Honour\|onore]]<br>che, avesse venti teste da porgere<br>su venti ceppi insanguinati, le cederebbe<br>prima che sua sorella pieghi il suo [[Body\|corpo]]<br>a tale aborrita contaminazione.<br>Dunque viva Isabella casta, e muoia il fratello:<br>più di nostro fratello vale la nostra castità.<br>Pure gli dirò della richiesta d’[[Angelo]],<br>e disporrò il suo animo alla [[Death\|morte]], per la pace della sua [[Soul\|anima]]. |
 | *(didascalia)* | Esce |
 
 
@@ -2434,177 +2434,177 @@ Measure for Measure
 | Chi parla | Battuta |
 |---|---|
 | *(didascalia)* | Entrano il Duca, travestito da frate, [[Claudio]] e il Prevosto |
-| DUCA | Dunque [[Hope|sperate]] perdono dal signor [[Angelo]]? |
-| [[Claudio|CLAUDIO]] | I miseri non hanno altra medicina<br>che la sola [[Hope|speranza]].<br>Ho [[Hope|speranza]] di vivere, e sono preparato a morire. |
-| DUCA | Sii risoluto per la [[Death|morte]]. O [[Death|morte]] o vita<br>ne saranno più dolci. Ragiona così con la vita.<br>Se ti perdo, perdo una cosa<br>che nessuno se non gli sciocchi vorrebbe tenere. Un soffio tu sei,<br>servo di tutti gli influssi del cielo<br>che questa dimora dove tu stai<br>affliggono a ogni ora. Non sei che il [[Fool|buffone]] della [[Death|morte]],<br>ché ti affatichi a fuggirla con la corsa,<br>e pure verso di lei corri sempre. Non sei nobile,<br>ché tutte le comodità che porti<br>sono allevate dalla bassezza. Non sei affatto valoroso,<br>ché [[Fear|temi]] la molle e tenera forcella<br>d’un povero verme. Il tuo miglior riposo è il [[Sleep|sonno]],<br>e quello spesso provochi, eppure grossolanamente [[Fear|temi]]<br>la tua [[Death|morte]], che non è altro. Non sei te stesso,<br>ché esisti su molte migliaia di granelli<br>che escono dalla [[Dust|polvere]]. Felice non sei,<br>ché ciò che non hai, sempre ti sforzi d’ottenere,<br>e ciò che hai, dimentichi. Non sei costante,<br>ché il tuo umore muta in strani effetti<br>secondo la [[Moon|luna]]. Se sei ricco, sei povero,<br>ché come un asino la cui schiena si piega sotto i lingotti,<br>porti le tue pesanti ricchezze solo per un [[Journey|viaggio]],<br>e la [[Death|morte]] ti scarica. Amici non ne hai,<br>ché le tue stesse viscere, che ti chiamano padre,<br>mera effusione dei tuoi propri lombi,<br>maledicono la gotta, la serpigine e il catarro<br>perché non t’han finito prima. Non hai né giovinezza né<br>vecchiaia,<br>ma come un [[Sleep|sonno]] di dopo pranzo<br>che sogna d’entrambe; ché tutta la tua benedetta giovinezza<br>si fa come vecchia, e mendica l’elemosina<br>della paralitica età; e quando sei vecchio e ricco,<br>non hai né calore, né affetto, né membra, né [[Beauty|bellezza]]<br>per render gradite le tue ricchezze. Che c’è in questo<br>che porti il nome di vita? Eppure in questa vita<br>stanno nascoste altre mille morti; e pure la [[Death|morte]] [[Fear|temiamo]],<br>che pareggia tutte queste disparità. |
-| [[Claudio|CLAUDIO]] | Umilmente vi ringrazio.<br>Chiedendo di vivere, trovo che cerco di morire,<br>e cercando la [[Death|morte]], trovo la vita. Che venga pure. |
-| [[Isabella|ISABELLA]] | (dall’interno)<br>Ohilà! Pace qui, grazia e buona compagnia! |
+| DUCA | Dunque [[Hope\|sperate]] perdono dal signor [[Angelo]]? |
+| [[Claudio\|CLAUDIO]] | I miseri non hanno altra medicina<br>che la sola [[Hope\|speranza]].<br>Ho [[Hope\|speranza]] di vivere, e sono preparato a morire. |
+| DUCA | Sii risoluto per la [[Death\|morte]]. O [[Death\|morte]] o vita<br>ne saranno più dolci. Ragiona così con la vita.<br>Se ti perdo, perdo una cosa<br>che nessuno se non gli sciocchi vorrebbe tenere. Un soffio tu sei,<br>servo di tutti gli influssi del cielo<br>che questa dimora dove tu stai<br>affliggono a ogni ora. Non sei che il [[Fool\|buffone]] della [[Death\|morte]],<br>ché ti affatichi a fuggirla con la corsa,<br>e pure verso di lei corri sempre. Non sei nobile,<br>ché tutte le comodità che porti<br>sono allevate dalla bassezza. Non sei affatto valoroso,<br>ché [[Fear\|temi]] la molle e tenera forcella<br>d’un povero verme. Il tuo miglior riposo è il [[Sleep\|sonno]],<br>e quello spesso provochi, eppure grossolanamente [[Fear\|temi]]<br>la tua [[Death\|morte]], che non è altro. Non sei te stesso,<br>ché esisti su molte migliaia di granelli<br>che escono dalla [[Dust\|polvere]]. Felice non sei,<br>ché ciò che non hai, sempre ti sforzi d’ottenere,<br>e ciò che hai, dimentichi. Non sei costante,<br>ché il tuo umore muta in strani effetti<br>secondo la [[Moon\|luna]]. Se sei ricco, sei povero,<br>ché come un asino la cui schiena si piega sotto i lingotti,<br>porti le tue pesanti ricchezze solo per un [[Journey\|viaggio]],<br>e la [[Death\|morte]] ti scarica. Amici non ne hai,<br>ché le tue stesse viscere, che ti chiamano padre,<br>mera effusione dei tuoi propri lombi,<br>maledicono la gotta, la serpigine e il catarro<br>perché non t’han finito prima. Non hai né giovinezza né<br>vecchiaia,<br>ma come un [[Sleep\|sonno]] di dopo pranzo<br>che sogna d’entrambe; ché tutta la tua benedetta giovinezza<br>si fa come vecchia, e mendica l’elemosina<br>della paralitica età; e quando sei vecchio e ricco,<br>non hai né calore, né affetto, né membra, né [[Beauty\|bellezza]]<br>per render gradite le tue ricchezze. Che c’è in questo<br>che porti il nome di vita? Eppure in questa vita<br>stanno nascoste altre mille morti; e pure la [[Death\|morte]] [[Fear\|temiamo]],<br>che pareggia tutte queste disparità. |
+| [[Claudio\|CLAUDIO]] | Umilmente vi ringrazio.<br>Chiedendo di vivere, trovo che cerco di morire,<br>e cercando la [[Death\|morte]], trovo la vita. Che venga pure. |
+| [[Isabella\|ISABELLA]] | (dall’interno)<br>Ohilà! Pace qui, grazia e buona compagnia! |
 | PREVOSTO | Chi è là? Entrate; l’augurio merita accoglienza. |
 | DUCA | (a [[Claudio]])<br>Caro signore, fra poco verrò a rivedervi. |
-| [[Claudio|CLAUDIO]] | Santissimo signore, vi ringrazio. |
+| [[Claudio\|CLAUDIO]] | Santissimo signore, vi ringrazio. |
 | *(didascalia)* | Entra [[Isabella]] |
-| [[Isabella|ISABELLA]] | La mia faccenda è una parola o due con [[Claudio]]. |
+| [[Isabella\|ISABELLA]] | La mia faccenda è una parola o due con [[Claudio]]. |
 | PREVOSTO | E siate benvenuta. Guardate, messere, ecco vostra sorella. |
 | DUCA | Prevosto, una parola con voi. |
 | PREVOSTO | Quante ne volete.<br>Il Duca e il Prevosto si traggono in disparte |
 | DUCA | Portatemi a udirli parlare dove io possa restare<br>nascosto.<br>Si nascondono |
-| [[Claudio|CLAUDIO]] | Ora, sorella, qual è il conforto? |
-| [[Isabella|ISABELLA]] | Ma quale son tutti i conforti: ottimo, ottimo<br>davvero.<br>Il signor [[Angelo]], avendo affari col cielo,<br>ti destina a suo rapido ambasciatore,<br>dove sarai residente in eterno.<br>Perciò fa’ con [[Speed|prestezza]] il tuo miglior apprestamento.<br>Domani ti metti in cammino. |
-| [[Claudio|CLAUDIO]] | Non c’è rimedio? |
-| [[Isabella|ISABELLA]] | Nessuno, se non tale rimedio che, per salvare una testa,<br>spacca in due un cuore. |
-| [[Claudio|CLAUDIO]] | Ma ce n’è qualcuno? |
-| [[Isabella|ISABELLA]] | Sì, fratello, puoi vivere.<br>V’è una diabolica [[Mercy|clemenza]] nel giudice,<br>se vorrai implorarla, che libererà la tua vita,<br>ma t’incatenerà fino alla [[Death|morte]]. |
-| [[Claudio|CLAUDIO]] | Prigionia perpetua? |
-| [[Isabella|ISABELLA]] | Sì, proprio, prigionia perpetua; una costrizione,<br>anche se avessi tutta la vastità del mondo,<br>entro uno spazio determinato. |
-| [[Claudio|CLAUDIO]] | Ma di che [[Nature|natura]]? |
-| [[Isabella|ISABELLA]] | Di tale che, tu acconsentendovi,<br>scorticheresti il tuo [[Honour|onore]] da quel tronco che porti,<br>e ti lasceresti nudo. |
-| [[Claudio|CLAUDIO]] | Fammi sapere il punto. |
-| [[Isabella|ISABELLA]] | Oh, io ti [[Fear|temo]], [[Claudio]], e tremo<br>che tu voglia accogliere una vita febbricitante,<br>e stimare sei o sette inverni di più<br>d’un [[Honour|onore]] perpetuo. Osi morire?<br>Il senso della [[Death|morte]] sta più nell’apprensione,<br>e il povero scarafaggio che calpestiamo<br>prova nella sofferenza corporea uno spasimo grande<br>quanto quando muore un gigante. |
-| [[Claudio|CLAUDIO]] | Perché mi date questa vergogna?<br>Credete ch’io possa trarre una risoluzione<br>da fiorita tenerezza? Se devo morire,<br>affronterò le tenebre come una sposa,<br>e le stringerò fra le mie braccia. |
-| [[Isabella|ISABELLA]] | Là parlò mio fratello; là la [[Grave|tomba]] di mio padre<br>mandò fuori una voce. Sì, tu devi morire.<br>Sei troppo nobile per conservare una vita<br>con vili espedienti. Questo vicario santo di fuori,<br>il cui composto sembiante e la parola misurata<br>tronca la giovinezza al capo e insegue le follie<br>come il falcone l’uccello, è pure un demonio.<br>Se gli si vuotasse dentro il fango, apparirebbe<br>uno stagno profondo come l’inferno. |
-| [[Claudio|CLAUDIO]] | Il rigoroso [[Angelo]]? |
-| [[Isabella|ISABELLA]] | Oh, è l’astuta livrea dell’inferno<br>investire e coprire il [[Body|corpo]] più dannato<br>di guarnizioni rigorose! Pensa un po’, [[Claudio]]:<br>se io gli cedessi la mia verginità,<br>tu potresti essere liberato! |
-| [[Claudio|CLAUDIO]] | O cieli, non può essere! |
-| [[Isabella|ISABELLA]] | Sì, egli te la darebbe, per questa turpe colpa,<br>così da poter offendere ancora. Questa [[Night|notte]] è il [[Time|tempo]]<br>in cui io dovrei fare ciò che aborro di nominare,<br>o altrimenti tu muori domani. |
-| [[Claudio|CLAUDIO]] | Tu non lo farai. |
-| [[Isabella|ISABELLA]] | Oh, se fosse solo la mia vita,<br>la getterei per la tua liberazione<br>con la stessa franchezza d’uno spillo. |
-| [[Claudio|CLAUDIO]] | Grazie, cara Isabella. |
-| [[Isabella|ISABELLA]] | Sii pronto, [[Claudio]], per la tua [[Death|morte]] domani. |
-| [[Claudio|CLAUDIO]] | Sì. Ha dunque in sé passioni<br>tali da fargli mordere la legge sul naso<br>quando vorrebbe forzarla? Certo non è peccato,<br>o dei sette mortali è il minore. |
-| [[Isabella|ISABELLA]] | Quale è il minore? |
-| [[Claudio|CLAUDIO]] | Se fosse dannabile, essendo egli così saggio,<br>perché mai per il momentaneo trastullo<br>si farebbe punire in eterno? O Isabella! |
-| [[Isabella|ISABELLA]] | Che dice mio fratello? |
-| [[Claudio|CLAUDIO]] | La [[Death|morte]] è cosa spaventosa. |
-| [[Isabella|ISABELLA]] | E una vita svergognata è cosa odiosa. |
-| [[Claudio|CLAUDIO]] | Sì, ma morire, e andare non sappiamo dove;<br>giacere in fredda ostruzione, e marcire;<br>questo caldo moto senziente diventare<br>una zolla impastata, e lo spirito dilatato<br>bagnarsi in fiumi di fuoco, o risiedere<br>in regione agghiacciante di ghiaccio dalle spesse costole;<br>essere imprigionato nei venti invisibili,<br>e soffiato con incessante violenza tutt’intorno<br>al mondo sospeso; o essere peggio del peggio<br>di quelli che il pensiero sregolato e incerto<br>immagina urlanti—è troppo orribile!<br>La più stanca e più odiata vita terrena<br>che vecchiaia, dolore, miseria e [[Imprisonment|prigionia]]<br>possano imporre alla [[Nature|natura]] è un paradiso<br>rispetto a ciò che [[Fear|temiamo]] della [[Death|morte]]. |
-| [[Isabella|ISABELLA]] | Ahimè, ahimè! |
-| [[Claudio|CLAUDIO]] | Dolce sorella, lasciami vivere.<br>Il peccato che commetti per salvare la vita d’un fratello,<br>la [[Nature|natura]] tanto lo dispensa dall’atto<br>che diventa una virtù. |
-| [[Isabella|ISABELLA]] | Oh, tu bestia!<br>O vile senza fede, o disonesto miserabile,<br>vuoi esser fatto uomo dal mio vizio?<br>Non è una specie d’incesto prendere la vita<br>dalla vergogna della tua stessa sorella? Che devo pensare?<br>Il cielo non voglia che mia madre sia stata leale a mio padre,<br>ché un tal germoglio storto di selvatico<br>non uscì mai dal suo [[Blood|sangue]]. Prendi la mia sfida,<br>muori, perisci! Bastasse il mio piegarmi<br>a strapparti al tuo destino, si farebbe.<br>Pregherò mille preghiere per la tua [[Death|morte]],<br>non una parola per salvarti. |
-| [[Claudio|CLAUDIO]] | No, ascoltami, Isabella. |
-| [[Isabella|ISABELLA]] | Oh vergogna, vergogna, vergogna!<br>Il tuo peccato non è accidentale, ma un mestiere.<br>La [[Mercy|clemenza]] verso di te si farebbe ruffiana.<br>È meglio che tu muoia presto.<br>Si stacca da<br>[[Claudio]] |
-| [[Claudio|CLAUDIO]] | Oh ascoltami, [[Isabella]]. |
+| [[Claudio\|CLAUDIO]] | Ora, sorella, qual è il conforto? |
+| [[Isabella\|ISABELLA]] | Ma quale son tutti i conforti: ottimo, ottimo<br>davvero.<br>Il signor [[Angelo]], avendo affari col cielo,<br>ti destina a suo rapido ambasciatore,<br>dove sarai residente in eterno.<br>Perciò fa’ con [[Speed\|prestezza]] il tuo miglior apprestamento.<br>Domani ti metti in cammino. |
+| [[Claudio\|CLAUDIO]] | Non c’è rimedio? |
+| [[Isabella\|ISABELLA]] | Nessuno, se non tale rimedio che, per salvare una testa,<br>spacca in due un cuore. |
+| [[Claudio\|CLAUDIO]] | Ma ce n’è qualcuno? |
+| [[Isabella\|ISABELLA]] | Sì, fratello, puoi vivere.<br>V’è una diabolica [[Mercy\|clemenza]] nel giudice,<br>se vorrai implorarla, che libererà la tua vita,<br>ma t’incatenerà fino alla [[Death\|morte]]. |
+| [[Claudio\|CLAUDIO]] | Prigionia perpetua? |
+| [[Isabella\|ISABELLA]] | Sì, proprio, prigionia perpetua; una costrizione,<br>anche se avessi tutta la vastità del mondo,<br>entro uno spazio determinato. |
+| [[Claudio\|CLAUDIO]] | Ma di che [[Nature\|natura]]? |
+| [[Isabella\|ISABELLA]] | Di tale che, tu acconsentendovi,<br>scorticheresti il tuo [[Honour\|onore]] da quel tronco che porti,<br>e ti lasceresti nudo. |
+| [[Claudio\|CLAUDIO]] | Fammi sapere il punto. |
+| [[Isabella\|ISABELLA]] | Oh, io ti [[Fear\|temo]], [[Claudio]], e tremo<br>che tu voglia accogliere una vita febbricitante,<br>e stimare sei o sette inverni di più<br>d’un [[Honour\|onore]] perpetuo. Osi morire?<br>Il senso della [[Death\|morte]] sta più nell’apprensione,<br>e il povero scarafaggio che calpestiamo<br>prova nella sofferenza corporea uno spasimo grande<br>quanto quando muore un gigante. |
+| [[Claudio\|CLAUDIO]] | Perché mi date questa vergogna?<br>Credete ch’io possa trarre una risoluzione<br>da fiorita tenerezza? Se devo morire,<br>affronterò le tenebre come una sposa,<br>e le stringerò fra le mie braccia. |
+| [[Isabella\|ISABELLA]] | Là parlò mio fratello; là la [[Grave\|tomba]] di mio padre<br>mandò fuori una voce. Sì, tu devi morire.<br>Sei troppo nobile per conservare una vita<br>con vili espedienti. Questo vicario santo di fuori,<br>il cui composto sembiante e la parola misurata<br>tronca la giovinezza al capo e insegue le follie<br>come il falcone l’uccello, è pure un demonio.<br>Se gli si vuotasse dentro il fango, apparirebbe<br>uno stagno profondo come l’inferno. |
+| [[Claudio\|CLAUDIO]] | Il rigoroso [[Angelo]]? |
+| [[Isabella\|ISABELLA]] | Oh, è l’astuta livrea dell’inferno<br>investire e coprire il [[Body\|corpo]] più dannato<br>di guarnizioni rigorose! Pensa un po’, [[Claudio]]:<br>se io gli cedessi la mia verginità,<br>tu potresti essere liberato! |
+| [[Claudio\|CLAUDIO]] | O cieli, non può essere! |
+| [[Isabella\|ISABELLA]] | Sì, egli te la darebbe, per questa turpe colpa,<br>così da poter offendere ancora. Questa [[Night\|notte]] è il [[Time\|tempo]]<br>in cui io dovrei fare ciò che aborro di nominare,<br>o altrimenti tu muori domani. |
+| [[Claudio\|CLAUDIO]] | Tu non lo farai. |
+| [[Isabella\|ISABELLA]] | Oh, se fosse solo la mia vita,<br>la getterei per la tua liberazione<br>con la stessa franchezza d’uno spillo. |
+| [[Claudio\|CLAUDIO]] | Grazie, cara Isabella. |
+| [[Isabella\|ISABELLA]] | Sii pronto, [[Claudio]], per la tua [[Death\|morte]] domani. |
+| [[Claudio\|CLAUDIO]] | Sì. Ha dunque in sé passioni<br>tali da fargli mordere la legge sul naso<br>quando vorrebbe forzarla? Certo non è peccato,<br>o dei sette mortali è il minore. |
+| [[Isabella\|ISABELLA]] | Quale è il minore? |
+| [[Claudio\|CLAUDIO]] | Se fosse dannabile, essendo egli così saggio,<br>perché mai per il momentaneo trastullo<br>si farebbe punire in eterno? O Isabella! |
+| [[Isabella\|ISABELLA]] | Che dice mio fratello? |
+| [[Claudio\|CLAUDIO]] | La [[Death\|morte]] è cosa spaventosa. |
+| [[Isabella\|ISABELLA]] | E una vita svergognata è cosa odiosa. |
+| [[Claudio\|CLAUDIO]] | Sì, ma morire, e andare non sappiamo dove;<br>giacere in fredda ostruzione, e marcire;<br>questo caldo moto senziente diventare<br>una zolla impastata, e lo spirito dilatato<br>bagnarsi in fiumi di fuoco, o risiedere<br>in regione agghiacciante di ghiaccio dalle spesse costole;<br>essere imprigionato nei venti invisibili,<br>e soffiato con incessante violenza tutt’intorno<br>al mondo sospeso; o essere peggio del peggio<br>di quelli che il pensiero sregolato e incerto<br>immagina urlanti—è troppo orribile!<br>La più stanca e più odiata vita terrena<br>che vecchiaia, dolore, miseria e [[Imprisonment\|prigionia]]<br>possano imporre alla [[Nature\|natura]] è un paradiso<br>rispetto a ciò che [[Fear\|temiamo]] della [[Death\|morte]]. |
+| [[Isabella\|ISABELLA]] | Ahimè, ahimè! |
+| [[Claudio\|CLAUDIO]] | Dolce sorella, lasciami vivere.<br>Il peccato che commetti per salvare la vita d’un fratello,<br>la [[Nature\|natura]] tanto lo dispensa dall’atto<br>che diventa una virtù. |
+| [[Isabella\|ISABELLA]] | Oh, tu bestia!<br>O vile senza fede, o disonesto miserabile,<br>vuoi esser fatto uomo dal mio vizio?<br>Non è una specie d’incesto prendere la vita<br>dalla vergogna della tua stessa sorella? Che devo pensare?<br>Il cielo non voglia che mia madre sia stata leale a mio padre,<br>ché un tal germoglio storto di selvatico<br>non uscì mai dal suo [[Blood\|sangue]]. Prendi la mia sfida,<br>muori, perisci! Bastasse il mio piegarmi<br>a strapparti al tuo destino, si farebbe.<br>Pregherò mille preghiere per la tua [[Death\|morte]],<br>non una parola per salvarti. |
+| [[Claudio\|CLAUDIO]] | No, ascoltami, Isabella. |
+| [[Isabella\|ISABELLA]] | Oh vergogna, vergogna, vergogna!<br>Il tuo peccato non è accidentale, ma un mestiere.<br>La [[Mercy\|clemenza]] verso di te si farebbe ruffiana.<br>È meglio che tu muoia presto.<br>Si stacca da<br>[[Claudio]] |
+| [[Claudio\|CLAUDIO]] | Oh ascoltami, [[Isabella]]. |
 | DUCA | (facendosi avanti verso [[Isabella]]) Concedetemi una parola, giovane sorella, una parola soltanto. |
-| [[Isabella|ISABELLA]] | Qual è il vostro volere? |
+| [[Isabella\|ISABELLA]] | Qual è il vostro volere? |
 | DUCA | Se poteste disporre del vostro tempo, vorrei fra poco parlare con voi. La soddisfazione che vi chiedo è del pari a vostro vantaggio. |
-| [[Isabella|ISABELLA]] | Non ho tempo che avanzi; il mio trattenermi va rubato ad altre faccende; ma vi darò retta per un poco. |
-| DUCA | tenendosi in disparte con [[Claudio]] Figlio, ho udito quel che è passato fra te e tua sorella. [[Angelo]] non ebbe mai il proposito di corromperla; ha soltanto fatto un saggio della sua virtù, per esercitare il proprio giudizio sulla disposizione delle nature. Ella, avendo in sé la [[Truth|verità]] dell’[[Honour|onore]], gli ha opposto quel grazioso rifiuto ch’egli è lietissimo di ricevere. Io sono confessore di [[Angelo]], e so che questo è vero. Perciò preparati alla [[Death|morte]]. Non falsare la tua risoluzione con speranze fallaci. Domani devi morire. Mettiti in ginocchio e preparati. |
-| [[Claudio|CLAUDIO]] | Lasciate ch’io chieda perdono a mia sorella. Sono così fuori d’[[Love|amore]] con la vita che supplicherò d’esserne liberato. |
+| [[Isabella\|ISABELLA]] | Non ho tempo che avanzi; il mio trattenermi va rubato ad altre faccende; ma vi darò retta per un poco. |
+| DUCA | tenendosi in disparte con [[Claudio]] Figlio, ho udito quel che è passato fra te e tua sorella. [[Angelo]] non ebbe mai il proposito di corromperla; ha soltanto fatto un saggio della sua virtù, per esercitare il proprio giudizio sulla disposizione delle nature. Ella, avendo in sé la [[Truth\|verità]] dell’[[Honour\|onore]], gli ha opposto quel grazioso rifiuto ch’egli è lietissimo di ricevere. Io sono confessore di [[Angelo]], e so che questo è vero. Perciò preparati alla [[Death\|morte]]. Non falsare la tua risoluzione con speranze fallaci. Domani devi morire. Mettiti in ginocchio e preparati. |
+| [[Claudio\|CLAUDIO]] | Lasciate ch’io chieda perdono a mia sorella. Sono così fuori d’[[Love\|amore]] con la vita che supplicherò d’esserne liberato. |
 | DUCA | Tienti a questo. Addio. |
 | *(didascalia)* | [[Claudio]] raggiunge [[Isabella]] |
 | DUCA | Prevosto, una parola con voi. |
 | PREVOSTO | (facendosi avanti) Qual è il vostro volere, padre? |
 | DUCA | Che, ora che siete venuto, ve ne andiate. Lasciatemi un poco con la fanciulla. Il mio animo promette, insieme col mio abito, che nessun danno le verrà dalla mia compagnia. |
-| PREVOSTO | In buon [[Time|tempo]]. Esce con [[Claudio]] |
-| DUCA | La mano che vi ha fatta bella vi ha fatta buona. La bontà che nella [[Beauty|bellezza]] costa poco rende la [[Beauty|bellezza]] breve nella bontà; ma la grazia, essendo l’[[Soul|anima]] del vostro aspetto, ne manterrà il [[Body|corpo]] sempre bello. L’assalto che [[Angelo]] vi ha portato, la sorte l’ha recato alla mia conoscenza; e se la fragilità non avesse esempi per la sua caduta, mi [[Wonder|stupirei]] di [[Angelo]]. Che farete per contentare questo sostituto e salvare vostro fratello? |
-| [[Isabella|ISABELLA]] | Vado ora a dargli risposta. Preferisco che mio fratello muoia per la legge, piuttosto che mio figlio nasca fuori legge. Ma oh, quanto s’inganna il buon Duca intorno ad [[Angelo]]! Se mai ritorna e io posso parlargli, aprirò le mie labbra invano, o svelerò il suo [[government|governo]]. |
-| DUCA | Non sarebbe cosa fuor di luogo. Eppure, come stanno ora le cose, egli schiverà la vostra accusa: dirà che vi metteva solo alla prova. Perciò porgete l’orecchio ai miei consigli. Per l’[[Love|amore]] ch’io ho di fare il bene, mi si presenta un rimedio. Mi persuado che voi possiate rettissimamente rendere a una povera dama offesa un beneficio meritato, riscattare vostro fratello dalla legge adirata, non recare macchia alla vostra graziosa persona, e piacere assai al Duca assente, se per caso mai tornasse a udire di questa faccenda. |
-| [[Isabella|ISABELLA]] | Lasciate ch’io vi ascolti oltre. Ho animo di fare qualunque cosa non appaia turpe alla [[Truth|verità]] del mio spirito. |
+| PREVOSTO | In buon [[Time\|tempo]]. Esce con [[Claudio]] |
+| DUCA | La mano che vi ha fatta bella vi ha fatta buona. La bontà che nella [[Beauty\|bellezza]] costa poco rende la [[Beauty\|bellezza]] breve nella bontà; ma la grazia, essendo l’[[Soul\|anima]] del vostro aspetto, ne manterrà il [[Body\|corpo]] sempre bello. L’assalto che [[Angelo]] vi ha portato, la sorte l’ha recato alla mia conoscenza; e se la fragilità non avesse esempi per la sua caduta, mi [[Wonder\|stupirei]] di [[Angelo]]. Che farete per contentare questo sostituto e salvare vostro fratello? |
+| [[Isabella\|ISABELLA]] | Vado ora a dargli risposta. Preferisco che mio fratello muoia per la legge, piuttosto che mio figlio nasca fuori legge. Ma oh, quanto s’inganna il buon Duca intorno ad [[Angelo]]! Se mai ritorna e io posso parlargli, aprirò le mie labbra invano, o svelerò il suo [[government\|governo]]. |
+| DUCA | Non sarebbe cosa fuor di luogo. Eppure, come stanno ora le cose, egli schiverà la vostra accusa: dirà che vi metteva solo alla prova. Perciò porgete l’orecchio ai miei consigli. Per l’[[Love\|amore]] ch’io ho di fare il bene, mi si presenta un rimedio. Mi persuado che voi possiate rettissimamente rendere a una povera dama offesa un beneficio meritato, riscattare vostro fratello dalla legge adirata, non recare macchia alla vostra graziosa persona, e piacere assai al Duca assente, se per caso mai tornasse a udire di questa faccenda. |
+| [[Isabella\|ISABELLA]] | Lasciate ch’io vi ascolti oltre. Ho animo di fare qualunque cosa non appaia turpe alla [[Truth\|verità]] del mio spirito. |
 | DUCA | La virtù è ardita, e la bontà mai paurosa. Non avete udito parlare di [[Mariana]], la sorella di Federico, il grande soldato che perì in mare? |
-| [[Isabella|ISABELLA]] | Ho sentito parlare della dama, e buone parole accompagnavano il suo nome. |
-| DUCA | Costei doveva sposare questo [[Angelo]], gli era promessa per giuramento, e fissato il matrimonio; fra quel [[Time|tempo]] del contratto e il termine della solennità, suo fratello Federico naufragò in mare, avendo su quella nave perduta la dote della sorella. Ma badate quanto gravemente ciò cadde sulla povera gentildonna. Là ella perse un fratello nobile e famoso, nel suo [[Love|amore]] verso di lei sempre gentilissimo e naturale; con lui, la parte e il nerbo della sua fortuna, la dote del suo [[Marriage|matrimonio]]; con entrambi, il marito a lei congiunto, questo [[Well|ben]] sembiante [[Angelo]]. |
-| [[Isabella|ISABELLA]] | Può essere così? [[Angelo]] la lasciò a quel modo? |
-| DUCA | La lasciò nelle sue [[Tears|lacrime]], e non ne asciugò una sola col suo conforto; ingoiò intere le sue promesse, adducendo di aver scoperto in lei disonore; in breve, la consegnò al suo proprio lamento, che ella ancora porta per amor suo; ed egli, marmo alle sue [[Tears|lacrime]], ne è bagnato, ma non s’intenerisce. |
-| [[Isabella|ISABELLA]] | Che merito sarebbe nella [[Death|morte]] togliere dal mondo questa povera fanciulla! Che corruzione in questa vita, che lasci vivere quest’uomo! Ma come può ella trarne vantaggio? |
+| [[Isabella\|ISABELLA]] | Ho sentito parlare della dama, e buone parole accompagnavano il suo nome. |
+| DUCA | Costei doveva sposare questo [[Angelo]], gli era promessa per giuramento, e fissato il matrimonio; fra quel [[Time\|tempo]] del contratto e il termine della solennità, suo fratello Federico naufragò in mare, avendo su quella nave perduta la dote della sorella. Ma badate quanto gravemente ciò cadde sulla povera gentildonna. Là ella perse un fratello nobile e famoso, nel suo [[Love\|amore]] verso di lei sempre gentilissimo e naturale; con lui, la parte e il nerbo della sua fortuna, la dote del suo [[Marriage\|matrimonio]]; con entrambi, il marito a lei congiunto, questo [[Well\|ben]] sembiante [[Angelo]]. |
+| [[Isabella\|ISABELLA]] | Può essere così? [[Angelo]] la lasciò a quel modo? |
+| DUCA | La lasciò nelle sue [[Tears\|lacrime]], e non ne asciugò una sola col suo conforto; ingoiò intere le sue promesse, adducendo di aver scoperto in lei disonore; in breve, la consegnò al suo proprio lamento, che ella ancora porta per amor suo; ed egli, marmo alle sue [[Tears\|lacrime]], ne è bagnato, ma non s’intenerisce. |
+| [[Isabella\|ISABELLA]] | Che merito sarebbe nella [[Death\|morte]] togliere dal mondo questa povera fanciulla! Che corruzione in questa vita, che lasci vivere quest’uomo! Ma come può ella trarne vantaggio? |
 | DUCA | È una rottura che voi potete facilmente sanare, e la cura non solo salva vostro fratello, ma vi tiene dal disonore nel farlo. |
-| [[Isabella|ISABELLA]] | Mostratemi come, buon padre. |
-| DUCA | Questa fanciulla che ho nominato ha ancora in sé la durata del suo primo affetto. L’ingiusta durezza di lui, che in ogni ragione avrebbe dovuto spegnere il suo [[Love|amore]], l’ha, come un ostacolo nella corrente, reso più violento e indomabile. Andate da [[Angelo]], rispondete alla sua richiesta con una plausibile obbedienza, accordatevi ai suoi termini fino in fondo; solo riservatevi questo vantaggio: primo, che la vostra permanenza con lui non sia lunga; che il [[Time|tempo]] abbia in sé tutta l’[[Shadow|ombra]] e il [[Silence|silenzio]]; e che il luogo risponda alla convenienza. Concesso questo per naturale conseguenza, ecco il resto. Consiglieremo questa fanciulla offesa di prendere il vostro posto all’appuntamento, di andare in vece vostra. Se l’incontro poi si viene a risapere, potrà costringerlo a risarcirla; e sentite: per questa via vostro fratello è salvo, il vostro [[Honour|onore]] intatto, la povera [[Mariana]] avvantaggiata, e il corrotto vicario smascherato. La fanciulla la preparerò e la renderò adatta al suo tentativo. Se vi par [[Well|bene]] condurre questa cosa, come potete, la doppiezza del beneficio difende l’inganno dal biasimo. Che ne pensate? |
-| [[Isabella|ISABELLA]] | La sola immagine me ne dà già contentezza, e confido che crescerà a felicissima perfezione. |
-| DUCA | Sta molto nel vostro sostenerla. Affrettatevi in fretta da [[Angelo]]. Se per questa [[Night|notte]] vi supplica nel suo letto, dategli promessa di soddisfazione. Io andrò subito a San Luca; là, alla fattoria cinta dal fossato, dimora questa avvilita [[Mariana]]. In quel luogo venite a cercarmi; e sbrigatevi con [[Angelo]], che sia presto. |
-| [[Isabella|ISABELLA]] | Vi ringrazio di questo conforto. State [[Well|bene]], buon padre. |
+| [[Isabella\|ISABELLA]] | Mostratemi come, buon padre. |
+| DUCA | Questa fanciulla che ho nominato ha ancora in sé la durata del suo primo affetto. L’ingiusta durezza di lui, che in ogni ragione avrebbe dovuto spegnere il suo [[Love\|amore]], l’ha, come un ostacolo nella corrente, reso più violento e indomabile. Andate da [[Angelo]], rispondete alla sua richiesta con una plausibile obbedienza, accordatevi ai suoi termini fino in fondo; solo riservatevi questo vantaggio: primo, che la vostra permanenza con lui non sia lunga; che il [[Time\|tempo]] abbia in sé tutta l’[[Shadow\|ombra]] e il [[Silence\|silenzio]]; e che il luogo risponda alla convenienza. Concesso questo per naturale conseguenza, ecco il resto. Consiglieremo questa fanciulla offesa di prendere il vostro posto all’appuntamento, di andare in vece vostra. Se l’incontro poi si viene a risapere, potrà costringerlo a risarcirla; e sentite: per questa via vostro fratello è salvo, il vostro [[Honour\|onore]] intatto, la povera [[Mariana]] avvantaggiata, e il corrotto vicario smascherato. La fanciulla la preparerò e la renderò adatta al suo tentativo. Se vi par [[Well\|bene]] condurre questa cosa, come potete, la doppiezza del beneficio difende l’inganno dal biasimo. Che ne pensate? |
+| [[Isabella\|ISABELLA]] | La sola immagine me ne dà già contentezza, e confido che crescerà a felicissima perfezione. |
+| DUCA | Sta molto nel vostro sostenerla. Affrettatevi in fretta da [[Angelo]]. Se per questa [[Night\|notte]] vi supplica nel suo letto, dategli promessa di soddisfazione. Io andrò subito a San Luca; là, alla fattoria cinta dal fossato, dimora questa avvilita [[Mariana]]. In quel luogo venite a cercarmi; e sbrigatevi con [[Angelo]], che sia presto. |
+| [[Isabella\|ISABELLA]] | Vi ringrazio di questo conforto. State [[Well\|bene]], buon padre. |
 | *(didascalia)* | Esce |
 | *(didascalia)* | Entrano Elbow, il Buffone e ufficiali |
 | ELBOW | Eh, se non c’è altro rimedio se non che vogliate proprio comprare e vendere uomini e donne come bestie, avremo tutto il mondo a bere bastardo bianco e bruno. |
 | DUCA | O cieli, che roba è questa? |
-| [[Pompey|POMPEO]] | Il mondo non è più allegro da quando, di due usure, la più allegra fu abbattuta e la peggiore permessa per ordine di legge, con una veste foderata a tenerla calda—e foderata di volpe su pelli d’agnello per giunta, a significare che l’astuzia, essendo più ricca dell’innocenza, sta a far da mostra. |
+| [[Pompey\|POMPEO]] | Il mondo non è più allegro da quando, di due usure, la più allegra fu abbattuta e la peggiore permessa per ordine di legge, con una veste foderata a tenerla calda—e foderata di volpe su pelli d’agnello per giunta, a significare che l’astuzia, essendo più ricca dell’innocenza, sta a far da mostra. |
 | ELBOW | Fate la vostra strada, signore.—Bnedica voi, buon padre frate. |
 | DUCA | E voi, buon fratello padre. Che offesa vi ha fatto quest’uomo, signore? |
 | ELBOW | Perbacco, signore, ha offeso la legge; e, signore, lo teniamo anche per ladro, signore, ché gli abbiamo trovato addosso, signore, uno strano grimaldello, che abbiamo mandato al vicario. |
-| DUCA | (a [[Pompey|Pompeo]])<br>Vergogna, briccone, un ruffiano, un malvagio ruffiano!<br>Il male che tu fai commettere,<br>quello è il tuo mezzo di vivere. Pensa un poco<br>che cos’è rimpinzare un ventre o vestire una schiena<br>con un vizio così sozzo. Di’ a te stesso:<br>‘Dai loro abominevoli e bestiali contatti<br>io bevo, mangio, mi vesto e vivo’.<br>Puoi credere che il tuo vivere sia una vita,<br>così puzzolentemente dipendente? Va’ a emendarti, va’ a emendarti. |
-| [[Pompey|POMPEO]] | In verità puzza in un certo modo, signore. Ma pure, signore, io proverei— |
-| DUCA | No, se il diavolo t’ha dato prove per il peccato,<br>tu sarai prova sua.—Portalo in [[Prison|prigione]], ufficiale.<br>Correzione e istruzione devono lavorare insieme<br>prima che questa rozza bestia ne tragga profitto. |
+| DUCA | (a [[Pompey\|Pompeo]])<br>Vergogna, briccone, un ruffiano, un malvagio ruffiano!<br>Il male che tu fai commettere,<br>quello è il tuo mezzo di vivere. Pensa un poco<br>che cos’è rimpinzare un ventre o vestire una schiena<br>con un vizio così sozzo. Di’ a te stesso:<br>‘Dai loro abominevoli e bestiali contatti<br>io bevo, mangio, mi vesto e vivo’.<br>Puoi credere che il tuo vivere sia una vita,<br>così puzzolentemente dipendente? Va’ a emendarti, va’ a emendarti. |
+| [[Pompey\|POMPEO]] | In verità puzza in un certo modo, signore. Ma pure, signore, io proverei— |
+| DUCA | No, se il diavolo t’ha dato prove per il peccato,<br>tu sarai prova sua.—Portalo in [[Prison\|prigione]], ufficiale.<br>Correzione e istruzione devono lavorare insieme<br>prima che questa rozza bestia ne tragga profitto. |
 | ELBOW | Deve andare davanti al vicario, signore; gli ha dato l’avvertimento. Il vicario non può soffrire un puttaniere. Se uno è mercante di puttane e gli va davanti, farebbe meglio a farsi un miglio per la sua commissione. |
 | DUCA | Fossimo tutti quali alcuni vogliono sembrare—<br>liberi dalle nostre colpe, o le colpe libere dal sembrare. |
 | ELBOW | Il suo collo verrà alla vostra cintura: una corda, signore. |
 | *(didascalia)* | Entra [[Lucio]] |
-| [[Pompey|POMPEO]] | Fiuto conforto, grido cauzione. Ecco un gentiluomo, e un amico mio. |
-| [[Lucio|LUCIO]] | Ebbene, nobile [[Pompey|Pompeo]]? Come, alle ruote di Cesare? Sei condotto in trionfo? Come, non c’è più nessuna di quelle statue di Pigmalione fatte donna di fresco, da avere adesso, mettendo la mano in tasca e cavandola stretta? Che rispondi, eh? Che dici a quest’aria, a questo tema, a questo metodo? Non è annegato nell’ultima pioggia, eh? Che dici, vecchia mia? Il mondo è come era, amico? Qual è la moda? È tristezza e poche parole? O come? Qual è il trucco? |
+| [[Pompey\|POMPEO]] | Fiuto conforto, grido cauzione. Ecco un gentiluomo, e un amico mio. |
+| [[Lucio\|LUCIO]] | Ebbene, nobile [[Pompey\|Pompeo]]? Come, alle ruote di Cesare? Sei condotto in trionfo? Come, non c’è più nessuna di quelle statue di Pigmalione fatte donna di fresco, da avere adesso, mettendo la mano in tasca e cavandola stretta? Che rispondi, eh? Che dici a quest’aria, a questo tema, a questo metodo? Non è annegato nell’ultima pioggia, eh? Che dici, vecchia mia? Il mondo è come era, amico? Qual è la moda? È tristezza e poche parole? O come? Qual è il trucco? |
 | DUCA | Sempre così e così; sempre peggio! |
-| [[Lucio|LUCIO]] | Come sta il mio caro bocconcino, la tua padrona? Fa ancora da mezzana, eh? |
-| [[Pompey|POMPEO]] | In fede, signore, ha finito di mangiare tutto il suo manzo, ed è lei stessa nel tino. |
-| [[Lucio|LUCIO]] | Ma è giusto, è nell’ordine delle cose, dev’essere così. Sempre puttana fresca e ruffiana in salamoia; conseguenza inevitabile, dev’essere così. Vai in [[Prison|prigione]], [[Pompey|Pompeo]]? |
-| [[Pompey|POMPEO]] | Sì, in [[Faith|fede]], signore. |
-| [[Lucio|LUCIO]] | Non c’è male, [[Pompey|Pompeo]]. Addio. Va’; di’ che t’ho mandato io là. Per debiti, [[Pompey|Pompeo]], o come? |
+| [[Lucio\|LUCIO]] | Come sta il mio caro bocconcino, la tua padrona? Fa ancora da mezzana, eh? |
+| [[Pompey\|POMPEO]] | In fede, signore, ha finito di mangiare tutto il suo manzo, ed è lei stessa nel tino. |
+| [[Lucio\|LUCIO]] | Ma è giusto, è nell’ordine delle cose, dev’essere così. Sempre puttana fresca e ruffiana in salamoia; conseguenza inevitabile, dev’essere così. Vai in [[Prison\|prigione]], [[Pompey\|Pompeo]]? |
+| [[Pompey\|POMPEO]] | Sì, in [[Faith\|fede]], signore. |
+| [[Lucio\|LUCIO]] | Non c’è male, [[Pompey\|Pompeo]]. Addio. Va’; di’ che t’ho mandato io là. Per debiti, [[Pompey\|Pompeo]], o come? |
 | ELBOW | Per essere ruffiano, per essere ruffiano. |
-| [[Lucio|LUCIO]] | [[Well|Bene]], allora imprigionatelo. Se la [[Imprisonment|prigionia]] è il dovuto d’un ruffiano, ebbene, gli spetta di diritto. Ruffiano lo è senza dubbio, e d’antichità pure—ruffiano nato. Addio, buon [[Pompey|Pompeo]]. Raccomandami alla [[Prison|prigione]], [[Pompey|Pompeo]]. Diventerai un buon massaio ora, [[Pompey|Pompeo]]; starai in [[house|casa]]. |
-| [[Pompey|POMPEO]] | [[Hope|Spero]], signore, che vossignoria mi farà da garante? |
-| [[Lucio|LUCIO]] | No, davvero, non lo farò, [[Pompey|Pompeo]]; non è di moda. Pregherò, [[Pompey|Pompeo]], che ti si accresca la prigionia. Se non la prendi con pazienza, ebbene, tanto più fegato hai. Addio, fido [[Pompey|Pompeo]].—Dio vi benedica, frate. |
+| [[Lucio\|LUCIO]] | [[Well\|Bene]], allora imprigionatelo. Se la [[Imprisonment\|prigionia]] è il dovuto d’un ruffiano, ebbene, gli spetta di diritto. Ruffiano lo è senza dubbio, e d’antichità pure—ruffiano nato. Addio, buon [[Pompey\|Pompeo]]. Raccomandami alla [[Prison\|prigione]], [[Pompey\|Pompeo]]. Diventerai un buon massaio ora, [[Pompey\|Pompeo]]; starai in [[house\|casa]]. |
+| [[Pompey\|POMPEO]] | [[Hope\|Spero]], signore, che vossignoria mi farà da garante? |
+| [[Lucio\|LUCIO]] | No, davvero, non lo farò, [[Pompey\|Pompeo]]; non è di moda. Pregherò, [[Pompey\|Pompeo]], che ti si accresca la prigionia. Se non la prendi con pazienza, ebbene, tanto più fegato hai. Addio, fido [[Pompey\|Pompeo]].—Dio vi benedica, frate. |
 | DUCA | E voi. |
-| [[Lucio|LUCIO]] | Bridget si dipinge ancora la faccia, [[Pompey|Pompeo]], eh? |
-| ELBOW | (a [[Pompey|Pompeo]]) Fate la vostra strada, signore, andiamo. |
-| [[Pompey|POMPEO]] | (a [[Lucio]]) Non mi farete dunque da garante, signore? |
-| [[Lucio|LUCIO]] | Né allora, [[Pompey|Pompeo]], né adesso.—Che notizie corrono, frate, che notizie? |
-| ELBOW | (a [[Pompey|Pompeo]]) Fate la vostra strada, signore, andiamo. |
-| [[Lucio|LUCIO]] | Va’ al canile, [[Pompey|Pompeo]], va’. |
-| *(didascalia)* | Escono Elbow, [[Pompey|Pompeo]] e gli ufficiali |
-| [[Lucio|LUCIO]] | Che notizie, frate, del Duca? |
+| [[Lucio\|LUCIO]] | Bridget si dipinge ancora la faccia, [[Pompey\|Pompeo]], eh? |
+| ELBOW | (a [[Pompey\|Pompeo]]) Fate la vostra strada, signore, andiamo. |
+| [[Pompey\|POMPEO]] | (a [[Lucio]]) Non mi farete dunque da garante, signore? |
+| [[Lucio\|LUCIO]] | Né allora, [[Pompey\|Pompeo]], né adesso.—Che notizie corrono, frate, che notizie? |
+| ELBOW | (a [[Pompey\|Pompeo]]) Fate la vostra strada, signore, andiamo. |
+| [[Lucio\|LUCIO]] | Va’ al canile, [[Pompey\|Pompeo]], va’. |
+| *(didascalia)* | Escono Elbow, [[Pompey\|Pompeo]] e gli ufficiali |
+| [[Lucio\|LUCIO]] | Che notizie, frate, del Duca? |
 | DUCA | Non ne so nessuna. Potete darmene voi? |
-| [[Lucio|LUCIO]] | Alcuni dicono ch’è con l’Imperatore di [[Russia]]; altri, ch’è a Roma. Ma dov’è, secondo voi? |
-| DUCA | Non so dove; ma dovunque sia, gli auguro [[Well|bene]]. |
-| [[Lucio|LUCIO]] | Fu una trovata pazza e stravagante la sua, sgusciar via dallo Stato e usurpare una pezzenteria alla quale non era nato. Il signor [[Angelo]] fa [[Well|bene]] il duca in sua assenza; dà addosso alla trasgressione. 361 |
-| DUCA | Ci riesce [[Well|bene]]. |
-| [[Lucio|LUCIO]] | Un po’ più d’indulgenza per la lussuria non gli farebbe male. Un po’ troppo arcigno da quel lato, frate. |
+| [[Lucio\|LUCIO]] | Alcuni dicono ch’è con l’Imperatore di [[Russia]]; altri, ch’è a Roma. Ma dov’è, secondo voi? |
+| DUCA | Non so dove; ma dovunque sia, gli auguro [[Well\|bene]]. |
+| [[Lucio\|LUCIO]] | Fu una trovata pazza e stravagante la sua, sgusciar via dallo Stato e usurpare una pezzenteria alla quale non era nato. Il signor [[Angelo]] fa [[Well\|bene]] il duca in sua assenza; dà addosso alla trasgressione. 361 |
+| DUCA | Ci riesce [[Well\|bene]]. |
+| [[Lucio\|LUCIO]] | Un po’ più d’indulgenza per la lussuria non gli farebbe male. Un po’ troppo arcigno da quel lato, frate. |
 | DUCA | È vizio troppo generale, e la severità deve guarirlo. |
-| [[Lucio|LUCIO]] | Sì, in buona fede, il vizio è d’una gran parentela, è [[Well|bene]] imparentato. Ma è impossibile estirparlo del tutto, frate, finché non si aboliscano il mangiare e il bere. Dicono che questo [[Angelo]] non fu fatto da uomo e donna, secondo questa schietta via della creazione. È vero, secondo voi? |
+| [[Lucio\|LUCIO]] | Sì, in buona fede, il vizio è d’una gran parentela, è [[Well\|bene]] imparentato. Ma è impossibile estirparlo del tutto, frate, finché non si aboliscano il mangiare e il bere. Dicono che questo [[Angelo]] non fu fatto da uomo e donna, secondo questa schietta via della creazione. È vero, secondo voi? |
 | DUCA | E come sarebbe stato fatto, allora? |
-| [[Lucio|LUCIO]] | Alcuni riferiscono che lo depose una sirena, altri che fu generato fra due stoccafissi. Ma è certo che quando fa [[Water|acqua]] la sua orina è ghiaccio congelato; questo lo so per vero. Ed è un fantoccio ingenerante; questo è infallibile. |
+| [[Lucio\|LUCIO]] | Alcuni riferiscono che lo depose una sirena, altri che fu generato fra due stoccafissi. Ma è certo che quando fa [[Water\|acqua]] la sua orina è ghiaccio congelato; questo lo so per vero. Ed è un fantoccio ingenerante; questo è infallibile. |
 | DUCA | Siete spiritoso, signore, e parlate spedito. |
-| [[Lucio|LUCIO]] | Ma che cosa spietata è in lui, per la ribellione d’una brachetta togliere la vita a un uomo! L’avrebbe fatto il Duca che è assente? Prima d’impiccare un uomo per aver messo al mondo cento bastardi, avrebbe pagato l’allevamento di mille. Aveva un po’ di sentimento per quel gioco, conosceva il servizio, e questo l’istruiva alla [[Mercy|clemenza]]. |
+| [[Lucio\|LUCIO]] | Ma che cosa spietata è in lui, per la ribellione d’una brachetta togliere la vita a un uomo! L’avrebbe fatto il Duca che è assente? Prima d’impiccare un uomo per aver messo al mondo cento bastardi, avrebbe pagato l’allevamento di mille. Aveva un po’ di sentimento per quel gioco, conosceva il servizio, e questo l’istruiva alla [[Mercy\|clemenza]]. |
 | DUCA | Non ho mai sentito accusare il Duca assente di gran cose con le donne; non era inclinato da quel lato. |
-| [[Lucio|LUCIO]] | Oh signore, v’ingannate. |
+| [[Lucio\|LUCIO]] | Oh signore, v’ingannate. |
 | DUCA | Non è possibile. |
-| [[Lucio|LUCIO]] | Chi, il Duca no? Sì, la vostra mendicante di cinquant’anni; e la sua usanza era di mettere un ducato nella sua ciotola. Il Duca aveva le sue fisime. Si sbronzava pure, questo ve lo posso informare. |
+| [[Lucio\|LUCIO]] | Chi, il Duca no? Sì, la vostra mendicante di cinquant’anni; e la sua usanza era di mettere un ducato nella sua ciotola. Il Duca aveva le sue fisime. Si sbronzava pure, questo ve lo posso informare. |
 | DUCA | Gli fate torto, certamente. |
-| [[Lucio|LUCIO]] | Signore, ero un suo intimo. Un tipo schivo era il Duca, e credo di conoscere la causa del suo ritirarsi. |
+| [[Lucio\|LUCIO]] | Signore, ero un suo intimo. Un tipo schivo era il Duca, e credo di conoscere la causa del suo ritirarsi. |
 | DUCA | Quale, di grazia, potrebbe essere la causa? |
-| [[Lucio|LUCIO]] | No, perdonate, è un segreto che dev’essere chiuso fra i denti e le labbra. Ma questo ve lo posso far capire. La maggior parte dei sudditi teneva il Duca per savio. |
+| [[Lucio\|LUCIO]] | No, perdonate, è un segreto che dev’essere chiuso fra i denti e le labbra. Ma questo ve lo posso far capire. La maggior parte dei sudditi teneva il Duca per savio. |
 | DUCA | Savio? Ma non c’è dubbio che lo fosse. |
-| [[Lucio|LUCIO]] | Un tipo assai superficiale, ignorante, senza discernimento. |
+| [[Lucio\|LUCIO]] | Un tipo assai superficiale, ignorante, senza discernimento. |
 | DUCA | O questa è invidia in voi, o follia, o errore. Il corso stesso della sua vita, e gli affari di cui ha tenuto il timone, devono, a giusto bisogno, dargli miglior proclamazione. Lo si testimoni pure con le sue proprie opere, e apparirà agli invidiosi uno studioso, un uomo di stato e un soldato. Perciò parlate senza cognizione, o, se la vostra conoscenza è maggiore, è molto oscurata dalla vostra malizia. |
-| [[Lucio|LUCIO]] | Signore, io lo conosco e l’[[Love|amo]]. 410 |
-| DUCA | L’[[Love|amore]] parla con miglior conoscenza, e la conoscenza con più caro [[Love|amore]]. |
-| [[Lucio|LUCIO]] | Suvvia, signore, io so quel che so. |
-| DUCA | Stento a crederlo, dal momento che non sapete quel che dite. Ma se mai il Duca ritorna, come sono le nostre preghiere, lasciate ch’io vi [[Desire|inviti]] a rispondere davanti a lui. Se ciò che avete detto è onesto, avrete il [[Courage|coraggio]] di sostenerlo. Sono tenuto a chiamarvi in causa; e vi prego, il vostro nome? |
-| [[Lucio|LUCIO]] | Signore, il mio nome è [[Lucio]], [[Well|ben]] noto al Duca. |
+| [[Lucio\|LUCIO]] | Signore, io lo conosco e l’[[Love\|amo]]. 410 |
+| DUCA | L’[[Love\|amore]] parla con miglior conoscenza, e la conoscenza con più caro [[Love\|amore]]. |
+| [[Lucio\|LUCIO]] | Suvvia, signore, io so quel che so. |
+| DUCA | Stento a crederlo, dal momento che non sapete quel che dite. Ma se mai il Duca ritorna, come sono le nostre preghiere, lasciate ch’io vi [[Desire\|inviti]] a rispondere davanti a lui. Se ciò che avete detto è onesto, avrete il [[Courage\|coraggio]] di sostenerlo. Sono tenuto a chiamarvi in causa; e vi prego, il vostro nome? |
+| [[Lucio\|LUCIO]] | Signore, il mio nome è [[Lucio]], [[Well\|ben]] noto al Duca. |
 | DUCA | Vi conoscerà meglio, signore, se vivrò per riferire di voi. |
-| [[Lucio|LUCIO]] | Non vi [[Fear|temo]]. |
-| DUCA | Oh, voi [[Hope|sperate]] che il Duca non ritorni più, o m’immaginate un avversario troppo innocuo. Ma in verità posso farvi poco male; voi lo negherete con giuramento. |
-| [[Lucio|LUCIO]] | M’impicchino prima. T’inganni sul mio conto, frate. Ma basta di questo. Sai dirmi se [[Claudio]] muore domani o no? |
+| [[Lucio\|LUCIO]] | Non vi [[Fear\|temo]]. |
+| DUCA | Oh, voi [[Hope\|sperate]] che il Duca non ritorni più, o m’immaginate un avversario troppo innocuo. Ma in verità posso farvi poco male; voi lo negherete con giuramento. |
+| [[Lucio\|LUCIO]] | M’impicchino prima. T’inganni sul mio conto, frate. Ma basta di questo. Sai dirmi se [[Claudio]] muore domani o no? |
 | DUCA | Perché dovrebbe morire, signore? |
-| [[Lucio|LUCIO]] | Perché? Per aver riempito una bottiglia con un imbuto. Vorrei che il Duca di cui parliamo fosse tornato; questo agente senza genitali spopolerà la provincia a forza di continenza. I passeri non devono nidificare sotto le sue grondaie di [[house|casa]], perché sono lussuriosi. Il Duca almeno voleva che le opere buie fossero pagate al buio: non le avrebbe mai portate alla luce. Fosse tornato. Perbacco, questo [[Claudio]] è condannato per essersi slacciato le brache. Addio, buon frate. Ti prego, prega per me. Il Duca, te lo ripeto, mangerebbe montone di venerdì. Non ne è ancora passato, e, te lo dico, bacerebbe in bocca una mendicante, anche se puzzasse di pan nero e d’aglio. Di’ pure che l’ho detto io. Addio. Esce |
-| DUCA | Né potenza né [[Greatness|grandezza]] nella [[Mortality|mortalità]]<br>può sfuggire al biasimo; la calunnia che ferisce alle spalle<br>colpisce la virtù più candida. Quale [[King|re]] è tanto forte<br>da legare il fiele nella lingua calunniatrice? |
-| *(didascalia)* | Entrano [[Escalus|Escalo]], il Prevosto e Mistress Overdone |
+| [[Lucio\|LUCIO]] | Perché? Per aver riempito una bottiglia con un imbuto. Vorrei che il Duca di cui parliamo fosse tornato; questo agente senza genitali spopolerà la provincia a forza di continenza. I passeri non devono nidificare sotto le sue grondaie di [[house\|casa]], perché sono lussuriosi. Il Duca almeno voleva che le opere buie fossero pagate al buio: non le avrebbe mai portate alla luce. Fosse tornato. Perbacco, questo [[Claudio]] è condannato per essersi slacciato le brache. Addio, buon frate. Ti prego, prega per me. Il Duca, te lo ripeto, mangerebbe montone di venerdì. Non ne è ancora passato, e, te lo dico, bacerebbe in bocca una mendicante, anche se puzzasse di pan nero e d’aglio. Di’ pure che l’ho detto io. Addio. Esce |
+| DUCA | Né potenza né [[Greatness\|grandezza]] nella [[Mortality\|mortalità]]<br>può sfuggire al biasimo; la calunnia che ferisce alle spalle<br>colpisce la virtù più candida. Quale [[King\|re]] è tanto forte<br>da legare il fiele nella lingua calunniatrice? |
+| *(didascalia)* | Entrano [[Escalus\|Escalo]], il Prevosto e Mistress Overdone |
 | DUCA | Ma chi viene qui? |
-| [[Escalus|ESCALO]] | (al Prevosto) Andate, portatela in [[Prison|prigione]]. |
-| MISTRESS OVERDONE | Buon mio signore, siate buono con me. Vostro [[Honour|onore]] è reputato uomo misericordioso, buon mio signore. |
-| [[Escalus|ESCALO]] | [[Double|Doppia]] e tripla ammonizione, e sempre ricaduta nella stessa colpa! Questo farebbe bestemmiare la [[Mercy|clemenza]] e farle fare il [[Tyrant|tiranno]]. |
-| PREVOSTO | Ruffiana da undici anni di seguito, se piace a vostro [[Honour|onore]]. |
-| MISTRESS OVERDONE | Signore, questa è una denuncia contro di me d’un certo [[Lucio]]. Mistress Kate Keepdown fu resa gravida d’un [[Child|figlio]] da lui al [[Time|tempo]] del Duca; le promise [[Marriage|matrimonio]]. Il suo [[Child|figlio]] compie un anno e un quarto a san Filippo e Giacomo. L’ho tenuto io stessa; e vedete come si dà da fare per rovinarmi. |
-| [[Escalus|ESCALO]] | Quel tale è un tale di molta licenza. Sia chiamato davanti a noi. Portatela in [[Prison|prigione]]. Andiamo, basta parole. Prevosto, mio fratello [[Angelo]] non muterà; [[Claudio]] deve morire domani. Gli siano forniti sacerdoti, e abbia ogni caritatevole preparazione. Se mio fratello operasse secondo la mia pietà, non gli andrebbe così. |
-| PREVOSTO | Con vostra licenza, questo frate è stato da lui e l’ha consigliato ad accogliere la [[Death|morte]]. Escono il Prevosto e Mistress Overdone |
-| [[Escalus|ESCALO]] | Buona sera, buon padre. |
+| [[Escalus\|ESCALO]] | (al Prevosto) Andate, portatela in [[Prison\|prigione]]. |
+| MISTRESS OVERDONE | Buon mio signore, siate buono con me. Vostro [[Honour\|onore]] è reputato uomo misericordioso, buon mio signore. |
+| [[Escalus\|ESCALO]] | [[Double\|Doppia]] e tripla ammonizione, e sempre ricaduta nella stessa colpa! Questo farebbe bestemmiare la [[Mercy\|clemenza]] e farle fare il [[Tyrant\|tiranno]]. |
+| PREVOSTO | Ruffiana da undici anni di seguito, se piace a vostro [[Honour\|onore]]. |
+| MISTRESS OVERDONE | Signore, questa è una denuncia contro di me d’un certo [[Lucio]]. Mistress Kate Keepdown fu resa gravida d’un [[Child\|figlio]] da lui al [[Time\|tempo]] del Duca; le promise [[Marriage\|matrimonio]]. Il suo [[Child\|figlio]] compie un anno e un quarto a san Filippo e Giacomo. L’ho tenuto io stessa; e vedete come si dà da fare per rovinarmi. |
+| [[Escalus\|ESCALO]] | Quel tale è un tale di molta licenza. Sia chiamato davanti a noi. Portatela in [[Prison\|prigione]]. Andiamo, basta parole. Prevosto, mio fratello [[Angelo]] non muterà; [[Claudio]] deve morire domani. Gli siano forniti sacerdoti, e abbia ogni caritatevole preparazione. Se mio fratello operasse secondo la mia pietà, non gli andrebbe così. |
+| PREVOSTO | Con vostra licenza, questo frate è stato da lui e l’ha consigliato ad accogliere la [[Death\|morte]]. Escono il Prevosto e Mistress Overdone |
+| [[Escalus\|ESCALO]] | Buona sera, buon padre. |
 | DUCA | Beatitudine e bontà su di voi. |
-| [[Escalus|ESCALO]] | Di dove siete? |
-| DUCA | Non di questo paese, benché la mia sorte ora sia<br>di servirmene per il mio [[Time|tempo]]. Sono un fratello<br>di grazioso ordine, giunto or ora dalla Sede<br>per speciale incarico di Sua Santità. |
-| [[Escalus|ESCALO]] | Che notizie corrono nel mondo? |
-| DUCA | Nessuna, se non che c’è una febbre così grande sulla bontà che solo la sua dissoluzione può guarirla. Non si richiede che novità, ed è tanto pericoloso invecchiare in qualsiasi via quanto è virtuoso essere incostanti in qualsiasi impresa. C’è appena tanta [[Truth|verità]] in vita da render sicure le società, ma abbastanza garanzia da render maledette le compagnie. Su questo [[Riddle|enigma]] corre gran parte della saggezza del mondo. Questa notizia è vecchia abbastanza, eppure è notizia d’ogni giorno. Ditemi, signore, di quale indole era il Duca? |
-| [[Escalus|ESCALO]] | Uno che, sopra ogni altro sforzo, s’adoperava specialmente a conoscere se stesso. |
+| [[Escalus\|ESCALO]] | Di dove siete? |
+| DUCA | Non di questo paese, benché la mia sorte ora sia<br>di servirmene per il mio [[Time\|tempo]]. Sono un fratello<br>di grazioso ordine, giunto or ora dalla Sede<br>per speciale incarico di Sua Santità. |
+| [[Escalus\|ESCALO]] | Che notizie corrono nel mondo? |
+| DUCA | Nessuna, se non che c’è una febbre così grande sulla bontà che solo la sua dissoluzione può guarirla. Non si richiede che novità, ed è tanto pericoloso invecchiare in qualsiasi via quanto è virtuoso essere incostanti in qualsiasi impresa. C’è appena tanta [[Truth\|verità]] in vita da render sicure le società, ma abbastanza garanzia da render maledette le compagnie. Su questo [[Riddle\|enigma]] corre gran parte della saggezza del mondo. Questa notizia è vecchia abbastanza, eppure è notizia d’ogni giorno. Ditemi, signore, di quale indole era il Duca? |
+| [[Escalus\|ESCALO]] | Uno che, sopra ogni altro sforzo, s’adoperava specialmente a conoscere se stesso. |
 | DUCA | A quale piacere era dato? |
-| [[Escalus|ESCALO]] | Piuttosto godeva di veder allegro un altro che d’essere allegro per qualcosa che pretendesse di rallegrarlo; gentiluomo d’ogni temperanza. Ma lasciamolo ai suoi casi, con una [[prayer|preghiera]] che riescano prosperi, e lasciate ch’io [[Desire|desideri]] sapere come trovate preparato [[Claudio]]. Mi si è dato a intendere che gli avete concesso una visita. |
+| [[Escalus\|ESCALO]] | Piuttosto godeva di veder allegro un altro che d’essere allegro per qualcosa che pretendesse di rallegrarlo; gentiluomo d’ogni temperanza. Ma lasciamolo ai suoi casi, con una [[prayer\|preghiera]] che riescano prosperi, e lasciate ch’io [[Desire\|desideri]] sapere come trovate preparato [[Claudio]]. Mi si è dato a intendere che gli avete concesso una visita. |
 | DUCA | Dichiara di non aver ricevuto misura iniqua dal suo giudice, ma si umilia volentierissimo alla determinazione della giustizia. Pure s’era foggiato da sé, per suggerimento della sua fragilità, molte ingannevoli promesse di vita, ch’io, col mio buon agio, gli ho screditate; e ora è risoluto a morire. |
-| [[Escalus|ESCALO]] | Avete pagato ai cieli il vostro ufficio, e al prigioniero il debito stesso della vostra vocazione. Io mi sono adoperato per il povero gentiluomo fino all’estrema riva del mio ritegno, ma il mio fratello-giustizia l’ho trovato così severo che m’ha costretto a dirgli ch’egli è invero la Giustizia. |
-| DUCA | Se la sua stessa vita risponde al rigore del suo procedere, gli starà [[Well|bene]]; e se in ciò gli avvenga di mancare, s’è condannato da sé. |
-| [[Escalus|ESCALO]] | Vado a visitare il prigioniero. State [[Well|bene]]. |
-| DUCA | La pace sia con voi. Esce [[Escalus|Escalo]]<br>Chi la [[Sword|spada]] del cielo vorrà portare<br>santo dev’essere quanto severo,<br>modello in sé per conoscere,<br>grazia per stare, e virtù per andare,<br>né più né meno agli altri pagando<br>di quanto pesano le colpe di [[Self|sé]].<br>Vergogna a colui che col crudele colpire<br>uccide per colpe di suo gradire!<br>Due volte tripla vergogna su [[Angelo]],<br>che sarchia il mio vizio e lascia crescere il suo!<br>Oh, che può l’uomo nascondere in sé,<br>pur angelo dalla parte di fuori!<br>Come può la somiglianza fatta di delitti<br>far sì che il mio artificio sui tempi<br>tragga con oziosi fili di ragno<br>le cose più ponderose e sostanziali?<br>Astuzia contro vizio devo applicare.<br>Con [[Angelo]] stanotte giacerà<br>la sua antica promessa ma disprezzata.<br>Così il travestimento, per mezzo della travestita,<br>pagherà con falsità la falsa esazione,<br>e compirà un vecchio contratto. |
+| [[Escalus\|ESCALO]] | Avete pagato ai cieli il vostro ufficio, e al prigioniero il debito stesso della vostra vocazione. Io mi sono adoperato per il povero gentiluomo fino all’estrema riva del mio ritegno, ma il mio fratello-giustizia l’ho trovato così severo che m’ha costretto a dirgli ch’egli è invero la Giustizia. |
+| DUCA | Se la sua stessa vita risponde al rigore del suo procedere, gli starà [[Well\|bene]]; e se in ciò gli avvenga di mancare, s’è condannato da sé. |
+| [[Escalus\|ESCALO]] | Vado a visitare il prigioniero. State [[Well\|bene]]. |
+| DUCA | La pace sia con voi. Esce [[Escalus\|Escalo]]<br>Chi la [[Sword\|spada]] del cielo vorrà portare<br>santo dev’essere quanto severo,<br>modello in sé per conoscere,<br>grazia per stare, e virtù per andare,<br>né più né meno agli altri pagando<br>di quanto pesano le colpe di [[Self\|sé]].<br>Vergogna a colui che col crudele colpire<br>uccide per colpe di suo gradire!<br>Due volte tripla vergogna su [[Angelo]],<br>che sarchia il mio vizio e lascia crescere il suo!<br>Oh, che può l’uomo nascondere in sé,<br>pur angelo dalla parte di fuori!<br>Come può la somiglianza fatta di delitti<br>far sì che il mio artificio sui tempi<br>tragga con oziosi fili di ragno<br>le cose più ponderose e sostanziali?<br>Astuzia contro vizio devo applicare.<br>Con [[Angelo]] stanotte giacerà<br>la sua antica promessa ma disprezzata.<br>Così il travestimento, per mezzo della travestita,<br>pagherà con falsità la falsa esazione,<br>e compirà un vecchio contratto. |
 | *(didascalia)* | Esce |
 
 
@@ -2657,40 +2657,40 @@ Measure for Measure
 | Chi parla | Battuta |
 |---|---|
 | *(didascalia)* | Si scopre [[Mariana]] con un Fanciullo che canta |
-| FANCIULLO | Toglimi, oh toglimi quelle labbra<br>che così dolcemente spergiurarono,<br>e quegli occhi, luci del rompere del giorno<br>che sviano il mattino;<br>ma i miei baci rendimi, rendimi,<br>sigilli d’[[Love|amore]], benché sigillati invano, sigillati invano. |
+| FANCIULLO | Toglimi, oh toglimi quelle labbra<br>che così dolcemente spergiurarono,<br>e quegli occhi, luci del rompere del giorno<br>che sviano il mattino;<br>ma i miei baci rendimi, rendimi,<br>sigilli d’[[Love\|amore]], benché sigillati invano, sigillati invano. |
 | *(didascalia)* | Entra il Duca, travestito da frate |
-| [[Mariana|MARIANA]] | Tronca il tuo [[Song|canto]], e affrettati via di qui.<br>Ecco viene un uomo di conforto, il cui consiglio<br>ha spesso acquietato il mio querulo scontento. Esce il Fanciullo<br>Vi chiedo [[Mercy|perdono]], signore, e [[Well|ben]] vorrei io<br>che non m’aveste trovata qui così in musica.<br>Lasciate ch’io mi scusi, e credetemi così:<br>la mia allegria molto mi dispiacque, ma piacque al mio dolore. |
-| DUCA | Sta bene; benché la musica abbia spesso tale incanto<br>da far buono il cattivo, e provocare il buono al danno.<br>Vi prego, ditemi: qualcuno ha chiesto di me qui<br>oggi? Proprio a quest’[[Time|ora]] avevo promesso qui<br>d’incontrarmi. |
-| [[Mariana|MARIANA]] | Nessuno ha chiesto di voi; sono stata seduta qui tutto il giorno. |
+| [[Mariana\|MARIANA]] | Tronca il tuo [[Song\|canto]], e affrettati via di qui.<br>Ecco viene un uomo di conforto, il cui consiglio<br>ha spesso acquietato il mio querulo scontento. Esce il Fanciullo<br>Vi chiedo [[Mercy\|perdono]], signore, e [[Well\|ben]] vorrei io<br>che non m’aveste trovata qui così in musica.<br>Lasciate ch’io mi scusi, e credetemi così:<br>la mia allegria molto mi dispiacque, ma piacque al mio dolore. |
+| DUCA | Sta bene; benché la musica abbia spesso tale incanto<br>da far buono il cattivo, e provocare il buono al danno.<br>Vi prego, ditemi: qualcuno ha chiesto di me qui<br>oggi? Proprio a quest’[[Time\|ora]] avevo promesso qui<br>d’incontrarmi. |
+| [[Mariana\|MARIANA]] | Nessuno ha chiesto di voi; sono stata seduta qui tutto il giorno. |
 | *(didascalia)* | Entra |
-| [[Mariana|MARIANA]] | [[Isabella]] |
-| DUCA | Vi credo fermamente; il [[Time|momento]] è venuto proprio ora. Chiederò la vostra pazienza per un poco. Forse vi chiamerò fra breve, per qualche vostro vantaggio. |
-| [[Mariana|MARIANA]] | Vi sono sempre obbligata. |
+| [[Mariana\|MARIANA]] | [[Isabella]] |
+| DUCA | Vi credo fermamente; il [[Time\|momento]] è venuto proprio ora. Chiederò la vostra pazienza per un poco. Forse vi chiamerò fra breve, per qualche vostro vantaggio. |
+| [[Mariana\|MARIANA]] | Vi sono sempre obbligata. |
 | *(didascalia)* | Esce |
-| DUCA | Molto [[Well|ben]] trovata, e benvenuta.<br>Quali notizie da questo buon sostituto? |
-| [[Isabella|ISABELLA]] | Ha un [[Garden|giardino]] tutto murato di mattoni,<br>il cui lato occidentale è fiancheggiato da una vigna;<br>e a quella vigna è un cancello di tavole,<br>che si apre con questa chiave più grande.<br>Quest’altra comanda una porticina<br>che dalla vigna conduce al [[Garden|giardino]].<br>Là ho fatto la mia promessa<br>sulla greve mezzeria della [[Night|notte]]<br>di venire da lui. |
+| DUCA | Molto [[Well\|ben]] trovata, e benvenuta.<br>Quali notizie da questo buon sostituto? |
+| [[Isabella\|ISABELLA]] | Ha un [[Garden\|giardino]] tutto murato di mattoni,<br>il cui lato occidentale è fiancheggiato da una vigna;<br>e a quella vigna è un cancello di tavole,<br>che si apre con questa chiave più grande.<br>Quest’altra comanda una porticina<br>che dalla vigna conduce al [[Garden\|giardino]].<br>Là ho fatto la mia promessa<br>sulla greve mezzeria della [[Night\|notte]]<br>di venire da lui. |
 | DUCA | Ma saprete voi con sicurezza trovare questa via? |
-| [[Isabella|ISABELLA]] | Ne ho preso debita e guardinga nota.<br>Con sussurri e diligenza colpevolissima,<br>tutto in atto di precetto, egli mi mostrò<br>due volte la strada. |
-| DUCA | Non ci sono altri segni<br>[[Greed|convenuti]] fra voi circa il modo di comportarsi di lei? |
-| [[Isabella|ISABELLA]] | No, nessuno, se non solo un venire al buio,<br>e che l’ho ben persuaso che la mia sosta<br>non può essere che breve, ché gli ho fatto sapere<br>ch’io ho un servo che viene con me<br>e mi aspetta, la cui [[Persuasion|persuasione]] è<br>che io venga per mio fratello. |
-| DUCA | È [[Well|ben]] condotta.<br>Non ho ancora fatto sapere a [[Mariana]]<br>una parola di questo.—Ehi là, dentro! Venite fuori! |
+| [[Isabella\|ISABELLA]] | Ne ho preso debita e guardinga nota.<br>Con sussurri e diligenza colpevolissima,<br>tutto in atto di precetto, egli mi mostrò<br>due volte la strada. |
+| DUCA | Non ci sono altri segni<br>[[Greed\|convenuti]] fra voi circa il modo di comportarsi di lei? |
+| [[Isabella\|ISABELLA]] | No, nessuno, se non solo un venire al buio,<br>e che l’ho ben persuaso che la mia sosta<br>non può essere che breve, ché gli ho fatto sapere<br>ch’io ho un servo che viene con me<br>e mi aspetta, la cui [[Persuasion\|persuasione]] è<br>che io venga per mio fratello. |
+| DUCA | È [[Well\|ben]] condotta.<br>Non ho ancora fatto sapere a [[Mariana]]<br>una parola di questo.—Ehi là, dentro! Venite fuori! |
 | *(didascalia)* | Entra [[Mariana]] |
 | DUCA | (a [[Mariana]]) Vi prego, fate conoscenza con questa fanciulla.<br>Viene a farvi del bene. |
-| [[Isabella|ISABELLA]] | Io [[Desire|desidero]] altrettanto. |
+| [[Isabella\|ISABELLA]] | Io [[Desire\|desidero]] altrettanto. |
 | DUCA | (a [[Mariana]])<br>Vi persuadete voi ch’io abbia riguardo per voi? |
-| [[Mariana|MARIANA]] | Buon frate, so che l’avete, e così l’ho trovato. |
-| DUCA | Prendete dunque per mano questa vostra compagna,<br>che ha una storia pronta per il vostro orecchio.<br>Attenderò il vostro comodo; ma fate presto,<br>la vaporosa [[Night|notte]] s’avvicina. |
-| [[Mariana|MARIANA]] | (a [[Isabella]]) Vi piace venire in disparte? |
+| [[Mariana\|MARIANA]] | Buon frate, so che l’avete, e così l’ho trovato. |
+| DUCA | Prendete dunque per mano questa vostra compagna,<br>che ha una storia pronta per il vostro orecchio.<br>Attenderò il vostro comodo; ma fate presto,<br>la vaporosa [[Night\|notte]] s’avvicina. |
+| [[Mariana\|MARIANA]] | (a [[Isabella]]) Vi piace venire in disparte? |
 | *(didascalia)* | Escono |
-| [[Mariana|MARIANA]] | [[Mariana]]<br>e<br>[[Isabella]] |
-| DUCA | O carica e [[Greatness|grandezza]], milioni di occhi falsi<br>sono confitti su di te; volumi di dicerie<br>corrono con la loro falsa e contrarissima [[Quest|caccia]]<br>sulle tue azioni; mille sortite d’ingegno<br>ti fanno padre del loro ozioso sogno,<br>e ti torturano nelle loro fantasie. |
+| [[Mariana\|MARIANA]] | [[Mariana]]<br>e<br>[[Isabella]] |
+| DUCA | O carica e [[Greatness\|grandezza]], milioni di occhi falsi<br>sono confitti su di te; volumi di dicerie<br>corrono con la loro falsa e contrarissima [[Quest\|caccia]]<br>sulle tue azioni; mille sortite d’ingegno<br>ti fanno padre del loro ozioso sogno,<br>e ti torturano nelle loro fantasie. |
 | *(didascalia)* | Entrano [[Mariana]] e [[Isabella]] |
 | DUCA | Benvenute. Come vi siete accordate? |
-| [[Isabella|ISABELLA]] | Prenderà su di sé l’impresa, padre,<br>se voi lo consigliate. |
+| [[Isabella\|ISABELLA]] | Prenderà su di sé l’impresa, padre,<br>se voi lo consigliate. |
 | DUCA | Non è solo il mio consenso,<br>ma anche la mia preghiera. |
-| [[Isabella|ISABELLA]] | (a [[Mariana]]) Poco avete da dire<br>quando vi staccherete da lui, se non, piano e sommesso:<br>‘Ricòrdati ora di mio fratello’. |
-| [[Mariana|MARIANA]] | Non [[Fear]] per me. |
-| DUCA | Né voi, gentile figliola, [[Fear|temete]] affatto.<br>Egli è vostro marito per un contratto anteriore.<br>Congiungervi così non è peccato,<br>poiché la giustizia del vostro titolo su di lui<br>abbellisce l’inganno. Venite, andiamo.<br>C’è il nostro grano da mietere, ché il campo è ancora da seminare. |
+| [[Isabella\|ISABELLA]] | (a [[Mariana]]) Poco avete da dire<br>quando vi staccherete da lui, se non, piano e sommesso:<br>‘Ricòrdati ora di mio fratello’. |
+| [[Mariana\|MARIANA]] | Non [[Fear]] per me. |
+| DUCA | Né voi, gentile figliola, [[Fear\|temete]] affatto.<br>Egli è vostro marito per un contratto anteriore.<br>Congiungervi così non è peccato,<br>poiché la giustizia del vostro titolo su di lui<br>abbellisce l’inganno. Venite, andiamo.<br>C’è il nostro grano da mietere, ché il campo è ancora da seminare. |
 | *(didascalia)* | Escono |
 
 
@@ -2798,49 +2798,49 @@ Measure for Measure
 
 | Chi parla | Battuta |
 |---|---|
-| *(didascalia)* | Entrano il Prevosto e [[Pompey|Pompeo]] |
+| *(didascalia)* | Entrano il Prevosto e [[Pompey\|Pompeo]] |
 | PREVOSTO | Vieni qua, messere. Sai tagliare la testa a un uomo? |
-| [[Pompey|POMPEO]] | Se l’uomo è scapolo, signore, sì; ma se è ammogliato, egli è il capo di sua moglie, e io non posso mai tagliare il capo a una donna. |
-| PREVOSTO | Andiamo, messere, lascia stare le tue arguzie e dammi una risposta diretta. Domattina devono morire [[Claudio]] e Barnardine. C’è qui nella nostra [[Prison|prigione]] un boia ordinario, che nel suo ufficio manca d’un aiutante. Se ti prendi l’incarico d’assisterlo, ti riscatterà dai tuoi ferri; se no, sconterai tutto il tuo [[Time|tempo]] di [[Imprisonment|prigionia]], e la tua liberazione sarà con una frustata senza pietà; ché sei stato un ruffiano notorio. |
-| [[Pompey|POMPEO]] | Signore, sono stato ruffiano illegale da [[Time|tempo]] immemorabile, ma pure mi contenterò d’essere un impiccatore legale. Sarei lieto di ricevere qualche istruzione dal mio compagno di mestiere. |
+| [[Pompey\|POMPEO]] | Se l’uomo è scapolo, signore, sì; ma se è ammogliato, egli è il capo di sua moglie, e io non posso mai tagliare il capo a una donna. |
+| PREVOSTO | Andiamo, messere, lascia stare le tue arguzie e dammi una risposta diretta. Domattina devono morire [[Claudio]] e Barnardine. C’è qui nella nostra [[Prison\|prigione]] un boia ordinario, che nel suo ufficio manca d’un aiutante. Se ti prendi l’incarico d’assisterlo, ti riscatterà dai tuoi ferri; se no, sconterai tutto il tuo [[Time\|tempo]] di [[Imprisonment\|prigionia]], e la tua liberazione sarà con una frustata senza pietà; ché sei stato un ruffiano notorio. |
+| [[Pompey\|POMPEO]] | Signore, sono stato ruffiano illegale da [[Time\|tempo]] immemorabile, ma pure mi contenterò d’essere un impiccatore legale. Sarei lieto di ricevere qualche istruzione dal mio compagno di mestiere. |
 | PREVOSTO | Ehi là, Abhorson! Dov’è Abhorson? Entra Abhorson |
 | ABHORSON | Chiamate, signore? |
 | PREVOSTO | Messere, ecco un tale che vi aiuterà domani nella vostra esecuzione. Se lo trovate conveniente, accordatevi con lui a anno, e lasciatelo stare qui con voi; se no, servitevene per il momento e congedatelo. Non può accampare con voi la sua reputazione: è stato ruffiano. |
 | ABHORSON | Un ruffiano, signore? Vergogna su di lui, screditerà il nostro mistero. |
 | PREVOSTO | Suvvia, signore, pesate uguale; una piuma farà pendere la bilancia. Esce |
-| [[Pompey|POMPEO]] | Di grazia, signore, con vostra buona cera—ché certo, signore, buona cera l’avete, se non che avete un’aria da forca—chiamate voi, signore, mistero la vostra occupazione? |
+| [[Pompey\|POMPEO]] | Di grazia, signore, con vostra buona cera—ché certo, signore, buona cera l’avete, se non che avete un’aria da forca—chiamate voi, signore, mistero la vostra occupazione? |
 | ABHORSON | Sì, signore, un mistero. |
-| [[Pompey|POMPEO]] | La pittura, signore, ho sentito dire ch’è un mistero; e le vostre puttane, signore, essendo membri della mia occupazione, usando la pittura, provano che la mia occupazione è un mistero. Ma che mistero ci debba essere nell’impiccare, dovessero impiccare me, non riesco a immaginarlo. |
+| [[Pompey\|POMPEO]] | La pittura, signore, ho sentito dire ch’è un mistero; e le vostre puttane, signore, essendo membri della mia occupazione, usando la pittura, provano che la mia occupazione è un mistero. Ma che mistero ci debba essere nell’impiccare, dovessero impiccare me, non riesco a immaginarlo. |
 | ABHORSON | Signore, è un mistero. |
-| [[Pompey|POMPEO]] | La prova. |
+| [[Pompey\|POMPEO]] | La prova. |
 | ABHORSON | I panni d’ogni uomo onesto stanno bene al ladro— |
-| [[Pompey|POMPEO]] | Se sono troppo piccoli per il ladro, l’uomo onesto li giudica abbastanza grandi. Se sono troppo grandi per il ladro, il ladro li giudica abbastanza piccoli. Così i panni d’ogni uomo onesto stanno bene al ladro. |
+| [[Pompey\|POMPEO]] | Se sono troppo piccoli per il ladro, l’uomo onesto li giudica abbastanza grandi. Se sono troppo grandi per il ladro, il ladro li giudica abbastanza piccoli. Così i panni d’ogni uomo onesto stanno bene al ladro. |
 | *(didascalia)* | Entra il Prevosto |
 | PREVOSTO | Vi siete accordati? |
-| [[Pompey|POMPEO]] | Signore, lo servirò, ché trovo che il boia è mestiere più penitente del ruffiano: chiede [[Forgiveness|perdono]] più spesso. |
-| PREVOSTO | (a Abhorson) Tu, messere, prepara il tuo ceppo e la tua scure per domani, alle quattro dell’[[Clock|orologio]]. |
-| ABHORSON | (a [[Pompey|Pompeo]]) Andiamo, ruffiano, t’istruirò nel mio mestiere. Seguimi. |
-| [[Pompey|POMPEO]] | [[Desire|Desidero]] imparare, signore, e [[Hope|spero]], se avrete occasione d’usarmi per il vostro turno, di trovarmi pronto. Ché in verità, signore, per la vostra cortesia vi devo un buon servizio. |
+| [[Pompey\|POMPEO]] | Signore, lo servirò, ché trovo che il boia è mestiere più penitente del ruffiano: chiede [[Forgiveness\|perdono]] più spesso. |
+| PREVOSTO | (a Abhorson) Tu, messere, prepara il tuo ceppo e la tua scure per domani, alle quattro dell’[[Clock\|orologio]]. |
+| ABHORSON | (a [[Pompey\|Pompeo]]) Andiamo, ruffiano, t’istruirò nel mio mestiere. Seguimi. |
+| [[Pompey\|POMPEO]] | [[Desire\|Desidero]] imparare, signore, e [[Hope\|spero]], se avrete occasione d’usarmi per il vostro turno, di trovarmi pronto. Ché in verità, signore, per la vostra cortesia vi devo un buon servizio. |
 | PREVOSTO | Chiamate qui Barnardine e [[Claudio]]. |
-| *(didascalia)* | Escono Abhorson e [[Pompey|Pompeo]] |
+| *(didascalia)* | Escono Abhorson e [[Pompey\|Pompeo]] |
 | PREVOSTO | L’uno ha la mia pietà; non un briciolo l’altro,<br>essendo un assassino, foss’anche mio fratello. |
 | *(didascalia)* | Entra [[Claudio]] |
-| PREVOSTO | Guarda, ecco il mandato, [[Claudio]], per la tua [[Death|morte]].<br>È ora piena mezzanotte, e per le otto di domani<br>dovrai essere fatto immortale. Dov’è Barnardine? |
-| [[Claudio|CLAUDIO]] | Chiuso stretto nel [[Sleep|sonno]] come l’innocente fatica<br>quando giace irrigidita nelle ossa di chi ha faticato.<br>Non si sveglierà. |
-| PREVOSTO | Chi può fargli del bene?<br>[[Well|Bene]], va’ a prepararti. |
+| PREVOSTO | Guarda, ecco il mandato, [[Claudio]], per la tua [[Death\|morte]].<br>È ora piena mezzanotte, e per le otto di domani<br>dovrai essere fatto immortale. Dov’è Barnardine? |
+| [[Claudio\|CLAUDIO]] | Chiuso stretto nel [[Sleep\|sonno]] come l’innocente fatica<br>quando giace irrigidita nelle ossa di chi ha faticato.<br>Non si sveglierà. |
+| PREVOSTO | Chi può fargli del bene?<br>[[Well\|Bene]], va’ a prepararti. |
 | *(didascalia)* | Bussano dall’interno |
 | PREVOSTO | Ma ascolta, che rumore?<br>Il cielo dia conforto al tuo spirito! Esce [[Claudio]] |
 | *(didascalia)* | Bussano di nuovo |
-| PREVOSTO | Subito!<br>[[Hope|Spero]] che sia qualche perdono o rinvio<br>per il gentilissimo [[Claudio]]. |
+| PREVOSTO | Subito!<br>[[Hope\|Spero]] che sia qualche perdono o rinvio<br>per il gentilissimo [[Claudio]]. |
 | *(didascalia)* | Entra il Duca, travestito da frate |
 | PREVOSTO | Benvenuto, padre. |
-| DUCA | I migliori e più salubri spiriti della [[Night|notte]]<br>vi avvolgano, buon Prevosto! Chi ha chiamato qui di recente? |
+| DUCA | I migliori e più salubri spiriti della [[Night\|notte]]<br>vi avvolgano, buon Prevosto! Chi ha chiamato qui di recente? |
 | PREVOSTO | Nessuno da quando è suonato il coprifuoco. |
 | DUCA | Non Isabel? |
 | PREVOSTO | No. |
 | DUCA | Verranno allora, fra non molto. |
 | PREVOSTO | Che conforto c’è per [[Claudio]]? |
-| DUCA | Ce n’è un poco nella [[Hope|speranza]]. |
+| DUCA | Ce n’è un poco nella [[Hope\|speranza]]. |
 | PREVOSTO | È un vicario amaro. |
 | DUCA | Non è così, non è così; la sua vita corre parallela<br>proprio al tratto e alla linea della sua grande giustizia.<br>Egli con santa astinenza soggioga<br>ciò che in se stesso sprona il suo potere<br>a moderare negli altri. Fosse impastato di quello<br>che corregge, allora sarebbe tirannico;<br>ma essendo così, è giusto. |
 | *(didascalia)* | Bussano dall’interno |
@@ -2857,38 +2857,38 @@ Measure for Measure
 | *(didascalia)* | Entra un Messo |
 | PREVOSTO | Questo è l’uomo di sua signoria. |
 | *(didascalia)* | DUCA Ed ecco che viene il perdono di [[Claudio]]. |
-| MESSO | (consegnando una carta al Prevosto) Il mio signore vi ha mandato questo biglietto, e per mio mezzo quest’ulteriore incarico: che non deviate dal minimo articolo di esso, né nel [[Time|tempo]], né nella materia, né in altra circostanza. Buon giorno; ché, per quanto vedo, è quasi giorno. |
+| MESSO | (consegnando una carta al Prevosto) Il mio signore vi ha mandato questo biglietto, e per mio mezzo quest’ulteriore incarico: che non deviate dal minimo articolo di esso, né nel [[Time\|tempo]], né nella materia, né in altra circostanza. Buon giorno; ché, per quanto vedo, è quasi giorno. |
 | PREVOSTO | Gli obbedirò. |
 | *(didascalia)* | Esce il Messo |
-| DUCA | (a parte)<br>Questo è il suo perdono, comprato con quel peccato<br>nel quale il perdonatore stesso è caduto.<br>Di qui l’offesa ha la sua rapida celerità,<br>quando è sostenuta da alta autorità.<br>Quando il vizio fa [[Mercy|clemenza]], la [[Mercy|clemenza]] è tanto estesa<br>che per l’[[Love|amore]] della colpa l’offensore ha un amico.—<br>Ora, signore, che notizie? |
+| DUCA | (a parte)<br>Questo è il suo perdono, comprato con quel peccato<br>nel quale il perdonatore stesso è caduto.<br>Di qui l’offesa ha la sua rapida celerità,<br>quando è sostenuta da alta autorità.<br>Quando il vizio fa [[Mercy\|clemenza]], la [[Mercy\|clemenza]] è tanto estesa<br>che per l’[[Love\|amore]] della colpa l’offensore ha un amico.—<br>Ora, signore, che notizie? |
 | PREVOSTO | Ve l’ho detto: il signor [[Angelo]], credendomi forse negligente nel mio ufficio, mi ridesta con questo insolito sollecito; e mi pare strano, ché non l’ha mai fatto prima. |
 | DUCA | Di grazia, sentiamo. |
-| PREVOSTO | (leggendo la lettera) ‘Qualunque cosa possiate udire in contrario, sia [[Claudio]] giustiziato alle quattro dell’[[Clock|orologio]], e nel pomeriggio Barnardine. Per mia maggiore soddisfazione, mi sia mandata la testa di [[Claudio]] entro le cinque. Sia questo debitamente eseguito, col pensiero che più dipende da ciò di quanto ancora dobbiamo dire. Così non mancate di fare il vostro ufficio, come ne risponderete a vostro rischio.’ Che ne dite di questo, signore? |
+| PREVOSTO | (leggendo la lettera) ‘Qualunque cosa possiate udire in contrario, sia [[Claudio]] giustiziato alle quattro dell’[[Clock\|orologio]], e nel pomeriggio Barnardine. Per mia maggiore soddisfazione, mi sia mandata la testa di [[Claudio]] entro le cinque. Sia questo debitamente eseguito, col pensiero che più dipende da ciò di quanto ancora dobbiamo dire. Così non mancate di fare il vostro ufficio, come ne risponderete a vostro rischio.’ Che ne dite di questo, signore? |
 | DUCA | Chi è quel Barnardine, che dev’essere giustiziato nel pomeriggio? |
 | PREVOSTO | Un boemo di nascita, ma qui allevato e cresciuto; uno che è prigioniero da nove anni. |
 | DUCA | Come mai il Duca assente non l’ha né rimesso in libertà né giustiziato? Ho sentito che era sempre suo costume fare così. |
-| PREVOSTO | I suoi amici gli hanno sempre procurato rinvii; e in verità il suo fatto, fino ad ora sotto il [[government|governo]] del signor [[Angelo]], non era giunto a prova indubitabile. |
+| PREVOSTO | I suoi amici gli hanno sempre procurato rinvii; e in verità il suo fatto, fino ad ora sotto il [[government\|governo]] del signor [[Angelo]], non era giunto a prova indubitabile. |
 | DUCA | Ora è manifesto? |
 | PREVOSTO | Manifestissimo, e non negato da lui stesso. |
-| DUCA | S’è comportato con pentimento in [[Prison|prigione]]? Come pare toccato? |
-| PREVOSTO | Un uomo che comprende la [[Death|morte]] non più spaventosamente che come un [[Sleep|sonno]] d’ubriaco; incurante, temerario e senza timore di ciò che è passato, presente o venturo; insensibile alla [[Mortality|mortalità]], e disperatamente mortale. |
+| DUCA | S’è comportato con pentimento in [[Prison\|prigione]]? Come pare toccato? |
+| PREVOSTO | Un uomo che comprende la [[Death\|morte]] non più spaventosamente che come un [[Sleep\|sonno]] d’ubriaco; incurante, temerario e senza timore di ciò che è passato, presente o venturo; insensibile alla [[Mortality\|mortalità]], e disperatamente mortale. |
 | DUCA | Ha bisogno di consiglio. |
-| PREVOSTO | Non ne vuole udire nessuno. Ha sempre avuto la libertà della [[Prison|prigione]]. Dategli licenza di fuggire di qui, non vorrebbe. Ubriaco molte volte al giorno, se non ubriaco per giorni interi. L’abbiamo svegliato spesso come per portarlo all’esecuzione, e gli abbiamo mostrato un finto mandato; non l’ha mosso affatto. |
+| PREVOSTO | Non ne vuole udire nessuno. Ha sempre avuto la libertà della [[Prison\|prigione]]. Dategli licenza di fuggire di qui, non vorrebbe. Ubriaco molte volte al giorno, se non ubriaco per giorni interi. L’abbiamo svegliato spesso come per portarlo all’esecuzione, e gli abbiamo mostrato un finto mandato; non l’ha mosso affatto. |
 | DUCA | Di lui parleremo poi. C’è scritto sulla vostra fronte, Prevosto, onestà e costanza. Se non leggo bene, la mia antica perizia m’inganna. Ma nell’ardire della mia astuzia, mi metterò a rischio. [[Claudio]], che qui avete mandato di giustiziare, non è più in debito con la legge di quanto lo sia [[Angelo]] che l’ha condannato. Per farvi comprendere questo in un effetto manifesto, non chiedo che quattro giorni di respiro, per i quali dovete farmi una cortesia insieme immediata e pericolosa. |
 | PREVOSTO | Di grazia, signore, in che? |
-| DUCA | Nel differire la [[Death|morte]]. |
-| PREVOSTO | Ahimè, come posso farlo, avendo l’ora fissata, e un ordine espresso sotto pena di consegnare la sua testa al cospetto di [[Angelo]]? Farei del mio caso quello di [[Claudio]], a [[Cross|contrariare]] questo anche nel minimo. |
+| DUCA | Nel differire la [[Death\|morte]]. |
+| PREVOSTO | Ahimè, come posso farlo, avendo l’ora fissata, e un ordine espresso sotto pena di consegnare la sua testa al cospetto di [[Angelo]]? Farei del mio caso quello di [[Claudio]], a [[Cross\|contrariare]] questo anche nel minimo. |
 | DUCA | Per il voto del mio ordine, ve ne rispondo io, se le mie istruzioni vi possono guidare: sia questo Barnardine giustiziato stamattina, e la sua testa portata ad [[Angelo]]. |
 | PREVOSTO | [[Angelo]] li ha visti entrambi, e riconoscerà i lineamenti. |
-| DUCA | Oh, la [[Death|morte]] è un gran travestitore, e voi potete aggiungervi del vostro. Radete il capo e legate la barba, e dite che fu [[Desire|desiderio]] del penitente essere così scoperto prima della sua [[Death|morte]]; sapete che l’usanza è comune. Se da questo vi tocca qualcosa più di ringraziamenti e buona fortuna, per il santo che professo, perorerò contro di ciò con la mia vita. |
+| DUCA | Oh, la [[Death\|morte]] è un gran travestitore, e voi potete aggiungervi del vostro. Radete il capo e legate la barba, e dite che fu [[Desire\|desiderio]] del penitente essere così scoperto prima della sua [[Death\|morte]]; sapete che l’usanza è comune. Se da questo vi tocca qualcosa più di ringraziamenti e buona fortuna, per il santo che professo, perorerò contro di ciò con la mia vita. |
 | PREVOSTO | Perdonatemi, buon padre, è contro il mio giuramento. |
 | DUCA | Avete giurato al Duca o al vicario? |
 | PREVOSTO | A lui e ai suoi sostituti. |
 | DUCA | Penserete di non aver commesso offesa, se il Duca garantisce la giustizia del vostro operato? |
 | PREVOSTO | Ma che probabilità c’è in questo? |
-| DUCA | Non una somiglianza, ma una certezza. Pure, poiché vi vedo timoroso, e né la mia veste, né l’integrità, né la [[Persuasion|persuasione]] possono facilmente muovervi, andrò più oltre di quanto intendessi, per strapparvi ogni timore. (Mostrando una lettera) Guardate, signore, ecco la mano e il sigillo del Duca. Conoscete la scrittura, non ne [[Doubt|dubito]], e il sigillo non vi è estraneo? |
+| DUCA | Non una somiglianza, ma una certezza. Pure, poiché vi vedo timoroso, e né la mia veste, né l’integrità, né la [[Persuasion\|persuasione]] possono facilmente muovervi, andrò più oltre di quanto intendessi, per strapparvi ogni timore. (Mostrando una lettera) Guardate, signore, ecco la mano e il sigillo del Duca. Conoscete la scrittura, non ne [[Doubt\|dubito]], e il sigillo non vi è estraneo? |
 | PREVOSTO | Li conosco entrambi. |
-| DUCA | Il contenuto di questa è il ritorno del Duca. La leggerete fra poco a vostro piacere, e vi troverete che entro questi due giorni egli sarà qui. Questa è cosa che [[Angelo]] non sa, ché egli proprio oggi riceve lettere di strano tenore, forse della [[Death|morte]] del Duca, forse del suo entrare in qualche monastero; ma per caso nulla di ciò che è scritto. Guardate, la stella che dischiude chiama su il pastore. Non gettatevi nello stupore su come queste cose possano essere. Tutte le difficoltà sono facili quando sono note. Chiamate il vostro boia, e via la testa di Barnardine. Gli darò subito confessione, e lo consiglierò per un luogo migliore. Ancora siete stupito; ma questo vi risolverà del tutto. Venite via, è quasi chiara l’[[Dawn|alba]]. |
+| DUCA | Il contenuto di questa è il ritorno del Duca. La leggerete fra poco a vostro piacere, e vi troverete che entro questi due giorni egli sarà qui. Questa è cosa che [[Angelo]] non sa, ché egli proprio oggi riceve lettere di strano tenore, forse della [[Death\|morte]] del Duca, forse del suo entrare in qualche monastero; ma per caso nulla di ciò che è scritto. Guardate, la stella che dischiude chiama su il pastore. Non gettatevi nello stupore su come queste cose possano essere. Tutte le difficoltà sono facili quando sono note. Chiamate il vostro boia, e via la testa di Barnardine. Gli darò subito confessione, e lo consiglierò per un luogo migliore. Ancora siete stupito; ma questo vi risolverà del tutto. Venite via, è quasi chiara l’[[Dawn\|alba]]. |
 | *(didascalia)* | Escono |
 
 
@@ -2981,82 +2981,82 @@ Measure for Measure
 
 | Chi parla | Battuta |
 |---|---|
-| *(didascalia)* | Entra [[Pompey|Pompeo]] |
-| [[Pompey|POMPEO]] | Sono qui altrettanto [[Well|ben]] conosciuto quanto lo ero nella nostra [[house|casa]] di professione. Uno penserebbe che questa sia la [[house|casa]] stessa di Mistress Overdone, ché qui ci sono molti dei suoi vecchi clienti. Primo, ecco il giovane messer Rash; è dentro per una partita di carta straccia e zenzero vecchio, centonovantasette sterline, delle quali fece cinque marchi in contanti. Perbacco, allora lo zenzero non era molto richiesto, ché le vecchie erano tutte morte. Poi c’è qui un messer Caper, per la causa di messer Threepile il merciaio, per quattro abiti di raso color pesca, che ora lo pescano pezzente. Poi abbiamo qui il giovane Dizzy, e il giovane messer Deepvow, e messer Copperspur e messer Starve-lackey l’uomo di stocco e pugnale, e il giovane Drop-hair che ammazzò il gagliardo Pudding, e messer Forthright il giostratore, e il bravo messer Shoe-tie il gran viaggiatore, e il selvatico Half-can che pugnalò Pots, e credo altri quaranta, tutti grandi lavoratori nel nostro mestiere, e ora stanno a chiedere ‘per amor del Signore’. Entra Abhorson |
+| *(didascalia)* | Entra [[Pompey\|Pompeo]] |
+| [[Pompey\|POMPEO]] | Sono qui altrettanto [[Well\|ben]] conosciuto quanto lo ero nella nostra [[house\|casa]] di professione. Uno penserebbe che questa sia la [[house\|casa]] stessa di Mistress Overdone, ché qui ci sono molti dei suoi vecchi clienti. Primo, ecco il giovane messer Rash; è dentro per una partita di carta straccia e zenzero vecchio, centonovantasette sterline, delle quali fece cinque marchi in contanti. Perbacco, allora lo zenzero non era molto richiesto, ché le vecchie erano tutte morte. Poi c’è qui un messer Caper, per la causa di messer Threepile il merciaio, per quattro abiti di raso color pesca, che ora lo pescano pezzente. Poi abbiamo qui il giovane Dizzy, e il giovane messer Deepvow, e messer Copperspur e messer Starve-lackey l’uomo di stocco e pugnale, e il giovane Drop-hair che ammazzò il gagliardo Pudding, e messer Forthright il giostratore, e il bravo messer Shoe-tie il gran viaggiatore, e il selvatico Half-can che pugnalò Pots, e credo altri quaranta, tutti grandi lavoratori nel nostro mestiere, e ora stanno a chiedere ‘per amor del Signore’. Entra Abhorson |
 | ABHORSON | Messere, porta qua Barnardine. 19 |
-| [[Pompey|POMPEO]] | Messer Barnardine! Dovete alzarvi ed essere impiccato, messer Barnardine! |
+| [[Pompey\|POMPEO]] | Messer Barnardine! Dovete alzarvi ed essere impiccato, messer Barnardine! |
 | ABHORSON | Ehi là, Barnardine! |
 | BARNARDINE | (dall’interno) Un accidente alle vostre gole! Chi fa quel rumore là? Chi siete? |
-| [[Pompey|POMPEO]] | I vostri amici, signore; il boia. Dovete essere così buono, signore, da alzarvi ed essere messo a [[Death|morte]]. |
+| [[Pompey\|POMPEO]] | I vostri amici, signore; il boia. Dovete essere così buono, signore, da alzarvi ed essere messo a [[Death\|morte]]. |
 | BARNARDINE | Via, furfante, via! Ho sonno. |
 | ABHORSON | Digli che deve svegliarsi, e anche presto. |
-| [[Pompey|POMPEO]] | Di grazia, messer Barnardine, state sveglio finché siate giustiziato, e [[Sleep|dormite]] dopo. |
+| [[Pompey\|POMPEO]] | Di grazia, messer Barnardine, state sveglio finché siate giustiziato, e [[Sleep\|dormite]] dopo. |
 | ABHORSON | Entra da lui e tiralo fuori. |
-| [[Pompey|POMPEO]] | Viene, signore, viene. Sento frusciare la sua paglia. |
+| [[Pompey\|POMPEO]] | Viene, signore, viene. Sento frusciare la sua paglia. |
 | ABHORSON | La scure è sul ceppo, messere? |
-| [[Pompey|POMPEO]] | Prontissima, signore. |
+| [[Pompey\|POMPEO]] | Prontissima, signore. |
 | *(didascalia)* | Entra Barnardine |
 | BARNARDINE | Ebbene, Abhorson, che notizie mi portate? |
-| ABHORSON | In verità, signore, [[Desire|vorrei]] che vi buttaste nelle vostre preghiere, ché, vedete, il mandato è arrivato. |
-| BARNARDINE | Furfante, ho bevuto tutta la [[Night|notte]]. Non sono in condizione. |
-| [[Pompey|POMPEO]] | Oh, tanto meglio, signore; ché chi beve tutta la [[Night|notte]] ed è impiccato di buon’ora al mattino può [[Sleep|dormire]] più saldo tutto il giorno dopo. Entra il Duca, travestito da frate |
+| ABHORSON | In verità, signore, [[Desire\|vorrei]] che vi buttaste nelle vostre preghiere, ché, vedete, il mandato è arrivato. |
+| BARNARDINE | Furfante, ho bevuto tutta la [[Night\|notte]]. Non sono in condizione. |
+| [[Pompey\|POMPEO]] | Oh, tanto meglio, signore; ché chi beve tutta la [[Night\|notte]] ed è impiccato di buon’ora al mattino può [[Sleep\|dormire]] più saldo tutto il giorno dopo. Entra il Duca, travestito da frate |
 | ABHORSON | (a Barnardine) Guardate, signore, ecco che viene il vostro padre spirituale. Scherziamo ora, che ne dite? |
-| DUCA | (a Barnardine) Signore, indotto dalla mia [[Charity|carità]], e udendo con quanta fretta dovete partire, sono venuto a consigliarvi, confortarvi e pregare con voi. |
-| BARNARDINE | Frate, io no. Ho bevuto forte tutta la [[Night|notte]], e voglio più [[Time|tempo]] per prepararmi, o mi facciano schizzare le cervella a randellate. Non acconsentirò a morire oggi, questo è certo. |
-| DUCA | Oh signore, dovete; e perciò, vi supplico,<br>guardate avanti al [[Journey|viaggio]] che dovrete fare. |
-| BARNARDINE | Giuro che non morirò oggi, per la [[Persuasion|persuasione]] di nessun uomo. |
+| DUCA | (a Barnardine) Signore, indotto dalla mia [[Charity\|carità]], e udendo con quanta fretta dovete partire, sono venuto a consigliarvi, confortarvi e pregare con voi. |
+| BARNARDINE | Frate, io no. Ho bevuto forte tutta la [[Night\|notte]], e voglio più [[Time\|tempo]] per prepararmi, o mi facciano schizzare le cervella a randellate. Non acconsentirò a morire oggi, questo è certo. |
+| DUCA | Oh signore, dovete; e perciò, vi supplico,<br>guardate avanti al [[Journey\|viaggio]] che dovrete fare. |
+| BARNARDINE | Giuro che non morirò oggi, per la [[Persuasion\|persuasione]] di nessun uomo. |
 | DUCA | Ma ascoltate— |
 | BARNARDINE | Non una parola. Se avete qualcosa da dirmi, venite nella mia cella, ché di là oggi non mi muovo. |
 | *(didascalia)* | Esce |
 | DUCA | Inadatto a vivere o a morire. O cuore di ghiaia!<br>Dietro a lui, ragazzi; portatelo al ceppo. |
 | *(didascalia)* | Escono Abhorson |
-| DUCA | e<br>[[Pompey|Pompeo]] |
+| DUCA | e<br>[[Pompey\|Pompeo]] |
 | *(didascalia)* | Entra il Prevosto |
 | PREVOSTO | Ebbene, signore, come trovate il prigioniero? |
-| DUCA | Una creatura impreparata, non adatta alla [[Death|morte]];<br>e trasportarlo nell’animo in cui è<br>sarebbe cosa dannabile. |
-| PREVOSTO | Qui nella [[Prison|prigione]], padre,<br>è morto stamattina d’una febbre crudele<br>un certo Ragusine, pirata notorissimo,<br>uomo dell’età di [[Claudio]], con barba e capelli<br>proprio del suo colore. Che ne dite se tralasciamo<br>questo reprobo finché sia [[Well|ben]] disposto,<br>e soddisfiamo il vicario col volto<br>di Ragusine, più simile a [[Claudio]]? |
+| DUCA | Una creatura impreparata, non adatta alla [[Death\|morte]];<br>e trasportarlo nell’animo in cui è<br>sarebbe cosa dannabile. |
+| PREVOSTO | Qui nella [[Prison\|prigione]], padre,<br>è morto stamattina d’una febbre crudele<br>un certo Ragusine, pirata notorissimo,<br>uomo dell’età di [[Claudio]], con barba e capelli<br>proprio del suo colore. Che ne dite se tralasciamo<br>questo reprobo finché sia [[Well\|ben]] disposto,<br>e soddisfiamo il vicario col volto<br>di Ragusine, più simile a [[Claudio]]? |
 | DUCA | Oh, è un caso che il cielo provvede.<br>Sbrigatelo subito; s’avvicina l’ora<br>prefissa da [[Angelo]]. Badate che sia fatto,<br>e mandato secondo il comando, mentre io<br>persuado questo rozzo miserabile a morire di buon grado. |
 | PREVOSTO | Sarà fatto, buon padre, subito.<br><br>Ma Barnardine deve morire questo pomeriggio;<br>e come faremo a continuare [[Claudio]],<br>per salvarmi dal pericolo che potrebbe venire<br>se si sapesse ch’è vivo? |
 | DUCA | Si faccia così:<br>metteteli in celle segrete, sia Barnardine sia [[Claudio]].<br>Prima che due volte il sole abbia dato il suo saluto diurno<br>a codesta generazione, troverete<br>la vostra sicurezza manifesta. |
 | PREVOSTO | Sono al vostro libero servizio. |
 | DUCA | Presto, sbrigatevi, e mandate la testa ad [[Angelo]]. |
 | *(didascalia)* | Esce il Prevosto |
-| DUCA | Ora scriverò lettere ad [[Angelo]]—<br>il Prevosto le porterà—il cui contenuto<br>gli attesterà che sono vicino a [[Home|casa]],<br>e che per grandi ingiunzioni sono tenuto<br>a entrare pubblicamente. Lo [[Desire|inviterò]]<br>a incontrarmi alla fonte consacrata<br>una lega sotto la [[City|città]], e di là,<br>per fredda gradazione e forma [[Well|ben]] bilanciata,<br>procederemo con [[Angelo]]. |
+| DUCA | Ora scriverò lettere ad [[Angelo]]—<br>il Prevosto le porterà—il cui contenuto<br>gli attesterà che sono vicino a [[Home\|casa]],<br>e che per grandi ingiunzioni sono tenuto<br>a entrare pubblicamente. Lo [[Desire\|inviterò]]<br>a incontrarmi alla fonte consacrata<br>una lega sotto la [[City\|città]], e di là,<br>per fredda gradazione e forma [[Well\|ben]] bilanciata,<br>procederemo con [[Angelo]]. |
 | *(didascalia)* | Entra il Prevosto, con la testa di Ragusine |
 | PREVOSTO | Ecco la testa; la porterò io stesso. |
 | DUCA | È conveniente. Fate rapido ritorno,<br>ché vorrei conferire con voi di cose tali<br>che non vogliono altro orecchio che il vostro. |
-| PREVOSTO | Farò ogni [[Speed|prestezza]]. |
+| PREVOSTO | Farò ogni [[Speed\|prestezza]]. |
 | *(didascalia)* | Esce |
-| [[Isabella|ISABELLA]] | (dall’interno) Pace, oh, sia qui! |
-| DUCA | La voce d’Isabel. Viene a sapere<br>se il perdono di suo fratello sia giunto qui;<br>ma la terrò ignara del suo bene,<br>per farle celesti conforti dalla [[Despair|disperazione]]<br>quando meno se l’aspetta. |
-| *(didascalia)* | [[Isabella|ISABELLA]] dall’interno Ehi, con vostra licenza! |
+| [[Isabella\|ISABELLA]] | (dall’interno) Pace, oh, sia qui! |
+| DUCA | La voce d’Isabel. Viene a sapere<br>se il perdono di suo fratello sia giunto qui;<br>ma la terrò ignara del suo bene,<br>per farle celesti conforti dalla [[Despair\|disperazione]]<br>quando meno se l’aspetta. |
+| *(didascalia)* | [[Isabella\|ISABELLA]] dall’interno Ehi, con vostra licenza! |
 | *(didascalia)* | Entra [[Isabella]] |
 | DUCA | Buon giorno a voi, bella e graziosa figliola. |
-| [[Isabella|ISABELLA]] | Tanto migliore, datomi da un uomo così santo.<br>Ha già mandato il vicario il perdono di mio fratello? |
+| [[Isabella\|ISABELLA]] | Tanto migliore, datomi da un uomo così santo.<br>Ha già mandato il vicario il perdono di mio fratello? |
 | DUCA | L’ha liberato, Isabel, dal mondo.<br>La sua testa è mozzata e mandata ad [[Angelo]]. |
-| [[Isabella|ISABELLA]] | No, non è così. |
+| [[Isabella\|ISABELLA]] | No, non è così. |
 | DUCA | Non è altrimenti.<br>Mostrate la vostra saggezza, figliola, in una chiusa pazienza. |
-| [[Isabella|ISABELLA]] | Oh, andrò da lui e gli caverò gli occhi! |
+| [[Isabella\|ISABELLA]] | Oh, andrò da lui e gli caverò gli occhi! |
 | DUCA | Non sarete ammessa alla sua vista. |
-| [[Isabella|ISABELLA]] | (piangendo)<br>Infelice [[Claudio]]! Misera Isabel!<br>Mondo ingiurioso! Dannatissimo [[Angelo]]! |
-| DUCA | Questo non gli giova né vi profitta d’un briciolo.<br>Astenetevene, dunque; date la vostra causa al cielo.<br>Notate ciò che dico, e troverete<br>in ogni sillaba una fedele verità.<br>Il Duca torna a [[Home|casa]] domani—no, asciugate i vostri<br>occhi—<br>uno del nostro convento, e suo confessore,<br>me ne dà notizia. Già ha portato<br>l’avviso a [[Escalus|Escalo]] e ad [[Angelo]],<br>che si preparano a incontrarlo alle porte,<br>per rendergli là il loro potere. Se saprete misurare la vostra<br>saggezza<br>su quel buon sentiero per cui vorrei che andasse,<br>avrete il vostro sfogo su questo miserabile,<br>la grazia del Duca, vendette a vostro cuore,<br>e [[Honour|onore]] generale. |
-| [[Isabella|ISABELLA]] | Mi lascio guidare da voi. |
-| DUCA | Questa lettera, dunque, datela a frate Pietro.<br>È quella che mi mandò del ritorno del Duca.<br>Ditegli che con questo segno [[Desire|desidero]] la sua compagnia<br>in [[house|casa]] di [[Mariana]] stanotte. La sua causa e la vostra<br>gliele farò conoscere appieno, ed egli vi condurrà<br>davanti al Duca, e in faccia ad [[Angelo]]<br>lo accuserà a [[Home|fondo]] e a [[Home|fondo]]. Quanto al mio povero [[Self|io]],<br>sono legato da un voto sacro,<br>e sarò assente. (Dandole la lettera) Andate con<br>questa lettera.<br>Comandate a queste acque roditrici dei vostri occhi<br>con cuore leggero. Non fidatevi del mio santo ordine<br>se travio il vostro cammino. |
+| [[Isabella\|ISABELLA]] | (piangendo)<br>Infelice [[Claudio]]! Misera Isabel!<br>Mondo ingiurioso! Dannatissimo [[Angelo]]! |
+| DUCA | Questo non gli giova né vi profitta d’un briciolo.<br>Astenetevene, dunque; date la vostra causa al cielo.<br>Notate ciò che dico, e troverete<br>in ogni sillaba una fedele verità.<br>Il Duca torna a [[Home\|casa]] domani—no, asciugate i vostri<br>occhi—<br>uno del nostro convento, e suo confessore,<br>me ne dà notizia. Già ha portato<br>l’avviso a [[Escalus\|Escalo]] e ad [[Angelo]],<br>che si preparano a incontrarlo alle porte,<br>per rendergli là il loro potere. Se saprete misurare la vostra<br>saggezza<br>su quel buon sentiero per cui vorrei che andasse,<br>avrete il vostro sfogo su questo miserabile,<br>la grazia del Duca, vendette a vostro cuore,<br>e [[Honour\|onore]] generale. |
+| [[Isabella\|ISABELLA]] | Mi lascio guidare da voi. |
+| DUCA | Questa lettera, dunque, datela a frate Pietro.<br>È quella che mi mandò del ritorno del Duca.<br>Ditegli che con questo segno [[Desire\|desidero]] la sua compagnia<br>in [[house\|casa]] di [[Mariana]] stanotte. La sua causa e la vostra<br>gliele farò conoscere appieno, ed egli vi condurrà<br>davanti al Duca, e in faccia ad [[Angelo]]<br>lo accuserà a [[Home\|fondo]] e a [[Home\|fondo]]. Quanto al mio povero [[Self\|io]],<br>sono legato da un voto sacro,<br>e sarò assente. (Dandole la lettera) Andate con<br>questa lettera.<br>Comandate a queste acque roditrici dei vostri occhi<br>con cuore leggero. Non fidatevi del mio santo ordine<br>se travio il vostro cammino. |
 | *(didascalia)* | Entra [[Lucio]] |
 | DUCA | Chi c’è qui? |
-| [[Lucio|LUCIO]] | Buona sera.<br>Frate, dov’è il Prevosto? |
+| [[Lucio\|LUCIO]] | Buona sera.<br>Frate, dov’è il Prevosto? |
 | DUCA | Non è dentro, signore. |
-| *(didascalia)* | [[Lucio|LUCIO]] Oh graziosa [[Isabella]], mi si sbianca il cuore a vederti gli occhi così rossi. Devi aver pazienza. Io sono ridotto a pranzare e cenare con [[Water|acqua]] e crusca; non oso, sulla mia testa, riempirmi la pancia; un pasto sostanzioso mi ci rimetterebbe. Ma dicono che il Duca sarà qui domani. In fede mia, Isabel, amavo tuo fratello. Se il vecchio fantastico Duca dei cantucci bui fosse stato a [[Home|casa]], sarebbe vivo. Esce [[Isabella]] |
+| *(didascalia)* | [[Lucio\|LUCIO]] Oh graziosa [[Isabella]], mi si sbianca il cuore a vederti gli occhi così rossi. Devi aver pazienza. Io sono ridotto a pranzare e cenare con [[Water\|acqua]] e crusca; non oso, sulla mia testa, riempirmi la pancia; un pasto sostanzioso mi ci rimetterebbe. Ma dicono che il Duca sarà qui domani. In fede mia, Isabel, amavo tuo fratello. Se il vecchio fantastico Duca dei cantucci bui fosse stato a [[Home\|casa]], sarebbe vivo. Esce [[Isabella]] |
 | DUCA | Signore, il Duca è meravigliosamente poco obbligato ai vostri racconti; ma il bello è che non vive in essi. |
-| [[Lucio|LUCIO]] | Frate, tu non conosci il Duca così [[Well|bene]] come lo conosco io. È un cacciatore migliore di quanto tu lo prenda. |
-| DUCA | [[Well|Bene]], un giorno ne risponderete. State [[Well|bene]]. |
-| [[Lucio|LUCIO]] | No, fermati, verrò con te. Ti posso raccontare graziose storie del Duca. |
+| [[Lucio\|LUCIO]] | Frate, tu non conosci il Duca così [[Well\|bene]] come lo conosco io. È un cacciatore migliore di quanto tu lo prenda. |
+| DUCA | [[Well\|Bene]], un giorno ne risponderete. State [[Well\|bene]]. |
+| [[Lucio\|LUCIO]] | No, fermati, verrò con te. Ti posso raccontare graziose storie del Duca. |
 | DUCA | Me ne avete già raccontate troppe di lui, signore, se sono vere; se non vere, nessuna sarebbe abbastanza. |
-| [[Lucio|LUCIO]] | Una volta fui davanti a lui per aver reso una ragazza gravida d’un [[Child|figlio]]. |
+| [[Lucio\|LUCIO]] | Una volta fui davanti a lui per aver reso una ragazza gravida d’un [[Child\|figlio]]. |
 | DUCA | Faceste una cosa simile? |
-| [[Lucio|LUCIO]] | Sì, perbacco, la feci; ma fui costretto a spergiurarla. Altrimenti m’avrebbero sposato a quella nespola marcia. |
-| DUCA | Signore, la vostra compagnia è più bella che onesta. State [[Well|bene]]. |
-| [[Lucio|LUCIO]] | In fede mia, verrò con te fino in fondo al vicolo. Se i discorsi osceni t’offendono, ne faremo pochissimi. No, frate, io sono una specie di lappola; resterò attaccato. |
+| [[Lucio\|LUCIO]] | Sì, perbacco, la feci; ma fui costretto a spergiurarla. Altrimenti m’avrebbero sposato a quella nespola marcia. |
+| DUCA | Signore, la vostra compagnia è più bella che onesta. State [[Well\|bene]]. |
+| [[Lucio\|LUCIO]] | In fede mia, verrò con te fino in fondo al vicolo. Se i discorsi osceni t’offendono, ne faremo pochissimi. No, frate, io sono una specie di lappola; resterò attaccato. |
 | *(didascalia)* | Escono |
 
 
@@ -3083,17 +3083,17 @@ Measure for Measure
 
 | Chi parla | Battuta |
 |---|---|
-| *(didascalia)* | Entrano [[Angelo]] e [[Escalus|Escalo]] |
-| [[Escalus|ESCALO]] | Ogni lettera che ha scritto ha smentito l’altra. |
-| [[Angelo|ANGELO]] | In modo quanto mai disuguale e sconvolto. Le sue azioni somigliano assai alla [[Madness|follia]]. Voglia il cielo che la sua saggezza non sia guasta. E perché incontrarlo alle porte, e riconsegnare là le nostre autorità? |
-| [[Escalus|ESCALO]] | Non lo indovino. |
-| [[Angelo|ANGELO]] | E perché dovremmo proclamare, un’ora prima del suo ingresso, che se qualcuno chiede riparazione d’ingiustizia esibisca la sua petizione per strada? |
-| [[Escalus|ESCALO]] | Ne mostra la ragione: per avere uno sbrigo delle lagnanze, e per liberarci dagli intrighi futuri, che allora non avranno più forza di reggere contro di noi. |
-| [[Angelo|ANGELO]] | [[Well|Bene]], vi supplico, si faccia proclamare.<br>Di buon’ora al mattino vi chiamerò alla vostra [[house|casa]].<br>Date avviso a quegli uomini di rango e di seguito<br>che devono incontrarlo. |
-| [[Escalus|ESCALO]] | Lo farò, signore. State [[Well|bene]]. |
-| [[Angelo|ANGELO]] | Buona [[Night|notte]]. |
-| *(didascalia)* | Esce [[Escalus|Escalo]] |
-| [[Angelo|ANGELO]] | Quest’atto mi disfa del tutto, mi rende sterile<br>e ottuso a ogni faccenda. Una vergine deflorata,<br>e da un [[Body|corpo]] eminente che imponeva<br>la legge contro ciò! Se non fosse che il suo tenero pudore<br>non vorrà proclamare la sua perdita verginale,<br>come potrebbe accusarmi! Pure la ragione le dice di no,<br>ché la mia autorità porta una mole così accreditata<br>che nessuno scandalo particolare può toccarla<br>senza confondere chi lo spira. Egli doveva vivere,<br>se non che la sua giovinezza sfrenata, con senso pericoloso,<br>avrebbe potuto nei tempi a venire prendersi [[Revenge|vendetta]]<br>per aver così ricevuto una vita disonorata<br>col riscatto di tale vergogna. Vorrei pure che fosse vissuto.<br>Ahimè, quando una volta abbiamo dimenticato la nostra grazia,<br>nulla va per il diritto; vogliamo, e non vogliamo. Esce |
+| *(didascalia)* | Entrano [[Angelo]] e [[Escalus\|Escalo]] |
+| [[Escalus\|ESCALO]] | Ogni lettera che ha scritto ha smentito l’altra. |
+| [[Angelo\|ANGELO]] | In modo quanto mai disuguale e sconvolto. Le sue azioni somigliano assai alla [[Madness\|follia]]. Voglia il cielo che la sua saggezza non sia guasta. E perché incontrarlo alle porte, e riconsegnare là le nostre autorità? |
+| [[Escalus\|ESCALO]] | Non lo indovino. |
+| [[Angelo\|ANGELO]] | E perché dovremmo proclamare, un’ora prima del suo ingresso, che se qualcuno chiede riparazione d’ingiustizia esibisca la sua petizione per strada? |
+| [[Escalus\|ESCALO]] | Ne mostra la ragione: per avere uno sbrigo delle lagnanze, e per liberarci dagli intrighi futuri, che allora non avranno più forza di reggere contro di noi. |
+| [[Angelo\|ANGELO]] | [[Well\|Bene]], vi supplico, si faccia proclamare.<br>Di buon’ora al mattino vi chiamerò alla vostra [[house\|casa]].<br>Date avviso a quegli uomini di rango e di seguito<br>che devono incontrarlo. |
+| [[Escalus\|ESCALO]] | Lo farò, signore. State [[Well\|bene]]. |
+| [[Angelo\|ANGELO]] | Buona [[Night\|notte]]. |
+| *(didascalia)* | Esce [[Escalus\|Escalo]] |
+| [[Angelo\|ANGELO]] | Quest’atto mi disfa del tutto, mi rende sterile<br>e ottuso a ogni faccenda. Una vergine deflorata,<br>e da un [[Body\|corpo]] eminente che imponeva<br>la legge contro ciò! Se non fosse che il suo tenero pudore<br>non vorrà proclamare la sua perdita verginale,<br>come potrebbe accusarmi! Pure la ragione le dice di no,<br>ché la mia autorità porta una mole così accreditata<br>che nessuno scandalo particolare può toccarla<br>senza confondere chi lo spira. Egli doveva vivere,<br>se non che la sua giovinezza sfrenata, con senso pericoloso,<br>avrebbe potuto nei tempi a venire prendersi [[Revenge\|vendetta]]<br>per aver così ricevuto una vita disonorata<br>col riscatto di tale vergogna. Vorrei pure che fosse vissuto.<br>Ahimè, quando una volta abbiamo dimenticato la nostra grazia,<br>nulla va per il diritto; vogliamo, e non vogliamo. Esce |
 
 
 
@@ -3116,8 +3116,8 @@ Measure for Measure
 | Chi parla | Battuta |
 |---|---|
 | *(didascalia)* | Entrano il Duca, nel suo proprio abito, e frate Pietro |
-| DUCA | Queste lettere consegnatemele al [[Time|tempo]] opportuno.<br>Il Prevosto conosce il nostro proposito e il nostro disegno.<br>Essendo la cosa avviata, tenetevi alla vostra istruzione,<br>e attenetevi sempre alla nostra mira particolare,<br>benché talvolta scartiate da questo a quello<br>secondo che la causa lo richieda. Andate a chiamare alla [[house|casa]] di Flavio,<br>e ditegli dove mi trattengo. Date lo stesso avviso<br>a Valentino, a Rowland e a Crasso,<br>e ordinate loro di portare le trombe alla porta.<br>Ma mandatemi prima [[Flavius|Flavio]]. |
-| FRATE | Sarà spedito [[Well|bene]]. |
+| DUCA | Queste lettere consegnatemele al [[Time\|tempo]] opportuno.<br>Il Prevosto conosce il nostro proposito e il nostro disegno.<br>Essendo la cosa avviata, tenetevi alla vostra istruzione,<br>e attenetevi sempre alla nostra mira particolare,<br>benché talvolta scartiate da questo a quello<br>secondo che la causa lo richieda. Andate a chiamare alla [[house\|casa]] di Flavio,<br>e ditegli dove mi trattengo. Date lo stesso avviso<br>a Valentino, a Rowland e a Crasso,<br>e ordinate loro di portare le trombe alla porta.<br>Ma mandatemi prima [[Flavius\|Flavio]]. |
+| FRATE | Sarà spedito [[Well\|bene]]. |
 | *(didascalia)* | Esce |
 | *(didascalia)* | Entra Varrio |
 | DUCA | Ti ringrazio, Varrio; hai fatto buona fretta.<br>Vieni, andremo a passeggio. Ci sono altri dei nostri amici<br>che ci saluteranno qui fra poco. Mio gentile Varrio! |
@@ -3145,12 +3145,12 @@ Measure for Measure
 | Chi parla | Battuta |
 |---|---|
 | *(didascalia)* | Entrano [[Isabella]] e [[Mariana]] |
-| [[Isabella|ISABELLA]] | Parlare così obliquamente mi ripugna—<br>vorrei dire la [[Truth|verità]], ma accusarlo a quel modo,<br>quella è la vostra parte—pure mi si consiglia di farlo,<br>dice lui, per velare il pieno proposito. |
-| [[Mariana|MARIANA]] | Lasciatevi guidare da lui. |
-| [[Isabella|ISABELLA]] | Inoltre mi dice che se per avventura<br>egli parlerà contro di me dalla parte avversa,<br>non dovrò trovarlo strano, ché è una medicina<br>amara per dolce fine. |
+| [[Isabella\|ISABELLA]] | Parlare così obliquamente mi ripugna—<br>vorrei dire la [[Truth\|verità]], ma accusarlo a quel modo,<br>quella è la vostra parte—pure mi si consiglia di farlo,<br>dice lui, per velare il pieno proposito. |
+| [[Mariana\|MARIANA]] | Lasciatevi guidare da lui. |
+| [[Isabella\|ISABELLA]] | Inoltre mi dice che se per avventura<br>egli parlerà contro di me dalla parte avversa,<br>non dovrò trovarlo strano, ché è una medicina<br>amara per dolce fine. |
 | *(didascalia)* | Entra frate Pietro |
-| [[Mariana|MARIANA]] | Vorrei che frate Pietro— |
-| [[Isabella|ISABELLA]] | Oh, silenzio; il frate è venuto. |
+| [[Mariana\|MARIANA]] | Vorrei che frate Pietro— |
+| [[Isabella\|ISABELLA]] | Oh, silenzio; il frate è venuto. |
 | FRATE PIETRO | Venite, vi ho trovato un posto adattissimo,<br>dove potrete avere tale vantaggio sul Duca<br>ch’egli non vi sfuggirà. Due volte hanno suonato<br>le trombe.<br>I più ragguardevoli e gravi cittadini<br>han preso le porte, e proprio adesso<br>il Duca sta entrando; perciò via di qui, andiamo. Escono |
 
 
@@ -3425,182 +3425,182 @@ Measure for Measure
 
 | Chi parla | Battuta |
 |---|---|
-| *(didascalia)* | Entrano da una porta il Duca, Varrio e signori, da un’altra porta [[Angelo]], [[Escalus|Escalo]], [[Lucio]], cittadini e ufficiali |
-| DUCA | (a [[Angelo]])<br>Mio degnissimo cugino, ben trovato.<br>(A [[Escalus|Escalo]]) Nostro vecchio e fedele amico, siamo lieti di<br>vedervi. |
-| [[Angelo|ANGELO]] | e [[Escalus|ESCALO]]<br>Felice ritorno sia alla vostra grazia reale. |
-| DUCA | Molti e cordiali ringraziamenti a voi entrambi.<br>Abbiamo chiesto informazioni di voi, e udiamo<br>tale bontà della vostra giustizia che la nostra [[Soul|anima]]<br>non può che offrirvi ai pubblici ringraziamenti,<br>precorrendo maggiore ricompensa. |
-| [[Angelo|ANGELO]] | Rendete i miei obblighi ancor più grandi. |
-| DUCA | Oh, il vostro [[Desert|merito]] parla forte, e gli farei torto<br>a chiuderlo nelle celle d’un petto coperto,<br>quando merita, con caratteri di bronzo,<br>una residenza fortificata contro il dente del [[Time|tempo]]<br>e la rasura dell’oblio. Datemi la vostra mano,<br>e che i sudditi vedano, per far loro sapere<br>che le cortesie esteriori vorrebbero proclamare<br>i favori che stanno dentro. Venite, [[Escalus|Escalo]],<br>dovete camminare accanto a noi dall’altra mano,<br>e buoni sostegni siete. |
+| *(didascalia)* | Entrano da una porta il Duca, Varrio e signori, da un’altra porta [[Angelo]], [[Escalus\|Escalo]], [[Lucio]], cittadini e ufficiali |
+| DUCA | (a [[Angelo]])<br>Mio degnissimo cugino, ben trovato.<br>(A [[Escalus\|Escalo]]) Nostro vecchio e fedele amico, siamo lieti di<br>vedervi. |
+| [[Angelo\|ANGELO]] | e [[Escalus\|ESCALO]]<br>Felice ritorno sia alla vostra grazia reale. |
+| DUCA | Molti e cordiali ringraziamenti a voi entrambi.<br>Abbiamo chiesto informazioni di voi, e udiamo<br>tale bontà della vostra giustizia che la nostra [[Soul\|anima]]<br>non può che offrirvi ai pubblici ringraziamenti,<br>precorrendo maggiore ricompensa. |
+| [[Angelo\|ANGELO]] | Rendete i miei obblighi ancor più grandi. |
+| DUCA | Oh, il vostro [[Desert\|merito]] parla forte, e gli farei torto<br>a chiuderlo nelle celle d’un petto coperto,<br>quando merita, con caratteri di bronzo,<br>una residenza fortificata contro il dente del [[Time\|tempo]]<br>e la rasura dell’oblio. Datemi la vostra mano,<br>e che i sudditi vedano, per far loro sapere<br>che le cortesie esteriori vorrebbero proclamare<br>i favori che stanno dentro. Venite, [[Escalus\|Escalo]],<br>dovete camminare accanto a noi dall’altra mano,<br>e buoni sostegni siete. |
 | *(didascalia)* |  Camminano innanzi. |
 | *(didascalia)* | Entrano frate Pietro e [[Isabella]] |
-| FRATE PIETRO | Ora è il vostro [[Time|momento]]. Parlate forte, e inginocchiatevi davanti a lui. |
-| [[Isabella|ISABELLA]] | (inginocchiandosi)<br>Giustizia, o regale Duca! Abbassate il vostro sguardo<br>su un’offesa—avrei voluto dire, una vergine.<br>O degno principe, non disonorate il vostro occhio<br>gettandolo su altro oggetto,<br>finché non m’abbiate udita nella mia vera querela,<br>e datomi giustizia, giustizia, giustizia, giustizia! |
+| FRATE PIETRO | Ora è il vostro [[Time\|momento]]. Parlate forte, e inginocchiatevi davanti a lui. |
+| [[Isabella\|ISABELLA]] | (inginocchiandosi)<br>Giustizia, o regale Duca! Abbassate il vostro sguardo<br>su un’offesa—avrei voluto dire, una vergine.<br>O degno principe, non disonorate il vostro occhio<br>gettandolo su altro oggetto,<br>finché non m’abbiate udita nella mia vera querela,<br>e datomi giustizia, giustizia, giustizia, giustizia! |
 | DUCA | Esponete i vostri torti. In che? Da chi? Siate breve.<br>Ecco il signor [[Angelo]] che vi darà giustizia.<br>Rivelatevi a lui. |
-| [[Isabella|ISABELLA]] | O degno Duca,<br>mi dite di cercare redenzione dal diavolo.<br>Uditemi voi stesso, ché ciò che devo dire<br>o deve punirmi, non essendo creduta,<br>o strapparvi riparazione. Uditemi, oh uditemi, udite! |
-| [[Angelo|ANGELO]] | Mio signore, il suo senno, [[Fear|temo]], non è saldo.<br>È stata supplice presso di me per suo fratello,<br>reciso per corso di giustizia. |
-| *(didascalia)* | [[Isabella|ISABELLA]] alzandosi |
-| [[Angelo|ANGELO]] | Per corso di giustizia! |
-| [[Angelo|ANGELO]] | E parlerà in modo amarissimo e strano. |
-| [[Isabella|ISABELLA]] | Stranissimo, ma pure verissimo, sarà il mio parlare.<br>Che [[Angelo]] sia spergiuro, non è strano?<br>Che [[Angelo]] sia un assassino, non è strano?<br>Che [[Angelo]] sia un ladro adultero,<br>un ipocrita, un violatore di vergini,<br>non è strano, e strano? |
+| [[Isabella\|ISABELLA]] | O degno Duca,<br>mi dite di cercare redenzione dal diavolo.<br>Uditemi voi stesso, ché ciò che devo dire<br>o deve punirmi, non essendo creduta,<br>o strapparvi riparazione. Uditemi, oh uditemi, udite! |
+| [[Angelo\|ANGELO]] | Mio signore, il suo senno, [[Fear\|temo]], non è saldo.<br>È stata supplice presso di me per suo fratello,<br>reciso per corso di giustizia. |
+| *(didascalia)* | [[Isabella\|ISABELLA]] alzandosi |
+| [[Angelo\|ANGELO]] | Per corso di giustizia! |
+| [[Angelo\|ANGELO]] | E parlerà in modo amarissimo e strano. |
+| [[Isabella\|ISABELLA]] | Stranissimo, ma pure verissimo, sarà il mio parlare.<br>Che [[Angelo]] sia spergiuro, non è strano?<br>Che [[Angelo]] sia un assassino, non è strano?<br>Che [[Angelo]] sia un ladro adultero,<br>un ipocrita, un violatore di vergini,<br>non è strano, e strano? |
 | DUCA | No, è dieci volte strano! |
-| [[Isabella|ISABELLA]] | Non è più vero ch’egli sia [[Angelo]]<br>di quanto tutto questo sia vero quanto è strano.<br>Anzi, è dieci volte vero, ché la [[Truth|verità]] è [[Truth|verità]]<br>fino alla fine del computo. |
-| DUCA | Portatela via. Povera [[Soul|anima]],<br>parla così nell’infermità del senno. |
-| [[Isabella|ISABELLA]] | O principe, ti scongiuro, per quanto credi<br>che ci sia altro conforto oltre questo mondo,<br>di non trascurarmi con quell’opinione<br>ch’io sia toccata da [[Madness|follia]]. Non fate<br>impossibile<br>ciò che solo sembra inverosimile. Non è impossibile<br>che uno, il più scellerato miserabile della terra,<br>possa sembrare schivo, [[Grave|grave]], giusto, assoluto<br>come [[Angelo]]; e così può [[Angelo]],<br>in tutti i suoi paludamenti, insegne, titoli, forme,<br>essere un arci-[[Villain|scellerato]]. Credetelo, regale principe,<br>se è meno di questo, non è nulla; ma è di più,<br>avessi io più nomi per la malvagità. |
-| DUCA | Per la mia onestà,<br>se è pazza, come non credo altro,<br>la sua [[Madness|follia]] ha la più strana armatura di senno,<br>tale dipendenza di cosa da cosa<br>quale mai udii in [[Madness|follia]]. |
-| [[Isabella|ISABELLA]] | O grazioso Duca,<br>non insistete su questo, né bandite la ragione<br>per una disuguaglianza; ma la vostra ragione serva<br>a far apparire la [[Truth|verità]] dove pare nascosta,<br>e a nascondere il falso che pare vero. |
+| [[Isabella\|ISABELLA]] | Non è più vero ch’egli sia [[Angelo]]<br>di quanto tutto questo sia vero quanto è strano.<br>Anzi, è dieci volte vero, ché la [[Truth\|verità]] è [[Truth\|verità]]<br>fino alla fine del computo. |
+| DUCA | Portatela via. Povera [[Soul\|anima]],<br>parla così nell’infermità del senno. |
+| [[Isabella\|ISABELLA]] | O principe, ti scongiuro, per quanto credi<br>che ci sia altro conforto oltre questo mondo,<br>di non trascurarmi con quell’opinione<br>ch’io sia toccata da [[Madness\|follia]]. Non fate<br>impossibile<br>ciò che solo sembra inverosimile. Non è impossibile<br>che uno, il più scellerato miserabile della terra,<br>possa sembrare schivo, [[Grave\|grave]], giusto, assoluto<br>come [[Angelo]]; e così può [[Angelo]],<br>in tutti i suoi paludamenti, insegne, titoli, forme,<br>essere un arci-[[Villain\|scellerato]]. Credetelo, regale principe,<br>se è meno di questo, non è nulla; ma è di più,<br>avessi io più nomi per la malvagità. |
+| DUCA | Per la mia onestà,<br>se è pazza, come non credo altro,<br>la sua [[Madness\|follia]] ha la più strana armatura di senno,<br>tale dipendenza di cosa da cosa<br>quale mai udii in [[Madness\|follia]]. |
+| [[Isabella\|ISABELLA]] | O grazioso Duca,<br>non insistete su questo, né bandite la ragione<br>per una disuguaglianza; ma la vostra ragione serva<br>a far apparire la [[Truth\|verità]] dove pare nascosta,<br>e a nascondere il falso che pare vero. |
 | DUCA | Molti che non son pazzi<br>hanno certo più mancanza di ragione. Che vorreste dire? |
-| [[Isabella|ISABELLA]] | Sono la sorella d’un certo [[Claudio]],<br>condannato per l’atto di fornicazione<br>a perdere la testa, condannato da [[Angelo]].<br>Io, in noviziato d’una sorellanza,<br>fui mandata a chiamare da mio fratello, essendo un certo [[Lucio]]<br>allora il messaggero. |
-| [[Lucio|LUCIO]] | Quello son io, se piace a vostra grazia.<br>Venni da lei da parte di [[Claudio]], e la pregai<br>di tentare la sua graziosa fortuna col signor [[Angelo]]<br>per il perdono del povero fratello. |
-| [[Isabella|ISABELLA]] | È lui davvero. |
+| [[Isabella\|ISABELLA]] | Sono la sorella d’un certo [[Claudio]],<br>condannato per l’atto di fornicazione<br>a perdere la testa, condannato da [[Angelo]].<br>Io, in noviziato d’una sorellanza,<br>fui mandata a chiamare da mio fratello, essendo un certo [[Lucio]]<br>allora il messaggero. |
+| [[Lucio\|LUCIO]] | Quello son io, se piace a vostra grazia.<br>Venni da lei da parte di [[Claudio]], e la pregai<br>di tentare la sua graziosa fortuna col signor [[Angelo]]<br>per il perdono del povero fratello. |
+| [[Isabella\|ISABELLA]] | È lui davvero. |
 | DUCA | (a [[Lucio]])<br>Non vi fu detto di parlare. |
-| [[Lucio|LUCIO]] | No, mio buon signore,<br>né mi fu chiesto di tacere. |
+| [[Lucio\|LUCIO]] | No, mio buon signore,<br>né mi fu chiesto di tacere. |
 | DUCA | Ve lo chiedo ora, allora. Vi prego, prendetene nota;<br>e quando avrete una faccenda per voi stesso,<br>voglia il cielo che allora siate perfetto. |
-| [[Lucio|LUCIO]] | Ve ne rispondo, vostro [[Honour|onore]]. |
+| [[Lucio\|LUCIO]] | Ve ne rispondo, vostro [[Honour\|onore]]. |
 | DUCA | La risposta è per voi stesso; badateci. |
-| [[Isabella|ISABELLA]] | Questo gentiluomo ha raccontato qualcosa della mia storia— |
-| [[Lucio|LUCIO]] | Giusto. |
-| DUCA | Può essere giusto, ma voi siete in torto<br>a parlare prima del vostro [[Time|turno]]. (A [[Isabella]]) Proseguite. |
-| [[Isabella|ISABELLA]] | Andai<br>da questo pernicioso miserabile vicario— |
+| [[Isabella\|ISABELLA]] | Questo gentiluomo ha raccontato qualcosa della mia storia— |
+| [[Lucio\|LUCIO]] | Giusto. |
+| DUCA | Può essere giusto, ma voi siete in torto<br>a parlare prima del vostro [[Time\|turno]]. (A [[Isabella]]) Proseguite. |
+| [[Isabella\|ISABELLA]] | Andai<br>da questo pernicioso miserabile vicario— |
 | DUCA | Questo è parlare un po’ pazzamente. |
-| [[Isabella|ISABELLA]] | Perdonatelo;<br>la frase è conforme alla materia. |
+| [[Isabella\|ISABELLA]] | Perdonatelo;<br>la frase è conforme alla materia. |
 | DUCA | Corretto di nuovo.<br>La materia; proseguite. |
-| [[Isabella|ISABELLA]] | In breve, mettendo da parte il processo superfluo,<br>come persuasi, come pregai e m’inginocchiai,<br>come mi respinse, e come replicai—<br>ché questo fu assai lungo—la vile conclusione<br>comincio ora con dolore e vergogna a pronunciare.<br>Non voleva, se non col dono del mio casto [[Body|corpo]]<br>alla sua concupiscente intemperante libidine,<br>liberare mio fratello; e dopo molto dibattere,<br>il mio rimorso di sorella confuta il mio [[Honour|onore]],<br>e a lui cedetti. Ma l’indomani di buon’ora,<br>sazio il suo proposito, manda un mandato<br>per la testa del mio povero fratello. |
+| [[Isabella\|ISABELLA]] | In breve, mettendo da parte il processo superfluo,<br>come persuasi, come pregai e m’inginocchiai,<br>come mi respinse, e come replicai—<br>ché questo fu assai lungo—la vile conclusione<br>comincio ora con dolore e vergogna a pronunciare.<br>Non voleva, se non col dono del mio casto [[Body\|corpo]]<br>alla sua concupiscente intemperante libidine,<br>liberare mio fratello; e dopo molto dibattere,<br>il mio rimorso di sorella confuta il mio [[Honour\|onore]],<br>e a lui cedetti. Ma l’indomani di buon’ora,<br>sazio il suo proposito, manda un mandato<br>per la testa del mio povero fratello. |
 | DUCA | Questo è verosimilissimo! |
-| [[Isabella|ISABELLA]] | Oh, fosse verosimile quanto è vero! |
-| DUCA | Per il cielo, sciocca infelice, non sai ciò che<br>dici,<br>o sei subornata contro il suo [[Honour|onore]]<br>in odiosa macchinazione. Primo, la sua integrità<br>sta senza macchia. Poi, non ha ragione alcuna<br>ch’egli con tanta veemenza perseguiti<br>colpe proprie di lui stesso. Se avesse così offeso,<br>avrebbe pesato tuo fratello su se stesso,<br>e non l’avrebbe reciso. Qualcuno t’ha istigata.<br>Confessa la [[Truth|verità]], e di’ per consiglio di chi<br>sei venuta qui a lagnarti. |
-| [[Isabella|ISABELLA]] | E questo è tutto?<br>Allora, o voi benedetti ministri lassù,<br>tenetemi in pazienza, e col [[Time|tempo]] maturo<br>svelate il male che qui sta ravvolto<br>in un bel sembiante! Il cielo scudi la vostra grazia dal dolore,<br>mentre io, così offesa, me ne vado di qui non creduta. |
-| DUCA | So che vorreste andarvene. Un ufficiale!<br>In [[Prison|prigione]] con lei.<br>Un ufficiale fa la guardia a [[Isabella]]<br>Permetteremo noi così<br>che un fiato pestifero e scandaloso cada<br>su uno tanto a noi vicino? Questa dev’essere una macchinazione.<br>Chi sapeva del vostro intento e del vostro venire qui? |
-| [[Isabella|ISABELLA]] | Uno che vorrei fosse qui, frate Lodovico. |
+| [[Isabella\|ISABELLA]] | Oh, fosse verosimile quanto è vero! |
+| DUCA | Per il cielo, sciocca infelice, non sai ciò che<br>dici,<br>o sei subornata contro il suo [[Honour\|onore]]<br>in odiosa macchinazione. Primo, la sua integrità<br>sta senza macchia. Poi, non ha ragione alcuna<br>ch’egli con tanta veemenza perseguiti<br>colpe proprie di lui stesso. Se avesse così offeso,<br>avrebbe pesato tuo fratello su se stesso,<br>e non l’avrebbe reciso. Qualcuno t’ha istigata.<br>Confessa la [[Truth\|verità]], e di’ per consiglio di chi<br>sei venuta qui a lagnarti. |
+| [[Isabella\|ISABELLA]] | E questo è tutto?<br>Allora, o voi benedetti ministri lassù,<br>tenetemi in pazienza, e col [[Time\|tempo]] maturo<br>svelate il male che qui sta ravvolto<br>in un bel sembiante! Il cielo scudi la vostra grazia dal dolore,<br>mentre io, così offesa, me ne vado di qui non creduta. |
+| DUCA | So che vorreste andarvene. Un ufficiale!<br>In [[Prison\|prigione]] con lei.<br>Un ufficiale fa la guardia a [[Isabella]]<br>Permetteremo noi così<br>che un fiato pestifero e scandaloso cada<br>su uno tanto a noi vicino? Questa dev’essere una macchinazione.<br>Chi sapeva del vostro intento e del vostro venire qui? |
+| [[Isabella\|ISABELLA]] | Uno che vorrei fosse qui, frate Lodovico. |
 | *(didascalia)* | Esce, sotto scorta |
 | DUCA | Un padre spirituale, si direbbe. Chi conosce quel Lodovico? |
-| [[Lucio|LUCIO]] | Mio signore, io lo conosco. È un frate impiccione;<br>non mi piace quell’uomo. Fosse stato laico, mio signore,<br>per certe parole che disse contro vostra grazia<br>durante il vostro ritiro, l’avrei bastonato di santa ragione. |
+| [[Lucio\|LUCIO]] | Mio signore, io lo conosco. È un frate impiccione;<br>non mi piace quell’uomo. Fosse stato laico, mio signore,<br>per certe parole che disse contro vostra grazia<br>durante il vostro ritiro, l’avrei bastonato di santa ragione. |
 | DUCA | Parole contro di me? Un bel frate, si direbbe!<br>E istigare qui questa misera donna<br>contro il nostro sostituto! Si trovi questo frate. |
 | *(didascalia)* | Esce uno o più |
-| [[Lucio|LUCIO]] | Non più tardi di ieri sera, mio signore, lei e quel frate,<br>li vidi alla [[Prison|prigione]]. Un frate impertinente,<br>un tipo proprio scurrile. |
+| [[Lucio\|LUCIO]] | Non più tardi di ieri sera, mio signore, lei e quel frate,<br>li vidi alla [[Prison\|prigione]]. Un frate impertinente,<br>un tipo proprio scurrile. |
 | FRATE PIETRO | Benedetta sia la vostra regale grazia!<br>Sono stato in disparte, mio signore, e ho udito<br>abusare del vostro regale orecchio. Primo, questa donna<br>ha accusato molto ingiustamente il vostro sostituto,<br>che è tanto libero da contatto o macchia con lei<br>quanto lei da uno non generato. |
 | DUCA | Non credevamo di meno.<br>Conoscete quel frate Lodovico di cui parla? |
 | FRATE PIETRO | Lo conosco per uomo divino e santo,<br>non scurrile, né impiccione mondano,<br>come lo riferisce questo gentiluomo;<br>e, sulla mia fede, uomo che mai finora<br>ha, come egli afferma, sparlato di vostra grazia. |
-| [[Lucio|LUCIO]] | Mio signore, in modo scelleratissimo; credetelo. |
-| FRATE PIETRO | [[Well|Bene]], egli col [[Time|tempo]] potrà venire a discolparsi;<br>ma in questo momento è malato, mio signore,<br>d’una strana febbre. Per sua sola richiesta,<br>essendo venuto a sapere che c’era una querela<br>intentata contro il signor [[Angelo]], son venuto qui<br>a dire, come dalla sua bocca, ciò ch’egli sa<br>esser vero e falso, e ciò che col suo giuramento<br>e ogni prova renderà pienamente chiaro<br>quando sarà convocato. Primo, quanto a questa donna:<br>per giustificare questo degno nobiluomo,<br>così volgarmente e personalmente accusato,<br>la udrete smentita davanti ai suoi occhi,<br>finché ella stessa lo confessi. |
+| [[Lucio\|LUCIO]] | Mio signore, in modo scelleratissimo; credetelo. |
+| FRATE PIETRO | [[Well\|Bene]], egli col [[Time\|tempo]] potrà venire a discolparsi;<br>ma in questo momento è malato, mio signore,<br>d’una strana febbre. Per sua sola richiesta,<br>essendo venuto a sapere che c’era una querela<br>intentata contro il signor [[Angelo]], son venuto qui<br>a dire, come dalla sua bocca, ciò ch’egli sa<br>esser vero e falso, e ciò che col suo giuramento<br>e ogni prova renderà pienamente chiaro<br>quando sarà convocato. Primo, quanto a questa donna:<br>per giustificare questo degno nobiluomo,<br>così volgarmente e personalmente accusato,<br>la udrete smentita davanti ai suoi occhi,<br>finché ella stessa lo confessi. |
 | DUCA | Buon frate, sentiamo. |
 | *(didascalia)* | Esce frate Pietro |
-| DUCA | Non ne sorridete, signor [[Angelo]]?<br>O cielo, la [[Vanity|vanità]] dei miseri sciocchi!<br>Dateci dei seggi. |
+| DUCA | Non ne sorridete, signor [[Angelo]]?<br>O cielo, la [[Vanity\|vanità]] dei miseri sciocchi!<br>Dateci dei seggi. |
 | *(didascalia)* | Vengono portati dei seggi |
 | DUCA | Venite, cugino [[Angelo]],<br>in questo sarò imparziale; siate voi giudice<br>della vostra propria causa.<br>Il Duca e [[Angelo]] siedono. |
 | *(didascalia)* | Entrano frate Pietro e [[Mariana]], velata |
 | DUCA | È questa la testimone, frate?<br>Prima mostri il volto, e dopo parli. |
-| [[Mariana|MARIANA]] | Perdono, mio signore, non mostrerò il mio volto<br>finché mio marito me lo comandi. |
+| [[Mariana\|MARIANA]] | Perdono, mio signore, non mostrerò il mio volto<br>finché mio marito me lo comandi. |
 | DUCA | Come, siete maritata? |
-| [[Mariana|MARIANA]] | No, mio signore. |
+| [[Mariana\|MARIANA]] | No, mio signore. |
 | DUCA | Siete vergine? |
-| [[Mariana|MARIANA]] | No, mio signore. |
+| [[Mariana\|MARIANA]] | No, mio signore. |
 | DUCA | Vedova, allora? |
-| [[Mariana|MARIANA]] | Nemmeno, mio signore. |
+| [[Mariana\|MARIANA]] | Nemmeno, mio signore. |
 | DUCA | Ma allora non siete nulla: né vergine, né vedova, né moglie! |
-| [[Lucio|LUCIO]] | Mio signore, potrebbe essere una bagascia, ché molte di loro non sono né vergini, né vedove, né mogli. |
-| DUCA | [[Silence|Zittite]] quel tale. Vorrei che avesse qualche motivo di ciarlare per sé. |
-| [[Lucio|LUCIO]] | [[Well|Bene]], mio signore. |
-| [[Mariana|MARIANA]] | Mio signore, confesso che non fui mai maritata,<br>e confesso inoltre che non son vergine.<br>Ho conosciuto mio marito, eppure mio marito<br>non sa d’avermi mai conosciuta. |
-| [[Lucio|LUCIO]] | Era ubriaco, allora, mio signore, non può essere altrimenti. |
-| DUCA | Per il beneficio del [[Silence|silenzio]], vorrei che lo fossi anche tu. |
-| [[Lucio|LUCIO]] | [[Well|Bene]], mio signore. |
+| [[Lucio\|LUCIO]] | Mio signore, potrebbe essere una bagascia, ché molte di loro non sono né vergini, né vedove, né mogli. |
+| DUCA | [[Silence\|Zittite]] quel tale. Vorrei che avesse qualche motivo di ciarlare per sé. |
+| [[Lucio\|LUCIO]] | [[Well\|Bene]], mio signore. |
+| [[Mariana\|MARIANA]] | Mio signore, confesso che non fui mai maritata,<br>e confesso inoltre che non son vergine.<br>Ho conosciuto mio marito, eppure mio marito<br>non sa d’avermi mai conosciuta. |
+| [[Lucio\|LUCIO]] | Era ubriaco, allora, mio signore, non può essere altrimenti. |
+| DUCA | Per il beneficio del [[Silence\|silenzio]], vorrei che lo fossi anche tu. |
+| [[Lucio\|LUCIO]] | [[Well\|Bene]], mio signore. |
 | DUCA | Questa non è testimone per il signor [[Angelo]]. |
-| [[Mariana|MARIANA]] | Ora ci arrivo, mio signore.<br>Colei che l’accusa di fornicazione<br>nel [[Self|medesimo]] modo accusa mio marito,<br>e gli imputa, mio signore, un [[Time|momento]] tale<br>nel quale deporrò che l’avevo fra le braccia<br>con tutto l’effetto d’[[Love|amore]]. |
-| [[Angelo|ANGELO]] | Accusa altri oltre me? |
-| [[Mariana|MARIANA]] | Non ch’io sappia. |
+| [[Mariana\|MARIANA]] | Ora ci arrivo, mio signore.<br>Colei che l’accusa di fornicazione<br>nel [[Self\|medesimo]] modo accusa mio marito,<br>e gli imputa, mio signore, un [[Time\|momento]] tale<br>nel quale deporrò che l’avevo fra le braccia<br>con tutto l’effetto d’[[Love\|amore]]. |
+| [[Angelo\|ANGELO]] | Accusa altri oltre me? |
+| [[Mariana\|MARIANA]] | Non ch’io sappia. |
 | DUCA | No? Dite vostro marito. |
-| [[Mariana|MARIANA]] | Ma appunto, mio signore, e quello è [[Angelo]],<br>che crede di sapere che non conobbe mai il mio [[Body|corpo]],<br>ma sa, crede lui, di conoscere quello d’Isabel. |
-| [[Angelo|ANGELO]] | Questo è uno strano inganno. Vediamo il tuo volto. |
-| [[Mariana|MARIANA]] | (togliendosi il velo)<br>Mio marito me lo comanda; ora mi smaschero.<br>Questo è quel volto, crudele [[Angelo]],<br>che una volta giurasti degno d’essere guardato.<br>Questa è la mano che, con un contratto giurato,<br>fu stretta forte nella tua. Questo è il [[Body|corpo]]<br>che tolse a Isabel l’incontro,<br>e ti supplì nella tua [[house|casa]] del [[Garden|giardino]]<br>nella persona di lei immaginata. |
+| [[Mariana\|MARIANA]] | Ma appunto, mio signore, e quello è [[Angelo]],<br>che crede di sapere che non conobbe mai il mio [[Body\|corpo]],<br>ma sa, crede lui, di conoscere quello d’Isabel. |
+| [[Angelo\|ANGELO]] | Questo è uno strano inganno. Vediamo il tuo volto. |
+| [[Mariana\|MARIANA]] | (togliendosi il velo)<br>Mio marito me lo comanda; ora mi smaschero.<br>Questo è quel volto, crudele [[Angelo]],<br>che una volta giurasti degno d’essere guardato.<br>Questa è la mano che, con un contratto giurato,<br>fu stretta forte nella tua. Questo è il [[Body\|corpo]]<br>che tolse a Isabel l’incontro,<br>e ti supplì nella tua [[house\|casa]] del [[Garden\|giardino]]<br>nella persona di lei immaginata. |
 | DUCA | (a [[Angelo]]) Conoscete questa donna? |
-| [[Lucio|LUCIO]] | Carnalmente, dice lei. |
+| [[Lucio\|LUCIO]] | Carnalmente, dice lei. |
 | DUCA | Messere, basta! |
-| [[Lucio|LUCIO]] | Basta, mio signore. |
-| [[Angelo|ANGELO]] | Mio signore, devo confessare che conosco questa donna;<br>e cinque anni fa ci fu qualche discorso di<br>[[Marriage|matrimonio]]<br>fra me e lei, che fu rotto,<br>in parte perché le sue promesse proporzioni<br>vennero meno all’accordo, ma soprattutto<br>perché la sua reputazione era svalutata<br>per leggerezza; da quel [[Time|tempo]] di cinque anni<br>non le ho mai parlato, né l’ho vista, né ho avuto sue nuove,<br>sulla mia [[Faith|fede]] e sul mio [[Honour|onore]]. |
-| *(didascalia)* | [[Mariana|MARIANA]] inginocchiandosi davanti al Duca Nobile principe, |
-| [[Angelo|ANGELO]] | Come viene luce dal cielo, e parole dal<br>fiato,<br>come c’è senso nella [[Truth|verità]], e [[Truth|verità]] nella virtù,<br>io sono per fidanzamento moglie di quest’uomo, tanto saldamente<br>quanto le parole possano fare i voti. E, mio buon signore,<br>non più tardi di martedì [[Night|notte]] scorso, nella sua [[house|casa]] del [[Garden|giardino]],<br>egli mi conobbe come moglie. Se questo è vero,<br>lasciate ch’io mi rialzi salva dalle ginocchia,<br>o altrimenti sia per sempre qui confitta,<br>monumento di marmo. |
-| [[Angelo|ANGELO]] | Fin qui non ho fatto che sorridere.<br>Ora, mio buon signore, datemi il campo della giustizia.<br>La mia pazienza qui è toccata. Ben m’accorgo<br>che queste povere donne senza forma non sono<br>che strumenti di qualche membro più potente<br>che le istiga. Datemi via libera, mio signore,<br>per scoprire questa macchinazione. |
-| DUCA | (alzandosi)<br>Sì, con tutto il cuore,<br>e punitele fino al colmo del vostro piacere.—<br>Tu, sciocco frate, e tu, perniciosa donna<br>d’accordo con quella che se n’è andata, credi tu che i tuoi giuramenti,<br>foss’anche a scongiurare ogni singolo santo,<br>fossero testimonianze contro il suo valore e il suo credito<br>che è sigillato nell’approvazione? Voi, signor [[Escalus|Escalo]],<br>sedete con mio cugino; prestategli la vostra benevola fatica<br>per scoprire donde derivi quest’abuso.<br>C’è un altro frate che le ha istigate.<br>Sia mandato a chiamare.<br>[[Escalus|Escalo]] siede |
+| [[Lucio\|LUCIO]] | Basta, mio signore. |
+| [[Angelo\|ANGELO]] | Mio signore, devo confessare che conosco questa donna;<br>e cinque anni fa ci fu qualche discorso di<br>[[Marriage\|matrimonio]]<br>fra me e lei, che fu rotto,<br>in parte perché le sue promesse proporzioni<br>vennero meno all’accordo, ma soprattutto<br>perché la sua reputazione era svalutata<br>per leggerezza; da quel [[Time\|tempo]] di cinque anni<br>non le ho mai parlato, né l’ho vista, né ho avuto sue nuove,<br>sulla mia [[Faith\|fede]] e sul mio [[Honour\|onore]]. |
+| *(didascalia)* | [[Mariana\|MARIANA]] inginocchiandosi davanti al Duca Nobile principe, |
+| [[Angelo\|ANGELO]] | Come viene luce dal cielo, e parole dal<br>fiato,<br>come c’è senso nella [[Truth\|verità]], e [[Truth\|verità]] nella virtù,<br>io sono per fidanzamento moglie di quest’uomo, tanto saldamente<br>quanto le parole possano fare i voti. E, mio buon signore,<br>non più tardi di martedì [[Night\|notte]] scorso, nella sua [[house\|casa]] del [[Garden\|giardino]],<br>egli mi conobbe come moglie. Se questo è vero,<br>lasciate ch’io mi rialzi salva dalle ginocchia,<br>o altrimenti sia per sempre qui confitta,<br>monumento di marmo. |
+| [[Angelo\|ANGELO]] | Fin qui non ho fatto che sorridere.<br>Ora, mio buon signore, datemi il campo della giustizia.<br>La mia pazienza qui è toccata. Ben m’accorgo<br>che queste povere donne senza forma non sono<br>che strumenti di qualche membro più potente<br>che le istiga. Datemi via libera, mio signore,<br>per scoprire questa macchinazione. |
+| DUCA | (alzandosi)<br>Sì, con tutto il cuore,<br>e punitele fino al colmo del vostro piacere.—<br>Tu, sciocco frate, e tu, perniciosa donna<br>d’accordo con quella che se n’è andata, credi tu che i tuoi giuramenti,<br>foss’anche a scongiurare ogni singolo santo,<br>fossero testimonianze contro il suo valore e il suo credito<br>che è sigillato nell’approvazione? Voi, signor [[Escalus\|Escalo]],<br>sedete con mio cugino; prestategli la vostra benevola fatica<br>per scoprire donde derivi quest’abuso.<br>C’è un altro frate che le ha istigate.<br>Sia mandato a chiamare.<br>[[Escalus\|Escalo]] siede |
 | FRATE PIETRO | Vorrei che fosse qui, mio signore, ché egli davvero<br>ha istigato le donne a questa querela.<br>Il vostro Prevosto conosce il luogo dove dimora,<br>e può andarlo a prendere. |
 | DUCA | (a uno o più)<br>Andate, fatelo all’istante. |
 | *(didascalia)* | Esce uno o più |
-| DUCA | (A [[Angelo]]) E voi, mio nobile e [[Well|ben]] garantito<br>cugino,<br>a cui tocca udire questa materia fino in fondo,<br>fate delle vostre offese come vi par meglio<br>in qualunque castigo. Io per un poco vi lascerò,<br>ma non muovetevi finché non abbiate [[Well|ben]] deciso<br>su questi calunniatori. |
-| [[Escalus|ESCALO]] | Mio signore, lo faremo a fondo. |
+| DUCA | (A [[Angelo]]) E voi, mio nobile e [[Well\|ben]] garantito<br>cugino,<br>a cui tocca udire questa materia fino in fondo,<br>fate delle vostre offese come vi par meglio<br>in qualunque castigo. Io per un poco vi lascerò,<br>ma non muovetevi finché non abbiate [[Well\|ben]] deciso<br>su questi calunniatori. |
+| [[Escalus\|ESCALO]] | Mio signore, lo faremo a fondo. |
 | *(didascalia)* | Esce il Duca |
-| [[Escalus|ESCALO]] | Signor [[Lucio]], non diceste voi di sapere che quel frate<br>Lodovico era persona disonesta? |
-| [[Lucio|LUCIO]] | Cucullus non facit monachum: onesto in nulla se non nei suoi panni; e uno che ha tenuto discorsi scelleratissimi sul Duca. |
-| [[Escalus|ESCALO]] | Vi pregheremo di restare qui finché venga, e di sostenerli contro di lui. Troveremo che questo frate è un bel tipo. |
-| [[Lucio|LUCIO]] | Come nessun altro a Vienna, sulla mia parola. |
-| [[Escalus|ESCALO]] | Chiamate di nuovo qui quella stessa Isabel; vorrei parlare con lei. Esce uno o più (A [[Angelo]]) Di grazia, mio signore, permettetemi d’interrogarla. Vedrete come la maneggerò. |
-| [[Lucio|LUCIO]] | Non meglio di lui, a suo stesso dire. |
-| [[Escalus|ESCALO]] | Che dite? |
-| [[Lucio|LUCIO]] | Perbacco, signore, credo che se la maneggiaste in privato, confesserebbe più presto; in pubblico forse si vergognerà. |
-| [[Escalus|ESCALO]] | Lavorerò con lei al buio. |
-| [[Lucio|LUCIO]] | Questa è la via, ché le donne son leggere a mezzanotte. Entra [[Isabella]], sotto scorta |
-| [[Escalus|ESCALO]] | (a [[Isabella]]) Avanti, madonna, ecco una gentildonna che nega tutto ciò che avete detto. |
+| [[Escalus\|ESCALO]] | Signor [[Lucio]], non diceste voi di sapere che quel frate<br>Lodovico era persona disonesta? |
+| [[Lucio\|LUCIO]] | Cucullus non facit monachum: onesto in nulla se non nei suoi panni; e uno che ha tenuto discorsi scelleratissimi sul Duca. |
+| [[Escalus\|ESCALO]] | Vi pregheremo di restare qui finché venga, e di sostenerli contro di lui. Troveremo che questo frate è un bel tipo. |
+| [[Lucio\|LUCIO]] | Come nessun altro a Vienna, sulla mia parola. |
+| [[Escalus\|ESCALO]] | Chiamate di nuovo qui quella stessa Isabel; vorrei parlare con lei. Esce uno o più (A [[Angelo]]) Di grazia, mio signore, permettetemi d’interrogarla. Vedrete come la maneggerò. |
+| [[Lucio\|LUCIO]] | Non meglio di lui, a suo stesso dire. |
+| [[Escalus\|ESCALO]] | Che dite? |
+| [[Lucio\|LUCIO]] | Perbacco, signore, credo che se la maneggiaste in privato, confesserebbe più presto; in pubblico forse si vergognerà. |
+| [[Escalus\|ESCALO]] | Lavorerò con lei al buio. |
+| [[Lucio\|LUCIO]] | Questa è la via, ché le donne son leggere a mezzanotte. Entra [[Isabella]], sotto scorta |
+| [[Escalus\|ESCALO]] | (a [[Isabella]]) Avanti, madonna, ecco una gentildonna che nega tutto ciò che avete detto. |
 | *(didascalia)* | Entrano il Duca, travestito da frate, incappucciato, e il Prevosto |
-| [[Lucio|LUCIO]] | Mio signore, ecco che viene il furfante di cui parlavo, qui col Prevosto. |
-| [[Escalus|ESCALO]] | Proprio a buon [[Time|punto]]. Non parlategli finché non vi chiamiamo. |
-| [[Lucio|LUCIO]] | Zitto. |
-| [[Escalus|ESCALO]] | (al Duca) Su, signore, avete istigato queste donne a calunniare il signor [[Angelo]]? Hanno confessato che l’avete fatto. |
+| [[Lucio\|LUCIO]] | Mio signore, ecco che viene il furfante di cui parlavo, qui col Prevosto. |
+| [[Escalus\|ESCALO]] | Proprio a buon [[Time\|punto]]. Non parlategli finché non vi chiamiamo. |
+| [[Lucio\|LUCIO]] | Zitto. |
+| [[Escalus\|ESCALO]] | (al Duca) Su, signore, avete istigato queste donne a calunniare il signor [[Angelo]]? Hanno confessato che l’avete fatto. |
 | DUCA | È falso. |
-| [[Escalus|ESCALO]] | Come! Sapete dove siete? |
+| [[Escalus\|ESCALO]] | Come! Sapete dove siete? |
 | DUCA | Rispetto al vostro alto seggio, e si lasci che il diavolo<br>sia talvolta onorato davanti al suo trono ardente.<br>Dov’è il Duca? È lui che dovrebbe udirmi parlare. |
-| [[Escalus|ESCALO]] | Il Duca è in noi, e noi vi udremo parlare.<br>Badate di parlare con giustizia. |
-| DUCA | Con ardire, almeno.<br>(A [[Isabella]] e [[Mariana]]) Ma oh, povere anime,<br>venite a cercare qui l’[[Lamb|agnello]] dalla volpe?<br>Buona [[Night|notte]] alla vostra riparazione! Il Duca se n’è andato?<br>Allora se n’è andata anche la vostra causa. Il Duca è ingiusto<br>a rimandare così il vostro manifesto appello,<br>e a mettere il vostro giudizio in bocca allo [[Villain|scellerato]]<br>che qui venite ad accusare. |
-| [[Lucio|LUCIO]] | Questo è il furfante, questo è quello di cui parlavo. |
-| [[Escalus|ESCALO]] | Come, tu irriverente e sconsacrato frate,<br>non ti basta d’aver subornato queste donne<br>ad accusare quest’uomo degno, ma, con bocca sozza,<br>e alla testimonianza del suo proprio orecchio,<br>chiamarlo [[Villain|scellerato]], e poi passare da lui<br>al Duca stesso, per tacciarlo d’ingiustizia?<br>Portatelo via; alla corda con lui. Ti stireremo<br>giunto per giunto—ma sapremo il suo scopo.<br>Come, ‘ingiusto’? |
+| [[Escalus\|ESCALO]] | Il Duca è in noi, e noi vi udremo parlare.<br>Badate di parlare con giustizia. |
+| DUCA | Con ardire, almeno.<br>(A [[Isabella]] e [[Mariana]]) Ma oh, povere anime,<br>venite a cercare qui l’[[Lamb\|agnello]] dalla volpe?<br>Buona [[Night\|notte]] alla vostra riparazione! Il Duca se n’è andato?<br>Allora se n’è andata anche la vostra causa. Il Duca è ingiusto<br>a rimandare così il vostro manifesto appello,<br>e a mettere il vostro giudizio in bocca allo [[Villain\|scellerato]]<br>che qui venite ad accusare. |
+| [[Lucio\|LUCIO]] | Questo è il furfante, questo è quello di cui parlavo. |
+| [[Escalus\|ESCALO]] | Come, tu irriverente e sconsacrato frate,<br>non ti basta d’aver subornato queste donne<br>ad accusare quest’uomo degno, ma, con bocca sozza,<br>e alla testimonianza del suo proprio orecchio,<br>chiamarlo [[Villain\|scellerato]], e poi passare da lui<br>al Duca stesso, per tacciarlo d’ingiustizia?<br>Portatelo via; alla corda con lui. Ti stireremo<br>giunto per giunto—ma sapremo il suo scopo.<br>Come, ‘ingiusto’? |
 | DUCA | Non tanto calore. Il Duca<br>non osa stirare questo mio dito più di quanto<br>osi stirare il proprio. Suddito suo non sono,<br>né qui provinciale. I miei affari in questo stato<br>m’han fatto spettatore qui a Vienna,<br>dove ho visto la corruzione bollire e gorgogliare<br>fino a traboccare dal paiolo; leggi per ogni colpa,<br>ma colpe così tollerate che i forti statuti<br>stanno come le tariffe di penitenza in bottega da barbiere,<br>tanto per burla quanto per norma. |
-| [[Escalus|ESCALO]] | Calunnia allo stato!<br>Via con lui in [[Prison|prigione]]. |
-| [[Angelo|ANGELO]] | Che potete attestare contro di lui, signor [[Lucio]]?<br>È questo l’uomo di cui ci parlaste? |
-| [[Lucio|LUCIO]] | È lui, mio signore.—Vieni qua, messer Zucca Pelata. Mi conosci? |
-| DUCA | Vi ricordo, signore, dal suono della vostra voce. V’incontrai alla [[Prison|prigione]], durante l’assenza del Duca. |
-| [[Lucio|LUCIO]] | Oh, davvero? E ti ricordi che cosa dicesti del Duca? |
+| [[Escalus\|ESCALO]] | Calunnia allo stato!<br>Via con lui in [[Prison\|prigione]]. |
+| [[Angelo\|ANGELO]] | Che potete attestare contro di lui, signor [[Lucio]]?<br>È questo l’uomo di cui ci parlaste? |
+| [[Lucio\|LUCIO]] | È lui, mio signore.—Vieni qua, messer Zucca Pelata. Mi conosci? |
+| DUCA | Vi ricordo, signore, dal suono della vostra voce. V’incontrai alla [[Prison\|prigione]], durante l’assenza del Duca. |
+| [[Lucio\|LUCIO]] | Oh, davvero? E ti ricordi che cosa dicesti del Duca? |
 | DUCA | Benissimo, signore. |
-| [[Lucio|LUCIO]] | Davvero, signore? E il Duca era un mercante di carne, un [[Fool|buffone]] e un vigliacco, come allora lo riferisti? |
+| [[Lucio\|LUCIO]] | Davvero, signore? E il Duca era un mercante di carne, un [[Fool\|buffone]] e un vigliacco, come allora lo riferisti? |
 | DUCA | Dovete, signore, scambiare le persone con me prima di fare di quello il mio racconto. Foste voi a parlare così di lui, e molto di più, molto di peggio. |
-| [[Lucio|LUCIO]] | Oh, tipo dannabile! Non ti tirai forse per il naso per i tuoi discorsi? |
-| DUCA | Protesto ch’io [[Love|amo]] il Duca come [[Love|amo]] me stesso. |
-| [[Angelo|ANGELO]] | Sentite come lo [[Villain|scellerato]] vorrebbe rappezzarla ora, dopo i suoi abusi da traditore. |
-| [[Escalus|ESCALO]] | Con un tale non si può parlare. Via con lui in [[Prison|prigione]]. Dov’è il Prevosto? Via con lui in [[Prison|prigione]]. Mettetegli addosso ceppi a sufficienza. Non lo si lasci parlare più. Via anche con quelle sgualdrinelle, e con l’altro compagno complice. |
+| [[Lucio\|LUCIO]] | Oh, tipo dannabile! Non ti tirai forse per il naso per i tuoi discorsi? |
+| DUCA | Protesto ch’io [[Love\|amo]] il Duca come [[Love\|amo]] me stesso. |
+| [[Angelo\|ANGELO]] | Sentite come lo [[Villain\|scellerato]] vorrebbe rappezzarla ora, dopo i suoi abusi da traditore. |
+| [[Escalus\|ESCALO]] | Con un tale non si può parlare. Via con lui in [[Prison\|prigione]]. Dov’è il Prevosto? Via con lui in [[Prison\|prigione]]. Mettetegli addosso ceppi a sufficienza. Non lo si lasci parlare più. Via anche con quelle sgualdrinelle, e con l’altro compagno complice. |
 | *(didascalia)* | [[Mariana]] viene fatta alzare in piedi, ed è sotto scorta |
-| [[Escalus|ESCALO]] | Il Prevosto fa per afferrare il Duca |
+| [[Escalus\|ESCALO]] | Il Prevosto fa per afferrare il Duca |
 | DUCA | Fermo, signore, fermo un poco. |
-| [[Angelo|ANGELO]] | Come, resiste? Aiutalo, [[Lucio]]. |
-| [[Lucio|LUCIO]] | (al Duca) Vieni, signore; vieni, signore; vieni, signore! Puah, signore! Ah, furfante bugiardo dalla zucca pelata, dovete restare incappucciato, eh? Mostrate la vostra faccia da ribaldo, un accidente a voi! Mostrate la vostra faccia da ladro di pecore, e siate impiccato per un’ora! Non viene via?<br>Gli strappa il cappuccio da frate, e scopre il Duca. |
-| *(didascalia)* | [[Angelo]] e [[Escalus|Escalo]] si alzano |
+| [[Angelo\|ANGELO]] | Come, resiste? Aiutalo, [[Lucio]]. |
+| [[Lucio\|LUCIO]] | (al Duca) Vieni, signore; vieni, signore; vieni, signore! Puah, signore! Ah, furfante bugiardo dalla zucca pelata, dovete restare incappucciato, eh? Mostrate la vostra faccia da ribaldo, un accidente a voi! Mostrate la vostra faccia da ladro di pecore, e siate impiccato per un’ora! Non viene via?<br>Gli strappa il cappuccio da frate, e scopre il Duca. |
+| *(didascalia)* | [[Angelo]] e [[Escalus\|Escalo]] si alzano |
 | DUCA | Tu sei il primo ribaldo che abbia mai fatto un duca.<br>Prima, Prevosto, lasciate ch’io liberi questi tre gentili.<br>(A [[Lucio]]) Non svignatevela, signore, ché il frate e voi<br>dobbiamo fra poco scambiare una parola. (A uno o più) Prendetelo. |
-| [[Lucio|LUCIO]] | Questo potrebbe risultare peggio dell’impiccagione. |
-| DUCA | (a [[Escalus|Escalo]])<br>Ciò che avete detto, lo perdono. Sedetevi.<br>Prenderemo in prestito il posto da lui. |
-| *(didascalia)* |  [[Escalus|Escalo]] siede |
+| [[Lucio\|LUCIO]] | Questo potrebbe risultare peggio dell’impiccagione. |
+| DUCA | (a [[Escalus\|Escalo]])<br>Ciò che avete detto, lo perdono. Sedetevi.<br>Prenderemo in prestito il posto da lui. |
+| *(didascalia)* |  [[Escalus\|Escalo]] siede |
 | DUCA | (A [[Angelo]]) Signore, con vostra licenza. |
 | *(didascalia)* |  Prende il seggio di [[Angelo]] |
 | DUCA | Hai tu parola o ingegno o impudenza<br>che possa ancora servirti? Se l’hai,<br>affidatici finché il mio racconto sia udito,<br>e non resistere più a lungo. |
-| [[Angelo|ANGELO]] | O mio temuto signore,<br>sarei più colpevole della mia colpevolezza<br>se pensassi di poter restare indiscernibile,<br>quando m’accorgo che vostra grazia, come potere divino,<br>ha guardato ai miei passi. Dunque, buon principe,<br>non tenete più a lungo sessione sulla mia vergogna,<br>ma sia il mio processo la mia stessa confessione.<br>Sentenza immediata allora, e conseguente [[Death|morte]],<br>è tutta la grazia che chiedo. |
+| [[Angelo\|ANGELO]] | O mio temuto signore,<br>sarei più colpevole della mia colpevolezza<br>se pensassi di poter restare indiscernibile,<br>quando m’accorgo che vostra grazia, come potere divino,<br>ha guardato ai miei passi. Dunque, buon principe,<br>non tenete più a lungo sessione sulla mia vergogna,<br>ma sia il mio processo la mia stessa confessione.<br>Sentenza immediata allora, e conseguente [[Death\|morte]],<br>è tutta la grazia che chiedo. |
 | DUCA | Vieni qua, [[Mariana]].<br>(A [[Angelo]]) Di’, fosti mai promesso a questa<br>donna? |
-| [[Angelo|ANGELO]] | Lo fui, mio signore. |
+| [[Angelo\|ANGELO]] | Lo fui, mio signore. |
 | DUCA | Andate, portatela via e sposatela all’istante.<br>Fate voi l’ufficio, frate; e compiuto ciò,<br>riportatelo qui di nuovo. Andate con lui, Prevosto. |
 | *(didascalia)* | Escono [[Angelo]], [[Mariana]], frate Pietro e il |
 | DUCA | Prevosto |
-| [[Escalus|ESCALO]] | Mio signore, sono più stupito del suo disonore<br>che della stranezza di esso. |
+| [[Escalus\|ESCALO]] | Mio signore, sono più stupito del suo disonore<br>che della stranezza di esso. |
 | DUCA | Vieni qua, Isabel.<br>Il tuo frate è ora il tuo principe. Come allora ero<br>consigliero e devoto ai tuoi affari,<br>senza mutare cuore con l’abito sono ancora<br>avvocato al tuo servizio. |
-| [[Isabella|ISABELLA]] | Oh, datemi perdono,<br>ch’io, vostra vassalla, ho impiegato e affaticato<br>la vostra ignota sovranità. |
-| DUCA | Siete perdonata, Isabel.<br>E ora, cara fanciulla, siate altrettanto libera con noi.<br>So che la [[Death|morte]] di vostro fratello vi sta sul cuore,<br>e potrete meravigliarvi perché mi sia oscurato,<br>adoperandomi a salvargli la vita, e non abbia piuttosto<br>fatto avventata ostensione del mio potere nascosto<br>invece di lasciarlo così perire. O gentilissima fanciulla,<br>fu la rapida celerità della sua [[Death|morte]],<br>che pensavo venisse con piede più lento,<br>a mandare a monte il mio disegno. Ma pace sia con lui!<br>Quella vita è vita migliore, che non teme più la [[Death|morte]],<br>di quella che vive per [[Fear|temere]]. Fatene il vostro conforto,<br>tanto è felice vostro fratello. |
-| [[Isabella|ISABELLA]] | Lo faccio, mio signore. |
+| [[Isabella\|ISABELLA]] | Oh, datemi perdono,<br>ch’io, vostra vassalla, ho impiegato e affaticato<br>la vostra ignota sovranità. |
+| DUCA | Siete perdonata, Isabel.<br>E ora, cara fanciulla, siate altrettanto libera con noi.<br>So che la [[Death\|morte]] di vostro fratello vi sta sul cuore,<br>e potrete meravigliarvi perché mi sia oscurato,<br>adoperandomi a salvargli la vita, e non abbia piuttosto<br>fatto avventata ostensione del mio potere nascosto<br>invece di lasciarlo così perire. O gentilissima fanciulla,<br>fu la rapida celerità della sua [[Death\|morte]],<br>che pensavo venisse con piede più lento,<br>a mandare a monte il mio disegno. Ma pace sia con lui!<br>Quella vita è vita migliore, che non teme più la [[Death\|morte]],<br>di quella che vive per [[Fear\|temere]]. Fatene il vostro conforto,<br>tanto è felice vostro fratello. |
+| [[Isabella\|ISABELLA]] | Lo faccio, mio signore. |
 | *(didascalia)* | Entrano [[Angelo]], [[Mariana]], frate Pietro e il Prevosto |
-| DUCA | Quanto a quest’uomo appena sposato che s’avvicina qui,<br>la cui salace [[Imagination|immaginazione]] ha pur fatto torto<br>al vostro [[Well|ben]] difeso [[Honour|onore]], dovete perdonarlo<br>per amore di [[Mariana]]; ma poiché egli condannò vostro<br>fratello—<br>essendo criminale in [[Double|doppia]] violazione<br>di sacra castità e di rottura di promessa,<br>da ciò dipendente, per la vita di vostro fratello—<br>la [[Mercy|clemenza]] stessa della legge grida<br>udibilissima, proprio dalla sua propria lingua:<br>‘Un [[Angelo]] per [[Claudio]], [[Death|morte]] per [[Death|morte]]’.<br>La fretta paga sempre la fretta, e l’agio risponde all’agio;<br>il simile compensa il simile, e sempre misura per misura.<br>Dunque, [[Angelo]], la tua colpa è così manifestata,<br>e, benché tu volessi negarla, essa ti nega ogni<br>vantaggio.<br>Ti condanniamo a quello stesso ceppo<br>dove [[Claudio]] si chinò alla [[Death|morte]], e con pari fretta.<br>Via con lui. |
-| [[Mariana|MARIANA]] | O mio graziosissimo signore,<br>[[Hope|spero]] che non vorrete beffarmi con un marito! |
-| DUCA | È vostro marito che v’ha beffata con un marito.<br>Acconsentendo alla salvaguardia del vostro [[Honour|onore]],<br>ho creduto opportuno il vostro [[Marriage|matrimonio]]; altrimenti l’imputazione,<br>per avervi egli conosciuta, avrebbe potuto rimproverare la vostra vita<br>e soffocare il vostro bene avvenire. Quanto ai suoi possessi,<br>benché per confisca siano nostri,<br>ve ne investiamo e vi facciamo vedova ricca,<br>per comprarvi un marito migliore. |
-| [[Mariana|MARIANA]] | O mio caro signore,<br>non ne chiedo altro, né uomo migliore. |
+| DUCA | Quanto a quest’uomo appena sposato che s’avvicina qui,<br>la cui salace [[Imagination\|immaginazione]] ha pur fatto torto<br>al vostro [[Well\|ben]] difeso [[Honour\|onore]], dovete perdonarlo<br>per amore di [[Mariana]]; ma poiché egli condannò vostro<br>fratello—<br>essendo criminale in [[Double\|doppia]] violazione<br>di sacra castità e di rottura di promessa,<br>da ciò dipendente, per la vita di vostro fratello—<br>la [[Mercy\|clemenza]] stessa della legge grida<br>udibilissima, proprio dalla sua propria lingua:<br>‘Un [[Angelo]] per [[Claudio]], [[Death\|morte]] per [[Death\|morte]]’.<br>La fretta paga sempre la fretta, e l’agio risponde all’agio;<br>il simile compensa il simile, e sempre misura per misura.<br>Dunque, [[Angelo]], la tua colpa è così manifestata,<br>e, benché tu volessi negarla, essa ti nega ogni<br>vantaggio.<br>Ti condanniamo a quello stesso ceppo<br>dove [[Claudio]] si chinò alla [[Death\|morte]], e con pari fretta.<br>Via con lui. |
+| [[Mariana\|MARIANA]] | O mio graziosissimo signore,<br>[[Hope\|spero]] che non vorrete beffarmi con un marito! |
+| DUCA | È vostro marito che v’ha beffata con un marito.<br>Acconsentendo alla salvaguardia del vostro [[Honour\|onore]],<br>ho creduto opportuno il vostro [[Marriage\|matrimonio]]; altrimenti l’imputazione,<br>per avervi egli conosciuta, avrebbe potuto rimproverare la vostra vita<br>e soffocare il vostro bene avvenire. Quanto ai suoi possessi,<br>benché per confisca siano nostri,<br>ve ne investiamo e vi facciamo vedova ricca,<br>per comprarvi un marito migliore. |
+| [[Mariana\|MARIANA]] | O mio caro signore,<br>non ne chiedo altro, né uomo migliore. |
 | DUCA | Non lo chiedete mai; siamo risoluti. |
-| [[Mariana|MARIANA]] | Gentile mio sovrano— |
-| DUCA | Non fate che perdere la vostra fatica.—<br>Via con lui alla [[Death|morte]]. (A [[Lucio]]) Ora, signore, a voi. |
-| [[Mariana|MARIANA]] | (inginocchiandosi)<br>O mio buon signore!—Dolce Isabel, prendete le mie parti;<br>prestatemi le vostre ginocchia, e per tutta la vita a venire<br>vi presterò tutta la mia vita per servirvi. |
-| DUCA | Contro ogni senno voi l’importunate.<br>Se ella s’inginocchiasse per [[Mercy|clemenza]] di questo fatto,<br>il [[Ghost|fantasma]] di suo fratello romperebbe il suo letto lastricato,<br>e la porterebbe via nell’orrore. |
-| [[Mariana|MARIANA]] | Isabel,<br>dolce Isabel, inginocchiatevi almeno accanto a me.<br>Alzate le mani; non dite nulla; parlerò io per tutto.<br>Dicono che i migliori uomini son plasmati dalle colpe,<br>e, per lo più, diventano assai migliori<br>per essere stati un poco cattivi. Così può essere di mio marito.<br>O Isabel, non volete prestare un ginocchio? |
-| DUCA | Egli muore per la [[Death|morte]] di [[Claudio]]. |
-| [[Isabella|ISABELLA]] | (inginocchiandosi) Munificentissimo signore,<br>guardate, se vi piace, a quest’uomo condannato<br>come se mio fratello vivesse. In parte credo<br>che una debita sincerità governasse le sue azioni,<br>finché non pose gli occhi su di me. Poiché è così,<br>non lo si lasci morire. Mio fratello ebbe solo giustizia,<br>in quanto fece la cosa per cui morì.<br>Quanto ad [[Angelo]],<br>il suo atto non raggiunse la sua cattiva intenzione,<br>e dev’essere sepolto solo come un’intenzione<br>perita per via. I pensieri non sono sudditi,<br>le intenzioni non sono che pensieri. |
-| [[Mariana|MARIANA]] | Solo pensieri, mio signore. |
+| [[Mariana\|MARIANA]] | Gentile mio sovrano— |
+| DUCA | Non fate che perdere la vostra fatica.—<br>Via con lui alla [[Death\|morte]]. (A [[Lucio]]) Ora, signore, a voi. |
+| [[Mariana\|MARIANA]] | (inginocchiandosi)<br>O mio buon signore!—Dolce Isabel, prendete le mie parti;<br>prestatemi le vostre ginocchia, e per tutta la vita a venire<br>vi presterò tutta la mia vita per servirvi. |
+| DUCA | Contro ogni senno voi l’importunate.<br>Se ella s’inginocchiasse per [[Mercy\|clemenza]] di questo fatto,<br>il [[Ghost\|fantasma]] di suo fratello romperebbe il suo letto lastricato,<br>e la porterebbe via nell’orrore. |
+| [[Mariana\|MARIANA]] | Isabel,<br>dolce Isabel, inginocchiatevi almeno accanto a me.<br>Alzate le mani; non dite nulla; parlerò io per tutto.<br>Dicono che i migliori uomini son plasmati dalle colpe,<br>e, per lo più, diventano assai migliori<br>per essere stati un poco cattivi. Così può essere di mio marito.<br>O Isabel, non volete prestare un ginocchio? |
+| DUCA | Egli muore per la [[Death\|morte]] di [[Claudio]]. |
+| [[Isabella\|ISABELLA]] | (inginocchiandosi) Munificentissimo signore,<br>guardate, se vi piace, a quest’uomo condannato<br>come se mio fratello vivesse. In parte credo<br>che una debita sincerità governasse le sue azioni,<br>finché non pose gli occhi su di me. Poiché è così,<br>non lo si lasci morire. Mio fratello ebbe solo giustizia,<br>in quanto fece la cosa per cui morì.<br>Quanto ad [[Angelo]],<br>il suo atto non raggiunse la sua cattiva intenzione,<br>e dev’essere sepolto solo come un’intenzione<br>perita per via. I pensieri non sono sudditi,<br>le intenzioni non sono che pensieri. |
+| [[Mariana\|MARIANA]] | Solo pensieri, mio signore. |
 | DUCA | La vostra supplica è inutile. Alzatevi, dico. |
 | *(didascalia)* | [[Mariana]] |
 | *(didascalia)* | e [[Isabella]] si alzano |
@@ -3609,78 +3609,78 @@ Measure for Measure
 | DUCA | Avevate un mandato speciale per il fatto? |
 | PREVOSTO | No, mio buon signore, fu per messaggio privato. |
 | DUCA | Per il che vi destituisco dal vostro ufficio.<br>Consegnate le vostre chiavi. |
-| PREVOSTO | Perdonatemi, nobile signore.<br>Pensai che fosse una colpa, ma non ne ero certo,<br>pure me ne pentii dopo maggior riflessione;<br>a testimonianza di che, uno nella [[Prison|prigione]]<br>che per ordine privato sarebbe altrimenti morto<br>l’ho conservato vivo. |
+| PREVOSTO | Perdonatemi, nobile signore.<br>Pensai che fosse una colpa, ma non ne ero certo,<br>pure me ne pentii dopo maggior riflessione;<br>a testimonianza di che, uno nella [[Prison\|prigione]]<br>che per ordine privato sarebbe altrimenti morto<br>l’ho conservato vivo. |
 | DUCA | Chi è? |
 | PREVOSTO | Il suo nome è Barnardine. |
 | DUCA | Vorrei che aveste fatto così con [[Claudio]].<br>Andate a prenderlo qua. Ch’io lo guardi. |
 | *(didascalia)* | Esce il Prevosto |
-| [[Escalus|ESCALO]] | Mi duole che uno così dotto e così saggio<br>quale voi, signor [[Angelo]], siete sempre apparso,<br>abbia scivolato tanto grossolanamente, sia nel calore del [[Blood|sangue]]<br>sia nella mancanza di temperato giudizio poi. |
-| [[Angelo|ANGELO]] | Mi duole di procurare tale dolore,<br>e così a fondo mi si conficca nel cuore penitente<br>ch’io chiedo la [[Death|morte]] più volentieri della [[Mercy|clemenza]].<br>È il mio merito, e la imploro. |
-| *(didascalia)* | Entrano Barnardine e il Prevosto; [[Claudio]], incappucciato, e [[Juliet|Giulietta]] |
+| [[Escalus\|ESCALO]] | Mi duole che uno così dotto e così saggio<br>quale voi, signor [[Angelo]], siete sempre apparso,<br>abbia scivolato tanto grossolanamente, sia nel calore del [[Blood\|sangue]]<br>sia nella mancanza di temperato giudizio poi. |
+| [[Angelo\|ANGELO]] | Mi duole di procurare tale dolore,<br>e così a fondo mi si conficca nel cuore penitente<br>ch’io chiedo la [[Death\|morte]] più volentieri della [[Mercy\|clemenza]].<br>È il mio merito, e la imploro. |
+| *(didascalia)* | Entrano Barnardine e il Prevosto; [[Claudio]], incappucciato, e [[Juliet\|Giulietta]] |
 | DUCA | Chi è quel Barnardine? |
 | PREVOSTO | Questi, mio signore. |
-| DUCA | C’era un frate che mi parlò di quest’uomo.<br>(A Barnardine) Messere, si dice che tu abbia un’[[Soul|anima]]<br>ostinata<br>che non comprende più in là di questo mondo,<br>e squadri la tua vita di conseguenza. Sei condannato;<br>ma, quanto a quelle colpe terrene, te le rimetto tutte,<br>e ti prego di prendere questa [[Mercy|clemenza]] per provvedere<br>a tempi migliori a venire.—Frate, consigliatelo.<br>Lo lascio alla vostra mano. (Al Prevosto) Chi è quell’uomo<br>incappucciato? |
+| DUCA | C’era un frate che mi parlò di quest’uomo.<br>(A Barnardine) Messere, si dice che tu abbia un’[[Soul\|anima]]<br>ostinata<br>che non comprende più in là di questo mondo,<br>e squadri la tua vita di conseguenza. Sei condannato;<br>ma, quanto a quelle colpe terrene, te le rimetto tutte,<br>e ti prego di prendere questa [[Mercy\|clemenza]] per provvedere<br>a tempi migliori a venire.—Frate, consigliatelo.<br>Lo lascio alla vostra mano. (Al Prevosto) Chi è quell’uomo<br>incappucciato? |
 | PREVOSTO | Questo è un altro prigioniero che ho salvato,<br>che sarebbe dovuto morire quando [[Claudio]] perse la testa,<br>simile a [[Claudio]] quasi quanto lui stesso.<br>Toglie il cappuccio a [[Claudio]] |
-| DUCA | (a [[Isabella]])<br>S’egli è simile a vostro fratello, per amor suo<br>è perdonato; e per il vostro amabile amore<br>datemi la vostra mano, e dite che sarete mia.<br>Egli è anche mio fratello. Ma a [[Time|tempo]] più adatto questo.<br>Da ciò il signor [[Angelo]] s’accorge d’esser salvo.<br>Mi pare di vedere un ravvivarsi nel suo occhio.<br>[[Well|Bene]], [[Angelo]], il vostro male vi rende [[Well|bene]].<br>Badate d’[[Love|amare]] vostra moglie, il cui valore vale il vostro.<br>Trovo in me una pronta indulgenza;<br>eppure ce n’è qui uno che non posso perdonare.<br>(A [[Lucio]]) Voi, messere, che mi sapevate un [[Fool|buffone]], un<br>vigliacco,<br>tutto lussuria, un asino, un pazzo,<br>in che cosa ho così meritato di voi<br>che voi mi esaltiate a quel modo? |
-| [[Lucio|LUCIO]] | In [[Faith|fede]], mio signore, l’ho detto solo secondo l’andazzo. Se volete impiccarmi per questo, potete; ma preferirei che vi piacesse ch’io fossi frustato. |
-| DUCA | Frustato prima, signore, e impiccato dopo.<br>Proclamate, Prevosto, per tutta la [[City|città]],<br>che se qualche donna è stata offesa da questo lascivo individuo,<br>come l’ho udito giurare lui stesso che ce n’è una<br>ch’egli ha reso gravida d’un [[Child|figlio]], si presenti,<br>ed egli la sposerà. Finite le nozze,<br>sia frustato e impiccato. |
-| [[Lucio|LUCIO]] | Supplico vostra altezza, non mi sposate a una puttana. Vostra altezza ha detto or ora ch’io v’ho fatto duca; mio buon signore, non mi ricompensate facendomi cornuto. |
-| DUCA | Sul mio [[Honour|onore]], tu la sposerai.<br>Le tue calunnie perdono, e con esse<br>rimetto le altre tue pene.—Portatelo in [[Prison|prigione]],<br>e badate che il nostro piacere in ciò sia eseguito. |
-| [[Lucio|LUCIO]] | Sposare una bagascia, mio signore, è schiacciamento a [[Death|morte]], frusta e forca. |
+| DUCA | (a [[Isabella]])<br>S’egli è simile a vostro fratello, per amor suo<br>è perdonato; e per il vostro amabile amore<br>datemi la vostra mano, e dite che sarete mia.<br>Egli è anche mio fratello. Ma a [[Time\|tempo]] più adatto questo.<br>Da ciò il signor [[Angelo]] s’accorge d’esser salvo.<br>Mi pare di vedere un ravvivarsi nel suo occhio.<br>[[Well\|Bene]], [[Angelo]], il vostro male vi rende [[Well\|bene]].<br>Badate d’[[Love\|amare]] vostra moglie, il cui valore vale il vostro.<br>Trovo in me una pronta indulgenza;<br>eppure ce n’è qui uno che non posso perdonare.<br>(A [[Lucio]]) Voi, messere, che mi sapevate un [[Fool\|buffone]], un<br>vigliacco,<br>tutto lussuria, un asino, un pazzo,<br>in che cosa ho così meritato di voi<br>che voi mi esaltiate a quel modo? |
+| [[Lucio\|LUCIO]] | In [[Faith\|fede]], mio signore, l’ho detto solo secondo l’andazzo. Se volete impiccarmi per questo, potete; ma preferirei che vi piacesse ch’io fossi frustato. |
+| DUCA | Frustato prima, signore, e impiccato dopo.<br>Proclamate, Prevosto, per tutta la [[City\|città]],<br>che se qualche donna è stata offesa da questo lascivo individuo,<br>come l’ho udito giurare lui stesso che ce n’è una<br>ch’egli ha reso gravida d’un [[Child\|figlio]], si presenti,<br>ed egli la sposerà. Finite le nozze,<br>sia frustato e impiccato. |
+| [[Lucio\|LUCIO]] | Supplico vostra altezza, non mi sposate a una puttana. Vostra altezza ha detto or ora ch’io v’ho fatto duca; mio buon signore, non mi ricompensate facendomi cornuto. |
+| DUCA | Sul mio [[Honour\|onore]], tu la sposerai.<br>Le tue calunnie perdono, e con esse<br>rimetto le altre tue pene.—Portatelo in [[Prison\|prigione]],<br>e badate che il nostro piacere in ciò sia eseguito. |
+| [[Lucio\|LUCIO]] | Sposare una bagascia, mio signore, è schiacciamento a [[Death\|morte]], frusta e forca. |
 | DUCA | Calunniare un principe lo merita. |
 | *(didascalia)* | Esce |
 | DUCA | [[Lucio]] |
 | *(didascalia)* | sotto scorta |
-| DUCA | Colei, [[Claudio]], cui facesti torto, badate di restituirla nell’onore.<br>Gioia a voi, [[Mariana]]. [[Love|Amatela]], [[Angelo]].<br>L’ho confessata, e ne conosco la virtù.<br>Grazie, buon amico [[Escalus|Escalo]], per la tua molta bontà.<br>C’è dell’altro in serbo che è più gradito.<br>Grazie, Prevosto, per la tua cura e la tua segretezza.<br>T’impiegheremo in un posto più degno.<br>Perdonagli, [[Angelo]], d’averti portato a [[Home|casa]]<br>la testa di Ragusine invece di quella di [[Claudio]].<br>L’offesa si perdona da sé. Cara Isabel,<br>ho una proposta che molto importa al vostro bene,<br>alla quale, se vorrete piegare un orecchio consenziente,<br>ciò che è mio è vostro, e ciò che è vostro è mio.<br>(A tutti) Conduceteci dunque al nostro palazzo, dove mostreremo<br>ciò che ancora resta ed è giusto che tutti sappiate. |
+| DUCA | Colei, [[Claudio]], cui facesti torto, badate di restituirla nell’onore.<br>Gioia a voi, [[Mariana]]. [[Love\|Amatela]], [[Angelo]].<br>L’ho confessata, e ne conosco la virtù.<br>Grazie, buon amico [[Escalus\|Escalo]], per la tua molta bontà.<br>C’è dell’altro in serbo che è più gradito.<br>Grazie, Prevosto, per la tua cura e la tua segretezza.<br>T’impiegheremo in un posto più degno.<br>Perdonagli, [[Angelo]], d’averti portato a [[Home\|casa]]<br>la testa di Ragusine invece di quella di [[Claudio]].<br>L’offesa si perdona da sé. Cara Isabel,<br>ho una proposta che molto importa al vostro bene,<br>alla quale, se vorrete piegare un orecchio consenziente,<br>ciò che è mio è vostro, e ciò che è vostro è mio.<br>(A tutti) Conduceteci dunque al nostro palazzo, dove mostreremo<br>ciò che ancora resta ed è giusto che tutti sappiate. |
 | *(didascalia)* | Escono |
-| BRANI AGGIUNTIVI | Il testo di Misura per misura dato in questa edizione è probabilmente quello di una versione adattata fatta per la compagnia di Shakespeare dopo la sua [[Death|morte]]. L’adattamento sembra aver interessato due passi, stampati qui sotto come crediamo che Shakespeare li abbia scritti.<br><br>A. 1.2.0.1-116<br>A.2-9 (‘... by him’) sono versi che l’adattatore (che crediamo sia Thomas Middleton) intendeva evidentemente far sostituire da 1.2.56-79 del dramma come lo stampiamo. L’adattatore deve aver contribuito tutto 1.2.0.1-83, che nei testi a stampa più antichi e successivi precede la discussione fra il Buffone ([[Pompey|Pompeo]]) e la Ruffiana (Mistress Overdone) sull’arresto di [[Claudio]]. L’entrata di [[Lucio]] [[Alone|solo]] al v. 40.1 qui sotto, una decina di versi dopo il suo rientro con i due Gentiluomini e il seguito del Prevosto nel testo adattato, rappresenta probabilmente l’intenzione originale di Shakespeare. Nella sua versione, [[Juliet|Giulietta]], presente ma silenziosa nel testo adattato sia in 1.2 sia in 5.1, probabilmente non compariva in nessuna delle due scene; di conseguenza, le parole ‘e c’è madonna [[Juliet|Giulietta]]’ (1.2.107) devono essere anch’esse opera del revisore, e non compaiono qui sotto. |
-| *(didascalia)* | Entrano [[Pompey|Pompeo]] e Mistress Overdone, incontrandosi |
+| BRANI AGGIUNTIVI | Il testo di Misura per misura dato in questa edizione è probabilmente quello di una versione adattata fatta per la compagnia di Shakespeare dopo la sua [[Death\|morte]]. L’adattamento sembra aver interessato due passi, stampati qui sotto come crediamo che Shakespeare li abbia scritti.<br><br>A. 1.2.0.1-116<br>A.2-9 (‘... by him’) sono versi che l’adattatore (che crediamo sia Thomas Middleton) intendeva evidentemente far sostituire da 1.2.56-79 del dramma come lo stampiamo. L’adattatore deve aver contribuito tutto 1.2.0.1-83, che nei testi a stampa più antichi e successivi precede la discussione fra il Buffone ([[Pompey\|Pompeo]]) e la Ruffiana (Mistress Overdone) sull’arresto di [[Claudio]]. L’entrata di [[Lucio]] [[Alone\|solo]] al v. 40.1 qui sotto, una decina di versi dopo il suo rientro con i due Gentiluomini e il seguito del Prevosto nel testo adattato, rappresenta probabilmente l’intenzione originale di Shakespeare. Nella sua versione, [[Juliet\|Giulietta]], presente ma silenziosa nel testo adattato sia in 1.2 sia in 5.1, probabilmente non compariva in nessuna delle due scene; di conseguenza, le parole ‘e c’è madonna [[Juliet\|Giulietta]]’ (1.2.107) devono essere anch’esse opera del revisore, e non compaiono qui sotto. |
+| *(didascalia)* | Entrano [[Pompey\|Pompeo]] e Mistress Overdone, incontrandosi |
 | MISTRESS OVERDONE | Ebbene, che notizie mi porti? |
-| [[Pompey|POMPEO]] | Quell’uomo laggiù è condotto in [[Prison|prigione]]. |
-| MISTRESS OVERDONE | [[Well|Bene]]! Che cos’ha fatto? |
-| [[Pompey|POMPEO]] | Una donna. |
+| [[Pompey\|POMPEO]] | Quell’uomo laggiù è condotto in [[Prison\|prigione]]. |
+| MISTRESS OVERDONE | [[Well\|Bene]]! Che cos’ha fatto? |
+| [[Pompey\|POMPEO]] | Una donna. |
 | MISTRESS OVERDONE | Ma qual è la sua offesa? |
-| [[Pompey|POMPEO]] | Andar tastando trote in un [[River|fiume]] altrui. |
-| MISTRESS OVERDONE | Come, c’è una vergine gravida d’un [[Child|figlio]] per opera sua? |
-| [[Pompey|POMPEO]] | No, ma c’è una donna con una vergine dentro per opera sua: non avete sentito del proclama, vero? |
+| [[Pompey\|POMPEO]] | Andar tastando trote in un [[River\|fiume]] altrui. |
+| MISTRESS OVERDONE | Come, c’è una vergine gravida d’un [[Child\|figlio]] per opera sua? |
+| [[Pompey\|POMPEO]] | No, ma c’è una donna con una vergine dentro per opera sua: non avete sentito del proclama, vero? |
 | MISTRESS OVERDONE | Che proclama, uomo? |
-| [[Pompey|POMPEO]] | Tutte le case nei sobborghi di Vienna devono essere abbattute. |
-| MISTRESS OVERDONE | E che ne sarà di quelle nella [[City|città]]? |
-| [[Pompey|POMPEO]] | Resteranno per la semenza. Sarebbero cadute anche loro, se non che un saggio borghese ha parlato per esse. |
+| [[Pompey\|POMPEO]] | Tutte le case nei sobborghi di Vienna devono essere abbattute. |
+| MISTRESS OVERDONE | E che ne sarà di quelle nella [[City\|città]]? |
+| [[Pompey\|POMPEO]] | Resteranno per la semenza. Sarebbero cadute anche loro, se non che un saggio borghese ha parlato per esse. |
 | MISTRESS OVERDONE | Ma saranno abbattute tutte le nostre case di ritrovo nei sobborghi? |
-| [[Pompey|POMPEO]] | Rase al suolo, padrona. |
+| [[Pompey\|POMPEO]] | Rase al suolo, padrona. |
 | MISTRESS OVERDONE | Ma questo sì che è un cambiamento nello stato. Che sarà di me? |
-| [[Pompey|POMPEO]] | Suvvia, non [[Fear|temete]]. I buoni consiglieri non mancano di clienti. Anche se cambiate luogo, non avete da cambiare mestiere. Sarò ancora il vostro spillatore. [[Courage|Coraggio]], si avrà pietà di voi. Voi che vi siete quasi consumata gli occhi nel servizio, sarete considerata. |
+| [[Pompey\|POMPEO]] | Suvvia, non [[Fear\|temete]]. I buoni consiglieri non mancano di clienti. Anche se cambiate luogo, non avete da cambiare mestiere. Sarò ancora il vostro spillatore. [[Courage\|Coraggio]], si avrà pietà di voi. Voi che vi siete quasi consumata gli occhi nel servizio, sarete considerata. |
 | *(didascalia)* | Rumore dall’interno |
 | MISTRESS OVERDONE | Che succede qui, Tommaso Spillatore?<br>Ritiriamoci! |
 | *(didascalia)* | Entrano il Prevosto e [[Claudio]] |
-| [[Pompey|POMPEO]] | Ecco che viene il signor [[Claudio]], condotto dal Prevosto in [[Prison|prigione]]. Escono Mistress Overdone e [[Pompey|Pompeo]] |
-| [[Claudio|CLAUDIO]] | Amico, perché mi mostri così al mondo?<br>Portami in [[Prison|prigione]], dove sono consegnato. |
+| [[Pompey\|POMPEO]] | Ecco che viene il signor [[Claudio]], condotto dal Prevosto in [[Prison\|prigione]]. Escono Mistress Overdone e [[Pompey\|Pompeo]] |
+| [[Claudio\|CLAUDIO]] | Amico, perché mi mostri così al mondo?<br>Portami in [[Prison\|prigione]], dove sono consegnato. |
 | PREVOSTO | Non lo faccio per cattiva disposizione,<br>ma per speciale incarico del signor [[Angelo]]. |
-| [[Claudio|CLAUDIO]] | Così può il semidio Autorità<br>farci pagare per la nostra offesa, a peso,<br>i debiti del cielo. Su chi vuole, vuole;<br>su chi non vuole, così; eppure è sempre giusto. |
+| [[Claudio\|CLAUDIO]] | Così può il semidio Autorità<br>farci pagare per la nostra offesa, a peso,<br>i debiti del cielo. Su chi vuole, vuole;<br>su chi non vuole, così; eppure è sempre giusto. |
 | *(didascalia)* | Entra [[Lucio]] |
-| [[Lucio|LUCIO]] | Ebbene, [[Claudio]]? Donde viene questa costrizione?<br><br>B. 3.1.515-4.1.65<br>Prima della revisione non ci sarebbe stata interruzione d’atto né [[Song|canzone]]; anche i versi immediatamente seguenti alla [[Song|canzone]] sarebbero mancati. I soliloqui del Duca ‘Chi la [[Sword|spada]] del cielo vorrà portare’ e ‘O carica e [[Greatness|grandezza]]’ sono stati evidentemente trasposti nella revisione; nell’originale, la fine di ‘O carica e [[Greatness|grandezza]]’ avrebbe condotto direttamente all’incontro del Duca con [[Isabella]] e poi con [[Mariana]]. |
-| [[Escalus|ESCALO]] | Vado a visitare il prigioniero. State [[Well|bene]]. |
-| DUCA | La pace sia con voi. Esce [[Escalus|Escalo]]<br>O carica e [[Greatness|grandezza]], milioni di occhi falsi<br>sono confitti su di te; volumi di dicerie<br>corrono con la loro falsa e contrarissima [[Quest|caccia]]<br>sulle tue azioni; mille sortite d’ingegno<br>ti fanno padre del loro ozioso sogno,<br>e ti torturano nelle loro fantasie. |
+| [[Lucio\|LUCIO]] | Ebbene, [[Claudio]]? Donde viene questa costrizione?<br><br>B. 3.1.515-4.1.65<br>Prima della revisione non ci sarebbe stata interruzione d’atto né [[Song\|canzone]]; anche i versi immediatamente seguenti alla [[Song\|canzone]] sarebbero mancati. I soliloqui del Duca ‘Chi la [[Sword\|spada]] del cielo vorrà portare’ e ‘O carica e [[Greatness\|grandezza]]’ sono stati evidentemente trasposti nella revisione; nell’originale, la fine di ‘O carica e [[Greatness\|grandezza]]’ avrebbe condotto direttamente all’incontro del Duca con [[Isabella]] e poi con [[Mariana]]. |
+| [[Escalus\|ESCALO]] | Vado a visitare il prigioniero. State [[Well\|bene]]. |
+| DUCA | La pace sia con voi. Esce [[Escalus\|Escalo]]<br>O carica e [[Greatness\|grandezza]], milioni di occhi falsi<br>sono confitti su di te; volumi di dicerie<br>corrono con la loro falsa e contrarissima [[Quest\|caccia]]<br>sulle tue azioni; mille sortite d’ingegno<br>ti fanno padre del loro ozioso sogno,<br>e ti torturano nelle loro fantasie. |
 | *(didascalia)* | Entra [[Isabella]] |
-| DUCA | Molto [[Well|ben]] trovata.<br>Quali notizie da questo buon sostituto? |
-| [[Isabella|ISABELLA]] | Ha un [[Garden|giardino]] tutto murato di mattoni,<br>il cui lato occidentale è fiancheggiato da una vigna;<br>e a quella vigna è un cancello di tavole,<br>che si apre con questa chiave più grande.<br>Quest’altra comanda una porticina<br>che dalla vigna conduce al [[Garden|giardino]].<br>Là ho fatto la mia promessa<br>sulla greve mezzeria della [[Night|notte]]<br>di venire da lui. |
+| DUCA | Molto [[Well\|ben]] trovata.<br>Quali notizie da questo buon sostituto? |
+| [[Isabella\|ISABELLA]] | Ha un [[Garden\|giardino]] tutto murato di mattoni,<br>il cui lato occidentale è fiancheggiato da una vigna;<br>e a quella vigna è un cancello di tavole,<br>che si apre con questa chiave più grande.<br>Quest’altra comanda una porticina<br>che dalla vigna conduce al [[Garden\|giardino]].<br>Là ho fatto la mia promessa<br>sulla greve mezzeria della [[Night\|notte]]<br>di venire da lui. |
 | DUCA | Ma saprete voi con sicurezza trovare questa via? |
-| [[Isabella|ISABELLA]] | Ne ho preso debita e guardinga nota.<br>Con sussurri e diligenza colpevolissima,<br>tutto in atto di precetto, egli mi mostrò<br>due volte la strada. |
-| DUCA | Non ci sono altri segni<br>[[Greed|convenuti]] fra voi circa il modo di comportarsi di lei? |
-| [[Isabella|ISABELLA]] | No, nessuno, se non solo un venire al buio,<br>e che l’ho ben persuaso che la mia sosta<br>non può essere che breve, ché gli ho fatto sapere<br>ch’io ho un servo che viene con me<br>e mi aspetta, la cui [[Persuasion|persuasione]] è<br>che io venga per mio fratello. |
-| DUCA | È [[Well|ben]] condotta.<br>Non ho ancora fatto sapere a [[Mariana]]<br>una parola di questo.—Ehi là, dentro! Venite fuori! |
+| [[Isabella\|ISABELLA]] | Ne ho preso debita e guardinga nota.<br>Con sussurri e diligenza colpevolissima,<br>tutto in atto di precetto, egli mi mostrò<br>due volte la strada. |
+| DUCA | Non ci sono altri segni<br>[[Greed\|convenuti]] fra voi circa il modo di comportarsi di lei? |
+| [[Isabella\|ISABELLA]] | No, nessuno, se non solo un venire al buio,<br>e che l’ho ben persuaso che la mia sosta<br>non può essere che breve, ché gli ho fatto sapere<br>ch’io ho un servo che viene con me<br>e mi aspetta, la cui [[Persuasion\|persuasione]] è<br>che io venga per mio fratello. |
+| DUCA | È [[Well\|ben]] condotta.<br>Non ho ancora fatto sapere a [[Mariana]]<br>una parola di questo.—Ehi là, dentro! Venite fuori! |
 | *(didascalia)* | Entra [[Mariana]] |
 | DUCA | (A [[Mariana]]) Vi prego, fate conoscenza con questa fanciulla.<br>Viene a farvi del bene. |
-| [[Isabella|ISABELLA]] | Io [[Desire|desidero]] altrettanto. |
+| [[Isabella\|ISABELLA]] | Io [[Desire\|desidero]] altrettanto. |
 | DUCA | (a [[Mariana]])<br>Vi persuadete voi ch’io abbia riguardo per voi? |
-| [[Mariana|MARIANA]] | Buon frate, so che l’avete, e così l’ho trovato. |
-| DUCA | Prendete dunque per mano questa vostra compagna,<br>che ha una storia pronta per il vostro orecchio.<br>Attenderò il vostro comodo; ma fate presto,<br>la vaporosa [[Night|notte]] s’avvicina. |
-| [[Mariana|MARIANA]] | Vi piace venire in disparte. |
+| [[Mariana\|MARIANA]] | Buon frate, so che l’avete, e così l’ho trovato. |
+| DUCA | Prendete dunque per mano questa vostra compagna,<br>che ha una storia pronta per il vostro orecchio.<br>Attenderò il vostro comodo; ma fate presto,<br>la vaporosa [[Night\|notte]] s’avvicina. |
+| [[Mariana\|MARIANA]] | Vi piace venire in disparte. |
 | *(didascalia)* | Escono [[Mariana]] e [[Isabella]] |
-| DUCA | Chi la [[Sword|spada]] del cielo vorrà portare<br>santo dev’essere quanto severo,<br>modello in sé per conoscere,<br>grazia per stare, e virtù per andare,<br>né più né meno agli altri pagando<br>di quanto pesano le colpe di [[Self|sé]].<br>Vergogna a colui che col crudele colpire<br>uccide per colpe di suo gradire!<br>Due volte tripla vergogna su [[Angelo]],<br>che sarchia il mio vizio e lascia crescere il suo!<br>Oh, che può l’uomo nascondere in sé,<br>pur angelo dalla parte di fuori!<br>Come può la somiglianza fatta di delitti<br>far sì che il mio artificio sui tempi<br>tragga con oziosi fili di ragno<br>le cose più ponderose e sostanziali?<br>Astuzia contro vizio devo applicare.<br>Con [[Angelo]] stanotte giacerà<br>la sua antica promessa ma disprezzata.<br>Così il travestimento, per mezzo della travestita,<br>pagherà con falsità la falsa esazione,<br>e compirà un vecchio contratto. |
+| DUCA | Chi la [[Sword\|spada]] del cielo vorrà portare<br>santo dev’essere quanto severo,<br>modello in sé per conoscere,<br>grazia per stare, e virtù per andare,<br>né più né meno agli altri pagando<br>di quanto pesano le colpe di [[Self\|sé]].<br>Vergogna a colui che col crudele colpire<br>uccide per colpe di suo gradire!<br>Due volte tripla vergogna su [[Angelo]],<br>che sarchia il mio vizio e lascia crescere il suo!<br>Oh, che può l’uomo nascondere in sé,<br>pur angelo dalla parte di fuori!<br>Come può la somiglianza fatta di delitti<br>far sì che il mio artificio sui tempi<br>tragga con oziosi fili di ragno<br>le cose più ponderose e sostanziali?<br>Astuzia contro vizio devo applicare.<br>Con [[Angelo]] stanotte giacerà<br>la sua antica promessa ma disprezzata.<br>Così il travestimento, per mezzo della travestita,<br>pagherà con falsità la falsa esazione,<br>e compirà un vecchio contratto. |
 | *(didascalia)* | Entrano |
 | DUCA | [[Mariana]] |
 | *(didascalia)* | e [[Isabella]] |
 | DUCA | Benvenute. Come vi siete accordate? |
-| [[Isabella|ISABELLA]] | Prenderà su di sé l’impresa, padre,<br>se voi lo consigliate. |
+| [[Isabella\|ISABELLA]] | Prenderà su di sé l’impresa, padre,<br>se voi lo consigliate. |

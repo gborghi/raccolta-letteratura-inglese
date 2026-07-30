@@ -1525,78 +1525,78 @@ Bartholomew sits
 | Chi parla | Battuta |
 |---|---|
 | *(didascalia)* | Squillo di trombe. Entrano [[Lucentio]] e il suo servo, [[Tranio]] |
-| [[Lucentio|LUCENTIO]] | [[Tranio]], poiché per il grande [[Desire|desiderio]] che avevo<br>di veder la bella Padova, vivaio delle arti,<br>son giunto alla feconda Lombardia,<br>l’ameno [[Garden|giardino]] della grande [[Italy|Italia]],<br>e per l’[[Love|amore]] e il permesso di mio padre son munito<br>del suo consenso e della tua buona compagnia,<br>mio fido servo, [[Well|ben]] provato in ogni cosa,<br>qui prendiamo fiato, e forse instauriamo<br>un corso di dottrina e d’ingegnosi studi.<br>Pisa, rinomata per i suoi [[Grave|gravi]] cittadini,<br>mi diede l’essere, e mio padre prima di me—<br>mercante di gran traffici per il mondo,<br>Vincenzio, disceso dai Bentivogli.<br>Al figlio di Vincenzio, cresciuto a Firenze,<br>si converrà rispondere a tutte le speranze concepite<br>e adornar la sua fortuna con virtuose azioni.<br>E però, [[Tranio]], per il [[Time|tempo]] che studierò,<br>alla virtù e a quella parte della [[philosophy|filosofia]]<br>mi applicherò che tratta della felicità<br>da conseguirsi in special modo per virtù.<br>Dimmi il tuo pensiero, ché ho lasciato Pisa<br>e a Padova son venuto come chi [[Leaves|lascia]]<br>una pozza bassa per tuffarsi nel profondo,<br>e con la sazietà cerca di spegner la sua sete. |
-| [[Tranio|TRANIO]] | Mi perdonate, gentile padron mio.<br>In tutto io sento come voi stesso,<br>lieto che così perseveriate nel proposito<br>di suggere i dolci frutti della dolce [[philosophy|filosofia]].<br>Solo, buon padrone, mentre ammiriamo<br>questa virtù e questa morale disciplina,<br>non siamo stoici né ceppi, ve ne prego,<br>né tanto devoti ai freni d’Aristotele<br>che Ovidio sia un reietto del tutto abiurato.<br>Fate a gara di [[logic|logica]] con le conoscenze che avete,<br>ed esercitate la retorica nel discorso comune. |
+| [[Lucentio\|LUCENTIO]] | [[Tranio]], poiché per il grande [[Desire\|desiderio]] che avevo<br>di veder la bella Padova, vivaio delle arti,<br>son giunto alla feconda Lombardia,<br>l’ameno [[Garden\|giardino]] della grande [[Italy\|Italia]],<br>e per l’[[Love\|amore]] e il permesso di mio padre son munito<br>del suo consenso e della tua buona compagnia,<br>mio fido servo, [[Well\|ben]] provato in ogni cosa,<br>qui prendiamo fiato, e forse instauriamo<br>un corso di dottrina e d’ingegnosi studi.<br>Pisa, rinomata per i suoi [[Grave\|gravi]] cittadini,<br>mi diede l’essere, e mio padre prima di me—<br>mercante di gran traffici per il mondo,<br>Vincenzio, disceso dai Bentivogli.<br>Al figlio di Vincenzio, cresciuto a Firenze,<br>si converrà rispondere a tutte le speranze concepite<br>e adornar la sua fortuna con virtuose azioni.<br>E però, [[Tranio]], per il [[Time\|tempo]] che studierò,<br>alla virtù e a quella parte della [[philosophy\|filosofia]]<br>mi applicherò che tratta della felicità<br>da conseguirsi in special modo per virtù.<br>Dimmi il tuo pensiero, ché ho lasciato Pisa<br>e a Padova son venuto come chi [[Leaves\|lascia]]<br>una pozza bassa per tuffarsi nel profondo,<br>e con la sazietà cerca di spegner la sua sete. |
+| [[Tranio\|TRANIO]] | Mi perdonate, gentile padron mio.<br>In tutto io sento come voi stesso,<br>lieto che così perseveriate nel proposito<br>di suggere i dolci frutti della dolce [[philosophy\|filosofia]].<br>Solo, buon padrone, mentre ammiriamo<br>questa virtù e questa morale disciplina,<br>non siamo stoici né ceppi, ve ne prego,<br>né tanto devoti ai freni d’Aristotele<br>che Ovidio sia un reietto del tutto abiurato.<br>Fate a gara di [[logic\|logica]] con le conoscenze che avete,<br>ed esercitate la retorica nel discorso comune. |
 | *(didascalia)* | Musica e poesia vi servano a ravvivarvi; |
-| [[Tranio|TRANIO]] | Alle matematiche e alla metafisica,<br>datevi come il vostro appetito v’assiste.<br>Nessun profitto cresce dove non si prende piacere.<br>In breve, signore, studiate ciò che più v’aggrada. |
-| [[Lucentio|LUCENTIO]] | Gran mercé, [[Tranio]], [[Well|bene]] tu consigli.<br>Se tu, Biondello, fossi sbarcato,<br>potremmo subito metterci in ordine<br>e prendere un alloggio atto a ricevere<br>quegli amici che il [[Time|tempo]] a Padova ci darà.<br>Ma aspetta un poco: che gente è questa? |
-| [[Tranio|TRANIO]] | Padrone, qualche spettacolo per darci il benvenuto in città. |
-| *(didascalia)* | Entra [[Baptista|Battista]] con le sue due figlie, Caterina e [[Bianca]]; Gremio, un pantalone; [[Hortensio|Ortensio]], pretendente di [[Bianca]]. [[Lucentio]] e [[Tranio]] stanno in disparte |
-| [[Baptista|BATTISTA]] | Signori, non m’importunate oltre,<br>ché sapete quanto io sia fermamente risoluto:<br>vale a dire, di non concedere la mia figlia minore<br>prima d’aver un marito per la maggiore.<br>Se l’uno di voi due [[Love|ama]] [[Katherina|Caterina]],<br>poiché vi conosco [[Well|bene]] e vi [[Love|amo]] [[Well|bene]],<br>licenza avrete di [[Court|corteggiarla]] a vostro piacere. |
-| GREMIO | Di carrettarla, piuttosto. È troppo ruvida per me.<br>Ecco, ecco, [[Hortensio|Ortensio]]. Ne volete una, di moglie? |
-| CATERINA | (a [[Baptista|Battista]])<br>Vi prego, signore, è vostro volere<br>far di me uno zimbello fra questi compari? |
-| [[Hortensio|ORTENSIO]] | «Compari», fanciulla? Che intendete con ciò? Nessun compare per<br>voi<br>se non foste d’una pasta più gentile e mite. |
-| CATERINA | In [[Faith|fede]] mia, signore, non avrete mai da [[Fear|temere]].<br>Certo non è a mezza strada dal suo cuore,<br>ma se lo fosse, non [[Doubt|dubitate]] che sua cura sarebbe<br>di pettinarvi la zucca con uno sgabello a tre gambe,<br>e dipingervi la faccia, e trattarvi da [[Fool|sciocco]]. |
-| [[Hortensio|ORTENSIO]] | Da tutti simili diavoli, buon Dio, liberaci. |
+| [[Tranio\|TRANIO]] | Alle matematiche e alla metafisica,<br>datevi come il vostro appetito v’assiste.<br>Nessun profitto cresce dove non si prende piacere.<br>In breve, signore, studiate ciò che più v’aggrada. |
+| [[Lucentio\|LUCENTIO]] | Gran mercé, [[Tranio]], [[Well\|bene]] tu consigli.<br>Se tu, Biondello, fossi sbarcato,<br>potremmo subito metterci in ordine<br>e prendere un alloggio atto a ricevere<br>quegli amici che il [[Time\|tempo]] a Padova ci darà.<br>Ma aspetta un poco: che gente è questa? |
+| [[Tranio\|TRANIO]] | Padrone, qualche spettacolo per darci il benvenuto in città. |
+| *(didascalia)* | Entra [[Baptista\|Battista]] con le sue due figlie, Caterina e [[Bianca]]; Gremio, un pantalone; [[Hortensio\|Ortensio]], pretendente di [[Bianca]]. [[Lucentio]] e [[Tranio]] stanno in disparte |
+| [[Baptista\|BATTISTA]] | Signori, non m’importunate oltre,<br>ché sapete quanto io sia fermamente risoluto:<br>vale a dire, di non concedere la mia figlia minore<br>prima d’aver un marito per la maggiore.<br>Se l’uno di voi due [[Love\|ama]] [[Katherina\|Caterina]],<br>poiché vi conosco [[Well\|bene]] e vi [[Love\|amo]] [[Well\|bene]],<br>licenza avrete di [[Court\|corteggiarla]] a vostro piacere. |
+| GREMIO | Di carrettarla, piuttosto. È troppo ruvida per me.<br>Ecco, ecco, [[Hortensio\|Ortensio]]. Ne volete una, di moglie? |
+| CATERINA | (a [[Baptista\|Battista]])<br>Vi prego, signore, è vostro volere<br>far di me uno zimbello fra questi compari? |
+| [[Hortensio\|ORTENSIO]] | «Compari», fanciulla? Che intendete con ciò? Nessun compare per<br>voi<br>se non foste d’una pasta più gentile e mite. |
+| CATERINA | In [[Faith\|fede]] mia, signore, non avrete mai da [[Fear\|temere]].<br>Certo non è a mezza strada dal suo cuore,<br>ma se lo fosse, non [[Doubt\|dubitate]] che sua cura sarebbe<br>di pettinarvi la zucca con uno sgabello a tre gambe,<br>e dipingervi la faccia, e trattarvi da [[Fool\|sciocco]]. |
+| [[Hortensio\|ORTENSIO]] | Da tutti simili diavoli, buon Dio, liberaci. |
 | GREMIO | E anche me, buon Dio. |
-| [[Tranio|TRANIO]] | (a parte, a [[Lucentio]])<br>Zitto, padrone, qui c’è un bel passatempo in vista.<br>Quella ragazza è pazza furiosa o mirabilmente bisbetica. |
-| [[Lucentio|LUCENTIO]] | (a parte, a [[Tranio]])<br>Ma nel [[Silence|silenzio]] dell’altra io scorgo<br>il mite contegno e la sobrietà d’una vergine.<br>Taci, [[Tranio]]. |
-| [[Tranio|TRANIO]] | (a parte, a [[Lucentio]])<br>[[Well|Ben]] detto, padrone. Muto, e guardate a sazietà. |
-| [[Baptista|BATTISTA]] | Signori, affinché io possa presto attenere<br>quel che ho detto—[[Bianca]], rientra in casa.<br>E non ti dispiaccia, buona [[Bianca]],<br>ché non t’[[Love|amerò]] per questo di meno, figlia mia. |
+| [[Tranio\|TRANIO]] | (a parte, a [[Lucentio]])<br>Zitto, padrone, qui c’è un bel passatempo in vista.<br>Quella ragazza è pazza furiosa o mirabilmente bisbetica. |
+| [[Lucentio\|LUCENTIO]] | (a parte, a [[Tranio]])<br>Ma nel [[Silence\|silenzio]] dell’altra io scorgo<br>il mite contegno e la sobrietà d’una vergine.<br>Taci, [[Tranio]]. |
+| [[Tranio\|TRANIO]] | (a parte, a [[Lucentio]])<br>[[Well\|Ben]] detto, padrone. Muto, e guardate a sazietà. |
+| [[Baptista\|BATTISTA]] | Signori, affinché io possa presto attenere<br>quel che ho detto—[[Bianca]], rientra in casa.<br>E non ti dispiaccia, buona [[Bianca]],<br>ché non t’[[Love\|amerò]] per questo di meno, figlia mia. |
 | CATERINA | Che bella cocca! Il meglio sarebbe<br>metterle il dito nell’occhio, sapesse perché. |
-| [[Bianca|BIANCA]] | Sorella, appagatevi del mio dispiacere.<br>(A [[Baptista|Battista]]) Signore, al vostro piacere umilmente sottoscrivo.<br>I miei libri e i miei strumenti saranno mia compagnia,<br>per contemplarli ed esercitarmi da sola. |
-| [[Lucentio|LUCENTIO]] | (a parte, a [[Tranio]])<br>Odi, [[Tranio]], puoi udire Minerva parlare. |
-| [[Hortensio|ORTENSIO]] | Signor [[Baptista|Battista]], sarete così scortese?<br>Mi duole che la nostra buona volontà produca<br>il dolore di [[Bianca]]. |
-| GREMIO | Perché volete rinchiuderla,<br>signor [[Baptista|Battista]], per questa furia d’inferno,<br>e farle scontar la penitenza della lingua di quell’altra? |
+| [[Bianca\|BIANCA]] | Sorella, appagatevi del mio dispiacere.<br>(A [[Baptista\|Battista]]) Signore, al vostro piacere umilmente sottoscrivo.<br>I miei libri e i miei strumenti saranno mia compagnia,<br>per contemplarli ed esercitarmi da sola. |
+| [[Lucentio\|LUCENTIO]] | (a parte, a [[Tranio]])<br>Odi, [[Tranio]], puoi udire Minerva parlare. |
+| [[Hortensio\|ORTENSIO]] | Signor [[Baptista\|Battista]], sarete così scortese?<br>Mi duole che la nostra buona volontà produca<br>il dolore di [[Bianca]]. |
+| GREMIO | Perché volete rinchiuderla,<br>signor [[Baptista\|Battista]], per questa furia d’inferno,<br>e farle scontar la penitenza della lingua di quell’altra? |
 | BAPTIST | Signori, acquietatevi. Son risoluto.<br>Entra, [[Bianca]]. |
 | *(didascalia)* | Esce [[Bianca]] |
-| BAPTIST | E poiché so ch’ella prende sommo diletto<br>nella musica, negli strumenti e nella poesia,<br>terrò maestri dentro la mia [[house|casa]]<br>atti a istruir la sua giovinezza. Se voi, [[Hortensio|Ortensio]],<br>o voi, signor Gremio, ne conoscete alcuno,<br>indirizzatelo qua; ché verso gli uomini dotti<br>sarò assai cortese, e liberale<br>coi miei propri figli in buona educazione.<br>E così addio. [[Katherina|Caterina]], voi potete restare,<br>ché ho altro da conferire con [[Bianca]]. |
+| BAPTIST | E poiché so ch’ella prende sommo diletto<br>nella musica, negli strumenti e nella poesia,<br>terrò maestri dentro la mia [[house\|casa]]<br>atti a istruir la sua giovinezza. Se voi, [[Hortensio\|Ortensio]],<br>o voi, signor Gremio, ne conoscete alcuno,<br>indirizzatelo qua; ché verso gli uomini dotti<br>sarò assai cortese, e liberale<br>coi miei propri figli in buona educazione.<br>E così addio. [[Katherina\|Caterina]], voi potete restare,<br>ché ho altro da conferire con [[Bianca]]. |
 | *(didascalia)* | Esce |
 | CATERINA | Come, e spero di potermene andare anch’io, o no? Che, mi si fisseranno le ore, quasi ch’io non sapessi che cosa prendere e che cosa lasciare? Ah! |
 | *(didascalia)* | Esce |
-| GREMIO | Potete andarvene dalla madre del diavolo. Le vostre doti son così buone che nessuno qui vi tratterrà. Il loro [[Love|amore]] non è così grande, [[Hortensio|Ortensio]], che non possiamo soffiarci le unghie insieme e digiunare pazientemente. La nostra focaccia è cruda da entrambi i lati. Addio. Pure, per l’[[Love|amore]] che porto alla mia dolce [[Bianca]], se in qualche modo potrò imbattermi in un uomo adatto a insegnarle ciò in cui si diletta, lo raccomanderò a suo padre. |
-| [[Hortensio|ORTENSIO]] | Anch’io, signor Gremio. Ma una parola, vi prego. Benché la [[Nature|natura]] della nostra contesa non abbia finora tollerato parlamenti, sappiate ora, a ben pensarci, che tocca a entrambi—perché possiamo ancora aver accesso alla nostra bella signora ed essere felici rivali nell’[[Love|amore]] di [[Bianca]]—adoperarci e condurre a effetto una cosa in special modo. |
+| GREMIO | Potete andarvene dalla madre del diavolo. Le vostre doti son così buone che nessuno qui vi tratterrà. Il loro [[Love\|amore]] non è così grande, [[Hortensio\|Ortensio]], che non possiamo soffiarci le unghie insieme e digiunare pazientemente. La nostra focaccia è cruda da entrambi i lati. Addio. Pure, per l’[[Love\|amore]] che porto alla mia dolce [[Bianca]], se in qualche modo potrò imbattermi in un uomo adatto a insegnarle ciò in cui si diletta, lo raccomanderò a suo padre. |
+| [[Hortensio\|ORTENSIO]] | Anch’io, signor Gremio. Ma una parola, vi prego. Benché la [[Nature\|natura]] della nostra contesa non abbia finora tollerato parlamenti, sappiate ora, a ben pensarci, che tocca a entrambi—perché possiamo ancora aver accesso alla nostra bella signora ed essere felici rivali nell’[[Love\|amore]] di [[Bianca]]—adoperarci e condurre a effetto una cosa in special modo. |
 | GREMIO | E quale, di grazia? |
-| [[Hortensio|ORTENSIO]] | Perbacco, signore, procurare un marito a sua sorella. |
+| [[Hortensio\|ORTENSIO]] | Perbacco, signore, procurare un marito a sua sorella. |
 | GREMIO | Un marito?—un diavolo! |
-| [[Hortensio|ORTENSIO]] | Io dico un marito. |
-| GREMIO | Io dico un diavolo. Credi tu, [[Hortensio|Ortensio]], per quanto suo padre sia ricchissimo, che alcun uomo sia tanto [[Fool|sciocco]] da sposarsi all’inferno? |
-| [[Hortensio|ORTENSIO]] | Via, Gremio. Benché superi la vostra e la mia pazienza sopportare i suoi strepiti, ebbene, amico, vi son buoni compagni al mondo, se uno potesse imbattervisi, che la prenderebbero con tutti i suoi difetti, e denaro a sufficienza. |
-| GREMIO | Non saprei, ma prenderei altrettanto volentieri la sua dote a questa condizione: d’esser frustato all’alta [[Cross|croce]] ogni mattina. |
-| [[Hortensio|ORTENSIO]] | In [[Faith|fede]], come dite, poca scelta c’è fra mele marce. Ma via, poiché questo impedimento di legge ci fa amici, sia mantenuta amicizia fin tanto che, aiutando la figlia maggiore di [[Baptista|Battista]] a trovar marito, non liberiamo la minore per un marito, e poi daccapo. Dolce [[Bianca]]! Fortunato l’uomo cui tocchi tal sorte. Chi corre più veloce prende l’anello. Che ne dite, signor Gremio? |
-| GREMIO | Son d’accordo, e vorrei avergli dato il miglior [[Horse|cavallo]] di Padova per cominciare il suo corteggiamento, a chi la corteggiasse a fondo, la sposasse, se la portasse a letto, e sbarazzasse la [[house|casa]] di lei. Andiamo. |
-| *(didascalia)* | Escono [[Hortensio|Ortensio]] e Gremio. Restano [[Tranio]] e [[Lucentio]] |
-| [[Tranio|TRANIO]] | Vi prego, signore, ditemi: è possibile<br>che l’[[Love|amore]] prenda a un tratto tal presa? |
-| [[Lucentio|LUCENTIO]] | O [[Tranio]], finché non l’ho trovato vero<br>mai lo credetti possibile né verosimile.<br>Ma vedi: mentre oziosamente stavo a guardare<br>ho trovato l’effetto dell’[[Love|amore]] nell’ozio,<br>e ora schiettamente ti confesso,<br>a te che mi sei segreto e caro<br>quanto Anna fu alla [[Queen|Regina]] di Cartagine,<br>[[Tranio]], io ardo, mi struggo, perisco, [[Tranio]],<br>s’io non conquisto questa giovane e modesta fanciulla.<br>Consigliami, [[Tranio]], ché so che puoi.<br>Assistimi, [[Tranio]], ché so che vorrai. |
-| [[Tranio|TRANIO]] | Padrone, non è [[Time|tempo]] ora di sgridarvi.<br>L’affetto non si scaccia dal cuore a rimproveri.<br>Se l’[[Love|amore]] v’ha toccato, altro non resta che questo—<br>Redime te captum quam queas minimo. |
-| [[Lucentio|LUCENTIO]] | Gran mercé, ragazzo. Prosegui, questo m’appaga.<br>Il resto conforterà, ché il tuo consiglio è saldo. |
-| [[Tranio|TRANIO]] | Padrone, tanto a lungo guardaste la fanciulla<br>che forse non notaste il nocciolo di tutto. |
-| [[Lucentio|LUCENTIO]] | Oh sì, vidi dolce [[Beauty|bellezza]] nel suo volto,<br>tale quale l’ebbe la figlia d’Agenore,<br>che fece il gran Giove umiliarsi alla sua mano<br>quando con le ginocchia baciò la spiaggia cretese. |
-| [[Tranio|TRANIO]] | Non vedeste altro? Non notaste come sua sorella<br>prese a sgridare e a levare tal [[Storm|tempesta]]<br>che orecchie mortali a stento ne reggevano il frastuono? |
-| [[Lucentio|LUCENTIO]] | [[Tranio]], vidi muoversi le sue labbra di corallo,<br>e col suo fiato profumava l’aria.<br>Sacro e dolce fu tutto ciò che vidi in lei. |
-| [[Tranio|TRANIO]] | (a parte)<br>Suvvia, è [[Time|tempo]] di scuoterlo dal suo rapimento.<br>(A [[Lucentio]]) Vi prego, destatevi, signore. Se [[Love|amate]] la fanciulla,<br>volgete pensieri e ingegno a conquistarla. La cosa<br>sta così:<br>la sua sorella maggiore è tanto acida e bisbetica<br>che finché il padre non se ne sia sbarazzato,<br>padrone, il vostro [[Love|amore]] dovrà viver vergine in [[Home|casa]],<br>e però l’ha strettamente rinchiusa<br>perché non sia molestata dai pretendenti. |
-| [[Lucentio|LUCENTIO]] | Ah, [[Tranio]], che padre crudele è costui!<br>Ma non hai udito ch’ei si diede qualche pensiero<br>di procurarle esperti maestri per istruirla? |
-| [[Tranio|TRANIO]] | Sì, perbacco, signore, e ora il piano è ordito. |
-| [[Lucentio|LUCENTIO]] | L’ho trovato, [[Tranio]]. |
-| [[Tranio|TRANIO]] | Padrone, ci scommetto la mano,<br>le nostre due trovate s’incontrano e coincidono in una. |
-| [[Lucentio|LUCENTIO]] | Dimmi prima la tua. |
-| [[Tranio|TRANIO]] | Voi sarete il maestro<br>e v’assumerete l’insegnamento della fanciulla.<br>Questo è il vostro disegno. |
-| [[Lucentio|LUCENTIO]] | È così. Si può fare? |
-| [[Tranio|TRANIO]] | Non è possibile; ché chi sosterrà la vostra parte,<br>ed essere qui in Padova il figlio di Vincenzio,<br>tener [[house|casa]], attendere ai libri, accogliere gli amici,<br>visitare i compatrioti e banchettarli? |
-| [[Lucentio|LUCENTIO]] | Basta, acquietati, ché ho tutto in mente.<br>Non siamo stati ancor visti in alcuna [[house|casa]],<br>né si può distinguerci dai volti<br>chi sia servo e chi padrone. Dunque ne segue:<br>tu sarai il padrone, [[Tranio]], in vece mia;<br>terrai [[house|casa]], e stato, e servi, come io dovrei.<br>Io sarò qualcun altro, un fiorentino,<br>un napoletano, o un uomo più umile di Pisa.<br>È covata, e così sarà. [[Tranio]], subito<br>spogliati. Prendi il mio cappello colorato e il mantello.<br>Quando verrà Biondello servirà te,<br>ma prima lo incanterò perché tenga a freno la lingua. |
-| [[Tranio|TRANIO]] | Ne avreste ben bisogno.<br>[Si<br>scambiano<br>le vesti]<br>In breve, signore, poiché tale è il vostro piacere,<br>e io son tenuto a obbedire—<br>ché così m’ingiunse vostro padre alla partenza,<br>«Sii di servizio a mio figlio», disse egli,<br>benché io creda fosse in altro senso—<br>son contento d’essere [[Lucentio]]<br>perché tanto [[Well|bene]] io [[Love|amo]] [[Lucentio]]. |
-| [[Lucentio|LUCENTIO]] | [[Tranio]], siilo, perché [[Lucentio]] ama,<br>e lascia ch’io sia schiavo per conquistar quella fanciulla<br>la cui vista improvvisa ha soggiogato il mio occhio ferito. |
+| [[Hortensio\|ORTENSIO]] | Io dico un marito. |
+| GREMIO | Io dico un diavolo. Credi tu, [[Hortensio\|Ortensio]], per quanto suo padre sia ricchissimo, che alcun uomo sia tanto [[Fool\|sciocco]] da sposarsi all’inferno? |
+| [[Hortensio\|ORTENSIO]] | Via, Gremio. Benché superi la vostra e la mia pazienza sopportare i suoi strepiti, ebbene, amico, vi son buoni compagni al mondo, se uno potesse imbattervisi, che la prenderebbero con tutti i suoi difetti, e denaro a sufficienza. |
+| GREMIO | Non saprei, ma prenderei altrettanto volentieri la sua dote a questa condizione: d’esser frustato all’alta [[Cross\|croce]] ogni mattina. |
+| [[Hortensio\|ORTENSIO]] | In [[Faith\|fede]], come dite, poca scelta c’è fra mele marce. Ma via, poiché questo impedimento di legge ci fa amici, sia mantenuta amicizia fin tanto che, aiutando la figlia maggiore di [[Baptista\|Battista]] a trovar marito, non liberiamo la minore per un marito, e poi daccapo. Dolce [[Bianca]]! Fortunato l’uomo cui tocchi tal sorte. Chi corre più veloce prende l’anello. Che ne dite, signor Gremio? |
+| GREMIO | Son d’accordo, e vorrei avergli dato il miglior [[Horse\|cavallo]] di Padova per cominciare il suo corteggiamento, a chi la corteggiasse a fondo, la sposasse, se la portasse a letto, e sbarazzasse la [[house\|casa]] di lei. Andiamo. |
+| *(didascalia)* | Escono [[Hortensio\|Ortensio]] e Gremio. Restano [[Tranio]] e [[Lucentio]] |
+| [[Tranio\|TRANIO]] | Vi prego, signore, ditemi: è possibile<br>che l’[[Love\|amore]] prenda a un tratto tal presa? |
+| [[Lucentio\|LUCENTIO]] | O [[Tranio]], finché non l’ho trovato vero<br>mai lo credetti possibile né verosimile.<br>Ma vedi: mentre oziosamente stavo a guardare<br>ho trovato l’effetto dell’[[Love\|amore]] nell’ozio,<br>e ora schiettamente ti confesso,<br>a te che mi sei segreto e caro<br>quanto Anna fu alla [[Queen\|Regina]] di Cartagine,<br>[[Tranio]], io ardo, mi struggo, perisco, [[Tranio]],<br>s’io non conquisto questa giovane e modesta fanciulla.<br>Consigliami, [[Tranio]], ché so che puoi.<br>Assistimi, [[Tranio]], ché so che vorrai. |
+| [[Tranio\|TRANIO]] | Padrone, non è [[Time\|tempo]] ora di sgridarvi.<br>L’affetto non si scaccia dal cuore a rimproveri.<br>Se l’[[Love\|amore]] v’ha toccato, altro non resta che questo—<br>Redime te captum quam queas minimo. |
+| [[Lucentio\|LUCENTIO]] | Gran mercé, ragazzo. Prosegui, questo m’appaga.<br>Il resto conforterà, ché il tuo consiglio è saldo. |
+| [[Tranio\|TRANIO]] | Padrone, tanto a lungo guardaste la fanciulla<br>che forse non notaste il nocciolo di tutto. |
+| [[Lucentio\|LUCENTIO]] | Oh sì, vidi dolce [[Beauty\|bellezza]] nel suo volto,<br>tale quale l’ebbe la figlia d’Agenore,<br>che fece il gran Giove umiliarsi alla sua mano<br>quando con le ginocchia baciò la spiaggia cretese. |
+| [[Tranio\|TRANIO]] | Non vedeste altro? Non notaste come sua sorella<br>prese a sgridare e a levare tal [[Storm\|tempesta]]<br>che orecchie mortali a stento ne reggevano il frastuono? |
+| [[Lucentio\|LUCENTIO]] | [[Tranio]], vidi muoversi le sue labbra di corallo,<br>e col suo fiato profumava l’aria.<br>Sacro e dolce fu tutto ciò che vidi in lei. |
+| [[Tranio\|TRANIO]] | (a parte)<br>Suvvia, è [[Time\|tempo]] di scuoterlo dal suo rapimento.<br>(A [[Lucentio]]) Vi prego, destatevi, signore. Se [[Love\|amate]] la fanciulla,<br>volgete pensieri e ingegno a conquistarla. La cosa<br>sta così:<br>la sua sorella maggiore è tanto acida e bisbetica<br>che finché il padre non se ne sia sbarazzato,<br>padrone, il vostro [[Love\|amore]] dovrà viver vergine in [[Home\|casa]],<br>e però l’ha strettamente rinchiusa<br>perché non sia molestata dai pretendenti. |
+| [[Lucentio\|LUCENTIO]] | Ah, [[Tranio]], che padre crudele è costui!<br>Ma non hai udito ch’ei si diede qualche pensiero<br>di procurarle esperti maestri per istruirla? |
+| [[Tranio\|TRANIO]] | Sì, perbacco, signore, e ora il piano è ordito. |
+| [[Lucentio\|LUCENTIO]] | L’ho trovato, [[Tranio]]. |
+| [[Tranio\|TRANIO]] | Padrone, ci scommetto la mano,<br>le nostre due trovate s’incontrano e coincidono in una. |
+| [[Lucentio\|LUCENTIO]] | Dimmi prima la tua. |
+| [[Tranio\|TRANIO]] | Voi sarete il maestro<br>e v’assumerete l’insegnamento della fanciulla.<br>Questo è il vostro disegno. |
+| [[Lucentio\|LUCENTIO]] | È così. Si può fare? |
+| [[Tranio\|TRANIO]] | Non è possibile; ché chi sosterrà la vostra parte,<br>ed essere qui in Padova il figlio di Vincenzio,<br>tener [[house\|casa]], attendere ai libri, accogliere gli amici,<br>visitare i compatrioti e banchettarli? |
+| [[Lucentio\|LUCENTIO]] | Basta, acquietati, ché ho tutto in mente.<br>Non siamo stati ancor visti in alcuna [[house\|casa]],<br>né si può distinguerci dai volti<br>chi sia servo e chi padrone. Dunque ne segue:<br>tu sarai il padrone, [[Tranio]], in vece mia;<br>terrai [[house\|casa]], e stato, e servi, come io dovrei.<br>Io sarò qualcun altro, un fiorentino,<br>un napoletano, o un uomo più umile di Pisa.<br>È covata, e così sarà. [[Tranio]], subito<br>spogliati. Prendi il mio cappello colorato e il mantello.<br>Quando verrà Biondello servirà te,<br>ma prima lo incanterò perché tenga a freno la lingua. |
+| [[Tranio\|TRANIO]] | Ne avreste ben bisogno.<br>[Si<br>scambiano<br>le vesti]<br>In breve, signore, poiché tale è il vostro piacere,<br>e io son tenuto a obbedire—<br>ché così m’ingiunse vostro padre alla partenza,<br>«Sii di servizio a mio figlio», disse egli,<br>benché io creda fosse in altro senso—<br>son contento d’essere [[Lucentio]]<br>perché tanto [[Well\|bene]] io [[Love\|amo]] [[Lucentio]]. |
+| [[Lucentio\|LUCENTIO]] | [[Tranio]], siilo, perché [[Lucentio]] ama,<br>e lascia ch’io sia schiavo per conquistar quella fanciulla<br>la cui vista improvvisa ha soggiogato il mio occhio ferito. |
 | *(didascalia)* | Entra |
-| [[Lucentio|LUCENTIO]] | Biondello<br>Ecco che viene il briccone. Messere, dove siete stato? |
+| [[Lucentio\|LUCENTIO]] | Biondello<br>Ecco che viene il briccone. Messere, dove siete stato? |
 | BIONDELLO | Dove sono stato io? Ma come, e voi dove siete? Padrone, il mio compagno [[Tranio]] v’ha rubato le vesti, o voi le sue, o entrambi? Di grazia, che novità son queste? |
-| [[Lucentio|LUCENTIO]] | Messere, vieni qua. Non è [[Time|tempo]] di scherzare,<br>e però conforma i tuoi modi al [[Time|tempo]].<br>Il tuo compagno [[Tranio]] qui, per salvarmi la vita,<br>si mette il mio abito e il mio sembiante,<br>e io per fuggire ho indossato il suo,<br>ché in una rissa da quando son sbarcato<br>ho ucciso un uomo, e [[Fear|temo]] d’esser stato scorto.<br>Servi lui, te l’impongo, come si conviene,<br>mentr’io mi allontano di qui per salvar la vita.<br>Mi comprendi? |
+| [[Lucentio\|LUCENTIO]] | Messere, vieni qua. Non è [[Time\|tempo]] di scherzare,<br>e però conforma i tuoi modi al [[Time\|tempo]].<br>Il tuo compagno [[Tranio]] qui, per salvarmi la vita,<br>si mette il mio abito e il mio sembiante,<br>e io per fuggire ho indossato il suo,<br>ché in una rissa da quando son sbarcato<br>ho ucciso un uomo, e [[Fear\|temo]] d’esser stato scorto.<br>Servi lui, te l’impongo, come si conviene,<br>mentr’io mi allontano di qui per salvar la vita.<br>Mi comprendi? |
 | BIONDELLO | Io, signore? Neppure un briciolo. |
-| [[Lucentio|LUCENTIO]] | E non un’ombra di [[Tranio]] sulla tua bocca.<br>[[Tranio]] è mutato in [[Lucentio]]. |
+| [[Lucentio\|LUCENTIO]] | E non un’ombra di [[Tranio]] sulla tua bocca.<br>[[Tranio]] è mutato in [[Lucentio]]. |
 | BIONDELLO | Tanto meglio per lui. Vorrei esserlo anch’io. |
-| [[Tranio|TRANIO]] | Anch’io, in [[Faith|fede]], ragazzo, per avere il desiderio che vien poi—<br>che [[Lucentio]] avesse davvero la figlia minore<br>di [[Baptista|Battista]].<br>Ma, messere, non per me ma per il tuo padrone ti consiglio<br>d’usar discretamente i tuoi modi in ogni sorta<br>di compagnia.<br>Quando son [[Alone|solo]], ebbene, allora son [[Tranio]],<br>ma in ogni altro luogo il tuo padrone, [[Lucentio]]. |
-| [[Lucentio|LUCENTIO]] | [[Tranio]], andiamo.<br>Resta un’altra cosa che tu stesso eseguirai—<br>farti uno fra questi pretendenti. Se mi chiedi<br>perché,<br>basti che le mie ragioni son buone e gravi. |
+| [[Tranio\|TRANIO]] | Anch’io, in [[Faith\|fede]], ragazzo, per avere il desiderio che vien poi—<br>che [[Lucentio]] avesse davvero la figlia minore<br>di [[Baptista\|Battista]].<br>Ma, messere, non per me ma per il tuo padrone ti consiglio<br>d’usar discretamente i tuoi modi in ogni sorta<br>di compagnia.<br>Quando son [[Alone\|solo]], ebbene, allora son [[Tranio]],<br>ma in ogni altro luogo il tuo padrone, [[Lucentio]]. |
+| [[Lucentio\|LUCENTIO]] | [[Tranio]], andiamo.<br>Resta un’altra cosa che tu stesso eseguirai—<br>farti uno fra questi pretendenti. Se mi chiedi<br>perché,<br>basti che le mie ragioni son buone e gravi. |
 | *(didascalia)* | Escono |
-| [[Lucentio|LUCENTIO]] | I presentatori parlano dall’alto |
+| [[Lucentio\|LUCENTIO]] | I presentatori parlano dall’alto |
 | PRIMO SERVITORE | Mio signore, sonnecchiate. Non badate alla commedia. |
 | SLY | Sì che ci bado, per Sant’Anna. Buona roba, davvero. Ce n’è ancora? |
 | BARTHOLOMEW | Mio signore, è appena cominciata. |
@@ -1708,96 +1708,96 @@ Bartholomew sits
 | Chi parla | Battuta |
 |---|---|
 | *(didascalia)* | Entrano Petruccio e il suo servo, [[Grumio]] |
-| PETRUCCIO | [[Verona]], per un poco prendo congedo da te<br>per veder gli amici miei a Padova; ma fra tutti<br>il mio più diletto e provato amico<br>[[Hortensio|Ortensio]], e credo che questa sia la sua [[house|casa]].<br>Qua, messer [[Grumio]], bussa, ti dico. |
-| [[Grumio|GRUMIO]] | Bussare, signore? E chi dovrei bussare? C’è forse qualcuno che ha svilipeso vostra signoria? |
-| PETRUCCIO | [[Villain|Furfante]], dico, bussami qui di buona lena. |
-| [[Grumio|GRUMIO]] | Bussarvi qui, signore? Ma come, signore, chi son io, signore, da bussarvi qui, signore? |
-| PETRUCCIO | [[Villain|Furfante]], dico, bussami a questa porta,<br>e picchiami [[Well|bene]], o ti spacco la zucca da manigoldo. |
-| [[Grumio|GRUMIO]] | Il mio padrone è divenuto rissoso. Dovrei picchiar voi<br>per primo,<br>e poi so ben io chi ne avrebbe la peggio. |
-| PETRUCCIO | Non si fa dunque?<br>In [[Faith|fede]], messere, se non vuoi bussare, suonerò io.<br>Proverò come sai solfeggiare e cantarla.<br>Lo strapazza per le orecchie. [[[Grumio]] s’inginocchia] |
-| [[Grumio|GRUMIO]] | Aiuto, signori, aiuto! Il mio padrone è impazzito. |
-| PETRUCCIO | Ora bussa quando te lo comando, messer [[Villain|furfante]]. |
+| PETRUCCIO | [[Verona]], per un poco prendo congedo da te<br>per veder gli amici miei a Padova; ma fra tutti<br>il mio più diletto e provato amico<br>[[Hortensio\|Ortensio]], e credo che questa sia la sua [[house\|casa]].<br>Qua, messer [[Grumio]], bussa, ti dico. |
+| [[Grumio\|GRUMIO]] | Bussare, signore? E chi dovrei bussare? C’è forse qualcuno che ha svilipeso vostra signoria? |
+| PETRUCCIO | [[Villain\|Furfante]], dico, bussami qui di buona lena. |
+| [[Grumio\|GRUMIO]] | Bussarvi qui, signore? Ma come, signore, chi son io, signore, da bussarvi qui, signore? |
+| PETRUCCIO | [[Villain\|Furfante]], dico, bussami a questa porta,<br>e picchiami [[Well\|bene]], o ti spacco la zucca da manigoldo. |
+| [[Grumio\|GRUMIO]] | Il mio padrone è divenuto rissoso. Dovrei picchiar voi<br>per primo,<br>e poi so ben io chi ne avrebbe la peggio. |
+| PETRUCCIO | Non si fa dunque?<br>In [[Faith\|fede]], messere, se non vuoi bussare, suonerò io.<br>Proverò come sai solfeggiare e cantarla.<br>Lo strapazza per le orecchie. [[[Grumio]] s’inginocchia] |
+| [[Grumio\|GRUMIO]] | Aiuto, signori, aiuto! Il mio padrone è impazzito. |
+| PETRUCCIO | Ora bussa quando te lo comando, messer [[Villain\|furfante]]. |
 | *(didascalia)* | Entra |
-| PETRUCCIO | [[Hortensio|Ortensio]] |
-| [[Hortensio|ORTENSIO]] | Che c’è dunque, che accade? Il mio vecchio amico [[Grumio]] e il mio buon amico Petruccio? Come state tutti a [[Verona]]? |
-| PETRUCCIO | Signor [[Hortensio|Ortensio]], venite a separar la zuffa?<br>Con tutto il cuore ben trovato, posso dire. |
-| [[Hortensio|ORTENSIO]] | Alla nostra casa ben venuto, molto onorato signor mio Petruccio. Àlzati, [[Grumio]], àlzati. Comporremo questa lite.<br>[[Grumio]] si alza |
-| [[Grumio|GRUMIO]] | No, non importa, signore, quel ch’egli allega in latino. Se questa non è giusta causa perché io lasci il suo servizio—guardate, signore: mi ordinò di bussarlo e di batterlo di buona lena, signore. [[Well|Bene]], si conveniva che un servo trattasse così il suo padrone, che ha forse, per quel che vedo, trentadue anni e un punto di troppo? Volesse Dio che l’avessi [[Well|ben]] bussato per primo, ché allora [[Grumio]] non ne avrebbe avuto la peggio. |
-| PETRUCCIO | Un [[Villain|furfante]] senza cervello. Buon [[Hortensio|Ortensio]],<br>ordinai al furfante di bussare alla vostra porta,<br>e non riuscii per nulla al mondo a fargliela fare. |
-| [[Grumio|GRUMIO]] | Bussare alla porta? O cieli, non diceste chiare queste parole? «Messere, bussami qui, picchiami qui, bussami [[Well|bene]], e bussami di buona lena»? E ora mi venite fuori col bussare alla porta? |
+| PETRUCCIO | [[Hortensio\|Ortensio]] |
+| [[Hortensio\|ORTENSIO]] | Che c’è dunque, che accade? Il mio vecchio amico [[Grumio]] e il mio buon amico Petruccio? Come state tutti a [[Verona]]? |
+| PETRUCCIO | Signor [[Hortensio\|Ortensio]], venite a separar la zuffa?<br>Con tutto il cuore ben trovato, posso dire. |
+| [[Hortensio\|ORTENSIO]] | Alla nostra casa ben venuto, molto onorato signor mio Petruccio. Àlzati, [[Grumio]], àlzati. Comporremo questa lite.<br>[[Grumio]] si alza |
+| [[Grumio\|GRUMIO]] | No, non importa, signore, quel ch’egli allega in latino. Se questa non è giusta causa perché io lasci il suo servizio—guardate, signore: mi ordinò di bussarlo e di batterlo di buona lena, signore. [[Well\|Bene]], si conveniva che un servo trattasse così il suo padrone, che ha forse, per quel che vedo, trentadue anni e un punto di troppo? Volesse Dio che l’avessi [[Well\|ben]] bussato per primo, ché allora [[Grumio]] non ne avrebbe avuto la peggio. |
+| PETRUCCIO | Un [[Villain\|furfante]] senza cervello. Buon [[Hortensio\|Ortensio]],<br>ordinai al furfante di bussare alla vostra porta,<br>e non riuscii per nulla al mondo a fargliela fare. |
+| [[Grumio\|GRUMIO]] | Bussare alla porta? O cieli, non diceste chiare queste parole? «Messere, bussami qui, picchiami qui, bussami [[Well\|bene]], e bussami di buona lena»? E ora mi venite fuori col bussare alla porta? |
 | PETRUCCIO | Messere, vattene, o taci, te lo consiglio. |
-| [[Hortensio|ORTENSIO]] | Petruccio, pazienza. Son io garante di [[Grumio]].<br>Ma questo è un grave caso fra lui e voi,<br>il vostro antico, fido, piacevole servo [[Grumio]].<br>E ditemi ora, dolce amico, qual vento propizio<br>vi soffia qui a Padova dalla vecchia [[Verona]]? |
-| PETRUCCIO | Quel [[Wind|vento]] che disperde i giovani pel mondo<br>a cercar fortuna più lungi che a [[Home|casa]],<br>dove poca esperienza cresce. Ma in breve,<br>signor [[Hortensio|Ortensio]], così sta la cosa per me:<br>[[Antonio]], mio padre, è morto,<br>e io mi son cacciato in questo labirinto<br>per prender moglie e prosperare come meglio potrò.<br>Corone ho nella borsa, e beni a [[Home|casa]],<br>e così son venuto fuori a veder il mondo. |
-| [[Hortensio|ORTENSIO]] | Petruccio, debbo dunque venirti franco al punto<br>e proporti una moglie bisbetica e mal fatta?<br>Poco mi ringrazieresti del mio consiglio,<br>eppure ti prometto ch’ella sarà ricca,<br>e ricchissima. Ma tu mi sei troppo amico,<br>e non voglio proportela. |
-| PETRUCCIO | Signor [[Hortensio|Ortensio]], fra amici come noi<br>bastan poche parole; e però, se conosci<br>una tanto ricca da esser moglie di Petruccio—<br>ché la ricchezza è il ritornello della mia [[Dance|danza]] d’amore—<br>fosse ella brutta quanto l’[[Love|amore]] di Florenzio,<br>vecchia quanto la Sibilla, e acida e bisbetica<br>quanto Santippe di Socrate, o peggio,<br>ella non mi smuove—o almeno non mi smussa<br>il filo dell’affetto, fosse pur ruvida<br>quanto i gonfi mari dell’Adriatico.<br>Vengo a prender moglie riccamente in Padova;<br>se riccamente, allora felicemente in Padova. |
-| [[Grumio|GRUMIO]] | (a [[Hortensio|Ortensio]]) Ma guardate, signore, egli vi dice schietto qual è il suo pensiero. Ebbene, dategli oro a sufficienza e ammogliatelo con un fantoccio o con una bambolina da puntale, o con una vecchia befana senza un dente in bocca, avesse pur tante malattie quante ne hanno cinquantadue cavalli. Ebbene, nulla gli torna a male purché venga il denaro insieme. |
-| [[Hortensio|ORTENSIO]] | Petruccio, poiché ci siamo inoltrati tanto,<br>proseguirò ciò che avviai per scherzo.<br>Posso, Petruccio, procurarti una moglie<br>con ricchezza a bastanza, e giovane e bella,<br>allevata come meglio si conviene a gentildonna.<br>Il suo solo difetto—e quello vale per molti—<br>è ch’ella è intollerabilmente acida,<br>e bisbetica e ritrosa tanto oltre ogni misura<br>che, fosse il mio stato assai peggiore di quel ch’è,<br>non la sposerei per una miniera d’oro. |
-| PETRUCCIO | [[Hortensio|Ortensio]], taci. Non conosci l’effetto dell’oro.<br>Dimmi il nome di suo padre e tanto basta,<br>ché l’abborderò per quanto ella strilli forte<br>come il tuono quando le nubi d’[[Autumn|autunno]] si squarciano. |
-| [[Hortensio|ORTENSIO]] | Suo padre è [[Baptista|Battista]] Minola,<br>gentiluomo affabile e cortese.<br>Il suo nome è [[Katherina|Caterina]] Minola,<br>famosa in Padova per la sua lingua che sgrida. |
-| PETRUCCIO | Conosco suo padre, benché non conosca lei,<br>ed egli conobbe [[Well|bene]] il mio defunto padre.<br>Non [[Sleep|dormirò]], [[Hortensio|Ortensio]], finché non l’avrò veduta,<br>e però permettete ch’io sia tanto ardito<br>da lasciarvi a questo primo incontro,<br>se non vorrete accompagnarmi colà. |
-| [[Grumio|GRUMIO]] | Vi prego, signore, lasciatelo andare finché dura l’[[Humour|umore]]. Sulla mia parola, se ella lo conoscesse [[Well|bene]] come lo conosco io, penserebbe che lo sgridare gli gioverebbe ben poco. Potrà forse chiamarlo una diecina di volte manigoldo, o giù di lì. Ebbene, non è nulla; se lui comincia una volta, la investirà con le sue figure da capestro. Vi dico io, signore, se ella gli tien testa un poco soltanto, le scaglierà una figura in faccia e con quella la sfigurerà a tal punto ch’ella non avrà più occhi per vedere di quanti n’abbia un gatto. Voi non lo conoscete, signore. |
-| [[Hortensio|ORTENSIO]] | Fermati, Petruccio, debbo venir con te,<br>ché nella custodia di [[Baptista|Battista]] è il mio tesoro.<br>Egli tiene rinchiuso il [[Jewel|gioiello]] della mia vita,<br>la sua figlia minore, la bella [[Bianca]],<br>e la nega a me e ad altri ancora,<br>pretendenti di lei e rivali nel mio [[Love|amore]],<br>ritenendo cosa impossibile,<br>per quei difetti che ho poc’anzi elencati,<br>che mai [[Katherina|Caterina]] sia corteggiata.<br>Perciò quest’ordine ha dato [[Baptista|Battista]]:<br>che nessuno abbia accesso a [[Bianca]]<br>finché Caterina l’acida non abbia trovato marito. |
-| [[Grumio|GRUMIO]] | Caterina l’acida—<br>fra tutti i titoli, per una fanciulla il peggiore. |
-| [[Hortensio|ORTENSIO]] | Or dunque il mio amico Petruccio mi farà grazia,<br>e mi offrirà, travestito in vesti sobrie,<br>al vecchio [[Baptista|Battista]] come maestro<br>[[Well|ben]] esperto in musica, per istruire [[Bianca]],<br>sicché almeno con questo stratagemma<br>abbia licenza e agio di dichiararle il mio [[Love|amore]],<br>e insospettato [[Court|corteggiarla]] a tu per tu. |
+| [[Hortensio\|ORTENSIO]] | Petruccio, pazienza. Son io garante di [[Grumio]].<br>Ma questo è un grave caso fra lui e voi,<br>il vostro antico, fido, piacevole servo [[Grumio]].<br>E ditemi ora, dolce amico, qual vento propizio<br>vi soffia qui a Padova dalla vecchia [[Verona]]? |
+| PETRUCCIO | Quel [[Wind\|vento]] che disperde i giovani pel mondo<br>a cercar fortuna più lungi che a [[Home\|casa]],<br>dove poca esperienza cresce. Ma in breve,<br>signor [[Hortensio\|Ortensio]], così sta la cosa per me:<br>[[Antonio]], mio padre, è morto,<br>e io mi son cacciato in questo labirinto<br>per prender moglie e prosperare come meglio potrò.<br>Corone ho nella borsa, e beni a [[Home\|casa]],<br>e così son venuto fuori a veder il mondo. |
+| [[Hortensio\|ORTENSIO]] | Petruccio, debbo dunque venirti franco al punto<br>e proporti una moglie bisbetica e mal fatta?<br>Poco mi ringrazieresti del mio consiglio,<br>eppure ti prometto ch’ella sarà ricca,<br>e ricchissima. Ma tu mi sei troppo amico,<br>e non voglio proportela. |
+| PETRUCCIO | Signor [[Hortensio\|Ortensio]], fra amici come noi<br>bastan poche parole; e però, se conosci<br>una tanto ricca da esser moglie di Petruccio—<br>ché la ricchezza è il ritornello della mia [[Dance\|danza]] d’amore—<br>fosse ella brutta quanto l’[[Love\|amore]] di Florenzio,<br>vecchia quanto la Sibilla, e acida e bisbetica<br>quanto Santippe di Socrate, o peggio,<br>ella non mi smuove—o almeno non mi smussa<br>il filo dell’affetto, fosse pur ruvida<br>quanto i gonfi mari dell’Adriatico.<br>Vengo a prender moglie riccamente in Padova;<br>se riccamente, allora felicemente in Padova. |
+| [[Grumio\|GRUMIO]] | (a [[Hortensio\|Ortensio]]) Ma guardate, signore, egli vi dice schietto qual è il suo pensiero. Ebbene, dategli oro a sufficienza e ammogliatelo con un fantoccio o con una bambolina da puntale, o con una vecchia befana senza un dente in bocca, avesse pur tante malattie quante ne hanno cinquantadue cavalli. Ebbene, nulla gli torna a male purché venga il denaro insieme. |
+| [[Hortensio\|ORTENSIO]] | Petruccio, poiché ci siamo inoltrati tanto,<br>proseguirò ciò che avviai per scherzo.<br>Posso, Petruccio, procurarti una moglie<br>con ricchezza a bastanza, e giovane e bella,<br>allevata come meglio si conviene a gentildonna.<br>Il suo solo difetto—e quello vale per molti—<br>è ch’ella è intollerabilmente acida,<br>e bisbetica e ritrosa tanto oltre ogni misura<br>che, fosse il mio stato assai peggiore di quel ch’è,<br>non la sposerei per una miniera d’oro. |
+| PETRUCCIO | [[Hortensio\|Ortensio]], taci. Non conosci l’effetto dell’oro.<br>Dimmi il nome di suo padre e tanto basta,<br>ché l’abborderò per quanto ella strilli forte<br>come il tuono quando le nubi d’[[Autumn\|autunno]] si squarciano. |
+| [[Hortensio\|ORTENSIO]] | Suo padre è [[Baptista\|Battista]] Minola,<br>gentiluomo affabile e cortese.<br>Il suo nome è [[Katherina\|Caterina]] Minola,<br>famosa in Padova per la sua lingua che sgrida. |
+| PETRUCCIO | Conosco suo padre, benché non conosca lei,<br>ed egli conobbe [[Well\|bene]] il mio defunto padre.<br>Non [[Sleep\|dormirò]], [[Hortensio\|Ortensio]], finché non l’avrò veduta,<br>e però permettete ch’io sia tanto ardito<br>da lasciarvi a questo primo incontro,<br>se non vorrete accompagnarmi colà. |
+| [[Grumio\|GRUMIO]] | Vi prego, signore, lasciatelo andare finché dura l’[[Humour\|umore]]. Sulla mia parola, se ella lo conoscesse [[Well\|bene]] come lo conosco io, penserebbe che lo sgridare gli gioverebbe ben poco. Potrà forse chiamarlo una diecina di volte manigoldo, o giù di lì. Ebbene, non è nulla; se lui comincia una volta, la investirà con le sue figure da capestro. Vi dico io, signore, se ella gli tien testa un poco soltanto, le scaglierà una figura in faccia e con quella la sfigurerà a tal punto ch’ella non avrà più occhi per vedere di quanti n’abbia un gatto. Voi non lo conoscete, signore. |
+| [[Hortensio\|ORTENSIO]] | Fermati, Petruccio, debbo venir con te,<br>ché nella custodia di [[Baptista\|Battista]] è il mio tesoro.<br>Egli tiene rinchiuso il [[Jewel\|gioiello]] della mia vita,<br>la sua figlia minore, la bella [[Bianca]],<br>e la nega a me e ad altri ancora,<br>pretendenti di lei e rivali nel mio [[Love\|amore]],<br>ritenendo cosa impossibile,<br>per quei difetti che ho poc’anzi elencati,<br>che mai [[Katherina\|Caterina]] sia corteggiata.<br>Perciò quest’ordine ha dato [[Baptista\|Battista]]:<br>che nessuno abbia accesso a [[Bianca]]<br>finché Caterina l’acida non abbia trovato marito. |
+| [[Grumio\|GRUMIO]] | Caterina l’acida—<br>fra tutti i titoli, per una fanciulla il peggiore. |
+| [[Hortensio\|ORTENSIO]] | Or dunque il mio amico Petruccio mi farà grazia,<br>e mi offrirà, travestito in vesti sobrie,<br>al vecchio [[Baptista\|Battista]] come maestro<br>[[Well\|ben]] esperto in musica, per istruire [[Bianca]],<br>sicché almeno con questo stratagemma<br>abbia licenza e agio di dichiararle il mio [[Love\|amore]],<br>e insospettato [[Court\|corteggiarla]] a tu per tu. |
 | *(didascalia)* | Entrano Gremio con un foglio, e [[Lucentio]] travestito da maestro |
-| [[Grumio|GRUMIO]] | Qui non c’è mica furfanteria! Guardate, per ingannare i vecchi, come i giovani mettono insieme le teste. Padrone, padrone, guardatevi attorno. Chi va là, eh? |
-| [[Hortensio|ORTENSIO]] | Zitto, [[Grumio]], è il rivale del mio [[Love|amore]].<br>Petruccio, statevene in disparte un poco. |
-| [[Grumio|GRUMIO]] | Un bel garzoncello, e innamorato per giunta!<br>Petruccio, [[Hortensio|Ortensio]] e [[Grumio]] si tirano da parte |
-| GREMIO | (a [[Lucentio]])<br>Oh, molto [[Well|bene]]—ho esaminato la nota.<br>Udite, signore, li voglio rilegati assai finemente—<br>tutti libri d’[[Love|amore]], badateci in ogni modo—<br>e badate di non leggerle altre lezioni.<br>Mi comprendete. Oltre e in più<br>della liberalità del signor [[Baptista|Battista]],<br>vi aggiungerò una mancia. Prendete anche la vostra carta,<br>e fatemeli profumare [[Well|ben]] bene,<br>ché più dolce del profumo stesso è colei<br>a cui vanno. Che le leggerete? |
-| [[Lucentio|LUCENTIO]] | Qualunque cosa io le legga, perorerò per voi<br>come per il mio patrono, statene pur certo,<br>con la stessa fermezza che se voi foste presente—<br>anzi, e forse con parole più efficaci<br>delle vostre, a meno che non foste un dotto, signore. |
+| [[Grumio\|GRUMIO]] | Qui non c’è mica furfanteria! Guardate, per ingannare i vecchi, come i giovani mettono insieme le teste. Padrone, padrone, guardatevi attorno. Chi va là, eh? |
+| [[Hortensio\|ORTENSIO]] | Zitto, [[Grumio]], è il rivale del mio [[Love\|amore]].<br>Petruccio, statevene in disparte un poco. |
+| [[Grumio\|GRUMIO]] | Un bel garzoncello, e innamorato per giunta!<br>Petruccio, [[Hortensio\|Ortensio]] e [[Grumio]] si tirano da parte |
+| GREMIO | (a [[Lucentio]])<br>Oh, molto [[Well\|bene]]—ho esaminato la nota.<br>Udite, signore, li voglio rilegati assai finemente—<br>tutti libri d’[[Love\|amore]], badateci in ogni modo—<br>e badate di non leggerle altre lezioni.<br>Mi comprendete. Oltre e in più<br>della liberalità del signor [[Baptista\|Battista]],<br>vi aggiungerò una mancia. Prendete anche la vostra carta,<br>e fatemeli profumare [[Well\|ben]] bene,<br>ché più dolce del profumo stesso è colei<br>a cui vanno. Che le leggerete? |
+| [[Lucentio\|LUCENTIO]] | Qualunque cosa io le legga, perorerò per voi<br>come per il mio patrono, statene pur certo,<br>con la stessa fermezza che se voi foste presente—<br>anzi, e forse con parole più efficaci<br>delle vostre, a meno che non foste un dotto, signore. |
 | GREMIO | Oh questa dottrina, che gran cosa è mai! |
-| [[Grumio|GRUMIO]] | (a parte)<br>Oh questa beccaccia, che gran asino è mai! |
+| [[Grumio\|GRUMIO]] | (a parte)<br>Oh questa beccaccia, che gran asino è mai! |
 | PETRUCCIO | Zitto, messere. |
-| [[Hortensio|ORTENSIO]] | [[Grumio]], muto. (Facendosi avanti) Dio vi salvi, signor Gremio. |
-| GREMIO | E voi siate il [[Well|ben]] trovato, signor [[Hortensio|Ortensio]].<br>Indovinate dove sto andando?<br>Da [[Baptista|Battista]] Minola.<br>Promisi d’informarmi con cura<br>d’un maestro per la bella [[Bianca]],<br>e per buona fortuna mi son [[Well|bene]] imbattuto<br>in questo giovane, che per dottrina e contegno<br>fa al caso suo, [[Well|ben]] versato in poesia<br>e in altri libri—buoni, ve lo garantisco. |
-| [[Hortensio|ORTENSIO]] | Sta [[Well|bene]], e io ho incontrato un gentiluomo<br>che m’ha promesso di procurarmene un altro,<br>un fine musicista, per istruire la nostra signora.<br>Così non resterò punto indietro nel dovere<br>verso la bella [[Bianca]], da me tanto amata. |
+| [[Hortensio\|ORTENSIO]] | [[Grumio]], muto. (Facendosi avanti) Dio vi salvi, signor Gremio. |
+| GREMIO | E voi siate il [[Well\|ben]] trovato, signor [[Hortensio\|Ortensio]].<br>Indovinate dove sto andando?<br>Da [[Baptista\|Battista]] Minola.<br>Promisi d’informarmi con cura<br>d’un maestro per la bella [[Bianca]],<br>e per buona fortuna mi son [[Well\|bene]] imbattuto<br>in questo giovane, che per dottrina e contegno<br>fa al caso suo, [[Well\|ben]] versato in poesia<br>e in altri libri—buoni, ve lo garantisco. |
+| [[Hortensio\|ORTENSIO]] | Sta [[Well\|bene]], e io ho incontrato un gentiluomo<br>che m’ha promesso di procurarmene un altro,<br>un fine musicista, per istruire la nostra signora.<br>Così non resterò punto indietro nel dovere<br>verso la bella [[Bianca]], da me tanto amata. |
 | GREMIO | Amata da me, e i miei atti lo proveranno. |
-| [[Grumio|GRUMIO]] | (a parte) E i suoi sacchi lo proveranno. |
-| [[Hortensio|ORTENSIO]] | Gremio, non è ora [[Time|tempo]] di sfogare il nostro [[Love|amore]].<br>Ascoltatemi, e se mi parlerete cortese<br>vi dirò novelle egualmente buone per entrambi.<br>Ecco qui un gentiluomo che per caso ho incontrato,<br>il quale, su patti da noi a lui graditi,<br>s’impegnerà a corteggiare l’acida Caterina,<br>anzi, e a sposarla, se la dote gli piaccia. |
-| GREMIO | Detto e fatto sta [[Well|bene]].<br>[[Hortensio|Ortensio]], gli avete detto tutti i suoi difetti? |
+| [[Grumio\|GRUMIO]] | (a parte) E i suoi sacchi lo proveranno. |
+| [[Hortensio\|ORTENSIO]] | Gremio, non è ora [[Time\|tempo]] di sfogare il nostro [[Love\|amore]].<br>Ascoltatemi, e se mi parlerete cortese<br>vi dirò novelle egualmente buone per entrambi.<br>Ecco qui un gentiluomo che per caso ho incontrato,<br>il quale, su patti da noi a lui graditi,<br>s’impegnerà a corteggiare l’acida Caterina,<br>anzi, e a sposarla, se la dote gli piaccia. |
+| GREMIO | Detto e fatto sta [[Well\|bene]].<br>[[Hortensio\|Ortensio]], gli avete detto tutti i suoi difetti? |
 | PETRUCCIO | So ch’ella è una brontolona molesta e rissosa.<br>Se è tutto qui, signori, non odo nulla di male. |
 | GREMIO | No? Mi dite così, amico? Di qual paese siete? |
-| PETRUCCIO | Nato a [[Verona]], figlio del vecchio [[Antonio]].<br>Morto mio padre, la sua fortuna vive per me,<br>e [[Hope|spero]] di veder giorni buoni e lunghi. |
+| PETRUCCIO | Nato a [[Verona]], figlio del vecchio [[Antonio]].<br>Morto mio padre, la sua fortuna vive per me,<br>e [[Hope\|spero]] di veder giorni buoni e lunghi. |
 | GREMIO | Oh signore, tal vita con tal moglie sarebbe strana.<br>Ma se ne avete lo stomaco, all’opera, in nome di Dio.<br>Mi avrete ad assistervi in tutto.<br>Ma davvero corteggerete questa gatta selvatica? |
 | PETRUCCIO | Com’è vero che vivo! |
-| [[Grumio|GRUMIO]] | Se la corteggerà? Sì, o l’impicco io. |
-| PETRUCCIO | Perché son venuto qua se non a quel fine?<br>Credete che un piccolo strepito possa atterrire i miei orecchi?<br>Non ho udito ai miei [[Time|tempi]] ruggire i leoni?<br>Non ho udito il mare, gonfiato dai venti,<br>infuriare come un cinghiale irato e madido di sudore?<br>Non ho udito le grosse artiglierie in campo,<br>e i cannoni del cielo tuonare nell’aria?<br>Non ho udito in una battaglia campale<br>alti allarmi, destrieri nitrenti e squilli di trombe?<br>E mi venite a parlare della lingua d’una donna,<br>che a udirla non dà colpo neppur la metà<br>di quel che dà una castagna nel [[Fire|fuoco]] d’un contadino?<br>Via, via—[[Fear|spaventate]] i fanciulli con gli spauracchi. |
-| [[Grumio|GRUMIO]] | Ché egli non ne teme alcuno. |
-| GREMIO | [[Hortensio|Ortensio]], udite.<br>Questo gentiluomo è giunto a proposito,<br>il mio animo presume, per il suo bene e per il nostro. |
-| [[Hortensio|ORTENSIO]] | Ho promesso che saremmo stati contribuenti,<br>e che avremmo sostenuto le sue spese di corteggiamento, quali che siano. |
+| [[Grumio\|GRUMIO]] | Se la corteggerà? Sì, o l’impicco io. |
+| PETRUCCIO | Perché son venuto qua se non a quel fine?<br>Credete che un piccolo strepito possa atterrire i miei orecchi?<br>Non ho udito ai miei [[Time\|tempi]] ruggire i leoni?<br>Non ho udito il mare, gonfiato dai venti,<br>infuriare come un cinghiale irato e madido di sudore?<br>Non ho udito le grosse artiglierie in campo,<br>e i cannoni del cielo tuonare nell’aria?<br>Non ho udito in una battaglia campale<br>alti allarmi, destrieri nitrenti e squilli di trombe?<br>E mi venite a parlare della lingua d’una donna,<br>che a udirla non dà colpo neppur la metà<br>di quel che dà una castagna nel [[Fire\|fuoco]] d’un contadino?<br>Via, via—[[Fear\|spaventate]] i fanciulli con gli spauracchi. |
+| [[Grumio\|GRUMIO]] | Ché egli non ne teme alcuno. |
+| GREMIO | [[Hortensio\|Ortensio]], udite.<br>Questo gentiluomo è giunto a proposito,<br>il mio animo presume, per il suo bene e per il nostro. |
+| [[Hortensio\|ORTENSIO]] | Ho promesso che saremmo stati contribuenti,<br>e che avremmo sostenuto le sue spese di corteggiamento, quali che siano. |
 | GREMIO | E così faremo, purché egli la conquisti. |
-| [[Grumio|GRUMIO]] | Vorrei esser altrettanto sicuro d’un buon pranzo. |
+| [[Grumio\|GRUMIO]] | Vorrei esser altrettanto sicuro d’un buon pranzo. |
 | *(didascalia)* | Entrano [[Tranio]], in abito sfarzoso, come [[Lucentio]], e Biondello |
-| [[Tranio|TRANIO]] | Signori, Dio vi salvi. Se posso esser ardito, ditemi, ve ne scongiuro, qual è la via più spedita per la [[house|casa]] del signor [[Baptista|Battista]] Minola? |
+| [[Tranio\|TRANIO]] | Signori, Dio vi salvi. Se posso esser ardito, ditemi, ve ne scongiuro, qual è la via più spedita per la [[house\|casa]] del signor [[Baptista\|Battista]] Minola? |
 | BIONDELLO | Quello che ha le due belle figlie—è lui che intendete? |
-| [[Tranio|TRANIO]] | Proprio lui, Biondello. |
+| [[Tranio\|TRANIO]] | Proprio lui, Biondello. |
 | GREMIO | Udite, signore, non vorrete mica lei per— |
-| [[Tranio|TRANIO]] | Forse lui e lei, signore. Che ve ne importa? |
+| [[Tranio\|TRANIO]] | Forse lui e lei, signore. Che ve ne importa? |
 | PETRUCCIO | Non quella che sgrida, signore, in nessun modo, vi prego. |
-| [[Tranio|TRANIO]] | Non [[Love|amo]] le brontolone, signore. Biondello, andiamocene. |
-| [[Lucentio|LUCENTIO]] | (a parte)<br>[[Well|Ben]] cominciato, [[Tranio]]. |
-| [[Hortensio|ORTENSIO]] | Signore, una parola prima che andiate.<br>Siete pretendente della fanciulla di cui parlate—sì o no? |
-| [[Tranio|TRANIO]] | E se lo fossi, signore, sarebbe forse un’offesa? |
+| [[Tranio\|TRANIO]] | Non [[Love\|amo]] le brontolone, signore. Biondello, andiamocene. |
+| [[Lucentio\|LUCENTIO]] | (a parte)<br>[[Well\|Ben]] cominciato, [[Tranio]]. |
+| [[Hortensio\|ORTENSIO]] | Signore, una parola prima che andiate.<br>Siete pretendente della fanciulla di cui parlate—sì o no? |
+| [[Tranio\|TRANIO]] | E se lo fossi, signore, sarebbe forse un’offesa? |
 | GREMIO | No, se senza altre parole ve n’andrete di qua. |
-| [[Tranio|TRANIO]] | Ma come, signore, di grazia, le strade non sono libere<br>per me quanto per voi? |
+| [[Tranio\|TRANIO]] | Ma come, signore, di grazia, le strade non sono libere<br>per me quanto per voi? |
 | GREMIO | Ma non lo è lei. |
-| [[Tranio|TRANIO]] | Per qual ragione, ve ne scongiuro? |
-| GREMIO | Per questa ragione, se volete saperlo—<br>ch’ella è l’[[Love|amore]] eletto del signor Gremio. |
-| [[Hortensio|ORTENSIO]] | Ch’ella è la prescelta del signor [[Hortensio|Ortensio]]. |
-| [[Tranio|TRANIO]] | Piano, signori miei. Se siete gentiluomini,<br>fatemi questa giustizia, ascoltatemi con pazienza.<br>[[Baptista|Battista]] è un nobile gentiluomo<br>al quale mio padre non è del tutto ignoto,<br>e fosse sua figlia più bella di quel ch’è,<br>potrebbe aver più pretendenti, e me fra gli altri.<br>La bella figlia di Leda ebbe mille corteggiatori;<br>dunque [[Well|ben]] uno di più può averne la bella [[Bianca]],<br>e così sarà. [[Lucentio]] sarà uno di quelli,<br>venisse pur [[Paris|Paride]], in [[Hope|speranza]] di [[Speed|riuscire]] [[Alone|solo]]. |
+| [[Tranio\|TRANIO]] | Per qual ragione, ve ne scongiuro? |
+| GREMIO | Per questa ragione, se volete saperlo—<br>ch’ella è l’[[Love\|amore]] eletto del signor Gremio. |
+| [[Hortensio\|ORTENSIO]] | Ch’ella è la prescelta del signor [[Hortensio\|Ortensio]]. |
+| [[Tranio\|TRANIO]] | Piano, signori miei. Se siete gentiluomini,<br>fatemi questa giustizia, ascoltatemi con pazienza.<br>[[Baptista\|Battista]] è un nobile gentiluomo<br>al quale mio padre non è del tutto ignoto,<br>e fosse sua figlia più bella di quel ch’è,<br>potrebbe aver più pretendenti, e me fra gli altri.<br>La bella figlia di Leda ebbe mille corteggiatori;<br>dunque [[Well\|ben]] uno di più può averne la bella [[Bianca]],<br>e così sarà. [[Lucentio]] sarà uno di quelli,<br>venisse pur [[Paris\|Paride]], in [[Hope\|speranza]] di [[Speed\|riuscire]] [[Alone\|solo]]. |
 | GREMIO | Come, questo gentiluomo ci supererà tutti nel parlare! |
-| [[Lucentio|LUCENTIO]] | Signore, lasciategli la briglia sul collo, so che si rivelerà un ronzino. |
-| PETRUCCIO | [[Hortensio|Ortensio]], a che fine tutte queste parole? |
-| [[Hortensio|ORTENSIO]] | Signore, permettetemi d’esser tanto ardito da chiedervi:<br>avete mai veduto la figlia di [[Baptista|Battista]]? |
-| [[Tranio|TRANIO]] | No, signore, ma odo ben dire ch’egli ne ha due,<br>l’una tanto famosa per la lingua che sgrida<br>quanto l’altra per la bella modestia. |
+| [[Lucentio\|LUCENTIO]] | Signore, lasciategli la briglia sul collo, so che si rivelerà un ronzino. |
+| PETRUCCIO | [[Hortensio\|Ortensio]], a che fine tutte queste parole? |
+| [[Hortensio\|ORTENSIO]] | Signore, permettetemi d’esser tanto ardito da chiedervi:<br>avete mai veduto la figlia di [[Baptista\|Battista]]? |
+| [[Tranio\|TRANIO]] | No, signore, ma odo ben dire ch’egli ne ha due,<br>l’una tanto famosa per la lingua che sgrida<br>quanto l’altra per la bella modestia. |
 | PETRUCCIO | Signore, signore, la prima è per me. Lasciatela stare. |
 | GREMIO | Sì, lasciate quella fatica al grande Ercole,<br>e sia essa più che le dodici d’Alcide. |
 | PETRUCCIO | Signore, intendete questo da me in verità:<br>la figlia minore per cui tendete l’orecchio<br>suo padre la tiene fuori d’ogni accesso di pretendenti,<br>e non la prometterà ad alcun uomo<br>finché la sorella maggiore non sia prima maritata.<br>Allora la minore è libera, e non prima. |
-| [[Tranio|TRANIO]] | Se è così, signore, che voi siete l’uomo<br>che deve giovare a tutti noi, e a me fra gli altri,<br>e se romperete il ghiaccio e compirete quest’impresa,<br>conquistando la maggiore, e liberando la minore<br>al nostro accesso, colui cui toccherà la sorte d’averla<br>non sarà così privo di grazia da esser ingrato. |
-| [[Hortensio|ORTENSIO]] | Signore, dite [[Well|bene]], e [[Well|bene]] concepite;<br>e poiché vi professate pretendente,<br>dovete, come noi facciamo, gratificare questo gentiluomo,<br>al quale tutti restiamo generalmente obbligati. |
-| [[Tranio|TRANIO]] | Signore, non sarò tardo. In segno di ciò,<br>se vi piace, passiamo insieme questo pomeriggio,<br>e tracanniamo brindisi alla salute della nostra signora,<br>e facciamo come gli avversari in tribunale—<br>lottare con vigore, ma mangiare e bere da amici. |
-| [[Grumio|GRUMIO]] | e BIONDELLO<br>Oh eccellente proposta! Compagni, andiamo. |
-| [[Hortensio|ORTENSIO]] | La proposta è davvero buona, e così sia.<br>Petruccio, io sarò il vostro ben venuto. |
+| [[Tranio\|TRANIO]] | Se è così, signore, che voi siete l’uomo<br>che deve giovare a tutti noi, e a me fra gli altri,<br>e se romperete il ghiaccio e compirete quest’impresa,<br>conquistando la maggiore, e liberando la minore<br>al nostro accesso, colui cui toccherà la sorte d’averla<br>non sarà così privo di grazia da esser ingrato. |
+| [[Hortensio\|ORTENSIO]] | Signore, dite [[Well\|bene]], e [[Well\|bene]] concepite;<br>e poiché vi professate pretendente,<br>dovete, come noi facciamo, gratificare questo gentiluomo,<br>al quale tutti restiamo generalmente obbligati. |
+| [[Tranio\|TRANIO]] | Signore, non sarò tardo. In segno di ciò,<br>se vi piace, passiamo insieme questo pomeriggio,<br>e tracanniamo brindisi alla salute della nostra signora,<br>e facciamo come gli avversari in tribunale—<br>lottare con vigore, ma mangiare e bere da amici. |
+| [[Grumio\|GRUMIO]] | e BIONDELLO<br>Oh eccellente proposta! Compagni, andiamo. |
+| [[Hortensio\|ORTENSIO]] | La proposta è davvero buona, e così sia.<br>Petruccio, io sarò il vostro ben venuto. |
 | *(didascalia)* | Escono |
 
 
@@ -1977,75 +1977,75 @@ Bartholomew sits
 
 | Chi parla | Battuta |
 |---|---|
-| *(didascalia)* | Entrano [[Katherina|Caterina]] e [[Bianca]], con le mani legate |
-| [[Bianca|BIANCA]] | Buona sorella, non far torto a me né a te stessa<br>facendo di me una serva e una schiava.<br>Questo io sdegno; ma quanto a questi altri ornamenti,<br>slegami le mani: me li toglierò io stessa,<br>sì, tutte le mie vesti fino alla sottana,<br>o farò quel che mi comanderai,<br>tanto [[Well|bene]] conosco il mio dovere verso i maggiori. |
+| *(didascalia)* | Entrano [[Katherina\|Caterina]] e [[Bianca]], con le mani legate |
+| [[Bianca\|BIANCA]] | Buona sorella, non far torto a me né a te stessa<br>facendo di me una serva e una schiava.<br>Questo io sdegno; ma quanto a questi altri ornamenti,<br>slegami le mani: me li toglierò io stessa,<br>sì, tutte le mie vesti fino alla sottana,<br>o farò quel che mi comanderai,<br>tanto [[Well\|bene]] conosco il mio dovere verso i maggiori. |
 | CATERINA | Fra tutti i tuoi pretendenti qui t’ingiungo di dire<br>chi ami di più. Bada di non fingere. |
-| [[Bianca|BIANCA]] | Credimi, sorella, fra tutti gli uomini viventi<br>non ho mai veduto quel volto singolare<br>che potessi prediligere più d’ogni altro. |
-| CATERINA | Sfacciatella, tu menti. Non è [[Hortensio|Ortensio]]? |
-| [[Bianca|BIANCA]] | Se lo amate, sorella, qui vi giuro<br>che perorerò io stessa per voi finché lo abbiate. |
+| [[Bianca\|BIANCA]] | Credimi, sorella, fra tutti gli uomini viventi<br>non ho mai veduto quel volto singolare<br>che potessi prediligere più d’ogni altro. |
+| CATERINA | Sfacciatella, tu menti. Non è [[Hortensio\|Ortensio]]? |
+| [[Bianca\|BIANCA]] | Se lo amate, sorella, qui vi giuro<br>che perorerò io stessa per voi finché lo abbiate. |
 | CATERINA | Oh, allora forse preferite le ricchezze.<br>Vorrete Gremio per mantenervi in bellezza. |
-| [[Bianca|BIANCA]] | È per lui che tanto m’invidiate?<br>Ma no, voi scherzate, e ora [[Well|bene]] m’avvedo<br>che avete scherzato con me tutto questo tempo.<br>Ti prego, sorella Cate, sciogli le mie mani. |
+| [[Bianca\|BIANCA]] | È per lui che tanto m’invidiate?<br>Ma no, voi scherzate, e ora [[Well\|bene]] m’avvedo<br>che avete scherzato con me tutto questo tempo.<br>Ti prego, sorella Cate, sciogli le mie mani. |
 | CATERINA | (la colpisce)<br>Se questo è scherzo, allora scherzo fu tutto il resto. |
 | *(didascalia)* | Entra |
-| CATERINA | [[Baptista|Battista]] |
-| [[Baptista|BATTISTA]] | Ma come, signora, donde nasce quest’insolenza?<br>[[Bianca]], fatti da parte.—Povera figlia, piange.—<br>Va’ al tuo ago, non t’impacciare di lei.<br>(A Caterina) Vergogna, tu ronzino d’animo<br>diabolico,<br>perché fai torto a chi non ti fece mai torto?<br>Quando t’ha ella [[Cross|contrariata]] con una parola amara? |
-| CATERINA | Il suo [[Silence|silenzio]] mi schernisce, e mi vendicherò.<br>Si lancia dietro a [[Bianca]] |
-| [[Baptista|BATTISTA]] | Come, sotto i miei occhi? [[Bianca]], rientra. |
+| CATERINA | [[Baptista\|Battista]] |
+| [[Baptista\|BATTISTA]] | Ma come, signora, donde nasce quest’insolenza?<br>[[Bianca]], fatti da parte.—Povera figlia, piange.—<br>Va’ al tuo ago, non t’impacciare di lei.<br>(A Caterina) Vergogna, tu ronzino d’animo<br>diabolico,<br>perché fai torto a chi non ti fece mai torto?<br>Quando t’ha ella [[Cross\|contrariata]] con una parola amara? |
+| CATERINA | Il suo [[Silence\|silenzio]] mi schernisce, e mi vendicherò.<br>Si lancia dietro a [[Bianca]] |
+| [[Baptista\|BATTISTA]] | Come, sotto i miei occhi? [[Bianca]], rientra. |
 | *(didascalia)* | Esce [[Bianca]] |
-| CATERINA | Come, non mi tollererete? Ma no, ora vedo:<br>ella è il vostro tesoro, ella deve aver marito.<br>Io dovrò [[Dance|danzare]] scalza il giorno delle sue nozze,<br>e per il vostro [[Love|amore]] verso lei condur scimmie all’inferno.<br>Non mi parlate. Andrò a sedermi e a piangere<br>finché non trovi occasione di [[Revenge|vendetta]]. |
+| CATERINA | Come, non mi tollererete? Ma no, ora vedo:<br>ella è il vostro tesoro, ella deve aver marito.<br>Io dovrò [[Dance\|danzare]] scalza il giorno delle sue nozze,<br>e per il vostro [[Love\|amore]] verso lei condur scimmie all’inferno.<br>Non mi parlate. Andrò a sedermi e a piangere<br>finché non trovi occasione di [[Revenge\|vendetta]]. |
 | *(didascalia)* | Esce |
-| [[Baptista|BATTISTA]] | Fu mai gentiluomo afflitto come me?<br>Ma chi viene qui? |
+| [[Baptista\|BATTISTA]] | Fu mai gentiluomo afflitto come me?<br>Ma chi viene qui? |
 | *(didascalia)* | Entrano Gremio, [[Lucentio]] da maestro nell’ |
-| [[Baptista|BATTISTA]] | abito d’un uomo umile, Petruccio con [[Hortensio|Ortensio]] da<br><br>musicista, [[Tranio]] come [[Lucentio]], con Biondello suo<br>ragazzo che porta un liuto e dei libri |
-| GREMIO | Buon giorno, vicino [[Baptista|Battista]]. |
-| [[Baptista|BATTISTA]] | Buon giorno, vicino Gremio. Dio vi salvi, signori. |
-| PETRUCCIO | E voi, buon signore. Di grazia, non avete una figlia<br>chiamata [[Katherina|Caterina]], bella e virtuosa? |
-| [[Baptista|BATTISTA]] | Ho una figlia, signore, chiamata [[Katherina|Caterina]]. |
+| [[Baptista\|BATTISTA]] | abito d’un uomo umile, Petruccio con [[Hortensio\|Ortensio]] da<br><br>musicista, [[Tranio]] come [[Lucentio]], con Biondello suo<br>ragazzo che porta un liuto e dei libri |
+| GREMIO | Buon giorno, vicino [[Baptista\|Battista]]. |
+| [[Baptista\|BATTISTA]] | Buon giorno, vicino Gremio. Dio vi salvi, signori. |
+| PETRUCCIO | E voi, buon signore. Di grazia, non avete una figlia<br>chiamata [[Katherina\|Caterina]], bella e virtuosa? |
+| [[Baptista\|BATTISTA]] | Ho una figlia, signore, chiamata [[Katherina\|Caterina]]. |
 | GREMIO | Siete troppo brusco. Andateci con ordine. |
-| PETRUCCIO | Mi fate torto, signor Gremio. Lasciatemi dire.<br>(A [[Baptista|Battista]]) Io sono un gentiluomo di [[Verona]], signore,<br>il quale, udendo della sua [[Beauty|bellezza]] e del suo ingegno,<br>della sua affabilità e ritrosa modestia,<br>delle sue mirabili qualità e del mite contegno,<br>ardisco mostrarmi ospite ardito |
-| *(didascalia)* | dentro la vostra [[house|casa]] per far del mio occhio il testimone |
-| PETRUCCIO | di quella fama che tanto spesso ho udita,<br>e per entratura alla mia accoglienza<br>vi presento un uomo mio (presentando<br>[[Hortensio|Ortensio]])<br><br>esperto in musica e nelle matematiche<br>per istruirla appieno in quelle scienze,<br>delle quali so ch’ella non è ignorante.<br>Accettatelo, o altrimenti mi fate torto.<br>Il suo nome è Licio, nato a Mantova. |
-| [[Baptista|BATTISTA]] | Siate il benvenuto, signore, ed egli per amor vostro.<br>Ma quanto a mia figlia Caterina, questo so:<br>ella non fa al caso vostro, tanto più il mio dolore. |
+| PETRUCCIO | Mi fate torto, signor Gremio. Lasciatemi dire.<br>(A [[Baptista\|Battista]]) Io sono un gentiluomo di [[Verona]], signore,<br>il quale, udendo della sua [[Beauty\|bellezza]] e del suo ingegno,<br>della sua affabilità e ritrosa modestia,<br>delle sue mirabili qualità e del mite contegno,<br>ardisco mostrarmi ospite ardito |
+| *(didascalia)* | dentro la vostra [[house\|casa]] per far del mio occhio il testimone |
+| PETRUCCIO | di quella fama che tanto spesso ho udita,<br>e per entratura alla mia accoglienza<br>vi presento un uomo mio (presentando<br>[[Hortensio\|Ortensio]])<br><br>esperto in musica e nelle matematiche<br>per istruirla appieno in quelle scienze,<br>delle quali so ch’ella non è ignorante.<br>Accettatelo, o altrimenti mi fate torto.<br>Il suo nome è Licio, nato a Mantova. |
+| [[Baptista\|BATTISTA]] | Siate il benvenuto, signore, ed egli per amor vostro.<br>Ma quanto a mia figlia Caterina, questo so:<br>ella non fa al caso vostro, tanto più il mio dolore. |
 | PETRUCCIO | Vedo che non intendete separarvi da lei,<br>o altrimenti non vi aggrada la mia compagnia. |
-| [[Baptista|BATTISTA]] | Non fraintendetemi, parlo solo come trovo.<br>Di dove siete, signore? Come posso chiamarvi per nome? |
-| PETRUCCIO | Petruccio è il mio nome, figlio d’[[Antonio]],<br>uomo [[Well|ben]] noto per tutta l’[[Italy|Italia]]. |
-| [[Baptista|BATTISTA]] | Lo conosco [[Well|bene]]. Siate il benvenuto per amor suo. |
+| [[Baptista\|BATTISTA]] | Non fraintendetemi, parlo solo come trovo.<br>Di dove siete, signore? Come posso chiamarvi per nome? |
+| PETRUCCIO | Petruccio è il mio nome, figlio d’[[Antonio]],<br>uomo [[Well\|ben]] noto per tutta l’[[Italy\|Italia]]. |
+| [[Baptista\|BATTISTA]] | Lo conosco [[Well\|bene]]. Siate il benvenuto per amor suo. |
 | GREMIO | Salvo il vostro discorso, Petruccio, vi prego,<br>lasciate parlare anche noi poveri postulanti.<br>Baccare! siete mirabilmente sfrontato. |
 | PETRUCCIO | Oh perdonatemi, signor Gremio, ho gran voglia di fare. |
-| GREMIO | Non ne [[Doubt|dubito]], signore. Ma maledirete il vostro corteggiamento. (A [[Baptista|Battista]]) Vicino, questo è un dono assai gradito, ne son certo. Per esprimere pari cortesia, io stesso, che vi sono stato più cortesemente obbligato d’ogni altro, vi dono liberamente questo giovane studioso (presentando [[Lucentio]]) che ha lungamente studiato a Reims, tanto esperto in greco, latino e altre lingue quanto l’altro in musica e matematica. Il suo nome è Cambio. Vi prego, accettatene il servizio. |
-| [[Baptista|BATTISTA]] | Mille grazie, signor Gremio. Benvenuto, buon Cambio. (A [[Tranio]]) Ma, gentil signore, mi pare che camminiate da forestiero. Posso esser tanto ardito da conoscer la causa della vostra venuta? |
-| [[Tranio|TRANIO]] | Perdonatemi, signore, l’ardire è tutto mio,<br>che, essendo forestiero qui in questa [[City|città]],<br>mi faccio pretendente di vostra figlia,<br>di [[Bianca]], bella e virtuosa.<br>Né m’è ignota la vostra ferma risoluzione<br>quanto alla precedenza della sorella maggiore.<br>Questa sola libertà io richiedo:<br>che, conosciuta la mia parentela,<br>io possa aver benvenuto fra gli altri che corteggiano,<br>e libero accesso e favore come gli altri.<br>E per l’[[Education|educazione]] delle vostre figlie<br>qui offro un semplice strumento,<br>e questo piccolo fardello di libri greci e latini.<br>Se li accettate, allora grande è il loro valore. |
-| [[Baptista|BATTISTA]] | [[Lucentio]] è il vostro nome—di dove, di grazia? |
-| [[Tranio|TRANIO]] | Di Pisa, signore, figlio di Vincenzio. |
-| [[Baptista|BATTISTA]] | Un uomo potente di Pisa. Per fama<br>lo conosco [[Well|bene]]. Siate assai benvenuto, signore.<br>(A [[Hortensio|Ortensio]]) Prendete voi il liuto, (a [[Lucentio]]) e voi<br>la raccolta dei libri.<br>Andrete subito a veder le vostre allieve.<br>Olà, di dentro! |
+| GREMIO | Non ne [[Doubt\|dubito]], signore. Ma maledirete il vostro corteggiamento. (A [[Baptista\|Battista]]) Vicino, questo è un dono assai gradito, ne son certo. Per esprimere pari cortesia, io stesso, che vi sono stato più cortesemente obbligato d’ogni altro, vi dono liberamente questo giovane studioso (presentando [[Lucentio]]) che ha lungamente studiato a Reims, tanto esperto in greco, latino e altre lingue quanto l’altro in musica e matematica. Il suo nome è Cambio. Vi prego, accettatene il servizio. |
+| [[Baptista\|BATTISTA]] | Mille grazie, signor Gremio. Benvenuto, buon Cambio. (A [[Tranio]]) Ma, gentil signore, mi pare che camminiate da forestiero. Posso esser tanto ardito da conoscer la causa della vostra venuta? |
+| [[Tranio\|TRANIO]] | Perdonatemi, signore, l’ardire è tutto mio,<br>che, essendo forestiero qui in questa [[City\|città]],<br>mi faccio pretendente di vostra figlia,<br>di [[Bianca]], bella e virtuosa.<br>Né m’è ignota la vostra ferma risoluzione<br>quanto alla precedenza della sorella maggiore.<br>Questa sola libertà io richiedo:<br>che, conosciuta la mia parentela,<br>io possa aver benvenuto fra gli altri che corteggiano,<br>e libero accesso e favore come gli altri.<br>E per l’[[Education\|educazione]] delle vostre figlie<br>qui offro un semplice strumento,<br>e questo piccolo fardello di libri greci e latini.<br>Se li accettate, allora grande è il loro valore. |
+| [[Baptista\|BATTISTA]] | [[Lucentio]] è il vostro nome—di dove, di grazia? |
+| [[Tranio\|TRANIO]] | Di Pisa, signore, figlio di Vincenzio. |
+| [[Baptista\|BATTISTA]] | Un uomo potente di Pisa. Per fama<br>lo conosco [[Well\|bene]]. Siate assai benvenuto, signore.<br>(A [[Hortensio\|Ortensio]]) Prendete voi il liuto, (a [[Lucentio]]) e voi<br>la raccolta dei libri.<br>Andrete subito a veder le vostre allieve.<br>Olà, di dentro! |
 | *(didascalia)* | Entra un servo |
-| [[Baptista|BATTISTA]] | Messere, conduci questi signori<br>alle mie figlie, e di’ loro a entrambe<br>che questi sono i loro precettori. Ordina che li trattino [[Well|bene]]. |
-| *(didascalia)* | Esce il servo con [[Lucentio]] e [[Hortensio|Ortensio]], |
-| [[Baptista|BATTISTA]] | [Biondello che li segue]<br>(A Petruccio) Andremo a passeggiare un poco nel frutteto,<br>e poi a pranzo. Siete oltremodo benvenuto—<br>e così prego tutti voi di ritenervi. |
-| PETRUCCIO | Signor [[Baptista|Battista]], il mio affare chiede fretta,<br>e non posso venire ogni giorno a corteggiare.<br>Conoscevate [[Well|bene]] mio padre, e in lui me,<br>lasciato unico erede di tutte le sue terre e beni,<br>che ho piuttosto migliorati che scemati.<br>Ditemi dunque: se ottengo l’[[Love|amore]] di vostra figlia,<br>qual dote avrò con lei in moglie? |
-| [[Baptista|BATTISTA]] | Dopo la mia [[Death|morte]] la metà delle mie terre,<br>e in possesso immediato ventimila corone. |
+| [[Baptista\|BATTISTA]] | Messere, conduci questi signori<br>alle mie figlie, e di’ loro a entrambe<br>che questi sono i loro precettori. Ordina che li trattino [[Well\|bene]]. |
+| *(didascalia)* | Esce il servo con [[Lucentio]] e [[Hortensio\|Ortensio]], |
+| [[Baptista\|BATTISTA]] | [Biondello che li segue]<br>(A Petruccio) Andremo a passeggiare un poco nel frutteto,<br>e poi a pranzo. Siete oltremodo benvenuto—<br>e così prego tutti voi di ritenervi. |
+| PETRUCCIO | Signor [[Baptista\|Battista]], il mio affare chiede fretta,<br>e non posso venire ogni giorno a corteggiare.<br>Conoscevate [[Well\|bene]] mio padre, e in lui me,<br>lasciato unico erede di tutte le sue terre e beni,<br>che ho piuttosto migliorati che scemati.<br>Ditemi dunque: se ottengo l’[[Love\|amore]] di vostra figlia,<br>qual dote avrò con lei in moglie? |
+| [[Baptista\|BATTISTA]] | Dopo la mia [[Death\|morte]] la metà delle mie terre,<br>e in possesso immediato ventimila corone. |
 | PETRUCCIO | E per quella dote le assicurerò<br>il suo vedovile, ove ella mi sopravviva,<br>su tutte le mie terre e i miei affitti, quali si siano.<br>Si stendano dunque fra noi gli atti,<br>affinché i patti sian mantenuti d’ambo le parti. |
-| [[Baptista|BATTISTA]] | Sì, quando la cosa speciale sia [[Well|bene]] ottenuta—<br>cioè il suo [[Love|amore]], ché quello è tutto il tutto. |
-| PETRUCCIO | Ebbene, questo è nulla, ché vi dico, padre,<br>io son perentorio quanto ella è d’animo superbo,<br>e dove due fuochi furiosi s’incontrano<br>consumano ciò che alimenta la loro furia.<br>Benché un piccolo [[Fire|fuoco]] cresca con poco [[Wind|vento]],<br>pure raffiche estreme spengono [[Fire|fuoco]] e tutto.<br>Così io con lei, e così ella cede a me,<br>ché sono ruvido, e non corteggio come un bamboccio. |
-| [[Baptista|BATTISTA]] | [[Well|Bene]] tu possa corteggiare, e felice sia la tua [[Speed|riuscita]].<br>Ma sii armato contro qualche parola infelice. |
-| PETRUCCIO | Sì, a tutta prova, come le [[Mountains|montagne]] lo sono contro i venti,<br>che non si scuotono benché soffino in perpetuo. |
-| *(didascalia)* | Entra [[Hortensio|Ortensio]] con la testa rotta |
-| [[Baptista|BATTISTA]] | Che c’è, amico mio, perché sei così pallido? |
-| [[Hortensio|ORTENSIO]] | Per la [[Fear|paura]], ve l’assicuro, se son pallido. |
-| [[Baptista|BATTISTA]] | Ebbene, riuscirà mia figlia una buona musicista? |
-| [[Hortensio|ORTENSIO]] | Credo che riuscirà piuttosto un soldato.<br>Il ferro può reggere con lei, ma mai i liuti. |
-| [[Baptista|BATTISTA]] | Come dunque, non riesci a domarla al liuto? |
-| [[Hortensio|ORTENSIO]] | Ma no, ché è lei che ha rotto il liuto su di me.<br>Le dissi soltanto che sbagliava i tasti,<br>e le piegai la mano per insegnarle la diteggiatura,<br>quando, con animo impazientissimo e diabolico:<br>«Tasti li chiamate questi?» disse; «io ne farò<br>smanie»,<br>e con quella parola mi colpì sulla testa,<br>e la mia zucca s’aprì un varco per lo strumento,<br>e là rimasi attonito per un poco,<br>come alla gogna, guardando attraverso il liuto,<br>mentr’ella mi chiamava furfante, sonatore<br>e strimpellatore, con venti simili vili epiteti,<br>quasi avesse studiato per ingiuriarmi così. |
-| PETRUCCIO | Ora, per il mondo, è una ragazza gagliarda!<br>L’[[Love|amo]] dieci volte più di quanto mai l’amassi.<br>Oh, come agogno di far due chiacchiere con lei! |
-| [[Baptista|BATTISTA]] | (a [[Hortensio|Ortensio]])<br>[[Well|Bene]], venite con me, e non siate così sconcertato.<br>Proseguite le lezioni con la mia figlia minore.<br>È pronta a imparare, e grata dei buoni uffici.<br>Signor Petruccio, volete venire con noi,<br>o debbo mandarvi mia figlia Cate? |
+| [[Baptista\|BATTISTA]] | Sì, quando la cosa speciale sia [[Well\|bene]] ottenuta—<br>cioè il suo [[Love\|amore]], ché quello è tutto il tutto. |
+| PETRUCCIO | Ebbene, questo è nulla, ché vi dico, padre,<br>io son perentorio quanto ella è d’animo superbo,<br>e dove due fuochi furiosi s’incontrano<br>consumano ciò che alimenta la loro furia.<br>Benché un piccolo [[Fire\|fuoco]] cresca con poco [[Wind\|vento]],<br>pure raffiche estreme spengono [[Fire\|fuoco]] e tutto.<br>Così io con lei, e così ella cede a me,<br>ché sono ruvido, e non corteggio come un bamboccio. |
+| [[Baptista\|BATTISTA]] | [[Well\|Bene]] tu possa corteggiare, e felice sia la tua [[Speed\|riuscita]].<br>Ma sii armato contro qualche parola infelice. |
+| PETRUCCIO | Sì, a tutta prova, come le [[Mountains\|montagne]] lo sono contro i venti,<br>che non si scuotono benché soffino in perpetuo. |
+| *(didascalia)* | Entra [[Hortensio\|Ortensio]] con la testa rotta |
+| [[Baptista\|BATTISTA]] | Che c’è, amico mio, perché sei così pallido? |
+| [[Hortensio\|ORTENSIO]] | Per la [[Fear\|paura]], ve l’assicuro, se son pallido. |
+| [[Baptista\|BATTISTA]] | Ebbene, riuscirà mia figlia una buona musicista? |
+| [[Hortensio\|ORTENSIO]] | Credo che riuscirà piuttosto un soldato.<br>Il ferro può reggere con lei, ma mai i liuti. |
+| [[Baptista\|BATTISTA]] | Come dunque, non riesci a domarla al liuto? |
+| [[Hortensio\|ORTENSIO]] | Ma no, ché è lei che ha rotto il liuto su di me.<br>Le dissi soltanto che sbagliava i tasti,<br>e le piegai la mano per insegnarle la diteggiatura,<br>quando, con animo impazientissimo e diabolico:<br>«Tasti li chiamate questi?» disse; «io ne farò<br>smanie»,<br>e con quella parola mi colpì sulla testa,<br>e la mia zucca s’aprì un varco per lo strumento,<br>e là rimasi attonito per un poco,<br>come alla gogna, guardando attraverso il liuto,<br>mentr’ella mi chiamava furfante, sonatore<br>e strimpellatore, con venti simili vili epiteti,<br>quasi avesse studiato per ingiuriarmi così. |
+| PETRUCCIO | Ora, per il mondo, è una ragazza gagliarda!<br>L’[[Love\|amo]] dieci volte più di quanto mai l’amassi.<br>Oh, come agogno di far due chiacchiere con lei! |
+| [[Baptista\|BATTISTA]] | (a [[Hortensio\|Ortensio]])<br>[[Well\|Bene]], venite con me, e non siate così sconcertato.<br>Proseguite le lezioni con la mia figlia minore.<br>È pronta a imparare, e grata dei buoni uffici.<br>Signor Petruccio, volete venire con noi,<br>o debbo mandarvi mia figlia Cate? |
 | PETRUCCIO | Ve ne prego, fatelo. |
 | *(didascalia)* | Escono tutti tranne Petruccio |
-| PETRUCCIO | L’attenderò qui,<br>e la corteggerò con brio quando verrà.<br>Poniamo ch’ella inveisca: le dirò schietto<br>ch’ella canta dolce come un [[Nightingale|usignolo]].<br>Poniamo che aggrotti le ciglia: dirò che appare limpida<br>come rose mattutine appena lavate di rugiada.<br>Poniamo che sia muta e non voglia dir parola:<br>allora loderò la sua volubilità,<br>e dirò ch’ella profferisce penetrante eloquenza.<br>Se mi dice di sgombrare, la ringrazierò<br>come se m’invitasse a starle accanto una settimana.<br>Se rifiuta di sposarsi, chiederò il giorno<br>in cui pubblicherò le bande, e quando ci sposeremo.<br>Ma ecco che viene, e ora, Petruccio, parla. |
-| *(didascalia)* | Entra [[Katherina|Caterina]] |
+| PETRUCCIO | L’attenderò qui,<br>e la corteggerò con brio quando verrà.<br>Poniamo ch’ella inveisca: le dirò schietto<br>ch’ella canta dolce come un [[Nightingale\|usignolo]].<br>Poniamo che aggrotti le ciglia: dirò che appare limpida<br>come rose mattutine appena lavate di rugiada.<br>Poniamo che sia muta e non voglia dir parola:<br>allora loderò la sua volubilità,<br>e dirò ch’ella profferisce penetrante eloquenza.<br>Se mi dice di sgombrare, la ringrazierò<br>come se m’invitasse a starle accanto una settimana.<br>Se rifiuta di sposarsi, chiederò il giorno<br>in cui pubblicherò le bande, e quando ci sposeremo.<br>Ma ecco che viene, e ora, Petruccio, parla. |
+| *(didascalia)* | Entra [[Katherina\|Caterina]] |
 | PETRUCCIO | Buon giorno, Cate, ché questo è il vostro nome, odo. |
-| CATERINA | [[Well|Bene]] avete udito, ma un po’ duro d’orecchio.<br>Mi chiamano Caterina quelli che parlan di me. |
-| PETRUCCIO | Mentite, in [[Faith|fede]], ché vi chiamano Cate schietta,<br>e Cate leggiadra, e talvolta Cate l’acida,<br>ma Cate, la più graziosa Cate della cristianità,<br>Cate di Casa Cate, mia Cate delicatissima—<br>ché le delizie son tutte delicate, e però «Cate»—<br>prendete questo da me, Cate della mia consolazione:<br>udendo lodar la tua mitezza in ogni città,<br>celebrar le tue virtù e cantar la tua [[Beauty|bellezza]]—<br>eppur non tanto a fondo quanto a te si conviene—<br>io stesso son mosso a chiederti in moglie. |
-| CATERINA | Mosso? A buon [[Time|tempo]]. Chi vi mosse fin qui<br>vi ri-muova di qua. Capii subito<br>che eravate un mobile. |
+| CATERINA | [[Well\|Bene]] avete udito, ma un po’ duro d’orecchio.<br>Mi chiamano Caterina quelli che parlan di me. |
+| PETRUCCIO | Mentite, in [[Faith\|fede]], ché vi chiamano Cate schietta,<br>e Cate leggiadra, e talvolta Cate l’acida,<br>ma Cate, la più graziosa Cate della cristianità,<br>Cate di Casa Cate, mia Cate delicatissima—<br>ché le delizie son tutte delicate, e però «Cate»—<br>prendete questo da me, Cate della mia consolazione:<br>udendo lodar la tua mitezza in ogni città,<br>celebrar le tue virtù e cantar la tua [[Beauty\|bellezza]]—<br>eppur non tanto a fondo quanto a te si conviene—<br>io stesso son mosso a chiederti in moglie. |
+| CATERINA | Mosso? A buon [[Time\|tempo]]. Chi vi mosse fin qui<br>vi ri-muova di qua. Capii subito<br>che eravate un mobile. |
 | PETRUCCIO | Ma come, cos’è un mobile? |
 | CATERINA | Uno sgabello a incastro. |
 | PETRUCCIO | L’hai indovinata. Vieni, siediti su di me. |
@@ -2055,13 +2055,13 @@ Bartholomew sits
 | PETRUCCIO | Ahimè, buona Cate, non voglio gravarti,<br>sapendoti giovane e leggera. |
 | CATERINA | Troppo leggera perché un bifolco come voi mi acchiappi,<br>e pure pesante quanto il mio peso dev’essere. 205 |
 | PETRUCCIO | Dev’essere?—dev’esser ronzìo. |
-| CATERINA | [[Well|Ben]] colto, e da vera poiana. |
+| CATERINA | [[Well\|Ben]] colto, e da vera poiana. |
 | PETRUCCIO | O tortora dall’ala lenta, ti prenderà una poiana? |
 | CATERINA | Sì, come tortora, come lui prende una poiana. |
-| PETRUCCIO | Suvvia, suvvia, vespa, in [[Faith|fede]] mia siete troppo irata. |
+| PETRUCCIO | Suvvia, suvvia, vespa, in [[Faith\|fede]] mia siete troppo irata. |
 | CATERINA | Se son vespa, badate al mio pungiglione. |
 | PETRUCCIO | Il mio rimedio è dunque strapparlo via. |
-| CATERINA | Sì, se lo [[Fool|sciocco]] sapesse trovarlo dove sta. |
+| CATERINA | Sì, se lo [[Fool\|sciocco]] sapesse trovarlo dove sta. |
 | PETRUCCIO | Chi non sa dove una vespa porta il pungiglione? Nella coda. |
 | CATERINA | Nella lingua. |
 | PETRUCCIO | La lingua di chi? |
@@ -2081,65 +2081,65 @@ Bartholomew sits
 | PETRUCCIO | Allora mostratemela. 230 |
 | CATERINA | Avessi uno specchio, lo farei. |
 | PETRUCCIO | Come, intendete il mio viso? |
-| CATERINA | [[Well|Ben]] mirato, per uno così giovane. |
+| CATERINA | [[Well\|Ben]] mirato, per uno così giovane. |
 | PETRUCCIO | Ora, per San Giorgio, son troppo giovane per voi. |
 | CATERINA | Eppure siete avvizzito. |
 | PETRUCCIO | È per gli affanni. |
 | CATERINA | Non me ne affanno. |
 | PETRUCCIO | Ma no, udite, Cate. In verità, non la scampate così. 235 |
 | CATERINA | V’irrito se mi trattengo. Lasciatemi andare. |
-| PETRUCCIO | No, niente affatto. Vi trovo oltremodo gentile.<br>Mi si disse che eravate ruvida, schiva e imbronciata,<br>e ora trovo che la fama è gran bugiarda,<br>ché tu sei piacevole, festosa, oltremodo cortese,<br>ma lenta nel parlare, e dolce come [[Flowers|fiori]] di primavera.<br>Non sai aggrottar le ciglia. Non sai guardar di traverso,<br>né morderti il labbro, come fanno le ragazze adirate,<br>né provi piacere a esser [[Cross|contraria]] nel discorso,<br>ma con mitezza intrattieni i tuoi pretendenti,<br>con gentile conversare, dolce e affabile.<br>Perché il mondo racconta che Cate zoppica?<br>O mondo calunnioso! Cate, come il ramo di nocciolo,<br>è dritta e sottile, e bruna di colore<br>come le nocciole, e più dolce dei loro gherigli.<br>Oh lascia ch’io ti veda camminare. Tu non zoppichi. |
-| CATERINA | Va’, [[Fool|sciocco]], e comanda a chi tieni al tuo servizio. |
+| PETRUCCIO | No, niente affatto. Vi trovo oltremodo gentile.<br>Mi si disse che eravate ruvida, schiva e imbronciata,<br>e ora trovo che la fama è gran bugiarda,<br>ché tu sei piacevole, festosa, oltremodo cortese,<br>ma lenta nel parlare, e dolce come [[Flowers\|fiori]] di primavera.<br>Non sai aggrottar le ciglia. Non sai guardar di traverso,<br>né morderti il labbro, come fanno le ragazze adirate,<br>né provi piacere a esser [[Cross\|contraria]] nel discorso,<br>ma con mitezza intrattieni i tuoi pretendenti,<br>con gentile conversare, dolce e affabile.<br>Perché il mondo racconta che Cate zoppica?<br>O mondo calunnioso! Cate, come il ramo di nocciolo,<br>è dritta e sottile, e bruna di colore<br>come le nocciole, e più dolce dei loro gherigli.<br>Oh lascia ch’io ti veda camminare. Tu non zoppichi. |
+| CATERINA | Va’, [[Fool\|sciocco]], e comanda a chi tieni al tuo servizio. |
 | PETRUCCIO | Adornò mai Diana un boschetto<br>come Cate questa camera col suo passo regale?<br>Oh, sii tu Diana, e sia lei Cate,<br>e allora sia Cate casta e Diana giocosa. |
 | CATERINA | Dove studiaste tutto questo bel discorso? |
 | PETRUCCIO | È improvvisato, dal mio ingegno naturale. |
 | CATERINA | Ingegnosa la madre, altrimenti scemo il figlio. |
 | PETRUCCIO | Non son forse savio? |
 | CATERINA | Sì, quanto basta a tenervi caldo. |
-| PETRUCCIO | Perbacco, tale è il mio intento, dolce Caterina, nel tuo letto.<br>E però, messa da parte tutta questa ciarla,<br>in termini chiari: vostro padre ha consentito<br>che voi siate mia moglie, la dote [[Greed|concordata]],<br>e vogliate o non vogliate, io vi sposerò.<br>Ora, Cate, io son marito che fa al caso vostro,<br>ché per questa luce, per cui vedo la tua [[Beauty|bellezza]]—<br>la tua [[Beauty|bellezza]] che mi fa amarti [[Well|bene]]—<br>tu non devi sposare uomo alcuno se non me, |
-| *(didascalia)* | Entrano [[Baptista|Battista]], Gremio e [[Tranio]] come |
+| PETRUCCIO | Perbacco, tale è il mio intento, dolce Caterina, nel tuo letto.<br>E però, messa da parte tutta questa ciarla,<br>in termini chiari: vostro padre ha consentito<br>che voi siate mia moglie, la dote [[Greed\|concordata]],<br>e vogliate o non vogliate, io vi sposerò.<br>Ora, Cate, io son marito che fa al caso vostro,<br>ché per questa luce, per cui vedo la tua [[Beauty\|bellezza]]—<br>la tua [[Beauty\|bellezza]] che mi fa amarti [[Well\|bene]]—<br>tu non devi sposare uomo alcuno se non me, |
+| *(didascalia)* | Entrano [[Baptista\|Battista]], Gremio e [[Tranio]] come |
 | PETRUCCIO | [[Lucentio]]<br>ché io son quegli che è nato per domarti, Cate,<br>e ridurti da Cate selvatica a una Cate<br>docile come le altre Cate domestiche.<br>Ecco che viene vostro padre. Non negate mai.<br>Debbo e voglio aver Caterina in moglie. |
-| [[Baptista|BATTISTA]] | Ebbene, signor Petruccio, come [[Speed|riuscite]] con mia figlia? 276 |
-| PETRUCCIO | Come se non [[Well|bene]], signore, come se non [[Well|bene]]?<br>Sarebbe impossibile ch’io [[Speed|riuscissi]] male. |
-| [[Baptista|BATTISTA]] | Ma come, figlia Caterina—così cupa? |
+| [[Baptista\|BATTISTA]] | Ebbene, signor Petruccio, come [[Speed\|riuscite]] con mia figlia? 276 |
+| PETRUCCIO | Come se non [[Well\|bene]], signore, come se non [[Well\|bene]]?<br>Sarebbe impossibile ch’io [[Speed\|riuscissi]] male. |
+| [[Baptista\|BATTISTA]] | Ma come, figlia Caterina—così cupa? |
 | CATERINA | Mi chiamate figlia? Ora vi assicuro 280<br>che avete mostrato tenera cura paterna,<br>volendomi maritata a un mezzo pazzo,<br>un ribaldo scervellato e un bestemmiatore,<br>che pensa con giuramenti di cavarsela. |
-| PETRUCCIO | Padre, la cosa sta così: voi e tutto il mondo 285<br>che avete parlato di lei, ne avete parlato a torto.<br>Se è acida, è per accortezza,<br>ché non è ritrosa, ma modesta come la colomba.<br>Non è focosa, ma temperata come il mattino.<br>Per pazienza si mostrerà una seconda Griselda, 290<br>e una [[Lucrece|Lucrezia]] romana per castità.<br>E per concludere, ci siamo così [[Well|bene]] [[Greed|accordati]]<br>che [[Sunday|domenica]] sarà il giorno delle nozze. |
-| CATERINA | Ti vedrò impiccato [[Sunday|domenica]], piuttosto. |
+| PETRUCCIO | Padre, la cosa sta così: voi e tutto il mondo 285<br>che avete parlato di lei, ne avete parlato a torto.<br>Se è acida, è per accortezza,<br>ché non è ritrosa, ma modesta come la colomba.<br>Non è focosa, ma temperata come il mattino.<br>Per pazienza si mostrerà una seconda Griselda, 290<br>e una [[Lucrece\|Lucrezia]] romana per castità.<br>E per concludere, ci siamo così [[Well\|bene]] [[Greed\|accordati]]<br>che [[Sunday\|domenica]] sarà il giorno delle nozze. |
+| CATERINA | Ti vedrò impiccato [[Sunday\|domenica]], piuttosto. |
 | GREMIO | Udite, Petruccio, dice che prima vi vedrà impiccato. 296 |
-| [[Tranio|TRANIO]] | È questa la vostra riuscita? Ma allora, buonanotte alla nostra parte. |
-| PETRUCCIO | Pazienza, signori. La scelgo per me.<br>Se lei e io siamo contenti, che v’importa?<br>È pattuito fra noi due, quando siamo [[Alone|soli]],<br>ch’ella si mostri pur sempre acida in compagnia.<br>Vi dico, è incredibile a credersi<br>quanto ella mi ami. Oh, la più dolce Cate!<br>Mi si appese al collo, e bacio su bacio<br>ne prodigò così fitti, giurando giuramento su giuramento,<br>che in un baleno mi conquistò al suo [[Love|amore]].<br>Oh, siete novizi. È uno spasso vedere<br>quanto mansueta, quando uomini e donne sono [[Alone|soli]],<br>un povero rammollito possa render la più acida bisbetica.<br>Dammi la mano, Cate. Andrò a [[Venice|Venezia]]<br>a comprar vesti per il giorno delle nozze.<br>Provvedete al banchetto, padre, e invitate gli ospiti.<br>Farò sì che la mia Caterina sia elegante. |
-| [[Baptista|BATTISTA]] | Non so che dire, ma datemi le vostre mani.<br>Dio vi mandi gioia, Petruccio! È fatta. |
-| GREMIO | e [[Tranio|TRANIO]]<br>Amen, diciamo noi. Saremo testimoni. |
-| PETRUCCIO | Padre, e moglie, e signori, addio.<br>Vado a [[Venice|Venezia]]. [[Sunday|Domenica]] s’avvicina in fretta.<br>Avremo anelli, e cose, e begli abiti;<br>e baciami, Cate. Ci sposeremo [[Sunday|domenica]]. |
+| [[Tranio\|TRANIO]] | È questa la vostra riuscita? Ma allora, buonanotte alla nostra parte. |
+| PETRUCCIO | Pazienza, signori. La scelgo per me.<br>Se lei e io siamo contenti, che v’importa?<br>È pattuito fra noi due, quando siamo [[Alone\|soli]],<br>ch’ella si mostri pur sempre acida in compagnia.<br>Vi dico, è incredibile a credersi<br>quanto ella mi ami. Oh, la più dolce Cate!<br>Mi si appese al collo, e bacio su bacio<br>ne prodigò così fitti, giurando giuramento su giuramento,<br>che in un baleno mi conquistò al suo [[Love\|amore]].<br>Oh, siete novizi. È uno spasso vedere<br>quanto mansueta, quando uomini e donne sono [[Alone\|soli]],<br>un povero rammollito possa render la più acida bisbetica.<br>Dammi la mano, Cate. Andrò a [[Venice\|Venezia]]<br>a comprar vesti per il giorno delle nozze.<br>Provvedete al banchetto, padre, e invitate gli ospiti.<br>Farò sì che la mia Caterina sia elegante. |
+| [[Baptista\|BATTISTA]] | Non so che dire, ma datemi le vostre mani.<br>Dio vi mandi gioia, Petruccio! È fatta. |
+| GREMIO | e [[Tranio\|TRANIO]]<br>Amen, diciamo noi. Saremo testimoni. |
+| PETRUCCIO | Padre, e moglie, e signori, addio.<br>Vado a [[Venice\|Venezia]]. [[Sunday\|Domenica]] s’avvicina in fretta.<br>Avremo anelli, e cose, e begli abiti;<br>e baciami, Cate. Ci sposeremo [[Sunday\|domenica]]. |
 | *(didascalia)* | Escono Petruccio e Caterina, separatamente |
 | GREMIO | Fu mai combinato un matrimonio così di botto? |
-| [[Baptista|BATTISTA]] | In [[Faith|fede]], signori, ora faccio la parte del mercante,<br>e arrischio follemente in un mercato disperato. |
-| [[Tranio|TRANIO]] | Era una merce che vi giaceva accanto a guastarsi.<br>Vi porterà guadagno, o perirà sui mari. |
-| [[Baptista|BATTISTA]] | Il guadagno che cerco è la quiete nel partito. |
-| GREMIO | Non c’è [[Doubt|dubbio]] ch’egli abbia fatto una preda quieta.<br>Ma ora, [[Baptista|Battista]], veniamo alla vostra figlia minore.<br>Ora è il giorno che a lungo abbiamo atteso.<br>Io sono il vostro vicino, e fui il primo pretendente. |
-| [[Tranio|TRANIO]] | E io son uno che [[Love|ama]] [[Bianca]] più<br>di quanto parole possan testimoniare, o i vostri pensieri indovinare. |
-| GREMIO | Giovincello, non puoi [[Love|amare]] così caramente come me. |
-| [[Tranio|TRANIO]] | Barbagrigia, il tuo [[Love|amore]] gela. |
+| [[Baptista\|BATTISTA]] | In [[Faith\|fede]], signori, ora faccio la parte del mercante,<br>e arrischio follemente in un mercato disperato. |
+| [[Tranio\|TRANIO]] | Era una merce che vi giaceva accanto a guastarsi.<br>Vi porterà guadagno, o perirà sui mari. |
+| [[Baptista\|BATTISTA]] | Il guadagno che cerco è la quiete nel partito. |
+| GREMIO | Non c’è [[Doubt\|dubbio]] ch’egli abbia fatto una preda quieta.<br>Ma ora, [[Baptista\|Battista]], veniamo alla vostra figlia minore.<br>Ora è il giorno che a lungo abbiamo atteso.<br>Io sono il vostro vicino, e fui il primo pretendente. |
+| [[Tranio\|TRANIO]] | E io son uno che [[Love\|ama]] [[Bianca]] più<br>di quanto parole possan testimoniare, o i vostri pensieri indovinare. |
+| GREMIO | Giovincello, non puoi [[Love\|amare]] così caramente come me. |
+| [[Tranio\|TRANIO]] | Barbagrigia, il tuo [[Love\|amore]] gela. |
 | GREMIO | Ma il tuo frigge.<br>Saltimbanco, indietro. È l’età che nutre. |
-| [[Tranio|TRANIO]] | Ma è la gioventù che fiorisce agli occhi delle dame. |
-| [[Baptista|BATTISTA]] | A<br>Acquietatevi, signori. Comporrò io questa contesa.<br>Sono i fatti che devono vincere il premio, e quello dei due<br>che possa assicurare a mia figlia la dote maggiore<br>avrà l’[[Love|amore]] della mia [[Bianca]].<br>Dite, signor Gremio, che potete assicurarle? |
-| GREMIO | Primo, come sapete, la mia [[house|casa]] dentro la [[City|città]]<br>è riccamente fornita d’argenteria e d’oro,<br>bacini e brocche per lavarle le delicate mani;<br>i miei arazzi tutti di tappezzeria di Tiro.<br>In forzieri d’avorio ho stipato le mie corone,<br>in casse di cipresso le mie coperte d’arazzo,<br>vesti costose, padiglioni e baldacchini,<br>fine biancheria, cuscini turchi borchiati di perle,<br>frange d’oro di [[Venice|Venezia]] ricamate ad ago, 350<br>peltro, e ottone, e tutte le cose che appartengono<br>a [[house|casa]] o a governo di casa. Poi alla mia fattoria<br>ho cento vacche da latte al secchio,<br>centoventi grassi buoi ritti nelle mie stalle,<br>e ogni cosa corrispondente a questa dotazione. 355<br>Io stesso son carico d’anni, debbo confessarlo,<br>e se muoio domani questo è suo,<br>purché finché vivo ella sia soltanto mia. |
-| [[Tranio|TRANIO]] | Quel «soltanto» è venuto [[Well|bene]] a proposito. Signore, ascoltatemi.<br>Io sono l’erede e unico figlio di mio padre.<br>Se posso avere vostra figlia in moglie<br>le lascerò tre o quattro case buone quanto, |
+| [[Tranio\|TRANIO]] | Ma è la gioventù che fiorisce agli occhi delle dame. |
+| [[Baptista\|BATTISTA]] | A<br>Acquietatevi, signori. Comporrò io questa contesa.<br>Sono i fatti che devono vincere il premio, e quello dei due<br>che possa assicurare a mia figlia la dote maggiore<br>avrà l’[[Love\|amore]] della mia [[Bianca]].<br>Dite, signor Gremio, che potete assicurarle? |
+| GREMIO | Primo, come sapete, la mia [[house\|casa]] dentro la [[City\|città]]<br>è riccamente fornita d’argenteria e d’oro,<br>bacini e brocche per lavarle le delicate mani;<br>i miei arazzi tutti di tappezzeria di Tiro.<br>In forzieri d’avorio ho stipato le mie corone,<br>in casse di cipresso le mie coperte d’arazzo,<br>vesti costose, padiglioni e baldacchini,<br>fine biancheria, cuscini turchi borchiati di perle,<br>frange d’oro di [[Venice\|Venezia]] ricamate ad ago, 350<br>peltro, e ottone, e tutte le cose che appartengono<br>a [[house\|casa]] o a governo di casa. Poi alla mia fattoria<br>ho cento vacche da latte al secchio,<br>centoventi grassi buoi ritti nelle mie stalle,<br>e ogni cosa corrispondente a questa dotazione. 355<br>Io stesso son carico d’anni, debbo confessarlo,<br>e se muoio domani questo è suo,<br>purché finché vivo ella sia soltanto mia. |
+| [[Tranio\|TRANIO]] | Quel «soltanto» è venuto [[Well\|bene]] a proposito. Signore, ascoltatemi.<br>Io sono l’erede e unico figlio di mio padre.<br>Se posso avere vostra figlia in moglie<br>le lascerò tre o quattro case buone quanto, |
 | *(didascalia)* | dentro le ricche mura di Pisa, quante mai |
-| [[Tranio|TRANIO]] | il vecchio signor Gremio ne ha in Padova,<br>oltre a duemila ducati all’anno<br>di terra feconda, e tutto ciò sarà il suo vedovile.<br>Come, v’ho punto, signor Gremio? |
-| GREMIO | Duemila ducati all’anno di terra—<br>la mia terra non ammonta a tanto in tutto.<br>Quello ella avrà; e inoltre una nave da carico<br>che ora giace nella [[Road|rada]] di Marsiglia.<br>Come, v’ho soffocato con una nave da carico? |
-| [[Tranio|TRANIO]] | Gremio, si sa che mio padre non ha meno<br>di tre grandi navi da carico, oltre a due galeazze<br>e dodici galee ben salde. Queste le assicurerò,<br>e il doppio di qualunque cosa offrirai poi. |
+| [[Tranio\|TRANIO]] | il vecchio signor Gremio ne ha in Padova,<br>oltre a duemila ducati all’anno<br>di terra feconda, e tutto ciò sarà il suo vedovile.<br>Come, v’ho punto, signor Gremio? |
+| GREMIO | Duemila ducati all’anno di terra—<br>la mia terra non ammonta a tanto in tutto.<br>Quello ella avrà; e inoltre una nave da carico<br>che ora giace nella [[Road\|rada]] di Marsiglia.<br>Come, v’ho soffocato con una nave da carico? |
+| [[Tranio\|TRANIO]] | Gremio, si sa che mio padre non ha meno<br>di tre grandi navi da carico, oltre a due galeazze<br>e dodici galee ben salde. Queste le assicurerò,<br>e il doppio di qualunque cosa offrirai poi. |
 | GREMIO | No, ho offerto tutto. Non ho di più,<br>ed ella non può avere più di tutto ciò che ho.<br>Se vi aggrado, avrà me e il mio. |
-| [[Tranio|TRANIO]] | Ebbene allora la fanciulla è mia contro tutto il mondo.<br>Per vostra ferma promessa Gremio è superato nell’offerta. |
-| [[Baptista|BATTISTA]] | Debbo confessare che la vostra offerta è la migliore,<br>e purché vostro padre le faccia l’assicurazione,<br>ella è vostra. Altrimenti, dovete perdonarmi:<br>se voi moriste prima di lui, dov’è la sua dote? |
-| [[Tranio|TRANIO]] | Questo è un mero cavillo. Egli è vecchio, io giovane. |
-| GREMIO | E non possono i giovani morire [[Well|bene]] quanto i vecchi? |
-| [[Baptista|BATTISTA]] | [[Well|Ebbene]], signori,<br>così son risoluto. [[Sunday|Domenica]] prossima, lo sapete,<br>mia figlia Caterina si deve maritare.<br>(A [[Tranio]]) Ora, la [[Sunday|domenica]] seguente<br>[[Bianca]]<br>sarà sposa a voi, se farete quest’assicurazione;<br>se no, al signor Gremio.<br>E così prendo congedo, e ringrazio entrambi. |
+| [[Tranio\|TRANIO]] | Ebbene allora la fanciulla è mia contro tutto il mondo.<br>Per vostra ferma promessa Gremio è superato nell’offerta. |
+| [[Baptista\|BATTISTA]] | Debbo confessare che la vostra offerta è la migliore,<br>e purché vostro padre le faccia l’assicurazione,<br>ella è vostra. Altrimenti, dovete perdonarmi:<br>se voi moriste prima di lui, dov’è la sua dote? |
+| [[Tranio\|TRANIO]] | Questo è un mero cavillo. Egli è vecchio, io giovane. |
+| GREMIO | E non possono i giovani morire [[Well\|bene]] quanto i vecchi? |
+| [[Baptista\|BATTISTA]] | [[Well\|Ebbene]], signori,<br>così son risoluto. [[Sunday\|Domenica]] prossima, lo sapete,<br>mia figlia Caterina si deve maritare.<br>(A [[Tranio]]) Ora, la [[Sunday\|domenica]] seguente<br>[[Bianca]]<br>sarà sposa a voi, se farete quest’assicurazione;<br>se no, al signor Gremio.<br>E così prendo congedo, e ringrazio entrambi. |
 | GREMIO | Addio, buon vicino. |
-| *(didascalia)* | Esce [[Baptista|Battista]] |
-| GREMIO | Ora non ti [[Fear|temo]].<br>Messere, giovane giocatore, vostro padre sarebbe uno [[Fool|sciocco]]<br>a darti tutto, e nella sua età declinante<br>a metter piede sotto la tua tavola. Bah, una fandonia!<br>Una vecchia volpe italiana non è così cortese, ragazzo mio. |
+| *(didascalia)* | Esce [[Baptista\|Battista]] |
+| GREMIO | Ora non ti [[Fear\|temo]].<br>Messere, giovane giocatore, vostro padre sarebbe uno [[Fool\|sciocco]]<br>a darti tutto, e nella sua età declinante<br>a metter piede sotto la tua tavola. Bah, una fandonia!<br>Una vecchia volpe italiana non è così cortese, ragazzo mio. |
 | *(didascalia)* | Esce |
-| [[Tranio|TRANIO]] | Un accidente alla vostra astuta pelle avvizzita!<br>Pure l’ho affrontata con una carta da dieci.<br>Ho in capo di far del bene al mio padrone.<br>Non vedo ragione perché il preteso [[Lucentio]]<br>non debba procurarsi un padre detto il preteso Vincenzio—<br>e questa è una [[Wonder|meraviglia]]; i padri comunemente<br>generano i loro figli, ma in questo caso di corteggiamento<br>un [[Child|figlio]] genererà un padre, se non mi manca l’astuzia. |
+| [[Tranio\|TRANIO]] | Un accidente alla vostra astuta pelle avvizzita!<br>Pure l’ho affrontata con una carta da dieci.<br>Ho in capo di far del bene al mio padrone.<br>Non vedo ragione perché il preteso [[Lucentio]]<br>non debba procurarsi un padre detto il preteso Vincenzio—<br>e questa è una [[Wonder\|meraviglia]]; i padri comunemente<br>generano i loro figli, ma in questo caso di corteggiamento<br>un [[Child\|figlio]] genererà un padre, se non mi manca l’astuzia. |
 | *(didascalia)* | Esce |
 
 
@@ -2190,40 +2190,40 @@ Bartholomew sits
 
 | Chi parla | Battuta |
 |---|---|
-| *(didascalia)* | Entrano [[Lucentio]] con dei libri, come Cambio, [[Hortensio|Ortensio]] con un liuto, come Licio, e [[Bianca]] |
-| [[Lucentio|LUCENTIO]] | Sonatore, trattenetevi. Diventate troppo ardito, signore.<br>Avete già dimenticato l’accoglienza<br>con cui sua sorella Caterina vi diede il benvenuto? |
-| [[Hortensio|ORTENSIO]] | Ma, pedante rissoso, questa è [[Bianca]],<br>la patrona della celeste armonia.<br>Concedetemi dunque d’aver la precedenza,<br>e quando avremo speso un’ora nella musica<br>la vostra lezione avrà agio d’altrettanto. |
-| [[Lucentio|LUCENTIO]] | Asino sconsiderato, che non leggesti mai tanto oltre<br>da saper la causa per cui la musica fu istituita!<br>Non fu forse per ristorare la mente dell’uomo<br>dopo i suoi studi o la sua consueta [[Pain|fatica]]?<br>Lasciatemi dunque leggere la [[philosophy|filosofia]],<br>e mentre io faccio pausa, servite la vostra armonia. |
-| [[Hortensio|ORTENSIO]] | Messere, non sopporterò queste tue bravate. |
-| [[Bianca|BIANCA]] | Ma signori, mi fate [[Double|doppio]] torto<br>contendendovi ciò che sta nella mia scelta.<br>Non sono uno scolaretto da frusta nelle scuole.<br>Non sarò legata a ore né a tempi prefissi,<br>ma imparerò le mie lezioni come a me piace;<br>e per troncare ogni contesa, sediamoci qui.<br>(A [[Hortensio|Ortensio]]) Prendete voi il vostro strumento, sonate<br>frattanto.<br>La sua lezione sarà finita prima che abbiate accordato. |
-| [[Hortensio|ORTENSIO]] | Lascerete la sua lezione quando sarò accordato? |
-| [[Lucentio|LUCENTIO]] | Il che non sarà mai. Accordate il vostro strumento.<br>[[Hortensio|Ortensio]] accorda il suo liuto. [[Lucentio]] apre un libro |
-| [[Bianca|BIANCA]] | Dove ci fermammo l’ultima volta? |
-| [[Lucentio|LUCENTIO]] | Qui, madonna.<br>(Legge) «Hie ibat Simois, hie est Sigeia tellus, Hie steterat Priami regia celsa senis.» |
-| [[Bianca|BIANCA]] | Costruitele. |
-| [[Lucentio|LUCENTIO]] | «Hie ibat», come vi dissi prima—«Simois», io sono [[Lucentio]]—«hic est», figlio di Vincenzio di Pisa—«Sigeia tellus», travestito così per ottenere il vostro [[Love|amore]]—«hic steterat», e quel [[Lucentio]] che viene a corteggiare—«Priami», è il mio servo [[Tranio]]—«regia», che ne porta il contegno—«celsa senis», affinché possiamo ingannare il vecchio pantalone. |
-| [[Hortensio|ORTENSIO]] | Madonna, il mio strumento è accordato. |
-| [[Bianca|BIANCA]] | Sentiamo. ([[Hortensio|Ortensio]] suona) Oh via, il cantino stona. |
-| [[Lucentio|LUCENTIO]] | Sputate nel buco, amico, e accordate di nuovo.<br>[[Hortensio|Ortensio]] riaccorda il suo liuto |
-| [[Bianca|BIANCA]] | Ora vediamo se so costruirla io. «Hic ibat Simois», non vi conosco—«hic est Sigeia tellus», non mi fido di voi—«hic steterat Priami», badate che non ci oda—«regia», non presumete—«celsa senis», non [[Despair|disperate]]. |
-| [[Hortensio|ORTENSIO]] | Madonna, ora è accordato. |
-| [[Lucentio|LUCENTIO]] | Tutto tranne il basso. |
-| [[Hortensio|ORTENSIO]] | Il basso è giusto, è il basso furfante che stona.<br>(A parte) Com’è focoso e ardito il nostro pedante!<br>Ora, sulla mia vita, il furfante [[Court|corteggia]] il mio [[Love|amore]].<br>Pedascule, ti sorveglierò meglio ancora. |
-| [[Bianca|BIANCA]] | (a [[Lucentio]])<br>Col [[Time|tempo]] potrò credere; pure, diffido. |
-| [[Lucentio|LUCENTIO]] | Non ne diffidate, ché certo Eacide<br>era [[Ajax|Aiace]], così chiamato dal suo avo. |
-| [[Bianca|BIANCA]] | Debbo credere al mio maestro, altrimenti, ve l’assicuro,<br>starei ancora a disputare su quel [[Doubt|dubbio]].<br>Ma lasciamo stare. Ora, Licio, a voi.<br>Buon maestro, non ve n’abbiate a male, vi prego,<br>ch’io sia stata così scherzosa con voi entrambi. |
-| [[Hortensio|ORTENSIO]] | (a [[Lucentio]])<br>Potete andare a passeggio e lasciarmi libero per un poco.<br>Le mie lezioni non fanno musica a tre parti. |
-| [[Lucentio|LUCENTIO]] | Siete così cerimonioso, signore? [[Well|Bene]], dovrò attendere.<br>(A parte) E sorvegliare per giunta, ché se non m’inganno<br>il nostro fine musicista si fa innamorato. |
-| [[Hortensio|ORTENSIO]] | Madonna, prima che tocchiate lo strumento<br>per apprendere l’ordine della mia diteggiatura,<br>debbo cominciare dai rudimenti dell’arte,<br>per insegnarvi la scala in modo più breve,<br>più piacevole, succoso ed efficace<br>di quanto sia stato insegnato da alcuno del mio mestiere;<br>ed eccola qui per iscritto, ben tracciata.<br>Le porge un foglio |
-| [[Bianca|BIANCA]] | Ma io ho superato la mia scala da un pezzo. |
-| [[Hortensio|ORTENSIO]] | Leggete tuttavia la scala di [[Hortensio|Ortensio]]. |
-| [[Bianca|BIANCA]] | (legge)<br>«Gam-ut io sono, il fondamento d’ogni accordo, A—re—per perorare la passione di [[Hortensio|Ortensio]].<br>B—mi—[[Bianca]], prendilo per tuo signore, C—fa, ut—colui che ama con tutto l’affetto.<br>D—sol, re—una chiave, due note ho io,<br>E—la, mi—abbi pietà, o muoio.»<br>Chiamate questa una scala? Bah, non mi piace.<br>Le fogge antiche mi piacciono di più. Non son così schifiltosa<br>da cambiare regole vere per bizzarre invenzioni. |
+| *(didascalia)* | Entrano [[Lucentio]] con dei libri, come Cambio, [[Hortensio\|Ortensio]] con un liuto, come Licio, e [[Bianca]] |
+| [[Lucentio\|LUCENTIO]] | Sonatore, trattenetevi. Diventate troppo ardito, signore.<br>Avete già dimenticato l’accoglienza<br>con cui sua sorella Caterina vi diede il benvenuto? |
+| [[Hortensio\|ORTENSIO]] | Ma, pedante rissoso, questa è [[Bianca]],<br>la patrona della celeste armonia.<br>Concedetemi dunque d’aver la precedenza,<br>e quando avremo speso un’ora nella musica<br>la vostra lezione avrà agio d’altrettanto. |
+| [[Lucentio\|LUCENTIO]] | Asino sconsiderato, che non leggesti mai tanto oltre<br>da saper la causa per cui la musica fu istituita!<br>Non fu forse per ristorare la mente dell’uomo<br>dopo i suoi studi o la sua consueta [[Pain\|fatica]]?<br>Lasciatemi dunque leggere la [[philosophy\|filosofia]],<br>e mentre io faccio pausa, servite la vostra armonia. |
+| [[Hortensio\|ORTENSIO]] | Messere, non sopporterò queste tue bravate. |
+| [[Bianca\|BIANCA]] | Ma signori, mi fate [[Double\|doppio]] torto<br>contendendovi ciò che sta nella mia scelta.<br>Non sono uno scolaretto da frusta nelle scuole.<br>Non sarò legata a ore né a tempi prefissi,<br>ma imparerò le mie lezioni come a me piace;<br>e per troncare ogni contesa, sediamoci qui.<br>(A [[Hortensio\|Ortensio]]) Prendete voi il vostro strumento, sonate<br>frattanto.<br>La sua lezione sarà finita prima che abbiate accordato. |
+| [[Hortensio\|ORTENSIO]] | Lascerete la sua lezione quando sarò accordato? |
+| [[Lucentio\|LUCENTIO]] | Il che non sarà mai. Accordate il vostro strumento.<br>[[Hortensio\|Ortensio]] accorda il suo liuto. [[Lucentio]] apre un libro |
+| [[Bianca\|BIANCA]] | Dove ci fermammo l’ultima volta? |
+| [[Lucentio\|LUCENTIO]] | Qui, madonna.<br>(Legge) «Hie ibat Simois, hie est Sigeia tellus, Hie steterat Priami regia celsa senis.» |
+| [[Bianca\|BIANCA]] | Costruitele. |
+| [[Lucentio\|LUCENTIO]] | «Hie ibat», come vi dissi prima—«Simois», io sono [[Lucentio]]—«hic est», figlio di Vincenzio di Pisa—«Sigeia tellus», travestito così per ottenere il vostro [[Love\|amore]]—«hic steterat», e quel [[Lucentio]] che viene a corteggiare—«Priami», è il mio servo [[Tranio]]—«regia», che ne porta il contegno—«celsa senis», affinché possiamo ingannare il vecchio pantalone. |
+| [[Hortensio\|ORTENSIO]] | Madonna, il mio strumento è accordato. |
+| [[Bianca\|BIANCA]] | Sentiamo. ([[Hortensio\|Ortensio]] suona) Oh via, il cantino stona. |
+| [[Lucentio\|LUCENTIO]] | Sputate nel buco, amico, e accordate di nuovo.<br>[[Hortensio\|Ortensio]] riaccorda il suo liuto |
+| [[Bianca\|BIANCA]] | Ora vediamo se so costruirla io. «Hic ibat Simois», non vi conosco—«hic est Sigeia tellus», non mi fido di voi—«hic steterat Priami», badate che non ci oda—«regia», non presumete—«celsa senis», non [[Despair\|disperate]]. |
+| [[Hortensio\|ORTENSIO]] | Madonna, ora è accordato. |
+| [[Lucentio\|LUCENTIO]] | Tutto tranne il basso. |
+| [[Hortensio\|ORTENSIO]] | Il basso è giusto, è il basso furfante che stona.<br>(A parte) Com’è focoso e ardito il nostro pedante!<br>Ora, sulla mia vita, il furfante [[Court\|corteggia]] il mio [[Love\|amore]].<br>Pedascule, ti sorveglierò meglio ancora. |
+| [[Bianca\|BIANCA]] | (a [[Lucentio]])<br>Col [[Time\|tempo]] potrò credere; pure, diffido. |
+| [[Lucentio\|LUCENTIO]] | Non ne diffidate, ché certo Eacide<br>era [[Ajax\|Aiace]], così chiamato dal suo avo. |
+| [[Bianca\|BIANCA]] | Debbo credere al mio maestro, altrimenti, ve l’assicuro,<br>starei ancora a disputare su quel [[Doubt\|dubbio]].<br>Ma lasciamo stare. Ora, Licio, a voi.<br>Buon maestro, non ve n’abbiate a male, vi prego,<br>ch’io sia stata così scherzosa con voi entrambi. |
+| [[Hortensio\|ORTENSIO]] | (a [[Lucentio]])<br>Potete andare a passeggio e lasciarmi libero per un poco.<br>Le mie lezioni non fanno musica a tre parti. |
+| [[Lucentio\|LUCENTIO]] | Siete così cerimonioso, signore? [[Well\|Bene]], dovrò attendere.<br>(A parte) E sorvegliare per giunta, ché se non m’inganno<br>il nostro fine musicista si fa innamorato. |
+| [[Hortensio\|ORTENSIO]] | Madonna, prima che tocchiate lo strumento<br>per apprendere l’ordine della mia diteggiatura,<br>debbo cominciare dai rudimenti dell’arte,<br>per insegnarvi la scala in modo più breve,<br>più piacevole, succoso ed efficace<br>di quanto sia stato insegnato da alcuno del mio mestiere;<br>ed eccola qui per iscritto, ben tracciata.<br>Le porge un foglio |
+| [[Bianca\|BIANCA]] | Ma io ho superato la mia scala da un pezzo. |
+| [[Hortensio\|ORTENSIO]] | Leggete tuttavia la scala di [[Hortensio\|Ortensio]]. |
+| [[Bianca\|BIANCA]] | (legge)<br>«Gam-ut io sono, il fondamento d’ogni accordo, A—re—per perorare la passione di [[Hortensio\|Ortensio]].<br>B—mi—[[Bianca]], prendilo per tuo signore, C—fa, ut—colui che ama con tutto l’affetto.<br>D—sol, re—una chiave, due note ho io,<br>E—la, mi—abbi pietà, o muoio.»<br>Chiamate questa una scala? Bah, non mi piace.<br>Le fogge antiche mi piacciono di più. Non son così schifiltosa<br>da cambiare regole vere per bizzarre invenzioni. |
 | *(didascalia)* | Entra un messaggero |
 | MESSAGGERO | Signora, vostro padre vi prega di lasciare i libri<br>e d’aiutare ad addobbare la camera di vostra sorella.<br>Sapete che domani è il giorno delle nozze. |
-| [[Bianca|BIANCA]] | Addio, dolci maestri entrambi. Debbo andare. |
-| [[Lucentio|LUCENTIO]] | In [[Faith|fede]], signora, allora non ho motivo di restare. |
+| [[Bianca\|BIANCA]] | Addio, dolci maestri entrambi. Debbo andare. |
+| [[Lucentio\|LUCENTIO]] | In [[Faith\|fede]], signora, allora non ho motivo di restare. |
 | *(didascalia)* | Escono [[Bianca]], il messaggero e [[Lucentio]] |
-| [[Hortensio|ORTENSIO]] | Ma io ho motivo di spiare questo pedante.<br>Mi pare che abbia l’aria d’essere in [[Love|amore]].<br>Pure, se i tuoi pensieri, [[Bianca]], son tanto vili<br>da gettare i tuoi occhi vaganti su ogni richiamo,<br>ti prenda chi vuole. Se una volta ti scopro errabonda,<br>[[Hortensio|Ortensio]] sarà pari con te cambiando. |
+| [[Hortensio\|ORTENSIO]] | Ma io ho motivo di spiare questo pedante.<br>Mi pare che abbia l’aria d’essere in [[Love\|amore]].<br>Pure, se i tuoi pensieri, [[Bianca]], son tanto vili<br>da gettare i tuoi occhi vaganti su ogni richiamo,<br>ti prenda chi vuole. Se una volta ti scopro errabonda,<br>[[Hortensio\|Ortensio]] sarà pari con te cambiando. |
 | *(didascalia)* | Esce |
 
 
@@ -2286,53 +2286,53 @@ Bartholomew sits
 
 | Chi parla | Battuta |
 |---|---|
-| *(didascalia)* | Entrano [[Baptista|Battista]], Gremio, [[Tranio]] come [[Lucentio]], Caterina, [[Bianca]] e altri, servitori |
-| [[Baptista|BATTISTA]] | (a [[Tranio]])<br>Signor [[Lucentio]], questo è il giorno stabilito<br>in cui Caterina e Petruccio dovrebbero sposarsi,<br>eppure non udiamo nulla del nostro genero.<br>Che si dirà, che beffa sarà,<br>mancare lo sposo mentre il prete attende<br>di pronunciare i riti solenni del [[Marriage|matrimonio]]?<br>Che dice [[Lucentio]] di questa nostra onta? |
-| CATERINA | Nessuna onta se non la mia. Devo, per forza,<br>dare la mia mano contro il mio cuore<br>a un pazzo screanzato pieno di bile, 10<br>che corteggiò in fretta e intende sposare con comodo.<br>Ve l’avevo detto, io, ch’era un frenetico [[Fool|folle]],<br>che nasconde i suoi amari scherzi in rozzi modi;<br>e per essere segnalato come uomo allegro<br>ne corteggerà mille, fisserà il giorno delle [[Marriage|nozze]],<br>si farà amici, li inviterà, e proclamerà i bandi,<br>eppure non intende mai sposare là dove ha corteggiato.<br>Ora il mondo additerà la povera Caterina<br>e dirà: «Ecco, quella è la moglie del pazzo Petruccio,<br>se a lui piacesse venire e sposarla.» |
-| [[Tranio|TRANIO]] | Pazienza, buona Caterina, e anche voi, [[Baptista|Battista]].<br>Sulla mia vita, Petruccio non intende che il [[Well|bene]].<br>Qualunque sorte lo trattenga dalla sua parola,<br>benché sia rozzo, io lo so oltremodo saggio;<br>benché sia allegro, è pur tuttavia onesto. |
+| *(didascalia)* | Entrano [[Baptista\|Battista]], Gremio, [[Tranio]] come [[Lucentio]], Caterina, [[Bianca]] e altri, servitori |
+| [[Baptista\|BATTISTA]] | (a [[Tranio]])<br>Signor [[Lucentio]], questo è il giorno stabilito<br>in cui Caterina e Petruccio dovrebbero sposarsi,<br>eppure non udiamo nulla del nostro genero.<br>Che si dirà, che beffa sarà,<br>mancare lo sposo mentre il prete attende<br>di pronunciare i riti solenni del [[Marriage\|matrimonio]]?<br>Che dice [[Lucentio]] di questa nostra onta? |
+| CATERINA | Nessuna onta se non la mia. Devo, per forza,<br>dare la mia mano contro il mio cuore<br>a un pazzo screanzato pieno di bile, 10<br>che corteggiò in fretta e intende sposare con comodo.<br>Ve l’avevo detto, io, ch’era un frenetico [[Fool\|folle]],<br>che nasconde i suoi amari scherzi in rozzi modi;<br>e per essere segnalato come uomo allegro<br>ne corteggerà mille, fisserà il giorno delle [[Marriage\|nozze]],<br>si farà amici, li inviterà, e proclamerà i bandi,<br>eppure non intende mai sposare là dove ha corteggiato.<br>Ora il mondo additerà la povera Caterina<br>e dirà: «Ecco, quella è la moglie del pazzo Petruccio,<br>se a lui piacesse venire e sposarla.» |
+| [[Tranio\|TRANIO]] | Pazienza, buona Caterina, e anche voi, [[Baptista\|Battista]].<br>Sulla mia vita, Petruccio non intende che il [[Well\|bene]].<br>Qualunque sorte lo trattenga dalla sua parola,<br>benché sia rozzo, io lo so oltremodo saggio;<br>benché sia allegro, è pur tuttavia onesto. |
 | CATERINA | Vorrei però che Caterina non l’avesse mai visto. |
 | *(didascalia)* | Esce piangendo |
-| [[Baptista|BATTISTA]] | Va’, figliola. Non posso biasimarti ora se piangi.<br>Ché una tale offesa irriterebbe perfino un santo,<br>e molto più una bisbetica del tuo impaziente [[Humour|umore]]. |
+| [[Baptista\|BATTISTA]] | Va’, figliola. Non posso biasimarti ora se piangi.<br>Ché una tale offesa irriterebbe perfino un santo,<br>e molto più una bisbetica del tuo impaziente [[Humour\|umore]]. |
 | *(didascalia)* | Entra Biondello |
 | BIONDELLO | Padrone, padrone, notizie—vecchie notizie, e notizie tali quali non ne udiste mai. 31 |
-| [[Baptista|BATTISTA]] | Sono nuove e insieme vecchie? Come può essere? |
+| [[Baptista\|BATTISTA]] | Sono nuove e insieme vecchie? Come può essere? |
 | BIONDELLO | Ebbene, non è forse una notizia udire dell’arrivo di Petruccio? |
-| [[Baptista|BATTISTA]] | È arrivato? 35 |
+| [[Baptista\|BATTISTA]] | È arrivato? 35 |
 | BIONDELLO | Ma no, signore. |
-| [[Baptista|BATTISTA]] | E allora che cosa? |
+| [[Baptista\|BATTISTA]] | E allora che cosa? |
 | BIONDELLO | Sta arrivando. |
-| [[Baptista|BATTISTA]] | Quando sarà qui? |
+| [[Baptista\|BATTISTA]] | Quando sarà qui? |
 | BIONDELLO | Quando starà dove sto io e vi vedrà là. 41 |
-| [[Tranio|TRANIO]] | Ma dimmi, che ne è delle tue vecchie notizie? |
-| BIONDELLO | Ebbene, Petruccio viene con un cappello nuovo e un giubbetto vecchio, un paio di brache vecchie rivoltate tre volte, un paio di stivali che son serviti da portacandele, uno affibbiato, l’altro allacciato, una vecchia [[Sword|spada]] arrugginita presa dall’armeria della città con l’elsa rotta e senza puntale, con due cinghie spezzate; il suo [[Horse|cavallo]] sciancato, con una vecchia sella tarlata e staffe che non son parenti tra loro; per giunta preso dal moccio e prossimo a imputridire nella spina, travagliato dal barbone, infetto dai bolsi, pieno di gonfiori ai garretti, rovinato dagli spavani, sfregiato dall’itterizia, inguaribile dalle glandole, del tutto guasto dal capostorno, roso dai vermi, sbilenco nella schiena e spallato, storto di gambe davanti, e con un morso a mezza guancia e una testiera di cuoio di pecora che, essendo tirata per impedirgli d’inciampare, s’è rotta spesso e ora è riparata con dei nodi; un sottopancia rappezzato sei volte, e una groppiera da donna di velluto che porta due lettere del suo nome ben disposte in borchie, e qua e là rattoppata con dello spago. |
-| [[Baptista|BATTISTA]] | Chi viene con lui? |
-| BIONDELLO | Oh signore, il suo lacchè, bardato in tutto e per tutto come il [[Horse|cavallo]], con una calza di lino a una gamba e un gambale di rascia all’altra, legati con una giarrettiera a liste rosse e turchine; un vecchio cappello, e l’[[Humour|umore]] delle quaranta fantasie infilzato dentro a mo’ di piuma—un [[Monster|mostro]], un vero [[Monster|mostro]] nell’abbigliamento, e non già un paggio cristiano o il lacchè d’un gentiluomo. |
-| [[Tranio|TRANIO]] | È qualche strano [[Humour|umore]] che lo punge a questa foggia;<br>eppure spesso egli va vestito assai dimesso. |
-| [[Baptista|BATTISTA]] | Son lieto ch’egli sia venuto, comunque venga. |
+| [[Tranio\|TRANIO]] | Ma dimmi, che ne è delle tue vecchie notizie? |
+| BIONDELLO | Ebbene, Petruccio viene con un cappello nuovo e un giubbetto vecchio, un paio di brache vecchie rivoltate tre volte, un paio di stivali che son serviti da portacandele, uno affibbiato, l’altro allacciato, una vecchia [[Sword\|spada]] arrugginita presa dall’armeria della città con l’elsa rotta e senza puntale, con due cinghie spezzate; il suo [[Horse\|cavallo]] sciancato, con una vecchia sella tarlata e staffe che non son parenti tra loro; per giunta preso dal moccio e prossimo a imputridire nella spina, travagliato dal barbone, infetto dai bolsi, pieno di gonfiori ai garretti, rovinato dagli spavani, sfregiato dall’itterizia, inguaribile dalle glandole, del tutto guasto dal capostorno, roso dai vermi, sbilenco nella schiena e spallato, storto di gambe davanti, e con un morso a mezza guancia e una testiera di cuoio di pecora che, essendo tirata per impedirgli d’inciampare, s’è rotta spesso e ora è riparata con dei nodi; un sottopancia rappezzato sei volte, e una groppiera da donna di velluto che porta due lettere del suo nome ben disposte in borchie, e qua e là rattoppata con dello spago. |
+| [[Baptista\|BATTISTA]] | Chi viene con lui? |
+| BIONDELLO | Oh signore, il suo lacchè, bardato in tutto e per tutto come il [[Horse\|cavallo]], con una calza di lino a una gamba e un gambale di rascia all’altra, legati con una giarrettiera a liste rosse e turchine; un vecchio cappello, e l’[[Humour\|umore]] delle quaranta fantasie infilzato dentro a mo’ di piuma—un [[Monster\|mostro]], un vero [[Monster\|mostro]] nell’abbigliamento, e non già un paggio cristiano o il lacchè d’un gentiluomo. |
+| [[Tranio\|TRANIO]] | È qualche strano [[Humour\|umore]] che lo punge a questa foggia;<br>eppure spesso egli va vestito assai dimesso. |
+| [[Baptista\|BATTISTA]] | Son lieto ch’egli sia venuto, comunque venga. |
 | BIONDELLO | Ma signore, egli non viene. |
-| [[Baptista|BATTISTA]] | Non hai detto tu che viene? |
+| [[Baptista\|BATTISTA]] | Non hai detto tu che viene? |
 | BIONDELLO | Chi? Che Petruccio è venuto? 75 |
-| [[Baptista|BATTISTA]] | Sì, che Petruccio è venuto. |
-| BIONDELLO | No, signore. Io dico che il suo [[Horse|cavallo]] viene con lui sulla schiena. |
-| [[Baptista|BATTISTA]] | Ma è tutt’uno. |
-| BIONDELLO | Nossignore, per San Giacomino, vi scommetto un soldo,<br>un [[Horse|cavallo]] e un uomo<br>son più d’uno,<br>e tuttavia non molti. |
+| [[Baptista\|BATTISTA]] | Sì, che Petruccio è venuto. |
+| BIONDELLO | No, signore. Io dico che il suo [[Horse\|cavallo]] viene con lui sulla schiena. |
+| [[Baptista\|BATTISTA]] | Ma è tutt’uno. |
+| BIONDELLO | Nossignore, per San Giacomino, vi scommetto un soldo,<br>un [[Horse\|cavallo]] e un uomo<br>son più d’uno,<br>e tuttavia non molti. |
 | *(didascalia)* | Entrano Petruccio e [[Grumio]], vestiti in modo stravagante |
-| PETRUCCIO | Su, dove sono questi galanti? Chi c’è in [[Home|casa]]? |
-| [[Baptista|BATTISTA]] | Siate il benvenuto, signore. |
-| PETRUCCIO | Eppure non vengo [[Well|bene]]. |
-| [[Baptista|BATTISTA]] | Eppure non zoppicate. |
-| [[Tranio|TRANIO]] | Non così [[Well|ben]] vestito come vorrei che foste. |
+| PETRUCCIO | Su, dove sono questi galanti? Chi c’è in [[Home\|casa]]? |
+| [[Baptista\|BATTISTA]] | Siate il benvenuto, signore. |
+| PETRUCCIO | Eppure non vengo [[Well\|bene]]. |
+| [[Baptista\|BATTISTA]] | Eppure non zoppicate. |
+| [[Tranio\|TRANIO]] | Non così [[Well\|ben]] vestito come vorrei che foste. |
 | PETRUCCIO | Non sarebbe meglio ch’io irrompessi così—<br>Ma dov’è Cate? Dov’è la mia leggiadra sposa?<br>Come sta mio padre? Signori, mi par che aggrottiate le ciglia.<br>E perché questa nobile compagnia mi fissa<br>come se vedesse un qualche prodigioso monumento,<br>una cometa o un insolito portento? |
-| [[Baptista|BATTISTA]] | Ma, signore, sapete che questo è il giorno delle vostre nozze.<br>Prima fummo tristi, temendo che non veniste;<br>ora più tristi che veniate così sprovvisto.<br>Via, spogliatevi di quest’abito, vergogna del vostro stato,<br>obbrobrio alla nostra solenne festa. |
-| [[Tranio|TRANIO]] | E diteci quale occasione d’importanza<br>vi ha trattenuto così a lungo dalla vostra sposa<br>e vi ha mandato qui così diverso da voi stesso. |
-| PETRUCCIO | Tedioso sarebbe raccontarlo, e aspro udirlo.<br>Basti ch’io sia venuto a mantenere la mia parola,<br>benché in qualche parte costretto a deviarne,<br>di che, con più agio, mi scuserò in modo<br>che ne sarete [[Well|ben]] soddisfatti.<br>Ma dov’è Cate? Sto troppo a lungo lontano da lei.<br>Il mattino trascorre, è [[Time|tempo]] che siamo in chiesa. |
-| [[Tranio|TRANIO]] | Non vedete la vostra sposa in queste vesti irriverenti.<br>Andate nella mia camera, indossate abiti miei. |
+| [[Baptista\|BATTISTA]] | Ma, signore, sapete che questo è il giorno delle vostre nozze.<br>Prima fummo tristi, temendo che non veniste;<br>ora più tristi che veniate così sprovvisto.<br>Via, spogliatevi di quest’abito, vergogna del vostro stato,<br>obbrobrio alla nostra solenne festa. |
+| [[Tranio\|TRANIO]] | E diteci quale occasione d’importanza<br>vi ha trattenuto così a lungo dalla vostra sposa<br>e vi ha mandato qui così diverso da voi stesso. |
+| PETRUCCIO | Tedioso sarebbe raccontarlo, e aspro udirlo.<br>Basti ch’io sia venuto a mantenere la mia parola,<br>benché in qualche parte costretto a deviarne,<br>di che, con più agio, mi scuserò in modo<br>che ne sarete [[Well\|ben]] soddisfatti.<br>Ma dov’è Cate? Sto troppo a lungo lontano da lei.<br>Il mattino trascorre, è [[Time\|tempo]] che siamo in chiesa. |
+| [[Tranio\|TRANIO]] | Non vedete la vostra sposa in queste vesti irriverenti.<br>Andate nella mia camera, indossate abiti miei. |
 | PETRUCCIO | Non io, credetemi. Così andrò a trovarla. |
-| [[Baptista|BATTISTA]] | Ma così, confido, non la sposerete. |
-| PETRUCCIO | In verità, proprio così. Perciò finiamola con le<br>parole.<br>A me ella è sposata, non ai miei abiti.<br>Potessi io riparare ciò ch’ella logorerà in me<br>come posso cambiare questi poveri arnesi,<br>sarebbe [[Well|bene]] per Cate e meglio per me stesso.<br>Ma che [[Fool|sciocco]] son io a chiacchierare con voi<br>quando dovrei dare il buon giorno alla mia sposa<br>e sigillare il titolo con un amoroso bacio! |
+| [[Baptista\|BATTISTA]] | Ma così, confido, non la sposerete. |
+| PETRUCCIO | In verità, proprio così. Perciò finiamola con le<br>parole.<br>A me ella è sposata, non ai miei abiti.<br>Potessi io riparare ciò ch’ella logorerà in me<br>come posso cambiare questi poveri arnesi,<br>sarebbe [[Well\|bene]] per Cate e meglio per me stesso.<br>Ma che [[Fool\|sciocco]] son io a chiacchierare con voi<br>quando dovrei dare il buon giorno alla mia sposa<br>e sigillare il titolo con un amoroso bacio! |
 | *(didascalia)* | Esce con Grumio |
-| [[Tranio|TRANIO]] | C’è qualche intenzione nel suo folle abbigliamento.<br>Lo persuaderemo, se sarà possibile,<br>a mettersene uno migliore prima d’andare in chiesa.<br>[Esce con Gremio] |
-| [[Baptista|BATTISTA]] | Gli andrò dietro, e vedrò l’esito di questo.<br>[Escono] |
+| [[Tranio\|TRANIO]] | C’è qualche intenzione nel suo folle abbigliamento.<br>Lo persuaderemo, se sarà possibile,<br>a mettersene uno migliore prima d’andare in chiesa.<br>[Esce con Gremio] |
+| [[Baptista\|BATTISTA]] | Gli andrò dietro, e vedrò l’esito di questo.<br>[Escono] |
 
 
 
@@ -2398,28 +2398,28 @@ Bartholomew sits
 | Chi parla | Battuta |
 |---|---|
 | *(didascalia)* | [Entrano [[Lucentio]] come Cambio, e [[Tranio]] come [[Lucentio]]] |
-| [[Tranio|TRANIO]] | Ma, signore, all’[[Love|amore]] ci conviene aggiungere<br>il gradimento di suo padre; e per ottenerlo,<br>come già esposi a Vostra Signoria,<br>debbo procurarmi un uomo—chiunque egli sia<br>poco importa, lo adatteremo al nostro scopo—<br>ed egli sarà Vincenzio di Pisa,<br>e darà qui in Padova garanzia<br>di somme maggiori di quelle ch’io ho promesso.<br>Così godrete tranquillamente la vostra [[Hope|speranza]],<br>e sposerete la dolce [[Bianca]] col consenso. |
-| [[Lucentio|LUCENTIO]] | Se non fosse che il mio collega maestro<br>sorveglia i passi di [[Bianca]] così da presso,<br>sarebbe bene, mi pare, rubarci le [[Marriage|nozze]];<br>le quali, una volta celebrate, dica pure no tutto il mondo,<br>io terrò il mio, a dispetto di tutto il mondo. |
-| [[Tranio|TRANIO]] | Questo intendiamo esaminarlo a poco a poco,<br>e spiare il nostro vantaggio in questa faccenda.<br>Gabberemo il barbagrigia Gremio,<br>il ficcanaso padre Minola,<br>il lezioso musicista, l’amoroso Licio,<br>e tutto per amore del mio padrone, [[Lucentio]]. |
+| [[Tranio\|TRANIO]] | Ma, signore, all’[[Love\|amore]] ci conviene aggiungere<br>il gradimento di suo padre; e per ottenerlo,<br>come già esposi a Vostra Signoria,<br>debbo procurarmi un uomo—chiunque egli sia<br>poco importa, lo adatteremo al nostro scopo—<br>ed egli sarà Vincenzio di Pisa,<br>e darà qui in Padova garanzia<br>di somme maggiori di quelle ch’io ho promesso.<br>Così godrete tranquillamente la vostra [[Hope\|speranza]],<br>e sposerete la dolce [[Bianca]] col consenso. |
+| [[Lucentio\|LUCENTIO]] | Se non fosse che il mio collega maestro<br>sorveglia i passi di [[Bianca]] così da presso,<br>sarebbe bene, mi pare, rubarci le [[Marriage\|nozze]];<br>le quali, una volta celebrate, dica pure no tutto il mondo,<br>io terrò il mio, a dispetto di tutto il mondo. |
+| [[Tranio\|TRANIO]] | Questo intendiamo esaminarlo a poco a poco,<br>e spiare il nostro vantaggio in questa faccenda.<br>Gabberemo il barbagrigia Gremio,<br>il ficcanaso padre Minola,<br>il lezioso musicista, l’amoroso Licio,<br>e tutto per amore del mio padrone, [[Lucentio]]. |
 | *(didascalia)* | Entra Gremio |
-| [[Tranio|TRANIO]] | Signor Gremio, venite dalla chiesa? |
+| [[Tranio\|TRANIO]] | Signor Gremio, venite dalla chiesa? |
 | GREMIO | Tanto volentieri quanto mai venni da scuola. |
-| [[Tranio|TRANIO]] | E la sposa e lo sposo vengono a [[Home|casa]]? |
+| [[Tranio\|TRANIO]] | E la sposa e lo sposo vengono a [[Home\|casa]]? |
 | GREMIO | Uno sposo, dite? È davvero uno staffiere—<br>uno staffiere brontolone, e la ragazza se ne accorgerà. |
-| [[Tranio|TRANIO]] | Più bisbetico di lei? Ma è impossibile. |
+| [[Tranio\|TRANIO]] | Più bisbetico di lei? Ma è impossibile. |
 | GREMIO | Ma via, è un diavolo, un diavolo, un vero demonio. |
-| [[Tranio|TRANIO]] | Ma via, lei è un diavolo, un diavolo, la madre del diavolo. |
-| GREMIO | Bah, in confronto a lui ella è un [[Lamb|agnello]], una colomba, una [[Fool|stupidella]].<br>Ve lo dirò, signor [[Lucentio]]: quando il prete<br>dovette chiedere se Caterina sarebbe stata sua moglie,<br>«Sì, per le piaghe di Dio!» diss’egli, e bestemmiò così forte<br>che il prete, tutto sbigottito, lasciò cadere il libro,<br>e mentre si chinava di nuovo a raccoglierlo<br>questo sposo scervellato gli diede un tale ceffone<br>che giù caddero prete e libro, e libro e prete.<br>«Ora raccoglieteli,» diss’egli, «chi ne ha voglia.» |
-| [[Tranio|TRANIO]] | Che disse il vicario quando si [[Rose|rialzò]]? |
-| GREMIO | Tremò e sussultò, ché quello pestava i piedi e bestemmiava<br>come se il vicario volesse gabbarlo.<br>Ma dopo compiute molte cerimonie<br>egli chiede del vino. «Un brindisi!» dice, come se<br>fosse stato a bordo, a gozzovigliare coi compagni<br>dopo una [[Storm|tempesta]]; tracannò il moscatello<br>e gettò tutte le zuppette in faccia al sagrestano,<br>non avendo altra ragione<br>se non che la sua barba cresceva rada e affamata<br>e pareva chiedergli le zuppette mentre beveva.<br>Fatto questo, prese la sposa per il collo<br>e le baciò le labbra con uno schiocco così clamoroso<br>che al distacco tutta la chiesa echeggiò;<br>e io, vedendo ciò, me ne venni via per pura vergogna,<br>e dietro a me, lo so, viene la brigata.<br>Non ci fu mai prima d’ora un [[Marriage|matrimonio]] così folle. |
+| [[Tranio\|TRANIO]] | Ma via, lei è un diavolo, un diavolo, la madre del diavolo. |
+| GREMIO | Bah, in confronto a lui ella è un [[Lamb\|agnello]], una colomba, una [[Fool\|stupidella]].<br>Ve lo dirò, signor [[Lucentio]]: quando il prete<br>dovette chiedere se Caterina sarebbe stata sua moglie,<br>«Sì, per le piaghe di Dio!» diss’egli, e bestemmiò così forte<br>che il prete, tutto sbigottito, lasciò cadere il libro,<br>e mentre si chinava di nuovo a raccoglierlo<br>questo sposo scervellato gli diede un tale ceffone<br>che giù caddero prete e libro, e libro e prete.<br>«Ora raccoglieteli,» diss’egli, «chi ne ha voglia.» |
+| [[Tranio\|TRANIO]] | Che disse il vicario quando si [[Rose\|rialzò]]? |
+| GREMIO | Tremò e sussultò, ché quello pestava i piedi e bestemmiava<br>come se il vicario volesse gabbarlo.<br>Ma dopo compiute molte cerimonie<br>egli chiede del vino. «Un brindisi!» dice, come se<br>fosse stato a bordo, a gozzovigliare coi compagni<br>dopo una [[Storm\|tempesta]]; tracannò il moscatello<br>e gettò tutte le zuppette in faccia al sagrestano,<br>non avendo altra ragione<br>se non che la sua barba cresceva rada e affamata<br>e pareva chiedergli le zuppette mentre beveva.<br>Fatto questo, prese la sposa per il collo<br>e le baciò le labbra con uno schiocco così clamoroso<br>che al distacco tutta la chiesa echeggiò;<br>e io, vedendo ciò, me ne venni via per pura vergogna,<br>e dietro a me, lo so, viene la brigata.<br>Non ci fu mai prima d’ora un [[Marriage\|matrimonio]] così folle. |
 | *(didascalia)* | Suona la musica |
 | GREMIO | Udite, udite, sento suonare i menestrelli. |
-| *(didascalia)* | Entrano Petruccio, Caterina, [[Bianca]], [[Hortensio|Ortensio]] come |
-| GREMIO | Licio, [[Baptista|Battista]], [[Grumio]] e altri, servitori |
+| *(didascalia)* | Entrano Petruccio, Caterina, [[Bianca]], [[Hortensio\|Ortensio]] come |
+| GREMIO | Licio, [[Baptista\|Battista]], [[Grumio]] e altri, servitori |
 | PETRUCCIO | Signori e amici, vi ringrazio delle vostre cure.<br>So che pensate di pranzare oggi con me,<br>e avete preparato gran copia di leccornie nuziali.<br>Ma è tale la mia fretta che mi chiama via di qui,<br>e perciò intendo prender qui congedo. |
-| [[Baptista|BATTISTA]] | È possibile che vogliate partire stasera? |
-| PETRUCCIO | Debbo partire oggi, prima che venga la [[Night|notte]].<br>Non ve ne fate [[Wonder|meraviglia]]. Se conosceste i miei affari,<br>mi preghereste piuttosto d’andare che di restare.<br>E, onesta compagnia, ringrazio tutti voi<br>che m’avete veduto donare me stesso<br>a questa pazientissima, dolce e virtuosa moglie.<br>Pranzate con mio padre, bevete alla mia salute,<br>ché io debbo andarmene; e addio a voi tutti. |
-| [[Tranio|TRANIO]] | Lasciate che vi preghiamo di restare fino a dopo il pranzo. |
+| [[Baptista\|BATTISTA]] | È possibile che vogliate partire stasera? |
+| PETRUCCIO | Debbo partire oggi, prima che venga la [[Night\|notte]].<br>Non ve ne fate [[Wonder\|meraviglia]]. Se conosceste i miei affari,<br>mi preghereste piuttosto d’andare che di restare.<br>E, onesta compagnia, ringrazio tutti voi<br>che m’avete veduto donare me stesso<br>a questa pazientissima, dolce e virtuosa moglie.<br>Pranzate con mio padre, bevete alla mia salute,<br>ché io debbo andarmene; e addio a voi tutti. |
+| [[Tranio\|TRANIO]] | Lasciate che vi preghiamo di restare fino a dopo il pranzo. |
 | PETRUCCIO | Non può essere. |
 | GREMIO | Lasciate che ve ne preghi io. |
 | PETRUCCIO | Non si può. |
@@ -2427,25 +2427,25 @@ Bartholomew sits
 | PETRUCCIO | Son contento. |
 | CATERINA | Siete contento di restare? |
 | PETRUCCIO | Son contento che mi preghiate di restare,<br>ma non già di restare, per quanto mi preghiate. |
-| CATERINA | Ora, se mi [[Love|amate]], restate. |
-| PETRUCCIO | [[Grumio]], il mio [[Horse|cavallo]]. |
-| [[Grumio|GRUMIO]] | Sì, signore, sono pronti. L’avena ha mangiato i cavalli. |
+| CATERINA | Ora, se mi [[Love\|amate]], restate. |
+| PETRUCCIO | [[Grumio]], il mio [[Horse\|cavallo]]. |
+| [[Grumio\|GRUMIO]] | Sì, signore, sono pronti. L’avena ha mangiato i cavalli. |
 | CATERINA | E allora fa’ quel che puoi, io non partirò oggi,<br>no, e neppure domani—non prima che a me piaccia.<br>La porta è aperta, signore, ecco la vostra strada.<br>Potete trottarvene finché i vostri stivali son freschi.<br>Quanto a me, non me n’andrò prima che a me piaccia.<br>Si direbbe che sarete un bello sposo scontroso,<br>voi che sin dal principio ve la prendete così di petto. |
 | PETRUCCIO | Oh Cate, calmati. Ti prego, non t’adirare. |
 | CATERINA | Voglio adirarmi. Che hai tu da farci?<br>Padre, state quieto. Egli resterà a mio comodo. |
 | GREMIO | Sì, per la Madonna, signore. Ora comincia a far effetto. |
-| CATERINA | Signori, avanti, al pranzo di nozze.<br>Vedo che d’una donna si può fare una [[Fool|sciocca]]<br>se non avesse animo di resistere. |
-| PETRUCCIO | Andranno avanti, Cate, al tuo comando.<br>Obbedite alla sposa, voi che le fate corteo.<br>Andate al banchetto, gozzovigliate e spadroneggiate,<br>brindate a misura piena alla sua verginità.<br>Siate pazzi e allegri, o andate a impiccarvi.<br>Ma quanto alla mia bella Cate, ella deve venire con me.<br>No, non vi gonfiate, non pestate i piedi, non fissate, non v’inquietate.<br>Io sarò padrone di ciò che è mio.<br>Ella è la mia roba, la mia masserizia. Ella è la mia [[house|casa]],<br>le mie suppellettili, il mio campo, il mio granaio,<br>il mio [[Horse|cavallo]], il mio bue, il mio asino, il mio qualunque cosa,<br>ed eccola qui, la tocchi chi osa.<br>Intenterò la mia causa contro il più superbo<br>che mi sbarri la via in Padova. [[Grumio]],<br>sfodera la tua arma, siamo assaliti dai ladri.<br>Soccorri la tua padrona, se sei un uomo.<br>Non [[Fear|temere]], dolce fanciulla. Non ti toccheranno,<br>Cate.<br>Ti farò scudo contro un milione. |
+| CATERINA | Signori, avanti, al pranzo di nozze.<br>Vedo che d’una donna si può fare una [[Fool\|sciocca]]<br>se non avesse animo di resistere. |
+| PETRUCCIO | Andranno avanti, Cate, al tuo comando.<br>Obbedite alla sposa, voi che le fate corteo.<br>Andate al banchetto, gozzovigliate e spadroneggiate,<br>brindate a misura piena alla sua verginità.<br>Siate pazzi e allegri, o andate a impiccarvi.<br>Ma quanto alla mia bella Cate, ella deve venire con me.<br>No, non vi gonfiate, non pestate i piedi, non fissate, non v’inquietate.<br>Io sarò padrone di ciò che è mio.<br>Ella è la mia roba, la mia masserizia. Ella è la mia [[house\|casa]],<br>le mie suppellettili, il mio campo, il mio granaio,<br>il mio [[Horse\|cavallo]], il mio bue, il mio asino, il mio qualunque cosa,<br>ed eccola qui, la tocchi chi osa.<br>Intenterò la mia causa contro il più superbo<br>che mi sbarri la via in Padova. [[Grumio]],<br>sfodera la tua arma, siamo assaliti dai ladri.<br>Soccorri la tua padrona, se sei un uomo.<br>Non [[Fear\|temere]], dolce fanciulla. Non ti toccheranno,<br>Cate.<br>Ti farò scudo contro un milione. |
 | *(didascalia)* | Escono Petruccio, Caterina e [[Grumio]] |
-| [[Baptista|BATTISTA]] | Ma sì, lasciateli andare—una bella coppia di quieti! |
+| [[Baptista\|BATTISTA]] | Ma sì, lasciateli andare—una bella coppia di quieti! |
 | GREMIO | Se non se ne fossero andati presto, sarei morto dal ridere. |
-| [[Tranio|TRANIO]] | Di tutti i folli connubi non ci fu mai il simile. |
-| [[Lucentio|LUCENTIO]] | Signora, qual è la vostra opinione su vostra sorella? |
-| [[Bianca|BIANCA]] | Che, essendo pazza lei stessa, è pazzamente accoppiata. |
+| [[Tranio\|TRANIO]] | Di tutti i folli connubi non ci fu mai il simile. |
+| [[Lucentio\|LUCENTIO]] | Signora, qual è la vostra opinione su vostra sorella? |
+| [[Bianca\|BIANCA]] | Che, essendo pazza lei stessa, è pazzamente accoppiata. |
 | GREMIO | Ve lo garantisco io, Petruccio è accaterinato. |
-| [[Baptista|BATTISTA]] | Vicini e amici, benché sposa e sposo<br>manchino<br>a occupare i posti a tavola,<br>sapete che non mancano leccornie al banchetto.<br>[[Lucentio]], voi occuperete il posto dello sposo,<br>e [[Bianca]] prenda quello di sua sorella. |
-| [[Tranio|TRANIO]] | La dolce [[Bianca]] si eserciterà a far la sposa? |
-| [[Baptista|BATTISTA]] | Lo farà, [[Lucentio]]. Venite, signori, andiamo. |
+| [[Baptista\|BATTISTA]] | Vicini e amici, benché sposa e sposo<br>manchino<br>a occupare i posti a tavola,<br>sapete che non mancano leccornie al banchetto.<br>[[Lucentio]], voi occuperete il posto dello sposo,<br>e [[Bianca]] prenda quello di sua sorella. |
+| [[Tranio\|TRANIO]] | La dolce [[Bianca]] si eserciterà a far la sposa? |
+| [[Baptista\|BATTISTA]] | Lo farà, [[Lucentio]]. Venite, signori, andiamo. |
 | *(didascalia)* | Escono |
 
 
@@ -2539,81 +2539,81 @@ Bartholomew sits
 | Chi parla | Battuta |
 |---|---|
 | *(didascalia)* | Entra [[Grumio]] |
-| [[Grumio|GRUMIO]] | Malanno, malanno a tutti i ronzini stanchi, a tutti i padroni pazzi e a tutte le strade fangose. Fu mai uomo così bastonato? Fu mai uomo così inzaccherato? Fu mai uomo così stanco? Sono mandato avanti a fare il [[Fire|fuoco]], e loro vengono dietro a scaldarsi. Ora, se non fossi una pentola piccola e presto calda, le labbra mi si gelerebbero ai denti, la lingua al palato, il cuore nel ventre prima ch’io trovassi un [[Fire|fuoco]] per sgelarmi. Ma io, soffiando sul [[Fire|fuoco]], mi scalderò, ché, visto il tempo, un uomo più alto di me prenderebbe freddo. Ehilà! Ohé, Curtis! |
+| [[Grumio\|GRUMIO]] | Malanno, malanno a tutti i ronzini stanchi, a tutti i padroni pazzi e a tutte le strade fangose. Fu mai uomo così bastonato? Fu mai uomo così inzaccherato? Fu mai uomo così stanco? Sono mandato avanti a fare il [[Fire\|fuoco]], e loro vengono dietro a scaldarsi. Ora, se non fossi una pentola piccola e presto calda, le labbra mi si gelerebbero ai denti, la lingua al palato, il cuore nel ventre prima ch’io trovassi un [[Fire\|fuoco]] per sgelarmi. Ma io, soffiando sul [[Fire\|fuoco]], mi scalderò, ché, visto il tempo, un uomo più alto di me prenderebbe freddo. Ehilà! Ohé, Curtis! |
 | *(didascalia)* | Entra Curtis |
-| CURTIS | Chi è che chiama così freddamente?<br>GRUMIO Un pezzo di ghiaccio. Se ne [[Doubt|dubiti]], puoi scivolare dalla mia spalla al mio tallone senz’altra rincorsa che la mia testa e il mio collo. Un [[Fire|fuoco]], buon Curtis! |
-| CURTIS | Vengono il mio padrone e sua moglie, [[Grumio]]?<br>GRUMIO Oh sì, Curtis, sì, e perciò [[Fire|fuoco]], [[Fire|fuoco]]! Non gettarci [[Water|acqua]]. |
-| CURTIS | È una bisbetica tanto focosa quanto la si dice?<br>GRUMIO Lo era, buon Curtis, prima di questo [[Frost|gelo]]; ma tu sai che l’[[Winter|inverno]] doma l’uomo, la donna e la bestia, ché ha domato il mio vecchio padrone, e la mia nuova padrona, e me stesso, compagno Curtis. |
-| CURTIS | Va’ via, [[Fool|sciocco]] alto tre pollici. Io non sono una bestia. |
-| [[Grumio|GRUMIO]] | Sono io alto solo tre pollici? Ma il tuo corno è lungo un piede, e tanto son lungo io, per lo meno. Ma vuoi farlo il [[Fire|fuoco]], o dovrò lagnarmi di te con la nostra padrona, la cui mano—essendo ella ormai a portata di mano—sentirai presto a tuo freddo conforto, per essere stato lento nel tuo caldo ufficio. |
+| CURTIS | Chi è che chiama così freddamente?<br>GRUMIO Un pezzo di ghiaccio. Se ne [[Doubt\|dubiti]], puoi scivolare dalla mia spalla al mio tallone senz’altra rincorsa che la mia testa e il mio collo. Un [[Fire\|fuoco]], buon Curtis! |
+| CURTIS | Vengono il mio padrone e sua moglie, [[Grumio]]?<br>GRUMIO Oh sì, Curtis, sì, e perciò [[Fire\|fuoco]], [[Fire\|fuoco]]! Non gettarci [[Water\|acqua]]. |
+| CURTIS | È una bisbetica tanto focosa quanto la si dice?<br>GRUMIO Lo era, buon Curtis, prima di questo [[Frost\|gelo]]; ma tu sai che l’[[Winter\|inverno]] doma l’uomo, la donna e la bestia, ché ha domato il mio vecchio padrone, e la mia nuova padrona, e me stesso, compagno Curtis. |
+| CURTIS | Va’ via, [[Fool\|sciocco]] alto tre pollici. Io non sono una bestia. |
+| [[Grumio\|GRUMIO]] | Sono io alto solo tre pollici? Ma il tuo corno è lungo un piede, e tanto son lungo io, per lo meno. Ma vuoi farlo il [[Fire\|fuoco]], o dovrò lagnarmi di te con la nostra padrona, la cui mano—essendo ella ormai a portata di mano—sentirai presto a tuo freddo conforto, per essere stato lento nel tuo caldo ufficio. |
 | CURTIS | Ti prego, buon [[Grumio]], dimmi—come va il mondo? |
-| [[Grumio|GRUMIO]] | Un mondo freddo, Curtis, in ogni ufficio tranne il tuo. E perciò [[Fire|fuoco]]: fa’ il tuo dovere e avrai il tuo dovuto, ché il mio padrone e la mia padrona son quasi gelati a [[Death|morte]]. |
-| CURTIS | Il [[Fire|fuoco]] è pronto, e perciò, buon [[Grumio]], le notizie. |
-| [[Grumio|GRUMIO]] | Ebbene, «Jack, ragazzo, ohé ragazzo!», e notizie quante ne vuoi. |
+| [[Grumio\|GRUMIO]] | Un mondo freddo, Curtis, in ogni ufficio tranne il tuo. E perciò [[Fire\|fuoco]]: fa’ il tuo dovere e avrai il tuo dovuto, ché il mio padrone e la mia padrona son quasi gelati a [[Death\|morte]]. |
+| CURTIS | Il [[Fire\|fuoco]] è pronto, e perciò, buon [[Grumio]], le notizie. |
+| [[Grumio\|GRUMIO]] | Ebbene, «Jack, ragazzo, ohé ragazzo!», e notizie quante ne vuoi. |
 | CURTIS | Andiamo, sei tutto pieno di furberie da acchiappaconigli. |
-| [[Grumio|GRUMIO]] | Ebbene, e perciò [[Fire|fuoco]], ché ho preso un freddo estremo. Dov’è il cuoco? È pronta la cena, la [[house|casa]] adorna, sparsi i giunchi, spazzate le ragnatele, i servitori nel loro fustagno nuovo e con le calze bianche, e ogni addetto col suo abito di nozze? Sono i boccali puliti dentro e le ragazze pulite fuori, stesi i tappeti, e ogni cosa in ordine? |
+| [[Grumio\|GRUMIO]] | Ebbene, e perciò [[Fire\|fuoco]], ché ho preso un freddo estremo. Dov’è il cuoco? È pronta la cena, la [[house\|casa]] adorna, sparsi i giunchi, spazzate le ragnatele, i servitori nel loro fustagno nuovo e con le calze bianche, e ogni addetto col suo abito di nozze? Sono i boccali puliti dentro e le ragazze pulite fuori, stesi i tappeti, e ogni cosa in ordine? |
 | CURTIS | Tutto pronto, e perciò, ti prego, le notizie. |
-| [[Grumio|GRUMIO]] | Primo, sappi che il mio [[Horse|cavallo]] è stanco, e che il mio padrone e la mia padrona hanno litigato. |
+| [[Grumio\|GRUMIO]] | Primo, sappi che il mio [[Horse\|cavallo]] è stanco, e che il mio padrone e la mia padrona hanno litigato. |
 | CURTIS | Come? |
-| [[Grumio|GRUMIO]] | Giù dalle loro selle nel fango, e da ciò pende una storia. |
+| [[Grumio\|GRUMIO]] | Giù dalle loro selle nel fango, e da ciò pende una storia. |
 | CURTIS | Facci sentire, buon [[Grumio]]. |
-| [[Grumio|GRUMIO]] | Porgi l’orecchio. |
+| [[Grumio\|GRUMIO]] | Porgi l’orecchio. |
 | CURTIS | Eccolo. |
 | GRUMTO | (dandogli uno scapaccione) Ecco. |
-| CURTIS | Questo è sentire una storia, non udire una storia.<br>GRUMIO E perciò si chiama una storia sensibile; e questo scapaccione non era che per bussare al tuo orecchio e implorare ascolto. Ora comincio. Inprimis, scendevamo per una brutta [[Hill|collina]], il mio padrone in sella dietro la mia padrona. |
-| CURTIS | Tutt’e due su un solo [[Horse|cavallo]]? |
-| [[Grumio|GRUMIO]] | Che te ne importa? |
-| CURTIS | Ebbene, un [[Horse|cavallo]].<br>GRUMIO Raccontala tu la storia. Ma se non m’avessi interrotto avresti udito come il suo [[Horse|cavallo]] cadde e lei sotto il suo [[Horse|cavallo]]; avresti udito in che luogo fangoso, come fu inzaccherata, come lui la lasciò col [[Horse|cavallo]] addosso, come bastonò me perché il suo [[Horse|cavallo]] era inciampato, come lei guadò il fango per strapparmelo di dosso, come lui bestemmiò, come lei pregò, lei che non aveva mai pregato prima, come io gridai, come i cavalli scapparono, come la sua briglia si ruppe, come io persi la groppiera, con molte cose degne di [[Memory|memoria]] che ora morranno nell’oblio, e tu tornerai inesperto alla tua [[Grave|tomba]]. |
+| CURTIS | Questo è sentire una storia, non udire una storia.<br>GRUMIO E perciò si chiama una storia sensibile; e questo scapaccione non era che per bussare al tuo orecchio e implorare ascolto. Ora comincio. Inprimis, scendevamo per una brutta [[Hill\|collina]], il mio padrone in sella dietro la mia padrona. |
+| CURTIS | Tutt’e due su un solo [[Horse\|cavallo]]? |
+| [[Grumio\|GRUMIO]] | Che te ne importa? |
+| CURTIS | Ebbene, un [[Horse\|cavallo]].<br>GRUMIO Raccontala tu la storia. Ma se non m’avessi interrotto avresti udito come il suo [[Horse\|cavallo]] cadde e lei sotto il suo [[Horse\|cavallo]]; avresti udito in che luogo fangoso, come fu inzaccherata, come lui la lasciò col [[Horse\|cavallo]] addosso, come bastonò me perché il suo [[Horse\|cavallo]] era inciampato, come lei guadò il fango per strapparmelo di dosso, come lui bestemmiò, come lei pregò, lei che non aveva mai pregato prima, come io gridai, come i cavalli scapparono, come la sua briglia si ruppe, come io persi la groppiera, con molte cose degne di [[Memory\|memoria]] che ora morranno nell’oblio, e tu tornerai inesperto alla tua [[Grave\|tomba]]. |
 | CURTIS | A questo conto egli è più bisbetico di lei. |
-| [[Grumio|GRUMIO]] | Sì, e questo lo scoprirete tu e il più superbo di voi tutti quando egli tornerà a [[Home|casa]]. Ma che sto a parlarne? Chiama fuori Nathaniel, Joseph, Nicholas, Philip, Walter, Sugarsop e gli altri. Che abbiano le teste ben lisciate e pettinate, le casacche azzurre spazzolate e le giarrettiere d’una maglia decente. Che facciano la riverenza con la gamba sinistra e non osino toccare un pelo della coda del [[Horse|cavallo]] del mio padrone prima d’essersi baciate le mani. Sono tutti pronti? |
+| [[Grumio\|GRUMIO]] | Sì, e questo lo scoprirete tu e il più superbo di voi tutti quando egli tornerà a [[Home\|casa]]. Ma che sto a parlarne? Chiama fuori Nathaniel, Joseph, Nicholas, Philip, Walter, Sugarsop e gli altri. Che abbiano le teste ben lisciate e pettinate, le casacche azzurre spazzolate e le giarrettiere d’una maglia decente. Che facciano la riverenza con la gamba sinistra e non osino toccare un pelo della coda del [[Horse\|cavallo]] del mio padrone prima d’essersi baciate le mani. Sono tutti pronti? |
 | CURTIS | Lo sono. |
-| [[Grumio|GRUMIO]] | Chiamali fuori. |
+| [[Grumio\|GRUMIO]] | Chiamali fuori. |
 | CURTIS | (chiamando) Ehi, mi sentite? Dovete andare incontro al mio padrone per far volto alla mia padrona. |
-| [[Grumio|GRUMIO]] | Ma via, ella ha un volto suo. |
+| [[Grumio\|GRUMIO]] | Ma via, ella ha un volto suo. |
 | CURTIS | Chi non lo sa? |
-| [[Grumio|GRUMIO]] | Tu, a quanto pare, che chiami gente per farle da volto. |
+| [[Grumio\|GRUMIO]] | Tu, a quanto pare, che chiami gente per farle da volto. |
 | CURTIS | Io li chiamo fuori per farle credito. |
 | *(didascalia)* | Entrano quattro o cinque servitori |
-| [[Grumio|GRUMIO]] | Ma via, ella non viene a farsi prestare nulla da loro. |
-| NATHANIEL | Bentornato a [[Home|casa]], [[Grumio]]! |
+| [[Grumio\|GRUMIO]] | Ma via, ella non viene a farsi prestare nulla da loro. |
+| NATHANIEL | Bentornato a [[Home\|casa]], [[Grumio]]! |
 | PHILIP | Ebbene, [[Grumio]]? |
 | JOSEPH | Come, [[Grumio]]? |
 | NICHOLAS | Compagno [[Grumio]]! |
 | NATHANIEL | Ebbene, vecchio mio! |
-| [[Grumio|GRUMIO]] | Benvenuto a te, ebbene a te, come a te, compagno a te, e basta così per i saluti. Ora, miei attillati compagni, è tutto pronto e ogni cosa in ordine? |
+| [[Grumio\|GRUMIO]] | Benvenuto a te, ebbene a te, come a te, compagno a te, e basta così per i saluti. Ora, miei attillati compagni, è tutto pronto e ogni cosa in ordine? |
 | NATHANIEL | Ogni cosa è pronta. Quanto è vicino il nostro padrone? |
-| [[Grumio|GRUMIO]] | Proprio a portata di mano, ormai smontato, e perciò non state—per la passione di Dio, [[Silence|silenzio]]! Sento il mio padrone. |
+| [[Grumio\|GRUMIO]] | Proprio a portata di mano, ormai smontato, e perciò non state—per la passione di Dio, [[Silence\|silenzio]]! Sento il mio padrone. |
 | *(didascalia)* | Entrano Petruccio e Caterina |
-| PETRUCCIO | Dove sono questi furfanti? Come, nessuno alla porta<br>a reggermi la staffa o a prendere il mio [[Horse|cavallo]]?<br>Dov’è Nathaniel, Gregory, Philip? |
+| PETRUCCIO | Dove sono questi furfanti? Come, nessuno alla porta<br>a reggermi la staffa o a prendere il mio [[Horse\|cavallo]]?<br>Dov’è Nathaniel, Gregory, Philip? |
 | TUTTI I SERVI | Qui, qui signore, qui signore. |
 | PETRUCCIO | Qui signore, qui signore, qui signore, qui signore!<br>Voi stallieri zucconi e sgrossati,<br>Come! Nessun servizio! Nessun riguardo! Nessun dovere!<br>Dov’è quello sciocco furfante che ho mandato avanti? |
-| [[Grumio|GRUMIO]] | Qui, signore, sciocco come lo ero prima. |
+| [[Grumio\|GRUMIO]] | Qui, signore, sciocco come lo ero prima. |
 | PETRUCCIO | Villano zoticone, figlio di puttana, bestia da malto,<br>non ti dissi d’incontrarmi nel parco<br>e di condurre con te questi furfanti mascalzoni? |
-| [[Grumio|GRUMIO]] | La casacca di Nathaniel, signore, non era finita del tutto,<br>e le scarpe di Gabriel erano senza traforo al tacco.<br>Non c’era torcia per annerire il cappello di Peter,<br>e il pugnale di Walter non era tornato dal guainaio.<br>Nessuno era in ordine se non Adam, Ralph e Gregory.<br>Gli altri erano cenciosi, vecchi e pezzenti.<br>Pure, tali quali sono, eccoli venuti a incontrarvi. |
+| [[Grumio\|GRUMIO]] | La casacca di Nathaniel, signore, non era finita del tutto,<br>e le scarpe di Gabriel erano senza traforo al tacco.<br>Non c’era torcia per annerire il cappello di Peter,<br>e il pugnale di Walter non era tornato dal guainaio.<br>Nessuno era in ordine se non Adam, Ralph e Gregory.<br>Gli altri erano cenciosi, vecchi e pezzenti.<br>Pure, tali quali sono, eccoli venuti a incontrarvi. |
 | PETRUCCIO | Andate, mascalzoni, andate a portar dentro la mia cena. |
 | *(didascalia)* | Escono i servi |
 | PETRUCCIO | (Canta)<br>«Dov’è la vita che poc’anzi menavo?<br>Dove son quelli—»<br>Siedi, Cate, e benvenuta. Sud, sud, sud, sud. |
 | *(didascalia)* | Entrano i servi con la cena |
-| PETRUCCIO | Ebbene, quando, dico?—Ma no, buona dolce Cate, sii allegra.—<br>Via i miei stivali, canaglie, furfanti. Quando?<br>(Canta)<br>«Era il frate dell’ordine grigio,<br>mentre se n’andava per la sua via.»<br>Via, canaglia, mi storci il piede.<br>(Dando un calcio a un servo) Prendi questo, e sfila meglio l’altro.<br>Sii allegra, Cate. (Chiamando) Dell’[[Water|acqua]], qui. Ehi, ohé! |
-| *(didascalia)* | Entra uno con dell’[[Water|acqua]] |
-| PETRUCCIO | Dov’è il mio spaniel [[Troilus]]? Messere, andatevene,<br>e dite a mio cugino [[Ferdinand|Ferdinando]] di venir qua—<br>uno, Cate, che dovrai baciare e conoscere.<br>(Chiamando) Dove sono le mie pantofole? L’avrò un po’ d’[[Water|acqua]]?<br>Vieni, Cate, e lavati, e sii di cuore benvenuta.<br>[Un servo lascia cadere l’[[Water|acqua]]]<br>[[Villain|Furfante]] figlio di puttana, la lasci cadere? |
+| PETRUCCIO | Ebbene, quando, dico?—Ma no, buona dolce Cate, sii allegra.—<br>Via i miei stivali, canaglie, furfanti. Quando?<br>(Canta)<br>«Era il frate dell’ordine grigio,<br>mentre se n’andava per la sua via.»<br>Via, canaglia, mi storci il piede.<br>(Dando un calcio a un servo) Prendi questo, e sfila meglio l’altro.<br>Sii allegra, Cate. (Chiamando) Dell’[[Water\|acqua]], qui. Ehi, ohé! |
+| *(didascalia)* | Entra uno con dell’[[Water\|acqua]] |
+| PETRUCCIO | Dov’è il mio spaniel [[Troilus]]? Messere, andatevene,<br>e dite a mio cugino [[Ferdinand\|Ferdinando]] di venir qua—<br>uno, Cate, che dovrai baciare e conoscere.<br>(Chiamando) Dove sono le mie pantofole? L’avrò un po’ d’[[Water\|acqua]]?<br>Vieni, Cate, e lavati, e sii di cuore benvenuta.<br>[Un servo lascia cadere l’[[Water\|acqua]]]<br>[[Villain\|Furfante]] figlio di puttana, la lasci cadere? |
 | CATERINA | Pazienza, vi prego, è stato un fallo involontario. |
 | PETRUCCIO | Un furfante figlio di puttana, testa di scarafaggio, orecchie a sventola. Vieni, Cate, siediti, so che hai appetito. Vuoi render grazie tu, dolce Cate, o le renderò io? 145 Che è questo—montone? |
 | PRIMO SERVITORE | Sì. |
 | PETRUCCIO | Chi l’ha portato? |
 | PETER | Io. |
-| PETRUCCIO | È bruciato, e così tutta la carne.<br>Che [[dogs|cani]] son questi? Dov’è quel cuoco mascalzone?<br>Come osaste, furfanti, portarlo dalla credenza<br>e servirlo così a me che non l’[[Love|amo]]?<br>Ecco, (scagliando il cibo) prendetevelo, taglieri, coppe<br>e tutto,<br>sconsiderati zucconi e schiavi screanzati.<br>Come, brontolate? Sarò subito da voi.<br>Scaccia via i servi |
-| CATERINA | Vi prego, marito, non siate così inquieto.<br>La carne andava [[Well|bene]], se voleste contentarvene. |
-| PETRUCCIO | Ti dico, Cate, ch’era bruciata e riarsa,<br>e a me è espressamente vietato toccarla,<br>ché genera collera e pianta l’ira;<br>e meglio sarebbe che digiunassimo entrambi,<br>giacché di per noi stessi siamo collerici,<br>che nutrirla con carne così arrostita.<br>Sii paziente, domani vi si porrà rimedio,<br>e per questa [[Night|notte]] digiuneremo in compagnia.<br>Vieni, ti condurrò alla tua camera nuziale. Escono |
+| PETRUCCIO | È bruciato, e così tutta la carne.<br>Che [[dogs\|cani]] son questi? Dov’è quel cuoco mascalzone?<br>Come osaste, furfanti, portarlo dalla credenza<br>e servirlo così a me che non l’[[Love\|amo]]?<br>Ecco, (scagliando il cibo) prendetevelo, taglieri, coppe<br>e tutto,<br>sconsiderati zucconi e schiavi screanzati.<br>Come, brontolate? Sarò subito da voi.<br>Scaccia via i servi |
+| CATERINA | Vi prego, marito, non siate così inquieto.<br>La carne andava [[Well\|bene]], se voleste contentarvene. |
+| PETRUCCIO | Ti dico, Cate, ch’era bruciata e riarsa,<br>e a me è espressamente vietato toccarla,<br>ché genera collera e pianta l’ira;<br>e meglio sarebbe che digiunassimo entrambi,<br>giacché di per noi stessi siamo collerici,<br>che nutrirla con carne così arrostita.<br>Sii paziente, domani vi si porrà rimedio,<br>e per questa [[Night\|notte]] digiuneremo in compagnia.<br>Vieni, ti condurrò alla tua camera nuziale. Escono |
 | *(didascalia)* | Entrano i servi separatamente |
 | NATHANIEL | Peter, hai mai visto cosa simile? |
-| PETER | La uccide col suo stesso [[Humour|umore]]. |
+| PETER | La uccide col suo stesso [[Humour\|umore]]. |
 | *(didascalia)* | Entra Curtis, un servo |
-| [[Grumio|GRUMIO]] | Dov’è? |
-| CURTIS | Nella camera di lei,<br>a farle un sermone sulla continenza,<br>e inveisce, e bestemmia, e sgrida, sì che ella, povera [[Soul|anima]],<br>non sa da che parte stare, guardare, parlare,<br>e siede come una appena destata da [[A Dream|un sogno]].<br>Via, via, ché sta venendo qua. |
+| [[Grumio\|GRUMIO]] | Dov’è? |
+| CURTIS | Nella camera di lei,<br>a farle un sermone sulla continenza,<br>e inveisce, e bestemmia, e sgrida, sì che ella, povera [[Soul\|anima]],<br>non sa da che parte stare, guardare, parlare,<br>e siede come una appena destata da [[A Dream\|un sogno]].<br>Via, via, ché sta venendo qua. |
 | *(didascalia)* | Escono |
 | *(didascalia)* | Entra Petruccio |
-| PETRUCCIO | Così ho astutamente cominciato il mio regno,<br>ed è mia [[Hope|speranza]] di finire con successo.<br>Il mio falcone ora è aguzzo e affatto digiuno,<br>e finché non cali non dev’essere rimpinzato,<br>ché allora non guarderebbe più il suo logoro.<br>Ho un altro modo per ammansire la mia selvatica,<br>per farla venire e conoscere il richiamo del suo guardiano—<br>e cioè vegliarla come si vegliano quei nibbi<br>che sbattono le ali e si dibattono e non vogliono obbedire.<br>Oggi non ha mangiato carne, né ne mangerà.<br>La scorsa [[Night|notte]] non ha dormito, né dormirà stanotte.<br>Come per la carne, troverò qualche fallo immeritato<br>nel modo in cui è fatto il letto;<br>e qui scaglierò il guanciale, là il capezzale,<br>di qua la coperta, di là le lenzuola;<br>sì, e in mezzo a questo trambusto pretenderò<br>che tutto sia fatto per riverente cura di lei.<br>E in conclusione ella veglierà tutta la [[Night|notte]],<br>e se per caso s’assopisce inveirò e strepiterò<br>e col clamore la terrò sempre desta.<br>Questo è un modo di uccidere una moglie con la gentilezza,<br>e così frenerò il suo folle e caparbio [[Humour|umore]].<br>Chi sa meglio come domare una bisbetica,<br>parli ora. È [[Charity|carità]] insegnarlo. |
+| PETRUCCIO | Così ho astutamente cominciato il mio regno,<br>ed è mia [[Hope\|speranza]] di finire con successo.<br>Il mio falcone ora è aguzzo e affatto digiuno,<br>e finché non cali non dev’essere rimpinzato,<br>ché allora non guarderebbe più il suo logoro.<br>Ho un altro modo per ammansire la mia selvatica,<br>per farla venire e conoscere il richiamo del suo guardiano—<br>e cioè vegliarla come si vegliano quei nibbi<br>che sbattono le ali e si dibattono e non vogliono obbedire.<br>Oggi non ha mangiato carne, né ne mangerà.<br>La scorsa [[Night\|notte]] non ha dormito, né dormirà stanotte.<br>Come per la carne, troverò qualche fallo immeritato<br>nel modo in cui è fatto il letto;<br>e qui scaglierò il guanciale, là il capezzale,<br>di qua la coperta, di là le lenzuola;<br>sì, e in mezzo a questo trambusto pretenderò<br>che tutto sia fatto per riverente cura di lei.<br>E in conclusione ella veglierà tutta la [[Night\|notte]],<br>e se per caso s’assopisce inveirò e strepiterò<br>e col clamore la terrò sempre desta.<br>Questo è un modo di uccidere una moglie con la gentilezza,<br>e così frenerò il suo folle e caparbio [[Humour\|umore]].<br>Chi sa meglio come domare una bisbetica,<br>parli ora. È [[Charity\|carità]] insegnarlo. |
 | *(didascalia)* | Esce |
 
 
@@ -2682,59 +2682,59 @@ Bartholomew sits
 
 | Chi parla | Battuta |
 |---|---|
-| *(didascalia)* | Entrano [[Tranio]] come [[Lucentio]], e [[Hortensio|Ortensio]] come Licio |
-| [[Tranio|TRANIO]] | È possibile, amico Licio, che madamigella [[Bianca]]<br>prediliga altri che [[Lucentio]]?<br>Vi dico, signore, ch’ella mi tiene bellamente a bada. |
-| [[Hortensio|ORTENSIO]] | Signore, per convincervi di quel che ho detto,<br>state qui in disparte e osservate il modo del suo insegnare. 5<br>Si tirano da parte. |
+| *(didascalia)* | Entrano [[Tranio]] come [[Lucentio]], e [[Hortensio\|Ortensio]] come Licio |
+| [[Tranio\|TRANIO]] | È possibile, amico Licio, che madamigella [[Bianca]]<br>prediliga altri che [[Lucentio]]?<br>Vi dico, signore, ch’ella mi tiene bellamente a bada. |
+| [[Hortensio\|ORTENSIO]] | Signore, per convincervi di quel che ho detto,<br>state qui in disparte e osservate il modo del suo insegnare. 5<br>Si tirano da parte. |
 | *(didascalia)* | Entrano [[Bianca]] e [[Lucentio]] come Cambio |
-| [[Lucentio|LUCENTIO]] | Ora, signora, traete profitto da ciò che leggete? |
-| [[Bianca|BIANCA]] | Che cosa leggete, maestro? Prima risolvetemi questo. |
-| [[Lucentio|LUCENTIO]] | Leggo ciò che professo: L’Arte d’[[Love|Amare]]. |
-| [[Bianca|BIANCA]] | E possiate voi, signore, provarvi maestro nella vostra arte. |
-| [[Lucentio|LUCENTIO]] | Mentre voi, dolce cara, vi provate padrona del mio cuore. Si tirano da parte |
-| [[Hortensio|ORTENSIO]] | Rapidi progressi, per la Madonna! Ora ditemi, di grazia,<br>voi che osavate giurare che la vostra signora [[Bianca]]<br>non amava nessuno al mondo tanto [[Well|bene]] quanto [[Lucentio]]. |
-| [[Tranio|TRANIO]] | Oh dispettoso [[Love|amore]], incostante genere femminile!<br>Ti dico, Licio, questo è portentoso. |
-| [[Hortensio|ORTENSIO]] | Non v’ingannate più, io non sono Licio,<br>né un musicista come sembro d’essere,<br>ma uno che sdegna di vivere in questo travestimento<br>per una che [[Leaves|abbandona]] un gentiluomo<br>e fa un dio d’un tale pezzente.<br>Sappiate, signore, ch’io mi chiamo [[Hortensio|Ortensio]]. |
-| [[Tranio|TRANIO]] | Signor [[Hortensio|Ortensio]], ho spesso sentito parlare<br>del vostro intero affetto per [[Bianca]];<br>e poiché i miei occhi son testimoni della sua leggerezza,<br>io con voi, se ne siete contento,<br>abiurerò [[Bianca]] e il suo [[Love|amore]] per sempre. |
-| [[Hortensio|ORTENSIO]] | Guardate come si baciano e si [[Court|corteggiano]]. Signor [[Lucentio]],<br>ecco la mia mano, e qui fermamente giuro<br>di non corteggiarla mai più, anzi l’abiuro<br>come indegna di tutti i favori d’un tempo<br>coi quali follemente l’ho lusingata. |
-| [[Tranio|TRANIO]] | E qui io faccio il medesimo giuramento non finto<br>di non sposarla mai, quand’anche me ne pregasse.<br>Vergogna su di lei, guardate come bestialmente lo [[Court|corteggia]]! |
-| [[Hortensio|ORTENSIO]] | Volesse il cielo che tutto il mondo, salvo lui, l’avesse abiurata.<br>Quanto a me, perché io tenga sicuramente il mio giuramento,<br>sposerò una ricca vedova<br>prima che passino tre giorni, la quale m’ha amato tanto a lungo<br>quanto io ho amato questa superba, sdegnosa selvatica.<br>E così addio, signor [[Lucentio]].<br>La gentilezza nelle donne, non i loro bei sembianti,<br>conquisterà il mio [[Love|amore]]; e così prendo congedo,<br>fermo nel proposito come giurai poc’anzi. Esce |
-| [[Tranio|TRANIO]] | Madamigella [[Bianca]], vi benedica quella grazia<br>che s’addice al beato stato d’un [[Lover|amante]].<br>Ma sì, v’ho colta sul fatto, gentile [[Love|amore]],<br>e insieme a [[Hortensio|Ortensio]] vi ho abiurata. |
-| [[Bianca|BIANCA]] | [[Tranio]], voi scherzate. Ma davvero m’avete abiurata entrambi? |
-| [[Tranio|TRANIO]] | Sì, signora, l’abbiamo fatto. |
-| [[Lucentio|LUCENTIO]] | Allora siamo liberi di Licio. |
-| [[Tranio|TRANIO]] | In [[Faith|fede]] mia, ora avrà una vedova gagliarda,<br>che sarà corteggiata e sposata in un solo giorno. |
-| [[Bianca|BIANCA]] | Dio gliene dia gioia. |
-| [[Tranio|TRANIO]] | Sì, e la domerà. |
-| [[Bianca|BIANCA]] | Così dice lui, [[Tranio]]. |
-| [[Tranio|TRANIO]] | In [[Faith|fede]], è andato alla scuola del domare. |
-| [[Bianca|BIANCA]] | La scuola del domare—come, esiste un luogo simile? |
-| [[Tranio|TRANIO]] | Sì, signora, e Petruccio ne è il maestro,<br>che insegna trucchi lunghi ventun punti<br>per domare una bisbetica e ammaliarle la lingua ciarliera. |
+| [[Lucentio\|LUCENTIO]] | Ora, signora, traete profitto da ciò che leggete? |
+| [[Bianca\|BIANCA]] | Che cosa leggete, maestro? Prima risolvetemi questo. |
+| [[Lucentio\|LUCENTIO]] | Leggo ciò che professo: L’Arte d’[[Love\|Amare]]. |
+| [[Bianca\|BIANCA]] | E possiate voi, signore, provarvi maestro nella vostra arte. |
+| [[Lucentio\|LUCENTIO]] | Mentre voi, dolce cara, vi provate padrona del mio cuore. Si tirano da parte |
+| [[Hortensio\|ORTENSIO]] | Rapidi progressi, per la Madonna! Ora ditemi, di grazia,<br>voi che osavate giurare che la vostra signora [[Bianca]]<br>non amava nessuno al mondo tanto [[Well\|bene]] quanto [[Lucentio]]. |
+| [[Tranio\|TRANIO]] | Oh dispettoso [[Love\|amore]], incostante genere femminile!<br>Ti dico, Licio, questo è portentoso. |
+| [[Hortensio\|ORTENSIO]] | Non v’ingannate più, io non sono Licio,<br>né un musicista come sembro d’essere,<br>ma uno che sdegna di vivere in questo travestimento<br>per una che [[Leaves\|abbandona]] un gentiluomo<br>e fa un dio d’un tale pezzente.<br>Sappiate, signore, ch’io mi chiamo [[Hortensio\|Ortensio]]. |
+| [[Tranio\|TRANIO]] | Signor [[Hortensio\|Ortensio]], ho spesso sentito parlare<br>del vostro intero affetto per [[Bianca]];<br>e poiché i miei occhi son testimoni della sua leggerezza,<br>io con voi, se ne siete contento,<br>abiurerò [[Bianca]] e il suo [[Love\|amore]] per sempre. |
+| [[Hortensio\|ORTENSIO]] | Guardate come si baciano e si [[Court\|corteggiano]]. Signor [[Lucentio]],<br>ecco la mia mano, e qui fermamente giuro<br>di non corteggiarla mai più, anzi l’abiuro<br>come indegna di tutti i favori d’un tempo<br>coi quali follemente l’ho lusingata. |
+| [[Tranio\|TRANIO]] | E qui io faccio il medesimo giuramento non finto<br>di non sposarla mai, quand’anche me ne pregasse.<br>Vergogna su di lei, guardate come bestialmente lo [[Court\|corteggia]]! |
+| [[Hortensio\|ORTENSIO]] | Volesse il cielo che tutto il mondo, salvo lui, l’avesse abiurata.<br>Quanto a me, perché io tenga sicuramente il mio giuramento,<br>sposerò una ricca vedova<br>prima che passino tre giorni, la quale m’ha amato tanto a lungo<br>quanto io ho amato questa superba, sdegnosa selvatica.<br>E così addio, signor [[Lucentio]].<br>La gentilezza nelle donne, non i loro bei sembianti,<br>conquisterà il mio [[Love\|amore]]; e così prendo congedo,<br>fermo nel proposito come giurai poc’anzi. Esce |
+| [[Tranio\|TRANIO]] | Madamigella [[Bianca]], vi benedica quella grazia<br>che s’addice al beato stato d’un [[Lover\|amante]].<br>Ma sì, v’ho colta sul fatto, gentile [[Love\|amore]],<br>e insieme a [[Hortensio\|Ortensio]] vi ho abiurata. |
+| [[Bianca\|BIANCA]] | [[Tranio]], voi scherzate. Ma davvero m’avete abiurata entrambi? |
+| [[Tranio\|TRANIO]] | Sì, signora, l’abbiamo fatto. |
+| [[Lucentio\|LUCENTIO]] | Allora siamo liberi di Licio. |
+| [[Tranio\|TRANIO]] | In [[Faith\|fede]] mia, ora avrà una vedova gagliarda,<br>che sarà corteggiata e sposata in un solo giorno. |
+| [[Bianca\|BIANCA]] | Dio gliene dia gioia. |
+| [[Tranio\|TRANIO]] | Sì, e la domerà. |
+| [[Bianca\|BIANCA]] | Così dice lui, [[Tranio]]. |
+| [[Tranio\|TRANIO]] | In [[Faith\|fede]], è andato alla scuola del domare. |
+| [[Bianca\|BIANCA]] | La scuola del domare—come, esiste un luogo simile? |
+| [[Tranio\|TRANIO]] | Sì, signora, e Petruccio ne è il maestro,<br>che insegna trucchi lunghi ventun punti<br>per domare una bisbetica e ammaliarle la lingua ciarliera. |
 | *(didascalia)* | Entra Biondello |
-| BIONDELLO | Oh padrone, padrone, ho spiato così a lungo<br>che son stanco come un cane; ma alfine ho adocchiato<br>un vecchio galantuomo che scende dalla [[Hill|collina]]<br>e farà al caso nostro. |
-| [[Tranio|TRANIO]] | Chi è, Biondello? |
+| BIONDELLO | Oh padrone, padrone, ho spiato così a lungo<br>che son stanco come un cane; ma alfine ho adocchiato<br>un vecchio galantuomo che scende dalla [[Hill\|collina]]<br>e farà al caso nostro. |
+| [[Tranio\|TRANIO]] | Chi è, Biondello? |
 | BIONDELLO | Padrone, un mercatante o un pedante,<br>non so bene che cosa, ma compassato nel vestire,<br>e nell’andatura e nel volto proprio simile a un padre. |
-| [[Lucentio|LUCENTIO]] | E che ne farai, [[Tranio]]? |
-| [[Tranio|TRANIO]] | Se è credulo e presta fede al mio racconto,<br>lo farò contento di parere Vincenzio<br>e di dare garanzia a [[Baptista|Battista]] Minola<br>come se fosse il vero Vincenzio.<br>Portate dentro il vostro [[Love|amore]], e poi lasciatemi [[Alone|solo]]. |
+| [[Lucentio\|LUCENTIO]] | E che ne farai, [[Tranio]]? |
+| [[Tranio\|TRANIO]] | Se è credulo e presta fede al mio racconto,<br>lo farò contento di parere Vincenzio<br>e di dare garanzia a [[Baptista\|Battista]] Minola<br>come se fosse il vero Vincenzio.<br>Portate dentro il vostro [[Love\|amore]], e poi lasciatemi [[Alone\|solo]]. |
 | *(didascalia)* | Escono [[Lucentio]] e [[Bianca]] |
 | *(didascalia)* | Entra un Pedante |
 | PEDANTE | Dio vi salvi, signore. |
-| [[Tranio|TRANIO]] | E voi, signore. Siate il benvenuto.<br>Viaggiate ancora lontano, o siete al termine? |
+| [[Tranio\|TRANIO]] | E voi, signore. Siate il benvenuto.<br>Viaggiate ancora lontano, o siete al termine? |
 | PEDANTE | Signore, al termine per una settimana o due,<br>ma poi più oltre, e fino a Roma,<br>e quindi a Tripoli, se Dio mi presta vita. |
-| [[Tranio|TRANIO]] | Di che paese, di grazia? |
+| [[Tranio\|TRANIO]] | Di che paese, di grazia? |
 | PEDANTE | Di Mantova. |
-| [[Tranio|TRANIO]] | Di Mantova, signore? Per la Madonna, Dio non voglia,<br>e venire a Padova incurante della vostra vita! |
+| [[Tranio\|TRANIO]] | Di Mantova, signore? Per la Madonna, Dio non voglia,<br>e venire a Padova incurante della vostra vita! |
 | PEDANTE | La mia vita, signore? Come, di grazia? Ché la cosa è grave. |
-| [[Tranio|TRANIO]] | È [[Death|morte]] per chiunque di Mantova<br>venire a Padova. Non ne sapete la causa?<br>Le vostre navi sono trattenute a [[Venice|Venezia]], e il Duca,<br>per una privata contesa fra il vostro Duca e lui,<br>l’ha pubblicato e proclamato apertamente.<br>È strano; ma poiché siete arrivato solo ora,<br>altrimenti l’avreste udito bandire dappertutto. |
+| [[Tranio\|TRANIO]] | È [[Death\|morte]] per chiunque di Mantova<br>venire a Padova. Non ne sapete la causa?<br>Le vostre navi sono trattenute a [[Venice\|Venezia]], e il Duca,<br>per una privata contesa fra il vostro Duca e lui,<br>l’ha pubblicato e proclamato apertamente.<br>È strano; ma poiché siete arrivato solo ora,<br>altrimenti l’avreste udito bandire dappertutto. |
 | PEDANTE | Ahimè, signore, per me è anche peggio,<br>ché ho lettere di cambio per del denaro<br>da Firenze, e debbo consegnarle qui. |
-| [[Tranio|TRANIO]] | [[Well|Ebbene]], signore, per farvi cortesia<br>questo farò, e questo vi consiglierò.<br>Prima ditemi: siete mai stato a Pisa? |
-| PEDANTE | Sì, signore, a Pisa sono stato spesso,<br>Pisa rinomata per i suoi [[Grave|gravi]] cittadini. |
-| [[Tranio|TRANIO]] | Fra loro ne conoscete uno chiamato Vincenzio? |
+| [[Tranio\|TRANIO]] | [[Well\|Ebbene]], signore, per farvi cortesia<br>questo farò, e questo vi consiglierò.<br>Prima ditemi: siete mai stato a Pisa? |
+| PEDANTE | Sì, signore, a Pisa sono stato spesso,<br>Pisa rinomata per i suoi [[Grave\|gravi]] cittadini. |
+| [[Tranio\|TRANIO]] | Fra loro ne conoscete uno chiamato Vincenzio? |
 | PEDANTE | Non lo conosco, ma ho udito parlare di lui,<br>un mercante d’incomparabile ricchezza. |
-| [[Tranio|TRANIO]] | Egli è mio padre, signore, e a dir vero<br>nel sembiante egli vi somiglia alquanto. |
+| [[Tranio\|TRANIO]] | Egli è mio padre, signore, e a dir vero<br>nel sembiante egli vi somiglia alquanto. |
 | BIONDELLO | (a parte) Quanto una mela somiglia a un’ostrica, e fa lo stesso. |
-| [[Tranio|TRANIO]] | Per salvarvi la vita in questo frangente<br>vi farò questo favore per amor suo;<br>e non stimatela la peggiore di tutte le vostre fortune<br>l’essere somigliante a messer Vincenzio.<br>Vi assumerete il suo nome e il suo credito,<br>e nella mia [[house|casa]] sarete amichevolmente alloggiato.<br>Badate di sostenere la parte come si conviene.<br>Mi capite, signore? Così potrete restare<br>finché non abbiate concluso i vostri affari in [[City|città]].<br>Se questa è cortesia, signore, accettatela. |
+| [[Tranio\|TRANIO]] | Per salvarvi la vita in questo frangente<br>vi farò questo favore per amor suo;<br>e non stimatela la peggiore di tutte le vostre fortune<br>l’essere somigliante a messer Vincenzio.<br>Vi assumerete il suo nome e il suo credito,<br>e nella mia [[house\|casa]] sarete amichevolmente alloggiato.<br>Badate di sostenere la parte come si conviene.<br>Mi capite, signore? Così potrete restare<br>finché non abbiate concluso i vostri affari in [[City\|città]].<br>Se questa è cortesia, signore, accettatela. |
 | PEDANTE | Oh signore, l’accetto, e vi riterrò per sempre<br>il patrono della mia vita e della mia libertà. |
-| [[Tranio|TRANIO]] | Venite dunque con me a mandar bene la cosa.<br>Questo, per via, vi faccio sapere—<br>mio padre è qui atteso ogni giorno<br>per stipulare la garanzia d’una dote in [[Marriage|matrimonio]]<br>fra me e una figlia d’un certo [[Baptista|Battista]] di qui.<br>Di tutte queste circostanze v’istruirò.<br>Venite con me a vestirvi come vi si conviene. Escono |
+| [[Tranio\|TRANIO]] | Venite dunque con me a mandar bene la cosa.<br>Questo, per via, vi faccio sapere—<br>mio padre è qui atteso ogni giorno<br>per stipulare la garanzia d’una dote in [[Marriage\|matrimonio]]<br>fra me e una figlia d’un certo [[Baptista\|Battista]] di qui.<br>Di tutte queste circostanze v’istruirò.<br>Venite con me a vestirvi come vi si conviene. Escono |
 
 
 
@@ -2833,87 +2833,87 @@ Bartholomew sits
 | Chi parla | Battuta |
 |---|---|
 | *(didascalia)* | Entrano Caterina e [[Grumio]] |
-| [[Grumio|GRUMIO]] | No, no, in verità. Non oso, per la mia vita. |
-| CATERINA | Quanto più grande il mio torto, tanto più appare il suo dispetto.<br>Come, mi sposò per farmi morire di fame?<br>I mendicanti che vengono alla porta di mio padre<br>hanno, a chiederla, un’elemosina immediata;<br>se no, altrove trovano [[Charity|carità]].<br>Ma io, che non seppi mai come si supplica,<br>né mai ebbi bisogno di supplicare,<br>sono affamata di cibo, stordita per mancanza di [[Sleep|sonno]],<br>tenuta sveglia con le bestemmie e nutrita di litigi;<br>e ciò che più mi dispetta di tutte queste privazioni,<br>egli lo fa in nome del perfetto [[Love|amore]],<br>come a dire che se io [[Sleep|dormissi]] o mangiassi<br>sarebbe malattia mortale, o [[Death|morte]] immediata.<br>Ti prego, va’ e portami qualche cosa da mangiare.<br>Non m’importa che cosa, purché sia cibo sano. |
-| [[Grumio|GRUMIO]] | Che ne dite d’un piede di vitello? |
+| [[Grumio\|GRUMIO]] | No, no, in verità. Non oso, per la mia vita. |
+| CATERINA | Quanto più grande il mio torto, tanto più appare il suo dispetto.<br>Come, mi sposò per farmi morire di fame?<br>I mendicanti che vengono alla porta di mio padre<br>hanno, a chiederla, un’elemosina immediata;<br>se no, altrove trovano [[Charity\|carità]].<br>Ma io, che non seppi mai come si supplica,<br>né mai ebbi bisogno di supplicare,<br>sono affamata di cibo, stordita per mancanza di [[Sleep\|sonno]],<br>tenuta sveglia con le bestemmie e nutrita di litigi;<br>e ciò che più mi dispetta di tutte queste privazioni,<br>egli lo fa in nome del perfetto [[Love\|amore]],<br>come a dire che se io [[Sleep\|dormissi]] o mangiassi<br>sarebbe malattia mortale, o [[Death\|morte]] immediata.<br>Ti prego, va’ e portami qualche cosa da mangiare.<br>Non m’importa che cosa, purché sia cibo sano. |
+| [[Grumio\|GRUMIO]] | Che ne dite d’un piede di vitello? |
 | CATERINA | È oltremodo buono. Ti prego, fammelo avere. |
-| [[Grumio|GRUMIO]] | [[Fear|Temo]] che sia una carne troppo collerica.<br>Che ne dite d’una grassa trippa ben arrostita? |
-| CATERINA | Mi piace [[Well|assai]]. Buon [[Grumio]], portamela. |
-| [[Grumio|GRUMIO]] | Non saprei, [[Fear|temo]] che sia collerica.<br>Che ne dite d’un pezzo di manzo con la senape? |
-| CATERINA | Un piatto di cui [[Love|amo]] cibarmi. |
-| [[Grumio|GRUMIO]] | Sì, ma la senape è un tantino troppo piccante. |
+| [[Grumio\|GRUMIO]] | [[Fear\|Temo]] che sia una carne troppo collerica.<br>Che ne dite d’una grassa trippa ben arrostita? |
+| CATERINA | Mi piace [[Well\|assai]]. Buon [[Grumio]], portamela. |
+| [[Grumio\|GRUMIO]] | Non saprei, [[Fear\|temo]] che sia collerica.<br>Che ne dite d’un pezzo di manzo con la senape? |
+| CATERINA | Un piatto di cui [[Love\|amo]] cibarmi. |
+| [[Grumio\|GRUMIO]] | Sì, ma la senape è un tantino troppo piccante. |
 | CATERINA | E allora il manzo, e lascia stare la senape. |
-| [[Grumio|GRUMIO]] | No, allora non lo farò. Avrete la senape,<br>oppure non avrete manzo da [[Grumio]]. |
+| [[Grumio\|GRUMIO]] | No, allora non lo farò. Avrete la senape,<br>oppure non avrete manzo da [[Grumio]]. |
 | CATERINA | Allora l’uno e l’altra, o uno solo, o quel che vuoi. |
-| [[Grumio|GRUMIO]] | E allora la senape senza il manzo. |
+| [[Grumio\|GRUMIO]] | E allora la senape senza il manzo. |
 | CATERINA | Va’, vattene, schiavo falso e ingannatore,<br>(Bastonandolo) tu che mi nutri col solo nome della<br>carne.<br>Dolore su te e su tutta la vostra genia,<br>che così trionfate sulla mia miseria.<br>Va’, vattene, dico. |
-| *(didascalia)* | Entrano Petruccio e [[Hortensio|Ortensio]], con della carne |
+| *(didascalia)* | Entrano Petruccio e [[Hortensio\|Ortensio]], con della carne |
 | PETRUCCIO | Come sta la mia Cate? Come, dolcezza, tutta mortificata? |
-| [[Hortensio|ORTENSIO]] | Signora, che umore? |
-| CATERINA | In [[Faith|fede]], freddo quanto mai. |
-| PETRUCCIO | Su, fatti animo, guardami allegramente.<br>Ecco, [[Love|amore]], vedi come sono diligente<br>a cucinarti io stesso la carne e a portartela. 40<br>Son certo, dolce Cate, che questa gentilezza merita ringraziamento.<br>Come, neppure una parola? Allora non ti piace,<br>e tutta la mia fatica è riuscita a nulla.<br>Qua, portate via questo piatto. |
+| [[Hortensio\|ORTENSIO]] | Signora, che umore? |
+| CATERINA | In [[Faith\|fede]], freddo quanto mai. |
+| PETRUCCIO | Su, fatti animo, guardami allegramente.<br>Ecco, [[Love\|amore]], vedi come sono diligente<br>a cucinarti io stesso la carne e a portartela. 40<br>Son certo, dolce Cate, che questa gentilezza merita ringraziamento.<br>Come, neppure una parola? Allora non ti piace,<br>e tutta la mia fatica è riuscita a nulla.<br>Qua, portate via questo piatto. |
 | CATERINA | Vi prego, lasciatelo dov’è. |
 | PETRUCCIO | Il più umile servizio è ripagato con un grazie,<br>e così sarà del mio, prima che tocchiate la carne. |
 | CATERINA | Vi ringrazio, signore. |
-| [[Hortensio|ORTENSIO]] | Signor Petruccio, via, siete da biasimare.<br>Venite, madonna Cate, vi terrò compagnia. |
-| PETRUCCIO | (a parte)<br>Mangiala tutta tu, [[Hortensio|Ortensio]], se mi vuoi bene.<br>(A Caterina) Buon pro faccia al tuo gentile cuore.<br>Cate, mangia in fretta; e ora, mio dolcissimo [[Love|amore]],<br>torneremo alla [[house|casa]] di tuo padre,<br>e ci daremo bel tempo splendidamente come i migliori,<br>con vesti di seta, e cuffie, e anelli d’oro,<br>con gorgiere, e polsini, e guardinfanti, e cianfrusaglie,<br>con sciarpe, e ventagli, e [[Double|doppio]] cambio di<br>eleganze,<br>con braccialetti d’ambra, collane e tutta questa bazzecola.<br>Come, hai pranzato? Il sarto attende il tuo comodo<br>per adornare il tuo [[Body|corpo]] col suo frusciante tesoro. |
+| [[Hortensio\|ORTENSIO]] | Signor Petruccio, via, siete da biasimare.<br>Venite, madonna Cate, vi terrò compagnia. |
+| PETRUCCIO | (a parte)<br>Mangiala tutta tu, [[Hortensio\|Ortensio]], se mi vuoi bene.<br>(A Caterina) Buon pro faccia al tuo gentile cuore.<br>Cate, mangia in fretta; e ora, mio dolcissimo [[Love\|amore]],<br>torneremo alla [[house\|casa]] di tuo padre,<br>e ci daremo bel tempo splendidamente come i migliori,<br>con vesti di seta, e cuffie, e anelli d’oro,<br>con gorgiere, e polsini, e guardinfanti, e cianfrusaglie,<br>con sciarpe, e ventagli, e [[Double\|doppio]] cambio di<br>eleganze,<br>con braccialetti d’ambra, collane e tutta questa bazzecola.<br>Come, hai pranzato? Il sarto attende il tuo comodo<br>per adornare il tuo [[Body\|corpo]] col suo frusciante tesoro. |
 | *(didascalia)* | Entra il Sarto con una veste |
 | PETRUCCIO | Vieni, sarto, vediamo questi ornamenti.<br>Stendi qua la veste. |
 | *(didascalia)* | Entra il Merciaio con una cuffia |
 | PETRUCCIO | Che notizie portate, signore? |
 | MERCIAIO | Ecco la cuffia che Vostra Signoria ha ordinato. |
 | PETRUCCIO | Ma questa è stata modellata su una scodella—<br>un piatto di velluto. Via, via, è sconcia e sudicia.<br>Ma è una conchiglia, o un guscio di noce,<br>un ninnolo, un balocco, una bazzecola, una cuffia da neonato.<br>Via con essa! Su, datemene una più grande. |
-| CATERINA | Non ne voglio una più grande. Questa s’addice al [[Time|tempo]],<br>e le gentildonne portano cuffie come queste. |
+| CATERINA | Non ne voglio una più grande. Questa s’addice al [[Time\|tempo]],<br>e le gentildonne portano cuffie come queste. |
 | PETRUCCIO | Quando sarete gentile ne avrete una anche voi,<br>e non prima d’allora. |
-| [[Hortensio|ORTENSIO]] | (a parte) Il che non sarà tanto presto. |
-| CATERINA | Ma, signore, confido di poter aver licenza di parlare,<br>e parlare voglio. Non sono una [[Child|bambina]], non una lattante.<br>I vostri superiori hanno sopportato ch’io dicessi il mio pensiero;<br>e se voi non potete, meglio che vi turiate gli orecchi.<br>La mia lingua dirà l’ira del mio cuore,<br>o altrimenti il mio cuore, celandola, si spezzerà;<br>e piuttosto che ciò avvenga, sarò libera<br>fino all’estremo di dire quanto mi piace. |
-| PETRUCCIO | Ma tu dici il vero. È una cuffia da nulla,<br>una crosta da pasticcio, un balocco, una torta di seta.<br>Ti [[Love|amo]] [[Well|molto]] per il fatto che non ti piace. |
-| CATERINA | [[Love|Amatemi]] o non [[Love|amatemi]], la cuffia mi piace<br>e quella voglio avere, o non ne avrò nessuna.<br>[Esce il Merciaio] |
-| PETRUCCIO | La tua veste? Ma sì. Su, sarto, vediamola.<br>Oh [[Mercy|misericordia]] di Dio, che roba da mascherata è questa?<br>Che è questo—una manica? Pare un mezzo cannone.<br>Come, tagliuzzata su e giù come una torta di mele?<br>Qui c’è uno sforbiciare, un pizzicare, un tagliare, uno sbrindellare e squarciare,<br>come le forbici in una bottega da barbiere.<br>Ma in nome del diavolo, sarto, come chiami tu questa? |
-| [[Hortensio|ORTENSIO]] | (a parte)<br>Vedo che non avrà né cuffia né veste. |
-| SARTO | Mi diceste di farla ordinata e [[Well|bene]],<br>secondo la foggia e il [[Time|tempo]]. |
-| PETRUCCIO | Per la Madonna, sì, ma se ben vi ricordate<br>non vi dissi di guastarla secondo il [[Time|tempo]].<br>Andatevene a saltellare a [[Home|casa]] per ogni rigagnolo,<br>ché salterete senza la mia clientela, signore.<br>Non ne voglio sapere. Via, fatene il meglio che potete. |
+| [[Hortensio\|ORTENSIO]] | (a parte) Il che non sarà tanto presto. |
+| CATERINA | Ma, signore, confido di poter aver licenza di parlare,<br>e parlare voglio. Non sono una [[Child\|bambina]], non una lattante.<br>I vostri superiori hanno sopportato ch’io dicessi il mio pensiero;<br>e se voi non potete, meglio che vi turiate gli orecchi.<br>La mia lingua dirà l’ira del mio cuore,<br>o altrimenti il mio cuore, celandola, si spezzerà;<br>e piuttosto che ciò avvenga, sarò libera<br>fino all’estremo di dire quanto mi piace. |
+| PETRUCCIO | Ma tu dici il vero. È una cuffia da nulla,<br>una crosta da pasticcio, un balocco, una torta di seta.<br>Ti [[Love\|amo]] [[Well\|molto]] per il fatto che non ti piace. |
+| CATERINA | [[Love\|Amatemi]] o non [[Love\|amatemi]], la cuffia mi piace<br>e quella voglio avere, o non ne avrò nessuna.<br>[Esce il Merciaio] |
+| PETRUCCIO | La tua veste? Ma sì. Su, sarto, vediamola.<br>Oh [[Mercy\|misericordia]] di Dio, che roba da mascherata è questa?<br>Che è questo—una manica? Pare un mezzo cannone.<br>Come, tagliuzzata su e giù come una torta di mele?<br>Qui c’è uno sforbiciare, un pizzicare, un tagliare, uno sbrindellare e squarciare,<br>come le forbici in una bottega da barbiere.<br>Ma in nome del diavolo, sarto, come chiami tu questa? |
+| [[Hortensio\|ORTENSIO]] | (a parte)<br>Vedo che non avrà né cuffia né veste. |
+| SARTO | Mi diceste di farla ordinata e [[Well\|bene]],<br>secondo la foggia e il [[Time\|tempo]]. |
+| PETRUCCIO | Per la Madonna, sì, ma se ben vi ricordate<br>non vi dissi di guastarla secondo il [[Time\|tempo]].<br>Andatevene a saltellare a [[Home\|casa]] per ogni rigagnolo,<br>ché salterete senza la mia clientela, signore.<br>Non ne voglio sapere. Via, fatene il meglio che potete. |
 | CATERINA | Non vidi mai veste di foggia migliore,<br>più garbata, più piacevole, né più lodevole.<br>Pare che vogliate fare di me un fantoccio. |
 | PETRUCCIO | Verissimo: egli vuol fare di te un fantoccio. |
 | SARTO | Ella dice che Vostra Signoria vuol fare di lei un fantoccio. |
-| PETRUCCIO | Oh mostruosa arroganza! Menti, tu filo, tu<br>ditale,<br>tu iarda, tre quarti, mezza iarda, quarto, unghia,<br>tu pulce, tu lendine, tu grillo d’[[Winter|inverno]], tu.<br>Sfidato in [[house|casa]] mia da una matassa di filo!<br>Via, tu straccio, tu quantità, tu scampolo,<br>o ti misurerò talmente con la tua canna<br>che penserai al cianciare finché camperai.<br>Io ti dico, io, che le hai guastato la veste. |
+| PETRUCCIO | Oh mostruosa arroganza! Menti, tu filo, tu<br>ditale,<br>tu iarda, tre quarti, mezza iarda, quarto, unghia,<br>tu pulce, tu lendine, tu grillo d’[[Winter\|inverno]], tu.<br>Sfidato in [[house\|casa]] mia da una matassa di filo!<br>Via, tu straccio, tu quantità, tu scampolo,<br>o ti misurerò talmente con la tua canna<br>che penserai al cianciare finché camperai.<br>Io ti dico, io, che le hai guastato la veste. |
 | SARTO | Vostra Signoria s’inganna. La veste è fatta<br>proprio come il mio padrone ebbe ordine.<br>[[Grumio]] diede istruzione di come dovesse esser fatta. |
-| [[Grumio|GRUMIO]] | Io non gli diedi istruzione, gli diedi la stoffa. |
-| SARTO | Ma come [[Desire|desideravate]] che fosse fatta? |
-| [[Grumio|GRUMIO]] | Per la Madonna, signore, con ago e filo. |
+| [[Grumio\|GRUMIO]] | Io non gli diedi istruzione, gli diedi la stoffa. |
+| SARTO | Ma come [[Desire\|desideravate]] che fosse fatta? |
+| [[Grumio\|GRUMIO]] | Per la Madonna, signore, con ago e filo. |
 | SARTO | Ma non chiedeste che fosse tagliata? |
-| [[Grumio|GRUMIO]] | Tu hai rifinito molte cose. |
+| [[Grumio\|GRUMIO]] | Tu hai rifinito molte cose. |
 | SARTO | È vero. |
-| [[Grumio|GRUMIO]] | Non rifinire me. Tu hai bravato molti uomini. Non bravare me. Non voglio essere né rifinito né bravato. Ti dico che ordinai al tuo padrone di tagliare la veste, ma non gli dissi di tagliarla a pezzi. Ergo, tu menti. |
+| [[Grumio\|GRUMIO]] | Non rifinire me. Tu hai bravato molti uomini. Non bravare me. Non voglio essere né rifinito né bravato. Ti dico che ordinai al tuo padrone di tagliare la veste, ma non gli dissi di tagliarla a pezzi. Ergo, tu menti. |
 | SARTO | (mostrando un foglio) Ma ecco la nota della foggia, a testimonianza. |
 | PETRUCCIO | Leggila. |
-| [[Grumio|GRUMIO]] | La nota mente per la gola, se dice che io dissi così. |
+| [[Grumio\|GRUMIO]] | La nota mente per la gola, se dice che io dissi così. |
 | SARTO | (legge) «Imprimis, una veste dal corpo largo.» |
-| [[Grumio|GRUMIO]] | Padrone, se mai dissi «veste dal corpo largo», cucitemi dentro le sue falde e battetemi a [[Death|morte]] con un [[Bottom|gomitolo]] di filo bruno. Io dissi una veste. |
+| [[Grumio\|GRUMIO]] | Padrone, se mai dissi «veste dal corpo largo», cucitemi dentro le sue falde e battetemi a [[Death\|morte]] con un [[Bottom\|gomitolo]] di filo bruno. Io dissi una veste. |
 | PETRUCCIO | Prosegui. |
 | SARTO | (legge) «Con una piccola mantellina arrotondata.» |
-| [[Grumio|GRUMIO]] | Confesso la mantellina. |
+| [[Grumio\|GRUMIO]] | Confesso la mantellina. |
 | SARTO | (legge) «Con una manica a sbuffo.» |
-| [[Grumio|GRUMIO]] | Confesso due maniche. |
+| [[Grumio\|GRUMIO]] | Confesso due maniche. |
 | SARTO | (legge) «Le maniche curiosamente tagliate.» |
 | PETRUCCIO | Ecco, qui sta la scelleratezza. |
-| [[Grumio|GRUMIO]] | Errore nella nota, signore, errore nella nota. Io comandai che le maniche fossero tagliate e poi ricucite, e questo lo proverò su di te, quand’anche il tuo mignolo fosse armato d’un ditale. 146 |
+| [[Grumio\|GRUMIO]] | Errore nella nota, signore, errore nella nota. Io comandai che le maniche fossero tagliate e poi ricucite, e questo lo proverò su di te, quand’anche il tuo mignolo fosse armato d’un ditale. 146 |
 | SARTO | È vero quel che dico. E se ti avessi nel luogo adatto, lo sapresti. |
-| [[Grumio|GRUMIO]] | Son pronto per te all’istante. Prendi tu la nota, dammi la tua canna da misura, e non risparmiarmi. |
-| [[Hortensio|ORTENSIO]] | Dio ti ricompensi, [[Grumio]], così non avrà vantaggio. |
-| PETRUCCIO | [[Well|Ebbene]], signore, in breve, la veste non fa per me. |
-| [[Grumio|GRUMIO]] | Avete ragione, signore. È per la mia padrona. |
+| [[Grumio\|GRUMIO]] | Son pronto per te all’istante. Prendi tu la nota, dammi la tua canna da misura, e non risparmiarmi. |
+| [[Hortensio\|ORTENSIO]] | Dio ti ricompensi, [[Grumio]], così non avrà vantaggio. |
+| PETRUCCIO | [[Well\|Ebbene]], signore, in breve, la veste non fa per me. |
+| [[Grumio\|GRUMIO]] | Avete ragione, signore. È per la mia padrona. |
 | PETRUCCIO | (al Sarto)<br>Va’, prendila su per l’uso del tuo padrone. |
-| [[Grumio|GRUMIO]] | (al Sarto) [[Villain|Furfante]], non per la tua vita. Prendere su la veste della mia padrona per l’uso del tuo padrone! |
+| [[Grumio\|GRUMIO]] | (al Sarto) [[Villain\|Furfante]], non per la tua vita. Prendere su la veste della mia padrona per l’uso del tuo padrone! |
 | PETRUCCIO | Ma, signore, che concetto ci vedi in ciò? |
-| [[Grumio|GRUMIO]] | Oh, signore, il concetto è più profondo di quanto pensiate. «Prendere su la veste della mia padrona per l’uso del suo padrone»—oh via, via, via! |
-| PETRUCCIO | (a parte)<br>[[Hortensio|Ortensio]], di’ che baderai tu a far pagare il sarto.<br>(Al Sarto) Va’, portala via. Vattene, e non dire altro<br>ancora. |
-| [[Hortensio|ORTENSIO]] | (a parte, al Sarto)<br>Sarto, ti pagherò io la veste domani.<br>Non prendertela per le sue parole avventate.<br>Via, ti dico. Salutami il tuo padrone. |
+| [[Grumio\|GRUMIO]] | Oh, signore, il concetto è più profondo di quanto pensiate. «Prendere su la veste della mia padrona per l’uso del suo padrone»—oh via, via, via! |
+| PETRUCCIO | (a parte)<br>[[Hortensio\|Ortensio]], di’ che baderai tu a far pagare il sarto.<br>(Al Sarto) Va’, portala via. Vattene, e non dire altro<br>ancora. |
+| [[Hortensio\|ORTENSIO]] | (a parte, al Sarto)<br>Sarto, ti pagherò io la veste domani.<br>Non prendertela per le sue parole avventate.<br>Via, ti dico. Salutami il tuo padrone. |
 | *(didascalia)* | Esce il Sarto |
-| PETRUCCIO | [[Well|Ebbene]], vieni, mia Cate. Andremo da tuo padre<br>proprio in queste oneste, dimesse vesti.<br>Le nostre borse saranno superbe, i nostri abiti poveri,<br>ché è la mente che fa ricco il [[Body|corpo]];<br>e come il sole irrompe fra le nubi più oscure,<br>così l’[[Honour|onore]] traspare nell’abito più umile.<br>Come, è la ghiandaia più preziosa dell’allodola<br>perché le sue penne sono più belle?<br>O è la vipera migliore dell’anguilla<br>perché la sua pelle dipinta appaga l’occhio?<br>Oh no, buona Cate, né tu vali di meno<br>per questa povera acconciatura e questa umile veste.<br>Se lo reputi vergogna, dàlla a me;<br>e perciò rallegrati: partiremo subito di qui<br>per banchettare e spassarcela nella [[house|casa]] di tuo padre.<br>Va’ a chiamare i miei uomini, e andiamo dritti da lui,<br>e portate i nostri cavalli in fondo a Long Lane.<br>Là monteremo, e fin là andremo a piedi.<br>Vediamo: credo che siano ora circa le sette dell’[[Clock|orologio]],<br>e [[Well|bene]] potremo arrivarvi per l’[[Time|ora]] del pranzo. |
-| CATERINA | Oso assicurarvi, signore, che son quasi le due,<br>e sarà l’[[Time|ora]] di cena prima che arriviate là. |
-| PETRUCCIO | Saranno le sette prima ch’io monti a [[Horse|cavallo]].<br>Guarda: qualunque cosa io dica, o faccia, o pensi di fare,<br>tu la contraddici sempre. Signori, lasciate [[Alone|perdere]].<br>Non partirò oggi, e prima ch’io parta<br>sarà l’ora dell’[[Clock|orologio]] che io dico che è. |
-| [[Hortensio|ORTENSIO]] | (a parte)<br>Ecco, questo galantuomo comanderà anche il sole. |
+| PETRUCCIO | [[Well\|Ebbene]], vieni, mia Cate. Andremo da tuo padre<br>proprio in queste oneste, dimesse vesti.<br>Le nostre borse saranno superbe, i nostri abiti poveri,<br>ché è la mente che fa ricco il [[Body\|corpo]];<br>e come il sole irrompe fra le nubi più oscure,<br>così l’[[Honour\|onore]] traspare nell’abito più umile.<br>Come, è la ghiandaia più preziosa dell’allodola<br>perché le sue penne sono più belle?<br>O è la vipera migliore dell’anguilla<br>perché la sua pelle dipinta appaga l’occhio?<br>Oh no, buona Cate, né tu vali di meno<br>per questa povera acconciatura e questa umile veste.<br>Se lo reputi vergogna, dàlla a me;<br>e perciò rallegrati: partiremo subito di qui<br>per banchettare e spassarcela nella [[house\|casa]] di tuo padre.<br>Va’ a chiamare i miei uomini, e andiamo dritti da lui,<br>e portate i nostri cavalli in fondo a Long Lane.<br>Là monteremo, e fin là andremo a piedi.<br>Vediamo: credo che siano ora circa le sette dell’[[Clock\|orologio]],<br>e [[Well\|bene]] potremo arrivarvi per l’[[Time\|ora]] del pranzo. |
+| CATERINA | Oso assicurarvi, signore, che son quasi le due,<br>e sarà l’[[Time\|ora]] di cena prima che arriviate là. |
+| PETRUCCIO | Saranno le sette prima ch’io monti a [[Horse\|cavallo]].<br>Guarda: qualunque cosa io dica, o faccia, o pensi di fare,<br>tu la contraddici sempre. Signori, lasciate [[Alone\|perdere]].<br>Non partirò oggi, e prima ch’io parta<br>sarà l’ora dell’[[Clock\|orologio]] che io dico che è. |
+| [[Hortensio\|ORTENSIO]] | (a parte)<br>Ecco, questo galantuomo comanderà anche il sole. |
 | *(didascalia)* | Escono |
 
 
@@ -2955,29 +2955,29 @@ Bartholomew sits
 | Chi parla | Battuta |
 |---|---|
 | *(didascalia)* | Entrano [[Tranio]] come [[Lucentio]], e il Pedante vestito come Vincenzio, con gli stivali e a capo scoperto |
-| [[Tranio|TRANIO]] | Signore, questa è la [[house|casa]]. Vi piace ch’io chiami? |
-| PEDANTE | Sì, che altro. E se non m’inganno,<br>il signor [[Baptista|Battista]] potrà ricordarsi di me<br>di quasi vent’anni fa, a Genova— |
-| [[Tranio|TRANIO]] | Dove alloggiavamo al Pegaso.—<br>Sta [[Well|bene]], e in ogni caso sostenete la vostra parte<br>con quell’austerità che s’addice a un padre. |
+| [[Tranio\|TRANIO]] | Signore, questa è la [[house\|casa]]. Vi piace ch’io chiami? |
+| PEDANTE | Sì, che altro. E se non m’inganno,<br>il signor [[Baptista\|Battista]] potrà ricordarsi di me<br>di quasi vent’anni fa, a Genova— |
+| [[Tranio\|TRANIO]] | Dove alloggiavamo al Pegaso.—<br>Sta [[Well\|bene]], e in ogni caso sostenete la vostra parte<br>con quell’austerità che s’addice a un padre. |
 | *(didascalia)* | Entra Biondello |
 | PEDANTE | Ve lo garantisco. Ma, signore, ecco che viene il vostro ragazzo.<br>Sarebbe bene che fosse istruito. |
-| [[Tranio|TRANIO]] | Non ne abbiate [[Fear|timore]]. Ehi, Biondello,<br>ora fa’ il tuo dovere a puntino, ti avverto.<br>Immagina che sia il vero Vincenzio. |
-| BIONDELLO | Bah, non [[Fear|temete]] di me. |
-| [[Tranio|TRANIO]] | Ma hai fatto la tua ambasciata a [[Baptista|Battista]]? |
-| BIONDELLO | Gli ho detto che vostro padre era a [[Venice|Venezia]]<br>e che voi l’attendevate oggi in Padova. |
-| [[Tranio|TRANIO]] | (dandogli del denaro)<br>Sei un bravo ragazzo. Tieni questo per bere.<br>Ecco che viene [[Baptista|Battista]]. Componete il volto, signore. |
-| *(didascalia)* | Entrano [[Baptista|Battista]] e [[Lucentio]] come Cambio |
-| [[Tranio|TRANIO]] | Signor [[Baptista|Battista]], vi si incontra di buon’ora.<br>(Al Pedante) Signore, questo è il gentiluomo di cui vi ho parlato.<br>Vi prego, fatemi ora da buon padre.<br>Datemi [[Bianca]] per mio patrimonio. |
-| PEDANTE | Piano, figlio. (A [[Baptista|Battista]]) Signore, con vostra licenza, essendo<br>venuto a Padova<br>a riscuotere alcuni debiti, mio figlio [[Lucentio]]<br>m’ha reso edotto d’una grave faccenda<br>d’[[Love|amore]] fra vostra figlia e lui;<br>e per la buona fama che di voi mi giunge,<br>e per l’[[Love|amore]] ch’egli porta a vostra figlia,<br>e lei a lui, per non trattenerlo troppo a lungo<br>sono contento, con la cura d’un buon padre,<br>di vederlo accasato; e se a voi piace approvare<br>non meno di me, dietro qualche accordo<br>mi troverete pronto e ben disposto,<br>d’un solo consenso, a che ella gli sia così concessa;<br>ché non posso essere cavilloso con voi,<br>signor [[Baptista|Battista]], di cui odo tanto [[Well|bene]]. |
-| [[Baptista|BATTISTA]] | Signore, perdonatemi in ciò che ho da dire.<br>La vostra schiettezza e la vostra brevità mi piacciono [[Well|assai]].<br>È verissimo che vostro figlio [[Lucentio]], qui presente,<br>[[Love|ama]] mia figlia, ed ella ama lui,<br>o entrambi dissimulano profondamente i loro affetti.<br>E perciò, se non dite più di questo,<br>che da padre tratterete con lui<br>e assegnerete a mia figlia una dote sufficiente,<br>l’accordo è fatto, e tutto è concluso.<br>Vostro figlio avrà mia figlia col mio consenso. |
-| [[Tranio|TRANIO]] | Vi ringrazio, signore. Dove dunque stimate meglio<br>che ci fidanziamo, e che si prenda quella garanzia<br>che stia bene all’accordo d’entrambe le parti? |
-| [[Baptista|BATTISTA]] | Non nella mia [[house|casa]], [[Lucentio]], ché voi sapete<br>che le brocche hanno orecchie, e io ho molti servitori.<br>Inoltre il vecchio Gremio sta sempre in ascolto,<br>e potremmo facilmente essere interrotti. |
-| [[Tranio|TRANIO]] | Allora nel mio alloggio, se vi aggrada.<br>Là dimora mio padre, e là questa [[Night|notte]]<br>sbrigheremo la faccenda in privato e [[Well|bene]].<br>Mandate a chiamare vostra figlia col vostro servo qui presente.<br>Il mio ragazzo andrà subito a prendere il notaio.<br>Il peggio è questo, che con un preavviso così breve<br>avrete probabilmente una magra e scarsa pietanza. |
-| [[Baptista|BATTISTA]] | Mi sta [[Well|bene]]. Cambio, affrettati a [[Home|casa]]<br>e di’ a [[Bianca]] di prepararsi subito;<br>e, se vuoi, racconta quel ch’è accaduto—<br>che il padre di [[Lucentio]] è arrivato in Padova—<br>e come ella sarà probabilmente moglie di [[Lucentio]].<br>Esce Lucentio |
+| [[Tranio\|TRANIO]] | Non ne abbiate [[Fear\|timore]]. Ehi, Biondello,<br>ora fa’ il tuo dovere a puntino, ti avverto.<br>Immagina che sia il vero Vincenzio. |
+| BIONDELLO | Bah, non [[Fear\|temete]] di me. |
+| [[Tranio\|TRANIO]] | Ma hai fatto la tua ambasciata a [[Baptista\|Battista]]? |
+| BIONDELLO | Gli ho detto che vostro padre era a [[Venice\|Venezia]]<br>e che voi l’attendevate oggi in Padova. |
+| [[Tranio\|TRANIO]] | (dandogli del denaro)<br>Sei un bravo ragazzo. Tieni questo per bere.<br>Ecco che viene [[Baptista\|Battista]]. Componete il volto, signore. |
+| *(didascalia)* | Entrano [[Baptista\|Battista]] e [[Lucentio]] come Cambio |
+| [[Tranio\|TRANIO]] | Signor [[Baptista\|Battista]], vi si incontra di buon’ora.<br>(Al Pedante) Signore, questo è il gentiluomo di cui vi ho parlato.<br>Vi prego, fatemi ora da buon padre.<br>Datemi [[Bianca]] per mio patrimonio. |
+| PEDANTE | Piano, figlio. (A [[Baptista\|Battista]]) Signore, con vostra licenza, essendo<br>venuto a Padova<br>a riscuotere alcuni debiti, mio figlio [[Lucentio]]<br>m’ha reso edotto d’una grave faccenda<br>d’[[Love\|amore]] fra vostra figlia e lui;<br>e per la buona fama che di voi mi giunge,<br>e per l’[[Love\|amore]] ch’egli porta a vostra figlia,<br>e lei a lui, per non trattenerlo troppo a lungo<br>sono contento, con la cura d’un buon padre,<br>di vederlo accasato; e se a voi piace approvare<br>non meno di me, dietro qualche accordo<br>mi troverete pronto e ben disposto,<br>d’un solo consenso, a che ella gli sia così concessa;<br>ché non posso essere cavilloso con voi,<br>signor [[Baptista\|Battista]], di cui odo tanto [[Well\|bene]]. |
+| [[Baptista\|BATTISTA]] | Signore, perdonatemi in ciò che ho da dire.<br>La vostra schiettezza e la vostra brevità mi piacciono [[Well\|assai]].<br>È verissimo che vostro figlio [[Lucentio]], qui presente,<br>[[Love\|ama]] mia figlia, ed ella ama lui,<br>o entrambi dissimulano profondamente i loro affetti.<br>E perciò, se non dite più di questo,<br>che da padre tratterete con lui<br>e assegnerete a mia figlia una dote sufficiente,<br>l’accordo è fatto, e tutto è concluso.<br>Vostro figlio avrà mia figlia col mio consenso. |
+| [[Tranio\|TRANIO]] | Vi ringrazio, signore. Dove dunque stimate meglio<br>che ci fidanziamo, e che si prenda quella garanzia<br>che stia bene all’accordo d’entrambe le parti? |
+| [[Baptista\|BATTISTA]] | Non nella mia [[house\|casa]], [[Lucentio]], ché voi sapete<br>che le brocche hanno orecchie, e io ho molti servitori.<br>Inoltre il vecchio Gremio sta sempre in ascolto,<br>e potremmo facilmente essere interrotti. |
+| [[Tranio\|TRANIO]] | Allora nel mio alloggio, se vi aggrada.<br>Là dimora mio padre, e là questa [[Night\|notte]]<br>sbrigheremo la faccenda in privato e [[Well\|bene]].<br>Mandate a chiamare vostra figlia col vostro servo qui presente.<br>Il mio ragazzo andrà subito a prendere il notaio.<br>Il peggio è questo, che con un preavviso così breve<br>avrete probabilmente una magra e scarsa pietanza. |
+| [[Baptista\|BATTISTA]] | Mi sta [[Well\|bene]]. Cambio, affrettati a [[Home\|casa]]<br>e di’ a [[Bianca]] di prepararsi subito;<br>e, se vuoi, racconta quel ch’è accaduto—<br>che il padre di [[Lucentio]] è arrivato in Padova—<br>e come ella sarà probabilmente moglie di [[Lucentio]].<br>Esce Lucentio |
 | BIONDELLO | Prego gli dèi che lo sia, con tutto il cuore. |
-| [[Tranio|TRANIO]] | Non scherzare con gli dèi, ma vattene. |
+| [[Tranio\|TRANIO]] | Non scherzare con gli dèi, ma vattene. |
 | *(didascalia)* | Esce Biondello |
-| [[Tranio|TRANIO]] | Signor [[Baptista|Battista]], faccio io strada?<br>Benvenuto. Un piatto solo sarà probabilmente il vostro banchetto.<br>Venite, signore, faremo meglio a Pisa. |
-| [[Baptista|BATTISTA]] | Vi seguo. |
+| [[Tranio\|TRANIO]] | Signor [[Baptista\|Battista]], faccio io strada?<br>Benvenuto. Un piatto solo sarà probabilmente il vostro banchetto.<br>Venite, signore, faremo meglio a Pisa. |
+| [[Baptista\|BATTISTA]] | Vi seguo. |
 | *(didascalia)* | Escono |
 
 
@@ -3013,21 +3013,21 @@ Bartholomew sits
 |---|---|
 | *(didascalia)* | Entrano [[Lucentio]] e Biondello |
 | BIONDELLO | Cambio. |
-| [[Lucentio|LUCENTIO]] | Che dici, Biondello? |
+| [[Lucentio\|LUCENTIO]] | Che dici, Biondello? |
 | BIONDELLO | Avete visto il mio padrone strizzarvi l’occhio e ridere? |
-| [[Lucentio|LUCENTIO]] | Biondello, e con ciò? |
-| BIONDELLO | In [[Faith|fede]], nulla, se non che m’ha lasciato qui indietro a spiegare il senso o la morale dei suoi segni e cenni. |
-| [[Lucentio|LUCENTIO]] | Ti prego, moralizzali. |
-| BIONDELLO | Ecco dunque: [[Baptista|Battista]] è al sicuro, a discorrere col padre ingannatore d’un figlio ingannevole. |
-| [[Lucentio|LUCENTIO]] | E che c’entra lui? |
+| [[Lucentio\|LUCENTIO]] | Biondello, e con ciò? |
+| BIONDELLO | In [[Faith\|fede]], nulla, se non che m’ha lasciato qui indietro a spiegare il senso o la morale dei suoi segni e cenni. |
+| [[Lucentio\|LUCENTIO]] | Ti prego, moralizzali. |
+| BIONDELLO | Ecco dunque: [[Baptista\|Battista]] è al sicuro, a discorrere col padre ingannatore d’un figlio ingannevole. |
+| [[Lucentio\|LUCENTIO]] | E che c’entra lui? |
 | BIONDELLO | Sua figlia dev’essere condotta da voi alla cena. |
-| [[Lucentio|LUCENTIO]] | E poi? |
+| [[Lucentio\|LUCENTIO]] | E poi? |
 | BIONDELLO | Il vecchio prete della chiesa di San Luca è ai vostri comandi a ogni ora. |
-| [[Lucentio|LUCENTIO]] | E che significa tutto questo? |
+| [[Lucentio\|LUCENTIO]] | E che significa tutto questo? |
 | BIONDELLO | Non saprei, se non che sono affaccendati intorno a una garanzia contraffatta. Prendetevi voi garanzia di lei cum privilegio ad imprimendum solum—alla chiesa portate il prete, il chierico e qualche onesto testimone sufficiente. Se questo non è ciò che cercate, non ho altro da dire, se non dire addio a [[Bianca]] per sempre e un giorno di più. |
-| [[Lucentio|LUCENTIO]] | Mi senti, Biondello? |
-| BIONDELLO | Non posso attardarmi: ho conosciuto una ragazza che si sposò in un pomeriggio mentre andava nell’[[Garden|orto]] a prendere prezzemolo per farcire un coniglio, e così potete fare voi, signore, e dunque addio, signore. Il mio padrone m’ha ordinato d’andare a San Luca a dire al prete di tenersi pronto ad attendervi quando verrete con la vostra appendice. Esce |
-| [[Lucentio|LUCENTIO]] | Posso e voglio, s’ella ne è contenta.<br>Ella sarà contenta; e allora perché dovrei [[Doubt|dubitare]]?<br>Accada quel che accada, andrò diritto da lei.<br>Sarà ben strano se Cambio se ne va senza di lei. |
+| [[Lucentio\|LUCENTIO]] | Mi senti, Biondello? |
+| BIONDELLO | Non posso attardarmi: ho conosciuto una ragazza che si sposò in un pomeriggio mentre andava nell’[[Garden\|orto]] a prendere prezzemolo per farcire un coniglio, e così potete fare voi, signore, e dunque addio, signore. Il mio padrone m’ha ordinato d’andare a San Luca a dire al prete di tenersi pronto ad attendervi quando verrete con la vostra appendice. Esce |
+| [[Lucentio\|LUCENTIO]] | Posso e voglio, s’ella ne è contenta.<br>Ella sarà contenta; e allora perché dovrei [[Doubt\|dubitare]]?<br>Accada quel che accada, andrò diritto da lei.<br>Sarà ben strano se Cambio se ne va senza di lei. |
 | *(didascalia)* | Esce |
 
 
@@ -3074,36 +3074,36 @@ Bartholomew sits
 
 | Chi parla | Battuta |
 |---|---|
-| *(didascalia)* | Entrano Petruccio, Caterina, [[Hortensio|Ortensio]] e i servi |
-| PETRUCCIO | Avanti, in nome di Dio. Ancora una volta verso la casa di nostro padre.<br>Buon Dio, come splende chiara e bella la [[Moon|luna]]! |
-| CATERINA | La [[Moon|luna]]?—il sole. Non è chiaro di luna adesso. |
-| PETRUCCIO | Io dico che è la [[Moon|luna]] che splende così chiara. |
+| *(didascalia)* | Entrano Petruccio, Caterina, [[Hortensio\|Ortensio]] e i servi |
+| PETRUCCIO | Avanti, in nome di Dio. Ancora una volta verso la casa di nostro padre.<br>Buon Dio, come splende chiara e bella la [[Moon\|luna]]! |
+| CATERINA | La [[Moon\|luna]]?—il sole. Non è chiaro di luna adesso. |
+| PETRUCCIO | Io dico che è la [[Moon\|luna]] che splende così chiara. |
 | CATERINA | Io so che è il sole che splende così chiaro. 5 |
-| PETRUCCIO | Ora, per il figlio di mia madre—e quello sono io—<br>sarà [[Moon|luna]], o stella, o quel che mi pare,<br>prima ch’io faccia il [[Journey|viaggio]] alla [[house|casa]] di vostro padre.<br>Andate, e riportate indietro i nostri cavalli.<br>Sempre contrariato e contrariato, nient’altro che contrariato. |
-| [[Hortensio|ORTENSIO]] | (a Caterina)<br>Dite come dice lui, o non partiremo mai. |
-| CATERINA | Avanti, vi prego, poiché siamo giunti tanto lontano;<br>e sia [[Moon|luna]] o sole o quel che vi piace,<br>e se vi piace chiamarlo una candela di giunco,<br>d’ora innanzi giuro che così sarà per me. |
-| PETRUCCIO | Io dico che è la [[Moon|luna]]. |
-| CATERINA | Io so che è la [[Moon|luna]]. |
+| PETRUCCIO | Ora, per il figlio di mia madre—e quello sono io—<br>sarà [[Moon\|luna]], o stella, o quel che mi pare,<br>prima ch’io faccia il [[Journey\|viaggio]] alla [[house\|casa]] di vostro padre.<br>Andate, e riportate indietro i nostri cavalli.<br>Sempre contrariato e contrariato, nient’altro che contrariato. |
+| [[Hortensio\|ORTENSIO]] | (a Caterina)<br>Dite come dice lui, o non partiremo mai. |
+| CATERINA | Avanti, vi prego, poiché siamo giunti tanto lontano;<br>e sia [[Moon\|luna]] o sole o quel che vi piace,<br>e se vi piace chiamarlo una candela di giunco,<br>d’ora innanzi giuro che così sarà per me. |
+| PETRUCCIO | Io dico che è la [[Moon\|luna]]. |
+| CATERINA | Io so che è la [[Moon\|luna]]. |
 | PETRUCCIO | E allora mentite, è il benedetto sole. |
-| CATERINA | Sia dunque Dio benedetto, è il benedetto sole;<br>ma sole non è quando voi dite che non lo è,<br>e la [[Moon|luna]] cambia come cambia la vostra mente.<br>Come voi volete che si chiami, quello appunto è,<br>e tale sarà sempre per Caterina. |
-| [[Hortensio|ORTENSIO]] | Petruccio, va’ pure. Il campo è vinto. |
-| PETRUCCIO | [[Well|Bene]], avanti, avanti. Così deve correre la boccia,<br>e non malauguratamente contro il pendio.<br>Ma piano, viene gente qui. |
+| CATERINA | Sia dunque Dio benedetto, è il benedetto sole;<br>ma sole non è quando voi dite che non lo è,<br>e la [[Moon\|luna]] cambia come cambia la vostra mente.<br>Come voi volete che si chiami, quello appunto è,<br>e tale sarà sempre per Caterina. |
+| [[Hortensio\|ORTENSIO]] | Petruccio, va’ pure. Il campo è vinto. |
+| PETRUCCIO | [[Well\|Bene]], avanti, avanti. Così deve correre la boccia,<br>e non malauguratamente contro il pendio.<br>Ma piano, viene gente qui. |
 | *(didascalia)* | Entra il vecchio Vincenzio |
-| PETRUCCIO | (A Vincenzio) Buon giorno, gentile signora, dove<br>andate?<br>Dimmi, dolce Cate, e dimmelo anche sinceramente,<br>hai mai veduto una gentildonna più fresca,<br>una tal guerra di [[White and Red|bianco e rosso]] nelle sue guance?<br>Quali [[Stars|stelle]] trapungono il cielo con tanta [[Beauty|bellezza]]<br>quanta ne danno quei due occhi a quel celestiale volto?<br>Bella, leggiadra fanciulla, ancora una volta buon giorno a te.<br>Dolce Cate, abbracciala per amor della sua [[Beauty|bellezza]]. |
-| [[Hortensio|ORTENSIO]] | Lo farà impazzire, quest’uomo, a farne una donna. |
-| CATERINA | Giovane vergine in boccio, bella, e fresca, e dolce,<br>dove ve n’andate, o dov’è la vostra dimora?<br>Felici i genitori d’una così bella [[Child|creatura]],<br>più felice l’uomo cui [[Stars|stelle]] favorevoli<br>t’assegneranno per sua leggiadra compagna di letto. |
-| PETRUCCIO | Come, che c’è ora, Cate? [[Hope|Spero]] che tu non sia impazzita.<br>Questo è un uomo, vecchio, rugoso, sbiadito, avvizzito,<br>e non una fanciulla come tu dici ch’egli sia. |
+| PETRUCCIO | (A Vincenzio) Buon giorno, gentile signora, dove<br>andate?<br>Dimmi, dolce Cate, e dimmelo anche sinceramente,<br>hai mai veduto una gentildonna più fresca,<br>una tal guerra di [[White and Red\|bianco e rosso]] nelle sue guance?<br>Quali [[Stars\|stelle]] trapungono il cielo con tanta [[Beauty\|bellezza]]<br>quanta ne danno quei due occhi a quel celestiale volto?<br>Bella, leggiadra fanciulla, ancora una volta buon giorno a te.<br>Dolce Cate, abbracciala per amor della sua [[Beauty\|bellezza]]. |
+| [[Hortensio\|ORTENSIO]] | Lo farà impazzire, quest’uomo, a farne una donna. |
+| CATERINA | Giovane vergine in boccio, bella, e fresca, e dolce,<br>dove ve n’andate, o dov’è la vostra dimora?<br>Felici i genitori d’una così bella [[Child\|creatura]],<br>più felice l’uomo cui [[Stars\|stelle]] favorevoli<br>t’assegneranno per sua leggiadra compagna di letto. |
+| PETRUCCIO | Come, che c’è ora, Cate? [[Hope\|Spero]] che tu non sia impazzita.<br>Questo è un uomo, vecchio, rugoso, sbiadito, avvizzito,<br>e non una fanciulla come tu dici ch’egli sia. |
 | CATERINA | Perdonate, vecchio padre, i miei occhi ingannati,<br>che sono stati così abbagliati dal sole<br>che ogni cosa su cui posino mi pare verde.<br>Ora m’avvedo che siete un venerando padre.<br>Perdonatemi, vi prego, il mio folle sbaglio. |
 | PETRUCCIO | Fatelo, buon vecchio nonno, e insieme fateci sapere<br>per quale via viaggiate. Se insieme a noi,<br>ci rallegreremo della vostra compagnia. |
 | VINCENZIO | Bel signore, e voi, mia allegra signora,<br>che col vostro strano incontro molto m’avete stupito,<br>il mio nome è Vincenzio, la mia dimora Pisa,<br>e sono diretto a Padova, a visitarvi<br>un mio figlio che da lungo tempo non vedo. |
 | PETRUCCIO | Come si chiama? |
 | VINCENZIO | [[Lucentio]], gentile signore. |
-| PETRUCCIO | Felice incontro, e più felice per vostro figlio.<br>E ora, per legge come [[Well|pure]] per la veneranda età,<br>posso chiamarvi mio amato padre.<br>La sorella di mia moglie, questa gentildonna,<br>vostro figlio ormai l’ha sposata. Non ve ne fate [[Wonder|meraviglia]],<br>né v’affliggete. Ella è di buona stima,<br>ricca di dote e di degna nascita,<br>e per giunta così dotata da poter convenire<br>alla sposa di qualsiasi nobile gentiluomo.<br>Lasciate ch’io abbracci il vecchio Vincenzio,<br>e andiamo insieme a vedere il vostro onesto figlio,<br>che sarà pieno di gioia del vostro arrivo.<br>Abbraccia Vincenzio |
+| PETRUCCIO | Felice incontro, e più felice per vostro figlio.<br>E ora, per legge come [[Well\|pure]] per la veneranda età,<br>posso chiamarvi mio amato padre.<br>La sorella di mia moglie, questa gentildonna,<br>vostro figlio ormai l’ha sposata. Non ve ne fate [[Wonder\|meraviglia]],<br>né v’affliggete. Ella è di buona stima,<br>ricca di dote e di degna nascita,<br>e per giunta così dotata da poter convenire<br>alla sposa di qualsiasi nobile gentiluomo.<br>Lasciate ch’io abbracci il vecchio Vincenzio,<br>e andiamo insieme a vedere il vostro onesto figlio,<br>che sarà pieno di gioia del vostro arrivo.<br>Abbraccia Vincenzio |
 | VINCENZIO | Ma è vero questo, o è piuttosto vostro spasso,<br>come fanno i viaggiatori burloni, gettare uno scherzo<br>sulla compagnia che raggiungete? |
-| [[Hortensio|ORTENSIO]] | Vi assicuro, padre, che è proprio così. |
-| PETRUCCIO | Venite, andiamo, e vedrete la [[Truth|verità]] di ciò,<br>ché la nostra prima celia v’ha reso diffidente. |
-| *(didascalia)* | Escono tutti tranne [[Hortensio|Ortensio]] |
-| [[Hortensio|ORTENSIO]] | [[Well|Bene]], Petruccio, questo m’ha messo animo in corpo.<br>Andiamo dalla mia vedova; e s’ella sarà ritrosa,<br>tu avrai insegnato a [[Hortensio|Ortensio]] a essere intrattabile. |
+| [[Hortensio\|ORTENSIO]] | Vi assicuro, padre, che è proprio così. |
+| PETRUCCIO | Venite, andiamo, e vedrete la [[Truth\|verità]] di ciò,<br>ché la nostra prima celia v’ha reso diffidente. |
+| *(didascalia)* | Escono tutti tranne [[Hortensio\|Ortensio]] |
+| [[Hortensio\|ORTENSIO]] | [[Well\|Bene]], Petruccio, questo m’ha messo animo in corpo.<br>Andiamo dalla mia vedova; e s’ella sarà ritrosa,<br>tu avrai insegnato a [[Hortensio\|Ortensio]] a essere intrattabile. |
 | *(didascalia)* | Esce |
 
 
@@ -3212,94 +3212,94 @@ Bartholomew sits
 |---|---|
 | *(didascalia)* | Entrano Biondello, [[Lucentio]] e [[Bianca]]. Gremio è fuori, davanti |
 | BIONDELLO | Piano e presto, signore, ché il prete è pronto. |
-| [[Lucentio|LUCENTIO]] | Volo, Biondello; ma può darsi che abbiano bisogno di te a [[Home|casa]], perciò lasciaci. |
-| BIONDELLO | No, in [[Faith|fede]] mia, vi vedrò le spalle davanti alla chiesa e poi tornerò da casa del mio padrone il più presto che posso. |
+| [[Lucentio\|LUCENTIO]] | Volo, Biondello; ma può darsi che abbiano bisogno di te a [[Home\|casa]], perciò lasciaci. |
+| BIONDELLO | No, in [[Faith\|fede]] mia, vi vedrò le spalle davanti alla chiesa e poi tornerò da casa del mio padrone il più presto che posso. |
 | *(didascalia)* | Escono [[Lucentio]], [[Bianca]] e Biondello |
 | GREMIO | Mi meraviglio che Cambio non venga in tutto questo tempo. |
 | *(didascalia)* | Entrano Petruccio, Caterina, Vincenzio, [[Grumio]], con i servi |
-| PETRUCCIO | Signore, ecco la porta. Questa è la [[house|casa]] di [[Lucentio]].<br>Quella di mio suocero è più verso la piazza del mercato.<br>Là debbo andare, e qui vi lascio, signore. |
+| PETRUCCIO | Signore, ecco la porta. Questa è la [[house\|casa]] di [[Lucentio]].<br>Quella di mio suocero è più verso la piazza del mercato.<br>Là debbo andare, e qui vi lascio, signore. |
 | VINCENZIO | Non potete fare a meno di bere prima d’andare.<br>Credo di poter disporre qui della vostra accoglienza,<br>e con ogni probabilità c’è qualche festa in corso.<br>Bussa |
-| GREMIO | Sono affaccendati dentro. Fareste meglio a bussare più forte.<br>Vincenzio bussa di nuovo. Il Pedante si affaccia alla [[Window|finestra]] |
+| GREMIO | Sono affaccendati dentro. Fareste meglio a bussare più forte.<br>Vincenzio bussa di nuovo. Il Pedante si affaccia alla [[Window\|finestra]] |
 | PEDANTE | Chi è costui che bussa come volesse abbattere il portone? |
 | VINCENZIO | È in casa il signor [[Lucentio]], signore? |
 | PEDANTE | È in casa, signore, ma non gli si può parlare. |
 | VINCENZIO | E se uno gli portasse cento o duecento sterline da spendere in allegria? |
 | PEDANTE | Tenetevi le vostre cento sterline. Non ne avrà bisogno finché io vivo. |
-| PETRUCCIO | (a Vincenzio) Ve l’avevo detto io che vostro figlio era [[Well|ben]] voluto in Padova. (Al Pedante) Udite, signore, per lasciare le circostanze frivole, vi prego di dire al signor [[Lucentio]] che suo padre è venuto da Pisa ed è qui alla porta per parlargli. |
-| PEDANTE | Tu menti. Suo padre è venuto da Padova ed è qui che guarda dalla [[Window|finestra]]. |
+| PETRUCCIO | (a Vincenzio) Ve l’avevo detto io che vostro figlio era [[Well\|ben]] voluto in Padova. (Al Pedante) Udite, signore, per lasciare le circostanze frivole, vi prego di dire al signor [[Lucentio]] che suo padre è venuto da Pisa ed è qui alla porta per parlargli. |
+| PEDANTE | Tu menti. Suo padre è venuto da Padova ed è qui che guarda dalla [[Window\|finestra]]. |
 | VINCENZIO | Sei tu suo padre? |
 | PEDANTE | Sì, signore, così dice sua madre, se posso crederle. |
 | PETRUCCIO | (a Vincenzio) Ma come, gentiluomo? Questa è bella e buona furfanteria, prendere su di voi il nome d’un altro. |
-| PEDANTE | Mettete le mani addosso a quel [[Villain|furfante]]. Credo ch’egli intenda gabbare qualcuno in questa [[City|città]] sotto il mio sembiante. |
+| PEDANTE | Mettete le mani addosso a quel [[Villain\|furfante]]. Credo ch’egli intenda gabbare qualcuno in questa [[City\|città]] sotto il mio sembiante. |
 | *(didascalia)* | Entra Biondello |
 | BIONDELLO | (a parte) Li ho visti insieme in chiesa, Dio mandi loro buon viaggio. Ma chi c’è qui? Il mio vecchio padrone, Vincenzio—ora siamo rovinati e ridotti a nulla. |
 | VINCENZIO | (a Biondello) Vieni qua, pendaglio da forca. |
-| BIONDELLO | [[Hope|Spero]] di poter scegliere, signore. |
+| BIONDELLO | [[Hope\|Spero]] di poter scegliere, signore. |
 | VINCENZIO | Vieni qua, canaglia. Come, m’hai dimenticato? |
 | BIONDELLO | Dimenticarvi? No, signore, non potrei dimenticarvi, ché non vi ho mai visto prima in tutta la mia vita. |
-| VINCENZIO | Come, [[Villain|furfante]] notorio, non hai mai visto il padre del tuo padrone, Vincenzio? |
-| BIONDELLO | Come, il mio venerando vecchio padrone? Sì, per la Madonna, signore, guardate là dove s’affaccia dalla [[Window|finestra]]. |
+| VINCENZIO | Come, [[Villain\|furfante]] notorio, non hai mai visto il padre del tuo padrone, Vincenzio? |
+| BIONDELLO | Come, il mio venerando vecchio padrone? Sì, per la Madonna, signore, guardate là dove s’affaccia dalla [[Window\|finestra]]. |
 | VINCENZIO | È proprio così?<br>Bastona Biondello |
 | BIONDELLO | Aiuto, aiuto, aiuto! C’è qui un pazzo che vuole assassinarmi. |
 | *(didascalia)* | Esce |
-| PEDANTE | Aiuto, figlio! Aiuto, signor [[Baptista|Battista]]! |
+| PEDANTE | Aiuto, figlio! Aiuto, signor [[Baptista\|Battista]]! |
 | *(didascalia)* | Esce di sopra |
 | PETRUCCIO | Ti prego, Cate, tiriamoci in disparte e vediamo la fine di questa contesa.<br>Si tirano in disparte. |
-| *(didascalia)* | Entrano il Pedante coi servi, [[Baptista|Battista]], [[Tranio]] |
+| *(didascalia)* | Entrano il Pedante coi servi, [[Baptista\|Battista]], [[Tranio]] |
 | PETRUCCIO | come [[Lucentio]] |
-| [[Tranio|TRANIO]] | (a Vincenzio) Signore, chi siete voi che osate bastonare il mio servo? |
-| VINCENZIO | Chi sono io, signore? Anzi, chi siete voi, signore? Oh dèi immortali, oh bel [[Villain|furfante]]: un farsetto di seta, calze di velluto, un mantello scarlatto e un cappello a pan di zucchero—oh, sono rovinato, sono rovinato! Mentre io faccio il buon massaio a [[Home|casa]], mio figlio e il mio servo spendono tutto all’università. |
-| [[Tranio|TRANIO]] | Ebbene, che c’è? |
-| [[Baptista|BATTISTA]] | Come, quest’uomo è lunatico? |
-| [[Tranio|TRANIO]] | Signore, dall’abito sembrate un gentiluomo sobrio e attempato, ma le vostre parole vi mostrano un pazzo. Ebbene, signore, che v’importa se io porto perle e oro? Ringrazio il mio buon padre: sono in grado di mantenerlo. |
-| VINCENZIO | Tuo padre! Oh [[Villain|furfante]], egli è un velaio a Bergamo. |
-| [[Baptista|BATTISTA]] | V’ingannate, signore, v’ingannate. Di grazia, come credete che si chiami? |
+| [[Tranio\|TRANIO]] | (a Vincenzio) Signore, chi siete voi che osate bastonare il mio servo? |
+| VINCENZIO | Chi sono io, signore? Anzi, chi siete voi, signore? Oh dèi immortali, oh bel [[Villain\|furfante]]: un farsetto di seta, calze di velluto, un mantello scarlatto e un cappello a pan di zucchero—oh, sono rovinato, sono rovinato! Mentre io faccio il buon massaio a [[Home\|casa]], mio figlio e il mio servo spendono tutto all’università. |
+| [[Tranio\|TRANIO]] | Ebbene, che c’è? |
+| [[Baptista\|BATTISTA]] | Come, quest’uomo è lunatico? |
+| [[Tranio\|TRANIO]] | Signore, dall’abito sembrate un gentiluomo sobrio e attempato, ma le vostre parole vi mostrano un pazzo. Ebbene, signore, che v’importa se io porto perle e oro? Ringrazio il mio buon padre: sono in grado di mantenerlo. |
+| VINCENZIO | Tuo padre! Oh [[Villain\|furfante]], egli è un velaio a Bergamo. |
+| [[Baptista\|BATTISTA]] | V’ingannate, signore, v’ingannate. Di grazia, come credete che si chiami? |
 | VINCENZIO | Come si chiama? Come se io non sapessi il suo nome—l’ho allevato da quando aveva tre anni, e il suo nome è [[Tranio]]. |
 | PEDANTE | Va’ via, va’ via, asino pazzo. Il suo nome è [[Lucentio]], ed è il mio unico figlio, ed erede delle terre di me, signor Vincenzio. |
-| VINCENZIO | [[Lucentio]]? Oh, ha assassinato il suo padrone! Arrestatelo, ve l’ordino, in nome del Duca. Oh figlio mio, figlio mio! Dimmi, [[Villain|furfante]], dov’è mio figlio [[Lucentio]]? |
-| [[Tranio|TRANIO]] | Chiamate una guardia. |
+| VINCENZIO | [[Lucentio]]? Oh, ha assassinato il suo padrone! Arrestatelo, ve l’ordino, in nome del Duca. Oh figlio mio, figlio mio! Dimmi, [[Villain\|furfante]], dov’è mio figlio [[Lucentio]]? |
+| [[Tranio\|TRANIO]] | Chiamate una guardia. |
 | *(didascalia)* | Entra una Guardia |
-| [[Tranio|TRANIO]] | Portate questo pazzo furfante in prigione. Padre [[Baptista|Battista]], vi<br>incarico di badare che sia consegnato alla giustizia. |
+| [[Tranio\|TRANIO]] | Portate questo pazzo furfante in prigione. Padre [[Baptista\|Battista]], vi<br>incarico di badare che sia consegnato alla giustizia. |
 | VINCENZIO | Portare me in prigione? |
-| GREMIO | Fermo, guardia, egli non andrà in [[Prison|prigione]]. |
-| [[Baptista|BATTISTA]] | Non parlate, signor Gremio. Io dico che andrà in [[Prison|prigione]]. |
-| GREMIO | Badate, signor [[Baptista|Battista]], di non esser gabbato in questa faccenda. Oso giurare che questo è il vero Vincenzio. |
+| GREMIO | Fermo, guardia, egli non andrà in [[Prison\|prigione]]. |
+| [[Baptista\|BATTISTA]] | Non parlate, signor Gremio. Io dico che andrà in [[Prison\|prigione]]. |
+| GREMIO | Badate, signor [[Baptista\|Battista]], di non esser gabbato in questa faccenda. Oso giurare che questo è il vero Vincenzio. |
 | PEDANTE | Giura, se ne hai il coraggio. |
 | GREMIO | No, non oso giurarlo. |
-| [[Tranio|TRANIO]] | Allora faresti meglio a dire che io non sono [[Lucentio]]. |
+| [[Tranio\|TRANIO]] | Allora faresti meglio a dire che io non sono [[Lucentio]]. |
 | GREMIO | Sì, io vi conosco per il signor [[Lucentio]]. |
-| [[Baptista|BATTISTA]] | Via con quel rimbambito. In prigione con lui. |
+| [[Baptista\|BATTISTA]] | Via con quel rimbambito. In prigione con lui. |
 | *(didascalia)* | Entrano Biondello, [[Lucentio]] e [[Bianca]] |
-| VINCENZIO | Così i forestieri possono essere trascinati e maltrattati. Oh mostruoso [[Villain|furfante]]! |
+| VINCENZIO | Così i forestieri possono essere trascinati e maltrattati. Oh mostruoso [[Villain\|furfante]]! |
 | BIONDELLO | Oh, siamo rovinati e—eccolo là. Rinnegatelo, disconoscetelo, o siamo tutti perduti. |
 | *(didascalia)* | Escono Biondello, [[Tranio]] e il Pedante, più in fretta che possono |
-| [[Lucentio|LUCENTIO]] | (a Vincenzio) Perdono, dolce padre.<br>S’inginocchia |
+| [[Lucentio\|LUCENTIO]] | (a Vincenzio) Perdono, dolce padre.<br>S’inginocchia |
 | VINCENZIO | Vive il mio dolce figlio? |
-| [[Bianca|BIANCA]] | (a [[Baptista|Battista]]) Perdono, caro padre. |
-| [[Baptista|BATTISTA]] | In che hai mancato? Dov’è [[Lucentio]]? |
-| [[Lucentio|LUCENTIO]] | Eccolo [[Lucentio]], vero figlio del vero Vincenzio,<br>che per [[Marriage|matrimonio]] ho fatto mia vostra figlia<br>mentre finti scambi v’appannavano gli occhi. |
+| [[Bianca\|BIANCA]] | (a [[Baptista\|Battista]]) Perdono, caro padre. |
+| [[Baptista\|BATTISTA]] | In che hai mancato? Dov’è [[Lucentio]]? |
+| [[Lucentio\|LUCENTIO]] | Eccolo [[Lucentio]], vero figlio del vero Vincenzio,<br>che per [[Marriage\|matrimonio]] ho fatto mia vostra figlia<br>mentre finti scambi v’appannavano gli occhi. |
 | GREMIO | Ecco un imbroglio bell’e buono, per ingannarci tutti. |
-| VINCENZIO | Dov’è quel dannato [[Villain|furfante]] di [[Tranio]],<br>che m’ha rifinito e bravato così in questa faccenda? |
-| [[Baptista|BATTISTA]] | Ma dite, non è questo il mio Cambio? |
-| [[Bianca|BIANCA]] | Cambio si è cambiato in [[Lucentio]]. |
-| [[Lucentio|LUCENTIO]] | L’[[Love|Amore]] ha operato questi miracoli. L’[[Love|amore]] di [[Bianca]]<br>mi fece scambiare la mia condizione con [[Tranio]],<br>mentre egli portava il mio sembiante per la città;<br>e felicemente sono infine approdato<br>al porto bramato della mia beatitudine.<br>Ciò che [[Tranio]] fece, io stesso ve lo costrinsi.<br>Perdonatelo dunque, dolce padre, per amor mio. |
-| VINCENZIO | Fenderò il naso a quel [[Villain|furfante]] che voleva mandarmi in prigione. |
-| [[Baptista|BATTISTA]] | Ma udite, signore, avete sposato mia figlia senza chiedere il mio consenso? 125 |
-| VINCENZIO | Non [[Fear|temete]], [[Baptista|Battista]]. Vi contenteremo. Suvvia; ma io entrerò per vendicarmi di questa scelleratezza. |
+| VINCENZIO | Dov’è quel dannato [[Villain\|furfante]] di [[Tranio]],<br>che m’ha rifinito e bravato così in questa faccenda? |
+| [[Baptista\|BATTISTA]] | Ma dite, non è questo il mio Cambio? |
+| [[Bianca\|BIANCA]] | Cambio si è cambiato in [[Lucentio]]. |
+| [[Lucentio\|LUCENTIO]] | L’[[Love\|Amore]] ha operato questi miracoli. L’[[Love\|amore]] di [[Bianca]]<br>mi fece scambiare la mia condizione con [[Tranio]],<br>mentre egli portava il mio sembiante per la città;<br>e felicemente sono infine approdato<br>al porto bramato della mia beatitudine.<br>Ciò che [[Tranio]] fece, io stesso ve lo costrinsi.<br>Perdonatelo dunque, dolce padre, per amor mio. |
+| VINCENZIO | Fenderò il naso a quel [[Villain\|furfante]] che voleva mandarmi in prigione. |
+| [[Baptista\|BATTISTA]] | Ma udite, signore, avete sposato mia figlia senza chiedere il mio consenso? 125 |
+| VINCENZIO | Non [[Fear\|temete]], [[Baptista\|Battista]]. Vi contenteremo. Suvvia; ma io entrerò per vendicarmi di questa scelleratezza. |
 | *(didascalia)* | Esce |
-| [[Baptista|BATTISTA]] | E io per sondare il fondo di questa furfanteria. Esce |
-| [[Lucentio|LUCENTIO]] | Non impallidire, [[Bianca]]. Tuo padre non aggrotterà le ciglia. |
+| [[Baptista\|BATTISTA]] | E io per sondare il fondo di questa furfanteria. Esce |
+| [[Lucentio\|LUCENTIO]] | Non impallidire, [[Bianca]]. Tuo padre non aggrotterà le ciglia. |
 | *(didascalia)* | Escono [[Lucentio]] e [[Bianca]] |
-| GREMIO | La mia torta è rimasta cruda; ma entrerò anch’io con gli altri,<br>senza [[Hope|speranza]] alcuna se non la mia parte di banchetto. |
+| GREMIO | La mia torta è rimasta cruda; ma entrerò anch’io con gli altri,<br>senza [[Hope\|speranza]] alcuna se non la mia parte di banchetto. |
 | *(didascalia)* | Esce |
 | CATERINA | (facendosi avanti) Marito, seguiamoli, per vedere la fine di questo trambusto. |
 | PETRUCCIO | Prima baciami, Cate, e lo faremo. |
 | CATERINA | Come, in mezzo alla strada? |
 | PETRUCCIO | Come, ti vergogni di me? |
 | CATERINA | No, signore, Dio non voglia; ma mi vergogno di baciare. |
-| PETRUCCIO | E allora torniamocene a [[Home|casa]]. Vieni, messere, andiamocene. |
-| CATERINA | No, ti darò un bacio. Ora, ti prego, [[Love|amore]], resta. Si baciano |
-| PETRUCCIO | Non va [[Well|bene]] così? Vieni, mia dolce Cate.<br>Meglio una volta che mai, ché mai non è troppo tardi. |
+| PETRUCCIO | E allora torniamocene a [[Home\|casa]]. Vieni, messere, andiamocene. |
+| CATERINA | No, ti darò un bacio. Ora, ti prego, [[Love\|amore]], resta. Si baciano |
+| PETRUCCIO | Non va [[Well\|bene]] così? Vieni, mia dolce Cate.<br>Meglio una volta che mai, ché mai non è troppo tardi. |
 | *(didascalia)* | Escono |
 
 
@@ -3455,115 +3455,115 @@ Bartholomew sits
 
 | Chi parla | Battuta |
 |---|---|
-| *(didascalia)* | Entrano [[Baptista|Battista]], Vincenzio, Gremio, il Pedante, [[Lucentio]] e [[Bianca]], Petruccio, Caterina, e [[Hortensio|Ortensio]], [[Tranio]], Biondello, [[Grumio]], e la Vedova, con i servitori di [[Tranio]] che portano un rinfresco |
-| [[Lucentio|LUCENTIO]] | Alfine, benché tardi, le nostre note discordi s’accordano,<br>ed è [[Time|tempo]], quando la guerra furiosa è finita,<br>di sorridere degli scampati e dei pericoli passati.<br>Mia bella [[Bianca]], da’ il benvenuto a mio padre,<br>mentre io con pari gentilezza do il benvenuto al tuo.<br>Fratello Petruccio, sorella [[Katherina|Caterina]],<br>e tu, [[Hortensio|Ortensio]], con la tua amorosa vedova,<br>banchettate al meglio, e benvenuti nella mia [[house|casa]].<br>Il mio rinfresco serve a chiuderci lo stomaco<br>dopo la nostra gran bella festa. Vi prego, sedete,<br>ché ora sediamo a chiacchierare [[Well|tanto]] quanto a mangiare.<br>Siedono |
+| *(didascalia)* | Entrano [[Baptista\|Battista]], Vincenzio, Gremio, il Pedante, [[Lucentio]] e [[Bianca]], Petruccio, Caterina, e [[Hortensio\|Ortensio]], [[Tranio]], Biondello, [[Grumio]], e la Vedova, con i servitori di [[Tranio]] che portano un rinfresco |
+| [[Lucentio\|LUCENTIO]] | Alfine, benché tardi, le nostre note discordi s’accordano,<br>ed è [[Time\|tempo]], quando la guerra furiosa è finita,<br>di sorridere degli scampati e dei pericoli passati.<br>Mia bella [[Bianca]], da’ il benvenuto a mio padre,<br>mentre io con pari gentilezza do il benvenuto al tuo.<br>Fratello Petruccio, sorella [[Katherina\|Caterina]],<br>e tu, [[Hortensio\|Ortensio]], con la tua amorosa vedova,<br>banchettate al meglio, e benvenuti nella mia [[house\|casa]].<br>Il mio rinfresco serve a chiuderci lo stomaco<br>dopo la nostra gran bella festa. Vi prego, sedete,<br>ché ora sediamo a chiacchierare [[Well\|tanto]] quanto a mangiare.<br>Siedono |
 | PETRUCCIO | Non altro che sedere, e sedere, e mangiare, e mangiare. |
-| [[Baptista|BATTISTA]] | Padova offre questa cortesia, figlio Petruccio. |
+| [[Baptista\|BATTISTA]] | Padova offre questa cortesia, figlio Petruccio. |
 | PETRUCCIO | Padova non offre nulla che non sia cortese. |
-| [[Hortensio|ORTENSIO]] | Per il bene d’entrambi vorrei che quella parola fosse vera. 15 |
-| PETRUCCIO | Ora, sulla mia vita, [[Hortensio|Ortensio]] teme la sua vedova. |
+| [[Hortensio\|ORTENSIO]] | Per il bene d’entrambi vorrei che quella parola fosse vera. 15 |
+| PETRUCCIO | Ora, sulla mia vita, [[Hortensio\|Ortensio]] teme la sua vedova. |
 | VEDOVA | Allora non fidatevi mai di me, se io ho paura. |
-| PETRUCCIO | Siete molto sensata, eppure mancate il mio senso.<br>Voglio dire che [[Hortensio|Ortensio]] ha paura di voi. |
+| PETRUCCIO | Siete molto sensata, eppure mancate il mio senso.<br>Voglio dire che [[Hortensio\|Ortensio]] ha paura di voi. |
 | VEDOVA | Chi ha il capogiro crede che il mondo giri in tondo. |
 | PETRUCCIO | Risposta tonda. |
 | CATERINA | Signora, che intendete con ciò? |
 | VEDOVA | Così io concepisco di lui. |
-| PETRUCCIO | Concepisce da me! Come piace ciò a [[Hortensio|Ortensio]]? |
-| [[Hortensio|ORTENSIO]] | La mia vedova dice che così concepisce il suo discorso. |
-| PETRUCCIO | [[Well|Ben]] rimediato. Baciatelo per questo, buona vedova. |
+| PETRUCCIO | Concepisce da me! Come piace ciò a [[Hortensio\|Ortensio]]? |
+| [[Hortensio\|ORTENSIO]] | La mia vedova dice che così concepisce il suo discorso. |
+| PETRUCCIO | [[Well\|Ben]] rimediato. Baciatelo per questo, buona vedova. |
 | CATERINA | «Chi ha il capogiro crede che il mondo giri in tondo»—<br>vi prego, ditemi che cosa intendevate con ciò. |
 | VEDOVA | Vostro marito, avendo il fastidio d’una bisbetica,<br>misura il dolore di mio marito col proprio guaio.<br>E ora sapete che cosa intendo. |
 | CATERINA | Un intendimento assai meschino. |
 | VEDOVA | Giusto: intendo voi. |
 | CATERINA | E meschina son davvero, rispetto a voi. |
 | PETRUCCIO | Addosso a lei, Cate! |
-| [[Hortensio|ORTENSIO]] | Addosso a lei, vedova! |
+| [[Hortensio\|ORTENSIO]] | Addosso a lei, vedova! |
 | PETRUCCIO | Cento marchi che la mia Cate l’atterra. |
-| [[Hortensio|ORTENSIO]] | Quello è il mio ufficio. |
-| PETRUCCIO | Parlato da vero ufficiale! Alla tua, ragazzo.<br>Beve alla salute di [[Hortensio|Ortensio]] |
-| [[Baptista|BATTISTA]] | Come piace a Gremio questa gente di spirito pronto? |
-| GREMIO | Credetemi, signore, cozzano [[Well|bene]] fra loro. |
-| [[Bianca|BIANCA]] | Testa e cozzo? Una [[Body|persona]] di spirito frettoloso<br>direbbe che la vostra testa e il vostro cozzo son testa e corna. |
+| [[Hortensio\|ORTENSIO]] | Quello è il mio ufficio. |
+| PETRUCCIO | Parlato da vero ufficiale! Alla tua, ragazzo.<br>Beve alla salute di [[Hortensio\|Ortensio]] |
+| [[Baptista\|BATTISTA]] | Come piace a Gremio questa gente di spirito pronto? |
+| GREMIO | Credetemi, signore, cozzano [[Well\|bene]] fra loro. |
+| [[Bianca\|BIANCA]] | Testa e cozzo? Una [[Body\|persona]] di spirito frettoloso<br>direbbe che la vostra testa e il vostro cozzo son testa e corna. |
 | VINCENZIO | Ah, signora sposa, questo v’ha svegliata? |
-| [[Bianca|BIANCA]] | Sì, ma non spaventata; perciò tornerò a [[Sleep|dormire]]. |
+| [[Bianca\|BIANCA]] | Sì, ma non spaventata; perciò tornerò a [[Sleep\|dormire]]. |
 | PETRUCCIO | No, questo non lo farete. Poiché avete cominciato,<br>a voi, per uno scherzo o due migliori. |
-| [[Bianca|BIANCA]] | Sono io il vostro uccello? Intendo cambiare cespuglio,<br>e poi inseguitemi pure tendendo il vostro arco.<br>Siate tutti i benvenuti. |
+| [[Bianca\|BIANCA]] | Sono io il vostro uccello? Intendo cambiare cespuglio,<br>e poi inseguitemi pure tendendo il vostro arco.<br>Siate tutti i benvenuti. |
 | *(didascalia)* | Esce [[Bianca]] con Caterina e la Vedova |
 | PETRUCCIO | M’ha prevenuto, signor [[Tranio]].<br>A quest’uccello miraste voi, benché non l’abbiate colto.<br>Perciò un brindisi a tutti quelli che tirarono e fallirono. |
-| [[Tranio|TRANIO]] | Oh signore, [[Lucentio]] mi sciolse come il suo levriero,<br>che corre da sé e afferra per il padrone. |
+| [[Tranio\|TRANIO]] | Oh signore, [[Lucentio]] mi sciolse come il suo levriero,<br>che corre da sé e afferra per il padrone. |
 | PETRUCCIO | Un paragone veloce e buono, ma un po’ da cane. |
-| [[Tranio|TRANIO]] | È [[Well|bene]], signore, che voi cacciaste per voi stesso.<br>Si pensa che la vostra cerva vi tenga a bada. |
-| [[Baptista|BATTISTA]] | Oh, oh, Petruccio, [[Tranio]] vi ha colpito adesso. |
-| [[Lucentio|LUCENTIO]] | Ti ringrazio di quella frecciata, buon [[Tranio]]. |
-| [[Hortensio|ORTENSIO]] | Confessate, confessate: non v’ha colpito qui? |
+| [[Tranio\|TRANIO]] | È [[Well\|bene]], signore, che voi cacciaste per voi stesso.<br>Si pensa che la vostra cerva vi tenga a bada. |
+| [[Baptista\|BATTISTA]] | Oh, oh, Petruccio, [[Tranio]] vi ha colpito adesso. |
+| [[Lucentio\|LUCENTIO]] | Ti ringrazio di quella frecciata, buon [[Tranio]]. |
+| [[Hortensio\|ORTENSIO]] | Confessate, confessate: non v’ha colpito qui? |
 | PETRUCCIO | M’ha un poco scalfito, lo confesso;<br>e poiché lo scherzo è rimbalzato via da me,<br>dieci contro uno che ha storpiato voi due addirittura. |
-| [[Baptista|BATTISTA]] | Ora, in tutta serietà, figlio Petruccio,<br>credo che tu abbia la più vera bisbetica di tutte. |
-| PETRUCCIO | [[Well|Ebbene]], io dico di no.—E perciò, messer Garanzia,<br>mandiamo ciascuno a chiamare la propria moglie,<br>e colui la cui moglie sarà più obbediente<br>nel venire subito quando la manda a chiamare<br>vincerà la scommessa che proporremo. |
-| [[Hortensio|ORTENSIO]] | D’accordo. Qual è la posta? |
+| [[Baptista\|BATTISTA]] | Ora, in tutta serietà, figlio Petruccio,<br>credo che tu abbia la più vera bisbetica di tutte. |
+| PETRUCCIO | [[Well\|Ebbene]], io dico di no.—E perciò, messer Garanzia,<br>mandiamo ciascuno a chiamare la propria moglie,<br>e colui la cui moglie sarà più obbediente<br>nel venire subito quando la manda a chiamare<br>vincerà la scommessa che proporremo. |
+| [[Hortensio\|ORTENSIO]] | D’accordo. Qual è la posta? |
 | LUCFNTIO | Venti corone. |
 | PETRUCCIO | Venti corone!<br>Tanto lo rischierei sul mio falcone o sul mio cane,<br>ma venti volte tanto su mia moglie. |
-| [[Lucentio|LUCENTIO]] | Cento, allora. |
-| [[Hortensio|ORTENSIO]] | D’accordo. |
+| [[Lucentio\|LUCENTIO]] | Cento, allora. |
+| [[Hortensio\|ORTENSIO]] | D’accordo. |
 | PETRUCCIO | Affare fatto, è concluso. |
-| [[Hortensio|ORTENSIO]] | Chi comincia? |
-| [[Lucentio|LUCENTIO]] | Comincerò io.<br>Va’, Biondello, di’ alla tua padrona di venire da me. |
+| [[Hortensio\|ORTENSIO]] | Chi comincia? |
+| [[Lucentio\|LUCENTIO]] | Comincerò io.<br>Va’, Biondello, di’ alla tua padrona di venire da me. |
 | BIONDELLO | Vado. |
 | *(didascalia)* | Esce |
-| [[Baptista|BATTISTA]] | Figlio, faccio a metà con voi che [[Bianca]] verrà. |
-| [[Lucentio|LUCENTIO]] | Non voglio metà, sosterrò tutto io. |
+| [[Baptista\|BATTISTA]] | Figlio, faccio a metà con voi che [[Bianca]] verrà. |
+| [[Lucentio\|LUCENTIO]] | Non voglio metà, sosterrò tutto io. |
 | *(didascalia)* | Entra Biondello |
-| [[Lucentio|LUCENTIO]] | Ebbene, che notizie? |
+| [[Lucentio\|LUCENTIO]] | Ebbene, che notizie? |
 | BIONDELLO | Signore, la mia padrona vi manda a dire<br>ch’è occupata e non può venire. |
 | PETRUCCIO | Come? È occupata e non può venire?<br>È forse una risposta?<br>GREMIO Sì, e anche gentile.<br>Voglia Dio, signore, che vostra moglie non ve ne mandi una peggiore. |
-| PETRUCCIO | [[Hope|Spero]] migliore. |
-| [[Hortensio|ORTENSIO]] | Ehi, Biondello,<br>va’ e prega mia moglie di venire subito da me. |
+| PETRUCCIO | [[Hope\|Spero]] migliore. |
+| [[Hortensio\|ORTENSIO]] | Ehi, Biondello,<br>va’ e prega mia moglie di venire subito da me. |
 | *(didascalia)* | Esce Biondello |
 | PETRUCCIO | Oh oh, «pregarla»—allora dovrà pur venire. |
-| [[Hortensio|ORTENSIO]] | Temo, signore, che per quanto facciate, |
+| [[Hortensio\|ORTENSIO]] | Temo, signore, che per quanto facciate, |
 | *(didascalia)* | Entra Biondello |
-| [[Hortensio|ORTENSIO]] | la vostra non si lascerà pregare. Ora, dov’è mia moglie? |
+| [[Hortensio\|ORTENSIO]] | la vostra non si lascerà pregare. Ora, dov’è mia moglie? |
 | BIONDELLO | Dice che avete per le mani qualche bella burla.<br>Non verrà. Vi manda a dire di andare da lei. |
 | PETRUCCIO | Di male in peggio! Non vuol venire—oh vile,<br>intollerabile, insopportabile!<br>Ehi, [[Grumio]], va’ dalla tua padrona.<br>Dille che le comando di venire da me. |
 | *(didascalia)* | Esce [[Grumio]] |
-| [[Hortensio|ORTENSIO]] | Conosco la sua risposta. |
+| [[Hortensio\|ORTENSIO]] | Conosco la sua risposta. |
 | PETRUCCIO | Quale? |
-| [[Hortensio|ORTENSIO]] | Non vorrà. |
+| [[Hortensio\|ORTENSIO]] | Non vorrà. |
 | PETRUCCIO | Tanto peggio la mia sorte, e basta così. |
 | *(didascalia)* | Entra Caterina |
-| [[Baptista|BATTISTA]] | Ora, per la mia fede, ecco che viene [[Katherina|Caterina]]. |
+| [[Baptista\|BATTISTA]] | Ora, per la mia fede, ecco che viene [[Katherina\|Caterina]]. |
 | CATERINA | (a Petruccio)<br>Qual è il vostro volere, signore, che mi mandate a chiamare? |
-| PETRUCCIO | Dov’è vostra sorella, e la moglie di [[Hortensio|Ortensio]]? |
-| CATERINA | Siedono a conversare presso il [[Fire|fuoco]] del salotto. |
+| PETRUCCIO | Dov’è vostra sorella, e la moglie di [[Hortensio\|Ortensio]]? |
+| CATERINA | Siedono a conversare presso il [[Fire\|fuoco]] del salotto. |
 | PETRUCCIO | Va’, portale qua. Se rifiutano di venire,<br>frustale ben bene fin dai loro mariti.<br>Via, dico, e portale qua subito. |
 | *(didascalia)* | Esce Caterina |
-| [[Lucentio|LUCENTIO]] | Ecco una [[Wonder|meraviglia]], se si parla di meraviglie. |
-| [[Hortensio|ORTENSIO]] | E tale è. Mi [[Wonder|domando]] che cosa presagisca. |
-| PETRUCCIO | Per la Madonna, presagisce pace, e [[Love|amore]], e vita quieta;<br>un governo autorevole e una giusta supremazia,<br>e, in breve, tutto ciò che è dolce e felice. |
-| [[Baptista|BATTISTA]] | Ora ti tocchi ogni bene, buon Petruccio.<br>La scommessa l’hai vinta, e io aggiungerò<br>alle loro perdite ventimila corone,<br>un’altra dote per un’altra figlia,<br>ché ella è mutata come se non fosse mai stata quella. |
+| [[Lucentio\|LUCENTIO]] | Ecco una [[Wonder\|meraviglia]], se si parla di meraviglie. |
+| [[Hortensio\|ORTENSIO]] | E tale è. Mi [[Wonder\|domando]] che cosa presagisca. |
+| PETRUCCIO | Per la Madonna, presagisce pace, e [[Love\|amore]], e vita quieta;<br>un governo autorevole e una giusta supremazia,<br>e, in breve, tutto ciò che è dolce e felice. |
+| [[Baptista\|BATTISTA]] | Ora ti tocchi ogni bene, buon Petruccio.<br>La scommessa l’hai vinta, e io aggiungerò<br>alle loro perdite ventimila corone,<br>un’altra dote per un’altra figlia,<br>ché ella è mutata come se non fosse mai stata quella. |
 | PETRUCCIO | No, vincerò la mia scommessa anche meglio,<br>e mostrerò maggior segno della sua obbedienza,<br>della sua virtù e obbedienza appena edificate. |
 | *(didascalia)* | Entrano Caterina, [[Bianca]] e la Vedova |
-| PETRUCCIO | Vedete dove viene, e conduce le vostre mogli ritrose<br>come prigioniere della sua femminile [[Persuasion|persuasione]].<br>Caterina, quella vostra cuffia non vi sta bene.<br>Via quel ninnolo, gettatelo sotto i piedi.<br>Caterina getta a terra la sua cuffia |
+| PETRUCCIO | Vedete dove viene, e conduce le vostre mogli ritrose<br>come prigioniere della sua femminile [[Persuasion\|persuasione]].<br>Caterina, quella vostra cuffia non vi sta bene.<br>Via quel ninnolo, gettatelo sotto i piedi.<br>Caterina getta a terra la sua cuffia |
 | VEDOVA | Signore, ch’io non abbia mai motivo di sospirare<br>fino a esser ridotta a un tale sciocco stato. |
-| [[Bianca|BIANCA]] | Via, che sciocco dovere chiamate voi questo? |
-| [[Lucentio|LUCENTIO]] | Vorrei che anche il vostro dovere fosse così sciocco.<br>La saggezza del vostro dovere, bella [[Bianca]],<br>m’è costata cento corone dall’[[Time|ora]] di cena. |
-| [[Bianca|BIANCA]] | Tanto più [[Fool|sciocco]] voi, per aver scommesso sul mio dovere. |
+| [[Bianca\|BIANCA]] | Via, che sciocco dovere chiamate voi questo? |
+| [[Lucentio\|LUCENTIO]] | Vorrei che anche il vostro dovere fosse così sciocco.<br>La saggezza del vostro dovere, bella [[Bianca]],<br>m’è costata cento corone dall’[[Time\|ora]] di cena. |
+| [[Bianca\|BIANCA]] | Tanto più [[Fool\|sciocco]] voi, per aver scommesso sul mio dovere. |
 | PETRUCCIO | Caterina, t’ingiungo di dire a queste donne caparbie<br>quale dovere debbono ai loro signori e mariti. |
 | VEDOVA | Via, via, vi burlate. Non vogliamo prediche. |
 | PETRUCCIO | Avanti, dico, e comincia proprio da lei. |
 | VEDOVA | Non lo farà. |
 | PETRUCCIO | Io dico che lo farà: e comincia proprio da lei. |
-| CATERINA | Via, via, spiana quella fronte minacciosa e scortese,<br>e non saettare sguardi sprezzanti da quegli occhi<br>per ferire il tuo signore, il tuo [[King|re]], il tuo governatore.<br>Ciò macchia la tua [[Beauty|bellezza]] come il gelo morde i prati,<br>confonde la tua fama come i turbini scuotono i bei germogli,<br>e in nessun senso è conveniente o amabile.<br>Una donna adirata è come una fonte turbata,<br>fangosa, sgradevole, torbida, priva di [[Beauty|bellezza]];<br>e finché è tale, nessuno, per quanto arso e assetato,<br>si degnerà di sorbirne o di toccarne una goccia.<br>Tuo marito è il tuo signore, la tua vita, il tuo custode,<br>il tuo capo, il tuo sovrano, uno che ha cura di te<br>e per il tuo mantenimento affida il suo [[Body|corpo]]<br>a penosa fatica per mare e per terra,<br>a vegliare la [[Night|notte]] fra le tempeste, il giorno nel freddo,<br>mentre tu giaci al caldo a [[Home|casa]], sicura e protetta;<br>e non chiede altro tributo dalle tue mani<br>che [[Love|amore]], dolci sguardi e vera obbedienza:<br>troppo poco pagamento per un debito così grande.<br>Il dovere che il suddito deve al principe,<br>proprio quello una donna deve a suo marito;<br>e quand’ella è ritrosa, stizzosa, imbronciata, acida,<br>e non obbediente alla sua onesta volontà,<br>che cos’è se non un turpe [[Rebel|ribelle]] litigioso<br>e una sgraziata traditrice del suo amoroso signore?<br>Mi vergogno che le donne siano tanto sciocche<br>da offrire guerra dove dovrebbero inginocchiarsi per la pace,<br>o cercare dominio, supremazia e potere<br>quando son tenute a servire, [[Love|amare]] e obbedire.<br>Perché i nostri corpi son molli, e deboli, e lisci,<br>inadatti alla fatica e ai travagli del mondo,<br>se non perché la nostra molle indole e i nostri cuori<br>debbano [[Well|bene]] accordarsi con le nostre parti esteriori?<br>Su, su, vermi ritrosi e impotenti,<br>la mia mente è stata grande quanto una delle vostre,<br>il mio cuore altrettanto, la mia ragione forse di più,<br>per rimbeccare parola con parola e cipiglio con cipiglio;<br>ma ora vedo che le nostre lance non sono che paglia,<br>la nostra forza altrettanto debole, la nostra debolezza senza pari,<br>tali da sembrare massime là dove in verità siamo minime.<br>Ammainate dunque la vostra alterigia, ché non giova,<br>e ponete le vostre mani sotto il piede di vostro marito;<br>in segno del qual dovere, se a lui piace,<br>la mia mano è pronta, e possa dargli sollievo. |
+| CATERINA | Via, via, spiana quella fronte minacciosa e scortese,<br>e non saettare sguardi sprezzanti da quegli occhi<br>per ferire il tuo signore, il tuo [[King\|re]], il tuo governatore.<br>Ciò macchia la tua [[Beauty\|bellezza]] come il gelo morde i prati,<br>confonde la tua fama come i turbini scuotono i bei germogli,<br>e in nessun senso è conveniente o amabile.<br>Una donna adirata è come una fonte turbata,<br>fangosa, sgradevole, torbida, priva di [[Beauty\|bellezza]];<br>e finché è tale, nessuno, per quanto arso e assetato,<br>si degnerà di sorbirne o di toccarne una goccia.<br>Tuo marito è il tuo signore, la tua vita, il tuo custode,<br>il tuo capo, il tuo sovrano, uno che ha cura di te<br>e per il tuo mantenimento affida il suo [[Body\|corpo]]<br>a penosa fatica per mare e per terra,<br>a vegliare la [[Night\|notte]] fra le tempeste, il giorno nel freddo,<br>mentre tu giaci al caldo a [[Home\|casa]], sicura e protetta;<br>e non chiede altro tributo dalle tue mani<br>che [[Love\|amore]], dolci sguardi e vera obbedienza:<br>troppo poco pagamento per un debito così grande.<br>Il dovere che il suddito deve al principe,<br>proprio quello una donna deve a suo marito;<br>e quand’ella è ritrosa, stizzosa, imbronciata, acida,<br>e non obbediente alla sua onesta volontà,<br>che cos’è se non un turpe [[Rebel\|ribelle]] litigioso<br>e una sgraziata traditrice del suo amoroso signore?<br>Mi vergogno che le donne siano tanto sciocche<br>da offrire guerra dove dovrebbero inginocchiarsi per la pace,<br>o cercare dominio, supremazia e potere<br>quando son tenute a servire, [[Love\|amare]] e obbedire.<br>Perché i nostri corpi son molli, e deboli, e lisci,<br>inadatti alla fatica e ai travagli del mondo,<br>se non perché la nostra molle indole e i nostri cuori<br>debbano [[Well\|bene]] accordarsi con le nostre parti esteriori?<br>Su, su, vermi ritrosi e impotenti,<br>la mia mente è stata grande quanto una delle vostre,<br>il mio cuore altrettanto, la mia ragione forse di più,<br>per rimbeccare parola con parola e cipiglio con cipiglio;<br>ma ora vedo che le nostre lance non sono che paglia,<br>la nostra forza altrettanto debole, la nostra debolezza senza pari,<br>tali da sembrare massime là dove in verità siamo minime.<br>Ammainate dunque la vostra alterigia, ché non giova,<br>e ponete le vostre mani sotto il piede di vostro marito;<br>in segno del qual dovere, se a lui piace,<br>la mia mano è pronta, e possa dargli sollievo. |
 | PETRUCCIO | Ecco una ragazza! Su, vieni, e baciami, Cate.<br>Si baciano |
-| [[Lucentio|LUCENTIO]] | [[Well|Bene]], va’ pure, vecchio mio, ché l’hai spuntata. |
+| [[Lucentio\|LUCENTIO]] | [[Well\|Bene]], va’ pure, vecchio mio, ché l’hai spuntata. |
 | VINCENZIO | È bello a udirsi quando i figli sono docili. |
-| [[Lucentio|LUCENTIO]] | Ma aspro a udirsi quando le donne sono ritrose. |
-| PETRUCCIO | Vieni, Cate, andiamo a letto.<br>Noi tre siamo sposati, ma voi due siete spacciati.<br>Fui io a vincere la scommessa, benché (a [[Lucentio]]) voi abbiate colto<br>il bianco;<br>e, da vincitore, Dio vi dia la buona [[Night|notte]]. |
+| [[Lucentio\|LUCENTIO]] | Ma aspro a udirsi quando le donne sono ritrose. |
+| PETRUCCIO | Vieni, Cate, andiamo a letto.<br>Noi tre siamo sposati, ma voi due siete spacciati.<br>Fui io a vincere la scommessa, benché (a [[Lucentio]]) voi abbiate colto<br>il bianco;<br>e, da vincitore, Dio vi dia la buona [[Night\|notte]]. |
 | *(didascalia)* | Esce Petruccio con Caterina |
-| [[Hortensio|ORTENSIO]] | Ora va’ pure: hai domato una bisbetica maledetta. |
-| [[Lucentio|LUCENTIO]] | È una [[Wonder|meraviglia]], con vostra licenza, ch’ella si lasci domare così. |
+| [[Hortensio\|ORTENSIO]] | Ora va’ pure: hai domato una bisbetica maledetta. |
+| [[Lucentio\|LUCENTIO]] | È una [[Wonder\|meraviglia]], con vostra licenza, ch’ella si lasci domare così. |
 | *(didascalia)* | Escono |
-| PASSI AGGIUNTIVI | The Taming of A Shrew, stampato nel 1594 e ritenuto derivare dalla commedia di Shakespeare così come veniva rappresentata, contiene episodi che proseguono e completano la cornice di [[Christopher Sly]] e che possono echeggiare passi scritti da Shakespeare ma non stampati nel Folio. Sono riportati qui sotto.<br><br>A. Lo scambio seguente si colloca in un punto per il quale non esiste un equivalente esatto nella commedia di Shakespeare. Potrebbe collocarsi alla fine di 2.1. Il «[[Fool|buffone]]» del primo verso è Sander, la controparte di [[Grumio]].<br>Poi parla Sly |
-| SLY | Sim, quando tornerà il [[Fool|buffone]]? |
+| PASSI AGGIUNTIVI | The Taming of A Shrew, stampato nel 1594 e ritenuto derivare dalla commedia di Shakespeare così come veniva rappresentata, contiene episodi che proseguono e completano la cornice di [[Christopher Sly]] e che possono echeggiare passi scritti da Shakespeare ma non stampati nel Folio. Sono riportati qui sotto.<br><br>A. Lo scambio seguente si colloca in un punto per il quale non esiste un equivalente esatto nella commedia di Shakespeare. Potrebbe collocarsi alla fine di 2.1. Il «[[Fool\|buffone]]» del primo verso è Sander, la controparte di [[Grumio]].<br>Poi parla Sly |
+| SLY | Sim, quando tornerà il [[Fool\|buffone]]? |
 | LORD | Tornerà, mio signore, fra poco. |
 | SLY | Dammi ancora da bere qui. Corpo di Bacco, dov’è l’oste? Qua, Sim, mangia un po’ di queste cose. |
 | LORD | Lo faccio, mio signore. |
@@ -3573,25 +3573,25 @@ Bartholomew sits
 | SLY | Sim, devono sposarsi adesso? |
 | LORD | Sì, mio signore. |
 | *(didascalia)* | Entrano Ferando e Kate e Sander |
-| SLY | Guarda, Sim, ora il [[Fool|buffone]] è tornato.<br><br>C. Sly interrompe l’azione della commedia nella commedia. Ciò avviene a 5.1.102 della commedia di Shakespeare.<br>Filoto e Valeria fuggono.<br><br>Poi parla Sly |
-| SLY | Io dico che non si manderà nessuno in [[Prison|prigione]]. |
+| SLY | Guarda, Sim, ora il [[Fool\|buffone]] è tornato.<br><br>C. Sly interrompe l’azione della commedia nella commedia. Ciò avviene a 5.1.102 della commedia di Shakespeare.<br>Filoto e Valeria fuggono.<br><br>Poi parla Sly |
+| SLY | Io dico che non si manderà nessuno in [[Prison\|prigione]]. |
 | LORD | Mio signore, questa non è che la commedia. Fanno per finta. |
-| SLY | Ti dico, Sim, che non si manderà nessuno in [[Prison|prigione]], e basta. Ma via, Sim, non sono io Don Christo Vary? Perciò dico che non andranno in [[Prison|prigione]]. |
+| SLY | Ti dico, Sim, che non si manderà nessuno in [[Prison\|prigione]], e basta. Ma via, Sim, non sono io Don Christo Vary? Perciò dico che non andranno in [[Prison\|prigione]]. |
 | LORD | E infatti non ci andranno, mio signore. Sono fuggiti. |
-| SLY | Sono fuggiti, Sim? Sta [[Well|bene]]. Allora dammi ancora da bere, e lascia che recitino di nuovo. |
+| SLY | Sono fuggiti, Sim? Sta [[Well\|bene]]. Allora dammi ancora da bere, e lascia che recitino di nuovo. |
 | LORD | Ecco, mio signore.<br>Sly beve e poi s’addormenta<br>D. Sly viene portato via fra 5.1 e 5.2. |
 | *(didascalia)* | Escono tutti |
 | LORD | Sly dorme |
 | LORD | Chi c’è là dentro? Venite qua, messeri, il mio signore<br>s’è riaddormentato. Andate, sollevatelo pian piano<br>e rimettetegli i suoi abiti,<br>e deponetelo nel luogo dove lo trovammo,<br>proprio là sotto, al fianco della taverna.<br>Ma badate in ogni caso di non svegliarlo. |
 | RAGAZZO | Sarà fatto, mio signore. Venite, aiutatemi a portarlo via. |
 | *(didascalia)* | Esce |
-| RAGAZZO | E. La conclusione.<br>Poi entrano due che portano Sly di nuovo nei suoi abiti e lo [[Leaves|lasciano]] dove l’avevano trovato e poi escono. Poi entra l’Oste |
-| OSTE | Ora che la [[Night|notte]] tenebrosa è trascorsa<br>e il giorno nascente appare nel cielo cristallino,<br>debbo affrettarmi fuori. Ma piano, chi è costui?<br>Come, Sly! Oh prodigio, è rimasto qui tutta la [[Night|notte]]?<br>Lo sveglierò. Credo che ormai sia morto di fame,<br>se non fosse che il suo ventre era così pieno di birra.<br>Ehilà, Sly, svegliati, vergogna! |
+| RAGAZZO | E. La conclusione.<br>Poi entrano due che portano Sly di nuovo nei suoi abiti e lo [[Leaves\|lasciano]] dove l’avevano trovato e poi escono. Poi entra l’Oste |
+| OSTE | Ora che la [[Night\|notte]] tenebrosa è trascorsa<br>e il giorno nascente appare nel cielo cristallino,<br>debbo affrettarmi fuori. Ma piano, chi è costui?<br>Come, Sly! Oh prodigio, è rimasto qui tutta la [[Night\|notte]]?<br>Lo sveglierò. Credo che ormai sia morto di fame,<br>se non fosse che il suo ventre era così pieno di birra.<br>Ehilà, Sly, svegliati, vergogna! |
 | SLY | Sim, dammi ancora del vino. Come, se ne sono andati tutti gli attori? Non sono io un lord? |
 | OSTE | Un lord col malanno! Su, sei ancora ubriaco? |
 | SLY | Chi è costui? L’oste? Oh Signore, messere, ho fatto<br>il più splendido sogno stanotte che tu abbia mai<br>udito in tutta la tua vita. |
-| OSTE | Sì, per la Madonna, ma faresti meglio ad andartene a [[Home|casa]],<br>ché tua moglie ti darà la caccia per aver sognato qui stanotte. |
-| SLY | Davvero? Ora so come si doma una bisbetica.<br>Ci ho sognato sopra tutta questa [[Night|notte]] fino ad ora,<br>e tu m’hai svegliato dal miglior sogno<br>che abbia mai fatto in vita mia. Ma andrò da mia<br>moglie all’istante e domerò anche lei,<br>se mi farà arrabbiare. |
-| OSTE | No, aspetta, Sly, ché verrò a [[Home|casa]] con te<br>e udrò il resto di ciò che hai sognato stanotte. |
+| OSTE | Sì, per la Madonna, ma faresti meglio ad andartene a [[Home\|casa]],<br>ché tua moglie ti darà la caccia per aver sognato qui stanotte. |
+| SLY | Davvero? Ora so come si doma una bisbetica.<br>Ci ho sognato sopra tutta questa [[Night\|notte]] fino ad ora,<br>e tu m’hai svegliato dal miglior sogno<br>che abbia mai fatto in vita mia. Ma andrò da mia<br>moglie all’istante e domerò anche lei,<br>se mi farà arrabbiare. |
+| OSTE | No, aspetta, Sly, ché verrò a [[Home\|casa]] con te<br>e udrò il resto di ciò che hai sognato stanotte. |
 | *(didascalia)* | Escono tutti |
-| LA PRIMA PARTE DELLA | CONTESA<br>(2 [[Henry VI|ENRICO VI]]) |
+| LA PRIMA PARTE DELLA | CONTESA<br>(2 [[Henry VI\|ENRICO VI]]) |

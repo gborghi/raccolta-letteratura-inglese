@@ -1386,7 +1386,7 @@ Exit
 
 | Chi parla | Battuta |
 |---|---|
-| *(didascalia)* | Entrano Sansone e Gregorio, della [[house|casa]] dei [[Capulet|Capuleti]], con spade e |
+| *(didascalia)* | Entrano Sansone e Gregorio, della [[house\|casa]] dei [[Capulet\|Capuleti]], con spade e |
 | *(didascalia)* | brocchieri |
 | SANSONE | Gregorio, sul mio onore, non porteremo carboni. |
 | GREGORIO | No, ché allora saremmo carbonai. |
@@ -1394,24 +1394,24 @@ Exit
 | GREGORIO | Sì, finché campi, sguaina il collo fuori dal collare. |
 | SANSONE | Io colpisco presto, quando sono mosso. |
 | GREGORIO | Ma tu non sei mosso presto a colpire. |
-| SANSONE | Un cane della [[house|casa]] dei Montecchi mi muove. |
+| SANSONE | Un cane della [[house\|casa]] dei Montecchi mi muove. |
 | GREGORIO | Muoversi è agitarsi, ed esser valorosi è tener fermo; dunque se tu sei mosso, tu scappi via. |
-| SANSONE | Un cane di quella [[house|casa]] mi muoverà a tener fermo. Prenderò il muro a qualunque uomo o serva dei Montecchi. |
+| SANSONE | Un cane di quella [[house\|casa]] mi muoverà a tener fermo. Prenderò il muro a qualunque uomo o serva dei Montecchi. |
 | GREGORIO | Il che ti mostra schiavo debole, ché il più debole va al muro. |
 | SANSONE | È vero, e perciò le donne, essendo vasi più deboli, sono sempre spinte al muro; perciò io spingerò gli uomini di Montecchi via dal muro, e caccerò le sue serve contro il muro. |
 | GREGORIO | La lite è tra i nostri padroni e noi loro uomini. |
-| SANSONE | È tutt’uno. Mi mostrerò un [[Tyrant|tiranno]]: quando avrò combattuto con gli uomini sarò cortese con le serve—taglierò loro la testa. |
+| SANSONE | È tutt’uno. Mi mostrerò un [[Tyrant\|tiranno]]: quando avrò combattuto con gli uomini sarò cortese con le serve—taglierò loro la testa. |
 | GREGORIO | Le teste delle serve? |
 | SANSONE | Sì, le teste delle serve, o le loro verginità: prendila nel senso che vuoi. |
 | GREGORIO | Devono prenderla in quel senso quelle che la sentono. |
 | SANSONE | Me la sentiranno finché sarò capace di star ritto, ed è noto che sono un bel pezzo di carne. |
-| GREGORIO | È [[Well|bene]] che tu non sia pesce. Se lo fossi stato, saresti stato un magro baccalà. |
+| GREGORIO | È [[Well\|bene]] che tu non sia pesce. Se lo fossi stato, saresti stato un magro baccalà. |
 | *(didascalia)* | Entrano Abramo e un altro servo dei Montecchi |
-| GREGORIO | Sguaina il tuo arnese. Ecco che vengono quei della [[house|casa]] dei Montecchi. |
+| GREGORIO | Sguaina il tuo arnese. Ecco che vengono quei della [[house\|casa]] dei Montecchi. |
 | SANSONE | La mia arma è nuda. Attacca lite, io ti spalleggio. |
 | GREGORIO | Come—volgi la schiena e scappi? |
-| SANSONE | Non [[Fear|temermi]]. |
-| GREGORIO | No, davvero—sono io che ti [[Fear|temo]]! |
+| SANSONE | Non [[Fear\|temermi]]. |
+| GREGORIO | No, davvero—sono io che ti [[Fear\|temo]]! |
 | SANSONE | Mettiamo la legge dalla nostra. Comincino loro. |
 | GREGORIO | Aggrotterò le ciglia passando, e la prendano come vogliono. |
 | SANSONE | No, come osano. Morderò loro il pollice, il che è un’onta per loro se la sopportano. Si morde il pollice |
@@ -1425,83 +1425,83 @@ Exit
 | ABRAMO | Lite, signore? No, signore. |
 | SANSONE | Ma se la cercate, signore, io sono per voi. Servo un padrone buono quanto il vostro. |
 | ABRAMO | Non migliore. |
-| SANSONE | [[Well|Bene]], signore. |
+| SANSONE | [[Well\|Bene]], signore. |
 | *(didascalia)* | Entra [[Benvolio]] |
 | GREGORIO | Di’ ‘migliore’. Ecco che viene uno dei parenti del mio padrone. |
 | SANSONE | (ad Abramo) Sì, migliore, signore. |
 | ABRAMO | Mentite. |
 | SANSONE | Sguainate, se siete uomini. Gregorio, ricordati il tuo colpo maestro.<br>Sguainano e combattono |
-| [[Benvolio|BENVOLIO]] | (sguainando) Separatevi, sciocchi. Rimettete su le spade. Non sapete quel che fate. |
-| *(didascalia)* | Entra [[Tybalt|Tebaldo]] |
-| [[Tybalt|TEBALDO]] | (sguainando) Come, hai sguainato in mezzo a questi vili villani? Voltati, [[Benvolio]]. Guarda in faccia la tua [[Death|morte]]. |
-| [[Benvolio|BENVOLIO]] | Io non faccio che mantenere la pace. Rimetti su la [[Sword|spada]],<br>o adoprala con me a separar costoro. |
-| [[Tybalt|TEBALDO]] | Come, sguainata, e parli di pace? Odio quella parola<br>come odio l’inferno, tutti i Montecchi, e te.<br>Guardati, vigliacco. |
+| [[Benvolio\|BENVOLIO]] | (sguainando) Separatevi, sciocchi. Rimettete su le spade. Non sapete quel che fate. |
+| *(didascalia)* | Entra [[Tybalt\|Tebaldo]] |
+| [[Tybalt\|TEBALDO]] | (sguainando) Come, hai sguainato in mezzo a questi vili villani? Voltati, [[Benvolio]]. Guarda in faccia la tua [[Death\|morte]]. |
+| [[Benvolio\|BENVOLIO]] | Io non faccio che mantenere la pace. Rimetti su la [[Sword\|spada]],<br>o adoprala con me a separar costoro. |
+| [[Tybalt\|TEBALDO]] | Come, sguainata, e parli di pace? Odio quella parola<br>come odio l’inferno, tutti i Montecchi, e te.<br>Guardati, vigliacco. |
 | *(didascalia)* | Combattono. Entrano tre o quattro Cittadini della guardia, con mazze o partigiane |
 | *(didascalia)* | CITTADINI DELLA GUARDIA |
-| [[Tybalt|TEBALDO]] | Mazze, picche e partigiane! Colpite! Abbatteteli!<br>Abbasso i Capuleti. Abbasso i Montecchi. |
-| *(didascalia)* | Entra [[Capulet|Capuleti]] in veste da camera, e sua Moglie |
-| [[Capulet|CAPULETI]] | Che frastuono è questo? Datemi la mia [[Sword|spada]] lunga, olà! |
-| LA MOGLIE DI [[Capulet|CAPULETI]] | Una stampella, una stampella—perché chiedete una [[Sword|spada]]? |
-| *(didascalia)* | Entra Montecchi con la [[Sword|spada]] sguainata, e sua Moglie |
-| [[Capulet|CAPULETI]] | La mia [[Sword|spada]], dico. È giunto il vecchio Montecchi,<br>e brandisce la sua lama a mio dispetto. |
-| MONTECCHI | Tu, [[Villain|scellerato]] [[Capulet|Capuleti]]! |
+| [[Tybalt\|TEBALDO]] | Mazze, picche e partigiane! Colpite! Abbatteteli!<br>Abbasso i Capuleti. Abbasso i Montecchi. |
+| *(didascalia)* | Entra [[Capulet\|Capuleti]] in veste da camera, e sua Moglie |
+| [[Capulet\|CAPULETI]] | Che frastuono è questo? Datemi la mia [[Sword\|spada]] lunga, olà! |
+| LA MOGLIE DI [[Capulet\|CAPULETI]] | Una stampella, una stampella—perché chiedete una [[Sword\|spada]]? |
+| *(didascalia)* | Entra Montecchi con la [[Sword\|spada]] sguainata, e sua Moglie |
+| [[Capulet\|CAPULETI]] | La mia [[Sword\|spada]], dico. È giunto il vecchio Montecchi,<br>e brandisce la sua lama a mio dispetto. |
+| MONTECCHI | Tu, [[Villain\|scellerato]] [[Capulet\|Capuleti]]! |
 | *(didascalia)* | Sua Moglie lo trattiene |
 | MONTECCHI | Non trattenermi, lasciami andare. |
 | LA MOGLIE DI MONTECCHI | Non muoverai un passo a cercarti un nemico. |
 | *(didascalia)* | I Cittadini della guardia tentano di separare le fazioni. |
-| *(didascalia)* | Entra [[Prince Escalus|il Principe Escalo]] col suo seguito |
-| PRINCIPE | Sudditi ribelli, nemici della pace,<br>profanatori di quest’acciaio tinto del sangue dei vicini—<br>non vogliono udire? Olà, voi uomini, voi belve,<br>che spegnete il [[Fire|fuoco]] della vostra rabbia funesta<br>con purpuree fontane sgorganti dalle vostre vene:<br>a [[Pain|pena]] di tortura, da quelle mani insanguinate<br>gettate a terra le armi mal temprate,<br>e udite la sentenza del vostro Principe sdegnato. |
-| *(didascalia)* | Montecchi, [[Capulet|Capuleti]] e i loro seguaci gettano a terra le armi] |
-| PRINCIPE | Tre risse civili nate da una parola vana<br>per opera tua, vecchio [[Capulet|Capuleti]], e di Montecchi,<br>hanno tre volte turbato la quiete delle nostre strade<br>e costretto gli antichi cittadini di [[Verona]]<br>a deporre i loro ornamenti di [[Grave|grave]] decoro<br>per impugnare vecchie partigiane in mani altrettanto vecchie,<br>corrose dalla pace, per dividere il vostro odio corroso.<br>Se mai turberete ancora le nostre strade<br>le vostre vite pagheranno il fio della pace.<br>Per questa [[Time|volta]] tutti gli altri si allontanino.<br>Voi, [[Capulet|Capuleti]], verrete con me;<br>e voi, Montecchi, venite questo pomeriggio<br>a conoscere il nostro ulteriore volere in questo caso<br>alla vecchia Villafranca, nostro comune tribunale.<br>Ancora una volta, a [[Pain|pena]] di [[Death|morte]], tutti si allontanino. |
+| *(didascalia)* | Entra [[Prince Escalus\|il Principe Escalo]] col suo seguito |
+| PRINCIPE | Sudditi ribelli, nemici della pace,<br>profanatori di quest’acciaio tinto del sangue dei vicini—<br>non vogliono udire? Olà, voi uomini, voi belve,<br>che spegnete il [[Fire\|fuoco]] della vostra rabbia funesta<br>con purpuree fontane sgorganti dalle vostre vene:<br>a [[Pain\|pena]] di tortura, da quelle mani insanguinate<br>gettate a terra le armi mal temprate,<br>e udite la sentenza del vostro Principe sdegnato. |
+| *(didascalia)* | Montecchi, [[Capulet\|Capuleti]] e i loro seguaci gettano a terra le armi] |
+| PRINCIPE | Tre risse civili nate da una parola vana<br>per opera tua, vecchio [[Capulet\|Capuleti]], e di Montecchi,<br>hanno tre volte turbato la quiete delle nostre strade<br>e costretto gli antichi cittadini di [[Verona]]<br>a deporre i loro ornamenti di [[Grave\|grave]] decoro<br>per impugnare vecchie partigiane in mani altrettanto vecchie,<br>corrose dalla pace, per dividere il vostro odio corroso.<br>Se mai turberete ancora le nostre strade<br>le vostre vite pagheranno il fio della pace.<br>Per questa [[Time\|volta]] tutti gli altri si allontanino.<br>Voi, [[Capulet\|Capuleti]], verrete con me;<br>e voi, Montecchi, venite questo pomeriggio<br>a conoscere il nostro ulteriore volere in questo caso<br>alla vecchia Villafranca, nostro comune tribunale.<br>Ancora una volta, a [[Pain\|pena]] di [[Death\|morte]], tutti si allontanino. |
 | *(didascalia)* | Escono tutti tranne Montecchi, sua Moglie e [[Benvolio]] |
 | MONTECCHI | Chi ha rimesso in moto questa antica contesa?<br>Parla, nipote: eri presente quando cominciò? |
-| [[Benvolio|BENVOLIO]] | Qui erano i servi del vostro avversario<br>e i vostri, già stretti a combattere prima ch’io giungessi.<br>Sguainai per separarli. In quell’istante venne<br>l’ardente [[Tybalt|Tebaldo]] con la [[Sword|spada]] pronta,<br>che, mentre spirava sfida ai miei orecchi,<br>roteava intorno al capo fendendo i venti,<br>i quali, non punto feriti, lo fischiavano con scherno.<br>Mentre ci scambiavamo stoccate e colpi,<br>ne vennero sempre più, e combatterono da una parte e dall’altra<br>finché venne il Principe, che separò l’una e l’altra parte. |
+| [[Benvolio\|BENVOLIO]] | Qui erano i servi del vostro avversario<br>e i vostri, già stretti a combattere prima ch’io giungessi.<br>Sguainai per separarli. In quell’istante venne<br>l’ardente [[Tybalt\|Tebaldo]] con la [[Sword\|spada]] pronta,<br>che, mentre spirava sfida ai miei orecchi,<br>roteava intorno al capo fendendo i venti,<br>i quali, non punto feriti, lo fischiavano con scherno.<br>Mentre ci scambiavamo stoccate e colpi,<br>ne vennero sempre più, e combatterono da una parte e dall’altra<br>finché venne il Principe, che separò l’una e l’altra parte. |
 | LA MOGLIE DI MONTECCHI | Oh, dov’è [[Romeo]]—l’avete visto oggi?<br>Ben lieta sono che non fosse a questa zuffa. |
-| [[Benvolio|BENVOLIO]] | Madonna, un’ora prima che il sole adorato<br>si affacciasse alla dorata [[Window|finestra]] d’oriente,<br>un animo turbato mi spinse a vagare fuori,<br>dove, sotto il boschetto di sicomori<br>che a ponente si radica da questo lato della [[City|città]],<br>così per tempo passeggiando vidi vostro figlio.<br>Verso lui mi mossi, ma egli si avvide di me,<br>e si nascose nel folto del bosco.<br>Io, misurando i suoi affetti sui miei—<br>che allora più cercavano là dove meno potevano essere<br>trovati,<br>essendo già uno di troppo col mio stanco [[Self|io]]—<br>seguii il mio [[Humour|umore]] non seguendo il suo,<br>e volentieri sfuggii chi volentieri fuggiva me. |
-| MONTECCHI | Molte mattine è stato veduto laggiù,<br>con le [[Tears|lacrime]] accrescere la fresca rugiada del mattino,<br>aggiungendo nubi alle nubi coi suoi profondi sospiri.<br>Ma non appena il sole che tutto rallegra<br>comincia nel più lontano oriente a tirare<br>le ombrose cortine dal letto d’Aurora,<br>lungi dalla luce si ritrae a [[Home|casa]] il mio grave figliuolo,<br>e solitario si rinchiude nella sua camera,<br>serra le finestre, sbarra fuori il bel chiarore del giorno,<br>e si fa una [[Night|notte]] artificiale.<br>Nero e funesto dovrà riuscire questo [[Humour|umore]],<br>se buon consiglio non ne rimuove la causa. |
-| [[Benvolio|BENVOLIO]] | Mio nobile zio, ne conoscete la causa? |
+| [[Benvolio\|BENVOLIO]] | Madonna, un’ora prima che il sole adorato<br>si affacciasse alla dorata [[Window\|finestra]] d’oriente,<br>un animo turbato mi spinse a vagare fuori,<br>dove, sotto il boschetto di sicomori<br>che a ponente si radica da questo lato della [[City\|città]],<br>così per tempo passeggiando vidi vostro figlio.<br>Verso lui mi mossi, ma egli si avvide di me,<br>e si nascose nel folto del bosco.<br>Io, misurando i suoi affetti sui miei—<br>che allora più cercavano là dove meno potevano essere<br>trovati,<br>essendo già uno di troppo col mio stanco [[Self\|io]]—<br>seguii il mio [[Humour\|umore]] non seguendo il suo,<br>e volentieri sfuggii chi volentieri fuggiva me. |
+| MONTECCHI | Molte mattine è stato veduto laggiù,<br>con le [[Tears\|lacrime]] accrescere la fresca rugiada del mattino,<br>aggiungendo nubi alle nubi coi suoi profondi sospiri.<br>Ma non appena il sole che tutto rallegra<br>comincia nel più lontano oriente a tirare<br>le ombrose cortine dal letto d’Aurora,<br>lungi dalla luce si ritrae a [[Home\|casa]] il mio grave figliuolo,<br>e solitario si rinchiude nella sua camera,<br>serra le finestre, sbarra fuori il bel chiarore del giorno,<br>e si fa una [[Night\|notte]] artificiale.<br>Nero e funesto dovrà riuscire questo [[Humour\|umore]],<br>se buon consiglio non ne rimuove la causa. |
+| [[Benvolio\|BENVOLIO]] | Mio nobile zio, ne conoscete la causa? |
 | MONTECCHI | Non la conosco né posso apprenderla da lui. |
-| [[Benvolio|BENVOLIO]] | L’avete sollecitato in qualche modo? |
-| MONTECCHI | E da me e da molti altri amici,<br>ma egli, consigliere del proprio affetto,<br>è a se stesso—non dirò quanto fedele,<br>ma a se stesso tanto segreto e tanto chiuso,<br>tanto lontano da ogni scandaglio e scoperta,<br>quanto il bocciolo morso da un verme invidioso<br>prima che possa spiegare all’aria le sue dolci [[Leaves|foglie]]<br>o consacrare al sole la sua [[Beauty|bellezza]].<br>Potessimo solo apprendere donde nascano i suoi dolori,<br>tanto volentieri daremmo il rimedio quanto il saperlo. |
+| [[Benvolio\|BENVOLIO]] | L’avete sollecitato in qualche modo? |
+| MONTECCHI | E da me e da molti altri amici,<br>ma egli, consigliere del proprio affetto,<br>è a se stesso—non dirò quanto fedele,<br>ma a se stesso tanto segreto e tanto chiuso,<br>tanto lontano da ogni scandaglio e scoperta,<br>quanto il bocciolo morso da un verme invidioso<br>prima che possa spiegare all’aria le sue dolci [[Leaves\|foglie]]<br>o consacrare al sole la sua [[Beauty\|bellezza]].<br>Potessimo solo apprendere donde nascano i suoi dolori,<br>tanto volentieri daremmo il rimedio quanto il saperlo. |
 | *(didascalia)* | Entra [[Romeo]] |
-| [[Benvolio|BENVOLIO]] | Ecco che viene. Se vi piace, ritiratevi in disparte,<br>saprò il suo cruccio, o mi sarà molto negato. |
+| [[Benvolio\|BENVOLIO]] | Ecco che viene. Se vi piace, ritiratevi in disparte,<br>saprò il suo cruccio, o mi sarà molto negato. |
 | MONTECCHI | Vorrei che tu fossi tanto fortunato, restando,<br>da udire vera confessione. Venite, madonna, andiamo. |
 | *(didascalia)* | Escono Montecchi e sua Moglie |
-| [[Benvolio|BENVOLIO]] | Buon giorno, cugino. |
-| [[Romeo|ROMEO]] | È il giorno così giovane? |
-| [[Benvolio|BENVOLIO]] | Sono appena suonate le nove. |
-| [[Romeo|ROMEO]] | Ahimè, le ore tristi paiono lunghe.<br>Era mio padre quello che se n’è andato così in fretta? |
-| [[Benvolio|BENVOLIO]] | Era lui. Quale tristezza allunga le ore di [[Romeo]]? |
-| [[Romeo|ROMEO]] | Il non avere ciò che, avendolo, le fa brevi. |
-| [[Benvolio|BENVOLIO]] | In [[Love|amore]]. |
-| [[Romeo|ROMEO]] | Fuori. |
-| [[Benvolio|BENVOLIO]] | D’[[Love|amore]]? |
-| [[Romeo|ROMEO]] | Fuori dal favore di colei di cui sono in [[Love|amore]]. |
-| [[Benvolio|BENVOLIO]] | Ahimè che l’[[Love|amore]], così gentile all’apparenza,<br>debba essere così tiranno e aspro alla prova. |
-| [[Romeo|ROMEO]] | Ahimè che l’[[Love|amore]], il cui sguardo è sempre bendato,<br>debba senz’occhi veder le vie del suo volere. |
-| *(didascalia)* | Dove pranzeremo? Vedendo il [[Blood|sangue]] Oh me! Che rissa |
-| [[Romeo|ROMEO]] | c’è stata qui?<br>Eppure non dirmelo, ché ho udito tutto.<br>Qui molto ha da fare l’odio, ma più l’[[Love|amore]].<br>Ebbene, o rissoso [[Love|amore]], o amoroso odio,<br>o tutto ciò che dal nulla fu creato in principio;<br>o pesante leggerezza, seria [[Vanity|vanità]],<br>caos deforme di forme dal [[Well|bell]]’aspetto,<br>piuma di piombo, fumo lucente, freddo [[Fire|fuoco]], salute inferma,<br>[[Sleep|sonno]] sempre desto, che non è ciò che è!<br>Questo [[Love|amore]] sento io, che non sento [[Love|amore]] in questo.<br>Non ridi tu? |
-| [[Benvolio|BENVOLIO]] | No, cugino, piuttosto piango. |
-| [[Romeo|ROMEO]] | Buon cuore, di che? |
-| [[Benvolio|BENVOLIO]] | Dell’oppressione del tuo buon cuore. |
-| [[Romeo|ROMEO]] | Ebbene, tale è la trasgressione dell’[[Love|amore]].<br>Dolori miei propri mi gravano nel petto,<br>che tu vorresti moltiplicare premendoli<br>coi tuoi. Quest’[[Love|amore]] che m’hai mostrato<br>aggiunge altro dolore al troppo del mio.<br>L’[[Love|amore]] è un fumo fatto col vapore dei sospiri,<br>purgato, un [[Fire|fuoco]] che scintilla negli occhi degli [[lovers|amanti]],<br>turbato, un mare nutrito dalle [[Tears|lacrime]] degli [[lovers|amanti]].<br>Che altro è? Una [[Madness|follia]] discretissima,<br>un fiele che soffoca e un dolce che conserva.<br>Addio, cugino mio. |
-| [[Benvolio|BENVOLIO]] | Piano, verrò con te;<br>e se così mi lasci, mi fai torto. |
-| [[Romeo|ROMEO]] | Suvvia, ho perduto me stesso. Io non sono qui.<br>Questo non è [[Romeo]]; egli è altrove. |
-| [[Benvolio|BENVOLIO]] | Dimmi sul serio, chi è colei che tu [[Love|ami]]? |
-| [[Romeo|ROMEO]] | Come, devo gemere e dirtelo? |
-| [[Benvolio|BENVOLIO]] | Gemere? Ma no; dimmi soltanto, sul serio, chi. |
-| [[Romeo|ROMEO]] | Ordina a un malato di far sul serio testamento:<br>parola mal rivolta a chi sta tanto male.<br>Sul serio, cugino, io [[Love|amo]] una donna. |
-| [[Benvolio|BENVOLIO]] | Avevo mirato così vicino, supponendo che tu amassi. |
-| [[Romeo|ROMEO]] | Un ottimo tiratore; ed è bella colei che [[Love|amo]]. |
-| [[Benvolio|BENVOLIO]] | Un bersaglio ben chiaro, bel cugino, si coglie assai presto. |
-| [[Romeo|ROMEO]] | [[Well|Ebbene]], in quel colpo tu manchi. Non sarà colpita<br>dal dardo di Cupido; ha il senno di Diana,<br>e, in salda armatura di castità [[Well|ben]] munita,<br>vive illesa dal debole arco fanciullesco d’[[Love|amore]].<br>Non sosterrà l’assedio di parole amorose,<br>né affronterà l’incontro d’occhi assalitori,<br>né aprirà il grembo all’oro che seduce i santi.<br>Oh, ella è ricca di [[Beauty|bellezza]], povera soltanto<br>perché, quando morrà, con la [[Beauty|bellezza]] muore il suo tesoro. |
-| [[Benvolio|BENVOLIO]] | Ha dunque giurato che vivrà sempre casta? |
-| [[Romeo|ROMEO]] | L’ha giurato, e in quel risparmio fa enorme scialo;<br>ché la [[Beauty|bellezza]], affamata dalla sua severità,<br>recide la [[Beauty|bellezza]] da ogni posterità.<br>È troppo bella, troppo saggia, saggiamente troppo bella,<br>per meritar beatitudine facendomi [[Despair|disperare]].<br>Ha abiurato l’[[Love|amore]], e in quel voto<br>io vivo morto, io che vivo per dirlo ora. |
-| [[Benvolio|BENVOLIO]] | Lasciati guidare da me; dimentica di pensare a lei. |
-| [[Romeo|ROMEO]] | Oh, insegnami come dovrei dimenticare di pensare! |
-| [[Benvolio|BENVOLIO]] | Dando libertà ai tuoi occhi.<br>Esamina altre bellezze. |
-| [[Romeo|ROMEO]] | È il modo<br>di richiamare più ancora in causa la sua, ch’è squisita.<br>Queste felici maschere che baciano le fronti di belle dame,<br>essendo nere, ci ricordano che nascondono il bello.<br>Chi è colpito da cecità non può dimenticare<br>il prezioso tesoro della vista perduta.<br>Mostrami una donna che sia bella oltre misura:<br>a che serve la sua [[Beauty|bellezza]] se non da nota<br>dove io possa leggere chi superò quella che ogni bellezza supera?<br>Addio, tu non puoi insegnarmi a dimenticare. |
-| [[Benvolio|BENVOLIO]] | Ti pagherò quella dottrina, o morrò in debito. Escono |
+| [[Benvolio\|BENVOLIO]] | Buon giorno, cugino. |
+| [[Romeo\|ROMEO]] | È il giorno così giovane? |
+| [[Benvolio\|BENVOLIO]] | Sono appena suonate le nove. |
+| [[Romeo\|ROMEO]] | Ahimè, le ore tristi paiono lunghe.<br>Era mio padre quello che se n’è andato così in fretta? |
+| [[Benvolio\|BENVOLIO]] | Era lui. Quale tristezza allunga le ore di [[Romeo]]? |
+| [[Romeo\|ROMEO]] | Il non avere ciò che, avendolo, le fa brevi. |
+| [[Benvolio\|BENVOLIO]] | In [[Love\|amore]]. |
+| [[Romeo\|ROMEO]] | Fuori. |
+| [[Benvolio\|BENVOLIO]] | D’[[Love\|amore]]? |
+| [[Romeo\|ROMEO]] | Fuori dal favore di colei di cui sono in [[Love\|amore]]. |
+| [[Benvolio\|BENVOLIO]] | Ahimè che l’[[Love\|amore]], così gentile all’apparenza,<br>debba essere così tiranno e aspro alla prova. |
+| [[Romeo\|ROMEO]] | Ahimè che l’[[Love\|amore]], il cui sguardo è sempre bendato,<br>debba senz’occhi veder le vie del suo volere. |
+| *(didascalia)* | Dove pranzeremo? Vedendo il [[Blood\|sangue]] Oh me! Che rissa |
+| [[Romeo\|ROMEO]] | c’è stata qui?<br>Eppure non dirmelo, ché ho udito tutto.<br>Qui molto ha da fare l’odio, ma più l’[[Love\|amore]].<br>Ebbene, o rissoso [[Love\|amore]], o amoroso odio,<br>o tutto ciò che dal nulla fu creato in principio;<br>o pesante leggerezza, seria [[Vanity\|vanità]],<br>caos deforme di forme dal [[Well\|bell]]’aspetto,<br>piuma di piombo, fumo lucente, freddo [[Fire\|fuoco]], salute inferma,<br>[[Sleep\|sonno]] sempre desto, che non è ciò che è!<br>Questo [[Love\|amore]] sento io, che non sento [[Love\|amore]] in questo.<br>Non ridi tu? |
+| [[Benvolio\|BENVOLIO]] | No, cugino, piuttosto piango. |
+| [[Romeo\|ROMEO]] | Buon cuore, di che? |
+| [[Benvolio\|BENVOLIO]] | Dell’oppressione del tuo buon cuore. |
+| [[Romeo\|ROMEO]] | Ebbene, tale è la trasgressione dell’[[Love\|amore]].<br>Dolori miei propri mi gravano nel petto,<br>che tu vorresti moltiplicare premendoli<br>coi tuoi. Quest’[[Love\|amore]] che m’hai mostrato<br>aggiunge altro dolore al troppo del mio.<br>L’[[Love\|amore]] è un fumo fatto col vapore dei sospiri,<br>purgato, un [[Fire\|fuoco]] che scintilla negli occhi degli [[lovers\|amanti]],<br>turbato, un mare nutrito dalle [[Tears\|lacrime]] degli [[lovers\|amanti]].<br>Che altro è? Una [[Madness\|follia]] discretissima,<br>un fiele che soffoca e un dolce che conserva.<br>Addio, cugino mio. |
+| [[Benvolio\|BENVOLIO]] | Piano, verrò con te;<br>e se così mi lasci, mi fai torto. |
+| [[Romeo\|ROMEO]] | Suvvia, ho perduto me stesso. Io non sono qui.<br>Questo non è [[Romeo]]; egli è altrove. |
+| [[Benvolio\|BENVOLIO]] | Dimmi sul serio, chi è colei che tu [[Love\|ami]]? |
+| [[Romeo\|ROMEO]] | Come, devo gemere e dirtelo? |
+| [[Benvolio\|BENVOLIO]] | Gemere? Ma no; dimmi soltanto, sul serio, chi. |
+| [[Romeo\|ROMEO]] | Ordina a un malato di far sul serio testamento:<br>parola mal rivolta a chi sta tanto male.<br>Sul serio, cugino, io [[Love\|amo]] una donna. |
+| [[Benvolio\|BENVOLIO]] | Avevo mirato così vicino, supponendo che tu amassi. |
+| [[Romeo\|ROMEO]] | Un ottimo tiratore; ed è bella colei che [[Love\|amo]]. |
+| [[Benvolio\|BENVOLIO]] | Un bersaglio ben chiaro, bel cugino, si coglie assai presto. |
+| [[Romeo\|ROMEO]] | [[Well\|Ebbene]], in quel colpo tu manchi. Non sarà colpita<br>dal dardo di Cupido; ha il senno di Diana,<br>e, in salda armatura di castità [[Well\|ben]] munita,<br>vive illesa dal debole arco fanciullesco d’[[Love\|amore]].<br>Non sosterrà l’assedio di parole amorose,<br>né affronterà l’incontro d’occhi assalitori,<br>né aprirà il grembo all’oro che seduce i santi.<br>Oh, ella è ricca di [[Beauty\|bellezza]], povera soltanto<br>perché, quando morrà, con la [[Beauty\|bellezza]] muore il suo tesoro. |
+| [[Benvolio\|BENVOLIO]] | Ha dunque giurato che vivrà sempre casta? |
+| [[Romeo\|ROMEO]] | L’ha giurato, e in quel risparmio fa enorme scialo;<br>ché la [[Beauty\|bellezza]], affamata dalla sua severità,<br>recide la [[Beauty\|bellezza]] da ogni posterità.<br>È troppo bella, troppo saggia, saggiamente troppo bella,<br>per meritar beatitudine facendomi [[Despair\|disperare]].<br>Ha abiurato l’[[Love\|amore]], e in quel voto<br>io vivo morto, io che vivo per dirlo ora. |
+| [[Benvolio\|BENVOLIO]] | Lasciati guidare da me; dimentica di pensare a lei. |
+| [[Romeo\|ROMEO]] | Oh, insegnami come dovrei dimenticare di pensare! |
+| [[Benvolio\|BENVOLIO]] | Dando libertà ai tuoi occhi.<br>Esamina altre bellezze. |
+| [[Romeo\|ROMEO]] | È il modo<br>di richiamare più ancora in causa la sua, ch’è squisita.<br>Queste felici maschere che baciano le fronti di belle dame,<br>essendo nere, ci ricordano che nascondono il bello.<br>Chi è colpito da cecità non può dimenticare<br>il prezioso tesoro della vista perduta.<br>Mostrami una donna che sia bella oltre misura:<br>a che serve la sua [[Beauty\|bellezza]] se non da nota<br>dove io possa leggere chi superò quella che ogni bellezza supera?<br>Addio, tu non puoi insegnarmi a dimenticare. |
+| [[Benvolio\|BENVOLIO]] | Ti pagherò quella dottrina, o morrò in debito. Escono |
 
 
 
@@ -1556,46 +1556,46 @@ Exit
 
 | Chi parla | Battuta |
 |---|---|
-| *(didascalia)* | Entrano [[Capulet|Capuleti]], [[Paris|Paride]] e Pietro, un servo |
-| [[Capulet|CAPULETI]] | Ma Montecchi è vincolato [[Well|bene]] quanto me,<br>a pari penale; e non è difficile, credo,<br>per uomini vecchi come noi mantenere la pace. |
-| [[Paris|PARIDE]] | D’onorevole stima siete entrambi,<br>ed è peccato che siate vissuti tanto in discordia.<br>Ma ora, mio signore: che dite della mia richiesta? |
-| [[Capulet|CAPULETI]] | Nient’altro che ripetere ciò che ho già detto.<br>La mia [[Child|figliuola]] è ancora straniera al mondo;<br>non ha veduto il mutare di quattordici anni.<br>Lascia che due altre estati appassiscano nel loro [[Pride|orgoglio]]<br>prima che possiamo crederla matura per esser sposa. |
-| [[Paris|PARIDE]] | Più giovani di lei son fatte liete madri. |
-| [[Capulet|CAPULETI]] | E troppo presto guaste son quelle fatte così per tempo.<br>Ma corteggiala, gentile [[Paris|Paride]], conquistane il cuore;<br>il mio volere non è che una parte del suo consenso,<br>e, s’ella acconsente, entro l’ambito della sua scelta<br>sta il mio consenso e il mio voto concorde.<br>Questa [[Night|notte]] tengo una festa d’antica usanza<br>alla quale ho invitato molti ospiti,<br>quelli che [[Love|amo]]; e voi fra il numero,<br>uno di più graditissimo, accrescete la mia schiera.<br>Nella mia povera [[house|casa]] aspettatevi di vedere questa [[Night|notte]]<br>[[Stars|stelle]] che calcano la terra e fanno chiaro il cielo oscuro.<br>Quel conforto che provano i giovani gagliardi<br>quando l’aprile [[Well|ben]] vestito viene alle calcagna<br>del zoppicante [[Winter|inverno]]—proprio tale diletto<br>fra freschi boccioli femminili avrete questa [[Night|notte]]<br>in retaggio nella mia [[house|casa]]; udite tutte, tutte vedete,<br>e più v’aggradi colei che più avrà merito;<br>la quale, vedendone molte, la mia, essendo una,<br>potrà contare nel numero, benché nulla nel computo. |
+| *(didascalia)* | Entrano [[Capulet\|Capuleti]], [[Paris\|Paride]] e Pietro, un servo |
+| [[Capulet\|CAPULETI]] | Ma Montecchi è vincolato [[Well\|bene]] quanto me,<br>a pari penale; e non è difficile, credo,<br>per uomini vecchi come noi mantenere la pace. |
+| [[Paris\|PARIDE]] | D’onorevole stima siete entrambi,<br>ed è peccato che siate vissuti tanto in discordia.<br>Ma ora, mio signore: che dite della mia richiesta? |
+| [[Capulet\|CAPULETI]] | Nient’altro che ripetere ciò che ho già detto.<br>La mia [[Child\|figliuola]] è ancora straniera al mondo;<br>non ha veduto il mutare di quattordici anni.<br>Lascia che due altre estati appassiscano nel loro [[Pride\|orgoglio]]<br>prima che possiamo crederla matura per esser sposa. |
+| [[Paris\|PARIDE]] | Più giovani di lei son fatte liete madri. |
+| [[Capulet\|CAPULETI]] | E troppo presto guaste son quelle fatte così per tempo.<br>Ma corteggiala, gentile [[Paris\|Paride]], conquistane il cuore;<br>il mio volere non è che una parte del suo consenso,<br>e, s’ella acconsente, entro l’ambito della sua scelta<br>sta il mio consenso e il mio voto concorde.<br>Questa [[Night\|notte]] tengo una festa d’antica usanza<br>alla quale ho invitato molti ospiti,<br>quelli che [[Love\|amo]]; e voi fra il numero,<br>uno di più graditissimo, accrescete la mia schiera.<br>Nella mia povera [[house\|casa]] aspettatevi di vedere questa [[Night\|notte]]<br>[[Stars\|stelle]] che calcano la terra e fanno chiaro il cielo oscuro.<br>Quel conforto che provano i giovani gagliardi<br>quando l’aprile [[Well\|ben]] vestito viene alle calcagna<br>del zoppicante [[Winter\|inverno]]—proprio tale diletto<br>fra freschi boccioli femminili avrete questa [[Night\|notte]]<br>in retaggio nella mia [[house\|casa]]; udite tutte, tutte vedete,<br>e più v’aggradi colei che più avrà merito;<br>la quale, vedendone molte, la mia, essendo una,<br>potrà contare nel numero, benché nulla nel computo. |
 | *(didascalia)* | Venite, andate con me. (Dando a Pietro un foglio) Va’, messere, |
-| [[Capulet|CAPULETI]] | arrancane in giro;<br>per la bella [[Verona]] rintraccia quelle persone<br>i cui nomi son scritti lì, e di’ loro<br>che la mia [[house|casa]] e il benvenuto attendono il loro piacere. |
-| *(didascalia)* | Escono [[Capulet|Capuleti]] e [[Paris|Paride]] |
+| [[Capulet\|CAPULETI]] | arrancane in giro;<br>per la bella [[Verona]] rintraccia quelle persone<br>i cui nomi son scritti lì, e di’ loro<br>che la mia [[house\|casa]] e il benvenuto attendono il loro piacere. |
+| *(didascalia)* | Escono [[Capulet\|Capuleti]] e [[Paris\|Paride]] |
 | *(didascalia)* | PIETRO Rintracciare quelli i cui nomi son scritti qui? È |
-| [[Capulet|CAPULETI]] | scritto che il calzolaio dovrebbe darsi da fare col suo<br>metro e il sarto con la sua forma, il pescatore col suo<br>pennello e il pittore con le sue reti; ma io sono mandato a<br>trovare quelle persone i cui nomi son qui scritti, e non so<br>mai trovare quali nomi chi ha scritto abbia qui<br>scritti. Devo andare dai dotti. |
+| [[Capulet\|CAPULETI]] | scritto che il calzolaio dovrebbe darsi da fare col suo<br>metro e il sarto con la sua forma, il pescatore col suo<br>pennello e il pittore con le sue reti; ma io sono mandato a<br>trovare quelle persone i cui nomi son qui scritti, e non so<br>mai trovare quali nomi chi ha scritto abbia qui<br>scritti. Devo andare dai dotti. |
 | *(didascalia)* | Entrano [[Benvolio]] e [[Romeo]] |
-| [[Capulet|CAPULETI]] | Giusto in [[Time|tempo]]. |
-| [[Benvolio|BENVOLIO]] | (a [[Romeo]])<br>Suvvia, amico, un [[Fire|fuoco]] spegne l’arder d’un altro,<br>una [[Pain|pena]] è alleviata dall’angoscia d’un’altra.<br>Gira fino a stordirti, e trova aiuto girando a rovescio.<br>Un dolore disperato si cura col languire d’un altro.<br>Prenditi agli occhi qualche nuovo contagio,<br>e il rancido [[Poison|veleno]] del vecchio morrà. |
-| [[Romeo|ROMEO]] | La tua foglia di piantaggine è eccellente per questo. |
-| [[Benvolio|BENVOLIO]] | Per che cosa, di grazia? |
-| [[Romeo|ROMEO]] | Per il tuo stinco scorticato. |
-| [[Benvolio|BENVOLIO]] | Come, [[Romeo]], sei tu impazzito? |
-| [[Romeo|ROMEO]] | Non pazzo, ma legato più di quanto sia un pazzo;<br>chiuso in [[Prison|prigione]], tenuto senza il mio cibo, |
+| [[Capulet\|CAPULETI]] | Giusto in [[Time\|tempo]]. |
+| [[Benvolio\|BENVOLIO]] | (a [[Romeo]])<br>Suvvia, amico, un [[Fire\|fuoco]] spegne l’arder d’un altro,<br>una [[Pain\|pena]] è alleviata dall’angoscia d’un’altra.<br>Gira fino a stordirti, e trova aiuto girando a rovescio.<br>Un dolore disperato si cura col languire d’un altro.<br>Prenditi agli occhi qualche nuovo contagio,<br>e il rancido [[Poison\|veleno]] del vecchio morrà. |
+| [[Romeo\|ROMEO]] | La tua foglia di piantaggine è eccellente per questo. |
+| [[Benvolio\|BENVOLIO]] | Per che cosa, di grazia? |
+| [[Romeo\|ROMEO]] | Per il tuo stinco scorticato. |
+| [[Benvolio\|BENVOLIO]] | Come, [[Romeo]], sei tu impazzito? |
+| [[Romeo\|ROMEO]] | Non pazzo, ma legato più di quanto sia un pazzo;<br>chiuso in [[Prison\|prigione]], tenuto senza il mio cibo, |
 | *(didascalia)* | frustato e tormentato e—(a Pietro Buona sera, |
-| [[Romeo|ROMEO]] | buon compagno. |
+| [[Romeo\|ROMEO]] | buon compagno. |
 | *(didascalia)* | PIETRO |
-| [[Romeo|ROMEO]] | Dio vi dia la buona sera. Di grazia, signore, sapete leggere? |
-| [[Romeo|ROMEO]] | Sì, la mia propria sorte nella mia miseria. |
+| [[Romeo\|ROMEO]] | Dio vi dia la buona sera. Di grazia, signore, sapete leggere? |
+| [[Romeo\|ROMEO]] | Sì, la mia propria sorte nella mia miseria. |
 | *(didascalia)* | PIETRO orse l’avete imparata senza libro. Ma di grazia, sapete leggere qualunque cosa vediate? |
-| [[Romeo|ROMEO]] | Sì, se conosco le lettere e la lingua. |
+| [[Romeo\|ROMEO]] | Sì, se conosco le lettere e la lingua. |
 | *(didascalia)* | PIETRO Parlate onestamente. State allegro. |
-| [[Romeo|ROMEO]] | Ferma, compagno, io so leggere.<br>Legge la lettera<br>‘Signor Martino, sua moglie e le figlie,<br>il conte Anselmo e le sue belle sorelle,<br>la signora vedova di Vitruvio,<br>il signor Placenzio e le sue leggiadre nipoti,<br>[[Mercutio|Mercuzio]] e suo fratello [[Valentine|Valentino]],<br>mio zio [[Capulet|Capuleti]], sua moglie e le figlie,<br>la mia bella nipote [[Rosaline|Rosalina]] e Livia,<br>il signor Valenzio e suo cugino [[Tybalt|Tebaldo]],<br>[[Lucio]] e la vivace [[Helena|Elena]].’<br>Bella adunanza. Dove devono venire? |
+| [[Romeo\|ROMEO]] | Ferma, compagno, io so leggere.<br>Legge la lettera<br>‘Signor Martino, sua moglie e le figlie,<br>il conte Anselmo e le sue belle sorelle,<br>la signora vedova di Vitruvio,<br>il signor Placenzio e le sue leggiadre nipoti,<br>[[Mercutio\|Mercuzio]] e suo fratello [[Valentine\|Valentino]],<br>mio zio [[Capulet\|Capuleti]], sua moglie e le figlie,<br>la mia bella nipote [[Rosaline\|Rosalina]] e Livia,<br>il signor Valenzio e suo cugino [[Tybalt\|Tebaldo]],<br>[[Lucio]] e la vivace [[Helena\|Elena]].’<br>Bella adunanza. Dove devono venire? |
 | *(didascalia)* | PIETRO Su. |
-| [[Romeo|ROMEO]] | Dove? |
-| *(didascalia)* | PIETRO A cena a [[house|casa]] nostra. |
-| [[Romeo|ROMEO]] | [[house|Casa]] di chi? |
+| [[Romeo\|ROMEO]] | Dove? |
+| *(didascalia)* | PIETRO A cena a [[house\|casa]] nostra. |
+| [[Romeo\|ROMEO]] | [[house\|Casa]] di chi? |
 | *(didascalia)* | PIETRO Del mio padrone. |
-| [[Romeo|ROMEO]] | In verità, avrei dovuto chiedertelo prima. |
+| [[Romeo\|ROMEO]] | In verità, avrei dovuto chiedertelo prima. |
 | *(didascalia)* | PIETRO Ora ve lo dirò senza che lo chiediate. Il mio padrone è |
-| [[Romeo|ROMEO]] | il gran ricco [[Capulet|Capuleti]], e se non siete della [[house|casa]]<br>dei Montecchi, di grazia venite a vuotare una coppa di vino.<br>State allegro. Esce |
-| [[Benvolio|BENVOLIO]] | A questa stessa antica festa dei [[Capulet|Capuleti]]<br>cena la bella [[Rosaline|Rosalina]], che tu tanto ami,<br>con tutte le ammirate bellezze di [[Verona]].<br>Vacci, e con occhio non prevenuto<br>confronta il suo volto con alcuni ch’io ti mostrerò,<br>e ti farò credere il tuo cigno una cornacchia. |
-| [[Romeo|ROMEO]] | Quando la devota religione dell’occhio mio<br>sosterrà tal menzogna, allora si mutino in fuochi le [[Tears|lacrime]];<br>e queste, che spesso annegate non seppero mai morire,<br>trasparenti eretiche, siano arse come bugiarde.<br>Una più bella del mio [[Love|amore]]!—il sole che tutto vede<br>non ne vide mai l’uguale da quando il mondo cominciò. |
-| [[Benvolio|BENVOLIO]] | Suvvia, la vedesti bella non essendovi altre accanto,<br>lei sola pesata con se stessa in ciascun occhio;<br>ma su quella bilancia di cristallo si pesi<br>l’[[Love|amore]] della vostra dama contro qualche altra fanciulla<br>che io vi mostrerò splendente a questa festa,<br>e apparirà a mala pena [[Well|bene]] colei che ora sembra la migliore. |
-| [[Romeo|ROMEO]] | Verrò con te, non perché mi sia mostrato tale spettacolo,<br>ma per godere dello splendore del mio proprio. Escono |
+| [[Romeo\|ROMEO]] | il gran ricco [[Capulet\|Capuleti]], e se non siete della [[house\|casa]]<br>dei Montecchi, di grazia venite a vuotare una coppa di vino.<br>State allegro. Esce |
+| [[Benvolio\|BENVOLIO]] | A questa stessa antica festa dei [[Capulet\|Capuleti]]<br>cena la bella [[Rosaline\|Rosalina]], che tu tanto ami,<br>con tutte le ammirate bellezze di [[Verona]].<br>Vacci, e con occhio non prevenuto<br>confronta il suo volto con alcuni ch’io ti mostrerò,<br>e ti farò credere il tuo cigno una cornacchia. |
+| [[Romeo\|ROMEO]] | Quando la devota religione dell’occhio mio<br>sosterrà tal menzogna, allora si mutino in fuochi le [[Tears\|lacrime]];<br>e queste, che spesso annegate non seppero mai morire,<br>trasparenti eretiche, siano arse come bugiarde.<br>Una più bella del mio [[Love\|amore]]!—il sole che tutto vede<br>non ne vide mai l’uguale da quando il mondo cominciò. |
+| [[Benvolio\|BENVOLIO]] | Suvvia, la vedesti bella non essendovi altre accanto,<br>lei sola pesata con se stessa in ciascun occhio;<br>ma su quella bilancia di cristallo si pesi<br>l’[[Love\|amore]] della vostra dama contro qualche altra fanciulla<br>che io vi mostrerò splendente a questa festa,<br>e apparirà a mala pena [[Well\|bene]] colei che ora sembra la migliore. |
+| [[Romeo\|ROMEO]] | Verrò con te, non perché mi sia mostrato tale spettacolo,<br>ma per godere dello splendore del mio proprio. Escono |
 
 
 
@@ -1643,39 +1643,39 @@ Exit
 
 | Chi parla | Battuta |
 |---|---|
-| *(didascalia)* | Entrano la Moglie di [[Capulet|Capuleti]] e la [[Nurse|Nutrice]] |
-| LA MOGLIE DI [[Capulet|CAPULETI]] | [[Nurse|Nutrice]], dov’è mia figlia? Chiamala qui da me. |
-| [[Nurse|NUTRICE]] | Ora, per la mia verginità di dodici anni,<br>le ho detto di venire. Ehi, [[Lamb|agnellino]], ehi, coccinella—<br>Dio non voglia—dov’è questa ragazza? Ehi, [[Juliet|Giulietta]]! |
-| *(didascalia)* | Entra [[Juliet|Giulietta]] |
-| [[Juliet|GIULIETTA]] | Ebbene, chi chiama? |
-| [[Nurse|NUTRICE]] | Vostra madre. |
-| [[Juliet|GIULIETTA]] | Madonna, son qui. Qual è il vostro volere? |
-| LA MOGLIE DI [[Capulet|CAPULETI]] | Ecco la cosa.—[[Nurse|Nutrice]], lasciaci un poco.<br>Dobbiamo parlare in segreto.—[[Nurse|Nutrice]], torna indietro.<br>Mi son ricordata: udrai anche tu il nostro consiglio.<br>Tu sai che mia figlia è d’una bella età. |
-| [[Nurse|NUTRICE]] | In [[Faith|fede]] mia, so dirne l’età fino all’ora. |
-| LA MOGLIE DI [[Capulet|CAPULETI]] | Non ha quattordici anni. |
-| [[Nurse|NUTRICE]] | Ci scommetto quattordici dei miei denti—eppure, a mio cruccio sia detto, non ne ho che quattro—non ha quattordici anni. Quanto manca ora a San Pietro in Vincoli? |
-| LA MOGLIE DI [[Capulet|CAPULETI]] | Una quindicina di giorni e qualcosa. |
-| [[Nurse|NUTRICE]] | Pari o dispari, fra tutti i giorni dell’anno<br>alla vigilia di San Pietro in Vincoli, di [[Night|notte]], compirà quattordici anni.<br>Susanna e lei—Dio riposi tutte le anime cristiane!—<br>erano della stessa età. [[Well|Ebbene]], Susanna è con Dio;<br>era troppo buona per me. Ma, come dicevo,<br>alla vigilia di San Pietro in Vincoli, di [[Night|notte]], compirà quattordici anni,<br>sì davvero, lo ricordo [[Well|bene]].<br>Sono ormai undici anni dal terremoto,<br>e fu svezzata—non lo scorderò mai–<br>fra tutti i giorni dell’anno proprio in quel giorno,<br>ché m’ero allora messa l’assenzio sul capezzolo,<br>seduta al sole sotto il muro della colombaia.<br>Il mio signore e voi eravate allora a Mantova.<br>Eh sì, ho ancora la testa a posto! Ma, come dicevo,<br>quando assaggiò l’assenzio sulla punta<br>della mia mammella e lo sentì amaro, cara [[Fool|sciocchina]],<br>vederla stizzita e staccarsi dalla poppa!<br>‘Trema’, disse la colombaia—non c’era bisogno, credo,<br>che mi si dicesse di sgombrare;<br>e da quel [[Time|tempo]] sono undici anni,<br>ché allora sapeva star ritta da sola. Anzi, per la santa croce,<br>sapeva correre e trotterellare tutt’intorno,<br>ché appunto il giorno prima si ruppe la fronte,<br>e allora mio marito—Dio sia con la sua [[Soul|anima]],<br>era un uomo allegro!—prese su la [[Child|bambina]].<br>‘Ah,’ disse, ‘cadi tu sulla faccia?<br>Cadrai all’indietro quando avrai più giudizio,<br>non è vero, Giulia?’ E, per la mia santa fede,<br>la povera piccola smise di piangere e disse ‘Sì’.<br>Vedere ora come una burla si avvera!<br>Vi assicuro che se pure vivessi mille anni<br>non lo dimenticherei mai. ‘Non è vero, Giulia?’ disse lui,<br>e, cara [[Fool|sciocchina]], si chetò e disse ‘Sì’. |
-| LA MOGLIE DI [[Capulet|CAPULETI]] | Basta con questo. Ti prego, taci. |
-| [[Nurse|NUTRICE]] | Sì, madonna. Eppure non posso fare a meno di ridere<br>a pensare che smettesse di piangere e dicesse ‘Sì’.<br>Eppure, ve l’assicuro, aveva sulla fronte<br>un bernoccolo grosso come il testicolo d’un galletto.<br>Un colpo pericoloso, e piangeva amaramente.<br>‘Ah,’ disse mio marito, ‘cadi sulla faccia?<br>Cadrai all’indietro quando sarai in età,<br>non è vero, Giulia?’ Si chetò e disse ‘Sì’. |
-| [[Juliet|GIULIETTA]] | E chétati anche tu, ti prego, [[Nurse|Nutrice]], dico io. |
-| [[Nurse|NUTRICE]] | Pace, ho finito. Dio ti segni per la sua grazia,<br>fosti la più bella creatura ch’io mai allattassi.<br>Se potessi vivere tanto da vederti una volta sposata,<br>avrei quel che desidero. |
-| LA MOGLIE DI [[Capulet|CAPULETI]] | Davvero, quel ’sposata’ è proprio il tema<br>di cui venni a parlare. Dimmi, figlia [[Juliet|Giulietta]],<br>come sta la tua disposizione a maritarti? |
-| [[Juliet|GIULIETTA]] | È un [[Honour|onore]] che non sogno neppure. |
-| [[Nurse|NUTRICE]] | ‘Un [[Honour|onore]]’! Se non fossi stata io la tua sola [[Nurse|nutrice]],<br>direi che hai succhiato la saggezza dalla mia poppa. |
-| LA MOGLIE DI [[Capulet|CAPULETI]] | [[Well|Ebbene]], pensa ora al [[Marriage|matrimonio]]. Più giovani di te,<br>qui in [[Verona]], dame di riguardo<br>sono già fatte madri. A mio computo<br>io ero tua madre press’a poco negli anni<br>in cui tu sei ora fanciulla. Dunque, in breve:<br>il valoroso [[Paris|Paride]] ti cerca per suo [[Love|amore]]. |
-| [[Nurse|NUTRICE]] | Un uomo, giovane signora, signora, un uomo tale<br>che tutto il mondo—ma sì, è un uomo di cera. |
-| LA MOGLIE DI [[Capulet|CAPULETI]] | L’[[Summer|estate]] di [[Verona]] non ha simile fiore. |
-| [[Nurse|NUTRICE]] | Anzi, è un fiore, in [[Faith|fede]] mia, un vero fiore. |
-| LA MOGLIE DI [[Capulet|CAPULETI]] | (a [[Juliet|Giulietta]])<br>Che ne dite ? Potete [[Love|amare]] il gentiluomo ?<br>Questa [[Night|notte]] lo vedrete alla nostra festa.<br>Leggete tutto il volume del volto del giovane [[Paris|Paride]],<br>e trovatevi scritto il diletto con la penna della [[Beauty|bellezza]].<br>Esaminate ogni lineamento accordato,<br>e vedete come l’uno all’altro presti contentezza;<br>e ciò che oscuro giace in questo bel volume<br>trovatelo scritto nel margine dei suoi occhi.<br>Questo prezioso libro d’[[Love|amore]], questo [[Lover|amante]] slegato,<br>per farsi bello non manca che d’una coperta.<br>Il pesce vive nel mare, ed è gran [[Pride|vanto]]<br>per la bellezza di fuori nascondere la bellezza di dentro.<br>Quel libro agli occhi di molti divide la gloria<br>che in fermagli d’oro rinchiude la storia dorata.<br>Così voi dividerete tutto ciò ch’egli possiede<br>avendo lui, senza farvi da meno. |
-| [[Nurse|NUTRICE]] | Da meno no, anzi più grande. Le donne crescono per gli uomini.<br>LA MOGLIE DI [[Capulet|CAPULETI]] (a [[Juliet|Giulietta]])<br>Parlate in breve: vi può piacere l’[[Love|amore]] di [[Paris|Paride]]? |
-| [[Juliet|GIULIETTA]] | Guarderò per gradire, se il guardare muove gradimento;<br>ma non scaglierò l’occhio mio più a fondo<br>di quanto il vostro consenso gli dia forza di volare. |
+| *(didascalia)* | Entrano la Moglie di [[Capulet\|Capuleti]] e la [[Nurse\|Nutrice]] |
+| LA MOGLIE DI [[Capulet\|CAPULETI]] | [[Nurse\|Nutrice]], dov’è mia figlia? Chiamala qui da me. |
+| [[Nurse\|NUTRICE]] | Ora, per la mia verginità di dodici anni,<br>le ho detto di venire. Ehi, [[Lamb\|agnellino]], ehi, coccinella—<br>Dio non voglia—dov’è questa ragazza? Ehi, [[Juliet\|Giulietta]]! |
+| *(didascalia)* | Entra [[Juliet\|Giulietta]] |
+| [[Juliet\|GIULIETTA]] | Ebbene, chi chiama? |
+| [[Nurse\|NUTRICE]] | Vostra madre. |
+| [[Juliet\|GIULIETTA]] | Madonna, son qui. Qual è il vostro volere? |
+| LA MOGLIE DI [[Capulet\|CAPULETI]] | Ecco la cosa.—[[Nurse\|Nutrice]], lasciaci un poco.<br>Dobbiamo parlare in segreto.—[[Nurse\|Nutrice]], torna indietro.<br>Mi son ricordata: udrai anche tu il nostro consiglio.<br>Tu sai che mia figlia è d’una bella età. |
+| [[Nurse\|NUTRICE]] | In [[Faith\|fede]] mia, so dirne l’età fino all’ora. |
+| LA MOGLIE DI [[Capulet\|CAPULETI]] | Non ha quattordici anni. |
+| [[Nurse\|NUTRICE]] | Ci scommetto quattordici dei miei denti—eppure, a mio cruccio sia detto, non ne ho che quattro—non ha quattordici anni. Quanto manca ora a San Pietro in Vincoli? |
+| LA MOGLIE DI [[Capulet\|CAPULETI]] | Una quindicina di giorni e qualcosa. |
+| [[Nurse\|NUTRICE]] | Pari o dispari, fra tutti i giorni dell’anno<br>alla vigilia di San Pietro in Vincoli, di [[Night\|notte]], compirà quattordici anni.<br>Susanna e lei—Dio riposi tutte le anime cristiane!—<br>erano della stessa età. [[Well\|Ebbene]], Susanna è con Dio;<br>era troppo buona per me. Ma, come dicevo,<br>alla vigilia di San Pietro in Vincoli, di [[Night\|notte]], compirà quattordici anni,<br>sì davvero, lo ricordo [[Well\|bene]].<br>Sono ormai undici anni dal terremoto,<br>e fu svezzata—non lo scorderò mai–<br>fra tutti i giorni dell’anno proprio in quel giorno,<br>ché m’ero allora messa l’assenzio sul capezzolo,<br>seduta al sole sotto il muro della colombaia.<br>Il mio signore e voi eravate allora a Mantova.<br>Eh sì, ho ancora la testa a posto! Ma, come dicevo,<br>quando assaggiò l’assenzio sulla punta<br>della mia mammella e lo sentì amaro, cara [[Fool\|sciocchina]],<br>vederla stizzita e staccarsi dalla poppa!<br>‘Trema’, disse la colombaia—non c’era bisogno, credo,<br>che mi si dicesse di sgombrare;<br>e da quel [[Time\|tempo]] sono undici anni,<br>ché allora sapeva star ritta da sola. Anzi, per la santa croce,<br>sapeva correre e trotterellare tutt’intorno,<br>ché appunto il giorno prima si ruppe la fronte,<br>e allora mio marito—Dio sia con la sua [[Soul\|anima]],<br>era un uomo allegro!—prese su la [[Child\|bambina]].<br>‘Ah,’ disse, ‘cadi tu sulla faccia?<br>Cadrai all’indietro quando avrai più giudizio,<br>non è vero, Giulia?’ E, per la mia santa fede,<br>la povera piccola smise di piangere e disse ‘Sì’.<br>Vedere ora come una burla si avvera!<br>Vi assicuro che se pure vivessi mille anni<br>non lo dimenticherei mai. ‘Non è vero, Giulia?’ disse lui,<br>e, cara [[Fool\|sciocchina]], si chetò e disse ‘Sì’. |
+| LA MOGLIE DI [[Capulet\|CAPULETI]] | Basta con questo. Ti prego, taci. |
+| [[Nurse\|NUTRICE]] | Sì, madonna. Eppure non posso fare a meno di ridere<br>a pensare che smettesse di piangere e dicesse ‘Sì’.<br>Eppure, ve l’assicuro, aveva sulla fronte<br>un bernoccolo grosso come il testicolo d’un galletto.<br>Un colpo pericoloso, e piangeva amaramente.<br>‘Ah,’ disse mio marito, ‘cadi sulla faccia?<br>Cadrai all’indietro quando sarai in età,<br>non è vero, Giulia?’ Si chetò e disse ‘Sì’. |
+| [[Juliet\|GIULIETTA]] | E chétati anche tu, ti prego, [[Nurse\|Nutrice]], dico io. |
+| [[Nurse\|NUTRICE]] | Pace, ho finito. Dio ti segni per la sua grazia,<br>fosti la più bella creatura ch’io mai allattassi.<br>Se potessi vivere tanto da vederti una volta sposata,<br>avrei quel che desidero. |
+| LA MOGLIE DI [[Capulet\|CAPULETI]] | Davvero, quel ’sposata’ è proprio il tema<br>di cui venni a parlare. Dimmi, figlia [[Juliet\|Giulietta]],<br>come sta la tua disposizione a maritarti? |
+| [[Juliet\|GIULIETTA]] | È un [[Honour\|onore]] che non sogno neppure. |
+| [[Nurse\|NUTRICE]] | ‘Un [[Honour\|onore]]’! Se non fossi stata io la tua sola [[Nurse\|nutrice]],<br>direi che hai succhiato la saggezza dalla mia poppa. |
+| LA MOGLIE DI [[Capulet\|CAPULETI]] | [[Well\|Ebbene]], pensa ora al [[Marriage\|matrimonio]]. Più giovani di te,<br>qui in [[Verona]], dame di riguardo<br>sono già fatte madri. A mio computo<br>io ero tua madre press’a poco negli anni<br>in cui tu sei ora fanciulla. Dunque, in breve:<br>il valoroso [[Paris\|Paride]] ti cerca per suo [[Love\|amore]]. |
+| [[Nurse\|NUTRICE]] | Un uomo, giovane signora, signora, un uomo tale<br>che tutto il mondo—ma sì, è un uomo di cera. |
+| LA MOGLIE DI [[Capulet\|CAPULETI]] | L’[[Summer\|estate]] di [[Verona]] non ha simile fiore. |
+| [[Nurse\|NUTRICE]] | Anzi, è un fiore, in [[Faith\|fede]] mia, un vero fiore. |
+| LA MOGLIE DI [[Capulet\|CAPULETI]] | (a [[Juliet\|Giulietta]])<br>Che ne dite ? Potete [[Love\|amare]] il gentiluomo ?<br>Questa [[Night\|notte]] lo vedrete alla nostra festa.<br>Leggete tutto il volume del volto del giovane [[Paris\|Paride]],<br>e trovatevi scritto il diletto con la penna della [[Beauty\|bellezza]].<br>Esaminate ogni lineamento accordato,<br>e vedete come l’uno all’altro presti contentezza;<br>e ciò che oscuro giace in questo bel volume<br>trovatelo scritto nel margine dei suoi occhi.<br>Questo prezioso libro d’[[Love\|amore]], questo [[Lover\|amante]] slegato,<br>per farsi bello non manca che d’una coperta.<br>Il pesce vive nel mare, ed è gran [[Pride\|vanto]]<br>per la bellezza di fuori nascondere la bellezza di dentro.<br>Quel libro agli occhi di molti divide la gloria<br>che in fermagli d’oro rinchiude la storia dorata.<br>Così voi dividerete tutto ciò ch’egli possiede<br>avendo lui, senza farvi da meno. |
+| [[Nurse\|NUTRICE]] | Da meno no, anzi più grande. Le donne crescono per gli uomini.<br>LA MOGLIE DI [[Capulet\|CAPULETI]] (a [[Juliet\|Giulietta]])<br>Parlate in breve: vi può piacere l’[[Love\|amore]] di [[Paris\|Paride]]? |
+| [[Juliet\|GIULIETTA]] | Guarderò per gradire, se il guardare muove gradimento;<br>ma non scaglierò l’occhio mio più a fondo<br>di quanto il vostro consenso gli dia forza di volare. |
 | *(didascalia)* | Entra Pietro |
 | *(didascalia)* | PIETRO Madonna, gli ospiti sono giunti, la cena servita, |
-| [[Juliet|GIULIETTA]] | voi chiamata, la mia giovane signora richiesta, la [[Nurse|Nutrice]] maledetta<br>in dispensa, e ogni cosa al colmo. Devo andarmene<br>a servire. Vi supplico, seguitemi subito. |
+| [[Juliet\|GIULIETTA]] | voi chiamata, la mia giovane signora richiesta, la [[Nurse\|Nutrice]] maledetta<br>in dispensa, e ogni cosa al colmo. Devo andarmene<br>a servire. Vi supplico, seguitemi subito. |
 | *(didascalia)* | Ti seguiamo. Esce Pietro |
-| LA MOGLIE DI [[Capulet|CAPULETI]] | [[Juliet|Giulietta]], il Conte attende. |
-| [[Nurse|NUTRICE]] | Va’, ragazza; cerca notti felici a giorni felici. Escono |
+| LA MOGLIE DI [[Capulet\|CAPULETI]] | [[Juliet\|Giulietta]], il Conte attende. |
+| [[Nurse\|NUTRICE]] | Va’, ragazza; cerca notti felici a giorni felici. Escono |
 
 
 
@@ -1726,41 +1726,41 @@ Exit
 
 | Chi parla | Battuta |
 |---|---|
-| *(didascalia)* | Entrano [[Romeo]], [[Mercutio|Mercuzio]] e [[Benvolio]], in maschera, con altri cinque o sei mascherati, portando un tamburo e torce |
-| [[Romeo|ROMEO]] | Ebbene, si dirà questo discorso a nostra scusa,<br>o andremo avanti senza scusarci? |
-| [[Benvolio|BENVOLIO]] | Non è più tempo di simili prolissità.<br>Non avremo alcun Cupido bendato con una sciarpa,<br>che porti un arco tartaro dipinto di stecca,<br>spaventando le dame come uno spauracchio,<br>né alcun Prologo a memoria detto fiaccamente<br>dietro al suggeritore per la nostra entrata.<br>Ma ci misurino pure con quel che vogliono,<br>noi misureremo loro una misura, e via. |
-| [[Romeo|ROMEO]] | Datemi una torcia. Non son fatto per questo saltellare;<br>essendo grave, porterò la luce. |
-| [[Mercutio|MERCUZIO]] | No, gentile [[Romeo]], bisogna che tu [[Dance|danzi]]. |
-| [[Romeo|ROMEO]] | Io no, credetemi. Voi avete scarpe da ballo<br>dalle suole agili; io ho un’[[Soul|anima]] di piombo<br>che tanto mi inchioda a terra ch’io non posso muovermi. |
-| [[Mercutio|MERCUZIO]] | Tu sei un [[Lover|amante]]; prendi in prestito le ali di Cupido,<br>e librati con esse oltre un salto comune. |
-| [[Romeo|ROMEO]] | Son troppo dolorosamente trafitto dal suo dardo<br>per librarmi con le sue lievi penne, e così legato<br>non posso spiccare un balzo sopra il tetro affanno;<br>sotto il grave fardello dell’[[Love|amore]] io affondo. |
-| [[Mercutio|MERCUZIO]] | E affondando in esso dovresti gravare sull’[[Love|amore]]—<br>troppo grande oppressione per cosa tenera. |
-| [[Romeo|ROMEO]] | È l’[[Love|amore]] cosa tenera? È troppo aspro,<br>troppo rude, troppo violento, e punge come spina. |
-| [[Mercutio|MERCUZIO]] | Se l’[[Love|amore]] è aspro con te, sii aspro con l’[[Love|amore]].<br>Pungi l’[[Love|amore]] per la puntura, e abbatterai l’[[Love|amore]].<br>Datemi un astuccio per riporvi il volto,<br>una maschera per una maschera. Che m’importa<br>quale occhio curioso noti la deformità?<br>Ecco le ciglia sporgenti che arrossiranno per me. |
+| *(didascalia)* | Entrano [[Romeo]], [[Mercutio\|Mercuzio]] e [[Benvolio]], in maschera, con altri cinque o sei mascherati, portando un tamburo e torce |
+| [[Romeo\|ROMEO]] | Ebbene, si dirà questo discorso a nostra scusa,<br>o andremo avanti senza scusarci? |
+| [[Benvolio\|BENVOLIO]] | Non è più tempo di simili prolissità.<br>Non avremo alcun Cupido bendato con una sciarpa,<br>che porti un arco tartaro dipinto di stecca,<br>spaventando le dame come uno spauracchio,<br>né alcun Prologo a memoria detto fiaccamente<br>dietro al suggeritore per la nostra entrata.<br>Ma ci misurino pure con quel che vogliono,<br>noi misureremo loro una misura, e via. |
+| [[Romeo\|ROMEO]] | Datemi una torcia. Non son fatto per questo saltellare;<br>essendo grave, porterò la luce. |
+| [[Mercutio\|MERCUZIO]] | No, gentile [[Romeo]], bisogna che tu [[Dance\|danzi]]. |
+| [[Romeo\|ROMEO]] | Io no, credetemi. Voi avete scarpe da ballo<br>dalle suole agili; io ho un’[[Soul\|anima]] di piombo<br>che tanto mi inchioda a terra ch’io non posso muovermi. |
+| [[Mercutio\|MERCUZIO]] | Tu sei un [[Lover\|amante]]; prendi in prestito le ali di Cupido,<br>e librati con esse oltre un salto comune. |
+| [[Romeo\|ROMEO]] | Son troppo dolorosamente trafitto dal suo dardo<br>per librarmi con le sue lievi penne, e così legato<br>non posso spiccare un balzo sopra il tetro affanno;<br>sotto il grave fardello dell’[[Love\|amore]] io affondo. |
+| [[Mercutio\|MERCUZIO]] | E affondando in esso dovresti gravare sull’[[Love\|amore]]—<br>troppo grande oppressione per cosa tenera. |
+| [[Romeo\|ROMEO]] | È l’[[Love\|amore]] cosa tenera? È troppo aspro,<br>troppo rude, troppo violento, e punge come spina. |
+| [[Mercutio\|MERCUZIO]] | Se l’[[Love\|amore]] è aspro con te, sii aspro con l’[[Love\|amore]].<br>Pungi l’[[Love\|amore]] per la puntura, e abbatterai l’[[Love\|amore]].<br>Datemi un astuccio per riporvi il volto,<br>una maschera per una maschera. Che m’importa<br>quale occhio curioso noti la deformità?<br>Ecco le ciglia sporgenti che arrossiranno per me. |
 | *(didascalia)* | Si mettono le maschere |
-| [[Benvolio|BENVOLIO]] | Su, bussate ed entrate, e appena dentro<br>ognuno si affidi alle proprie gambe. |
-| [[Romeo|ROMEO]] | Una torcia per me. Che i gaudenti dal cuore leggero<br>solletichino coi talloni i giunchi insensibili,<br>ché io mi attengo a un proverbio da nonno.<br>Sarò portacandela e starò a guardare.<br>Mai il gioco fu così bello, e io ho finito. |
+| [[Benvolio\|BENVOLIO]] | Su, bussate ed entrate, e appena dentro<br>ognuno si affidi alle proprie gambe. |
+| [[Romeo\|ROMEO]] | Una torcia per me. Che i gaudenti dal cuore leggero<br>solletichino coi talloni i giunchi insensibili,<br>ché io mi attengo a un proverbio da nonno.<br>Sarò portacandela e starò a guardare.<br>Mai il gioco fu così bello, e io ho finito. |
 | *(didascalia)* | Prende una torcia |
-| [[Mercutio|MERCUZIO]] | Suvvia, bigio è il topo, parola propria del conestabile.<br>Se tu sei un ronzino bigio, ti tireremo fuori dal pantano<br>dell’—con rispetto parlando—[[Love|amore]], in cui sei affondato<br>fino agli orecchi. Su, bruciamo la luce del giorno, olà! |
-| [[Romeo|ROMEO]] | No, non è così. |
-| [[Mercutio|MERCUZIO]] | Voglio dire, signore, che nell’indugio<br>sprechiamo invano le nostre luci, come lumi di giorno.<br>Prendete il nostro buon senso, ché il nostro giudizio<br>vi sta cinque volte prima che una nei nostri cinque sensi. |
-| [[Romeo|ROMEO]] | E abbiamo [[Well|buona]] intenzione andando a questa [[Masque|mascherata]],<br>ma non è saggezza andarvi. |
-| [[Mercutio|MERCUZIO]] | Perché, si può chiedere? |
-| [[Romeo|ROMEO]] | Ho sognato [[A Dream|un sogno]] questa notte. |
-| [[Mercutio|MERCUZIO]] | E anch’io. |
-| [[Romeo|ROMEO]] | [[Well|Ebbene]], qual era il tuo? |
-| [[Mercutio|MERCUZIO]] | Che i sognatori spesso mentono. |
-| [[Romeo|ROMEO]] | A letto addormentati, mentre sognano cose vere. |
-| [[Mercutio|MERCUZIO]] | Oh, vedo dunque che la [[Queen|Regina]] Mab è stata con te. |
-| [[Benvolio|BENVOLIO]] | La [[Queen|Regina]] Mab, chi è costei? |
-| [[Mercutio|MERCUZIO]] | Ella è la levatrice delle fate, e viene<br>in forma non più grande d’una pietra d’agata<br>sull’indice d’un magistrato,<br>tirata da una muta di piccoli atomi<br>attraverso i nasi degli uomini mentre giacciono addormentati.<br>I raggi del suo carro son fatti di zampe di ragni filatori;<br>la coperta, d’ali di cavallette;<br>le tirelle, dei raggi acquosi del chiaro di luna;<br>i collari, della più sottile tela di ragno;<br>la frusta, d’osso di grillo, la sferza di filo sottile;<br>il suo cocchiere, un piccolo moscerino dal grigio mantello,<br>non grande la metà d’un vermetto tondo<br>cavato dal dito pigro d’una fanciulla.<br>Il suo cocchio è una nocciola vuota<br>fatta dallo scoiattolo falegname o dal vecchio tarlo,<br>da [[Time|tempo]] immemorabile carrozzai delle fate.<br>E in questo stato ella galoppa di [[Night|notte]] in [[Night|notte]]<br>per i cervelli degli [[lovers|amanti]], ed essi sognano d’[[Love|amore]];<br>sulle ginocchia dei cortigiani, che subito sognano riverenze;<br>sulle labbra delle dame, che subito sognano baci,<br>le quali spesso l’adirata Mab affligge di vesciche<br>perché il loro fiato è guasto di confetti.<br>Talvolta galoppa sul labbro d’un avvocato,<br>e allora egli [[Dreams|sogna]] di fiutare una causa;<br>e talvolta viene con la coda d’un porcello di decima<br>a solleticare il naso d’un parroco mentre dorme;<br>allora egli [[Dreams|sogna]] d’un altro beneficio.<br>Talvolta corre sul collo d’un soldato,<br>e allora egli [[Dreams|sogna]] di tagliare gole straniere,<br>di brecce, d’imboscate, di lame spagnole,<br>di brindisi profondi cinque braccia; e poi d’un tratto |
+| [[Mercutio\|MERCUZIO]] | Suvvia, bigio è il topo, parola propria del conestabile.<br>Se tu sei un ronzino bigio, ti tireremo fuori dal pantano<br>dell’—con rispetto parlando—[[Love\|amore]], in cui sei affondato<br>fino agli orecchi. Su, bruciamo la luce del giorno, olà! |
+| [[Romeo\|ROMEO]] | No, non è così. |
+| [[Mercutio\|MERCUZIO]] | Voglio dire, signore, che nell’indugio<br>sprechiamo invano le nostre luci, come lumi di giorno.<br>Prendete il nostro buon senso, ché il nostro giudizio<br>vi sta cinque volte prima che una nei nostri cinque sensi. |
+| [[Romeo\|ROMEO]] | E abbiamo [[Well\|buona]] intenzione andando a questa [[Masque\|mascherata]],<br>ma non è saggezza andarvi. |
+| [[Mercutio\|MERCUZIO]] | Perché, si può chiedere? |
+| [[Romeo\|ROMEO]] | Ho sognato [[A Dream\|un sogno]] questa notte. |
+| [[Mercutio\|MERCUZIO]] | E anch’io. |
+| [[Romeo\|ROMEO]] | [[Well\|Ebbene]], qual era il tuo? |
+| [[Mercutio\|MERCUZIO]] | Che i sognatori spesso mentono. |
+| [[Romeo\|ROMEO]] | A letto addormentati, mentre sognano cose vere. |
+| [[Mercutio\|MERCUZIO]] | Oh, vedo dunque che la [[Queen\|Regina]] Mab è stata con te. |
+| [[Benvolio\|BENVOLIO]] | La [[Queen\|Regina]] Mab, chi è costei? |
+| [[Mercutio\|MERCUZIO]] | Ella è la levatrice delle fate, e viene<br>in forma non più grande d’una pietra d’agata<br>sull’indice d’un magistrato,<br>tirata da una muta di piccoli atomi<br>attraverso i nasi degli uomini mentre giacciono addormentati.<br>I raggi del suo carro son fatti di zampe di ragni filatori;<br>la coperta, d’ali di cavallette;<br>le tirelle, dei raggi acquosi del chiaro di luna;<br>i collari, della più sottile tela di ragno;<br>la frusta, d’osso di grillo, la sferza di filo sottile;<br>il suo cocchiere, un piccolo moscerino dal grigio mantello,<br>non grande la metà d’un vermetto tondo<br>cavato dal dito pigro d’una fanciulla.<br>Il suo cocchio è una nocciola vuota<br>fatta dallo scoiattolo falegname o dal vecchio tarlo,<br>da [[Time\|tempo]] immemorabile carrozzai delle fate.<br>E in questo stato ella galoppa di [[Night\|notte]] in [[Night\|notte]]<br>per i cervelli degli [[lovers\|amanti]], ed essi sognano d’[[Love\|amore]];<br>sulle ginocchia dei cortigiani, che subito sognano riverenze;<br>sulle labbra delle dame, che subito sognano baci,<br>le quali spesso l’adirata Mab affligge di vesciche<br>perché il loro fiato è guasto di confetti.<br>Talvolta galoppa sul labbro d’un avvocato,<br>e allora egli [[Dreams\|sogna]] di fiutare una causa;<br>e talvolta viene con la coda d’un porcello di decima<br>a solleticare il naso d’un parroco mentre dorme;<br>allora egli [[Dreams\|sogna]] d’un altro beneficio.<br>Talvolta corre sul collo d’un soldato,<br>e allora egli [[Dreams\|sogna]] di tagliare gole straniere,<br>di brecce, d’imboscate, di lame spagnole,<br>di brindisi profondi cinque braccia; e poi d’un tratto |
 | *(didascalia)* | Gli rulla nell’orecchio, al che egli sussulta e si sveglia, |
-| [[Mercutio|MERCUZIO]] | e così spaventato, borbotta una [[Prayer|preghiera]] o due,<br>e torna a dormire. È proprio quella Mab<br>che intreccia le criniere dei cavalli nella [[Night|notte]],<br>e impasta i grovigli degli elfi nelle chiome sudicie e scomposte,<br>che, una volta districati, presagiscono molta sventura.<br>È questa la strega che, quando le fanciulle giacciono supine,<br>le preme e insegna loro per prima cosa a portare il peso,<br>facendone donne di buon portamento.<br>È lei che— |
-| [[Romeo|ROMEO]] | Pace, pace, [[Mercutio|Mercuzio]], pace!<br>Tu parli di nulla. |
-| [[Mercutio|MERCUZIO]] | È vero. Parlo di [[Dreams|sogni]],<br>che sono figli d’un cervello ozioso,<br>generati da nulla se non da vana fantasia,<br>la quale è di sostanza sottile come l’aria,<br>e più incostante del [[Wind|vento]], che corteggia<br>or ora il gelato seno del settentrione,<br>e, adirandosi, soffia via di là,<br>volgendo il viso al mezzogiorno stillante di rugiada. |
-| [[Benvolio|BENVOLIO]] | Questo [[Wind|vento]] di cui parli ci soffia via da noi stessi.<br>La cena è finita, e giungeremo troppo tardi. |
-| [[Romeo|ROMEO]] | Io [[Fear|temo]] troppo presto, ché l’animo mio presagisce<br>che qualche evento ancora sospeso fra le [[Stars|stelle]]<br>comincerà amaramente il suo tremendo corso<br>con i tripudi di questa [[Night|notte]], e spegnerà il termine<br>d’una vita disprezzata, chiusa nel mio petto,<br>con qualche vile pegno d’immatura [[Death|morte]].<br>Ma colui che ha il governo della mia rotta<br>diriga la mia vela! Avanti, gagliardi signori. |
-| [[Benvolio|BENVOLIO]] | Batti, tamburo. |
+| [[Mercutio\|MERCUZIO]] | e così spaventato, borbotta una [[Prayer\|preghiera]] o due,<br>e torna a dormire. È proprio quella Mab<br>che intreccia le criniere dei cavalli nella [[Night\|notte]],<br>e impasta i grovigli degli elfi nelle chiome sudicie e scomposte,<br>che, una volta districati, presagiscono molta sventura.<br>È questa la strega che, quando le fanciulle giacciono supine,<br>le preme e insegna loro per prima cosa a portare il peso,<br>facendone donne di buon portamento.<br>È lei che— |
+| [[Romeo\|ROMEO]] | Pace, pace, [[Mercutio\|Mercuzio]], pace!<br>Tu parli di nulla. |
+| [[Mercutio\|MERCUZIO]] | È vero. Parlo di [[Dreams\|sogni]],<br>che sono figli d’un cervello ozioso,<br>generati da nulla se non da vana fantasia,<br>la quale è di sostanza sottile come l’aria,<br>e più incostante del [[Wind\|vento]], che corteggia<br>or ora il gelato seno del settentrione,<br>e, adirandosi, soffia via di là,<br>volgendo il viso al mezzogiorno stillante di rugiada. |
+| [[Benvolio\|BENVOLIO]] | Questo [[Wind\|vento]] di cui parli ci soffia via da noi stessi.<br>La cena è finita, e giungeremo troppo tardi. |
+| [[Romeo\|ROMEO]] | Io [[Fear\|temo]] troppo presto, ché l’animo mio presagisce<br>che qualche evento ancora sospeso fra le [[Stars\|stelle]]<br>comincerà amaramente il suo tremendo corso<br>con i tripudi di questa [[Night\|notte]], e spegnerà il termine<br>d’una vita disprezzata, chiusa nel mio petto,<br>con qualche vile pegno d’immatura [[Death\|morte]].<br>Ma colui che ha il governo della mia rotta<br>diriga la mia vela! Avanti, gagliardi signori. |
+| [[Benvolio\|BENVOLIO]] | Batti, tamburo. |
 | *(didascalia)* | Marciano intorno alla scena ed escono |
 
 
@@ -1853,79 +1853,79 @@ Exit
 |---|---|
 | *(didascalia)* | Pietro e altri Servi entrano con tovaglioli |
 | *(didascalia)* | PIETRO Dov’è Pentolone, che non aiuta a sparecchiare? |
-| [[Benvolio|BENVOLIO]] | Lui spostare un tagliere, lui raschiare un tagliere! |
+| [[Benvolio\|BENVOLIO]] | Lui spostare un tagliere, lui raschiare un tagliere! |
 | PRIMO SERVO | Quando le buone maniere staranno tutte nelle mani<br>d’uno o due uomini, e per giunta non lavate, è cosa<br>sudicia. |
-| *(didascalia)* | PIETRO Via gli sgabelli, spostate la [[Court|corte]]– |
+| *(didascalia)* | PIETRO Via gli sgabelli, spostate la [[Court\|corte]]– |
 | PRIMO SERVO | credenza, bada all’argenteria. Da bravo, serbami un pezzo<br>di marzapane, e, se mi vuoi bene, fa’ che il portiere lasci entrare<br>Susanna Macina e Nella. Antonio e Pentolone! |
 | SECONDO SERVO | Sì, ragazzo, pronti. |
 | *(didascalia)* | PIETRO Siete cercati e chiamati, richiesti e |
 | SECONDO SERVO | ricercati, nella sala grande. |
 | *(didascalia)* | PRIMO SERVO Non possiamo essere qui e là insieme. |
 | SECONDO SERVO | Allegri, ragazzi! Siate svelti per un poco, e chi vive più a lungo si prenda tutto. |
-| *(didascalia)* | Vanno e vengono, disponendo tavoli e sedie. Entrano i Musicanti, poi da una porta [[Capulet|Capuleti]], sua Moglie, suo Cugino, [[Juliet|Giulietta]]., la [[Nurse|Nutrice]], [[Tybalt|Tebaldo]], il suo paggio, Petruccio, e tutti gli ospiti e le gentildonne; da un’altra porta, i mascherati: [[Romeo]], [[Benvolio]] e [[Mercutio|Mercuzio]] |
-| [[Capulet|CAPULETI]] | (ai mascherati)<br>Benvenuti, signori. Le dame che hanno le dita<br>non tormentate dai calli faranno un giro con voi.<br>Ahah, mie signore, chi di voi tutte<br>rifiuterà ora di [[Dance|danzare]]? Quella che fa la schizzinosa,<br>quella, lo giuro, ha i calli. V’ho colte nel segno adesso?<br>Benvenuti, signori. Ho visto il giorno<br>in cui portavo anch’io la maschera, e sapevo sussurrare<br>una storia all’orecchio d’una bella dama<br>tale da piacere. È passato, è passato, è passato.<br>Siate i benvenuti, signori. Su, musicanti, suonate. |
-| *(didascalia)* | La musica suona, e i mascherati, gli ospiti e le gentildonne [[Dance|danzano]]. [[Romeo]] resta in disparte |
-| [[Capulet|CAPULETI]] | Largo, largo! Fate posto, e battete il piede, ragazze.<br>(Ai Servi) Più luce, furfanti, e rovesciate i<br>tavoli,<br>e spegnete il [[Fire|fuoco]], la sala è divenuta troppo calda.<br>(Al Cugino) Ah messere, questo spasso inatteso capita<br>[[Well|bene]].<br>Ma sedete, sedete, buon cugino [[Capulet|Capuleti]],<br>ché per voi e per me i giorni della danza son passati. |
-| *(didascalia)* | [[Capulet|Capuleti]] e suo Cugino si siedono |
-| [[Capulet|CAPULETI]] | Quanto tempo è ora da quando voi ed io<br>fummo l’ultima volta in una [[Masque|mascherata]]? |
-| IL CUGINO DI [[Capulet|CAPULETI]] | Per la Madonna, trent’anni. |
-| [[Capulet|CAPULETI]] | Ma no, amico, non è tanto, non è tanto.<br>È dalle nozze di [[Lucentio|Lucenzio]],<br>venga la Pentecoste presto quanto vuole,<br>circa venticinque anni; e allora ci mascherammo. |
-| IL CUGINO DI [[Capulet|CAPULETI]] | È di più, è di più. Suo figlio è più vecchio, signore.<br>Suo figlio ha trent’anni. |
-| [[Capulet|CAPULETI]] | Volete dirmi questo?<br>Suo figlio era ancora sotto tutela due anni fa. |
-| [[Romeo|ROMEO]] | (a un Servo)<br>Chi è quella dama che arricchisce la mano di quel cavaliere laggiù? |
+| *(didascalia)* | Vanno e vengono, disponendo tavoli e sedie. Entrano i Musicanti, poi da una porta [[Capulet\|Capuleti]], sua Moglie, suo Cugino, [[Juliet\|Giulietta]]., la [[Nurse\|Nutrice]], [[Tybalt\|Tebaldo]], il suo paggio, Petruccio, e tutti gli ospiti e le gentildonne; da un’altra porta, i mascherati: [[Romeo]], [[Benvolio]] e [[Mercutio\|Mercuzio]] |
+| [[Capulet\|CAPULETI]] | (ai mascherati)<br>Benvenuti, signori. Le dame che hanno le dita<br>non tormentate dai calli faranno un giro con voi.<br>Ahah, mie signore, chi di voi tutte<br>rifiuterà ora di [[Dance\|danzare]]? Quella che fa la schizzinosa,<br>quella, lo giuro, ha i calli. V’ho colte nel segno adesso?<br>Benvenuti, signori. Ho visto il giorno<br>in cui portavo anch’io la maschera, e sapevo sussurrare<br>una storia all’orecchio d’una bella dama<br>tale da piacere. È passato, è passato, è passato.<br>Siate i benvenuti, signori. Su, musicanti, suonate. |
+| *(didascalia)* | La musica suona, e i mascherati, gli ospiti e le gentildonne [[Dance\|danzano]]. [[Romeo]] resta in disparte |
+| [[Capulet\|CAPULETI]] | Largo, largo! Fate posto, e battete il piede, ragazze.<br>(Ai Servi) Più luce, furfanti, e rovesciate i<br>tavoli,<br>e spegnete il [[Fire\|fuoco]], la sala è divenuta troppo calda.<br>(Al Cugino) Ah messere, questo spasso inatteso capita<br>[[Well\|bene]].<br>Ma sedete, sedete, buon cugino [[Capulet\|Capuleti]],<br>ché per voi e per me i giorni della danza son passati. |
+| *(didascalia)* | [[Capulet\|Capuleti]] e suo Cugino si siedono |
+| [[Capulet\|CAPULETI]] | Quanto tempo è ora da quando voi ed io<br>fummo l’ultima volta in una [[Masque\|mascherata]]? |
+| IL CUGINO DI [[Capulet\|CAPULETI]] | Per la Madonna, trent’anni. |
+| [[Capulet\|CAPULETI]] | Ma no, amico, non è tanto, non è tanto.<br>È dalle nozze di [[Lucentio\|Lucenzio]],<br>venga la Pentecoste presto quanto vuole,<br>circa venticinque anni; e allora ci mascherammo. |
+| IL CUGINO DI [[Capulet\|CAPULETI]] | È di più, è di più. Suo figlio è più vecchio, signore.<br>Suo figlio ha trent’anni. |
+| [[Capulet\|CAPULETI]] | Volete dirmi questo?<br>Suo figlio era ancora sotto tutela due anni fa. |
+| [[Romeo\|ROMEO]] | (a un Servo)<br>Chi è quella dama che arricchisce la mano di quel cavaliere laggiù? |
 | SERVO | Non lo so, signore. |
-| [[Romeo|ROMEO]] | Oh, ella insegna alle torce ad ardere luminose!<br>Par ch’ella penda sulla guancia della [[Night|notte]]<br>come un ricco [[Jewel|gioiello]] all’orecchio d’un’etiope—<br>[[Beauty|bellezza]] troppo ricca per l’uso, per la terra troppo cara.<br>Come una nivea colomba in mezzo alle cornacchie<br>così quella dama spicca sopra le compagne.<br>Finita la danza, osserverò dove si ferma,<br>e, toccando la sua, farò benedetta la mia rozza mano.<br>[[Love|Amò]] il mio cuore fino ad ora? Rinnegalo, o vista,<br>ché mai vidi vera [[Beauty|bellezza]] prima di questa [[Night|notte]]. |
-| [[Tybalt|TEBALDO]] | Costui, dalla voce, dev’essere un Montecchi. |
+| [[Romeo\|ROMEO]] | Oh, ella insegna alle torce ad ardere luminose!<br>Par ch’ella penda sulla guancia della [[Night\|notte]]<br>come un ricco [[Jewel\|gioiello]] all’orecchio d’un’etiope—<br>[[Beauty\|bellezza]] troppo ricca per l’uso, per la terra troppo cara.<br>Come una nivea colomba in mezzo alle cornacchie<br>così quella dama spicca sopra le compagne.<br>Finita la danza, osserverò dove si ferma,<br>e, toccando la sua, farò benedetta la mia rozza mano.<br>[[Love\|Amò]] il mio cuore fino ad ora? Rinnegalo, o vista,<br>ché mai vidi vera [[Beauty\|bellezza]] prima di questa [[Night\|notte]]. |
+| [[Tybalt\|TEBALDO]] | Costui, dalla voce, dev’essere un Montecchi. |
 | *(didascalia)* | Portami il mio stocco, ragazzo. Esce il paggio |
-| [[Tybalt|TEBALDO]] | Come, osa lo schiavo<br>venir qui, coperto d’un volto buffonesco,<br>a sogghignare e schernire la nostra solennità?<br>Ora, per il ceppo e l’[[Honour|onore]] della mia stirpe,<br>abbatterlo morto non lo tengo per peccato. |
-| *(didascalia)* | [[Capulet|CAPULETI]] alzandosi |
-| [[Tybalt|TEBALDO]] | Ebbene, che c’è, parente? Perché [[Storm|infuriate]] così? |
-| [[Tybalt|TEBALDO]] | Zio, questo è un Montecchi, nostro nemico,<br>uno [[Villain|scellerato]] venuto qui per dispetto<br>a schernire la nostra solennità questa [[Night|notte]]. |
-| [[Capulet|CAPULETI]] | Il giovane [[Romeo]], è lui? |
-| [[Tybalt|TEBALDO]] | È lui, quello [[Villain|scellerato]] di [[Romeo]]. |
-| [[Capulet|CAPULETI]] | Càlmati, gentile cugino, lascialo [[Alone|in pace]].<br>Si comporta da gentiluomo dignitoso,<br>e, a dire il [[Truth|vero]], [[Verona]] si vanta di lui<br>come d’un giovane virtuoso e [[Well|ben]] governato.<br>Non vorrei per tutte le ricchezze di questa città<br>fargli qui nella mia [[house|casa]] alcun oltraggio.<br>Perciò sii paziente, non far caso di lui.<br>È il mio volere; e se tu lo rispetti,<br>mostra bel viso e deponi questo cipiglio,<br>sembianza che mal si addice a una festa. |
-| [[Tybalt|TEBALDO]] | Si addice quando un tale [[Villain|scellerato]] è ospite.<br>Non lo sopporterò. |
-| [[Capulet|CAPULETI]] | Sarà sopportato.<br>Come, ragazzo mio bello, dico che lo sarà. Suvvia,<br>sono io il padrone qui o voi ? Suvvia—<br>Non lo sopporterete! Dio salvi l’[[Soul|anima]] mia.<br>Farete un ammutinamento fra i miei ospiti,<br>metterete tutto sottosopra! Sarete voi l’uomo! |
-| [[Tybalt|TEBALDO]] | Ma zio, è una vergogna. |
-| [[Capulet|CAPULETI]] | Suvvia, suvvia,<br>siete un ragazzo insolente. È così, davvero?<br>Questo scherzo potrebbe nuocervi. So io quel che dico,<br>dovete contraddirmi. Davvero, è [[Time|ora]]— |
-| *(didascalia)* | Una [[Dance|danza]] finisce. [[Juliet|Giulietta]] si ritira al suo posto, dove [[Romeo]] l’attende |
-| [[Capulet|CAPULETI]] | (Agli ospiti) [[Well|Ben]] detto, cuori miei! (A [[Tybalt|Tebaldo]]) Siete<br>un gallettino, andate.<br>State quieto, o—(ai Servi) più luce, più luce!—<br>(a [[Tybalt|Tebaldo]]) vergogna,<br>vi farò star quieto io. (Agli ospiti) Su, allegri, cuori<br>miei! |
-| *(didascalia)* | La musica riprende, e gli ospiti [[Dance|danzano]] |
-| [[Tybalt|TEBALDO]] | La pazienza forzata incontrandosi con la collera ostinata<br>fa tremare la mia carne nel loro diverso saluto.<br>Mi ritirerò; ma questa intrusione, che ora<br>sembra dolce, si [[convert|muterà]] in amarissimo fiele. Esce |
-| [[Romeo|ROMEO]] | (a [[Juliet|Giulietta]], toccandole la mano)<br>Se profano con la mia indegnissima mano<br>questo sacro altare, ecco la più gentile ammenda:<br>le mie labbra, due pellegrini arrossenti, stanno pronte<br>a lisciare quel ruvido tocco con un tenero bacio. |
-| [[Juliet|GIULIETTA]] | Buon [[Pilgrim|pellegrino]], fate troppo torto alla vostra mano,<br>che in questo mostra cortese devozione.<br>Ché i santi hanno mani che le mani dei pellegrini toccano,<br>e palma a palma è il bacio dei santi palmieri. |
-| [[Romeo|ROMEO]] | Non hanno labbra i santi, e anche i santi palmieri? |
-| [[Juliet|GIULIETTA]] | Sì, [[Pilgrim|pellegrino]], labbra che devono usare in [[Prayer|preghiera]]. |
-| [[Romeo|ROMEO]] | Oh allora, cara santa, facciano le labbra ciò che fan le mani:<br>esse pregano; concedi tu, ché la [[Faith|fede]] non si muti in [[Despair|disperazione]]. |
-| [[Juliet|GIULIETTA]] | I santi non si muovono, benché concedano per amor delle preghiere. |
-| [[Romeo|ROMEO]] | Allora non muoverti mentre colgo l’effetto della mia [[Prayer|preghiera]].<br>La bacia<br>Così dalle mie labbra, per le tue, il mio peccato è purgato. |
-| [[Juliet|GIULIETTA]] | Allora le mie labbra hanno il peccato che han preso. |
-| [[Romeo|ROMEO]] | Peccato dalle mie labbra? O colpa dolcemente imputata! Rendimi il mio peccato.<br>La bacia |
-| [[Juliet|GIULIETTA]] | Voi baciate secondo il libro. |
-| [[Nurse|NUTRICE]] | Madonna, vostra madre chiede una parola con voi. |
-| *(didascalia)* | [[Juliet|Giulietta]] si allontana verso sua madre |
-| [[Romeo|ROMEO]] | Chi è sua madre? |
-| [[Nurse|NUTRICE]] | Davvero, giovanotto,<br>sua madre è la signora della [[house|casa]],<br>e una buona signora, e saggia e virtuosa.<br>Io allattai la figlia con cui parlavate.<br>Vi dico: chi riuscirà ad averla<br>avrà i quattrini sonanti. |
-| [[Romeo|ROMEO]] | (a parte) È una [[Capulet|Capuleti]]?<br>O caro conto! La mia vita è debito del mio nemico. |
-| [[Benvolio|BENVOLIO]] | Via, andiamocene, lo spasso è al suo meglio. |
-| [[Romeo|ROMEO]] | Sì, così [[Fear|temo]], e tanto maggiore è la mia inquietudine. |
-| [[Capulet|CAPULETI]] | No, signori, non preparatevi ad andar via.<br>Abbiamo in serbo un piccolo sciocco banchetto. |
+| [[Tybalt\|TEBALDO]] | Come, osa lo schiavo<br>venir qui, coperto d’un volto buffonesco,<br>a sogghignare e schernire la nostra solennità?<br>Ora, per il ceppo e l’[[Honour\|onore]] della mia stirpe,<br>abbatterlo morto non lo tengo per peccato. |
+| *(didascalia)* | [[Capulet\|CAPULETI]] alzandosi |
+| [[Tybalt\|TEBALDO]] | Ebbene, che c’è, parente? Perché [[Storm\|infuriate]] così? |
+| [[Tybalt\|TEBALDO]] | Zio, questo è un Montecchi, nostro nemico,<br>uno [[Villain\|scellerato]] venuto qui per dispetto<br>a schernire la nostra solennità questa [[Night\|notte]]. |
+| [[Capulet\|CAPULETI]] | Il giovane [[Romeo]], è lui? |
+| [[Tybalt\|TEBALDO]] | È lui, quello [[Villain\|scellerato]] di [[Romeo]]. |
+| [[Capulet\|CAPULETI]] | Càlmati, gentile cugino, lascialo [[Alone\|in pace]].<br>Si comporta da gentiluomo dignitoso,<br>e, a dire il [[Truth\|vero]], [[Verona]] si vanta di lui<br>come d’un giovane virtuoso e [[Well\|ben]] governato.<br>Non vorrei per tutte le ricchezze di questa città<br>fargli qui nella mia [[house\|casa]] alcun oltraggio.<br>Perciò sii paziente, non far caso di lui.<br>È il mio volere; e se tu lo rispetti,<br>mostra bel viso e deponi questo cipiglio,<br>sembianza che mal si addice a una festa. |
+| [[Tybalt\|TEBALDO]] | Si addice quando un tale [[Villain\|scellerato]] è ospite.<br>Non lo sopporterò. |
+| [[Capulet\|CAPULETI]] | Sarà sopportato.<br>Come, ragazzo mio bello, dico che lo sarà. Suvvia,<br>sono io il padrone qui o voi ? Suvvia—<br>Non lo sopporterete! Dio salvi l’[[Soul\|anima]] mia.<br>Farete un ammutinamento fra i miei ospiti,<br>metterete tutto sottosopra! Sarete voi l’uomo! |
+| [[Tybalt\|TEBALDO]] | Ma zio, è una vergogna. |
+| [[Capulet\|CAPULETI]] | Suvvia, suvvia,<br>siete un ragazzo insolente. È così, davvero?<br>Questo scherzo potrebbe nuocervi. So io quel che dico,<br>dovete contraddirmi. Davvero, è [[Time\|ora]]— |
+| *(didascalia)* | Una [[Dance\|danza]] finisce. [[Juliet\|Giulietta]] si ritira al suo posto, dove [[Romeo]] l’attende |
+| [[Capulet\|CAPULETI]] | (Agli ospiti) [[Well\|Ben]] detto, cuori miei! (A [[Tybalt\|Tebaldo]]) Siete<br>un gallettino, andate.<br>State quieto, o—(ai Servi) più luce, più luce!—<br>(a [[Tybalt\|Tebaldo]]) vergogna,<br>vi farò star quieto io. (Agli ospiti) Su, allegri, cuori<br>miei! |
+| *(didascalia)* | La musica riprende, e gli ospiti [[Dance\|danzano]] |
+| [[Tybalt\|TEBALDO]] | La pazienza forzata incontrandosi con la collera ostinata<br>fa tremare la mia carne nel loro diverso saluto.<br>Mi ritirerò; ma questa intrusione, che ora<br>sembra dolce, si [[convert\|muterà]] in amarissimo fiele. Esce |
+| [[Romeo\|ROMEO]] | (a [[Juliet\|Giulietta]], toccandole la mano)<br>Se profano con la mia indegnissima mano<br>questo sacro altare, ecco la più gentile ammenda:<br>le mie labbra, due pellegrini arrossenti, stanno pronte<br>a lisciare quel ruvido tocco con un tenero bacio. |
+| [[Juliet\|GIULIETTA]] | Buon [[Pilgrim\|pellegrino]], fate troppo torto alla vostra mano,<br>che in questo mostra cortese devozione.<br>Ché i santi hanno mani che le mani dei pellegrini toccano,<br>e palma a palma è il bacio dei santi palmieri. |
+| [[Romeo\|ROMEO]] | Non hanno labbra i santi, e anche i santi palmieri? |
+| [[Juliet\|GIULIETTA]] | Sì, [[Pilgrim\|pellegrino]], labbra che devono usare in [[Prayer\|preghiera]]. |
+| [[Romeo\|ROMEO]] | Oh allora, cara santa, facciano le labbra ciò che fan le mani:<br>esse pregano; concedi tu, ché la [[Faith\|fede]] non si muti in [[Despair\|disperazione]]. |
+| [[Juliet\|GIULIETTA]] | I santi non si muovono, benché concedano per amor delle preghiere. |
+| [[Romeo\|ROMEO]] | Allora non muoverti mentre colgo l’effetto della mia [[Prayer\|preghiera]].<br>La bacia<br>Così dalle mie labbra, per le tue, il mio peccato è purgato. |
+| [[Juliet\|GIULIETTA]] | Allora le mie labbra hanno il peccato che han preso. |
+| [[Romeo\|ROMEO]] | Peccato dalle mie labbra? O colpa dolcemente imputata! Rendimi il mio peccato.<br>La bacia |
+| [[Juliet\|GIULIETTA]] | Voi baciate secondo il libro. |
+| [[Nurse\|NUTRICE]] | Madonna, vostra madre chiede una parola con voi. |
+| *(didascalia)* | [[Juliet\|Giulietta]] si allontana verso sua madre |
+| [[Romeo\|ROMEO]] | Chi è sua madre? |
+| [[Nurse\|NUTRICE]] | Davvero, giovanotto,<br>sua madre è la signora della [[house\|casa]],<br>e una buona signora, e saggia e virtuosa.<br>Io allattai la figlia con cui parlavate.<br>Vi dico: chi riuscirà ad averla<br>avrà i quattrini sonanti. |
+| [[Romeo\|ROMEO]] | (a parte) È una [[Capulet\|Capuleti]]?<br>O caro conto! La mia vita è debito del mio nemico. |
+| [[Benvolio\|BENVOLIO]] | Via, andiamocene, lo spasso è al suo meglio. |
+| [[Romeo\|ROMEO]] | Sì, così [[Fear\|temo]], e tanto maggiore è la mia inquietudine. |
+| [[Capulet\|CAPULETI]] | No, signori, non preparatevi ad andar via.<br>Abbiamo in serbo un piccolo sciocco banchetto. |
 | *(didascalia)* | Gli sussurrano all’orecchio |
-| [[Capulet|CAPULETI]] | È proprio così? Ebbene, vi ringrazio tutti.<br>Vi ringrazio, onesti signori. Buona [[Night|notte]].<br>Più torce qui ! Su dunque, andiamo a letto.<br>(Al Cugino) Ah, messere, in fede mia, si fa tardi.<br>Vado al mio riposo. |
-| *(didascalia)* | Escono [[Capulet|Capuleti]], sua Moglie e suo Cugino. Gli ospiti, le gentildonne, i mascherati, i musicanti e i servi cominciano ad andarsene |
-| [[Juliet|GIULIETTA]] | Vieni qua, [[Nurse|Nutrice]]. Chi è quel gentiluomo? |
-| [[Nurse|NUTRICE]] | Il figlio ed erede del vecchio Tiberio. |
-| [[Juliet|GIULIETTA]] | Chi è quello che ora esce dalla porta? |
-| [[Nurse|NUTRICE]] | Davvero, quello, credo, è il giovane Petruccio. |
-| [[Juliet|GIULIETTA]] | Chi è quello che segue qui, che non volle [[Dance|danzare]]? |
-| [[Nurse|NUTRICE]] | Non lo so. |
-| [[Juliet|GIULIETTA]] | Va’ a chiedere il suo nome.<br>La [[Nurse|Nutrice]] va<br>Se è sposato,<br>la mia [[Grave|tomba]] sarà forse il mio letto nuziale. |
-| [[Nurse|NUTRICE]] | (tornando)<br>Il suo nome è [[Romeo]], ed è un Montecchi,<br>l’unico figlio del vostro grande nemico. |
-| *(didascalia)* | [[Juliet|GIULIETTA]] a parte |
-| [[Nurse|NUTRICE]] | Il mio solo [[Love|amore]] nato dal mio solo odio!<br>Troppo presto veduto ignoto, e conosciuto troppo tardi!<br>Prodigiosa nascita d’[[Love|amore]] è per me<br>ch’io debba [[Love|amare]] un nemico odiato. |
-| [[Nurse|NUTRICE]] | Che è questo? che è questo? |
-| [[Juliet|GIULIETTA]] | Una rima che ho imparato or ora<br>da uno con cui ho danzato.<br>Uno chiama dall’interno ‘[[Juliet|Giulietta]]!’ |
-| [[Nurse|NUTRICE]] | Subito, subito.<br>Su, andiamo. Gli estranei se ne sono andati tutti. Escono |
+| [[Capulet\|CAPULETI]] | È proprio così? Ebbene, vi ringrazio tutti.<br>Vi ringrazio, onesti signori. Buona [[Night\|notte]].<br>Più torce qui ! Su dunque, andiamo a letto.<br>(Al Cugino) Ah, messere, in fede mia, si fa tardi.<br>Vado al mio riposo. |
+| *(didascalia)* | Escono [[Capulet\|Capuleti]], sua Moglie e suo Cugino. Gli ospiti, le gentildonne, i mascherati, i musicanti e i servi cominciano ad andarsene |
+| [[Juliet\|GIULIETTA]] | Vieni qua, [[Nurse\|Nutrice]]. Chi è quel gentiluomo? |
+| [[Nurse\|NUTRICE]] | Il figlio ed erede del vecchio Tiberio. |
+| [[Juliet\|GIULIETTA]] | Chi è quello che ora esce dalla porta? |
+| [[Nurse\|NUTRICE]] | Davvero, quello, credo, è il giovane Petruccio. |
+| [[Juliet\|GIULIETTA]] | Chi è quello che segue qui, che non volle [[Dance\|danzare]]? |
+| [[Nurse\|NUTRICE]] | Non lo so. |
+| [[Juliet\|GIULIETTA]] | Va’ a chiedere il suo nome.<br>La [[Nurse\|Nutrice]] va<br>Se è sposato,<br>la mia [[Grave\|tomba]] sarà forse il mio letto nuziale. |
+| [[Nurse\|NUTRICE]] | (tornando)<br>Il suo nome è [[Romeo]], ed è un Montecchi,<br>l’unico figlio del vostro grande nemico. |
+| *(didascalia)* | [[Juliet\|GIULIETTA]] a parte |
+| [[Nurse\|NUTRICE]] | Il mio solo [[Love\|amore]] nato dal mio solo odio!<br>Troppo presto veduto ignoto, e conosciuto troppo tardi!<br>Prodigiosa nascita d’[[Love\|amore]] è per me<br>ch’io debba [[Love\|amare]] un nemico odiato. |
+| [[Nurse\|NUTRICE]] | Che è questo? che è questo? |
+| [[Juliet\|GIULIETTA]] | Una rima che ho imparato or ora<br>da uno con cui ho danzato.<br>Uno chiama dall’interno ‘[[Juliet\|Giulietta]]!’ |
+| [[Nurse\|NUTRICE]] | Subito, subito.<br>Su, andiamo. Gli estranei se ne sono andati tutti. Escono |
 
 
 
@@ -1942,8 +1942,8 @@ Exit
 
 | Chi parla | Battuta |
 |---|---|
-| *(didascalia)* | Entra il [[Chorus|Coro]] |
-| [[Chorus|CORO]] | Ora il vecchio [[Desire|desiderio]] giace sul suo letto di morte,<br>e il giovane affetto anela a esserne l’erede.<br>Quella bella per cui l’[[Love|amore]] gemeva e voleva morire,<br>paragonata alla tenera [[Juliet|Giulietta]], non è più bella.<br>Ora [[Romeo]] è amato e riama,<br>ugualmente ammaliati dall’incanto degli sguardi;<br>ma alla sua presunta nemica egli deve lagnarsi,<br>ed ella rubare la dolce esca dell’[[Love|amore]] da ami paurosi.<br>Tenuto per nemico, non gli è dato accesso<br>a spirare quei voti che gli [[lovers|amanti]] sogliono giurare,<br>ed ella, altrettanto in [[Love|amore]], ha mezzi assai minori<br>d’incontrare in alcun luogo il suo nuovo diletto.<br>Ma la passione dà loro forza, il [[Time|tempo]] modo, d’incontrarsi,<br>temperando gli estremi con estrema dolcezza. Esce |
+| *(didascalia)* | Entra il [[Chorus\|Coro]] |
+| [[Chorus\|CORO]] | Ora il vecchio [[Desire\|desiderio]] giace sul suo letto di morte,<br>e il giovane affetto anela a esserne l’erede.<br>Quella bella per cui l’[[Love\|amore]] gemeva e voleva morire,<br>paragonata alla tenera [[Juliet\|Giulietta]], non è più bella.<br>Ora [[Romeo]] è amato e riama,<br>ugualmente ammaliati dall’incanto degli sguardi;<br>ma alla sua presunta nemica egli deve lagnarsi,<br>ed ella rubare la dolce esca dell’[[Love\|amore]] da ami paurosi.<br>Tenuto per nemico, non gli è dato accesso<br>a spirare quei voti che gli [[lovers\|amanti]] sogliono giurare,<br>ed ella, altrettanto in [[Love\|amore]], ha mezzi assai minori<br>d’incontrare in alcun luogo il suo nuovo diletto.<br>Ma la passione dà loro forza, il [[Time\|tempo]] modo, d’incontrarsi,<br>temperando gli estremi con estrema dolcezza. Esce |
 
 
 
@@ -2039,84 +2039,84 @@ Exit
 | Chi parla | Battuta |
 |---|---|
 | *(didascalia)* | Entra [[Romeo]] |
-| [[Romeo|ROMEO]] | Posso andare avanti quando il mio cuore è qui?<br>Torna indietro, ottusa terra, e trova il tuo centro. |
+| [[Romeo\|ROMEO]] | Posso andare avanti quando il mio cuore è qui?<br>Torna indietro, ottusa terra, e trova il tuo centro. |
 | *(didascalia)* | Torna indietro e si ritira. |
-| *(didascalia)* | Entra [[Benvolio]] con [[Mercutio|Mercuzio]] |
-| [[Benvolio|BENVOLIO]] | (chiamando)<br>[[Romeo]], cugino mio [[Romeo]], [[Romeo]]! |
-| [[Mercutio|MERCUZIO]] | È saggio, e, sulla mia vita, se n’è sgattaiolato a [[Home|casa]] a letto. |
-| [[Benvolio|BENVOLIO]] | È corso da questa parte, e ha scavalcato il muro di questo frutteto. Chiama, buon [[Mercutio|Mercuzio]]. |
-| *(didascalia)* | [[Mercutio|MERCUZIO]] Anzi, farò anche uno scongiuro. |
-| [[Benvolio|BENVOLIO]] | [[Romeo]]! Umori! Pazzo! Passione! [[Lover|Amante]]!<br>Apparici in sembianza d’un sospiro.<br>Di’ una sola rima e sarò soddisfatto.<br>Grida soltanto ‘Ahimè!’ Pronuncia solo ‘[[Love|amore]]’ e ‘cuore’.<br>Di’ alla mia comare [[Venus|Venere]] una bella parola,<br>un soprannome per il suo cieco figlio ed erede,<br>il giovane Adamo Cupido, quello che tirò così giusto<br>quando il [[King|re]] Cofetua amò la mendicante.—<br>Non ode, non si scuote, non si muove.<br>La scimmia è morta, e devo scongiurarla.—<br>Ti scongiuro per i lucenti occhi di [[Rosaline|Rosalina]],<br>per la sua alta fronte e il suo labbro scarlatto,<br>per il suo bel piede, la gamba dritta e la coscia fremente,<br>e per i domini che là accanto si stendono,<br>che nella tua sembianza tu ci appaia. |
-| [[Benvolio|BENVOLIO]] | E se ti sente, lo farai adirare. |
-| [[Mercutio|MERCUZIO]] | Questo non può adirarlo. Lo adirerebbe<br>evocare uno spirito nel cerchio della sua dama<br>di qualche strana [[Nature|natura]], lasciandolo là ritto<br>finch’ella non l’avesse abbattuto e scongiurato giù.<br>Quello sì sarebbe dispetto. La mia invocazione<br>è leale e onesta. In nome della sua dama,<br>io scongiuro soltanto per far levare lui. |
-| [[Benvolio|BENVOLIO]] | Via, s’è nascosto fra questi alberi<br>per farsi compagno dell’umorosa [[Night|notte]].<br>Cieco è il suo [[Love|amore]], e meglio gli si addice il buio. |
-| [[Mercutio|MERCUZIO]] | Se l’[[Love|amore]] è cieco, l’[[Love|amore]] non può colpire il segno.<br>Ora se ne starà seduto sotto un nespolo<br>a desiderare che la sua dama fosse quella sorta di frutto<br>che le fanciulle chiaman nespole quando ridono [[Alone|da sole]].<br>O [[Romeo]], ch’ella fosse, oh ch’ella fosse<br>una nespola aperta, e tu una pera picciolina.<br>[[Romeo]], buona [[Night|notte]]. Io me ne vado al mio lettuccio.<br>Questo letto di campo è troppo freddo perché io possa [[Sleep|dormire]].<br>Su, ce ne andiamo? |
-| [[Benvolio|BENVOLIO]] | Andiamo dunque, ché è vano<br>cercar qui chi non vuole essere trovato. |
-| *(didascalia)* | Escono [[Benvolio]] e [[Mercutio|Mercuzio]] |
-| *(didascalia)* | [[Romeo|ROMEO]] facendosi avanti |
-| [[Benvolio|BENVOLIO]] | Si burla delle cicatrici chi non provò mai ferita.<br>Ma piano, qual luce irrompe da quella [[Window|finestra]] lassù?<br>È l’oriente, e [[Juliet|Giulietta]] è il sole.<br>Sorgi, bel sole, e uccidi l’invidiosa [[Moon|luna]],<br>che è già malata e pallida di dolore<br>perché tu, sua ancella, sei assai più bella di lei.<br>Non essere sua ancella, poiché è invidiosa.<br>La sua livrea vestale non è che malaticcia e verde,<br>e nessuno la porta se non gli sciocchi; gettala via. |
-| *(didascalia)* | Entra [[Juliet|Giulietta]] in alto |
-| [[Benvolio|BENVOLIO]] | È la mia dama, oh, è il mio [[Love|amore]].<br>Oh, se sapesse d’esserlo!<br>Ella parla, eppure non dice nulla. Che importa?<br>Il suo occhio discorre; io gli risponderò.<br>Sono troppo ardito. Non è a me ch’ella parla.<br>Due fra le più belle [[Stars|stelle]] di tutto il cielo,<br>avendo qualche faccenda, supplicano i suoi occhi<br>di brillare nelle loro sfere finché ritornino.<br>E se i suoi occhi fossero lassù, ed esse nel suo capo?—<br>Lo splendore della sua guancia farebbe vergognare quelle [[Stars|stelle]]<br>come il giorno una lampada; il suo occhio in cielo<br>irraggerebbe per la regione aerea così luminoso<br>che gli [[Birds|uccelli]] canterebbero credendo che non fosse [[Night|notte]].<br>Guarda come appoggia la guancia sulla mano.<br>Oh, foss’io un guanto su quella mano,<br>per poter toccare quella guancia! |
-| [[Juliet|GIULIETTA]] | Ahimè. |
-| [[Romeo|ROMEO]] | (a parte) Ella parla.<br>Oh, parla ancora, angelo luminoso; ché tu sei<br>a questa [[Night|notte]] gloriosa, stando sopra il mio capo,<br>come un alato messaggero del cielo<br>ai bianchi occhi rivolti in su, meravigliati,<br>dei mortali che cadono riversi a contemplarlo<br>quando egli cavalca le nubi che passano pigre<br>e veleggia sul seno dell’aria. |
-| [[Juliet|GIULIETTA]] | (non sapendo che [[Romeo]] l’ascolta)<br>O [[Romeo]], [[Romeo]], perché sei tu [[Romeo]]?<br>Rinnega tuo padre e rifiuta il tuo nome,<br>o se non vuoi, giurati soltanto mio [[Love|amore]],<br>e io non sarò più una [[Capulet|Capuleti]]. |
-| [[Romeo|ROMEO]] | (a parte)<br>Devo udire ancora, o devo parlare a questo punto? |
-| [[Juliet|GIULIETTA]] | È solo il tuo nome che m’è nemico.<br>Tu sei te stesso, anche non essendo un Montecchi.<br>Che cos’è Montecchi? Non è né mano, né piede,<br>né braccio, né viso, né alcun’altra parte<br>appartenente a un uomo. Oh, sii qualche altro nome!<br>Che c’è in un nome? Quella che chiamiamo [[Rose|rosa]]<br>con qualunque altra parola avrebbe lo stesso dolce profumo.<br>Così [[Romeo]], se non si chiamasse [[Romeo]],<br>serberebbe quella cara perfezione che possiede<br>senza quel titolo. [[Romeo]], deponi il tuo nome,<br>e in cambio del tuo nome—che non è parte di te—<br>prenditi tutta me stessa. |
-| [[Romeo|ROMEO]] | (a [[Juliet|Giulietta]]) Ti prendo in parola.<br>Chiamami solo [[Love|amore]] e sarò battezzato di nuovo.<br>D’ora innanzi non sarò mai più [[Romeo]]. |
-| [[Juliet|GIULIETTA]] | Chi sei tu che, così celato nella [[Night|notte]],<br>inciampi in tal modo nel mio segreto? |
-| [[Romeo|ROMEO]] | Con un nome<br>non so come dirti chi io sia.<br>Il mio nome, cara santa, è odioso a me stesso<br>perché è nemico a te.<br>L’avessi scritto, straccerei la parola. |
-| [[Juliet|GIULIETTA]] | I miei orecchi non hanno ancora bevuto cento parole<br>uscite dalla tua lingua, eppure ne conosco il suono.<br>Non sei tu [[Romeo]], e un Montecchi? |
-| [[Romeo|ROMEO]] | Né l’uno né l’altro, bella fanciulla, se l’uno o l’altro ti dispiace. |
-| [[Juliet|GIULIETTA]] | Come sei giunto qui, dimmi, e perché?<br>I muri del frutteto sono alti e difficili da scalare,<br>e il luogo è [[Death|morte]], considerando chi tu sei,<br>se qualcuno dei miei parenti ti trova qui. |
-| [[Romeo|ROMEO]] | Con le lievi ali dell’[[Love|amore]] ho valicato questi muri,<br>ché limiti di pietra non possono tener fuori l’[[Love|amore]],<br>e ciò che l’[[Love|amore]] può fare, l’[[Love|amore]] osa tentarlo.<br>Perciò i tuoi parenti non sono ostacolo per me. |
-| [[Juliet|GIULIETTA]] | Se ti vedono, ti uccideranno. |
-| [[Romeo|ROMEO]] | Ahimè, c’è più pericolo nel tuo occhio<br>che in venti delle loro spade. Guardami solo con dolcezza,<br>e sarò corazzato contro la loro inimicizia. |
-| [[Juliet|GIULIETTA]] | Non vorrei per nulla al mondo che ti vedessero qui. |
-| [[Romeo|ROMEO]] | Ho il mantello della [[Night|notte]] a nascondermi dai loro occhi;<br>e purché tu mi [[Love|ami]], mi trovino pure qui.<br>Meglio la mia vita finita dal loro odio<br>che [[Death|morte]] differita, privo del tuo [[Love|amore]]. |
-| [[Juliet|GIULIETTA]] | Per indicazione di chi hai trovato questo luogo? |
-| [[Romeo|ROMEO]] | Per l’[[Love|amore]], che primo mi spinse a cercare.<br>Egli mi prestò consiglio, e io gli prestai occhi.<br>Non sono pilota, eppure fossi tu lontana<br>quanto quella vasta riva bagnata dal mare più remoto,<br>mi avventurerei per simile mercanzia. |
-| [[Juliet|GIULIETTA]] | Tu sai che la maschera della [[Night|notte]] è sul mio volto,<br>altrimenti un rossore verginale mi dipingerebbe la guancia<br>per ciò che m’hai udita dire stanotte.<br>Volentieri mi atterrei alla forma, volentieri, volentieri negherei<br>ciò che ho detto; ma addio, cerimonia.<br>Mi [[Love|ami]] tu? So che dirai ‘Sì’,<br>e io prenderò la tua parola. Eppure, se giuri,<br>puoi rivelarti falso. Degli spergiuri degli [[lovers|amanti]],<br>dicono, Giove ride. O gentile [[Romeo]],<br>se tu [[Love|ami]], dillo lealmente;<br>o se pensi ch’io sia troppo presto conquistata,<br>aggrotterò le ciglia, sarò ritrosa, e ti dirò di no,<br>così tu mi corteggerai; ma altrimenti, per nulla al mondo.<br>In [[Truth|verità]], bel Montecchi, io sono troppo tenera,<br>e perciò potresti stimare leggero il mio contegno.<br>Ma credimi, gentiluomo, mi mostrerò più fedele<br>di quelle che hanno più astuzia nel farsi schive.<br>Sarei stata più schiva, devo confessarlo,<br>se tu non avessi udito, prima ch’io me n’avvedessi,<br>la mia passione di vero [[Love|amore]]. Perciò perdonami,<br>e non imputare questo cedere a leggero [[Love|amore]],<br>che la buia [[Night|notte]] ha così svelato. |
-| [[Romeo|ROMEO]] | Madonna, per quella benedetta [[Moon|luna]] io giuro,<br>che d’argento orla tutte le cime di questi alberi— |
-| [[Juliet|GIULIETTA]] | Oh, non giurare per la [[Moon|luna]], l’incostante [[Moon|luna]]<br>che ogni mese muta nel suo orbe cerchiato,<br>ché il tuo [[Love|amore]] non riesca del pari mutevole. |
-| [[Romeo|ROMEO]] | Per che cosa devo giurare? |
-| [[Juliet|GIULIETTA]] | Non giurare affatto,<br>o se vuoi, giura per il tuo grazioso [[Self|essere]],<br>che è il dio della mia idolatria,<br>e io ti crederò. |
-| [[Romeo|ROMEO]] | Se il caro [[Love|amore]] del mio cuore— |
-| [[Juliet|GIULIETTA]] | [[Well|Ebbene]], non giurare. Benché io gioisca di te,<br>non ho gioia di questo patto stanotte.<br>È troppo avventato, troppo sconsigliato, troppo improvviso,<br>troppo simile al [[Lightning|lampo]] che cessa d’essere<br>prima che si possa dire ‘lampeggia’. Dolce amore, buona [[Night|notte]].<br>Questo bocciolo d’[[Love|amore]], al soffio maturante dell’[[Summer|estate]],<br>potrà rivelarsi bel fiore quando ci rivedremo.<br>Buona [[Night|notte]], buona [[Night|notte]]. Riposo e quiete dolci<br>vengano al tuo cuore quanto quelli che ho nel petto. |
-| [[Romeo|ROMEO]] | Oh, mi lascerai così insoddisfatto? |
-| [[Juliet|GIULIETTA]] | Quale soddisfazione puoi avere stanotte? |
-| [[Romeo|ROMEO]] | Lo scambio del fedele voto del tuo [[Love|amore]] col mio. |
-| [[Juliet|GIULIETTA]] | Ti diedi il mio prima che tu lo chiedessi,<br>eppure vorrei che fosse ancora da dare. |
-| [[Romeo|ROMEO]] | Vorresti ritirarlo? A quale scopo, [[Love|amore]]? |
-| [[Juliet|GIULIETTA]] | Solo per esser generosa e ridartelo ancora.<br>Eppure non desidero se non ciò che ho già.<br>La mia munificenza è sconfinata come il mare,<br>il mio [[Love|amore]] altrettanto profondo. Più ti do,<br>più ho, ché entrambi sono infiniti.<br>La [[Nurse|Nutrice]] chiama dall’interno<br>Odo rumore là dentro. Caro [[Love|amore]], addio.—<br>Subito, buona [[Nurse|Nutrice]]!—Dolce Montecchi, sii fedele.<br>Aspetta solo un poco; tornerò. Esce |
-| [[Romeo|ROMEO]] | O benedetta, benedetta [[Night|notte]]! Ho paura,<br>essendo [[Night|notte]], che tutto questo non sia che [[A Dream|un sogno]],<br>troppo lusinghevolmente dolce per esser reale. |
-| *(didascalia)* | Entra [[Juliet|Giulietta]] in alto |
-| [[Juliet|GIULIETTA]] | Tre parole, caro [[Romeo]], e poi davvero buona [[Night|notte]].<br>Se l’inclinazione del tuo [[Love|amore]] è onorevole,<br>il tuo intento il [[Marriage|matrimonio]], mandami a dire domani,<br>per mezzo di chi io procurerò venga da te,<br>dove e a che [[Time|ora]] vorrai compiere il rito,<br>e tutte le mie fortune deporrò ai tuoi piedi,<br>e ti seguirò, mio signore, per tutto il mondo. |
-| *(didascalia)* | [[Nurse|NUTRICE]] (dall’interno) |
-| [[Juliet|GIULIETTA]] | Madonna! |
-| [[Juliet|GIULIETTA]] | Vengo, subito. (A [[Romeo]]) Ma se non hai [[Well|buone]] intenzioni,<br>ti supplico— |
-| *(didascalia)* | [[Nurse|NUTRICE]] (dall’interno) Madonna! |
-| [[Juliet|GIULIETTA]] | Vengo subito.—<br>di cessare la tua insistenza e lasciarmi al mio dolore.<br>Domani manderò. |
-| [[Romeo|ROMEO]] | Così prosperi l’[[Soul|anima]] mia— |
-| [[Juliet|GIULIETTA]] | Mille volte buona [[Night|notte]]. Esce |
-| [[Romeo|ROMEO]] | Mille volte peggio, mancandomi la tua luce.<br>L’[[Love|amore]] va verso l’[[Love|amore]] come gli scolari via dai libri,<br>ma l’[[Love|amore]] dall’[[Love|amore]], verso la scuola con sguardi gravi. |
-| *(didascalia)* | Sta per andarsene. Entra di nuovo [[Juliet|Giulietta]] in alto |
-| [[Juliet|GIULIETTA]] | Pss, [[Romeo]]! Pss! Oh, avessi la voce d’un falconiere<br>per richiamare indietro questo nobile falcone.<br>La schiavitù è roca, e non può parlare forte,<br>altrimenti squarcerei la [[Cave|caverna]] dove giace Eco,<br>e renderei la sua aerea lingua più roca della mia<br>ripetendo il nome del mio [[Romeo]]. [[Romeo]]! |
-| [[Romeo|ROMEO]] | È l’[[Soul|anima]] mia che chiama il mio nome.<br>Come suonano argentine e dolci le lingue degli [[lovers|amanti]] di [[Night|notte]],<br>come musica soavissima a orecchi che ascoltano! |
-| [[Juliet|GIULIETTA]] | [[Romeo]]! |
-| [[Romeo|ROMEO]] | Mio falchetto? |
-| [[Juliet|GIULIETTA]] | A che [[Clock|ora]] domani<br>devo mandare da te? |
-| [[Romeo|ROMEO]] | Per l’ora delle nove. |
-| [[Juliet|GIULIETTA]] | Non mancherò; son vent’anni fino ad allora.<br>Ho dimenticato perché ti ho richiamato. |
-| [[Romeo|ROMEO]] | Lascia ch’io resti qui finché te ne ricordi. |
-| [[Juliet|GIULIETTA]] | Continuerò a dimenticare, per averti sempre lì fermo,<br>ricordando quanto [[Love|amo]] la tua compagnia. |
-| [[Romeo|ROMEO]] | E io resterò sempre, per farti sempre dimenticare,<br>dimenticando ogni altra [[Home|casa]] fuor che questa. |
-| [[Juliet|GIULIETTA]] | È quasi mattino. Vorrei che tu andassi—<br>eppure non più lontano dell’uccello d’una bimba capricciosa,<br>che lo lascia saltellare un poco fuori di mano,<br>come un povero prigioniero nei suoi ceppi ritorti,<br>e con un filo di seta se lo tira indietro,<br>tanto amorosamente gelosa della sua libertà. |
-| [[Romeo|ROMEO]] | Vorrei essere il tuo uccello. |
-| [[Juliet|GIULIETTA]] | Dolce amore, lo vorrei anch’io.<br>Eppure ti ucciderei a furia di carezze.<br>Buona [[Night|notte]], buona [[Night|notte]]. Il separarsi è un dolore così dolce<br>che dirò buona [[Night|notte]] finché sia domani. |
-| *(didascalia)* | [[Romeo|ROMEO]] |
-| [[Juliet|GIULIETTA]] | Il [[Sleep|sonno]] dimori sui tuoi occhi, la pace nel tuo petto. |
-| *(didascalia)* | Esce [[Juliet|Giulietta]] |
-| [[Juliet|GIULIETTA]] | Foss’io [[Sleep|sonno]] e pace, così dolci per riposare.<br>Di qui andrò alla cella chiusa del mio padre spirituale,<br>a implorarne l’aiuto e a narrargli la mia cara ventura. |
+| *(didascalia)* | Entra [[Benvolio]] con [[Mercutio\|Mercuzio]] |
+| [[Benvolio\|BENVOLIO]] | (chiamando)<br>[[Romeo]], cugino mio [[Romeo]], [[Romeo]]! |
+| [[Mercutio\|MERCUZIO]] | È saggio, e, sulla mia vita, se n’è sgattaiolato a [[Home\|casa]] a letto. |
+| [[Benvolio\|BENVOLIO]] | È corso da questa parte, e ha scavalcato il muro di questo frutteto. Chiama, buon [[Mercutio\|Mercuzio]]. |
+| *(didascalia)* | [[Mercutio\|MERCUZIO]] Anzi, farò anche uno scongiuro. |
+| [[Benvolio\|BENVOLIO]] | [[Romeo]]! Umori! Pazzo! Passione! [[Lover\|Amante]]!<br>Apparici in sembianza d’un sospiro.<br>Di’ una sola rima e sarò soddisfatto.<br>Grida soltanto ‘Ahimè!’ Pronuncia solo ‘[[Love\|amore]]’ e ‘cuore’.<br>Di’ alla mia comare [[Venus\|Venere]] una bella parola,<br>un soprannome per il suo cieco figlio ed erede,<br>il giovane Adamo Cupido, quello che tirò così giusto<br>quando il [[King\|re]] Cofetua amò la mendicante.—<br>Non ode, non si scuote, non si muove.<br>La scimmia è morta, e devo scongiurarla.—<br>Ti scongiuro per i lucenti occhi di [[Rosaline\|Rosalina]],<br>per la sua alta fronte e il suo labbro scarlatto,<br>per il suo bel piede, la gamba dritta e la coscia fremente,<br>e per i domini che là accanto si stendono,<br>che nella tua sembianza tu ci appaia. |
+| [[Benvolio\|BENVOLIO]] | E se ti sente, lo farai adirare. |
+| [[Mercutio\|MERCUZIO]] | Questo non può adirarlo. Lo adirerebbe<br>evocare uno spirito nel cerchio della sua dama<br>di qualche strana [[Nature\|natura]], lasciandolo là ritto<br>finch’ella non l’avesse abbattuto e scongiurato giù.<br>Quello sì sarebbe dispetto. La mia invocazione<br>è leale e onesta. In nome della sua dama,<br>io scongiuro soltanto per far levare lui. |
+| [[Benvolio\|BENVOLIO]] | Via, s’è nascosto fra questi alberi<br>per farsi compagno dell’umorosa [[Night\|notte]].<br>Cieco è il suo [[Love\|amore]], e meglio gli si addice il buio. |
+| [[Mercutio\|MERCUZIO]] | Se l’[[Love\|amore]] è cieco, l’[[Love\|amore]] non può colpire il segno.<br>Ora se ne starà seduto sotto un nespolo<br>a desiderare che la sua dama fosse quella sorta di frutto<br>che le fanciulle chiaman nespole quando ridono [[Alone\|da sole]].<br>O [[Romeo]], ch’ella fosse, oh ch’ella fosse<br>una nespola aperta, e tu una pera picciolina.<br>[[Romeo]], buona [[Night\|notte]]. Io me ne vado al mio lettuccio.<br>Questo letto di campo è troppo freddo perché io possa [[Sleep\|dormire]].<br>Su, ce ne andiamo? |
+| [[Benvolio\|BENVOLIO]] | Andiamo dunque, ché è vano<br>cercar qui chi non vuole essere trovato. |
+| *(didascalia)* | Escono [[Benvolio]] e [[Mercutio\|Mercuzio]] |
+| *(didascalia)* | [[Romeo\|ROMEO]] facendosi avanti |
+| [[Benvolio\|BENVOLIO]] | Si burla delle cicatrici chi non provò mai ferita.<br>Ma piano, qual luce irrompe da quella [[Window\|finestra]] lassù?<br>È l’oriente, e [[Juliet\|Giulietta]] è il sole.<br>Sorgi, bel sole, e uccidi l’invidiosa [[Moon\|luna]],<br>che è già malata e pallida di dolore<br>perché tu, sua ancella, sei assai più bella di lei.<br>Non essere sua ancella, poiché è invidiosa.<br>La sua livrea vestale non è che malaticcia e verde,<br>e nessuno la porta se non gli sciocchi; gettala via. |
+| *(didascalia)* | Entra [[Juliet\|Giulietta]] in alto |
+| [[Benvolio\|BENVOLIO]] | È la mia dama, oh, è il mio [[Love\|amore]].<br>Oh, se sapesse d’esserlo!<br>Ella parla, eppure non dice nulla. Che importa?<br>Il suo occhio discorre; io gli risponderò.<br>Sono troppo ardito. Non è a me ch’ella parla.<br>Due fra le più belle [[Stars\|stelle]] di tutto il cielo,<br>avendo qualche faccenda, supplicano i suoi occhi<br>di brillare nelle loro sfere finché ritornino.<br>E se i suoi occhi fossero lassù, ed esse nel suo capo?—<br>Lo splendore della sua guancia farebbe vergognare quelle [[Stars\|stelle]]<br>come il giorno una lampada; il suo occhio in cielo<br>irraggerebbe per la regione aerea così luminoso<br>che gli [[Birds\|uccelli]] canterebbero credendo che non fosse [[Night\|notte]].<br>Guarda come appoggia la guancia sulla mano.<br>Oh, foss’io un guanto su quella mano,<br>per poter toccare quella guancia! |
+| [[Juliet\|GIULIETTA]] | Ahimè. |
+| [[Romeo\|ROMEO]] | (a parte) Ella parla.<br>Oh, parla ancora, angelo luminoso; ché tu sei<br>a questa [[Night\|notte]] gloriosa, stando sopra il mio capo,<br>come un alato messaggero del cielo<br>ai bianchi occhi rivolti in su, meravigliati,<br>dei mortali che cadono riversi a contemplarlo<br>quando egli cavalca le nubi che passano pigre<br>e veleggia sul seno dell’aria. |
+| [[Juliet\|GIULIETTA]] | (non sapendo che [[Romeo]] l’ascolta)<br>O [[Romeo]], [[Romeo]], perché sei tu [[Romeo]]?<br>Rinnega tuo padre e rifiuta il tuo nome,<br>o se non vuoi, giurati soltanto mio [[Love\|amore]],<br>e io non sarò più una [[Capulet\|Capuleti]]. |
+| [[Romeo\|ROMEO]] | (a parte)<br>Devo udire ancora, o devo parlare a questo punto? |
+| [[Juliet\|GIULIETTA]] | È solo il tuo nome che m’è nemico.<br>Tu sei te stesso, anche non essendo un Montecchi.<br>Che cos’è Montecchi? Non è né mano, né piede,<br>né braccio, né viso, né alcun’altra parte<br>appartenente a un uomo. Oh, sii qualche altro nome!<br>Che c’è in un nome? Quella che chiamiamo [[Rose\|rosa]]<br>con qualunque altra parola avrebbe lo stesso dolce profumo.<br>Così [[Romeo]], se non si chiamasse [[Romeo]],<br>serberebbe quella cara perfezione che possiede<br>senza quel titolo. [[Romeo]], deponi il tuo nome,<br>e in cambio del tuo nome—che non è parte di te—<br>prenditi tutta me stessa. |
+| [[Romeo\|ROMEO]] | (a [[Juliet\|Giulietta]]) Ti prendo in parola.<br>Chiamami solo [[Love\|amore]] e sarò battezzato di nuovo.<br>D’ora innanzi non sarò mai più [[Romeo]]. |
+| [[Juliet\|GIULIETTA]] | Chi sei tu che, così celato nella [[Night\|notte]],<br>inciampi in tal modo nel mio segreto? |
+| [[Romeo\|ROMEO]] | Con un nome<br>non so come dirti chi io sia.<br>Il mio nome, cara santa, è odioso a me stesso<br>perché è nemico a te.<br>L’avessi scritto, straccerei la parola. |
+| [[Juliet\|GIULIETTA]] | I miei orecchi non hanno ancora bevuto cento parole<br>uscite dalla tua lingua, eppure ne conosco il suono.<br>Non sei tu [[Romeo]], e un Montecchi? |
+| [[Romeo\|ROMEO]] | Né l’uno né l’altro, bella fanciulla, se l’uno o l’altro ti dispiace. |
+| [[Juliet\|GIULIETTA]] | Come sei giunto qui, dimmi, e perché?<br>I muri del frutteto sono alti e difficili da scalare,<br>e il luogo è [[Death\|morte]], considerando chi tu sei,<br>se qualcuno dei miei parenti ti trova qui. |
+| [[Romeo\|ROMEO]] | Con le lievi ali dell’[[Love\|amore]] ho valicato questi muri,<br>ché limiti di pietra non possono tener fuori l’[[Love\|amore]],<br>e ciò che l’[[Love\|amore]] può fare, l’[[Love\|amore]] osa tentarlo.<br>Perciò i tuoi parenti non sono ostacolo per me. |
+| [[Juliet\|GIULIETTA]] | Se ti vedono, ti uccideranno. |
+| [[Romeo\|ROMEO]] | Ahimè, c’è più pericolo nel tuo occhio<br>che in venti delle loro spade. Guardami solo con dolcezza,<br>e sarò corazzato contro la loro inimicizia. |
+| [[Juliet\|GIULIETTA]] | Non vorrei per nulla al mondo che ti vedessero qui. |
+| [[Romeo\|ROMEO]] | Ho il mantello della [[Night\|notte]] a nascondermi dai loro occhi;<br>e purché tu mi [[Love\|ami]], mi trovino pure qui.<br>Meglio la mia vita finita dal loro odio<br>che [[Death\|morte]] differita, privo del tuo [[Love\|amore]]. |
+| [[Juliet\|GIULIETTA]] | Per indicazione di chi hai trovato questo luogo? |
+| [[Romeo\|ROMEO]] | Per l’[[Love\|amore]], che primo mi spinse a cercare.<br>Egli mi prestò consiglio, e io gli prestai occhi.<br>Non sono pilota, eppure fossi tu lontana<br>quanto quella vasta riva bagnata dal mare più remoto,<br>mi avventurerei per simile mercanzia. |
+| [[Juliet\|GIULIETTA]] | Tu sai che la maschera della [[Night\|notte]] è sul mio volto,<br>altrimenti un rossore verginale mi dipingerebbe la guancia<br>per ciò che m’hai udita dire stanotte.<br>Volentieri mi atterrei alla forma, volentieri, volentieri negherei<br>ciò che ho detto; ma addio, cerimonia.<br>Mi [[Love\|ami]] tu? So che dirai ‘Sì’,<br>e io prenderò la tua parola. Eppure, se giuri,<br>puoi rivelarti falso. Degli spergiuri degli [[lovers\|amanti]],<br>dicono, Giove ride. O gentile [[Romeo]],<br>se tu [[Love\|ami]], dillo lealmente;<br>o se pensi ch’io sia troppo presto conquistata,<br>aggrotterò le ciglia, sarò ritrosa, e ti dirò di no,<br>così tu mi corteggerai; ma altrimenti, per nulla al mondo.<br>In [[Truth\|verità]], bel Montecchi, io sono troppo tenera,<br>e perciò potresti stimare leggero il mio contegno.<br>Ma credimi, gentiluomo, mi mostrerò più fedele<br>di quelle che hanno più astuzia nel farsi schive.<br>Sarei stata più schiva, devo confessarlo,<br>se tu non avessi udito, prima ch’io me n’avvedessi,<br>la mia passione di vero [[Love\|amore]]. Perciò perdonami,<br>e non imputare questo cedere a leggero [[Love\|amore]],<br>che la buia [[Night\|notte]] ha così svelato. |
+| [[Romeo\|ROMEO]] | Madonna, per quella benedetta [[Moon\|luna]] io giuro,<br>che d’argento orla tutte le cime di questi alberi— |
+| [[Juliet\|GIULIETTA]] | Oh, non giurare per la [[Moon\|luna]], l’incostante [[Moon\|luna]]<br>che ogni mese muta nel suo orbe cerchiato,<br>ché il tuo [[Love\|amore]] non riesca del pari mutevole. |
+| [[Romeo\|ROMEO]] | Per che cosa devo giurare? |
+| [[Juliet\|GIULIETTA]] | Non giurare affatto,<br>o se vuoi, giura per il tuo grazioso [[Self\|essere]],<br>che è il dio della mia idolatria,<br>e io ti crederò. |
+| [[Romeo\|ROMEO]] | Se il caro [[Love\|amore]] del mio cuore— |
+| [[Juliet\|GIULIETTA]] | [[Well\|Ebbene]], non giurare. Benché io gioisca di te,<br>non ho gioia di questo patto stanotte.<br>È troppo avventato, troppo sconsigliato, troppo improvviso,<br>troppo simile al [[Lightning\|lampo]] che cessa d’essere<br>prima che si possa dire ‘lampeggia’. Dolce amore, buona [[Night\|notte]].<br>Questo bocciolo d’[[Love\|amore]], al soffio maturante dell’[[Summer\|estate]],<br>potrà rivelarsi bel fiore quando ci rivedremo.<br>Buona [[Night\|notte]], buona [[Night\|notte]]. Riposo e quiete dolci<br>vengano al tuo cuore quanto quelli che ho nel petto. |
+| [[Romeo\|ROMEO]] | Oh, mi lascerai così insoddisfatto? |
+| [[Juliet\|GIULIETTA]] | Quale soddisfazione puoi avere stanotte? |
+| [[Romeo\|ROMEO]] | Lo scambio del fedele voto del tuo [[Love\|amore]] col mio. |
+| [[Juliet\|GIULIETTA]] | Ti diedi il mio prima che tu lo chiedessi,<br>eppure vorrei che fosse ancora da dare. |
+| [[Romeo\|ROMEO]] | Vorresti ritirarlo? A quale scopo, [[Love\|amore]]? |
+| [[Juliet\|GIULIETTA]] | Solo per esser generosa e ridartelo ancora.<br>Eppure non desidero se non ciò che ho già.<br>La mia munificenza è sconfinata come il mare,<br>il mio [[Love\|amore]] altrettanto profondo. Più ti do,<br>più ho, ché entrambi sono infiniti.<br>La [[Nurse\|Nutrice]] chiama dall’interno<br>Odo rumore là dentro. Caro [[Love\|amore]], addio.—<br>Subito, buona [[Nurse\|Nutrice]]!—Dolce Montecchi, sii fedele.<br>Aspetta solo un poco; tornerò. Esce |
+| [[Romeo\|ROMEO]] | O benedetta, benedetta [[Night\|notte]]! Ho paura,<br>essendo [[Night\|notte]], che tutto questo non sia che [[A Dream\|un sogno]],<br>troppo lusinghevolmente dolce per esser reale. |
+| *(didascalia)* | Entra [[Juliet\|Giulietta]] in alto |
+| [[Juliet\|GIULIETTA]] | Tre parole, caro [[Romeo]], e poi davvero buona [[Night\|notte]].<br>Se l’inclinazione del tuo [[Love\|amore]] è onorevole,<br>il tuo intento il [[Marriage\|matrimonio]], mandami a dire domani,<br>per mezzo di chi io procurerò venga da te,<br>dove e a che [[Time\|ora]] vorrai compiere il rito,<br>e tutte le mie fortune deporrò ai tuoi piedi,<br>e ti seguirò, mio signore, per tutto il mondo. |
+| *(didascalia)* | [[Nurse\|NUTRICE]] (dall’interno) |
+| [[Juliet\|GIULIETTA]] | Madonna! |
+| [[Juliet\|GIULIETTA]] | Vengo, subito. (A [[Romeo]]) Ma se non hai [[Well\|buone]] intenzioni,<br>ti supplico— |
+| *(didascalia)* | [[Nurse\|NUTRICE]] (dall’interno) Madonna! |
+| [[Juliet\|GIULIETTA]] | Vengo subito.—<br>di cessare la tua insistenza e lasciarmi al mio dolore.<br>Domani manderò. |
+| [[Romeo\|ROMEO]] | Così prosperi l’[[Soul\|anima]] mia— |
+| [[Juliet\|GIULIETTA]] | Mille volte buona [[Night\|notte]]. Esce |
+| [[Romeo\|ROMEO]] | Mille volte peggio, mancandomi la tua luce.<br>L’[[Love\|amore]] va verso l’[[Love\|amore]] come gli scolari via dai libri,<br>ma l’[[Love\|amore]] dall’[[Love\|amore]], verso la scuola con sguardi gravi. |
+| *(didascalia)* | Sta per andarsene. Entra di nuovo [[Juliet\|Giulietta]] in alto |
+| [[Juliet\|GIULIETTA]] | Pss, [[Romeo]]! Pss! Oh, avessi la voce d’un falconiere<br>per richiamare indietro questo nobile falcone.<br>La schiavitù è roca, e non può parlare forte,<br>altrimenti squarcerei la [[Cave\|caverna]] dove giace Eco,<br>e renderei la sua aerea lingua più roca della mia<br>ripetendo il nome del mio [[Romeo]]. [[Romeo]]! |
+| [[Romeo\|ROMEO]] | È l’[[Soul\|anima]] mia che chiama il mio nome.<br>Come suonano argentine e dolci le lingue degli [[lovers\|amanti]] di [[Night\|notte]],<br>come musica soavissima a orecchi che ascoltano! |
+| [[Juliet\|GIULIETTA]] | [[Romeo]]! |
+| [[Romeo\|ROMEO]] | Mio falchetto? |
+| [[Juliet\|GIULIETTA]] | A che [[Clock\|ora]] domani<br>devo mandare da te? |
+| [[Romeo\|ROMEO]] | Per l’ora delle nove. |
+| [[Juliet\|GIULIETTA]] | Non mancherò; son vent’anni fino ad allora.<br>Ho dimenticato perché ti ho richiamato. |
+| [[Romeo\|ROMEO]] | Lascia ch’io resti qui finché te ne ricordi. |
+| [[Juliet\|GIULIETTA]] | Continuerò a dimenticare, per averti sempre lì fermo,<br>ricordando quanto [[Love\|amo]] la tua compagnia. |
+| [[Romeo\|ROMEO]] | E io resterò sempre, per farti sempre dimenticare,<br>dimenticando ogni altra [[Home\|casa]] fuor che questa. |
+| [[Juliet\|GIULIETTA]] | È quasi mattino. Vorrei che tu andassi—<br>eppure non più lontano dell’uccello d’una bimba capricciosa,<br>che lo lascia saltellare un poco fuori di mano,<br>come un povero prigioniero nei suoi ceppi ritorti,<br>e con un filo di seta se lo tira indietro,<br>tanto amorosamente gelosa della sua libertà. |
+| [[Romeo\|ROMEO]] | Vorrei essere il tuo uccello. |
+| [[Juliet\|GIULIETTA]] | Dolce amore, lo vorrei anch’io.<br>Eppure ti ucciderei a furia di carezze.<br>Buona [[Night\|notte]], buona [[Night\|notte]]. Il separarsi è un dolore così dolce<br>che dirò buona [[Night\|notte]] finché sia domani. |
+| *(didascalia)* | [[Romeo\|ROMEO]] |
+| [[Juliet\|GIULIETTA]] | Il [[Sleep\|sonno]] dimori sui tuoi occhi, la pace nel tuo petto. |
+| *(didascalia)* | Esce [[Juliet\|Giulietta]] |
+| [[Juliet\|GIULIETTA]] | Foss’io [[Sleep\|sonno]] e pace, così dolci per riposare.<br>Di qui andrò alla cella chiusa del mio padre spirituale,<br>a implorarne l’aiuto e a narrargli la mia cara ventura. |
 | *(didascalia)* | Esce |
 
 
@@ -2157,31 +2157,31 @@ Exit
 
 | Chi parla | Battuta |
 |---|---|
-| *(didascalia)* | Entra [[Friar Laurence|Frate Lorenzo]], con un cesto |
-| [[Friar Laurence|FRATE LORENZO]] | Il mattino dagli occhi grigi sorride alla [[Night|notte]] accigliata,<br>screziando di strisce di luce le nubi d’oriente,<br>e la tenebra chiazzata come un ubriaco barcolla<br>via dal cammino del giorno e dalle ruote infuocate di Titano.<br>Ora, prima che il sole avanzi il suo occhio ardente<br>a rallegrare il giorno e a seccare l’umida rugiada della [[Night|notte]],<br>devo colmare questa nostra gabbia di vimini<br>d’erbe funeste e di [[Flowers|fiori]] dal succo prezioso.<br>La terra, che è madre della [[Nature|natura]], n’è la tomba.<br>Ciò che è la sua [[Grave|fossa]] sepolcrale, quello è il suo grembo,<br>e dal suo grembo figli di diversa specie<br>noi troviamo, poppando al suo naturale seno,<br>molti per molte virtù eccellenti,<br>nessuno che non n’abbia qualcuna, e pure tutti diversi.<br>Oh, grande è la potente grazia che risiede<br>nelle piante, nelle erbe, nelle pietre e nelle loro vere qualità,<br>ché nulla vive sulla terra di così vile<br>che alla terra non dia qualche bene speciale;<br>né v’è cosa tanto buona che, sviata da quel giusto uso,<br>non si ribelli alla sua vera nascita, inciampando nell’abuso.<br>La virtù stessa si fa vizio se malamente applicata,<br>e il vizio talvolta è dall’azione nobilitato. |
+| *(didascalia)* | Entra [[Friar Laurence\|Frate Lorenzo]], con un cesto |
+| [[Friar Laurence\|FRATE LORENZO]] | Il mattino dagli occhi grigi sorride alla [[Night\|notte]] accigliata,<br>screziando di strisce di luce le nubi d’oriente,<br>e la tenebra chiazzata come un ubriaco barcolla<br>via dal cammino del giorno e dalle ruote infuocate di Titano.<br>Ora, prima che il sole avanzi il suo occhio ardente<br>a rallegrare il giorno e a seccare l’umida rugiada della [[Night\|notte]],<br>devo colmare questa nostra gabbia di vimini<br>d’erbe funeste e di [[Flowers\|fiori]] dal succo prezioso.<br>La terra, che è madre della [[Nature\|natura]], n’è la tomba.<br>Ciò che è la sua [[Grave\|fossa]] sepolcrale, quello è il suo grembo,<br>e dal suo grembo figli di diversa specie<br>noi troviamo, poppando al suo naturale seno,<br>molti per molte virtù eccellenti,<br>nessuno che non n’abbia qualcuna, e pure tutti diversi.<br>Oh, grande è la potente grazia che risiede<br>nelle piante, nelle erbe, nelle pietre e nelle loro vere qualità,<br>ché nulla vive sulla terra di così vile<br>che alla terra non dia qualche bene speciale;<br>né v’è cosa tanto buona che, sviata da quel giusto uso,<br>non si ribelli alla sua vera nascita, inciampando nell’abuso.<br>La virtù stessa si fa vizio se malamente applicata,<br>e il vizio talvolta è dall’azione nobilitato. |
 | *(didascalia)* | Entra [[Romeo]] |
 | *(didascalia)* | Dentro l’infantile scorza di questo fragile fiore |
-| [[Friar Laurence|FRATE LORENZO]] | ha dimora il [[Poison|veleno]], e potere la medicina,<br>ché questo, annusato, con quella parte rallegra ogni parte;<br>gustato, uccide tutti i sensi insieme al cuore.<br>Due re così opposti s’accampano sempre<br>nell’uomo come [[Well|pure]] nelle erbe—grazia e rozza voglia;<br>e dove il peggiore è predominante,<br>ben presto il cancro della [[Death|morte]] divora quella pianta. |
-| [[Romeo|ROMEO]] | Buon giorno, padre. |
-| [[Friar Laurence|FRATE LORENZO]] | Benedicite.<br>Quale lingua mattiniera così dolce mi saluta?<br>Giovane figlio, indica una mente turbata<br>dare così presto il buon giorno al proprio letto.<br>L’affanno veglia nell’occhio d’ogni vecchio,<br>e dove alberga l’affanno, mai giacerà il [[Sleep|sonno]];<br>ma dove giovinezza illesa, dal cervello sgombro,<br>corica le membra, là regna il [[Sleep|sonno]] d’oro.<br>Perciò il tuo esser mattiniero m’assicura<br>che t’ha destato qualche turbamento;<br>o se non è così, allora colgo nel segno:<br>il nostro [[Romeo]] non è stato a letto stanotte. |
-| [[Romeo|ROMEO]] | Quest’ultimo è vero; più dolce fu il mio riposo. |
-| [[Friar Laurence|FRATE LORENZO]] | Dio perdoni il peccato!—Eri con [[Rosaline|Rosalina]]? |
-| [[Romeo|ROMEO]] | Con [[Rosaline|Rosalina]], padre spirituale? No,<br>ho dimenticato quel nome e il dolore di quel nome. |
-| [[Friar Laurence|FRATE LORENZO]] | Questo è il mio buon figlio; ma dove sei stato allora? |
-| [[Romeo|ROMEO]] | Te lo dirò prima che tu me lo chieda di nuovo.<br>Sono stato a banchetto col mio nemico,<br>dove all’improvviso qualcuno m’ha ferito<br>ed è da me ferita. I rimedi d’entrambi |
+| [[Friar Laurence\|FRATE LORENZO]] | ha dimora il [[Poison\|veleno]], e potere la medicina,<br>ché questo, annusato, con quella parte rallegra ogni parte;<br>gustato, uccide tutti i sensi insieme al cuore.<br>Due re così opposti s’accampano sempre<br>nell’uomo come [[Well\|pure]] nelle erbe—grazia e rozza voglia;<br>e dove il peggiore è predominante,<br>ben presto il cancro della [[Death\|morte]] divora quella pianta. |
+| [[Romeo\|ROMEO]] | Buon giorno, padre. |
+| [[Friar Laurence\|FRATE LORENZO]] | Benedicite.<br>Quale lingua mattiniera così dolce mi saluta?<br>Giovane figlio, indica una mente turbata<br>dare così presto il buon giorno al proprio letto.<br>L’affanno veglia nell’occhio d’ogni vecchio,<br>e dove alberga l’affanno, mai giacerà il [[Sleep\|sonno]];<br>ma dove giovinezza illesa, dal cervello sgombro,<br>corica le membra, là regna il [[Sleep\|sonno]] d’oro.<br>Perciò il tuo esser mattiniero m’assicura<br>che t’ha destato qualche turbamento;<br>o se non è così, allora colgo nel segno:<br>il nostro [[Romeo]] non è stato a letto stanotte. |
+| [[Romeo\|ROMEO]] | Quest’ultimo è vero; più dolce fu il mio riposo. |
+| [[Friar Laurence\|FRATE LORENZO]] | Dio perdoni il peccato!—Eri con [[Rosaline\|Rosalina]]? |
+| [[Romeo\|ROMEO]] | Con [[Rosaline\|Rosalina]], padre spirituale? No,<br>ho dimenticato quel nome e il dolore di quel nome. |
+| [[Friar Laurence\|FRATE LORENZO]] | Questo è il mio buon figlio; ma dove sei stato allora? |
+| [[Romeo\|ROMEO]] | Te lo dirò prima che tu me lo chieda di nuovo.<br>Sono stato a banchetto col mio nemico,<br>dove all’improvviso qualcuno m’ha ferito<br>ed è da me ferita. I rimedi d’entrambi |
 | *(didascalia)* | stanno nel tuo aiuto e nella tua santa medicina. |
-| [[Romeo|ROMEO]] | Non porto odio, uomo benedetto, ché ecco,<br>la mia intercessione giova del pari al mio nemico. |
-| [[Friar Laurence|FRATE LORENZO]] | Sii chiaro, buon figlio, e semplice nel tuo intento.<br>Confessione a enigmi trova solo assoluzione a enigmi. |
-| [[Romeo|ROMEO]] | Sappi dunque chiaramente che il caro [[Love|amore]] del mio cuore è posto<br>sulla bella figlia del ricco [[Capulet|Capuleti]].<br>Come il mio sul suo, così il suo è posto sul mio,<br>e tutto è unito salvo ciò che tu devi unire<br>col santo [[Marriage|matrimonio]]. Quando e dove e come<br>c’incontrammo, ci corteggiammo e ci scambiammo i voti<br>te lo dirò strada facendo; ma questo ti prego,<br>che tu acconsenta a sposarci oggi. |
-| [[Friar Laurence|FRATE LORENZO]] | Santo San Francesco, che mutamento è questo!<br>È [[Rosaline|Rosalina]], che tu [[Love|amavi]] tanto teneramente,<br>così presto abbandonata? L’[[Love|amore]] dei giovani dunque non sta<br>veramente nel loro cuore, ma nei loro occhi.<br>Gesù [[Maria]], che quantità di salamoia<br>ha lavato le tue guance smorte per [[Rosaline|Rosalina]]!<br>Quanta [[Water|acqua]] salata gettata via in puro spreco<br>per condire un [[Love|amore]] che non ne serba il sapore!<br>Il sole non ha ancora sgombrato dal cielo i tuoi sospiri.<br>I tuoi vecchi lamenti risuonano ancora nei miei orecchi antichi.<br>Ecco, qui sulla tua guancia siede la macchia<br>d’una vecchia lacrima che non è ancora lavata via.<br>Se mai fosti te stesso, e questi affanni tuoi,<br>tu e questi affanni eravate tutti per [[Rosaline|Rosalina]].<br>E sei mutato? Pronuncia dunque questa sentenza:<br>le donne possono cadere, se negli uomini non c’è fermezza. |
-| [[Romeo|ROMEO]] | Mi rimproveravi spesso perché amavo [[Rosaline|Rosalina]]. |
-| [[Friar Laurence|FRATE LORENZO]] | Perché ne stravedevi, non perché amavi, discepolo mio. |
-| [[Romeo|ROMEO]] | E m’ingiungevi di seppellire l’[[Love|amore]]. |
-| [[Friar Laurence|FRATE LORENZO]] | Non in una [[Grave|fossa]]<br>da deporvene uno per averne un altro fuori. |
-| [[Romeo|ROMEO]] | Ti prego, non rimproverarmi. Colei ch’io [[Love|amo]] ora<br>concede grazia per grazia e [[Love|amore]] per [[Love|amore]].<br>L’altra non faceva così. |
-| [[Friar Laurence|FRATE LORENZO]] | Oh, ella sapeva [[Well|bene]]<br>che il tuo [[Love|amore]] leggeva a memoria, non sapendo compitare.<br>Ma vieni, giovane volubile, vieni, andiamo insieme.<br>Per un riguardo io ti sarò d’aiuto:<br>ché quest’unione può riuscire tanto felice<br>da mutare il rancore delle vostre case in puro [[Love|amore]]. |
-| [[Romeo|ROMEO]] | Oh, andiamo di qui! Mi preme una subitanea fretta. |
-| [[Friar Laurence|FRATE LORENZO]] | Con saggezza e adagio. Inciampa chi corre in fretta. Escono |
+| [[Romeo\|ROMEO]] | Non porto odio, uomo benedetto, ché ecco,<br>la mia intercessione giova del pari al mio nemico. |
+| [[Friar Laurence\|FRATE LORENZO]] | Sii chiaro, buon figlio, e semplice nel tuo intento.<br>Confessione a enigmi trova solo assoluzione a enigmi. |
+| [[Romeo\|ROMEO]] | Sappi dunque chiaramente che il caro [[Love\|amore]] del mio cuore è posto<br>sulla bella figlia del ricco [[Capulet\|Capuleti]].<br>Come il mio sul suo, così il suo è posto sul mio,<br>e tutto è unito salvo ciò che tu devi unire<br>col santo [[Marriage\|matrimonio]]. Quando e dove e come<br>c’incontrammo, ci corteggiammo e ci scambiammo i voti<br>te lo dirò strada facendo; ma questo ti prego,<br>che tu acconsenta a sposarci oggi. |
+| [[Friar Laurence\|FRATE LORENZO]] | Santo San Francesco, che mutamento è questo!<br>È [[Rosaline\|Rosalina]], che tu [[Love\|amavi]] tanto teneramente,<br>così presto abbandonata? L’[[Love\|amore]] dei giovani dunque non sta<br>veramente nel loro cuore, ma nei loro occhi.<br>Gesù [[Maria]], che quantità di salamoia<br>ha lavato le tue guance smorte per [[Rosaline\|Rosalina]]!<br>Quanta [[Water\|acqua]] salata gettata via in puro spreco<br>per condire un [[Love\|amore]] che non ne serba il sapore!<br>Il sole non ha ancora sgombrato dal cielo i tuoi sospiri.<br>I tuoi vecchi lamenti risuonano ancora nei miei orecchi antichi.<br>Ecco, qui sulla tua guancia siede la macchia<br>d’una vecchia lacrima che non è ancora lavata via.<br>Se mai fosti te stesso, e questi affanni tuoi,<br>tu e questi affanni eravate tutti per [[Rosaline\|Rosalina]].<br>E sei mutato? Pronuncia dunque questa sentenza:<br>le donne possono cadere, se negli uomini non c’è fermezza. |
+| [[Romeo\|ROMEO]] | Mi rimproveravi spesso perché amavo [[Rosaline\|Rosalina]]. |
+| [[Friar Laurence\|FRATE LORENZO]] | Perché ne stravedevi, non perché amavi, discepolo mio. |
+| [[Romeo\|ROMEO]] | E m’ingiungevi di seppellire l’[[Love\|amore]]. |
+| [[Friar Laurence\|FRATE LORENZO]] | Non in una [[Grave\|fossa]]<br>da deporvene uno per averne un altro fuori. |
+| [[Romeo\|ROMEO]] | Ti prego, non rimproverarmi. Colei ch’io [[Love\|amo]] ora<br>concede grazia per grazia e [[Love\|amore]] per [[Love\|amore]].<br>L’altra non faceva così. |
+| [[Friar Laurence\|FRATE LORENZO]] | Oh, ella sapeva [[Well\|bene]]<br>che il tuo [[Love\|amore]] leggeva a memoria, non sapendo compitare.<br>Ma vieni, giovane volubile, vieni, andiamo insieme.<br>Per un riguardo io ti sarò d’aiuto:<br>ché quest’unione può riuscire tanto felice<br>da mutare il rancore delle vostre case in puro [[Love\|amore]]. |
+| [[Romeo\|ROMEO]] | Oh, andiamo di qui! Mi preme una subitanea fretta. |
+| [[Friar Laurence\|FRATE LORENZO]] | Con saggezza e adagio. Inciampa chi corre in fretta. Escono |
 
 
 
@@ -2294,104 +2294,104 @@ Exit
 
 | Chi parla | Battuta |
 |---|---|
-| *(didascalia)* | Entrano [[Benvolio]] e [[Mercutio|Mercuzio]] |
-| [[Mercutio|MERCUZIO]] | Dove diavolo sarà questo [[Romeo]]? Non è tornato a [[Home|casa]] stanotte? |
-| [[Benvolio|BENVOLIO]] | Non a casa di suo padre. Ho parlato col suo servo. |
-| [[Mercutio|MERCUZIO]] | Eh, quella stessa pallida ragazza dal cuore duro, quella [[Rosaline|Rosalina]],<br>lo tormenta tanto che di sicuro impazzirà. |
-| [[Benvolio|BENVOLIO]] | [[Tybalt|Tebaldo]], il parente del vecchio [[Capulet|Capuleti]],<br>ha mandato una lettera alla [[house|casa]] di suo padre. |
-| [[Mercutio|MERCUZIO]] | Una sfida, sulla mia vita. |
-| [[Benvolio|BENVOLIO]] | [[Romeo]] risponderà. |
-| [[Mercutio|MERCUZIO]] | Qualunque uomo che sappia scrivere può rispondere a una lettera. |
-| [[Benvolio|BENVOLIO]] | Anzi, risponderà al padrone della lettera: come osa, essendo sfidato. è |
-| [[Mercutio|MERCUZIO]] | Ahimè, povero [[Romeo]], è già morto—trafitto dall’occhio nero d’una pallida ragazza, passato da parte a parte per l’orecchio da una [[Song|canzone]] d’[[Love|amore]], il centro stesso del suo cuore spaccato dalla freccia spuntata del cieco arciere fanciullo; ed è uomo da affrontare [[Tybalt|Tebaldo]]? |
-| *(didascalia)* | [[Benvolio|BENVOLIO]] Ma insomma, chi è [[Tybalt|Tebaldo]]? |
-| [[Mercutio|MERCUZIO]] | Più che Principe dei Gatti. Oh, è il coraggioso capitano delle cerimonie. Combatte come tu canti a prima vista: tiene il [[Time|tempo]], la distanza e la proporzione. Osserva le sue pause di minima: uno, due, e il terzo in petto; il vero macellaio d’un bottone di seta. Un duellante, un duellante; un gentiluomo della primissima [[house|casa]], della prima e della seconda causa. Ah, l’immortale passata, il punto riverso, l’hai! |
-| [[Benvolio|BENVOLIO]] | Il che? |
-| [[Mercutio|MERCUZIO]] | La peste su questi grotteschi, blesi, affettati fantocci, questi nuovi accordatori d’accento! ‘Per Gesù, una lama eccellente, un uomo di gran statura, una gran bella puttana.’ Non è cosa lamentevole, nonno mio, che si debba essere così afflitti da queste strane mosche, questi mercanti di moda, questi ‘chiedo-scusa’, che tanto insistono sulla forma nuova da non poter star comodi sulla vecchia panca? Oh, le loro ossa, le loro ossa! Entra [[Romeo]] |
-| [[Benvolio|BENVOLIO]] | Ecco che viene [[Romeo]], ecco che viene [[Romeo]]! |
-| [[Mercutio|MERCUZIO]] | Senza le sue uova, come un’aringa secca. O carne, carne, come ti sei impescita! Ora è tutto per i numeri in cui fluì Petrarca. Laura, in confronto alla sua dama, era una sguattera—però, in fede, ebbe un [[Love|amante]] migliore a metterla in rima—Didone una sciattona, [[Cleopatra]] una zingara, [[Helen|Elena]] ed [[Hero|Ero]] sgualdrine e bagasce, Tisbe un occhio grigio o poco più, ma non fa al caso. Signor [[Romeo]], bonjour. Ecco un saluto francese ai vostri calzoni francesi. Ci avete rifilato ben bene una moneta falsa la scorsa [[Night|notte]]. |
-| [[Romeo|ROMEO]] | Buon giorno a entrambi. Che moneta falsa vi ho rifilato? 45 |
-| [[Mercutio|MERCUZIO]] | Il bidone, signore, il bidone. Non capite? |
-| [[Romeo|ROMEO]] | Perdona, buon [[Mercutio|Mercuzio]]. I miei affari erano grandi, e in un caso come il mio un uomo può forzare la cortesia. |
-| [[Mercutio|MERCUZIO]] | Che è come dire che un caso come il vostro costringe un uomo a piegare i garretti. |
-| [[Romeo|ROMEO]] | Vuoi dire a fare la riverenza. |
-| [[Mercutio|MERCUZIO]] | Hai colto molto gentilmente. |
-| [[Romeo|ROMEO]] | Una spiegazione cortesissima. |
-| [[Mercutio|MERCUZIO]] | Anzi, io sono il fior fiore della cortesia. |
-| [[Romeo|ROMEO]] | Fior fiore, cioè fiore. |
-| [[Mercutio|MERCUZIO]] | Esatto. |
-| [[Romeo|ROMEO]] | Ebbene, allora la mia scarpetta è [[Well|ben]] fiorita. |
-| [[Mercutio|MERCUZIO]] | Spirito sicuro, seguimi questo scherzo finché non avrai consumato la scarpetta, sicché, quando la sua unica suola sarà logora, lo scherzo resti, dopo l’uso, unicamente singolare. |
-| [[Romeo|ROMEO]] | Oh, scherzo dalla suola unica, unicamente singolare per la sua singolarità! |
-| [[Mercutio|MERCUZIO]] | Mettiti fra noi, buon [[Benvolio]]. Il mio ingegno viene meno. |
-| [[Romeo|ROMEO]] | Frusta e speroni, frusta e speroni, o griderò vittoria. |
-| [[Mercutio|MERCUZIO]] | Anzi, se i nostri ingegni corrono la caccia all’oca selvatica, io ho finito, ché tu hai più dell’oca selvatica in uno solo dei tuoi sensi di quanto io ne abbia, ne son certo, in tutti e cinque i miei. Ero con te, là, per l’oca? |
-| [[Romeo|ROMEO]] | Non fosti mai con me per nulla, se non eri là per l’oca. |
-| [[Mercutio|MERCUZIO]] | Ti morderò l’orecchio per questo scherzo. |
-| [[Romeo|ROMEO]] | No, buona oca, non mordere. |
-| [[Mercutio|MERCUZIO]] | Il tuo spirito è una mela dolce-amara; è una salsa piccantissima. |
-| [[Romeo|ROMEO]] | E non è forse [[Well|ben]] servita a un’oca dolce? |
-| [[Mercutio|MERCUZIO]] | Oh, ecco uno spirito di pelle di capretto, che si stira da un pollice di stretto a un braccio di largo. |
-| [[Romeo|ROMEO]] | Io lo stiro per quella parola ‘largo’, che, aggiunta all’oca, ti dimostra in lungo e in largo un’oca larga. |
-| [[Mercutio|MERCUZIO]] | Ebbene, non è meglio questo che gemere d’[[Love|amore]]? Ora sei socievole, ora sei [[Romeo]], ora sei ciò che sei per arte come [[Well|pure]] per [[Nature|natura]]; ché questo [[Love|amore]] bavoso è come un grande scemo che corre ciondolando su e giù per nascondere il suo batocchio in un buco. |
-| [[Benvolio|BENVOLIO]] | Fermati lì, fermati lì. |
-| [[Mercutio|MERCUZIO]] | Vuoi che fermi il mio racconto contropelo. |
-| [[Benvolio|BENVOLIO]] | Altrimenti avresti fatto il tuo racconto troppo lungo. [[Mercutio|MERCUZIO]] Oh, t’inganni: l’avrei fatto corto, ché ero giunto a tutta la profondità del mio racconto, e non intendevo davvero occupare più oltre l’argomento. Entrano la [[Nurse|Nutrice]] e Pietro, il suo servo |
-| [[Romeo|ROMEO]] | Ecco della bella roba. |
-| *(didascalia)* | [[Benvolio|BENVOLIO]] Una vela, una vela! |
-| [[Mercutio|MERCUZIO]] | Due, due—una camicia e una sottana. |
-| [[Nurse|NUTRICE]] | Pietro. |
+| *(didascalia)* | Entrano [[Benvolio]] e [[Mercutio\|Mercuzio]] |
+| [[Mercutio\|MERCUZIO]] | Dove diavolo sarà questo [[Romeo]]? Non è tornato a [[Home\|casa]] stanotte? |
+| [[Benvolio\|BENVOLIO]] | Non a casa di suo padre. Ho parlato col suo servo. |
+| [[Mercutio\|MERCUZIO]] | Eh, quella stessa pallida ragazza dal cuore duro, quella [[Rosaline\|Rosalina]],<br>lo tormenta tanto che di sicuro impazzirà. |
+| [[Benvolio\|BENVOLIO]] | [[Tybalt\|Tebaldo]], il parente del vecchio [[Capulet\|Capuleti]],<br>ha mandato una lettera alla [[house\|casa]] di suo padre. |
+| [[Mercutio\|MERCUZIO]] | Una sfida, sulla mia vita. |
+| [[Benvolio\|BENVOLIO]] | [[Romeo]] risponderà. |
+| [[Mercutio\|MERCUZIO]] | Qualunque uomo che sappia scrivere può rispondere a una lettera. |
+| [[Benvolio\|BENVOLIO]] | Anzi, risponderà al padrone della lettera: come osa, essendo sfidato. è |
+| [[Mercutio\|MERCUZIO]] | Ahimè, povero [[Romeo]], è già morto—trafitto dall’occhio nero d’una pallida ragazza, passato da parte a parte per l’orecchio da una [[Song\|canzone]] d’[[Love\|amore]], il centro stesso del suo cuore spaccato dalla freccia spuntata del cieco arciere fanciullo; ed è uomo da affrontare [[Tybalt\|Tebaldo]]? |
+| *(didascalia)* | [[Benvolio\|BENVOLIO]] Ma insomma, chi è [[Tybalt\|Tebaldo]]? |
+| [[Mercutio\|MERCUZIO]] | Più che Principe dei Gatti. Oh, è il coraggioso capitano delle cerimonie. Combatte come tu canti a prima vista: tiene il [[Time\|tempo]], la distanza e la proporzione. Osserva le sue pause di minima: uno, due, e il terzo in petto; il vero macellaio d’un bottone di seta. Un duellante, un duellante; un gentiluomo della primissima [[house\|casa]], della prima e della seconda causa. Ah, l’immortale passata, il punto riverso, l’hai! |
+| [[Benvolio\|BENVOLIO]] | Il che? |
+| [[Mercutio\|MERCUZIO]] | La peste su questi grotteschi, blesi, affettati fantocci, questi nuovi accordatori d’accento! ‘Per Gesù, una lama eccellente, un uomo di gran statura, una gran bella puttana.’ Non è cosa lamentevole, nonno mio, che si debba essere così afflitti da queste strane mosche, questi mercanti di moda, questi ‘chiedo-scusa’, che tanto insistono sulla forma nuova da non poter star comodi sulla vecchia panca? Oh, le loro ossa, le loro ossa! Entra [[Romeo]] |
+| [[Benvolio\|BENVOLIO]] | Ecco che viene [[Romeo]], ecco che viene [[Romeo]]! |
+| [[Mercutio\|MERCUZIO]] | Senza le sue uova, come un’aringa secca. O carne, carne, come ti sei impescita! Ora è tutto per i numeri in cui fluì Petrarca. Laura, in confronto alla sua dama, era una sguattera—però, in fede, ebbe un [[Love\|amante]] migliore a metterla in rima—Didone una sciattona, [[Cleopatra]] una zingara, [[Helen\|Elena]] ed [[Hero\|Ero]] sgualdrine e bagasce, Tisbe un occhio grigio o poco più, ma non fa al caso. Signor [[Romeo]], bonjour. Ecco un saluto francese ai vostri calzoni francesi. Ci avete rifilato ben bene una moneta falsa la scorsa [[Night\|notte]]. |
+| [[Romeo\|ROMEO]] | Buon giorno a entrambi. Che moneta falsa vi ho rifilato? 45 |
+| [[Mercutio\|MERCUZIO]] | Il bidone, signore, il bidone. Non capite? |
+| [[Romeo\|ROMEO]] | Perdona, buon [[Mercutio\|Mercuzio]]. I miei affari erano grandi, e in un caso come il mio un uomo può forzare la cortesia. |
+| [[Mercutio\|MERCUZIO]] | Che è come dire che un caso come il vostro costringe un uomo a piegare i garretti. |
+| [[Romeo\|ROMEO]] | Vuoi dire a fare la riverenza. |
+| [[Mercutio\|MERCUZIO]] | Hai colto molto gentilmente. |
+| [[Romeo\|ROMEO]] | Una spiegazione cortesissima. |
+| [[Mercutio\|MERCUZIO]] | Anzi, io sono il fior fiore della cortesia. |
+| [[Romeo\|ROMEO]] | Fior fiore, cioè fiore. |
+| [[Mercutio\|MERCUZIO]] | Esatto. |
+| [[Romeo\|ROMEO]] | Ebbene, allora la mia scarpetta è [[Well\|ben]] fiorita. |
+| [[Mercutio\|MERCUZIO]] | Spirito sicuro, seguimi questo scherzo finché non avrai consumato la scarpetta, sicché, quando la sua unica suola sarà logora, lo scherzo resti, dopo l’uso, unicamente singolare. |
+| [[Romeo\|ROMEO]] | Oh, scherzo dalla suola unica, unicamente singolare per la sua singolarità! |
+| [[Mercutio\|MERCUZIO]] | Mettiti fra noi, buon [[Benvolio]]. Il mio ingegno viene meno. |
+| [[Romeo\|ROMEO]] | Frusta e speroni, frusta e speroni, o griderò vittoria. |
+| [[Mercutio\|MERCUZIO]] | Anzi, se i nostri ingegni corrono la caccia all’oca selvatica, io ho finito, ché tu hai più dell’oca selvatica in uno solo dei tuoi sensi di quanto io ne abbia, ne son certo, in tutti e cinque i miei. Ero con te, là, per l’oca? |
+| [[Romeo\|ROMEO]] | Non fosti mai con me per nulla, se non eri là per l’oca. |
+| [[Mercutio\|MERCUZIO]] | Ti morderò l’orecchio per questo scherzo. |
+| [[Romeo\|ROMEO]] | No, buona oca, non mordere. |
+| [[Mercutio\|MERCUZIO]] | Il tuo spirito è una mela dolce-amara; è una salsa piccantissima. |
+| [[Romeo\|ROMEO]] | E non è forse [[Well\|ben]] servita a un’oca dolce? |
+| [[Mercutio\|MERCUZIO]] | Oh, ecco uno spirito di pelle di capretto, che si stira da un pollice di stretto a un braccio di largo. |
+| [[Romeo\|ROMEO]] | Io lo stiro per quella parola ‘largo’, che, aggiunta all’oca, ti dimostra in lungo e in largo un’oca larga. |
+| [[Mercutio\|MERCUZIO]] | Ebbene, non è meglio questo che gemere d’[[Love\|amore]]? Ora sei socievole, ora sei [[Romeo]], ora sei ciò che sei per arte come [[Well\|pure]] per [[Nature\|natura]]; ché questo [[Love\|amore]] bavoso è come un grande scemo che corre ciondolando su e giù per nascondere il suo batocchio in un buco. |
+| [[Benvolio\|BENVOLIO]] | Fermati lì, fermati lì. |
+| [[Mercutio\|MERCUZIO]] | Vuoi che fermi il mio racconto contropelo. |
+| [[Benvolio\|BENVOLIO]] | Altrimenti avresti fatto il tuo racconto troppo lungo. [[Mercutio\|MERCUZIO]] Oh, t’inganni: l’avrei fatto corto, ché ero giunto a tutta la profondità del mio racconto, e non intendevo davvero occupare più oltre l’argomento. Entrano la [[Nurse\|Nutrice]] e Pietro, il suo servo |
+| [[Romeo\|ROMEO]] | Ecco della bella roba. |
+| *(didascalia)* | [[Benvolio\|BENVOLIO]] Una vela, una vela! |
+| [[Mercutio\|MERCUZIO]] | Due, due—una camicia e una sottana. |
+| [[Nurse\|NUTRICE]] | Pietro. |
 | PIETRO | Subito. |
-| [[Nurse|NUTRICE]] | Il mio ventaglio, Pietro. |
-| [[Mercutio|MERCUZIO]] | Buon Pietro, per nascondere la sua faccia, ché il ventaglio ha la faccia più bella. |
-| [[Nurse|NUTRICE]] | Dio vi dia il buon giorno, signori. |
-| [[Mercutio|MERCUZIO]] | Dio vi dia la buona sera, bella gentildonna. |
-| [[Nurse|NUTRICE]] | È buona sera? |
-| [[Mercutio|MERCUZIO]] | Non meno, ve l’assicuro: ché la mano oscena della meridiana è ora sulla punta del [[Noon|mezzogiorno]]. |
-| [[Nurse|NUTRICE]] | Vergogna a voi, che uomo siete! |
-| [[Romeo|ROMEO]] | Uno, gentildonna, che Dio ha fatto perché si rovinasse da sé. |
-| [[Nurse|NUTRICE]] | In fede mia, è [[Well|ben]] detto. ‘Perché si rovinasse da sé’, ha detto? Signori, qualcuno di voi sa dirmi dove posso trovare il giovane [[Romeo]]? |
-| [[Romeo|ROMEO]] | Posso dirvelo io, ma il giovane [[Romeo]] sarà più vecchio quando l’avrete trovato di quanto fosse quando lo cercavate. Io sono il più giovane di quel nome, in mancanza d’uno peggiore. |
-| [[Nurse|NUTRICE]] | Dite [[Well|bene]]. |
-| [[Mercutio|MERCUZIO]] | Ah sì, il peggiore è [[Well|bene]]? Molto [[Well|ben]] colto, in [[Faith|fede]] mia; saggiamente, saggiamente. |
-| [[Nurse|NUTRICE]] | (a [[Romeo]]) Se siete voi, signore, [[Desire|desidero]] un colloquio riservato con voi. |
-| [[Benvolio|BENVOLIO]] | Lo inviterà a qualche cena. |
-| [[Mercutio|MERCUZIO]] | Una ruffiana, una ruffiana, una ruffiana. Ohilà! |
-| [[Romeo|ROMEO]] | Che cosa hai trovato? |
-| [[Mercutio|MERCUZIO]] | Nessuna lepre, signore, se non una lepre, signore, in un pasticcio di quaresima, che è alquanto stantia e ammuffita prima d’essere consumata. |
+| [[Nurse\|NUTRICE]] | Il mio ventaglio, Pietro. |
+| [[Mercutio\|MERCUZIO]] | Buon Pietro, per nascondere la sua faccia, ché il ventaglio ha la faccia più bella. |
+| [[Nurse\|NUTRICE]] | Dio vi dia il buon giorno, signori. |
+| [[Mercutio\|MERCUZIO]] | Dio vi dia la buona sera, bella gentildonna. |
+| [[Nurse\|NUTRICE]] | È buona sera? |
+| [[Mercutio\|MERCUZIO]] | Non meno, ve l’assicuro: ché la mano oscena della meridiana è ora sulla punta del [[Noon\|mezzogiorno]]. |
+| [[Nurse\|NUTRICE]] | Vergogna a voi, che uomo siete! |
+| [[Romeo\|ROMEO]] | Uno, gentildonna, che Dio ha fatto perché si rovinasse da sé. |
+| [[Nurse\|NUTRICE]] | In fede mia, è [[Well\|ben]] detto. ‘Perché si rovinasse da sé’, ha detto? Signori, qualcuno di voi sa dirmi dove posso trovare il giovane [[Romeo]]? |
+| [[Romeo\|ROMEO]] | Posso dirvelo io, ma il giovane [[Romeo]] sarà più vecchio quando l’avrete trovato di quanto fosse quando lo cercavate. Io sono il più giovane di quel nome, in mancanza d’uno peggiore. |
+| [[Nurse\|NUTRICE]] | Dite [[Well\|bene]]. |
+| [[Mercutio\|MERCUZIO]] | Ah sì, il peggiore è [[Well\|bene]]? Molto [[Well\|ben]] colto, in [[Faith\|fede]] mia; saggiamente, saggiamente. |
+| [[Nurse\|NUTRICE]] | (a [[Romeo]]) Se siete voi, signore, [[Desire\|desidero]] un colloquio riservato con voi. |
+| [[Benvolio\|BENVOLIO]] | Lo inviterà a qualche cena. |
+| [[Mercutio\|MERCUZIO]] | Una ruffiana, una ruffiana, una ruffiana. Ohilà! |
+| [[Romeo\|ROMEO]] | Che cosa hai trovato? |
+| [[Mercutio\|MERCUZIO]] | Nessuna lepre, signore, se non una lepre, signore, in un pasticcio di quaresima, che è alquanto stantia e ammuffita prima d’essere consumata. |
 | *(didascalia)* | Passa loro accanto e canta |
-| [[Mercutio|MERCUZIO]] | Una vecchia lepre muffita<br>e una vecchia lepre muffita<br>è ottima carne in Quaresima.<br>Ma una lepre che è muffita<br>è troppo per una brigata<br>se ammuffisce prima d’esser consumata.<br>[[Romeo]], venite da vostro padre? Andiamo là a pranzo. |
-| [[Romeo|ROMEO]] | Vi seguirò. |
-| *(didascalia)* | [[Mercutio|MERCUZIO]] Addio, antica signora. Addio, canta ‘signora, signora, signora’. Escono [[Mercutio|Mercuzio]] e [[Benvolio]] |
-| [[Nurse|NUTRICE]] | Vi prego, signore, chi era questo mercante impudente così pieno delle sue sguaiataggini? |
-| [[Romeo|ROMEO]] | Un gentiluomo, [[Nurse|Nutrice]], che ama sentirsi parlare, e dirà più in un minuto di quanto sosterrà in un mese. |
-| [[Nurse|NUTRICE]] | Se dice qualcosa contro di me, lo metterò a posto, fosse anche più gagliardo di quel che è, e venti bulli come lui; e se non posso io, troverò chi lo farà. Furfante scabbioso! Non sono una delle sue sgualdrinelle, non sono una delle sue compagne di coltello. (A Pietro) E anche tu devi startene lì a guardare, e sopportare che ogni furfante mi usi a suo piacimento. |
+| [[Mercutio\|MERCUZIO]] | Una vecchia lepre muffita<br>e una vecchia lepre muffita<br>è ottima carne in Quaresima.<br>Ma una lepre che è muffita<br>è troppo per una brigata<br>se ammuffisce prima d’esser consumata.<br>[[Romeo]], venite da vostro padre? Andiamo là a pranzo. |
+| [[Romeo\|ROMEO]] | Vi seguirò. |
+| *(didascalia)* | [[Mercutio\|MERCUZIO]] Addio, antica signora. Addio, canta ‘signora, signora, signora’. Escono [[Mercutio\|Mercuzio]] e [[Benvolio]] |
+| [[Nurse\|NUTRICE]] | Vi prego, signore, chi era questo mercante impudente così pieno delle sue sguaiataggini? |
+| [[Romeo\|ROMEO]] | Un gentiluomo, [[Nurse\|Nutrice]], che ama sentirsi parlare, e dirà più in un minuto di quanto sosterrà in un mese. |
+| [[Nurse\|NUTRICE]] | Se dice qualcosa contro di me, lo metterò a posto, fosse anche più gagliardo di quel che è, e venti bulli come lui; e se non posso io, troverò chi lo farà. Furfante scabbioso! Non sono una delle sue sgualdrinelle, non sono una delle sue compagne di coltello. (A Pietro) E anche tu devi startene lì a guardare, e sopportare che ogni furfante mi usi a suo piacimento. |
 | PIETRO | Non ho visto nessuno usarvi a suo piacimento. Se l’avessi visto, la mia arma sarebbe stata subito fuori; ve lo garantisco, oso sguainare quanto un altro se vedo occasione in una buona lite, e la legge dalla mia parte. |
-| [[Nurse|NUTRICE]] | Ora, davanti a Dio, sono così irritata che ogni parte di me trema. Furfante scabbioso! (A [[Romeo]]) Vi prego, signore, una parola; e, come vi dicevo, la mia giovane padrona m’ha ordinato di cercarvi. Ciò che m’ha detto di dire lo terrò per me; ma prima lasciate che vi dica: se voleste condurla nel paradiso degli [[Fool|sciocchi]], come si dice, sarebbe un modo di comportarsi assai grossolano, come si dice, ché la gentildonna è giovane; e perciò, se voi agiste con [[Double|doppiezza]] verso di lei, sarebbe davvero brutta cosa da offrire a qualunque gentildonna, e un agire assai meschino. |
-| [[Romeo|ROMEO]] | [[Nurse|Nutrice]], raccomandami alla tua signora e padrona. Ti protesto— |
-| [[Nurse|NUTRICE]] | Buon cuore, e in [[Faith|fede]] mia glielo dirò. Signore, Signore, sarà una donna felice. |
-| [[Romeo|ROMEO]] | Che cosa le dirai, [[Nurse|Nutrice]]? Non mi stai a sentire. |
-| [[Nurse|NUTRICE]] | Le dirò, signore, che voi protestate; il che, a quanto intendo, è un’offerta da gentiluomo. |
-| [[Romeo|ROMEO]] | Dille che escogiti<br>qualche modo di venire a confessarsi questo pomeriggio,<br>e là, nella cella di [[Friar Laurence|Frate Lorenzo]],<br>sarà confessata e sposata. (Offrendo del denaro) Ecco per<br>il tuo disturbo. |
-| [[Nurse|NUTRICE]] | No, davvero, signore, non un soldo. |
-| [[Romeo|ROMEO]] | Andiamo, dico, lo prenderai. |
-| *(didascalia)* | [[Nurse|NUTRICE]] prendendo il denaro |
-| [[Romeo|ROMEO]] | Questo pomeriggio, signore. [[Well|Ebbene]], ci sarà. |
-| [[Romeo|ROMEO]] | E aspetta, buona [[Nurse|Nutrice]], dietro il muro dell’abbazia. |
+| [[Nurse\|NUTRICE]] | Ora, davanti a Dio, sono così irritata che ogni parte di me trema. Furfante scabbioso! (A [[Romeo]]) Vi prego, signore, una parola; e, come vi dicevo, la mia giovane padrona m’ha ordinato di cercarvi. Ciò che m’ha detto di dire lo terrò per me; ma prima lasciate che vi dica: se voleste condurla nel paradiso degli [[Fool\|sciocchi]], come si dice, sarebbe un modo di comportarsi assai grossolano, come si dice, ché la gentildonna è giovane; e perciò, se voi agiste con [[Double\|doppiezza]] verso di lei, sarebbe davvero brutta cosa da offrire a qualunque gentildonna, e un agire assai meschino. |
+| [[Romeo\|ROMEO]] | [[Nurse\|Nutrice]], raccomandami alla tua signora e padrona. Ti protesto— |
+| [[Nurse\|NUTRICE]] | Buon cuore, e in [[Faith\|fede]] mia glielo dirò. Signore, Signore, sarà una donna felice. |
+| [[Romeo\|ROMEO]] | Che cosa le dirai, [[Nurse\|Nutrice]]? Non mi stai a sentire. |
+| [[Nurse\|NUTRICE]] | Le dirò, signore, che voi protestate; il che, a quanto intendo, è un’offerta da gentiluomo. |
+| [[Romeo\|ROMEO]] | Dille che escogiti<br>qualche modo di venire a confessarsi questo pomeriggio,<br>e là, nella cella di [[Friar Laurence\|Frate Lorenzo]],<br>sarà confessata e sposata. (Offrendo del denaro) Ecco per<br>il tuo disturbo. |
+| [[Nurse\|NUTRICE]] | No, davvero, signore, non un soldo. |
+| [[Romeo\|ROMEO]] | Andiamo, dico, lo prenderai. |
+| *(didascalia)* | [[Nurse\|NUTRICE]] prendendo il denaro |
+| [[Romeo\|ROMEO]] | Questo pomeriggio, signore. [[Well\|Ebbene]], ci sarà. |
+| [[Romeo\|ROMEO]] | E aspetta, buona [[Nurse\|Nutrice]], dietro il muro dell’abbazia. |
 | *(didascalia)* | Entro quest’ora il mio servo sarà da te |
-| [[Romeo|ROMEO]] | e ti porterà delle corde fatte a scala di sartiame,<br>che al più alto pennone della mia gioia<br>dovranno farmi da convoglio nella segreta [[Night|notte]].<br>Addio. Sii fedele, e ricompenserò il tuo disturbo.<br>Addio. Raccomandami alla tua padrona. |
-| [[Nurse|NUTRICE]] | Ora Dio in cielo ti benedica! Sentite, signore. |
-| [[Romeo|ROMEO]] | Che dici, mia cara [[Nurse|Nutrice]]? |
-| [[Nurse|NUTRICE]] | Il vostro servo sa tacere? Non avete mai udito dire<br>‘Due possono serbare un segreto, se se ne toglie uno’? |
-| [[Romeo|ROMEO]] | Ti garantisco che il mio servo è fedele come l’acciaio. |
-| [[Nurse|NUTRICE]] | [[Well|Ebbene]], signore, la mia padrona è la più dolce delle dame.<br>Signore, Signore, quand’era una piccola cosa ciarliera—<br>Oh, c’è un nobile in città, un certo [[Paris|Paride]],<br>che volentieri metterebbe il coltello a bordo; ma lei, buon’[[Soul|anima]],<br>preferirebbe vedere un rospo, un vero rospo,<br>piuttosto che lui. A volte la faccio arrabbiare,<br>e le dico che [[Paris|Paride]] è l’uomo più avvenente;<br>ma vi garantisco che, quando lo dico, diventa<br>pallida come qualsiasi cencio dell’universo mondo.<br>Non cominciano forse rosmarino e [[Romeo]]<br>tutt’e due con la stessa lettera? |
-| [[Romeo|ROMEO]] | Sì, [[Nurse|Nutrice]], e con ciò? Tutt’e due con una ‘R’. |
-| [[Nurse|NUTRICE]] | Ah, burlone—quello è il nome del cane. ‘R’ sta per il—no, so che comincia con qualche altra lettera, e lei ne fa la più graziosa sentenza, di voi e del rosmarino, che vi farebbe bene sentirla. |
-| [[Romeo|ROMEO]] | Raccomandami alla tua signora. |
-| [[Nurse|NUTRICE]] | Sì, mille volte. Pietro! |
+| [[Romeo\|ROMEO]] | e ti porterà delle corde fatte a scala di sartiame,<br>che al più alto pennone della mia gioia<br>dovranno farmi da convoglio nella segreta [[Night\|notte]].<br>Addio. Sii fedele, e ricompenserò il tuo disturbo.<br>Addio. Raccomandami alla tua padrona. |
+| [[Nurse\|NUTRICE]] | Ora Dio in cielo ti benedica! Sentite, signore. |
+| [[Romeo\|ROMEO]] | Che dici, mia cara [[Nurse\|Nutrice]]? |
+| [[Nurse\|NUTRICE]] | Il vostro servo sa tacere? Non avete mai udito dire<br>‘Due possono serbare un segreto, se se ne toglie uno’? |
+| [[Romeo\|ROMEO]] | Ti garantisco che il mio servo è fedele come l’acciaio. |
+| [[Nurse\|NUTRICE]] | [[Well\|Ebbene]], signore, la mia padrona è la più dolce delle dame.<br>Signore, Signore, quand’era una piccola cosa ciarliera—<br>Oh, c’è un nobile in città, un certo [[Paris\|Paride]],<br>che volentieri metterebbe il coltello a bordo; ma lei, buon’[[Soul\|anima]],<br>preferirebbe vedere un rospo, un vero rospo,<br>piuttosto che lui. A volte la faccio arrabbiare,<br>e le dico che [[Paris\|Paride]] è l’uomo più avvenente;<br>ma vi garantisco che, quando lo dico, diventa<br>pallida come qualsiasi cencio dell’universo mondo.<br>Non cominciano forse rosmarino e [[Romeo]]<br>tutt’e due con la stessa lettera? |
+| [[Romeo\|ROMEO]] | Sì, [[Nurse\|Nutrice]], e con ciò? Tutt’e due con una ‘R’. |
+| [[Nurse\|NUTRICE]] | Ah, burlone—quello è il nome del cane. ‘R’ sta per il—no, so che comincia con qualche altra lettera, e lei ne fa la più graziosa sentenza, di voi e del rosmarino, che vi farebbe bene sentirla. |
+| [[Romeo\|ROMEO]] | Raccomandami alla tua signora. |
+| [[Nurse\|NUTRICE]] | Sì, mille volte. Pietro! |
 | PIETRO | Subito. |
-| *(didascalia)* | [[Nurse|NUTRICE]] porgendo a Pietro il ventaglio Avanti, e svelto. |
-| *(didascalia)* | Escono Pietro e la [[Nurse|Nutrice]] da una porta, [[Romeo]] da un’altra |
+| *(didascalia)* | [[Nurse\|NUTRICE]] porgendo a Pietro il ventaglio Avanti, e svelto. |
+| *(didascalia)* | Escono Pietro e la [[Nurse\|Nutrice]] da una porta, [[Romeo]] da un’altra |
 
 
 
@@ -2431,30 +2431,30 @@ Exit
 
 | Chi parla | Battuta |
 |---|---|
-| *(didascalia)* | Entra [[Juliet|Giulietta]] |
-| [[Juliet|GIULIETTA]] | L’[[Clock|orologio]] batté le nove quando mandai la [[Nurse|Nutrice]].<br>In mezz’ora promise di tornare.<br>Forse non riesce a incontrarlo. Non è così.<br>Oh, è zoppa! Araldi dell’[[Love|amore]] dovrebbero essere i pensieri,<br>che scivolano dieci volte più veloci dei raggi del sole<br>quando ricacciano le ombre sui colli tetri.<br>Perciò colombe dalle penne agili trainano l’[[Love|amore]],<br>e perciò Cupido, rapido come il [[Wind|vento]], ha le ali.<br>Ora il sole è sul più alto [[Hill|colle]]<br>del suo [[Journey|viaggio]] d’oggi, e dalle nove alle dodici<br>sono tre lunghe ore, eppure non è venuta.<br>Se avesse affetti e caldo [[Blood|sangue]] giovanile<br>sarebbe rapida nel muoversi come una palla.<br>Le mie parole la rilancerebbero al mio dolce [[Love|amore]],<br>e le sue a me.<br>Ma i vecchi, molti fingono d’esser morti—<br>goffi, lenti, pesanti e pallidi come piombo. |
-| *(didascalia)* | Entrano la [[Nurse|Nutrice]] e Pietro |
-| [[Juliet|GIULIETTA]] | O Dio, eccola! O dolce [[Nurse|Nutrice]], che notizie?<br>L’hai incontrato? Manda via il tuo servo. |
-| [[Nurse|NUTRICE]] | Pietro, resta al cancello. Esce Pietro |
-| [[Juliet|GIULIETTA]] | Ora, buona dolce [[Nurse|Nutrice]]—o Signore, perché hai l’aria triste?<br>Anche se le notizie sono tristi, dammele allegramente;<br>se sono buone, fai vergogna alla musica delle dolci notizie<br>suonandomela con volto così arcigno. |
-| [[Nurse|NUTRICE]] | Sono stanca morta. Lasciami un momento.<br>Ahi, come mi dolgono le ossa. Che scarpinata ho fatto! |
-| [[Juliet|GIULIETTA]] | Vorrei che tu avessi le mie ossa e io le tue notizie.<br>Su, vieni, ti prego, parla, buona, buona [[Nurse|Nutrice]], parla. |
-| [[Nurse|NUTRICE]] | Gesù, che fretta! Non potete aspettare un momento?<br>Non vedete che sono senza fiato? |
-| [[Juliet|GIULIETTA]] | Come sei senza fiato, se hai fiato<br>per dirmi che sei senza fiato?<br>La scusa che adduci in questo ritardo<br>è più lunga del racconto che con essa scusi.<br>Le tue notizie son buone o cattive? Rispondi a questo.<br>Di’ l’una o l’altra, e aspetterò i particolari.<br>Fammi contenta: son buone o cattive? |
-| [[Nurse|NUTRICE]] | [[Well|Ebbene]], avete fatto una scelta ben modesta. Non sapete scegliere un uomo. [[Romeo]]? No, non lui; benché il suo viso sia migliore di quello di qualsiasi uomo, la sua gamba supera quella di tutti; e quanto a mano, piede e [[Body|corpo]], sebbene non se ne debba parlare, sono al di là d’ogni paragone. Non è il fiore della cortesia, ma, ve lo garantisco, è mite come un [[Lamb|agnello]]. Va’ per la tua strada, ragazza. Servi Dio. Come, avete pranzato a [[Home|casa]]? |
-| [[Juliet|GIULIETTA]] | No, no. Ma tutto questo lo sapevo già.<br>Che dice del nostro [[Marriage|matrimonio]]—che ne dice? |
-| [[Nurse|NUTRICE]] | Signore, come mi duole la testa! Che testa ho!<br>Batte come se dovesse cadere in venti pezzi.<br>La mia schiena— |
-| *(didascalia)* | [[Juliet|Giulietta]] le strofina la schiena |
-| [[Nurse|NUTRICE]] | dall’altra parte—ah, la mia schiena, la mia schiena!<br>Maledetto il vostro cuore per avermi mandata in giro<br>a prendermi la [[Death|morte]] scarpinando su e giù. |
-| [[Juliet|GIULIETTA]] | In [[Faith|fede]] mia, mi dispiace che tu non stia [[Well|bene]].<br>Dolce, dolce, dolce [[Nurse|Nutrice]], dimmi, che dice il mio [[Love|amore]]? |
-| [[Nurse|NUTRICE]] | Il vostro [[Love|amore]] dice, da onesto gentiluomo qual è, e<br>cortese, e gentile, e bello, e, ve lo garantisco,<br>virtuoso—dov’è vostra madre? |
-| [[Juliet|GIULIETTA]] | Dov’è mia madre? Ma è dentro.<br>Dove dovrebbe essere? Come rispondi stranamente!<br>‘Il vostro [[Love|amore]] dice da onesto gentiluomo<br>“Dov’è vostra madre?”’ |
-| [[Nurse|NUTRICE]] | Oh, Madonna santa!<br>Siete così accalorata? Perbacco, andiamo, dico io.<br>È questo l’impiastro per le mie ossa doloranti?<br>D’ora innanzi fatevi da voi le vostre commissioni. |
-| [[Juliet|GIULIETTA]] | Che gran storia! Su, che dice [[Romeo]]? |
-| [[Nurse|NUTRICE]] | Avete avuto il permesso d’andare a confessarvi oggi? |
-| [[Juliet|GIULIETTA]] | L’ho avuto. |
-| [[Nurse|NUTRICE]] | Allora affrettatevi di qui alla cella di [[Friar Laurence|Frate Lorenzo]].<br>Là attende un marito che vi farà moglie.<br>Ecco che il [[Blood|sangue]] lascivo vi sale alle guance.<br>Si fanno scarlatte subito a ogni notizia.<br>Affrettatevi in chiesa. Io devo andare per un’altra via,<br>a prendere una scala per la quale il vostro [[Love|amore]]<br>dovrà presto salire a un nido d’uccello, quando sarà buio.<br>Io sono la bestia da soma, e fatico per il vostro diletto,<br>ma il peso lo porterete voi, questa [[Night|notte]].<br>Andate, io vado a pranzo. Affrettatevi alla cella. |
-| [[Juliet|GIULIETTA]] | Affrettiamoci ad alta fortuna! Onesta [[Nurse|Nutrice]], addio. |
+| *(didascalia)* | Entra [[Juliet\|Giulietta]] |
+| [[Juliet\|GIULIETTA]] | L’[[Clock\|orologio]] batté le nove quando mandai la [[Nurse\|Nutrice]].<br>In mezz’ora promise di tornare.<br>Forse non riesce a incontrarlo. Non è così.<br>Oh, è zoppa! Araldi dell’[[Love\|amore]] dovrebbero essere i pensieri,<br>che scivolano dieci volte più veloci dei raggi del sole<br>quando ricacciano le ombre sui colli tetri.<br>Perciò colombe dalle penne agili trainano l’[[Love\|amore]],<br>e perciò Cupido, rapido come il [[Wind\|vento]], ha le ali.<br>Ora il sole è sul più alto [[Hill\|colle]]<br>del suo [[Journey\|viaggio]] d’oggi, e dalle nove alle dodici<br>sono tre lunghe ore, eppure non è venuta.<br>Se avesse affetti e caldo [[Blood\|sangue]] giovanile<br>sarebbe rapida nel muoversi come una palla.<br>Le mie parole la rilancerebbero al mio dolce [[Love\|amore]],<br>e le sue a me.<br>Ma i vecchi, molti fingono d’esser morti—<br>goffi, lenti, pesanti e pallidi come piombo. |
+| *(didascalia)* | Entrano la [[Nurse\|Nutrice]] e Pietro |
+| [[Juliet\|GIULIETTA]] | O Dio, eccola! O dolce [[Nurse\|Nutrice]], che notizie?<br>L’hai incontrato? Manda via il tuo servo. |
+| [[Nurse\|NUTRICE]] | Pietro, resta al cancello. Esce Pietro |
+| [[Juliet\|GIULIETTA]] | Ora, buona dolce [[Nurse\|Nutrice]]—o Signore, perché hai l’aria triste?<br>Anche se le notizie sono tristi, dammele allegramente;<br>se sono buone, fai vergogna alla musica delle dolci notizie<br>suonandomela con volto così arcigno. |
+| [[Nurse\|NUTRICE]] | Sono stanca morta. Lasciami un momento.<br>Ahi, come mi dolgono le ossa. Che scarpinata ho fatto! |
+| [[Juliet\|GIULIETTA]] | Vorrei che tu avessi le mie ossa e io le tue notizie.<br>Su, vieni, ti prego, parla, buona, buona [[Nurse\|Nutrice]], parla. |
+| [[Nurse\|NUTRICE]] | Gesù, che fretta! Non potete aspettare un momento?<br>Non vedete che sono senza fiato? |
+| [[Juliet\|GIULIETTA]] | Come sei senza fiato, se hai fiato<br>per dirmi che sei senza fiato?<br>La scusa che adduci in questo ritardo<br>è più lunga del racconto che con essa scusi.<br>Le tue notizie son buone o cattive? Rispondi a questo.<br>Di’ l’una o l’altra, e aspetterò i particolari.<br>Fammi contenta: son buone o cattive? |
+| [[Nurse\|NUTRICE]] | [[Well\|Ebbene]], avete fatto una scelta ben modesta. Non sapete scegliere un uomo. [[Romeo]]? No, non lui; benché il suo viso sia migliore di quello di qualsiasi uomo, la sua gamba supera quella di tutti; e quanto a mano, piede e [[Body\|corpo]], sebbene non se ne debba parlare, sono al di là d’ogni paragone. Non è il fiore della cortesia, ma, ve lo garantisco, è mite come un [[Lamb\|agnello]]. Va’ per la tua strada, ragazza. Servi Dio. Come, avete pranzato a [[Home\|casa]]? |
+| [[Juliet\|GIULIETTA]] | No, no. Ma tutto questo lo sapevo già.<br>Che dice del nostro [[Marriage\|matrimonio]]—che ne dice? |
+| [[Nurse\|NUTRICE]] | Signore, come mi duole la testa! Che testa ho!<br>Batte come se dovesse cadere in venti pezzi.<br>La mia schiena— |
+| *(didascalia)* | [[Juliet\|Giulietta]] le strofina la schiena |
+| [[Nurse\|NUTRICE]] | dall’altra parte—ah, la mia schiena, la mia schiena!<br>Maledetto il vostro cuore per avermi mandata in giro<br>a prendermi la [[Death\|morte]] scarpinando su e giù. |
+| [[Juliet\|GIULIETTA]] | In [[Faith\|fede]] mia, mi dispiace che tu non stia [[Well\|bene]].<br>Dolce, dolce, dolce [[Nurse\|Nutrice]], dimmi, che dice il mio [[Love\|amore]]? |
+| [[Nurse\|NUTRICE]] | Il vostro [[Love\|amore]] dice, da onesto gentiluomo qual è, e<br>cortese, e gentile, e bello, e, ve lo garantisco,<br>virtuoso—dov’è vostra madre? |
+| [[Juliet\|GIULIETTA]] | Dov’è mia madre? Ma è dentro.<br>Dove dovrebbe essere? Come rispondi stranamente!<br>‘Il vostro [[Love\|amore]] dice da onesto gentiluomo<br>“Dov’è vostra madre?”’ |
+| [[Nurse\|NUTRICE]] | Oh, Madonna santa!<br>Siete così accalorata? Perbacco, andiamo, dico io.<br>È questo l’impiastro per le mie ossa doloranti?<br>D’ora innanzi fatevi da voi le vostre commissioni. |
+| [[Juliet\|GIULIETTA]] | Che gran storia! Su, che dice [[Romeo]]? |
+| [[Nurse\|NUTRICE]] | Avete avuto il permesso d’andare a confessarvi oggi? |
+| [[Juliet\|GIULIETTA]] | L’ho avuto. |
+| [[Nurse\|NUTRICE]] | Allora affrettatevi di qui alla cella di [[Friar Laurence\|Frate Lorenzo]].<br>Là attende un marito che vi farà moglie.<br>Ecco che il [[Blood\|sangue]] lascivo vi sale alle guance.<br>Si fanno scarlatte subito a ogni notizia.<br>Affrettatevi in chiesa. Io devo andare per un’altra via,<br>a prendere una scala per la quale il vostro [[Love\|amore]]<br>dovrà presto salire a un nido d’uccello, quando sarà buio.<br>Io sono la bestia da soma, e fatico per il vostro diletto,<br>ma il peso lo porterete voi, questa [[Night\|notte]].<br>Andate, io vado a pranzo. Affrettatevi alla cella. |
+| [[Juliet\|GIULIETTA]] | Affrettiamoci ad alta fortuna! Onesta [[Nurse\|Nutrice]], addio. |
 | *(didascalia)* | Escono da parti opposte |
 
 
@@ -2482,18 +2482,18 @@ Exit
 
 | Chi parla | Battuta |
 |---|---|
-| *(didascalia)* | Entrano [[Friar Laurence|Frate Lorenzo]] e [[Romeo]] |
-| [[Friar Laurence|FRATE LORENZO]] | Così sorridano i cieli su questo santo atto,<br>che le ore future non ci rimproverino col dolore! |
-| [[Romeo|ROMEO]] | Amen, amen. Ma venga pure ogni dolore che può,<br>non potrà controbilanciare lo scambio di gioia<br>che un solo breve minuto mi dà alla sua vista.<br>Congiungi tu soltanto le nostre mani con sante parole,<br>poi la [[Death|morte]] divoratrice d’[[Love|amore]] faccia ciò che osa—<br>mi basta poterla chiamare mia. |
-| [[Friar Laurence|FRATE LORENZO]] | Questi violenti diletti hanno violenti fini,<br>e muoiono nel loro trionfo come [[Fire|fuoco]] e polvere,<br>che baciandosi si consumano. Il miele più dolce<br>è stucchevole nella sua stessa delizia,<br>e al gusto confonde l’appetito.<br>Perciò [[Love|ama]] con misura. Così fa l’[[Love|amore]] durevole.<br>Chi arriva troppo in fretta giunge tardi quanto chi va troppo adagio. |
-| *(didascalia)* | Entra [[Juliet|Giulietta]] alquanto in fretta, e abbraccia [[Romeo]] |
-| [[Friar Laurence|FRATE LORENZO]] | Ecco che viene la dama. Oh, un piede così lieve<br>non consumerà mai l’eterna selce.<br>Un [[Lover|amante]] può cavalcare i fili della Vergine<br>che oziano nell’aria lasciva dell’[[Summer|estate]],<br>e non cadere: tanto è lieve la [[Vanity|vanità]]. |
-| [[Juliet|GIULIETTA]] | Buona sera al mio confessore spirituale. |
-| [[Friar Laurence|FRATE LORENZO]] | [[Romeo]] ti ringrazierà, figliola, per entrambi. |
-| [[Juliet|GIULIETTA]] | Altrettanto a lui, altrimenti il suo ringraziamento è troppo. |
-| [[Romeo|ROMEO]] | Ah, [[Juliet|Giulietta]], se la misura della tua gioia<br>è colma come la mia, e la tua abilità è maggiore<br>nel proclamarla, allora addolcisci col tuo fiato<br>quest’aria vicina, e la lingua d’una ricca musica<br>dispieghi l’immaginata felicità che entrambi<br>riceviamo l’uno dall’altra in questo caro incontro. |
-| [[Juliet|GIULIETTA]] | L’immaginazione, più ricca di sostanza che di parole,<br>si vanta della propria materia, non dell’ornamento.<br>Sono mendichi soltanto quelli che sanno contare il proprio valore,<br>ma il mio vero [[Love|amore]] è cresciuto a tal eccesso<br>ch’io non posso far la somma nemmeno di metà della mia ricchezza. |
-| [[Friar Laurence|FRATE LORENZO]] | Venite, venite con me, e sbrigheremo la cosa in breve,<br>ché, con vostra [[Leaves|licenza]], non resterete [[Alone|soli]]<br>finché la Santa Chiesa non abbia fatto di due uno solo. Escono |
+| *(didascalia)* | Entrano [[Friar Laurence\|Frate Lorenzo]] e [[Romeo]] |
+| [[Friar Laurence\|FRATE LORENZO]] | Così sorridano i cieli su questo santo atto,<br>che le ore future non ci rimproverino col dolore! |
+| [[Romeo\|ROMEO]] | Amen, amen. Ma venga pure ogni dolore che può,<br>non potrà controbilanciare lo scambio di gioia<br>che un solo breve minuto mi dà alla sua vista.<br>Congiungi tu soltanto le nostre mani con sante parole,<br>poi la [[Death\|morte]] divoratrice d’[[Love\|amore]] faccia ciò che osa—<br>mi basta poterla chiamare mia. |
+| [[Friar Laurence\|FRATE LORENZO]] | Questi violenti diletti hanno violenti fini,<br>e muoiono nel loro trionfo come [[Fire\|fuoco]] e polvere,<br>che baciandosi si consumano. Il miele più dolce<br>è stucchevole nella sua stessa delizia,<br>e al gusto confonde l’appetito.<br>Perciò [[Love\|ama]] con misura. Così fa l’[[Love\|amore]] durevole.<br>Chi arriva troppo in fretta giunge tardi quanto chi va troppo adagio. |
+| *(didascalia)* | Entra [[Juliet\|Giulietta]] alquanto in fretta, e abbraccia [[Romeo]] |
+| [[Friar Laurence\|FRATE LORENZO]] | Ecco che viene la dama. Oh, un piede così lieve<br>non consumerà mai l’eterna selce.<br>Un [[Lover\|amante]] può cavalcare i fili della Vergine<br>che oziano nell’aria lasciva dell’[[Summer\|estate]],<br>e non cadere: tanto è lieve la [[Vanity\|vanità]]. |
+| [[Juliet\|GIULIETTA]] | Buona sera al mio confessore spirituale. |
+| [[Friar Laurence\|FRATE LORENZO]] | [[Romeo]] ti ringrazierà, figliola, per entrambi. |
+| [[Juliet\|GIULIETTA]] | Altrettanto a lui, altrimenti il suo ringraziamento è troppo. |
+| [[Romeo\|ROMEO]] | Ah, [[Juliet\|Giulietta]], se la misura della tua gioia<br>è colma come la mia, e la tua abilità è maggiore<br>nel proclamarla, allora addolcisci col tuo fiato<br>quest’aria vicina, e la lingua d’una ricca musica<br>dispieghi l’immaginata felicità che entrambi<br>riceviamo l’uno dall’altra in questo caro incontro. |
+| [[Juliet\|GIULIETTA]] | L’immaginazione, più ricca di sostanza che di parole,<br>si vanta della propria materia, non dell’ornamento.<br>Sono mendichi soltanto quelli che sanno contare il proprio valore,<br>ma il mio vero [[Love\|amore]] è cresciuto a tal eccesso<br>ch’io non posso far la somma nemmeno di metà della mia ricchezza. |
+| [[Friar Laurence\|FRATE LORENZO]] | Venite, venite con me, e sbrigheremo la cosa in breve,<br>ché, con vostra [[Leaves\|licenza]], non resterete [[Alone\|soli]]<br>finché la Santa Chiesa non abbia fatto di due uno solo. Escono |
 
 
 
@@ -2587,85 +2587,85 @@ Exit
 
 | Chi parla | Battuta |
 |---|---|
-| *(didascalia)* | Entrano [[Mercutio|Mercuzio]] col suo paggio, [[Benvolio]] e uomini |
-| [[Benvolio|BENVOLIO]] | Ti prego, buon [[Mercutio|Mercuzio]], ritiriamoci.<br>Il giorno è caldo, i Capuleti sono in giro,<br>e se li incontriamo non scamperemo a una rissa,<br>ché ora, in queste giornate calde, il [[Blood|sangue]] folle è in tumulto. |
-| [[Mercutio|MERCUZIO]] | Tu sei come uno di quei tali che, quando entra nei confini d’una taverna, mi sbatte la [[Sword|spada]] sul tavolo e dice ‘Dio faccia ch’io non abbia bisogno di te’, e per l’effetto del secondo bicchiere la sguaina contro il cantiniere, quando invece non ce n’è alcun bisogno. |
-| [[Benvolio|BENVOLIO]] | Sono io un tale così? |
-| [[Mercutio|MERCUZIO]] | Via, via, sei un tipo dal sangue caldo quanto chiunque in [[Italy|Italia]], e pronto tanto a irritarti quanto, irritato, a scattare. |
-| [[Benvolio|BENVOLIO]] | E a che, poi? |
-| [[Mercutio|MERCUZIO]] | Anzi, se ce ne fossero due come te, presto non ne avremmo nessuno, ché l’uno ucciderebbe l’altro. Tu—ma sì, tu litigheresti con un uomo che ha un pelo in più o un pelo in meno nella barba di quanti ne hai tu. Litigheresti con un uomo perché schiaccia noci, senz’altra ragione se non che tu hai occhi color nocciola. Quale occhio, se non un occhio simile, scoverebbe una lite simile? La tua testa è piena di liti come un uovo è pieno di sostanza, eppure la tua testa è stata pestata fino a farsi vuota come un uovo, a furia di litigare. Hai litigato con un uomo perché tossiva per strada, dato che aveva svegliato il tuo cane che dormiva al sole. Non ti sei forse azzuffato con un sarto perché portava il farsetto nuovo prima di Pasqua, e con un altro perché s’allacciava le scarpe nuove con un nastro vecchio? E pure vuoi far la lezione a me sul litigare! |
-| [[Benvolio|BENVOLIO]] | Se io fossi così incline alla lite come lo sei tu, chiunque potrebbe comprare la piena proprietà della mia vita per un’ora e un quarto. |
-| [[Mercutio|MERCUZIO]] | La proprietà piena e semplice? Oh, semplice davvero! |
-| *(didascalia)* | Entrano [[Tybalt|Tebaldo]], Petruccio e altri |
-| [[Benvolio|BENVOLIO]] | Sulla mia testa, ecco che vengono i Capuleti. |
-| [[Mercutio|MERCUZIO]] | Sul mio tallone, non me ne importa. |
-| [[Tybalt|TEBALDO]] | (a Petruccio e agli altri)<br>Seguitemi da presso, ché voglio parlare loro.<br>(Ai Montecchi) Signori, buona sera. Una parola con<br>uno di voi. |
-| [[Mercutio|MERCUZIO]] | E una parola sola con uno di noi? Accoppiatela a qualcos’altro: fatene una parola e un colpo. |
-| [[Tybalt|TEBALDO]] | Mi troverete abbastanza pronto a questo, signore, se me ne darete occasione. |
-| [[Mercutio|MERCUZIO]] | Non potreste prendervi qualche occasione senza che ve la si dia? |
-| [[Tybalt|TEBALDO]] | [[Mercutio|Mercuzio]], tu fai comunella con [[Romeo]]. |
-| *(didascalia)* | [[Mercutio|MERCUZIO]] ‘Comunella’? Come, ci prendi per menestrelli? Se fai di noi dei menestrelli, aspettati di non udire che stonature. toccando lo stocco Ecco il mio archetto; ecco ciò che vi farà [[Dance|ballare]]. Corpo di Cristo—‘comunella’! |
-| [[Benvolio|BENVOLIO]] | Qui parliamo nel pubblico ritrovo degli uomini.<br>O ritiratevi in qualche luogo appartato,<br>o ragionate a freddo delle vostre offese,<br>oppure andatevene. Qui tutti gli occhi ci fissano. |
-| [[Mercutio|MERCUZIO]] | Gli occhi degli uomini son fatti per guardare: lascia che fissino.<br>Io non mi muovo per il piacere di nessuno, io. |
+| *(didascalia)* | Entrano [[Mercutio\|Mercuzio]] col suo paggio, [[Benvolio]] e uomini |
+| [[Benvolio\|BENVOLIO]] | Ti prego, buon [[Mercutio\|Mercuzio]], ritiriamoci.<br>Il giorno è caldo, i Capuleti sono in giro,<br>e se li incontriamo non scamperemo a una rissa,<br>ché ora, in queste giornate calde, il [[Blood\|sangue]] folle è in tumulto. |
+| [[Mercutio\|MERCUZIO]] | Tu sei come uno di quei tali che, quando entra nei confini d’una taverna, mi sbatte la [[Sword\|spada]] sul tavolo e dice ‘Dio faccia ch’io non abbia bisogno di te’, e per l’effetto del secondo bicchiere la sguaina contro il cantiniere, quando invece non ce n’è alcun bisogno. |
+| [[Benvolio\|BENVOLIO]] | Sono io un tale così? |
+| [[Mercutio\|MERCUZIO]] | Via, via, sei un tipo dal sangue caldo quanto chiunque in [[Italy\|Italia]], e pronto tanto a irritarti quanto, irritato, a scattare. |
+| [[Benvolio\|BENVOLIO]] | E a che, poi? |
+| [[Mercutio\|MERCUZIO]] | Anzi, se ce ne fossero due come te, presto non ne avremmo nessuno, ché l’uno ucciderebbe l’altro. Tu—ma sì, tu litigheresti con un uomo che ha un pelo in più o un pelo in meno nella barba di quanti ne hai tu. Litigheresti con un uomo perché schiaccia noci, senz’altra ragione se non che tu hai occhi color nocciola. Quale occhio, se non un occhio simile, scoverebbe una lite simile? La tua testa è piena di liti come un uovo è pieno di sostanza, eppure la tua testa è stata pestata fino a farsi vuota come un uovo, a furia di litigare. Hai litigato con un uomo perché tossiva per strada, dato che aveva svegliato il tuo cane che dormiva al sole. Non ti sei forse azzuffato con un sarto perché portava il farsetto nuovo prima di Pasqua, e con un altro perché s’allacciava le scarpe nuove con un nastro vecchio? E pure vuoi far la lezione a me sul litigare! |
+| [[Benvolio\|BENVOLIO]] | Se io fossi così incline alla lite come lo sei tu, chiunque potrebbe comprare la piena proprietà della mia vita per un’ora e un quarto. |
+| [[Mercutio\|MERCUZIO]] | La proprietà piena e semplice? Oh, semplice davvero! |
+| *(didascalia)* | Entrano [[Tybalt\|Tebaldo]], Petruccio e altri |
+| [[Benvolio\|BENVOLIO]] | Sulla mia testa, ecco che vengono i Capuleti. |
+| [[Mercutio\|MERCUZIO]] | Sul mio tallone, non me ne importa. |
+| [[Tybalt\|TEBALDO]] | (a Petruccio e agli altri)<br>Seguitemi da presso, ché voglio parlare loro.<br>(Ai Montecchi) Signori, buona sera. Una parola con<br>uno di voi. |
+| [[Mercutio\|MERCUZIO]] | E una parola sola con uno di noi? Accoppiatela a qualcos’altro: fatene una parola e un colpo. |
+| [[Tybalt\|TEBALDO]] | Mi troverete abbastanza pronto a questo, signore, se me ne darete occasione. |
+| [[Mercutio\|MERCUZIO]] | Non potreste prendervi qualche occasione senza che ve la si dia? |
+| [[Tybalt\|TEBALDO]] | [[Mercutio\|Mercuzio]], tu fai comunella con [[Romeo]]. |
+| *(didascalia)* | [[Mercutio\|MERCUZIO]] ‘Comunella’? Come, ci prendi per menestrelli? Se fai di noi dei menestrelli, aspettati di non udire che stonature. toccando lo stocco Ecco il mio archetto; ecco ciò che vi farà [[Dance\|ballare]]. Corpo di Cristo—‘comunella’! |
+| [[Benvolio\|BENVOLIO]] | Qui parliamo nel pubblico ritrovo degli uomini.<br>O ritiratevi in qualche luogo appartato,<br>o ragionate a freddo delle vostre offese,<br>oppure andatevene. Qui tutti gli occhi ci fissano. |
+| [[Mercutio\|MERCUZIO]] | Gli occhi degli uomini son fatti per guardare: lascia che fissino.<br>Io non mi muovo per il piacere di nessuno, io. |
 | *(didascalia)* | Entra [[Romeo]] |
-| [[Tybalt|TEBALDO]] | [[Well|Ebbene]], la pace sia con voi, signore. Ecco che viene il mio uomo. |
-| [[Mercutio|MERCUZIO]] | Ma ch’io sia impiccato, signore, se porta la vostra livrea.<br>Perbacco, andate avanti sul terreno, e vi seguirà.<br>In quel senso Vossignoria può chiamarlo ‘uomo suo’. |
-| [[Tybalt|TEBALDO]] | [[Romeo]], l’[[Love|amore]] che ti porto non può offrire<br>termine migliore di questo: sei un [[Villain|farabutto]]. |
-| [[Romeo|ROMEO]] | [[Tybalt|Tebaldo]], la ragione che ho di [[Love|amarti]]<br>scusa assai la rabbia che s’addice<br>a un simile saluto. [[Villain|Farabutto]] non sono affatto.<br>Perciò, addio. Vedo che non mi conosci. |
-| [[Tybalt|TEBALDO]] | Ragazzo, questo non scuserà le offese<br>che m’hai fatto. Perciò voltati e sguaina. |
-| [[Romeo|ROMEO]] | Io protesto che non t’ho mai offeso,<br>e ti [[Love|amo]] più di quanto tu possa immaginare<br>finché non conoscerai la ragione del mio [[Love|amore]].<br>E così, buon [[Capulet|Capuleti]]—nome che m’è caro<br>quanto il mio—sii pago. |
-| *(didascalia)* | [[Mercutio|MERCUZIO]] sguainando |
-| [[Romeo|ROMEO]] | Oh, calma, disonorevole, vile sottomissione! 1<br>Alla stoccata la vince.<br>[[Tybalt|Tebaldo]], acchiappatopi, venite, volete fare due passi? |
-| [[Tybalt|TEBALDO]] | Che vuoi da me? |
-| [[Mercutio|MERCUZIO]] | Buon [[King|Re]] dei Gatti, nient’altro che una delle vostre nove vite. Quella intendo prendermela senza complimenti, e poi, secondo come mi tratterete d’ora innanzi, bastonare a secco le altre otto. Volete tirare la vostra [[Sword|spada]] fuori dal fodero per le orecchie? Fate presto, o la mia sarà intorno alle vostre orecchie prima che sia fuori. |
-| [[Tybalt|TEBALDO]] | (sguainando) Sono con voi. |
-| [[Romeo|ROMEO]] | Gentile [[Mercutio|Mercuzio]], rimetti su lo stocco. |
-| [[Mercutio|MERCUZIO]] | (a [[Tybalt|Tebaldo]]) Venite, signore, la vostra passata.<br>Combattono |
-| *(didascalia)* | [[Romeo|ROMEO]] sguainando |
-| [[Mercutio|MERCUZIO]] | Sguaina, [[Benvolio]]. Abbatti le loro armi.<br>Signori, per vergogna, cessate quest’oltraggio.<br>[[Tybalt|Tebaldo]], [[Mercutio|Mercuzio]], il Principe ha espressamente<br>vietato queste zuffe per le vie di [[Verona]].<br>Fermo, [[Tybalt|Tebaldo]], buon [[Mercutio|Mercuzio]]. |
-| *(didascalia)* | [[Romeo]] abbatte le loro punte e si precipita fra loro. [[Tybalt|Tebaldo]], sotto il braccio di [[Romeo]], trafigge [[Mercutio|Mercuzio]] |
-| *(didascalia)* | PETRUCCIO Via, [[Tybalt|Tebaldo]]! |
-| *(didascalia)* | Escono [[Tybalt|Tebaldo]], Petruccio e i loro seguaci |
-| [[Mercutio|MERCUZIO]] | Sono ferito.<br>La peste sulle vostre due case. Sono spacciato.<br>Se n’è andato, e non ha nulla? |
-| [[Benvolio|BENVOLIO]] | Come, sei ferito? |
-| [[Mercutio|MERCUZIO]] | Sì, sì, un graffio, un graffio; perbacco, basta.<br>Dov’è il mio paggio? Va’, [[Villain|furfante]]. Chiama un cerusico. |
+| [[Tybalt\|TEBALDO]] | [[Well\|Ebbene]], la pace sia con voi, signore. Ecco che viene il mio uomo. |
+| [[Mercutio\|MERCUZIO]] | Ma ch’io sia impiccato, signore, se porta la vostra livrea.<br>Perbacco, andate avanti sul terreno, e vi seguirà.<br>In quel senso Vossignoria può chiamarlo ‘uomo suo’. |
+| [[Tybalt\|TEBALDO]] | [[Romeo]], l’[[Love\|amore]] che ti porto non può offrire<br>termine migliore di questo: sei un [[Villain\|farabutto]]. |
+| [[Romeo\|ROMEO]] | [[Tybalt\|Tebaldo]], la ragione che ho di [[Love\|amarti]]<br>scusa assai la rabbia che s’addice<br>a un simile saluto. [[Villain\|Farabutto]] non sono affatto.<br>Perciò, addio. Vedo che non mi conosci. |
+| [[Tybalt\|TEBALDO]] | Ragazzo, questo non scuserà le offese<br>che m’hai fatto. Perciò voltati e sguaina. |
+| [[Romeo\|ROMEO]] | Io protesto che non t’ho mai offeso,<br>e ti [[Love\|amo]] più di quanto tu possa immaginare<br>finché non conoscerai la ragione del mio [[Love\|amore]].<br>E così, buon [[Capulet\|Capuleti]]—nome che m’è caro<br>quanto il mio—sii pago. |
+| *(didascalia)* | [[Mercutio\|MERCUZIO]] sguainando |
+| [[Romeo\|ROMEO]] | Oh, calma, disonorevole, vile sottomissione! 1<br>Alla stoccata la vince.<br>[[Tybalt\|Tebaldo]], acchiappatopi, venite, volete fare due passi? |
+| [[Tybalt\|TEBALDO]] | Che vuoi da me? |
+| [[Mercutio\|MERCUZIO]] | Buon [[King\|Re]] dei Gatti, nient’altro che una delle vostre nove vite. Quella intendo prendermela senza complimenti, e poi, secondo come mi tratterete d’ora innanzi, bastonare a secco le altre otto. Volete tirare la vostra [[Sword\|spada]] fuori dal fodero per le orecchie? Fate presto, o la mia sarà intorno alle vostre orecchie prima che sia fuori. |
+| [[Tybalt\|TEBALDO]] | (sguainando) Sono con voi. |
+| [[Romeo\|ROMEO]] | Gentile [[Mercutio\|Mercuzio]], rimetti su lo stocco. |
+| [[Mercutio\|MERCUZIO]] | (a [[Tybalt\|Tebaldo]]) Venite, signore, la vostra passata.<br>Combattono |
+| *(didascalia)* | [[Romeo\|ROMEO]] sguainando |
+| [[Mercutio\|MERCUZIO]] | Sguaina, [[Benvolio]]. Abbatti le loro armi.<br>Signori, per vergogna, cessate quest’oltraggio.<br>[[Tybalt\|Tebaldo]], [[Mercutio\|Mercuzio]], il Principe ha espressamente<br>vietato queste zuffe per le vie di [[Verona]].<br>Fermo, [[Tybalt\|Tebaldo]], buon [[Mercutio\|Mercuzio]]. |
+| *(didascalia)* | [[Romeo]] abbatte le loro punte e si precipita fra loro. [[Tybalt\|Tebaldo]], sotto il braccio di [[Romeo]], trafigge [[Mercutio\|Mercuzio]] |
+| *(didascalia)* | PETRUCCIO Via, [[Tybalt\|Tebaldo]]! |
+| *(didascalia)* | Escono [[Tybalt\|Tebaldo]], Petruccio e i loro seguaci |
+| [[Mercutio\|MERCUZIO]] | Sono ferito.<br>La peste sulle vostre due case. Sono spacciato.<br>Se n’è andato, e non ha nulla? |
+| [[Benvolio\|BENVOLIO]] | Come, sei ferito? |
+| [[Mercutio\|MERCUZIO]] | Sì, sì, un graffio, un graffio; perbacco, basta.<br>Dov’è il mio paggio? Va’, [[Villain\|furfante]]. Chiama un cerusico. |
 | *(didascalia)* | Esce il paggio |
-| [[Romeo|ROMEO]] | [[Courage|Coraggio]], amico. La ferita non può essere grave. |
-| [[Mercutio|MERCUZIO]] | No, non è profonda come un [[Well|pozzo]], né larga come la porta d’una chiesa, ma basta. Servirà. Chiedete di me domani, e mi troverete un uomo [[Grave|grave]]. Sono conciato per questo mondo, ve lo garantisco. La peste sulle vostre due case! Corpo di Cristo, un cane, un topo, un sorcio, un gatto, graffiare un uomo a [[Death|morte]]! Un fanfarone, una canaglia, un [[Villain|farabutto]] che combatte sul libro d’aritmetica! Perché diavolo vi siete messo fra noi? Sono stato ferito sotto il vostro braccio. |
-| [[Romeo|ROMEO]] | Credevo di fare per il meglio. |
-| [[Mercutio|MERCUZIO]] | Aiutami a entrare in qualche [[house|casa]], [[Benvolio]],<br>o svengo. La peste sulle vostre due case.<br>Hanno fatto di me pasto per i vermi.<br>L’ho avuta, e per bene. Le vostre case! |
+| [[Romeo\|ROMEO]] | [[Courage\|Coraggio]], amico. La ferita non può essere grave. |
+| [[Mercutio\|MERCUZIO]] | No, non è profonda come un [[Well\|pozzo]], né larga come la porta d’una chiesa, ma basta. Servirà. Chiedete di me domani, e mi troverete un uomo [[Grave\|grave]]. Sono conciato per questo mondo, ve lo garantisco. La peste sulle vostre due case! Corpo di Cristo, un cane, un topo, un sorcio, un gatto, graffiare un uomo a [[Death\|morte]]! Un fanfarone, una canaglia, un [[Villain\|farabutto]] che combatte sul libro d’aritmetica! Perché diavolo vi siete messo fra noi? Sono stato ferito sotto il vostro braccio. |
+| [[Romeo\|ROMEO]] | Credevo di fare per il meglio. |
+| [[Mercutio\|MERCUZIO]] | Aiutami a entrare in qualche [[house\|casa]], [[Benvolio]],<br>o svengo. La peste sulle vostre due case.<br>Hanno fatto di me pasto per i vermi.<br>L’ho avuta, e per bene. Le vostre case! |
 | *(didascalia)* | Escono tutti tranne [[Romeo]] |
-| [[Romeo|ROMEO]] | Questo gentiluomo, stretto congiunto del Principe,<br>mio vero amico, ha ricevuto questa ferita mortale<br>per causa mia, la mia reputazione macchiata<br>dall’ingiuria di [[Tybalt|Tebaldo]]—[[Tybalt|Tebaldo]], che da un’ora<br>è mio cugino! O dolce [[Juliet|Giulietta]],<br>la tua [[Beauty|bellezza]] m’ha reso effeminato,<br>e nel mio temperamento ha ammollito l’acciaio del valore. |
+| [[Romeo\|ROMEO]] | Questo gentiluomo, stretto congiunto del Principe,<br>mio vero amico, ha ricevuto questa ferita mortale<br>per causa mia, la mia reputazione macchiata<br>dall’ingiuria di [[Tybalt\|Tebaldo]]—[[Tybalt\|Tebaldo]], che da un’ora<br>è mio cugino! O dolce [[Juliet\|Giulietta]],<br>la tua [[Beauty\|bellezza]] m’ha reso effeminato,<br>e nel mio temperamento ha ammollito l’acciaio del valore. |
 | *(didascalia)* | Entra [[Benvolio]] |
-| [[Benvolio|BENVOLIO]] | O [[Romeo]], [[Romeo]], il prode [[Mercutio|Mercuzio]] è morto!<br>Quel galante spirito è salito alle nubi,<br>lui che troppo immaturamente ha sdegnato qui la terra. |
-| [[Romeo|ROMEO]] | Il nero destino di questo giorno pende su altri giorni.<br>Questo non fa che iniziare il dolore che altri dovranno finire. |
-| *(didascalia)* | Entra [[Tybalt|Tebaldo]] |
-| [[Benvolio|BENVOLIO]] | Ecco che torna il furioso [[Tybalt|Tebaldo]]. |
-| [[Romeo|ROMEO]] | Se ne va in trionfo, e [[Mercutio|Mercuzio]] ucciso?<br>Via in cielo, riguardosa clemenza,<br>e la furia dagli occhi di [[Fire|fuoco]] mi guidi ora.<br>Ora, [[Tybalt|Tebaldo]], riprenditi quel ‘[[Villain|farabutto]]’<br>che poco fa mi desti, ché l’[[Soul|anima]] di [[Mercutio|Mercuzio]]<br>è appena un poco sopra le nostre teste,<br>e aspetta la tua per farle compagnia.<br>O tu, o io, o entrambi dobbiamo andare con lui. |
-| [[Tybalt|TEBALDO]] | Tu, miserabile ragazzo, che qui gli facevi comunella,<br>andrai di qui con lui. |
-| [[Romeo|ROMEO]] | Questo lo deciderà.<br>Combattono. [[Tybalt|Tebaldo]] è ferito. Cade e muore |
-| [[Benvolio|BENVOLIO]] | [[Romeo]], via, vattene.<br>I cittadini sono in piedi, e [[Tybalt|Tebaldo]] è ucciso.<br>Non restare attonito. Il Principe ti condannerà a [[Death|morte]]<br>se sarai preso. Via di qui, vattene, presto. |
-| [[Romeo|ROMEO]] | Oh, sono lo [[Fool|zimbello]] della fortuna! |
-| [[Benvolio|BENVOLIO]] | Perché indugi? |
+| [[Benvolio\|BENVOLIO]] | O [[Romeo]], [[Romeo]], il prode [[Mercutio\|Mercuzio]] è morto!<br>Quel galante spirito è salito alle nubi,<br>lui che troppo immaturamente ha sdegnato qui la terra. |
+| [[Romeo\|ROMEO]] | Il nero destino di questo giorno pende su altri giorni.<br>Questo non fa che iniziare il dolore che altri dovranno finire. |
+| *(didascalia)* | Entra [[Tybalt\|Tebaldo]] |
+| [[Benvolio\|BENVOLIO]] | Ecco che torna il furioso [[Tybalt\|Tebaldo]]. |
+| [[Romeo\|ROMEO]] | Se ne va in trionfo, e [[Mercutio\|Mercuzio]] ucciso?<br>Via in cielo, riguardosa clemenza,<br>e la furia dagli occhi di [[Fire\|fuoco]] mi guidi ora.<br>Ora, [[Tybalt\|Tebaldo]], riprenditi quel ‘[[Villain\|farabutto]]’<br>che poco fa mi desti, ché l’[[Soul\|anima]] di [[Mercutio\|Mercuzio]]<br>è appena un poco sopra le nostre teste,<br>e aspetta la tua per farle compagnia.<br>O tu, o io, o entrambi dobbiamo andare con lui. |
+| [[Tybalt\|TEBALDO]] | Tu, miserabile ragazzo, che qui gli facevi comunella,<br>andrai di qui con lui. |
+| [[Romeo\|ROMEO]] | Questo lo deciderà.<br>Combattono. [[Tybalt\|Tebaldo]] è ferito. Cade e muore |
+| [[Benvolio\|BENVOLIO]] | [[Romeo]], via, vattene.<br>I cittadini sono in piedi, e [[Tybalt\|Tebaldo]] è ucciso.<br>Non restare attonito. Il Principe ti condannerà a [[Death\|morte]]<br>se sarai preso. Via di qui, vattene, presto. |
+| [[Romeo\|ROMEO]] | Oh, sono lo [[Fool\|zimbello]] della fortuna! |
+| [[Benvolio\|BENVOLIO]] | Perché indugi? |
 | *(didascalia)* | Esce [[Romeo]] |
 | *(didascalia)* | Entrano Cittadini della guardia |
 | *(didascalia)* | CITTADINO DELLA GUARDIA |
-| [[Benvolio|BENVOLIO]] | Da che parte è corso quello che ha ucciso [[Mercutio|Mercuzio]]?<br>[[Tybalt|Tebaldo]], quell’assassino, da che parte è corso? |
-| [[Benvolio|BENVOLIO]] | Là giace quel [[Tybalt|Tebaldo]]. |
-| *(didascalia)* | CITTADINO DELLA GUARDIA (a [[Tybalt|Tebaldo]]) Su, signore, venite con me. |
-| [[Benvolio|BENVOLIO]] | Ti ingiungo in nome del Principe: obbedisci. |
-| *(didascalia)* | Entrano il Principe, il vecchio Montecchi, [[Capulet|Capuleti]], le loro Mogli, e tutti |
+| [[Benvolio\|BENVOLIO]] | Da che parte è corso quello che ha ucciso [[Mercutio\|Mercuzio]]?<br>[[Tybalt\|Tebaldo]], quell’assassino, da che parte è corso? |
+| [[Benvolio\|BENVOLIO]] | Là giace quel [[Tybalt\|Tebaldo]]. |
+| *(didascalia)* | CITTADINO DELLA GUARDIA (a [[Tybalt\|Tebaldo]]) Su, signore, venite con me. |
+| [[Benvolio\|BENVOLIO]] | Ti ingiungo in nome del Principe: obbedisci. |
+| *(didascalia)* | Entrano il Principe, il vecchio Montecchi, [[Capulet\|Capuleti]], le loro Mogli, e tutti |
 | PRINCIPE | Dove sono i vili iniziatori di questa rissa? |
-| [[Benvolio|BENVOLIO]] | O nobile Principe, io posso svelare tutto<br>lo sciagurato svolgersi di questa fatale zuffa.<br>Là giace l’uomo, ucciso dal giovane [[Romeo]],<br>che uccise il tuo parente, il prode [[Mercutio|Mercuzio]]. |
-| LA MOGLIE DI [[Capulet|CAPULETI]] | [[Tybalt|Tebaldo]], mio nipote, oh, il [[Child|figlio]] di mio fratello!<br>O Principe, o nipote, marito! Oh, è versato il [[Blood|sangue]]<br>del mio caro congiunto! Principe, come sei giusto,<br>per il [[Blood|sangue]] dei nostri versa il [[Blood|sangue]] d’un Montecchi!<br>O nipote, nipote! |
+| [[Benvolio\|BENVOLIO]] | O nobile Principe, io posso svelare tutto<br>lo sciagurato svolgersi di questa fatale zuffa.<br>Là giace l’uomo, ucciso dal giovane [[Romeo]],<br>che uccise il tuo parente, il prode [[Mercutio\|Mercuzio]]. |
+| LA MOGLIE DI [[Capulet\|CAPULETI]] | [[Tybalt\|Tebaldo]], mio nipote, oh, il [[Child\|figlio]] di mio fratello!<br>O Principe, o nipote, marito! Oh, è versato il [[Blood\|sangue]]<br>del mio caro congiunto! Principe, come sei giusto,<br>per il [[Blood\|sangue]] dei nostri versa il [[Blood\|sangue]] d’un Montecchi!<br>O nipote, nipote! |
 | PRINCIPE | [[Benvolio]], chi ha iniziato questa rissa? |
-| [[Benvolio|BENVOLIO]] | [[Tybalt|Tebaldo]], qui ucciso, che la mano di [[Romeo]] uccise.<br>[[Romeo]], che gli parlò cortese, lo invitò a considerare<br>quanto fosse futile la lite, e insistette inoltre<br>sul vostro alto sdegno. Tutto ciò—proferito<br>con fiato gentile, sguardo calmo, ginocchia umilmente piegate—<br>non poté far tregua con l’indomabile collera<br>di [[Tybalt|Tebaldo]] sordo alla pace, il quale invece punta<br>l’acciaio pungente al petto dell’ardito [[Mercutio|Mercuzio]],<br>che, altrettanto acceso, oppone punta mortale a punta,<br>e, con marziale sprezzo, con una mano respinge<br>da parte la fredda [[Death|morte]], e con l’altra la rimanda<br>indietro a [[Tybalt|Tebaldo]], la cui destrezza<br>la ritorce. [[Romeo]] grida forte:<br>‘Fermi, amici, amici, separatevi!’ e più rapido della sua<br>lingua<br>il suo braccio operoso abbatte le loro punte fatali,<br>e fra loro si slancia; e sotto quel braccio<br>un colpo invidioso di [[Tybalt|Tebaldo]] colpì la vita<br>del valoroso [[Mercutio|Mercuzio]], e allora [[Tybalt|Tebaldo]] fuggì,<br>ma poco dopo torna da [[Romeo]],<br>che aveva appena accolto in sé la [[Revenge|vendetta]],<br>e vi si gettano come [[Lightning|lampi]]; ché prima ch’io<br>potessi sguainare per separarli, il valoroso [[Tybalt|Tebaldo]] era ucciso,<br>e mentre cadeva [[Romeo]] si volse e fuggì.<br>Questa è la [[Truth|verità]], o muoia [[Benvolio]]. |
-| LA MOGLIE DI [[Capulet|CAPULETI]] | È un parente dei Montecchi.<br>L’affetto lo rende falso; non dice il vero.<br>Una ventina di loro combatterono in questa nera contesa,<br>e tutti quei venti non seppero uccidere che una sola vita.<br>Chiedo giustizia, che tu, Principe, devi dare.<br>[[Romeo]] uccise [[Tybalt|Tebaldo]]; [[Romeo]] non deve vivere. |
-| PRINCIPE | [[Romeo]] uccise lui, egli uccise [[Mercutio|Mercuzio]].<br>Chi ora deve il prezzo del suo caro [[Blood|sangue]]? |
+| [[Benvolio\|BENVOLIO]] | [[Tybalt\|Tebaldo]], qui ucciso, che la mano di [[Romeo]] uccise.<br>[[Romeo]], che gli parlò cortese, lo invitò a considerare<br>quanto fosse futile la lite, e insistette inoltre<br>sul vostro alto sdegno. Tutto ciò—proferito<br>con fiato gentile, sguardo calmo, ginocchia umilmente piegate—<br>non poté far tregua con l’indomabile collera<br>di [[Tybalt\|Tebaldo]] sordo alla pace, il quale invece punta<br>l’acciaio pungente al petto dell’ardito [[Mercutio\|Mercuzio]],<br>che, altrettanto acceso, oppone punta mortale a punta,<br>e, con marziale sprezzo, con una mano respinge<br>da parte la fredda [[Death\|morte]], e con l’altra la rimanda<br>indietro a [[Tybalt\|Tebaldo]], la cui destrezza<br>la ritorce. [[Romeo]] grida forte:<br>‘Fermi, amici, amici, separatevi!’ e più rapido della sua<br>lingua<br>il suo braccio operoso abbatte le loro punte fatali,<br>e fra loro si slancia; e sotto quel braccio<br>un colpo invidioso di [[Tybalt\|Tebaldo]] colpì la vita<br>del valoroso [[Mercutio\|Mercuzio]], e allora [[Tybalt\|Tebaldo]] fuggì,<br>ma poco dopo torna da [[Romeo]],<br>che aveva appena accolto in sé la [[Revenge\|vendetta]],<br>e vi si gettano come [[Lightning\|lampi]]; ché prima ch’io<br>potessi sguainare per separarli, il valoroso [[Tybalt\|Tebaldo]] era ucciso,<br>e mentre cadeva [[Romeo]] si volse e fuggì.<br>Questa è la [[Truth\|verità]], o muoia [[Benvolio]]. |
+| LA MOGLIE DI [[Capulet\|CAPULETI]] | È un parente dei Montecchi.<br>L’affetto lo rende falso; non dice il vero.<br>Una ventina di loro combatterono in questa nera contesa,<br>e tutti quei venti non seppero uccidere che una sola vita.<br>Chiedo giustizia, che tu, Principe, devi dare.<br>[[Romeo]] uccise [[Tybalt\|Tebaldo]]; [[Romeo]] non deve vivere. |
+| PRINCIPE | [[Romeo]] uccise lui, egli uccise [[Mercutio\|Mercuzio]].<br>Chi ora deve il prezzo del suo caro [[Blood\|sangue]]? |
 | *(didascalia)* | MONTECCHI |
-| PRINCIPE | Non [[Romeo]], Principe. Era amico di [[Mercutio|Mercuzio]].<br>La sua colpa non conclude che ciò che la legge avrebbe dovuto finire,<br>la vita di [[Tybalt|Tebaldo]]. |
-| PRINCIPE | E per quell’offesa<br>immediatamente lo mandiamo di qui in [[Exile|esilio]].<br>Io ho un interesse nel corso del vostro odio;<br>il mio [[Blood|sangue]] per le vostre rozze risse giace sanguinante.<br>Ma vi colpirò con un’ammenda così pesante<br>che tutti vi pentirete della mia perdita.<br>Sarò sordo alle suppliche e alle scuse.<br>Né [[Tears|lacrime]] né preghiere riscatteranno gli abusi.<br>Perciò non ne usate. [[Romeo]] parta in fretta di qui,<br>altrimenti, quando sarà trovato, quell’ora sarà la sua ultima.<br>Portate via questo [[Body|corpo]], e attendete il nostro volere.<br>La [[Mercy|clemenza]] non fa che uccidere, perdonando chi uccide. |
-| *(didascalia)* | Escono col [[Body|corpo]] |
+| PRINCIPE | Non [[Romeo]], Principe. Era amico di [[Mercutio\|Mercuzio]].<br>La sua colpa non conclude che ciò che la legge avrebbe dovuto finire,<br>la vita di [[Tybalt\|Tebaldo]]. |
+| PRINCIPE | E per quell’offesa<br>immediatamente lo mandiamo di qui in [[Exile\|esilio]].<br>Io ho un interesse nel corso del vostro odio;<br>il mio [[Blood\|sangue]] per le vostre rozze risse giace sanguinante.<br>Ma vi colpirò con un’ammenda così pesante<br>che tutti vi pentirete della mia perdita.<br>Sarò sordo alle suppliche e alle scuse.<br>Né [[Tears\|lacrime]] né preghiere riscatteranno gli abusi.<br>Perciò non ne usate. [[Romeo]] parta in fretta di qui,<br>altrimenti, quando sarà trovato, quell’ora sarà la sua ultima.<br>Portate via questo [[Body\|corpo]], e attendete il nostro volere.<br>La [[Mercy\|clemenza]] non fa che uccidere, perdonando chi uccide. |
+| *(didascalia)* | Escono col [[Body\|corpo]] |
 
 
 
@@ -2709,34 +2709,34 @@ Exit
 
 | Chi parla | Battuta |
 |---|---|
-| *(didascalia)* | Entra [[Juliet|Giulietta]] |
-| [[Juliet|GIULIETTA]] | Galoppate veloci, destrieri dai piedi di fuoco,<br>verso la dimora di Febo. Un auriga<br>come Fetonte vi frusterebbe a occidente<br>e porterebbe subito la [[Night|notte]] nuvolosa.<br>Stendi la tua fitta cortina, [[Night|notte]] che compi l’[[Love|amore]],<br>sicché gli occhi dei fuggiaschi si chiudano, e [[Romeo]]<br>balzi in queste braccia non visto e non discusso.<br>Gli [[lovers|amanti]] sanno vedere per compiere i loro riti amorosi<br>alla luce delle proprie bellezze; o, se l’[[Love|amore]] è cieco,<br>meglio s’accorda con la [[Night|notte]]. Vieni, [[Night|notte]] composta,<br>tu matrona dall’abito severo, tutta di nero,<br>e insegnami come perdere una partita vincente<br>giocata per un paio d’illibate verginità.<br>Incappuccia il mio [[Blood|sangue]] indomito, che batte le ali nelle mie guance,<br>col tuo nero mantello, finché il timido [[Love|amore]], fatto ardito,<br>non stimi il vero [[Love|amore]] compiuto semplice pudore.<br>Vieni [[Night|notte]], vieni [[Romeo]]; vieni, tu giorno nella [[Night|notte]],<br>ché tu giacerai sulle ali della [[Night|notte]]<br>più bianco della [[Snow|neve]] fresca sul dorso d’un corvo.<br>Vieni, gentile [[Night|notte]]; vieni, amorosa [[Night|notte]] dalle ciglia nere,<br>dammi il mio [[Romeo]], e quando io morrò<br>prendilo e ritaglialo in piccole [[Stars|stelle]],<br>ed egli renderà il volto del cielo così bello<br>che tutto il mondo sarà preso d’[[Love|amore]] per la [[Night|notte]]<br>e non renderà culto al sole sgargiante.<br>Oh, ho comprato la magione d’un [[Love|amore]]<br>ma non l’ho posseduta; e benché io sia venduta,<br>non sono ancora goduta. Tanto tedioso è questo giorno<br>quanto la [[Night|notte]] che precede una festa<br>per un [[Child|bimbo]] impaziente che ha vesti nuove<br>e non può indossarle. |
-| *(didascalia)* | Entra la [[Nurse|Nutrice]], torcendosi le mani, con la scala di corda in grembo |
-| [[Juliet|GIULIETTA]] | Oh, ecco che viene la mia [[Nurse|Nutrice]],<br>e porta notizie; e ogni lingua che pronunci<br>solo il nome di [[Romeo]] parla con celeste eloquenza.<br>Ora, [[Nurse|Nutrice]], che notizie? Come, hai lì<br>le corde che [[Romeo]] t’ha detto di prendere? |
-| *(didascalia)* | [[Nurse|NUTRICE]] posando le corde Sì, sì, le corde. |
-| [[Juliet|GIULIETTA]] | Ahimè, che notizie? Perché ti torci le mani? |
-| [[Nurse|NUTRICE]] | Ah, giorno funesto! È morto, è morto, è morto!<br>Siamo rovinate, madonna, siamo rovinate.<br>Ahimè quel giorno, se n’è andato, è ucciso, è morto! |
-| [[Juliet|GIULIETTA]] | Può il cielo essere così invidioso? |
-| [[Nurse|NUTRICE]] | [[Romeo]] può,<br>anche se il cielo non può. O [[Romeo]], [[Romeo]],<br>chi l’avrebbe mai pensato, [[Romeo]]? |
-| [[Juliet|GIULIETTA]] | Che demonio sei tu che così mi tormenti?<br>Questa tortura andrebbe ruggita nel tetro inferno.<br>[[Romeo]] s’è ucciso? Di’ soltanto ‘Sì’,<br>e quella nuda vocale ‘I’ [[Poison|avvelenerà]] più<br>dell’occhio del basilisco che dardeggia la [[Death|morte]].<br>Io non sono io se c’è un tale ‘Sì’,<br>o se son chiusi quegli occhi che ti fanno rispondere ‘Sì’.<br>Se è ucciso, di’ ‘Sì’; se no, ‘No’.<br>Brevi suoni decidono del mio bene o del mio male. |
-| [[Nurse|NUTRICE]] | Ho visto la ferita, l’ho vista coi miei occhi,<br>Dio ci scampi, qui sul suo virile petto—<br>un cadavere pietoso, un cadavere insanguinato, pietoso—<br>pallido, pallido come cenere, tutto imbrattato di [[Blood|sangue]],<br>tutto in [[Blood|sangue]] grumoso; svenni a quella vista. |
-| [[Juliet|GIULIETTA]] | Oh, spezzati, cuore mio, povero fallito, spezzati subito!<br>In [[Prison|prigione]], occhi; non guardate mai più la libertà.<br>Vile terra, alla terra ritorna; qui cessi il moto,<br>e tu e [[Romeo]] premete una sola pesante bara! |
-| [[Nurse|NUTRICE]] | O [[Tybalt|Tebaldo]], [[Tybalt|Tebaldo]], il miglior amico che avessi!<br>O cortese [[Tybalt|Tebaldo]], onesto gentiluomo,<br>ch’io abbia dovuto vivere per vederti morto! |
-| [[Juliet|GIULIETTA]] | Che [[Storm|tempesta]] è questa che soffia così contraria?<br>È [[Romeo]] trucidato, ed è [[Tybalt|Tebaldo]] morto?<br>Il mio carissimo cugino e il mio ancor più caro signore?<br>Allora, tromba tremenda, suona il giudizio universale,<br>ché chi è vivo, se quei due sono spariti? |
-| [[Nurse|NUTRICE]] | [[Tybalt|Tebaldo]] è morto e [[Romeo]] bandito.<br>[[Romeo]], che l’ha ucciso, è bandito. |
-| [[Juliet|GIULIETTA]] | O Dio, la mano di [[Romeo]] ha versato il [[Blood|sangue]] di [[Tybalt|Tebaldo]]? |
-| *(didascalia)* | [[Nurse|NUTRICE]] |
-| [[Juliet|GIULIETTA]] | L’ha versato, l’ha versato, ahimè quel giorno, l’ha versato. |
-| *(didascalia)* | [[Juliet|GIULIETTA]] |
-| [[Juliet|GIULIETTA]] | O cuore di serpente nascosto sotto un volto fiorito!<br>Ospitò mai drago una [[Cave|caverna]] così bella?<br>Bel [[Tyrant|tiranno]], demonio angelico!<br>Corvo dalle penne di colomba, [[Lamb|agnello]] rapace da lupo!<br>Spregevole sostanza di divinissima apparenza!<br>Esattamente il contrario di ciò che giustamente sembri—<br>un santo dannato, un onorevole [[Villain|scellerato]].<br>O [[Nature|natura]], che avevi a che fare con l’inferno<br>quando alloggiasti lo spirito d’un demonio<br>nel mortale paradiso d’una carne così dolce?<br>Fu mai libro contenente materia così vile<br>rilegato così bene? Oh, che l’inganno debba abitare<br>in un palazzo così magnifico! |
-| [[Nurse|NUTRICE]] | Non c’è fiducia, non [[Faith|fede]], non onestà negli uomini;<br>tutti spergiuri, tutti falsi, tutti nulla, tutti simulatori.<br>Ah, dov’è il mio servo? Datemi un po’ d’acquavite.<br>Questi dolori, questi affanni, queste pene mi fanno vecchia.<br>Vergogna a [[Romeo]]! |
-| [[Juliet|GIULIETTA]] | Ti si copra di vesciche la lingua<br>per un tale augurio! Non nacque per la vergogna.<br>Sulla sua fronte la vergogna si vergogna di sedere,<br>ché è un trono dove l’[[Honour|onore]] può essere incoronato<br>unico monarca della terra universa.<br>Oh, che bestia fui a rimproverarlo! |
-| [[Nurse|NUTRICE]] | Volete parlar [[Well|bene]] di chi ha ucciso vostro cugino? |
-| [[Juliet|GIULIETTA]] | Devo parlar male di colui che è mio marito?<br>Ah, povero mio signore, quale lingua accarezzerà il tuo nome<br>se io, tua moglie da tre ore, l’ho straziato?<br>Ma perché, [[Villain|scellerato]], hai ucciso mio cugino?<br>Quel cugino [[Villain|scellerato]] avrebbe ucciso mio marito.<br>Indietro, sciocche [[Tears|lacrime]], indietro alla vostra nativa [[spring|sorgente]]!<br>Le vostre gocce tributarie spettano al dolore,<br>e voi, sbagliando, le offrite alla gioia.<br>Mio marito vive, quello che [[Tybalt|Tebaldo]] avrebbe ucciso;<br>e [[Tybalt|Tebaldo]] è morto, lui che avrebbe ucciso mio marito.<br>Tutto questo è conforto. Perché dunque piango?<br>C’era una parola, peggiore della [[Death|morte]] di [[Tybalt|Tebaldo]],<br>che m’ha uccisa. Volentieri la dimenticherei,<br>ma oh, preme sulla mia [[Memory|memoria]]<br>come le azioni dannate e colpevoli sulle menti dei peccatori!<br>‘[[Tybalt|Tebaldo]] è morto, e [[Romeo]] bandito.’<br>Quel ‘bandito’, quell’unica parola ‘bandito’<br>ha ucciso diecimila Tebaldi. La [[Death|morte]] di [[Tybalt|Tebaldo]]<br>era dolore abbastanza, se fosse finita lì;<br>o, se l’acre dolore si diletta di compagnia<br>e vuole per forza essere schierato con altri affanni,<br>perché non seguì, quand’ella disse ‘[[Tybalt|Tebaldo]] è morto’,<br>‘tuo padre’, o ‘tua madre’, anzi, o entrambi,<br>il che avrebbe mosso un comune lamento?<br>Ma con una retroguardia che segue la [[Death|morte]] di [[Tybalt|Tebaldo]],<br>‘[[Romeo]] è bandito’—pronunciare quella parola<br>è padre, madre, [[Tybalt|Tebaldo]], [[Romeo]], [[Juliet|Giulietta]],<br>tutti uccisi, tutti morti. ‘[[Romeo]] è bandito’—<br>non c’è fine, non limite, misura, confine,<br>nella [[Death|morte]] di quella parola. Nessuna parola può sondare quel dolore.<br>Dove sono mio padre e mia madre, [[Nurse|Nutrice]]? |
-| [[Nurse|NUTRICE]] | Piangono e si lamentano sul cadavere di [[Tybalt|Tebaldo]].<br>Volete andare da loro? Vi ci condurrò. |
-| [[Juliet|GIULIETTA]] | Lavino essi le sue ferite con le [[Tears|lacrime]]; le mie saranno spese,<br>quando le loro saranno secche, per il bando di [[Romeo]].<br>Raccogli quelle corde. Povere funi, siete deluse,<br>voi e io, ché [[Romeo]] è esiliato.<br>Vi fece perché foste una strada maestra al mio letto,<br>ma io, fanciulla, muoio vergine e vedova.<br>Venite, corde; vieni, [[Nurse|Nutrice]]; io vado al mio letto nuziale,<br>e la [[Death|morte]], non [[Romeo]], prenda la mia verginità! |
-| [[Nurse|NUTRICE]] | (raccogliendo le corde)<br>Affrettatevi alla vostra camera. Io troverò [[Romeo]]<br>a consolarvi. So [[Well|bene]] dov’è.<br>Sentite: il vostro [[Romeo]] sarà qui questa [[Night|notte]].<br>Vado da lui. È nascosto nella cella di Lorenzo. |
-| [[Juliet|GIULIETTA]] | (dandole un anello)<br>Oh, trovalo! Da’ quest’anello al mio vero cavaliere,<br>e digli di venire a prendere il suo ultimo addio. |
+| *(didascalia)* | Entra [[Juliet\|Giulietta]] |
+| [[Juliet\|GIULIETTA]] | Galoppate veloci, destrieri dai piedi di fuoco,<br>verso la dimora di Febo. Un auriga<br>come Fetonte vi frusterebbe a occidente<br>e porterebbe subito la [[Night\|notte]] nuvolosa.<br>Stendi la tua fitta cortina, [[Night\|notte]] che compi l’[[Love\|amore]],<br>sicché gli occhi dei fuggiaschi si chiudano, e [[Romeo]]<br>balzi in queste braccia non visto e non discusso.<br>Gli [[lovers\|amanti]] sanno vedere per compiere i loro riti amorosi<br>alla luce delle proprie bellezze; o, se l’[[Love\|amore]] è cieco,<br>meglio s’accorda con la [[Night\|notte]]. Vieni, [[Night\|notte]] composta,<br>tu matrona dall’abito severo, tutta di nero,<br>e insegnami come perdere una partita vincente<br>giocata per un paio d’illibate verginità.<br>Incappuccia il mio [[Blood\|sangue]] indomito, che batte le ali nelle mie guance,<br>col tuo nero mantello, finché il timido [[Love\|amore]], fatto ardito,<br>non stimi il vero [[Love\|amore]] compiuto semplice pudore.<br>Vieni [[Night\|notte]], vieni [[Romeo]]; vieni, tu giorno nella [[Night\|notte]],<br>ché tu giacerai sulle ali della [[Night\|notte]]<br>più bianco della [[Snow\|neve]] fresca sul dorso d’un corvo.<br>Vieni, gentile [[Night\|notte]]; vieni, amorosa [[Night\|notte]] dalle ciglia nere,<br>dammi il mio [[Romeo]], e quando io morrò<br>prendilo e ritaglialo in piccole [[Stars\|stelle]],<br>ed egli renderà il volto del cielo così bello<br>che tutto il mondo sarà preso d’[[Love\|amore]] per la [[Night\|notte]]<br>e non renderà culto al sole sgargiante.<br>Oh, ho comprato la magione d’un [[Love\|amore]]<br>ma non l’ho posseduta; e benché io sia venduta,<br>non sono ancora goduta. Tanto tedioso è questo giorno<br>quanto la [[Night\|notte]] che precede una festa<br>per un [[Child\|bimbo]] impaziente che ha vesti nuove<br>e non può indossarle. |
+| *(didascalia)* | Entra la [[Nurse\|Nutrice]], torcendosi le mani, con la scala di corda in grembo |
+| [[Juliet\|GIULIETTA]] | Oh, ecco che viene la mia [[Nurse\|Nutrice]],<br>e porta notizie; e ogni lingua che pronunci<br>solo il nome di [[Romeo]] parla con celeste eloquenza.<br>Ora, [[Nurse\|Nutrice]], che notizie? Come, hai lì<br>le corde che [[Romeo]] t’ha detto di prendere? |
+| *(didascalia)* | [[Nurse\|NUTRICE]] posando le corde Sì, sì, le corde. |
+| [[Juliet\|GIULIETTA]] | Ahimè, che notizie? Perché ti torci le mani? |
+| [[Nurse\|NUTRICE]] | Ah, giorno funesto! È morto, è morto, è morto!<br>Siamo rovinate, madonna, siamo rovinate.<br>Ahimè quel giorno, se n’è andato, è ucciso, è morto! |
+| [[Juliet\|GIULIETTA]] | Può il cielo essere così invidioso? |
+| [[Nurse\|NUTRICE]] | [[Romeo]] può,<br>anche se il cielo non può. O [[Romeo]], [[Romeo]],<br>chi l’avrebbe mai pensato, [[Romeo]]? |
+| [[Juliet\|GIULIETTA]] | Che demonio sei tu che così mi tormenti?<br>Questa tortura andrebbe ruggita nel tetro inferno.<br>[[Romeo]] s’è ucciso? Di’ soltanto ‘Sì’,<br>e quella nuda vocale ‘I’ [[Poison\|avvelenerà]] più<br>dell’occhio del basilisco che dardeggia la [[Death\|morte]].<br>Io non sono io se c’è un tale ‘Sì’,<br>o se son chiusi quegli occhi che ti fanno rispondere ‘Sì’.<br>Se è ucciso, di’ ‘Sì’; se no, ‘No’.<br>Brevi suoni decidono del mio bene o del mio male. |
+| [[Nurse\|NUTRICE]] | Ho visto la ferita, l’ho vista coi miei occhi,<br>Dio ci scampi, qui sul suo virile petto—<br>un cadavere pietoso, un cadavere insanguinato, pietoso—<br>pallido, pallido come cenere, tutto imbrattato di [[Blood\|sangue]],<br>tutto in [[Blood\|sangue]] grumoso; svenni a quella vista. |
+| [[Juliet\|GIULIETTA]] | Oh, spezzati, cuore mio, povero fallito, spezzati subito!<br>In [[Prison\|prigione]], occhi; non guardate mai più la libertà.<br>Vile terra, alla terra ritorna; qui cessi il moto,<br>e tu e [[Romeo]] premete una sola pesante bara! |
+| [[Nurse\|NUTRICE]] | O [[Tybalt\|Tebaldo]], [[Tybalt\|Tebaldo]], il miglior amico che avessi!<br>O cortese [[Tybalt\|Tebaldo]], onesto gentiluomo,<br>ch’io abbia dovuto vivere per vederti morto! |
+| [[Juliet\|GIULIETTA]] | Che [[Storm\|tempesta]] è questa che soffia così contraria?<br>È [[Romeo]] trucidato, ed è [[Tybalt\|Tebaldo]] morto?<br>Il mio carissimo cugino e il mio ancor più caro signore?<br>Allora, tromba tremenda, suona il giudizio universale,<br>ché chi è vivo, se quei due sono spariti? |
+| [[Nurse\|NUTRICE]] | [[Tybalt\|Tebaldo]] è morto e [[Romeo]] bandito.<br>[[Romeo]], che l’ha ucciso, è bandito. |
+| [[Juliet\|GIULIETTA]] | O Dio, la mano di [[Romeo]] ha versato il [[Blood\|sangue]] di [[Tybalt\|Tebaldo]]? |
+| *(didascalia)* | [[Nurse\|NUTRICE]] |
+| [[Juliet\|GIULIETTA]] | L’ha versato, l’ha versato, ahimè quel giorno, l’ha versato. |
+| *(didascalia)* | [[Juliet\|GIULIETTA]] |
+| [[Juliet\|GIULIETTA]] | O cuore di serpente nascosto sotto un volto fiorito!<br>Ospitò mai drago una [[Cave\|caverna]] così bella?<br>Bel [[Tyrant\|tiranno]], demonio angelico!<br>Corvo dalle penne di colomba, [[Lamb\|agnello]] rapace da lupo!<br>Spregevole sostanza di divinissima apparenza!<br>Esattamente il contrario di ciò che giustamente sembri—<br>un santo dannato, un onorevole [[Villain\|scellerato]].<br>O [[Nature\|natura]], che avevi a che fare con l’inferno<br>quando alloggiasti lo spirito d’un demonio<br>nel mortale paradiso d’una carne così dolce?<br>Fu mai libro contenente materia così vile<br>rilegato così bene? Oh, che l’inganno debba abitare<br>in un palazzo così magnifico! |
+| [[Nurse\|NUTRICE]] | Non c’è fiducia, non [[Faith\|fede]], non onestà negli uomini;<br>tutti spergiuri, tutti falsi, tutti nulla, tutti simulatori.<br>Ah, dov’è il mio servo? Datemi un po’ d’acquavite.<br>Questi dolori, questi affanni, queste pene mi fanno vecchia.<br>Vergogna a [[Romeo]]! |
+| [[Juliet\|GIULIETTA]] | Ti si copra di vesciche la lingua<br>per un tale augurio! Non nacque per la vergogna.<br>Sulla sua fronte la vergogna si vergogna di sedere,<br>ché è un trono dove l’[[Honour\|onore]] può essere incoronato<br>unico monarca della terra universa.<br>Oh, che bestia fui a rimproverarlo! |
+| [[Nurse\|NUTRICE]] | Volete parlar [[Well\|bene]] di chi ha ucciso vostro cugino? |
+| [[Juliet\|GIULIETTA]] | Devo parlar male di colui che è mio marito?<br>Ah, povero mio signore, quale lingua accarezzerà il tuo nome<br>se io, tua moglie da tre ore, l’ho straziato?<br>Ma perché, [[Villain\|scellerato]], hai ucciso mio cugino?<br>Quel cugino [[Villain\|scellerato]] avrebbe ucciso mio marito.<br>Indietro, sciocche [[Tears\|lacrime]], indietro alla vostra nativa [[spring\|sorgente]]!<br>Le vostre gocce tributarie spettano al dolore,<br>e voi, sbagliando, le offrite alla gioia.<br>Mio marito vive, quello che [[Tybalt\|Tebaldo]] avrebbe ucciso;<br>e [[Tybalt\|Tebaldo]] è morto, lui che avrebbe ucciso mio marito.<br>Tutto questo è conforto. Perché dunque piango?<br>C’era una parola, peggiore della [[Death\|morte]] di [[Tybalt\|Tebaldo]],<br>che m’ha uccisa. Volentieri la dimenticherei,<br>ma oh, preme sulla mia [[Memory\|memoria]]<br>come le azioni dannate e colpevoli sulle menti dei peccatori!<br>‘[[Tybalt\|Tebaldo]] è morto, e [[Romeo]] bandito.’<br>Quel ‘bandito’, quell’unica parola ‘bandito’<br>ha ucciso diecimila Tebaldi. La [[Death\|morte]] di [[Tybalt\|Tebaldo]]<br>era dolore abbastanza, se fosse finita lì;<br>o, se l’acre dolore si diletta di compagnia<br>e vuole per forza essere schierato con altri affanni,<br>perché non seguì, quand’ella disse ‘[[Tybalt\|Tebaldo]] è morto’,<br>‘tuo padre’, o ‘tua madre’, anzi, o entrambi,<br>il che avrebbe mosso un comune lamento?<br>Ma con una retroguardia che segue la [[Death\|morte]] di [[Tybalt\|Tebaldo]],<br>‘[[Romeo]] è bandito’—pronunciare quella parola<br>è padre, madre, [[Tybalt\|Tebaldo]], [[Romeo]], [[Juliet\|Giulietta]],<br>tutti uccisi, tutti morti. ‘[[Romeo]] è bandito’—<br>non c’è fine, non limite, misura, confine,<br>nella [[Death\|morte]] di quella parola. Nessuna parola può sondare quel dolore.<br>Dove sono mio padre e mia madre, [[Nurse\|Nutrice]]? |
+| [[Nurse\|NUTRICE]] | Piangono e si lamentano sul cadavere di [[Tybalt\|Tebaldo]].<br>Volete andare da loro? Vi ci condurrò. |
+| [[Juliet\|GIULIETTA]] | Lavino essi le sue ferite con le [[Tears\|lacrime]]; le mie saranno spese,<br>quando le loro saranno secche, per il bando di [[Romeo]].<br>Raccogli quelle corde. Povere funi, siete deluse,<br>voi e io, ché [[Romeo]] è esiliato.<br>Vi fece perché foste una strada maestra al mio letto,<br>ma io, fanciulla, muoio vergine e vedova.<br>Venite, corde; vieni, [[Nurse\|Nutrice]]; io vado al mio letto nuziale,<br>e la [[Death\|morte]], non [[Romeo]], prenda la mia verginità! |
+| [[Nurse\|NUTRICE]] | (raccogliendo le corde)<br>Affrettatevi alla vostra camera. Io troverò [[Romeo]]<br>a consolarvi. So [[Well\|bene]] dov’è.<br>Sentite: il vostro [[Romeo]] sarà qui questa [[Night\|notte]].<br>Vado da lui. È nascosto nella cella di Lorenzo. |
+| [[Juliet\|GIULIETTA]] | (dandole un anello)<br>Oh, trovalo! Da’ quest’anello al mio vero cavaliere,<br>e digli di venire a prendere il suo ultimo addio. |
 | *(didascalia)* | Escono da parti opposte |
 
 
@@ -2797,50 +2797,50 @@ Exit
 
 | Chi parla | Battuta |
 |---|---|
-| *(didascalia)* | Entra [[Friar Laurence|Frate Lorenzo]] |
-| [[Friar Laurence|FRATE LORENZO]] | [[Romeo]], vieni fuori, vieni fuori, uomo pieno di [[Fear|paura]].<br>L’afflizione è innamorata delle tue qualità,<br>e tu sei sposato alla calamità. |
+| *(didascalia)* | Entra [[Friar Laurence\|Frate Lorenzo]] |
+| [[Friar Laurence\|FRATE LORENZO]] | [[Romeo]], vieni fuori, vieni fuori, uomo pieno di [[Fear\|paura]].<br>L’afflizione è innamorata delle tue qualità,<br>e tu sei sposato alla calamità. |
 | *(didascalia)* | Entra [[Romeo]] |
-| [[Romeo|ROMEO]] | Padre, che notizie? Qual è la sentenza del Principe?<br>Quale dolore chiede di far la mia conoscenza<br>ch’io ancora non conosca? |
-| [[Friar Laurence|FRATE LORENZO]] | Troppo familiare<br>è il mio caro figlio con simile acre compagnia.<br>Ti porto notizia della sentenza del Principe. |
-| [[Romeo|ROMEO]] | Che c’è di meno del giorno del giudizio nella sentenza del Principe? |
-| [[Friar Laurence|FRATE LORENZO]] | Un giudizio più mite è uscito dalle sue labbra:<br>non la [[Death|morte]] del [[Body|corpo]], ma il bando del [[Body|corpo]]. |
-| [[Romeo|ROMEO]] | Ah, bando? Sii misericordioso, di’ ‘[[Death|morte]]’,<br>ché l’[[Exile|esilio]] ha più terrore nello sguardo,<br>molto più della [[Death|morte]]. Non dire ‘bando’. |
-| [[Friar Laurence|FRATE LORENZO]] | Di qui, da [[Verona]], sei bandito.<br>Sii paziente, ché il mondo è largo e vasto. |
-| [[Romeo|ROMEO]] | Non c’è mondo fuori dalle mura di [[Verona]],<br>ma purgatorio, tortura, l’inferno stesso.<br>Bandito di qui è bandito dal mondo,<br>e l’[[Exile|esilio]] dal mondo è [[Death|morte]]. Dunque ‘bandito’<br>è la [[Death|morte]] chiamata a torto. Chiamando la [[Death|morte]] ‘bando’<br>tu mi tagli la testa con una scure d’oro,<br>e sorridi al colpo che m’uccide. |
-| [[Friar Laurence|FRATE LORENZO]] | O peccato mortale, o rozza ingratitudine!<br>La tua colpa la nostra legge chiama [[Death|morte]], ma il Principe benigno,<br>prendendo le tue parti, ha spinto da parte la legge<br>e ha mutato quella nera parola ‘[[Death|morte]]’ in bando.<br>Questa è cara [[Mercy|clemenza]], e tu non la vedi. |
-| [[Romeo|ROMEO]] | È tortura, e non [[Mercy|clemenza]]. Il cielo è qui<br>dove vive [[Juliet|Giulietta]], e ogni gatto e cane<br>e piccolo topo, ogni cosa indegna,<br>vive qui in cielo e può guardarla,<br>ma [[Romeo]] non può. Più valore,<br>più onorevole stato, più cortesia vive<br>nelle mosche carognaie che in [[Romeo]]. Esse possono posarsi<br>sulla bianca [[Wonder|meraviglia]] della mano della cara [[Juliet|Giulietta]],<br>e rubare immortale benedizione dalle sue labbra,<br>che, pure nella loro pura e vestale modestia,<br>arrossiscono sempre, stimando peccato i propri baci.<br>Ma [[Romeo]] non può: egli è bandito.<br>Le mosche possono far questo, ma io da questo devo volar via.<br>Esse sono uomini liberi, ma io sono bandito.<br>E dici ancora che l’[[Exile|esilio]] non è [[Death|morte]]?<br>Non avevi [[Poison|veleno]] mescolato, non coltello affilato,<br>nessun mezzo repentino di [[Death|morte]], per quanto vile,<br>se non ‘bandito’ per uccidermi—‘bandito’?<br>O frate, i dannati usano quella parola all’inferno.<br>L’ululato l’accompagna. Come hai il cuore,<br>essendo un religioso, un confessore spirituale,<br>un assolutore di peccati e mio dichiarato amico,<br>di straziarmi con quella parola ‘bandito’? |
-| [[Friar Laurence|FRATE LORENZO]] | Sciocco pazzo, ascoltami parlare un poco. |
-| [[Romeo|ROMEO]] | Oh, parlerai di nuovo di bando. |
-| [[Friar Laurence|FRATE LORENZO]] | Ti darò un’armatura per tener lontana quella parola—<br>il dolce latte dell’avversità, la [[philosophy|filosofia]],<br>a confortarti benché tu sia bandito. |
-| [[Romeo|ROMEO]] | Ancora ‘bandito’? All’impiccagione la [[philosophy|filosofia]]!<br>Se la [[philosophy|filosofia]] non sa fare una [[Juliet|Giulietta]],<br>spostare una città, revocare la sentenza d’un principe,<br>non serve, non giova. Non parlare più. |
-| [[Friar Laurence|FRATE LORENZO]] | Oh, allora vedo che i pazzi non hanno orecchi. |
-| [[Romeo|ROMEO]] | Come dovrebbero averne, se i saggi non hanno occhi? |
-| [[Friar Laurence|FRATE LORENZO]] | Lascia ch’io discuta con te della tua condizione. |
-| [[Romeo|ROMEO]] | Non puoi parlare di ciò che non senti.<br>Fossi tu giovane come me, [[Juliet|Giulietta]] il tuo [[Love|amore]],<br>sposato da un’ora soltanto, [[Tybalt|Tebaldo]] assassinato,<br>perdutamente preso come me, e come me bandito,<br>allora potresti parlare, allora potresti strapparti i<br>capelli,<br>e gettarti a terra, come faccio io ora,<br>Si getta a terra<br><br>prendendo la misura d’una [[Grave|fossa]] non ancora scavata.<br>Bussano dentro |
-| [[Friar Laurence|FRATE LORENZO]] | Alzati, qualcuno bussa. Buon [[Romeo]], nasconditi. |
-| [[Romeo|ROMEO]] | Non io, a meno che il fiato dei gemiti del cuore malato<br>non m’avvolga come nebbia alla ricerca degli occhi. |
+| [[Romeo\|ROMEO]] | Padre, che notizie? Qual è la sentenza del Principe?<br>Quale dolore chiede di far la mia conoscenza<br>ch’io ancora non conosca? |
+| [[Friar Laurence\|FRATE LORENZO]] | Troppo familiare<br>è il mio caro figlio con simile acre compagnia.<br>Ti porto notizia della sentenza del Principe. |
+| [[Romeo\|ROMEO]] | Che c’è di meno del giorno del giudizio nella sentenza del Principe? |
+| [[Friar Laurence\|FRATE LORENZO]] | Un giudizio più mite è uscito dalle sue labbra:<br>non la [[Death\|morte]] del [[Body\|corpo]], ma il bando del [[Body\|corpo]]. |
+| [[Romeo\|ROMEO]] | Ah, bando? Sii misericordioso, di’ ‘[[Death\|morte]]’,<br>ché l’[[Exile\|esilio]] ha più terrore nello sguardo,<br>molto più della [[Death\|morte]]. Non dire ‘bando’. |
+| [[Friar Laurence\|FRATE LORENZO]] | Di qui, da [[Verona]], sei bandito.<br>Sii paziente, ché il mondo è largo e vasto. |
+| [[Romeo\|ROMEO]] | Non c’è mondo fuori dalle mura di [[Verona]],<br>ma purgatorio, tortura, l’inferno stesso.<br>Bandito di qui è bandito dal mondo,<br>e l’[[Exile\|esilio]] dal mondo è [[Death\|morte]]. Dunque ‘bandito’<br>è la [[Death\|morte]] chiamata a torto. Chiamando la [[Death\|morte]] ‘bando’<br>tu mi tagli la testa con una scure d’oro,<br>e sorridi al colpo che m’uccide. |
+| [[Friar Laurence\|FRATE LORENZO]] | O peccato mortale, o rozza ingratitudine!<br>La tua colpa la nostra legge chiama [[Death\|morte]], ma il Principe benigno,<br>prendendo le tue parti, ha spinto da parte la legge<br>e ha mutato quella nera parola ‘[[Death\|morte]]’ in bando.<br>Questa è cara [[Mercy\|clemenza]], e tu non la vedi. |
+| [[Romeo\|ROMEO]] | È tortura, e non [[Mercy\|clemenza]]. Il cielo è qui<br>dove vive [[Juliet\|Giulietta]], e ogni gatto e cane<br>e piccolo topo, ogni cosa indegna,<br>vive qui in cielo e può guardarla,<br>ma [[Romeo]] non può. Più valore,<br>più onorevole stato, più cortesia vive<br>nelle mosche carognaie che in [[Romeo]]. Esse possono posarsi<br>sulla bianca [[Wonder\|meraviglia]] della mano della cara [[Juliet\|Giulietta]],<br>e rubare immortale benedizione dalle sue labbra,<br>che, pure nella loro pura e vestale modestia,<br>arrossiscono sempre, stimando peccato i propri baci.<br>Ma [[Romeo]] non può: egli è bandito.<br>Le mosche possono far questo, ma io da questo devo volar via.<br>Esse sono uomini liberi, ma io sono bandito.<br>E dici ancora che l’[[Exile\|esilio]] non è [[Death\|morte]]?<br>Non avevi [[Poison\|veleno]] mescolato, non coltello affilato,<br>nessun mezzo repentino di [[Death\|morte]], per quanto vile,<br>se non ‘bandito’ per uccidermi—‘bandito’?<br>O frate, i dannati usano quella parola all’inferno.<br>L’ululato l’accompagna. Come hai il cuore,<br>essendo un religioso, un confessore spirituale,<br>un assolutore di peccati e mio dichiarato amico,<br>di straziarmi con quella parola ‘bandito’? |
+| [[Friar Laurence\|FRATE LORENZO]] | Sciocco pazzo, ascoltami parlare un poco. |
+| [[Romeo\|ROMEO]] | Oh, parlerai di nuovo di bando. |
+| [[Friar Laurence\|FRATE LORENZO]] | Ti darò un’armatura per tener lontana quella parola—<br>il dolce latte dell’avversità, la [[philosophy\|filosofia]],<br>a confortarti benché tu sia bandito. |
+| [[Romeo\|ROMEO]] | Ancora ‘bandito’? All’impiccagione la [[philosophy\|filosofia]]!<br>Se la [[philosophy\|filosofia]] non sa fare una [[Juliet\|Giulietta]],<br>spostare una città, revocare la sentenza d’un principe,<br>non serve, non giova. Non parlare più. |
+| [[Friar Laurence\|FRATE LORENZO]] | Oh, allora vedo che i pazzi non hanno orecchi. |
+| [[Romeo\|ROMEO]] | Come dovrebbero averne, se i saggi non hanno occhi? |
+| [[Friar Laurence\|FRATE LORENZO]] | Lascia ch’io discuta con te della tua condizione. |
+| [[Romeo\|ROMEO]] | Non puoi parlare di ciò che non senti.<br>Fossi tu giovane come me, [[Juliet\|Giulietta]] il tuo [[Love\|amore]],<br>sposato da un’ora soltanto, [[Tybalt\|Tebaldo]] assassinato,<br>perdutamente preso come me, e come me bandito,<br>allora potresti parlare, allora potresti strapparti i<br>capelli,<br>e gettarti a terra, come faccio io ora,<br>Si getta a terra<br><br>prendendo la misura d’una [[Grave\|fossa]] non ancora scavata.<br>Bussano dentro |
+| [[Friar Laurence\|FRATE LORENZO]] | Alzati, qualcuno bussa. Buon [[Romeo]], nasconditi. |
+| [[Romeo\|ROMEO]] | Non io, a meno che il fiato dei gemiti del cuore malato<br>non m’avvolga come nebbia alla ricerca degli occhi. |
 | *(didascalia)* | Bussano dentro |
-| [[Friar Laurence|FRATE LORENZO]] | Senti come bussano!—Chi è là?—[[Romeo]], alzati.<br>Sarai preso.—Aspetta un momento.—In piedi.<br>Bussano ancora dentro<br>Corri nel mio studio.—Subito!—Volontà di Dio,<br>che sciocchezza è questa?<br>Bussano dentro<br>Vengo, vengo.<br>Chi bussa così forte? Da dove venite? Che<br>volete? |
-| [[Nurse|NUTRICE]] | (dall’interno)<br>Fatemi entrare, e saprete la mia ambasciata.<br>Vengo da parte di madonna [[Juliet|Giulietta]]. |
-| *(didascalia)* | [[Friar Laurence|FRATE LORENZO]] aprendo la porta Benvenuta, allora. |
-| *(didascalia)* | Entra la [[Nurse|Nutrice]] |
-| [[Nurse|NUTRICE]] | O santo frate, oh ditemi, santo frate,<br>dov’è il signore della mia padrona? Dov’è [[Romeo]]? |
-| [[Friar Laurence|FRATE LORENZO]] | Là per terra, ubriaco delle proprie [[Tears|lacrime]]. |
-| [[Nurse|NUTRICE]] | Oh, è proprio nello stato della mia padrona,<br>proprio nel suo stato! O dolorosa consonanza,<br>pietosa situazione! Proprio così giace lei,<br>singhiozzando e piangendo, piangendo e singhiozzando.<br>(A [[Romeo]]) Alzatevi, alzatevi, state ritto se siete un uomo,<br>per amore di [[Juliet|Giulietta]], per amor suo, alzatevi e state ritto.<br>Perché cadere in un ‘Oh’ così profondo? |
-| [[Romeo|ROMEO]] | (alzandosi)<br>[[Nurse|Nutrice]]. |
-| [[Nurse|NUTRICE]] | Ah signore, ah signore, la [[Death|morte]] è la fine di tutto. |
-| [[Romeo|ROMEO]] | Parlavi di [[Juliet|Giulietta]]? Come sta?<br>Non mi ritiene forse un vecchio assassino,<br>ora che ho macchiato l’[[Childhood|infanzia]] della nostra gioia<br>con [[Blood|sangue]] poco lontano dal suo?<br>Dov’è, e come sta, e che dice<br>la mia occulta signora del nostro [[Love|amore]] annullato? |
-| [[Nurse|NUTRICE]] | Oh, non dice nulla, signore, ma piange e piange,<br>e ora si getta sul letto, e poi balza su,<br>e chiama ‘[[Tybalt|Tebaldo]]’, e poi grida [[Romeo]],<br>e poi ricade giù. |
-| [[Romeo|ROMEO]] | Come se quel nome,<br>sparato dalla mira mortale d’uno schioppo,<br>l’assassinasse, come la mano maledetta di quel nome<br>assassinò il suo congiunto. Oh dimmi, frate, dimmi,<br>in quale vile parte di questa anatomia<br>alloggia il mio nome? Dimmelo, ch’io possa saccheggiare<br>l’odiosa magione. |
-| *(didascalia)* | Fa per pugnalarsi, e la [[Nurse|Nutrice]] gli strappa il pugnale |
-| [[Friar Laurence|FRATE LORENZO]] | Ferma la tua mano disperata.<br>Sei un uomo? La tua forma grida che lo sei.<br>Le tue [[Tears|lacrime]] sono femminee, i tuoi atti selvaggi denotano<br>l’irragionevole furia d’una bestia.<br>Sconveniente donna in un apparente uomo,<br>e sconcia bestia in chi sembra entrambi!<br>Mi hai stupito. Per il mio santo ordine,<br>credevo la tua indole meglio temprata.<br>Hai ucciso [[Tybalt|Tebaldo]]? Vuoi uccidere te stesso,<br>e uccidere la tua dama che vive nella tua vita,<br>esercitando su te stesso un odio dannato?<br>Perché inveisci contro la tua nascita, il cielo e la terra,<br>se nascita e cielo e terra, tutt’e tre, s’incontrano<br>in te a un tempo, e tu a un tempo li perderesti?<br>Vergogna, vergogna, disonori la tua figura, il tuo [[Love|amore]], il tuo ingegno,<br>di cui, come un usuraio, abbondi in tutto,<br>e di nessuno fai quel vero uso<br>che dovrebbe adornare la tua figura, il tuo [[Love|amore]], il tuo ingegno.<br>La tua nobile figura non è che una forma di cera,<br>che devia dal valore d’un uomo;<br>il tuo caro [[Love|amore]] giurato non è che vuoto spergiuro,<br>ché uccidi quell’[[Love|amore]] che hai giurato di custodire;<br>il tuo ingegno, ornamento a figura e [[Love|amore]],<br>deforme nel condurre l’una e l’altro,<br>come polvere nella fiasca d’un soldato inesperto,<br>è incendiato dalla tua stessa ignoranza,<br>e tu smembrato dalla tua stessa difesa.<br>Suvvia, riscuotiti, uomo! La tua [[Juliet|Giulietta]] è viva,<br>lei per il cui caro amore poc’anzi eri morto:<br>in questo sei fortunato. [[Tybalt|Tebaldo]] voleva ucciderti,<br>ma tu uccidesti [[Tybalt|Tebaldo]]: in questo sei fortunato.<br>La legge che minacciava [[Death|morte]] ti si fa amica,<br>e la muta in [[Exile|esilio]]: in questo sei fortunato.<br>Un fardello di benedizioni si posa sulle tue spalle,<br>la felicità ti corteggia nel suo abito migliore,<br>ma tu, come una ragazza scortese e imbronciata,<br>fai il broncio alla tua fortuna e al tuo [[Love|amore]].<br>Bada, bada, ché costoro muoiono miseramente.<br>Va’, recati al tuo [[Love|amore]], come fu stabilito.<br>Sali alla sua camera; va’ e confortala.<br>Ma guarda di non restare finché sia posta la guardia,<br>ché allora non potresti passare a Mantova,<br>dove vivrai finché troveremo un [[Time|momento]]<br>per bandire il vostro [[Marriage|matrimonio]], riconciliare i vostri parenti,<br>implorare il perdono del Principe, e richiamarti<br>con due milioni di volte più gioia<br>di quanto lamento avesti nel partire.<br>Va’ avanti, [[Nurse|Nutrice]]. Raccomandami alla tua signora,<br>e dille di far affrettare tutta la [[house|casa]] a letto,<br>a cui il grave dolore li rende ben disposti.<br>[[Romeo]] sta venendo. |
-| [[Nurse|NUTRICE]] | O Signore, sarei rimasta qui tutta la [[Night|notte]]<br>a udire buoni consigli! Oh, che cos’è il sapere!<br>Mio signore, dirò alla mia padrona che verrete. |
-| [[Romeo|ROMEO]] | Fallo, e di’ alla mia dolce che si prepari a rimproverarmi. |
-| *(didascalia)* | La [[Nurse|Nutrice]] fa per entrare, e si volge di nuovo |
-| [[Nurse|NUTRICE]] | (dando l’anello)<br>Ecco, signore, un anello che m’ha detto di darvi, signore.<br>Affrettatevi, fate presto, ché si fa molto tardi. |
-| [[Romeo|ROMEO]] | Come [[Well|bene]] si rianima il mio conforto per questo. Esce la [[Nurse|Nutrice]] |
-| [[Friar Laurence|FRATE LORENZO]] | Andate di qui, buona [[Night|notte]]; e qui sta tutta la vostra sorte.<br>O partite prima che sia posta la guardia,<br>o allo spuntar del giorno andatevene di qui travestito.<br>Soggiornate a Mantova. Io troverò il vostro servo,<br>ed egli vi segnalerà di [[Time|tempo]] in [[Time|tempo]]<br>ogni buona ventura che qui vi accada.<br>Dammi la mano. È tardi. Addio. Buona [[Night|notte]]. |
-| [[Romeo|ROMEO]] | Se non fosse che una gioia oltre ogni gioia mi chiama,<br>sarebbe un dolore separarmi da te così in fretta. |
+| [[Friar Laurence\|FRATE LORENZO]] | Senti come bussano!—Chi è là?—[[Romeo]], alzati.<br>Sarai preso.—Aspetta un momento.—In piedi.<br>Bussano ancora dentro<br>Corri nel mio studio.—Subito!—Volontà di Dio,<br>che sciocchezza è questa?<br>Bussano dentro<br>Vengo, vengo.<br>Chi bussa così forte? Da dove venite? Che<br>volete? |
+| [[Nurse\|NUTRICE]] | (dall’interno)<br>Fatemi entrare, e saprete la mia ambasciata.<br>Vengo da parte di madonna [[Juliet\|Giulietta]]. |
+| *(didascalia)* | [[Friar Laurence\|FRATE LORENZO]] aprendo la porta Benvenuta, allora. |
+| *(didascalia)* | Entra la [[Nurse\|Nutrice]] |
+| [[Nurse\|NUTRICE]] | O santo frate, oh ditemi, santo frate,<br>dov’è il signore della mia padrona? Dov’è [[Romeo]]? |
+| [[Friar Laurence\|FRATE LORENZO]] | Là per terra, ubriaco delle proprie [[Tears\|lacrime]]. |
+| [[Nurse\|NUTRICE]] | Oh, è proprio nello stato della mia padrona,<br>proprio nel suo stato! O dolorosa consonanza,<br>pietosa situazione! Proprio così giace lei,<br>singhiozzando e piangendo, piangendo e singhiozzando.<br>(A [[Romeo]]) Alzatevi, alzatevi, state ritto se siete un uomo,<br>per amore di [[Juliet\|Giulietta]], per amor suo, alzatevi e state ritto.<br>Perché cadere in un ‘Oh’ così profondo? |
+| [[Romeo\|ROMEO]] | (alzandosi)<br>[[Nurse\|Nutrice]]. |
+| [[Nurse\|NUTRICE]] | Ah signore, ah signore, la [[Death\|morte]] è la fine di tutto. |
+| [[Romeo\|ROMEO]] | Parlavi di [[Juliet\|Giulietta]]? Come sta?<br>Non mi ritiene forse un vecchio assassino,<br>ora che ho macchiato l’[[Childhood\|infanzia]] della nostra gioia<br>con [[Blood\|sangue]] poco lontano dal suo?<br>Dov’è, e come sta, e che dice<br>la mia occulta signora del nostro [[Love\|amore]] annullato? |
+| [[Nurse\|NUTRICE]] | Oh, non dice nulla, signore, ma piange e piange,<br>e ora si getta sul letto, e poi balza su,<br>e chiama ‘[[Tybalt\|Tebaldo]]’, e poi grida [[Romeo]],<br>e poi ricade giù. |
+| [[Romeo\|ROMEO]] | Come se quel nome,<br>sparato dalla mira mortale d’uno schioppo,<br>l’assassinasse, come la mano maledetta di quel nome<br>assassinò il suo congiunto. Oh dimmi, frate, dimmi,<br>in quale vile parte di questa anatomia<br>alloggia il mio nome? Dimmelo, ch’io possa saccheggiare<br>l’odiosa magione. |
+| *(didascalia)* | Fa per pugnalarsi, e la [[Nurse\|Nutrice]] gli strappa il pugnale |
+| [[Friar Laurence\|FRATE LORENZO]] | Ferma la tua mano disperata.<br>Sei un uomo? La tua forma grida che lo sei.<br>Le tue [[Tears\|lacrime]] sono femminee, i tuoi atti selvaggi denotano<br>l’irragionevole furia d’una bestia.<br>Sconveniente donna in un apparente uomo,<br>e sconcia bestia in chi sembra entrambi!<br>Mi hai stupito. Per il mio santo ordine,<br>credevo la tua indole meglio temprata.<br>Hai ucciso [[Tybalt\|Tebaldo]]? Vuoi uccidere te stesso,<br>e uccidere la tua dama che vive nella tua vita,<br>esercitando su te stesso un odio dannato?<br>Perché inveisci contro la tua nascita, il cielo e la terra,<br>se nascita e cielo e terra, tutt’e tre, s’incontrano<br>in te a un tempo, e tu a un tempo li perderesti?<br>Vergogna, vergogna, disonori la tua figura, il tuo [[Love\|amore]], il tuo ingegno,<br>di cui, come un usuraio, abbondi in tutto,<br>e di nessuno fai quel vero uso<br>che dovrebbe adornare la tua figura, il tuo [[Love\|amore]], il tuo ingegno.<br>La tua nobile figura non è che una forma di cera,<br>che devia dal valore d’un uomo;<br>il tuo caro [[Love\|amore]] giurato non è che vuoto spergiuro,<br>ché uccidi quell’[[Love\|amore]] che hai giurato di custodire;<br>il tuo ingegno, ornamento a figura e [[Love\|amore]],<br>deforme nel condurre l’una e l’altro,<br>come polvere nella fiasca d’un soldato inesperto,<br>è incendiato dalla tua stessa ignoranza,<br>e tu smembrato dalla tua stessa difesa.<br>Suvvia, riscuotiti, uomo! La tua [[Juliet\|Giulietta]] è viva,<br>lei per il cui caro amore poc’anzi eri morto:<br>in questo sei fortunato. [[Tybalt\|Tebaldo]] voleva ucciderti,<br>ma tu uccidesti [[Tybalt\|Tebaldo]]: in questo sei fortunato.<br>La legge che minacciava [[Death\|morte]] ti si fa amica,<br>e la muta in [[Exile\|esilio]]: in questo sei fortunato.<br>Un fardello di benedizioni si posa sulle tue spalle,<br>la felicità ti corteggia nel suo abito migliore,<br>ma tu, come una ragazza scortese e imbronciata,<br>fai il broncio alla tua fortuna e al tuo [[Love\|amore]].<br>Bada, bada, ché costoro muoiono miseramente.<br>Va’, recati al tuo [[Love\|amore]], come fu stabilito.<br>Sali alla sua camera; va’ e confortala.<br>Ma guarda di non restare finché sia posta la guardia,<br>ché allora non potresti passare a Mantova,<br>dove vivrai finché troveremo un [[Time\|momento]]<br>per bandire il vostro [[Marriage\|matrimonio]], riconciliare i vostri parenti,<br>implorare il perdono del Principe, e richiamarti<br>con due milioni di volte più gioia<br>di quanto lamento avesti nel partire.<br>Va’ avanti, [[Nurse\|Nutrice]]. Raccomandami alla tua signora,<br>e dille di far affrettare tutta la [[house\|casa]] a letto,<br>a cui il grave dolore li rende ben disposti.<br>[[Romeo]] sta venendo. |
+| [[Nurse\|NUTRICE]] | O Signore, sarei rimasta qui tutta la [[Night\|notte]]<br>a udire buoni consigli! Oh, che cos’è il sapere!<br>Mio signore, dirò alla mia padrona che verrete. |
+| [[Romeo\|ROMEO]] | Fallo, e di’ alla mia dolce che si prepari a rimproverarmi. |
+| *(didascalia)* | La [[Nurse\|Nutrice]] fa per entrare, e si volge di nuovo |
+| [[Nurse\|NUTRICE]] | (dando l’anello)<br>Ecco, signore, un anello che m’ha detto di darvi, signore.<br>Affrettatevi, fate presto, ché si fa molto tardi. |
+| [[Romeo\|ROMEO]] | Come [[Well\|bene]] si rianima il mio conforto per questo. Esce la [[Nurse\|Nutrice]] |
+| [[Friar Laurence\|FRATE LORENZO]] | Andate di qui, buona [[Night\|notte]]; e qui sta tutta la vostra sorte.<br>O partite prima che sia posta la guardia,<br>o allo spuntar del giorno andatevene di qui travestito.<br>Soggiornate a Mantova. Io troverò il vostro servo,<br>ed egli vi segnalerà di [[Time\|tempo]] in [[Time\|tempo]]<br>ogni buona ventura che qui vi accada.<br>Dammi la mano. È tardi. Addio. Buona [[Night\|notte]]. |
+| [[Romeo\|ROMEO]] | Se non fosse che una gioia oltre ogni gioia mi chiama,<br>sarebbe un dolore separarmi da te così in fretta. |
 | *(didascalia)* | Addio. Escono da parti opposte |
 
 
@@ -2867,17 +2867,17 @@ Exit
 
 | Chi parla | Battuta |
 |---|---|
-| *(didascalia)* | Entrano [[Capulet|Capuleti]], sua moglie e [[Paris|Paride]] |
-| [[Capulet|CAPULETI]] | Le cose sono andate, signore, così sfortunatamente<br>che non abbiamo avuto [[Time|tempo]] di persuadere nostra figlia.<br>Vedete, ella amava teneramente il suo congiunto [[Tybalt|Tebaldo]],<br>e così pure io. [[Well|Ebbene]], siamo nati per morire.<br>È molto tardi. Non scenderà stanotte.<br>Vi assicuro che, se non fosse per la vostra compagnia,<br>sarei stato a letto un’ora fa. |
-| [[Paris|PARIDE]] | Questi tempi di dolore non concedono tempo di corteggiare.<br>Signora, buona [[Night|notte]]. Raccomandatemi a vostra figlia. |
-| LA MOGLIE DI [[Capulet|CAPULETI]] | Lo farò, e domattina presto conoscerò il suo animo.<br>Stanotte è rinchiusa nella sua mestizia. |
-| *(didascalia)* | [[Paris|Paride]] fa per uscire, e [[Capulet|Capuleti]] lo richiama |
-| [[Capulet|CAPULETI]] | Ser [[Paris|Paride]], farò un’offerta ardita<br>dell’[[Love|amore]] di mia [[Child|figlia]]. Credo che si lascerà guidare<br>in tutto da me. Anzi, di più: non ne [[Doubt|dubito]].<br>Moglie, andate da lei prima d’andare a letto.<br>Informatela dell’[[Love|amore]] di mio figlio [[Paris|Paride]],<br>e ditele—mi ascoltate?—che mercoledì prossimo—<br>ma piano: che giorno è oggi? |
-| [[Paris|PARIDE]] | Lunedì, mio signore. |
-| [[Capulet|CAPULETI]] | Lunedì. Ah, ah! [[Well|Ebbene]], mercoledì è troppo presto.<br>Sia [[thursday|giovedì]]. Di [[thursday|giovedì]], ditele,<br>sarà sposata a questo nobile conte.<br>Sarete pronto? Vi piace questa fretta?<br>Non faremo grandi cerimonie—un amico o due.<br>Ché, badate, essendo [[Tybalt|Tebaldo]] ucciso così di recente,<br>si potrebbe pensare che lo tenessimo in poco conto,<br>essendo nostro congiunto, se facessimo troppa festa.<br>Perciò avremo una mezza dozzina d’amici,<br>e basta così. Ma che dite di [[thursday|giovedì]]? |
-| [[Paris|PARIDE]] | Mio signore, vorrei che [[thursday|giovedì]] fosse domani. |
-| [[Capulet|CAPULETI]] | [[Well|Ebbene]], andate pure. Sia dunque [[thursday|giovedì]].<br>(Alla moglie) Andate da [[Juliet|Giulietta]] prima d’andare a letto.<br>Preparatela, moglie, per questo giorno di nozze.—<br>Addio, mio signore.—Luce nella mia camera, olà!—<br>Perbacco, è così tardi che fra poco<br>potremo chiamarlo presto. Buona [[Night|notte]]. |
-| *(didascalia)* | Escono [[Capulet|Capuleti]] e sua moglie da una porta, [[Paris|Paride]] da un’altra porta |
+| *(didascalia)* | Entrano [[Capulet\|Capuleti]], sua moglie e [[Paris\|Paride]] |
+| [[Capulet\|CAPULETI]] | Le cose sono andate, signore, così sfortunatamente<br>che non abbiamo avuto [[Time\|tempo]] di persuadere nostra figlia.<br>Vedete, ella amava teneramente il suo congiunto [[Tybalt\|Tebaldo]],<br>e così pure io. [[Well\|Ebbene]], siamo nati per morire.<br>È molto tardi. Non scenderà stanotte.<br>Vi assicuro che, se non fosse per la vostra compagnia,<br>sarei stato a letto un’ora fa. |
+| [[Paris\|PARIDE]] | Questi tempi di dolore non concedono tempo di corteggiare.<br>Signora, buona [[Night\|notte]]. Raccomandatemi a vostra figlia. |
+| LA MOGLIE DI [[Capulet\|CAPULETI]] | Lo farò, e domattina presto conoscerò il suo animo.<br>Stanotte è rinchiusa nella sua mestizia. |
+| *(didascalia)* | [[Paris\|Paride]] fa per uscire, e [[Capulet\|Capuleti]] lo richiama |
+| [[Capulet\|CAPULETI]] | Ser [[Paris\|Paride]], farò un’offerta ardita<br>dell’[[Love\|amore]] di mia [[Child\|figlia]]. Credo che si lascerà guidare<br>in tutto da me. Anzi, di più: non ne [[Doubt\|dubito]].<br>Moglie, andate da lei prima d’andare a letto.<br>Informatela dell’[[Love\|amore]] di mio figlio [[Paris\|Paride]],<br>e ditele—mi ascoltate?—che mercoledì prossimo—<br>ma piano: che giorno è oggi? |
+| [[Paris\|PARIDE]] | Lunedì, mio signore. |
+| [[Capulet\|CAPULETI]] | Lunedì. Ah, ah! [[Well\|Ebbene]], mercoledì è troppo presto.<br>Sia [[thursday\|giovedì]]. Di [[thursday\|giovedì]], ditele,<br>sarà sposata a questo nobile conte.<br>Sarete pronto? Vi piace questa fretta?<br>Non faremo grandi cerimonie—un amico o due.<br>Ché, badate, essendo [[Tybalt\|Tebaldo]] ucciso così di recente,<br>si potrebbe pensare che lo tenessimo in poco conto,<br>essendo nostro congiunto, se facessimo troppa festa.<br>Perciò avremo una mezza dozzina d’amici,<br>e basta così. Ma che dite di [[thursday\|giovedì]]? |
+| [[Paris\|PARIDE]] | Mio signore, vorrei che [[thursday\|giovedì]] fosse domani. |
+| [[Capulet\|CAPULETI]] | [[Well\|Ebbene]], andate pure. Sia dunque [[thursday\|giovedì]].<br>(Alla moglie) Andate da [[Juliet\|Giulietta]] prima d’andare a letto.<br>Preparatela, moglie, per questo giorno di nozze.—<br>Addio, mio signore.—Luce nella mia camera, olà!—<br>Perbacco, è così tardi che fra poco<br>potremo chiamarlo presto. Buona [[Night\|notte]]. |
+| *(didascalia)* | Escono [[Capulet\|Capuleti]] e sua moglie da una porta, [[Paris\|Paride]] da un’altra porta |
 
 
 
@@ -2971,85 +2971,85 @@ Exit
 
 | Chi parla | Battuta |
 |---|---|
-| *(didascalia)* | Entrano [[Romeo]] e [[Juliet|Giulietta]] in alto con la scala di corda |
-| [[Juliet|GIULIETTA]] | Vuoi già andartene? Non è ancora vicino il giorno.<br>Era l’[[Nightingale|usignolo]], e non l’allodola,<br>che ha trafitto il cavo [[Fear|pauroso]] del tuo orecchio.<br>Ogni notte canta su quel melograno laggiù.<br>Credimi, [[Love|amore]], era l’[[Nightingale|usignolo]]. |
-| [[Romeo|ROMEO]] | Era l’allodola, l’araldo del mattino,<br>non l’[[Nightingale|usignolo]]. Guarda, [[Love|amore]], quali strisce invidiose<br>orlano le nubi che si separano laggiù a oriente.<br>Le candele della [[Night|Notte]] sono consumate, e il giorno gioioso<br>sta in punta di piedi sulle nebbiose cime dei monti.<br>Devo andarmene e vivere, o restare e morire. |
-| [[Juliet|GIULIETTA]] | Quella luce non è luce del giorno; lo so io, io.<br>È qualche meteora che il sole ha esalato<br>per esserti questa [[Night|notte]] portatrice di torcia<br>e farti lume sulla via di Mantova.<br>Perciò resta ancora. Non hai bisogno d’andartene. |
-| [[Romeo|ROMEO]] | Che io sia preso, che io sia messo a [[Death|morte]].<br>Ne sono contento, se tu così vuoi.<br>Dirò che quel grigio non è l’occhio del mattino,<br>è solo il pallido riflesso della fronte di [[Cynthia|Cinzia]];<br>né quella è l’allodola le cui note percuotono<br>la volta del cielo così alta sopra le nostre teste.<br>Ho più desiderio di restare che voglia d’andare.<br>Vieni, [[Death|morte]], e sii benvenuta; [[Juliet|Giulietta]] così vuole.<br>Come va, [[Soul|anima]] mia? Parliamo. Non è giorno. |
-| [[Juliet|GIULIETTA]] | È giorno, è giorno. Va’ via di qui, vattene, via.<br>È l’allodola che canta così stonata,<br>forzando aspre dissonanze e sgradevoli acuti.<br>Alcuni dicono che l’allodola faccia dolci variazioni;<br>questa no, ché divide noi due.<br>Alcuni dicono che l’allodola e il rospo odiato si scambiarono gli occhi.<br>Oh, ora vorrei che si fossero scambiati anche le voci,<br>poiché quella voce ci strappa braccio da braccio,<br>cacciandoti di qui con la diana del giorno.<br>Oh, ora vattene! Sempre più chiaro si fa. |
-| [[Romeo|ROMEO]] | Sempre più chiaro, e sempre più oscuri i nostri affanni. |
-| *(didascalia)* | Entra in fretta la [[Nurse|Nutrice]] |
-| [[Nurse|NUTRICE]] | Signora. |
-| [[Juliet|GIULIETTA]] | [[Nurse|Nutrice]]. |
-| [[Nurse|NUTRICE]] | Vostra madre sta venendo alla vostra camera.<br>È spuntato il giorno; state attenta, guardatevi intorno. Esce |
-| [[Juliet|GIULIETTA]] | Allora, [[Window|finestra]], lascia entrare il giorno, e lascia uscire la vita. |
-| [[Romeo|ROMEO]] | Addio, addio! Un bacio, e scenderò. |
+| *(didascalia)* | Entrano [[Romeo]] e [[Juliet\|Giulietta]] in alto con la scala di corda |
+| [[Juliet\|GIULIETTA]] | Vuoi già andartene? Non è ancora vicino il giorno.<br>Era l’[[Nightingale\|usignolo]], e non l’allodola,<br>che ha trafitto il cavo [[Fear\|pauroso]] del tuo orecchio.<br>Ogni notte canta su quel melograno laggiù.<br>Credimi, [[Love\|amore]], era l’[[Nightingale\|usignolo]]. |
+| [[Romeo\|ROMEO]] | Era l’allodola, l’araldo del mattino,<br>non l’[[Nightingale\|usignolo]]. Guarda, [[Love\|amore]], quali strisce invidiose<br>orlano le nubi che si separano laggiù a oriente.<br>Le candele della [[Night\|Notte]] sono consumate, e il giorno gioioso<br>sta in punta di piedi sulle nebbiose cime dei monti.<br>Devo andarmene e vivere, o restare e morire. |
+| [[Juliet\|GIULIETTA]] | Quella luce non è luce del giorno; lo so io, io.<br>È qualche meteora che il sole ha esalato<br>per esserti questa [[Night\|notte]] portatrice di torcia<br>e farti lume sulla via di Mantova.<br>Perciò resta ancora. Non hai bisogno d’andartene. |
+| [[Romeo\|ROMEO]] | Che io sia preso, che io sia messo a [[Death\|morte]].<br>Ne sono contento, se tu così vuoi.<br>Dirò che quel grigio non è l’occhio del mattino,<br>è solo il pallido riflesso della fronte di [[Cynthia\|Cinzia]];<br>né quella è l’allodola le cui note percuotono<br>la volta del cielo così alta sopra le nostre teste.<br>Ho più desiderio di restare che voglia d’andare.<br>Vieni, [[Death\|morte]], e sii benvenuta; [[Juliet\|Giulietta]] così vuole.<br>Come va, [[Soul\|anima]] mia? Parliamo. Non è giorno. |
+| [[Juliet\|GIULIETTA]] | È giorno, è giorno. Va’ via di qui, vattene, via.<br>È l’allodola che canta così stonata,<br>forzando aspre dissonanze e sgradevoli acuti.<br>Alcuni dicono che l’allodola faccia dolci variazioni;<br>questa no, ché divide noi due.<br>Alcuni dicono che l’allodola e il rospo odiato si scambiarono gli occhi.<br>Oh, ora vorrei che si fossero scambiati anche le voci,<br>poiché quella voce ci strappa braccio da braccio,<br>cacciandoti di qui con la diana del giorno.<br>Oh, ora vattene! Sempre più chiaro si fa. |
+| [[Romeo\|ROMEO]] | Sempre più chiaro, e sempre più oscuri i nostri affanni. |
+| *(didascalia)* | Entra in fretta la [[Nurse\|Nutrice]] |
+| [[Nurse\|NUTRICE]] | Signora. |
+| [[Juliet\|GIULIETTA]] | [[Nurse\|Nutrice]]. |
+| [[Nurse\|NUTRICE]] | Vostra madre sta venendo alla vostra camera.<br>È spuntato il giorno; state attenta, guardatevi intorno. Esce |
+| [[Juliet\|GIULIETTA]] | Allora, [[Window\|finestra]], lascia entrare il giorno, e lascia uscire la vita. |
+| [[Romeo\|ROMEO]] | Addio, addio! Un bacio, e scenderò. |
 | *(didascalia)* | Cala la scala di corda e scende |
-| [[Juliet|GIULIETTA]] | Te ne sei andato così, [[Love|amore]], signore, mio sposo, amico?<br>Devo aver tue notizie ogni giorno d’ogni ora,<br>ché in un minuto ci sono molti giorni.<br>Oh, con questo conto sarò molto avanti negli anni<br>prima di rivedere il mio [[Romeo]]. |
-| [[Romeo|ROMEO]] | Addio.<br>Non tralascerò occasione alcuna<br>che possa recarti i miei saluti, [[Love|amore]]. |
-| [[Juliet|GIULIETTA]] | Oh, credi che ci rivedremo mai? |
-| [[Romeo|ROMEO]] | Non ne [[Doubt|dubito]], e tutti questi affanni serviranno<br>a dolci discorsi nei tempi a venire. |
-| *(didascalia)* | [[Juliet|GIULIETTA]] |
-| [[Romeo|ROMEO]] | O Dio, ho un’[[Soul|anima]] che presagisce sventura!<br>Mi pare di vederti, ora che sei così in basso,<br>come un morto in [[Bottom|fondo]] a una tomba.<br>O la vista m’inganna, o tu sembri pallido. |
-| [[Romeo|ROMEO]] | E credimi, [[Love|amore]], al mio occhio anche tu.<br>L’arido dolore beve il nostro [[Blood|sangue]]. Addio, addio. Esce |
-| *(didascalia)* | [[Juliet|GIULIETTA]] tirando su la scala e piangendo |
-| [[Romeo|ROMEO]] | O fortuna, fortuna, tutti ti chiamano volubile.<br>Se sei volubile, che fai con lui<br>che è famoso per [[Faith|fedeltà]]? Sii volubile, fortuna,<br>ché allora [[Hope|spero]] che non lo terrai a lungo,<br>ma me lo rimanderai. |
-| *(didascalia)* | Entra sotto la moglie di [[Capulet|Capuleti]] |
-| LA MOGLIE DI [[Capulet|CAPULETI]] | Olà, figlia, siete alzata? |
-| [[Juliet|GIULIETTA]] | Chi è che chiama? È mia madre.<br>Non è andata a letto così tardi, o è alzata così presto?<br>Quale insolito motivo la conduce qui? |
+| [[Juliet\|GIULIETTA]] | Te ne sei andato così, [[Love\|amore]], signore, mio sposo, amico?<br>Devo aver tue notizie ogni giorno d’ogni ora,<br>ché in un minuto ci sono molti giorni.<br>Oh, con questo conto sarò molto avanti negli anni<br>prima di rivedere il mio [[Romeo]]. |
+| [[Romeo\|ROMEO]] | Addio.<br>Non tralascerò occasione alcuna<br>che possa recarti i miei saluti, [[Love\|amore]]. |
+| [[Juliet\|GIULIETTA]] | Oh, credi che ci rivedremo mai? |
+| [[Romeo\|ROMEO]] | Non ne [[Doubt\|dubito]], e tutti questi affanni serviranno<br>a dolci discorsi nei tempi a venire. |
+| *(didascalia)* | [[Juliet\|GIULIETTA]] |
+| [[Romeo\|ROMEO]] | O Dio, ho un’[[Soul\|anima]] che presagisce sventura!<br>Mi pare di vederti, ora che sei così in basso,<br>come un morto in [[Bottom\|fondo]] a una tomba.<br>O la vista m’inganna, o tu sembri pallido. |
+| [[Romeo\|ROMEO]] | E credimi, [[Love\|amore]], al mio occhio anche tu.<br>L’arido dolore beve il nostro [[Blood\|sangue]]. Addio, addio. Esce |
+| *(didascalia)* | [[Juliet\|GIULIETTA]] tirando su la scala e piangendo |
+| [[Romeo\|ROMEO]] | O fortuna, fortuna, tutti ti chiamano volubile.<br>Se sei volubile, che fai con lui<br>che è famoso per [[Faith\|fedeltà]]? Sii volubile, fortuna,<br>ché allora [[Hope\|spero]] che non lo terrai a lungo,<br>ma me lo rimanderai. |
+| *(didascalia)* | Entra sotto la moglie di [[Capulet\|Capuleti]] |
+| LA MOGLIE DI [[Capulet\|CAPULETI]] | Olà, figlia, siete alzata? |
+| [[Juliet\|GIULIETTA]] | Chi è che chiama? È mia madre.<br>Non è andata a letto così tardi, o è alzata così presto?<br>Quale insolito motivo la conduce qui? |
 | *(didascalia)* | Scende ed entra sotto |
-| LA MOGLIE DI [[Capulet|CAPULETI]] | Ma come, che c’è, [[Juliet|Giulietta]]? |
-| [[Juliet|GIULIETTA]] | Signora, non sto [[Well|bene]]. |
-| LA MOGLIE DI [[Capulet|CAPULETI]] | Sempre a piangere per la [[Death|morte]] di vostro cugino?<br>Come, vuoi lavarlo via dalla sua [[Grave|fossa]] con le [[Tears|lacrime]]?<br>E se anche potessi, non potresti farlo rivivere,<br>perciò smettila. Un po’ di dolore mostra molto [[Love|amore]],<br>ma troppo dolore mostra sempre qualche mancanza di senno. |
-| [[Juliet|GIULIETTA]] | Eppure lasciatemi piangere una perdita così sentita. |
-| LA MOGLIE DI [[Capulet|CAPULETI]] | Così sentirete la perdita, ma non l’amico<br>per il quale tanto piangete. |
-| [[Juliet|GIULIETTA]] | Sentendo così la perdita,<br>non posso far altro che piangere sempre l’amico. |
-| LA MOGLIE DI [[Capulet|CAPULETI]] | [[Well|Ebbene]], ragazza, non piangi tanto per la sua [[Death|morte]]<br>quanto perché vive il [[Villain|farabutto]] che l’ha ucciso. |
-| [[Juliet|GIULIETTA]] | Quale [[Villain|farabutto]], signora? |
-| LA MOGLIE DI [[Capulet|CAPULETI]] | Quello stesso [[Villain|farabutto]] di [[Romeo]]. |
-| [[Juliet|GIULIETTA]] | (a parte)<br>[[Villain|Farabutto]] e lui distano molte miglia.<br>(Alla madre) Dio lo perdoni—io lo perdono, con tutto il<br>cuore,<br>eppure nessun uomo come lui affligge il mio cuore. |
-| LA MOGLIE DI [[Capulet|CAPULETI]] | Questo perché il traditore assassino è vivo. |
-| [[Juliet|GIULIETTA]] | Sì, signora, fuori dalla portata di queste mie mani.<br>Vorrei che nessuno tranne me vendicasse la [[Death|morte]] di mio cugino. |
-| LA MOGLIE DI [[Capulet|CAPULETI]] | Ne avremo vendetta, non [[Fear|temere]].<br>Dunque non piangere più. Manderò a uno a Mantova,<br>dove vive quel bandito fuggiasco,<br>che gli darà una tal dose insolita<br>che presto terrà compagnia a [[Tybalt|Tebaldo]];<br>e allora [[Hope|spero]] che sarai soddisfatta. |
-| [[Juliet|GIULIETTA]] | In verità, non sarò mai soddisfatta<br>di [[Romeo]] finché non lo vedrò—morto—<br>tanto è tormentato il mio povero cuore per un congiunto.<br>Signora, se poteste trovare un uomo<br>che portasse un [[Poison|veleno]], io lo tempererei<br>sì che [[Romeo]], al riceverlo,<br>presto [[Sleep|dormirebbe]] in pace. Oh, come il mio cuore aborre<br>l’udirlo nominare e non poter andare da lui<br>a sfogare l’[[Love|amore]] che portavo a mio cugino<br>sul [[Body|corpo]] di colui che l’ha ucciso! |
-| LA MOGLIE DI [[Capulet|CAPULETI]] | Trova tu il mezzo, e io troverò l’uomo.<br>Ma ora ti dirò liete notizie, ragazza. |
-| [[Juliet|GIULIETTA]] | E la gioia giunge [[Well|bene]] in un [[Time|momento]] così bisognoso.<br>Quali sono, ne prego vostra signoria? |
-| LA MOGLIE DI [[Capulet|CAPULETI]] | [[Well|Ebbene]], [[Well|bene]], hai un padre premuroso, [[Child|figlia]];<br>uno che, per trarti dalla tua mestizia,<br>ha stabilito un improvviso giorno di gioia<br>che tu non t’aspetti, né io attendevo. |
-| [[Juliet|GIULIETTA]] | Signora, in buon [[Time|punto]]. Che giorno è? |
-| LA MOGLIE DI [[Capulet|CAPULETI]] | Perbacco, [[Child|figlia]] mia, [[thursday|giovedì]] prossimo di primo mattino<br>il galante, giovane e nobile gentiluomo,<br>il conte [[Paris|Paride]], nella chiesa di San Pietro<br>ti farà là felicemente lieta sposa. |
-| [[Juliet|GIULIETTA]] | Ora, per la chiesa di San Pietro, e per Pietro pure,<br>non mi farà là lieta sposa.<br>Mi [[Wonder|stupisco]] di questa fretta, che debba sposarmi<br>prima che colui che dovrebbe essere marito venga a corteggiarmi.<br>Vi prego, dite al mio signore e padre, signora,<br>che non voglio ancora sposarmi; e quando lo farò, lo giuro,<br>sarà [[Romeo]]—che sapete quanto io odi—<br>piuttosto che [[Paris|Paride]]. Queste sì che son notizie. |
-| *(didascalia)* | Entrano [[Capulet|Capuleti]] e la [[Nurse|Nutrice]] |
-| LA MOGLIE DI [[Capulet|CAPULETI]] | Ecco che viene vostro padre. Diteglielo voi stessa,<br>e vedete come lo prenderà dalle vostre mani. |
-| [[Capulet|CAPULETI]] | Quando il sole tramonta, la terra stilla rugiada,<br>ma per il tramonto del figlio di mio fratello<br>piove a dirotto.<br>Come, una fontana, ragazza? Come, ancora in [[Tears|lacrime]]?<br>Sempre a rovesciare acquazzoni? In un solo piccolo [[Body|corpo]]<br>tu contraffai una barca, un mare, un [[Wind|vento]],<br>ché i tuoi occhi—che posso chiamare il mare—<br>fluiscono e rifluiscono di [[Tears|lacrime]]. La barca è il tuo [[Body|corpo]],<br>che naviga in questa salsa piena; i venti i tuoi sospiri,<br>i quali, infuriando con le tue [[Tears|lacrime]] e queste con essi,<br>senza un’improvvisa bonaccia rovesceranno<br>il tuo [[Body|corpo]] sbattuto dalla tempesta.—Come va, moglie?<br>Le avete comunicato il nostro decreto? |
-| LA MOGLIE DI [[Capulet|CAPULETI]] | Sì, signore, ma lei non ne vuol sapere, e vi ringrazia.<br>Vorrei che la [[Fool|sciocca]] fosse sposata alla sua [[Grave|fossa]]. |
-| [[Capulet|CAPULETI]] | Piano, spiegatevi, spiegatevi, moglie.<br>Come, non ne vuol sapere? Non ci ringrazia?<br>Non è orgogliosa? Non si stima benedetta,<br>indegna com’è, che noi abbiamo procurato<br>un così degno gentiluomo per suo sposo? |
-| [[Juliet|GIULIETTA]] | Non orgogliosa di quel che avete fatto, ma grata che l’abbiate fatto.<br>Orgogliosa non potrò mai essere di ciò che odio,<br>ma grata anche dell’odio che è inteso come [[Love|amore]]. |
-| [[Capulet|CAPULETI]] | Come, come, come, come—[[logic|sofismi]]? Che roba è questa?<br>‘Orgogliosa’, e ‘vi ringrazio’, e ‘non vi ringrazio’,<br>e tuttavia ‘non orgogliosa’? Madamigella smorfiosa,<br>non ringraziatemi di ringraziamenti, né inorgoglitemi d’orgogli,<br>ma preparate le vostre belle giunture per [[thursday|giovedì]] prossimo<br>per andare con [[Paris|Paride]] alla chiesa di San Pietro,<br>o ti ci trascinerò su una graticola.<br>Via, carogna clorotica! Via, fraschetta,<br>faccia di sego! |
-| LA MOGLIE DI [[Capulet|CAPULETI]] | Vergogna, vergogna, ma siete impazzito? |
-| [[Juliet|GIULIETTA]] | (inginocchiandosi)<br>Buon padre, vi supplico in ginocchio,<br>ascoltatemi con pazienza il tempo d’una parola. |
-| [[Capulet|CAPULETI]] | Ti s’impicchi, giovane fraschetta, sciagurata disobbediente!<br>Ti dico una cosa: va’ in chiesa [[thursday|giovedì]],<br>o non guardarmi mai più in faccia.<br>Non parlare, non replicare, non rispondermi. |
-| *(didascalia)* | [[Juliet|Giulietta]] si alza |
-| [[Capulet|CAPULETI]] | Mi prudono le dita. Moglie, ci stimavamo appena benedetti<br>che Dio ci avesse concesso questa sola [[Child|figlia]],<br>ma ora vedo che questa è già una di troppo,<br>e che nell’averla abbiamo una maledizione.<br>Via lei, buona a nulla! |
-| [[Nurse|NUTRICE]] | Dio in cielo la benedica!<br>Avete torto, mio signore, a strapazzarla così. |
-| [[Capulet|CAPULETI]] | E perché, madonna Sapienza? Tenete a freno la lingua,<br>buona Prudenza. Andate a cianciare con le vostre comari! |
-| [[Nurse|NUTRICE]] | Non dico tradimenti. |
-| *(didascalia)* | [[Capulet|CAPULETI]] Oh, e buonasera a voi! |
-| *(didascalia)* | [[Nurse|NUTRICE]] |
-| [[Nurse|NUTRICE]] | Non si può parlare? |
-| [[Capulet|CAPULETI]] | Zitta, borbottona [[Fool|sciocca]],<br>sfoggiate la vostra gravità sulla scodella d’una comare,<br>ché qui non ce n’è bisogno. |
-| LA MOGLIE DI [[Capulet|CAPULETI]] | Siete troppo acceso. |
-| [[Capulet|CAPULETI]] | Pane di Dio, mi fa impazzire. Giorno, [[Night|notte]]; lavoro, svago;<br>[[Alone|Solo]], in compagnia, la mia cura è sempre stata<br>di trovarle marito; e ora che le ho provveduto<br>un gentiluomo di nobile parentela,<br>di belle terre, giovane e di nobile stirpe,<br>fornito, come si dice, d’onorevoli qualità,<br>proporzionato come il pensiero desidererebbe un uomo—<br>e poi dover avere una miserabile piagnucolosa [[Fool|sciocca]],<br>una bambola lamentosa, all’offerta della sua fortuna,<br>che risponde ‘Non voglio sposarmi, non posso [[Love|amare]];<br>sono troppo giovane, vi prego perdonatemi’!<br>Ma se non volete sposarvi, io vi perdonerò!<br>Pascolate dove volete, non abiterete in [[house|casa]] con me.<br>Badateci, pensateci. Non sono solito scherzare.<br>[[thursday|Giovedì]] è vicino. Mettetevi la mano sul cuore. Riflettete.<br>Se siete mia, vi darò al mio amico.<br>Se non lo siete, impiccatevi, mendicate, patite la fame, morite per le strade,<br>ché, per l’[[Soul|anima]] mia, non vi riconoscerò mai,<br>né ciò che è mio vi gioverà mai.<br>Contateci. Riflettete. Non mancherò al mio giuramento. Esce |
-| [[Juliet|GIULIETTA]] | Non c’è pietà seduta tra le nubi<br>che veda in [[Bottom|fondo]] al mio dolore?<br>O dolce madre mia, non mi scacciate!<br>Rimandate questo [[Marriage|matrimonio]] d’un mese, d’una settimana;<br>o se non lo fate, fate il letto nuziale<br>in quel buio monumento dove giace [[Tybalt|Tebaldo]]. |
-| LA MOGLIE DI [[Capulet|CAPULETI]] | Non parlarmi, ché non dirò una parola.<br>Fa’ come ti pare, ché ho finito con te. Esce |
-| [[Juliet|GIULIETTA]] | O Dio—o Nutrice, come si potrà impedire questo?<br>Mio marito è sulla terra, la mia [[Faith|fede]] in cielo.<br>Come potrà quella [[Faith|fede]] tornare in terra<br>se non me la rimanda quel marito dal cielo<br>lasciando la terra? Confortami, consigliami.<br>Ahimè, ahimè, che il cielo debba tramare stratagemmi<br>contro un soggetto così tenero come me!<br>Che dici? Non hai una parola di gioia?<br>Un po’ di conforto, [[Nurse|Nutrice]]. |
-| [[Nurse|NUTRICE]] | [[Faith|In fede]], eccola: [[Romeo]]<br>è bandito, e scommetto il mondo intero contro nulla<br>che non oserà mai tornare a reclamarvi,<br>o se lo farà, dovrà essere di nascosto.<br>Dunque, stando le cose come stanno ora,<br>credo sia meglio che sposiate il conte.<br>Oh, è un gentiluomo incantevole!<br>[[Romeo]] è uno straccio al confronto. Un’aquila, signora,<br>non ha occhio così vivo, così pronto, così bello<br>come l’ha [[Paris|Paride]]. Maledetto sia il mio cuore,<br>credo che siate fortunata in questo secondo partito,<br>ché supera il primo; o se anche non fosse,<br>il vostro primo è morto, o tanto varrebbe che lo fosse<br>vivendo lontano di qui e voi senza poterne godere. |
-| [[Juliet|GIULIETTA]] | Parli dal cuore? |
-| [[Nurse|NUTRICE]] | E anche dall’[[Soul|anima]], altrimenti maledette entrambe. |
-| [[Juliet|GIULIETTA]] | Amen. |
-| [[Nurse|NUTRICE]] | Che cosa? |
-| [[Juliet|GIULIETTA]] | [[Well|Ebbene]], mi hai confortata straordinariamente.<br>Rientra; e di’ a mia madre che sono andata,<br>avendo scontentato mio padre, alla cella di Lorenzo<br>per confessarmi e ricevere l’assoluzione. |
+| LA MOGLIE DI [[Capulet\|CAPULETI]] | Ma come, che c’è, [[Juliet\|Giulietta]]? |
+| [[Juliet\|GIULIETTA]] | Signora, non sto [[Well\|bene]]. |
+| LA MOGLIE DI [[Capulet\|CAPULETI]] | Sempre a piangere per la [[Death\|morte]] di vostro cugino?<br>Come, vuoi lavarlo via dalla sua [[Grave\|fossa]] con le [[Tears\|lacrime]]?<br>E se anche potessi, non potresti farlo rivivere,<br>perciò smettila. Un po’ di dolore mostra molto [[Love\|amore]],<br>ma troppo dolore mostra sempre qualche mancanza di senno. |
+| [[Juliet\|GIULIETTA]] | Eppure lasciatemi piangere una perdita così sentita. |
+| LA MOGLIE DI [[Capulet\|CAPULETI]] | Così sentirete la perdita, ma non l’amico<br>per il quale tanto piangete. |
+| [[Juliet\|GIULIETTA]] | Sentendo così la perdita,<br>non posso far altro che piangere sempre l’amico. |
+| LA MOGLIE DI [[Capulet\|CAPULETI]] | [[Well\|Ebbene]], ragazza, non piangi tanto per la sua [[Death\|morte]]<br>quanto perché vive il [[Villain\|farabutto]] che l’ha ucciso. |
+| [[Juliet\|GIULIETTA]] | Quale [[Villain\|farabutto]], signora? |
+| LA MOGLIE DI [[Capulet\|CAPULETI]] | Quello stesso [[Villain\|farabutto]] di [[Romeo]]. |
+| [[Juliet\|GIULIETTA]] | (a parte)<br>[[Villain\|Farabutto]] e lui distano molte miglia.<br>(Alla madre) Dio lo perdoni—io lo perdono, con tutto il<br>cuore,<br>eppure nessun uomo come lui affligge il mio cuore. |
+| LA MOGLIE DI [[Capulet\|CAPULETI]] | Questo perché il traditore assassino è vivo. |
+| [[Juliet\|GIULIETTA]] | Sì, signora, fuori dalla portata di queste mie mani.<br>Vorrei che nessuno tranne me vendicasse la [[Death\|morte]] di mio cugino. |
+| LA MOGLIE DI [[Capulet\|CAPULETI]] | Ne avremo vendetta, non [[Fear\|temere]].<br>Dunque non piangere più. Manderò a uno a Mantova,<br>dove vive quel bandito fuggiasco,<br>che gli darà una tal dose insolita<br>che presto terrà compagnia a [[Tybalt\|Tebaldo]];<br>e allora [[Hope\|spero]] che sarai soddisfatta. |
+| [[Juliet\|GIULIETTA]] | In verità, non sarò mai soddisfatta<br>di [[Romeo]] finché non lo vedrò—morto—<br>tanto è tormentato il mio povero cuore per un congiunto.<br>Signora, se poteste trovare un uomo<br>che portasse un [[Poison\|veleno]], io lo tempererei<br>sì che [[Romeo]], al riceverlo,<br>presto [[Sleep\|dormirebbe]] in pace. Oh, come il mio cuore aborre<br>l’udirlo nominare e non poter andare da lui<br>a sfogare l’[[Love\|amore]] che portavo a mio cugino<br>sul [[Body\|corpo]] di colui che l’ha ucciso! |
+| LA MOGLIE DI [[Capulet\|CAPULETI]] | Trova tu il mezzo, e io troverò l’uomo.<br>Ma ora ti dirò liete notizie, ragazza. |
+| [[Juliet\|GIULIETTA]] | E la gioia giunge [[Well\|bene]] in un [[Time\|momento]] così bisognoso.<br>Quali sono, ne prego vostra signoria? |
+| LA MOGLIE DI [[Capulet\|CAPULETI]] | [[Well\|Ebbene]], [[Well\|bene]], hai un padre premuroso, [[Child\|figlia]];<br>uno che, per trarti dalla tua mestizia,<br>ha stabilito un improvviso giorno di gioia<br>che tu non t’aspetti, né io attendevo. |
+| [[Juliet\|GIULIETTA]] | Signora, in buon [[Time\|punto]]. Che giorno è? |
+| LA MOGLIE DI [[Capulet\|CAPULETI]] | Perbacco, [[Child\|figlia]] mia, [[thursday\|giovedì]] prossimo di primo mattino<br>il galante, giovane e nobile gentiluomo,<br>il conte [[Paris\|Paride]], nella chiesa di San Pietro<br>ti farà là felicemente lieta sposa. |
+| [[Juliet\|GIULIETTA]] | Ora, per la chiesa di San Pietro, e per Pietro pure,<br>non mi farà là lieta sposa.<br>Mi [[Wonder\|stupisco]] di questa fretta, che debba sposarmi<br>prima che colui che dovrebbe essere marito venga a corteggiarmi.<br>Vi prego, dite al mio signore e padre, signora,<br>che non voglio ancora sposarmi; e quando lo farò, lo giuro,<br>sarà [[Romeo]]—che sapete quanto io odi—<br>piuttosto che [[Paris\|Paride]]. Queste sì che son notizie. |
+| *(didascalia)* | Entrano [[Capulet\|Capuleti]] e la [[Nurse\|Nutrice]] |
+| LA MOGLIE DI [[Capulet\|CAPULETI]] | Ecco che viene vostro padre. Diteglielo voi stessa,<br>e vedete come lo prenderà dalle vostre mani. |
+| [[Capulet\|CAPULETI]] | Quando il sole tramonta, la terra stilla rugiada,<br>ma per il tramonto del figlio di mio fratello<br>piove a dirotto.<br>Come, una fontana, ragazza? Come, ancora in [[Tears\|lacrime]]?<br>Sempre a rovesciare acquazzoni? In un solo piccolo [[Body\|corpo]]<br>tu contraffai una barca, un mare, un [[Wind\|vento]],<br>ché i tuoi occhi—che posso chiamare il mare—<br>fluiscono e rifluiscono di [[Tears\|lacrime]]. La barca è il tuo [[Body\|corpo]],<br>che naviga in questa salsa piena; i venti i tuoi sospiri,<br>i quali, infuriando con le tue [[Tears\|lacrime]] e queste con essi,<br>senza un’improvvisa bonaccia rovesceranno<br>il tuo [[Body\|corpo]] sbattuto dalla tempesta.—Come va, moglie?<br>Le avete comunicato il nostro decreto? |
+| LA MOGLIE DI [[Capulet\|CAPULETI]] | Sì, signore, ma lei non ne vuol sapere, e vi ringrazia.<br>Vorrei che la [[Fool\|sciocca]] fosse sposata alla sua [[Grave\|fossa]]. |
+| [[Capulet\|CAPULETI]] | Piano, spiegatevi, spiegatevi, moglie.<br>Come, non ne vuol sapere? Non ci ringrazia?<br>Non è orgogliosa? Non si stima benedetta,<br>indegna com’è, che noi abbiamo procurato<br>un così degno gentiluomo per suo sposo? |
+| [[Juliet\|GIULIETTA]] | Non orgogliosa di quel che avete fatto, ma grata che l’abbiate fatto.<br>Orgogliosa non potrò mai essere di ciò che odio,<br>ma grata anche dell’odio che è inteso come [[Love\|amore]]. |
+| [[Capulet\|CAPULETI]] | Come, come, come, come—[[logic\|sofismi]]? Che roba è questa?<br>‘Orgogliosa’, e ‘vi ringrazio’, e ‘non vi ringrazio’,<br>e tuttavia ‘non orgogliosa’? Madamigella smorfiosa,<br>non ringraziatemi di ringraziamenti, né inorgoglitemi d’orgogli,<br>ma preparate le vostre belle giunture per [[thursday\|giovedì]] prossimo<br>per andare con [[Paris\|Paride]] alla chiesa di San Pietro,<br>o ti ci trascinerò su una graticola.<br>Via, carogna clorotica! Via, fraschetta,<br>faccia di sego! |
+| LA MOGLIE DI [[Capulet\|CAPULETI]] | Vergogna, vergogna, ma siete impazzito? |
+| [[Juliet\|GIULIETTA]] | (inginocchiandosi)<br>Buon padre, vi supplico in ginocchio,<br>ascoltatemi con pazienza il tempo d’una parola. |
+| [[Capulet\|CAPULETI]] | Ti s’impicchi, giovane fraschetta, sciagurata disobbediente!<br>Ti dico una cosa: va’ in chiesa [[thursday\|giovedì]],<br>o non guardarmi mai più in faccia.<br>Non parlare, non replicare, non rispondermi. |
+| *(didascalia)* | [[Juliet\|Giulietta]] si alza |
+| [[Capulet\|CAPULETI]] | Mi prudono le dita. Moglie, ci stimavamo appena benedetti<br>che Dio ci avesse concesso questa sola [[Child\|figlia]],<br>ma ora vedo che questa è già una di troppo,<br>e che nell’averla abbiamo una maledizione.<br>Via lei, buona a nulla! |
+| [[Nurse\|NUTRICE]] | Dio in cielo la benedica!<br>Avete torto, mio signore, a strapazzarla così. |
+| [[Capulet\|CAPULETI]] | E perché, madonna Sapienza? Tenete a freno la lingua,<br>buona Prudenza. Andate a cianciare con le vostre comari! |
+| [[Nurse\|NUTRICE]] | Non dico tradimenti. |
+| *(didascalia)* | [[Capulet\|CAPULETI]] Oh, e buonasera a voi! |
+| *(didascalia)* | [[Nurse\|NUTRICE]] |
+| [[Nurse\|NUTRICE]] | Non si può parlare? |
+| [[Capulet\|CAPULETI]] | Zitta, borbottona [[Fool\|sciocca]],<br>sfoggiate la vostra gravità sulla scodella d’una comare,<br>ché qui non ce n’è bisogno. |
+| LA MOGLIE DI [[Capulet\|CAPULETI]] | Siete troppo acceso. |
+| [[Capulet\|CAPULETI]] | Pane di Dio, mi fa impazzire. Giorno, [[Night\|notte]]; lavoro, svago;<br>[[Alone\|Solo]], in compagnia, la mia cura è sempre stata<br>di trovarle marito; e ora che le ho provveduto<br>un gentiluomo di nobile parentela,<br>di belle terre, giovane e di nobile stirpe,<br>fornito, come si dice, d’onorevoli qualità,<br>proporzionato come il pensiero desidererebbe un uomo—<br>e poi dover avere una miserabile piagnucolosa [[Fool\|sciocca]],<br>una bambola lamentosa, all’offerta della sua fortuna,<br>che risponde ‘Non voglio sposarmi, non posso [[Love\|amare]];<br>sono troppo giovane, vi prego perdonatemi’!<br>Ma se non volete sposarvi, io vi perdonerò!<br>Pascolate dove volete, non abiterete in [[house\|casa]] con me.<br>Badateci, pensateci. Non sono solito scherzare.<br>[[thursday\|Giovedì]] è vicino. Mettetevi la mano sul cuore. Riflettete.<br>Se siete mia, vi darò al mio amico.<br>Se non lo siete, impiccatevi, mendicate, patite la fame, morite per le strade,<br>ché, per l’[[Soul\|anima]] mia, non vi riconoscerò mai,<br>né ciò che è mio vi gioverà mai.<br>Contateci. Riflettete. Non mancherò al mio giuramento. Esce |
+| [[Juliet\|GIULIETTA]] | Non c’è pietà seduta tra le nubi<br>che veda in [[Bottom\|fondo]] al mio dolore?<br>O dolce madre mia, non mi scacciate!<br>Rimandate questo [[Marriage\|matrimonio]] d’un mese, d’una settimana;<br>o se non lo fate, fate il letto nuziale<br>in quel buio monumento dove giace [[Tybalt\|Tebaldo]]. |
+| LA MOGLIE DI [[Capulet\|CAPULETI]] | Non parlarmi, ché non dirò una parola.<br>Fa’ come ti pare, ché ho finito con te. Esce |
+| [[Juliet\|GIULIETTA]] | O Dio—o Nutrice, come si potrà impedire questo?<br>Mio marito è sulla terra, la mia [[Faith\|fede]] in cielo.<br>Come potrà quella [[Faith\|fede]] tornare in terra<br>se non me la rimanda quel marito dal cielo<br>lasciando la terra? Confortami, consigliami.<br>Ahimè, ahimè, che il cielo debba tramare stratagemmi<br>contro un soggetto così tenero come me!<br>Che dici? Non hai una parola di gioia?<br>Un po’ di conforto, [[Nurse\|Nutrice]]. |
+| [[Nurse\|NUTRICE]] | [[Faith\|In fede]], eccola: [[Romeo]]<br>è bandito, e scommetto il mondo intero contro nulla<br>che non oserà mai tornare a reclamarvi,<br>o se lo farà, dovrà essere di nascosto.<br>Dunque, stando le cose come stanno ora,<br>credo sia meglio che sposiate il conte.<br>Oh, è un gentiluomo incantevole!<br>[[Romeo]] è uno straccio al confronto. Un’aquila, signora,<br>non ha occhio così vivo, così pronto, così bello<br>come l’ha [[Paris\|Paride]]. Maledetto sia il mio cuore,<br>credo che siate fortunata in questo secondo partito,<br>ché supera il primo; o se anche non fosse,<br>il vostro primo è morto, o tanto varrebbe che lo fosse<br>vivendo lontano di qui e voi senza poterne godere. |
+| [[Juliet\|GIULIETTA]] | Parli dal cuore? |
+| [[Nurse\|NUTRICE]] | E anche dall’[[Soul\|anima]], altrimenti maledette entrambe. |
+| [[Juliet\|GIULIETTA]] | Amen. |
+| [[Nurse\|NUTRICE]] | Che cosa? |
+| [[Juliet\|GIULIETTA]] | [[Well\|Ebbene]], mi hai confortata straordinariamente.<br>Rientra; e di’ a mia madre che sono andata,<br>avendo scontentato mio padre, alla cella di Lorenzo<br>per confessarmi e ricevere l’assoluzione. |
 | *(didascalia)* | Perbacco, lo farò; e questo è agire saggiamente. Esce |
-| [[Juliet|GIULIETTA]] | (guardandola andar via)<br>Vecchia dannazione! O demonio malvagio!<br>È maggior peccato desiderarmi così spergiura,<br>o denigrare il mio signore con quella stessa lingua<br>con cui l’ha lodato oltre ogni paragone<br>tante migliaia di volte? Va’, consigliera!<br>Tu e il mio petto d’ora innanzi sarete divisi.<br>Andrò dal frate, a conoscere il suo rimedio.<br>Se tutto il resto fallisce, ho io stessa il potere di morire. Esce |
+| [[Juliet\|GIULIETTA]] | (guardandola andar via)<br>Vecchia dannazione! O demonio malvagio!<br>È maggior peccato desiderarmi così spergiura,<br>o denigrare il mio signore con quella stessa lingua<br>con cui l’ha lodato oltre ogni paragone<br>tante migliaia di volte? Va’, consigliera!<br>Tu e il mio petto d’ora innanzi sarete divisi.<br>Andrò dal frate, a conoscere il suo rimedio.<br>Se tutto il resto fallisce, ho io stessa il potere di morire. Esce |
 
 
 
@@ -3101,43 +3101,43 @@ Exit
 
 | Chi parla | Battuta |
 |---|---|
-| *(didascalia)* | Entrano [[Friar Laurence|Frate Lorenzo]] e [[Paris|Paride]] |
-| [[Friar Laurence|FRATE LORENZO]] | Di [[thursday|giovedì]], signore? Il [[Time|tempo]] è molto breve. |
-| [[Paris|PARIDE]] | Mio padre [[Capulet|Capuleti]] così vuole,<br>e io non son certo lento a rallentare la sua fretta. |
-| [[Friar Laurence|FRATE LORENZO]] | Dite di non conoscere l’animo della dama?<br>Il corso è irregolare. Non mi piace. |
-| [[Paris|PARIDE]] | Smisuratamente ella piange la [[Death|morte]] di [[Tybalt|Tebaldo]],<br>e perciò ho parlato poco d’[[Love|amore]],<br>ché [[Venus|Venere]] non sorride in una [[house|casa]] di [[Tears|lacrime]].<br>Ora, signore, suo padre giudica pericoloso<br>che ella dia al proprio dolore tanto potere,<br>e nella sua saggezza affretta il nostro [[Marriage|matrimonio]]<br>per fermare l’inondazione delle sue [[Tears|lacrime]],<br>che, troppo rimuginata da lei [[Alone|sola]],<br>può esserle tolta dalla compagnia.<br>Ora conoscete la ragione di questa fretta. |
-| [[Friar Laurence|FRATE LORENZO]] | (a parte)<br>Vorrei non sapere perché dovrebbe esser rallentato.— |
-| *(didascalia)* | Entra [[Juliet|Giulietta]] |
-| [[Friar Laurence|FRATE LORENZO]] | Guardate, signore, ecco la dama che viene verso la mia cella. |
-| [[Paris|PARIDE]] | Lieto incontro, mia signora e mia sposa. |
-| [[Juliet|GIULIETTA]] | Ciò potrà essere, signore, quando potrò essere sposa. |
-| [[Paris|PARIDE]] | Quel ‘potrà essere’ dev’essere, [[Love|amore]], [[thursday|giovedì]] prossimo. |
-| [[Juliet|GIULIETTA]] | Ciò che dev’essere sarà. |
-| [[Friar Laurence|FRATE LORENZO]] | Questo è un testo certo. |
-| [[Paris|PARIDE]] | Venite a confessarvi da questo padre? |
-| [[Juliet|GIULIETTA]] | Per rispondervi, dovrei confessarmi a voi. |
-| [[Paris|PARIDE]] | Non negategli che mi [[Love|amate]]. |
-| [[Juliet|GIULIETTA]] | Confesserò a voi che [[Love|amo]] lui. |
-| [[Paris|PARIDE]] | Così farete, ne son certo, dicendo che [[Love|amate]] me. |
-| [[Juliet|GIULIETTA]] | Se lo farò, avrà più valore<br>detto alle vostre spalle che in faccia a voi. |
-| [[Paris|PARIDE]] | Povera [[Soul|anima]], il tuo viso è molto sciupato dalle [[Tears|lacrime]]. |
-| [[Juliet|GIULIETTA]] | Le [[Tears|lacrime]] ne hanno riportato piccola vittoria,<br>ché era già abbastanza brutto prima del loro dispetto. |
-| [[Paris|PARIDE]] | Gli fai più torto delle [[Tears|lacrime]] con questo giudizio. |
-| [[Juliet|GIULIETTA]] | Non è calunnia, signore, ciò che è [[Truth|verità]],<br>e quel che ho detto, l’ho detto in faccia a me stessa. |
-| [[Paris|PARIDE]] | Il tuo viso è mio, e tu l’hai calunniato. |
-| [[Juliet|GIULIETTA]] | Può darsi, ché non è mio.—<br>Avete tempo ora, santo padre,<br>o devo venire da voi alla messa vespertina? |
-| [[Friar Laurence|FRATE LORENZO]] | Il mio agio mi serve ora, figlia pensosa.<br>Mio signore, dobbiamo chiedere il [[Time|tempo]] per noi [[Alone|soli]]. |
-| [[Paris|PARIDE]] | Dio non voglia ch’io disturbi la devozione!—<br>[[Juliet|Giulietta]], [[thursday|giovedì]] di buon’ora verrò a destarvi.<br>(Baciandola) Fino allora, addio, e serbate questo santo bacio. |
+| *(didascalia)* | Entrano [[Friar Laurence\|Frate Lorenzo]] e [[Paris\|Paride]] |
+| [[Friar Laurence\|FRATE LORENZO]] | Di [[thursday\|giovedì]], signore? Il [[Time\|tempo]] è molto breve. |
+| [[Paris\|PARIDE]] | Mio padre [[Capulet\|Capuleti]] così vuole,<br>e io non son certo lento a rallentare la sua fretta. |
+| [[Friar Laurence\|FRATE LORENZO]] | Dite di non conoscere l’animo della dama?<br>Il corso è irregolare. Non mi piace. |
+| [[Paris\|PARIDE]] | Smisuratamente ella piange la [[Death\|morte]] di [[Tybalt\|Tebaldo]],<br>e perciò ho parlato poco d’[[Love\|amore]],<br>ché [[Venus\|Venere]] non sorride in una [[house\|casa]] di [[Tears\|lacrime]].<br>Ora, signore, suo padre giudica pericoloso<br>che ella dia al proprio dolore tanto potere,<br>e nella sua saggezza affretta il nostro [[Marriage\|matrimonio]]<br>per fermare l’inondazione delle sue [[Tears\|lacrime]],<br>che, troppo rimuginata da lei [[Alone\|sola]],<br>può esserle tolta dalla compagnia.<br>Ora conoscete la ragione di questa fretta. |
+| [[Friar Laurence\|FRATE LORENZO]] | (a parte)<br>Vorrei non sapere perché dovrebbe esser rallentato.— |
+| *(didascalia)* | Entra [[Juliet\|Giulietta]] |
+| [[Friar Laurence\|FRATE LORENZO]] | Guardate, signore, ecco la dama che viene verso la mia cella. |
+| [[Paris\|PARIDE]] | Lieto incontro, mia signora e mia sposa. |
+| [[Juliet\|GIULIETTA]] | Ciò potrà essere, signore, quando potrò essere sposa. |
+| [[Paris\|PARIDE]] | Quel ‘potrà essere’ dev’essere, [[Love\|amore]], [[thursday\|giovedì]] prossimo. |
+| [[Juliet\|GIULIETTA]] | Ciò che dev’essere sarà. |
+| [[Friar Laurence\|FRATE LORENZO]] | Questo è un testo certo. |
+| [[Paris\|PARIDE]] | Venite a confessarvi da questo padre? |
+| [[Juliet\|GIULIETTA]] | Per rispondervi, dovrei confessarmi a voi. |
+| [[Paris\|PARIDE]] | Non negategli che mi [[Love\|amate]]. |
+| [[Juliet\|GIULIETTA]] | Confesserò a voi che [[Love\|amo]] lui. |
+| [[Paris\|PARIDE]] | Così farete, ne son certo, dicendo che [[Love\|amate]] me. |
+| [[Juliet\|GIULIETTA]] | Se lo farò, avrà più valore<br>detto alle vostre spalle che in faccia a voi. |
+| [[Paris\|PARIDE]] | Povera [[Soul\|anima]], il tuo viso è molto sciupato dalle [[Tears\|lacrime]]. |
+| [[Juliet\|GIULIETTA]] | Le [[Tears\|lacrime]] ne hanno riportato piccola vittoria,<br>ché era già abbastanza brutto prima del loro dispetto. |
+| [[Paris\|PARIDE]] | Gli fai più torto delle [[Tears\|lacrime]] con questo giudizio. |
+| [[Juliet\|GIULIETTA]] | Non è calunnia, signore, ciò che è [[Truth\|verità]],<br>e quel che ho detto, l’ho detto in faccia a me stessa. |
+| [[Paris\|PARIDE]] | Il tuo viso è mio, e tu l’hai calunniato. |
+| [[Juliet\|GIULIETTA]] | Può darsi, ché non è mio.—<br>Avete tempo ora, santo padre,<br>o devo venire da voi alla messa vespertina? |
+| [[Friar Laurence\|FRATE LORENZO]] | Il mio agio mi serve ora, figlia pensosa.<br>Mio signore, dobbiamo chiedere il [[Time\|tempo]] per noi [[Alone\|soli]]. |
+| [[Paris\|PARIDE]] | Dio non voglia ch’io disturbi la devozione!—<br>[[Juliet\|Giulietta]], [[thursday\|giovedì]] di buon’ora verrò a destarvi.<br>(Baciandola) Fino allora, addio, e serbate questo santo bacio. |
 | *(didascalia)* | Esce |
-| [[Juliet|GIULIETTA]] | Oh, chiudi la porta, e quando l’avrai fatto,<br>vieni a piangere con me, oltre ogni [[Hope|speranza]], oltre ogni cura, oltre ogni aiuto! |
-| [[Friar Laurence|FRATE LORENZO]] | O [[Juliet|Giulietta]], già conosco il tuo dolore.<br>Mi tende oltre il compasso del mio ingegno.<br>Odo che devi, e nulla può differirlo,<br>[[thursday|giovedì]] prossimo sposare questo conte. |
-| [[Juliet|GIULIETTA]] | Non dirmi, frate, che di ciò hai udito,<br>se non mi dici come posso impedirlo.<br>Se nella tua saggezza non sai darmi aiuto,<br>chiama almeno saggia la mia risoluzione,<br>Estrae un coltello<br>e con questo coltello vi porrò subito rimedio.<br>Dio congiunse il mio cuore e quello di [[Romeo]], tu le nostre mani,<br>e prima che questa mano, da te suggellata a quella di [[Romeo]],<br>sia il sigillo d’un altro atto,<br>o il mio cuore fedele con perfida rivolta<br>si volga a un altro, questo li ucciderà entrambi.<br>Perciò, dal tuo [[Time|tempo]] di lunga esperienza,<br>dammi qualche consiglio immediato; o, guarda,<br>fra i miei estremi e me questo coltello insanguinato<br>farà da arbitro, decidendo ciò<br>che l’autorità dei tuoi anni e della tua arte<br>non ha saputo condurre a nessun esito di vero [[Honour|onore]].<br>Non tardare tanto a parlare. Ho brama di morire<br>se ciò che dici non parla di rimedio. |
-| [[Friar Laurence|FRATE LORENZO]] | Ferma, figlia. Intravedo una specie di [[Hope|speranza]]<br>che richiede un’esecuzione tanto disperata<br>quanto è disperato ciò che vorremmo impedire.<br>Se, piuttosto che sposare il conte [[Paris|Paride]],<br>hai la forza di volontà d’ucciderti,<br>allora è probabile che intraprenderai<br>una cosa simile alla [[Death|morte]] per scacciare questa vergogna,<br>tu che affronti la [[Death|morte]] stessa per sfuggirle;<br>e, se hai coraggio, ti darò il rimedio. |
-| [[Juliet|GIULIETTA]] | Oh, dimmi di saltare, piuttosto che sposare [[Paris|Paride]],<br>giù dai merli d’una torre qualunque,<br>o di camminare per vie di ladri, o dimmi d’appiattarmi<br>dove sono serpenti. Incatenami con orsi ruggenti,<br>o nascondimi ogni notte in un [[house|ossario]],<br>tutta ricoperta d’ossa scricchiolanti di morti,<br>con stinchi fetidi e teschi gialli e senza mascella;<br>o dimmi d’entrare in una [[Grave|fossa]] appena scavata<br>e di nascondermi con un morto nella sua tomba—<br>cose che, solo a sentirle raccontare, m’hanno fatto<br>tremare—<br>e lo farò senza [[Fear|paura]] né [[Doubt|dubbio]],<br>per vivere sposa immacolata al mio dolce [[Love|amore]]. |
-| [[Friar Laurence|FRATE LORENZO]] | Ferma, dunque; va’ a [[Home|casa]], sii allegra, dai il consenso<br>a sposare [[Paris|Paride]]. Mercoledì è domani.<br>Domani [[Night|notte]] bada di giacere [[Alone|sola]].<br>Non lasciare che la [[Nurse|Nutrice]] dorma con te in camera.<br>Prendi questa fiala, e quando sarai a letto<br>bevi tutto questo liquore distillato,<br>ché subito per tutte le tue vene correrà<br>un [[Humour|umore]] freddo e sonnolento; ché nessun polso<br>manterrà il suo corso naturale, ma cesserà.<br>Nessun calore, nessun respiro attesterà che vivi.<br>Le rose delle tue labbra e delle tue guance sbiadiranno<br>in cenere pallida, le finestre dei tuoi occhi cadranno<br>come la [[Death|morte]] quando chiude il giorno della vita.<br>Ogni parte, privata del flessibile [[government|governo]],<br>apparirà, rigida e stecchita e fredda, come la [[Death|morte]];<br>e in questa presa sembianza di [[Death|morte]] contratta<br>rimarrai quarantadue ore,<br>e poi ti desterai come da un piacevole [[Sleep|sonno]].<br>Ora, quando lo sposo verrà al mattino<br>a destarti dal letto, tu sarai là morta.<br>Allora, secondo l’usanza del nostro paese,<br>nelle tue vesti migliori, scoperta sulla bara,<br>sarai portata a quella stessa antica cripta<br>dove giace tutta la parentela dei Capuleti.<br>Nel frattempo, prima che tu ti desti,<br>[[Romeo]] saprà per mie lettere il nostro disegno,<br>e qua egli verrà, ed egli e io<br>veglieremo il tuo risveglio, e quella stessa [[Night|notte]]<br>[[Romeo]] ti porterà via di qui a Mantova.<br>E questo ti libererà da questa presente vergogna,<br>se nessun incostante capriccio né femminea [[Fear|paura]]<br>fiaccherà il tuo valore nel compierlo. |
-| [[Juliet|GIULIETTA]] | Dammela, dammela! Oh, non parlarmi di [[Fear|paura]]! |
-| [[Friar Laurence|FRATE LORENZO]] | (dandole la fiala)<br>Ecco, va’ pure. Sii forte e felice<br>in questa risoluzione. Manderò un frate in [[Speed|fretta]]<br>a Mantova con le mie lettere al tuo signore. |
-| [[Juliet|GIULIETTA]] | [[Love|Amore]] mi dia forza, e la forza mi porterà aiuto.<br>Addio, caro padre. Escono [da parti opposte] |
+| [[Juliet\|GIULIETTA]] | Oh, chiudi la porta, e quando l’avrai fatto,<br>vieni a piangere con me, oltre ogni [[Hope\|speranza]], oltre ogni cura, oltre ogni aiuto! |
+| [[Friar Laurence\|FRATE LORENZO]] | O [[Juliet\|Giulietta]], già conosco il tuo dolore.<br>Mi tende oltre il compasso del mio ingegno.<br>Odo che devi, e nulla può differirlo,<br>[[thursday\|giovedì]] prossimo sposare questo conte. |
+| [[Juliet\|GIULIETTA]] | Non dirmi, frate, che di ciò hai udito,<br>se non mi dici come posso impedirlo.<br>Se nella tua saggezza non sai darmi aiuto,<br>chiama almeno saggia la mia risoluzione,<br>Estrae un coltello<br>e con questo coltello vi porrò subito rimedio.<br>Dio congiunse il mio cuore e quello di [[Romeo]], tu le nostre mani,<br>e prima che questa mano, da te suggellata a quella di [[Romeo]],<br>sia il sigillo d’un altro atto,<br>o il mio cuore fedele con perfida rivolta<br>si volga a un altro, questo li ucciderà entrambi.<br>Perciò, dal tuo [[Time\|tempo]] di lunga esperienza,<br>dammi qualche consiglio immediato; o, guarda,<br>fra i miei estremi e me questo coltello insanguinato<br>farà da arbitro, decidendo ciò<br>che l’autorità dei tuoi anni e della tua arte<br>non ha saputo condurre a nessun esito di vero [[Honour\|onore]].<br>Non tardare tanto a parlare. Ho brama di morire<br>se ciò che dici non parla di rimedio. |
+| [[Friar Laurence\|FRATE LORENZO]] | Ferma, figlia. Intravedo una specie di [[Hope\|speranza]]<br>che richiede un’esecuzione tanto disperata<br>quanto è disperato ciò che vorremmo impedire.<br>Se, piuttosto che sposare il conte [[Paris\|Paride]],<br>hai la forza di volontà d’ucciderti,<br>allora è probabile che intraprenderai<br>una cosa simile alla [[Death\|morte]] per scacciare questa vergogna,<br>tu che affronti la [[Death\|morte]] stessa per sfuggirle;<br>e, se hai coraggio, ti darò il rimedio. |
+| [[Juliet\|GIULIETTA]] | Oh, dimmi di saltare, piuttosto che sposare [[Paris\|Paride]],<br>giù dai merli d’una torre qualunque,<br>o di camminare per vie di ladri, o dimmi d’appiattarmi<br>dove sono serpenti. Incatenami con orsi ruggenti,<br>o nascondimi ogni notte in un [[house\|ossario]],<br>tutta ricoperta d’ossa scricchiolanti di morti,<br>con stinchi fetidi e teschi gialli e senza mascella;<br>o dimmi d’entrare in una [[Grave\|fossa]] appena scavata<br>e di nascondermi con un morto nella sua tomba—<br>cose che, solo a sentirle raccontare, m’hanno fatto<br>tremare—<br>e lo farò senza [[Fear\|paura]] né [[Doubt\|dubbio]],<br>per vivere sposa immacolata al mio dolce [[Love\|amore]]. |
+| [[Friar Laurence\|FRATE LORENZO]] | Ferma, dunque; va’ a [[Home\|casa]], sii allegra, dai il consenso<br>a sposare [[Paris\|Paride]]. Mercoledì è domani.<br>Domani [[Night\|notte]] bada di giacere [[Alone\|sola]].<br>Non lasciare che la [[Nurse\|Nutrice]] dorma con te in camera.<br>Prendi questa fiala, e quando sarai a letto<br>bevi tutto questo liquore distillato,<br>ché subito per tutte le tue vene correrà<br>un [[Humour\|umore]] freddo e sonnolento; ché nessun polso<br>manterrà il suo corso naturale, ma cesserà.<br>Nessun calore, nessun respiro attesterà che vivi.<br>Le rose delle tue labbra e delle tue guance sbiadiranno<br>in cenere pallida, le finestre dei tuoi occhi cadranno<br>come la [[Death\|morte]] quando chiude il giorno della vita.<br>Ogni parte, privata del flessibile [[government\|governo]],<br>apparirà, rigida e stecchita e fredda, come la [[Death\|morte]];<br>e in questa presa sembianza di [[Death\|morte]] contratta<br>rimarrai quarantadue ore,<br>e poi ti desterai come da un piacevole [[Sleep\|sonno]].<br>Ora, quando lo sposo verrà al mattino<br>a destarti dal letto, tu sarai là morta.<br>Allora, secondo l’usanza del nostro paese,<br>nelle tue vesti migliori, scoperta sulla bara,<br>sarai portata a quella stessa antica cripta<br>dove giace tutta la parentela dei Capuleti.<br>Nel frattempo, prima che tu ti desti,<br>[[Romeo]] saprà per mie lettere il nostro disegno,<br>e qua egli verrà, ed egli e io<br>veglieremo il tuo risveglio, e quella stessa [[Night\|notte]]<br>[[Romeo]] ti porterà via di qui a Mantova.<br>E questo ti libererà da questa presente vergogna,<br>se nessun incostante capriccio né femminea [[Fear\|paura]]<br>fiaccherà il tuo valore nel compierlo. |
+| [[Juliet\|GIULIETTA]] | Dammela, dammela! Oh, non parlarmi di [[Fear\|paura]]! |
+| [[Friar Laurence\|FRATE LORENZO]] | (dandole la fiala)<br>Ecco, va’ pure. Sii forte e felice<br>in questa risoluzione. Manderò un frate in [[Speed\|fretta]]<br>a Mantova con le mie lettere al tuo signore. |
+| [[Juliet\|GIULIETTA]] | [[Love\|Amore]] mi dia forza, e la forza mi porterà aiuto.<br>Addio, caro padre. Escono [da parti opposte] |
 
 
 
@@ -3180,33 +3180,33 @@ Exit
 
 | Chi parla | Battuta |
 |---|---|
-| *(didascalia)* | Entrano [[Capulet|Capuleti]], sua moglie, la [[Nurse|Nutrice]] e due servi |
-| [[Capulet|CAPULETI]] | (dando a un servo un foglio)<br>Invita tanti ospiti quanti ne sono qui scritti. |
+| *(didascalia)* | Entrano [[Capulet\|Capuleti]], sua moglie, la [[Nurse\|Nutrice]] e due servi |
+| [[Capulet\|CAPULETI]] | (dando a un servo un foglio)<br>Invita tanti ospiti quanti ne sono qui scritti. |
 | *(didascalia)* | Esce il servo |
-| [[Capulet|CAPULETI]] | (All’altro servo) Messere, va’ a scritturarmi venti<br>abili cuochi. |
+| [[Capulet\|CAPULETI]] | (All’altro servo) Messere, va’ a scritturarmi venti<br>abili cuochi. |
 | SERVO | Non ne avrete di cattivi, signore, ché proverò se sanno leccarsi le dita. |
-| [[Capulet|CAPULETI]] | Come puoi provarli così? |
+| [[Capulet\|CAPULETI]] | Come puoi provarli così? |
 | SERVO | Perbacco, signore, è cattivo cuoco quello che non sa leccarsi le proprie dita, perciò chi non sa leccarsi le dita non viene con me. |
-| *(didascalia)* | [[Capulet|CAPULETI]] Va’, vattene. Esce il servo |
-| SERVO | Saremo assai sforniti per questa [[Time|volta]].<br>(Alla [[Nurse|Nutrice]]) Come, mia figlia è andata da Frate<br>Lorenzo? |
-| [[Nurse|NUTRICE]] | Sì, davvero. |
-| [[Capulet|CAPULETI]] | [[Well|Ebbene]], forse riuscirà a farle un po’ di bene.<br>È una sgualdrinella bisbetica e [[Self|caparbia]]. |
-| *(didascalia)* | Entra [[Juliet|Giulietta]] |
-| [[Nurse|NUTRICE]] | Guardate dove viene dalla confessione con volto allegro. |
-| [[Capulet|CAPULETI]] | (a [[Juliet|Giulietta]])<br>Ebbene, mia testarda, dove siete stata a gironzolare? |
-| [[Juliet|GIULIETTA]] | Dove ho imparato a pentirmi del peccato<br>di disobbediente opposizione<br>a voi e ai vostri comandi, e mi è ingiunto<br>dal santo Lorenzo di prostrarmi qui<br>a implorare il vostro perdono. (Inginocchiandosi) Perdono, ve ne supplico.<br>D’ora innanzi sarò sempre guidata da voi. |
-| *(didascalia)* | [[Capulet|CAPULETI]] alla [[Nurse|Nutrice]] |
-| [[Juliet|GIULIETTA]] | Mandate a chiamare il conte; andate a dirgli questo.<br>Voglio che questo nodo sia stretto domani mattina. |
-| [[Juliet|GIULIETTA]] | Ho incontrato il giovane signore alla cella di Lorenzo,<br>e gli ho dato quell’[[Love|amore]] che si conveniva,<br>senza oltrepassare i confini della modestia. |
-| [[Capulet|CAPULETI]] | Ma sì, ne sono contento. Questo va [[Well|bene]]. Alzatevi.<br>[[Juliet|Giulietta]] si alza<br>Così dev’essere. Che io veda il conte. |
-| *(didascalia)* | Alla [[Nurse|Nutrice]] Sì, perbacco, andate, dico, e conducetelo qui. |
-| [[Capulet|CAPULETI]] | Ora, davanti a Dio, questo reverendo santo frate,<br>tutta la nostra [[City|città]] gli è molto obbligata. |
-| [[Juliet|GIULIETTA]] | [[Nurse|Nutrice]], volete venire con me nel mio stanzino<br>ad aiutarmi a scegliere quegli ornamenti necessari<br>che riterrete adatti a vestirmi domani? |
-| LA MOGLIE DI [[Capulet|CAPULETI]] | No, non prima di [[thursday|giovedì]]. C’è [[Time|tempo]] abbastanza. |
-| [[Capulet|CAPULETI]] | Va’, [[Nurse|Nutrice]], va’ con lei. Domani andremo in chiesa. |
-| *(didascalia)* | Escono [[Juliet|Giulietta]] e la [[Nurse|Nutrice]] |
-| LA MOGLIE DI [[Capulet|CAPULETI]] | Saremo scarsi nei preparativi.<br>Ormai è quasi [[Night|notte]]. |
-| [[Capulet|CAPULETI]] | Suvvia, mi darò da fare,<br>e ogni cosa andrà [[Well|bene]], te lo garantisco, moglie.<br>Va’ tu da [[Juliet|Giulietta]], aiuta ad agghindarla.<br>Non andrò a letto stanotte. Lasciami [[Alone|solo]].<br>Farò io da massaia per questa volta. Ehi, olà!<br>Sono tutti usciti. [[Well|Ebbene]], andrò io stesso<br>dal conte [[Paris|Paride]] a prepararlo<br>per domani. Il mio cuore è meravigliosamente leggero,<br>ora che questa ragazza ribelle si è così ravveduta. |
+| *(didascalia)* | [[Capulet\|CAPULETI]] Va’, vattene. Esce il servo |
+| SERVO | Saremo assai sforniti per questa [[Time\|volta]].<br>(Alla [[Nurse\|Nutrice]]) Come, mia figlia è andata da Frate<br>Lorenzo? |
+| [[Nurse\|NUTRICE]] | Sì, davvero. |
+| [[Capulet\|CAPULETI]] | [[Well\|Ebbene]], forse riuscirà a farle un po’ di bene.<br>È una sgualdrinella bisbetica e [[Self\|caparbia]]. |
+| *(didascalia)* | Entra [[Juliet\|Giulietta]] |
+| [[Nurse\|NUTRICE]] | Guardate dove viene dalla confessione con volto allegro. |
+| [[Capulet\|CAPULETI]] | (a [[Juliet\|Giulietta]])<br>Ebbene, mia testarda, dove siete stata a gironzolare? |
+| [[Juliet\|GIULIETTA]] | Dove ho imparato a pentirmi del peccato<br>di disobbediente opposizione<br>a voi e ai vostri comandi, e mi è ingiunto<br>dal santo Lorenzo di prostrarmi qui<br>a implorare il vostro perdono. (Inginocchiandosi) Perdono, ve ne supplico.<br>D’ora innanzi sarò sempre guidata da voi. |
+| *(didascalia)* | [[Capulet\|CAPULETI]] alla [[Nurse\|Nutrice]] |
+| [[Juliet\|GIULIETTA]] | Mandate a chiamare il conte; andate a dirgli questo.<br>Voglio che questo nodo sia stretto domani mattina. |
+| [[Juliet\|GIULIETTA]] | Ho incontrato il giovane signore alla cella di Lorenzo,<br>e gli ho dato quell’[[Love\|amore]] che si conveniva,<br>senza oltrepassare i confini della modestia. |
+| [[Capulet\|CAPULETI]] | Ma sì, ne sono contento. Questo va [[Well\|bene]]. Alzatevi.<br>[[Juliet\|Giulietta]] si alza<br>Così dev’essere. Che io veda il conte. |
+| *(didascalia)* | Alla [[Nurse\|Nutrice]] Sì, perbacco, andate, dico, e conducetelo qui. |
+| [[Capulet\|CAPULETI]] | Ora, davanti a Dio, questo reverendo santo frate,<br>tutta la nostra [[City\|città]] gli è molto obbligata. |
+| [[Juliet\|GIULIETTA]] | [[Nurse\|Nutrice]], volete venire con me nel mio stanzino<br>ad aiutarmi a scegliere quegli ornamenti necessari<br>che riterrete adatti a vestirmi domani? |
+| LA MOGLIE DI [[Capulet\|CAPULETI]] | No, non prima di [[thursday\|giovedì]]. C’è [[Time\|tempo]] abbastanza. |
+| [[Capulet\|CAPULETI]] | Va’, [[Nurse\|Nutrice]], va’ con lei. Domani andremo in chiesa. |
+| *(didascalia)* | Escono [[Juliet\|Giulietta]] e la [[Nurse\|Nutrice]] |
+| LA MOGLIE DI [[Capulet\|CAPULETI]] | Saremo scarsi nei preparativi.<br>Ormai è quasi [[Night\|notte]]. |
+| [[Capulet\|CAPULETI]] | Suvvia, mi darò da fare,<br>e ogni cosa andrà [[Well\|bene]], te lo garantisco, moglie.<br>Va’ tu da [[Juliet\|Giulietta]], aiuta ad agghindarla.<br>Non andrò a letto stanotte. Lasciami [[Alone\|solo]].<br>Farò io da massaia per questa volta. Ehi, olà!<br>Sono tutti usciti. [[Well\|Ebbene]], andrò io stesso<br>dal conte [[Paris\|Paride]] a prepararlo<br>per domani. Il mio cuore è meravigliosamente leggero,<br>ora che questa ragazza ribelle si è così ravveduta. |
 | *(didascalia)* | Escono da parti opposte |
 
 
@@ -3233,16 +3233,16 @@ Exit
 
 | Chi parla | Battuta |
 |---|---|
-| *(didascalia)* | Entrano [[Juliet|Giulietta]] e la [[Nurse|Nutrice]] con abiti |
-| [[Juliet|GIULIETTA]] | Sì, quelle vesti sono le migliori. Ma, gentile [[Nurse|Nutrice]],<br>ti prego, lasciami sola con me stessa stanotte,<br>ché ho bisogno di molte preghiere<br>per muovere i cieli a sorridere alla mia condizione,<br>che—[[Well|bene]] tu lo sai—è [[Cross|contraria]] e piena di peccato. |
-| *(didascalia)* | Entra la moglie di [[Capulet|Capuleti]] |
-| LA MOGLIE DI [[Capulet|CAPULETI]] | Come, siete affaccendate, eh? Vi serve il mio aiuto? |
-| [[Juliet|GIULIETTA]] | No, signora, abbiamo scelto quanto occorre<br>ed è conveniente al nostro stato domani.<br>Se vi piace, lasciatemi ora [[Alone|sola]],<br>e la [[Nurse|Nutrice]] vegli questa [[Night|notte]] con voi,<br>ché son certa che avete le mani ben piene<br>in questa faccenda così improvvisa. |
-| LA MOGLIE DI [[Capulet|CAPULETI]] | Buona [[Night|notte]].<br>Va’ a letto e riposa, ché ne hai bisogno. |
-| *(didascalia)* | Escono la moglie di [[Capulet|Capuleti]] e la [[Nurse|Nutrice]] |
-| [[Juliet|GIULIETTA]] | Addio. Dio sa quando ci rivedremo.<br>Ho una fioca fredda [[Fear|paura]] che mi corre per le vene<br>e quasi congela il calore della vita.<br>Le richiamerò indietro a confortarmi.<br>[[Nurse|Nutrice]]!—Che dovrebbe fare qui? |
+| *(didascalia)* | Entrano [[Juliet\|Giulietta]] e la [[Nurse\|Nutrice]] con abiti |
+| [[Juliet\|GIULIETTA]] | Sì, quelle vesti sono le migliori. Ma, gentile [[Nurse\|Nutrice]],<br>ti prego, lasciami sola con me stessa stanotte,<br>ché ho bisogno di molte preghiere<br>per muovere i cieli a sorridere alla mia condizione,<br>che—[[Well\|bene]] tu lo sai—è [[Cross\|contraria]] e piena di peccato. |
+| *(didascalia)* | Entra la moglie di [[Capulet\|Capuleti]] |
+| LA MOGLIE DI [[Capulet\|CAPULETI]] | Come, siete affaccendate, eh? Vi serve il mio aiuto? |
+| [[Juliet\|GIULIETTA]] | No, signora, abbiamo scelto quanto occorre<br>ed è conveniente al nostro stato domani.<br>Se vi piace, lasciatemi ora [[Alone\|sola]],<br>e la [[Nurse\|Nutrice]] vegli questa [[Night\|notte]] con voi,<br>ché son certa che avete le mani ben piene<br>in questa faccenda così improvvisa. |
+| LA MOGLIE DI [[Capulet\|CAPULETI]] | Buona [[Night\|notte]].<br>Va’ a letto e riposa, ché ne hai bisogno. |
+| *(didascalia)* | Escono la moglie di [[Capulet\|Capuleti]] e la [[Nurse\|Nutrice]] |
+| [[Juliet\|GIULIETTA]] | Addio. Dio sa quando ci rivedremo.<br>Ho una fioca fredda [[Fear\|paura]] che mi corre per le vene<br>e quasi congela il calore della vita.<br>Le richiamerò indietro a confortarmi.<br>[[Nurse\|Nutrice]]!—Che dovrebbe fare qui? |
 | *(didascalia)* | Apre le cortine, dietro le quali si vede il suo letto |
-| [[Juliet|GIULIETTA]] | La mia lugubre scena devo recitarla [[Alone|sola]].<br>Vieni, fiala. E se questa mistura non agisse affatto?<br>Sarò dunque maritata domani mattina?<br>No, no, questo lo impedirà. Sta’ tu là.<br>Depone un coltello<br>E se fosse un [[Poison|veleno]] che il frate<br>ha somministrato con astuzia per farmi morire,<br>per non essere disonorato in questo [[Marriage|matrimonio]]<br>perché mi ha sposata prima a [[Romeo]]?<br>[[Fear|Temo]] che sia così—eppure mi pare che non dovrebbe,<br>ché è sempre stato provato uomo santo.<br>E se, quando sarò deposta nella tomba,<br>mi destassi prima del [[Time|tempo]] in cui [[Romeo]]<br>venga a riscattarmi? Ecco un punto spaventoso.<br>Non soffocherò allora nella cripta,<br>alla cui bocca immonda non spira aria salubre,<br>e non morirò là strangolata prima che il mio [[Romeo]] giunga?<br>O, se vivrò, non è forse assai probabile<br>che l’orribile immagine della [[Death|morte]] e della [[Night|notte]],<br>insieme al terrore del luogo—<br>come in una cripta, antico ricettacolo<br>dove da tante centinaia d’anni le ossa<br>di tutti i miei antenati sepolti sono ammucchiate;<br>dove l’insanguinato [[Tybalt|Tebaldo]], ancora fresco di terra,<br>giace imputridendo nel sudario; dove, come dicono,<br>a certe ore della [[Night|notte]] convengono gli spiriti—<br>ahimè, ahimè, non è probabile che io,<br>destandomi così presto—fra odori nauseanti,<br>e stridi come di mandragole strappate dalla terra,<br>che i mortali viventi, a udirli, impazziscono—<br>oh, se mi desto, non sarò forse fuori di me,<br>circondata da tutti questi orrendi spaventi,<br>e non giocherò follemente con le giunture dei miei avi,<br>e non strapperò lo straziato [[Tybalt|Tebaldo]] dal suo sudario,<br>e, in questa furia, con l’osso di qualche grande congiunto<br>come con una clava non mi spaccherò il disperato cervello?<br>Oh, guarda! Mi pare di vedere lo [[Ghost|spettro]] di mio cugino<br>che cerca [[Romeo]], il quale infilzò il suo [[Body|corpo]]<br>sulla punta d’uno stocco. Fermati, [[Tybalt|Tebaldo]], fermati!<br>[[Romeo]], [[Romeo]], [[Romeo]]! Ecco la bevanda. Bevo a te. |
+| [[Juliet\|GIULIETTA]] | La mia lugubre scena devo recitarla [[Alone\|sola]].<br>Vieni, fiala. E se questa mistura non agisse affatto?<br>Sarò dunque maritata domani mattina?<br>No, no, questo lo impedirà. Sta’ tu là.<br>Depone un coltello<br>E se fosse un [[Poison\|veleno]] che il frate<br>ha somministrato con astuzia per farmi morire,<br>per non essere disonorato in questo [[Marriage\|matrimonio]]<br>perché mi ha sposata prima a [[Romeo]]?<br>[[Fear\|Temo]] che sia così—eppure mi pare che non dovrebbe,<br>ché è sempre stato provato uomo santo.<br>E se, quando sarò deposta nella tomba,<br>mi destassi prima del [[Time\|tempo]] in cui [[Romeo]]<br>venga a riscattarmi? Ecco un punto spaventoso.<br>Non soffocherò allora nella cripta,<br>alla cui bocca immonda non spira aria salubre,<br>e non morirò là strangolata prima che il mio [[Romeo]] giunga?<br>O, se vivrò, non è forse assai probabile<br>che l’orribile immagine della [[Death\|morte]] e della [[Night\|notte]],<br>insieme al terrore del luogo—<br>come in una cripta, antico ricettacolo<br>dove da tante centinaia d’anni le ossa<br>di tutti i miei antenati sepolti sono ammucchiate;<br>dove l’insanguinato [[Tybalt\|Tebaldo]], ancora fresco di terra,<br>giace imputridendo nel sudario; dove, come dicono,<br>a certe ore della [[Night\|notte]] convengono gli spiriti—<br>ahimè, ahimè, non è probabile che io,<br>destandomi così presto—fra odori nauseanti,<br>e stridi come di mandragole strappate dalla terra,<br>che i mortali viventi, a udirli, impazziscono—<br>oh, se mi desto, non sarò forse fuori di me,<br>circondata da tutti questi orrendi spaventi,<br>e non giocherò follemente con le giunture dei miei avi,<br>e non strapperò lo straziato [[Tybalt\|Tebaldo]] dal suo sudario,<br>e, in questa furia, con l’osso di qualche grande congiunto<br>come con una clava non mi spaccherò il disperato cervello?<br>Oh, guarda! Mi pare di vedere lo [[Ghost\|spettro]] di mio cugino<br>che cerca [[Romeo]], il quale infilzò il suo [[Body\|corpo]]<br>sulla punta d’uno stocco. Fermati, [[Tybalt\|Tebaldo]], fermati!<br>[[Romeo]], [[Romeo]], [[Romeo]]! Ecco la bevanda. Bevo a te. |
 | *(didascalia)* | Beve dalla fiala e cade sul letto, tirando chiuse le cortine |
 
 
@@ -3340,71 +3340,71 @@ Exit
 
 | Chi parla | Battuta |
 |---|---|
-| *(didascalia)* | Entrano la moglie di [[Capulet|Capuleti]] e la [[Nurse|Nutrice]] con erbe |
-| LA MOGLIE DI [[Capulet|CAPULETI]] | Ecco, prendi queste chiavi, e va’ a prendere altre spezie, [[Nurse|Nutrice]]. |
-| [[Nurse|NUTRICE]] | Chiedono datteri e cotogne per i dolci. |
-| *(didascalia)* | Entra [[Capulet|Capuleti]] |
-| [[Capulet|CAPULETI]] | Su, muovetevi, muovetevi, muovetevi! Il secondo gallo ha cantato.<br>La campana del coprifuoco è suonata. Sono le tre in [[Clock|punto]].<br>Bada agli arrosti, buona Angelica.<br>Non badare a spese. |
-| [[Nurse|NUTRICE]] | Andate, donnicciola, andate.<br>Andate a letto. In [[Faith|fede]] mia, domani sarete malato<br>per questa veglia della [[Night|notte]]. |
-| [[Capulet|CAPULETI]] | No, niente affatto. Come, ho vegliato prima d’ora<br>tutta la [[Night|notte]] per minor causa, e non sono mai stato malato. |
-| LA MOGLIE DI [[Capulet|CAPULETI]] | Sì, siete stato un cacciatore di topine ai vostri [[Time|tempi]],<br>ma ora io vi veglierò da simili veglie. |
-| *(didascalia)* | Escono la moglie di [[Capulet|Capuleti]] e la [[Nurse|Nutrice]] |
-| [[Capulet|CAPULETI]] | Che gelosaccia, che gelosaccia! |
+| *(didascalia)* | Entrano la moglie di [[Capulet\|Capuleti]] e la [[Nurse\|Nutrice]] con erbe |
+| LA MOGLIE DI [[Capulet\|CAPULETI]] | Ecco, prendi queste chiavi, e va’ a prendere altre spezie, [[Nurse\|Nutrice]]. |
+| [[Nurse\|NUTRICE]] | Chiedono datteri e cotogne per i dolci. |
+| *(didascalia)* | Entra [[Capulet\|Capuleti]] |
+| [[Capulet\|CAPULETI]] | Su, muovetevi, muovetevi, muovetevi! Il secondo gallo ha cantato.<br>La campana del coprifuoco è suonata. Sono le tre in [[Clock\|punto]].<br>Bada agli arrosti, buona Angelica.<br>Non badare a spese. |
+| [[Nurse\|NUTRICE]] | Andate, donnicciola, andate.<br>Andate a letto. In [[Faith\|fede]] mia, domani sarete malato<br>per questa veglia della [[Night\|notte]]. |
+| [[Capulet\|CAPULETI]] | No, niente affatto. Come, ho vegliato prima d’ora<br>tutta la [[Night\|notte]] per minor causa, e non sono mai stato malato. |
+| LA MOGLIE DI [[Capulet\|CAPULETI]] | Sì, siete stato un cacciatore di topine ai vostri [[Time\|tempi]],<br>ma ora io vi veglierò da simili veglie. |
+| *(didascalia)* | Escono la moglie di [[Capulet\|Capuleti]] e la [[Nurse\|Nutrice]] |
+| [[Capulet\|CAPULETI]] | Che gelosaccia, che gelosaccia! |
 | *(didascalia)* | Entrano tre o quattro servi con spiedi, ceppi e ceste |
-| [[Capulet|CAPULETI]] | Ebbene, tu, che c’è là? |
+| [[Capulet\|CAPULETI]] | Ebbene, tu, che c’è là? |
 | PRIMO SERVO | Roba per il cuoco, signore, ma non so che cosa. |
-| [[Capulet|CAPULETI]] | Fa’ presto, fa’ presto. |
+| [[Capulet\|CAPULETI]] | Fa’ presto, fa’ presto. |
 | *(didascalia)* | Esce il primo servo con uno o due altri |
-| [[Capulet|CAPULETI]] | Messere, va’ a prendere ceppi più asciutti.<br>Chiama Pietro. Ti mostrerà lui dove sono. |
+| [[Capulet\|CAPULETI]] | Messere, va’ a prendere ceppi più asciutti.<br>Chiama Pietro. Ti mostrerà lui dove sono. |
 | SECONDO SERVO | Ho una testa, signore, che saprà trovare i ceppi<br>senza disturbare Pietro per la faccenda. |
-| [[Capulet|CAPULETI]] | Perdiana, e [[Well|ben]] detto! Un allegro figlio di buona donna, ah!<br>Sarai tu la testa di ceppo. Esce il secondo servo<br><br>In buona [[Faith|fede]], è giorno.<br>Il conte sarà qui subito con la musica,<br>ché così disse che avrebbe fatto. |
+| [[Capulet\|CAPULETI]] | Perdiana, e [[Well\|ben]] detto! Un allegro figlio di buona donna, ah!<br>Sarai tu la testa di ceppo. Esce il secondo servo<br><br>In buona [[Faith\|fede]], è giorno.<br>Il conte sarà qui subito con la musica,<br>ché così disse che avrebbe fatto. |
 | *(didascalia)* | Suona la musica dentro |
-| [[Capulet|CAPULETI]] | Lo sento vicino.<br>[[Nurse|Nutrice]]! Moglie! Ehi, olà, [[Nurse|Nutrice]], dico! |
-| *(didascalia)* | Entra la [[Nurse|Nutrice]] |
-| [[Capulet|CAPULETI]] | Va’ a svegliare [[Juliet|Giulietta]]. Va’ e agghindala.<br>Io vado a chiacchierare con [[Paris|Paride]]. Presto, spicciati,<br>spicciati, lo sposo è già arrivato.<br>Spicciati, dico. Esce |
-| [[Nurse|NUTRICE]] | Signorina, ehi, signorina! [[Juliet|Giulietta]]! Dorme sodo, ve lo garantisco.<br>Su, [[Lamb|agnellina]], su, madonnina! Vergogna, dormigliona!<br>Su, [[Love|amore]], dico, signora, tesoro, su, sposa!<br>Come, nemmeno una parola? Vi prendete i vostri comodi ora.<br>[[Sleep|Dormite]] per una settimana, ché per la prossima [[Night|notte]], ve lo garantisco,<br>il conte [[Paris|Paride]] ha fatto voto<br>che riposerete ben poco. Dio mi perdoni!<br>Perbacco, e amen. Come dorme profondamente!<br>Devo proprio svegliarla. Signora, signora, signora!<br>Sì, lasciate che il conte vi trovi a letto.<br>Vi farà balzar su dallo spavento, in [[Faith|fede]] mia. Non sarà così? |
+| [[Capulet\|CAPULETI]] | Lo sento vicino.<br>[[Nurse\|Nutrice]]! Moglie! Ehi, olà, [[Nurse\|Nutrice]], dico! |
+| *(didascalia)* | Entra la [[Nurse\|Nutrice]] |
+| [[Capulet\|CAPULETI]] | Va’ a svegliare [[Juliet\|Giulietta]]. Va’ e agghindala.<br>Io vado a chiacchierare con [[Paris\|Paride]]. Presto, spicciati,<br>spicciati, lo sposo è già arrivato.<br>Spicciati, dico. Esce |
+| [[Nurse\|NUTRICE]] | Signorina, ehi, signorina! [[Juliet\|Giulietta]]! Dorme sodo, ve lo garantisco.<br>Su, [[Lamb\|agnellina]], su, madonnina! Vergogna, dormigliona!<br>Su, [[Love\|amore]], dico, signora, tesoro, su, sposa!<br>Come, nemmeno una parola? Vi prendete i vostri comodi ora.<br>[[Sleep\|Dormite]] per una settimana, ché per la prossima [[Night\|notte]], ve lo garantisco,<br>il conte [[Paris\|Paride]] ha fatto voto<br>che riposerete ben poco. Dio mi perdoni!<br>Perbacco, e amen. Come dorme profondamente!<br>Devo proprio svegliarla. Signora, signora, signora!<br>Sì, lasciate che il conte vi trovi a letto.<br>Vi farà balzar su dallo spavento, in [[Faith\|fede]] mia. Non sarà così? |
 | *(didascalia)* | Tira indietro le cortine |
-| [[Nurse|NUTRICE]] | Come, vestita e nei vostri abiti, e di nuovo giù?<br>Devo proprio svegliarvi. Madonna, madonna, madonna!<br>Ahimè, ahimè! Aiuto, aiuto! La mia signora è morta.<br>Oh, sciagura, che io sia mai nata!<br>Dell’acquavite, olà! Mio signore, mia signora! |
-| *(didascalia)* | Entra la moglie di [[Capulet|Capuleti]] |
-| LA MOGLIE DI [[Capulet|CAPULETI]] | Che rumore è questo? |
-| [[Nurse|NUTRICE]] | O giorno lamentevole! |
-| LA MOGLIE DI [[Capulet|CAPULETI]] | Che cosa succede? |
-| [[Nurse|NUTRICE]] | Guardate, guardate. O giorno funesto! |
-| LA MOGLIE DI [[Capulet|CAPULETI]] | Ahimè, ahimè, [[Child|figlia]] mia, mia unica vita!<br>Rivivi, apri gli occhi, o morirò con te.<br>Aiuto, aiuto, chiamate aiuto! |
-| *(didascalia)* | Entra [[Capulet|Capuleti]] |
-| [[Capulet|CAPULETI]] | Vergogna, portate fuori [[Juliet|Giulietta]]. Il suo signore è giunto. |
-| [[Nurse|NUTRICE]] | È morta, trapassata. È morta, ahimè che giorno! |
-| LA MOGLIE DI [[Capulet|CAPULETI]] | Ahimè che giorno, è morta, è morta, è morta! |
-| [[Capulet|CAPULETI]] | Ah, fatemela vedere! Ahimè, è fredda.<br>Il suo [[Blood|sangue]] è rappreso, e le sue giunture sono rigide.<br>La vita e queste labbra sono da tempo separate.<br>La [[Death|Morte]] giace su di lei come un [[Frost|gelo]] intempestivo<br>sul più dolce fiore di tutto il campo. |
-| [[Nurse|NUTRICE]] | O giorno lamentevole! |
-| LA MOGLIE DI [[Capulet|CAPULETI]] | O [[Time|tempo]] doloroso! |
-| [[Capulet|CAPULETI]] | La [[Death|Morte]], che l’ha portata via di qui per farmi gemere,<br>mi lega la lingua, e non mi lascia parlare. |
-| *(didascalia)* | Entrano [[Friar Laurence|Frate Lorenzo]] e [[Paris|Paride]], con musicanti |
-| [[Friar Laurence|FRATE LORENZO]] | Su, è pronta la sposa per andare in chiesa? |
-| [[Capulet|CAPULETI]] | Pronta ad andare, ma mai a tornare.<br>(A [[Paris|Paride]]) O figlio, la [[Night|notte]] prima del tuo giorno di nozze<br>la [[Death|morte]] ha giaciuto con la tua sposa. Guarda, là giace,<br>fiore com’era, da lui sfiorata.<br>La [[Death|Morte]] è mio genero, la [[Death|morte]] è mio erede.<br>Ha sposato mia figlia. Io morirò,<br>e le lascerò tutto. Vita, sostanze, tutto è della [[Death|morte]]. |
-| *(didascalia)* | [[Paris|Paride]], [[Capulet|Capuleti]] e sua moglie, e la [[Nurse|Nutrice]] tutti insieme si torcono le mani e gridano a una voce: |
-| [[Paris|PARIDE]] | Ho atteso a lungo di vedere il volto di questo mattino,<br>e mi dà uno spettacolo come questo?<br>Ingannato, divorziato, oltraggiato, schernito, ucciso!<br>Detestabilissima [[Death|morte]], da te ingannato,<br>da te crudele, crudele del tutto abbattuto.<br>O [[Love|amore]], o vita: non vita, ma [[Love|amore]] nella [[Death|morte]]. |
-| LA MOGLIE DI [[Capulet|CAPULETI]] | Giorno maledetto, infelice, misero, odioso!<br>Ora più miserabile che mai [[Time|tempo]] vide<br>nella durevole fatica del suo pellegrinaggio!<br>Una sola, povera una, una povera e amorosa [[Child|figlia]],<br>una sola cosa in cui gioire e trovar conforto,<br>e la crudele [[Death|morte]] me l’ha strappata dalla vista! |
-| [[Nurse|NUTRICE]] | O dolore! O giorno doloroso, doloroso, doloroso!<br>Giorno lamentevolissimo! Giorno più doloroso<br>che mai, mai, io abbia veduto!<br>O giorno, o giorno, o giorno, o giorno odioso,<br>mai si vide un giorno nero come questo!<br>O giorno doloroso, o giorno doloroso! 85 |
-| [[Capulet|CAPULETI]] | Disprezzato, angosciato, odiato, martirizzato, ucciso!<br>[[Time|Tempo]] sconfortante, perché sei venuto ora<br>ad assassinare, ad assassinare la nostra solennità?<br>O [[Child|figlia]], o [[Child|figlia]], [[Soul|anima]] mia e non mia [[Child|figlia]]!<br>Morta sei, ahimè, la mia [[Child|figlia]] è morta,<br>e con la mia [[Child|figlia]] sono sepolte le mie gioie. |
-| [[Friar Laurence|FRATE LORENZO]] | Pace, olà, vergogna! La cura della confusione non sta<br>in queste confusioni. Il cielo e voi<br>avevate parte in questa bella fanciulla. Ora il cielo ha tutto,<br>e tanto meglio è per la fanciulla.<br>La vostra parte in lei non poteste sottrarla alla [[Death|morte]],<br>ma il cielo serba la sua parte in vita eterna.<br>Il massimo che cercaste fu la sua elevazione,<br>ché era il vostro cielo ch’ella fosse innalzata,<br>e ora piangete, vedendo che è innalzata<br>sopra le nubi, alta quanto il cielo stesso?<br>Oh, in questo [[Love|amore]] voi [[Love|amate]] così male la vostra [[Child|figlia]]<br>che impazzite, vedendo che sta [[Well|bene]].<br>Non è [[Well|ben]] maritata colei che vive a lungo maritata,<br>ma è maritata al meglio colei che muore maritata giovane.<br>Asciugate le vostre [[Tears|lacrime]], e ponete il vostro rosmarino<br>su questa bella salma, e, come vuole l’usanza,<br>tutta nelle sue vesti migliori portatela in chiesa;<br>ché, benché la tenera [[Nature|natura]] ci imponga a tutti di lamentarci,<br>pure le [[Tears|lacrime]] della [[Nature|natura]] sono l’allegria della ragione. |
-| [[Capulet|CAPULETI]] | Tutto ciò che avevamo ordinato per la festa<br>si volge dal suo ufficio a nero funerale.<br>I nostri strumenti in [[Bells|campane]] [[Melancholy|malinconiche]],<br>la nostra allegria nuziale in triste banchetto funebre,<br>i nostri inni solenni in cupe nenie si mutano;<br>i nostri [[Flowers|fiori]] nuziali servono per una salma sepolta,<br>e ogni cosa si muta nel suo contrario. |
-| [[Friar Laurence|FRATE LORENZO]] | Signore, entrate; e voi, signora, andate con lui,<br>e andate, ser [[Paris|Paride]]. Ognuno si prepari<br>a seguire questa bella salma alla sua [[Grave|fossa]].<br>I cieli s’oscurano su di voi per qualche colpa.<br>Non irritateli oltre contrariando la loro alta volontà. |
-| *(didascalia)* | Gettano rosmarino su [[Juliet|Giulietta]], e chiudono le cortine. Escono tutti tranne la [[Nurse|Nutrice]] e i musicanti |
-| *(didascalia)* | PRIMO MUSICANTE [[Faith|In fede]], possiamo riporre i nostri pifferi e andarcene. |
-| [[Nurse|NUTRICE]] | Onesti bravi compagni, ah, riponete, riponete,<br>ché [[Well|bene]] sapete che questo è un caso pietoso. |
+| [[Nurse\|NUTRICE]] | Come, vestita e nei vostri abiti, e di nuovo giù?<br>Devo proprio svegliarvi. Madonna, madonna, madonna!<br>Ahimè, ahimè! Aiuto, aiuto! La mia signora è morta.<br>Oh, sciagura, che io sia mai nata!<br>Dell’acquavite, olà! Mio signore, mia signora! |
+| *(didascalia)* | Entra la moglie di [[Capulet\|Capuleti]] |
+| LA MOGLIE DI [[Capulet\|CAPULETI]] | Che rumore è questo? |
+| [[Nurse\|NUTRICE]] | O giorno lamentevole! |
+| LA MOGLIE DI [[Capulet\|CAPULETI]] | Che cosa succede? |
+| [[Nurse\|NUTRICE]] | Guardate, guardate. O giorno funesto! |
+| LA MOGLIE DI [[Capulet\|CAPULETI]] | Ahimè, ahimè, [[Child\|figlia]] mia, mia unica vita!<br>Rivivi, apri gli occhi, o morirò con te.<br>Aiuto, aiuto, chiamate aiuto! |
+| *(didascalia)* | Entra [[Capulet\|Capuleti]] |
+| [[Capulet\|CAPULETI]] | Vergogna, portate fuori [[Juliet\|Giulietta]]. Il suo signore è giunto. |
+| [[Nurse\|NUTRICE]] | È morta, trapassata. È morta, ahimè che giorno! |
+| LA MOGLIE DI [[Capulet\|CAPULETI]] | Ahimè che giorno, è morta, è morta, è morta! |
+| [[Capulet\|CAPULETI]] | Ah, fatemela vedere! Ahimè, è fredda.<br>Il suo [[Blood\|sangue]] è rappreso, e le sue giunture sono rigide.<br>La vita e queste labbra sono da tempo separate.<br>La [[Death\|Morte]] giace su di lei come un [[Frost\|gelo]] intempestivo<br>sul più dolce fiore di tutto il campo. |
+| [[Nurse\|NUTRICE]] | O giorno lamentevole! |
+| LA MOGLIE DI [[Capulet\|CAPULETI]] | O [[Time\|tempo]] doloroso! |
+| [[Capulet\|CAPULETI]] | La [[Death\|Morte]], che l’ha portata via di qui per farmi gemere,<br>mi lega la lingua, e non mi lascia parlare. |
+| *(didascalia)* | Entrano [[Friar Laurence\|Frate Lorenzo]] e [[Paris\|Paride]], con musicanti |
+| [[Friar Laurence\|FRATE LORENZO]] | Su, è pronta la sposa per andare in chiesa? |
+| [[Capulet\|CAPULETI]] | Pronta ad andare, ma mai a tornare.<br>(A [[Paris\|Paride]]) O figlio, la [[Night\|notte]] prima del tuo giorno di nozze<br>la [[Death\|morte]] ha giaciuto con la tua sposa. Guarda, là giace,<br>fiore com’era, da lui sfiorata.<br>La [[Death\|Morte]] è mio genero, la [[Death\|morte]] è mio erede.<br>Ha sposato mia figlia. Io morirò,<br>e le lascerò tutto. Vita, sostanze, tutto è della [[Death\|morte]]. |
+| *(didascalia)* | [[Paris\|Paride]], [[Capulet\|Capuleti]] e sua moglie, e la [[Nurse\|Nutrice]] tutti insieme si torcono le mani e gridano a una voce: |
+| [[Paris\|PARIDE]] | Ho atteso a lungo di vedere il volto di questo mattino,<br>e mi dà uno spettacolo come questo?<br>Ingannato, divorziato, oltraggiato, schernito, ucciso!<br>Detestabilissima [[Death\|morte]], da te ingannato,<br>da te crudele, crudele del tutto abbattuto.<br>O [[Love\|amore]], o vita: non vita, ma [[Love\|amore]] nella [[Death\|morte]]. |
+| LA MOGLIE DI [[Capulet\|CAPULETI]] | Giorno maledetto, infelice, misero, odioso!<br>Ora più miserabile che mai [[Time\|tempo]] vide<br>nella durevole fatica del suo pellegrinaggio!<br>Una sola, povera una, una povera e amorosa [[Child\|figlia]],<br>una sola cosa in cui gioire e trovar conforto,<br>e la crudele [[Death\|morte]] me l’ha strappata dalla vista! |
+| [[Nurse\|NUTRICE]] | O dolore! O giorno doloroso, doloroso, doloroso!<br>Giorno lamentevolissimo! Giorno più doloroso<br>che mai, mai, io abbia veduto!<br>O giorno, o giorno, o giorno, o giorno odioso,<br>mai si vide un giorno nero come questo!<br>O giorno doloroso, o giorno doloroso! 85 |
+| [[Capulet\|CAPULETI]] | Disprezzato, angosciato, odiato, martirizzato, ucciso!<br>[[Time\|Tempo]] sconfortante, perché sei venuto ora<br>ad assassinare, ad assassinare la nostra solennità?<br>O [[Child\|figlia]], o [[Child\|figlia]], [[Soul\|anima]] mia e non mia [[Child\|figlia]]!<br>Morta sei, ahimè, la mia [[Child\|figlia]] è morta,<br>e con la mia [[Child\|figlia]] sono sepolte le mie gioie. |
+| [[Friar Laurence\|FRATE LORENZO]] | Pace, olà, vergogna! La cura della confusione non sta<br>in queste confusioni. Il cielo e voi<br>avevate parte in questa bella fanciulla. Ora il cielo ha tutto,<br>e tanto meglio è per la fanciulla.<br>La vostra parte in lei non poteste sottrarla alla [[Death\|morte]],<br>ma il cielo serba la sua parte in vita eterna.<br>Il massimo che cercaste fu la sua elevazione,<br>ché era il vostro cielo ch’ella fosse innalzata,<br>e ora piangete, vedendo che è innalzata<br>sopra le nubi, alta quanto il cielo stesso?<br>Oh, in questo [[Love\|amore]] voi [[Love\|amate]] così male la vostra [[Child\|figlia]]<br>che impazzite, vedendo che sta [[Well\|bene]].<br>Non è [[Well\|ben]] maritata colei che vive a lungo maritata,<br>ma è maritata al meglio colei che muore maritata giovane.<br>Asciugate le vostre [[Tears\|lacrime]], e ponete il vostro rosmarino<br>su questa bella salma, e, come vuole l’usanza,<br>tutta nelle sue vesti migliori portatela in chiesa;<br>ché, benché la tenera [[Nature\|natura]] ci imponga a tutti di lamentarci,<br>pure le [[Tears\|lacrime]] della [[Nature\|natura]] sono l’allegria della ragione. |
+| [[Capulet\|CAPULETI]] | Tutto ciò che avevamo ordinato per la festa<br>si volge dal suo ufficio a nero funerale.<br>I nostri strumenti in [[Bells\|campane]] [[Melancholy\|malinconiche]],<br>la nostra allegria nuziale in triste banchetto funebre,<br>i nostri inni solenni in cupe nenie si mutano;<br>i nostri [[Flowers\|fiori]] nuziali servono per una salma sepolta,<br>e ogni cosa si muta nel suo contrario. |
+| [[Friar Laurence\|FRATE LORENZO]] | Signore, entrate; e voi, signora, andate con lui,<br>e andate, ser [[Paris\|Paride]]. Ognuno si prepari<br>a seguire questa bella salma alla sua [[Grave\|fossa]].<br>I cieli s’oscurano su di voi per qualche colpa.<br>Non irritateli oltre contrariando la loro alta volontà. |
+| *(didascalia)* | Gettano rosmarino su [[Juliet\|Giulietta]], e chiudono le cortine. Escono tutti tranne la [[Nurse\|Nutrice]] e i musicanti |
+| *(didascalia)* | PRIMO MUSICANTE [[Faith\|In fede]], possiamo riporre i nostri pifferi e andarcene. |
+| [[Nurse\|NUTRICE]] | Onesti bravi compagni, ah, riponete, riponete,<br>ché [[Well\|bene]] sapete che questo è un caso pietoso. |
 | *(didascalia)* | PRIMO MUSICANTE |
-| [[Nurse|NUTRICE]] | Sì, in fede mia, il caso può essere accomodato. |
-| *(didascalia)* | Esce la [[Nurse|Nutrice]] Entra Pietro |
+| [[Nurse\|NUTRICE]] | Sì, in fede mia, il caso può essere accomodato. |
+| *(didascalia)* | Esce la [[Nurse\|Nutrice]] Entra Pietro |
 | PIETRO | Musicanti, oh, musicanti! ‘Conforto del cuore’, ‘Conforto del cuore’; oh, se volete che io viva, suonate ‘Conforto del cuore’. |
 | *(didascalia)* | PRIMO MUSICANTE Perché ‘Conforto del cuore’? |
 | PIETRO | Oh, musicanti, perché il mio cuore stesso suona ‘Il mio cuore è pieno di dolore’. Oh, suonatemi qualche allegra nenia per confortarmi. |
-| *(didascalia)* | PRIMO MUSICANTE Nessuna nenia, noi. Non è [[Time|tempo]] di suonare adesso. |
+| *(didascalia)* | PRIMO MUSICANTE Nessuna nenia, noi. Non è [[Time\|tempo]] di suonare adesso. |
 | PIETRO | Non volete, dunque? |
 | PRIMO MUSICANTE | No. |
 | PIETRO | Allora ve la darò io di santa ragione. |
 | PRIMO MUSICANTE | Che cosa ci darete? |
-| PIETRO | Non denaro, sulla mia [[Faith|fede]], ma lo scherno. Vi darò del menestrello. |
+| PIETRO | Non denaro, sulla mia [[Faith\|fede]], ma lo scherno. Vi darò del menestrello. |
 | PRIMO MUSICANTE | E io allora vi darò del servitorello. |
 | PIETRO | (sguainando il pugnale) Allora io poserò il pugnale del servitorello sulla vostra zucca. Non porterò crome. Vi darò il re, vi darò il fa. Mi notate? |
 | PRIMO MUSICANTE | Se ci date il re e ci date il fa, ci mettete in nota. |
@@ -3416,8 +3416,8 @@ Exit
 | PIETRO | Chiacchiere! Che dite voi, Ugo Ribeca? |
 | SECONDO MUSICANTE | Io dico ‘argenteo suono’ perché i musicanti suonano per argento. |
 | PIETRO | Chiacchiere anche queste! Che dite voi, Simone Ponticello? |
-| TERZO MUSICANTE | [[Faith|In fede]], non so che dire. |
-| PIETRO | Oh, vi chiedo [[Mercy|perdono]], voi siete il cantore. Dirò io per voi. È ‘la musica col suo argenteo suono’ perché i musicanti non hanno oro per il loro suonare. |
+| TERZO MUSICANTE | [[Faith\|In fede]], non so che dire. |
+| PIETRO | Oh, vi chiedo [[Mercy\|perdono]], voi siete il cantore. Dirò io per voi. È ‘la musica col suo argenteo suono’ perché i musicanti non hanno oro per il loro suonare. |
 | *(didascalia)* | Canta |
 | PIETRO | Allora la musica col suo argenteo suono<br>con pronto aiuto reca sollievo. Esce |
 | PRIMO MUSICANTE | Che birbante pestifero è costui! |
@@ -3460,28 +3460,28 @@ Exit
 | Chi parla | Battuta |
 |---|---|
 | *(didascalia)* | Entra [[Romeo]] |
-| [[Romeo|ROMEO]] | Se posso fidarmi della lusinghiera [[Truth|verità]] del [[Sleep|sonno]],<br>i miei [[Dreams|sogni]] presagiscono liete novelle vicine.<br>Il signore del mio petto siede lieve sul suo trono,<br>e per tutto questo giorno uno spirito insolito<br>mi solleva da terra con pensieri allegri.<br>Ho sognato che la mia dama veniva e mi trovava morto—<br>strano sogno, che concede a un morto di<br>pensare!—<br>e spirava con baci tanta vita sulle mie labbra<br>ch’io rinacqui e fui imperatore.<br>Ahimè, quanto è dolce l’[[Love|amore]] stesso posseduto,<br>se già le ombre dell’[[Love|amore]] son così ricche di gioia! |
+| [[Romeo\|ROMEO]] | Se posso fidarmi della lusinghiera [[Truth\|verità]] del [[Sleep\|sonno]],<br>i miei [[Dreams\|sogni]] presagiscono liete novelle vicine.<br>Il signore del mio petto siede lieve sul suo trono,<br>e per tutto questo giorno uno spirito insolito<br>mi solleva da terra con pensieri allegri.<br>Ho sognato che la mia dama veniva e mi trovava morto—<br>strano sogno, che concede a un morto di<br>pensare!—<br>e spirava con baci tanta vita sulle mie labbra<br>ch’io rinacqui e fui imperatore.<br>Ahimè, quanto è dolce l’[[Love\|amore]] stesso posseduto,<br>se già le ombre dell’[[Love\|amore]] son così ricche di gioia! |
 | *(didascalia)* | Entra Baldassarre, il servo di [[Romeo]], con gli stivali |
-| [[Romeo|ROMEO]] | Notizie da [[Verona]]! Ebbene, Baldassarre?<br>Non mi porti lettere dal frate?<br>Come sta la mia dama? Sta [[Well|bene]] mio padre?<br>Come sta la mia [[Juliet|Giulietta]]? Questo lo chiedo di nuovo,<br>ché nulla può andar male se lei sta [[Well|bene]]. |
-| BALDASSARRE | Allora sta [[Well|bene]], e nulla può andar male.<br>Il suo [[Body|corpo]] dorme nel monumento dei Capuleti,<br>e la sua parte immortale vive con gli angeli.<br>L’ho vista deporre nella cripta dei suoi congiunti,<br>e subito ho preso la posta per venire a dirvelo.<br>Oh, perdonatemi se vi porto queste cattive notizie,<br>poiché voi l’avete lasciato al mio ufficio, signore. |
-| [[Romeo|ROMEO]] | È proprio così? Allora vi sfido, [[Stars|stelle]]!<br>Tu conosci il mio alloggio. Procurami inchiostro e carta,<br>e noleggia cavalli di posta. Partirò di qui stanotte. |
+| [[Romeo\|ROMEO]] | Notizie da [[Verona]]! Ebbene, Baldassarre?<br>Non mi porti lettere dal frate?<br>Come sta la mia dama? Sta [[Well\|bene]] mio padre?<br>Come sta la mia [[Juliet\|Giulietta]]? Questo lo chiedo di nuovo,<br>ché nulla può andar male se lei sta [[Well\|bene]]. |
+| BALDASSARRE | Allora sta [[Well\|bene]], e nulla può andar male.<br>Il suo [[Body\|corpo]] dorme nel monumento dei Capuleti,<br>e la sua parte immortale vive con gli angeli.<br>L’ho vista deporre nella cripta dei suoi congiunti,<br>e subito ho preso la posta per venire a dirvelo.<br>Oh, perdonatemi se vi porto queste cattive notizie,<br>poiché voi l’avete lasciato al mio ufficio, signore. |
+| [[Romeo\|ROMEO]] | È proprio così? Allora vi sfido, [[Stars\|stelle]]!<br>Tu conosci il mio alloggio. Procurami inchiostro e carta,<br>e noleggia cavalli di posta. Partirò di qui stanotte. |
 | BALDASSARRE | Vi supplico, signore, abbiate pazienza.<br>Il vostro aspetto è pallido e stravolto, e presagisce<br>qualche sventura. |
-| [[Romeo|ROMEO]] | Suvvia, t’inganni.<br>Lasciami, e fa’ quel che t’ho ordinato di fare.<br>Non hai lettere per me dal frate? |
+| [[Romeo\|ROMEO]] | Suvvia, t’inganni.<br>Lasciami, e fa’ quel che t’ho ordinato di fare.<br>Non hai lettere per me dal frate? |
 | BALDASSARRE | No, mio buon signore. |
-| [[Romeo|ROMEO]] | Non importa. Vattene,<br>e noleggia quei cavalli. Sarò da te subito. |
+| [[Romeo\|ROMEO]] | Non importa. Vattene,<br>e noleggia quei cavalli. Sarò da te subito. |
 | *(didascalia)* | Esce Baldassarre |
-| [[Romeo|ROMEO]] | [[Well|Ebbene]], [[Juliet|Giulietta]], stanotte giacerò con te.<br>Vediamo i mezzi. O sciagura, come sei rapida<br>a entrare nei pensieri degli uomini disperati!<br>Mi ricordo d’uno speziale,<br>e qui d’intorno egli abita, che poco fa notai,<br>in vesti stracciate, con sopracciglia arruffate,<br>a scegliere erbe semplici. Magro era il suo aspetto.<br>L’acuta miseria l’aveva consumato fino alle ossa,<br>e nella sua bottega bisognosa pendeva una tartaruga,<br>un alligatore impagliato, e altre pelli<br>di pesci malformati; e sui suoi scaffali<br>una pezzenteria di scatole vuote,<br>verdi vasi di terra, vesciche e semi ammuffiti,<br>avanzi di spago e vecchie schiacciate di rose<br>erano scarsamente sparsi per far mostra.<br>Notando questa penuria, dissi fra me<br>‘se un uomo avesse bisogno d’un [[Poison|veleno]] ora,<br>la cui vendita è [[Death|morte]] immediata a Mantova,<br>qui vive un miserabile disgraziato che glielo venderebbe.’<br>Oh, questo stesso pensiero non fece che precorrere il mio bisogno,<br>e questo stesso uomo bisognoso deve vendermelo.<br>Se ben ricordo, questa dev’essere la [[house|casa]].<br>Essendo festa, la bottega del pezzente è chiusa.<br>Ehilà, speziale! |
+| [[Romeo\|ROMEO]] | [[Well\|Ebbene]], [[Juliet\|Giulietta]], stanotte giacerò con te.<br>Vediamo i mezzi. O sciagura, come sei rapida<br>a entrare nei pensieri degli uomini disperati!<br>Mi ricordo d’uno speziale,<br>e qui d’intorno egli abita, che poco fa notai,<br>in vesti stracciate, con sopracciglia arruffate,<br>a scegliere erbe semplici. Magro era il suo aspetto.<br>L’acuta miseria l’aveva consumato fino alle ossa,<br>e nella sua bottega bisognosa pendeva una tartaruga,<br>un alligatore impagliato, e altre pelli<br>di pesci malformati; e sui suoi scaffali<br>una pezzenteria di scatole vuote,<br>verdi vasi di terra, vesciche e semi ammuffiti,<br>avanzi di spago e vecchie schiacciate di rose<br>erano scarsamente sparsi per far mostra.<br>Notando questa penuria, dissi fra me<br>‘se un uomo avesse bisogno d’un [[Poison\|veleno]] ora,<br>la cui vendita è [[Death\|morte]] immediata a Mantova,<br>qui vive un miserabile disgraziato che glielo venderebbe.’<br>Oh, questo stesso pensiero non fece che precorrere il mio bisogno,<br>e questo stesso uomo bisognoso deve vendermelo.<br>Se ben ricordo, questa dev’essere la [[house\|casa]].<br>Essendo festa, la bottega del pezzente è chiusa.<br>Ehilà, speziale! |
 | *(didascalia)* | Entra lo speziale |
 | SPEZIALE | Chi chiama così forte? |
-| [[Romeo|ROMEO]] | Vieni qua, uomo. Vedo che sei povero.<br>Gli offre denaro<br>Ecco, qui ci sono quaranta ducati. Dammi<br>una dramma di [[Poison|veleno]]—una roba d’effetto così pronto<br>che si diffonda da sé per tutte le vene,<br>sì che chi, stanco della vita, la prenda cada morto,<br>e il tronco sia scaricato del respiro<br>con la stessa violenza con cui la polvere frettolosa accesa<br>erompe dal grembo del fatale cannone. |
-| SPEZIALE | Simili droghe mortali le ho, ma la legge di Mantova<br>è la [[Death|morte]] per chiunque le smerci. |
-| [[Romeo|ROMEO]] | Sei così nudo e pieno di miseria,<br>e [[Fear|temi]] di morire? La fame è nelle tue guance,<br>il bisogno e l’oppressione languono nei tuoi occhi,<br>il disprezzo e l’accattonaggio ti pendono sulle spalle.<br>Il mondo non è tuo amico, né la legge del mondo.<br>Il mondo non offre legge che ti faccia ricco.<br>Non essere dunque povero: infrangila, e prendi questo. |
-| SPEZIALE | La mia [[Poverty|povertà]], non la mia volontà, acconsente. |
-| [[Romeo|ROMEO]] | Io pago la tua [[Poverty|povertà]] e non la tua volontà. |
-| SPEZIALE | (porgendo a [[Romeo]] il [[Poison|veleno]])<br>Mettete questo in qualunque liquido vogliate<br>e bevetelo tutto, e se aveste la forza<br>di venti uomini vi spaccerebbe all’istante. |
-| [[Romeo|ROMEO]] | (dando il denaro)<br>Ecco il tuo oro—[[Poison|veleno]] peggiore per le anime degli uomini, 80<br>che compie più assassinii in questo mondo ripugnante<br>di questi poveri composti che tu non puoi vendere.<br>Sono io a venderti il [[Poison|veleno]]; tu non me n’hai venduto.<br>Addio, compra cibo, e rimettiti in carne. |
+| [[Romeo\|ROMEO]] | Vieni qua, uomo. Vedo che sei povero.<br>Gli offre denaro<br>Ecco, qui ci sono quaranta ducati. Dammi<br>una dramma di [[Poison\|veleno]]—una roba d’effetto così pronto<br>che si diffonda da sé per tutte le vene,<br>sì che chi, stanco della vita, la prenda cada morto,<br>e il tronco sia scaricato del respiro<br>con la stessa violenza con cui la polvere frettolosa accesa<br>erompe dal grembo del fatale cannone. |
+| SPEZIALE | Simili droghe mortali le ho, ma la legge di Mantova<br>è la [[Death\|morte]] per chiunque le smerci. |
+| [[Romeo\|ROMEO]] | Sei così nudo e pieno di miseria,<br>e [[Fear\|temi]] di morire? La fame è nelle tue guance,<br>il bisogno e l’oppressione languono nei tuoi occhi,<br>il disprezzo e l’accattonaggio ti pendono sulle spalle.<br>Il mondo non è tuo amico, né la legge del mondo.<br>Il mondo non offre legge che ti faccia ricco.<br>Non essere dunque povero: infrangila, e prendi questo. |
+| SPEZIALE | La mia [[Poverty\|povertà]], non la mia volontà, acconsente. |
+| [[Romeo\|ROMEO]] | Io pago la tua [[Poverty\|povertà]] e non la tua volontà. |
+| SPEZIALE | (porgendo a [[Romeo]] il [[Poison\|veleno]])<br>Mettete questo in qualunque liquido vogliate<br>e bevetelo tutto, e se aveste la forza<br>di venti uomini vi spaccerebbe all’istante. |
+| [[Romeo\|ROMEO]] | (dando il denaro)<br>Ecco il tuo oro—[[Poison\|veleno]] peggiore per le anime degli uomini, 80<br>che compie più assassinii in questo mondo ripugnante<br>di questi poveri composti che tu non puoi vendere.<br>Sono io a venderti il [[Poison\|veleno]]; tu non me n’hai venduto.<br>Addio, compra cibo, e rimettiti in carne. |
 | *(didascalia)* | Esce lo speziale |
-| [[Romeo|ROMEO]] | Vieni, cordiale e non [[Poison|veleno]], vieni con me 85<br>alla [[Grave|tomba]] di [[Juliet|Giulietta]], ché là devo servirmi di te. Esce |
+| [[Romeo\|ROMEO]] | Vieni, cordiale e non [[Poison\|veleno]], vieni con me 85<br>alla [[Grave\|tomba]] di [[Juliet\|Giulietta]], ché là devo servirmi di te. Esce |
 
 
 
@@ -3510,16 +3510,16 @@ Exit
 |---|---|
 | *(didascalia)* | Entra Frate Giovanni da una porta |
 | FRATE GIOVANNI | Santo frate francescano, fratello, olà! |
-| *(didascalia)* | Entra [[Friar Laurence|Frate Lorenzo]] da un’altra porta |
-| [[Friar Laurence|FRATE LORENZO]] | Questa dovrebbe essere la voce di Frate Giovanni.<br>Benvenuto da Mantova! Che dice [[Romeo]]?<br>O se il suo animo è scritto, dammi la sua lettera. |
-| FRATE GIOVANNI | Andando a cercare un frate scalzo—5<br>uno del nostro ordine—che m’accompagnasse<br>qui in questa [[City|città]] a visitare gli infermi,<br>e avendolo trovato, gli ispettori della città,<br>sospettando che fossimo entrambi in una [[house|casa]]<br>dove regnava la peste contagiosa, 10<br>sigillarono le porte, e non ci lasciarono uscire,<br>sicché la mia [[Speed|corsa]] a Mantova fu là arrestata. |
-| [[Friar Laurence|FRATE LORENZO]] | Chi portò allora la mia lettera a [[Romeo]]? |
+| *(didascalia)* | Entra [[Friar Laurence\|Frate Lorenzo]] da un’altra porta |
+| [[Friar Laurence\|FRATE LORENZO]] | Questa dovrebbe essere la voce di Frate Giovanni.<br>Benvenuto da Mantova! Che dice [[Romeo]]?<br>O se il suo animo è scritto, dammi la sua lettera. |
+| FRATE GIOVANNI | Andando a cercare un frate scalzo—5<br>uno del nostro ordine—che m’accompagnasse<br>qui in questa [[City\|città]] a visitare gli infermi,<br>e avendolo trovato, gli ispettori della città,<br>sospettando che fossimo entrambi in una [[house\|casa]]<br>dove regnava la peste contagiosa, 10<br>sigillarono le porte, e non ci lasciarono uscire,<br>sicché la mia [[Speed\|corsa]] a Mantova fu là arrestata. |
+| [[Friar Laurence\|FRATE LORENZO]] | Chi portò allora la mia lettera a [[Romeo]]? |
 | FRATE GIOVANNI | Non ho potuto mandarla—eccola di nuovo qui—<br>né trovare un messo che te la riportasse,<br>tanto avevano paura del contagio. |
-| [[Friar Laurence|FRATE LORENZO]] | Sorte infelice! Per la mia confraternita,<br>la lettera non era cosa da poco, ma piena d’incarico,<br>di caro momento, e il trascurarla<br>può recare gran pericolo. Frate Giovanni, va’ di qui.<br>Procurami una leva di ferro, e portamela subito<br>alla mia cella. |
+| [[Friar Laurence\|FRATE LORENZO]] | Sorte infelice! Per la mia confraternita,<br>la lettera non era cosa da poco, ma piena d’incarico,<br>di caro momento, e il trascurarla<br>può recare gran pericolo. Frate Giovanni, va’ di qui.<br>Procurami una leva di ferro, e portamela subito<br>alla mia cella. |
 | FRATE GIOVANNI | Fratello, andrò a portartela. Esce |
-| [[Friar Laurence|FRATE LORENZO]] | Ora devo andare al monumento [[Alone|solo]]. |
-| *(didascalia)* | Entro queste tre ore la bella [[Juliet|Giulietta]] si desterà. |
-| [[Friar Laurence|FRATE LORENZO]] | Molto mi maledirà perché [[Romeo]]<br>non ha avuto notizia di questi accidenti.<br>Ma scriverò di nuovo a Mantova,<br>e la terrò nella mia cella finché [[Romeo]] venga.<br>Povero cadavere vivente, chiuso nella tomba d’un morto! Esce |
+| [[Friar Laurence\|FRATE LORENZO]] | Ora devo andare al monumento [[Alone\|solo]]. |
+| *(didascalia)* | Entro queste tre ore la bella [[Juliet\|Giulietta]] si desterà. |
+| [[Friar Laurence\|FRATE LORENZO]] | Molto mi maledirà perché [[Romeo]]<br>non ha avuto notizia di questi accidenti.<br>Ma scriverò di nuovo a Mantova,<br>e la terrò nella mia cella finché [[Romeo]] venga.<br>Povero cadavere vivente, chiuso nella tomba d’un morto! Esce |
 
 
 
@@ -3636,105 +3636,105 @@ Exit
 
 | Chi parla | Battuta |
 |---|---|
-| *(didascalia)* | Entrano [[Paris|Paride]] e il suo paggio, con [[Flowers|fiori]], [[Water|acqua]] profumata e una torcia |
-| [[Paris|PARIDE]] | Dammi la tua torcia, ragazzo. Va’ via, e sta’ in disparte.<br>Anzi, spegnila, ché non vorrei essere visto. |
+| *(didascalia)* | Entrano [[Paris\|Paride]] e il suo paggio, con [[Flowers\|fiori]], [[Water\|acqua]] profumata e una torcia |
+| [[Paris\|PARIDE]] | Dammi la tua torcia, ragazzo. Va’ via, e sta’ in disparte.<br>Anzi, spegnila, ché non vorrei essere visto. |
 | *(didascalia)* | Il suo paggio spegne la torcia |
-| [[Paris|PARIDE]] | Sotto quei tassi laggiù distenditi tutto lungo,<br>tenendo l’orecchio accostato al terreno cavo.<br>Così nessun piede calcherà il cimitero, 5<br>essendo esso smosso e malfermo per lo scavare delle fosse,<br>senza che tu lo senta. Fischiami allora<br>come segnale che senti qualcosa avvicinarsi.<br>Dammi quei [[Flowers|fiori]]. Fa’ come t’ordino. Va’. |
+| [[Paris\|PARIDE]] | Sotto quei tassi laggiù distenditi tutto lungo,<br>tenendo l’orecchio accostato al terreno cavo.<br>Così nessun piede calcherà il cimitero, 5<br>essendo esso smosso e malfermo per lo scavare delle fosse,<br>senza che tu lo senta. Fischiami allora<br>come segnale che senti qualcosa avvicinarsi.<br>Dammi quei [[Flowers\|fiori]]. Fa’ come t’ordino. Va’. |
 | *(didascalia)* | PAGGIO a parte |
-| [[Paris|PARIDE]] | Ho quasi paura di restare [[Alone|solo]] 10<br>qui nel cimitero, eppure rischierò.<br>Si nasconde a distanza da [[Paris|Paride]] |
-| [[Paris|PARIDE]] | (spargendo [[Flowers|fiori]])<br>Dolce fiore, di [[Flowers|fiori]] cospargo il tuo letto nuziale.<br>Asperge l’[[Water|acqua]]<br>O dolore! Il tuo baldacchino è [[Dust|polvere]] e pietre,<br>che ogni notte irrorerò di dolce [[Water|acqua]],<br>o, in mancanza d’essa, di [[Tears|lacrime]] distillate dai gemiti.<br>Le esequie che per te celebrerò<br>saranno ogni notte cospargere la tua [[Grave|tomba]] e piangere.<br>Il paggio fischia<br>Il ragazzo avverte. Qualcosa s’avvicina.<br>Quale piede maledetto vaga da questa parte stanotte<br>ad [[Cross|attraversare]] le mie esequie e il rito del vero [[Love|amore]]? 20 |
+| [[Paris\|PARIDE]] | Ho quasi paura di restare [[Alone\|solo]] 10<br>qui nel cimitero, eppure rischierò.<br>Si nasconde a distanza da [[Paris\|Paride]] |
+| [[Paris\|PARIDE]] | (spargendo [[Flowers\|fiori]])<br>Dolce fiore, di [[Flowers\|fiori]] cospargo il tuo letto nuziale.<br>Asperge l’[[Water\|acqua]]<br>O dolore! Il tuo baldacchino è [[Dust\|polvere]] e pietre,<br>che ogni notte irrorerò di dolce [[Water\|acqua]],<br>o, in mancanza d’essa, di [[Tears\|lacrime]] distillate dai gemiti.<br>Le esequie che per te celebrerò<br>saranno ogni notte cospargere la tua [[Grave\|tomba]] e piangere.<br>Il paggio fischia<br>Il ragazzo avverte. Qualcosa s’avvicina.<br>Quale piede maledetto vaga da questa parte stanotte<br>ad [[Cross\|attraversare]] le mie esequie e il rito del vero [[Love\|amore]]? 20 |
 | *(didascalia)* | Entrano [[Romeo]] e Baldassarre suo servo, con una torcia, una zappa e una leva di ferro |
-| [[Paris|PARIDE]] | Come, con una torcia? Avvolgimi, [[Night|notte]], per un poco.<br>Si mette in disparte |
-| [[Romeo|ROMEO]] | Dammi quella zappa e il ferro da divellere.<br>Ecco, prendi questa lettera. Domattina presto<br>bada di consegnarla al mio signore e padre.<br>Dammi la luce. Sulla tua vita ti comando, 25<br>qualunque cosa tu senta o veda, di startene ben lontano,<br>e di non interrompermi nel mio corso.<br>Se discendo in questo letto di [[Death|morte]]<br>è in parte per contemplare il volto della mia dama,<br>ma soprattutto per togliere di là dal suo dito morto<br>un anello prezioso, un anello che devo usare<br>in caro impiego. Perciò via di qui, vattene.<br>Ma se tu, sospettoso, tornerai a spiare<br>ciò che oltre intenderò fare,<br>per il cielo, ti farò a pezzi giuntura per giuntura,<br>e cospargerò questo cimitero affamato con le tue membra.<br>Il [[Time|tempo]] e i miei intenti sono selvaggiamente feroci,<br>assai più fieri e più inesorabili<br>di tigri digiune o del mare ruggente. |
+| [[Paris\|PARIDE]] | Come, con una torcia? Avvolgimi, [[Night\|notte]], per un poco.<br>Si mette in disparte |
+| [[Romeo\|ROMEO]] | Dammi quella zappa e il ferro da divellere.<br>Ecco, prendi questa lettera. Domattina presto<br>bada di consegnarla al mio signore e padre.<br>Dammi la luce. Sulla tua vita ti comando, 25<br>qualunque cosa tu senta o veda, di startene ben lontano,<br>e di non interrompermi nel mio corso.<br>Se discendo in questo letto di [[Death\|morte]]<br>è in parte per contemplare il volto della mia dama,<br>ma soprattutto per togliere di là dal suo dito morto<br>un anello prezioso, un anello che devo usare<br>in caro impiego. Perciò via di qui, vattene.<br>Ma se tu, sospettoso, tornerai a spiare<br>ciò che oltre intenderò fare,<br>per il cielo, ti farò a pezzi giuntura per giuntura,<br>e cospargerò questo cimitero affamato con le tue membra.<br>Il [[Time\|tempo]] e i miei intenti sono selvaggiamente feroci,<br>assai più fieri e più inesorabili<br>di tigri digiune o del mare ruggente. |
 | *(didascalia)* | BALDASSARRE |
-| [[Romeo|ROMEO]] | Me ne andrò, signore, e non vi disturberò. 40 |
-| [[Romeo|ROMEO]] | Così mi mostrerai [[Friendship|amicizia]]. Prendi questo.<br>Gli dà del denaro<br>Vivi e prospera, e addio, buon compagno. |
+| [[Romeo\|ROMEO]] | Me ne andrò, signore, e non vi disturberò. 40 |
+| [[Romeo\|ROMEO]] | Così mi mostrerai [[Friendship\|amicizia]]. Prendi questo.<br>Gli dà del denaro<br>Vivi e prospera, e addio, buon compagno. |
 | *(didascalia)* | BALDASSARRE (a parte) |
-| [[Romeo|ROMEO]] | Con tutto ciò, mi nasconderò qui d’intorno. Il suo aspetto [[Fear|temo]], e dei suoi intenti [[Doubt|dubito]]. |
+| [[Romeo\|ROMEO]] | Con tutto ciò, mi nasconderò qui d’intorno. Il suo aspetto [[Fear\|temo]], e dei suoi intenti [[Doubt\|dubito]]. |
 | *(didascalia)* | Si nasconde a distanza da [[Romeo]]. [[Romeo]] comincia a forzare le tombe |
-| [[Romeo|ROMEO]] | Tu detestabile ventre, tu grembo della [[Death|morte]],<br>ingozzato del più caro boccone della terra,<br>così costringo le tue putride mascelle ad aprirsi,<br>e per dispetto ti rimpinzerò d’altro cibo. |
-| [[Paris|PARIDE]] | (a parte)<br>Questo è quel bandito e altero Montecchi<br>che assassinò il cugino del mio [[Love|amore]], per il qual dolore<br>si suppone che la bella creatura sia morta;<br>ed è venuto qui a fare qualche scellerato oltraggio<br>ai corpi morti. Voglio arrestarlo. |
+| [[Romeo\|ROMEO]] | Tu detestabile ventre, tu grembo della [[Death\|morte]],<br>ingozzato del più caro boccone della terra,<br>così costringo le tue putride mascelle ad aprirsi,<br>e per dispetto ti rimpinzerò d’altro cibo. |
+| [[Paris\|PARIDE]] | (a parte)<br>Questo è quel bandito e altero Montecchi<br>che assassinò il cugino del mio [[Love\|amore]], per il qual dolore<br>si suppone che la bella creatura sia morta;<br>ed è venuto qui a fare qualche scellerato oltraggio<br>ai corpi morti. Voglio arrestarlo. |
 | *(didascalia)* | Sguainando Ferma la tua opera profana, vile Montecchi! |
-| [[Paris|PARIDE]] | Può la vendetta essere spinta oltre la [[Death|morte]]? 55<br>[[Villain|Scellerato]] condannato, io ti arresto.<br>Obbedisci e vieni con me, ché devi morire. |
-| [[Romeo|ROMEO]] | Devo davvero, e perciò son venuto qui.<br>Buon gentile giovane, non tentare un uomo disperato.<br>Fuggi di qui, e lasciami. Pensa a questi che se ne sono andati. 60<br>Che ti spaventino. Ti supplico, giovane,<br>non mettere un altro peccato sul mio capo<br>spingendomi al furore. Oh, vattene.<br>Per il cielo, ti [[Love|amo]] più di me stesso,<br>ché vengo qui armato contro me stesso. 65<br>Non restare, vattene. Vivi, e d’ora innanzi di’<br>che la [[Mercy|pietà]] d’un pazzo ti ordinò di fuggire. |
-| [[Paris|PARIDE]] | Io sfido i tuoi scongiuri,<br>e ti arresto qui come fellone. |
-| [[Romeo|ROMEO]] | (sguainando)<br>Vuoi provocarmi? E allora a te, ragazzo. 70<br>Combattono |
+| [[Paris\|PARIDE]] | Può la vendetta essere spinta oltre la [[Death\|morte]]? 55<br>[[Villain\|Scellerato]] condannato, io ti arresto.<br>Obbedisci e vieni con me, ché devi morire. |
+| [[Romeo\|ROMEO]] | Devo davvero, e perciò son venuto qui.<br>Buon gentile giovane, non tentare un uomo disperato.<br>Fuggi di qui, e lasciami. Pensa a questi che se ne sono andati. 60<br>Che ti spaventino. Ti supplico, giovane,<br>non mettere un altro peccato sul mio capo<br>spingendomi al furore. Oh, vattene.<br>Per il cielo, ti [[Love\|amo]] più di me stesso,<br>ché vengo qui armato contro me stesso. 65<br>Non restare, vattene. Vivi, e d’ora innanzi di’<br>che la [[Mercy\|pietà]] d’un pazzo ti ordinò di fuggire. |
+| [[Paris\|PARIDE]] | Io sfido i tuoi scongiuri,<br>e ti arresto qui come fellone. |
+| [[Romeo\|ROMEO]] | (sguainando)<br>Vuoi provocarmi? E allora a te, ragazzo. 70<br>Combattono |
 | *(didascalia)* | PAGGIO |
-| [[Romeo|ROMEO]] | O Signore, si battono! Io vado a chiamare la guardia. Esce |
-| [[Paris|PARIDE]] | Oh, sono ucciso! Se sei misericordioso,<br>apri la tomba, deponimi accanto a [[Juliet|Giulietta]]. |
-| [[Romeo|ROMEO]] | In [[Faith|fede]] mia, lo farò. [[Paris|Paride]] muore<br>Lascia ch’io esamini questo volto.<br>Il congiunto di [[Mercutio|Mercuzio]], il nobile conte [[Paris|Paride]]! 75<br>Che disse il mio servo quando la mia [[Soul|anima]] sconvolta<br>non gli badava mentre cavalcavamo? Credo<br>mi dicesse che [[Paris|Paride]] doveva sposare [[Juliet|Giulietta]].<br>Non disse così? O l’ho sognato?<br>O sono pazzo, e udendolo parlare di [[Juliet|Giulietta]], 80<br>ho creduto che fosse così? Oh, dammi la tua mano,<br>tu iscritto con me nel libro dell’amara sventura.<br>Ti seppellirò in una [[Grave|tomba]] trionfale. |
-| *(didascalia)* | Apre la tomba, rivelando [[Juliet|Giulietta]] |
-| [[Romeo|ROMEO]] | Una [[Grave|tomba]]—oh no, una lanterna, giovane ucciso,<br>ché qui giace [[Juliet|Giulietta]], e la sua [[Beauty|bellezza]] fa<br>di questa cripta una sala di festa piena di luce. |
-| *(didascalia)* | Porta il [[Body|corpo]] di [[Paris|Paride]] nella tomba |
-| [[Romeo|ROMEO]] | [[Death|Morte]], giaci tu là, sepolta da un morto.<br>Quante volte, quando gli uomini sono in punto di [[Death|morte]],<br>sono stati allegri, e ciò i loro custodi chiamano<br>un [[Lightning|lampo]] prima della [[Death|morte]]! Oh, come posso io 90<br>chiamare questo un [[Lightning|lampo]]? O mio [[Love|amore]], mia sposa!<br>La [[Death|Morte]], che ha succhiato il miele del tuo respiro,<br>non ha ancora avuto potere sulla tua [[Beauty|bellezza]].<br>Non sei stata vinta. L’insegna della [[Beauty|Bellezza]] è ancora<br>cremisi sulle tue labbra e sulle tue guance,<br>e la pallida [[Flag|bandiera]] della [[Death|morte]] non è là innalzata.<br>[[Tybalt|Tebaldo]], giaci tu là nel tuo lenzuolo insanguinato?<br>Oh, quale maggior favore posso farti<br>che con quella stessa mano che tagliò in due la tua giovinezza<br>troncare quella di colui che fu tuo nemico?<br>Perdonami, cugino. Ah, cara [[Juliet|Giulietta]],<br>perché sei ancora così bella? Devo credere<br>che la [[Death|morte]] incorporea sia innamorata,<br>e che il magro aborrito [[Monster|mostro]] ti tenga<br>qui nel buio per essere la sua amante? 105<br>Per [[Fear|paura]] di ciò resterò per sempre con te,<br>e da questo giaciglio di fosca [[Night|notte]]<br>non partirò mai più. Qui, qui rimarrò<br>coi vermi che sono le tue cameriere. Oh, qui<br>porrò il mio eterno riposo, 110<br>e scuoterò il giogo delle [[Stars|stelle]] infauste<br>da questa carne stanca del mondo. Occhi, guardate per l’ultima volta.<br>Braccia, prendete il vostro ultimo abbraccio, e labbra, o voi<br>porte del respiro, suggellate con un bacio giusto<br>un patto senza scadenza con la [[Death|morte]] che tutto assorbe. |
-| *(didascalia)* | Bacia [[Juliet|Giulietta]], poi versa il [[Poison|veleno]] nella coppa |
-| [[Romeo|ROMEO]] | Vieni, amara scorta, vieni, sgradevole guida,<br>tu disperato pilota, ora d’un colpo lancia<br>sugli scogli frangenti la tua barca stanca e nauseata!<br>Ecco, al mio [[Love|amore]].<br>Beve il [[Poison|veleno]]<br>O speziale sincero,<br>le tue droghe sono rapide! Così con un bacio muoio.<br>Bacia [[Juliet|Giulietta]], cade e muore. |
-| *(didascalia)* | Entra [[Friar Laurence|Frate Lorenzo]] con lanterna, leva e vanga |
-| [[Friar Laurence|FRATE LORENZO]] | San Francesco mi dia [[Speed|aiuto]]! Quante volte stanotte<br>i miei vecchi piedi sono inciampati nelle fosse? Chi è là? |
-| BALDASSARRE | Eccone uno, un amico, e uno che vi conosce [[Well|bene]]. |
-| [[Friar Laurence|FRATE LORENZO]] | Sia benedizione su di voi. Ditemi, mio buon amico,<br>che torcia è quella laggiù che invano presta la sua luce 125<br>a vermi e a teschi senz’occhi? Per quanto discerno,<br>arde nel monumento dei Capuleti. |
-| BALDASSARRE | Proprio così, santo signore, e là c’è il mio padrone,<br>uno che voi [[Love|amate]]. |
-| [[Friar Laurence|FRATE LORENZO]] | Chi è? |
+| [[Romeo\|ROMEO]] | O Signore, si battono! Io vado a chiamare la guardia. Esce |
+| [[Paris\|PARIDE]] | Oh, sono ucciso! Se sei misericordioso,<br>apri la tomba, deponimi accanto a [[Juliet\|Giulietta]]. |
+| [[Romeo\|ROMEO]] | In [[Faith\|fede]] mia, lo farò. [[Paris\|Paride]] muore<br>Lascia ch’io esamini questo volto.<br>Il congiunto di [[Mercutio\|Mercuzio]], il nobile conte [[Paris\|Paride]]! 75<br>Che disse il mio servo quando la mia [[Soul\|anima]] sconvolta<br>non gli badava mentre cavalcavamo? Credo<br>mi dicesse che [[Paris\|Paride]] doveva sposare [[Juliet\|Giulietta]].<br>Non disse così? O l’ho sognato?<br>O sono pazzo, e udendolo parlare di [[Juliet\|Giulietta]], 80<br>ho creduto che fosse così? Oh, dammi la tua mano,<br>tu iscritto con me nel libro dell’amara sventura.<br>Ti seppellirò in una [[Grave\|tomba]] trionfale. |
+| *(didascalia)* | Apre la tomba, rivelando [[Juliet\|Giulietta]] |
+| [[Romeo\|ROMEO]] | Una [[Grave\|tomba]]—oh no, una lanterna, giovane ucciso,<br>ché qui giace [[Juliet\|Giulietta]], e la sua [[Beauty\|bellezza]] fa<br>di questa cripta una sala di festa piena di luce. |
+| *(didascalia)* | Porta il [[Body\|corpo]] di [[Paris\|Paride]] nella tomba |
+| [[Romeo\|ROMEO]] | [[Death\|Morte]], giaci tu là, sepolta da un morto.<br>Quante volte, quando gli uomini sono in punto di [[Death\|morte]],<br>sono stati allegri, e ciò i loro custodi chiamano<br>un [[Lightning\|lampo]] prima della [[Death\|morte]]! Oh, come posso io 90<br>chiamare questo un [[Lightning\|lampo]]? O mio [[Love\|amore]], mia sposa!<br>La [[Death\|Morte]], che ha succhiato il miele del tuo respiro,<br>non ha ancora avuto potere sulla tua [[Beauty\|bellezza]].<br>Non sei stata vinta. L’insegna della [[Beauty\|Bellezza]] è ancora<br>cremisi sulle tue labbra e sulle tue guance,<br>e la pallida [[Flag\|bandiera]] della [[Death\|morte]] non è là innalzata.<br>[[Tybalt\|Tebaldo]], giaci tu là nel tuo lenzuolo insanguinato?<br>Oh, quale maggior favore posso farti<br>che con quella stessa mano che tagliò in due la tua giovinezza<br>troncare quella di colui che fu tuo nemico?<br>Perdonami, cugino. Ah, cara [[Juliet\|Giulietta]],<br>perché sei ancora così bella? Devo credere<br>che la [[Death\|morte]] incorporea sia innamorata,<br>e che il magro aborrito [[Monster\|mostro]] ti tenga<br>qui nel buio per essere la sua amante? 105<br>Per [[Fear\|paura]] di ciò resterò per sempre con te,<br>e da questo giaciglio di fosca [[Night\|notte]]<br>non partirò mai più. Qui, qui rimarrò<br>coi vermi che sono le tue cameriere. Oh, qui<br>porrò il mio eterno riposo, 110<br>e scuoterò il giogo delle [[Stars\|stelle]] infauste<br>da questa carne stanca del mondo. Occhi, guardate per l’ultima volta.<br>Braccia, prendete il vostro ultimo abbraccio, e labbra, o voi<br>porte del respiro, suggellate con un bacio giusto<br>un patto senza scadenza con la [[Death\|morte]] che tutto assorbe. |
+| *(didascalia)* | Bacia [[Juliet\|Giulietta]], poi versa il [[Poison\|veleno]] nella coppa |
+| [[Romeo\|ROMEO]] | Vieni, amara scorta, vieni, sgradevole guida,<br>tu disperato pilota, ora d’un colpo lancia<br>sugli scogli frangenti la tua barca stanca e nauseata!<br>Ecco, al mio [[Love\|amore]].<br>Beve il [[Poison\|veleno]]<br>O speziale sincero,<br>le tue droghe sono rapide! Così con un bacio muoio.<br>Bacia [[Juliet\|Giulietta]], cade e muore. |
+| *(didascalia)* | Entra [[Friar Laurence\|Frate Lorenzo]] con lanterna, leva e vanga |
+| [[Friar Laurence\|FRATE LORENZO]] | San Francesco mi dia [[Speed\|aiuto]]! Quante volte stanotte<br>i miei vecchi piedi sono inciampati nelle fosse? Chi è là? |
+| BALDASSARRE | Eccone uno, un amico, e uno che vi conosce [[Well\|bene]]. |
+| [[Friar Laurence\|FRATE LORENZO]] | Sia benedizione su di voi. Ditemi, mio buon amico,<br>che torcia è quella laggiù che invano presta la sua luce 125<br>a vermi e a teschi senz’occhi? Per quanto discerno,<br>arde nel monumento dei Capuleti. |
+| BALDASSARRE | Proprio così, santo signore, e là c’è il mio padrone,<br>uno che voi [[Love\|amate]]. |
+| [[Friar Laurence\|FRATE LORENZO]] | Chi è? |
 | BALDASSARRE | [[Romeo]]. |
-| [[Friar Laurence|FRATE LORENZO]] | Da quanto tempo è là? |
+| [[Friar Laurence\|FRATE LORENZO]] | Da quanto tempo è là? |
 | BALDASSARRE | Da una buona mezz’ora. |
-| [[Friar Laurence|FRATE LORENZO]] | Vieni con me alla cripta. |
-| BALDASSARRE | Non oso, signore.<br>Il mio padrone crede che io me ne sia andato di qui,<br>e mi minacciò spaventosamente di [[Death|morte]]<br>se fossi rimasto a osservare i suoi intenti. |
-| [[Friar Laurence|FRATE LORENZO]] | Resta allora, andrò [[Alone|solo]]. La [[Fear|paura]] mi assale. 135<br>Oh, molto [[Fear|temo]] qualche funesta disgrazia. |
-| BALDASSARRE | Mentre [[Sleep|dormivo]] qui sotto questo tasso<br>sognai che il mio padrone e un altro si battevano,<br>e che il mio padrone lo uccideva. |
-| [[Friar Laurence|FRATE LORENZO]] | [[Romeo]]! |
-| *(didascalia)* | Si china e guarda il [[Blood|sangue]] e le armi |
-| [[Friar Laurence|FRATE LORENZO]] | Ahimè, ahimè, che [[Blood|sangue]] è questo che macchia 140<br>l’entrata di pietra di questo sepolcro?<br>Che significano queste spade senza padrone e insanguinate<br>giacere scolorite presso questo luogo di pace?<br>[[Romeo]]! Oh, pallido! E chi altri? Come, anche [[Paris|Paride]],<br>e intriso di [[Blood|sangue]]? Ah, quale ora crudele<br>è colpevole di questo lamentevole caso! |
-| *(didascalia)* | [[Juliet|Giulietta]] si desta e si alza |
-| [[Friar Laurence|FRATE LORENZO]] | La dama si muove. |
-| [[Juliet|GIULIETTA]] | O confortante frate, dov’è il mio signore?<br>Ricordo [[Well|bene]] dove dovrei essere,<br>e là sono. Dov’è il mio [[Romeo]]? 150 |
-| [[Friar Laurence|FRATE LORENZO]] | Odo un rumore. Signora, venite via da quel nido<br>di [[Death|morte]], di contagio e d’innaturale [[Sleep|sonno]].<br>Un potere più grande di quanto possiamo contraddire<br>ha sventato i nostri intenti. Venite, venite via.<br>Vostro marito là nel vostro seno giace morto, 155<br>e anche [[Paris|Paride]]. Venite, vi collocherò<br>in una sorellanza di sante monache.<br>Non fermatevi a far domande, ché la guardia sta venendo.<br>Venite, andiamo, buona [[Juliet|Giulietta]]. Non oso restare più a lungo. Esce |
-| [[Juliet|GIULIETTA]] | Va’, vattene di qui, ché io non me ne andrò. 160<br>Che c’è qui? Una coppa stretta nella mano del mio vero [[Love|amore]]?<br>Il [[Poison|veleno]], vedo, è stato la sua fine anzitempo.<br>Oh, spilorcio!—bevuto tutto, e non lasciata una goccia amica<br>per aiutarmi a seguirti? Bacerò le tue labbra.<br>Forse vi resta appeso ancora un po’ di [[Poison|veleno]],<br>per farmi morire con un ristoro.<br>Bacia le labbra di [[Romeo]]<br>Le tue labbra son calde. |
+| [[Friar Laurence\|FRATE LORENZO]] | Vieni con me alla cripta. |
+| BALDASSARRE | Non oso, signore.<br>Il mio padrone crede che io me ne sia andato di qui,<br>e mi minacciò spaventosamente di [[Death\|morte]]<br>se fossi rimasto a osservare i suoi intenti. |
+| [[Friar Laurence\|FRATE LORENZO]] | Resta allora, andrò [[Alone\|solo]]. La [[Fear\|paura]] mi assale. 135<br>Oh, molto [[Fear\|temo]] qualche funesta disgrazia. |
+| BALDASSARRE | Mentre [[Sleep\|dormivo]] qui sotto questo tasso<br>sognai che il mio padrone e un altro si battevano,<br>e che il mio padrone lo uccideva. |
+| [[Friar Laurence\|FRATE LORENZO]] | [[Romeo]]! |
+| *(didascalia)* | Si china e guarda il [[Blood\|sangue]] e le armi |
+| [[Friar Laurence\|FRATE LORENZO]] | Ahimè, ahimè, che [[Blood\|sangue]] è questo che macchia 140<br>l’entrata di pietra di questo sepolcro?<br>Che significano queste spade senza padrone e insanguinate<br>giacere scolorite presso questo luogo di pace?<br>[[Romeo]]! Oh, pallido! E chi altri? Come, anche [[Paris\|Paride]],<br>e intriso di [[Blood\|sangue]]? Ah, quale ora crudele<br>è colpevole di questo lamentevole caso! |
+| *(didascalia)* | [[Juliet\|Giulietta]] si desta e si alza |
+| [[Friar Laurence\|FRATE LORENZO]] | La dama si muove. |
+| [[Juliet\|GIULIETTA]] | O confortante frate, dov’è il mio signore?<br>Ricordo [[Well\|bene]] dove dovrei essere,<br>e là sono. Dov’è il mio [[Romeo]]? 150 |
+| [[Friar Laurence\|FRATE LORENZO]] | Odo un rumore. Signora, venite via da quel nido<br>di [[Death\|morte]], di contagio e d’innaturale [[Sleep\|sonno]].<br>Un potere più grande di quanto possiamo contraddire<br>ha sventato i nostri intenti. Venite, venite via.<br>Vostro marito là nel vostro seno giace morto, 155<br>e anche [[Paris\|Paride]]. Venite, vi collocherò<br>in una sorellanza di sante monache.<br>Non fermatevi a far domande, ché la guardia sta venendo.<br>Venite, andiamo, buona [[Juliet\|Giulietta]]. Non oso restare più a lungo. Esce |
+| [[Juliet\|GIULIETTA]] | Va’, vattene di qui, ché io non me ne andrò. 160<br>Che c’è qui? Una coppa stretta nella mano del mio vero [[Love\|amore]]?<br>Il [[Poison\|veleno]], vedo, è stato la sua fine anzitempo.<br>Oh, spilorcio!—bevuto tutto, e non lasciata una goccia amica<br>per aiutarmi a seguirti? Bacerò le tue labbra.<br>Forse vi resta appeso ancora un po’ di [[Poison\|veleno]],<br>per farmi morire con un ristoro.<br>Bacia le labbra di [[Romeo]]<br>Le tue labbra son calde. |
 | *(didascalia)* | CAPO DELLA GUARDIA dall’interno Guida, ragazzo. Da che parte? |
-| [[Juliet|GIULIETTA]] | Ah, rumore? Allora sarò breve.<br>Prende il pugnale di [[Romeo]]<br>O felice pugnale,<br>questo è il tuo fodero! Là arrugginisci, e lasciami morire.<br>Si pugnala, cade e muore. |
+| [[Juliet\|GIULIETTA]] | Ah, rumore? Allora sarò breve.<br>Prende il pugnale di [[Romeo]]<br>O felice pugnale,<br>questo è il tuo fodero! Là arrugginisci, e lasciami morire.<br>Si pugnala, cade e muore. |
 | *(didascalia)* | Entrano il paggio e le guardie |
 | *(didascalia)* | PAGGIO |
-| [[Juliet|GIULIETTA]] | Questo è il luogo, là dove arde la torcia. 170 |
+| [[Juliet\|GIULIETTA]] | Questo è il luogo, là dove arde la torcia. 170 |
 | CAPO DELLA GUARDIA | Il terreno è insanguinato. Cercate per il cimitero.<br>Andate, alcuni di voi. Chiunque troviate, arrestatelo. |
 | *(didascalia)* | Escono alcune guardie |
-| CAPO DELLA GUARDIA | Spettacolo pietoso! Qui giace il conte ucciso,<br>e [[Juliet|Giulietta]] sanguinante, calda, e morta di fresco,<br>lei che qui giaceva sepolta da due giorni.<br>Andate a dirlo al Principe. Correte dai Capuleti,<br>svegliate i Montecchi. Altri cerchino. |
+| CAPO DELLA GUARDIA | Spettacolo pietoso! Qui giace il conte ucciso,<br>e [[Juliet\|Giulietta]] sanguinante, calda, e morta di fresco,<br>lei che qui giaceva sepolta da due giorni.<br>Andate a dirlo al Principe. Correte dai Capuleti,<br>svegliate i Montecchi. Altri cerchino. |
 | *(didascalia)* | Escono altre guardie da parti opposte |
 | CAPO DELLA GUARDIA | Vediamo il terreno su cui giacciono questi dolori,<br>ma il vero fondamento di tutti questi pietosi dolori<br>non lo possiamo scorgere senza indagine. |
 | *(didascalia)* | Entrano guardie con Baldassarre |
 | *(didascalia)* | SECONDA GUARDIA |
 | CAPO DELLA GUARDIA | Ecco il servo di [[Romeo]]. L’abbiamo trovato nel cimitero. |
 | CAPO DELLA GUARDIA | Tenetelo in custodia finché il Principe giunga qui. |
-| *(didascalia)* | Entra un’altra guardia con [[Friar Laurence|Frate Lorenzo]] |
+| *(didascalia)* | Entra un’altra guardia con [[Friar Laurence\|Frate Lorenzo]] |
 | TERZA GUARDIA | Ecco un frate che trema, sospira e piange.<br>Gli abbiamo tolto questa zappa e questa vanga<br>mentre veniva dal lato di questo cimitero. |
 | CAPO DELLA GUARDIA | Grave sospetto. Trattenete anche il frate. |
 | *(didascalia)* | Entra il Principe con altri |
 | PRINCIPE | Quale sventura è così presto in piedi<br>da chiamare la nostra persona dal riposo mattutino? |
-| *(didascalia)* | Entrano [[Capulet|Capuleti]] e sua moglie |
-| [[Capulet|CAPULETI]] | Che cosa può essere ciò che si grida così là fuori? |
-| LA MOGLIE DI [[Capulet|CAPULETI]] | Oh, la gente per la strada grida ‘[[Romeo]]’,<br>alcuni ‘[[Juliet|Giulietta]]’, e altri ‘[[Paris|Paride]]’, e tutti corrono<br>con aperto clamore verso il nostro monumento. |
-| PRINCIPE | Che [[Fear|spavento]] è questo che risuona nei nostri orecchi? |
-| CAPO DELLA GUARDIA | Sovrano, qui giace il conte [[Paris|Paride]] ucciso,<br>e [[Romeo]] morto, e [[Juliet|Giulietta]], morta prima,<br>calda, e uccisa di fresco. |
+| *(didascalia)* | Entrano [[Capulet\|Capuleti]] e sua moglie |
+| [[Capulet\|CAPULETI]] | Che cosa può essere ciò che si grida così là fuori? |
+| LA MOGLIE DI [[Capulet\|CAPULETI]] | Oh, la gente per la strada grida ‘[[Romeo]]’,<br>alcuni ‘[[Juliet\|Giulietta]]’, e altri ‘[[Paris\|Paride]]’, e tutti corrono<br>con aperto clamore verso il nostro monumento. |
+| PRINCIPE | Che [[Fear\|spavento]] è questo che risuona nei nostri orecchi? |
+| CAPO DELLA GUARDIA | Sovrano, qui giace il conte [[Paris\|Paride]] ucciso,<br>e [[Romeo]] morto, e [[Juliet\|Giulietta]], morta prima,<br>calda, e uccisa di fresco. |
 | PRINCIPE | Cercate, indagate, e sappiate come avvenne questo turpe assassinio. |
 | CAPO DELLA GUARDIA | Ecco un frate, e il servo dell’ucciso [[Romeo]],<br>con addosso strumenti adatti ad aprire<br>le tombe di questi morti. |
-| [[Capulet|CAPULETI]] | O cieli! O moglie, guarda come sanguina nostra figlia!<br>Questo pugnale ha sbagliato, ché ecco, la sua [[house|casa]]<br>è vuota sul dorso del Montecchi,<br>e ha sbagliato fodero nel seno di mia figlia. |
-| LA MOGLIE DI [[Capulet|CAPULETI]] | Ahimè, questa vista della [[Death|morte]] è come una campana 205<br>che chiama la mia vecchiaia al sepolcro. |
+| [[Capulet\|CAPULETI]] | O cieli! O moglie, guarda come sanguina nostra figlia!<br>Questo pugnale ha sbagliato, ché ecco, la sua [[house\|casa]]<br>è vuota sul dorso del Montecchi,<br>e ha sbagliato fodero nel seno di mia figlia. |
+| LA MOGLIE DI [[Capulet\|CAPULETI]] | Ahimè, questa vista della [[Death\|morte]] è come una campana 205<br>che chiama la mia vecchiaia al sepolcro. |
 | *(didascalia)* | Entra Montecchi |
 | PRINCIPE | Venite, Montecchi, ché siete alzato presto<br>per veder vostro figlio ed erede ancor più presto disteso. |
-| MONTECCHI | Ahimè, mio sovrano, mia moglie è morta stanotte.<br>Il dolore dell’[[Exile|esilio]] di mio figlio le ha mozzato il respiro. 210<br>Quale altro dolore cospira contro la mia vecchiaia? |
+| MONTECCHI | Ahimè, mio sovrano, mia moglie è morta stanotte.<br>Il dolore dell’[[Exile\|esilio]] di mio figlio le ha mozzato il respiro. 210<br>Quale altro dolore cospira contro la mia vecchiaia? |
 | PRINCIPE | Guardate, e vedrete. |
-| MONTECCHI | (vedendo il [[Body|corpo]] di [[Romeo]])<br>O tu, screanzato! Che maniere son queste,<br>di precedere tuo padre in una [[Grave|tomba]]? |
-| PRINCIPE | Suggellate per un poco la bocca dello sdegno, 215<br>finché possiamo chiarire queste ambiguità<br>e conoscerne la [[spring|sorgente]], la testa, la vera discendenza;<br>e allora sarò io il generale dei vostri dolori,<br>e vi condurrò fino alla [[Death|morte]]. Frattanto, trattenetevi,<br>e la sciagura sia serva della pazienza. 220<br>Conducete avanti le persone sospette. |
-| [[Friar Laurence|FRATE LORENZO]] | Io sono il maggiore, capace di far meno,<br>eppure il più sospettato, ché il [[Time|tempo]] e il luogo<br>depongono contro di me, di questo tremendo assassinio;<br>e qui sto, a un tempo per accusare e discolpare<br>me stesso condannato e me stesso scusato. |
+| MONTECCHI | (vedendo il [[Body\|corpo]] di [[Romeo]])<br>O tu, screanzato! Che maniere son queste,<br>di precedere tuo padre in una [[Grave\|tomba]]? |
+| PRINCIPE | Suggellate per un poco la bocca dello sdegno, 215<br>finché possiamo chiarire queste ambiguità<br>e conoscerne la [[spring\|sorgente]], la testa, la vera discendenza;<br>e allora sarò io il generale dei vostri dolori,<br>e vi condurrò fino alla [[Death\|morte]]. Frattanto, trattenetevi,<br>e la sciagura sia serva della pazienza. 220<br>Conducete avanti le persone sospette. |
+| [[Friar Laurence\|FRATE LORENZO]] | Io sono il maggiore, capace di far meno,<br>eppure il più sospettato, ché il [[Time\|tempo]] e il luogo<br>depongono contro di me, di questo tremendo assassinio;<br>e qui sto, a un tempo per accusare e discolpare<br>me stesso condannato e me stesso scusato. |
 | PRINCIPE | Di’ dunque subito ciò che sai di questo. |
-| [[Friar Laurence|FRATE LORENZO]] | Sarò breve, ché il mio breve termine di respiro<br>non è così lungo come un tedioso racconto.<br>[[Romeo]], là morto, era marito di quella [[Juliet|Giulietta]],<br>e lei, là morta, la fedele sposa di quel [[Romeo]].<br>Io li sposai, e il loro furtivo giorno di [[Marriage|nozze]]<br>fu il giorno fatale di [[Tybalt|Tebaldo]], la cui [[Death|morte]] immatura<br>bandì da questa [[City|città]] il novello sposo,<br>per il quale, e non per [[Tybalt|Tebaldo]], [[Juliet|Giulietta]] si struggeva.<br>Voi, per rimuovere da lei quell’assedio di dolore,<br>la prometteste e l’avreste maritata a forza<br>al conte [[Paris|Paride]]. Allora ella viene da me,<br>e con sguardi stravolti mi chiede d’escogitare qualche mezzo<br>per liberarla da questo secondo [[Marriage|matrimonio]],<br>o là nella mia cella si sarebbe uccisa.<br>Allora io le diedi—così ammaestrato dalla mia arte—<br>una pozione soporifera, che fece effetto<br>come intendevo, ché operò su di lei<br>la sembianza della [[Death|morte]]. Frattanto scrissi a [[Romeo]]<br>che venisse qui in questa terribile [[Night|notte]]<br>per aiutare a toglierla dalla sua [[Grave|tomba]] presa a prestito,<br>essendo quello il [[Time|momento]] in cui la forza della pozione doveva cessare.<br>Ma colui che portava la mia lettera, Frate Giovanni,<br>fu trattenuto per caso, e ieri sera 250<br>mi riportò indietro la lettera. Allora tutto [[Alone|solo]],<br>all’ora prefissata del suo risveglio,<br>venni a toglierla dalla cripta dei suoi congiunti,<br>intendendo tenerla nascosta nella mia cella<br>finché potessi comodamente mandare a [[Romeo]].<br>Ma quando giunsi, qualche minuto prima del [[Time|tempo]]<br>del suo risveglio, qui giacevano anzitempo<br>il nobile [[Paris|Paride]] e il fedele [[Romeo]] morti.<br>Ella si desta, e io la pregai di venir fuori<br>e di sopportare con pazienza quest’opera del cielo. 260<br>Ma allora un rumore mi spaventò via dalla tomba,<br>e lei, troppo disperata, non volle venire con me,<br>ma, come pare, fece violenza su se stessa.<br>Tutto questo io so, e del [[Marriage|matrimonio]]<br>la sua [[Nurse|nutrice]] è a parte; e se qualcosa in questo<br>è andato storto per mia colpa, sia la mia vecchia vita<br>sacrificata, qualche ora prima del suo [[Time|tempo]],<br>al rigore della legge più severa. |
+| [[Friar Laurence\|FRATE LORENZO]] | Sarò breve, ché il mio breve termine di respiro<br>non è così lungo come un tedioso racconto.<br>[[Romeo]], là morto, era marito di quella [[Juliet\|Giulietta]],<br>e lei, là morta, la fedele sposa di quel [[Romeo]].<br>Io li sposai, e il loro furtivo giorno di [[Marriage\|nozze]]<br>fu il giorno fatale di [[Tybalt\|Tebaldo]], la cui [[Death\|morte]] immatura<br>bandì da questa [[City\|città]] il novello sposo,<br>per il quale, e non per [[Tybalt\|Tebaldo]], [[Juliet\|Giulietta]] si struggeva.<br>Voi, per rimuovere da lei quell’assedio di dolore,<br>la prometteste e l’avreste maritata a forza<br>al conte [[Paris\|Paride]]. Allora ella viene da me,<br>e con sguardi stravolti mi chiede d’escogitare qualche mezzo<br>per liberarla da questo secondo [[Marriage\|matrimonio]],<br>o là nella mia cella si sarebbe uccisa.<br>Allora io le diedi—così ammaestrato dalla mia arte—<br>una pozione soporifera, che fece effetto<br>come intendevo, ché operò su di lei<br>la sembianza della [[Death\|morte]]. Frattanto scrissi a [[Romeo]]<br>che venisse qui in questa terribile [[Night\|notte]]<br>per aiutare a toglierla dalla sua [[Grave\|tomba]] presa a prestito,<br>essendo quello il [[Time\|momento]] in cui la forza della pozione doveva cessare.<br>Ma colui che portava la mia lettera, Frate Giovanni,<br>fu trattenuto per caso, e ieri sera 250<br>mi riportò indietro la lettera. Allora tutto [[Alone\|solo]],<br>all’ora prefissata del suo risveglio,<br>venni a toglierla dalla cripta dei suoi congiunti,<br>intendendo tenerla nascosta nella mia cella<br>finché potessi comodamente mandare a [[Romeo]].<br>Ma quando giunsi, qualche minuto prima del [[Time\|tempo]]<br>del suo risveglio, qui giacevano anzitempo<br>il nobile [[Paris\|Paride]] e il fedele [[Romeo]] morti.<br>Ella si desta, e io la pregai di venir fuori<br>e di sopportare con pazienza quest’opera del cielo. 260<br>Ma allora un rumore mi spaventò via dalla tomba,<br>e lei, troppo disperata, non volle venire con me,<br>ma, come pare, fece violenza su se stessa.<br>Tutto questo io so, e del [[Marriage\|matrimonio]]<br>la sua [[Nurse\|nutrice]] è a parte; e se qualcosa in questo<br>è andato storto per mia colpa, sia la mia vecchia vita<br>sacrificata, qualche ora prima del suo [[Time\|tempo]],<br>al rigore della legge più severa. |
 | PRINCIPE | Ti abbiamo sempre conosciuto per uomo santo.<br>Dov’è il servo di [[Romeo]]? Che può dire di questo? 270 |
-| BALDASSARRE | Portai al mio padrone la notizia della [[Death|morte]] di [[Juliet|Giulietta]],<br>e allora egli venne in posta da Mantova<br>a questo stesso luogo, a questo stesso monumento.<br>Questa lettera mi ordinò di dare per tempo a suo padre,<br>e mi minacciò di [[Death|morte]], entrando nella cripta,<br>se non me ne fossi andato lasciandolo là. |
+| BALDASSARRE | Portai al mio padrone la notizia della [[Death\|morte]] di [[Juliet\|Giulietta]],<br>e allora egli venne in posta da Mantova<br>a questo stesso luogo, a questo stesso monumento.<br>Questa lettera mi ordinò di dare per tempo a suo padre,<br>e mi minacciò di [[Death\|morte]], entrando nella cripta,<br>se non me ne fossi andato lasciandolo là. |
 | PRINCIPE | Dammi la lettera. La guarderò.<br>Prende la lettera<br>Dov’è il paggio del conte che ha destato la guardia?<br>Messere, che faceva il tuo padrone in questo luogo? |
-| PAGGIO | Venne con [[Flowers|fiori]] a cospargere la [[Grave|tomba]] della sua dama,<br>e mi ordinò di starmene lontano, e così feci.<br>Poco dopo viene uno con un lume ad aprire la tomba,<br>e subito il mio padrone gli si scagliò contro,<br>e allora io corsi via a chiamare la guardia. |
-| PRINCIPE | Questa lettera conferma le parole del frate,<br>il corso del loro [[Love|amore]], la notizia della sua [[Death|morte]];<br>e qui egli scrive che comprò un [[Poison|veleno]]<br>da un povero speziale, e con esso<br>venne a questa cripta per morire, e giacere con [[Juliet|Giulietta]].<br>Dove sono questi nemici? [[Capulet|Capuleti]], Montecchi, 290<br>vedete quale flagello è posto sul vostro odio,<br>ché il cielo trova modo d’uccidere le vostre gioie con l’[[Love|amore]].<br>E io, per aver chiuso un occhio sulle vostre discordie, anch’io<br>ho perduto una coppia di congiunti. Tutti siamo puniti. |
-| [[Capulet|CAPULETI]] | O fratello Montecchi, dammi la tua mano. 295<br>Questa è la dote di mia figlia, ché di più<br>non posso chiedere. |
-| MONTECCHI | Ma io posso darti di più,<br>ché innalzerò la sua statua in oro puro,<br>sicché finché [[Verona]] sarà conosciuta con quel nome<br>nessuna figura sarà stimata a tal prezzo 300<br>quanto quella della vera e fedele [[Juliet|Giulietta]]. |
-| [[Capulet|CAPULETI]] | Altrettanto ricca giacerà quella di [[Romeo]] accanto alla sua dama,<br>poveri sacrifici della nostra inimicizia. |
-| PRINCIPE | Una cupa pace questo mattino porta con sé.<br>Il sole per il dolore non mostrerà il capo. 305<br>Andiamo via di qui, a parlare ancora di queste tristi cose.<br>Alcuni saranno perdonati, e altri puniti;<br>ché mai vi fu storia di maggior dolore<br>di questa di [[Juliet|Giulietta]] e del suo [[Romeo]]. |
+| PAGGIO | Venne con [[Flowers\|fiori]] a cospargere la [[Grave\|tomba]] della sua dama,<br>e mi ordinò di starmene lontano, e così feci.<br>Poco dopo viene uno con un lume ad aprire la tomba,<br>e subito il mio padrone gli si scagliò contro,<br>e allora io corsi via a chiamare la guardia. |
+| PRINCIPE | Questa lettera conferma le parole del frate,<br>il corso del loro [[Love\|amore]], la notizia della sua [[Death\|morte]];<br>e qui egli scrive che comprò un [[Poison\|veleno]]<br>da un povero speziale, e con esso<br>venne a questa cripta per morire, e giacere con [[Juliet\|Giulietta]].<br>Dove sono questi nemici? [[Capulet\|Capuleti]], Montecchi, 290<br>vedete quale flagello è posto sul vostro odio,<br>ché il cielo trova modo d’uccidere le vostre gioie con l’[[Love\|amore]].<br>E io, per aver chiuso un occhio sulle vostre discordie, anch’io<br>ho perduto una coppia di congiunti. Tutti siamo puniti. |
+| [[Capulet\|CAPULETI]] | O fratello Montecchi, dammi la tua mano. 295<br>Questa è la dote di mia figlia, ché di più<br>non posso chiedere. |
+| MONTECCHI | Ma io posso darti di più,<br>ché innalzerò la sua statua in oro puro,<br>sicché finché [[Verona]] sarà conosciuta con quel nome<br>nessuna figura sarà stimata a tal prezzo 300<br>quanto quella della vera e fedele [[Juliet\|Giulietta]]. |
+| [[Capulet\|CAPULETI]] | Altrettanto ricca giacerà quella di [[Romeo]] accanto alla sua dama,<br>poveri sacrifici della nostra inimicizia. |
+| PRINCIPE | Una cupa pace questo mattino porta con sé.<br>Il sole per il dolore non mostrerà il capo. 305<br>Andiamo via di qui, a parlare ancora di queste tristi cose.<br>Alcuni saranno perdonati, e altri puniti;<br>ché mai vi fu storia di maggior dolore<br>di questa di [[Juliet\|Giulietta]] e del suo [[Romeo]]. |
 | *(didascalia)* | La tomba viene chiusa. Escono |
-| PRINCIPE | SOGNO DI UNA [[Night|NOTTE]] DI MEZZA ESTATE |
+| PRINCIPE | SOGNO DI UNA [[Night\|NOTTE]] DI MEZZA ESTATE |

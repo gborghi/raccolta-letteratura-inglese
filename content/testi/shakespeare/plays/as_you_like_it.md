@@ -1111,53 +1111,53 @@ As You Like It
 | Chi parla | Battuta |
 |---|---|
 | *(didascalia)* | Entrano [[Orlando]] e Adamo |
-| [[Orlando|ORLANDO]] | Per quel che ricordo, Adamo, fu in questo modo che mi vennero lasciati per testamento appena mille scudi miseri, e, come tu dici, fu imposto a mio fratello, sulla sua benedizione, di allevarmi [[Well|bene]]—e proprio lì comincia la mia tristezza. Mio fratello [[Jaques]] lo tiene alla scuola, e la fama parla d’oro dei suoi progressi. Quanto a me, mi tiene rozzamente a [[Home|casa]]—o, a parlare più propriamente, mi trattiene qui a [[Home|casa]] senza tenermi affatto; ché chiamate voi custodia, per un gentiluomo della mia nascita, ciò che non differisce dallo stallaggio d’un bue? I suoi cavalli sono allevati meglio, poiché, oltre a essere belli per il nutrimento, son loro insegnate le arti del maneggio, e a tal fine si pagano a caro prezzo i cavallerizzi. Ma io, suo fratello, non guadagno sotto di lui nulla se non la crescita, per la quale gli [[Animals|animali]] dei suoi letamai gli sono obbligati quanto me. Oltre a questo nulla che egli sì generosamente mi dona, il qualcosa che la [[Nature|natura]] mi diede il suo contegno par volermi togliere. Mi fa mangiare coi suoi villani, m’esclude dal posto di fratello, e quanto più può mina la mia nobiltà con la mia [[Education|educazione]]. È questo, Adamo, ciò che m’accora; e lo spirito di mio padre, che credo sia dentro di me, comincia ad ammutinarsi contro questa servitù. Non lo sopporterò più a lungo, benché ancora non conosca saggio rimedio per evitarlo. |
-| *(didascalia)* | Entra [[Oliver|Oliviero]] |
+| [[Orlando\|ORLANDO]] | Per quel che ricordo, Adamo, fu in questo modo che mi vennero lasciati per testamento appena mille scudi miseri, e, come tu dici, fu imposto a mio fratello, sulla sua benedizione, di allevarmi [[Well\|bene]]—e proprio lì comincia la mia tristezza. Mio fratello [[Jaques]] lo tiene alla scuola, e la fama parla d’oro dei suoi progressi. Quanto a me, mi tiene rozzamente a [[Home\|casa]]—o, a parlare più propriamente, mi trattiene qui a [[Home\|casa]] senza tenermi affatto; ché chiamate voi custodia, per un gentiluomo della mia nascita, ciò che non differisce dallo stallaggio d’un bue? I suoi cavalli sono allevati meglio, poiché, oltre a essere belli per il nutrimento, son loro insegnate le arti del maneggio, e a tal fine si pagano a caro prezzo i cavallerizzi. Ma io, suo fratello, non guadagno sotto di lui nulla se non la crescita, per la quale gli [[Animals\|animali]] dei suoi letamai gli sono obbligati quanto me. Oltre a questo nulla che egli sì generosamente mi dona, il qualcosa che la [[Nature\|natura]] mi diede il suo contegno par volermi togliere. Mi fa mangiare coi suoi villani, m’esclude dal posto di fratello, e quanto più può mina la mia nobiltà con la mia [[Education\|educazione]]. È questo, Adamo, ciò che m’accora; e lo spirito di mio padre, che credo sia dentro di me, comincia ad ammutinarsi contro questa servitù. Non lo sopporterò più a lungo, benché ancora non conosca saggio rimedio per evitarlo. |
+| *(didascalia)* | Entra [[Oliver\|Oliviero]] |
 | ADAMO | Là viene il mio padrone, vostro fratello. |
-| [[Orlando|ORLANDO]] | Fatti da parte, Adamo, e udrai come mi strapazzerà.<br>Adamo si tira in disparte |
-| [[Oliver|OLIVIERO]] | Ebbene, signore, che fate voi qui? |
-| [[Orlando|ORLANDO]] | Nulla. Non mi si è insegnato a far nulla. |
-| [[Oliver|OLIVIERO]] | E che guastate allora, signore? |
-| [[Orlando|ORLANDO]] | Per la Vergine, signore, vi aiuto a guastare con l’ozio ciò che Dio fece: un povero indegno fratello vostro. |
-| [[Oliver|OLIVIERO]] | Per la Vergine, signore, impiegatevi meglio, e per un poco fatevi da nulla. |
-| [[Orlando|ORLANDO]] | Devo custodire i vostri porci e mangiar ghiande con loro? Quale eredità da prodigo ho dissipato, per dover giungere a tanta miseria? |
-| [[Oliver|OLIVIERO]] | Sapete dove siete, signore? |
-| [[Orlando|ORLANDO]] | Oh signore, molto [[Well|bene]]: qui nel vostro frutteto. |
-| [[Oliver|OLIVIERO]] | Sapete davanti a chi, signore? |
-| [[Orlando|ORLANDO]] | Sì, meglio di quanto colui davanti al quale sto conosca me. So che siete il mio fratello maggiore, e per la gentile condizione del [[Blood|sangue]] così dovreste conoscermi voi. La cortesia delle genti vi concede d’essermi superiore, in quanto siete il primogenito; ma la stessa tradizione non mi toglie il mio [[Blood|sangue]], fossero pure venti fratelli fra noi. Ho in me tanto di mio padre quanto voi, sebbene confessi che il vostro venire prima di me è più prossimo alla sua reverenza. |
-| [[Oliver|OLIVIERO]] | (assalendolo) Come, ragazzo! |
-| [[Orlando|ORLANDO]] | (afferrandolo per la gola) Via, via, fratello maggiore, siete troppo giovane in questo. |
-| [[Oliver|OLIVIERO]] | Vuoi metter le mani addosso a me, [[Villain|villano]]? |
-| [[Orlando|ORLANDO]] | Non sono un servo della gleba. Sono il figlio più giovane di Sir Rowland de Bois. Egli fu mio padre, ed è tre volte [[Villain|villano]] chi dice che un tal padre generò servi. Se non fossi mio fratello, non toglierei questa mano dalla tua gola finché l’altra non t’avesse strappato la lingua per averlo detto. Hai insultato te stesso. |
+| [[Orlando\|ORLANDO]] | Fatti da parte, Adamo, e udrai come mi strapazzerà.<br>Adamo si tira in disparte |
+| [[Oliver\|OLIVIERO]] | Ebbene, signore, che fate voi qui? |
+| [[Orlando\|ORLANDO]] | Nulla. Non mi si è insegnato a far nulla. |
+| [[Oliver\|OLIVIERO]] | E che guastate allora, signore? |
+| [[Orlando\|ORLANDO]] | Per la Vergine, signore, vi aiuto a guastare con l’ozio ciò che Dio fece: un povero indegno fratello vostro. |
+| [[Oliver\|OLIVIERO]] | Per la Vergine, signore, impiegatevi meglio, e per un poco fatevi da nulla. |
+| [[Orlando\|ORLANDO]] | Devo custodire i vostri porci e mangiar ghiande con loro? Quale eredità da prodigo ho dissipato, per dover giungere a tanta miseria? |
+| [[Oliver\|OLIVIERO]] | Sapete dove siete, signore? |
+| [[Orlando\|ORLANDO]] | Oh signore, molto [[Well\|bene]]: qui nel vostro frutteto. |
+| [[Oliver\|OLIVIERO]] | Sapete davanti a chi, signore? |
+| [[Orlando\|ORLANDO]] | Sì, meglio di quanto colui davanti al quale sto conosca me. So che siete il mio fratello maggiore, e per la gentile condizione del [[Blood\|sangue]] così dovreste conoscermi voi. La cortesia delle genti vi concede d’essermi superiore, in quanto siete il primogenito; ma la stessa tradizione non mi toglie il mio [[Blood\|sangue]], fossero pure venti fratelli fra noi. Ho in me tanto di mio padre quanto voi, sebbene confessi che il vostro venire prima di me è più prossimo alla sua reverenza. |
+| [[Oliver\|OLIVIERO]] | (assalendolo) Come, ragazzo! |
+| [[Orlando\|ORLANDO]] | (afferrandolo per la gola) Via, via, fratello maggiore, siete troppo giovane in questo. |
+| [[Oliver\|OLIVIERO]] | Vuoi metter le mani addosso a me, [[Villain\|villano]]? |
+| [[Orlando\|ORLANDO]] | Non sono un servo della gleba. Sono il figlio più giovane di Sir Rowland de Bois. Egli fu mio padre, ed è tre volte [[Villain\|villano]] chi dice che un tal padre generò servi. Se non fossi mio fratello, non toglierei questa mano dalla tua gola finché l’altra non t’avesse strappato la lingua per averlo detto. Hai insultato te stesso. |
 | ADAMO | (facendosi avanti) Dolci padroni, siate pazienti. Per la memoria di vostro padre, mettetevi d’accordo. |
-| [[Oliver|OLIVIERO]] | (a [[Orlando]]) Lasciami andare, ti dico. |
-| [[Orlando|ORLANDO]] | Non lo farò finché non mi piaccia. Mi ascolterete. Mio padre v’impose nel suo testamento di darmi buona [[Education|educazione]]. Voi m’avete allevato come un contadino, offuscando e nascondendomi ogni qualità da gentiluomo. Lo spirito di mio padre si fa forte in me, e non lo sopporterò più. Perciò concedetemi quegli esercizi che si convengono a un gentiluomo, oppure datemi la povera porzione che mio padre mi lasciò per testamento. Con quella andrò a comprarmi la mia fortuna. |
-| [[Oliver|OLIVIERO]] | E che farai—mendicare, quando l’avrai spesa? [[Well|Bene]], signore, entrate in casa. Non sarò a lungo importunato da voi. Avrete parte di ciò che volete. Vi prego, lasciatemi. |
-| [[Orlando|ORLANDO]] | Non vi offenderò più di quanto mi convenga per il mio bene. |
-| [[Oliver|OLIVIERO]] | (ad Adamo) Andatevene con lui, vecchio cane. |
+| [[Oliver\|OLIVIERO]] | (a [[Orlando]]) Lasciami andare, ti dico. |
+| [[Orlando\|ORLANDO]] | Non lo farò finché non mi piaccia. Mi ascolterete. Mio padre v’impose nel suo testamento di darmi buona [[Education\|educazione]]. Voi m’avete allevato come un contadino, offuscando e nascondendomi ogni qualità da gentiluomo. Lo spirito di mio padre si fa forte in me, e non lo sopporterò più. Perciò concedetemi quegli esercizi che si convengono a un gentiluomo, oppure datemi la povera porzione che mio padre mi lasciò per testamento. Con quella andrò a comprarmi la mia fortuna. |
+| [[Oliver\|OLIVIERO]] | E che farai—mendicare, quando l’avrai spesa? [[Well\|Bene]], signore, entrate in casa. Non sarò a lungo importunato da voi. Avrete parte di ciò che volete. Vi prego, lasciatemi. |
+| [[Orlando\|ORLANDO]] | Non vi offenderò più di quanto mi convenga per il mio bene. |
+| [[Oliver\|OLIVIERO]] | (ad Adamo) Andatevene con lui, vecchio cane. |
 | ADAMO | È ‘vecchio cane’ la mia ricompensa? Verissimo: ho perduto i denti al vostro servizio. Dio sia col mio vecchio padrone, egli non avrebbe pronunciato una tal parola. |
 | *(didascalia)* | Escono [[Orlando]] e Adamo |
-| [[Oliver|OLIVIERO]] | È così davvero? Cominci a crescermi addosso? Curerò la tua rigogliosità, e nemmeno ti darò i mille scudi. Olà, Denis! |
+| [[Oliver\|OLIVIERO]] | È così davvero? Cominci a crescermi addosso? Curerò la tua rigogliosità, e nemmeno ti darò i mille scudi. Olà, Denis! |
 | *(didascalia)* | Entra Denis |
 | DENIS | Chiamava vostra signoria? |
-| [[Oliver|OLIVIERO]] | Non era qui Carlo, il lottatore del Duca, per parlarmi? |
+| [[Oliver\|OLIVIERO]] | Non era qui Carlo, il lottatore del Duca, per parlarmi? |
 | DENIS | Con vostra licenza, è qui alla porta, e chiede insistentemente d’essere ammesso da voi. |
-| [[Oliver|OLIVIERO]] | Fallo entrare. |
+| [[Oliver\|OLIVIERO]] | Fallo entrare. |
 | *(didascalia)* | Esce Denis |
-| [[Oliver|OLIVIERO]] | Sarà un buon mezzo. E domani si tiene la lotta. |
+| [[Oliver\|OLIVIERO]] | Sarà un buon mezzo. E domani si tiene la lotta. |
 | *(didascalia)* | Entra Carlo |
 | CARLO | Buon giorno a vostra signoria. |
-| [[Oliver|OLIVIERO]] | Buon Monsieur Carlo—quali sono le nuove novità alla nuova [[Court|corte]]? |
-| CARLO | Non v’è nuova alla [[Court|corte]], signore, se non la vecchia: e cioè che il vecchio Duca è bandito dal fratello minore, il nuovo Duca, e tre o quattro amorevoli signori si sono posti in volontario [[Exile|esilio]] con lui; le loro terre e rendite arricchiscono il nuovo Duca, il quale perciò dà loro buon permesso d’andar ramingando. |
-| [[Oliver|OLIVIERO]] | Sapete dirmi se [[Rosalind|Rosalinda]], la figlia del Duca, sia bandita col padre? |
-| CARLO | Oh no; ché la figlia del Duca, sua cugina, tanto l’ama, essendo sempre state allevate insieme fin dalla culla, che l’avrebbe seguita nell’[[Exile|esilio]], o sarebbe morta a restare senza di lei. Ella è alla [[Court|corte]], e non meno amata dallo zio della propria figlia; e mai due dame si amarono come quelle. |
-| [[Oliver|OLIVIERO]] | Dove vivrà il vecchio Duca? |
-| CARLO | Dicono che sia già nella foresta d’Ardenne, e con lui molti allegri compagni; e là vivono come l’antico [[Robin Hood]] d’Inghilterra. Dicono che molti giovani gentiluomini accorrano a lui ogni giorno, e lascino scorrere il [[Time|tempo]] spensieratamente, come si faceva nell’età dell’oro. |
-| [[Oliver|OLIVIERO]] | Come, lottate domani davanti al nuovo Duca? |
-| CARLO | Per la Vergine sì, signore, e sono venuto a informarvi d’una cosa. Mi si è dato a intendere, signore, in segreto, che il vostro fratello minore, [[Orlando]], ha intenzione di presentarsi travestito contro di me per tentare una caduta. Domani, signore, io lotto per il mio credito, e chi mi sfugge senza qualche membro rotto se la caverà [[Well|bene]]. Vostro fratello è giovane e tenero, e per l’[[Love|amore]] che ho per voi mi dorrebbe atterrarlo, come dovrei fare per il mio proprio [[Honour|onore]] se egli si presentasse. Perciò, per l’[[Love|amore]] che vi porto, son venuto qui a informarvene, affinché o possiate trattenerlo dal suo proposito, o sopportiate [[Well|bene]] la vergogna in cui incorrerà, essendo cosa cercata da lui stesso e del tutto contro la mia volontà. |
-| [[Oliver|OLIVIERO]] | Carlo, ti ringrazio per il tuo [[Love|amore]] verso di me, che, come vedrai, ricompenserò assai gentilmente. Avevo io stesso notizia del proposito di mio fratello in questo, e con mezzi occulti mi sono adoperato a dissuaderlo; ma egli è risoluto. Ti dirò, Carlo: è il più caparbio giovane di Francia, pieno d’[[Ambition|ambizione]], invidioso emulo delle buone qualità d’ogni uomo, segreto e scellerato macchinatore contro di me, suo fratello naturale. Perciò usa la tua discrezione. Preferirei che tu gli rompessi il collo piuttosto che un dito. E faresti bene a guardartene; ché se tu gli infliggi anche una lieve umiliazione, o se egli non trionfa poderosamente su di te, egli tramerà contro di te col [[Poison|veleno]], t’intrappolerà con qualche traditore artificio, e non ti lascerà finché non t’abbia tolta la vita per qualche via indiretta. Poiché t’assicuro—e quasi con le [[Tears|lacrime]] lo dico—che non v’è oggi al mondo uno così giovane e così scellerato. Parlo di lui solo da fratello, ma se dovessi anatomizzartelo qual è, dovrei arrossire e piangere, e tu impallidire e [[Wonder|stupire]]. |
-| CARLO | Sono di cuore lieto d’esser venuto qui da voi. Se viene domani, gli darò il suo compenso. Se mai se ne va [[Alone|solo]] di nuovo, non lotterò più per un premio. E così Dio conservi vostra signoria. |
-| [[Oliver|OLIVIERO]] | Addio, buon Carlo. Esce Carlo Ora aizzerò questo giocatore. [[Hope|Spero]] di vederne la fine, ché la mia [[Soul|anima]]—e non so perché—nulla odia più di lui. Eppure egli è gentile; mai istruito, e tuttavia dotto; pieno di nobili disegni; da ogni sorta di gente incantevolmente amato; e, in verità, tanto nel cuore del mondo, e specialmente della mia propria gente, che meglio lo conosce, che io ne sono del tutto disprezzato. Ma non sarà così a lungo. Questo lottatore chiarirà tutto. Non resta che spingere il ragazzo colà, cosa di cui vado ora a occuparmi. Esce |
+| [[Oliver\|OLIVIERO]] | Buon Monsieur Carlo—quali sono le nuove novità alla nuova [[Court\|corte]]? |
+| CARLO | Non v’è nuova alla [[Court\|corte]], signore, se non la vecchia: e cioè che il vecchio Duca è bandito dal fratello minore, il nuovo Duca, e tre o quattro amorevoli signori si sono posti in volontario [[Exile\|esilio]] con lui; le loro terre e rendite arricchiscono il nuovo Duca, il quale perciò dà loro buon permesso d’andar ramingando. |
+| [[Oliver\|OLIVIERO]] | Sapete dirmi se [[Rosalind\|Rosalinda]], la figlia del Duca, sia bandita col padre? |
+| CARLO | Oh no; ché la figlia del Duca, sua cugina, tanto l’ama, essendo sempre state allevate insieme fin dalla culla, che l’avrebbe seguita nell’[[Exile\|esilio]], o sarebbe morta a restare senza di lei. Ella è alla [[Court\|corte]], e non meno amata dallo zio della propria figlia; e mai due dame si amarono come quelle. |
+| [[Oliver\|OLIVIERO]] | Dove vivrà il vecchio Duca? |
+| CARLO | Dicono che sia già nella foresta d’Ardenne, e con lui molti allegri compagni; e là vivono come l’antico [[Robin Hood]] d’Inghilterra. Dicono che molti giovani gentiluomini accorrano a lui ogni giorno, e lascino scorrere il [[Time\|tempo]] spensieratamente, come si faceva nell’età dell’oro. |
+| [[Oliver\|OLIVIERO]] | Come, lottate domani davanti al nuovo Duca? |
+| CARLO | Per la Vergine sì, signore, e sono venuto a informarvi d’una cosa. Mi si è dato a intendere, signore, in segreto, che il vostro fratello minore, [[Orlando]], ha intenzione di presentarsi travestito contro di me per tentare una caduta. Domani, signore, io lotto per il mio credito, e chi mi sfugge senza qualche membro rotto se la caverà [[Well\|bene]]. Vostro fratello è giovane e tenero, e per l’[[Love\|amore]] che ho per voi mi dorrebbe atterrarlo, come dovrei fare per il mio proprio [[Honour\|onore]] se egli si presentasse. Perciò, per l’[[Love\|amore]] che vi porto, son venuto qui a informarvene, affinché o possiate trattenerlo dal suo proposito, o sopportiate [[Well\|bene]] la vergogna in cui incorrerà, essendo cosa cercata da lui stesso e del tutto contro la mia volontà. |
+| [[Oliver\|OLIVIERO]] | Carlo, ti ringrazio per il tuo [[Love\|amore]] verso di me, che, come vedrai, ricompenserò assai gentilmente. Avevo io stesso notizia del proposito di mio fratello in questo, e con mezzi occulti mi sono adoperato a dissuaderlo; ma egli è risoluto. Ti dirò, Carlo: è il più caparbio giovane di Francia, pieno d’[[Ambition\|ambizione]], invidioso emulo delle buone qualità d’ogni uomo, segreto e scellerato macchinatore contro di me, suo fratello naturale. Perciò usa la tua discrezione. Preferirei che tu gli rompessi il collo piuttosto che un dito. E faresti bene a guardartene; ché se tu gli infliggi anche una lieve umiliazione, o se egli non trionfa poderosamente su di te, egli tramerà contro di te col [[Poison\|veleno]], t’intrappolerà con qualche traditore artificio, e non ti lascerà finché non t’abbia tolta la vita per qualche via indiretta. Poiché t’assicuro—e quasi con le [[Tears\|lacrime]] lo dico—che non v’è oggi al mondo uno così giovane e così scellerato. Parlo di lui solo da fratello, ma se dovessi anatomizzartelo qual è, dovrei arrossire e piangere, e tu impallidire e [[Wonder\|stupire]]. |
+| CARLO | Sono di cuore lieto d’esser venuto qui da voi. Se viene domani, gli darò il suo compenso. Se mai se ne va [[Alone\|solo]] di nuovo, non lotterò più per un premio. E così Dio conservi vostra signoria. |
+| [[Oliver\|OLIVIERO]] | Addio, buon Carlo. Esce Carlo Ora aizzerò questo giocatore. [[Hope\|Spero]] di vederne la fine, ché la mia [[Soul\|anima]]—e non so perché—nulla odia più di lui. Eppure egli è gentile; mai istruito, e tuttavia dotto; pieno di nobili disegni; da ogni sorta di gente incantevolmente amato; e, in verità, tanto nel cuore del mondo, e specialmente della mia propria gente, che meglio lo conosce, che io ne sono del tutto disprezzato. Ma non sarà così a lungo. Questo lottatore chiarirà tutto. Non resta che spingere il ragazzo colà, cosa di cui vado ora a occuparmi. Esce |
 
 
 
@@ -1339,172 +1339,172 @@ As You Like It
 
 | Chi parla | Battuta |
 |---|---|
-| *(didascalia)* | Entrano [[Rosalind|Rosalinda]] e [[Celia]] |
-| [[Celia|CELIA]] | Ti prego, [[Rosalind|Rosalinda]], dolce cugina mia, sii allegra. |
-| [[Rosalind|ROSALINDA]] | Cara [[Celia]], mostro più letizia di quanta ne sia padrona; e vorresti ancora che fossi più allegra? Se non puoi insegnarmi a dimenticare un padre bandito, non devi ammaestrarmi a ricordare un piacere straordinario. |
-| [[Celia|CELIA]] | In questo vedo che tu non mi ami col peso pieno con cui io ti [[Love|amo]]. Se mio zio, il tuo padre bandito, avesse bandito tuo zio, il Duca mio padre, purché tu fossi rimasta con me, io avrei potuto insegnare al mio [[Love|amore]] a prendere tuo padre per mio. Così faresti tu, se la [[Truth|verità]] del tuo [[Love|amore]] verso di me fosse così rettamente temperata come il mio verso di te. |
-| [[Rosalind|ROSALINDA]] | [[Well|Bene]], dimenticherò la condizione della mia sorte per rallegrarmi della tua. |
-| [[Celia|CELIA]] | Sai che mio padre non ha altro [[Child|figlio]] che me, né è probabile che ne abbia. E in verità, quando egli morrà tu sarai la sua erede; ché ciò che ha tolto per forza a tuo padre, io te lo renderò in affetto. Sul mio [[Honour|onore]] lo farò, e quando romperò quel giuramento, ch’io divenga un [[Monster|mostro]]. Perciò, mia dolce [[Rose|Rosa]], mia cara [[Rose|Rosa]], sii allegra. |
-| [[Rosalind|ROSALINDA]] | D’ora innanzi lo sarò, cugina, e inventerò passatempi. Vediamo: che ne pensi dell’innamorarsi d’[[Love|amore]]? |
-| [[Celia|CELIA]] | Per la Vergine, ti prego, fallo, tanto per scherzarci; ma non [[Love|amare]] nessun uomo sul serio, né per scherzo spingerti più in là di quanto, con la sicurezza d’un puro rossore, tu possa ritrarti con [[Honour|onore]]. |
-| [[Rosalind|ROSALINDA]] | Quale sarà dunque il nostro passatempo? |
-| [[Celia|CELIA]] | Sediamoci e beffiamo quella brava massaia della Fortuna dalla sua [[Wheel|ruota]], affinché d’ora in poi i suoi doni siano distribuiti con equità. |
-| [[Rosalind|ROSALINDA]] | Vorrei che potessimo farlo, ché i suoi benefici sono grandemente mal collocati; e la generosa cieca sbaglia soprattutto nei doni alle donne. |
-| [[Celia|CELIA]] | È vero; ché quelle che fa belle a stento le fa oneste, e quelle che fa oneste le fa assai mal fatte. |
-| [[Rosalind|ROSALINDA]] | No, ora tu passi dall’ufficio della Fortuna a quello della [[Nature|Natura]]. La Fortuna regna sui doni del mondo, non sui lineamenti della [[Nature|natura]]. Entra [[Touchstone]] il buffone |
-| [[Celia|CELIA]] | No. Quando la [[Nature|Natura]] ha fatto una bella creatura, non può forse costei per Fortuna cadere nel [[Fire|fuoco]]? Benché la [[Nature|Natura]] ci abbia dato l’arguzia per beffare la Fortuna, non ha forse la Fortuna mandato questo [[Fool|sciocco]] a troncare la disputa? |
-| [[Rosalind|ROSALINDA]] | In verità, qui la Fortuna è troppo dura per la [[Nature|Natura]], quando la Fortuna fa dello scemo di [[Nature|Natura]] il troncatore dell’arguzia di [[Nature|Natura]]. |
-| [[Celia|CELIA]] | Forse questa non è opera della Fortuna, ma della [[Nature|Natura]], la quale, accorgendosi che i nostri ingegni naturali sono troppo ottusi per ragionare di simili dee, ci ha mandato questo scemo come pietra da affilare; ché sempre l’ottusità dello [[Fool|sciocco]] è la cote degli ingegni. Ebbene, ingegno: dove vai vagando? |
-| [[Touchstone|TOUCHSTONE]] | Padrona, dovete venire da vostro padre. [[Celia|CELIA]] Vi hanno fatto messaggero? |
-| [[Touchstone|TOUCHSTONE]] | No, sul mio [[Honour|onore]], ma mi fu ordinato di venirvi a prendere. |
-| [[Rosalind|ROSALINDA]] | Dove imparasti quel giuramento, [[Fool|buffone]]? |
-| [[Touchstone|TOUCHSTONE]] | Da un certo cavaliere che giurò ‘sul suo [[Honour|onore]]’ che le frittelle erano buone, e giurò ’sul suo [[Honour|onore]]’ che la senape non valeva nulla. Ora io sostengo che le frittelle non valevano nulla e la senape era buona, e tuttavia il cavaliere non fu spergiuro. |
-| [[Celia|CELIA]] | Come lo provate col gran mucchio del vostro sapere? |
-| [[Rosalind|ROSALINDA]] | Sì, per la Vergine, ora togliete la museruola alla vostra saggezza. |
-| [[Touchstone|TOUCHSTONE]] | Fatevi avanti tutt’e due, ora. Carezzatevi il mento, e giurate sulle vostre barbe che io sono un furfante. |
-| [[Celia|CELIA]] | Sulle nostre barbe—se le avessimo—tu lo sei. |
-| [[Touchstone|TOUCHSTONE]] | Sulla mia furfanteria—se l’avessi—allora lo sarei; ma se giurate su ciò che non è, non siete spergiure. Né lo fu quel cavaliere, giurando sul suo [[Honour|onore]], perché non ne ebbe mai; o se ne ebbe, l’aveva giurato via prima ancora di vedere quelle frittelle o quella senape. |
-| [[Celia|CELIA]] | Di grazia, chi è colui che intendi? |
-| [[Touchstone|TOUCHSTONE]] | Uno che il vecchio Federico, vostro padre, ama.<br>[[[Celia|CELIA]]] L’[[Love|amore]] di mio padre basta a fargli [[Honour|onore]]. Basta, non parlarne più; uno di questi giorni sarai frustato per le tue accuse. |
-| [[Touchstone|TOUCHSTONE]] | Tanto più è un peccato che agli sciocchi non sia dato dire saggiamente ciò che i saggi fanno scioccamente. |
-| [[Celia|CELIA]] | In fede mia, dici il vero; ché da quando il poco ingegno che hanno gli sciocchi fu ridotto al silenzio, la poca sciocchezza che hanno i saggi fa gran mostra di sé. Ecco che viene Monsieur Le Beau. |
+| *(didascalia)* | Entrano [[Rosalind\|Rosalinda]] e [[Celia]] |
+| [[Celia\|CELIA]] | Ti prego, [[Rosalind\|Rosalinda]], dolce cugina mia, sii allegra. |
+| [[Rosalind\|ROSALINDA]] | Cara [[Celia]], mostro più letizia di quanta ne sia padrona; e vorresti ancora che fossi più allegra? Se non puoi insegnarmi a dimenticare un padre bandito, non devi ammaestrarmi a ricordare un piacere straordinario. |
+| [[Celia\|CELIA]] | In questo vedo che tu non mi ami col peso pieno con cui io ti [[Love\|amo]]. Se mio zio, il tuo padre bandito, avesse bandito tuo zio, il Duca mio padre, purché tu fossi rimasta con me, io avrei potuto insegnare al mio [[Love\|amore]] a prendere tuo padre per mio. Così faresti tu, se la [[Truth\|verità]] del tuo [[Love\|amore]] verso di me fosse così rettamente temperata come il mio verso di te. |
+| [[Rosalind\|ROSALINDA]] | [[Well\|Bene]], dimenticherò la condizione della mia sorte per rallegrarmi della tua. |
+| [[Celia\|CELIA]] | Sai che mio padre non ha altro [[Child\|figlio]] che me, né è probabile che ne abbia. E in verità, quando egli morrà tu sarai la sua erede; ché ciò che ha tolto per forza a tuo padre, io te lo renderò in affetto. Sul mio [[Honour\|onore]] lo farò, e quando romperò quel giuramento, ch’io divenga un [[Monster\|mostro]]. Perciò, mia dolce [[Rose\|Rosa]], mia cara [[Rose\|Rosa]], sii allegra. |
+| [[Rosalind\|ROSALINDA]] | D’ora innanzi lo sarò, cugina, e inventerò passatempi. Vediamo: che ne pensi dell’innamorarsi d’[[Love\|amore]]? |
+| [[Celia\|CELIA]] | Per la Vergine, ti prego, fallo, tanto per scherzarci; ma non [[Love\|amare]] nessun uomo sul serio, né per scherzo spingerti più in là di quanto, con la sicurezza d’un puro rossore, tu possa ritrarti con [[Honour\|onore]]. |
+| [[Rosalind\|ROSALINDA]] | Quale sarà dunque il nostro passatempo? |
+| [[Celia\|CELIA]] | Sediamoci e beffiamo quella brava massaia della Fortuna dalla sua [[Wheel\|ruota]], affinché d’ora in poi i suoi doni siano distribuiti con equità. |
+| [[Rosalind\|ROSALINDA]] | Vorrei che potessimo farlo, ché i suoi benefici sono grandemente mal collocati; e la generosa cieca sbaglia soprattutto nei doni alle donne. |
+| [[Celia\|CELIA]] | È vero; ché quelle che fa belle a stento le fa oneste, e quelle che fa oneste le fa assai mal fatte. |
+| [[Rosalind\|ROSALINDA]] | No, ora tu passi dall’ufficio della Fortuna a quello della [[Nature\|Natura]]. La Fortuna regna sui doni del mondo, non sui lineamenti della [[Nature\|natura]]. Entra [[Touchstone]] il buffone |
+| [[Celia\|CELIA]] | No. Quando la [[Nature\|Natura]] ha fatto una bella creatura, non può forse costei per Fortuna cadere nel [[Fire\|fuoco]]? Benché la [[Nature\|Natura]] ci abbia dato l’arguzia per beffare la Fortuna, non ha forse la Fortuna mandato questo [[Fool\|sciocco]] a troncare la disputa? |
+| [[Rosalind\|ROSALINDA]] | In verità, qui la Fortuna è troppo dura per la [[Nature\|Natura]], quando la Fortuna fa dello scemo di [[Nature\|Natura]] il troncatore dell’arguzia di [[Nature\|Natura]]. |
+| [[Celia\|CELIA]] | Forse questa non è opera della Fortuna, ma della [[Nature\|Natura]], la quale, accorgendosi che i nostri ingegni naturali sono troppo ottusi per ragionare di simili dee, ci ha mandato questo scemo come pietra da affilare; ché sempre l’ottusità dello [[Fool\|sciocco]] è la cote degli ingegni. Ebbene, ingegno: dove vai vagando? |
+| [[Touchstone\|TOUCHSTONE]] | Padrona, dovete venire da vostro padre. [[Celia\|CELIA]] Vi hanno fatto messaggero? |
+| [[Touchstone\|TOUCHSTONE]] | No, sul mio [[Honour\|onore]], ma mi fu ordinato di venirvi a prendere. |
+| [[Rosalind\|ROSALINDA]] | Dove imparasti quel giuramento, [[Fool\|buffone]]? |
+| [[Touchstone\|TOUCHSTONE]] | Da un certo cavaliere che giurò ‘sul suo [[Honour\|onore]]’ che le frittelle erano buone, e giurò ’sul suo [[Honour\|onore]]’ che la senape non valeva nulla. Ora io sostengo che le frittelle non valevano nulla e la senape era buona, e tuttavia il cavaliere non fu spergiuro. |
+| [[Celia\|CELIA]] | Come lo provate col gran mucchio del vostro sapere? |
+| [[Rosalind\|ROSALINDA]] | Sì, per la Vergine, ora togliete la museruola alla vostra saggezza. |
+| [[Touchstone\|TOUCHSTONE]] | Fatevi avanti tutt’e due, ora. Carezzatevi il mento, e giurate sulle vostre barbe che io sono un furfante. |
+| [[Celia\|CELIA]] | Sulle nostre barbe—se le avessimo—tu lo sei. |
+| [[Touchstone\|TOUCHSTONE]] | Sulla mia furfanteria—se l’avessi—allora lo sarei; ma se giurate su ciò che non è, non siete spergiure. Né lo fu quel cavaliere, giurando sul suo [[Honour\|onore]], perché non ne ebbe mai; o se ne ebbe, l’aveva giurato via prima ancora di vedere quelle frittelle o quella senape. |
+| [[Celia\|CELIA]] | Di grazia, chi è colui che intendi? |
+| [[Touchstone\|TOUCHSTONE]] | Uno che il vecchio Federico, vostro padre, ama.<br>[[[Celia\|CELIA]]] L’[[Love\|amore]] di mio padre basta a fargli [[Honour\|onore]]. Basta, non parlarne più; uno di questi giorni sarai frustato per le tue accuse. |
+| [[Touchstone\|TOUCHSTONE]] | Tanto più è un peccato che agli sciocchi non sia dato dire saggiamente ciò che i saggi fanno scioccamente. |
+| [[Celia\|CELIA]] | In fede mia, dici il vero; ché da quando il poco ingegno che hanno gli sciocchi fu ridotto al silenzio, la poca sciocchezza che hanno i saggi fa gran mostra di sé. Ecco che viene Monsieur Le Beau. |
 | *(didascalia)* | Entra Le Beau |
-| [[Rosalind|ROSALINDA]] | Con la bocca piena di novità. |
-| [[Celia|CELIA]] | Che ci rimpinzerà come i colombi nutrono i loro piccoli. |
-| [[Rosalind|ROSALINDA]] | Allora saremo ingozzate di notizie. |
-| [[Celia|CELIA]] | Tanto meglio: saremo più vendibili al mercato. Bonjour, Monsieur Le Beau, quali novità? |
+| [[Rosalind\|ROSALINDA]] | Con la bocca piena di novità. |
+| [[Celia\|CELIA]] | Che ci rimpinzerà come i colombi nutrono i loro piccoli. |
+| [[Rosalind\|ROSALINDA]] | Allora saremo ingozzate di notizie. |
+| [[Celia\|CELIA]] | Tanto meglio: saremo più vendibili al mercato. Bonjour, Monsieur Le Beau, quali novità? |
 | LE BEAU | Bella principessa, avete perduto un bell’intrattenimento. |
-| [[Celia|CELIA]] | Intrattenimento? Di che colore? |
+| [[Celia\|CELIA]] | Intrattenimento? Di che colore? |
 | LE BEAU | Che colore, madama? Come devo rispondervi? |
-| [[Rosalind|ROSALINDA]] | Come vorranno l’ingegno e la fortuna. |
-| [[Touchstone|TOUCHSTONE]] | O come decretano i destini. |
-| [[Celia|CELIA]] | [[Well|Ben]] detto. Questa fu spalmata con la cazzuola. |
-| [[Touchstone|TOUCHSTONE]] | Anzi, se non mantengo il mio rango— |
-| [[Rosalind|ROSALINDA]] | Perdi il tuo vecchio odore. |
+| [[Rosalind\|ROSALINDA]] | Come vorranno l’ingegno e la fortuna. |
+| [[Touchstone\|TOUCHSTONE]] | O come decretano i destini. |
+| [[Celia\|CELIA]] | [[Well\|Ben]] detto. Questa fu spalmata con la cazzuola. |
+| [[Touchstone\|TOUCHSTONE]] | Anzi, se non mantengo il mio rango— |
+| [[Rosalind\|ROSALINDA]] | Perdi il tuo vecchio odore. |
 | LE BEAU | Voi mi sbalordite, signore. Volevo raccontarvi d’una bella lotta, di cui avete perduto lo spettacolo. |
-| [[Rosalind|ROSALINDA]] | Raccontateci almeno com’è andata la lotta. |
+| [[Rosalind\|ROSALINDA]] | Raccontateci almeno com’è andata la lotta. |
 | LE BEAU | Vi racconterò il principio, e se piace alle signorie vostre potrete vederne la fine, ché il meglio è ancora da farsi, e proprio qui, dove voi siete, vengono a compierlo. |
-| [[Celia|CELIA]] | [[Well|Bene]], dunque il principio che è morto e sepolto. |
+| [[Celia\|CELIA]] | [[Well\|Bene]], dunque il principio che è morto e sepolto. |
 | LE BEAU | Viene un vecchio coi suoi tre figli— |
-| [[Celia|CELIA]] | Potrei accoppiare questo principio a una vecchia fiaba. |
+| [[Celia\|CELIA]] | Potrei accoppiare questo principio a una vecchia fiaba. |
 | LE BEAU | Tre bei giovani, d’eccellente statura e presenza. |
-| [[Rosalind|ROSALINDA]] | Con dei cartelli al collo: ‘Sia noto a tutti gli uomini per la presente’— |
-| LE BEAU | Il maggiore dei tre lottò con Carlo, il lottatore del Duca, il quale Carlo in un istante lo atterrò, e gli ruppe tre costole, sicché v’è poca [[Hope|speranza]] di vita in lui. Così servì il secondo, e così il terzo. Là giacciono, e il povero vecchio loro padre fa su di loro tal pietoso lamento che tutti gli astanti prendono le sue parti piangendo. |
-| [[Rosalind|ROSALINDA]] | Ahimè! |
-| [[Touchstone|TOUCHSTONE]] | Ma qual è il passatempo, monsieur, che le signore hanno perduto? |
+| [[Rosalind\|ROSALINDA]] | Con dei cartelli al collo: ‘Sia noto a tutti gli uomini per la presente’— |
+| LE BEAU | Il maggiore dei tre lottò con Carlo, il lottatore del Duca, il quale Carlo in un istante lo atterrò, e gli ruppe tre costole, sicché v’è poca [[Hope\|speranza]] di vita in lui. Così servì il secondo, e così il terzo. Là giacciono, e il povero vecchio loro padre fa su di loro tal pietoso lamento che tutti gli astanti prendono le sue parti piangendo. |
+| [[Rosalind\|ROSALINDA]] | Ahimè! |
+| [[Touchstone\|TOUCHSTONE]] | Ma qual è il passatempo, monsieur, che le signore hanno perduto? |
 | LE BEAU | Ma questo di cui parlo. |
-| [[Touchstone|TOUCHSTONE]] | Così gli uomini possono farsi più saggi ogni giorno. È la prima [[Time|volta]] che sento dire che rompere costole sia passatempo da signore. |
-| [[Celia|CELIA]] | Anch’io, te l’assicuro. |
-| [[Rosalind|ROSALINDA]] | Ma c’è qualcun altro che brama vedere questa musica rotta nei propri fianchi? C’è ancora qualcuno che va pazzo per lo spezzar costole? Vogliamo vederla, questa lotta, cugina? |
+| [[Touchstone\|TOUCHSTONE]] | Così gli uomini possono farsi più saggi ogni giorno. È la prima [[Time\|volta]] che sento dire che rompere costole sia passatempo da signore. |
+| [[Celia\|CELIA]] | Anch’io, te l’assicuro. |
+| [[Rosalind\|ROSALINDA]] | Ma c’è qualcun altro che brama vedere questa musica rotta nei propri fianchi? C’è ancora qualcuno che va pazzo per lo spezzar costole? Vogliamo vederla, questa lotta, cugina? |
 | LE BEAU | Dovrete, se restate qui, ché questo è il luogo destinato alla lotta, e sono pronti a compierla. |
-| [[Celia|CELIA]] | Là di sicuro stanno venendo. Restiamo ora e guardiamola. |
-| *(didascalia)* | Squillo di trombe. Entrano [[Duke Frederick|il Duca Federico]], Signori, [[Orlando]], Carlo e seguito |
-| [[Duke Frederick|DUCA FEDERICO]] | Avanti. Poiché il giovane non si lascia pregare, il pericolo ricada sulla sua temerarietà. |
-| [[Rosalind|ROSALINDA]] | È quello là l’uomo? |
+| [[Celia\|CELIA]] | Là di sicuro stanno venendo. Restiamo ora e guardiamola. |
+| *(didascalia)* | Squillo di trombe. Entrano [[Duke Frederick\|il Duca Federico]], Signori, [[Orlando]], Carlo e seguito |
+| [[Duke Frederick\|DUCA FEDERICO]] | Avanti. Poiché il giovane non si lascia pregare, il pericolo ricada sulla sua temerarietà. |
+| [[Rosalind\|ROSALINDA]] | È quello là l’uomo? |
 | LE BEAU | Proprio lui, madama. |
-| [[Celia|CELIA]] | Ahimè, è troppo giovane. Eppure ha l’aria di chi riesce. |
-| [[Duke Frederick|DUCA FEDERICO]] | Ebbene, figlia e nipote; siete sgusciate qui a veder la lotta? |
-| [[Rosalind|ROSALINDA]] | Sì, mio signore, se vi piace darcene licenza. |
-| [[Duke Frederick|DUCA FEDERICO]] | Poco diletto ne trarrete, ve lo dico io: tanto è lo svantaggio nell’uomo. Per pietà della giovinezza dello sfidante volentieri lo dissuaderei, ma non si lascia pregare. Parlategli, signore; vedete se riuscite a smuoverlo. |
-| [[Celia|CELIA]] | Chiamatelo qui, buon Monsieur Le Beau. |
-| [[Duke Frederick|DUCA FEDERICO]] | Fatelo. Io non starò presente.<br>Si tira in disparte |
+| [[Celia\|CELIA]] | Ahimè, è troppo giovane. Eppure ha l’aria di chi riesce. |
+| [[Duke Frederick\|DUCA FEDERICO]] | Ebbene, figlia e nipote; siete sgusciate qui a veder la lotta? |
+| [[Rosalind\|ROSALINDA]] | Sì, mio signore, se vi piace darcene licenza. |
+| [[Duke Frederick\|DUCA FEDERICO]] | Poco diletto ne trarrete, ve lo dico io: tanto è lo svantaggio nell’uomo. Per pietà della giovinezza dello sfidante volentieri lo dissuaderei, ma non si lascia pregare. Parlategli, signore; vedete se riuscite a smuoverlo. |
+| [[Celia\|CELIA]] | Chiamatelo qui, buon Monsieur Le Beau. |
+| [[Duke Frederick\|DUCA FEDERICO]] | Fatelo. Io non starò presente.<br>Si tira in disparte |
 | LE BEAU | (a [[Orlando]]) Monsieur lo sfidante, la Principessa vi chiama. |
-| [[Orlando|ORLANDO]] | Le servo con ogni rispetto e dovere. |
-| [[Rosalind|ROSALINDA]] | Giovane, avete voi sfidato Carlo il lottatore? |
-| [[Orlando|ORLANDO]] | No, bella Principessa. Egli è lo sfidante universale; io mi presento solo come gli altri, per provare con lui la forza della mia giovinezza. |
-| [[Celia|CELIA]] | Giovane gentiluomo, i vostri spiriti sono troppo arditi per i vostri anni. Avete visto crudele prova della forza di quest’uomo. Se voi vedeste voi stesso coi vostri occhi, o conosceste voi stesso col vostro giudizio, il [[Fear|timore]] della vostra avventura vi consiglierebbe un’impresa più pari. Vi preghiamo, per il vostro bene, di abbracciare la vostra sicurezza e di rinunciare a questo tentativo. |
-| [[Rosalind|ROSALINDA]] | Fatelo, giovane signore. La vostra reputazione non ne sarà per questo disprezzata. Faremo istanza al Duca perché la lotta non abbia luogo. |
-| [[Orlando|ORLANDO]] | Vi supplico, non punitemi coi vostri duri pensieri, nei quali confesso d’essere assai colpevole nel negare qualcosa a dame così belle ed eccellenti. Ma i vostri begli occhi e i gentili auguri m’accompagnino alla mia prova, nella quale, se sarò atterrato, non v’è che uno svergognato che non fu mai favorito; se ucciso, non v’è che un morto che desidera esserlo. Non farò torto agli amici, ché non ne ho alcuno che mi compianga; nessun danno al mondo, ché in esso nulla possiedo. Nel mondo io non riempio che un posto, il quale potrà essere meglio occupato quando l’avrò lasciato vuoto. |
-| [[Rosalind|ROSALINDA]] | La poca forza che ho, vorrei che fosse con voi. |
-| [[Celia|CELIA]] | E la mia, ad accrescere la sua. |
-| [[Rosalind|ROSALINDA]] | State [[Well|bene]]. Voglia il cielo ch’io m’inganni sul conto vostro. |
-| [[Celia|CELIA]] | I desideri del vostro cuore siano con voi. |
+| [[Orlando\|ORLANDO]] | Le servo con ogni rispetto e dovere. |
+| [[Rosalind\|ROSALINDA]] | Giovane, avete voi sfidato Carlo il lottatore? |
+| [[Orlando\|ORLANDO]] | No, bella Principessa. Egli è lo sfidante universale; io mi presento solo come gli altri, per provare con lui la forza della mia giovinezza. |
+| [[Celia\|CELIA]] | Giovane gentiluomo, i vostri spiriti sono troppo arditi per i vostri anni. Avete visto crudele prova della forza di quest’uomo. Se voi vedeste voi stesso coi vostri occhi, o conosceste voi stesso col vostro giudizio, il [[Fear\|timore]] della vostra avventura vi consiglierebbe un’impresa più pari. Vi preghiamo, per il vostro bene, di abbracciare la vostra sicurezza e di rinunciare a questo tentativo. |
+| [[Rosalind\|ROSALINDA]] | Fatelo, giovane signore. La vostra reputazione non ne sarà per questo disprezzata. Faremo istanza al Duca perché la lotta non abbia luogo. |
+| [[Orlando\|ORLANDO]] | Vi supplico, non punitemi coi vostri duri pensieri, nei quali confesso d’essere assai colpevole nel negare qualcosa a dame così belle ed eccellenti. Ma i vostri begli occhi e i gentili auguri m’accompagnino alla mia prova, nella quale, se sarò atterrato, non v’è che uno svergognato che non fu mai favorito; se ucciso, non v’è che un morto che desidera esserlo. Non farò torto agli amici, ché non ne ho alcuno che mi compianga; nessun danno al mondo, ché in esso nulla possiedo. Nel mondo io non riempio che un posto, il quale potrà essere meglio occupato quando l’avrò lasciato vuoto. |
+| [[Rosalind\|ROSALINDA]] | La poca forza che ho, vorrei che fosse con voi. |
+| [[Celia\|CELIA]] | E la mia, ad accrescere la sua. |
+| [[Rosalind\|ROSALINDA]] | State [[Well\|bene]]. Voglia il cielo ch’io m’inganni sul conto vostro. |
+| [[Celia\|CELIA]] | I desideri del vostro cuore siano con voi. |
 | CARLO | Suvvia, dov’è questo giovane galante così bramoso di giacere con la madre terra? |
-| [[Orlando|ORLANDO]] | Pronto, signore; ma la sua volontà ha in sé un più modesto proposito. |
-| [[Duke Frederick|DUCA FEDERICO]] | Tenterete una sola caduta. |
+| [[Orlando\|ORLANDO]] | Pronto, signore; ma la sua volontà ha in sé un più modesto proposito. |
+| [[Duke Frederick\|DUCA FEDERICO]] | Tenterete una sola caduta. |
 | CARLO | No, garantisco a vostra grazia che non lo pregherete per una seconda, voi che con tanta forza l’avete dissuaso dalla prima. |
-| [[Orlando|ORLANDO]] | Volete beffarmi dopo; non avreste dovuto beffarmi prima. Ma venite pure. |
-| [[Rosalind|ROSALINDA]] | (a [[Orlando]]) Ora Ercole ti sia di [[Speed|aiuto]], giovane! |
-| [[Celia|CELIA]] | Vorrei essere invisibile, per afferrare quel forzuto per una gamba.<br>Carlo e [[Orlando]] lottano |
-| [[Rosalind|ROSALINDA]] | Oh eccellente giovane! |
-| [[Celia|CELIA]] | Se avessi un fulmine nell’occhio, so ben io chi cadrebbe.<br>[[Orlando]] atterra Carlo. Grida |
-| [[Duke Frederick|DUCA FEDERICO]] | Basta, basta. |
-| [[Orlando|ORLANDO]] | No, supplico vostra grazia.<br>Non ho ancora [[Well|ben]] ripreso fiato. |
-| [[Duke Frederick|DUCA FEDERICO]] | Come stai, Carlo? |
+| [[Orlando\|ORLANDO]] | Volete beffarmi dopo; non avreste dovuto beffarmi prima. Ma venite pure. |
+| [[Rosalind\|ROSALINDA]] | (a [[Orlando]]) Ora Ercole ti sia di [[Speed\|aiuto]], giovane! |
+| [[Celia\|CELIA]] | Vorrei essere invisibile, per afferrare quel forzuto per una gamba.<br>Carlo e [[Orlando]] lottano |
+| [[Rosalind\|ROSALINDA]] | Oh eccellente giovane! |
+| [[Celia\|CELIA]] | Se avessi un fulmine nell’occhio, so ben io chi cadrebbe.<br>[[Orlando]] atterra Carlo. Grida |
+| [[Duke Frederick\|DUCA FEDERICO]] | Basta, basta. |
+| [[Orlando\|ORLANDO]] | No, supplico vostra grazia.<br>Non ho ancora [[Well\|ben]] ripreso fiato. |
+| [[Duke Frederick\|DUCA FEDERICO]] | Come stai, Carlo? |
 | LE BEAU | Non può parlare, mio signore. |
-| [[Duke Frederick|DUCA FEDERICO]] | Portatelo via.<br>Il seguito porta via Carlo<br>Qual è il tuo nome, giovane? |
-| [[Orlando|ORLANDO]] | [[Orlando]], mio signore, il figlio più giovane di Sir Rowland de Bois. |
-| [[Duke Frederick|DUCA FEDERICO]] | Vorrei che tu fossi stato figlio di qualche altro uomo.<br>Il mondo stimava onorevole tuo padre,<br>ma io sempre lo trovai mio nemico.<br>Meglio m’avresti compiaciuto con quest’impresa<br>se fossi disceso da un’altra [[house|casata]].<br>Ma sta’ [[Well|bene]], sei un giovane valoroso.<br>Vorrei che m’avessi detto d’un altro padre. |
-| *(didascalia)* | Escono [[Duke Frederick|il Duca Federico]], Le Beau, [[[Touchstone]],] i Signori e il seguito |
-| [[Celia|CELIA]] | (a [[Rosalind|Rosalinda]])<br>Fossi io mio padre, cugina, farei questo? |
-| [[Orlando|ORLANDO]] | Più fiero sono d’essere figlio di Sir Rowland,<br>il suo figlio minore, e non muterei tal nome<br>per essere adottato erede di Federico. |
-| [[Rosalind|ROSALINDA]] | Mio padre amava Sir Rowland come la propria [[Soul|anima]],<br>e tutto il mondo era del parere di mio padre.<br>Se prima avessi saputo che questo giovane era suo figlio,<br>alle preghiere avrei aggiunto le [[Tears|lacrime]]<br>prima che così s’arrischiasse. |
-| [[Celia|CELIA]] | Gentile cugina,<br>andiamo a ringraziarlo e a incoraggiarlo.<br>L’indole rozza e invidiosa di mio padre<br>mi trafigge il cuore.—Signore, [[Well|ben]] avete meritato.<br>Se in [[Love|amore]] manterrete le promesse<br>anche solo con giustizia, come avete superato ogni promessa,<br>la vostra signora sarà felice. |
-| [[Rosalind|ROSALINDA]] | (dandogli una catena che porta al collo) Gentiluomo, portate questa per me—da parte d’una che è in disgrazia della fortuna, e che darebbe di più se la sua mano ne avesse i mezzi. Andiamo, cugina? |
-| [[Celia|CELIA]] | Sì. State [[Well|bene]], bel gentiluomo.<br>[[Rosalind|Rosalinda]] e [[Celia]] si volgono per andarsene |
-| [[Orlando|ORLANDO]] | (a parte)<br>Non so dire ‘vi ringrazio’? Le mie parti migliori<br>sono tutte atterrate, e ciò che qui resta in piedi<br>non è che un manichino da giostra, un ceppo senza vita. |
-| [[Rosalind|ROSALINDA]] | (a [[Celia]])<br>Ci richiama. Il mio [[Pride|orgoglio]] cadde con le mie fortune,<br>gli chiederò che cosa voglia.—Avete chiamato, signore?<br>Signore, avete lottato [[Well|bene]], e atterrato<br>più dei vostri nemici. |
-| [[Celia|CELIA]] | Volete venire, cugina? |
-| [[Rosalind|ROSALINDA]] | Vengo con voi. (A [[Orlando]]) State [[Well|bene]]. |
-| *(didascalia)* | Escono [[Rosalind|Rosalinda]] e [[Celia]] |
-| [[Orlando|ORLANDO]] | Quale passione appende questi pesi alla mia lingua?<br>Non so parlarle, e pure ella sollecitava un colloquio. |
+| [[Duke Frederick\|DUCA FEDERICO]] | Portatelo via.<br>Il seguito porta via Carlo<br>Qual è il tuo nome, giovane? |
+| [[Orlando\|ORLANDO]] | [[Orlando]], mio signore, il figlio più giovane di Sir Rowland de Bois. |
+| [[Duke Frederick\|DUCA FEDERICO]] | Vorrei che tu fossi stato figlio di qualche altro uomo.<br>Il mondo stimava onorevole tuo padre,<br>ma io sempre lo trovai mio nemico.<br>Meglio m’avresti compiaciuto con quest’impresa<br>se fossi disceso da un’altra [[house\|casata]].<br>Ma sta’ [[Well\|bene]], sei un giovane valoroso.<br>Vorrei che m’avessi detto d’un altro padre. |
+| *(didascalia)* | Escono [[Duke Frederick\|il Duca Federico]], Le Beau, [[[Touchstone]],] i Signori e il seguito |
+| [[Celia\|CELIA]] | (a [[Rosalind\|Rosalinda]])<br>Fossi io mio padre, cugina, farei questo? |
+| [[Orlando\|ORLANDO]] | Più fiero sono d’essere figlio di Sir Rowland,<br>il suo figlio minore, e non muterei tal nome<br>per essere adottato erede di Federico. |
+| [[Rosalind\|ROSALINDA]] | Mio padre amava Sir Rowland come la propria [[Soul\|anima]],<br>e tutto il mondo era del parere di mio padre.<br>Se prima avessi saputo che questo giovane era suo figlio,<br>alle preghiere avrei aggiunto le [[Tears\|lacrime]]<br>prima che così s’arrischiasse. |
+| [[Celia\|CELIA]] | Gentile cugina,<br>andiamo a ringraziarlo e a incoraggiarlo.<br>L’indole rozza e invidiosa di mio padre<br>mi trafigge il cuore.—Signore, [[Well\|ben]] avete meritato.<br>Se in [[Love\|amore]] manterrete le promesse<br>anche solo con giustizia, come avete superato ogni promessa,<br>la vostra signora sarà felice. |
+| [[Rosalind\|ROSALINDA]] | (dandogli una catena che porta al collo) Gentiluomo, portate questa per me—da parte d’una che è in disgrazia della fortuna, e che darebbe di più se la sua mano ne avesse i mezzi. Andiamo, cugina? |
+| [[Celia\|CELIA]] | Sì. State [[Well\|bene]], bel gentiluomo.<br>[[Rosalind\|Rosalinda]] e [[Celia]] si volgono per andarsene |
+| [[Orlando\|ORLANDO]] | (a parte)<br>Non so dire ‘vi ringrazio’? Le mie parti migliori<br>sono tutte atterrate, e ciò che qui resta in piedi<br>non è che un manichino da giostra, un ceppo senza vita. |
+| [[Rosalind\|ROSALINDA]] | (a [[Celia]])<br>Ci richiama. Il mio [[Pride\|orgoglio]] cadde con le mie fortune,<br>gli chiederò che cosa voglia.—Avete chiamato, signore?<br>Signore, avete lottato [[Well\|bene]], e atterrato<br>più dei vostri nemici. |
+| [[Celia\|CELIA]] | Volete venire, cugina? |
+| [[Rosalind\|ROSALINDA]] | Vengo con voi. (A [[Orlando]]) State [[Well\|bene]]. |
+| *(didascalia)* | Escono [[Rosalind\|Rosalinda]] e [[Celia]] |
+| [[Orlando\|ORLANDO]] | Quale passione appende questi pesi alla mia lingua?<br>Non so parlarle, e pure ella sollecitava un colloquio. |
 | *(didascalia)* | Entra Le Beau |
-| [[Orlando|ORLANDO]] | O povero [[Orlando]]! Sei atterrato.<br>O Carlo o qualcosa di più debole ti soggioga. |
-| LE BEAU | Buon signore, per [[Friendship|amicizia]] vi consiglio<br>di lasciare questo luogo. Benché abbiate meritato<br>alta lode, vero applauso e [[Love|affetto]],<br>tale è ora la disposizione del Duca<br>che egli travisa tutto ciò che avete fatto.<br>Il Duca è umorale. Che cosa sia veramente<br>più conviene a voi concepire che a me dire. |
-| [[Orlando|ORLANDO]] | Vi ringrazio, signore. E vi prego, ditemi questo:<br>quale delle due era figlia del Duca,<br>fra quelle che erano qui alla lotta? |
-| LE BEAU | Nessuna delle due è sua figlia, a giudicare dai modi—<br>ma pure in verità la più bassa è sua figlia.<br>L’altra è figlia del Duca bandito,<br>e qui trattenuta dallo zio usurpatore<br>per far compagnia a sua figlia, i cui affetti<br>sono più cari del vincolo naturale fra sorelle.<br>Ma posso dirvi che di recente questo Duca<br>ha preso in dispiacere la sua gentile nipote,<br>fondandosi su nessun altro argomento<br>se non che il popolo la loda per le sue virtù<br>e la compiange per amore del suo buon padre.<br>E, sulla mia vita, la sua malizia contro la dama<br>d’improvviso proromperà. Signore, state [[Well|bene]].<br>In seguito, in un mondo migliore di questo,<br>[[Desire|desidererò]] maggior [[Love|amicizia]] e conoscenza di voi. |
-| [[Orlando|ORLANDO]] | Vi resto molto obbligato. State [[Well|bene]]. |
+| [[Orlando\|ORLANDO]] | O povero [[Orlando]]! Sei atterrato.<br>O Carlo o qualcosa di più debole ti soggioga. |
+| LE BEAU | Buon signore, per [[Friendship\|amicizia]] vi consiglio<br>di lasciare questo luogo. Benché abbiate meritato<br>alta lode, vero applauso e [[Love\|affetto]],<br>tale è ora la disposizione del Duca<br>che egli travisa tutto ciò che avete fatto.<br>Il Duca è umorale. Che cosa sia veramente<br>più conviene a voi concepire che a me dire. |
+| [[Orlando\|ORLANDO]] | Vi ringrazio, signore. E vi prego, ditemi questo:<br>quale delle due era figlia del Duca,<br>fra quelle che erano qui alla lotta? |
+| LE BEAU | Nessuna delle due è sua figlia, a giudicare dai modi—<br>ma pure in verità la più bassa è sua figlia.<br>L’altra è figlia del Duca bandito,<br>e qui trattenuta dallo zio usurpatore<br>per far compagnia a sua figlia, i cui affetti<br>sono più cari del vincolo naturale fra sorelle.<br>Ma posso dirvi che di recente questo Duca<br>ha preso in dispiacere la sua gentile nipote,<br>fondandosi su nessun altro argomento<br>se non che il popolo la loda per le sue virtù<br>e la compiange per amore del suo buon padre.<br>E, sulla mia vita, la sua malizia contro la dama<br>d’improvviso proromperà. Signore, state [[Well\|bene]].<br>In seguito, in un mondo migliore di questo,<br>[[Desire\|desidererò]] maggior [[Love\|amicizia]] e conoscenza di voi. |
+| [[Orlando\|ORLANDO]] | Vi resto molto obbligato. State [[Well\|bene]]. |
 | *(didascalia)* | Esce Le Beau |
-| [[Orlando|ORLANDO]] | Così devo passare dal fumo alla brace,<br>da un Duca [[Tyrant|tiranno]] a un fratello [[Tyrant|tiranno]].—<br>Ma celeste [[Rosalind|Rosalinda]]! Esce<br><br>13. Entrano [[Celia]] e [[Rosalind|Rosalinda]] |
-| [[Celia|CELIA]] | Perché, cugina, perché, [[Rosalind|Rosalinda]]—Cupido abbia [[Mercy|pietà]], non una parola? |
-| [[Rosalind|ROSALINDA]] | Neanche una da gettare a un cane. |
-| [[Celia|CELIA]] | No, le tue parole sono troppo preziose per essere buttate ai bastardi. Gettane qualcuna a me. Su, azzoppami con le tue ragioni. |
-| [[Rosalind|ROSALINDA]] | Allora ci sarebbero due cugine messe a letto, ché l’una sarebbe azzoppata dalle ragioni e l’altra pazza senza averne alcuna. |
-| [[Celia|CELIA]] | Ma tutto questo è per tuo padre? |
-| [[Rosalind|ROSALINDA]] | No, parte è per il padre del mio [[Child|figlio]]. Oh, com’è pieno di rovi questo mondo dei giorni feriali! |
-| [[Celia|CELIA]] | Non sono che lappole, cugina, gettate su di te in una follia di festa. Se non camminiamo per i sentieri battuti, le nostre stesse sottane le raccoglieranno. |
-| [[Rosalind|ROSALINDA]] | Potrei scuoterle via dalla veste. Queste lappole sono nel mio cuore. |
-| [[Celia|CELIA]] | Mandale via con un ‘ehm’. |
-| [[Rosalind|ROSALINDA]] | Ci proverei, se col gridare ‘ehm’ potessi averlo. |
-| [[Celia|CELIA]] | Via, via, lotta con i tuoi affetti. |
-| [[Rosalind|ROSALINDA]] | Oh, essi parteggiano per un lottatore migliore di me. |
-| [[Celia|CELIA]] | Oh, un buon augurio su di te! Ci proverai a suo [[Time|tempo]], a dispetto d’una caduta. Ma lasciando da parte questi scherzi, parliamo sul serio. È possibile che così all’improvviso tu sia caduta in una così forte inclinazione per il figlio minore del vecchio Sir Rowland? |
-| [[Rosalind|ROSALINDA]] | Il Duca mio padre amava teneramente suo padre. |
-| [[Celia|CELIA]] | Ne consegue forse che tu debba [[Love|amare]] teneramente suo figlio? Con questo genere di caccia io dovrei odiarlo, ché mio padre odiava teneramente suo padre; eppure io non odio [[Orlando]]. |
-| [[Rosalind|ROSALINDA]] | No, in [[Faith|fede]] mia, non odiarlo, per amor mio. |
-| [[Celia|CELIA]] | Perché non dovrei? Non merita forse [[Well|bene]]? Entrano [[Duke Frederick|il Duca Federico]] e Signori |
-| [[Rosalind|ROSALINDA]] | Lascia dunque che io lo [[Love|ami]] per questo, e tu [[Love|amalo]] perché lo amo io. Guarda, ecco viene il Duca. |
-| [[Celia|CELIA]] | Con gli occhi pieni d’ira. |
-| [[Duke Frederick|DUCA FEDERICO]] | (a [[Rosalind|Rosalinda]]) Signorina, sbrigatevi con la massima fretta che vi salvi, e allontanatevi dalla nostra [[Court|corte]]. |
-| [[Rosalind|ROSALINDA]] | Io, zio? |
-| [[Duke Frederick|DUCA FEDERICO]] | Tu, nipote. Entro dieci giorni, se sarai trovata così vicina alla nostra [[Court|corte]] come venti miglia, ne morirai. |
-| [[Rosalind|ROSALINDA]] | Supplico vostra grazia<br>di lasciarmi portare con me la conoscenza della mia colpa.<br>Se ho con me stessa qualche intelligenza,<br>o conosco i miei propri desideri,<br>se non sogno, o non sono in delirio—<br>e confido di non esserlo—allora, caro zio,<br>mai, neppure in un pensiero [[unborn|non nato]],<br>ho offeso vostra altezza. |
-| [[Duke Frederick|DUCA FEDERICO]] | Così fanno tutti i traditori.<br>Se la loro discolpa consistesse in parole,<br>sarebbero [[Innocent|innocenti]] come la grazia stessa.<br>Ti basti che io non mi fido di te. |
-| [[Rosalind|ROSALINDA]] | Eppure la vostra diffidenza non può farmi traditrice.<br>Ditemi su che cosa si fonda la verosimiglianza. |
-| [[Duke Frederick|DUCA FEDERICO]] | Sei figlia di tuo padre—questo basta. |
-| [[Rosalind|ROSALINDA]] | Lo ero anche quando vostra altezza gli tolse il ducato;<br>lo ero quando vostra altezza lo bandì.<br>Il tradimento non s’eredita, mio signore,<br>o, se pur lo traessimo dai nostri congiunti,<br>che importa a me? Mio padre non fu traditore.<br>Dunque, buon mio signore, non fraintendetemi tanto<br>da credere traditrice la mia [[Poverty|povertà]]. |
-| [[Celia|CELIA]] | Caro sovrano, ascoltatemi. |
-| [[Duke Frederick|DUCA FEDERICO]] | Sì, [[Celia]], la trattenemmo per amor tuo,<br>altrimenti sarebbe andata ramingando col padre. |
-| [[Celia|CELIA]] | Allora non supplicai io che restasse.<br>Fu vostro piacere, e vostro rimorso.<br>Ero troppo giovane a quel [[Time|tempo]] per apprezzarla,<br>ma ora la conosco. Se ella è traditrice,<br>ebbene, lo sono anch’io. Sempre abbiamo dormito insieme,<br>ci [[Rose|alzammo]] nel medesimo istante, imparato, giocato, mangiato insieme,<br>e ovunque andassimo, come i cigni di Giunone<br>sempre andavamo accoppiate e inseparabili. |
-| [[Duke Frederick|DUCA FEDERICO]] | Ella è troppo sottile per te, e la sua mitezza,<br>il suo stesso [[Silence|silenzio]], e la sua pazienza<br>parlano al popolo, e il popolo la compiange.<br>Tu sei una [[Fool|sciocca]]. Ella ti ruba il tuo nome,<br>e tu apparirai più splendente e sembrerai più<br>virtuosa<br>quando sarà partita. Dunque non aprire le labbra.<br>Ferma e irrevocabile è la condanna<br>che ho pronunciato su di lei. Ella è bandita. |
-| [[Celia|CELIA]] | Pronunciate allora quella sentenza anche su di me, mio signore.<br>Non posso vivere fuori della sua compagnia. |
-| [[Duke Frederick|DUCA FEDERICO]] | Sei una sciocca.—Voi, nipote, provvedete a voi stessa.<br>Se oltrepassate il [[Time|termine]], sul mio [[Honour|onore]]<br>e nella [[Greatness|grandezza]] della mia parola, morrete. |
-| *(didascalia)* | Esce [[Duke Frederick|il Duca Federico]] coi Signori |
-| [[Celia|CELIA]] | O mia povera [[Rosalind|Rosalinda]], dove andrai?<br>Vuoi cambiare padre? Ti darò il mio.<br>Ti scongiuro, non essere più afflitta di me. |
-| [[Rosalind|ROSALINDA]] | Ne ho più motivo. |
-| [[Celia|CELIA]] | Non ne hai, cugina.<br>Di grazia, sii lieta. Non sai che il Duca<br>ha bandito me, sua figlia? |
-| [[Rosalind|ROSALINDA]] | Questo no. |
-| [[Celia|CELIA]] | No, non l’ha fatto? [[Rosalind|Rosalinda]], ti manca dunque l’[[Love|amore]]<br>che t’insegna che tu ed io siamo una cosa sola?<br>Dovremo essere divise? Ci separeremo, dolce fanciulla?<br>No. Che mio padre si cerchi un altro erede.<br>Perciò studia con me come possiamo fuggire,<br>dove andare, e che portare con noi,<br>e non cercare di prendere su di te il tuo mutamento,<br>di sopportare da sola i tuoi dolori, ed escludere me.<br>Ché per questo cielo, ora pallido ai nostri dolori,<br>di’ ciò che vuoi, io verrò con te. |
-| [[Rosalind|ROSALINDA]] | Ma dove andremo? |
-| [[Celia|CELIA]] | A cercare mio zio nella foresta d’Ardenne. |
-| [[Rosalind|ROSALINDA]] | Ahimè, che pericolo sarà per noi,<br>fanciulle come siamo, viaggiare così lontano!<br>La [[Beauty|bellezza]] provoca i ladri più dell’oro. |
-| [[Celia|CELIA]] | Mi metterò poveri e umili panni,<br>e con una specie di terra d’ombra mi tingerò il viso.<br>Fa’ lo stesso tu, e così passeremo oltre<br>senza mai suscitare assalitori. |
-| [[Rosalind|ROSALINDA]] | Non sarebbe meglio,<br>poiché io sono più alta del comune,<br>che mi vestissi in tutto e per tutto da uomo,<br>con una bella daga alla coscia,<br>uno spiedo da cinghiale in mano, e nel cuore,<br>vi giaccia pur nascosto quel [[Fear|timore]] di donna che vorrà.<br>Avremo un aspetto spaccone e marziale,<br>come tanti altri codardi virili<br>che la sostengono con le apparenze. |
-| [[Celia|CELIA]] | Come ti chiamerò quando sarai un uomo? |
-| [[Rosalind|ROSALINDA]] | Non avrò nome peggiore del paggio di Giove,<br>e perciò badate a chiamarmi Ganimede.<br>Ma tu come ti farai chiamare? |
-| [[Celia|CELIA]] | Qualcosa che alluda al mio stato.<br>Non più [[Celia]], ma Aliena. |
-| [[Rosalind|ROSALINDA]] | Ma cugina, e se tentassimo di rubare<br>quel buffone di [[Fool|scemo]] dalla [[Court|corte]] di tuo padre?<br>Non sarebbe un conforto al nostro viaggio? |
-| [[Celia|CELIA]] | Verrà con me per il vasto mondo.<br>Lascia [[Alone|a me sola]] di corteggiarlo. Andiamo,<br>e raccogliamo insieme i nostri gioielli e le nostre ricchezze,<br>studiamo il [[Time|momento]] più adatto e la via più sicura<br>per nasconderci all’inseguimento che seguirà<br>alla mia fuga. Ora andiamo contente,<br>alla libertà, e non al bando. |
+| [[Orlando\|ORLANDO]] | Così devo passare dal fumo alla brace,<br>da un Duca [[Tyrant\|tiranno]] a un fratello [[Tyrant\|tiranno]].—<br>Ma celeste [[Rosalind\|Rosalinda]]! Esce<br><br>13. Entrano [[Celia]] e [[Rosalind\|Rosalinda]] |
+| [[Celia\|CELIA]] | Perché, cugina, perché, [[Rosalind\|Rosalinda]]—Cupido abbia [[Mercy\|pietà]], non una parola? |
+| [[Rosalind\|ROSALINDA]] | Neanche una da gettare a un cane. |
+| [[Celia\|CELIA]] | No, le tue parole sono troppo preziose per essere buttate ai bastardi. Gettane qualcuna a me. Su, azzoppami con le tue ragioni. |
+| [[Rosalind\|ROSALINDA]] | Allora ci sarebbero due cugine messe a letto, ché l’una sarebbe azzoppata dalle ragioni e l’altra pazza senza averne alcuna. |
+| [[Celia\|CELIA]] | Ma tutto questo è per tuo padre? |
+| [[Rosalind\|ROSALINDA]] | No, parte è per il padre del mio [[Child\|figlio]]. Oh, com’è pieno di rovi questo mondo dei giorni feriali! |
+| [[Celia\|CELIA]] | Non sono che lappole, cugina, gettate su di te in una follia di festa. Se non camminiamo per i sentieri battuti, le nostre stesse sottane le raccoglieranno. |
+| [[Rosalind\|ROSALINDA]] | Potrei scuoterle via dalla veste. Queste lappole sono nel mio cuore. |
+| [[Celia\|CELIA]] | Mandale via con un ‘ehm’. |
+| [[Rosalind\|ROSALINDA]] | Ci proverei, se col gridare ‘ehm’ potessi averlo. |
+| [[Celia\|CELIA]] | Via, via, lotta con i tuoi affetti. |
+| [[Rosalind\|ROSALINDA]] | Oh, essi parteggiano per un lottatore migliore di me. |
+| [[Celia\|CELIA]] | Oh, un buon augurio su di te! Ci proverai a suo [[Time\|tempo]], a dispetto d’una caduta. Ma lasciando da parte questi scherzi, parliamo sul serio. È possibile che così all’improvviso tu sia caduta in una così forte inclinazione per il figlio minore del vecchio Sir Rowland? |
+| [[Rosalind\|ROSALINDA]] | Il Duca mio padre amava teneramente suo padre. |
+| [[Celia\|CELIA]] | Ne consegue forse che tu debba [[Love\|amare]] teneramente suo figlio? Con questo genere di caccia io dovrei odiarlo, ché mio padre odiava teneramente suo padre; eppure io non odio [[Orlando]]. |
+| [[Rosalind\|ROSALINDA]] | No, in [[Faith\|fede]] mia, non odiarlo, per amor mio. |
+| [[Celia\|CELIA]] | Perché non dovrei? Non merita forse [[Well\|bene]]? Entrano [[Duke Frederick\|il Duca Federico]] e Signori |
+| [[Rosalind\|ROSALINDA]] | Lascia dunque che io lo [[Love\|ami]] per questo, e tu [[Love\|amalo]] perché lo amo io. Guarda, ecco viene il Duca. |
+| [[Celia\|CELIA]] | Con gli occhi pieni d’ira. |
+| [[Duke Frederick\|DUCA FEDERICO]] | (a [[Rosalind\|Rosalinda]]) Signorina, sbrigatevi con la massima fretta che vi salvi, e allontanatevi dalla nostra [[Court\|corte]]. |
+| [[Rosalind\|ROSALINDA]] | Io, zio? |
+| [[Duke Frederick\|DUCA FEDERICO]] | Tu, nipote. Entro dieci giorni, se sarai trovata così vicina alla nostra [[Court\|corte]] come venti miglia, ne morirai. |
+| [[Rosalind\|ROSALINDA]] | Supplico vostra grazia<br>di lasciarmi portare con me la conoscenza della mia colpa.<br>Se ho con me stessa qualche intelligenza,<br>o conosco i miei propri desideri,<br>se non sogno, o non sono in delirio—<br>e confido di non esserlo—allora, caro zio,<br>mai, neppure in un pensiero [[unborn\|non nato]],<br>ho offeso vostra altezza. |
+| [[Duke Frederick\|DUCA FEDERICO]] | Così fanno tutti i traditori.<br>Se la loro discolpa consistesse in parole,<br>sarebbero [[Innocent\|innocenti]] come la grazia stessa.<br>Ti basti che io non mi fido di te. |
+| [[Rosalind\|ROSALINDA]] | Eppure la vostra diffidenza non può farmi traditrice.<br>Ditemi su che cosa si fonda la verosimiglianza. |
+| [[Duke Frederick\|DUCA FEDERICO]] | Sei figlia di tuo padre—questo basta. |
+| [[Rosalind\|ROSALINDA]] | Lo ero anche quando vostra altezza gli tolse il ducato;<br>lo ero quando vostra altezza lo bandì.<br>Il tradimento non s’eredita, mio signore,<br>o, se pur lo traessimo dai nostri congiunti,<br>che importa a me? Mio padre non fu traditore.<br>Dunque, buon mio signore, non fraintendetemi tanto<br>da credere traditrice la mia [[Poverty\|povertà]]. |
+| [[Celia\|CELIA]] | Caro sovrano, ascoltatemi. |
+| [[Duke Frederick\|DUCA FEDERICO]] | Sì, [[Celia]], la trattenemmo per amor tuo,<br>altrimenti sarebbe andata ramingando col padre. |
+| [[Celia\|CELIA]] | Allora non supplicai io che restasse.<br>Fu vostro piacere, e vostro rimorso.<br>Ero troppo giovane a quel [[Time\|tempo]] per apprezzarla,<br>ma ora la conosco. Se ella è traditrice,<br>ebbene, lo sono anch’io. Sempre abbiamo dormito insieme,<br>ci [[Rose\|alzammo]] nel medesimo istante, imparato, giocato, mangiato insieme,<br>e ovunque andassimo, come i cigni di Giunone<br>sempre andavamo accoppiate e inseparabili. |
+| [[Duke Frederick\|DUCA FEDERICO]] | Ella è troppo sottile per te, e la sua mitezza,<br>il suo stesso [[Silence\|silenzio]], e la sua pazienza<br>parlano al popolo, e il popolo la compiange.<br>Tu sei una [[Fool\|sciocca]]. Ella ti ruba il tuo nome,<br>e tu apparirai più splendente e sembrerai più<br>virtuosa<br>quando sarà partita. Dunque non aprire le labbra.<br>Ferma e irrevocabile è la condanna<br>che ho pronunciato su di lei. Ella è bandita. |
+| [[Celia\|CELIA]] | Pronunciate allora quella sentenza anche su di me, mio signore.<br>Non posso vivere fuori della sua compagnia. |
+| [[Duke Frederick\|DUCA FEDERICO]] | Sei una sciocca.—Voi, nipote, provvedete a voi stessa.<br>Se oltrepassate il [[Time\|termine]], sul mio [[Honour\|onore]]<br>e nella [[Greatness\|grandezza]] della mia parola, morrete. |
+| *(didascalia)* | Esce [[Duke Frederick\|il Duca Federico]] coi Signori |
+| [[Celia\|CELIA]] | O mia povera [[Rosalind\|Rosalinda]], dove andrai?<br>Vuoi cambiare padre? Ti darò il mio.<br>Ti scongiuro, non essere più afflitta di me. |
+| [[Rosalind\|ROSALINDA]] | Ne ho più motivo. |
+| [[Celia\|CELIA]] | Non ne hai, cugina.<br>Di grazia, sii lieta. Non sai che il Duca<br>ha bandito me, sua figlia? |
+| [[Rosalind\|ROSALINDA]] | Questo no. |
+| [[Celia\|CELIA]] | No, non l’ha fatto? [[Rosalind\|Rosalinda]], ti manca dunque l’[[Love\|amore]]<br>che t’insegna che tu ed io siamo una cosa sola?<br>Dovremo essere divise? Ci separeremo, dolce fanciulla?<br>No. Che mio padre si cerchi un altro erede.<br>Perciò studia con me come possiamo fuggire,<br>dove andare, e che portare con noi,<br>e non cercare di prendere su di te il tuo mutamento,<br>di sopportare da sola i tuoi dolori, ed escludere me.<br>Ché per questo cielo, ora pallido ai nostri dolori,<br>di’ ciò che vuoi, io verrò con te. |
+| [[Rosalind\|ROSALINDA]] | Ma dove andremo? |
+| [[Celia\|CELIA]] | A cercare mio zio nella foresta d’Ardenne. |
+| [[Rosalind\|ROSALINDA]] | Ahimè, che pericolo sarà per noi,<br>fanciulle come siamo, viaggiare così lontano!<br>La [[Beauty\|bellezza]] provoca i ladri più dell’oro. |
+| [[Celia\|CELIA]] | Mi metterò poveri e umili panni,<br>e con una specie di terra d’ombra mi tingerò il viso.<br>Fa’ lo stesso tu, e così passeremo oltre<br>senza mai suscitare assalitori. |
+| [[Rosalind\|ROSALINDA]] | Non sarebbe meglio,<br>poiché io sono più alta del comune,<br>che mi vestissi in tutto e per tutto da uomo,<br>con una bella daga alla coscia,<br>uno spiedo da cinghiale in mano, e nel cuore,<br>vi giaccia pur nascosto quel [[Fear\|timore]] di donna che vorrà.<br>Avremo un aspetto spaccone e marziale,<br>come tanti altri codardi virili<br>che la sostengono con le apparenze. |
+| [[Celia\|CELIA]] | Come ti chiamerò quando sarai un uomo? |
+| [[Rosalind\|ROSALINDA]] | Non avrò nome peggiore del paggio di Giove,<br>e perciò badate a chiamarmi Ganimede.<br>Ma tu come ti farai chiamare? |
+| [[Celia\|CELIA]] | Qualcosa che alluda al mio stato.<br>Non più [[Celia]], ma Aliena. |
+| [[Rosalind\|ROSALINDA]] | Ma cugina, e se tentassimo di rubare<br>quel buffone di [[Fool\|scemo]] dalla [[Court\|corte]] di tuo padre?<br>Non sarebbe un conforto al nostro viaggio? |
+| [[Celia\|CELIA]] | Verrà con me per il vasto mondo.<br>Lascia [[Alone\|a me sola]] di corteggiarlo. Andiamo,<br>e raccogliamo insieme i nostri gioielli e le nostre ricchezze,<br>studiamo il [[Time\|momento]] più adatto e la via più sicura<br>per nasconderci all’inseguimento che seguirà<br>alla mia fuga. Ora andiamo contente,<br>alla libertà, e non al bando. |
 | *(didascalia)* | Escono |
 
 
@@ -1532,16 +1532,16 @@ As You Like It
 
 | Chi parla | Battuta |
 |---|---|
-| *(didascalia)* | Entrano [[Duke Senior|il Duca Seniore]], Amiens e due o tre Signori vestiti da forestali |
-| [[Duke Senior|DUCA SENIORE]] | Or dunque, miei compagni e fratelli d’[[Exile|esilio]],<br>non ha la lunga usanza reso questa vita più dolce<br>di quella della pompa dipinta? Non sono questi boschi<br>più liberi da pericoli dell’invidiosa [[Court|corte]]?<br>Qui non sentiamo altro che la pena d’Adamo,<br>la differenza delle [[Seasons|stagioni]], come la zanna gelida<br>e il rimbrotto villano del [[Wind|vento]] d’[[Winter|inverno]],<br>il quale, quando morde e soffia sul mio [[Body|corpo]]<br>fino a farmi rattrappire dal freddo, io sorrido e dico:<br>‘Questa non è adulazione. Sono consiglieri<br>che con sensibile forza mi persuadono di ciò che sono.’<br>Dolci sono gli usi dell’avversità,<br>la quale, come il rospo, brutta e velenosa,<br>porta tuttavia una preziosa [[Jewel|gemma]] nel capo;<br>e questa nostra vita, esente dal frequentare le folle,<br>trova lingue negli alberi, libri nei ruscelli che scorrono,<br>sermoni nelle pietre, e il bene in ogni cosa. |
+| *(didascalia)* | Entrano [[Duke Senior\|il Duca Seniore]], Amiens e due o tre Signori vestiti da forestali |
+| [[Duke Senior\|DUCA SENIORE]] | Or dunque, miei compagni e fratelli d’[[Exile\|esilio]],<br>non ha la lunga usanza reso questa vita più dolce<br>di quella della pompa dipinta? Non sono questi boschi<br>più liberi da pericoli dell’invidiosa [[Court\|corte]]?<br>Qui non sentiamo altro che la pena d’Adamo,<br>la differenza delle [[Seasons\|stagioni]], come la zanna gelida<br>e il rimbrotto villano del [[Wind\|vento]] d’[[Winter\|inverno]],<br>il quale, quando morde e soffia sul mio [[Body\|corpo]]<br>fino a farmi rattrappire dal freddo, io sorrido e dico:<br>‘Questa non è adulazione. Sono consiglieri<br>che con sensibile forza mi persuadono di ciò che sono.’<br>Dolci sono gli usi dell’avversità,<br>la quale, come il rospo, brutta e velenosa,<br>porta tuttavia una preziosa [[Jewel\|gemma]] nel capo;<br>e questa nostra vita, esente dal frequentare le folle,<br>trova lingue negli alberi, libri nei ruscelli che scorrono,<br>sermoni nelle pietre, e il bene in ogni cosa. |
 | AMIENS | Non la muterei. Felice è vostra grazia<br>che sa tradurre la caparbietà della fortuna<br>in uno stile così quieto e così dolce. |
-| [[Duke Senior|DUCA SENIORE]] | Suvvia, andiamo a uccidere qualche capriolo?<br>Eppure mi duole che quei poveri sciocchi screziati,<br>cittadini nativi di questa [[City|città]] [[Desert|deserta]],<br>debbano entro i loro propri confini, con punte biforcute,<br>vedersi trafiggere le tonde anche. |
-| PRIMO SIGNORE | In verità, mio signore,<br>il [[Melancholy|malinconico]] [[Jaques]] se ne affligge,<br>e in tal senso giura che voi usurpate più<br>di quanto faccia vostro fratello che vi ha bandito.<br>Oggi il mio signore d’Amiens ed io<br>ci siamo furtivamente accostati dietro a lui, mentre giaceva disteso<br>sotto una quercia, la cui bizzarra radice sporge<br>sul ruscello che brontola per questo bosco,<br>al qual luogo un povero cervo appartato,<br>che dalla mira del cacciatore aveva ricevuto una ferita,<br>venne a languire. E in verità, mio signore,<br>la misera bestia esalava tali gemiti<br>che il loro sfogo tendeva il suo cuoiaceo mantello<br>quasi a farlo scoppiare, e grosse tonde [[Tears|lacrime]]<br>si rincorrevano l’una l’altra giù per il suo [[Innocent|innocente]] muso<br>in pietosa caccia. E così il villoso [[Fool|sciocco]],<br>molto osservato dal [[Melancholy|malinconico]] [[Jaques]],<br>stava sull’estremo orlo del rapido ruscello,<br>accrescendolo con le [[Tears|lacrime]]. |
-| [[Duke Senior|DUCA SENIORE]] | Ma che disse [[Jaques]]?<br>Non moraleggiò su questo spettacolo? |
-| PRIMO SIGNORE | Oh sì, in mille similitudini.<br>Primo, sul suo piangere in un ruscello che non ne ha bisogno:<br>‘Povero cervo,’ disse, ‘tu fai testamento<br>come fanno i mondani, dando la tua somma di più<br>a ciò che già aveva troppo.’ Poi, essendo là<br>[[Alone|solo]],<br>lasciato e abbandonato dai suoi amici di velluto,<br>“È giusto,’ disse, ‘così la miseria separa<br>il flusso della compagnia.’ Poco dopo una mandria noncurante,<br>satolla di pastura, gli salta accanto<br>e non si ferma neppure a salutarlo. ‘Sì,’ disse [[Jaques]],<br>‘passate oltre, voi grassi e untuosi cittadini,<br>è proprio la moda. Perché mai dovreste guardare<br>quel povero fallito e rotto laggiù?’<br>Così, invettivando al massimo, egli trafigge<br>il [[Body|corpo]] della campagna, della [[City|città]], della [[Court|corte]],<br>sì, e di questa nostra vita, giurando che noi<br>siamo meri usurpatori, tiranni, e ciò ch’è peggio,<br>a spaventare gli [[Animals|animali]] e ad ammazzarli<br>nella loro assegnata e nativa dimora. |
-| [[Duke Senior|DUCA SENIORE]] | E lo lasciaste in questa contemplazione? |
+| [[Duke Senior\|DUCA SENIORE]] | Suvvia, andiamo a uccidere qualche capriolo?<br>Eppure mi duole che quei poveri sciocchi screziati,<br>cittadini nativi di questa [[City\|città]] [[Desert\|deserta]],<br>debbano entro i loro propri confini, con punte biforcute,<br>vedersi trafiggere le tonde anche. |
+| PRIMO SIGNORE | In verità, mio signore,<br>il [[Melancholy\|malinconico]] [[Jaques]] se ne affligge,<br>e in tal senso giura che voi usurpate più<br>di quanto faccia vostro fratello che vi ha bandito.<br>Oggi il mio signore d’Amiens ed io<br>ci siamo furtivamente accostati dietro a lui, mentre giaceva disteso<br>sotto una quercia, la cui bizzarra radice sporge<br>sul ruscello che brontola per questo bosco,<br>al qual luogo un povero cervo appartato,<br>che dalla mira del cacciatore aveva ricevuto una ferita,<br>venne a languire. E in verità, mio signore,<br>la misera bestia esalava tali gemiti<br>che il loro sfogo tendeva il suo cuoiaceo mantello<br>quasi a farlo scoppiare, e grosse tonde [[Tears\|lacrime]]<br>si rincorrevano l’una l’altra giù per il suo [[Innocent\|innocente]] muso<br>in pietosa caccia. E così il villoso [[Fool\|sciocco]],<br>molto osservato dal [[Melancholy\|malinconico]] [[Jaques]],<br>stava sull’estremo orlo del rapido ruscello,<br>accrescendolo con le [[Tears\|lacrime]]. |
+| [[Duke Senior\|DUCA SENIORE]] | Ma che disse [[Jaques]]?<br>Non moraleggiò su questo spettacolo? |
+| PRIMO SIGNORE | Oh sì, in mille similitudini.<br>Primo, sul suo piangere in un ruscello che non ne ha bisogno:<br>‘Povero cervo,’ disse, ‘tu fai testamento<br>come fanno i mondani, dando la tua somma di più<br>a ciò che già aveva troppo.’ Poi, essendo là<br>[[Alone\|solo]],<br>lasciato e abbandonato dai suoi amici di velluto,<br>“È giusto,’ disse, ‘così la miseria separa<br>il flusso della compagnia.’ Poco dopo una mandria noncurante,<br>satolla di pastura, gli salta accanto<br>e non si ferma neppure a salutarlo. ‘Sì,’ disse [[Jaques]],<br>‘passate oltre, voi grassi e untuosi cittadini,<br>è proprio la moda. Perché mai dovreste guardare<br>quel povero fallito e rotto laggiù?’<br>Così, invettivando al massimo, egli trafigge<br>il [[Body\|corpo]] della campagna, della [[City\|città]], della [[Court\|corte]],<br>sì, e di questa nostra vita, giurando che noi<br>siamo meri usurpatori, tiranni, e ciò ch’è peggio,<br>a spaventare gli [[Animals\|animali]] e ad ammazzarli<br>nella loro assegnata e nativa dimora. |
+| [[Duke Senior\|DUCA SENIORE]] | E lo lasciaste in questa contemplazione? |
 | SECONDO SIGNORE | Sì, mio signore, che piangeva e commentava<br>sul cervo singhiozzante. |
-| [[Duke Senior|DUCA SENIORE]] | Mostratemi il luogo.<br>[[Love|Amo]] affrontarlo in questi accessi cupi,<br>ché allora è pieno di materia. |
+| [[Duke Senior\|DUCA SENIORE]] | Mostratemi il luogo.<br>[[Love\|Amo]] affrontarlo in questi accessi cupi,<br>ché allora è pieno di materia. |
 | PRIMO SIGNORE | Vi condurrò subito da lui. |
 | *(didascalia)* | Escono |
 
@@ -1564,11 +1564,11 @@ As You Like It
 
 | Chi parla | Battuta |
 |---|---|
-| *(didascalia)* | Entrano [[Duke Frederick|il Duca Federico]] e Signori |
-| [[Duke Frederick|DUCA FEDERICO]] | È possibile che nessuno le abbia viste?<br>Non può essere. Certi furfanti della mia [[Court|corte]]<br>vi hanno consentito e l’hanno tollerato. |
+| *(didascalia)* | Entrano [[Duke Frederick\|il Duca Federico]] e Signori |
+| [[Duke Frederick\|DUCA FEDERICO]] | È possibile che nessuno le abbia viste?<br>Non può essere. Certi furfanti della mia [[Court\|corte]]<br>vi hanno consentito e l’hanno tollerato. |
 | PRIMO SIGNORE | Non odo di alcuno che l’abbia veduta.<br>Le dame che l’assistono nella sua camera<br>la videro a letto, e la mattina presto<br>trovarono il letto privato del suo tesoro. |
 | SECONDO SIGNORE | Mio signore, anche quel buffone rognoso di cui sì spesso<br>vostra grazia soleva ridere è scomparso.<br>Isperia, la gentildonna della Principessa,<br>confessa d’avere udito di nascosto<br>vostra figlia e sua cugina lodare assai<br>le doti e le grazie del lottatore<br>che poco fa atterrò il nerboruto Carlo,<br>ed ella crede che, ovunque siano andate,<br>quel giovane sia certamente in loro compagnia. |
-| [[Duke Frederick|DUCA FEDERICO]] | Mandate da suo fratello; conducete qui quel galante.<br>Se è assente, portate suo fratello da me,<br>lo costringerò a trovarlo. Fate questo all’istante,<br>e non venga meno la ricerca e l’[[Inquisition|inquisizione]]<br>per ricondurre queste sciocche fuggitive. |
+| [[Duke Frederick\|DUCA FEDERICO]] | Mandate da suo fratello; conducete qui quel galante.<br>Se è assente, portate suo fratello da me,<br>lo costringerò a trovarlo. Fate questo all’istante,<br>e non venga meno la ricerca e l’[[Inquisition\|inquisizione]]<br>per ricondurre queste sciocche fuggitive. |
 | *(didascalia)* | Escono separatamente |
 
 
@@ -1596,16 +1596,16 @@ As You Like It
 | Chi parla | Battuta |
 |---|---|
 | *(didascalia)* | Entrano [[Orlando]] e Adamo, incontrandosi |
-| [[Orlando|ORLANDO]] | Chi è là? |
-| ADAMO | Come, mio giovane padrone, o mio gentile padrone,<br>o mio dolce padrone, o voi [[Memory|memoria]]<br>del vecchio Sir Rowland, ma che fate voi qui!<br>Perché siete virtuoso? Perché la gente vi [[Love|ama]]?<br>E perché siete gentile, forte e valoroso?<br>Perché voleste essere tanto folle da vincere<br>il gagliardo campione dell’umorale Duca?<br>La vostra lode è giunta troppo presto a [[Home|casa]] prima di voi.<br>Non sapete, padrone, che a certa sorta d’uomini<br>le loro grazie non servono che da nemici?<br>Così fanno le vostre. Le vostre virtù, gentile padrone,<br>vi sono santificati e sacri traditori.<br>Oh, che mondo è questo, quando ciò ch’è avvenente<br>avvelena chi lo porta! |
-| [[Orlando|ORLANDO]] | Ma che c’è? |
-| ADAMO | Oh, giovane infelice,<br>non entrate in queste porte. Sotto questo tetto<br>vive il nemico di tutte le vostre grazie,<br>vostro fratello—no, non fratello—eppure il figlio—<br>eppure non il figlio, non lo chiamerò figlio—<br>di colui che stavo per chiamare suo padre,<br>ha udito le vostre lodi, e questa [[Night|notte]] intende<br>bruciare l’alloggio dove solete dormire,<br>e voi dentro. Se ciò gli fallisce,<br>avrà altri mezzi per sopprimervi.<br>Ho udito lui e le sue macchinazioni.<br>Questo non è luogo, questa [[house|casa]] non è che un macello.<br>Abborritela, [[Fear|temetela]], non entrateci. |
-| [[Orlando|ORLANDO]] | Ma dove, Adamo, vorresti che andassi? |
+| [[Orlando\|ORLANDO]] | Chi è là? |
+| ADAMO | Come, mio giovane padrone, o mio gentile padrone,<br>o mio dolce padrone, o voi [[Memory\|memoria]]<br>del vecchio Sir Rowland, ma che fate voi qui!<br>Perché siete virtuoso? Perché la gente vi [[Love\|ama]]?<br>E perché siete gentile, forte e valoroso?<br>Perché voleste essere tanto folle da vincere<br>il gagliardo campione dell’umorale Duca?<br>La vostra lode è giunta troppo presto a [[Home\|casa]] prima di voi.<br>Non sapete, padrone, che a certa sorta d’uomini<br>le loro grazie non servono che da nemici?<br>Così fanno le vostre. Le vostre virtù, gentile padrone,<br>vi sono santificati e sacri traditori.<br>Oh, che mondo è questo, quando ciò ch’è avvenente<br>avvelena chi lo porta! |
+| [[Orlando\|ORLANDO]] | Ma che c’è? |
+| ADAMO | Oh, giovane infelice,<br>non entrate in queste porte. Sotto questo tetto<br>vive il nemico di tutte le vostre grazie,<br>vostro fratello—no, non fratello—eppure il figlio—<br>eppure non il figlio, non lo chiamerò figlio—<br>di colui che stavo per chiamare suo padre,<br>ha udito le vostre lodi, e questa [[Night\|notte]] intende<br>bruciare l’alloggio dove solete dormire,<br>e voi dentro. Se ciò gli fallisce,<br>avrà altri mezzi per sopprimervi.<br>Ho udito lui e le sue macchinazioni.<br>Questo non è luogo, questa [[house\|casa]] non è che un macello.<br>Abborritela, [[Fear\|temetela]], non entrateci. |
+| [[Orlando\|ORLANDO]] | Ma dove, Adamo, vorresti che andassi? |
 | ADAMO | Non importa dove, purché non veniate qui. |
-| [[Orlando|ORLANDO]] | Come, vorresti che andassi a mendicare il cibo,<br>o che con vile e violenta [[Sword|spada]] mi procurassi<br>un vivere da ladro sulla pubblica [[Road|strada]]?<br>Questo devo fare, o non so che fare.<br>Eppure questo non lo farò, comunque io possa.<br>Piuttosto mi sottometterò alla malizia<br>d’un [[Blood|sangue]] sviato e d’un fratello sanguinario. |
-| ADAMO | Ma non fatelo. Ho cinquecento scudi,<br>il parco salario che risparmiai sotto vostro padre,<br>e che riposi perché mi fosse [[Nurse|nutrice]]<br>quando il servizio giacesse zoppo nelle mie vecchie membra,<br>e la vecchiaia negletta fosse gettata in un canto.<br>Prendeteli, e colui che nutre i corvi,<br>sì, e provvidamente provvede al passero,<br>sia conforto alla mia età. Ecco l’oro.<br>Tutto questo vi do. Lasciate che io sia vostro servo.<br>Benché sembri vecchio, sono ancora forte e gagliardo,<br>ché in gioventù non versai mai<br>liquori caldi e ribelli nel mio [[Blood|sangue]],<br>né con fronte sfacciata corteggiai<br>i mezzi della debolezza e della fiacchezza.<br>Perciò la mia vecchiaia è come un [[Winter|inverno]] gagliardo,<br>gelido ma benigno. Lasciate ch’io venga con voi,<br>farò il servizio d’un uomo più giovane<br>in tutte le vostre faccende e necessità. |
-| [[Orlando|ORLANDO]] | O buon vecchio, come [[Well|bene]] appare in te<br>il costante servizio del mondo antico,<br>quando il servo sudava per dovere, non per mercede!<br>Tu non sei fatto per la moda di questi tempi,<br>in cui nessuno suda se non per un avanzamento,<br>e ottenutolo soffoca il proprio servizio<br>proprio con l’averlo. Non è così con te.<br>Ma, povero vecchio, tu poti un albero marcio<br>che non può darti neppure un fiore<br>in cambio di tutte le tue pene e cure.<br>Ma vieni pure. Andremo insieme,<br>e prima d’aver speso la tua giovanile paga<br>troveremo qualche umile e stabile contentezza. |
-| ADAMO | Padrone, andate avanti, e io vi seguirò<br>fino all’ultimo respiro con [[Truth|fedeltà]] e lealtà.<br>Da diciassette anni fino a quasi ottanta<br>qui ho vissuto, ma ora qui non vivo più.<br>A diciassette anni molti cercan la fortuna,<br>ma a ottanta è troppo tarda l’ora.<br>Pur la fortuna non può meglio ricompensarmi<br>che col farmi morir [[Well|bene]], e non debitore del mio padrone. Escono |
+| [[Orlando\|ORLANDO]] | Come, vorresti che andassi a mendicare il cibo,<br>o che con vile e violenta [[Sword\|spada]] mi procurassi<br>un vivere da ladro sulla pubblica [[Road\|strada]]?<br>Questo devo fare, o non so che fare.<br>Eppure questo non lo farò, comunque io possa.<br>Piuttosto mi sottometterò alla malizia<br>d’un [[Blood\|sangue]] sviato e d’un fratello sanguinario. |
+| ADAMO | Ma non fatelo. Ho cinquecento scudi,<br>il parco salario che risparmiai sotto vostro padre,<br>e che riposi perché mi fosse [[Nurse\|nutrice]]<br>quando il servizio giacesse zoppo nelle mie vecchie membra,<br>e la vecchiaia negletta fosse gettata in un canto.<br>Prendeteli, e colui che nutre i corvi,<br>sì, e provvidamente provvede al passero,<br>sia conforto alla mia età. Ecco l’oro.<br>Tutto questo vi do. Lasciate che io sia vostro servo.<br>Benché sembri vecchio, sono ancora forte e gagliardo,<br>ché in gioventù non versai mai<br>liquori caldi e ribelli nel mio [[Blood\|sangue]],<br>né con fronte sfacciata corteggiai<br>i mezzi della debolezza e della fiacchezza.<br>Perciò la mia vecchiaia è come un [[Winter\|inverno]] gagliardo,<br>gelido ma benigno. Lasciate ch’io venga con voi,<br>farò il servizio d’un uomo più giovane<br>in tutte le vostre faccende e necessità. |
+| [[Orlando\|ORLANDO]] | O buon vecchio, come [[Well\|bene]] appare in te<br>il costante servizio del mondo antico,<br>quando il servo sudava per dovere, non per mercede!<br>Tu non sei fatto per la moda di questi tempi,<br>in cui nessuno suda se non per un avanzamento,<br>e ottenutolo soffoca il proprio servizio<br>proprio con l’averlo. Non è così con te.<br>Ma, povero vecchio, tu poti un albero marcio<br>che non può darti neppure un fiore<br>in cambio di tutte le tue pene e cure.<br>Ma vieni pure. Andremo insieme,<br>e prima d’aver speso la tua giovanile paga<br>troveremo qualche umile e stabile contentezza. |
+| ADAMO | Padrone, andate avanti, e io vi seguirò<br>fino all’ultimo respiro con [[Truth\|fedeltà]] e lealtà.<br>Da diciassette anni fino a quasi ottanta<br>qui ho vissuto, ma ora qui non vivo più.<br>A diciassette anni molti cercan la fortuna,<br>ma a ottanta è troppo tarda l’ora.<br>Pur la fortuna non può meglio ricompensarmi<br>che col farmi morir [[Well\|bene]], e non debitore del mio padrone. Escono |
 
 
 
@@ -1657,42 +1657,42 @@ As You Like It
 
 | Chi parla | Battuta |
 |---|---|
-| *(didascalia)* | Entrano [[Rosalind|Rosalinda]] in abiti maschili come Ganimede; [[Celia]] come Aliena, pastorella; e [[Touchstone]] il buffone |
-| [[Rosalind|ROSALINDA]] | O Giove, come sono stanchi i miei spiriti! |
-| [[Touchstone|TOUCHSTONE]] | Poco m’importa dei miei spiriti, se le mie gambe non fossero stanche. |
-| [[Rosalind|ROSALINDA]] | Mi sentirei in cuore di far disonore alle mie vesti d’uomo e di piangere come una donna. Ma devo confortare il vaso più debole, ché farsetto e brache devono mostrarsi coraggiosi davanti alla sottana; perciò, [[Courage|coraggio]], buona Aliena! |
-| [[Celia|CELIA]] | Vi prego, sopportatemi. Non posso andare più oltre. |
-| [[Touchstone|TOUCHSTONE]] | Da parte mia, preferirei sopportarvi che portarvi. Eppure non porterei nessuna [[Cross|croce]] se vi portassi, ché credo non abbiate denaro nella borsa. |
-| [[Rosalind|ROSALINDA]] | [[Well|Bene]], questa è la foresta d’Ardenne. |
-| [[Touchstone|TOUCHSTONE]] | Sì, e ora sono in Ardenne; tanto più [[Fool|sciocco]] io. Quando ero a [[Home|casa]] stavo in un luogo migliore; ma i viaggiatori devono contentarsi. |
-| *(didascalia)* | Entrano Corino e [[Silvius|Silvio]] |
-| [[Rosalind|ROSALINDA]] | Sì, contentati, buon [[Touchstone]]. Guardate, chi<br>viene qui—un giovane e un vecchio in solenne colloquio. |
-| CORINO | (a [[Silvius|Silvio]])<br>Questa è la via per farti disprezzare ancora da lei. |
-| [[Silvius|SILVIO]] | O Corino, se sapessi come la [[Love|amo]]! |
+| *(didascalia)* | Entrano [[Rosalind\|Rosalinda]] in abiti maschili come Ganimede; [[Celia]] come Aliena, pastorella; e [[Touchstone]] il buffone |
+| [[Rosalind\|ROSALINDA]] | O Giove, come sono stanchi i miei spiriti! |
+| [[Touchstone\|TOUCHSTONE]] | Poco m’importa dei miei spiriti, se le mie gambe non fossero stanche. |
+| [[Rosalind\|ROSALINDA]] | Mi sentirei in cuore di far disonore alle mie vesti d’uomo e di piangere come una donna. Ma devo confortare il vaso più debole, ché farsetto e brache devono mostrarsi coraggiosi davanti alla sottana; perciò, [[Courage\|coraggio]], buona Aliena! |
+| [[Celia\|CELIA]] | Vi prego, sopportatemi. Non posso andare più oltre. |
+| [[Touchstone\|TOUCHSTONE]] | Da parte mia, preferirei sopportarvi che portarvi. Eppure non porterei nessuna [[Cross\|croce]] se vi portassi, ché credo non abbiate denaro nella borsa. |
+| [[Rosalind\|ROSALINDA]] | [[Well\|Bene]], questa è la foresta d’Ardenne. |
+| [[Touchstone\|TOUCHSTONE]] | Sì, e ora sono in Ardenne; tanto più [[Fool\|sciocco]] io. Quando ero a [[Home\|casa]] stavo in un luogo migliore; ma i viaggiatori devono contentarsi. |
+| *(didascalia)* | Entrano Corino e [[Silvius\|Silvio]] |
+| [[Rosalind\|ROSALINDA]] | Sì, contentati, buon [[Touchstone]]. Guardate, chi<br>viene qui—un giovane e un vecchio in solenne colloquio. |
+| CORINO | (a [[Silvius\|Silvio]])<br>Questa è la via per farti disprezzare ancora da lei. |
+| [[Silvius\|SILVIO]] | O Corino, se sapessi come la [[Love\|amo]]! |
 | CORINO | In parte lo indovino; ché anch’io ho amato un tempo. |
-| [[Silvius|SILVIO]] | No, Corino, essendo vecchio non puoi indovinarlo,<br>benché in gioventù tu fossi [[Lover|amante]] tanto fedele<br>quanto mai sospirò su un guanciale a mezzanotte.<br>Ma se il tuo [[Love|amore]] fu mai simile al mio—<br>e certo credo che mai uomo [[Love|amò]] così—<br>quante azioni ridicolissime<br>ti trascinò a fare la tua fantasia? |
+| [[Silvius\|SILVIO]] | No, Corino, essendo vecchio non puoi indovinarlo,<br>benché in gioventù tu fossi [[Lover\|amante]] tanto fedele<br>quanto mai sospirò su un guanciale a mezzanotte.<br>Ma se il tuo [[Love\|amore]] fu mai simile al mio—<br>e certo credo che mai uomo [[Love\|amò]] così—<br>quante azioni ridicolissime<br>ti trascinò a fare la tua fantasia? |
 | CORINO | Mille, che ho dimenticate. |
-| [[Silvius|SILVIO]] | Oh, allora non hai mai [[Love|amato]] così di cuore.<br>Se non ricordi la minima follia<br>in cui mai l’[[Love|amore]] ti fece correre,<br>tu non hai amato.<br>O se non ti sei seduto come io faccio ora,<br>logorando chi t’ascolta con la lode della tua signora,<br>tu non hai amato.<br>O se non ti sei staccato dalla compagnia<br>bruscamente, come ora mi costringe la mia passione,<br>tu non hai amato.<br>O [[Phoebe]], [[Phoebe]], [[Phoebe]]! Esce |
-| [[Rosalind|ROSALINDA]] | Ahimè, povero pastore, frugando la tua ferita<br>ho per dura ventura ritrovato la mia. |
-| [[Touchstone|TOUCHSTONE]] | E io la mia. Ricordo che, quando ero [[Love|innamorato]], ruppi la mia [[Sword|spada]] contro una pietra e le dissi di prendersi quello per essere andata di [[Night|notte]] da Jane Smile; e ricordo il bacio dato alla sua mestola da bucato, e alle poppe della vacca che le sue belle mani screpolate avevano munto; e ricordo il corteggiamento fatto a un baccello di piselli in vece sua, dal quale tolsi due granelli e, ridandoglieli, dissi con [[Tears|lacrime]] piangenti: ‘Portali per amor mio.’ Noi che siamo veri [[lovers|amanti]] corriamo in strane capriole. Ma poiché tutto è mortale in [[Nature|natura]], così tutta la [[Nature|natura]] in [[Love|amore]] è mortale nella follia. |
-| [[Rosalind|ROSALINDA]] | Parli più saggiamente di quanto tu ne sia consapevole. |
-| [[Touchstone|TOUCHSTONE]] | Anzi, non sarò mai consapevole del mio ingegno finché non ci abbia sbattuto contro gli stinchi. |
-| [[Rosalind|ROSALINDA]] | Giove, Giove, la passione di questo pastore<br>somiglia molto alla mia foggia. |
-| [[Touchstone|TOUCHSTONE]] | E alla mia, ma con me comincia a farsi un po’ stantia. |
-| [[Celia|CELIA]] | Vi prego, uno di voi interroghi quell’uomo laggiù<br>se per oro voglia darci qualche cibo.<br>Vengo meno quasi fino alla [[Death|morte]]. |
-| [[Touchstone|TOUCHSTONE]] | (a Corino) Olà, villano! |
-| [[Rosalind|ROSALINDA]] | Taci, [[Fool|buffone]], non è tuo parente. |
+| [[Silvius\|SILVIO]] | Oh, allora non hai mai [[Love\|amato]] così di cuore.<br>Se non ricordi la minima follia<br>in cui mai l’[[Love\|amore]] ti fece correre,<br>tu non hai amato.<br>O se non ti sei seduto come io faccio ora,<br>logorando chi t’ascolta con la lode della tua signora,<br>tu non hai amato.<br>O se non ti sei staccato dalla compagnia<br>bruscamente, come ora mi costringe la mia passione,<br>tu non hai amato.<br>O [[Phoebe]], [[Phoebe]], [[Phoebe]]! Esce |
+| [[Rosalind\|ROSALINDA]] | Ahimè, povero pastore, frugando la tua ferita<br>ho per dura ventura ritrovato la mia. |
+| [[Touchstone\|TOUCHSTONE]] | E io la mia. Ricordo che, quando ero [[Love\|innamorato]], ruppi la mia [[Sword\|spada]] contro una pietra e le dissi di prendersi quello per essere andata di [[Night\|notte]] da Jane Smile; e ricordo il bacio dato alla sua mestola da bucato, e alle poppe della vacca che le sue belle mani screpolate avevano munto; e ricordo il corteggiamento fatto a un baccello di piselli in vece sua, dal quale tolsi due granelli e, ridandoglieli, dissi con [[Tears\|lacrime]] piangenti: ‘Portali per amor mio.’ Noi che siamo veri [[lovers\|amanti]] corriamo in strane capriole. Ma poiché tutto è mortale in [[Nature\|natura]], così tutta la [[Nature\|natura]] in [[Love\|amore]] è mortale nella follia. |
+| [[Rosalind\|ROSALINDA]] | Parli più saggiamente di quanto tu ne sia consapevole. |
+| [[Touchstone\|TOUCHSTONE]] | Anzi, non sarò mai consapevole del mio ingegno finché non ci abbia sbattuto contro gli stinchi. |
+| [[Rosalind\|ROSALINDA]] | Giove, Giove, la passione di questo pastore<br>somiglia molto alla mia foggia. |
+| [[Touchstone\|TOUCHSTONE]] | E alla mia, ma con me comincia a farsi un po’ stantia. |
+| [[Celia\|CELIA]] | Vi prego, uno di voi interroghi quell’uomo laggiù<br>se per oro voglia darci qualche cibo.<br>Vengo meno quasi fino alla [[Death\|morte]]. |
+| [[Touchstone\|TOUCHSTONE]] | (a Corino) Olà, villano! |
+| [[Rosalind\|ROSALINDA]] | Taci, [[Fool\|buffone]], non è tuo parente. |
 | CORINO | Chi chiama? |
-| [[Touchstone|TOUCHSTONE]] | I vostri superiori, signore. |
+| [[Touchstone\|TOUCHSTONE]] | I vostri superiori, signore. |
 | CORINO | Altrimenti sarebbero ben miserabili. |
-| [[Rosalind|ROSALINDA]] | (a [[Touchstone]])<br>Taci, ti dico. (A Corino) Buona sera a voi, amico. |
+| [[Rosalind\|ROSALINDA]] | (a [[Touchstone]])<br>Taci, ti dico. (A Corino) Buona sera a voi, amico. |
 | CORINO | E a voi, gentile signore, e a voi tutti. |
-| [[Rosalind|ROSALINDA]] | Ti prego, pastore, se [[Love|amore]] o oro<br>possono in questo luogo [[Desert|deserto]] comprare ospitalità,<br>conducici dove possiamo riposarci e nutrirci.<br>Ecco una giovane fanciulla assai oppressa dal viaggio,<br>che vien meno per bisogno di soccorso. |
+| [[Rosalind\|ROSALINDA]] | Ti prego, pastore, se [[Love\|amore]] o oro<br>possono in questo luogo [[Desert\|deserto]] comprare ospitalità,<br>conducici dove possiamo riposarci e nutrirci.<br>Ecco una giovane fanciulla assai oppressa dal viaggio,<br>che vien meno per bisogno di soccorso. |
 | CORINO | Bel signore, io la compiango,<br>e vorrei, per amor suo più che per il mio,<br>che le mie fortune fossero più atte a sollevarla.<br>Ma io sono pastore d’un altro uomo,<br>e non toso i velli che pascolo.<br>Il mio padrone è d’indole villana,<br>e poco si cura di trovare la via del cielo<br>compiendo opere d’ospitalità.<br>Inoltre la sua capanna, le greggi e i confini del pascolo<br>sono ora in vendita, e al nostro ovile adesso,<br>a causa della sua assenza, non v’è nulla<br>di cui possiate nutrirvi. Ma venite a vedere ciò che c’è,<br>e per quanto sta in me sarete i benvenuti. |
-| [[Rosalind|ROSALINDA]] | Chi è colui che comprerà il gregge e il pascolo? |
+| [[Rosalind\|ROSALINDA]] | Chi è colui che comprerà il gregge e il pascolo? |
 | CORINO | Quel giovane bifolco che avete visto qui poco fa,<br>che poco si cura di comprare alcunché. |
-| [[Rosalind|ROSALINDA]] | Ti prego, se ciò s’accorda con l’onestà,<br>compra tu la capanna, il pascolo e il gregge,<br>e avrai da noi di che pagarli. |
-| [[Celia|CELIA]] | E accresceremo il tuo salario. Mi piace questo luogo,<br>e volentieri vi consumerei il mio [[Time|tempo]]. |
+| [[Rosalind\|ROSALINDA]] | Ti prego, se ciò s’accorda con l’onestà,<br>compra tu la capanna, il pascolo e il gregge,<br>e avrai da noi di che pagarli. |
+| [[Celia\|CELIA]] | E accresceremo il tuo salario. Mi piace questo luogo,<br>e volentieri vi consumerei il mio [[Time\|tempo]]. |
 | CORINO | Certamente la cosa è da vendere.<br>Venite con me. Se, dopo averne udita relazione, vi piacciono<br>il terreno, il profitto e questo genere di vita,<br>io sarò il vostro fedelissimo guardiano,<br>e lo comprerò col vostro oro all’istante. Escono |
 
 
@@ -1730,24 +1730,24 @@ As You Like It
 | Chi parla | Battuta |
 |---|---|
 | *(didascalia)* | Entrano Amiens, [[Jaques]] e altri Signori vestiti da forestali |
-| *(didascalia)* | [AMIENS] (canta)<br>Sotto l’albero del verde bosco<br>chi ama giacere con me,<br>e volgere la sua allegra nota<br>alla gola del dolce augello,<br>venga qui, venga qui, venga qui.<br>Qui non vedrà<br>nemico alcuno<br>se non l’[[Winter|inverno]] e il tempo aspro. |
-| [[Jaques|JAQUES]] | Ancora, ancora, ti prego, ancora. |
-| AMIENS | Vi farà venire la [[Melancholy|malinconia]], Monsieur [[Jaques]]. |
-| [[Jaques|JAQUES]] | Gliene rendo grazie. Ancora, ti prego, ancora. Io so succhiare [[Melancholy|malinconia]] da una [[Song|canzone]] come una donnola succhia le uova. Ancora, ti prego, ancora. |
+| *(didascalia)* | [AMIENS] (canta)<br>Sotto l’albero del verde bosco<br>chi ama giacere con me,<br>e volgere la sua allegra nota<br>alla gola del dolce augello,<br>venga qui, venga qui, venga qui.<br>Qui non vedrà<br>nemico alcuno<br>se non l’[[Winter\|inverno]] e il tempo aspro. |
+| [[Jaques\|JAQUES]] | Ancora, ancora, ti prego, ancora. |
+| AMIENS | Vi farà venire la [[Melancholy\|malinconia]], Monsieur [[Jaques]]. |
+| [[Jaques\|JAQUES]] | Gliene rendo grazie. Ancora, ti prego, ancora. Io so succhiare [[Melancholy\|malinconia]] da una [[Song\|canzone]] come una donnola succhia le uova. Ancora, ti prego, ancora. |
 | AMIENS | La mia voce è rauca, so di non potervi piacere. |
-| [[Jaques|JAQUES]] | Non [[Desire|desidero]] che mi piacciate, [[Desire|desidero]] che cantiate. Su, ancora; un’altra stanza. Le chiamate stanze, voi? |
+| [[Jaques\|JAQUES]] | Non [[Desire\|desidero]] che mi piacciate, [[Desire\|desidero]] che cantiate. Su, ancora; un’altra stanza. Le chiamate stanze, voi? |
 | AMIENS | Come volete, Monsieur [[Jaques]]. |
-| [[Jaques|JAQUES]] | Anzi, non m’importa dei loro nomi, non mi devono nulla. Volete cantare? |
+| [[Jaques\|JAQUES]] | Anzi, non m’importa dei loro nomi, non mi devono nulla. Volete cantare? |
 | AMIENS | Più per vostra richiesta che per piacere a me stesso. |
-| [[Jaques|JAQUES]] | [[Well|Bene]] dunque, se mai ringrazierò qualcuno, ringrazierò voi. Ma ciò che chiamano complimento è come l’incontro di due babbuini, e quando un uomo mi ringrazia di cuore mi pare d’avergli dato un soldo ed egli mi renda il ringraziamento d’un mendicante. Su, cantate; e voi che non volete, tenete a freno la lingua. |
-| AMIENS | [[Well|Bene]], finirò la [[Song|canzone]].—Signori, apparecchiate intanto.<br>I Signori preparano cibo e bevanda<br>Il Duca berrà sotto quest’albero. (A [[Jaques]]) Vi ha cercato tutto il giorno. |
-| [[Jaques|JAQUES]] | E io tutto il giorno ho cercato d’evitarlo. È troppo disputatore per la mia compagnia. Io penso a tante cose quanto lui, ma ne rendo grazie al cielo, e non me ne vanto. Su, gorgheggia, su. |
-| TUTTI | (cantano)<br>Chi fugge l’[[Ambition|ambizione]],<br>e ama vivere al sole,<br>cercandosi il cibo che mangia<br>e contento di quel che ottiene,<br>venga qui, venga qui, venga qui.<br>Qui non vedrà<br>nemico alcuno<br>se non l’[[Winter|inverno]] e il tempo aspro. |
-| [[Jaques|JAQUES]] | Vi darò una strofa su quest’aria, che feci ieri a dispetto della mia invenzione. |
+| [[Jaques\|JAQUES]] | [[Well\|Bene]] dunque, se mai ringrazierò qualcuno, ringrazierò voi. Ma ciò che chiamano complimento è come l’incontro di due babbuini, e quando un uomo mi ringrazia di cuore mi pare d’avergli dato un soldo ed egli mi renda il ringraziamento d’un mendicante. Su, cantate; e voi che non volete, tenete a freno la lingua. |
+| AMIENS | [[Well\|Bene]], finirò la [[Song\|canzone]].—Signori, apparecchiate intanto.<br>I Signori preparano cibo e bevanda<br>Il Duca berrà sotto quest’albero. (A [[Jaques]]) Vi ha cercato tutto il giorno. |
+| [[Jaques\|JAQUES]] | E io tutto il giorno ho cercato d’evitarlo. È troppo disputatore per la mia compagnia. Io penso a tante cose quanto lui, ma ne rendo grazie al cielo, e non me ne vanto. Su, gorgheggia, su. |
+| TUTTI | (cantano)<br>Chi fugge l’[[Ambition\|ambizione]],<br>e ama vivere al sole,<br>cercandosi il cibo che mangia<br>e contento di quel che ottiene,<br>venga qui, venga qui, venga qui.<br>Qui non vedrà<br>nemico alcuno<br>se non l’[[Winter\|inverno]] e il tempo aspro. |
+| [[Jaques\|JAQUES]] | Vi darò una strofa su quest’aria, che feci ieri a dispetto della mia invenzione. |
 | AMIENS | E io la canterò. |
-| [[Jaques|JAQUES]] | Fa così:<br>Se mai accade<br>che un uomo si faccia asino,<br>lasciando ricchezze e agi<br>per compiacere un’ostinata voglia,<br>ducdame, ducdame, ducdame.<br>Qui egli vedrà<br>sciocchi grossolani com’è lui,<br>se vorrà venire da me. |
+| [[Jaques\|JAQUES]] | Fa così:<br>Se mai accade<br>che un uomo si faccia asino,<br>lasciando ricchezze e agi<br>per compiacere un’ostinata voglia,<br>ducdame, ducdame, ducdame.<br>Qui egli vedrà<br>sciocchi grossolani com’è lui,<br>se vorrà venire da me. |
 | AMIENS | Che cos’è questo ‘ducdame’? |
-| [[Jaques|JAQUES]] | È un’invocazione greca per chiamare gli sciocchi in cerchio. Andrò a [[Sleep|dormire]], se ci riesco. Se non ci riesco, inveirò contro tutti i primogeniti d’[[Egypt|Egitto]]. |
+| [[Jaques\|JAQUES]] | È un’invocazione greca per chiamare gli sciocchi in cerchio. Andrò a [[Sleep\|dormire]], se ci riesco. Se non ci riesco, inveirò contro tutti i primogeniti d’[[Egypt\|Egitto]]. |
 | AMIENS | E io andrò a cercare il Duca; il suo banchetto è pronto. |
 | *(didascalia)* | Escono |
 
@@ -1768,8 +1768,8 @@ As You Like It
 | Chi parla | Battuta |
 |---|---|
 | *(didascalia)* | Entrano [[Orlando]] e Adamo |
-| ADAMO | Caro padrone, non posso andare più oltre. Oh, muoio di fame. Qui mi corico e misuro la mia [[Grave|fossa]]. Addio, buon padrone. |
-| [[Orlando|ORLANDO]] | Suvvia, come, Adamo? Non c’è in te cuore più grande? Vivi ancora un poco, confortati un poco, rallegrati un poco. Se questa selvaggia foresta produce qualche fiera, o sarò cibo per lei o la porterò a te come cibo. La tua immaginazione è più vicina alla [[Death|morte]] che le tue forze. Per amor mio, fatti animo. Tieni ancora un poco la [[Death|morte]] a distanza di braccio. Sarò qui con te fra breve, e se non ti porto qualcosa da mangiare, ti darò licenza di morire. Ma se muori prima ch’io torni, ti fai beffe della mia fatica. [[Well|Ben]] detto. Hai l’aria più lieta, e sarò da te presto. Eppure giaci nell’aria gelida. Vieni, ti porterò a qualche riparo, e non morrai per mancanza d’un pranzo se qualcosa vive in questo [[Desert|deserto]]. Su, allegro, buon Adamo. [[Orlando]] porta via Adamo |
+| ADAMO | Caro padrone, non posso andare più oltre. Oh, muoio di fame. Qui mi corico e misuro la mia [[Grave\|fossa]]. Addio, buon padrone. |
+| [[Orlando\|ORLANDO]] | Suvvia, come, Adamo? Non c’è in te cuore più grande? Vivi ancora un poco, confortati un poco, rallegrati un poco. Se questa selvaggia foresta produce qualche fiera, o sarò cibo per lei o la porterò a te come cibo. La tua immaginazione è più vicina alla [[Death\|morte]] che le tue forze. Per amor mio, fatti animo. Tieni ancora un poco la [[Death\|morte]] a distanza di braccio. Sarò qui con te fra breve, e se non ti porto qualcosa da mangiare, ti darò licenza di morire. Ma se muori prima ch’io torni, ti fai beffe della mia fatica. [[Well\|Ben]] detto. Hai l’aria più lieta, e sarò da te presto. Eppure giaci nell’aria gelida. Vieni, ti porterò a qualche riparo, e non morrai per mancanza d’un pranzo se qualcosa vive in questo [[Desert\|deserto]]. Su, allegro, buon Adamo. [[Orlando]] porta via Adamo |
 
 
 
@@ -1824,46 +1824,46 @@ As You Like It
 
 | Chi parla | Battuta |
 |---|---|
-| *(didascalia)* | Entrano [[Duke Senior|il Duca Seniore]] e Signori vestiti da fuorilegge |
-| [[Duke Senior|DUCA SENIORE]] | Credo che si sia trasformato in bestia,<br>ché in nessun luogo lo trovo in forma d’uomo. |
-| PRIMO SIGNORE | Mio signore, se n’è andato di qui proprio ora.<br>Qui era allegro, ascoltando una [[Song|canzone]]. |
-| [[Duke Senior|DUCA SENIORE]] | Se lui, impastato di dissonanze, si fa musicale,<br>avremo presto discordia nelle sfere.<br>Andate a cercarlo. Ditegli che voglio parlargli. |
+| *(didascalia)* | Entrano [[Duke Senior\|il Duca Seniore]] e Signori vestiti da fuorilegge |
+| [[Duke Senior\|DUCA SENIORE]] | Credo che si sia trasformato in bestia,<br>ché in nessun luogo lo trovo in forma d’uomo. |
+| PRIMO SIGNORE | Mio signore, se n’è andato di qui proprio ora.<br>Qui era allegro, ascoltando una [[Song\|canzone]]. |
+| [[Duke Senior\|DUCA SENIORE]] | Se lui, impastato di dissonanze, si fa musicale,<br>avremo presto discordia nelle sfere.<br>Andate a cercarlo. Ditegli che voglio parlargli. |
 | *(didascalia)* | Entra [[Jaques]] |
 | PRIMO SIGNORE | Mi risparmia la fatica venendo da sé. |
-| [[Duke Senior|DUCA SENIORE]] | Ebbene, monsieur, che vita è questa,<br>che i vostri poveri amici debbano corteggiare la vostra compagnia!<br>Come, avete l’aria allegra. |
-| [[Jaques|JAQUES]] | Uno [[Fool|sciocco]], uno [[Fool|sciocco]], ho incontrato uno [[Fool|sciocco]] nella foresta,<br>uno sciocco variopinto—mondo miserabile!—<br>com’è vero ch’io vivo di cibo, ho incontrato uno [[Fool|sciocco]],<br>che si coricò a crogiolarsi al sole,<br>e inveiva contro Madonna Fortuna in buoni termini,<br>in ben studiati termini, e pure era uno [[Fool|sciocco]] variopinto.<br>‘Buon giorno, [[Fool|sciocco]],’ dissi io. ‘No, signore,’ disse lui,<br>‘non chiamatemi [[Fool|sciocco]] finché il cielo non m’abbia mandato fortuna.’<br>E allora trasse un orologio dalla sua bisaccia,<br>e guardandolo con occhio spento<br>dice assai saggiamente ‘Sono le dieci all’[[Clock|orologio]].’<br>‘Così possiamo vedere’, disse, ‘come va il mondo.<br>Non è che un’ora fa che erano le nove,<br>e dopo un’altra ora saranno le undici.<br>E così di ora in ora maturiamo e maturiamo,<br>e poi di ora in ora marciamo e marciamo;<br>e da ciò pende una storia.’ Quando udii<br>lo [[Fool|sciocco]] variopinto moraleggiare così sul [[Time|tempo]],<br>i miei polmoni cominciarono a cantare come un gallo,<br>che gli sciocchi potessero essere così profondamente contemplativi,<br>e risi senza intermissione<br>un’ora al suo orologio. O nobile [[Fool|sciocco]],<br>degno sciocco—il variopinto è l’unico abito da portare. |
-| [[Duke Senior|DUCA SENIORE]] | Chi è questo [[Fool|sciocco]]? 35 |
-| [[Jaques|JAQUES]] | O degno [[Fool|sciocco]]!—Uno che è stato cortigiano,<br>e dice: ‘Se le dame sono giovani e belle,<br>hanno il dono di saperlo.’ E nel suo cervello,<br>che è secco come il biscotto avanzato<br>dopo un viaggio, ha stipato strani ripostigli<br>d’osservazione, che egli sfoga<br>in forme sconquassate. Oh, fossi io uno [[Fool|sciocco]]!<br>Ambisco a un abito variopinto. |
-| [[Duke Senior|DUCA SENIORE]] | L’avrai. |
-| [[Jaques|JAQUES]] | È la mia sola richiesta,<br>purché estirpiate dai vostri migliori giudizi<br>ogni opinione che vi cresce rigogliosa<br>ch’io sia saggio. Devo avere insieme<br>libertà, un privilegio ampio come il [[Wind|vento]],<br>di soffiare su chi mi piace, ché tale l’hanno gli sciocchi;<br>e quelli che più sono scorticati dalla mia follia,<br>quelli più devono ridere. E perché, signore, devono farlo?<br>Il perché è chiaro come la via della chiesa parrocchiale:<br>colui che uno [[Fool|sciocco]] colpisce assai saggiamente<br>fa assai scioccamente, per quanto gli bruci,<br>a mostrarsi altro che insensibile alla frecciata. Se no,<br>la follia del saggio viene anatomizzata<br>proprio dagli sguardi sprecati dello [[Fool|sciocco]].<br>Rivestitemi del mio abito variopinto. Datemi licenza<br>di dire ciò che penso, e io da parte a parte<br>purgherò il turpe [[Body|corpo]] di questo mondo infetto,<br>se accetteranno con pazienza la mia medicina. |
-| [[Duke Senior|DUCA SENIORE]] | Vergogna a te, so bene che cosa faresti. |
-| [[Jaques|JAQUES]] | Come, per un gettone, che farei se non del bene? |
-| [[Duke Senior|DUCA SENIORE]] | Peccato turpe e maligno al sommo, rimproverare il peccato;<br>ché tu stesso sei stato libertino,<br>sensuale quanto il pungolo bestiale medesimo,<br>e tutte le piaghe gonfie e i mali giunti a maturazione<br>che tu, con licenza di piede libero, hai contratto,<br>li vomiteresti addosso al mondo intero. |
-| [[Jaques|JAQUES]] | E chi grida contro l’[[Pride|orgoglio]]<br>che possa con ciò accusare qualcuno in particolare?<br>Non fluisce esso vasto quanto il mare,<br>finché i mezzi stessi, esausti, non rifluiscano?<br>Quale donna della [[City|città]] nomino io<br>quando dico che la donna di [[City|città]] porta<br>su spalle indegne il costo dei principi?<br>Chi può farsi avanti e dire che intendo lei,<br>quando una tale è come la sua vicina?<br>O chi, del più basso mestiere,<br>che dica che la sua sfarzosità non è a mie spese,<br>credendo ch’io intenda lui, ma con ciò adatta<br>la sua follia alla tempra del mio discorso?<br>Ebbene, come dunque, che dunque, vediamo in che cosa<br>la mia lingua gli abbia fatto torto. Se gli rende giustizia,<br>allora è lui che ha fatto torto a sé stesso. Se ne è libero,<br>allora la mia accusa vola come un’oca selvatica,<br>non reclamata da alcuno. Ma chi viene qui? |
-| *(didascalia)* | Entra [[Orlando]], con la [[Sword|spada]] sguainata |
-| [[Orlando|ORLANDO]] | Fermatevi, e non mangiate più! |
-| [[Jaques|JAQUES]] | Ma io non ho ancora mangiato nulla. |
-| [[Orlando|ORLANDO]] | Né mangerai finché la necessità non sia soddisfatta. |
-| [[Jaques|JAQUES]] | Di che razza sarà mai questo gallo? |
-| [[Duke Senior|DUCA SENIORE]] | Sei tu così imbaldanzito, uomo, dalla tua sventura?<br>O sei un rozzo spregiatore delle buone maniere,<br>che ti mostri così vuoto di civiltà? |
-| [[Orlando|ORLANDO]] | Avete toccato subito la mia vena. La spinosa punta<br>della nuda sventura m’ha tolto l’apparenza<br>della liscia civiltà. Eppure sono cresciuto nell’interno,<br>e conosco qualche educazione. Ma fermatevi, dico.<br>Muore chi tocca uno solo di questi frutti<br>finché io e le mie faccende non siamo soddisfatti. |
-| [[Jaques|JAQUES]] | Se non vi si può rispondere con la ragione, devo morire. |
-| [[Duke Senior|DUCA SENIORE]] | Che cosa volete? La vostra gentilezza ci costringerà<br>più di quanto la vostra forza ci muova a gentilezza. |
-| [[Orlando|ORLANDO]] | Muoio quasi di fame; datemi da mangiare. |
-| [[Duke Senior|DUCA SENIORE]] | Sedete e mangiate, e siate benvenuto alla nostra tavola. |
-| [[Orlando|ORLANDO]] | Parlate voi così gentilmente? Perdonatemi, vi prego.<br>Credevo che tutto qui fosse selvaggio,<br>e perciò mi son messo il volto<br>del severo comando. Ma chiunque voi siate,<br>che in questo [[Desert|deserto]] inaccessibile,<br>sotto l’ombra di rami [[Melancholy|malinconici]],<br>perdete e trascurate le ore striscianti del [[Time|tempo]],<br>se mai avete conosciuto giorni migliori,<br>se mai foste dove le [[Bells|campane]] hanno chiamato alla chiesa,<br>se mai sedeste alla mensa di qualche uomo dabbene,<br>se mai vi asciugaste dalle palpebre una lacrima,<br>e sapete che cosa sia compatire ed essere compatiti,<br>sia la gentilezza la mia forte costrizione.<br>In questa [[Hope|speranza]] arrossisco e nascondo la mia [[Sword|spada]]. |
-| [[Duke Senior|DUCA SENIORE]] | È vero che abbiamo veduto giorni migliori,<br>e da sacra campana siamo stati chiamati alla chiesa,<br>e sedemmo a mense d’uomini dabbene, e ci asciugammo gli occhi<br>di gocce che sacra pietà aveva generate.<br>E perciò sedete in gentilezza,<br>e prendete a vostro comando quel soccorso che abbiamo<br>e che possa essere prestato al vostro bisogno. |
-| [[Orlando|ORLANDO]] | Allora trattenetevi un poco dal cibo,<br>mentre io, come una cerva, vado a cercare il mio cerbiatto<br>e a dargli da mangiare. C’è un povero vecchio<br>che dietro a me con molti passi affaticati<br>ha zoppicato per puro [[Love|amore]]. Finché egli non sia sazio,<br>oppresso da due deboli mali, la vecchiaia e la fame,<br>non toccherò un boccone. |
-| [[Duke Senior|DUCA SENIORE]] | Andate a trovarlo,<br>e noi non consumeremo nulla finché non tornerete. |
-| [[Orlando|ORLANDO]] | Vi ringrazio; e siate benedetti per il vostro buon conforto Esce |
-| [[Duke Senior|DUCA SENIORE]] | Vedi che non siamo i soli infelici, [[Alone|soli]] al mondo.<br>Questo vasto e universale teatro<br>rappresenta spettacoli più dolorosi della scena<br>in cui noi recitiamo. |
-| [[Jaques|JAQUES]] | Tutto il mondo è un palcoscenico,<br>e tutti gli uomini e le donne non sono che attori.<br>Hanno le loro uscite e le loro entrate,<br>e un uomo nel suo [[Time|tempo]] recita molte parti,<br>e i suoi atti sono sette età. Dapprima il neonato,<br>che vagisce e vomita fra le braccia della [[Nurse|balia]].<br>Poi il piagnucoloso scolaretto con la sua cartella<br>e il viso lucente di mattino, che striscia come lumaca<br>controvoglia verso la scuola. E poi l’[[Lover|amante]],<br>che sospira come fornace, con una dolente ballata<br>fatta al sopracciglio della sua signora. Poi il soldato,<br>pieno di strani giuramenti, e barbuto come il pardo,<br>geloso dell’[[Honour|onore]], repentino e pronto alla lite,<br>che insegue la bolla della reputazione<br>fin nella bocca del cannone. E poi il giudice,<br>con bella pancia rotonda foderata di buon cappone,<br>con occhi severi e barba di taglio solenne,<br>pieno di saggi detti e di moderni esempi;<br>e così recita la sua parte. La sesta età trapassa<br>nel magro pantalone in pantofole,<br>con gli occhiali sul naso e la borsa al fianco,<br>le calze della gioventù, [[Well|ben]] conservate, d’un mondo troppo larghe<br>per lo stinco rattrappito, e la sua voce grossa e virile,<br>tornando di nuovo al soprano infantile, zufola<br>e fischia nel suo suono. Ultima scena di tutte,<br>che chiude questa strana e movimentata [[history|storia]],<br>è la seconda fanciullezza e il puro oblio,<br>senza denti, senza occhi, senza gusto, senza nulla. |
+| [[Duke Senior\|DUCA SENIORE]] | Ebbene, monsieur, che vita è questa,<br>che i vostri poveri amici debbano corteggiare la vostra compagnia!<br>Come, avete l’aria allegra. |
+| [[Jaques\|JAQUES]] | Uno [[Fool\|sciocco]], uno [[Fool\|sciocco]], ho incontrato uno [[Fool\|sciocco]] nella foresta,<br>uno sciocco variopinto—mondo miserabile!—<br>com’è vero ch’io vivo di cibo, ho incontrato uno [[Fool\|sciocco]],<br>che si coricò a crogiolarsi al sole,<br>e inveiva contro Madonna Fortuna in buoni termini,<br>in ben studiati termini, e pure era uno [[Fool\|sciocco]] variopinto.<br>‘Buon giorno, [[Fool\|sciocco]],’ dissi io. ‘No, signore,’ disse lui,<br>‘non chiamatemi [[Fool\|sciocco]] finché il cielo non m’abbia mandato fortuna.’<br>E allora trasse un orologio dalla sua bisaccia,<br>e guardandolo con occhio spento<br>dice assai saggiamente ‘Sono le dieci all’[[Clock\|orologio]].’<br>‘Così possiamo vedere’, disse, ‘come va il mondo.<br>Non è che un’ora fa che erano le nove,<br>e dopo un’altra ora saranno le undici.<br>E così di ora in ora maturiamo e maturiamo,<br>e poi di ora in ora marciamo e marciamo;<br>e da ciò pende una storia.’ Quando udii<br>lo [[Fool\|sciocco]] variopinto moraleggiare così sul [[Time\|tempo]],<br>i miei polmoni cominciarono a cantare come un gallo,<br>che gli sciocchi potessero essere così profondamente contemplativi,<br>e risi senza intermissione<br>un’ora al suo orologio. O nobile [[Fool\|sciocco]],<br>degno sciocco—il variopinto è l’unico abito da portare. |
+| [[Duke Senior\|DUCA SENIORE]] | Chi è questo [[Fool\|sciocco]]? 35 |
+| [[Jaques\|JAQUES]] | O degno [[Fool\|sciocco]]!—Uno che è stato cortigiano,<br>e dice: ‘Se le dame sono giovani e belle,<br>hanno il dono di saperlo.’ E nel suo cervello,<br>che è secco come il biscotto avanzato<br>dopo un viaggio, ha stipato strani ripostigli<br>d’osservazione, che egli sfoga<br>in forme sconquassate. Oh, fossi io uno [[Fool\|sciocco]]!<br>Ambisco a un abito variopinto. |
+| [[Duke Senior\|DUCA SENIORE]] | L’avrai. |
+| [[Jaques\|JAQUES]] | È la mia sola richiesta,<br>purché estirpiate dai vostri migliori giudizi<br>ogni opinione che vi cresce rigogliosa<br>ch’io sia saggio. Devo avere insieme<br>libertà, un privilegio ampio come il [[Wind\|vento]],<br>di soffiare su chi mi piace, ché tale l’hanno gli sciocchi;<br>e quelli che più sono scorticati dalla mia follia,<br>quelli più devono ridere. E perché, signore, devono farlo?<br>Il perché è chiaro come la via della chiesa parrocchiale:<br>colui che uno [[Fool\|sciocco]] colpisce assai saggiamente<br>fa assai scioccamente, per quanto gli bruci,<br>a mostrarsi altro che insensibile alla frecciata. Se no,<br>la follia del saggio viene anatomizzata<br>proprio dagli sguardi sprecati dello [[Fool\|sciocco]].<br>Rivestitemi del mio abito variopinto. Datemi licenza<br>di dire ciò che penso, e io da parte a parte<br>purgherò il turpe [[Body\|corpo]] di questo mondo infetto,<br>se accetteranno con pazienza la mia medicina. |
+| [[Duke Senior\|DUCA SENIORE]] | Vergogna a te, so bene che cosa faresti. |
+| [[Jaques\|JAQUES]] | Come, per un gettone, che farei se non del bene? |
+| [[Duke Senior\|DUCA SENIORE]] | Peccato turpe e maligno al sommo, rimproverare il peccato;<br>ché tu stesso sei stato libertino,<br>sensuale quanto il pungolo bestiale medesimo,<br>e tutte le piaghe gonfie e i mali giunti a maturazione<br>che tu, con licenza di piede libero, hai contratto,<br>li vomiteresti addosso al mondo intero. |
+| [[Jaques\|JAQUES]] | E chi grida contro l’[[Pride\|orgoglio]]<br>che possa con ciò accusare qualcuno in particolare?<br>Non fluisce esso vasto quanto il mare,<br>finché i mezzi stessi, esausti, non rifluiscano?<br>Quale donna della [[City\|città]] nomino io<br>quando dico che la donna di [[City\|città]] porta<br>su spalle indegne il costo dei principi?<br>Chi può farsi avanti e dire che intendo lei,<br>quando una tale è come la sua vicina?<br>O chi, del più basso mestiere,<br>che dica che la sua sfarzosità non è a mie spese,<br>credendo ch’io intenda lui, ma con ciò adatta<br>la sua follia alla tempra del mio discorso?<br>Ebbene, come dunque, che dunque, vediamo in che cosa<br>la mia lingua gli abbia fatto torto. Se gli rende giustizia,<br>allora è lui che ha fatto torto a sé stesso. Se ne è libero,<br>allora la mia accusa vola come un’oca selvatica,<br>non reclamata da alcuno. Ma chi viene qui? |
+| *(didascalia)* | Entra [[Orlando]], con la [[Sword\|spada]] sguainata |
+| [[Orlando\|ORLANDO]] | Fermatevi, e non mangiate più! |
+| [[Jaques\|JAQUES]] | Ma io non ho ancora mangiato nulla. |
+| [[Orlando\|ORLANDO]] | Né mangerai finché la necessità non sia soddisfatta. |
+| [[Jaques\|JAQUES]] | Di che razza sarà mai questo gallo? |
+| [[Duke Senior\|DUCA SENIORE]] | Sei tu così imbaldanzito, uomo, dalla tua sventura?<br>O sei un rozzo spregiatore delle buone maniere,<br>che ti mostri così vuoto di civiltà? |
+| [[Orlando\|ORLANDO]] | Avete toccato subito la mia vena. La spinosa punta<br>della nuda sventura m’ha tolto l’apparenza<br>della liscia civiltà. Eppure sono cresciuto nell’interno,<br>e conosco qualche educazione. Ma fermatevi, dico.<br>Muore chi tocca uno solo di questi frutti<br>finché io e le mie faccende non siamo soddisfatti. |
+| [[Jaques\|JAQUES]] | Se non vi si può rispondere con la ragione, devo morire. |
+| [[Duke Senior\|DUCA SENIORE]] | Che cosa volete? La vostra gentilezza ci costringerà<br>più di quanto la vostra forza ci muova a gentilezza. |
+| [[Orlando\|ORLANDO]] | Muoio quasi di fame; datemi da mangiare. |
+| [[Duke Senior\|DUCA SENIORE]] | Sedete e mangiate, e siate benvenuto alla nostra tavola. |
+| [[Orlando\|ORLANDO]] | Parlate voi così gentilmente? Perdonatemi, vi prego.<br>Credevo che tutto qui fosse selvaggio,<br>e perciò mi son messo il volto<br>del severo comando. Ma chiunque voi siate,<br>che in questo [[Desert\|deserto]] inaccessibile,<br>sotto l’ombra di rami [[Melancholy\|malinconici]],<br>perdete e trascurate le ore striscianti del [[Time\|tempo]],<br>se mai avete conosciuto giorni migliori,<br>se mai foste dove le [[Bells\|campane]] hanno chiamato alla chiesa,<br>se mai sedeste alla mensa di qualche uomo dabbene,<br>se mai vi asciugaste dalle palpebre una lacrima,<br>e sapete che cosa sia compatire ed essere compatiti,<br>sia la gentilezza la mia forte costrizione.<br>In questa [[Hope\|speranza]] arrossisco e nascondo la mia [[Sword\|spada]]. |
+| [[Duke Senior\|DUCA SENIORE]] | È vero che abbiamo veduto giorni migliori,<br>e da sacra campana siamo stati chiamati alla chiesa,<br>e sedemmo a mense d’uomini dabbene, e ci asciugammo gli occhi<br>di gocce che sacra pietà aveva generate.<br>E perciò sedete in gentilezza,<br>e prendete a vostro comando quel soccorso che abbiamo<br>e che possa essere prestato al vostro bisogno. |
+| [[Orlando\|ORLANDO]] | Allora trattenetevi un poco dal cibo,<br>mentre io, come una cerva, vado a cercare il mio cerbiatto<br>e a dargli da mangiare. C’è un povero vecchio<br>che dietro a me con molti passi affaticati<br>ha zoppicato per puro [[Love\|amore]]. Finché egli non sia sazio,<br>oppresso da due deboli mali, la vecchiaia e la fame,<br>non toccherò un boccone. |
+| [[Duke Senior\|DUCA SENIORE]] | Andate a trovarlo,<br>e noi non consumeremo nulla finché non tornerete. |
+| [[Orlando\|ORLANDO]] | Vi ringrazio; e siate benedetti per il vostro buon conforto Esce |
+| [[Duke Senior\|DUCA SENIORE]] | Vedi che non siamo i soli infelici, [[Alone\|soli]] al mondo.<br>Questo vasto e universale teatro<br>rappresenta spettacoli più dolorosi della scena<br>in cui noi recitiamo. |
+| [[Jaques\|JAQUES]] | Tutto il mondo è un palcoscenico,<br>e tutti gli uomini e le donne non sono che attori.<br>Hanno le loro uscite e le loro entrate,<br>e un uomo nel suo [[Time\|tempo]] recita molte parti,<br>e i suoi atti sono sette età. Dapprima il neonato,<br>che vagisce e vomita fra le braccia della [[Nurse\|balia]].<br>Poi il piagnucoloso scolaretto con la sua cartella<br>e il viso lucente di mattino, che striscia come lumaca<br>controvoglia verso la scuola. E poi l’[[Lover\|amante]],<br>che sospira come fornace, con una dolente ballata<br>fatta al sopracciglio della sua signora. Poi il soldato,<br>pieno di strani giuramenti, e barbuto come il pardo,<br>geloso dell’[[Honour\|onore]], repentino e pronto alla lite,<br>che insegue la bolla della reputazione<br>fin nella bocca del cannone. E poi il giudice,<br>con bella pancia rotonda foderata di buon cappone,<br>con occhi severi e barba di taglio solenne,<br>pieno di saggi detti e di moderni esempi;<br>e così recita la sua parte. La sesta età trapassa<br>nel magro pantalone in pantofole,<br>con gli occhiali sul naso e la borsa al fianco,<br>le calze della gioventù, [[Well\|ben]] conservate, d’un mondo troppo larghe<br>per lo stinco rattrappito, e la sua voce grossa e virile,<br>tornando di nuovo al soprano infantile, zufola<br>e fischia nel suo suono. Ultima scena di tutte,<br>che chiude questa strana e movimentata [[history\|storia]],<br>è la seconda fanciullezza e il puro oblio,<br>senza denti, senza occhi, senza gusto, senza nulla. |
 | *(didascalia)* | Entra [[Orlando]] portando Adamo |
-| [[Duke Senior|DUCA SENIORE]] | Benvenuto. Deponete il vostro venerabile fardello<br>e lasciate che si nutra. |
-| [[Orlando|ORLANDO]] | Vi ringrazio soprattutto per lui. |
+| [[Duke Senior\|DUCA SENIORE]] | Benvenuto. Deponete il vostro venerabile fardello<br>e lasciate che si nutra. |
+| [[Orlando\|ORLANDO]] | Vi ringrazio soprattutto per lui. |
 | ADAMO | E ne avevate ben bisogno;<br>a stento posso parlare per ringraziarvi io stesso. |
-| [[Duke Senior|DUCA SENIORE]] | Benvenuto. Mettetevi a tavola. Non vi importunerò<br>ancora con domande sulle vostre vicende.<br>Dateci un po’ di musica, e tu, buon cugino, canta.<br>[amiens] (canta)<br>Soffia, soffia, tu [[Wind|vento]] d’[[Winter|inverno]],<br>tu non sei così crudele<br>come l’ingratitudine dell’uomo.<br>Il tuo dente non è così acuto,<br>perché non sei veduto,<br>benché il tuo fiato sia rude.<br>Ehi-oh, cantate ehi-oh, all’agrifoglio verde.<br>Ogni [[Friendship|amicizia]] è finzione, ogni amore, pura follia.<br>Dunque ehi-oh, l’agrifoglio;<br>questa vita è assai gioconda.<br><br>Gela, gela, tu cielo amaro,<br>che non mordi così da presso<br>come i benefici dimenticati.<br>Benché tu deformi le acque,<br>il tuo pungiglione non è così aguzzo<br>come l’amico non ricordato.<br>Ehi-oh, cantate ehi-oh, all’agrifoglio verde.<br>Ogni [[Friendship|amicizia]] è finzione, ogni amore, pura follia.<br>Dunque ehi-oh, l’agrifoglio;<br>questa vita è assai gioconda. |
-| [[Duke Senior|DUCA SENIORE]] | (a [[Orlando]])<br>Se voi foste il figlio del buon Sir Rowland,<br>come fedelmente avete sussurrato d’essere,<br>e come il mio occhio testimonia dalla sua effigie<br>verissimamente disegnata e viva nel vostro volto,<br>siate qui veramente benvenuto. Io sono il Duca<br>che amò vostro padre. Il resto della vostra sorte,<br>venite alla mia [[Cave|caverna]] e raccontatemelo. (Ad Adamo) Buon vecchio,<br>tu sei ben venuto, come il tuo padrone.—<br>(Ai Signori) Sostenetelo per il braccio. (A [[Orlando]]) Datemi<br>la mano,<br>e fatemi intendere tutte le vostre vicende. Escono |
+| [[Duke Senior\|DUCA SENIORE]] | Benvenuto. Mettetevi a tavola. Non vi importunerò<br>ancora con domande sulle vostre vicende.<br>Dateci un po’ di musica, e tu, buon cugino, canta.<br>[amiens] (canta)<br>Soffia, soffia, tu [[Wind\|vento]] d’[[Winter\|inverno]],<br>tu non sei così crudele<br>come l’ingratitudine dell’uomo.<br>Il tuo dente non è così acuto,<br>perché non sei veduto,<br>benché il tuo fiato sia rude.<br>Ehi-oh, cantate ehi-oh, all’agrifoglio verde.<br>Ogni [[Friendship\|amicizia]] è finzione, ogni amore, pura follia.<br>Dunque ehi-oh, l’agrifoglio;<br>questa vita è assai gioconda.<br><br>Gela, gela, tu cielo amaro,<br>che non mordi così da presso<br>come i benefici dimenticati.<br>Benché tu deformi le acque,<br>il tuo pungiglione non è così aguzzo<br>come l’amico non ricordato.<br>Ehi-oh, cantate ehi-oh, all’agrifoglio verde.<br>Ogni [[Friendship\|amicizia]] è finzione, ogni amore, pura follia.<br>Dunque ehi-oh, l’agrifoglio;<br>questa vita è assai gioconda. |
+| [[Duke Senior\|DUCA SENIORE]] | (a [[Orlando]])<br>Se voi foste il figlio del buon Sir Rowland,<br>come fedelmente avete sussurrato d’essere,<br>e come il mio occhio testimonia dalla sua effigie<br>verissimamente disegnata e viva nel vostro volto,<br>siate qui veramente benvenuto. Io sono il Duca<br>che amò vostro padre. Il resto della vostra sorte,<br>venite alla mia [[Cave\|caverna]] e raccontatemelo. (Ad Adamo) Buon vecchio,<br>tu sei ben venuto, come il tuo padrone.—<br>(Ai Signori) Sostenetelo per il braccio. (A [[Orlando]]) Datemi<br>la mano,<br>e fatemi intendere tutte le vostre vicende. Escono |
 
 
 
@@ -1885,12 +1885,12 @@ As You Like It
 
 | Chi parla | Battuta |
 |---|---|
-| *(didascalia)* | Entrano [[Duke Frederick|il Duca Federico]], Signori e [[Oliver|Oliviero]] |
-| [[Duke Frederick|DUCA FEDERICO]] | Non l’avete più visto? Signore, signore, non può essere.<br>Ma se non fossi per la parte migliore fatto di [[Mercy|clemenza]],<br>non cercherei un oggetto assente<br>della mia [[Revenge|vendetta]], essendo presente tu. Ma badaci:<br>trova tuo fratello ovunque egli sia.<br>Cercalo con la candela. Portalo, morto o vivo, |
+| *(didascalia)* | Entrano [[Duke Frederick\|il Duca Federico]], Signori e [[Oliver\|Oliviero]] |
+| [[Duke Frederick\|DUCA FEDERICO]] | Non l’avete più visto? Signore, signore, non può essere.<br>Ma se non fossi per la parte migliore fatto di [[Mercy\|clemenza]],<br>non cercherei un oggetto assente<br>della mia [[Revenge\|vendetta]], essendo presente tu. Ma badaci:<br>trova tuo fratello ovunque egli sia.<br>Cercalo con la candela. Portalo, morto o vivo, |
 | *(didascalia)* | entro quest’anno, o non tornare mai più |
-| [[Duke Frederick|DUCA FEDERICO]] | a cercarti da vivere nel nostro territorio.<br>Le tue terre, e tutto ciò che chiami tuo<br>e degno di sequestro, lo sequestriamo nelle nostre mani<br>finché tu non possa discolparti, per bocca di tuo fratello,<br>di ciò che pensiamo contro di te. |
-| [[Oliver|OLIVIERO]] | Oh, se vostra altezza conoscesse il mio cuore in questo!<br>Non ho mai amato mio fratello in vita mia. |
-| [[Duke Frederick|DUCA FEDERICO]] | Tanto più [[Villain|scellerato]] tu. (Ai Signori) [[Well|Bene]], cacciatelo fuori<br>dalla porta,<br>e i miei ufficiali di tale [[Nature|natura]]<br>facciano stima e sequestro della sua [[house|casa]] e delle sue terre.<br>Fate questo speditamente, e mandatelo via. |
+| [[Duke Frederick\|DUCA FEDERICO]] | a cercarti da vivere nel nostro territorio.<br>Le tue terre, e tutto ciò che chiami tuo<br>e degno di sequestro, lo sequestriamo nelle nostre mani<br>finché tu non possa discolparti, per bocca di tuo fratello,<br>di ciò che pensiamo contro di te. |
+| [[Oliver\|OLIVIERO]] | Oh, se vostra altezza conoscesse il mio cuore in questo!<br>Non ho mai amato mio fratello in vita mia. |
+| [[Duke Frederick\|DUCA FEDERICO]] | Tanto più [[Villain\|scellerato]] tu. (Ai Signori) [[Well\|Bene]], cacciatelo fuori<br>dalla porta,<br>e i miei ufficiali di tale [[Nature\|natura]]<br>facciano stima e sequestro della sua [[house\|casa]] e delle sue terre.<br>Fate questo speditamente, e mandatelo via. |
 | *(didascalia)* | Escono separatamente |
 
 
@@ -2055,152 +2055,152 @@ As You Like It
 | Chi parla | Battuta |
 |---|---|
 | *(didascalia)* | Entra [[Orlando]] con un foglio |
-| [[Orlando|ORLANDO]] | Pendi lì, verso mio, a testimonio del mio [[Love|amore]];<br>e tu, tre volte incoronata [[Queen|regina]] della [[Night|notte]], contempla<br>col tuo casto occhio, dalla tua pallida sfera lassù,<br>il nome della tua cacciatrice che governa tutta la mia vita.<br>O [[Rosalind|Rosalinda]], questi alberi saranno i miei libri,<br>e nelle loro cortecce inciderò i miei pensieri<br>perché ogni occhio che in questa foresta guardi<br>veda ovunque attestata la tua virtù.<br>Corri, corri, [[Orlando]]; incidi su ogni albero<br>la bella, la casta, l’inesprimibile lei. Esce |
+| [[Orlando\|ORLANDO]] | Pendi lì, verso mio, a testimonio del mio [[Love\|amore]];<br>e tu, tre volte incoronata [[Queen\|regina]] della [[Night\|notte]], contempla<br>col tuo casto occhio, dalla tua pallida sfera lassù,<br>il nome della tua cacciatrice che governa tutta la mia vita.<br>O [[Rosalind\|Rosalinda]], questi alberi saranno i miei libri,<br>e nelle loro cortecce inciderò i miei pensieri<br>perché ogni occhio che in questa foresta guardi<br>veda ovunque attestata la tua virtù.<br>Corri, corri, [[Orlando]]; incidi su ogni albero<br>la bella, la casta, l’inesprimibile lei. Esce |
 | *(didascalia)* | Entrano Corino e [[Touchstone]] il buffone |
 | CORINO | E come vi piace questa vita di pastore, mastro [[Touchstone]]? |
-| [[Touchstone|TOUCHSTONE]] | In verità, pastore, in sé stessa è una buona vita; ma in quanto è vita di pastore, non vale nulla. In quanto è solitaria, mi piace assai [[Well|bene]]; ma in quanto è appartata, è una vita assai vile. Ora, in quanto si svolge nei campi, mi piace [[Well|bene]]; ma in quanto non è alla [[Court|corte]], è tediosa. In quanto è vita frugale, vedete, s’adatta [[Well|bene]] al mio [[Humour|umore]]; ma poiché non v’è in essa abbondanza, mi va molto contro lo stomaco. Hai in te un po’ di [[philosophy|filosofia]], pastore? |
-| CORINO | Non più che questo: so che quanto più uno s’ammala, tanto peggio sta; e che chi manca di denaro, di mezzi e di contentezza è privo di tre buoni amici; che è proprietà della pioggia il bagnare, e del [[Fire|fuoco]] il bruciare; che un buon pascolo fa pecore grasse; e che una gran causa della [[Night|notte]] è la mancanza del sole; e che chi non ha appreso ingegno né dalla [[Nature|natura]] né dall’arte può lagnarsi della propria educazione, o viene da una parentela assai ottusa. |
-| [[Touchstone|TOUCHSTONE]] | Un tale è un filosofo naturale. Sei mai stato a [[Court|corte]], pastore? |
+| [[Touchstone\|TOUCHSTONE]] | In verità, pastore, in sé stessa è una buona vita; ma in quanto è vita di pastore, non vale nulla. In quanto è solitaria, mi piace assai [[Well\|bene]]; ma in quanto è appartata, è una vita assai vile. Ora, in quanto si svolge nei campi, mi piace [[Well\|bene]]; ma in quanto non è alla [[Court\|corte]], è tediosa. In quanto è vita frugale, vedete, s’adatta [[Well\|bene]] al mio [[Humour\|umore]]; ma poiché non v’è in essa abbondanza, mi va molto contro lo stomaco. Hai in te un po’ di [[philosophy\|filosofia]], pastore? |
+| CORINO | Non più che questo: so che quanto più uno s’ammala, tanto peggio sta; e che chi manca di denaro, di mezzi e di contentezza è privo di tre buoni amici; che è proprietà della pioggia il bagnare, e del [[Fire\|fuoco]] il bruciare; che un buon pascolo fa pecore grasse; e che una gran causa della [[Night\|notte]] è la mancanza del sole; e che chi non ha appreso ingegno né dalla [[Nature\|natura]] né dall’arte può lagnarsi della propria educazione, o viene da una parentela assai ottusa. |
+| [[Touchstone\|TOUCHSTONE]] | Un tale è un filosofo naturale. Sei mai stato a [[Court\|corte]], pastore? |
 | CORINO | No, in verità. |
-| [[Touchstone|TOUCHSTONE]] | Allora sei dannato. |
-| CORINO | No, lo [[Hope|spero]]. |
-| [[Touchstone|TOUCHSTONE]] | In verità sei dannato, come un uovo mal cotto, tutto da un lato. |
-| CORINO | Per non essere stato a [[Court|corte]]? La vostra ragione? |
-| [[Touchstone|TOUCHSTONE]] | Ma se non sei mai stato a [[Court|corte]], non hai mai visto le buone maniere. Se non hai mai visto le buone maniere, allora le tue maniere devono essere malvage, e la malvagità è peccato, e il peccato è dannazione. Sei in uno stato pericoloso, pastore. |
-| CORINO | Neanche un po’, [[Touchstone]]. Quelle che sono buone maniere alla [[Court|corte]] sono ridicole in campagna quanto il contegno della campagna è deridibile alla [[Court|corte]]. Mi avete detto che alla [[Court|corte]] non salutate se non baciandovi le mani. Quella cortesia sarebbe sudicia se i cortigiani fossero pastori. |
-| [[Touchstone|TOUCHSTONE]] | Un esempio, in breve; su, un esempio. |
+| [[Touchstone\|TOUCHSTONE]] | Allora sei dannato. |
+| CORINO | No, lo [[Hope\|spero]]. |
+| [[Touchstone\|TOUCHSTONE]] | In verità sei dannato, come un uovo mal cotto, tutto da un lato. |
+| CORINO | Per non essere stato a [[Court\|corte]]? La vostra ragione? |
+| [[Touchstone\|TOUCHSTONE]] | Ma se non sei mai stato a [[Court\|corte]], non hai mai visto le buone maniere. Se non hai mai visto le buone maniere, allora le tue maniere devono essere malvage, e la malvagità è peccato, e il peccato è dannazione. Sei in uno stato pericoloso, pastore. |
+| CORINO | Neanche un po’, [[Touchstone]]. Quelle che sono buone maniere alla [[Court\|corte]] sono ridicole in campagna quanto il contegno della campagna è deridibile alla [[Court\|corte]]. Mi avete detto che alla [[Court\|corte]] non salutate se non baciandovi le mani. Quella cortesia sarebbe sudicia se i cortigiani fossero pastori. |
+| [[Touchstone\|TOUCHSTONE]] | Un esempio, in breve; su, un esempio. |
 | CORINO | Ma noi maneggiamo di continuo le nostre pecore, e i loro velli, sapete, sono unti. |
-| [[Touchstone|TOUCHSTONE]] | Ma le mani del vostro cortigiano non sudano forse? E il grasso d’un montone non è forse salubre quanto il sudore d’un uomo? Debole, debole. Un esempio migliore, dico. Su. |
+| [[Touchstone\|TOUCHSTONE]] | Ma le mani del vostro cortigiano non sudano forse? E il grasso d’un montone non è forse salubre quanto il sudore d’un uomo? Debole, debole. Un esempio migliore, dico. Su. |
 | CORINO | Inoltre le nostre mani sono dure. |
-| [[Touchstone|TOUCHSTONE]] | Tanto prima le sentiranno le vostre labbra. Debole di nuovo. Un esempio più solido. Su. |
+| [[Touchstone\|TOUCHSTONE]] | Tanto prima le sentiranno le vostre labbra. Debole di nuovo. Un esempio più solido. Su. |
 | CORINO | E sono spesso impeciate dalla chirurgia delle nostre pecore; e vorreste che baciassimo la pece? Le mani del cortigiano sono profumate di zibetto. |
-| [[Touchstone|TOUCHSTONE]] | Debolissimo, uomo. Tu, cibo da vermi rispetto a un buon pezzo di carne davvero, impara dai saggi e pondera: lo zibetto è di più bassa nascita della pece, essendo il sudicissimo flusso d’un gatto. Correggi l’esempio, pastore. |
+| [[Touchstone\|TOUCHSTONE]] | Debolissimo, uomo. Tu, cibo da vermi rispetto a un buon pezzo di carne davvero, impara dai saggi e pondera: lo zibetto è di più bassa nascita della pece, essendo il sudicissimo flusso d’un gatto. Correggi l’esempio, pastore. |
 | CORINO | Avete un ingegno troppo cortigiano per me. Mi arrendo. |
-| [[Touchstone|TOUCHSTONE]] | Vuoi arrenderti dannato? Dio t’aiuti, uomo debole. Dio ti pratichi un’incisione, ché sei crudo. |
-| CORINO | Signore, io sono un vero lavoratore. Guadagno ciò che mangio, mi procuro ciò che indosso; non porto odio a nessuno, non invidio la felicità di nessuno; lieto del bene altrui, contento del mio male; e il massimo del mio [[Pride|orgoglio]] è vedere le mie pecore pascolare e i miei agnelli poppare. |
-| [[Touchstone|TOUCHSTONE]] | Questo è un altro semplice peccato in te: mettere insieme le pecore e i montoni, e cercare di guadagnarti da vivere con l’accoppiamento del bestiame; farti mezzano d’un montone col campanello, e tradire un’[[Lamb|agnella]] d’un anno con un vecchio montone becco dalla testa storta, contro ogni ragionevole partito. Se non sarai dannato per questo, il diavolo stesso non vorrà pastori. Non vedo altrimenti come tu possa scampare. |
+| [[Touchstone\|TOUCHSTONE]] | Vuoi arrenderti dannato? Dio t’aiuti, uomo debole. Dio ti pratichi un’incisione, ché sei crudo. |
+| CORINO | Signore, io sono un vero lavoratore. Guadagno ciò che mangio, mi procuro ciò che indosso; non porto odio a nessuno, non invidio la felicità di nessuno; lieto del bene altrui, contento del mio male; e il massimo del mio [[Pride\|orgoglio]] è vedere le mie pecore pascolare e i miei agnelli poppare. |
+| [[Touchstone\|TOUCHSTONE]] | Questo è un altro semplice peccato in te: mettere insieme le pecore e i montoni, e cercare di guadagnarti da vivere con l’accoppiamento del bestiame; farti mezzano d’un montone col campanello, e tradire un’[[Lamb\|agnella]] d’un anno con un vecchio montone becco dalla testa storta, contro ogni ragionevole partito. Se non sarai dannato per questo, il diavolo stesso non vorrà pastori. Non vedo altrimenti come tu possa scampare. |
 | CORINO | Ecco che viene il giovane mastro Ganimede, il fratello della mia nuova padrona. |
-| *(didascalia)* | Entra [[Rosalind|Rosalinda]] come Ganimede |
-| [[Rosalind|ROSALINDA]] | (legge)<br>‘Dall’oriente alle Indie occidentali<br>nessuna [[Jewel|gemma]] è come [[Rosalind|Rosalinda]].<br>Il suo pregio, montato sul [[Wind|vento]],<br>per tutto il mondo porta [[Rosalind|Rosalinda]].<br>Tutte le pitture dai più bei contorni<br>non sono che buie presso [[Rosalind|Rosalinda]].<br>Nessun volto sia tenuto a mente<br>se non la beltà di [[Rosalind|Rosalinda]].’ |
-| [[Touchstone|TOUCHSTONE]] | Vi rimo così per otto anni di fila, eccettuati i pranzi, le cene e le ore del sonno. È proprio l’andatura in fila delle lattaie che vanno al mercato. |
-| [[Rosalind|ROSALINDA]] | Va’ via, [[Fool|buffone]]. |
-| [[Touchstone|TOUCHSTONE]] | Per un assaggio:<br>Se a un cervo manca la cerva,<br>vada a cercarsi [[Rosalind|Rosalinda]].<br>Se la gatta va dietro alla sua specie,<br>così, sta’ certo, farà [[Rosalind|Rosalinda]].<br>Le vesti d’inverno vanno foderate,<br>e così la sottile [[Rosalind|Rosalinda]].<br>Chi miete deve legare i covoni,<br>poi al carro con [[Rosalind|Rosalinda]].<br>‘La noce più dolce ha la scorza più amara’,<br>tal noce è [[Rosalind|Rosalinda]].<br>Chi la [[Rose|rosa]] più dolce vorrà trovare<br>troverà la spina dell’[[Love|amore]], e [[Rosalind|Rosalinda]].<br>Questo è proprio il falso galoppo dei versi. Perché ve ne infettate? |
-| [[Rosalind|ROSALINDA]] | Taci, ottuso [[Fool|buffone]], li ho trovati su un albero. |
-| [[Touchstone|TOUCHSTONE]] | In verità, l’albero dà cattivi frutti. |
-| [[Rosalind|ROSALINDA]] | Lo innesterò con te, e poi lo innesterò con un nespolo; allora darà il frutto più precoce del paese, ché tu sarai marcio prima d’essere mezzo maturo, e questa è appunto la virtù della nespola. |
-| [[Touchstone|TOUCHSTONE]] | Avete detto; ma se saggiamente o no, lo giudichi la foresta. |
+| *(didascalia)* | Entra [[Rosalind\|Rosalinda]] come Ganimede |
+| [[Rosalind\|ROSALINDA]] | (legge)<br>‘Dall’oriente alle Indie occidentali<br>nessuna [[Jewel\|gemma]] è come [[Rosalind\|Rosalinda]].<br>Il suo pregio, montato sul [[Wind\|vento]],<br>per tutto il mondo porta [[Rosalind\|Rosalinda]].<br>Tutte le pitture dai più bei contorni<br>non sono che buie presso [[Rosalind\|Rosalinda]].<br>Nessun volto sia tenuto a mente<br>se non la beltà di [[Rosalind\|Rosalinda]].’ |
+| [[Touchstone\|TOUCHSTONE]] | Vi rimo così per otto anni di fila, eccettuati i pranzi, le cene e le ore del sonno. È proprio l’andatura in fila delle lattaie che vanno al mercato. |
+| [[Rosalind\|ROSALINDA]] | Va’ via, [[Fool\|buffone]]. |
+| [[Touchstone\|TOUCHSTONE]] | Per un assaggio:<br>Se a un cervo manca la cerva,<br>vada a cercarsi [[Rosalind\|Rosalinda]].<br>Se la gatta va dietro alla sua specie,<br>così, sta’ certo, farà [[Rosalind\|Rosalinda]].<br>Le vesti d’inverno vanno foderate,<br>e così la sottile [[Rosalind\|Rosalinda]].<br>Chi miete deve legare i covoni,<br>poi al carro con [[Rosalind\|Rosalinda]].<br>‘La noce più dolce ha la scorza più amara’,<br>tal noce è [[Rosalind\|Rosalinda]].<br>Chi la [[Rose\|rosa]] più dolce vorrà trovare<br>troverà la spina dell’[[Love\|amore]], e [[Rosalind\|Rosalinda]].<br>Questo è proprio il falso galoppo dei versi. Perché ve ne infettate? |
+| [[Rosalind\|ROSALINDA]] | Taci, ottuso [[Fool\|buffone]], li ho trovati su un albero. |
+| [[Touchstone\|TOUCHSTONE]] | In verità, l’albero dà cattivi frutti. |
+| [[Rosalind\|ROSALINDA]] | Lo innesterò con te, e poi lo innesterò con un nespolo; allora darà il frutto più precoce del paese, ché tu sarai marcio prima d’essere mezzo maturo, e questa è appunto la virtù della nespola. |
+| [[Touchstone\|TOUCHSTONE]] | Avete detto; ma se saggiamente o no, lo giudichi la foresta. |
 | *(didascalia)* | Entra [[Celia]], come Aliena, con uno scritto |
-| [[Rosalind|ROSALINDA]] | Zitto, ecco viene mia sorella, che legge. Fatti da parte. |
-| [[Celia|CELIA]] | (legge)<br>‘Perché questo dovrebbe essere un [[Desert|deserto]]?<br>Perché è spopolato? No.<br>Lingue appenderò a ogni albero,<br>che mostreranno civili sentenze.<br>Alcune, come breve la vita dell’uomo<br>percorra il suo errante pellegrinaggio,<br>e come la misura d’una spanna<br>racchiuda la somma dei suoi anni.<br>Altre, di voti violati<br>fra l’anima d’un amico e quella dell’altro.<br>Ma sui rami più belli,<br>o alla fine d’ogni sentenza,<br>scriverò io ‘Rosalinda’,<br>insegnando a tutti quelli che leggono<br>la quintessenza d’ogni spirito<br>che il cielo volesse mostrare in piccolo.<br>Perciò il cielo ingiunse alla [[Nature|natura]]<br>che un solo [[Body|corpo]] fosse ricolmo<br>di tutte le grazie largamente diffuse.<br>La [[Nature|Natura]] all’istante distillò<br>la guancia d’[[Helen|Elena]], ma non il suo cuore,<br>la maestà di [[Cleopatra]],<br>la parte migliore di Atalanta,<br>la modestia della mesta Lucrezia.<br>Così [[Rosalind|Rosalinda]], di molte parti,<br>da celeste sinodo fu ideata<br>perché da molti volti, occhi e cuori<br>avesse i tratti più cari e pregiati.<br>Il cielo volle ch’ella avesse questi doni<br>e ch’io vivessi e morissi suo schiavo.’ |
-| [[Rosalind|ROSALINDA]] | O gentilissimo Giove! Con quale tediosa omelia d’[[Love|amore]] avete affaticato i vostri parrocchiani, senza mai gridare ‘Abbiate pazienza, buona gente.’ |
-| [[Celia|CELIA]] | Come, indietro, amici. Pastore, allontanati un poco. Va’ con lui, tu. |
-| [[Touchstone|TOUCHSTONE]] | Vieni, pastore, facciamo una ritirata onorevole, se non con armi e bagagli, almeno con bisaccia e bisaccerie. Esce con Corino |
-| [[Celia|CELIA]] | Hai udito questi versi? |
-| [[Rosalind|ROSALINDA]] | Oh sì, li ho uditi tutti, e anche di più, ché alcuni di essi avevano più piedi di quanti i versi ne potessero portare. |
-| [[Celia|CELIA]] | Non importa; i piedi potevano portare i versi. |
-| [[Rosalind|ROSALINDA]] | Sì, ma i piedi erano zoppi, e non potevano reggersi da soli senza il verso, e perciò stavano zoppicando dentro il verso. |
-| [[Celia|CELIA]] | Ma hai udito senza meravigliarti che il tuo nome sia appeso e inciso su questi alberi? |
-| [[Rosalind|ROSALINDA]] | Ero già al settimo dei nove giorni di [[Wonder|meraviglia]] prima che tu venissi; ché guarda qua che cosa ho trovato su una palma; (mostrando a [[Celia]] i versi) non fui mai tanto ridotta in rima dal [[Time|tempo]] di Pitagora, quando ero un ratto irlandese, cosa che a stento posso ricordare. |
-| [[Celia|CELIA]] | Indovini chi l’ha fatto? |
-| [[Rosalind|ROSALINDA]] | È un uomo? |
-| [[Celia|CELIA]] | E con al collo una catena che tu una volta portavi. Cambi colore? |
-| [[Rosalind|ROSALINDA]] | Ti prego, chi? |
-| [[Celia|CELIA]] | O Signore, Signore, è dura cosa per gli amici incontrarsi. Ma le [[Mountains|montagne]] possono essere smosse dai terremoti, e così scontrarsi. |
-| [[Rosalind|ROSALINDA]] | Ma insomma, chi è? |
-| [[Celia|CELIA]] | È possibile? |
-| [[Rosalind|ROSALINDA]] | Su, ti prego ora con la più supplice veemenza, dimmi chi è. |
-| [[Celia|CELIA]] | Oh, mirabile, mirabile, e mirabilissimo-mirabile, e ancora una volta mirabile, e dopo di ciò da non potersi gridare abbastanza! |
-| [[Rosalind|ROSALINDA]] | Per il mio colorito! Credi tu che, benché io sia bardata da uomo, io abbia farsetto e brache anche nell’indole? Un pollice di più d’indugio è un Mare del Sud da scoprire. Ti prego, dimmi presto chi è, e parla in fretta. Vorrei che tu potessi balbettare, così da versare quest’uomo nascosto fuori dalla tua bocca come il vino esce da una bottiglia dal collo stretto—o troppo in una volta, o niente affatto. Ti prego, togli il turacciolo dalla tua bocca, ch’io possa bere le tue novelle. |
-| [[Celia|CELIA]] | Così potresti metterti un uomo in corpo. |
-| [[Rosalind|ROSALINDA]] | È di fattura divina? Che sorta d’uomo? La sua testa merita un cappello? O il suo mento una barba? |
-| [[Celia|CELIA]] | Anzi, ha soltanto un po’ di barba. |
-| [[Rosalind|ROSALINDA]] | Ebbene, Dio gliene manderà dell’altra, se l’uomo sarà riconoscente. Lascerò che la sua barba cresca, purché tu non ritardi a me la conoscenza del suo mento. |
-| [[Celia|CELIA]] | È il giovane [[Orlando]], che in un istante fece lo sgambetto ai talloni del lottatore e al tuo cuore insieme. |
-| [[Rosalind|ROSALINDA]] | No, il diavolo si porti le beffe. Parla con fronte seria e da fanciulla sincera. |
-| [[Celia|CELIA]] | In [[Faith|fede]] mia, cugina, è lui. |
-| [[Rosalind|ROSALINDA]] | [[Orlando]]? |
-| [[Celia|CELIA]] | [[Orlando]]. |
-| [[Rosalind|ROSALINDA]] | Ahimè, che giorno, che ne farò del mio farsetto e delle mie brache! Che faceva quando l’hai visto? Che ha detto? Che aspetto aveva? Con che veste andava? Che fa qui? Ha chiesto di me? Dove alloggia? Come s’è congedato da te? E quando lo rivedrai? Rispondimi in una parola. |
-| [[Celia|CELIA]] | Devi prima prestarmi la bocca di Gargantua: è una parola troppo grande per qualsiasi bocca della misura di quest’età. Dire sì e no a tutti questi particolari è più che rispondere a un catechismo. |
-| [[Rosalind|ROSALINDA]] | Ma sa egli che io sono in questa foresta, e in abito d’uomo? Ha l’aria fresca come il giorno in cui lottò? |
-| [[Celia|CELIA]] | È facile contare gli atomi quanto risolvere le domande d’un [[Lover|innamorato]]; ma assaggia il modo in cui l’ho trovato, e gustalo con buona attenzione. L’ho trovato sotto un albero, come una ghianda caduta— |
-| [[Rosalind|ROSALINDA]] | Può [[Well|ben]] chiamarsi albero di Giove, quando lascia cadere tal frutto. |
-| [[Celia|CELIA]] | Datemi ascolto, buona madama. [[Rosalind|ROSALINDA]] Prosegui. |
-| [[Celia|CELIA]] | Là giaceva, disteso come un cavaliere ferito— |
-| [[Rosalind|ROSALINDA]] | Benché sia pietà vedere tale spettacolo, esso s’addice [[Well|bene]] al terreno. |
-| [[Celia|CELIA]] | Grida ‘olà’ alla tua lingua, ti prego: fa capriole fuor di stagione.—Era equipaggiato da cacciatore— |
-| [[Rosalind|ROSALINDA]] | Oh, presagio funesto—viene a uccidere il mio cuore. |
-| [[Celia|CELIA]] | Vorrei cantare la mia [[Song|canzone]] senza ritornello; tu mi fai stonare. |
-| [[Rosalind|ROSALINDA]] | Non sai che sono donna? Quando penso, devo parlare.—Dolce mia, continua. |
+| [[Rosalind\|ROSALINDA]] | Zitto, ecco viene mia sorella, che legge. Fatti da parte. |
+| [[Celia\|CELIA]] | (legge)<br>‘Perché questo dovrebbe essere un [[Desert\|deserto]]?<br>Perché è spopolato? No.<br>Lingue appenderò a ogni albero,<br>che mostreranno civili sentenze.<br>Alcune, come breve la vita dell’uomo<br>percorra il suo errante pellegrinaggio,<br>e come la misura d’una spanna<br>racchiuda la somma dei suoi anni.<br>Altre, di voti violati<br>fra l’anima d’un amico e quella dell’altro.<br>Ma sui rami più belli,<br>o alla fine d’ogni sentenza,<br>scriverò io ‘Rosalinda’,<br>insegnando a tutti quelli che leggono<br>la quintessenza d’ogni spirito<br>che il cielo volesse mostrare in piccolo.<br>Perciò il cielo ingiunse alla [[Nature\|natura]]<br>che un solo [[Body\|corpo]] fosse ricolmo<br>di tutte le grazie largamente diffuse.<br>La [[Nature\|Natura]] all’istante distillò<br>la guancia d’[[Helen\|Elena]], ma non il suo cuore,<br>la maestà di [[Cleopatra]],<br>la parte migliore di Atalanta,<br>la modestia della mesta Lucrezia.<br>Così [[Rosalind\|Rosalinda]], di molte parti,<br>da celeste sinodo fu ideata<br>perché da molti volti, occhi e cuori<br>avesse i tratti più cari e pregiati.<br>Il cielo volle ch’ella avesse questi doni<br>e ch’io vivessi e morissi suo schiavo.’ |
+| [[Rosalind\|ROSALINDA]] | O gentilissimo Giove! Con quale tediosa omelia d’[[Love\|amore]] avete affaticato i vostri parrocchiani, senza mai gridare ‘Abbiate pazienza, buona gente.’ |
+| [[Celia\|CELIA]] | Come, indietro, amici. Pastore, allontanati un poco. Va’ con lui, tu. |
+| [[Touchstone\|TOUCHSTONE]] | Vieni, pastore, facciamo una ritirata onorevole, se non con armi e bagagli, almeno con bisaccia e bisaccerie. Esce con Corino |
+| [[Celia\|CELIA]] | Hai udito questi versi? |
+| [[Rosalind\|ROSALINDA]] | Oh sì, li ho uditi tutti, e anche di più, ché alcuni di essi avevano più piedi di quanti i versi ne potessero portare. |
+| [[Celia\|CELIA]] | Non importa; i piedi potevano portare i versi. |
+| [[Rosalind\|ROSALINDA]] | Sì, ma i piedi erano zoppi, e non potevano reggersi da soli senza il verso, e perciò stavano zoppicando dentro il verso. |
+| [[Celia\|CELIA]] | Ma hai udito senza meravigliarti che il tuo nome sia appeso e inciso su questi alberi? |
+| [[Rosalind\|ROSALINDA]] | Ero già al settimo dei nove giorni di [[Wonder\|meraviglia]] prima che tu venissi; ché guarda qua che cosa ho trovato su una palma; (mostrando a [[Celia]] i versi) non fui mai tanto ridotta in rima dal [[Time\|tempo]] di Pitagora, quando ero un ratto irlandese, cosa che a stento posso ricordare. |
+| [[Celia\|CELIA]] | Indovini chi l’ha fatto? |
+| [[Rosalind\|ROSALINDA]] | È un uomo? |
+| [[Celia\|CELIA]] | E con al collo una catena che tu una volta portavi. Cambi colore? |
+| [[Rosalind\|ROSALINDA]] | Ti prego, chi? |
+| [[Celia\|CELIA]] | O Signore, Signore, è dura cosa per gli amici incontrarsi. Ma le [[Mountains\|montagne]] possono essere smosse dai terremoti, e così scontrarsi. |
+| [[Rosalind\|ROSALINDA]] | Ma insomma, chi è? |
+| [[Celia\|CELIA]] | È possibile? |
+| [[Rosalind\|ROSALINDA]] | Su, ti prego ora con la più supplice veemenza, dimmi chi è. |
+| [[Celia\|CELIA]] | Oh, mirabile, mirabile, e mirabilissimo-mirabile, e ancora una volta mirabile, e dopo di ciò da non potersi gridare abbastanza! |
+| [[Rosalind\|ROSALINDA]] | Per il mio colorito! Credi tu che, benché io sia bardata da uomo, io abbia farsetto e brache anche nell’indole? Un pollice di più d’indugio è un Mare del Sud da scoprire. Ti prego, dimmi presto chi è, e parla in fretta. Vorrei che tu potessi balbettare, così da versare quest’uomo nascosto fuori dalla tua bocca come il vino esce da una bottiglia dal collo stretto—o troppo in una volta, o niente affatto. Ti prego, togli il turacciolo dalla tua bocca, ch’io possa bere le tue novelle. |
+| [[Celia\|CELIA]] | Così potresti metterti un uomo in corpo. |
+| [[Rosalind\|ROSALINDA]] | È di fattura divina? Che sorta d’uomo? La sua testa merita un cappello? O il suo mento una barba? |
+| [[Celia\|CELIA]] | Anzi, ha soltanto un po’ di barba. |
+| [[Rosalind\|ROSALINDA]] | Ebbene, Dio gliene manderà dell’altra, se l’uomo sarà riconoscente. Lascerò che la sua barba cresca, purché tu non ritardi a me la conoscenza del suo mento. |
+| [[Celia\|CELIA]] | È il giovane [[Orlando]], che in un istante fece lo sgambetto ai talloni del lottatore e al tuo cuore insieme. |
+| [[Rosalind\|ROSALINDA]] | No, il diavolo si porti le beffe. Parla con fronte seria e da fanciulla sincera. |
+| [[Celia\|CELIA]] | In [[Faith\|fede]] mia, cugina, è lui. |
+| [[Rosalind\|ROSALINDA]] | [[Orlando]]? |
+| [[Celia\|CELIA]] | [[Orlando]]. |
+| [[Rosalind\|ROSALINDA]] | Ahimè, che giorno, che ne farò del mio farsetto e delle mie brache! Che faceva quando l’hai visto? Che ha detto? Che aspetto aveva? Con che veste andava? Che fa qui? Ha chiesto di me? Dove alloggia? Come s’è congedato da te? E quando lo rivedrai? Rispondimi in una parola. |
+| [[Celia\|CELIA]] | Devi prima prestarmi la bocca di Gargantua: è una parola troppo grande per qualsiasi bocca della misura di quest’età. Dire sì e no a tutti questi particolari è più che rispondere a un catechismo. |
+| [[Rosalind\|ROSALINDA]] | Ma sa egli che io sono in questa foresta, e in abito d’uomo? Ha l’aria fresca come il giorno in cui lottò? |
+| [[Celia\|CELIA]] | È facile contare gli atomi quanto risolvere le domande d’un [[Lover\|innamorato]]; ma assaggia il modo in cui l’ho trovato, e gustalo con buona attenzione. L’ho trovato sotto un albero, come una ghianda caduta— |
+| [[Rosalind\|ROSALINDA]] | Può [[Well\|ben]] chiamarsi albero di Giove, quando lascia cadere tal frutto. |
+| [[Celia\|CELIA]] | Datemi ascolto, buona madama. [[Rosalind\|ROSALINDA]] Prosegui. |
+| [[Celia\|CELIA]] | Là giaceva, disteso come un cavaliere ferito— |
+| [[Rosalind\|ROSALINDA]] | Benché sia pietà vedere tale spettacolo, esso s’addice [[Well\|bene]] al terreno. |
+| [[Celia\|CELIA]] | Grida ‘olà’ alla tua lingua, ti prego: fa capriole fuor di stagione.—Era equipaggiato da cacciatore— |
+| [[Rosalind\|ROSALINDA]] | Oh, presagio funesto—viene a uccidere il mio cuore. |
+| [[Celia\|CELIA]] | Vorrei cantare la mia [[Song\|canzone]] senza ritornello; tu mi fai stonare. |
+| [[Rosalind\|ROSALINDA]] | Non sai che sono donna? Quando penso, devo parlare.—Dolce mia, continua. |
 | *(didascalia)* | Entrano [[Orlando]] e [[Jaques]] |
-| [[Celia|CELIA]] | Mi fai perdere il filo. Piano, non viene forse qui? |
-| [[Rosalind|ROSALINDA]] | È lui. Sgusciamo via e osserviamolo. [[Rosalind|Rosalinda]] e [[Celia]] si tirano in disparte |
-| [[Jaques|JAQUES]] | (a [[Orlando]]) Vi ringrazio della vostra compagnia, ma, in buona [[Faith|fede]], sarei stato altrettanto volentieri da [[Alone|solo]]. |
-| [[Orlando|ORLANDO]] | E anch’io. Ma pure, per convenienza, ringrazio anch’io voi della vostra società. |
-| [[Jaques|JAQUES]] | Dio sia con voi; incontriamoci il meno possibile. |
-| [[Orlando|ORLANDO]] | [[Desire|Desidero]] che si diventi estranei migliori. |
-| [[Jaques|JAQUES]] | Vi prego, non guastate altri alberi scrivendo [[songs|canzoni]] d’[[Love|amore]] nelle loro cortecce. |
-| [[Orlando|ORLANDO]] | Vi prego, non guastate altri miei versi leggendoli male. |
-| [[Jaques|JAQUES]] | [[Rosalind|Rosalinda]] è il nome del vostro [[Love|amore]]? |
-| [[Orlando|ORLANDO]] | Sì, appunto. |
-| [[Jaques|JAQUES]] | Non mi piace il suo nome. |
-| [[Orlando|ORLANDO]] | Non si pensava a farvi piacere quando fu battezzata. |
-| [[Jaques|JAQUES]] | Di che statura è? |
-| [[Orlando|ORLANDO]] | Alta giusto quanto il mio cuore. |
-| [[Jaques|JAQUES]] | Siete pieno di grazioselle risposte. Non avete forse frequentato mogli d’orefici, e imparate a memoria dagli anelli? |
-| [[Orlando|ORLANDO]] | Niente affatto; ma vi rispondo proprio in stile da arazzo dipinto, donde voi avete studiato le vostre domande. |
-| [[Jaques|JAQUES]] | Avete un ingegno agile; credo sia fatto dei talloni d’Atalanta. Volete sedervi con me, e noi due inveiremo contro la nostra padrona, il mondo, e contro tutta la nostra miseria? |
-| [[Orlando|ORLANDO]] | Non rimprovererò creatura vivente al mondo se non me stesso, di cui conosco più difetti. |
-| [[Jaques|JAQUES]] | Il vostro peggior difetto è d’essere [[Love|innamorato]]. |
-| [[Orlando|ORLANDO]] | È un difetto che non cambierei con la vostra virtù migliore. Sono stanco di voi. |
-| [[Jaques|JAQUES]] | In fede mia, cercavo uno [[Fool|sciocco]] quando ho trovato voi. |
-| [[Orlando|ORLANDO]] | È annegato nel ruscello. Guardateci dentro, e lo vedrete. |
-| [[Jaques|JAQUES]] | Là vedrò la mia propria figura. [[Orlando|ORLANDO]] Che io ritengo essere o uno [[Fool|sciocco]] o uno zero. |
-| [[Jaques|JAQUES]] | Non m’attarderò più con voi. Addio, buon Signor [[Love|Amore]]. |
-| [[Orlando|ORLANDO]] | Sono lieto della vostra partenza. Adieu, buon Monsieur [[Melancholy|Malinconia]]. Esce [[Jaques]] |
-| [[Rosalind|ROSALINDA]] | (a [[Celia]]) Gli parlerò come un lacchè sfacciato, e sotto quell’abito gli farò il furfante. (A [[Orlando]]) Udite, forestale? |
-| [[Orlando|ORLANDO]] | Assai [[Well|bene]]. Che volete? |
-| [[Rosalind|ROSALINDA]] | Vi prego, che ora fa l’[[Clock|orologio]]? |
-| [[Orlando|ORLANDO]] | Dovreste chiedermi che [[Time|ora]] del giorno è. Non c’è [[Clock|orologio]] nella foresta. |
-| [[Rosalind|ROSALINDA]] | Allora non c’è vero [[Lover|innamorato]] nella foresta, ché altrimenti un sospiro a ogni minuto e un gemito a ogni ora segnalerebbero il piede pigro del [[Time|tempo]] tanto [[Well|bene]] quanto un [[Clock|orologio]]. |
-| [[Orlando|ORLANDO]] | E perché non il piede veloce del [[Time|tempo]]? Non sarebbe stato altrettanto proprio? |
-| [[Rosalind|ROSALINDA]] | Niente affatto, signore. [[Time|Il tempo]] viaggia a diverse andature con diverse persone. Vi dirò con chi il [[Time|tempo]] va d’ambio, con chi il [[Time|tempo]] trotta, con chi il [[Time|tempo]] galoppa, e con chi sta fermo. |
-| [[Orlando|ORLANDO]] | Ti prego, con chi trotta? |
-| [[Rosalind|ROSALINDA]] | Per la Vergine, trotta duramente con una giovane fanciulla fra il contratto del suo [[Marriage|matrimonio]] e il giorno in cui è celebrato. Se l’intervallo è appena d’una settimana, il passo del [[Time|tempo]] è così duro che par lungo sette anni. |
-| [[Orlando|ORLANDO]] | Con chi va d’ambio il [[Time|tempo]]? |
-| [[Rosalind|ROSALINDA]] | Con un prete che non sa il latino, e con un ricco che non ha la gotta; ché l’uno dorme facilmente perché non può studiare, e l’altro vive allegramente perché non sente [[Pain|dolore]], mancando al primo il peso d’una magra e consumante dottrina, e non conoscendo il secondo alcun peso di grave e tediosa povertà. Con questi il [[Time|tempo]] va d’ambio. |
-| [[Orlando|ORLANDO]] | Con chi galoppa? 317 |
-| [[Rosalind|ROSALINDA]] | Con un ladro verso la forca; ché per quanto vada col passo più lieve che piede possa posare, gli pare d’arrivarci troppo presto. |
-| [[Orlando|ORLANDO]] | Con chi sta fermo? |
-| [[Rosalind|ROSALINDA]] | Con gli avvocati in vacanza; ché essi [[Sleep|dormono]] fra una sessione e l’altra, e allora non s’accorgono di come il [[Time|tempo]] si muova. |
-| [[Orlando|ORLANDO]] | Dove abitate, grazioso giovane? |
-| [[Rosalind|ROSALINDA]] | Con questa pastorella, mia sorella, qui ai margini della foresta, come una frangia su una sottana. |
-| [[Orlando|ORLANDO]] | Siete nativo di questo luogo? |
-| [[Rosalind|ROSALINDA]] | Come il coniglio, che vedete abitare dov’è nato. |
-| [[Orlando|ORLANDO]] | Il vostro accento è alquanto più fine di quanto potreste acquistarne in una dimora così remota. |
-| [[Rosalind|ROSALINDA]] | Molti me l’hanno detto; ma in verità fu un mio vecchio zio religioso a insegnarmi a parlare, il quale in gioventù era uomo dell’interno; uno che conosceva troppo [[Well|bene]] la vita di corte, ché là s’innamorò d’[[Love|amore]]. L’ho udito far molte prediche contro di esso, e ringrazio Dio di non essere donna, per non essere toccato da tutti quei vertiginosi difetti di cui egli in generale accusava tutto il loro sesso. |
-| [[Orlando|ORLANDO]] | Ricordate qualcuno dei principali mali che egli imputava alle donne? |
-| [[Rosalind|ROSALINDA]] | Non ve n’erano di principali; erano tutti simili l’uno all’altro come mezzi soldi, e ogni difetto pareva mostruoso finché non veniva il difetto compagno a fargli riscontro. |
-| [[Orlando|ORLANDO]] | Ti prego, raccontamene qualcuno. |
-| [[Rosalind|ROSALINDA]] | No. Non sprecherò la mia medicina se non su chi è malato. C’è un uomo che infesta la foresta e maltratta le nostre giovani piante incidendo [[Rosalind|Rosalinda]] sulle loro cortecce; appende odi ai biancospini ed elegie ai rovi; e tutto, per giunta, per deificare il nome di [[Rosalind|Rosalinda]]. Se potessi incontrare quel mercante di fantasie, gli darei qualche buon consiglio, ché sembra avere addosso la febbre quotidiana dell’[[Love|amore]]. |
-| [[Orlando|ORLANDO]] | Sono io colui che è così scosso dall’[[Love|amore]]. Vi prego, ditemi il vostro rimedio. |
-| [[Rosalind|ROSALINDA]] | Non c’è su di voi nessuno dei segni di mio zio. Egli m’insegnò a riconoscere un uomo [[Love|innamorato]], e in quella gabbia di giunchi son certo che voi non siete prigioniero. |
-| [[Orlando|ORLANDO]] | Quali erano i suoi segni? |
-| [[Rosalind|ROSALINDA]] | Una guancia scarna, che voi non avete; un occhio livido e infossato, che voi non avete; uno spirito scontroso, che voi non avete; una barba trascurata, che voi non avete—ma di questo vi perdono, ché in fatto di barba il vostro avere è la rendita d’un fratello minore. Poi le vostre calze dovrebbero essere senza giarrettiere, il berretto senza nastro, la manica sbottonata, la scarpa slacciata, e ogni cosa in voi dimostrare una trasandata desolazione. Ma voi non siete tale uomo. Siete piuttosto tutto in ordine nei vostri ornamenti, come uno che ami sé stesso più che sembrare l’[[Lover|innamorato]] di qualcun altro. |
-| [[Orlando|ORLANDO]] | Bel giovane, vorrei poterti far credere che [[Love|amo]]. |
-| [[Rosalind|ROSALINDA]] | Farlo credere a me? Potreste altrettanto presto farlo credere a colei che [[Love|amate]], la quale, ve lo garantisco, è più incline a credervi che a confessare di credervi. Questo è uno dei punti in cui le donne smentiscono di continuo la loro coscienza. Ma in tutta verità, siete voi colui che appende i versi agli alberi, in cui [[Rosalind|Rosalinda]] è così ammirata? |
-| [[Orlando|ORLANDO]] | Ti giuro, giovane, per la bianca mano di [[Rosalind|Rosalinda]], che io son quello, quello sventurato. |
-| [[Rosalind|ROSALINDA]] | Ma siete tanto [[Love|innamorato]] quanto dicono le vostre rime? |
-| [[Orlando|ORLANDO]] | Né rima né ragione possono esprimere quanto. |
-| [[Rosalind|ROSALINDA]] | L’[[Love|amore]] non è che una [[Madness|follia]], e vi dico che merita [[Well|bene]] una [[house|casa]] buia e la frusta quanto i pazzi; e la ragione per cui non è così punito e curato è che la pazzia è tanto comune che anche i frustatori sono [[Love|innamorati]]. Eppure io professo di curarla col consiglio. |
-| [[Orlando|ORLANDO]] | Ne avete mai curato qualcuno così? |
-| [[Rosalind|ROSALINDA]] | Sì, uno; e in questo modo. Doveva immaginarmi il suo [[Love|amore]], la sua signora; e io lo mettevo ogni giorno a corteggiarmi. E in quel [[Time|momento]] io, essendo un giovane lunatico, mi affliggevo, ero effeminata, mutevole, [[Longing|struggente]] e compiacente, superba, fantastica, scimmiesca, superficiale, incostante, piena di [[Tears|lacrime]], piena di sorrisi; per ogni passione qualcosa, e per nessuna passione veramente nulla, ché i ragazzi e le donne sono per lo più bestiame di questo colore—ora lo gradivo, ora lo detestavo; poi lo accoglievo, poi lo ripudiavo; ora piangevo per lui, poi gli sputavo addosso, sicché spinsi il mio pretendente dal suo pazzo [[Humour|umore]] d’[[Love|amore]] a un vivo [[Humour|umore]] di [[Madness|follia]], che fu di rinunciare all’intera corrente del mondo e vivere in un cantuccio del tutto monastico. E così lo guarii, e in questo modo m’impegno a lavarvi il fegato netto come il cuore d’una pecora sana, sicché non vi resti una macchia d’[[Love|amore]]. |
-| [[Orlando|ORLANDO]] | Non vorrei essere guarito, giovane. |
-| [[Rosalind|ROSALINDA]] | Vi guarirei se solo mi chiamaste [[Rosalind|Rosalinda]] e veniste ogni giorno alla mia capanna a corteggiarmi. |
-| [[Orlando|ORLANDO]] | Ora, per la [[Faith|fede]] del mio [[Love|amore]], lo farò. Ditemi dov’è. |
-| [[Rosalind|ROSALINDA]] | Venite con me, e ve la mostrerò. E per la via mi direte dove abitate nella foresta. Volete venire? |
-| [[Orlando|ORLANDO]] | Con tutto il cuore, buon giovane. |
-| [[Rosalind|ROSALINDA]] | No, dovete chiamarmi [[Rosalind|Rosalinda]].—Vieni, sorella. Volete venire? |
+| [[Celia\|CELIA]] | Mi fai perdere il filo. Piano, non viene forse qui? |
+| [[Rosalind\|ROSALINDA]] | È lui. Sgusciamo via e osserviamolo. [[Rosalind\|Rosalinda]] e [[Celia]] si tirano in disparte |
+| [[Jaques\|JAQUES]] | (a [[Orlando]]) Vi ringrazio della vostra compagnia, ma, in buona [[Faith\|fede]], sarei stato altrettanto volentieri da [[Alone\|solo]]. |
+| [[Orlando\|ORLANDO]] | E anch’io. Ma pure, per convenienza, ringrazio anch’io voi della vostra società. |
+| [[Jaques\|JAQUES]] | Dio sia con voi; incontriamoci il meno possibile. |
+| [[Orlando\|ORLANDO]] | [[Desire\|Desidero]] che si diventi estranei migliori. |
+| [[Jaques\|JAQUES]] | Vi prego, non guastate altri alberi scrivendo [[songs\|canzoni]] d’[[Love\|amore]] nelle loro cortecce. |
+| [[Orlando\|ORLANDO]] | Vi prego, non guastate altri miei versi leggendoli male. |
+| [[Jaques\|JAQUES]] | [[Rosalind\|Rosalinda]] è il nome del vostro [[Love\|amore]]? |
+| [[Orlando\|ORLANDO]] | Sì, appunto. |
+| [[Jaques\|JAQUES]] | Non mi piace il suo nome. |
+| [[Orlando\|ORLANDO]] | Non si pensava a farvi piacere quando fu battezzata. |
+| [[Jaques\|JAQUES]] | Di che statura è? |
+| [[Orlando\|ORLANDO]] | Alta giusto quanto il mio cuore. |
+| [[Jaques\|JAQUES]] | Siete pieno di grazioselle risposte. Non avete forse frequentato mogli d’orefici, e imparate a memoria dagli anelli? |
+| [[Orlando\|ORLANDO]] | Niente affatto; ma vi rispondo proprio in stile da arazzo dipinto, donde voi avete studiato le vostre domande. |
+| [[Jaques\|JAQUES]] | Avete un ingegno agile; credo sia fatto dei talloni d’Atalanta. Volete sedervi con me, e noi due inveiremo contro la nostra padrona, il mondo, e contro tutta la nostra miseria? |
+| [[Orlando\|ORLANDO]] | Non rimprovererò creatura vivente al mondo se non me stesso, di cui conosco più difetti. |
+| [[Jaques\|JAQUES]] | Il vostro peggior difetto è d’essere [[Love\|innamorato]]. |
+| [[Orlando\|ORLANDO]] | È un difetto che non cambierei con la vostra virtù migliore. Sono stanco di voi. |
+| [[Jaques\|JAQUES]] | In fede mia, cercavo uno [[Fool\|sciocco]] quando ho trovato voi. |
+| [[Orlando\|ORLANDO]] | È annegato nel ruscello. Guardateci dentro, e lo vedrete. |
+| [[Jaques\|JAQUES]] | Là vedrò la mia propria figura. [[Orlando\|ORLANDO]] Che io ritengo essere o uno [[Fool\|sciocco]] o uno zero. |
+| [[Jaques\|JAQUES]] | Non m’attarderò più con voi. Addio, buon Signor [[Love\|Amore]]. |
+| [[Orlando\|ORLANDO]] | Sono lieto della vostra partenza. Adieu, buon Monsieur [[Melancholy\|Malinconia]]. Esce [[Jaques]] |
+| [[Rosalind\|ROSALINDA]] | (a [[Celia]]) Gli parlerò come un lacchè sfacciato, e sotto quell’abito gli farò il furfante. (A [[Orlando]]) Udite, forestale? |
+| [[Orlando\|ORLANDO]] | Assai [[Well\|bene]]. Che volete? |
+| [[Rosalind\|ROSALINDA]] | Vi prego, che ora fa l’[[Clock\|orologio]]? |
+| [[Orlando\|ORLANDO]] | Dovreste chiedermi che [[Time\|ora]] del giorno è. Non c’è [[Clock\|orologio]] nella foresta. |
+| [[Rosalind\|ROSALINDA]] | Allora non c’è vero [[Lover\|innamorato]] nella foresta, ché altrimenti un sospiro a ogni minuto e un gemito a ogni ora segnalerebbero il piede pigro del [[Time\|tempo]] tanto [[Well\|bene]] quanto un [[Clock\|orologio]]. |
+| [[Orlando\|ORLANDO]] | E perché non il piede veloce del [[Time\|tempo]]? Non sarebbe stato altrettanto proprio? |
+| [[Rosalind\|ROSALINDA]] | Niente affatto, signore. [[Time\|Il tempo]] viaggia a diverse andature con diverse persone. Vi dirò con chi il [[Time\|tempo]] va d’ambio, con chi il [[Time\|tempo]] trotta, con chi il [[Time\|tempo]] galoppa, e con chi sta fermo. |
+| [[Orlando\|ORLANDO]] | Ti prego, con chi trotta? |
+| [[Rosalind\|ROSALINDA]] | Per la Vergine, trotta duramente con una giovane fanciulla fra il contratto del suo [[Marriage\|matrimonio]] e il giorno in cui è celebrato. Se l’intervallo è appena d’una settimana, il passo del [[Time\|tempo]] è così duro che par lungo sette anni. |
+| [[Orlando\|ORLANDO]] | Con chi va d’ambio il [[Time\|tempo]]? |
+| [[Rosalind\|ROSALINDA]] | Con un prete che non sa il latino, e con un ricco che non ha la gotta; ché l’uno dorme facilmente perché non può studiare, e l’altro vive allegramente perché non sente [[Pain\|dolore]], mancando al primo il peso d’una magra e consumante dottrina, e non conoscendo il secondo alcun peso di grave e tediosa povertà. Con questi il [[Time\|tempo]] va d’ambio. |
+| [[Orlando\|ORLANDO]] | Con chi galoppa? 317 |
+| [[Rosalind\|ROSALINDA]] | Con un ladro verso la forca; ché per quanto vada col passo più lieve che piede possa posare, gli pare d’arrivarci troppo presto. |
+| [[Orlando\|ORLANDO]] | Con chi sta fermo? |
+| [[Rosalind\|ROSALINDA]] | Con gli avvocati in vacanza; ché essi [[Sleep\|dormono]] fra una sessione e l’altra, e allora non s’accorgono di come il [[Time\|tempo]] si muova. |
+| [[Orlando\|ORLANDO]] | Dove abitate, grazioso giovane? |
+| [[Rosalind\|ROSALINDA]] | Con questa pastorella, mia sorella, qui ai margini della foresta, come una frangia su una sottana. |
+| [[Orlando\|ORLANDO]] | Siete nativo di questo luogo? |
+| [[Rosalind\|ROSALINDA]] | Come il coniglio, che vedete abitare dov’è nato. |
+| [[Orlando\|ORLANDO]] | Il vostro accento è alquanto più fine di quanto potreste acquistarne in una dimora così remota. |
+| [[Rosalind\|ROSALINDA]] | Molti me l’hanno detto; ma in verità fu un mio vecchio zio religioso a insegnarmi a parlare, il quale in gioventù era uomo dell’interno; uno che conosceva troppo [[Well\|bene]] la vita di corte, ché là s’innamorò d’[[Love\|amore]]. L’ho udito far molte prediche contro di esso, e ringrazio Dio di non essere donna, per non essere toccato da tutti quei vertiginosi difetti di cui egli in generale accusava tutto il loro sesso. |
+| [[Orlando\|ORLANDO]] | Ricordate qualcuno dei principali mali che egli imputava alle donne? |
+| [[Rosalind\|ROSALINDA]] | Non ve n’erano di principali; erano tutti simili l’uno all’altro come mezzi soldi, e ogni difetto pareva mostruoso finché non veniva il difetto compagno a fargli riscontro. |
+| [[Orlando\|ORLANDO]] | Ti prego, raccontamene qualcuno. |
+| [[Rosalind\|ROSALINDA]] | No. Non sprecherò la mia medicina se non su chi è malato. C’è un uomo che infesta la foresta e maltratta le nostre giovani piante incidendo [[Rosalind\|Rosalinda]] sulle loro cortecce; appende odi ai biancospini ed elegie ai rovi; e tutto, per giunta, per deificare il nome di [[Rosalind\|Rosalinda]]. Se potessi incontrare quel mercante di fantasie, gli darei qualche buon consiglio, ché sembra avere addosso la febbre quotidiana dell’[[Love\|amore]]. |
+| [[Orlando\|ORLANDO]] | Sono io colui che è così scosso dall’[[Love\|amore]]. Vi prego, ditemi il vostro rimedio. |
+| [[Rosalind\|ROSALINDA]] | Non c’è su di voi nessuno dei segni di mio zio. Egli m’insegnò a riconoscere un uomo [[Love\|innamorato]], e in quella gabbia di giunchi son certo che voi non siete prigioniero. |
+| [[Orlando\|ORLANDO]] | Quali erano i suoi segni? |
+| [[Rosalind\|ROSALINDA]] | Una guancia scarna, che voi non avete; un occhio livido e infossato, che voi non avete; uno spirito scontroso, che voi non avete; una barba trascurata, che voi non avete—ma di questo vi perdono, ché in fatto di barba il vostro avere è la rendita d’un fratello minore. Poi le vostre calze dovrebbero essere senza giarrettiere, il berretto senza nastro, la manica sbottonata, la scarpa slacciata, e ogni cosa in voi dimostrare una trasandata desolazione. Ma voi non siete tale uomo. Siete piuttosto tutto in ordine nei vostri ornamenti, come uno che ami sé stesso più che sembrare l’[[Lover\|innamorato]] di qualcun altro. |
+| [[Orlando\|ORLANDO]] | Bel giovane, vorrei poterti far credere che [[Love\|amo]]. |
+| [[Rosalind\|ROSALINDA]] | Farlo credere a me? Potreste altrettanto presto farlo credere a colei che [[Love\|amate]], la quale, ve lo garantisco, è più incline a credervi che a confessare di credervi. Questo è uno dei punti in cui le donne smentiscono di continuo la loro coscienza. Ma in tutta verità, siete voi colui che appende i versi agli alberi, in cui [[Rosalind\|Rosalinda]] è così ammirata? |
+| [[Orlando\|ORLANDO]] | Ti giuro, giovane, per la bianca mano di [[Rosalind\|Rosalinda]], che io son quello, quello sventurato. |
+| [[Rosalind\|ROSALINDA]] | Ma siete tanto [[Love\|innamorato]] quanto dicono le vostre rime? |
+| [[Orlando\|ORLANDO]] | Né rima né ragione possono esprimere quanto. |
+| [[Rosalind\|ROSALINDA]] | L’[[Love\|amore]] non è che una [[Madness\|follia]], e vi dico che merita [[Well\|bene]] una [[house\|casa]] buia e la frusta quanto i pazzi; e la ragione per cui non è così punito e curato è che la pazzia è tanto comune che anche i frustatori sono [[Love\|innamorati]]. Eppure io professo di curarla col consiglio. |
+| [[Orlando\|ORLANDO]] | Ne avete mai curato qualcuno così? |
+| [[Rosalind\|ROSALINDA]] | Sì, uno; e in questo modo. Doveva immaginarmi il suo [[Love\|amore]], la sua signora; e io lo mettevo ogni giorno a corteggiarmi. E in quel [[Time\|momento]] io, essendo un giovane lunatico, mi affliggevo, ero effeminata, mutevole, [[Longing\|struggente]] e compiacente, superba, fantastica, scimmiesca, superficiale, incostante, piena di [[Tears\|lacrime]], piena di sorrisi; per ogni passione qualcosa, e per nessuna passione veramente nulla, ché i ragazzi e le donne sono per lo più bestiame di questo colore—ora lo gradivo, ora lo detestavo; poi lo accoglievo, poi lo ripudiavo; ora piangevo per lui, poi gli sputavo addosso, sicché spinsi il mio pretendente dal suo pazzo [[Humour\|umore]] d’[[Love\|amore]] a un vivo [[Humour\|umore]] di [[Madness\|follia]], che fu di rinunciare all’intera corrente del mondo e vivere in un cantuccio del tutto monastico. E così lo guarii, e in questo modo m’impegno a lavarvi il fegato netto come il cuore d’una pecora sana, sicché non vi resti una macchia d’[[Love\|amore]]. |
+| [[Orlando\|ORLANDO]] | Non vorrei essere guarito, giovane. |
+| [[Rosalind\|ROSALINDA]] | Vi guarirei se solo mi chiamaste [[Rosalind\|Rosalinda]] e veniste ogni giorno alla mia capanna a corteggiarmi. |
+| [[Orlando\|ORLANDO]] | Ora, per la [[Faith\|fede]] del mio [[Love\|amore]], lo farò. Ditemi dov’è. |
+| [[Rosalind\|ROSALINDA]] | Venite con me, e ve la mostrerò. E per la via mi direte dove abitate nella foresta. Volete venire? |
+| [[Orlando\|ORLANDO]] | Con tutto il cuore, buon giovane. |
+| [[Rosalind\|ROSALINDA]] | No, dovete chiamarmi [[Rosalind\|Rosalinda]].—Vieni, sorella. Volete venire? |
 | *(didascalia)* | Escono |
 
 
@@ -2253,41 +2253,41 @@ As You Like It
 | Chi parla | Battuta |
 |---|---|
 | *(didascalia)* | Entrano [[Touchstone]] il buffone e Audrey, seguiti da [[Jaques]] |
-| [[Touchstone|TOUCHSTONE]] | Vieni svelta, buona Audrey. Andrò a raccogliere le tue capre, Audrey. E allora, Audrey, sono io ancora l’uomo che fa per te? Ti contentano le mie semplici fattezze? |
+| [[Touchstone\|TOUCHSTONE]] | Vieni svelta, buona Audrey. Andrò a raccogliere le tue capre, Audrey. E allora, Audrey, sono io ancora l’uomo che fa per te? Ti contentano le mie semplici fattezze? |
 | AUDREY | Le vostre fattezze, il Signore ci protegga—quali fattezze? |
-| [[Touchstone|TOUCHSTONE]] | Io sono qui con te e con le tue capre come il più capriccioso dei poeti, l’onesto Ovidio, era fra i Goti. |
-| [[Jaques|JAQUES]] | (a parte) O sapere mal alloggiato; peggio di Giove in una [[house|casa]] di paglia. |
-| [[Touchstone|TOUCHSTONE]] | Quando i versi d’un uomo non possono essere intesi, né il buon ingegno d’un uomo è assecondato da quel precoce [[Child|fanciullo]] ch’è l’intelletto, ciò abbatte un uomo più d’un conto salato in una stanzetta. In verità, vorrei che gli dèi t’avessero fatta poetica. |
+| [[Touchstone\|TOUCHSTONE]] | Io sono qui con te e con le tue capre come il più capriccioso dei poeti, l’onesto Ovidio, era fra i Goti. |
+| [[Jaques\|JAQUES]] | (a parte) O sapere mal alloggiato; peggio di Giove in una [[house\|casa]] di paglia. |
+| [[Touchstone\|TOUCHSTONE]] | Quando i versi d’un uomo non possono essere intesi, né il buon ingegno d’un uomo è assecondato da quel precoce [[Child\|fanciullo]] ch’è l’intelletto, ciò abbatte un uomo più d’un conto salato in una stanzetta. In verità, vorrei che gli dèi t’avessero fatta poetica. |
 | AUDREY | Non so che cosa sia ‘poetica’. È onesto nei fatti e nelle parole? È cosa vera? |
-| [[Touchstone|TOUCHSTONE]] | No, in verità; ché la poesia più vera è quella che più finge, e gli [[lovers|amanti]] sono dediti alla poesia; e ciò che giurano in poesia si può dire che, in quanto [[lovers|amanti]], lo fingono. |
+| [[Touchstone\|TOUCHSTONE]] | No, in verità; ché la poesia più vera è quella che più finge, e gli [[lovers\|amanti]] sono dediti alla poesia; e ciò che giurano in poesia si può dire che, in quanto [[lovers\|amanti]], lo fingono. |
 | AUDREY | Desiderate dunque che gli dèi m’avessero fatta poetica? |
-| TOUCHTONE | Sì, in verità; ché tu mi giuri d’essere onesta. Ora, se tu fossi poetessa, potrei avere qualche [[Hope|speranza]] che tu fingessi. |
+| TOUCHTONE | Sì, in verità; ché tu mi giuri d’essere onesta. Ora, se tu fossi poetessa, potrei avere qualche [[Hope\|speranza]] che tu fingessi. |
 | AUDREY | Non mi vorreste onesta? |
-| [[Touchstone|TOUCHSTONE]] | No, in verità, a meno che tu non fossi brutta; ché l’onestà accoppiata alla [[Beauty|bellezza]] è come avere il miele per salsa dello zucchero. |
-| [[Jaques|JAQUES]] | (a parte) Uno [[Fool|sciocco]] di sostanza. |
-| AUDREY | [[Well|Bene]], io non sono bella, e perciò prego gli dèi di farmi onesta. |
-| [[Touchstone|TOUCHSTONE]] | In verità, e sprecare l’onestà su una sudicia sciattona sarebbe come mettere buona carne in un piatto immondo. |
+| [[Touchstone\|TOUCHSTONE]] | No, in verità, a meno che tu non fossi brutta; ché l’onestà accoppiata alla [[Beauty\|bellezza]] è come avere il miele per salsa dello zucchero. |
+| [[Jaques\|JAQUES]] | (a parte) Uno [[Fool\|sciocco]] di sostanza. |
+| AUDREY | [[Well\|Bene]], io non sono bella, e perciò prego gli dèi di farmi onesta. |
+| [[Touchstone\|TOUCHSTONE]] | In verità, e sprecare l’onestà su una sudicia sciattona sarebbe come mettere buona carne in un piatto immondo. |
 | AUDREY | Non sono una sciattona, benché ringrazi gli dèi d’essere brutta. |
-| [[Touchstone|TOUCHSTONE]] | [[Well|Bene]], siano lodati gli dèi per la tua bruttezza. La sciatteria potrà venire più tardi. Ma sia come sia, io ti sposerò; e a tal fine sono stato da Sir [[Oliver|Oliviero]] Martext, il vicario del villaggio vicino, che m’ha promesso d’incontrarmi in questo luogo della foresta, e d’accoppiarci. |
-| [[Jaques|JAQUES]] | (a parte) Vedrei volentieri quest’incontro. |
-| AUDREY | [[Well|Bene]], gli dèi ci diano gioia. |
-| [[Touchstone|TOUCHSTONE]] | Amen.—Un uomo potrebbe, se avesse cuore pauroso, vacillare in questo tentativo; ché qui non abbiamo tempio se non il bosco, né assemblea se non bestie cornute. Ma che importa? [[Courage|Coraggio]]. Per quanto odiose, le corna sono necessarie. Si dice che più d’un uomo non conosca la fine dei suoi beni. Giusto: più d’un uomo ha buone corna e non ne conosce la fine. [[Well|Bene]], quella è la dote della moglie, non è roba guadagnata da lui. Corna? Proprio così. Solo gli uomini poveri, [[Alone|soli]]? No, no; il più nobile cervo le ha grandi quanto il cervo da nulla. È dunque beato l’uomo scapolo? No. Come una città cinta di mura vale più d’un villaggio, così la fronte d’un uomo ammogliato è più onorevole della nuda fronte d’un celibe. E quanto più la difesa vale più della mancanza d’ogni arte, tanto più un corno è più prezioso del non averne. |
-| *(didascalia)* | Entra Sir [[Oliver|Oliviero]] Martext |
-| [[Touchstone|TOUCHSTONE]] | Ecco che viene Sir [[Oliver|Oliviero]].—Sir [[Oliver|Oliviero]] Martext, siate il<br>[[Well|ben]] trovato. Volete sbrigarci qui sotto quest’albero, o<br>dobbiamo venire con voi alla vostra cappella? |
-| SIR [[Oliver|OLIVIERO]] MARTEXT | Non c’è nessuno qui a consegnare la donna? |
-| [[Touchstone|TOUCHSTONE]] | Non la prenderò in dono da nessun uomo. |
-| SIR [[Oliver|OLIVIERO]] MARTEXT | In verità dev’essere consegnata, o il [[Marriage|matrimonio]] non è legittimo. |
-| [[Jaques|JAQUES]] | (facendosi avanti) Procedete, procedete. La consegnerò io. |
-| [[Touchstone|TOUCHSTONE]] | Buona sera, buon Monsieur Come-vi-chiamate. Come state, signore? Siate il [[Well|ben]] trovato. Dio vi renda merito della vostra compagnia dell’altra volta. Sono molto lieto di vedervi. Una bagattella per le mani, qui, signore.<br>[[Jaques]] si toglie il cappello<br>No, vi prego, restate coperto. |
-| [[Jaques|JAQUES]] | Vuoi sposarti, buffone variopinto? |
-| [[Touchstone|TOUCHSTONE]] | Come il bue ha il suo giogo, signore, il [[Horse|cavallo]] il suo morso, e il falco i suoi [[Bells|sonagli]], così l’uomo ha i suoi desideri; e come i colombi si beccano, così il matrimonio vorrebbe sbocconcellare. |
-| [[Jaques|JAQUES]] | E vuoi tu, essendo uomo della tua educazione, sposarti sotto un cespuglio, come un mendicante? Va’ in chiesa, e prendi un buon prete che sappia dirti che cosa sia il [[Marriage|matrimonio]]. Costui non farà che unirvi come si uniscono i pannelli di legno; poi uno di voi risulterà un’asse ristretta e, come legno verde, si torcerà, si torcerà. |
-| [[Touchstone|TOUCHSTONE]] | Non sono d’altro parere se non che è meglio per me essere sposato da lui che da un altro, ché non è probabile che mi sposi [[Well|bene]], e, non essendo [[Well|ben]] sposato, sarà per me in seguito una buona scusa per lasciare mia moglie. |
-| [[Jaques|JAQUES]] | Vieni con me, e lascia che ti consigli. |
-| [[Touchstone|TOUCHSTONE]] | Vieni, dolce Audrey.<br>Dobbiamo sposarci, o dobbiamo vivere nel concubinato.<br>Addio, buon mastro [[Oliver|Oliviero]]. Non<br>O, dolce [[Oliver|Oliviero]],<br>O, prode [[Oliver|Oliviero]],<br>non lasciarmi dietro di te<br>ma |
-| *(didascalia)* | [[Wind|Va’]] via, |
-| [[Touchstone|TOUCHSTONE]] | Vattene, dico,<br>non verrò a nozze con te. |
-| SIR [[Oliver|OLIVIERO]] MARTEXT | (a parte) Non importa. Nessuno di questi furfanti stravaganti mi caccerà con le beffe dal mio ufficio. Escono |
+| [[Touchstone\|TOUCHSTONE]] | [[Well\|Bene]], siano lodati gli dèi per la tua bruttezza. La sciatteria potrà venire più tardi. Ma sia come sia, io ti sposerò; e a tal fine sono stato da Sir [[Oliver\|Oliviero]] Martext, il vicario del villaggio vicino, che m’ha promesso d’incontrarmi in questo luogo della foresta, e d’accoppiarci. |
+| [[Jaques\|JAQUES]] | (a parte) Vedrei volentieri quest’incontro. |
+| AUDREY | [[Well\|Bene]], gli dèi ci diano gioia. |
+| [[Touchstone\|TOUCHSTONE]] | Amen.—Un uomo potrebbe, se avesse cuore pauroso, vacillare in questo tentativo; ché qui non abbiamo tempio se non il bosco, né assemblea se non bestie cornute. Ma che importa? [[Courage\|Coraggio]]. Per quanto odiose, le corna sono necessarie. Si dice che più d’un uomo non conosca la fine dei suoi beni. Giusto: più d’un uomo ha buone corna e non ne conosce la fine. [[Well\|Bene]], quella è la dote della moglie, non è roba guadagnata da lui. Corna? Proprio così. Solo gli uomini poveri, [[Alone\|soli]]? No, no; il più nobile cervo le ha grandi quanto il cervo da nulla. È dunque beato l’uomo scapolo? No. Come una città cinta di mura vale più d’un villaggio, così la fronte d’un uomo ammogliato è più onorevole della nuda fronte d’un celibe. E quanto più la difesa vale più della mancanza d’ogni arte, tanto più un corno è più prezioso del non averne. |
+| *(didascalia)* | Entra Sir [[Oliver\|Oliviero]] Martext |
+| [[Touchstone\|TOUCHSTONE]] | Ecco che viene Sir [[Oliver\|Oliviero]].—Sir [[Oliver\|Oliviero]] Martext, siate il<br>[[Well\|ben]] trovato. Volete sbrigarci qui sotto quest’albero, o<br>dobbiamo venire con voi alla vostra cappella? |
+| SIR [[Oliver\|OLIVIERO]] MARTEXT | Non c’è nessuno qui a consegnare la donna? |
+| [[Touchstone\|TOUCHSTONE]] | Non la prenderò in dono da nessun uomo. |
+| SIR [[Oliver\|OLIVIERO]] MARTEXT | In verità dev’essere consegnata, o il [[Marriage\|matrimonio]] non è legittimo. |
+| [[Jaques\|JAQUES]] | (facendosi avanti) Procedete, procedete. La consegnerò io. |
+| [[Touchstone\|TOUCHSTONE]] | Buona sera, buon Monsieur Come-vi-chiamate. Come state, signore? Siate il [[Well\|ben]] trovato. Dio vi renda merito della vostra compagnia dell’altra volta. Sono molto lieto di vedervi. Una bagattella per le mani, qui, signore.<br>[[Jaques]] si toglie il cappello<br>No, vi prego, restate coperto. |
+| [[Jaques\|JAQUES]] | Vuoi sposarti, buffone variopinto? |
+| [[Touchstone\|TOUCHSTONE]] | Come il bue ha il suo giogo, signore, il [[Horse\|cavallo]] il suo morso, e il falco i suoi [[Bells\|sonagli]], così l’uomo ha i suoi desideri; e come i colombi si beccano, così il matrimonio vorrebbe sbocconcellare. |
+| [[Jaques\|JAQUES]] | E vuoi tu, essendo uomo della tua educazione, sposarti sotto un cespuglio, come un mendicante? Va’ in chiesa, e prendi un buon prete che sappia dirti che cosa sia il [[Marriage\|matrimonio]]. Costui non farà che unirvi come si uniscono i pannelli di legno; poi uno di voi risulterà un’asse ristretta e, come legno verde, si torcerà, si torcerà. |
+| [[Touchstone\|TOUCHSTONE]] | Non sono d’altro parere se non che è meglio per me essere sposato da lui che da un altro, ché non è probabile che mi sposi [[Well\|bene]], e, non essendo [[Well\|ben]] sposato, sarà per me in seguito una buona scusa per lasciare mia moglie. |
+| [[Jaques\|JAQUES]] | Vieni con me, e lascia che ti consigli. |
+| [[Touchstone\|TOUCHSTONE]] | Vieni, dolce Audrey.<br>Dobbiamo sposarci, o dobbiamo vivere nel concubinato.<br>Addio, buon mastro [[Oliver\|Oliviero]]. Non<br>O, dolce [[Oliver\|Oliviero]],<br>O, prode [[Oliver\|Oliviero]],<br>non lasciarmi dietro di te<br>ma |
+| *(didascalia)* | [[Wind\|Va’]] via, |
+| [[Touchstone\|TOUCHSTONE]] | Vattene, dico,<br>non verrò a nozze con te. |
+| SIR [[Oliver\|OLIVIERO]] MARTEXT | (a parte) Non importa. Nessuno di questi furfanti stravaganti mi caccerà con le beffe dal mio ufficio. Escono |
 
 
 
@@ -2329,32 +2329,32 @@ As You Like It
 
 | Chi parla | Battuta |
 |---|---|
-| *(didascalia)* | Entrano [[Rosalind|Rosalinda]] come Ganimede e [[Celia]] come Aliena |
-| [[Rosalind|ROSALINDA]] | Non parlarmi. Voglio piangere. |
-| [[Celia|CELIA]] | Piangi pure, ti prego, ma abbi almeno la grazia di considerare che le [[Tears|lacrime]] non s’addicono a un uomo. |
-| [[Rosalind|ROSALINDA]] | Ma non ho forse motivo di piangere? |
-| [[Celia|CELIA]] | Motivo buono quanto si possa [[Desire|desiderare]]; dunque piangi. |
-| [[Rosalind|ROSALINDA]] | I suoi capelli stessi sono del colore del tradimento. |
-| [[Celia|CELIA]] | Un po’ più bruni di quelli di Giuda. Per la Vergine, i suoi baci sono figli legittimi di Giuda. |
-| [[Rosalind|ROSALINDA]] | In [[Faith|fede]] mia, i suoi capelli sono d’un bel colore. |
-| [[Celia|CELIA]] | Colore eccellente. Il castano fu sempre l’unico colore. |
-| [[Rosalind|ROSALINDA]] | E il suo baciare è pieno di santità come il tocco del pane benedetto. |
-| [[Celia|CELIA]] | Ha comprato un paio di labbra smesse da [[Diana]]. Una monaca della confraternita dell’[[Winter|inverno]] non bacia più religiosamente. Vi è in esse il ghiaccio stesso della castità. |
-| [[Rosalind|ROSALINDA]] | Ma perché giurò che sarebbe venuto stamattina, e non viene? |
-| [[Celia|CELIA]] | No, certamente, non c’è [[Truth|verità]] in lui. |
-| [[Rosalind|ROSALINDA]] | Lo credi? |
-| [[Celia|CELIA]] | Sì. Non credo che sia un tagliaborse né un ladro di [[Horse|cavalli]]; ma quanto alla sua sincerità in [[Love|amore]], lo credo cavo come una coppa coperta o come una noce mangiata dal verme. |
-| [[Rosalind|ROSALINDA]] | Non sincero in [[Love|amore]]? |
-| [[Celia|CELIA]] | Sì, quando ci è dentro. Ma credo che non ci sia dentro. |
-| [[Rosalind|ROSALINDA]] | L’hai udito giurare senza mezzi termini che c’era. |
-| [[Celia|CELIA]] | ‘Era’ non è ‘è’. Inoltre, il giuramento d’un [[Lover|innamorato]] non è più forte della parola d’un oste. Entrambi confermano conti falsi. Egli è qui nella foresta al servizio del Duca vostro padre. |
-| [[Rosalind|ROSALINDA]] | Ho incontrato il Duca ieri, e ho avuto con lui molte domande. Mi chiese di quale parentela fossi. Gli risposi: d’una buona quanto la sua; ed egli rise e mi lasciò andare. Ma che parliamo di padri, quando c’è un uomo come [[Orlando]]? |
-| [[Celia|CELIA]] | Oh, quello è un uomo bravo. Scrive bravi versi, dice brave parole, giura bravi giuramenti e li rompe bravamente, tutto di traverso, attraverso il cuore della sua [[Lover|innamorata]], come un gracile giostratore che, spronando il [[Horse|cavallo]] da un lato solo, spezza la lancia come una nobile oca. Ma tutto è bravo dove la giovinezza cavalca e la follia guida. Chi viene qui? |
+| *(didascalia)* | Entrano [[Rosalind\|Rosalinda]] come Ganimede e [[Celia]] come Aliena |
+| [[Rosalind\|ROSALINDA]] | Non parlarmi. Voglio piangere. |
+| [[Celia\|CELIA]] | Piangi pure, ti prego, ma abbi almeno la grazia di considerare che le [[Tears\|lacrime]] non s’addicono a un uomo. |
+| [[Rosalind\|ROSALINDA]] | Ma non ho forse motivo di piangere? |
+| [[Celia\|CELIA]] | Motivo buono quanto si possa [[Desire\|desiderare]]; dunque piangi. |
+| [[Rosalind\|ROSALINDA]] | I suoi capelli stessi sono del colore del tradimento. |
+| [[Celia\|CELIA]] | Un po’ più bruni di quelli di Giuda. Per la Vergine, i suoi baci sono figli legittimi di Giuda. |
+| [[Rosalind\|ROSALINDA]] | In [[Faith\|fede]] mia, i suoi capelli sono d’un bel colore. |
+| [[Celia\|CELIA]] | Colore eccellente. Il castano fu sempre l’unico colore. |
+| [[Rosalind\|ROSALINDA]] | E il suo baciare è pieno di santità come il tocco del pane benedetto. |
+| [[Celia\|CELIA]] | Ha comprato un paio di labbra smesse da [[Diana]]. Una monaca della confraternita dell’[[Winter\|inverno]] non bacia più religiosamente. Vi è in esse il ghiaccio stesso della castità. |
+| [[Rosalind\|ROSALINDA]] | Ma perché giurò che sarebbe venuto stamattina, e non viene? |
+| [[Celia\|CELIA]] | No, certamente, non c’è [[Truth\|verità]] in lui. |
+| [[Rosalind\|ROSALINDA]] | Lo credi? |
+| [[Celia\|CELIA]] | Sì. Non credo che sia un tagliaborse né un ladro di [[Horse\|cavalli]]; ma quanto alla sua sincerità in [[Love\|amore]], lo credo cavo come una coppa coperta o come una noce mangiata dal verme. |
+| [[Rosalind\|ROSALINDA]] | Non sincero in [[Love\|amore]]? |
+| [[Celia\|CELIA]] | Sì, quando ci è dentro. Ma credo che non ci sia dentro. |
+| [[Rosalind\|ROSALINDA]] | L’hai udito giurare senza mezzi termini che c’era. |
+| [[Celia\|CELIA]] | ‘Era’ non è ‘è’. Inoltre, il giuramento d’un [[Lover\|innamorato]] non è più forte della parola d’un oste. Entrambi confermano conti falsi. Egli è qui nella foresta al servizio del Duca vostro padre. |
+| [[Rosalind\|ROSALINDA]] | Ho incontrato il Duca ieri, e ho avuto con lui molte domande. Mi chiese di quale parentela fossi. Gli risposi: d’una buona quanto la sua; ed egli rise e mi lasciò andare. Ma che parliamo di padri, quando c’è un uomo come [[Orlando]]? |
+| [[Celia\|CELIA]] | Oh, quello è un uomo bravo. Scrive bravi versi, dice brave parole, giura bravi giuramenti e li rompe bravamente, tutto di traverso, attraverso il cuore della sua [[Lover\|innamorata]], come un gracile giostratore che, spronando il [[Horse\|cavallo]] da un lato solo, spezza la lancia come una nobile oca. Ma tutto è bravo dove la giovinezza cavalca e la follia guida. Chi viene qui? |
 | *(didascalia)* | Entra Corino |
-| CORINO | Padrona e padrone, avete spesso chiesto<br>di quel pastore che si lamentava d’[[Love|amore]]<br>e che vedeste sedere accanto a me sull’erba,<br>lodando la superba e sdegnosa pastorella<br>ch’era la sua signora. |
-| [[Celia|CELIA]] | [[Well|Bene]], e che c’è di lui? |
-| CORINO | Se volete vedere una scena recitata al vivo<br>fra il pallido colorito del vero [[Love|amore]]<br>e il rosso ardore dello scherno e del superbo sdegno,<br>venite un poco di qui, e io vi condurrò,<br>se vorrete osservarla. |
-| [[Rosalind|ROSALINDA]] | (a [[Celia]]) Oh vieni, andiamocene.<br>La vista degli [[lovers|amanti]] nutre chi è in [[Love|amore]].<br>(A Corino) Conducici a questo spettacolo, e vedrai<br>ch’io mi mostrerò attore indaffarato nella loro commedia. |
+| CORINO | Padrona e padrone, avete spesso chiesto<br>di quel pastore che si lamentava d’[[Love\|amore]]<br>e che vedeste sedere accanto a me sull’erba,<br>lodando la superba e sdegnosa pastorella<br>ch’era la sua signora. |
+| [[Celia\|CELIA]] | [[Well\|Bene]], e che c’è di lui? |
+| CORINO | Se volete vedere una scena recitata al vivo<br>fra il pallido colorito del vero [[Love\|amore]]<br>e il rosso ardore dello scherno e del superbo sdegno,<br>venite un poco di qui, e io vi condurrò,<br>se vorrete osservarla. |
+| [[Rosalind\|ROSALINDA]] | (a [[Celia]]) Oh vieni, andiamocene.<br>La vista degli [[lovers\|amanti]] nutre chi è in [[Love\|amore]].<br>(A Corino) Conducici a questo spettacolo, e vedrai<br>ch’io mi mostrerò attore indaffarato nella loro commedia. |
 | *(didascalia)* | Escono |
 
 
@@ -2396,32 +2396,32 @@ As You Like It
 
 | Chi parla | Battuta |
 |---|---|
-| *(didascalia)* | Entrano [[Silvius|Silvio]] e [[Phoebe]] |
-| [[Silvius|SILVIO]] | Dolce [[Phoebe]], non schernirmi, non farlo, [[Phoebe]].<br>Di’ pure che non mi [[Love|ami]], ma non dirlo<br>con amarezza. Il comune boia,<br>il cui cuore l’usata vista della [[Death|morte]] fa<br>duro,<br>non cala la scure sul collo piegato<br>senza prima chiedere perdono. Vorrai essere più dura<br>di colui che vive e muore di gocce di sangue? |
-| *(didascalia)* | Entrano [[Rosalind|Rosalinda]] come Ganimede, [[Celia]] come Aliena, e Corino, e si mettono in disparte |
-| [[Phoebe|PHOEBE]] | (a [[Silvius|Silvio]])<br>Non vorrei essere il tuo boia.<br>Ti fuggo perché non vorrei ferirti.<br>Tu mi dici che c’è un assassinio nel mio occhio.<br>È bello, certo, e molto probabile<br>che gli occhi, che sono le cose più fragili e più molli,<br>che chiudono le loro porte codarde davanti a un granello,<br>debbano esser detti tiranni, macellai, assassini.<br>Ora ti guardo torvo con tutto il cuore,<br>e se i miei occhi possono ferire, che ti uccidano adesso.<br>Ora fingi di svenire, su, cadi a terra;<br>o se non lo puoi, oh, vergogna, vergogna,<br>non mentire dicendo che i miei occhi sono assassini.<br>Ora mostrami la ferita che il mio occhio t’ha fatto.<br>Graffiati appena con uno spillo, e ne resta<br>qualche cicatrice. Appòggiati a un giunco,<br>e il segno e l’impronta ricevuta<br>la tua palma li serba per qualche istante. Ma ora i miei occhi,<br>che ho scagliato contro di te, non ti feriscono;<br>né, ne sono certa, v’è forza negli occhi<br>che possa far male. |
-| [[Silvius|SILVIO]] | O cara [[Phoebe]],<br>se mai—e quel mai può esser vicino—<br>tu incontrerai in qualche fresca guancia il potere del desiderio,<br>allora conoscerai le ferite invisibili<br>che fanno le acute frecce d’[[Love|amore]]. |
-| [[Phoebe|PHOEBE]] | Ma fino a quel [[Time|tempo]]<br>non t’accostare a me. E quando quel [[Time|tempo]] verrà,<br>affliggimi coi tuoi scherni, non aver pietà di me,<br>come fino a quel [[Time|tempo]] io non avrò pietà di te. |
-| [[Rosalind|ROSALINDA]] | (facendosi avanti)<br>E perché, di grazia? Chi mai sarebbe vostra madre,<br>che così insultate ed esultate, tutto in una volta,<br>sopra il misero? E che, se non avete<br>[[Beauty|bellezza]]—<br>ché, in [[Faith|fede]] mia, non vedo in voi più<br>di quanto basti per andare a letto al buio senza candela—<br>dovete perciò essere superba e spietata?<br>Ma che significa questo? Perché mi guardate?<br>Non vedo in voi più di quanto sia nell’ordinaria<br>mercanzia della [[Nature|natura]].—Per la mia povera vita,<br><br>credo che voglia irretire anche i miei occhi.<br>No, in [[Faith|fede]] mia, superba signora, non lo [[Hope|sperate]].<br>Non sono le vostre ciglia d’inchiostro, i vostri capelli di seta nera,<br>le vostre pupille di giaietto, né la vostra guancia di crema,<br>che possano domare il mio spirito ad adorarvi.<br>(A [[Silvius|Silvio]]) Voi, sciocco pastore, perché la<br>seguite<br>come nebbioso austro, soffiando [[Wind|vento]] e pioggia?<br>Voi siete mille volte uomo più bello<br>di quanto ella sia donna. Sono gli sciocchi come voi<br>che riempiono il mondo di figli malfatti.<br>Non è il suo specchio, ma voi, che la lusinga,<br>e da voi ella vede sé stessa più bella<br>di quanto ogni suo lineamento possa mostrarle.<br>(A [[Phoebe]]) Ma voi, signora, conoscete voi stessa; in<br>ginocchio,<br>e ringraziate il cielo, digiunando, per l’[[Love|amore]] d’un uomo dabbene;<br>ché devo dirvelo da amico, all’orecchio:<br>vendete quando potete. Non siete merce per tutti i mercati.<br>Chiedete [[Mercy|pietà]] a quest’uomo, [[Love|amatelo]], accettate la sua offerta;<br>brutto è bruttissimo chi, brutto, si fa beffardo.—<br>Dunque, prenditela, pastore. Statevi [[Well|bene]]. |
-| [[Phoebe|PHOEBE]] | Dolce giovane, ti prego, sgridami un anno intero.<br>Preferisco udire te sgridare che quest’uomo corteggiare. |
-| [[Rosalind|ROSALINDA]] | (a [[Phoebe]]) Si è [[Love|innamorato]] della vostra bruttezza, (a [[Silvius|Silvio]]) ed ella s’[[Love|innamorerà]] della mia collera. Se è così, appena ella ti risponderà con occhiate accigliate, io la condirò di parole amare. (A [[Phoebe]]) Perché mi guardate così? |
-| [[Phoebe|PHOEBE]] | Per nessuna malevolenza ch’io vi porti. |
-| [[Rosalind|ROSALINDA]] | Vi prego, non v’[[Love|innamorate]] di me,<br>ché sono più falso dei voti fatti nel vino.<br>Inoltre, voi non mi piacete. Se volete sapere la mia [[house|casa]],<br>è presso quel ciuffo d’ulivi, qui vicino.<br>(A [[Celia]]) Vuoi venire, sorella? (A [[Silvius|Silvio]]) Pastore,<br>incalzala forte.—<br>Vieni, sorella. (A [[Phoebe]]) Pastorella, guardalo<br>meglio,<br>e non essere superba. Se anche tutto il mondo vedesse,<br>nessuno potrebbe essere ingannato negli occhi quanto lui.—<br>Venite, al nostro gregge. Escono [[Rosalind|Rosalinda]], [[Celia]] e Corino |
-| [[Phoebe|PHOEBE]] | (a parte)<br>Pastore morto, ora trovo vera la tua massima possente:<br>‘Chi mai amò, che non amasse a prima vista?’ |
-| [[Silvius|SILVIO]] | Dolce [[Phoebe]]— |
-| [[Phoebe|PHOEBE]] | Eh, che dici, [[Silvius|Silvio]]? |
-| [[Silvius|SILVIO]] | Dolce [[Phoebe]], abbi pietà di me. |
-| [[Phoebe|PHOEBE]] | Ma io mi dolgo per te, gentile [[Silvius|Silvio]]. |
-| [[Silvius|SILVIO]] | Dovunque sia dolore, vi sarebbe sollievo.<br>Se voi vi dolete della mia pena d’[[Love|amore]],<br>dando [[Love|amore]], il vostro dolore e la mia pena<br>sarebbero entrambi estinti. |
-| [[Phoebe|PHOEBE]] | Tu hai il mio [[Love|amore]]: non è questo da buon vicino? |
-| [[Silvius|SILVIO]] | Vorrei avere voi. |
-| [[Phoebe|PHOEBE]] | Ma questo sarebbe cupidigia.<br>[[Silvius|Silvio]], vi fu un [[Time|tempo]] in cui ti odiavo;<br>e tuttavia non è che io ti porti [[Love|amore]].<br>Ma poiché sai parlare d’[[Love|amore]] così [[Well|bene]],<br>la tua compagnia, che prima m’era molesta,<br>la sopporterò; e ti adopererò anche.<br>Ma non aspettarti altra ricompensa<br>che la tua stessa gioia d’essere adoperato. |
-| [[Silvius|SILVIO]] | Così santo e così perfetto è il mio [[Love|amore]],<br>e io sono in tale [[Poverty|povertà]] di grazia,<br>che stimerò raccolto abbondantissimo<br>spigolare le spighe cadute dietro l’uomo<br>che miete la messe principale. Lasciate cadere di tanto in tanto<br>un sorriso sparso, e di quello vivrò. |
-| [[Phoebe|PHOEBE]] | Conosci tu il giovane che mi parlò poc’anzi? |
-| [[Silvius|SILVIO]] | Non molto [[Well|bene]], ma l’ho incontrato spesso,<br>e ha comprato la casetta e i poderi<br>di cui il vecchio Carlot fu un tempo padrone. |
-| [[Phoebe|PHOEBE]] | Non credere ch’io l’[[Love|ami]], benché chieda di lui.<br>Non è che un ragazzo bisbetico. Eppure parla [[Well|bene]].<br>Ma che m’importa delle parole? Eppure le parole fanno [[Well|bene]]<br>quando chi le dice piace a chi le ascolta.<br>È un bel giovane—non tanto bello—<br>ma certo è superbo; eppure il suo [[Pride|orgoglio]] gli s’addice.<br>Sarà un bell’uomo. La cosa migliore in lui<br>è il suo colorito; e più presto di quanto la sua lingua<br>offendesse, il suo occhio risanava l’offesa.<br>Non è molto alto; eppure per i suoi anni è alto.<br>La sua gamba è così così; eppure va [[Well|bene]].<br>C’era un bel rosso sul suo labbro,<br>un poco più maturo e d’un rosso più vivo<br>di quello mescolato alla sua guancia. Era proprio la<br>differenza<br>fra il rosso costante e il damasco screziato.<br>Vi son donne, [[Silvius|Silvio]], che se l’avessero osservato<br>a parte a parte come feci io, sarebbero andate vicine<br>a [[Love|innamorarsi]] di lui; ma per parte mia,<br>io non l’[[Love|amo]], né l’odio. E tuttavia<br>ho più motivo d’odiarlo che d’[[Love|amarlo]],<br>ché, che aveva egli da rimproverarmi?<br>Disse che i miei occhi erano neri, e neri i miei capelli,<br>e ora che me ne ricordo, mi schernì.<br>Mi stupisco di non avergli risposto.<br>Ma è lo stesso. L’omissione non è quietanza.<br>Gli scriverò una lettera molto beffarda,<br>e tu la porterai. Vuoi, [[Silvius|Silvio]]? |
-| [[Silvius|SILVIO]] | [[Phoebe]], con tutto il cuore. |
-| [[Phoebe|PHOEBE]] | La scriverò subito.<br>La materia è nella mia testa e nel mio cuore.<br>Sarò aspra con lui, e oltremodo breve.<br>Vieni con me, [[Silvius|Silvio]]. Escono |
+| *(didascalia)* | Entrano [[Silvius\|Silvio]] e [[Phoebe]] |
+| [[Silvius\|SILVIO]] | Dolce [[Phoebe]], non schernirmi, non farlo, [[Phoebe]].<br>Di’ pure che non mi [[Love\|ami]], ma non dirlo<br>con amarezza. Il comune boia,<br>il cui cuore l’usata vista della [[Death\|morte]] fa<br>duro,<br>non cala la scure sul collo piegato<br>senza prima chiedere perdono. Vorrai essere più dura<br>di colui che vive e muore di gocce di sangue? |
+| *(didascalia)* | Entrano [[Rosalind\|Rosalinda]] come Ganimede, [[Celia]] come Aliena, e Corino, e si mettono in disparte |
+| [[Phoebe\|PHOEBE]] | (a [[Silvius\|Silvio]])<br>Non vorrei essere il tuo boia.<br>Ti fuggo perché non vorrei ferirti.<br>Tu mi dici che c’è un assassinio nel mio occhio.<br>È bello, certo, e molto probabile<br>che gli occhi, che sono le cose più fragili e più molli,<br>che chiudono le loro porte codarde davanti a un granello,<br>debbano esser detti tiranni, macellai, assassini.<br>Ora ti guardo torvo con tutto il cuore,<br>e se i miei occhi possono ferire, che ti uccidano adesso.<br>Ora fingi di svenire, su, cadi a terra;<br>o se non lo puoi, oh, vergogna, vergogna,<br>non mentire dicendo che i miei occhi sono assassini.<br>Ora mostrami la ferita che il mio occhio t’ha fatto.<br>Graffiati appena con uno spillo, e ne resta<br>qualche cicatrice. Appòggiati a un giunco,<br>e il segno e l’impronta ricevuta<br>la tua palma li serba per qualche istante. Ma ora i miei occhi,<br>che ho scagliato contro di te, non ti feriscono;<br>né, ne sono certa, v’è forza negli occhi<br>che possa far male. |
+| [[Silvius\|SILVIO]] | O cara [[Phoebe]],<br>se mai—e quel mai può esser vicino—<br>tu incontrerai in qualche fresca guancia il potere del desiderio,<br>allora conoscerai le ferite invisibili<br>che fanno le acute frecce d’[[Love\|amore]]. |
+| [[Phoebe\|PHOEBE]] | Ma fino a quel [[Time\|tempo]]<br>non t’accostare a me. E quando quel [[Time\|tempo]] verrà,<br>affliggimi coi tuoi scherni, non aver pietà di me,<br>come fino a quel [[Time\|tempo]] io non avrò pietà di te. |
+| [[Rosalind\|ROSALINDA]] | (facendosi avanti)<br>E perché, di grazia? Chi mai sarebbe vostra madre,<br>che così insultate ed esultate, tutto in una volta,<br>sopra il misero? E che, se non avete<br>[[Beauty\|bellezza]]—<br>ché, in [[Faith\|fede]] mia, non vedo in voi più<br>di quanto basti per andare a letto al buio senza candela—<br>dovete perciò essere superba e spietata?<br>Ma che significa questo? Perché mi guardate?<br>Non vedo in voi più di quanto sia nell’ordinaria<br>mercanzia della [[Nature\|natura]].—Per la mia povera vita,<br><br>credo che voglia irretire anche i miei occhi.<br>No, in [[Faith\|fede]] mia, superba signora, non lo [[Hope\|sperate]].<br>Non sono le vostre ciglia d’inchiostro, i vostri capelli di seta nera,<br>le vostre pupille di giaietto, né la vostra guancia di crema,<br>che possano domare il mio spirito ad adorarvi.<br>(A [[Silvius\|Silvio]]) Voi, sciocco pastore, perché la<br>seguite<br>come nebbioso austro, soffiando [[Wind\|vento]] e pioggia?<br>Voi siete mille volte uomo più bello<br>di quanto ella sia donna. Sono gli sciocchi come voi<br>che riempiono il mondo di figli malfatti.<br>Non è il suo specchio, ma voi, che la lusinga,<br>e da voi ella vede sé stessa più bella<br>di quanto ogni suo lineamento possa mostrarle.<br>(A [[Phoebe]]) Ma voi, signora, conoscete voi stessa; in<br>ginocchio,<br>e ringraziate il cielo, digiunando, per l’[[Love\|amore]] d’un uomo dabbene;<br>ché devo dirvelo da amico, all’orecchio:<br>vendete quando potete. Non siete merce per tutti i mercati.<br>Chiedete [[Mercy\|pietà]] a quest’uomo, [[Love\|amatelo]], accettate la sua offerta;<br>brutto è bruttissimo chi, brutto, si fa beffardo.—<br>Dunque, prenditela, pastore. Statevi [[Well\|bene]]. |
+| [[Phoebe\|PHOEBE]] | Dolce giovane, ti prego, sgridami un anno intero.<br>Preferisco udire te sgridare che quest’uomo corteggiare. |
+| [[Rosalind\|ROSALINDA]] | (a [[Phoebe]]) Si è [[Love\|innamorato]] della vostra bruttezza, (a [[Silvius\|Silvio]]) ed ella s’[[Love\|innamorerà]] della mia collera. Se è così, appena ella ti risponderà con occhiate accigliate, io la condirò di parole amare. (A [[Phoebe]]) Perché mi guardate così? |
+| [[Phoebe\|PHOEBE]] | Per nessuna malevolenza ch’io vi porti. |
+| [[Rosalind\|ROSALINDA]] | Vi prego, non v’[[Love\|innamorate]] di me,<br>ché sono più falso dei voti fatti nel vino.<br>Inoltre, voi non mi piacete. Se volete sapere la mia [[house\|casa]],<br>è presso quel ciuffo d’ulivi, qui vicino.<br>(A [[Celia]]) Vuoi venire, sorella? (A [[Silvius\|Silvio]]) Pastore,<br>incalzala forte.—<br>Vieni, sorella. (A [[Phoebe]]) Pastorella, guardalo<br>meglio,<br>e non essere superba. Se anche tutto il mondo vedesse,<br>nessuno potrebbe essere ingannato negli occhi quanto lui.—<br>Venite, al nostro gregge. Escono [[Rosalind\|Rosalinda]], [[Celia]] e Corino |
+| [[Phoebe\|PHOEBE]] | (a parte)<br>Pastore morto, ora trovo vera la tua massima possente:<br>‘Chi mai amò, che non amasse a prima vista?’ |
+| [[Silvius\|SILVIO]] | Dolce [[Phoebe]]— |
+| [[Phoebe\|PHOEBE]] | Eh, che dici, [[Silvius\|Silvio]]? |
+| [[Silvius\|SILVIO]] | Dolce [[Phoebe]], abbi pietà di me. |
+| [[Phoebe\|PHOEBE]] | Ma io mi dolgo per te, gentile [[Silvius\|Silvio]]. |
+| [[Silvius\|SILVIO]] | Dovunque sia dolore, vi sarebbe sollievo.<br>Se voi vi dolete della mia pena d’[[Love\|amore]],<br>dando [[Love\|amore]], il vostro dolore e la mia pena<br>sarebbero entrambi estinti. |
+| [[Phoebe\|PHOEBE]] | Tu hai il mio [[Love\|amore]]: non è questo da buon vicino? |
+| [[Silvius\|SILVIO]] | Vorrei avere voi. |
+| [[Phoebe\|PHOEBE]] | Ma questo sarebbe cupidigia.<br>[[Silvius\|Silvio]], vi fu un [[Time\|tempo]] in cui ti odiavo;<br>e tuttavia non è che io ti porti [[Love\|amore]].<br>Ma poiché sai parlare d’[[Love\|amore]] così [[Well\|bene]],<br>la tua compagnia, che prima m’era molesta,<br>la sopporterò; e ti adopererò anche.<br>Ma non aspettarti altra ricompensa<br>che la tua stessa gioia d’essere adoperato. |
+| [[Silvius\|SILVIO]] | Così santo e così perfetto è il mio [[Love\|amore]],<br>e io sono in tale [[Poverty\|povertà]] di grazia,<br>che stimerò raccolto abbondantissimo<br>spigolare le spighe cadute dietro l’uomo<br>che miete la messe principale. Lasciate cadere di tanto in tanto<br>un sorriso sparso, e di quello vivrò. |
+| [[Phoebe\|PHOEBE]] | Conosci tu il giovane che mi parlò poc’anzi? |
+| [[Silvius\|SILVIO]] | Non molto [[Well\|bene]], ma l’ho incontrato spesso,<br>e ha comprato la casetta e i poderi<br>di cui il vecchio Carlot fu un tempo padrone. |
+| [[Phoebe\|PHOEBE]] | Non credere ch’io l’[[Love\|ami]], benché chieda di lui.<br>Non è che un ragazzo bisbetico. Eppure parla [[Well\|bene]].<br>Ma che m’importa delle parole? Eppure le parole fanno [[Well\|bene]]<br>quando chi le dice piace a chi le ascolta.<br>È un bel giovane—non tanto bello—<br>ma certo è superbo; eppure il suo [[Pride\|orgoglio]] gli s’addice.<br>Sarà un bell’uomo. La cosa migliore in lui<br>è il suo colorito; e più presto di quanto la sua lingua<br>offendesse, il suo occhio risanava l’offesa.<br>Non è molto alto; eppure per i suoi anni è alto.<br>La sua gamba è così così; eppure va [[Well\|bene]].<br>C’era un bel rosso sul suo labbro,<br>un poco più maturo e d’un rosso più vivo<br>di quello mescolato alla sua guancia. Era proprio la<br>differenza<br>fra il rosso costante e il damasco screziato.<br>Vi son donne, [[Silvius\|Silvio]], che se l’avessero osservato<br>a parte a parte come feci io, sarebbero andate vicine<br>a [[Love\|innamorarsi]] di lui; ma per parte mia,<br>io non l’[[Love\|amo]], né l’odio. E tuttavia<br>ho più motivo d’odiarlo che d’[[Love\|amarlo]],<br>ché, che aveva egli da rimproverarmi?<br>Disse che i miei occhi erano neri, e neri i miei capelli,<br>e ora che me ne ricordo, mi schernì.<br>Mi stupisco di non avergli risposto.<br>Ma è lo stesso. L’omissione non è quietanza.<br>Gli scriverò una lettera molto beffarda,<br>e tu la porterai. Vuoi, [[Silvius\|Silvio]]? |
+| [[Silvius\|SILVIO]] | [[Phoebe]], con tutto il cuore. |
+| [[Phoebe\|PHOEBE]] | La scriverò subito.<br>La materia è nella mia testa e nel mio cuore.<br>Sarò aspra con lui, e oltremodo breve.<br>Vieni con me, [[Silvius\|Silvio]]. Escono |
 
 
 
@@ -2520,90 +2520,90 @@ As You Like It
 
 | Chi parla | Battuta |
 |---|---|
-| *(didascalia)* | Entrano [[Rosalind|Rosalinda]] come Ganimede, [[Celia]] come Aliena, e [[Jaques]] |
-| [[Jaques|JAQUES]] | Ti prego, bel giovane, lascia che faccia miglior conoscenza con te. |
-| [[Rosalind|ROSALINDA]] | Dicono che siate un tipo [[Melancholy|malinconico]]. |
-| [[Jaques|JAQUES]] | Lo sono. L’[[Love|amo]] più del ridere. |
-| [[Rosalind|ROSALINDA]] | Quelli che sono all’estremo dell’uno o dell’altro sono tipi abominevoli, e si espongono a ogni censura corrente peggio degli ubriachi. |
-| [[Jaques|JAQUES]] | Ma è bene essere tristi e non dir nulla. |
-| [[Rosalind|ROSALINDA]] | E allora è bene essere un palo. 9 |
-| [[Jaques|JAQUES]] | Io non ho la [[Melancholy|malinconia]] dello studioso, che è emulazione, né quella del musicista, che è fantastica, né quella del cortigiano, che è superba, né quella del soldato, che è ambiziosa, né quella del legista, che è politica, né quella della dama, che è schizzinosa, né quella dell’[[Lover|innamorato]], che è tutte queste; ma è una [[Melancholy|malinconia]] tutta mia, composta di molti semplici, estratta da molti oggetti, e in verità la svariata contemplazione dei miei viaggi, nella quale il mio frequente ruminare m’avvolge in una tristezza assai capricciosa. |
-| [[Rosalind|ROSALINDA]] | Un viaggiatore! In [[Faith|fede]] mia, avete gran ragione d’essere triste. [[Fear|Temo]] che abbiate venduto le vostre terre per vedere quelle altrui. E allora aver visto molto e non aver nulla è aver occhi ricchi e mani povere. |
-| [[Jaques|JAQUES]] | Sì, ho guadagnato la mia esperienza. |
+| *(didascalia)* | Entrano [[Rosalind\|Rosalinda]] come Ganimede, [[Celia]] come Aliena, e [[Jaques]] |
+| [[Jaques\|JAQUES]] | Ti prego, bel giovane, lascia che faccia miglior conoscenza con te. |
+| [[Rosalind\|ROSALINDA]] | Dicono che siate un tipo [[Melancholy\|malinconico]]. |
+| [[Jaques\|JAQUES]] | Lo sono. L’[[Love\|amo]] più del ridere. |
+| [[Rosalind\|ROSALINDA]] | Quelli che sono all’estremo dell’uno o dell’altro sono tipi abominevoli, e si espongono a ogni censura corrente peggio degli ubriachi. |
+| [[Jaques\|JAQUES]] | Ma è bene essere tristi e non dir nulla. |
+| [[Rosalind\|ROSALINDA]] | E allora è bene essere un palo. 9 |
+| [[Jaques\|JAQUES]] | Io non ho la [[Melancholy\|malinconia]] dello studioso, che è emulazione, né quella del musicista, che è fantastica, né quella del cortigiano, che è superba, né quella del soldato, che è ambiziosa, né quella del legista, che è politica, né quella della dama, che è schizzinosa, né quella dell’[[Lover\|innamorato]], che è tutte queste; ma è una [[Melancholy\|malinconia]] tutta mia, composta di molti semplici, estratta da molti oggetti, e in verità la svariata contemplazione dei miei viaggi, nella quale il mio frequente ruminare m’avvolge in una tristezza assai capricciosa. |
+| [[Rosalind\|ROSALINDA]] | Un viaggiatore! In [[Faith\|fede]] mia, avete gran ragione d’essere triste. [[Fear\|Temo]] che abbiate venduto le vostre terre per vedere quelle altrui. E allora aver visto molto e non aver nulla è aver occhi ricchi e mani povere. |
+| [[Jaques\|JAQUES]] | Sì, ho guadagnato la mia esperienza. |
 | *(didascalia)* | Entra [[Orlando]] |
-| [[Rosalind|ROSALINDA]] | E la vostra esperienza vi fa triste. Preferirei avere uno [[Fool|sciocco]] che mi rallegrasse, piuttosto che l’esperienza a farmi triste—e per giunta viaggiare per averla! |
-| [[Orlando|ORLANDO]] | Buon giorno e felicità, cara [[Rosalind|Rosalinda]]. |
-| [[Jaques|JAQUES]] | Ah, allora, Dio sia con voi, se parlate in [[Blank Verse|versi sciolti]]. |
-| *(didascalia)* | [[Rosalind|ROSALINDA]] Addio, Monsieur Viaggiatore. Badate di parlare bleso, e di portare abiti stravaganti; screditate tutti i beni del vostro paese; siate fuor d’[[Love|amore]] con la vostra nascita, e quasi rimproverate Dio d’avervi fatto quel volto che avete, o a stento crederò che abbiate navigato in gondola. Esce [[Jaques]] Ebbene, come va, [[Orlando]]? Dove siete stato tutto questo tempo? Voi un [[Lover|innamorato]]? Se mi fate un altro simile scherzo, non venite più al mio cospetto. |
-| [[Orlando|ORLANDO]] | Mia bella [[Rosalind|Rosalinda]], vengo entro un’ora dalla mia promessa. |
-| [[Rosalind|ROSALINDA]]. | Rompere d’un’ora una promessa in [[Love|amore]]! Chi divide un minuto in mille parti e rompe anche solo una parte della millesima parte d’un minuto negli affari d’[[Love|amore]], di lui si può dire che Cupido gli ha battuto la mano sulla spalla, ma garantisco che ha il cuore intatto. |
-| [[Orlando|ORLANDO]] | Perdonami, cara [[Rosalind|Rosalinda]]. 47 |
-| [[Rosalind|ROSALINDA]] | No, se siete così tardo, non venite più al mio cospetto. Preferirei essere corteggiata da una lumaca. |
-| [[Orlando|ORLANDO]] | Da una lumaca? |
-| [[Rosalind|ROSALINDA]] | Sì, da una lumaca; ché, sebbene venga adagio, si porta la [[house|casa]] sul capo—una dote migliore, credo, di quella che voi fate a una donna. Inoltre, si porta appresso il suo destino. |
-| [[Orlando|ORLANDO]] | E cioè? |
-| [[Rosalind|ROSALINDA]] | Ma le corna, che quelli come voi son ben contenti d’avere in debito dalle mogli. Egli invece viene armato della sua sorte, e previene la calunnia sulla moglie. |
-| [[Orlando|ORLANDO]] | La virtù non fa corna, e la mia [[Rosalind|Rosalinda]] è virtuosa. |
-| [[Rosalind|ROSALINDA]] | E io sono la vostra [[Rosalind|Rosalinda]]. |
-| [[Celia|CELIA]] | Gli piace chiamarvi così; ma egli ha una [[Rosalind|Rosalinda]] di miglior aspetto che voi. |
-| [[Rosalind|ROSALINDA]] | Su, corteggiatemi, corteggiatemi, ché ora sono in [[Humour|umore]] di festa, e assai probabilmente acconsentirò. Che mi direste ora, se io fossi la vostra vera, verissima [[Rosalind|Rosalinda]]? |
-| [[Orlando|ORLANDO]] | Bacerei prima di parlare. |
-| [[Rosalind|ROSALINDA]] | No, fareste meglio a parlare prima, e quando foste arenato per mancanza di materia potreste prendere occasione di baciare. I bravissimi oratori, quando restano a corto, sputano; e per gli [[lovers|amanti]], mancando—Dio ce ne guardi—materia, il ripiego più pulito è baciare. |
-| [[Orlando|ORLANDO]] | E se il bacio è negato? |
-| [[Rosalind|ROSALINDA]] | Allora ella vi costringe a supplicare, e lì comincia nuova materia. |
-| [[Orlando|ORLANDO]] | Chi potrebbe restare a corto, stando davanti alla sua amata signora? |
-| [[Rosalind|ROSALINDA]] | Per la Vergine, dovreste restarci voi, se io fossi la vostra signora, o dovrei credere la mia onestà più rigogliosa del mio ingegno. |
-| [[Orlando|ORLANDO]] | Come, fuori della mia domanda? |
-| [[Rosalind|ROSALINDA]] | Non fuori dei vostri panni, eppure fuori della vostra domanda. Non sono io la vostra [[Rosalind|Rosalinda]]? |
-| [[Orlando|ORLANDO]] | Provo qualche gioia a dire che lo siete, perché vorrei parlare di lei. |
-| [[Rosalind|ROSALINDA]] | [[Well|Bene]], nella sua persona vi dico che non vi voglio. |
-| [[Orlando|ORLANDO]] | Allora nella mia propria persona muoio. |
-| [[Rosalind|ROSALINDA]] | No, in [[Faith|fede]] mia; morite per procura. Il povero mondo ha quasi seimila anni, e in tutto questo [[Time|tempo]] non vi fu mai uomo che morisse nella propria persona, videlicet, per causa d’[[Love|amore]]. A [[Troilus|Troilo]] furono fracassate le cervella con una clava greca, eppure fece quanto poté per morire prima, ed è uno dei modelli d’[[Love|amore]]. Leandro sarebbe vissuto molti begli anni, anche se [[Hero|Ero]] si fosse fatta monaca, se non fosse stato per una calda [[Night|notte]] di mezza estate; ché, buon giovane, egli uscì soltanto a lavarsi nell’Ellesponto e, colto dal crampo, annegò; e gli sciocchi cronisti di quell’età stabilirono che fu [[Hero|Ero]] di Sesto. Ma queste son tutte menzogne. Gli uomini son morti di [[Time|tempo]] in [[Time|tempo]], e i vermi li hanno mangiati, ma non per [[Love|amore]]. |
-| [[Orlando|ORLANDO]] | Non vorrei che la mia vera [[Rosalind|Rosalinda]] fosse di questo parere, ché protesto che il suo cipiglio potrebbe uccidermi. |
-| [[Rosalind|ROSALINDA]] | Per questa mano, non ucciderebbe una mosca. Ma venite, ora sarò la vostra [[Rosalind|Rosalinda]] in disposizione più arrendevole; e chiedetemi ciò che volete, ve lo concederò. |
-| [[Orlando|ORLANDO]] | Allora [[Love|amami]], [[Rosalind|Rosalinda]]. |
-| [[Rosalind|ROSALINDA]] | Sì, in [[Faith|fede]] mia, lo farò, venerdì e sabato e tutto il resto. |
-| [[Orlando|ORLANDO]] | E mi vorrai? no |
-| [[Rosalind|ROSALINDA]] | Sì, e venti come voi. |
-| [[Orlando|ORLANDO]] | Che dici? |
-| [[Rosalind|ROSALINDA]] | Non siete buono? |
-| [[Orlando|ORLANDO]] | Lo [[Hope|spero]]. |
-| [[Rosalind|ROSALINDA]] | E allora, si può forse [[Desire|desiderare]] troppo di una cosa buona? (A [[Celia]]) Vieni, sorella, tu sarai il prete e ci sposerai.—Datemi la mano, [[Orlando]].—Che dici, sorella? |
-| [[Orlando|ORLANDO]] | (a [[Celia]]) Ti prego, sposaci. |
-| [[Celia|CELIA]] | Non so dire le parole. |
-| [[Rosalind|ROSALINDA]] | Devi cominciare: ‘Volete voi, [[Orlando]]’— |
-| [[Celia|CELIA]] | Andiamo. Volete voi, [[Orlando]], prendere in moglie questa [[Rosalind|Rosalinda]]? |
-| [[Orlando|ORLANDO]] | Lo voglio. |
-| [[Rosalind|ROSALINDA]] | Sì, ma quando? |
-| [[Orlando|ORLANDO]] | Ma ora, appena ella può sposarci. |
-| [[Rosalind|ROSALINDA]] | Allora dovete dire: ‘Prendo te, [[Rosalind|Rosalinda]], per moglie.’ |
-| [[Orlando|ORLANDO]] | Prendo te, [[Rosalind|Rosalinda]], per moglie. |
-| [[Rosalind|ROSALINDA]] | Potrei chiedervi la vostra licenza; ma io prendo te, [[Orlando]], per mio marito. Ecco una ragazza che va innanzi al prete; e certo il pensiero d’una donna corre innanzi ai suoi atti. |
-| [[Orlando|ORLANDO]] | Così fanno tutti i pensieri; hanno le ali. |
-| [[Rosalind|ROSALINDA]] | Ora ditemi: quanto a lungo la vorrete, dopo che l’avrete posseduta? |
-| [[Orlando|ORLANDO]] | Per sempre e un giorno. |
-| [[Rosalind|ROSALINDA]] | Dite un giorno senza il sempre. No, no, [[Orlando]]; gli uomini sono aprile quando corteggiano, dicembre quando si sposano. Le fanciulle sono maggio finché son fanciulle, ma il cielo cambia quando son mogli. Sarò più gelosa di te di quanto un colombo di Barberia lo sia della sua colomba, più clamorosa d’un pappagallo contro la pioggia, più capricciosa d’una scimmia, più volubile nei miei desideri d’un bertuccio. Piangerò per nulla, come [[Diana]] nella fontana, e lo farò quando tu sarai disposto all’allegria. Riderò come una iena, e ciò quando tu sarai incline al [[Sleep|sonno]]. |
-| [[Orlando|ORLANDO]] | Ma la mia [[Rosalind|Rosalinda]] farà così? |
-| [[Rosalind|ROSALINDA]] | Sulla mia vita, farà come faccio io. |
-| [[Orlando|ORLANDO]] | Oh, ma ella è saggia. |
-| [[Rosalind|ROSALINDA]] | Altrimenti non avrebbe l’ingegno di far questo. Quanto più saggia, tanto più bizzarra. Sbarrate le porte all’ingegno d’una donna, e uscirà dalla finestra. Chiudete quella, e uscirà dal buco della serratura. Turate anche quello, e volerà col fumo su per il camino. |
-| [[Orlando|ORLANDO]] | Un uomo che avesse una moglie con tale ingegno potrebbe dire: ‘Ingegno, dove vai?’ |
-| [[Rosalind|ROSALINDA]] | No, potreste serbare quel rimprovero fino a quando incontraste l’ingegno di vostra moglie in cammino verso il letto del vostro vicino. |
-| [[Orlando|ORLANDO]] | E quale ingegno potrebbe avere l’ingegno di scusare ciò? |
-| [[Rosalind|ROSALINDA]] | Per la Vergine, dire ch’ella veniva a cercarvi là. Non la coglierete mai senza la sua risposta, a meno che non la cogliate senza la lingua. Oh, quella donna che non sa fare della propria colpa l’occasione del marito, non [[Nurse|allatti]] mai da sé il suo [[Child|figlio]], ché lo alleverebbe come uno [[Fool|sciocco]]. |
-| [[Orlando|ORLANDO]] | Per queste due ore, [[Rosalind|Rosalinda]], ti lascerò. |
-| [[Rosalind|ROSALINDA]] | Ahimè, caro [[Love|amore]], non posso fare a meno di te per due ore. |
-| [[Orlando|ORLANDO]] | Devo assistere il Duca a pranzo. Per le due dell’[[Clock|orologio]] sarò di nuovo con te. |
-| [[Rosalind|ROSALINDA]] | Sì, andate pure per la vostra strada, andate pure. Sapevo che cosa sareste risultato; i miei amici me l’avevano detto, e io non pensavo di meno. Quella vostra lingua lusinghiera mi conquistò. Non è che una in più gettata via, e dunque, vieni, [[Death|morte]]! Le due dell’[[Clock|orologio]] sono la vostra ora? |
-| [[Orlando|ORLANDO]] | Sì, dolce [[Rosalind|Rosalinda]]. |
-| [[Rosalind|ROSALINDA]] | Sulla mia parola, e sul serio, e Dio mi corregga, e per tutti i graziosi giuramenti che non sono pericolosi, se rompete un solo iota della vostra promessa o venite un minuto dopo la vostra ora, vi terrò per il più patetico mancator di promesse, e il più vuoto [[Lover|innamorato]], e il più indegno di colei che chiamate [[Rosalind|Rosalinda]] che si possa scegliere nella grossa schiera degli infedeli. Perciò guardatevi dalla mia censura, e mantenete la promessa. |
-| [[Orlando|ORLANDO]] | Con non minore religione che se tu fossi davvero la mia [[Rosalind|Rosalinda]]. E dunque, addio. |
-| [[Rosalind|ROSALINDA]] | [[Well|Bene]], il [[Time|Tempo]] è il vecchio giudice che esamina tutti codesti trasgressori; e lasciamo che il [[Time|Tempo]] giudichi. Addio. Esce [[Orlando]] |
-| [[Celia|CELIA]] | Avete semplicemente maltrattato il nostro sesso nelle vostre ciance d’[[Love|amore]]. Bisogna tirarvi il farsetto e le calze sopra la testa, e mostrare al mondo che cosa l’uccello ha fatto al proprio nido. |
-| [[Rosalind|ROSALINDA]] | Oh cugina, cugina, cugina, mia bella cuginetta, se tu sapessi quante braccia in profondità io sia in [[Love|amore]]. Ma non si può scandagliare. Il mio affetto ha un [[Bottom|fondo]] ignoto, come la Baia del Portogallo. |
-| [[Celia|CELIA]] | O piuttosto è senza fondo, ché tanto in fretta quanto vi versate dentro l’affetto, tanto se ne scorre via. |
-| [[Rosalind|ROSALINDA]] | No, quel maledetto bastardo di [[Venus|Venere]], generato dal pensiero, concepito dalla bile e nato dalla [[Madness|follia]], quel cieco ragazzaccio che inganna gli occhi di tutti perché i suoi sono spenti, sia lui giudice di quanto profondamente io sia in [[Love|amore]]. Ti dirò, Aliena, non posso stare fuori dalla vista d’[[Orlando]]. Andrò a cercare un’[[Shadow|ombra]] e sospirerò finché egli venga. |
-| [[Celia|CELIA]] | E io [[Sleep|dormirò]]. Escono |
+| [[Rosalind\|ROSALINDA]] | E la vostra esperienza vi fa triste. Preferirei avere uno [[Fool\|sciocco]] che mi rallegrasse, piuttosto che l’esperienza a farmi triste—e per giunta viaggiare per averla! |
+| [[Orlando\|ORLANDO]] | Buon giorno e felicità, cara [[Rosalind\|Rosalinda]]. |
+| [[Jaques\|JAQUES]] | Ah, allora, Dio sia con voi, se parlate in [[Blank Verse\|versi sciolti]]. |
+| *(didascalia)* | [[Rosalind\|ROSALINDA]] Addio, Monsieur Viaggiatore. Badate di parlare bleso, e di portare abiti stravaganti; screditate tutti i beni del vostro paese; siate fuor d’[[Love\|amore]] con la vostra nascita, e quasi rimproverate Dio d’avervi fatto quel volto che avete, o a stento crederò che abbiate navigato in gondola. Esce [[Jaques]] Ebbene, come va, [[Orlando]]? Dove siete stato tutto questo tempo? Voi un [[Lover\|innamorato]]? Se mi fate un altro simile scherzo, non venite più al mio cospetto. |
+| [[Orlando\|ORLANDO]] | Mia bella [[Rosalind\|Rosalinda]], vengo entro un’ora dalla mia promessa. |
+| [[Rosalind\|ROSALINDA]]. | Rompere d’un’ora una promessa in [[Love\|amore]]! Chi divide un minuto in mille parti e rompe anche solo una parte della millesima parte d’un minuto negli affari d’[[Love\|amore]], di lui si può dire che Cupido gli ha battuto la mano sulla spalla, ma garantisco che ha il cuore intatto. |
+| [[Orlando\|ORLANDO]] | Perdonami, cara [[Rosalind\|Rosalinda]]. 47 |
+| [[Rosalind\|ROSALINDA]] | No, se siete così tardo, non venite più al mio cospetto. Preferirei essere corteggiata da una lumaca. |
+| [[Orlando\|ORLANDO]] | Da una lumaca? |
+| [[Rosalind\|ROSALINDA]] | Sì, da una lumaca; ché, sebbene venga adagio, si porta la [[house\|casa]] sul capo—una dote migliore, credo, di quella che voi fate a una donna. Inoltre, si porta appresso il suo destino. |
+| [[Orlando\|ORLANDO]] | E cioè? |
+| [[Rosalind\|ROSALINDA]] | Ma le corna, che quelli come voi son ben contenti d’avere in debito dalle mogli. Egli invece viene armato della sua sorte, e previene la calunnia sulla moglie. |
+| [[Orlando\|ORLANDO]] | La virtù non fa corna, e la mia [[Rosalind\|Rosalinda]] è virtuosa. |
+| [[Rosalind\|ROSALINDA]] | E io sono la vostra [[Rosalind\|Rosalinda]]. |
+| [[Celia\|CELIA]] | Gli piace chiamarvi così; ma egli ha una [[Rosalind\|Rosalinda]] di miglior aspetto che voi. |
+| [[Rosalind\|ROSALINDA]] | Su, corteggiatemi, corteggiatemi, ché ora sono in [[Humour\|umore]] di festa, e assai probabilmente acconsentirò. Che mi direste ora, se io fossi la vostra vera, verissima [[Rosalind\|Rosalinda]]? |
+| [[Orlando\|ORLANDO]] | Bacerei prima di parlare. |
+| [[Rosalind\|ROSALINDA]] | No, fareste meglio a parlare prima, e quando foste arenato per mancanza di materia potreste prendere occasione di baciare. I bravissimi oratori, quando restano a corto, sputano; e per gli [[lovers\|amanti]], mancando—Dio ce ne guardi—materia, il ripiego più pulito è baciare. |
+| [[Orlando\|ORLANDO]] | E se il bacio è negato? |
+| [[Rosalind\|ROSALINDA]] | Allora ella vi costringe a supplicare, e lì comincia nuova materia. |
+| [[Orlando\|ORLANDO]] | Chi potrebbe restare a corto, stando davanti alla sua amata signora? |
+| [[Rosalind\|ROSALINDA]] | Per la Vergine, dovreste restarci voi, se io fossi la vostra signora, o dovrei credere la mia onestà più rigogliosa del mio ingegno. |
+| [[Orlando\|ORLANDO]] | Come, fuori della mia domanda? |
+| [[Rosalind\|ROSALINDA]] | Non fuori dei vostri panni, eppure fuori della vostra domanda. Non sono io la vostra [[Rosalind\|Rosalinda]]? |
+| [[Orlando\|ORLANDO]] | Provo qualche gioia a dire che lo siete, perché vorrei parlare di lei. |
+| [[Rosalind\|ROSALINDA]] | [[Well\|Bene]], nella sua persona vi dico che non vi voglio. |
+| [[Orlando\|ORLANDO]] | Allora nella mia propria persona muoio. |
+| [[Rosalind\|ROSALINDA]] | No, in [[Faith\|fede]] mia; morite per procura. Il povero mondo ha quasi seimila anni, e in tutto questo [[Time\|tempo]] non vi fu mai uomo che morisse nella propria persona, videlicet, per causa d’[[Love\|amore]]. A [[Troilus\|Troilo]] furono fracassate le cervella con una clava greca, eppure fece quanto poté per morire prima, ed è uno dei modelli d’[[Love\|amore]]. Leandro sarebbe vissuto molti begli anni, anche se [[Hero\|Ero]] si fosse fatta monaca, se non fosse stato per una calda [[Night\|notte]] di mezza estate; ché, buon giovane, egli uscì soltanto a lavarsi nell’Ellesponto e, colto dal crampo, annegò; e gli sciocchi cronisti di quell’età stabilirono che fu [[Hero\|Ero]] di Sesto. Ma queste son tutte menzogne. Gli uomini son morti di [[Time\|tempo]] in [[Time\|tempo]], e i vermi li hanno mangiati, ma non per [[Love\|amore]]. |
+| [[Orlando\|ORLANDO]] | Non vorrei che la mia vera [[Rosalind\|Rosalinda]] fosse di questo parere, ché protesto che il suo cipiglio potrebbe uccidermi. |
+| [[Rosalind\|ROSALINDA]] | Per questa mano, non ucciderebbe una mosca. Ma venite, ora sarò la vostra [[Rosalind\|Rosalinda]] in disposizione più arrendevole; e chiedetemi ciò che volete, ve lo concederò. |
+| [[Orlando\|ORLANDO]] | Allora [[Love\|amami]], [[Rosalind\|Rosalinda]]. |
+| [[Rosalind\|ROSALINDA]] | Sì, in [[Faith\|fede]] mia, lo farò, venerdì e sabato e tutto il resto. |
+| [[Orlando\|ORLANDO]] | E mi vorrai? no |
+| [[Rosalind\|ROSALINDA]] | Sì, e venti come voi. |
+| [[Orlando\|ORLANDO]] | Che dici? |
+| [[Rosalind\|ROSALINDA]] | Non siete buono? |
+| [[Orlando\|ORLANDO]] | Lo [[Hope\|spero]]. |
+| [[Rosalind\|ROSALINDA]] | E allora, si può forse [[Desire\|desiderare]] troppo di una cosa buona? (A [[Celia]]) Vieni, sorella, tu sarai il prete e ci sposerai.—Datemi la mano, [[Orlando]].—Che dici, sorella? |
+| [[Orlando\|ORLANDO]] | (a [[Celia]]) Ti prego, sposaci. |
+| [[Celia\|CELIA]] | Non so dire le parole. |
+| [[Rosalind\|ROSALINDA]] | Devi cominciare: ‘Volete voi, [[Orlando]]’— |
+| [[Celia\|CELIA]] | Andiamo. Volete voi, [[Orlando]], prendere in moglie questa [[Rosalind\|Rosalinda]]? |
+| [[Orlando\|ORLANDO]] | Lo voglio. |
+| [[Rosalind\|ROSALINDA]] | Sì, ma quando? |
+| [[Orlando\|ORLANDO]] | Ma ora, appena ella può sposarci. |
+| [[Rosalind\|ROSALINDA]] | Allora dovete dire: ‘Prendo te, [[Rosalind\|Rosalinda]], per moglie.’ |
+| [[Orlando\|ORLANDO]] | Prendo te, [[Rosalind\|Rosalinda]], per moglie. |
+| [[Rosalind\|ROSALINDA]] | Potrei chiedervi la vostra licenza; ma io prendo te, [[Orlando]], per mio marito. Ecco una ragazza che va innanzi al prete; e certo il pensiero d’una donna corre innanzi ai suoi atti. |
+| [[Orlando\|ORLANDO]] | Così fanno tutti i pensieri; hanno le ali. |
+| [[Rosalind\|ROSALINDA]] | Ora ditemi: quanto a lungo la vorrete, dopo che l’avrete posseduta? |
+| [[Orlando\|ORLANDO]] | Per sempre e un giorno. |
+| [[Rosalind\|ROSALINDA]] | Dite un giorno senza il sempre. No, no, [[Orlando]]; gli uomini sono aprile quando corteggiano, dicembre quando si sposano. Le fanciulle sono maggio finché son fanciulle, ma il cielo cambia quando son mogli. Sarò più gelosa di te di quanto un colombo di Barberia lo sia della sua colomba, più clamorosa d’un pappagallo contro la pioggia, più capricciosa d’una scimmia, più volubile nei miei desideri d’un bertuccio. Piangerò per nulla, come [[Diana]] nella fontana, e lo farò quando tu sarai disposto all’allegria. Riderò come una iena, e ciò quando tu sarai incline al [[Sleep\|sonno]]. |
+| [[Orlando\|ORLANDO]] | Ma la mia [[Rosalind\|Rosalinda]] farà così? |
+| [[Rosalind\|ROSALINDA]] | Sulla mia vita, farà come faccio io. |
+| [[Orlando\|ORLANDO]] | Oh, ma ella è saggia. |
+| [[Rosalind\|ROSALINDA]] | Altrimenti non avrebbe l’ingegno di far questo. Quanto più saggia, tanto più bizzarra. Sbarrate le porte all’ingegno d’una donna, e uscirà dalla finestra. Chiudete quella, e uscirà dal buco della serratura. Turate anche quello, e volerà col fumo su per il camino. |
+| [[Orlando\|ORLANDO]] | Un uomo che avesse una moglie con tale ingegno potrebbe dire: ‘Ingegno, dove vai?’ |
+| [[Rosalind\|ROSALINDA]] | No, potreste serbare quel rimprovero fino a quando incontraste l’ingegno di vostra moglie in cammino verso il letto del vostro vicino. |
+| [[Orlando\|ORLANDO]] | E quale ingegno potrebbe avere l’ingegno di scusare ciò? |
+| [[Rosalind\|ROSALINDA]] | Per la Vergine, dire ch’ella veniva a cercarvi là. Non la coglierete mai senza la sua risposta, a meno che non la cogliate senza la lingua. Oh, quella donna che non sa fare della propria colpa l’occasione del marito, non [[Nurse\|allatti]] mai da sé il suo [[Child\|figlio]], ché lo alleverebbe come uno [[Fool\|sciocco]]. |
+| [[Orlando\|ORLANDO]] | Per queste due ore, [[Rosalind\|Rosalinda]], ti lascerò. |
+| [[Rosalind\|ROSALINDA]] | Ahimè, caro [[Love\|amore]], non posso fare a meno di te per due ore. |
+| [[Orlando\|ORLANDO]] | Devo assistere il Duca a pranzo. Per le due dell’[[Clock\|orologio]] sarò di nuovo con te. |
+| [[Rosalind\|ROSALINDA]] | Sì, andate pure per la vostra strada, andate pure. Sapevo che cosa sareste risultato; i miei amici me l’avevano detto, e io non pensavo di meno. Quella vostra lingua lusinghiera mi conquistò. Non è che una in più gettata via, e dunque, vieni, [[Death\|morte]]! Le due dell’[[Clock\|orologio]] sono la vostra ora? |
+| [[Orlando\|ORLANDO]] | Sì, dolce [[Rosalind\|Rosalinda]]. |
+| [[Rosalind\|ROSALINDA]] | Sulla mia parola, e sul serio, e Dio mi corregga, e per tutti i graziosi giuramenti che non sono pericolosi, se rompete un solo iota della vostra promessa o venite un minuto dopo la vostra ora, vi terrò per il più patetico mancator di promesse, e il più vuoto [[Lover\|innamorato]], e il più indegno di colei che chiamate [[Rosalind\|Rosalinda]] che si possa scegliere nella grossa schiera degli infedeli. Perciò guardatevi dalla mia censura, e mantenete la promessa. |
+| [[Orlando\|ORLANDO]] | Con non minore religione che se tu fossi davvero la mia [[Rosalind\|Rosalinda]]. E dunque, addio. |
+| [[Rosalind\|ROSALINDA]] | [[Well\|Bene]], il [[Time\|Tempo]] è il vecchio giudice che esamina tutti codesti trasgressori; e lasciamo che il [[Time\|Tempo]] giudichi. Addio. Esce [[Orlando]] |
+| [[Celia\|CELIA]] | Avete semplicemente maltrattato il nostro sesso nelle vostre ciance d’[[Love\|amore]]. Bisogna tirarvi il farsetto e le calze sopra la testa, e mostrare al mondo che cosa l’uccello ha fatto al proprio nido. |
+| [[Rosalind\|ROSALINDA]] | Oh cugina, cugina, cugina, mia bella cuginetta, se tu sapessi quante braccia in profondità io sia in [[Love\|amore]]. Ma non si può scandagliare. Il mio affetto ha un [[Bottom\|fondo]] ignoto, come la Baia del Portogallo. |
+| [[Celia\|CELIA]] | O piuttosto è senza fondo, ché tanto in fretta quanto vi versate dentro l’affetto, tanto se ne scorre via. |
+| [[Rosalind\|ROSALINDA]] | No, quel maledetto bastardo di [[Venus\|Venere]], generato dal pensiero, concepito dalla bile e nato dalla [[Madness\|follia]], quel cieco ragazzaccio che inganna gli occhi di tutti perché i suoi sono spenti, sia lui giudice di quanto profondamente io sia in [[Love\|amore]]. Ti dirò, Aliena, non posso stare fuori dalla vista d’[[Orlando]]. Andrò a cercare un’[[Shadow\|ombra]] e sospirerò finché egli venga. |
+| [[Celia\|CELIA]] | E io [[Sleep\|dormirò]]. Escono |
 
 
 
@@ -2624,11 +2624,11 @@ As You Like It
 
 | Chi parla | Battuta |
 |---|---|
-| *(didascalia)* | Entrano [[Jaques]] e Signori vestiti da guardaboschi [[Jaques|JAQUES]] Chi è colui che ha ucciso il cervo? PRIMO SIGNORE Signore, fui io. |
-| [[Jaques|JAQUES]] | (agli altri) Presentiamolo al Duca come un conquistatore romano. E starebbe [[Well|bene]] mettergli le corna del cervo sul capo, per ramo di vittoria. Non avete una [[Song|canzone]], guardaboschi, a questo scopo? |
+| *(didascalia)* | Entrano [[Jaques]] e Signori vestiti da guardaboschi [[Jaques\|JAQUES]] Chi è colui che ha ucciso il cervo? PRIMO SIGNORE Signore, fui io. |
+| [[Jaques\|JAQUES]] | (agli altri) Presentiamolo al Duca come un conquistatore romano. E starebbe [[Well\|bene]] mettergli le corna del cervo sul capo, per ramo di vittoria. Non avete una [[Song\|canzone]], guardaboschi, a questo scopo? |
 | SECONDO SIGNORE | Sì, signore. |
-| [[Jaques|JAQUES]] | Cantatela. Non importa come sia intonata, purché faccia rumore abbastanza. |
-| SIGNORI | (cantano)<br>Che avrà colui che uccise il cervo?<br>La sua pelle di cuoio e le corna da portare.<br>Poi cantatelo verso [[Home|casa]]; gli altri porteranno<br>questo ritornello.<br>Non aver vergogna di portare il corno;<br>fu cimiero prima che tu nascessi.<br>Il padre di tuo padre lo portò,<br>e tuo padre lo recò.<br>Il corno, il corno, il corno gagliardo<br>non è cosa da deridere per scherno. |
+| [[Jaques\|JAQUES]] | Cantatela. Non importa come sia intonata, purché faccia rumore abbastanza. |
+| SIGNORI | (cantano)<br>Che avrà colui che uccise il cervo?<br>La sua pelle di cuoio e le corna da portare.<br>Poi cantatelo verso [[Home\|casa]]; gli altri porteranno<br>questo ritornello.<br>Non aver vergogna di portare il corno;<br>fu cimiero prima che tu nascessi.<br>Il padre di tuo padre lo portò,<br>e tuo padre lo recò.<br>Il corno, il corno, il corno gagliardo<br>non è cosa da deridere per scherno. |
 | *(didascalia)* | Escono |
 
 
@@ -2701,62 +2701,62 @@ As You Like It
 
 | Chi parla | Battuta |
 |---|---|
-| *(didascalia)* | Entrano [[Rosalind|Rosalinda]] come Ganimede e [[Celia]] come Aliena |
-| [[Rosalind|ROSALINDA]] | Che ne dite ora? Non son forse passate le due dell’[[Clock|orologio]]? E qui, altro che [[Orlando]]. |
-| [[Celia|CELIA]] | Ve lo garantisco: con puro [[Love|amore]] e cervello turbato ha preso l’arco e le frecce ed è uscito a [[Sleep|dormire]]. |
-| *(didascalia)* | Entra [[Silvius|Silvio]] |
-| [[Celia|CELIA]] | Guardate chi viene. |
-| [[Silvius|SILVIO]] | (a [[Rosalind|Rosalinda]])<br>Il mio messaggio è per voi, bel giovane.<br>La mia gentile [[Phoebe]] mi disse di darvi questo.<br>Porge a [[Rosalind|Rosalinda]] una lettera, ch’ella prende e legge<br>Non ne conosco il contenuto, ma per quanto arguisco<br>dalla fronte severa e dal gesto stizzoso<br>ch’ella usò mentre lo scriveva,<br>ha un tenore adirato. Perdonatemi;<br>io non sono che un messaggero innocente. |
-| [[Rosalind|ROSALINDA]] | La pazienza stessa trasalirebbe a questa lettera,<br>e farebbe la spavalda. Sopportare questo è sopportare tutto.<br>Dice ch’io non son bello, che mi mancano le maniere;<br>mi chiama superbo, e che non potrebbe [[Love|amarmi]]<br>fosse l’uomo raro come la Fenice. Per la mia volontà,<br>il suo [[Love|amore]] non è la lepre ch’io caccio.<br>Perché mi scrive così? [[Well|Bene]], pastore, [[Well|bene]],<br>questa è una lettera di vostra invenzione. |
-| [[Silvius|SILVIO]] | No, protesto; non conosco il contenuto.<br>[[Phoebe]] la scrisse. |
-| [[Rosalind|ROSALINDA]] | Via, via, siete uno [[Fool|sciocco]],<br>e volto all’estremo dell’[[Love|amore]].<br>Ho visto la sua mano. Ha una mano di cuoio,<br>una mano color pietra arenaria. Credetti davvero<br>ch’ella avesse su i suoi vecchi guanti; ma erano le sue mani.<br>Ha una mano da massaia—ma questo non importa.<br>Dico che non fu lei a inventare questa lettera.<br>È invenzione d’un uomo, e mano sua. |
-| [[Silvius|SILVIO]] | Certo, è sua. |
-| [[Rosalind|ROSALINDA]] | Ma è uno stile burrascoso e crudele,<br>uno stile da sfidanti. Ma come, ella mi sfida,<br>come Turco a Cristiano! Il gentile cervello di donna<br>non poteva stillare invenzione così rozzamente gigantesca,<br>parole così etiopi, più nere nel loro effetto<br>che nel loro aspetto. Volete udire la lettera? |
-| [[Silvius|SILVIO]] | Se vi piace, ché non l’ho ancora udita,<br>eppure ho udito troppo della crudeltà di [[Phoebe]]. |
-| [[Rosalind|ROSALINDA]] | Ella mi fa la Phoebe. Notate come scrive la [[Tyrant|tiranna]]:<br>(legge) ‘Sei tu dio mutato in pastore,<br>che il cuore d’una fanciulla hai arso?’<br>Può una donna inveire così? |
-| [[Silvius|SILVIO]] | Chiamate questo inveire? |
-| [[Rosalind|ROSALINDA]] | (legge)<br>‘Ma, deposta la tua divinità,<br>muovi guerra al cuore d’una donna?’<br>Avete mai udito tale inveire?<br>‘Mentre l’occhio d’uomo mi corteggiava<br>non poteva farmi alcuna vendetta.’—<br>Volendo dire ch’io sono una bestia.<br>‘Se lo scherno dei vostri occhi lucenti<br>ha potere di destare tale [[Love|amore]] nei miei,<br>ahimè, in me quale strano effetto<br>opererebbero con mite sguardo?<br>Mentre mi sgridavate io [[Love|amavo]];<br>che potrebbero dunque le vostre preghiere?<br>Colui che ti porta questo [[Love|amore]]<br>poco conosce questo [[Love|amore]] in me,<br>e per suo mezzo suggella il tuo animo:<br>se la tua giovinezza e la tua indole<br>vorranno accettare la fedele offerta<br>di me, e di tutto ciò che posso dare,<br>oppure per lui nega il mio [[Love|amore]],<br>e allora studierò come morire.’ |
-| [[Silvius|SILVIO]] | Chiamate questo sgridare? |
-| [[Celia|CELIA]] | Ahimè, povero pastore. |
-| [[Rosalind|ROSALINDA]] | Avete pietà di lui? No, non merita pietà. (A [[Silvius|Silvio]]) Vuoi tu [[Love|amare]] una donna simile? Come, fare di te uno strumento, e sonarti sopra false arie?—non è da sopportare. [[Well|Bene]], va’ per la tua strada da lei—ché vedo che l’[[Love|amore]] t’ha fatto una serpe mansueta—e dille questo: che se ella mi [[Love|ama]], le ordino di [[Love|amare]] te. Se non vorrà, non l’avrò mai, a meno che tu non interceda per lei. Se sei un vero [[Lover|innamorato]], via, e non una parola; ché qui viene altra gente. |
-| *(didascalia)* | Esce [[Silvius|Silvio]] |
-| *(didascalia)* | Entra [[Oliver|Oliviero]] |
-| [[Oliver|OLIVIERO]] | Buon giorno, belle creature. Di grazia, se lo sapete,<br>dove, nei dintorni di questa foresta, sorge<br>un ovile cinto d’ulivi? |
-| [[Celia|CELIA]] | A occidente di questo luogo, giù nel vicino [[Bottom|fondovalle]].<br>La fila di vimini presso il ruscello mormorante,<br>lasciata alla vostra destra, vi conduce al luogo.<br>Ma a quest’ora la [[house|casa]] si custodisce da sé.<br>Non c’è nessuno dentro. |
-| [[Oliver|OLIVIERO]] | Se un occhio può giovarsi d’una lingua,<br>allora dovrei riconoscervi dalla descrizione.<br>Tali vesti, e tali anni. ‘Il ragazzo è bello,<br>di femminile aspetto, e si porta<br>come una sorella matura. La donna è piccola<br>e più bruna del fratello.’ Non siete voi<br>i padroni della [[house|casa]] di cui chiedevo? |
-| [[Celia|CELIA]] | Non è vanto, essendone richiesti, dire che lo siamo. |
-| [[Oliver|OLIVIERO]] | [[Orlando]] si raccomanda a voi due,<br>e a quel giovane ch’egli chiama la sua [[Rosalind|Rosalinda]]<br>manda questo fazzoletto insanguinato. Siete voi? |
-| [[Rosalind|ROSALINDA]] | Sono io. Che dobbiamo intendere da questo? |
-| [[Oliver|OLIVIERO]] | Qualcosa della mia vergogna, se vorrete sapere da me<br>che uomo io sia, e come, e perché, e dove<br>questo fazzoletto fu macchiato. |
-| [[Celia|CELIA]] | Vi prego, ditelo. |
-| [[Oliver|OLIVIERO]] | Quando l’ultima volta il giovane [[Orlando]] si separò da voi,<br>lasciò promessa di tornare di nuovo |
+| *(didascalia)* | Entrano [[Rosalind\|Rosalinda]] come Ganimede e [[Celia]] come Aliena |
+| [[Rosalind\|ROSALINDA]] | Che ne dite ora? Non son forse passate le due dell’[[Clock\|orologio]]? E qui, altro che [[Orlando]]. |
+| [[Celia\|CELIA]] | Ve lo garantisco: con puro [[Love\|amore]] e cervello turbato ha preso l’arco e le frecce ed è uscito a [[Sleep\|dormire]]. |
+| *(didascalia)* | Entra [[Silvius\|Silvio]] |
+| [[Celia\|CELIA]] | Guardate chi viene. |
+| [[Silvius\|SILVIO]] | (a [[Rosalind\|Rosalinda]])<br>Il mio messaggio è per voi, bel giovane.<br>La mia gentile [[Phoebe]] mi disse di darvi questo.<br>Porge a [[Rosalind\|Rosalinda]] una lettera, ch’ella prende e legge<br>Non ne conosco il contenuto, ma per quanto arguisco<br>dalla fronte severa e dal gesto stizzoso<br>ch’ella usò mentre lo scriveva,<br>ha un tenore adirato. Perdonatemi;<br>io non sono che un messaggero innocente. |
+| [[Rosalind\|ROSALINDA]] | La pazienza stessa trasalirebbe a questa lettera,<br>e farebbe la spavalda. Sopportare questo è sopportare tutto.<br>Dice ch’io non son bello, che mi mancano le maniere;<br>mi chiama superbo, e che non potrebbe [[Love\|amarmi]]<br>fosse l’uomo raro come la Fenice. Per la mia volontà,<br>il suo [[Love\|amore]] non è la lepre ch’io caccio.<br>Perché mi scrive così? [[Well\|Bene]], pastore, [[Well\|bene]],<br>questa è una lettera di vostra invenzione. |
+| [[Silvius\|SILVIO]] | No, protesto; non conosco il contenuto.<br>[[Phoebe]] la scrisse. |
+| [[Rosalind\|ROSALINDA]] | Via, via, siete uno [[Fool\|sciocco]],<br>e volto all’estremo dell’[[Love\|amore]].<br>Ho visto la sua mano. Ha una mano di cuoio,<br>una mano color pietra arenaria. Credetti davvero<br>ch’ella avesse su i suoi vecchi guanti; ma erano le sue mani.<br>Ha una mano da massaia—ma questo non importa.<br>Dico che non fu lei a inventare questa lettera.<br>È invenzione d’un uomo, e mano sua. |
+| [[Silvius\|SILVIO]] | Certo, è sua. |
+| [[Rosalind\|ROSALINDA]] | Ma è uno stile burrascoso e crudele,<br>uno stile da sfidanti. Ma come, ella mi sfida,<br>come Turco a Cristiano! Il gentile cervello di donna<br>non poteva stillare invenzione così rozzamente gigantesca,<br>parole così etiopi, più nere nel loro effetto<br>che nel loro aspetto. Volete udire la lettera? |
+| [[Silvius\|SILVIO]] | Se vi piace, ché non l’ho ancora udita,<br>eppure ho udito troppo della crudeltà di [[Phoebe]]. |
+| [[Rosalind\|ROSALINDA]] | Ella mi fa la Phoebe. Notate come scrive la [[Tyrant\|tiranna]]:<br>(legge) ‘Sei tu dio mutato in pastore,<br>che il cuore d’una fanciulla hai arso?’<br>Può una donna inveire così? |
+| [[Silvius\|SILVIO]] | Chiamate questo inveire? |
+| [[Rosalind\|ROSALINDA]] | (legge)<br>‘Ma, deposta la tua divinità,<br>muovi guerra al cuore d’una donna?’<br>Avete mai udito tale inveire?<br>‘Mentre l’occhio d’uomo mi corteggiava<br>non poteva farmi alcuna vendetta.’—<br>Volendo dire ch’io sono una bestia.<br>‘Se lo scherno dei vostri occhi lucenti<br>ha potere di destare tale [[Love\|amore]] nei miei,<br>ahimè, in me quale strano effetto<br>opererebbero con mite sguardo?<br>Mentre mi sgridavate io [[Love\|amavo]];<br>che potrebbero dunque le vostre preghiere?<br>Colui che ti porta questo [[Love\|amore]]<br>poco conosce questo [[Love\|amore]] in me,<br>e per suo mezzo suggella il tuo animo:<br>se la tua giovinezza e la tua indole<br>vorranno accettare la fedele offerta<br>di me, e di tutto ciò che posso dare,<br>oppure per lui nega il mio [[Love\|amore]],<br>e allora studierò come morire.’ |
+| [[Silvius\|SILVIO]] | Chiamate questo sgridare? |
+| [[Celia\|CELIA]] | Ahimè, povero pastore. |
+| [[Rosalind\|ROSALINDA]] | Avete pietà di lui? No, non merita pietà. (A [[Silvius\|Silvio]]) Vuoi tu [[Love\|amare]] una donna simile? Come, fare di te uno strumento, e sonarti sopra false arie?—non è da sopportare. [[Well\|Bene]], va’ per la tua strada da lei—ché vedo che l’[[Love\|amore]] t’ha fatto una serpe mansueta—e dille questo: che se ella mi [[Love\|ama]], le ordino di [[Love\|amare]] te. Se non vorrà, non l’avrò mai, a meno che tu non interceda per lei. Se sei un vero [[Lover\|innamorato]], via, e non una parola; ché qui viene altra gente. |
+| *(didascalia)* | Esce [[Silvius\|Silvio]] |
+| *(didascalia)* | Entra [[Oliver\|Oliviero]] |
+| [[Oliver\|OLIVIERO]] | Buon giorno, belle creature. Di grazia, se lo sapete,<br>dove, nei dintorni di questa foresta, sorge<br>un ovile cinto d’ulivi? |
+| [[Celia\|CELIA]] | A occidente di questo luogo, giù nel vicino [[Bottom\|fondovalle]].<br>La fila di vimini presso il ruscello mormorante,<br>lasciata alla vostra destra, vi conduce al luogo.<br>Ma a quest’ora la [[house\|casa]] si custodisce da sé.<br>Non c’è nessuno dentro. |
+| [[Oliver\|OLIVIERO]] | Se un occhio può giovarsi d’una lingua,<br>allora dovrei riconoscervi dalla descrizione.<br>Tali vesti, e tali anni. ‘Il ragazzo è bello,<br>di femminile aspetto, e si porta<br>come una sorella matura. La donna è piccola<br>e più bruna del fratello.’ Non siete voi<br>i padroni della [[house\|casa]] di cui chiedevo? |
+| [[Celia\|CELIA]] | Non è vanto, essendone richiesti, dire che lo siamo. |
+| [[Oliver\|OLIVIERO]] | [[Orlando]] si raccomanda a voi due,<br>e a quel giovane ch’egli chiama la sua [[Rosalind\|Rosalinda]]<br>manda questo fazzoletto insanguinato. Siete voi? |
+| [[Rosalind\|ROSALINDA]] | Sono io. Che dobbiamo intendere da questo? |
+| [[Oliver\|OLIVIERO]] | Qualcosa della mia vergogna, se vorrete sapere da me<br>che uomo io sia, e come, e perché, e dove<br>questo fazzoletto fu macchiato. |
+| [[Celia\|CELIA]] | Vi prego, ditelo. |
+| [[Oliver\|OLIVIERO]] | Quando l’ultima volta il giovane [[Orlando]] si separò da voi,<br>lasciò promessa di tornare di nuovo |
 | *(didascalia)* | entro un’ora, e, camminando per la foresta, |
-| [[Oliver|OLIVIERO]] | masticando il cibo di dolce e amara fantasia,<br>ecco che avvenne. Gettò l’occhio da un lato,<br>e notate quale oggetto gli si presentò.<br>Sotto una vecchia quercia, i cui rami eran muscosi d’età<br>e l’alta cima calva di secca antichità,<br>un uomo misero, cencioso, tutto irsuto di capelli,<br>giaceva dormendo supino. Intorno al suo collo<br>una serpe verde e dorata s’era attorcigliata,<br>che col capo, agile nelle minacce, s’accostava<br>all’apertura della sua bocca. Ma d’improvviso,<br>vedendo [[Orlando]], si sciolse,<br>e con lubrici giri serpentini scivolò via<br>in un cespuglio, all’ombra del quale<br>una leonessa, con le mammelle tutte prosciugate,<br>stava acquattata, il capo a terra, in agguato felino<br>che l’uomo addormentato si movesse. Ché è<br>la regale disposizione di quella belva<br>non predare nulla che sembri morto.<br>Visto ciò, [[Orlando]] s’accostò all’uomo<br>e trovò ch’era suo fratello, il suo fratello maggiore. |
-| [[Celia|CELIA]] | Oh, l’ho udito parlare di quello stesso fratello,<br>e lo dipingeva come il più snaturato<br>che vivesse fra gli uomini. |
-| [[Oliver|OLIVIERO]] | E [[Well|ben]] poteva farlo,<br>ché [[Well|bene]] so ch’egli era snaturato. |
-| [[Rosalind|ROSALINDA]] | Ma torniamo a [[Orlando]]. Lo lasciò egli là,<br>cibo alla leonessa prosciugata e affamata? |
-| [[Oliver|OLIVIERO]] | Due volte volse le spalle, e così si propose.<br>Ma la bontà, sempre più nobile della [[Revenge|vendetta]],<br>e la [[Nature|natura]], più forte della sua giusta occasione,<br>gli fecero dar battaglia alla leonessa,<br>che cadde presto davanti a lui; nel qual tumulto<br>dal misero sonno mi destai. |
-| [[Celia|CELIA]] | Siete voi suo fratello? |
-| [[Rosalind|ROSALINDA]] | Foste voi colui ch’egli salvò? |
-| [[Celia|CELIA]] | Foste voi che tante volte tramaste d’ucciderlo? |
-| [[Oliver|OLIVIERO]] | Fui io, ma non sono io. Non mi vergogno<br>di dirvi ciò che fui, poiché la mia [[conversion|conversione]]<br>ha sapore così dolce, essendo io la cosa che sono. |
-| [[Rosalind|ROSALINDA]] | Ma quanto al fazzoletto insanguinato? |
-| [[Oliver|OLIVIERO]] | Or ora.<br>Quando, dal primo all’ultimo, fra noi due<br>le [[Tears|lacrime]] ebbero benignamente bagnato i nostri racconti—<br>come io giunsi in quel luogo [[Desert|deserto]]—<br>in breve, egli mi condusse al gentile Duca,<br>che mi diede vesti fresche e accoglienza,<br>affidandomi all’[[Love|amore]] di mio fratello,<br>il quale mi condusse subito alla sua [[Cave|caverna]],<br>là si spogliò, e qui, sul braccio,<br>la leonessa gli aveva strappato via un po’ di carne,<br>che per tutto questo tempo aveva sanguinato. E allora svenne,<br>e svenendo gridò il nome di [[Rosalind|Rosalinda]].<br>In breve, lo feci rinvenire, gli fasciai la ferita,<br>e dopo poco spazio, essendo forte di cuore,<br>mi mandò qua, straniero come sono,<br>a raccontare questa storia, perché voi scusaste<br>la sua promessa infranta, e a dare questo fazzoletto,<br>tinto del suo [[Blood|sangue]], al giovane pastore<br>ch’egli per gioco chiama la sua [[Rosalind|Rosalinda]].<br>[[Rosalind|Rosalinda]] sviene |
-| [[Celia|CELIA]] | Ebbene, che c’è, Ganimede, dolce Ganimede! |
-| [[Oliver|OLIVIERO]] | Molti svengono quando guardano il [[Blood|sangue]]. |
-| [[Celia|CELIA]] | C’è dell’altro. Cugino Ganimede! |
-| [[Oliver|OLIVIERO]] | Guardate, si riprende. |
-| [[Rosalind|ROSALINDA]] | Vorrei essere a [[Home|casa]]. |
-| [[Celia|CELIA]] | Vi condurremo là.<br>(A [[Oliver|Oliviero]]) Vi prego, volete prenderlo per il braccio? |
-| [[Oliver|OLIVIERO]] | Fatevi coraggio, giovane. Voi un uomo? Vi manca il cuore d’un uomo. |
-| [[Rosalind|ROSALINDA]] | È vero, lo confesso. Ah, messere, un [[Body|corpo]] penserebbe che questo fosse [[Well|ben]] simulato. Vi prego, dite a vostro fratello quanto [[Well|bene]] ho simulato. Ohimè! |
-| [[Oliver|OLIVIERO]] | Questa non fu simulazione. C’è troppo gran testimonianza nel vostro colorito che fu una passione sincera. |
-| [[Rosalind|ROSALINDA]] | Simulazione, ve l’assicuro. |
-| [[Oliver|OLIVIERO]] | [[Well|Bene]] allora, fatevi buon cuore, e simulate d’essere un uomo. |
-| [[Rosalind|ROSALINDA]] | Così faccio; ma, in [[Faith|fede]] mia, avrei dovuto essere una donna di diritto. |
-| [[Celia|CELIA]] | Venite, vi fate sempre più pallido. Vi prego, avviatevi verso casa. Buon signore, venite con noi. |
-| [[Oliver|OLIVIERO]] | Lo farò, ché devo riportare risposta<br>su come voi scusiate mio fratello, [[Rosalind|Rosalinda]]. |
-| [[Rosalind|ROSALINDA]] | Escogiterò qualcosa. Ma vi prego, raccomandategli la mia simulazione. Volete andare? |
+| [[Oliver\|OLIVIERO]] | masticando il cibo di dolce e amara fantasia,<br>ecco che avvenne. Gettò l’occhio da un lato,<br>e notate quale oggetto gli si presentò.<br>Sotto una vecchia quercia, i cui rami eran muscosi d’età<br>e l’alta cima calva di secca antichità,<br>un uomo misero, cencioso, tutto irsuto di capelli,<br>giaceva dormendo supino. Intorno al suo collo<br>una serpe verde e dorata s’era attorcigliata,<br>che col capo, agile nelle minacce, s’accostava<br>all’apertura della sua bocca. Ma d’improvviso,<br>vedendo [[Orlando]], si sciolse,<br>e con lubrici giri serpentini scivolò via<br>in un cespuglio, all’ombra del quale<br>una leonessa, con le mammelle tutte prosciugate,<br>stava acquattata, il capo a terra, in agguato felino<br>che l’uomo addormentato si movesse. Ché è<br>la regale disposizione di quella belva<br>non predare nulla che sembri morto.<br>Visto ciò, [[Orlando]] s’accostò all’uomo<br>e trovò ch’era suo fratello, il suo fratello maggiore. |
+| [[Celia\|CELIA]] | Oh, l’ho udito parlare di quello stesso fratello,<br>e lo dipingeva come il più snaturato<br>che vivesse fra gli uomini. |
+| [[Oliver\|OLIVIERO]] | E [[Well\|ben]] poteva farlo,<br>ché [[Well\|bene]] so ch’egli era snaturato. |
+| [[Rosalind\|ROSALINDA]] | Ma torniamo a [[Orlando]]. Lo lasciò egli là,<br>cibo alla leonessa prosciugata e affamata? |
+| [[Oliver\|OLIVIERO]] | Due volte volse le spalle, e così si propose.<br>Ma la bontà, sempre più nobile della [[Revenge\|vendetta]],<br>e la [[Nature\|natura]], più forte della sua giusta occasione,<br>gli fecero dar battaglia alla leonessa,<br>che cadde presto davanti a lui; nel qual tumulto<br>dal misero sonno mi destai. |
+| [[Celia\|CELIA]] | Siete voi suo fratello? |
+| [[Rosalind\|ROSALINDA]] | Foste voi colui ch’egli salvò? |
+| [[Celia\|CELIA]] | Foste voi che tante volte tramaste d’ucciderlo? |
+| [[Oliver\|OLIVIERO]] | Fui io, ma non sono io. Non mi vergogno<br>di dirvi ciò che fui, poiché la mia [[conversion\|conversione]]<br>ha sapore così dolce, essendo io la cosa che sono. |
+| [[Rosalind\|ROSALINDA]] | Ma quanto al fazzoletto insanguinato? |
+| [[Oliver\|OLIVIERO]] | Or ora.<br>Quando, dal primo all’ultimo, fra noi due<br>le [[Tears\|lacrime]] ebbero benignamente bagnato i nostri racconti—<br>come io giunsi in quel luogo [[Desert\|deserto]]—<br>in breve, egli mi condusse al gentile Duca,<br>che mi diede vesti fresche e accoglienza,<br>affidandomi all’[[Love\|amore]] di mio fratello,<br>il quale mi condusse subito alla sua [[Cave\|caverna]],<br>là si spogliò, e qui, sul braccio,<br>la leonessa gli aveva strappato via un po’ di carne,<br>che per tutto questo tempo aveva sanguinato. E allora svenne,<br>e svenendo gridò il nome di [[Rosalind\|Rosalinda]].<br>In breve, lo feci rinvenire, gli fasciai la ferita,<br>e dopo poco spazio, essendo forte di cuore,<br>mi mandò qua, straniero come sono,<br>a raccontare questa storia, perché voi scusaste<br>la sua promessa infranta, e a dare questo fazzoletto,<br>tinto del suo [[Blood\|sangue]], al giovane pastore<br>ch’egli per gioco chiama la sua [[Rosalind\|Rosalinda]].<br>[[Rosalind\|Rosalinda]] sviene |
+| [[Celia\|CELIA]] | Ebbene, che c’è, Ganimede, dolce Ganimede! |
+| [[Oliver\|OLIVIERO]] | Molti svengono quando guardano il [[Blood\|sangue]]. |
+| [[Celia\|CELIA]] | C’è dell’altro. Cugino Ganimede! |
+| [[Oliver\|OLIVIERO]] | Guardate, si riprende. |
+| [[Rosalind\|ROSALINDA]] | Vorrei essere a [[Home\|casa]]. |
+| [[Celia\|CELIA]] | Vi condurremo là.<br>(A [[Oliver\|Oliviero]]) Vi prego, volete prenderlo per il braccio? |
+| [[Oliver\|OLIVIERO]] | Fatevi coraggio, giovane. Voi un uomo? Vi manca il cuore d’un uomo. |
+| [[Rosalind\|ROSALINDA]] | È vero, lo confesso. Ah, messere, un [[Body\|corpo]] penserebbe che questo fosse [[Well\|ben]] simulato. Vi prego, dite a vostro fratello quanto [[Well\|bene]] ho simulato. Ohimè! |
+| [[Oliver\|OLIVIERO]] | Questa non fu simulazione. C’è troppo gran testimonianza nel vostro colorito che fu una passione sincera. |
+| [[Rosalind\|ROSALINDA]] | Simulazione, ve l’assicuro. |
+| [[Oliver\|OLIVIERO]] | [[Well\|Bene]] allora, fatevi buon cuore, e simulate d’essere un uomo. |
+| [[Rosalind\|ROSALINDA]] | Così faccio; ma, in [[Faith\|fede]] mia, avrei dovuto essere una donna di diritto. |
+| [[Celia\|CELIA]] | Venite, vi fate sempre più pallido. Vi prego, avviatevi verso casa. Buon signore, venite con noi. |
+| [[Oliver\|OLIVIERO]] | Lo farò, ché devo riportare risposta<br>su come voi scusiate mio fratello, [[Rosalind\|Rosalinda]]. |
+| [[Rosalind\|ROSALINDA]] | Escogiterò qualcosa. Ma vi prego, raccomandategli la mia simulazione. Volete andare? |
 | *(didascalia)* | Escono |
 
 
@@ -2807,38 +2807,38 @@ As You Like It
 | Chi parla | Battuta |
 |---|---|
 | *(didascalia)* | Entrano [[Touchstone]] il buffone e Audrey |
-| [[Touchstone|TOUCHSTONE]] | Troveremo un [[Time|tempo]], Audrey. Pazienza, gentile Audrey. |
-| AUDREY | [[Faith|In fede mia]], il prete era abbastanza buono, checché dicesse quel vecchio signore. |
-| [[Touchstone|TOUCHSTONE]] | Un pessimo Sir [[Oliver|Oliviero]], Audrey, un vilissimo Martext. Ma, Audrey, c’è qui nella foresta un giovane che accampa diritti su di te. |
+| [[Touchstone\|TOUCHSTONE]] | Troveremo un [[Time\|tempo]], Audrey. Pazienza, gentile Audrey. |
+| AUDREY | [[Faith\|In fede mia]], il prete era abbastanza buono, checché dicesse quel vecchio signore. |
+| [[Touchstone\|TOUCHSTONE]] | Un pessimo Sir [[Oliver\|Oliviero]], Audrey, un vilissimo Martext. Ma, Audrey, c’è qui nella foresta un giovane che accampa diritti su di te. |
 | AUDREY | Sì, so chi è. Non ha alcun interesse su di me al mondo. Ecco che viene l’uomo di cui dite. |
 | *(didascalia)* | Entra William |
-| [[Touchstone|TOUCHSTONE]] | È cibo e bevanda per me vedere un villano. Sulla mia parola, noi che abbiamo buon ingegno abbiamo molto di cui rispondere. Non potremo che beffare; non sappiamo trattenerci. |
+| [[Touchstone\|TOUCHSTONE]] | È cibo e bevanda per me vedere un villano. Sulla mia parola, noi che abbiamo buon ingegno abbiamo molto di cui rispondere. Non potremo che beffare; non sappiamo trattenerci. |
 | WILLIAM | Buona sera, Audrey. |
 | AUDREY | Dio vi dia la buona sera, William. |
 | WILLIAM | (a [[Touchstone]]) E buona sera a voi, signore. |
-| [[Touchstone|TOUCHSTONE]] | Buona sera, gentile amico. Copriti il capo, copriti il capo. Su, ti prego, sta’ coperto. Quanti anni avete, amico? |
+| [[Touchstone\|TOUCHSTONE]] | Buona sera, gentile amico. Copriti il capo, copriti il capo. Su, ti prego, sta’ coperto. Quanti anni avete, amico? |
 | WILLIAM | Venticinque, signore. |
-| [[Touchstone|TOUCHSTONE]] | Un’età matura. Ti chiami William? |
+| [[Touchstone\|TOUCHSTONE]] | Un’età matura. Ti chiami William? |
 | WILLIAM | William, signore. |
-| [[Touchstone|TOUCHSTONE]] | Un bel nome. Sei nato qui nella foresta? |
+| [[Touchstone\|TOUCHSTONE]] | Un bel nome. Sei nato qui nella foresta? |
 | WILLIAM | Sì, signore, ringrazio Dio. |
-| [[Touchstone|TOUCHSTONE]] | Ringrazio Dio—buona risposta. Sei ricco? |
-| WILLIAM | [[Faith|In fede mia]], signore, così così. |
-| [[Touchstone|TOUCHSTONE]] | Così così è buono, molto buono, eccellentemente buono. Eppure non lo è, non è che così così. Sei tu saggio? |
+| [[Touchstone\|TOUCHSTONE]] | Ringrazio Dio—buona risposta. Sei ricco? |
+| WILLIAM | [[Faith\|In fede mia]], signore, così così. |
+| [[Touchstone\|TOUCHSTONE]] | Così così è buono, molto buono, eccellentemente buono. Eppure non lo è, non è che così così. Sei tu saggio? |
 | WILLIAM | Sì, signore, ho un bell’ingegno. |
-| [[Touchstone|TOUCHSTONE]] | Ma tu dici [[Well|bene]]. Ora mi ricordo d’un detto: ‘Lo [[Fool|sciocco]] crede d’esser saggio, ma il saggio sa d’essere uno [[Fool|sciocco]].’ Il filosofo pagano, quando aveva [[Desire|desiderio]] di mangiare un acino d’uva, apriva le labbra quando se lo metteva in bocca, volendo con ciò significare che l’uva è fatta per esser mangiata, e le labbra per aprirsi. Voi [[Love|amate]] questa fanciulla? |
+| [[Touchstone\|TOUCHSTONE]] | Ma tu dici [[Well\|bene]]. Ora mi ricordo d’un detto: ‘Lo [[Fool\|sciocco]] crede d’esser saggio, ma il saggio sa d’essere uno [[Fool\|sciocco]].’ Il filosofo pagano, quando aveva [[Desire\|desiderio]] di mangiare un acino d’uva, apriva le labbra quando se lo metteva in bocca, volendo con ciò significare che l’uva è fatta per esser mangiata, e le labbra per aprirsi. Voi [[Love\|amate]] questa fanciulla? |
 | WILLIAM | Sì, signore. |
-| [[Touchstone|TOUCHSTONE]] | Dammi la mano. Sei tu dotto? |
+| [[Touchstone\|TOUCHSTONE]] | Dammi la mano. Sei tu dotto? |
 | WILLIAM | No, signore. |
-| [[Touchstone|TOUCHSTONE]] | Allora impara questo da me: avere è avere. Ché è figura di retorica che la bevanda, versata da una coppa in un bicchiere, riempiendo l’una vuoti l’altro. Ché tutti i vostri scrittori consentono che ipse è lui. Ora voi non siete ipse, ché lui sono io. |
+| [[Touchstone\|TOUCHSTONE]] | Allora impara questo da me: avere è avere. Ché è figura di retorica che la bevanda, versata da una coppa in un bicchiere, riempiendo l’una vuoti l’altro. Ché tutti i vostri scrittori consentono che ipse è lui. Ora voi non siete ipse, ché lui sono io. |
 | WILLIAM | Quale lui, signore? |
-| [[Touchstone|TOUCHSTONE]] | Lui, signore, che deve sposare questa donna. Perciò, villano, abbandona—che in volgare è lascia—la società—che nel rustico è compagnia—di questa femmina—che nel comune è donna; il che tutto insieme fa: abbandona la società di questa femmina, o, villano, tu perisci; o, per tua miglior comprensione, muori; ossia, io t’uccido, ti faccio fuori, traduco la tua vita in [[Death|morte]], la tua libertà in servitù. Tratterò con te di [[Poison|veleno]], o di bastonate, o d’acciaio. Ti verrò addosso con le fazioni, ti travolgerò con la politica. Ti ucciderò in centocinquanta modi. Perciò trema, e vattene. |
+| [[Touchstone\|TOUCHSTONE]] | Lui, signore, che deve sposare questa donna. Perciò, villano, abbandona—che in volgare è lascia—la società—che nel rustico è compagnia—di questa femmina—che nel comune è donna; il che tutto insieme fa: abbandona la società di questa femmina, o, villano, tu perisci; o, per tua miglior comprensione, muori; ossia, io t’uccido, ti faccio fuori, traduco la tua vita in [[Death\|morte]], la tua libertà in servitù. Tratterò con te di [[Poison\|veleno]], o di bastonate, o d’acciaio. Ti verrò addosso con le fazioni, ti travolgerò con la politica. Ti ucciderò in centocinquanta modi. Perciò trema, e vattene. |
 | AUDREY | Fallo, buon William. |
 | WILLIAM | Dio vi conservi allegro, signore. |
 | *(didascalia)* | Esce |
 | *(didascalia)* | Entra Corino |
 | CORINO | Il nostro padrone e la nostra padrona vi cercano. Venite, via, via. |
-| [[Touchstone|TOUCHSTONE]] | Trotta, Audrey, trotta, Audrey. (A Corino) Vengo, vengo. |
+| [[Touchstone\|TOUCHSTONE]] | Trotta, Audrey, trotta, Audrey. (A Corino) Vengo, vengo. |
 | *(didascalia)* | Escono |
 
 
@@ -2901,52 +2901,52 @@ As You Like It
 
 | Chi parla | Battuta |
 |---|---|
-| *(didascalia)* | Entrano [[Orlando]] e [[Oliver|Oliviero]] |
-| [[Orlando|ORLANDO]] | È possibile che, con così poca conoscenza, ella ti piaccia? Che, appena vedutala, tu l’[[Love|ami]]? E, amandola, la corteggi? E, corteggiandola, ella consenta? E persevererai nel goderla? |
-| [[Oliver|OLIVIERO]] | Non mettere in questione né la vertigine della cosa, né la sua [[Poverty|povertà]], né la scarsa conoscenza, né il mio subitaneo corteggiare, né il suo subitaneo consentire; ma di’ con me: ‘Io [[Love|amo]] Aliena’; di’ con lei ch’ella mi ama; consenti con entrambi che possiamo goderci l’un l’altra. Sarà a tuo bene, ché la [[house|casa]] di mio padre e tutta la rendita che fu del vecchio Sir Rowland le assegnerò a te, e qui vivrò e morrò pastore. |
-| *(didascalia)* | Entra [[Rosalind|Rosalinda]] come Ganimede |
-| [[Orlando|ORLANDO]] | Hai il mio consenso. Sian le tue nozze domani. Là inviterò il Duca e tutto il suo contento seguito. Va’ tu, e prepara Aliena; ché, guarda, qui viene la mia [[Rosalind|Rosalinda]]. |
-| [[Rosalind|ROSALINDA]] | Dio vi salvi, fratello. |
-| [[Oliver|OLIVIERO]] | E voi, bella sorella. Esce |
-| [[Rosalind|ROSALINDA]] | Oh, mio caro [[Orlando]], come mi duole vederti portare il cuore in una sciarpa. |
-| [[Orlando|ORLANDO]] | È il mio braccio. |
-| [[Rosalind|ROSALINDA]] | Credevo che il tuo cuore fosse stato ferito dagli artigli d’un [[Lion|leone]]. |
-| [[Orlando|ORLANDO]] | Ferito lo è, ma dagli occhi d’una dama. |
-| [[Rosalind|ROSALINDA]] | Vi ha detto vostro fratello come simulai di svenire quando mi mostrò il vostro fazzoletto? |
-| [[Orlando|ORLANDO]] | Sì, e meraviglie ancor maggiori di quella. |
-| [[Rosalind|ROSALINDA]] | Oh, so dove volete arrivare. Sì, è vero. Non vi fu mai nulla di così subitaneo, se non lo scontro di due arieti, e il trasonico vanto di Cesare: ‘Venni, vidi, vinsi’; ché vostro fratello e mia sorella non s’erano appena incontrati che si guardarono; non s’erano appena guardati che s’amarono; non s’erano appena amati che sospirarono; non avevano appena sospirato che l’un l’altro se ne chiesero la ragione; non avevano appena saputo la ragione che cercarono il rimedio; e con questi gradini hanno fatto una scala al [[Marriage|matrimonio]], che saliranno incontinenti, o altrimenti saranno incontinenti prima del [[Marriage|matrimonio]]. Sono proprio nella furia dell’[[Love|amore]], e vogliono stare insieme. Neppure i bastoni li separerebbero. |
-| [[Orlando|ORLANDO]] | Si sposeranno domani, e inviterò il Duca alle nozze. Ma oh, che amara cosa è guardare nella felicità con gli occhi d’un altro. Tanto più domani sarò al colmo della pesantezza di cuore, quanto più penserò mio fratello felice d’avere ciò che desidera. |
-| [[Rosalind|ROSALINDA]] | Come, dunque, domani non potrò più servirvi da [[Rosalind|Rosalinda]]? |
-| [[Orlando|ORLANDO]] | Non posso più vivere di pensieri. |
-| [[Rosalind|ROSALINDA]] | Non vi stancherò allora più a lungo con vane chiacchiere. Sappiate dunque da me—ché ora parlo a qualche scopo—ch’io so che siete un gentiluomo di buon intendimento. Non dico questo perché abbiate buona opinione del mio sapere, tanto quanto dico di sapere che lo siete; né mi adopero per una stima maggiore di quanta possa in qualche piccola misura trarre da voi una fiducia utile a voi stesso, e non a farmi onore. Credete dunque, se vi piace, ch’io posso fare cose strane. Fin da quando avevo tre anni ho conversato con un mago, profondissimo nella sua arte, e tuttavia non dannabile. Se voi [[Love|amate]] [[Rosalind|Rosalinda]] così da presso al cuore come il vostro contegno lo grida, quando vostro fratello sposerà Aliena voi sposerete lei. So in quali strettezze di fortuna ella sia sospinta, e non m’è impossibile, se non vi appare sconveniente, di porla domani davanti ai vostri occhi, umana com’è, e senza alcun pericolo. |
-| [[Orlando|ORLANDO]] | Parli tu con sobrio intento? |
-| [[Rosalind|ROSALINDA]] | Sulla mia vita, sì, ed essa m’è cara, benché dica d’essere un mago. Perciò mettetevi la vostra veste migliore, invitate i vostri amici: ché, se volete essere sposato domani, lo sarete; e a [[Rosalind|Rosalinda]], se vorrete. |
-| *(didascalia)* | Entrano [[Silvius|Silvio]] e [[Phoebe]] |
-| [[Rosalind|ROSALINDA]] | Guardate, ecco che viene un’[[Lover|innamorata]] di me e un [[Lover|innamorato]] di lei. |
-| [[Phoebe|PHOEBE]] | (a [[Rosalind|Rosalinda]])<br>Giovane, mi avete usato molta scortesia<br>a mostrare la lettera ch’io vi scrissi. |
-| [[Rosalind|ROSALINDA]] | Non m’importa se l’ho fatto. È mio studio<br>parervi dispettoso e scortese.<br>Là dietro vi segue un fedele pastore.<br>Guardatelo; [[Love|amatelo]]. Egli vi adora. |
-| [[Phoebe|PHOEBE]] | (a [[Silvius|Silvio]])<br>Buon pastore, di’ a questo giovane che cosa sia [[Love|amare]]. |
-| [[Silvius|SILVIO]] | È essere fatto tutto di sospiri e di [[Tears|lacrime]],<br>e tale io sono per [[Phoebe]]. |
-| [[Phoebe|PHOEBE]] | E io per Ganimede. |
-| [[Orlando|ORLANDO]] | E io per [[Rosalind|Rosalinda]]. |
-| [[Rosalind|ROSALINDA]] | E io per nessuna donna. |
-| [[Silvius|SILVIO]] | È essere fatto tutto di [[Faith|fede]] e di servizio,<br>e tale io sono per [[Phoebe]]. |
-| [[Phoebe|PHOEBE]] | E io per Ganimede. |
-| [[Orlando|ORLANDO]] | E io per [[Rosalind|Rosalinda]]. |
-| [[Rosalind|ROSALINDA]] | E io per nessuna donna. |
-| [[Silvius|SILVIO]] | È essere fatto tutto di fantasia,<br>tutto di passione, e tutto di desideri,<br>tutto adorazione, dovere e ossequio,<br>tutto umiltà, tutto pazienza e impazienza,<br>tutto purezza, tutto prova, tutto obbedienza,<br>e tale io sono per [[Phoebe]]. |
-| [[Phoebe|PHOEBE]] | E tale io sono per Ganimede. |
-| [[Orlando|ORLANDO]] | E tale io sono per [[Rosalind|Rosalinda]]. |
-| [[Rosalind|ROSALINDA]] | E tale io sono per nessuna donna. |
-| [[Phoebe|PHOEBE]] | (a [[Rosalind|Rosalinda]])<br>Se è così, perché mi rimproverate d’[[Love|amarvi]]? |
-| [[Silvius|SILVIO]] | (a [[Phoebe]])<br>Se è così, perché mi rimproverate d’[[Love|amarvi]]? |
-| [[Orlando|ORLANDO]] | Se è così, perché mi rimproverate d’[[Love|amarvi]]? |
-| [[Rosalind|ROSALINDA]] | Perché lo dite anche voi: ‘Perché mi rimproverate d’[[Love|amarvi]]?’ |
-| [[Orlando|ORLANDO]] | A colei che non è qui né mi ode. |
-| [[Rosalind|ROSALINDA]] | Vi prego, basta con questo; è come l’ululare dei lupi d’Irlanda contro la [[Moon|luna]]. (A [[Silvius|Silvio]]) Vi aiuterò, se potrò. (A [[Phoebe]]) Vi [[Love|amerei]], se potessi.—Domani trovatevi tutti insieme con me. (A [[Phoebe]]) Sposerò voi, se mai sposerò donna, e mi sposerò domani. (A [[Orlando]]) Soddisferò voi, se mai soddisferò uomo, e voi vi sposerete domani. (A [[Silvius|Silvio]]) Contenterò voi, se ciò che vi piace vi contenta, e voi vi sposerete domani. (A [[Orlando]]) Come [[Love|amate]] [[Rosalind|Rosalinda]], trovatevi qui. (A [[Silvius|Silvio]]) Come [[Love|amate]] [[Phoebe]], trovatevi qui. E come io non [[Love|amo]] nessuna donna, mi troverò qui. E dunque statevi [[Well|bene]]. Vi ho lasciato i miei ordini. |
-| [[Silvius|SILVIO]] | Non mancherò, se vivrò. |
-| [[Phoebe|PHOEBE]] | Né io. |
-| [[Orlando|ORLANDO]] | Né io. |
+| *(didascalia)* | Entrano [[Orlando]] e [[Oliver\|Oliviero]] |
+| [[Orlando\|ORLANDO]] | È possibile che, con così poca conoscenza, ella ti piaccia? Che, appena vedutala, tu l’[[Love\|ami]]? E, amandola, la corteggi? E, corteggiandola, ella consenta? E persevererai nel goderla? |
+| [[Oliver\|OLIVIERO]] | Non mettere in questione né la vertigine della cosa, né la sua [[Poverty\|povertà]], né la scarsa conoscenza, né il mio subitaneo corteggiare, né il suo subitaneo consentire; ma di’ con me: ‘Io [[Love\|amo]] Aliena’; di’ con lei ch’ella mi ama; consenti con entrambi che possiamo goderci l’un l’altra. Sarà a tuo bene, ché la [[house\|casa]] di mio padre e tutta la rendita che fu del vecchio Sir Rowland le assegnerò a te, e qui vivrò e morrò pastore. |
+| *(didascalia)* | Entra [[Rosalind\|Rosalinda]] come Ganimede |
+| [[Orlando\|ORLANDO]] | Hai il mio consenso. Sian le tue nozze domani. Là inviterò il Duca e tutto il suo contento seguito. Va’ tu, e prepara Aliena; ché, guarda, qui viene la mia [[Rosalind\|Rosalinda]]. |
+| [[Rosalind\|ROSALINDA]] | Dio vi salvi, fratello. |
+| [[Oliver\|OLIVIERO]] | E voi, bella sorella. Esce |
+| [[Rosalind\|ROSALINDA]] | Oh, mio caro [[Orlando]], come mi duole vederti portare il cuore in una sciarpa. |
+| [[Orlando\|ORLANDO]] | È il mio braccio. |
+| [[Rosalind\|ROSALINDA]] | Credevo che il tuo cuore fosse stato ferito dagli artigli d’un [[Lion\|leone]]. |
+| [[Orlando\|ORLANDO]] | Ferito lo è, ma dagli occhi d’una dama. |
+| [[Rosalind\|ROSALINDA]] | Vi ha detto vostro fratello come simulai di svenire quando mi mostrò il vostro fazzoletto? |
+| [[Orlando\|ORLANDO]] | Sì, e meraviglie ancor maggiori di quella. |
+| [[Rosalind\|ROSALINDA]] | Oh, so dove volete arrivare. Sì, è vero. Non vi fu mai nulla di così subitaneo, se non lo scontro di due arieti, e il trasonico vanto di Cesare: ‘Venni, vidi, vinsi’; ché vostro fratello e mia sorella non s’erano appena incontrati che si guardarono; non s’erano appena guardati che s’amarono; non s’erano appena amati che sospirarono; non avevano appena sospirato che l’un l’altro se ne chiesero la ragione; non avevano appena saputo la ragione che cercarono il rimedio; e con questi gradini hanno fatto una scala al [[Marriage\|matrimonio]], che saliranno incontinenti, o altrimenti saranno incontinenti prima del [[Marriage\|matrimonio]]. Sono proprio nella furia dell’[[Love\|amore]], e vogliono stare insieme. Neppure i bastoni li separerebbero. |
+| [[Orlando\|ORLANDO]] | Si sposeranno domani, e inviterò il Duca alle nozze. Ma oh, che amara cosa è guardare nella felicità con gli occhi d’un altro. Tanto più domani sarò al colmo della pesantezza di cuore, quanto più penserò mio fratello felice d’avere ciò che desidera. |
+| [[Rosalind\|ROSALINDA]] | Come, dunque, domani non potrò più servirvi da [[Rosalind\|Rosalinda]]? |
+| [[Orlando\|ORLANDO]] | Non posso più vivere di pensieri. |
+| [[Rosalind\|ROSALINDA]] | Non vi stancherò allora più a lungo con vane chiacchiere. Sappiate dunque da me—ché ora parlo a qualche scopo—ch’io so che siete un gentiluomo di buon intendimento. Non dico questo perché abbiate buona opinione del mio sapere, tanto quanto dico di sapere che lo siete; né mi adopero per una stima maggiore di quanta possa in qualche piccola misura trarre da voi una fiducia utile a voi stesso, e non a farmi onore. Credete dunque, se vi piace, ch’io posso fare cose strane. Fin da quando avevo tre anni ho conversato con un mago, profondissimo nella sua arte, e tuttavia non dannabile. Se voi [[Love\|amate]] [[Rosalind\|Rosalinda]] così da presso al cuore come il vostro contegno lo grida, quando vostro fratello sposerà Aliena voi sposerete lei. So in quali strettezze di fortuna ella sia sospinta, e non m’è impossibile, se non vi appare sconveniente, di porla domani davanti ai vostri occhi, umana com’è, e senza alcun pericolo. |
+| [[Orlando\|ORLANDO]] | Parli tu con sobrio intento? |
+| [[Rosalind\|ROSALINDA]] | Sulla mia vita, sì, ed essa m’è cara, benché dica d’essere un mago. Perciò mettetevi la vostra veste migliore, invitate i vostri amici: ché, se volete essere sposato domani, lo sarete; e a [[Rosalind\|Rosalinda]], se vorrete. |
+| *(didascalia)* | Entrano [[Silvius\|Silvio]] e [[Phoebe]] |
+| [[Rosalind\|ROSALINDA]] | Guardate, ecco che viene un’[[Lover\|innamorata]] di me e un [[Lover\|innamorato]] di lei. |
+| [[Phoebe\|PHOEBE]] | (a [[Rosalind\|Rosalinda]])<br>Giovane, mi avete usato molta scortesia<br>a mostrare la lettera ch’io vi scrissi. |
+| [[Rosalind\|ROSALINDA]] | Non m’importa se l’ho fatto. È mio studio<br>parervi dispettoso e scortese.<br>Là dietro vi segue un fedele pastore.<br>Guardatelo; [[Love\|amatelo]]. Egli vi adora. |
+| [[Phoebe\|PHOEBE]] | (a [[Silvius\|Silvio]])<br>Buon pastore, di’ a questo giovane che cosa sia [[Love\|amare]]. |
+| [[Silvius\|SILVIO]] | È essere fatto tutto di sospiri e di [[Tears\|lacrime]],<br>e tale io sono per [[Phoebe]]. |
+| [[Phoebe\|PHOEBE]] | E io per Ganimede. |
+| [[Orlando\|ORLANDO]] | E io per [[Rosalind\|Rosalinda]]. |
+| [[Rosalind\|ROSALINDA]] | E io per nessuna donna. |
+| [[Silvius\|SILVIO]] | È essere fatto tutto di [[Faith\|fede]] e di servizio,<br>e tale io sono per [[Phoebe]]. |
+| [[Phoebe\|PHOEBE]] | E io per Ganimede. |
+| [[Orlando\|ORLANDO]] | E io per [[Rosalind\|Rosalinda]]. |
+| [[Rosalind\|ROSALINDA]] | E io per nessuna donna. |
+| [[Silvius\|SILVIO]] | È essere fatto tutto di fantasia,<br>tutto di passione, e tutto di desideri,<br>tutto adorazione, dovere e ossequio,<br>tutto umiltà, tutto pazienza e impazienza,<br>tutto purezza, tutto prova, tutto obbedienza,<br>e tale io sono per [[Phoebe]]. |
+| [[Phoebe\|PHOEBE]] | E tale io sono per Ganimede. |
+| [[Orlando\|ORLANDO]] | E tale io sono per [[Rosalind\|Rosalinda]]. |
+| [[Rosalind\|ROSALINDA]] | E tale io sono per nessuna donna. |
+| [[Phoebe\|PHOEBE]] | (a [[Rosalind\|Rosalinda]])<br>Se è così, perché mi rimproverate d’[[Love\|amarvi]]? |
+| [[Silvius\|SILVIO]] | (a [[Phoebe]])<br>Se è così, perché mi rimproverate d’[[Love\|amarvi]]? |
+| [[Orlando\|ORLANDO]] | Se è così, perché mi rimproverate d’[[Love\|amarvi]]? |
+| [[Rosalind\|ROSALINDA]] | Perché lo dite anche voi: ‘Perché mi rimproverate d’[[Love\|amarvi]]?’ |
+| [[Orlando\|ORLANDO]] | A colei che non è qui né mi ode. |
+| [[Rosalind\|ROSALINDA]] | Vi prego, basta con questo; è come l’ululare dei lupi d’Irlanda contro la [[Moon\|luna]]. (A [[Silvius\|Silvio]]) Vi aiuterò, se potrò. (A [[Phoebe]]) Vi [[Love\|amerei]], se potessi.—Domani trovatevi tutti insieme con me. (A [[Phoebe]]) Sposerò voi, se mai sposerò donna, e mi sposerò domani. (A [[Orlando]]) Soddisferò voi, se mai soddisferò uomo, e voi vi sposerete domani. (A [[Silvius\|Silvio]]) Contenterò voi, se ciò che vi piace vi contenta, e voi vi sposerete domani. (A [[Orlando]]) Come [[Love\|amate]] [[Rosalind\|Rosalinda]], trovatevi qui. (A [[Silvius\|Silvio]]) Come [[Love\|amate]] [[Phoebe]], trovatevi qui. E come io non [[Love\|amo]] nessuna donna, mi troverò qui. E dunque statevi [[Well\|bene]]. Vi ho lasciato i miei ordini. |
+| [[Silvius\|SILVIO]] | Non mancherò, se vivrò. |
+| [[Phoebe\|PHOEBE]] | Né io. |
+| [[Orlando\|ORLANDO]] | Né io. |
 | *(didascalia)* | Escono separatamente |
 
 
@@ -2978,20 +2978,20 @@ As You Like It
 | Chi parla | Battuta |
 |---|---|
 | *(didascalia)* | Entrano [[Touchstone]] il buffone e Audrey |
-| [[Touchstone|TOUCHSTONE]] | Domani è il giorno gioioso, Audrey; domani ci sposeremo. |
-| AUDREY | Lo [[Desire|desidero]] con tutto il cuore; e [[Hope|spero]] che non sia [[Desire|desiderio]] disonesto [[Desire|desiderare]] d’essere una donna del mondo. Ecco che vengono due paggi del Duca bandito. |
+| [[Touchstone\|TOUCHSTONE]] | Domani è il giorno gioioso, Audrey; domani ci sposeremo. |
+| AUDREY | Lo [[Desire\|desidero]] con tutto il cuore; e [[Hope\|spero]] che non sia [[Desire\|desiderio]] disonesto [[Desire\|desiderare]] d’essere una donna del mondo. Ecco che vengono due paggi del Duca bandito. |
 | *(didascalia)* | Entrano due Paggi |
-| PRIMO PAGGIO | [[Well|Ben]] trovato, onesto gentiluomo. |
-| [[Touchstone|TOUCHSTONE]] | Sulla mia parola, [[Well|ben]] trovati. Venite, sedete, sedete, e una [[Song|canzone]]. |
+| PRIMO PAGGIO | [[Well\|Ben]] trovato, onesto gentiluomo. |
+| [[Touchstone\|TOUCHSTONE]] | Sulla mia parola, [[Well\|ben]] trovati. Venite, sedete, sedete, e una [[Song\|canzone]]. |
 | SECONDO PAGGIO | Siamo ai vostri ordini. Sedete in mezzo. |
 | PRIMO PAGGIO | Ci buttiamo dentro di slancio, senza raschiare la gola, o sputare, o dire che siamo rauchi, che sono i soli prologhi a una cattiva voce? |
-| SECONDO PAGGIO | In [[Faith|fede]] mia, in [[Faith|fede]] mia, e tutt’e due sullo stesso tono, come due zingari su un [[Horse|cavallo]]. |
-| I DUE PAGGI | (cantano)<br>C’erano un [[Lover|innamorato]] e la sua ragazza,<br>con un hey, e un ho, e un hey-nonny-no,<br>che passavano pel verde campo di grano<br>nel [[Time|tempo]] di [[Spring|primavera]], il solo bel [[Time|tempo]] degli anelli,<br>quando gli [[Birds|uccelli]] cantano, hey ding-a-ding ding,<br>i dolci [[lovers|amanti]] [[Love|amano]] la [[Spring|primavera]].<br><br>Fra i solchi del campo di segale,<br>con un hey, e un ho, e un hey-nonny-no,<br>quei bei villani si sdraiavano,<br>nel [[Time|tempo]] di [[Spring|primavera]], il solo bel [[Time|tempo]] degli anelli,<br>quando gli [[Birds|uccelli]] cantano, hey ding-a-ding ding,<br>i dolci [[lovers|amanti]] [[Love|amano]] la [[Spring|primavera]].<br><br>Questo [[carol|canto]] intonarono in quell’ora,<br>con un hey, e un ho, e un hey-nonny-no,<br>che la vita non era che un fiore,<br>nel [[Time|tempo]] di [[Spring|primavera]], il solo bel [[Time|tempo]] degli anelli,<br>quando gli [[Birds|uccelli]] cantano, hey ding-a-ding ding,<br><br>i dolci [[lovers|amanti]] [[Love|amano]] la [[Spring|primavera]].<br>E perciò cogliete il [[Time|tempo]] presente,<br>con un hey, e un ho, e un hey-nonny-no,<br>ché l’[[Love|amore]] è coronato dalla primizia,<br>nel [[Time|tempo]] di [[Spring|primavera]], il solo bel [[Time|tempo]] degli anelli,<br>quando gli [[Birds|uccelli]] cantano, hey ding-a-ding ding,<br>i dolci [[lovers|amanti]] [[Love|amano]] la [[Spring|primavera]]. |
-| [[Touchstone|TOUCHSTONE]] | Davvero, giovani gentiluomini, benché non ci fosse gran sostanza nella cantilena, tuttavia la nota era assai stonata. |
-| PRIMO PAGGIO | V’ingannate, signore: tenemmo il [[Time|tempo]], non perdemmo il nostro [[Time|tempo]]. |
-| [[Touchstone|TOUCHSTONE]] | Sulla mia parola, sì: lo conto solo [[Time|tempo]] perduto, udire una [[Song|canzone]] così sciocca. Dio sia con voi, e Dio v’accomodi le voci. Vieni, Audrey. |
+| SECONDO PAGGIO | In [[Faith\|fede]] mia, in [[Faith\|fede]] mia, e tutt’e due sullo stesso tono, come due zingari su un [[Horse\|cavallo]]. |
+| I DUE PAGGI | (cantano)<br>C’erano un [[Lover\|innamorato]] e la sua ragazza,<br>con un hey, e un ho, e un hey-nonny-no,<br>che passavano pel verde campo di grano<br>nel [[Time\|tempo]] di [[Spring\|primavera]], il solo bel [[Time\|tempo]] degli anelli,<br>quando gli [[Birds\|uccelli]] cantano, hey ding-a-ding ding,<br>i dolci [[lovers\|amanti]] [[Love\|amano]] la [[Spring\|primavera]].<br><br>Fra i solchi del campo di segale,<br>con un hey, e un ho, e un hey-nonny-no,<br>quei bei villani si sdraiavano,<br>nel [[Time\|tempo]] di [[Spring\|primavera]], il solo bel [[Time\|tempo]] degli anelli,<br>quando gli [[Birds\|uccelli]] cantano, hey ding-a-ding ding,<br>i dolci [[lovers\|amanti]] [[Love\|amano]] la [[Spring\|primavera]].<br><br>Questo [[carol\|canto]] intonarono in quell’ora,<br>con un hey, e un ho, e un hey-nonny-no,<br>che la vita non era che un fiore,<br>nel [[Time\|tempo]] di [[Spring\|primavera]], il solo bel [[Time\|tempo]] degli anelli,<br>quando gli [[Birds\|uccelli]] cantano, hey ding-a-ding ding,<br><br>i dolci [[lovers\|amanti]] [[Love\|amano]] la [[Spring\|primavera]].<br>E perciò cogliete il [[Time\|tempo]] presente,<br>con un hey, e un ho, e un hey-nonny-no,<br>ché l’[[Love\|amore]] è coronato dalla primizia,<br>nel [[Time\|tempo]] di [[Spring\|primavera]], il solo bel [[Time\|tempo]] degli anelli,<br>quando gli [[Birds\|uccelli]] cantano, hey ding-a-ding ding,<br>i dolci [[lovers\|amanti]] [[Love\|amano]] la [[Spring\|primavera]]. |
+| [[Touchstone\|TOUCHSTONE]] | Davvero, giovani gentiluomini, benché non ci fosse gran sostanza nella cantilena, tuttavia la nota era assai stonata. |
+| PRIMO PAGGIO | V’ingannate, signore: tenemmo il [[Time\|tempo]], non perdemmo il nostro [[Time\|tempo]]. |
+| [[Touchstone\|TOUCHSTONE]] | Sulla mia parola, sì: lo conto solo [[Time\|tempo]] perduto, udire una [[Song\|canzone]] così sciocca. Dio sia con voi, e Dio v’accomodi le voci. Vieni, Audrey. |
 | *(didascalia)* | Escono |
-| [[Touchstone|TOUCHSTONE]] | separatamente |
+| [[Touchstone\|TOUCHSTONE]] | separatamente |
 
 
 
@@ -3070,67 +3070,67 @@ As You Like It
 
 | Chi parla | Battuta |
 |---|---|
-| *(didascalia)* | Entrano [[Duke Senior|il Duca Seniore]], Amiens, [[Jaques]], [[Orlando]], [[Oliver|Oliviero]] e [[Celia]] come Aliena |
-| [[Duke Senior|DUCA SENIORE]] | Credi tu, [[Orlando]], che il ragazzo<br>possa fare tutto ciò che ha promesso? |
-| [[Orlando|ORLANDO]] | Talvolta ci credo, e talvolta no,<br>come chi [[Fear|teme]] ciò che [[Hope|spera]], e sa di [[Fear|temere]]. |
-| *(didascalia)* | Entra [[Rosalind|Rosalinda]] come Ganimede, con [[Silvius|Silvio]] e |
-| [[Orlando|ORLANDO]] | [[Phoebe]] |
-| [[Rosalind|ROSALINDA]] | Pazienza ancora una volta, mentre si ribadisce il nostro patto.<br>(Al Duca) Voi dite che, se conduco qui la vostra [[Rosalind|Rosalinda]],<br>la donerete a [[Orlando]] qui presente? |
-| [[Duke Senior|DUCA SENIORE]] | Lo farei, avessi regni da darle in dote. |
-| [[Rosalind|ROSALINDA]] | (a [[Orlando]])<br>E voi dite che l’avrete, quando io la conduca? |
-| [[Orlando|ORLANDO]] | Lo vorrei, fossi [[King|re]] di tutti i regni. |
-| [[Rosalind|ROSALINDA]] | (a [[Phoebe]])<br>Voi dite che mi sposerete, se io sarò consenziente? |
-| [[Phoebe|PHOEBE]] | Lo farò, dovessi morire l’ora dopo. |
-| [[Rosalind|ROSALINDA]] | Ma se rifiutate di sposare me,<br>vi darete a questo fedelissimo pastore? |
-| [[Phoebe|PHOEBE]] | Tale è il patto. |
-| [[Rosalind|ROSALINDA]] | (a [[Silvius|Silvio]])<br>Voi dite che avrete [[Phoebe]], se ella vorrà. |
-| [[Silvius|SILVIO]] | Anche se averla e la [[Death|morte]] fossero una cosa sola. |
-| [[Rosalind|ROSALINDA]] | Ho promesso d’appianare tutta questa faccenda.<br>Mantenete voi la parola, o Duca, di dare vostra figlia.<br>Voi la vostra, [[Orlando]], di ricevere sua figlia.<br>Mantenete la parola, [[Phoebe]], che sposerete me,<br>o, rifiutando me, di sposare questo pastore.<br>Mantenete la parola, [[Silvius|Silvio]], che la sposerete<br>se ella rifiuta me; e di qui io vado<br>a render pari tutti questi dubbi. |
-| *(didascalia)* | Escono [[Rosalind|Rosalinda]] e [[Celia]] |
-| [[Duke Senior|DUCA SENIORE]] | Ricordo in questo ragazzo pastore<br>certi vivaci tratti del volto di mia figlia. |
-| [[Orlando|ORLANDO]] | Mio signore, la prima [[Time|volta]] ch’io lo vidi,<br>mi parve fosse un fratello di vostra figlia.<br>Ma, mio buon signore, questo ragazzo è nato nella foresta,<br>ed è stato istruito nei rudimenti<br>di molti studi arditi da suo zio,<br>ch’egli dice essere un gran mago<br>nascosto nel cerchio di questa foresta. |
+| *(didascalia)* | Entrano [[Duke Senior\|il Duca Seniore]], Amiens, [[Jaques]], [[Orlando]], [[Oliver\|Oliviero]] e [[Celia]] come Aliena |
+| [[Duke Senior\|DUCA SENIORE]] | Credi tu, [[Orlando]], che il ragazzo<br>possa fare tutto ciò che ha promesso? |
+| [[Orlando\|ORLANDO]] | Talvolta ci credo, e talvolta no,<br>come chi [[Fear\|teme]] ciò che [[Hope\|spera]], e sa di [[Fear\|temere]]. |
+| *(didascalia)* | Entra [[Rosalind\|Rosalinda]] come Ganimede, con [[Silvius\|Silvio]] e |
+| [[Orlando\|ORLANDO]] | [[Phoebe]] |
+| [[Rosalind\|ROSALINDA]] | Pazienza ancora una volta, mentre si ribadisce il nostro patto.<br>(Al Duca) Voi dite che, se conduco qui la vostra [[Rosalind\|Rosalinda]],<br>la donerete a [[Orlando]] qui presente? |
+| [[Duke Senior\|DUCA SENIORE]] | Lo farei, avessi regni da darle in dote. |
+| [[Rosalind\|ROSALINDA]] | (a [[Orlando]])<br>E voi dite che l’avrete, quando io la conduca? |
+| [[Orlando\|ORLANDO]] | Lo vorrei, fossi [[King\|re]] di tutti i regni. |
+| [[Rosalind\|ROSALINDA]] | (a [[Phoebe]])<br>Voi dite che mi sposerete, se io sarò consenziente? |
+| [[Phoebe\|PHOEBE]] | Lo farò, dovessi morire l’ora dopo. |
+| [[Rosalind\|ROSALINDA]] | Ma se rifiutate di sposare me,<br>vi darete a questo fedelissimo pastore? |
+| [[Phoebe\|PHOEBE]] | Tale è il patto. |
+| [[Rosalind\|ROSALINDA]] | (a [[Silvius\|Silvio]])<br>Voi dite che avrete [[Phoebe]], se ella vorrà. |
+| [[Silvius\|SILVIO]] | Anche se averla e la [[Death\|morte]] fossero una cosa sola. |
+| [[Rosalind\|ROSALINDA]] | Ho promesso d’appianare tutta questa faccenda.<br>Mantenete voi la parola, o Duca, di dare vostra figlia.<br>Voi la vostra, [[Orlando]], di ricevere sua figlia.<br>Mantenete la parola, [[Phoebe]], che sposerete me,<br>o, rifiutando me, di sposare questo pastore.<br>Mantenete la parola, [[Silvius\|Silvio]], che la sposerete<br>se ella rifiuta me; e di qui io vado<br>a render pari tutti questi dubbi. |
+| *(didascalia)* | Escono [[Rosalind\|Rosalinda]] e [[Celia]] |
+| [[Duke Senior\|DUCA SENIORE]] | Ricordo in questo ragazzo pastore<br>certi vivaci tratti del volto di mia figlia. |
+| [[Orlando\|ORLANDO]] | Mio signore, la prima [[Time\|volta]] ch’io lo vidi,<br>mi parve fosse un fratello di vostra figlia.<br>Ma, mio buon signore, questo ragazzo è nato nella foresta,<br>ed è stato istruito nei rudimenti<br>di molti studi arditi da suo zio,<br>ch’egli dice essere un gran mago<br>nascosto nel cerchio di questa foresta. |
 | *(didascalia)* | Entrano [[Touchstone]] il buffone e Audrey |
-| [[Jaques|JAQUES]] | Certo s’avvicina un altro diluvio, e queste coppie vengono all’arca. Ecco che viene un paio di bestie assai strane, che in tutte le lingue si chiamano sciocchi. |
-| [[Touchstone|TOUCHSTONE]] | Salute e saluti a tutti voi. |
-| [[Jaques|JAQUES]] | (al Duca) Mio buon signore, dategli il benvenuto. Questo è il gentiluomo dalla mente variopinta che ho così spesso incontrato nella foresta. È stato cortigiano, giura lui. |
-| [[Touchstone|TOUCHSTONE]] | Se qualcuno ne [[Doubt|dubita]], mi metta alla prova. Ho ballato una danza, ho adulato una dama, sono stato politico con l’amico, blando col nemico, ho rovinato tre sarti, ho avuto quattro liti, e per poco non ne combattevo una. |
-| [[Jaques|JAQUES]] | E come fu appianata? |
-| [[Touchstone|TOUCHSTONE]] | [[Faith|In fede mia]], c’incontrammo, e trovammo che la lite verteva sulla settima causa. |
-| [[Jaques|JAQUES]] | Come, settima causa?—Mio buon signore, gradite costui. |
-| [[Duke Senior|DUCA SENIORE]] | Mi piace molto [[Well|bene]]. |
-| [[Touchstone|TOUCHSTONE]] | Dio ve ne renda merito, signore; [[Desire|desidero]] altrettanto da voi. Mi caccio qui, signore, fra gli altri copulativi di campagna, a giurare e a spergiurare, secondo che il [[Marriage|matrimonio]] lega e il [[Blood|sangue]] rompe. Una povera vergine, signore, una cosa brutta, signore, ma mia. Un mio povero [[Humour|umore]], signore, di prendere ciò che nessun altro vuole. La ricca onestà abita come un avaro, signore, in una povera [[house|casa]], come la vostra perla nella vostra ostrica immonda. |
-| [[Duke Senior|DUCA SENIORE]] | In [[Faith|fede]] mia, è assai svelto e sentenzioso. |
-| [[Touchstone|TOUCHSTONE]] | Secondo il dardo dello [[Fool|sciocco]], signore, e simili dolci malattie. |
-| [[Jaques|JAQUES]] | Ma quanto alla settima causa. Come trovaste la lite sulla settima causa? |
-| [[Touchstone|TOUCHSTONE]] | Sopra una menzogna rimossa sette volte.—Porta il [[Body|corpo]] con più decoro, Audrey.—Così, signore: a me dispiacque il taglio della barba d’un certo cortigiano. Mi mandò a dire che, se io dicevo che la sua barba non era tagliata [[Well|bene]], egli era d’avviso che lo fosse. Questo si chiama il Rimando Cortese. Se io gli rimandavo a dire che non era tagliata [[Well|bene]], egli mi mandava a dire che la tagliava per piacere a sé. Questo si chiama la Frecciata Modesta. Se di nuovo non era tagliata [[Well|bene]], egli squalificava il mio giudizio. Questo si chiama la Replica Villana. Se di nuovo non era tagliata [[Well|bene]], egli rispondeva che io non dicevo il vero. Questo si chiama il Rimprovero Valoroso. Se di nuovo non era tagliata [[Well|bene]], egli diceva ch’io mentivo. Questo si chiama il Contraccolpo Litigioso. E così alla Menzogna Circostanziata, e alla Menzogna Diretta. |
-| [[Jaques|JAQUES]] | E quante volte diceste che la sua barba non era tagliata [[Well|bene]]? |
-| [[Touchstone|TOUCHSTONE]] | Non osai andare oltre la Menzogna Circostanziata, né egli osò darmi la Menzogna Diretta; e così misurammo le spade, e ci separammo. |
-| [[Jaques|JAQUES]] | Sapete voi ora nominare in ordine i gradi della menzogna? |
-| [[Touchstone|TOUCHSTONE]] | Oh signore, noi litighiamo a stampa, secondo il libro, come voi avete libri di buone maniere. Vi nominerò i gradi. Il primo, il Rimando Cortese; il secondo, la Frecciata Modesta; il terzo, la Replica Villana; il quarto, il Rimprovero Valoroso; il quinto, il Contraccolpo Litigioso; il sesto, la Menzogna con Circostanza; il settimo, la Menzogna Diretta. Tutti questi potete evitarli, tranne la Menzogna Diretta; e potete evitare anche quella, con un ‘se’. Ho conosciuto casi in cui sette giudici non poterono appianare una lite; ma quando le parti stesse s’incontrarono, uno di loro pensò soltanto a un ‘se’, come ‘Se voi diceste così, allora io dissi così’, e si strinsero la mano e giurarono fratellanza. Il vostro ‘se’ è il solo paciere; molta virtù nel ‘se’. |
-| [[Jaques|JAQUES]] | (al Duca) Non è costui un tipo raro, mio signore? È bravo in ogni cosa, e tuttavia è uno [[Fool|sciocco]]. |
-| [[Duke Senior|DUCA SENIORE]] | Usa la sua follia come un [[Horse|cavallo]] da posta, e sotto la copertura di quello scocca il suo ingegno. |
-| *(didascalia)* | Musica sommessa Entra Imene con [[Rosalind|Rosalinda]] e [[Celia]] in veste di sé stesse |
+| [[Jaques\|JAQUES]] | Certo s’avvicina un altro diluvio, e queste coppie vengono all’arca. Ecco che viene un paio di bestie assai strane, che in tutte le lingue si chiamano sciocchi. |
+| [[Touchstone\|TOUCHSTONE]] | Salute e saluti a tutti voi. |
+| [[Jaques\|JAQUES]] | (al Duca) Mio buon signore, dategli il benvenuto. Questo è il gentiluomo dalla mente variopinta che ho così spesso incontrato nella foresta. È stato cortigiano, giura lui. |
+| [[Touchstone\|TOUCHSTONE]] | Se qualcuno ne [[Doubt\|dubita]], mi metta alla prova. Ho ballato una danza, ho adulato una dama, sono stato politico con l’amico, blando col nemico, ho rovinato tre sarti, ho avuto quattro liti, e per poco non ne combattevo una. |
+| [[Jaques\|JAQUES]] | E come fu appianata? |
+| [[Touchstone\|TOUCHSTONE]] | [[Faith\|In fede mia]], c’incontrammo, e trovammo che la lite verteva sulla settima causa. |
+| [[Jaques\|JAQUES]] | Come, settima causa?—Mio buon signore, gradite costui. |
+| [[Duke Senior\|DUCA SENIORE]] | Mi piace molto [[Well\|bene]]. |
+| [[Touchstone\|TOUCHSTONE]] | Dio ve ne renda merito, signore; [[Desire\|desidero]] altrettanto da voi. Mi caccio qui, signore, fra gli altri copulativi di campagna, a giurare e a spergiurare, secondo che il [[Marriage\|matrimonio]] lega e il [[Blood\|sangue]] rompe. Una povera vergine, signore, una cosa brutta, signore, ma mia. Un mio povero [[Humour\|umore]], signore, di prendere ciò che nessun altro vuole. La ricca onestà abita come un avaro, signore, in una povera [[house\|casa]], come la vostra perla nella vostra ostrica immonda. |
+| [[Duke Senior\|DUCA SENIORE]] | In [[Faith\|fede]] mia, è assai svelto e sentenzioso. |
+| [[Touchstone\|TOUCHSTONE]] | Secondo il dardo dello [[Fool\|sciocco]], signore, e simili dolci malattie. |
+| [[Jaques\|JAQUES]] | Ma quanto alla settima causa. Come trovaste la lite sulla settima causa? |
+| [[Touchstone\|TOUCHSTONE]] | Sopra una menzogna rimossa sette volte.—Porta il [[Body\|corpo]] con più decoro, Audrey.—Così, signore: a me dispiacque il taglio della barba d’un certo cortigiano. Mi mandò a dire che, se io dicevo che la sua barba non era tagliata [[Well\|bene]], egli era d’avviso che lo fosse. Questo si chiama il Rimando Cortese. Se io gli rimandavo a dire che non era tagliata [[Well\|bene]], egli mi mandava a dire che la tagliava per piacere a sé. Questo si chiama la Frecciata Modesta. Se di nuovo non era tagliata [[Well\|bene]], egli squalificava il mio giudizio. Questo si chiama la Replica Villana. Se di nuovo non era tagliata [[Well\|bene]], egli rispondeva che io non dicevo il vero. Questo si chiama il Rimprovero Valoroso. Se di nuovo non era tagliata [[Well\|bene]], egli diceva ch’io mentivo. Questo si chiama il Contraccolpo Litigioso. E così alla Menzogna Circostanziata, e alla Menzogna Diretta. |
+| [[Jaques\|JAQUES]] | E quante volte diceste che la sua barba non era tagliata [[Well\|bene]]? |
+| [[Touchstone\|TOUCHSTONE]] | Non osai andare oltre la Menzogna Circostanziata, né egli osò darmi la Menzogna Diretta; e così misurammo le spade, e ci separammo. |
+| [[Jaques\|JAQUES]] | Sapete voi ora nominare in ordine i gradi della menzogna? |
+| [[Touchstone\|TOUCHSTONE]] | Oh signore, noi litighiamo a stampa, secondo il libro, come voi avete libri di buone maniere. Vi nominerò i gradi. Il primo, il Rimando Cortese; il secondo, la Frecciata Modesta; il terzo, la Replica Villana; il quarto, il Rimprovero Valoroso; il quinto, il Contraccolpo Litigioso; il sesto, la Menzogna con Circostanza; il settimo, la Menzogna Diretta. Tutti questi potete evitarli, tranne la Menzogna Diretta; e potete evitare anche quella, con un ‘se’. Ho conosciuto casi in cui sette giudici non poterono appianare una lite; ma quando le parti stesse s’incontrarono, uno di loro pensò soltanto a un ‘se’, come ‘Se voi diceste così, allora io dissi così’, e si strinsero la mano e giurarono fratellanza. Il vostro ‘se’ è il solo paciere; molta virtù nel ‘se’. |
+| [[Jaques\|JAQUES]] | (al Duca) Non è costui un tipo raro, mio signore? È bravo in ogni cosa, e tuttavia è uno [[Fool\|sciocco]]. |
+| [[Duke Senior\|DUCA SENIORE]] | Usa la sua follia come un [[Horse\|cavallo]] da posta, e sotto la copertura di quello scocca il suo ingegno. |
+| *(didascalia)* | Musica sommessa Entra Imene con [[Rosalind\|Rosalinda]] e [[Celia]] in veste di sé stesse |
 | IMENE | Allora v’è letizia in cielo<br>quando le cose terrene, fatte pari,<br>si riconciliano insieme.<br>Buon Duca, ricevi tua figlia;<br>Imene dal cielo la portò,<br>sì, la portò qui,<br>perché tu potessi unire la sua mano con quella di colui<br>il cui cuore è dentro il suo petto. |
-| [[Rosalind|ROSALINDA]] | (al Duca)<br>A voi mi dono, ché sono vostra.<br>(A [[Orlando]]) A voi mi dono, ché sono vostra. |
-| [[Duke Senior|DUCA SENIORE]] | Se v’è [[Truth|verità]] nella vista, tu sei mia figlia. |
-| [[Orlando|ORLANDO]] | Se v’è [[Truth|verità]] nella vista, voi siete la mia [[Rosalind|Rosalinda]]. |
-| [[Phoebe|PHOEBE]] | Se vista e figura son vere,<br>ebbene, addio, [[Love|amore]] mio! |
-| [[Rosalind|ROSALINDA]] | (al Duca)<br>Non avrò padre, se non siete voi.<br>(A [[Orlando]]) Non avrò marito, se non siete voi,<br>(A [[Phoebe]]) né mai sposerò donna, se non siete voi. |
-| IMENE | Pace, olà, io vieto la confusione.<br>Sono io che devo dar conclusione<br>a questi eventi stranissimi.<br>Eccone otto che devon prendersi per mano<br>per unirsi nei vincoli d’Imene,<br>se la [[Truth|verità]] tien fede al suo contenuto.<br>(A [[Orlando]] e [[Rosalind|Rosalinda]])<br>Voi e voi nessuna [[Cross|croce]] separerà.<br>(A [[Oliver|Oliviero]] e [[Celia]])<br>Voi e voi siete cuore con cuore.<br>(A [[Phoebe]])<br>Voi dovete accordarvi al suo [[Love|amore]],<br>o avere una donna per signore.<br>(A [[Touchstone]] e Audrey)<br>Voi e voi state uniti di certo<br>come l’[[Winter|inverno]] al cattivo tempo.—<br>Mentre cantiamo un [[Hymn|inno]] nuziale,<br>nutritevi di domande,<br>perché la ragione scemi lo [[Wonder|stupore]]<br>di come così ci siamo incontrati, e queste cose han fine. |
-| *(didascalia)* | [[Song|Canzone]] |
-| IMENE | Le nozze son la [[Crown|corona]] della gran Giunone,<br>o benedetto vincolo di mensa e di letto.<br>È Imene che popola ogni città.<br>Sia dunque onorato l’alto connubio.<br>[[Honour|Onore]], alto [[Honour|onore]] e fama<br>a Imene, dio d’ogni città. |
-| [[Duke Senior|DUCA SENIORE]] | (a [[Celia]])<br>O mia cara nipote, benvenuta tu sei per me,<br>proprio come figlia; benvenuta in non minor grado. |
-| [[Phoebe|PHOEBE]] | (a [[Silvius|Silvio]].)<br>Non rimangerò la mia parola. Ora tu sei mio,<br>la tua [[Faith|fede]] congiunge a te il mio affetto. |
+| [[Rosalind\|ROSALINDA]] | (al Duca)<br>A voi mi dono, ché sono vostra.<br>(A [[Orlando]]) A voi mi dono, ché sono vostra. |
+| [[Duke Senior\|DUCA SENIORE]] | Se v’è [[Truth\|verità]] nella vista, tu sei mia figlia. |
+| [[Orlando\|ORLANDO]] | Se v’è [[Truth\|verità]] nella vista, voi siete la mia [[Rosalind\|Rosalinda]]. |
+| [[Phoebe\|PHOEBE]] | Se vista e figura son vere,<br>ebbene, addio, [[Love\|amore]] mio! |
+| [[Rosalind\|ROSALINDA]] | (al Duca)<br>Non avrò padre, se non siete voi.<br>(A [[Orlando]]) Non avrò marito, se non siete voi,<br>(A [[Phoebe]]) né mai sposerò donna, se non siete voi. |
+| IMENE | Pace, olà, io vieto la confusione.<br>Sono io che devo dar conclusione<br>a questi eventi stranissimi.<br>Eccone otto che devon prendersi per mano<br>per unirsi nei vincoli d’Imene,<br>se la [[Truth\|verità]] tien fede al suo contenuto.<br>(A [[Orlando]] e [[Rosalind\|Rosalinda]])<br>Voi e voi nessuna [[Cross\|croce]] separerà.<br>(A [[Oliver\|Oliviero]] e [[Celia]])<br>Voi e voi siete cuore con cuore.<br>(A [[Phoebe]])<br>Voi dovete accordarvi al suo [[Love\|amore]],<br>o avere una donna per signore.<br>(A [[Touchstone]] e Audrey)<br>Voi e voi state uniti di certo<br>come l’[[Winter\|inverno]] al cattivo tempo.—<br>Mentre cantiamo un [[Hymn\|inno]] nuziale,<br>nutritevi di domande,<br>perché la ragione scemi lo [[Wonder\|stupore]]<br>di come così ci siamo incontrati, e queste cose han fine. |
+| *(didascalia)* | [[Song\|Canzone]] |
+| IMENE | Le nozze son la [[Crown\|corona]] della gran Giunone,<br>o benedetto vincolo di mensa e di letto.<br>È Imene che popola ogni città.<br>Sia dunque onorato l’alto connubio.<br>[[Honour\|Onore]], alto [[Honour\|onore]] e fama<br>a Imene, dio d’ogni città. |
+| [[Duke Senior\|DUCA SENIORE]] | (a [[Celia]])<br>O mia cara nipote, benvenuta tu sei per me,<br>proprio come figlia; benvenuta in non minor grado. |
+| [[Phoebe\|PHOEBE]] | (a [[Silvius\|Silvio]].)<br>Non rimangerò la mia parola. Ora tu sei mio,<br>la tua [[Faith\|fede]] congiunge a te il mio affetto. |
 | *(didascalia)* | Entra [[Jaques]] de Bois, il secondo fratello |
-| [[Jaques|JAQUES]] DE BOIS | Datemi udienza per una parola o due.<br>Io sono il secondo figlio del vecchio Sir Rowland,<br>e reco queste novelle a questa bella assemblea.<br>[[Duke Frederick|Il Duca Federico]], udendo come ogni giorno<br>uomini di gran valore accorressero a questa foresta,<br>raccolse una potente forza, ch’era in marcia,<br>sotto il suo comando, apposta per prendere<br>suo fratello qui presente, e passarlo a fil di [[Sword|spada]].<br>E ai margini di questo bosco selvaggio egli venne<br>dove, incontrando un vecchio religioso,<br>dopo qualche colloquio con lui fu convertito<br>e dalla sua impresa e dal mondo,<br>lasciando la sua [[Crown|corona]] al fratello bandito,<br>e restituendo tutte le loro terre a coloro<br>che con lui erano esiliati. Che questo sia vero<br>ne impegno la mia vita. |
-| [[Duke Senior|DUCA SENIORE]] | Benvenuto, giovane.<br>Tu offri un bel dono alle nozze dei tuoi fratelli:<br>all’uno le sue terre trattenute, e all’altro<br>una terra intera e vasta, un potente ducato.<br>Prima, in questa foresta, compiamo quei fini<br>che qui furono [[Well|ben]] cominciati e [[Well|ben]] generati.<br>E dopo, ciascuno di questo felice numero<br>che ha sopportato con noi giorni e notti aspri<br>dividerà il bene della nostra fortuna ritornata<br>secondo la misura del suo stato.<br>Frattanto, dimenticate questa dignità appena caduta<br>e abbandonatevi al nostro rustico tripudio.<br>Suonate, musici, e voi tutte spose e voi tutti sposi,<br>con misura colma di gioia entrate nelle misure della danza. |
-| [[Jaques|JAQUES]] | Signore, con vostra pazienza. (A [[Jaques]] de Bois) Se v’ho udito<br>bene,<br>il Duca ha preso vita religiosa<br>e ha gettato nell’abbandono la pomposa [[Court|corte]]. |
-| [[Jaques|JAQUES]] DE BOIS | L’ha fatto. |
-| [[Jaques|JAQUES]] | A lui andrò. Da questi convertiti<br>c’è molta materia da udire e da imparare.<br>(Al Duca)<br>Voi al vostro antico [[Honour|onore]] io lascio;<br>la vostra pazienza e la vostra virtù [[Well|ben]] lo meritano.<br>(A [[Orlando]])<br>Voi a un [[Love|amore]] che la vostra vera [[Faith|fede]] merita;<br>(A [[Oliver|Oliviero]])<br><br>Voi alla vostra terra, e all’[[Love|amore]], e a grandi alleanze;<br>(A [[Silvius|Silvio]])<br><br>Voi a un lungo e [[Well|ben]] meritato letto;<br>(A [[Touchstone]])<br><br>E voi ai litigi, ché il tuo amoroso viaggio<br>è vettovagliato solo per due mesi.—Dunque, ai vostri<br>piaceri;<br>io son fatto per altro che per misure di danza. |
-| [[Duke Senior|DUCA SENIORE]] | Restate, [[Jaques]], restate. |
-| [[Jaques|JAQUES]] | Io non per veder passatempi. Ciò che volete<br>resterò a saperlo nella vostra [[Cave|caverna]] abbandonata. Esce |
-| [[Duke Senior|DUCA SENIORE]] | Procedete, procedete. Cominceremo questi riti<br>come confidiamo ch’essi finiranno, in veri diletti. |
-| *(didascalia)* | [[Dance|Danzano]]; poi escono tutti tranne [[Rosalind|Rosalinda]] |
-| [[Duke Senior|DUCA SENIORE]] | Epilogo |
-| [[Rosalind|ROSALINDA]] | (al pubblico) Non è usanza vedere la dama fare l’epilogo; ma non è più sconveniente che vedere il signore fare il prologo. Se è vero che il buon vino non ha bisogno di frasca, è vero che una buona commedia non ha bisogno d’epilogo. Eppure al buon vino si usa mettere buone frasche, e le buone commedie riescono migliori con l’aiuto di buoni epiloghi. In che caso mi trovo dunque io, che non sono un buon epilogo né posso insinuarmi presso di voi in favore d’una buona commedia! Non sono vestita da mendicante, perciò mendicare non mi s’addice. La mia via è di scongiurarvi; e comincerò dalle donne. Vi scongiuro, o donne, per l’[[Love|amore]] che portate agli uomini, di gradire di questa commedia quanto vi piace. E vi scongiuro, o uomini, per l’[[Love|amore]] che portate alle donne—ché m’accorgo dai vostri sorrisetti che nessuno di voi le odia—che fra voi e le donne la commedia possa piacere. Se fossi una donna, bacerei quanti di voi avessero barbe che mi piacciono, carnagioni che mi vanno a genio, e aliti che non mi ripugnano. E son certa che quanti hanno buone barbe, o bei volti, o aliti dolci, per la mia gentile offerta, quando farò la riverenza, mi diranno addio. |
+| [[Jaques\|JAQUES]] DE BOIS | Datemi udienza per una parola o due.<br>Io sono il secondo figlio del vecchio Sir Rowland,<br>e reco queste novelle a questa bella assemblea.<br>[[Duke Frederick\|Il Duca Federico]], udendo come ogni giorno<br>uomini di gran valore accorressero a questa foresta,<br>raccolse una potente forza, ch’era in marcia,<br>sotto il suo comando, apposta per prendere<br>suo fratello qui presente, e passarlo a fil di [[Sword\|spada]].<br>E ai margini di questo bosco selvaggio egli venne<br>dove, incontrando un vecchio religioso,<br>dopo qualche colloquio con lui fu convertito<br>e dalla sua impresa e dal mondo,<br>lasciando la sua [[Crown\|corona]] al fratello bandito,<br>e restituendo tutte le loro terre a coloro<br>che con lui erano esiliati. Che questo sia vero<br>ne impegno la mia vita. |
+| [[Duke Senior\|DUCA SENIORE]] | Benvenuto, giovane.<br>Tu offri un bel dono alle nozze dei tuoi fratelli:<br>all’uno le sue terre trattenute, e all’altro<br>una terra intera e vasta, un potente ducato.<br>Prima, in questa foresta, compiamo quei fini<br>che qui furono [[Well\|ben]] cominciati e [[Well\|ben]] generati.<br>E dopo, ciascuno di questo felice numero<br>che ha sopportato con noi giorni e notti aspri<br>dividerà il bene della nostra fortuna ritornata<br>secondo la misura del suo stato.<br>Frattanto, dimenticate questa dignità appena caduta<br>e abbandonatevi al nostro rustico tripudio.<br>Suonate, musici, e voi tutte spose e voi tutti sposi,<br>con misura colma di gioia entrate nelle misure della danza. |
+| [[Jaques\|JAQUES]] | Signore, con vostra pazienza. (A [[Jaques]] de Bois) Se v’ho udito<br>bene,<br>il Duca ha preso vita religiosa<br>e ha gettato nell’abbandono la pomposa [[Court\|corte]]. |
+| [[Jaques\|JAQUES]] DE BOIS | L’ha fatto. |
+| [[Jaques\|JAQUES]] | A lui andrò. Da questi convertiti<br>c’è molta materia da udire e da imparare.<br>(Al Duca)<br>Voi al vostro antico [[Honour\|onore]] io lascio;<br>la vostra pazienza e la vostra virtù [[Well\|ben]] lo meritano.<br>(A [[Orlando]])<br>Voi a un [[Love\|amore]] che la vostra vera [[Faith\|fede]] merita;<br>(A [[Oliver\|Oliviero]])<br><br>Voi alla vostra terra, e all’[[Love\|amore]], e a grandi alleanze;<br>(A [[Silvius\|Silvio]])<br><br>Voi a un lungo e [[Well\|ben]] meritato letto;<br>(A [[Touchstone]])<br><br>E voi ai litigi, ché il tuo amoroso viaggio<br>è vettovagliato solo per due mesi.—Dunque, ai vostri<br>piaceri;<br>io son fatto per altro che per misure di danza. |
+| [[Duke Senior\|DUCA SENIORE]] | Restate, [[Jaques]], restate. |
+| [[Jaques\|JAQUES]] | Io non per veder passatempi. Ciò che volete<br>resterò a saperlo nella vostra [[Cave\|caverna]] abbandonata. Esce |
+| [[Duke Senior\|DUCA SENIORE]] | Procedete, procedete. Cominceremo questi riti<br>come confidiamo ch’essi finiranno, in veri diletti. |
+| *(didascalia)* | [[Dance\|Danzano]]; poi escono tutti tranne [[Rosalind\|Rosalinda]] |
+| [[Duke Senior\|DUCA SENIORE]] | Epilogo |
+| [[Rosalind\|ROSALINDA]] | (al pubblico) Non è usanza vedere la dama fare l’epilogo; ma non è più sconveniente che vedere il signore fare il prologo. Se è vero che il buon vino non ha bisogno di frasca, è vero che una buona commedia non ha bisogno d’epilogo. Eppure al buon vino si usa mettere buone frasche, e le buone commedie riescono migliori con l’aiuto di buoni epiloghi. In che caso mi trovo dunque io, che non sono un buon epilogo né posso insinuarmi presso di voi in favore d’una buona commedia! Non sono vestita da mendicante, perciò mendicare non mi s’addice. La mia via è di scongiurarvi; e comincerò dalle donne. Vi scongiuro, o donne, per l’[[Love\|amore]] che portate agli uomini, di gradire di questa commedia quanto vi piace. E vi scongiuro, o uomini, per l’[[Love\|amore]] che portate alle donne—ché m’accorgo dai vostri sorrisetti che nessuno di voi le odia—che fra voi e le donne la commedia possa piacere. Se fossi una donna, bacerei quanti di voi avessero barbe che mi piacciono, carnagioni che mi vanno a genio, e aliti che non mi ripugnano. E son certa che quanti hanno buone barbe, o bei volti, o aliti dolci, per la mia gentile offerta, quando farò la riverenza, mi diranno addio. |
 | *(didascalia)* | Esce |

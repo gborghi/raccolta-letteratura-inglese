@@ -11,6 +11,73 @@ tags:
 <div class="atom-reader" data-work="testi/dickens/atomized/martin_chuzzlewit" data-author="Dickens" data-workhref="works/martin-chuzzlewit-(dickens)"></div>
 
 
+<span class="atom-split" data-atom="chapter_08--part_02.it-(desktop-l2ks9qk's-conflicted-copy-2026-07-30)" data-title="Martin Chuzzlewit — Capitolo 8 (parte 2)" data-chapter="Chapter 08" data-kind="intro" data-tags="archetype/damsel,motif/birds,motif/grave,motif/home,motif/love,motif/silence,motif/time,motif/well,concept/charity,concept/education,concept/mercy,concept/wonder,setting/london,character/martin_chuzzlewit"></span>
+
+
+“Offeso, mio caro signore!” esclamò quel gentiluomo, come se avesse ricevuto i più grandi complimenti che la lingua potesse esprimere.
+
+“Vi state recando a [[London|Londra]], signor Pecksniff?”, chiese il figlio.
+
+“Sì, signor Jonas, stiamo viaggiando verso [[London|Londra]]. Spero che avremo il piacere della sua compagnia per tutto il tragitto, vero?”
+
+“Oh! Ecod, sarebbe meglio che tu chiedesselo a papà,” disse Jonas. “Io non intendo assumermi alcuna responsabilità.”
+
+Naturalmente, il signor Pecksniff fu molto divertito da questa risposta. Dopo che la sua ilarità si era placata, il signor Jonas gli spiegò che lui e suo padre stavano effettivamente viaggiando verso la loro [[Home|casa]] nella capitale; e che, da quel memorabile giorno della grande riunione familiare, erano rimasti in quella zona del paese per osservare la vendita di alcune opportunità di investimento, che avevano preso in considerazione fin dall’inizio del loro viaggio. Infatti, secondo il signor Jonas, era loro abitudine, ogni volta che fosse possibile, “uccidere due uccelli con una pietra” e mai sprecare nulla, ma utilizzarlo sempre a vantaggio proprio. Dopo aver comunicato queste informazioni al signor Pecksniff, aggiunse: “Se per lei non fa differenza, glielo lascio e vado a parlare con le ragazze”; quindi si alzò dal posto accanto a quel gentiluomo e si sistemò nell’angolo opposto, vicino alla bella signorina [[Mercy]].
+
+L’[[Education|educazione]] del signor Jonas era stata impartita fin dalla sua infanzia secondo i principi più rigorosi legati all’idea della “prima opportunità”. La prima parola che imparò a scrivere fu “guadagno”, e la seconda (quando la parola divenne composta da due sillabe) fu “denaro”. Tuttavia, per due aspetti che forse i suoi genitori attenti non avevano previsto all’inizio, si può dire che il suo percorso educativo fosse stato senza eccezioni. Uno di questi difetti era che, essendo stato da tempo insegnato dal padre ad “superare tutti”, aveva gradualmente sviluppato un’ossessione per l’eccesso in ogni azione, tale da superare persino i limiti imposti da quel rigido educatore. L’altro difetto derivava dalle sue abitudini fin da piccolo di considerare tutto come una questione di proprietà: gradualmente aveva iniziato a vedere i propri genitori come una sorta di “beni personali” che non avevano alcun diritto di essere liberi, ma dovevano essere “conservati” in quella particolare forma di “sicurezza”, comunemente definita bara, e depositati nella [[Grave|tomba]].
+
+“Beh, cugino!” disse il signor Jonas, “Dopotutto siamo cugini, anche se di qualche generazione più lontana. Quindi andrai a [[London|Londra]]?”
+
+La signorina [[Mercy]] rispose affermativamente, pizzicando al contempo il braccio di sua sorella e ridendo in modo eccessivo.
+
+“Ci sono molti bei ragazzi a [[London|Londra]], cugina!” disse il signor Jonas, spingendo leggermente in avanti il gomito.
+
+“Certamente, signore!” esclamò la giovane signorina. “Non ci faranno del male, signore, oserei dire.” E dopo avergli dato questa risposta con grande timidezza, fu talmente sopraffatta dal proprio [[Humour|umorismo]] che dovette trattenere le risate dentro il scialle di sua sorella.
+
+“Merry,” esclamò quella più saggia delle ragazze, “davvero mi vergogno di te. Come puoi continuare a comportarti in questo modo? Sei proprio una sciocca!” A queste parole, naturalmente, Miss Merry rise ancora di più.
+
+“Un giorno ho visto una certa selvaggiazza nei suoi occhi,” disse il signor Jonas rivolgendosi a [[Charity|Carity]]. “Ma sei tu quella che sembra sempre così seria. Dico davvero: eri sempre così rigida e composta, cugina!”
+
+“Oh! Che modo così antiquato di spaventare le persone!” esclamò Merry sottovoce. “Cara Cherry, devi assolutamente sederti accanto a lui. Morirò se continuerà a parlarmi; davvero!” Per evitare questa conseguenza fatale, la vivace ragazza si alzò dal suo posto e spinse sua sorella nel posto che aveva appena lasciato libero.
+
+“Non vi preoccupate se mi stringete un po’,” gridò il signor Jonas. “Mi piace essere circondato da ragazze. Avvicinatevi di più, cugina.”
+
+“No, grazie, signore,” disse [[Charity]].
+
+“C’è quella là che ride di nuovo,” disse il signor Jonas; “ride di mio padre, non dovrebbe sorprendermi. Se si mette quella vecchia berretta di flanella, chissà cosa farà! Mio padre sta russando, Pecksniff?”
+
+“Sì, signor Jonas.”
+
+“Calpesterai il suo piede, davvero sarai così gentile?” disse il giovane signore.  
+“Il piede accanto a te è quello affetto da gotta.”
+
+Il signor Pecksniff esitava ad adempiere a questo gentile dovere, ma il signor Jonas lo fece da solo; nel frattempo piangeva.
+
+“Su, svegliati, padre, altrimenti farai l’[[nightmare|incubo]] e inizierai a urlare. Lo so per certo. Tu hai mai fatto l’[[nightmare|incubo]], cugino?” chiese al suo vicino con la solita galanteria, abbassando di nuovo la voce.
+
+“A volte,” rispose [[Charity|Carità]]. “Non molto spesso.”
+
+“L’altra,” disse il signor Jonas dopo una pausa. “Lei ha mai avuto quel [[nightmare|incubo]]?”
+
+“Non lo so,” rispose [[Charity]]. “È meglio che le chiedi tu.”
+
+“Ride in quel modo, ”, disse Jonas; “non c’è modo di parlare con lei. Ascoltate solo come sta ridendo adesso! Tu sei la persona sensata, cugino!”
+
+“Tut, tut!” gridò [[Charity|Carità]].
+
+“Oh! Ma lo sei davvero. Lo sai che lo sei!”
+
+“‘[[Mercy|Misericordia]]’ è un po’ stordita,” disse la signorina [[Charity|Carità]]. Ma si riprenderà con il tempo.
+
+“Allora ci vorrà molto tempo, se mai dovesse succedere,” ribatté sua cugina. “Prenditi un po’ più di spazio.”
+
+“Temo di intralciarti,” disse [[Charity]]. Ma lo prese comunque; dopo alcune osservazioni sull’estrema pesantezza della carrozza e sul numero di fermate che faceva, calò un [[Silence|silenzio]] che nessuno dei presenti interruppe fino all’[[Time|ora]] di cena.
+
+Sebbene il signor Jonas organizzasse opere di [[Charity|carità]] nell’hotel e si sedesse accanto a lei durante i pasti, era abbastanza evidente che prestasse attenzione anche a [[Mercy]], lanciandole spesso sguardi e facendo paragoni tra il loro aspetto fisico; questi paragoni risultavano piuttosto favorevoli alla forma più rotonda della sorella minore. Tuttavia, non si concedeva molto tempo per queste osservazioni, essendo troppo impegnato a preparare i pasti, che, come sussurrava all’orecchio della sua bella compagna, rappresentavano in realtà un “affare”: più lei mangiava, migliore era l’accordo. Anche suo padre e il signor Pecksniff, probabilmente seguendo lo stesso principio, divoravano qualsiasi cosa fosse a loro portata di mano; di conseguenza, il loro viso assumeva un aspetto untuoso, segno di soddisfazione, se non addirittura sazietà, il che era davvero piacevole da osservare.
+
+
+
+
 <span class="atom-split" data-atom="martin_chuzzlewit" data-title="Martin Chuzzlewit" data-chapter="" data-kind="intro"></span>
 
 

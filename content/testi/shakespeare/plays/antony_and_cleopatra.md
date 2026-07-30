@@ -1723,30 +1723,30 @@ The [[Tragedy]] of Antony and [[Cleopatra]]
 
 | Chi parla | Battuta |
 |---|---|
-| *(didascalia)* | Entrano [[Demetrius|Demetrio]] e Filone |
+| *(didascalia)* | Entrano [[Demetrius\|Demetrio]] e Filone |
 | FILONE | No, questa infatuazione del nostro Generale<br>trabocca ogni misura. Quei suoi occhi splendidi,<br>che sulle schiere e le rassegne della guerra<br>ardevano come Marte corazzato, ora piegano, ora volgono<br>l’ufficio e la devozione del loro sguardo<br>su una fronte bruna. Il suo cuore di capitano,<br>che nella mischia delle grandi battaglie ha fatto scoppiare<br>le fibbie sul suo petto, rinnega ogni misura,<br>ed è divenuto il mantice e il ventaglio<br>per rinfrescare la libidine d’una zingara. |
 | *(didascalia)* | Squilli di trombe. Entrano Antonio, [[Cleopatra]], le sue dame, il seguito, con eunuchi che la sventolano |
-| FILONE | Guarda dove vengono.<br>Osserva bene, e vedrai in lui<br>la triplice colonna del mondo mutata<br>nel [[Fool|buffone]] d’una sgualdrina. Guarda e vedi. |
-| [[Cleopatra|CLEOPATRA]] | (ad Antonio)<br>Se è [[Love|amore]] davvero, dimmi quanto. |
-| ANTONIO | È povero l’[[Love|amore]] che si può contare. |
-| [[Cleopatra|CLEOPATRA]] | Voglio porre un confine a quanto essere amata. |
+| FILONE | Guarda dove vengono.<br>Osserva bene, e vedrai in lui<br>la triplice colonna del mondo mutata<br>nel [[Fool\|buffone]] d’una sgualdrina. Guarda e vedi. |
+| [[Cleopatra\|CLEOPATRA]] | (ad Antonio)<br>Se è [[Love\|amore]] davvero, dimmi quanto. |
+| ANTONIO | È povero l’[[Love\|amore]] che si può contare. |
+| [[Cleopatra\|CLEOPATRA]] | Voglio porre un confine a quanto essere amata. |
 | ANTONIO | Allora dovrai scoprire un nuovo cielo, una nuova terra. |
 | *(didascalia)* | Entra un Messaggero |
 | MESSAGGERO | Notizie, mio buon signore, da Roma. |
 | ANTONIO | Mi seccano: in breve. |
-| [[Cleopatra|CLEOPATRA]] | No, ascoltale, Antonio.<br>Fulvia forse è in collera; o chi sa<br>se il Cesare dalla barba appena spuntata non v’abbia inviato<br>il suo potente mandato: «Fa’ questo, o quello,<br>prendi quel regno e affranca quell’altro.<br>Eseguisci, o ti condanniamo». |
-| ANTONIO | Come, [[Love|amore]] mio? |
-| [[Cleopatra|CLEOPATRA]] | Forse? Anzi, più che probabile.<br>Non dovete restare qui più a lungo. Il vostro congedo<br>è giunto da Cesare, perciò ascoltatelo, Antonio.<br>Dov’è l’atto di Fulvia—di Cesare, volevo dire—<br>d’entrambi?<br>Fate entrare i messaggeri. Com’è vero che sono [[Queen|regina]] d’[[Egypt|Egitto]],<br>tu arrossisci, Antonio, e quel tuo [[Blood|sangue]]<br>è vassallo di Cesare; o la tua guancia paga vergogna<br>quando Fulvia dalla lingua stridula sgrida. I messaggeri! |
-| ANTONIO | Si sciolga Roma nel Tevere, e il vasto arco<br>dell’impero disposto rovini. Qui è il mio spazio.<br>I regni sono argilla. La nostra terra letamosa nutre<br>ugualmente la bestia e l’uomo. La nobiltà della vita<br>è fare così; quando una coppia così concorde<br>e due tali possono farlo—e in ciò io obbligo<br>a [[Pain|pena]] di castigo il mondo a riconoscere—<br>noi restiamo senza pari. |
-| *(didascalia)* | [[Cleopatra|CLEOPATRA]] a parte Eccellente menzogna! |
-| ANTONIO | Perché sposò Fulvia e non l’[[Love|amò]]?<br>Fingerò d’essere il [[Fool|folle]] che non sono. (Ad Antonio) Antonio<br>sarà se stesso. |
-| ANTONIO | Ma commosso da [[Cleopatra]].<br>Ora, per l’[[Love|amore]] d’[[Love|Amore]] e delle sue ore soavi,<br>non guastiamo il [[Time|tempo]] con aspri colloqui.<br>Non c’è minuto della nostra vita che debba trascorrere<br>senza qualche piacere adesso. Che svago stanotte? |
-| [[Cleopatra|CLEOPATRA]] | Ascolta gli ambasciatori. |
-| ANTONIO | Suvvia, [[Queen|regina]] litigiosa,<br>cui tutto s’addice—sgridare, ridere,<br>piangere; come ogni passione pienamente si sforza<br>di farsi, in te, bella e ammirata!<br>Nessun messaggero se non il tuo; e tutti [[Alone|soli]]<br>stanotte vagheremo per le strade e noteremo<br>le qualità della gente. Vieni, mia [[Queen|regina]].<br>Ieri [[Night|notte]] lo [[Desire|desideravi]]. (Al Messaggero) Non<br>parlarci. |
+| [[Cleopatra\|CLEOPATRA]] | No, ascoltale, Antonio.<br>Fulvia forse è in collera; o chi sa<br>se il Cesare dalla barba appena spuntata non v’abbia inviato<br>il suo potente mandato: «Fa’ questo, o quello,<br>prendi quel regno e affranca quell’altro.<br>Eseguisci, o ti condanniamo». |
+| ANTONIO | Come, [[Love\|amore]] mio? |
+| [[Cleopatra\|CLEOPATRA]] | Forse? Anzi, più che probabile.<br>Non dovete restare qui più a lungo. Il vostro congedo<br>è giunto da Cesare, perciò ascoltatelo, Antonio.<br>Dov’è l’atto di Fulvia—di Cesare, volevo dire—<br>d’entrambi?<br>Fate entrare i messaggeri. Com’è vero che sono [[Queen\|regina]] d’[[Egypt\|Egitto]],<br>tu arrossisci, Antonio, e quel tuo [[Blood\|sangue]]<br>è vassallo di Cesare; o la tua guancia paga vergogna<br>quando Fulvia dalla lingua stridula sgrida. I messaggeri! |
+| ANTONIO | Si sciolga Roma nel Tevere, e il vasto arco<br>dell’impero disposto rovini. Qui è il mio spazio.<br>I regni sono argilla. La nostra terra letamosa nutre<br>ugualmente la bestia e l’uomo. La nobiltà della vita<br>è fare così; quando una coppia così concorde<br>e due tali possono farlo—e in ciò io obbligo<br>a [[Pain\|pena]] di castigo il mondo a riconoscere—<br>noi restiamo senza pari. |
+| *(didascalia)* | [[Cleopatra\|CLEOPATRA]] a parte Eccellente menzogna! |
+| ANTONIO | Perché sposò Fulvia e non l’[[Love\|amò]]?<br>Fingerò d’essere il [[Fool\|folle]] che non sono. (Ad Antonio) Antonio<br>sarà se stesso. |
+| ANTONIO | Ma commosso da [[Cleopatra]].<br>Ora, per l’[[Love\|amore]] d’[[Love\|Amore]] e delle sue ore soavi,<br>non guastiamo il [[Time\|tempo]] con aspri colloqui.<br>Non c’è minuto della nostra vita che debba trascorrere<br>senza qualche piacere adesso. Che svago stanotte? |
+| [[Cleopatra\|CLEOPATRA]] | Ascolta gli ambasciatori. |
+| ANTONIO | Suvvia, [[Queen\|regina]] litigiosa,<br>cui tutto s’addice—sgridare, ridere,<br>piangere; come ogni passione pienamente si sforza<br>di farsi, in te, bella e ammirata!<br>Nessun messaggero se non il tuo; e tutti [[Alone\|soli]]<br>stanotte vagheremo per le strade e noteremo<br>le qualità della gente. Vieni, mia [[Queen\|regina]].<br>Ieri [[Night\|notte]] lo [[Desire\|desideravi]]. (Al Messaggero) Non<br>parlarci. |
 | *(didascalia)* | Escono Antonio e [[Cleopatra]] col seguito, e per un’altra porta il Messaggero |
-| [[Demetrius|DEMETRIO]] | Cesare è tenuto così a vile da Antonio? |
+| [[Demetrius\|DEMETRIO]] | Cesare è tenuto così a vile da Antonio? |
 | FILONE | Signore, talvolta quando egli non è Antonio<br>viene meno a quella grande qualità<br>che sempre dovrebbe accompagnare Antonio. |
-| [[Demetrius|DEMETRIO]] | Mi duole assai<br>ch’egli confermi il volgare mentitore che<br>così parla di lui a Roma; ma [[Hope|spererò]]<br>in migliori imprese domani. Statevi felice. |
+| [[Demetrius\|DEMETRIO]] | Mi duole assai<br>ch’egli confermi il volgare mentitore che<br>così parla di lui a Roma; ma [[Hope\|spererò]]<br>in migliori imprese domani. Statevi felice. |
 | *(didascalia)* | Escono |
 
 
@@ -1873,75 +1873,75 @@ The [[Tragedy]] of Antony and [[Cleopatra]]
 
 | Chi parla | Battuta |
 |---|---|
-| *(didascalia)* | Entrano [[Enobarbus|Enobarbo]], un Indovino, [[Charmian|Carmiana]], Iras, Mardiano l’eunuco, Alessa e servitori |
-| [[Charmian|CARMIANA]] | Signor Alessa, dolce Alessa, Alessa più d’ogni cosa, Alessa quasi assolutissimo, dov’è l’indovino che tanto lodavate alla [[Queen|Regina]]? Oh, se conoscessi quel marito che, voi dite, dovrà inghirlandarsi le corna! |
+| *(didascalia)* | Entrano [[Enobarbus\|Enobarbo]], un Indovino, [[Charmian\|Carmiana]], Iras, Mardiano l’eunuco, Alessa e servitori |
+| [[Charmian\|CARMIANA]] | Signor Alessa, dolce Alessa, Alessa più d’ogni cosa, Alessa quasi assolutissimo, dov’è l’indovino che tanto lodavate alla [[Queen\|Regina]]? Oh, se conoscessi quel marito che, voi dite, dovrà inghirlandarsi le corna! |
 | ALESSA | Indovino! |
 | INDOVINO | Che volete? |
-| [[Charmian|CARMIANA]] | È quest’uomo? Siete voi, signore, che sapete le cose? |
-| INDOVINO | Nell’infinito libro dei segreti della [[Nature|natura]]<br>un poco so leggere. |
-| ALESSA | (a [[Charmian|Carmiana]]) Mostragli la mano. |
-| [[Enobarbus|ENOBARBO]] | (chiamando) Portate presto il banchetto,<br>vino a sufficienza per bere alla salute di [[Cleopatra]]. |
+| [[Charmian\|CARMIANA]] | È quest’uomo? Siete voi, signore, che sapete le cose? |
+| INDOVINO | Nell’infinito libro dei segreti della [[Nature\|natura]]<br>un poco so leggere. |
+| ALESSA | (a [[Charmian\|Carmiana]]) Mostragli la mano. |
+| [[Enobarbus\|ENOBARBO]] | (chiamando) Portate presto il banchetto,<br>vino a sufficienza per bere alla salute di [[Cleopatra]]. |
 | *(didascalia)* | Entrano servi con cibo e vino, ed escono |
-| [[Charmian|CARMIANA]] | (all’Indovino) Buon signore, dammi buona ventura. |
+| [[Charmian\|CARMIANA]] | (all’Indovino) Buon signore, dammi buona ventura. |
 | INDOVINO | Io non la faccio, la prevedo. |
-| [[Charmian|CARMIANA]] | Prevedimene una, dunque, ti prego. |
+| [[Charmian\|CARMIANA]] | Prevedimene una, dunque, ti prego. |
 | INDOVINO | Sarai ancora<br>assai più bella di quel che sei. |
-| [[Charmian|CARMIANA]] | Vuol dire di carne. |
+| [[Charmian\|CARMIANA]] | Vuol dire di carne. |
 | IRAS | No, ti dipingerai quando sarai vecchia. |
-| [[Charmian|CARMIANA]] | Le rughe non voglia! |
+| [[Charmian\|CARMIANA]] | Le rughe non voglia! |
 | ALESSA | Non turbare la sua preveggenza. Sta’ attenta. |
-| [[Charmian|CARMIANA]] | Zitto! |
+| [[Charmian\|CARMIANA]] | Zitto! |
 | INDOVINO | Amerai più di quanto sarai amata. |
-| [[Charmian|CARMIANA]] | Preferirei scaldarmi il fegato col bere. |
+| [[Charmian\|CARMIANA]] | Preferirei scaldarmi il fegato col bere. |
 | ALESSA | Su, ascoltalo. |
-| [[Charmian|CARMIANA]] | Orsù, qualche ventura eccellente! Ch’io sposi tre re in una mattinata e li lasci tutti vedovi. Ch’io abbia un [[Child|figlio]] a cinquant’anni cui Erode di Giudea renda omaggio. Trovami il modo di sposarmi con [[Octavius Caesar|Ottavio Cesare]] e di stare al pari della mia padrona. |
+| [[Charmian\|CARMIANA]] | Orsù, qualche ventura eccellente! Ch’io sposi tre re in una mattinata e li lasci tutti vedovi. Ch’io abbia un [[Child\|figlio]] a cinquant’anni cui Erode di Giudea renda omaggio. Trovami il modo di sposarmi con [[Octavius Caesar\|Ottavio Cesare]] e di stare al pari della mia padrona. |
 | INDOVINO | Sopravvivrai alla dama che servi. |
-| [[Charmian|CARMIANA]] | Oh, eccellente! [[Love|Amo]] la lunga vita più dei fichi. |
+| [[Charmian\|CARMIANA]] | Oh, eccellente! [[Love\|Amo]] la lunga vita più dei fichi. |
 | INDOVINO | Hai visto e provato una ventura passata più bella<br>di quella che sta per venire. |
-| [[Charmian|CARMIANA]] | Allora è probabile che i miei figli non abbiano nome. Di grazia, quanti maschi e quante femmine dovrò avere? |
+| [[Charmian\|CARMIANA]] | Allora è probabile che i miei figli non abbiano nome. Di grazia, quanti maschi e quante femmine dovrò avere? |
 | INDOVINO | Se ogni tuo desiderio avesse un grembo,<br>e ogni desiderio fosse fecondo, un milione. |
-| [[Charmian|CARMIANA]] | Va’ via, [[Fool|sciocco]]—ti perdono in quanto [[Witch|stregone]]. |
+| [[Charmian\|CARMIANA]] | Va’ via, [[Fool\|sciocco]]—ti perdono in quanto [[Witch\|stregone]]. |
 | ALESSA | Credi che solo le tue lenzuola siano al corrente dei tuoi desideri. |
-| [[Charmian|CARMIANA]] | (all’Indovino) Su, vieni, di’ a Iras la sua. |
+| [[Charmian\|CARMIANA]] | (all’Indovino) Su, vieni, di’ a Iras la sua. |
 | ALESSA | Sapremo tutte le nostre venture. |
-| [[Enobarbus|ENOBARBO]] | La mia, e la più parte delle nostre, stanotte sarà d’andare ubriachi a letto. |
+| [[Enobarbus\|ENOBARBO]] | La mia, e la più parte delle nostre, stanotte sarà d’andare ubriachi a letto. |
 | IRAS | (mostrando la mano all’Indovino) Ecco una palma che presagisce castità, se non altro. |
-| [[Charmian|CARMIANA]] | Come il Nilo che straripa presagisce carestia. |
+| [[Charmian\|CARMIANA]] | Come il Nilo che straripa presagisce carestia. |
 | IRAS | Va’ là, compagna di letto sfrenata, non sai fare l’indovina. |
-| [[Charmian|CARMIANA]] | Suvvia, se una palma unta non è un pronostico di fecondità, non so grattarmi l’orecchio. (All’Indovino) Di grazia, dille solo una ventura da giorno feriale. |
+| [[Charmian\|CARMIANA]] | Suvvia, se una palma unta non è un pronostico di fecondità, non so grattarmi l’orecchio. (All’Indovino) Di grazia, dille solo una ventura da giorno feriale. |
 | INDOVINO | Le vostre venture si somigliano. |
 | IRAS | Ma come, ma come? Dammi i particolari. |
 | INDOVINO | Ho detto. |
 | IRAS | Non son forse un dito di fortuna meglio di lei? |
-| [[Charmian|CARMIANA]] | [[Well|Bene]], se tu fossi solo un dito di fortuna meglio di me, dove lo vorresti? |
+| [[Charmian\|CARMIANA]] | [[Well\|Bene]], se tu fossi solo un dito di fortuna meglio di me, dove lo vorresti? |
 | IRAS | Non nel naso di mio marito. |
-| [[Charmian|CARMIANA]] | Il cielo emendi i nostri pensieri peggiori! Alessa—vieni, la sua ventura, la sua ventura. Oh, ch’egli sposi una donna che non possa camminare, dolce Iside, te ne supplico, e ch’ella muoia pure, e dagliene una peggiore, e peggio segua peggio finché il peggiore di tutti lo segua ridendo alla sua [[Grave|tomba]], cinquanta volte cornuto. Buona Iside, ascolta questa mia [[Prayer|preghiera]], anche se mi neghi cosa di maggior peso; buona Iside, te ne supplico. |
-| IRAS | Amen, cara dea, ascolta quella [[Prayer|preghiera]] del popolo. Perché come è uno strazio vedere un bell’uomo con moglie leggera, così è un dolore mortale contemplare un lurido furfante non cornuto. Perciò, cara Iside, mantieni il decoro, e dagli ventura conforme. |
-| [[Charmian|CARMIANA]] | Amen. |
+| [[Charmian\|CARMIANA]] | Il cielo emendi i nostri pensieri peggiori! Alessa—vieni, la sua ventura, la sua ventura. Oh, ch’egli sposi una donna che non possa camminare, dolce Iside, te ne supplico, e ch’ella muoia pure, e dagliene una peggiore, e peggio segua peggio finché il peggiore di tutti lo segua ridendo alla sua [[Grave\|tomba]], cinquanta volte cornuto. Buona Iside, ascolta questa mia [[Prayer\|preghiera]], anche se mi neghi cosa di maggior peso; buona Iside, te ne supplico. |
+| IRAS | Amen, cara dea, ascolta quella [[Prayer\|preghiera]] del popolo. Perché come è uno strazio vedere un bell’uomo con moglie leggera, così è un dolore mortale contemplare un lurido furfante non cornuto. Perciò, cara Iside, mantieni il decoro, e dagli ventura conforme. |
+| [[Charmian\|CARMIANA]] | Amen. |
 | ALESSA | Guarda un po’: se stesse nelle loro mani farmi cornuto, si farebbero puttane pur di riuscirci. |
 | *(didascalia)* | Entra [[Cleopatra]] |
-| [[Enobarbus|ENOBARBO]] | Zitti, ecco che viene Antonio. |
-| [[Charmian|CARMIANA]] | Non lui, la [[Queen|Regina]]. |
-| [[Cleopatra|CLEOPATRA]] | Avete visto il mio signore? |
-| [[Enobarbus|ENOBARBO]] | No, signora. |
-| [[Cleopatra|CLEOPATRA]] | Non era qui? |
-| [[Charmian|CARMIANA]] | No, madama. |
-| [[Cleopatra|CLEOPATRA]] | Era incline all’allegria, ma d’improvviso<br>un pensiero romano l’ha colpito. [[Enobarbus|Enobarbo]]! |
-| [[Enobarbus|ENOBARBO]] | Madama? |
-| [[Cleopatra|CLEOPATRA]] | Cercalo, e conducilo qui. Dov’è Alessa? |
+| [[Enobarbus\|ENOBARBO]] | Zitti, ecco che viene Antonio. |
+| [[Charmian\|CARMIANA]] | Non lui, la [[Queen\|Regina]]. |
+| [[Cleopatra\|CLEOPATRA]] | Avete visto il mio signore? |
+| [[Enobarbus\|ENOBARBO]] | No, signora. |
+| [[Cleopatra\|CLEOPATRA]] | Non era qui? |
+| [[Charmian\|CARMIANA]] | No, madama. |
+| [[Cleopatra\|CLEOPATRA]] | Era incline all’allegria, ma d’improvviso<br>un pensiero romano l’ha colpito. [[Enobarbus\|Enobarbo]]! |
+| [[Enobarbus\|ENOBARBO]] | Madama? |
+| [[Cleopatra\|CLEOPATRA]] | Cercalo, e conducilo qui. Dov’è Alessa? |
 | ALESSA | Qui al vostro servizio. Il mio signore si avvicina. |
 | *(didascalia)* | Entra Antonio con un Messaggero |
-| [[Cleopatra|CLEOPATRA]] | Non lo guarderemo. Venite con noi. |
+| [[Cleopatra\|CLEOPATRA]] | Non lo guarderemo. Venite con noi. |
 | *(didascalia)* | Escono tutti tranne Antonio e il Messaggero |
 | MESSAGGERO | Fulvia tua moglie prima scese in campo. |
-| ANTONIO | Contro mio fratello [[Lucius|Lucio]]? |
-| MESSAGGERO | Sì, ma presto quella guerra ebbe fine, e lo stato dei [[Time|tempi]]<br>li fece amici, unendo le loro forze contro<br>Cesare,<br>la cui miglior sorte in guerra dall’[[Italy|Italia]]<br>al primo scontro li scacciò. |
-| ANTONIO | [[Well|Bene]], e il peggio? |
-| MESSAGGERO | La [[Nature|natura]] delle cattive nuove infetta chi le porta. |
-| ANTONIO | Quando riguardano lo [[Fool|sciocco]] o il vile. Avanti.<br>Ciò che è passato è fatto. Con me è così:<br>chi mi dice il vero, anche se nel suo racconto sta la [[Death|morte]],<br>l’ascolto come se lusingasse. |
+| ANTONIO | Contro mio fratello [[Lucius\|Lucio]]? |
+| MESSAGGERO | Sì, ma presto quella guerra ebbe fine, e lo stato dei [[Time\|tempi]]<br>li fece amici, unendo le loro forze contro<br>Cesare,<br>la cui miglior sorte in guerra dall’[[Italy\|Italia]]<br>al primo scontro li scacciò. |
+| ANTONIO | [[Well\|Bene]], e il peggio? |
+| MESSAGGERO | La [[Nature\|natura]] delle cattive nuove infetta chi le porta. |
+| ANTONIO | Quando riguardano lo [[Fool\|sciocco]] o il vile. Avanti.<br>Ciò che è passato è fatto. Con me è così:<br>chi mi dice il vero, anche se nel suo racconto sta la [[Death\|morte]],<br>l’ascolto come se lusingasse. |
 | MESSAGGERO | Labieno—<br>questa è dura nuova—con la sua forza partica<br>ha dilagato per l’Asia; dall’Eufrate<br>ha scosso il suo vessillo vittorioso, dalla Siria<br>alla Lidia e alla Ionia,<br>mentre—<br>ANTONIOAntonio, vorresti dire— |
 | MESSAGGERO | Oh, mio signore! |
-| ANTONIO | Parlami a [[Home|fondo]]. Non attenuare la lingua di tutti.<br>Chiama [[Cleopatra]] come la chiamano a Roma.<br>Inveisci con le parole di Fulvia, e rinfaccia le mie colpe<br>con tutta la licenza che la [[Truth|verità]] e la malizia<br>hanno potere di proferire. Oh, allora produciamo erbacce<br>quando i nostri venti vivaci giacciono immobili, e sentirci dire i nostri mali<br>è il nostro arare. Sta’ [[Well|bene]] per un poco. |
+| ANTONIO | Parlami a [[Home\|fondo]]. Non attenuare la lingua di tutti.<br>Chiama [[Cleopatra]] come la chiamano a Roma.<br>Inveisci con le parole di Fulvia, e rinfaccia le mie colpe<br>con tutta la licenza che la [[Truth\|verità]] e la malizia<br>hanno potere di proferire. Oh, allora produciamo erbacce<br>quando i nostri venti vivaci giacciono immobili, e sentirci dire i nostri mali<br>è il nostro arare. Sta’ [[Well\|bene]] per un poco. |
 | MESSAGGERO | A vostro nobile piacere. |
 | *(didascalia)* | Esce il Messaggero |
 | *(didascalia)* | Entra un altro Messaggero |
@@ -1962,27 +1962,27 @@ The [[Tragedy]] of Antony and [[Cleopatra]]
 | TERZO MESSAGGERO | A Sicione.<br>La durata della sua malattia, e quant’altro di più grave<br>ti preme sapere, questa lo reca.<br>Dà ad Antonio la lettera |
 | ANTONIO | Lasciami. |
 | *(didascalia)* | Esce il Terzo Messaggero |
-| ANTONIO | Un grande spirito se n’è andato. Così io lo [[Desire|desideravo]].<br>Ciò che il nostro disprezzo spesso scaglia via da noi<br>torniamo a desiderarlo nostro. Il piacere presente,<br>abbassandosi col volgere del tempo, diviene<br>l’opposto di se stesso. Ella è buona ora che se n’è andata;<br>la mano che la spinse via potrebbe richiamarla indietro.<br>Devo staccarmi da questa [[Queen|regina]] incantatrice.<br>Diecimila danni più dei mali che conosco<br>cova il mio ozio. Ebbene, [[Enobarbus|Enobarbo]]! |
-| *(didascalia)* | Entra [[Enobarbus|Enobarbo]] |
-| [[Enobarbus|ENOBARBO]] | Che vi piace, signore? |
+| ANTONIO | Un grande spirito se n’è andato. Così io lo [[Desire\|desideravo]].<br>Ciò che il nostro disprezzo spesso scaglia via da noi<br>torniamo a desiderarlo nostro. Il piacere presente,<br>abbassandosi col volgere del tempo, diviene<br>l’opposto di se stesso. Ella è buona ora che se n’è andata;<br>la mano che la spinse via potrebbe richiamarla indietro.<br>Devo staccarmi da questa [[Queen\|regina]] incantatrice.<br>Diecimila danni più dei mali che conosco<br>cova il mio ozio. Ebbene, [[Enobarbus\|Enobarbo]]! |
+| *(didascalia)* | Entra [[Enobarbus\|Enobarbo]] |
+| [[Enobarbus\|ENOBARBO]] | Che vi piace, signore? |
 | ANTONIO | Devo partire di qui in fretta. |
-| [[Enobarbus|ENOBARBO]] | Ma allora uccidiamo tutte le nostre donne. Vediamo quanto una scortesia sia mortale per loro; se sopportano la nostra partenza, [[Death|morte]] è la parola. |
+| [[Enobarbus\|ENOBARBO]] | Ma allora uccidiamo tutte le nostre donne. Vediamo quanto una scortesia sia mortale per loro; se sopportano la nostra partenza, [[Death\|morte]] è la parola. |
 | ANTONIO | Devo andarmene. |
-| [[Enobarbus|ENOBARBO]] | Se l’occasione lo impone, lasciamo che le donne muoiano. Sarebbe un peccato gettarle via per nulla, benché tra loro e una grande causa debbano essere stimate nulla. [[Cleopatra]], al minimo sentore di questo, muore all’istante. L’ho vista morire venti volte per motivi assai più scarsi. Credo che ci sia del vigore nella [[Death|morte]], che compie su di lei qualche atto amoroso, tanta è la celerità con cui muore. |
+| [[Enobarbus\|ENOBARBO]] | Se l’occasione lo impone, lasciamo che le donne muoiano. Sarebbe un peccato gettarle via per nulla, benché tra loro e una grande causa debbano essere stimate nulla. [[Cleopatra]], al minimo sentore di questo, muore all’istante. L’ho vista morire venti volte per motivi assai più scarsi. Credo che ci sia del vigore nella [[Death\|morte]], che compie su di lei qualche atto amoroso, tanta è la celerità con cui muore. |
 | ANTONIO | È astuta oltre il pensiero umano. |
-| [[Enobarbus|ENOBARBO]] | Ahimè, signore, no. Le sue passioni son fatte di null’altro che della parte più fine del puro [[Love|amore]]. Non possiamo chiamare i suoi venti e le sue acque sospiri e [[Tears|lacrime]]; sono burrasche e tempeste più grandi di quante gli almanacchi ne registrino. Questo non può essere astuzia in lei; se lo è, fa un acquazzone così [[Well|bene]] come Giove. |
+| [[Enobarbus\|ENOBARBO]] | Ahimè, signore, no. Le sue passioni son fatte di null’altro che della parte più fine del puro [[Love\|amore]]. Non possiamo chiamare i suoi venti e le sue acque sospiri e [[Tears\|lacrime]]; sono burrasche e tempeste più grandi di quante gli almanacchi ne registrino. Questo non può essere astuzia in lei; se lo è, fa un acquazzone così [[Well\|bene]] come Giove. |
 | ANTONIO | Non l’avessi mai vista! |
-| [[Enobarbus|ENOBARBO]] | Oh, signore, avreste allora lasciato non visto un mirabile capolavoro, e non esserne stato benedetto avrebbe screditato il vostro viaggio. |
+| [[Enobarbus\|ENOBARBO]] | Oh, signore, avreste allora lasciato non visto un mirabile capolavoro, e non esserne stato benedetto avrebbe screditato il vostro viaggio. |
 | ANTONIO | Fulvia è morta. |
-| [[Enobarbus|ENOBARBO]] | Signore. |
+| [[Enobarbus\|ENOBARBO]] | Signore. |
 | ANTONIO | Fulvia è morta. |
-| [[Enobarbus|ENOBARBO]] | Fulvia? |
+| [[Enobarbus\|ENOBARBO]] | Fulvia? |
 | ANTONIO | Morta. |
-| [[Enobarbus|ENOBARBO]] | Ebbene, signore, offrite agli dèi un sacrificio di ringraziamento. Quando piace alle loro divinità togliere a un uomo la moglie, mostrano all’uomo i sarti della terra; consolandolo così, che quando le vecchie vesti sono logore ci sono membra per farne di nuove. Se non ci fossero altre donne che Fulvia, allora sì avreste una ferita, e il caso sarebbe da lamentare. Questo dolore è coronato di consolazione; la vostra vecchia camicia produce una sottana nuova, e in verità le [[Tears|lacrime]] che dovrebbero [[Water|innaffiare]] questo dolore vivono in una cipolla. |
+| [[Enobarbus\|ENOBARBO]] | Ebbene, signore, offrite agli dèi un sacrificio di ringraziamento. Quando piace alle loro divinità togliere a un uomo la moglie, mostrano all’uomo i sarti della terra; consolandolo così, che quando le vecchie vesti sono logore ci sono membra per farne di nuove. Se non ci fossero altre donne che Fulvia, allora sì avreste una ferita, e il caso sarebbe da lamentare. Questo dolore è coronato di consolazione; la vostra vecchia camicia produce una sottana nuova, e in verità le [[Tears\|lacrime]] che dovrebbero [[Water\|innaffiare]] questo dolore vivono in una cipolla. |
 | ANTONIO | Le faccende ch’ella ha suscitato nello stato<br>non possono sopportare la mia assenza. |
-| [[Enobarbus|ENOBARBO]] | E le faccende che voi avete suscitato qui non possono stare senza di voi, specialmente quelle di [[Cleopatra]], che dipendono interamente dal vostro soggiorno. |
-| ANTONIO | Basta risposte leggere. I nostri ufficiali<br>siano avvertiti di ciò che intendiamo. Esporrò<br>la causa della nostra urgenza alla [[Queen|Regina]],<br>e otterrò il suo permesso di partire; ché non [[Alone|soltanto]]<br>la [[Death|morte]] di Fulvia, con tocchi più urgenti,<br>ci parla forte, ma anche le lettere<br>di molti amici che tramano per noi in Roma<br>ci reclamano in [[Home|patria]]. Sesto Pompeo<br>ha lanciato la sfida a Cesare e comanda<br>l’impero del mare. Il nostro popolo volubile,<br>il cui [[Love|amore]] non si lega mai al meritevole<br>finché i suoi meriti non son passati, comincia a riversare<br>[[Pompey|Pompeo]] il Grande e tutte le sue dignità<br>sul figlio, il quale—alto di nome e di potere,<br>più alto d’entrambi per [[Blood|sangue]] e per vigore—si erge<br>a soldato principale; e la sua qualità, se procede,<br>può mettere in pericolo i fianchi del mondo. Molto sta covando<br>che, come il crine del cavallo, ha finora solo vita,<br>e non ancora il [[Poison|veleno]] d’un serpente. Di’ che il nostro volere,<br>a quanti stanno sotto di noi, esige<br>la nostra rapida partenza di qui. |
-| [[Enobarbus|ENOBARBO]] | Lo farò. |
+| [[Enobarbus\|ENOBARBO]] | E le faccende che voi avete suscitato qui non possono stare senza di voi, specialmente quelle di [[Cleopatra]], che dipendono interamente dal vostro soggiorno. |
+| ANTONIO | Basta risposte leggere. I nostri ufficiali<br>siano avvertiti di ciò che intendiamo. Esporrò<br>la causa della nostra urgenza alla [[Queen\|Regina]],<br>e otterrò il suo permesso di partire; ché non [[Alone\|soltanto]]<br>la [[Death\|morte]] di Fulvia, con tocchi più urgenti,<br>ci parla forte, ma anche le lettere<br>di molti amici che tramano per noi in Roma<br>ci reclamano in [[Home\|patria]]. Sesto Pompeo<br>ha lanciato la sfida a Cesare e comanda<br>l’impero del mare. Il nostro popolo volubile,<br>il cui [[Love\|amore]] non si lega mai al meritevole<br>finché i suoi meriti non son passati, comincia a riversare<br>[[Pompey\|Pompeo]] il Grande e tutte le sue dignità<br>sul figlio, il quale—alto di nome e di potere,<br>più alto d’entrambi per [[Blood\|sangue]] e per vigore—si erge<br>a soldato principale; e la sua qualità, se procede,<br>può mettere in pericolo i fianchi del mondo. Molto sta covando<br>che, come il crine del cavallo, ha finora solo vita,<br>e non ancora il [[Poison\|veleno]] d’un serpente. Di’ che il nostro volere,<br>a quanti stanno sotto di noi, esige<br>la nostra rapida partenza di qui. |
+| [[Enobarbus\|ENOBARBO]] | Lo farò. |
 | *(didascalia)* | Escono separatamente |
 
 
@@ -2044,50 +2044,50 @@ The [[Tragedy]] of Antony and [[Cleopatra]]
 
 | Chi parla | Battuta |
 |---|---|
-| *(didascalia)* | Entrano [[Cleopatra]], [[Charmian|Carmiana]], Alessa e Iras |
-| [[Cleopatra|CLEOPATRA]] | Dov’è? |
-| [[Charmian|CARMIANA]] | Non l’ho più visto da allora. |
-| *(didascalia)* | [[Cleopatra|CLEOPATRA]] ad Alessa |
-| [[Charmian|CARMIANA]] | Vedi dov’è, chi sta con lui, che cosa fa.<br>Non t’ho mandato io. Se lo trovi triste,<br>di’ che sto danzando; se allegro, riferisci<br>che d’improvviso mi son fatta inferma. Presto, e torna. |
+| *(didascalia)* | Entrano [[Cleopatra]], [[Charmian\|Carmiana]], Alessa e Iras |
+| [[Cleopatra\|CLEOPATRA]] | Dov’è? |
+| [[Charmian\|CARMIANA]] | Non l’ho più visto da allora. |
+| *(didascalia)* | [[Cleopatra\|CLEOPATRA]] ad Alessa |
+| [[Charmian\|CARMIANA]] | Vedi dov’è, chi sta con lui, che cosa fa.<br>Non t’ho mandato io. Se lo trovi triste,<br>di’ che sto danzando; se allegro, riferisci<br>che d’improvviso mi son fatta inferma. Presto, e torna. |
 | *(didascalia)* | Esce Alessa |
-| [[Charmian|CARMIANA]] | Madama, mi pare che, se lo [[Love|amaste]] davvero,<br>non tenete il metodo per costringerlo<br>a fare altrettanto. |
-| [[Cleopatra|CLEOPATRA]] | Che dovrei fare che non faccio? |
-| [[Charmian|CARMIANA]] | In ogni cosa cedetegli; non [[Cross|contrariatelo]] in nulla. |
-| [[Cleopatra|CLEOPATRA]] | Insegni da [[Fool|sciocca]] il modo di perderlo. |
-| [[Charmian|CARMIANA]] | Non tentatelo troppo oltre. In verità, trattenetevi.<br>Col [[Time|tempo]] odiamo ciò che spesso [[Fear|temiamo]]. |
+| [[Charmian\|CARMIANA]] | Madama, mi pare che, se lo [[Love\|amaste]] davvero,<br>non tenete il metodo per costringerlo<br>a fare altrettanto. |
+| [[Cleopatra\|CLEOPATRA]] | Che dovrei fare che non faccio? |
+| [[Charmian\|CARMIANA]] | In ogni cosa cedetegli; non [[Cross\|contrariatelo]] in nulla. |
+| [[Cleopatra\|CLEOPATRA]] | Insegni da [[Fool\|sciocca]] il modo di perderlo. |
+| [[Charmian\|CARMIANA]] | Non tentatelo troppo oltre. In verità, trattenetevi.<br>Col [[Time\|tempo]] odiamo ciò che spesso [[Fear\|temiamo]]. |
 | *(didascalia)* | Entra Antonio |
-| [[Charmian|CARMIANA]] | Ma ecco che viene Antonio. |
-| [[Cleopatra|CLEOPATRA]] | Son malata e di malumore. |
+| [[Charmian\|CARMIANA]] | Ma ecco che viene Antonio. |
+| [[Cleopatra\|CLEOPATRA]] | Son malata e di malumore. |
 | ANTONIO | Mi dispiace dar fiato al mio proposito. |
-| [[Cleopatra|CLEOPATRA]] | Aiutami a scostarmi, cara [[Charmian|Carmiana]], sto per cadere.<br>Non può durare così—i fianchi della [[Nature|natura]]<br>non lo sosterranno. |
-| ANTONIO | Ebbene, mia carissima [[Queen|regina]]. |
-| [[Cleopatra|CLEOPATRA]] | Vi prego, statemi più lontano. |
+| [[Cleopatra\|CLEOPATRA]] | Aiutami a scostarmi, cara [[Charmian\|Carmiana]], sto per cadere.<br>Non può durare così—i fianchi della [[Nature\|natura]]<br>non lo sosterranno. |
+| ANTONIO | Ebbene, mia carissima [[Queen\|regina]]. |
+| [[Cleopatra\|CLEOPATRA]] | Vi prego, statemi più lontano. |
 | ANTONIO | Che c’è? |
-| [[Cleopatra|CLEOPATRA]] | Da quello stesso occhio capisco che ci son buone nuove.<br>Che dice la donna maritata—potete andare?<br>Non v’avesse mai dato licenza di venire.<br>Non dica ch’io vi trattengo qui.<br>Non ho potere su di voi; suo siete. |
+| [[Cleopatra\|CLEOPATRA]] | Da quello stesso occhio capisco che ci son buone nuove.<br>Che dice la donna maritata—potete andare?<br>Non v’avesse mai dato licenza di venire.<br>Non dica ch’io vi trattengo qui.<br>Non ho potere su di voi; suo siete. |
 | ANTONIO | Gli dèi sanno bene— |
-| [[Cleopatra|CLEOPATRA]] | Oh, mai vi fu [[Queen|regina]]<br>così potentemente tradita! Eppure fin dall’inizio<br>vidi piantati i tradimenti. |
+| [[Cleopatra\|CLEOPATRA]] | Oh, mai vi fu [[Queen\|regina]]<br>così potentemente tradita! Eppure fin dall’inizio<br>vidi piantati i tradimenti. |
 | ANTONIO | [[Cleopatra]]— |
-| [[Cleopatra|CLEOPATRA]] | Perché dovrei credere che possiate esser mio e fedele—<br>anche se giurando fate tremare gli dèi in trono—<br>voi che siete stato falso a Fulvia? Sfrenata [[Madness|follia]],<br>lasciarsi irretire da quei voti fatti di bocca<br>che si rompono da sé nel pronunciarli. |
-| ANTONIO | Dolcissima [[Queen|regina]]— |
-| [[Cleopatra|CLEOPATRA]] | No, vi prego, non cercate pretesti per il vostro andare,<br>ma dite addio e andate. Quando supplicavate di restare,<br>quello era il [[Time|tempo]] delle parole; nessun andare allora.<br>L’[[Eternity|eternità]] era nelle nostre labbra e nei nostri occhi,<br>la beatitudine nell’arco delle nostre ciglia; nessuna nostra parte era così povera<br>da non essere una stirpe del cielo. Lo sono ancora,<br>oppure tu, il più grande soldato del mondo,<br>sei divenuto il più grande bugiardo. |
+| [[Cleopatra\|CLEOPATRA]] | Perché dovrei credere che possiate esser mio e fedele—<br>anche se giurando fate tremare gli dèi in trono—<br>voi che siete stato falso a Fulvia? Sfrenata [[Madness\|follia]],<br>lasciarsi irretire da quei voti fatti di bocca<br>che si rompono da sé nel pronunciarli. |
+| ANTONIO | Dolcissima [[Queen\|regina]]— |
+| [[Cleopatra\|CLEOPATRA]] | No, vi prego, non cercate pretesti per il vostro andare,<br>ma dite addio e andate. Quando supplicavate di restare,<br>quello era il [[Time\|tempo]] delle parole; nessun andare allora.<br>L’[[Eternity\|eternità]] era nelle nostre labbra e nei nostri occhi,<br>la beatitudine nell’arco delle nostre ciglia; nessuna nostra parte era così povera<br>da non essere una stirpe del cielo. Lo sono ancora,<br>oppure tu, il più grande soldato del mondo,<br>sei divenuto il più grande bugiardo. |
 | ANTONIO | Come, signora! |
-| [[Cleopatra|CLEOPATRA]] | Vorrei avere la tua statura. Sapresti<br>che c’è un cuore in [[Egypt|Egitto]]. |
-| ANTONIO | Ascoltami, [[Queen|Regina]].<br>La forte necessità del [[Time|tempo]] richiede<br>per un poco i nostri servigi, ma il mio cuore intero<br>resta in uso presso di te. La nostra [[Italy|Italia]]<br>riluce dovunque di spade civili. Sesto Pompeo<br>s’avvicina al porto di Roma.<br>L’equilibrio di due poteri domestici<br>genera fazioni cavillose. Gli odiati, cresciuti in<br>forza,<br>son cresciuti ora in [[Love|amore]]. Il condannato [[Pompey|Pompeo]],<br>ricco dell’[[Honour|onore]] paterno, s’insinua rapido<br>nei cuori di quanti non han prosperato<br>sotto lo stato presente, e il loro numero minaccia;<br>e la quiete, stanca del riposo, vorrebbe purgarsi<br>con qualunque mutamento disperato. Ciò che più mi tocca,<br>e che presso di te dovrebbe più giustificare la mia partenza,<br>è la [[Death|morte]] di Fulvia. |
-| [[Cleopatra|CLEOPATRA]] | Se l’età non ha potuto darmi [[Freedom|libertà]] dalla follia,<br>me la dà dalla puerilità. Può Fulvia morire? |
-| ANTONIO | È morta, mia [[Queen|regina]].<br>Le porge delle lettere<br>Guarda qui, e al tuo sovrano comodo leggi<br>i tumulti ch’ella suscitò. Da ultimo, e meglio,<br>vedi quando e dove morì. |
-| [[Cleopatra|CLEOPATRA]] | Oh falsissimo [[Love|amore]]!<br>Dove sono le sacre ampolle che dovresti riempire<br>di [[Water|acqua]] di dolore? Ora vedo, vedo,<br>nella [[Death|morte]] di Fulvia come sarà accolta la mia. |
-| ANTONIO | Non altercare più, ma preparati a conoscere<br>i propositi che porto, i quali restano o cessano<br>secondo il consiglio che darai. Per il [[Fire|fuoco]]<br>che avviva il limo del Nilo, io parto di qui<br>tuo soldato e servo, facendo pace o guerra<br>come a te aggrada. |
-| [[Cleopatra|CLEOPATRA]] | Tagliami i lacci, [[Charmian|Carmiana]], vieni.<br>Ma lascia stare. Presto sto male e [[Well|bene]];<br>così ama Antonio. |
-| ANTONIO | Mia preziosa [[Queen|regina]], trattieniti, e rendi vera testimonianza al suo [[Love|amore]], che affronta<br>una prova onorevole. |
-| [[Cleopatra|CLEOPATRA]] | Così mi disse Fulvia. Di grazia, voltati e piangi per lei,<br>poi dimmi addio, e di’ che le [[Tears|lacrime]]<br>appartengono all’[[Egypt|Egitto]]. Suvvia, recita una scena<br>d’eccellente finzione, e falla apparire<br>come perfetto [[Honour|onore]]. |
-| ANTONIO | Mi scalderai il [[Blood|sangue]]. Basta. |
-| [[Cleopatra|CLEOPATRA]] | Puoi far meglio ancora; ma questo è passabile. |
-| ANTONIO | Ora per la mia [[Sword|spada]]— |
-| [[Cleopatra|CLEOPATRA]] | E lo scudo. Continua a migliorare.<br>Ma questo non è il meglio. Guarda, ti prego, [[Charmian|Carmiana]],<br>come a questo romano erculeo s’addice<br>il portamento della sua stizza. |
+| [[Cleopatra\|CLEOPATRA]] | Vorrei avere la tua statura. Sapresti<br>che c’è un cuore in [[Egypt\|Egitto]]. |
+| ANTONIO | Ascoltami, [[Queen\|Regina]].<br>La forte necessità del [[Time\|tempo]] richiede<br>per un poco i nostri servigi, ma il mio cuore intero<br>resta in uso presso di te. La nostra [[Italy\|Italia]]<br>riluce dovunque di spade civili. Sesto Pompeo<br>s’avvicina al porto di Roma.<br>L’equilibrio di due poteri domestici<br>genera fazioni cavillose. Gli odiati, cresciuti in<br>forza,<br>son cresciuti ora in [[Love\|amore]]. Il condannato [[Pompey\|Pompeo]],<br>ricco dell’[[Honour\|onore]] paterno, s’insinua rapido<br>nei cuori di quanti non han prosperato<br>sotto lo stato presente, e il loro numero minaccia;<br>e la quiete, stanca del riposo, vorrebbe purgarsi<br>con qualunque mutamento disperato. Ciò che più mi tocca,<br>e che presso di te dovrebbe più giustificare la mia partenza,<br>è la [[Death\|morte]] di Fulvia. |
+| [[Cleopatra\|CLEOPATRA]] | Se l’età non ha potuto darmi [[Freedom\|libertà]] dalla follia,<br>me la dà dalla puerilità. Può Fulvia morire? |
+| ANTONIO | È morta, mia [[Queen\|regina]].<br>Le porge delle lettere<br>Guarda qui, e al tuo sovrano comodo leggi<br>i tumulti ch’ella suscitò. Da ultimo, e meglio,<br>vedi quando e dove morì. |
+| [[Cleopatra\|CLEOPATRA]] | Oh falsissimo [[Love\|amore]]!<br>Dove sono le sacre ampolle che dovresti riempire<br>di [[Water\|acqua]] di dolore? Ora vedo, vedo,<br>nella [[Death\|morte]] di Fulvia come sarà accolta la mia. |
+| ANTONIO | Non altercare più, ma preparati a conoscere<br>i propositi che porto, i quali restano o cessano<br>secondo il consiglio che darai. Per il [[Fire\|fuoco]]<br>che avviva il limo del Nilo, io parto di qui<br>tuo soldato e servo, facendo pace o guerra<br>come a te aggrada. |
+| [[Cleopatra\|CLEOPATRA]] | Tagliami i lacci, [[Charmian\|Carmiana]], vieni.<br>Ma lascia stare. Presto sto male e [[Well\|bene]];<br>così ama Antonio. |
+| ANTONIO | Mia preziosa [[Queen\|regina]], trattieniti, e rendi vera testimonianza al suo [[Love\|amore]], che affronta<br>una prova onorevole. |
+| [[Cleopatra\|CLEOPATRA]] | Così mi disse Fulvia. Di grazia, voltati e piangi per lei,<br>poi dimmi addio, e di’ che le [[Tears\|lacrime]]<br>appartengono all’[[Egypt\|Egitto]]. Suvvia, recita una scena<br>d’eccellente finzione, e falla apparire<br>come perfetto [[Honour\|onore]]. |
+| ANTONIO | Mi scalderai il [[Blood\|sangue]]. Basta. |
+| [[Cleopatra\|CLEOPATRA]] | Puoi far meglio ancora; ma questo è passabile. |
+| ANTONIO | Ora per la mia [[Sword\|spada]]— |
+| [[Cleopatra\|CLEOPATRA]] | E lo scudo. Continua a migliorare.<br>Ma questo non è il meglio. Guarda, ti prego, [[Charmian\|Carmiana]],<br>come a questo romano erculeo s’addice<br>il portamento della sua stizza. |
 | ANTONIO | Vi lascio, signora. |
-| [[Cleopatra|CLEOPATRA]] | Cortese signore, una parola.<br>Signore, voi e io dobbiamo separarci; ma non è questo.<br>Signore, voi e io ci siamo amati; ma non è nemmeno questo;<br>questo lo sapete [[Well|bene]]. C’è qualcosa che vorrei—<br>oh, la mia dimenticanza è proprio un Antonio,<br>e io son tutta dimenticata. |
+| [[Cleopatra\|CLEOPATRA]] | Cortese signore, una parola.<br>Signore, voi e io dobbiamo separarci; ma non è questo.<br>Signore, voi e io ci siamo amati; ma non è nemmeno questo;<br>questo lo sapete [[Well\|bene]]. C’è qualcosa che vorrei—<br>oh, la mia dimenticanza è proprio un Antonio,<br>e io son tutta dimenticata. |
 | ANTONIO | Se la vostra regalità non tenesse l’ozio per suddito, vi prenderei<br>per l’ozio stesso. |
-| [[Cleopatra|CLEOPATRA]] | È fatica sudata portare un tale ozio così vicino al cuore<br>come [[Cleopatra]] porta questo. Ma signore, perdonatemi,<br>poiché le mie grazie mi uccidono quando non<br>appaiono [[Well|bene]] ai vostri occhi. Il vostro [[Honour|onore]] vi chiama via,<br>perciò siate sordo alla mia follia non compianta,<br>e tutti gli dèi vadano con voi. Sulla vostra [[Sword|spada]]<br>segga la vittoria d’alloro, e il facile [[success|successo]]<br>sia sparso davanti ai vostri piedi. |
+| [[Cleopatra\|CLEOPATRA]] | È fatica sudata portare un tale ozio così vicino al cuore<br>come [[Cleopatra]] porta questo. Ma signore, perdonatemi,<br>poiché le mie grazie mi uccidono quando non<br>appaiono [[Well\|bene]] ai vostri occhi. Il vostro [[Honour\|onore]] vi chiama via,<br>perciò siate sordo alla mia follia non compianta,<br>e tutti gli dèi vadano con voi. Sulla vostra [[Sword\|spada]]<br>segga la vittoria d’alloro, e il facile [[success\|successo]]<br>sia sparso davanti ai vostri piedi. |
 | ANTONIO | Andiamo. Vieni. La nostra separazione così resta e fugge<br>che tu, restando qui, vieni pure con me,<br>e io, fuggendo di qui, resto qui con te.<br>Via. |
 | *(didascalia)* | Escono separatamente |
 
@@ -2124,25 +2124,25 @@ The [[Tragedy]] of Antony and [[Cleopatra]]
 
 | Chi parla | Battuta |
 |---|---|
-| *(didascalia)* | Entrano Ottavio leggendo una lettera, [[Lepidus|Lepido]], e il loro seguito |
-| CESARE | Puoi vedere, [[Lepidus|Lepido]], e d’ora in poi sapere,<br>che non è vizio naturale di Cesare odiare<br>il nostro grande rivale. Da Alessandria<br>questa è la nuova: pesca, beve e consuma<br>in baldoria le lampade della [[Night|notte]]; non è più virile<br>di [[Cleopatra]], né la [[Queen|regina]] di Tolomeo<br>più femminea di lui; a stento diede udienza<br>o si degnò di pensare che avesse dei soci. Là troverai<br>un uomo che è il compendio di tutti i difetti<br>che tutti gli uomini seguono. |
-| [[Lepidus|LEPIDO]] | Non posso credere che vi siano<br>mali abbastanza da oscurare tutta la sua bontà.<br>I suoi difetti in lui paiono come le macchie del cielo,<br>più fiammeggianti per il nero della [[Night|notte]]; ereditari<br>piuttosto che acquisiti; ciò che non può mutare<br>più che ciò che sceglie. |
-| CESARE | Sei troppo indulgente. Ammettiamo che non sia<br>male ruzzolare sul letto di Tolomeo,<br>dare un regno per uno scherzo, sedere<br>e far a turno di trincare con uno schiavo,<br>barcollare per le strade a [[Noon|mezzogiorno]], e sostenere la zuffa<br>con furfanti che puzzano di sudore. Diciamo che questo gli<br>s’addice—<br>ché ben rara dev’essere la tempra<br>di chi queste cose non possono macchiare—eppure Antonio<br>non può in alcun modo scusare le sue colpe quando noi portiamo<br>un peso così grande della sua leggerezza. Se riempisse<br>il suo tempo vuoto con la sua voluttà,<br>le indigestioni e l’aridità delle ossa<br>gliene chiederebbero conto. Ma sciupare un [[Time|tempo]] tale<br>che a tamburo lo strappa dal suo diletto, e parla forte<br>quanto il suo stato e il nostro—questo va rimproverato<br>come sgridiamo i ragazzi che, maturi di sapere,<br>impegnano la loro esperienza al piacere presente,<br>e così si [[Rebel|ribellano]] al giudizio. |
+| *(didascalia)* | Entrano Ottavio leggendo una lettera, [[Lepidus\|Lepido]], e il loro seguito |
+| CESARE | Puoi vedere, [[Lepidus\|Lepido]], e d’ora in poi sapere,<br>che non è vizio naturale di Cesare odiare<br>il nostro grande rivale. Da Alessandria<br>questa è la nuova: pesca, beve e consuma<br>in baldoria le lampade della [[Night\|notte]]; non è più virile<br>di [[Cleopatra]], né la [[Queen\|regina]] di Tolomeo<br>più femminea di lui; a stento diede udienza<br>o si degnò di pensare che avesse dei soci. Là troverai<br>un uomo che è il compendio di tutti i difetti<br>che tutti gli uomini seguono. |
+| [[Lepidus\|LEPIDO]] | Non posso credere che vi siano<br>mali abbastanza da oscurare tutta la sua bontà.<br>I suoi difetti in lui paiono come le macchie del cielo,<br>più fiammeggianti per il nero della [[Night\|notte]]; ereditari<br>piuttosto che acquisiti; ciò che non può mutare<br>più che ciò che sceglie. |
+| CESARE | Sei troppo indulgente. Ammettiamo che non sia<br>male ruzzolare sul letto di Tolomeo,<br>dare un regno per uno scherzo, sedere<br>e far a turno di trincare con uno schiavo,<br>barcollare per le strade a [[Noon\|mezzogiorno]], e sostenere la zuffa<br>con furfanti che puzzano di sudore. Diciamo che questo gli<br>s’addice—<br>ché ben rara dev’essere la tempra<br>di chi queste cose non possono macchiare—eppure Antonio<br>non può in alcun modo scusare le sue colpe quando noi portiamo<br>un peso così grande della sua leggerezza. Se riempisse<br>il suo tempo vuoto con la sua voluttà,<br>le indigestioni e l’aridità delle ossa<br>gliene chiederebbero conto. Ma sciupare un [[Time\|tempo]] tale<br>che a tamburo lo strappa dal suo diletto, e parla forte<br>quanto il suo stato e il nostro—questo va rimproverato<br>come sgridiamo i ragazzi che, maturi di sapere,<br>impegnano la loro esperienza al piacere presente,<br>e così si [[Rebel\|ribellano]] al giudizio. |
 | *(didascalia)* | Entra un Messaggero |
-| [[Lepidus|LEPIDO]] | Ecco altre notizie. |
-| MESSAGGERO | I tuoi ordini sono stati eseguiti, e ogni ora,<br>nobilissimo Cesare, avrai rapporto<br>di come vanno le cose fuori. [[Pompey|Pompeo]] è forte sul mare,<br>e pare che sia amato da quelli<br>che hanno soltanto temuto Cesare. Ai porti<br>accorrono i malcontenti, e le voci degli uomini<br>lo dicono assai offeso. |
+| [[Lepidus\|LEPIDO]] | Ecco altre notizie. |
+| MESSAGGERO | I tuoi ordini sono stati eseguiti, e ogni ora,<br>nobilissimo Cesare, avrai rapporto<br>di come vanno le cose fuori. [[Pompey\|Pompeo]] è forte sul mare,<br>e pare che sia amato da quelli<br>che hanno soltanto temuto Cesare. Ai porti<br>accorrono i malcontenti, e le voci degli uomini<br>lo dicono assai offeso. |
 | *(didascalia)* | Esce |
-| CESARE | Non avrei dovuto aspettarmi di meno. Ci è stato insegnato fin dalle origini<br>che chi è al potere fu desiderato finché non lo fu,<br>e l’uomo in declino, mai amato finché non fu più degno d’[[Love|amore]],<br>torna caro per il fatto d’esser mancato. Questo comune [[Body|corpo]],<br>simile a un [[Flag|giunco]] vagante sulla corrente,<br>va avanti e indietro, servendo la marea che muta,<br>fino a marcire nel proprio moto. |
+| CESARE | Non avrei dovuto aspettarmi di meno. Ci è stato insegnato fin dalle origini<br>che chi è al potere fu desiderato finché non lo fu,<br>e l’uomo in declino, mai amato finché non fu più degno d’[[Love\|amore]],<br>torna caro per il fatto d’esser mancato. Questo comune [[Body\|corpo]],<br>simile a un [[Flag\|giunco]] vagante sulla corrente,<br>va avanti e indietro, servendo la marea che muta,<br>fino a marcire nel proprio moto. |
 | *(didascalia)* | Entra un secondo Messaggero |
-| SECONDO MESSAGGERO | Cesare, ti reco notizia che Menecrate e Mena, famosi pirati,<br>fanno servire a sé il mare, che arano e feriscono<br>con chiglie d’ogni sorta. Molte ardenti incursioni<br>compiono in [[Italy|Italia]]. Le popolazioni marittime<br>impallidiscono di [[Blood|sangue]] al pensiero, e la gioventù ardente si rivolta.<br>Nessun vascello può affacciarsi che non sia<br>preso appena visto; poiché il nome di [[Pompey|Pompeo]] colpisce più<br>di quanto potrebbe la sua guerra se fosse contrastata. |
+| SECONDO MESSAGGERO | Cesare, ti reco notizia che Menecrate e Mena, famosi pirati,<br>fanno servire a sé il mare, che arano e feriscono<br>con chiglie d’ogni sorta. Molte ardenti incursioni<br>compiono in [[Italy\|Italia]]. Le popolazioni marittime<br>impallidiscono di [[Blood\|sangue]] al pensiero, e la gioventù ardente si rivolta.<br>Nessun vascello può affacciarsi che non sia<br>preso appena visto; poiché il nome di [[Pompey\|Pompeo]] colpisce più<br>di quanto potrebbe la sua guerra se fosse contrastata. |
 | *(didascalia)* | Esce |
-| CESARE | Antonio,<br>lascia i tuoi lascivi bagordi. Quando un tempo<br>fosti battuto da Modena, dove uccidesti<br>Irzio e Pansa, consoli, alle tue calcagna<br>seguì la fame, contro la quale combattesti—<br>benché delicatamente allevato—con più pazienza<br>di quanta i selvaggi potrebbero sopportare. Bevesti<br>l’orina dei cavalli, e la pozza dorata<br>che avrebbe fatto tossire le bestie. Il tuo palato allora si<br>degnò<br>della bacca più aspra sulla siepe più rozza.<br>Sì, come il cervo quando la [[Snow|neve]] copre il pascolo,<br>brucasti la corteccia degli alberi. Sulle Alpi<br>si racconta che mangiasti carni strane,<br>che alcuni morirono solo a guardarle; e tutto questo—<br>ferisce il tuo [[Honour|onore]] ch’io lo dica adesso—<br>fu sopportato così da soldato che la tua guancia<br>neppure si scavò. |
-| [[Lepidus|LEPIDO]] | È un peccato per lui. |
-| CESARE | Che le sue vergogne presto<br>lo sospingano a Roma. È [[Time|tempo]] che noi due<br>ci mostriamo in campo; e a tal fine<br>raduniamo subito consiglio. [[Pompey|Pompeo]]<br>prospera nel nostro ozio. |
-| [[Lepidus|LEPIDO]] | Domani, Cesare,<br>sarò in grado d’informarvi esattamente<br>di quel che per mare e per terra potrò fare<br>per fronteggiare questo [[Time|tempo]] presente. |
+| CESARE | Antonio,<br>lascia i tuoi lascivi bagordi. Quando un tempo<br>fosti battuto da Modena, dove uccidesti<br>Irzio e Pansa, consoli, alle tue calcagna<br>seguì la fame, contro la quale combattesti—<br>benché delicatamente allevato—con più pazienza<br>di quanta i selvaggi potrebbero sopportare. Bevesti<br>l’orina dei cavalli, e la pozza dorata<br>che avrebbe fatto tossire le bestie. Il tuo palato allora si<br>degnò<br>della bacca più aspra sulla siepe più rozza.<br>Sì, come il cervo quando la [[Snow\|neve]] copre il pascolo,<br>brucasti la corteccia degli alberi. Sulle Alpi<br>si racconta che mangiasti carni strane,<br>che alcuni morirono solo a guardarle; e tutto questo—<br>ferisce il tuo [[Honour\|onore]] ch’io lo dica adesso—<br>fu sopportato così da soldato che la tua guancia<br>neppure si scavò. |
+| [[Lepidus\|LEPIDO]] | È un peccato per lui. |
+| CESARE | Che le sue vergogne presto<br>lo sospingano a Roma. È [[Time\|tempo]] che noi due<br>ci mostriamo in campo; e a tal fine<br>raduniamo subito consiglio. [[Pompey\|Pompeo]]<br>prospera nel nostro ozio. |
+| [[Lepidus\|LEPIDO]] | Domani, Cesare,<br>sarò in grado d’informarvi esattamente<br>di quel che per mare e per terra potrò fare<br>per fronteggiare questo [[Time\|tempo]] presente. |
 | CESARE | Fino a quell’incontro<br>è anche mio l’impegno. Addio. |
-| [[Lepidus|LEPIDO]] | Addio, mio signore. Di quanto saprete nel frattempo<br>dei moti là fuori vi supplicherò, signore,<br>di rendermi partecipe. |
-| CESARE | Non [[Doubt|dubitate]], signore. Lo sapevo mio obbligo. |
+| [[Lepidus\|LEPIDO]] | Addio, mio signore. Di quanto saprete nel frattempo<br>dei moti là fuori vi supplicherò, signore,<br>di rendermi partecipe. |
+| CESARE | Non [[Doubt\|dubitate]], signore. Lo sapevo mio obbligo. |
 | *(didascalia)* | Escono |
 
 
@@ -2194,39 +2194,39 @@ The [[Tragedy]] of Antony and [[Cleopatra]]
 | Chi parla | Battuta |
 |---|---|
 | *(didascalia)* | Entrano |
-| *(didascalia)* | [[Cleopatra]],<br>[[Charmian|Carmiana]], Iras e Mardiano |
-| [[Cleopatra|CLEOPATRA]] | [[Charmian|Carmiana]]! |
-| [[Charmian|CARMIANA]] | Madama? |
-| [[Cleopatra|CLEOPATRA]] | (sbadigliando)<br>Ah, ah. Datemi da bere mandragora. |
-| [[Charmian|CARMIANA]] | Perché, madama? |
-| [[Cleopatra|CLEOPATRA]] | Per poter [[Sleep|dormire]] questo grande vuoto di [[Time|tempo]]<br>in cui il mio Antonio è lontano. |
-| [[Charmian|CARMIANA]] | Pensate troppo a lui. |
-| [[Cleopatra|CLEOPATRA]] | Oh, è tradimento! |
-| [[Charmian|CARMIANA]] | Madama, spero di no. |
-| [[Cleopatra|CLEOPATRA]] | Tu, eunuco Mardiano! |
+| *(didascalia)* | [[Cleopatra]],<br>[[Charmian\|Carmiana]], Iras e Mardiano |
+| [[Cleopatra\|CLEOPATRA]] | [[Charmian\|Carmiana]]! |
+| [[Charmian\|CARMIANA]] | Madama? |
+| [[Cleopatra\|CLEOPATRA]] | (sbadigliando)<br>Ah, ah. Datemi da bere mandragora. |
+| [[Charmian\|CARMIANA]] | Perché, madama? |
+| [[Cleopatra\|CLEOPATRA]] | Per poter [[Sleep\|dormire]] questo grande vuoto di [[Time\|tempo]]<br>in cui il mio Antonio è lontano. |
+| [[Charmian\|CARMIANA]] | Pensate troppo a lui. |
+| [[Cleopatra\|CLEOPATRA]] | Oh, è tradimento! |
+| [[Charmian\|CARMIANA]] | Madama, spero di no. |
+| [[Cleopatra\|CLEOPATRA]] | Tu, eunuco Mardiano! |
 | MARDIANO | Che piace a vostra altezza? |
-| [[Cleopatra|CLEOPATRA]] | Non ora d’udirti cantare. Non prendo piacere<br>in nulla di ciò che ha un eunuco. È [[Well|bene]] per te<br>che, essendo privo di seme, i tuoi pensieri più liberi<br>non possano volar fuori d’[[Egypt|Egitto]]. Hai tu affetti? |
+| [[Cleopatra\|CLEOPATRA]] | Non ora d’udirti cantare. Non prendo piacere<br>in nulla di ciò che ha un eunuco. È [[Well\|bene]] per te<br>che, essendo privo di seme, i tuoi pensieri più liberi<br>non possano volar fuori d’[[Egypt\|Egitto]]. Hai tu affetti? |
 | MARDIANO | Sì, graziosa madama. |
-| [[Cleopatra|CLEOPATRA]] | Davvero? |
-| MARDIANO | Non di fatto, madama, poiché nulla posso fare<br>se non ciò che di fatto è onesto fare.<br>Eppure ho affetti ardenti, e penso<br>a ciò che [[Venus|Venere]] fece con Marte. |
-| [[Cleopatra|CLEOPATRA]] | Oh, [[Charmian|Carmiana]], dove credi ch’egli sia ora? Sta in piedi o siede?<br>O cammina? O è sul suo [[Horse|cavallo]]?<br>O felice [[Horse|cavallo]], che porti il peso d’Antonio!<br>Comportati bravamente, [[Horse|cavallo]], ché sai tu chi<br>muovi?—<br>il semi-Atlante di questa terra, il braccio<br>e l’elmo degli uomini. Ora sta parlando,<br>o mormora: «Dov’è il mio serpente dell’antico Nilo?»—<br>ché così mi chiama. Ora mi nutro<br>del più delizioso [[Poison|veleno]]. Pensa a me,<br>che sono nera per gli amorosi pizzicotti di Febo,<br>e profondamente segnata dal [[Time|tempo]]. Cesare dall’ampia fronte,<br>quando tu eri qui sopra la terra io ero<br>un boccone da monarca, e il grande [[Pompey|Pompeo]]<br>si fermava e faceva crescere i suoi occhi sulla mia fronte.<br>Là ancorava il suo sguardo, e moriva<br>guardando la sua vita. |
+| [[Cleopatra\|CLEOPATRA]] | Davvero? |
+| MARDIANO | Non di fatto, madama, poiché nulla posso fare<br>se non ciò che di fatto è onesto fare.<br>Eppure ho affetti ardenti, e penso<br>a ciò che [[Venus\|Venere]] fece con Marte. |
+| [[Cleopatra\|CLEOPATRA]] | Oh, [[Charmian\|Carmiana]], dove credi ch’egli sia ora? Sta in piedi o siede?<br>O cammina? O è sul suo [[Horse\|cavallo]]?<br>O felice [[Horse\|cavallo]], che porti il peso d’Antonio!<br>Comportati bravamente, [[Horse\|cavallo]], ché sai tu chi<br>muovi?—<br>il semi-Atlante di questa terra, il braccio<br>e l’elmo degli uomini. Ora sta parlando,<br>o mormora: «Dov’è il mio serpente dell’antico Nilo?»—<br>ché così mi chiama. Ora mi nutro<br>del più delizioso [[Poison\|veleno]]. Pensa a me,<br>che sono nera per gli amorosi pizzicotti di Febo,<br>e profondamente segnata dal [[Time\|tempo]]. Cesare dall’ampia fronte,<br>quando tu eri qui sopra la terra io ero<br>un boccone da monarca, e il grande [[Pompey\|Pompeo]]<br>si fermava e faceva crescere i suoi occhi sulla mia fronte.<br>Là ancorava il suo sguardo, e moriva<br>guardando la sua vita. |
 | *(didascalia)* | Entra Alessa |
-| ALESSA | Sovrana d’[[Egypt|Egitto]], salve! |
-| [[Cleopatra|CLEOPATRA]] | Quanto sei diverso da [[Mark Antony|Marco Antonio]]!<br>Eppure, venendo da lui, quella grande medicina t’ha<br>indorato col suo colore. Come va<br>col mio prode [[Mark Antony|Marco Antonio]]? |
-| ALESSA | L’ultima cosa che fece, cara [[Queen|Regina]], fu baciare—ultimo di molti baci raddoppiati—<br>questa perla d’[[Orient|Oriente]]. Le sue parole mi restano fitte nel cuore. |
-| [[Cleopatra|CLEOPATRA]] | Il mio orecchio deve strapparle di là. |
-| ALESSA | «Buon amico», disse, «di’ che il saldo Romano manda al grande [[Egypt|Egitto]]<br>questo tesoro d’un’ostrica; ai piedi del quale,<br>per riparare al piccolo dono, aggiungerò<br>al suo opulento trono dei regni. Tutto l’Oriente,<br>di’ tu, la chiamerà signora». Poi annuì,<br>e gravemente montò un destriero scalpitante,<br>che nitrì così alto che ciò che avrei voluto dire<br>fu bestialmente ammutolito da lui. |
-| [[Cleopatra|CLEOPATRA]] | Come, era triste o allegro? |
-| ALESSA | Come la [[Time|stagione]] dell’anno tra gli estremi<br>del caldo e del freddo, non era né triste né allegro. |
-| [[Cleopatra|CLEOPATRA]] | Oh disposizione [[Well|bene]] equilibrata! Nótalo,<br>nótalo, buona [[Charmian|Carmiana]], è proprio l’uomo; ma nótalo.<br>Non era triste, perché voleva risplendere su quelli<br>che modellano il loro volto sul suo; non era allegro,<br>il che sembrava dir loro che il suo ricordo stava<br>in [[Egypt|Egitto]] con la sua gioia; ma tra i due.<br>Oh celeste mescolanza! Che tu sia triste o allegro,<br>la violenza dell’uno e dell’altro ti s’addice;<br>a nessun altro uomo così. Incontrasti i miei corrieri? |
+| ALESSA | Sovrana d’[[Egypt\|Egitto]], salve! |
+| [[Cleopatra\|CLEOPATRA]] | Quanto sei diverso da [[Mark Antony\|Marco Antonio]]!<br>Eppure, venendo da lui, quella grande medicina t’ha<br>indorato col suo colore. Come va<br>col mio prode [[Mark Antony\|Marco Antonio]]? |
+| ALESSA | L’ultima cosa che fece, cara [[Queen\|Regina]], fu baciare—ultimo di molti baci raddoppiati—<br>questa perla d’[[Orient\|Oriente]]. Le sue parole mi restano fitte nel cuore. |
+| [[Cleopatra\|CLEOPATRA]] | Il mio orecchio deve strapparle di là. |
+| ALESSA | «Buon amico», disse, «di’ che il saldo Romano manda al grande [[Egypt\|Egitto]]<br>questo tesoro d’un’ostrica; ai piedi del quale,<br>per riparare al piccolo dono, aggiungerò<br>al suo opulento trono dei regni. Tutto l’Oriente,<br>di’ tu, la chiamerà signora». Poi annuì,<br>e gravemente montò un destriero scalpitante,<br>che nitrì così alto che ciò che avrei voluto dire<br>fu bestialmente ammutolito da lui. |
+| [[Cleopatra\|CLEOPATRA]] | Come, era triste o allegro? |
+| ALESSA | Come la [[Time\|stagione]] dell’anno tra gli estremi<br>del caldo e del freddo, non era né triste né allegro. |
+| [[Cleopatra\|CLEOPATRA]] | Oh disposizione [[Well\|bene]] equilibrata! Nótalo,<br>nótalo, buona [[Charmian\|Carmiana]], è proprio l’uomo; ma nótalo.<br>Non era triste, perché voleva risplendere su quelli<br>che modellano il loro volto sul suo; non era allegro,<br>il che sembrava dir loro che il suo ricordo stava<br>in [[Egypt\|Egitto]] con la sua gioia; ma tra i due.<br>Oh celeste mescolanza! Che tu sia triste o allegro,<br>la violenza dell’uno e dell’altro ti s’addice;<br>a nessun altro uomo così. Incontrasti i miei corrieri? |
 | ALESSA | Sì, madama, venti messaggeri diversi.<br>Perché ne mandate così fitto? |
-| [[Cleopatra|CLEOPATRA]] | Chi nasce il giorno<br>in cui io dimentico di mandare ad Antonio<br>morirà mendicante. Inchiostro e carta, [[Charmian|Carmiana]]! Io<br>benvenuto, mio buon Alessa. Ho io mai, [[Charmian|Carmiana]],<br>[[Love|amato]] Cesare così? |
-| [[Charmian|CARMIANA]] | Oh, quel prode Cesare! |
-| [[Cleopatra|CLEOPATRA]] | Che ti soffochi un altro enfasi simile!<br>Di’ «il prode Antonio». |
-| [[Charmian|CARMIANA]] | Il valoroso Cesare. |
-| [[Cleopatra|CLEOPATRA]] | Per Iside, ti darò denti sanguinanti<br>se ancora paragoni a Cesare<br>il mio uomo tra gli uomini. |
-| [[Charmian|CARMIANA]] | Col vostro graziosissimo perdono, io canto solo dietro a voi. |
-| [[Cleopatra|CLEOPATRA]] | I miei giorni d’erba acerba, quando ero verde di giudizio, fredda di [[Blood|sangue]],<br>per dire come dicevo allora. Ma su, via,<br>portami inchiostro e carta.<br>Avrà ogni giorno un saluto diverso,<br>o spopolerò l’[[Egypt|Egitto]]. |
+| [[Cleopatra\|CLEOPATRA]] | Chi nasce il giorno<br>in cui io dimentico di mandare ad Antonio<br>morirà mendicante. Inchiostro e carta, [[Charmian\|Carmiana]]! Io<br>benvenuto, mio buon Alessa. Ho io mai, [[Charmian\|Carmiana]],<br>[[Love\|amato]] Cesare così? |
+| [[Charmian\|CARMIANA]] | Oh, quel prode Cesare! |
+| [[Cleopatra\|CLEOPATRA]] | Che ti soffochi un altro enfasi simile!<br>Di’ «il prode Antonio». |
+| [[Charmian\|CARMIANA]] | Il valoroso Cesare. |
+| [[Cleopatra\|CLEOPATRA]] | Per Iside, ti darò denti sanguinanti<br>se ancora paragoni a Cesare<br>il mio uomo tra gli uomini. |
+| [[Charmian\|CARMIANA]] | Col vostro graziosissimo perdono, io canto solo dietro a voi. |
+| [[Cleopatra\|CLEOPATRA]] | I miei giorni d’erba acerba, quando ero verde di giudizio, fredda di [[Blood\|sangue]],<br>per dire come dicevo allora. Ma su, via,<br>portami inchiostro e carta.<br>Avrà ogni giorno un saluto diverso,<br>o spopolerò l’[[Egypt\|Egitto]]. |
 | *(didascalia)* | Escono |
 
 
@@ -2263,26 +2263,26 @@ The [[Tragedy]] of Antony and [[Cleopatra]]
 
 | Chi parla | Battuta |
 |---|---|
-| *(didascalia)* | Entrano [[Pompey|Pompeo]], Menecrate e Mena, in assetto di guerra |
-| [[Pompey|POMPEO]] | Se i grandi dèi sono giusti, assisteranno<br>le imprese degli uomini più giusti. |
-| *(didascalia)* | MENECRATE Sappi, degno [[Pompey|Pompeo]], |
-| [[Pompey|POMPEO]] | che ciò che ritardano non lo negano. |
-| [[Pompey|POMPEO]] | Mentre siamo supplici al loro trono, deperisce<br>la cosa per cui supplichiamo. |
+| *(didascalia)* | Entrano [[Pompey\|Pompeo]], Menecrate e Mena, in assetto di guerra |
+| [[Pompey\|POMPEO]] | Se i grandi dèi sono giusti, assisteranno<br>le imprese degli uomini più giusti. |
+| *(didascalia)* | MENECRATE Sappi, degno [[Pompey\|Pompeo]], |
+| [[Pompey\|POMPEO]] | che ciò che ritardano non lo negano. |
+| [[Pompey\|POMPEO]] | Mentre siamo supplici al loro trono, deperisce<br>la cosa per cui supplichiamo. |
 | *(didascalia)* | MENECRATE |
-| [[Pompey|POMPEO]] | Noi, ignari di noi stessi, chiediamo spesso il nostro danno, che le sagge potenze<br>ci negano per il nostro bene; così troviamo profitto<br>nel perdere le nostre preghiere. |
-| [[Pompey|POMPEO]] | Andrà [[Well|bene]] per me.<br>Il popolo mi [[Love|ama]], e il mare è mio.<br>Le mie forze crescono, e la mia [[Hope|speranza]] presaga<br>dice che verranno al plenilunio. [[Mark Antony|Marco Antonio]]<br>in [[Egypt|Egitto]] siede a cena, e non farà<br>guerre fuori di casa. Cesare guadagna denaro dove<br>perde i cuori. [[Lepidus|Lepido]] lusinga entrambi,<br>da entrambi è lusingato; ma egli non ama nessuno dei due,<br>né l’uno né l’altro si cura di lui. |
+| [[Pompey\|POMPEO]] | Noi, ignari di noi stessi, chiediamo spesso il nostro danno, che le sagge potenze<br>ci negano per il nostro bene; così troviamo profitto<br>nel perdere le nostre preghiere. |
+| [[Pompey\|POMPEO]] | Andrà [[Well\|bene]] per me.<br>Il popolo mi [[Love\|ama]], e il mare è mio.<br>Le mie forze crescono, e la mia [[Hope\|speranza]] presaga<br>dice che verranno al plenilunio. [[Mark Antony\|Marco Antonio]]<br>in [[Egypt\|Egitto]] siede a cena, e non farà<br>guerre fuori di casa. Cesare guadagna denaro dove<br>perde i cuori. [[Lepidus\|Lepido]] lusinga entrambi,<br>da entrambi è lusingato; ma egli non ama nessuno dei due,<br>né l’uno né l’altro si cura di lui. |
 | *(didascalia)* | MENA |
-| [[Pompey|POMPEO]] | Cesare e [[Lepidus|Lepido]]<br>sono in campo; conducono una possente forza. |
-| [[Pompey|POMPEO]] | Da chi l’hai saputo? È falso. |
+| [[Pompey\|POMPEO]] | Cesare e [[Lepidus\|Lepido]]<br>sono in campo; conducono una possente forza. |
+| [[Pompey\|POMPEO]] | Da chi l’hai saputo? È falso. |
 | *(didascalia)* | MENA |
-| [[Pompey|POMPEO]] | Da [[Silvius|Silvio]], signore. |
-| [[Pompey|POMPEO]] | [[Dreams|Sogna]]. Io so che sono a Roma insieme,<br>in attesa d’Antonio. Ma tutti gl’incanti d’[[Love|amore]],<br>lasciva [[Cleopatra]], ammorbidiscano il tuo labbro sfiorito.<br>La stregoneria s’unisca alla [[Beauty|bellezza]], la libidine a entrambe<br>leghi il libertino, in un campo di banchetti<br>tengano il suo cervello in fumo; cuochi epicurei<br>gli aguzzino con salse insaziabili l’appetito,<br>sì che il [[Sleep|sonno]] e il cibo differiscano il suo [[Honour|onore]]<br>fino a un torpore di Lete— |
+| [[Pompey\|POMPEO]] | Da [[Silvius\|Silvio]], signore. |
+| [[Pompey\|POMPEO]] | [[Dreams\|Sogna]]. Io so che sono a Roma insieme,<br>in attesa d’Antonio. Ma tutti gl’incanti d’[[Love\|amore]],<br>lasciva [[Cleopatra]], ammorbidiscano il tuo labbro sfiorito.<br>La stregoneria s’unisca alla [[Beauty\|bellezza]], la libidine a entrambe<br>leghi il libertino, in un campo di banchetti<br>tengano il suo cervello in fumo; cuochi epicurei<br>gli aguzzino con salse insaziabili l’appetito,<br>sì che il [[Sleep\|sonno]] e il cibo differiscano il suo [[Honour\|onore]]<br>fino a un torpore di Lete— |
 | *(didascalia)* | Entra Varrio |
-| [[Pompey|POMPEO]] | Ebbene, Varrio? |
-| VARRIO | È certissimo ciò che riferirò:<br>[[Mark Antony|Marco Antonio]] è atteso a Roma<br>d’ora in ora. Da quando lasciò l’[[Egypt|Egitto]], v’è<br>tempo per un viaggio più lungo. |
-| [[Pompey|POMPEO]] | Avrei prestato miglior orecchio<br>a notizia da meno. Mena, non pensavo<br>che questo crapulone amoroso avrebbe cinto l’elmo<br>per una guerra così meschina. La sua arte militare<br>vale il doppio degli altri due. Ma innalziamo<br>ancora più alta la nostra stima, se il nostro muoverci<br>può strappare dal grembo della vedova d’[[Egypt|Egitto]]<br>l’Antonio mai sazio di libidine. |
-| MENA | Non posso [[Hope|sperare]]<br>che Cesare e Antonio si salutino [[Well|bene]] tra loro.<br>La sua defunta moglie fece torti a Cesare,<br>suo fratello gli mosse guerra, benché, credo,<br>non spinto da Antonio. |
-| [[Pompey|POMPEO]] | Non so, Mena,<br>come inimicizie minori possano cedere alle maggiori.<br>Se non fosse che noi ci ergiamo contro tutti loro,<br>sarebbe certo che si azzufferebbero tra<br>loro,<br>ché hanno nutrito causa abbastanza<br>per sguainare le spade. Ma come la [[Fear|paura]] di noi<br>possa cementare le loro divisioni e ricucire<br>la piccola differenza, ancora non sappiamo.<br>Sia come vorranno i nostri dèi; sta soltanto<br>alle nostre vite adoperare le mani più forti.<br>Vieni, Mena. |
+| [[Pompey\|POMPEO]] | Ebbene, Varrio? |
+| VARRIO | È certissimo ciò che riferirò:<br>[[Mark Antony\|Marco Antonio]] è atteso a Roma<br>d’ora in ora. Da quando lasciò l’[[Egypt\|Egitto]], v’è<br>tempo per un viaggio più lungo. |
+| [[Pompey\|POMPEO]] | Avrei prestato miglior orecchio<br>a notizia da meno. Mena, non pensavo<br>che questo crapulone amoroso avrebbe cinto l’elmo<br>per una guerra così meschina. La sua arte militare<br>vale il doppio degli altri due. Ma innalziamo<br>ancora più alta la nostra stima, se il nostro muoverci<br>può strappare dal grembo della vedova d’[[Egypt\|Egitto]]<br>l’Antonio mai sazio di libidine. |
+| MENA | Non posso [[Hope\|sperare]]<br>che Cesare e Antonio si salutino [[Well\|bene]] tra loro.<br>La sua defunta moglie fece torti a Cesare,<br>suo fratello gli mosse guerra, benché, credo,<br>non spinto da Antonio. |
+| [[Pompey\|POMPEO]] | Non so, Mena,<br>come inimicizie minori possano cedere alle maggiori.<br>Se non fosse che noi ci ergiamo contro tutti loro,<br>sarebbe certo che si azzufferebbero tra<br>loro,<br>ché hanno nutrito causa abbastanza<br>per sguainare le spade. Ma come la [[Fear\|paura]] di noi<br>possa cementare le loro divisioni e ricucire<br>la piccola differenza, ancora non sappiamo.<br>Sia come vorranno i nostri dèi; sta soltanto<br>alle nostre vite adoperare le mani più forti.<br>Vieni, Mena. |
 | *(didascalia)* | Escono |
 
 
@@ -2391,21 +2391,21 @@ The [[Tragedy]] of Antony and [[Cleopatra]]
 
 | Chi parla | Battuta |
 |---|---|
-| *(didascalia)* | Entrano [[Enobarbus|Enobarbo]] e [[Lepidus|Lepido]] |
-| [[Lepidus|LEPIDO]] | Buon [[Enobarbus|Enobarbo]], è opera degna,<br>e ti s’addirà [[Well|bene]], pregare il tuo capitano<br>a discorso mite e gentile. |
-| [[Enobarbus|ENOBARBO]] | Lo pregherò di rispondere da par suo. Se Cesare lo provoca,<br>Antonio guardi oltre la testa di Cesare<br>e parli alto come Marte. Per Giove,<br>fossi io a portare la barba d’[[Antonio]]<br>non me la raderei oggi. |
-| [[Lepidus|LEPIDO]] | Non è [[Time|tempo]]<br>di rancori privati. |
-| [[Enobarbus|ENOBARBO]] | Ogni [[Time|tempo]]<br>serve alla materia che allora vi nasce dentro. |
-| [[Lepidus|LEPIDO]] | Ma il piccolo deve cedere il passo al più grande. |
-| [[Enobarbus|ENOBARBO]] | Non se il piccolo viene per primo. |
-| [[Lepidus|LEPIDO]] | Il tuo parlare è passione.<br>Ma ti prego, non attizzare braci. Ecco che viene<br>il nobile Antonio. |
+| *(didascalia)* | Entrano [[Enobarbus\|Enobarbo]] e [[Lepidus\|Lepido]] |
+| [[Lepidus\|LEPIDO]] | Buon [[Enobarbus\|Enobarbo]], è opera degna,<br>e ti s’addirà [[Well\|bene]], pregare il tuo capitano<br>a discorso mite e gentile. |
+| [[Enobarbus\|ENOBARBO]] | Lo pregherò di rispondere da par suo. Se Cesare lo provoca,<br>Antonio guardi oltre la testa di Cesare<br>e parli alto come Marte. Per Giove,<br>fossi io a portare la barba d’[[Antonio]]<br>non me la raderei oggi. |
+| [[Lepidus\|LEPIDO]] | Non è [[Time\|tempo]]<br>di rancori privati. |
+| [[Enobarbus\|ENOBARBO]] | Ogni [[Time\|tempo]]<br>serve alla materia che allora vi nasce dentro. |
+| [[Lepidus\|LEPIDO]] | Ma il piccolo deve cedere il passo al più grande. |
+| [[Enobarbus\|ENOBARBO]] | Non se il piccolo viene per primo. |
+| [[Lepidus\|LEPIDO]] | Il tuo parlare è passione.<br>Ma ti prego, non attizzare braci. Ecco che viene<br>il nobile Antonio. |
 | *(didascalia)* | Entrano da una porta Antonio e Ventidio |
-| [[Enobarbus|ENOBARBO]] | E là Cesare. |
+| [[Enobarbus\|ENOBARBO]] | E là Cesare. |
 | *(didascalia)* | Entrano da un’altra porta Cesare, Mecenate e Agrippa |
-| ANTONIO | (a Ventidio)<br>Se qui componiamo [[Well|bene]], in Partia.<br>Ascolta, Ventidio. |
+| ANTONIO | (a Ventidio)<br>Se qui componiamo [[Well\|bene]], in Partia.<br>Ascolta, Ventidio. |
 | CESARE | Non so,<br>Mecenate; chiedi ad Agrippa. |
-| [[Lepidus|LEPIDO]] | (a Cesare e Antonio) Nobili amici,<br>ciò che ci unì fu grandissimo; e non permettete<br>che un motivo più magro ci laceri. Ciò che non va,<br>sia ascoltato con dolcezza. Quando [[debate|dibattiamo]]<br>ad alta voce le nostre banali differenze, commettiamo<br>un omicidio nel guarire ferite. Dunque, nobili soci,<br>tanto più perché ve ne supplico caldamente,<br>toccate i punti più aspri con i termini più dolci,<br>né l’acredine s’aggiunga alla materia. |
-| ANTONIO | È detto [[Well|bene]].<br>Fossimo davanti ai nostri eserciti, e in procinto di batterci,<br>farei così. |
+| [[Lepidus\|LEPIDO]] | (a Cesare e Antonio) Nobili amici,<br>ciò che ci unì fu grandissimo; e non permettete<br>che un motivo più magro ci laceri. Ciò che non va,<br>sia ascoltato con dolcezza. Quando [[debate\|dibattiamo]]<br>ad alta voce le nostre banali differenze, commettiamo<br>un omicidio nel guarire ferite. Dunque, nobili soci,<br>tanto più perché ve ne supplico caldamente,<br>toccate i punti più aspri con i termini più dolci,<br>né l’acredine s’aggiunga alla materia. |
+| ANTONIO | È detto [[Well\|bene]].<br>Fossimo davanti ai nostri eserciti, e in procinto di batterci,<br>farei così. |
 | *(didascalia)* | Antonio e Cesare si abbracciano. Squilli di trombe |
 | CESARE | Benvenuto a Roma. |
 | ANTONIO | Vi ringrazio. |
@@ -2414,75 +2414,75 @@ The [[Tragedy]] of Antony and [[Cleopatra]]
 | CESARE | E allora sia.<br>Siedono |
 | ANTONIO | Apprendo che prendete a male cose che non lo sono,<br>o che, essendolo, non vi riguardano. |
 | CESARE | Meriterei d’esser deriso<br>se per nulla o per poco<br>mi dicessi offeso, e con voi<br>più che con chiunque al mondo; e più deriso ancora<br>se una volta vi nominassi con disprezzo, quando pronunciare il vostro nome<br>non mi riguardava. |
-| ANTONIO | Il mio stare in [[Egypt|Egitto]], Cesare, che v’importava? |
-| CESARE | Non più di quanto il mio risiedere qui a Roma<br>potesse importare a voi in [[Egypt|Egitto]]. Eppure se là<br>tramavate contro il mio stato, il vostro stare in [[Egypt|Egitto]]<br>poteva ben essere mia questione. |
+| ANTONIO | Il mio stare in [[Egypt\|Egitto]], Cesare, che v’importava? |
+| CESARE | Non più di quanto il mio risiedere qui a Roma<br>potesse importare a voi in [[Egypt\|Egitto]]. Eppure se là<br>tramavate contro il mio stato, il vostro stare in [[Egypt\|Egitto]]<br>poteva ben essere mia questione. |
 | ANTONIO | Che intendete per «tramavate»? |
 | CESARE | Potete facilmente cogliere il mio intento<br>da ciò che qui mi accadde. Vostra moglie e vostro fratello<br>mi mossero guerra, e la loro contesa<br>aveva voi per tema. Voi eravate la parola d’ordine della guerra. |
 | ANTONIO | Voi fraintendete la faccenda. Mio fratello mai<br>m’invocò nel suo atto. Me ne informai,<br>e ne ho notizia da alcune veraci testimonianze<br>di chi sguainò la spada con voi. Non screditò egli piuttosto<br>la mia autorità insieme alla vostra,<br>e non mosse guerra ugualmente contro il mio volere,<br>avendo ugualmente la vostra causa? Di ciò le mie lettere<br>già prima vi diedero soddisfazione. Se volete rattoppare una lite,<br>avendo materia intera con cui farla,<br>non dev’essere con questa. |
 | CESARE | Voi lodate voi stesso<br>attribuendo a me difetti di giudizio, ma<br>avete rattoppato le vostre scuse. |
 | ANTONIO | Non è così, non è così.<br>So che non potevate mancare, ne son certo,<br>della necessità stessa di questo pensiero: che io,<br>vostro socio nella causa contro cui egli combatteva,<br>non potevo con occhio benevolo assistere a quelle guerre<br>che si opponevano alla mia stessa pace. Quanto a mia moglie,<br>vorrei che aveste il suo spirito in un’altra simile.<br>Il terzo del mondo è vostro, e con un morso<br>lo potete guidar facilmente, ma non una tal moglie. |
-| [[Enobarbus|ENOBARBO]] | Avessimo tutti simili mogli, così che gli uomini potessero andare in guerra con le donne. |
+| [[Enobarbus\|ENOBARBO]] | Avessimo tutti simili mogli, così che gli uomini potessero andare in guerra con le donne. |
 | ANTONIO | Tanto indomabile, i suoi tumulti, Cesare,<br>nati dalla sua impazienza—cui non mancava<br>anche accortezza politica—dolendomene ammetto<br>vi diedero troppa inquietudine, e per questo dovete<br>solo dire che non potevo evitarlo. |
 | CESARE | Vi scrissi<br>quando, gozzovigliando in Alessandria, voi<br>v’intascaste le mie lettere, e con motteggi<br>cacciaste dall’udienza il mio messo. |
 | ANTONIO | Signore, egli mi piombò addosso prima d’essere ammesso.<br>Avevo appena banchettato con tre re, e mi mancava<br>quel che ero al mattino; ma il giorno dopo<br>gliene parlai io stesso, il che valeva<br>quanto avergli chiesto perdono. Costui<br>non sia nulla nella nostra contesa. Se contendiamo,<br>cancelliamolo dalla nostra questione. |
 | CESARE | Avete violato<br>l’articolo del vostro giuramento, cosa di cui voi mai<br>avrete lingua per accusare me. |
-| [[Lepidus|LEPIDO]] | Piano, Cesare. |
-| ANTONIO | No, [[Lepidus|Lepido]], lascialo parlare.<br>Sacro è l’[[Honour|onore]] di cui ora ragiona,<br>supponendo ch’io ne fossi privo. Ma avanti, Cesare:<br>l’articolo del mio giuramento— |
+| [[Lepidus\|LEPIDO]] | Piano, Cesare. |
+| ANTONIO | No, [[Lepidus\|Lepido]], lascialo parlare.<br>Sacro è l’[[Honour\|onore]] di cui ora ragiona,<br>supponendo ch’io ne fossi privo. Ma avanti, Cesare:<br>l’articolo del mio giuramento— |
 | CESARE | Di prestarmi armi e aiuto quando li richiedessi,<br>e voi negaste entrambi. |
-| ANTONIO | Trascurai, piuttosto,<br>e allora quando ore avvelenate m’avevano estraniato<br>dalla mia stessa coscienza. Per quanto posso<br>farò il penitente con voi, ma la mia onestà<br>non impoverirà la mia [[Greatness|grandezza]], né il mio potere<br>opererà senza di lei. La [[Truth|verità]] è che Fulvia,<br>per trarmi fuori d’[[Egypt|Egitto]], fece qui la guerra,<br>e di ciò io stesso, ignaro movente,<br>chiedo perdono fin dove s’addice al mio [[Honour|onore]]<br>di piegarsi in tal caso. |
-| [[Lepidus|LEPIDO]] | Nobilmente detto. |
+| ANTONIO | Trascurai, piuttosto,<br>e allora quando ore avvelenate m’avevano estraniato<br>dalla mia stessa coscienza. Per quanto posso<br>farò il penitente con voi, ma la mia onestà<br>non impoverirà la mia [[Greatness\|grandezza]], né il mio potere<br>opererà senza di lei. La [[Truth\|verità]] è che Fulvia,<br>per trarmi fuori d’[[Egypt\|Egitto]], fece qui la guerra,<br>e di ciò io stesso, ignaro movente,<br>chiedo perdono fin dove s’addice al mio [[Honour\|onore]]<br>di piegarsi in tal caso. |
+| [[Lepidus\|LEPIDO]] | Nobilmente detto. |
 | MECENATE | Se vi piacesse non spingere oltre<br>i rancori fra voi; dimenticarli del tutto<br>sarebbe ricordare che il bisogno presente<br>vi chiama a riconciliarvi. |
-| [[Lepidus|LEPIDO]] | Degnamente detto, Mecenate. |
-| [[Enobarbus|ENOBARBO]] | Oppure se vi prestate l’un l’altro l’[[Love|amore]] per il momento, potrete, quando non udrete più parlare di [[Pompey|Pompeo]], restituirlo. Avrete [[Time|tempo]] per bisticciare quando non avrete altro da fare. |
+| [[Lepidus\|LEPIDO]] | Degnamente detto, Mecenate. |
+| [[Enobarbus\|ENOBARBO]] | Oppure se vi prestate l’un l’altro l’[[Love\|amore]] per il momento, potrete, quando non udrete più parlare di [[Pompey\|Pompeo]], restituirlo. Avrete [[Time\|tempo]] per bisticciare quando non avrete altro da fare. |
 | ANTONIO | Tu sei soltanto un soldato. Non parlare più. |
-| [[Enobarbus|ENOBARBO]] | Che la [[Truth|verità]] debba tacere l’avevo quasi dimenticato. |
-| ANTONIO | Fate torto a questa assemblea, perciò non parlate più. [[Enobarbus|ENOBARBO]] Suvvia, dunque; sono la vostra pietra pensosa. |
-| CESARE | Non mi dispiace tanto la sostanza, quanto<br>il modo del suo parlare, ché non è possibile<br>che restiamo in [[Friendship|amicizia]], essendo i nostri caratteri<br>così diversi nei loro atti. Eppure se sapessi<br>quale cerchio potrebbe tenerci saldi, da un capo all’altro<br>del mondo lo cercherei. |
+| [[Enobarbus\|ENOBARBO]] | Che la [[Truth\|verità]] debba tacere l’avevo quasi dimenticato. |
+| ANTONIO | Fate torto a questa assemblea, perciò non parlate più. [[Enobarbus\|ENOBARBO]] Suvvia, dunque; sono la vostra pietra pensosa. |
+| CESARE | Non mi dispiace tanto la sostanza, quanto<br>il modo del suo parlare, ché non è possibile<br>che restiamo in [[Friendship\|amicizia]], essendo i nostri caratteri<br>così diversi nei loro atti. Eppure se sapessi<br>quale cerchio potrebbe tenerci saldi, da un capo all’altro<br>del mondo lo cercherei. |
 | AGRIPPA | Permettete, Cesare. |
 | CESARE | Parla, Agrippa. |
-| AGRIPPA | Tu hai una sorella per parte di madre,<br>l’ammirata [[Octavia|Ottavia]]. Il grande [[Mark Antony|Marco Antonio]]<br>è ora vedovo. |
-| CESARE | Non dir così, Agrippa.<br>Se [[Cleopatra]] t’udisse, il tuo rimprovero<br>sarebbe [[Well|ben]] meritato per avventatezza. |
+| AGRIPPA | Tu hai una sorella per parte di madre,<br>l’ammirata [[Octavia\|Ottavia]]. Il grande [[Mark Antony\|Marco Antonio]]<br>è ora vedovo. |
+| CESARE | Non dir così, Agrippa.<br>Se [[Cleopatra]] t’udisse, il tuo rimprovero<br>sarebbe [[Well\|ben]] meritato per avventatezza. |
 | ANTONIO | Non sono ammogliato, Cesare. Lasciate ch’io senta<br>Agrippa parlare oltre. |
-| AGRIPPA | Per tenervi in perpetua amicizia,<br>per farvi fratelli, e per annodare i vostri cuori<br>con nodo che non scorra, prenda Antonio<br>[[Octavia|Ottavia]] in moglie; la cui [[Beauty|bellezza]] non reclama<br>marito peggiore del migliore degli uomini;<br>la cui virtù e le cui grazie tutte dicono<br>ciò che nessun altro può proferire. Con questo [[Marriage|matrimonio]]<br>tutte le piccole gelosie che ora paiono grandi,<br>e tutti i grandi timori che ora recano i loro pericoli,<br>sarebbero allora nulla. Le verità sarebbero favole<br>là dove ora le mezze favole son verità. Il suo [[Love|amore]] per entrambi<br>trarrebbe dietro di sé l’uno all’altro, e tutti gli amori<br>verso entrambi. Perdonate ciò che ho detto,<br>ché è pensiero meditato, non improvviso,<br>ruminato dal dovere. |
+| AGRIPPA | Per tenervi in perpetua amicizia,<br>per farvi fratelli, e per annodare i vostri cuori<br>con nodo che non scorra, prenda Antonio<br>[[Octavia\|Ottavia]] in moglie; la cui [[Beauty\|bellezza]] non reclama<br>marito peggiore del migliore degli uomini;<br>la cui virtù e le cui grazie tutte dicono<br>ciò che nessun altro può proferire. Con questo [[Marriage\|matrimonio]]<br>tutte le piccole gelosie che ora paiono grandi,<br>e tutti i grandi timori che ora recano i loro pericoli,<br>sarebbero allora nulla. Le verità sarebbero favole<br>là dove ora le mezze favole son verità. Il suo [[Love\|amore]] per entrambi<br>trarrebbe dietro di sé l’uno all’altro, e tutti gli amori<br>verso entrambi. Perdonate ciò che ho detto,<br>ché è pensiero meditato, non improvviso,<br>ruminato dal dovere. |
 | ANTONIO | Vuol parlare Cesare? |
 | CESARE | Non prima d’udire come Antonio sia toccato<br>da ciò che già s’è detto. |
 | ANTONIO | Quale potere ha Agrippa,<br>se io dicessi «Agrippa, sia così»,<br>di render valido questo? |
-| CESARE | Il potere di Cesare,<br>e il suo potere su [[Octavia|Ottavia]]. |
+| CESARE | Il potere di Cesare,<br>e il suo potere su [[Octavia\|Ottavia]]. |
 | ANTONIO | Ch’io mai,<br>di fronte a questo buon proposito, che così bello appare,<br>sogni un impedimento! Dammi la tua mano.<br>Promuovi quest’atto di grazia, e da quest’ora<br>il cuore di fratelli governi nei nostri affetti<br>e regga i nostri grandi disegni. |
-| CESARE | Ecco la mia mano.<br>Antonio e Cesare si stringono la mano<br>Ti lascio una sorella che nessun fratello<br>mai [[Love|amò]] così teneramente. Ch’ella viva<br>per unire i nostri regni e i nostri cuori; e mai<br>più i nostri affetti si stacchino. |
-| [[Lepidus|LEPIDO]] | Felicemente, amen. |
-| ANTONIO | Non pensavo di sguainare la [[Sword|spada]] contro [[Pompey|Pompeo]],<br>ché di recente m’ha usato cortesie<br>strane e grandi. Devo solo ringraziarlo,<br>perché la mia memoria non abbia cattiva fama;<br>e subito dopo, sfidarlo. |
-| [[Lepidus|LEPIDO]] | Il [[Time|tempo]] ci incalza.<br>[[Pompey|Pompeo]] va cercato da noi subito,<br>o sarà lui a cercare noi. |
+| CESARE | Ecco la mia mano.<br>Antonio e Cesare si stringono la mano<br>Ti lascio una sorella che nessun fratello<br>mai [[Love\|amò]] così teneramente. Ch’ella viva<br>per unire i nostri regni e i nostri cuori; e mai<br>più i nostri affetti si stacchino. |
+| [[Lepidus\|LEPIDO]] | Felicemente, amen. |
+| ANTONIO | Non pensavo di sguainare la [[Sword\|spada]] contro [[Pompey\|Pompeo]],<br>ché di recente m’ha usato cortesie<br>strane e grandi. Devo solo ringraziarlo,<br>perché la mia memoria non abbia cattiva fama;<br>e subito dopo, sfidarlo. |
+| [[Lepidus\|LEPIDO]] | Il [[Time\|tempo]] ci incalza.<br>[[Pompey\|Pompeo]] va cercato da noi subito,<br>o sarà lui a cercare noi. |
 | ANTONIO | Dove si trova? |
 | CESARE | Presso il Monte Miseno. |
 | ANTONIO | Qual è la sua forza per terra? |
 | CESARE | Grande e crescente, ma per mare<br>è padrone assoluto. |
 | ANTONIO | Così dice la fama.<br>Avessimo già parlato insieme. Affrettiamoci;<br>ma prima di prender le armi, sbrighiamo<br>la faccenda di cui abbiamo parlato. |
 | CESARE | Con grandissima gioia, e v’invito a vedere mia sorella,<br>dove subito vi condurrò. |
-| ANTONIO | Che a noi, [[Lepidus|Lepido]],<br>non manchi la vostra compagnia. |
-| [[Lepidus|LEPIDO]] | Nobile Antonio,<br>neppure una malattia mi tratterrebbe. |
-| *(didascalia)* | Squilli di trombe. Escono tutti tranne [[Enobarbus|Enobarbo]], Agrippa e Mecenate |
-| MECENATE | (a [[Enobarbus|Enobarbo]]) Bentornato dall’[[Egypt|Egitto]], signore. |
-| [[Enobarbus|ENOBARBO]] | Metà del cuore di Cesare, degno Mecenate!<br>Mio onorevole amico, Agrippa! |
-| AGRIPPA | Buon [[Enobarbus|Enobarbo]]! |
-| MECENATE | Abbiamo ragione d’essere lieti che le cose siano così [[Well|bene]] digerite. Ve la siete cavata [[Well|bene]] in [[Egypt|Egitto]]. |
-| [[Enobarbus|ENOBARBO]] | Sì, signore, abbiamo [[Sleep|dormito]] fino a far vergogna al giorno, e reso chiara la [[Night|notte]] col bere. |
+| ANTONIO | Che a noi, [[Lepidus\|Lepido]],<br>non manchi la vostra compagnia. |
+| [[Lepidus\|LEPIDO]] | Nobile Antonio,<br>neppure una malattia mi tratterrebbe. |
+| *(didascalia)* | Squilli di trombe. Escono tutti tranne [[Enobarbus\|Enobarbo]], Agrippa e Mecenate |
+| MECENATE | (a [[Enobarbus\|Enobarbo]]) Bentornato dall’[[Egypt\|Egitto]], signore. |
+| [[Enobarbus\|ENOBARBO]] | Metà del cuore di Cesare, degno Mecenate!<br>Mio onorevole amico, Agrippa! |
+| AGRIPPA | Buon [[Enobarbus\|Enobarbo]]! |
+| MECENATE | Abbiamo ragione d’essere lieti che le cose siano così [[Well\|bene]] digerite. Ve la siete cavata [[Well\|bene]] in [[Egypt\|Egitto]]. |
+| [[Enobarbus\|ENOBARBO]] | Sì, signore, abbiamo [[Sleep\|dormito]] fino a far vergogna al giorno, e reso chiara la [[Night\|notte]] col bere. |
 | MECENATE | Otto cinghiali arrostiti interi a una colazione e soltanto dodici persone presenti—è vero questo? |
-| [[Enobarbus|ENOBARBO]] | Questo fu appena come una mosca accanto a un’aquila. Avemmo materia di banchetto assai più mostruosa, che meritava degnamente d’esser notata. |
+| [[Enobarbus\|ENOBARBO]] | Questo fu appena come una mosca accanto a un’aquila. Avemmo materia di banchetto assai più mostruosa, che meritava degnamente d’esser notata. |
 | MECENATE | È dama trionfantissima, se la fama le rende giustizia. |
-| [[Enobarbus|ENOBARBO]] | Quando incontrò per la prima volta [[Mark Antony|Marco Antonio]], gli chiuse il cuore in borsa sul [[River|fiume]] Cidno.<br>AGRiPPA Là apparve davvero, o il mio informatore inventò [[Well|bene]] per lei. |
-| [[Enobarbus|ENOBARBO]] | Ve lo dirò io.<br>La barca su cui sedeva, come un trono brunito<br>ardeva sull’[[Water|acqua]]. La poppa era d’oro battuto;<br>purpuree le vele, e così profumate che<br>i venti ne erano malati d’[[Love|amore]]. I remi erano<br>d’argento,<br>e al suono dei flauti battevano il tempo, e facevano<br>l’[[Water|acqua]] che percotevano seguirli più svelta,<br>come innamorata dei loro colpi. Quanto alla sua persona,<br>impoveriva ogni descrizione. Giaceva<br>nel suo padiglione—drappo d’oro, di tessuto—<br>sopravanzando quella [[Venus|Venere]] in cui vediamo<br>la fantasia superare la [[Nature|natura]]. Ai suoi due lati<br>stavano graziosi fanciulli con le fossette, come Cupidi sorridenti,<br>con ventagli di vari colori il cui [[Wind|vento]] pareva<br>accendere le delicate guance che rinfrescava,<br>e disfaceva ciò che faceva. |
+| [[Enobarbus\|ENOBARBO]] | Quando incontrò per la prima volta [[Mark Antony\|Marco Antonio]], gli chiuse il cuore in borsa sul [[River\|fiume]] Cidno.<br>AGRiPPA Là apparve davvero, o il mio informatore inventò [[Well\|bene]] per lei. |
+| [[Enobarbus\|ENOBARBO]] | Ve lo dirò io.<br>La barca su cui sedeva, come un trono brunito<br>ardeva sull’[[Water\|acqua]]. La poppa era d’oro battuto;<br>purpuree le vele, e così profumate che<br>i venti ne erano malati d’[[Love\|amore]]. I remi erano<br>d’argento,<br>e al suono dei flauti battevano il tempo, e facevano<br>l’[[Water\|acqua]] che percotevano seguirli più svelta,<br>come innamorata dei loro colpi. Quanto alla sua persona,<br>impoveriva ogni descrizione. Giaceva<br>nel suo padiglione—drappo d’oro, di tessuto—<br>sopravanzando quella [[Venus\|Venere]] in cui vediamo<br>la fantasia superare la [[Nature\|natura]]. Ai suoi due lati<br>stavano graziosi fanciulli con le fossette, come Cupidi sorridenti,<br>con ventagli di vari colori il cui [[Wind\|vento]] pareva<br>accendere le delicate guance che rinfrescava,<br>e disfaceva ciò che faceva. |
 | AGRIPPA | Oh, cosa rara per Antonio! |
-| [[Enobarbus|ENOBARBO]] | Le sue damigelle, come le Nereidi,<br>tante sirene, la servivano con lo sguardo,<br>e facevano ornamento dei loro inchini. Al timone<br>una che pareva [[Mermaid|sirena]] governa. Le sartie di seta<br>si gonfiano al tocco di quelle mani molli come fiori<br>che agilmente compiono l’ufficio. Dalla barca<br>uno strano invisibile profumo colpisce i sensi<br>delle banchine vicine. La [[City|città]]<br>riversò la sua gente su di lei, e Antonio,<br>in trono nella piazza del mercato, sedeva [[Alone|solo]],<br>fischiando all’aria, la quale, se non fosse per il vuoto,<br>sarebbe andata anch’essa a contemplare [[Cleopatra]],<br>facendo uno squarcio nella [[Nature|natura]]. |
+| [[Enobarbus\|ENOBARBO]] | Le sue damigelle, come le Nereidi,<br>tante sirene, la servivano con lo sguardo,<br>e facevano ornamento dei loro inchini. Al timone<br>una che pareva [[Mermaid\|sirena]] governa. Le sartie di seta<br>si gonfiano al tocco di quelle mani molli come fiori<br>che agilmente compiono l’ufficio. Dalla barca<br>uno strano invisibile profumo colpisce i sensi<br>delle banchine vicine. La [[City\|città]]<br>riversò la sua gente su di lei, e Antonio,<br>in trono nella piazza del mercato, sedeva [[Alone\|solo]],<br>fischiando all’aria, la quale, se non fosse per il vuoto,<br>sarebbe andata anch’essa a contemplare [[Cleopatra]],<br>facendo uno squarcio nella [[Nature\|natura]]. |
 | AGRIPPA | Rara Egiziana! |
-| [[Enobarbus|ENOBARBO]] | Al suo sbarco Antonio mandò da lei,<br>invitandola a cena. Ella rispose<br>che sarebbe stato meglio ch’egli divenisse suo ospite,<br>e ve lo pregò. Il nostro cortese Antonio,<br>a cui nessuna donna udì mai dire la parola «No»,<br>rasato dieci volte di seguito, va al banchetto,<br>e per il suo pasto paga con il cuore<br>ciò che i suoi occhi soltanto mangiarono. |
-| AGRIPPA | Regale femmina!<br>Fece mettere a letto la [[Sword|spada]] del grande Cesare.<br>Egli l’arò, ed ella diede frutto. |
-| [[Enobarbus|ENOBARBO]] | La vidi una volta<br>saltellare quaranta passi per la pubblica via,<br>e perduto il fiato, parlava ansimando,<br>sì che faceva del difetto perfezione,<br>e senza fiato, effondeva fiato. |
+| [[Enobarbus\|ENOBARBO]] | Al suo sbarco Antonio mandò da lei,<br>invitandola a cena. Ella rispose<br>che sarebbe stato meglio ch’egli divenisse suo ospite,<br>e ve lo pregò. Il nostro cortese Antonio,<br>a cui nessuna donna udì mai dire la parola «No»,<br>rasato dieci volte di seguito, va al banchetto,<br>e per il suo pasto paga con il cuore<br>ciò che i suoi occhi soltanto mangiarono. |
+| AGRIPPA | Regale femmina!<br>Fece mettere a letto la [[Sword\|spada]] del grande Cesare.<br>Egli l’arò, ed ella diede frutto. |
+| [[Enobarbus\|ENOBARBO]] | La vidi una volta<br>saltellare quaranta passi per la pubblica via,<br>e perduto il fiato, parlava ansimando,<br>sì che faceva del difetto perfezione,<br>e senza fiato, effondeva fiato. |
 | MECENATE | Ora Antonio<br>deve lasciarla del tutto. |
-| [[Enobarbus|ENOBARBO]] | Mai. Non lo farà.<br>L’età non può appassirla, né l’abitudine render stantia<br>la sua infinita varietà. Le altre donne saziano<br>gli appetiti che nutrono, ma lei fa venir fame<br>là dove più soddisfa. Ché le cose più vili<br>si fanno decorose in lei, tanto che i sacri sacerdoti<br>la benedicono quand’è lasciva. |
-| MECENATE | Se [[Beauty|bellezza]], saggezza e modestia possono acquietare<br>il cuore d’Antonio, [[Octavia|Ottavia]] è<br>per lui una fortuna benedetta. |
-| AGRIPPA | Andiamo.<br>Buon [[Enobarbus|Enobarbo]], siate mio ospite<br>finché soggiornate qui. |
-| [[Enobarbus|ENOBARBO]] | Umilmente, signore, vi ringrazio. |
+| [[Enobarbus\|ENOBARBO]] | Mai. Non lo farà.<br>L’età non può appassirla, né l’abitudine render stantia<br>la sua infinita varietà. Le altre donne saziano<br>gli appetiti che nutrono, ma lei fa venir fame<br>là dove più soddisfa. Ché le cose più vili<br>si fanno decorose in lei, tanto che i sacri sacerdoti<br>la benedicono quand’è lasciva. |
+| MECENATE | Se [[Beauty\|bellezza]], saggezza e modestia possono acquietare<br>il cuore d’Antonio, [[Octavia\|Ottavia]] è<br>per lui una fortuna benedetta. |
+| AGRIPPA | Andiamo.<br>Buon [[Enobarbus\|Enobarbo]], siate mio ospite<br>finché soggiornate qui. |
+| [[Enobarbus\|ENOBARBO]] | Umilmente, signore, vi ringrazio. |
 | *(didascalia)* | Escono |
 
 
@@ -2519,24 +2519,24 @@ The [[Tragedy]] of Antony and [[Cleopatra]]
 
 | Chi parla | Battuta |
 |---|---|
-| *(didascalia)* | Entrano Antonio e Cesare; [[Octavia|Ottavia]] tra loro |
+| *(didascalia)* | Entrano Antonio e Cesare; [[Octavia\|Ottavia]] tra loro |
 | ANTONIO | Il mondo e il mio grande ufficio talvolta<br>mi divideranno dal vostro seno. |
-| [[Octavia|OTTAVIA]] | Per tutto quel [[Time|tempo]], davanti agli dèi il mio ginocchio piegherà le mie preghiere<br>a loro per voi. |
-| ANTONIO | Buona [[Night|notte]], signore. Mia [[Octavia|Ottavia]], non leggete le mie macchie nel racconto del mondo.<br>Non ho tenuto la mia squadra, ma ciò che verrà<br>sarà tutto fatto a regola. Buona [[Night|notte]], cara signora.<br>Buona [[Night|notte]], signore. |
-| CESARE | Buona [[Night|notte]]. |
-| *(didascalia)* | Escono Cesare e [[Octavia|Ottavia]] |
+| [[Octavia\|OTTAVIA]] | Per tutto quel [[Time\|tempo]], davanti agli dèi il mio ginocchio piegherà le mie preghiere<br>a loro per voi. |
+| ANTONIO | Buona [[Night\|notte]], signore. Mia [[Octavia\|Ottavia]], non leggete le mie macchie nel racconto del mondo.<br>Non ho tenuto la mia squadra, ma ciò che verrà<br>sarà tutto fatto a regola. Buona [[Night\|notte]], cara signora.<br>Buona [[Night\|notte]], signore. |
+| CESARE | Buona [[Night\|notte]]. |
+| *(didascalia)* | Escono Cesare e [[Octavia\|Ottavia]] |
 | *(didascalia)* | Entra l’Indovino |
-| ANTONIO | Allora, messere. Vorresti essere in [[Egypt|Egitto]]? |
+| ANTONIO | Allora, messere. Vorresti essere in [[Egypt\|Egitto]]? |
 | INDOVINO | Non ne fossi mai venuto, né voi<br>vi foste andato. |
 | ANTONIO | Se puoi, la tua ragione? |
-| INDOVINO | La vedo nel mio intuito, non l’ho sulla lingua.<br>Ma pure, affrettatevi di nuovo in [[Egypt|Egitto]]. |
+| INDOVINO | La vedo nel mio intuito, non l’ho sulla lingua.<br>Ma pure, affrettatevi di nuovo in [[Egypt\|Egitto]]. |
 | ANTONIO | Dimmi<br>di chi la sorte salirà più alta: di Cesare o mia? |
 | INDOVINO | Di Cesare. Perciò, o Antonio, non restare al suo fianco.<br>Il tuo demone, quello spirito che ti custodisce, è<br>nobile, coraggioso, alto, senza pari,<br>là dove quello di Cesare non lo è. Ma vicino a lui il tuo angelo<br>si fa timoroso, come sopraffatto. Perciò<br>metti spazio abbastanza fra voi. |
 | ANTONIO | Non dire più questo. |
 | INDOVINO | A nessuno se non a te; e mai più se non a te.<br>Se giochi con lui a qualsiasi gioco<br>sei certo di perdere; e con quella sua fortuna naturale<br>ti batte contro ogni probabilità. Il tuo splendore s’appanna<br>quando egli brilla accanto. Lo ripeto: il tuo spirito<br>ha tutta paura di governarti vicino a lui;<br>ma lontano lui, è nobile. |
 | ANTONIO | Vattene.<br>Di’ a Ventidio che voglio parlargli. |
 | *(didascalia)* | Esce l’Indovino |
-| ANTONIO | Andrà in Partia; sia arte o sia caso,<br>ha detto il vero. Perfino i dadi gli obbediscono,<br>e nei nostri giochi la mia maggior destrezza langue<br>sotto la sua sorte. Se tiriamo a sorte, egli vince.<br>I suoi galli battono sempre i miei<br>quando la posta è disperata, e le sue quaglie sempre<br>battono le mie, nel cerchio, contro ogni previsione. Andrò in [[Egypt|Egitto]];<br>e benché io faccia questo [[Marriage|matrimonio]] per la mia pace,<br>in Oriente sta il mio piacere. |
+| ANTONIO | Andrà in Partia; sia arte o sia caso,<br>ha detto il vero. Perfino i dadi gli obbediscono,<br>e nei nostri giochi la mia maggior destrezza langue<br>sotto la sua sorte. Se tiriamo a sorte, egli vince.<br>I suoi galli battono sempre i miei<br>quando la posta è disperata, e le sue quaglie sempre<br>battono le mie, nel cerchio, contro ogni previsione. Andrò in [[Egypt\|Egitto]];<br>e benché io faccia questo [[Marriage\|matrimonio]] per la mia pace,<br>in Oriente sta il mio piacere. |
 | *(didascalia)* | Entra Ventidio |
 | ANTONIO | Oh, vieni, Ventidio.<br>Devi andare in Partia, il tuo mandato è pronto.<br>Seguimi, e ricevilo. |
 | *(didascalia)* | Escono |
@@ -2564,16 +2564,16 @@ The [[Tragedy]] of Antony and [[Cleopatra]]
 
 | Chi parla | Battuta |
 |---|---|
-| *(didascalia)* | Entrano [[Lepidus|Lepido]], Mecenate e Agrippa |
-| [[Lepidus|LEPIDO]] | Non incomodatevi oltre. Vi prego, affrettate<br>i vostri generali a seguirci. |
-| AGRIPPA | Signore, [[Mark Antony|Marco Antonio]]<br>darà appena un bacio a [[Octavia|Ottavia]], e noi seguiremo. |
-| [[Lepidus|LEPIDO]] | Finché non vi rivedrò in abito di soldato,<br>che a entrambi s’addirà, addio. |
-| MECENATE | Saremo, per come intendo il [[Journey|viaggio]], al Monte<br>prima di voi, [[Lepidus|Lepido]]. |
-| [[Lepidus|LEPIDO]] | La vostra via è più breve.<br>I miei propositi mi portano assai in giro.<br>Guadagnerete due giorni su di me. |
+| *(didascalia)* | Entrano [[Lepidus\|Lepido]], Mecenate e Agrippa |
+| [[Lepidus\|LEPIDO]] | Non incomodatevi oltre. Vi prego, affrettate<br>i vostri generali a seguirci. |
+| AGRIPPA | Signore, [[Mark Antony\|Marco Antonio]]<br>darà appena un bacio a [[Octavia\|Ottavia]], e noi seguiremo. |
+| [[Lepidus\|LEPIDO]] | Finché non vi rivedrò in abito di soldato,<br>che a entrambi s’addirà, addio. |
+| MECENATE | Saremo, per come intendo il [[Journey\|viaggio]], al Monte<br>prima di voi, [[Lepidus\|Lepido]]. |
+| [[Lepidus\|LEPIDO]] | La vostra via è più breve.<br>I miei propositi mi portano assai in giro.<br>Guadagnerete due giorni su di me. |
 | MECENATE | e |
-| AGRIPPA | Signore, buon [[success|successo]]. |
-| [[Lepidus|LEPIDO]] | Addio. |
-| *(didascalia)* | Escono Mecenate e Agrippa da una porta, [[Lepidus|Lepido]] da un’altra |
+| AGRIPPA | Signore, buon [[success\|successo]]. |
+| [[Lepidus\|LEPIDO]] | Addio. |
+| *(didascalia)* | Escono Mecenate e Agrippa da una porta, [[Lepidus\|Lepido]] da un’altra |
 
 
 
@@ -2657,74 +2657,74 @@ The [[Tragedy]] of Antony and [[Cleopatra]]
 
 | Chi parla | Battuta |
 |---|---|
-| *(didascalia)* | Entrano [[Cleopatra]], [[Charmian|Carmiana]], Iras e Alessa |
-| [[Cleopatra|CLEOPATRA]] | Datemi un po’ di musica—musica, cibo malinconico<br>di noi che trafficiamo in [[Love|amore]].<br>[[Charmian|CARMIANA]], IRAS e ALESSA La musica, olà! |
+| *(didascalia)* | Entrano [[Cleopatra]], [[Charmian\|Carmiana]], Iras e Alessa |
+| [[Cleopatra\|CLEOPATRA]] | Datemi un po’ di musica—musica, cibo malinconico<br>di noi che trafficiamo in [[Love\|amore]].<br>[[Charmian\|CARMIANA]], IRAS e ALESSA La musica, olà! |
 | *(didascalia)* | Entra Mardiano, l’eunuco |
-| [[Cleopatra|CLEOPATRA]] | Lasciate [[Alone|stare]]. Andiamo al biliardo. Vieni, [[Charmian|Carmiana]]. |
-| [[Charmian|CARMIANA]] | Mi duole il braccio. Meglio giocare con Mardiano. |
-| [[Cleopatra|CLEOPATRA]] | Una donna gioca [[Well|bene]] con un eunuco<br>come con una donna. Su, volete giocare con me, signore? |
-| MARDIANO | Come [[Well|meglio]] posso, madama. |
-| [[Cleopatra|CLEOPATRA]] | E quando si mostra buona volontà, per quanto venga<br>meno,<br>l’attore può invocare perdono. Ora non voglio più.<br>Datemi la mia lenza. Andremo al [[River|fiume]]. Là,<br>con la mia musica che suona lontano, tradirò<br>i pesci dalle pinne fulve. Il mio amo ricurvo trafiggerà<br>le loro fauci viscide, e mentre li tiro su<br>penserò che ognuno sia un Antonio,<br>e dirò: «Ah ah, sei preso!» |
-| [[Charmian|CARMIANA]] | Fu allegro quando<br>scommetteste sulla vostra pesca, e il vostro palombaro<br>appese al suo amo un pesce salato, ch’egli<br>con fervore tirò su. |
-| [[Cleopatra|CLEOPATRA]] | Quel [[Time|tempo]]—oh tempi!—<br>lo feci ridere fino a perder la pazienza, e quella [[Night|notte]]<br>lo feci ridere fino a ritrovarla, e il mattino dopo,<br>prima della nona ora, lo feci bere fino al letto,<br>poi gli misi addosso le mie vesti e i miei manti mentre<br>io portavo la sua [[Sword|spada]] Filippana. |
+| [[Cleopatra\|CLEOPATRA]] | Lasciate [[Alone\|stare]]. Andiamo al biliardo. Vieni, [[Charmian\|Carmiana]]. |
+| [[Charmian\|CARMIANA]] | Mi duole il braccio. Meglio giocare con Mardiano. |
+| [[Cleopatra\|CLEOPATRA]] | Una donna gioca [[Well\|bene]] con un eunuco<br>come con una donna. Su, volete giocare con me, signore? |
+| MARDIANO | Come [[Well\|meglio]] posso, madama. |
+| [[Cleopatra\|CLEOPATRA]] | E quando si mostra buona volontà, per quanto venga<br>meno,<br>l’attore può invocare perdono. Ora non voglio più.<br>Datemi la mia lenza. Andremo al [[River\|fiume]]. Là,<br>con la mia musica che suona lontano, tradirò<br>i pesci dalle pinne fulve. Il mio amo ricurvo trafiggerà<br>le loro fauci viscide, e mentre li tiro su<br>penserò che ognuno sia un Antonio,<br>e dirò: «Ah ah, sei preso!» |
+| [[Charmian\|CARMIANA]] | Fu allegro quando<br>scommetteste sulla vostra pesca, e il vostro palombaro<br>appese al suo amo un pesce salato, ch’egli<br>con fervore tirò su. |
+| [[Cleopatra\|CLEOPATRA]] | Quel [[Time\|tempo]]—oh tempi!—<br>lo feci ridere fino a perder la pazienza, e quella [[Night\|notte]]<br>lo feci ridere fino a ritrovarla, e il mattino dopo,<br>prima della nona ora, lo feci bere fino al letto,<br>poi gli misi addosso le mie vesti e i miei manti mentre<br>io portavo la sua [[Sword\|spada]] Filippana. |
 | *(didascalia)* | Entra un Messaggero |
-| [[Cleopatra|CLEOPATRA]] | Oh, dall’[[Italy|Italia]].<br>Caccia le tue feconde notizie nei miei orecchi,<br>che da lungo [[Time|tempo]] sono stati sterili. |
+| [[Cleopatra\|CLEOPATRA]] | Oh, dall’[[Italy\|Italia]].<br>Caccia le tue feconde notizie nei miei orecchi,<br>che da lungo [[Time\|tempo]] sono stati sterili. |
 | MESSAGGERO | Madama, madama! |
-| [[Cleopatra|CLEOPATRA]] | [[Antonio]] è morto. Se dici così, [[Villain|scellerato]],<br>uccidi la tua signora; ma se me lo dài [[Well|sano]]<br>e libero, ecco dell’oro, ed ecco<br>le mie vene più azzurre da baciare—una mano che i re<br>hanno sfiorato con le labbra, e tremato nel baciarla. |
-| MESSAGGERO | Anzitutto, madama, egli sta [[Well|bene]]. |
-| [[Cleopatra|CLEOPATRA]] | Ecco, c’è dell’altro oro. Ma, messere, bada: usiamo<br>dire che i morti stanno [[Well|bene]]. Se a ciò vuoi condurmi,<br>l’oro che ti do lo fonderò e lo verserò<br>giù per la tua gola di malaugurio. |
+| [[Cleopatra\|CLEOPATRA]] | [[Antonio]] è morto. Se dici così, [[Villain\|scellerato]],<br>uccidi la tua signora; ma se me lo dài [[Well\|sano]]<br>e libero, ecco dell’oro, ed ecco<br>le mie vene più azzurre da baciare—una mano che i re<br>hanno sfiorato con le labbra, e tremato nel baciarla. |
+| MESSAGGERO | Anzitutto, madama, egli sta [[Well\|bene]]. |
+| [[Cleopatra\|CLEOPATRA]] | Ecco, c’è dell’altro oro. Ma, messere, bada: usiamo<br>dire che i morti stanno [[Well\|bene]]. Se a ciò vuoi condurmi,<br>l’oro che ti do lo fonderò e lo verserò<br>giù per la tua gola di malaugurio. |
 | MESSAGGERO | Buona madama, ascoltatemi. |
-| [[Cleopatra|CLEOPATRA]] | [[Well|Bene]], suvvia, ti ascolterò.<br>Ma non c’è nulla di buono sul tuo volto. Se Antonio<br>è libero e sano, che faccia così acida<br>per trombettare così buone nuove! Se non sta [[Well|bene]],<br>dovresti venire come una Furia incoronata di serpi,<br>non come un uomo compìto. |
+| [[Cleopatra\|CLEOPATRA]] | [[Well\|Bene]], suvvia, ti ascolterò.<br>Ma non c’è nulla di buono sul tuo volto. Se Antonio<br>è libero e sano, che faccia così acida<br>per trombettare così buone nuove! Se non sta [[Well\|bene]],<br>dovresti venire come una Furia incoronata di serpi,<br>non come un uomo compìto. |
 | MESSAGGERO | Vi piace ascoltarmi? |
-| [[Cleopatra|CLEOPATRA]] | Ho voglia di colpirti prima che tu parli.<br>Eppure se dici che Antonio vive, sta [[Well|bene]],<br>o è amico di Cesare, o non è suo prigioniero,<br>ti porrò sotto una pioggia d’oro, e grandinerò<br>ricche perle su di te. |
-| MESSAGGERO | Madama, sta [[Well|bene]]. |
-| [[Cleopatra|CLEOPATRA]] | [[Well|Ben]] detto. |
+| [[Cleopatra\|CLEOPATRA]] | Ho voglia di colpirti prima che tu parli.<br>Eppure se dici che Antonio vive, sta [[Well\|bene]],<br>o è amico di Cesare, o non è suo prigioniero,<br>ti porrò sotto una pioggia d’oro, e grandinerò<br>ricche perle su di te. |
+| MESSAGGERO | Madama, sta [[Well\|bene]]. |
+| [[Cleopatra\|CLEOPATRA]] | [[Well\|Ben]] detto. |
 | MESSAGGERO | Ed è amico di Cesare. |
-| [[Cleopatra|CLEOPATRA]] | Sei un uomo onesto. |
+| [[Cleopatra\|CLEOPATRA]] | Sei un uomo onesto. |
 | MESSAGGERO | Cesare e lui sono amici più che mai. |
-| [[Cleopatra|CLEOPATRA]] | Fatti una fortuna con me. |
+| [[Cleopatra\|CLEOPATRA]] | Fatti una fortuna con me. |
 | MESSAGGERO | E però, madama— |
-| [[Cleopatra|CLEOPATRA]] | Non mi piace «e però»; smorza<br>il buon principio. Vergogna su «e però».<br>«E però» è come un carceriere che conduce fuori<br>qualche mostruoso malfattore. Di grazia, amico,<br>versami all’orecchio tutto il fardello della faccenda,<br>il buono e il cattivo insieme. È amico di Cesare,<br>in stato di salute, tu dici; e, tu dici, libero. |
-| MESSAGGERO | Libero, madama? No, non ho fatto tal rapporto.<br>È legato a [[Octavia|Ottavia]]. |
-| [[Cleopatra|CLEOPATRA]] | Per quale buon servizio? |
+| [[Cleopatra\|CLEOPATRA]] | Non mi piace «e però»; smorza<br>il buon principio. Vergogna su «e però».<br>«E però» è come un carceriere che conduce fuori<br>qualche mostruoso malfattore. Di grazia, amico,<br>versami all’orecchio tutto il fardello della faccenda,<br>il buono e il cattivo insieme. È amico di Cesare,<br>in stato di salute, tu dici; e, tu dici, libero. |
+| MESSAGGERO | Libero, madama? No, non ho fatto tal rapporto.<br>È legato a [[Octavia\|Ottavia]]. |
+| [[Cleopatra\|CLEOPATRA]] | Per quale buon servizio? |
 | MESSAGGERO | Per il miglior servizio a letto. |
-| [[Cleopatra|CLEOPATRA]] | Impallidisco, [[Charmian|Carmiana]]. |
-| MESSAGGERO | Madama, è sposato a [[Octavia|Ottavia]]. |
-| [[Cleopatra|CLEOPATRA]] | La più contagiosa pestilenza su di te!<br>Lo abbatte |
+| [[Cleopatra\|CLEOPATRA]] | Impallidisco, [[Charmian\|Carmiana]]. |
+| MESSAGGERO | Madama, è sposato a [[Octavia\|Ottavia]]. |
+| [[Cleopatra\|CLEOPATRA]] | La più contagiosa pestilenza su di te!<br>Lo abbatte |
 | MESSAGGERO | Buona madama, pazienza! |
-| [[Cleopatra|CLEOPATRA]] | Che dici?<br>Lo colpisce<br>Via, orribile [[Villain|scellerato]], o ti caccerò via gli occhi a calci<br>come palle davanti a me. Ti spelerò il capo,<br>Lo trascina qua e là<br>sarai frustato con fili di ferro e cotto in salamoia,<br>bruciando in lenta salsa. |
+| [[Cleopatra\|CLEOPATRA]] | Che dici?<br>Lo colpisce<br>Via, orribile [[Villain\|scellerato]], o ti caccerò via gli occhi a calci<br>come palle davanti a me. Ti spelerò il capo,<br>Lo trascina qua e là<br>sarai frustato con fili di ferro e cotto in salamoia,<br>bruciando in lenta salsa. |
 | MESSAGGERO | Graziosa madama,<br>io che porto la notizia non ho combinato il matrimonio. |
-| [[Cleopatra|CLEOPATRA]] | Di’ che non è così, e ti darò una provincia,<br>e farò superba la tua fortuna. Il colpo che hai ricevuto<br>ti varrà pace per avermi mossa all’ira,<br>e ti ricompenserò con qualunque altro dono<br>la tua modestia sappia chiedere. |
+| [[Cleopatra\|CLEOPATRA]] | Di’ che non è così, e ti darò una provincia,<br>e farò superba la tua fortuna. Il colpo che hai ricevuto<br>ti varrà pace per avermi mossa all’ira,<br>e ti ricompenserò con qualunque altro dono<br>la tua modestia sappia chiedere. |
 | MESSAGGERO | È sposato, madama. |
-| [[Cleopatra|CLEOPATRA]] | Furfante, hai vissuto troppo a lungo.<br>Sguaina un coltello |
+| [[Cleopatra\|CLEOPATRA]] | Furfante, hai vissuto troppo a lungo.<br>Sguaina un coltello |
 | MESSAGGERO | E allora fuggo.<br>Che intendete, madama? Non ho commesso colpa. Esce |
-| [[Charmian|CARMIANA]] | Buona madama, contenetevi in voi stessa.<br>L’uomo è [[Innocent|innocente]]. |
-| [[Cleopatra|CLEOPATRA]] | Alcuni innocenti non sfuggono al fulmine.<br>Si sciolga l’[[Egypt|Egitto]] nel Nilo, e le creature miti<br>si mutino tutte in serpenti! Richiamate lo schiavo.<br>Benché sia furiosa, non lo morderò. Chiamate! |
-| [[Charmian|CARMIANA]] | Ha paura di venire. |
-| [[Cleopatra|CLEOPATRA]] | Non gli farò male. |
-| *(didascalia)* | Esce [[Charmian|Carmiana]] |
-| [[Cleopatra|CLEOPATRA]] | Manca nobiltà a queste mani, che colpiscono<br>uno più basso di me, poiché io stessa<br>me ne sono data la causa. |
-| *(didascalia)* | Rientra il Messaggero con [[Charmian|Carmiana]] Vieni qua, signore. |
-| [[Cleopatra|CLEOPATRA]] | Benché sia onesto, non è mai buono<br>portare cattive nuove. Dai a un messaggio grazioso<br>un esercito di lingue, ma lascia che le male novelle<br>si dicano da sé quando si fanno sentire. |
+| [[Charmian\|CARMIANA]] | Buona madama, contenetevi in voi stessa.<br>L’uomo è [[Innocent\|innocente]]. |
+| [[Cleopatra\|CLEOPATRA]] | Alcuni innocenti non sfuggono al fulmine.<br>Si sciolga l’[[Egypt\|Egitto]] nel Nilo, e le creature miti<br>si mutino tutte in serpenti! Richiamate lo schiavo.<br>Benché sia furiosa, non lo morderò. Chiamate! |
+| [[Charmian\|CARMIANA]] | Ha paura di venire. |
+| [[Cleopatra\|CLEOPATRA]] | Non gli farò male. |
+| *(didascalia)* | Esce [[Charmian\|Carmiana]] |
+| [[Cleopatra\|CLEOPATRA]] | Manca nobiltà a queste mani, che colpiscono<br>uno più basso di me, poiché io stessa<br>me ne sono data la causa. |
+| *(didascalia)* | Rientra il Messaggero con [[Charmian\|Carmiana]] Vieni qua, signore. |
+| [[Cleopatra\|CLEOPATRA]] | Benché sia onesto, non è mai buono<br>portare cattive nuove. Dai a un messaggio grazioso<br>un esercito di lingue, ma lascia che le male novelle<br>si dicano da sé quando si fanno sentire. |
 | MESSAGGERO | Ho fatto il mio dovere. |
-| [[Cleopatra|CLEOPATRA]] | È sposato?<br>Non posso odiarti peggio di quanto già faccia<br>se ripeti «Sì». |
+| [[Cleopatra\|CLEOPATRA]] | È sposato?<br>Non posso odiarti peggio di quanto già faccia<br>se ripeti «Sì». |
 | MESSAGGERO | È sposato, madama. |
-| [[Cleopatra|CLEOPATRA]] | Gli dèi ti confondano! Insisti ancora in questo? |
+| [[Cleopatra\|CLEOPATRA]] | Gli dèi ti confondano! Insisti ancora in questo? |
 | MESSAGGERO | Dovrei mentire, madama? |
-| [[Cleopatra|CLEOPATRA]] | Oh, vorrei che mentissi,<br>anche a costo che metà del mio [[Egypt|Egitto]] fosse sommerso e fatto<br>cisterna per serpi squamose. Va’, vattene di qui.<br>Avessi tu in volto Narciso, a me<br>apparirebbe bruttissimo. È sposato? |
+| [[Cleopatra\|CLEOPATRA]] | Oh, vorrei che mentissi,<br>anche a costo che metà del mio [[Egypt\|Egitto]] fosse sommerso e fatto<br>cisterna per serpi squamose. Va’, vattene di qui.<br>Avessi tu in volto Narciso, a me<br>apparirebbe bruttissimo. È sposato? |
 | MESSAGGERO | Imploro il perdono di vostra altezza. |
-| [[Cleopatra|CLEOPATRA]] | È sposato? |
-| MESSAGGERO | Non v’offendete ch’io non voglia offendervi.<br>Punirmi per ciò che voi mi fate fare<br>pare assai iniquo. È sposato a [[Octavia|Ottavia]]. |
-| [[Cleopatra|CLEOPATRA]] | Oh, che la sua colpa debba fare di te un furfante,<br>tu che non hai commesso ciò di cui sei certo! Vattene di qui.<br>Le merci che hai portato da Roma<br>sono tutte troppo care per me. Ti restino sulle mani,<br>e ne sia tu rovinato. |
+| [[Cleopatra\|CLEOPATRA]] | È sposato? |
+| MESSAGGERO | Non v’offendete ch’io non voglia offendervi.<br>Punirmi per ciò che voi mi fate fare<br>pare assai iniquo. È sposato a [[Octavia\|Ottavia]]. |
+| [[Cleopatra\|CLEOPATRA]] | Oh, che la sua colpa debba fare di te un furfante,<br>tu che non hai commesso ciò di cui sei certo! Vattene di qui.<br>Le merci che hai portato da Roma<br>sono tutte troppo care per me. Ti restino sulle mani,<br>e ne sia tu rovinato. |
 | *(didascalia)* | Esce il Messaggero |
-| [[Charmian|CARMIANA]] | Vostra altezza, pazienza. |
-| [[Cleopatra|CLEOPATRA]] | Lodando Antonio ho biasimato Cesare. |
-| [[Charmian|CARMIANA]] | Molte volte, madama. |
-| [[Cleopatra|CLEOPATRA]] | Ora ne son ripagata. Portatemi via di qui.<br>Vengo meno. O Iras, [[Charmian|Carmiana]]—non importa.<br>Va’ da quell’uomo, buon Alessa, digli<br>di riferire i tratti di [[Octavia|Ottavia]]: la sua età,<br>la sua indole; non tralasci<br>il colore dei suoi capelli. Portami presto risposta. |
+| [[Charmian\|CARMIANA]] | Vostra altezza, pazienza. |
+| [[Cleopatra\|CLEOPATRA]] | Lodando Antonio ho biasimato Cesare. |
+| [[Charmian\|CARMIANA]] | Molte volte, madama. |
+| [[Cleopatra\|CLEOPATRA]] | Ora ne son ripagata. Portatemi via di qui.<br>Vengo meno. O Iras, [[Charmian\|Carmiana]]—non importa.<br>Va’ da quell’uomo, buon Alessa, digli<br>di riferire i tratti di [[Octavia\|Ottavia]]: la sua età,<br>la sua indole; non tralasci<br>il colore dei suoi capelli. Portami presto risposta. |
 | *(didascalia)* | Esce Alessa |
-| [[Cleopatra|CLEOPATRA]] | Che se ne vada per sempre—no, non se ne vada, [[Charmian|Carmiana]];<br>benché da un lato sia dipinto come una Gorgone, |
+| [[Cleopatra\|CLEOPATRA]] | Che se ne vada per sempre—no, non se ne vada, [[Charmian\|Carmiana]];<br>benché da un lato sia dipinto come una Gorgone, |
 | *(didascalia)* | dall’altro lato è un Marte. A Mardiano Di’ ad Alessa |
-| [[Cleopatra|CLEOPATRA]] | di portarmi notizia di quanto sia alta. Compatiscimi, [[Charmian|Carmiana]],<br>ma non parlarmi. Conducimi alla mia camera. |
+| [[Cleopatra\|CLEOPATRA]] | di portarmi notizia di quanto sia alta. Compatiscimi, [[Charmian\|Carmiana]],<br>ma non parlarmi. Conducimi alla mia camera. |
 | *(didascalia)* | Escono |
 
 
@@ -2810,74 +2810,74 @@ The [[Tragedy]] of Antony and [[Cleopatra]]
 
 | Chi parla | Battuta |
 |---|---|
-| *(didascalia)* | Squilli di trombe. Entrano [[Pompey|Pompeo]] e Mena da una porta, con un tamburino e un trombettiere; dall’altra, Cesare, [[Lepidus|Lepido]], Antonio, [[Enobarbus|Enobarbo]], Mecenate, Agrippa, con soldati in marcia |
-| [[Pompey|POMPEO]] | Ho i vostri ostaggi, voi i miei,<br>e parleremo prima di batterci. |
-| CESARE | È assai conveniente<br>che prima si venga a parole, e perciò abbiamo<br>mandato innanzi i nostri propositi per iscritto,<br>e se li hai considerati, facci sapere<br>se legheranno la tua [[Sword|spada]] scontenta<br>e riporteranno in Sicilia molta prestante gioventù<br>che altrimenti dovrà perire qui. |
-| [[Pompey|POMPEO]] | A voi tre, [[Alone|unici]] senatori di questo gran mondo,<br>principali agenti per gli dèi: non so<br>perché a mio padre debbano mancare vendicatori,<br>avendo un figlio e amici, poiché [[Julius Caesar|Giulio Cesare]],<br>che a Filippi apparve in fantasma al buon [[Brutus|Bruto]],<br>là vide voi affaticarvi per lui. Che cosa fu<br>che mosse il pallido [[Cassius|Cassio]] a congiurare? E che cosa<br>indusse l’onoratissimo, onesto romano [[Brutus|Bruto]],<br>con gli altri in armi, cortigiani della bella [[Freedom|libertà]],<br>a irrorare di sangue il Campidoglio, se non il volere<br>che un uomo solo fosse soltanto un uomo? E questo<br>m’ha fatto armare la mia flotta, sotto il cui peso<br>l’oceano adirato spumeggia; con la quale intendevo<br>flagellare l’ingratitudine che l’astiosa Roma<br>gettò sul mio nobile padre. |
-| CESARE | Prenditi il tuo [[Time|tempo]]. |
-| ANTONIO | Non puoi farci [[Fear|paura]], [[Pompey|Pompeo]], con le tue vele.<br>Ti parleremo per mare. In terra tu sai<br>di quanto ti superiamo. |
-| [[Pompey|POMPEO]] | In terra invero tu mi superi possedendo la [[house|casa]] di mio padre,<br>ma poiché il cuculo non costruisce per sé,<br>restaci finché puoi. |
-| [[Lepidus|LEPIDO]] | Compiacetevi di dirci—<br>ché questo esula dal presente—come accogliete<br>le offerte che vi abbiamo mandate. |
+| *(didascalia)* | Squilli di trombe. Entrano [[Pompey\|Pompeo]] e Mena da una porta, con un tamburino e un trombettiere; dall’altra, Cesare, [[Lepidus\|Lepido]], Antonio, [[Enobarbus\|Enobarbo]], Mecenate, Agrippa, con soldati in marcia |
+| [[Pompey\|POMPEO]] | Ho i vostri ostaggi, voi i miei,<br>e parleremo prima di batterci. |
+| CESARE | È assai conveniente<br>che prima si venga a parole, e perciò abbiamo<br>mandato innanzi i nostri propositi per iscritto,<br>e se li hai considerati, facci sapere<br>se legheranno la tua [[Sword\|spada]] scontenta<br>e riporteranno in Sicilia molta prestante gioventù<br>che altrimenti dovrà perire qui. |
+| [[Pompey\|POMPEO]] | A voi tre, [[Alone\|unici]] senatori di questo gran mondo,<br>principali agenti per gli dèi: non so<br>perché a mio padre debbano mancare vendicatori,<br>avendo un figlio e amici, poiché [[Julius Caesar\|Giulio Cesare]],<br>che a Filippi apparve in fantasma al buon [[Brutus\|Bruto]],<br>là vide voi affaticarvi per lui. Che cosa fu<br>che mosse il pallido [[Cassius\|Cassio]] a congiurare? E che cosa<br>indusse l’onoratissimo, onesto romano [[Brutus\|Bruto]],<br>con gli altri in armi, cortigiani della bella [[Freedom\|libertà]],<br>a irrorare di sangue il Campidoglio, se non il volere<br>che un uomo solo fosse soltanto un uomo? E questo<br>m’ha fatto armare la mia flotta, sotto il cui peso<br>l’oceano adirato spumeggia; con la quale intendevo<br>flagellare l’ingratitudine che l’astiosa Roma<br>gettò sul mio nobile padre. |
+| CESARE | Prenditi il tuo [[Time\|tempo]]. |
+| ANTONIO | Non puoi farci [[Fear\|paura]], [[Pompey\|Pompeo]], con le tue vele.<br>Ti parleremo per mare. In terra tu sai<br>di quanto ti superiamo. |
+| [[Pompey\|POMPEO]] | In terra invero tu mi superi possedendo la [[house\|casa]] di mio padre,<br>ma poiché il cuculo non costruisce per sé,<br>restaci finché puoi. |
+| [[Lepidus\|LEPIDO]] | Compiacetevi di dirci—<br>ché questo esula dal presente—come accogliete<br>le offerte che vi abbiamo mandate. |
 | CESARE | Questo è il punto. |
 | ANTONIO | E non fartene pregare, ma pesa<br>quanto valga, se accolto. |
 | CESARE | E che cosa può seguire, se tenti fortuna più larga. |
-| [[Pompey|POMPEO]] | Mi avete offerto la Sicilia e la Sardegna; e io devo<br>liberare tutto il mare dai pirati; poi mandare<br>misure di frumento a Roma; e su questo [[Greed|convenuto]],<br>separarci con i fili non intaccati, e riportare indietro<br>i nostri scudi senza ammaccature.<br>CESARE, ANTONIO e [[Lepidus|LEPIDO]] Questa è la nostra offerta. |
-| [[Pompey|POMPEO]] | Sappiate, dunque, che venni qui davanti a voi uomo disposto<br>ad accettare quest’offerta. Ma [[Mark Antony|Marco Antonio]]<br>mi ha messo a qualche impazienza. Benché ne perda<br>il merito col dirlo, dovete sapere<br>che quando Cesare e vostro fratello erano alle mani,<br>vostra madre venne in Sicilia, e vi trovò<br>amichevole accoglienza. |
-| ANTONIO | L’ho udito, [[Pompey|Pompeo]], e mi sono [[Well|bene]] preparato a un largo ringraziamento<br>che vi devo. |
-| [[Pompey|POMPEO]] | Datemi la vostra mano.<br>[[Pompey|Pompeo]] e Antonio si stringono la mano<br>Non pensavo, signore, d’incontrarvi qui. |
+| [[Pompey\|POMPEO]] | Mi avete offerto la Sicilia e la Sardegna; e io devo<br>liberare tutto il mare dai pirati; poi mandare<br>misure di frumento a Roma; e su questo [[Greed\|convenuto]],<br>separarci con i fili non intaccati, e riportare indietro<br>i nostri scudi senza ammaccature.<br>CESARE, ANTONIO e [[Lepidus\|LEPIDO]] Questa è la nostra offerta. |
+| [[Pompey\|POMPEO]] | Sappiate, dunque, che venni qui davanti a voi uomo disposto<br>ad accettare quest’offerta. Ma [[Mark Antony\|Marco Antonio]]<br>mi ha messo a qualche impazienza. Benché ne perda<br>il merito col dirlo, dovete sapere<br>che quando Cesare e vostro fratello erano alle mani,<br>vostra madre venne in Sicilia, e vi trovò<br>amichevole accoglienza. |
+| ANTONIO | L’ho udito, [[Pompey\|Pompeo]], e mi sono [[Well\|bene]] preparato a un largo ringraziamento<br>che vi devo. |
+| [[Pompey\|POMPEO]] | Datemi la vostra mano.<br>[[Pompey\|Pompeo]] e Antonio si stringono la mano<br>Non pensavo, signore, d’incontrarvi qui. |
 | ANTONIO | I letti d’Oriente son morbidi; e grazie a voi,<br>che mi avete chiamato qui prima del mio proposito;<br>ché ci ho guadagnato. |
-| CESARE | (a [[Pompey|Pompeo]]) Da quando vi vidi l’ultima volta<br>siete cambiato. |
-| [[Pompey|POMPEO]] | [[Well|Bene]], non so<br>quali conti la dura fortuna scriva sul mio volto,<br>ma nel mio petto ella non entrerà mai<br>a fare del mio cuore un suo vassallo. |
-| [[Lepidus|LEPIDO]] | [[Well|Ben]] incontrato qui. |
-| [[Pompey|POMPEO]] | Lo [[Hope|spero]], [[Lepidus|Lepido]]. Così siamo d’accordo.<br>Chiedo che il nostro patto sia messo per iscritto<br>e sigillato fra noi. |
+| CESARE | (a [[Pompey\|Pompeo]]) Da quando vi vidi l’ultima volta<br>siete cambiato. |
+| [[Pompey\|POMPEO]] | [[Well\|Bene]], non so<br>quali conti la dura fortuna scriva sul mio volto,<br>ma nel mio petto ella non entrerà mai<br>a fare del mio cuore un suo vassallo. |
+| [[Lepidus\|LEPIDO]] | [[Well\|Ben]] incontrato qui. |
+| [[Pompey\|POMPEO]] | Lo [[Hope\|spero]], [[Lepidus\|Lepido]]. Così siamo d’accordo.<br>Chiedo che il nostro patto sia messo per iscritto<br>e sigillato fra noi. |
 | CESARE | È la prossima cosa da fare. |
-| [[Pompey|POMPEO]] | Ci banchetteremo a vicenda prima di separarci, e tiriamo<br>a sorte chi comincerà. |
-| ANTONIO | Comincerò io, [[Pompey|Pompeo]]. |
-| [[Pompey|POMPEO]] | No, Antonio, tira a sorte.<br>Ma, primo o ultimo, la vostra fine cucina egiziana<br>avrà la fama. Ho sentito che [[Julius Caesar|Giulio Cesare]]<br>ingrassò banchettando laggiù. |
+| [[Pompey\|POMPEO]] | Ci banchetteremo a vicenda prima di separarci, e tiriamo<br>a sorte chi comincerà. |
+| ANTONIO | Comincerò io, [[Pompey\|Pompeo]]. |
+| [[Pompey\|POMPEO]] | No, Antonio, tira a sorte.<br>Ma, primo o ultimo, la vostra fine cucina egiziana<br>avrà la fama. Ho sentito che [[Julius Caesar\|Giulio Cesare]]<br>ingrassò banchettando laggiù. |
 | ANTONIO | Avete sentito molto. |
-| [[Pompey|POMPEO]] | Le mie intenzioni sono oneste, signore. |
+| [[Pompey\|POMPEO]] | Le mie intenzioni sono oneste, signore. |
 | ANTONIO | E oneste le parole con esse. |
-| [[Pompey|POMPEO]] | Allora ho sentito anche questo,<br>e ho sentito che Apollodoro portò— |
-| [[Enobarbus|ENOBARBO]] | Basta con questo: sì che lo fece. |
-| [[Pompey|POMPEO]] | Che cosa, di grazia? |
-| [[Enobarbus|ENOBARBO]] | Una certa [[Queen|regina]] a Cesare dentro un materasso. |
-| [[Pompey|POMPEO]] | Ora ti riconosco. Come stai, soldato? |
-| [[Enobarbus|ENOBARBO]] | [[Well|Bene]], e [[Well|bene]] son destinato a stare, ché prevedo<br>quattro banchetti in arrivo. |
-| [[Pompey|POMPEO]] | Lascia ch’io ti stringa la mano.<br>[[Pompey|Pompeo]] ed [[Enobarbus|Enobarbo]] si stringono la mano<br>Non ti ho mai odiato. Ti ho visto combattere<br>quando ho invidiato il tuo contegno. |
-| [[Enobarbus|ENOBARBO]] | Signore, non vi ho mai amato molto, ma vi ho lodato<br>quando avevate [[Well|ben]] meritato dieci volte tanto<br>di quel che ho detto che faceste. |
-| [[Pompey|POMPEO]] | Goditi la tua schiettezza. Non ti sta affatto male.<br>Vi invito tutti a bordo della mia galea.<br>Volete guidare, signori?<br>CESARE, ANTONIO e [[Lepidus|LEPIDO]] Mostrateci la via, signore. |
-| [[Pompey|POMPEO]] | Venite. |
-| *(didascalia)* | Escono tutti tranne [[Enobarbus|Enobarbo]] e Mena |
-| MENA | (a parte)<br>Tuo padre, [[Pompey|Pompeo]], non avrebbe mai fatto questo<br>trattato.<br>(A [[Enobarbus|Enobarbo]]) Voi e io ci siamo conosciuti, signore. |
-| [[Enobarbus|ENOBARBO]] | In mare, credo. |
+| [[Pompey\|POMPEO]] | Allora ho sentito anche questo,<br>e ho sentito che Apollodoro portò— |
+| [[Enobarbus\|ENOBARBO]] | Basta con questo: sì che lo fece. |
+| [[Pompey\|POMPEO]] | Che cosa, di grazia? |
+| [[Enobarbus\|ENOBARBO]] | Una certa [[Queen\|regina]] a Cesare dentro un materasso. |
+| [[Pompey\|POMPEO]] | Ora ti riconosco. Come stai, soldato? |
+| [[Enobarbus\|ENOBARBO]] | [[Well\|Bene]], e [[Well\|bene]] son destinato a stare, ché prevedo<br>quattro banchetti in arrivo. |
+| [[Pompey\|POMPEO]] | Lascia ch’io ti stringa la mano.<br>[[Pompey\|Pompeo]] ed [[Enobarbus\|Enobarbo]] si stringono la mano<br>Non ti ho mai odiato. Ti ho visto combattere<br>quando ho invidiato il tuo contegno. |
+| [[Enobarbus\|ENOBARBO]] | Signore, non vi ho mai amato molto, ma vi ho lodato<br>quando avevate [[Well\|ben]] meritato dieci volte tanto<br>di quel che ho detto che faceste. |
+| [[Pompey\|POMPEO]] | Goditi la tua schiettezza. Non ti sta affatto male.<br>Vi invito tutti a bordo della mia galea.<br>Volete guidare, signori?<br>CESARE, ANTONIO e [[Lepidus\|LEPIDO]] Mostrateci la via, signore. |
+| [[Pompey\|POMPEO]] | Venite. |
+| *(didascalia)* | Escono tutti tranne [[Enobarbus\|Enobarbo]] e Mena |
+| MENA | (a parte)<br>Tuo padre, [[Pompey\|Pompeo]], non avrebbe mai fatto questo<br>trattato.<br>(A [[Enobarbus\|Enobarbo]]) Voi e io ci siamo conosciuti, signore. |
+| [[Enobarbus\|ENOBARBO]] | In mare, credo. |
 | MENA | Sì, signore. |
-| [[Enobarbus|ENOBARBO]] | Ve la siete cavata [[Well|bene]] per [[Water|acqua]]. |
+| [[Enobarbus\|ENOBARBO]] | Ve la siete cavata [[Well\|bene]] per [[Water\|acqua]]. |
 | MENA | E voi per terra. |
-| [[Enobarbus|ENOBARBO]] | Loderò chiunque loderà me, benché non si possa negare ciò che ho fatto per terra. |
-| MENA | Né ciò che io ho fatto per [[Water|acqua]]. |
-| [[Enobarbus|ENOBARBO]] | Sì, qualcosa potete negare per la vostra stessa sicurezza. Siete stato un gran ladro per mare. |
+| [[Enobarbus\|ENOBARBO]] | Loderò chiunque loderà me, benché non si possa negare ciò che ho fatto per terra. |
+| MENA | Né ciò che io ho fatto per [[Water\|acqua]]. |
+| [[Enobarbus\|ENOBARBO]] | Sì, qualcosa potete negare per la vostra stessa sicurezza. Siete stato un gran ladro per mare. |
 | MENA | E voi per terra. |
-| [[Enobarbus|ENOBARBO]] | Là nego il mio servizio di terra; ma datemi la mano, Mena. Se i nostri occhi avessero autorità, qui potrebbero arrestare due ladri che si baciano.<br>Si stringono la mano |
+| [[Enobarbus\|ENOBARBO]] | Là nego il mio servizio di terra; ma datemi la mano, Mena. Se i nostri occhi avessero autorità, qui potrebbero arrestare due ladri che si baciano.<br>Si stringono la mano |
 | MENA | I volti di tutti gli uomini sono veri, comunque siano le loro mani. |
-| [[Enobarbus|ENOBARBO]] | Ma non c’è mai bella donna che abbia volto vero. |
+| [[Enobarbus\|ENOBARBO]] | Ma non c’è mai bella donna che abbia volto vero. |
 | MENA | Non è calunnia; esse rubano i cuori. |
-| [[Enobarbus|ENOBARBO]] | Venimmo qui per battervi. |
-| MENA | Per parte mia, mi dispiace che si sia mutato in una bevuta.<br>[[Pompey|Pompeo]] oggi si ride via la sua fortuna. |
-| [[Enobarbus|ENOBARBO]] | Se lo fa, certo non potrà ripiangersela indietro. |
-| MENA | L’avete detto, signore. Non ci aspettavamo qui [[Mark Antony|Marco Antonio]]. Di grazia, è sposato a [[Cleopatra]]? |
-| [[Enobarbus|ENOBARBO]] | La sorella di Cesare si chiama [[Octavia|Ottavia]]. |
+| [[Enobarbus\|ENOBARBO]] | Venimmo qui per battervi. |
+| MENA | Per parte mia, mi dispiace che si sia mutato in una bevuta.<br>[[Pompey\|Pompeo]] oggi si ride via la sua fortuna. |
+| [[Enobarbus\|ENOBARBO]] | Se lo fa, certo non potrà ripiangersela indietro. |
+| MENA | L’avete detto, signore. Non ci aspettavamo qui [[Mark Antony\|Marco Antonio]]. Di grazia, è sposato a [[Cleopatra]]? |
+| [[Enobarbus\|ENOBARBO]] | La sorella di Cesare si chiama [[Octavia\|Ottavia]]. |
 | MENA | Vero, signore. Era la moglie di Caio Marcello. |
-| [[Enobarbus|ENOBARBO]] | Ma ora è la moglie di Marco Antonio. |
+| [[Enobarbus\|ENOBARBO]] | Ma ora è la moglie di Marco Antonio. |
 | MENA | Dite davvero, signore? |
-| [[Enobarbus|ENOBARBO]] | È vero. |
+| [[Enobarbus\|ENOBARBO]] | È vero. |
 | MENA | Allora Cesare e lui sono per sempre annodati insieme. |
-| [[Enobarbus|ENOBARBO]] | Se dovessi profetare su questa [[unity|unione]] non profetizzerei così. |
-| MENA | Credo che il calcolo politico abbia contato più in quel [[Marriage|matrimonio]] che l’[[Love|amore]] delle parti. |
-| [[Enobarbus|ENOBARBO]] | Lo credo anch’io. Ma vedrete che il legame che pare stringere insieme la loro [[Friendship|amicizia]] sarà proprio lo strangolatore del loro affetto. [[Octavia|Ottavia]] è di conversazione santa, fredda e quieta. |
+| [[Enobarbus\|ENOBARBO]] | Se dovessi profetare su questa [[unity\|unione]] non profetizzerei così. |
+| MENA | Credo che il calcolo politico abbia contato più in quel [[Marriage\|matrimonio]] che l’[[Love\|amore]] delle parti. |
+| [[Enobarbus\|ENOBARBO]] | Lo credo anch’io. Ma vedrete che il legame che pare stringere insieme la loro [[Friendship\|amicizia]] sarà proprio lo strangolatore del loro affetto. [[Octavia\|Ottavia]] è di conversazione santa, fredda e quieta. |
 | MENA | Chi non vorrebbe la moglie così? |
-| [[Enobarbus|ENOBARBO]] | Non chi tale non è lui stesso, cioè [[Mark Antony|Marco Antonio]]. Tornerà al suo piatto egiziano; e allora i sospiri di [[Octavia|Ottavia]] soffieranno ad attizzare il [[Fire|fuoco]] in Cesare, e, come ho detto prima, ciò che è la forza del loro affetto si rivelerà l’immediato autore della loro discordia. Antonio riporrà il suo affetto dov’esso è. Qui ha sposato solo la propria convenienza. |
+| [[Enobarbus\|ENOBARBO]] | Non chi tale non è lui stesso, cioè [[Mark Antony\|Marco Antonio]]. Tornerà al suo piatto egiziano; e allora i sospiri di [[Octavia\|Ottavia]] soffieranno ad attizzare il [[Fire\|fuoco]] in Cesare, e, come ho detto prima, ciò che è la forza del loro affetto si rivelerà l’immediato autore della loro discordia. Antonio riporrà il suo affetto dov’esso è. Qui ha sposato solo la propria convenienza. |
 | MENA | E così potrebbe essere. Venite, signore, salite a bordo? Ho un brindisi per voi. |
-| [[Enobarbus|ENOBARBO]] | L’accetterò, signore. Abbiamo esercitato le nostre gole in [[Egypt|Egitto]]. |
+| [[Enobarbus\|ENOBARBO]] | L’accetterò, signore. Abbiamo esercitato le nostre gole in [[Egypt\|Egitto]]. |
 | MENA | Venite, andiamo. |
 | *(didascalia)* | Escono |
 
@@ -2978,86 +2978,86 @@ The [[Tragedy]] of Antony and [[Cleopatra]]
 | Chi parla | Battuta |
 |---|---|
 | *(didascalia)* | Suona musica. Entrano due o tre Servi con un banchetto |
-| PRIMO SERVO | Eccoli che arrivano, amico. Alcune delle loro piante hanno già radici malferme; il minimo [[Wind|vento]] del mondo le abbatterà. |
-| SECONDO SERVO | [[Lepidus|Lepido]] è tutto rosso in volto. |
+| PRIMO SERVO | Eccoli che arrivano, amico. Alcune delle loro piante hanno già radici malferme; il minimo [[Wind\|vento]] del mondo le abbatterà. |
+| SECONDO SERVO | [[Lepidus\|Lepido]] è tutto rosso in volto. |
 | PRIMO SERVO | Gli hanno fatto bere il bicchiere di carità. |
 | SECONDO SERVO | Appena si pungono l’un l’altro nell’umore, lui grida «Basta!»—li riconcilia con la sua preghiera e riconcilia se stesso col bere. |
 | PRIMO SERVO | Ma questo suscita guerra maggiore fra lui e la sua discrezione. |
 | SECONDO SERVO | Ecco cosa vuol dire avere un nome nella compagnia dei grandi. Preferirei avere una canna che non mi serve a nulla piuttosto che una picca che non riesco a sollevare. |
 | PRIMO SERVO | Essere chiamato in una sfera immensa e non essere visto muoversi in essa: sono i buchi dove dovrebbero esserci gli occhi, che miseramente sfigurano le guance. |
-| *(didascalia)* | Suona una marcia. Entrano Cesare, Antonio, [[Pompey|Pompeo]], [[Lepidus|Lepido]], Agrippa, Mecenate,.[[Enobarbus|Enobarbo]] e Mena, con altri capitani e un ragazzo |
+| *(didascalia)* | Suona una marcia. Entrano Cesare, Antonio, [[Pompey\|Pompeo]], [[Lepidus\|Lepido]], Agrippa, Mecenate,.[[Enobarbus\|Enobarbo]] e Mena, con altri capitani e un ragazzo |
 | ANTONIO | (a Cesare)<br>Fanno così, signore: misurano la piena del Nilo<br>con certe scale sulla piramide. Sanno<br>dall’altezza, dalla bassezza o dalla media, se seguirà<br>carestia o abbondanza. Quanto più il Nilo si gonfia<br>tanto più promette; e quando cala, il seminatore<br>sul limo e sulla melma sparge il suo grano,<br>e in breve giunge al raccolto. |
-| [[Lepidus|LEPIDO]] | Avete strani serpenti laggiù? |
-| ANTONIO | Sì, [[Lepidus|Lepido]]. |
-| [[Lepidus|LEPIDO]] | Il vostro serpente d’[[Egypt|Egitto]] nasce ora dal vostro fango per opera del vostro sole; e così il vostro coccodrillo. |
+| [[Lepidus\|LEPIDO]] | Avete strani serpenti laggiù? |
+| ANTONIO | Sì, [[Lepidus\|Lepido]]. |
+| [[Lepidus\|LEPIDO]] | Il vostro serpente d’[[Egypt\|Egitto]] nasce ora dal vostro fango per opera del vostro sole; e così il vostro coccodrillo. |
 | ANTONIO | È così. |
-| [[Pompey|POMPEO]] | Sedete, e un po’ di vino. Un brindisi a [[Lepidus|Lepido]]! |
-| *(didascalia)* | Antonio, [[Pompey|Pompeo]] e [[Lepidus|Lepido]] siedono |
-| [[Lepidus|LEPIDO]] | Non sto così [[Well|bene]] come dovrei, ma non mi tirerò mai indietro. |
-| [[Enobarbus|ENOBARBO]] | Non finché non avrete dormito—[[Fear|temo]] che fino allora ci resterete dentro. |
-| [[Lepidus|LEPIDO]] | Anzi, certamente, ho sentito che le piramidi dei Tolomei son cose assai belle: senza contraddizione ho sentito questo. |
-| MENA | (in disparte a [[Pompey|Pompeo]])<br>[[Pompey|Pompeo]], una parola. |
-| [[Pompey|POMPEO]] | (in disparte a Mena) Dimmelo all’orecchio; che c’è? |
-| MENA | (in disparte a [[Pompey|Pompeo]])<br>Lascia il tuo seggio, te ne supplico, capitano,<br>e ascoltami dire una parola. |
-| [[Pompey|POMPEO]] | (in disparte a Mena) Lasciami stare fino a più tardi.<br>(Ad alta voce) Questo vino per [[Lepidus|Lepido]]!<br>Mena bisbiglia all’orecchio di [[Pompey|Pompeo]] |
-| [[Lepidus|LEPIDO]] | Che sorta di cosa è il vostro coccodrillo? |
+| [[Pompey\|POMPEO]] | Sedete, e un po’ di vino. Un brindisi a [[Lepidus\|Lepido]]! |
+| *(didascalia)* | Antonio, [[Pompey\|Pompeo]] e [[Lepidus\|Lepido]] siedono |
+| [[Lepidus\|LEPIDO]] | Non sto così [[Well\|bene]] come dovrei, ma non mi tirerò mai indietro. |
+| [[Enobarbus\|ENOBARBO]] | Non finché non avrete dormito—[[Fear\|temo]] che fino allora ci resterete dentro. |
+| [[Lepidus\|LEPIDO]] | Anzi, certamente, ho sentito che le piramidi dei Tolomei son cose assai belle: senza contraddizione ho sentito questo. |
+| MENA | (in disparte a [[Pompey\|Pompeo]])<br>[[Pompey\|Pompeo]], una parola. |
+| [[Pompey\|POMPEO]] | (in disparte a Mena) Dimmelo all’orecchio; che c’è? |
+| MENA | (in disparte a [[Pompey\|Pompeo]])<br>Lascia il tuo seggio, te ne supplico, capitano,<br>e ascoltami dire una parola. |
+| [[Pompey\|POMPEO]] | (in disparte a Mena) Lasciami stare fino a più tardi.<br>(Ad alta voce) Questo vino per [[Lepidus\|Lepido]]!<br>Mena bisbiglia all’orecchio di [[Pompey\|Pompeo]] |
+| [[Lepidus\|LEPIDO]] | Che sorta di cosa è il vostro coccodrillo? |
 | ANTONIO | Ha forma, signore, di se stesso; ed è largo quanta è la sua larghezza. È alto giusto quanto è, e si muove con i propri organi. Vive di ciò che lo nutre, e una volta usciti da esso gli elementi, trasmigra. |
-| [[Lepidus|LEPIDO]] | Di che colore è? |
+| [[Lepidus\|LEPIDO]] | Di che colore è? |
 | ANTONIO | Anche del proprio colore. |
-| [[Lepidus|LEPIDO]] | È uno strano serpente. |
-| ANTONIO | È così, e le sue [[Tears|lacrime]] sono bagnate. |
+| [[Lepidus\|LEPIDO]] | È uno strano serpente. |
+| ANTONIO | È così, e le sue [[Tears\|lacrime]] sono bagnate. |
 | CESARE | (ad Antonio)<br>Questa descrizione lo soddisferà? |
-| ANTONIO | Col brindisi che [[Pompey|Pompeo]] gli offre; altrimenti è proprio un epicureo. |
-| [[Pompey|POMPEO]] | (in disparte a Mena)<br>Va’ a farti impiccare, signore, impiccare! Parlarmi di questo? Via,<br>fa’ come ti dico. (Ad alta voce) Dov’è questa coppa che ho chiesto? |
-| MENA | (in disparte a [[Pompey|Pompeo]])<br>Se per amore del merito vuoi ascoltarmi,<br>alzati dallo sgabello. |
-| *(didascalia)* | [[Pompey|POMPEO]] alzandosi Credo che tu sia pazzo. Di che si tratta? |
-| *(didascalia)* | Mena e [[Pompey|Pompeo]] si tengono in disparte |
+| ANTONIO | Col brindisi che [[Pompey\|Pompeo]] gli offre; altrimenti è proprio un epicureo. |
+| [[Pompey\|POMPEO]] | (in disparte a Mena)<br>Va’ a farti impiccare, signore, impiccare! Parlarmi di questo? Via,<br>fa’ come ti dico. (Ad alta voce) Dov’è questa coppa che ho chiesto? |
+| MENA | (in disparte a [[Pompey\|Pompeo]])<br>Se per amore del merito vuoi ascoltarmi,<br>alzati dallo sgabello. |
+| *(didascalia)* | [[Pompey\|POMPEO]] alzandosi Credo che tu sia pazzo. Di che si tratta? |
+| *(didascalia)* | Mena e [[Pompey\|Pompeo]] si tengono in disparte |
 | MENA | Mi sono sempre scoperto il capo davanti alla tua fortuna. |
-| [[Pompey|POMPEO]] | Mi hai servito con molta [[Faith|fede]]. Che altro c’è da<br>dire?<br>Siate allegri, signori. |
-| ANTONIO | Queste sabbie mobili, [[Lepidus|Lepido]],<br>statene lontano, ché affondate. |
+| [[Pompey\|POMPEO]] | Mi hai servito con molta [[Faith\|fede]]. Che altro c’è da<br>dire?<br>Siate allegri, signori. |
+| ANTONIO | Queste sabbie mobili, [[Lepidus\|Lepido]],<br>statene lontano, ché affondate. |
 | MENA | Vuoi essere signore di tutto il mondo? |
-| [[Pompey|POMPEO]] | Che dici? |
+| [[Pompey\|POMPEO]] | Che dici? |
 | MENA | Vuoi essere signore del mondo intero? Sono due volte. |
-| [[Pompey|POMPEO]] | Come sarebbe possibile? |
+| [[Pompey\|POMPEO]] | Come sarebbe possibile? |
 | MENA | Accoglilo soltanto,<br>e, per quanto mi creda povero, io sono l’uomo<br>che ti darà tutto il mondo. |
-| [[Pompey|POMPEO]] | Hai bevuto [[Well|bene]]? |
-| MENA | No, [[Pompey|Pompeo]], mi son tenuto lontano dalla coppa.<br>Tu sei, se osi esserlo, il Giove terreno.<br>Tutto ciò che l’oceano recinge o il cielo abbraccia<br>è tuo, se lo vuoi. |
-| [[Pompey|POMPEO]] | Mostrami in che modo! |
+| [[Pompey\|POMPEO]] | Hai bevuto [[Well\|bene]]? |
+| MENA | No, [[Pompey\|Pompeo]], mi son tenuto lontano dalla coppa.<br>Tu sei, se osi esserlo, il Giove terreno.<br>Tutto ciò che l’oceano recinge o il cielo abbraccia<br>è tuo, se lo vuoi. |
+| [[Pompey\|POMPEO]] | Mostrami in che modo! |
 | MENA | Questi tre spartitori del mondo, questi rivali,<br>sono sul tuo vascello. Lasciami tagliare la gomena;<br>e quando saremo al largo, gettarci alle loro gole.<br>Tutto quel che c’è è tuo. |
-| [[Pompey|POMPEO]] | Ah, questo avresti dovuto farlo<br>e non parlarne. In me è scelleratezza,<br>in te sarebbe stato buon servizio. Devi sapere<br>che non è il mio profitto a guidare il mio [[Honour|onore]];<br>ma il mio [[Honour|onore]] a guidare quello. Pentiti che la tua lingua<br>abbia così tradito il tuo atto. Compiuto a mia insaputa,<br>l’avrei poi trovato [[Well|ben]] fatto,<br>ma ora devo condannarlo. Desisti, e bevi.<br>Torna dagli altri |
+| [[Pompey\|POMPEO]] | Ah, questo avresti dovuto farlo<br>e non parlarne. In me è scelleratezza,<br>in te sarebbe stato buon servizio. Devi sapere<br>che non è il mio profitto a guidare il mio [[Honour\|onore]];<br>ma il mio [[Honour\|onore]] a guidare quello. Pentiti che la tua lingua<br>abbia così tradito il tuo atto. Compiuto a mia insaputa,<br>l’avrei poi trovato [[Well\|ben]] fatto,<br>ma ora devo condannarlo. Desisti, e bevi.<br>Torna dagli altri |
 | MENA | (a parte)<br>Per questo, non seguirò mai più la tua fortuna sbiadita.<br>Chi cerca e non prende quando una volta gli è offerto,<br>non lo troverà mai più. |
-| [[Pompey|POMPEO]] | Questo brindisi a [[Lepidus|Lepido]]! |
-| ANTONIO | Portatelo a riva.—Brinderò io per lui, [[Pompey|Pompeo]]. |
-| [[Enobarbus|ENOBARBO]] | Alla tua, Mena! |
-| MENA | [[Enobarbus|Enobarbo]], benvenuto. |
-| [[Pompey|POMPEO]] | Riempi finché la coppa sparisca.<br>Uno solleva [[Lepidus|Lepido]], ubriaco, e lo porta via |
-| [[Enobarbus|ENOBARBO]] | Ecco un tipo robusto, Mena. |
+| [[Pompey\|POMPEO]] | Questo brindisi a [[Lepidus\|Lepido]]! |
+| ANTONIO | Portatelo a riva.—Brinderò io per lui, [[Pompey\|Pompeo]]. |
+| [[Enobarbus\|ENOBARBO]] | Alla tua, Mena! |
+| MENA | [[Enobarbus\|Enobarbo]], benvenuto. |
+| [[Pompey\|POMPEO]] | Riempi finché la coppa sparisca.<br>Uno solleva [[Lepidus\|Lepido]], ubriaco, e lo porta via |
+| [[Enobarbus\|ENOBARBO]] | Ecco un tipo robusto, Mena. |
 | MENA | Perché? 86 |
-| [[Enobarbus|ENOBARBO]] | Porta la terza parte del mondo, amico; non vedi? |
+| [[Enobarbus\|ENOBARBO]] | Porta la terza parte del mondo, amico; non vedi? |
 | MENA | La terza parte allora è ubriaca. Fosse tutto,<br>così andrebbe sulle ruote. |
-| [[Enobarbus|ENOBARBO]] | Bevi tu, accresci i capogiri. |
+| [[Enobarbus\|ENOBARBO]] | Bevi tu, accresci i capogiri. |
 | MENA | Vieni. |
-| [[Pompey|POMPEO]] | Questo non è ancora un banchetto alessandrino. |
+| [[Pompey\|POMPEO]] | Questo non è ancora un banchetto alessandrino. |
 | ANTONIO | Ci sta maturando. Battete i vasi, olà!<br>Alla salute di Cesare! |
-| CESARE | Potrei [[Well|ben]] farne a meno.<br>È fatica mostruosa quando mi lavo il cervello<br>e diventa più torbido. |
-| ANTONIO | Sii [[Child|figlio]] del [[Time|tempo]]. |
+| CESARE | Potrei [[Well\|ben]] farne a meno.<br>È fatica mostruosa quando mi lavo il cervello<br>e diventa più torbido. |
+| ANTONIO | Sii [[Child\|figlio]] del [[Time\|tempo]]. |
 | CESARE | Possiedilo, rispondo io.<br>Ma preferirei digiunare da tutto per quattro giorni<br>che bere tanto in uno. |
-| [[Enobarbus|ENOBARBO]] | (ad Antonio)<br>Ehi, mio prode Imperatore, [[Dance|danzeremo]] ora i baccanali egiziani,<br>e celebreremo il nostro bere? |
-| [[Pompey|POMPEO]] | Facciamolo, buon soldato. |
+| [[Enobarbus\|ENOBARBO]] | (ad Antonio)<br>Ehi, mio prode Imperatore, [[Dance\|danzeremo]] ora i baccanali egiziani,<br>e celebreremo il nostro bere? |
+| [[Pompey\|POMPEO]] | Facciamolo, buon soldato. |
 | ANTONIO | Su, prendiamoci tutti per mano<br>finché il vino conquistatore non abbia immerso i nostri sensi<br>in un Lete molle e delicato. |
-| [[Enobarbus|ENOBARBO]] | Tutti per mano.<br>Fate batteria ai nostri orecchi con la musica sonora.<br>Intanto vi disporrò, poi il ragazzo canterà.<br>Il ritornello ognuno lo batta forte<br>quanto i suoi fianchi robusti sanno tuonare. |
-| *(didascalia)* | Suona musica. [[Enobarbus|Enobarbo]] li dispone mano nella mano |
+| [[Enobarbus\|ENOBARBO]] | Tutti per mano.<br>Fate batteria ai nostri orecchi con la musica sonora.<br>Intanto vi disporrò, poi il ragazzo canterà.<br>Il ritornello ognuno lo batta forte<br>quanto i suoi fianchi robusti sanno tuonare. |
+| *(didascalia)* | Suona musica. [[Enobarbus\|Enobarbo]] li dispone mano nella mano |
 | *(didascalia)* | Il ragazzo (canta) |
-| [[Enobarbus|ENOBARBO]] | Vieni, tu monarca della vite,<br>Bacco paffuto, dagli occhi rosati!<br>Nei tuoi tini s’anneghino i nostri affanni,<br>coi tuoi grappoli s’incoronino i nostri capelli!<br>Versaci finché il mondo giri,<br>versaci finché il mondo giri! |
-| CESARE | Che volete di più? [[Pompey|Pompeo]], buona [[Night|notte]].<br>(Ad Antonio)<br>Buon cognato,<br>lasciate ch’io vi chieda di andarcene. I nostri affari più gravi<br>si accigliano a questa leggerezza. Gentili signori, separiamoci.<br>Vedete che ci siamo arse le guance. Il forte Enobarbo<br>è più debole del vino, e la mia stessa lingua<br>spezza ciò che dice. Questa mascherata sfrenata ci ha quasi<br>fatti tutti buffoni. Che occorrono altre parole? Buona [[Night|notte]].<br>Buon Antonio, la vostra mano. |
-| [[Pompey|POMPEO]] | Vi metterò alla prova a riva. |
+| [[Enobarbus\|ENOBARBO]] | Vieni, tu monarca della vite,<br>Bacco paffuto, dagli occhi rosati!<br>Nei tuoi tini s’anneghino i nostri affanni,<br>coi tuoi grappoli s’incoronino i nostri capelli!<br>Versaci finché il mondo giri,<br>versaci finché il mondo giri! |
+| CESARE | Che volete di più? [[Pompey\|Pompeo]], buona [[Night\|notte]].<br>(Ad Antonio)<br>Buon cognato,<br>lasciate ch’io vi chieda di andarcene. I nostri affari più gravi<br>si accigliano a questa leggerezza. Gentili signori, separiamoci.<br>Vedete che ci siamo arse le guance. Il forte Enobarbo<br>è più debole del vino, e la mia stessa lingua<br>spezza ciò che dice. Questa mascherata sfrenata ci ha quasi<br>fatti tutti buffoni. Che occorrono altre parole? Buona [[Night\|notte]].<br>Buon Antonio, la vostra mano. |
+| [[Pompey\|POMPEO]] | Vi metterò alla prova a riva. |
 | ANTONIO | E lo farete, signore. Dateci la vostra mano. |
-| [[Pompey|POMPEO]] | O Antonio,<br>voi avete la [[house|casa]] di mio padre. Ma che importa, siamo amici!<br>Scendete nella barca. |
-| *(didascalia)* | Escono tutti tranne [[Enobarbus|Enobarbo]] e Mena |
-| [[Enobarbus|ENOBARBO]] | Badate di non cadere, Mena. |
+| [[Pompey\|POMPEO]] | O Antonio,<br>voi avete la [[house\|casa]] di mio padre. Ma che importa, siamo amici!<br>Scendete nella barca. |
+| *(didascalia)* | Escono tutti tranne [[Enobarbus\|Enobarbo]] e Mena |
+| [[Enobarbus\|ENOBARBO]] | Badate di non cadere, Mena. |
 | MENA | Non andrò a riva.<br>No, alla mia cabina. Questi tamburi, queste trombe, flauti,<br>ehi!<br>Che Nettuno oda che diamo un sonoro addio<br>a questi grandi personaggi. Suonate e siate impiccati, suonate forte! |
 | *(didascalia)* | Suona una fanfara, con tamburi |
-| [[Enobarbus|ENOBARBO]] | (gettando il berretto in aria)<br>Uhè, dice lui! Ecco il mio berretto. |
+| [[Enobarbus\|ENOBARBO]] | (gettando il berretto in aria)<br>Uhè, dice lui! Ecco il mio berretto. |
 | MENA | Ehi, nobile capitano, venite! |
 | *(didascalia)* | Escono |
 
@@ -3083,12 +3083,12 @@ The [[Tragedy]] of Antony and [[Cleopatra]]
 
 | Chi parla | Battuta |
 |---|---|
-| *(didascalia)* | Entra Ventidio, con Silio e altri soldati romani, come in trionfo; il [[Body|corpo]] morto di Pacoro portato davanti a lui |
-| VENTIDIO | Ora, Partia saettante, sei colpita; e ora<br>la fortuna compiacente della [[Death|morte]] di Marco Crasso<br>mi fa vendicatore. Portate il [[Body|corpo]] del figlio del [[King|Re]]<br>davanti al nostro esercito. Il tuo Pacoro, Orode,<br>paga questo per Marco Crasso. |
-| SILIO | Nobile Ventidio,<br>mentre ancora del [[Blood|sangue]] partico è calda la tua [[Sword|spada]],<br>insegui i Parti in fuga. Sprona attraverso la Media,<br>la Mesopotamia, e i rifugi dove<br>volano gli sbandati. Così il tuo gran capitano, Antonio,<br>ti porrà su carri trionfali e<br>ti cingerà il capo di ghirlande. |
-| VENTIDIO | O Silio, Silio,<br>ho fatto abbastanza. Un posto inferiore, nota [[Well|bene]],<br>può compiere un’azione troppo grande. Impara questo, Silio:<br>meglio lasciare non fatto che con la nostra impresa<br>acquistare fama troppo alta quando chi serviamo è lontano.<br>Cesare e Antonio hanno sempre vinto<br>più coi loro ufficiali che di persona. Sossio,<br>uno del mio grado in Siria, suo luogotenente,<br>per la rapida accumulazione di rinomanza,<br>che conquistava di minuto in minuto, perse il suo favore.<br>Chi in guerra fa più di quanto sappia il suo capitano<br>diventa capitano del suo capitano; e l’[[Ambition|ambizione]],<br>virtù del soldato, preferisce scegliere la perdita<br>piuttosto che un guadagno che l’oscuri.<br>Potrei fare di più per il bene di Antonio,<br>ma l’offenderebbe, e nella sua offesa<br>perirebbe la mia impresa. |
-| SILIO | Tu hai, Ventidio, ciò<br>senza cui un soldato e la sua [[Sword|spada]]<br>non concedono quasi distinzione. Scriverai ad Antonio? |
-| VENTIDIO | Gli farò umilmente sapere che cosa nel suo nome,<br>quella magica parola di guerra, abbiamo compiuto;<br>come, con le sue insegne e le sue schiere [[Well|ben]] pagate,<br>la [[Horse|cavalleria]] partica mai fino ad ora battuta<br>abbiamo spossato e cacciato dal campo. |
+| *(didascalia)* | Entra Ventidio, con Silio e altri soldati romani, come in trionfo; il [[Body\|corpo]] morto di Pacoro portato davanti a lui |
+| VENTIDIO | Ora, Partia saettante, sei colpita; e ora<br>la fortuna compiacente della [[Death\|morte]] di Marco Crasso<br>mi fa vendicatore. Portate il [[Body\|corpo]] del figlio del [[King\|Re]]<br>davanti al nostro esercito. Il tuo Pacoro, Orode,<br>paga questo per Marco Crasso. |
+| SILIO | Nobile Ventidio,<br>mentre ancora del [[Blood\|sangue]] partico è calda la tua [[Sword\|spada]],<br>insegui i Parti in fuga. Sprona attraverso la Media,<br>la Mesopotamia, e i rifugi dove<br>volano gli sbandati. Così il tuo gran capitano, Antonio,<br>ti porrà su carri trionfali e<br>ti cingerà il capo di ghirlande. |
+| VENTIDIO | O Silio, Silio,<br>ho fatto abbastanza. Un posto inferiore, nota [[Well\|bene]],<br>può compiere un’azione troppo grande. Impara questo, Silio:<br>meglio lasciare non fatto che con la nostra impresa<br>acquistare fama troppo alta quando chi serviamo è lontano.<br>Cesare e Antonio hanno sempre vinto<br>più coi loro ufficiali che di persona. Sossio,<br>uno del mio grado in Siria, suo luogotenente,<br>per la rapida accumulazione di rinomanza,<br>che conquistava di minuto in minuto, perse il suo favore.<br>Chi in guerra fa più di quanto sappia il suo capitano<br>diventa capitano del suo capitano; e l’[[Ambition\|ambizione]],<br>virtù del soldato, preferisce scegliere la perdita<br>piuttosto che un guadagno che l’oscuri.<br>Potrei fare di più per il bene di Antonio,<br>ma l’offenderebbe, e nella sua offesa<br>perirebbe la mia impresa. |
+| SILIO | Tu hai, Ventidio, ciò<br>senza cui un soldato e la sua [[Sword\|spada]]<br>non concedono quasi distinzione. Scriverai ad Antonio? |
+| VENTIDIO | Gli farò umilmente sapere che cosa nel suo nome,<br>quella magica parola di guerra, abbiamo compiuto;<br>come, con le sue insegne e le sue schiere [[Well\|ben]] pagate,<br>la [[Horse\|cavalleria]] partica mai fino ad ora battuta<br>abbiamo spossato e cacciato dal campo. |
 | SILIO | Dov’è egli ora? |
 | VENTIDIO | Si propone d’andare ad Atene; e là, con quanta fretta<br>il carico che dobbiamo trasportare permetterà,<br>compariremo davanti a lui.—Avanti là; passate oltre. |
 | *(didascalia)* | Escono |
@@ -3148,48 +3148,48 @@ The [[Tragedy]] of Antony and [[Cleopatra]]
 
 | Chi parla | Battuta |
 |---|---|
-| *(didascalia)* | Entrano Agrippa da una porta, [[Enobarbus|Enobarbo]] da un’altra AGRIPPA Ebbene, i fratelli si sono separati? |
-| [[Enobarbus|ENOBARBO]] | Hanno concluso con [[Pompey|Pompeo]]; egli è partito.<br>Gli altri tre stanno sigillando. [[Octavia|Ottavia]] piange<br>nel lasciare Roma, Cesare è triste, e [[Lepidus|Lepido]]<br>dal banchetto di [[Pompey|Pompeo]], come dice Mena, è afflitto<br>dal mal verde. |
-| AGRIPPA | È un nobile [[Lepidus|Lepido]]. |
-| [[Enobarbus|ENOBARBO]] | Nobilissimo. Oh, come ama Cesare! |
-| AGRIPPA | Sì, ma quanto teneramente adora [[Mark Antony|Marco Antonio]]! |
-| [[Enobarbus|ENOBARBO]] | Cesare? Ma è il Giove degli uomini. |
+| *(didascalia)* | Entrano Agrippa da una porta, [[Enobarbus\|Enobarbo]] da un’altra AGRIPPA Ebbene, i fratelli si sono separati? |
+| [[Enobarbus\|ENOBARBO]] | Hanno concluso con [[Pompey\|Pompeo]]; egli è partito.<br>Gli altri tre stanno sigillando. [[Octavia\|Ottavia]] piange<br>nel lasciare Roma, Cesare è triste, e [[Lepidus\|Lepido]]<br>dal banchetto di [[Pompey\|Pompeo]], come dice Mena, è afflitto<br>dal mal verde. |
+| AGRIPPA | È un nobile [[Lepidus\|Lepido]]. |
+| [[Enobarbus\|ENOBARBO]] | Nobilissimo. Oh, come ama Cesare! |
+| AGRIPPA | Sì, ma quanto teneramente adora [[Mark Antony\|Marco Antonio]]! |
+| [[Enobarbus\|ENOBARBO]] | Cesare? Ma è il Giove degli uomini. |
 | AGRIPPA | E Antonio—il dio di Giove? |
-| [[Enobarbus|ENOBARBO]] | Parlavate di Cesare? Come, il senza pari? |
+| [[Enobarbus\|ENOBARBO]] | Parlavate di Cesare? Come, il senza pari? |
 | AGRIPPA | O Antonio, o tu uccello d’Arabia! |
-| [[Enobarbus|ENOBARBO]] | Se volete lodare Cesare, dite «Cesare»; non andate oltre. |
+| [[Enobarbus\|ENOBARBO]] | Se volete lodare Cesare, dite «Cesare»; non andate oltre. |
 | AGRIPPA | Davvero, li ha colmati entrambi d’eccellenti lodi. |
-| [[Enobarbus|ENOBARBO]] | Ma ama di più Cesare; eppure ama Antonio—<br>Uh! Cuori, lingue, cifre, scribi, bardi, poeti,<br>non possono<br>pensare, dire, calcolare, scrivere, cantare, numerare—uh!—<br>il suo [[Love|amore]] per Antonio. Ma quanto a Cesare—<br>inginocchiatevi, inginocchiatevi, e [[Wonder|stupite]]. |
+| [[Enobarbus\|ENOBARBO]] | Ma ama di più Cesare; eppure ama Antonio—<br>Uh! Cuori, lingue, cifre, scribi, bardi, poeti,<br>non possono<br>pensare, dire, calcolare, scrivere, cantare, numerare—uh!—<br>il suo [[Love\|amore]] per Antonio. Ma quanto a Cesare—<br>inginocchiatevi, inginocchiatevi, e [[Wonder\|stupite]]. |
 | AGRIPPA | Ama entrambi. |
-| [[Enobarbus|ENOBARBO]] | Sono le sue elitre, ed egli il loro scarabeo. |
+| [[Enobarbus\|ENOBARBO]] | Sono le sue elitre, ed egli il loro scarabeo. |
 | *(didascalia)* | Tromba all’interno |
-| [[Enobarbus|ENOBARBO]] | Ecco,<br>questo è il segnale di montare a [[Horse|cavallo]]. Addio, nobile Agrippa. |
+| [[Enobarbus\|ENOBARBO]] | Ecco,<br>questo è il segnale di montare a [[Horse\|cavallo]]. Addio, nobile Agrippa. |
 | AGRIPPA | Buona fortuna, degno soldato, e addio. |
-| *(didascalia)* | Entrano Cesare, Antonio, [[Lepidus|Lepido]] e [[Octavia|Ottavia]] |
+| *(didascalia)* | Entrano Cesare, Antonio, [[Lepidus\|Lepido]] e [[Octavia\|Ottavia]] |
 | ANTONIO | (a Cesare) Non oltre, signore. |
-| CESARE | Mi togliete gran parte di me stesso.<br>Trattatemi [[Well|bene]] in ciò. Sorella, mostrati tal moglie<br>quale i miei pensieri ti fanno, e come il mio più esteso impegno<br>si farà garante nella tua prova. Nobilissimo Antonio,<br>non permettete che questo pezzo di virtù, posto<br>fra noi come cemento del nostro [[Love|amore]]<br>perché resti edificato, divenga l’ariete che abbatte<br>la fortezza di esso; ché meglio avremmo potuto<br>amarci senza questo mezzo, se da entrambe le parti<br>non sarà tenuto caro. |
+| CESARE | Mi togliete gran parte di me stesso.<br>Trattatemi [[Well\|bene]] in ciò. Sorella, mostrati tal moglie<br>quale i miei pensieri ti fanno, e come il mio più esteso impegno<br>si farà garante nella tua prova. Nobilissimo Antonio,<br>non permettete che questo pezzo di virtù, posto<br>fra noi come cemento del nostro [[Love\|amore]]<br>perché resti edificato, divenga l’ariete che abbatte<br>la fortezza di esso; ché meglio avremmo potuto<br>amarci senza questo mezzo, se da entrambe le parti<br>non sarà tenuto caro. |
 | ANTONIO | Non offendetemi<br>con la vostra diffidenza. |
 | CESARE | Ho detto. |
-| ANTONIO | Non troverete,<br>per quanto minuziosi siate, la minima causa<br>di ciò che sembrate [[Fear|temere]]. E dunque, gli dèi vi custodiscano,<br>e facciano che i cuori dei Romani servano ai vostri fini.<br>Qui ci separeremo. |
-| CESARE | Addio, mia carissima sorella, sta’ [[Well|bene]].<br>Gli elementi ti siano benigni, e rendano<br>i tuoi spiriti tutti di conforto. Sta’ [[Well|bene]]. |
-| [[Octavia|OTTAVIA]] | (piangendo) Mio nobile fratello! |
-| ANTONIO | L’aprile è nei suoi occhi; è la [[Spring|primavera]] d’[[Love|amore]],<br>e queste le piogge che la fanno venire. Sii allegra. |
-| [[Octavia|OTTAVIA]] | Signore, badate [[Well|bene]] alla [[house|casa]] di mio marito, e— |
-| CESARE | Che c’è, [[Octavia|Ottavia]]? |
-| [[Octavia|OTTAVIA]] | Ve lo dirò all’orecchio.<br>Bisbiglia a Cesare |
+| ANTONIO | Non troverete,<br>per quanto minuziosi siate, la minima causa<br>di ciò che sembrate [[Fear\|temere]]. E dunque, gli dèi vi custodiscano,<br>e facciano che i cuori dei Romani servano ai vostri fini.<br>Qui ci separeremo. |
+| CESARE | Addio, mia carissima sorella, sta’ [[Well\|bene]].<br>Gli elementi ti siano benigni, e rendano<br>i tuoi spiriti tutti di conforto. Sta’ [[Well\|bene]]. |
+| [[Octavia\|OTTAVIA]] | (piangendo) Mio nobile fratello! |
+| ANTONIO | L’aprile è nei suoi occhi; è la [[Spring\|primavera]] d’[[Love\|amore]],<br>e queste le piogge che la fanno venire. Sii allegra. |
+| [[Octavia\|OTTAVIA]] | Signore, badate [[Well\|bene]] alla [[house\|casa]] di mio marito, e— |
+| CESARE | Che c’è, [[Octavia\|Ottavia]]? |
+| [[Octavia\|OTTAVIA]] | Ve lo dirò all’orecchio.<br>Bisbiglia a Cesare |
 | ANTONIO | La sua lingua non vuole obbedire al cuore, né può<br>il suo cuore informare la lingua—la piuma di cigno<br>che sta sull’onda al colmo della marea,<br>e non pende da nessuna parte. |
-| [[Enobarbus|ENOBARBO]] | (in disparte ad Agrippa) Piangerà Cesare? |
-| AGRIPPA | (in disparte a [[Enobarbus|Enobarbo]]) Ha una nube in volto. |
-| [[Enobarbus|ENOBARBO]] | (in disparte ad Agrippa)<br>Sarebbe peggio per lui se fosse un [[Horse|cavallo]];<br>e lo è, essendo un uomo. |
-| AGRIPPA | (in disparte a [[Enobarbus|Enobarbo]]) Suvvia, [[Enobarbus|Enobarbo]],<br>quando Antonio trovò morto [[Julius Caesar|Giulio Cesare]]<br>gridò quasi ruggendo, e pianse<br>quando a Filippi trovò [[Brutus|Bruto]] ucciso. |
-| [[Enobarbus|ENOBARBO]] | (in disparte ad Agrippa)<br>Quell’anno, davvero, era afflitto da un catarro.<br>Ciò che di sua volontà distrusse, lo lamentò,<br>credetemi, tanto che piansi anch’io. |
-| CESARE | No, dolce [[Octavia|Ottavia]],<br>avrai sempre mie notizie. Il [[Time|tempo]] non<br>supererà il mio pensare a te. |
-| ANTONIO | Venite, signore, venite,<br>lotterò con voi nella forza del mio [[Love|amore]].<br>Ecco, qui vi tengo (abbracciando Cesare); così vi lascio<br>andare,<br>e vi consegno agli dèi. |
+| [[Enobarbus\|ENOBARBO]] | (in disparte ad Agrippa) Piangerà Cesare? |
+| AGRIPPA | (in disparte a [[Enobarbus\|Enobarbo]]) Ha una nube in volto. |
+| [[Enobarbus\|ENOBARBO]] | (in disparte ad Agrippa)<br>Sarebbe peggio per lui se fosse un [[Horse\|cavallo]];<br>e lo è, essendo un uomo. |
+| AGRIPPA | (in disparte a [[Enobarbus\|Enobarbo]]) Suvvia, [[Enobarbus\|Enobarbo]],<br>quando Antonio trovò morto [[Julius Caesar\|Giulio Cesare]]<br>gridò quasi ruggendo, e pianse<br>quando a Filippi trovò [[Brutus\|Bruto]] ucciso. |
+| [[Enobarbus\|ENOBARBO]] | (in disparte ad Agrippa)<br>Quell’anno, davvero, era afflitto da un catarro.<br>Ciò che di sua volontà distrusse, lo lamentò,<br>credetemi, tanto che piansi anch’io. |
+| CESARE | No, dolce [[Octavia\|Ottavia]],<br>avrai sempre mie notizie. Il [[Time\|tempo]] non<br>supererà il mio pensare a te. |
+| ANTONIO | Venite, signore, venite,<br>lotterò con voi nella forza del mio [[Love\|amore]].<br>Ecco, qui vi tengo (abbracciando Cesare); così vi lascio<br>andare,<br>e vi consegno agli dèi. |
 | CESARE | Addio, siate felice. |
-| [[Lepidus|LEPIDO]] | Tutto il numero delle [[Stars|stelle]] dia luce<br>al tuo bel cammino. |
-| CESARE | Addio, addio.<br>Bacia [[Octavia|Ottavia]] |
+| [[Lepidus\|LEPIDO]] | Tutto il numero delle [[Stars\|stelle]] dia luce<br>al tuo bel cammino. |
+| CESARE | Addio, addio.<br>Bacia [[Octavia\|Ottavia]] |
 | ANTONIO | Addio. |
-| *(didascalia)* | Suonano le trombe. Escono Antonio, [[Octavia|Ottavia]] ed [[Enobarbus|Enobarbo]] da una porta, Cesare, [[Lepidus|Lepido]] e Agrippa da un’altra |
+| *(didascalia)* | Suonano le trombe. Escono Antonio, [[Octavia\|Ottavia]] ed [[Enobarbus\|Enobarbo]] da una porta, Cesare, [[Lepidus\|Lepido]] e Agrippa da un’altra |
 
 
 
@@ -3248,49 +3248,49 @@ The [[Tragedy]] of Antony and [[Cleopatra]]
 
 | Chi parla | Battuta |
 |---|---|
-| *(didascalia)* | Entrano [[Cleopatra]], [[Charmian|Carmiana]], Iras e Alessa |
-| [[Cleopatra|CLEOPATRA]] | Dov’è quell’uomo? |
+| *(didascalia)* | Entrano [[Cleopatra]], [[Charmian\|Carmiana]], Iras e Alessa |
+| [[Cleopatra\|CLEOPATRA]] | Dov’è quell’uomo? |
 | ALESSA | Mezzo impaurito di venire. |
-| [[Cleopatra|CLEOPATRA]] | Suvvia, suvvia. |
+| [[Cleopatra\|CLEOPATRA]] | Suvvia, suvvia. |
 | *(didascalia)* | Entra il Messaggero come prima |
-| [[Cleopatra|CLEOPATRA]] | Vieni qua, signore. |
-| ALESSA | Buona maestà,<br>Erode di Giudea non osa guardarvi<br>se non quando siete [[Well|ben]] disposta. |
-| [[Cleopatra|CLEOPATRA]] | Quella testa d’Erode<br>l’avrò; ma come, ora che Antonio è partito,<br>per mezzo del quale potrei ordinarlo?<br>(Al Messaggero)<br>Avvicinati. |
+| [[Cleopatra\|CLEOPATRA]] | Vieni qua, signore. |
+| ALESSA | Buona maestà,<br>Erode di Giudea non osa guardarvi<br>se non quando siete [[Well\|ben]] disposta. |
+| [[Cleopatra\|CLEOPATRA]] | Quella testa d’Erode<br>l’avrò; ma come, ora che Antonio è partito,<br>per mezzo del quale potrei ordinarlo?<br>(Al Messaggero)<br>Avvicinati. |
 | MESSAGGERO | Graziosissima maestà! |
-| [[Cleopatra|CLEOPATRA]] | Hai visto<br>[[Octavia|Ottavia]]? |
-| MESSAGGERO | Sì, temuta [[Queen|Regina]]. |
-| [[Cleopatra|CLEOPATRA]] | Dove? |
-| MESSAGGERO | Madama, a Roma.<br>La guardai in volto, e la vidi condotta<br>fra suo fratello e [[Mark Antony|Marco Antonio]]. |
-| [[Cleopatra|CLEOPATRA]] | È alta quanto me? |
+| [[Cleopatra\|CLEOPATRA]] | Hai visto<br>[[Octavia\|Ottavia]]? |
+| MESSAGGERO | Sì, temuta [[Queen\|Regina]]. |
+| [[Cleopatra\|CLEOPATRA]] | Dove? |
+| MESSAGGERO | Madama, a Roma.<br>La guardai in volto, e la vidi condotta<br>fra suo fratello e [[Mark Antony\|Marco Antonio]]. |
+| [[Cleopatra\|CLEOPATRA]] | È alta quanto me? |
 | MESSAGGERO | Non lo è, madama. |
-| [[Cleopatra|CLEOPATRA]] | L’hai udita parlare? Ha voce stridula o bassa? |
+| [[Cleopatra\|CLEOPATRA]] | L’hai udita parlare? Ha voce stridula o bassa? |
 | MESSAGGERO | Madama, l’ho udita parlare. Ha voce bassa. |
-| [[Cleopatra|CLEOPATRA]] | Non è tanto bene. Non potrà piacergli a lungo. |
-| [[Charmian|CARMIANA]] | Piacergli? O Iside, è impossibile! |
-| [[Cleopatra|CLEOPATRA]] | Lo credo anch’io, [[Charmian|Carmiana]]. Ottusa di lingua, e nana.<br>Che maestà c’è nel suo incedere? Ricorda,<br>se mai hai guardato la maestà. |
-| MESSAGGERO | Striscia.<br>Il suo moto e il suo star ferma sono tutt’uno.<br>Mostra un [[Body|corpo]] piuttosto che una vita,<br>una statua più che un essere che respira. |
-| [[Cleopatra|CLEOPATRA]] | È certo questo? |
+| [[Cleopatra\|CLEOPATRA]] | Non è tanto bene. Non potrà piacergli a lungo. |
+| [[Charmian\|CARMIANA]] | Piacergli? O Iside, è impossibile! |
+| [[Cleopatra\|CLEOPATRA]] | Lo credo anch’io, [[Charmian\|Carmiana]]. Ottusa di lingua, e nana.<br>Che maestà c’è nel suo incedere? Ricorda,<br>se mai hai guardato la maestà. |
+| MESSAGGERO | Striscia.<br>Il suo moto e il suo star ferma sono tutt’uno.<br>Mostra un [[Body\|corpo]] piuttosto che una vita,<br>una statua più che un essere che respira. |
+| [[Cleopatra\|CLEOPATRA]] | È certo questo? |
 | MESSAGGERO | O io non so osservare. |
-| [[Charmian|CARMIANA]] | Tre in [[Egypt|Egitto]]<br>non saprebbero osservar meglio. |
-| [[Cleopatra|CLEOPATRA]] | È molto avveduto,<br>lo capisco. Non c’è ancora nulla in lei.<br>Quell’uomo ha buon giudizio. |
-| [[Charmian|CARMIANA]] | Eccellente. |
-| [[Cleopatra|CLEOPATRA]] | (al Messaggero)<br>Indovina la sua età, ti prego. |
+| [[Charmian\|CARMIANA]] | Tre in [[Egypt\|Egitto]]<br>non saprebbero osservar meglio. |
+| [[Cleopatra\|CLEOPATRA]] | È molto avveduto,<br>lo capisco. Non c’è ancora nulla in lei.<br>Quell’uomo ha buon giudizio. |
+| [[Charmian\|CARMIANA]] | Eccellente. |
+| [[Cleopatra\|CLEOPATRA]] | (al Messaggero)<br>Indovina la sua età, ti prego. |
 | MESSAGGERO | Madama,<br>era vedova— |
-| [[Cleopatra|CLEOPATRA]] | Vedova? [[Charmian|Carmiana]], senti. |
+| [[Cleopatra\|CLEOPATRA]] | Vedova? [[Charmian\|Carmiana]], senti. |
 | MESSAGGERO | E credo che abbia trent’anni. |
-| [[Cleopatra|CLEOPATRA]] | Ricordi il suo volto? È lungo o tondo? |
+| [[Cleopatra\|CLEOPATRA]] | Ricordi il suo volto? È lungo o tondo? |
 | MESSAGGERO | Tondo, fino a esserne difettoso. |
-| [[Cleopatra|CLEOPATRA]] | Per lo più, poi, sono sciocche quelle così fatte.<br>I suoi capelli—di che colore? |
+| [[Cleopatra\|CLEOPATRA]] | Per lo più, poi, sono sciocche quelle così fatte.<br>I suoi capelli—di che colore? |
 | MESSAGGERO | Bruni, madama; e la sua fronte<br>bassa quanto potrebbe desiderarla. |
-| [[Cleopatra|CLEOPATRA]] | (dandogli del denaro)<br>Ecco dell’oro per te.<br>Non devi prendere a male la mia asprezza di prima.<br>Ti rimanderò indietro. Ti trovo<br>assai adatto alla bisogna. Va’, preparati.<br>Le nostre lettere sono pronte. |
+| [[Cleopatra\|CLEOPATRA]] | (dandogli del denaro)<br>Ecco dell’oro per te.<br>Non devi prendere a male la mia asprezza di prima.<br>Ti rimanderò indietro. Ti trovo<br>assai adatto alla bisogna. Va’, preparati.<br>Le nostre lettere sono pronte. |
 | *(didascalia)* | Esce il Messaggero |
-| [[Charmian|CARMIANA]] | Un uomo per bene. |
-| [[Cleopatra|CLEOPATRA]] | Davvero lo è. Molto mi pento<br>d’averlo così tormentato. Ebbene, mi pare, a sentir lui,<br>che quella creatura non sia gran cosa. |
-| [[Charmian|CARMIANA]] | Nulla, madama. |
-| [[Cleopatra|CLEOPATRA]] | Quell’uomo ha visto qualche maestà, e deve saperne. |
-| [[Charmian|CARMIANA]] | Se ha visto maestà? Iside non voglia altrimenti,<br>dopo avervi servita così a lungo! |
-| [[Cleopatra|CLEOPATRA]] | Ho ancora un’altra cosa da chiedergli, buona<br>[[Charmian|Carmiana]].<br>Ma non importa. Me lo condurrai<br>dove scriverò. Tutto potrà andare abbastanza [[Well|bene]]. |
-| [[Charmian|CARMIANA]] | Ve l’assicuro, madama. |
+| [[Charmian\|CARMIANA]] | Un uomo per bene. |
+| [[Cleopatra\|CLEOPATRA]] | Davvero lo è. Molto mi pento<br>d’averlo così tormentato. Ebbene, mi pare, a sentir lui,<br>che quella creatura non sia gran cosa. |
+| [[Charmian\|CARMIANA]] | Nulla, madama. |
+| [[Cleopatra\|CLEOPATRA]] | Quell’uomo ha visto qualche maestà, e deve saperne. |
+| [[Charmian\|CARMIANA]] | Se ha visto maestà? Iside non voglia altrimenti,<br>dopo avervi servita così a lungo! |
+| [[Cleopatra\|CLEOPATRA]] | Ho ancora un’altra cosa da chiedergli, buona<br>[[Charmian\|Carmiana]].<br>Ma non importa. Me lo condurrai<br>dove scriverò. Tutto potrà andare abbastanza [[Well\|bene]]. |
+| [[Charmian\|CARMIANA]] | Ve l’assicuro, madama. |
 | *(didascalia)* | Escono |
 
 
@@ -3313,12 +3313,12 @@ The [[Tragedy]] of Antony and [[Cleopatra]]
 
 | Chi parla | Battuta |
 |---|---|
-| *(didascalia)* | Entrano Antonio e [[Octavia|Ottavia]] |
-| ANTONIO | No, no, [[Octavia|Ottavia]], non solo quello,<br>quello sarebbe scusabile, quello e mille altre cose<br>di simile portata; ma egli ha mosso<br>nuove guerre contro [[Pompey|Pompeo]], ha fatto testamento e l’ha letto<br>all’orecchio pubblico, ha parlato di me con parsimonia;<br>e quando per forza non poteva<br>che rendermi termini d’[[Honour|onore]], freddo e svogliato<br>li ha proferiti, concedendomi misura strettissima.<br>Quando gli si offriva l’occasione migliore, non l’ha colta,<br>o l’ha fatto a denti stretti. |
-| [[Octavia|OTTAVIA]] | O mio buon signore,<br>non credete a tutto, o se dovete credere,<br>non prendetevela per tutto. Una dama più infelice,<br>se questa divisione avviene, non stette mai in mezzo,<br>pregando per entrambe le parti.<br>I buoni dèi si faranno beffe di me tra poco,<br>quando pregherò «Oh, benedite il mio signore e sposo!»,<br>e disferò quella [[Prayer|preghiera]] gridando altrettanto forte<br>«Oh, benedite mio fratello!» Vinca lo sposo, vinca il fratello:<br>l’una prece annulla l’altra [[Prayer|preghiera]]; nessuna via di mezzo<br>fra questi estremi. |
-| ANTONIO | Gentile [[Octavia|Ottavia]],<br>il vostro miglior [[Love|amore]] si volga a quel punto che cerca<br>meglio di preservarlo. Se perdo il mio [[Honour|onore]],<br>perdo me stesso. Meglio non essere vostro<br>che essere vostro così senza rami. Ma, come avete chiesto,<br>voi stessa farete da intermediaria. Nel frattempo, signora,<br>allestirò il preparativo d’una guerra<br>che oscurerà vostro fratello. Fate la vostra più rapida fretta;<br>così i vostri desideri sono vostri. |
-| [[Octavia|OTTAVIA]] | Grazie al mio signore.<br>Il Giove della potenza faccia di me, debolissima, debolissima,<br>la vostra riconciliatrice! Guerre fra voi due sarebbero<br>come se il mondo si spaccasse, e gli uccisi<br>dovessero saldare la fenditura. |
-| ANTONIO | Quando vi apparirà chiaro dove ciò comincia,<br>volgete di là il vostro sdegno, ché le nostre colpe<br>non potranno mai essere così uguali che il vostro [[Love|amore]]<br>possa muoversi ugualmente con esse. Preparate la partenza,<br>scegliete la vostra compagnia, e disponete di quanta spesa<br>il vostro cuore desideri. |
+| *(didascalia)* | Entrano Antonio e [[Octavia\|Ottavia]] |
+| ANTONIO | No, no, [[Octavia\|Ottavia]], non solo quello,<br>quello sarebbe scusabile, quello e mille altre cose<br>di simile portata; ma egli ha mosso<br>nuove guerre contro [[Pompey\|Pompeo]], ha fatto testamento e l’ha letto<br>all’orecchio pubblico, ha parlato di me con parsimonia;<br>e quando per forza non poteva<br>che rendermi termini d’[[Honour\|onore]], freddo e svogliato<br>li ha proferiti, concedendomi misura strettissima.<br>Quando gli si offriva l’occasione migliore, non l’ha colta,<br>o l’ha fatto a denti stretti. |
+| [[Octavia\|OTTAVIA]] | O mio buon signore,<br>non credete a tutto, o se dovete credere,<br>non prendetevela per tutto. Una dama più infelice,<br>se questa divisione avviene, non stette mai in mezzo,<br>pregando per entrambe le parti.<br>I buoni dèi si faranno beffe di me tra poco,<br>quando pregherò «Oh, benedite il mio signore e sposo!»,<br>e disferò quella [[Prayer\|preghiera]] gridando altrettanto forte<br>«Oh, benedite mio fratello!» Vinca lo sposo, vinca il fratello:<br>l’una prece annulla l’altra [[Prayer\|preghiera]]; nessuna via di mezzo<br>fra questi estremi. |
+| ANTONIO | Gentile [[Octavia\|Ottavia]],<br>il vostro miglior [[Love\|amore]] si volga a quel punto che cerca<br>meglio di preservarlo. Se perdo il mio [[Honour\|onore]],<br>perdo me stesso. Meglio non essere vostro<br>che essere vostro così senza rami. Ma, come avete chiesto,<br>voi stessa farete da intermediaria. Nel frattempo, signora,<br>allestirò il preparativo d’una guerra<br>che oscurerà vostro fratello. Fate la vostra più rapida fretta;<br>così i vostri desideri sono vostri. |
+| [[Octavia\|OTTAVIA]] | Grazie al mio signore.<br>Il Giove della potenza faccia di me, debolissima, debolissima,<br>la vostra riconciliatrice! Guerre fra voi due sarebbero<br>come se il mondo si spaccasse, e gli uccisi<br>dovessero saldare la fenditura. |
+| ANTONIO | Quando vi apparirà chiaro dove ciò comincia,<br>volgete di là il vostro sdegno, ché le nostre colpe<br>non potranno mai essere così uguali che il vostro [[Love\|amore]]<br>possa muoversi ugualmente con esse. Preparate la partenza,<br>scegliete la vostra compagnia, e disponete di quanta spesa<br>il vostro cuore desideri. |
 | *(didascalia)* | Escono |
 
 
@@ -3346,17 +3346,17 @@ The [[Tragedy]] of Antony and [[Cleopatra]]
 
 | Chi parla | Battuta |
 |---|---|
-| *(didascalia)* | Entrano [[Enobarbus|Enobarbo]] ed Eros, incontrandosi |
-| [[Enobarbus|ENOBARBO]] | Ebbene, amico Eros? |
+| *(didascalia)* | Entrano [[Enobarbus\|Enobarbo]] ed Eros, incontrandosi |
+| [[Enobarbus\|ENOBARBO]] | Ebbene, amico Eros? |
 | EROS | Sono giunte strane notizie, signore. |
-| [[Enobarbus|ENOBARBO]] | Quali, amico? |
-| EROS | Cesare e [[Lepidus|Lepido]] hanno mosso guerra a [[Pompey|Pompeo]]. [[Enobarbus|ENOBARBO]] Questa è vecchia. Qual è l’[[success|esito]]? |
-| EROS | Cesare, essendosi servito di lui nelle guerre contro [[Pompey|Pompeo]], gli ha subito negato la parità, non gli ha lasciato prender parte alla gloria dell’impresa, e, non fermandosi qui, l’accusa di lettere che aveva prima scritto a [[Pompey|Pompeo]]; per sua propria denuncia lo fa arrestare; così il povero terzo è rinchiuso, finché la [[Death|morte]] non allarghi i suoi confini. |
-| [[Enobarbus|ENOBARBO]] | E allora, mondo, tu hai un paio di mascelle, non più,<br>e getta fra esse tutto il cibo che hai,<br>l’una macinerà l’altra. Dov’è Antonio? |
-| EROS | Passeggia nel [[Garden|giardino]], così, e scalcia<br>il giunco che gli sta davanti, grida: «[[Fool|Sciocco]] [[Lepidus|Lepido]]!»<br>e minaccia la gola di quel suo ufficiale<br>che assassinò [[Pompey|Pompeo]]. |
-| [[Enobarbus|ENOBARBO]] | La nostra grande flotta è armata. |
-| EROS | Per l’[[Italy|Italia]] e contro Cesare. Di più, Domizio:<br>il mio signore vi vuole subito. Le mie notizie<br>avrei potuto dirle dopo. |
-| [[Enobarbus|ENOBARBO]] | Non sarà nulla di buono.<br>Ma sia; conducimi da Antonio. |
+| [[Enobarbus\|ENOBARBO]] | Quali, amico? |
+| EROS | Cesare e [[Lepidus\|Lepido]] hanno mosso guerra a [[Pompey\|Pompeo]]. [[Enobarbus\|ENOBARBO]] Questa è vecchia. Qual è l’[[success\|esito]]? |
+| EROS | Cesare, essendosi servito di lui nelle guerre contro [[Pompey\|Pompeo]], gli ha subito negato la parità, non gli ha lasciato prender parte alla gloria dell’impresa, e, non fermandosi qui, l’accusa di lettere che aveva prima scritto a [[Pompey\|Pompeo]]; per sua propria denuncia lo fa arrestare; così il povero terzo è rinchiuso, finché la [[Death\|morte]] non allarghi i suoi confini. |
+| [[Enobarbus\|ENOBARBO]] | E allora, mondo, tu hai un paio di mascelle, non più,<br>e getta fra esse tutto il cibo che hai,<br>l’una macinerà l’altra. Dov’è Antonio? |
+| EROS | Passeggia nel [[Garden\|giardino]], così, e scalcia<br>il giunco che gli sta davanti, grida: «[[Fool\|Sciocco]] [[Lepidus\|Lepido]]!»<br>e minaccia la gola di quel suo ufficiale<br>che assassinò [[Pompey\|Pompeo]]. |
+| [[Enobarbus\|ENOBARBO]] | La nostra grande flotta è armata. |
+| EROS | Per l’[[Italy\|Italia]] e contro Cesare. Di più, Domizio:<br>il mio signore vi vuole subito. Le mie notizie<br>avrei potuto dirle dopo. |
+| [[Enobarbus\|ENOBARBO]] | Non sarà nulla di buono.<br>Ma sia; conducimi da Antonio. |
 | EROS | Venite, signore. Escono |
 
 
@@ -3404,34 +3404,34 @@ The [[Tragedy]] of Antony and [[Cleopatra]]
 | Chi parla | Battuta |
 |---|---|
 | *(didascalia)* | Entrano Agrippa, Mecenate e Cesare |
-| CESARE | Sprezzando Roma, ha fatto tutto questo e di più<br>in Alessandria. Ecco in che modo:<br>nella piazza del mercato, su una tribuna argentata,<br>[[Cleopatra]] e lui stesso, in seggi d’oro,<br>furono pubblicamente intronizzati. Ai loro piedi sedeva<br>Cesarione, che chiamano figlio di mio padre,<br>e tutta l’illegittima prole che la loro libidine<br>da allora ha generato fra loro. A lei<br>diede il possesso dell’[[Egypt|Egitto]]; la fece<br>[[Queen|regina]] assoluta della Siria inferiore, di Cipro e della Lidia. |
+| CESARE | Sprezzando Roma, ha fatto tutto questo e di più<br>in Alessandria. Ecco in che modo:<br>nella piazza del mercato, su una tribuna argentata,<br>[[Cleopatra]] e lui stesso, in seggi d’oro,<br>furono pubblicamente intronizzati. Ai loro piedi sedeva<br>Cesarione, che chiamano figlio di mio padre,<br>e tutta l’illegittima prole che la loro libidine<br>da allora ha generato fra loro. A lei<br>diede il possesso dell’[[Egypt\|Egitto]]; la fece<br>[[Queen\|regina]] assoluta della Siria inferiore, di Cipro e della Lidia. |
 | MECENATE | Questo sotto gli occhi di tutti? |
 | CESARE | Nel pubblico ginnasio, dove fanno gli esercizi.<br>I suoi figli là proclamò re dei re;<br>la grande Media, la Partia e l’Armenia<br>diede ad Alessandro. A Tolomeo assegnò<br>la Siria, la Cilicia e la Fenicia. Ella<br>negli abiti della dea Iside<br>quel giorno apparve, e spesso prima diede udienza,<br>a quanto si riferisce, così. |
 | MECENATE | Che Roma ne sia informata. |
 | AGRIPPA | E Roma, già nauseata della sua insolenza,<br>ritirerà da lui il suo buon animo. |
 | CESARE | Il popolo lo sa,<br>e ha ora ricevuto le sue accuse. |
 | AGRIPPA | Chi accusa egli? |
-| CESARE | Cesare, e dice che avendo in Sicilia<br>spogliato Sesto Pompeo, non gli abbiamo assegnato<br>la sua parte dell’isola. Poi dice che mi prestò<br>certe navi, non restituite. Infine, si adira<br>che [[Lepidus|Lepido]] sia stato deposto dal triumvirato;<br>e che, essendolo, noi tratteniamo<br>tutte le sue rendite. |
+| CESARE | Cesare, e dice che avendo in Sicilia<br>spogliato Sesto Pompeo, non gli abbiamo assegnato<br>la sua parte dell’isola. Poi dice che mi prestò<br>certe navi, non restituite. Infine, si adira<br>che [[Lepidus\|Lepido]] sia stato deposto dal triumvirato;<br>e che, essendolo, noi tratteniamo<br>tutte le sue rendite. |
 | AGRIPPA | Signore, a questo bisognerebbe rispondere. |
-| CESARE | È già fatto, e il messaggero è partito.<br>Gli ho detto che [[Lepidus|Lepido]] era divenuto troppo crudele,<br>che aveva abusato della sua alta autorità<br>e meritava la sua sorte mutata. Di ciò che io ho<br>conquistato,<br>gli concedo una parte; ma allora nella sua Armenia,<br>e negli altri regni da lui conquistati,<br>chiedo altrettanto. |
+| CESARE | È già fatto, e il messaggero è partito.<br>Gli ho detto che [[Lepidus\|Lepido]] era divenuto troppo crudele,<br>che aveva abusato della sua alta autorità<br>e meritava la sua sorte mutata. Di ciò che io ho<br>conquistato,<br>gli concedo una parte; ma allora nella sua Armenia,<br>e negli altri regni da lui conquistati,<br>chiedo altrettanto. |
 | MECENATE | Non cederà mai a questo. |
 | CESARE | Né allora si deve cedere a lui in quello. |
-| *(didascalia)* | Entra [[Octavia|Ottavia]] col suo seguito |
-| [[Octavia|OTTAVIA]] | Salve, Cesare, e mio signore; salve, carissimo Cesare! |
+| *(didascalia)* | Entra [[Octavia\|Ottavia]] col suo seguito |
+| [[Octavia\|OTTAVIA]] | Salve, Cesare, e mio signore; salve, carissimo Cesare! |
 | CESARE | Che io debba mai chiamarti ripudiata! |
-| [[Octavia|OTTAVIA]] | Non mi avete chiamata così, né ne avete motivo. |
-| CESARE | Perché siete giunta di soppiatto fra noi? Non venite<br>come sorella di Cesare. La moglie d’Antonio<br>dovrebbe avere un esercito per battistrada, e<br>i nitriti dei [[Horse|cavalli]] annunciare il suo arrivo<br>assai prima ch’ella apparisse. Gli alberi lungo la via<br>avrebbero dovuto portare uomini, e l’attesa venir meno,<br>[[Longing|bramando]] ciò che non aveva. Anzi, la [[Dust|polvere]]<br>sarebbe dovuta salire fino al tetto del cielo,<br>sollevata dalle vostre popolose truppe. Ma siete venuta<br>a Roma come una fanciulla del mercato, e avete impedito<br>l’ostentazione del nostro [[Love|amore]]; il quale, non mostrato,<br>è spesso creduto non esistere. Avremmo dovuto venirvi incontro<br>per mare e per terra, colmando ogni tappa<br>d’un saluto accresciuto. |
-| [[Octavia|OTTAVIA]] | Mio buon signore,<br>a venir così non fui costretta, ma lo feci<br>di mia libera volontà. Il mio signore, [[Mark Antony|Marco Antonio]],<br>udendo che vi preparavate alla guerra, ne informò<br>il mio orecchio afflitto, e allora io implorai<br>il suo permesso di tornare. |
+| [[Octavia\|OTTAVIA]] | Non mi avete chiamata così, né ne avete motivo. |
+| CESARE | Perché siete giunta di soppiatto fra noi? Non venite<br>come sorella di Cesare. La moglie d’Antonio<br>dovrebbe avere un esercito per battistrada, e<br>i nitriti dei [[Horse\|cavalli]] annunciare il suo arrivo<br>assai prima ch’ella apparisse. Gli alberi lungo la via<br>avrebbero dovuto portare uomini, e l’attesa venir meno,<br>[[Longing\|bramando]] ciò che non aveva. Anzi, la [[Dust\|polvere]]<br>sarebbe dovuta salire fino al tetto del cielo,<br>sollevata dalle vostre popolose truppe. Ma siete venuta<br>a Roma come una fanciulla del mercato, e avete impedito<br>l’ostentazione del nostro [[Love\|amore]]; il quale, non mostrato,<br>è spesso creduto non esistere. Avremmo dovuto venirvi incontro<br>per mare e per terra, colmando ogni tappa<br>d’un saluto accresciuto. |
+| [[Octavia\|OTTAVIA]] | Mio buon signore,<br>a venir così non fui costretta, ma lo feci<br>di mia libera volontà. Il mio signore, [[Mark Antony\|Marco Antonio]],<br>udendo che vi preparavate alla guerra, ne informò<br>il mio orecchio afflitto, e allora io implorai<br>il suo permesso di tornare. |
 | CESARE | Che egli presto concesse,<br>essendo voi un ostacolo fra lui e la sua libidine. |
-| [[Octavia|OTTAVIA]] | Non dite così, mio signore. |
-| CESARE | Ho occhi su di lui,<br>e le sue faccende mi giungono sul [[Wind|vento]].<br>Dov’è ora? |
-| [[Octavia|OTTAVIA]] | Mio signore, ad Atene. |
-| CESARE | No, mia sorella tanto offesa. [[Cleopatra]]<br>l’ha richiamato a sé con un cenno. Egli ha ceduto il suo impero<br>a una sgualdrina; e ora vanno arruolando<br>i re della terra per la guerra. Ha radunato<br>Bocco, [[King|Re]] di Libia; Archelao<br>di Cappadocia; Filadelfo, [[King|Re]]<br>di Paflagonia; il [[King|Re]] tracio Adalla;<br>[[King|Re]] Malco d’Arabia; il [[King|Re]] del Ponto;<br>Erode di Giudea; Mitridate, [[King|Re]]<br>di Commagene; Polemone e Aminta,<br>i Re di Media e di Licaonia;<br>e una lista ancor più larga di scettri. |
-| [[Octavia|OTTAVIA]] | Ahimè, me infelicissima,<br>che ho il cuore diviso fra due cari<br>che si affliggono l’un l’altro! |
-| CESARE | Benvenuta qui.<br>Le vostre lettere trattennero il nostro erompere<br>finché non ci accorgemmo insieme di come foste ingannata<br>e noi in negligente pericolo. Fatevi animo.<br>Non vi turbi il [[Time|tempo]], che sospinge<br>sopra la vostra pace queste dure necessità;<br>ma le cose già decise seguano al destino<br>la loro via, non compiante. Benvenuta a Roma;<br>nulla m’è più caro. Siete offesa<br>oltre il segno d’ogni pensiero, e gli alti dèi,<br>per farvi giustizia, fanno loro ministri<br>noi e quanti vi [[Love|amano]]. Il miglior conforto,<br>e sempre benvenuta fra noi. |
+| [[Octavia\|OTTAVIA]] | Non dite così, mio signore. |
+| CESARE | Ho occhi su di lui,<br>e le sue faccende mi giungono sul [[Wind\|vento]].<br>Dov’è ora? |
+| [[Octavia\|OTTAVIA]] | Mio signore, ad Atene. |
+| CESARE | No, mia sorella tanto offesa. [[Cleopatra]]<br>l’ha richiamato a sé con un cenno. Egli ha ceduto il suo impero<br>a una sgualdrina; e ora vanno arruolando<br>i re della terra per la guerra. Ha radunato<br>Bocco, [[King\|Re]] di Libia; Archelao<br>di Cappadocia; Filadelfo, [[King\|Re]]<br>di Paflagonia; il [[King\|Re]] tracio Adalla;<br>[[King\|Re]] Malco d’Arabia; il [[King\|Re]] del Ponto;<br>Erode di Giudea; Mitridate, [[King\|Re]]<br>di Commagene; Polemone e Aminta,<br>i Re di Media e di Licaonia;<br>e una lista ancor più larga di scettri. |
+| [[Octavia\|OTTAVIA]] | Ahimè, me infelicissima,<br>che ho il cuore diviso fra due cari<br>che si affliggono l’un l’altro! |
+| CESARE | Benvenuta qui.<br>Le vostre lettere trattennero il nostro erompere<br>finché non ci accorgemmo insieme di come foste ingannata<br>e noi in negligente pericolo. Fatevi animo.<br>Non vi turbi il [[Time\|tempo]], che sospinge<br>sopra la vostra pace queste dure necessità;<br>ma le cose già decise seguano al destino<br>la loro via, non compiante. Benvenuta a Roma;<br>nulla m’è più caro. Siete offesa<br>oltre il segno d’ogni pensiero, e gli alti dèi,<br>per farvi giustizia, fanno loro ministri<br>noi e quanti vi [[Love\|amano]]. Il miglior conforto,<br>e sempre benvenuta fra noi. |
 | AGRIPPA | Benvenuta, signora. |
-| MECENATE | Benvenuta, cara madama.<br>Ogni cuore in Roma vi [[Love|ama]] e vi compiange.<br>Solo l’adultero Antonio, sfrenatissimo<br>nelle sue abominazioni, vi ripudia,<br>e dà il suo potente comando a una baldracca<br>che schiamazza contro di noi. |
-| [[Octavia|OTTAVIA]] | È così, signore? |
+| MECENATE | Benvenuta, cara madama.<br>Ogni cuore in Roma vi [[Love\|ama]] e vi compiange.<br>Solo l’adultero Antonio, sfrenatissimo<br>nelle sue abominazioni, vi ripudia,<br>e dà il suo potente comando a una baldracca<br>che schiamazza contro di noi. |
+| [[Octavia\|OTTAVIA]] | È così, signore? |
 | CESARE | Certissimo. Sorella, benvenuta. Vi prego,<br>siate sempre nota per la pazienza. Mia carissima sorella! |
 | *(didascalia)* | Escono |
 
@@ -3496,53 +3496,53 @@ The [[Tragedy]] of Antony and [[Cleopatra]]
 
 | Chi parla | Battuta |
 |---|---|
-| *(didascalia)* | Entrano [[Cleopatra]] ed [[Enobarbus|Enobarbo]] |
-| [[Cleopatra|CLEOPATRA]] | Te la farò pagare, non ne [[Doubt|dubitare]]. |
-| [[Enobarbus|ENOBARBO]] | Ma perché, perché, perché? |
-| [[Cleopatra|CLEOPATRA]] | Hai parlato contro la mia presenza in queste guerre,<br>e dici che non conviene. |
-| [[Enobarbus|ENOBARBO]] | [[Well|Ebbene]], conviene, conviene? |
-| [[Cleopatra|CLEOPATRA]] | Non è la guerra dichiarata contro di noi? Perché non dovremmo<br>esserci di persona? |
-| *(didascalia)* | [[Enobarbus|ENOBARBO]] a parte [[Well|Ebbene]], potrei rispondere |
-| [[Cleopatra|CLEOPATRA]] | Se servissimo con [[Horse|cavalli]] e giumente insieme,<br>i [[Horse|cavalli]] sarebbero semplicemente perduti; le giumente porterebbero<br>un soldato e il suo [[Horse|cavallo]]. |
-| [[Cleopatra|CLEOPATRA]] | Che cosa dite? |
-| [[Enobarbus|ENOBARBO]] | La vostra presenza non può che sconcertare Antonio,<br>togliere al suo cuore, togliere al suo cervello, al suo [[Time|tempo]]<br>ciò che allora non si dovrebbe risparmiare. È già<br>diffamato per leggerezza; e si dice a Roma<br>che Fotino, un eunuco, e le vostre ancelle<br>conducono questa guerra. |
-| [[Cleopatra|CLEOPATRA]] | Sprofondi Roma, e marciscano le lingue<br>che parlano contro di noi! Sosteniamo una carica nella guerra,<br>e come sovrana del mio regno<br>vi apparirò da uomo. Non dire nulla contro.<br>Non resterò indietro. |
+| *(didascalia)* | Entrano [[Cleopatra]] ed [[Enobarbus\|Enobarbo]] |
+| [[Cleopatra\|CLEOPATRA]] | Te la farò pagare, non ne [[Doubt\|dubitare]]. |
+| [[Enobarbus\|ENOBARBO]] | Ma perché, perché, perché? |
+| [[Cleopatra\|CLEOPATRA]] | Hai parlato contro la mia presenza in queste guerre,<br>e dici che non conviene. |
+| [[Enobarbus\|ENOBARBO]] | [[Well\|Ebbene]], conviene, conviene? |
+| [[Cleopatra\|CLEOPATRA]] | Non è la guerra dichiarata contro di noi? Perché non dovremmo<br>esserci di persona? |
+| *(didascalia)* | [[Enobarbus\|ENOBARBO]] a parte [[Well\|Ebbene]], potrei rispondere |
+| [[Cleopatra\|CLEOPATRA]] | Se servissimo con [[Horse\|cavalli]] e giumente insieme,<br>i [[Horse\|cavalli]] sarebbero semplicemente perduti; le giumente porterebbero<br>un soldato e il suo [[Horse\|cavallo]]. |
+| [[Cleopatra\|CLEOPATRA]] | Che cosa dite? |
+| [[Enobarbus\|ENOBARBO]] | La vostra presenza non può che sconcertare Antonio,<br>togliere al suo cuore, togliere al suo cervello, al suo [[Time\|tempo]]<br>ciò che allora non si dovrebbe risparmiare. È già<br>diffamato per leggerezza; e si dice a Roma<br>che Fotino, un eunuco, e le vostre ancelle<br>conducono questa guerra. |
+| [[Cleopatra\|CLEOPATRA]] | Sprofondi Roma, e marciscano le lingue<br>che parlano contro di noi! Sosteniamo una carica nella guerra,<br>e come sovrana del mio regno<br>vi apparirò da uomo. Non dire nulla contro.<br>Non resterò indietro. |
 | *(didascalia)* | Entrano Antonio e Camidio |
-| [[Enobarbus|ENOBARBO]] | No, ho finito.<br>Ecco che viene l’Imperatore. |
+| [[Enobarbus\|ENOBARBO]] | No, ho finito.<br>Ecco che viene l’Imperatore. |
 | ANTONIO | Non è strano, Camidio,<br>che da Taranto e Brindisi<br>abbia potuto tagliare così presto il mare Ionio<br>e prendere Torine?—Ne avete udito, dolcezza? |
-| [[Cleopatra|CLEOPATRA]] | La celerità non è mai tanto ammirata<br>quanto dai negligenti. |
-| ANTONIO | Un buon rimprovero,<br>che avrebbe [[Well|ben]] convenuto al migliore degli uomini<br>per scherno alla lentezza. Camidio, noi<br>combatteremo con lui per mare. |
-| [[Cleopatra|CLEOPATRA]] | Per mare—e come altrimenti? |
+| [[Cleopatra\|CLEOPATRA]] | La celerità non è mai tanto ammirata<br>quanto dai negligenti. |
+| ANTONIO | Un buon rimprovero,<br>che avrebbe [[Well\|ben]] convenuto al migliore degli uomini<br>per scherno alla lentezza. Camidio, noi<br>combatteremo con lui per mare. |
+| [[Cleopatra\|CLEOPATRA]] | Per mare—e come altrimenti? |
 | CAMIDIO | Perché vorrà così il mio signore? |
 | ANTONIO | Perché a ciò ci sfida. |
-| [[Enobarbus|ENOBARBO]] | Così il mio signore ha sfidato lui a singolar tenzone. |
-| CAMIDIO | Sì, e a ingaggiare questa battaglia a Farsalo,<br>dove Cesare combatté con [[Pompey|Pompeo]]. Ma queste offerte,<br>che non servono al suo vantaggio, egli le scrolla via;<br>e così dovreste fare voi. |
-| [[Enobarbus|ENOBARBO]] | Le vostre navi non hanno [[Well|buoni]] equipaggi, i vostri marinai sono mulattieri, mietitori, gente 35<br>arruolata in fretta per leva. Nella flotta di Cesare<br>vi sono quelli che spesso hanno combattuto contro [[Pompey|Pompeo]].<br>Le loro navi sono agili, le vostre pesanti. Nessun disonore<br>vi cadrà addosso per aver rifiutato di affrontarlo per mare,<br>essendo pronti per terra. |
+| [[Enobarbus\|ENOBARBO]] | Così il mio signore ha sfidato lui a singolar tenzone. |
+| CAMIDIO | Sì, e a ingaggiare questa battaglia a Farsalo,<br>dove Cesare combatté con [[Pompey\|Pompeo]]. Ma queste offerte,<br>che non servono al suo vantaggio, egli le scrolla via;<br>e così dovreste fare voi. |
+| [[Enobarbus\|ENOBARBO]] | Le vostre navi non hanno [[Well\|buoni]] equipaggi, i vostri marinai sono mulattieri, mietitori, gente 35<br>arruolata in fretta per leva. Nella flotta di Cesare<br>vi sono quelli che spesso hanno combattuto contro [[Pompey\|Pompeo]].<br>Le loro navi sono agili, le vostre pesanti. Nessun disonore<br>vi cadrà addosso per aver rifiutato di affrontarlo per mare,<br>essendo pronti per terra. |
 | ANTONIO | Per mare, per mare. |
-| [[Enobarbus|ENOBARBO]] | Degnissimo signore, così gettate via<br>l’assoluta perizia di soldato che avete per terra;<br>disgregate il vostro esercito, che consta per lo più<br>di fanti segnati dalla guerra; lasciate ineseguita<br>la vostra rinomata scienza; abbandonate del tutto<br>la via che promette sicurezza, e<br>vi consegnate al puro caso e all’azzardo<br>da salda sicurezza. |
+| [[Enobarbus\|ENOBARBO]] | Degnissimo signore, così gettate via<br>l’assoluta perizia di soldato che avete per terra;<br>disgregate il vostro esercito, che consta per lo più<br>di fanti segnati dalla guerra; lasciate ineseguita<br>la vostra rinomata scienza; abbandonate del tutto<br>la via che promette sicurezza, e<br>vi consegnate al puro caso e all’azzardo<br>da salda sicurezza. |
 | ANTONIO | Combatterò per mare. |
-| [[Cleopatra|CLEOPATRA]] | Ho sessanta vele, Cesare non ne ha di migliori. |
+| [[Cleopatra\|CLEOPATRA]] | Ho sessanta vele, Cesare non ne ha di migliori. |
 | ANTONIO | Bruceremo il soprappiù del naviglio,<br>e col resto pienamente armato, dal capo di<br>Azio<br>batteremo Cesare che s’avvicina. Ma se falliamo,<br>potremo poi farlo per terra. |
 | *(didascalia)* | Entra un Messaggero |
 | ANTONIO | Che affare porti? |
 | MESSAGGERO | La notizia è vera, mio signore. È stato avvistato. Cesare ha preso Torine. |
-| ANTONIO | Può esserci di persona? È impossibile;<br>strano che vi sia il suo esercito. Camidio,<br>terrai per terra le nostre diciannove legioni<br>e i nostri dodicimila [[Horse|cavalli]]. Noi alla nostra [[Ship|nave]].<br>Via, mia Teti! |
+| ANTONIO | Può esserci di persona? È impossibile;<br>strano che vi sia il suo esercito. Camidio,<br>terrai per terra le nostre diciannove legioni<br>e i nostri dodicimila [[Horse\|cavalli]]. Noi alla nostra [[Ship\|nave]].<br>Via, mia Teti! |
 | *(didascalia)* | Entra un Soldato |
 | ANTONIO | Ebbene, degno soldato? |
-| SOLDATO | O nobile Imperatore, non combattete per mare.<br>Non vi fidate di tavole marce. Diffidate forse<br>di questa [[Sword|spada]] e di queste mie ferite? Lasciate che gli Egizi<br>e i Fenici vadano a sguazzare; noi<br>siamo usi a vincere stando sulla terra,<br>e combattendo piede contro piede. |
-| ANTONIO | [[Well|Bene]], [[Well|bene]]; via! |
-| *(didascalia)* | Escono Antonio, [[Cleopatra]] ed [[Enobarbus|Enobarbo]] |
+| SOLDATO | O nobile Imperatore, non combattete per mare.<br>Non vi fidate di tavole marce. Diffidate forse<br>di questa [[Sword\|spada]] e di queste mie ferite? Lasciate che gli Egizi<br>e i Fenici vadano a sguazzare; noi<br>siamo usi a vincere stando sulla terra,<br>e combattendo piede contro piede. |
+| ANTONIO | [[Well\|Bene]], [[Well\|bene]]; via! |
+| *(didascalia)* | Escono Antonio, [[Cleopatra]] ed [[Enobarbus\|Enobarbo]] |
 | SOLDATO | Per Ercole, credo di avere ragione. |
 | CAMIDIO | Soldato, l’hai; ma tutta la sua azione non nasce<br>dalla forza che ne dispone. Così il nostro capo è condotto,<br>e noi siamo uomini di donne. |
-| SOLDATO | Voi tenete per terra<br>le legioni e i [[Horse|cavalli]] intatti, non è vero? |
-| CAMIDIO | Marco Ottavio, Marco Giusteio,<br>Publicola e Celio sono per il mare,<br>ma noi restiamo interi per terra. Questa [[Speed|rapidità]] di Cesare<br>va oltre ogni credere. |
+| SOLDATO | Voi tenete per terra<br>le legioni e i [[Horse\|cavalli]] intatti, non è vero? |
+| CAMIDIO | Marco Ottavio, Marco Giusteio,<br>Publicola e Celio sono per il mare,<br>ma noi restiamo interi per terra. Questa [[Speed\|rapidità]] di Cesare<br>va oltre ogni credere. |
 | SOLDATO | Mentre era ancora a Roma<br>le sue forze uscirono in tali dispersioni<br>da ingannare tutte le spie. |
 | CAMIDIO | Chi è il suo luogotenente, si sa? |
 | SOLDATO | Dicono, un certo Tauro. |
-| CAMIDIO | [[Well|Bene]] conosco l’uomo. |
+| CAMIDIO | [[Well\|Bene]] conosco l’uomo. |
 | *(didascalia)* | Entra un Messaggero |
 | MESSAGGERO | L’Imperatore chiama Camidio. |
-| CAMIDIO | Di notizie il [[Time|tempo]] è in doglie, e ne getta fuori<br>ogni minuto qualcuna. |
+| CAMIDIO | Di notizie il [[Time\|tempo]] è in doglie, e ne getta fuori<br>ogni minuto qualcuna. |
 | *(didascalia)* | Escono |
 
 
@@ -3583,8 +3583,8 @@ The [[Tragedy]] of Antony and [[Cleopatra]]
 
 | Chi parla | Battuta |
 |---|---|
-| *(didascalia)* | Entrano Antonio ed [[Enobarbus|Enobarbo]] |
-| ANTONIO | Disponiamo le nostre squadre su quel lato della [[Hill|collina]]<br>in vista dello schieramento di Cesare, donde<br>potremo osservare il numero delle navi,<br>e procedere di conseguenza. |
+| *(didascalia)* | Entrano Antonio ed [[Enobarbus\|Enobarbo]] |
+| ANTONIO | Disponiamo le nostre squadre su quel lato della [[Hill\|collina]]<br>in vista dello schieramento di Cesare, donde<br>potremo osservare il numero delle navi,<br>e procedere di conseguenza. |
 | *(didascalia)* | Escono |
 
 
@@ -3623,20 +3623,20 @@ The [[Tragedy]] of Antony and [[Cleopatra]]
 | NOBARBO | Nulla, nulla, tutto nulla! Non posso più guardare.<br>L’Antoniade, l’ammiraglia egiziana,<br>con tutte le loro sessanta, fugge e volge il timone.<br>A vederlo i miei occhi sono folgorati. |
 | *(didascalia)* | Entra Scaro |
 | SCARO | Dèi e dee—<br>tutto il loro intero sinodo! |
-| [[Enobarbus|ENOBARBO]] | Qual è la tua passione? |
+| [[Enobarbus\|ENOBARBO]] | Qual è la tua passione? |
 | SCARO | La maggior fetta del mondo è perduta<br>per pura ignoranza; abbiamo baciato via<br>regni e province. |
-| [[Enobarbus|ENOBARBO]] | Come appare la battaglia? |
-| SCARO | Dalla nostra parte come la pestilenza segnata,<br>dove la [[Death|morte]] è certa. Quella cavalla d’[[Egypt|Egitto]] dai nastri rossi—<br>che la lebbra la colga!—nel mezzo della battaglia—<br>quando il vantaggio appariva come un paio di gemelli,<br>entrambi uguali, anzi il nostro il maggiore—<br>col tafano addosso, come una vacca a giugno,<br>issa le vele e fugge. |
-| [[Enobarbus|ENOBARBO]] | Questo l’ho visto.<br>I miei occhi si fecero malati a quella vista, e non poterono<br>sopportare oltre lo sguardo. |
-| SCARO | Ed essa appena orzata,<br>la nobile rovina della sua [[Magic|magia]], Antonio,<br>batte la sua ala marina e, come un germano invaghito,<br>lasciando la battaglia al colmo, le vola dietro.<br>Non vidi mai azione di simile vergogna.<br>Esperienza, virilità, [[Honour|onore]], mai prima<br>violarono così se stessi. |
-| [[Enobarbus|ENOBARBO]] | Ahimè, ahimè! |
+| [[Enobarbus\|ENOBARBO]] | Come appare la battaglia? |
+| SCARO | Dalla nostra parte come la pestilenza segnata,<br>dove la [[Death\|morte]] è certa. Quella cavalla d’[[Egypt\|Egitto]] dai nastri rossi—<br>che la lebbra la colga!—nel mezzo della battaglia—<br>quando il vantaggio appariva come un paio di gemelli,<br>entrambi uguali, anzi il nostro il maggiore—<br>col tafano addosso, come una vacca a giugno,<br>issa le vele e fugge. |
+| [[Enobarbus\|ENOBARBO]] | Questo l’ho visto.<br>I miei occhi si fecero malati a quella vista, e non poterono<br>sopportare oltre lo sguardo. |
+| SCARO | Ed essa appena orzata,<br>la nobile rovina della sua [[Magic\|magia]], Antonio,<br>batte la sua ala marina e, come un germano invaghito,<br>lasciando la battaglia al colmo, le vola dietro.<br>Non vidi mai azione di simile vergogna.<br>Esperienza, virilità, [[Honour\|onore]], mai prima<br>violarono così se stessi. |
+| [[Enobarbus\|ENOBARBO]] | Ahimè, ahimè! |
 | *(didascalia)* | Entra Camidio |
-| CAMIDIO | La nostra fortuna sul mare è senza fiato,<br>e affonda miseramente. Se il nostro generale<br>fosse stato quello che sapeva d’essere, sarebbe andata [[Well|bene]].<br>Oh, ci ha dato esempio di fuga<br>grossolanamente col suo. |
-| [[Enobarbus|ENOBARBO]] | Ah, siamo a questo punto? Allora, buona [[Night|notte]] davvero! |
+| CAMIDIO | La nostra fortuna sul mare è senza fiato,<br>e affonda miseramente. Se il nostro generale<br>fosse stato quello che sapeva d’essere, sarebbe andata [[Well\|bene]].<br>Oh, ci ha dato esempio di fuga<br>grossolanamente col suo. |
+| [[Enobarbus\|ENOBARBO]] | Ah, siamo a questo punto? Allora, buona [[Night\|notte]] davvero! |
 | CAMIDIO | Verso il Peloponneso sono fuggiti. |
 | SCARO | È facile arrivarci, e là attenderò<br>ciò che ancora verrà. |
-| CAMIDIO | A Cesare renderò<br>le mie legioni e i miei [[Horse|cavalli]]. Sei re già<br>mi mostrano la via della resa. |
-| [[Enobarbus|ENOBARBO]] | Io seguirò ancora<br>la ferita sorte d’Antonio, benché la mia ragione<br>stia nel [[Wind|vento]] contro di me. |
+| CAMIDIO | A Cesare renderò<br>le mie legioni e i miei [[Horse\|cavalli]]. Sei re già<br>mi mostrano la via della resa. |
+| [[Enobarbus\|ENOBARBO]] | Io seguirò ancora<br>la ferita sorte d’Antonio, benché la mia ragione<br>stia nel [[Wind\|vento]] contro di me. |
 | *(didascalia)* | Escono separatamente |
 
 
@@ -3689,38 +3689,38 @@ The [[Tragedy]] of Antony and [[Cleopatra]]
 | Chi parla | Battuta |
 |---|---|
 | *(didascalia)* | Entra Antonio con Servitori |
-| ANTONIO | Udite, la terra mi comanda di non calpestarla più,<br>si vergogna di portarmi. Amici, venite qua.<br>Sono così attardato nel mondo che ho<br>perduto la via per sempre. Ho una [[Ship|nave]]<br>carica d’oro. Prendetela; dividetela, fuggite,<br>e fate la vostra pace con Cesare. |
+| ANTONIO | Udite, la terra mi comanda di non calpestarla più,<br>si vergogna di portarmi. Amici, venite qua.<br>Sono così attardato nel mondo che ho<br>perduto la via per sempre. Ho una [[Ship\|nave]]<br>carica d’oro. Prendetela; dividetela, fuggite,<br>e fate la vostra pace con Cesare. |
 | SERVITORI | Fuggire? Non noi. |
-| ANTONIO | Io stesso sono fuggito, e ho insegnato ai codardi<br>a correre e mostrare le spalle. Amici, andate.<br>Ho deciso da me una via<br>che non ha bisogno di voi. Andate.<br>Il mio tesoro è nel porto. Prendetelo. Oh,<br>ho seguito ciò che arrossisco a guardare.<br>I miei stessi capelli si ammutinano, ché i bianchi<br>rimproverano ai bruni l’avventatezza, e questi a quelli<br>[[Fear|paura]] e rimbambimento. Amici, andate. Avrete<br>lettere da me per certi amici che vi<br>spianeranno la strada. Vi prego, non siate tristi,<br>né rispondete con riluttanza. Cogliete il cenno<br>che la mia [[Despair|disperazione]] proclama. Sia lasciato<br>ciò che [[Leaves|lascia]] se stesso. Alla riva, subito!<br>Vi metterò in possesso di quella [[Ship|nave]] e del tesoro.<br>Lasciatemi, vi prego, un poco. Vi prego, ora,<br>sì, fatelo; ché in verità ho perduto il comando.<br>Perciò vi prego; vi vedrò fra poco. |
+| ANTONIO | Io stesso sono fuggito, e ho insegnato ai codardi<br>a correre e mostrare le spalle. Amici, andate.<br>Ho deciso da me una via<br>che non ha bisogno di voi. Andate.<br>Il mio tesoro è nel porto. Prendetelo. Oh,<br>ho seguito ciò che arrossisco a guardare.<br>I miei stessi capelli si ammutinano, ché i bianchi<br>rimproverano ai bruni l’avventatezza, e questi a quelli<br>[[Fear\|paura]] e rimbambimento. Amici, andate. Avrete<br>lettere da me per certi amici che vi<br>spianeranno la strada. Vi prego, non siate tristi,<br>né rispondete con riluttanza. Cogliete il cenno<br>che la mia [[Despair\|disperazione]] proclama. Sia lasciato<br>ciò che [[Leaves\|lascia]] se stesso. Alla riva, subito!<br>Vi metterò in possesso di quella [[Ship\|nave]] e del tesoro.<br>Lasciatemi, vi prego, un poco. Vi prego, ora,<br>sì, fatelo; ché in verità ho perduto il comando.<br>Perciò vi prego; vi vedrò fra poco. |
 | *(didascalia)* | Escono i servitori |
 | ANTONIO | Si siede. |
-| *(didascalia)* | Entra [[Cleopatra]] condotta da [[Charmian|Carmiana]], Iras ed Eros |
+| *(didascalia)* | Entra [[Cleopatra]] condotta da [[Charmian\|Carmiana]], Iras ed Eros |
 | EROS | Su, gentile madama, andate da lui. Confortatelo. |
-| IRAS | Fatelo, carissima [[Queen|Regina]]. |
-| [[Charmian|CARMIANA]] | Fatelo. Che altro, se no? |
-| [[Cleopatra|CLEOPATRA]] | Lasciatemi sedere. O Giunone!<br>Si siede |
+| IRAS | Fatelo, carissima [[Queen\|Regina]]. |
+| [[Charmian\|CARMIANA]] | Fatelo. Che altro, se no? |
+| [[Cleopatra\|CLEOPATRA]] | Lasciatemi sedere. O Giunone!<br>Si siede |
 | ANTONIO | No, no, no, no, no. |
 | EROS | (ad Antonio) Vedete qui, signore? |
 | ANTONIO | Oh vergogna, vergogna, vergogna! |
-| [[Charmian|CARMIANA]] | Madama. |
+| [[Charmian\|CARMIANA]] | Madama. |
 | IRAS | Madama. O buona Imperatrice! |
 | EROS | Signore, signore. |
-| ANTONIO | Sì, mio signore, sì. A Filippi egli tenne<br>la sua [[Sword|spada]] proprio come un danzatore, mentre io colpivo<br>il magro e rugoso [[Cassius|Cassio]]; e fui io<br>che posi fine al folle [[Brutus|Bruto]]. Egli [[Alone|soltanto]]<br>agiva per luogotenenti, e nessuna pratica aveva<br>nei bravi quadrati della guerra. Eppure ora—non importa. |
-| *(didascalia)* | [[Cleopatra|CLEOPATRA]] (alzandosi, a [[Charmian|Carmiana]] e Iras) Ah, state accanto. |
-| EROS | La [[Queen|Regina]], mio signore, la [[Queen|Regina]]. |
+| ANTONIO | Sì, mio signore, sì. A Filippi egli tenne<br>la sua [[Sword\|spada]] proprio come un danzatore, mentre io colpivo<br>il magro e rugoso [[Cassius\|Cassio]]; e fui io<br>che posi fine al folle [[Brutus\|Bruto]]. Egli [[Alone\|soltanto]]<br>agiva per luogotenenti, e nessuna pratica aveva<br>nei bravi quadrati della guerra. Eppure ora—non importa. |
+| *(didascalia)* | [[Cleopatra\|CLEOPATRA]] (alzandosi, a [[Charmian\|Carmiana]] e Iras) Ah, state accanto. |
+| EROS | La [[Queen\|Regina]], mio signore, la [[Queen\|Regina]]. |
 | IRAS | Andate da lui, madama.<br>Parlategli. È fuori di sé<br>per la pura vergogna. |
-| [[Cleopatra|CLEOPATRA]] | [[Well|Ebbene]], allora sostenetemi. Oh! |
-| EROS | Nobilissimo signore, alzatevi. La [[Queen|Regina]] si avvicina.<br>Ha il capo chino, e la [[Death|morte]] la coglierà se non<br>il vostro conforto la salva. |
+| [[Cleopatra\|CLEOPATRA]] | [[Well\|Ebbene]], allora sostenetemi. Oh! |
+| EROS | Nobilissimo signore, alzatevi. La [[Queen\|Regina]] si avvicina.<br>Ha il capo chino, e la [[Death\|morte]] la coglierà se non<br>il vostro conforto la salva. |
 | ANTONIO | Ho offeso la reputazione;<br>una deviazione ignobilissima. |
-| EROS | Signore, la [[Queen|Regina]]. |
+| EROS | Signore, la [[Queen\|Regina]]. |
 | *(didascalia)* | ANTONIO alzandosi |
-| EROS | Oh, dove m’hai condotto, [[Egypt|Egitto]]? Vedi<br>come sottraggo la mia vergogna ai tuoi occhi<br>guardando indietro a ciò che ho lasciato<br>distrutto nel disonore. |
-| [[Cleopatra|CLEOPATRA]] | Oh, mio signore, mio signore, perdonate le mie vele paurose! Poco pensavo<br>che mi avreste seguita. |
-| ANTONIO | [[Egypt|Egitto]], sapevi troppo [[Well|bene]]<br>che il mio cuore era legato al tuo timone per le corde,<br>e che tu m’avresti rimorchiato dietro. Sul mio spirito<br>conoscevi la tua piena supremazia, e che<br>il tuo cenno poteva, contro il comando degli dèi,<br>comandarmi. |
-| [[Cleopatra|CLEOPATRA]] | Oh, il mio perdono! |
-| ANTONIO | Ora devo<br>mandare al giovane umili trattative, schivare<br>e barcamenarmi negli espedienti della bassezza, io<br>che con metà della mole del mondo giocai a mio piacere,<br>facendo e disfacendo fortune. Ben sapevate<br>quanto foste mia conquistatrice, e che<br>la mia [[Sword|spada]], resa debole dal mio affetto, avrebbe<br>obbedito a esso in ogni causa. |
-| [[Cleopatra|CLEOPATRA]] | Perdono, perdono! |
-| ANTONIO | Non versare una lacrima, dico. Una sola di esse vale<br>tutto ciò che è vinto e perduto. Dammi un bacio.<br>La bacia<br>Anche solo questo mi ripaga. (A un Servitore) Mandammo il nostro<br>maestro;<br>è tornato? (A [[Cleopatra]]) [[Love|Amore]], sono pieno di piombo.<br>(Chiamando) Del vino |
+| EROS | Oh, dove m’hai condotto, [[Egypt\|Egitto]]? Vedi<br>come sottraggo la mia vergogna ai tuoi occhi<br>guardando indietro a ciò che ho lasciato<br>distrutto nel disonore. |
+| [[Cleopatra\|CLEOPATRA]] | Oh, mio signore, mio signore, perdonate le mie vele paurose! Poco pensavo<br>che mi avreste seguita. |
+| ANTONIO | [[Egypt\|Egitto]], sapevi troppo [[Well\|bene]]<br>che il mio cuore era legato al tuo timone per le corde,<br>e che tu m’avresti rimorchiato dietro. Sul mio spirito<br>conoscevi la tua piena supremazia, e che<br>il tuo cenno poteva, contro il comando degli dèi,<br>comandarmi. |
+| [[Cleopatra\|CLEOPATRA]] | Oh, il mio perdono! |
+| ANTONIO | Ora devo<br>mandare al giovane umili trattative, schivare<br>e barcamenarmi negli espedienti della bassezza, io<br>che con metà della mole del mondo giocai a mio piacere,<br>facendo e disfacendo fortune. Ben sapevate<br>quanto foste mia conquistatrice, e che<br>la mia [[Sword\|spada]], resa debole dal mio affetto, avrebbe<br>obbedito a esso in ogni causa. |
+| [[Cleopatra\|CLEOPATRA]] | Perdono, perdono! |
+| ANTONIO | Non versare una lacrima, dico. Una sola di esse vale<br>tutto ciò che è vinto e perduto. Dammi un bacio.<br>La bacia<br>Anche solo questo mi ripaga. (A un Servitore) Mandammo il nostro<br>maestro;<br>è tornato? (A [[Cleopatra]]) [[Love\|Amore]], sono pieno di piombo.<br>(Chiamando) Del vino |
 | *(didascalia)* | Là dentro, e le nostre vivande! La Fortuna sa |
 | ANTONIO | che la sprezziamo di più quando più ci offre colpi. |
 | *(didascalia)* | Escono |
@@ -3762,12 +3762,12 @@ The [[Tragedy]] of Antony and [[Cleopatra]]
 | CESARE | Avvicinati e parla. |
 | AMBASCIATORE | Tale quale sono, vengo da Antonio.<br>Ero fino a poco fa tanto piccolo per i suoi fini<br>quanto la rugiada mattutina sulla foglia di mirto<br>al suo gran mare. |
 | CESARE | Sia pure. Dichiara il tuo incarico. |
-| AMBASCIATORE | Signore delle sue fortune ti saluta, e<br>chiede di vivere in [[Egypt|Egitto]]; e ciò non concesso,<br>riduce le sue richieste, e ti supplica<br>di lasciarlo respirare fra il cielo e la terra,<br>uomo privato in Atene. Questo per lui.<br>Poi, [[Cleopatra]] confessa la tua [[Greatness|grandezza]],<br>si sottomette alla tua potenza, e da te implora<br>il diadema dei Tolomei per i suoi eredi,<br>ora rimesso alla tua grazia. |
-| CESARE | Quanto ad Antonio, non ho orecchi per la sua richiesta. Alla [[Queen|Regina]]<br>non mancheranno udienza né [[Desire|desiderio]] esaudito, purché ella<br>cacci dall’[[Egypt|Egitto]] il suo amico tutto disonorato,<br>o là gli tolga la vita. Se questo compie,<br>non supplicherà inascoltata. Così a entrambi. |
+| AMBASCIATORE | Signore delle sue fortune ti saluta, e<br>chiede di vivere in [[Egypt\|Egitto]]; e ciò non concesso,<br>riduce le sue richieste, e ti supplica<br>di lasciarlo respirare fra il cielo e la terra,<br>uomo privato in Atene. Questo per lui.<br>Poi, [[Cleopatra]] confessa la tua [[Greatness\|grandezza]],<br>si sottomette alla tua potenza, e da te implora<br>il diadema dei Tolomei per i suoi eredi,<br>ora rimesso alla tua grazia. |
+| CESARE | Quanto ad Antonio, non ho orecchi per la sua richiesta. Alla [[Queen\|Regina]]<br>non mancheranno udienza né [[Desire\|desiderio]] esaudito, purché ella<br>cacci dall’[[Egypt\|Egitto]] il suo amico tutto disonorato,<br>o là gli tolga la vita. Se questo compie,<br>non supplicherà inascoltata. Così a entrambi. |
 | AMBASCIATORE | La fortuna ti segua! |
 | CESARE | Portatelo attraverso le schiere. |
 | *(didascalia)* | Esce l’Ambasciatore, accompagnato |
-| CESARE | (A Tidia) Per provare la tua eloquenza ora è [[Time|tempo]].<br>Spicciati.<br>Ad Antonio strappa [[Cleopatra]]. Promettile,<br>e in nome nostro, quanto chiede. Aggiungi altro<br>quanto la tua inventiva suggerisce. Le donne non sono<br>forti nelle loro migliori fortune, ma la privazione farà spergiurare<br>la vestale mai toccata. Prova la tua astuzia, Tidia.<br>Fissa tu stesso l’editto per le tue pene, che noi<br>rispetteremo come legge. |
+| CESARE | (A Tidia) Per provare la tua eloquenza ora è [[Time\|tempo]].<br>Spicciati.<br>Ad Antonio strappa [[Cleopatra]]. Promettile,<br>e in nome nostro, quanto chiede. Aggiungi altro<br>quanto la tua inventiva suggerisce. Le donne non sono<br>forti nelle loro migliori fortune, ma la privazione farà spergiurare<br>la vestale mai toccata. Prova la tua astuzia, Tidia.<br>Fissa tu stesso l’editto per le tue pene, che noi<br>rispetteremo come legge. |
 | TIDIA | Cesare, vado. |
 | CESARE | Osserva come Antonio porta la sua caduta,<br>e ciò che, secondo te, il suo stesso agire dichiara<br>in ogni potenza che si muove. |
 | TIDIA | Cesare, lo farò. |
@@ -3871,90 +3871,90 @@ The [[Tragedy]] of Antony and [[Cleopatra]]
 
 | Chi parla | Battuta |
 |---|---|
-| *(didascalia)* | Entrano [[Cleopatra]], [[Enobarbus|Enobarbo]], [[Charmian|Carmiana]] e Iras |
-| [[Cleopatra|CLEOPATRA]] | Che faremo, [[Enobarbus|Enobarbo]]? |
-| [[Enobarbus|ENOBARBO]] | Pensare, e morire. |
-| [[Cleopatra|CLEOPATRA]] | È colpa d’Antonio o nostra? |
-| [[Enobarbus|ENOBARBO]] | D’Antonio soltanto, che volle fare della sua voglia<br>signora della sua ragione. Che importa se voi fuggiste<br>da quel gran volto della guerra, le cui opposte schiere<br>si spaventavano l’una l’altra? Perché doveva seguirvi?<br>Il prurito del suo affetto non doveva allora<br>intaccare il suo comando, in un punto simile,<br>quando metà del mondo s’opponeva a metà, essendo lui<br>la questione in gioco. Fu vergogna non minore<br>della sua perdita inseguire le vostre bandiere in fuga<br>e lasciare la sua flotta a bocca aperta. |
-| [[Cleopatra|CLEOPATRA]] | Ti prego, taci. |
+| *(didascalia)* | Entrano [[Cleopatra]], [[Enobarbus\|Enobarbo]], [[Charmian\|Carmiana]] e Iras |
+| [[Cleopatra\|CLEOPATRA]] | Che faremo, [[Enobarbus\|Enobarbo]]? |
+| [[Enobarbus\|ENOBARBO]] | Pensare, e morire. |
+| [[Cleopatra\|CLEOPATRA]] | È colpa d’Antonio o nostra? |
+| [[Enobarbus\|ENOBARBO]] | D’Antonio soltanto, che volle fare della sua voglia<br>signora della sua ragione. Che importa se voi fuggiste<br>da quel gran volto della guerra, le cui opposte schiere<br>si spaventavano l’una l’altra? Perché doveva seguirvi?<br>Il prurito del suo affetto non doveva allora<br>intaccare il suo comando, in un punto simile,<br>quando metà del mondo s’opponeva a metà, essendo lui<br>la questione in gioco. Fu vergogna non minore<br>della sua perdita inseguire le vostre bandiere in fuga<br>e lasciare la sua flotta a bocca aperta. |
+| [[Cleopatra\|CLEOPATRA]] | Ti prego, taci. |
 | *(didascalia)* | Entra l’Ambasciatore con Antonio |
 | ANTONIO | È questa la sua risposta? |
 | AMBASCIATORE | Sì, mio signore. |
-| ANTONIO | La [[Queen|Regina]] avrà dunque cortesia, purché<br>ci consegni. |
+| ANTONIO | La [[Queen\|Regina]] avrà dunque cortesia, purché<br>ci consegni. |
 | AMBASCIATORE | Così dice. |
 | ANTONIO | Faglielo sapere.<br>(A [[Cleopatra]]) Al ragazzo Cesare manda questa testa brizzolata,<br>ed egli colmerà i tuoi desideri fino all’orlo<br>di principati. |
-| [[Cleopatra|CLEOPATRA]] | Quella testa, mio signore? |
-| ANTONIO | (all’Ambasciatore)<br>Torna da lui. Digli che porta la [[Rose|rosa]]<br>della giovinezza addosso, dalla quale il mondo dovrebbe attendersi<br>qualcosa di singolare. Le sue monete, navi, legioni<br>possono essere d’un codardo, i cui ministri prevarrebbero<br>al servizio d’un [[Child|fanciullo]] altrettanto bene<br>che al comando di Cesare. Lo sfido dunque<br>a deporre le sue gaie gualdrappe<br>e a rispondermi, io decaduto, [[Sword|spada]] contro [[Sword|spada]],<br>noi due [[Alone|soli]]. Lo scriverò. Seguimi. |
+| [[Cleopatra\|CLEOPATRA]] | Quella testa, mio signore? |
+| ANTONIO | (all’Ambasciatore)<br>Torna da lui. Digli che porta la [[Rose\|rosa]]<br>della giovinezza addosso, dalla quale il mondo dovrebbe attendersi<br>qualcosa di singolare. Le sue monete, navi, legioni<br>possono essere d’un codardo, i cui ministri prevarrebbero<br>al servizio d’un [[Child\|fanciullo]] altrettanto bene<br>che al comando di Cesare. Lo sfido dunque<br>a deporre le sue gaie gualdrappe<br>e a rispondermi, io decaduto, [[Sword\|spada]] contro [[Sword\|spada]],<br>noi due [[Alone\|soli]]. Lo scriverò. Seguimi. |
 | *(didascalia)* | Escono Antonio e l’Ambasciatore |
-| [[Enobarbus|ENOBARBO]] | (a parte)<br>Sì, molto probabile, Cesare dai grandi eserciti vorrà<br>spogliare la sua felicità ed esporsi in spettacolo<br>contro uno spadaccino! Vedo che i giudizi degli uomini<br>sono una porzione delle loro fortune, e che le cose esteriori<br>trascinano dietro di sé la qualità interiore<br>a patire allo stesso modo. Che egli possa sognare,<br>conoscendo tutte le misure, che il pieno Cesare<br>risponderà al suo vuoto! Cesare, hai soggiogato<br>anche il suo giudizio. |
+| [[Enobarbus\|ENOBARBO]] | (a parte)<br>Sì, molto probabile, Cesare dai grandi eserciti vorrà<br>spogliare la sua felicità ed esporsi in spettacolo<br>contro uno spadaccino! Vedo che i giudizi degli uomini<br>sono una porzione delle loro fortune, e che le cose esteriori<br>trascinano dietro di sé la qualità interiore<br>a patire allo stesso modo. Che egli possa sognare,<br>conoscendo tutte le misure, che il pieno Cesare<br>risponderà al suo vuoto! Cesare, hai soggiogato<br>anche il suo giudizio. |
 | *(didascalia)* | Entra un Servo |
 | SERVO | Un messaggero da parte di Cesare. |
-| [[Cleopatra|CLEOPATRA]] | Come, non più cerimonia? Vedete, mie donne:<br>davanti alla [[Rose|rosa]] sfiorita si tappano il naso<br>quelli che s’inginocchiavano ai boccioli. Fatelo entrare, signore. |
+| [[Cleopatra\|CLEOPATRA]] | Come, non più cerimonia? Vedete, mie donne:<br>davanti alla [[Rose\|rosa]] sfiorita si tappano il naso<br>quelli che s’inginocchiavano ai boccioli. Fatelo entrare, signore. |
 | *(didascalia)* | Esce il Servo |
-| [[Enobarbus|ENOBARBO]] | (a parte)<br>La mia onestà e io cominciamo a litigare.<br>La lealtà [[Well|ben]] tenuta agli sciocchi rende<br>la nostra [[Faith|fede]] pura follia; eppure chi sa sopportare<br>di seguire con fedeltà un signore caduto<br>vince colui che vinse il suo padrone,<br>e si guadagna un posto nella storia. |
+| [[Enobarbus\|ENOBARBO]] | (a parte)<br>La mia onestà e io cominciamo a litigare.<br>La lealtà [[Well\|ben]] tenuta agli sciocchi rende<br>la nostra [[Faith\|fede]] pura follia; eppure chi sa sopportare<br>di seguire con fedeltà un signore caduto<br>vince colui che vinse il suo padrone,<br>e si guadagna un posto nella storia. |
 | *(didascalia)* | Entra Tidia |
-| [[Cleopatra|CLEOPATRA]] | La volontà di Cesare? |
+| [[Cleopatra\|CLEOPATRA]] | La volontà di Cesare? |
 | TIDIA | Uditela in disparte. |
-| [[Cleopatra|CLEOPATRA]] | Qui non ci sono che amici; parla francamente. |
+| [[Cleopatra\|CLEOPATRA]] | Qui non ci sono che amici; parla francamente. |
 | TIDIA | Forse sono anche amici d’Antonio. |
-| [[Enobarbus|ENOBARBO]] | Gliene occorrono tanti, signore, quanti ne ha Cesare,<br>o non ha bisogno di noi. Se a Cesare piace, il nostro padrone<br>salterà a essergli amico. Quanto a noi, sapete,<br>siamo di chi è lui: e cioè di Cesare. |
+| [[Enobarbus\|ENOBARBO]] | Gliene occorrono tanti, signore, quanti ne ha Cesare,<br>o non ha bisogno di noi. Se a Cesare piace, il nostro padrone<br>salterà a essergli amico. Quanto a noi, sapete,<br>siamo di chi è lui: e cioè di Cesare. |
 | TIDIA | Bene. (A [[Cleopatra]]) Così dunque, o rinomatissima:<br>Cesare ti prega<br>di non considerare in quale stato ti trovi<br>oltre il fatto ch’egli è Cesare. |
-| [[Cleopatra|CLEOPATRA]] | Prosegui; davvero regale. |
-| TIDIA | Egli sa che voi abbracciaste Antonio<br>non perché lo [[Love|amaste]], ma perché lo temevate. |
-| [[Cleopatra|CLEOPATRA]] | 0. |
-| TIDIA | Le cicatrici sul vostro [[Honour|onore]] egli dunque<br>compiange come macchie costrette,<br>non come meritate. |
-| [[Cleopatra|CLEOPATRA]] | È un dio, e sa<br>ciò che è più giusto. Il mio [[Honour|onore]] non fu ceduto,<br>ma semplicemente conquistato. |
-| [[Enobarbus|ENOBARBO]] | (a parte)<br>Per esserne certo<br>lo chiederò ad Antonio. Signore, signore, fai tanta acqua<br>che dobbiamo lasciarti al tuo affondare, ché<br>i tuoi più cari ti abbandonano. |
+| [[Cleopatra\|CLEOPATRA]] | Prosegui; davvero regale. |
+| TIDIA | Egli sa che voi abbracciaste Antonio<br>non perché lo [[Love\|amaste]], ma perché lo temevate. |
+| [[Cleopatra\|CLEOPATRA]] | 0. |
+| TIDIA | Le cicatrici sul vostro [[Honour\|onore]] egli dunque<br>compiange come macchie costrette,<br>non come meritate. |
+| [[Cleopatra\|CLEOPATRA]] | È un dio, e sa<br>ciò che è più giusto. Il mio [[Honour\|onore]] non fu ceduto,<br>ma semplicemente conquistato. |
+| [[Enobarbus\|ENOBARBO]] | (a parte)<br>Per esserne certo<br>lo chiederò ad Antonio. Signore, signore, fai tanta acqua<br>che dobbiamo lasciarti al tuo affondare, ché<br>i tuoi più cari ti abbandonano. |
 | *(didascalia)* | Esce |
-| TIDIA | Dirò a Cesare<br>ciò che chiedete da lui?—Ché in parte egli implora<br>d’esser pregato di dare. Molto gli piacerebbe<br>che delle sue fortune vi faceste un bastone<br>cui appoggiarvi. Ma gli scalderebbe gli spiriti<br>udire da me che avete lasciato Antonio<br>e messo il vostro [[Self|essere]] sotto la sua protezione,<br>il signore universale. |
-| [[Cleopatra|CLEOPATRA]] | Qual è il vostro nome? |
+| TIDIA | Dirò a Cesare<br>ciò che chiedete da lui?—Ché in parte egli implora<br>d’esser pregato di dare. Molto gli piacerebbe<br>che delle sue fortune vi faceste un bastone<br>cui appoggiarvi. Ma gli scalderebbe gli spiriti<br>udire da me che avete lasciato Antonio<br>e messo il vostro [[Self\|essere]] sotto la sua protezione,<br>il signore universale. |
+| [[Cleopatra\|CLEOPATRA]] | Qual è il vostro nome? |
 | TIDIA | Il mio nome è Tidia. |
-| [[Cleopatra|CLEOPATRA]] | Gentilissimo messaggero,<br>di’ questo al gran Cesare per mia delegazione:<br>bacio la sua mano conquistatrice. Digli che sono pronta<br>a deporre la mia [[Crown|corona]] ai suoi piedi, e là inginocchiarmi<br>finché dal suo fiato a cui tutto obbedisce io oda<br>la sentenza sull’[[Egypt|Egitto]]. |
+| [[Cleopatra\|CLEOPATRA]] | Gentilissimo messaggero,<br>di’ questo al gran Cesare per mia delegazione:<br>bacio la sua mano conquistatrice. Digli che sono pronta<br>a deporre la mia [[Crown\|corona]] ai suoi piedi, e là inginocchiarmi<br>finché dal suo fiato a cui tutto obbedisce io oda<br>la sentenza sull’[[Egypt\|Egitto]]. |
 | TIDIA | È la vostra via più nobile.<br>Quando saggezza e fortuna combattono insieme,<br>se la prima osa soltanto ciò che può,<br>nessun caso potrà scuoterla. Concedetemi la grazia di posare<br>il mio omaggio sulla vostra mano.<br>Bacia la mano di [[Cleopatra]] |
-| [[Cleopatra|CLEOPATRA]] | Il padre del vostro Cesare spesso,<br>quando meditava di conquistare regni,<br>posò le sue labbra su quell’indegno luogo,<br>come piovesse baci. |
-| *(didascalia)* | Entrano Antonio ed [[Enobarbus|Enobarbo]] |
+| [[Cleopatra\|CLEOPATRA]] | Il padre del vostro Cesare spesso,<br>quando meditava di conquistare regni,<br>posò le sue labbra su quell’indegno luogo,<br>come piovesse baci. |
+| *(didascalia)* | Entrano Antonio ed [[Enobarbus\|Enobarbo]] |
 | ANTONIO | Favori, per Giove che tuona!<br>Chi sei tu, individuo? |
 | TIDIA | Uno che non fa che eseguire<br>il comando dell’uomo più pieno, e più degno<br>d’avere il comando obbedito. |
-| [[Enobarbus|ENOBARBO]] | Sarete frustato. |
+| [[Enobarbus\|ENOBARBO]] | Sarete frustato. |
 | ANTONIO | (chiamando)<br>Avvicinatevi, là!—Ah, nibbio! Ora, dèi e<br>diavoli,<br>l’autorità mi si scioglie di dosso da qualche tempo. Quando gridavo «Ehi!»,<br>come fanciulli a una zuffa i re balzavano avanti<br>gridando «Che volete?»—Non avete orecchi? Sono<br>Antonio ancora. |
 | *(didascalia)* | Entrano i servi |
 | ANTONIO | Portate via questo furfante, e frustatelo. |
-| *(didascalia)* | [[Enobarbus|ENOBARBO]] a parte a Tidia |
-| ANTONIO | È meglio giocare col cucciolo d’un [[Lion|leone]]<br>che con un vecchio leone morente. |
-| ANTONIO | [[Moon|Luna]] e [[Stars|stelle]]!<br>Frustatelo! Fossero venti dei più grandi tributari<br>che riconoscono Cesare, se li trovassi<br>così sfacciati con la mano di costei qui—come si chiama<br>da quando fu [[Cleopatra]]? Frustatelo, uomini,<br>finché non lo vediate storcere il viso come un ragazzo<br>e piagnucolare forte per [[Mercy|pietà]]. Portatelo via. |
-| TIDIA | [[Mark Antony|Marco Antonio]]— |
+| *(didascalia)* | [[Enobarbus\|ENOBARBO]] a parte a Tidia |
+| ANTONIO | È meglio giocare col cucciolo d’un [[Lion\|leone]]<br>che con un vecchio leone morente. |
+| ANTONIO | [[Moon\|Luna]] e [[Stars\|stelle]]!<br>Frustatelo! Fossero venti dei più grandi tributari<br>che riconoscono Cesare, se li trovassi<br>così sfacciati con la mano di costei qui—come si chiama<br>da quando fu [[Cleopatra]]? Frustatelo, uomini,<br>finché non lo vediate storcere il viso come un ragazzo<br>e piagnucolare forte per [[Mercy\|pietà]]. Portatelo via. |
+| TIDIA | [[Mark Antony\|Marco Antonio]]— |
 | ANTONIO | Trascinatelo via. Quando sarà frustato,<br>riportatelo. Questo furfante di Cesare ci<br>porterà un’ambasciata per lui. |
 | *(didascalia)* | Escono i servi con Tidia |
 | ANTONIO | Eravate mezza appassita prima ch’io vi conoscessi. Ah,<br>ho lasciato il mio guanciale non premuto a Roma,<br>rinunciato a generare una stirpe legittima,<br>e da una gemma di donna, per essere oltraggiato<br>da una che guarda i servi di mensa? |
-| [[Cleopatra|CLEOPATRA]] | Mio buon signore— |
+| [[Cleopatra\|CLEOPATRA]] | Mio buon signore— |
 | ANTONIO | Siete sempre stata una che tentenna.<br>Ma quando nella nostra viziosità ci induriamo—<br>oh, che miseria!—i saggi dèi ci cuciono gli occhi,<br>lasciano cadere nella nostra sozzura i nostri limpidi giudizi, ci fanno<br>adorare i nostri errori, e ridono di noi mentre incediamo<br>verso la nostra rovina. |
-| [[Cleopatra|CLEOPATRA]] | Oh, si è giunti a questo? |
-| ANTONIO | Vi trovai come un boccone freddo sul<br>tagliere del morto Cesare; anzi, eravate un [[Fragment|avanzo]]<br>di Gneo [[Pompey|Pompeo]], oltre a quelle ore più calde<br>non registrate dalla fama volgare che avete<br>lussuriosamente colto. Ché sono certo,<br>benché sappiate indovinare che cosa sia la temperanza,<br>non sapete che cosa essa sia. |
-| [[Cleopatra|CLEOPATRA]] | Perché questo? |
-| ANTONIO | Lasciare che un tale che accetta mance<br>e dice «Dio vi renda merito» prenda confidenza con<br>la mia compagna di giochi, la vostra mano, questo sigillo regale<br>e suggellatore d’alti cuori! Oh, fossi io<br>sul [[Hill|colle]] di Basan per superare col ruggito<br>la mandria cornuta! Ché ho causa selvaggia,<br>e proclamarla civilmente sarebbe come<br>un collo nel cappio che ringrazia il boia<br>d’essere lesto con lui. |
+| [[Cleopatra\|CLEOPATRA]] | Oh, si è giunti a questo? |
+| ANTONIO | Vi trovai come un boccone freddo sul<br>tagliere del morto Cesare; anzi, eravate un [[Fragment\|avanzo]]<br>di Gneo [[Pompey\|Pompeo]], oltre a quelle ore più calde<br>non registrate dalla fama volgare che avete<br>lussuriosamente colto. Ché sono certo,<br>benché sappiate indovinare che cosa sia la temperanza,<br>non sapete che cosa essa sia. |
+| [[Cleopatra\|CLEOPATRA]] | Perché questo? |
+| ANTONIO | Lasciare che un tale che accetta mance<br>e dice «Dio vi renda merito» prenda confidenza con<br>la mia compagna di giochi, la vostra mano, questo sigillo regale<br>e suggellatore d’alti cuori! Oh, fossi io<br>sul [[Hill\|colle]] di Basan per superare col ruggito<br>la mandria cornuta! Ché ho causa selvaggia,<br>e proclamarla civilmente sarebbe come<br>un collo nel cappio che ringrazia il boia<br>d’essere lesto con lui. |
 | *(didascalia)* | Entra un Servo con Tidia |
 | ANTONIO | È stato frustato? |
 | SERVO | Sonoramente, mio signore. |
 | ANTONIO | Ha gridato, e chiesto perdono? |
 | SERVO | Ha chiesto grazia. |
-| ANTONIO | (a Tidia)<br>Se tuo padre è vivo, si penta<br>che tu non sia stato fatto sua figlia; e tu rammaricati<br>di seguire Cesare nel suo trionfo, poiché<br>sei stato frustato per averlo seguito. D’ora innanzi<br>la bianca mano d’una dama ti dia la febbre,<br>e tu tremi a guardarla. Tornatene da Cesare;<br>raccontagli il tuo trattamento. Bada di dire<br>ch’egli mi fa adirare con lui, ché mi pare<br>superbo e sdegnoso, insistendo su ciò che sono,<br>non su ciò che sapeva ch’io fui. Mi fa adirare,<br>e in questo [[Time|tempo]] è facilissimo farlo,<br>ora che le mie buone [[Stars|stelle]], che furono le mie guide d’un tempo,<br>hanno lasciato vuote le loro orbite e scagliato i loro fuochi<br>nell’abisso dell’inferno. Se gli dispiacciono<br>il mio discorso e quanto è stato fatto, digli che ha<br>Ipparco, mio liberto, che egli<br>può a piacere frustare, o impiccare, o torturare,<br>come gli piacerà, per pareggiare il conto. Insistici tu.<br>Via, con le tue sferzate, vattene! |
+| ANTONIO | (a Tidia)<br>Se tuo padre è vivo, si penta<br>che tu non sia stato fatto sua figlia; e tu rammaricati<br>di seguire Cesare nel suo trionfo, poiché<br>sei stato frustato per averlo seguito. D’ora innanzi<br>la bianca mano d’una dama ti dia la febbre,<br>e tu tremi a guardarla. Tornatene da Cesare;<br>raccontagli il tuo trattamento. Bada di dire<br>ch’egli mi fa adirare con lui, ché mi pare<br>superbo e sdegnoso, insistendo su ciò che sono,<br>non su ciò che sapeva ch’io fui. Mi fa adirare,<br>e in questo [[Time\|tempo]] è facilissimo farlo,<br>ora che le mie buone [[Stars\|stelle]], che furono le mie guide d’un tempo,<br>hanno lasciato vuote le loro orbite e scagliato i loro fuochi<br>nell’abisso dell’inferno. Se gli dispiacciono<br>il mio discorso e quanto è stato fatto, digli che ha<br>Ipparco, mio liberto, che egli<br>può a piacere frustare, o impiccare, o torturare,<br>come gli piacerà, per pareggiare il conto. Insistici tu.<br>Via, con le tue sferzate, vattene! |
 | *(didascalia)* | Esce il Servo con Tidia |
-| [[Cleopatra|CLEOPATRA]] | Avete finito? |
-| ANTONIO | Ahimè, la nostra [[Moon|luna]] terrena<br>è ora eclissata, e ciò presagisce [[Alone|soltanto]]<br>la caduta d’Antonio. |
-| [[Cleopatra|CLEOPATRA]] | (a parte)<br>Devo aspettare il suo [[Time|momento]]. |
+| [[Cleopatra\|CLEOPATRA]] | Avete finito? |
+| ANTONIO | Ahimè, la nostra [[Moon\|luna]] terrena<br>è ora eclissata, e ciò presagisce [[Alone\|soltanto]]<br>la caduta d’Antonio. |
+| [[Cleopatra\|CLEOPATRA]] | (a parte)<br>Devo aspettare il suo [[Time\|momento]]. |
 | ANTONIO | Per adulare Cesare vorreste incrociare gli occhi<br>con uno che gli allaccia i lacci? |
-| [[Cleopatra|CLEOPATRA]] | Non mi conoscete ancora? |
+| [[Cleopatra\|CLEOPATRA]] | Non mi conoscete ancora? |
 | ANTONIO | Fredda di cuore verso di me? |
-| [[Cleopatra|CLEOPATRA]] | Ah, caro, se lo sono,<br>dal mio cuore freddo il cielo generi grandine<br>e la [[Poison|avveleni]] alla fonte, e la prima pietra<br>cada sul mio collo: come essa si scioglie, così<br>si dissolva la mia vita! La seconda colpisca Cesarione,<br>finché a gradi la [[Memory|memoria]] del mio grembo,<br>insieme a tutti i miei bravi Egizi,<br>per lo sciogliersi di questa [[Storm|tempesta]] di chicchi<br>giaccia insepolta finché le mosche e i moscerini del Nilo<br>li abbiano sepolti come preda! |
-| ANTONIO | Sono soddisfatto.<br>Cesare pone campo ad Alessandria, dove<br>io mi opporrò al suo destino. Le nostre forze di terra<br>hanno nobilmente tenuto; anche la nostra flotta dispersa<br>si è riunita, e naviga, minacciosa come si conviene al mare.<br>Dove sei stato, cuore mio? Mi ascolti,<br>signora?<br>Se dal campo tornerò ancora una volta<br>a baciare queste labbra, apparirò coperto di [[Blood|sangue]].<br>Io e la mia [[Sword|spada]] ci guadagneremo la nostra cronaca.<br>C’è ancora [[Hope|speranza]]. |
-| [[Cleopatra|CLEOPATRA]] | Questo è il mio prode signore. |
-| ANTONIO | Sarò triplicato di nervi, di cuore, di fiato,<br>e combatterò con malizia; ché quando le mie ore<br>erano leggiadre e fortunate, gli uomini riscattavano da me<br>le loro vite per uno scherzo; ma ora stringerò i denti<br>e manderò alle tenebre tutti quelli che mi fermano. Vieni,<br>facciamo un’altra [[Night|notte]] sfarzosa. Chiamatemi<br>tutti i miei mesti capitani. Riempite ancora una volta le nostre coppe.<br>Beffiamoci della campana di mezzanotte. |
-| [[Cleopatra|CLEOPATRA]] | È il mio compleanno.<br>Avevo pensato di celebrarlo poveramente, ma poiché il mio signore<br>è Antonio di nuovo, io sarò [[Cleopatra]]. |
-| ANTONIO | Andrà ancora [[Well|bene]]. |
-| [[Cleopatra|CLEOPATRA]] | Chiamate tutti i suoi nobili capitani dal mio signore! |
-| ANTONIO | Fatelo. Parleremo loro, e stanotte farò<br>far capolino al vino attraverso le loro cicatrici. Vieni, mia [[Queen|regina]],<br>c’è ancora linfa. La prossima [[Time|volta]] che combatterò<br>farò che la [[Death|morte]] mi [[Love|ami]], ché contenderò<br>perfino con la sua falce pestilenziale. |
-| *(didascalia)* | Escono tutti tranne [[Enobarbus|Enobarbo]] |
-| [[Enobarbus|ENOBARBO]] | Ora sfiderà con lo sguardo il [[Lightning|fulmine]]. Essere furiosi<br>è essere spaventati fuori dalla [[Fear|paura]], e in quell’umore<br>la colomba beccherà lo struzzo; e vedo pur sempre<br>che una diminuzione nel cervello del nostro capitano<br>gli ristora il cuore. Quando il valore fa preda della ragione,<br>divora la [[Sword|spada]] con cui combatte. Cercherò<br>qualche modo di lasciarlo. |
+| [[Cleopatra\|CLEOPATRA]] | Ah, caro, se lo sono,<br>dal mio cuore freddo il cielo generi grandine<br>e la [[Poison\|avveleni]] alla fonte, e la prima pietra<br>cada sul mio collo: come essa si scioglie, così<br>si dissolva la mia vita! La seconda colpisca Cesarione,<br>finché a gradi la [[Memory\|memoria]] del mio grembo,<br>insieme a tutti i miei bravi Egizi,<br>per lo sciogliersi di questa [[Storm\|tempesta]] di chicchi<br>giaccia insepolta finché le mosche e i moscerini del Nilo<br>li abbiano sepolti come preda! |
+| ANTONIO | Sono soddisfatto.<br>Cesare pone campo ad Alessandria, dove<br>io mi opporrò al suo destino. Le nostre forze di terra<br>hanno nobilmente tenuto; anche la nostra flotta dispersa<br>si è riunita, e naviga, minacciosa come si conviene al mare.<br>Dove sei stato, cuore mio? Mi ascolti,<br>signora?<br>Se dal campo tornerò ancora una volta<br>a baciare queste labbra, apparirò coperto di [[Blood\|sangue]].<br>Io e la mia [[Sword\|spada]] ci guadagneremo la nostra cronaca.<br>C’è ancora [[Hope\|speranza]]. |
+| [[Cleopatra\|CLEOPATRA]] | Questo è il mio prode signore. |
+| ANTONIO | Sarò triplicato di nervi, di cuore, di fiato,<br>e combatterò con malizia; ché quando le mie ore<br>erano leggiadre e fortunate, gli uomini riscattavano da me<br>le loro vite per uno scherzo; ma ora stringerò i denti<br>e manderò alle tenebre tutti quelli che mi fermano. Vieni,<br>facciamo un’altra [[Night\|notte]] sfarzosa. Chiamatemi<br>tutti i miei mesti capitani. Riempite ancora una volta le nostre coppe.<br>Beffiamoci della campana di mezzanotte. |
+| [[Cleopatra\|CLEOPATRA]] | È il mio compleanno.<br>Avevo pensato di celebrarlo poveramente, ma poiché il mio signore<br>è Antonio di nuovo, io sarò [[Cleopatra]]. |
+| ANTONIO | Andrà ancora [[Well\|bene]]. |
+| [[Cleopatra\|CLEOPATRA]] | Chiamate tutti i suoi nobili capitani dal mio signore! |
+| ANTONIO | Fatelo. Parleremo loro, e stanotte farò<br>far capolino al vino attraverso le loro cicatrici. Vieni, mia [[Queen\|regina]],<br>c’è ancora linfa. La prossima [[Time\|volta]] che combatterò<br>farò che la [[Death\|morte]] mi [[Love\|ami]], ché contenderò<br>perfino con la sua falce pestilenziale. |
+| *(didascalia)* | Escono tutti tranne [[Enobarbus\|Enobarbo]] |
+| [[Enobarbus\|ENOBARBO]] | Ora sfiderà con lo sguardo il [[Lightning\|fulmine]]. Essere furiosi<br>è essere spaventati fuori dalla [[Fear\|paura]], e in quell’umore<br>la colomba beccherà lo struzzo; e vedo pur sempre<br>che una diminuzione nel cervello del nostro capitano<br>gli ristora il cuore. Quando il valore fa preda della ragione,<br>divora la [[Sword\|spada]] con cui combatte. Cercherò<br>qualche modo di lasciarlo. |
 | *(didascalia)* | Esce |
 
 
@@ -3976,9 +3976,9 @@ The [[Tragedy]] of Antony and [[Cleopatra]]
 | Chi parla | Battuta |
 |---|---|
 | *(didascalia)* | Entra Cesare, leggendo una lettera, con Agrippa, Mecenate e il suo esercito |
-| CESARE | Mi chiama ragazzo, e mi rimprovera come se avesse il potere<br>di cacciarmi a bastonate dall’[[Egypt|Egitto]]. Il mio messaggero<br>l’ha fatto frustare con le verghe, mi sfida a combattimento<br>personale,<br>Cesare contro Antonio. Sappia il vecchio ribaldo<br>che ho molte altre vie per morire; intanto,<br>rido della sua sfida. |
+| CESARE | Mi chiama ragazzo, e mi rimprovera come se avesse il potere<br>di cacciarmi a bastonate dall’[[Egypt\|Egitto]]. Il mio messaggero<br>l’ha fatto frustare con le verghe, mi sfida a combattimento<br>personale,<br>Cesare contro Antonio. Sappia il vecchio ribaldo<br>che ho molte altre vie per morire; intanto,<br>rido della sua sfida. |
 | MECENATE | Cesare deve pensare<br>che quando uno così grande comincia a infuriare, è braccato<br>fino alla caduta. Non gli lasciate respiro, ma ora<br>fate bottino del suo smarrimento. Mai la collera<br>fece buona guardia a se stessa. |
-| CESARE | Sappiano le nostre teste migliori<br>che domani intendiamo combattere l’ultima<br>di molte battaglie. Nelle nostre file ci sono,<br>di quelli che fino a poco fa servirono [[Mark Antony|Marco Antonio]],<br>abbastanza per catturarlo. Vedete che sia fatto,<br>e banchetti l’esercito. Ne abbiamo di che,<br>e si sono guadagnati lo sperpero. Povero Antonio! |
+| CESARE | Sappiano le nostre teste migliori<br>che domani intendiamo combattere l’ultima<br>di molte battaglie. Nelle nostre file ci sono,<br>di quelli che fino a poco fa servirono [[Mark Antony\|Marco Antonio]],<br>abbastanza per catturarlo. Vedete che sia fatto,<br>e banchetti l’esercito. Ne abbiamo di che,<br>e si sono guadagnati lo sperpero. Povero Antonio! |
 | *(didascalia)* | Escono |
 
 
@@ -4015,26 +4015,26 @@ The [[Tragedy]] of Antony and [[Cleopatra]]
 
 | Chi parla | Battuta |
 |---|---|
-| *(didascalia)* | Entrano Antonio, [[Cleopatra]], [[Enobarbus|Enobarbo]], [[Charmian|Carmiana]], Iras, Alessa, con altri |
+| *(didascalia)* | Entrano Antonio, [[Cleopatra]], [[Enobarbus\|Enobarbo]], [[Charmian\|Carmiana]], Iras, Alessa, con altri |
 | ANTONIO | Non vuole combattere con me, Domizio? |
-| [[Enobarbus|ENOBARBO]] | No. |
+| [[Enobarbus\|ENOBARBO]] | No. |
 | ANTONIO | E perché no? |
-| [[Enobarbus|ENOBARBO]] | Pensa che, essendo venti volte più fortunato,<br>egli sia venti uomini contro uno. |
-| ANTONIO | Domani, soldato,<br>per mare e per terra combatterò. O vivrò,<br>o bagnerò il mio morente [[Honour|onore]] in quel [[Blood|sangue]]<br>che lo farà rivivere. Combatterai [[Well|bene]]? |
-| [[Enobarbus|ENOBARBO]] | Colpirò, e griderò «Prendi tutto!» |
-| ANTONIO | [[Well|Ben]] detto. Andiamo!<br>Chiamate i miei servitori di casa. Stanotte<br>siamo generosi alla nostra mensa. |
+| [[Enobarbus\|ENOBARBO]] | Pensa che, essendo venti volte più fortunato,<br>egli sia venti uomini contro uno. |
+| ANTONIO | Domani, soldato,<br>per mare e per terra combatterò. O vivrò,<br>o bagnerò il mio morente [[Honour\|onore]] in quel [[Blood\|sangue]]<br>che lo farà rivivere. Combatterai [[Well\|bene]]? |
+| [[Enobarbus\|ENOBARBO]] | Colpirò, e griderò «Prendi tutto!» |
+| ANTONIO | [[Well\|Ben]] detto. Andiamo!<br>Chiamate i miei servitori di casa. Stanotte<br>siamo generosi alla nostra mensa. |
 | *(didascalia)* | Entrano i Servitori |
-| ANTONIO | Dammi la tua mano.<br>Sei stato davvero onesto; e anche tu,<br>tu, e tu, e tu; mi avete servito [[Well|bene]],<br>e dei re sono stati vostri compagni. |
-| [[Cleopatra|CLEOPATRA]] | (a [[Enobarbus|Enobarbo]])<br>Che vuol dire questo? |
-| [[Enobarbus|ENOBARBO]] | (a [[Cleopatra]])<br>È uno di quegli strani scherzi che il dolore scaglia<br>fuori dalla mente. |
+| ANTONIO | Dammi la tua mano.<br>Sei stato davvero onesto; e anche tu,<br>tu, e tu, e tu; mi avete servito [[Well\|bene]],<br>e dei re sono stati vostri compagni. |
+| [[Cleopatra\|CLEOPATRA]] | (a [[Enobarbus\|Enobarbo]])<br>Che vuol dire questo? |
+| [[Enobarbus\|ENOBARBO]] | (a [[Cleopatra]])<br>È uno di quegli strani scherzi che il dolore scaglia<br>fuori dalla mente. |
 | ANTONIO | (a un Servitore) E anche tu sei onesto.<br>Vorrei poter essere fatto di tanti uomini,<br>e tutti voi rinchiusi insieme in<br>un Antonio, per potervi rendere servizio<br>buono quanto quello che m’avete reso. |
 | SERVITORI | Gli dèi non voglia! |
-| ANTONIO | [[Well|Bene]], miei buoni amici, servitemi stanotte.<br>Non lesinate le mie coppe, e fate di me altrettanto conto<br>di quando anche il mio impero vi era compagno<br>e obbediva al mio comando. |
-| [[Cleopatra|CLEOPATRA]] | (a parte a [[Enobarbus|Enobarbo]]) Che intende dire? |
-| [[Enobarbus|ENOBARBO]] | (a parte a [[Cleopatra]])<br>Far piangere i suoi seguaci. |
-| ANTONIO | Assistetemi stanotte.<br>Forse è il termine del vostro servizio.<br>Può darsi che non mi vediate più; o se mi vedrete,<br>un’[[Shadow|ombra]] mutilata. Forse domani<br>servirete un altro padrone. Vi guardo<br>come chi prende commiato. Miei onesti amici,<br>non vi congedo, ma, come un padrone<br>sposato al vostro buon servizio, resto fino alla [[Death|morte]].<br>Assistetemi stanotte due ore. Non chiedo di più;<br>e gli dèi ve ne ricompensino! |
-| [[Enobarbus|ENOBARBO]] | Che intendete, signore,<br>col dar loro questo sconforto? Guardate, piangono,<br>e io, asino, ho gli occhi di cipolla. Vergogna,<br>non trasformateci in donne. |
-| ANTONIO | Oh, oh, oh,<br>che la [[Witch|strega]] mi prenda se l’intendevo così!<br>Grazia cresca dove cadono quelle gocce. Miei cordiali amici,<br>mi prendete in senso troppo doloroso;<br>ché vi parlai per vostro conforto, [[Desire|volevo]] che<br>bruciaste questa [[Night|notte]] con le torce. Sappiate, cuori miei,<br>che [[Hope|spero]] [[Well|bene]] del domani, e vi condurrò<br>dove attendo piuttosto vita vittoriosa<br>che [[Death|morte]] e [[Honour|onore]]. Andiamo a cena, venite,<br>e anneghiamo ogni pensiero. |
+| ANTONIO | [[Well\|Bene]], miei buoni amici, servitemi stanotte.<br>Non lesinate le mie coppe, e fate di me altrettanto conto<br>di quando anche il mio impero vi era compagno<br>e obbediva al mio comando. |
+| [[Cleopatra\|CLEOPATRA]] | (a parte a [[Enobarbus\|Enobarbo]]) Che intende dire? |
+| [[Enobarbus\|ENOBARBO]] | (a parte a [[Cleopatra]])<br>Far piangere i suoi seguaci. |
+| ANTONIO | Assistetemi stanotte.<br>Forse è il termine del vostro servizio.<br>Può darsi che non mi vediate più; o se mi vedrete,<br>un’[[Shadow\|ombra]] mutilata. Forse domani<br>servirete un altro padrone. Vi guardo<br>come chi prende commiato. Miei onesti amici,<br>non vi congedo, ma, come un padrone<br>sposato al vostro buon servizio, resto fino alla [[Death\|morte]].<br>Assistetemi stanotte due ore. Non chiedo di più;<br>e gli dèi ve ne ricompensino! |
+| [[Enobarbus\|ENOBARBO]] | Che intendete, signore,<br>col dar loro questo sconforto? Guardate, piangono,<br>e io, asino, ho gli occhi di cipolla. Vergogna,<br>non trasformateci in donne. |
+| ANTONIO | Oh, oh, oh,<br>che la [[Witch\|strega]] mi prenda se l’intendevo così!<br>Grazia cresca dove cadono quelle gocce. Miei cordiali amici,<br>mi prendete in senso troppo doloroso;<br>ché vi parlai per vostro conforto, [[Desire\|volevo]] che<br>bruciaste questa [[Night\|notte]] con le torce. Sappiate, cuori miei,<br>che [[Hope\|spero]] [[Well\|bene]] del domani, e vi condurrò<br>dove attendo piuttosto vita vittoriosa<br>che [[Death\|morte]] e [[Honour\|onore]]. Andiamo a cena, venite,<br>e anneghiamo ogni pensiero. |
 | *(didascalia)* | Escono |
 
 
@@ -4082,15 +4082,15 @@ The [[Tragedy]] of Antony and [[Cleopatra]]
 |---|---|
 | *(didascalia)* | Entra |
 | *(didascalia)* | una compagnia di<br>Soldati |
-| PRIMO SOLDATO | Fratello, buona [[Night|notte]]. Domani è il giorno. |
-| SECONDO SOLDATO | Deciderà in un senso o nell’altro. State [[Well|bene]].<br>Non avete udito nulla di strano per le strade? |
+| PRIMO SOLDATO | Fratello, buona [[Night\|notte]]. Domani è il giorno. |
+| SECONDO SOLDATO | Deciderà in un senso o nell’altro. State [[Well\|bene]].<br>Non avete udito nulla di strano per le strade? |
 | PRIMO SOLDATO | Nulla. Che notizie? |
-| SECONDO SOLDATO | Sarà forse solo una voce. Buona [[Night|notte]] a voi. |
-| PRIMO SOLDATO | [[Well|Bene]], signore, buona [[Night|notte]]. |
+| SECONDO SOLDATO | Sarà forse solo una voce. Buona [[Night\|notte]] a voi. |
+| PRIMO SOLDATO | [[Well\|Bene]], signore, buona [[Night\|notte]]. |
 | *(didascalia)* | Entrano altri Soldati, incontrandoli |
 | SECONDO SOLDATO | Soldati, fate attenta guardia. |
-| TERZO SOLDATO | E voi. Buona [[Night|notte]], buona [[Night|notte]].<br>Si dispongono in ogni angolo della scena |
-| SECONDO SOLDATO | Noi qui; e se domani<br>la nostra flotta prospera, ho assoluta [[Hope|speranza]]<br>che i nostri uomini di terra terranno saldo. |
+| TERZO SOLDATO | E voi. Buona [[Night\|notte]], buona [[Night\|notte]].<br>Si dispongono in ogni angolo della scena |
+| SECONDO SOLDATO | Noi qui; e se domani<br>la nostra flotta prospera, ho assoluta [[Hope\|speranza]]<br>che i nostri uomini di terra terranno saldo. |
 | PRIMO SOLDATO | È un bravo esercito,<br>e pieno di risolutezza. |
 | *(didascalia)* | Musica di oboi sotto la scena |
 | SECONDO SOLDATO | Silenzio, che rumore? |
@@ -4098,10 +4098,10 @@ The [[Tragedy]] of Antony and [[Cleopatra]]
 | SECONDO SOLDATO | Udite! |
 | PRIMO SOLDATO | Musica nell’aria. |
 | TERZO SOLDATO | Sotto la terra. |
-| QUARTO SOLDATO | Segna [[Well|bene]], non è vero? |
+| QUARTO SOLDATO | Segna [[Well\|bene]], non è vero? |
 | TERZO SOLDATO | No. |
 | PRIMO SOLDATO | Silenzio, dico!<br>Che vorrà dire questo? |
-| SECONDO SOLDATO | È il dio Ercole, che Antonio amava,<br>che ora lo [[Leaves|lascia]]. |
+| SECONDO SOLDATO | È il dio Ercole, che Antonio amava,<br>che ora lo [[Leaves\|lascia]]. |
 | PRIMO SOLDATO | Camminiamo. Vediamo se altre sentinelle<br>odono quel che udiamo noi. |
 | SECONDO SOLDATO | Ebbene, compagni? |
 | TUTTI | (parlando insieme)<br>Ebbene?<br>Ebbene? Udite questo? |
@@ -4148,29 +4148,29 @@ The [[Tragedy]] of Antony and [[Cleopatra]]
 
 | Chi parla | Battuta |
 |---|---|
-| *(didascalia)* | Entrano Antonio e [[Cleopatra]], con [[Charmian|Carmiana]] e altri |
+| *(didascalia)* | Entrano Antonio e [[Cleopatra]], con [[Charmian\|Carmiana]] e altri |
 | ANTONIO | (chiamando)<br>Eros, la mia armatura, Eros! |
-| [[Cleopatra|CLEOPATRA]] | [[Sleep|Dormi]] un poco. |
+| [[Cleopatra\|CLEOPATRA]] | [[Sleep\|Dormi]] un poco. |
 | ANTONIO | No, pulcina mia. Eros, vieni, la mia armatura, Eros! |
 | *(didascalia)* | Entra Eros con l’armatura |
 | ANTONIO | Vieni, buon amico, mettimi addosso il tuo ferro.<br>Se oggi la fortuna non è nostra, è<br>perché la sfidiamo. Vieni. |
-| [[Cleopatra|CLEOPATRA]] | No, aiuterò anch’io.<br>A che serve questo? |
+| [[Cleopatra\|CLEOPATRA]] | No, aiuterò anch’io.<br>A che serve questo? |
 | ANTONIO | Ah, lascia stare, lascia stare! Tu sei<br>l’armaiola del mio cuore. Sbagliato, sbagliato! Questo, questo! |
-| [[Cleopatra|CLEOPATRA]] | Davvero, su, aiuterò. Così dev’essere.<br>Aiuta Antonio ad armarsi |
-| ANTONIO | [[Well|Bene]], [[Well|bene]],<br>ora prospereremo. Vedi, mio buon amico?<br>Va’ a indossare le tue difese. |
+| [[Cleopatra\|CLEOPATRA]] | Davvero, su, aiuterò. Così dev’essere.<br>Aiuta Antonio ad armarsi |
+| ANTONIO | [[Well\|Bene]], [[Well\|bene]],<br>ora prospereremo. Vedi, mio buon amico?<br>Va’ a indossare le tue difese. |
 | EROS | Subito, signore. |
-| [[Cleopatra|CLEOPATRA]] | Non è affibbiato [[Well|bene]] questo? |
-| ANTONIO | Egregiamente, egregiamente.<br>Chi slaccerà questo, prima che ci piaccia<br>toglierlo per il nostro riposo, udirà una [[Storm|tempesta]].<br>Tu armeggi, Eros, e la mia [[Queen|regina]] è uno scudiero<br>più pronto di te a questo. Spicciati. O [[Love|amore]],<br>potessi tu vedere le mie guerre oggi, e conoscessi<br>l’occupazione regale! Vedresti<br>in essa un maestro d’arte. |
+| [[Cleopatra\|CLEOPATRA]] | Non è affibbiato [[Well\|bene]] questo? |
+| ANTONIO | Egregiamente, egregiamente.<br>Chi slaccerà questo, prima che ci piaccia<br>toglierlo per il nostro riposo, udirà una [[Storm\|tempesta]].<br>Tu armeggi, Eros, e la mia [[Queen\|regina]] è uno scudiero<br>più pronto di te a questo. Spicciati. O [[Love\|amore]],<br>potessi tu vedere le mie guerre oggi, e conoscessi<br>l’occupazione regale! Vedresti<br>in essa un maestro d’arte. |
 | *(didascalia)* | Entra un Soldato armato |
-| ANTONIO | Buon giorno a te. Benvenuto.<br>Hai l’aria di chi conosce un incarico di guerra.<br>Per l’impresa che [[Love|amiamo]] ci alziamo per tempo,<br>e vi andiamo con diletto. |
+| ANTONIO | Buon giorno a te. Benvenuto.<br>Hai l’aria di chi conosce un incarico di guerra.<br>Per l’impresa che [[Love\|amiamo]] ci alziamo per tempo,<br>e vi andiamo con diletto. |
 | SOLDATO | Un migliaio, signore,<br>per quanto sia presto, hanno indosso il loro assetto ribadito,<br>e alla porta vi attendono. |
 | *(didascalia)* | Grida all’interno. Squilli di trombe. Entrano Capitani e Soldati |
 | CAPITANO | Il mattino è bello. Buon giorno, Generale. |
 | SOLDATI | Buon giorno, Generale. |
-| ANTONIO | Si suona [[Well|bene]], ragazzi.<br>Questo mattino, come lo spirito d’un giovane<br>che vuol farsi notare, comincia per tempo.<br>Così, così. Vieni, dammi quello. Di qua. [[Well|Ben]] detto.<br>Sta’ [[Well|bene]], signora. Qualunque cosa avvenga di me,<br>questo è un bacio da soldato.<br>Bacia [[Cleopatra]]<br>Riprovevole<br>e degno di vergognoso rimprovero sarebbe indugiare<br>in complimenti più minuziosi. Ti lascio<br>ora come un uomo d’acciaio. Voi che volete combattere,<br>seguitemi da presso. Vi ci condurrò. Addio. |
-| *(didascalia)* | Escono tutti tranne [[Cleopatra]] e [[Charmian|Carmiana]] |
-| [[Charmian|CARMIANA]] | Vi piace ritirarvi nella vostra camera? |
-| [[Cleopatra|CLEOPATRA]] | Conducimi.<br>Va avanti gagliardamente. Potessero lui e Cesare<br>decidere questa gran guerra in singolar tenzone!<br>Allora, Antonio—ma ora! [[Well|Bene]], andiamo. |
+| ANTONIO | Si suona [[Well\|bene]], ragazzi.<br>Questo mattino, come lo spirito d’un giovane<br>che vuol farsi notare, comincia per tempo.<br>Così, così. Vieni, dammi quello. Di qua. [[Well\|Ben]] detto.<br>Sta’ [[Well\|bene]], signora. Qualunque cosa avvenga di me,<br>questo è un bacio da soldato.<br>Bacia [[Cleopatra]]<br>Riprovevole<br>e degno di vergognoso rimprovero sarebbe indugiare<br>in complimenti più minuziosi. Ti lascio<br>ora come un uomo d’acciaio. Voi che volete combattere,<br>seguitemi da presso. Vi ci condurrò. Addio. |
+| *(didascalia)* | Escono tutti tranne [[Cleopatra]] e [[Charmian\|Carmiana]] |
+| [[Charmian\|CARMIANA]] | Vi piace ritirarvi nella vostra camera? |
+| [[Cleopatra\|CLEOPATRA]] | Conducimi.<br>Va avanti gagliardamente. Potessero lui e Cesare<br>decidere questa gran guerra in singolar tenzone!<br>Allora, Antonio—ma ora! [[Well\|Bene]], andiamo. |
 | *(didascalia)* | Escono |
 
 
@@ -4204,13 +4204,13 @@ The [[Tragedy]] of Antony and [[Cleopatra]]
 | ANTONIO | Avessero tu e quelle tue cicatrici una volta prevalso<br>a farmi combattere per terra! |
 | SOLDATO | L’avessi fatto, i re che si sono ribellati, e il soldato<br>che stamane ti ha lasciato, seguirebbero ancora<br>i tuoi passi. |
 | ANTONIO | Chi se n’è andato stamane? |
-| SOLDATO | Chi? Uno sempre vicino a te. Chiama [[Enobarbus|Enobarbo]],<br>non ti udirà, o dal campo di Cesare<br>dirà «Non sono dei tuoi». |
+| SOLDATO | Chi? Uno sempre vicino a te. Chiama [[Enobarbus\|Enobarbo]],<br>non ti udirà, o dal campo di Cesare<br>dirà «Non sono dei tuoi». |
 | ANTONIO | Che dici? |
 | SOLDATO | Signore, è con Cesare. |
 | EROS | (ad Antonio)<br>Signore, le sue casse e il suo tesoro<br>non li ha con sé. |
 | ANTONIO | È andato via? |
 | SOLDATO | Certissimo. |
-| ANTONIO | Va’, Eros, mandagli dietro il suo tesoro. Fallo.<br>Non trattenerne un briciolo, te l’ordino. Scrivigli—<br>io firmerò—gentili addii e saluti.<br>Digli che gli auguro di non trovare mai più motivo 15<br>di cambiare padrone. Oh, le mie fortune hanno<br>corrotto uomini onesti! Spicciati. [[Enobarbus|Enobarbo]]! |
+| ANTONIO | Va’, Eros, mandagli dietro il suo tesoro. Fallo.<br>Non trattenerne un briciolo, te l’ordino. Scrivigli—<br>io firmerò—gentili addii e saluti.<br>Digli che gli auguro di non trovare mai più motivo 15<br>di cambiare padrone. Oh, le mie fortune hanno<br>corrotto uomini onesti! Spicciati. [[Enobarbus\|Enobarbo]]! |
 | *(didascalia)* | Escono |
 
 
@@ -4243,22 +4243,22 @@ The [[Tragedy]] of Antony and [[Cleopatra]]
 
 | Chi parla | Battuta |
 |---|---|
-| *(didascalia)* | Squilli di trombe. Entrano Agrippa, Cesare, con [[Enobarbus|Enobarbo]] e Dolabella |
+| *(didascalia)* | Squilli di trombe. Entrano Agrippa, Cesare, con [[Enobarbus\|Enobarbo]] e Dolabella |
 | CESARE | Va’ avanti, Agrippa, e comincia la battaglia.<br>La nostra volontà è che Antonio sia preso vivo.<br>Fallo sapere. |
 | AGRIPPA | Cesare, lo farò. |
 | *(didascalia)* | Esce |
-| CESARE | Il [[Time|tempo]] della pace universale è vicino.<br>Se questo si dimostra un giorno propizio, il mondo dai tre angoli<br>porterà l’ulivo liberamente. |
+| CESARE | Il [[Time\|tempo]] della pace universale è vicino.<br>Se questo si dimostra un giorno propizio, il mondo dai tre angoli<br>porterà l’ulivo liberamente. |
 | *(didascalia)* | Entra un Messaggero |
 | MESSAGGERO | Antonio<br>è sceso in campo. |
 | CESARE | Va’ a ordinare ad Agrippa<br>di collocare in prima fila quelli che si sono ribellati,<br>così che Antonio sembri sfogare il suo furore<br>su se stesso. 10 |
 | *(didascalia)* | Escono il Messaggero da una porta, Cesare e Dolabella da un’altra |
-| [[Enobarbus|ENOBARBO]] | Alessa disertò, e andò in Giudea per<br>affari d’Antonio; là dissuase<br>il grande Erode dall’inclinare verso Cesare<br>e lasciare il suo padrone, Antonio. Per questa fatica<br>Cesare l’ha impiccato. Camidio e gli altri 15<br>che sono passati dall’altra parte hanno accoglienza ma<br>nessun onorevole incarico. Ho agito male,<br>e di ciò mi accuso così duramente<br>che non gioirò mai più. |
+| [[Enobarbus\|ENOBARBO]] | Alessa disertò, e andò in Giudea per<br>affari d’Antonio; là dissuase<br>il grande Erode dall’inclinare verso Cesare<br>e lasciare il suo padrone, Antonio. Per questa fatica<br>Cesare l’ha impiccato. Camidio e gli altri 15<br>che sono passati dall’altra parte hanno accoglienza ma<br>nessun onorevole incarico. Ho agito male,<br>e di ciò mi accuso così duramente<br>che non gioirò mai più. |
 | *(didascalia)* | Entra un Soldato di Cesare |
-| SOLDATO | [[Enobarbus|Enobarbo]], Antonio<br>ti ha mandato dietro tutto il tuo tesoro, con<br>il di più della sua generosità. Il messaggero<br>è giunto sotto la mia guardia, e alla tua tenda ora<br>sta scaricando i suoi muli. |
-| [[Enobarbus|ENOBARBO]] | Lo dono a voi. |
-| SOLDATO | Non scherzare, [[Enobarbus|Enobarbo]],<br>ti dico il vero. Faresti bene a scortare il latore<br>fuori dall’accampamento. Devo attendere al mio incarico,<br>o l’avrei fatto io stesso. Il vostro Imperatore<br>continua a essere un Giove. |
+| SOLDATO | [[Enobarbus\|Enobarbo]], Antonio<br>ti ha mandato dietro tutto il tuo tesoro, con<br>il di più della sua generosità. Il messaggero<br>è giunto sotto la mia guardia, e alla tua tenda ora<br>sta scaricando i suoi muli. |
+| [[Enobarbus\|ENOBARBO]] | Lo dono a voi. |
+| SOLDATO | Non scherzare, [[Enobarbus\|Enobarbo]],<br>ti dico il vero. Faresti bene a scortare il latore<br>fuori dall’accampamento. Devo attendere al mio incarico,<br>o l’avrei fatto io stesso. Il vostro Imperatore<br>continua a essere un Giove. |
 | *(didascalia)* | Esce |
-| [[Enobarbus|ENOBARBO]] | Io [[Alone|solo]] sono il [[Villain|scellerato]] della terra,<br>e più d’ogni altro lo sento. O Antonio,<br>tu miniera di generosità, come avresti pagato<br>il mio miglior servizio, se la mia turpitudine<br>tu così [[Crown|incoroni]] d’oro! Questo mi gonfia il cuore.<br>Se un rapido pensiero non lo spezza, un mezzo più rapido<br>anticiperà il pensiero; ma il pensiero lo farà, lo sento.<br>Io combattere contro di te? No, andrò a cercare<br>qualche fossa in cui morire. La più sozza si addice meglio<br>all’ultima parte della mia vita. |
+| [[Enobarbus\|ENOBARBO]] | Io [[Alone\|solo]] sono il [[Villain\|scellerato]] della terra,<br>e più d’ogni altro lo sento. O Antonio,<br>tu miniera di generosità, come avresti pagato<br>il mio miglior servizio, se la mia turpitudine<br>tu così [[Crown\|incoroni]] d’oro! Questo mi gonfia il cuore.<br>Se un rapido pensiero non lo spezza, un mezzo più rapido<br>anticiperà il pensiero; ma il pensiero lo farà, lo sento.<br>Io combattere contro di te? No, andrò a cercare<br>qualche fossa in cui morire. La più sozza si addice meglio<br>all’ultima parte della mia vita. |
 | *(didascalia)* | Esce |
 
 
@@ -4308,7 +4308,7 @@ The [[Tragedy]] of Antony and [[Cleopatra]]
 | Chi parla | Battuta |
 |---|---|
 | *(didascalia)* | Allarmi. Entrano Antonio, e Scaro ferito |
-| SCARO | O mio prode Imperatore, questo sì che è combattere!<br>Se avessimo fatto così da principio, li avremmo ricacciati a [[Home|casa]]<br>con le bende alla testa. |
+| SCARO | O mio prode Imperatore, questo sì che è combattere!<br>Se avessimo fatto così da principio, li avremmo ricacciati a [[Home\|casa]]<br>con le bende alla testa. |
 | ANTONIO | Sanguini in abbondanza. |
 | SCARO | Avevo qui una ferita a forma di T,<br>ma ora è diventata una H. |
 | *(didascalia)* | Ritirata suonata in lontananza |
@@ -4348,17 +4348,17 @@ The [[Tragedy]] of Antony and [[Cleopatra]]
 | Chi parla | Battuta |
 |---|---|
 | *(didascalia)* | Allarme. Entra di nuovo Antonio in marcia; tamburini e trombettieri; Scaro, con altri |
-| ANTONIO | L’abbiamo ricacciato nel suo campo. Corra qualcuno avanti,<br>e faccia sapere alla [[Queen|Regina]] le nostre imprese. |
+| ANTONIO | L’abbiamo ricacciato nel suo campo. Corra qualcuno avanti,<br>e faccia sapere alla [[Queen\|Regina]] le nostre imprese. |
 | *(didascalia)* | Esce un soldato |
-| ANTONIO | Domani,<br>prima che il sole ci veda, verseremo il [[Blood|sangue]]<br>che oggi è scampato. Vi ringrazio tutti,<br>ché avete mano gagliarda, e avete combattuto<br>non come chi serve la causa, ma come se essa<br>fosse per ciascuno la propria, come per me. Vi siete mostrati tutti Ettori. |
-| *(didascalia)* | Entrate nella [[City|città]], stringete le vostre mogli, i vostri amici, |
-| ANTONIO | narrate loro le vostre gesta, mentre esse con [[Tears|lacrime]] di gioia<br>lavano il grumo dalle vostre ferite, e baciano<br>sanandoli quegli onorati squarci. |
+| ANTONIO | Domani,<br>prima che il sole ci veda, verseremo il [[Blood\|sangue]]<br>che oggi è scampato. Vi ringrazio tutti,<br>ché avete mano gagliarda, e avete combattuto<br>non come chi serve la causa, ma come se essa<br>fosse per ciascuno la propria, come per me. Vi siete mostrati tutti Ettori. |
+| *(didascalia)* | Entrate nella [[City\|città]], stringete le vostre mogli, i vostri amici, |
+| ANTONIO | narrate loro le vostre gesta, mentre esse con [[Tears\|lacrime]] di gioia<br>lavano il grumo dalle vostre ferite, e baciano<br>sanandoli quegli onorati squarci. |
 | *(didascalia)* | Entra [[Cleopatra]] |
 | ANTONIO | (A Scaro)<br>Dammi la tua mano.<br>A questa gran fata raccomanderò le tue imprese,<br>farò che i suoi ringraziamenti ti benedicano.<br>(A [[Cleopatra]], abbracciandola) O tu, giorno del mondo,<br>incatena il mio collo armato; balza tu, con vesti e tutto,<br>attraverso la corazza a prova, fino al mio cuore, e là<br>cavalca trionfando sui suoi palpiti. |
-| [[Cleopatra|CLEOPATRA]] | Signore dei signori!<br>O infinito valore, torni sorridendo<br>dal gran laccio del mondo senza esservi preso? |
-| ANTONIO | Mio [[Nightingale|usignolo]],<br>li abbiamo ricacciati nei loro letti. Come, ragazza, benché il<br>grigio<br>si mescoli un poco al nostro bruno più giovane, pure<br>abbiamo<br>un cervello che nutre i nostri nervi, e sa<br>segnare punto su punto contro la giovinezza. Guarda quest’uomo.<br>Affida alle sue labbra la tua mano benevola;<br>bacia la, mio guerriero.<br>Scaro bacia la mano di [[Cleopatra]]<br>Egli ha combattuto oggi<br>come se un dio, in odio al genere umano, avesse<br>distrutto sotto tale forma. |
-| [[Cleopatra|CLEOPATRA]] | Ti darò, amico,<br>un’armatura tutta d’oro. Era d’un [[King|re]]. |
-| ANTONIO | L’ha meritata, fosse pure ingemmata di carbonchi<br>come il carro del sacro Febo. Dammi la tua mano.<br>Per Alessandria facciamo una marcia allegra.<br>Portiamo i nostri scudi intaccati come gli uomini cui appartengono.<br>Se il nostro gran palazzo avesse la capienza<br>di accampare quest’esercito, ceneremmo tutti insieme<br>e berremmo brindisi alla sorte del giorno che viene,<br>che promette regale pericolo. Trombettieri,<br>con bronzeo fragore fate scoppiare l’orecchio della [[City|città]];<br>mescolatevi ai nostri tamburelli crepitanti,<br>perché cielo e terra facciano insieme risuonare<br>i loro suoni,<br>applaudendo il nostro arrivo. |
+| [[Cleopatra\|CLEOPATRA]] | Signore dei signori!<br>O infinito valore, torni sorridendo<br>dal gran laccio del mondo senza esservi preso? |
+| ANTONIO | Mio [[Nightingale\|usignolo]],<br>li abbiamo ricacciati nei loro letti. Come, ragazza, benché il<br>grigio<br>si mescoli un poco al nostro bruno più giovane, pure<br>abbiamo<br>un cervello che nutre i nostri nervi, e sa<br>segnare punto su punto contro la giovinezza. Guarda quest’uomo.<br>Affida alle sue labbra la tua mano benevola;<br>bacia la, mio guerriero.<br>Scaro bacia la mano di [[Cleopatra]]<br>Egli ha combattuto oggi<br>come se un dio, in odio al genere umano, avesse<br>distrutto sotto tale forma. |
+| [[Cleopatra\|CLEOPATRA]] | Ti darò, amico,<br>un’armatura tutta d’oro. Era d’un [[King\|re]]. |
+| ANTONIO | L’ha meritata, fosse pure ingemmata di carbonchi<br>come il carro del sacro Febo. Dammi la tua mano.<br>Per Alessandria facciamo una marcia allegra.<br>Portiamo i nostri scudi intaccati come gli uomini cui appartengono.<br>Se il nostro gran palazzo avesse la capienza<br>di accampare quest’esercito, ceneremmo tutti insieme<br>e berremmo brindisi alla sorte del giorno che viene,<br>che promette regale pericolo. Trombettieri,<br>con bronzeo fragore fate scoppiare l’orecchio della [[City\|città]];<br>mescolatevi ai nostri tamburelli crepitanti,<br>perché cielo e terra facciano insieme risuonare<br>i loro suoni,<br>applaudendo il nostro arrivo. |
 | *(didascalia)* | Suonano le trombe. Escono |
 
 
@@ -4396,28 +4396,28 @@ The [[Tragedy]] of Antony and [[Cleopatra]]
 
 | Chi parla | Battuta |
 |---|---|
-| *(didascalia)* | Entrano una Sentinella e la sua squadra; [[Enobarbus|Enobarbo]] segue |
-| SENTINELLA | Se non siamo dati il cambio entro quest’ora<br>dovremo tornare al [[Court|corpo]] di guardia. La [[Night|notte]]<br>è lucente, e dicono che ci schiereremo<br>alla seconda ora del mattino. |
+| *(didascalia)* | Entrano una Sentinella e la sua squadra; [[Enobarbus\|Enobarbo]] segue |
+| SENTINELLA | Se non siamo dati il cambio entro quest’ora<br>dovremo tornare al [[Court\|corpo]] di guardia. La [[Night\|notte]]<br>è lucente, e dicono che ci schiereremo<br>alla seconda ora del mattino. |
 | PRIMA GUARDIA | Quest’ultimo giorno è stato<br>duro per noi. |
-| [[Enobarbus|ENOBARBO]] | Oh, siimi testimone, [[Night|notte]]— |
+| [[Enobarbus\|ENOBARBO]] | Oh, siimi testimone, [[Night\|notte]]— |
 | SECONDA GUARDIA | Chi è quest’uomo? |
 | PRIMA GUARDIA | State vicini, e ascoltatelo. |
-| [[Enobarbus|ENOBARBO]] | Siimi testimone, o tu benedetta [[Moon|luna]],<br>quando gli uomini ribelli negli annali<br>porteranno odiosa [[Memory|memoria]], il povero [[Enobarbus|Enobarbo]]<br>si pentì davanti al tuo volto. |
-| SENTINELLA | [[Enobarbus|Enobarbo]]? |
+| [[Enobarbus\|ENOBARBO]] | Siimi testimone, o tu benedetta [[Moon\|luna]],<br>quando gli uomini ribelli negli annali<br>porteranno odiosa [[Memory\|memoria]], il povero [[Enobarbus\|Enobarbo]]<br>si pentì davanti al tuo volto. |
+| SENTINELLA | [[Enobarbus\|Enobarbo]]? |
 | SECONDA GUARDIA | Silenzio; ascoltiamo ancora. |
-| [[Enobarbus|ENOBARBO]] | O sovrana signora della vera [[Melancholy|malinconia]],<br>l’umido velenoso della [[Night|notte]] si spanda su di me,<br>affinché la vita, vera [[Rebel|ribelle]] alla mia volontà,<br>non penda più su di me. Getta il mio cuore<br>contro la selce e la durezza della mia colpa,<br>che, essiccato dal dolore, si sbriciolerà in polvere<br>e porrà fine a ogni sozzo pensiero. O Antonio,<br>più nobile di quanto la mia diserzione sia infame,<br>perdonami tu, in particolare,<br>ma il mondo mi iscriva nel registro<br>come traditore del padrone e fuggiasco.<br>O Antonio! O Antonio!<br>Muore |
+| [[Enobarbus\|ENOBARBO]] | O sovrana signora della vera [[Melancholy\|malinconia]],<br>l’umido velenoso della [[Night\|notte]] si spanda su di me,<br>affinché la vita, vera [[Rebel\|ribelle]] alla mia volontà,<br>non penda più su di me. Getta il mio cuore<br>contro la selce e la durezza della mia colpa,<br>che, essiccato dal dolore, si sbriciolerà in polvere<br>e porrà fine a ogni sozzo pensiero. O Antonio,<br>più nobile di quanto la mia diserzione sia infame,<br>perdonami tu, in particolare,<br>ma il mondo mi iscriva nel registro<br>come traditore del padrone e fuggiasco.<br>O Antonio! O Antonio!<br>Muore |
 | PRIMA GUARDIA | Parliamogli. |
 | SENTINELLA | Ascoltiamolo, ché le cose che dice<br>possono riguardare Cesare. |
 | SECONDA GUARDIA | Facciamo così. Ma dorme. |
-| SENTINELLA | Sviene, piuttosto; ché una [[Prayer|preghiera]] così cattiva come la sua<br>non fu mai fatta per il [[Sleep|sonno]]. |
+| SENTINELLA | Sviene, piuttosto; ché una [[Prayer\|preghiera]] così cattiva come la sua<br>non fu mai fatta per il [[Sleep\|sonno]]. |
 | PRIMA GUARDIA | Andiamo da lui. |
 | SECONDA GUARDIA | Svegliatevi, signore, svegliatevi; parlateci. |
 | PRIMA GUARDIA | Ci udite, signore? |
-| SENTINELLA | La mano della [[Death|morte]] l’ha ghermito. |
+| SENTINELLA | La mano della [[Death\|morte]] l’ha ghermito. |
 | *(didascalia)* | Tamburi in lontananza |
-| SENTINELLA | Udite, i tamburi<br>svegliano sommessamente i dormienti. Portiamolo<br>al [[Court|corpo]] di guardia; è uomo di rilievo. La nostra ora<br>è del tutto compiuta. |
+| SENTINELLA | Udite, i tamburi<br>svegliano sommessamente i dormienti. Portiamolo<br>al [[Court\|corpo]] di guardia; è uomo di rilievo. La nostra ora<br>è del tutto compiuta. |
 | SECONDA GUARDIA | Andiamo, allora. Potrebbe ancora riprendersi. |
-| *(didascalia)* | Escono col [[Body|corpo]] |
+| *(didascalia)* | Escono col [[Body\|corpo]] |
 
 
 
@@ -4440,7 +4440,7 @@ The [[Tragedy]] of Antony and [[Cleopatra]]
 | *(didascalia)* | Entrano Antonio e Scaro col loro esercito |
 | ANTONIO | Il loro apprestamento oggi è per mare;<br>non li accontentiamo per terra. |
 | SCARO | Per entrambi, mio signore. |
-| ANTONIO | Vorrei che combattessero nel [[Fire|fuoco]] o nell’aria;<br>combatteremmo anche là. Ma è così: la nostra fanteria<br>sui colli adiacenti alla [[City|città]]<br>resterà con noi. L’ordine per il mare è dato.<br>Sono usciti dal porto—<br>dove potremo meglio scoprire il loro schieramento<br>e osservare i loro sforzi. |
+| ANTONIO | Vorrei che combattessero nel [[Fire\|fuoco]] o nell’aria;<br>combatteremmo anche là. Ma è così: la nostra fanteria<br>sui colli adiacenti alla [[City\|città]]<br>resterà con noi. L’ordine per il mare è dato.<br>Sono usciti dal porto—<br>dove potremo meglio scoprire il loro schieramento<br>e osservare i loro sforzi. |
 | *(didascalia)* | Escono |
 
 
@@ -4494,17 +4494,17 @@ The [[Tragedy]] of Antony and [[Cleopatra]]
 | *(didascalia)* | Allarme in lontananza, come di battaglia navale. Entrano Antonio e Scaro |
 | ANTONIO | Non si sono ancora affrontati. Là dove sta quel pino<br>scoprirò tutto. Ti porterò notizia<br>subito di come pare che vada. |
 | *(didascalia)* | Esce |
-| SCARO | Le rondini hanno fatto<br>i loro nidi nelle vele di [[Cleopatra]]. Gli auguri<br>dicono di non sapere, non sanno dire, guardano cupi,<br>e non osano parlare di ciò che sanno. Antonio<br>è valoroso, e abbattuto, e a scatti<br>le sue fortune logore gli danno [[Hope|speranza]] e [[Fear|paura]]<br>di ciò che ha e non ha. |
+| SCARO | Le rondini hanno fatto<br>i loro nidi nelle vele di [[Cleopatra]]. Gli auguri<br>dicono di non sapere, non sanno dire, guardano cupi,<br>e non osano parlare di ciò che sanno. Antonio<br>è valoroso, e abbattuto, e a scatti<br>le sue fortune logore gli danno [[Hope\|speranza]] e [[Fear\|paura]]<br>di ciò che ha e non ha. |
 | *(didascalia)* | Entra Antonio |
 | ANTONIO | Tutto è perduto.<br>Questa sozza Egiziana mi ha tradito.<br>La mia flotta si è arresa al nemico, e laggiù<br>gettano in aria i berretti e brindano insieme<br>come amici perduti da tempo. Sgualdrina tre volte voltafaccia! Sei tu<br>che mi hai venduto a questo novizio, e il mio cuore<br>fa guerra soltanto a te. Di’ loro di fuggire tutti;<br>ché quando mi sarò vendicato del mio incanto,<br>avrò fatto tutto. Di’ loro di fuggire tutti. Vattene. |
 | *(didascalia)* | Esce Scaro |
-| ANTONIO | O sole, il tuo sorgere non lo vedrò più.<br>Qui la Fortuna e Antonio si separano; proprio qui<br>ci stringiamo la mano. Tutto arriva a questo? I cuori<br>che mi scodinzolavano ai calcagni, ai quali concessi<br>i loro desideri, si struggono e versano le loro dolcezze<br>su Cesare in fiore; e questo pino è scortecciato,<br>lui che li sovrastava tutti. Sono tradito.<br>Oh, quest’[[Soul|anima]] falsa d’[[Egypt|Egitto]]! Questo [[Grave|funesto]] incanto,<br>il cui occhio chiamava fuori le mie guerre e le richiamava a [[Home|casa]],<br>il cui seno era il mio diadema, il mio fine supremo,<br>come una vera zingara con un gioco di prestigio<br>mi ha ingannato fino al cuore stesso della perdizione.<br>Ehi, Eros, Eros! |
+| ANTONIO | O sole, il tuo sorgere non lo vedrò più.<br>Qui la Fortuna e Antonio si separano; proprio qui<br>ci stringiamo la mano. Tutto arriva a questo? I cuori<br>che mi scodinzolavano ai calcagni, ai quali concessi<br>i loro desideri, si struggono e versano le loro dolcezze<br>su Cesare in fiore; e questo pino è scortecciato,<br>lui che li sovrastava tutti. Sono tradito.<br>Oh, quest’[[Soul\|anima]] falsa d’[[Egypt\|Egitto]]! Questo [[Grave\|funesto]] incanto,<br>il cui occhio chiamava fuori le mie guerre e le richiamava a [[Home\|casa]],<br>il cui seno era il mio diadema, il mio fine supremo,<br>come una vera zingara con un gioco di prestigio<br>mi ha ingannato fino al cuore stesso della perdizione.<br>Ehi, Eros, Eros! |
 | *(didascalia)* | Entra [[Cleopatra]] |
 | ANTONIO | Ah, tu incantesimo! Via di qua. |
-| [[Cleopatra|CLEOPATRA]] | Perché il mio signore è furente contro il suo [[Love|amore]]? |
-| ANTONIO | Sparisci, o ti darò ciò che meriti<br>e macchierò il trionfo di Cesare. Che ti prenda<br>e ti innalzi davanti alla plebe urlante;<br>segui il suo carro, come la più grande macchia<br>di tutto il tuo sesso; da vero [[Monster|mostro]] sii mostrata<br>ai più miseri gnomi, agli sciocchi, e lascia<br>che la paziente [[Octavia|Ottavia]] ti ari il viso<br>con le sue unghie preparate. |
+| [[Cleopatra\|CLEOPATRA]] | Perché il mio signore è furente contro il suo [[Love\|amore]]? |
+| ANTONIO | Sparisci, o ti darò ciò che meriti<br>e macchierò il trionfo di Cesare. Che ti prenda<br>e ti innalzi davanti alla plebe urlante;<br>segui il suo carro, come la più grande macchia<br>di tutto il tuo sesso; da vero [[Monster\|mostro]] sii mostrata<br>ai più miseri gnomi, agli sciocchi, e lascia<br>che la paziente [[Octavia\|Ottavia]] ti ari il viso<br>con le sue unghie preparate. |
 | *(didascalia)* | Esce [[Cleopatra]] |
-| ANTONIO | È [[Well|bene]] che tu sia andata,<br>se è [[Well|bene]] vivere. Ma meglio sarebbe<br>che tu cadessi sotto la mia furia, ché una sola [[Death|morte]]<br>avrebbe potuto prevenirne molte. Eros, ehi!<br>La camicia di Nesso è su di me. Insegnami,<br>Alcide, tu mio antenato, la tua rabbia.<br>Lascia ch’io scagli Lica sulle corna della [[Moon|luna]],<br>e con quelle mani che strinsero la clava più pesante<br>soggioghi il mio [[Self|io]] più degno. La [[Witch|strega]] morirà.<br>Al giovane ragazzo romano mi ha venduto, e io cado<br>sotto questa trama. Ne morrà. Eros, ehi! |
+| ANTONIO | È [[Well\|bene]] che tu sia andata,<br>se è [[Well\|bene]] vivere. Ma meglio sarebbe<br>che tu cadessi sotto la mia furia, ché una sola [[Death\|morte]]<br>avrebbe potuto prevenirne molte. Eros, ehi!<br>La camicia di Nesso è su di me. Insegnami,<br>Alcide, tu mio antenato, la tua rabbia.<br>Lascia ch’io scagli Lica sulle corna della [[Moon\|luna]],<br>e con quelle mani che strinsero la clava più pesante<br>soggioghi il mio [[Self\|io]] più degno. La [[Witch\|strega]] morirà.<br>Al giovane ragazzo romano mi ha venduto, e io cado<br>sotto questa trama. Ne morrà. Eros, ehi! |
 | *(didascalia)* | Esce |
 
 
@@ -4525,10 +4525,10 @@ The [[Tragedy]] of Antony and [[Cleopatra]]
 
 | Chi parla | Battuta |
 |---|---|
-| *(didascalia)* | Entrano [[Cleopatra]], [[Charmian|Carmiana]], Iras, Mardiano |
-| [[Cleopatra|CLEOPATRA]] | Aiutatemi, donne mie! Oh, è più folle<br>di Telamone per il suo scudo; il cinghiale di Tessaglia<br>non fu mai così schiumante. |
-| [[Charmian|CARMIANA]] | Al monumento!<br>Là rinchiudetevi, e mandategli a dire che siete morta.<br>L’[[Soul|anima]] e il [[Body|corpo]] non si lacerano più nel separarsi<br>di quanto faccia la [[Greatness|grandezza]] nell’andarsene. |
-| [[Cleopatra|CLEOPATRA]] | Al monumento!<br>Mardiano, va’ a dirgli che mi sono uccisa.<br>Di’ che l’ultima parola che dissi fu «Antonio»,<br>e dilla, ti prego, in modo che faccia pietà. Va’, Mardiano,<br>e riportami come prende la mia [[Death|morte]]. Al<br>monumento! |
+| *(didascalia)* | Entrano [[Cleopatra]], [[Charmian\|Carmiana]], Iras, Mardiano |
+| [[Cleopatra\|CLEOPATRA]] | Aiutatemi, donne mie! Oh, è più folle<br>di Telamone per il suo scudo; il cinghiale di Tessaglia<br>non fu mai così schiumante. |
+| [[Charmian\|CARMIANA]] | Al monumento!<br>Là rinchiudetevi, e mandategli a dire che siete morta.<br>L’[[Soul\|anima]] e il [[Body\|corpo]] non si lacerano più nel separarsi<br>di quanto faccia la [[Greatness\|grandezza]] nell’andarsene. |
+| [[Cleopatra\|CLEOPATRA]] | Al monumento!<br>Mardiano, va’ a dirgli che mi sono uccisa.<br>Di’ che l’ultima parola che dissi fu «Antonio»,<br>e dilla, ti prego, in modo che faccia pietà. Va’, Mardiano,<br>e riportami come prende la mia [[Death\|morte]]. Al<br>monumento! |
 | *(didascalia)* | Escono |
 
 
@@ -4618,66 +4618,66 @@ The [[Tragedy]] of Antony and [[Cleopatra]]
 | *(didascalia)* | Entrano Antonio ed Eros |
 | ANTONIO | Eros, mi vedi ancora? |
 | EROS | Sì, nobile signore. |
-| ANTONIO | Talvolta vediamo una nube che pare un drago,<br>un vapore talvolta simile a un orso o a un [[Lion|leone]],<br>una cittadella turrita, una rupe sospesa,<br>un monte biforcuto, o un azzurro promontorio<br>con alberi sopra che accennano al mondo<br>e ingannano i nostri occhi con l’aria. Hai visto questi segni;<br>sono le mascherate del nero vespro. |
+| ANTONIO | Talvolta vediamo una nube che pare un drago,<br>un vapore talvolta simile a un orso o a un [[Lion\|leone]],<br>una cittadella turrita, una rupe sospesa,<br>un monte biforcuto, o un azzurro promontorio<br>con alberi sopra che accennano al mondo<br>e ingannano i nostri occhi con l’aria. Hai visto questi segni;<br>sono le mascherate del nero vespro. |
 | EROS | Sì, mio signore. |
-| ANTONIO | Ciò che ora è un [[Horse|cavallo]], in un batter di pensiero<br>le nubi lo scancellano, e lo rendono indistinto<br>come l’[[Water|acqua]] nell’[[Water|acqua]]. |
+| ANTONIO | Ciò che ora è un [[Horse\|cavallo]], in un batter di pensiero<br>le nubi lo scancellano, e lo rendono indistinto<br>come l’[[Water\|acqua]] nell’[[Water\|acqua]]. |
 | EROS | È così, mio signore. |
-| ANTONIO | Mio buon ragazzo Eros, ora il tuo capitano è<br>proprio un tale [[Body|corpo]]. Qui io sono Antonio,<br>eppure non posso serbare questa forma visibile, ragazzo mio.<br>Feci queste guerre per l’[[Egypt|Egitto]], e la [[Queen|Regina]]—<br>di cui credevo d’avere il cuore, ché ella aveva il mio,<br>il quale, finché fu mio, aveva annessi a sé<br>un milione d’altri, ora perduti—ella, Eros, ha<br>truccato le carte con Cesare, e ha giocato falsamente la mia gloria<br>a vantaggio del trionfo d’un nemico.<br>No, non piangere, gentile Eros. Ci resta<br>noi stessi per porre fine a noi stessi. |
+| ANTONIO | Mio buon ragazzo Eros, ora il tuo capitano è<br>proprio un tale [[Body\|corpo]]. Qui io sono Antonio,<br>eppure non posso serbare questa forma visibile, ragazzo mio.<br>Feci queste guerre per l’[[Egypt\|Egitto]], e la [[Queen\|Regina]]—<br>di cui credevo d’avere il cuore, ché ella aveva il mio,<br>il quale, finché fu mio, aveva annessi a sé<br>un milione d’altri, ora perduti—ella, Eros, ha<br>truccato le carte con Cesare, e ha giocato falsamente la mia gloria<br>a vantaggio del trionfo d’un nemico.<br>No, non piangere, gentile Eros. Ci resta<br>noi stessi per porre fine a noi stessi. |
 | *(didascalia)* | Entra Mardiano |
-| ANTONIO | Oh, la tua vile signora,<br>mi ha derubato della mia [[Sword|spada]]! |
+| ANTONIO | Oh, la tua vile signora,<br>mi ha derubato della mia [[Sword\|spada]]! |
 | MARDIANO | No, Antonio,<br>la mia padrona ti amava, e le sue sorti si mescolarono<br>alle tue interamente. |
-| ANTONIO | Va’ via, eunuco insolente, taci!<br>Mi ha tradito, e morrà di [[Death|morte]]. |
-| MARDIANO | La [[Death|morte]] d’una persona può pagarsi una volta sola,<br>e quella ella l’ha già saldata. Ciò che vorresti fare<br>è già fatto per te. L’ultima cosa che disse<br>fu «Antonio, nobilissimo Antonio!»<br>Poi nel mezzo un gemito lacerante spezzò<br>il nome di Antonio. Rimase diviso<br>fra il suo cuore e le sue labbra. Rese la vita,<br>col tuo nome così sepolto in lei. |
+| ANTONIO | Va’ via, eunuco insolente, taci!<br>Mi ha tradito, e morrà di [[Death\|morte]]. |
+| MARDIANO | La [[Death\|morte]] d’una persona può pagarsi una volta sola,<br>e quella ella l’ha già saldata. Ciò che vorresti fare<br>è già fatto per te. L’ultima cosa che disse<br>fu «Antonio, nobilissimo Antonio!»<br>Poi nel mezzo un gemito lacerante spezzò<br>il nome di Antonio. Rimase diviso<br>fra il suo cuore e le sue labbra. Rese la vita,<br>col tuo nome così sepolto in lei. |
 | ANTONIO | Morta, dunque? |
 | MARDIANO | Morta. |
-| ANTONIO | Disarmami, Eros. Il compito del lungo giorno è finito,<br>e dobbiamo [[Sleep|dormire]]. (A Mardiano) Che tu te ne vada<br>di qui salvo<br>paga riccamente la tua fatica. Va’. |
+| ANTONIO | Disarmami, Eros. Il compito del lungo giorno è finito,<br>e dobbiamo [[Sleep\|dormire]]. (A Mardiano) Che tu te ne vada<br>di qui salvo<br>paga riccamente la tua fatica. Va’. |
 | *(didascalia)* | Esce Mardiano |
-| ANTONIO | Via, strappalo via.<br>Eros aiuta Antonio a disarmarsi<br>Il settemplice scudo d’[[Ajax|Aiace]] non può tenere<br>lontano l’assalto dal mio cuore. Oh, spaccatevi, miei fianchi!<br>Cuore, per una volta sii più forte del tuo involucro;<br>spezza il tuo fragile astuccio. Presto, Eros, presto.<br>Non più soldato. Pezzi ammaccati, andate;<br>siete stati nobilmente portati.—Lasciami un poco. |
+| ANTONIO | Via, strappalo via.<br>Eros aiuta Antonio a disarmarsi<br>Il settemplice scudo d’[[Ajax\|Aiace]] non può tenere<br>lontano l’assalto dal mio cuore. Oh, spaccatevi, miei fianchi!<br>Cuore, per una volta sii più forte del tuo involucro;<br>spezza il tuo fragile astuccio. Presto, Eros, presto.<br>Non più soldato. Pezzi ammaccati, andate;<br>siete stati nobilmente portati.—Lasciami un poco. |
 | *(didascalia)* | Esce Eros |
-| ANTONIO | Ti raggiungerò, [[Cleopatra]], e<br>piangerò per il mio perdono. Così dev’essere, ché ora<br>ogni durata è tortura. Poiché la torcia è spenta,<br>sdraiati, e non errare oltre. Ora ogni fatica<br>guasta ciò che compie; sì, la forza stessa s’impiglia<br>nel proprio vigore. Suggella, dunque, e tutto è fatto.<br>Eros!—Vengo, mia [[Queen|regina]].—Eros!—Aspettami.<br>Dove le anime giacciono sui [[Flowers|fiori]] andremo mano nella mano,<br>e col nostro portamento gagliardo faremo stupire i [[Ghosts|fantasmi]].<br>Didone e il suo Enea resteranno senza séguito,<br>e tutta la schiera sarà nostra. Vieni, Eros, Eros! |
+| ANTONIO | Ti raggiungerò, [[Cleopatra]], e<br>piangerò per il mio perdono. Così dev’essere, ché ora<br>ogni durata è tortura. Poiché la torcia è spenta,<br>sdraiati, e non errare oltre. Ora ogni fatica<br>guasta ciò che compie; sì, la forza stessa s’impiglia<br>nel proprio vigore. Suggella, dunque, e tutto è fatto.<br>Eros!—Vengo, mia [[Queen\|regina]].—Eros!—Aspettami.<br>Dove le anime giacciono sui [[Flowers\|fiori]] andremo mano nella mano,<br>e col nostro portamento gagliardo faremo stupire i [[Ghosts\|fantasmi]].<br>Didone e il suo Enea resteranno senza séguito,<br>e tutta la schiera sarà nostra. Vieni, Eros, Eros! |
 | *(didascalia)* | Entra Eros |
 | EROS | Che vuole il mio signore? |
-| ANTONIO | Da quando [[Cleopatra]] è morta<br>ho vissuto in tale disonore che gli dèi<br>detestano la mia bassezza. Io, che con la mia [[Sword|spada]]<br>squartai il mondo, e sul verde dorso di Nettuno<br>feci città di navi, mi condanno a mancare<br>del [[Courage|coraggio]] d’una donna; animo meno nobile<br>di colei che con la sua [[Death|morte]] dice al nostro Cesare<br>«Sono conquistatrice di me stessa». Hai giurato, Eros,<br>che quando fosse giunta l’estrema necessità, la quale ora<br>è giunta davvero—quando io vedessi dietro di me<br>l’inevitabile inseguirsi di<br>disgrazia e orrore—che al mio comando<br>tu allora m’avresti ucciso. Fallo. Il [[Time|momento]] è venuto.<br>Non colpisci me; è Cesare che sconfiggi.<br>Metti colore nella tua guancia. |
+| ANTONIO | Da quando [[Cleopatra]] è morta<br>ho vissuto in tale disonore che gli dèi<br>detestano la mia bassezza. Io, che con la mia [[Sword\|spada]]<br>squartai il mondo, e sul verde dorso di Nettuno<br>feci città di navi, mi condanno a mancare<br>del [[Courage\|coraggio]] d’una donna; animo meno nobile<br>di colei che con la sua [[Death\|morte]] dice al nostro Cesare<br>«Sono conquistatrice di me stessa». Hai giurato, Eros,<br>che quando fosse giunta l’estrema necessità, la quale ora<br>è giunta davvero—quando io vedessi dietro di me<br>l’inevitabile inseguirsi di<br>disgrazia e orrore—che al mio comando<br>tu allora m’avresti ucciso. Fallo. Il [[Time\|momento]] è venuto.<br>Non colpisci me; è Cesare che sconfiggi.<br>Metti colore nella tua guancia. |
 | EROS | Gli dèi me ne trattengano!<br>Farò io quel che tutti i dardi dei Parti,<br>benché nemici, sbagliando il bersaglio non poterono? |
 | ANTONIO | Eros,<br>vorresti stare a una finestra nella grande Roma e vedere<br>il tuo padrone così con le braccia legate, piegando<br>il suo collo domato, il volto sottomesso<br>a penetrante vergogna, mentre il seggio su ruote<br>del fortunato Cesare, tratto davanti a lui, marchiava<br>la bassezza che ne seguiva? |
 | EROS | Non vorrei vederlo. |
-| ANTONIO | Vieni, dunque; ché con una ferita devo essere guarito.<br>Sguaina quella tua onesta [[Sword|spada]], che hai portato<br>utilissima per il tuo paese. |
+| ANTONIO | Vieni, dunque; ché con una ferita devo essere guarito.<br>Sguaina quella tua onesta [[Sword\|spada]], che hai portato<br>utilissima per il tuo paese. |
 | EROS | Oh signore, perdonatemi! 80 |
 | ANTONIO | Quando ti feci libero, non giurasti allora<br>di fare questo quando te lo ordinassi? Fallo subito,<br>o i tuoi servizi precedenti non sono altro<br>che casi senza scopo. Sguaina, e vieni. |
 | EROS | Volgete via da me allora quel nobile volto<br>in cui riposa l’adorazione del mondo intero. |
 | ANTONIO | (voltandosi) Ecco fatto! |
-| EROS | La mia [[Sword|spada]] è sguainata. |
+| EROS | La mia [[Sword\|spada]] è sguainata. |
 | ANTONIO | Allora faccia subito<br>ciò per cui l’hai sguainata. |
 | EROS | Mio caro padrone, mio capitano, e mio Imperatore: lasciate ch’io dica,<br>prima di dare questo colpo sanguinoso, addio. |
 | ANTONIO | È detto, uomo; e addio. |
 | EROS | Addio, gran capo. Colpisco ora? |
 | ANTONIO | Ora, Eros. |
 | *(didascalia)* | Eros si trafigge |
-| EROS | Ecco, dunque, così io sfuggo al dolore<br>della [[Death|morte]] d’Antonio.<br>Muore |
-| ANTONIO | Tre volte più nobile di me,<br>tu m’insegni, o valoroso Eros, ciò<br>che io dovrei e tu non potesti. La mia [[Queen|regina]] ed Eros<br>col loro prode esempio hanno guadagnato su di me<br>una nobiltà negli annali. Ma io sarò<br>uno sposo nella mia [[Death|morte]], e vi correrò dentro<br>come al letto d’un’[[Lover|amante]]. Vieni dunque, ed Eros,<br>il tuo padrone muore tuo scolaro. A far così<br>ho imparato da te.<br>Si trafigge<br>Come, non morto? Non morto?<br>La guardia, ehi! Oh, finitemi! |
+| EROS | Ecco, dunque, così io sfuggo al dolore<br>della [[Death\|morte]] d’Antonio.<br>Muore |
+| ANTONIO | Tre volte più nobile di me,<br>tu m’insegni, o valoroso Eros, ciò<br>che io dovrei e tu non potesti. La mia [[Queen\|regina]] ed Eros<br>col loro prode esempio hanno guadagnato su di me<br>una nobiltà negli annali. Ma io sarò<br>uno sposo nella mia [[Death\|morte]], e vi correrò dentro<br>come al letto d’un’[[Lover\|amante]]. Vieni dunque, ed Eros,<br>il tuo padrone muore tuo scolaro. A far così<br>ho imparato da te.<br>Si trafigge<br>Come, non morto? Non morto?<br>La guardia, ehi! Oh, finitemi! |
 | *(didascalia)* | Entrano una guardia e Decreta |
 | PRIMA GUARDIA | Che rumore è questo? |
 | ANTONIO | Ho fatto male il mio lavoro, amici. Oh, portate a termine<br>ciò che ho cominciato! |
 | SECONDA GUARDIA | La stella è caduta. |
-| PRIMA GUARDIA | E il [[Time|tempo]] è al suo termine. |
+| PRIMA GUARDIA | E il [[Time\|tempo]] è al suo termine. |
 | TUTTE LE GUARDIE | Ahimè<br>e sventura! |
 | ANTONIO | Chi mi ama mi colpisca a morte. |
 | PRIMA GUARDIA | Non io. |
 | SECONDA GUARDIA | Né io. |
 | TERZA GUARDIA | Né alcuno. |
 | *(didascalia)* | Escono le guardie |
-| DECRETA | La tua [[Death|morte]] e le tue sorti dicono ai tuoi seguaci di fuggire.<br>Prende la [[Sword|spada]] d’Antonio<br>Questa [[Sword|spada]], solo mostrata a Cesare, con questa notizia,<br>mi farà entrare nelle sue grazie. |
+| DECRETA | La tua [[Death\|morte]] e le tue sorti dicono ai tuoi seguaci di fuggire.<br>Prende la [[Sword\|spada]] d’Antonio<br>Questa [[Sword\|spada]], solo mostrata a Cesare, con questa notizia,<br>mi farà entrare nelle sue grazie. |
 | *(didascalia)* | Entra Diomede |
 | DIOMEDE | Dov’è Antonio? |
 | DECRETA | Là, Diomede, là. |
 | DIOMEDE | Vive? Non vuoi rispondere, uomo? |
 | *(didascalia)* | Esce Decreta |
-| ANTONIO | Sei tu là, Diomede? Sguaina la tua [[Sword|spada]], e dammi<br>colpi sufficienti per la [[Death|morte]]. |
+| ANTONIO | Sei tu là, Diomede? Sguaina la tua [[Sword\|spada]], e dammi<br>colpi sufficienti per la [[Death\|morte]]. |
 | DIOMEDE | Assolutissimo signore,<br>la mia padrona [[Cleopatra]] mi ha mandato da te. |
 | ANTONIO | Quando ti ha mandato? |
 | DIOMEDE | Ora, mio signore. |
 | ANTONIO | Dov’è? |
-| DIOMEDE | Chiusa nel suo monumento. Ebbe un profetico [[Fear|timore]]<br>di ciò che è avvenuto; ché quando vide—<br>cosa che non si troverà mai vera—che sospettavate<br>ch’ella avesse pattuito con Cesare, e che la vostra ira<br>non si sarebbe placata, mandò a dire ch’era morta;<br>ma temendo poi come ciò potesse operare, ha mandato<br>me a proclamare la [[Truth|verità]]; e sono venuto,<br>lo temo, troppo tardi. |
+| DIOMEDE | Chiusa nel suo monumento. Ebbe un profetico [[Fear\|timore]]<br>di ciò che è avvenuto; ché quando vide—<br>cosa che non si troverà mai vera—che sospettavate<br>ch’ella avesse pattuito con Cesare, e che la vostra ira<br>non si sarebbe placata, mandò a dire ch’era morta;<br>ma temendo poi come ciò potesse operare, ha mandato<br>me a proclamare la [[Truth\|verità]]; e sono venuto,<br>lo temo, troppo tardi. |
 | ANTONIO | Troppo tardi, buon Diomede. Chiama la mia guardia, ti prego. |
 | DIOMEDE | Ehi, la guardia dell’Imperatore! La guardia, ehi<br>Venite, il vostro signore chiama. |
 | *(didascalia)* | Entrano quattro o cinque della guardia d’Antonio |
@@ -4733,39 +4733,39 @@ The [[Tragedy]] of Antony and [[Cleopatra]]
 
 | Chi parla | Battuta |
 |---|---|
-| *(didascalia)* | Entrano [[Cleopatra]] e le sue ancelle in alto, con [[Charmian|Carmiana]] e Iras |
-| [[Cleopatra|CLEOPATRA]] | O [[Charmian|Carmiana]], non me ne andrò mai di qui. |
-| [[Charmian|CARMIANA]] | Confortatevi, cara madama. |
-| [[Cleopatra|CLEOPATRA]] | No, non voglio.<br>Ogni evento strano e terribile è benvenuto,<br>ma i conforti li disprezziamo. La misura del nostro dolore,<br>proporzionata alla sua causa, dev’essere grande<br>quanto ciò che lo produce. |
+| *(didascalia)* | Entrano [[Cleopatra]] e le sue ancelle in alto, con [[Charmian\|Carmiana]] e Iras |
+| [[Cleopatra\|CLEOPATRA]] | O [[Charmian\|Carmiana]], non me ne andrò mai di qui. |
+| [[Charmian\|CARMIANA]] | Confortatevi, cara madama. |
+| [[Cleopatra\|CLEOPATRA]] | No, non voglio.<br>Ogni evento strano e terribile è benvenuto,<br>ma i conforti li disprezziamo. La misura del nostro dolore,<br>proporzionata alla sua causa, dev’essere grande<br>quanto ciò che lo produce. |
 | *(didascalia)* | Entra Diomede in basso |
-| [[Cleopatra|CLEOPATRA]] | Ebbene? È morto? |
-| DIOMEDE | La sua [[Death|morte]] è su di lui, ma non è morto.<br>Guardate dall’altro lato del vostro monumento.<br>La sua guardia ve l’ha portato. |
+| [[Cleopatra\|CLEOPATRA]] | Ebbene? È morto? |
+| DIOMEDE | La sua [[Death\|morte]] è su di lui, ma non è morto.<br>Guardate dall’altro lato del vostro monumento.<br>La sua guardia ve l’ha portato. |
 | *(didascalia)* | Entra in basso Antonio, portato dalla guardia |
-| [[Cleopatra|CLEOPATRA]] | O sole, brucia la grande sfera in cui ti muovi; resti al buio<br>la riva mutevole del mondo! O Antonio, 11<br>Antonio, Antonio! Aiuto, [[Charmian|Carmiana]],<br>aiuto, Iras, aiuto, aiuto, amici là sotto!<br>Tiriamolo quassù. |
+| [[Cleopatra\|CLEOPATRA]] | O sole, brucia la grande sfera in cui ti muovi; resti al buio<br>la riva mutevole del mondo! O Antonio, 11<br>Antonio, Antonio! Aiuto, [[Charmian\|Carmiana]],<br>aiuto, Iras, aiuto, aiuto, amici là sotto!<br>Tiriamolo quassù. |
 | ANTONIO | Calma. Non il valore di Cesare<br>ha abbattuto Antonio, ma quello di Antonio<br>ha trionfato su se stesso. |
-| [[Cleopatra|CLEOPATRA]] | Così doveva essere, che nessuno tranne Antonio vincesse Antonio.<br>Ma che sventura che sia così! |
-| ANTONIO | Sto morendo, [[Egypt|Egitto]], morendo. Soltanto<br>importuno qui la [[Death|morte]] un poco, finché<br>di molte migliaia di baci il povero ultimo<br>non deponga sulle tue labbra. |
-| [[Cleopatra|CLEOPATRA]] | Non oso, caro, caro mio signore, perdonate. Non oso,<br>per non essere presa. Né la mostra imperiosa<br>del pienamente fortunato Cesare sarà mai<br>ornata di me, se coltello, droghe, serpenti hanno<br>filo, morso o effetto. Sono al sicuro.<br>Vostra moglie, [[Octavia|Ottavia]], coi suoi occhi modesti<br>e la sua quieta sentenza, non acquisterà [[Honour|onore]]<br>abbassando lo sguardo su di me. Ma venite, venite, Antonio.—<br>Aiutatemi, mie donne.—Dobbiamo tirarti su.<br>Aiutate, buoni amici. |
+| [[Cleopatra\|CLEOPATRA]] | Così doveva essere, che nessuno tranne Antonio vincesse Antonio.<br>Ma che sventura che sia così! |
+| ANTONIO | Sto morendo, [[Egypt\|Egitto]], morendo. Soltanto<br>importuno qui la [[Death\|morte]] un poco, finché<br>di molte migliaia di baci il povero ultimo<br>non deponga sulle tue labbra. |
+| [[Cleopatra\|CLEOPATRA]] | Non oso, caro, caro mio signore, perdonate. Non oso,<br>per non essere presa. Né la mostra imperiosa<br>del pienamente fortunato Cesare sarà mai<br>ornata di me, se coltello, droghe, serpenti hanno<br>filo, morso o effetto. Sono al sicuro.<br>Vostra moglie, [[Octavia\|Ottavia]], coi suoi occhi modesti<br>e la sua quieta sentenza, non acquisterà [[Honour\|onore]]<br>abbassando lo sguardo su di me. Ma venite, venite, Antonio.—<br>Aiutatemi, mie donne.—Dobbiamo tirarti su.<br>Aiutate, buoni amici. |
 | ANTONIO | Oh presto, o me ne vado! |
-| [[Cleopatra|CLEOPATRA]] | Ecco davvero un bel gioco. Come pesa il mio signore!<br>Tutta la nostra forza si è mutata in pesantezza,<br>ed è questa a fare il peso. Avessi la potenza della grande Giunone,<br>Mercurio dalle ali forti ti solleverebbe<br>e ti porrebbe al fianco di Giove. Su, vieni ancora un poco.<br>Chi desidera fu sempre sciocco. Oh vieni, vieni, vieni!<br>Issano Antonio in alto fino a [[Cleopatra]]<br>E benvenuto, benvenuto! Muori quando avrai vissuto,<br>ravvivati col bacio. Se le mie labbra avessero quel potere,<br>così le consumerei.<br>Si baciano |
+| [[Cleopatra\|CLEOPATRA]] | Ecco davvero un bel gioco. Come pesa il mio signore!<br>Tutta la nostra forza si è mutata in pesantezza,<br>ed è questa a fare il peso. Avessi la potenza della grande Giunone,<br>Mercurio dalle ali forti ti solleverebbe<br>e ti porrebbe al fianco di Giove. Su, vieni ancora un poco.<br>Chi desidera fu sempre sciocco. Oh vieni, vieni, vieni!<br>Issano Antonio in alto fino a [[Cleopatra]]<br>E benvenuto, benvenuto! Muori quando avrai vissuto,<br>ravvivati col bacio. Se le mie labbra avessero quel potere,<br>così le consumerei.<br>Si baciano |
 | TUTTI GLI ASTANTI | Vista dolorosa. |
-| ANTONIO | Sto morendo, [[Egypt|Egitto]], morendo.<br>Datemi un po’ di vino, e lasciatemi parlare un poco. |
-| [[Cleopatra|CLEOPATRA]] | No, lasciate parlare me, e lasciatemi inveire così forte<br>che la falsa sgualdrina Fortuna spezzi la sua [[Wheel|ruota]],<br>provocata dal mio oltraggio. |
-| ANTONIO | Una parola, dolce [[Queen|regina]].<br>Da Cesare cercate il vostro [[Honour|onore]], insieme alla salvezza. Oh! |
-| [[Cleopatra|CLEOPATRA]] | Non vanno insieme. |
+| ANTONIO | Sto morendo, [[Egypt\|Egitto]], morendo.<br>Datemi un po’ di vino, e lasciatemi parlare un poco. |
+| [[Cleopatra\|CLEOPATRA]] | No, lasciate parlare me, e lasciatemi inveire così forte<br>che la falsa sgualdrina Fortuna spezzi la sua [[Wheel\|ruota]],<br>provocata dal mio oltraggio. |
+| ANTONIO | Una parola, dolce [[Queen\|regina]].<br>Da Cesare cercate il vostro [[Honour\|onore]], insieme alla salvezza. Oh! |
+| [[Cleopatra\|CLEOPATRA]] | Non vanno insieme. |
 | ANTONIO | Gentile, ascoltatemi.<br>Fra quelli attorno a Cesare non fidatevi che di Proculeio. |
-| [[Cleopatra|CLEOPATRA]] | Alla mia risolutezza e alle mie mani mi fiderò,<br>a nessuno attorno a Cesare. |
+| [[Cleopatra\|CLEOPATRA]] | Alla mia risolutezza e alle mie mani mi fiderò,<br>a nessuno attorno a Cesare. |
 | ANTONIO | Il misero mutamento ora alla mia fine<br>non compiangetelo né ve ne dolete, ma compiacete i vostri pensieri<br>nutrendoli con quelle mie fortune d’un tempo,<br>in cui vissi il più grande principe del mondo,<br>il più nobile; e ora non muoio bassamente,<br>non da codardo mi tolgo l’elmo davanti<br>al mio compatriota; un Romano da un Romano<br>valorosamente vinto. Ora il mio spirito se ne va;<br>non posso più. |
-| [[Cleopatra|CLEOPATRA]] | Nobilissimo fra gli uomini, vuoi morire?<br>Non hai cura di me? Devo restare<br>in questo mondo scipito, che in tua assenza non è<br>meglio d’un porcile?<br>Antonio muore<br>Oh guardate, mie donne,<br>la [[Crown|corona]] della terra si scioglie. Mio signore!<br>Oh, appassita è la ghirlanda della guerra.<br>Il vessillo del soldato è caduto. Ragazzi e ragazze<br>sono ora alla pari con gli uomini. La differenza è finita,<br>e non resta più nulla di notevole<br>sotto la [[Moon|luna]] che ci visita.<br>Sviene |
-| [[Charmian|CARMIANA]] | Oh, calma, signora! |
+| [[Cleopatra\|CLEOPATRA]] | Nobilissimo fra gli uomini, vuoi morire?<br>Non hai cura di me? Devo restare<br>in questo mondo scipito, che in tua assenza non è<br>meglio d’un porcile?<br>Antonio muore<br>Oh guardate, mie donne,<br>la [[Crown\|corona]] della terra si scioglie. Mio signore!<br>Oh, appassita è la ghirlanda della guerra.<br>Il vessillo del soldato è caduto. Ragazzi e ragazze<br>sono ora alla pari con gli uomini. La differenza è finita,<br>e non resta più nulla di notevole<br>sotto la [[Moon\|luna]] che ci visita.<br>Sviene |
+| [[Charmian\|CARMIANA]] | Oh, calma, signora! |
 | IRAS | È morta anche lei, la nostra sovrana. |
-| [[Charmian|CARMIANA]] | Signora! |
+| [[Charmian\|CARMIANA]] | Signora! |
 | IRAS | Madama! |
-| [[Charmian|CARMIANA]] | Oh, madama, madama, madama! |
-| IRAS | Regale [[Egypt|Egitto]], Imperatrice! |
-| [[Charmian|CARMIANA]] | Silenzio, silenzio, Iras! |
-| [[Cleopatra|CLEOPATRA]] | (riprendendosi)<br>Nulla più che una donna, e comandata<br>da povere passioni come la fanciulla che munge<br>e sbriga le più umili faccende. Toccherebbe a me<br>scagliare il mio scettro contro gli dèi ingiuriosi,<br>dir loro che questo mondo eguagliava il loro<br>finché non ci rubarono il nostro [[Jewel|gioiello]]. Tutto è nulla.<br>La pazienza è stolta, e l’impazienza si<br>addice a un cane rabbioso. È dunque peccato<br>precipitarsi nella segreta [[house|casa]] della [[Death|morte]]<br>prima che la [[Death|morte]] osi venire a noi? Come state, donne?<br>Su, su, coraggio! Ebbene, che c’è, [[Charmian|Carmiana]]?<br>Mie nobili ragazze! Ah, donne, donne! Guardate,<br>la nostra lampada è spenta, si è estinta. Buona gente, fatevi animo;<br>lo seppelliremo, e poi ciò che è prode, ciò che è nobile,<br>facciamolo all’alta maniera romana,<br>e rendiamo la [[Death|morte]] superba di prenderci. Venite, andiamo.<br>Questo involucro di quel grande spirito è ora freddo.<br>Ah, donne, donne! Venite. Non abbiamo altro amico<br>che la risolutezza, e la fine più breve. |
-| *(didascalia)* | Escono, quelli in alto portando via il [[Body|corpo]] d’Antonio |
+| [[Charmian\|CARMIANA]] | Oh, madama, madama, madama! |
+| IRAS | Regale [[Egypt\|Egitto]], Imperatrice! |
+| [[Charmian\|CARMIANA]] | Silenzio, silenzio, Iras! |
+| [[Cleopatra\|CLEOPATRA]] | (riprendendosi)<br>Nulla più che una donna, e comandata<br>da povere passioni come la fanciulla che munge<br>e sbriga le più umili faccende. Toccherebbe a me<br>scagliare il mio scettro contro gli dèi ingiuriosi,<br>dir loro che questo mondo eguagliava il loro<br>finché non ci rubarono il nostro [[Jewel\|gioiello]]. Tutto è nulla.<br>La pazienza è stolta, e l’impazienza si<br>addice a un cane rabbioso. È dunque peccato<br>precipitarsi nella segreta [[house\|casa]] della [[Death\|morte]]<br>prima che la [[Death\|morte]] osi venire a noi? Come state, donne?<br>Su, su, coraggio! Ebbene, che c’è, [[Charmian\|Carmiana]]?<br>Mie nobili ragazze! Ah, donne, donne! Guardate,<br>la nostra lampada è spenta, si è estinta. Buona gente, fatevi animo;<br>lo seppelliremo, e poi ciò che è prode, ciò che è nobile,<br>facciamolo all’alta maniera romana,<br>e rendiamo la [[Death\|morte]] superba di prenderci. Venite, andiamo.<br>Questo involucro di quel grande spirito è ora freddo.<br>Ah, donne, donne! Venite. Non abbiamo altro amico<br>che la risolutezza, e la fine più breve. |
+| *(didascalia)* | Escono, quelli in alto portando via il [[Body\|corpo]] d’Antonio |
 
 
 
@@ -4814,33 +4814,33 @@ The [[Tragedy]] of Antony and [[Cleopatra]]
 | *(didascalia)* | Entra Cesare col suo consiglio di guerra: Agrippa, Dolabella, Mecenate, Gallo, Proculeio |
 | CESARE | Va’ da lui, Dolabella, digli di arrendersi.<br>Essendo così ridotto allo stremo, digli, non fa che rendere ridicole<br>le pause che si concede. |
 | DOLABELLA | Cesare, lo farò. Esce |
-| *(didascalia)* | Entra Decreta con la [[Sword|spada]] d’Antonio |
+| *(didascalia)* | Entra Decreta con la [[Sword\|spada]] d’Antonio |
 | CESARE | Perché quella? E chi sei tu che osi<br>presentarti così a noi? |
-| DECRETA | Mi chiamo Decreta.<br>[[Mark Antony|Marco Antonio]] ho servito, che meglio d’ogni altro era degno<br>d’essere meglio servito. Finché stette in piedi e parlò<br>fu il mio padrone, e portavo la mia vita<br>per spenderla contro chi l’odiava. Se ti piace<br>prendermi con te, quel che fui per lui<br>sarò per Cesare; se non ti piace,<br>ti consegno la mia vita. |
+| DECRETA | Mi chiamo Decreta.<br>[[Mark Antony\|Marco Antonio]] ho servito, che meglio d’ogni altro era degno<br>d’essere meglio servito. Finché stette in piedi e parlò<br>fu il mio padrone, e portavo la mia vita<br>per spenderla contro chi l’odiava. Se ti piace<br>prendermi con te, quel che fui per lui<br>sarò per Cesare; se non ti piace,<br>ti consegno la mia vita. |
 | CESARE | Che cos’è che dici? |
 | DECRETA | Dico, o Cesare, che Antonio è morto. |
-| CESARE | Lo spezzarsi d’una cosa così grande dovrebbe fare<br>uno schianto maggiore. Il mondo squarciato<br>avrebbe dovuto scuotere i leoni nelle strade cittadine<br>e i cittadini nelle tane. La [[Death|morte]] di Antonio<br>non è una sorte d’un solo uomo; in quel nome giaceva<br>una metà del mondo. |
-| DECRETA | È morto, Cesare,<br>non per un pubblico ministro di giustizia,<br>né per un coltello prezzolato; ma quella [[Self|stessa]] mano<br>che scrisse il suo [[Honour|onore]] negli atti che compì<br>ha, col [[Courage|coraggio]] che il cuore le prestò,<br>spaccato quel cuore. Questa è la sua [[Sword|spada]];<br>l’ho sottratta alla sua ferita. Guardatela macchiata<br>del suo nobilissimo [[Blood|sangue]]. |
+| CESARE | Lo spezzarsi d’una cosa così grande dovrebbe fare<br>uno schianto maggiore. Il mondo squarciato<br>avrebbe dovuto scuotere i leoni nelle strade cittadine<br>e i cittadini nelle tane. La [[Death\|morte]] di Antonio<br>non è una sorte d’un solo uomo; in quel nome giaceva<br>una metà del mondo. |
+| DECRETA | È morto, Cesare,<br>non per un pubblico ministro di giustizia,<br>né per un coltello prezzolato; ma quella [[Self\|stessa]] mano<br>che scrisse il suo [[Honour\|onore]] negli atti che compì<br>ha, col [[Courage\|coraggio]] che il cuore le prestò,<br>spaccato quel cuore. Questa è la sua [[Sword\|spada]];<br>l’ho sottratta alla sua ferita. Guardatela macchiata<br>del suo nobilissimo [[Blood\|sangue]]. |
 | CESARE | (piangendo)<br>Guardate, mesti amici, gli dèi mi rimproverino; ma è una notizia<br>da lavare gli occhi dei re. |
 | *(didascalia)* | AGRIPPA |
-| CESARE | Ed è strano<br>che la [[Nature|natura]] debba costringerci a piangere<br>le imprese che più ostinatamente perseguimmo. |
+| CESARE | Ed è strano<br>che la [[Nature\|natura]] debba costringerci a piangere<br>le imprese che più ostinatamente perseguimmo. |
 | MECENATE | Le sue macchie e i suoi onori<br>pesavano in lui alla pari. |
 | *(didascalia)* | AGRIPPA |
 | MECENATE | Mai spirito più raro<br>guidò l’umanità; ma voi dèi ci date<br>qualche difetto per farci uomini. Cesare è commosso. |
-| MECENATE | Quando un così ampio [[Mirror|specchio]] gli è posto davanti<br>non può che vedere se stesso. |
-| CESARE | O Antonio, ti ho inseguito fino a questo. Ma noi incidiamo<br>le malattie nei nostri corpi. Dovevo per forza<br>mostrarti un tal giorno di declino,<br>o guardare il mio. Non potevamo stare nella stessa stalla<br>in tutto il mondo. Ma pure lasciate ch’io lamenti,<br>con [[Tears|lacrime]] sovrane quanto il [[Blood|sangue]] dei cuori,<br>che tu, mio fratello, mio competitore<br>al vertice d’ogni disegno, mio socio nell’impero,<br>amico e compagno in prima fila nella guerra,<br>il braccio del mio stesso [[Body|corpo]], e il cuore<br>dove il mio accendeva i suoi pensieri—che le nostre [[Stars|stelle]],<br>inconciliabili, dovessero dividere<br>fino a questo la nostra parità. Ascoltatemi, buoni amici— |
+| MECENATE | Quando un così ampio [[Mirror\|specchio]] gli è posto davanti<br>non può che vedere se stesso. |
+| CESARE | O Antonio, ti ho inseguito fino a questo. Ma noi incidiamo<br>le malattie nei nostri corpi. Dovevo per forza<br>mostrarti un tal giorno di declino,<br>o guardare il mio. Non potevamo stare nella stessa stalla<br>in tutto il mondo. Ma pure lasciate ch’io lamenti,<br>con [[Tears\|lacrime]] sovrane quanto il [[Blood\|sangue]] dei cuori,<br>che tu, mio fratello, mio competitore<br>al vertice d’ogni disegno, mio socio nell’impero,<br>amico e compagno in prima fila nella guerra,<br>il braccio del mio stesso [[Body\|corpo]], e il cuore<br>dove il mio accendeva i suoi pensieri—che le nostre [[Stars\|stelle]],<br>inconciliabili, dovessero dividere<br>fino a questo la nostra parità. Ascoltatemi, buoni amici— |
 | *(didascalia)* | Entra un Egiziano |
 | CESARE | Ma ve lo dirò in stagione più opportuna.<br>L’affare di quest’uomo gli traspare dal volto;<br>udiamo che cosa dice.—Da dove venite? |
-| EGIZIANO | Un povero Egiziano; ma la [[Queen|Regina]], mia padrona,<br>confinata in tutto ciò che possiede, il suo monumento,<br>desidera istruzione sulle tue intenzioni,<br>per potersi preparata conformare<br>alla via cui è costretta. |
+| EGIZIANO | Un povero Egiziano; ma la [[Queen\|Regina]], mia padrona,<br>confinata in tutto ciò che possiede, il suo monumento,<br>desidera istruzione sulle tue intenzioni,<br>per potersi preparata conformare<br>alla via cui è costretta. |
 | CESARE | Dille di farsi coraggio.<br>Presto saprà da noi, per mezzo di qualcuno dei nostri,<br>quanto onorevolmente e quanto benignamente<br>decidiamo per lei. Ché Cesare non può vivere<br>per essere scortese. |
 | EGIZIANO | Sia così; gli dèi ti conservino! Esce |
-| CESARE | Vieni qua, Proculeio. Va’, e dille<br>che non le destiniamo alcuna vergogna. Dàlle quei conforti<br>che la qualità della sua passione richiederà,<br>perché nella sua [[Greatness|grandezza]], con qualche colpo mortale,<br>ella non ci sconfigga; ché la sua vita in Roma<br>sarebbe eterna nel nostro trionfo. Va’,<br>e con la massima celerità portaci ciò che dice<br>e come la trovi. |
+| CESARE | Vieni qua, Proculeio. Va’, e dille<br>che non le destiniamo alcuna vergogna. Dàlle quei conforti<br>che la qualità della sua passione richiederà,<br>perché nella sua [[Greatness\|grandezza]], con qualche colpo mortale,<br>ella non ci sconfigga; ché la sua vita in Roma<br>sarebbe eterna nel nostro trionfo. Va’,<br>e con la massima celerità portaci ciò che dice<br>e come la trovi. |
 | PROCULEIO | Cesare, lo farò. Esce |
 | CESARE | Gallo, va’ con lui. |
 | *(didascalia)* | Esce Gallo |
 | CESARE | Dov’è Dolabella,<br>per assecondare Proculeio? |
 | TUTTI TRANNE CESARE | Dolabella! |
-| CESARE | Lasciatelo [[Alone|stare]]; ché ora ricordo<br>di che è occupato. Sarà pronto a suo [[Time|tempo]].<br>Venite con me alla mia tenda, dove vedrete<br>con quanta riluttanza fui trascinato in questa guerra,<br>quanto calmo e gentile procedetti sempre<br>in tutti i miei scritti. Venite con me, e vedete<br>ciò che posso mostrare in questo. |
+| CESARE | Lasciatelo [[Alone\|stare]]; ché ora ricordo<br>di che è occupato. Sarà pronto a suo [[Time\|tempo]].<br>Venite con me alla mia tenda, dove vedrete<br>con quanta riluttanza fui trascinato in questa guerra,<br>quanto calmo e gentile procedetti sempre<br>in tutti i miei scritti. Venite con me, e vedete<br>ciò che posso mostrare in questo. |
 | *(didascalia)* | Escono |
 
 
@@ -5021,168 +5021,168 @@ The [[Tragedy]] of Antony and [[Cleopatra]]
 
 | Chi parla | Battuta |
 |---|---|
-| *(didascalia)* | Entrano [[Cleopatra]], [[Charmian|Carmiana]], Iras e Mardiano |
-| [[Cleopatra|CLEOPATRA]] | La mia desolazione comincia a foggiare<br>una vita migliore. È meschino essere Cesare.<br>Non essendo la Fortuna, non è che il servo della Fortuna,<br>un ministro della sua volontà. Ed è grande<br>compiere quell’atto che pone fine a ogni altro atto,<br>che incatena i casi e sbarra il mutamento,<br>che dorme e non gusta mai più lo sterco,<br>[[Nurse|nutrice]] del mendicante e di Cesare. |
+| *(didascalia)* | Entrano [[Cleopatra]], [[Charmian\|Carmiana]], Iras e Mardiano |
+| [[Cleopatra\|CLEOPATRA]] | La mia desolazione comincia a foggiare<br>una vita migliore. È meschino essere Cesare.<br>Non essendo la Fortuna, non è che il servo della Fortuna,<br>un ministro della sua volontà. Ed è grande<br>compiere quell’atto che pone fine a ogni altro atto,<br>che incatena i casi e sbarra il mutamento,<br>che dorme e non gusta mai più lo sterco,<br>[[Nurse\|nutrice]] del mendicante e di Cesare. |
 | *(didascalia)* | Entra Proculeio |
-| PROCULEIO | Cesare manda i suoi saluti alla [[Queen|Regina]] d’[[Egypt|Egitto]],<br>e ti invita a meditare quali giuste richieste<br>intendi fargli concedere. |
-| [[Cleopatra|CLEOPATRA]] | Qual è il tuo nome? |
+| PROCULEIO | Cesare manda i suoi saluti alla [[Queen\|Regina]] d’[[Egypt\|Egitto]],<br>e ti invita a meditare quali giuste richieste<br>intendi fargli concedere. |
+| [[Cleopatra\|CLEOPATRA]] | Qual è il tuo nome? |
 | PROCULEIO | Il mio nome è Proculeio. |
-| [[Cleopatra|CLEOPATRA]] | Antonio<br>mi parlò di voi, mi disse di fidarmi di voi; ma<br>non m’importa gran che d’essere ingannata,<br>io che non ho più uso della fiducia. Se il vostro padrone<br>vuole avere una [[Queen|regina]] per mendicante, dovete dirgli<br>che la maestà, per serbare il decoro, non può<br>mendicare meno d’un regno. Se gli piace<br>darmi l’[[Egypt|Egitto]] conquistato per mio figlio,<br>mi dà tanto del mio che io<br>m’inginocchierò a lui per ringraziarlo. |
-| PROCULEIO | Fatevi coraggio.<br>Siete caduta in mano principesca; non [[Fear|temete]] nulla.<br>Rimettetevi liberamente e per intero al mio signore,<br>che è così pieno di grazia da traboccarne<br>su tutti i bisognosi. Lasciate ch’io gli riferisca<br>la vostra dolce sottomissione, e troverete<br>un conquistatore che chiederà aiuto per essere benevolo,<br>là dove lo si supplica in ginocchio di grazia. |
-| [[Cleopatra|CLEOPATRA]] | Vi prego, ditegli<br>che sono vassalla della sua fortuna, e che gli mando<br>la [[Greatness|grandezza]] che ha conquistato. D’ora in ora imparo<br>una dottrina d’obbedienza, e volentieri<br>lo guarderei in volto. |
+| [[Cleopatra\|CLEOPATRA]] | Antonio<br>mi parlò di voi, mi disse di fidarmi di voi; ma<br>non m’importa gran che d’essere ingannata,<br>io che non ho più uso della fiducia. Se il vostro padrone<br>vuole avere una [[Queen\|regina]] per mendicante, dovete dirgli<br>che la maestà, per serbare il decoro, non può<br>mendicare meno d’un regno. Se gli piace<br>darmi l’[[Egypt\|Egitto]] conquistato per mio figlio,<br>mi dà tanto del mio che io<br>m’inginocchierò a lui per ringraziarlo. |
+| PROCULEIO | Fatevi coraggio.<br>Siete caduta in mano principesca; non [[Fear\|temete]] nulla.<br>Rimettetevi liberamente e per intero al mio signore,<br>che è così pieno di grazia da traboccarne<br>su tutti i bisognosi. Lasciate ch’io gli riferisca<br>la vostra dolce sottomissione, e troverete<br>un conquistatore che chiederà aiuto per essere benevolo,<br>là dove lo si supplica in ginocchio di grazia. |
+| [[Cleopatra\|CLEOPATRA]] | Vi prego, ditegli<br>che sono vassalla della sua fortuna, e che gli mando<br>la [[Greatness\|grandezza]] che ha conquistato. D’ora in ora imparo<br>una dottrina d’obbedienza, e volentieri<br>lo guarderei in volto. |
 | PROCULEIO | Questo riferirò, cara signora;<br>confortatevi, ché so che la vostra sorte è compianta<br>da colui che l’ha causata. |
 | *(didascalia)* | Entrano soldati romani da dietro |
 | PROCULEIO | (ai soldati)<br>Vedete come facilmente può essere sorpresa.<br>Sorvegliatela finché venga Cesare. |
-| IRAS | Regale [[Queen|Regina]]— |
-| [[Charmian|CARMIANA]] | O [[Cleopatra]], sei presa, [[Queen|Regina]]! |
-| [[Cleopatra|CLEOPATRA]] | (sguainando un pugnale)<br>Presto, presto, buone mani! |
+| IRAS | Regale [[Queen\|Regina]]— |
+| [[Charmian\|CARMIANA]] | O [[Cleopatra]], sei presa, [[Queen\|Regina]]! |
+| [[Cleopatra\|CLEOPATRA]] | (sguainando un pugnale)<br>Presto, presto, buone mani! |
 | PROCULEIO | (disarmando [[Cleopatra]])<br>Fermatevi, degna signora, fermatevi!<br>Non fatevi tale torto, voi che in questo<br>siete soccorsa e non tradita. |
-| [[Cleopatra|CLEOPATRA]] | Come, anche della [[Death|morte]],<br>che libera i nostri [[dogs|cani]] dal languore? |
-| PROCULEIO | [[Cleopatra]],<br>non offendete la generosità del mio padrone<br>rovinando voi stessa. Lasciate che il mondo veda<br>la sua nobiltà [[Well|ben]] recitata, che la vostra [[Death|morte]]<br>non lascerebbe mai venire alla luce. |
-| [[Cleopatra|CLEOPATRA]] | Dove sei, [[Death|morte]]?<br>Vieni qua, vieni. Vieni, vieni, e prendi una [[Queen|regina]]<br>che vale molti bimbi e mendicanti. |
+| [[Cleopatra\|CLEOPATRA]] | Come, anche della [[Death\|morte]],<br>che libera i nostri [[dogs\|cani]] dal languore? |
+| PROCULEIO | [[Cleopatra]],<br>non offendete la generosità del mio padrone<br>rovinando voi stessa. Lasciate che il mondo veda<br>la sua nobiltà [[Well\|ben]] recitata, che la vostra [[Death\|morte]]<br>non lascerebbe mai venire alla luce. |
+| [[Cleopatra\|CLEOPATRA]] | Dove sei, [[Death\|morte]]?<br>Vieni qua, vieni. Vieni, vieni, e prendi una [[Queen\|regina]]<br>che vale molti bimbi e mendicanti. |
 | PROCULEIO | Oh, temperanza, signora! |
-| [[Cleopatra|CLEOPATRA]] | Signore, non mangerò cibo. Non berrò, signore.<br>Se le chiacchiere oziose saranno una volta necessarie,<br>non [[Sleep|dormirò]] neppure. Questa mortale [[house|casa]] la manderò in rovina,<br>faccia Cesare quel che può. Sappiate, signore, che io<br>non aspetterò in ceppi alla [[Court|corte]] del vostro padrone,<br>né sarò castigata una sola volta dall’occhio sobrio<br>della scipita [[Octavia|Ottavia]]. Mi isseranno<br>e mi mostreranno alla marmaglia urlante<br>della censoria Roma? Piuttosto una fossa in [[Egypt|Egitto]]<br>mi sia mite [[Grave|tomba]]; piuttosto sul fango del Nilo<br>deponetemi tutta nuda, e che le mosche d’acqua<br>mi gonfino fino a farmi ripugnante; piuttosto fate<br>delle alte piramidi del mio paese il mio patibolo,<br>e appendetemi in [[Chains|catene]]. |
+| [[Cleopatra\|CLEOPATRA]] | Signore, non mangerò cibo. Non berrò, signore.<br>Se le chiacchiere oziose saranno una volta necessarie,<br>non [[Sleep\|dormirò]] neppure. Questa mortale [[house\|casa]] la manderò in rovina,<br>faccia Cesare quel che può. Sappiate, signore, che io<br>non aspetterò in ceppi alla [[Court\|corte]] del vostro padrone,<br>né sarò castigata una sola volta dall’occhio sobrio<br>della scipita [[Octavia\|Ottavia]]. Mi isseranno<br>e mi mostreranno alla marmaglia urlante<br>della censoria Roma? Piuttosto una fossa in [[Egypt\|Egitto]]<br>mi sia mite [[Grave\|tomba]]; piuttosto sul fango del Nilo<br>deponetemi tutta nuda, e che le mosche d’acqua<br>mi gonfino fino a farmi ripugnante; piuttosto fate<br>delle alte piramidi del mio paese il mio patibolo,<br>e appendetemi in [[Chains\|catene]]. |
 | PROCULEIO | Voi spingete<br>questi pensieri d’orrore più oltre di quanto<br>troverete causa in Cesare. |
 | *(didascalia)* | Entra Dolabella |
-| DOLABELLA | Proculeio,<br>ciò che hai fatto il tuo padrone Cesare lo sa,<br>e ti ha mandato a chiamare. Quanto alla [[Queen|Regina]],<br>la prenderò sotto la mia guardia. |
+| DOLABELLA | Proculeio,<br>ciò che hai fatto il tuo padrone Cesare lo sa,<br>e ti ha mandato a chiamare. Quanto alla [[Queen\|Regina]],<br>la prenderò sotto la mia guardia. |
 | PROCULEIO | Sia così, Dolabella,<br>mi va benissimo. Sii gentile con lei.<br>(A [[Cleopatra]]) A Cesare dirò ciò che vi<br>piacerà,<br>se vorrete servirvi di me presso di lui. |
-| [[Cleopatra|CLEOPATRA]] | Dite che voglio morire. |
+| [[Cleopatra\|CLEOPATRA]] | Dite che voglio morire. |
 | *(didascalia)* | Esce Proculeio |
 | DOLABELLA | Nobilissima Imperatrice, avete sentito parlare di me. |
-| [[Cleopatra|CLEOPATRA]] | Non saprei dire. |
+| [[Cleopatra\|CLEOPATRA]] | Non saprei dire. |
 | DOLABELLA | Certamente mi conoscete. |
-| [[Cleopatra|CLEOPATRA]] | Non importa, signore, quel che ho udito o saputo.<br>Voi ridete quando ragazzi o donne raccontano i loro [[Dreams|sogni]];<br>non è questo il vostro vezzo? |
+| [[Cleopatra\|CLEOPATRA]] | Non importa, signore, quel che ho udito o saputo.<br>Voi ridete quando ragazzi o donne raccontano i loro [[Dreams\|sogni]];<br>non è questo il vostro vezzo? |
 | DOLABELLA | Non capisco, madama. |
-| [[Cleopatra|CLEOPATRA]] | Ho sognato che c’era un Imperatore Antonio.<br>Oh, un altro [[Sleep|sonno]] simile, per poter vedere<br>un altro uomo simile! |
+| [[Cleopatra\|CLEOPATRA]] | Ho sognato che c’era un Imperatore Antonio.<br>Oh, un altro [[Sleep\|sonno]] simile, per poter vedere<br>un altro uomo simile! |
 | DOLABELLA | Se vi piacesse— |
-| [[Cleopatra|CLEOPATRA]] | Il suo volto era come i cieli, e vi stavano fissi<br>un sole e una [[Moon|luna]], che tenevano il loro corso e illuminavano<br>il piccolo O della terra. |
+| [[Cleopatra\|CLEOPATRA]] | Il suo volto era come i cieli, e vi stavano fissi<br>un sole e una [[Moon\|luna]], che tenevano il loro corso e illuminavano<br>il piccolo O della terra. |
 | DOLABELLA | Sovranissima creatura— |
-| [[Cleopatra|CLEOPATRA]] | Le sue gambe cavalcavano l’oceano; il suo braccio levato<br>era il cimiero del mondo. La sua voce aveva la qualità<br>di tutte le sfere accordate, e ciò per gli amici;<br>ma quando voleva far tremare e scuotere il globo,<br>era come tuono fragoroso. Quanto alla sua generosità,<br>non c’era [[Winter|inverno]] in essa; era un [[Autumn|autunno]]<br>che cresceva tanto più quanto più lo si mieteva. I suoi diletti<br>erano simili a delfini; mostravano il dorso al di sopra<br>dell’elemento in cui vivevano. Nella sua livrea<br>camminavano corone e coroncine. Regni e isole erano<br>come monete cadute dalla sua tasca. |
+| [[Cleopatra\|CLEOPATRA]] | Le sue gambe cavalcavano l’oceano; il suo braccio levato<br>era il cimiero del mondo. La sua voce aveva la qualità<br>di tutte le sfere accordate, e ciò per gli amici;<br>ma quando voleva far tremare e scuotere il globo,<br>era come tuono fragoroso. Quanto alla sua generosità,<br>non c’era [[Winter\|inverno]] in essa; era un [[Autumn\|autunno]]<br>che cresceva tanto più quanto più lo si mieteva. I suoi diletti<br>erano simili a delfini; mostravano il dorso al di sopra<br>dell’elemento in cui vivevano. Nella sua livrea<br>camminavano corone e coroncine. Regni e isole erano<br>come monete cadute dalla sua tasca. |
 | DOLABELLA | [[Cleopatra]]— |
-| [[Cleopatra|CLEOPATRA]] | Credete che ci fosse, o potesse esserci, un uomo tale<br>quale io sognai? |
+| [[Cleopatra\|CLEOPATRA]] | Credete che ci fosse, o potesse esserci, un uomo tale<br>quale io sognai? |
 | DOLABELLA | Gentile madama, no. |
-| [[Cleopatra|CLEOPATRA]] | Mentite, fin dove odono gli dèi.<br>Ma se ce n’è, o mai ce ne fu uno tale,<br>supera la misura del sogno. Alla [[Nature|Natura]] manca materia<br>per gareggiare in forme strane con la fantasia; eppure immaginare<br>un Antonio sarebbe il capolavoro della [[Nature|natura]] contro la fantasia,<br>condannando del tutto le ombre. |
-| DOLABELLA | Ascoltatemi, buona madama: la vostra perdita è, come voi, grande, e voi la portate<br>corrispondendo al suo peso. Possa io non raggiungere mai<br>il [[success|successo]] che inseguo, se non sento,<br>per il rimbalzo del vostro, un dolore che mi colpisce<br>il cuore fin nella radice. |
-| [[Cleopatra|CLEOPATRA]] | Vi ringrazio, signore.<br>Sapete che cosa Cesare intende fare di me? |
+| [[Cleopatra\|CLEOPATRA]] | Mentite, fin dove odono gli dèi.<br>Ma se ce n’è, o mai ce ne fu uno tale,<br>supera la misura del sogno. Alla [[Nature\|Natura]] manca materia<br>per gareggiare in forme strane con la fantasia; eppure immaginare<br>un Antonio sarebbe il capolavoro della [[Nature\|natura]] contro la fantasia,<br>condannando del tutto le ombre. |
+| DOLABELLA | Ascoltatemi, buona madama: la vostra perdita è, come voi, grande, e voi la portate<br>corrispondendo al suo peso. Possa io non raggiungere mai<br>il [[success\|successo]] che inseguo, se non sento,<br>per il rimbalzo del vostro, un dolore che mi colpisce<br>il cuore fin nella radice. |
+| [[Cleopatra\|CLEOPATRA]] | Vi ringrazio, signore.<br>Sapete che cosa Cesare intende fare di me? |
 | DOLABELLA | Mi ripugna dirvi ciò che vorrei sapeste. |
-| [[Cleopatra|CLEOPATRA]] | Su, vi prego, signore. |
+| [[Cleopatra\|CLEOPATRA]] | Su, vi prego, signore. |
 | DOLABELLA | Benché egli sia onorevole— |
-| [[Cleopatra|CLEOPATRA]] | Mi condurrà dunque in trionfo. |
+| [[Cleopatra\|CLEOPATRA]] | Mi condurrà dunque in trionfo. |
 | DOLABELLA | Madama, lo farà, lo so. |
 | *(didascalia)* | Squilli di trombe. Entrano Cesare, con Proculeio, Gallo, Mecenate e altri del suo seguito |
 | TUTTI | Fate largo, là! Cesare! |
-| CESARE | Qual è la [[Queen|Regina]] d’[[Egypt|Egitto]]? |
+| CESARE | Qual è la [[Queen\|Regina]] d’[[Egypt\|Egitto]]? |
 | DOLABELLA | (a [[Cleopatra]])<br>È l’Imperatore, madama.<br>[[Cleopatra]] s’inginocchia |
-| CESARE | Alzatevi! Non dovete inginocchiarvi.<br>Vi prego, alzatevi, alzatevi, [[Egypt|Egitto]]. |
-| [[Cleopatra|CLEOPATRA]] | (alzandosi)<br>Signore, gli dèi<br>vogliono che sia così. Il mio padrone e signore<br>devo obbedire. |
+| CESARE | Alzatevi! Non dovete inginocchiarvi.<br>Vi prego, alzatevi, alzatevi, [[Egypt\|Egitto]]. |
+| [[Cleopatra\|CLEOPATRA]] | (alzandosi)<br>Signore, gli dèi<br>vogliono che sia così. Il mio padrone e signore<br>devo obbedire. |
 | CESARE | Non nutrite pensieri duri.<br>Il registro delle offese che ci faceste,<br>benché scritto nella nostra carne, lo ricorderemo<br>come cose accadute solo per caso. |
-| [[Cleopatra|CLEOPATRA]] | Unico signore del mondo, non so esporre la mia causa così [[Well|bene]]<br>da renderla chiara; ma confesso d’essere<br>stata carica di quelle fragilità che prima<br>hanno spesso svergognato il nostro sesso. |
+| [[Cleopatra\|CLEOPATRA]] | Unico signore del mondo, non so esporre la mia causa così [[Well\|bene]]<br>da renderla chiara; ma confesso d’essere<br>stata carica di quelle fragilità che prima<br>hanno spesso svergognato il nostro sesso. |
 | CESARE | [[Cleopatra]], sappiate<br>che noi attenueremo piuttosto che aggravare.<br>Se vi conformerete alle nostre intenzioni,<br>che verso di voi sono benignissime, troverete<br>un vantaggio in questo mutamento; ma se cercate<br>di addossarmi una crudeltà prendendo<br>la via d’Antonio, vi priverete<br>dei miei buoni propositi e getterete i vostri figli<br>in quella distruzione da cui li proteggerò,<br>se su ciò vi affidate a me. Prendo commiato. |
-| [[Cleopatra|CLEOPATRA]] | E possiate farlo per tutto il mondo! È vostro, e noi,<br>vostri scudi e insegne di conquista, penderemo<br>in qualunque luogo vi piaccia. (Dandogli un foglio) Ecco,<br>mio buon signore. |
+| [[Cleopatra\|CLEOPATRA]] | E possiate farlo per tutto il mondo! È vostro, e noi,<br>vostri scudi e insegne di conquista, penderemo<br>in qualunque luogo vi piaccia. (Dandogli un foglio) Ecco,<br>mio buon signore. |
 | CESARE | Sarete voi a consigliarmi in tutto ciò che riguarda [[Cleopatra]]. |
-| [[Cleopatra|CLEOPATRA]] | Questo è l’elenco del denaro, del vasellame e dei gioielli<br>di cui sono in possesso. È valutato esattamente,<br>escluse le cose di poco conto. Dov’è Seleuco? |
+| [[Cleopatra\|CLEOPATRA]] | Questo è l’elenco del denaro, del vasellame e dei gioielli<br>di cui sono in possesso. È valutato esattamente,<br>escluse le cose di poco conto. Dov’è Seleuco? |
 | *(didascalia)* | Entra Seleuco |
 | SELEUCO | Qui, madama. |
-| [[Cleopatra|CLEOPATRA]] | (a Cesare)<br>Questo è il mio tesoriere. Che parli, mio signore,<br>a suo rischio, e dica che non ho riservato<br>nulla per me. Di’ la [[Truth|verità]], Seleuco. |
+| [[Cleopatra\|CLEOPATRA]] | (a Cesare)<br>Questo è il mio tesoriere. Che parli, mio signore,<br>a suo rischio, e dica che non ho riservato<br>nulla per me. Di’ la [[Truth\|verità]], Seleuco. |
 | SELEUCO | Madama, preferirei sigillarmi le labbra<br>piuttosto che dire a mio rischio ciò che non è. |
-| [[Cleopatra|CLEOPATRA]] | Che cosa ho trattenuto? |
+| [[Cleopatra\|CLEOPATRA]] | Che cosa ho trattenuto? |
 | SELEUCO | Abbastanza da comprare quanto avete dichiarato. |
 | CESARE | Su, non arrossite, [[Cleopatra]]. Approvo<br>la vostra saggezza in questo. |
-| [[Cleopatra|CLEOPATRA]] | Vedete, Cesare! Oh, guardate<br>come si segue la pompa! I miei ora saranno vostri,<br>e se scambiassimo condizione, i vostri sarebbero miei.<br>L’ingratitudine di questo Seleuco mi<br>fa proprio infuriare.—O schiavo, di non più fede<br>d’un [[Love|amore]] prezzolato! Come, indietreggi? Tu<br>indietreggerai,<br>te l’assicuro; ma acchiapperò i tuoi occhi<br>anche se avessero le ali. Schiavo, [[Villain|scellerato]] senz’anima, cane!<br>Oh, di rara bassezza! |
-| CESARE | Buona [[Queen|Regina]], lasciate che vi preghiamo. |
-| [[Cleopatra|CLEOPATRA]] | O Cesare, che vergogna ferisce in questo,<br>che tu, degnandoti qui di visitarmi,<br>facendo l’[[Honour|onore]] della tua signoria<br>a una così mite—che il mio stesso servo debba<br>accrescere la somma delle mie disgrazie<br>con l’aggiunta della sua invidia. Poniamo, buon Cesare,<br>ch’io abbia riservato qualche inezia femminile,<br>ninnoli senza peso, cose di quella dignità<br>con cui salutiamo gli amici d’oggi; e poniamo<br>ch’io abbia messo da parte qualche dono più nobile<br>per Livia e [[Octavia|Ottavia]], per indurne<br>la mediazione—devo essere smascherata<br>da uno che ho allevato? O dèi! Mi abbatte<br>ancora più giù della caduta che ho subito. (A Seleuco) Ti prego, vattene,<br>o mostrerò le braci dei miei spiriti<br>attraverso le ceneri della mia sorte. Se tu fossi un uomo<br>avresti [[Mercy|pietà]] di me. |
+| [[Cleopatra\|CLEOPATRA]] | Vedete, Cesare! Oh, guardate<br>come si segue la pompa! I miei ora saranno vostri,<br>e se scambiassimo condizione, i vostri sarebbero miei.<br>L’ingratitudine di questo Seleuco mi<br>fa proprio infuriare.—O schiavo, di non più fede<br>d’un [[Love\|amore]] prezzolato! Come, indietreggi? Tu<br>indietreggerai,<br>te l’assicuro; ma acchiapperò i tuoi occhi<br>anche se avessero le ali. Schiavo, [[Villain\|scellerato]] senz’anima, cane!<br>Oh, di rara bassezza! |
+| CESARE | Buona [[Queen\|Regina]], lasciate che vi preghiamo. |
+| [[Cleopatra\|CLEOPATRA]] | O Cesare, che vergogna ferisce in questo,<br>che tu, degnandoti qui di visitarmi,<br>facendo l’[[Honour\|onore]] della tua signoria<br>a una così mite—che il mio stesso servo debba<br>accrescere la somma delle mie disgrazie<br>con l’aggiunta della sua invidia. Poniamo, buon Cesare,<br>ch’io abbia riservato qualche inezia femminile,<br>ninnoli senza peso, cose di quella dignità<br>con cui salutiamo gli amici d’oggi; e poniamo<br>ch’io abbia messo da parte qualche dono più nobile<br>per Livia e [[Octavia\|Ottavia]], per indurne<br>la mediazione—devo essere smascherata<br>da uno che ho allevato? O dèi! Mi abbatte<br>ancora più giù della caduta che ho subito. (A Seleuco) Ti prego, vattene,<br>o mostrerò le braci dei miei spiriti<br>attraverso le ceneri della mia sorte. Se tu fossi un uomo<br>avresti [[Mercy\|pietà]] di me. |
 | CESARE | Ritirati, Seleuco. |
 | *(didascalia)* | Esce Seleuco |
-| [[Cleopatra|CLEOPATRA]] | Si sappia che noi, i più grandi, siamo giudicati male<br>per cose che fanno altri; e quando cadiamo<br>rispondiamo in nome nostro dei meriti altrui,<br>e perciò siamo da compiangere. |
-| CESARE | [[Cleopatra]],<br>né ciò che avete riservato né ciò che avete dichiarato<br>mettiamo nel registro della conquista. Resti pur vostro.<br>Disponetene a vostro piacere, e credete<br>che Cesare non è un mercante, per contrattare con voi<br>cose che i mercanti vendono. Perciò rallegratevi.<br>Non fate dei vostri pensieri le vostre prigioni. No, cara<br>[[Queen|Regina]];<br>ché intendiamo disporre di voi come<br>voi stessa ci consiglierete. Nutritevi e [[Sleep|dormite]].<br>La nostra cura e la nostra pietà sono tanto rivolte a voi<br>che restiamo vostro amico; e così addio. |
-| [[Cleopatra|CLEOPATRA]] | Mio padrone e mio signore! |
+| [[Cleopatra\|CLEOPATRA]] | Si sappia che noi, i più grandi, siamo giudicati male<br>per cose che fanno altri; e quando cadiamo<br>rispondiamo in nome nostro dei meriti altrui,<br>e perciò siamo da compiangere. |
+| CESARE | [[Cleopatra]],<br>né ciò che avete riservato né ciò che avete dichiarato<br>mettiamo nel registro della conquista. Resti pur vostro.<br>Disponetene a vostro piacere, e credete<br>che Cesare non è un mercante, per contrattare con voi<br>cose che i mercanti vendono. Perciò rallegratevi.<br>Non fate dei vostri pensieri le vostre prigioni. No, cara<br>[[Queen\|Regina]];<br>ché intendiamo disporre di voi come<br>voi stessa ci consiglierete. Nutritevi e [[Sleep\|dormite]].<br>La nostra cura e la nostra pietà sono tanto rivolte a voi<br>che restiamo vostro amico; e così addio. |
+| [[Cleopatra\|CLEOPATRA]] | Mio padrone e mio signore! |
 | CESARE | Non è così. Addio. |
 | *(didascalia)* | Squilli di trombe. Escono Cesare e il suo seguito |
-| [[Cleopatra|CLEOPATRA]] | Mi imbroglia con le parole, ragazze, mi imbroglia, perché io non sia<br>nobile verso me stessa. Ma ascolta, [[Charmian|Carmiana]].<br>Bisbiglia a [[Charmian|Carmiana]] |
+| [[Cleopatra\|CLEOPATRA]] | Mi imbroglia con le parole, ragazze, mi imbroglia, perché io non sia<br>nobile verso me stessa. Ma ascolta, [[Charmian\|Carmiana]].<br>Bisbiglia a [[Charmian\|Carmiana]] |
 | IRAS | Finite, buona signora. Il giorno luminoso è finito,<br>e noi siamo per il buio. |
-| [[Cleopatra|CLEOPATRA]] | (a [[Charmian|Carmiana]]) Affrettati di nuovo.<br>Ho già parlato, ed è tutto predisposto.<br>Va’ e fa’ presto. |
-| [[Charmian|CARMIANA]] | Madama, lo farò. |
+| [[Cleopatra\|CLEOPATRA]] | (a [[Charmian\|Carmiana]]) Affrettati di nuovo.<br>Ho già parlato, ed è tutto predisposto.<br>Va’ e fa’ presto. |
+| [[Charmian\|CARMIANA]] | Madama, lo farò. |
 | *(didascalia)* | Entra Dolabella |
-| DOLABELLA | Dov’è la [[Queen|Regina]]? |
-| [[Charmian|CARMIANA]] | Eccola, signore. |
+| DOLABELLA | Dov’è la [[Queen\|Regina]]? |
+| [[Charmian\|CARMIANA]] | Eccola, signore. |
 | *(didascalia)* | Esce |
-| [[Cleopatra|CLEOPATRA]] | Dolabella! |
-| DOLABELLA | Madama, essendovi vincolato dal vostro comando—<br>al quale il mio [[Love|amore]] fa religione d’obbedire—<br>vi dico questo: Cesare intende il suo [[Journey|viaggio]]<br>attraverso la Siria, e entro tre giorni<br>manderà avanti voi e i vostri figli.<br>Fatene il miglior uso. Ho eseguito<br>il vostro desiderio e la mia promessa. |
-| [[Cleopatra|CLEOPATRA]] | Dolabella,<br>resterò vostra debitrice. |
-| DOLABELLA | E io vostro servo.<br>Addio, buona [[Queen|Regina]]. Devo attendere a Cesare. |
-| [[Cleopatra|CLEOPATRA]] | Addio, e grazie. |
+| [[Cleopatra\|CLEOPATRA]] | Dolabella! |
+| DOLABELLA | Madama, essendovi vincolato dal vostro comando—<br>al quale il mio [[Love\|amore]] fa religione d’obbedire—<br>vi dico questo: Cesare intende il suo [[Journey\|viaggio]]<br>attraverso la Siria, e entro tre giorni<br>manderà avanti voi e i vostri figli.<br>Fatene il miglior uso. Ho eseguito<br>il vostro desiderio e la mia promessa. |
+| [[Cleopatra\|CLEOPATRA]] | Dolabella,<br>resterò vostra debitrice. |
+| DOLABELLA | E io vostro servo.<br>Addio, buona [[Queen\|Regina]]. Devo attendere a Cesare. |
+| [[Cleopatra\|CLEOPATRA]] | Addio, e grazie. |
 | *(didascalia)* | Esce Dolabella |
-| [[Cleopatra|CLEOPATRA]] | Ora, Iras, che ne pensi?<br>Tu, marionetta egiziana, sarai mostrata<br>a Roma [[Well|proprio]] come me. Schiavi meccanici<br>con grembiuli unti, righelli e martelli ci<br>solleveranno alla vista. Nel loro fiato denso,<br>rancido di cibo grossolano, saremo avvolte come in una nube,<br>e costrette a bere il loro vapore. |
+| [[Cleopatra\|CLEOPATRA]] | Ora, Iras, che ne pensi?<br>Tu, marionetta egiziana, sarai mostrata<br>a Roma [[Well\|proprio]] come me. Schiavi meccanici<br>con grembiuli unti, righelli e martelli ci<br>solleveranno alla vista. Nel loro fiato denso,<br>rancido di cibo grossolano, saremo avvolte come in una nube,<br>e costrette a bere il loro vapore. |
 | IRAS | Gli dèi non voglia! |
-| [[Cleopatra|CLEOPATRA]] | No, è certissimo, Iras. Littori insolenti<br>ci agguanteranno come sgualdrine, e rimatori scabbiosi<br>ci canteranno in ballate stonate. I pronti commedianti<br>ci metteranno in scena all’improvviso, e rappresenteranno<br>le nostre orge alessandrine. Antonio<br>sarà portato in scena ubriaco, e io vedrò<br>qualche [[Cleopatra]] stridula da ragazzo fare la mia [[Greatness|grandezza]]<br>nella posa d’una puttana. |
+| [[Cleopatra\|CLEOPATRA]] | No, è certissimo, Iras. Littori insolenti<br>ci agguanteranno come sgualdrine, e rimatori scabbiosi<br>ci canteranno in ballate stonate. I pronti commedianti<br>ci metteranno in scena all’improvviso, e rappresenteranno<br>le nostre orge alessandrine. Antonio<br>sarà portato in scena ubriaco, e io vedrò<br>qualche [[Cleopatra]] stridula da ragazzo fare la mia [[Greatness\|grandezza]]<br>nella posa d’una puttana. |
 | IRAS | Oh, buoni dèi! |
-| [[Cleopatra|CLEOPATRA]] | No, questo è certo. |
+| [[Cleopatra\|CLEOPATRA]] | No, questo è certo. |
 | IRAS | Non lo vedrò mai! Ché sono sicura che le mie unghie<br>sono più forti dei miei occhi. |
-| [[Cleopatra|CLEOPATRA]] | Ebbene, questa è la via<br>per [[Fool|beffare]] i loro preparativi e vincere<br>i loro assurdissimi disegni. |
-| *(didascalia)* | Entra [[Charmian|Carmiana]] |
-| [[Cleopatra|CLEOPATRA]] | Ora, [[Charmian|Carmiana]]!<br>Vestitemi, mie donne, da [[Queen|regina]]. Andate a prendere<br>le mie vesti migliori. Vado di nuovo al Cidno<br>a incontrare [[Mark Antony|Marco Antonio]]. Ehi, Iras, va’.<br>Ora, nobile [[Charmian|Carmiana]], sbrigheremo davvero,<br>e quando avrai fatto questa faccenda ti darò<br>licenza<br>di giocare fino al giorno del giudizio.—Portate la nostra [[Crown|corona]] e tutto. |
+| [[Cleopatra\|CLEOPATRA]] | Ebbene, questa è la via<br>per [[Fool\|beffare]] i loro preparativi e vincere<br>i loro assurdissimi disegni. |
+| *(didascalia)* | Entra [[Charmian\|Carmiana]] |
+| [[Cleopatra\|CLEOPATRA]] | Ora, [[Charmian\|Carmiana]]!<br>Vestitemi, mie donne, da [[Queen\|regina]]. Andate a prendere<br>le mie vesti migliori. Vado di nuovo al Cidno<br>a incontrare [[Mark Antony\|Marco Antonio]]. Ehi, Iras, va’.<br>Ora, nobile [[Charmian\|Carmiana]], sbrigheremo davvero,<br>e quando avrai fatto questa faccenda ti darò<br>licenza<br>di giocare fino al giorno del giudizio.—Portate la nostra [[Crown\|corona]] e tutto. |
 | *(didascalia)* | Esce Iras |
 | *(didascalia)* | Rumore all’interno |
-| [[Cleopatra|CLEOPATRA]] | Che rumore è questo? |
+| [[Cleopatra\|CLEOPATRA]] | Che rumore è questo? |
 | *(didascalia)* | Entra una Guardia |
 | GUARDIA | C’è qui un tale di campagna<br>che non accetta di non essere ammesso alla presenza di vostra altezza.<br>Vi porta dei fichi. |
-| [[Cleopatra|CLEOPATRA]] | Fallo entrare. |
+| [[Cleopatra\|CLEOPATRA]] | Fallo entrare. |
 | *(didascalia)* | Esce la Guardia |
-| [[Cleopatra|CLEOPATRA]] | Che povero strumento<br>può compiere una nobile impresa! Egli mi porta la libertà.<br>La mia risoluzione è fissa, e non ho più nulla<br>di donna in me. Ora dal capo ai piedi<br>sono costante come il marmo. Ora la [[Moon|luna]] fuggevole<br>non è più un pianeta mio. |
+| [[Cleopatra\|CLEOPATRA]] | Che povero strumento<br>può compiere una nobile impresa! Egli mi porta la libertà.<br>La mia risoluzione è fissa, e non ho più nulla<br>di donna in me. Ora dal capo ai piedi<br>sono costante come il marmo. Ora la [[Moon\|luna]] fuggevole<br>non è più un pianeta mio. |
 | *(didascalia)* | Entrano la Guardia e un Villano con un cesto |
 | GUARDIA | Questo è l’uomo. |
-| [[Cleopatra|CLEOPATRA]] | Allontanati, e lascialo qui. |
+| [[Cleopatra\|CLEOPATRA]] | Allontanati, e lascialo qui. |
 | *(didascalia)* | Esce la Guardia |
-| [[Cleopatra|CLEOPATRA]] | Hai lì il grazioso vermiciattolo<br>del Nilo, che uccide e non fa soffrire? |
-| VILLANO | Davvero, ce l’ho; ma non vorrei essere io a [[Desire|invitarvi]] a toccarlo, ché il suo morso è immortale; quelli che ne muoiono di rado o mai si riprendono. |
-| [[Cleopatra|CLEOPATRA]] | Ricordi qualcuno che ne sia morto? |
-| VILLANO | Moltissimi, uomini, e anche donne. Di una di loro ho sentito non più tardi di ieri, una donna assai onesta, ma un po’ incline a mentire, come una donna non dovrebbe fare se non per via d’onestà, di come morì del suo morso, e che [[Pain|dolore]] provò. Davvero, ne fa un ottimo resoconto, del vermiciattolo; ma chi crederà tutto quello che dicono non sarà salvato dalla metà di quel che fanno; però questo è fallibilissimo: il vermiciattolo è un verme strano. |
-| [[Cleopatra|CLEOPATRA]] | Vattene, addio. |
-| VILLANO | Vi auguro ogni gioia dal vermiciattolo. [[Cleopatra|CLEOPATRA]] Addio. |
+| [[Cleopatra\|CLEOPATRA]] | Hai lì il grazioso vermiciattolo<br>del Nilo, che uccide e non fa soffrire? |
+| VILLANO | Davvero, ce l’ho; ma non vorrei essere io a [[Desire\|invitarvi]] a toccarlo, ché il suo morso è immortale; quelli che ne muoiono di rado o mai si riprendono. |
+| [[Cleopatra\|CLEOPATRA]] | Ricordi qualcuno che ne sia morto? |
+| VILLANO | Moltissimi, uomini, e anche donne. Di una di loro ho sentito non più tardi di ieri, una donna assai onesta, ma un po’ incline a mentire, come una donna non dovrebbe fare se non per via d’onestà, di come morì del suo morso, e che [[Pain\|dolore]] provò. Davvero, ne fa un ottimo resoconto, del vermiciattolo; ma chi crederà tutto quello che dicono non sarà salvato dalla metà di quel che fanno; però questo è fallibilissimo: il vermiciattolo è un verme strano. |
+| [[Cleopatra\|CLEOPATRA]] | Vattene, addio. |
+| VILLANO | Vi auguro ogni gioia dal vermiciattolo. [[Cleopatra\|CLEOPATRA]] Addio. |
 | VILLANO | Dovete pensare, vedete, che il vermiciattolo farà secondo la sua natura. |
-| [[Cleopatra|CLEOPATRA]] | Sì, sì; addio. |
+| [[Cleopatra\|CLEOPATRA]] | Sì, sì; addio. |
 | VILLANO | Vedete, del vermiciattolo non ci si può fidare se non in custodia di gente saggia; ché in verità non c’è alcuna bontà nel vermiciattolo. |
-| [[Cleopatra|CLEOPATRA]] | Non darti pensiero; ci si baderà. |
+| [[Cleopatra\|CLEOPATRA]] | Non darti pensiero; ci si baderà. |
 | VILLANO | Benissimo. Non dategli nulla, ve ne prego, ché non vale la spesa di nutrirlo. |
-| [[Cleopatra|CLEOPATRA]] | Mi mangerà? |
+| [[Cleopatra\|CLEOPATRA]] | Mi mangerà? |
 | VILLANO | Non dovete credermi così sciocco da non sapere che il diavolo stesso non mangerebbe una donna; so che una donna è un piatto per gli dèi, se il diavolo non la cucina. Ma in verità, questi stessi diavoli bastardi fanno gran danno agli dèi nelle loro donne; ché di ogni dieci che essi fanno, i diavoli ne guastano cinque. |
-| [[Cleopatra|CLEOPATRA]] | [[Well|Bene]], vattene, addio. |
+| [[Cleopatra\|CLEOPATRA]] | [[Well\|Bene]], vattene, addio. |
 | VILLANO | Sì, in fede mia. Vi auguro gioia dal vermiciattolo. |
 | *(didascalia)* | Esce, lasciando il cesto |
-| *(didascalia)* | Entra Iras con una veste, la [[Crown|corona]] e altri gioielli |
-| [[Cleopatra|CLEOPATRA]] | Datemi la mia veste. Mettetemi la [[Crown|corona]]. Ho<br>in me brame immortali. Ora mai più<br>il succo dell’uva d’[[Egypt|Egitto]] bagnerà questo labbro.<br>[[Charmian|Carmiana]] e Iras l’aiutano a vestirsi<br>Presto, presto, buona Iras, svelta—mi pare d’udire<br>Antonio che chiama. Lo vedo levarsi<br>a lodare il mio nobile atto. Lo odo schernire<br>la fortuna di Cesare, che gli dèi danno agli uomini<br>per giustificare la loro ira futura. Sposo, vengo.<br>Ora il mio [[Courage|coraggio]] provi il mio diritto a quel nome.<br>Sono [[Fire|fuoco]] e aria; gli altri miei elementi<br>li do a più bassa vita. Dunque, avete finito?<br>Venite allora, e prendete l’ultimo tepore delle mie labbra.<br>Le bacia<br>Addio, buona [[Charmian|Carmiana]]. Iras, lungo addio.<br>Iras cade e muore<br>Ho l’aspide nelle labbra? Cadi?<br>Se tu e la [[Nature|natura]] potete separarvi così dolcemente,<br>il colpo della [[Death|morte]] è come il pizzicotto d’un [[Lover|amante]],<br>che fa male ed è desiderato. Giaci immobile?<br>Se così svanisci, dici al mondo<br>che non merita commiato. |
-| [[Charmian|CARMIANA]] | Sciogliti, densa nube, e piovi, perch’io possa dire<br>che gli dèi stessi piangono. |
-| [[Cleopatra|CLEOPATRA]] | Questo mi dimostra vile.<br>Se ella incontra per prima l’Antonio dai riccioli<br>egli le farà domande, e spenderà quel bacio<br>che è il mio cielo avere.<br>Prende un aspide dal cesto e se lo pone al seno<br>Vieni, tu mortale miserabile,<br>coi tuoi denti aguzzi sciogli d’un colpo<br>questo intricato nodo di vita. Povero [[Fool|sciocco]] velenoso,<br>adirati, e sbrigati. Oh, potessi tu parlare,<br>perch’io t’udissi chiamare il gran Cesare asino<br>senza accortezza! |
-| [[Charmian|CARMIANA]] | O stella d’oriente! |
-| [[Cleopatra|CLEOPATRA]] | Taci, taci.<br>Non vedi il mio bimbo al mio seno,<br>che succhiando addormenta la [[Nurse|nutrice]]? |
-| [[Charmian|CARMIANA]] | Oh, spezzati! Oh, spezzati! |
-| [[Cleopatra|CLEOPATRA]] | Dolce come balsamo, soffice come aria, così mite.<br>O Antonio!<br>Si pone un altro aspide sul braccio<br>Sì, prenderò anche te.<br>Perché dovrei restare—<br>Muore |
-| [[Charmian|CARMIANA]] | in questo vile mondo? Dunque, sta’ [[Well|bene]].<br>Ora vàntati, [[Death|morte]], nel tuo possesso giace<br>una fanciulla senza pari. Finestre piumate, chiudetevi,<br>e il dorato Febo non sia mai più contemplato<br>da occhi così regali. La vostra [[Crown|corona]] è storta.<br>La raddrizzerò, e poi giocherò— |
+| *(didascalia)* | Entra Iras con una veste, la [[Crown\|corona]] e altri gioielli |
+| [[Cleopatra\|CLEOPATRA]] | Datemi la mia veste. Mettetemi la [[Crown\|corona]]. Ho<br>in me brame immortali. Ora mai più<br>il succo dell’uva d’[[Egypt\|Egitto]] bagnerà questo labbro.<br>[[Charmian\|Carmiana]] e Iras l’aiutano a vestirsi<br>Presto, presto, buona Iras, svelta—mi pare d’udire<br>Antonio che chiama. Lo vedo levarsi<br>a lodare il mio nobile atto. Lo odo schernire<br>la fortuna di Cesare, che gli dèi danno agli uomini<br>per giustificare la loro ira futura. Sposo, vengo.<br>Ora il mio [[Courage\|coraggio]] provi il mio diritto a quel nome.<br>Sono [[Fire\|fuoco]] e aria; gli altri miei elementi<br>li do a più bassa vita. Dunque, avete finito?<br>Venite allora, e prendete l’ultimo tepore delle mie labbra.<br>Le bacia<br>Addio, buona [[Charmian\|Carmiana]]. Iras, lungo addio.<br>Iras cade e muore<br>Ho l’aspide nelle labbra? Cadi?<br>Se tu e la [[Nature\|natura]] potete separarvi così dolcemente,<br>il colpo della [[Death\|morte]] è come il pizzicotto d’un [[Lover\|amante]],<br>che fa male ed è desiderato. Giaci immobile?<br>Se così svanisci, dici al mondo<br>che non merita commiato. |
+| [[Charmian\|CARMIANA]] | Sciogliti, densa nube, e piovi, perch’io possa dire<br>che gli dèi stessi piangono. |
+| [[Cleopatra\|CLEOPATRA]] | Questo mi dimostra vile.<br>Se ella incontra per prima l’Antonio dai riccioli<br>egli le farà domande, e spenderà quel bacio<br>che è il mio cielo avere.<br>Prende un aspide dal cesto e se lo pone al seno<br>Vieni, tu mortale miserabile,<br>coi tuoi denti aguzzi sciogli d’un colpo<br>questo intricato nodo di vita. Povero [[Fool\|sciocco]] velenoso,<br>adirati, e sbrigati. Oh, potessi tu parlare,<br>perch’io t’udissi chiamare il gran Cesare asino<br>senza accortezza! |
+| [[Charmian\|CARMIANA]] | O stella d’oriente! |
+| [[Cleopatra\|CLEOPATRA]] | Taci, taci.<br>Non vedi il mio bimbo al mio seno,<br>che succhiando addormenta la [[Nurse\|nutrice]]? |
+| [[Charmian\|CARMIANA]] | Oh, spezzati! Oh, spezzati! |
+| [[Cleopatra\|CLEOPATRA]] | Dolce come balsamo, soffice come aria, così mite.<br>O Antonio!<br>Si pone un altro aspide sul braccio<br>Sì, prenderò anche te.<br>Perché dovrei restare—<br>Muore |
+| [[Charmian\|CARMIANA]] | in questo vile mondo? Dunque, sta’ [[Well\|bene]].<br>Ora vàntati, [[Death\|morte]], nel tuo possesso giace<br>una fanciulla senza pari. Finestre piumate, chiudetevi,<br>e il dorato Febo non sia mai più contemplato<br>da occhi così regali. La vostra [[Crown\|corona]] è storta.<br>La raddrizzerò, e poi giocherò— |
 | *(didascalia)* | Entra la Guardia, irrompendo |
-| PRIMA GUARDIA | Dov’è la [[Queen|Regina]]? |
-| [[Charmian|CARMIANA]] | Parla piano. Non svegliarla. |
+| PRIMA GUARDIA | Dov’è la [[Queen\|Regina]]? |
+| [[Charmian\|CARMIANA]] | Parla piano. Non svegliarla. |
 | PRIMA GUARDIA | Cesare ha mandato— |
-| [[Charmian|CARMIANA]] | Un messaggero troppo lento.<br>Si applica un aspide<br>Oh vieni presto, sbrigati! In parte ti sento. |
-| PRIMA GUARDIA | Avvicinatevi, ehi! Non va tutto [[Well|bene]]. Cesare è stato beffato. |
+| [[Charmian\|CARMIANA]] | Un messaggero troppo lento.<br>Si applica un aspide<br>Oh vieni presto, sbrigati! In parte ti sento. |
+| PRIMA GUARDIA | Avvicinatevi, ehi! Non va tutto [[Well\|bene]]. Cesare è stato beffato. |
 | SECONDA GUARDIA | C’è Dolabella mandato da Cesare. Chiamatelo. |
 | *(didascalia)* | Esce una Guardia |
-| PRIMA GUARDIA | Che lavoro è questo, [[Charmian|Carmiana]]? È [[Well|ben]] fatto? |
-| [[Charmian|CARMIANA]] | È [[Well|ben]] fatto, e si conviene a una principessa<br>discesa da tanti re regali.<br>Ah, soldato!<br>Muore |
+| PRIMA GUARDIA | Che lavoro è questo, [[Charmian\|Carmiana]]? È [[Well\|ben]] fatto? |
+| [[Charmian\|CARMIANA]] | È [[Well\|ben]] fatto, e si conviene a una principessa<br>discesa da tanti re regali.<br>Ah, soldato!<br>Muore |
 | *(didascalia)* | Entra |
-| [[Charmian|CARMIANA]] | Dolabella |
+| [[Charmian\|CARMIANA]] | Dolabella |
 | DOLABELLA | Come va qui? |
 | SECONDA GUARDIA | Tutte morte. |
 | DOLABELLA | Cesare, i tuoi pensieri<br>toccano in questo i loro effetti. Tu stesso stai venendo<br>a vedere compiuto l’atto temuto che tanto<br>cercasti d’impedire. |
 | TUTTI | Largo là, largo per Cesare! |
 | *(didascalia)* | Entrano Cesare e tutto il suo seguito, in marcia |
-| DOLABELLA | (a Cesare)<br>O signore, siete un augure troppo sicuro.<br>Ciò che [[Fear|temevate]] è avvenuto. |
+| DOLABELLA | (a Cesare)<br>O signore, siete un augure troppo sicuro.<br>Ciò che [[Fear\|temevate]] è avvenuto. |
 | CESARE | Bravissima all’ultimo,<br>ella intuì i nostri disegni e, essendo regale,<br>prese la sua via. In che modo sono morte?<br>Non le vedo sanguinare. |
 | DOLABELLA | (a una Guardia) Chi fu l’ultimo con loro? |
 | PRIMA GUARDIA | Un semplice campagnolo che le portò dei fichi.<br>Questo era il suo cesto. |
 | CESARE | Avvelenate, dunque. |
-| PRIMA GUARDIA | O Cesare,<br>questa [[Charmian|Carmiana]] era viva or ora; stava in piedi e parlava.<br>La trovai che raddrizzava il diadema<br>sulla sua morta padrona; tremando stava in piedi,<br>e all’improvviso cadde. |
-| CESARE | Oh, nobile debolezza!<br>Se avessero inghiottito [[Poison|veleno]], apparirebbe<br>da un gonfiore esterno; ma ella pare in [[Sleep|sonno]],<br>come se volesse prendere un altro Antonio<br>nella sua forte rete di grazia. |
-| DOLABELLA | Qui sul suo seno<br>c’è uno sbocco di [[Blood|sangue]], e qualcosa di gonfio.<br>Lo stesso è sul suo braccio. |
-| PRIMA GUARDIA | Questa è la traccia d’un aspide,<br>e queste [[Leaves|foglie]] di fico hanno sopra una bava simile<br>a quella che l’aspide [[Leaves|lascia]] sulle grotte del Nilo. |
-| CESARE | Probabilissimo<br>che così sia morta; ché il suo medico mi dice<br>ch’ella ha tentato prove infinite<br>di vie facili per morire. Sollevate il suo letto,<br>e portate le sue donne fuori dal monumento.<br>Sarà sepolta accanto al suo Antonio.<br>Nessuna [[Grave|tomba]] sulla terra racchiuderà in sé<br>una coppia così famosa. Alti eventi come questi<br>colpiscono coloro che li compiono, e la loro storia<br>non è meno degna di pietà di quanto sia gloriosa<br>quella di chi li ha resi degni di lamento. Il nostro esercito<br>assisterà in solenne parata a questo funerale,<br>e poi a Roma. Vieni, Dolabella, provvedi<br>ad alto ordine in questa grande solennità. |
-| *(didascalia)* | Escono tutti, i soldati portando [[Cleopatra]] sul suo letto, [[Charmian|Carmiana]] e Iras |
+| PRIMA GUARDIA | O Cesare,<br>questa [[Charmian\|Carmiana]] era viva or ora; stava in piedi e parlava.<br>La trovai che raddrizzava il diadema<br>sulla sua morta padrona; tremando stava in piedi,<br>e all’improvviso cadde. |
+| CESARE | Oh, nobile debolezza!<br>Se avessero inghiottito [[Poison\|veleno]], apparirebbe<br>da un gonfiore esterno; ma ella pare in [[Sleep\|sonno]],<br>come se volesse prendere un altro Antonio<br>nella sua forte rete di grazia. |
+| DOLABELLA | Qui sul suo seno<br>c’è uno sbocco di [[Blood\|sangue]], e qualcosa di gonfio.<br>Lo stesso è sul suo braccio. |
+| PRIMA GUARDIA | Questa è la traccia d’un aspide,<br>e queste [[Leaves\|foglie]] di fico hanno sopra una bava simile<br>a quella che l’aspide [[Leaves\|lascia]] sulle grotte del Nilo. |
+| CESARE | Probabilissimo<br>che così sia morta; ché il suo medico mi dice<br>ch’ella ha tentato prove infinite<br>di vie facili per morire. Sollevate il suo letto,<br>e portate le sue donne fuori dal monumento.<br>Sarà sepolta accanto al suo Antonio.<br>Nessuna [[Grave\|tomba]] sulla terra racchiuderà in sé<br>una coppia così famosa. Alti eventi come questi<br>colpiscono coloro che li compiono, e la loro storia<br>non è meno degna di pietà di quanto sia gloriosa<br>quella di chi li ha resi degni di lamento. Il nostro esercito<br>assisterà in solenne parata a questo funerale,<br>e poi a Roma. Vieni, Dolabella, provvedi<br>ad alto ordine in questa grande solennità. |
+| *(didascalia)* | Escono tutti, i soldati portando [[Cleopatra]] sul suo letto, [[Charmian\|Carmiana]] e Iras |

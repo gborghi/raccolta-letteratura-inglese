@@ -1405,152 +1405,152 @@ The True [[Tragedy]] of [[Richard]] [[Duke of York]] and the Good [[King]] Henry
 
 | Chi parla | Battuta |
 |---|---|
-| *(didascalia)* | Un trono. Squillo d’allarme. Entrano [[Richard|Riccardo]] Plantageneto, [[Duke of York|duca di York]], i suoi due figli Edoardo, conte di March, e [[Richard|Riccardo]] il Gobbo, il duca di Norfolk, il marchese di Montague, e il [[Earl of Warwick|conte di Warwick]], con tamburini e soldati. Tutti portano rose bianche sui cappelli |
-| WARWICK | Mi [[Wonder|domando]] come il [[King|re]] sia scampato alle nostre mani? |
+| *(didascalia)* | Un trono. Squillo d’allarme. Entrano [[Richard\|Riccardo]] Plantageneto, [[Duke of York\|duca di York]], i suoi due figli Edoardo, conte di March, e [[Richard\|Riccardo]] il Gobbo, il duca di Norfolk, il marchese di Montague, e il [[Earl of Warwick\|conte di Warwick]], con tamburini e soldati. Tutti portano rose bianche sui cappelli |
+| WARWICK | Mi [[Wonder\|domando]] come il [[King\|re]] sia scampato alle nostre mani? |
 | YORK | Mentre inseguivamo i cavalieri del nord,<br>egli furtivo si dileguò lasciando i suoi uomini;<br>allora il gran signore di Northumberland,<br>il cui orecchio guerriero mai tollerò ritirata,<br>rianimò l’esercito che cedeva; ed egli stesso,<br>lord [[Clifford]] e lord Stafford, tutti affiancati,<br>caricarono il fronte della nostra schiera, e, sfondando,<br>furono trucidati dalle spade di soldati comuni. |
-| EDOARDO | Il padre di lord Stafford, [[Duke of Buckingham|duca di Buckingham]],<br>o è ucciso o è ferito a morte.<br>Gli spaccai la visiera con un colpo diritto.<br>Che questo sia vero, padre, guardate il suo [[Blood|sangue]].<br>Mostra una [[Sword|spada]] sanguinante |
+| EDOARDO | Il padre di lord Stafford, [[Duke of Buckingham\|duca di Buckingham]],<br>o è ucciso o è ferito a morte.<br>Gli spaccai la visiera con un colpo diritto.<br>Che questo sia vero, padre, guardate il suo [[Blood\|sangue]].<br>Mostra una [[Sword\|spada]] sanguinante |
 | *(didascalia)* | MONTAGUE a York |
-| EDOARDO | E, fratello, ecco il [[Blood|sangue]] del conte di Wiltshire,<br>Mostra una [[Sword|spada]] sanguinante<br>che affrontai quando le schiere si scontrarono. |
-| [[Richard|RICCARDO]] | (alla testa di Somerset, che mostra) Parla tu per me, e di’ loro ciò che ho fatto. |
-| YORK | [[Richard|Riccardo]] ha meritato più di tutti i miei figli.<br>(Alla testa) Ma è morta vostra grazia, mio signore di<br>Somerset? |
-| NORFOLK | Tale sorte abbia tutta la stirpe di [[John of Gaunt|Giovanni di Gaunt]]. |
-| [[Richard|RICCARDO]] | Così [[Hope|spero]] di scuotere la testa di [[King|re]] Enrico. |
+| EDOARDO | E, fratello, ecco il [[Blood\|sangue]] del conte di Wiltshire,<br>Mostra una [[Sword\|spada]] sanguinante<br>che affrontai quando le schiere si scontrarono. |
+| [[Richard\|RICCARDO]] | (alla testa di Somerset, che mostra) Parla tu per me, e di’ loro ciò che ho fatto. |
+| YORK | [[Richard\|Riccardo]] ha meritato più di tutti i miei figli.<br>(Alla testa) Ma è morta vostra grazia, mio signore di<br>Somerset? |
+| NORFOLK | Tale sorte abbia tutta la stirpe di [[John of Gaunt\|Giovanni di Gaunt]]. |
+| [[Richard\|RICCARDO]] | Così [[Hope\|spero]] di scuotere la testa di [[King\|re]] Enrico. |
 | *(didascalia)* | Solleva in alto la testa, poi la getta a terra |
-| WARWICK | E così anch’io, vittorioso principe di York.<br>Prima di vederti insediato su quel trono<br>che ora la [[house|casa]] di Lancaster usurpa,<br>giuro per il cielo che questi occhi non si chiuderanno.<br>Questo è il palazzo del [[King|re]] pauroso,<br>e questo (indicando il trono), il regale<br>seggio—prendilo, York,<br>perché è tuo, e non degli eredi di [[King|re]] Enrico. |
+| WARWICK | E così anch’io, vittorioso principe di York.<br>Prima di vederti insediato su quel trono<br>che ora la [[house\|casa]] di Lancaster usurpa,<br>giuro per il cielo che questi occhi non si chiuderanno.<br>Questo è il palazzo del [[King\|re]] pauroso,<br>e questo (indicando il trono), il regale<br>seggio—prendilo, York,<br>perché è tuo, e non degli eredi di [[King\|re]] Enrico. |
 | YORK | Assistimi allora, dolce Warwick, e lo farò,<br>ché qui siamo entrati a viva forza. |
 | NORFOLK | Tutti ti assisteremo—chi fugge morirà. |
-| YORK | Grazie, gentile Norfolk. Restate presso di me, miei signori<br>e soldati—restate, e alloggiate presso di me questa [[Night|notte]].<br>Salgono sul trono |
-| WARWICK | E quando viene il [[King|re]], non usargli violenza<br>a meno che non cerchi di cacciarti fuori a forza. |
+| YORK | Grazie, gentile Norfolk. Restate presso di me, miei signori<br>e soldati—restate, e alloggiate presso di me questa [[Night\|notte]].<br>Salgono sul trono |
+| WARWICK | E quando viene il [[King\|re]], non usargli violenza<br>a meno che non cerchi di cacciarti fuori a forza. |
 | *(didascalia)* | I soldati si ritirano |
-| YORK | La [[Queen|regina]] tiene oggi qui il suo Parlamento,<br>ma poco pensa che saremo del suo consiglio;<br>con parole o con colpi conquistiamo qui il nostro diritto. |
-| [[Richard|RICCARDO]] | Armati come siamo, restiamo dentro questa [[house|casa]]. |
-| WARWICK | ‘Il Parlamento Sanguinario’ sarà chiamato questo,<br>se Plantageneto, [[Duke of York|duca di York]], non sarà [[King|re]],<br>e il timido Enrico non sarà deposto, la cui codardia<br>ci ha resi lo scherno dei nostri nemici. |
+| YORK | La [[Queen\|regina]] tiene oggi qui il suo Parlamento,<br>ma poco pensa che saremo del suo consiglio;<br>con parole o con colpi conquistiamo qui il nostro diritto. |
+| [[Richard\|RICCARDO]] | Armati come siamo, restiamo dentro questa [[house\|casa]]. |
+| WARWICK | ‘Il Parlamento Sanguinario’ sarà chiamato questo,<br>se Plantageneto, [[Duke of York\|duca di York]], non sarà [[King\|re]],<br>e il timido Enrico non sarà deposto, la cui codardia<br>ci ha resi lo scherno dei nostri nemici. |
 | YORK | Allora non lasciatemi, miei signori. Siate risoluti—<br>intendo prendere possesso del mio diritto. |
-| WARWICK | Né il [[King|re]] né chi più l’ama—<br>il più superbo fra quanti sostengono Lancaster—<br>osa muovere un’ala se Warwick scuote i suoi [[Bells|campanelli]].<br>Io pianterò Plantageneto: lo sradichi chi osa.<br>Decidi, [[Richard|Riccardo]]—reclama la [[Crown|corona]] d’Inghilterra. |
+| WARWICK | Né il [[King\|re]] né chi più l’ama—<br>il più superbo fra quanti sostengono Lancaster—<br>osa muovere un’ala se Warwick scuote i suoi [[Bells\|campanelli]].<br>Io pianterò Plantageneto: lo sradichi chi osa.<br>Decidi, [[Richard\|Riccardo]]—reclama la [[Crown\|corona]] d’Inghilterra. |
 | *(didascalia)* | York siede sul trono. |
-| *(didascalia)* | Squilli. Entrano [[King|re]] Enrico, lord [[Clifford]], i conti |
+| *(didascalia)* | Squilli. Entrano [[King\|re]] Enrico, lord [[Clifford]], i conti |
 | WARWICK | di Northumberland e Westmorland, il duca di |
 | *(didascalia)* | Exeter, e gli altri. Tutti portano rose rosse nei |
 | *(didascalia)* | loro cappelli |
-| [[King|RE]] ENRICO | Miei signori, guardate dove siede il tenace [[Rebel|ribelle]]—<br>proprio sul trono! Certo egli intende,<br>sostenuto dal potere di Warwick, quel falso pari,<br>aspirare alla [[Crown|corona]] e regnare da [[King|re]].<br>[[Earl of Northumberland|Conte di Northumberland]], egli uccise tuo padre—<br>e il tuo, lord [[Clifford]]—e voi entrambi avete giurato<br>[[Revenge|vendetta]]<br>contro lui, i suoi figli, i suoi favoriti e i suoi amici. |
+| [[King\|RE]] ENRICO | Miei signori, guardate dove siede il tenace [[Rebel\|ribelle]]—<br>proprio sul trono! Certo egli intende,<br>sostenuto dal potere di Warwick, quel falso pari,<br>aspirare alla [[Crown\|corona]] e regnare da [[King\|re]].<br>[[Earl of Northumberland\|Conte di Northumberland]], egli uccise tuo padre—<br>e il tuo, lord [[Clifford]]—e voi entrambi avete giurato<br>[[Revenge\|vendetta]]<br>contro lui, i suoi figli, i suoi favoriti e i suoi amici. |
 | NORTHUMBERLAND | Se non lo faccio, si vendichi il cielo su di me. |
-| [[Clifford|CLIFFORD]] | La [[Hope|speranza]] di ciò fa che [[Clifford]] porti lutto nell’acciaio. |
+| [[Clifford\|CLIFFORD]] | La [[Hope\|speranza]] di ciò fa che [[Clifford]] porti lutto nell’acciaio. |
 | WESTMORLAND | Che? Dobbiamo sopportarlo? Strappiamolo giù.<br>Il cuore mi brucia d’ira—non lo tollero. |
-| [[King|RE]] ENRICO | Sii paziente, gentile conte di Westmorland. |
-| [[Clifford|CLIFFORD]] | La pazienza è per i codardi, come lui (indicando York).<br>Non oserebbe sedere là se vostro padre vivesse.<br>Mio grazioso signore, qui nel Parlamento<br>assaliamo la famiglia di York. |
-| NORTHUMBERLAND | [[Well|Bene]] hai parlato, cugino, sia così. |
-| [[King|RE]] ENRICO | Ah, non sapete che la [[City|città]] li favorisce,<br>e che hanno schiere di soldati a un loro cenno? |
+| [[King\|RE]] ENRICO | Sii paziente, gentile conte di Westmorland. |
+| [[Clifford\|CLIFFORD]] | La pazienza è per i codardi, come lui (indicando York).<br>Non oserebbe sedere là se vostro padre vivesse.<br>Mio grazioso signore, qui nel Parlamento<br>assaliamo la famiglia di York. |
+| NORTHUMBERLAND | [[Well\|Bene]] hai parlato, cugino, sia così. |
+| [[King\|RE]] ENRICO | Ah, non sapete che la [[City\|città]] li favorisce,<br>e che hanno schiere di soldati a un loro cenno? |
 | EXETER | Ma ucciso il duca, fuggiranno in fretta. |
-| [[King|RE]] ENRICO | Lungi dal cuore di Enrico questo pensiero,<br>di fare un macello della [[house|Casa]] del Parlamento.<br>Cugino di Exeter, cipigli, parole e minacce<br>saranno la guerra che Enrico intende usare.<br>(A York) Tu, fazioso [[Duke of York|duca di York]], scendi dal mio<br>trono<br>e inginocchiati per grazia e [[Mercy|pietà]] ai miei piedi.<br>Io sono il tuo sovrano. |
+| [[King\|RE]] ENRICO | Lungi dal cuore di Enrico questo pensiero,<br>di fare un macello della [[house\|Casa]] del Parlamento.<br>Cugino di Exeter, cipigli, parole e minacce<br>saranno la guerra che Enrico intende usare.<br>(A York) Tu, fazioso [[Duke of York\|duca di York]], scendi dal mio<br>trono<br>e inginocchiati per grazia e [[Mercy\|pietà]] ai miei piedi.<br>Io sono il tuo sovrano. |
 | YORK | Sono io il tuo. |
-| EXETER | Vergogna, scendi—egli ti fece [[Duke of York|duca di York]]. |
+| EXETER | Vergogna, scendi—egli ti fece [[Duke of York\|duca di York]]. |
 | YORK | Era mia eredità, come lo era la contea. |
-| EXETER | Tuo padre fu un traditore della [[Crown|corona]]. |
-| WARWICK | Exeter, tu sei un traditore della [[Crown|corona]]<br>seguendo questo Enrico usurpatore. |
-| [[Clifford|CLIFFORD]] | Chi dovrebbe seguire se non il suo naturale [[King|re]]? |
-| WARWICK | Vero, [[Clifford]], e quello è [[Richard|Riccardo]] [[Duke of York|duca di York]]. |
-| [[King|RE]] ENRICO | (a York)<br>E io starò in piedi e tu sederai sul mio trono? |
+| EXETER | Tuo padre fu un traditore della [[Crown\|corona]]. |
+| WARWICK | Exeter, tu sei un traditore della [[Crown\|corona]]<br>seguendo questo Enrico usurpatore. |
+| [[Clifford\|CLIFFORD]] | Chi dovrebbe seguire se non il suo naturale [[King\|re]]? |
+| WARWICK | Vero, [[Clifford]], e quello è [[Richard\|Riccardo]] [[Duke of York\|duca di York]]. |
+| [[King\|RE]] ENRICO | (a York)<br>E io starò in piedi e tu sederai sul mio trono? |
 | YORK | Deve e sarà così—accontèntati. |
-| WARWICK | (a [[King|re]] Enrico)<br>Sii duca di Lancaster, lascia che egli sia [[King|re]]. |
-| WESTMORLAND | Egli è [[King|re]] e duca di Lancaster insieme—<br>e questo il signore di Westmorland sosterrà. |
-| WARWICK | E Warwick lo confuterà. Dimenticate<br>che noi siamo quelli che vi cacciarono dal campo,<br>e uccisero i vostri padri, e, con le insegne al vento,<br>marciarono per la [[City|città]] fino alle porte del palazzo. |
-| NORTHUMBERLAND | Sì, Warwick, lo ricordo a mio dolore,<br>e, per la sua [[Soul|anima]], tu e la tua [[house|casa]] ne piangerete. |
-| WESTMORLAND | (a York)<br>Plantageneto, di te, e di questi tuoi figli,<br>dei tuoi parenti e dei tuoi amici, avrò più vite<br>di quante gocce di [[Blood|sangue]] furono nelle vene di mio padre. |
-| [[Clifford|CLIFFORD]] | (a Warwick)<br>Non insistere più, ché invece di parole<br>io ti manderò, Warwick, un tale messaggero<br>che [[Revenge|vendicherà]] la sua [[Death|morte]] prima ch’io mi muova. |
+| WARWICK | (a [[King\|re]] Enrico)<br>Sii duca di Lancaster, lascia che egli sia [[King\|re]]. |
+| WESTMORLAND | Egli è [[King\|re]] e duca di Lancaster insieme—<br>e questo il signore di Westmorland sosterrà. |
+| WARWICK | E Warwick lo confuterà. Dimenticate<br>che noi siamo quelli che vi cacciarono dal campo,<br>e uccisero i vostri padri, e, con le insegne al vento,<br>marciarono per la [[City\|città]] fino alle porte del palazzo. |
+| NORTHUMBERLAND | Sì, Warwick, lo ricordo a mio dolore,<br>e, per la sua [[Soul\|anima]], tu e la tua [[house\|casa]] ne piangerete. |
+| WESTMORLAND | (a York)<br>Plantageneto, di te, e di questi tuoi figli,<br>dei tuoi parenti e dei tuoi amici, avrò più vite<br>di quante gocce di [[Blood\|sangue]] furono nelle vene di mio padre. |
+| [[Clifford\|CLIFFORD]] | (a Warwick)<br>Non insistere più, ché invece di parole<br>io ti manderò, Warwick, un tale messaggero<br>che [[Revenge\|vendicherà]] la sua [[Death\|morte]] prima ch’io mi muova. |
 | *(didascalia)* | WARWICK a York |
-| [[Clifford|CLIFFORD]] | Povero [[Clifford]], come disprezzo le sue vane minacce. |
-| *(didascalia)* | YORK a [[King|re]] Enrico |
-| [[Clifford|CLIFFORD]] | Volete che mostriamo il nostro titolo alla [[Crown|corona]]?<br>Se no, le nostre spade lo perorino sul campo. |
-| [[King|RE]] ENRICO | Che titolo hai tu, traditore, alla [[Crown|corona]]?<br>Tuo padre fu, come tu sei, [[Duke of York|duca di York]];<br>tuo nonno, Roger Mortimer, conte di March.<br>Io sono il figlio di Enrico Quinto,<br>che piegò il [[Dauphin|Delfino]] e i Francesi<br>e s’impadronì delle loro città e province. |
+| [[Clifford\|CLIFFORD]] | Povero [[Clifford]], come disprezzo le sue vane minacce. |
+| *(didascalia)* | YORK a [[King\|re]] Enrico |
+| [[Clifford\|CLIFFORD]] | Volete che mostriamo il nostro titolo alla [[Crown\|corona]]?<br>Se no, le nostre spade lo perorino sul campo. |
+| [[King\|RE]] ENRICO | Che titolo hai tu, traditore, alla [[Crown\|corona]]?<br>Tuo padre fu, come tu sei, [[Duke of York\|duca di York]];<br>tuo nonno, Roger Mortimer, conte di March.<br>Io sono il figlio di Enrico Quinto,<br>che piegò il [[Dauphin\|Delfino]] e i Francesi<br>e s’impadronì delle loro città e province. |
 | WARWICK | Non parlare di Francia, poiché l’hai perduta tutta. |
-| [[King|RE]] ENRICO | La perse il lord Protettore, non io.<br>Quando fui incoronato, avevo appena nove mesi. |
-| [[Richard|RICCARDO]] | Ora sei grande abbastanza, e tuttavia, mi pare, perdi.<br>(A York) Padre, strappa la [[Crown|corona]] dalla testa<br>dell’[[Usurper|usurpatore]]. |
+| [[King\|RE]] ENRICO | La perse il lord Protettore, non io.<br>Quando fui incoronato, avevo appena nove mesi. |
+| [[Richard\|RICCARDO]] | Ora sei grande abbastanza, e tuttavia, mi pare, perdi.<br>(A York) Padre, strappa la [[Crown\|corona]] dalla testa<br>dell’[[Usurper\|usurpatore]]. |
 | EDOARDO | (a York)<br>Dolce padre, fatelo—ponetela sul vostro capo. |
-| MONTAGUE | (a York)<br>Buon fratello, come ami e [[Honour|onori]] le armi,<br>battiamoci e non stiamo a cavillare così. |
-| *(didascalia)* | Suonate tamburi e trombe, e il [[King|re]] fuggirà. |
+| MONTAGUE | (a York)<br>Buon fratello, come ami e [[Honour\|onori]] le armi,<br>battiamoci e non stiamo a cavillare così. |
+| *(didascalia)* | Suonate tamburi e trombe, e il [[King\|re]] fuggirà. |
 | YORK | Figli, pace! |
 | *(didascalia)* | NORTHUMBERLAND |
-| YORK | Pace, tu—e lascia parlare [[King|re]] Enrico. |
-| [[King|RE]] ENRICO | Ah, York, perché cerchi di depormi?<br>Non siamo entrambi Plantageneti per nascita,<br>e da due fratelli discesi in linea diretta?<br>Supponi che per diritto ed equità tu sia [[King|re]]—<br>credi che io lascerò il mio trono regale,<br>dove sedettero il mio avo e mio padre?<br>No—prima la guerra spopolerà questo mio regno;<br>sì, e le loro insegne, spesso portate in Francia,<br>e ora in Inghilterra a gran dolore del nostro cuore,<br>saranno il mio sudario. Perché vi sgomentate, signori?<br>Il mio titolo è buono, e ben migliore del suo. |
-| WARWICK | Provalo, Enrico, e sarai [[King|re]]. |
-| [[King|RE]] ENRICO | Enrico Quarto ottenne la [[Crown|corona]] per conquista. |
-| YORK | Fu per ribellione contro il suo [[King|re]]. |
-| *(didascalia)* | [[King|RE]] ENRICO a parte |
-| YORK | Non so che dire—il mio titolo è debole.<br>(A York) Dimmi, non può un [[King|re]] adottare un erede? |
+| YORK | Pace, tu—e lascia parlare [[King\|re]] Enrico. |
+| [[King\|RE]] ENRICO | Ah, York, perché cerchi di depormi?<br>Non siamo entrambi Plantageneti per nascita,<br>e da due fratelli discesi in linea diretta?<br>Supponi che per diritto ed equità tu sia [[King\|re]]—<br>credi che io lascerò il mio trono regale,<br>dove sedettero il mio avo e mio padre?<br>No—prima la guerra spopolerà questo mio regno;<br>sì, e le loro insegne, spesso portate in Francia,<br>e ora in Inghilterra a gran dolore del nostro cuore,<br>saranno il mio sudario. Perché vi sgomentate, signori?<br>Il mio titolo è buono, e ben migliore del suo. |
+| WARWICK | Provalo, Enrico, e sarai [[King\|re]]. |
+| [[King\|RE]] ENRICO | Enrico Quarto ottenne la [[Crown\|corona]] per conquista. |
+| YORK | Fu per ribellione contro il suo [[King\|re]]. |
+| *(didascalia)* | [[King\|RE]] ENRICO a parte |
+| YORK | Non so che dire—il mio titolo è debole.<br>(A York) Dimmi, non può un [[King\|re]] adottare un erede? |
 | YORK | E allora? |
-| [[King|RE]] ENRICO | E se può, allora io sono legittimo [[King|re]]—<br>ché [[Richard|Riccardo]], al cospetto di molti signori,<br>rassegnò la [[Crown|corona]] a Enrico Quarto,<br>del quale mio padre fu erede, e io sono il suo. |
-| YORK | Si [[Rose|levò]] contro di lui, che era il suo sovrano,<br>e lo costrinse a rassegnare la [[Crown|corona]] per forza. |
-| WARWICK | Supponete, signori, che l’abbia fatto non costretto—<br>credete che sarebbe pregiudizievole alla sua [[Crown|corona]]? |
-| EXETER | No, perché non poteva così rassegnare la [[Crown|corona]]<br>senza che l’erede più prossimo succedesse e regnasse. |
-| [[King|RE]] ENRICO | Sei tu contro di noi, [[Duke of Exeter|duca di Exeter]]? |
+| [[King\|RE]] ENRICO | E se può, allora io sono legittimo [[King\|re]]—<br>ché [[Richard\|Riccardo]], al cospetto di molti signori,<br>rassegnò la [[Crown\|corona]] a Enrico Quarto,<br>del quale mio padre fu erede, e io sono il suo. |
+| YORK | Si [[Rose\|levò]] contro di lui, che era il suo sovrano,<br>e lo costrinse a rassegnare la [[Crown\|corona]] per forza. |
+| WARWICK | Supponete, signori, che l’abbia fatto non costretto—<br>credete che sarebbe pregiudizievole alla sua [[Crown\|corona]]? |
+| EXETER | No, perché non poteva così rassegnare la [[Crown\|corona]]<br>senza che l’erede più prossimo succedesse e regnasse. |
+| [[King\|RE]] ENRICO | Sei tu contro di noi, [[Duke of Exeter\|duca di Exeter]]? |
 | EXETER | Suo è il diritto, e perciò perdonatemi. |
 | YORK | Perché sussurrate, signori, e non rispondete? |
-| *(didascalia)* | EXETER a [[King|re]] Enrico |
-| YORK | La mia [[Conscience|coscienza]] mi dice che egli è legittimo [[King|re]]. |
-| *(didascalia)* | [[King|RE]] ENRICO a parte |
+| *(didascalia)* | EXETER a [[King\|re]] Enrico |
+| YORK | La mia [[Conscience\|coscienza]] mi dice che egli è legittimo [[King\|re]]. |
+| *(didascalia)* | [[King\|RE]] ENRICO a parte |
 | YORK | Tutti si ribelleranno a me e si volgeranno a lui. |
 | NORTHUMBERLAND | (a York)<br>Plantageneto, per ogni pretesa che tu avanzi,<br>non pensare che Enrico sarà così deposto. |
 | WARWICK | Deposto sarà, a dispetto di tutti. |
 | NORTHUMBERLAND | T’inganni—non è la tua forza del sud,<br>d’Essex, Norfolk, Suffolk, né di [[Kent]],<br>che ti rende così presuntuoso e superbo,<br>che possa innalzare il duca a mio dispetto. |
-| [[Clifford|CLIFFORD]] | [[King|Re]] Enrico, sia il tuo titolo giusto o torto,<br>lord [[Clifford]] giura di combattere in tua difesa.<br>Si spalanchi quel suolo e mi [[Swallow|inghiotta]] vivo<br>là dove m’inginocchiassi a chi uccise mio padre. |
-| [[King|RE]] ENRICO | O [[Clifford]], come le tue parole rianimano il mio cuore! |
-| YORK | Enrico di Lancaster, rassegna la tua [[Crown|corona]].<br>Che mormorate, o che cospirate, signori? |
-| WARWICK | Fate giustizia a questo principesco [[Duke of York|duca di York]],<br>o riempirò la [[house|casa]] di uomini armati<br>e sopra il trono, dove ora egli siede,<br>scriverò il suo titolo con [[Blood|sangue]] usurpatore.<br>Batte il piede e i soldati si<br><br>mostrano |
-| [[King|RE]] ENRICO | Mio signore di Warwick, ascoltatemi una sola parola—<br>lasciate ch’io regni da [[King|re]] per questa mia vita. |
-| YORK | Conferma la [[Crown|corona]] a me e ai miei eredi,<br>e regnerai in pace mentre vivi. |
-| [[King|RE]] ENRICO | Sono contento. [[Richard|Riccardo]] Plantageneto,<br>godi il regno dopo il mio trapasso. |
-| [[Clifford|CLIFFORD]] | Che torto è questo al principe vostro figlio? |
+| [[Clifford\|CLIFFORD]] | [[King\|Re]] Enrico, sia il tuo titolo giusto o torto,<br>lord [[Clifford]] giura di combattere in tua difesa.<br>Si spalanchi quel suolo e mi [[Swallow\|inghiotta]] vivo<br>là dove m’inginocchiassi a chi uccise mio padre. |
+| [[King\|RE]] ENRICO | O [[Clifford]], come le tue parole rianimano il mio cuore! |
+| YORK | Enrico di Lancaster, rassegna la tua [[Crown\|corona]].<br>Che mormorate, o che cospirate, signori? |
+| WARWICK | Fate giustizia a questo principesco [[Duke of York\|duca di York]],<br>o riempirò la [[house\|casa]] di uomini armati<br>e sopra il trono, dove ora egli siede,<br>scriverò il suo titolo con [[Blood\|sangue]] usurpatore.<br>Batte il piede e i soldati si<br><br>mostrano |
+| [[King\|RE]] ENRICO | Mio signore di Warwick, ascoltatemi una sola parola—<br>lasciate ch’io regni da [[King\|re]] per questa mia vita. |
+| YORK | Conferma la [[Crown\|corona]] a me e ai miei eredi,<br>e regnerai in pace mentre vivi. |
+| [[King\|RE]] ENRICO | Sono contento. [[Richard\|Riccardo]] Plantageneto,<br>godi il regno dopo il mio trapasso. |
+| [[Clifford\|CLIFFORD]] | Che torto è questo al principe vostro figlio? |
 | WARWICK | Che bene è questo per l’Inghilterra e per lui stesso? |
 | WESTMORLAND | Vile, pauroso e disperato Enrico. |
-| [[Clifford|CLIFFORD]] | Come hai offeso te stesso e noi insieme? |
+| [[Clifford\|CLIFFORD]] | Come hai offeso te stesso e noi insieme? |
 | WESTMORLAND | Non posso restare a udire questi articoli. |
 | NORTHUMBERLAND | Né io. |
-| [[Clifford|CLIFFORD]] | Venite, cugino, andiamo a dire alla [[Queen|regina]] queste nuove. |
-| WESTMORLAND | (a [[King|re]] Enrico)<br>Addio, [[King|re]] pusillanime e degenere,<br>nel cui freddo [[Blood|sangue]] non dimora scintilla d’[[Honour|onore]]. |
+| [[Clifford\|CLIFFORD]] | Venite, cugino, andiamo a dire alla [[Queen\|regina]] queste nuove. |
+| WESTMORLAND | (a [[King\|re]] Enrico)<br>Addio, [[King\|re]] pusillanime e degenere,<br>nel cui freddo [[Blood\|sangue]] non dimora scintilla d’[[Honour\|onore]]. |
 | *(didascalia)* | Esce con i suoi soldati |
-| NORTHUMBERLAND | (a [[King|re]] Enrico)<br>Sii preda della [[house|casa]] di York,<br>e muori in catene per questo atto non virile. |
+| NORTHUMBERLAND | (a [[King\|re]] Enrico)<br>Sii preda della [[house\|casa]] di York,<br>e muori in catene per questo atto non virile. |
 | *(didascalia)* | Esce con i suoi soldati |
-| [[Clifford|CLIFFORD]] | (a [[King|re]] Enrico)<br>In guerra terribile possa tu essere vinto,<br>o vivere in pace, abbandonato e disprezzato. |
+| [[Clifford\|CLIFFORD]] | (a [[King\|re]] Enrico)<br>In guerra terribile possa tu essere vinto,<br>o vivere in pace, abbandonato e disprezzato. |
 | *(didascalia)* | Esce con i suoi soldati |
-| WARWICK | (a [[King|re]] Enrico)<br>Volgiti da questa parte, Enrico, e non badare a loro. |
-| EXETER | (a [[King|re]] Enrico)<br>Cercano [[Revenge|vendetta]] e perciò non cederanno. |
-| [[King|RE]] ENRICO | Ah, Exeter. |
+| WARWICK | (a [[King\|re]] Enrico)<br>Volgiti da questa parte, Enrico, e non badare a loro. |
+| EXETER | (a [[King\|re]] Enrico)<br>Cercano [[Revenge\|vendetta]] e perciò non cederanno. |
+| [[King\|RE]] ENRICO | Ah, Exeter. |
 | WARWICK | Perché sospirate, mio signore? |
-| [[King|RE]] ENRICO | Non per me, lord Warwick, ma per mio figlio,<br>che snaturatamente diserederò.<br>Ma sia come sia. (A York) Io qui vincolo<br>la [[Crown|corona]] a te e ai tuoi eredi per sempre,<br>a condizione che qui tu presti giuramento<br>di cessare questa guerra civile, e mentre io vivo<br>di [[Honour|onorarmi]] come tuo [[King|re]] e sovrano,<br>e né per tradimento né per ostilità<br>di cercare d’abbattermi e di regnare tu stesso. |
+| [[King\|RE]] ENRICO | Non per me, lord Warwick, ma per mio figlio,<br>che snaturatamente diserederò.<br>Ma sia come sia. (A York) Io qui vincolo<br>la [[Crown\|corona]] a te e ai tuoi eredi per sempre,<br>a condizione che qui tu presti giuramento<br>di cessare questa guerra civile, e mentre io vivo<br>di [[Honour\|onorarmi]] come tuo [[King\|re]] e sovrano,<br>e né per tradimento né per ostilità<br>di cercare d’abbattermi e di regnare tu stesso. |
 | YORK | Questo giuramento presto volentieri e lo compirò. |
-| WARWICK | Viva [[King|re]] Enrico. (A York) Plantageneto, abbraccialo. |
+| WARWICK | Viva [[King\|re]] Enrico. (A York) Plantageneto, abbraccialo. |
 | *(didascalia)* | York scende. Enrico e York si abbracciano |
-| [[King|RE]] ENRICO | (a York)<br>E viva tu, e questi tuoi arditi figli. |
+| [[King\|RE]] ENRICO | (a York)<br>E viva tu, e questi tuoi arditi figli. |
 | YORK | Ora York e Lancaster sono riconciliati. |
 | EXETER | Maledetto colui che cerca di farne nemici. Sennet. Qui il séguito di York scende dal trono |
-| YORK | (a [[King|re]] Enrico) |
-| *(didascalia)* | Addio, mio grazioso signore, andrò al mio [[Castle|castello]]. Escono York, Edoardo e [[Richard|Riccardo]], con soldati |
-| WARWICK | E io terrò [[London|Londra]] coi miei soldati. |
+| YORK | (a [[King\|re]] Enrico) |
+| *(didascalia)* | Addio, mio grazioso signore, andrò al mio [[Castle\|castello]]. Escono York, Edoardo e [[Richard\|Riccardo]], con soldati |
+| WARWICK | E io terrò [[London\|Londra]] coi miei soldati. |
 | *(didascalia)* | Esce Con i soldati |
 | NORFOLK | E io a Norfolk coi miei seguaci. |
 | *(didascalia)* | Esce Con i soldati |
 | MONTAGUE | E io al mare da cui venni. |
 | *(didascalia)* | Esce con i soldati |
-| *(didascalia)* | E io con pena e dolore alla [[Court|corte]]. [[King|Re]] Enrico ed Exeter si volgono per uscire. |
-| *(didascalia)* | Entrano [[Queen Margaret|la regina Margherita]] e il principe Edoardo |
-| EXETER | Ecco viene la [[Queen|regina]], il cui sguardo tradisce la sua ira. Me ne andrò di soppiatto. |
-| [[King|RE]] ENRICO | Exeter, e anch’io. |
-| [[Queen Margaret|REGINA MARGHERITA]] | No, non allontanarti da me—io ti seguirò. |
-| [[King|RE]] ENRICO | Sii paziente, gentile [[Queen|regina]], e resterò. |
-| [[Queen Margaret|REGINA MARGHERITA]] | Chi può esser paziente in tali estremi?<br>Ah, uomo miserabile, fossi morta vergine<br>e non t’avessi mai visto, mai partorito un figlio,<br>vedendo che ti sei mostrato padre così snaturato.<br>Ha egli meritato di perdere così il suo diritto di nascita?<br>Se solo l’avessi amato la metà di quanto [[Well|bene]] l’amai io,<br>o sentito quel [[Pain|dolore]] che io sentii per lui un tempo,<br>o nutrito lui come io feci col mio [[Blood|sangue]],<br>avresti lasciato là il [[Blood|sangue]] più caro del tuo cuore<br>anziché fare di quel selvaggio duca il tuo erede<br>e diseredare il tuo unico figlio. |
-| PRINCIPE EDOARDO | Padre, non potete diseredarmi.<br>Se voi siete [[King|re]], perché non dovrei succedervi? |
-| [[King|RE]] ENRICO | Perdonami, Margherita; perdonami, dolce figlio—<br>il [[Earl of Warwick|conte di Warwick]] e il duca mi costrinsero. |
-| [[Queen Margaret|REGINA MARGHERITA]] | Costretto? Sei tu [[King|re]], e vuoi esser costretto?<br>Mi vergogno d’udirti parlare! Ah, timoroso miserabile,<br>hai rovinato te stesso, tuo figlio e me,<br>e dato alla [[house|casa]] di York tale libertà<br>che regnerai solo per loro tolleranza.<br>Vincolare lui e i suoi eredi alla [[Crown|corona]]—<br>che è, se non farti il sepolcro<br>e strisciarvi dentro molto prima del tuo [[Time|tempo]]?<br>Warwick è Cancelliere e signore di Calais;<br>il severo Falconbridge comanda gli stretti mari;<br>il duca è fatto Protettore del Regno;<br>e tu sarai al sicuro? Tale sicurezza trova<br>l’[[Lamb|agnello]] tremante circondato dai lupi.<br>Fossi stata là, io che sono una debole donna,<br>i soldati m’avrebbero gettata sulle loro picche<br>prima ch’io consentissi a quell’atto.<br>Ma tu preferisci la tua vita al tuo [[Honour|onore]].<br>E poiché fai così, io qui mi [[divorce|separo]]<br>sia dalla tua mensa, Enrico, sia dal tuo letto,<br>finché quell’atto del Parlamento non sia revocato<br>per cui mio figlio è diseredato.<br>I signori del nord che hanno abiurato le tue insegne<br>seguiranno le mie, se una volta le vedranno spiegate—<br>e spiegate saranno, a tua turpe vergogna<br>e a totale rovina della [[house|casa]] di York.<br>Così ti lascio. (Al principe Edoardo) Vieni, figlio,<br>andiamo.<br>Il nostro esercito è pronto—vieni, andremo dietro a loro. |
-| [[King|RE]] ENRICO | Resta, gentile Margherita, e ascoltami parlare. |
-| [[Queen Margaret|REGINA MARGHERITA]] | Hai già parlato troppo. |
+| *(didascalia)* | E io con pena e dolore alla [[Court\|corte]]. [[King\|Re]] Enrico ed Exeter si volgono per uscire. |
+| *(didascalia)* | Entrano [[Queen Margaret\|la regina Margherita]] e il principe Edoardo |
+| EXETER | Ecco viene la [[Queen\|regina]], il cui sguardo tradisce la sua ira. Me ne andrò di soppiatto. |
+| [[King\|RE]] ENRICO | Exeter, e anch’io. |
+| [[Queen Margaret\|REGINA MARGHERITA]] | No, non allontanarti da me—io ti seguirò. |
+| [[King\|RE]] ENRICO | Sii paziente, gentile [[Queen\|regina]], e resterò. |
+| [[Queen Margaret\|REGINA MARGHERITA]] | Chi può esser paziente in tali estremi?<br>Ah, uomo miserabile, fossi morta vergine<br>e non t’avessi mai visto, mai partorito un figlio,<br>vedendo che ti sei mostrato padre così snaturato.<br>Ha egli meritato di perdere così il suo diritto di nascita?<br>Se solo l’avessi amato la metà di quanto [[Well\|bene]] l’amai io,<br>o sentito quel [[Pain\|dolore]] che io sentii per lui un tempo,<br>o nutrito lui come io feci col mio [[Blood\|sangue]],<br>avresti lasciato là il [[Blood\|sangue]] più caro del tuo cuore<br>anziché fare di quel selvaggio duca il tuo erede<br>e diseredare il tuo unico figlio. |
+| PRINCIPE EDOARDO | Padre, non potete diseredarmi.<br>Se voi siete [[King\|re]], perché non dovrei succedervi? |
+| [[King\|RE]] ENRICO | Perdonami, Margherita; perdonami, dolce figlio—<br>il [[Earl of Warwick\|conte di Warwick]] e il duca mi costrinsero. |
+| [[Queen Margaret\|REGINA MARGHERITA]] | Costretto? Sei tu [[King\|re]], e vuoi esser costretto?<br>Mi vergogno d’udirti parlare! Ah, timoroso miserabile,<br>hai rovinato te stesso, tuo figlio e me,<br>e dato alla [[house\|casa]] di York tale libertà<br>che regnerai solo per loro tolleranza.<br>Vincolare lui e i suoi eredi alla [[Crown\|corona]]—<br>che è, se non farti il sepolcro<br>e strisciarvi dentro molto prima del tuo [[Time\|tempo]]?<br>Warwick è Cancelliere e signore di Calais;<br>il severo Falconbridge comanda gli stretti mari;<br>il duca è fatto Protettore del Regno;<br>e tu sarai al sicuro? Tale sicurezza trova<br>l’[[Lamb\|agnello]] tremante circondato dai lupi.<br>Fossi stata là, io che sono una debole donna,<br>i soldati m’avrebbero gettata sulle loro picche<br>prima ch’io consentissi a quell’atto.<br>Ma tu preferisci la tua vita al tuo [[Honour\|onore]].<br>E poiché fai così, io qui mi [[divorce\|separo]]<br>sia dalla tua mensa, Enrico, sia dal tuo letto,<br>finché quell’atto del Parlamento non sia revocato<br>per cui mio figlio è diseredato.<br>I signori del nord che hanno abiurato le tue insegne<br>seguiranno le mie, se una volta le vedranno spiegate—<br>e spiegate saranno, a tua turpe vergogna<br>e a totale rovina della [[house\|casa]] di York.<br>Così ti lascio. (Al principe Edoardo) Vieni, figlio,<br>andiamo.<br>Il nostro esercito è pronto—vieni, andremo dietro a loro. |
+| [[King\|RE]] ENRICO | Resta, gentile Margherita, e ascoltami parlare. |
+| [[Queen Margaret\|REGINA MARGHERITA]] | Hai già parlato troppo. |
 | *(didascalia)* | Al principe Edoardo Vattene. |
-| [[King|RE]] ENRICO | Gentile figlio Edoardo, resterai con me? |
-| [[Queen Margaret|REGINA MARGHERITA]] | Sì, per essere assassinato dai suoi nemici. |
-| PRINCIPE EDOARDO | (a [[King|re]] Enrico)<br>Quando tornerò vittorioso dal campo,<br>vedrò vostra grazia. Fino allora, la seguirò. |
-| [[Queen Margaret|REGINA MARGHERITA]] | Vieni, figlio, via—non possiamo indugiare così. |
+| [[King\|RE]] ENRICO | Gentile figlio Edoardo, resterai con me? |
+| [[Queen Margaret\|REGINA MARGHERITA]] | Sì, per essere assassinato dai suoi nemici. |
+| PRINCIPE EDOARDO | (a [[King\|re]] Enrico)<br>Quando tornerò vittorioso dal campo,<br>vedrò vostra grazia. Fino allora, la seguirò. |
+| [[Queen Margaret\|REGINA MARGHERITA]] | Vieni, figlio, via—non possiamo indugiare così. |
 | *(didascalia)* | Esce col principe Edoardo |
-| [[King|RE]] ENRICO | Povera [[Queen|regina]], come l’[[Love|amore]] per me e per suo figlio<br>l’ha fatta erompere in parole di rabbia.<br>Possa ella vendicarsi di quel duca odioso,<br>il cui spirito altero, alato di [[Desire|desiderio]],<br>insidierà la mia [[Crown|corona]], e, come aquila digiuna,<br>si pascerà della carne mia e di mio figlio.<br>La perdita di quei tre signori mi tormenta il cuore.<br>Scriverò loro e li pregherò cortesemente.<br>Venite, cugino, voi sarete il messaggero. |
-| EXETER | E io, [[Hope|spero]], li riconcilierò tutti. |
+| [[King\|RE]] ENRICO | Povera [[Queen\|regina]], come l’[[Love\|amore]] per me e per suo figlio<br>l’ha fatta erompere in parole di rabbia.<br>Possa ella vendicarsi di quel duca odioso,<br>il cui spirito altero, alato di [[Desire\|desiderio]],<br>insidierà la mia [[Crown\|corona]], e, come aquila digiuna,<br>si pascerà della carne mia e di mio figlio.<br>La perdita di quei tre signori mi tormenta il cuore.<br>Scriverò loro e li pregherò cortesemente.<br>Venite, cugino, voi sarete il messaggero. |
+| EXETER | E io, [[Hope\|spero]], li riconcilierò tutti. |
 | *(didascalia)* | Squilli. Escono |
 
 
@@ -1601,41 +1601,41 @@ The True [[Tragedy]] of [[Richard]] [[Duke of York]] and the Good [[King]] Henry
 
 | Chi parla | Battuta |
 |---|---|
-| *(didascalia)* | Entrano [[Richard|Riccardo]], Edoardo conte di March, e il marchese di Montague |
-| [[Richard|RICCARDO]] | Fratello, benché sia il più giovane, lasciate parlare me. |
+| *(didascalia)* | Entrano [[Richard\|Riccardo]], Edoardo conte di March, e il marchese di Montague |
+| [[Richard\|RICCARDO]] | Fratello, benché sia il più giovane, lasciate parlare me. |
 | EDOARDO | No, io saprò meglio fare l’oratore. |
 | MONTAGUE | Ma io ho ragioni forti e cogenti. |
-| *(didascalia)* | Entra il [[Duke of York|duca di York]] |
+| *(didascalia)* | Entra il [[Duke of York\|duca di York]] |
 | YORK | Ebbene, che c’è, figli e fratello—in contesa?<br>Qual è la vostra lite? Come è cominciata? |
 | EDOARDO | Nessuna lite, ma una piccola disputa. |
 | YORK | Intorno a che? |
-| [[Richard|RICCARDO]] | Intorno a ciò che riguarda vostra grazia e noi—<br>la [[Crown|corona]] d’Inghilterra, padre, che è vostra. |
-| YORK | Mia, ragazzo? Non prima che [[King|re]] Enrico sia morto. |
-| [[Richard|RICCARDO]] | Il vostro diritto non dipende dalla sua vita o [[Death|morte]]. |
-| EDOARDO | Ora voi siete l’erede—perciò godetene ora.<br>Se lasciate alla [[house|casa]] di Lancaster il tempo di respirare,<br>alla fine essa vi sopravanzerà, padre. |
+| [[Richard\|RICCARDO]] | Intorno a ciò che riguarda vostra grazia e noi—<br>la [[Crown\|corona]] d’Inghilterra, padre, che è vostra. |
+| YORK | Mia, ragazzo? Non prima che [[King\|re]] Enrico sia morto. |
+| [[Richard\|RICCARDO]] | Il vostro diritto non dipende dalla sua vita o [[Death\|morte]]. |
+| EDOARDO | Ora voi siete l’erede—perciò godetene ora.<br>Se lasciate alla [[house\|casa]] di Lancaster il tempo di respirare,<br>alla fine essa vi sopravanzerà, padre. |
 | YORK | Ho prestato giuramento che egli regnasse in pace. |
 | EDOARDO | Ma per un regno ogni giuramento può esser rotto.<br>Io romperei mille giuramenti per regnare un anno. |
-| [[Richard|RICCARDO]] | (a York)<br>No—Dio non voglia che vostra grazia sia spergiura. |
+| [[Richard\|RICCARDO]] | (a York)<br>No—Dio non voglia che vostra grazia sia spergiura. |
 | YORK | Lo sarò se reclamerò con guerra aperta. |
-| [[Richard|RICCARDO]] | Proverò il contrario, se volete udirmi parlare. |
+| [[Richard\|RICCARDO]] | Proverò il contrario, se volete udirmi parlare. |
 | YORK | Non puoi, figlio—è impossibile. |
-| [[Richard|RICCARDO]] | Un giuramento non ha valore se non è prestato<br>davanti a un magistrato vero e legittimo<br>che abbia autorità su colui che giura.<br>Enrico non ne aveva alcuna, ma usurpò il posto.<br>Dunque, poiché fu lui a farvi deporre,<br>il vostro giuramento, mio signore, è vano e frivolo.<br>Perciò alle armi—e, padre, pensate soltanto<br>quanto dolce cosa sia portare una [[Crown|corona]], |
+| [[Richard\|RICCARDO]] | Un giuramento non ha valore se non è prestato<br>davanti a un magistrato vero e legittimo<br>che abbia autorità su colui che giura.<br>Enrico non ne aveva alcuna, ma usurpò il posto.<br>Dunque, poiché fu lui a farvi deporre,<br>il vostro giuramento, mio signore, è vano e frivolo.<br>Perciò alle armi—e, padre, pensate soltanto<br>quanto dolce cosa sia portare una [[Crown\|corona]], |
 | *(didascalia)* | dentro il cui cerchio è l’Eliso |
-| [[Richard|RICCARDO]] | e tutto ciò che i poeti fingono di beatitudine e gioia.<br>Perché indugiamo così? Non posso riposare<br>finché la bianca [[Rose|rosa]] che porto non sia tinta<br>nel tepido [[Blood|sangue]] del cuore di Enrico. |
-| YORK | [[Richard|Riccardo]], basta! Sarò [[King|re]] o morirò.<br>(A Montague) Fratello, andrai subito a [[London|Londra]]<br>e aizzerai Warwick a questa impresa.<br>Tu, [[Richard|Riccardo]], andrai dal duca di Norfolk<br>e gli dirai in segreto il nostro intento.<br>Voi, Edoardo, andrete da [[Edmund|Edmondo]] Brook, lord Cobham,<br>col quale gli uomini del Kent si solleveranno volentieri.<br>In loro confido, perché sono soldati<br>arguti, cortesi, generosi, pieni d’ardore.<br>Mentre voi siete così impiegati, che resta più<br>se non che io cerchi l’occasione di sollevarmi,<br>e tuttavia il [[King|re]] non sappia nulla del mio disegno,<br>né alcuno della [[house|casa]] di Lancaster. |
+| [[Richard\|RICCARDO]] | e tutto ciò che i poeti fingono di beatitudine e gioia.<br>Perché indugiamo così? Non posso riposare<br>finché la bianca [[Rose\|rosa]] che porto non sia tinta<br>nel tepido [[Blood\|sangue]] del cuore di Enrico. |
+| YORK | [[Richard\|Riccardo]], basta! Sarò [[King\|re]] o morirò.<br>(A Montague) Fratello, andrai subito a [[London\|Londra]]<br>e aizzerai Warwick a questa impresa.<br>Tu, [[Richard\|Riccardo]], andrai dal duca di Norfolk<br>e gli dirai in segreto il nostro intento.<br>Voi, Edoardo, andrete da [[Edmund\|Edmondo]] Brook, lord Cobham,<br>col quale gli uomini del Kent si solleveranno volentieri.<br>In loro confido, perché sono soldati<br>arguti, cortesi, generosi, pieni d’ardore.<br>Mentre voi siete così impiegati, che resta più<br>se non che io cerchi l’occasione di sollevarmi,<br>e tuttavia il [[King\|re]] non sappia nulla del mio disegno,<br>né alcuno della [[house\|casa]] di Lancaster. |
 | *(didascalia)* | Entra un Messo |
 | YORK | Ma ferma, che nuove? Perché vieni in tanta fretta? |
-| MESSO | La [[Queen|regina]], con tutti i conti e i signori del nord,<br>intende assediarvi qui nel vostro [[Castle|castello]].<br>Ella è vicinissima con ventimila uomini,<br>e perciò fortificate la vostra rocca, mio signore. |
-| YORK | Sì, con la mia [[Sword|spada]]. Che—credi tu che li [[Fear|temiamo]]?<br>Edoardo e [[Richard|Riccardo]], voi resterete con me;<br>mio fratello Montague correrà a [[London|Londra]].<br>Il nobile Warwick, Cobham e gli altri,<br>che abbiamo lasciato protettori del [[King|re]],<br>si rafforzino con avveduta politica,<br>e non si fidino del semplice Enrico né dei suoi giuramenti. |
-| MONTAGUE | Fratello, vado—li conquisterò, non [[Fear|temete]].<br>E così umilissimamente mi congedo. Esce |
+| MESSO | La [[Queen\|regina]], con tutti i conti e i signori del nord,<br>intende assediarvi qui nel vostro [[Castle\|castello]].<br>Ella è vicinissima con ventimila uomini,<br>e perciò fortificate la vostra rocca, mio signore. |
+| YORK | Sì, con la mia [[Sword\|spada]]. Che—credi tu che li [[Fear\|temiamo]]?<br>Edoardo e [[Richard\|Riccardo]], voi resterete con me;<br>mio fratello Montague correrà a [[London\|Londra]].<br>Il nobile Warwick, Cobham e gli altri,<br>che abbiamo lasciato protettori del [[King\|re]],<br>si rafforzino con avveduta politica,<br>e non si fidino del semplice Enrico né dei suoi giuramenti. |
+| MONTAGUE | Fratello, vado—li conquisterò, non [[Fear\|temete]].<br>E così umilissimamente mi congedo. Esce |
 | *(didascalia)* | Entrano sir John Mortimer e suo fratello sir Hugh |
-| YORK | Sir John e sir Hugh Mortimer, miei zii,<br>siete giunti a Sandal in un’ora felice.<br>L’esercito della [[Queen|regina]] intende assediarci. |
+| YORK | Sir John e sir Hugh Mortimer, miei zii,<br>siete giunti a Sandal in un’ora felice.<br>L’esercito della [[Queen\|regina]] intende assediarci. |
 | SIR JOHN | Non le occorrerà, l’incontreremo sul campo. |
 | YORK | Che, con cinquemila uomini? |
-| [[Richard|RICCARDO]] | Sì, con cinquecento, padre, al bisogno.<br>Una donna è il generale—che dovremmo [[Fear|temere]]?<br>Si ode una marcia in lontananza |
+| [[Richard\|RICCARDO]] | Sì, con cinquecento, padre, al bisogno.<br>Una donna è il generale—che dovremmo [[Fear\|temere]]?<br>Si ode una marcia in lontananza |
 | EDOARDO | Odo i loro tamburi. Mettiamo in ordine i nostri uomini,<br>e usciamo e offriamo loro battaglia subito. |
 | *(didascalia)* | YORK a sir John e sir Hugh |
-| EDOARDO | Cinque uomini contro venti—benché la disparità sia grande,<br>non [[Doubt|dubito]], zii, della nostra vittoria.<br>Molte battaglie ho vinto in Francia<br>quando il nemico era dieci a uno—<br>perché non dovrei avere ora il medesimo [[success|successo]]? Escono |
+| EDOARDO | Cinque uomini contro venti—benché la disparità sia grande,<br>non [[Doubt\|dubito]], zii, della nostra vittoria.<br>Molte battaglie ho vinto in Francia<br>quando il nemico era dieci a uno—<br>perché non dovrei avere ora il medesimo [[success\|successo]]? Escono |
 
 
 
@@ -1680,28 +1680,28 @@ The True [[Tragedy]] of [[Richard]] [[Duke of York]] and the Good [[King]] Henry
 | RUTLAND | Ah, dove fuggirò per scampare alle loro mani? |
 | *(didascalia)* | Entra lord [[Clifford]] con soldati |
 | RUTLAND | Ah, precettore, guardate dove viene il sanguinario [[Clifford]]. |
-| [[Clifford|CLIFFORD]] | (al Precettore)<br>Cappellano, via—il tuo sacerdozio ti salva la vita.<br>Quanto al marmocchio di questo duca maledetto,<br>il cui padre uccise mio padre—egli morrà. |
+| [[Clifford\|CLIFFORD]] | (al Precettore)<br>Cappellano, via—il tuo sacerdozio ti salva la vita.<br>Quanto al marmocchio di questo duca maledetto,<br>il cui padre uccise mio padre—egli morrà. |
 | PRECETTORE | E io, mio signore, gli farò compagnia. |
-| [[Clifford|CLIFFORD]] | Soldati, portatelo via. |
-| PRECETTORE | Ah, [[Clifford]], non assassinare questo [[Innocent|innocente]] [[Child|fanciullo]]<br>per non essere odiato da Dio e dagli uomini. |
+| [[Clifford\|CLIFFORD]] | Soldati, portatelo via. |
+| PRECETTORE | Ah, [[Clifford]], non assassinare questo [[Innocent\|innocente]] [[Child\|fanciullo]]<br>per non essere odiato da Dio e dagli uomini. |
 | *(didascalia)* | Esce, sotto scorta |
 | *(didascalia)* | Rutland cade a terra |
-| [[Clifford|CLIFFORD]] | Ebbene—è già morto?<br>O è la [[Fear|paura]] che gli fa chiudere gli occhi?<br>Glieli aprirò io. |
+| [[Clifford\|CLIFFORD]] | Ebbene—è già morto?<br>O è la [[Fear\|paura]] che gli fa chiudere gli occhi?<br>Glieli aprirò io. |
 | *(didascalia)* | RUTLAND rinvenendo |
-| [[Clifford|CLIFFORD]] | Così guarda il [[Lion|leone]] rinchiuso il miserabile<br>che trema sotto le sue zampe divoratrici,<br>e così egli cammina, insultando la sua preda,<br>e così viene a lacerarne le membra.<br>Ah, gentile [[Clifford]], uccidimi con la tua [[Sword|spada]]<br>e non con un tale sguardo di crudele minaccia.<br>Dolce [[Clifford]], ascoltami parlare prima ch’io muoia.<br>Sono soggetto troppo meschino per la tua ira.<br>Vèndicati sugli uomini, e lascia che io viva. |
-| [[Clifford|CLIFFORD]] | Invano parli, povero ragazzo. Il [[Blood|sangue]] di mio padre<br>ha chiuso il passaggio dove le tue parole dovrebbero<br>entrare. |
-| RUTLAND | Allora lo riapra il [[Blood|sangue]] di mio padre.<br>Egli è un uomo, e, [[Clifford]], misùrati con lui. |
-| [[Clifford|CLIFFORD]] | Avessi qui i tuoi fratelli, le loro vite e la tua<br>non sarebbero [[Revenge|vendetta]] bastante per me.<br>No—se dissotterrassi le tombe dei tuoi antenati,<br>e appendessi in [[Chains|catene]] le loro bare marcite,<br>non potrei spegnere la mia collera né alleviare il mio cuore.<br>La vista di chiunque della [[house|casa]] di York<br>è come una furia che tormenta la mia [[Soul|anima]].<br>E finché non sradichi la loro stirpe maledetta,<br>e non ne lasci uno vivo, io vivo nell’inferno.<br>Perciò— |
-| RUTLAND | Oh, lasciami pregare prima di ricevere la mia [[Death|morte]]. |
+| [[Clifford\|CLIFFORD]] | Così guarda il [[Lion\|leone]] rinchiuso il miserabile<br>che trema sotto le sue zampe divoratrici,<br>e così egli cammina, insultando la sua preda,<br>e così viene a lacerarne le membra.<br>Ah, gentile [[Clifford]], uccidimi con la tua [[Sword\|spada]]<br>e non con un tale sguardo di crudele minaccia.<br>Dolce [[Clifford]], ascoltami parlare prima ch’io muoia.<br>Sono soggetto troppo meschino per la tua ira.<br>Vèndicati sugli uomini, e lascia che io viva. |
+| [[Clifford\|CLIFFORD]] | Invano parli, povero ragazzo. Il [[Blood\|sangue]] di mio padre<br>ha chiuso il passaggio dove le tue parole dovrebbero<br>entrare. |
+| RUTLAND | Allora lo riapra il [[Blood\|sangue]] di mio padre.<br>Egli è un uomo, e, [[Clifford]], misùrati con lui. |
+| [[Clifford\|CLIFFORD]] | Avessi qui i tuoi fratelli, le loro vite e la tua<br>non sarebbero [[Revenge\|vendetta]] bastante per me.<br>No—se dissotterrassi le tombe dei tuoi antenati,<br>e appendessi in [[Chains\|catene]] le loro bare marcite,<br>non potrei spegnere la mia collera né alleviare il mio cuore.<br>La vista di chiunque della [[house\|casa]] di York<br>è come una furia che tormenta la mia [[Soul\|anima]].<br>E finché non sradichi la loro stirpe maledetta,<br>e non ne lasci uno vivo, io vivo nell’inferno.<br>Perciò— |
+| RUTLAND | Oh, lasciami pregare prima di ricevere la mia [[Death\|morte]]. |
 | *(didascalia)* | Inginocchiandosi A te prego: dolce [[Clifford]], abbi pietà di me. |
-| [[Clifford|CLIFFORD]] | Tale pietà quale offre la punta del mio stocco. |
+| [[Clifford\|CLIFFORD]] | Tale pietà quale offre la punta del mio stocco. |
 | RUTLAND | Non t’ho mai fatto male—perché vuoi uccidermi? |
-| [[Clifford|CLIFFORD]] | Tuo padre l’ha fatto. |
-| RUTLAND | Ma fu prima ch’io nascessi.<br>Tu hai un figlio—per amor suo abbi pietà di me,<br>perché in [[Revenge|vendetta]] di ciò, poiché Dio è giusto,<br>egli non sia ucciso miseramente come me.<br>Ah, lasciami vivere in [[Prison|prigione]] tutti i miei giorni,<br>e quando darò motivo d’offesa,<br>allora lasciami morire, perché ora non ne hai ragione. |
-| [[Clifford|CLIFFORD]] | Nessuna ragione? Tuo padre uccise mio padre, perciò muori. Lo pugnala |
+| [[Clifford\|CLIFFORD]] | Tuo padre l’ha fatto. |
+| RUTLAND | Ma fu prima ch’io nascessi.<br>Tu hai un figlio—per amor suo abbi pietà di me,<br>perché in [[Revenge\|vendetta]] di ciò, poiché Dio è giusto,<br>egli non sia ucciso miseramente come me.<br>Ah, lasciami vivere in [[Prison\|prigione]] tutti i miei giorni,<br>e quando darò motivo d’offesa,<br>allora lasciami morire, perché ora non ne hai ragione. |
+| [[Clifford\|CLIFFORD]] | Nessuna ragione? Tuo padre uccise mio padre, perciò muori. Lo pugnala |
 | RUTLAND | Dii faciant laudis summa sit ista tuae. Muore |
-| [[Clifford|CLIFFORD]] | Plantageneto—io vengo, Plantageneto!<br>E questo [[Blood|sangue]] di tuo figlio aderente alla mia lama<br>si arruggínirà sulla mia arma finché il tuo [[Blood|sangue]],<br>rappreso con questo, non mi faccia tergere entrambi. |
-| *(didascalia)* | Esce col [[Body|corpo]] di Rutland e i soldati |
+| [[Clifford\|CLIFFORD]] | Plantageneto—io vengo, Plantageneto!<br>E questo [[Blood\|sangue]] di tuo figlio aderente alla mia lama<br>si arruggínirà sulla mia arma finché il tuo [[Blood\|sangue]],<br>rappreso con questo, non mi faccia tergere entrambi. |
+| *(didascalia)* | Esce col [[Body\|corpo]] di Rutland e i soldati |
 
 
 
@@ -1750,40 +1750,40 @@ The True [[Tragedy]] of [[Richard]] [[Duke of York]] and the Good [[King]] Henry
 
 | Chi parla | Battuta |
 |---|---|
-| *(didascalia)* | Squillo d’allarme. Entra [[Richard|Riccardo]] [[Duke of York|duca di York]] YORK |
-| *(didascalia)* | L’esercito della [[Queen|regina]] ha vinto il campo;<br>i miei due zii sono uccisi per soccorrermi;<br>e tutti i miei seguaci, davanti al nemico avido,<br>volgono le spalle e fuggono come navi davanti al [[Wind|vento]],<br>o come agnelli inseguiti da lupi affamati.<br>I miei figli—Dio sa che cosa sia loro accaduto.<br>Ma questo so—si sono comportati<br>come uomini nati alla fama per la vita o per la [[Death|morte]].<br>Tre volte [[Richard|Riccardo]] s’aprì un varco fino a me,<br>e tre volte gridò: ‘[[Courage|Coraggio]], padre, battiti fino in fondo!’<br>e altrettanto spesso venne Edoardo al mio fianco,<br>con la scimitarra purpurea dipinta fino all’elsa<br>del [[Blood|sangue]] di quelli che l’avevano affrontato.<br>E quando i più intrepidi guerrieri si ritiravano,<br>[[Richard|Riccardo]] gridava: ‘Caricate e non cedete un piede di terra!’<br>e gridava: ‘Una [[Crown|corona]] o una tomba gloriosa!<br>Uno scettro o un sepolcro terreno!’<br>Con questo caricammo di nuovo—ma ahimè—<br>di nuovo fallimmo, come ho visto un cigno<br>con vana fatica nuotare contro la corrente<br>e consumare la sua forza contro onde soverchianti.<br>Breve squillo d’allarme dall’interno<br>Ah, udite—gli inseguitori fatali sono alle calcagna,<br>e io sono sfinito e non posso fuggire la loro furia;<br>e fossi forte, non sfuggirei alla loro furia.<br>Sono contati i granelli che compongono la mia vita.<br>Qui devo restare, e qui la mia vita deve finire. |
-| *(didascalia)* | Entrano [[Queen Margaret|la regina Margherita]], lord [[Clifford]], il conte di |
+| *(didascalia)* | Squillo d’allarme. Entra [[Richard\|Riccardo]] [[Duke of York\|duca di York]] YORK |
+| *(didascalia)* | L’esercito della [[Queen\|regina]] ha vinto il campo;<br>i miei due zii sono uccisi per soccorrermi;<br>e tutti i miei seguaci, davanti al nemico avido,<br>volgono le spalle e fuggono come navi davanti al [[Wind\|vento]],<br>o come agnelli inseguiti da lupi affamati.<br>I miei figli—Dio sa che cosa sia loro accaduto.<br>Ma questo so—si sono comportati<br>come uomini nati alla fama per la vita o per la [[Death\|morte]].<br>Tre volte [[Richard\|Riccardo]] s’aprì un varco fino a me,<br>e tre volte gridò: ‘[[Courage\|Coraggio]], padre, battiti fino in fondo!’<br>e altrettanto spesso venne Edoardo al mio fianco,<br>con la scimitarra purpurea dipinta fino all’elsa<br>del [[Blood\|sangue]] di quelli che l’avevano affrontato.<br>E quando i più intrepidi guerrieri si ritiravano,<br>[[Richard\|Riccardo]] gridava: ‘Caricate e non cedete un piede di terra!’<br>e gridava: ‘Una [[Crown\|corona]] o una tomba gloriosa!<br>Uno scettro o un sepolcro terreno!’<br>Con questo caricammo di nuovo—ma ahimè—<br>di nuovo fallimmo, come ho visto un cigno<br>con vana fatica nuotare contro la corrente<br>e consumare la sua forza contro onde soverchianti.<br>Breve squillo d’allarme dall’interno<br>Ah, udite—gli inseguitori fatali sono alle calcagna,<br>e io sono sfinito e non posso fuggire la loro furia;<br>e fossi forte, non sfuggirei alla loro furia.<br>Sono contati i granelli che compongono la mia vita.<br>Qui devo restare, e qui la mia vita deve finire. |
+| *(didascalia)* | Entrano [[Queen Margaret\|la regina Margherita]], lord [[Clifford]], il conte di |
 | *(didascalia)* | Northumberland, e il giovane principe Edoardo,<br><br>con soldati<br><br>Vieni, sanguinario [[Clifford]], rude Northumberland—<br>sfido la vostra furia inestinguibile a maggior rabbia!<br>Io sono il vostro bersaglio, e attendo il vostro tiro. |
-| NORTHUMBERLAND | Arrenditi alla nostra [[Mercy|clemenza]], superbo Plantageneto. |
-| [[Clifford|CLIFFORD]] | Sì, a tale [[Mercy|clemenza]] quale il suo braccio spietato,<br>con pagamento sonante, mostrò a mio padre.<br>Ora Fetonte è precipitato dal suo carro,<br>e ha fatto sera nel punto del meriggio. |
-| YORK | Le mie ceneri, come la fenice, possono generare<br>un uccello che si [[Revenge|vendicherà]] di voi tutti,<br>e in quella [[Hope|speranza]] volgo gli occhi al cielo,<br>sprezzando quanto potete infliggermi.<br>Perché non venite? Che—moltitudini, e [[Fear|paura]]? |
-| [[Clifford|CLIFFORD]] | Così combattono i codardi quando non possono più fuggire;<br>così le colombe beccano i penetranti artigli del falcone;<br>così ladri disperati, senza più speranza di vita,<br>esalano invettive contro gli ufficiali. |
-| YORK | O [[Clifford]], ma ripensaci una volta ancora,<br>e col pensiero ripercorri il mio [[Time|tempo]] passato,<br>e, se il rossore te lo consente, guarda questo volto<br>e mordi la tua lingua, che accusa di codardia colui<br>il cui cipiglio già ti fece venir meno e fuggire. |
-| [[Clifford|CLIFFORD]] | Non scambierò con te parola per parola,<br>ma m’azzufferò con te a colpi, quattro per uno. |
-| *(didascalia)* | Sguaina la [[Sword|spada]] |
-| [[Queen Margaret|REGINA MARGHERITA]] | Ferma, valoroso [[Clifford]]: per mille ragioni<br>vorrei prolungare un poco la vita del traditore.<br>L’ira lo fa sordo—parla tu, Northumberland. |
-| NORTHUMBERLAND | Ferma, [[Clifford]]—non [[Honour|onorarlo]] tanto<br>da pungerti un dito pur per ferirgli il cuore.<br>Che valore sarebbe, quando un cane ringhia,<br>cacciargli la mano fra i denti,<br>quando lo si potrebbe scostare con un piede?<br>È il premio della guerra prendere ogni vantaggio,<br>e dieci contro uno non è accusa al valore. |
+| NORTHUMBERLAND | Arrenditi alla nostra [[Mercy\|clemenza]], superbo Plantageneto. |
+| [[Clifford\|CLIFFORD]] | Sì, a tale [[Mercy\|clemenza]] quale il suo braccio spietato,<br>con pagamento sonante, mostrò a mio padre.<br>Ora Fetonte è precipitato dal suo carro,<br>e ha fatto sera nel punto del meriggio. |
+| YORK | Le mie ceneri, come la fenice, possono generare<br>un uccello che si [[Revenge\|vendicherà]] di voi tutti,<br>e in quella [[Hope\|speranza]] volgo gli occhi al cielo,<br>sprezzando quanto potete infliggermi.<br>Perché non venite? Che—moltitudini, e [[Fear\|paura]]? |
+| [[Clifford\|CLIFFORD]] | Così combattono i codardi quando non possono più fuggire;<br>così le colombe beccano i penetranti artigli del falcone;<br>così ladri disperati, senza più speranza di vita,<br>esalano invettive contro gli ufficiali. |
+| YORK | O [[Clifford]], ma ripensaci una volta ancora,<br>e col pensiero ripercorri il mio [[Time\|tempo]] passato,<br>e, se il rossore te lo consente, guarda questo volto<br>e mordi la tua lingua, che accusa di codardia colui<br>il cui cipiglio già ti fece venir meno e fuggire. |
+| [[Clifford\|CLIFFORD]] | Non scambierò con te parola per parola,<br>ma m’azzufferò con te a colpi, quattro per uno. |
+| *(didascalia)* | Sguaina la [[Sword\|spada]] |
+| [[Queen Margaret\|REGINA MARGHERITA]] | Ferma, valoroso [[Clifford]]: per mille ragioni<br>vorrei prolungare un poco la vita del traditore.<br>L’ira lo fa sordo—parla tu, Northumberland. |
+| NORTHUMBERLAND | Ferma, [[Clifford]]—non [[Honour\|onorarlo]] tanto<br>da pungerti un dito pur per ferirgli il cuore.<br>Che valore sarebbe, quando un cane ringhia,<br>cacciargli la mano fra i denti,<br>quando lo si potrebbe scostare con un piede?<br>È il premio della guerra prendere ogni vantaggio,<br>e dieci contro uno non è accusa al valore. |
 | *(didascalia)* | Combattono e catturano York |
-| [[Clifford|CLIFFORD]] | Sì, sì, così si dibatte la beccaccia nel laccio. |
+| [[Clifford\|CLIFFORD]] | Sì, sì, così si dibatte la beccaccia nel laccio. |
 | NORTHUMBERLAND | Così il coniglio lotta nella rete. |
 | YORK | Così trionfano i ladri sulla preda conquistata,<br>così cedono gli onesti, così soverchiati dai briganti. |
-| NORTHUMBERLAND | (alla [[Queen|regina]])<br>Che avrebbe voluto farne vostra grazia, ora? |
-| [[Queen Margaret|REGINA MARGHERITA]] | Bravi guerrieri, [[Clifford]] e Northumberland,<br>venite, fatelo stare su questo monticello,<br>lui che aspirava alle [[Mountains|montagne]] con braccia tese<br>e con la mano divise soltanto l’[[Shadow|ombra]].<br>(A York) Che—eravate voi che volevate essere il<br>[[King|re]] d’Inghilterra?<br>Eravate voi che gozzovigliavate nel nostro Parlamento,<br>e facevate una predica della vostra alta discendenza?<br>Dov’è la vostra nidiata di figli a sostenervi ora?<br>Il lascivo Edoardo e il gagliardo Giorgio?<br>E dov’è quel valoroso prodigio gobbo,<br>Richetto, il vostro ragazzo, che con la sua voce brontolona<br>soleva rincuorare il babbo nelle risse?<br>O con gli altri, dov’è il vostro caro Rutland?<br>Guarda, York, ho macchiato questo panno col [[Blood|sangue]]<br>che il valoroso [[Clifford]] con la punta del suo stocco<br>fece sgorgare dal petto del tuo ragazzo.<br>E se i tuoi occhi possono [[Water|lacrimare]] per la sua [[Death|morte]],<br>ti dono questo per asciugarti le guance.<br>Ahimè, povero York, se non ti odiassi a morte<br>compiangerei il tuo miserabile stato.<br>Ti prego, affliggiti, per rallegrarmi, York.<br>Che—il tuo cuore infuocato ti ha così inaridito le viscere<br>che non una lacrima può cadere per la [[Death|morte]] di Rutland?<br>Perché sei paziente, uomo? Dovresti impazzire,<br>e io, per farti impazzire, ti scherno così.<br>Pesta i piedi, delira e smania, ch’io possa cantare e [[Dance|danzare]].<br>Vuoi essere pagato, vedo, per darmi spasso.<br>York non può parlare se non porta una [[Crown|corona]].<br>(Ai suoi uomini) Una [[Crown|corona]] per York, e, signori, inchinatevi profondamente a<br>lui.<br>Tenetegli le mani mentre io gliela pongo.<br>Pone una [[Crown|corona]] di carta sul capo di York<br>Sì, davvero, signore, ora sembra un [[King|re]],<br>sì, questo è colui che prese il trono di [[King|re]] Enrico,<br>e questo è colui che fu il suo erede adottivo.<br>Ma com’è che il grande Plantageneto<br>è incoronato così presto e ha rotto il suo solenne giuramento?<br>Se ben ricordo, non dovevate esser [[King|re]]<br>finché il nostro [[King|re]] Enrico non avesse stretto la mano alla [[Death|morte]].<br>E volete cingere il capo nella gloria di Enrico,<br>e derubare le sue tempie del diadema<br>ora, in vita sua, contro il vostro santo giuramento?<br>Oh, è una colpa troppo, troppo imperdonabile.<br>Via la [[Crown|corona]], |
+| NORTHUMBERLAND | (alla [[Queen\|regina]])<br>Che avrebbe voluto farne vostra grazia, ora? |
+| [[Queen Margaret\|REGINA MARGHERITA]] | Bravi guerrieri, [[Clifford]] e Northumberland,<br>venite, fatelo stare su questo monticello,<br>lui che aspirava alle [[Mountains\|montagne]] con braccia tese<br>e con la mano divise soltanto l’[[Shadow\|ombra]].<br>(A York) Che—eravate voi che volevate essere il<br>[[King\|re]] d’Inghilterra?<br>Eravate voi che gozzovigliavate nel nostro Parlamento,<br>e facevate una predica della vostra alta discendenza?<br>Dov’è la vostra nidiata di figli a sostenervi ora?<br>Il lascivo Edoardo e il gagliardo Giorgio?<br>E dov’è quel valoroso prodigio gobbo,<br>Richetto, il vostro ragazzo, che con la sua voce brontolona<br>soleva rincuorare il babbo nelle risse?<br>O con gli altri, dov’è il vostro caro Rutland?<br>Guarda, York, ho macchiato questo panno col [[Blood\|sangue]]<br>che il valoroso [[Clifford]] con la punta del suo stocco<br>fece sgorgare dal petto del tuo ragazzo.<br>E se i tuoi occhi possono [[Water\|lacrimare]] per la sua [[Death\|morte]],<br>ti dono questo per asciugarti le guance.<br>Ahimè, povero York, se non ti odiassi a morte<br>compiangerei il tuo miserabile stato.<br>Ti prego, affliggiti, per rallegrarmi, York.<br>Che—il tuo cuore infuocato ti ha così inaridito le viscere<br>che non una lacrima può cadere per la [[Death\|morte]] di Rutland?<br>Perché sei paziente, uomo? Dovresti impazzire,<br>e io, per farti impazzire, ti scherno così.<br>Pesta i piedi, delira e smania, ch’io possa cantare e [[Dance\|danzare]].<br>Vuoi essere pagato, vedo, per darmi spasso.<br>York non può parlare se non porta una [[Crown\|corona]].<br>(Ai suoi uomini) Una [[Crown\|corona]] per York, e, signori, inchinatevi profondamente a<br>lui.<br>Tenetegli le mani mentre io gliela pongo.<br>Pone una [[Crown\|corona]] di carta sul capo di York<br>Sì, davvero, signore, ora sembra un [[King\|re]],<br>sì, questo è colui che prese il trono di [[King\|re]] Enrico,<br>e questo è colui che fu il suo erede adottivo.<br>Ma com’è che il grande Plantageneto<br>è incoronato così presto e ha rotto il suo solenne giuramento?<br>Se ben ricordo, non dovevate esser [[King\|re]]<br>finché il nostro [[King\|re]] Enrico non avesse stretto la mano alla [[Death\|morte]].<br>E volete cingere il capo nella gloria di Enrico,<br>e derubare le sue tempie del diadema<br>ora, in vita sua, contro il vostro santo giuramento?<br>Oh, è una colpa troppo, troppo imperdonabile.<br>Via la [[Crown\|corona]], |
 | *(didascalia)* | Gliela fa cadere dal capo |
-| [[Queen Margaret|REGINA MARGHERITA]] | e con la [[Crown|corona]] la sua testa,<br>e mentre respiriamo, prendiamoci il [[Time|tempo]] di farlo morire. |
-| [[Clifford|CLIFFORD]] | Questo è il mio ufficio, per amor di mio padre. |
-| [[Queen Margaret|REGINA MARGHERITA]] | No, aspetta—udiamo le preghiere che fa. |
-| YORK | Lupa di Francia, ma peggiore dei lupi di Francia,<br>la cui lingua avvelena più del dente della vipera—<br>quanto è indecoroso nel tuo sesso<br>trionfare come una sgualdrina amazzone<br>sui dolori di coloro che la fortuna fa prigionieri!<br>Se il tuo volto non fosse come una visiera, immutabile,<br>reso impudente dall’uso di malvage azioni,<br>io [[Essay|tenterei]], superba [[Queen|regina]], di farti arrossire.<br>Dirti d’onde venisti, da chi derivi,<br>sarebbe vergogna bastante a svergognarti—se tu non fossi<br>senza vergogna.<br>Tuo padre porta il titolo di [[King|re]] di Napoli,<br>delle due Sicilie e di Gerusalemme—<br>eppure non è ricco quanto un fittavolo inglese.<br>T’ha insegnato a insultare quel povero monarca?<br>Non serve, né ti giova, superba [[Queen|regina]],<br>se non perché si verifichi l’adagio<br>che i mendicanti a cavallo spingono il [[Horse|cavallo]] a [[Death|morte]].<br>È la [[Beauty|bellezza]] che spesso rende superbe le donne—<br>ma, Dio sa, la tua parte è piccola;<br>è la virtù che le rende più ammirate—<br>il contrario fa che di te si stupiscano;<br>è il [[government|contegno]] che le fa parer divine—<br>la sua mancanza ti rende abominevole.<br>Sei tanto opposta a ogni bene<br>quanto gli antipodi sono a noi,<br>o quanto il sud al settentrione.<br>O cuore di tigre avvolto in pelle di donna!<br>Come hai potuto spillare il [[Blood|sangue]] vitale del [[Child|fanciullo]]<br>per invitare il padre ad asciugarsi con esso gli occhi,<br>e ancora mostrarti col volto di donna?<br>Le donne sono tenere, miti, pietose e flessibili—<br>tu severa, ostinata, di selce, rude, senza rimorso.<br>Mi chiedi d’infuriare? Ecco, ora hai il tuo desiderio.<br>Vorresti farmi piangere? Ecco, ora hai la tua volontà.<br>Ché il [[Wind|vento]] furioso solleva rovesci incessanti,<br>e quando la furia si placa comincia la pioggia.<br>Queste [[Tears|lacrime]] sono le esequie del mio dolce Rutland,<br>e ogni goccia grida vendetta per la sua [[Death|morte]]<br>contro te, feroce [[Clifford]], e te, falsa Francese. |
-| NORTHUMBERLAND | Maledetto me, ma le sue passioni mi commuovono tanto<br>che a stento trattengo i miei occhi dalle [[Tears|lacrime]]. |
-| YORK | Quel suo volto i cannibali affamati<br>non avrebbero toccato, non avrebbero macchiato<br>di [[Blood|sangue]]—<br>ma voi siete più inumani, più inesorabili,<br>oh, dieci volte più delle tigri d’Ircania.<br>Vedi, spietata [[Queen|regina]], le [[Tears|lacrime]] d’un padre sventurato.<br>Questo panno tu l’immergesti nel [[Blood|sangue]] del mio dolce ragazzo,<br>e io con le [[Tears|lacrime]] ne lavo via il [[Blood|sangue]].<br>Tieni tu il panno e va’ a vantartene,<br>e se racconterai bene la pesante storia,<br>sulla mia [[Soul|anima]], chi t’ascolta verserà [[Tears|lacrime]],<br>sì, anche i miei nemici verseranno [[Tears|lacrime]] a dirotto<br>e diranno: ‘Ahimè, fu un atto pietoso’.<br>Ecco, prendi la [[Crown|corona]]—e con la [[Crown|corona]], la mia<br>maledizione:<br>e nel tuo bisogno ti venga tale conforto<br>quale ora io raccolgo dalla tua troppo crudele mano.<br>[[Clifford]] dal cuore duro, tòglimi dal mondo.<br>La mia [[Soul|anima]] al cielo, il mio [[Blood|sangue]] sulle vostre teste. |
-| NORTHUMBERLAND | Fosse stato il carnefice di tutti i miei congiunti,<br>non potrei, per la mia vita, non piangere con lui,<br>a vedere come il dolore gli stringe dentro l’[[Soul|anima]]. |
-| [[Queen Margaret|REGINA MARGHERITA]] | Che—pronto al pianto, mio lord Northumberland?<br>Pensa soltanto al torto che fece a tutti noi,<br>e questo asciugherà presto le tue tenere [[Tears|lacrime]]. |
-| [[Clifford|CLIFFORD]] | Questo per il mio giuramento, questo per la [[Death|morte]] di mio padre. Pugnala York |
-| [[Queen Margaret|REGINA MARGHERITA]] | E questo per far giustizia al nostro [[King|re]] dal cuore gentile.<br>Pugnala York |
-| YORK | Apri la tua porta di [[Mercy|misericordia]], Dio clemente—<br>la mia [[Soul|anima]] vola per queste ferite a cercarti. |
+| [[Queen Margaret\|REGINA MARGHERITA]] | e con la [[Crown\|corona]] la sua testa,<br>e mentre respiriamo, prendiamoci il [[Time\|tempo]] di farlo morire. |
+| [[Clifford\|CLIFFORD]] | Questo è il mio ufficio, per amor di mio padre. |
+| [[Queen Margaret\|REGINA MARGHERITA]] | No, aspetta—udiamo le preghiere che fa. |
+| YORK | Lupa di Francia, ma peggiore dei lupi di Francia,<br>la cui lingua avvelena più del dente della vipera—<br>quanto è indecoroso nel tuo sesso<br>trionfare come una sgualdrina amazzone<br>sui dolori di coloro che la fortuna fa prigionieri!<br>Se il tuo volto non fosse come una visiera, immutabile,<br>reso impudente dall’uso di malvage azioni,<br>io [[Essay\|tenterei]], superba [[Queen\|regina]], di farti arrossire.<br>Dirti d’onde venisti, da chi derivi,<br>sarebbe vergogna bastante a svergognarti—se tu non fossi<br>senza vergogna.<br>Tuo padre porta il titolo di [[King\|re]] di Napoli,<br>delle due Sicilie e di Gerusalemme—<br>eppure non è ricco quanto un fittavolo inglese.<br>T’ha insegnato a insultare quel povero monarca?<br>Non serve, né ti giova, superba [[Queen\|regina]],<br>se non perché si verifichi l’adagio<br>che i mendicanti a cavallo spingono il [[Horse\|cavallo]] a [[Death\|morte]].<br>È la [[Beauty\|bellezza]] che spesso rende superbe le donne—<br>ma, Dio sa, la tua parte è piccola;<br>è la virtù che le rende più ammirate—<br>il contrario fa che di te si stupiscano;<br>è il [[government\|contegno]] che le fa parer divine—<br>la sua mancanza ti rende abominevole.<br>Sei tanto opposta a ogni bene<br>quanto gli antipodi sono a noi,<br>o quanto il sud al settentrione.<br>O cuore di tigre avvolto in pelle di donna!<br>Come hai potuto spillare il [[Blood\|sangue]] vitale del [[Child\|fanciullo]]<br>per invitare il padre ad asciugarsi con esso gli occhi,<br>e ancora mostrarti col volto di donna?<br>Le donne sono tenere, miti, pietose e flessibili—<br>tu severa, ostinata, di selce, rude, senza rimorso.<br>Mi chiedi d’infuriare? Ecco, ora hai il tuo desiderio.<br>Vorresti farmi piangere? Ecco, ora hai la tua volontà.<br>Ché il [[Wind\|vento]] furioso solleva rovesci incessanti,<br>e quando la furia si placa comincia la pioggia.<br>Queste [[Tears\|lacrime]] sono le esequie del mio dolce Rutland,<br>e ogni goccia grida vendetta per la sua [[Death\|morte]]<br>contro te, feroce [[Clifford]], e te, falsa Francese. |
+| NORTHUMBERLAND | Maledetto me, ma le sue passioni mi commuovono tanto<br>che a stento trattengo i miei occhi dalle [[Tears\|lacrime]]. |
+| YORK | Quel suo volto i cannibali affamati<br>non avrebbero toccato, non avrebbero macchiato<br>di [[Blood\|sangue]]—<br>ma voi siete più inumani, più inesorabili,<br>oh, dieci volte più delle tigri d’Ircania.<br>Vedi, spietata [[Queen\|regina]], le [[Tears\|lacrime]] d’un padre sventurato.<br>Questo panno tu l’immergesti nel [[Blood\|sangue]] del mio dolce ragazzo,<br>e io con le [[Tears\|lacrime]] ne lavo via il [[Blood\|sangue]].<br>Tieni tu il panno e va’ a vantartene,<br>e se racconterai bene la pesante storia,<br>sulla mia [[Soul\|anima]], chi t’ascolta verserà [[Tears\|lacrime]],<br>sì, anche i miei nemici verseranno [[Tears\|lacrime]] a dirotto<br>e diranno: ‘Ahimè, fu un atto pietoso’.<br>Ecco, prendi la [[Crown\|corona]]—e con la [[Crown\|corona]], la mia<br>maledizione:<br>e nel tuo bisogno ti venga tale conforto<br>quale ora io raccolgo dalla tua troppo crudele mano.<br>[[Clifford]] dal cuore duro, tòglimi dal mondo.<br>La mia [[Soul\|anima]] al cielo, il mio [[Blood\|sangue]] sulle vostre teste. |
+| NORTHUMBERLAND | Fosse stato il carnefice di tutti i miei congiunti,<br>non potrei, per la mia vita, non piangere con lui,<br>a vedere come il dolore gli stringe dentro l’[[Soul\|anima]]. |
+| [[Queen Margaret\|REGINA MARGHERITA]] | Che—pronto al pianto, mio lord Northumberland?<br>Pensa soltanto al torto che fece a tutti noi,<br>e questo asciugherà presto le tue tenere [[Tears\|lacrime]]. |
+| [[Clifford\|CLIFFORD]] | Questo per il mio giuramento, questo per la [[Death\|morte]] di mio padre. Pugnala York |
+| [[Queen Margaret\|REGINA MARGHERITA]] | E questo per far giustizia al nostro [[King\|re]] dal cuore gentile.<br>Pugnala York |
+| YORK | Apri la tua porta di [[Mercy\|misericordia]], Dio clemente—<br>la mia [[Soul\|anima]] vola per queste ferite a cercarti. |
 | *(didascalia)* | Muore |
-| [[Queen Margaret|REGINA MARGHERITA]] | Tagliategli la testa e ponetela sulle porte di York,<br>così York potrà sovrastare la città di York. |
-| *(didascalia)* | Squilli. Escono col [[Body|corpo]] di York |
+| [[Queen Margaret\|REGINA MARGHERITA]] | Tagliategli la testa e ponetela sulle porte di York,<br>così York potrà sovrastare la città di York. |
+| *(didascalia)* | Squilli. Escono col [[Body\|corpo]] di York |
 
 
 
@@ -1840,46 +1840,46 @@ The True [[Tragedy]] of [[Richard]] [[Duke of York]] and the Good [[King]] Henry
 
 | Chi parla | Battuta |
 |---|---|
-| *(didascalia)* | Una marcia. Entrano Edoardo conte di March e [[Richard|Riccardo]], con un tamburino e soldati |
-| EDOARDO | Mi [[Wonder|domando]] come sia scampato il nostro principesco padre,<br>o se sia scampato o no<br>all’inseguimento di [[Clifford]] e di Northumberland.<br>Fosse stato preso, ne avremmo udito la nuova;<br>fosse stato ucciso, ne avremmo udito la nuova;<br>o fosse scampato, mi pare che avremmo udito<br>la felice notizia della sua buona fuga.<br>Come sta mio fratello? Perché è così triste? |
-| [[Richard|RICCARDO]] | Non posso gioire finché non sia certo<br>di che cosa sia avvenuto del nostro assai valoroso padre.<br>Lo vidi aggirarsi nella battaglia,<br>e osservai come sceglieva [[Clifford]] a bersaglio.<br>Mi parve che si portasse nella schiera più densa<br>come fa un [[Lion|leone]] in un armento di bovi;<br>o come un orso circondato dai [[dogs|cani]],<br>che, azzannatine alcuni e fattili urlare,<br>gli altri stanno tutti in disparte e gli abbaiano.<br>Così fece nostro padre coi suoi nemici;<br>così i suoi nemici fuggirono il mio bellicoso padre.<br>Mi pare che sia premio bastante essere suo figlio. |
+| *(didascalia)* | Una marcia. Entrano Edoardo conte di March e [[Richard\|Riccardo]], con un tamburino e soldati |
+| EDOARDO | Mi [[Wonder\|domando]] come sia scampato il nostro principesco padre,<br>o se sia scampato o no<br>all’inseguimento di [[Clifford]] e di Northumberland.<br>Fosse stato preso, ne avremmo udito la nuova;<br>fosse stato ucciso, ne avremmo udito la nuova;<br>o fosse scampato, mi pare che avremmo udito<br>la felice notizia della sua buona fuga.<br>Come sta mio fratello? Perché è così triste? |
+| [[Richard\|RICCARDO]] | Non posso gioire finché non sia certo<br>di che cosa sia avvenuto del nostro assai valoroso padre.<br>Lo vidi aggirarsi nella battaglia,<br>e osservai come sceglieva [[Clifford]] a bersaglio.<br>Mi parve che si portasse nella schiera più densa<br>come fa un [[Lion\|leone]] in un armento di bovi;<br>o come un orso circondato dai [[dogs\|cani]],<br>che, azzannatine alcuni e fattili urlare,<br>gli altri stanno tutti in disparte e gli abbaiano.<br>Così fece nostro padre coi suoi nemici;<br>così i suoi nemici fuggirono il mio bellicoso padre.<br>Mi pare che sia premio bastante essere suo figlio. |
 | *(didascalia)* | Tre soli appaiono nel cielo |
-| [[Richard|RICCARDO]] | Guarda come il mattino apre le sue porte d’oro<br>e prende congedo dal sole glorioso.<br>Quanto [[Well|bene]] somiglia al fiore della giovinezza,<br>agghindato come un damerino che caracolla verso il suo [[Love|amore]]! |
+| [[Richard\|RICCARDO]] | Guarda come il mattino apre le sue porte d’oro<br>e prende congedo dal sole glorioso.<br>Quanto [[Well\|bene]] somiglia al fiore della giovinezza,<br>agghindato come un damerino che caracolla verso il suo [[Love\|amore]]! |
 | EDOARDO | M’ingannano gli occhi, o vedo tre soli? |
-| [[Richard|RICCARDO]] | Tre soli gloriosi, ognuno un sole perfetto;<br>non divisi da nubi in corsa,<br>ma distinti in un cielo pallido e lucente. |
+| [[Richard\|RICCARDO]] | Tre soli gloriosi, ognuno un sole perfetto;<br>non divisi da nubi in corsa,<br>ma distinti in un cielo pallido e lucente. |
 | *(didascalia)* | I tre soli cominciano a congiungersi |
-| [[Richard|RICCARDO]] | Guarda, guarda—si uniscono, s’abbracciano, e sembrano baciarsi,<br>come se giurassero una lega inviolabile.<br>Ora non sono che una lampada, una luce, un sole.<br>In questo il cielo prefigura qualche evento. |
+| [[Richard\|RICCARDO]] | Guarda, guarda—si uniscono, s’abbracciano, e sembrano baciarsi,<br>come se giurassero una lega inviolabile.<br>Ora non sono che una lampada, una luce, un sole.<br>In questo il cielo prefigura qualche evento. |
 | EDOARDO | È mirabilmente strano, mai s’udì il simile.<br>Credo, fratello, che ci chiami al campo,<br>perché noi, figli del bravo Plantageneto,<br>ciascuno già fiammeggiante per i propri meriti,<br>dobbiamo nondimeno unire insieme le nostre luci<br>e sovrailluminare la terra come questi il mondo.<br>Qualunque cosa presagisca, d’ora in poi porterò<br>sul mio scudo tre soli splendenti. |
-| [[Richard|RICCARDO]] | No, portane tre figlie—con vostra licenza lo dico—<br>voi [[Love|amate]] la femmina più del maschio. |
+| [[Richard\|RICCARDO]] | No, portane tre figlie—con vostra licenza lo dico—<br>voi [[Love\|amate]] la femmina più del maschio. |
 | *(didascalia)* | Entra uno ansimante |
-| [[Richard|RICCARDO]] | Ma chi sei tu, il cui sguardo grave preannuncia<br>qualche terribile storia sospesa alla tua lingua? |
-| MESSO | Ah, uno che fu dolente spettatore<br>quando il nobile [[Duke of York|duca di York]] fu ucciso—<br>il vostro principesco padre e mio amato signore. |
+| [[Richard\|RICCARDO]] | Ma chi sei tu, il cui sguardo grave preannuncia<br>qualche terribile storia sospesa alla tua lingua? |
+| MESSO | Ah, uno che fu dolente spettatore<br>quando il nobile [[Duke of York\|duca di York]] fu ucciso—<br>il vostro principesco padre e mio amato signore. |
 | EDOARDO | Oh, non dire altro, ché ho udito troppo. |
-| [[Richard|RICCARDO]] | Di’ come morì, ché voglio udire tutto. |
-| MESSO | Era circondato da molti nemici,<br>e resistette loro come la [[Hope|speranza]] di Troia<br>contro i Greci che volevano entrare in Troia.<br>Ma anche Ercole deve cedere al numero;<br>e molti colpi, pur con una piccola scure,<br>abbattono e atterrano la quercia dal legno più duro.<br>Da molte mani vostro padre fu soggiogato,<br>ma trucidato soltanto dal braccio irato<br>dell’implacabile [[Clifford]] e della [[Queen|regina]],<br>i quali incoronarono il grazioso duca per estremo dispetto,<br>gli risero in faccia, e quando egli pianse di dolore,<br>la spietata [[Queen|regina]] gli diede, per asciugarsi le guance,<br>un panno inzuppato nell’innocente [[Blood|sangue]]<br>del dolce giovane Rutland, ucciso dal rude [[Clifford]];<br>e dopo molti scherni, molti turpi insulti,<br>gli presero la testa, e sulle porte di York<br>la posero; e là essa rimane,<br>il più triste spettacolo che mai vidi. |
-| EDOARDO | Dolce [[Duke of York|duca di York]], nostro sostegno cui appoggiarci,<br>ora che tu sei andato, non abbiamo bastone né appoggio.<br>O [[Clifford]], violento [[Clifford]]—tu hai ucciso<br>il fiore d’Europa per cavalleria,<br>e a tradimento l’hai vinto—<br>ché a corpo a corpo egli avrebbe vinto te.<br>Ora il palazzo della mia [[Soul|anima]] è divenuto una [[Prison|prigione]].<br>Ah, ch’ella ne prorompa, sì che questo mio [[Body|corpo]]<br>possa esser chiuso in riposo nella terra.<br>Ché d’ora in poi non gioirò mai più—<br>mai, oh mai, vedrò più gioia. |
-| [[Richard|RICCARDO]] | Non posso piangere, ché tutto l’umore del mio [[Body|corpo]]<br>appena basta a spegnere il mio cuore ardente come fornace;<br>né la mia lingua può scaricare il gran peso del cuore,<br>ché quello stesso [[Wind|fiato]] con cui dovrei parlare<br>attizza carboni che m’incendiano tutto il petto,<br>e mi consuma con fiamme che le [[Tears|lacrime]] spegnerebbero.<br>Piangere è render minore la profondità del dolore;<br>[[Tears|lacrime]], dunque, per i bambini—colpi e [[Revenge|vendetta]] per me!<br>[[Richard|Riccardo]], porto il tuo nome; vendicherò la tua [[Death|morte]]<br>o morrò famoso nel tentarlo. |
+| [[Richard\|RICCARDO]] | Di’ come morì, ché voglio udire tutto. |
+| MESSO | Era circondato da molti nemici,<br>e resistette loro come la [[Hope\|speranza]] di Troia<br>contro i Greci che volevano entrare in Troia.<br>Ma anche Ercole deve cedere al numero;<br>e molti colpi, pur con una piccola scure,<br>abbattono e atterrano la quercia dal legno più duro.<br>Da molte mani vostro padre fu soggiogato,<br>ma trucidato soltanto dal braccio irato<br>dell’implacabile [[Clifford]] e della [[Queen\|regina]],<br>i quali incoronarono il grazioso duca per estremo dispetto,<br>gli risero in faccia, e quando egli pianse di dolore,<br>la spietata [[Queen\|regina]] gli diede, per asciugarsi le guance,<br>un panno inzuppato nell’innocente [[Blood\|sangue]]<br>del dolce giovane Rutland, ucciso dal rude [[Clifford]];<br>e dopo molti scherni, molti turpi insulti,<br>gli presero la testa, e sulle porte di York<br>la posero; e là essa rimane,<br>il più triste spettacolo che mai vidi. |
+| EDOARDO | Dolce [[Duke of York\|duca di York]], nostro sostegno cui appoggiarci,<br>ora che tu sei andato, non abbiamo bastone né appoggio.<br>O [[Clifford]], violento [[Clifford]]—tu hai ucciso<br>il fiore d’Europa per cavalleria,<br>e a tradimento l’hai vinto—<br>ché a corpo a corpo egli avrebbe vinto te.<br>Ora il palazzo della mia [[Soul\|anima]] è divenuto una [[Prison\|prigione]].<br>Ah, ch’ella ne prorompa, sì che questo mio [[Body\|corpo]]<br>possa esser chiuso in riposo nella terra.<br>Ché d’ora in poi non gioirò mai più—<br>mai, oh mai, vedrò più gioia. |
+| [[Richard\|RICCARDO]] | Non posso piangere, ché tutto l’umore del mio [[Body\|corpo]]<br>appena basta a spegnere il mio cuore ardente come fornace;<br>né la mia lingua può scaricare il gran peso del cuore,<br>ché quello stesso [[Wind\|fiato]] con cui dovrei parlare<br>attizza carboni che m’incendiano tutto il petto,<br>e mi consuma con fiamme che le [[Tears\|lacrime]] spegnerebbero.<br>Piangere è render minore la profondità del dolore;<br>[[Tears\|lacrime]], dunque, per i bambini—colpi e [[Revenge\|vendetta]] per me!<br>[[Richard\|Riccardo]], porto il tuo nome; vendicherò la tua [[Death\|morte]]<br>o morrò famoso nel tentarlo. |
 | EDOARDO | Il suo nome quel valoroso duca l’ha lasciato a te,<br>il suo ducato e il suo trono son lasciati a me. |
-| [[Richard|RICCARDO]] | No, se tu sei il figlio di quell’aquila principesca,<br>mostra la tua discendenza fissando il sole:<br>invece di ‘trono e ducato’, di’ ‘trono e regno’—<br>o quello è tuo, o tu non fosti suo. |
-| *(didascalia)* | Marcia. Entrano il [[Earl of Warwick|conte di Warwick]] e il marchese di Montague con tamburini, un alfiere e soldati |
+| [[Richard\|RICCARDO]] | No, se tu sei il figlio di quell’aquila principesca,<br>mostra la tua discendenza fissando il sole:<br>invece di ‘trono e ducato’, di’ ‘trono e regno’—<br>o quello è tuo, o tu non fosti suo. |
+| *(didascalia)* | Marcia. Entrano il [[Earl of Warwick\|conte di Warwick]] e il marchese di Montague con tamburini, un alfiere e soldati |
 | WARWICK | Ebbene, bei signori? Come va? Che nuove d’intorno? |
-| [[Richard|RICCARDO]] | Gran signore di Warwick, se dovessimo narrare<br>le nostre funeste nuove, e a ogni parola pronunciata<br>affondarci pugnali nella carne fino a dir tutto,<br>le parole aggiungerebbero più angoscia delle ferite.<br>O valoroso signore, il [[Duke of York|duca di York]] è ucciso. |
-| EDOARDO | O Warwick, Warwick! Quel Plantageneto,<br>che ti teneva caro come la redenzione della sua [[Soul|anima]],<br>è stato messo a [[Death|morte]] dal severo lord [[Clifford]]. |
-| WARWICK | Dieci giorni fa annegai queste nuove nelle [[Tears|lacrime]].<br>E ora, per aggiungere più misura ai vostri dolori,<br>vengo a dirvi cose accadute da allora.<br>Dopo la sanguinosa mischia combattuta a Wakefield,<br>dove il vostro bravo padre esalò l’ultimo respiro,<br>notizie, rapide quanto i corrieri potevano correre,<br>mi furon portate della vostra perdita e della sua dipartita.<br>Io allora in [[London|Londra]], custode del [[King|re]],<br>radunai i miei soldati, raccolsi stuoli d’amici,<br>e, assai [[Well|bene]] equipaggiato come credevo,<br>marciai verso Saint Albans per intercettare la [[Queen|regina]],<br>portando con me il [[King|re]] a mio sostegno—<br>ché dai miei esploratori fui avvertito<br>ch’ella veniva col fermo intento<br>d’annullare il nostro recente decreto in Parlamento<br>circa il giuramento di [[King|re]] Enrico e la vostra successione.<br>Per farla breve, ci incontrammo a Saint Albans,<br>le nostre schiere si scontrarono, e ambo le parti combatterono ferocemente;<br>ma se fu la freddezza del [[King|re]],<br>che guardava tutto mite la sua bellicosa [[Queen|regina]],<br>a privare i miei soldati del loro ardente furore,<br>o se fu la fama del suo [[success|successo]],<br>o più che comune [[Fear|timore]] del rigore di [[Clifford]]—<br>che tuona ai suoi capitani [[Blood|sangue]] e [[Death|morte]]—<br>non so giudicare; ma, per concludere con [[Truth|verità]],<br>le loro armi come [[Lightning|folgore]] andavano e venivano;<br>quelle dei nostri, come il volo pigro della civetta di [[Night|notte]],<br>o come un trebbiatore infingardo col correggiato,<br>calavano mollemente, come se colpissero amici.<br>Li rincuorai con la giustizia della nostra causa,<br>con promessa d’alta paga e grandi ricompense.<br>Ma tutto invano. Non avevano cuore di combattere,<br>e noi in loro nessuna [[Hope|speranza]] di vincere la giornata.<br>Così fuggimmo—il [[King|re]] alla [[Queen|regina]],<br>e lord Giorgio vostro fratello, Norfolk e io stesso<br>in fretta, a briglia sciolta, siamo venuti a unirci a voi.<br>Ché udimmo che eravate qui nelle Marche,<br>a raccogliere un’altra forza per combattere di nuovo. |
+| [[Richard\|RICCARDO]] | Gran signore di Warwick, se dovessimo narrare<br>le nostre funeste nuove, e a ogni parola pronunciata<br>affondarci pugnali nella carne fino a dir tutto,<br>le parole aggiungerebbero più angoscia delle ferite.<br>O valoroso signore, il [[Duke of York\|duca di York]] è ucciso. |
+| EDOARDO | O Warwick, Warwick! Quel Plantageneto,<br>che ti teneva caro come la redenzione della sua [[Soul\|anima]],<br>è stato messo a [[Death\|morte]] dal severo lord [[Clifford]]. |
+| WARWICK | Dieci giorni fa annegai queste nuove nelle [[Tears\|lacrime]].<br>E ora, per aggiungere più misura ai vostri dolori,<br>vengo a dirvi cose accadute da allora.<br>Dopo la sanguinosa mischia combattuta a Wakefield,<br>dove il vostro bravo padre esalò l’ultimo respiro,<br>notizie, rapide quanto i corrieri potevano correre,<br>mi furon portate della vostra perdita e della sua dipartita.<br>Io allora in [[London\|Londra]], custode del [[King\|re]],<br>radunai i miei soldati, raccolsi stuoli d’amici,<br>e, assai [[Well\|bene]] equipaggiato come credevo,<br>marciai verso Saint Albans per intercettare la [[Queen\|regina]],<br>portando con me il [[King\|re]] a mio sostegno—<br>ché dai miei esploratori fui avvertito<br>ch’ella veniva col fermo intento<br>d’annullare il nostro recente decreto in Parlamento<br>circa il giuramento di [[King\|re]] Enrico e la vostra successione.<br>Per farla breve, ci incontrammo a Saint Albans,<br>le nostre schiere si scontrarono, e ambo le parti combatterono ferocemente;<br>ma se fu la freddezza del [[King\|re]],<br>che guardava tutto mite la sua bellicosa [[Queen\|regina]],<br>a privare i miei soldati del loro ardente furore,<br>o se fu la fama del suo [[success\|successo]],<br>o più che comune [[Fear\|timore]] del rigore di [[Clifford]]—<br>che tuona ai suoi capitani [[Blood\|sangue]] e [[Death\|morte]]—<br>non so giudicare; ma, per concludere con [[Truth\|verità]],<br>le loro armi come [[Lightning\|folgore]] andavano e venivano;<br>quelle dei nostri, come il volo pigro della civetta di [[Night\|notte]],<br>o come un trebbiatore infingardo col correggiato,<br>calavano mollemente, come se colpissero amici.<br>Li rincuorai con la giustizia della nostra causa,<br>con promessa d’alta paga e grandi ricompense.<br>Ma tutto invano. Non avevano cuore di combattere,<br>e noi in loro nessuna [[Hope\|speranza]] di vincere la giornata.<br>Così fuggimmo—il [[King\|re]] alla [[Queen\|regina]],<br>e lord Giorgio vostro fratello, Norfolk e io stesso<br>in fretta, a briglia sciolta, siamo venuti a unirci a voi.<br>Ché udimmo che eravate qui nelle Marche,<br>a raccogliere un’altra forza per combattere di nuovo. |
 | EDOARDO | Dov’è il duca di Norfolk, gentile Warwick?<br>E quando venne Giorgio dalla Borgogna in Inghilterra? |
 | WARWICK | A circa sei miglia il duca è coi suoi soldati;<br>e quanto a vostro fratello—fu inviato di recente<br>dalla vostra buona zia, duchessa di Borgogna,<br>con aiuto di soldati a questa necessaria guerra. |
-| [[Richard|RICCARDO]] | Fu cosa strana, certo, quando il valoroso Warwick fuggì.<br>Spesso ho udito le sue lodi nell’inseguire,<br>ma mai finora il suo scandalo nel ritirarsi. |
-| WARWICK | Né ora il mio scandalo, [[Richard|Riccardo]], tu odi—<br>ché saprai che questa mia forte destra<br>può strappare il diadema dal capo del debole Enrico<br>e torcergli dal pugno il temuto scettro,<br>fosse egli tanto famoso e ardito in guerra<br>quanto è rinomato per mitezza, pace e [[Prayer|preghiera]]. |
-| [[Richard|RICCARDO]] | Lo so [[Well|bene]], lord Warwick—non biasimarmi.<br>È l’[[Love|amore]] che porto alle tue glorie a farmi parlare.<br>Ma in questo [[Time|tempo]] turbolento che si deve fare?<br>Andremo a gettar via le nostre corazze d’acciaio,<br>e avvolgeremo i corpi in nere vesti di lutto,<br>contando le nostre Avemarie coi rosari?<br>O sugli elmi dei nostri nemici<br>diremo la nostra devozione con armi vendicatrici?<br>Se per l’ultimo, dite ‘sì’, e all’opera, signori. |
-| WARWICK | Ebbene, per questo Warwick venne a cercarvi,<br>e per questo viene mio fratello Montague.<br>Ascoltatemi, signori. La superba insolente [[Queen|regina]],<br>con [[Clifford]] e l’altero Northumberland,<br>e della loro penna molti altri superbi [[Birds|uccelli]],<br>hanno plasmato come cera il [[King|re]] facile a fondersi.<br>(A Edoardo) Egli giurò consenso alla vostra successione,<br>il suo giuramento registrato in Parlamento.<br>E ora tutta la brigata è andata a [[London|Londra]],<br>per vanificare il suo giuramento e quant’altro<br>possa far contro la [[house|casa]] di Lancaster.<br>La loro forza, credo, è di trentamila uomini.<br>Ora, se l’aiuto di Norfolk e mio,<br>con tutti gli amici che tu, bravo conte di March,<br>puoi procurarti tra gli affezionati Gallesi,<br>ammonterà soltanto a venticinquemila,<br>ebbene, via, a [[London|Londra]] marceremo,<br>e monteremo di nuovo i nostri destrieri schiumanti,<br>e di nuovo grideremo ‘Carica addosso ai nostri nemici—<br>ma non volteremo mai più le spalle in fuga. |
-| [[Richard|RICCARDO]] | Sì, ora mi pare d’udire parlare il grande Warwick.<br>Mai possa vivere per vedere un giorno di sole<br>chi grida ‘ritirata se Warwick gli ordina di restare. |
+| [[Richard\|RICCARDO]] | Fu cosa strana, certo, quando il valoroso Warwick fuggì.<br>Spesso ho udito le sue lodi nell’inseguire,<br>ma mai finora il suo scandalo nel ritirarsi. |
+| WARWICK | Né ora il mio scandalo, [[Richard\|Riccardo]], tu odi—<br>ché saprai che questa mia forte destra<br>può strappare il diadema dal capo del debole Enrico<br>e torcergli dal pugno il temuto scettro,<br>fosse egli tanto famoso e ardito in guerra<br>quanto è rinomato per mitezza, pace e [[Prayer\|preghiera]]. |
+| [[Richard\|RICCARDO]] | Lo so [[Well\|bene]], lord Warwick—non biasimarmi.<br>È l’[[Love\|amore]] che porto alle tue glorie a farmi parlare.<br>Ma in questo [[Time\|tempo]] turbolento che si deve fare?<br>Andremo a gettar via le nostre corazze d’acciaio,<br>e avvolgeremo i corpi in nere vesti di lutto,<br>contando le nostre Avemarie coi rosari?<br>O sugli elmi dei nostri nemici<br>diremo la nostra devozione con armi vendicatrici?<br>Se per l’ultimo, dite ‘sì’, e all’opera, signori. |
+| WARWICK | Ebbene, per questo Warwick venne a cercarvi,<br>e per questo viene mio fratello Montague.<br>Ascoltatemi, signori. La superba insolente [[Queen\|regina]],<br>con [[Clifford]] e l’altero Northumberland,<br>e della loro penna molti altri superbi [[Birds\|uccelli]],<br>hanno plasmato come cera il [[King\|re]] facile a fondersi.<br>(A Edoardo) Egli giurò consenso alla vostra successione,<br>il suo giuramento registrato in Parlamento.<br>E ora tutta la brigata è andata a [[London\|Londra]],<br>per vanificare il suo giuramento e quant’altro<br>possa far contro la [[house\|casa]] di Lancaster.<br>La loro forza, credo, è di trentamila uomini.<br>Ora, se l’aiuto di Norfolk e mio,<br>con tutti gli amici che tu, bravo conte di March,<br>puoi procurarti tra gli affezionati Gallesi,<br>ammonterà soltanto a venticinquemila,<br>ebbene, via, a [[London\|Londra]] marceremo,<br>e monteremo di nuovo i nostri destrieri schiumanti,<br>e di nuovo grideremo ‘Carica addosso ai nostri nemici—<br>ma non volteremo mai più le spalle in fuga. |
+| [[Richard\|RICCARDO]] | Sì, ora mi pare d’udire parlare il grande Warwick.<br>Mai possa vivere per vedere un giorno di sole<br>chi grida ‘ritirata se Warwick gli ordina di restare. |
 | EDOARDO | Lord Warwick, sulla tua spalla mi appoggerò,<br>e quando tu verrai meno—Dio non voglia quell’ora—<br>dovrà cadere Edoardo, e da tal pericolo il cielo ci guardi I |
-| WARWICK | Non più conte di March, ma [[Duke of York|duca di York]];<br>il grado successivo è il regale trono d’Inghilterra—<br>ché [[King|re]] d’Inghilterra sarai proclamato<br>in ogni borgo lungo il nostro passaggio,<br>e chi non getterà in aria il berretto per gioia<br>pagherà la colpa con la testa.<br>[[King|Re]] Edoardo, valoroso [[Richard|Riccardo]], Montague—<br>non indugiamo più a sognare la fama,<br>ma suonino le trombe e all’opera. |
-| [[Richard|RICCARDO]] | Allora, [[Clifford]], fosse il tuo cuore duro come acciaio,<br>come l’hai mostrato di selce con le tue azioni,<br>vengo a trapassarlo o a darti il mio. |
+| WARWICK | Non più conte di March, ma [[Duke of York\|duca di York]];<br>il grado successivo è il regale trono d’Inghilterra—<br>ché [[King\|re]] d’Inghilterra sarai proclamato<br>in ogni borgo lungo il nostro passaggio,<br>e chi non getterà in aria il berretto per gioia<br>pagherà la colpa con la testa.<br>[[King\|Re]] Edoardo, valoroso [[Richard\|Riccardo]], Montague—<br>non indugiamo più a sognare la fama,<br>ma suonino le trombe e all’opera. |
+| [[Richard\|RICCARDO]] | Allora, [[Clifford]], fosse il tuo cuore duro come acciaio,<br>come l’hai mostrato di selce con le tue azioni,<br>vengo a trapassarlo o a darti il mio. |
 | EDOARDO | Allora rullino i tamburi—Dio e san Giorgio per noi! |
 | *(didascalia)* | Entra un Messo |
 | WARWICK | Ebbene? Che nuove? |
-| MESSO | Il duca di Norfolk vi manda a dire per me<br>che la [[Queen|regina]] viene con un possente esercito,<br>e chiede la vostra compagnia per rapido consiglio. |
+| MESSO | Il duca di Norfolk vi manda a dire per me<br>che la [[Queen\|regina]] viene con un possente esercito,<br>e chiede la vostra compagnia per rapido consiglio. |
 | WARWICK | Ebbene, allora conviene. Bravi guerrieri, andiamo. |
 | *(didascalia)* | Marcia. Escono |
 
@@ -1950,60 +1950,60 @@ The True [[Tragedy]] of [[Richard]] [[Duke of York]] and the Good [[King]] Henry
 
 | Chi parla | Battuta |
 |---|---|
-| *(didascalia)* | La testa di York è esposta, in alto. Squilli. Entrano [[King|re]] Enrico, [[Queen Margaret|la regina Margherita]], lord [[Clifford]], il [[Earl of Northumberland|conte di Northumberland]], e il giovane principe Edoardo, con un tamburino e trombettieri |
-| [[Queen Margaret|REGINA MARGHERITA]] | Benvenuto, mio signore, in questa bella città di York.<br>Là è la testa di quell’arcinemico<br>che cercò di cingersi della vostra [[Crown|corona]].<br>Non vi rallegra il cuore quest’oggetto, mio signore? |
-| [[King|RE]] ENRICO | Sì, come gli scogli rallegrano chi [[Fear|teme]] il naufragio.<br>Vedere questa vista mi affligge l’[[Soul|anima]] stessa.<br>Trattieni la [[Revenge|vendetta]], Dio caro—non è mia colpa,<br>né consapevolmente ho infranto il mio voto. |
-| [[Clifford|CLIFFORD]] | Mio grazioso sire, questa troppa indulgenza<br>e questa pietà nociva devono esser messe da parte.<br>A chi volgono i leoni i loro sguardi miti?<br>Non alla bestia che vorrebbe usurpare la loro tana.<br>Quale mano lecca l’orsa della foresta?<br>Non quella di chi le strazia i piccoli in faccia.<br>Chi scampa al morso mortale del serpente in agguato?<br>Non chi gli pone il piede sul dorso.<br>Il più piccolo verme si rivolta, se calpestato,<br>e le colombe beccano a difesa della loro nidiata.<br>L’ambizioso York mirava alla tua [[Crown|corona]],<br>e tu sorridevi mentre egli aggrottava le ciglia irate.<br>Egli, semplice duca, voleva suo figlio [[King|re]],<br>e innalzare la sua prole come padre amoroso;<br>tu, essendo [[King|re]], benedetto d’un bel figlio,<br>hai dato consenso a diseredarlo,<br>il che ti dimostrò padre senza alcun amore.<br>Le creature senza ragione nutrono i loro piccoli,<br>e sebbene il volto dell’uomo sia terribile ai loro occhi,<br>tuttavia, a protezione dei loro teneri nati,<br>chi non le ha vedute, con quelle stesse ali<br>che talvolta usarono in fuga timorosa,<br>far guerra a chi salì al loro nido,<br>offrendo le proprie vite in difesa dei piccoli?<br>Vergogna, mio sire, prendetele a esempio!<br>Non sarebbe pietà che questo bel ragazzo<br>perda il suo diritto di nascita per colpa del padre,<br>e molto tempo dopo dica a suo [[Child|figlio]]:<br>‘Ciò che il mio bisavolo e il mio avo conquistarono<br>il mio padre negligente stoltamente donò’?<br>Ah, quale vergogna sarebbe! Guardate il ragazzo,<br>e che il suo volto virile, che promette<br>fortuna felice, tempri il tuo cuore che si scioglie<br>a tenere il tuo e a lasciare a lui il tuo. |
-| [[King|RE]] ENRICO | Assai [[Well|bene]] ha fatto [[Clifford]] l’oratore,<br>recando argomenti di gran forza.<br>Ma, [[Clifford]], dimmi—non udisti mai<br>che le cose male acquistate ebbero sempre mal [[success|esito]]?<br>E fu sempre felice quel figlio<br>il cui padre per il suo accumulare andò all’inferno?<br>Io lascerò a mio figlio le mie azioni virtuose,<br>e volesse il cielo che mio padre non m’avesse lasciato di più.<br>Ché tutto il resto si tiene a tal prezzo<br>che porta mille volte più affanno a custodirlo<br>di quanto piacere dia il possederlo.<br>Ah, cugino York, sapessero i tuoi migliori amici<br>quanto mi duole che la tua testa sia qui. |
-| [[Queen Margaret|REGINA MARGHERITA]] | Mio signore, rinfrancate lo spirito—i nemici son vicini,<br>e questo molle [[Courage|coraggio]] fa smarrire i vostri seguaci.<br>Prometteste il cavalierato al nostro ardito figlio.<br>Sguainate la [[Sword|spada]] e armatelo subito.<br>Edoardo, inginòcchiati.<br>Il principe Edoardo s’inginocchia |
-| [[King|RE]] ENRICO | Edoardo Plantageneto, sorgi cavaliere—<br>e impara questa lezione: sguaina la tua [[Sword|spada]] per il giusto. |
-| PRINCIPE EDOARDO | (alzandosi)<br>Mio grazioso padre, con la vostra regale licenza,<br>la sguainerò come erede designato alla [[Crown|corona]],<br>e in quella contesa l’userò fino alla [[Death|morte]]. |
-| [[Clifford|CLIFFORD]] | Ecco, questo è parlare da principe promettente. |
+| *(didascalia)* | La testa di York è esposta, in alto. Squilli. Entrano [[King\|re]] Enrico, [[Queen Margaret\|la regina Margherita]], lord [[Clifford]], il [[Earl of Northumberland\|conte di Northumberland]], e il giovane principe Edoardo, con un tamburino e trombettieri |
+| [[Queen Margaret\|REGINA MARGHERITA]] | Benvenuto, mio signore, in questa bella città di York.<br>Là è la testa di quell’arcinemico<br>che cercò di cingersi della vostra [[Crown\|corona]].<br>Non vi rallegra il cuore quest’oggetto, mio signore? |
+| [[King\|RE]] ENRICO | Sì, come gli scogli rallegrano chi [[Fear\|teme]] il naufragio.<br>Vedere questa vista mi affligge l’[[Soul\|anima]] stessa.<br>Trattieni la [[Revenge\|vendetta]], Dio caro—non è mia colpa,<br>né consapevolmente ho infranto il mio voto. |
+| [[Clifford\|CLIFFORD]] | Mio grazioso sire, questa troppa indulgenza<br>e questa pietà nociva devono esser messe da parte.<br>A chi volgono i leoni i loro sguardi miti?<br>Non alla bestia che vorrebbe usurpare la loro tana.<br>Quale mano lecca l’orsa della foresta?<br>Non quella di chi le strazia i piccoli in faccia.<br>Chi scampa al morso mortale del serpente in agguato?<br>Non chi gli pone il piede sul dorso.<br>Il più piccolo verme si rivolta, se calpestato,<br>e le colombe beccano a difesa della loro nidiata.<br>L’ambizioso York mirava alla tua [[Crown\|corona]],<br>e tu sorridevi mentre egli aggrottava le ciglia irate.<br>Egli, semplice duca, voleva suo figlio [[King\|re]],<br>e innalzare la sua prole come padre amoroso;<br>tu, essendo [[King\|re]], benedetto d’un bel figlio,<br>hai dato consenso a diseredarlo,<br>il che ti dimostrò padre senza alcun amore.<br>Le creature senza ragione nutrono i loro piccoli,<br>e sebbene il volto dell’uomo sia terribile ai loro occhi,<br>tuttavia, a protezione dei loro teneri nati,<br>chi non le ha vedute, con quelle stesse ali<br>che talvolta usarono in fuga timorosa,<br>far guerra a chi salì al loro nido,<br>offrendo le proprie vite in difesa dei piccoli?<br>Vergogna, mio sire, prendetele a esempio!<br>Non sarebbe pietà che questo bel ragazzo<br>perda il suo diritto di nascita per colpa del padre,<br>e molto tempo dopo dica a suo [[Child\|figlio]]:<br>‘Ciò che il mio bisavolo e il mio avo conquistarono<br>il mio padre negligente stoltamente donò’?<br>Ah, quale vergogna sarebbe! Guardate il ragazzo,<br>e che il suo volto virile, che promette<br>fortuna felice, tempri il tuo cuore che si scioglie<br>a tenere il tuo e a lasciare a lui il tuo. |
+| [[King\|RE]] ENRICO | Assai [[Well\|bene]] ha fatto [[Clifford]] l’oratore,<br>recando argomenti di gran forza.<br>Ma, [[Clifford]], dimmi—non udisti mai<br>che le cose male acquistate ebbero sempre mal [[success\|esito]]?<br>E fu sempre felice quel figlio<br>il cui padre per il suo accumulare andò all’inferno?<br>Io lascerò a mio figlio le mie azioni virtuose,<br>e volesse il cielo che mio padre non m’avesse lasciato di più.<br>Ché tutto il resto si tiene a tal prezzo<br>che porta mille volte più affanno a custodirlo<br>di quanto piacere dia il possederlo.<br>Ah, cugino York, sapessero i tuoi migliori amici<br>quanto mi duole che la tua testa sia qui. |
+| [[Queen Margaret\|REGINA MARGHERITA]] | Mio signore, rinfrancate lo spirito—i nemici son vicini,<br>e questo molle [[Courage\|coraggio]] fa smarrire i vostri seguaci.<br>Prometteste il cavalierato al nostro ardito figlio.<br>Sguainate la [[Sword\|spada]] e armatelo subito.<br>Edoardo, inginòcchiati.<br>Il principe Edoardo s’inginocchia |
+| [[King\|RE]] ENRICO | Edoardo Plantageneto, sorgi cavaliere—<br>e impara questa lezione: sguaina la tua [[Sword\|spada]] per il giusto. |
+| PRINCIPE EDOARDO | (alzandosi)<br>Mio grazioso padre, con la vostra regale licenza,<br>la sguainerò come erede designato alla [[Crown\|corona]],<br>e in quella contesa l’userò fino alla [[Death\|morte]]. |
+| [[Clifford\|CLIFFORD]] | Ecco, questo è parlare da principe promettente. |
 | *(didascalia)* | Entra un Messo |
-| MESSO | Regali comandanti, state pronti—<br>ché con una schiera di trentamila uomini<br>viene Warwick a sostegno del [[Duke of York|duca di York]];<br>e nelle città, mentre marciano,<br>lo proclama [[King|re]], e molti accorrono a lui.<br>Schierate la battaglia, ché sono vicini. |
-| [[Clifford|CLIFFORD]] | (a [[King|re]] Enrico)<br>Vorrei che vostra altezza lasciasse il campo—<br>la [[Queen|regina]] ha miglior [[success|successo]] quando siete assente. |
-| [[Queen Margaret|REGINA MARGHERITA]] | (a [[King|re]] Enrico)<br>Sì, mio buon signore, e lasciateci alla nostra fortuna. |
-| [[King|RE]] ENRICO | Ebbene, è anche la mia fortuna—perciò resterò. |
+| MESSO | Regali comandanti, state pronti—<br>ché con una schiera di trentamila uomini<br>viene Warwick a sostegno del [[Duke of York\|duca di York]];<br>e nelle città, mentre marciano,<br>lo proclama [[King\|re]], e molti accorrono a lui.<br>Schierate la battaglia, ché sono vicini. |
+| [[Clifford\|CLIFFORD]] | (a [[King\|re]] Enrico)<br>Vorrei che vostra altezza lasciasse il campo—<br>la [[Queen\|regina]] ha miglior [[success\|successo]] quando siete assente. |
+| [[Queen Margaret\|REGINA MARGHERITA]] | (a [[King\|re]] Enrico)<br>Sì, mio buon signore, e lasciateci alla nostra fortuna. |
+| [[King\|RE]] ENRICO | Ebbene, è anche la mia fortuna—perciò resterò. |
 | NORTHUMBERLAND | Sia dunque con risoluzione di combattere. |
-| PRINCIPE EDOARDO | (a [[King|re]] Enrico)<br>Mio regale padre, rincuorate questi nobili signori<br>e fate animo a quelli che combattono in vostra difesa.<br>Sguainate la [[Sword|spada]], buon padre; grida ‘San Giorgio!’<br>Marcia. Entrano Edoardo [[Duke of York|duca di York]], il conte di<br><br>Warwick, [[Richard|Riccardo]], Giorgio, il duca di Norfolk, il<br><br>marchese di Montague, e soldati |
+| PRINCIPE EDOARDO | (a [[King\|re]] Enrico)<br>Mio regale padre, rincuorate questi nobili signori<br>e fate animo a quelli che combattono in vostra difesa.<br>Sguainate la [[Sword\|spada]], buon padre; grida ‘San Giorgio!’<br>Marcia. Entrano Edoardo [[Duke of York\|duca di York]], il conte di<br><br>Warwick, [[Richard\|Riccardo]], Giorgio, il duca di Norfolk, il<br><br>marchese di Montague, e soldati |
 | EDOARDO | Ora, spergiuro Enrico, t’inginocchierai per grazia,<br>e porrai il tuo diadema sul mio capo—<br>o attenderai la mortale fortuna del campo? |
-| [[Queen Margaret|REGINA MARGHERITA]] | Va’ a sgridare i tuoi favoriti, superbo ragazzo insolente!<br>Ti si addice esser così ardito di parola<br>davanti al tuo sovrano e al tuo legittimo [[King|re]]? |
-| EDOARDO | Io sono il suo [[King|re]], ed egli dovrebbe piegare il ginocchio.<br>Fui adottato erede col suo consenso. |
-| GIORGIO | (a [[Queen Margaret|la regina Margherita]])<br>Da allora il suo giuramento è rotto—ché, a quanto sento,<br>voi che siete il [[King|re]], sebbene egli porti la [[Crown|corona]],<br>gli avete fatto con nuovo atto del Parlamento<br>cancellare nostro fratello e mettervi il proprio figlio. |
-| [[Clifford|CLIFFORD]] | E con ragione—<br>chi dovrebbe succedere al padre se non il figlio? |
-| [[Richard|RICCARDO]] | Sei lì, macellaio? Oh, non posso parlare! |
-| [[Clifford|CLIFFORD]] | Sì, gobbo, qui sto a risponderti,<br>o a chiunque, il più superbo della tua razza. |
-| [[Richard|RICCARDO]] | Fosti tu a uccidere il giovane Rutland, non è vero? |
-| [[Clifford|CLIFFORD]] | Sì, e il vecchio York, e non ancora appagato. |
-| [[Richard|RICCARDO]] | Per amor di Dio, signori, date il segnale alla battaglia. |
-| WARWICK | Che dici, Enrico, cederai la [[Crown|corona]]? |
-| [[Queen Margaret|REGINA MARGHERITA]] | Ebbene, che c’è, Warwick dalla lingua lunga, osi<br>parlare?<br>Quando tu e io ci incontrammo l’ultima volta a Saint Albans,<br>le tue gambe fecero miglior servizio delle tue mani. |
+| [[Queen Margaret\|REGINA MARGHERITA]] | Va’ a sgridare i tuoi favoriti, superbo ragazzo insolente!<br>Ti si addice esser così ardito di parola<br>davanti al tuo sovrano e al tuo legittimo [[King\|re]]? |
+| EDOARDO | Io sono il suo [[King\|re]], ed egli dovrebbe piegare il ginocchio.<br>Fui adottato erede col suo consenso. |
+| GIORGIO | (a [[Queen Margaret\|la regina Margherita]])<br>Da allora il suo giuramento è rotto—ché, a quanto sento,<br>voi che siete il [[King\|re]], sebbene egli porti la [[Crown\|corona]],<br>gli avete fatto con nuovo atto del Parlamento<br>cancellare nostro fratello e mettervi il proprio figlio. |
+| [[Clifford\|CLIFFORD]] | E con ragione—<br>chi dovrebbe succedere al padre se non il figlio? |
+| [[Richard\|RICCARDO]] | Sei lì, macellaio? Oh, non posso parlare! |
+| [[Clifford\|CLIFFORD]] | Sì, gobbo, qui sto a risponderti,<br>o a chiunque, il più superbo della tua razza. |
+| [[Richard\|RICCARDO]] | Fosti tu a uccidere il giovane Rutland, non è vero? |
+| [[Clifford\|CLIFFORD]] | Sì, e il vecchio York, e non ancora appagato. |
+| [[Richard\|RICCARDO]] | Per amor di Dio, signori, date il segnale alla battaglia. |
+| WARWICK | Che dici, Enrico, cederai la [[Crown\|corona]]? |
+| [[Queen Margaret\|REGINA MARGHERITA]] | Ebbene, che c’è, Warwick dalla lingua lunga, osi<br>parlare?<br>Quando tu e io ci incontrammo l’ultima volta a Saint Albans,<br>le tue gambe fecero miglior servizio delle tue mani. |
 | WARWICK | Allora era il mio turno di fuggire—e ora è il tuo. |
-| [[Clifford|CLIFFORD]] | Lo dicesti anche prima, e tuttavia fuggisti. |
+| [[Clifford\|CLIFFORD]] | Lo dicesti anche prima, e tuttavia fuggisti. |
 | WARWICK | Non fu il tuo valore, [[Clifford]], a cacciarmi di là. |
 | NORTHUMBERLAND | No, né il tuo coraggio, che osasse farti restare. |
-| [[Richard|RICCARDO]] | Northumberland, io ti tengo in riverenza.<br>Rompi il colloquio, ché a stento trattengo<br>l’esecuzione del mio cuore gonfio<br>su quel [[Clifford]], quel crudele uccisore di [[Child|fanciulli]]. |
-| [[Clifford|CLIFFORD]] | Uccisi tuo padre—lo chiami tu un [[Child|fanciullo]]? |
-| [[Richard|RICCARDO]] | Sì, come un vile e un codardo traditore,<br>così come uccidesti il nostro tenero fratello Rutland.<br>Ma prima del tramonto ti farò maledire l’atto. |
-| [[King|RE]] ENRICO | Basta con le parole, signori, e ascoltatemi parlare. |
-| [[Queen Margaret|REGINA MARGHERITA]] | Sfidali, allora, o tieni chiuse le labbra. |
-| [[King|RE]] ENRICO | Ti prego, non porre limiti alla mia lingua—<br>sono un [[King|re]], e ho il privilegio di parlare. |
-| [[Clifford|CLIFFORD]] | Mio sire, la ferita che generò questo incontro<br>non può esser sanata con parole—perciò tacete. |
-| [[Richard|RICCARDO]] | Allora, carnefice, sguaina la tua [[Sword|spada]].<br>Per colui che ci fece tutti, son convinto<br>che il coraggio di [[Clifford]] stia sulla sua lingua. |
-| EDOARDO | Di’, Enrico, avrò il mio diritto o no?<br>Mille uomini hanno rotto il digiuno oggi<br>che mai ceneranno se non cedi la [[Crown|corona]]. |
-| WARWICK | (a [[King|re]] Enrico)<br>Se rifiuti, il loro [[Blood|sangue]] sul tuo capo;<br>ché York veste l’armatura in nome della giustizia. |
+| [[Richard\|RICCARDO]] | Northumberland, io ti tengo in riverenza.<br>Rompi il colloquio, ché a stento trattengo<br>l’esecuzione del mio cuore gonfio<br>su quel [[Clifford]], quel crudele uccisore di [[Child\|fanciulli]]. |
+| [[Clifford\|CLIFFORD]] | Uccisi tuo padre—lo chiami tu un [[Child\|fanciullo]]? |
+| [[Richard\|RICCARDO]] | Sì, come un vile e un codardo traditore,<br>così come uccidesti il nostro tenero fratello Rutland.<br>Ma prima del tramonto ti farò maledire l’atto. |
+| [[King\|RE]] ENRICO | Basta con le parole, signori, e ascoltatemi parlare. |
+| [[Queen Margaret\|REGINA MARGHERITA]] | Sfidali, allora, o tieni chiuse le labbra. |
+| [[King\|RE]] ENRICO | Ti prego, non porre limiti alla mia lingua—<br>sono un [[King\|re]], e ho il privilegio di parlare. |
+| [[Clifford\|CLIFFORD]] | Mio sire, la ferita che generò questo incontro<br>non può esser sanata con parole—perciò tacete. |
+| [[Richard\|RICCARDO]] | Allora, carnefice, sguaina la tua [[Sword\|spada]].<br>Per colui che ci fece tutti, son convinto<br>che il coraggio di [[Clifford]] stia sulla sua lingua. |
+| EDOARDO | Di’, Enrico, avrò il mio diritto o no?<br>Mille uomini hanno rotto il digiuno oggi<br>che mai ceneranno se non cedi la [[Crown\|corona]]. |
+| WARWICK | (a [[King\|re]] Enrico)<br>Se rifiuti, il loro [[Blood\|sangue]] sul tuo capo;<br>ché York veste l’armatura in nome della giustizia. |
 | PRINCIPE EDOARDO | Se è giusto ciò che Warwick dice esser giusto,<br>non esiste torto, ma ogni cosa è giusta. |
-| [[Richard|RICCARDO]] | Chiunque t’abbia generato, là sta tua madre—<br>ché, [[Well|bene]] lo so, hai la lingua di tua madre. |
-| [[Queen Margaret|REGINA MARGHERITA]] | Ma tu non somigli né a tuo padre né a tua madre,<br>ma a un turpe deforme segnato dal marchio,<br>indicato dai destini a esser evitato,<br>come rospi velenosi o terribili morsi di lucertola. |
-| [[Richard|RICCARDO]] | Ferro di Napoli, nascosto sotto doratura inglese,<br>il cui padre porta il titolo di [[King|re]]—<br>come se una fogna fosse chiamata mare—<br>non ti vergogni, sapendo d’onde sei<br>tratta,<br>di lasciar che la tua lingua tradisca il tuo cuore di bassa nascita? |
-| EDOARDO | Un ciuffo di paglia varrebbe mille corone<br>per far conoscere sé stessa a questa svergognata baldracca.<br>[[Helen|Elena]] di Grecia era di gran lunga più bella di te,<br>sebbene tuo marito possa essere Menelao;<br>e mai il fratello di [[Agamemnon|Agamennone]] fu oltraggiato<br>da quella falsa donna, come questo [[King|re]] da te.<br>Suo padre trionfò nel cuore della Francia,<br>e domò il [[King|re]], e piegò il [[Dauphin|Delfino]];<br>e s’egli si fosse sposato secondo il suo rango,<br>avrebbe potuto conservare quella gloria fino a oggi.<br>Ma quando prese una mendicante nel suo letto,<br>e onorò il tuo povero padre col giorno delle sue nozze,<br>già allora quel sole gli preparò un rovescio<br>che lavò via dalla Francia le fortune di suo padre,<br>e accumulò sedizione sulla sua [[Crown|corona]] in [[Home|patria]].<br>Ché che altro ha suscitato questo tumulto se non il tuo [[Pride|orgoglio]]?<br>Fossi stata mite, il nostro titolo ancor dormirebbe,<br>e noi, per pietà del gentile [[King|re]],<br>avremmo differito la nostra pretesa a un’altra età. |
-| GIORGIO | (a [[Queen Margaret|la regina Margherita]])<br>Ma quando vedemmo che il nostro sole faceva la tua [[spring|primavera]],<br>e che la tua [[Summer|estate]] non ci dava alcun frutto,<br>ponemmo la scure alla tua radice usurpatrice.<br>E sebbene il taglio abbia in qualche modo colpito noi stessi,<br>sappi tuttavia che, poiché abbiamo cominciato a colpire,<br>non smetteremo finché non t’avremo abbattuta,<br>o bagnato il tuo germoglio col nostro sangue infuocato. |
-| EDOARDO | (a [[Queen Margaret|la regina Margherita]])<br>E in questa risoluzione ti sfido,<br>non volendo più alcun colloquio<br>poiché neghi al gentile [[King|re]] di parlare. |
+| [[Richard\|RICCARDO]] | Chiunque t’abbia generato, là sta tua madre—<br>ché, [[Well\|bene]] lo so, hai la lingua di tua madre. |
+| [[Queen Margaret\|REGINA MARGHERITA]] | Ma tu non somigli né a tuo padre né a tua madre,<br>ma a un turpe deforme segnato dal marchio,<br>indicato dai destini a esser evitato,<br>come rospi velenosi o terribili morsi di lucertola. |
+| [[Richard\|RICCARDO]] | Ferro di Napoli, nascosto sotto doratura inglese,<br>il cui padre porta il titolo di [[King\|re]]—<br>come se una fogna fosse chiamata mare—<br>non ti vergogni, sapendo d’onde sei<br>tratta,<br>di lasciar che la tua lingua tradisca il tuo cuore di bassa nascita? |
+| EDOARDO | Un ciuffo di paglia varrebbe mille corone<br>per far conoscere sé stessa a questa svergognata baldracca.<br>[[Helen\|Elena]] di Grecia era di gran lunga più bella di te,<br>sebbene tuo marito possa essere Menelao;<br>e mai il fratello di [[Agamemnon\|Agamennone]] fu oltraggiato<br>da quella falsa donna, come questo [[King\|re]] da te.<br>Suo padre trionfò nel cuore della Francia,<br>e domò il [[King\|re]], e piegò il [[Dauphin\|Delfino]];<br>e s’egli si fosse sposato secondo il suo rango,<br>avrebbe potuto conservare quella gloria fino a oggi.<br>Ma quando prese una mendicante nel suo letto,<br>e onorò il tuo povero padre col giorno delle sue nozze,<br>già allora quel sole gli preparò un rovescio<br>che lavò via dalla Francia le fortune di suo padre,<br>e accumulò sedizione sulla sua [[Crown\|corona]] in [[Home\|patria]].<br>Ché che altro ha suscitato questo tumulto se non il tuo [[Pride\|orgoglio]]?<br>Fossi stata mite, il nostro titolo ancor dormirebbe,<br>e noi, per pietà del gentile [[King\|re]],<br>avremmo differito la nostra pretesa a un’altra età. |
+| GIORGIO | (a [[Queen Margaret\|la regina Margherita]])<br>Ma quando vedemmo che il nostro sole faceva la tua [[spring\|primavera]],<br>e che la tua [[Summer\|estate]] non ci dava alcun frutto,<br>ponemmo la scure alla tua radice usurpatrice.<br>E sebbene il taglio abbia in qualche modo colpito noi stessi,<br>sappi tuttavia che, poiché abbiamo cominciato a colpire,<br>non smetteremo finché non t’avremo abbattuta,<br>o bagnato il tuo germoglio col nostro sangue infuocato. |
+| EDOARDO | (a [[Queen Margaret\|la regina Margherita]])<br>E in questa risoluzione ti sfido,<br>non volendo più alcun colloquio<br>poiché neghi al gentile [[King\|re]] di parlare. |
 | *(didascalia)* | Suonino le trombe—sventolino le nostre insegne sanguinose! |
-| EDOARDO | E o vittoria, o una [[Grave|tomba]]! |
-| [[Queen Margaret|REGINA MARGHERITA]] | Fermati, Edoardo. |
+| EDOARDO | E o vittoria, o una [[Grave\|tomba]]! |
+| [[Queen Margaret\|REGINA MARGHERITA]] | Fermati, Edoardo. |
 | EDOARDO | No, donna litigiosa, non ci fermeremo più—<br>queste parole costeranno diecimila vite oggi. |
-| *(didascalia)* | Squilli. Marcia. Escono Edoardo e i suoi uomini da una porta e [[Queen Margaret|la regina Margherita]] e i suoi uomini da un’altra porta |
+| *(didascalia)* | Squilli. Marcia. Escono Edoardo e i suoi uomini da una porta e [[Queen Margaret\|la regina Margherita]] e i suoi uomini da un’altra porta |
 
 
 
@@ -2035,23 +2035,23 @@ The True [[Tragedy]] of [[Richard]] [[Duke of York]] and the Good [[King]] Henry
 
 | Chi parla | Battuta |
 |---|---|
-| *(didascalia)* | Squillo d’allarme. Scorrerie. Entra il [[Earl of Warwick|conte di Warwick]] |
+| *(didascalia)* | Squillo d’allarme. Scorrerie. Entra il [[Earl of Warwick\|conte di Warwick]] |
 | WARWICK | Sfinito dalla fatica, come i corridori dopo la corsa,<br>mi corico un poco per riprender fiato;<br>ché i colpi ricevuti, e i molti colpi resi,<br>han derubato i miei nervi ben tesi della loro forza,<br>e, a dispetto d’ogni dispetto, devo riposare un poco. |
-| *(didascalia)* | Entra Edoardo, il [[Duke of York|duca di York]], correndo |
-| EDOARDO | Sorridi, cielo gentile, o colpisci, [[Death|morte]] sgarbata!<br>Ché questo mondo s’acciglia, e il sole d’Edoardo è offuscato. |
-| WARWICK | Ebbene, mio signore, che sorte? Che [[Hope|speranza]] di bene? |
+| *(didascalia)* | Entra Edoardo, il [[Duke of York\|duca di York]], correndo |
+| EDOARDO | Sorridi, cielo gentile, o colpisci, [[Death\|morte]] sgarbata!<br>Ché questo mondo s’acciglia, e il sole d’Edoardo è offuscato. |
+| WARWICK | Ebbene, mio signore, che sorte? Che [[Hope\|speranza]] di bene? |
 | *(didascalia)* | Entra Giorgio, correndo |
-| GIORGIO | La nostra sorte è perdita, la nostra [[Hope|speranza]] solo triste [[Despair|disperazione]];<br>le nostre file son rotte, e la rovina ci segue.<br>Che consiglio date? Dove fuggiremo? |
+| GIORGIO | La nostra sorte è perdita, la nostra [[Hope\|speranza]] solo triste [[Despair\|disperazione]];<br>le nostre file son rotte, e la rovina ci segue.<br>Che consiglio date? Dove fuggiremo? |
 | EDOARDO | Vana è la fuga—ci inseguono con le ali,<br>e noi siamo deboli, e non possiamo sfuggire all’inseguimento. |
-| *(didascalia)* | Entra [[Richard|Riccardo]], correndo |
-| [[Richard|RICCARDO]] | Ah, Warwick, perché ti sei ritirato?<br>Il [[Blood|sangue]] di tuo fratello la terra sitibonda l’ha bevuto,<br>aperto dalla punta d’acciaio della lancia di [[Clifford]].<br>E nelle strette stesse della [[Death|morte]] egli gridò,<br>come un lugubre clangore udito da lontano:<br>‘Warwick, [[Revenge|vendetta]]—fratello, [[Revenge|vendica]] la mia [[Death|morte]]!’<br>Così, sotto il ventre dei loro destrieri<br>che tinsero i loro pasturali nel suo [[Blood|sangue]] fumante,<br>il nobile gentiluomo rese lo [[Ghost|spirito]]. |
-| WARWICK | Allora sia la terra inebriata del nostro [[Blood|sangue]].<br>Ucciderò il mio [[Horse|cavallo]], perché non voglio fuggire.<br>Perché stiamo qui come donne dal cuore tenero,<br>a lamentare le nostre perdite, mentre il nemico infuria;<br>e a guardare, come se la [[Tragedy|tragedia]]<br>fosse recitata per scherzo da attori simulatori?<br>(Inginocchiandosi) Qui, sul mio ginocchio, giuro a Dio là sopra<br>che mai più mi fermerò, mai starò immobile,<br>finché o la [[Death|morte]] non abbia chiuso questi miei occhi<br>o la fortuna non mi abbia dato misura di [[Revenge|vendetta]]. |
-| EDOARDO | (inginocchiandosi)<br>O Warwick, io piego il mio ginocchio col tuo,<br>e in questo voto incateno la mia [[Soul|anima]] alla tua.<br>E, prima che il mio ginocchio si levi dal freddo volto della terra,<br>volgo a Te le mie mani, i miei occhi, il mio cuore,<br>Tu che innalzi e abbatti i re,<br>supplicandoti che, se sta nella Tua volontà<br>che questo [[Body|corpo]] debba esser preda dei miei nemici,<br>si aprano tuttavia le Tue porte di bronzo del cielo<br>e diano dolce passaggio alla mia peccatrice [[Soul|anima]]. |
+| *(didascalia)* | Entra [[Richard\|Riccardo]], correndo |
+| [[Richard\|RICCARDO]] | Ah, Warwick, perché ti sei ritirato?<br>Il [[Blood\|sangue]] di tuo fratello la terra sitibonda l’ha bevuto,<br>aperto dalla punta d’acciaio della lancia di [[Clifford]].<br>E nelle strette stesse della [[Death\|morte]] egli gridò,<br>come un lugubre clangore udito da lontano:<br>‘Warwick, [[Revenge\|vendetta]]—fratello, [[Revenge\|vendica]] la mia [[Death\|morte]]!’<br>Così, sotto il ventre dei loro destrieri<br>che tinsero i loro pasturali nel suo [[Blood\|sangue]] fumante,<br>il nobile gentiluomo rese lo [[Ghost\|spirito]]. |
+| WARWICK | Allora sia la terra inebriata del nostro [[Blood\|sangue]].<br>Ucciderò il mio [[Horse\|cavallo]], perché non voglio fuggire.<br>Perché stiamo qui come donne dal cuore tenero,<br>a lamentare le nostre perdite, mentre il nemico infuria;<br>e a guardare, come se la [[Tragedy\|tragedia]]<br>fosse recitata per scherzo da attori simulatori?<br>(Inginocchiandosi) Qui, sul mio ginocchio, giuro a Dio là sopra<br>che mai più mi fermerò, mai starò immobile,<br>finché o la [[Death\|morte]] non abbia chiuso questi miei occhi<br>o la fortuna non mi abbia dato misura di [[Revenge\|vendetta]]. |
+| EDOARDO | (inginocchiandosi)<br>O Warwick, io piego il mio ginocchio col tuo,<br>e in questo voto incateno la mia [[Soul\|anima]] alla tua.<br>E, prima che il mio ginocchio si levi dal freddo volto della terra,<br>volgo a Te le mie mani, i miei occhi, il mio cuore,<br>Tu che innalzi e abbatti i re,<br>supplicandoti che, se sta nella Tua volontà<br>che questo [[Body\|corpo]] debba esser preda dei miei nemici,<br>si aprano tuttavia le Tue porte di bronzo del cielo<br>e diano dolce passaggio alla mia peccatrice [[Soul\|anima]]. |
 | *(didascalia)* | Si alzano |
 | EDOARDO | Ora, signori, prendiamo congedo fino al nostro nuovo incontro,<br>ovunque sia, in cielo o in terra. |
-| ICHARD | Fratello, dammi la tua mano; e, gentile Warwick,<br>lascia che t’abbracci nelle mie braccia stanche.<br>Io, che mai piansi, ora mi struggo di dolore<br>che l’[[Winter|inverno]] recida così la nostra primavera. |
+| ICHARD | Fratello, dammi la tua mano; e, gentile Warwick,<br>lascia che t’abbracci nelle mie braccia stanche.<br>Io, che mai piansi, ora mi struggo di dolore<br>che l’[[Winter\|inverno]] recida così la nostra primavera. |
 | WARWICK | Via, via! Ancora una volta, dolci signori, addio. |
-| GIORGIO | Andiamo tuttavia tutti insieme alle nostre truppe,<br>e diamo licenza di fuggire a chi non vuol restare;<br>e chiamiamo colonne quelli che staranno con noi;<br>e, se prosperiamo, promettiamo loro tali ricompense<br>quali portano i vincitori ai giochi olimpici.<br>Questo può piantare [[Courage|coraggio]] nei loro petti tremanti,<br>ché v’è ancora [[Hope|speranza]] di vita e di vittoria.<br>Non tardiamo più—andiamo di qui a tutta forza. Escono |
+| GIORGIO | Andiamo tuttavia tutti insieme alle nostre truppe,<br>e diamo licenza di fuggire a chi non vuol restare;<br>e chiamiamo colonne quelli che staranno con noi;<br>e, se prosperiamo, promettiamo loro tali ricompense<br>quali portano i vincitori ai giochi olimpici.<br>Questo può piantare [[Courage\|coraggio]] nei loro petti tremanti,<br>ché v’è ancora [[Hope\|speranza]] di vita e di vittoria.<br>Non tardiamo più—andiamo di qui a tutta forza. Escono |
 
 
 
@@ -2070,10 +2070,10 @@ The True [[Tragedy]] of [[Richard]] [[Duke of York]] and the Good [[King]] Henry
 
 | Chi parla | Battuta |
 |---|---|
-| *(didascalia)* | Squilli d’allarme. Scorrerie. Entra [[Richard|Riccardo]] da una porta e lord [[Clifford]] dall’altra |
-| [[Richard|RICCARDO]] | Ora, [[Clifford]], t’ho isolato [[Alone|solo]].<br>Poni che questo braccio sia per il [[Duke of York|duca di York]],<br>e questo per Rutland, entrambi votati alla [[Revenge|vendetta]],<br>fossi tu circondato da un muro di bronzo. |
-| [[Clifford|CLIFFORD]] | Ora, [[Richard|Riccardo]], sono qui con te [[Alone|solo]].<br>Questa è la mano che pugnalò tuo padre York,<br>e questa la mano che uccise tuo fratello Rutland,<br>ed ecco il cuore che trionfa nella loro [[Death|morte]]<br>e incita queste mani che uccisero tuo padre e tuo fratello<br>a compiere il simile su te stesso—<br>e dunque, a te!<br>Combattono. Il [[Earl of Warwick|conte di Warwick]] sopravviene e soccorre [[Richard|Riccardo]]. Lord [[Clifford]] fugge |
-| [[Richard|RICCARDO]] | No, Warwick, scegliti qualche altra preda—<br>ché io stesso caccerò questo lupo a [[Death|morte]]. Escono |
+| *(didascalia)* | Squilli d’allarme. Scorrerie. Entra [[Richard\|Riccardo]] da una porta e lord [[Clifford]] dall’altra |
+| [[Richard\|RICCARDO]] | Ora, [[Clifford]], t’ho isolato [[Alone\|solo]].<br>Poni che questo braccio sia per il [[Duke of York\|duca di York]],<br>e questo per Rutland, entrambi votati alla [[Revenge\|vendetta]],<br>fossi tu circondato da un muro di bronzo. |
+| [[Clifford\|CLIFFORD]] | Ora, [[Richard\|Riccardo]], sono qui con te [[Alone\|solo]].<br>Questa è la mano che pugnalò tuo padre York,<br>e questa la mano che uccise tuo fratello Rutland,<br>ed ecco il cuore che trionfa nella loro [[Death\|morte]]<br>e incita queste mani che uccisero tuo padre e tuo fratello<br>a compiere il simile su te stesso—<br>e dunque, a te!<br>Combattono. Il [[Earl of Warwick\|conte di Warwick]] sopravviene e soccorre [[Richard\|Riccardo]]. Lord [[Clifford]] fugge |
+| [[Richard\|RICCARDO]] | No, Warwick, scegliti qualche altra preda—<br>ché io stesso caccerò questo lupo a [[Death\|morte]]. Escono |
 
 
 
@@ -2118,36 +2118,36 @@ The True [[Tragedy]] of [[Richard]] [[Duke of York]] and the Good [[King]] Henry
 
 | Chi parla | Battuta |
 |---|---|
-| *(didascalia)* | Squillo d’allarme. Entra [[King|re]] Enrico |
-| [[King|RE]] ENRICO | Questa battaglia va come la guerra del mattino,<br>quando le nubi morenti contendono con la luce crescente,<br>in quel [[Time|tempo]] in cui il pastore, soffiandosi sulle dita,<br>non può chiamarlo né giorno pieno né [[Night|notte]].<br>Ora oscilla da questa parte come un mare possente<br>costretto dalla marea a combattere col [[Wind|vento]],<br>ora oscilla da quella come quello stesso mare<br>costretto a ritirarsi dalla furia del [[Wind|vento]].<br>Talvolta prevale la piena, e poi il [[Wind|vento]];<br>ora l’uno è il migliore, poi l’altro il più forte—<br>entrambi lottando per esser vincitori, petto a petto,<br>e nessuno però né vincitore né vinto.<br>Tale è l’equilibrio pari di questa guerra crudele.<br>Qui su questo monticello mi siederò.<br>A chi Dio vuole, a lui sia la vittoria.<br>Ché Margherita mia [[Queen|regina]], e [[Clifford]] pure,<br>m’han cacciato con rimproveri dalla battaglia, giurando entrambi<br>che prosperano al meglio quando io ne sono lontano.<br>Fossi morto, se tale fosse la buona volontà di Dio—<br>ché che v’è in questo mondo se non pena e dolore?<br>O Dio! Mi pare che sarebbe vita felice<br>non esser più che un rozzo villano.<br>Sedere su una [[Hill|collina]], come faccio ora;<br>intagliare quadranti con arte, punto per punto,<br>per vedere così come corrono i minuti:<br>quanti fanno l’ora piena e compiuta,<br>quante ore conducono il giorno,<br>quanti giorni compiono l’anno,<br>quanti anni può vivere un uomo mortale.<br>Saputo questo, dividere allora i tempi:<br>tante ore devo custodire il mio gregge,<br>tante ore devo prendere il mio riposo,<br>tante ore devo meditare,<br>tante ore devo divertirmi,<br>tanti giorni le mie pecore sono gravide,<br>tante settimane prima che le povere sciocche figlino,<br>tanti anni prima ch’io tosi il vello.<br>Così minuti, ore, giorni, settimane, mesi e anni,<br>trascorsi al fine per cui furono creati,<br>porterebbero i capelli bianchi a una quieta [[Grave|tomba]].<br>Ah, che vita sarebbe questa! Quanto dolce! Quanto amabile!<br>Non dà il cespuglio di biancospino un’ombra più dolce<br>ai pastori che guardano le loro innocenti pecore<br>di quanto ne dia un ricco baldacchino ricamato<br>ai re che [[Fear|temono]] il tradimento dei loro sudditi?<br>Oh sì, la dà—mille volte la dà.<br>E per concludere, la rozza cagliata del pastore,<br>la sua bevanda fredda e leggera dalla borraccia di cuoio,<br>il suo consueto [[Sleep|sonno]] all’ombra d’un albero fresco,<br>tutto ciò ch’egli gode sicuro e dolcemente,<br>vale assai più delle delizie d’un principe,<br>delle sue vivande scintillanti in coppa d’oro,<br>del suo [[Body|corpo]] coricato in un letto ricercato,<br>quando affanno, sospetto e tradimento gli fanno corte. |
-| *(didascalia)* | Squillo d’allarme. Entra da una porta un Soldato con un morto in braccio. [[King|Re]] Enrico sta in disparte |
-| SOLDATO | Mal soffia il [[Wind|vento]] che a nessuno giova.<br>Quest’uomo, che a corpo a corpo uccisi in battaglia,<br>può avere addosso qualche riserva di monete;<br>e io, che per caso ora gliele prendo,<br>potrei prima di [[Night|notte]] cedere la mia vita e quelle<br>a qualche altro, come questo morto fa con me. |
+| *(didascalia)* | Squillo d’allarme. Entra [[King\|re]] Enrico |
+| [[King\|RE]] ENRICO | Questa battaglia va come la guerra del mattino,<br>quando le nubi morenti contendono con la luce crescente,<br>in quel [[Time\|tempo]] in cui il pastore, soffiandosi sulle dita,<br>non può chiamarlo né giorno pieno né [[Night\|notte]].<br>Ora oscilla da questa parte come un mare possente<br>costretto dalla marea a combattere col [[Wind\|vento]],<br>ora oscilla da quella come quello stesso mare<br>costretto a ritirarsi dalla furia del [[Wind\|vento]].<br>Talvolta prevale la piena, e poi il [[Wind\|vento]];<br>ora l’uno è il migliore, poi l’altro il più forte—<br>entrambi lottando per esser vincitori, petto a petto,<br>e nessuno però né vincitore né vinto.<br>Tale è l’equilibrio pari di questa guerra crudele.<br>Qui su questo monticello mi siederò.<br>A chi Dio vuole, a lui sia la vittoria.<br>Ché Margherita mia [[Queen\|regina]], e [[Clifford]] pure,<br>m’han cacciato con rimproveri dalla battaglia, giurando entrambi<br>che prosperano al meglio quando io ne sono lontano.<br>Fossi morto, se tale fosse la buona volontà di Dio—<br>ché che v’è in questo mondo se non pena e dolore?<br>O Dio! Mi pare che sarebbe vita felice<br>non esser più che un rozzo villano.<br>Sedere su una [[Hill\|collina]], come faccio ora;<br>intagliare quadranti con arte, punto per punto,<br>per vedere così come corrono i minuti:<br>quanti fanno l’ora piena e compiuta,<br>quante ore conducono il giorno,<br>quanti giorni compiono l’anno,<br>quanti anni può vivere un uomo mortale.<br>Saputo questo, dividere allora i tempi:<br>tante ore devo custodire il mio gregge,<br>tante ore devo prendere il mio riposo,<br>tante ore devo meditare,<br>tante ore devo divertirmi,<br>tanti giorni le mie pecore sono gravide,<br>tante settimane prima che le povere sciocche figlino,<br>tanti anni prima ch’io tosi il vello.<br>Così minuti, ore, giorni, settimane, mesi e anni,<br>trascorsi al fine per cui furono creati,<br>porterebbero i capelli bianchi a una quieta [[Grave\|tomba]].<br>Ah, che vita sarebbe questa! Quanto dolce! Quanto amabile!<br>Non dà il cespuglio di biancospino un’ombra più dolce<br>ai pastori che guardano le loro innocenti pecore<br>di quanto ne dia un ricco baldacchino ricamato<br>ai re che [[Fear\|temono]] il tradimento dei loro sudditi?<br>Oh sì, la dà—mille volte la dà.<br>E per concludere, la rozza cagliata del pastore,<br>la sua bevanda fredda e leggera dalla borraccia di cuoio,<br>il suo consueto [[Sleep\|sonno]] all’ombra d’un albero fresco,<br>tutto ciò ch’egli gode sicuro e dolcemente,<br>vale assai più delle delizie d’un principe,<br>delle sue vivande scintillanti in coppa d’oro,<br>del suo [[Body\|corpo]] coricato in un letto ricercato,<br>quando affanno, sospetto e tradimento gli fanno corte. |
+| *(didascalia)* | Squillo d’allarme. Entra da una porta un Soldato con un morto in braccio. [[King\|Re]] Enrico sta in disparte |
+| SOLDATO | Mal soffia il [[Wind\|vento]] che a nessuno giova.<br>Quest’uomo, che a corpo a corpo uccisi in battaglia,<br>può avere addosso qualche riserva di monete;<br>e io, che per caso ora gliele prendo,<br>potrei prima di [[Night\|notte]] cedere la mia vita e quelle<br>a qualche altro, come questo morto fa con me. |
 | *(didascalia)* | Toglie l’elmo al morto |
-| SOLDATO | Chi è costui? O Dio! È il volto di mio padre,<br>che in questo scontro io, inconsapevole, ho ucciso.<br>Oh, tempi gravi, che generano tali eventi!<br>Da [[London|Londra]] fui arruolato a forza dal [[King|re]];<br>mio padre, essendo uomo del [[Earl of Warwick|conte di Warwick]],<br>venne per la parte di York, arruolato dal suo padrone;<br>e io, che dalle sue mani ricevetti la vita,<br>con le mie mani della vita l’ho privato.<br>Perdonami, Dio, non sapevo quel che facevo;<br>e perdona, padre, ché non ti riconoscevo.<br>Le mie [[Tears|lacrime]] cancelleranno questi segni di sangue,<br>e non più parole finché non abbiano scorso a sazietà.<br>Piange |
-| [[King|RE]] ENRICO | O spettacolo pietoso! O tempi sanguinosi!<br>Mentre i leoni guerreggiano e si battono per le loro tane,<br>i poveri agnelli innocui patiscono la loro inimicizia.<br>Piangi, uomo infelice, t’aiuterò lacrima per lacrima;<br>e siano i nostri cuori e occhi, come guerra civile,<br>ciechi di [[Tears|lacrime]], e si spezzino, sovraccarichi di dolore. |
+| SOLDATO | Chi è costui? O Dio! È il volto di mio padre,<br>che in questo scontro io, inconsapevole, ho ucciso.<br>Oh, tempi gravi, che generano tali eventi!<br>Da [[London\|Londra]] fui arruolato a forza dal [[King\|re]];<br>mio padre, essendo uomo del [[Earl of Warwick\|conte di Warwick]],<br>venne per la parte di York, arruolato dal suo padrone;<br>e io, che dalle sue mani ricevetti la vita,<br>con le mie mani della vita l’ho privato.<br>Perdonami, Dio, non sapevo quel che facevo;<br>e perdona, padre, ché non ti riconoscevo.<br>Le mie [[Tears\|lacrime]] cancelleranno questi segni di sangue,<br>e non più parole finché non abbiano scorso a sazietà.<br>Piange |
+| [[King\|RE]] ENRICO | O spettacolo pietoso! O tempi sanguinosi!<br>Mentre i leoni guerreggiano e si battono per le loro tane,<br>i poveri agnelli innocui patiscono la loro inimicizia.<br>Piangi, uomo infelice, t’aiuterò lacrima per lacrima;<br>e siano i nostri cuori e occhi, come guerra civile,<br>ciechi di [[Tears\|lacrime]], e si spezzino, sovraccarichi di dolore. |
 | *(didascalia)* | Entra da un’altra porta un altro Soldato con un morto in braccio |
 | SECONDO SOLDATO | Tu che m’hai resistito così valentemente,<br>dammi il tuo oro, se hai dell’oro—<br>ché l’ho comprato con cento colpi. |
 | *(didascalia)* | Toglie l’elmo al morto |
 | SECONDO SOLDATO | Ma lasciami vedere: è questo il volto del nostro nemico?<br>Ah, no, no, no—è il mio unico figlio!<br>Ah, ragazzo, se ti resta un po’ di vita,<br>solleva lo sguardo! (Piangendo) Guarda, guarda, che rovesci<br>si levano,<br>spinti dalla ventosa tempesta del mio cuore,<br>sulle tue ferite, e mi uccidono l’occhio e il cuore!<br>Oh, abbi pietà, Dio, di questa età miserabile!<br>Quali stratagemmi, quanto crudeli, quanto da macellai,<br>erronei, sediziosi e snaturati,<br>genera ogni giorno questa contesa mortale!<br>O ragazzo, tuo padre ti diede la vita troppo presto,<br>e t’ha privato della vita troppo tardi! |
-| [[King|RE]] ENRICO | Dolore sopra dolore! Pena più che comune pena!<br>Oh, che la mia [[Death|morte]] fermasse queste opere pietose!<br>Oh, pietà, pietà, cielo gentile, pietà!<br>La [[Rose|rosa]] rossa e la bianca sono sul suo volto,<br>i colori fatali delle nostre case in lotta;<br>l’una il suo [[Blood|sangue]] purpureo assai [[Well|bene]] somiglia,<br>l’altra le sue guance pallide, mi pare, raffigura.<br>Si secchi una [[Rose|rosa]], e l’altra fiorisca—<br>se contendete, mille vite dovranno seccarsi. |
-| PRIMO SOLDATO | Come mia madre per la [[Death|morte]] d’un padre<br>si scaglierà contro di me, e non sarà mai appagata! |
-| SECONDO SOLDATO | Come mia moglie per l’uccisione di mio figlio<br>verserà mari di [[Tears|lacrime]], e non sarà mai appagata! |
-| [[King|RE]] ENRICO | Come il paese per questi dolorosi casi<br>penserà male del [[King|re]], e non sarà appagato! |
-| PRIMO SOLDATO | Vi fu mai figlio che così rimpiangesse la [[Death|morte]] d’un padre? |
+| [[King\|RE]] ENRICO | Dolore sopra dolore! Pena più che comune pena!<br>Oh, che la mia [[Death\|morte]] fermasse queste opere pietose!<br>Oh, pietà, pietà, cielo gentile, pietà!<br>La [[Rose\|rosa]] rossa e la bianca sono sul suo volto,<br>i colori fatali delle nostre case in lotta;<br>l’una il suo [[Blood\|sangue]] purpureo assai [[Well\|bene]] somiglia,<br>l’altra le sue guance pallide, mi pare, raffigura.<br>Si secchi una [[Rose\|rosa]], e l’altra fiorisca—<br>se contendete, mille vite dovranno seccarsi. |
+| PRIMO SOLDATO | Come mia madre per la [[Death\|morte]] d’un padre<br>si scaglierà contro di me, e non sarà mai appagata! |
+| SECONDO SOLDATO | Come mia moglie per l’uccisione di mio figlio<br>verserà mari di [[Tears\|lacrime]], e non sarà mai appagata! |
+| [[King\|RE]] ENRICO | Come il paese per questi dolorosi casi<br>penserà male del [[King\|re]], e non sarà appagato! |
+| PRIMO SOLDATO | Vi fu mai figlio che così rimpiangesse la [[Death\|morte]] d’un padre? |
 | SECONDO SOLDATO | Vi fu mai padre che così piangesse suo figlio? |
-| [[King|RE]] ENRICO | Vi fu mai [[King|re]] così afflitto per il dolore dei sudditi?<br>Grande è il vostro dolore, il mio dieci volte tanto. |
-| PRIMO SOLDATO | (al [[Body|corpo]] di suo padre)<br>Ti porterò via dove possa piangere a sazietà. |
-| *(didascalia)* | Esce da una porta col [[Body|corpo]] di suo padre |
-| SECONDO SOLDATO | (al [[Body|corpo]] di suo figlio)<br>Queste mie braccia saranno il tuo sudario;<br>il mio cuore, dolce ragazzo, sarà il tuo sepolcro,<br>ché dal mio cuore la tua immagine mai partirà.<br>Il mio petto sospirante sarà la tua campana funebre,<br>e tuo padre sarà tanto ossequioso nel lutto,<br>anche solo per la perdita di te, non avendone altri,<br>quanto Priamo per tutti i suoi valorosi figli.<br>Ti porterò via, e combatta chi vuole—<br>ché io ho assassinato dove non dovevo uccidere. |
-| *(didascalia)* | Esce da un’altra porta col [[Body|corpo]] di suo figlio |
-| [[King|RE]] ENRICO | Uomini dal cuore triste, assai vinti dall’affanno,<br>qui siede un [[King|re]] più dolente di voi. |
+| [[King\|RE]] ENRICO | Vi fu mai [[King\|re]] così afflitto per il dolore dei sudditi?<br>Grande è il vostro dolore, il mio dieci volte tanto. |
+| PRIMO SOLDATO | (al [[Body\|corpo]] di suo padre)<br>Ti porterò via dove possa piangere a sazietà. |
+| *(didascalia)* | Esce da una porta col [[Body\|corpo]] di suo padre |
+| SECONDO SOLDATO | (al [[Body\|corpo]] di suo figlio)<br>Queste mie braccia saranno il tuo sudario;<br>il mio cuore, dolce ragazzo, sarà il tuo sepolcro,<br>ché dal mio cuore la tua immagine mai partirà.<br>Il mio petto sospirante sarà la tua campana funebre,<br>e tuo padre sarà tanto ossequioso nel lutto,<br>anche solo per la perdita di te, non avendone altri,<br>quanto Priamo per tutti i suoi valorosi figli.<br>Ti porterò via, e combatta chi vuole—<br>ché io ho assassinato dove non dovevo uccidere. |
+| *(didascalia)* | Esce da un’altra porta col [[Body\|corpo]] di suo figlio |
+| [[King\|RE]] ENRICO | Uomini dal cuore triste, assai vinti dall’affanno,<br>qui siede un [[King\|re]] più dolente di voi. |
 | *(didascalia)* | Squilli d’allarme. Scorrerie. Entra il principe Edoardo |
-| PRINCIPE EDOARDO | Fuggite, padre, fuggite—ché tutti i vostri amici son fuggiti,<br>e Warwick infuria come un toro irritato!<br>Via—ché la [[Death|morte]] ci tiene all’inseguimento! |
-| *(didascalia)* | Entra [[Queen Margaret|la regina Margherita]] |
-| [[Queen Margaret|REGINA MARGHERITA]] | A cavallo, mio signore—verso Berwick, a tutta corsa.<br>Edoardo e [[Richard|Riccardo]], come una coppia di levrieri<br>che ha in vista la lepre timorosa in fuga,<br>con occhi di fuoco scintillanti di pura ira,<br>e l’acciaio sanguinoso stretto nelle mani irate,<br>ci sono alle spalle—e perciò via di qui a tutta forza. |
+| PRINCIPE EDOARDO | Fuggite, padre, fuggite—ché tutti i vostri amici son fuggiti,<br>e Warwick infuria come un toro irritato!<br>Via—ché la [[Death\|morte]] ci tiene all’inseguimento! |
+| *(didascalia)* | Entra [[Queen Margaret\|la regina Margherita]] |
+| [[Queen Margaret\|REGINA MARGHERITA]] | A cavallo, mio signore—verso Berwick, a tutta corsa.<br>Edoardo e [[Richard\|Riccardo]], come una coppia di levrieri<br>che ha in vista la lepre timorosa in fuga,<br>con occhi di fuoco scintillanti di pura ira,<br>e l’acciaio sanguinoso stretto nelle mani irate,<br>ci sono alle spalle—e perciò via di qui a tutta forza. |
 | *(didascalia)* | Entra Exeter |
-| EXETER | Via—ché la vendetta viene con loro!<br>No—non fermatevi a discutere—fate [[Speed|presto]]—<br>o venite dopo. Io andrò avanti. |
-| [[King|RE]] ENRICO | No, prendimi con te, buon dolce Exeter.<br>Non che io [[Fear|tema]] di restare, ma [[Love|amo]] andare<br>dove la [[Queen|regina]] intende. Avanti, via. Escono |
+| EXETER | Via—ché la vendetta viene con loro!<br>No—non fermatevi a discutere—fate [[Speed\|presto]]—<br>o venite dopo. Io andrò avanti. |
+| [[King\|RE]] ENRICO | No, prendimi con te, buon dolce Exeter.<br>Non che io [[Fear\|tema]] di restare, ma [[Love\|amo]] andare<br>dove la [[Queen\|regina]] intende. Avanti, via. Escono |
 
 
 
@@ -2201,42 +2201,42 @@ The True [[Tragedy]] of [[Richard]] [[Duke of York]] and the Good [[King]] Henry
 | Chi parla | Battuta |
 |---|---|
 | *(didascalia)* | Un forte squillo d’allarme. Entra lord [[Clifford]], ferito da una freccia nel collo |
-| [[Clifford|CLIFFORD]] | Qui la mia candela si consuma—sì, qui muore,<br>quella che, mentre durò, diede luce a [[King|re]] Enrico.<br>O Lancaster, [[Fear|temo]] la tua caduta<br>più della separazione del mio [[Body|corpo]] dalla mia [[Soul|anima]]!<br>Il mio [[Love|amore]] e il mio [[Fear|timore]] incollarono a te molti amici—<br>e, ora che cado, il tuo tenace impasto si scioglie,<br>indebolendo Enrico, rafforzando il mal superbo York.<br>Il popolo sciama come mosche d’[[Summer|estate]],<br>e dove volano le zanzare se non al sole?<br>E chi brilla ora se non i nemici di Enrico?<br>O Febo, non avessi mai dato consenso<br>che Fetonte guidasse i tuoi destrieri di fuoco,<br>il tuo carro ardente non avrebbe mai arso la terra!<br>E, Enrico, avessi tu regnato come i re devono fare,<br>o come fecero tuo padre e il padre suo,<br>non cedendo terreno alla [[house|casa]] di York,<br>essi non sarebbero mai sorti come mosche d’[[Summer|estate]];<br>io e diecimila in questo regno sventurato<br>non avremmo lasciato vedove in lutto per la nostra [[Death|morte]];<br>e tu oggi avresti tenuto in pace il tuo trono.<br>Ché che cosa nutre le male erbe se non l’aria mite?<br>E che cosa rende arditi i briganti se non troppa indulgenza?<br>Vani sono i lamenti, e insanabili le mie ferite;<br>nessuna via per fuggire, né forza per sostenere la fuga;<br>il nemico è senza pietà e non avrà pietà,<br>ché dalle loro mani non ho meritato pietà.<br>L’aria è entrata nelle mie ferite mortali,<br>e il gran fluire di [[Blood|sangue]] mi fa venir meno.<br>Venite York e [[Richard|Riccardo]], Warwick e gli altri—<br>io pugnalai il petto dei vostri padri; spaccate il mio. |
+| [[Clifford\|CLIFFORD]] | Qui la mia candela si consuma—sì, qui muore,<br>quella che, mentre durò, diede luce a [[King\|re]] Enrico.<br>O Lancaster, [[Fear\|temo]] la tua caduta<br>più della separazione del mio [[Body\|corpo]] dalla mia [[Soul\|anima]]!<br>Il mio [[Love\|amore]] e il mio [[Fear\|timore]] incollarono a te molti amici—<br>e, ora che cado, il tuo tenace impasto si scioglie,<br>indebolendo Enrico, rafforzando il mal superbo York.<br>Il popolo sciama come mosche d’[[Summer\|estate]],<br>e dove volano le zanzare se non al sole?<br>E chi brilla ora se non i nemici di Enrico?<br>O Febo, non avessi mai dato consenso<br>che Fetonte guidasse i tuoi destrieri di fuoco,<br>il tuo carro ardente non avrebbe mai arso la terra!<br>E, Enrico, avessi tu regnato come i re devono fare,<br>o come fecero tuo padre e il padre suo,<br>non cedendo terreno alla [[house\|casa]] di York,<br>essi non sarebbero mai sorti come mosche d’[[Summer\|estate]];<br>io e diecimila in questo regno sventurato<br>non avremmo lasciato vedove in lutto per la nostra [[Death\|morte]];<br>e tu oggi avresti tenuto in pace il tuo trono.<br>Ché che cosa nutre le male erbe se non l’aria mite?<br>E che cosa rende arditi i briganti se non troppa indulgenza?<br>Vani sono i lamenti, e insanabili le mie ferite;<br>nessuna via per fuggire, né forza per sostenere la fuga;<br>il nemico è senza pietà e non avrà pietà,<br>ché dalle loro mani non ho meritato pietà.<br>L’aria è entrata nelle mie ferite mortali,<br>e il gran fluire di [[Blood\|sangue]] mi fa venir meno.<br>Venite York e [[Richard\|Riccardo]], Warwick e gli altri—<br>io pugnalai il petto dei vostri padri; spaccate il mio. |
 | *(didascalia)* | Viene meno. |
-| *(didascalia)* | Squillo d’allarme e ritirata. Entrano Edoardo [[Duke of York|duca di York]], |
-| [[Clifford|CLIFFORD]] | i suoi fratelli Giorgio e [[Richard|Riccardo]], il conte di |
+| *(didascalia)* | Squillo d’allarme e ritirata. Entrano Edoardo [[Duke of York\|duca di York]], |
+| [[Clifford\|CLIFFORD]] | i suoi fratelli Giorgio e [[Richard\|Riccardo]], il conte di |
 | *(didascalia)* | Warwick, il marchese di Montague, e soldati |
-| EDOARDO | Ora respiriamo, signori—la buona fortuna ci invita a sostare,<br>e a spianare le rughe della guerra con sguardi di pace.<br>Alcune truppe inseguono la [[Queen|regina]] dall’animo sanguinario,<br>che guidava il placido Enrico, benché egli fosse [[King|re]],<br>come una vela gonfia di raffica impetuosa<br>comanda al galeone di fendere le onde.<br>Ma credete, signori, che [[Clifford]] sia fuggito con loro? |
-| WARWICK | No—è impossibile che scampi;<br>ché, sebbene io dica queste parole in sua presenza,<br>vostro fratello [[Richard|Riccardo]] l’ha segnato per la [[Grave|tomba]].<br>E dovunque sia, è certamente morto.<br>[[Clifford]] geme |
+| EDOARDO | Ora respiriamo, signori—la buona fortuna ci invita a sostare,<br>e a spianare le rughe della guerra con sguardi di pace.<br>Alcune truppe inseguono la [[Queen\|regina]] dall’animo sanguinario,<br>che guidava il placido Enrico, benché egli fosse [[King\|re]],<br>come una vela gonfia di raffica impetuosa<br>comanda al galeone di fendere le onde.<br>Ma credete, signori, che [[Clifford]] sia fuggito con loro? |
+| WARWICK | No—è impossibile che scampi;<br>ché, sebbene io dica queste parole in sua presenza,<br>vostro fratello [[Richard\|Riccardo]] l’ha segnato per la [[Grave\|tomba]].<br>E dovunque sia, è certamente morto.<br>[[Clifford]] geme |
 | *(didascalia)* | EDOARDO |
-| WARWICK | Di chi è quell’[[Soul|anima]] che prende il suo grave congedo? |
-| *(didascalia)* | [[Richard|RICCARDO]] |
-| WARWICK | Un gemito mortale, come il separarsi di vita e [[Death|morte]]. |
-| *(didascalia)* | EDOARDO a [[Richard|Riccardo]] |
+| WARWICK | Di chi è quell’[[Soul\|anima]] che prende il suo grave congedo? |
+| *(didascalia)* | [[Richard\|RICCARDO]] |
+| WARWICK | Un gemito mortale, come il separarsi di vita e [[Death\|morte]]. |
+| *(didascalia)* | EDOARDO a [[Richard\|Riccardo]] |
 | WARWICK | Guarda chi è. |
-| *(didascalia)* | [[Richard|Riccardo]] va verso [[Clifford]] |
+| *(didascalia)* | [[Richard\|Riccardo]] va verso [[Clifford]] |
 | WARWICK | E ora che la battaglia è finita,<br>amico o nemico, sia trattato con gentilezza. |
-| [[Richard|RICCARDO]] | Revoca quella sentenza di [[Mercy|clemenza]], ché è [[Clifford]];<br>il quale, non contento d’aver tagliato il ramo<br>recidendo Rutland quando le sue [[Leaves|foglie]] germogliavano,<br>pose il suo coltello assassino alla radice<br>d’onde quel tenero germoglio dolcemente [[spring|sbocciò]]—<br>intendo il nostro principesco padre, [[Duke of York|duca di York]]. |
+| [[Richard\|RICCARDO]] | Revoca quella sentenza di [[Mercy\|clemenza]], ché è [[Clifford]];<br>il quale, non contento d’aver tagliato il ramo<br>recidendo Rutland quando le sue [[Leaves\|foglie]] germogliavano,<br>pose il suo coltello assassino alla radice<br>d’onde quel tenero germoglio dolcemente [[spring\|sbocciò]]—<br>intendo il nostro principesco padre, [[Duke of York\|duca di York]]. |
 | WARWICK | Dalle porte di York togliete giù la testa,<br>la testa di vostro padre, che [[Clifford]] vi pose.<br>Al suo posto questa ne prenda il luogo—<br>misura per misura si deve rispondere. |
-| EDOARDO | Portate avanti quel funesto barbagianni della nostra [[house|casa]],<br>che nulla cantò se non [[Death|morte]] a noi e ai nostri. |
+| EDOARDO | Portate avanti quel funesto barbagianni della nostra [[house\|casa]],<br>che nulla cantò se non [[Death\|morte]] a noi e ai nostri. |
 | *(didascalia)* | [[Clifford]] è trascinato avanti |
-| EDOARDO | Ora la [[Death|morte]] fermerà il suo lugubre suono minaccioso<br>e la sua lingua di malaugurio non parlerà più. |
-| WARWICK | Credo che l’intelletto gli sia venuto meno.<br>Parla, [[Clifford]], sai chi ti parla?<br>La [[Death|morte]] buia e nuvolosa adombra i raggi della sua vita,<br>ed egli non ci vede né ci ode in ciò che diciamo. |
-| [[Richard|RICCARDO]] | Oh, volesse il cielo che udisse—e forse ode.<br>È solo sua astuzia il fingere così,<br>perché vorrebbe evitare quegli amari insulti<br>che nel [[Time|tempo]] della [[Death|morte]] rivolse a nostro padre. |
+| EDOARDO | Ora la [[Death\|morte]] fermerà il suo lugubre suono minaccioso<br>e la sua lingua di malaugurio non parlerà più. |
+| WARWICK | Credo che l’intelletto gli sia venuto meno.<br>Parla, [[Clifford]], sai chi ti parla?<br>La [[Death\|morte]] buia e nuvolosa adombra i raggi della sua vita,<br>ed egli non ci vede né ci ode in ciò che diciamo. |
+| [[Richard\|RICCARDO]] | Oh, volesse il cielo che udisse—e forse ode.<br>È solo sua astuzia il fingere così,<br>perché vorrebbe evitare quegli amari insulti<br>che nel [[Time\|tempo]] della [[Death\|morte]] rivolse a nostro padre. |
 | GIORGIO | Se così credi, tormentalo con parole pungenti. |
-| [[Richard|RICCARDO]] | [[Clifford]], chiedi [[Mercy|pietà]] e non ottenere grazia. |
+| [[Richard\|RICCARDO]] | [[Clifford]], chiedi [[Mercy\|pietà]] e non ottenere grazia. |
 | EDOARDO | [[Clifford]], pèntiti in vana penitenza. |
 | WARWICK | [[Clifford]], escogita scuse per le tue colpe. |
 | GIORGIO | Mentre noi escogitiamo crudeli torture per le tue colpe. |
-| [[Richard|RICCARDO]] | Tu [[Love|amasti]] York, e io sono figlio di York. |
+| [[Richard\|RICCARDO]] | Tu [[Love\|amasti]] York, e io sono figlio di York. |
 | EDOARDO | Tu avesti pietà di Rutland—io avrò pietà di te. |
 | GIORGIO | Dov’è il capitano Margherita per difenderti ora? |
 | WARWICK | Ti scherniscono, [[Clifford]]—impreca come solevi. |
-| [[Richard|RICCARDO]] | Che, nemmeno un’imprecazione? Ebbene, il mondo va male<br>quando [[Clifford]] non può concedere ai suoi amici un’imprecazione.<br>Da questo capisco ch’è morto—e, per la mia [[Soul|anima]],<br>se questa destra potesse comprare due sole ore di vita<br>perché io, per pieno dispetto, potessi inveire contro lui,<br>l’altra mano la taglierebbe, e col [[Blood|sangue]]<br>che ne sgorga<br>soffocherei il [[Villain|malvagio]] la cui sete inestinguibile<br>York e il giovane Rutland non poterono saziare. |
-| WARWICK | Sì, ma è morto. Via la testa del traditore,<br>e innalzatela nel luogo dove sta quella di vostro padre.<br>E ora a [[London|Londra]] con marcia trionfale,<br>là per essere incoronato regale [[King|re]] d’Inghilterra;<br>d’onde Warwick solcherà il mare verso la Francia,<br>e chiederà madama Bona per tua [[Queen|regina]].<br>Così legherai insieme queste due terre.<br>E, avendo la Francia amica, non temerai<br>il nemico disperso che spera di rialzarsi,<br>ché, sebbene non possano pungere molto a nuocere,<br>aspettati però che ronzino a offendere le tue orecchie.<br>Prima vedrò l’incoronazione,<br>e poi verso la Bretagna [[Cross|varcherò]] il mare<br>per effettuare questo [[Marriage|matrimonio]], se piace al mio signore. |
-| EDOARDO | Sia proprio come tu vuoi, dolce Warwick.<br>Ché sulla tua spalla edifico il mio seggio,<br>e mai intraprenderò cosa<br>in cui manchi il tuo consiglio e consenso.<br>[[Richard|Riccardo]], ti creerò [[Duke of Gloucester|duca di Gloucester]],<br>e Giorgio, di [[Clarence]]; Warwick, come noi stessi,<br>farà e disfarà come più gli piace. |
-| [[Richard|RICCARDO]] | Sia io duca di [[Clarence]], e Giorgio di [[Gloucester]]—<br>ché il ducato di [[Gloucester]] è troppo infausto. |
-| WARWICK | Bah, è una sciocca osservazione—<br>[[Richard|Riccardo]], sii [[Duke of Gloucester|duca di Gloucester]]. Ora a [[London|Londra]]<br>a veder questi onori in possesso. |
+| [[Richard\|RICCARDO]] | Che, nemmeno un’imprecazione? Ebbene, il mondo va male<br>quando [[Clifford]] non può concedere ai suoi amici un’imprecazione.<br>Da questo capisco ch’è morto—e, per la mia [[Soul\|anima]],<br>se questa destra potesse comprare due sole ore di vita<br>perché io, per pieno dispetto, potessi inveire contro lui,<br>l’altra mano la taglierebbe, e col [[Blood\|sangue]]<br>che ne sgorga<br>soffocherei il [[Villain\|malvagio]] la cui sete inestinguibile<br>York e il giovane Rutland non poterono saziare. |
+| WARWICK | Sì, ma è morto. Via la testa del traditore,<br>e innalzatela nel luogo dove sta quella di vostro padre.<br>E ora a [[London\|Londra]] con marcia trionfale,<br>là per essere incoronato regale [[King\|re]] d’Inghilterra;<br>d’onde Warwick solcherà il mare verso la Francia,<br>e chiederà madama Bona per tua [[Queen\|regina]].<br>Così legherai insieme queste due terre.<br>E, avendo la Francia amica, non temerai<br>il nemico disperso che spera di rialzarsi,<br>ché, sebbene non possano pungere molto a nuocere,<br>aspettati però che ronzino a offendere le tue orecchie.<br>Prima vedrò l’incoronazione,<br>e poi verso la Bretagna [[Cross\|varcherò]] il mare<br>per effettuare questo [[Marriage\|matrimonio]], se piace al mio signore. |
+| EDOARDO | Sia proprio come tu vuoi, dolce Warwick.<br>Ché sulla tua spalla edifico il mio seggio,<br>e mai intraprenderò cosa<br>in cui manchi il tuo consiglio e consenso.<br>[[Richard\|Riccardo]], ti creerò [[Duke of Gloucester\|duca di Gloucester]],<br>e Giorgio, di [[Clarence]]; Warwick, come noi stessi,<br>farà e disfarà come più gli piace. |
+| [[Richard\|RICCARDO]] | Sia io duca di [[Clarence]], e Giorgio di [[Gloucester]]—<br>ché il ducato di [[Gloucester]] è troppo infausto. |
+| WARWICK | Bah, è una sciocca osservazione—<br>[[Richard\|Riccardo]], sii [[Duke of Gloucester\|duca di Gloucester]]. Ora a [[London\|Londra]]<br>a veder questi onori in possesso. |
 | *(didascalia)* | Escono. La testa di York è rimossa |
 
 
@@ -2283,33 +2283,33 @@ The True [[Tragedy]] of [[Richard]] [[Duke of York]] and the Good [[King]] Henry
 |---|---|
 | *(didascalia)* | Entrano due Guardacaccia, con balestre in mano |
 | PRIMO GUARDACACCIA | Sotto questo folto roveto ci nasconderemo,<br>ché per questa radura tra poco verranno i cervi,<br>e in questo coperto ci apposteremo,<br>scegliendo il migliore di tutti i cervi. |
-| SECONDO GUARDACACCIA | Io starò sopra la [[Hill|collina]], così potremo tirare entrambi. |
-| PRIMO GUARDACACCIA | Non può essere—il rumore della tua balestra<br>spaventerà il branco, e così il mio tiro è perduto.<br>Stiamo qui entrambi, e miriamo al migliore.<br>E, perché il [[Time|tempo]] non paia tedioso,<br>ti racconterò ciò che mi accadde un giorno<br>in questo [[Self|stesso]] luogo dove ora intendiamo appostarci. |
-| PRIMO GUARDACACCIA | Ecco viene un uomo—aspettiamo che sia passato.<br>Si mettono in disparte. Entra [[King|re]] Enrico, travestito, con un libro di [[prayer|preghiere]] |
-| [[King|RE]] ENRICO | Dalla Scozia mi son sottratto, per puro [[Love|amore]],<br>per salutare la mia terra col mio sguardo bramoso.<br>No, Harry, Harry—non è terra tua.<br>Il tuo posto è occupato, lo scettro ti è strappato,<br>lavato via il crisma con cui fosti unto.<br>Nessun ginocchio piegato ti chiamerà Cesare ora,<br>nessun umile postulante s’affolla a chieder giustizia,<br>no, non un uomo viene a cercare da te riparazione—<br>ché come posso aiutar loro e non me stesso? |
-| PRIMO GUARDACACCIA | (al Secondo Guardacaccia)<br>Sì, ecco un cervo la cui pelle è mancia da guardacaccia:<br>questo è l’ex [[King|re]]—mettiamogli le mani addosso. |
-| [[King|RE]] ENRICO | Lascia ch’io t’abbracci, aspra avversità,<br>ché i saggi dicono che è il partito più saggio. |
+| SECONDO GUARDACACCIA | Io starò sopra la [[Hill\|collina]], così potremo tirare entrambi. |
+| PRIMO GUARDACACCIA | Non può essere—il rumore della tua balestra<br>spaventerà il branco, e così il mio tiro è perduto.<br>Stiamo qui entrambi, e miriamo al migliore.<br>E, perché il [[Time\|tempo]] non paia tedioso,<br>ti racconterò ciò che mi accadde un giorno<br>in questo [[Self\|stesso]] luogo dove ora intendiamo appostarci. |
+| PRIMO GUARDACACCIA | Ecco viene un uomo—aspettiamo che sia passato.<br>Si mettono in disparte. Entra [[King\|re]] Enrico, travestito, con un libro di [[prayer\|preghiere]] |
+| [[King\|RE]] ENRICO | Dalla Scozia mi son sottratto, per puro [[Love\|amore]],<br>per salutare la mia terra col mio sguardo bramoso.<br>No, Harry, Harry—non è terra tua.<br>Il tuo posto è occupato, lo scettro ti è strappato,<br>lavato via il crisma con cui fosti unto.<br>Nessun ginocchio piegato ti chiamerà Cesare ora,<br>nessun umile postulante s’affolla a chieder giustizia,<br>no, non un uomo viene a cercare da te riparazione—<br>ché come posso aiutar loro e non me stesso? |
+| PRIMO GUARDACACCIA | (al Secondo Guardacaccia)<br>Sì, ecco un cervo la cui pelle è mancia da guardacaccia:<br>questo è l’ex [[King\|re]]—mettiamogli le mani addosso. |
+| [[King\|RE]] ENRICO | Lascia ch’io t’abbracci, aspra avversità,<br>ché i saggi dicono che è il partito più saggio. |
 | SECONDO GUARDACACCIA | (al Primo Guardacaccia)<br>Perché indugiamo? Mettiamogli le mani addosso. |
 | PRIMO GUARDACACCIA | (al Secondo Guardacaccia)<br>Trattieniti un poco—udiremo ancora un poco. |
-| [[King|RE]] ENRICO | La mia [[Queen|regina]] e mio figlio sono andati in Francia per aiuto,<br>e, a quanto sento, il gran comandante Warwick<br>è andato là a chiedere la sorella del [[King|re]] di Francia<br>in moglie per Edoardo. Se questa nuova è vera,<br>povera [[Queen|regina]] e povero figlio, la vostra fatica è perduta—<br>ché Warwick è oratore sottile,<br>e Luigi un principe presto vinto da parole commoventi.<br>Per questo conto, dunque, Margherita può conquistarlo—<br>ché è donna assai da compatire.<br>I suoi sospiri apriranno una breccia nel suo petto,<br>le sue [[Tears|lacrime]] penetreranno in un cuore di marmo,<br>la tigre sarà mite mentre ella piange,<br>e Nerone sarà macchiato di rimorso<br>a udire e vedere i suoi lamenti, le sue salse [[Tears|lacrime]].<br>Sì, ma ella viene a chiedere; Warwick a dare.<br>Ella alla sua sinistra, implorando aiuto per Enrico;<br>egli alla sua destra, chiedendo una moglie per Edoardo.<br>Ella piange e dice che il suo Enrico è deposto,<br>egli sorride e dice che il suo Edoardo è insediato;<br>cosicché ella, povera infelice, per il dolore non può più parlare,<br>mentre Warwick espone il suo titolo, addolcisce il torto,<br>reca argomenti di gran forza,<br>e in conclusione le sottrae il [[King|re]]<br>con la promessa di sua sorella e di quant’altro<br>rafforzi e sostenga il posto di [[King|re]] Edoardo.<br>O Margherita, così sarà; e tu, povera [[Soul|anima]],<br>sarai allora abbandonata, come partisti desolata. |
+| [[King\|RE]] ENRICO | La mia [[Queen\|regina]] e mio figlio sono andati in Francia per aiuto,<br>e, a quanto sento, il gran comandante Warwick<br>è andato là a chiedere la sorella del [[King\|re]] di Francia<br>in moglie per Edoardo. Se questa nuova è vera,<br>povera [[Queen\|regina]] e povero figlio, la vostra fatica è perduta—<br>ché Warwick è oratore sottile,<br>e Luigi un principe presto vinto da parole commoventi.<br>Per questo conto, dunque, Margherita può conquistarlo—<br>ché è donna assai da compatire.<br>I suoi sospiri apriranno una breccia nel suo petto,<br>le sue [[Tears\|lacrime]] penetreranno in un cuore di marmo,<br>la tigre sarà mite mentre ella piange,<br>e Nerone sarà macchiato di rimorso<br>a udire e vedere i suoi lamenti, le sue salse [[Tears\|lacrime]].<br>Sì, ma ella viene a chiedere; Warwick a dare.<br>Ella alla sua sinistra, implorando aiuto per Enrico;<br>egli alla sua destra, chiedendo una moglie per Edoardo.<br>Ella piange e dice che il suo Enrico è deposto,<br>egli sorride e dice che il suo Edoardo è insediato;<br>cosicché ella, povera infelice, per il dolore non può più parlare,<br>mentre Warwick espone il suo titolo, addolcisce il torto,<br>reca argomenti di gran forza,<br>e in conclusione le sottrae il [[King\|re]]<br>con la promessa di sua sorella e di quant’altro<br>rafforzi e sostenga il posto di [[King\|re]] Edoardo.<br>O Margherita, così sarà; e tu, povera [[Soul\|anima]],<br>sarai allora abbandonata, come partisti desolata. |
 | SECONDO GUARDACACCIA | (facendosi avanti)<br>Di’, chi sei tu che parli di re e di regine? |
-| [[King|RE]] ENRICO | Più di quel che sembro, e meno di quel per cui nacqui:<br>un uomo almeno, ché meno non dovrei essere;<br>e gli uomini possono parlare di re, e perché non io? |
-| SECONDO GUARDACACCIA | Sì, ma parli come se fossi un [[King|re]]. |
-| [[King|RE]] ENRICO | Ebbene, tale sono, nell’animo—e questo basta. |
-| SECONDO GUARDACACCIA | Ma se sei un [[King|re]], dov’è la tua [[Crown|corona]]? |
-| [[King|RE]] ENRICO | La mia [[Crown|corona]] è nel mio cuore, non sul mio capo;<br>non ornata di diamanti e di gemme indiane,<br>né visibile. La mia [[Crown|corona]] si chiama contentezza—<br>una [[Crown|corona]] che raramente i re possiedono. |
-| SECONDO GUARDACACCIA | [[Well|Bene]], se siete un [[King|re]] incoronato di contentezza,<br>la vostra [[Crown|corona]] contentezza e voi dovrete accontentarvi<br>di venire con noi—ché, a quanto crediamo,<br>voi siete il [[King|re]] che [[King|re]] Edoardo ha deposto,<br>e noi suoi sudditi giurati in piena fedeltà<br>vi arresteremo come suo nemico. |
-| [[King|RE]] ENRICO | Ma non avete mai giurato e rotto un giuramento? |
+| [[King\|RE]] ENRICO | Più di quel che sembro, e meno di quel per cui nacqui:<br>un uomo almeno, ché meno non dovrei essere;<br>e gli uomini possono parlare di re, e perché non io? |
+| SECONDO GUARDACACCIA | Sì, ma parli come se fossi un [[King\|re]]. |
+| [[King\|RE]] ENRICO | Ebbene, tale sono, nell’animo—e questo basta. |
+| SECONDO GUARDACACCIA | Ma se sei un [[King\|re]], dov’è la tua [[Crown\|corona]]? |
+| [[King\|RE]] ENRICO | La mia [[Crown\|corona]] è nel mio cuore, non sul mio capo;<br>non ornata di diamanti e di gemme indiane,<br>né visibile. La mia [[Crown\|corona]] si chiama contentezza—<br>una [[Crown\|corona]] che raramente i re possiedono. |
+| SECONDO GUARDACACCIA | [[Well\|Bene]], se siete un [[King\|re]] incoronato di contentezza,<br>la vostra [[Crown\|corona]] contentezza e voi dovrete accontentarvi<br>di venire con noi—ché, a quanto crediamo,<br>voi siete il [[King\|re]] che [[King\|re]] Edoardo ha deposto,<br>e noi suoi sudditi giurati in piena fedeltà<br>vi arresteremo come suo nemico. |
+| [[King\|RE]] ENRICO | Ma non avete mai giurato e rotto un giuramento? |
 | SECONDO GUARDACACCIA | No—mai un tale giuramento, né ora lo faremo. |
-| [[King|RE]] ENRICO | Dove dimoravate quando io ero [[King|re]] d’Inghilterra? |
+| [[King\|RE]] ENRICO | Dove dimoravate quando io ero [[King\|re]] d’Inghilterra? |
 | SECONDO GUARDACACCIA | Qui in questa contrada, dove ora stiamo. |
-| [[King|RE]] ENRICO | Fui unto [[King|re]] a nove mesi,<br>mio padre e mio nonno furono re,<br>e voi eravate giurati miei fedeli sudditi—<br>e dunque ditemi, non avete rotto i vostri giuramenti ? |
-| PRIMO GUARDACACCIA | No, ché fummo sudditi solo mentre voi eravate [[King|re]]. |
-| [[King|RE]] ENRICO | Ebbene, sono morto? Non respiro come un uomo?<br>Ah, uomini semplici, non sapete ciò che giurate.<br>Guardate: soffio via questa piuma dal mio volto,<br>e come l’aria me la risoffia indietro,<br>obbedendo al mio [[Wind|soffio]] quando io soffio,<br>e cedendo a un altro quando quello soffia,<br>comandata sempre dalla raffica più forte—<br>tale è la leggerezza di voi uomini comuni.<br>Ma non rompete i vostri giuramenti, ché di quel peccato<br>la mia mite preghiera non vi renderà colpevoli.<br>Andate dove volete, il [[King|re]] sarà comandato;<br>e siate voi re, comandate, e io obbedirò. |
-| PRIMO GUARDACACCIA | Noi siamo fedeli sudditi del [[King|re]], [[King|re]] Edoardo. |
-| [[King|RE]] ENRICO | E lo sareste di nuovo di Enrico,<br>se egli sedesse come siede [[King|re]] Edoardo. |
-| PRIMO GUARDACACCIA | Vi ordiniamo, nel nome di Dio e in quello del [[King|re]],<br>di venire con noi dagli ufficiali. |
-| [[King|RE]] ENRICO | Nel nome di Dio, guidate; sia obbedito il nome del vostro [[King|re]];<br>e ciò che Dio vuole, che il vostro [[King|re]] lo compia;<br>e a ciò che egli vuole umilmente mi sottometto. Escono |
+| [[King\|RE]] ENRICO | Fui unto [[King\|re]] a nove mesi,<br>mio padre e mio nonno furono re,<br>e voi eravate giurati miei fedeli sudditi—<br>e dunque ditemi, non avete rotto i vostri giuramenti ? |
+| PRIMO GUARDACACCIA | No, ché fummo sudditi solo mentre voi eravate [[King\|re]]. |
+| [[King\|RE]] ENRICO | Ebbene, sono morto? Non respiro come un uomo?<br>Ah, uomini semplici, non sapete ciò che giurate.<br>Guardate: soffio via questa piuma dal mio volto,<br>e come l’aria me la risoffia indietro,<br>obbedendo al mio [[Wind\|soffio]] quando io soffio,<br>e cedendo a un altro quando quello soffia,<br>comandata sempre dalla raffica più forte—<br>tale è la leggerezza di voi uomini comuni.<br>Ma non rompete i vostri giuramenti, ché di quel peccato<br>la mia mite preghiera non vi renderà colpevoli.<br>Andate dove volete, il [[King\|re]] sarà comandato;<br>e siate voi re, comandate, e io obbedirò. |
+| PRIMO GUARDACACCIA | Noi siamo fedeli sudditi del [[King\|re]], [[King\|re]] Edoardo. |
+| [[King\|RE]] ENRICO | E lo sareste di nuovo di Enrico,<br>se egli sedesse come siede [[King\|re]] Edoardo. |
+| PRIMO GUARDACACCIA | Vi ordiniamo, nel nome di Dio e in quello del [[King\|re]],<br>di venire con noi dagli ufficiali. |
+| [[King\|RE]] ENRICO | Nel nome di Dio, guidate; sia obbedito il nome del vostro [[King\|re]];<br>e ciò che Dio vuole, che il vostro [[King\|re]] lo compia;<br>e a ciò che egli vuole umilmente mi sottometto. Escono |
 
 
 
@@ -2411,93 +2411,93 @@ The True [[Tragedy]] of [[Richard]] [[Duke of York]] and the Good [[King]] Henry
 
 | Chi parla | Battuta |
 |---|---|
-| *(didascalia)* | Entrano [[King|re]] Edoardo, [[Richard|Riccardo]] [[Duke of Gloucester|duca di Gloucester]], Giorgio duca di [[Clarence]], e madama Gray |
-| [[King|RE]] EDOARDO | Fratello di [[Gloucester]], sul campo di Saint Albans<br>il marito di questa dama, sir [[Richard|Riccardo]] Gray, fu ucciso,<br>e le sue terre allora confiscate dal vincitore.<br>La sua istanza è ora di riavere quelle terre,<br>che in giustizia non possiamo [[Well|bene]] negare,<br>perché nella contesa della [[house|casa]] di York<br>quel degno gentiluomo perse la vita. |
-| [[Richard|RICCARDO]] DI [[Gloucester|GLOUCESTER]] | Vostra altezza farà [[Well|bene]] a concederle l’istanza—<br>sarebbe disonore negarglielo. |
-| [[King|RE]] EDOARDO | Non sarebbe meno; e tuttavia farò una pausa. |
-| [[Richard|RICCARDO]] DI | [[Gloucester|GLOUCESTER]], (a parte, a Giorgio) Ah, è così?<br>Vedo che la dama ha qualcosa da concedere<br>prima che il [[King|re]] conceda la sua umile istanza. |
-| GIORGIO DI [[Clarence|CLARENCE]] | (a parte, a [[Richard|Riccardo]])<br>Conosce il gioco; come tiene bene il [[Wind|vento]]! |
-| [[Richard|RICCARDO]] DI [[Gloucester|GLOUCESTER]] | (a parte, a Giorgio) [[Silence|Silenzio]]. |
-| [[King|RE]] EDOARDO | (a madama Gray)<br>Vedova, considereremo la vostra istanza;<br>e venite un’altra [[Time|volta]] a conoscere il nostro pensiero. |
+| *(didascalia)* | Entrano [[King\|re]] Edoardo, [[Richard\|Riccardo]] [[Duke of Gloucester\|duca di Gloucester]], Giorgio duca di [[Clarence]], e madama Gray |
+| [[King\|RE]] EDOARDO | Fratello di [[Gloucester]], sul campo di Saint Albans<br>il marito di questa dama, sir [[Richard\|Riccardo]] Gray, fu ucciso,<br>e le sue terre allora confiscate dal vincitore.<br>La sua istanza è ora di riavere quelle terre,<br>che in giustizia non possiamo [[Well\|bene]] negare,<br>perché nella contesa della [[house\|casa]] di York<br>quel degno gentiluomo perse la vita. |
+| [[Richard\|RICCARDO]] DI [[Gloucester\|GLOUCESTER]] | Vostra altezza farà [[Well\|bene]] a concederle l’istanza—<br>sarebbe disonore negarglielo. |
+| [[King\|RE]] EDOARDO | Non sarebbe meno; e tuttavia farò una pausa. |
+| [[Richard\|RICCARDO]] DI | [[Gloucester\|GLOUCESTER]], (a parte, a Giorgio) Ah, è così?<br>Vedo che la dama ha qualcosa da concedere<br>prima che il [[King\|re]] conceda la sua umile istanza. |
+| GIORGIO DI [[Clarence\|CLARENCE]] | (a parte, a [[Richard\|Riccardo]])<br>Conosce il gioco; come tiene bene il [[Wind\|vento]]! |
+| [[Richard\|RICCARDO]] DI [[Gloucester\|GLOUCESTER]] | (a parte, a Giorgio) [[Silence\|Silenzio]]. |
+| [[King\|RE]] EDOARDO | (a madama Gray)<br>Vedova, considereremo la vostra istanza;<br>e venite un’altra [[Time\|volta]] a conoscere il nostro pensiero. |
 | MADAMA GRAY | Graziosissimo signore, non posso tollerare indugio.<br>Piaccia a vostra altezza risolvermi ora,<br>e quale sia il vostro piacere mi contenterà. |
-| [[Richard|RICCARDO]] DI | [[Gloucester|GLOUCESTER]], (a parte, a Giorgio)<br>Ah, vedova ? Allora vi garantisco tutte le vostre terre<br>se ciò che piace a lui piacerà a voi.<br>Battetevi più serrata, o, in buona [[Faith|fede]], prenderete un colpo. |
-| GIORGIO DI [[Clarence|CLARENCE]] | (a parte, a [[Richard|Riccardo]])<br>Non [[Fear|temo]] per lei, a meno che non le càpiti di cadere. |
-| [[Richard|RICCARDO]] DI [[Gloucester|GLOUCESTER]] | (a parte, a Giorgio)<br>Dio non voglia! Ché egli approfitterà del vantaggio. |
-| [[King|RE]] EDOARDO | (a madama Gray)<br>Quanti figli hai, vedova ? Dimmi. |
-| GIORGIO DI [[Clarence|CLARENCE]] | (a parte, a [[Richard|Riccardo]])<br>Credo che intenda chiederle un [[Child|figlio]]. |
-| [[Richard|RICCARDO]] DI [[Gloucester|GLOUCESTER]] | (a parte, a Giorgio)<br>No, mi si frusti allora—piuttosto gliene darà due. |
-| MADAMA GRAY | (a [[King|re]] Edoardo) Tre, mio graziosissimo signore. |
-| [[Richard|RICCARDO]] DI [[Gloucester|GLOUCESTER]] | (a parte)<br>Ne avrete quattro, se vi lascerete guidare da lui. |
-| [[King|RE]] EDOARDO | (a madama Gray)<br>Sarebbe un peccato che perdessero le terre del padre. |
+| [[Richard\|RICCARDO]] DI | [[Gloucester\|GLOUCESTER]], (a parte, a Giorgio)<br>Ah, vedova ? Allora vi garantisco tutte le vostre terre<br>se ciò che piace a lui piacerà a voi.<br>Battetevi più serrata, o, in buona [[Faith\|fede]], prenderete un colpo. |
+| GIORGIO DI [[Clarence\|CLARENCE]] | (a parte, a [[Richard\|Riccardo]])<br>Non [[Fear\|temo]] per lei, a meno che non le càpiti di cadere. |
+| [[Richard\|RICCARDO]] DI [[Gloucester\|GLOUCESTER]] | (a parte, a Giorgio)<br>Dio non voglia! Ché egli approfitterà del vantaggio. |
+| [[King\|RE]] EDOARDO | (a madama Gray)<br>Quanti figli hai, vedova ? Dimmi. |
+| GIORGIO DI [[Clarence\|CLARENCE]] | (a parte, a [[Richard\|Riccardo]])<br>Credo che intenda chiederle un [[Child\|figlio]]. |
+| [[Richard\|RICCARDO]] DI [[Gloucester\|GLOUCESTER]] | (a parte, a Giorgio)<br>No, mi si frusti allora—piuttosto gliene darà due. |
+| MADAMA GRAY | (a [[King\|re]] Edoardo) Tre, mio graziosissimo signore. |
+| [[Richard\|RICCARDO]] DI [[Gloucester\|GLOUCESTER]] | (a parte)<br>Ne avrete quattro, se vi lascerete guidare da lui. |
+| [[King\|RE]] EDOARDO | (a madama Gray)<br>Sarebbe un peccato che perdessero le terre del padre. |
 | MADAMA GRAY | Siate pietoso, temuto signore, e concedetele loro. |
-| [[King|RE]] EDOARDO | (a [[Richard|Riccardo]] e Giorgio)<br>Signori, lasciateci—metterò alla prova l’ingegno di questa vedova. |
-| *(didascalia)* | [[Richard|RICCARDO]] DI [[Gloucester|GLOUCESTER]], a parte, a Giorgio |
-| [[King|RE]] EDOARDO | Sì, buon congedo avete; ché avrete congedo<br>finché la giovinezza prenda congedo e vi lasci alla gruccia.<br>[[Richard|Riccardo]] e Giorgio si mettono in disparte |
-| [[King|RE]] EDOARDO | (a madama Gray)<br>Or dimmi, signora, [[Love|amate]] i vostri figli? |
-| MADAMA GRAY | Sì, tanto caramente quanto [[Love|amo]] me stessa. |
-| [[King|RE]] EDOARDO | E non fareste molto per far loro del bene? |
+| [[King\|RE]] EDOARDO | (a [[Richard\|Riccardo]] e Giorgio)<br>Signori, lasciateci—metterò alla prova l’ingegno di questa vedova. |
+| *(didascalia)* | [[Richard\|RICCARDO]] DI [[Gloucester\|GLOUCESTER]], a parte, a Giorgio |
+| [[King\|RE]] EDOARDO | Sì, buon congedo avete; ché avrete congedo<br>finché la giovinezza prenda congedo e vi lasci alla gruccia.<br>[[Richard\|Riccardo]] e Giorgio si mettono in disparte |
+| [[King\|RE]] EDOARDO | (a madama Gray)<br>Or dimmi, signora, [[Love\|amate]] i vostri figli? |
+| MADAMA GRAY | Sì, tanto caramente quanto [[Love\|amo]] me stessa. |
+| [[King\|RE]] EDOARDO | E non fareste molto per far loro del bene? |
 | MADAMA GRAY | Per far loro del bene sopporterei qualche male. |
-| [[King|RE]] EDOARDO | Allora ottenete le terre di vostro marito, per far loro del bene. |
+| [[King\|RE]] EDOARDO | Allora ottenete le terre di vostro marito, per far loro del bene. |
 | MADAMA GRAY | Per questo venni a vostra maestà. |
-| [[King|RE]] EDOARDO | Vi dirò come si possono ottenere queste terre. |
+| [[King\|RE]] EDOARDO | Vi dirò come si possono ottenere queste terre. |
 | MADAMA GRAY | Così mi legherete al servizio di vostra altezza. |
-| [[King|RE]] EDOARDO | Che servizio mi farai, se le concedo? |
+| [[King\|RE]] EDOARDO | Che servizio mi farai, se le concedo? |
 | MADAMA GRAY | Ciò che comandate, e che sia in mio potere fare. |
-| [[King|RE]] EDOARDO | Ma farai obiezioni al mio favore. |
+| [[King\|RE]] EDOARDO | Ma farai obiezioni al mio favore. |
 | MADAMA GRAY | No, grazioso signore, se non che non posso farlo. |
-| [[King|RE]] EDOARDO | Sì, ma puoi fare ciò che intendo chiedere. |
+| [[King\|RE]] EDOARDO | Sì, ma puoi fare ciò che intendo chiedere. |
 | MADAMA GRAY | Ebbene, allora farò ciò che vostra grazia comanda. |
-| [[Richard|RICCARDO]] DI [[Gloucester|GLOUCESTER]] | (a Giorgio)<br>La incalza duramente, e molta pioggia consuma il marmo. |
-| GIORGIO DI [[Clarence|CLARENCE]] | Rossa come il [[Fire|fuoco]]! Ebbene, allora la sua cera deve fondersi. |
-| MADAMA GRAY | (a [[King|re]] Edoardo)<br>Perché s’arresta il mio signore? Non udrò il mio compito? |
-| [[King|RE]] EDOARDO | Un compito facile—non è che [[Love|amare]] un [[King|re]]. |
+| [[Richard\|RICCARDO]] DI [[Gloucester\|GLOUCESTER]] | (a Giorgio)<br>La incalza duramente, e molta pioggia consuma il marmo. |
+| GIORGIO DI [[Clarence\|CLARENCE]] | Rossa come il [[Fire\|fuoco]]! Ebbene, allora la sua cera deve fondersi. |
+| MADAMA GRAY | (a [[King\|re]] Edoardo)<br>Perché s’arresta il mio signore? Non udrò il mio compito? |
+| [[King\|RE]] EDOARDO | Un compito facile—non è che [[Love\|amare]] un [[King\|re]]. |
 | MADAMA GRAY | È presto compiuto, perché sono una suddita. |
-| [[King|RE]] EDOARDO | Ebbene, allora le terre di tuo marito liberamente ti dono. 55 |
+| [[King\|RE]] EDOARDO | Ebbene, allora le terre di tuo marito liberamente ti dono. 55 |
 | MADAMA GRAY | (fa una riverenza)<br>Prendo congedo, con molte migliaia di grazie. |
-| [[Richard|RICCARDO]] DI [[Gloucester|GLOUCESTER]] | (a Giorgio)<br>L’accordo è fatto—lo sigilla con una riverenza. |
-| [[King|RE]] EDOARDO | (a madama Gray)<br>Ma férmati—intendo i frutti dell’[[Love|amore]]. |
-| MADAMA GRAY | I frutti dell’[[Love|amore]] intendo anch’io, mio amorevole sire. |
-| [[King|RE]] EDOARDO | Sì, ma [[Fear|temo]] in altro senso.<br>Quale [[Love|amore]] credi ch’io tanto solleciti d’ottenere? |
-| MADAMA GRAY | Il mio [[Love|amore]] fino alla [[Death|morte]], i miei umili ringraziamenti, le mie preghiere—<br>quell’[[Love|amore]] che la virtù chiede e la virtù concede. |
-| [[King|RE]] EDOARDO | No, in fede mia, non intendevo tale [[Love|amore]]. |
+| [[Richard\|RICCARDO]] DI [[Gloucester\|GLOUCESTER]] | (a Giorgio)<br>L’accordo è fatto—lo sigilla con una riverenza. |
+| [[King\|RE]] EDOARDO | (a madama Gray)<br>Ma férmati—intendo i frutti dell’[[Love\|amore]]. |
+| MADAMA GRAY | I frutti dell’[[Love\|amore]] intendo anch’io, mio amorevole sire. |
+| [[King\|RE]] EDOARDO | Sì, ma [[Fear\|temo]] in altro senso.<br>Quale [[Love\|amore]] credi ch’io tanto solleciti d’ottenere? |
+| MADAMA GRAY | Il mio [[Love\|amore]] fino alla [[Death\|morte]], i miei umili ringraziamenti, le mie preghiere—<br>quell’[[Love\|amore]] che la virtù chiede e la virtù concede. |
+| [[King\|RE]] EDOARDO | No, in fede mia, non intendevo tale [[Love\|amore]]. |
 | MADAMA GRAY | Ebbene, allora non intendete ciò che credevo. |
-| [[King|RE]] EDOARDO | Ma ora in parte potete scorgere il mio pensiero. |
+| [[King\|RE]] EDOARDO | Ma ora in parte potete scorgere il mio pensiero. |
 | MADAMA GRAY | Il mio animo mai concederà ciò a cui scorgo<br>che vostra altezza mira, se miro giusto. |
-| [[King|RE]] EDOARDO | Per dirtelo chiaro, miro a giacere con te. |
-| MADAMA GRAY | Per dirvelo chiaro, preferirei giacere in [[Prison|prigione]]. 70 |
-| [[King|RE]] EDOARDO | Ebbene, allora non avrai le terre di tuo marito. |
+| [[King\|RE]] EDOARDO | Per dirtelo chiaro, miro a giacere con te. |
+| MADAMA GRAY | Per dirvelo chiaro, preferirei giacere in [[Prison\|prigione]]. 70 |
+| [[King\|RE]] EDOARDO | Ebbene, allora non avrai le terre di tuo marito. |
 | MADAMA GRAY | Ebbene, allora la mia onestà sarà la mia dote;<br>ché con quella perdita non le comprerò. |
-| [[King|RE]] EDOARDO | In questo fai grave torto ai tuoi figli. |
+| [[King\|RE]] EDOARDO | In questo fai grave torto ai tuoi figli. |
 | MADAMA GRAY | In questo vostra altezza fa torto a loro e a me.<br>Ma, potente signore, questa allegra inclinazione<br>non s’accorda con la tristezza della mia istanza.<br>Piacciavi licenziarmi con un sì o con un no. |
-| [[King|RE]] EDOARDO | Sì, se dirai ‘sì’ alla mia richiesta;<br>no, se dici ‘no’ alla mia domanda. |
+| [[King\|RE]] EDOARDO | Sì, se dirai ‘sì’ alla mia richiesta;<br>no, se dici ‘no’ alla mia domanda. |
 | MADAMA GRAY | Allora, no, mio signore—la mia istanza è conclusa. |
-| [[Richard|RICCARDO]] DI [[Gloucester|GLOUCESTER]] | (a Giorgio)<br>La vedova non lo gradisce—aggrotta le ciglia. |
-| GIORGIO DI [[Clarence|CLARENCE]] | È il corteggiatore più brusco della cristianità. |
-| [[King|RE]] EDOARDO | (a parte)<br>Il suo aspetto la dimostra piena di modestia;<br>le sue parole mostrano il suo ingegno incomparabile;<br>tutte le sue perfezioni reclamano sovranità.<br>In un modo o nell’altro, ella è fatta per un [[King|re]];<br>e sarà il mio [[Love|amore]] o altrimenti la mia [[Queen|regina]].<br>(A madama Gray) Poniamo che [[King|re]] Edoardo ti prenda per sua<br>[[Queen|regina]]? |
+| [[Richard\|RICCARDO]] DI [[Gloucester\|GLOUCESTER]] | (a Giorgio)<br>La vedova non lo gradisce—aggrotta le ciglia. |
+| GIORGIO DI [[Clarence\|CLARENCE]] | È il corteggiatore più brusco della cristianità. |
+| [[King\|RE]] EDOARDO | (a parte)<br>Il suo aspetto la dimostra piena di modestia;<br>le sue parole mostrano il suo ingegno incomparabile;<br>tutte le sue perfezioni reclamano sovranità.<br>In un modo o nell’altro, ella è fatta per un [[King\|re]];<br>e sarà il mio [[Love\|amore]] o altrimenti la mia [[Queen\|regina]].<br>(A madama Gray) Poniamo che [[King\|re]] Edoardo ti prenda per sua<br>[[Queen\|regina]]? |
 | MADAMA GRAY | È più facile a dirsi che a farsi, mio grazioso signore.<br>Sono una suddita buona per scherzarvi,<br>ma del tutto inadatta a essere sovrana. |
-| [[King|RE]] EDOARDO | Dolce vedova, per il mio stato ti giuro<br>che non dico più di quanto la mia [[Soul|anima]] intende,<br>e ciò è di goderti come mio [[Love|amore]]. |
-| MADAMA GRAY | E ciò è più di quanto io concederò.<br>So che sono troppo umile per essere vostra [[Queen|regina]],<br>e tuttavia troppo buona per essere vostra concubina. |
-| [[King|RE]] EDOARDO | Cavillate, vedova—intendevo mia [[Queen|regina]]. |
+| [[King\|RE]] EDOARDO | Dolce vedova, per il mio stato ti giuro<br>che non dico più di quanto la mia [[Soul\|anima]] intende,<br>e ciò è di goderti come mio [[Love\|amore]]. |
+| MADAMA GRAY | E ciò è più di quanto io concederò.<br>So che sono troppo umile per essere vostra [[Queen\|regina]],<br>e tuttavia troppo buona per essere vostra concubina. |
+| [[King\|RE]] EDOARDO | Cavillate, vedova—intendevo mia [[Queen\|regina]]. |
 | MADAMA GRAY | Dolerà a vostra grazia che i miei figli vi chiamino padre. |
-| [[King|RE]] EDOARDO | Non più di quando le mie figlie ti chiameranno madre.<br>Tu sei vedova e hai qualche figlio;<br>e, per la madre di Dio, io, che pur sono celibe,<br>ne ho qualche altro. Ebbene, è cosa felice<br>essere padre di molti figli.<br>Non rispondere più, ché sarai la mia [[Queen|regina]]. |
-| [[Richard|RICCARDO]] DI [[Gloucester|GLOUCESTER]] | (a Giorgio)<br>Il padre spirituale ha ora finito la sua confessione. |
-| GIORGIO DI [[Clarence|CLARENCE]] | Quando fu fatto confessore, fu per espediente. |
-| [[King|RE]] EDOARDO | (a [[Richard|Riccardo]] e Giorgio)<br>Fratelli, vi chiedete che colloquio abbiamo avuto noi due. [[Richard|Riccardo]] e Giorgio si fanno avanti |
-| [[Richard|RICCARDO]] DI [[Gloucester|GLOUCESTER]] | Alla vedova non piace, ché appare molto triste. |
-| [[King|RE]] EDOARDO | Vi parrebbe strano se io la sposassi. |
-| GIORGIO DI [[Clarence|CLARENCE]] | A chi, mio signore ? |
-| [[King|RE]] EDOARDO | Ebbene, [[Clarence]], a me stesso. |
-| [[Richard|RICCARDO]] DI [[Gloucester|GLOUCESTER]] | Sarebbe [[Wonder|meraviglia]] di dieci giorni almeno. |
-| GIORGIO DI [[Clarence|CLARENCE]] | È un giorno più di quanto duri una [[Wonder|meraviglia]]. |
-| [[Richard|RICCARDO]] DI [[Gloucester|GLOUCESTER]] | Di tanto la [[Wonder|meraviglia]] è fuor di misura. |
-| [[King|RE]] EDOARDO | [[Well|Bene]], scherzate, fratelli—posso dirvi a entrambi<br>che la sua istanza per le terre del marito è concessa. |
+| [[King\|RE]] EDOARDO | Non più di quando le mie figlie ti chiameranno madre.<br>Tu sei vedova e hai qualche figlio;<br>e, per la madre di Dio, io, che pur sono celibe,<br>ne ho qualche altro. Ebbene, è cosa felice<br>essere padre di molti figli.<br>Non rispondere più, ché sarai la mia [[Queen\|regina]]. |
+| [[Richard\|RICCARDO]] DI [[Gloucester\|GLOUCESTER]] | (a Giorgio)<br>Il padre spirituale ha ora finito la sua confessione. |
+| GIORGIO DI [[Clarence\|CLARENCE]] | Quando fu fatto confessore, fu per espediente. |
+| [[King\|RE]] EDOARDO | (a [[Richard\|Riccardo]] e Giorgio)<br>Fratelli, vi chiedete che colloquio abbiamo avuto noi due. [[Richard\|Riccardo]] e Giorgio si fanno avanti |
+| [[Richard\|RICCARDO]] DI [[Gloucester\|GLOUCESTER]] | Alla vedova non piace, ché appare molto triste. |
+| [[King\|RE]] EDOARDO | Vi parrebbe strano se io la sposassi. |
+| GIORGIO DI [[Clarence\|CLARENCE]] | A chi, mio signore ? |
+| [[King\|RE]] EDOARDO | Ebbene, [[Clarence]], a me stesso. |
+| [[Richard\|RICCARDO]] DI [[Gloucester\|GLOUCESTER]] | Sarebbe [[Wonder\|meraviglia]] di dieci giorni almeno. |
+| GIORGIO DI [[Clarence\|CLARENCE]] | È un giorno più di quanto duri una [[Wonder\|meraviglia]]. |
+| [[Richard\|RICCARDO]] DI [[Gloucester\|GLOUCESTER]] | Di tanto la [[Wonder\|meraviglia]] è fuor di misura. |
+| [[King\|RE]] EDOARDO | [[Well\|Bene]], scherzate, fratelli—posso dirvi a entrambi<br>che la sua istanza per le terre del marito è concessa. |
 | *(didascalia)* | Entra un Gentiluomo |
 | GENTILUOMO | Mio grazioso signore, Enrico vostro nemico è preso<br>e condotto come prigioniero alla porta del vostro palazzo. |
-| [[King|RE]] EDOARDO | Fate ch’egli sia condotto alla Torre—<br>(A [[Richard|Riccardo]] e Giorgio)<br><br>e andiamo, fratelli, dall’uomo che l’ha preso,<br>a interrogarlo della sua cattura. |
-| *(didascalia)* | (A madama Gray) Vedova, venite anche voi. A [[Richard|Riccardo]] e |
+| [[King\|RE]] EDOARDO | Fate ch’egli sia condotto alla Torre—<br>(A [[Richard\|Riccardo]] e Giorgio)<br><br>e andiamo, fratelli, dall’uomo che l’ha preso,<br>a interrogarlo della sua cattura. |
+| *(didascalia)* | (A madama Gray) Vedova, venite anche voi. A [[Richard\|Riccardo]] e |
 | *(didascalia)* | Giorgio Signori, trattatela onorevolmente. |
-| *(didascalia)* | Escono tutti tranne [[Richard|Riccardo]] |
-| [[Richard|RICCARDO]] DI GLOUCEST’ER | Sì, Edoardo tratterà le donne onorevolmente.<br>Fosse consunto, midollo, ossa e tutto,<br>sì che dai suoi lombi nessun ramo promettente possa [[Spring|germogliare]]<br>a [[Cross|sbarrarmi]] il [[Time|tempo]] dorato che attendo.<br>E tuttavia, fra il [[Desire|desiderio]] della mia [[Soul|anima]] e me—<br>sepolto il titolo del lussurioso Edoardo—<br>stanno [[Clarence]], Enrico e suo figlio il giovane Edoardo,<br>e tutta l’imprevista prole dei loro corpi,<br>a prendere i loro posti prima ch’io possa collocarmi.<br>Freddo pensiero per il mio proposito.<br>Ebbene, allora io non fo che sognare la sovranità<br>come chi sta su un promontorio<br>e scorge una riva lontana dove vorrebbe posare il piede,<br>desiderando che il suo piede pareggiasse il suo occhio,<br>e rimprovera il mare che di là lo separa,<br>dicendo che lo prosciugherà per farsi strada—<br>così io desidero la [[Crown|corona]] essendo tanto lontana,<br>e così rimprovero i mezzi che me ne tengono lontano,<br>e così dico che taglierò via gli ostacoli,<br>lusingandomi con impossibilità.<br>Il mio occhio è troppo rapido, il mio cuore presume troppo,<br>se la mia mano e la mia forza non possono pareggiarli.<br>[[Well|Bene]], poniamo che non vi sia regno dunque per [[Richard|Riccardo]]—<br>quale altro piacere può offrire il mondo?<br>Farò il mio cielo nel grembo d’una dama,<br>e ornerò il mio [[Body|corpo]] di gai ornamenti,<br>e [[Witch|stregherò]] dolci dame con le mie parole e i miei sguardi.<br>Oh, pensiero miserabile! E più improbabile<br>che conquistare venti corone d’oro.<br>Ché l’[[Love|amore]] mi ripudiò nel ventre di mia madre,<br>e, perché io non trattassi nelle sue tenere leggi,<br>corruppe con qualche mancia la fragile [[Nature|natura]]<br>perché mi rattrappisse il braccio come arbusto secco,<br>perché mi facesse un monte invidioso sulla schiena—<br>dove siede la deformità a schernire il mio [[Body|corpo]]—<br>perché mi foggiasse le gambe di misura disuguale,<br>perché mi sproporzionasse in ogni parte,<br>simile a un caos, o a un cucciolo d’orso non ancora leccato<br>che non porta impronta alcuna della madre.<br>E sono io dunque uomo da essere amato?<br>Oh, colpa mostruosa, nutrire un tale pensiero!<br>Dunque, poiché questa terra non m’offre gioia<br>se non comandare, frenare, soverchiare quelli<br>che sono di persona migliore di me,<br>farò il mio cielo del sognare la [[Crown|corona]],<br>e, mentre vivo, del tenere questo mondo per inferno,<br>finché il mio tronco deforme che porta questa testa<br>non sia cinto tutt’intorno d’una gloriosa [[Crown|corona]].<br>E tuttavia non so come ottenere la [[Crown|corona]],<br>ché molte vite stanno fra me e la [[Home|meta]].<br>E io—come chi si perde in un bosco di spine,<br>che lacera le spine ed è lacerato dalle spine,<br>cercando una via e smarrendo la via,<br>non sapendo come trovare l’aria aperta,<br>ma affannandosi disperatamente a scoprirla—<br>mi tormento per afferrare la [[Crown|corona]] d’Inghilterra.<br>E da quel tormento mi libererò,<br>o m’aprirò la via con una scure sanguinosa.<br>Ebbene, io so sorridere, e assassinare mentre sorrido,<br>e gridare ‘Contento!’ a ciò che m’affligge il cuore,<br>e bagnarmi le guance di [[Tears|lacrime]] artificiali,<br>e comporre il mio volto a ogni occasione.<br>Annegherò più marinai di quanti ne annegherà la [[Mermaid|sirena]];<br>ucciderò più spettatori del basilisco;<br>farò l’oratore tanto [[Well|bene]] quanto Nestore,<br>ingannerò più astutamente di quanto potesse [[Ulysses|Ulisse]],<br>e, come un Sinone, prenderò un’altra Troia.<br>Posso aggiungere colori al camaleonte,<br>mutar forme con [[Proteus|Proteo]] per averne vantaggio,<br>e mandare a scuola il micidiale Machiavelli.<br>Posso far questo, e non ottenere una [[Crown|corona]]?<br>Bah, fosse più lontana, la strapperò giù. Esce |
+| *(didascalia)* | Escono tutti tranne [[Richard\|Riccardo]] |
+| [[Richard\|RICCARDO]] DI GLOUCEST’ER | Sì, Edoardo tratterà le donne onorevolmente.<br>Fosse consunto, midollo, ossa e tutto,<br>sì che dai suoi lombi nessun ramo promettente possa [[Spring\|germogliare]]<br>a [[Cross\|sbarrarmi]] il [[Time\|tempo]] dorato che attendo.<br>E tuttavia, fra il [[Desire\|desiderio]] della mia [[Soul\|anima]] e me—<br>sepolto il titolo del lussurioso Edoardo—<br>stanno [[Clarence]], Enrico e suo figlio il giovane Edoardo,<br>e tutta l’imprevista prole dei loro corpi,<br>a prendere i loro posti prima ch’io possa collocarmi.<br>Freddo pensiero per il mio proposito.<br>Ebbene, allora io non fo che sognare la sovranità<br>come chi sta su un promontorio<br>e scorge una riva lontana dove vorrebbe posare il piede,<br>desiderando che il suo piede pareggiasse il suo occhio,<br>e rimprovera il mare che di là lo separa,<br>dicendo che lo prosciugherà per farsi strada—<br>così io desidero la [[Crown\|corona]] essendo tanto lontana,<br>e così rimprovero i mezzi che me ne tengono lontano,<br>e così dico che taglierò via gli ostacoli,<br>lusingandomi con impossibilità.<br>Il mio occhio è troppo rapido, il mio cuore presume troppo,<br>se la mia mano e la mia forza non possono pareggiarli.<br>[[Well\|Bene]], poniamo che non vi sia regno dunque per [[Richard\|Riccardo]]—<br>quale altro piacere può offrire il mondo?<br>Farò il mio cielo nel grembo d’una dama,<br>e ornerò il mio [[Body\|corpo]] di gai ornamenti,<br>e [[Witch\|stregherò]] dolci dame con le mie parole e i miei sguardi.<br>Oh, pensiero miserabile! E più improbabile<br>che conquistare venti corone d’oro.<br>Ché l’[[Love\|amore]] mi ripudiò nel ventre di mia madre,<br>e, perché io non trattassi nelle sue tenere leggi,<br>corruppe con qualche mancia la fragile [[Nature\|natura]]<br>perché mi rattrappisse il braccio come arbusto secco,<br>perché mi facesse un monte invidioso sulla schiena—<br>dove siede la deformità a schernire il mio [[Body\|corpo]]—<br>perché mi foggiasse le gambe di misura disuguale,<br>perché mi sproporzionasse in ogni parte,<br>simile a un caos, o a un cucciolo d’orso non ancora leccato<br>che non porta impronta alcuna della madre.<br>E sono io dunque uomo da essere amato?<br>Oh, colpa mostruosa, nutrire un tale pensiero!<br>Dunque, poiché questa terra non m’offre gioia<br>se non comandare, frenare, soverchiare quelli<br>che sono di persona migliore di me,<br>farò il mio cielo del sognare la [[Crown\|corona]],<br>e, mentre vivo, del tenere questo mondo per inferno,<br>finché il mio tronco deforme che porta questa testa<br>non sia cinto tutt’intorno d’una gloriosa [[Crown\|corona]].<br>E tuttavia non so come ottenere la [[Crown\|corona]],<br>ché molte vite stanno fra me e la [[Home\|meta]].<br>E io—come chi si perde in un bosco di spine,<br>che lacera le spine ed è lacerato dalle spine,<br>cercando una via e smarrendo la via,<br>non sapendo come trovare l’aria aperta,<br>ma affannandosi disperatamente a scoprirla—<br>mi tormento per afferrare la [[Crown\|corona]] d’Inghilterra.<br>E da quel tormento mi libererò,<br>o m’aprirò la via con una scure sanguinosa.<br>Ebbene, io so sorridere, e assassinare mentre sorrido,<br>e gridare ‘Contento!’ a ciò che m’affligge il cuore,<br>e bagnarmi le guance di [[Tears\|lacrime]] artificiali,<br>e comporre il mio volto a ogni occasione.<br>Annegherò più marinai di quanti ne annegherà la [[Mermaid\|sirena]];<br>ucciderò più spettatori del basilisco;<br>farò l’oratore tanto [[Well\|bene]] quanto Nestore,<br>ingannerò più astutamente di quanto potesse [[Ulysses\|Ulisse]],<br>e, come un Sinone, prenderò un’altra Troia.<br>Posso aggiungere colori al camaleonte,<br>mutar forme con [[Proteus\|Proteo]] per averne vantaggio,<br>e mandare a scuola il micidiale Machiavelli.<br>Posso far questo, e non ottenere una [[Crown\|corona]]?<br>Bah, fosse più lontana, la strapperò giù. Esce |
 
 
 
@@ -2591,85 +2591,85 @@ The True [[Tragedy]] of [[Richard]] [[Duke of York]] and the Good [[King]] Henry
 
 | Chi parla | Battuta |
 |---|---|
-| *(didascalia)* | Due troni. Squilli. Entrano [[King|re]] Luigi di Francia, sua sorella madama Bona, lord Borbone suo ammiraglio, il principe Edoardo, [[Queen Margaret|la regina Margherita]], e il conte di [[Oxford]]. Luigi sale sul trono, siede, e si rialza |
-| [[King|RE]] LUIGI | Bella [[Queen|regina]] d’Inghilterra, degna Margherita,<br>sedete con noi. Mal si addice al tuo stato<br>e alla tua nascita che tu stia in piedi mentre Luigi<br>siede. |
-| [[Queen Margaret|REGINA MARGHERITA]] | No, potente [[King of France|re di Francia]], ora Margherita<br>deve ammainare la vela e imparare un poco a servire<br>dove i re comandano. Fui, devo confessarlo,<br>[[Queen|regina]] della grande Albione nei passati giorni d’oro,<br>ma ora la sventura ha calpestato il mio titolo,<br>e con disonore m’ha stesa al suolo,<br>dove devo prendere seggio pari alla mia fortuna<br>e conformarmi al mio umile stato. |
-| [[King|RE]] LUIGI | Ebbene, dite, bella [[Queen|regina]], d’onde nasce questa profonda [[Despair|disperazione]] ? |
-| [[Queen Margaret|REGINA MARGHERITA]] | Da tal causa che mi colma gli occhi di [[Tears|lacrime]]<br>e mi ferma la lingua, mentre il cuore è annegato negli affanni. |
-| [[King|RE]] LUIGI | Qualunque sia, sii ancora pari a te stessa,<br>e siedi al nostro fianco.<br>La fa sedere accanto a sé<br>Non piegare il collo<br>al giogo della fortuna, ma il tuo animo indomito<br>cavalchi sempre in trionfo sopra ogni sventura.<br>Sii chiara, [[Queen Margaret|regina Margherita]], e di’ il tuo dolore.<br>Sarà alleviato se la Francia può recare soccorso. |
-| [[Queen Margaret|REGINA MARGHERITA]] | Quelle parole graziose rianimano i miei pensieri avviliti,<br>e danno licenza di parlare ai miei dolori muti.<br>Ora, dunque, sia noto al nobile Luigi<br>che Enrico, solo possessore del mio [[Love|amore]],<br>da [[King|re]] è divenuto un bandito,<br>e costretto a vivere in Scozia derelitto,<br>mentre il superbo ambizioso Edoardo, [[Duke of York|duca di York]],<br>usurpa il titolo regale e il seggio<br>del vero unto e legittimo [[King|re]] d’Inghilterra.<br>Questa è la causa per cui io, povera Margherita,<br>con questo mio figlio, il principe Edoardo, erede di Enrico,<br>son venuta a implorare il tuo giusto e legittimo aiuto.<br>E se ci manchi, ogni nostra [[Hope|speranza]] è finita.<br>La Scozia ha volontà d’aiutare, ma non può;<br>il nostro popolo e i nostri pari sono entrambi traviati,<br>il nostro tesoro confiscato, i nostri soldati messi in fuga,<br>e, come vedi, noi stessi in grave stretta. |
-| [[King|RE]] LUIGI | Illustre [[Queen|regina]], con pazienza calmate la [[Storm|tempesta]],<br>mentre noi pensiamo a un modo di troncarla. |
-| [[Queen Margaret|REGINA MARGHERITA]] | Più indugiamo, più forte cresce il nostro nemico. |
-| [[King|RE]] LUIGI | Più indugio, più ti soccorrerò. |
-| [[Queen Margaret|REGINA MARGHERITA]] | Oh, ma l’impazienza è ancella del vero dolore. |
-| *(didascalia)* | Entra il [[Earl of Warwick|conte di Warwick]] |
-| [[Queen Margaret|REGINA MARGHERITA]] | E guardate dove viene il generatore del mio dolore. |
-| [[King|RE]] LUIGI | Chi è colui che s’avvicina audace alla nostra presenza? |
-| [[Queen Margaret|REGINA MARGHERITA]] | Il nostro [[Earl of Warwick|conte di Warwick]], il maggior amico d’Edoardo. |
-| [[King|RE]] LUIGI | Benvenuto, bravo Warwick. Che ti conduce in Francia ?<br>Egli scende. Ella si alza |
-| [[Queen Margaret|REGINA MARGHERITA]] | (a parte)<br>Sì, ora comincia a sorgere una seconda [[Storm|tempesta]],<br>ché questi è colui che muove [[Wind|vento]] e marea. |
-| WARWICK | (a [[King|re]] Luigi)<br>Da parte del degno Edoardo, [[King|re]] d’Albione,<br>mio signore e sovrano, e tuo amico giurato,<br>vengo con benevolenza e non finto [[Love|amore]],<br>primo, a porgere saluti alla tua regale persona,<br>e poi, a chiedere una lega d’amicizia,<br>e infine, a confermare quell’amicizia<br>con nodo nuziale, se ti degni di concedere<br>quella virtuosa madama Bona, tua bella sorella,<br>al [[King|re]] d’Inghilterra in legittimo [[Marriage|matrimonio]]. |
-| [[Queen Margaret|REGINA MARGHERITA]] | (a parte)<br>Se ciò procede, la [[Hope|speranza]] di Enrico è finita. |
-| WARWICK | (a madama Bona)<br>E, graziosa signora, in nome del nostro [[King|re]]<br>mi è comandato, col vostro permesso e favore,<br>di baciare umilmente la vostra mano, e con la mia lingua<br>di dire la passione del cuore del mio sovrano,<br>dove la fama, entrata non da molto nelle sue attente orecchie,<br>ha posto l’immagine della vostra [[Beauty|bellezza]] e la vostra virtù. |
-| [[Queen Margaret|REGINA MARGHERITA]] | [[King|Re]] Luigi e madama Bona, ascoltatemi parlare<br>prima di rispondere a Warwick. La sua domanda<br>non nasce da un [[Love|amore]] onesto e [[Well|ben]] intenzionato d’Edoardo,<br>ma da inganno, generato dalla necessità.<br>Ché come possono i tiranni governare sicuri in [[Home|patria]]<br>se non si comprano fuori grandi alleanze ?<br>A provarlo [[Tyrant|tiranno]] può bastare questa ragione—<br>che Enrico vive ancora; e fosse pur morto,<br>qui sta il principe Edoardo, figlio di [[King|re]] Enrico.<br>Bada dunque, Luigi, che con questa lega e questo<br>[[Marriage|matrimonio]]<br>tu non tiri su di te pericolo e disonore,<br>ché, sebbene gli usurpatori reggano il potere per un tempo,<br>i cieli però sono giusti e il [[Time|tempo]] soffoca i torti. |
+| *(didascalia)* | Due troni. Squilli. Entrano [[King\|re]] Luigi di Francia, sua sorella madama Bona, lord Borbone suo ammiraglio, il principe Edoardo, [[Queen Margaret\|la regina Margherita]], e il conte di [[Oxford]]. Luigi sale sul trono, siede, e si rialza |
+| [[King\|RE]] LUIGI | Bella [[Queen\|regina]] d’Inghilterra, degna Margherita,<br>sedete con noi. Mal si addice al tuo stato<br>e alla tua nascita che tu stia in piedi mentre Luigi<br>siede. |
+| [[Queen Margaret\|REGINA MARGHERITA]] | No, potente [[King of France\|re di Francia]], ora Margherita<br>deve ammainare la vela e imparare un poco a servire<br>dove i re comandano. Fui, devo confessarlo,<br>[[Queen\|regina]] della grande Albione nei passati giorni d’oro,<br>ma ora la sventura ha calpestato il mio titolo,<br>e con disonore m’ha stesa al suolo,<br>dove devo prendere seggio pari alla mia fortuna<br>e conformarmi al mio umile stato. |
+| [[King\|RE]] LUIGI | Ebbene, dite, bella [[Queen\|regina]], d’onde nasce questa profonda [[Despair\|disperazione]] ? |
+| [[Queen Margaret\|REGINA MARGHERITA]] | Da tal causa che mi colma gli occhi di [[Tears\|lacrime]]<br>e mi ferma la lingua, mentre il cuore è annegato negli affanni. |
+| [[King\|RE]] LUIGI | Qualunque sia, sii ancora pari a te stessa,<br>e siedi al nostro fianco.<br>La fa sedere accanto a sé<br>Non piegare il collo<br>al giogo della fortuna, ma il tuo animo indomito<br>cavalchi sempre in trionfo sopra ogni sventura.<br>Sii chiara, [[Queen Margaret\|regina Margherita]], e di’ il tuo dolore.<br>Sarà alleviato se la Francia può recare soccorso. |
+| [[Queen Margaret\|REGINA MARGHERITA]] | Quelle parole graziose rianimano i miei pensieri avviliti,<br>e danno licenza di parlare ai miei dolori muti.<br>Ora, dunque, sia noto al nobile Luigi<br>che Enrico, solo possessore del mio [[Love\|amore]],<br>da [[King\|re]] è divenuto un bandito,<br>e costretto a vivere in Scozia derelitto,<br>mentre il superbo ambizioso Edoardo, [[Duke of York\|duca di York]],<br>usurpa il titolo regale e il seggio<br>del vero unto e legittimo [[King\|re]] d’Inghilterra.<br>Questa è la causa per cui io, povera Margherita,<br>con questo mio figlio, il principe Edoardo, erede di Enrico,<br>son venuta a implorare il tuo giusto e legittimo aiuto.<br>E se ci manchi, ogni nostra [[Hope\|speranza]] è finita.<br>La Scozia ha volontà d’aiutare, ma non può;<br>il nostro popolo e i nostri pari sono entrambi traviati,<br>il nostro tesoro confiscato, i nostri soldati messi in fuga,<br>e, come vedi, noi stessi in grave stretta. |
+| [[King\|RE]] LUIGI | Illustre [[Queen\|regina]], con pazienza calmate la [[Storm\|tempesta]],<br>mentre noi pensiamo a un modo di troncarla. |
+| [[Queen Margaret\|REGINA MARGHERITA]] | Più indugiamo, più forte cresce il nostro nemico. |
+| [[King\|RE]] LUIGI | Più indugio, più ti soccorrerò. |
+| [[Queen Margaret\|REGINA MARGHERITA]] | Oh, ma l’impazienza è ancella del vero dolore. |
+| *(didascalia)* | Entra il [[Earl of Warwick\|conte di Warwick]] |
+| [[Queen Margaret\|REGINA MARGHERITA]] | E guardate dove viene il generatore del mio dolore. |
+| [[King\|RE]] LUIGI | Chi è colui che s’avvicina audace alla nostra presenza? |
+| [[Queen Margaret\|REGINA MARGHERITA]] | Il nostro [[Earl of Warwick\|conte di Warwick]], il maggior amico d’Edoardo. |
+| [[King\|RE]] LUIGI | Benvenuto, bravo Warwick. Che ti conduce in Francia ?<br>Egli scende. Ella si alza |
+| [[Queen Margaret\|REGINA MARGHERITA]] | (a parte)<br>Sì, ora comincia a sorgere una seconda [[Storm\|tempesta]],<br>ché questi è colui che muove [[Wind\|vento]] e marea. |
+| WARWICK | (a [[King\|re]] Luigi)<br>Da parte del degno Edoardo, [[King\|re]] d’Albione,<br>mio signore e sovrano, e tuo amico giurato,<br>vengo con benevolenza e non finto [[Love\|amore]],<br>primo, a porgere saluti alla tua regale persona,<br>e poi, a chiedere una lega d’amicizia,<br>e infine, a confermare quell’amicizia<br>con nodo nuziale, se ti degni di concedere<br>quella virtuosa madama Bona, tua bella sorella,<br>al [[King\|re]] d’Inghilterra in legittimo [[Marriage\|matrimonio]]. |
+| [[Queen Margaret\|REGINA MARGHERITA]] | (a parte)<br>Se ciò procede, la [[Hope\|speranza]] di Enrico è finita. |
+| WARWICK | (a madama Bona)<br>E, graziosa signora, in nome del nostro [[King\|re]]<br>mi è comandato, col vostro permesso e favore,<br>di baciare umilmente la vostra mano, e con la mia lingua<br>di dire la passione del cuore del mio sovrano,<br>dove la fama, entrata non da molto nelle sue attente orecchie,<br>ha posto l’immagine della vostra [[Beauty\|bellezza]] e la vostra virtù. |
+| [[Queen Margaret\|REGINA MARGHERITA]] | [[King\|Re]] Luigi e madama Bona, ascoltatemi parlare<br>prima di rispondere a Warwick. La sua domanda<br>non nasce da un [[Love\|amore]] onesto e [[Well\|ben]] intenzionato d’Edoardo,<br>ma da inganno, generato dalla necessità.<br>Ché come possono i tiranni governare sicuri in [[Home\|patria]]<br>se non si comprano fuori grandi alleanze ?<br>A provarlo [[Tyrant\|tiranno]] può bastare questa ragione—<br>che Enrico vive ancora; e fosse pur morto,<br>qui sta il principe Edoardo, figlio di [[King\|re]] Enrico.<br>Bada dunque, Luigi, che con questa lega e questo<br>[[Marriage\|matrimonio]]<br>tu non tiri su di te pericolo e disonore,<br>ché, sebbene gli usurpatori reggano il potere per un tempo,<br>i cieli però sono giusti e il [[Time\|tempo]] soffoca i torti. |
 | WARWICK | Oltraggiosa Margherita. |
-| PRINCIPE EDOARDO | E perché non ‘[[Queen|regina]]’? |
-| WARWICK | Perché tuo padre Enrico usurpò,<br>e tu non sei principe più di quanto ella sia [[Queen|regina]]. |
-| [[Oxford|OXFORD]] | Allora Warwick annulla il grande [[John of Gaunt|Giovanni di Gaunt]],<br>che soggiogò la maggior parte della Spagna;<br>e, dopo [[John of Gaunt|Giovanni di Gaunt]], Enrico Quarto,<br>la cui saggezza fu [[Mirror|specchio]] ai più saggi;<br>e, dopo quel saggio principe, Enrico Quinto,<br>che col suo valore conquistò tutta la Francia.<br>Da questi il nostro Enrico discende in linea diretta. |
-| WARWICK | [[Oxford]], come avviene che in questo liscio discorso<br>non hai detto come Enrico Sesto ha perduto<br>tutto ciò che Enrico Quinto aveva conquistato ?<br>Mi pare che questi pari di Francia dovrebbero sorriderne.<br>Ma per il resto, tu esponi una genealogia<br>di sessantadue anni—un [[Time|tempo]] risibile<br>per far prescrizione del valore d’un regno. |
-| [[Oxford|OXFORD]] | Ebbene, Warwick, puoi parlare contro il tuo sire,<br>cui obbedisti trentasei anni,<br>e non tradire il tuo tradimento con un rossore? |
-| WARWICK | Può [[Oxford]], che sempre difese il diritto,<br>ora scudare la falsità con una genealogia?<br>Vergogna—lascia Enrico, e chiama Edoardo [[King|re]]. |
-| [[Oxford|OXFORD]] | Chiamare mio [[King|re]] colui per la cui iniqua sentenza<br>il mio fratello maggiore, lord Aubrey Vere,<br>fu messo a [[Death|morte]] ? E più ancora, mio padre,<br>proprio nel declinare dei suoi anni maturi,<br>quando la [[Nature|natura]] lo portava alla porta della [[Death|morte]]?<br>No, Warwick, no—finché la vita sostiene questo braccio,<br>questo braccio sostiene la [[house|casa]] di Lancaster. |
-| WARWICK | E io la [[house|casa]] di York. |
-| [[King|RE]] LUIGI | [[Queen Margaret|Regina Margherita]], principe Edoardo, e [[Oxford]],<br>degnatevi, a nostra richiesta, di stare in disparte<br>mentre io ho ulteriore colloquio con Warwick. |
-| *(didascalia)* | [[Queen Margaret|La regina Margherita]] scende dal trono e, col principe Edoardo e [[Oxford]], si mette in disparte |
-| [[Queen Margaret|REGINA MARGHERITA]] | Concedano i cieli che le parole di Warwick non lo streghino. |
-| [[King|RE]] LUIGI | Ora, Warwick, dimmi sulla tua [[Conscience|coscienza]],<br>è Edoardo il vostro vero [[King|re]]? Ché mi ripugnerebbe<br>legarmi a chi non fosse legittimamente eletto. |
-| WARWICK | Su questo impegno il mio credito e il mio [[Honour|onore]]. |
-| [[King|RE]] LUIGI | Ma è gradito all’occhio del popolo? |
+| PRINCIPE EDOARDO | E perché non ‘[[Queen\|regina]]’? |
+| WARWICK | Perché tuo padre Enrico usurpò,<br>e tu non sei principe più di quanto ella sia [[Queen\|regina]]. |
+| [[Oxford\|OXFORD]] | Allora Warwick annulla il grande [[John of Gaunt\|Giovanni di Gaunt]],<br>che soggiogò la maggior parte della Spagna;<br>e, dopo [[John of Gaunt\|Giovanni di Gaunt]], Enrico Quarto,<br>la cui saggezza fu [[Mirror\|specchio]] ai più saggi;<br>e, dopo quel saggio principe, Enrico Quinto,<br>che col suo valore conquistò tutta la Francia.<br>Da questi il nostro Enrico discende in linea diretta. |
+| WARWICK | [[Oxford]], come avviene che in questo liscio discorso<br>non hai detto come Enrico Sesto ha perduto<br>tutto ciò che Enrico Quinto aveva conquistato ?<br>Mi pare che questi pari di Francia dovrebbero sorriderne.<br>Ma per il resto, tu esponi una genealogia<br>di sessantadue anni—un [[Time\|tempo]] risibile<br>per far prescrizione del valore d’un regno. |
+| [[Oxford\|OXFORD]] | Ebbene, Warwick, puoi parlare contro il tuo sire,<br>cui obbedisti trentasei anni,<br>e non tradire il tuo tradimento con un rossore? |
+| WARWICK | Può [[Oxford]], che sempre difese il diritto,<br>ora scudare la falsità con una genealogia?<br>Vergogna—lascia Enrico, e chiama Edoardo [[King\|re]]. |
+| [[Oxford\|OXFORD]] | Chiamare mio [[King\|re]] colui per la cui iniqua sentenza<br>il mio fratello maggiore, lord Aubrey Vere,<br>fu messo a [[Death\|morte]] ? E più ancora, mio padre,<br>proprio nel declinare dei suoi anni maturi,<br>quando la [[Nature\|natura]] lo portava alla porta della [[Death\|morte]]?<br>No, Warwick, no—finché la vita sostiene questo braccio,<br>questo braccio sostiene la [[house\|casa]] di Lancaster. |
+| WARWICK | E io la [[house\|casa]] di York. |
+| [[King\|RE]] LUIGI | [[Queen Margaret\|Regina Margherita]], principe Edoardo, e [[Oxford]],<br>degnatevi, a nostra richiesta, di stare in disparte<br>mentre io ho ulteriore colloquio con Warwick. |
+| *(didascalia)* | [[Queen Margaret\|La regina Margherita]] scende dal trono e, col principe Edoardo e [[Oxford]], si mette in disparte |
+| [[Queen Margaret\|REGINA MARGHERITA]] | Concedano i cieli che le parole di Warwick non lo streghino. |
+| [[King\|RE]] LUIGI | Ora, Warwick, dimmi sulla tua [[Conscience\|coscienza]],<br>è Edoardo il vostro vero [[King\|re]]? Ché mi ripugnerebbe<br>legarmi a chi non fosse legittimamente eletto. |
+| WARWICK | Su questo impegno il mio credito e il mio [[Honour\|onore]]. |
+| [[King\|RE]] LUIGI | Ma è gradito all’occhio del popolo? |
 | WARWICK | Tanto più in quanto Enrico fu sventurato. |
-| [[King|RE]] LUIGI | E poi, messa da parte ogni finzione,<br>dimmi in [[Truth|verità]] la misura del suo [[Love|amore]]<br>verso nostra sorella Bona. |
-| WARWICK | Tale appare<br>quale può convenire a un monarca come lui.<br>Io stesso l’ho spesso udito dire e giurare<br>che questo suo [[Love|amore]] era pianta eterna,<br>la cui radice era fissa nel suolo della virtù,<br>le [[Leaves|foglie]] e il frutto nutriti dal sole della [[Beauty|bellezza]],<br>immune dall’invidia, ma non dal disdegno,<br>se madama Bona non ricambia la sua [[Pain|pena]]. |
-| [[King|RE]] LUIGI | (a madama Boa)<br>Ora, sorella, udiamo la vostra ferma risoluzione. |
-| MADAMA BONA | Il vostro consenso, o il vostro rifiuto, sarà il mio.<br>(A Warwick) Tuttavia confesso che spesso prima d’oggi,<br>quando ho udito narrare il [[Desert|merito]] del vostro [[King|re]],<br>il mio orecchio ha indotto il giudizio al [[Desire|desiderio]]. |
-| [[King|RE]] LUIGI | (a Warwick)<br>Allora, Warwick, così—nostra sorella sarà d’Edoardo.<br>E ora, senza indugio, siano redatti gli articoli<br>circa l’assegnazione vedovile che il vostro [[King|re]] deve fare,<br>la quale sarà controbilanciata dalla sua dote.<br>(A [[Queen Margaret|la regina Margherita]]) Avvicinatevi, [[Queen Margaret|regina Margherita]], e<br>siate testimone<br>che Bona sarà moglie del [[King|re]] d’Inghilterra. |
-| *(didascalia)* | [[Queen Margaret|La regina Margherita]], il principe Edoardo e [[Oxford]] si fanno avanti |
-| PRINCIPE EDOARDO | D’Edoardo, ma non del [[King|re]] d’Inghilterra. |
-| [[Queen Margaret|REGINA MARGHERITA]] | Ingannevole Warwick—fu tuo artificio<br>rendere vana con questa alleanza la mia istanza!<br>Prima del tuo arrivo Luigi era amico di Enrico. |
-| [[King|RE]] LUIGI | E ancora è amico di lui e di Margherita.<br>Ma se il vostro titolo alla [[Crown|corona]] è debole,<br>come può apparire dal buon [[success|successo]] d’Edoardo,<br>è dunque ragionevole che io sia sciolto<br>dal dare l’aiuto che poc’anzi promisi.<br>Avrete tuttavia dalla mia mano ogni cortesia<br>che il vostro stato richiede e il mio può concedere. |
-| WARWICK | (a [[Queen Margaret|la regina Margherita]])<br>Enrico ora vive in Scozia a suo agio,<br>dove, non avendo nulla, nulla può perdere.<br>E quanto a voi stessa, nostra ex [[Queen|regina]],<br>avete un padre in grado di mantenervi,<br>e meglio sarebbe che disturbaste lui anziché la Francia. |
-| [[Queen Margaret|REGINA MARGHERITA]] | Taci, impudente e svergognato Warwick, taci!<br>Superbo innalzatore e abbattitore di re!<br>Non me n’andrò di qui finché, coi miei discorsi e le mie [[Tears|lacrime]],<br>entrambi pieni di [[Truth|verità]], non faccia vedere a [[King|re]] Luigi<br>il tuo furbo maneggio e il falso [[Love|amore]] del tuo signore,<br>Un corriere suona un corno dall’interno<br><br>ché voi due siete [[Birds|uccelli]] della medesima penna. |
-| [[King|RE]] LUIGI | Warwick, è un corriere per noi o per te. |
+| [[King\|RE]] LUIGI | E poi, messa da parte ogni finzione,<br>dimmi in [[Truth\|verità]] la misura del suo [[Love\|amore]]<br>verso nostra sorella Bona. |
+| WARWICK | Tale appare<br>quale può convenire a un monarca come lui.<br>Io stesso l’ho spesso udito dire e giurare<br>che questo suo [[Love\|amore]] era pianta eterna,<br>la cui radice era fissa nel suolo della virtù,<br>le [[Leaves\|foglie]] e il frutto nutriti dal sole della [[Beauty\|bellezza]],<br>immune dall’invidia, ma non dal disdegno,<br>se madama Bona non ricambia la sua [[Pain\|pena]]. |
+| [[King\|RE]] LUIGI | (a madama Boa)<br>Ora, sorella, udiamo la vostra ferma risoluzione. |
+| MADAMA BONA | Il vostro consenso, o il vostro rifiuto, sarà il mio.<br>(A Warwick) Tuttavia confesso che spesso prima d’oggi,<br>quando ho udito narrare il [[Desert\|merito]] del vostro [[King\|re]],<br>il mio orecchio ha indotto il giudizio al [[Desire\|desiderio]]. |
+| [[King\|RE]] LUIGI | (a Warwick)<br>Allora, Warwick, così—nostra sorella sarà d’Edoardo.<br>E ora, senza indugio, siano redatti gli articoli<br>circa l’assegnazione vedovile che il vostro [[King\|re]] deve fare,<br>la quale sarà controbilanciata dalla sua dote.<br>(A [[Queen Margaret\|la regina Margherita]]) Avvicinatevi, [[Queen Margaret\|regina Margherita]], e<br>siate testimone<br>che Bona sarà moglie del [[King\|re]] d’Inghilterra. |
+| *(didascalia)* | [[Queen Margaret\|La regina Margherita]], il principe Edoardo e [[Oxford]] si fanno avanti |
+| PRINCIPE EDOARDO | D’Edoardo, ma non del [[King\|re]] d’Inghilterra. |
+| [[Queen Margaret\|REGINA MARGHERITA]] | Ingannevole Warwick—fu tuo artificio<br>rendere vana con questa alleanza la mia istanza!<br>Prima del tuo arrivo Luigi era amico di Enrico. |
+| [[King\|RE]] LUIGI | E ancora è amico di lui e di Margherita.<br>Ma se il vostro titolo alla [[Crown\|corona]] è debole,<br>come può apparire dal buon [[success\|successo]] d’Edoardo,<br>è dunque ragionevole che io sia sciolto<br>dal dare l’aiuto che poc’anzi promisi.<br>Avrete tuttavia dalla mia mano ogni cortesia<br>che il vostro stato richiede e il mio può concedere. |
+| WARWICK | (a [[Queen Margaret\|la regina Margherita]])<br>Enrico ora vive in Scozia a suo agio,<br>dove, non avendo nulla, nulla può perdere.<br>E quanto a voi stessa, nostra ex [[Queen\|regina]],<br>avete un padre in grado di mantenervi,<br>e meglio sarebbe che disturbaste lui anziché la Francia. |
+| [[Queen Margaret\|REGINA MARGHERITA]] | Taci, impudente e svergognato Warwick, taci!<br>Superbo innalzatore e abbattitore di re!<br>Non me n’andrò di qui finché, coi miei discorsi e le mie [[Tears\|lacrime]],<br>entrambi pieni di [[Truth\|verità]], non faccia vedere a [[King\|re]] Luigi<br>il tuo furbo maneggio e il falso [[Love\|amore]] del tuo signore,<br>Un corriere suona un corno dall’interno<br><br>ché voi due siete [[Birds\|uccelli]] della medesima penna. |
+| [[King\|RE]] LUIGI | Warwick, è un corriere per noi o per te. |
 | *(didascalia)* | Entra il Corriere |
-| CORRIERE | (a Warwick)<br>Mio signore ambasciatore, queste lettere son per voi,<br>mandate da vostro fratello il marchese di Montague;<br>(A Luigi) Queste dal nostro [[King|re]] a vostra maestà;<br>(A [[Queen Margaret|la regina Margherita]])<br>e, signora, queste per voi, da chi non so.<br>Leggono tutti le loro lettere |
-| [[Oxford|OXFORD]] | (al principe Edoardo)<br>Mi piace [[Well|bene]] che la nostra bella [[Queen|regina]] e signora<br>sorrida alle sue nuove, mentre Warwick s’acciglia alle proprie. |
-| PRINCIPE EDOARDO | Anzi, guardate come Luigi pesta i piedi, come se fosse punto.<br>[[Hope|Spero]] che tutto sia per il meglio. |
-| [[King|RE]] LUIGI | Warwick, quali sono le tue nuove ? E le vostre, bella [[Queen|regina]]? |
-| [[Queen Margaret|REGINA MARGHERITA]] | Le mie, tali da colmarmi il cuore di gioie insperate. |
+| CORRIERE | (a Warwick)<br>Mio signore ambasciatore, queste lettere son per voi,<br>mandate da vostro fratello il marchese di Montague;<br>(A Luigi) Queste dal nostro [[King\|re]] a vostra maestà;<br>(A [[Queen Margaret\|la regina Margherita]])<br>e, signora, queste per voi, da chi non so.<br>Leggono tutti le loro lettere |
+| [[Oxford\|OXFORD]] | (al principe Edoardo)<br>Mi piace [[Well\|bene]] che la nostra bella [[Queen\|regina]] e signora<br>sorrida alle sue nuove, mentre Warwick s’acciglia alle proprie. |
+| PRINCIPE EDOARDO | Anzi, guardate come Luigi pesta i piedi, come se fosse punto.<br>[[Hope\|Spero]] che tutto sia per il meglio. |
+| [[King\|RE]] LUIGI | Warwick, quali sono le tue nuove ? E le vostre, bella [[Queen\|regina]]? |
+| [[Queen Margaret\|REGINA MARGHERITA]] | Le mie, tali da colmarmi il cuore di gioie insperate. |
 | WARWICK | Le mie, piene di dolore e di scontento del cuore. |
-| [[King|RE]] LUIGI | Come! Il vostro [[King|re]] ha sposato madama Gray?<br>E ora, per lisciare la vostra falsità e la sua,<br>mi manda un foglio a persuadermi alla pazienza?<br>È questa l’alleanza che cerca con la Francia?<br>Osa presumere di schernirci in tal modo? |
-| [[Queen Margaret|REGINA MARGHERITA]] | L’avevo detto a vostra maestà già prima—<br>questo prova l’[[Love|amore]] d’Edoardo e l’onestà di Warwick. |
-| WARWICK | [[King|Re]] Luigi, qui protesto al cospetto del cielo<br>e per la [[Hope|speranza]] che ho della beatitudine celeste,<br>che sono innocente di questo misfatto d’Edoardo,<br>non più mio [[King|re]], ché disonora me,<br>ma soprattutto sé stesso, se potesse vedere la sua vergogna.<br>Dimenticai io che per la [[house|casa]] di York<br>mio padre giunse innanzi tempo alla sua [[Death|morte]]?<br>Lasciai correre l’oltraggio fatto a mia nipote?<br>Non lo cinsi io della regale [[Crown|corona]]?<br>Non tolsi io a Enrico il suo diritto nativo?<br>E sono ricompensato alla fine con la vergogna?<br>Vergogna su lui stesso, ché il mio [[Desert|merito]] è [[Honour|onore]].<br>E per riparare il mio [[Honour|onore]], perduto per lui,<br>qui lo rinnego e torno a Enrico.<br>(A [[Queen Margaret|la regina Margherita]]) Mia nobile [[Queen|regina]], passino i vecchi<br>rancori,<br>e d’ora in poi io sono il tuo fedele servitore.<br>[[Revenge|Vendicherò]] il torto fatto a madama Bona<br>e ripianterò Enrico nel suo stato di prima. |
-| [[Queen Margaret|REGINA MARGHERITA]] | Warwick, queste parole hanno mutato il mio odio in [[Love|amore]],<br>e perdono e dimentico affatto le vecchie colpe,<br>e gioisco che tu divenga amico di [[King|re]] Enrico. |
-| WARWICK | Tanto suo amico, sì, suo non finto amico,<br>che se [[King|re]] Luigi si degna di fornirci<br>qualche piccola schiera di soldati scelti,<br>m’impegno a sbarcarli sulla nostra costa<br>e a cacciare il [[Tyrant|tiranno]] dal suo seggio con la guerra.<br>Non sarà la sua sposa nuova a soccorrerlo.<br>E quanto a [[Clarence]], come mi dicono le mie lettere,<br>è molto probabile che ora si stacchi da lui<br>per essersi accasato più per libidine sfrenata che per [[Honour|onore]],<br>o che per la forza e la sicurezza del nostro paese. |
-| MADAMA BONA | (a [[King|re]] Luigi)<br>Caro fratello, come sarà vendicata Bona,<br>se non col tuo aiuto a questa afflitta [[Queen|regina]]? |
-| [[Queen Margaret|REGINA MARGHERITA]] | (a [[King|re]] Luigi)<br>Illustre principe, come vivrà il povero Enrico<br>se tu non lo salvi da turpe [[Despair|disperazione]]? |
-| MADAMA BONA | (a [[King|re]] Luigi)<br>La mia causa e quella di questa [[Queen|regina]] inglese sono una. |
+| [[King\|RE]] LUIGI | Come! Il vostro [[King\|re]] ha sposato madama Gray?<br>E ora, per lisciare la vostra falsità e la sua,<br>mi manda un foglio a persuadermi alla pazienza?<br>È questa l’alleanza che cerca con la Francia?<br>Osa presumere di schernirci in tal modo? |
+| [[Queen Margaret\|REGINA MARGHERITA]] | L’avevo detto a vostra maestà già prima—<br>questo prova l’[[Love\|amore]] d’Edoardo e l’onestà di Warwick. |
+| WARWICK | [[King\|Re]] Luigi, qui protesto al cospetto del cielo<br>e per la [[Hope\|speranza]] che ho della beatitudine celeste,<br>che sono innocente di questo misfatto d’Edoardo,<br>non più mio [[King\|re]], ché disonora me,<br>ma soprattutto sé stesso, se potesse vedere la sua vergogna.<br>Dimenticai io che per la [[house\|casa]] di York<br>mio padre giunse innanzi tempo alla sua [[Death\|morte]]?<br>Lasciai correre l’oltraggio fatto a mia nipote?<br>Non lo cinsi io della regale [[Crown\|corona]]?<br>Non tolsi io a Enrico il suo diritto nativo?<br>E sono ricompensato alla fine con la vergogna?<br>Vergogna su lui stesso, ché il mio [[Desert\|merito]] è [[Honour\|onore]].<br>E per riparare il mio [[Honour\|onore]], perduto per lui,<br>qui lo rinnego e torno a Enrico.<br>(A [[Queen Margaret\|la regina Margherita]]) Mia nobile [[Queen\|regina]], passino i vecchi<br>rancori,<br>e d’ora in poi io sono il tuo fedele servitore.<br>[[Revenge\|Vendicherò]] il torto fatto a madama Bona<br>e ripianterò Enrico nel suo stato di prima. |
+| [[Queen Margaret\|REGINA MARGHERITA]] | Warwick, queste parole hanno mutato il mio odio in [[Love\|amore]],<br>e perdono e dimentico affatto le vecchie colpe,<br>e gioisco che tu divenga amico di [[King\|re]] Enrico. |
+| WARWICK | Tanto suo amico, sì, suo non finto amico,<br>che se [[King\|re]] Luigi si degna di fornirci<br>qualche piccola schiera di soldati scelti,<br>m’impegno a sbarcarli sulla nostra costa<br>e a cacciare il [[Tyrant\|tiranno]] dal suo seggio con la guerra.<br>Non sarà la sua sposa nuova a soccorrerlo.<br>E quanto a [[Clarence]], come mi dicono le mie lettere,<br>è molto probabile che ora si stacchi da lui<br>per essersi accasato più per libidine sfrenata che per [[Honour\|onore]],<br>o che per la forza e la sicurezza del nostro paese. |
+| MADAMA BONA | (a [[King\|re]] Luigi)<br>Caro fratello, come sarà vendicata Bona,<br>se non col tuo aiuto a questa afflitta [[Queen\|regina]]? |
+| [[Queen Margaret\|REGINA MARGHERITA]] | (a [[King\|re]] Luigi)<br>Illustre principe, come vivrà il povero Enrico<br>se tu non lo salvi da turpe [[Despair\|disperazione]]? |
+| MADAMA BONA | (a [[King\|re]] Luigi)<br>La mia causa e quella di questa [[Queen\|regina]] inglese sono una. |
 | WARWICK | E la mia, bella madama Bona, s’unisce alla vostra. |
-| [[King|RE]] LUIGI | E la mia con la sua, e con la tua, e con quella di Margherita.<br>Perciò infine sono fermamente risoluto:<br>avrete aiuto. |
-| [[Queen Margaret|REGINA MARGHERITA]] | Lasciate ch’io renda umili grazie per tutto insieme. |
-| [[King|RE]] LUIGI | (al Corriere)<br>Allora, messaggero d’Inghilterra, torna in fretta<br>e di’ al falso Edoardo, il tuo presunto [[King|re]],<br>che Luigi di Francia gli manda mascherati<br>a far festa con lui e con la sua nuova sposa.<br>Hai visto ciò ch’è passato, va’ a [[Fear|spaventare]] con questo il tuo [[King|re]]. |
-| MADAMA BONA | (al Corriere)<br>Ditegli che, nella [[Hope|speranza]] che presto sia vedovo,<br>porterò per lui la ghirlanda di salice. |
-| [[Queen Margaret|REGINA MARGHERITA]] | (al Corriere)<br>Ditegli che le mie vesti di lutto son deposte,<br>e che sono pronta a indossare l’armatura. |
+| [[King\|RE]] LUIGI | E la mia con la sua, e con la tua, e con quella di Margherita.<br>Perciò infine sono fermamente risoluto:<br>avrete aiuto. |
+| [[Queen Margaret\|REGINA MARGHERITA]] | Lasciate ch’io renda umili grazie per tutto insieme. |
+| [[King\|RE]] LUIGI | (al Corriere)<br>Allora, messaggero d’Inghilterra, torna in fretta<br>e di’ al falso Edoardo, il tuo presunto [[King\|re]],<br>che Luigi di Francia gli manda mascherati<br>a far festa con lui e con la sua nuova sposa.<br>Hai visto ciò ch’è passato, va’ a [[Fear\|spaventare]] con questo il tuo [[King\|re]]. |
+| MADAMA BONA | (al Corriere)<br>Ditegli che, nella [[Hope\|speranza]] che presto sia vedovo,<br>porterò per lui la ghirlanda di salice. |
+| [[Queen Margaret\|REGINA MARGHERITA]] | (al Corriere)<br>Ditegli che le mie vesti di lutto son deposte,<br>e che sono pronta a indossare l’armatura. |
 | WARWICK | (al Corriere)<br>Digli da parte mia che m’ha fatto torto,<br>e che perciò lo scoronerò prima che passi molto.<br>(Dandogli denaro) Ecco il tuo compenso—vattene. |
 | *(didascalia)* | Esce il Corriere |
-| [[King|RE]] LUIGI | Ma, Warwick, tu e [[Oxford]], con cinquemila<br>uomini,<br>[[Cross|varcherete]] i mari e offrirete battaglia al falso Edoardo;<br>e, quando l’occasione serva, questa nobile [[Queen|regina]]<br>e il principe seguiranno con nuovo rinforzo.<br>Ma, prima che tu vada, rispondimi a un solo [[Doubt|dubbio]]:<br>che pegno abbiamo della tua ferma lealtà? |
-| WARWICK | Questo assicurerà la mia costante lealtà :<br>che, se la nostra [[Queen|regina]] e questo giovane principe consentono,<br>unirò la mia figlia maggiore e mia gioia<br>a lui senza indugio nei santi vincoli del matrimonio. |
-| [[Queen Margaret|REGINA MARGHERITA]] | Sì, consento, e vi ringrazio della vostra proposta.<br>(Al principe Edoardo) Figlio Edoardo, ella è bella e virtuosa,<br>perciò non indugiare. Da’ la tua mano a Warwick,<br>e con la tua mano la tua [[Faith|fede]] irrevocabile<br>che solo la figlia di Warwick sarà tua. |
-| PRINCIPE EDOARDO | Sì, l’accetto, ché lo merita [[Well|bene]],<br>ed ecco, a pegno del mio voto, do la mia mano.<br>Egli e Warwick si stringono le mani |
-| [[King|RE]] LUIGI | Perché indugiamo ora? Questi soldati saranno arruolati,<br>e tu, lord Borbone, nostro grande ammiraglio,<br>li traghetterai con la nostra regale flotta.<br>Non attendo che il momento in cui Edoardo cada per sventura di guerra<br>per aver deriso il [[Marriage|matrimonio]] con una dama di Francia. |
+| [[King\|RE]] LUIGI | Ma, Warwick, tu e [[Oxford]], con cinquemila<br>uomini,<br>[[Cross\|varcherete]] i mari e offrirete battaglia al falso Edoardo;<br>e, quando l’occasione serva, questa nobile [[Queen\|regina]]<br>e il principe seguiranno con nuovo rinforzo.<br>Ma, prima che tu vada, rispondimi a un solo [[Doubt\|dubbio]]:<br>che pegno abbiamo della tua ferma lealtà? |
+| WARWICK | Questo assicurerà la mia costante lealtà :<br>che, se la nostra [[Queen\|regina]] e questo giovane principe consentono,<br>unirò la mia figlia maggiore e mia gioia<br>a lui senza indugio nei santi vincoli del matrimonio. |
+| [[Queen Margaret\|REGINA MARGHERITA]] | Sì, consento, e vi ringrazio della vostra proposta.<br>(Al principe Edoardo) Figlio Edoardo, ella è bella e virtuosa,<br>perciò non indugiare. Da’ la tua mano a Warwick,<br>e con la tua mano la tua [[Faith\|fede]] irrevocabile<br>che solo la figlia di Warwick sarà tua. |
+| PRINCIPE EDOARDO | Sì, l’accetto, ché lo merita [[Well\|bene]],<br>ed ecco, a pegno del mio voto, do la mia mano.<br>Egli e Warwick si stringono le mani |
+| [[King\|RE]] LUIGI | Perché indugiamo ora? Questi soldati saranno arruolati,<br>e tu, lord Borbone, nostro grande ammiraglio,<br>li traghetterai con la nostra regale flotta.<br>Non attendo che il momento in cui Edoardo cada per sventura di guerra<br>per aver deriso il [[Marriage\|matrimonio]] con una dama di Francia. |
 | *(didascalia)* | Escono tutti tranne Warwick |
-| WARWICK | Venni da parte d’Edoardo come ambasciatore,<br>ma torno suo nemico giurato e mortale.<br>Questione di [[Marriage|matrimonio]] fu l’incarico che mi diede,<br>ma tremenda guerra risponderà alla sua domanda.<br>Non aveva altri che me da rendere zimbello?<br>Allora nessuno se non io muterà il suo scherzo in dolore.<br>Fui io il primo a innalzarlo alla [[Crown|corona]],<br>e sarò il primo a farlo cadere di nuovo.<br>Non che compianga la miseria di Enrico,<br>ma cerco [[Revenge|vendetta]] della beffa d’Edoardo. Esce |
+| WARWICK | Venni da parte d’Edoardo come ambasciatore,<br>ma torno suo nemico giurato e mortale.<br>Questione di [[Marriage\|matrimonio]] fu l’incarico che mi diede,<br>ma tremenda guerra risponderà alla sua domanda.<br>Non aveva altri che me da rendere zimbello?<br>Allora nessuno se non io muterà il suo scherzo in dolore.<br>Fui io il primo a innalzarlo alla [[Crown\|corona]],<br>e sarò il primo a farlo cadere di nuovo.<br>Non che compianga la miseria di Enrico,<br>ma cerco [[Revenge\|vendetta]] della beffa d’Edoardo. Esce |
 
 
 
@@ -2743,65 +2743,65 @@ The True [[Tragedy]] of [[Richard]] [[Duke of York]] and the Good [[King]] Henry
 
 | Chi parla | Battuta |
 |---|---|
-| *(didascalia)* | Entrano [[Richard|Riccardo]] [[Duke of Gloucester|duca di Gloucester]], Giorgio duca di [[Clarence]], il duca di Somerset, e il marchese di Montague |
-| [[Richard|RICCARDO]] DI [[Gloucester|GLOUCESTER]] | Ora dimmi, fratello [[Clarence]], che pensi<br>di questo nuovo [[Marriage|matrimonio]] con madama Gray?<br>Non ha fatto nostro fratello una scelta degna ? |
-| GIORGIO DI [[Clarence|CLARENCE]] | Ahimè, sapete che di qui alla Francia è lontano;<br>come poteva attendere che Warwick tornasse? |
-| SOMERSET | Signori, cessate questo discorso—ecco viene il [[King|re]]. |
-| *(didascalia)* | Squilli. Entrano [[King|re]] Edoardo, madama Gray sua |
-| SOMERSET | [[Queen|regina]], il conte di Pembroke, e i lord |
+| *(didascalia)* | Entrano [[Richard\|Riccardo]] [[Duke of Gloucester\|duca di Gloucester]], Giorgio duca di [[Clarence]], il duca di Somerset, e il marchese di Montague |
+| [[Richard\|RICCARDO]] DI [[Gloucester\|GLOUCESTER]] | Ora dimmi, fratello [[Clarence]], che pensi<br>di questo nuovo [[Marriage\|matrimonio]] con madama Gray?<br>Non ha fatto nostro fratello una scelta degna ? |
+| GIORGIO DI [[Clarence\|CLARENCE]] | Ahimè, sapete che di qui alla Francia è lontano;<br>come poteva attendere che Warwick tornasse? |
+| SOMERSET | Signori, cessate questo discorso—ecco viene il [[King\|re]]. |
+| *(didascalia)* | Squilli. Entrano [[King\|re]] Edoardo, madama Gray sua |
+| SOMERSET | [[Queen\|regina]], il conte di Pembroke, e i lord |
 | *(didascalia)* | Stafford e [[Hastings]]. Quattro stanno da un lato del |
-| *(didascalia)* | [[King|re]], e quattro dall’altro |
-| [[Richard|RICCARDO]] DI [[Gloucester|GLOUCESTER]] | E la sua [[Well|ben]] scelta sposa. |
-| GIORGIO DI [[Clarence|CLARENCE]] | Intendo dirgli chiaramente ciò che penso. |
-| [[King|RE]] EDOARDO | Ora, fratello di [[Clarence]], come vi piace la nostra scelta,<br>che ve ne state pensoso, come mezzo malcontento? |
-| GIORGIO DI [[Clarence|CLARENCE]] | Tanto [[Well|bene]] quanto a Luigi di Francia, o al [[Earl of Warwick|conte di Warwick]],<br>che sono così debolissimi di [[Courage|coraggio]] e di giudizio<br>che non si offenderanno del nostro oltraggio. |
-| [[King|RE]] EDOARDO | Poniamo che s’offendano senza causa—<br>non sono che Luigi e Warwick; io sono Edoardo,<br>vostro [[King|re]] e di Warwick, e devo avere la mia volontà. |
-| [[Richard|RICCARDO]] DI [[Gloucester|GLOUCESTER]] | E avrete la vostra volontà, perché siete il nostro [[King|re]].<br>Tuttavia un [[Marriage|matrimonio]] affrettato riesce raramente [[Well|bene]]. |
-| [[King|RE]] EDOARDO | Ebbene, fratello [[Richard|Riccardo]], siete offeso anche voi ? |
-| [[Richard|RICCARDO]] DI [[Gloucester|GLOUCESTER]] | Non io, no—Dio non voglia ch’io desideri separati<br>quelli che Dio ha congiunti. Sì, e sarebbe un peccato<br>disgiungere quelli che s’accoppiano così [[Well|bene]]. |
-| [[King|RE]] EDOARDO | Messi da parte i vostri scherni e la vostra avversione,<br>ditemi qualche ragione per cui madama Gray<br>non debba divenire mia moglie e [[Queen|regina]] d’Inghilterra.<br>E anche voi, Somerset e Montague,<br>dite liberamente ciò che pensate. |
-| GIORGIO DI [[Clarence|CLARENCE]] | Allora questa è la mia opinione: che [[King|re]] Luigi<br>diviene vostro nemico per averlo deriso<br>circa il [[Marriage|matrimonio]] con madama Bona. |
-| [[Richard|RICCARDO]] DI [[Gloucester|GLOUCESTER]] | E Warwick, facendo ciò che gli avete affidato,<br>è ora disonorato da questo nuovo [[Marriage|matrimonio]]. |
-| [[King|RE]] EDOARDO | E se sia Luigi sia Warwick fossero placati<br>con qualche invenzione che io possa escogitare? |
-| MONTAGUE | Tuttavia, essersi uniti alla Francia in tale alleanza<br>avrebbe rafforzato più questa nostra<br>repubblica<br>contro le tempeste straniere di qualunque [[Marriage|matrimonio]] nato in [[Home|patria]]. |
-| [[Hastings|HASTINGS]] | Ebbene, non sa Montague che da sé<br>l’Inghilterra è sicura, se è fedele dentro di sé? |
+| *(didascalia)* | [[King\|re]], e quattro dall’altro |
+| [[Richard\|RICCARDO]] DI [[Gloucester\|GLOUCESTER]] | E la sua [[Well\|ben]] scelta sposa. |
+| GIORGIO DI [[Clarence\|CLARENCE]] | Intendo dirgli chiaramente ciò che penso. |
+| [[King\|RE]] EDOARDO | Ora, fratello di [[Clarence]], come vi piace la nostra scelta,<br>che ve ne state pensoso, come mezzo malcontento? |
+| GIORGIO DI [[Clarence\|CLARENCE]] | Tanto [[Well\|bene]] quanto a Luigi di Francia, o al [[Earl of Warwick\|conte di Warwick]],<br>che sono così debolissimi di [[Courage\|coraggio]] e di giudizio<br>che non si offenderanno del nostro oltraggio. |
+| [[King\|RE]] EDOARDO | Poniamo che s’offendano senza causa—<br>non sono che Luigi e Warwick; io sono Edoardo,<br>vostro [[King\|re]] e di Warwick, e devo avere la mia volontà. |
+| [[Richard\|RICCARDO]] DI [[Gloucester\|GLOUCESTER]] | E avrete la vostra volontà, perché siete il nostro [[King\|re]].<br>Tuttavia un [[Marriage\|matrimonio]] affrettato riesce raramente [[Well\|bene]]. |
+| [[King\|RE]] EDOARDO | Ebbene, fratello [[Richard\|Riccardo]], siete offeso anche voi ? |
+| [[Richard\|RICCARDO]] DI [[Gloucester\|GLOUCESTER]] | Non io, no—Dio non voglia ch’io desideri separati<br>quelli che Dio ha congiunti. Sì, e sarebbe un peccato<br>disgiungere quelli che s’accoppiano così [[Well\|bene]]. |
+| [[King\|RE]] EDOARDO | Messi da parte i vostri scherni e la vostra avversione,<br>ditemi qualche ragione per cui madama Gray<br>non debba divenire mia moglie e [[Queen\|regina]] d’Inghilterra.<br>E anche voi, Somerset e Montague,<br>dite liberamente ciò che pensate. |
+| GIORGIO DI [[Clarence\|CLARENCE]] | Allora questa è la mia opinione: che [[King\|re]] Luigi<br>diviene vostro nemico per averlo deriso<br>circa il [[Marriage\|matrimonio]] con madama Bona. |
+| [[Richard\|RICCARDO]] DI [[Gloucester\|GLOUCESTER]] | E Warwick, facendo ciò che gli avete affidato,<br>è ora disonorato da questo nuovo [[Marriage\|matrimonio]]. |
+| [[King\|RE]] EDOARDO | E se sia Luigi sia Warwick fossero placati<br>con qualche invenzione che io possa escogitare? |
+| MONTAGUE | Tuttavia, essersi uniti alla Francia in tale alleanza<br>avrebbe rafforzato più questa nostra<br>repubblica<br>contro le tempeste straniere di qualunque [[Marriage\|matrimonio]] nato in [[Home\|patria]]. |
+| [[Hastings\|HASTINGS]] | Ebbene, non sa Montague che da sé<br>l’Inghilterra è sicura, se è fedele dentro di sé? |
 | MONTAGUE | Ma più sicura quando è sostenuta dalla Francia. |
-| [[Hastings|HASTINGS]] | È meglio usare la Francia che fidarsi della Francia.<br>Siamo sostenuti da Dio e dai mari<br>che egli ci ha dato come baluardo inespugnabile,<br>e con quei soli aiuti difendiamo noi stessi.<br>In essi e in noi stessi sta la nostra salvezza. |
-| GIORGIO DI [[Clarence|CLARENCE]] | Per questo solo discorso lord [[Hastings]] merita [[Well|bene]]<br>d’avere l’erede del lord Hungerford. |
-| [[King|RE]] EDOARDO | Sì, e che importa? Fu mia volontà e mia concessione—<br>e per questa volta la mia volontà valga per legge. |
-| [[Richard|RICCARDO]] DI [[Gloucester|GLOUCESTER]] | E tuttavia, mi pare, vostra grazia non ha fatto [[Well|bene]]<br>a dare l’erede e figlia del lord Scales<br>al fratello della vostra amata sposa.<br>Meglio si sarebbe adattata a me o a [[Clarence]],<br>ma nella vostra sposa sepellite la fratellanza. |
-| GIORGIO DI [[Clarence|CLARENCE]] | O altrimenti non avreste concesso l’erede<br>del lord Bonville al figlio della vostra nuova moglie,<br>lasciando i vostri fratelli a cercar [[Speed|fortuna]] altrove. |
-| [[King|RE]] EDOARDO | Ahimè, povero [[Clarence]], è per una moglie<br>che sei malcontento? Ti provvederò io. |
-| GIORGIO DI [[Clarence|CLARENCE]] | Scegliendo per voi stesso mostraste il vostro giudizio,<br>il quale, essendo scarso, mi permetterete<br>di far da mezzano in mio proprio favore,<br>e a tal fine intendo lasciarvi presto. |
-| [[King|RE]] EDOARDO | Lasciami, o resta. Edoardo sarà [[King|re]],<br>e non sarà legato alla volontà del fratello. |
-| MADAMA GRAY | Signori, prima che piacesse a sua maestà<br>innalzare il mio stato al titolo di [[Queen|regina]],<br>fatemi solo giustizia, e dovrete tutti confessare<br>che non ero di nascita ignobile—<br>e più umili di me hanno avuto simile fortuna.<br>Ma come questo titolo onora me e i miei,<br>così le vostre avversioni, a voi cui vorrei piacere,<br>annuvolano le mie gioie di pericolo e di dolore. |
-| [[King|RE]] EDOARDO | [[Love|Amore]] mio, non blandire i loro cipigli.<br>Quale pericolo o quale dolore può coglierti<br>fintanto che Edoardo è il tuo costante amico,<br>e il loro vero sovrano, cui devono obbedire?<br>Anzi, cui obbediranno, e [[Love|ameranno]] anche te—<br>a meno che non cerchino l’odio dalle mie mani,<br>e se lo fanno, io ti terrò tuttavia al sicuro,<br>ed essi sentiranno la vendetta della mia ira. |
-| [[Richard|RICCARDO]] DI [[Gloucester|GLOUCESTER]] | (a parte)<br>Odo, e non dico molto, ma penso di più. |
+| [[Hastings\|HASTINGS]] | È meglio usare la Francia che fidarsi della Francia.<br>Siamo sostenuti da Dio e dai mari<br>che egli ci ha dato come baluardo inespugnabile,<br>e con quei soli aiuti difendiamo noi stessi.<br>In essi e in noi stessi sta la nostra salvezza. |
+| GIORGIO DI [[Clarence\|CLARENCE]] | Per questo solo discorso lord [[Hastings]] merita [[Well\|bene]]<br>d’avere l’erede del lord Hungerford. |
+| [[King\|RE]] EDOARDO | Sì, e che importa? Fu mia volontà e mia concessione—<br>e per questa volta la mia volontà valga per legge. |
+| [[Richard\|RICCARDO]] DI [[Gloucester\|GLOUCESTER]] | E tuttavia, mi pare, vostra grazia non ha fatto [[Well\|bene]]<br>a dare l’erede e figlia del lord Scales<br>al fratello della vostra amata sposa.<br>Meglio si sarebbe adattata a me o a [[Clarence]],<br>ma nella vostra sposa sepellite la fratellanza. |
+| GIORGIO DI [[Clarence\|CLARENCE]] | O altrimenti non avreste concesso l’erede<br>del lord Bonville al figlio della vostra nuova moglie,<br>lasciando i vostri fratelli a cercar [[Speed\|fortuna]] altrove. |
+| [[King\|RE]] EDOARDO | Ahimè, povero [[Clarence]], è per una moglie<br>che sei malcontento? Ti provvederò io. |
+| GIORGIO DI [[Clarence\|CLARENCE]] | Scegliendo per voi stesso mostraste il vostro giudizio,<br>il quale, essendo scarso, mi permetterete<br>di far da mezzano in mio proprio favore,<br>e a tal fine intendo lasciarvi presto. |
+| [[King\|RE]] EDOARDO | Lasciami, o resta. Edoardo sarà [[King\|re]],<br>e non sarà legato alla volontà del fratello. |
+| MADAMA GRAY | Signori, prima che piacesse a sua maestà<br>innalzare il mio stato al titolo di [[Queen\|regina]],<br>fatemi solo giustizia, e dovrete tutti confessare<br>che non ero di nascita ignobile—<br>e più umili di me hanno avuto simile fortuna.<br>Ma come questo titolo onora me e i miei,<br>così le vostre avversioni, a voi cui vorrei piacere,<br>annuvolano le mie gioie di pericolo e di dolore. |
+| [[King\|RE]] EDOARDO | [[Love\|Amore]] mio, non blandire i loro cipigli.<br>Quale pericolo o quale dolore può coglierti<br>fintanto che Edoardo è il tuo costante amico,<br>e il loro vero sovrano, cui devono obbedire?<br>Anzi, cui obbediranno, e [[Love\|ameranno]] anche te—<br>a meno che non cerchino l’odio dalle mie mani,<br>e se lo fanno, io ti terrò tuttavia al sicuro,<br>ed essi sentiranno la vendetta della mia ira. |
+| [[Richard\|RICCARDO]] DI [[Gloucester\|GLOUCESTER]] | (a parte)<br>Odo, e non dico molto, ma penso di più. |
 | *(didascalia)* | Entra il Corriere dalla Francia |
-| [[King|RE]] EDOARDO | Ora, messaggero, quali lettere o quali nuove dalla Francia ? |
+| [[King\|RE]] EDOARDO | Ora, messaggero, quali lettere o quali nuove dalla Francia ? |
 | CORRIERE | Mio sovrano sire, nessuna lettera e poche parole,<br>ma tali che io, senza il vostro speciale perdono,<br>non oso riferire. |
-| [[King|RE]] EDOARDO | Su, ti perdoniamo. Dunque, in breve,<br>dimmi le loro parole quanto più esatte puoi ricordarle.<br>Che risposta dà [[King|re]] Luigi alle nostre lettere? |
-| CORRIERE | Alla mia partenza queste furono le sue precise parole:<br>‘Va’ a dire al falso Edoardo, il tuo presunto [[King|re]],<br>che Luigi di Francia gli manda mascherati<br>a far festa con lui e con la sua nuova sposa.’ |
-| [[King|RE]] EDOARDO | È così bravo Luigi ? Certo mi crede Enrico.<br>Ma che disse madama Bona del mio [[Marriage|matrimonio]]? |
-| CORRIERE | Queste furono le sue parole, dette con mite disdegno:<br>‘Ditegli che, nella [[Hope|speranza]] che presto sia vedovo,<br>porterò per lui la ghirlanda di salice.’ |
-| [[King|RE]] EDOARDO | on la biasimo, poteva dire poco di meno;<br>ella ebbe il torto. Ma che disse la [[Queen|regina]] di Enrico?<br>Ché ho udito ch’era là presente. |
+| [[King\|RE]] EDOARDO | Su, ti perdoniamo. Dunque, in breve,<br>dimmi le loro parole quanto più esatte puoi ricordarle.<br>Che risposta dà [[King\|re]] Luigi alle nostre lettere? |
+| CORRIERE | Alla mia partenza queste furono le sue precise parole:<br>‘Va’ a dire al falso Edoardo, il tuo presunto [[King\|re]],<br>che Luigi di Francia gli manda mascherati<br>a far festa con lui e con la sua nuova sposa.’ |
+| [[King\|RE]] EDOARDO | È così bravo Luigi ? Certo mi crede Enrico.<br>Ma che disse madama Bona del mio [[Marriage\|matrimonio]]? |
+| CORRIERE | Queste furono le sue parole, dette con mite disdegno:<br>‘Ditegli che, nella [[Hope\|speranza]] che presto sia vedovo,<br>porterò per lui la ghirlanda di salice.’ |
+| [[King\|RE]] EDOARDO | on la biasimo, poteva dire poco di meno;<br>ella ebbe il torto. Ma che disse la [[Queen\|regina]] di Enrico?<br>Ché ho udito ch’era là presente. |
 | CORRIERE | ‘Ditegli‘, disse ella, ’che le mie vesti di lutto son finite,<br>e che sono pronta a indossare l’armatura.’ |
-| [[King|RE]] EDOARDO | Certo intende far l’amazzone.<br>Ma che disse Warwick a queste offese? |
+| [[King\|RE]] EDOARDO | Certo intende far l’amazzone.<br>Ma che disse Warwick a queste offese? |
 | CORRIERE | Egli, più incollerito contro vostra maestà<br>di tutti gli altri, mi licenziò con queste parole:<br>‘Digli da parte mia che m’ha fatto torto,<br>e che perciò lo scoronerò prima che passi molto.’ |
-| [[King|RE]] EDOARDO | Ah! Osò il traditore esalare parole così superbe?<br>[[Well|Bene]], m’armerò, essendo così avvertito.<br>Avranno guerre e pagheranno la loro presunzione.<br>Ma di’, Warwick è amico di Margherita? |
-| CORRIERE | Sì, grazioso sovrano, sono così legati in [[Friendship|amicizia]]<br>che il giovane principe Edoardo sposa la figlia di Warwick. |
-| GIORGIO DI [[Clarence|CLARENCE]] | Certo la maggiore; [[Clarence]] avrà la minore.<br>Ora, fratello [[King|re]], addio, e state saldo,<br>ché io me n’andrò dall’altra figlia di Warwick,<br>sì che, pur mancandomi un regno, nel [[Marriage|matrimonio]]<br>io non riesca inferiore a voi stesso.<br>Voi che [[Love|amate]] me e Warwick, seguitemi. |
+| [[King\|RE]] EDOARDO | Ah! Osò il traditore esalare parole così superbe?<br>[[Well\|Bene]], m’armerò, essendo così avvertito.<br>Avranno guerre e pagheranno la loro presunzione.<br>Ma di’, Warwick è amico di Margherita? |
+| CORRIERE | Sì, grazioso sovrano, sono così legati in [[Friendship\|amicizia]]<br>che il giovane principe Edoardo sposa la figlia di Warwick. |
+| GIORGIO DI [[Clarence\|CLARENCE]] | Certo la maggiore; [[Clarence]] avrà la minore.<br>Ora, fratello [[King\|re]], addio, e state saldo,<br>ché io me n’andrò dall’altra figlia di Warwick,<br>sì che, pur mancandomi un regno, nel [[Marriage\|matrimonio]]<br>io non riesca inferiore a voi stesso.<br>Voi che [[Love\|amate]] me e Warwick, seguitemi. |
 | *(didascalia)* | Esce [[Clarence]], e Somerset lo segue |
 | *(didascalia)* | Non io—a parte i miei pensieri mirano a più lontana cosa. |
-| [[Richard|RICCARDO]] DI [[Gloucester|GLOUCESTER]] | Io resto non per l’[[Love|amore]] d’Edoardo, ma per la [[Crown|corona]]. |
-| [[King|RE]] EDOARDO | [[Clarence]] e Somerset entrambi andati a Warwick?<br>Tuttavia sono armato contro il peggio che possa avvenire,<br>e la fretta è necessaria in questo caso disperato.<br>Pembroke e Stafford, voi in nostro nome<br>andate ad arruolare uomini e a preparare la guerra.<br>Essi sono già sbarcati, o presto lo saranno.<br>Io stesso in persona vi seguirò subito. |
+| [[Richard\|RICCARDO]] DI [[Gloucester\|GLOUCESTER]] | Io resto non per l’[[Love\|amore]] d’Edoardo, ma per la [[Crown\|corona]]. |
+| [[King\|RE]] EDOARDO | [[Clarence]] e Somerset entrambi andati a Warwick?<br>Tuttavia sono armato contro il peggio che possa avvenire,<br>e la fretta è necessaria in questo caso disperato.<br>Pembroke e Stafford, voi in nostro nome<br>andate ad arruolare uomini e a preparare la guerra.<br>Essi sono già sbarcati, o presto lo saranno.<br>Io stesso in persona vi seguirò subito. |
 | *(didascalia)* | Escono Pembroke e Stafford |
-| [[King|RE]] EDOARDO | Ma prima ch’io vada, [[Hastings]] e Montague,<br>risolvete il mio [[Doubt|dubbio]]. Voi due, di tutti gli altri,<br>siete i più prossimi a Warwick per [[Blood|sangue]] e per alleanza.<br>Ditemi se [[Love|amate]] Warwick più di me.<br>Se è così, andate entrambi da lui—<br>preferisco avervi nemici che amici falsi.<br>Ma se intendete mantenere la vostra vera obbedienza,<br>datemi assicurazione con qualche amichevole voto<br>ch’io non v’abbia mai in sospetto. |
+| [[King\|RE]] EDOARDO | Ma prima ch’io vada, [[Hastings]] e Montague,<br>risolvete il mio [[Doubt\|dubbio]]. Voi due, di tutti gli altri,<br>siete i più prossimi a Warwick per [[Blood\|sangue]] e per alleanza.<br>Ditemi se [[Love\|amate]] Warwick più di me.<br>Se è così, andate entrambi da lui—<br>preferisco avervi nemici che amici falsi.<br>Ma se intendete mantenere la vostra vera obbedienza,<br>datemi assicurazione con qualche amichevole voto<br>ch’io non v’abbia mai in sospetto. |
 | MONTAGUE | Così Dio aiuti Montague come egli si mostra fedele. |
-| [[Hastings|HASTINGS]] | E [[Hastings]] come egli favorisce la causa d’Edoardo. |
-| [[King|RE]] EDOARDO | Ora, fratello [[Richard|Riccardo]], starete con noi? |
-| [[Richard|RICCARDO]] DI [[Gloucester|GLOUCESTER]] | Sì, a dispetto di tutti quelli che vi si opporranno. |
-| [[King|RE]] EDOARDO | Ecco, così. Allora sono certo della vittoria.<br>Ora, dunque, andiamo di qui e non perdiamo un’ora<br>finché non incontriamo Warwick con la sua forza straniera. Escono |
+| [[Hastings\|HASTINGS]] | E [[Hastings]] come egli favorisce la causa d’Edoardo. |
+| [[King\|RE]] EDOARDO | Ora, fratello [[Richard\|Riccardo]], starete con noi? |
+| [[Richard\|RICCARDO]] DI [[Gloucester\|GLOUCESTER]] | Sì, a dispetto di tutti quelli che vi si opporranno. |
+| [[King\|RE]] EDOARDO | Ecco, così. Allora sono certo della vittoria.<br>Ora, dunque, andiamo di qui e non perdiamo un’ora<br>finché non incontriamo Warwick con la sua forza straniera. Escono |
 
 
 
@@ -2824,11 +2824,11 @@ The True [[Tragedy]] of [[Richard]] [[Duke of York]] and the Good [[King]] Henry
 | Chi parla | Battuta |
 |---|---|
 | *(didascalia)* | Entrano i conti di Warwick e di [[Oxford]] in Inghilterra, con soldati francesi |
-| WARWICK | Credetemi, mio signore, tutto finora va [[Well|bene]].<br>La gente comune sciama a noi a schiere. |
+| WARWICK | Credetemi, mio signore, tutto finora va [[Well\|bene]].<br>La gente comune sciama a noi a schiere. |
 | *(didascalia)* | Entrano i duchi di [[Clarence]] e di Somerset |
 | WARWICK | Ma guardate dove vengono Somerset e [[Clarence]].<br>Parlate subito, signori, siamo tutti amici ? |
-| GIORGIO DI [[Clarence|CLARENCE]] | Non [[Fear|temete]] di ciò, mio signore. |
-| WARWICK | Allora, gentile [[Clarence]], benvenuto presso Warwick—<br>e benvenuto, Somerset. Tengo per codardia<br>restar diffidente là dove un nobile cuore<br>ha impegnato una mano aperta in segno d’[[Love|amore]],<br>altrimenti potrei pensare che [[Clarence]], fratello d’Edoardo,<br>fosse solo un finto amico dei nostri disegni.<br>Ma vieni, dolce [[Clarence]], mia figlia sarà tua.<br>E ora che resta se non che, sotto la copertura della [[Night|notte]],<br>essendo tuo fratello accampato senza cautela,<br>i suoi soldati sparsi nelle città d’intorno,<br>e assistito solo da una semplice guardia,<br>possiamo sorprenderlo e prenderlo a nostro piacere?<br>I nostri esploratori han trovato l’impresa molto facile;<br>sì che, come [[Ulysses|Ulisse]] e il gagliardo Diomede<br>con astuzia e valore s’insinuarono nelle tende di Reso<br>e ne portarono via i fatali destrieri di Tracia,<br>così noi, [[Well|ben]] coperti dal nero mantello della [[Night|notte]],<br>possiamo all’improvviso abbattere la guardia d’Edoardo<br>e afferrare lui stesso—non dico ‘trucidarlo’,<br>ché intendo soltanto sorprenderlo.<br>Voi che volete seguirmi in questo tentativo,<br>acclamate col vostro capo il nome di Enrico.<br>Tutti gridano ‘Enrico’<br>Ebbene, allora avviamoci in silenzio,<br>per Warwick e i suoi amici, Dio e san Giorgio! |
+| GIORGIO DI [[Clarence\|CLARENCE]] | Non [[Fear\|temete]] di ciò, mio signore. |
+| WARWICK | Allora, gentile [[Clarence]], benvenuto presso Warwick—<br>e benvenuto, Somerset. Tengo per codardia<br>restar diffidente là dove un nobile cuore<br>ha impegnato una mano aperta in segno d’[[Love\|amore]],<br>altrimenti potrei pensare che [[Clarence]], fratello d’Edoardo,<br>fosse solo un finto amico dei nostri disegni.<br>Ma vieni, dolce [[Clarence]], mia figlia sarà tua.<br>E ora che resta se non che, sotto la copertura della [[Night\|notte]],<br>essendo tuo fratello accampato senza cautela,<br>i suoi soldati sparsi nelle città d’intorno,<br>e assistito solo da una semplice guardia,<br>possiamo sorprenderlo e prenderlo a nostro piacere?<br>I nostri esploratori han trovato l’impresa molto facile;<br>sì che, come [[Ulysses\|Ulisse]] e il gagliardo Diomede<br>con astuzia e valore s’insinuarono nelle tende di Reso<br>e ne portarono via i fatali destrieri di Tracia,<br>così noi, [[Well\|ben]] coperti dal nero mantello della [[Night\|notte]],<br>possiamo all’improvviso abbattere la guardia d’Edoardo<br>e afferrare lui stesso—non dico ‘trucidarlo’,<br>ché intendo soltanto sorprenderlo.<br>Voi che volete seguirmi in questo tentativo,<br>acclamate col vostro capo il nome di Enrico.<br>Tutti gridano ‘Enrico’<br>Ebbene, allora avviamoci in silenzio,<br>per Warwick e i suoi amici, Dio e san Giorgio! |
 | *(didascalia)* | Escono |
 
 
@@ -2861,21 +2861,21 @@ The True [[Tragedy]] of [[Richard]] [[Duke of York]] and the Good [[King]] Henry
 
 | Chi parla | Battuta |
 |---|---|
-| *(didascalia)* | Entrano tre Sentinelle, a guardia della tenda di [[King|re]] Edoardo |
-| PRIMA SENTINELLA | Avanti, padroni miei, ognuno prenda il suo posto.<br>Il [[King|re]] a quest’ora s’è coricato a [[Sleep|dormire]]. |
+| *(didascalia)* | Entrano tre Sentinelle, a guardia della tenda di [[King\|re]] Edoardo |
+| PRIMA SENTINELLA | Avanti, padroni miei, ognuno prenda il suo posto.<br>Il [[King\|re]] a quest’ora s’è coricato a [[Sleep\|dormire]]. |
 | SECONDA SENTINELLA | Che, non andrà a letto? |
 | PRIMA SENTINELLA | Ebbene, no—ché ha fatto solenne voto<br>di non coricarsi mai né prendere il suo naturale riposo<br>finché Warwick o egli stesso non sia del tutto abbattuto. |
 | SECONDA SENTINELLA | Domani, allora, sarà probabilmente il giorno,<br>se Warwick è così vicino come si dice. |
-| TERZA SENTINELLA | Ma dite, vi prego, chi è quel gentiluomo<br>che qui riposa col [[King|re]] nella sua tenda? |
-| PRIMA SENTINELLA | È lord [[Hastings]], il maggiore amico del [[King|re]]. |
-| TERZA SENTINELLA | Oh, è così ? Ma perché comanda il [[King|re]]<br>che i suoi principali seguaci alloggino nelle città intorno a lui,<br>mentre egli stesso si tiene nel freddo campo? |
-| SECONDA SENTINELLA | È tanto più [[Honour|onore]], perché più pericoloso. |
-| TERZA SENTINELLA | Sì, ma a me date onore e quiete—<br>li preferisco a un [[Honour|onore]] pericoloso.<br>Se Warwick sapesse in quale stato egli si trova,<br>c’è da dubitare che lo sveglierebbe. |
+| TERZA SENTINELLA | Ma dite, vi prego, chi è quel gentiluomo<br>che qui riposa col [[King\|re]] nella sua tenda? |
+| PRIMA SENTINELLA | È lord [[Hastings]], il maggiore amico del [[King\|re]]. |
+| TERZA SENTINELLA | Oh, è così ? Ma perché comanda il [[King\|re]]<br>che i suoi principali seguaci alloggino nelle città intorno a lui,<br>mentre egli stesso si tiene nel freddo campo? |
+| SECONDA SENTINELLA | È tanto più [[Honour\|onore]], perché più pericoloso. |
+| TERZA SENTINELLA | Sì, ma a me date onore e quiete—<br>li preferisco a un [[Honour\|onore]] pericoloso.<br>Se Warwick sapesse in quale stato egli si trova,<br>c’è da dubitare che lo sveglierebbe. |
 | PRIMA SENTINELLA | A meno che le nostre alabarde non gli chiudessero il passo. |
-| SECONDA SENTINELLA | Sì, e perché altrimenti custodiamo la sua regale tenda<br>se non per difendere la sua persona dai nemici della [[Night|notte]]? |
-| *(didascalia)* | Entrano silenziosamente il [[Earl of Warwick|conte di Warwick]], Giorgio duca di |
+| SECONDA SENTINELLA | Sì, e perché altrimenti custodiamo la sua regale tenda<br>se non per difendere la sua persona dai nemici della [[Night\|notte]]? |
+| *(didascalia)* | Entrano silenziosamente il [[Earl of Warwick\|conte di Warwick]], Giorgio duca di |
 | SECONDA SENTINELLA | [[Clarence]], il conte di [[Oxford]], e il duca di<br><br>Somerset, con soldati francesi |
-| WARWICK | Questa è la sua tenda—e guardate dove sta la sua guardia.<br>[[Courage|Coraggio]], padroni miei—[[Honour|onore]] ora o mai più!<br>Seguitemi soltanto, ed Edoardo sarà nostro. |
+| WARWICK | Questa è la sua tenda—e guardate dove sta la sua guardia.<br>[[Courage\|Coraggio]], padroni miei—[[Honour\|onore]] ora o mai più!<br>Seguitemi soltanto, ed Edoardo sarà nostro. |
 | PRIMA SENTINELLA | Chi va là? |
 | SECONDA SENTINELLA | Fermo o muori.<br>Warwick e gli altri gridano tutti ‘Warwick, Warwick!’<br><br>e assalgono la guardia, che fugge, gridando ‘All’armi, all’armi!’<br><br>Warwick e gli altri li seguono |
 
@@ -2903,17 +2903,17 @@ The True [[Tragedy]] of [[Richard]] [[Duke of York]] and the Good [[King]] Henry
 
 | Chi parla | Battuta |
 |---|---|
-| *(didascalia)* | Col tamburino che suona e il trombettiere che squilla, entrano il [[Earl of Warwick|conte di Warwick]], il duca di Somerset, e gli altri, portando fuori [[King|re]] Edoardo in veste da camera, seduto su una sedia. [[Richard|Riccardo]] [[Duke of Gloucester|duca di Gloucester]] e lord [[Hastings]] fuggono attraverso la scena |
+| *(didascalia)* | Col tamburino che suona e il trombettiere che squilla, entrano il [[Earl of Warwick\|conte di Warwick]], il duca di Somerset, e gli altri, portando fuori [[King\|re]] Edoardo in veste da camera, seduto su una sedia. [[Richard\|Riccardo]] [[Duke of Gloucester\|duca di Gloucester]] e lord [[Hastings]] fuggono attraverso la scena |
 | SOMERSET | Chi sono quelli che fuggono là? |
-| WARWICK | [[Richard|Riccardo]] e [[Hastings]]—lasciateli andare. Ecco il duca. |
-| [[King|RE]] EDOARDO | ‘Il duca’! Ebbene, Warwick, quando ci separammo,<br>tu mi chiamavi [[King|re]]. |
-| WARWICK | Sì, ma il caso è mutato.<br>Quando mi svergognaste nella mia ambasciata,<br>allora io vi degradai dall’esser [[King|re]],<br>e vengo ora a crearvi [[Duke of York|duca di York]].<br>Ahimè, come potreste governare un qualsiasi regno,<br>voi che non sapete come usare gli ambasciatori,<br>né come contentarvi d’una sola moglie,<br>né come trattare fraternamente i vostri fratelli,<br>né come studiare il bene del popolo,<br>né come guardarvi dai nemici? |
-| [[King|RE]] EDOARDO | (vedendo Giorgio)<br>Ah, fratello di [[Clarence]], sei anche tu qui?<br>Ebbene, allora vedo che Edoardo deve cadere.<br>Tuttavia, Warwick, a dispetto d’ogni sventura,<br>di te stesso e di tutti i tuoi complici,<br>Edoardo si porterà sempre come [[King|re]].<br>Sebbene la malizia della fortuna abbatta il mio stato,<br>il mio animo eccede il giro della sua [[Wheel|ruota]]. |
-| WARWICK | Allora, per il suo animo, sia Edoardo [[King|re]] d’Inghilterra.<br>Warwick toglie la [[Crown|corona]] a Edoardo<br>Ma Enrico ora porterà la [[Crown|corona]] inglese,<br>e sarà vero [[King|re]] in effetti, tu soltanto l’[[Shadow|ombra]].<br>Mio signore di Somerset, a mia richiesta,<br>fate che, senza indugio, il duca Edoardo sia condotto<br>presso mio fratello, arcivescovo di York.<br>Quando avrò combattuto con Pembroke e i suoi compagni,<br>vi seguirò, e dirò quale risposta<br>Luigi e madama Bona gli mandano.<br>Ora per un poco addio, buon [[Duke of York|duca di York]].<br>Cominciano a condurre fuori Edoardo con la forza |
-| [[King|RE]] EDOARDO | Ciò che i fati impongono, gli uomini devono sopportarlo.<br>Non giova resistere a [[Wind|vento]] e marea insieme. |
+| WARWICK | [[Richard\|Riccardo]] e [[Hastings]]—lasciateli andare. Ecco il duca. |
+| [[King\|RE]] EDOARDO | ‘Il duca’! Ebbene, Warwick, quando ci separammo,<br>tu mi chiamavi [[King\|re]]. |
+| WARWICK | Sì, ma il caso è mutato.<br>Quando mi svergognaste nella mia ambasciata,<br>allora io vi degradai dall’esser [[King\|re]],<br>e vengo ora a crearvi [[Duke of York\|duca di York]].<br>Ahimè, come potreste governare un qualsiasi regno,<br>voi che non sapete come usare gli ambasciatori,<br>né come contentarvi d’una sola moglie,<br>né come trattare fraternamente i vostri fratelli,<br>né come studiare il bene del popolo,<br>né come guardarvi dai nemici? |
+| [[King\|RE]] EDOARDO | (vedendo Giorgio)<br>Ah, fratello di [[Clarence]], sei anche tu qui?<br>Ebbene, allora vedo che Edoardo deve cadere.<br>Tuttavia, Warwick, a dispetto d’ogni sventura,<br>di te stesso e di tutti i tuoi complici,<br>Edoardo si porterà sempre come [[King\|re]].<br>Sebbene la malizia della fortuna abbatta il mio stato,<br>il mio animo eccede il giro della sua [[Wheel\|ruota]]. |
+| WARWICK | Allora, per il suo animo, sia Edoardo [[King\|re]] d’Inghilterra.<br>Warwick toglie la [[Crown\|corona]] a Edoardo<br>Ma Enrico ora porterà la [[Crown\|corona]] inglese,<br>e sarà vero [[King\|re]] in effetti, tu soltanto l’[[Shadow\|ombra]].<br>Mio signore di Somerset, a mia richiesta,<br>fate che, senza indugio, il duca Edoardo sia condotto<br>presso mio fratello, arcivescovo di York.<br>Quando avrò combattuto con Pembroke e i suoi compagni,<br>vi seguirò, e dirò quale risposta<br>Luigi e madama Bona gli mandano.<br>Ora per un poco addio, buon [[Duke of York\|duca di York]].<br>Cominciano a condurre fuori Edoardo con la forza |
+| [[King\|RE]] EDOARDO | Ciò che i fati impongono, gli uomini devono sopportarlo.<br>Non giova resistere a [[Wind\|vento]] e marea insieme. |
 | *(didascalia)* | Escono alcuni con Edoardo |
-| [[Oxford|OXFORD]] | Che resta ora, signori, da fare a noi<br>se non marciare su [[London|Londra]] coi nostri soldati? |
-| WARWICK | Sì, è la prima cosa che abbiamo da fare—<br>liberare [[King|re]] Enrico dalla [[Imprisonment|prigionia]]<br>e vederlo insediato sul regale trono. Escono |
+| [[Oxford\|OXFORD]] | Che resta ora, signori, da fare a noi<br>se non marciare su [[London\|Londra]] coi nostri soldati? |
+| WARWICK | Sì, è la prima cosa che abbiamo da fare—<br>liberare [[King\|re]] Enrico dalla [[Imprisonment\|prigionia]]<br>e vederlo insediato sul regale trono. Escono |
 
 
 
@@ -2939,17 +2939,17 @@ The True [[Tragedy]] of [[Richard]] [[Duke of York]] and the Good [[King]] Henry
 
 | Chi parla | Battuta |
 |---|---|
-| *(didascalia)* | Entrano il conte Rivers e sua sorella, madama Gray, [[Queen|regina]] d’Edoardo |
+| *(didascalia)* | Entrano il conte Rivers e sua sorella, madama Gray, [[Queen\|regina]] d’Edoardo |
 | RIVERS | Signora, che vi fa così d’improvviso mutata? |
-| MADAMA GRAY | Ebbene, fratello Rivers, dovete ancora apprendere<br>quale recente sventura è caduta su [[King|re]] Edoardo? |
+| MADAMA GRAY | Ebbene, fratello Rivers, dovete ancora apprendere<br>quale recente sventura è caduta su [[King\|re]] Edoardo? |
 | RIVERS | Che? La perdita di qualche battaglia campale contro Warwick? |
 | MADAMA GRAY | No, ma la perdita della sua stessa regale persona. |
 | RIVERS | Allora il mio sovrano è ucciso? |
 | MADAMA GRAY | Sì, quasi macchiato—ché è preso prigioniero,<br>o tradito dalla falsità della sua guardia<br>o sorpreso alla sprovvista dal suo nemico,<br>e, per quanto ho potuto oltre capire,<br>è ora affidato al vescovo di York,<br>fratello del feroce Warwick, e per ciò nostro nemico. |
 | RIVERS | Queste nuove, devo confessarlo, sono piene di dolore.<br>Tuttavia, graziosa signora, sopportatelo come potete.<br>Warwick può perdere, lui che ora ha vinto la giornata. |
-| MADAMA GRAY | Fino allora la bella [[Hope|speranza]] deve impedire il [[Decay|disfacimento]] della vita,<br>e tanto più mi svezzo dalla [[Despair|disperazione]]<br>per [[Love|amore]] della prole d’Edoardo nel mio ventre.<br>È questo che mi fa frenare la passione<br>e portare con mitezza la [[Cross|croce]] della mia sventura.<br>Sì, sì, per questo ricaccio dentro più d’una lacrima<br>e arresto il salire di sospiri che succhiano il [[Blood|sangue]],<br>perché coi miei sospiri o con le mie [[Tears|lacrime]] non arda o non anneghi<br>il frutto di [[King|re]] Edoardo, vero erede della [[Crown|corona]] d’Inghilterra. |
+| MADAMA GRAY | Fino allora la bella [[Hope\|speranza]] deve impedire il [[Decay\|disfacimento]] della vita,<br>e tanto più mi svezzo dalla [[Despair\|disperazione]]<br>per [[Love\|amore]] della prole d’Edoardo nel mio ventre.<br>È questo che mi fa frenare la passione<br>e portare con mitezza la [[Cross\|croce]] della mia sventura.<br>Sì, sì, per questo ricaccio dentro più d’una lacrima<br>e arresto il salire di sospiri che succhiano il [[Blood\|sangue]],<br>perché coi miei sospiri o con le mie [[Tears\|lacrime]] non arda o non anneghi<br>il frutto di [[King\|re]] Edoardo, vero erede della [[Crown\|corona]] d’Inghilterra. |
 | RIVERS | Ma, signora, dov’è Warwick andato allora? |
-| MADAMA GRAY | Sono informata che viene verso [[London|Londra]]<br>per porre ancora una volta la [[Crown|corona]] sul capo di Enrico.<br>Indovina il resto—gli amici di [[King|re]] Edoardo devono cadere.<br>Ma per prevenire la violenza del [[Tyrant|tiranno]]—<br>ché non fidarti di chi ha già una volta rotto la [[Faith|fede]]—<br>me n’andrò subito di qui al santuario,<br>per salvare almeno l’erede del diritto d’Edoardo.<br>Là starò al sicuro da forza e da frode.<br>Vieni, dunque, fuggiamo mentre possiamo fuggire.<br>Se Warwick ci prende, siamo certi di morire. Escono |
+| MADAMA GRAY | Sono informata che viene verso [[London\|Londra]]<br>per porre ancora una volta la [[Crown\|corona]] sul capo di Enrico.<br>Indovina il resto—gli amici di [[King\|re]] Edoardo devono cadere.<br>Ma per prevenire la violenza del [[Tyrant\|tiranno]]—<br>ché non fidarti di chi ha già una volta rotto la [[Faith\|fede]]—<br>me n’andrò subito di qui al santuario,<br>per salvare almeno l’erede del diritto d’Edoardo.<br>Là starò al sicuro da forza e da frode.<br>Vieni, dunque, fuggiamo mentre possiamo fuggire.<br>Se Warwick ci prende, siamo certi di morire. Escono |
 
 
 
@@ -2980,22 +2980,22 @@ The True [[Tragedy]] of [[Richard]] [[Duke of York]] and the Good [[King]] Henry
 
 | Chi parla | Battuta |
 |---|---|
-| *(didascalia)* | Entrano [[Richard|Riccardo]] [[Duke of Gloucester|duca di Gloucester]], lord [[Hastings]], e sir William Stanley, con soldati |
-| [[Richard|RICCARDO]] DI [[Gloucester|GLOUCESTER]] | Ora, mio lord [[Hastings]] e sir William Stanley,<br>cessate di [[Wonder|meravigliarvi]] perché v’ho condotti qui<br>in questo folto più profondo del parco.<br>Il caso sta così: sapete che il nostro [[King|re]], mio fratello,<br>è prigioniero del vescovo qui, dalle cui mani<br>riceve buon trattamento e grande libertà,<br>e, spesso accompagnato da debole scorta,<br>viene a caccia per questa via a diportarsi.<br>L’ho avvertito per segrete vie<br>che se verso quest’ora prende questa strada<br>sotto il pretesto della sua caccia usuale,<br>troverà qui i suoi amici con [[Horse|cavalli]] e uomini<br>per liberarlo dalla sua cattività. |
-| *(didascalia)* | Entrano [[King|re]] Edoardo e con lui un Cacciatore |
+| *(didascalia)* | Entrano [[Richard\|Riccardo]] [[Duke of Gloucester\|duca di Gloucester]], lord [[Hastings]], e sir William Stanley, con soldati |
+| [[Richard\|RICCARDO]] DI [[Gloucester\|GLOUCESTER]] | Ora, mio lord [[Hastings]] e sir William Stanley,<br>cessate di [[Wonder\|meravigliarvi]] perché v’ho condotti qui<br>in questo folto più profondo del parco.<br>Il caso sta così: sapete che il nostro [[King\|re]], mio fratello,<br>è prigioniero del vescovo qui, dalle cui mani<br>riceve buon trattamento e grande libertà,<br>e, spesso accompagnato da debole scorta,<br>viene a caccia per questa via a diportarsi.<br>L’ho avvertito per segrete vie<br>che se verso quest’ora prende questa strada<br>sotto il pretesto della sua caccia usuale,<br>troverà qui i suoi amici con [[Horse\|cavalli]] e uomini<br>per liberarlo dalla sua cattività. |
+| *(didascalia)* | Entrano [[King\|re]] Edoardo e con lui un Cacciatore |
 | CACCIATORE | Per qui, mio signore—ché per qui sta la selvaggina. |
-| [[King|RE]] EDOARDO | No, per qui, uomo—guarda dove stanno i cacciatori.<br>Ora, fratello di [[Gloucester]], lord [[Hastings]], e voi<br>altri,<br>state così appostati per rubare i cervi del vescovo? |
-| [[Richard|RICCARDO]] DI [[Gloucester|GLOUCESTER]] | Fratello, il [[Time|tempo]] e il caso richiedono fretta.<br>Il vostro [[Horse|cavallo]] è pronto all’angolo del parco. |
-| [[King|RE]] EDOARDO | Ma dove andremo poi? |
-| [[Hastings|HASTINGS]] | A Lynn, mio signore,<br>e di là imbarcati per le Fiandre. |
-| *(didascalia)* | [[Richard|RICCARDO]] DI [[Gloucester|GLOUCESTER]] a parte |
-| [[Hastings|HASTINGS]] | [[Well|Bene]] indovinato, credetemi—ché era proprio il mio pensiero. |
-| [[King|RE]] EDOARDO | Stanley, ricompenserò la tua premura. |
-| [[Richard|RICCARDO]] DI [[Gloucester|GLOUCESTER]] | Ma perché indugiamo? Non è [[Time|tempo]] di parlare. |
-| [[King|RE]] EDOARDO | Cacciatore, che dici tu? Vuoi venire con noi? |
+| [[King\|RE]] EDOARDO | No, per qui, uomo—guarda dove stanno i cacciatori.<br>Ora, fratello di [[Gloucester]], lord [[Hastings]], e voi<br>altri,<br>state così appostati per rubare i cervi del vescovo? |
+| [[Richard\|RICCARDO]] DI [[Gloucester\|GLOUCESTER]] | Fratello, il [[Time\|tempo]] e il caso richiedono fretta.<br>Il vostro [[Horse\|cavallo]] è pronto all’angolo del parco. |
+| [[King\|RE]] EDOARDO | Ma dove andremo poi? |
+| [[Hastings\|HASTINGS]] | A Lynn, mio signore,<br>e di là imbarcati per le Fiandre. |
+| *(didascalia)* | [[Richard\|RICCARDO]] DI [[Gloucester\|GLOUCESTER]] a parte |
+| [[Hastings\|HASTINGS]] | [[Well\|Bene]] indovinato, credetemi—ché era proprio il mio pensiero. |
+| [[King\|RE]] EDOARDO | Stanley, ricompenserò la tua premura. |
+| [[Richard\|RICCARDO]] DI [[Gloucester\|GLOUCESTER]] | Ma perché indugiamo? Non è [[Time\|tempo]] di parlare. |
+| [[King\|RE]] EDOARDO | Cacciatore, che dici tu? Vuoi venire con noi? |
 | CACCIATORE | Meglio farlo che restare ed essere impiccato. |
-| [[Richard|RICCARDO]] DI [[Gloucester|GLOUCESTER]] | Vieni allora, via—non facciamo più indugi. |
-| [[King|RE]] EDOARDO | Vescovo, addio—guàrdati dal cipiglio di Warwick,<br>e prega ch’io possa riavere la [[Crown|corona]]. Escono |
+| [[Richard\|RICCARDO]] DI [[Gloucester\|GLOUCESTER]] | Vieni allora, via—non facciamo più indugi. |
+| [[King\|RE]] EDOARDO | Vescovo, addio—guàrdati dal cipiglio di Warwick,<br>e prega ch’io possa riavere la [[Crown\|corona]]. Escono |
 
 
 
@@ -3038,33 +3038,33 @@ The True [[Tragedy]] of [[Richard]] [[Duke of York]] and the Good [[King]] Henry
 
 | Chi parla | Battuta |
 |---|---|
-| *(didascalia)* | Squilli. Entrano il [[Earl of Warwick|conte di Warwick]] e Giorgio duca di [[Clarence]] con la [[Crown|corona]]. Poi entrano [[King|re]] Enrico, il conte di [[Oxford]], il duca di Somerset col giovane Enrico conte di Richmond, il marchese di Montague, e il Luogotenente della Torre |
-| [[King|RE]] ENRICO | Signor Luogotenente, ora che Dio e gli amici<br>hanno scrollato Edoardo dal seggio regale<br>e volto il mio stato di prigioniero in libertà,<br>il mio [[Fear|timore]] in [[Hope|speranza]], i miei dolori in gioie,<br>alla nostra liberazione quali sono le vostre spettanze? |
-| LUOGOTENENTE | I sudditi non possono esigere nulla dai loro sovrani—<br>ma se un’umile [[prayer|preghiera]] può prevalere,<br>allora chiedo perdono a vostra maestà. |
-| [[King|RE]] ENRICO | Di che, Luogotenente? Per avermi [[Well|ben]] trattato?<br>No, siate certo che ricompenserò [[Well|bene]] la vostra cortesia,<br>ché essa fece della mia prigionia un piacere—<br>sì, tal piacere quale concepiscono gli [[Birds|uccelli]] in gabbia<br>quando, dopo molti pensieri malinconici,<br>alfine, per note d’armonia domestica,<br>dimenticano affatto la loro perduta libertà.<br>Ma, Warwick, dopo Dio, tu mi liberasti,<br>e principalmente perciò ringrazio Dio e te.<br>Egli fu l’autore, tu lo strumento.<br>Perciò, affinché io vinca il dispetto della fortuna<br>vivendo in basso, dove la fortuna non può ferirmi,<br>e affinché il popolo di questa terra benedetta<br>non sia punito per le mie [[Stars|stelle]] avverse,<br>Warwick, sebbene il mio capo porti ancora la [[Crown|corona]],<br>io qui rassegno a te il mio [[government|governo]],<br>ché tu sei fortunato in tutte le tue azioni. |
-| WARWICK | Vostra grazia è sempre stata famosa per virtù,<br>e ora può sembrare tanto saggia quanto virtuosa<br>nello scorgere ed evitare la malizia della fortuna,<br>ché pochi uomini si temperano rettamente con le [[Stars|stelle]].<br>Tuttavia in questa sola cosa lasciate ch’io biasimi vostra grazia:<br>d’aver scelto me quando [[Clarence]] è presente. |
-| GIORGIO DI [[Clarence|CLARENCE]] | No, Warwick, tu sei degno del potere,<br>tu a cui i cieli nella tua nascita<br>assegnarono un ramo d’olivo e una [[Crown|corona]] di lauro,<br>come destinato a esser benedetto in pace e in guerra.<br>E perciò io ti do il mio libero consenso. |
+| *(didascalia)* | Squilli. Entrano il [[Earl of Warwick\|conte di Warwick]] e Giorgio duca di [[Clarence]] con la [[Crown\|corona]]. Poi entrano [[King\|re]] Enrico, il conte di [[Oxford]], il duca di Somerset col giovane Enrico conte di Richmond, il marchese di Montague, e il Luogotenente della Torre |
+| [[King\|RE]] ENRICO | Signor Luogotenente, ora che Dio e gli amici<br>hanno scrollato Edoardo dal seggio regale<br>e volto il mio stato di prigioniero in libertà,<br>il mio [[Fear\|timore]] in [[Hope\|speranza]], i miei dolori in gioie,<br>alla nostra liberazione quali sono le vostre spettanze? |
+| LUOGOTENENTE | I sudditi non possono esigere nulla dai loro sovrani—<br>ma se un’umile [[prayer\|preghiera]] può prevalere,<br>allora chiedo perdono a vostra maestà. |
+| [[King\|RE]] ENRICO | Di che, Luogotenente? Per avermi [[Well\|ben]] trattato?<br>No, siate certo che ricompenserò [[Well\|bene]] la vostra cortesia,<br>ché essa fece della mia prigionia un piacere—<br>sì, tal piacere quale concepiscono gli [[Birds\|uccelli]] in gabbia<br>quando, dopo molti pensieri malinconici,<br>alfine, per note d’armonia domestica,<br>dimenticano affatto la loro perduta libertà.<br>Ma, Warwick, dopo Dio, tu mi liberasti,<br>e principalmente perciò ringrazio Dio e te.<br>Egli fu l’autore, tu lo strumento.<br>Perciò, affinché io vinca il dispetto della fortuna<br>vivendo in basso, dove la fortuna non può ferirmi,<br>e affinché il popolo di questa terra benedetta<br>non sia punito per le mie [[Stars\|stelle]] avverse,<br>Warwick, sebbene il mio capo porti ancora la [[Crown\|corona]],<br>io qui rassegno a te il mio [[government\|governo]],<br>ché tu sei fortunato in tutte le tue azioni. |
+| WARWICK | Vostra grazia è sempre stata famosa per virtù,<br>e ora può sembrare tanto saggia quanto virtuosa<br>nello scorgere ed evitare la malizia della fortuna,<br>ché pochi uomini si temperano rettamente con le [[Stars\|stelle]].<br>Tuttavia in questa sola cosa lasciate ch’io biasimi vostra grazia:<br>d’aver scelto me quando [[Clarence]] è presente. |
+| GIORGIO DI [[Clarence\|CLARENCE]] | No, Warwick, tu sei degno del potere,<br>tu a cui i cieli nella tua nascita<br>assegnarono un ramo d’olivo e una [[Crown\|corona]] di lauro,<br>come destinato a esser benedetto in pace e in guerra.<br>E perciò io ti do il mio libero consenso. |
 | WARWICK | E io scelgo [[Clarence]] come solo Protettore. |
-| [[King|RE]] ENRICO | Warwick e [[Clarence]], datemi entrambi le vostre mani.<br>Ora unite le vostre mani, e con le mani i vostri<br>cuori,<br>sì che nessuna discordia impedisca il [[government|governo]].<br>Vi faccio entrambi Protettori di questa terra,<br>mentre io stesso condurrò vita privata<br>e in devozione spenderò i miei ultimi giorni,<br>a rimprovero del peccato e a lode del mio creatore. |
+| [[King\|RE]] ENRICO | Warwick e [[Clarence]], datemi entrambi le vostre mani.<br>Ora unite le vostre mani, e con le mani i vostri<br>cuori,<br>sì che nessuna discordia impedisca il [[government\|governo]].<br>Vi faccio entrambi Protettori di questa terra,<br>mentre io stesso condurrò vita privata<br>e in devozione spenderò i miei ultimi giorni,<br>a rimprovero del peccato e a lode del mio creatore. |
 | WARWICK | Che risponde [[Clarence]] alla volontà del suo sovrano? |
-| GIORGIO DI [[Clarence|CLARENCE]] | Che consente, se Warwick dà consenso,<br>ché sulla tua fortuna io mi riposo. |
-| WARWICK | Ebbene, allora, sebbene a contraggenio, devo essere contento.<br>Ci aggiogheremo insieme, come [[Double|doppia]] [[Shadow|ombra]]<br>al [[Body|corpo]] di Enrico, e ne terremo il luogo—<br>intendo nel portare il peso del [[government|governo]]—<br>mentre egli goda l’[[Honour|onore]] e il suo agio.<br>E, [[Clarence]], ora è più che necessario<br>che senza indugio Edoardo sia dichiarato traditore,<br>e tutte le sue terre e i suoi beni confiscati. |
-| GIORGIO DI [[Clarence|CLARENCE]] | Che altro? E che la successione sia stabilita. |
+| GIORGIO DI [[Clarence\|CLARENCE]] | Che consente, se Warwick dà consenso,<br>ché sulla tua fortuna io mi riposo. |
+| WARWICK | Ebbene, allora, sebbene a contraggenio, devo essere contento.<br>Ci aggiogheremo insieme, come [[Double\|doppia]] [[Shadow\|ombra]]<br>al [[Body\|corpo]] di Enrico, e ne terremo il luogo—<br>intendo nel portare il peso del [[government\|governo]]—<br>mentre egli goda l’[[Honour\|onore]] e il suo agio.<br>E, [[Clarence]], ora è più che necessario<br>che senza indugio Edoardo sia dichiarato traditore,<br>e tutte le sue terre e i suoi beni confiscati. |
+| GIORGIO DI [[Clarence\|CLARENCE]] | Che altro? E che la successione sia stabilita. |
 | WARWICK | Sì, e in questo [[Clarence]] non mancherà della sua parte. |
-| [[King|RE]] ENRICO | Ma fra i primi di tutti i vostri principali affari,<br>lasciate ch’io supplichi—ché non comando più—<br>che Margherita vostra [[Queen|regina]] e mio figlio Edoardo<br>siano mandati a chiamare, per tornare dalla Francia in [[Speed|fretta]].<br>Ché, finché non li vedo qui, per dubbioso [[Fear|timore]]<br>la mia gioia della libertà è mezzo eclissata. |
-| GIORGIO DI [[Clarence|CLARENCE]] | Sarà fatto, mio sovrano, con ogni [[Speed|prestezza]]. |
-| [[King|RE]] ENRICO | Mio signore di Somerset, chi è quel giovane<br>di cui sembrate avere così tenera cura? |
-| SOMERSET | Mio sire, è il giovane Enrico, [[Earl of Richmond|conte di Richmond]]. |
-| [[King|RE]] ENRICO | Vieni qua, [[Hope|speranza]] d’Inghilterra.<br>[[King|Re]] Enrico posa la mano sul capo di Richmond Se potenze segrete<br>suggeriscono [[Truth|verità]] ai miei pensieri divinatori,<br>questo bel fanciullo sarà la felicità del nostro paese.<br>Il suo aspetto è pieno di pacifica maestà,<br>il suo capo dalla [[Nature|natura]] foggiato a portare una [[Crown|corona]],<br>la sua mano a reggere uno scettro, ed egli stesso<br>destinato col [[Time|tempo]] a benedire un trono regale.<br>Tenetelo caro, signori, ché questi è colui<br>che dovrà aiutarvi più di quanto io v’abbia nuociuto. |
+| [[King\|RE]] ENRICO | Ma fra i primi di tutti i vostri principali affari,<br>lasciate ch’io supplichi—ché non comando più—<br>che Margherita vostra [[Queen\|regina]] e mio figlio Edoardo<br>siano mandati a chiamare, per tornare dalla Francia in [[Speed\|fretta]].<br>Ché, finché non li vedo qui, per dubbioso [[Fear\|timore]]<br>la mia gioia della libertà è mezzo eclissata. |
+| GIORGIO DI [[Clarence\|CLARENCE]] | Sarà fatto, mio sovrano, con ogni [[Speed\|prestezza]]. |
+| [[King\|RE]] ENRICO | Mio signore di Somerset, chi è quel giovane<br>di cui sembrate avere così tenera cura? |
+| SOMERSET | Mio sire, è il giovane Enrico, [[Earl of Richmond\|conte di Richmond]]. |
+| [[King\|RE]] ENRICO | Vieni qua, [[Hope\|speranza]] d’Inghilterra.<br>[[King\|Re]] Enrico posa la mano sul capo di Richmond Se potenze segrete<br>suggeriscono [[Truth\|verità]] ai miei pensieri divinatori,<br>questo bel fanciullo sarà la felicità del nostro paese.<br>Il suo aspetto è pieno di pacifica maestà,<br>il suo capo dalla [[Nature\|natura]] foggiato a portare una [[Crown\|corona]],<br>la sua mano a reggere uno scettro, ed egli stesso<br>destinato col [[Time\|tempo]] a benedire un trono regale.<br>Tenetelo caro, signori, ché questi è colui<br>che dovrà aiutarvi più di quanto io v’abbia nuociuto. |
 | *(didascalia)* | Entra un Corriere |
 | WARWICK | Che nuove, amico mio? |
 | CORRIERE | Che Edoardo è fuggito da vostro fratello<br>e scappato, come poi ha udito, in Borgogna. |
 | WARWICK | Nuove ingrate—ma come fece a fuggire ? |
-| CORRIERE | Fu condotto via da [[Richard|Riccardo]] [[Duke of Gloucester|duca di Gloucester]]<br>e da lord [[Hastings]], che l’attendevano<br>in segreto agguato al margine della foresta<br>e lo strapparono ai cacciatori del vescovo—<br>ché la caccia era il suo esercizio quotidiano. |
-| WARWICK | Mio fratello fu troppo negligente della sua custodia.<br>(A [[King|re]] Enrico) Ma andiamo di qui, mio sovrano, a<br>provvedere<br>un unguento per qualunque piaga possa sopravvenire. |
+| CORRIERE | Fu condotto via da [[Richard\|Riccardo]] [[Duke of Gloucester\|duca di Gloucester]]<br>e da lord [[Hastings]], che l’attendevano<br>in segreto agguato al margine della foresta<br>e lo strapparono ai cacciatori del vescovo—<br>ché la caccia era il suo esercizio quotidiano. |
+| WARWICK | Mio fratello fu troppo negligente della sua custodia.<br>(A [[King\|re]] Enrico) Ma andiamo di qui, mio sovrano, a<br>provvedere<br>un unguento per qualunque piaga possa sopravvenire. |
 | *(didascalia)* | Escono tutti tranne Somerset, Richmond e [[Oxford]] |
-| SOMERSET | (a [[Oxford]])<br>Mio signore, non mi piace questa fuga d’Edoardo,<br>ché senza dubbio la Borgogna gli darà aiuto,<br>e avremo altre guerre prima che passi molto.<br>Come la profezia presaga poc’anzi di Enrico<br>rallegrò il mio cuore con la [[Hope|speranza]] di questo giovane Richmond,<br>così il mio cuore mi presagisce male, in questi conflitti,<br>di ciò che può accadergli, a suo danno e nostro.<br>Perciò, lord [[Oxford]], per prevenire il peggio,<br>senza indugio lo manderemo di qui in Bretagna,<br>finché non siano passate le tempeste dell’inimicizia civile. |
-| [[Oxford|OXFORD]] | Sì, ché se Edoardo riprende la [[Crown|corona]],<br>è probabile che Richmond con gli altri cada. |
+| SOMERSET | (a [[Oxford]])<br>Mio signore, non mi piace questa fuga d’Edoardo,<br>ché senza dubbio la Borgogna gli darà aiuto,<br>e avremo altre guerre prima che passi molto.<br>Come la profezia presaga poc’anzi di Enrico<br>rallegrò il mio cuore con la [[Hope\|speranza]] di questo giovane Richmond,<br>così il mio cuore mi presagisce male, in questi conflitti,<br>di ciò che può accadergli, a suo danno e nostro.<br>Perciò, lord [[Oxford]], per prevenire il peggio,<br>senza indugio lo manderemo di qui in Bretagna,<br>finché non siano passate le tempeste dell’inimicizia civile. |
+| [[Oxford\|OXFORD]] | Sì, ché se Edoardo riprende la [[Crown\|corona]],<br>è probabile che Richmond con gli altri cada. |
 | SOMERSET | Sarà così—andrà in Bretagna.<br>Venite, dunque, mettiamoci all’opera in fretta. Escono |
 
 
@@ -3119,44 +3119,44 @@ The True [[Tragedy]] of [[Richard]] [[Duke of York]] and the Good [[King]] Henry
 
 | Chi parla | Battuta |
 |---|---|
-| *(didascalia)* | Squilli. Entrano [[King|re]] Edoardo, [[Richard|Riccardo]] [[Duke of Gloucester|duca di Gloucester]], e lord [[Hastings]], con una schiera di Olandesi |
-| [[King|RE]] EDOARDO | Ora, fratello [[Richard|Riccardo]], lord [[Hastings]], e voi altri,<br>fin qui la fortuna ci risarcisce,<br>e dice che ancora una volta baratterò<br>il mio stato scemato con la regale [[Crown|corona]] di Enrico.<br>[[Well|Bene]] abbiamo varcato e ora rivarcato i mari<br>e portato il desiderato aiuto dalla Borgogna.<br>Che resta dunque, essendo così arrivati<br>dal porto di Ravenspurgh davanti alle porte di York,<br>se non che entriamo, come nel nostro ducato ? |
+| *(didascalia)* | Squilli. Entrano [[King\|re]] Edoardo, [[Richard\|Riccardo]] [[Duke of Gloucester\|duca di Gloucester]], e lord [[Hastings]], con una schiera di Olandesi |
+| [[King\|RE]] EDOARDO | Ora, fratello [[Richard\|Riccardo]], lord [[Hastings]], e voi altri,<br>fin qui la fortuna ci risarcisce,<br>e dice che ancora una volta baratterò<br>il mio stato scemato con la regale [[Crown\|corona]] di Enrico.<br>[[Well\|Bene]] abbiamo varcato e ora rivarcato i mari<br>e portato il desiderato aiuto dalla Borgogna.<br>Che resta dunque, essendo così arrivati<br>dal porto di Ravenspurgh davanti alle porte di York,<br>se non che entriamo, come nel nostro ducato ? |
 | *(didascalia)* | [[Hastings]] batte alle porte di York |
-| [[Richard|RICCARDO]] DI [[Gloucester|GLOUCESTER]] | Le porte serrate? Fratello, questo non mi piace.<br>Ché a molti uomini che inciampano sulla soglia<br>è [[Well|ben]] predetto che il pericolo s’annida dentro. |
-| [[King|RE]] EDOARDO | Bah, uomo, i presagi non devono ora spaventarci.<br>Con mezzi buoni o cattivi dobbiamo entrare,<br>ché qui i nostri amici verranno a raggiungerci. |
-| [[Hastings|HASTINGS]] | Mio sire, batterò ancora una volta per chiamarli.<br>Batte. Entrano, sulle mura, il Sindaco e gli assessori di York |
+| [[Richard\|RICCARDO]] DI [[Gloucester\|GLOUCESTER]] | Le porte serrate? Fratello, questo non mi piace.<br>Ché a molti uomini che inciampano sulla soglia<br>è [[Well\|ben]] predetto che il pericolo s’annida dentro. |
+| [[King\|RE]] EDOARDO | Bah, uomo, i presagi non devono ora spaventarci.<br>Con mezzi buoni o cattivi dobbiamo entrare,<br>ché qui i nostri amici verranno a raggiungerci. |
+| [[Hastings\|HASTINGS]] | Mio sire, batterò ancora una volta per chiamarli.<br>Batte. Entrano, sulle mura, il Sindaco e gli assessori di York |
 | SINDACO | Signori, fummo avvertiti del vostro arrivo,<br>e chiudemmo le porte per la sicurezza di noi stessi—<br>ché ora dobbiamo fedeltà a Enrico. |
-| [[King|RE]] EDOARDO | Ma, signor Sindaco, se Enrico è il vostro [[King|re]],<br>Edoardo è almeno [[Duke of York|duca di York]]. |
+| [[King\|RE]] EDOARDO | Ma, signor Sindaco, se Enrico è il vostro [[King\|re]],<br>Edoardo è almeno [[Duke of York\|duca di York]]. |
 | SINDACO | Vero, mio buon signore, non vi conosco per meno. |
-| [[King|RE]] EDOARDO | Ebbene, e io non rivendico altro che il mio ducato,<br>essendo [[Well|ben]] contento di quello [[Alone|solo]]. |
-| [[Richard|RICCARDO]] DI [[Gloucester|GLOUCESTER]] | (a parte)<br>Ma quando la volpe ha una volta cacciato dentro il naso,<br>trova presto il modo di far seguire il [[Body|corpo]]. |
-| [[Hastings|HASTINGS]] | Ebbene, signor Sindaco, perché state in [[Doubt|dubbio]]?<br>Aprite le porte—siamo amici di [[King|re]] Enrico. |
+| [[King\|RE]] EDOARDO | Ebbene, e io non rivendico altro che il mio ducato,<br>essendo [[Well\|ben]] contento di quello [[Alone\|solo]]. |
+| [[Richard\|RICCARDO]] DI [[Gloucester\|GLOUCESTER]] | (a parte)<br>Ma quando la volpe ha una volta cacciato dentro il naso,<br>trova presto il modo di far seguire il [[Body\|corpo]]. |
+| [[Hastings\|HASTINGS]] | Ebbene, signor Sindaco, perché state in [[Doubt\|dubbio]]?<br>Aprite le porte—siamo amici di [[King\|re]] Enrico. |
 | SINDACO | Ah, dite così? Allora le porte saranno aperte.<br>Scendono |
-| [[Richard|RICCARDO]] DI [[Gloucester|GLOUCESTER]] | Un capitano saggio e gagliardo, e presto persuaso. |
-| [[Hastings|HASTINGS]] | Il buon vecchio vorrebbe che tutto andasse [[Well|bene]],<br>purché non dipendesse da lui; ma una volta entrati,<br>non [[Doubt|dubito]], io, che presto persuaderemo<br>lui e tutti i suoi confratelli alla ragione. |
+| [[Richard\|RICCARDO]] DI [[Gloucester\|GLOUCESTER]] | Un capitano saggio e gagliardo, e presto persuaso. |
+| [[Hastings\|HASTINGS]] | Il buon vecchio vorrebbe che tutto andasse [[Well\|bene]],<br>purché non dipendesse da lui; ma una volta entrati,<br>non [[Doubt\|dubito]], io, che presto persuaderemo<br>lui e tutti i suoi confratelli alla ragione. |
 | *(didascalia)* | Entrano in basso il Sindaco e due assessori |
-| [[King|RE]] EDOARDO | Così, signor Sindaco, queste porte non devono esser chiuse<br>se non di [[Night|notte]] o in [[Time|tempo]] di guerra.<br>Che—non [[Fear|temete]], uomo, ma consegnatemi le chiavi,<br>[[King|Re]] Edoardo prende alcune chiavi dal Sindaco<br>ché Edoardo difenderà la città e voi,<br>e tutti quegli amici che si degnano di seguirmi.<br>Marcia. Entra sir John Montgomery con un tamburino e soldati |
-| [[Richard|RICCARDO]] DI [[Gloucester|GLOUCESTER]] | Fratello, questi è sir John Montgomery,<br>nostro fidato amico, se non m’inganno. |
-| [[King|RE]] EDOARDO | Benvenuto, sir John—ma perché venite in armi? |
-| MONTGOMERY | Per aiutare [[King|re]] Edoardo nel suo [[Time|tempo]] di [[Storm|tempesta]],<br>come ogni leale suddito deve fare. |
-| [[King|RE]] EDOARDO | Grazie, buon Montgomery, ma noi ora dimentichiamo<br>il nostro titolo alla [[Crown|corona]], e reclamiamo soltanto<br>il nostro ducato, finché a Dio piaccia mandare il resto. |
-| MONTGOMERY | Allora state [[Well|bene]], ché io tornerò indietro.<br>Venni a servire un [[King|re]] e non un duca.<br>Tamburino, batti, e marciamo via. 50<br>Il tamburino comincia a battere una marcia |
-| [[King|RE]] EDOARDO | No, restate, sir John, un poco, e [[debate|discuteremo]]<br>con quali mezzi sicuri la [[Crown|corona]] possa esser riconquistata. |
-| MONTGOMERY | Che parlate di discutere? In poche parole,<br>se non vi proclamate qui nostro [[King|re]],<br>vi lascerò alla vostra fortuna e me n’andrò<br>a trattenere quelli che vengono a soccorrervi.<br>Perché combatteremo, se non pretendete alcun titolo? |
-| [[Richard|RICCARDO]] DI [[Gloucester|GLOUCESTER]] | (a [[King|re]] Edoardo)<br>Ebbene, fratello, perché insistete su sottigliezze? |
-| [[King|RE]] EDOARDO | Quando cresceremo più forti, allora avanzeremo la nostra pretesa.<br>Fino allora è saggezza celare il nostro intento. |
-| [[Hastings|HASTINGS]] | Via l’ingegno scrupoloso! Ora devono governare le armi. |
-| [[Richard|RICCARDO]] DI [[Gloucester|GLOUCESTER]] | E gli animi senza paura salgono più presto alle corone.<br>Fratello, vi proclameremo senza indugio,<br>la fama di ciò vi porterà molti amici. |
-| [[King|RE]] EDOARDO | Allora sia come volete, ché è mio diritto,<br>ed Enrico non fa che usurpare il diadema. |
+| [[King\|RE]] EDOARDO | Così, signor Sindaco, queste porte non devono esser chiuse<br>se non di [[Night\|notte]] o in [[Time\|tempo]] di guerra.<br>Che—non [[Fear\|temete]], uomo, ma consegnatemi le chiavi,<br>[[King\|Re]] Edoardo prende alcune chiavi dal Sindaco<br>ché Edoardo difenderà la città e voi,<br>e tutti quegli amici che si degnano di seguirmi.<br>Marcia. Entra sir John Montgomery con un tamburino e soldati |
+| [[Richard\|RICCARDO]] DI [[Gloucester\|GLOUCESTER]] | Fratello, questi è sir John Montgomery,<br>nostro fidato amico, se non m’inganno. |
+| [[King\|RE]] EDOARDO | Benvenuto, sir John—ma perché venite in armi? |
+| MONTGOMERY | Per aiutare [[King\|re]] Edoardo nel suo [[Time\|tempo]] di [[Storm\|tempesta]],<br>come ogni leale suddito deve fare. |
+| [[King\|RE]] EDOARDO | Grazie, buon Montgomery, ma noi ora dimentichiamo<br>il nostro titolo alla [[Crown\|corona]], e reclamiamo soltanto<br>il nostro ducato, finché a Dio piaccia mandare il resto. |
+| MONTGOMERY | Allora state [[Well\|bene]], ché io tornerò indietro.<br>Venni a servire un [[King\|re]] e non un duca.<br>Tamburino, batti, e marciamo via. 50<br>Il tamburino comincia a battere una marcia |
+| [[King\|RE]] EDOARDO | No, restate, sir John, un poco, e [[debate\|discuteremo]]<br>con quali mezzi sicuri la [[Crown\|corona]] possa esser riconquistata. |
+| MONTGOMERY | Che parlate di discutere? In poche parole,<br>se non vi proclamate qui nostro [[King\|re]],<br>vi lascerò alla vostra fortuna e me n’andrò<br>a trattenere quelli che vengono a soccorrervi.<br>Perché combatteremo, se non pretendete alcun titolo? |
+| [[Richard\|RICCARDO]] DI [[Gloucester\|GLOUCESTER]] | (a [[King\|re]] Edoardo)<br>Ebbene, fratello, perché insistete su sottigliezze? |
+| [[King\|RE]] EDOARDO | Quando cresceremo più forti, allora avanzeremo la nostra pretesa.<br>Fino allora è saggezza celare il nostro intento. |
+| [[Hastings\|HASTINGS]] | Via l’ingegno scrupoloso! Ora devono governare le armi. |
+| [[Richard\|RICCARDO]] DI [[Gloucester\|GLOUCESTER]] | E gli animi senza paura salgono più presto alle corone.<br>Fratello, vi proclameremo senza indugio,<br>la fama di ciò vi porterà molti amici. |
+| [[King\|RE]] EDOARDO | Allora sia come volete, ché è mio diritto,<br>ed Enrico non fa che usurpare il diadema. |
 | MONTGOMERY | Sì, ora il mio sovrano parla da sé stesso,<br>e ora io sarò il campione d’Edoardo. |
 | *(didascalia)* | Suoni la tromba, Edoardo sarà qui proclamato. |
 | *(didascalia)* | A Montgomery |
-| [[Hastings|HASTINGS]] | Vieni, compagno soldato, fa’ tu il proclama. |
+| [[Hastings\|HASTINGS]] | Vieni, compagno soldato, fa’ tu il proclama. |
 | *(didascalia)* | Squilli |
 | *(didascalia)* | MONTGOMERY Edoardo Quarto, per grazia di Dio |
-| [[Hastings|HASTINGS]] | [[King|re]] d’Inghilterra e di Francia, e signore d’Irlanda—<br>e chiunque contesti il diritto di [[King|re]] Edoardo,<br>con questo lo sfido a singolo combattimento.<br>Getta a terra il suo guanto |
+| [[Hastings\|HASTINGS]] | [[King\|re]] d’Inghilterra e di Francia, e signore d’Irlanda—<br>e chiunque contesti il diritto di [[King\|re]] Edoardo,<br>con questo lo sfido a singolo combattimento.<br>Getta a terra il suo guanto |
 | TUTTI | Viva Edoardo Quarto! |
-| [[King|RE]] EDOARDO | Grazie, bravo Montgomery, e grazie a voi tutti.<br>Se la fortuna mi serve, ricompenserò questa cortesia.<br>Ora, per questa [[Night|notte]], alberghiamo qui in York;<br>e quando il sole del mattino solleverà il suo carro<br>sopra il confine di questo orizzonte,<br>avanzeremo verso Warwick e i suoi compagni.<br>Ché [[Well|bene]] so che Enrico non è soldato.<br>Ah, ostinato [[Clarence]], quanto male ti si addice<br>lusingare Enrico e abbandonare tuo fratello!<br>Tuttavia, come potremo, incontreremo te e Warwick.<br>Avanti, bravi soldati—non [[Doubt|dubitate]] della giornata,<br>e, ottenuta quella, non [[Doubt|dubitate]] di larga paga. |
+| [[King\|RE]] EDOARDO | Grazie, bravo Montgomery, e grazie a voi tutti.<br>Se la fortuna mi serve, ricompenserò questa cortesia.<br>Ora, per questa [[Night\|notte]], alberghiamo qui in York;<br>e quando il sole del mattino solleverà il suo carro<br>sopra il confine di questo orizzonte,<br>avanzeremo verso Warwick e i suoi compagni.<br>Ché [[Well\|bene]] so che Enrico non è soldato.<br>Ah, ostinato [[Clarence]], quanto male ti si addice<br>lusingare Enrico e abbandonare tuo fratello!<br>Tuttavia, come potremo, incontreremo te e Warwick.<br>Avanti, bravi soldati—non [[Doubt\|dubitate]] della giornata,<br>e, ottenuta quella, non [[Doubt\|dubitate]] di larga paga. |
 | *(didascalia)* | Escono |
 
 
@@ -3188,19 +3188,19 @@ The True [[Tragedy]] of [[Richard]] [[Duke of York]] and the Good [[King]] Henry
 
 | Chi parla | Battuta |
 |---|---|
-| *(didascalia)* | Squilli. Entrano [[King|re]] Enrico, il [[Earl of Warwick|conte di Warwick]], il marchese di Montague, Giorgio duca di [[Clarence]], e il conte di [[Oxford]] |
-| WARWICK | Che consiglio, signori? Edoardo dal Belgio,<br>con Tedeschi impetuosi e rozzi Olandesi,<br>è passato in salvo attraverso gli stretti mari,<br>e con le sue truppe marcia a tutta forza verso [[London|Londra]],<br>e molta gente volubile accorre a lui. |
-| [[King|RE]] ENRICO | Arruoliamo uomini e ricacciamolo indietro. |
-| GIORGIO DI [[Clarence|CLARENCE]] | Un piccolo [[Fire|fuoco]] si calpesta presto,<br>il quale, se tollerato, i fiumi non possono spegnere. |
-| WARWICK | Nel Warwickshire ho amici dal cuore fedele,<br>non sediziosi in pace, e tuttavia audaci in guerra.<br>Quelli io radunerò. E tu, figlio [[Clarence]],<br>ti muoverai nel Suffolk, nel Norfolk e nel [[Kent]],<br>perché i cavalieri e i gentiluomini vengano con te.<br>Tu, fratello Montague, nel [[Buckingham]],<br>nel Northampton e nel Leicestershire troverai<br>uomini [[Well|ben]] disposti a udire ciò che comandi.<br>E tu, bravo [[Oxford]], meravigliosamente [[Well|ben]] amato<br>nell’Oxfordshire, radunerai i tuoi amici.<br>Il mio sovrano, coi cittadini affezionati,<br>come la sua isola cinta dall’oceano,<br>o la modesta Diana circondata dalle sue ninfe,<br>riposerà a [[London|Londra]] finché non veniamo a lui.<br>Bei signori, prendete congedo e non state a replicare.<br>Addio, mio sovrano. |
-| [[King|RE]] ENRICO | Addio, mio [[Hector|Ettore]], e vera [[Hope|speranza]] della mia Troia. |
-| GIORGIO DI [[Clarence|CLARENCE]] | In segno di [[Truth|fedeltà]], bacio la mano di vostra altezza.<br>Bacia la mano di [[King|re]] Enrico |
-| [[King|RE]] ENRICO | [[Well|Ben]] intenzionato [[Clarence]], sii tu fortunato. |
+| *(didascalia)* | Squilli. Entrano [[King\|re]] Enrico, il [[Earl of Warwick\|conte di Warwick]], il marchese di Montague, Giorgio duca di [[Clarence]], e il conte di [[Oxford]] |
+| WARWICK | Che consiglio, signori? Edoardo dal Belgio,<br>con Tedeschi impetuosi e rozzi Olandesi,<br>è passato in salvo attraverso gli stretti mari,<br>e con le sue truppe marcia a tutta forza verso [[London\|Londra]],<br>e molta gente volubile accorre a lui. |
+| [[King\|RE]] ENRICO | Arruoliamo uomini e ricacciamolo indietro. |
+| GIORGIO DI [[Clarence\|CLARENCE]] | Un piccolo [[Fire\|fuoco]] si calpesta presto,<br>il quale, se tollerato, i fiumi non possono spegnere. |
+| WARWICK | Nel Warwickshire ho amici dal cuore fedele,<br>non sediziosi in pace, e tuttavia audaci in guerra.<br>Quelli io radunerò. E tu, figlio [[Clarence]],<br>ti muoverai nel Suffolk, nel Norfolk e nel [[Kent]],<br>perché i cavalieri e i gentiluomini vengano con te.<br>Tu, fratello Montague, nel [[Buckingham]],<br>nel Northampton e nel Leicestershire troverai<br>uomini [[Well\|ben]] disposti a udire ciò che comandi.<br>E tu, bravo [[Oxford]], meravigliosamente [[Well\|ben]] amato<br>nell’Oxfordshire, radunerai i tuoi amici.<br>Il mio sovrano, coi cittadini affezionati,<br>come la sua isola cinta dall’oceano,<br>o la modesta Diana circondata dalle sue ninfe,<br>riposerà a [[London\|Londra]] finché non veniamo a lui.<br>Bei signori, prendete congedo e non state a replicare.<br>Addio, mio sovrano. |
+| [[King\|RE]] ENRICO | Addio, mio [[Hector\|Ettore]], e vera [[Hope\|speranza]] della mia Troia. |
+| GIORGIO DI [[Clarence\|CLARENCE]] | In segno di [[Truth\|fedeltà]], bacio la mano di vostra altezza.<br>Bacia la mano di [[King\|re]] Enrico |
+| [[King\|RE]] ENRICO | [[Well\|Ben]] intenzionato [[Clarence]], sii tu fortunato. |
 | MONTAGUE | Confortatevi, mio signore, e così prendo congedo. |
-| *(didascalia)* | Bacia la mano di [[King|re]] Enrico |
-| [[Oxford|OXFORD]] | E così sigillo la mia [[Truth|fedeltà]] e dico addio. |
-| *(didascalia)* | Bacia la mano di [[King|re]] Enrico |
-| [[King|RE]] ENRICO | Dolce [[Oxford]], e mio amato Montague,<br>e tutti insieme, ancora una volta un felice addio. |
+| *(didascalia)* | Bacia la mano di [[King\|re]] Enrico |
+| [[Oxford\|OXFORD]] | E così sigillo la mia [[Truth\|fedeltà]] e dico addio. |
+| *(didascalia)* | Bacia la mano di [[King\|re]] Enrico |
+| [[King\|RE]] ENRICO | Dolce [[Oxford]], e mio amato Montague,<br>e tutti insieme, ancora una volta un felice addio. |
 | *(didascalia)* | Esce |
 | WARWICK | Addio, dolci signori—incontriamoci a Coventry. |
 | *(didascalia)* | Escono separatamente! |
@@ -3230,17 +3230,17 @@ The True [[Tragedy]] of [[Richard]] [[Duke of York]] and the Good [[King]] Henry
 
 | Chi parla | Battuta |
 |---|---|
-| *(didascalia)* | Rientrrano [[King|re]] Enrico e il [[Duke of Exeter|duca di Exeter]] |
-| [[King|RE]] ENRICO | Qui nel palazzo riposerò un poco.<br>Cugino di Exeter, che pensa vostra signoria?<br>Mi pare che la forza che Edoardo ha in campo<br>non dovrebbe essere in grado d’affrontare la mia. |
-| EXETER | Il [[Doubt|dubbio]] è che egli seduca gli altri. |
-| [[King|RE]] ENRICO | Non è questo il mio [[Fear|timore]]. Il mio merito m’ha dato fama.<br>Non ho chiuso le mie orecchie alle loro domande,<br>né rinviato le loro istanze con lenti indugi.<br>La mia pietà è stata balsamo a sanare le loro ferite,<br>la mia mitezza ha placato i loro dolori gonfi,<br>la mia [[Mercy|misericordia]] ha asciugato le loro [[Tears|lacrime]] fluenti come [[Water|acqua]].<br>Non sono stato bramoso della loro ricchezza,<br>né li ho molto oppressi con grandi tributi,<br>né pronto alla [[Revenge|vendetta]], sebbene molto errassero.<br>Perché dunque dovrebbero [[Love|amare]] Edoardo più di me?<br>No, Exeter, queste grazie reclamano grazia;<br>e quando il [[Lion|leone]] fa carezze all’[[Lamb|agnello]],<br>l’[[Lamb|agnello]] non cesserà mai di seguirlo. |
+| *(didascalia)* | Rientrrano [[King\|re]] Enrico e il [[Duke of Exeter\|duca di Exeter]] |
+| [[King\|RE]] ENRICO | Qui nel palazzo riposerò un poco.<br>Cugino di Exeter, che pensa vostra signoria?<br>Mi pare che la forza che Edoardo ha in campo<br>non dovrebbe essere in grado d’affrontare la mia. |
+| EXETER | Il [[Doubt\|dubbio]] è che egli seduca gli altri. |
+| [[King\|RE]] ENRICO | Non è questo il mio [[Fear\|timore]]. Il mio merito m’ha dato fama.<br>Non ho chiuso le mie orecchie alle loro domande,<br>né rinviato le loro istanze con lenti indugi.<br>La mia pietà è stata balsamo a sanare le loro ferite,<br>la mia mitezza ha placato i loro dolori gonfi,<br>la mia [[Mercy\|misericordia]] ha asciugato le loro [[Tears\|lacrime]] fluenti come [[Water\|acqua]].<br>Non sono stato bramoso della loro ricchezza,<br>né li ho molto oppressi con grandi tributi,<br>né pronto alla [[Revenge\|vendetta]], sebbene molto errassero.<br>Perché dunque dovrebbero [[Love\|amare]] Edoardo più di me?<br>No, Exeter, queste grazie reclamano grazia;<br>e quando il [[Lion\|leone]] fa carezze all’[[Lamb\|agnello]],<br>l’[[Lamb\|agnello]] non cesserà mai di seguirlo. |
 | *(didascalia)* | Grida dall’interno ‘Lancaster’, ‘York’ |
 | EXETER | Udite, udite, mio fignore—che grida son queste? |
-| *(didascalia)* | Entrano [[King|re]] Edoardo e [[Richard|Riccardo]] [[Duke of Gloucester|duca di Gloucester]], con soldati |
-| [[King|RE]] EDOARDO | Afferrate il vergognoso Enrico—portatelo via,<br>e ancora una volta proclamateci [[King|re]] d’Inghilterra.<br>Tu sei la fonte che fa scorrere i piccoli ruscelli.<br>Ora si arresta la tua [[Spring|sorgente]]—il mio mare li succhierà a secco,<br>e si gonfierà tanto più alto col loro riflusso.<br>Via con lui alla Torre—non tasciatelo parlare. |
-| *(didascalia)* | Escono alcuni con [[King|re]] Enrico ed Exeter |
-| [[King|RE]] EDOARDO | E, signori, volgiamo il nostro corso verso Coventry,<br>dove ora sta il perentorio Warwick.<br>Il sole scalda, e, se indugiamo,<br>il freddo [[Winter|inverno]] pungente guasterà il fieno che speriamo. |
-| [[Richard|RICCARDO]] DI [[Gloucester|GLOUCESTER]] | Via presto, prima che le sue forze si congiungano,<br>e cogliamo alla sprovvista il traditore ormai cresciuto.<br>Bravi guerrieri, marciate a tutta forza verso Coventry. |
+| *(didascalia)* | Entrano [[King\|re]] Edoardo e [[Richard\|Riccardo]] [[Duke of Gloucester\|duca di Gloucester]], con soldati |
+| [[King\|RE]] EDOARDO | Afferrate il vergognoso Enrico—portatelo via,<br>e ancora una volta proclamateci [[King\|re]] d’Inghilterra.<br>Tu sei la fonte che fa scorrere i piccoli ruscelli.<br>Ora si arresta la tua [[Spring\|sorgente]]—il mio mare li succhierà a secco,<br>e si gonfierà tanto più alto col loro riflusso.<br>Via con lui alla Torre—non tasciatelo parlare. |
+| *(didascalia)* | Escono alcuni con [[King\|re]] Enrico ed Exeter |
+| [[King\|RE]] EDOARDO | E, signori, volgiamo il nostro corso verso Coventry,<br>dove ora sta il perentorio Warwick.<br>Il sole scalda, e, se indugiamo,<br>il freddo [[Winter\|inverno]] pungente guasterà il fieno che speriamo. |
+| [[Richard\|RICCARDO]] DI [[Gloucester\|GLOUCESTER]] | Via presto, prima che le sue forze si congiungano,<br>e cogliamo alla sprovvista il traditore ormai cresciuto.<br>Bravi guerrieri, marciate a tutta forza verso Coventry. |
 | *(didascalia)* | Escono |
 
 
@@ -3328,7 +3328,7 @@ The True [[Tragedy]] of [[Richard]] [[Duke of York]] and the Good [[King]] Henry
 
 | Chi parla | Battuta |
 |---|---|
-| *(didascalia)* | Entrano il [[Earl of Warwick|conte di Warwick]], il Sindaco di Coventry, due Messi, e altri sulle mura |
+| *(didascalia)* | Entrano il [[Earl of Warwick\|conte di Warwick]], il Sindaco di Coventry, due Messi, e altri sulle mura |
 | WARWICK | Dov’è il corriere che venne dal valoroso [[Oxford]]? |
 | *(didascalia)* | Il Primo Messo si fa avanti |
 | WARWICK | Quanto è lontano di qui il tuo signore, mio onesto amico? |
@@ -3340,66 +3340,66 @@ The True [[Tragedy]] of [[Richard]] [[Duke of York]] and the Good [[King]] Henry
 | WARWICK | Di’, Somerville—che dice il mio amato figlio?<br>E, a tua stima, quanto è vicino ora [[Clarence]]? |
 | SOMERVILLE | A Southam lo lasciai con le sue forze,<br>e l’attendo qui fra circa due ore.<br>Una marcia in lontananza |
 | WARWICK | Allora [[Clarence]] è vicino—odo il suo tamburo. |
-| SOMERVILLE | Non è il suo, mio signore. Qui sta Southam.<br>Il tamburo che vostro [[Honour|onore]] ode marcia da Warwick. |
+| SOMERVILLE | Non è il suo, mio signore. Qui sta Southam.<br>Il tamburo che vostro [[Honour\|onore]] ode marcia da Warwick. |
 | WARWICK | Chi sarà? Certo, amici inattesi. |
 | SOMERVILLE | Sono vicini, e presto lo saprete. |
-| *(didascalia)* | Squilli. Entrano in basso [[King|re]] Edoardo e [[Richard|Riccardo]] [[Duke of Gloucester|duca di Gloucester]], con soldati |
-| [[King|RE]] EDOARDO | Va’, trombettiere, alle mura, e suona un parlamento. |
+| *(didascalia)* | Squilli. Entrano in basso [[King\|re]] Edoardo e [[Richard\|Riccardo]] [[Duke of Gloucester\|duca di Gloucester]], con soldati |
+| [[King\|RE]] EDOARDO | Va’, trombettiere, alle mura, e suona un parlamento. |
 | *(didascalia)* | Suona un parlamento |
-| [[Richard|RICCARDO]] DI [[Gloucester|GLOUCESTER]] | Guardate come il burbero Warwick presidia il muro. |
+| [[Richard\|RICCARDO]] DI [[Gloucester\|GLOUCESTER]] | Guardate come il burbero Warwick presidia il muro. |
 | WARWICK | Oh, dispetto non invitato—è venuto il gaio Edoardo?<br>Dove dormivano i nostri esploratori, o come sono stati sedotti,<br>che non potemmo udir nuove del suo arrivo? |
-| [[King|RE]] EDOARDO | Ora, Warwick, vuoi aprire le porte della [[City|città]],<br>dir parole gentili, e piegare umilmente il ginocchio,<br>chiamare Edoardo [[King|re]], e implorare [[Mercy|pietà]] dalle sue mani?<br>Ed egli ti perdonerà questi oltraggi. |
-| WARWICK | No, piuttosto, vuoi tu ritirare di qui le tue forze,<br>confessare chi t’innalzò e chi t’abbatté,<br>chiamare Warwick patrono, ed esser penitente?<br>E rimarrai ancora il [[Duke of York|duca di York]]. |
-| [[Richard|RICCARDO]] DI [[Gloucester|GLOUCESTER]] | Pensavo che almeno avrebbe detto ‘il [[King|re]]’.<br>O ha fatto lo scherzo suo malgrado? |
+| [[King\|RE]] EDOARDO | Ora, Warwick, vuoi aprire le porte della [[City\|città]],<br>dir parole gentili, e piegare umilmente il ginocchio,<br>chiamare Edoardo [[King\|re]], e implorare [[Mercy\|pietà]] dalle sue mani?<br>Ed egli ti perdonerà questi oltraggi. |
+| WARWICK | No, piuttosto, vuoi tu ritirare di qui le tue forze,<br>confessare chi t’innalzò e chi t’abbatté,<br>chiamare Warwick patrono, ed esser penitente?<br>E rimarrai ancora il [[Duke of York\|duca di York]]. |
+| [[Richard\|RICCARDO]] DI [[Gloucester\|GLOUCESTER]] | Pensavo che almeno avrebbe detto ‘il [[King\|re]]’.<br>O ha fatto lo scherzo suo malgrado? |
 | WARWICK | Non è un ducato, signore, un bel dono? |
-| [[Richard|RICCARDO]] DI [[Gloucester|GLOUCESTER]] | Sì, in [[Faith|fede]] mia, per un povero conte da donare.<br>Ti farò un servizio per un dono così bello. |
+| [[Richard\|RICCARDO]] DI [[Gloucester\|GLOUCESTER]] | Sì, in [[Faith\|fede]] mia, per un povero conte da donare.<br>Ti farò un servizio per un dono così bello. |
 | WARWICK | Fui io a dare il regno a tuo fratello. |
-| [[King|RE]] EDOARDO | Ebbene allora è mio, se pur per dono di Warwick. |
-| WARWICK | Tu non sei Atlante per un peso così grande;<br>e, debole, Warwick riprende il suo dono;<br>ed Enrico è il mio [[King|re]], Warwick suo suddito. |
-| [[King|RE]] EDOARDO | Ma il [[King|re]] di Warwick è prigioniero d’Edoardo,<br>e, prode Warwick, rispondi solo a questo:<br>che è il [[Body|corpo]] quando la testa è tolta? |
-| [[Richard|RICCARDO]] DI [[Gloucester|GLOUCESTER]] | Ahimè, che Warwick non ebbe più previdenza,<br>ma mentre pensava di rubare il semplice dieci,<br>il [[King|re]] gli fu astutamente sfilato dal mazzo. |
+| [[King\|RE]] EDOARDO | Ebbene allora è mio, se pur per dono di Warwick. |
+| WARWICK | Tu non sei Atlante per un peso così grande;<br>e, debole, Warwick riprende il suo dono;<br>ed Enrico è il mio [[King\|re]], Warwick suo suddito. |
+| [[King\|RE]] EDOARDO | Ma il [[King\|re]] di Warwick è prigioniero d’Edoardo,<br>e, prode Warwick, rispondi solo a questo:<br>che è il [[Body\|corpo]] quando la testa è tolta? |
+| [[Richard\|RICCARDO]] DI [[Gloucester\|GLOUCESTER]] | Ahimè, che Warwick non ebbe più previdenza,<br>ma mentre pensava di rubare il semplice dieci,<br>il [[King\|re]] gli fu astutamente sfilato dal mazzo. |
 | *(didascalia)* | A Warwick Lasciasti il povero Enrico al palazzo del vescovo, |
-| [[Richard|RICCARDO]] DI [[Gloucester|GLOUCESTER]] | e dieci a uno lo incontrerai nella Torre. |
+| [[Richard\|RICCARDO]] DI [[Gloucester\|GLOUCESTER]] | e dieci a uno lo incontrerai nella Torre. |
 | *(didascalia)* | È proprio così—a Warwick e tuttavia tu sei ancora Warwick. |
-| [[Richard|RICCARDO]] DI [[Gloucester|GLOUCESTER]] | Vieni, Warwick, cogli il [[Time|momento]]—inginòcchiati, inginòcchiati<br>giù.<br>Su, quando? Batti ora, o il ferro si raffredda. |
+| [[Richard\|RICCARDO]] DI [[Gloucester\|GLOUCESTER]] | Vieni, Warwick, cogli il [[Time\|momento]]—inginòcchiati, inginòcchiati<br>giù.<br>Su, quando? Batti ora, o il ferro si raffredda. |
 | WARWICK | Preferirei tagliarmi questa mano d’un colpo,<br>e con l’altra scagliartela in faccia,<br>che portar vela così bassa da ammainare davanti a te. |
-| [[King|RE]] EDOARDO | Naviga come puoi, abbi [[Wind|vento]] e marea amici,<br>questa mano, avvolta stretta nei tuoi capelli neri come carbone,<br>mentre la tua testa è calda e appena tagliata,<br>scriverà nella [[Dust|polvere]] questa sentenza col tuo [[Blood|sangue]]:<br>‘Warwick che muta come il [[Wind|vento]] ora non può mutar più’. |
+| [[King\|RE]] EDOARDO | Naviga come puoi, abbi [[Wind\|vento]] e marea amici,<br>questa mano, avvolta stretta nei tuoi capelli neri come carbone,<br>mentre la tua testa è calda e appena tagliata,<br>scriverà nella [[Dust\|polvere]] questa sentenza col tuo [[Blood\|sangue]]:<br>‘Warwick che muta come il [[Wind\|vento]] ora non può mutar più’. |
 | *(didascalia)* | Entra il conte di [[Oxford]], con un tamburino e soldati che portano insegne |
 | WARWICK | Oh insegne allegre! Guardate dove viene [[Oxford]]. |
-| [[Oxford|OXFORD]] | [[Oxford]], [[Oxford]], per Lancaster! |
-| *(didascalia)* | [[Oxford]] e i suoi uomini attraversano la scena ed escono nella [[City|città]] |
-| [[Richard|RICCARDO]] DI [[Gloucester|GLOUCESTER]] | (a [[King|re]] Edoardo)<br>Le porte sono aperte—entriamo anche noi. |
-| [[King|RE]] EDOARDO | Perché altri nemici ci assalgano alle spalle?<br>Stiamo in buon ordine, ché senza [[Doubt|dubbio]]<br>usciranno di nuovo e ci offriranno battaglia.<br>Se no, essendo la [[City|città]] di scarsa difesa,<br>snideremo presto i traditori là dentro. |
+| [[Oxford\|OXFORD]] | [[Oxford]], [[Oxford]], per Lancaster! |
+| *(didascalia)* | [[Oxford]] e i suoi uomini attraversano la scena ed escono nella [[City\|città]] |
+| [[Richard\|RICCARDO]] DI [[Gloucester\|GLOUCESTER]] | (a [[King\|re]] Edoardo)<br>Le porte sono aperte—entriamo anche noi. |
+| [[King\|RE]] EDOARDO | Perché altri nemici ci assalgano alle spalle?<br>Stiamo in buon ordine, ché senza [[Doubt\|dubbio]]<br>usciranno di nuovo e ci offriranno battaglia.<br>Se no, essendo la [[City\|città]] di scarsa difesa,<br>snideremo presto i traditori là dentro. |
 | *(didascalia)* | WARWICK a [[Oxford]], dall’interno |
-| [[King|RE]] EDOARDO | Oh, benvenuto, [[Oxford]]—ché abbiamo bisogno del tuo aiuto. |
+| [[King\|RE]] EDOARDO | Oh, benvenuto, [[Oxford]]—ché abbiamo bisogno del tuo aiuto. |
 | *(didascalia)* | Entra il marchese di Montague con un tamburino e soldati che portano insegne |
 | MONTAGUE | Montague, Montague, per Lancaster! |
-| *(didascalia)* | Montague e i suoi uomini attraversano la scena ed escono nella [[City|città]] |
-| [[Richard|RICCARDO]] DI [[Gloucester|GLOUCESTER]] | Tu e tuo fratello pagherete entrambi questo tradimento<br>col più caro [[Blood|sangue]] che i vostri corpi portano. |
-| [[King|RE]] EDOARDO | Più duro lo scontro, più grande la vittoria.<br>Il mio animo presagisce felice guadagno e conquista. |
+| *(didascalia)* | Montague e i suoi uomini attraversano la scena ed escono nella [[City\|città]] |
+| [[Richard\|RICCARDO]] DI [[Gloucester\|GLOUCESTER]] | Tu e tuo fratello pagherete entrambi questo tradimento<br>col più caro [[Blood\|sangue]] che i vostri corpi portano. |
+| [[King\|RE]] EDOARDO | Più duro lo scontro, più grande la vittoria.<br>Il mio animo presagisce felice guadagno e conquista. |
 | *(didascalia)* | Entra il duca di Somerset con un tamburino e soldati che portano insegne |
 | SOMERSET | Somerset, Somerset, per Lancaster! |
-| *(didascalia)* | Somerset e i suoi uomini attraversano la scena ed escono nella [[City|città]] |
-| [[Richard|RICCARDO]] DI [[Gloucester|GLOUCESTER]] | Due del tuo nome, entrambi duchi di Somerset,<br>han venduto le loro vite alla [[house|casa]] di York—<br>e tu sarai il terzo, se questa [[Sword|spada]] tiene. |
+| *(didascalia)* | Somerset e i suoi uomini attraversano la scena ed escono nella [[City\|città]] |
+| [[Richard\|RICCARDO]] DI [[Gloucester\|GLOUCESTER]] | Due del tuo nome, entrambi duchi di Somerset,<br>han venduto le loro vite alla [[house\|casa]] di York—<br>e tu sarai il terzo, se questa [[Sword\|spada]] tiene. |
 | *(didascalia)* | Entra Giorgio duca di [[Clarence]] con un tamburino e soldati che portano insegne |
-| WARWICK | Ed ecco dove Giorgio di [[Clarence]] avanza a gran passo,<br>con forze bastanti a offrire battaglia al fratello;<br>in lui un retto zelo per il diritto prevale<br>più della [[Nature|natura]] dell’[[Love|amore]] fraterno. |
-| GIORGIO DI [[Clarence|CLARENCE]] | [[Clarence]], [[Clarence]], per Lancaster! |
-| [[King|RE]] EDOARDO | Et tu, Brute—vuoi pugnalare anche tu Cesare?<br>(A un trombettiere) Un parlamento, briccone, a Giorgio di [[Clarence]]. |
-| *(didascalia)* | Suona un parlamento. [[Richard|Riccardo]] di [[Gloucester]] e Giorgio di |
-| [[King|RE]] EDOARDO | [[Clarence]] sussurrano insieme |
+| WARWICK | Ed ecco dove Giorgio di [[Clarence]] avanza a gran passo,<br>con forze bastanti a offrire battaglia al fratello;<br>in lui un retto zelo per il diritto prevale<br>più della [[Nature\|natura]] dell’[[Love\|amore]] fraterno. |
+| GIORGIO DI [[Clarence\|CLARENCE]] | [[Clarence]], [[Clarence]], per Lancaster! |
+| [[King\|RE]] EDOARDO | Et tu, Brute—vuoi pugnalare anche tu Cesare?<br>(A un trombettiere) Un parlamento, briccone, a Giorgio di [[Clarence]]. |
+| *(didascalia)* | Suona un parlamento. [[Richard\|Riccardo]] di [[Gloucester]] e Giorgio di |
+| [[King\|RE]] EDOARDO | [[Clarence]] sussurrano insieme |
 | WARWICK | Vieni, [[Clarence]], vieni—verrai se Warwick chiama. |
-| GIORGIO DI [[Clarence|CLARENCE]] | Padre di Warwick, sapete che cosa significa questo? |
-| *(didascalia)* | Si toglie dal cappello la sua [[Rose|rosa]] rossa e la getta contro Warwick |
-| GIORGIO DI [[Clarence|CLARENCE]] | Guarda—qui getto contro te la mia infamia!<br>Non manderò in rovina la [[house|casa]] di mio padre,<br>che diede il suo [[Blood|sangue]] per cementare insieme le pietre,<br>e innalzò Lancaster. Credi tu, Warwick,<br>che [[Clarence]] sia così duro, così rozzo, snaturato,<br>da volgere i fatali strumenti di guerra<br>contro suo fratello e suo legittimo [[King|re]]?<br>Forse mi obietterai il mio santo giuramento.<br>Mantenere quel giuramento sarebbe empietà maggiore<br>di quella di Iefte, quando sacrificò sua figlia.<br>Tanto mi dolgo del mio trascorso<br>che, per meritare [[Well|bene]] dalle mani dei miei fratelli,<br>qui mi proclamo tuo nemico mortale,<br>con la risoluzione, dovunque t’incontri—<br>e t’incontrerò, se ti muovi fuori—<br>di tormentarti per l’infame tuo avermi traviato.<br>E così, Warwick dal cuore superbo, io ti sfido,<br>e ai miei fratelli volgo le mie guance arrossite.<br>(A [[King|re]] Edoardo)<br>Perdonami, Edoardo—farò ammenda.<br>(A [[Richard|Riccardo]])<br>E, [[Richard|Riccardo]], non t’accigliare per le mie colpe,<br>ché d’ora in poi non sarò più incostante. |
-| [[King|RE]] EDOARDO | Ora sei più benvenuto, e dieci volte più amato,<br>che se non avessi mai meritato il nostro odio. |
-| [[Richard|RICCARDO]] DI [[Gloucester|GLOUCESTER]] | (a Giorgio)<br>Benvenuto, buon [[Clarence]]—questo è da fratello. |
+| GIORGIO DI [[Clarence\|CLARENCE]] | Padre di Warwick, sapete che cosa significa questo? |
+| *(didascalia)* | Si toglie dal cappello la sua [[Rose\|rosa]] rossa e la getta contro Warwick |
+| GIORGIO DI [[Clarence\|CLARENCE]] | Guarda—qui getto contro te la mia infamia!<br>Non manderò in rovina la [[house\|casa]] di mio padre,<br>che diede il suo [[Blood\|sangue]] per cementare insieme le pietre,<br>e innalzò Lancaster. Credi tu, Warwick,<br>che [[Clarence]] sia così duro, così rozzo, snaturato,<br>da volgere i fatali strumenti di guerra<br>contro suo fratello e suo legittimo [[King\|re]]?<br>Forse mi obietterai il mio santo giuramento.<br>Mantenere quel giuramento sarebbe empietà maggiore<br>di quella di Iefte, quando sacrificò sua figlia.<br>Tanto mi dolgo del mio trascorso<br>che, per meritare [[Well\|bene]] dalle mani dei miei fratelli,<br>qui mi proclamo tuo nemico mortale,<br>con la risoluzione, dovunque t’incontri—<br>e t’incontrerò, se ti muovi fuori—<br>di tormentarti per l’infame tuo avermi traviato.<br>E così, Warwick dal cuore superbo, io ti sfido,<br>e ai miei fratelli volgo le mie guance arrossite.<br>(A [[King\|re]] Edoardo)<br>Perdonami, Edoardo—farò ammenda.<br>(A [[Richard\|Riccardo]])<br>E, [[Richard\|Riccardo]], non t’accigliare per le mie colpe,<br>ché d’ora in poi non sarò più incostante. |
+| [[King\|RE]] EDOARDO | Ora sei più benvenuto, e dieci volte più amato,<br>che se non avessi mai meritato il nostro odio. |
+| [[Richard\|RICCARDO]] DI [[Gloucester\|GLOUCESTER]] | (a Giorgio)<br>Benvenuto, buon [[Clarence]]—questo è da fratello. |
 | WARWICK | (a Giorgio)<br>Oh, traditore supremo—spergiuro e iniquo! |
-| [[King|RE]] EDOARDO | Che, Warwick, vuoi lasciare la città e combattere?<br>O dovremo farti piovere le pietre intorno alle orecchie? |
+| [[King\|RE]] EDOARDO | Che, Warwick, vuoi lasciare la città e combattere?<br>O dovremo farti piovere le pietre intorno alle orecchie? |
 | *(didascalia)* | WARWICK a parte |
-| [[King|RE]] EDOARDO | Ahimè, non sono qui rinchiuso per difesa.<br><br>(A [[King|re]] Edoardo)<br>Me n’andrò subito verso Barnet,<br>e t’offrirò battaglia, Edoardo, se osi. |
-| [[King|RE]] EDOARDO | Sì, Warwick—Edoardo osa, e apre la via.<br>Signori, al campo—san Giorgio e vittoria! |
-| *(didascalia)* | Escono in basso [[King|re]] Edoardo e la sua compagnia. |
-| [[King|RE]] EDOARDO | Marcia. Il [[Earl of Warwick|conte di Warwick]] e la sua compagnia<br>scendono e seguono |
+| [[King\|RE]] EDOARDO | Ahimè, non sono qui rinchiuso per difesa.<br><br>(A [[King\|re]] Edoardo)<br>Me n’andrò subito verso Barnet,<br>e t’offrirò battaglia, Edoardo, se osi. |
+| [[King\|RE]] EDOARDO | Sì, Warwick—Edoardo osa, e apre la via.<br>Signori, al campo—san Giorgio e vittoria! |
+| *(didascalia)* | Escono in basso [[King\|re]] Edoardo e la sua compagnia. |
+| [[King\|RE]] EDOARDO | Marcia. Il [[Earl of Warwick\|conte di Warwick]] e la sua compagnia<br>scendono e seguono |
 
 
 
@@ -3423,15 +3423,15 @@ The True [[Tragedy]] of [[Richard]] [[Duke of York]] and the Good [[King]] Henry
 
 | Chi parla | Battuta |
 |---|---|
-| *(didascalia)* | Squillo d’allarme e scorrerie. Entra [[King|re]] Edoardo trascinando fuori il [[Earl of Warwick|conte di Warwick]], ferito |
-| [[King|RE]] EDOARDO | Così giaci là. Muori tu, e muoia il nostro [[Fear|timore]]—<br>ché Warwick era uno spauracchio che ci atterriva tutti.<br>Ora, Montague, sta’ saldo—io cerco te,<br>perché le ossa di Warwick abbiano la tua compagnia. Esce |
-| WARWICK | Ah, chi è vicino? Vieni a me, amico o nemico,<br>e dimmi chi è il vincitore, York o Warwick?<br>Perché lo chiedo? Il mio [[Body|corpo]] straziato lo mostra,<br>il mio [[Blood|sangue]], la mia mancanza di forze, il mio cuore malato lo mostra,<br>che devo cedere il mio [[Body|corpo]] alla terra<br>e con la mia caduta la conquista al mio nemico.<br>Così cede il cedro al taglio della scure,<br>le cui braccia davano riparo all’aquila principesca,<br>sotto la cui ombra dormiva il [[Lion|leone]] rampante,<br>il cui ramo più alto sovrastava l’albero espanso di Giove<br>e riparava i bassi arbusti dal potente [[Wind|vento]] dell’[[Winter|inverno]].<br>Questi occhi, che ora sono offuscati dal nero velo della<br>[[Death|morte]],<br>sono stati penetranti come il sole di mezzogiorno<br>a scrutare i segreti tradimenti del mondo.<br>Le rughe della mia fronte, ora colme di [[Blood|sangue]],<br>furono spesso paragonate a sepolcri di re—<br>ché chi visse [[King|re]], senza ch’io potessi scavargli la [[Grave|tomba]]?<br>E chi osò sorridere quando Warwick aggrottava le ciglia?<br>Ecco ora la mia gloria imbrattata di [[Dust|polvere]] e di [[Blood|sangue]].<br>I miei parchi, i miei viali, i manieri che avevo,<br>proprio ora mi abbandonano, e di tutte le mie terre<br>non mi resta nulla se non la lunghezza del mio [[Body|corpo]].<br>Ebbene, che è pompa, potere, regno, se non terra e [[Dust|polvere]]?<br>E, viviamo come possiamo, morire dobbiamo. |
+| *(didascalia)* | Squillo d’allarme e scorrerie. Entra [[King\|re]] Edoardo trascinando fuori il [[Earl of Warwick\|conte di Warwick]], ferito |
+| [[King\|RE]] EDOARDO | Così giaci là. Muori tu, e muoia il nostro [[Fear\|timore]]—<br>ché Warwick era uno spauracchio che ci atterriva tutti.<br>Ora, Montague, sta’ saldo—io cerco te,<br>perché le ossa di Warwick abbiano la tua compagnia. Esce |
+| WARWICK | Ah, chi è vicino? Vieni a me, amico o nemico,<br>e dimmi chi è il vincitore, York o Warwick?<br>Perché lo chiedo? Il mio [[Body\|corpo]] straziato lo mostra,<br>il mio [[Blood\|sangue]], la mia mancanza di forze, il mio cuore malato lo mostra,<br>che devo cedere il mio [[Body\|corpo]] alla terra<br>e con la mia caduta la conquista al mio nemico.<br>Così cede il cedro al taglio della scure,<br>le cui braccia davano riparo all’aquila principesca,<br>sotto la cui ombra dormiva il [[Lion\|leone]] rampante,<br>il cui ramo più alto sovrastava l’albero espanso di Giove<br>e riparava i bassi arbusti dal potente [[Wind\|vento]] dell’[[Winter\|inverno]].<br>Questi occhi, che ora sono offuscati dal nero velo della<br>[[Death\|morte]],<br>sono stati penetranti come il sole di mezzogiorno<br>a scrutare i segreti tradimenti del mondo.<br>Le rughe della mia fronte, ora colme di [[Blood\|sangue]],<br>furono spesso paragonate a sepolcri di re—<br>ché chi visse [[King\|re]], senza ch’io potessi scavargli la [[Grave\|tomba]]?<br>E chi osò sorridere quando Warwick aggrottava le ciglia?<br>Ecco ora la mia gloria imbrattata di [[Dust\|polvere]] e di [[Blood\|sangue]].<br>I miei parchi, i miei viali, i manieri che avevo,<br>proprio ora mi abbandonano, e di tutte le mie terre<br>non mi resta nulla se non la lunghezza del mio [[Body\|corpo]].<br>Ebbene, che è pompa, potere, regno, se non terra e [[Dust\|polvere]]?<br>E, viviamo come possiamo, morire dobbiamo. |
 | *(didascalia)* | Entrano il conte di [[Oxford]] e il duca di Somerset |
-| SOMERSET | Ah, Warwick, Warwick—fossi tu come siamo noi,<br>potremmo riparare tutta la nostra perdita.<br>La [[Queen|regina]] ha portato dalla Francia una possente<br>forza.<br>Proprio ora ne udimmo la nuova. Ah, se tu potessi fuggire! |
-| WARWICK | Ebbene, allora non fuggirei. Ah, Montague,<br>se tu sei là, dolce fratello, prendi la mia mano,<br>e con le tue labbra trattieni un poco la mia [[Soul|anima]].<br>Tu non m’ami—ché, fratello, se m’amassi,<br>le tue [[Tears|lacrime]] laverebbero questo freddo [[Blood|sangue]] rappreso<br>che m’incolla le labbra e non mi lascia parlare.<br>Vieni presto, Montague, o sono morto. |
-| SOMERSET | Ah, Warwick—Montague ha esalato l’ultimo respiro,<br>e fino all’estremo rantolo invocò Warwick,<br>e disse: ‘Salutami il mio valoroso fratello.’<br>E più avrebbe detto, e più disse,<br>che risuonava come un cannone in una volta,<br>tanto che non si poteva distinguere; ma alla fine<br>[[Well|bene]] potei udire, proferito con un gemito:<br>‘Oh, addio, Warwick.’ |
-| WARWICK | Dolce riposo alla sua [[Soul|anima]]. Fuggite, signori, e salvatevi—<br>ché Warwick vi dice addio a tutti, per ritrovarci in cielo.<br>Muore |
-| [[Oxford|OXFORD]] | Via, via—incontro alla grande forza della [[Queen|regina]]!<br>Qui portano via il [[Body|corpo]] di Warwick. Escono |
+| SOMERSET | Ah, Warwick, Warwick—fossi tu come siamo noi,<br>potremmo riparare tutta la nostra perdita.<br>La [[Queen\|regina]] ha portato dalla Francia una possente<br>forza.<br>Proprio ora ne udimmo la nuova. Ah, se tu potessi fuggire! |
+| WARWICK | Ebbene, allora non fuggirei. Ah, Montague,<br>se tu sei là, dolce fratello, prendi la mia mano,<br>e con le tue labbra trattieni un poco la mia [[Soul\|anima]].<br>Tu non m’ami—ché, fratello, se m’amassi,<br>le tue [[Tears\|lacrime]] laverebbero questo freddo [[Blood\|sangue]] rappreso<br>che m’incolla le labbra e non mi lascia parlare.<br>Vieni presto, Montague, o sono morto. |
+| SOMERSET | Ah, Warwick—Montague ha esalato l’ultimo respiro,<br>e fino all’estremo rantolo invocò Warwick,<br>e disse: ‘Salutami il mio valoroso fratello.’<br>E più avrebbe detto, e più disse,<br>che risuonava come un cannone in una volta,<br>tanto che non si poteva distinguere; ma alla fine<br>[[Well\|bene]] potei udire, proferito con un gemito:<br>‘Oh, addio, Warwick.’ |
+| WARWICK | Dolce riposo alla sua [[Soul\|anima]]. Fuggite, signori, e salvatevi—<br>ché Warwick vi dice addio a tutti, per ritrovarci in cielo.<br>Muore |
+| [[Oxford\|OXFORD]] | Via, via—incontro alla grande forza della [[Queen\|regina]]!<br>Qui portano via il [[Body\|corpo]] di Warwick. Escono |
 
 
 
@@ -3452,11 +3452,11 @@ The True [[Tragedy]] of [[Richard]] [[Duke of York]] and the Good [[King]] Henry
 
 | Chi parla | Battuta |
 |---|---|
-| *(didascalia)* | Squilli. Entra [[King|re]] Edoardo in trionfo, con [[Richard|Riccardo]] [[Duke of Gloucester|duca di Gloucester]], Giorgio duca di [[Clarence]], e soldati |
-| [[King|RE]] EDOARDO | Fin qui la nostra fortuna tiene un corso ascendente,<br>e siamo adornati di serti di vittoria.<br>Ma in mezzo a questo giorno di splendente luce<br>scorgo una nera nube sospetta e minacciosa<br>che verrà a scontrarsi col nostro glorioso sole<br>prima ch’egli raggiunga il suo agiato letto d’occidente.<br>Intendo, signori, che quelle forze che la [[Queen|regina]]<br>ha levato in Gallia sono giunte alla nostra costa,<br>e, a quanto udiamo, marciano a combattere con noi. |
-| GIORGIO DI [[Clarence|CLARENCE]] | Una piccola brezza disperderà presto quella nube,<br>e la risoffierà alla sorgente d’onde venne.<br>I tuoi raggi stessi asciugheranno quei vapori,<br>ché non ogni nube genera una [[Storm|tempesta]]. |
-| [[Richard|RICCARDO]] DI [[Gloucester|GLOUCESTER]] | La [[Queen|regina]] è stimata forte di trentamila,<br>e Somerset, con [[Oxford]], è fuggito presso di lei.<br>Se ella ha [[Time|tempo]] di riprender fiato, siate [[Well|bene]] certi<br>che la sua fazione sarà forte proprio quanto la nostra. |
-| [[King|RE]] EDOARDO | Siamo avvertiti dai nostri affezionati amici<br>che tengono il loro corso verso Tewkesbury.<br>Noi, avendo ora avuto la meglio sul campo di Barnet,<br>ci volgeremo subito là, ché la buona voglia divora la via—<br>e, mentre marciamo, la nostra forza sarà accresciuta<br>in ogni contea lungo il nostro cammino.<br>Rullate il tamburo, gridate ‘[[Courage|Coraggio]]!’; e via. |
+| *(didascalia)* | Squilli. Entra [[King\|re]] Edoardo in trionfo, con [[Richard\|Riccardo]] [[Duke of Gloucester\|duca di Gloucester]], Giorgio duca di [[Clarence]], e soldati |
+| [[King\|RE]] EDOARDO | Fin qui la nostra fortuna tiene un corso ascendente,<br>e siamo adornati di serti di vittoria.<br>Ma in mezzo a questo giorno di splendente luce<br>scorgo una nera nube sospetta e minacciosa<br>che verrà a scontrarsi col nostro glorioso sole<br>prima ch’egli raggiunga il suo agiato letto d’occidente.<br>Intendo, signori, che quelle forze che la [[Queen\|regina]]<br>ha levato in Gallia sono giunte alla nostra costa,<br>e, a quanto udiamo, marciano a combattere con noi. |
+| GIORGIO DI [[Clarence\|CLARENCE]] | Una piccola brezza disperderà presto quella nube,<br>e la risoffierà alla sorgente d’onde venne.<br>I tuoi raggi stessi asciugheranno quei vapori,<br>ché non ogni nube genera una [[Storm\|tempesta]]. |
+| [[Richard\|RICCARDO]] DI [[Gloucester\|GLOUCESTER]] | La [[Queen\|regina]] è stimata forte di trentamila,<br>e Somerset, con [[Oxford]], è fuggito presso di lei.<br>Se ella ha [[Time\|tempo]] di riprender fiato, siate [[Well\|bene]] certi<br>che la sua fazione sarà forte proprio quanto la nostra. |
+| [[King\|RE]] EDOARDO | Siamo avvertiti dai nostri affezionati amici<br>che tengono il loro corso verso Tewkesbury.<br>Noi, avendo ora avuto la meglio sul campo di Barnet,<br>ci volgeremo subito là, ché la buona voglia divora la via—<br>e, mentre marciamo, la nostra forza sarà accresciuta<br>in ogni contea lungo il nostro cammino.<br>Rullate il tamburo, gridate ‘[[Courage\|Coraggio]]!’; e via. |
 | *(didascalia)* | Squilli. Marcia. Escono |
 
 
@@ -3489,22 +3489,22 @@ The True [[Tragedy]] of [[Richard]] [[Duke of York]] and the Good [[King]] Henry
 
 | Chi parla | Battuta |
 |---|---|
-| *(didascalia)* | Squilli. Marcia. Entrano [[Queen Margaret|la regina Margherita]], il principe Edoardo, il duca di Somerset, il conte di [[Oxford]], e soldati |
-| [[Queen Margaret|REGINA MARGHERITA]] | Grandi signori, i saggi non stanno mai a piangere la perdita,<br>ma cercano di buon animo come riparare i danni.<br>Che importa se l’albero è ora spazzato fuori bordo,<br>la gomena rotta, l’ancora di tenuta perduta,<br>e metà dei nostri marinai inghiottita dai flutti?<br>Vive tuttavia il nostro pilota. È conveniente ch’egli<br>lasci il timone e, come un ragazzo timoroso,<br>con occhi lacrimosi aggiunga [[Water|acqua]] al mare,<br>e dia più forza a ciò che ne ha troppa,<br>mentre, nel suo lamento, la [[Ship|nave]] si spacca sullo scoglio<br>che l’operosità e il [[Courage|coraggio]] avrebbero potuto salvare?<br>Ah, quale vergogna; ah, quale colpa sarebbe questa.<br>Diciamo che Warwick era la nostra ancora—e che importa?<br>E Montague il nostro albero maestro—che importa di lui?<br>I nostri amici trucidati le manovre—che importa di questi?<br>Ebbene, non è [[Oxford]] qui un’altra ancora?<br>E Somerset un altro buon albero?<br>Gli amici di Francia le nostre sartie e i nostri attrezzi?<br>E, sebbene inesperti, perché non a Ned e a me<br>per una volta affidare l’ufficio dell’esperto pilota?<br>Non lasceremo il timone per sedere e piangere,<br>ma terremo la rotta, anche se il rude [[Wind|vento]] dice no,<br>lontano da secche e scogli che ci minacciano naufragio.<br>Tanto vale sgridare le onde quanto parlar loro cortese.<br>E che è Edoardo se non un mare spietato?<br>Che è [[Clarence]] se non una sabbia mobile d’inganno?<br>E [[Richard|Riccardo]] se non un aspro scoglio fatale?<br>Tutti questi i nemici della nostra povera barca.<br>Di’ che sai nuotare—ahimè, è per poco;<br>cammina sulla sabbia—ebbene, là affondi presto;<br>inforca lo scoglio—la marea ti spazzerà via,<br>o altrimenti muori di fame. Ecco una triplice [[Death|morte]].<br>Questo dico, signori, per farvi comprendere<br>che, se per caso qualcuno di voi volesse fuggire da noi,<br>non v’è [[Mercy|pietà]] da sperare presso i fratelli York<br>più che presso onde spietate, sabbie e scogli.<br>Dunque, [[Courage|coraggio]]—ciò che non si può evitare<br>sarebbe puerile debolezza lamentarlo o [[Fear|temerlo]]. |
+| *(didascalia)* | Squilli. Marcia. Entrano [[Queen Margaret\|la regina Margherita]], il principe Edoardo, il duca di Somerset, il conte di [[Oxford]], e soldati |
+| [[Queen Margaret\|REGINA MARGHERITA]] | Grandi signori, i saggi non stanno mai a piangere la perdita,<br>ma cercano di buon animo come riparare i danni.<br>Che importa se l’albero è ora spazzato fuori bordo,<br>la gomena rotta, l’ancora di tenuta perduta,<br>e metà dei nostri marinai inghiottita dai flutti?<br>Vive tuttavia il nostro pilota. È conveniente ch’egli<br>lasci il timone e, come un ragazzo timoroso,<br>con occhi lacrimosi aggiunga [[Water\|acqua]] al mare,<br>e dia più forza a ciò che ne ha troppa,<br>mentre, nel suo lamento, la [[Ship\|nave]] si spacca sullo scoglio<br>che l’operosità e il [[Courage\|coraggio]] avrebbero potuto salvare?<br>Ah, quale vergogna; ah, quale colpa sarebbe questa.<br>Diciamo che Warwick era la nostra ancora—e che importa?<br>E Montague il nostro albero maestro—che importa di lui?<br>I nostri amici trucidati le manovre—che importa di questi?<br>Ebbene, non è [[Oxford]] qui un’altra ancora?<br>E Somerset un altro buon albero?<br>Gli amici di Francia le nostre sartie e i nostri attrezzi?<br>E, sebbene inesperti, perché non a Ned e a me<br>per una volta affidare l’ufficio dell’esperto pilota?<br>Non lasceremo il timone per sedere e piangere,<br>ma terremo la rotta, anche se il rude [[Wind\|vento]] dice no,<br>lontano da secche e scogli che ci minacciano naufragio.<br>Tanto vale sgridare le onde quanto parlar loro cortese.<br>E che è Edoardo se non un mare spietato?<br>Che è [[Clarence]] se non una sabbia mobile d’inganno?<br>E [[Richard\|Riccardo]] se non un aspro scoglio fatale?<br>Tutti questi i nemici della nostra povera barca.<br>Di’ che sai nuotare—ahimè, è per poco;<br>cammina sulla sabbia—ebbene, là affondi presto;<br>inforca lo scoglio—la marea ti spazzerà via,<br>o altrimenti muori di fame. Ecco una triplice [[Death\|morte]].<br>Questo dico, signori, per farvi comprendere<br>che, se per caso qualcuno di voi volesse fuggire da noi,<br>non v’è [[Mercy\|pietà]] da sperare presso i fratelli York<br>più che presso onde spietate, sabbie e scogli.<br>Dunque, [[Courage\|coraggio]]—ciò che non si può evitare<br>sarebbe puerile debolezza lamentarlo o [[Fear\|temerlo]]. |
 | PRINCIPE EDOARDO | Mi pare che una donna di questo valoroso spirito<br>dovrebbe, se un codardo l’udisse dire queste parole,<br>infondergli nel petto magnanimità<br>e farlo, disarmato, abbattere un uomo d’armi.<br>Non dico questo per dubitare d’alcuno qui—<br>ché se solo sospettassi un uomo timoroso,<br>avrebbe licenza d’andarsene a tempo,<br>perché nel nostro bisogno non contagi un altro<br>e non lo faccia di spirito simile al suo.<br>Se qualcuno tale è qui—Dio non voglia—<br>parta prima che ci occorra il suo aiuto. |
-| [[Oxford|OXFORD]] | Donne e fanciulli di così alto [[Courage|coraggio]],<br>e guerrieri smarriti—ebbene, sarebbe vergogna perpetua!<br>O bravo giovane principe, il tuo famoso avo<br>vive di nuovo in te! Lungamente possa tu vivere<br>a portare la sua immagine e a rinnovare le sue glorie I |
-| SOMERSET | E chi non vuol combattere per una tale [[Hope|speranza]],<br>vada a [[Home|casa]] a letto, e come la civetta di giorno,<br>se si alza, sia deriso e additato a stupore. |
-| [[Queen Margaret|REGINA MARGHERITA]] | Grazie, gentile Somerset; dolce [[Oxford]], grazie. |
+| [[Oxford\|OXFORD]] | Donne e fanciulli di così alto [[Courage\|coraggio]],<br>e guerrieri smarriti—ebbene, sarebbe vergogna perpetua!<br>O bravo giovane principe, il tuo famoso avo<br>vive di nuovo in te! Lungamente possa tu vivere<br>a portare la sua immagine e a rinnovare le sue glorie I |
+| SOMERSET | E chi non vuol combattere per una tale [[Hope\|speranza]],<br>vada a [[Home\|casa]] a letto, e come la civetta di giorno,<br>se si alza, sia deriso e additato a stupore. |
+| [[Queen Margaret\|REGINA MARGHERITA]] | Grazie, gentile Somerset; dolce [[Oxford]], grazie. |
 | PRINCIPE EDOARDO | E accettate i ringraziamenti di chi non ha ancora altro. |
 | *(didascalia)* | Entra un Messo |
 | MESSO | Preparatevi, signori, ché Edoardo è vicino,<br>pronto a combattere—perciò siate risoluti. |
-| [[Oxford|OXFORD]] | Non pensavo meno. È sua tattica<br>affrettarsi così per trovarci sprovvisti. |
+| [[Oxford\|OXFORD]] | Non pensavo meno. È sua tattica<br>affrettarsi così per trovarci sprovvisti. |
 | SOMERSET | Ma s’inganna; noi siamo pronti. |
-| [[Queen Margaret|REGINA MARGHERITA]] | Questo mi rallegra il cuore, vedere la vostra prontezza. |
-| [[Oxford|OXFORD]] | Qui piantiamo la nostra battaglia—di qui non ci moveremo. |
-| *(didascalia)* | Squilli e marcia. Entrano [[King|re]] Edoardo, [[Richard|Riccardo]] [[Duke of Gloucester|duca di Gloucester]], e Giorgio duca di [[Clarence]], con soldati |
-| [[King|RE]] EDOARDO | (ai suoi seguaci)<br>Bravi seguaci, là si erge il bosco spinoso<br>che, con l’aiuto dei cieli e la vostra forza,<br>dev’essere sradicato prima che venga [[Night|notte]].<br>Non ho bisogno d’aggiungere altra esca al vostro [[Fire|fuoco]],<br>ché [[Well|bene]] so che fiammeggiate per bruciarli fuori.<br>Date il segnale alla battaglia, e all’opera, signori. |
-| [[Queen Margaret|REGINA MARGHERITA]] | (ai suoi seguaci)<br>Signori, cavalieri e gentiluomini—ciò che dovrei dire<br>le mie [[Tears|lacrime]] lo contraddicono; ché a ogni parola che dico<br>vedete ch’io bevo l’[[Water|acqua]] del mio occhio.<br>Perciò, non altro che questo: Enrico vostro sovrano<br>è prigioniero del nemico, il suo stato usurpato,<br>il suo regno una [[house|casa]] di macello, i suoi sudditi uccisi,<br>i suoi statuti annullati, e il suo tesoro speso—<br>e là è il lupo che fa questa strage.<br>Voi combattete per giustizia; dunque, in nome di Dio, signori,<br>siate valorosi, e date il segnale alla battaglia. |
+| [[Queen Margaret\|REGINA MARGHERITA]] | Questo mi rallegra il cuore, vedere la vostra prontezza. |
+| [[Oxford\|OXFORD]] | Qui piantiamo la nostra battaglia—di qui non ci moveremo. |
+| *(didascalia)* | Squilli e marcia. Entrano [[King\|re]] Edoardo, [[Richard\|Riccardo]] [[Duke of Gloucester\|duca di Gloucester]], e Giorgio duca di [[Clarence]], con soldati |
+| [[King\|RE]] EDOARDO | (ai suoi seguaci)<br>Bravi seguaci, là si erge il bosco spinoso<br>che, con l’aiuto dei cieli e la vostra forza,<br>dev’essere sradicato prima che venga [[Night\|notte]].<br>Non ho bisogno d’aggiungere altra esca al vostro [[Fire\|fuoco]],<br>ché [[Well\|bene]] so che fiammeggiate per bruciarli fuori.<br>Date il segnale alla battaglia, e all’opera, signori. |
+| [[Queen Margaret\|REGINA MARGHERITA]] | (ai suoi seguaci)<br>Signori, cavalieri e gentiluomini—ciò che dovrei dire<br>le mie [[Tears\|lacrime]] lo contraddicono; ché a ogni parola che dico<br>vedete ch’io bevo l’[[Water\|acqua]] del mio occhio.<br>Perciò, non altro che questo: Enrico vostro sovrano<br>è prigioniero del nemico, il suo stato usurpato,<br>il suo regno una [[house\|casa]] di macello, i suoi sudditi uccisi,<br>i suoi statuti annullati, e il suo tesoro speso—<br>e là è il lupo che fa questa strage.<br>Voi combattete per giustizia; dunque, in nome di Dio, signori,<br>siate valorosi, e date il segnale alla battaglia. |
 | *(didascalia)* | Squillo d’allarme, ritirata, scorrerie. Escono |
 
 
@@ -3568,54 +3568,54 @@ The True [[Tragedy]] of [[Richard]] [[Duke of York]] and the Good [[King]] Henry
 
 | Chi parla | Battuta |
 |---|---|
-| *(didascalia)* | Squilli. Entrano [[King|re]] Edoardo, [[Richard|Riccardo]] [[Duke of Gloucester|duca di Gloucester]], e Giorgio duca di [[Clarence]] con [[Queen Margaret|la regina Margherita]], il conte di [[Oxford]], e il duca di Somerset, sotto scorta |
-| [[King|RE]] EDOARDO | Ora qui un termine ai tumultuosi conflitti.<br>Via con [[Oxford]], subito al [[Castle|castello]] di Hames;<br>quanto a Somerset, giù la sua testa colpevole.<br>Portateli via di qui—non voglio udirli parlare. |
-| [[Oxford|OXFORD]] | Per la mia parte, non ti darò noia con parole. |
+| *(didascalia)* | Squilli. Entrano [[King\|re]] Edoardo, [[Richard\|Riccardo]] [[Duke of Gloucester\|duca di Gloucester]], e Giorgio duca di [[Clarence]] con [[Queen Margaret\|la regina Margherita]], il conte di [[Oxford]], e il duca di Somerset, sotto scorta |
+| [[King\|RE]] EDOARDO | Ora qui un termine ai tumultuosi conflitti.<br>Via con [[Oxford]], subito al [[Castle\|castello]] di Hames;<br>quanto a Somerset, giù la sua testa colpevole.<br>Portateli via di qui—non voglio udirli parlare. |
+| [[Oxford\|OXFORD]] | Per la mia parte, non ti darò noia con parole. |
 | *(didascalia)* | Esce, sotto scorta |
 | SOMERSET | Né io, ma mi piegherò con pazienza alla mia fortuna. |
 | *(didascalia)* | Esce, sotto scorta |
-| [[Queen Margaret|REGINA MARGHERITA]] | Così ci separiamo tristi in questo mondo turbolento<br>per ritrovarci con gioia nella dolce Gerusalemme. |
-| [[King|RE]] EDOARDO | È stato fatto proclama che chi trova Edoardo<br>avrà alta ricompensa ed egli la vita? |
-| [[Richard|RICCARDO]] DI [[Gloucester|GLOUCESTER]] | È stato fatto, ed ecco dove viene il giovane Edoardo. |
+| [[Queen Margaret\|REGINA MARGHERITA]] | Così ci separiamo tristi in questo mondo turbolento<br>per ritrovarci con gioia nella dolce Gerusalemme. |
+| [[King\|RE]] EDOARDO | È stato fatto proclama che chi trova Edoardo<br>avrà alta ricompensa ed egli la vita? |
+| [[Richard\|RICCARDO]] DI [[Gloucester\|GLOUCESTER]] | È stato fatto, ed ecco dove viene il giovane Edoardo. |
 | *(didascalia)* | Entra il principe Edoardo, sotto scorta |
-| [[King|RE]] EDOARDO | Portate avanti il prode—udiamolo parlare.<br>Che, può una spina così giovane cominciare a pungere?<br>Edoardo, quale soddisfazione puoi tu dare<br>per aver portato le armi, per aver sollevato i miei sudditi,<br>e per tutto il travaglio in cui m’hai messo? |
-| PRINCIPE EDOARDO | Parla come un suddito, superbo ambizioso York.<br>Poni che io sia ora la bocca di mio padre—<br>rassegna il tuo seggio, e dove io sto, inginòcchiati tu,<br>mentre io rivolgo a te le [[Self|stesse]] parole<br>alle quali, traditore, tu vorresti che io rispondessi. |
-| [[Queen Margaret|REGINA MARGHERITA]] | Ah, se tuo padre fosse stato così risoluto. |
-| [[Richard|RICCARDO]] DI [[Gloucester|GLOUCESTER]] | Così avreste ancora portato la sottana<br>e non avreste mai rubato i calzoni a Lancaster. |
-| PRINCIPE EDOARDO | Lasciate che Esopo [[Fable|favoleggi]] in una [[Night|notte]] d’[[Winter|inverno]]—<br>i suoi ringhiosi enigmi non s’accordano con questo luogo. |
-| [[Richard|RICCARDO]] DI [[Gloucester|GLOUCESTER]] | Per il cielo, marmocchio, ti tormenterò per quella parola. |
-| [[Queen Margaret|REGINA MARGHERITA]] | Sì, tu nascesti per essere un tormento agli uomini. |
-| [[Richard|RICCARDO]] DI [[Gloucester|GLOUCESTER]] | Per amor di Dio, portate via questa megera prigioniera. |
+| [[King\|RE]] EDOARDO | Portate avanti il prode—udiamolo parlare.<br>Che, può una spina così giovane cominciare a pungere?<br>Edoardo, quale soddisfazione puoi tu dare<br>per aver portato le armi, per aver sollevato i miei sudditi,<br>e per tutto il travaglio in cui m’hai messo? |
+| PRINCIPE EDOARDO | Parla come un suddito, superbo ambizioso York.<br>Poni che io sia ora la bocca di mio padre—<br>rassegna il tuo seggio, e dove io sto, inginòcchiati tu,<br>mentre io rivolgo a te le [[Self\|stesse]] parole<br>alle quali, traditore, tu vorresti che io rispondessi. |
+| [[Queen Margaret\|REGINA MARGHERITA]] | Ah, se tuo padre fosse stato così risoluto. |
+| [[Richard\|RICCARDO]] DI [[Gloucester\|GLOUCESTER]] | Così avreste ancora portato la sottana<br>e non avreste mai rubato i calzoni a Lancaster. |
+| PRINCIPE EDOARDO | Lasciate che Esopo [[Fable\|favoleggi]] in una [[Night\|notte]] d’[[Winter\|inverno]]—<br>i suoi ringhiosi enigmi non s’accordano con questo luogo. |
+| [[Richard\|RICCARDO]] DI [[Gloucester\|GLOUCESTER]] | Per il cielo, marmocchio, ti tormenterò per quella parola. |
+| [[Queen Margaret\|REGINA MARGHERITA]] | Sì, tu nascesti per essere un tormento agli uomini. |
+| [[Richard\|RICCARDO]] DI [[Gloucester\|GLOUCESTER]] | Per amor di Dio, portate via questa megera prigioniera. |
 | PRINCIPE EDOARDO | Anzi, portate via piuttosto questo gobbo che sbraita. |
-| [[King|RE]] EDOARDO | Taci, ragazzo ostinato, o incanterò la tua lingua. |
-| GIORGIO DI [[Clarence|CLARENCE]] | (al principe Edoardo)<br>Ragazzo maleducato, sei troppo impertinente. |
+| [[King\|RE]] EDOARDO | Taci, ragazzo ostinato, o incanterò la tua lingua. |
+| GIORGIO DI [[Clarence\|CLARENCE]] | (al principe Edoardo)<br>Ragazzo maleducato, sei troppo impertinente. |
 | PRINCIPE EDOARDO | Conosco il mio dovere—voi siete tutti senza dovere.<br>Lascivo Edoardo, e tu, spergiuro Giorgio,<br>e tu, deforme Dick—vi dico a tutti<br>che io sono il vostro superiore, traditori quali siete,<br>e tu usurpi il diritto di mio padre e il mio. |
-| [[King|RE]] EDOARDO | Prendi questo, tu che somigli a costui che inveisce.<br>[[King|Re]] Edoardo pugnala il principe Edoardo |
-| [[Richard|RICCARDO]] DI [[Gloucester|GLOUCESTER]] | Ti dibatti? Prendi questo, per por fine alla tua agonia.<br>[[Richard|Riccardo]] pugnala il principe Edoardo |
-| GIORGIO DI [[Clarence|CLARENCE]] | E questo per avermi rimproverato lo spergiuro. |
+| [[King\|RE]] EDOARDO | Prendi questo, tu che somigli a costui che inveisce.<br>[[King\|Re]] Edoardo pugnala il principe Edoardo |
+| [[Richard\|RICCARDO]] DI [[Gloucester\|GLOUCESTER]] | Ti dibatti? Prendi questo, per por fine alla tua agonia.<br>[[Richard\|Riccardo]] pugnala il principe Edoardo |
+| GIORGIO DI [[Clarence\|CLARENCE]] | E questo per avermi rimproverato lo spergiuro. |
 | *(didascalia)* | Giorgio pugnala il principe Edoardo, che muore |
-| [[Queen Margaret|REGINA MARGHERITA]] | Oh, uccidete anche me! |
-| [[Richard|RICCARDO]] DI [[Gloucester|GLOUCESTER]] | Davvero, e lo farò.<br>Fa per ucciderla |
-| [[King|RE]] EDOARDO | Ferma, [[Richard|Riccardo]], ferma—ché abbiamo fatto troppo. |
-| [[Richard|RICCARDO]] DI [[Gloucester|GLOUCESTER]] | Perché dovrebbe vivere per empire il mondo di parole?<br>[[Queen Margaret|La regina Margherita]] viene meno |
-| [[King|RE]] EDOARDO | Che—sviene? Adoperate mezzi per farla riprendere. |
-| [[Richard|RICCARDO]] DI [[Gloucester|GLOUCESTER]] | (a parte, a Giorgio)<br>[[Clarence]], scusami col [[King|re]] mio fratello.<br>Vado di qui a [[London|Londra]] per una cosa seria.<br>Prima che voi arriviate là, siate certi d’udire qualche nuova. |
-| GIORGIO DI [[Clarence|CLARENCE]] | (a parte, a [[Richard|Riccardo]]) Che? Che cosa? |
-| [[Richard|RICCARDO]] DI [[Gloucester|GLOUCESTER]] | (a parte, a Giorgio)<br>La Torre, la Torre. Esce |
-| [[Queen Margaret|REGINA MARGHERITA]] | O Ned, dolce Ned—parla a tua madre, ragazzo.<br>Non puoi parlare? O traditori, assassini!<br>Quelli che pugnalarono Cesare non versarono [[Blood|sangue]] alcuno,<br>non offesero, né furono degni di biasimo,<br>se questa turpe azione stesse accanto a paragone.<br>Egli era un uomo—questi, a confronto, un [[Child|fanciullo]];<br>e gli uomini non sfogano mai la loro furia su un [[Child|fanciullo]].<br>Che è peggio d’assassino, ch’io possa nominarlo?<br>No, no, il mio cuore scoppierà se parlo;<br>e parlerò, sì che il mio cuore possa scoppiare.<br>Macellai e scellerati! Cannibali sanguinari!<br>Che dolce pianta avete recisa innanzi tempo!<br>Voi non avete figli, macellai; se ne avessi,<br>il pensiero di essi avrebbe destato rimorso.<br>Ma se mai vi càpiti d’avere un [[Child|figlio]],<br>attendetevi di vederlo troncato nella giovinezza<br>come voi, carnefici, avete stroncato questo dolce giovane principe! |
-| [[King|RE]] EDOARDO | Portatela via—andate, conducetela via a forza. |
-| [[Queen Margaret|REGINA MARGHERITA]] | No, non portatemi via—finitemi qui.<br>Qui affonda la tua [[Sword|spada]]—ti perdonerò la mia [[Death|morte]].<br>Che? Non vuoi? Allora, [[Clarence]], fallo tu. |
-| GIORGIO DI [[Clarence|CLARENCE]] | Per il cielo, non ti farò tanto favore. |
-| [[Queen Margaret|REGINA MARGHERITA]] | Buon [[Clarence]], fallo; dolce [[Clarence]], fallo tu. |
-| GIORGIO DI [[Clarence|CLARENCE]] | Non m’hai udito giurare che non l’avrei fatto? |
-| [[Queen Margaret|REGINA MARGHERITA]] | Sì, ma tu sei solito spergiurare.<br>Prima era peccato, ma ora è [[Charity|carità]].<br>Che, non vuoi? Dov’è quel macellaio del diavolo,<br>il rozzo [[Richard|Riccardo]]? [[Richard|Riccardo]], dove sei?<br>Tu non sei qui. L’assassinio è la tua opera di carità—<br>i postulanti di [[Blood|sangue]] tu non li respingi mai. |
-| [[King|RE]] EDOARDO | Via, dico—t’ordino, portatela di qui. |
-| [[Queen Margaret|REGINA MARGHERITA]] | Così venga a voi e ai vostri come a questo principe! |
+| [[Queen Margaret\|REGINA MARGHERITA]] | Oh, uccidete anche me! |
+| [[Richard\|RICCARDO]] DI [[Gloucester\|GLOUCESTER]] | Davvero, e lo farò.<br>Fa per ucciderla |
+| [[King\|RE]] EDOARDO | Ferma, [[Richard\|Riccardo]], ferma—ché abbiamo fatto troppo. |
+| [[Richard\|RICCARDO]] DI [[Gloucester\|GLOUCESTER]] | Perché dovrebbe vivere per empire il mondo di parole?<br>[[Queen Margaret\|La regina Margherita]] viene meno |
+| [[King\|RE]] EDOARDO | Che—sviene? Adoperate mezzi per farla riprendere. |
+| [[Richard\|RICCARDO]] DI [[Gloucester\|GLOUCESTER]] | (a parte, a Giorgio)<br>[[Clarence]], scusami col [[King\|re]] mio fratello.<br>Vado di qui a [[London\|Londra]] per una cosa seria.<br>Prima che voi arriviate là, siate certi d’udire qualche nuova. |
+| GIORGIO DI [[Clarence\|CLARENCE]] | (a parte, a [[Richard\|Riccardo]]) Che? Che cosa? |
+| [[Richard\|RICCARDO]] DI [[Gloucester\|GLOUCESTER]] | (a parte, a Giorgio)<br>La Torre, la Torre. Esce |
+| [[Queen Margaret\|REGINA MARGHERITA]] | O Ned, dolce Ned—parla a tua madre, ragazzo.<br>Non puoi parlare? O traditori, assassini!<br>Quelli che pugnalarono Cesare non versarono [[Blood\|sangue]] alcuno,<br>non offesero, né furono degni di biasimo,<br>se questa turpe azione stesse accanto a paragone.<br>Egli era un uomo—questi, a confronto, un [[Child\|fanciullo]];<br>e gli uomini non sfogano mai la loro furia su un [[Child\|fanciullo]].<br>Che è peggio d’assassino, ch’io possa nominarlo?<br>No, no, il mio cuore scoppierà se parlo;<br>e parlerò, sì che il mio cuore possa scoppiare.<br>Macellai e scellerati! Cannibali sanguinari!<br>Che dolce pianta avete recisa innanzi tempo!<br>Voi non avete figli, macellai; se ne avessi,<br>il pensiero di essi avrebbe destato rimorso.<br>Ma se mai vi càpiti d’avere un [[Child\|figlio]],<br>attendetevi di vederlo troncato nella giovinezza<br>come voi, carnefici, avete stroncato questo dolce giovane principe! |
+| [[King\|RE]] EDOARDO | Portatela via—andate, conducetela via a forza. |
+| [[Queen Margaret\|REGINA MARGHERITA]] | No, non portatemi via—finitemi qui.<br>Qui affonda la tua [[Sword\|spada]]—ti perdonerò la mia [[Death\|morte]].<br>Che? Non vuoi? Allora, [[Clarence]], fallo tu. |
+| GIORGIO DI [[Clarence\|CLARENCE]] | Per il cielo, non ti farò tanto favore. |
+| [[Queen Margaret\|REGINA MARGHERITA]] | Buon [[Clarence]], fallo; dolce [[Clarence]], fallo tu. |
+| GIORGIO DI [[Clarence\|CLARENCE]] | Non m’hai udito giurare che non l’avrei fatto? |
+| [[Queen Margaret\|REGINA MARGHERITA]] | Sì, ma tu sei solito spergiurare.<br>Prima era peccato, ma ora è [[Charity\|carità]].<br>Che, non vuoi? Dov’è quel macellaio del diavolo,<br>il rozzo [[Richard\|Riccardo]]? [[Richard\|Riccardo]], dove sei?<br>Tu non sei qui. L’assassinio è la tua opera di carità—<br>i postulanti di [[Blood\|sangue]] tu non li respingi mai. |
+| [[King\|RE]] EDOARDO | Via, dico—t’ordino, portatela di qui. |
+| [[Queen Margaret\|REGINA MARGHERITA]] | Così venga a voi e ai vostri come a questo principe! |
 | *(didascalia)* | Esce, sotto scorta |
-| [[King|RE]] EDOARDO | Dov’è andato [[Richard|Riccardo]]? |
-| *(didascalia)* | A [[London|Londra]] tutto d’un fiato—a parte e, come immagino, |
-| GIORGIO DI [[Clarence|CLARENCE]] | a fare una cena sanguinosa nella Torre. |
-| [[King|RE]] EDOARDO | È fulmineo, quando una cosa gli entra in testa.<br>Ora marciamo di qui. Licenziate la gente comune<br>con paga e ringraziamenti, e andiamo a [[London|Londra]],<br>e vediamo come sta [[Well|bene]] la nostra gentile [[Queen|regina]].<br>A quest’ora [[Hope|spero]] ch’ella m’abbia dato un figlio. Escono |
+| [[King\|RE]] EDOARDO | Dov’è andato [[Richard\|Riccardo]]? |
+| *(didascalia)* | A [[London\|Londra]] tutto d’un fiato—a parte e, come immagino, |
+| GIORGIO DI [[Clarence\|CLARENCE]] | a fare una cena sanguinosa nella Torre. |
+| [[King\|RE]] EDOARDO | È fulmineo, quando una cosa gli entra in testa.<br>Ora marciamo di qui. Licenziate la gente comune<br>con paga e ringraziamenti, e andiamo a [[London\|Londra]],<br>e vediamo come sta [[Well\|bene]] la nostra gentile [[Queen\|regina]].<br>A quest’ora [[Hope\|spero]] ch’ella m’abbia dato un figlio. Escono |
 
 
 
@@ -3648,24 +3648,24 @@ The True [[Tragedy]] of [[Richard]] [[Duke of York]] and the Good [[King]] Henry
 
 | Chi parla | Battuta |
 |---|---|
-| *(didascalia)* | Entrano sulle mura [[King|re]] Enrico Sesto, che legge un libro, [[Richard|Riccardo]] [[Duke of Gloucester|duca di Gloucester]], e il Luogotenente della Torre |
-| [[Richard|RICCARDO]] DI [[Gloucester|GLOUCESTER]] | Buon giorno, mio signore. Che, così intento al vostro libro? |
-| [[King|RE]] ENRICO | Sì, mio buon fignore—‘mio signore’, dovrei dire, piuttosto.<br>È peccato adulare; ‘buono’ era poco meglio.<br>‘Buon [[Gloucester]]’ e ‘buon diavolo’ sarebbero pari,<br>ed entrambi assurdi—perciò non ‘buon signore’. |
-| [[Richard|RICCARDO]] DI [[Gloucester|GLOUCESTER]] | (al Luogotenente)<br>Tu, lasciaci soli. Dobbiamo conferire. |
+| *(didascalia)* | Entrano sulle mura [[King\|re]] Enrico Sesto, che legge un libro, [[Richard\|Riccardo]] [[Duke of Gloucester\|duca di Gloucester]], e il Luogotenente della Torre |
+| [[Richard\|RICCARDO]] DI [[Gloucester\|GLOUCESTER]] | Buon giorno, mio signore. Che, così intento al vostro libro? |
+| [[King\|RE]] ENRICO | Sì, mio buon fignore—‘mio signore’, dovrei dire, piuttosto.<br>È peccato adulare; ‘buono’ era poco meglio.<br>‘Buon [[Gloucester]]’ e ‘buon diavolo’ sarebbero pari,<br>ed entrambi assurdi—perciò non ‘buon signore’. |
+| [[Richard\|RICCARDO]] DI [[Gloucester\|GLOUCESTER]] | (al Luogotenente)<br>Tu, lasciaci soli. Dobbiamo conferire. |
 | *(didascalia)* | Esce il Luogotenente |
-| [[King|RE]] ENRICO | Così fugge il pastore incurante dal lupo;<br>così la pecora innocua cede prima il suo vello,<br>e poi la gola al coltello del macellaio.<br>Quale scena di [[Death|morte]] ha ora Roscio da recitare? |
-| [[Richard|RICCARDO]] DI [[Gloucester|GLOUCESTER]] | Il sospetto assilla sempre la mente colpevole;<br>il ladro [[Fear|teme]] che ogni cespuglio sia una guardia. |
-| [[King|RE]] ENRICO | L’uccello che fu preso col vischio in un cespuglio<br>con ali tremanti sospetta d’ogni cespuglio.<br>E io, lo sventurato maschio d’un dolce uccello,<br>ho ora davanti agli occhi l’oggetto fatale<br>là dove il mio povero nato fu invischiato, fu preso e<br>ucciso. |
-| [[Richard|RICCARDO]] DI [[Gloucester|GLOUCESTER]] | Ebbene, che stizzoso [[Fool|folle]] fu quello di Creta,<br>che insegnò a suo figlio l’ufficio d’un uccello!<br>E tuttavia, con tutte le sue ali, il [[Fool|folle]] annegò. |
-| [[King|RE]] ENRICO | Io, Dedalo; il mio povero ragazzo, Icaro;<br>tuo padre, Minosse, che ci negò la rotta;<br>il sole che bruciò le ali del mio dolce ragazzo,<br>tuo fratello Edoardo; e tu stesso, il mare,<br>il cui gorgo invidioso [[Swallow|inghiottì]] la sua vita.<br>Ah, uccidimi con la tua arma, non con le parole!<br>Il mio petto può meglio tollerare la punta del tuo pugnale<br>di quanto le mie orecchie quella tragica [[history|storia]].<br>Ma perché vieni? È per la mia vita? |
-| [[Richard|RICCARDO]] DI [[Gloucester|GLOUCESTER]] | Credi tu ch’io sia un carnefice? |
-| [[King|RE]] ENRICO | Un persecutore sono certo che tu sei;<br>se assassinare innocenti è giustiziare,<br>ebbene, allora tu sei un carnefice. |
-| [[Richard|RICCARDO]] DI [[Gloucester|GLOUCESTER]] | Tuo figlio l’uccisi per la sua presunzione. |
-| [[King|RE]] ENRICO | Fossi stato ucciso quando presumesti la prima volta,<br>non avresti vissuto per uccidere un figlio mio.<br>E così profetizzo: che molte migliaia<br>che ora non sospettano nulla del mio [[Fear|timore]],<br>e molti sospiri di vecchi, e molti di vedove,<br>e molti occhi d’[[Orphan|orfano]] gonfi d’[[Water|acqua]]—<br>uomini per i figli, mogli per i mariti,<br>orfani per l’intempestiva [[Death|morte]] dei genitori—<br>piangeranno l’ora in cui tu nascesti.<br>La civetta stridette alla tua nascita—segno maligno;<br>il corvo della [[Night|notte]] gridò, presagendo [[Time|tempo]] infausto;<br>[[dogs|cani]] ulularono, e orride tempeste abbatterono alberi;<br>[[The Raven|il corvo]] s’accovacciò in cima al camino;<br>e gazze ciarliere cantarono in lugubri discordi.<br>Tua madre sentì più del [[Pain|dolore]] d’una madre,<br>e tuttavia partorì meno della [[Hope|speranza]] d’una madre—<br>cioè, un grumo informe e deforme,<br>non simile al frutto d’un albero così bello.<br>Denti avesti in bocca quando nascesti,<br>a significare che venivi a morder il mondo;<br>e se è vero il resto che ho udito,<br>tu venisti— |
-| [[Richard|RICCARDO]] | Non udrò altro. Muori, [[Prophet|profeta]], nel tuo discorso,<br>Lo pugnala<br>ché a questo, fra l’altro, fui destinato. |
-| [[King|RE]] ENRICO | Sì, e a molta più strage dopo questa.<br>Oh, Dio perdoni i miei peccati, e perdoni te. Muore |
-| [[Richard|RICCARDO]] DI [[Gloucester|GLOUCESTER]] | Che—il [[Blood|sangue]] ambizioso di Lancaster<br>affonderà nella terra? Credevo che sarebbe salito.<br>Guarda come la mia [[Sword|spada]] piange per la [[Death|morte]] del povero [[King|re]].<br>Oh, siano sempre versate tali [[Tears|lacrime]] purpuree<br>da quelli che desiderano la caduta della nostra [[house|casa]]!<br>Se qualche scintilla di vita ancora rimane,<br>giù, giù all’inferno, e di’ che io ti mandai là—<br>Lo pugnala di nuovo<br>io che non ho né pietà, né [[Love|amore]], né [[Fear|timore]].<br>Davvero, è vero ciò che Enrico mi disse,<br>ché ho spesso udito mia madre dire<br>che venni al mondo coi piedi avanti.<br>Non avevo ragione, credete, d’affrettarmi,<br>e di cercar la rovina di chi usurpò il nostro diritto?<br>La levatrice si stupì e le donne gridarono<br>‘Oh, Gesù ci benedica, è nato coi denti !—<br>e così fu, il che chiaramente significava<br>ch’io dovevo ringhiare e mordere e fare il cane.<br>Dunque, poiché i cieli han foggiato così il mio [[Body|corpo]],<br>renda l’inferno storta la mia mente per corrispondervi.<br>Non ho avuto padre, non somiglio ad alcun padre;<br>non ho fratello, non somiglio ad alcun fratello;<br>e questa parola, ‘[[Love|amore]]’, che i barbagrigi chiaman divina,<br>risieda negli uomini simili l’uno all’altro<br>e non in me—io sono me stesso, [[Alone|solo]].<br>[[Clarence]], guàrdati; tu m’hai tenuto lontano dalla luce—<br>ma io ti apparecchierò un giorno di pece.<br>Ché farò ronzare intorno tali profezie<br>che Edoardo temerà per la sua vita,<br>e allora, per purgare il suo [[Fear|timore]], io sarò la tua [[Death|morte]].<br>Enrico e suo figlio non sono più; tu, [[Clarence]], sei il prossimo;<br>e a uno a uno spedirò gli altri,<br>tenendomi per nulla finché non sia il primo.<br>Getterò il tuo [[Body|corpo]] in un’altra stanza<br>e trionferò, Enrico, nel tuo giorno di rovina. |
-| *(didascalia)* | Esce col [[Body|corpo]] |
+| [[King\|RE]] ENRICO | Così fugge il pastore incurante dal lupo;<br>così la pecora innocua cede prima il suo vello,<br>e poi la gola al coltello del macellaio.<br>Quale scena di [[Death\|morte]] ha ora Roscio da recitare? |
+| [[Richard\|RICCARDO]] DI [[Gloucester\|GLOUCESTER]] | Il sospetto assilla sempre la mente colpevole;<br>il ladro [[Fear\|teme]] che ogni cespuglio sia una guardia. |
+| [[King\|RE]] ENRICO | L’uccello che fu preso col vischio in un cespuglio<br>con ali tremanti sospetta d’ogni cespuglio.<br>E io, lo sventurato maschio d’un dolce uccello,<br>ho ora davanti agli occhi l’oggetto fatale<br>là dove il mio povero nato fu invischiato, fu preso e<br>ucciso. |
+| [[Richard\|RICCARDO]] DI [[Gloucester\|GLOUCESTER]] | Ebbene, che stizzoso [[Fool\|folle]] fu quello di Creta,<br>che insegnò a suo figlio l’ufficio d’un uccello!<br>E tuttavia, con tutte le sue ali, il [[Fool\|folle]] annegò. |
+| [[King\|RE]] ENRICO | Io, Dedalo; il mio povero ragazzo, Icaro;<br>tuo padre, Minosse, che ci negò la rotta;<br>il sole che bruciò le ali del mio dolce ragazzo,<br>tuo fratello Edoardo; e tu stesso, il mare,<br>il cui gorgo invidioso [[Swallow\|inghiottì]] la sua vita.<br>Ah, uccidimi con la tua arma, non con le parole!<br>Il mio petto può meglio tollerare la punta del tuo pugnale<br>di quanto le mie orecchie quella tragica [[history\|storia]].<br>Ma perché vieni? È per la mia vita? |
+| [[Richard\|RICCARDO]] DI [[Gloucester\|GLOUCESTER]] | Credi tu ch’io sia un carnefice? |
+| [[King\|RE]] ENRICO | Un persecutore sono certo che tu sei;<br>se assassinare innocenti è giustiziare,<br>ebbene, allora tu sei un carnefice. |
+| [[Richard\|RICCARDO]] DI [[Gloucester\|GLOUCESTER]] | Tuo figlio l’uccisi per la sua presunzione. |
+| [[King\|RE]] ENRICO | Fossi stato ucciso quando presumesti la prima volta,<br>non avresti vissuto per uccidere un figlio mio.<br>E così profetizzo: che molte migliaia<br>che ora non sospettano nulla del mio [[Fear\|timore]],<br>e molti sospiri di vecchi, e molti di vedove,<br>e molti occhi d’[[Orphan\|orfano]] gonfi d’[[Water\|acqua]]—<br>uomini per i figli, mogli per i mariti,<br>orfani per l’intempestiva [[Death\|morte]] dei genitori—<br>piangeranno l’ora in cui tu nascesti.<br>La civetta stridette alla tua nascita—segno maligno;<br>il corvo della [[Night\|notte]] gridò, presagendo [[Time\|tempo]] infausto;<br>[[dogs\|cani]] ulularono, e orride tempeste abbatterono alberi;<br>[[The Raven\|il corvo]] s’accovacciò in cima al camino;<br>e gazze ciarliere cantarono in lugubri discordi.<br>Tua madre sentì più del [[Pain\|dolore]] d’una madre,<br>e tuttavia partorì meno della [[Hope\|speranza]] d’una madre—<br>cioè, un grumo informe e deforme,<br>non simile al frutto d’un albero così bello.<br>Denti avesti in bocca quando nascesti,<br>a significare che venivi a morder il mondo;<br>e se è vero il resto che ho udito,<br>tu venisti— |
+| [[Richard\|RICCARDO]] | Non udrò altro. Muori, [[Prophet\|profeta]], nel tuo discorso,<br>Lo pugnala<br>ché a questo, fra l’altro, fui destinato. |
+| [[King\|RE]] ENRICO | Sì, e a molta più strage dopo questa.<br>Oh, Dio perdoni i miei peccati, e perdoni te. Muore |
+| [[Richard\|RICCARDO]] DI [[Gloucester\|GLOUCESTER]] | Che—il [[Blood\|sangue]] ambizioso di Lancaster<br>affonderà nella terra? Credevo che sarebbe salito.<br>Guarda come la mia [[Sword\|spada]] piange per la [[Death\|morte]] del povero [[King\|re]].<br>Oh, siano sempre versate tali [[Tears\|lacrime]] purpuree<br>da quelli che desiderano la caduta della nostra [[house\|casa]]!<br>Se qualche scintilla di vita ancora rimane,<br>giù, giù all’inferno, e di’ che io ti mandai là—<br>Lo pugnala di nuovo<br>io che non ho né pietà, né [[Love\|amore]], né [[Fear\|timore]].<br>Davvero, è vero ciò che Enrico mi disse,<br>ché ho spesso udito mia madre dire<br>che venni al mondo coi piedi avanti.<br>Non avevo ragione, credete, d’affrettarmi,<br>e di cercar la rovina di chi usurpò il nostro diritto?<br>La levatrice si stupì e le donne gridarono<br>‘Oh, Gesù ci benedica, è nato coi denti !—<br>e così fu, il che chiaramente significava<br>ch’io dovevo ringhiare e mordere e fare il cane.<br>Dunque, poiché i cieli han foggiato così il mio [[Body\|corpo]],<br>renda l’inferno storta la mia mente per corrispondervi.<br>Non ho avuto padre, non somiglio ad alcun padre;<br>non ho fratello, non somiglio ad alcun fratello;<br>e questa parola, ‘[[Love\|amore]]’, che i barbagrigi chiaman divina,<br>risieda negli uomini simili l’uno all’altro<br>e non in me—io sono me stesso, [[Alone\|solo]].<br>[[Clarence]], guàrdati; tu m’hai tenuto lontano dalla luce—<br>ma io ti apparecchierò un giorno di pece.<br>Ché farò ronzare intorno tali profezie<br>che Edoardo temerà per la sua vita,<br>e allora, per purgare il suo [[Fear\|timore]], io sarò la tua [[Death\|morte]].<br>Enrico e suo figlio non sono più; tu, [[Clarence]], sei il prossimo;<br>e a uno a uno spedirò gli altri,<br>tenendomi per nulla finché non sia il primo.<br>Getterò il tuo [[Body\|corpo]] in un’altra stanza<br>e trionferò, Enrico, nel tuo giorno di rovina. |
+| *(didascalia)* | Esce col [[Body\|corpo]] |
 
 
 
@@ -3707,30 +3707,30 @@ The True [[Tragedy]] of [[Richard]] [[Duke of York]] and the Good [[King]] Henry
 
 | Chi parla | Battuta |
 |---|---|
-| *(didascalia)* | Un trono. Squilli. Entrano [[King|re]] Edoardo, madama Gray sua [[Queen|regina]], Giorgio duca dii [[Clarence]], [[Richard|Riccardo]] [[Duke of Gloucester|duca di Gloucester]], lord [[Hastings]], una [[Nurse|nutrice]] che porta il piccolo principe Edoardo, e servitori |
-| [[King|RE]] EDOARDO | Ancora una volta sediamo sul regale trono d’Inghilterra,<br>riconquistato col [[Blood|sangue]] dei nemici.<br>Quali valorosi nemici, come il grano d’[[Autumn|autunno]],<br>abbiamo falciato al culmine di tutto il loro [[Pride|orgoglio]]!<br>Tre duchi di Somerset, tre volte rinomati<br>come campioni intrepidi e indubitati;<br>due Clifford, il padre e il figlio;<br>e due Northumbertand—due uomini più prodi<br>mai spronarono i loro corsieri al suono della tromba.<br>Con loro, i due bravi orsi, Warwick e<br>Montague,<br>che nelle loro [[Chains|catene]] avvinsero il regale [[Lion|leone]]<br>e fecero tremare la foresta quando ruggivano.<br>Così abbiamo spazzato il sospetto dal nostro seggio<br>e fatto della sicurezza il nostro sgabello.<br>(A madama Gray)<br>Vieni qua, Bess, e lascia ch’io baci il mio bambino.<br>La [[Nurse|nutrice]] porta avanti il piccolo principe. [[King|Re]] Edoardo lo bacia<br>Giovane Ned, per te, i tuoi zii e io stesso<br>abbiamo vegliato nelle armature la [[Night|notte]] d’[[Winter|inverno]],<br>camminato a piedi nel calore bruciante dell’[[Summer|estate]],<br>perché tu potessi possedere in pace la [[Crown|corona]];<br>e delle nostre fatiche tu raccoglierai il frutto. |
-| [[Richard|RICCARDO]] DI [[Gloucester|GLOUCESTER]] | (a parte)<br>Guasterò il suo raccolto, quando la tua testa sarà deposta;<br>ché ancora non sono guardato nel mondo.<br>Questa spalla fu fatta così grossa per sollevare;<br>e solleverà qualche peso o mi romperà la schiena.<br>Tu apparecchia la via, e tu eseguirai. |
-| [[King|RE]] EDOARDO | [[Clarence]] e [[Gloucester]], [[Love|amate]] la mia amabile [[Queen|regina]];<br>e baciate il vostro principesco nipote, fratelli, entrambi. |
-| GIORGIO DI [[Clarence|CLARENCE]] | Il dovere che devo a vostra maestà<br>lo sigillo sulle labbra di questo dolce bimbo.<br>Bacia il piccolo principe |
+| *(didascalia)* | Un trono. Squilli. Entrano [[King\|re]] Edoardo, madama Gray sua [[Queen\|regina]], Giorgio duca dii [[Clarence]], [[Richard\|Riccardo]] [[Duke of Gloucester\|duca di Gloucester]], lord [[Hastings]], una [[Nurse\|nutrice]] che porta il piccolo principe Edoardo, e servitori |
+| [[King\|RE]] EDOARDO | Ancora una volta sediamo sul regale trono d’Inghilterra,<br>riconquistato col [[Blood\|sangue]] dei nemici.<br>Quali valorosi nemici, come il grano d’[[Autumn\|autunno]],<br>abbiamo falciato al culmine di tutto il loro [[Pride\|orgoglio]]!<br>Tre duchi di Somerset, tre volte rinomati<br>come campioni intrepidi e indubitati;<br>due Clifford, il padre e il figlio;<br>e due Northumbertand—due uomini più prodi<br>mai spronarono i loro corsieri al suono della tromba.<br>Con loro, i due bravi orsi, Warwick e<br>Montague,<br>che nelle loro [[Chains\|catene]] avvinsero il regale [[Lion\|leone]]<br>e fecero tremare la foresta quando ruggivano.<br>Così abbiamo spazzato il sospetto dal nostro seggio<br>e fatto della sicurezza il nostro sgabello.<br>(A madama Gray)<br>Vieni qua, Bess, e lascia ch’io baci il mio bambino.<br>La [[Nurse\|nutrice]] porta avanti il piccolo principe. [[King\|Re]] Edoardo lo bacia<br>Giovane Ned, per te, i tuoi zii e io stesso<br>abbiamo vegliato nelle armature la [[Night\|notte]] d’[[Winter\|inverno]],<br>camminato a piedi nel calore bruciante dell’[[Summer\|estate]],<br>perché tu potessi possedere in pace la [[Crown\|corona]];<br>e delle nostre fatiche tu raccoglierai il frutto. |
+| [[Richard\|RICCARDO]] DI [[Gloucester\|GLOUCESTER]] | (a parte)<br>Guasterò il suo raccolto, quando la tua testa sarà deposta;<br>ché ancora non sono guardato nel mondo.<br>Questa spalla fu fatta così grossa per sollevare;<br>e solleverà qualche peso o mi romperà la schiena.<br>Tu apparecchia la via, e tu eseguirai. |
+| [[King\|RE]] EDOARDO | [[Clarence]] e [[Gloucester]], [[Love\|amate]] la mia amabile [[Queen\|regina]];<br>e baciate il vostro principesco nipote, fratelli, entrambi. |
+| GIORGIO DI [[Clarence\|CLARENCE]] | Il dovere che devo a vostra maestà<br>lo sigillo sulle labbra di questo dolce bimbo.<br>Bacia il piccolo principe |
 | MADAMA GRAY | Grazie, nobile [[Clarence]]—degno fratello, grazie. |
-| [[Richard|RICCARDO]] DI [[Gloucester|GLOUCESTER]] | E che io [[Love|ami]] l’albero d’onde tu germogliasti,<br>ne sia testimone l’amoroso bacio che dono al frutto.<br>Bacia il piccolo principe<br>(A parte) A dire la [[Truth|verità]], così Giuda baciò il suo maestro,<br>e gridò ‘Salve!’ mentre intendeva ogni male. |
-| [[King|RE]] EDOARDO | Ora siedo come la mia [[Soul|anima]] si compiace,<br>avendo la pace del mio paese e l’amore dei fratelli. |
-| GIORGIO DI [[Clarence|CLARENCE]] | Che vuole vostra grazia che si faccia di Margherita?<br>Renato suo padre, al [[King of France|re di Francia]]<br>ha impegnato le Sicilie e Gerusalemme,<br>e qui hanno mandato il denaro per il suo riscatto. |
-| [[King|RE]] EDOARDO | Portatela via, e traghettatela di qui in Francia.<br>E ora che resta se non che passiamo il [[Time|tempo]]<br>con solenni trionfi e allegri spettacoli comici,<br>quali s’addicono al piacere della [[Court|corte]]? |
+| [[Richard\|RICCARDO]] DI [[Gloucester\|GLOUCESTER]] | E che io [[Love\|ami]] l’albero d’onde tu germogliasti,<br>ne sia testimone l’amoroso bacio che dono al frutto.<br>Bacia il piccolo principe<br>(A parte) A dire la [[Truth\|verità]], così Giuda baciò il suo maestro,<br>e gridò ‘Salve!’ mentre intendeva ogni male. |
+| [[King\|RE]] EDOARDO | Ora siedo come la mia [[Soul\|anima]] si compiace,<br>avendo la pace del mio paese e l’amore dei fratelli. |
+| GIORGIO DI [[Clarence\|CLARENCE]] | Che vuole vostra grazia che si faccia di Margherita?<br>Renato suo padre, al [[King of France\|re di Francia]]<br>ha impegnato le Sicilie e Gerusalemme,<br>e qui hanno mandato il denaro per il suo riscatto. |
+| [[King\|RE]] EDOARDO | Portatela via, e traghettatela di qui in Francia.<br>E ora che resta se non che passiamo il [[Time\|tempo]]<br>con solenni trionfi e allegri spettacoli comici,<br>quali s’addicono al piacere della [[Court\|corte]]? |
 | *(didascalia)* | Suonino tamburi e trombe—addiio, aspro affanno! |
-| [[King|RE]] EDOARDO | Ché qui, [[Hope|spero]], comincia la nostra gioia durevole. |
+| [[King\|RE]] EDOARDO | Ché qui, [[Hope\|spero]], comincia la nostra gioia durevole. |
 | *(didascalia)* | Squilli. Escono |
 | PASSI AGGIUNTIVI | A. La nostra edizione adotta la versione del 1595 di 1.1.120-5 nella convinzione che rifletta una revisione d’autore; segue un testo curato dell’alternativa del Folio. |
-| [[King|RE]] ENRICO | Pace, tu—e lascia parlare [[King|re]] Enrico. |
+| [[King\|RE]] ENRICO | Pace, tu—e lascia parlare [[King\|re]] Enrico. |
 | WARWICK | Plantageneto parlerà primo—uditelo, signori,<br>e state silenziosi e attenti anche voi,<br>ché chi lo interrompe non vivrà. |
-| *(didascalia)* | [[King|RE]] ENRICO a York |
+| *(didascalia)* | [[King\|RE]] ENRICO a York |
 | WARWICK | Credi tu che io lascerò il mio trono regale,<br>B. Il testo del 1595 abbrevia 5.4.82.1-5.5.17, e può riflettere una revisione d’autore. Segue un testo curato del passo abbreviato: |
 | TUTTA LA PARTE DI LANCASTER | San Giorgio per Lancaster! |
-| *(didascalia)* | Squilli d’allarme per la battaglia. La [[house|casa]] di York fugge, poi i pezzi vengono scaricati. Poi entrano [[King|re]] Edoardo, Giorgio di [[Clarence]], e [[Richard|Riccardo]] di [[Gloucester]], e i loro seguaci: emettono un gran grido, e gridano ‘Per York! Per York!’ Poi [[Queen Margaret|la regina Margherita]], il principe Edoardo, [[Oxford]] e Somerset sono tutti fatti prigionieri. Squilli, ed entrano di nuovo tutti |
-| [[King|RE]] EDOARDO | Ora qui un termine ai tumultuosi conflitti.<br>Via con [[Oxford]], subito al [[Castle|castello]] di Hames;<br>quanto a Somerset, giù la sua testa colpevole.<br>Andate, portateli via di qui—non voglio udirli parlare. |
-| [[Oxford|OXFORD]] | Per la mia parte, non ti darò noia con parole. |
+| *(didascalia)* | Squilli d’allarme per la battaglia. La [[house\|casa]] di York fugge, poi i pezzi vengono scaricati. Poi entrano [[King\|re]] Edoardo, Giorgio di [[Clarence]], e [[Richard\|Riccardo]] di [[Gloucester]], e i loro seguaci: emettono un gran grido, e gridano ‘Per York! Per York!’ Poi [[Queen Margaret\|la regina Margherita]], il principe Edoardo, [[Oxford]] e Somerset sono tutti fatti prigionieri. Squilli, ed entrano di nuovo tutti |
+| [[King\|RE]] EDOARDO | Ora qui un termine ai tumultuosi conflitti.<br>Via con [[Oxford]], subito al [[Castle\|castello]] di Hames;<br>quanto a Somerset, giù la sua testa colpevole.<br>Andate, portateli via di qui—non voglio udirli parlare. |
+| [[Oxford\|OXFORD]] | Per la mia parte, non ti darò noia con parole. |
 | *(didascalia)* | Esce, sotto scorta |
-| SOMERSET | Né io, ma mi piegherò con pazienza alla mia [[Death|morte]]. |
+| SOMERSET | Né io, ma mi piegherò con pazienza alla mia [[Death\|morte]]. |
 | *(didascalia)* | Esce, sotto scorta |
-| [[King|RE]] EDOARDO | (al principe Edoardo)<br>Edoardo, quale soddisfazione puoi tu dare<br>per aver sollevato i miei sudditi alla ribellione? |
+| [[King\|RE]] EDOARDO | (al principe Edoardo)<br>Edoardo, quale soddisfazione puoi tu dare<br>per aver sollevato i miei sudditi alla ribellione? |
 | PRINCIPE EDOARDO | Parla come un suddito, superbo ambizioso York. |

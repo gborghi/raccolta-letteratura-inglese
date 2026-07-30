@@ -817,19 +817,19 @@ The [[Comedy]] of Errors
 
 | Chi parla | Battuta |
 |---|---|
-| *(didascalia)* | Entrano Solino, Duca di Efeso, con [[Egeon|Egeone]] il Mercante di Siracusa, il Carceriere e altri seguaci |
-| [[Egeon|EGEONE]] | Procedi, Solino, a procurar la mia caduta,<br>e col verdetto di [[Death|morte]] poni fine ai miei mali e a tutto. |
-| DUCA | Mercante di Siracusa, non supplicare oltre.<br>Non sono incline a infrangere le nostre leggi.<br>L’inimicizia e la discordia che di recente<br>nacquero dal rancoroso oltraggio del tuo Duca<br>contro i mercanti, nostri concittadini [[Well|ben]] leali,<br>i quali, mancando di fiorini per riscattar la vita,<br>han suggellato col loro sangue i suoi rigorosi statuti,<br>esclude ogni pietà dai nostri sguardi minacciosi.<br>Poiché, dopo le mortali e intestine risse<br>fra i tuoi sediziosi compatrioti e noi,<br>fu decretato in solenni assemblee,<br>tanto dai Siracusani quanto da noi stessi,<br>di non ammettere commercio fra le nostre città nemiche.<br>Anzi di più: se alcuno nato in Efeso<br>sia veduto ai mercati e alle fiere di Siracusa;<br>e ancora, se alcuno nato in Siracusa<br>giunga alla baia d’Efeso — egli muore,<br>e i suoi beni confiscati all’arbitrio del Duca,<br>salvo che mille marchi sian versati<br>a estinguer la pena e a riscattarlo.<br>La tua sostanza, stimata al più alto prezzo,<br>non può giungere a cento marchi.<br>Perciò per legge sei condannato a morire. |
-| [[Egeon|EGEONE]] | Pure questo mi conforta: quando le tue parole avran fine,<br><br>anche i miei mali finiranno col sole della sera. |
-| DUCA | [[Well|Ebbene]], Siracusano, di’ in breve la ragione<br>per cui partisti dalla tua [[Home|casa]] natia,<br>e per qual causa venisti a Efeso. |
-| [[Egeon|EGEONE]] | Compito più gravoso non poteva impormisi<br>che dire i miei dolori indicibili.<br>Pure, perché il mondo testimoni che la mia fine<br>fu opera di [[Nature|natura]], non di vile delitto,<br>dirò quanto il mio dolore mi consente.<br>In Siracusa io nacqui, e presi in sposa<br>una donna felice se non fosse per me,<br>e per me felice, se la nostra sorte non fosse stata avversa.<br>Con lei vissi in gioia, e cresceva la ricchezza<br>per i prosperi viaggi ch’io spesso facevo<br>a Epidamno, finché la [[Death|morte]] del mio agente,<br>e la gran cura di merci lasciate in abbandono,<br>mi trassero dai teneri amplessi della sposa,<br>dalla quale la mia assenza non contava sei mesi<br>prima ch’ella — quasi venendo meno sotto<br>il gradito castigo che le donne portano —<br>avesse disposto per seguirmi,<br>e presto e salva giunse dov’io ero.<br>Là non fu a lungo che divenne<br>gioiosa madre di due bei figli;<br>e, cosa strana, l’uno così simile all’altro<br>che non si potevano distinguere se non pei nomi.<br>In quella stessa ora, e nella medesima locanda,<br>una donna di umile nascita partorì<br>un simile carico maschile, gemelli anch’essi identici.<br>Quelli, poiché i genitori erano poverissimi,<br>comprai, e allevai perché servissero i miei figli.<br>Mia moglie, non poco orgogliosa di due tali fanciulli,<br>faceva ogni giorno istanza pel ritorno a [[Home|casa]].<br>Malvolentieri acconsentii. Ahimè! Troppo presto<br>salimmo a bordo.<br>Una lega da Epidamno avevamo navigato<br>prima che l’abisso sempre obbediente al [[Wind|vento]]<br>desse alcun tragico segno del nostro danno.<br>Ma più a lungo non serbammo molta [[Hope|speranza]],<br>ché la luce offuscata che i cieli concedevano<br>non recava alle nostre menti impaurite<br>che un dubbio pegno d’immediata [[Death|morte]],<br>la quale, benché io stesso volentieri avrei abbracciato,<br>pure gl’incessanti pianti di mia moglie —<br>che piangeva innanzi per ciò che vedeva dover venire —<br>e i pietosi lamenti dei bei bambini,<br>che si dolevano per usanza, ignari di che [[Fear|temere]],<br>mi costrinsero a cercare indugi per loro e per me.<br>E questo fu — ché altro mezzo non v’era:<br>i marinai cercaron salvezza nella nostra scialuppa,<br>e lasciarono a noi la [[Ship|nave]], ormai prossima ad affondare.<br>Mia moglie, più sollecita del nato per ultimo,<br>l’aveva legato a un piccolo albero di riserva<br>di quelli che i naviganti approntano per le tempeste.<br>A lui fu legato uno degli altri gemelli,<br>mentr’io ero stato ugualmente sollecito dell’altro.<br>Disposti così i fanciulli, mia moglie ed io,<br>fissando gli occhi su chi era fissa la nostra cura,<br>ci legammo alle due estremità dell’albero,<br>e galleggiando diritti, obbedienti alla corrente,<br>fummo portati verso Corinto, come credemmo.<br>Alfine il sole, mirando sulla terra,<br>disperse quei vapori che ci offendevano,<br>e pel beneficio della sua bramata luce<br>i mari si fecero calmi, e scorgemmo<br>due navi da lontano, che a noi veloci accorrevano:<br>di Corinto quella, d’Epidauro questa.<br>Ma prima che giungessero — oh, ch’io non dica di più!<br>Argomentate il seguito da ciò che precedette. |
+| *(didascalia)* | Entrano Solino, Duca di Efeso, con [[Egeon\|Egeone]] il Mercante di Siracusa, il Carceriere e altri seguaci |
+| [[Egeon\|EGEONE]] | Procedi, Solino, a procurar la mia caduta,<br>e col verdetto di [[Death\|morte]] poni fine ai miei mali e a tutto. |
+| DUCA | Mercante di Siracusa, non supplicare oltre.<br>Non sono incline a infrangere le nostre leggi.<br>L’inimicizia e la discordia che di recente<br>nacquero dal rancoroso oltraggio del tuo Duca<br>contro i mercanti, nostri concittadini [[Well\|ben]] leali,<br>i quali, mancando di fiorini per riscattar la vita,<br>han suggellato col loro sangue i suoi rigorosi statuti,<br>esclude ogni pietà dai nostri sguardi minacciosi.<br>Poiché, dopo le mortali e intestine risse<br>fra i tuoi sediziosi compatrioti e noi,<br>fu decretato in solenni assemblee,<br>tanto dai Siracusani quanto da noi stessi,<br>di non ammettere commercio fra le nostre città nemiche.<br>Anzi di più: se alcuno nato in Efeso<br>sia veduto ai mercati e alle fiere di Siracusa;<br>e ancora, se alcuno nato in Siracusa<br>giunga alla baia d’Efeso — egli muore,<br>e i suoi beni confiscati all’arbitrio del Duca,<br>salvo che mille marchi sian versati<br>a estinguer la pena e a riscattarlo.<br>La tua sostanza, stimata al più alto prezzo,<br>non può giungere a cento marchi.<br>Perciò per legge sei condannato a morire. |
+| [[Egeon\|EGEONE]] | Pure questo mi conforta: quando le tue parole avran fine,<br><br>anche i miei mali finiranno col sole della sera. |
+| DUCA | [[Well\|Ebbene]], Siracusano, di’ in breve la ragione<br>per cui partisti dalla tua [[Home\|casa]] natia,<br>e per qual causa venisti a Efeso. |
+| [[Egeon\|EGEONE]] | Compito più gravoso non poteva impormisi<br>che dire i miei dolori indicibili.<br>Pure, perché il mondo testimoni che la mia fine<br>fu opera di [[Nature\|natura]], non di vile delitto,<br>dirò quanto il mio dolore mi consente.<br>In Siracusa io nacqui, e presi in sposa<br>una donna felice se non fosse per me,<br>e per me felice, se la nostra sorte non fosse stata avversa.<br>Con lei vissi in gioia, e cresceva la ricchezza<br>per i prosperi viaggi ch’io spesso facevo<br>a Epidamno, finché la [[Death\|morte]] del mio agente,<br>e la gran cura di merci lasciate in abbandono,<br>mi trassero dai teneri amplessi della sposa,<br>dalla quale la mia assenza non contava sei mesi<br>prima ch’ella — quasi venendo meno sotto<br>il gradito castigo che le donne portano —<br>avesse disposto per seguirmi,<br>e presto e salva giunse dov’io ero.<br>Là non fu a lungo che divenne<br>gioiosa madre di due bei figli;<br>e, cosa strana, l’uno così simile all’altro<br>che non si potevano distinguere se non pei nomi.<br>In quella stessa ora, e nella medesima locanda,<br>una donna di umile nascita partorì<br>un simile carico maschile, gemelli anch’essi identici.<br>Quelli, poiché i genitori erano poverissimi,<br>comprai, e allevai perché servissero i miei figli.<br>Mia moglie, non poco orgogliosa di due tali fanciulli,<br>faceva ogni giorno istanza pel ritorno a [[Home\|casa]].<br>Malvolentieri acconsentii. Ahimè! Troppo presto<br>salimmo a bordo.<br>Una lega da Epidamno avevamo navigato<br>prima che l’abisso sempre obbediente al [[Wind\|vento]]<br>desse alcun tragico segno del nostro danno.<br>Ma più a lungo non serbammo molta [[Hope\|speranza]],<br>ché la luce offuscata che i cieli concedevano<br>non recava alle nostre menti impaurite<br>che un dubbio pegno d’immediata [[Death\|morte]],<br>la quale, benché io stesso volentieri avrei abbracciato,<br>pure gl’incessanti pianti di mia moglie —<br>che piangeva innanzi per ciò che vedeva dover venire —<br>e i pietosi lamenti dei bei bambini,<br>che si dolevano per usanza, ignari di che [[Fear\|temere]],<br>mi costrinsero a cercare indugi per loro e per me.<br>E questo fu — ché altro mezzo non v’era:<br>i marinai cercaron salvezza nella nostra scialuppa,<br>e lasciarono a noi la [[Ship\|nave]], ormai prossima ad affondare.<br>Mia moglie, più sollecita del nato per ultimo,<br>l’aveva legato a un piccolo albero di riserva<br>di quelli che i naviganti approntano per le tempeste.<br>A lui fu legato uno degli altri gemelli,<br>mentr’io ero stato ugualmente sollecito dell’altro.<br>Disposti così i fanciulli, mia moglie ed io,<br>fissando gli occhi su chi era fissa la nostra cura,<br>ci legammo alle due estremità dell’albero,<br>e galleggiando diritti, obbedienti alla corrente,<br>fummo portati verso Corinto, come credemmo.<br>Alfine il sole, mirando sulla terra,<br>disperse quei vapori che ci offendevano,<br>e pel beneficio della sua bramata luce<br>i mari si fecero calmi, e scorgemmo<br>due navi da lontano, che a noi veloci accorrevano:<br>di Corinto quella, d’Epidauro questa.<br>Ma prima che giungessero — oh, ch’io non dica di più!<br>Argomentate il seguito da ciò che precedette. |
 | DUCA | No, prosegui, vecchio; non troncare così,<br>ché possiamo compatirti, benché non perdonarti. |
-| [[Egeon|EGEONE]] | Oh, l’avessero fatto gli dèi, non li avrei ora<br>a ragione chiamati spietati con noi.<br>Ché, prima che le navi s’incontrassero a due volte cinque leghe,<br>fummo incontrati da un possente scoglio,<br>sul quale essendo violentemente sospinti,<br>la nostra soccorrevole [[Ship|nave]] si spaccò nel mezzo,<br>sì che in questo ingiusto [[divorce|divorzio]] fra noi<br>la Fortuna aveva lasciato a entrambi del pari<br>di che dilettarsi e di che dolersi.<br>La sua parte, povera [[Soul|anima]], parendo gravata<br>di minor peso ma non di minor pena,<br>fu portata con maggior [[Speed|velocità]] innanzi al [[Wind|vento]],<br>e sotto i nostri occhi quei tre furon raccolti<br>da pescatori di Corinto, come credemmo.<br>Alfine un’altra [[Ship|nave]] ci ebbe afferrati,<br>e, sapendo chi era loro ventura salvare,<br>diede salutare accoglienza ai naufraghi ospiti,<br>e avrebbe strappato ai pescatori la loro preda<br>se la loro barca non fosse stata assai lenta di vela;<br>e perciò verso casa piegarono la rotta.<br>Così m’avete udito diviso dalla mia beatitudine,<br>e che per le sventure fu prolungata la mia vita<br>per narrare tristi storie delle mie proprie sciagure. |
+| [[Egeon\|EGEONE]] | Oh, l’avessero fatto gli dèi, non li avrei ora<br>a ragione chiamati spietati con noi.<br>Ché, prima che le navi s’incontrassero a due volte cinque leghe,<br>fummo incontrati da un possente scoglio,<br>sul quale essendo violentemente sospinti,<br>la nostra soccorrevole [[Ship\|nave]] si spaccò nel mezzo,<br>sì che in questo ingiusto [[divorce\|divorzio]] fra noi<br>la Fortuna aveva lasciato a entrambi del pari<br>di che dilettarsi e di che dolersi.<br>La sua parte, povera [[Soul\|anima]], parendo gravata<br>di minor peso ma non di minor pena,<br>fu portata con maggior [[Speed\|velocità]] innanzi al [[Wind\|vento]],<br>e sotto i nostri occhi quei tre furon raccolti<br>da pescatori di Corinto, come credemmo.<br>Alfine un’altra [[Ship\|nave]] ci ebbe afferrati,<br>e, sapendo chi era loro ventura salvare,<br>diede salutare accoglienza ai naufraghi ospiti,<br>e avrebbe strappato ai pescatori la loro preda<br>se la loro barca non fosse stata assai lenta di vela;<br>e perciò verso casa piegarono la rotta.<br>Così m’avete udito diviso dalla mia beatitudine,<br>e che per le sventure fu prolungata la mia vita<br>per narrare tristi storie delle mie proprie sciagure. |
 | DUCA | E per amore di coloro pei quali ti duoli,<br>fammi il favore di esporre per intero<br>che ne fu di loro e di te fino ad ora. |
-| [[Egeon|EGEONE]] | Il mio figlio più giovane, e pure la mia più antica cura,<br>a diciotto anni si fece curioso<br>del suo fratello, e m’importunò<br>perché il suo servo — ché simile era il suo caso,<br>privo del fratello, ma ne serbava il nome —<br>gli tenesse compagnia nella [[Quest|ricerca]] di lui;<br>e mentre m’affannavo per [[Love|amore]] di rivedere l’uno,<br>posi a rischio la perdita di chi amavo.<br>Cinque estati ho speso nella Grecia più remota,<br>vagando per tutti i confini dell’Asia,<br>e costeggiando verso casa giunsi a Efeso,<br>senza speranza di trovare, pur restio a lasciare inesplorato<br>o quello o alcun luogo che dia ricetto a uomini.<br>Ma qui deve finire la storia della mia vita,<br>e felice sarei nella mia tempestiva [[Death|morte]]<br>se tutti i miei viaggi mi assicurassero ch’essi vivono. |
-| DUCA | Sventurato [[Egeon|Egeone]], che i fati han segnato<br>a portare l’estremo di dira sciagura,<br>credimi ora, non fosse contro le nostre leggi —<br>che i principi, pur volendo, non posson annullare —<br>contro la mia [[Crown|corona]], il mio giuramento, la mia dignità,<br>la mia [[Soul|anima]] perorerebbe come avvocato per te.<br>Ma benché tu sia giudicato alla [[Death|morte]],<br>e sentenza pronunciata non possa esser revocata<br>se non con grande scapito del nostro [[Honour|onore]],<br>pure ti favorirò in quanto posso.<br>Perciò, mercante, ti concedo per termine questo giorno<br>per cercare la tua salvezza con giovevole aiuto.<br>Tenta tutti gli amici che hai in Efeso:<br>chiedi in dono o in prestito per compiere la somma,<br>e vivi. Se no, allora sei destinato a morire.<br>Carceriere, prendilo in tua custodia. |
+| [[Egeon\|EGEONE]] | Il mio figlio più giovane, e pure la mia più antica cura,<br>a diciotto anni si fece curioso<br>del suo fratello, e m’importunò<br>perché il suo servo — ché simile era il suo caso,<br>privo del fratello, ma ne serbava il nome —<br>gli tenesse compagnia nella [[Quest\|ricerca]] di lui;<br>e mentre m’affannavo per [[Love\|amore]] di rivedere l’uno,<br>posi a rischio la perdita di chi amavo.<br>Cinque estati ho speso nella Grecia più remota,<br>vagando per tutti i confini dell’Asia,<br>e costeggiando verso casa giunsi a Efeso,<br>senza speranza di trovare, pur restio a lasciare inesplorato<br>o quello o alcun luogo che dia ricetto a uomini.<br>Ma qui deve finire la storia della mia vita,<br>e felice sarei nella mia tempestiva [[Death\|morte]]<br>se tutti i miei viaggi mi assicurassero ch’essi vivono. |
+| DUCA | Sventurato [[Egeon\|Egeone]], che i fati han segnato<br>a portare l’estremo di dira sciagura,<br>credimi ora, non fosse contro le nostre leggi —<br>che i principi, pur volendo, non posson annullare —<br>contro la mia [[Crown\|corona]], il mio giuramento, la mia dignità,<br>la mia [[Soul\|anima]] perorerebbe come avvocato per te.<br>Ma benché tu sia giudicato alla [[Death\|morte]],<br>e sentenza pronunciata non possa esser revocata<br>se non con grande scapito del nostro [[Honour\|onore]],<br>pure ti favorirò in quanto posso.<br>Perciò, mercante, ti concedo per termine questo giorno<br>per cercare la tua salvezza con giovevole aiuto.<br>Tenta tutti gli amici che hai in Efeso:<br>chiedi in dono o in prestito per compiere la somma,<br>e vivi. Se no, allora sei destinato a morire.<br>Carceriere, prendilo in tua custodia. |
 | CARCERIERE | Lo farò, mio signore. |
-| [[Egeon|EGEONE]] | Senza speranza e senza aiuto [[Egeon|Egeone]] s’avvia,<br>se non a differire la sua esanime fine. |
+| [[Egeon\|EGEONE]] | Senza speranza e senza aiuto [[Egeon\|Egeone]] s’avvia,<br>se non a differire la sua esanime fine. |
 | *(didascalia)* | Escono |
 
 
@@ -879,40 +879,40 @@ The [[Comedy]] of Errors
 
 | Chi parla | Battuta |
 |---|---|
-| *(didascalia)* | Entrano dalla baia [[Antipholus of Syracuse|Antifolo di Siracusa]], il Mercante di Efeso e [[Dromio of Syracuse|Dromio di Siracusa]] |
+| *(didascalia)* | Entrano dalla baia [[Antipholus of Syracuse\|Antifolo di Siracusa]], il Mercante di Efeso e [[Dromio of Syracuse\|Dromio di Siracusa]] |
 | *(didascalia)* | MERCANTE DI EFESO |
 | *(didascalia)* | Perciò date a intendere d’essere d’Epidamno,<br>ché i vostri beni non siano troppo presto confiscati.<br>Proprio quest’oggi un mercante siracusano<br>è arrestato per essere qui approdato,<br>e, non potendo riscattare la propria vita,<br>secondo lo statuto della città |
 | *(didascalia)* | muore prima che il sole stanco tramonti a occidente. |
 | *(didascalia)* | Ecco il vostro denaro che dovevo custodire. |
-| [[Antipholus of Syracuse|ANTIFOLO DI SIRACUSA]] | (a Dromio)<br>Va’, portalo al Centauro, dove alloggiamo,<br>e rimani là, Dromio, finché io venga da te. |
-| *(didascalia)* | Entro quest’ora sarà l’[[Time|ora]] del pranzo. |
-| [[Antipholus of Syracuse|ANTIFOLO DI SIRACUSA]] | Fino allora osserverò i costumi della città,<br>esaminerò i mercanti, contemplerò gli edifici,<br>e poi tornerò a [[Sleep|dormire]] nella mia locanda;<br>ché pel lungo viaggio sono rigido e stanco.<br>Vattene. |
-| [[Dromio of Syracuse|DROMIO DI SIRACUSA]] | Più d’uno vi prenderebbe in parola,<br>e se n’andrebbe davvero, avendo sì buon mezzo. Esce |
-| [[Antipholus of Syracuse|ANTIFOLO DI SIRACUSA]] | Un fidato [[Villain|briccone]], signore, che assai spesso,<br>quando sono ottuso per la cura e la [[Melancholy|malinconia]],<br>allevia il mio [[Humour|umore]] coi suoi allegri motteggi.<br>Ebbene, volete passeggiare con me per la città,<br>e poi venire alla mia locanda e pranzare con me? |
+| [[Antipholus of Syracuse\|ANTIFOLO DI SIRACUSA]] | (a Dromio)<br>Va’, portalo al Centauro, dove alloggiamo,<br>e rimani là, Dromio, finché io venga da te. |
+| *(didascalia)* | Entro quest’ora sarà l’[[Time\|ora]] del pranzo. |
+| [[Antipholus of Syracuse\|ANTIFOLO DI SIRACUSA]] | Fino allora osserverò i costumi della città,<br>esaminerò i mercanti, contemplerò gli edifici,<br>e poi tornerò a [[Sleep\|dormire]] nella mia locanda;<br>ché pel lungo viaggio sono rigido e stanco.<br>Vattene. |
+| [[Dromio of Syracuse\|DROMIO DI SIRACUSA]] | Più d’uno vi prenderebbe in parola,<br>e se n’andrebbe davvero, avendo sì buon mezzo. Esce |
+| [[Antipholus of Syracuse\|ANTIFOLO DI SIRACUSA]] | Un fidato [[Villain\|briccone]], signore, che assai spesso,<br>quando sono ottuso per la cura e la [[Melancholy\|malinconia]],<br>allevia il mio [[Humour\|umore]] coi suoi allegri motteggi.<br>Ebbene, volete passeggiare con me per la città,<br>e poi venire alla mia locanda e pranzare con me? |
 | *(didascalia)* | MERCANTE DI EFESO |
-| [[Antipholus of Syracuse|ANTIFOLO DI SIRACUSA]] | Sono invitato, signore, da certi mercanti<br>dai quali [[Hope|spero]] di trarre molto profitto.<br>Chiedo il vostro perdono. Presto, alle cinque in [[Clock|punto]],<br>se vi piace, v’incontrerò al mercato,<br>e poi vi terrò compagnia fino all’ora di coricarsi.<br>L’affare presente ora mi chiama lungi da voi. |
-| [[Antipholus of Syracuse|ANTIFOLO DI SIRACUSA]] | Addio fino allora. Andrò a perdermi,<br>e vagherò in su e in giù per vedere la [[City|città]]. |
+| [[Antipholus of Syracuse\|ANTIFOLO DI SIRACUSA]] | Sono invitato, signore, da certi mercanti<br>dai quali [[Hope\|spero]] di trarre molto profitto.<br>Chiedo il vostro perdono. Presto, alle cinque in [[Clock\|punto]],<br>se vi piace, v’incontrerò al mercato,<br>e poi vi terrò compagnia fino all’ora di coricarsi.<br>L’affare presente ora mi chiama lungi da voi. |
+| [[Antipholus of Syracuse\|ANTIFOLO DI SIRACUSA]] | Addio fino allora. Andrò a perdermi,<br>e vagherò in su e in giù per vedere la [[City\|città]]. |
 | *(didascalia)* | MERCANTE DI EFESO |
-| [[Antipholus of Syracuse|ANTIFOLO DI SIRACUSA]] | Signore, vi raccomando al vostro proprio contento. Esce |
-| [[Antipholus of Syracuse|ANTIFOLO DI SIRACUSA]] | Chi mi raccomanda al mio proprio contento<br>mi raccomanda alla cosa che non posso ottenere.<br>Io sono al mondo come una goccia d’[[Water|acqua]]<br>che nell’oceano cerca un’altra goccia,<br>la quale, cadendo là per trovare la sua compagna,<br>invisibile, indagatrice, confonde se stessa.<br>Così io, per trovare una madre e un fratello,<br>in [[Quest|cerca]] di loro, infelice, perdo me stesso. |
-| *(didascalia)* | Entra [[Dromio of Ephesus|Dromio di Efeso]] |
-| [[Antipholus of Syracuse|ANTIFOLO DI SIRACUSA]] | Ecco viene l’almanacco della mia vera data.<br>Che c’è ora? Come mai sei tornato così presto? |
-| [[Dromio of Ephesus|DROMIO DI EFESO]] | Tornato così presto? Piuttosto giunto troppo tardi.<br>Il cappone brucia, il porco cade dallo spiedo.<br>L’[[Clock|orologio]] ha battuto dodici colpi sulla campana;<br>la mia padrona ne ha fatto uno sulla mia guancia.<br>Ella è così accesa perché la carne è fredda.<br>La carne è fredda perché voi non venite a [[Home|casa]].<br>Voi non venite a [[Home|casa]] perché non avete appetito.<br>Non avete appetito, avendo rotto il digiuno;<br>ma noi che sappiamo che cosa sia digiunare e pregare<br>facciamo penitenza per la vostra mancanza d’oggi. |
-| [[Antipholus of Syracuse|ANTIFOLO DI SIRACUSA]] | Trattenete il [[Wind|fiato]], signore. Ditemi questo, vi prego:<br>dove avete lasciato il denaro che vi diedi? |
-| [[Dromio of Ephesus|DROMIO DI EFESO]] | Oh — i sei penny che ebbi mercoledì scorso<br>per pagare al sellaio la groppiera della mia padrona?<br>Li ebbe il sellaio, signore; io non li tenni. |
-| [[Antipholus of Syracuse|ANTIFOLO DI SIRACUSA]] | Non sono ora in [[Humour|umore]] scherzoso.<br>Dimmi, e non gingillarti: dov’è il denaro?<br>Essendo noi qui stranieri, come osi affidare<br>sì gran deposito fuori dalla tua custodia? |
-| [[Dromio of Ephesus|DROMIO DI EFESO]] | Vi prego, scherzate, signore, quando sedete a pranzo.<br>Vengo a voi in tutta fretta dalla mia padrona.<br>Se torno, sarò io il palo davvero,<br>ché ella sfregherà la vostra colpa sulla mia zucca.<br>Mi pare che il vostro stomaco, come il mio, dovrebbe essere il vostro [[Clock|orologio]],<br>e battervi la via di [[Home|casa]] senza messaggero. |
-| [[Antipholus of Syracuse|ANTIFOLO DI SIRACUSA]] | Su, Dromio, su, questi motti sono fuori stagione.<br>Serbali per un’ora più lieta di questa.<br>Dov’è l’oro che ti diedi in consegna? |
-| [[Dromio of Ephesus|DROMIO DI EFESO]] | A me, signore? Ma voi non deste alcun oro a me. |
-| [[Antipholus of Syracuse|ANTIFOLO DI SIRACUSA]] | Suvvia, ser furfante, finitela con le vostre sciocchezze,<br>e dimmi come hai disposto del tuo deposito. |
-| [[Dromio of Ephesus|DROMIO DI EFESO]] | Il mio incarico era solo di condurvi dal mercato<br>a [[Home|casa]], alla vostra [[house|dimora]], la Fenice, signore, per il pranzo.<br>La mia padrona e sua sorella vi aspettano. |
-| [[Antipholus of Syracuse|ANTIFOLO DI SIRACUSA]] | Ora, com’io sono cristiano, rispondimi<br>in qual luogo sicuro hai riposto il mio denaro,<br>o ti romperò codesta tua allegra zucca<br>che insiste in burle quando io sono mal disposto.<br>Dove sono i mille marchi che avesti da me? |
-| [[Dromio of Ephesus|DROMIO DI EFESO]] | Ho alcuni vostri marchi sulla mia zucca,<br>alcuni marchi della mia padrona sulle spalle,<br>ma non mille marchi fra voi due.<br>Se dovessi rendere a vossignoria quelli,<br>forse non li sopportereste con pazienza. |
-| [[Antipholus of Syracuse|ANTIFOLO DI SIRACUSA]] | I marchi della tua padrona? Che padrona, schiavo, hai tu? |
-| [[Dromio of Ephesus|DROMIO DI EFESO]] | La moglie di vossignoria, la mia padrona, alla Fenice:<br>colei che digiuna finché non veniate a [[Home|casa]] per il pranzo,<br>e prega che v’affrettiate a [[Home|casa]] per il pranzo. |
-| [[Antipholus of Syracuse|ANTIFOLO DI SIRACUSA]] | Come, vuoi tu beffarmi così in faccia,<br>essendoti proibito? Ecco, prendi questo, ser furfante!<br>Batte Dromio |
-| [[Dromio of Ephesus|DROMIO DI EFESO]] | Che intendete, signore? Per amor di Dio, trattenete le mani!<br>Suvvia, se non volete, signore, mi darò alle gambe. Esce |
-| [[Antipholus of Syracuse|ANTIFOLO DI SIRACUSA]] | Sulla mia vita, con l’uno o l’altro raggiro<br>il [[Villain|briccone]] è stato truffato di tutto il mio denaro.<br>Dicono che questa città sia piena d’inganni,<br>con agili giocolieri che ingannano l’occhio,<br>tenebrosi stregoni che alterano la mente,<br>streghe che uccidono l’[[Soul|anima]] e deformano il [[Body|corpo]],<br>bari travestiti, ciarlatani cianciatori,<br>e molti simili libertini del peccato.<br>Se così risulta, tanto prima me n’andrò.<br>Andrò al Centauro a cercare questo schiavo.<br>Assai [[Fear|temo]] che il mio denaro non sia al sicuro. Esce |
+| [[Antipholus of Syracuse\|ANTIFOLO DI SIRACUSA]] | Signore, vi raccomando al vostro proprio contento. Esce |
+| [[Antipholus of Syracuse\|ANTIFOLO DI SIRACUSA]] | Chi mi raccomanda al mio proprio contento<br>mi raccomanda alla cosa che non posso ottenere.<br>Io sono al mondo come una goccia d’[[Water\|acqua]]<br>che nell’oceano cerca un’altra goccia,<br>la quale, cadendo là per trovare la sua compagna,<br>invisibile, indagatrice, confonde se stessa.<br>Così io, per trovare una madre e un fratello,<br>in [[Quest\|cerca]] di loro, infelice, perdo me stesso. |
+| *(didascalia)* | Entra [[Dromio of Ephesus\|Dromio di Efeso]] |
+| [[Antipholus of Syracuse\|ANTIFOLO DI SIRACUSA]] | Ecco viene l’almanacco della mia vera data.<br>Che c’è ora? Come mai sei tornato così presto? |
+| [[Dromio of Ephesus\|DROMIO DI EFESO]] | Tornato così presto? Piuttosto giunto troppo tardi.<br>Il cappone brucia, il porco cade dallo spiedo.<br>L’[[Clock\|orologio]] ha battuto dodici colpi sulla campana;<br>la mia padrona ne ha fatto uno sulla mia guancia.<br>Ella è così accesa perché la carne è fredda.<br>La carne è fredda perché voi non venite a [[Home\|casa]].<br>Voi non venite a [[Home\|casa]] perché non avete appetito.<br>Non avete appetito, avendo rotto il digiuno;<br>ma noi che sappiamo che cosa sia digiunare e pregare<br>facciamo penitenza per la vostra mancanza d’oggi. |
+| [[Antipholus of Syracuse\|ANTIFOLO DI SIRACUSA]] | Trattenete il [[Wind\|fiato]], signore. Ditemi questo, vi prego:<br>dove avete lasciato il denaro che vi diedi? |
+| [[Dromio of Ephesus\|DROMIO DI EFESO]] | Oh — i sei penny che ebbi mercoledì scorso<br>per pagare al sellaio la groppiera della mia padrona?<br>Li ebbe il sellaio, signore; io non li tenni. |
+| [[Antipholus of Syracuse\|ANTIFOLO DI SIRACUSA]] | Non sono ora in [[Humour\|umore]] scherzoso.<br>Dimmi, e non gingillarti: dov’è il denaro?<br>Essendo noi qui stranieri, come osi affidare<br>sì gran deposito fuori dalla tua custodia? |
+| [[Dromio of Ephesus\|DROMIO DI EFESO]] | Vi prego, scherzate, signore, quando sedete a pranzo.<br>Vengo a voi in tutta fretta dalla mia padrona.<br>Se torno, sarò io il palo davvero,<br>ché ella sfregherà la vostra colpa sulla mia zucca.<br>Mi pare che il vostro stomaco, come il mio, dovrebbe essere il vostro [[Clock\|orologio]],<br>e battervi la via di [[Home\|casa]] senza messaggero. |
+| [[Antipholus of Syracuse\|ANTIFOLO DI SIRACUSA]] | Su, Dromio, su, questi motti sono fuori stagione.<br>Serbali per un’ora più lieta di questa.<br>Dov’è l’oro che ti diedi in consegna? |
+| [[Dromio of Ephesus\|DROMIO DI EFESO]] | A me, signore? Ma voi non deste alcun oro a me. |
+| [[Antipholus of Syracuse\|ANTIFOLO DI SIRACUSA]] | Suvvia, ser furfante, finitela con le vostre sciocchezze,<br>e dimmi come hai disposto del tuo deposito. |
+| [[Dromio of Ephesus\|DROMIO DI EFESO]] | Il mio incarico era solo di condurvi dal mercato<br>a [[Home\|casa]], alla vostra [[house\|dimora]], la Fenice, signore, per il pranzo.<br>La mia padrona e sua sorella vi aspettano. |
+| [[Antipholus of Syracuse\|ANTIFOLO DI SIRACUSA]] | Ora, com’io sono cristiano, rispondimi<br>in qual luogo sicuro hai riposto il mio denaro,<br>o ti romperò codesta tua allegra zucca<br>che insiste in burle quando io sono mal disposto.<br>Dove sono i mille marchi che avesti da me? |
+| [[Dromio of Ephesus\|DROMIO DI EFESO]] | Ho alcuni vostri marchi sulla mia zucca,<br>alcuni marchi della mia padrona sulle spalle,<br>ma non mille marchi fra voi due.<br>Se dovessi rendere a vossignoria quelli,<br>forse non li sopportereste con pazienza. |
+| [[Antipholus of Syracuse\|ANTIFOLO DI SIRACUSA]] | I marchi della tua padrona? Che padrona, schiavo, hai tu? |
+| [[Dromio of Ephesus\|DROMIO DI EFESO]] | La moglie di vossignoria, la mia padrona, alla Fenice:<br>colei che digiuna finché non veniate a [[Home\|casa]] per il pranzo,<br>e prega che v’affrettiate a [[Home\|casa]] per il pranzo. |
+| [[Antipholus of Syracuse\|ANTIFOLO DI SIRACUSA]] | Come, vuoi tu beffarmi così in faccia,<br>essendoti proibito? Ecco, prendi questo, ser furfante!<br>Batte Dromio |
+| [[Dromio of Ephesus\|DROMIO DI EFESO]] | Che intendete, signore? Per amor di Dio, trattenete le mani!<br>Suvvia, se non volete, signore, mi darò alle gambe. Esce |
+| [[Antipholus of Syracuse\|ANTIFOLO DI SIRACUSA]] | Sulla mia vita, con l’uno o l’altro raggiro<br>il [[Villain\|briccone]] è stato truffato di tutto il mio denaro.<br>Dicono che questa città sia piena d’inganni,<br>con agili giocolieri che ingannano l’occhio,<br>tenebrosi stregoni che alterano la mente,<br>streghe che uccidono l’[[Soul\|anima]] e deformano il [[Body\|corpo]],<br>bari travestiti, ciarlatani cianciatori,<br>e molti simili libertini del peccato.<br>Se così risulta, tanto prima me n’andrò.<br>Andrò al Centauro a cercare questo schiavo.<br>Assai [[Fear\|temo]] che il mio denaro non sia al sicuro. Esce |
 
 
 
@@ -971,49 +971,49 @@ The [[Comedy]] of Errors
 
 | Chi parla | Battuta |
 |---|---|
-| *(didascalia)* | Entrano dalla Fenice [[Adriana]], moglie di [[Antipholus of Ephesus|Antifolo di Efeso]], con [[Luciana]], sua sorella |
-| [[Adriana|ADRIANA]] | Né mio marito né lo schiavo tornati,<br>quello che in tanta fretta mandai a cercare il suo padrone?<br>Certo, [[Luciana]], sono le due in [[Clock|punto]]. |
-| [[Luciana|LUCIANA]] | Forse qualche mercante l’ha invitato,<br>e dal mercato se n’è andato altrove a pranzo.<br>Buona sorella, pranziamo, e non ci crucciamo.<br>L’uomo è padrone della sua libertà.<br>Il [[Time|Tempo]] è la loro padrona, e quando vedono il [[Time|tempo]]<br>andranno o verranno. Se è così, sii paziente, sorella. |
-| [[Adriana|ADRIANA]] | Perché la loro libertà dovrebb’essere maggiore della nostra? |
-| [[Luciana|LUCIANA]] | Perché i loro affari stanno sempre fuor di casa. |
-| [[Adriana|ADRIANA]] | Vedi: quando io faccio così con lui, se n’ha a male. |
-| [[Luciana|LUCIANA]] | Oh, sappi ch’egli è il freno del tuo volere. |
-| [[Adriana|ADRIANA]] | Nessuno se non gli asini si lascia così imbrigliare. |
-| [[Luciana|LUCIANA]] | Ebbene, la libertà caparbia è flagellata dal dolore.<br>Nulla è posto sotto l’occhio del cielo<br>che non abbia il suo confine in terra, in mare, nel cielo.<br>Le bestie, i pesci e i volatili alati<br>sono soggetti ai loro maschi e sotto il loro dominio.<br>L’uomo, più divino, padrone di tutti questi,<br>signore dell’ampio mondo e dei selvaggi mari acquosi,<br>dotato di senso intellettuale e d’anima,<br>di più alta preminenza che pesci e volatili,<br>è padrone alle sue femmine, e loro signore.<br>Lascia dunque che il tuo volere s’attenga ai loro accordi. |
-| [[Adriana|ADRIANA]] | Questa servitù ti fa restare non maritata. |
-| [[Luciana|LUCIANA]] | Non questa, ma i travagli del letto [[Marriage|nuziale]]. |
-| [[Adriana|ADRIANA]] | Ma se fossi maritata, vorresti avere qualche potere. |
-| [[Luciana|LUCIANA]] | Prima d’apprendere l’[[Love|amore]], m’eserciterò a obbedire. |
-| [[Adriana|ADRIANA]] | E se tuo marito si sviasse altrove? |
-| [[Luciana|LUCIANA]] | Finché non tornasse a [[Home|casa]], pazienterei. |
-| [[Adriana|ADRIANA]] | Pazienza immota! Non è meraviglia s’ella s’arresta:<br>può esser mite chi non ha altra ragione.<br>Un’[[Soul|anima]] misera, ammaccata dall’avversità,<br>l’invitiamo a tacere quando l’udiamo gridare.<br>Ma se fossimo gravate d’ugual peso di [[Pain|pena]],<br>altrettanto o più ci lamenteremmo noi stesse.<br>Così tu, che non hai crudele compagno a farti dolere,<br>con l’insistere in vana pazienza vorresti sollevarmi.<br>Ma se vivrai a veder tolto ugual diritto,<br>questa pazienza da [[Fool|sciocco]] mendicata in te sarà abbandonata. |
-| [[Luciana|LUCIANA]] | [[Well|Ebbene]], mi mariterò un giorno, non foss’altro che per provare. |
-| *(didascalia)* | Entra [[Dromio of Ephesus|Dromio di Efeso]] |
-| [[Luciana|LUCIANA]] | Ecco viene il vostro uomo. Ora vostro marito è vicino. |
-| [[Adriana|ADRIANA]] | Di’, il tuo tardo padrone è ora a portata di mano? |
-| [[Dromio of Ephesus|DROMIO DI EFESO]] | Anzi, egli è alle due mani con me, e questo le mie due orecchie possono testimoniarlo. |
-| [[Adriana|ADRIANA]] | Di’, hai parlato con lui? Conosci il suo pensiero? |
-| [[Dromio of Ephesus|DROMIO DI EFESO]] | Io? Sì, egli mi disse il suo pensiero sull’orecchio.<br>Maledetta la sua mano, a stento potei intenderlo. |
-| [[Luciana|LUCIANA]] | Parlò egli così dubbiosamente che non potesti sentire il suo senso? |
-| DROMIO DI RFESO | Anzi, colpì così chiaramente che potei fin troppo [[Well|bene]] sentire i suoi colpi, e insieme così dubbiosamente ch’io a stento potei sotto-starli. |
-| [[Adriana|ADRIANA]] | Ma di’, ti prego, viene egli a [[Home|casa]]?<br>Pare ch’egli abbia gran cura di piacere a sua moglie. |
-| [[Dromio of Ephesus|DROMIO DI EFESO]] | Ma via, padrona, certo il mio padrone è pazzo da corna. |
-| [[Adriana|ADRIANA]] | Pazzo da corna, [[Villain|briccone]]? |
-| [[Dromio of Ephesus|DROMIO DI EFESO]] | Non intendo pazzo da becco, ma certo è pazzo del tutto.<br>Quando lo pregai di venire a [[Home|casa]] per il pranzo,<br>mi chiese mille marchi in oro.<br>‘È l’[[Time|ora]] del pranzo’, dissi io. ‘Il mio oro’, disse lui.<br>‘La vostra carne brucia’, dissi io. ‘Il mio oro’, disse lui.<br>‘Verrete a [[Home|casa]]?’ dissi io. ‘Il mio oro’, disse lui;<br>‘Dove sono i mille marchi che ti diedi, [[Villain|briccone]]?’<br>‘Il porco’, dissi io, ‘è bruciato.’ ‘Il mio oro!’ disse lui.<br>‘La mia padrona, signore—’ dissi io. ‘Impiccala, la tua padrona!<br>Non la conosco, la tua padrona. Al diavolo la tua padrona!’ |
-| [[Luciana|LUCIANA]] | Disse chi? |
-| [[Dromio of Ephesus|DROMIO DI EFESO]] | Disse il mio padrone.<br>‘Non conosco’, disse, ‘né [[house|casa]], né moglie, né padrona.’<br>Sì che l’ambasciata mia, dovuta alla mia lingua,<br>lo ringrazio, la portai a [[Home|casa]] sulle spalle;<br>ché, in conclusione, egli mi batté proprio là. |
-| [[Adriana|ADRIANA]] | Torna indietro, schiavo, e conducilo a [[Home|casa]]. |
-| [[Dromio of Ephesus|DROMIO DI EFESO]] | Tornare indietro ed esser nuovamente battuto fino a [[Home|casa]]?<br>Per amor di Dio, mandate qualche altro messaggero. |
-| [[Adriana|ADRIANA]] | A<br>Indietro, schiavo, o ti spaccherò la zucca per traverso. |
-| [[Dromio of Ephesus|DROMIO DI EFESO]] | E s’egli benedirà quella [[Cross|croce]] con altre percosse,<br>fra voi due avrò un capo santificato. |
-| [[Adriana|ADRIANA]] | Via, villano cianciatore. Conduci a [[Home|casa]] il tuo padrone.<br>Batte Dromio |
-| [[Dromio of Ephesus|DROMIO DI EFESO]] | Sono io così tondo con voi come voi con me,<br>che al pari d’un pallone così mi spingete a calci?<br>Voi mi cacciate a calci di qua, ed egli mi caccerà a calci di là.<br>Se debbo durare in questo servizio, dovrete foderarmi di cuoio. |
+| *(didascalia)* | Entrano dalla Fenice [[Adriana]], moglie di [[Antipholus of Ephesus\|Antifolo di Efeso]], con [[Luciana]], sua sorella |
+| [[Adriana\|ADRIANA]] | Né mio marito né lo schiavo tornati,<br>quello che in tanta fretta mandai a cercare il suo padrone?<br>Certo, [[Luciana]], sono le due in [[Clock\|punto]]. |
+| [[Luciana\|LUCIANA]] | Forse qualche mercante l’ha invitato,<br>e dal mercato se n’è andato altrove a pranzo.<br>Buona sorella, pranziamo, e non ci crucciamo.<br>L’uomo è padrone della sua libertà.<br>Il [[Time\|Tempo]] è la loro padrona, e quando vedono il [[Time\|tempo]]<br>andranno o verranno. Se è così, sii paziente, sorella. |
+| [[Adriana\|ADRIANA]] | Perché la loro libertà dovrebb’essere maggiore della nostra? |
+| [[Luciana\|LUCIANA]] | Perché i loro affari stanno sempre fuor di casa. |
+| [[Adriana\|ADRIANA]] | Vedi: quando io faccio così con lui, se n’ha a male. |
+| [[Luciana\|LUCIANA]] | Oh, sappi ch’egli è il freno del tuo volere. |
+| [[Adriana\|ADRIANA]] | Nessuno se non gli asini si lascia così imbrigliare. |
+| [[Luciana\|LUCIANA]] | Ebbene, la libertà caparbia è flagellata dal dolore.<br>Nulla è posto sotto l’occhio del cielo<br>che non abbia il suo confine in terra, in mare, nel cielo.<br>Le bestie, i pesci e i volatili alati<br>sono soggetti ai loro maschi e sotto il loro dominio.<br>L’uomo, più divino, padrone di tutti questi,<br>signore dell’ampio mondo e dei selvaggi mari acquosi,<br>dotato di senso intellettuale e d’anima,<br>di più alta preminenza che pesci e volatili,<br>è padrone alle sue femmine, e loro signore.<br>Lascia dunque che il tuo volere s’attenga ai loro accordi. |
+| [[Adriana\|ADRIANA]] | Questa servitù ti fa restare non maritata. |
+| [[Luciana\|LUCIANA]] | Non questa, ma i travagli del letto [[Marriage\|nuziale]]. |
+| [[Adriana\|ADRIANA]] | Ma se fossi maritata, vorresti avere qualche potere. |
+| [[Luciana\|LUCIANA]] | Prima d’apprendere l’[[Love\|amore]], m’eserciterò a obbedire. |
+| [[Adriana\|ADRIANA]] | E se tuo marito si sviasse altrove? |
+| [[Luciana\|LUCIANA]] | Finché non tornasse a [[Home\|casa]], pazienterei. |
+| [[Adriana\|ADRIANA]] | Pazienza immota! Non è meraviglia s’ella s’arresta:<br>può esser mite chi non ha altra ragione.<br>Un’[[Soul\|anima]] misera, ammaccata dall’avversità,<br>l’invitiamo a tacere quando l’udiamo gridare.<br>Ma se fossimo gravate d’ugual peso di [[Pain\|pena]],<br>altrettanto o più ci lamenteremmo noi stesse.<br>Così tu, che non hai crudele compagno a farti dolere,<br>con l’insistere in vana pazienza vorresti sollevarmi.<br>Ma se vivrai a veder tolto ugual diritto,<br>questa pazienza da [[Fool\|sciocco]] mendicata in te sarà abbandonata. |
+| [[Luciana\|LUCIANA]] | [[Well\|Ebbene]], mi mariterò un giorno, non foss’altro che per provare. |
+| *(didascalia)* | Entra [[Dromio of Ephesus\|Dromio di Efeso]] |
+| [[Luciana\|LUCIANA]] | Ecco viene il vostro uomo. Ora vostro marito è vicino. |
+| [[Adriana\|ADRIANA]] | Di’, il tuo tardo padrone è ora a portata di mano? |
+| [[Dromio of Ephesus\|DROMIO DI EFESO]] | Anzi, egli è alle due mani con me, e questo le mie due orecchie possono testimoniarlo. |
+| [[Adriana\|ADRIANA]] | Di’, hai parlato con lui? Conosci il suo pensiero? |
+| [[Dromio of Ephesus\|DROMIO DI EFESO]] | Io? Sì, egli mi disse il suo pensiero sull’orecchio.<br>Maledetta la sua mano, a stento potei intenderlo. |
+| [[Luciana\|LUCIANA]] | Parlò egli così dubbiosamente che non potesti sentire il suo senso? |
+| DROMIO DI RFESO | Anzi, colpì così chiaramente che potei fin troppo [[Well\|bene]] sentire i suoi colpi, e insieme così dubbiosamente ch’io a stento potei sotto-starli. |
+| [[Adriana\|ADRIANA]] | Ma di’, ti prego, viene egli a [[Home\|casa]]?<br>Pare ch’egli abbia gran cura di piacere a sua moglie. |
+| [[Dromio of Ephesus\|DROMIO DI EFESO]] | Ma via, padrona, certo il mio padrone è pazzo da corna. |
+| [[Adriana\|ADRIANA]] | Pazzo da corna, [[Villain\|briccone]]? |
+| [[Dromio of Ephesus\|DROMIO DI EFESO]] | Non intendo pazzo da becco, ma certo è pazzo del tutto.<br>Quando lo pregai di venire a [[Home\|casa]] per il pranzo,<br>mi chiese mille marchi in oro.<br>‘È l’[[Time\|ora]] del pranzo’, dissi io. ‘Il mio oro’, disse lui.<br>‘La vostra carne brucia’, dissi io. ‘Il mio oro’, disse lui.<br>‘Verrete a [[Home\|casa]]?’ dissi io. ‘Il mio oro’, disse lui;<br>‘Dove sono i mille marchi che ti diedi, [[Villain\|briccone]]?’<br>‘Il porco’, dissi io, ‘è bruciato.’ ‘Il mio oro!’ disse lui.<br>‘La mia padrona, signore—’ dissi io. ‘Impiccala, la tua padrona!<br>Non la conosco, la tua padrona. Al diavolo la tua padrona!’ |
+| [[Luciana\|LUCIANA]] | Disse chi? |
+| [[Dromio of Ephesus\|DROMIO DI EFESO]] | Disse il mio padrone.<br>‘Non conosco’, disse, ‘né [[house\|casa]], né moglie, né padrona.’<br>Sì che l’ambasciata mia, dovuta alla mia lingua,<br>lo ringrazio, la portai a [[Home\|casa]] sulle spalle;<br>ché, in conclusione, egli mi batté proprio là. |
+| [[Adriana\|ADRIANA]] | Torna indietro, schiavo, e conducilo a [[Home\|casa]]. |
+| [[Dromio of Ephesus\|DROMIO DI EFESO]] | Tornare indietro ed esser nuovamente battuto fino a [[Home\|casa]]?<br>Per amor di Dio, mandate qualche altro messaggero. |
+| [[Adriana\|ADRIANA]] | A<br>Indietro, schiavo, o ti spaccherò la zucca per traverso. |
+| [[Dromio of Ephesus\|DROMIO DI EFESO]] | E s’egli benedirà quella [[Cross\|croce]] con altre percosse,<br>fra voi due avrò un capo santificato. |
+| [[Adriana\|ADRIANA]] | Via, villano cianciatore. Conduci a [[Home\|casa]] il tuo padrone.<br>Batte Dromio |
+| [[Dromio of Ephesus\|DROMIO DI EFESO]] | Sono io così tondo con voi come voi con me,<br>che al pari d’un pallone così mi spingete a calci?<br>Voi mi cacciate a calci di qua, ed egli mi caccerà a calci di là.<br>Se debbo durare in questo servizio, dovrete foderarmi di cuoio. |
 | *(didascalia)* | Esce |
-| [[Luciana|LUCIANA]] | (ad [[Adriana]])<br>Ohibò, come l’impazienza s’oscura sul vostro volto! |
-| [[Adriana|ADRIANA]] | La sua compagnia deve far grazia alle sue druderie,<br>mentr’io a [[Home|casa]] muoio di fame d’uno sguardo lieto.<br>La rozza età ha tolto l’allettante [[Beauty|bellezza]]<br>dalla mia povera guancia? Allora è lui che l’ha consumata.<br>Sono ottusi i miei discorsi? Sterile il mio ingegno?<br>Se un discorso sciolto e arguto è guastato,<br>la scortesia lo smussa più che duro marmo.<br>Sono le loro gaie vesti l’esca dei suoi affetti?<br>Non è colpa mia: egli è padrone dei miei averi.<br>Quali rovine sono in me che possano trovarsi<br>da lui non rovinate? Egli dunque è il fondamento<br>dei miei sfiguramenti. La mia bellezza sfiorita<br>uno sguardo suo di sole presto ristorerebbe.<br>Ma, cervo troppo indocile, egli rompe il recinto<br>e pascola lontano da [[Home|casa]]. Povera me, non sono che il suo zimbello. |
-| [[Luciana|LUCIANA]] | [[Jealousy|Gelosia]] che offende [[Self|se stessa]]! Ohibò, scacciala via. |
-| [[Adriana|ADRIANA]] | Sciocchi insensibili possono far senza di tali torti.<br>So che il suo occhio rende omaggio altrove,<br>o che altro l’impedisce, s’egli non è qui?<br>Sorella, sapete ch’egli mi promise una catena.<br>Volesse il cielo che quella [[Alone|soltanto]] d’[[Love|amore]] trattenesse,<br>purché serbasse fede al suo letto.<br>Vedo che il [[Jewel|gioiello]] meglio smaltato<br>perderà la sua [[Beauty|bellezza]]. Pure l’oro resta<br>benché altri lo tocchino; e il toccare spesso<br>consuma l’oro, e pure nessun uomo che abbia un nome<br>per falsità e corruzione ne trae vergogna.<br>Poiché la mia [[Beauty|bellezza]] non può piacere al suo occhio,<br>piangerò via ciò che resta, e piangendo morrò. |
-| [[Luciana|LUCIANA]] | Quanti sciocchi innamorati servono la folle [[Jealousy|gelosia]]! |
+| [[Luciana\|LUCIANA]] | (ad [[Adriana]])<br>Ohibò, come l’impazienza s’oscura sul vostro volto! |
+| [[Adriana\|ADRIANA]] | La sua compagnia deve far grazia alle sue druderie,<br>mentr’io a [[Home\|casa]] muoio di fame d’uno sguardo lieto.<br>La rozza età ha tolto l’allettante [[Beauty\|bellezza]]<br>dalla mia povera guancia? Allora è lui che l’ha consumata.<br>Sono ottusi i miei discorsi? Sterile il mio ingegno?<br>Se un discorso sciolto e arguto è guastato,<br>la scortesia lo smussa più che duro marmo.<br>Sono le loro gaie vesti l’esca dei suoi affetti?<br>Non è colpa mia: egli è padrone dei miei averi.<br>Quali rovine sono in me che possano trovarsi<br>da lui non rovinate? Egli dunque è il fondamento<br>dei miei sfiguramenti. La mia bellezza sfiorita<br>uno sguardo suo di sole presto ristorerebbe.<br>Ma, cervo troppo indocile, egli rompe il recinto<br>e pascola lontano da [[Home\|casa]]. Povera me, non sono che il suo zimbello. |
+| [[Luciana\|LUCIANA]] | [[Jealousy\|Gelosia]] che offende [[Self\|se stessa]]! Ohibò, scacciala via. |
+| [[Adriana\|ADRIANA]] | Sciocchi insensibili possono far senza di tali torti.<br>So che il suo occhio rende omaggio altrove,<br>o che altro l’impedisce, s’egli non è qui?<br>Sorella, sapete ch’egli mi promise una catena.<br>Volesse il cielo che quella [[Alone\|soltanto]] d’[[Love\|amore]] trattenesse,<br>purché serbasse fede al suo letto.<br>Vedo che il [[Jewel\|gioiello]] meglio smaltato<br>perderà la sua [[Beauty\|bellezza]]. Pure l’oro resta<br>benché altri lo tocchino; e il toccare spesso<br>consuma l’oro, e pure nessun uomo che abbia un nome<br>per falsità e corruzione ne trae vergogna.<br>Poiché la mia [[Beauty\|bellezza]] non può piacere al suo occhio,<br>piangerò via ciò che resta, e piangendo morrò. |
+| [[Luciana\|LUCIANA]] | Quanti sciocchi innamorati servono la folle [[Jealousy\|gelosia]]! |
 | *(didascalia)* | Escono nella Fenice |
 
 
@@ -1116,92 +1116,92 @@ The [[Comedy]] of Errors
 
 | Chi parla | Battuta |
 |---|---|
-| *(didascalia)* | Entra [[Antipholus of Syracuse|Antifolo di Siracusa]] |
-| [[Antipholus of Syracuse|ANTIFOLO DI SIRACUSA]] | L’oro che diedi a Dromio è riposto<br>sicuro al Centauro, e l’attento schiavo<br>è uscito a vagare in cura di cercarmi.<br>Per calcolo e per il resoconto del mio oste,<br>non potei parlare con Dromio dal primo momento<br>in cui lo mandai via dal mercato! Ecco, eccolo che viene. |
-| *(didascalia)* | Entra [[Dromio of Syracuse|Dromio di Siracusa]] |
-| [[Antipholus of Syracuse|ANTIFOLO DI SIRACUSA]] | Ebbene, signore, è mutato il vostro allegro [[Humour|umore]]?<br>Poiché [[Love|ami]] le percosse, torna pure a scherzare con me.<br>Non conosci alcun Centauro? Non ricevesti oro?<br>La tua padrona mandò a chiamarmi a [[Home|casa]] per il pranzo?<br>La mia [[house|dimora]] era alla Fenice?—Eri tu pazzo,<br>che così pazzamente mi rispondesti? |
-| [[Dromio of Syracuse|DROMIO DI SIRACUSA]] | Quale risposta, signore? Quando dissi io tal parola? |
-| [[Antipholus of Syracuse|ANTIFOLO DI SIRACUSA]] | Or ora, proprio qui, non è mezz’ora. |
-| [[Dromio of Syracuse|DROMIO DI SIRACUSA]] | Non vi ho veduto da quando mi mandaste via<br>a [[Home|casa]], al Centauro, con l’oro che mi deste. |
-| [[Antipholus of Syracuse|ANTIFOLO DI SIRACUSA]] | [[Villain|Briccone]], negasti d’aver ricevuto l’oro,<br>e mi parlasti d’una padrona e d’un pranzo,<br>per cui [[Hope|spero]] tu abbia sentito ch’io ero scontento. |
-| [[Dromio of Syracuse|DROMIO DI SIRACUSA]] | Sono lieto di vedervi in questa vena allegra.<br>Che significa questo scherzo? Vi prego, padrone, ditemelo. |
-| [[Antipholus of Syracuse|ANTIFOLO DI SIRACUSA]] | Ah, mi schernisci e mi beffi in faccia?<br>Credi ch’io scherzi? Tieni, prendi questo, e questo.<br>Batte Dromio |
-| [[Dromio of Syracuse|DROMIO DI SIRACUSA]] | Fermatevi, signore, per amor di Dio—ora il vostro scherzo è sul serio!<br>Per qual patto me lo date? |
-| [[Antipholus of Syracuse|ANTIFOLO DI SIRACUSA]] | Poiché talvolta familiarmente<br>ti uso come mio [[Fool|buffone]], e chiacchiero con te,<br>la tua sfacciataggine vuol scherzare sul mio [[Love|affetto]],<br>e far terra comune delle mie ore serie.<br>Quando il sole splende, lascia che le sciocche zanzare si sollazzino,<br>ma s’insinuino nelle fessure quand’egli nasconde i suoi raggi.<br>Se vuoi scherzare con me, conosci il mio aspetto,<br>e conforma il tuo contegno ai miei sguardi,<br>o ti batterò questo metodo nella zucca. |
-| [[Dromio of Syracuse|DROMIO DI SIRACUSA]] | ‘Zucca’ la chiamate? Purché smetteste di batterla, preferirei che fosse una testa. Se usate a lungo queste percosse, dovrò procurarmi una zucca di ferro per il capo, e trincerarvelo dentro, o altrimenti dovrò cercare il mio ingegno nelle spalle. Ma vi prego, signore, perché sono battuto? |
-| [[Antipholus of Syracuse|ANTIFOLO DI SIRACUSA]] | Non lo sai? |
-| [[Dromio of Syracuse|DROMIO DI SIRACUSA]] | Nulla, signore, se non che sono battuto. [[Antipholus of Syracuse|ANTIFOLO DI SIRACUSA]] Devo dirti perché? |
-| [[Dromio of Syracuse|DROMIO DI SIRACUSA]] | Sì, signore, e per qual motivo; ché dicono che ogni perché ha il suo per qual motivo. |
-| [[Antipholus of Syracuse|ANTIFOLO DI SIRACUSA]] | ‘Perché’ primo: per avermi beffato; e poi ‘per qual motivo’:<br>per avermelo ribadito una seconda [[Time|volta]]. |
-| [[Dromio of Syracuse|DROMIO DI SIRACUSA]] | Vi fu mai uomo così battuto fuor di stagione,<br>quando nel perché e nel per qual motivo non v’è né rima<br>né ragione?—<br>[[Well|Bene]], signore, vi ringrazio. |
-| [[Antipholus of Syracuse|ANTIFOLO DI SIRACUSA]] | Ringraziarmi, signore, di che? |
-| [[Dromio of Syracuse|DROMIO DI SIRACUSA]] | Perbacco, signore, per questo qualcosa che mi deste per nulla. 51 |
-| [[Antipholus of Syracuse|ANTIFOLO DI SIRACUSA]] | La prossima volta vi farò ammenda, dandovi nulla per qualcosa. Ma dimmi, signore, è l’[[Time|ora]] del pranzo? |
-| [[Dromio of Syracuse|DROMIO DI SIRACUSA]] | No, signore, credo che alla carne manchi ciò che ho io. 56 |
-| [[Antipholus of Syracuse|ANTIFOLO DI SIRACUSA]] | A buon [[Time|tempo]], signore. E che cosa? |
-| [[Dromio of Syracuse|DROMIO DI SIRACUSA]] | Bastonatura. |
-| [[Antipholus of Syracuse|ANTIFOLO DI SIRACUSA]] | [[Well|Bene]], signore, allora sarà secca. |
-| [[Dromio of Syracuse|DROMIO DI SIRACUSA]] | Se lo è, signore, vi prego di non mangiarne. |
-| [[Antipholus of Syracuse|ANTIFOLO DI SIRACUSA]] | La vostra ragione? 61 |
-| [[Dromio of Syracuse|DROMIO DI SIRACUSA]] | Perché non vi faccia collerico e non mi procuri un’altra bastonatura a secco. |
-| [[Antipholus of Syracuse|ANTIFOLO DI SIRACUSA]] | [[Well|Bene]], signore, imparate a scherzare a [[Time|tempo]] debito. C’è un [[Time|tempo]] per ogni cosa. 65 |
-| [[Dromio of Syracuse|DROMIO DI SIRACUSA]] | Avrei osato negarlo prima che foste così collerico. |
-| [[Antipholus of Syracuse|ANTIFOLO DI SIRACUSA]] | In base a qual regola, signore? |
-| [[Dromio of Syracuse|DROMIO DI SIRACUSA]] | Perbacco, signore, in base a una regola liscia come la liscia zucca calva di Padre [[Time|Tempo]] in persona. |
-| [[Antipholus of Syracuse|ANTIFOLO DI SIRACUSA]] | Sentiamola. |
-| [[Dromio of Syracuse|DROMIO DI SIRACUSA]] | Non c’è [[Time|tempo]] perché un uomo ricuperi i capelli, se incalvisce per [[Nature|natura]]. |
-| [[Antipholus of Syracuse|ANTIFOLO DI SIRACUSA]] | Non può farlo per via di multa e ricupero? |
-| [[Dromio of Syracuse|DROMIO DI SIRACUSA]] | Sì, pagando una multa per una parrucca, e ricuperando i capelli perduti d’un altro uomo. |
-| ANTIFOLO | di SIRACUSA Perché il [[Time|Tempo]] è così avaro di capelli, essendo essi, come sono, un’escrescenza così abbondante? |
+| *(didascalia)* | Entra [[Antipholus of Syracuse\|Antifolo di Siracusa]] |
+| [[Antipholus of Syracuse\|ANTIFOLO DI SIRACUSA]] | L’oro che diedi a Dromio è riposto<br>sicuro al Centauro, e l’attento schiavo<br>è uscito a vagare in cura di cercarmi.<br>Per calcolo e per il resoconto del mio oste,<br>non potei parlare con Dromio dal primo momento<br>in cui lo mandai via dal mercato! Ecco, eccolo che viene. |
+| *(didascalia)* | Entra [[Dromio of Syracuse\|Dromio di Siracusa]] |
+| [[Antipholus of Syracuse\|ANTIFOLO DI SIRACUSA]] | Ebbene, signore, è mutato il vostro allegro [[Humour\|umore]]?<br>Poiché [[Love\|ami]] le percosse, torna pure a scherzare con me.<br>Non conosci alcun Centauro? Non ricevesti oro?<br>La tua padrona mandò a chiamarmi a [[Home\|casa]] per il pranzo?<br>La mia [[house\|dimora]] era alla Fenice?—Eri tu pazzo,<br>che così pazzamente mi rispondesti? |
+| [[Dromio of Syracuse\|DROMIO DI SIRACUSA]] | Quale risposta, signore? Quando dissi io tal parola? |
+| [[Antipholus of Syracuse\|ANTIFOLO DI SIRACUSA]] | Or ora, proprio qui, non è mezz’ora. |
+| [[Dromio of Syracuse\|DROMIO DI SIRACUSA]] | Non vi ho veduto da quando mi mandaste via<br>a [[Home\|casa]], al Centauro, con l’oro che mi deste. |
+| [[Antipholus of Syracuse\|ANTIFOLO DI SIRACUSA]] | [[Villain\|Briccone]], negasti d’aver ricevuto l’oro,<br>e mi parlasti d’una padrona e d’un pranzo,<br>per cui [[Hope\|spero]] tu abbia sentito ch’io ero scontento. |
+| [[Dromio of Syracuse\|DROMIO DI SIRACUSA]] | Sono lieto di vedervi in questa vena allegra.<br>Che significa questo scherzo? Vi prego, padrone, ditemelo. |
+| [[Antipholus of Syracuse\|ANTIFOLO DI SIRACUSA]] | Ah, mi schernisci e mi beffi in faccia?<br>Credi ch’io scherzi? Tieni, prendi questo, e questo.<br>Batte Dromio |
+| [[Dromio of Syracuse\|DROMIO DI SIRACUSA]] | Fermatevi, signore, per amor di Dio—ora il vostro scherzo è sul serio!<br>Per qual patto me lo date? |
+| [[Antipholus of Syracuse\|ANTIFOLO DI SIRACUSA]] | Poiché talvolta familiarmente<br>ti uso come mio [[Fool\|buffone]], e chiacchiero con te,<br>la tua sfacciataggine vuol scherzare sul mio [[Love\|affetto]],<br>e far terra comune delle mie ore serie.<br>Quando il sole splende, lascia che le sciocche zanzare si sollazzino,<br>ma s’insinuino nelle fessure quand’egli nasconde i suoi raggi.<br>Se vuoi scherzare con me, conosci il mio aspetto,<br>e conforma il tuo contegno ai miei sguardi,<br>o ti batterò questo metodo nella zucca. |
+| [[Dromio of Syracuse\|DROMIO DI SIRACUSA]] | ‘Zucca’ la chiamate? Purché smetteste di batterla, preferirei che fosse una testa. Se usate a lungo queste percosse, dovrò procurarmi una zucca di ferro per il capo, e trincerarvelo dentro, o altrimenti dovrò cercare il mio ingegno nelle spalle. Ma vi prego, signore, perché sono battuto? |
+| [[Antipholus of Syracuse\|ANTIFOLO DI SIRACUSA]] | Non lo sai? |
+| [[Dromio of Syracuse\|DROMIO DI SIRACUSA]] | Nulla, signore, se non che sono battuto. [[Antipholus of Syracuse\|ANTIFOLO DI SIRACUSA]] Devo dirti perché? |
+| [[Dromio of Syracuse\|DROMIO DI SIRACUSA]] | Sì, signore, e per qual motivo; ché dicono che ogni perché ha il suo per qual motivo. |
+| [[Antipholus of Syracuse\|ANTIFOLO DI SIRACUSA]] | ‘Perché’ primo: per avermi beffato; e poi ‘per qual motivo’:<br>per avermelo ribadito una seconda [[Time\|volta]]. |
+| [[Dromio of Syracuse\|DROMIO DI SIRACUSA]] | Vi fu mai uomo così battuto fuor di stagione,<br>quando nel perché e nel per qual motivo non v’è né rima<br>né ragione?—<br>[[Well\|Bene]], signore, vi ringrazio. |
+| [[Antipholus of Syracuse\|ANTIFOLO DI SIRACUSA]] | Ringraziarmi, signore, di che? |
+| [[Dromio of Syracuse\|DROMIO DI SIRACUSA]] | Perbacco, signore, per questo qualcosa che mi deste per nulla. 51 |
+| [[Antipholus of Syracuse\|ANTIFOLO DI SIRACUSA]] | La prossima volta vi farò ammenda, dandovi nulla per qualcosa. Ma dimmi, signore, è l’[[Time\|ora]] del pranzo? |
+| [[Dromio of Syracuse\|DROMIO DI SIRACUSA]] | No, signore, credo che alla carne manchi ciò che ho io. 56 |
+| [[Antipholus of Syracuse\|ANTIFOLO DI SIRACUSA]] | A buon [[Time\|tempo]], signore. E che cosa? |
+| [[Dromio of Syracuse\|DROMIO DI SIRACUSA]] | Bastonatura. |
+| [[Antipholus of Syracuse\|ANTIFOLO DI SIRACUSA]] | [[Well\|Bene]], signore, allora sarà secca. |
+| [[Dromio of Syracuse\|DROMIO DI SIRACUSA]] | Se lo è, signore, vi prego di non mangiarne. |
+| [[Antipholus of Syracuse\|ANTIFOLO DI SIRACUSA]] | La vostra ragione? 61 |
+| [[Dromio of Syracuse\|DROMIO DI SIRACUSA]] | Perché non vi faccia collerico e non mi procuri un’altra bastonatura a secco. |
+| [[Antipholus of Syracuse\|ANTIFOLO DI SIRACUSA]] | [[Well\|Bene]], signore, imparate a scherzare a [[Time\|tempo]] debito. C’è un [[Time\|tempo]] per ogni cosa. 65 |
+| [[Dromio of Syracuse\|DROMIO DI SIRACUSA]] | Avrei osato negarlo prima che foste così collerico. |
+| [[Antipholus of Syracuse\|ANTIFOLO DI SIRACUSA]] | In base a qual regola, signore? |
+| [[Dromio of Syracuse\|DROMIO DI SIRACUSA]] | Perbacco, signore, in base a una regola liscia come la liscia zucca calva di Padre [[Time\|Tempo]] in persona. |
+| [[Antipholus of Syracuse\|ANTIFOLO DI SIRACUSA]] | Sentiamola. |
+| [[Dromio of Syracuse\|DROMIO DI SIRACUSA]] | Non c’è [[Time\|tempo]] perché un uomo ricuperi i capelli, se incalvisce per [[Nature\|natura]]. |
+| [[Antipholus of Syracuse\|ANTIFOLO DI SIRACUSA]] | Non può farlo per via di multa e ricupero? |
+| [[Dromio of Syracuse\|DROMIO DI SIRACUSA]] | Sì, pagando una multa per una parrucca, e ricuperando i capelli perduti d’un altro uomo. |
+| ANTIFOLO | di SIRACUSA Perché il [[Time\|Tempo]] è così avaro di capelli, essendo essi, come sono, un’escrescenza così abbondante? |
 | DROMIO | di SIRACUSA Perché è una benedizione ch’egli concede alle bestie, e ciò che ha lesinato agli uomini in capelli l’ha loro dato in ingegno. 82 |
-| [[Antipholus of Syracuse|ANTIFOLO DI SIRACUSA]] | Ma via, c’è più d’un uomo che ha più capelli che ingegno. |
-| [[Dromio of Syracuse|DROMIO DI SIRACUSA]] | Non v’è uno di quelli che non abbia l’ingegno di perdere i capelli. |
-| [[Antipholus of Syracuse|ANTIFOLO DI SIRACUSA]] | Ma tu concludesti che gli uomini pelosi sono gente schietta, senza ingegno. |
-| [[Dromio of Syracuse|DROMIO DI SIRACUSA]] | Più schietta la gente, prima li perde. Pure li perde in una specie d’allegria. |
-| [[Antipholus of Syracuse|ANTIFOLO DI SIRACUSA]] | Per qual ragione? |
-| [[Dromio of Syracuse|DROMIO DI SIRACUSA]] | Per due, e sane per giunta. |
-| [[Antipholus of Syracuse|ANTIFOLO DI SIRACUSA]] | No, non sane, vi prego. |
-| [[Dromio of Syracuse|DROMIO DI SIRACUSA]] | Sicure, allora. |
-| [[Antipholus of Syracuse|ANTIFOLO DI SIRACUSA]] | No, non sicure, in cosa che inganna. |
-| [[Dromio of Syracuse|DROMIO DI SIRACUSA]] | Certe, allora. 96 |
-| [[Antipholus of Syracuse|ANTIFOLO DI SIRACUSA]] | Nominatele. |
-| [[Dromio of Syracuse|DROMIO DI SIRACUSA]] | L’una, per risparmiare il denaro ch’egli spende in acconciature; l’altra, perché a pranzo non gli cadano nella minestra. |
-| [[Antipholus of Syracuse|ANTIFOLO DI SIRACUSA]] | Avreste per tutto questo [[Time|tempo]] voluto provare che non c’è [[Time|tempo]] per ogni cosa. |
-| [[Dromio of Syracuse|DROMIO DI SIRACUSA]] | Perbacco, e l’ho fatto, signore: cioè, proprio nessun [[Time|tempo]] per ricuperare i capelli perduti per [[Nature|natura]]. |
-| [[Antipholus of Syracuse|ANTIFOLO DI SIRACUSA]] | Ma la vostra ragione non era sostanziale, sul perché non ci sia [[Time|tempo]] per ricuperarli. |
-| [[Dromio of Syracuse|DROMIO DI SIRACUSA]] | Così l’emendo: il [[Time|Tempo]] stesso è calvo, e perciò fino alla fine del mondo avrà seguaci calvi. |
-| [[Antipholus of Syracuse|ANTIFOLO DI SIRACUSA]] | Sapevo che sarebbe stata una calva conclusione. |
+| [[Antipholus of Syracuse\|ANTIFOLO DI SIRACUSA]] | Ma via, c’è più d’un uomo che ha più capelli che ingegno. |
+| [[Dromio of Syracuse\|DROMIO DI SIRACUSA]] | Non v’è uno di quelli che non abbia l’ingegno di perdere i capelli. |
+| [[Antipholus of Syracuse\|ANTIFOLO DI SIRACUSA]] | Ma tu concludesti che gli uomini pelosi sono gente schietta, senza ingegno. |
+| [[Dromio of Syracuse\|DROMIO DI SIRACUSA]] | Più schietta la gente, prima li perde. Pure li perde in una specie d’allegria. |
+| [[Antipholus of Syracuse\|ANTIFOLO DI SIRACUSA]] | Per qual ragione? |
+| [[Dromio of Syracuse\|DROMIO DI SIRACUSA]] | Per due, e sane per giunta. |
+| [[Antipholus of Syracuse\|ANTIFOLO DI SIRACUSA]] | No, non sane, vi prego. |
+| [[Dromio of Syracuse\|DROMIO DI SIRACUSA]] | Sicure, allora. |
+| [[Antipholus of Syracuse\|ANTIFOLO DI SIRACUSA]] | No, non sicure, in cosa che inganna. |
+| [[Dromio of Syracuse\|DROMIO DI SIRACUSA]] | Certe, allora. 96 |
+| [[Antipholus of Syracuse\|ANTIFOLO DI SIRACUSA]] | Nominatele. |
+| [[Dromio of Syracuse\|DROMIO DI SIRACUSA]] | L’una, per risparmiare il denaro ch’egli spende in acconciature; l’altra, perché a pranzo non gli cadano nella minestra. |
+| [[Antipholus of Syracuse\|ANTIFOLO DI SIRACUSA]] | Avreste per tutto questo [[Time\|tempo]] voluto provare che non c’è [[Time\|tempo]] per ogni cosa. |
+| [[Dromio of Syracuse\|DROMIO DI SIRACUSA]] | Perbacco, e l’ho fatto, signore: cioè, proprio nessun [[Time\|tempo]] per ricuperare i capelli perduti per [[Nature\|natura]]. |
+| [[Antipholus of Syracuse\|ANTIFOLO DI SIRACUSA]] | Ma la vostra ragione non era sostanziale, sul perché non ci sia [[Time\|tempo]] per ricuperarli. |
+| [[Dromio of Syracuse\|DROMIO DI SIRACUSA]] | Così l’emendo: il [[Time\|Tempo]] stesso è calvo, e perciò fino alla fine del mondo avrà seguaci calvi. |
+| [[Antipholus of Syracuse\|ANTIFOLO DI SIRACUSA]] | Sapevo che sarebbe stata una calva conclusione. |
 | *(didascalia)* | Entrano dalla Fenice [[Adriana]] e [[Luciana]] |
-| [[Antipholus of Syracuse|ANTIFOLO DI SIRACUSA]] | Ma piano—chi ci fa cenno laggiù? |
-| [[Adriana|ADRIANA]] | Sì, sì, Antifolo, guarda straniero e aggrotta il ciglio:<br>qualche altra padrona ha i tuoi dolci sguardi.<br>Io non sono [[Adriana]], né tua moglie.<br>Il [[Time|tempo]] fu una volta che senza esser richiesto giuravi<br>che mai parole erano musica al tuo orecchio,<br>che mai oggetto era grato al tuo occhio,<br>che mai tocco era [[Well|ben]] accetto alla tua mano,<br>che mai vivanda aveva dolce sapore al tuo gusto,<br>se non quando io parlavo, o guardavo, o toccavo, o trinciavo per te.<br>Come avviene ora, marito mio, oh come avviene<br>che tu sia dunque estraniato da te stesso?—<br>Il tuo ‘[[Self|te stesso]]’ lo chiamo, essendo straniero a me<br>che, indivisibile, incorporata,<br>sono meglio della parte migliore del tuo caro [[Self|essere]].<br>Ah, non strappare te stesso via da me;<br>ché sappi, [[Love|amore]] mio, tanto facilmente potresti far cadere<br>una goccia d’[[Water|acqua]] nel golfo che si frange,<br>e riprendere di là non mescolata quella goccia<br>senza aggiunta né diminuzione,<br>quanto togliere a me te stesso, e non anche me.<br>Quanto amaramente ti toccherebbe nel vivo<br>se solo udissi ch’io fossi licenziosa,<br>e che questo [[Body|corpo]], a te consacrato,<br>da ruffiana libidine fosse contaminato?<br>Non mi sputeresti addosso, e non mi respingeresti,<br>e non mi scaglieresti in faccia il nome di marito,<br>e non strapperesti la pelle macchiata dalla mia fronte di sgualdrina,<br>e dalla mia falsa mano non taglieresti l’anello nuziale,<br>e non lo spezzeresti con voto di profondo divorzio?<br>So che lo puoi, e perciò bada di farlo!<br>Sono posseduta da una macchia adultera;<br>il mio [[Blood|sangue]] è mischiato col delitto della libidine.<br>Ché se noi due siamo uno, e tu giochi falso,<br>io digerisco il [[Poison|veleno]] della tua carne,<br>fatta meretrice dal tuo contagio.<br>Serba dunque leale patto e tregua col tuo vero letto,<br>ed io vivo immacolata, tu senza disonore. |
-| [[Antipholus of Syracuse|ANTIFOLO DI SIRACUSA]] | Supplicate me, bella dama? Io non vi conosco.<br>In Efeso non ho che due ore di vita,<br>estraneo alla vostra città quanto al vostro discorso,<br>ché, pur scandendo ogni parola con tutto il mio ingegno,<br>mi manca l’ingegno d’intenderne pur una. |
-| [[Luciana|LUCIANA]] | Ohibò, fratello, come il mondo è mutato con voi!<br>Quando mai solevate trattare così mia sorella?<br>Ella vi mandò a chiamare per mezzo di Dromio a [[Home|casa]] per il pranzo. |
-| [[Antipholus of Syracuse|ANTIFOLO DI SIRACUSA]] | Per mezzo di Dromio? |
-| [[Dromio of Syracuse|DROMIO DI SIRACUSA]] | Per mezzo mio? |
-| [[Adriana|ADRIANA]] | Per mezzo tuo; e questo riferisti da lui—<br>ch’egli ti percosse, e coi suoi colpi<br>negò la mia [[house|casa]] per sua, e me per sua moglie. |
-| [[Antipholus of Syracuse|ANTIFOLO DI SIRACUSA]] | Conversaste voi, signore, con questa gentildonna?<br>Qual è il corso e il fine del vostro accordo? |
-| [[Dromio of Syracuse|DROMIO DI SIRACUSA]] | Io, signore? Non la vidi mai fino a questo [[Time|momento]]. |
-| [[Antipholus of Syracuse|ANTIFOLO DI SIRACUSA]] | [[Villain|Briccone]], tu menti; ché proprio le sue stesse parole<br>mi recasti al mercato. |
-| [[Dromio of Syracuse|DROMIO DI SIRACUSA]] | Non parlai mai con lei in tutta la mia vita. |
-| [[Antipholus of Syracuse|ANTIFOLO DI SIRACUSA]] | Come può ella dunque così chiamarci coi nostri nomi ?—<br>se non per ispirazione. |
-| [[Adriana|ADRIANA]] | A<br>Quanto male s’accorda con la vostra gravità<br>fingere così grossolanamente col vostro schiavo,<br>istigandolo a contrariarmi nel mio umore !<br>Sia pure mio il torto che voi siate esente da me,<br>ma non aggravate quel torto con maggior disprezzo.<br>Venite, m’aggrapperò a questa vostra manica.<br>Tu sei un olmo, marito mio; io una vite,<br>la cui debolezza, maritata al tuo più forte stato,<br>mi fa partecipe della tua forza.<br>Se qualcosa ti possiede lungi da me, è scoria,<br>edera usurpatrice, rovo, o inerte musco,<br>che, tutto per mancanza di potatura, con l’intrusione<br>infetta la tua linfa, e vive della tua rovina. |
-| [[Antipholus of Syracuse|ANTIFOLO DI SIRACUSA]] | (a parte)<br>A me ella parla, me prende a suo tema.<br>Come, le fui sposato in sogno?<br>O [[Sleep|dormo]] ora, e credo d’udire tutto questo?<br>Qual errore trae in fallo i nostri occhi e i nostri orecchi?<br>Finché non conosca questa sicura incertezza,<br>accoglierò l’inganno che m’è offerto. |
-| [[Luciana|LUCIANA]] | Dromio, va’ a dire ai servi d’apparecchiare per il pranzo. |
-| [[Dromio of Syracuse|DROMIO DI SIRACUSA]] | (a parte)<br>Oh, il mio rosario! Mi faccio la [[Cross|croce]] come peccatore.<br>Questo è il paese delle fate. Oh dispetto dei dispetti,<br>parliamo con folletti, gnomi e spiriti.<br>Se non obbediamo loro, questo ne seguirà:<br>ci succhieranno il fiato o ci pizzicheranno a sangue. |
-| [[Luciana|LUCIANA]] | Perché ciarli fra te, e non rispondi?<br>Dromio, fuco, lumaca, lumacone, beone. |
-| [[Dromio of Syracuse|DROMIO DI SIRACUSA]] | (ad Antifolo)<br>Sono trasformato, padrone, non è vero? |
-| [[Antipholus of Syracuse|ANTIFOLO DI SIRACUSA]] | Credo che tu lo sia nella mente, e così io. |
-| [[Dromio of Syracuse|DROMIO DI SIRACUSA]] | Anzi, padrone, e nella mente e nella figura. |
-| [[Antipholus of Syracuse|ANTIFOLO DI SIRACUSA]] | Tu hai la tua propria forma. |
-| [[Dromio of Syracuse|DROMIO DI SIRACUSA]] | No, io sono una scimmia. |
-| [[Luciana|LUCIANA]] | Se sei mutato in qualcosa, è in un asino. |
-| *(didascalia)* | [[Dromio of Syracuse|DROMIO DI SIRACUSA]] ad Antifolo |
-| [[Luciana|LUCIANA]] | È vero, ella mi cavalca, e io agogno l’erba.<br>È così, sono un asino; altrimenti non potrebbe mai essere<br>ch’io non la conoscessi così [[Well|bene]] com’ella conosce me. |
-| [[Adriana|ADRIANA]] | Su, su, non sarò più una [[Fool|sciocca]],<br>da mettermi il dito nell’occhio e piangere<br>mentre servo e padrone deridono i miei mali.<br>(Ad Antifolo) Venite, signore, a pranzo.—Dromio, guarda<br>la porta.—<br>Marito, pranzerò oggi di sopra con voi,<br>e vi confesserò di mille oziose burle.—<br>Tu là, se alcuno vi chiede del tuo padrone,<br>di’ che pranza fuori, e non lasciare entrare creatura alcuna.—<br>Vieni, sorella.—Dromio, fa’ [[Well|bene]] il portiere. |
-| [[Antipholus of Syracuse|ANTIFOLO DI SIRACUSA]] | (a parte)<br>Sono in terra, in cielo, o all’inferno?<br>Dormiente o desto? Pazzo o [[Well|bene]] avveduto?<br>Noto a costoro, e a me stesso travisato!<br>Dirò com’essi dicono, e persevererò così,<br>e in questa nebbia andrò a ogni ventura. |
-| [[Dromio of Syracuse|DROMIO DI SIRACUSA]] | Padrone, devo far da portiere alla porta ? |
-| [[Adriana|ADRIANA]] | Sì, e non lasciar entrare nessuno, o ti spaccherò la zucca. |
-| [[Luciana|LUCIANA]] | Su, su, Antifolo, pranziamo troppo tardi. |
+| [[Antipholus of Syracuse\|ANTIFOLO DI SIRACUSA]] | Ma piano—chi ci fa cenno laggiù? |
+| [[Adriana\|ADRIANA]] | Sì, sì, Antifolo, guarda straniero e aggrotta il ciglio:<br>qualche altra padrona ha i tuoi dolci sguardi.<br>Io non sono [[Adriana]], né tua moglie.<br>Il [[Time\|tempo]] fu una volta che senza esser richiesto giuravi<br>che mai parole erano musica al tuo orecchio,<br>che mai oggetto era grato al tuo occhio,<br>che mai tocco era [[Well\|ben]] accetto alla tua mano,<br>che mai vivanda aveva dolce sapore al tuo gusto,<br>se non quando io parlavo, o guardavo, o toccavo, o trinciavo per te.<br>Come avviene ora, marito mio, oh come avviene<br>che tu sia dunque estraniato da te stesso?—<br>Il tuo ‘[[Self\|te stesso]]’ lo chiamo, essendo straniero a me<br>che, indivisibile, incorporata,<br>sono meglio della parte migliore del tuo caro [[Self\|essere]].<br>Ah, non strappare te stesso via da me;<br>ché sappi, [[Love\|amore]] mio, tanto facilmente potresti far cadere<br>una goccia d’[[Water\|acqua]] nel golfo che si frange,<br>e riprendere di là non mescolata quella goccia<br>senza aggiunta né diminuzione,<br>quanto togliere a me te stesso, e non anche me.<br>Quanto amaramente ti toccherebbe nel vivo<br>se solo udissi ch’io fossi licenziosa,<br>e che questo [[Body\|corpo]], a te consacrato,<br>da ruffiana libidine fosse contaminato?<br>Non mi sputeresti addosso, e non mi respingeresti,<br>e non mi scaglieresti in faccia il nome di marito,<br>e non strapperesti la pelle macchiata dalla mia fronte di sgualdrina,<br>e dalla mia falsa mano non taglieresti l’anello nuziale,<br>e non lo spezzeresti con voto di profondo divorzio?<br>So che lo puoi, e perciò bada di farlo!<br>Sono posseduta da una macchia adultera;<br>il mio [[Blood\|sangue]] è mischiato col delitto della libidine.<br>Ché se noi due siamo uno, e tu giochi falso,<br>io digerisco il [[Poison\|veleno]] della tua carne,<br>fatta meretrice dal tuo contagio.<br>Serba dunque leale patto e tregua col tuo vero letto,<br>ed io vivo immacolata, tu senza disonore. |
+| [[Antipholus of Syracuse\|ANTIFOLO DI SIRACUSA]] | Supplicate me, bella dama? Io non vi conosco.<br>In Efeso non ho che due ore di vita,<br>estraneo alla vostra città quanto al vostro discorso,<br>ché, pur scandendo ogni parola con tutto il mio ingegno,<br>mi manca l’ingegno d’intenderne pur una. |
+| [[Luciana\|LUCIANA]] | Ohibò, fratello, come il mondo è mutato con voi!<br>Quando mai solevate trattare così mia sorella?<br>Ella vi mandò a chiamare per mezzo di Dromio a [[Home\|casa]] per il pranzo. |
+| [[Antipholus of Syracuse\|ANTIFOLO DI SIRACUSA]] | Per mezzo di Dromio? |
+| [[Dromio of Syracuse\|DROMIO DI SIRACUSA]] | Per mezzo mio? |
+| [[Adriana\|ADRIANA]] | Per mezzo tuo; e questo riferisti da lui—<br>ch’egli ti percosse, e coi suoi colpi<br>negò la mia [[house\|casa]] per sua, e me per sua moglie. |
+| [[Antipholus of Syracuse\|ANTIFOLO DI SIRACUSA]] | Conversaste voi, signore, con questa gentildonna?<br>Qual è il corso e il fine del vostro accordo? |
+| [[Dromio of Syracuse\|DROMIO DI SIRACUSA]] | Io, signore? Non la vidi mai fino a questo [[Time\|momento]]. |
+| [[Antipholus of Syracuse\|ANTIFOLO DI SIRACUSA]] | [[Villain\|Briccone]], tu menti; ché proprio le sue stesse parole<br>mi recasti al mercato. |
+| [[Dromio of Syracuse\|DROMIO DI SIRACUSA]] | Non parlai mai con lei in tutta la mia vita. |
+| [[Antipholus of Syracuse\|ANTIFOLO DI SIRACUSA]] | Come può ella dunque così chiamarci coi nostri nomi ?—<br>se non per ispirazione. |
+| [[Adriana\|ADRIANA]] | A<br>Quanto male s’accorda con la vostra gravità<br>fingere così grossolanamente col vostro schiavo,<br>istigandolo a contrariarmi nel mio umore !<br>Sia pure mio il torto che voi siate esente da me,<br>ma non aggravate quel torto con maggior disprezzo.<br>Venite, m’aggrapperò a questa vostra manica.<br>Tu sei un olmo, marito mio; io una vite,<br>la cui debolezza, maritata al tuo più forte stato,<br>mi fa partecipe della tua forza.<br>Se qualcosa ti possiede lungi da me, è scoria,<br>edera usurpatrice, rovo, o inerte musco,<br>che, tutto per mancanza di potatura, con l’intrusione<br>infetta la tua linfa, e vive della tua rovina. |
+| [[Antipholus of Syracuse\|ANTIFOLO DI SIRACUSA]] | (a parte)<br>A me ella parla, me prende a suo tema.<br>Come, le fui sposato in sogno?<br>O [[Sleep\|dormo]] ora, e credo d’udire tutto questo?<br>Qual errore trae in fallo i nostri occhi e i nostri orecchi?<br>Finché non conosca questa sicura incertezza,<br>accoglierò l’inganno che m’è offerto. |
+| [[Luciana\|LUCIANA]] | Dromio, va’ a dire ai servi d’apparecchiare per il pranzo. |
+| [[Dromio of Syracuse\|DROMIO DI SIRACUSA]] | (a parte)<br>Oh, il mio rosario! Mi faccio la [[Cross\|croce]] come peccatore.<br>Questo è il paese delle fate. Oh dispetto dei dispetti,<br>parliamo con folletti, gnomi e spiriti.<br>Se non obbediamo loro, questo ne seguirà:<br>ci succhieranno il fiato o ci pizzicheranno a sangue. |
+| [[Luciana\|LUCIANA]] | Perché ciarli fra te, e non rispondi?<br>Dromio, fuco, lumaca, lumacone, beone. |
+| [[Dromio of Syracuse\|DROMIO DI SIRACUSA]] | (ad Antifolo)<br>Sono trasformato, padrone, non è vero? |
+| [[Antipholus of Syracuse\|ANTIFOLO DI SIRACUSA]] | Credo che tu lo sia nella mente, e così io. |
+| [[Dromio of Syracuse\|DROMIO DI SIRACUSA]] | Anzi, padrone, e nella mente e nella figura. |
+| [[Antipholus of Syracuse\|ANTIFOLO DI SIRACUSA]] | Tu hai la tua propria forma. |
+| [[Dromio of Syracuse\|DROMIO DI SIRACUSA]] | No, io sono una scimmia. |
+| [[Luciana\|LUCIANA]] | Se sei mutato in qualcosa, è in un asino. |
+| *(didascalia)* | [[Dromio of Syracuse\|DROMIO DI SIRACUSA]] ad Antifolo |
+| [[Luciana\|LUCIANA]] | È vero, ella mi cavalca, e io agogno l’erba.<br>È così, sono un asino; altrimenti non potrebbe mai essere<br>ch’io non la conoscessi così [[Well\|bene]] com’ella conosce me. |
+| [[Adriana\|ADRIANA]] | Su, su, non sarò più una [[Fool\|sciocca]],<br>da mettermi il dito nell’occhio e piangere<br>mentre servo e padrone deridono i miei mali.<br>(Ad Antifolo) Venite, signore, a pranzo.—Dromio, guarda<br>la porta.—<br>Marito, pranzerò oggi di sopra con voi,<br>e vi confesserò di mille oziose burle.—<br>Tu là, se alcuno vi chiede del tuo padrone,<br>di’ che pranza fuori, e non lasciare entrare creatura alcuna.—<br>Vieni, sorella.—Dromio, fa’ [[Well\|bene]] il portiere. |
+| [[Antipholus of Syracuse\|ANTIFOLO DI SIRACUSA]] | (a parte)<br>Sono in terra, in cielo, o all’inferno?<br>Dormiente o desto? Pazzo o [[Well\|bene]] avveduto?<br>Noto a costoro, e a me stesso travisato!<br>Dirò com’essi dicono, e persevererò così,<br>e in questa nebbia andrò a ogni ventura. |
+| [[Dromio of Syracuse\|DROMIO DI SIRACUSA]] | Padrone, devo far da portiere alla porta ? |
+| [[Adriana\|ADRIANA]] | Sì, e non lasciar entrare nessuno, o ti spaccherò la zucca. |
+| [[Luciana\|LUCIANA]] | Su, su, Antifolo, pranziamo troppo tardi. |
 | *(didascalia)* | Escono nella Fenice |
 
 
@@ -1290,78 +1290,78 @@ The [[Comedy]] of Errors
 
 | Chi parla | Battuta |
 |---|---|
-| *(didascalia)* | Entrano [[Antipholus of Ephesus|Antifolo di Efeso]], il suo servo Dromio, [[Angelo]] l’orefice, e Baldassarre il mercante |
-| [[Antipholus of Ephesus|ANTIFOLO DI EFESO]] | Buon signor [[Angelo]], dovete scusarci tutti.<br>Mia moglie è bisbetica quando non rispetto le ore.<br>Dite che indugiai con voi alla vostra bottega<br>per veder fare la sua collana,<br>e che domani la porterete a [[Home|casa]].—<br>Ma ecco un [[Villain|briccone]] che vorrebbe sostenermi in faccia<br>che m’incontrò al mercato, e che io lo battei,<br>e che gli affidai mille marchi in oro,<br>e che io rinnegai mia moglie e la mia [[house|casa]].<br>Tu, ubriacone, che intendevi con questo? |
-| [[Dromio of Ephesus|DROMIO DI EFESO]] | Dite ciò che volete, signore, ma io so quel che so—II<br>che mi batteste al mercato ho la vostra mano da<br>mostrare.<br>Se la pelle fosse pergamena, e i colpi che deste<br>fossero inchiostro,<br>la vostra propria scrittura vi direbbe ciò che penso. |
-| [[Antipholus of Ephesus|ANTIFOLO DI EFESO]] | Penso che tu sia un asino. |
-| [[Dromio of Ephesus|DROMIO DI EFESO]] | Perbacco, così appare<br>dai torti che soffro e dai colpi che porto.<br>Dovrei tirar calci essendo preso a calci, e, giunti a quel punto,<br>vi terreste lontano dai miei talloni, e guardereste da un asino. |
-| [[Antipholus of Ephesus|ANTIFOLO DI EFESO]] | Siete mesto, signor Baldassarre. Voglia Dio che la nostra mensa<br>corrisponda alla mia buona volontà, e al vostro buon benvenuto<br>qui. |
+| *(didascalia)* | Entrano [[Antipholus of Ephesus\|Antifolo di Efeso]], il suo servo Dromio, [[Angelo]] l’orefice, e Baldassarre il mercante |
+| [[Antipholus of Ephesus\|ANTIFOLO DI EFESO]] | Buon signor [[Angelo]], dovete scusarci tutti.<br>Mia moglie è bisbetica quando non rispetto le ore.<br>Dite che indugiai con voi alla vostra bottega<br>per veder fare la sua collana,<br>e che domani la porterete a [[Home\|casa]].—<br>Ma ecco un [[Villain\|briccone]] che vorrebbe sostenermi in faccia<br>che m’incontrò al mercato, e che io lo battei,<br>e che gli affidai mille marchi in oro,<br>e che io rinnegai mia moglie e la mia [[house\|casa]].<br>Tu, ubriacone, che intendevi con questo? |
+| [[Dromio of Ephesus\|DROMIO DI EFESO]] | Dite ciò che volete, signore, ma io so quel che so—II<br>che mi batteste al mercato ho la vostra mano da<br>mostrare.<br>Se la pelle fosse pergamena, e i colpi che deste<br>fossero inchiostro,<br>la vostra propria scrittura vi direbbe ciò che penso. |
+| [[Antipholus of Ephesus\|ANTIFOLO DI EFESO]] | Penso che tu sia un asino. |
+| [[Dromio of Ephesus\|DROMIO DI EFESO]] | Perbacco, così appare<br>dai torti che soffro e dai colpi che porto.<br>Dovrei tirar calci essendo preso a calci, e, giunti a quel punto,<br>vi terreste lontano dai miei talloni, e guardereste da un asino. |
+| [[Antipholus of Ephesus\|ANTIFOLO DI EFESO]] | Siete mesto, signor Baldassarre. Voglia Dio che la nostra mensa<br>corrisponda alla mia buona volontà, e al vostro buon benvenuto<br>qui. |
 | BALDASSARRE | Tengo a poco le vostre leccornie, signore, e caro il vostro benvenuto. |
-| [[Antipholus of Ephesus|ANTIFOLO DI EFESO]] | Oh, signor Baldassarre, sia in carne sia in pesce<br>una tavola piena di benvenuto fa a stento un piatto squisito. |
+| [[Antipholus of Ephesus\|ANTIFOLO DI EFESO]] | Oh, signor Baldassarre, sia in carne sia in pesce<br>una tavola piena di benvenuto fa a stento un piatto squisito. |
 | BALDASSARRE | Buona carne, signore, è cosa comune; ogni villano la offre. |
-| [[Antipholus of Ephesus|ANTIFOLO DI EFESO]] | E il benvenuto più comune ancora, ché non è altro che parole. |
+| [[Antipholus of Ephesus\|ANTIFOLO DI EFESO]] | E il benvenuto più comune ancora, ché non è altro che parole. |
 | BALDASSARRE | Poca mensa e gran benvenuto fanno un lieto banchetto. |
-| [[Antipholus of Ephesus|ANTIFOLO DI EFESO]] | Sì, per un ospite spilorcio e un convitato ancor più parco.<br>Ma benché le mie vivande siano meschine, prendetele in buona parte.<br>Miglior mensa potrete avere, ma non con miglior cuore.<br>Ma piano, la mia porta è chiusa. (A Dromio) Va’ a dir loro di farci entrare. |
-| [[Dromio of Ephesus|DROMIO DI EFESO]] | (chiamando)<br>Maud, Bridget, Marian, Cicely, Gillian, Ginn! |
-| *(didascalia)* | Entra [[Dromio of Syracuse|Dromio di Siracusa]] dentro la Fenice |
-| [[Dromio of Syracuse|DROMIO DI SIRACUSA]] | (dentro la Fenice)<br>Babbeo, [[Horse|cavallo]] da birreria, cappone, zerbinotto, idiota, buffone!<br>O togliti dalla porta o siediti allo sportello.<br>Fai scongiuri per aver ragazze, che ne chiami tanta provvista<br>quando una è già una di troppo? Va’, togliti dalla porta. |
-| [[Dromio of Ephesus|DROMIO DI EFESO]] | Che buffone hanno fatto nostro portiere? Il mio padrone aspetta nella strada. |
-| [[Dromio of Syracuse|DROMIO DI SIRACUSA]] | (dentro)<br>Che se ne torni donde venne, ché non prenda freddo ai piedi. |
-| [[Antipholus of Ephesus|ANTIFOLO DI EFESO]] | Chi parla là dentro ? Olà, aprite la porta! |
-| [[Dromio of Syracuse|DROMIO DI SIRACUSA]] | (dentro la Fenice)<br>Giusto, signore, vi dirò quando, se voi mi direte perché. |
-| [[Antipholus of Ephesus|ANTIFOLO DI EFESO]] | Perché? Per il mio pranzo—non ho pranzato oggi. |
-| [[Dromio of Syracuse|DROMIO DI SIRACUSA]] | (dentro la Fenice)<br>Né oggi qui dovete. Tornate quando potrete. |
-| [[Antipholus of Ephesus|ANTIFOLO DI EFESO]] | Chi sei tu che mi tieni fuori dalla [[house|casa]] che possiedo? |
-| [[Dromio of Syracuse|DROMIO DI SIRACUSA]] | (dentro la Fenice)<br>Il portiere per questa [[Time|volta]], signore, e il mio nome è Dromio. |
-| [[Dromio of Ephesus|DROMIO DI EFESO]] | Oh [[Villain|briccone]], m’hai rubato e l’ufficio e il nome.<br>L’uno non mi diede mai credito, l’altro molto biasimo.<br>Se tu fossi stato Dromio oggi al mio posto,<br>avresti cambiato la tua zucca per un bersaglio, o<br>il tuo nome per un asino. |
+| [[Antipholus of Ephesus\|ANTIFOLO DI EFESO]] | Sì, per un ospite spilorcio e un convitato ancor più parco.<br>Ma benché le mie vivande siano meschine, prendetele in buona parte.<br>Miglior mensa potrete avere, ma non con miglior cuore.<br>Ma piano, la mia porta è chiusa. (A Dromio) Va’ a dir loro di farci entrare. |
+| [[Dromio of Ephesus\|DROMIO DI EFESO]] | (chiamando)<br>Maud, Bridget, Marian, Cicely, Gillian, Ginn! |
+| *(didascalia)* | Entra [[Dromio of Syracuse\|Dromio di Siracusa]] dentro la Fenice |
+| [[Dromio of Syracuse\|DROMIO DI SIRACUSA]] | (dentro la Fenice)<br>Babbeo, [[Horse\|cavallo]] da birreria, cappone, zerbinotto, idiota, buffone!<br>O togliti dalla porta o siediti allo sportello.<br>Fai scongiuri per aver ragazze, che ne chiami tanta provvista<br>quando una è già una di troppo? Va’, togliti dalla porta. |
+| [[Dromio of Ephesus\|DROMIO DI EFESO]] | Che buffone hanno fatto nostro portiere? Il mio padrone aspetta nella strada. |
+| [[Dromio of Syracuse\|DROMIO DI SIRACUSA]] | (dentro)<br>Che se ne torni donde venne, ché non prenda freddo ai piedi. |
+| [[Antipholus of Ephesus\|ANTIFOLO DI EFESO]] | Chi parla là dentro ? Olà, aprite la porta! |
+| [[Dromio of Syracuse\|DROMIO DI SIRACUSA]] | (dentro la Fenice)<br>Giusto, signore, vi dirò quando, se voi mi direte perché. |
+| [[Antipholus of Ephesus\|ANTIFOLO DI EFESO]] | Perché? Per il mio pranzo—non ho pranzato oggi. |
+| [[Dromio of Syracuse\|DROMIO DI SIRACUSA]] | (dentro la Fenice)<br>Né oggi qui dovete. Tornate quando potrete. |
+| [[Antipholus of Ephesus\|ANTIFOLO DI EFESO]] | Chi sei tu che mi tieni fuori dalla [[house\|casa]] che possiedo? |
+| [[Dromio of Syracuse\|DROMIO DI SIRACUSA]] | (dentro la Fenice)<br>Il portiere per questa [[Time\|volta]], signore, e il mio nome è Dromio. |
+| [[Dromio of Ephesus\|DROMIO DI EFESO]] | Oh [[Villain\|briccone]], m’hai rubato e l’ufficio e il nome.<br>L’uno non mi diede mai credito, l’altro molto biasimo.<br>Se tu fossi stato Dromio oggi al mio posto,<br>avresti cambiato la tua zucca per un bersaglio, o<br>il tuo nome per un asino. |
 | *(didascalia)* | Entra Nell dentro la Fenice |
 | NELL | (dentro la Fenice)<br>Che baccano è questo, Dromio? Chi sono quelli alla porta? |
-| [[Dromio of Ephesus|DROMIO DI EFESO]] | Fa’ entrare il mio padrone, Nell. |
-| NELL | (dentro la Fenice) In [[Faith|fede]] mia no, viene troppo tardi;<br>e così di’ al tuo padrone. |
-| [[Dromio of Ephesus|DROMIO DI EFESO]] | Oh Signore, mi vien da ridere.<br>Eccoti un proverbio: ‘Debbo piantare qui il mio bastone?’ |
+| [[Dromio of Ephesus\|DROMIO DI EFESO]] | Fa’ entrare il mio padrone, Nell. |
+| NELL | (dentro la Fenice) In [[Faith\|fede]] mia no, viene troppo tardi;<br>e così di’ al tuo padrone. |
+| [[Dromio of Ephesus\|DROMIO DI EFESO]] | Oh Signore, mi vien da ridere.<br>Eccoti un proverbio: ‘Debbo piantare qui il mio bastone?’ |
 | NELL | (dentro la Fenice)<br>Eccotene un altro—cioè: ‘Quando ? Sai dirlo?’ |
-| [[Dromio of Syracuse|DROMIO DI SIRACUSA]] | (dentro la Fenice) |
-| *(didascalia)* | Se il tuo nome si chiama Nell, Nell, tu gli hai risposto [[Well|bene]]. |
-| [[Antipholus of Ephesus|ANTIFOLO DI EFESO]] | (a Nell)<br>Mi senti, sgualdrinella ? Ci farai entrare, [[Hope|spero]] ? |
+| [[Dromio of Syracuse\|DROMIO DI SIRACUSA]] | (dentro la Fenice) |
+| *(didascalia)* | Se il tuo nome si chiama Nell, Nell, tu gli hai risposto [[Well\|bene]]. |
+| [[Antipholus of Ephesus\|ANTIFOLO DI EFESO]] | (a Nell)<br>Mi senti, sgualdrinella ? Ci farai entrare, [[Hope\|spero]] ? |
 | NELL | (dentro la Fenice)<br>Pensavo di chiederlo a voi. |
-| [[Dromio of Syracuse|DROMIO DI SIRACUSA]] | (dentro) E voi diceste di no. |
-| [[Dromio of Ephesus|DROMIO DI EFESO]] | Su, vieni ad aiutare. |
+| [[Dromio of Syracuse\|DROMIO DI SIRACUSA]] | (dentro) E voi diceste di no. |
+| [[Dromio of Ephesus\|DROMIO DI EFESO]] | Su, vieni ad aiutare. |
 | *(didascalia)* | Egli e Antifolo battono la porta |
-| [[Dromio of Ephesus|DROMIO DI EFESO]] | [[Well|Ben]] colpito! Ecco colpo per colpo. |
-| [[Antipholus of Ephesus|ANTIFOLO DI EFESO]] | (a Nell)<br>Sfacciata, fammi entrare. |
+| [[Dromio of Ephesus\|DROMIO DI EFESO]] | [[Well\|Ben]] colpito! Ecco colpo per colpo. |
+| [[Antipholus of Ephesus\|ANTIFOLO DI EFESO]] | (a Nell)<br>Sfacciata, fammi entrare. |
 | NELL | (dentro la Fenice) Sapete dire per amor di chi? |
-| [[Dromio of Ephesus|DROMIO DI EFESO]] | Padrone, battete forte la porta. |
+| [[Dromio of Ephesus\|DROMIO DI EFESO]] | Padrone, battete forte la porta. |
 | NELL | (dentro la Fenice)<br>Che batta finché gli dolga. |
-| [[Antipholus of Ephesus|ANTIFOLO DI EFESO]] | Piangerai per questo, sgualdrinella, se abbatto la porta. |
+| [[Antipholus of Ephesus\|ANTIFOLO DI EFESO]] | Piangerai per questo, sgualdrinella, se abbatto la porta. |
 | NELL | (dentro la Fenice)<br>Che bisogno c’è di tutto ciò, con un paio di ceppi in città? |
 | *(didascalia)* | Entra [[Adriana]] dentro la Fenice |
-| [[Adriana|ADRIANA]] | (dentro la Fenice)<br>Chi è là alla porta che fa tutto questo chiasso? |
-| [[Dromio of Syracuse|DROMIO DI SIRACUSA]] | (dentro la Fenice)<br>In fede mia, la vostra città è tormentata da ragazzacci indocili. |
-| [[Antipholus of Ephesus|ANTIFOLO DI EFESO]] | (ad [[Adriana]])<br>Siete lì, moglie ? Avreste potuto venire prima. |
-| [[Adriana|ADRIANA]] | (dentro la Fenice)<br>Vostra moglie, ser furfante? Andate, via dalla porta. |
+| [[Adriana\|ADRIANA]] | (dentro la Fenice)<br>Chi è là alla porta che fa tutto questo chiasso? |
+| [[Dromio of Syracuse\|DROMIO DI SIRACUSA]] | (dentro la Fenice)<br>In fede mia, la vostra città è tormentata da ragazzacci indocili. |
+| [[Antipholus of Ephesus\|ANTIFOLO DI EFESO]] | (ad [[Adriana]])<br>Siete lì, moglie ? Avreste potuto venire prima. |
+| [[Adriana\|ADRIANA]] | (dentro la Fenice)<br>Vostra moglie, ser furfante? Andate, via dalla porta. |
 | *(didascalia)* | Esce con Nell |
-| [[Dromio of Ephesus|DROMIO DI EFESO]] | (ad Antifolo)<br>Se voi andaste in [[Pain|pena]], padrone, questo furfante andrebbe dolente. |
-| [[Angelo|ANGELO]] | (ad Antifolo)<br>Qui non c’è né mensa, signore, né benvenuto; volentieri avremmo l’uno o l’altro. |
+| [[Dromio of Ephesus\|DROMIO DI EFESO]] | (ad Antifolo)<br>Se voi andaste in [[Pain\|pena]], padrone, questo furfante andrebbe dolente. |
+| [[Angelo\|ANGELO]] | (ad Antifolo)<br>Qui non c’è né mensa, signore, né benvenuto; volentieri avremmo l’uno o l’altro. |
 | BALDASSARRE | A disputare quale fosse il migliore, ce n’andremo senza né l’uno né l’altro. |
-| [[Dromio of Ephesus|DROMIO DI EFESO]] | (ad Antifolo)<br>Stanno alla porta, padrone. Date loro il benvenuto qui. |
-| [[Antipholus of Ephesus|ANTIFOLO DI EFESO]] | C’è qualcosa nel [[Wind|vento]], ché non possiamo entrare. |
-| [[Dromio of Ephesus|DROMIO DI EFESO]] | Lo direste, padrone, se le vostre vesti fossero sottili.<br>La vostra focaccia qui è calda dentro: voi state qui al freddo.<br>Farebbe impazzire un uomo come un capriolo l’esser così comprato e venduto. |
-| [[Antipholus of Ephesus|ANTIFOLO DI EFESO]] | Va’ a prendermi qualcosa. Sfonderò la porta. |
-| [[Dromio of Syracuse|DROMIO DI SIRACUSA]] | (dentro la Fenice)<br>Rompi qui qualcosa, e io ti romperò la tua zucca di furfante. |
-| [[Dromio of Ephesus|DROMIO DI EFESO]] | Si può rompere una parola con voi, signore, e le parole non sono che [[Wind|vento]];<br>sì, e romperla in faccia a voi, purché non la rompa di dietro. |
-| [[Dromio of Syracuse|DROMIO DI SIRACUSA]] | (dentro la Fenice)<br>Pare che tu abbia bisogno d’esser rotto. Vergogna a te, bifolco! |
-| [[Dromio of Ephesus|DROMIO DI EFESO]] | C’è troppo ‘Vergogna a te!’ Ti prego, fammi entrare. |
+| [[Dromio of Ephesus\|DROMIO DI EFESO]] | (ad Antifolo)<br>Stanno alla porta, padrone. Date loro il benvenuto qui. |
+| [[Antipholus of Ephesus\|ANTIFOLO DI EFESO]] | C’è qualcosa nel [[Wind\|vento]], ché non possiamo entrare. |
+| [[Dromio of Ephesus\|DROMIO DI EFESO]] | Lo direste, padrone, se le vostre vesti fossero sottili.<br>La vostra focaccia qui è calda dentro: voi state qui al freddo.<br>Farebbe impazzire un uomo come un capriolo l’esser così comprato e venduto. |
+| [[Antipholus of Ephesus\|ANTIFOLO DI EFESO]] | Va’ a prendermi qualcosa. Sfonderò la porta. |
+| [[Dromio of Syracuse\|DROMIO DI SIRACUSA]] | (dentro la Fenice)<br>Rompi qui qualcosa, e io ti romperò la tua zucca di furfante. |
+| [[Dromio of Ephesus\|DROMIO DI EFESO]] | Si può rompere una parola con voi, signore, e le parole non sono che [[Wind\|vento]];<br>sì, e romperla in faccia a voi, purché non la rompa di dietro. |
+| [[Dromio of Syracuse\|DROMIO DI SIRACUSA]] | (dentro la Fenice)<br>Pare che tu abbia bisogno d’esser rotto. Vergogna a te, bifolco! |
+| [[Dromio of Ephesus\|DROMIO DI EFESO]] | C’è troppo ‘Vergogna a te!’ Ti prego, fammi entrare. |
 | DROMIO | di SIRACUSA (dentro la Fenice)<br>Sì, quando i volatili non avranno penne, e i pesci non avranno pinne. |
-| [[Antipholus of Ephesus|ANTIFOLO DI EFESO]] | [[Well|Bene]], sfonderò.—Va’ a prendermi in prestito un corvo. |
-| [[Dromio of Ephesus|DROMIO DI EFESO]] | Un corvo senza penne? Padrone, intendete così?<br>Per un pesce senza pinna, ecco un volatile senza penna.<br>(A [[Dromio of Syracuse|Dromio di Siracusa]])<br>Se un corvo ci aiuta a entrare, messere, spenneremo un corvo insieme. |
-| [[Antipholus of Ephesus|ANTIFOLO DI EFESO]] | Va’, vattene. Portami un corvo di ferro. |
-| BALDASSARRE | Abbiate pazienza, signore. Oh, che non sia così!<br>In ciò guerreggiate contro la vostra reputazione,<br>e traete nel cerchio del sospetto<br>l’inviolato [[Honour|onore]] di vostra moglie.<br>Solo questo: la vostra lunga esperienza della sua saggezza,<br>la sua sobria virtù, gli anni e la modestia,<br>perorano in suo favore qualche ragione a voi ignota;<br>e non [[Doubt|dubitate]], signore, ch’ella saprà [[Well|ben]] giustificare<br>perché in questo [[Time|momento]] le porte vi siano chiuse contro.<br>Lasciatevi guidare da me. Partite con pazienza,<br>e andiamo tutti alla Tigre a pranzo,<br>e verso sera venite voi stesso [[Alone|solo]]<br>a conoscer la ragione di questo strano divieto.<br>Se con mano forte tentate d’irrompere<br>ora nel passaggio affollato del giorno,<br>se ne farà un volgare commento,<br>e sarà supposto dalla comune plebaglia<br>contro la vostra stima ancora intatta,<br>tale che con turpe intrusione possa entrare<br>e dimorare sulla vostra [[Grave|tomba]] quando sarete morto.<br>Ché la calunnia vive per successione,<br>per sempre alloggiata dove una volta prende possesso. |
-| [[Antipholus of Ephesus|ANTIFOLO DI EFESO]] | Avete prevalso. Partirò in quiete,<br>e a dispetto dell’allegria intendo essere allegro.<br>Conosco una ragazza d’eccellente conversazione,<br>graziosa e arguta; sfrenata, e pure gentile.<br>Là pranzeremo. Questa donna ch’io dico,<br>mia moglie—ma, lo protesto, senza [[Desert|merito]]—<br>m’ha spesso rimproverato per lei.<br>Da lei andremo a pranzo. (Ad [[Angelo]]) Andate a [[Home|casa]]<br>e prendete la catena. Ormai, lo so, è fatta.<br>Portatela, vi prego, al Porcospino,<br>ché là è la [[house|casa]]. Quella catena io la donerò—<br>non foss’altro che per far dispetto a mia moglie—<br>alla mia ostessa colà. Buon signore, affrettatevi:<br>poiché le mie proprie porte rifiutano d’accogliermi,<br>busserò altrove, per vedere se mi sdegneranno. |
-| [[Angelo|ANGELO]] | V’incontrerò in quel luogo fra un’ora. |
-| [[Antipholus of Ephesus|ANTIFOLO DI EFESO]] | Fatelo. |
+| [[Antipholus of Ephesus\|ANTIFOLO DI EFESO]] | [[Well\|Bene]], sfonderò.—Va’ a prendermi in prestito un corvo. |
+| [[Dromio of Ephesus\|DROMIO DI EFESO]] | Un corvo senza penne? Padrone, intendete così?<br>Per un pesce senza pinna, ecco un volatile senza penna.<br>(A [[Dromio of Syracuse\|Dromio di Siracusa]])<br>Se un corvo ci aiuta a entrare, messere, spenneremo un corvo insieme. |
+| [[Antipholus of Ephesus\|ANTIFOLO DI EFESO]] | Va’, vattene. Portami un corvo di ferro. |
+| BALDASSARRE | Abbiate pazienza, signore. Oh, che non sia così!<br>In ciò guerreggiate contro la vostra reputazione,<br>e traete nel cerchio del sospetto<br>l’inviolato [[Honour\|onore]] di vostra moglie.<br>Solo questo: la vostra lunga esperienza della sua saggezza,<br>la sua sobria virtù, gli anni e la modestia,<br>perorano in suo favore qualche ragione a voi ignota;<br>e non [[Doubt\|dubitate]], signore, ch’ella saprà [[Well\|ben]] giustificare<br>perché in questo [[Time\|momento]] le porte vi siano chiuse contro.<br>Lasciatevi guidare da me. Partite con pazienza,<br>e andiamo tutti alla Tigre a pranzo,<br>e verso sera venite voi stesso [[Alone\|solo]]<br>a conoscer la ragione di questo strano divieto.<br>Se con mano forte tentate d’irrompere<br>ora nel passaggio affollato del giorno,<br>se ne farà un volgare commento,<br>e sarà supposto dalla comune plebaglia<br>contro la vostra stima ancora intatta,<br>tale che con turpe intrusione possa entrare<br>e dimorare sulla vostra [[Grave\|tomba]] quando sarete morto.<br>Ché la calunnia vive per successione,<br>per sempre alloggiata dove una volta prende possesso. |
+| [[Antipholus of Ephesus\|ANTIFOLO DI EFESO]] | Avete prevalso. Partirò in quiete,<br>e a dispetto dell’allegria intendo essere allegro.<br>Conosco una ragazza d’eccellente conversazione,<br>graziosa e arguta; sfrenata, e pure gentile.<br>Là pranzeremo. Questa donna ch’io dico,<br>mia moglie—ma, lo protesto, senza [[Desert\|merito]]—<br>m’ha spesso rimproverato per lei.<br>Da lei andremo a pranzo. (Ad [[Angelo]]) Andate a [[Home\|casa]]<br>e prendete la catena. Ormai, lo so, è fatta.<br>Portatela, vi prego, al Porcospino,<br>ché là è la [[house\|casa]]. Quella catena io la donerò—<br>non foss’altro che per far dispetto a mia moglie—<br>alla mia ostessa colà. Buon signore, affrettatevi:<br>poiché le mie proprie porte rifiutano d’accogliermi,<br>busserò altrove, per vedere se mi sdegneranno. |
+| [[Angelo\|ANGELO]] | V’incontrerò in quel luogo fra un’ora. |
+| [[Antipholus of Ephesus\|ANTIFOLO DI EFESO]] | Fatelo. |
 | *(didascalia)* | Esce [[Angelo]] |
-| [[Antipholus of Ephesus|ANTIFOLO DI EFESO]] | Questo scherzo mi costerà qualche spesa. |
-| *(didascalia)* | Escono [[Dromio of Syracuse|Dromio di Siracusa]] dentro la |
+| [[Antipholus of Ephesus\|ANTIFOLO DI EFESO]] | Questo scherzo mi costerà qualche spesa. |
+| *(didascalia)* | Escono [[Dromio of Syracuse\|Dromio di Siracusa]] dentro la |
 | *(didascalia)* | Fenice, e gli altri nel Porcospino |
 
 
@@ -1448,77 +1448,77 @@ The [[Comedy]] of Errors
 
 | Chi parla | Battuta |
 |---|---|
-| *(didascalia)* | Entrano dalla Fenice [[Luciana]] con [[Antipholus of Syracuse|Antifolo di Siracusa]] |
-| [[Luciana|LUCIANA]] | E può essere che abbiate del tutto scordato<br>l’ufficio d’un marito? Deve, Antifolo,<br>già nella [[Spring|primavera]] dell’[[Love|amore]] marcire la fonte del tuo [[Love|amore]]?<br>Deve l’[[Love|amore]], mentre edifica, farsi così rovinoso?<br>Se sposaste mia sorella per le sue ricchezze,<br>allora per amor delle sue ricchezze trattatela con maggiore<br>dolcezza;<br>o se v’aggrada altrove, fatelo di nascosto:<br>velate il vostro falso [[Love|amore]] con qualche parvenza di cecità.<br>Che mia sorella non lo legga nel vostro occhio.<br>Non sia la tua lingua oratrice della tua stessa vergogna.<br>Guardate dolce, parlate bene, adornate la slealtà;<br>vestite il vizio da araldo della virtù.<br>Serbate bella apparenza, benché il vostro cuore sia guasto:<br>insegnate al peccato il portamento d’un santo.<br>Siate falso in segreto. Che bisogno ha ella di saperlo?<br>Qual ladro sciocco si vanta della propria macchia?<br>È [[Double|doppio]] torto mancar di fede al vostro letto,<br>e lasciar ch’ella lo legga nel vostro volto a tavola.<br>La vergogna ha una fama bastarda, se [[Well|ben]] governata; |
-| III | opere è raddoppiata da una parola malvagia.<br>Ahimè, povere donne, fateci solo credere—<br>essendo noi fatte di credulità—che ci [[Love|amiate]].<br>Benché altre abbiano il braccio, mostrate a noi la manica.<br>Noi giriamo al vostro moto, e voi potete muoverci.<br>Dunque, gentile fratello, rientrate.<br>Confortate mia sorella, rallegratela, chiamatela moglie:<br>è santo diporto essere un poco menzogneri<br>quando il dolce fiato dell’adulazione vince la contesa. |
-| [[Antipholus of Syracuse|ANTIFOLO DI SIRACUSA]] | Dolce signora—quale altro sia il vostro nome non so,<br>né per qual [[Wonder|prodigio]] indovinate il mio.<br>Nel vostro sapere e nella vostra grazia non vi mostrate minore<br>della [[Wonder|meraviglia]] della nostra terra, più che terrena divina.<br>Insegnatemi, cara creatura, come pensare e parlare.<br>Svelate al mio terreno e grossolano intelletto,<br>soffocato d’errori, fiacco, superficiale, debole,<br>il senso ripiegato dell’inganno delle vostre parole.<br>Contro la pura [[Truth|verità]] dell’[[Soul|anima]] mia perché v’adoprate<br>a farla errare in un campo sconosciuto?<br>Siete una dea? Volete crearmi di nuovo?<br>Trasformatemi, dunque, e al vostro potere cederò.<br>Ma s’io sono io, allora [[Well|ben]] so<br>che la vostra sorella in pianto non è moglie mia,<br>né al suo letto debbo alcun omaggio.<br>Assai più, assai più, verso voi io inclino.<br>Oh, non m’attirate, dolce [[Mermaid|sirena]], col vostro canto<br>ad annegarmi nel diluvio di [[Tears|lacrime]] di vostra sorella.<br>Canta, sirena, per te stessa, e io ne andrò folle.<br>Spandi sulle onde d’argento le tue chiome d’oro,<br>e come letto le prenderò, e là mi coricherò,<br>e in quella gloriosa immaginazione penserò<br>che guadagna con la [[Death|morte]] chi ha tal modo di morire.<br>Che l’[[Love|amore]], essendo leggero, anneghi se affonda. |
-| [[Luciana|LUCIANA]] | Come, siete pazzo, che ragionate così? |
-| [[Antipholus of Syracuse|ANTIFOLO DI SIRACUSA]] | Non pazzo, ma sbalordito—come, non lo so. |
-| [[Luciana|LUCIANA]] | È un difetto che nasce dal vostro occhio. |
-| [[Antipholus of Syracuse|ANTIFOLO DI SIRACUSA]] | Per aver mirato i vostri raggi, bel sole, standovi accanto. |
-| [[Luciana|LUCIANA]] | Mirate dove dovreste, e ciò vi schiarirà la vista. |
-| [[Antipholus of Syracuse|ANTIFOLO DI SIRACUSA]] | Tanto vale chiuder gli occhi, dolce [[Love|amore]], quanto guardar la [[Night|notte]]. |
-| [[Luciana|LUCIANA]] | Perché mi chiamate ‘[[Love|amore]]’ ? Chiamate così mia sorella. |
-| [[Antipholus of Syracuse|ANTIFOLO DI SIRACUSA]] | La sorella di tua sorella. |
-| [[Luciana|LUCIANA]] | Quella è mia sorella. |
-| [[Antipholus of Syracuse|ANTIFOLO DI SIRACUSA]] | No,<br>sei tu stessa, la parte migliore del mio proprio [[Self|essere]],<br>l’occhio chiaro del mio occhio, il cuore più caro del mio caro cuore,<br>il mio cibo, la mia fortuna, e la meta della mia dolce [[Hope|speranza]],<br>il solo cielo della mia terra, e il mio diritto al cielo. |
-| [[Luciana|LUCIANA]] | Tutto ciò è mia sorella, o almeno dovrebbe essere. |
-| [[Antipholus of Syracuse|ANTIFOLO DI SIRACUSA]] | Chiamati sorella, dolce, ché io sono te.<br>Te [[Love|amerò]], e con te condurrò la mia vita.<br>Tu non hai ancora marito, né io moglie.<br>Dammi la tua mano. |
-| [[Luciana|LUCIANA]] | Oh piano, signore, state fermo;<br>andrò a chiamar mia sorella per averne il consenso. |
+| *(didascalia)* | Entrano dalla Fenice [[Luciana]] con [[Antipholus of Syracuse\|Antifolo di Siracusa]] |
+| [[Luciana\|LUCIANA]] | E può essere che abbiate del tutto scordato<br>l’ufficio d’un marito? Deve, Antifolo,<br>già nella [[Spring\|primavera]] dell’[[Love\|amore]] marcire la fonte del tuo [[Love\|amore]]?<br>Deve l’[[Love\|amore]], mentre edifica, farsi così rovinoso?<br>Se sposaste mia sorella per le sue ricchezze,<br>allora per amor delle sue ricchezze trattatela con maggiore<br>dolcezza;<br>o se v’aggrada altrove, fatelo di nascosto:<br>velate il vostro falso [[Love\|amore]] con qualche parvenza di cecità.<br>Che mia sorella non lo legga nel vostro occhio.<br>Non sia la tua lingua oratrice della tua stessa vergogna.<br>Guardate dolce, parlate bene, adornate la slealtà;<br>vestite il vizio da araldo della virtù.<br>Serbate bella apparenza, benché il vostro cuore sia guasto:<br>insegnate al peccato il portamento d’un santo.<br>Siate falso in segreto. Che bisogno ha ella di saperlo?<br>Qual ladro sciocco si vanta della propria macchia?<br>È [[Double\|doppio]] torto mancar di fede al vostro letto,<br>e lasciar ch’ella lo legga nel vostro volto a tavola.<br>La vergogna ha una fama bastarda, se [[Well\|ben]] governata; |
+| III | opere è raddoppiata da una parola malvagia.<br>Ahimè, povere donne, fateci solo credere—<br>essendo noi fatte di credulità—che ci [[Love\|amiate]].<br>Benché altre abbiano il braccio, mostrate a noi la manica.<br>Noi giriamo al vostro moto, e voi potete muoverci.<br>Dunque, gentile fratello, rientrate.<br>Confortate mia sorella, rallegratela, chiamatela moglie:<br>è santo diporto essere un poco menzogneri<br>quando il dolce fiato dell’adulazione vince la contesa. |
+| [[Antipholus of Syracuse\|ANTIFOLO DI SIRACUSA]] | Dolce signora—quale altro sia il vostro nome non so,<br>né per qual [[Wonder\|prodigio]] indovinate il mio.<br>Nel vostro sapere e nella vostra grazia non vi mostrate minore<br>della [[Wonder\|meraviglia]] della nostra terra, più che terrena divina.<br>Insegnatemi, cara creatura, come pensare e parlare.<br>Svelate al mio terreno e grossolano intelletto,<br>soffocato d’errori, fiacco, superficiale, debole,<br>il senso ripiegato dell’inganno delle vostre parole.<br>Contro la pura [[Truth\|verità]] dell’[[Soul\|anima]] mia perché v’adoprate<br>a farla errare in un campo sconosciuto?<br>Siete una dea? Volete crearmi di nuovo?<br>Trasformatemi, dunque, e al vostro potere cederò.<br>Ma s’io sono io, allora [[Well\|ben]] so<br>che la vostra sorella in pianto non è moglie mia,<br>né al suo letto debbo alcun omaggio.<br>Assai più, assai più, verso voi io inclino.<br>Oh, non m’attirate, dolce [[Mermaid\|sirena]], col vostro canto<br>ad annegarmi nel diluvio di [[Tears\|lacrime]] di vostra sorella.<br>Canta, sirena, per te stessa, e io ne andrò folle.<br>Spandi sulle onde d’argento le tue chiome d’oro,<br>e come letto le prenderò, e là mi coricherò,<br>e in quella gloriosa immaginazione penserò<br>che guadagna con la [[Death\|morte]] chi ha tal modo di morire.<br>Che l’[[Love\|amore]], essendo leggero, anneghi se affonda. |
+| [[Luciana\|LUCIANA]] | Come, siete pazzo, che ragionate così? |
+| [[Antipholus of Syracuse\|ANTIFOLO DI SIRACUSA]] | Non pazzo, ma sbalordito—come, non lo so. |
+| [[Luciana\|LUCIANA]] | È un difetto che nasce dal vostro occhio. |
+| [[Antipholus of Syracuse\|ANTIFOLO DI SIRACUSA]] | Per aver mirato i vostri raggi, bel sole, standovi accanto. |
+| [[Luciana\|LUCIANA]] | Mirate dove dovreste, e ciò vi schiarirà la vista. |
+| [[Antipholus of Syracuse\|ANTIFOLO DI SIRACUSA]] | Tanto vale chiuder gli occhi, dolce [[Love\|amore]], quanto guardar la [[Night\|notte]]. |
+| [[Luciana\|LUCIANA]] | Perché mi chiamate ‘[[Love\|amore]]’ ? Chiamate così mia sorella. |
+| [[Antipholus of Syracuse\|ANTIFOLO DI SIRACUSA]] | La sorella di tua sorella. |
+| [[Luciana\|LUCIANA]] | Quella è mia sorella. |
+| [[Antipholus of Syracuse\|ANTIFOLO DI SIRACUSA]] | No,<br>sei tu stessa, la parte migliore del mio proprio [[Self\|essere]],<br>l’occhio chiaro del mio occhio, il cuore più caro del mio caro cuore,<br>il mio cibo, la mia fortuna, e la meta della mia dolce [[Hope\|speranza]],<br>il solo cielo della mia terra, e il mio diritto al cielo. |
+| [[Luciana\|LUCIANA]] | Tutto ciò è mia sorella, o almeno dovrebbe essere. |
+| [[Antipholus of Syracuse\|ANTIFOLO DI SIRACUSA]] | Chiamati sorella, dolce, ché io sono te.<br>Te [[Love\|amerò]], e con te condurrò la mia vita.<br>Tu non hai ancora marito, né io moglie.<br>Dammi la tua mano. |
+| [[Luciana\|LUCIANA]] | Oh piano, signore, state fermo;<br>andrò a chiamar mia sorella per averne il consenso. |
 | *(didascalia)* | Esce |
 | *(didascalia)* | dentro |
-| [[Luciana|LUCIANA]] | la |
+| [[Luciana\|LUCIANA]] | la |
 | *(didascalia)* | Fenice |
-| *(didascalia)* | Entra dalla Fenice [[Dromio of Syracuse|Dromio di Siracusa]] |
-| [[Antipholus of Syracuse|ANTIFOLO DI SIRACUSA]] | Ma come, che c’è, Dromiol Dove corri così in fretta? |
-| [[Dromio of Syracuse|DROMIO DI SIRACUSA]] | Mi conoscete, signore? Sono io Dromio? Sono il vostro servo? Sono io me stesso? |
+| *(didascalia)* | Entra dalla Fenice [[Dromio of Syracuse\|Dromio di Siracusa]] |
+| [[Antipholus of Syracuse\|ANTIFOLO DI SIRACUSA]] | Ma come, che c’è, Dromiol Dove corri così in fretta? |
+| [[Dromio of Syracuse\|DROMIO DI SIRACUSA]] | Mi conoscete, signore? Sono io Dromio? Sono il vostro servo? Sono io me stesso? |
 | ANTIFOLO | di SIRACUSA Tu sei Dromio, tu sei il mio servo, tu sei te stesso. |
-| [[Dromio of Syracuse|DROMIO DI SIRACUSA]] | Sono un asino, sono l’uomo d’una donna, e fuori di me. |
+| [[Dromio of Syracuse\|DROMIO DI SIRACUSA]] | Sono un asino, sono l’uomo d’una donna, e fuori di me. |
 | ANTIFOLO | di SIRACUSA L’uomo di quale donna? E come fuori di te? |
-| [[Dromio of Syracuse|DROMIO DI SIRACUSA]] | Perbacco, signore, oltre che fuori di me sono dovuto a una donna: una che mi rivendica, una che mi perseguita, una che mi vuole avere. |
+| [[Dromio of Syracuse\|DROMIO DI SIRACUSA]] | Perbacco, signore, oltre che fuori di me sono dovuto a una donna: una che mi rivendica, una che mi perseguita, una che mi vuole avere. |
 | ANTIFOLO | di SIRACUSA Che diritto accampa ella su di te? |
-| [[Dromio of Syracuse|DROMIO DI SIRACUSA]] | Perbacco, signore, tal diritto quale voi accampereste sul vostro [[Horse|cavallo]]; ed ella mi vorrebbe come bestia—non che, essendo io una bestia, ella mi voglia, ma che ella, essendo una creatura assai bestiale, accampi diritto su di me. |
-| [[Antipholus of Syracuse|ANTIFOLO DI SIRACUSA]] | Chi è ella? |
-| [[Dromio of Syracuse|DROMIO DI SIRACUSA]] | Un [[Body|corpo]] assai reverendo; sì, tale che non se ne può parlare senza dire ‘con rispetto parlando’. Ho magra fortuna in questo partito, eppure ella è un [[Marriage|matrimonio]] meravigliosamente grasso. |
-| [[Antipholus of Syracuse|ANTIFOLO DI SIRACUSA]] | Che intendi con un [[Marriage|matrimonio]] grasso? 95 5 |
-| DROMIO | di SIRACUSA Perbacco, signore, è la sguattera di cucina, e tutta unto; e non so a che uso destinarla se non a farne una lampada, e fuggirle via alla sua propria luce. Vi garantisco che i suoi cenci e il sego che è in essi arderanno per tutto un [[Winter|inverno]] di Polonia. Se vive fino al giorno del giudizio, arderà una settimana più del mondo intero. |
+| [[Dromio of Syracuse\|DROMIO DI SIRACUSA]] | Perbacco, signore, tal diritto quale voi accampereste sul vostro [[Horse\|cavallo]]; ed ella mi vorrebbe come bestia—non che, essendo io una bestia, ella mi voglia, ma che ella, essendo una creatura assai bestiale, accampi diritto su di me. |
+| [[Antipholus of Syracuse\|ANTIFOLO DI SIRACUSA]] | Chi è ella? |
+| [[Dromio of Syracuse\|DROMIO DI SIRACUSA]] | Un [[Body\|corpo]] assai reverendo; sì, tale che non se ne può parlare senza dire ‘con rispetto parlando’. Ho magra fortuna in questo partito, eppure ella è un [[Marriage\|matrimonio]] meravigliosamente grasso. |
+| [[Antipholus of Syracuse\|ANTIFOLO DI SIRACUSA]] | Che intendi con un [[Marriage\|matrimonio]] grasso? 95 5 |
+| DROMIO | di SIRACUSA Perbacco, signore, è la sguattera di cucina, e tutta unto; e non so a che uso destinarla se non a farne una lampada, e fuggirle via alla sua propria luce. Vi garantisco che i suoi cenci e il sego che è in essi arderanno per tutto un [[Winter\|inverno]] di Polonia. Se vive fino al giorno del giudizio, arderà una settimana più del mondo intero. |
 | ANTIFOLO | di SIRACUSA Di che carnagione è ella? |
-| [[Dromio of Syracuse|DROMIO DI SIRACUSA]] | Bruna come la mia scarpa, ma il suo viso nulla affatto tenuto così pulito. E perché?—Suda tanto che si può affondare fin sopra le scarpe nel suo sudiciume. |
-| [[Antipholus of Syracuse|ANTIFOLO DI SIRACUSA]] | È un difetto che l’[[Water|acqua]] rimedierà. |
-| [[Dromio of Syracuse|DROMIO DI SIRACUSA]] | No, signore, è tinta a fondo. Il diluvio di Noè non basterebbe. |
-| [[Antipholus of Syracuse|ANTIFOLO DI SIRACUSA]] | Come si chiama? |
-| [[Dromio of Syracuse|DROMIO DI SIRACUSA]] | Nell, signore. Ma il suo nome e tre quarti—cioè un’auna e tre quarti—non basterebbero a misurarla da fianco a fianco. |
-| [[Antipholus of Syracuse|ANTIFOLO DI SIRACUSA]] | Ha dunque una certa larghezza? |
+| [[Dromio of Syracuse\|DROMIO DI SIRACUSA]] | Bruna come la mia scarpa, ma il suo viso nulla affatto tenuto così pulito. E perché?—Suda tanto che si può affondare fin sopra le scarpe nel suo sudiciume. |
+| [[Antipholus of Syracuse\|ANTIFOLO DI SIRACUSA]] | È un difetto che l’[[Water\|acqua]] rimedierà. |
+| [[Dromio of Syracuse\|DROMIO DI SIRACUSA]] | No, signore, è tinta a fondo. Il diluvio di Noè non basterebbe. |
+| [[Antipholus of Syracuse\|ANTIFOLO DI SIRACUSA]] | Come si chiama? |
+| [[Dromio of Syracuse\|DROMIO DI SIRACUSA]] | Nell, signore. Ma il suo nome e tre quarti—cioè un’auna e tre quarti—non basterebbero a misurarla da fianco a fianco. |
+| [[Antipholus of Syracuse\|ANTIFOLO DI SIRACUSA]] | Ha dunque una certa larghezza? |
 | DROMIO | di SIRACUSA Non più lunga da capo a piedi che da fianco a fianco. È sferica, come un globo. Potrei scoprire in lei dei paesi. |
-| ANTIFOLO | di SIRACUSA In qual parte del suo [[Body|corpo]] sta l’Irlanda? |
+| ANTIFOLO | di SIRACUSA In qual parte del suo [[Body\|corpo]] sta l’Irlanda? |
 | DROMIO | di SIRACUSA Perbacco, signore, nelle sue natiche. L’ho scoperta dalle paludi. |
-| [[Antipholus of Syracuse|ANTIFOLO DI SIRACUSA]] | E la Scozia? |
-| [[Dromio of Syracuse|DROMIO DI SIRACUSA]] | L’ho trovata dalla sterilità, dura nel palmo della sua mano. |
-| [[Antipholus of Syracuse|ANTIFOLO DI SIRACUSA]] | E la Francia? |
-| [[Dromio of Syracuse|DROMIO DI SIRACUSA]] | Nella sua fronte, armata e ribelle, che fa guerra contro il suo erede. |
-| [[Antipholus of Syracuse|ANTIFOLO DI SIRACUSA]] | E l’Inghilterra? |
-| [[Dromio of Syracuse|DROMIO DI SIRACUSA]] | Cercai le bianche scogliere di gesso, ma non vi potei trovare alcun candore. Ma indovino che stesse nel suo mento, per il salso catarro che scorreva fra la Francia ed esso. |
-| [[Antipholus of Syracuse|ANTIFOLO DI SIRACUSA]] | E la Spagna? |
-| [[Dromio of Syracuse|DROMIO DI SIRACUSA]] | In [[Faith|fede]] mia, non la vidi, ma la sentii calda nel suo fiato. |
-| [[Antipholus of Syracuse|ANTIFOLO DI SIRACUSA]] | E l’[[America]], le Indie? |
-| [[Dromio of Syracuse|DROMIO DI SIRACUSA]] | Oh, signore, sul suo naso, tutto adorno di rubini, carbonchi, zaffiri, che declinano il loro ricco aspetto verso il caldo fiato della Spagna, la quale mandò intere armate di caracche a far zavorra al suo naso. |
-| [[Antipholus of Syracuse|ANTIFOLO DI SIRACUSA]] | E dove stavano il Belgio, i Paesi Bassi? |
-| [[Dromio of Syracuse|DROMIO DI SIRACUSA]] | Oh, signore, non guardai tanto in basso. Per concludere, questa sguattera o indovina accampò diritto su di me, mi chiamò Dromio, giurò ch’io le ero promesso, mi disse quali segni segreti avessi addosso—come il segno sulla spalla, il neo sul collo, la gran verruca sul braccio sinistro—sì che io, stupefatto, fuggii da lei come da una [[Witch|strega]]. E penso che se il mio petto non fosse stato fatto di [[Faith|fede]], e il mio cuore d’acciaio, ella m’avrebbe trasformato in un cane scodato, e fatto girare nella [[Wheel|ruota]]. |
-| [[Antipholus of Syracuse|ANTIFOLO DI SIRACUSA]] | Va’, affrettati subito. Corri alla [[Road|rada]].<br>E se il [[Wind|vento]] soffia in qualunque modo da terra,<br>non alloggerò in questa città stanotte.<br>Se qualche barca salpa, vieni al mercato,<br>dove passeggerò finché tu non torni da me.<br>Se ognuno ci conosce, e noi non conosciamo nessuno,<br>è [[Time|tempo]], credo, di far fagotto e andarcene. |
-| [[Dromio of Syracuse|DROMIO DI SIRACUSA]] | Come da un orso si fuggirebbe per la vita,<br>così io fuggo da colei che vorrebbe essermi moglie. |
+| [[Antipholus of Syracuse\|ANTIFOLO DI SIRACUSA]] | E la Scozia? |
+| [[Dromio of Syracuse\|DROMIO DI SIRACUSA]] | L’ho trovata dalla sterilità, dura nel palmo della sua mano. |
+| [[Antipholus of Syracuse\|ANTIFOLO DI SIRACUSA]] | E la Francia? |
+| [[Dromio of Syracuse\|DROMIO DI SIRACUSA]] | Nella sua fronte, armata e ribelle, che fa guerra contro il suo erede. |
+| [[Antipholus of Syracuse\|ANTIFOLO DI SIRACUSA]] | E l’Inghilterra? |
+| [[Dromio of Syracuse\|DROMIO DI SIRACUSA]] | Cercai le bianche scogliere di gesso, ma non vi potei trovare alcun candore. Ma indovino che stesse nel suo mento, per il salso catarro che scorreva fra la Francia ed esso. |
+| [[Antipholus of Syracuse\|ANTIFOLO DI SIRACUSA]] | E la Spagna? |
+| [[Dromio of Syracuse\|DROMIO DI SIRACUSA]] | In [[Faith\|fede]] mia, non la vidi, ma la sentii calda nel suo fiato. |
+| [[Antipholus of Syracuse\|ANTIFOLO DI SIRACUSA]] | E l’[[America]], le Indie? |
+| [[Dromio of Syracuse\|DROMIO DI SIRACUSA]] | Oh, signore, sul suo naso, tutto adorno di rubini, carbonchi, zaffiri, che declinano il loro ricco aspetto verso il caldo fiato della Spagna, la quale mandò intere armate di caracche a far zavorra al suo naso. |
+| [[Antipholus of Syracuse\|ANTIFOLO DI SIRACUSA]] | E dove stavano il Belgio, i Paesi Bassi? |
+| [[Dromio of Syracuse\|DROMIO DI SIRACUSA]] | Oh, signore, non guardai tanto in basso. Per concludere, questa sguattera o indovina accampò diritto su di me, mi chiamò Dromio, giurò ch’io le ero promesso, mi disse quali segni segreti avessi addosso—come il segno sulla spalla, il neo sul collo, la gran verruca sul braccio sinistro—sì che io, stupefatto, fuggii da lei come da una [[Witch\|strega]]. E penso che se il mio petto non fosse stato fatto di [[Faith\|fede]], e il mio cuore d’acciaio, ella m’avrebbe trasformato in un cane scodato, e fatto girare nella [[Wheel\|ruota]]. |
+| [[Antipholus of Syracuse\|ANTIFOLO DI SIRACUSA]] | Va’, affrettati subito. Corri alla [[Road\|rada]].<br>E se il [[Wind\|vento]] soffia in qualunque modo da terra,<br>non alloggerò in questa città stanotte.<br>Se qualche barca salpa, vieni al mercato,<br>dove passeggerò finché tu non torni da me.<br>Se ognuno ci conosce, e noi non conosciamo nessuno,<br>è [[Time\|tempo]], credo, di far fagotto e andarcene. |
+| [[Dromio of Syracuse\|DROMIO DI SIRACUSA]] | Come da un orso si fuggirebbe per la vita,<br>così io fuggo da colei che vorrebbe essermi moglie. |
 | *(didascalia)* | Esce verso la baia |
-| [[Antipholus of Syracuse|ANTIFOLO DI SIRACUSA]] | Qui non abitano che streghe,<br>e perciò è ben [[Time|tempo]] ch’io me ne vada.<br>Colei che mi chiama marito, la mia stessa [[Soul|anima]]<br>aborre come moglie. Ma la sua bella sorella,<br>dotata di sì gentile e sovrana grazia,<br>di sì incantevole presenza e discorso,<br>m’ha quasi fatto traditore di me stesso.<br>Ma perché io non sia colpevole di torto a [[Self|me stesso]],<br>turerò gli orecchi contro il [[Song|canto]] della [[Mermaid|sirena]]. |
+| [[Antipholus of Syracuse\|ANTIFOLO DI SIRACUSA]] | Qui non abitano che streghe,<br>e perciò è ben [[Time\|tempo]] ch’io me ne vada.<br>Colei che mi chiama marito, la mia stessa [[Soul\|anima]]<br>aborre come moglie. Ma la sua bella sorella,<br>dotata di sì gentile e sovrana grazia,<br>di sì incantevole presenza e discorso,<br>m’ha quasi fatto traditore di me stesso.<br>Ma perché io non sia colpevole di torto a [[Self\|me stesso]],<br>turerò gli orecchi contro il [[Song\|canto]] della [[Mermaid\|sirena]]. |
 | *(didascalia)* | Entra [[Angelo]] con la catena |
-| [[Angelo|ANGELO]] | Messer Antifolo. |
-| [[Antipholus of Syracuse|ANTIFOLO DI SIRACUSA]] | Sì, è il mio nome. |
-| [[Angelo|ANGELO]] | Lo so [[Well|bene]], signore. Ecco, questa è la catena.<br>Pensavo di trovarvi al Porcospino.<br>La catena non finita mi fece indugiare tanto. |
-| [[Antipholus of Syracuse|ANTIFOLO DI SIRACUSA]] | (prendendo la catena)<br>Qual è il vostro volere ch’io faccia di questa? |
-| [[Angelo|ANGELO]] | Ciò che a voi piace, signore. L’ho fatta per voi. |
-| [[Antipholus of Syracuse|ANTIFOLO DI SIRACUSA]] | Fatta per me, signore? Io non l’ordinai. |
-| [[Angelo|ANGELO]] | Non una volta, né due, ma venti volte l’avete ordinata.<br>Andate a [[Home|casa]] con essa, e fatene lieta vostra moglie,<br>e presto, all’[[Time|ora]] di cena, verrò a trovarvi,<br>e allora riceverò il mio denaro per la catena. |
-| [[Antipholus of Syracuse|ANTIFOLO DI SIRACUSA]] | Vi prego, signore, ricevete il denaro ora,<br>per [[Fear|timore]] che non vediate mai più né catena né denaro. |
-| [[Angelo|ANGELO]] | Siete un uomo allegro, signore. State [[Well|bene]]. Esce |
-| [[Antipholus of Syracuse|ANTIFOLO DI SIRACUSA]] | Che debba pensare di questo non so dire.<br>Ma questo penso: non v’è uomo così stolto<br>che rifiuterebbe una catena così bella offerta.<br>Vedo che qui un uomo non ha bisogno di vivere d’espedienti,<br>quando per le strade incontra tali doni d’oro.<br>Andrò al mercato, e là aspetterò Dromio.<br>Se qualche [[Ship|nave]] salpa, allora via subito! Esce |
+| [[Angelo\|ANGELO]] | Messer Antifolo. |
+| [[Antipholus of Syracuse\|ANTIFOLO DI SIRACUSA]] | Sì, è il mio nome. |
+| [[Angelo\|ANGELO]] | Lo so [[Well\|bene]], signore. Ecco, questa è la catena.<br>Pensavo di trovarvi al Porcospino.<br>La catena non finita mi fece indugiare tanto. |
+| [[Antipholus of Syracuse\|ANTIFOLO DI SIRACUSA]] | (prendendo la catena)<br>Qual è il vostro volere ch’io faccia di questa? |
+| [[Angelo\|ANGELO]] | Ciò che a voi piace, signore. L’ho fatta per voi. |
+| [[Antipholus of Syracuse\|ANTIFOLO DI SIRACUSA]] | Fatta per me, signore? Io non l’ordinai. |
+| [[Angelo\|ANGELO]] | Non una volta, né due, ma venti volte l’avete ordinata.<br>Andate a [[Home\|casa]] con essa, e fatene lieta vostra moglie,<br>e presto, all’[[Time\|ora]] di cena, verrò a trovarvi,<br>e allora riceverò il mio denaro per la catena. |
+| [[Antipholus of Syracuse\|ANTIFOLO DI SIRACUSA]] | Vi prego, signore, ricevete il denaro ora,<br>per [[Fear\|timore]] che non vediate mai più né catena né denaro. |
+| [[Angelo\|ANGELO]] | Siete un uomo allegro, signore. State [[Well\|bene]]. Esce |
+| [[Antipholus of Syracuse\|ANTIFOLO DI SIRACUSA]] | Che debba pensare di questo non so dire.<br>Ma questo penso: non v’è uomo così stolto<br>che rifiuterebbe una catena così bella offerta.<br>Vedo che qui un uomo non ha bisogno di vivere d’espedienti,<br>quando per le strade incontra tali doni d’oro.<br>Andrò al mercato, e là aspetterò Dromio.<br>Se qualche [[Ship\|nave]] salpa, allora via subito! Esce |
 
 
 
@@ -1580,49 +1580,49 @@ The [[Comedy]] of Errors
 |---|---|
 | *(didascalia)* | Entrano il Secondo Mercante, [[Angelo]] l’orefice, e un Usciere |
 | SECONDO MERCANTE | (ad [[Angelo]])<br>Sapete che dalla Pentecoste la somma è dovuta,<br>e da allora non v’ho molto importunato;<br>né ora lo farei, se non fossi in partenza<br>per la Persia, e mi occorrano fiorini per il viaggio.<br>Perciò datemi presente soddisfazione,<br>o vi farò arrestare da quest’usciere. |
-| [[Angelo|ANGELO]] | Proprio la somma ch’io debbo a voi<br>mi matura da Antifolo,<br>e nell’istante in cui v’incontrai<br>egli ebbe da me una catena. Alle cinque in [[Clock|punto]]<br>riceverò il denaro per la medesima.<br>Vi piaccia venir con me giù fino alla sua [[house|casa]],<br>salderò il mio debito, e vi ringrazierò pure. |
-| *(didascalia)* | Entrano [[Antipholus of Ephesus|Antifolo di Efeso]] e [[Dromio of Ephesus|Dromio di Efeso]] dalla [[house|casa]] della Cortigiana (il Porcospino) |
+| [[Angelo\|ANGELO]] | Proprio la somma ch’io debbo a voi<br>mi matura da Antifolo,<br>e nell’istante in cui v’incontrai<br>egli ebbe da me una catena. Alle cinque in [[Clock\|punto]]<br>riceverò il denaro per la medesima.<br>Vi piaccia venir con me giù fino alla sua [[house\|casa]],<br>salderò il mio debito, e vi ringrazierò pure. |
+| *(didascalia)* | Entrano [[Antipholus of Ephesus\|Antifolo di Efeso]] e [[Dromio of Ephesus\|Dromio di Efeso]] dalla [[house\|casa]] della Cortigiana (il Porcospino) |
 | USCIERE | Quella fatica ve la potete risparmiare. Ecco, viene lui. |
-| [[Antipholus of Ephesus|ANTIFOLO DI EFESO]] | (a Dromio)<br>Mentr’io vado alla [[house|casa]] dell’orefice, tu va’<br>e compra un capo di fune. Quello lo distribuirò<br>fra mia moglie e le sue complici<br>per avermi chiuso fuori dalla mia porta in pieno giorno.<br>Ma piano, vedo l’orefice. Vattene.<br>Compra una fune, e portamela a [[Home|casa]]. |
-| [[Dromio of Ephesus|DROMIO DI EFESO]] | Io compro mille sterline l’anno, io compro una fune. Esce |
-| [[Antipholus of Ephesus|ANTIFOLO DI EFESO]] | (ad [[Angelo]])<br>È [[Well|ben]] servito chi si fida di voi!<br>Promisi la vostra presenza e la catena,<br>ma né catena né orefice vennero a me.<br>Forse pensaste che il nostro [[Love|amore]] sarebbe durato troppo<br>se fosse stato incatenato insieme, e perciò non veniste. |
-| [[Angelo|ANGELO]] | Salvo il vostro allegro [[Humour|umore]], ecco la nota<br>di quanto pesa la vostra catena fino all’ultimo carato,<br>la finezza dell’oro, e la dispendiosa fattura,<br>che ammontano a tre ducati in più<br>di quanto io stia in debito verso questo gentiluomo.<br>Vi prego di vederlo subito soddisfatto,<br>ché egli è in partenza per mare, e attende solo questo. |
-| [[Antipholus of Ephesus|ANTIFOLO DI EFESO]] | Non sono fornito del denaro contante.<br>Inoltre, ho qualche affare in città.<br>Buon signore, conducete lo straniero a [[house|casa]] mia,<br>e portate con voi la catena, e dite a mia moglie<br>di sborsare la somma alla consegna della medesima.<br>Forse sarò là non più tardi di voi. |
-| [[Angelo|ANGELO]] | Le porterete dunque voi stesso la catena? |
-| [[Antipholus of Ephesus|ANTIFOLO DI EFESO]] | No, portatela voi, caso mai non giunga in [[Time|tempo]]. |
-| [[Angelo|ANGELO]] | [[Well|Ebbene]], signore, così farò. Avete la catena addosso? |
-| [[Antipholus of Ephesus|ANTIFOLO DI EFESO]] | E se non l’ho, signore, [[Hope|spero]] l’abbiate voi;<br>altrimenti potreste tornare senza il vostro denaro. |
-| [[Angelo|ANGELO]] | Suvvia, vi prego, signore, datemi la catena.<br>Sia il [[Wind|vento]] sia la marea attendono questo gentiluomo,<br>e io, a mio torto, l’ho trattenuto qui troppo a lungo. |
-| [[Antipholus of Ephesus|ANTIFOLO DI EFESO]] | Buon Dio! Usate questo trastullo per scusare<br>la vostra promessa mancata al Porcospino.<br>Avrei dovuto io rimproverarvi per non averla portata,<br>ma come una bisbetica siete voi il primo a farla da litigioso. |
+| [[Antipholus of Ephesus\|ANTIFOLO DI EFESO]] | (a Dromio)<br>Mentr’io vado alla [[house\|casa]] dell’orefice, tu va’<br>e compra un capo di fune. Quello lo distribuirò<br>fra mia moglie e le sue complici<br>per avermi chiuso fuori dalla mia porta in pieno giorno.<br>Ma piano, vedo l’orefice. Vattene.<br>Compra una fune, e portamela a [[Home\|casa]]. |
+| [[Dromio of Ephesus\|DROMIO DI EFESO]] | Io compro mille sterline l’anno, io compro una fune. Esce |
+| [[Antipholus of Ephesus\|ANTIFOLO DI EFESO]] | (ad [[Angelo]])<br>È [[Well\|ben]] servito chi si fida di voi!<br>Promisi la vostra presenza e la catena,<br>ma né catena né orefice vennero a me.<br>Forse pensaste che il nostro [[Love\|amore]] sarebbe durato troppo<br>se fosse stato incatenato insieme, e perciò non veniste. |
+| [[Angelo\|ANGELO]] | Salvo il vostro allegro [[Humour\|umore]], ecco la nota<br>di quanto pesa la vostra catena fino all’ultimo carato,<br>la finezza dell’oro, e la dispendiosa fattura,<br>che ammontano a tre ducati in più<br>di quanto io stia in debito verso questo gentiluomo.<br>Vi prego di vederlo subito soddisfatto,<br>ché egli è in partenza per mare, e attende solo questo. |
+| [[Antipholus of Ephesus\|ANTIFOLO DI EFESO]] | Non sono fornito del denaro contante.<br>Inoltre, ho qualche affare in città.<br>Buon signore, conducete lo straniero a [[house\|casa]] mia,<br>e portate con voi la catena, e dite a mia moglie<br>di sborsare la somma alla consegna della medesima.<br>Forse sarò là non più tardi di voi. |
+| [[Angelo\|ANGELO]] | Le porterete dunque voi stesso la catena? |
+| [[Antipholus of Ephesus\|ANTIFOLO DI EFESO]] | No, portatela voi, caso mai non giunga in [[Time\|tempo]]. |
+| [[Angelo\|ANGELO]] | [[Well\|Ebbene]], signore, così farò. Avete la catena addosso? |
+| [[Antipholus of Ephesus\|ANTIFOLO DI EFESO]] | E se non l’ho, signore, [[Hope\|spero]] l’abbiate voi;<br>altrimenti potreste tornare senza il vostro denaro. |
+| [[Angelo\|ANGELO]] | Suvvia, vi prego, signore, datemi la catena.<br>Sia il [[Wind\|vento]] sia la marea attendono questo gentiluomo,<br>e io, a mio torto, l’ho trattenuto qui troppo a lungo. |
+| [[Antipholus of Ephesus\|ANTIFOLO DI EFESO]] | Buon Dio! Usate questo trastullo per scusare<br>la vostra promessa mancata al Porcospino.<br>Avrei dovuto io rimproverarvi per non averla portata,<br>ma come una bisbetica siete voi il primo a farla da litigioso. |
 | SECONDO MERCANTE | (ad [[Angelo]])<br>L’ora fugge. Vi prego, signore, sbrigatevi. |
-| [[Angelo|ANGELO]] | (ad Antifolo)<br>Udite come m’importuna. La catena! |
-| [[Antipholus of Ephesus|ANTIFOLO DI EFESO]] | Ma datela a mia moglie, e prendetevi il denaro. |
-| [[Angelo|ANGELO]] | Suvvia, suvvia, sapete che ve la diedi or ora.<br>O mandate la catena, o mandatemi con qualche pegno. |
-| [[Antipholus of Ephesus|ANTIFOLO DI EFESO]] | Ohibò, ora spingete questo [[Humour|umore]] fino a perder fiato.<br>Suvvia, dov’è la catena? Vi prego, fatemela vedere. |
+| [[Angelo\|ANGELO]] | (ad Antifolo)<br>Udite come m’importuna. La catena! |
+| [[Antipholus of Ephesus\|ANTIFOLO DI EFESO]] | Ma datela a mia moglie, e prendetevi il denaro. |
+| [[Angelo\|ANGELO]] | Suvvia, suvvia, sapete che ve la diedi or ora.<br>O mandate la catena, o mandatemi con qualche pegno. |
+| [[Antipholus of Ephesus\|ANTIFOLO DI EFESO]] | Ohibò, ora spingete questo [[Humour\|umore]] fino a perder fiato.<br>Suvvia, dov’è la catena? Vi prego, fatemela vedere. |
 | SECONDO MERCANTE | Il mio affare non può tollerare questo trastullo.<br>Buon signore, dite se mi risponderete o no;<br>se no, lo lascio all’usciere. |
-| [[Antipholus of Ephesus|ANTIFOLO DI EFESO]] | Io rispondere a voi? E che dovrei rispondervi? |
-| [[Angelo|ANGELO]] | Il denaro che mi dovete per la catena. |
-| [[Antipholus of Ephesus|ANTIFOLO DI EFESO]] | Non vi debbo nulla finché non riceva la catena. |
-| [[Angelo|ANGELO]] | Sapete che ve la diedi mezz’ora fa. |
-| [[Antipholus of Ephesus|ANTIFOLO DI EFESO]] | Non me ne deste alcuna. Mi fate gran torto a dirlo. |
-| [[Angelo|ANGELO]] | Voi fate maggior torto a me, signore, negandolo.<br>Considerate come ciò tocchi il mio credito. |
-| SECONDO MERCANTE | [[Well|Ebbene]], usciere, arrestatelo su mia querela. |
+| [[Antipholus of Ephesus\|ANTIFOLO DI EFESO]] | Io rispondere a voi? E che dovrei rispondervi? |
+| [[Angelo\|ANGELO]] | Il denaro che mi dovete per la catena. |
+| [[Antipholus of Ephesus\|ANTIFOLO DI EFESO]] | Non vi debbo nulla finché non riceva la catena. |
+| [[Angelo\|ANGELO]] | Sapete che ve la diedi mezz’ora fa. |
+| [[Antipholus of Ephesus\|ANTIFOLO DI EFESO]] | Non me ne deste alcuna. Mi fate gran torto a dirlo. |
+| [[Angelo\|ANGELO]] | Voi fate maggior torto a me, signore, negandolo.<br>Considerate come ciò tocchi il mio credito. |
+| SECONDO MERCANTE | [[Well\|Ebbene]], usciere, arrestatelo su mia querela. |
 | USCIERE | (ad [[Angelo]])<br>Lo faccio, e v’intimo in nome del Duca d’obbedirmi. |
-| [[Angelo|ANGELO]] | (ad Antifolo)<br>Questo mi tocca nella reputazione.<br>O acconsentite a pagare questa somma per me,<br>o vi faccio arrestare da quest’usciere. |
-| [[Antipholus of Ephesus|ANTIFOLO DI EFESO]] | Acconsentire a pagarti ciò che mai ebbi?<br>Arrestami, sciocco d’un uomo, se l’osi. |
-| [[Angelo|ANGELO]] | Ecco la tua mercede: arrestatelo, usciere.<br>Non risparmierei mio fratello in questo caso<br>se mi schernisse così apertamente. |
+| [[Angelo\|ANGELO]] | (ad Antifolo)<br>Questo mi tocca nella reputazione.<br>O acconsentite a pagare questa somma per me,<br>o vi faccio arrestare da quest’usciere. |
+| [[Antipholus of Ephesus\|ANTIFOLO DI EFESO]] | Acconsentire a pagarti ciò che mai ebbi?<br>Arrestami, sciocco d’un uomo, se l’osi. |
+| [[Angelo\|ANGELO]] | Ecco la tua mercede: arrestatelo, usciere.<br>Non risparmierei mio fratello in questo caso<br>se mi schernisse così apertamente. |
 | USCIERE | (ad Antifolo)<br>Io vi arresto, signore. Avete udito la querela. |
-| [[Antipholus of Ephesus|ANTIFOLO DI EFESO]] | T’obbedisco finché non ti dia cauzione.<br>(Ad<br>[[Angelo]]) Ma, messere, pagherete questo spasso a caro prezzo,<br>quanto tutto il metallo della vostra bottega può rispondere. |
-| [[Angelo|ANGELO]] | Signore, signore, avrò giustizia in Efeso,<br>a vostra notoria vergogna, non ne [[Doubt|dubito]]. |
-| *(didascalia)* | Entra [[Dromio of Syracuse|Dromio di Siracusa]], dalla baia |
-| [[Dromio of Syracuse|DROMIO DI SIRACUSA]] | Padrone, c’è una barca d’Epidamno<br>che attende soltanto che il suo armatore salga a bordo,<br>e poi salpa. Il nostro carico, signore,<br>l’ho fatto portare a bordo, e ho comprato<br>l’olio, il balsamo e l’acquavite.<br>La [[Ship|nave]] è in assetto; l’allegro [[Wind|vento]]<br>soffia propizio da terra. Non attendono null’altro<br>che il loro armatore, padrone, e voi stesso. |
-| [[Antipholus of Ephesus|ANTIFOLO DI EFESO]] | Che c’è ora? Un pazzo? Ma come, pecora stizzosa,<br>quale [[Ship|nave]] d’Epidamno attende me? |
-| [[Dromio of Syracuse|DROMIO DI SIRACUSA]] | Una [[Ship|nave]] alla quale mi mandaste, per noleggiare un passaggio. |
-| [[Antipholus of Ephesus|ANTIFOLO DI EFESO]] | Schiavo ubriaco, ti mandai per una fune,<br>e ti dissi a qual proposito e a qual fine. |
-| [[Dromio of Syracuse|DROMIO DI SIRACUSA]] | Mi mandaste per un capo di fune altrettanto.<br>Mi mandaste alla baia, signore, per una barca. |
-| [[Antipholus of Ephesus|ANTIFOLO DI EFESO]] | [[debate|Discuterò]] questa faccenda con più agio,<br>e insegnerò ai vostri orecchi ad ascoltarmi con più attenzione.<br>Da [[Adriana]], [[Villain|furfante]], corri difilato.<br>Dalle questa chiave, e dille che nello scrittoio<br>coperto di tappezzeria turca<br>v’è una borsa di ducati. Che la mandi.<br>Dille che sono arrestato per la strada,<br>e che ciò mi farà da cauzione. Affrettati, schiavo. Va’ via!—<br>Avanti, usciere, in [[Prison|prigione]], finché essa venga. |
-| *(didascalia)* | Escono tutti tranne [[Dromio of Syracuse|Dromio di Siracusa]] |
-| [[Dromio of Syracuse|DROMIO DI SIRACUSA]] | Da [[Adriana]]. È là che pranzammo,<br>dove Dolcebella mi rivendicò per suo marito.<br>È troppo grossa, [[Hope|spero]], perch’io possa cingerla.<br>Là debbo andare, benché contro la mia voglia;<br>ché i servi debbono compiere il volere dei padroni. Esce |
+| [[Antipholus of Ephesus\|ANTIFOLO DI EFESO]] | T’obbedisco finché non ti dia cauzione.<br>(Ad<br>[[Angelo]]) Ma, messere, pagherete questo spasso a caro prezzo,<br>quanto tutto il metallo della vostra bottega può rispondere. |
+| [[Angelo\|ANGELO]] | Signore, signore, avrò giustizia in Efeso,<br>a vostra notoria vergogna, non ne [[Doubt\|dubito]]. |
+| *(didascalia)* | Entra [[Dromio of Syracuse\|Dromio di Siracusa]], dalla baia |
+| [[Dromio of Syracuse\|DROMIO DI SIRACUSA]] | Padrone, c’è una barca d’Epidamno<br>che attende soltanto che il suo armatore salga a bordo,<br>e poi salpa. Il nostro carico, signore,<br>l’ho fatto portare a bordo, e ho comprato<br>l’olio, il balsamo e l’acquavite.<br>La [[Ship\|nave]] è in assetto; l’allegro [[Wind\|vento]]<br>soffia propizio da terra. Non attendono null’altro<br>che il loro armatore, padrone, e voi stesso. |
+| [[Antipholus of Ephesus\|ANTIFOLO DI EFESO]] | Che c’è ora? Un pazzo? Ma come, pecora stizzosa,<br>quale [[Ship\|nave]] d’Epidamno attende me? |
+| [[Dromio of Syracuse\|DROMIO DI SIRACUSA]] | Una [[Ship\|nave]] alla quale mi mandaste, per noleggiare un passaggio. |
+| [[Antipholus of Ephesus\|ANTIFOLO DI EFESO]] | Schiavo ubriaco, ti mandai per una fune,<br>e ti dissi a qual proposito e a qual fine. |
+| [[Dromio of Syracuse\|DROMIO DI SIRACUSA]] | Mi mandaste per un capo di fune altrettanto.<br>Mi mandaste alla baia, signore, per una barca. |
+| [[Antipholus of Ephesus\|ANTIFOLO DI EFESO]] | [[debate\|Discuterò]] questa faccenda con più agio,<br>e insegnerò ai vostri orecchi ad ascoltarmi con più attenzione.<br>Da [[Adriana]], [[Villain\|furfante]], corri difilato.<br>Dalle questa chiave, e dille che nello scrittoio<br>coperto di tappezzeria turca<br>v’è una borsa di ducati. Che la mandi.<br>Dille che sono arrestato per la strada,<br>e che ciò mi farà da cauzione. Affrettati, schiavo. Va’ via!—<br>Avanti, usciere, in [[Prison\|prigione]], finché essa venga. |
+| *(didascalia)* | Escono tutti tranne [[Dromio of Syracuse\|Dromio di Siracusa]] |
+| [[Dromio of Syracuse\|DROMIO DI SIRACUSA]] | Da [[Adriana]]. È là che pranzammo,<br>dove Dolcebella mi rivendicò per suo marito.<br>È troppo grossa, [[Hope\|spero]], perch’io possa cingerla.<br>Là debbo andare, benché contro la mia voglia;<br>ché i servi debbono compiere il volere dei padroni. Esce |
 
 
 
@@ -1679,45 +1679,45 @@ The [[Comedy]] of Errors
 | Chi parla | Battuta |
 |---|---|
 | *(didascalia)* | Entrano dalla Fenice [[Adriana]] e [[Luciana]] |
-| [[Adriana|ADRIANA]] | Ah, [[Luciana]], ti tentò egli così?<br>Potesti scorgere severamente nel suo occhio<br>s’egli perorasse davvero, sì o no?<br>Appariva rosso o pallido, o triste o allegro?<br>Quale osservazione facesti in questo caso<br>delle meteore del suo cuore che giostravano sul suo volto? |
-| [[Luciana|LUCIANA]] | Dapprima negò che voi non aveste su di lui alcun diritto. |
-| [[Adriana|ADRIANA]] | Voleva dire che a me non ne concedeva alcuno, tanto peggio per me. |
-| [[Luciana|LUCIANA]] | Poi giurò ch’egli era qui uno straniero. |
-| [[Adriana|ADRIANA]] | E giurò il vero, benché spergiuro pure fosse. |
-| [[Luciana|LUCIANA]] | Allora io perorai per voi. |
-| [[Adriana|ADRIANA]] | E che disse egli? |
-| [[Luciana|LUCIANA]] | Quell’[[Love|amore]] ch’io mendicai per voi, egli lo mendicò da me. |
-| [[Adriana|ADRIANA]] | Con quale [[Persuasion|persuasione]] tentò egli il tuo [[Love|amore]]? |
-| [[Luciana|LUCIANA]] | Con parole che in un’onesta domanda potrebbero commuovere.<br>Dapprima lodò la mia [[Beauty|bellezza]], poi il mio parlare. |
-| [[Adriana|ADRIANA]] | Gli parlasti tu con dolcezza? |
-| [[Luciana|LUCIANA]] | Abbiate pazienza, ve ne supplico. |
-| [[Adriana|ADRIANA]] | Non posso, né voglio, restarmene quieta.<br>La mia lingua, se non il mio cuore, avrà il suo sfogo.<br>Egli è deforme, storto, vecchio e avvizzito,<br>brutto di viso, peggio di corpo, informe dappertutto,<br>vizioso, scortese, sciocco, rozzo, spietato,<br>marchiato nella fattura, peggio nella mente. |
-| [[Luciana|LUCIANA]] | Chi sarebbe geloso, dunque, d’un tal uomo?<br>Nessun male perduto si piange quando se n’è andato. |
-| [[Adriana|ADRIANA]] | Ah, ma lo giudico migliore di quel che dico,<br>e pure vorrei che in questo gli occhi altrui lo giudicassero peggio.<br>Lontano dal suo nido la pavoncella grida.<br>Il mio cuore prega per lui, benché la mia lingua maledica. |
-| *(didascalia)* | Entra [[Dromio of Syracuse|Dromio di Siracusa]] di corsa |
-| [[Dromio of Syracuse|DROMIO DI SIRACUSA]] | Qua, presto—lo scrittoio, la borsa! Dolce signora, su, fate in fretta! |
-| [[Luciana|LUCIANA]] | Come? Hai perduto il fiato? |
+| [[Adriana\|ADRIANA]] | Ah, [[Luciana]], ti tentò egli così?<br>Potesti scorgere severamente nel suo occhio<br>s’egli perorasse davvero, sì o no?<br>Appariva rosso o pallido, o triste o allegro?<br>Quale osservazione facesti in questo caso<br>delle meteore del suo cuore che giostravano sul suo volto? |
+| [[Luciana\|LUCIANA]] | Dapprima negò che voi non aveste su di lui alcun diritto. |
+| [[Adriana\|ADRIANA]] | Voleva dire che a me non ne concedeva alcuno, tanto peggio per me. |
+| [[Luciana\|LUCIANA]] | Poi giurò ch’egli era qui uno straniero. |
+| [[Adriana\|ADRIANA]] | E giurò il vero, benché spergiuro pure fosse. |
+| [[Luciana\|LUCIANA]] | Allora io perorai per voi. |
+| [[Adriana\|ADRIANA]] | E che disse egli? |
+| [[Luciana\|LUCIANA]] | Quell’[[Love\|amore]] ch’io mendicai per voi, egli lo mendicò da me. |
+| [[Adriana\|ADRIANA]] | Con quale [[Persuasion\|persuasione]] tentò egli il tuo [[Love\|amore]]? |
+| [[Luciana\|LUCIANA]] | Con parole che in un’onesta domanda potrebbero commuovere.<br>Dapprima lodò la mia [[Beauty\|bellezza]], poi il mio parlare. |
+| [[Adriana\|ADRIANA]] | Gli parlasti tu con dolcezza? |
+| [[Luciana\|LUCIANA]] | Abbiate pazienza, ve ne supplico. |
+| [[Adriana\|ADRIANA]] | Non posso, né voglio, restarmene quieta.<br>La mia lingua, se non il mio cuore, avrà il suo sfogo.<br>Egli è deforme, storto, vecchio e avvizzito,<br>brutto di viso, peggio di corpo, informe dappertutto,<br>vizioso, scortese, sciocco, rozzo, spietato,<br>marchiato nella fattura, peggio nella mente. |
+| [[Luciana\|LUCIANA]] | Chi sarebbe geloso, dunque, d’un tal uomo?<br>Nessun male perduto si piange quando se n’è andato. |
+| [[Adriana\|ADRIANA]] | Ah, ma lo giudico migliore di quel che dico,<br>e pure vorrei che in questo gli occhi altrui lo giudicassero peggio.<br>Lontano dal suo nido la pavoncella grida.<br>Il mio cuore prega per lui, benché la mia lingua maledica. |
+| *(didascalia)* | Entra [[Dromio of Syracuse\|Dromio di Siracusa]] di corsa |
+| [[Dromio of Syracuse\|DROMIO DI SIRACUSA]] | Qua, presto—lo scrittoio, la borsa! Dolce signora, su, fate in fretta! |
+| [[Luciana\|LUCIANA]] | Come? Hai perduto il fiato? |
 | DROMIO | di SIRACUSA A furia di correre. |
-| [[Adriana|ADRIANA]] | Dov’è il tuo padrone, Dromio? Sta [[Well|bene]]? |
-| [[Dromio of Syracuse|DROMIO DI SIRACUSA]] | No, è nel limbo del Tartaro, peggio che all’inferno.<br>Lo tiene un diavolo in veste sempiterna,<br>uno il cui duro cuore è abbottonato d’acciaio;<br>un demonio, un folletto, spietato e rozzo;<br>un lupo, anzi peggio, un tale tutto vestito di cuoio;<br>un falso amico, un batti-spalla, uno che sbarra<br>i passaggi di vicoli, d’anse e di stretti sentieri;<br>un segugio che corre a ritroso, eppure fiuta [[Well|bene]] la traccia asciutta;<br>uno che prima del Giudizio porta le povere anime all’inferno. |
-| [[Adriana|ADRIANA]] | Ma insomma, uomo, di che si tratta? |
-| [[Dromio of Syracuse|DROMIO DI SIRACUSA]] | Non so di che si tratti, egli è ’restato sul caso. |
-| [[Adriana|ADRIANA]] | Come, è arrestato? Dimmi su querela di chi. |
-| [[Dromio of Syracuse|DROMIO DI SIRACUSA]] | Non so [[Well|bene]] su querela di chi sia arrestato,<br>ma è in veste di cuoio colui che l’ha ’restato, questo so dirlo.<br>Volete mandargli, padrona, il riscatto—il denaro nel suo scrittoio? |
-| [[Adriana|ADRIANA]] | Va’ a prenderlo, sorella. |
+| [[Adriana\|ADRIANA]] | Dov’è il tuo padrone, Dromio? Sta [[Well\|bene]]? |
+| [[Dromio of Syracuse\|DROMIO DI SIRACUSA]] | No, è nel limbo del Tartaro, peggio che all’inferno.<br>Lo tiene un diavolo in veste sempiterna,<br>uno il cui duro cuore è abbottonato d’acciaio;<br>un demonio, un folletto, spietato e rozzo;<br>un lupo, anzi peggio, un tale tutto vestito di cuoio;<br>un falso amico, un batti-spalla, uno che sbarra<br>i passaggi di vicoli, d’anse e di stretti sentieri;<br>un segugio che corre a ritroso, eppure fiuta [[Well\|bene]] la traccia asciutta;<br>uno che prima del Giudizio porta le povere anime all’inferno. |
+| [[Adriana\|ADRIANA]] | Ma insomma, uomo, di che si tratta? |
+| [[Dromio of Syracuse\|DROMIO DI SIRACUSA]] | Non so di che si tratti, egli è ’restato sul caso. |
+| [[Adriana\|ADRIANA]] | Come, è arrestato? Dimmi su querela di chi. |
+| [[Dromio of Syracuse\|DROMIO DI SIRACUSA]] | Non so [[Well\|bene]] su querela di chi sia arrestato,<br>ma è in veste di cuoio colui che l’ha ’restato, questo so dirlo.<br>Volete mandargli, padrona, il riscatto—il denaro nel suo scrittoio? |
+| [[Adriana\|ADRIANA]] | Va’ a prenderlo, sorella. |
 | *(didascalia)* | Esce [[Luciana]] dentro la Fenice |
-| [[Adriana|ADRIANA]] | Di questo mi [[Wonder|stupisco]],<br>ch’egli a mia insaputa sia in debito.<br>Dimmi, fu arrestato per un’obbligazione? |
-| [[Dromio of Syracuse|DROMIO DI SIRACUSA]] | Non per un’obbligazione ma per cosa più salda:<br>una catena, una catena—non la sentite suonare? |
-| [[Adriana|ADRIANA]] | Come, la catena? |
-| [[Dromio of Syracuse|DROMIO DI SIRACUSA]] | No, no, la campana. È [[Time|tempo]] ch’io me ne vada:<br>erano le due prima ch’io lo lasciassi, e ora l’[[Clock|orologio]] batte l’una. |
-| [[Adriana|ADRIANA]] | Le ore tornano indietro! Questo non l’udii mai. |
-| [[Dromio of Syracuse|DROMIO DI SIRACUSA]] | Oh sì, se un’ora incontra uno sbirro, torna indietro per pura [[Fear|paura]]. |
-| [[Adriana|ADRIANA]] | Come se il [[Time|tempo]] fosse indebitato. Che sciocco ragionare è il tuo! |
-| [[Dromio of Syracuse|DROMIO DI SIRACUSA]] | Il [[Time|Tempo]] è un vero fallito, e deve alla stagione più di quanto valga.<br>Anzi, è pure un ladro. Non avete udito dire dagli uomini<br>che il [[Time|tempo]] viene furtivo di [[Night|notte]] e di giorno?<br>Se egli è nei debiti e nei furti, e c’è uno sbirro per via,<br>non ha ragione di tornare indietro d’un’ora in un giorno? |
+| [[Adriana\|ADRIANA]] | Di questo mi [[Wonder\|stupisco]],<br>ch’egli a mia insaputa sia in debito.<br>Dimmi, fu arrestato per un’obbligazione? |
+| [[Dromio of Syracuse\|DROMIO DI SIRACUSA]] | Non per un’obbligazione ma per cosa più salda:<br>una catena, una catena—non la sentite suonare? |
+| [[Adriana\|ADRIANA]] | Come, la catena? |
+| [[Dromio of Syracuse\|DROMIO DI SIRACUSA]] | No, no, la campana. È [[Time\|tempo]] ch’io me ne vada:<br>erano le due prima ch’io lo lasciassi, e ora l’[[Clock\|orologio]] batte l’una. |
+| [[Adriana\|ADRIANA]] | Le ore tornano indietro! Questo non l’udii mai. |
+| [[Dromio of Syracuse\|DROMIO DI SIRACUSA]] | Oh sì, se un’ora incontra uno sbirro, torna indietro per pura [[Fear\|paura]]. |
+| [[Adriana\|ADRIANA]] | Come se il [[Time\|tempo]] fosse indebitato. Che sciocco ragionare è il tuo! |
+| [[Dromio of Syracuse\|DROMIO DI SIRACUSA]] | Il [[Time\|Tempo]] è un vero fallito, e deve alla stagione più di quanto valga.<br>Anzi, è pure un ladro. Non avete udito dire dagli uomini<br>che il [[Time\|tempo]] viene furtivo di [[Night\|notte]] e di giorno?<br>Se egli è nei debiti e nei furti, e c’è uno sbirro per via,<br>non ha ragione di tornare indietro d’un’ora in un giorno? |
 | *(didascalia)* | Entra [[Luciana]] dalla Fenice col denaro |
-| [[Adriana|ADRIANA]] | Va’, Dromio, ecco il denaro. Portalo difilato,<br>e riconduci subito a [[Home|casa]] il tuo padrone. |
+| [[Adriana\|ADRIANA]] | Va’, Dromio, ecco il denaro. Portalo difilato,<br>e riconduci subito a [[Home\|casa]] il tuo padrone. |
 | *(didascalia)* | Esce Dromiol |
-| [[Adriana|ADRIANA]] | Vieni, sorella, sono oppressa dall’immaginare:<br>l’immaginare, mio conforto e mia ferita. |
+| [[Adriana\|ADRIANA]] | Vieni, sorella, sono oppressa dall’immaginare:<br>l’immaginare, mio conforto e mia ferita. |
 | *(didascalia)* | Escono nella Fenice |
 
 
@@ -1763,36 +1763,36 @@ The [[Comedy]] of Errors
 
 | Chi parla | Battuta |
 |---|---|
-| *(didascalia)* | Entra [[Antipholus of Syracuse|Antifolo di Siracusa]], con la catena addosso |
-| [[Antipholus of Syracuse|ANTIFOLO DI SIRACUSA]] | Non v’è uomo ch’io incontri che non mi saluti<br>come s’io fossi loro amico [[Well|ben]] conosciuto,<br>e ognuno mi chiama per nome.<br>Chi m’offre denaro, chi m’invita,<br>chi altro mi ringrazia di cortesie.<br>Chi m’offre mercanzie da comprare.<br>Or ora un sarto mi chiamò nella sua bottega,<br>e mi mostrò sete che aveva comprato per me,<br>e con ciò prese le misure del mio [[Body|corpo]].<br>Certo, questi non sono che immaginari incantesimi,<br>e qui abitano stregoni di Lapponia. |
-| *(didascalia)* | Entra [[Dromio of Syracuse|Dromio di Siracusa]] col denaro |
+| *(didascalia)* | Entra [[Antipholus of Syracuse\|Antifolo di Siracusa]], con la catena addosso |
+| [[Antipholus of Syracuse\|ANTIFOLO DI SIRACUSA]] | Non v’è uomo ch’io incontri che non mi saluti<br>come s’io fossi loro amico [[Well\|ben]] conosciuto,<br>e ognuno mi chiama per nome.<br>Chi m’offre denaro, chi m’invita,<br>chi altro mi ringrazia di cortesie.<br>Chi m’offre mercanzie da comprare.<br>Or ora un sarto mi chiamò nella sua bottega,<br>e mi mostrò sete che aveva comprato per me,<br>e con ciò prese le misure del mio [[Body\|corpo]].<br>Certo, questi non sono che immaginari incantesimi,<br>e qui abitano stregoni di Lapponia. |
+| *(didascalia)* | Entra [[Dromio of Syracuse\|Dromio di Siracusa]] col denaro |
 | DROMIO | di SIRACUSA Padrone, ecco l’oro per cui mi mandaste. Come, avete ottenuto il riscatto dal ritratto del vecchio Adamo rivestito di nuovo? |
-| [[Antipholus of Syracuse|ANTIFOLO DI SIRACUSA]] | Che oro è questo? Che Adamo intendi? |
-| [[Dromio of Syracuse|DROMIO DI SIRACUSA]] | Non quell’Adamo che custodiva il Paradiso, ma quell’Adamo che custodisce la [[Prison|prigione]]—colui che va nella pelle del vitello, che fu ucciso per il Figliol Prodigo; colui che vi venne dietro, signore, come un angelo malvagio, e v’ingiunse d’abbandonare la vostra libertà. |
-| [[Antipholus of Syracuse|ANTIFOLO DI SIRACUSA]] | Non ti capisco. |
-| [[Dromio of Syracuse|DROMIO DI SIRACUSA]] | No? Ma via, è un caso chiaro: colui che andava come una viola da gamba in una custodia di cuoio; l’uomo, signore, che quando i gentiluomini sono stanchi dà loro un sospiro e li ’resta; colui, signore, che ha pietà degli uomini decaduti e dà loro abiti di durata; colui che si mette in posta per compiere con la sua mazza più imprese d’una picca moresca. |
-| [[Antipholus of Syracuse|ANTIFOLO DI SIRACUSA]] | Come, intendi un usciere? |
-| [[Dromio of Syracuse|DROMIO DI SIRACUSA]] | Sì, signore, il sergente della banda: colui che porta chiunque a risponderne se rompe la sua obbligazione; uno che crede che l’uomo se ne vada sempre a letto, e dice ‘Dio vi dia buon riposo.’ |
-| [[Antipholus of Syracuse|ANTIFOLO DI SIRACUSA]] | [[Well|Ebbene]], signore, riposate lì nelle vostre buffonerie. Salpa stanotte qualche nave? Possiamo andarcene? |
-| [[Dromio of Syracuse|DROMIO DI SIRACUSA]] | Ma come, signore, vi portai notizia un’ora fa che la barca Spedizione salpava stanotte, e allora foste impedito dal sergente a indugiare per il barcone Indugio. Ecco gli angeli che mandaste a prendere per liberarvi. 41 |
-| [[Antipholus of Syracuse|ANTIFOLO DI SIRACUSA]] | Il tale è fuori di sé, e così sono io,<br>e qui erriamo fra illusioni.<br>Qualche potenza benedetta ci liberi di qua. |
+| [[Antipholus of Syracuse\|ANTIFOLO DI SIRACUSA]] | Che oro è questo? Che Adamo intendi? |
+| [[Dromio of Syracuse\|DROMIO DI SIRACUSA]] | Non quell’Adamo che custodiva il Paradiso, ma quell’Adamo che custodisce la [[Prison\|prigione]]—colui che va nella pelle del vitello, che fu ucciso per il Figliol Prodigo; colui che vi venne dietro, signore, come un angelo malvagio, e v’ingiunse d’abbandonare la vostra libertà. |
+| [[Antipholus of Syracuse\|ANTIFOLO DI SIRACUSA]] | Non ti capisco. |
+| [[Dromio of Syracuse\|DROMIO DI SIRACUSA]] | No? Ma via, è un caso chiaro: colui che andava come una viola da gamba in una custodia di cuoio; l’uomo, signore, che quando i gentiluomini sono stanchi dà loro un sospiro e li ’resta; colui, signore, che ha pietà degli uomini decaduti e dà loro abiti di durata; colui che si mette in posta per compiere con la sua mazza più imprese d’una picca moresca. |
+| [[Antipholus of Syracuse\|ANTIFOLO DI SIRACUSA]] | Come, intendi un usciere? |
+| [[Dromio of Syracuse\|DROMIO DI SIRACUSA]] | Sì, signore, il sergente della banda: colui che porta chiunque a risponderne se rompe la sua obbligazione; uno che crede che l’uomo se ne vada sempre a letto, e dice ‘Dio vi dia buon riposo.’ |
+| [[Antipholus of Syracuse\|ANTIFOLO DI SIRACUSA]] | [[Well\|Ebbene]], signore, riposate lì nelle vostre buffonerie. Salpa stanotte qualche nave? Possiamo andarcene? |
+| [[Dromio of Syracuse\|DROMIO DI SIRACUSA]] | Ma come, signore, vi portai notizia un’ora fa che la barca Spedizione salpava stanotte, e allora foste impedito dal sergente a indugiare per il barcone Indugio. Ecco gli angeli che mandaste a prendere per liberarvi. 41 |
+| [[Antipholus of Syracuse\|ANTIFOLO DI SIRACUSA]] | Il tale è fuori di sé, e così sono io,<br>e qui erriamo fra illusioni.<br>Qualche potenza benedetta ci liberi di qua. |
 | *(didascalia)* | Entra una Cortigiana dal Porcospino |
-| CORTIGIANA | [[Well|Ben]] trovato, [[Well|ben]] trovato, messer Antifolo.<br>Vedo, signore, che ora avete trovato l’orefice.<br>È quella la catena che oggi mi prometteste? |
-| [[Antipholus of Syracuse|ANTIFOLO DI SIRACUSA]] | [[Satan|Satana]], vattene! T’intimo di non tentarmi! |
-| [[Dromio of Syracuse|DROMIO DI SIRACUSA]] | Padrone, è questa madonna [[Satan|Satana]]? [[Antipholus of Syracuse|ANTIFOLO DI SIRACUSA]] È il diavolo. |
-| [[Dromio of Syracuse|DROMIO DI SIRACUSA]] | Anzi, ella è peggio, è la madre del diavolo; ed ecco che viene in abito di sgualdrina leggera. E di qui viene che le sgualdrine dicono ‘Dio mi danni’—che è quanto dire ‘Dio mi faccia una sgualdrina leggera.’ Sta scritto che esse appaiono agli uomini come angeli di luce. La luce è un effetto del [[Fire|fuoco]], e il [[Fire|fuoco]] brucia. Ergo, le sgualdrine leggere bruciano. Non le andate vicino. |
+| CORTIGIANA | [[Well\|Ben]] trovato, [[Well\|ben]] trovato, messer Antifolo.<br>Vedo, signore, che ora avete trovato l’orefice.<br>È quella la catena che oggi mi prometteste? |
+| [[Antipholus of Syracuse\|ANTIFOLO DI SIRACUSA]] | [[Satan\|Satana]], vattene! T’intimo di non tentarmi! |
+| [[Dromio of Syracuse\|DROMIO DI SIRACUSA]] | Padrone, è questa madonna [[Satan\|Satana]]? [[Antipholus of Syracuse\|ANTIFOLO DI SIRACUSA]] È il diavolo. |
+| [[Dromio of Syracuse\|DROMIO DI SIRACUSA]] | Anzi, ella è peggio, è la madre del diavolo; ed ecco che viene in abito di sgualdrina leggera. E di qui viene che le sgualdrine dicono ‘Dio mi danni’—che è quanto dire ‘Dio mi faccia una sgualdrina leggera.’ Sta scritto che esse appaiono agli uomini come angeli di luce. La luce è un effetto del [[Fire\|fuoco]], e il [[Fire\|fuoco]] brucia. Ergo, le sgualdrine leggere bruciano. Non le andate vicino. |
 | CORTIGIANA | Il vostro servo e voi siete meravigliosamente allegri, signore.<br>Volete venire con me? Rimedieremo qui al nostro pranzo. |
-| [[Dromio of Syracuse|DROMIO DI SIRACUSA]] | Padrone, se lo fate, aspettatevi pappa col cucchiaio, e ordinate un cucchiaio lungo. |
-| [[Antipholus of Syracuse|ANTIFOLO DI SIRACUSA]] | Perché, Dromio? |
-| [[Dromio of Syracuse|DROMIO DI SIRACUSA]] | Perbacco, deve avere un cucchiaio lungo chi mangia col diavolo. |
-| [[Antipholus of Syracuse|ANTIFOLO DI SIRACUSA]] | (alla Cortigiana)<br>Vattene, demonio! Che vieni a dirmi di cene?<br>Tu sei, come tutte voi siete, una maliarda.<br>Ti scongiuro di lasciarmi e d’andartene. |
+| [[Dromio of Syracuse\|DROMIO DI SIRACUSA]] | Padrone, se lo fate, aspettatevi pappa col cucchiaio, e ordinate un cucchiaio lungo. |
+| [[Antipholus of Syracuse\|ANTIFOLO DI SIRACUSA]] | Perché, Dromio? |
+| [[Dromio of Syracuse\|DROMIO DI SIRACUSA]] | Perbacco, deve avere un cucchiaio lungo chi mangia col diavolo. |
+| [[Antipholus of Syracuse\|ANTIFOLO DI SIRACUSA]] | (alla Cortigiana)<br>Vattene, demonio! Che vieni a dirmi di cene?<br>Tu sei, come tutte voi siete, una maliarda.<br>Ti scongiuro di lasciarmi e d’andartene. |
 | CORTIGIANA | Datemi il mio anello che aveste a pranzo,<br>o per il mio diamante la catena che prometteste,<br>e me n’andrò, signore, e non vi darò noia. |
-| [[Dromio of Syracuse|DROMIO DI SIRACUSA]] | Certi diavoli chiedono solo i ritagli d’un’unghia,<br>un giunco, un capello, una goccia di [[Blood|sangue]], uno spillo,<br>una noce, un nocciolo di ciliegia;<br>ma costei, più cupida, vorrebbe una catena.<br>Padrone, siate saggio; e se gliela date,<br>il diavolo scuoterà la sua catena, e con essa ci spaventerà. |
-| CORTIGIANA | (ad Antifolo)<br>Vi prego, signore, il mio anello, oppure la catena.<br>[[Hope|Spero]] che non intendiate truffarmi così? |
-| [[Antipholus of Syracuse|ANTIFOLO DI SIRACUSA]] | Via di qua, [[Witch|strega]]!—Vieni, Dromio, andiamocene. |
-| [[Dromio of Syracuse|DROMIO DI SIRACUSA]] | ‘Fuggi la [[Pride|superbia]]’ dice il pavone. Padrona, questo lo sapete. |
-| *(didascalia)* | Escono [[Antipholus of Syracuse|Antifolo di Siracusa]] e [[Dromio of Syracuse|Dromio di Siracusa]] |
-| CORTIGIANA | Ora, fuor di [[Doubt|dubbio]], Antifolo è pazzo;<br>altrimenti mai si comporterebbe così.<br>Egli ha un mio anello che vale quaranta ducati,<br>e per il medesimo mi promise una catena.<br>Ora nega a me e l’uno e l’altra.<br>La ragione per cui deduco ch’è pazzo,<br>oltre a questo presente esempio della sua furia,<br>è un folle racconto che fece oggi a pranzo<br>delle sue proprie porte serrate al suo ingresso.<br>Forse sua moglie, conoscendo i suoi accessi,<br>di proposito gli sbarrò le porte in faccia.<br>La mia via ora è d’affrettarmi a [[Home|casa]] sua, alla sua [[house|dimora]],<br>e dire a sua moglie che, essendo lunatico,<br>irruppe nella mia [[house|casa]], e portò via a forza<br>il mio anello. Questo partito scelgo come il più adatto,<br>ché quaranta ducati son troppi da perdere. Esce |
+| [[Dromio of Syracuse\|DROMIO DI SIRACUSA]] | Certi diavoli chiedono solo i ritagli d’un’unghia,<br>un giunco, un capello, una goccia di [[Blood\|sangue]], uno spillo,<br>una noce, un nocciolo di ciliegia;<br>ma costei, più cupida, vorrebbe una catena.<br>Padrone, siate saggio; e se gliela date,<br>il diavolo scuoterà la sua catena, e con essa ci spaventerà. |
+| CORTIGIANA | (ad Antifolo)<br>Vi prego, signore, il mio anello, oppure la catena.<br>[[Hope\|Spero]] che non intendiate truffarmi così? |
+| [[Antipholus of Syracuse\|ANTIFOLO DI SIRACUSA]] | Via di qua, [[Witch\|strega]]!—Vieni, Dromio, andiamocene. |
+| [[Dromio of Syracuse\|DROMIO DI SIRACUSA]] | ‘Fuggi la [[Pride\|superbia]]’ dice il pavone. Padrona, questo lo sapete. |
+| *(didascalia)* | Escono [[Antipholus of Syracuse\|Antifolo di Siracusa]] e [[Dromio of Syracuse\|Dromio di Siracusa]] |
+| CORTIGIANA | Ora, fuor di [[Doubt\|dubbio]], Antifolo è pazzo;<br>altrimenti mai si comporterebbe così.<br>Egli ha un mio anello che vale quaranta ducati,<br>e per il medesimo mi promise una catena.<br>Ora nega a me e l’uno e l’altra.<br>La ragione per cui deduco ch’è pazzo,<br>oltre a questo presente esempio della sua furia,<br>è un folle racconto che fece oggi a pranzo<br>delle sue proprie porte serrate al suo ingresso.<br>Forse sua moglie, conoscendo i suoi accessi,<br>di proposito gli sbarrò le porte in faccia.<br>La mia via ora è d’affrettarmi a [[Home\|casa]] sua, alla sua [[house\|dimora]],<br>e dire a sua moglie che, essendo lunatico,<br>irruppe nella mia [[house\|casa]], e portò via a forza<br>il mio anello. Questo partito scelgo come il più adatto,<br>ché quaranta ducati son troppi da perdere. Esce |
 
 
 
@@ -1903,101 +1903,101 @@ The [[Comedy]] of Errors
 
 | Chi parla | Battuta |
 |---|---|
-| *(didascalia)* | Entra [[Antipholus of Ephesus|Antifolo di Efeso]] con l’Usciere |
-| [[Antipholus of Ephesus|ANTIFOLO DI EFESO]] | Non aver [[Fear|paura]] di me, uomo, non scapperò.<br>Prima di lasciarti ti darò tanto denaro<br>da garantirti quanto quello per cui sono ’restato.<br>Mia moglie è oggi d’umore ritroso,<br>e non crederà facilmente al messaggero<br>che io sia stato arrestato in Efeso.<br>Vi dico che ciò suonerà aspro ai suoi orecchi. |
-| *(didascalia)* | Entra [[Dromio of Ephesus|Dromio di Efeso]] con un capo di fune |
-| [[Antipholus of Ephesus|ANTIFOLO DI EFESO]] | Ecco viene il mio servo. Credo che porti il denaro.—<br>Che c’è, messere? Avete ciò per cui vi mandai? |
-| [[Dromio of Ephesus|DROMIO DI EFESO]] | Ecco qui ciò che, ve lo garantisco, li pagherà tutti. |
-| [[Antipholus of Ephesus|ANTIFOLO DI EFESO]] | Ma dov’è il denaro? |
-| [[Dromio of Ephesus|DROMIO DI EFESO]] | Ma come, signore, diedi il denaro per la fune. |
-| [[Antipholus of Ephesus|ANTIFOLO DI EFESO]] | Cinquecento ducati, [[Villain|furfante]], per una fune? |
-| [[Dromio of Ephesus|DROMIO DI EFESO]] | Ve ne servirò, signore, cinquecento a quel prezzo. |
-| [[Antipholus of Ephesus|ANTIFOLO DI EFESO]] | A qual fine ti dissi d’affrettarti a [[Home|casa]]? |
-| [[Dromio of Ephesus|DROMIO DI EFESO]] | A un capo di fune, signore, e a quel capo<br>son tornato. |
-| [[Antipholus of Ephesus|ANTIFOLO DI EFESO]] | E a quel capo, messere, vi darò il benvenuto.<br>Batte Dromio |
+| *(didascalia)* | Entra [[Antipholus of Ephesus\|Antifolo di Efeso]] con l’Usciere |
+| [[Antipholus of Ephesus\|ANTIFOLO DI EFESO]] | Non aver [[Fear\|paura]] di me, uomo, non scapperò.<br>Prima di lasciarti ti darò tanto denaro<br>da garantirti quanto quello per cui sono ’restato.<br>Mia moglie è oggi d’umore ritroso,<br>e non crederà facilmente al messaggero<br>che io sia stato arrestato in Efeso.<br>Vi dico che ciò suonerà aspro ai suoi orecchi. |
+| *(didascalia)* | Entra [[Dromio of Ephesus\|Dromio di Efeso]] con un capo di fune |
+| [[Antipholus of Ephesus\|ANTIFOLO DI EFESO]] | Ecco viene il mio servo. Credo che porti il denaro.—<br>Che c’è, messere? Avete ciò per cui vi mandai? |
+| [[Dromio of Ephesus\|DROMIO DI EFESO]] | Ecco qui ciò che, ve lo garantisco, li pagherà tutti. |
+| [[Antipholus of Ephesus\|ANTIFOLO DI EFESO]] | Ma dov’è il denaro? |
+| [[Dromio of Ephesus\|DROMIO DI EFESO]] | Ma come, signore, diedi il denaro per la fune. |
+| [[Antipholus of Ephesus\|ANTIFOLO DI EFESO]] | Cinquecento ducati, [[Villain\|furfante]], per una fune? |
+| [[Dromio of Ephesus\|DROMIO DI EFESO]] | Ve ne servirò, signore, cinquecento a quel prezzo. |
+| [[Antipholus of Ephesus\|ANTIFOLO DI EFESO]] | A qual fine ti dissi d’affrettarti a [[Home\|casa]]? |
+| [[Dromio of Ephesus\|DROMIO DI EFESO]] | A un capo di fune, signore, e a quel capo<br>son tornato. |
+| [[Antipholus of Ephesus\|ANTIFOLO DI EFESO]] | E a quel capo, messere, vi darò il benvenuto.<br>Batte Dromio |
 | USCIERE | Buon signore, siate paziente. |
-| [[Dromio of Ephesus|DROMIO DI EFESO]] | Anzi, tocca a me esser paziente: sono io nell’avversità. 21 |
+| [[Dromio of Ephesus\|DROMIO DI EFESO]] | Anzi, tocca a me esser paziente: sono io nell’avversità. 21 |
 | USCIERE | Suvvia, tieni a freno la lingua. |
-| [[Dromio of Ephesus|DROMIO DI EFESO]] | Anzi, persuadete piuttosto lui a tenere a freno le mani. |
-| [[Antipholus of Ephesus|ANTIFOLO DI EFESO]] | Figlio di bagascia, [[Villain|furfante]] insensato! |
-| [[Dromio of Ephesus|DROMIO DI EFESO]] | Vorrei essere insensato, signore, per non sentire i vostri colpi. |
-| [[Antipholus of Ephesus|ANTIFOLO DI EFESO]] | Tu non sei sensibile che ai colpi, e tale è pure l’asino. |
-| [[Dromio of Ephesus|DROMIO DI EFESO]] | Sono un asino davvero. Potete provarlo dalle mie lunghe orecchie.—L’ho servito dall’ora della mia nascita fino a questo istante, e dalle sue mani non ho avuto per il mio servizio altro che percosse. Quando ho freddo, mi riscalda a botte. Quando ho caldo, mi rinfresca a botte. Con esse son svegliato quando [[Sleep|dormo]], sollevato quando siedo, cacciato fuor di porta quando esco di [[Home|casa]], accolto a [[Home|casa]] quando torno. Anzi, me le porto sulle spalle come una mendicante il suo marmocchio, e credo che, quando m’avrà storpiato, ci andrò a mendicare di porta in porta. |
+| [[Dromio of Ephesus\|DROMIO DI EFESO]] | Anzi, persuadete piuttosto lui a tenere a freno le mani. |
+| [[Antipholus of Ephesus\|ANTIFOLO DI EFESO]] | Figlio di bagascia, [[Villain\|furfante]] insensato! |
+| [[Dromio of Ephesus\|DROMIO DI EFESO]] | Vorrei essere insensato, signore, per non sentire i vostri colpi. |
+| [[Antipholus of Ephesus\|ANTIFOLO DI EFESO]] | Tu non sei sensibile che ai colpi, e tale è pure l’asino. |
+| [[Dromio of Ephesus\|DROMIO DI EFESO]] | Sono un asino davvero. Potete provarlo dalle mie lunghe orecchie.—L’ho servito dall’ora della mia nascita fino a questo istante, e dalle sue mani non ho avuto per il mio servizio altro che percosse. Quando ho freddo, mi riscalda a botte. Quando ho caldo, mi rinfresca a botte. Con esse son svegliato quando [[Sleep\|dormo]], sollevato quando siedo, cacciato fuor di porta quando esco di [[Home\|casa]], accolto a [[Home\|casa]] quando torno. Anzi, me le porto sulle spalle come una mendicante il suo marmocchio, e credo che, quando m’avrà storpiato, ci andrò a mendicare di porta in porta. |
 | *(didascalia)* | Entrano [[Adriana]], [[Luciana]], la Cortigiana, e un maestro di scuola chiamato Pinch |
-| [[Antipholus of Ephesus|ANTIFOLO DI EFESO]] | Su, andiamo: mia moglie viene di là. |
-| [[Dromio of Ephesus|DROMIO DI EFESO]] | (ad [[Adriana]]) Padrona, respice finem, riguardate il vostro fine—o piuttosto, per profetare come il pappagallo, ‘Guardatevi dal capo della fune’. |
-| [[Antipholus of Ephesus|ANTIFOLO DI EFESO]] | Vuoi ancora cianciare?<br>Batte Dromio |
+| [[Antipholus of Ephesus\|ANTIFOLO DI EFESO]] | Su, andiamo: mia moglie viene di là. |
+| [[Dromio of Ephesus\|DROMIO DI EFESO]] | (ad [[Adriana]]) Padrona, respice finem, riguardate il vostro fine—o piuttosto, per profetare come il pappagallo, ‘Guardatevi dal capo della fune’. |
+| [[Antipholus of Ephesus\|ANTIFOLO DI EFESO]] | Vuoi ancora cianciare?<br>Batte Dromio |
 | CORTIGIANA | (ad [[Adriana]])<br>Che ne dite ora? Non è pazzo vostro marito? |
-| [[Adriana|ADRIANA]] | La sua villania non conferma di meno.—<br>Buon dottor Pinch, voi siete uno scongiuratore.<br>Restituitelo di nuovo al suo vero senno,<br>e vi contenterò di quanto chiederete. |
-| [[Luciana|LUCIANA]] | Ahimè, com’ha lo sguardo infocato e tagliente! |
+| [[Adriana\|ADRIANA]] | La sua villania non conferma di meno.—<br>Buon dottor Pinch, voi siete uno scongiuratore.<br>Restituitelo di nuovo al suo vero senno,<br>e vi contenterò di quanto chiederete. |
+| [[Luciana\|LUCIANA]] | Ahimè, com’ha lo sguardo infocato e tagliente! |
 | CORTIGIANA | Guardate come trema nella sua esaltazione. |
 | PINCH | (ad Antifolo)<br>Datemi la vostra mano, e lasciatemi tastare il polso. |
-| [[Antipholus of Ephesus|ANTIFOLO DI EFESO]] | Ecco la mia mano, e ch’essa tasti il vostro orecchio.<br>Colpisce Pinch |
-| PINCH | T’intimo, [[Satan|Satana]], annidato in quest’uomo,<br>di cedere il possesso alle mie sante preghiere,<br>e di correr difilato al tuo regno di tenebra:<br>ti scongiuro per tutti i santi del cielo. |
-| [[Antipholus of Ephesus|ANTIFOLO DI EFESO]] | Taci, rimbambito d’uno stregone, taci! Non sono pazzo. |
-| [[Adriana|ADRIANA]] | Oh, non lo fossi tu, povera [[Soul|anima]] afflitta. |
-| [[Antipholus of Ephesus|ANTIFOLO DI EFESO]] | Voi, sgualdrinella, voi, son questi i vostri clienti?<br>Ha forse questo compare dalla faccia di zafferano<br>gozzovigliato e banchettato oggi in [[house|casa]] mia,<br>mentre a me le porte colpevoli erano serrate,<br>e a me era negato d’entrare nella mia [[house|casa]]? |
-| [[Adriana|ADRIANA]] | Oh marito, Dio sa che pranzaste a [[Home|casa]],<br>dove volesse il cielo foste rimasto fino a quest’[[Time|ora]],<br>libero da queste calunnie e da questa pubblica vergogna. |
-| [[Antipholus of Ephesus|ANTIFOLO DI EFESO]] | Pranzato a [[Home|casa]]?<br>(A Dromio) Tu, [[Villain|furfante]], che dici? |
-| [[Dromio of Ephesus|DROMIO DI EFESO]] | Signore, a dire il vero, non pranzaste a [[Home|casa]]. |
-| [[Antipholus of Ephesus|ANTIFOLO DI EFESO]] | Non erano forse serrate le mie porte, e io chiuso fuori? |
-| [[Dromio of Ephesus|DROMIO DI EFESO]] | Perdio, le vostre porte erano serrate, e voi chiuso fuori. |
+| [[Antipholus of Ephesus\|ANTIFOLO DI EFESO]] | Ecco la mia mano, e ch’essa tasti il vostro orecchio.<br>Colpisce Pinch |
+| PINCH | T’intimo, [[Satan\|Satana]], annidato in quest’uomo,<br>di cedere il possesso alle mie sante preghiere,<br>e di correr difilato al tuo regno di tenebra:<br>ti scongiuro per tutti i santi del cielo. |
+| [[Antipholus of Ephesus\|ANTIFOLO DI EFESO]] | Taci, rimbambito d’uno stregone, taci! Non sono pazzo. |
+| [[Adriana\|ADRIANA]] | Oh, non lo fossi tu, povera [[Soul\|anima]] afflitta. |
+| [[Antipholus of Ephesus\|ANTIFOLO DI EFESO]] | Voi, sgualdrinella, voi, son questi i vostri clienti?<br>Ha forse questo compare dalla faccia di zafferano<br>gozzovigliato e banchettato oggi in [[house\|casa]] mia,<br>mentre a me le porte colpevoli erano serrate,<br>e a me era negato d’entrare nella mia [[house\|casa]]? |
+| [[Adriana\|ADRIANA]] | Oh marito, Dio sa che pranzaste a [[Home\|casa]],<br>dove volesse il cielo foste rimasto fino a quest’[[Time\|ora]],<br>libero da queste calunnie e da questa pubblica vergogna. |
+| [[Antipholus of Ephesus\|ANTIFOLO DI EFESO]] | Pranzato a [[Home\|casa]]?<br>(A Dromio) Tu, [[Villain\|furfante]], che dici? |
+| [[Dromio of Ephesus\|DROMIO DI EFESO]] | Signore, a dire il vero, non pranzaste a [[Home\|casa]]. |
+| [[Antipholus of Ephesus\|ANTIFOLO DI EFESO]] | Non erano forse serrate le mie porte, e io chiuso fuori? |
+| [[Dromio of Ephesus\|DROMIO DI EFESO]] | Perdio, le vostre porte erano serrate, e voi chiuso fuori. |
 | ANTIFOLIIS DI EFESO | E non m’insultò ella stessa là? |
-| [[Dromio of Ephesus|DROMIO DI EFESO]] | Senza [[Fable|favola]], ella stessa v’insultò là. |
-| [[Antipholus of Ephesus|ANTIFOLO DI EFESO]] | E la sua sguattera non m’ingiuriò, beffò e schernì? |
-| [[Dromio of Ephesus|DROMIO DI EFESO]] | Certo che sì. La vestale di cucina vi schernì. |
-| [[Antipholus of Ephesus|ANTIFOLO DI EFESO]] | E non me n’andai io di là infuriato? |
-| [[Dromio of Ephesus|DROMIO DI EFESO]] | In verità sì. Le mie ossa ne fan testimonianza,<br>ch’esse poi hanno sentito il vigore della sua furia. |
-| [[Adriana|ADRIANA]] | (a parte, a Pinch)<br>È bene assecondarlo in queste contraddizioni? |
-| PINCH | (a parte, ad<br>[[Adriana]])<br>Non è vergogna. Il tale trova la sua vena,<br>e, cedendogli, si asseconda [[Well|bene]] la sua frenesia. |
-| [[Antipholus of Ephesus|ANTIFOLO DI EFESO]] | (ad [[Adriana]])<br>Tu hai subornato l’orefice perché mi arrestasse. |
-| [[Adriana|ADRIANA]] | Ahimè, vi mandai denaro per riscattarvi,<br>per mezzo di Dromio qui, che venne in fretta a prenderlo. |
-| [[Dromio of Ephesus|DROMIO DI EFESO]] | Denaro per mezzo mio? Cuore e buona volontà forse sì,<br>ma certo, padrone, non uno straccio di denaro. |
-| [[Antipholus of Ephesus|ANTIFOLO DI EFESO]] | Non andasti tu da lei per una borsa di ducati? |
-| [[Adriana|ADRIANA]] | Egli venne da me, e io gliela consegnai. |
-| [[Luciana|LUCIANA]] | E io le sono testimone che così fece. |
-| [[Dromio of Ephesus|DROMIO DI EFESO]] | Dio e il funaio mi siano testimoni<br>che fui mandato solo per una fune. |
+| [[Dromio of Ephesus\|DROMIO DI EFESO]] | Senza [[Fable\|favola]], ella stessa v’insultò là. |
+| [[Antipholus of Ephesus\|ANTIFOLO DI EFESO]] | E la sua sguattera non m’ingiuriò, beffò e schernì? |
+| [[Dromio of Ephesus\|DROMIO DI EFESO]] | Certo che sì. La vestale di cucina vi schernì. |
+| [[Antipholus of Ephesus\|ANTIFOLO DI EFESO]] | E non me n’andai io di là infuriato? |
+| [[Dromio of Ephesus\|DROMIO DI EFESO]] | In verità sì. Le mie ossa ne fan testimonianza,<br>ch’esse poi hanno sentito il vigore della sua furia. |
+| [[Adriana\|ADRIANA]] | (a parte, a Pinch)<br>È bene assecondarlo in queste contraddizioni? |
+| PINCH | (a parte, ad<br>[[Adriana]])<br>Non è vergogna. Il tale trova la sua vena,<br>e, cedendogli, si asseconda [[Well\|bene]] la sua frenesia. |
+| [[Antipholus of Ephesus\|ANTIFOLO DI EFESO]] | (ad [[Adriana]])<br>Tu hai subornato l’orefice perché mi arrestasse. |
+| [[Adriana\|ADRIANA]] | Ahimè, vi mandai denaro per riscattarvi,<br>per mezzo di Dromio qui, che venne in fretta a prenderlo. |
+| [[Dromio of Ephesus\|DROMIO DI EFESO]] | Denaro per mezzo mio? Cuore e buona volontà forse sì,<br>ma certo, padrone, non uno straccio di denaro. |
+| [[Antipholus of Ephesus\|ANTIFOLO DI EFESO]] | Non andasti tu da lei per una borsa di ducati? |
+| [[Adriana\|ADRIANA]] | Egli venne da me, e io gliela consegnai. |
+| [[Luciana\|LUCIANA]] | E io le sono testimone che così fece. |
+| [[Dromio of Ephesus\|DROMIO DI EFESO]] | Dio e il funaio mi siano testimoni<br>che fui mandato solo per una fune. |
 | PINCH | (a parte, ad [[Adriana]])<br>Padrona, e il servo e il padrone sono indemoniati.<br>Lo riconosco dal loro aspetto pallido e mortale.<br>Bisogna legarli e metterli in qualche stanza buia. |
-| [[Antipholus of Ephesus|ANTIFOLO DI EFESO]] | (ad [[Adriana]])<br>Di’ perché mi chiudesti fuori oggi,<br>(A Dromio) E tu perché neghi il sacchetto d’oro? |
-| [[Adriana|ADRIANA]] | Non ti chiusi fuori io, gentile marito. |
-| [[Dromio of Ephesus|DROMIO DI EFESO]] | E, gentile padrone, io non ricevetti alcun oro.<br>Ma confesso, signore, che fummo chiusi fuori. |
-| [[Adriana|ADRIANA]] | [[Villain|Furfante]] simulatore, menti in entrambe le cose. |
-| [[Antipholus of Ephesus|ANTIFOLO DI EFESO]] | Bagascia simulatrice, tu sei falsa in tutto,<br>e sei in lega con una banda dannata<br>per fare di me un ripugnante e abietto zimbello.<br>Ma con queste unghie strapperò quei falsi occhi<br>che vorrebbero contemplare in me questo vergognoso spasso. |
+| [[Antipholus of Ephesus\|ANTIFOLO DI EFESO]] | (ad [[Adriana]])<br>Di’ perché mi chiudesti fuori oggi,<br>(A Dromio) E tu perché neghi il sacchetto d’oro? |
+| [[Adriana\|ADRIANA]] | Non ti chiusi fuori io, gentile marito. |
+| [[Dromio of Ephesus\|DROMIO DI EFESO]] | E, gentile padrone, io non ricevetti alcun oro.<br>Ma confesso, signore, che fummo chiusi fuori. |
+| [[Adriana\|ADRIANA]] | [[Villain\|Furfante]] simulatore, menti in entrambe le cose. |
+| [[Antipholus of Ephesus\|ANTIFOLO DI EFESO]] | Bagascia simulatrice, tu sei falsa in tutto,<br>e sei in lega con una banda dannata<br>per fare di me un ripugnante e abietto zimbello.<br>Ma con queste unghie strapperò quei falsi occhi<br>che vorrebbero contemplare in me questo vergognoso spasso. |
 | *(didascalia)* | Si getta verso [[Adriana]]; ella grida. Entrano tre o quattro uomini, e s’accingono a legarlo. Egli si dibatte |
-| [[Adriana|ADRIANA]] | Oh, legatelo, legatelo. Non lasciate che m’avvicini. |
+| [[Adriana\|ADRIANA]] | Oh, legatelo, legatelo. Non lasciate che m’avvicini. |
 | PINCH | Altra gente! Il demonio è forte dentro di lui. |
-| [[Luciana|LUCIANA]] | Ahimè, pover’uomo, com’è pallido e smunto. |
-| [[Antipholus of Ephesus|ANTIFOLO DI EFESO]] | Come, volete assassinarmi?—Tu, carceriere, tu,<br>io sono tuo prigioniero. Sopporterai che costoro<br>mi strappino via? |
+| [[Luciana\|LUCIANA]] | Ahimè, pover’uomo, com’è pallido e smunto. |
+| [[Antipholus of Ephesus\|ANTIFOLO DI EFESO]] | Come, volete assassinarmi?—Tu, carceriere, tu,<br>io sono tuo prigioniero. Sopporterai che costoro<br>mi strappino via? |
 | USCIERE | Signori, lasciatelo andare.<br>Egli è mio prigioniero, e voi non l’avrete. |
 | PINCH | Su, legate il suo servo, ché anch’egli è forsennato.<br>Legano Dromio |
-| [[Adriana|ADRIANA]] | Che vuoi fare, usciere stizzoso?<br>Provi diletto a veder un uomo sventurato<br>fare oltraggio e danno a se stesso? |
+| [[Adriana\|ADRIANA]] | Che vuoi fare, usciere stizzoso?<br>Provi diletto a veder un uomo sventurato<br>fare oltraggio e danno a se stesso? |
 | USCIERE | Egli è mio prigioniero. Se lo lascio andare,<br>il debito che deve sarà richiesto a me. |
-| [[Adriana|ADRIANA]] | Ti libererò da ogni obbligo prima di lasciarti.<br>Conducimi sull’istante dal suo creditore,<br>e, saputo come il debito sia sorto, lo pagherò.—<br>Buon signor Dottore, fatelo condurre sano e salvo<br>a [[Home|casa]], nella mia [[house|dimora]]. Oh giorno infelicissimo! |
-| [[Antipholus of Ephesus|ANTIFOLO DI EFESO]] | Oh sgualdrina infelicissima! |
-| [[Dromio of Ephesus|DROMIO DI EFESO]] | Padrone, eccomi qua entrato in obbligazione per voi. |
-| [[Antipholus of Ephesus|ANTIFOLO DI EFESO]] | Va’ in malora, [[Villain|furfante]]! Perché mi fai impazzire? |
-| [[Dromio of Ephesus|DROMIO DI EFESO]] | Volete esser legato per nulla? Impazzite, buon padrone—<br>gridate: ‘Il diavolo!’ |
-| [[Luciana|LUCIANA]] | Dio li aiuti, povere anime, che vaneggiare è il loro! |
-| [[Adriana|ADRIANA]] | Su, portatelo via di qui. Sorella, venite con me. |
-| *(didascalia)* | Escono nella Fenice, Pinch e gli altri portando via [[Antipholus of Ephesus|Antifolo di Efeso]] e [[Dromio of Ephesus|Dromio di Efeso]]. Restano l’Usciere, [[Adriana]], [[Luciana]] e la Cortigiana |
-| [[Adriana|ADRIANA]] | (All’Usciere) Dite ora, su querela di chi è arrestato? |
+| [[Adriana\|ADRIANA]] | Ti libererò da ogni obbligo prima di lasciarti.<br>Conducimi sull’istante dal suo creditore,<br>e, saputo come il debito sia sorto, lo pagherò.—<br>Buon signor Dottore, fatelo condurre sano e salvo<br>a [[Home\|casa]], nella mia [[house\|dimora]]. Oh giorno infelicissimo! |
+| [[Antipholus of Ephesus\|ANTIFOLO DI EFESO]] | Oh sgualdrina infelicissima! |
+| [[Dromio of Ephesus\|DROMIO DI EFESO]] | Padrone, eccomi qua entrato in obbligazione per voi. |
+| [[Antipholus of Ephesus\|ANTIFOLO DI EFESO]] | Va’ in malora, [[Villain\|furfante]]! Perché mi fai impazzire? |
+| [[Dromio of Ephesus\|DROMIO DI EFESO]] | Volete esser legato per nulla? Impazzite, buon padrone—<br>gridate: ‘Il diavolo!’ |
+| [[Luciana\|LUCIANA]] | Dio li aiuti, povere anime, che vaneggiare è il loro! |
+| [[Adriana\|ADRIANA]] | Su, portatelo via di qui. Sorella, venite con me. |
+| *(didascalia)* | Escono nella Fenice, Pinch e gli altri portando via [[Antipholus of Ephesus\|Antifolo di Efeso]] e [[Dromio of Ephesus\|Dromio di Efeso]]. Restano l’Usciere, [[Adriana]], [[Luciana]] e la Cortigiana |
+| [[Adriana\|ADRIANA]] | (All’Usciere) Dite ora, su querela di chi è arrestato? |
 | USCIERE | D’un certo [[Angelo]], orefice. Lo conoscete? |
-| [[Adriana|ADRIANA]] | Conosco l’uomo. Qual è la somma che deve? |
+| [[Adriana\|ADRIANA]] | Conosco l’uomo. Qual è la somma che deve? |
 | USCIERE | Duecento ducati. |
-| [[Adriana|ADRIANA]] | Dite, come è divenuta esigibile? |
+| [[Adriana\|ADRIANA]] | Dite, come è divenuta esigibile? |
 | USCIERE | Dovuta per una catena che vostro marito ebbe da lui. |
-| [[Adriana|ADRIANA]] | Egli ordinò una catena per me, ma non l’ebbe. |
-| CORTIGIANA | Quando oggi vostro marito, tutto infuriato,<br>venne alla mia [[house|casa]], e portò via il mio anello—<br>l’anello che or ora gli ho visto al dito—<br>subito dopo l’incontrai con una catena. |
-| [[Adriana|ADRIANA]] | Può darsi, ma io non la vidi mai.<br>Su, carceriere, conducimi dov’è l’orefice.<br>Bramo di conoscere per intero la [[Truth|verità]] di questo. |
-| *(didascalia)* | Entrano [[Antipholus of Syracuse|Antifolo di Siracusa]] (con la catena addosso) e [[Dromio of Syracuse|Dromio di Siracusa]] con gli stocchi sguainati |
-| [[Luciana|LUCIANA]] | Dio, per la tua [[Mercy|misericordia]], sono di nuovo sciolti! |
-| [[Adriana|ADRIANA]] | E vengono con le spade nude. Chiamiamo altro aiuto<br>per farli legare di nuovo. |
+| [[Adriana\|ADRIANA]] | Egli ordinò una catena per me, ma non l’ebbe. |
+| CORTIGIANA | Quando oggi vostro marito, tutto infuriato,<br>venne alla mia [[house\|casa]], e portò via il mio anello—<br>l’anello che or ora gli ho visto al dito—<br>subito dopo l’incontrai con una catena. |
+| [[Adriana\|ADRIANA]] | Può darsi, ma io non la vidi mai.<br>Su, carceriere, conducimi dov’è l’orefice.<br>Bramo di conoscere per intero la [[Truth\|verità]] di questo. |
+| *(didascalia)* | Entrano [[Antipholus of Syracuse\|Antifolo di Siracusa]] (con la catena addosso) e [[Dromio of Syracuse\|Dromio di Siracusa]] con gli stocchi sguainati |
+| [[Luciana\|LUCIANA]] | Dio, per la tua [[Mercy\|misericordia]], sono di nuovo sciolti! |
+| [[Adriana\|ADRIANA]] | E vengono con le spade nude. Chiamiamo altro aiuto<br>per farli legare di nuovo. |
 | USCIERE | Via, ci uccideranno!<br>Tutti tranne Antifolo e Dromio fuggono, più in fretta che possono, spaventati |
-| [[Antipholus of Syracuse|ANTIFOLO DI SIRACUSA]] | Vedo che queste streghe hanno paura delle spade. |
-| [[Dromio of Syracuse|DROMIO DI SIRACUSA]] | Colei che voleva esservi moglie ora è fuggita da voi. |
-| [[Antipholus of Syracuse|ANTIFOLO DI SIRACUSA]] | Vieni al Centauro. Andiamo a prendere di là la nostra roba.<br>Bramo che siamo sani e salvi a bordo. |
-| [[Dromio of Syracuse|DROMIO DI SIRACUSA]] | In [[Faith|fede]] mia, restiamo qui questa [[Night|notte]]. Certo non ci faranno alcun male. Vedeste che ci parlano cortesi, ci danno oro. Mi pare che siano una gente così gentile che, se non fosse per la montagna di carne pazza che pretende da me [[Marriage|matrimonio]], mi sentirei in cuore di restar qui per sempre, e farmi [[Witch|stregone]]. |
-| [[Antipholus of Syracuse|ANTIFOLO DI SIRACUSA]] | Non resterò stanotte per tutta la città.<br>Perciò via, a portare la nostra roba a bordo. |
+| [[Antipholus of Syracuse\|ANTIFOLO DI SIRACUSA]] | Vedo che queste streghe hanno paura delle spade. |
+| [[Dromio of Syracuse\|DROMIO DI SIRACUSA]] | Colei che voleva esservi moglie ora è fuggita da voi. |
+| [[Antipholus of Syracuse\|ANTIFOLO DI SIRACUSA]] | Vieni al Centauro. Andiamo a prendere di là la nostra roba.<br>Bramo che siamo sani e salvi a bordo. |
+| [[Dromio of Syracuse\|DROMIO DI SIRACUSA]] | In [[Faith\|fede]] mia, restiamo qui questa [[Night\|notte]]. Certo non ci faranno alcun male. Vedeste che ci parlano cortesi, ci danno oro. Mi pare che siano una gente così gentile che, se non fosse per la montagna di carne pazza che pretende da me [[Marriage\|matrimonio]], mi sentirei in cuore di restar qui per sempre, e farmi [[Witch\|stregone]]. |
+| [[Antipholus of Syracuse\|ANTIFOLO DI SIRACUSA]] | Non resterò stanotte per tutta la città.<br>Perciò via, a portare la nostra roba a bordo. |
 | *(didascalia)* | Escono |
 
 
@@ -2177,165 +2177,165 @@ The [[Comedy]] of Errors
 | Chi parla | Battuta |
 |---|---|
 | *(didascalia)* | Entrano il Secondo Mercante e [[Angelo]] l’orefice |
-| [[Angelo|ANGELO]] | Mi dispiace, signore, d’avervi trattenuto,<br>ma protesto ch’egli ebbe da me la catena,<br>benché assai disonestamente lo neghi. |
-| SECONDO MERCANTE | Com’è stimato quest’uomo qui in [[City|città]]? |
-| [[Angelo|ANGELO]] | Di riverendissima reputazione, signore,<br>di credito infinito, altamente amato,<br>secondo a nessuno di quanti vivono qui in [[City|città]].<br>La sua parola potrebbe garantire i miei averi in qualunque [[Time|momento]]. |
+| [[Angelo\|ANGELO]] | Mi dispiace, signore, d’avervi trattenuto,<br>ma protesto ch’egli ebbe da me la catena,<br>benché assai disonestamente lo neghi. |
+| SECONDO MERCANTE | Com’è stimato quest’uomo qui in [[City\|città]]? |
+| [[Angelo\|ANGELO]] | Di riverendissima reputazione, signore,<br>di credito infinito, altamente amato,<br>secondo a nessuno di quanti vivono qui in [[City\|città]].<br>La sua parola potrebbe garantire i miei averi in qualunque [[Time\|momento]]. |
 | SECONDO MERCANTE | Parlate piano. Laggiù, credo, sta passeggiando. |
-| *(didascalia)* | Entra [[Antipholus of Syracuse|Antifolo di Siracusa]], portando la |
-| SECONDO MERCANTE | catena,<br>e di nuovo [[Dromio of Syracuse|Dromio di Siracusa]] |
-| [[Angelo|ANGELO]] | È così, e quella [[Self|stessa]] catena al collo<br>che negò mostruosamente d’avere.<br>Buon signore, accostatevi a me. Gli parlerò.—<br>Messer Antifolo, molto mi [[Wonder|meraviglio]]<br>che vogliate espormi a questa vergogna e a questo fastidio,<br>e non senza qualche scandalo per voi stesso,<br>negando con circostanze e giuramenti<br>questa catena, che ora portate così apertamente.<br>Oltre alla spesa, alla vergogna, alla [[Imprisonment|prigionia]],<br>avete fatto torto a questo mio onesto amico,<br>il quale, se non fosse per l’indugio della nostra controversia,<br>avrebbe issato le vele e preso il mare oggi stesso.<br>Questa catena l’aveste da me. Potete negarlo? |
-| [[Antipholus of Syracuse|ANTIFOLO DI SIRACUSA]] | Credo d’averla avuta. Non l’ho mai negato. |
+| *(didascalia)* | Entra [[Antipholus of Syracuse\|Antifolo di Siracusa]], portando la |
+| SECONDO MERCANTE | catena,<br>e di nuovo [[Dromio of Syracuse\|Dromio di Siracusa]] |
+| [[Angelo\|ANGELO]] | È così, e quella [[Self\|stessa]] catena al collo<br>che negò mostruosamente d’avere.<br>Buon signore, accostatevi a me. Gli parlerò.—<br>Messer Antifolo, molto mi [[Wonder\|meraviglio]]<br>che vogliate espormi a questa vergogna e a questo fastidio,<br>e non senza qualche scandalo per voi stesso,<br>negando con circostanze e giuramenti<br>questa catena, che ora portate così apertamente.<br>Oltre alla spesa, alla vergogna, alla [[Imprisonment\|prigionia]],<br>avete fatto torto a questo mio onesto amico,<br>il quale, se non fosse per l’indugio della nostra controversia,<br>avrebbe issato le vele e preso il mare oggi stesso.<br>Questa catena l’aveste da me. Potete negarlo? |
+| [[Antipholus of Syracuse\|ANTIFOLO DI SIRACUSA]] | Credo d’averla avuta. Non l’ho mai negato. |
 | SECONDO MERCANTE | Sì che lo faceste, signore, e per giunta lo giuraste. |
-| [[Antipholus of Syracuse|ANTIFOLO DI SIRACUSA]] | Chi mi udì negarlo o giurarlo? |
+| [[Antipholus of Syracuse\|ANTIFOLO DI SIRACUSA]] | Chi mi udì negarlo o giurarlo? |
 | SECONDO MERCANTE | Questi miei orecchi, tu lo sai, t’udirono.<br>Vergogna su di te, miserabile! È un peccato che tu viva<br>per andare dove s’adunano uomini onesti. |
-| [[Antipholus of Syracuse|ANTIFOLO DI SIRACUSA]] | Tu sei un [[Villain|furfante]] a incolparmi così.<br>Proverò il mio [[Honour|onore]] e la mia onestà<br>contro di te sull’istante, se osi tener testa. |
-| SECONDO MERCANTE | Oso, e ti sfido come [[Villain|furfante]].<br>Sguainano. Entrano [[Adriana]], [[Luciana]], la Cortigiana, |
+| [[Antipholus of Syracuse\|ANTIFOLO DI SIRACUSA]] | Tu sei un [[Villain\|furfante]] a incolparmi così.<br>Proverò il mio [[Honour\|onore]] e la mia onestà<br>contro di te sull’istante, se osi tener testa. |
+| SECONDO MERCANTE | Oso, e ti sfido come [[Villain\|furfante]].<br>Sguainano. Entrano [[Adriana]], [[Luciana]], la Cortigiana, |
 | *(didascalia)* | e altri da |
 | SECONDO MERCANTE | la |
 | *(didascalia)* | Fenice |
-| [[Adriana|ADRIANA]] | Fermi, non fategli male, per amor di Dio; è pazzo.<br>Qualcuno gli si accosti, gli tolga la [[Sword|spada]].<br>Legate anche Dromio, e portateli alla mia [[house|casa]]. |
-| [[Dromio of Syracuse|DROMIO DI SIRACUSA]] | Corri, padrone, corri! Per amor di Dio, rifugiati in una [[house|casa]].<br>Questo è un priorato—dentro, o siamo rovinati. |
-| *(didascalia)* | Escono [[Antipholus of Syracuse|Antifolo di Siracusa]] e [[Dromio of Syracuse|Dromio di Siracusa]] nel priorato |
+| [[Adriana\|ADRIANA]] | Fermi, non fategli male, per amor di Dio; è pazzo.<br>Qualcuno gli si accosti, gli tolga la [[Sword\|spada]].<br>Legate anche Dromio, e portateli alla mia [[house\|casa]]. |
+| [[Dromio of Syracuse\|DROMIO DI SIRACUSA]] | Corri, padrone, corri! Per amor di Dio, rifugiati in una [[house\|casa]].<br>Questo è un priorato—dentro, o siamo rovinati. |
+| *(didascalia)* | Escono [[Antipholus of Syracuse\|Antifolo di Siracusa]] e [[Dromio of Syracuse\|Dromio di Siracusa]] nel priorato |
 | *(didascalia)* | Entra dal priorato la signora Badessa |
 | BADESSA | Calma, brava gente. Perché v’accalcate qua? |
-| [[Adriana|ADRIANA]] | Per portar via di qui il mio povero marito uscito di senno.<br>Lasciateci entrare, che possiamo legarlo stretto,<br>e condurlo a [[Home|casa]] per la sua guarigione. |
-| [[Angelo|ANGELO]] | Sapevo bene che non era nel suo perfetto senno. |
+| [[Adriana\|ADRIANA]] | Per portar via di qui il mio povero marito uscito di senno.<br>Lasciateci entrare, che possiamo legarlo stretto,<br>e condurlo a [[Home\|casa]] per la sua guarigione. |
+| [[Angelo\|ANGELO]] | Sapevo bene che non era nel suo perfetto senno. |
 | SECONDO MERCANTE | Ora mi dispiace d’aver sguainato contro di lui. |
 | BADESSA | Da quanto tempo questa possessione tiene quest’uomo? |
-| [[Adriana|ADRIANA]] | Questa settimana è stato greve, acido, triste,<br>e assai, assai diverso dall’uomo ch’egli era;<br>ma fino a questo pomeriggio la sua passione<br>non era mai esplosa in estremo furore. |
-| BADESSA | Non ha egli perduto molti beni in un naufragio in mare?<br>Sepolto qualche caro amico? O non ha forse il suo occhio<br>traviato il suo affetto in un illecito [[Love|amore]]—<br>peccato assai frequente negli uomini giovani,<br>che concedono ai loro occhi la libertà di mirare?<br>A quale di questi dolori è egli soggetto? |
-| [[Adriana|ADRIANA]] | A nessuno di questi, se non forse all’ultimo,<br>cioè un qualche [[Love|amore]] che spesso lo traeva lontano da [[Home|casa]]. |
+| [[Adriana\|ADRIANA]] | Questa settimana è stato greve, acido, triste,<br>e assai, assai diverso dall’uomo ch’egli era;<br>ma fino a questo pomeriggio la sua passione<br>non era mai esplosa in estremo furore. |
+| BADESSA | Non ha egli perduto molti beni in un naufragio in mare?<br>Sepolto qualche caro amico? O non ha forse il suo occhio<br>traviato il suo affetto in un illecito [[Love\|amore]]—<br>peccato assai frequente negli uomini giovani,<br>che concedono ai loro occhi la libertà di mirare?<br>A quale di questi dolori è egli soggetto? |
+| [[Adriana\|ADRIANA]] | A nessuno di questi, se non forse all’ultimo,<br>cioè un qualche [[Love\|amore]] che spesso lo traeva lontano da [[Home\|casa]]. |
 | BADESSA | Per questo avreste dovuto riprenderlo. |
-| [[Adriana|ADRIANA]] | Ma sì che lo feci. |
+| [[Adriana\|ADRIANA]] | Ma sì che lo feci. |
 | BADESSA | Sì, ma non abbastanza aspramente. |
-| [[Adriana|ADRIANA]] | Con tanta asprezza quanta il mio pudore mi concedeva. |
+| [[Adriana\|ADRIANA]] | Con tanta asprezza quanta il mio pudore mi concedeva. |
 | BADESSA | Forse in privato. |
-| [[Adriana|ADRIANA]] | E anche in compagnia. |
+| [[Adriana\|ADRIANA]] | E anche in compagnia. |
 | BADESSA | Sì, ma non abbastanza. |
-| [[Adriana|ADRIANA]] | Era il tema d’ogni nostro colloquio.<br>A letto non dormiva perché io glielo rinfacciavo.<br>A tavola non mangiava perché io glielo rinfacciavo.<br>[[Alone|Da soli]], era il soggetto del mio discorso.<br>In compagnia spesso vi alludevo.<br>Sempre gli dicevo ch’era vile e cattivo. |
-| BADESSA | E di qui venne che quell’uomo impazzì.<br>I velenosi clamori d’una donna gelosa<br>avvelenano più mortalmente del dente d’un cane rabbioso.<br>Pare che i suoi sonni fossero impediti dalle tue querele,<br>e di qui viene che la sua testa vaneggia.<br>Tu dici che il suo cibo era condito dai tuoi rimproveri.<br>Pasti inquieti fanno cattive digestioni.<br>Di qui nacque il [[Fire|fuoco]] furioso della febbre,<br>e che cos’è una febbre se non un accesso di [[Madness|follia]]?<br>Tu dici che i suoi svaghi erano impediti dalle tue liti.<br>Sbarrato il dolce diporto, che ne segue<br>se non tetra e ottusa [[Melancholy|malinconia]],<br>congiunta della truce e sconsolata [[Despair|disperazione]],<br>e alle sue calcagna una schiera immensa e contagiosa<br>di pallidi malanni e nemici della Vita?<br>Nel cibo, nello svago, e nel riposo che conserva la vita<br>l’esser turbati farebbe impazzire o uomo o bestia.<br>La conseguenza è, dunque, che i tuoi accessi di gelosia<br>hanno scacciato tuo marito dall’uso del senno. |
-| [[Luciana|LUCIANA]] | Ella non lo riprese mai se non con dolcezza<br>quando egli si comportava rude, rozzo e selvaggio.<br>(Ad [[Adriana]]) Perché sopportate questi rimproveri, e non<br>rispondete? |
-| [[Adriana|ADRIANA]] | Ella m’ha tradita nella mia stessa condanna.—<br>Buona gente, entrate, e mettetegli le mani addosso. |
-| BADESSA | No, non entra creatura nella mia [[house|casa]]. |
-| [[Adriana|ADRIANA]] | Allora che i vostri servi conducano fuori mio marito. |
+| [[Adriana\|ADRIANA]] | Era il tema d’ogni nostro colloquio.<br>A letto non dormiva perché io glielo rinfacciavo.<br>A tavola non mangiava perché io glielo rinfacciavo.<br>[[Alone\|Da soli]], era il soggetto del mio discorso.<br>In compagnia spesso vi alludevo.<br>Sempre gli dicevo ch’era vile e cattivo. |
+| BADESSA | E di qui venne che quell’uomo impazzì.<br>I velenosi clamori d’una donna gelosa<br>avvelenano più mortalmente del dente d’un cane rabbioso.<br>Pare che i suoi sonni fossero impediti dalle tue querele,<br>e di qui viene che la sua testa vaneggia.<br>Tu dici che il suo cibo era condito dai tuoi rimproveri.<br>Pasti inquieti fanno cattive digestioni.<br>Di qui nacque il [[Fire\|fuoco]] furioso della febbre,<br>e che cos’è una febbre se non un accesso di [[Madness\|follia]]?<br>Tu dici che i suoi svaghi erano impediti dalle tue liti.<br>Sbarrato il dolce diporto, che ne segue<br>se non tetra e ottusa [[Melancholy\|malinconia]],<br>congiunta della truce e sconsolata [[Despair\|disperazione]],<br>e alle sue calcagna una schiera immensa e contagiosa<br>di pallidi malanni e nemici della Vita?<br>Nel cibo, nello svago, e nel riposo che conserva la vita<br>l’esser turbati farebbe impazzire o uomo o bestia.<br>La conseguenza è, dunque, che i tuoi accessi di gelosia<br>hanno scacciato tuo marito dall’uso del senno. |
+| [[Luciana\|LUCIANA]] | Ella non lo riprese mai se non con dolcezza<br>quando egli si comportava rude, rozzo e selvaggio.<br>(Ad [[Adriana]]) Perché sopportate questi rimproveri, e non<br>rispondete? |
+| [[Adriana\|ADRIANA]] | Ella m’ha tradita nella mia stessa condanna.—<br>Buona gente, entrate, e mettetegli le mani addosso. |
+| BADESSA | No, non entra creatura nella mia [[house\|casa]]. |
+| [[Adriana\|ADRIANA]] | Allora che i vostri servi conducano fuori mio marito. |
 | BADESSA | Neppure. Egli prese questo luogo per asilo,<br>e questo lo proteggerà dalle vostre mani<br>finché io non l’abbia ricondotto al suo senno,<br>o non perda la mia fatica nel tentarlo. |
-| [[Adriana|ADRIANA]] | Assisterò io mio marito, gli sarò [[Nurse|infermiera]],<br>curerò con la dieta il suo male, ché è mio ufficio,<br>e non avrò altro procuratore che me stessa.<br>E perciò lasciate ch’io l’abbia a [[Home|casa]] con me. |
+| [[Adriana\|ADRIANA]] | Assisterò io mio marito, gli sarò [[Nurse\|infermiera]],<br>curerò con la dieta il suo male, ché è mio ufficio,<br>e non avrò altro procuratore che me stessa.<br>E perciò lasciate ch’io l’abbia a [[Home\|casa]] con me. |
 | BADESSA | Siate paziente, ché non lo lascerò muovere<br>finché non abbia usato i comprovati mezzi che possiedo,<br>con sciroppi salutari, farmaci e sante preghiere,<br>per farne di nuovo un uomo in regola.<br>È un ramo e una parte del mio voto,<br>caritatevole dovere del mio ordine.<br>Perciò andatevene, e lasciatelo qui con me. |
-| [[Adriana|ADRIANA]] | Non me n’andrò di qui, lasciando qui mio marito;<br>e mal s’addice alla vostra santità<br>separare il marito e la moglie. |
+| [[Adriana\|ADRIANA]] | Non me n’andrò di qui, lasciando qui mio marito;<br>e mal s’addice alla vostra santità<br>separare il marito e la moglie. |
 | BADESSA | State quieta e andatevene. Non l’avrete. |
 | *(didascalia)* | Esce nel priorato |
-| [[Luciana|LUCIANA]] | (ad [[Adriana]])<br>Lagnatevi col Duca di quest’oltraggio. |
-| [[Adriana|ADRIANA]] | Vieni, andiamo, mi getterò prostrata ai suoi piedi,<br>e non mi rialzerò finché le mie [[Tears|lacrime]] e le mie preghiere<br>non abbiano ottenuto dalla sua grazia ch’egli venga qua in persona<br>e tolga a forza mio marito alla Badessa. |
-| SECONDO MERCANTE | A quest’ora, credo, la lancetta segna le cinque.<br>Fra poco, ne son certo, il Duca stesso in persona<br>verrà per questa via alla valle [[Melancholy|malinconica]],<br>il luogo della [[Death|morte]] e della triste esecuzione,<br>dietro i fossati dell’abbazia qui. |
-| [[Angelo|ANGELO]] | Per qual causa? |
+| [[Luciana\|LUCIANA]] | (ad [[Adriana]])<br>Lagnatevi col Duca di quest’oltraggio. |
+| [[Adriana\|ADRIANA]] | Vieni, andiamo, mi getterò prostrata ai suoi piedi,<br>e non mi rialzerò finché le mie [[Tears\|lacrime]] e le mie preghiere<br>non abbiano ottenuto dalla sua grazia ch’egli venga qua in persona<br>e tolga a forza mio marito alla Badessa. |
+| SECONDO MERCANTE | A quest’ora, credo, la lancetta segna le cinque.<br>Fra poco, ne son certo, il Duca stesso in persona<br>verrà per questa via alla valle [[Melancholy\|malinconica]],<br>il luogo della [[Death\|morte]] e della triste esecuzione,<br>dietro i fossati dell’abbazia qui. |
+| [[Angelo\|ANGELO]] | Per qual causa? |
 | SECONDO MERCANTE | Per vedere un venerando mercante siracusano,<br>che per sventura approdò in questa baia<br>contro le leggi e gli statuti di questa città,<br>decapitato pubblicamente per la sua colpa. |
-| [[Angelo|ANGELO]] | Ecco che vengono. Assisteremo alla sua [[Death|morte]]. |
-| [[Luciana|LUCIANA]] | Inginocchiatevi al Duca prima ch’egli oltrepassi l’abbazia. |
-| *(didascalia)* | Entrano Solino Duca di Efeso, e [[Egeon|Egeone]] il mercante di Siracusa, a capo scoperto, col boia e altri ufficiali |
+| [[Angelo\|ANGELO]] | Ecco che vengono. Assisteremo alla sua [[Death\|morte]]. |
+| [[Luciana\|LUCIANA]] | Inginocchiatevi al Duca prima ch’egli oltrepassi l’abbazia. |
+| *(didascalia)* | Entrano Solino Duca di Efeso, e [[Egeon\|Egeone]] il mercante di Siracusa, a capo scoperto, col boia e altri ufficiali |
 | DUCA | Ancora una volta proclamatelo pubblicamente:<br>se qualche amico pagherà la somma per lui,<br>egli non morrà, tanto ci sta a cuore. |
-| [[Adriana|ADRIANA]] | (inginocchiandosi)<br>Giustizia, sacratissimo Duca, contro la Badessa! |
+| [[Adriana\|ADRIANA]] | (inginocchiandosi)<br>Giustizia, sacratissimo Duca, contro la Badessa! |
 | DUCA | Ella è una dama virtuosa e riverita.<br>Non può essere ch’ella t’abbia fatto torto. |
-| [[Adriana|ADRIANA]] | Piaccia a vostra grazia: Antifolo, mio marito,<br>ch’io feci signore di me e di quanto avevo<br>per le vostre pressanti lettere—in questo giorno funesto<br>un accesso di [[Madness|follia]] oltremodo furioso lo prese,<br>sì che disperatamente si precipitò per la strada,<br>con lui il suo servo, pazzo al pari di lui,<br>recando dispiacere ai cittadini<br>irrompendo nelle loro case, portandone via<br>anelli, gioielli, tutto ciò che alla sua furia piacesse.<br>Una volta riuscii a farlo legare, e lo mandai a [[Home|casa]],<br>mentr’io andavo a rimediare ai torti<br>che qua e là la sua furia aveva commesso.<br>Poco dopo, non so per quale forte fuga,<br>egli si sciolse da quelli che lo custodivano,<br>e col suo pazzo servitore, egli e quello,<br>ciascuno con irosa passione, con le spade sguainate,<br>ci incontrò di nuovo, e, follemente avventandosi contro di noi,<br>ci mise in fuga; finché, raccolto altro aiuto,<br>tornammo per legarli. Allora essi fuggirono<br>in questa abbazia, dove li inseguimmo,<br>e qui la Badessa ci chiude in faccia i cancelli,<br>e non vuol permetterci di trarlo fuori,<br>né mandarlo fuori perché possiamo portarlo via.<br>Perciò, graziosissimo Duca, col tuo comando<br>fa’ che sia tratto fuori, e portato via per esser curato. |
+| [[Adriana\|ADRIANA]] | Piaccia a vostra grazia: Antifolo, mio marito,<br>ch’io feci signore di me e di quanto avevo<br>per le vostre pressanti lettere—in questo giorno funesto<br>un accesso di [[Madness\|follia]] oltremodo furioso lo prese,<br>sì che disperatamente si precipitò per la strada,<br>con lui il suo servo, pazzo al pari di lui,<br>recando dispiacere ai cittadini<br>irrompendo nelle loro case, portandone via<br>anelli, gioielli, tutto ciò che alla sua furia piacesse.<br>Una volta riuscii a farlo legare, e lo mandai a [[Home\|casa]],<br>mentr’io andavo a rimediare ai torti<br>che qua e là la sua furia aveva commesso.<br>Poco dopo, non so per quale forte fuga,<br>egli si sciolse da quelli che lo custodivano,<br>e col suo pazzo servitore, egli e quello,<br>ciascuno con irosa passione, con le spade sguainate,<br>ci incontrò di nuovo, e, follemente avventandosi contro di noi,<br>ci mise in fuga; finché, raccolto altro aiuto,<br>tornammo per legarli. Allora essi fuggirono<br>in questa abbazia, dove li inseguimmo,<br>e qui la Badessa ci chiude in faccia i cancelli,<br>e non vuol permetterci di trarlo fuori,<br>né mandarlo fuori perché possiamo portarlo via.<br>Perciò, graziosissimo Duca, col tuo comando<br>fa’ che sia tratto fuori, e portato via per esser curato. |
 | *(didascalia)* | IL DUCA rialzando [[Adriana]] |
-| [[Adriana|ADRIANA]] | Da gran tempo tuo marito mi servì nelle mie guerre,<br>e io a te impegnai la parola d’un principe,<br>quando lo facesti padrone del tuo letto,<br>di fargli tutta la grazia e il bene che potessi.—<br>Andate, alcuni di voi, bussate al cancello dell’abbazia,<br>e dite alla signora Badessa di venire da me.<br>Deciderò questa faccenda prima di muovermi. |
+| [[Adriana\|ADRIANA]] | Da gran tempo tuo marito mi servì nelle mie guerre,<br>e io a te impegnai la parola d’un principe,<br>quando lo facesti padrone del tuo letto,<br>di fargli tutta la grazia e il bene che potessi.—<br>Andate, alcuni di voi, bussate al cancello dell’abbazia,<br>e dite alla signora Badessa di venire da me.<br>Deciderò questa faccenda prima di muovermi. |
 | *(didascalia)* | Entra un Messaggero dalla Fenice |
-| MESSAGGERO | (ad [[Adriana]])<br>Oh padrona, padrona, scappate e salvatevi!<br>Il mio padrone e il suo servo si sono sciolti entrambi,<br>hanno battuto le serve una dopo l’altra, e legato il Dottore,<br>a cui hanno bruciacchiato la barba con tizzoni di [[Fire|fuoco]],<br>e via via ch’essa avvampava gli gettavano addosso<br>gran secchi di fanghiglia per spegnere i peli.<br>Il mio padrone gli predica pazienza, e intanto<br>il suo servo con le forbici lo tosa come un [[Fool|buffone]];<br>e certo—se non mandate qualche pronto soccorso—<br>fra loro due uccideranno lo scongiuratore. |
-| [[Adriana|ADRIANA]] | Taci, [[Fool|sciocco]]. Il tuo padrone e il suo servo sono qui,<br>ed è falso ciò che ci riferisci. |
+| MESSAGGERO | (ad [[Adriana]])<br>Oh padrona, padrona, scappate e salvatevi!<br>Il mio padrone e il suo servo si sono sciolti entrambi,<br>hanno battuto le serve una dopo l’altra, e legato il Dottore,<br>a cui hanno bruciacchiato la barba con tizzoni di [[Fire\|fuoco]],<br>e via via ch’essa avvampava gli gettavano addosso<br>gran secchi di fanghiglia per spegnere i peli.<br>Il mio padrone gli predica pazienza, e intanto<br>il suo servo con le forbici lo tosa come un [[Fool\|buffone]];<br>e certo—se non mandate qualche pronto soccorso—<br>fra loro due uccideranno lo scongiuratore. |
+| [[Adriana\|ADRIANA]] | Taci, [[Fool\|sciocco]]. Il tuo padrone e il suo servo sono qui,<br>ed è falso ciò che ci riferisci. |
 | MESSAGGERO | Padrona, sulla mia vita vi dico il vero.<br>Non ho quasi ripreso fiato da quando l’ho visto.<br>Egli grida cercando voi, e giura che, se potrà prendervi,<br>vi brucerà il viso e vi sfigurerà.<br>Grida di dentro<br>Udite, udite, lo sento, padrona. Fuggite, via! |
-| DUCA | (ad [[Adriana]])<br>Venite, statemi accanto. Non abbiate [[Fear|paura]] di nulla. Guardie, alle alabarde! |
-| *(didascalia)* | Entrano [[Antipholus of Ephesus|Antifolo di Efeso]] e [[Dromio of Ephesus|Dromio di Efeso]] dalla Fenice |
-| [[Adriana|ADRIANA]] | Ahimè, è mio marito! Siatemi testimoni<br>ch’egli è trasportato in giro invisibile.<br>Or ora l’avevamo rinchiuso qui nell’abbazia,<br>e ora è là, oltre ogni pensiero d’umana ragione. |
-| [[Antipholus of Ephesus|ANTIFOLO DI EFESO]] | Giustizia, graziosissimo Duca, oh concedimi giustizia,<br>anche solo per il servizio che gran tempo fa ti resi,<br>quando ti feci scudo nelle guerre, e presi<br>profonde ferite per salvarti la vita; anche solo per il [[Blood|sangue]]<br>che allora perdetti per te, ora concedimi giustizia! |
-| [[Egeon|EGEONE]] | (a parte)<br>Se la [[Fear|paura]] della [[Death|morte]] non mi fa vaneggiare,<br>vedo mio figlio Antifolo, e Dromio. |
-| [[Antipholus of Ephesus|ANTIFOLO DI EFESO]] | Giustizia, dolce principe, contro quella donna là,<br>colei che tu mi desti perché fosse mia moglie,<br>che m’ha oltraggiato e disonorato<br>proprio nel colmo e nel culmine dell’ingiuria.<br>Oltre ogni [[Imagination|immaginazione]] è il torto<br>ch’ella oggi mi ha svergognatamente inflitto. |
+| DUCA | (ad [[Adriana]])<br>Venite, statemi accanto. Non abbiate [[Fear\|paura]] di nulla. Guardie, alle alabarde! |
+| *(didascalia)* | Entrano [[Antipholus of Ephesus\|Antifolo di Efeso]] e [[Dromio of Ephesus\|Dromio di Efeso]] dalla Fenice |
+| [[Adriana\|ADRIANA]] | Ahimè, è mio marito! Siatemi testimoni<br>ch’egli è trasportato in giro invisibile.<br>Or ora l’avevamo rinchiuso qui nell’abbazia,<br>e ora è là, oltre ogni pensiero d’umana ragione. |
+| [[Antipholus of Ephesus\|ANTIFOLO DI EFESO]] | Giustizia, graziosissimo Duca, oh concedimi giustizia,<br>anche solo per il servizio che gran tempo fa ti resi,<br>quando ti feci scudo nelle guerre, e presi<br>profonde ferite per salvarti la vita; anche solo per il [[Blood\|sangue]]<br>che allora perdetti per te, ora concedimi giustizia! |
+| [[Egeon\|EGEONE]] | (a parte)<br>Se la [[Fear\|paura]] della [[Death\|morte]] non mi fa vaneggiare,<br>vedo mio figlio Antifolo, e Dromio. |
+| [[Antipholus of Ephesus\|ANTIFOLO DI EFESO]] | Giustizia, dolce principe, contro quella donna là,<br>colei che tu mi desti perché fosse mia moglie,<br>che m’ha oltraggiato e disonorato<br>proprio nel colmo e nel culmine dell’ingiuria.<br>Oltre ogni [[Imagination\|immaginazione]] è il torto<br>ch’ella oggi mi ha svergognatamente inflitto. |
 | DUCA | Rivela come, e mi troverai giusto. |
-| [[Antipholus of Ephesus|ANTIFOLO DI EFESO]] | Oggi, gran Duca, ella mi serrò le porte in faccia<br>mentre con delle sgualdrine banchettava nella mia [[house|casa]]. |
+| [[Antipholus of Ephesus\|ANTIFOLO DI EFESO]] | Oggi, gran Duca, ella mi serrò le porte in faccia<br>mentre con delle sgualdrine banchettava nella mia [[house\|casa]]. |
 | DUCA | Una grave colpa!—Dite, donna, faceste così? |
-| [[Adriana|ADRIANA]] | No, mio buon signore. Io stessa, lui e mia sorella<br>oggi pranzammo insieme. Così tocchi alla mia [[Soul|anima]]<br>com’è falso ciò di cui m’accusa. |
-| [[Luciana|LUCIANA]] | Ch’io non riveda mai il giorno né [[Sleep|dorma]] la [[Night|notte]]<br>se ella non dice a vostra altezza la pura [[Truth|verità]]. |
-| [[Angelo|ANGELO]] | (a parte)<br>Oh donna spergiura! Sono entrambe spergiure.<br>In questo il pazzo giustamente le accusa. |
-| [[Antipholus of Ephesus|ANTIFOLO DI EFESO]] | Mio sovrano, so bene ciò che dico,<br>né turbato dall’effetto del vino,<br>né spinto a testa calda da ira furiosa,<br>benché i miei torti potrebbero far impazzire uno più savio.<br>Questa donna oggi mi chiuse fuori dal pranzo.<br>Quell’orefice là, se non fosse in combutta con lei,<br>potrebbe testimoniarlo, ché allora era con me,<br>e si separò da me per andare a prendere una catena,<br>promettendo di portarla al Porcospino,<br>dove Baldassarre e io pranzammo insieme.<br>Finito il nostro pranzo, e non venendo egli là,<br>andai a cercarlo. Per la strada lo incontrai,<br>e in sua compagnia quel gentiluomo.<br>Indica il Secondo Mercante<br>Là quest’orefice spergiuro mi giurò in faccia<br>che io quel giorno stesso avevo ricevuto da lui la catena,<br>la quale, Dio lo sa, non vidi mai. E per questo<br>egli mi fece arrestare da un usciere.<br>Io obbedii, e mandai il mio villano a [[Home|casa]]<br>per certi ducati. Egli tornò senza nulla.<br>Allora cortesemente pregai l’usciere<br>di venire di persona con me alla mia [[house|casa]].<br>Per la strada incontrammo mia moglie, sua sorella, e una marmaglia<br>d’altri<br>vili complici. Insieme a loro<br>conducevano un certo Pinch, un [[Villain|furfante]] famelico e sparuto,<br>un vero scheletro, un ciarlatano,<br>un giocoliere spelacchiato, e un indovino,<br>un miserabile bisognoso, dagli occhi incavati e dallo sguardo aguzzo,<br>un morto vivente. Questo pernicioso schiavo,<br>in verità, si spacciò per scongiuratore,<br>e fissandomi negli occhi, tastandomi il polso,<br>e senza faccia, per così dire, sfacciandomi in viso,<br>grida ch’io ero posseduto. Allora tutti insieme<br>mi si gettarono addosso, mi legarono, mi portarono via di là,<br>e in una volta buia e umidiccia a [[Home|casa]]<br>lasciarono me e il mio servo, legati insieme,<br>finché, rodendomi coi denti i legami fino a spezzarli,<br>guadagnai la mia [[Freedom|libertà]], e immediatamente<br>corsi qua da vostra grazia, che supplico<br>di darmi ampia soddisfazione<br>per queste profonde vergogne e questi grandi oltraggi. |
-| [[Angelo|ANGELO]] | Mio signore, in [[Truth|verità]], fin qui testimonio con lui:<br>ch’egli non pranzò a [[Home|casa]], ma fu chiuso fuori. |
+| [[Adriana\|ADRIANA]] | No, mio buon signore. Io stessa, lui e mia sorella<br>oggi pranzammo insieme. Così tocchi alla mia [[Soul\|anima]]<br>com’è falso ciò di cui m’accusa. |
+| [[Luciana\|LUCIANA]] | Ch’io non riveda mai il giorno né [[Sleep\|dorma]] la [[Night\|notte]]<br>se ella non dice a vostra altezza la pura [[Truth\|verità]]. |
+| [[Angelo\|ANGELO]] | (a parte)<br>Oh donna spergiura! Sono entrambe spergiure.<br>In questo il pazzo giustamente le accusa. |
+| [[Antipholus of Ephesus\|ANTIFOLO DI EFESO]] | Mio sovrano, so bene ciò che dico,<br>né turbato dall’effetto del vino,<br>né spinto a testa calda da ira furiosa,<br>benché i miei torti potrebbero far impazzire uno più savio.<br>Questa donna oggi mi chiuse fuori dal pranzo.<br>Quell’orefice là, se non fosse in combutta con lei,<br>potrebbe testimoniarlo, ché allora era con me,<br>e si separò da me per andare a prendere una catena,<br>promettendo di portarla al Porcospino,<br>dove Baldassarre e io pranzammo insieme.<br>Finito il nostro pranzo, e non venendo egli là,<br>andai a cercarlo. Per la strada lo incontrai,<br>e in sua compagnia quel gentiluomo.<br>Indica il Secondo Mercante<br>Là quest’orefice spergiuro mi giurò in faccia<br>che io quel giorno stesso avevo ricevuto da lui la catena,<br>la quale, Dio lo sa, non vidi mai. E per questo<br>egli mi fece arrestare da un usciere.<br>Io obbedii, e mandai il mio villano a [[Home\|casa]]<br>per certi ducati. Egli tornò senza nulla.<br>Allora cortesemente pregai l’usciere<br>di venire di persona con me alla mia [[house\|casa]].<br>Per la strada incontrammo mia moglie, sua sorella, e una marmaglia<br>d’altri<br>vili complici. Insieme a loro<br>conducevano un certo Pinch, un [[Villain\|furfante]] famelico e sparuto,<br>un vero scheletro, un ciarlatano,<br>un giocoliere spelacchiato, e un indovino,<br>un miserabile bisognoso, dagli occhi incavati e dallo sguardo aguzzo,<br>un morto vivente. Questo pernicioso schiavo,<br>in verità, si spacciò per scongiuratore,<br>e fissandomi negli occhi, tastandomi il polso,<br>e senza faccia, per così dire, sfacciandomi in viso,<br>grida ch’io ero posseduto. Allora tutti insieme<br>mi si gettarono addosso, mi legarono, mi portarono via di là,<br>e in una volta buia e umidiccia a [[Home\|casa]]<br>lasciarono me e il mio servo, legati insieme,<br>finché, rodendomi coi denti i legami fino a spezzarli,<br>guadagnai la mia [[Freedom\|libertà]], e immediatamente<br>corsi qua da vostra grazia, che supplico<br>di darmi ampia soddisfazione<br>per queste profonde vergogne e questi grandi oltraggi. |
+| [[Angelo\|ANGELO]] | Mio signore, in [[Truth\|verità]], fin qui testimonio con lui:<br>ch’egli non pranzò a [[Home\|casa]], ma fu chiuso fuori. |
 | DUCA | Ma ebbe da te una tal catena, o no? |
-| [[Angelo|ANGELO]] | L’ebbe, mio signore, e quando corse qua dentro<br>questa gente vide la catena al suo collo. |
-| SECONDO MERCANTE | (ad Antifolo)<br>Inoltre, giurerei che questi miei orecchi<br>v’udirono confessare che aveste da lui la catena,<br>dopo che dapprima l’aveste negata al mercato,<br>e allora sguainai la mia [[Sword|spada]] contro di voi;<br>e poi fuggiste qua dentro in questa abbazia,<br>donde credo che siate uscito per miracolo. |
-| [[Antipholus of Ephesus|ANTIFOLO DI EFESO]] | Non entrai mai dentro queste mura d’abbazia,<br>né mai tu sguainasti la tua [[Sword|spada]] contro di me.<br>Non vidi mai la catena, m’aiuti il cielo,<br>ed è falso ciò di cui mi caricate. |
-| DUCA | Ma che intricata accusa è mai questa!<br>Credo che abbiate bevuto tutti alla coppa di Circe.<br>Se qui l’aveste rinchiuso, qui sarebbe stato.<br>S’egli fosse pazzo, non perorerebbe così freddamente.<br>(Ad [[Adriana]]) Voi dite ch’egli pranzò a [[Home|casa]]; l’orefice qui<br>nega quel detto. (A Dromio) Messere, che dite voi? |
-| [[Dromio of Ephesus|DROMIO DI EFESO]] | (indicando la Cortigiana)<br>Signore, egli pranzò con lei là, al Porcospino. |
+| [[Angelo\|ANGELO]] | L’ebbe, mio signore, e quando corse qua dentro<br>questa gente vide la catena al suo collo. |
+| SECONDO MERCANTE | (ad Antifolo)<br>Inoltre, giurerei che questi miei orecchi<br>v’udirono confessare che aveste da lui la catena,<br>dopo che dapprima l’aveste negata al mercato,<br>e allora sguainai la mia [[Sword\|spada]] contro di voi;<br>e poi fuggiste qua dentro in questa abbazia,<br>donde credo che siate uscito per miracolo. |
+| [[Antipholus of Ephesus\|ANTIFOLO DI EFESO]] | Non entrai mai dentro queste mura d’abbazia,<br>né mai tu sguainasti la tua [[Sword\|spada]] contro di me.<br>Non vidi mai la catena, m’aiuti il cielo,<br>ed è falso ciò di cui mi caricate. |
+| DUCA | Ma che intricata accusa è mai questa!<br>Credo che abbiate bevuto tutti alla coppa di Circe.<br>Se qui l’aveste rinchiuso, qui sarebbe stato.<br>S’egli fosse pazzo, non perorerebbe così freddamente.<br>(Ad [[Adriana]]) Voi dite ch’egli pranzò a [[Home\|casa]]; l’orefice qui<br>nega quel detto. (A Dromio) Messere, che dite voi? |
+| [[Dromio of Ephesus\|DROMIO DI EFESO]] | (indicando la Cortigiana)<br>Signore, egli pranzò con lei là, al Porcospino. |
 | CORTIGIANA | Sì, e dal mio dito strappò quell’anello. |
-| [[Antipholus of Ephesus|ANTIFOLO DI EFESO]] | È vero, mio sovrano, questo anello l’ebbi da lei. |
+| [[Antipholus of Ephesus\|ANTIFOLO DI EFESO]] | È vero, mio sovrano, questo anello l’ebbi da lei. |
 | DUCA | (alla Cortigiana)<br>Lo vedesti tu entrare qui nell’abbazia? |
 | CORTIGIANA | Sicuro, mio sovrano, come vedo vostra grazia. |
 | DUCA | Ma questo è strano. Andate a chiamare qua la Badessa.<br>Credo che siate tutti sbalorditi, o del tutto pazzi. |
 | *(didascalia)* | Esce uno verso il priorato |
-| [[Egeon|EGEONE]] | (facendosi avanti)<br>Potentissimo Duca, concedimi di dire una parola.<br>Forse vedo un amico che salverà la mia vita,<br>e pagherà la somma che può liberarmi. |
+| [[Egeon\|EGEONE]] | (facendosi avanti)<br>Potentissimo Duca, concedimi di dire una parola.<br>Forse vedo un amico che salverà la mia vita,<br>e pagherà la somma che può liberarmi. |
 | DUCA | Parla liberamente, siracusano, quel che vuoi. |
-| [[Egeon|EGEONE]] | (ad Antifolo)<br>Non vi chiamate voi, signore, Antifolo?<br>E quello non è il vostro servo Dromio? |
+| [[Egeon\|EGEONE]] | (ad Antifolo)<br>Non vi chiamate voi, signore, Antifolo?<br>E quello non è il vostro servo Dromio? |
 | *(didascalia)* | Entro quest’ora fui suo servo, signore, |
-| [[Dromio of Ephesus|DROMIO DI EFESO]] | ma egli, e lo ringrazio, mi rose in due le corde.<br>Ora sono Dromio, e suo servo, slegato. |
-| [[Egeon|EGEONE]] | Son certo che voi entrambi mi ricordate. |
-| [[Dromio of Ephesus|DROMIO DI EFESO]] | Noi stessi ci ricordiamo, signore, grazie a voi;<br>ché poco fa eravamo legati come voi siete ora.<br>Non siete mica un paziente di Pinch, signore? |
-| [[Egeon|EGEONE]] | Perché mi guardate come un estraneo? Mi conoscete [[Well|bene]]. |
-| [[Antipholus of Ephesus|ANTIFOLO DI EFESO]] | Non vi vidi mai in vita mia fino ad ora. |
-| [[Egeon|EGEONE]] | Oh, il dolore m’ha mutato da quando mi vedeste l’ultima volta,<br>e le ore angosciose con la mano deforme del [[Time|tempo]]<br>hanno scritto strani disfacimenti sul mio volto.<br>Ma dimmi almeno: non riconosci la mia voce? |
-| [[Antipholus of Ephesus|ANTIFOLO DI EFESO]] | Neppure. |
-| [[Egeon|EGEONE]] | Dromio, e tu nemmeno? |
-| [[Dromio of Ephesus|DROMIO DI EFESO]] | No, credetemi signore, neppure io. |
-| [[Egeon|EGEONE]] | Son certo di sì. |
-| [[Dromio of Ephesus|DROMIO DI EFESO]] | Sì, signore, ma io son certo di no, e qualunque cosa un uomo neghi, ora siete tenuto a credergli. |
-| [[Egeon|EGEONE]] | Non riconoscere la mia voce? Oh estremità del [[Time|tempo]],<br>hai tu così incrinato e spezzato la mia povera lingua<br>in sette brevi anni, che qui il mio unico figlio<br>non riconosce la mia fioca chiave d’affanni scordati?<br>Benché ora questo mio volto solcato sia nascosto<br>nella [[Snow|neve]] stillante dell’[[Winter|inverno]] che consuma la linfa,<br>e tutti i condotti del mio [[Blood|sangue]] siano gelati,<br>pure la [[Night|notte]] della mia vita ha qualche [[Memory|memoria]],<br>le mie lampade morenti qualche fioco barlume,<br>i miei orecchi sordi e ottusi un poco d’udito.<br>Tutti questi vecchi testimoni, non posso errare,<br>mi dicono che tu sei mio figlio Antifolo. |
-| [[Antipholus of Ephesus|ANTIFOLO DI EFESO]] | Non vidi mai mio padre in vita mia. |
-| [[Egeon|EGEONE]] | Ma sette anni fa, nella baia di Siracusa,<br>tu sai che ci separammo. Ma forse, figlio mio,<br>ti vergogni di riconoscermi nella miseria. |
-| [[Antipholus of Ephesus|ANTIFOLO DI EFESO]] | Il Duca, e tutti quelli che mi conoscono nella [[City|città]],<br>possono testimoniare con me che non è così.<br>Non vidi mai Siracusa in vita mia. |
-| DUCA | (a [[Egeon|Egeone]])<br>Ti dico, siracusano, che per vent’anni<br>sono stato patrono d’Antifolo,<br>durante il qual [[Time|tempo]] egli non vide mai Siracusa.<br>Vedo che la tua età e i tuoi pericoli ti fanno vaneggiare. |
+| [[Dromio of Ephesus\|DROMIO DI EFESO]] | ma egli, e lo ringrazio, mi rose in due le corde.<br>Ora sono Dromio, e suo servo, slegato. |
+| [[Egeon\|EGEONE]] | Son certo che voi entrambi mi ricordate. |
+| [[Dromio of Ephesus\|DROMIO DI EFESO]] | Noi stessi ci ricordiamo, signore, grazie a voi;<br>ché poco fa eravamo legati come voi siete ora.<br>Non siete mica un paziente di Pinch, signore? |
+| [[Egeon\|EGEONE]] | Perché mi guardate come un estraneo? Mi conoscete [[Well\|bene]]. |
+| [[Antipholus of Ephesus\|ANTIFOLO DI EFESO]] | Non vi vidi mai in vita mia fino ad ora. |
+| [[Egeon\|EGEONE]] | Oh, il dolore m’ha mutato da quando mi vedeste l’ultima volta,<br>e le ore angosciose con la mano deforme del [[Time\|tempo]]<br>hanno scritto strani disfacimenti sul mio volto.<br>Ma dimmi almeno: non riconosci la mia voce? |
+| [[Antipholus of Ephesus\|ANTIFOLO DI EFESO]] | Neppure. |
+| [[Egeon\|EGEONE]] | Dromio, e tu nemmeno? |
+| [[Dromio of Ephesus\|DROMIO DI EFESO]] | No, credetemi signore, neppure io. |
+| [[Egeon\|EGEONE]] | Son certo di sì. |
+| [[Dromio of Ephesus\|DROMIO DI EFESO]] | Sì, signore, ma io son certo di no, e qualunque cosa un uomo neghi, ora siete tenuto a credergli. |
+| [[Egeon\|EGEONE]] | Non riconoscere la mia voce? Oh estremità del [[Time\|tempo]],<br>hai tu così incrinato e spezzato la mia povera lingua<br>in sette brevi anni, che qui il mio unico figlio<br>non riconosce la mia fioca chiave d’affanni scordati?<br>Benché ora questo mio volto solcato sia nascosto<br>nella [[Snow\|neve]] stillante dell’[[Winter\|inverno]] che consuma la linfa,<br>e tutti i condotti del mio [[Blood\|sangue]] siano gelati,<br>pure la [[Night\|notte]] della mia vita ha qualche [[Memory\|memoria]],<br>le mie lampade morenti qualche fioco barlume,<br>i miei orecchi sordi e ottusi un poco d’udito.<br>Tutti questi vecchi testimoni, non posso errare,<br>mi dicono che tu sei mio figlio Antifolo. |
+| [[Antipholus of Ephesus\|ANTIFOLO DI EFESO]] | Non vidi mai mio padre in vita mia. |
+| [[Egeon\|EGEONE]] | Ma sette anni fa, nella baia di Siracusa,<br>tu sai che ci separammo. Ma forse, figlio mio,<br>ti vergogni di riconoscermi nella miseria. |
+| [[Antipholus of Ephesus\|ANTIFOLO DI EFESO]] | Il Duca, e tutti quelli che mi conoscono nella [[City\|città]],<br>possono testimoniare con me che non è così.<br>Non vidi mai Siracusa in vita mia. |
+| DUCA | (a [[Egeon\|Egeone]])<br>Ti dico, siracusano, che per vent’anni<br>sono stato patrono d’Antifolo,<br>durante il qual [[Time\|tempo]] egli non vide mai Siracusa.<br>Vedo che la tua età e i tuoi pericoli ti fanno vaneggiare. |
 | *(didascalia)* | Entrano dal priorato la Badessa, con Antifolo |
-| DUCA | di Siracusa, con la catena addosso, e [[Dromio of Syracuse|Dromio di Siracusa]] |
+| DUCA | di Siracusa, con la catena addosso, e [[Dromio of Syracuse\|Dromio di Siracusa]] |
 | BADESSA | Potentissimo Duca, ecco un uomo assai offeso.<br>Tutti s’accalcano a vederli |
-| [[Adriana|ADRIANA]] | Vedo due mariti, o i miei occhi m’ingannano. |
+| [[Adriana\|ADRIANA]] | Vedo due mariti, o i miei occhi m’ingannano. |
 | DUCA | Uno di questi uomini è il genio dell’altro:<br>e così di questi, qual è l’uomo naturale,<br>e quale lo spirito? Chi li decifra? |
-| [[Dromio of Syracuse|DROMIO DI SIRACUSA]] | Io, signore, sono Dromio. Ordinategli d’andarsene. |
-| [[Dromio of Ephesus|DROMIO DI EFESO]] | Io, signore, sono Dromio. Vi prego, lasciate ch’io resti. |
-| [[Antipholus of Syracuse|ANTIFOLO DI SIRACUSA]] | [[Egeon|Egeone]], non sei tu? O il suo [[Ghost|spettro]]. |
-| [[Dromio of Syracuse|DROMIO DI SIRACUSA]] | Oh, il mio vecchio padrone, chi l’ha legato qui? |
-| BADESSA | Chiunque l’abbia legato, io ne scioglierò i legami,<br>e con la sua libertà guadagnerò un marito.<br>Parla, vecchio [[Egeon|Egeone]], se tu sei quell’uomo<br>che ebbe un tempo una moglie chiamata [[Emilia]],<br>che ti partorì d’un sol parto due bei figli.<br>Oh, se tu sei quello stesso [[Egeon|Egeone]], parla,<br>e parla alla stessa [[Emilia]]. |
+| [[Dromio of Syracuse\|DROMIO DI SIRACUSA]] | Io, signore, sono Dromio. Ordinategli d’andarsene. |
+| [[Dromio of Ephesus\|DROMIO DI EFESO]] | Io, signore, sono Dromio. Vi prego, lasciate ch’io resti. |
+| [[Antipholus of Syracuse\|ANTIFOLO DI SIRACUSA]] | [[Egeon\|Egeone]], non sei tu? O il suo [[Ghost\|spettro]]. |
+| [[Dromio of Syracuse\|DROMIO DI SIRACUSA]] | Oh, il mio vecchio padrone, chi l’ha legato qui? |
+| BADESSA | Chiunque l’abbia legato, io ne scioglierò i legami,<br>e con la sua libertà guadagnerò un marito.<br>Parla, vecchio [[Egeon\|Egeone]], se tu sei quell’uomo<br>che ebbe un tempo una moglie chiamata [[Emilia]],<br>che ti partorì d’un sol parto due bei figli.<br>Oh, se tu sei quello stesso [[Egeon\|Egeone]], parla,<br>e parla alla stessa [[Emilia]]. |
 | DUCA | Ma ecco che la sua storia del mattino comincia a quadrare:<br>questi due Antifoli, questi due così simili,<br>e questi due Dromi, un solo volto in due—<br>oltre al suo racconto del naufragio di lei in mare.<br>Questi sono i genitori di questi figli,<br>che per caso si sono qui incontrati. |
-| [[Egeon|EGEONE]] | Se non sogno, tu sei [[Emilia]].<br>Se sei lei, dimmi, dov’è quel figlio<br>che galleggiò con te sulla zattera fatale? |
+| [[Egeon\|EGEONE]] | Se non sogno, tu sei [[Emilia]].<br>Se sei lei, dimmi, dov’è quel figlio<br>che galleggiò con te sulla zattera fatale? |
 | BADESSA | Da uomini d’Epidamno lui e io<br>e il gemello Dromio fummo tutti raccolti.<br>Ma, poco dopo, rozzi pescatori di Corinto<br>tolsero loro a forza Dromio e mio figlio,<br>e me lasciarono con quelli d’Epidamno.<br>Che ne sia poi stato di loro non so dire;<br>io, alla sorte in cui mi vedete. |
-| DUCA | (ad [[Antipholus of Syracuse|Antifolo di Siracusa]])<br>Antifolo, tu venisti prima da Corinto. |
-| [[Antipholus of Syracuse|ANTIFOLO DI SIRACUSA]] | No, signore, non io. Io venni da Siracusa. |
+| DUCA | (ad [[Antipholus of Syracuse\|Antifolo di Siracusa]])<br>Antifolo, tu venisti prima da Corinto. |
+| [[Antipholus of Syracuse\|ANTIFOLO DI SIRACUSA]] | No, signore, non io. Io venni da Siracusa. |
 | DUCA | Fermi, statevi separati. Non so distinguere l’uno dall’altro. |
-| [[Antipholus of Ephesus|ANTIFOLO DI EFESO]] | Io venni da Corinto, graziosissimo signore. |
-| [[Dromio of Ephesus|DROMIO DI EFESO]] | E io con lui. |
-| [[Antipholus of Ephesus|ANTIFOLO DI EFESO]] | Condotti in questa città da quel famosissimo guerriero,<br>il duca Menafone, il vostro rinomatissimo zio. |
-| [[Adriana|ADRIANA]] | Quale di voi due pranzò oggi con me? |
-| [[Antipholus of Syracuse|ANTIFOLO DI SIRACUSA]] | Io, gentile signora. |
-| [[Adriana|ADRIANA]] | E non siete voi mio marito? |
-| [[Antipholus of Ephesus|ANTIFOLO DI EFESO]] | No, a questo dico di no. |
-| [[Antipholus of Syracuse|ANTIFOLO DI SIRACUSA]] | E lo dico anch’io. Eppure ella mi chiamò così;<br>e questa bella gentildonna, sua sorella qui,<br>mi chiamò fratello. (A<br>[[Luciana]]) Ciò che allora vi dissi<br>[[Hope|spero]] d’avere agio di confermarlo,<br>se questo che vedo e odo non è [[A Dream|un sogno]]. |
-| [[Angelo|ANGELO]] | Quella è la catena, signore, che aveste da me. |
-| [[Antipholus of Syracuse|ANTIFOLO DI SIRACUSA]] | Credo di sì, signore. Non lo nego. |
-| [[Antipholus of Ephesus|ANTIFOLO DI EFESO]] | (ad<br>[[Angelo]])<br>E voi, signore, per questa catena mi faceste arrestare. |
-| [[Angelo|ANGELO]] | Credo d’averlo fatto, signore. Non lo nego. |
-| [[Adriana|ADRIANA]] | (ad Antifolo<br>di Efeso)<br>Vi mandai denaro, signore, per la vostra cauzione,<br>per mezzo di Dromio, ma credo che non ve l’abbia portato. |
-| [[Dromio of Ephesus|DROMIO DI EFESO]] | No, nulla per mezzo mio. |
-| [[Antipholus of Syracuse|ANTIFOLO DI SIRACUSA]] | (ad<br>[[Adriana]])<br>Questa borsa di ducati la ricevetti da voi,<br>e Dromio, il mio servo, me la portò.<br>Vedo che di continuo incontravamo il servo l’uno dell’altro,<br>e io fui preso per lui, ed egli per me,<br>e di qui sono sorti questi errori. |
-| [[Antipholus of Ephesus|ANTIFOLO DI EFESO]] | Questi ducati li do in pegno per mio padre qui. |
+| [[Antipholus of Ephesus\|ANTIFOLO DI EFESO]] | Io venni da Corinto, graziosissimo signore. |
+| [[Dromio of Ephesus\|DROMIO DI EFESO]] | E io con lui. |
+| [[Antipholus of Ephesus\|ANTIFOLO DI EFESO]] | Condotti in questa città da quel famosissimo guerriero,<br>il duca Menafone, il vostro rinomatissimo zio. |
+| [[Adriana\|ADRIANA]] | Quale di voi due pranzò oggi con me? |
+| [[Antipholus of Syracuse\|ANTIFOLO DI SIRACUSA]] | Io, gentile signora. |
+| [[Adriana\|ADRIANA]] | E non siete voi mio marito? |
+| [[Antipholus of Ephesus\|ANTIFOLO DI EFESO]] | No, a questo dico di no. |
+| [[Antipholus of Syracuse\|ANTIFOLO DI SIRACUSA]] | E lo dico anch’io. Eppure ella mi chiamò così;<br>e questa bella gentildonna, sua sorella qui,<br>mi chiamò fratello. (A<br>[[Luciana]]) Ciò che allora vi dissi<br>[[Hope\|spero]] d’avere agio di confermarlo,<br>se questo che vedo e odo non è [[A Dream\|un sogno]]. |
+| [[Angelo\|ANGELO]] | Quella è la catena, signore, che aveste da me. |
+| [[Antipholus of Syracuse\|ANTIFOLO DI SIRACUSA]] | Credo di sì, signore. Non lo nego. |
+| [[Antipholus of Ephesus\|ANTIFOLO DI EFESO]] | (ad<br>[[Angelo]])<br>E voi, signore, per questa catena mi faceste arrestare. |
+| [[Angelo\|ANGELO]] | Credo d’averlo fatto, signore. Non lo nego. |
+| [[Adriana\|ADRIANA]] | (ad Antifolo<br>di Efeso)<br>Vi mandai denaro, signore, per la vostra cauzione,<br>per mezzo di Dromio, ma credo che non ve l’abbia portato. |
+| [[Dromio of Ephesus\|DROMIO DI EFESO]] | No, nulla per mezzo mio. |
+| [[Antipholus of Syracuse\|ANTIFOLO DI SIRACUSA]] | (ad<br>[[Adriana]])<br>Questa borsa di ducati la ricevetti da voi,<br>e Dromio, il mio servo, me la portò.<br>Vedo che di continuo incontravamo il servo l’uno dell’altro,<br>e io fui preso per lui, ed egli per me,<br>e di qui sono sorti questi errori. |
+| [[Antipholus of Ephesus\|ANTIFOLO DI EFESO]] | Questi ducati li do in pegno per mio padre qui. |
 | DUCA | Non ce ne sarà bisogno. Tuo padre ha salva la vita. |
 | CORTIGIANA | Signore, debbo riavere da voi quel diamante. |
-| [[Antipholus of Ephesus|ANTIFOLO DI EFESO]] | Eccolo, prendetelo, e molte grazie per la vostra buona accoglienza. |
+| [[Antipholus of Ephesus\|ANTIFOLO DI EFESO]] | Eccolo, prendetelo, e molte grazie per la vostra buona accoglienza. |
 | BADESSA | Rinomato Duca, degnatevi di prendervi l’incomodo<br>di venire con noi qui nell’abbazia,<br>e d’udire narrate per esteso tutte le nostre vicende,<br>e voi tutti che siete radunati in questo luogo,<br>che per quest’errore d’un solo giorno, tutto intrecciato,<br>avete patito torto. Venite, tenéteci compagnia,<br>e ne avrete piena soddisfazione.<br>Trentatré anni sono stata in travaglio<br>di voi, figli miei, e fino a quest’ora presente<br>del mio grave fardello non m’ero sgravata.<br>Il Duca, mio marito, e i miei due figli,<br>e voi, calendari della loro nascita,<br>venite a una festa di comari, e gioite con me.<br>Dopo sì lungo dolore, tale festività! |
 | DUCA | Con tutto il cuore farò da compare a questa festa. |
 | *(didascalia)* | Escono nel priorato tutti tranne i due Dromi e i due fratelli Antifoli |
-| [[Dromio of Syracuse|DROMIO DI SIRACUSA]] | (ad [[Antipholus of Ephesus|Antifolo di Efeso]])<br>Padrone, debbo andare a prendere la vostra roba a bordo? |
-| [[Antipholus of Ephesus|ANTIFOLO DI EFESO]] | Dromio, che roba mia hai imbarcato? |
-| [[Dromio of Syracuse|DROMIO DI SIRACUSA]] | I vostri beni che stavano in deposito, signore, al Centauro. |
-| [[Antipholus of Syracuse|ANTIFOLO DI SIRACUSA]] | Parla a me.—Io sono il tuo padrone, Dromio.<br>Vieni, va’ con noi. A quello penseremo fra poco.<br>Abbraccia là tuo fratello; rallegrati con lui. |
+| [[Dromio of Syracuse\|DROMIO DI SIRACUSA]] | (ad [[Antipholus of Ephesus\|Antifolo di Efeso]])<br>Padrone, debbo andare a prendere la vostra roba a bordo? |
+| [[Antipholus of Ephesus\|ANTIFOLO DI EFESO]] | Dromio, che roba mia hai imbarcato? |
+| [[Dromio of Syracuse\|DROMIO DI SIRACUSA]] | I vostri beni che stavano in deposito, signore, al Centauro. |
+| [[Antipholus of Syracuse\|ANTIFOLO DI SIRACUSA]] | Parla a me.—Io sono il tuo padrone, Dromio.<br>Vieni, va’ con noi. A quello penseremo fra poco.<br>Abbraccia là tuo fratello; rallegrati con lui. |
 | *(didascalia)* | Escono i fratelli |
-| [[Antipholus of Syracuse|ANTIFOLO DI SIRACUSA]] | Antifolo |
-| [[Dromio of Syracuse|DROMIO DI SIRACUSA]] | C’è una grassa amica alla [[house|casa]] del vostro padrone,<br>che oggi a pranzo mi fece da cuoca al posto vostro.<br>Ella ora sarà mia sorella, non mia moglie. |
-| [[Dromio of Ephesus|DROMIO DI EFESO]] | Mi pare che voi siate il mio specchio e non mio fratello.<br>Vedo da voi che sono un giovanotto di dolce aspetto.<br>Volete entrare a vedere le loro chiacchiere di comari? |
-| [[Dromio of Syracuse|DROMIO DI SIRACUSA]] | Non io, signore, voi siete il mio maggiore. |
+| [[Antipholus of Syracuse\|ANTIFOLO DI SIRACUSA]] | Antifolo |
+| [[Dromio of Syracuse\|DROMIO DI SIRACUSA]] | C’è una grassa amica alla [[house\|casa]] del vostro padrone,<br>che oggi a pranzo mi fece da cuoca al posto vostro.<br>Ella ora sarà mia sorella, non mia moglie. |
+| [[Dromio of Ephesus\|DROMIO DI EFESO]] | Mi pare che voi siate il mio specchio e non mio fratello.<br>Vedo da voi che sono un giovanotto di dolce aspetto.<br>Volete entrare a vedere le loro chiacchiere di comari? |
+| [[Dromio of Syracuse\|DROMIO DI SIRACUSA]] | Non io, signore, voi siete il mio maggiore. |
 | DROMIO | di EFESO Questa è una bella domanda. Come la decideremo? |
-| [[Dromio of Syracuse|DROMIO DI SIRACUSA]] | Tireremo a sorte per il maggiore. Fino allora, guida tu per primo. |
-| [[Dromio of Ephesus|DROMIO DI EFESO]] | Anzi, facciamo così:<br>venimmo al mondo come fratello e fratello,<br>e ora andiamo mano nella mano, non l’uno davanti all’altro. |
+| [[Dromio of Syracuse\|DROMIO DI SIRACUSA]] | Tireremo a sorte per il maggiore. Fino allora, guida tu per primo. |
+| [[Dromio of Ephesus\|DROMIO DI EFESO]] | Anzi, facciamo così:<br>venimmo al mondo come fratello e fratello,<br>e ora andiamo mano nella mano, non l’uno davanti all’altro. |
 | *(didascalia)* | Escono verso il priorato |

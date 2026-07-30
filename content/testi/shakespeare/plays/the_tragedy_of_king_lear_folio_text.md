@@ -1524,103 +1524,103 @@ The [[Tragedy]] of [[King Lear]]
 
 | Chi parla | Battuta |
 |---|---|
-| *(didascalia)* | Entrano il conte di [[Kent]], il [[Duke of Gloucester|duca di Gloucester]], ed Edmond |
-| [[Kent|KENT]] | Credevo che il [[King|Re]] prediligesse il duca d'Albany più di quello di Cornwall.<br>[[Gloucester|GLOUCESTER]]) Così è sempre parso anche a noi, ma ora, nella divisione del regno, non appare quale dei duchi egli stimi di più; ché le qualità sono soppesate in modo tale che il più scrupoloso esame non sa scegliere tra l'una e l'altra metà. |
-| [[Kent|KENT]] | Non è questo vostro figlio, mio signore? |
-| [[Gloucester|GLOUCESTER]] | La sua educazione, signore, è stata a mie spese. Ho arrossito così spesso nel riconoscerlo che ormai ci ho fatto il callo. |
-| [[Kent|KENT]] | Non vi comprendo. |
-| [[Gloucester|GLOUCESTER]] | Signore, la madre di questo giovanotto seppe comprendere, donde le si arrotondò il ventre ed ebbe invero, signore, un figlio per la culla prima d'avere un marito per il letto. Sentite odore di fallo? |
-| [[Kent|KENT]] | Non posso desiderare disfatto il fallo, essendone il frutto così ben riuscito. |
-| [[Gloucester|GLOUCESTER]] | Ma ho un figlio, signore, per ordine di legge, di qualche anno più vecchio di questo, che tuttavia non m'è più caro nel mio conto. Benché questo furfante sia venuto al mondo con una certa sfacciataggine prima d'esser chiamato, pure bella era sua madre, ci fu buon sollazzo nel farlo, e il bastardo dev'essere riconosciuto. (A Edmond) Conoscete questo nobile gentiluomo, Edmond? |
+| *(didascalia)* | Entrano il conte di [[Kent]], il [[Duke of Gloucester\|duca di Gloucester]], ed Edmond |
+| [[Kent\|KENT]] | Credevo che il [[King\|Re]] prediligesse il duca d'Albany più di quello di Cornwall.<br>[[Gloucester\|GLOUCESTER]]) Così è sempre parso anche a noi, ma ora, nella divisione del regno, non appare quale dei duchi egli stimi di più; ché le qualità sono soppesate in modo tale che il più scrupoloso esame non sa scegliere tra l'una e l'altra metà. |
+| [[Kent\|KENT]] | Non è questo vostro figlio, mio signore? |
+| [[Gloucester\|GLOUCESTER]] | La sua educazione, signore, è stata a mie spese. Ho arrossito così spesso nel riconoscerlo che ormai ci ho fatto il callo. |
+| [[Kent\|KENT]] | Non vi comprendo. |
+| [[Gloucester\|GLOUCESTER]] | Signore, la madre di questo giovanotto seppe comprendere, donde le si arrotondò il ventre ed ebbe invero, signore, un figlio per la culla prima d'avere un marito per il letto. Sentite odore di fallo? |
+| [[Kent\|KENT]] | Non posso desiderare disfatto il fallo, essendone il frutto così ben riuscito. |
+| [[Gloucester\|GLOUCESTER]] | Ma ho un figlio, signore, per ordine di legge, di qualche anno più vecchio di questo, che tuttavia non m'è più caro nel mio conto. Benché questo furfante sia venuto al mondo con una certa sfacciataggine prima d'esser chiamato, pure bella era sua madre, ci fu buon sollazzo nel farlo, e il bastardo dev'essere riconosciuto. (A Edmond) Conoscete questo nobile gentiluomo, Edmond? |
 | EDMOND | No, mio signore. |
-| [[Gloucester|GLOUCESTER]] | (a Edmond) Il mio signore di [[Kent]]. Ricordatelo d'ora innanzi come mio onorevole amico. |
+| [[Gloucester\|GLOUCESTER]] | (a Edmond) Il mio signore di [[Kent]]. Ricordatelo d'ora innanzi come mio onorevole amico. |
 | EDMOND | (a [[Kent]]) I miei servigi a vostra signoria. |
-| [[Kent|KENT]] | Devo [[Love|amarvi]], e chiedo istanza di conoscervi meglio. |
+| [[Kent\|KENT]] | Devo [[Love\|amarvi]], e chiedo istanza di conoscervi meglio. |
 | EDMOND | Signore, studierò di meritarlo. |
-| [[Gloucester|GLOUCESTER]] | (a [[Kent]]) È stato fuori nove anni, e di nuovo dovrà partire. |
+| [[Gloucester\|GLOUCESTER]] | (a [[Kent]]) È stato fuori nove anni, e di nuovo dovrà partire. |
 | *(didascalia)* | Squillo di trombe |
-| [[Gloucester|GLOUCESTER]] | Il [[King|Re]] sta venendo. |
+| [[Gloucester\|GLOUCESTER]] | Il [[King\|Re]] sta venendo. |
 | *(didascalia)* | Entrano [[King Lear]], i duchi di Cornwall e d'Albany, [[Goneril]], [[Regan]], [[Cordelia]] e il seguito |
 | LEAR | Assistete i signori di Francia e di Borgogna, [[Gloucester]]. |
-| [[Gloucester|GLOUCESTER]] | Lo farò, mio signore. Esce |
-| LEAR | Intanto esprimeremo il nostro più oscuro proposito.<br>Datemi qua la mappa. Sappiate che abbiamo diviso<br>in tre il nostro regno, ed è nostra ferma intenzione<br>scuotere ogni cura e ogni affanno dalla nostra età,<br>conferendoli a più giovani forze, mentre noi<br>sgravati striscieremo verso la [[Death|morte]]. Nostro figlio di Cornwall,<br>e voi, non meno amato nostro figlio d'Albany,<br>abbiamo in quest'ora ferma volontà di render note<br>le distinte doti delle nostre figlie, sì che future contese<br>siano ora prevenute. I principi di Francia e<br>di Borgogna—<br>grandi rivali nell'[[Love|amore]] della nostra figlia minore—<br>a lungo alla nostra [[Court|corte]] han fatto amoroso soggiorno,<br>e qui devono avere risposta. Ditemi, figlie mie—<br>poiché ora vogliamo spogliarci del governo,<br>dell'interesse del territorio, delle cure di Stato—<br>chi di voi diremo che ci [[Love|ami]] di più,<br>affinché la nostra più larga munificenza si stenda<br>là dove [[Nature|natura]] con merito contende? [[Goneril]],<br>nostra primogenita, parla per prima. |
-| [[Goneril|GONERIL]] | Signore, io vi [[Love|amo]] più di quanto parola possa reggere la materia;<br>più cara della vista, dello spazio e della libertà;<br>oltre ciò che si possa stimare, ricco o raro,<br>non meno della vita; con grazia, salute, [[Beauty|bellezza]], [[Honour|onore]];<br>quanto mai [[Child|figlio]] amò o padre trovò;<br>un [[Love|amore]] che fa povero il fiato e inetta la parola.<br>Oltre ogni maniera di tanto io vi [[Love|amo]]. |
-| [[Cordelia|CORDELIA]] | (a parte)<br>Che dirà [[Cordelia]]? [[Love|Amare]] e tacere. |
+| [[Gloucester\|GLOUCESTER]] | Lo farò, mio signore. Esce |
+| LEAR | Intanto esprimeremo il nostro più oscuro proposito.<br>Datemi qua la mappa. Sappiate che abbiamo diviso<br>in tre il nostro regno, ed è nostra ferma intenzione<br>scuotere ogni cura e ogni affanno dalla nostra età,<br>conferendoli a più giovani forze, mentre noi<br>sgravati striscieremo verso la [[Death\|morte]]. Nostro figlio di Cornwall,<br>e voi, non meno amato nostro figlio d'Albany,<br>abbiamo in quest'ora ferma volontà di render note<br>le distinte doti delle nostre figlie, sì che future contese<br>siano ora prevenute. I principi di Francia e<br>di Borgogna—<br>grandi rivali nell'[[Love\|amore]] della nostra figlia minore—<br>a lungo alla nostra [[Court\|corte]] han fatto amoroso soggiorno,<br>e qui devono avere risposta. Ditemi, figlie mie—<br>poiché ora vogliamo spogliarci del governo,<br>dell'interesse del territorio, delle cure di Stato—<br>chi di voi diremo che ci [[Love\|ami]] di più,<br>affinché la nostra più larga munificenza si stenda<br>là dove [[Nature\|natura]] con merito contende? [[Goneril]],<br>nostra primogenita, parla per prima. |
+| [[Goneril\|GONERIL]] | Signore, io vi [[Love\|amo]] più di quanto parola possa reggere la materia;<br>più cara della vista, dello spazio e della libertà;<br>oltre ciò che si possa stimare, ricco o raro,<br>non meno della vita; con grazia, salute, [[Beauty\|bellezza]], [[Honour\|onore]];<br>quanto mai [[Child\|figlio]] amò o padre trovò;<br>un [[Love\|amore]] che fa povero il fiato e inetta la parola.<br>Oltre ogni maniera di tanto io vi [[Love\|amo]]. |
+| [[Cordelia\|CORDELIA]] | (a parte)<br>Che dirà [[Cordelia]]? [[Love\|Amare]] e tacere. |
 | LEAR | (a [[Goneril]])<br>Di tutti questi confini, da questa linea a questa,<br>ricchi d'ombrose foreste e d'aperte campagne,<br>di fiumi copiosi e di prati dalle larghe distese,<br>ti facciamo signora. Alla tua discendenza e a quella d'Albany<br>sia questo perpetuo.—Che dice la nostra seconda figlia?<br>La nostra carissima [[Regan]], moglie di Cornwall? |
-| [[Regan|REGAN]] | Io son fatta di quello [[Self|stesso]] metallo di mia sorella,<br>e mi stimo al suo valore. Nel mio cuore verace<br>trovo ch'ella nomina proprio il mio atto d'[[Love|amore]]—<br>solo che resta troppo corta, ché io professo<br>d'essere nemica a tutte le altre gioie<br>che il più prezioso ambito dei sensi possiede,<br>e trovo d'essere [[Alone|soltanto]] felice<br>nell'[[Love|amore]] di vostra cara altezza. |
-| [[Cordelia|CORDELIA]] | (a parte) Allora povera [[Cordelia]]—<br>eppure no, ché son certa che il mio [[Love|amore]]<br>è più ponderoso della mia lingua. |
-| LEAR | (a [[Regan]])<br>A te e ai tuoi in eredità per sempre<br>rimanga questo ampio terzo del nostro bel regno,<br>non minore in spazio, validità e diletto<br>di quello conferito a [[Goneril]]. (A [[Cordelia]]) Ora nostra<br>gioia,<br>benché ultima e minima, al cui giovane [[Love|amore]]<br>le viti di Francia e il latte di Borgogna<br>contendono d'essere interessati: che sapete dire per trarre<br>un terzo più opulento di quello delle vostre sorelle? Parla. |
-| [[Cordelia|CORDELIA]] | Nulla, mio signore. |
+| [[Regan\|REGAN]] | Io son fatta di quello [[Self\|stesso]] metallo di mia sorella,<br>e mi stimo al suo valore. Nel mio cuore verace<br>trovo ch'ella nomina proprio il mio atto d'[[Love\|amore]]—<br>solo che resta troppo corta, ché io professo<br>d'essere nemica a tutte le altre gioie<br>che il più prezioso ambito dei sensi possiede,<br>e trovo d'essere [[Alone\|soltanto]] felice<br>nell'[[Love\|amore]] di vostra cara altezza. |
+| [[Cordelia\|CORDELIA]] | (a parte) Allora povera [[Cordelia]]—<br>eppure no, ché son certa che il mio [[Love\|amore]]<br>è più ponderoso della mia lingua. |
+| LEAR | (a [[Regan]])<br>A te e ai tuoi in eredità per sempre<br>rimanga questo ampio terzo del nostro bel regno,<br>non minore in spazio, validità e diletto<br>di quello conferito a [[Goneril]]. (A [[Cordelia]]) Ora nostra<br>gioia,<br>benché ultima e minima, al cui giovane [[Love\|amore]]<br>le viti di Francia e il latte di Borgogna<br>contendono d'essere interessati: che sapete dire per trarre<br>un terzo più opulento di quello delle vostre sorelle? Parla. |
+| [[Cordelia\|CORDELIA]] | Nulla, mio signore. |
 | LEAR | Nulla? |
-| [[Cordelia|CORDELIA]] | Nulla. |
+| [[Cordelia\|CORDELIA]] | Nulla. |
 | LEAR | Dal nulla non verrà nulla. Parla di nuovo. |
-| [[Cordelia|CORDELIA]] | Infelice quale io sono, non so sollevare<br>il mio cuore fino alla bocca. Io [[Love|amo]] vostra maestà<br>secondo il mio vincolo, né più né meno. |
+| [[Cordelia\|CORDELIA]] | Infelice quale io sono, non so sollevare<br>il mio cuore fino alla bocca. Io [[Love\|amo]] vostra maestà<br>secondo il mio vincolo, né più né meno. |
 | LEAR | Come, come, [[Cordelia]]? Correggi un poco il tuo discorso<br>affinché tu non guasti la tua fortuna. |
-| [[Cordelia|CORDELIA]] | Mio buon signore,<br>voi m'avete generata, allevata, amata.<br>Io rendo indietro quei doveri quali son giusti e convenienti—<br>obbedirvi, [[Love|amarvi]] e sommamente [[Honour|onorarvi]].<br>Perché le mie sorelle hanno mariti, se dicono<br>d'[[Love|amare]] voi solo? Forse, quando mi sposerò,<br>quel signore la cui mano prenderà la mia fede porterà<br>metà del mio [[Love|amore]] con sé, metà della mia cura e del mio dovere.<br>Certo, non mi sposerò mai come le mie sorelle. |
+| [[Cordelia\|CORDELIA]] | Mio buon signore,<br>voi m'avete generata, allevata, amata.<br>Io rendo indietro quei doveri quali son giusti e convenienti—<br>obbedirvi, [[Love\|amarvi]] e sommamente [[Honour\|onorarvi]].<br>Perché le mie sorelle hanno mariti, se dicono<br>d'[[Love\|amare]] voi solo? Forse, quando mi sposerò,<br>quel signore la cui mano prenderà la mia fede porterà<br>metà del mio [[Love\|amore]] con sé, metà della mia cura e del mio dovere.<br>Certo, non mi sposerò mai come le mie sorelle. |
 | LEAR | Ma il tuo cuore va con questo? |
-| [[Cordelia|CORDELIA]] | Sì, mio buon signore. |
+| [[Cordelia\|CORDELIA]] | Sì, mio buon signore. |
 | LEAR | Così giovane e così poco tenera? |
-| [[Cordelia|CORDELIA]] | Così giovane, mio signore, e verace. |
-| LEAR | E sia così. La tua [[Truth|verità]] sia dunque la tua dote;<br>ché per il sacro splendore del sole,<br>per i misteri d'Ecate e della [[Night|notte]],<br>per tutte le operazioni degli astri<br>dai quali esistiamo e cessiamo d'essere,<br>qui io ripudio ogni mia cura paterna,<br>ogni prossimità e proprietà di [[Blood|sangue]],<br>e come straniera al mio cuore e a me<br>ti tengo da quest'ora per sempre. Lo Scita barbaro,<br>o colui che fa della sua progenie vivande<br>per ingozzare il proprio appetito, sarà al mio petto<br>tanto [[Well|bene]] accolto, compianto e soccorso<br>quanto te, mia figlia d'un tempo. |
-| [[Kent|KENT]] | Mio buon sovrano— |
+| [[Cordelia\|CORDELIA]] | Così giovane, mio signore, e verace. |
+| LEAR | E sia così. La tua [[Truth\|verità]] sia dunque la tua dote;<br>ché per il sacro splendore del sole,<br>per i misteri d'Ecate e della [[Night\|notte]],<br>per tutte le operazioni degli astri<br>dai quali esistiamo e cessiamo d'essere,<br>qui io ripudio ogni mia cura paterna,<br>ogni prossimità e proprietà di [[Blood\|sangue]],<br>e come straniera al mio cuore e a me<br>ti tengo da quest'ora per sempre. Lo Scita barbaro,<br>o colui che fa della sua progenie vivande<br>per ingozzare il proprio appetito, sarà al mio petto<br>tanto [[Well\|bene]] accolto, compianto e soccorso<br>quanto te, mia figlia d'un tempo. |
+| [[Kent\|KENT]] | Mio buon sovrano— |
 | LEAR | Pace, [[Kent]].<br>Non t'interporre tra il drago e la sua ira.<br>L'amavo più di tutte, e pensavo di riporre il mio riposo |
 | *(didascalia)* | Nella sua tenera cura. A [[Cordelia]] Va' via, e fuggi |
-| LEAR | dalla mia vista!—<br>Così la mia [[Grave|tomba]] mi sia pace, come qui io tolgo<br>a lei il cuore di suo padre. Chiamate Francia. Chi si muove?<br>Chiamate Borgogna. |
+| LEAR | dalla mia vista!—<br>Così la mia [[Grave\|tomba]] mi sia pace, come qui io tolgo<br>a lei il cuore di suo padre. Chiamate Francia. Chi si muove?<br>Chiamate Borgogna. |
 | *(didascalia)* | Esce |
 | LEAR | uno o |
 | *(didascalia)* | più |
-| LEAR | Cornwall e Albany,<br>con le doti delle mie due figlie digerite la terza.<br>Che l'[[Pride|orgoglio]], ch'ella chiama schiettezza, la mariti.<br>Io v'investo congiuntamente del mio potere,<br>della preminenza e di tutti i larghi effetti<br>che s'accompagnano alla maestà. Noi stessi, con turno mensile,<br>con riserva di cento cavalieri<br>da voi mantenuti, faremo la nostra dimora<br>presso di voi a debito turno. Solo riterremo<br>il nome e tutti gli attributi d'un [[King|re]]. Il governo,<br>le rendite, l'esecuzione del resto,<br>figli diletti, siano vostri; a conferma di che<br>dividetevi questa coroncina. |
-| [[Kent|KENT]] | Regale Lear,<br>che io ho sempre onorato come mio [[King|re]],<br>amato come mio padre, seguito come mio signore,<br>ricordato nelle mie preghiere come mio gran patrono— |
+| LEAR | Cornwall e Albany,<br>con le doti delle mie due figlie digerite la terza.<br>Che l'[[Pride\|orgoglio]], ch'ella chiama schiettezza, la mariti.<br>Io v'investo congiuntamente del mio potere,<br>della preminenza e di tutti i larghi effetti<br>che s'accompagnano alla maestà. Noi stessi, con turno mensile,<br>con riserva di cento cavalieri<br>da voi mantenuti, faremo la nostra dimora<br>presso di voi a debito turno. Solo riterremo<br>il nome e tutti gli attributi d'un [[King\|re]]. Il governo,<br>le rendite, l'esecuzione del resto,<br>figli diletti, siano vostri; a conferma di che<br>dividetevi questa coroncina. |
+| [[Kent\|KENT]] | Regale Lear,<br>che io ho sempre onorato come mio [[King\|re]],<br>amato come mio padre, seguito come mio signore,<br>ricordato nelle mie preghiere come mio gran patrono— |
 | LEAR | L'arco è teso e tirato; scòstati dal dardo. |
-| [[Kent|KENT]] | Che cada piuttosto, benché la punta invada<br>la regione del mio cuore. Sia [[Kent]] scortese<br>quando Lear è pazzo. Che vorresti fare, vecchio?<br>Credi tu che il dovere avrà timore di parlare<br>quando il potere s'inchina all'adulazione? Alla schiettezza l'[[Honour|onore]] è<br>tenuto<br>quando la maestà cade in follia. Serba il tuo stato,<br>e nella tua miglior ponderazione frena<br>questa orrenda avventatezza. Rispondo con la vita del mio giudizio,<br>la tua figlia minore non ti [[Love|ama]] di meno,<br>né sono vuoti di cuore quelli i cui suoni bassi<br>non riverberano vacuità. |
+| [[Kent\|KENT]] | Che cada piuttosto, benché la punta invada<br>la regione del mio cuore. Sia [[Kent]] scortese<br>quando Lear è pazzo. Che vorresti fare, vecchio?<br>Credi tu che il dovere avrà timore di parlare<br>quando il potere s'inchina all'adulazione? Alla schiettezza l'[[Honour\|onore]] è<br>tenuto<br>quando la maestà cade in follia. Serba il tuo stato,<br>e nella tua miglior ponderazione frena<br>questa orrenda avventatezza. Rispondo con la vita del mio giudizio,<br>la tua figlia minore non ti [[Love\|ama]] di meno,<br>né sono vuoti di cuore quelli i cui suoni bassi<br>non riverberano vacuità. |
 | LEAR | [[Kent]], sulla tua vita, non una parola di più! |
-| [[Kent|KENT]] | La mia vita non l'ho mai tenuta che come pegno<br>da giocare contro i tuoi nemici, né mai temetti di perderla,<br>essendo la tua salvezza il motivo. |
+| [[Kent\|KENT]] | La mia vita non l'ho mai tenuta che come pegno<br>da giocare contro i tuoi nemici, né mai temetti di perderla,<br>essendo la tua salvezza il motivo. |
 | LEAR | Fuori dalla mia vista! |
-| [[Kent|KENT]] | Vedi meglio, Lear, e lascia ch'io rimanga<br>il vero bersaglio del tuo occhio. |
+| [[Kent\|KENT]] | Vedi meglio, Lear, e lascia ch'io rimanga<br>il vero bersaglio del tuo occhio. |
 | LEAR | Ora, per [[Apollo]]— |
-| [[Kent|KENT]] | Ora, per [[Apollo]], [[King|Re]], tu giuri invano per i tuoi dèi. |
+| [[Kent\|KENT]] | Ora, per [[Apollo]], [[King\|Re]], tu giuri invano per i tuoi dèi. |
 | *(didascalia)* | LEAR facendo per colpirlo |
-| [[Kent|KENT]] | O vassallo! Miscredente! |
-| *(didascalia)* | ALBANY e [[Cordelia|CORDELIA]] Caro signore, trattenetevi. |
-| [[Kent|KENT]] | (a Lear)<br>Uccidi il tuo medico, e il suo onorario concedi<br>al morbo immondo. Revoca il tuo dono,<br>o finché posso sfogare clamore dalla mia gola<br>ti dirò che fai il male. |
-| LEAR | Ascoltami, rinnegato; sulla tua fedeltà, ascoltami!<br>Poiché hai cercato di farci rompere i nostri voti,<br>ciò che mai finora osammo, e con ostinato [[Pride|orgoglio]]<br>di frapporti tra la nostra sentenza e il nostro potere,<br>ciò che né la nostra [[Nature|natura]] né il nostro grado può sopportare,<br>affermata la nostra potenza, prendi la tua ricompensa:<br>cinque giorni ti concediamo per provvederti<br>a ripararti dai disastri del mondo,<br>e al sesto per volgere il tuo odiato dorso<br>al nostro regno. Se al settimo giorno seguente<br>il tuo tronco bandito sarà trovato nei nostri domìni,<br>quel momento è la tua [[Death|morte]]. Via! Per Giove,<br>questo non sarà revocato. |
-| [[Kent|KENT]] | Che tu stia [[Well|bene]], [[King|Re]]; poiché così vuoi apparire,<br>la [[Freedom|libertà]] vive lontano di qui, e qui è l'esilio.<br>(A [[Cordelia]]) Gli dèi al loro caro riparo ti prendano,<br>fanciulla,<br>che giustamente pensi, e hai rettissimamente parlato.<br>(A [[Goneril]] e [[Regan]]) E i vostri larghi discorsi possano<br>le vostre opere confermare,<br>sì che buoni effetti possano [[spring|sbocciare]] da parole d'[[Love|amore]].<br>Così [[Kent]], o principi, vi dice addio a tutti;<br>egli seguirà il suo vecchio corso in un paese nuovo. Esce |
-| *(didascalia)* | Squilli. Entra il [[Duke of Gloucester|duca di Gloucester]] con il |
-| [[Kent|KENT]] | [[King of France|re di Francia]], il duca di Borgogna, e il seguito |
-| *(didascalia)* | [[Cordelia|CORDELIA]] |
-| [[Kent|KENT]] | Ecco Francia e Borgogna, mio nobile signore. |
-| LEAR | Mio signore di Borgogna,<br>a voi per primo ci rivolgiamo, che con questo [[King|Re]]<br>avete gareggiato per nostra figlia: che cosa al minimo<br>richiederete in dote presente con lei,<br>o cesserete la vostra [[Quest|ricerca]] d'[[Love|amore]]? |
+| [[Kent\|KENT]] | O vassallo! Miscredente! |
+| *(didascalia)* | ALBANY e [[Cordelia\|CORDELIA]] Caro signore, trattenetevi. |
+| [[Kent\|KENT]] | (a Lear)<br>Uccidi il tuo medico, e il suo onorario concedi<br>al morbo immondo. Revoca il tuo dono,<br>o finché posso sfogare clamore dalla mia gola<br>ti dirò che fai il male. |
+| LEAR | Ascoltami, rinnegato; sulla tua fedeltà, ascoltami!<br>Poiché hai cercato di farci rompere i nostri voti,<br>ciò che mai finora osammo, e con ostinato [[Pride\|orgoglio]]<br>di frapporti tra la nostra sentenza e il nostro potere,<br>ciò che né la nostra [[Nature\|natura]] né il nostro grado può sopportare,<br>affermata la nostra potenza, prendi la tua ricompensa:<br>cinque giorni ti concediamo per provvederti<br>a ripararti dai disastri del mondo,<br>e al sesto per volgere il tuo odiato dorso<br>al nostro regno. Se al settimo giorno seguente<br>il tuo tronco bandito sarà trovato nei nostri domìni,<br>quel momento è la tua [[Death\|morte]]. Via! Per Giove,<br>questo non sarà revocato. |
+| [[Kent\|KENT]] | Che tu stia [[Well\|bene]], [[King\|Re]]; poiché così vuoi apparire,<br>la [[Freedom\|libertà]] vive lontano di qui, e qui è l'esilio.<br>(A [[Cordelia]]) Gli dèi al loro caro riparo ti prendano,<br>fanciulla,<br>che giustamente pensi, e hai rettissimamente parlato.<br>(A [[Goneril]] e [[Regan]]) E i vostri larghi discorsi possano<br>le vostre opere confermare,<br>sì che buoni effetti possano [[spring\|sbocciare]] da parole d'[[Love\|amore]].<br>Così [[Kent]], o principi, vi dice addio a tutti;<br>egli seguirà il suo vecchio corso in un paese nuovo. Esce |
+| *(didascalia)* | Squilli. Entra il [[Duke of Gloucester\|duca di Gloucester]] con il |
+| [[Kent\|KENT]] | [[King of France\|re di Francia]], il duca di Borgogna, e il seguito |
+| *(didascalia)* | [[Cordelia\|CORDELIA]] |
+| [[Kent\|KENT]] | Ecco Francia e Borgogna, mio nobile signore. |
+| LEAR | Mio signore di Borgogna,<br>a voi per primo ci rivolgiamo, che con questo [[King\|Re]]<br>avete gareggiato per nostra figlia: che cosa al minimo<br>richiederete in dote presente con lei,<br>o cesserete la vostra [[Quest\|ricerca]] d'[[Love\|amore]]? |
 | BURGUNDY | Regalissima maestà,<br>non bramo più di quanto vostra altezza ha offerto;<br>né voi offrirete meno. |
 | LEAR | Nobilissimo Borgogna,<br>quando ci era cara la tenevamo per tale;<br>ma ora il suo prezzo è caduto. Signore, eccola là.<br>Se qualcosa in quella piccola parvenza di sostanza,<br>o tutta quanta, rappezzata col nostro sdegno,<br>e nulla più, può convenire a vostra grazia,<br>eccola là, ed è vostra. |
 | BURGUNDY | Non so quale risposta dare. |
 | LEAR | Volete voi, con quelle infermità ch'ella possiede,<br>senza amici, nuovamente adottata dal nostro odio,<br>dotata della nostra maledizione e resa estranea dal nostro giuramento,<br>prenderla o lasciarla? |
 | BURGUNDY | Perdonatemi, regale signore.<br>La scelta non si compie a tali condizioni. |
-| LEAR | Allora lasciatela, signore; ché per la potenza che mi fece,<br>vi dico tutta la sua ricchezza. (A Francia) Quanto a voi, gran [[King|Re]],<br>non vorrei dal vostro [[Love|amore]] fare tale traviamento<br>da accasarvi dove io odio, perciò vi supplico<br>di volgere il vostro affetto a via più degna<br>che non su una misera di cui [[Nature|natura]] si vergogna<br>quasi di riconoscerla sua. |
-| FRANCE | Questo è stranissimo,<br>che colei che pur ora era il vostro miglior oggetto,<br>l'argomento della vostra lode, balsamo della vostra età,<br>la migliore, la più cara, debba in questo attimo di [[Time|tempo]]<br>commettere cosa tanto mostruosa da smantellare<br>tante pieghe di favore. Certo, la sua offesa<br>dev'essere di grado così snaturato<br>da renderla mostro, o il vostro affetto già dichiarato<br>cade in sospetto; il che, a crederlo di lei,<br>dovrebb'essere una [[Faith|fede]] che ragione senza miracolo<br>non pianterebbe mai in me. |
-| [[Cordelia|CORDELIA]] | (a Lear)<br>Ancora supplico vostra maestà,<br>se è perché mi manca quell'arte scorrevole e oleosa<br>di parlare senza intendere—poiché ciò che [[Well|bene]] intendo,<br>lo faccio prima di dirlo—che facciate noto<br>che non è viziosa macchia, omicidio o turpitudine,<br>nessuna azione impudica o passo disonorato<br>che m'abbia privata della vostra grazia e del vostro favore,<br>ma appunto il difetto di ciò per cui sono più ricca—<br>un occhio sempre supplicante, e una lingua tale<br>che son lieta di non avere, benché il non averla<br>m'abbia perduta nel vostro affetto. |
+| LEAR | Allora lasciatela, signore; ché per la potenza che mi fece,<br>vi dico tutta la sua ricchezza. (A Francia) Quanto a voi, gran [[King\|Re]],<br>non vorrei dal vostro [[Love\|amore]] fare tale traviamento<br>da accasarvi dove io odio, perciò vi supplico<br>di volgere il vostro affetto a via più degna<br>che non su una misera di cui [[Nature\|natura]] si vergogna<br>quasi di riconoscerla sua. |
+| FRANCE | Questo è stranissimo,<br>che colei che pur ora era il vostro miglior oggetto,<br>l'argomento della vostra lode, balsamo della vostra età,<br>la migliore, la più cara, debba in questo attimo di [[Time\|tempo]]<br>commettere cosa tanto mostruosa da smantellare<br>tante pieghe di favore. Certo, la sua offesa<br>dev'essere di grado così snaturato<br>da renderla mostro, o il vostro affetto già dichiarato<br>cade in sospetto; il che, a crederlo di lei,<br>dovrebb'essere una [[Faith\|fede]] che ragione senza miracolo<br>non pianterebbe mai in me. |
+| [[Cordelia\|CORDELIA]] | (a Lear)<br>Ancora supplico vostra maestà,<br>se è perché mi manca quell'arte scorrevole e oleosa<br>di parlare senza intendere—poiché ciò che [[Well\|bene]] intendo,<br>lo faccio prima di dirlo—che facciate noto<br>che non è viziosa macchia, omicidio o turpitudine,<br>nessuna azione impudica o passo disonorato<br>che m'abbia privata della vostra grazia e del vostro favore,<br>ma appunto il difetto di ciò per cui sono più ricca—<br>un occhio sempre supplicante, e una lingua tale<br>che son lieta di non avere, benché il non averla<br>m'abbia perduta nel vostro affetto. |
 | LEAR | Meglio<br>non fossi nata, che non avermi meglio compiaciuto. |
-| FRANCE | È solo questo—una lentezza di [[Nature|natura]],<br>che spesso [[Leaves|lascia]] non detta la [[history|storia]]<br>di ciò che intende fare?—Mio signore di Borgogna,<br>che dite voi della dama? L'[[Love|amore]] non è [[Love|amore]]<br>quando è mescolato a riguardi che stanno<br>lontani dal punto intero. La volete?<br>Ella è essa stessa una dote. |
-| BURGUNDY | (a Lear) Regale [[King|Re]],<br>date solo quella porzione che voi stesso proponeste,<br>e qui io prendo [[Cordelia]] per mano,<br>duchessa di Borgogna. |
+| FRANCE | È solo questo—una lentezza di [[Nature\|natura]],<br>che spesso [[Leaves\|lascia]] non detta la [[history\|storia]]<br>di ciò che intende fare?—Mio signore di Borgogna,<br>che dite voi della dama? L'[[Love\|amore]] non è [[Love\|amore]]<br>quando è mescolato a riguardi che stanno<br>lontani dal punto intero. La volete?<br>Ella è essa stessa una dote. |
+| BURGUNDY | (a Lear) Regale [[King\|Re]],<br>date solo quella porzione che voi stesso proponeste,<br>e qui io prendo [[Cordelia]] per mano,<br>duchessa di Borgogna. |
 | LEAR | Nulla. L'ho giurato. Sono fermo. |
 | BURGUNDY | (a [[Cordelia]])<br>Mi dispiace, allora, che abbiate perduto un padre<br>tanto da dover perdere un marito. |
-| [[Cordelia|CORDELIA]] | Pace sia con Borgogna;<br>poiché rispetto e fortune sono il suo [[Love|amore]],<br>io non sarò sua moglie. |
-| FRANCE | Bellissima [[Cordelia]], che sei ricchissima essendo povera;<br>elettissima, essendo abbandonata; e amatissima, essendo disprezzata:<br>te e le tue virtù qui io afferro.<br>Sia lecito, io raccolgo ciò che è gettato via.<br>Dèi, dèi! È strano che dal loro più freddo disprezzo<br>il mio [[Love|amore]] debba accendersi in infiammato rispetto.—<br>La tua figlia senza dote, [[King|Re]], gettata alla mia sorte,<br>è [[Queen|regina]] di noi, dei nostri, e della nostra bella Francia.<br>Non tutti i duchi dell'acquosa Borgogna<br>possono comprarmi questa fanciulla preziosa e non prezzata.—<br>Di' loro addio, [[Cordelia]], benché scortesi.<br>Tu perdi qui, per trovare un altrove migliore. |
-| LEAR | Tu l'hai, Francia. Sia tua, ché noi<br>non abbiamo tale figlia, né mai più vedremo<br>quel suo volto. Perciò andatevene,<br>senza la nostra grazia, il nostro [[Love|amore]], la nostra benedizione.—<br>Venite, nobile Borgogna. Squilli. Escono tutti tranne Francia<br><br>e le sorelle |
+| [[Cordelia\|CORDELIA]] | Pace sia con Borgogna;<br>poiché rispetto e fortune sono il suo [[Love\|amore]],<br>io non sarò sua moglie. |
+| FRANCE | Bellissima [[Cordelia]], che sei ricchissima essendo povera;<br>elettissima, essendo abbandonata; e amatissima, essendo disprezzata:<br>te e le tue virtù qui io afferro.<br>Sia lecito, io raccolgo ciò che è gettato via.<br>Dèi, dèi! È strano che dal loro più freddo disprezzo<br>il mio [[Love\|amore]] debba accendersi in infiammato rispetto.—<br>La tua figlia senza dote, [[King\|Re]], gettata alla mia sorte,<br>è [[Queen\|regina]] di noi, dei nostri, e della nostra bella Francia.<br>Non tutti i duchi dell'acquosa Borgogna<br>possono comprarmi questa fanciulla preziosa e non prezzata.—<br>Di' loro addio, [[Cordelia]], benché scortesi.<br>Tu perdi qui, per trovare un altrove migliore. |
+| LEAR | Tu l'hai, Francia. Sia tua, ché noi<br>non abbiamo tale figlia, né mai più vedremo<br>quel suo volto. Perciò andatevene,<br>senza la nostra grazia, il nostro [[Love\|amore]], la nostra benedizione.—<br>Venite, nobile Borgogna. Squilli. Escono tutti tranne Francia<br><br>e le sorelle |
 | FRANCE | Di' addio alle tue sorelle. |
-| [[Cordelia|CORDELIA]] | Voi gioielli di nostro padre, con occhi lavati<br>[[Cordelia]] vi [[Leaves|lascia]]. Io so quel che siete,<br>e come sorella son restia a chiamare<br>i vostri falli col nome che hanno. [[Love|Amate]] [[Well|bene]] nostro padre.<br>Ai vostri seni professati lo affido.<br>Ma pure, ahimè, s'io stessi nella sua grazia<br>lo vorrei porre in luogo migliore.<br>Così addio a voi entrambe. |
-| [[Regan|REGAN]] | Non prescrivere a noi il nostro dovere. |
-| [[Goneril|GONERIL]] | Sia il tuo studio<br>contentare il tuo signore, che t'ha ricevuta<br>per elemosina della fortuna. Hai lesinato l'obbedienza,<br>e [[Well|bene]] meriti il difetto che t'è mancato. |
-| [[Cordelia|CORDELIA]] | Il [[Time|tempo]] svelerà ciò che la piegata astuzia nasconde,<br>chi copre i falli, alla fine con vergogna li deride.<br>[[Well|Bene]] possiate prosperare. |
+| [[Cordelia\|CORDELIA]] | Voi gioielli di nostro padre, con occhi lavati<br>[[Cordelia]] vi [[Leaves\|lascia]]. Io so quel che siete,<br>e come sorella son restia a chiamare<br>i vostri falli col nome che hanno. [[Love\|Amate]] [[Well\|bene]] nostro padre.<br>Ai vostri seni professati lo affido.<br>Ma pure, ahimè, s'io stessi nella sua grazia<br>lo vorrei porre in luogo migliore.<br>Così addio a voi entrambe. |
+| [[Regan\|REGAN]] | Non prescrivere a noi il nostro dovere. |
+| [[Goneril\|GONERIL]] | Sia il tuo studio<br>contentare il tuo signore, che t'ha ricevuta<br>per elemosina della fortuna. Hai lesinato l'obbedienza,<br>e [[Well\|bene]] meriti il difetto che t'è mancato. |
+| [[Cordelia\|CORDELIA]] | Il [[Time\|tempo]] svelerà ciò che la piegata astuzia nasconde,<br>chi copre i falli, alla fine con vergogna li deride.<br>[[Well\|Bene]] possiate prosperare. |
 | FRANCE | Venite, mia bella [[Cordelia]]. |
 | *(didascalia)* | Escono Francia e [[Cordelia]] |
-| [[Goneril|GONERIL]] | Sorella, non è poco quello che ho da dire di ciò che tocca da vicino entrambe noi. Credo che nostro padre partirà di qui stanotte. |
-| [[Regan|REGAN]] | È certissimo, e con te. Il mese prossimo con noi. |
-| [[Goneril|GONERIL]] | Vedi quanto la sua età sia piena di mutamenti. L'osservazione che ne abbiamo fatta è stata poca. Ha sempre amato nostra sorella più di tutte, e con che povero giudizio ora l'abbia respinta appare troppo grossolanamente. |
-| [[Regan|REGAN]] | È l'infermità della sua età; eppure non ha mai conosciuto se stesso che scarsamente. |
-| [[Goneril|GONERIL]] | Il meglio e il più sano del suo [[Time|tempo]] non è stato che avventato; dobbiamo dunque aspettarci dalla sua vecchiaia di ricevere non [[Alone|soltanto]] le imperfezioni d'una disposizione da lungo tempo innestata, ma con esse anche l'indocile capricciosità che gli anni infermi e collerici portano con sé. |
-| [[Regan|REGAN]] | Simili scatti incostanti siamo destinate ad averne da lui, come questo del bando di [[Kent]]. |
-| [[Goneril|GONERIL]] | C'è ancora un ulteriore cerimoniale di commiato tra Francia e lui. Ti prego, sediamo insieme. Se nostro padre porta autorità con la disposizione che ha, quest'ultima sua cessione non farà che offenderci. |
-| [[Regan|REGAN]] | Ci penseremo ancora. [[Goneril|GONERIL]] Dobbiamo fare qualcosa, e a caldo. |
+| [[Goneril\|GONERIL]] | Sorella, non è poco quello che ho da dire di ciò che tocca da vicino entrambe noi. Credo che nostro padre partirà di qui stanotte. |
+| [[Regan\|REGAN]] | È certissimo, e con te. Il mese prossimo con noi. |
+| [[Goneril\|GONERIL]] | Vedi quanto la sua età sia piena di mutamenti. L'osservazione che ne abbiamo fatta è stata poca. Ha sempre amato nostra sorella più di tutte, e con che povero giudizio ora l'abbia respinta appare troppo grossolanamente. |
+| [[Regan\|REGAN]] | È l'infermità della sua età; eppure non ha mai conosciuto se stesso che scarsamente. |
+| [[Goneril\|GONERIL]] | Il meglio e il più sano del suo [[Time\|tempo]] non è stato che avventato; dobbiamo dunque aspettarci dalla sua vecchiaia di ricevere non [[Alone\|soltanto]] le imperfezioni d'una disposizione da lungo tempo innestata, ma con esse anche l'indocile capricciosità che gli anni infermi e collerici portano con sé. |
+| [[Regan\|REGAN]] | Simili scatti incostanti siamo destinate ad averne da lui, come questo del bando di [[Kent]]. |
+| [[Goneril\|GONERIL]] | C'è ancora un ulteriore cerimoniale di commiato tra Francia e lui. Ti prego, sediamo insieme. Se nostro padre porta autorità con la disposizione che ha, quest'ultima sua cessione non farà che offenderci. |
+| [[Regan\|REGAN]] | Ci penseremo ancora. [[Goneril\|GONERIL]] Dobbiamo fare qualcosa, e a caldo. |
 | *(didascalia)* | Escono |
 
 
@@ -1688,55 +1688,55 @@ The [[Tragedy]] of [[King Lear]]
 | Chi parla | Battuta |
 |---|---|
 | *(didascalia)* | Entra Edmond il bastardo |
-| EDMOND | Tu, [[Nature|natura]], sei la mia dea. Alla tua legge<br>sono legati i miei servigi. Perché dovrei<br>starmene nella peste della consuetudine e permettere<br>che la scrupolosità delle nazioni mi privi<br>solo perché sono di dodici o quattordici lune<br>in ritardo su un fratello? Perché 'bastardo'? Perché 'vile',<br>quando le mie membra sono altrettanto [[Well|bene]] compatte,<br>la mia mente altrettanto generosa, e la mia forma altrettanto schietta<br>quanto la prole d'un'onesta madama? Perché ci marchiano<br>con 'vile', con 'viltà, bastardia—vile, vile'—<br>noi che nel vigoroso furto della [[Nature|natura]] prendiamo<br>più tempra e più fiera qualità<br>di quanta, dentro un letto ottuso, stantio e stanco,<br>se ne spenda a creare un'intera tribù di zerbinotti<br>generati tra un [[Sleep|sonno]] e una veglia? [[Well|Bene]] dunque,<br>legittimo [[Edgar]], devo avere la tua terra.<br>L'[[Love|amore]] di nostro padre è per il bastardo Edmond<br>quanto per il legittimo. Bella parola, 'legittimo'.<br>[[Well|Bene]], mio legittimo, se questa lettera [[Speed|corre a segno]]<br>e la mia invenzione prospera, Edmond il vile<br>sormonterà il legittimo. Cresco, prospero.<br>Ora, dèi, sostenete i bastardi! |
-| *(didascalia)* | Entra il [[Duke of Gloucester|duca di Gloucester]]. Edmond legge una lettera |
-| [[Gloucester|GLOUCESTER]] | [[Kent]] bandito a questo modo, e Francia partito in collera,<br>e il [[King|Re]] andato via stanotte, limitato il suo potere,<br>ridotto a un assegno—tutto questo fatto<br>su due piedi?—Edmond, ebbene? Che notizie? |
+| EDMOND | Tu, [[Nature\|natura]], sei la mia dea. Alla tua legge<br>sono legati i miei servigi. Perché dovrei<br>starmene nella peste della consuetudine e permettere<br>che la scrupolosità delle nazioni mi privi<br>solo perché sono di dodici o quattordici lune<br>in ritardo su un fratello? Perché 'bastardo'? Perché 'vile',<br>quando le mie membra sono altrettanto [[Well\|bene]] compatte,<br>la mia mente altrettanto generosa, e la mia forma altrettanto schietta<br>quanto la prole d'un'onesta madama? Perché ci marchiano<br>con 'vile', con 'viltà, bastardia—vile, vile'—<br>noi che nel vigoroso furto della [[Nature\|natura]] prendiamo<br>più tempra e più fiera qualità<br>di quanta, dentro un letto ottuso, stantio e stanco,<br>se ne spenda a creare un'intera tribù di zerbinotti<br>generati tra un [[Sleep\|sonno]] e una veglia? [[Well\|Bene]] dunque,<br>legittimo [[Edgar]], devo avere la tua terra.<br>L'[[Love\|amore]] di nostro padre è per il bastardo Edmond<br>quanto per il legittimo. Bella parola, 'legittimo'.<br>[[Well\|Bene]], mio legittimo, se questa lettera [[Speed\|corre a segno]]<br>e la mia invenzione prospera, Edmond il vile<br>sormonterà il legittimo. Cresco, prospero.<br>Ora, dèi, sostenete i bastardi! |
+| *(didascalia)* | Entra il [[Duke of Gloucester\|duca di Gloucester]]. Edmond legge una lettera |
+| [[Gloucester\|GLOUCESTER]] | [[Kent]] bandito a questo modo, e Francia partito in collera,<br>e il [[King\|Re]] andato via stanotte, limitato il suo potere,<br>ridotto a un assegno—tutto questo fatto<br>su due piedi?—Edmond, ebbene? Che notizie? |
 | EDMOND | Con licenza di vostra signoria, nessuna. |
-| [[Gloucester|GLOUCESTER]] | Perché cercate con tanto ardore di riporre quella lettera? |
-| EDMOND | Non so nessuna notizia, mio signore. [[Gloucester|GLOUCESTER]] Che carta stavate leggendo? |
+| [[Gloucester\|GLOUCESTER]] | Perché cercate con tanto ardore di riporre quella lettera? |
+| EDMOND | Non so nessuna notizia, mio signore. [[Gloucester\|GLOUCESTER]] Che carta stavate leggendo? |
 | EDMOND | Nulla, mio signore. |
-| [[Gloucester|GLOUCESTER]] | No? Che bisogno c'era allora di quel terribile spaccio di essa dentro la vostra tasca? La qualità del nulla non ha tanto bisogno di nascondersi. Vediamo. Su, se non è nulla non avrò bisogno d'occhiali. |
-| EDMOND | Vi supplico, signore, perdonatemi. È una lettera di mio fratello che non ho ancora letta tutta quanta; e per quanto ne ho scorso, la trovo non adatta al vostro esame. [[Gloucester|GLOUCESTER]] Datemi la lettera, signore. |
-| EDMOND | Offenderò tanto a trattenerla quanto a darla. Il contenuto, per quanto in parte lo intenda, è da biasimare. [[Gloucester|GLOUCESTER]] Vediamo, vediamo. |
-| EDMOND | [[Hope|Spero]], a giustificazione di mio fratello, che l'abbia scritta solo come saggio o assaggio della mia virtù.<br>Dà a [[Gloucester]] una lettera |
-| [[Gloucester|GLOUCESTER]] | (legge) 'Questa politica e questa reverenza per la vecchiaia rendono il mondo amaro ai migliori dei nostri anni, ci tengono lontane le fortune finché la nostra vecchiezza non sa più gustarle. Comincio a trovare una vana e sciocca schiavitù nell'oppressione della tirannia senile, che regna non perché ne abbia il potere, ma perché è tollerata. Vieni da me, che di questo io possa dirti di più. Se nostro padre [[Sleep|dormisse]] finché io non lo svegliassi, tu godresti per sempre metà delle sue rendite e vivresti amato da tuo fratello,<br>[[Edgar]].'<br>Ehm, congiura! '[[Sleep|Dormisse]] finché io non lo svegliassi, tu godresti metà delle sue rendite'—mio figlio [[Edgar]]! Ebbe una mano per scrivere questo, un cuore e un cervello per covarlo? Quando v'è giunta? Chi l'ha portata? |
+| [[Gloucester\|GLOUCESTER]] | No? Che bisogno c'era allora di quel terribile spaccio di essa dentro la vostra tasca? La qualità del nulla non ha tanto bisogno di nascondersi. Vediamo. Su, se non è nulla non avrò bisogno d'occhiali. |
+| EDMOND | Vi supplico, signore, perdonatemi. È una lettera di mio fratello che non ho ancora letta tutta quanta; e per quanto ne ho scorso, la trovo non adatta al vostro esame. [[Gloucester\|GLOUCESTER]] Datemi la lettera, signore. |
+| EDMOND | Offenderò tanto a trattenerla quanto a darla. Il contenuto, per quanto in parte lo intenda, è da biasimare. [[Gloucester\|GLOUCESTER]] Vediamo, vediamo. |
+| EDMOND | [[Hope\|Spero]], a giustificazione di mio fratello, che l'abbia scritta solo come saggio o assaggio della mia virtù.<br>Dà a [[Gloucester]] una lettera |
+| [[Gloucester\|GLOUCESTER]] | (legge) 'Questa politica e questa reverenza per la vecchiaia rendono il mondo amaro ai migliori dei nostri anni, ci tengono lontane le fortune finché la nostra vecchiezza non sa più gustarle. Comincio a trovare una vana e sciocca schiavitù nell'oppressione della tirannia senile, che regna non perché ne abbia il potere, ma perché è tollerata. Vieni da me, che di questo io possa dirti di più. Se nostro padre [[Sleep\|dormisse]] finché io non lo svegliassi, tu godresti per sempre metà delle sue rendite e vivresti amato da tuo fratello,<br>[[Edgar]].'<br>Ehm, congiura! '[[Sleep\|Dormisse]] finché io non lo svegliassi, tu godresti metà delle sue rendite'—mio figlio [[Edgar]]! Ebbe una mano per scrivere questo, un cuore e un cervello per covarlo? Quando v'è giunta? Chi l'ha portata? |
 | EDMOND | Non m'è stata portata, mio signore, sta qui l'astuzia. L'ho trovata gettata dentro la finestra del mio gabinetto. |
-| [[Gloucester|GLOUCESTER]] | Riconoscete la scrittura per quella di vostro fratello? |
-| EDMOND | Se la materia fosse buona, mio signore, oserei giurare che è la sua; ma trattandosi di questa, vorrei volentieri pensare che non lo sia. [[Gloucester|GLOUCESTER]]) È sua. |
-| EDMOND | È la sua mano, mio signore, ma [[Hope|spero]] che il suo cuore non sia nel contenuto. |
-| [[Gloucester|GLOUCESTER]] | Non v'ha mai prima sondato in questo affare? |
+| [[Gloucester\|GLOUCESTER]] | Riconoscete la scrittura per quella di vostro fratello? |
+| EDMOND | Se la materia fosse buona, mio signore, oserei giurare che è la sua; ma trattandosi di questa, vorrei volentieri pensare che non lo sia. [[Gloucester\|GLOUCESTER]]) È sua. |
+| EDMOND | È la sua mano, mio signore, ma [[Hope\|spero]] che il suo cuore non sia nel contenuto. |
+| [[Gloucester\|GLOUCESTER]] | Non v'ha mai prima sondato in questo affare? |
 | EDMOND | Mai, mio signore; ma l'ho udito spesso sostenere che sarebbe conveniente che, essendo i figli in età perfetta e i padri in declino, il padre fosse come pupillo del figlio, e il figlio amministrasse le sue rendite. |
-| [[Gloucester|GLOUCESTER]] | O [[Villain|scellerato]], [[Villain|scellerato]]—proprio la sua opinione nella lettera! Aborrito [[Villain|scellerato]], snaturato, detestato, bestiale [[Villain|scellerato]]—peggio che bestiale! Va', tu, cercalo. Lo farò arrestare. Abominevole [[Villain|scellerato]]! Dov'è? |
-| EDMOND | Non lo so [[Well|bene]], mio signore. Se vi piacesse sospendere la vostra indignazione contro mio fratello finché non possiate ricavare da lui migliore testimonianza della sua intenzione, seguireste un corso sicuro; laddove, se procedete violentemente contro di lui, fraintendendo il suo proposito, ciò farebbe gran breccia nel vostro stesso [[Honour|onore]] e frantumerebbe il cuore della sua obbedienza. Oso impegnare la mia vita per lui, che ha scritto questo per saggiare il mio affetto verso il vostro [[Honour|onore]], e per nessun'altra intenzione di pericolo. |
-| [[Gloucester|GLOUCESTER]] | Lo credete? |
-| EDMOND | Se il vostro [[Honour|onore]] lo giudica conveniente, vi collocherò dove ci udrete conferire di questo, e con auricolare certezza avrete la vostra soddisfazione, e ciò senza altro indugio che questa sera stessa. |
-| [[Gloucester|GLOUCESTER]] | Non può essere un tale [[Monster|mostro]]. Edmond, cercalo, [[Wind|insinuami]] dentro di lui, ti prego. Conduci l'affare secondo la tua saggezza. Mi spoglierei del mio stato per essere in una debita certezza. |
+| [[Gloucester\|GLOUCESTER]] | O [[Villain\|scellerato]], [[Villain\|scellerato]]—proprio la sua opinione nella lettera! Aborrito [[Villain\|scellerato]], snaturato, detestato, bestiale [[Villain\|scellerato]]—peggio che bestiale! Va', tu, cercalo. Lo farò arrestare. Abominevole [[Villain\|scellerato]]! Dov'è? |
+| EDMOND | Non lo so [[Well\|bene]], mio signore. Se vi piacesse sospendere la vostra indignazione contro mio fratello finché non possiate ricavare da lui migliore testimonianza della sua intenzione, seguireste un corso sicuro; laddove, se procedete violentemente contro di lui, fraintendendo il suo proposito, ciò farebbe gran breccia nel vostro stesso [[Honour\|onore]] e frantumerebbe il cuore della sua obbedienza. Oso impegnare la mia vita per lui, che ha scritto questo per saggiare il mio affetto verso il vostro [[Honour\|onore]], e per nessun'altra intenzione di pericolo. |
+| [[Gloucester\|GLOUCESTER]] | Lo credete? |
+| EDMOND | Se il vostro [[Honour\|onore]] lo giudica conveniente, vi collocherò dove ci udrete conferire di questo, e con auricolare certezza avrete la vostra soddisfazione, e ciò senza altro indugio che questa sera stessa. |
+| [[Gloucester\|GLOUCESTER]] | Non può essere un tale [[Monster\|mostro]]. Edmond, cercalo, [[Wind\|insinuami]] dentro di lui, ti prego. Conduci l'affare secondo la tua saggezza. Mi spoglierei del mio stato per essere in una debita certezza. |
 | EDMOND | Lo cercherò, signore, all'istante, condurrò l'affare come troverò modo, e ve ne informerò. |
-| [[Gloucester|GLOUCESTER]] | Queste recenti eclissi del sole e della [[Moon|luna]] non ci presagiscono nulla di buono. Benché la saggezza della [[Nature|natura]] possa ragionarne così e così, pure la [[Nature|natura]] si trova flagellata dagli effetti che ne conseguono. L'[[Love|amore]] si raffredda, l'[[Friendship|amicizia]] vien meno, i fratelli si dividono; nelle città, ammutinamenti; nelle campagne, discordia; nei palazzi, tradimento; e spezzato il vincolo tra figlio e padre. Questo mio [[Villain|scellerato]] rientra nella predizione: ecco il figlio contro il padre. Il [[King|Re]] devia dall'inclinazione della [[Nature|natura]]: ecco il padre contro il [[Child|figlio]]. Abbiamo visto il meglio del nostro [[Time|tempo]]. Macchinazioni, vuotezza, tradimento e ogni rovinoso disordine ci seguono inquieti fino alla tomba. Scopri questo [[Villain|scellerato]], Edmond; non ti costerà nulla. Fallo con cura. E il nobile e sincero [[Kent]] bandito, la sua colpa l'onestà! È strano. |
+| [[Gloucester\|GLOUCESTER]] | Queste recenti eclissi del sole e della [[Moon\|luna]] non ci presagiscono nulla di buono. Benché la saggezza della [[Nature\|natura]] possa ragionarne così e così, pure la [[Nature\|natura]] si trova flagellata dagli effetti che ne conseguono. L'[[Love\|amore]] si raffredda, l'[[Friendship\|amicizia]] vien meno, i fratelli si dividono; nelle città, ammutinamenti; nelle campagne, discordia; nei palazzi, tradimento; e spezzato il vincolo tra figlio e padre. Questo mio [[Villain\|scellerato]] rientra nella predizione: ecco il figlio contro il padre. Il [[King\|Re]] devia dall'inclinazione della [[Nature\|natura]]: ecco il padre contro il [[Child\|figlio]]. Abbiamo visto il meglio del nostro [[Time\|tempo]]. Macchinazioni, vuotezza, tradimento e ogni rovinoso disordine ci seguono inquieti fino alla tomba. Scopri questo [[Villain\|scellerato]], Edmond; non ti costerà nulla. Fallo con cura. E il nobile e sincero [[Kent]] bandito, la sua colpa l'onestà! È strano. |
 | *(didascalia)* | Esce |
-| EDMOND | Questa è la squisita scempiaggine del mondo: che quando siamo malati nella fortuna—spesso per le crapule della nostra stessa condotta—facciamo colpevoli dei nostri disastri il sole, la [[Moon|luna]] e le [[Stars|stelle]], come se fossimo scellerati per necessità, sciocchi per celeste costrizione, furfanti, ladri e traditori per predominio delle sfere, ubriaconi, bugiardi e adulteri per una forzata obbedienza all'influsso planetario, e tutto ciò in cui siamo cattivi per una spinta divina. Ammirevole scappatoia dell'uomo puttaniere, addossare la sua caprigna disposizione al conto d'una stella! Mio padre s'accoppiò con mia madre sotto la coda del Dragone e la mia natività fu sotto l'Orsa Maggiore, sicché ne segue che sono rozzo e lascivo. Puah! Sarei stato quello che sono anche se la più verginale stella del firmamento avesse ammiccato sul mio imbastardimento. |
+| EDMOND | Questa è la squisita scempiaggine del mondo: che quando siamo malati nella fortuna—spesso per le crapule della nostra stessa condotta—facciamo colpevoli dei nostri disastri il sole, la [[Moon\|luna]] e le [[Stars\|stelle]], come se fossimo scellerati per necessità, sciocchi per celeste costrizione, furfanti, ladri e traditori per predominio delle sfere, ubriaconi, bugiardi e adulteri per una forzata obbedienza all'influsso planetario, e tutto ciò in cui siamo cattivi per una spinta divina. Ammirevole scappatoia dell'uomo puttaniere, addossare la sua caprigna disposizione al conto d'una stella! Mio padre s'accoppiò con mia madre sotto la coda del Dragone e la mia natività fu sotto l'Orsa Maggiore, sicché ne segue che sono rozzo e lascivo. Puah! Sarei stato quello che sono anche se la più verginale stella del firmamento avesse ammiccato sul mio imbastardimento. |
 | *(didascalia)* | Entra [[Edgar]] |
-| EDMOND | Eccolo puntuale, come la catastrofe della vecchia [[Comedy|commedia]]. La mia battuta è una scellerata [[Melancholy|malinconia]], con un sospiro come Tom di Bedlam. |
+| EDMOND | Eccolo puntuale, come la catastrofe della vecchia [[Comedy\|commedia]]. La mia battuta è una scellerata [[Melancholy\|malinconia]], con un sospiro come Tom di Bedlam. |
 | *(didascalia)* | Legge un libro |
 | EDMOND | —Oh, queste eclissi presagiscono queste divisioni. Fa, sol, la, mi. |
-| [[Edgar|EDGAR]] | Ebbene, fratello Edmond, in che seria contemplazione siete? |
+| [[Edgar\|EDGAR]] | Ebbene, fratello Edmond, in che seria contemplazione siete? |
 | EDMOND | Sto pensando, fratello, a una predizione che ho letto l'altro giorno, su quel che dovrebbe seguire a queste eclissi. |
-| [[Edgar|EDGAR]] | Vi occupate di ciò? |
+| [[Edgar\|EDGAR]] | Vi occupate di ciò? |
 | EDMOND | Vi assicuro, gli effetti di cui egli scrive si avverano infelicemente. Quando avete visto mio padre l'ultima volta? |
-| [[Edgar|EDGAR]] | La [[Night|notte]] scorsa. |
+| [[Edgar\|EDGAR]] | La [[Night\|notte]] scorsa. |
 | EDMOND | Gli avete parlato? |
-| [[Edgar|EDGAR]] | Sì, per due ore di seguito. |
+| [[Edgar\|EDGAR]] | Sì, per due ore di seguito. |
 | EDMOND | Vi siete lasciati in buoni termini? Non avete trovato in lui alcun dispiacere, né in parola né in volto? |
-| [[Edgar|EDGAR]] | Nessuno affatto. |
-| EDMOND | Ripensate in che possiate averlo offeso, e per mia preghiera evitate la sua presenza finché un poco di [[Time|tempo]] non abbia temperato l'ardore del suo dispiacere, il quale in questo istante talmente infuria in lui che a stento si placherebbe con lo scempio della vostra persona. |
-| [[Edgar|EDGAR]] | Qualche [[Villain|scellerato]] m'ha fatto torto. |
-| EDMOND | È questo il mio [[Fear|timore]]. Vi prego, abbiate contenuta pazienza finché la [[Speed|foga]] della sua ira non rallenti; e, come dico, ritiratevi con me nel mio alloggio, donde a tempo debito vi condurrò a udire parlare il mio signore. Vi prego, andate. Ecco la mia chiave. Se uscite fuori, andate armato. |
-| [[Edgar|EDGAR]] | Armato, fratello? |
+| [[Edgar\|EDGAR]] | Nessuno affatto. |
+| EDMOND | Ripensate in che possiate averlo offeso, e per mia preghiera evitate la sua presenza finché un poco di [[Time\|tempo]] non abbia temperato l'ardore del suo dispiacere, il quale in questo istante talmente infuria in lui che a stento si placherebbe con lo scempio della vostra persona. |
+| [[Edgar\|EDGAR]] | Qualche [[Villain\|scellerato]] m'ha fatto torto. |
+| EDMOND | È questo il mio [[Fear\|timore]]. Vi prego, abbiate contenuta pazienza finché la [[Speed\|foga]] della sua ira non rallenti; e, come dico, ritiratevi con me nel mio alloggio, donde a tempo debito vi condurrò a udire parlare il mio signore. Vi prego, andate. Ecco la mia chiave. Se uscite fuori, andate armato. |
+| [[Edgar\|EDGAR]] | Armato, fratello? |
 | EDMOND | Fratello, vi consiglio per il meglio. Non sono uomo onesto se v'è qualche buona intenzione verso di voi. V'ho detto quel che ho visto e udito solo debolmente, nulla di simile all'immagine e all'orrore della cosa. Vi prego, via. |
-| [[Edgar|EDGAR]] | Avrò vostre notizie fra poco? |
+| [[Edgar\|EDGAR]] | Avrò vostre notizie fra poco? |
 | EDMOND | Vi servo in questo affare. |
 | *(didascalia)* | Esce [[Edgar]] |
-| EDMOND | Un padre credulo, e un fratello nobile,<br>la cui [[Nature|natura]] è così lontana dal fare del male<br>che non ne sospetta in nessuno; sulla cui sciocca onestà<br>le mie manovre cavalcano leggere. Vedo l'affare.<br>Ch'io abbia, se non per nascita, terre per ingegno.<br>Tutto m'è acconcio, purché lo sappia foggiare a modo. |
+| EDMOND | Un padre credulo, e un fratello nobile,<br>la cui [[Nature\|natura]] è così lontana dal fare del male<br>che non ne sospetta in nessuno; sulla cui sciocca onestà<br>le mie manovre cavalcano leggere. Vedo l'affare.<br>Ch'io abbia, se non per nascita, terre per ingegno.<br>Tutto m'è acconcio, purché lo sappia foggiare a modo. |
 | *(didascalia)* | Esce |
 
 
@@ -1761,14 +1761,14 @@ The [[Tragedy]] of [[King Lear]]
 
 | Chi parla | Battuta |
 |---|---|
-| *(didascalia)* | Entrano [[Goneril]] e Oswald, il suo maggiordomo [[Goneril|GONERIL]] |
-| *(didascalia)* | Mio padre ha percosso il mio gentiluomo<br>per aver ripreso il suo [[Fool|buffone]]? |
+| *(didascalia)* | Entrano [[Goneril]] e Oswald, il suo maggiordomo [[Goneril\|GONERIL]] |
+| *(didascalia)* | Mio padre ha percosso il mio gentiluomo<br>per aver ripreso il suo [[Fool\|buffone]]? |
 | OSWALD | Sì, madama. |
-| [[Goneril|GONERIL]] | Di giorno e di [[Night|notte]] mi fa torto. Ogni ora<br>prorompe in questo o in quel grossolano misfatto<br>che ci mette tutti in discordia. Non lo sopporterò.<br>I suoi cavalieri si fanno turbolenti, ed egli stesso ci rimbrotta<br>per ogni inezia. Quando tornerà dalla caccia<br>non gli parlerò. Dite che sono malata.<br>Se sarete fiacco nei servigi d'un tempo<br>farete [[Well|bene]]; della colpa risponderò io. |
+| [[Goneril\|GONERIL]] | Di giorno e di [[Night\|notte]] mi fa torto. Ogni ora<br>prorompe in questo o in quel grossolano misfatto<br>che ci mette tutti in discordia. Non lo sopporterò.<br>I suoi cavalieri si fanno turbolenti, ed egli stesso ci rimbrotta<br>per ogni inezia. Quando tornerà dalla caccia<br>non gli parlerò. Dite che sono malata.<br>Se sarete fiacco nei servigi d'un tempo<br>farete [[Well\|bene]]; della colpa risponderò io. |
 | *(didascalia)* | Corni all'interno |
 | OSWALD | Sta venendo, madama. Lo sento. |
-| [[Goneril|GONERIL]] | Mettete su quella stanca negligenza che vi piace,<br>voi e i vostri compagni. Vorrei che la cosa venisse a questione.<br>Se non gli garba, se ne vada da mia sorella,<br>la cui mente e la mia so che in ciò sono una sola.<br>Ricordate quel che ho detto. |
-| OSWALD | [[Well|Bene]], madama.<br>GONERI,<br>E che i suoi cavalieri abbiano tra voi sguardi più freddi.<br>Quel che ne nascerà, non importa. Avvisatene i vostri compagni.<br>Scriverò subito a mia sorella di tenere il mio stesso corso.<br>Preparate il pranzo. |
+| [[Goneril\|GONERIL]] | Mettete su quella stanca negligenza che vi piace,<br>voi e i vostri compagni. Vorrei che la cosa venisse a questione.<br>Se non gli garba, se ne vada da mia sorella,<br>la cui mente e la mia so che in ciò sono una sola.<br>Ricordate quel che ho detto. |
+| OSWALD | [[Well\|Bene]], madama.<br>GONERI,<br>E che i suoi cavalieri abbiano tra voi sguardi più freddi.<br>Quel che ne nascerà, non importa. Avvisatene i vostri compagni.<br>Scriverò subito a mia sorella di tenere il mio stesso corso.<br>Preparate il pranzo. |
 | *(didascalia)* | Escono separatamente |
 
 
@@ -1924,47 +1924,47 @@ The [[Tragedy]] of [[King Lear]]
 | Chi parla | Battuta |
 |---|---|
 | *(didascalia)* | Entra il conte di [[Kent]], travestito |
-| [[Kent|KENT]] | Se solo altrettanto [[Well|bene]] saprò prendere a prestito altri accenti<br>che sappiano confondere il mio parlare, il mio buon intento<br>potrà condursi da sé a quel pieno esito<br>per cui ho raso via le mie sembianze. Ora, bandito [[Kent]],<br>se sai servire là dove stai condannato,<br>possa avvenire che il tuo padrone, che tu ami,<br>ti trovi pieno di fatiche.<br>Corni all'interno. Entrano [[King Lear]] e il seguito, di ritorno dalla caccia |
+| [[Kent\|KENT]] | Se solo altrettanto [[Well\|bene]] saprò prendere a prestito altri accenti<br>che sappiano confondere il mio parlare, il mio buon intento<br>potrà condursi da sé a quel pieno esito<br>per cui ho raso via le mie sembianze. Ora, bandito [[Kent]],<br>se sai servire là dove stai condannato,<br>possa avvenire che il tuo padrone, che tu ami,<br>ti trovi pieno di fatiche.<br>Corni all'interno. Entrano [[King Lear]] e il seguito, di ritorno dalla caccia |
 | LEAR | Non fatemi aspettare un istante per il pranzo. Andate a prepararlo. |
 | *(didascalia)* | Esce uno |
 | LEAR | (A [[Kent]]) Ebbene, che cosa sei tu? |
-| [[Kent|KENT]] | Un uomo, signore. |
+| [[Kent\|KENT]] | Un uomo, signore. |
 | LEAR | Che cosa professi? Che vuoi da noi? |
-| [[Kent|KENT]] | Professo di non essere meno di quel che sembro, di servire fedelmente chi mi darà fiducia, di [[Love|amare]] chi è onesto, di conversare con chi è saggio e parla poco, di [[Fear|temere]] il giudizio, di battermi quando non posso farne a meno, e di non mangiar pesce. |
+| [[Kent\|KENT]] | Professo di non essere meno di quel che sembro, di servire fedelmente chi mi darà fiducia, di [[Love\|amare]] chi è onesto, di conversare con chi è saggio e parla poco, di [[Fear\|temere]] il giudizio, di battermi quando non posso farne a meno, e di non mangiar pesce. |
 | LEAR | Che cosa sei tu? |
-| [[Kent|KENT]] | Un tale di cuore onestissimo, e povero come il [[King|Re]]. |
-| LEAR | Se sei tanto povero per un suddito quanto lui lo è per un [[King|re]], sei povero abbastanza. Che vorresti? |
-| [[Kent|KENT]] | Servizio. |
+| [[Kent\|KENT]] | Un tale di cuore onestissimo, e povero come il [[King\|Re]]. |
+| LEAR | Se sei tanto povero per un suddito quanto lui lo è per un [[King\|re]], sei povero abbastanza. Che vorresti? |
+| [[Kent\|KENT]] | Servizio. |
 | LEAR | Chi vorresti servire? |
-| [[Kent|KENT]] | Voi. |
+| [[Kent\|KENT]] | Voi. |
 | LEAR | Mi conosci, amico? |
-| [[Kent|KENT]] | No, signore, ma avete nel volto qualcosa che chiamerei volentieri padrone. |
+| [[Kent\|KENT]] | No, signore, ma avete nel volto qualcosa che chiamerei volentieri padrone. |
 | LEAR | Che cos'è? |
-| [[Kent|KENT]] | Autorità. |
+| [[Kent\|KENT]] | Autorità. |
 | LEAR | Che servigi sai fare? |
-| [[Kent|KENT]] | So custodire un onesto consiglio, cavalcare, correre, guastare una storia ricercata nel raccontarla, e recapitare schiettamente un messaggio semplice. Ciò a cui son buoni gli uomini comuni, ne son capace; e il meglio di me è la diligenza. |
+| [[Kent\|KENT]] | So custodire un onesto consiglio, cavalcare, correre, guastare una storia ricercata nel raccontarla, e recapitare schiettamente un messaggio semplice. Ciò a cui son buoni gli uomini comuni, ne son capace; e il meglio di me è la diligenza. |
 | LEAR | Quanti anni hai? |
-| [[Kent|KENT]] | Non così giovane, signore, da [[Love|amare]] una donna perché canta, né così vecchio da rimbambire per lei per qualsivoglia cosa. Ho sul groppone quarantotto anni. |
-| *(didascalia)* | LEAR Seguimi. Mi servirai, se dopo pranzo non mi piacerai di meno. Non mi separerò ancora da te. Il pranzo, olà, il pranzo! Dov'è il mio furfante, il mio [[Fool|buffone]]? Andate voi a chiamare qui il mio [[Fool|buffone]]. Esce uno |
+| [[Kent\|KENT]] | Non così giovane, signore, da [[Love\|amare]] una donna perché canta, né così vecchio da rimbambire per lei per qualsivoglia cosa. Ho sul groppone quarantotto anni. |
+| *(didascalia)* | LEAR Seguimi. Mi servirai, se dopo pranzo non mi piacerai di meno. Non mi separerò ancora da te. Il pranzo, olà, il pranzo! Dov'è il mio furfante, il mio [[Fool\|buffone]]? Andate voi a chiamare qui il mio [[Fool\|buffone]]. Esce uno |
 | *(didascalia)* | Entra Oswald il maggiordomo |
-| [[Kent|KENT]] | Voi, voi, messere, dov'è mia figlia? |
+| [[Kent\|KENT]] | Voi, voi, messere, dov'è mia figlia? |
 | OSWALD | Col vostro permesso— |
 | *(didascalia)* | Esce |
 | LEAR | Che dice quel tale là? Richiamate indietro quello zuccone. |
 | *(didascalia)* | Esce un cavaliere |
-| LEAR | Dov'è il mio [[Fool|buffone]]? Olà, credo che il mondo dorma. |
+| LEAR | Dov'è il mio [[Fool\|buffone]]? Olà, credo che il mondo dorma. |
 | *(didascalia)* | Entra un Cavaliere |
 | LEAR | Ebbene? Dov'è quel bastardo? |
-| KNIGHT | Dice, mio signore, che vostra figlia non sta [[Well|bene]]. |
+| KNIGHT | Dice, mio signore, che vostra figlia non sta [[Well\|bene]]. |
 | LEAR | Perché quel servo non è tornato da me quando l'ho chiamato? |
 | KNIGHT | Signore, m'ha risposto nel modo più tondo che non voleva. |
 | LEAR | Non voleva? |
-| KNIGHT | Mio signore, non so quale sia la faccenda, ma a mio giudizio vostra altezza non è trattata con quell'affetto cerimonioso che le si usava. Appare una gran diminuzione di cortesia tanto [[Well|bene]] presso la servitù in generale quanto presso il Duca stesso, e anche presso vostra figlia. |
+| KNIGHT | Mio signore, non so quale sia la faccenda, ma a mio giudizio vostra altezza non è trattata con quell'affetto cerimonioso che le si usava. Appare una gran diminuzione di cortesia tanto [[Well\|bene]] presso la servitù in generale quanto presso il Duca stesso, e anche presso vostra figlia. |
 | LEAR | Ah, dici così? |
 | KNIGHT | Vi supplico di perdonarmi, mio signore, se m'inganno, ché il mio dovere non può tacere quando credo vostra altezza offesa. |
-| LEAR | Non fai che rammentarmi la mia stessa idea. Ho avvertito di recente una tenuissima trascuratezza, che ho piuttosto imputata alla mia gelosa scrupolosità che a una vera intenzione e proposito di scortesia. Ci guarderò più addentro. Ma dov'è il mio [[Fool|buffone]]? Non l'ho visto da due giorni. |
-| KNIGHT | Dacché la mia giovane signora è partita per la Francia, signore, il [[Fool|buffone]] s'è molto consumato. |
-| *(didascalia)* | LEAR Basta di questo, l'ho notato [[Well|bene]]. Andate a dire a mia figlia che vorrei parlarle. Esce uno Andate voi, chiamate qui il mio [[Fool|buffone]]. Esce uno |
+| LEAR | Non fai che rammentarmi la mia stessa idea. Ho avvertito di recente una tenuissima trascuratezza, che ho piuttosto imputata alla mia gelosa scrupolosità che a una vera intenzione e proposito di scortesia. Ci guarderò più addentro. Ma dov'è il mio [[Fool\|buffone]]? Non l'ho visto da due giorni. |
+| KNIGHT | Dacché la mia giovane signora è partita per la Francia, signore, il [[Fool\|buffone]] s'è molto consumato. |
+| *(didascalia)* | LEAR Basta di questo, l'ho notato [[Well\|bene]]. Andate a dire a mia figlia che vorrei parlarle. Esce uno Andate voi, chiamate qui il mio [[Fool\|buffone]]. Esce uno |
 | *(didascalia)* | Entra Oswald il maggiordomo attraversando la scena |
 | KNIGHT | Oh voi, signore, voi, venite qui, signore, chi sono io, signore? OSWALD Il padre della mia signora. |
 | LEAR | Il padre della tua signora? Il furfante del mio signore, cane bastardo, servo, botolo! |
@@ -1972,95 +1972,95 @@ The [[Tragedy]] of [[King Lear]]
 | LEAR | Scambi sguardi con me, mascalzone? |
 | *(didascalia)* | Lear lo percuote |
 | OSWALD | Non mi lascerò percuotere, mio signore. |
-| *(didascalia)* | [[Kent|KENT]] facendogli lo sgambetto E nemmeno sgambettare, vile giocatore di pallone. |
-| LEAR | (a [[Kent]]) Ti ringrazio, amico. Tu mi servi, e<br>io ti [[Love|amerò]]. |
-| [[Kent|KENT]] | (a Oswald) Su, signore, alzatevi, via. V'insegnerò le differenze. Via, via. Se volete misurare di nuovo la vostra lunghezza di zoticone, restate; ma via, andate. Avete senno? Così. Esce Oswald |
+| *(didascalia)* | [[Kent\|KENT]] facendogli lo sgambetto E nemmeno sgambettare, vile giocatore di pallone. |
+| LEAR | (a [[Kent]]) Ti ringrazio, amico. Tu mi servi, e<br>io ti [[Love\|amerò]]. |
+| [[Kent\|KENT]] | (a Oswald) Su, signore, alzatevi, via. V'insegnerò le differenze. Via, via. Se volete misurare di nuovo la vostra lunghezza di zoticone, restate; ma via, andate. Avete senno? Così. Esce Oswald |
 | LEAR | Ora, mio amichevole furfante, ti ringrazio. |
-| *(didascalia)* | Entra il [[Fool|Buffone]] di Lear |
+| *(didascalia)* | Entra il [[Fool\|Buffone]] di Lear |
 | LEAR | Ecco una caparra per il tuo servizio.<br>Dà del denaro a [[Kent]] |
-| [[Fool|FOOL]] | Lascia che l'assuma anch'io. (A [[Kent]]) Ecco il mio berretto da matto. |
+| [[Fool\|FOOL]] | Lascia che l'assuma anch'io. (A [[Kent]]) Ecco il mio berretto da matto. |
 | LEAR | Ebbene, mio grazioso furfante, come stai? |
-| [[Fool|FOOL]] | (a [[Kent]]) Ehi tu, faresti bene a prendere il mio berretto da matto. |
+| [[Fool\|FOOL]] | (a [[Kent]]) Ehi tu, faresti bene a prendere il mio berretto da matto. |
 | LEAR | Perché, ragazzo mio? |
-| [[Fool|FOOL]] | Perché? Per aver preso le parti di uno che è caduto in disgrazia. (A [[Kent]]) Suvvia, se non sai sorridere secondo come tira il [[Wind|vento]], prenderai presto un raffreddore. Ecco, prendi il mio berretto. Ma guarda, costui ha bandito due delle sue figlie e alla terza ha fatto una benedizione contro la propria volontà. Se lo segui, devi per forza portare il mio berretto da matto. (A Lear) Ebbene, zietto? Vorrei avere due berretti e due figlie. |
+| [[Fool\|FOOL]] | Perché? Per aver preso le parti di uno che è caduto in disgrazia. (A [[Kent]]) Suvvia, se non sai sorridere secondo come tira il [[Wind\|vento]], prenderai presto un raffreddore. Ecco, prendi il mio berretto. Ma guarda, costui ha bandito due delle sue figlie e alla terza ha fatto una benedizione contro la propria volontà. Se lo segui, devi per forza portare il mio berretto da matto. (A Lear) Ebbene, zietto? Vorrei avere due berretti e due figlie. |
 | LEAR | Perché, ragazzo mio? |
-| [[Fool|FOOL]] | Se dessi loro tutto il mio avere, terrei per me i miei berretti. Ecco il mio; mendicane un altro dalle tue figlie. |
+| [[Fool\|FOOL]] | Se dessi loro tutto il mio avere, terrei per me i miei berretti. Ecco il mio; mendicane un altro dalle tue figlie. |
 | LEAR | Bada, briccone—la frusta. |
-| [[Fool|FOOL]] | La [[Truth|verità]] è un cane che dev'andare al canile. Bisogna cacciarlo fuori a frustate mentre madama Cagna può star vicino al [[Fire|fuoco]] e puzzare. |
+| [[Fool\|FOOL]] | La [[Truth\|verità]] è un cane che dev'andare al canile. Bisogna cacciarlo fuori a frustate mentre madama Cagna può star vicino al [[Fire\|fuoco]] e puzzare. |
 | LEAR | Che pestifero fiele per me! |
-| *(didascalia)* | [[Fool|FOOL]] a [[Kent]] Ehi tu, t'insegnerò un discorso. |
+| *(didascalia)* | [[Fool\|FOOL]] a [[Kent]] Ehi tu, t'insegnerò un discorso. |
 | LEAR | Fallo. |
-| [[Fool|FOOL]] | Notalo, zietto:<br>Abbi più di quel che mostri,<br>di' meno di quel che sai,<br>presta meno di quel che hai,<br>cavalca più di quel che vai,<br>impara più di quel che credi,<br>punta meno di quel che getti,<br>lascia il bere e la puttana,<br>e statti in casa,<br>e più in tasca ti resterà<br>che due decine a far ventina. |
-| [[Kent|KENT]] | Questo è nulla, [[Fool|buffone]]. |
-| [[Fool|FOOL]] | Allora è come il fiato d'un avvocato non pagato: non m'hai dato nulla per esso. (A Lear) Non sai far uso del nulla, zietto? |
+| [[Fool\|FOOL]] | Notalo, zietto:<br>Abbi più di quel che mostri,<br>di' meno di quel che sai,<br>presta meno di quel che hai,<br>cavalca più di quel che vai,<br>impara più di quel che credi,<br>punta meno di quel che getti,<br>lascia il bere e la puttana,<br>e statti in casa,<br>e più in tasca ti resterà<br>che due decine a far ventina. |
+| [[Kent\|KENT]] | Questo è nulla, [[Fool\|buffone]]. |
+| [[Fool\|FOOL]] | Allora è come il fiato d'un avvocato non pagato: non m'hai dato nulla per esso. (A Lear) Non sai far uso del nulla, zietto? |
 | LEAR | Ma no, ragazzo. Dal nulla non si può far nulla. |
-| [[Fool|FOOL]] | (a [[Kent]]) Ti prego, digli che a tanto ammonta la rendita delle sue terre. Non vorrà credere a un [[Fool|buffone]]. |
-| LEAR | Un [[Fool|buffone]] amaro. |
-| [[Fool|FOOL]] | Conosci la differenza, ragazzo mio, tra un [[Fool|buffone]] amaro e uno dolce? |
+| [[Fool\|FOOL]] | (a [[Kent]]) Ti prego, digli che a tanto ammonta la rendita delle sue terre. Non vorrà credere a un [[Fool\|buffone]]. |
+| LEAR | Un [[Fool\|buffone]] amaro. |
+| [[Fool\|FOOL]] | Conosci la differenza, ragazzo mio, tra un [[Fool\|buffone]] amaro e uno dolce? |
 | LEAR | No, ragazzo. Insegnamela. |
-| [[Fool|FOOL]] | Zietto, dammi un uovo, e io ti darò due corone. |
+| [[Fool\|FOOL]] | Zietto, dammi un uovo, e io ti darò due corone. |
 | LEAR | E quali due corone saranno? |
-| *(didascalia)* | [[Fool|FOOL]] Ma sì, dopo che avrò tagliato l'uovo a metà e mangiato il contenuto, le due corone dell'uovo. Quando spaccasti a metà la tua [[Crown|corona]] e ne desti via entrambe le parti, ti portasti l'asino sul groppone attraverso il fango. Poco senno avevi nella tua calva [[Crown|corona]] quando desti via quella d'oro. Se in questo parlo da me stesso, sia frustato il primo che lo giudichi tale. Canta Mai i buffoni ebbero meno grazia in un anno, |
+| *(didascalia)* | [[Fool\|FOOL]] Ma sì, dopo che avrò tagliato l'uovo a metà e mangiato il contenuto, le due corone dell'uovo. Quando spaccasti a metà la tua [[Crown\|corona]] e ne desti via entrambe le parti, ti portasti l'asino sul groppone attraverso il fango. Poco senno avevi nella tua calva [[Crown\|corona]] quando desti via quella d'oro. Se in questo parlo da me stesso, sia frustato il primo che lo giudichi tale. Canta Mai i buffoni ebbero meno grazia in un anno, |
 | LEAR | ché i savi son diventati sciocchi,<br>e non sanno più portare il proprio ingegno,<br>tanto le loro maniere sono scimmiesche. |
-| LEAR | Da quando hai preso l'abitudine d'essere così pieno di [[songs|canzoni]], briccone? |
-| *(didascalia)* | [[Fool|FOOL]] Ci ho preso l'abitudine, zietto, da quando hai fatto delle tue figlie le tue madri; ché quando desti loro la verga e ti calasti i calzoni, Canta Allora esse per gioia improvvisa piansero, |
-| LEAR | e io per dolore cantai,<br>che un tale [[King|re]] giocasse a rimpiattino<br>e andasse tra i buffoni.<br>Ti prego, zietto, tieni un maestro che sappia insegnare al tuo [[Fool|buffone]] a mentire. Vorrei tanto imparare a mentire. |
+| LEAR | Da quando hai preso l'abitudine d'essere così pieno di [[songs\|canzoni]], briccone? |
+| *(didascalia)* | [[Fool\|FOOL]] Ci ho preso l'abitudine, zietto, da quando hai fatto delle tue figlie le tue madri; ché quando desti loro la verga e ti calasti i calzoni, Canta Allora esse per gioia improvvisa piansero, |
+| LEAR | e io per dolore cantai,<br>che un tale [[King\|re]] giocasse a rimpiattino<br>e andasse tra i buffoni.<br>Ti prego, zietto, tieni un maestro che sappia insegnare al tuo [[Fool\|buffone]] a mentire. Vorrei tanto imparare a mentire. |
 | LEAR | E se menti, briccone, ti faremo frustare. |
-| [[Fool|FOOL]] | Mi meraviglio di che parentela siate tu e le tue figlie. Loro mi faranno frustare perché dico il vero, tu mi farai frustare perché mento, e talvolta son frustato perché me ne sto zitto. Preferirei essere qualsiasi altra cosa che un [[Fool|buffone]]; eppure non vorrei essere te, zietto. T'sei sbucciato l'ingegno da tutt'e due i lati e non hai lasciato nulla in mezzo. |
+| [[Fool\|FOOL]] | Mi meraviglio di che parentela siate tu e le tue figlie. Loro mi faranno frustare perché dico il vero, tu mi farai frustare perché mento, e talvolta son frustato perché me ne sto zitto. Preferirei essere qualsiasi altra cosa che un [[Fool\|buffone]]; eppure non vorrei essere te, zietto. T'sei sbucciato l'ingegno da tutt'e due i lati e non hai lasciato nulla in mezzo. |
 | *(didascalia)* | Entra [[Goneril]] |
-| [[Fool|FOOL]] | Ecco che viene una delle bucce. |
+| [[Fool\|FOOL]] | Ecco che viene una delle bucce. |
 | LEAR | Ebbene, figlia? Che ci fa quella benda in fronte?<br>Siete troppo spesso, di recente, accigliata. |
-| *(didascalia)* | [[Fool|FOOL]] Eri un bel tipo quando non avevi bisogno di curarti del suo cipiglio. Ora sei uno zero senza cifra. Io valgo più di te, adesso. Io sono un [[Fool|buffone]]; tu non sei nulla. A [[Goneril]] Sì, in fede mia, terrò a freno la lingua; così m'ordina la vostra faccia, benché non diciate nulla. |
+| *(didascalia)* | [[Fool\|FOOL]] Eri un bel tipo quando non avevi bisogno di curarti del suo cipiglio. Ora sei uno zero senza cifra. Io valgo più di te, adesso. Io sono un [[Fool\|buffone]]; tu non sei nulla. A [[Goneril]] Sì, in fede mia, terrò a freno la lingua; così m'ordina la vostra faccia, benché non diciate nulla. |
 | *(didascalia)* | Canta Mum, mum. |
 | LEAR | Chi non serba né crosta né mollica,<br>stanco di tutto, ne sentirà mancanza.<br>Quello è un baccello sgusciato. |
-| [[Goneril|GONERIL]] | (a Lear)<br>Non solo, signore, questo vostro [[Fool|buffone]] a cui tutto è permesso,<br>ma altri del vostro insolente seguito<br>ogni ora cavillano e litigano, prorompendo<br>in risse volgari e non tollerabili. Signore,<br>credevo che, facendovi ciò [[Well|ben]] noto,<br>avrei trovato sicuro rimedio, ma ora m'impaurisco,<br>per quel che voi stesso troppo tardi avete detto e fatto,<br>che proteggiate questo andazzo e lo incoraggiate<br>col vostro assenso; il che, se fosse, la colpa<br>non sfuggirebbe al biasimo, né [[Sleep|dormirebbero]] i rimedi<br>che, nella cura d'un sano bene comune,<br>potrebbero nel loro operare recarvi quell'offesa<br>che altrimenti sarebbe vergogna, e che allora la necessità<br>chiamerà discreto procedere. |
-| [[Fool|FOOL]] | (a Lear) Perché, sai, zietto, |
+| [[Goneril\|GONERIL]] | (a Lear)<br>Non solo, signore, questo vostro [[Fool\|buffone]] a cui tutto è permesso,<br>ma altri del vostro insolente seguito<br>ogni ora cavillano e litigano, prorompendo<br>in risse volgari e non tollerabili. Signore,<br>credevo che, facendovi ciò [[Well\|ben]] noto,<br>avrei trovato sicuro rimedio, ma ora m'impaurisco,<br>per quel che voi stesso troppo tardi avete detto e fatto,<br>che proteggiate questo andazzo e lo incoraggiate<br>col vostro assenso; il che, se fosse, la colpa<br>non sfuggirebbe al biasimo, né [[Sleep\|dormirebbero]] i rimedi<br>che, nella cura d'un sano bene comune,<br>potrebbero nel loro operare recarvi quell'offesa<br>che altrimenti sarebbe vergogna, e che allora la necessità<br>chiamerà discreto procedere. |
+| [[Fool\|FOOL]] | (a Lear) Perché, sai, zietto, |
 | *(didascalia)* | Canta La passera di siepe nutrì tanto a lungo il cuculo |
-| [[Fool|FOOL]] | che se n'ebbe la testa mozzata dal suo piccolo;<br>e così si spense la candela, e restammo al buio. |
+| [[Fool\|FOOL]] | che se n'ebbe la testa mozzata dal suo piccolo;<br>e così si spense la candela, e restammo al buio. |
 | LEAR | (a [[Goneril]]) Siete voi nostra figlia? |
-| [[Goneril|GONERIL]] | Vorrei che faceste uso della vostra buona saggezza,<br>di cui so che siete ricolmo, e metteste da parte<br>queste disposizioni che di recente vi trasportano<br>lontano da ciò che rettamente siete. |
-| *(didascalia)* | [[Fool|FOOL]] Non s'accorge un asino quando il carro tira il [[Horse|cavallo]]? Canta 'Uh, brocca, io ti [[Love|amo]]!' |
+| [[Goneril\|GONERIL]] | Vorrei che faceste uso della vostra buona saggezza,<br>di cui so che siete ricolmo, e metteste da parte<br>queste disposizioni che di recente vi trasportano<br>lontano da ciò che rettamente siete. |
+| *(didascalia)* | [[Fool\|FOOL]] Non s'accorge un asino quando il carro tira il [[Horse\|cavallo]]? Canta 'Uh, brocca, io ti [[Love\|amo]]!' |
 | LEAR | Qualcuno qui mi conosce? Questo non è Lear.<br>Cammina così Lear, parla così? Dove sono i suoi occhi?<br>O la sua mente s'indebolisce, o i suoi discernimenti<br>sono letargici—ah, sveglio? Non è così.<br>Chi è che sa dirmi chi sono io? |
-| [[Fool|FOOL]] | L'[[Shadow|ombra]] di Lear. |
+| [[Fool\|FOOL]] | L'[[Shadow\|ombra]] di Lear. |
 | LEAR | (a [[Goneril]]) Il vostro nome, bella gentildonna? |
-| [[Goneril|GONERIL]] | Questa meraviglia, signore, sa molto del sapore<br>delle vostre altre nuove stravaganze. Vi supplico<br>d'intendere rettamente i miei propositi:<br>poiché siete vecchio e venerando, dovreste esser saggio.<br>Qui voi tenete cento cavalieri e scudieri,<br>uomini così sregolati, così dissoluti e sfrontati<br>che questa nostra [[Court|corte]], infettata dai loro costumi,<br>pare una locanda di baldoria. La gozzoviglia e la lussuria<br>la fanno più simile a una taverna o a un bordello<br>che a un palazzo di grazia. La vergogna stessa reclama<br>immediato rimedio. Siate dunque pregato,<br>da colei che altrimenti prenderà ciò che chiede,<br>di sfoltire un poco il vostro seguito,<br>e che quelli che ancora dipenderanno da voi<br>siano uomini quali convengono alla vostra età,<br>e che conoscano se stessi e voi. |
+| [[Goneril\|GONERIL]] | Questa meraviglia, signore, sa molto del sapore<br>delle vostre altre nuove stravaganze. Vi supplico<br>d'intendere rettamente i miei propositi:<br>poiché siete vecchio e venerando, dovreste esser saggio.<br>Qui voi tenete cento cavalieri e scudieri,<br>uomini così sregolati, così dissoluti e sfrontati<br>che questa nostra [[Court\|corte]], infettata dai loro costumi,<br>pare una locanda di baldoria. La gozzoviglia e la lussuria<br>la fanno più simile a una taverna o a un bordello<br>che a un palazzo di grazia. La vergogna stessa reclama<br>immediato rimedio. Siate dunque pregato,<br>da colei che altrimenti prenderà ciò che chiede,<br>di sfoltire un poco il vostro seguito,<br>e che quelli che ancora dipenderanno da voi<br>siano uomini quali convengono alla vostra età,<br>e che conoscano se stessi e voi. |
 | LEAR | Tenebre e diavoli!<br>Sellate i miei cavalli, radunate il mio seguito!— |
 | *(didascalia)* | Esce uno o più |
 | LEAR | Degenere bastarda, non ti darò più noia.<br>Mi resta ancora una figlia. |
-| [[Goneril|GONERIL]] | Voi percuotete la mia gente, e la vostra sregolata marmaglia<br>fa servi dei propri superiori. |
+| [[Goneril\|GONERIL]] | Voi percuotete la mia gente, e la vostra sregolata marmaglia<br>fa servi dei propri superiori. |
 | *(didascalia)* | Entra il duca d'Albany |
 | LEAR | Guai a chi si pente troppo tardi!<br>È vostra volontà? Parlate, signore.—Preparate i miei cavalli. |
 | *(didascalia)* | Esce uno o più |
-| LEAR | Ingratitudine, demone dal cuore di marmo,<br>più orrenda quando ti mostri in un [[Child|figlio]]<br>che il [[Monster|mostro]] marino— |
+| LEAR | Ingratitudine, demone dal cuore di marmo,<br>più orrenda quando ti mostri in un [[Child\|figlio]]<br>che il [[Monster\|mostro]] marino— |
 | ALBANY | Vi prego, signore, siate paziente. |
-| LEAR | (a [[Goneril]]) Detestabile nibbio, tu menti.<br>Il mio seguito è d'uomini scelti e di rarissime doti,<br>che conoscono ogni particolare del dovere,<br>e con la più esatta cura sostengono<br>gli onori del proprio nome. Oh piccolissima colpa,<br>quanto brutta apparisti in [[Cordelia]],<br>che, come una leva, divelse la mia struttura di [[Nature|natura]]<br>dal posto fisso, trasse dal mio cuore ogni [[Love|amore]],<br>e v'aggiunse il fiele! Oh Lear, Lear, Lear!<br>Batti a questa porta che lasciò entrare la tua follia<br>e uscire il tuo caro giudizio.—Andate, andate, gente mia! |
+| LEAR | (a [[Goneril]]) Detestabile nibbio, tu menti.<br>Il mio seguito è d'uomini scelti e di rarissime doti,<br>che conoscono ogni particolare del dovere,<br>e con la più esatta cura sostengono<br>gli onori del proprio nome. Oh piccolissima colpa,<br>quanto brutta apparisti in [[Cordelia]],<br>che, come una leva, divelse la mia struttura di [[Nature\|natura]]<br>dal posto fisso, trasse dal mio cuore ogni [[Love\|amore]],<br>e v'aggiunse il fiele! Oh Lear, Lear, Lear!<br>Batti a questa porta che lasciò entrare la tua follia<br>e uscire il tuo caro giudizio.—Andate, andate, gente mia! |
 | ALBANY | Mio signore, sono innocente, come sono ignaro<br>di ciò che v'ha commosso. |
-| LEAR | Può essere, mio signore.<br>Odi, [[Nature|natura]]; odi, cara dea, odi:<br>sospendi il tuo proposito, se intendevi<br>far feconda questa creatura.<br>Nel suo grembo trasporta sterilità.<br>Dissecca in lei gli organi della generazione,<br>e dal suo degradato [[Body|corpo]] mai non [[spring|sbocci]]<br>un bimbo che le faccia [[Honour|onore]]. Se deve figliare,<br>creale un [[Child|figlio]] di bile, che viva<br>e le sia molesto e snaturato tormento.<br>Che le stampi rughe sulla giovane fronte,<br>con [[Tears|lacrime]] cadenti le scavi solchi nelle guance,<br>volga tutte le pene e i benefici di madre<br>in riso e disprezzo, sì ch'ella senta—<br>sì ch'ella senta<br>quanto più acuto del dente d'un serpente sia<br>avere un [[Child|figlio]] ingrato. Via, via! |
+| LEAR | Può essere, mio signore.<br>Odi, [[Nature\|natura]]; odi, cara dea, odi:<br>sospendi il tuo proposito, se intendevi<br>far feconda questa creatura.<br>Nel suo grembo trasporta sterilità.<br>Dissecca in lei gli organi della generazione,<br>e dal suo degradato [[Body\|corpo]] mai non [[spring\|sbocci]]<br>un bimbo che le faccia [[Honour\|onore]]. Se deve figliare,<br>creale un [[Child\|figlio]] di bile, che viva<br>e le sia molesto e snaturato tormento.<br>Che le stampi rughe sulla giovane fronte,<br>con [[Tears\|lacrime]] cadenti le scavi solchi nelle guance,<br>volga tutte le pene e i benefici di madre<br>in riso e disprezzo, sì ch'ella senta—<br>sì ch'ella senta<br>quanto più acuto del dente d'un serpente sia<br>avere un [[Child\|figlio]] ingrato. Via, via! |
 | *(didascalia)* | Escono Lear, [[Kent]] e il seguito |
 | ALBANY | Ora, dèi che adoriamo, donde viene questo? |
-| [[Goneril|GONERIL]] | Non affliggetevi mai di saperne di più,<br>ma lasciate che la sua indole abbia quello spazio<br>che il rimbambimento le dà. |
+| [[Goneril\|GONERIL]] | Non affliggetevi mai di saperne di più,<br>ma lasciate che la sua indole abbia quello spazio<br>che il rimbambimento le dà. |
 | *(didascalia)* | Entra [[King Lear]] |
 | LEAR | Come, cinquanta dei miei seguaci in un colpo? |
 | *(didascalia)* | In quindici giorni? |
 | ALBANY | Che c'è, signore? |
-| LEAR | Te lo dirò. (A [[Goneril]]) Vita e [[Death|morte]]! Mi vergogno<br>che tu abbia il potere di scuotere così la mia virilità,<br>che queste calde [[Tears|lacrime]], che per forza mi sgorgano,<br>debbano renderti degna di esse. Raffiche e nebbie su<br>di te!<br>Le insondabili ferite della maledizione d'un padre<br>trafiggano ogni tuo senso! Vecchi occhi insensati,<br>se piangerete ancora per questa causa vi strapperò<br>e vi getterò, con le acque che spandete,<br>a impastare argilla. Ah! E sia così.<br>Ho un'altra figlia<br>che, ne son certo, è gentile e consolatrice.<br>Quando saprà questo di te, con le unghie<br>ti scorticherà quel muso di lupa. Troverai<br>che riprenderò la forma che tu credi<br>ch'io abbia deposto per sempre. |
+| LEAR | Te lo dirò. (A [[Goneril]]) Vita e [[Death\|morte]]! Mi vergogno<br>che tu abbia il potere di scuotere così la mia virilità,<br>che queste calde [[Tears\|lacrime]], che per forza mi sgorgano,<br>debbano renderti degna di esse. Raffiche e nebbie su<br>di te!<br>Le insondabili ferite della maledizione d'un padre<br>trafiggano ogni tuo senso! Vecchi occhi insensati,<br>se piangerete ancora per questa causa vi strapperò<br>e vi getterò, con le acque che spandete,<br>a impastare argilla. Ah! E sia così.<br>Ho un'altra figlia<br>che, ne son certo, è gentile e consolatrice.<br>Quando saprà questo di te, con le unghie<br>ti scorticherà quel muso di lupa. Troverai<br>che riprenderò la forma che tu credi<br>ch'io abbia deposto per sempre. |
 | *(didascalia)* | Esce |
-| [[Goneril|GONERIL]] | Notate questo? |
-| ALBANY | Non posso essere così parziale, [[Goneril]],<br>al grande [[Love|amore]] che vi porto— |
-| [[Goneril|GONERIL]] | Vi prego, calmatevi. Olà, Oswald!—<br>Voi, signore, più furfante che [[Fool|buffone]], dietro al vostro padrone. |
-| [[Fool|FOOL]] | Zietto Lear, zietto Lear,<br>fèrmati, prendi con te il [[Fool|buffone]].<br>Una volpe, quando l'hai catturata,<br>e una figlia siffatta,<br>dovrebbero certo andare al macello,<br>se il mio berretto comprasse un capestro.<br>Così il [[Fool|buffone]] vien dietro. Esce |
-| [[Goneril|GONERIL]] | Quest'uomo ha avuto un buon consiglio—cento<br>cavalieri?<br>È politico e sicuro lasciargli tenere<br>pronti cento cavalieri, sì, perché a ogni sogno,<br>a ogni ronzio, ogni ghiribizzo, ogni lagnanza, ogni disgusto,<br>possa munire il suo rimbambimento delle loro forze<br>e tenere le nostre vite in sua [[Mercy|mercé]].—Oswald, dico! |
-| ALBANY | [[Well|Bene]], potreste [[Fear|temere]] troppo. |
-| [[Goneril|GONERIL]] | Più sicuro che fidarsi troppo.<br>Ch'io possa sempre togliere i danni che [[Fear|temo]],<br>non [[Fear|temere]] sempre d'esserne colta. Conosco il suo cuore.<br>Ciò che ha proferito l'ho scritto a mia sorella.<br>Se lo sostiene con i suoi cento cavalieri<br>quando le avrò mostrato la sconvenienza— |
+| [[Goneril\|GONERIL]] | Notate questo? |
+| ALBANY | Non posso essere così parziale, [[Goneril]],<br>al grande [[Love\|amore]] che vi porto— |
+| [[Goneril\|GONERIL]] | Vi prego, calmatevi. Olà, Oswald!—<br>Voi, signore, più furfante che [[Fool\|buffone]], dietro al vostro padrone. |
+| [[Fool\|FOOL]] | Zietto Lear, zietto Lear,<br>fèrmati, prendi con te il [[Fool\|buffone]].<br>Una volpe, quando l'hai catturata,<br>e una figlia siffatta,<br>dovrebbero certo andare al macello,<br>se il mio berretto comprasse un capestro.<br>Così il [[Fool\|buffone]] vien dietro. Esce |
+| [[Goneril\|GONERIL]] | Quest'uomo ha avuto un buon consiglio—cento<br>cavalieri?<br>È politico e sicuro lasciargli tenere<br>pronti cento cavalieri, sì, perché a ogni sogno,<br>a ogni ronzio, ogni ghiribizzo, ogni lagnanza, ogni disgusto,<br>possa munire il suo rimbambimento delle loro forze<br>e tenere le nostre vite in sua [[Mercy\|mercé]].—Oswald, dico! |
+| ALBANY | [[Well\|Bene]], potreste [[Fear\|temere]] troppo. |
+| [[Goneril\|GONERIL]] | Più sicuro che fidarsi troppo.<br>Ch'io possa sempre togliere i danni che [[Fear\|temo]],<br>non [[Fear\|temere]] sempre d'esserne colta. Conosco il suo cuore.<br>Ciò che ha proferito l'ho scritto a mia sorella.<br>Se lo sostiene con i suoi cento cavalieri<br>quando le avrò mostrato la sconvenienza— |
 | *(didascalia)* | Entra Oswald il maggiordomo |
-| [[Goneril|GONERIL]] | Ebbene, Oswald?<br>Avete scritto quella lettera a mia sorella? |
+| [[Goneril\|GONERIL]] | Ebbene, Oswald?<br>Avete scritto quella lettera a mia sorella? |
 | OSWALD | Sì, madama. |
-| [[Goneril|GONERIL]] | Prendete con voi qualche compagnia, e via a [[Horse|cavallo]].<br>Informatela per intero del mio particolare [[Fear|timore]],<br>e aggiungetevi quelle ragioni vostre<br>che possano rafforzarlo. Andatevene,<br>e affrettate il ritorno. |
+| [[Goneril\|GONERIL]] | Prendete con voi qualche compagnia, e via a [[Horse\|cavallo]].<br>Informatela per intero del mio particolare [[Fear\|timore]],<br>e aggiungetevi quelle ragioni vostre<br>che possano rafforzarlo. Andatevene,<br>e affrettate il ritorno. |
 | *(didascalia)* | Esce Oswald |
-| [[Goneril|GONERIL]] | No, no, mio signore,<br>questa vostra lattea mitezza e questo vostro modo,<br>benché io non li condanni, pure, con vostra licenza,<br>siete assai più ripreso per mancanza di saggezza<br>che lodato per dannosa dolcezza. |
-| ALBANY | Fin dove i vostri occhi arrivino non so dire.<br>Volendo migliorare, spesso guastiamo ciò che sta [[Well|bene]]. |
-| [[Goneril|GONERIL]] | Ma allora— |
-| ALBANY | [[Well|Bene]], [[Well|bene]], l'esito. |
+| [[Goneril\|GONERIL]] | No, no, mio signore,<br>questa vostra lattea mitezza e questo vostro modo,<br>benché io non li condanni, pure, con vostra licenza,<br>siete assai più ripreso per mancanza di saggezza<br>che lodato per dannosa dolcezza. |
+| ALBANY | Fin dove i vostri occhi arrivino non so dire.<br>Volendo migliorare, spesso guastiamo ciò che sta [[Well\|bene]]. |
+| [[Goneril\|GONERIL]] | Ma allora— |
+| ALBANY | [[Well\|Bene]], [[Well\|bene]], l'esito. |
 | *(didascalia)* | Escono |
 
 
@@ -2111,40 +2111,40 @@ The [[Tragedy]] of [[King Lear]]
 
 | Chi parla | Battuta |
 |---|---|
-| *(didascalia)* | Entrano [[King Lear]], il conte di [[Kent]] travestito, il Primo Gentiluomo, e il [[Fool|Buffone]] di Lear |
+| *(didascalia)* | Entrano [[King Lear]], il conte di [[Kent]] travestito, il Primo Gentiluomo, e il [[Fool\|Buffone]] di Lear |
 | *(didascalia)* | LEAR al |
 | *(didascalia)* | Gentiluomo, dandogli una lettera Andate voi avanti a [[Gloucester]] con queste lettere. Esce il Gentiluomo A [[Kent]], dandogli una lettera Non informate mia figlia di nulla di quel che sapete oltre a ciò che le sue domande ricavano dalla lettera. Se la vostra diligenza non sarà rapida, sarò là prima di voi. |
-| [[Kent|KENT]] | Non [[Sleep|dormirò]], mio signore, finché non avrò consegnato la vostra lettera. Esce |
-| [[Fool|FOOL]] | Se il cervello d'un uomo gli stesse nei calcagni, non correrebbe rischio di geloni? |
+| [[Kent\|KENT]] | Non [[Sleep\|dormirò]], mio signore, finché non avrò consegnato la vostra lettera. Esce |
+| [[Fool\|FOOL]] | Se il cervello d'un uomo gli stesse nei calcagni, non correrebbe rischio di geloni? |
 | LEAR | Sì, ragazzo. |
-| [[Fool|FOOL]] | Allora, ti prego, sta' allegro: il tuo ingegno non andrà in pantofole. |
+| [[Fool\|FOOL]] | Allora, ti prego, sta' allegro: il tuo ingegno non andrà in pantofole. |
 | LEAR | Ah, ah, ah! |
-| [[Fool|FOOL]] | Vedrai che l'altra tua figlia ti tratterà gentilmente, ché, benché somigli a questa come una mela selvatica somiglia a una mela, pure io so quel che so. |
+| [[Fool\|FOOL]] | Vedrai che l'altra tua figlia ti tratterà gentilmente, ché, benché somigli a questa come una mela selvatica somiglia a una mela, pure io so quel che so. |
 | LEAR | Che sai dirmi, ragazzo? |
-| [[Fool|FOOL]] | Avrà lo stesso sapore di questa, come una mela selvatica d'un'altra mela selvatica. Sai dirmi perché il naso sta in mezzo alla faccia? |
+| [[Fool\|FOOL]] | Avrà lo stesso sapore di questa, come una mela selvatica d'un'altra mela selvatica. Sai dirmi perché il naso sta in mezzo alla faccia? |
 | LEAR | No. |
-| [[Fool|FOOL]] | Ma per tenere gli occhi ai due lati del naso, sicché quel che un uomo non può fiutare, lo possa spiare. |
+| [[Fool\|FOOL]] | Ma per tenere gli occhi ai due lati del naso, sicché quel che un uomo non può fiutare, lo possa spiare. |
 | LEAR | Le ho fatto torto. |
-| [[Fool|FOOL]] | Sai dirmi come fa l'ostrica il suo guscio? |
+| [[Fool\|FOOL]] | Sai dirmi come fa l'ostrica il suo guscio? |
 | LEAR | No. |
-| [[Fool|FOOL]] | Neppure io; ma so dirti perché la lumaca ha una [[house|casa]]. |
+| [[Fool\|FOOL]] | Neppure io; ma so dirti perché la lumaca ha una [[house\|casa]]. |
 | LEAR | Perché? |
-| [[Fool|FOOL]] | Ma per metterci dentro la testa, non per darla via alle sue figlie e lasciare le corna senza custodia. |
-| LEAR | Dimenticherò la mia [[Nature|natura]]. Un padre così buono!<br>Sono pronti i miei cavalli? |
-| [[Fool|FOOL]] | I tuoi asini sono andati a occuparsene. La ragione per cui le sette [[Stars|stelle]] non sono più di sette è una graziosa ragione. |
+| [[Fool\|FOOL]] | Ma per metterci dentro la testa, non per darla via alle sue figlie e lasciare le corna senza custodia. |
+| LEAR | Dimenticherò la mia [[Nature\|natura]]. Un padre così buono!<br>Sono pronti i miei cavalli? |
+| [[Fool\|FOOL]] | I tuoi asini sono andati a occuparsene. La ragione per cui le sette [[Stars\|stelle]] non sono più di sette è una graziosa ragione. |
 | LEAR | Perché non sono otto. |
-| [[Fool|FOOL]] | Sì, davvero, saresti un buon [[Fool|buffone]]. |
-| LEAR | Riprenderselo a forza—[[Monster|mostro]] d'ingratitudine! |
-| [[Fool|FOOL]] | Se tu fossi il mio [[Fool|buffone]], zietto, ti farei bastonare per esser vecchio prima del tuo [[Time|tempo]]. |
+| [[Fool\|FOOL]] | Sì, davvero, saresti un buon [[Fool\|buffone]]. |
+| LEAR | Riprenderselo a forza—[[Monster\|mostro]] d'ingratitudine! |
+| [[Fool\|FOOL]] | Se tu fossi il mio [[Fool\|buffone]], zietto, ti farei bastonare per esser vecchio prima del tuo [[Time\|tempo]]. |
 | LEAR | E come mai? |
-| [[Fool|FOOL]] | Non dovevi esser vecchio prima d'esser saggio. |
+| [[Fool\|FOOL]] | Non dovevi esser vecchio prima d'esser saggio. |
 | LEAR | Oh, ch'io non impazzisca, non impazzisca, dolce cielo!<br>Tienimi in senno. Non vorrei impazzire. |
 | *(didascalia)* | Entra il Primo Gentiluomo |
 | LEAR | Ebbene, sono pronti i cavalli? |
 | *(didascalia)* | PRIMO GENTILUOMO Pronti, mio signore. |
-| LEAR | (al [[Fool|Buffone]]) Vieni, ragazzo. |
+| LEAR | (al [[Fool\|Buffone]]) Vieni, ragazzo. |
 | *(didascalia)* | Escono Lear e il Gentiluomo |
-| [[Fool|FOOL]] | Colei che ora è vergine, e ride della mia partenza,<br>non resterà vergine a lungo, se le cose non si accorciano. |
+| [[Fool\|FOOL]] | Colei che ora è vergine, e ride della mia partenza,<br>non resterà vergine a lungo, se le cose non si accorciano. |
 | *(didascalia)* | Esce |
 
 
@@ -2215,58 +2215,58 @@ The [[Tragedy]] of [[King Lear]]
 | Chi parla | Battuta |
 |---|---|
 | *(didascalia)* | Entrano Edmond il bastardo, e Curan, separatamente EDMOND Dio ti salvi, Curan. |
-| CURAN | E voi, signore. Sono stato da vostro padre, e gli ho dato avviso che il duca di Cornwall e [[Regan]] sua duchessa saranno qui da lui questa [[Night|notte]]. |
+| CURAN | E voi, signore. Sono stato da vostro padre, e gli ho dato avviso che il duca di Cornwall e [[Regan]] sua duchessa saranno qui da lui questa [[Night\|notte]]. |
 | EDMOND | Come mai? CURAN Ma, non lo so. Avete udito le notizie che corrono?—intendo quelle bisbigliate, ché non sono ancora che discorsi che baciano l'orecchio. |
 | EDMOND | Io no. Vi prego, quali sono? |
 | CURAN | Non avete udito di probabili guerre imminenti tra i duchi di Cornwall e d'Albany? |
 | EDMOND | Non una parola. |
-| CURAN | Potrete udirne a suo [[Time|tempo]]. State [[Well|bene]], signore. |
+| CURAN | Potrete udirne a suo [[Time\|tempo]]. State [[Well\|bene]], signore. |
 | *(didascalia)* | Esce |
 | EDMOND | Il Duca qui stanotte! Tanto meglio, ottimo.<br>Questo s'intesse per forza nel mio disegno. |
-| *(didascalia)* | Entra [[Edgar]] a una [[Window|finestra]] in alto |
+| *(didascalia)* | Entra [[Edgar]] a una [[Window\|finestra]] in alto |
 | EDMOND | Mio padre ha messo guardie per prendere mio fratello,<br>e io ho una cosa d'incerta questione<br>che devo compiere. Prestezza e fortuna, all'opera!—<br>Fratello, una parola, scendi. Fratello, dico. |
 | *(didascalia)* | [[Edgar]] scende |
-| EDMOND | Mio padre veglia. Oh signore, fuggi questo luogo.<br>Hanno dato informazione di dove ti nascondi.<br>Hai ora il buon vantaggio della [[Night|notte]].<br>Non hai parlato contro il duca di Cornwall?<br>Sta venendo qui, ora, nella [[Night|notte]], in fretta,<br>e [[Regan]] con lui. Non hai detto nulla<br>a favore della sua parte contro il duca d'Albany?<br>Ripensaci. |
-| [[Edgar|EDGAR]] | Ne son certo, non una parola. |
-| EDMOND | Sento venire mio padre. Perdonami.<br>Per astuzia devo trarre la [[Sword|spada]] contro di te.<br>Sfodera. Fingi di difenderti. Ora, càvatela [[Well|bene]].<br>(Chiamando) Arrenditi, vieni davanti a mio padre. Luce, olà, qui!<br>(A [[Edgar]]) Fuggi, fratello! (Chiamando) Torce, torce!<br>(A [[Edgar]]) Così, addio. |
+| EDMOND | Mio padre veglia. Oh signore, fuggi questo luogo.<br>Hanno dato informazione di dove ti nascondi.<br>Hai ora il buon vantaggio della [[Night\|notte]].<br>Non hai parlato contro il duca di Cornwall?<br>Sta venendo qui, ora, nella [[Night\|notte]], in fretta,<br>e [[Regan]] con lui. Non hai detto nulla<br>a favore della sua parte contro il duca d'Albany?<br>Ripensaci. |
+| [[Edgar\|EDGAR]] | Ne son certo, non una parola. |
+| EDMOND | Sento venire mio padre. Perdonami.<br>Per astuzia devo trarre la [[Sword\|spada]] contro di te.<br>Sfodera. Fingi di difenderti. Ora, càvatela [[Well\|bene]].<br>(Chiamando) Arrenditi, vieni davanti a mio padre. Luce, olà, qui!<br>(A [[Edgar]]) Fuggi, fratello! (Chiamando) Torce, torce!<br>(A [[Edgar]]) Così, addio. |
 | *(didascalia)* | Esce [[Edgar]] |
-| EDMOND | Un po' di [[Blood|sangue]] versato su di me farebbe credere<br>a uno sforzo più accanito.<br>Si ferisce il braccio<br>Ho visto ubriachi<br>far più di questo per gioco. (Chiamando) Padre, padre!<br>Fermatelo, fermatelo! Olà, aiuto! |
-| *(didascalia)* | Entrano il [[Duke of Gloucester|duca di Gloucester]], e servi con torce |
-| [[Gloucester|GLOUCESTER]] | Ora, Edmond, dov'è lo [[Villain|scellerato]]? |
-| EDMOND | Qui stava, nel buio, la sua acuta [[Sword|spada]] sguainata,<br>borbottando malvagi incantesimi, scongiurando la [[Moon|luna]]<br>d'essergli propizia signora. |
-| [[Gloucester|GLOUCESTER]] | Ma dov'è? |
+| EDMOND | Un po' di [[Blood\|sangue]] versato su di me farebbe credere<br>a uno sforzo più accanito.<br>Si ferisce il braccio<br>Ho visto ubriachi<br>far più di questo per gioco. (Chiamando) Padre, padre!<br>Fermatelo, fermatelo! Olà, aiuto! |
+| *(didascalia)* | Entrano il [[Duke of Gloucester\|duca di Gloucester]], e servi con torce |
+| [[Gloucester\|GLOUCESTER]] | Ora, Edmond, dov'è lo [[Villain\|scellerato]]? |
+| EDMOND | Qui stava, nel buio, la sua acuta [[Sword\|spada]] sguainata,<br>borbottando malvagi incantesimi, scongiurando la [[Moon\|luna]]<br>d'essergli propizia signora. |
+| [[Gloucester\|GLOUCESTER]] | Ma dov'è? |
 | EDMOND | Guardate, signore, sanguino. |
-| [[Gloucester|GLOUCESTER]] | Dov'è lo [[Villain|scellerato]], Edmond? |
+| [[Gloucester\|GLOUCESTER]] | Dov'è lo [[Villain\|scellerato]], Edmond? |
 | EDMOND | Fuggito per di qua, signore, quando in nessun modo poté— |
-| [[Gloucester|GLOUCESTER]] | Inseguitelo, olà! Andategli dietro. |
+| [[Gloucester\|GLOUCESTER]] | Inseguitelo, olà! Andategli dietro. |
 | *(didascalia)* | Escono i servi |
-| [[Gloucester|GLOUCESTER]] | In nessun modo che cosa? |
-| EDMOND | Persuadermi all'assassinio di vostra signoria,<br>ma io gli dissi che gli dèi vendicatori<br>contro i parricidi piegano tutto il loro tuono,<br>gli dissi con quale molteplice e forte vincolo<br>il [[Child|figlio]] è legato al padre. Signore, insomma,<br>vedendo con quanto ribrezzo io m'opponevo<br>al suo snaturato proposito, con feroce slancio<br>con la [[Sword|spada]] già pronta egli assalta a [[Home|fondo]]<br>il mio [[Body|corpo]] indifeso, e mi coglie il braccio;<br>e quando vide i miei spiriti destati al meglio<br>arditi nel diritto della contesa, eccitati allo scontro,<br>o forse atterrito dal rumore che feci,<br>improvvisissimamente fuggì. |
-| [[Gloucester|GLOUCESTER]] | Fugga pur lontano,<br>in questa terra non resterà non catturato,<br>e trovato, sia ucciso. Il nobile Duca mio signore,<br>mio degno capo e patrono, viene stanotte.<br>Con la sua autorità proclamerò<br>che chi lo trovi meriterà i nostri ringraziamenti,<br>portando al palo l'assassino codardo;<br>chi lo nasconda, la [[Death|morte]]. |
-| EDMOND | Quando lo dissuadevo dal suo intento<br>e lo trovai deciso a compierlo, con aspre parole<br>minacciai di denunciarlo. Egli rispose:<br>'Tu bastardo senza beni, credi tu<br>che, se io mi levassi contro di te, il riporre<br>in te fiducia, virtù o valore alcuno<br>farebbe prestar fede alle tue parole? No, ciò che negassi—<br>e questo negherei, sì, anche se tu producessi<br>la mia stessa scrittura—io lo volgerei tutto<br>alla tua istigazione, al tuo intrigo, alla tua dannata trama,<br>e dovresti fare del mondo un allocco<br>se non pensasse che i profitti della mia [[Death|morte]]<br>fossero spiriti assai gravidi e potenti<br>a spingerti a cercarla.' |
-| [[Gloucester|GLOUCESTER]] | Oh strano e indurito [[Villain|scellerato]]!<br>Negherebbe la sua lettera, ha detto? |
+| [[Gloucester\|GLOUCESTER]] | In nessun modo che cosa? |
+| EDMOND | Persuadermi all'assassinio di vostra signoria,<br>ma io gli dissi che gli dèi vendicatori<br>contro i parricidi piegano tutto il loro tuono,<br>gli dissi con quale molteplice e forte vincolo<br>il [[Child\|figlio]] è legato al padre. Signore, insomma,<br>vedendo con quanto ribrezzo io m'opponevo<br>al suo snaturato proposito, con feroce slancio<br>con la [[Sword\|spada]] già pronta egli assalta a [[Home\|fondo]]<br>il mio [[Body\|corpo]] indifeso, e mi coglie il braccio;<br>e quando vide i miei spiriti destati al meglio<br>arditi nel diritto della contesa, eccitati allo scontro,<br>o forse atterrito dal rumore che feci,<br>improvvisissimamente fuggì. |
+| [[Gloucester\|GLOUCESTER]] | Fugga pur lontano,<br>in questa terra non resterà non catturato,<br>e trovato, sia ucciso. Il nobile Duca mio signore,<br>mio degno capo e patrono, viene stanotte.<br>Con la sua autorità proclamerò<br>che chi lo trovi meriterà i nostri ringraziamenti,<br>portando al palo l'assassino codardo;<br>chi lo nasconda, la [[Death\|morte]]. |
+| EDMOND | Quando lo dissuadevo dal suo intento<br>e lo trovai deciso a compierlo, con aspre parole<br>minacciai di denunciarlo. Egli rispose:<br>'Tu bastardo senza beni, credi tu<br>che, se io mi levassi contro di te, il riporre<br>in te fiducia, virtù o valore alcuno<br>farebbe prestar fede alle tue parole? No, ciò che negassi—<br>e questo negherei, sì, anche se tu producessi<br>la mia stessa scrittura—io lo volgerei tutto<br>alla tua istigazione, al tuo intrigo, alla tua dannata trama,<br>e dovresti fare del mondo un allocco<br>se non pensasse che i profitti della mia [[Death\|morte]]<br>fossero spiriti assai gravidi e potenti<br>a spingerti a cercarla.' |
+| [[Gloucester\|GLOUCESTER]] | Oh strano e indurito [[Villain\|scellerato]]!<br>Negherebbe la sua lettera, ha detto? |
 | *(didascalia)* | Squillo all'interno |
-| [[Gloucester|GLOUCESTER]] | Udite, le trombe del Duca. Non so perché venga.<br>Sbarrerò tutti i porti. Lo [[Villain|scellerato]] non scapperà.<br>Il Duca me lo deve concedere; inoltre, il suo ritratto<br>manderò per ogni dove, sì che tutto il regno<br>ne abbia debita notizia—e delle mie terre,<br>leale e naturale figliolo, troverò il modo<br>di renderti erede. |
+| [[Gloucester\|GLOUCESTER]] | Udite, le trombe del Duca. Non so perché venga.<br>Sbarrerò tutti i porti. Lo [[Villain\|scellerato]] non scapperà.<br>Il Duca me lo deve concedere; inoltre, il suo ritratto<br>manderò per ogni dove, sì che tutto il regno<br>ne abbia debita notizia—e delle mie terre,<br>leale e naturale figliolo, troverò il modo<br>di renderti erede. |
 | *(didascalia)* | Entrano il duca di Cornwall, [[Regan]] e il seguito |
 | CORNWALL | Ebbene, mio nobile amico? Da quando sono giunto qui,<br>che posso dire or ora, ho udito strane notizie. |
-| [[Regan|REGAN]] | Se è vero, ogni vendetta riesce troppo corta<br>per inseguire l'offensore. Come state, mio signore? |
-| [[Gloucester|GLOUCESTER]] | Oh madama, il mio vecchio cuore è spezzato, è spezzato. |
-| [[Regan|REGAN]] | Come, il figlioccio di mio padre attentò alla vostra vita?<br>Colui che mio padre tenne a battesimo, il vostro [[Edgar]]? |
-| [[Gloucester|GLOUCESTER]] | Oh signora, signora, la vergogna vorrebbe nasconderlo! |
-| [[Regan|REGAN]] | Non era compagno dei turbolenti cavalieri<br>che stanno appresso a mio padre? |
-| [[Gloucester|GLOUCESTER]] | Non so, madama. È troppo brutto, troppo brutto. |
+| [[Regan\|REGAN]] | Se è vero, ogni vendetta riesce troppo corta<br>per inseguire l'offensore. Come state, mio signore? |
+| [[Gloucester\|GLOUCESTER]] | Oh madama, il mio vecchio cuore è spezzato, è spezzato. |
+| [[Regan\|REGAN]] | Come, il figlioccio di mio padre attentò alla vostra vita?<br>Colui che mio padre tenne a battesimo, il vostro [[Edgar]]? |
+| [[Gloucester\|GLOUCESTER]] | Oh signora, signora, la vergogna vorrebbe nasconderlo! |
+| [[Regan\|REGAN]] | Non era compagno dei turbolenti cavalieri<br>che stanno appresso a mio padre? |
+| [[Gloucester\|GLOUCESTER]] | Non so, madama. È troppo brutto, troppo brutto. |
 | EDMOND | Sì, madama, era di quella brigata. |
-| [[Regan|REGAN]] | Nessuna meraviglia, dunque, s'era mal disposto.<br>Son loro che l'hanno spinto alla [[Death|morte]] del vecchio,<br>per avere lo scialo e il saccheggio delle sue rendite.<br>Proprio questa sera, da mia sorella,<br>ne sono stata [[Well|bene]] informata, e con tali avvertenze<br>che, se vengono ad alloggiare nella mia [[house|casa]],<br>io non ci sarò. |
+| [[Regan\|REGAN]] | Nessuna meraviglia, dunque, s'era mal disposto.<br>Son loro che l'hanno spinto alla [[Death\|morte]] del vecchio,<br>per avere lo scialo e il saccheggio delle sue rendite.<br>Proprio questa sera, da mia sorella,<br>ne sono stata [[Well\|bene]] informata, e con tali avvertenze<br>che, se vengono ad alloggiare nella mia [[house\|casa]],<br>io non ci sarò. |
 | CORNWALL | Né io, te l'assicuro, [[Regan]]. Edmond, sento che avete reso a vostro padre un ufficio da figlio. |
-| EDMOND | Era mio dovere, signore. [[Gloucester|GLOUCESTER]] (a Cornwall)<br>Egli svelò la sua trama, e ricevette<br>questa ferita che vedete cercando d'arrestarlo. |
+| EDMOND | Era mio dovere, signore. [[Gloucester\|GLOUCESTER]] (a Cornwall)<br>Egli svelò la sua trama, e ricevette<br>questa ferita che vedete cercando d'arrestarlo. |
 | CORNWALL | È inseguito? |
-| [[Gloucester|GLOUCESTER]] | Sì, mio buon signore. |
+| [[Gloucester\|GLOUCESTER]] | Sì, mio buon signore. |
 | CORNWALL | Se è preso, mai più<br>si temerà che faccia del male. Disponete a vostro grado<br>come vi piaccia della mia forza. Quanto a voi, Edmond,<br>la cui virtù e obbedienza in questo istante<br>tanto si raccomandano, sarete dei nostri.<br>Di nature di così profonda fede avremo gran bisogno.<br>Voi per primo prendiamo con noi. |
 | EDMOND | Vi servirò, signore,<br>fedelmente, comunque sia. |
-| [[Gloucester|GLOUCESTER]] | (a Cornwall) Per lui ringrazio vostra grazia. |
+| [[Gloucester\|GLOUCESTER]] | (a Cornwall) Per lui ringrazio vostra grazia. |
 | CORNWALL | Non sapete perché siamo venuti a visitarvi— |
-| [[Regan|REGAN]] | Così fuori stagione, infilando la [[Night|notte]] dagli occhi neri—<br>occasioni, nobile [[Gloucester]], di qualche peso,<br>nelle quali dobbiamo far uso del vostro consiglio.<br>Nostro padre ha scritto, e così nostra sorella,<br>di discordie a cui meno che mai credetti conveniente<br>rispondere dalla nostra [[Home|casa]]. I diversi messaggeri<br>attendono qui d'esser licenziati. Nostro buon vecchio amico,<br>date conforto al vostro petto, e concedete<br>il vostro necessario consiglio ai nostri affari,<br>che chiedono uso immediato. |
-| [[Gloucester|GLOUCESTER]] | Vi servo, madama.<br>Le vostre grazie sono le benvenute. |
+| [[Regan\|REGAN]] | Così fuori stagione, infilando la [[Night\|notte]] dagli occhi neri—<br>occasioni, nobile [[Gloucester]], di qualche peso,<br>nelle quali dobbiamo far uso del vostro consiglio.<br>Nostro padre ha scritto, e così nostra sorella,<br>di discordie a cui meno che mai credetti conveniente<br>rispondere dalla nostra [[Home\|casa]]. I diversi messaggeri<br>attendono qui d'esser licenziati. Nostro buon vecchio amico,<br>date conforto al vostro petto, e concedete<br>il vostro necessario consiglio ai nostri affari,<br>che chiedono uso immediato. |
+| [[Gloucester\|GLOUCESTER]] | Vi servo, madama.<br>Le vostre grazie sono le benvenute. |
 | *(didascalia)* | Squilli. Escono |
 
 
@@ -2477,199 +2477,199 @@ The [[Tragedy]] of [[King Lear]]
 | Chi parla | Battuta |
 |---|---|
 | *(didascalia)* | Entrano il conte di [[Kent]], travestito, e Oswald il maggiordomo, separatamente |
-| OSWALD | Buon'alba a te, amico. Sei di questa [[house|casa]]? [[Kent|KENT]] Sì. |
+| OSWALD | Buon'alba a te, amico. Sei di questa [[house\|casa]]? [[Kent\|KENT]] Sì. |
 | OSWALD | Dove possiamo mettere i nostri cavalli? |
-| [[Kent|KENT]] | Nel fango. |
-| OSWALD | Ti prego, se mi vuoi bene, dimmelo. 5 [[Kent|KENT]] Non ti [[Love|amo]]. |
+| [[Kent\|KENT]] | Nel fango. |
+| OSWALD | Ti prego, se mi vuoi bene, dimmelo. 5 [[Kent\|KENT]] Non ti [[Love\|amo]]. |
 | OSWALD | E allora non m'importa nulla di te. |
-| [[Kent|KENT]] | Se t'avessi nel recinto di Lipsbury ti farei importare di me. |
+| [[Kent\|KENT]] | Se t'avessi nel recinto di Lipsbury ti farei importare di me. |
 | OSWALD | Perché mi tratti così? Non ti conosco. |
-| [[Kent|KENT]] | Amico, io ti conosco. |
+| [[Kent\|KENT]] | Amico, io ti conosco. |
 | OSWALD | Per che cosa mi conosci? |
-| [[Kent|KENT]] | Per un furfante, un mascalzone, un mangiatore d'avanzi; un vile, superbo, vacuo, pezzente furfante da tre vestiti, da cento sterline, dalle sudicie calze di lana; un ribaldo dal fegato di giglio, attaccalite, figlio di puttana, specchiettoso, servizievole all'eccesso, schizzinoso; uno schiavo che eredita un solo baule; uno che si farebbe ruffiano per far buon servizio, e non è altro che il composto di furfante, pezzente, codardo, mezzano, e il figlio ed erede d'una cagna bastarda; uno che bastonerò fino a farlo guaire clamorosamente, se negherà una sola sillaba dei suoi titoli. |
+| [[Kent\|KENT]] | Per un furfante, un mascalzone, un mangiatore d'avanzi; un vile, superbo, vacuo, pezzente furfante da tre vestiti, da cento sterline, dalle sudicie calze di lana; un ribaldo dal fegato di giglio, attaccalite, figlio di puttana, specchiettoso, servizievole all'eccesso, schizzinoso; uno schiavo che eredita un solo baule; uno che si farebbe ruffiano per far buon servizio, e non è altro che il composto di furfante, pezzente, codardo, mezzano, e il figlio ed erede d'una cagna bastarda; uno che bastonerò fino a farlo guaire clamorosamente, se negherà una sola sillaba dei suoi titoli. |
 | OSWALD | Ma che mostruoso individuo sei tu, per inveire così contro uno che non ti conosce né è conosciuto da te! |
-| [[Kent|KENT]] | Che sfacciato ribaldo sei tu, a negare di conoscermi! Son forse due giorni che t'ho fatto lo sgambetto e t'ho bastonato davanti al [[King|Re]]? Sfodera, canaglia; ché, benché sia [[Night|notte]], pure la [[Moon|luna]] splende. |
-| *(didascalia)* | Sguaina la [[Sword|spada]] |
-| [[Kent|KENT]] | Farò di te una zuppa nel chiaro di luna, figlio di puttana, sozzo frequentatore di barbieri, sfodera! |
+| [[Kent\|KENT]] | Che sfacciato ribaldo sei tu, a negare di conoscermi! Son forse due giorni che t'ho fatto lo sgambetto e t'ho bastonato davanti al [[King\|Re]]? Sfodera, canaglia; ché, benché sia [[Night\|notte]], pure la [[Moon\|luna]] splende. |
+| *(didascalia)* | Sguaina la [[Sword\|spada]] |
+| [[Kent\|KENT]] | Farò di te una zuppa nel chiaro di luna, figlio di puttana, sozzo frequentatore di barbieri, sfodera! |
 | OSWALD | Va' via. Non ho nulla a che fare con te. |
-| [[Kent|KENT]] | Sfodera, mascalzone. Vieni con lettere contro il [[King|Re]], e prendi le parti della marionetta [[Vanity|Vanità]] contro la maestà di suo padre. Sfodera, canaglia, o ti carbonizzerò talmente gli stinchi—sfodera, mascalzone, fatti avanti! |
+| [[Kent\|KENT]] | Sfodera, mascalzone. Vieni con lettere contro il [[King\|Re]], e prendi le parti della marionetta [[Vanity\|Vanità]] contro la maestà di suo padre. Sfodera, canaglia, o ti carbonizzerò talmente gli stinchi—sfodera, mascalzone, fatti avanti! |
 | OSWALD | Aiuto, olà, all'assassino, aiuto! |
-| [[Kent|KENT]] | Colpisci, servo! Fèrmati, canaglia! Fèrmati, elegante servo, colpisci! 40 |
+| [[Kent\|KENT]] | Colpisci, servo! Fèrmati, canaglia! Fèrmati, elegante servo, colpisci! 40 |
 | OSWALD | Aiuto, olà, all'assassino, all'assassino! |
 | *(didascalia)* | Entra Edmond il bastardo, poi il duca di |
-| OSWALD | Cornwall, [[Regan]], il [[Duke of Gloucester|duca di Gloucester]], e<br><br>servi |
+| OSWALD | Cornwall, [[Regan]], il [[Duke of Gloucester\|duca di Gloucester]], e<br><br>servi |
 | EDMOND | Ebbene, che succede? Separatevi. |
-| [[Kent|KENT]] | Con voi, bel ragazzo. Se vi piace, venite, vi sbudello. Avanti, giovane padrone. |
-| [[Gloucester|GLOUCESTER]] | Armi? Spade? Che succede qui? |
+| [[Kent\|KENT]] | Con voi, bel ragazzo. Se vi piace, venite, vi sbudello. Avanti, giovane padrone. |
+| [[Gloucester\|GLOUCESTER]] | Armi? Spade? Che succede qui? |
 | CORNWALL | Mantenete la pace, sulla vostra vita. Muore chi colpisce ancora.<br>Che succede? |
-| [[Regan|REGAN]] | I messaggeri di nostra sorella e del [[King|Re]]. CORNWALL (a [[Kent]] e Oswald) Qual è la vostra lite?<br>Parlate. |
+| [[Regan\|REGAN]] | I messaggeri di nostra sorella e del [[King\|Re]]. CORNWALL (a [[Kent]] e Oswald) Qual è la vostra lite?<br>Parlate. |
 | OSWALD | Ho appena fiato, mio signore. |
-| [[Kent|KENT]] | Nessuna meraviglia, avete tanto scomodato il vostro valore, mascalzone codardo. La [[Nature|natura]] ti rinnega; un sarto t'ha fatto. |
+| [[Kent\|KENT]] | Nessuna meraviglia, avete tanto scomodato il vostro valore, mascalzone codardo. La [[Nature\|natura]] ti rinnega; un sarto t'ha fatto. |
 | CORNWALL | Sei uno strano individuo—un sarto fare un uomo? |
-| [[Kent|KENT]] | Un sarto, signore. Uno scalpellino o un pittore non avrebbero potuto farlo così male, foss'anche stato solo due anni nel mestiere. |
+| [[Kent\|KENT]] | Un sarto, signore. Uno scalpellino o un pittore non avrebbero potuto farlo così male, foss'anche stato solo due anni nel mestiere. |
 | CORNWALL | Parla dunque; come nacque la vostra lite? |
 | OSWALD | Questo vecchio ribaldo, signore, di cui ho risparmiato la vita per riguardo alla sua barba grigia— |
-| [[Kent|KENT]] | Tu, figlio di puttana d'una Z, lettera inutile—(a Cornwall) mio signore, se mi date licenza pesterò questo [[Villain|scellerato]] non stacciato fino a farne malta e ne intonacherò il muro d'una latrina. (A Oswald) Risparmiare la mia barba grigia, tu, cutrettola? |
+| [[Kent\|KENT]] | Tu, figlio di puttana d'una Z, lettera inutile—(a Cornwall) mio signore, se mi date licenza pesterò questo [[Villain\|scellerato]] non stacciato fino a farne malta e ne intonacherò il muro d'una latrina. (A Oswald) Risparmiare la mia barba grigia, tu, cutrettola? |
 | CORNWALL | Pace, messere.<br>Bestiale furfante, non conoscete riverenza? |
-| [[Kent|KENT]] | Sì, signore, ma la collera ha un suo privilegio. |
+| [[Kent\|KENT]] | Sì, signore, ma la collera ha un suo privilegio. |
 | CORNWALL | Perché sei in collera? |
-| [[Kent|KENT]] | Che un servo come questo porti una [[Sword|spada]],<br>lui che non porta onestà. Simili sorridenti canaglie,<br>come topi, spesso mordono in due le sacre corde<br>troppo intricate da sciogliere, lisciano ogni<br>passione<br>che nelle nature dei loro signori si [[Rebel|ribella]];<br>essendo olio al [[Fire|fuoco]], [[Snow|neve]] agli umori più freddi,<br>negano, affermano, e volgono i loro becchi d'alcione<br>a ogni bile e mutamento dei loro padroni,<br>nulla sapendo, come [[dogs|cani]], se non seguire. |
+| [[Kent\|KENT]] | Che un servo come questo porti una [[Sword\|spada]],<br>lui che non porta onestà. Simili sorridenti canaglie,<br>come topi, spesso mordono in due le sacre corde<br>troppo intricate da sciogliere, lisciano ogni<br>passione<br>che nelle nature dei loro signori si [[Rebel\|ribella]];<br>essendo olio al [[Fire\|fuoco]], [[Snow\|neve]] agli umori più freddi,<br>negano, affermano, e volgono i loro becchi d'alcione<br>a ogni bile e mutamento dei loro padroni,<br>nulla sapendo, come [[dogs\|cani]], se non seguire. |
 | *(didascalia)* | A Oswald Un accidente al tuo epilettico muso! |
-| [[Kent|KENT]] | Sorridete ai miei discorsi come s'io fossi un [[Fool|buffone]]?<br>Oca, se t'avessi sulla piana di Sarum<br>ti caccerei schiamazzando a [[Home|casa]], fino a Camelot. |
+| [[Kent\|KENT]] | Sorridete ai miei discorsi come s'io fossi un [[Fool\|buffone]]?<br>Oca, se t'avessi sulla piana di Sarum<br>ti caccerei schiamazzando a [[Home\|casa]], fino a Camelot. |
 | CORNWALL | Come, sei pazzo, vecchio? |
-| *(didascalia)* | [[Gloucester|GLOUCESTER]] a [[Kent]] Come veniste ai ferri? Dite questo. |
-| [[Kent|KENT]] | Nessun contrario ha più antipatia di me e d'un simile furfante. |
+| *(didascalia)* | [[Gloucester\|GLOUCESTER]] a [[Kent]] Come veniste ai ferri? Dite questo. |
+| [[Kent\|KENT]] | Nessun contrario ha più antipatia di me e d'un simile furfante. |
 | CORNWALL | Perché lo chiami furfante?<br>Qual è la sua colpa? |
-| [[Kent|KENT]] | Il suo volto non mi piace. |
+| [[Kent\|KENT]] | Il suo volto non mi piace. |
 | CORNWALL | Forse non ti piace nemmeno il mio, né il suo, né quello di lei. |
-| [[Kent|KENT]] | Signore, è mio mestiere essere schietto:<br>ho visto facce migliori al mio [[Time|tempo]]<br>di quante ne stiano su qualunque spalla ch'io veda<br>davanti a me in questo istante. |
-| CORNWALL | Costui è uno di quelli<br>che, essendo stati lodati per la rudezza, affettano<br>una sfacciata ruvidezza, e forzano il proprio contegno<br>del tutto fuori dalla loro [[Nature|natura]]. Lui non sa adulare, lui;<br>mente onesta e schietta, deve dire la [[Truth|verità]].<br>Se l'accettano, bene; se no, lui è schietto.<br>Conosco questa razza di furfanti, che in questa schiettezza<br>nascondono più astuzia e fini più corrotti<br>di venti sciocchi inchinatori ossequiosi<br>che tendono meticolosamente i loro doveri. |
-| [[Kent|KENT]] | Signore, in buona [[Faith|fede]], in sincera verità,<br>sotto il permesso del vostro grande aspetto,<br>il cui influsso, come la corona di raggiante [[Fire|fuoco]]<br>sulla fronte del tremulo Febo— |
+| [[Kent\|KENT]] | Signore, è mio mestiere essere schietto:<br>ho visto facce migliori al mio [[Time\|tempo]]<br>di quante ne stiano su qualunque spalla ch'io veda<br>davanti a me in questo istante. |
+| CORNWALL | Costui è uno di quelli<br>che, essendo stati lodati per la rudezza, affettano<br>una sfacciata ruvidezza, e forzano il proprio contegno<br>del tutto fuori dalla loro [[Nature\|natura]]. Lui non sa adulare, lui;<br>mente onesta e schietta, deve dire la [[Truth\|verità]].<br>Se l'accettano, bene; se no, lui è schietto.<br>Conosco questa razza di furfanti, che in questa schiettezza<br>nascondono più astuzia e fini più corrotti<br>di venti sciocchi inchinatori ossequiosi<br>che tendono meticolosamente i loro doveri. |
+| [[Kent\|KENT]] | Signore, in buona [[Faith\|fede]], in sincera verità,<br>sotto il permesso del vostro grande aspetto,<br>il cui influsso, come la corona di raggiante [[Fire\|fuoco]]<br>sulla fronte del tremulo Febo— |
 | CORNWALL | Che intendi con questo? |
-| [[Kent|KENT]] | Uscire dal mio dialetto, che voi tanto disapprovate. So, signore, di non essere un adulatore. Colui che v'ingannò con accento schietto era uno schietto furfante, il che, per parte mia, non voglio essere, quand'anche dovessi guadagnarmi il vostro dispiacere per esserne pregato. |
+| [[Kent\|KENT]] | Uscire dal mio dialetto, che voi tanto disapprovate. So, signore, di non essere un adulatore. Colui che v'ingannò con accento schietto era uno schietto furfante, il che, per parte mia, non voglio essere, quand'anche dovessi guadagnarmi il vostro dispiacere per esserne pregato. |
 | CORNWALL | (a Oswald)<br>Qual è l'offesa che gli faceste? |
-| OSWALD | Non gliene feci mai alcuna.<br>Piacque al [[King|Re]] suo padrone, non è molto,<br>di colpirmi per un suo fraintendimento,<br>quando costui, d'accordo con lui e lusingandone il dispetto,<br>mi sgambettò alle spalle; e caduto io, m'insultò, inveì,<br>e si diede tanta aria d'uomo<br>che se ne fece merito, ottenne le lodi del [[King|Re]]<br>per aver assalito chi da [[Self|sé]] s'era arreso,<br>e nell'ebbrezza di questa tremenda impresa<br>di nuovo qui ha sfoderato contro di me. |
-| [[Kent|KENT]] | Non c'è canaglia o codardo tra costoro<br>di cui [[Ajax]] non sia lo [[Fool|zimbello]]. |
+| OSWALD | Non gliene feci mai alcuna.<br>Piacque al [[King\|Re]] suo padrone, non è molto,<br>di colpirmi per un suo fraintendimento,<br>quando costui, d'accordo con lui e lusingandone il dispetto,<br>mi sgambettò alle spalle; e caduto io, m'insultò, inveì,<br>e si diede tanta aria d'uomo<br>che se ne fece merito, ottenne le lodi del [[King\|Re]]<br>per aver assalito chi da [[Self\|sé]] s'era arreso,<br>e nell'ebbrezza di questa tremenda impresa<br>di nuovo qui ha sfoderato contro di me. |
+| [[Kent\|KENT]] | Non c'è canaglia o codardo tra costoro<br>di cui [[Ajax]] non sia lo [[Fool\|zimbello]]. |
 | CORNWALL | Portate qua i ceppi! |
 | *(didascalia)* | Escono alcuni servi |
 | CORNWALL | Voi, ostinato vecchio furfante, venerando spaccone,<br>v'insegneremo noi. |
-| [[Kent|KENT]] | Signore, son troppo vecchio per imparare.<br>Non chiamate i vostri ceppi per me. Io servo il [[King|Re]],<br>per incarico del quale fui mandato a voi.<br>Mostrerete poco rispetto, e troppo ardita malizia<br>contro la grazia e la persona del mio padrone,<br>mettendo ai ceppi il suo messaggero. |
+| [[Kent\|KENT]] | Signore, son troppo vecchio per imparare.<br>Non chiamate i vostri ceppi per me. Io servo il [[King\|Re]],<br>per incarico del quale fui mandato a voi.<br>Mostrerete poco rispetto, e troppo ardita malizia<br>contro la grazia e la persona del mio padrone,<br>mettendo ai ceppi il suo messaggero. |
 | *(didascalia)* | CORNWALL chiamando |
-| [[Kent|KENT]] | Portate qua i ceppi!—<br>Com'è vero che ho vita e [[Honour|onore]], là siederà fino a [[Noon|mezzogiorno]]. |
-| [[Regan|REGAN]] | Fino a [[Noon|mezzogiorno]]?—fino a [[Night|notte]], mio signore, e per tutta la [[Night|notte]]. |
-| [[Kent|KENT]] | Ma, madama, se fossi il cane di vostro padre<br>non mi trattereste così. |
-| [[Regan|REGAN]] | Signore, essendo il suo furfante, lo farò.<br>Vengono portati i ceppi |
+| [[Kent\|KENT]] | Portate qua i ceppi!—<br>Com'è vero che ho vita e [[Honour\|onore]], là siederà fino a [[Noon\|mezzogiorno]]. |
+| [[Regan\|REGAN]] | Fino a [[Noon\|mezzogiorno]]?—fino a [[Night\|notte]], mio signore, e per tutta la [[Night\|notte]]. |
+| [[Kent\|KENT]] | Ma, madama, se fossi il cane di vostro padre<br>non mi trattereste così. |
+| [[Regan\|REGAN]] | Signore, essendo il suo furfante, lo farò.<br>Vengono portati i ceppi |
 | CORNWALL | Costui è un tale dello stesso identico colore<br>di cui parla nostra sorella.—Su, portate qua i ceppi. |
-| [[Gloucester|GLOUCESTER]] | Lasciate ch'io supplichi vostra grazia di non far così.<br>Il [[King|Re]] suo padrone non potrà che prenderla male<br>che egli, così poco stimato nel suo messaggero,<br>lo veda a questo modo costretto. |
+| [[Gloucester\|GLOUCESTER]] | Lasciate ch'io supplichi vostra grazia di non far così.<br>Il [[King\|Re]] suo padrone non potrà che prenderla male<br>che egli, così poco stimato nel suo messaggero,<br>lo veda a questo modo costretto. |
 | CORNWALL | Ne risponderò io. |
 | *(didascalia)* | Theg mettono [[Kent]] nei ceppi |
-| [[Regan|REGAN]] | Mia sorella potrebbe prenderla assai peggio<br>a vedere i suoi gentiluomini oltraggiati, assaliti. |
+| [[Regan\|REGAN]] | Mia sorella potrebbe prenderla assai peggio<br>a vedere i suoi gentiluomini oltraggiati, assaliti. |
 | CORNWALL | Venite, mio buon signore, via! |
 | *(didascalia)* | Escono tutti tranne [[Gloucester]] e [[Kent]] |
-| [[Gloucester|GLOUCESTER]] | Mi dispiace per te, amico. È volere del Duca,<br>la cui indole, tutto il mondo [[Well|ben]] sa,<br>non si lascia contrariare né fermare. Intercederò per te. |
-| [[Kent|KENT]] | Vi prego, non fatelo, signore. Ho vegliato e viaggiato duramente.<br>Un po' di [[Time|tempo]] lo [[Sleep|dormirò]] via; il resto lo fischietterò.<br>La fortuna d'un uomo dabbene può logorarsi ai calcagni.<br>Buon giorno a voi. |
-| [[Gloucester|GLOUCESTER]] | Il Duca ha torto in questo; sarà presa male. Esce |
-| [[Kent|KENT]] | Buon [[King|Re]], che devi confermare il detto comune:<br>tu dalla benedizione del cielo passi<br>al sole cocente. |
+| [[Gloucester\|GLOUCESTER]] | Mi dispiace per te, amico. È volere del Duca,<br>la cui indole, tutto il mondo [[Well\|ben]] sa,<br>non si lascia contrariare né fermare. Intercederò per te. |
+| [[Kent\|KENT]] | Vi prego, non fatelo, signore. Ho vegliato e viaggiato duramente.<br>Un po' di [[Time\|tempo]] lo [[Sleep\|dormirò]] via; il resto lo fischietterò.<br>La fortuna d'un uomo dabbene può logorarsi ai calcagni.<br>Buon giorno a voi. |
+| [[Gloucester\|GLOUCESTER]] | Il Duca ha torto in questo; sarà presa male. Esce |
+| [[Kent\|KENT]] | Buon [[King\|Re]], che devi confermare il detto comune:<br>tu dalla benedizione del cielo passi<br>al sole cocente. |
 | *(didascalia)* | Trae fuori una lettera |
-| [[Kent|KENT]] | Avvicìnati, tu faro di questo globo inferiore,<br>che ai tuoi confortevoli raggi io possa<br>scorrere questa lettera. Quasi nulla vede miracoli<br>se non la miseria. So che viene da [[Cordelia]],<br>che ora fortunatamente è stata informata<br>del mio corso oscurato, e troverà il [[Time|tempo]]<br>per questo mostruoso stato di cose, cercando di dare<br>alle perdite i loro rimedi. Stanchi e sfiniti dal veglio,<br>approfittatene, occhi pesanti, per non vedere<br>questo vergognoso alloggio. Fortuna, buona [[Night|notte]];<br>sorridi ancora una volta; gira la tua [[Wheel|ruota]].<br>Si addormenta |
+| [[Kent\|KENT]] | Avvicìnati, tu faro di questo globo inferiore,<br>che ai tuoi confortevoli raggi io possa<br>scorrere questa lettera. Quasi nulla vede miracoli<br>se non la miseria. So che viene da [[Cordelia]],<br>che ora fortunatamente è stata informata<br>del mio corso oscurato, e troverà il [[Time\|tempo]]<br>per questo mostruoso stato di cose, cercando di dare<br>alle perdite i loro rimedi. Stanchi e sfiniti dal veglio,<br>approfittatene, occhi pesanti, per non vedere<br>questo vergognoso alloggio. Fortuna, buona [[Night\|notte]];<br>sorridi ancora una volta; gira la tua [[Wheel\|ruota]].<br>Si addormenta |
 | *(didascalia)* | Entra [[Edgar]] |
-| [[Edgar|EDGAR]] | Mi son sentito proclamare,<br>e per la fortunata cavità d'un albero<br>sono sfuggito alla caccia. Nessun porto è libero, nessun luogo<br>dove guardia e vigilanza inconsueta<br>non attendano la mia cattura. Finché posso scampare<br>mi preserverò, e ho pensato<br>di prendere la più vile e più povera forma<br>in cui mai penuria, per disprezzo dell'uomo,<br>l'abbia accostato alla bestia. Mi sporcherò la faccia di lordura,<br>mi cingerò i lombi d'una coperta, aggroviglierò in nodi i capelli,<br>e con esibita [[Nakedness|nudità]] affronterò<br>i venti e le persecuzioni del cielo.<br>Il paese mi dà prova e precedente<br>dei mendicanti di Bedlam che con voci ruggenti<br>si conficcano nelle braccia intorpidite e mortificate<br>spilli, stecchi di legno, chiodi, rametti di rosmarino,<br>e con questo orribile spettacolo, da povere fattorie,<br>da miseri villaggi, da ovili e mulini,<br>ora con lunatiche imprecazioni, ora con preghiere,<br>estorcono la [[Charity|carità]]. 'Povero Tuelygod, povero Tom.'<br>Questo è pur qualcosa. [[Edgar]] io non sono nulla. |
+| [[Edgar\|EDGAR]] | Mi son sentito proclamare,<br>e per la fortunata cavità d'un albero<br>sono sfuggito alla caccia. Nessun porto è libero, nessun luogo<br>dove guardia e vigilanza inconsueta<br>non attendano la mia cattura. Finché posso scampare<br>mi preserverò, e ho pensato<br>di prendere la più vile e più povera forma<br>in cui mai penuria, per disprezzo dell'uomo,<br>l'abbia accostato alla bestia. Mi sporcherò la faccia di lordura,<br>mi cingerò i lombi d'una coperta, aggroviglierò in nodi i capelli,<br>e con esibita [[Nakedness\|nudità]] affronterò<br>i venti e le persecuzioni del cielo.<br>Il paese mi dà prova e precedente<br>dei mendicanti di Bedlam che con voci ruggenti<br>si conficcano nelle braccia intorpidite e mortificate<br>spilli, stecchi di legno, chiodi, rametti di rosmarino,<br>e con questo orribile spettacolo, da povere fattorie,<br>da miseri villaggi, da ovili e mulini,<br>ora con lunatiche imprecazioni, ora con preghiere,<br>estorcono la [[Charity\|carità]]. 'Povero Tuelygod, povero Tom.'<br>Questo è pur qualcosa. [[Edgar]] io non sono nulla. |
 | *(didascalia)* | Esce |
-| *(didascalia)* | Entrano [[King Lear]], il suo [[Fool|Buffone]], e il Primo Gentiluomo |
-| LEAR | È strano che siano partiti così da [[Home|casa]]<br>e non abbiano rimandato indietro il mio messaggero. |
+| *(didascalia)* | Entrano [[King Lear]], il suo [[Fool\|Buffone]], e il Primo Gentiluomo |
+| LEAR | È strano che siano partiti così da [[Home\|casa]]<br>e non abbiano rimandato indietro il mio messaggero. |
 | *(didascalia)* | PRIMO GENTILUOMO |
-| LEAR | Per quanto ho saputo,<br>la [[Night|notte]] prima non c'era in loro alcun proposito<br>di questo trasferimento. |
-| [[Kent|KENT]] | (svegliandosi)<br>Salve a te, nobile padrone. |
+| LEAR | Per quanto ho saputo,<br>la [[Night\|notte]] prima non c'era in loro alcun proposito<br>di questo trasferimento. |
+| [[Kent\|KENT]] | (svegliandosi)<br>Salve a te, nobile padrone. |
 | LEAR | Ah! Fai di questa vergogna il tuo passatempo? |
-| [[Kent|KENT]] | No, mio signore. |
-| [[Fool|FOOL]] | Ah, ah, porta crudeli giarrettiere! I cavalli si legano per la testa, i [[dogs|cani]] e gli orsi per il collo, le scimmie per i lombi, e gli uomini per le gambe. Quando un uomo è troppo focoso di gambe, allora porta calze di legno. |
+| [[Kent\|KENT]] | No, mio signore. |
+| [[Fool\|FOOL]] | Ah, ah, porta crudeli giarrettiere! I cavalli si legano per la testa, i [[dogs\|cani]] e gli orsi per il collo, le scimmie per i lombi, e gli uomini per le gambe. Quando un uomo è troppo focoso di gambe, allora porta calze di legno. |
 | LEAR | (a [[Kent]])<br>Chi è colui che ha tanto scambiato il tuo rango da metterti qui? |
-| [[Kent|KENT]] | Sono lui e lei insieme:<br>vostro figlio e vostra figlia. |
+| [[Kent\|KENT]] | Sono lui e lei insieme:<br>vostro figlio e vostra figlia. |
 | LEAR | Per Giove, giuro di no. |
-| [[Kent|KENT]] | Per Giunone, giuro di sì. |
+| [[Kent\|KENT]] | Per Giunone, giuro di sì. |
 | LEAR | Non osarono farlo,<br>non potevano, non volevano farlo. È peggio d'un<br>assassinio,<br>fare a chi è degno di rispetto sì violento oltraggio.<br>Spiegami con tutta modesta fretta in che modo<br>tu possa meritare o essi imporre questo trattamento,<br>venendo tu da noi. |
-| [[Kent|KENT]] | Mio signore, quando alla loro [[Home|casa]]<br>consegnai le lettere di vostra altezza,<br>prima ch'io mi fossi alzato dal luogo dove mostravo<br>in ginocchio il mio dovere, giunse un corriere fumante,<br>cotto nella sua fretta, mezzo senza fiato, sbuffando<br>da parte di [[Goneril]], sua padrona, i saluti,<br>e consegnò lettere nonostante l'interruzione,<br>che essi subito lessero; e sul loro contenuto 210<br>radunarono la loro gente, montarono súbito a [[Horse|cavallo]],<br>mi comandarono di seguirli e d'attendere<br>il comodo della loro risposta, e mi diedero freddi sguardi;<br>e incontrando qui l'altro messaggero,<br>la cui accoglienza m'accorsi aveva avvelenato la mia—<br>essendo egli proprio quel tale che poco fa<br>s'era così sfacciatamente esibito contro vostra altezza—<br>avendo in me più uomo che senno, sfoderai.<br>Egli levò a rumore la [[house|casa]] con alte e codarde grida.<br>Vostro figlio e vostra figlia giudicarono questa trasgressione degna<br>della vergogna che qui sta patendo. |
-| [[Fool|FOOL]] | L'[[Winter|inverno]] non se n'è ancora andato, se le oche selvatiche volano da quella parte. |
+| [[Kent\|KENT]] | Mio signore, quando alla loro [[Home\|casa]]<br>consegnai le lettere di vostra altezza,<br>prima ch'io mi fossi alzato dal luogo dove mostravo<br>in ginocchio il mio dovere, giunse un corriere fumante,<br>cotto nella sua fretta, mezzo senza fiato, sbuffando<br>da parte di [[Goneril]], sua padrona, i saluti,<br>e consegnò lettere nonostante l'interruzione,<br>che essi subito lessero; e sul loro contenuto 210<br>radunarono la loro gente, montarono súbito a [[Horse\|cavallo]],<br>mi comandarono di seguirli e d'attendere<br>il comodo della loro risposta, e mi diedero freddi sguardi;<br>e incontrando qui l'altro messaggero,<br>la cui accoglienza m'accorsi aveva avvelenato la mia—<br>essendo egli proprio quel tale che poco fa<br>s'era così sfacciatamente esibito contro vostra altezza—<br>avendo in me più uomo che senno, sfoderai.<br>Egli levò a rumore la [[house\|casa]] con alte e codarde grida.<br>Vostro figlio e vostra figlia giudicarono questa trasgressione degna<br>della vergogna che qui sta patendo. |
+| [[Fool\|FOOL]] | L'[[Winter\|inverno]] non se n'è ancora andato, se le oche selvatiche volano da quella parte. |
 | *(didascalia)* | Canta I padri che portano stracci |
-| [[Fool|FOOL]] | rendono ciechi i loro figli,<br>ma i padri che portano borse<br>vedranno i figli gentili.<br>La Fortuna, quella sfacciata puttana,<br>non gira mai la chiave al povero.<br>Ma con tutto questo avrai tanti dolori per<br>le tue figlie quanti ne saprai contare in un anno. |
+| [[Fool\|FOOL]] | rendono ciechi i loro figli,<br>ma i padri che portano borse<br>vedranno i figli gentili.<br>La Fortuna, quella sfacciata puttana,<br>non gira mai la chiave al povero.<br>Ma con tutto questo avrai tanti dolori per<br>le tue figlie quanti ne saprai contare in un anno. |
 | LEAR | Oh, come questa madre mi si gonfia verso il cuore!<br>Histerica passio, giù, tu dolore che sali;<br>il tuo elemento sta là sotto.—Dov'è questa figlia? |
-| [[Kent|KENT]] | Col Conte, signore, qui dentro. |
+| [[Kent\|KENT]] | Col Conte, signore, qui dentro. |
 | LEAR | Non seguitemi; restate qui. |
 | *(didascalia)* | Esce |
 | *(didascalia)* | PRIMO GENTILUOMO (a [[Kent]]) |
 | LEAR | Non commetteste altra offesa che quella di cui parlate? |
-| [[Kent|KENT]] | Nessuna.<br>Come mai il [[King|Re]] viene con così piccolo seguito? |
-| [[Fool|FOOL]] | Se fossi stato messo ai ceppi per quella domanda, l'avresti [[Well|ben]] meritato. |
-| [[Kent|KENT]] | Perché, [[Fool|Buffone]]? |
-| [[Fool|FOOL]] | Ti manderemo a scuola da una formica, per insegnarti che d'[[Winter|inverno]] non si lavora. Tutti quelli che seguono il proprio naso sono guidati dagli occhi, tranne i ciechi, e non c'è un naso su venti che non sappia fiutare chi puzza. Molla la presa quando una gran [[Wheel|ruota]] rotola giù per una [[Hill|collina]], per non romperti il collo a seguirla; ma quella grande che va all'insù, làsciati tirare dietro. Quando un saggio ti darà miglior consiglio, rendimi il mio. Vorrei che solo i furfanti lo seguissero, dato che lo dà un [[Fool|buffone]]. |
+| [[Kent\|KENT]] | Nessuna.<br>Come mai il [[King\|Re]] viene con così piccolo seguito? |
+| [[Fool\|FOOL]] | Se fossi stato messo ai ceppi per quella domanda, l'avresti [[Well\|ben]] meritato. |
+| [[Kent\|KENT]] | Perché, [[Fool\|Buffone]]? |
+| [[Fool\|FOOL]] | Ti manderemo a scuola da una formica, per insegnarti che d'[[Winter\|inverno]] non si lavora. Tutti quelli che seguono il proprio naso sono guidati dagli occhi, tranne i ciechi, e non c'è un naso su venti che non sappia fiutare chi puzza. Molla la presa quando una gran [[Wheel\|ruota]] rotola giù per una [[Hill\|collina]], per non romperti il collo a seguirla; ma quella grande che va all'insù, làsciati tirare dietro. Quando un saggio ti darà miglior consiglio, rendimi il mio. Vorrei che solo i furfanti lo seguissero, dato che lo dà un [[Fool\|buffone]]. |
 | *(didascalia)* | Canta |
-| [[Fool|FOOL]] | Quel messere che serve e cerca guadagno<br>e segue solo per forma,<br>farà fagotto quando comincerà a piovere,<br>e ti lascerà nella [[Storm|tempesta]].<br>Ma io resterò, il [[Fool|buffone]] rimarrà,<br>e il saggio se ne fugga pure.<br>Il furfante che scappa diventa [[Fool|buffone]],<br>il [[Fool|buffone]] non furfante, perdio. |
-| [[Kent|KENT]] | Dove imparaste questo, [[Fool|Buffone]]? |
-| [[Fool|FOOL]] | Non ai ceppi, [[Fool|buffone]]. |
-| *(didascalia)* | Entrano [[King Lear]] e il [[Duke of Gloucester|duca di Gloucester]] |
-| LEAR | Rifiutano di parlarmi? Sono malati, sono stanchi,<br>hanno viaggiato tutta la [[Night|notte]]?—meri pretesti,<br>immagini di rivolta e di diserzione.<br>Portatemi una risposta migliore. |
-| [[Gloucester|GLOUCESTER]] | Mio caro signore,<br>conoscete la focosa indole del Duca,<br>quanto sia inamovibile e fisso<br>nel proprio corso. |
-| LEAR | Vendetta, peste, [[Death|morte]], confusione!<br>'Focosa'? Che 'indole'? Ma, [[Gloucester]], [[Gloucester]],<br>voglio parlare col duca di Cornwall e con sua moglie. |
-| [[Gloucester|GLOUCESTER]] | [[Well|Bene]], mio buon signore, li ho informati di questo. |
+| [[Fool\|FOOL]] | Quel messere che serve e cerca guadagno<br>e segue solo per forma,<br>farà fagotto quando comincerà a piovere,<br>e ti lascerà nella [[Storm\|tempesta]].<br>Ma io resterò, il [[Fool\|buffone]] rimarrà,<br>e il saggio se ne fugga pure.<br>Il furfante che scappa diventa [[Fool\|buffone]],<br>il [[Fool\|buffone]] non furfante, perdio. |
+| [[Kent\|KENT]] | Dove imparaste questo, [[Fool\|Buffone]]? |
+| [[Fool\|FOOL]] | Non ai ceppi, [[Fool\|buffone]]. |
+| *(didascalia)* | Entrano [[King Lear]] e il [[Duke of Gloucester\|duca di Gloucester]] |
+| LEAR | Rifiutano di parlarmi? Sono malati, sono stanchi,<br>hanno viaggiato tutta la [[Night\|notte]]?—meri pretesti,<br>immagini di rivolta e di diserzione.<br>Portatemi una risposta migliore. |
+| [[Gloucester\|GLOUCESTER]] | Mio caro signore,<br>conoscete la focosa indole del Duca,<br>quanto sia inamovibile e fisso<br>nel proprio corso. |
+| LEAR | Vendetta, peste, [[Death\|morte]], confusione!<br>'Focosa'? Che 'indole'? Ma, [[Gloucester]], [[Gloucester]],<br>voglio parlare col duca di Cornwall e con sua moglie. |
+| [[Gloucester\|GLOUCESTER]] | [[Well\|Bene]], mio buon signore, li ho informati di questo. |
 | LEAR | 'Informati'? Mi capisci, uomo? |
-| [[Gloucester|GLOUCESTER]] | Sì, mio buon signore. |
-| LEAR | Il [[King|Re]] vuol parlare con Cornwall; il caro padre<br>vuol parlare con sua figlia, comanda, chiede<br>servizio.<br>Ne sono 'informati'? Fiato e [[Blood|sangue]] miei—<br>'Focoso'? Il 'focoso' Duca—dite al Duca infocato che—<br>No, non ancora. Forse non sta [[Well|bene]].<br>L'infermità fa sempre trascurare ogni ufficio<br>a cui la salute ci lega. Non siamo noi stessi<br>quando la [[Nature|natura]], oppressa, comanda alla mente<br>di patire col [[Body|corpo]]. Mi tratterrò,<br>e mi son messo contro la mia volontà più impetuosa,<br>per aver preso l'accesso malato e indisposto<br>per l'uomo sano.—[[Death|Morte]] sul mio stato, perché<br>dovrebbe sedere qui? Quest'atto mi persuade<br>che questo allontanarsi del Duca e di lei<br>è solo una manovra. Datemi fuori il mio servo.<br>Andate a dire al Duca e a sua moglie che voglio parlar loro,<br>ora, all'istante. Dite loro di venir fuori e ascoltarmi,<br>o alla porta della loro camera batterò il tamburo<br>finché non gridi a [[Death|morte]] il [[Sleep|sonno]]. |
-| [[Gloucester|GLOUCESTER]] | Vorrei che tutto andasse [[Well|bene]] fra voi. |
+| [[Gloucester\|GLOUCESTER]] | Sì, mio buon signore. |
+| LEAR | Il [[King\|Re]] vuol parlare con Cornwall; il caro padre<br>vuol parlare con sua figlia, comanda, chiede<br>servizio.<br>Ne sono 'informati'? Fiato e [[Blood\|sangue]] miei—<br>'Focoso'? Il 'focoso' Duca—dite al Duca infocato che—<br>No, non ancora. Forse non sta [[Well\|bene]].<br>L'infermità fa sempre trascurare ogni ufficio<br>a cui la salute ci lega. Non siamo noi stessi<br>quando la [[Nature\|natura]], oppressa, comanda alla mente<br>di patire col [[Body\|corpo]]. Mi tratterrò,<br>e mi son messo contro la mia volontà più impetuosa,<br>per aver preso l'accesso malato e indisposto<br>per l'uomo sano.—[[Death\|Morte]] sul mio stato, perché<br>dovrebbe sedere qui? Quest'atto mi persuade<br>che questo allontanarsi del Duca e di lei<br>è solo una manovra. Datemi fuori il mio servo.<br>Andate a dire al Duca e a sua moglie che voglio parlar loro,<br>ora, all'istante. Dite loro di venir fuori e ascoltarmi,<br>o alla porta della loro camera batterò il tamburo<br>finché non gridi a [[Death\|morte]] il [[Sleep\|sonno]]. |
+| [[Gloucester\|GLOUCESTER]] | Vorrei che tutto andasse [[Well\|bene]] fra voi. |
 | *(didascalia)* | Esce |
 | LEAR | Oh me, il mio cuore! Il mio cuore che sale! Ma giù. |
-| [[Fool|FOOL]] | Gridaglielo, zietto, come la cuoca cittadina alle anguille quando le mise vive nel pasticcio. Le picchiava sulla testa con un bastone, e gridava 'Giù, sfacciate, giù!' Era suo fratello quello che, per pura bontà verso il suo [[Horse|cavallo]], gl'imburrava il fieno. |
-| *(didascalia)* | Entrano il duca di Cornwall, [[Regan]], il [[Duke of Gloucester|duca di Gloucester]], e servi |
+| [[Fool\|FOOL]] | Gridaglielo, zietto, come la cuoca cittadina alle anguille quando le mise vive nel pasticcio. Le picchiava sulla testa con un bastone, e gridava 'Giù, sfacciate, giù!' Era suo fratello quello che, per pura bontà verso il suo [[Horse\|cavallo]], gl'imburrava il fieno. |
+| *(didascalia)* | Entrano il duca di Cornwall, [[Regan]], il [[Duke of Gloucester\|duca di Gloucester]], e servi |
 | LEAR | Buon giorno a entrambi. |
 | CORNWALL | Salve a vostra grazia.<br>[[Kent]] viene qui posto in libertà |
-| [[Regan|REGAN]] | Son lieta di vedere vostra altezza. |
-| LEAR | [[Regan]], credo che lo siate. So quale ragione<br>ho di crederlo. Se non foste lieta<br>[[divorce|divorzierei]] dal sepolcro di vostra madre,<br>tomba d'un'adultera. (A [[Kent]]) Oh, siete libero? |
-| *(didascalia)* | Un'altra [[Time|volta]] per questo. Esce [[Kent]] |
+| [[Regan\|REGAN]] | Son lieta di vedere vostra altezza. |
+| LEAR | [[Regan]], credo che lo siate. So quale ragione<br>ho di crederlo. Se non foste lieta<br>[[divorce\|divorzierei]] dal sepolcro di vostra madre,<br>tomba d'un'adultera. (A [[Kent]]) Oh, siete libero? |
+| *(didascalia)* | Un'altra [[Time\|volta]] per questo. Esce [[Kent]] |
 | LEAR | Amata [[Regan]],<br>tua sorella è una nullità. Oh, [[Regan]], ella ha legato<br>qui una scortesia dai denti aguzzi, come un avvoltoio.<br>A stento posso parlarti. Non crederesti<br>con quale depravata natura—oh, [[Regan]]! |
-| [[Regan|REGAN]] | Vi prego, signore, abbiate pazienza. Ho [[Hope|speranza]]<br>che voi sappiate valutare il suo [[Desert|merito]] meno<br>di quanto ella scarseggi nel suo dovere. |
+| [[Regan\|REGAN]] | Vi prego, signore, abbiate pazienza. Ho [[Hope\|speranza]]<br>che voi sappiate valutare il suo [[Desert\|merito]] meno<br>di quanto ella scarseggi nel suo dovere. |
 | LEAR | Dite, come sarebbe? |
-| [[Regan|REGAN]] | Non posso credere che mia sorella in nulla<br>mancherebbe al suo obbligo. Se, signore, per caso<br>ella ha frenato le sregolatezze del vostro seguito,<br>è per tal fondamento e a tale salutare fine<br>da scagionarla d'ogni colpa. |
+| [[Regan\|REGAN]] | Non posso credere che mia sorella in nulla<br>mancherebbe al suo obbligo. Se, signore, per caso<br>ella ha frenato le sregolatezze del vostro seguito,<br>è per tal fondamento e a tale salutare fine<br>da scagionarla d'ogni colpa. |
 | LEAR | Le mie maledizioni su di lei. |
-| [[Regan|REGAN]] | Oh signore, voi siete vecchio.<br>La [[Nature|natura]] in voi sta proprio sull'orlo<br>del suo confine. Dovreste essere retto e guidato<br>da qualche discrezione che discerna il vostro stato<br>meglio di voi stesso. Perciò vi prego<br>di far ritorno da nostra sorella;<br>dite d'averle fatto torto. |
-| LEAR | Chiederle [[Forgiveness|perdono]]?<br>Guardate solo come questo s'addice alla [[house|casa]]: |
+| [[Regan\|REGAN]] | Oh signore, voi siete vecchio.<br>La [[Nature\|natura]] in voi sta proprio sull'orlo<br>del suo confine. Dovreste essere retto e guidato<br>da qualche discrezione che discerna il vostro stato<br>meglio di voi stesso. Perciò vi prego<br>di far ritorno da nostra sorella;<br>dite d'averle fatto torto. |
+| LEAR | Chiederle [[Forgiveness\|perdono]]?<br>Guardate solo come questo s'addice alla [[house\|casa]]: |
 | *(didascalia)* | Kneehng 'Cara figlia, confesso che sono vecchio. |
 | LEAR | La vecchiaia è inutile. In ginocchio vi supplico<br>che vogliate concedermi veste, letto e cibo.' |
-| [[Regan|REGAN]] | Buon signore, basta. Questi sono trucchi sgradevoli.<br>Tornate da mia sorella. |
+| [[Regan\|REGAN]] | Buon signore, basta. Questi sono trucchi sgradevoli.<br>Tornate da mia sorella. |
 | *(didascalia)* | LEAR alzandosi |
-| [[Regan|REGAN]] | Mai, [[Regan]].<br>Ella m'ha ridotto di metà il mio seguito,<br>m'ha guardato torvo, m'ha colpito con la lingua<br>proprio nel cuore, come una serpe.<br>Tutte le vendette accumulate del cielo cadano<br>sul suo capo ingrato! Colpite le sue giovani ossa,<br>voi arie malefiche, con la paralisi! |
+| [[Regan\|REGAN]] | Mai, [[Regan]].<br>Ella m'ha ridotto di metà il mio seguito,<br>m'ha guardato torvo, m'ha colpito con la lingua<br>proprio nel cuore, come una serpe.<br>Tutte le vendette accumulate del cielo cadano<br>sul suo capo ingrato! Colpite le sue giovani ossa,<br>voi arie malefiche, con la paralisi! |
 | CORNWALL | Vergogna, signore, vergogna. |
-| LEAR | Voi agili folgori, scagliate le vostre accecanti fiamme<br>nei suoi occhi sprezzanti. Infettate la sua [[Beauty|bellezza]],<br>voi nebbie succhiate dalle paludi, tratte dal sole possente<br>per cadere e ulcerare. |
-| [[Regan|REGAN]] | Oh, per gli dèi beati!<br>Così augurerete a me, quando l'umore avventato vi prenderà. |
-| LEAR | No, [[Regan]]. Tu non avrai mai la mia maledizione.<br>La tua [[Nature|natura]] dal manico gentile non ti darà<br>in preda alla durezza. I suoi occhi sono feroci, ma i tuoi<br>confortano e non bruciano. Non è da te<br>lesinare i miei piaceri, tagliare il mio seguito,<br>scambiare parole avventate, ridurre le mie porzioni,<br>e, per concludere, opporre il chiavistello<br>al mio entrare. Tu conosci meglio<br>gli uffici della [[Nature|natura]], il vincolo dell'[[Childhood|infanzia]],<br>gli effetti della cortesia, i debiti della gratitudine.<br>La tua metà del regno non l'hai dimenticata,<br>di cui io ti dotai. |
-| [[Regan|REGAN]] | Buon signore, veniamo al punto. |
+| LEAR | Voi agili folgori, scagliate le vostre accecanti fiamme<br>nei suoi occhi sprezzanti. Infettate la sua [[Beauty\|bellezza]],<br>voi nebbie succhiate dalle paludi, tratte dal sole possente<br>per cadere e ulcerare. |
+| [[Regan\|REGAN]] | Oh, per gli dèi beati!<br>Così augurerete a me, quando l'umore avventato vi prenderà. |
+| LEAR | No, [[Regan]]. Tu non avrai mai la mia maledizione.<br>La tua [[Nature\|natura]] dal manico gentile non ti darà<br>in preda alla durezza. I suoi occhi sono feroci, ma i tuoi<br>confortano e non bruciano. Non è da te<br>lesinare i miei piaceri, tagliare il mio seguito,<br>scambiare parole avventate, ridurre le mie porzioni,<br>e, per concludere, opporre il chiavistello<br>al mio entrare. Tu conosci meglio<br>gli uffici della [[Nature\|natura]], il vincolo dell'[[Childhood\|infanzia]],<br>gli effetti della cortesia, i debiti della gratitudine.<br>La tua metà del regno non l'hai dimenticata,<br>di cui io ti dotai. |
+| [[Regan\|REGAN]] | Buon signore, veniamo al punto. |
 | LEAR | Chi mise il mio uomo ai ceppi? |
 | *(didascalia)* | Squillo all'interno |
 | CORNWALL | Che tromba è quella? |
 | *(didascalia)* | Entra Oswald il maggiordomo |
-| [[Regan|REGAN]] | La riconosco, è di mia sorella. Questo conferma la sua lettera<br>che sarebbe presto stata qui. (A Oswald) È giunta la vostra<br>signora? |
-| LEAR | Costui è un servo il cui [[Pride|orgoglio]] preso in facile prestito<br>abita nella malsana grazia di colei che segue.<br>(A Oswald) Fuori, ribaldo, dalla mia vista! |
+| [[Regan\|REGAN]] | La riconosco, è di mia sorella. Questo conferma la sua lettera<br>che sarebbe presto stata qui. (A Oswald) È giunta la vostra<br>signora? |
+| LEAR | Costui è un servo il cui [[Pride\|orgoglio]] preso in facile prestito<br>abita nella malsana grazia di colei che segue.<br>(A Oswald) Fuori, ribaldo, dalla mia vista! |
 | CORNWALL | Che intende vostra grazia? |
 | *(didascalia)* | Entra [[Goneril]] |
-| LEAR | Chi ha messo ai ceppi il mio servo? [[Regan]], ho buona [[Hope|speranza]]<br>che tu non ne sapessi nulla. Chi viene qui? Oh cieli,<br>se voi [[Love|amate]] i vecchi, se il vostro dolce dominio<br>approva l'obbedienza, se voi stessi siete vecchi,<br>fatene la vostra causa! Scendete e prendete le mie parti.<br>(A [[Goneril]]) Non ti vergogni di guardare questa barba?<br>Oh [[Regan]], le prenderai la mano? |
-| [[Goneril|GONERIL]] | Perché non la mano, signore? In che ho offeso?<br>Non tutto è offesa ciò che l'indiscrezione trova<br>e il rimbambimento chiama tale. |
+| LEAR | Chi ha messo ai ceppi il mio servo? [[Regan]], ho buona [[Hope\|speranza]]<br>che tu non ne sapessi nulla. Chi viene qui? Oh cieli,<br>se voi [[Love\|amate]] i vecchi, se il vostro dolce dominio<br>approva l'obbedienza, se voi stessi siete vecchi,<br>fatene la vostra causa! Scendete e prendete le mie parti.<br>(A [[Goneril]]) Non ti vergogni di guardare questa barba?<br>Oh [[Regan]], le prenderai la mano? |
+| [[Goneril\|GONERIL]] | Perché non la mano, signore? In che ho offeso?<br>Non tutto è offesa ciò che l'indiscrezione trova<br>e il rimbambimento chiama tale. |
 | LEAR | Oh fianchi, siete troppo duri!<br>Reggerete ancora?—Come finì il mio uomo ai ceppi? |
 | CORNWALL | Ce l'ho messo io, signore; ma i suoi disordini<br>meritavano assai minore avanzamento. |
 | LEAR | Voi? L'avete fatto voi? |
-| [[Regan|REGAN]] | Vi prego, padre, essendo debole, sembratelo.<br>Se fino allo spirare del vostro mese<br>vorrete tornare e soggiornare da mia sorella,<br>congedando metà del vostro seguito, venite poi da me.<br>Io sono ora lontana da [[Home|casa]], e priva di quelle provviste<br>che sarebbero necessarie per il vostro trattamento. |
-| LEAR | Tornare da lei, e cinquanta uomini congedati?<br>No, piuttosto abiuro ogni tetto, e scelgo<br>d'esser compagno del lupo e della civetta,<br>di combattere contro l'inimicizia dell'aria<br>l'acuto morso della necessità. Tornare con lei?<br>Ma il Francia dal sangue caldo, che senza dote prese<br>la nostra ultima nata—tanto [[Well|bene]] potrei esser condotto<br>a inginocchiarmi al suo trono e, da scudiero, mendicare una pensione<br>per tenere in piedi una vile vita. Tornare con lei?<br>Persuadetemi piuttosto a farmi schiavo e bestia da soma<br>di questo detestato staffiere. |
-| [[Goneril|GONERIL]] | A vostra scelta, signore. |
-| LEAR | Ti prego, figlia, non farmi impazzire.<br>Non ti darò noia, [[Child|figlia]] mia. Addio.<br>Non c'incontreremo più, non ci vedremo più.<br>Eppure tu sei la mia carne, il mio [[Blood|sangue]], mia figlia—<br>o piuttosto una malattia che sta nella mia carne,<br>che devo per forza chiamare mia. Tu sei un foruncolo,<br>una piaga di peste o un carbonchio in rilievo<br>nel mio corrotto [[Blood|sangue]]. Ma non ti rimprovererò.<br>Venga la vergogna quando vuole, io non la chiamo.<br>Non ordino al portatore del tuono di scagliarsi,<br>né racconto di te storie a Giove supremo giudice.<br>Correggiti quando puoi; migliora a tuo comodo.<br>Io posso esser paziente, posso stare con [[Regan]],<br>io e i miei cento cavalieri. |
-| [[Regan|REGAN]] | Non proprio così.<br>Non v'aspettavo ancora, né sono provvista<br>per la vostra conveniente accoglienza. Date ascolto, signore, a mia sorella;<br>ché quelli che mescolano ragione alla vostra passione<br>devono accontentarsi di pensarvi vecchio, e così—<br>ma lei sa quel che fa. |
-| LEAR | È [[Well|ben]] detto questo? |
-| [[Regan|REGAN]] | Oso affermarlo, signore. Come, cinquanta seguaci?<br>Non va [[Well|bene]]? Che bisogno avreste di più,<br>anzi, anche di tanti, poiché spesa e pericolo insieme<br>parlano contro un numero così grande? Come in una sola [[house|casa]]<br>potrebbero molte persone sotto due comandi<br>mantenere concordia? È difficile, quasi impossibile. |
-| [[Goneril|GONERIL]] | Perché non potreste, mio signore, ricevere assistenza<br>da quelli che lei chiama servi, o dai miei? |
-| [[Regan|REGAN]] | Perché no, mio signore? Se poi capitasse che vi trascurassero,<br>potremmo tenerli a freno. Se vorrete venire da me—<br>ché ora scorgo un pericolo—vi supplico<br>di portarne solo venticinque; a più di questi<br>non darò posto né riconoscimento. |
+| [[Regan\|REGAN]] | Vi prego, padre, essendo debole, sembratelo.<br>Se fino allo spirare del vostro mese<br>vorrete tornare e soggiornare da mia sorella,<br>congedando metà del vostro seguito, venite poi da me.<br>Io sono ora lontana da [[Home\|casa]], e priva di quelle provviste<br>che sarebbero necessarie per il vostro trattamento. |
+| LEAR | Tornare da lei, e cinquanta uomini congedati?<br>No, piuttosto abiuro ogni tetto, e scelgo<br>d'esser compagno del lupo e della civetta,<br>di combattere contro l'inimicizia dell'aria<br>l'acuto morso della necessità. Tornare con lei?<br>Ma il Francia dal sangue caldo, che senza dote prese<br>la nostra ultima nata—tanto [[Well\|bene]] potrei esser condotto<br>a inginocchiarmi al suo trono e, da scudiero, mendicare una pensione<br>per tenere in piedi una vile vita. Tornare con lei?<br>Persuadetemi piuttosto a farmi schiavo e bestia da soma<br>di questo detestato staffiere. |
+| [[Goneril\|GONERIL]] | A vostra scelta, signore. |
+| LEAR | Ti prego, figlia, non farmi impazzire.<br>Non ti darò noia, [[Child\|figlia]] mia. Addio.<br>Non c'incontreremo più, non ci vedremo più.<br>Eppure tu sei la mia carne, il mio [[Blood\|sangue]], mia figlia—<br>o piuttosto una malattia che sta nella mia carne,<br>che devo per forza chiamare mia. Tu sei un foruncolo,<br>una piaga di peste o un carbonchio in rilievo<br>nel mio corrotto [[Blood\|sangue]]. Ma non ti rimprovererò.<br>Venga la vergogna quando vuole, io non la chiamo.<br>Non ordino al portatore del tuono di scagliarsi,<br>né racconto di te storie a Giove supremo giudice.<br>Correggiti quando puoi; migliora a tuo comodo.<br>Io posso esser paziente, posso stare con [[Regan]],<br>io e i miei cento cavalieri. |
+| [[Regan\|REGAN]] | Non proprio così.<br>Non v'aspettavo ancora, né sono provvista<br>per la vostra conveniente accoglienza. Date ascolto, signore, a mia sorella;<br>ché quelli che mescolano ragione alla vostra passione<br>devono accontentarsi di pensarvi vecchio, e così—<br>ma lei sa quel che fa. |
+| LEAR | È [[Well\|ben]] detto questo? |
+| [[Regan\|REGAN]] | Oso affermarlo, signore. Come, cinquanta seguaci?<br>Non va [[Well\|bene]]? Che bisogno avreste di più,<br>anzi, anche di tanti, poiché spesa e pericolo insieme<br>parlano contro un numero così grande? Come in una sola [[house\|casa]]<br>potrebbero molte persone sotto due comandi<br>mantenere concordia? È difficile, quasi impossibile. |
+| [[Goneril\|GONERIL]] | Perché non potreste, mio signore, ricevere assistenza<br>da quelli che lei chiama servi, o dai miei? |
+| [[Regan\|REGAN]] | Perché no, mio signore? Se poi capitasse che vi trascurassero,<br>potremmo tenerli a freno. Se vorrete venire da me—<br>ché ora scorgo un pericolo—vi supplico<br>di portarne solo venticinque; a più di questi<br>non darò posto né riconoscimento. |
 | LEAR | V'ho dato tutto. |
-| [[Regan|REGAN]] | E l'avete dato a buon [[Time|tempo]]. |
+| [[Regan\|REGAN]] | E l'avete dato a buon [[Time\|tempo]]. |
 | LEAR | Vi feci mie tutrici, mie depositarie,<br>ma mi riservai d'essere seguito<br>da un tal numero. Come, devo venire da voi<br>con venticinque? [[Regan]], avete detto così? |
-| [[Regan|REGAN]] | E lo ripeto, mio signore. Non di più con me. |
-| LEAR | Quelle creature malvage paiono ancora [[Well|ben]] avvenenti<br>quando altre sono più malvage. Non essere il peggiore<br>vale in qualche grado di lode. (A [[Goneril]]) Verrò con<br>te.<br>I tuoi cinquanta sono pure il [[Double|doppio]] di venticinque,<br>e tu sei due volte il suo [[Love|amore]]. |
-| [[Goneril|GONERIL]] | Ascoltatemi, mio signore.<br>Che bisogno avete di venticinque, dieci o cinque,<br>per seguirvi in una [[house|casa]] dove il doppio di tanti<br>hanno ordine di servirvi? |
-| [[Regan|REGAN]] | Che bisogno d'uno solo? |
-| LEAR | Oh, non ragionate sul bisogno! I nostri più vili mendicanti<br>hanno nella loro povertà qualcosa di superfluo.<br>Non concedete alla [[Nature|natura]] più di quanto la [[Nature|natura]] richiede,<br>e la vita dell'uomo vale quanto quella d'una bestia. Tu sei una dama.<br>Se andare solo al caldo fosse magnificenza,<br>ebbene, la [[Nature|natura]] non ha bisogno di ciò che tu, magnifica, indossi,<br>che a stento ti tiene calda. Ma quanto al vero bisogno—<br>voi cieli, datemi quella pazienza, la pazienza di cui ho bisogno.<br>Voi mi vedete qui, dèi, un povero vecchio,<br>pieno di dolore quanto d'anni, misero in entrambi.<br>Se siete voi che aizzate i cuori di queste figlie<br>contro il padre, non rendetemi tanto [[Fool|stolto]]<br>da sopportarlo mansueto. Toccatemi di nobile ira,<br>e non lasciate che armi di donna, gocce d'[[Water|acqua]],<br>macchino le mie guance d'uomo. No, streghe snaturate,<br>avrò tali vendette su entrambe<br>che tutto il mondo—farò tali cose—<br>quali siano, non lo so ancora; ma saranno<br>i terrori della terra. Credete ch'io pianga.<br>No, non piangerò. Ho pieno motivo di piangere, |
-| *(didascalia)* | [[Storm|Tempesta]] e burrasca |
-| LEAR | ma questo cuore si spezzerà in centomila<br>schegge<br>prima ch'io pianga.—Oh [[Fool|Buffone]], impazzirò! |
-| *(didascalia)* | Escono Lear, il [[Fool|Buffone]], il Gentiluomo e [[Gloucester]] |
-| CORNWALL | Ritiriamoci. Ci sarà [[Storm|tempesta]]. |
-| [[Regan|REGAN]] | Questa [[house|casa]] è piccola. Il vecchio e la sua gente<br>non possono essere [[Well|bene]] alloggiati. |
-| [[Goneril|GONERIL]] | È colpa sua;<br>s'è privato da sé del riposo, e deve per forza gustare la sua follia. |
-| [[Regan|REGAN]] | Quanto a lui in persona lo riceverò volentieri,<br>ma non un solo seguace. |
-| [[Goneril|GONERIL]] | Così è anche il mio proposito.<br>Dov'è il mio signore di [[Gloucester]]? |
+| [[Regan\|REGAN]] | E lo ripeto, mio signore. Non di più con me. |
+| LEAR | Quelle creature malvage paiono ancora [[Well\|ben]] avvenenti<br>quando altre sono più malvage. Non essere il peggiore<br>vale in qualche grado di lode. (A [[Goneril]]) Verrò con<br>te.<br>I tuoi cinquanta sono pure il [[Double\|doppio]] di venticinque,<br>e tu sei due volte il suo [[Love\|amore]]. |
+| [[Goneril\|GONERIL]] | Ascoltatemi, mio signore.<br>Che bisogno avete di venticinque, dieci o cinque,<br>per seguirvi in una [[house\|casa]] dove il doppio di tanti<br>hanno ordine di servirvi? |
+| [[Regan\|REGAN]] | Che bisogno d'uno solo? |
+| LEAR | Oh, non ragionate sul bisogno! I nostri più vili mendicanti<br>hanno nella loro povertà qualcosa di superfluo.<br>Non concedete alla [[Nature\|natura]] più di quanto la [[Nature\|natura]] richiede,<br>e la vita dell'uomo vale quanto quella d'una bestia. Tu sei una dama.<br>Se andare solo al caldo fosse magnificenza,<br>ebbene, la [[Nature\|natura]] non ha bisogno di ciò che tu, magnifica, indossi,<br>che a stento ti tiene calda. Ma quanto al vero bisogno—<br>voi cieli, datemi quella pazienza, la pazienza di cui ho bisogno.<br>Voi mi vedete qui, dèi, un povero vecchio,<br>pieno di dolore quanto d'anni, misero in entrambi.<br>Se siete voi che aizzate i cuori di queste figlie<br>contro il padre, non rendetemi tanto [[Fool\|stolto]]<br>da sopportarlo mansueto. Toccatemi di nobile ira,<br>e non lasciate che armi di donna, gocce d'[[Water\|acqua]],<br>macchino le mie guance d'uomo. No, streghe snaturate,<br>avrò tali vendette su entrambe<br>che tutto il mondo—farò tali cose—<br>quali siano, non lo so ancora; ma saranno<br>i terrori della terra. Credete ch'io pianga.<br>No, non piangerò. Ho pieno motivo di piangere, |
+| *(didascalia)* | [[Storm\|Tempesta]] e burrasca |
+| LEAR | ma questo cuore si spezzerà in centomila<br>schegge<br>prima ch'io pianga.—Oh [[Fool\|Buffone]], impazzirò! |
+| *(didascalia)* | Escono Lear, il [[Fool\|Buffone]], il Gentiluomo e [[Gloucester]] |
+| CORNWALL | Ritiriamoci. Ci sarà [[Storm\|tempesta]]. |
+| [[Regan\|REGAN]] | Questa [[house\|casa]] è piccola. Il vecchio e la sua gente<br>non possono essere [[Well\|bene]] alloggiati. |
+| [[Goneril\|GONERIL]] | È colpa sua;<br>s'è privato da sé del riposo, e deve per forza gustare la sua follia. |
+| [[Regan\|REGAN]] | Quanto a lui in persona lo riceverò volentieri,<br>ma non un solo seguace. |
+| [[Goneril\|GONERIL]] | Così è anche il mio proposito.<br>Dov'è il mio signore di [[Gloucester]]? |
 | CORNWALL | Ha seguito fuori il vecchio. |
-| *(didascalia)* | Entra il [[Duke of Gloucester|duca di Gloucester]] |
+| *(didascalia)* | Entra il [[Duke of Gloucester\|duca di Gloucester]] |
 | CORNWALL | È tornato. |
-| [[Gloucester|GLOUCESTER]] | Il [[King|Re]] è in gran furore. |
+| [[Gloucester\|GLOUCESTER]] | Il [[King\|Re]] è in gran furore. |
 | CORNWALL | Dove sta andando? |
-| [[Gloucester|GLOUCESTER]] | Chiama i [[Horse|cavalli]], ma dove voglia andare non so. |
+| [[Gloucester\|GLOUCESTER]] | Chiama i [[Horse\|cavalli]], ma dove voglia andare non so. |
 | CORNWALL | È meglio dargli via libera. Si guida da sé. |
-| [[Goneril|GONERIL]] | (a [[Gloucester]])<br>Mio signore, non pregatelo in alcun modo di restare. |
-| [[Gloucester|GLOUCESTER]] | Ahimè, la [[Night|notte]] scende, e i venti alti<br>infuriano aspramente. Per molte miglia intorno<br>non c'è quasi un cespuglio. |
-| [[Regan|REGAN]] | Oh signore, agli uomini ostinati<br>i mali che essi stessi si procurano<br>devono fare da maestri. Chiudete le vostre porte.<br>È accompagnato da un seguito disperato,<br>e a che possano istigarlo, essendo egli facile<br>a farsi abusare l'orecchio, la saggezza impone di [[Fear|temere]]. |
-| CORNWALL | Chiudete le vostre porte, mio signore. È una [[Night|notte]] selvaggia.<br>La mia [[Regan]] consiglia [[Well|bene]]. Venite via dalla [[Storm|tempesta]]. Escono |
+| [[Goneril\|GONERIL]] | (a [[Gloucester]])<br>Mio signore, non pregatelo in alcun modo di restare. |
+| [[Gloucester\|GLOUCESTER]] | Ahimè, la [[Night\|notte]] scende, e i venti alti<br>infuriano aspramente. Per molte miglia intorno<br>non c'è quasi un cespuglio. |
+| [[Regan\|REGAN]] | Oh signore, agli uomini ostinati<br>i mali che essi stessi si procurano<br>devono fare da maestri. Chiudete le vostre porte.<br>È accompagnato da un seguito disperato,<br>e a che possano istigarlo, essendo egli facile<br>a farsi abusare l'orecchio, la saggezza impone di [[Fear\|temere]]. |
+| CORNWALL | Chiudete le vostre porte, mio signore. È una [[Night\|notte]] selvaggia.<br>La mia [[Regan]] consiglia [[Well\|bene]]. Venite via dalla [[Storm\|tempesta]]. Escono |
 
 
 
@@ -2702,23 +2702,23 @@ The [[Tragedy]] of [[King Lear]]
 
 | Chi parla | Battuta |
 |---|---|
-| *(didascalia)* | [[Storm|Tempesta]] ancora. Entrano il conte di [[Kent]] travestito e il Primo Gentiluomo, separatamente |
-| [[Kent|KENT]] | Chi è là, oltre al cattivo tempo? |
+| *(didascalia)* | [[Storm\|Tempesta]] ancora. Entrano il conte di [[Kent]] travestito e il Primo Gentiluomo, separatamente |
+| [[Kent\|KENT]] | Chi è là, oltre al cattivo tempo? |
 | *(didascalia)* | PRIMO GENTILUOMO |
-| [[Kent|KENT]] | Uno d'animo simile al tempo,<br>agitatissimo. |
-| [[Kent|KENT]] | Vi conosco. Dov'è il [[King|Re]]? |
+| [[Kent\|KENT]] | Uno d'animo simile al tempo,<br>agitatissimo. |
+| [[Kent\|KENT]] | Vi conosco. Dov'è il [[King\|Re]]? |
 | *(didascalia)* | PRIMO GENTILUOMO |
-| [[Kent|KENT]] | In lotta con gli elementi irosi;<br>ordina al [[Wind|vento]] di soffiare la terra dentro il mare<br>o di gonfiare le acque increspate sopra il continente,<br>perché le cose mutino o cessino. |
-| [[Kent|KENT]] | Ma chi è con lui? |
+| [[Kent\|KENT]] | In lotta con gli elementi irosi;<br>ordina al [[Wind\|vento]] di soffiare la terra dentro il mare<br>o di gonfiare le acque increspate sopra il continente,<br>perché le cose mutino o cessino. |
+| [[Kent\|KENT]] | Ma chi è con lui? |
 | *(didascalia)* | PRIMO GENTILUOMO |
-| [[Kent|KENT]] | Nessuno tranne il [[Fool|Buffone]], che s'affanna a superare con lo scherzo<br>le ferite che l'hanno colpito nel cuore. |
-| [[Kent|KENT]] | Signore, io vi conosco,<br>e oso, sulla garanzia di quanto ho osservato,<br>affidarvi una cosa preziosa. C'è divisione,<br>benché finora il suo volto sia coperto<br>da reciproca astuzia, fra Albany e Cornwall,<br>i quali hanno—come chi non ne ha, se le sue grandi [[Stars|stelle]]<br>l'hanno intronizzato e posto in alto—servi che tali sembrano,<br>ma che sono per la Francia spie e osservatori<br>informati del nostro stato. Ciò che s'è visto,<br>o negli sdegni e negli intrighi dei Duchi,<br>o nella dura briglia che entrambi hanno tenuto<br>contro il vecchio e buon [[King|Re]]; o qualcosa di più profondo,<br>di cui forse questi non sono che gli ornamenti— |
+| [[Kent\|KENT]] | Nessuno tranne il [[Fool\|Buffone]], che s'affanna a superare con lo scherzo<br>le ferite che l'hanno colpito nel cuore. |
+| [[Kent\|KENT]] | Signore, io vi conosco,<br>e oso, sulla garanzia di quanto ho osservato,<br>affidarvi una cosa preziosa. C'è divisione,<br>benché finora il suo volto sia coperto<br>da reciproca astuzia, fra Albany e Cornwall,<br>i quali hanno—come chi non ne ha, se le sue grandi [[Stars\|stelle]]<br>l'hanno intronizzato e posto in alto—servi che tali sembrano,<br>ma che sono per la Francia spie e osservatori<br>informati del nostro stato. Ciò che s'è visto,<br>o negli sdegni e negli intrighi dei Duchi,<br>o nella dura briglia che entrambi hanno tenuto<br>contro il vecchio e buon [[King\|Re]]; o qualcosa di più profondo,<br>di cui forse questi non sono che gli ornamenti— |
 | *(didascalia)* | PRIMO GENTILUOMO |
-| [[Kent|KENT]] | Parlerò ancora con voi. |
-| [[Kent|KENT]] | No, non fatelo.<br>A conferma ch'io sono assai più<br>del mio muro esterno, aprite questa borsa e prendete<br>quel che contiene. Se vedrete [[Cordelia]]—<br>e non [[Fear|temete]], la vedrete—mostratele questo anello<br>ed ella vi dirà chi è quel tale<br>che voi ancora non conoscete. Maledetta questa [[Storm|tempesta]]!<br>Andrò a cercare il [[King|Re]]. |
+| [[Kent\|KENT]] | Parlerò ancora con voi. |
+| [[Kent\|KENT]] | No, non fatelo.<br>A conferma ch'io sono assai più<br>del mio muro esterno, aprite questa borsa e prendete<br>quel che contiene. Se vedrete [[Cordelia]]—<br>e non [[Fear\|temete]], la vedrete—mostratele questo anello<br>ed ella vi dirà chi è quel tale<br>che voi ancora non conoscete. Maledetta questa [[Storm\|tempesta]]!<br>Andrò a cercare il [[King\|Re]]. |
 | *(didascalia)* | PRIMO GENTILUOMO |
-| [[Kent|KENT]] | Datemi la mano. Non avete altro da dire? |
-| [[Kent|KENT]] | Poche parole, ma d'effetto più di tutte finora:<br>che quando avremo trovato il [[King|Re]]—e in ciò la vostra<br>[[Pain|pena]]<br>da quella parte, io da questa—chi per primo s'imbatte in lui<br>chiami l'altro. |
+| [[Kent\|KENT]] | Datemi la mano. Non avete altro da dire? |
+| [[Kent\|KENT]] | Poche parole, ma d'effetto più di tutte finora:<br>che quando avremo trovato il [[King\|Re]]—e in ciò la vostra<br>[[Pain\|pena]]<br>da quella parte, io da questa—chi per primo s'imbatte in lui<br>chiami l'altro. |
 | *(didascalia)* | Escono separatamente |
 
 
@@ -2755,26 +2755,26 @@ The [[Tragedy]] of [[King Lear]]
 
 | Chi parla | Battuta |
 |---|---|
-| *(didascalia)* | [[Storm|Tempesta]] ancora. Entrano [[King Lear]] e il suo [[Fool|Buffone]] |
-| LEAR | Soffiate, venti, e schiantatevi le guance! Infuriate, soffiate,<br>voi cateratte e uragani, zampillate<br>finché non abbiate inzuppato i nostri campanili, annegate le<br>banderuole!<br>Voi fuochi sulfurei, rapidi come il pensiero,<br>antesignani dei fulmini che spaccano le querce,<br>bruciatemi il bianco capo; e tu, tuono che tutto scuoti,<br>appiattisci la spessa rotondità del mondo,<br>spezza gli stampi della [[Nature|natura]], versa d'un colpo ogni germe<br>che fa l'uomo ingrato. |
-| [[Fool|FOOL]] | Oh zietto, l'[[Water|acqua]] benedetta di [[Court|corte]] in una [[house|casa]] asciutta è meglio di quest'[[Water|acqua]] piovana fuori dalla porta. Buon zietto, entra, chiedi la benedizione alle tue figlie. Ecco una [[Night|notte]] che non ha pietà né dei savi né dei matti. |
-| LEAR | Brontola a sazietà; sputa, [[Fire|fuoco]]; zampilla, pioggia.<br>Né pioggia, né [[Wind|vento]], né tuono, né [[Fire|fuoco]] sono mie figlie.<br>Non accuso voi, elementi, di scortesia.<br>Non vi diedi mai un regno, non vi chiamai figli.<br>Non mi dovete sudditanza. Fate dunque cadere<br>il vostro orribile piacere. Qui sto io, vostro schiavo,<br>povero, infermo, debole e disprezzato vecchio.<br>Eppure vi chiamo servili ministri,<br>che con due figlie perniciose unite<br>le vostre battaglie generate in alto contro una testa<br>vecchia e bianca come questa. Oh, oh, è turpe! |
-| [[Fool|FOOL]] | Chi ha una [[house|casa]] in cui mettere la testa ha un buon copricapo. |
+| *(didascalia)* | [[Storm\|Tempesta]] ancora. Entrano [[King Lear]] e il suo [[Fool\|Buffone]] |
+| LEAR | Soffiate, venti, e schiantatevi le guance! Infuriate, soffiate,<br>voi cateratte e uragani, zampillate<br>finché non abbiate inzuppato i nostri campanili, annegate le<br>banderuole!<br>Voi fuochi sulfurei, rapidi come il pensiero,<br>antesignani dei fulmini che spaccano le querce,<br>bruciatemi il bianco capo; e tu, tuono che tutto scuoti,<br>appiattisci la spessa rotondità del mondo,<br>spezza gli stampi della [[Nature\|natura]], versa d'un colpo ogni germe<br>che fa l'uomo ingrato. |
+| [[Fool\|FOOL]] | Oh zietto, l'[[Water\|acqua]] benedetta di [[Court\|corte]] in una [[house\|casa]] asciutta è meglio di quest'[[Water\|acqua]] piovana fuori dalla porta. Buon zietto, entra, chiedi la benedizione alle tue figlie. Ecco una [[Night\|notte]] che non ha pietà né dei savi né dei matti. |
+| LEAR | Brontola a sazietà; sputa, [[Fire\|fuoco]]; zampilla, pioggia.<br>Né pioggia, né [[Wind\|vento]], né tuono, né [[Fire\|fuoco]] sono mie figlie.<br>Non accuso voi, elementi, di scortesia.<br>Non vi diedi mai un regno, non vi chiamai figli.<br>Non mi dovete sudditanza. Fate dunque cadere<br>il vostro orribile piacere. Qui sto io, vostro schiavo,<br>povero, infermo, debole e disprezzato vecchio.<br>Eppure vi chiamo servili ministri,<br>che con due figlie perniciose unite<br>le vostre battaglie generate in alto contro una testa<br>vecchia e bianca come questa. Oh, oh, è turpe! |
+| [[Fool\|FOOL]] | Chi ha una [[house\|casa]] in cui mettere la testa ha un buon copricapo. |
 | *(didascalia)* | Canta |
-| [[Fool|FOOL]] | La braghetta che si dà [[house|casa]]<br>prima che la testa ne abbia,<br>la testa e lei si faran pidocchi,<br>così i pezzenti sposano in molti.<br>L'uomo che fa del suo dito del piede<br>ciò che del cuore dovrebbe fare<br>per un callo griderà guai,<br>e muterà il suo [[Sleep|sonno]] in veglia—<br>ché non ci fu mai bella donna che non facesse smorfie allo specchio. |
+| [[Fool\|FOOL]] | La braghetta che si dà [[house\|casa]]<br>prima che la testa ne abbia,<br>la testa e lei si faran pidocchi,<br>così i pezzenti sposano in molti.<br>L'uomo che fa del suo dito del piede<br>ciò che del cuore dovrebbe fare<br>per un callo griderà guai,<br>e muterà il suo [[Sleep\|sonno]] in veglia—<br>ché non ci fu mai bella donna che non facesse smorfie allo specchio. |
 | *(didascalia)* | Entra il conte di [[Kent]] travestito |
 | LEAR | No, sarò il modello d'ogni pazienza.<br>Non dirò nulla. |
-| [[Kent|KENT]] | Chi è là? |
-| [[Fool|FOOL]] | Per la Madonna, ecco una grazia e una braghetta—cioè un savio e un [[Fool|buffone]]. |
-| [[Kent|KENT]] | (a Lear)<br>Ahimè, signore, siete qui? Le cose che [[Love|amano]] la [[Night|notte]]<br>non [[Love|amano]] notti come queste. I cieli irati<br>spaventano perfino i vagabondi del buio<br>e li fanno restare nelle loro tane. Da quando sono uomo<br>tali lenzuola di [[Fire|fuoco]], tali scoppi d'orrendo tuono,<br>tali gemiti di [[Wind|vento]] e di pioggia ruggenti io mai<br>ricordo d'avere udito. La [[Nature|natura]] dell'uomo non può sostenere<br>l'afflizione né la [[Fear|paura]]. |
+| [[Kent\|KENT]] | Chi è là? |
+| [[Fool\|FOOL]] | Per la Madonna, ecco una grazia e una braghetta—cioè un savio e un [[Fool\|buffone]]. |
+| [[Kent\|KENT]] | (a Lear)<br>Ahimè, signore, siete qui? Le cose che [[Love\|amano]] la [[Night\|notte]]<br>non [[Love\|amano]] notti come queste. I cieli irati<br>spaventano perfino i vagabondi del buio<br>e li fanno restare nelle loro tane. Da quando sono uomo<br>tali lenzuola di [[Fire\|fuoco]], tali scoppi d'orrendo tuono,<br>tali gemiti di [[Wind\|vento]] e di pioggia ruggenti io mai<br>ricordo d'avere udito. La [[Nature\|natura]] dell'uomo non può sostenere<br>l'afflizione né la [[Fear\|paura]]. |
 | LEAR | Che i grandi dèi,<br>che tengono questo tremendo tumulto sulle nostre teste,<br>scoprano ora i loro nemici. Trema, tu miserabile<br>che hai dentro di te delitti non divulgati<br>non frustati dalla giustizia; nasconditi, tu mano insanguinata,<br>tu spergiuro, e tu simulatore di virtù<br>che sei incestuoso; furfante, va' in pezzi,<br>tu che sotto coperta e comoda apparenza<br>hai attentato alla vita dell'uomo; colpe rinchiuse e serrate,<br>squarciate i vostri continenti che vi celano e implorate<br>grazia a questi tremendi messi. Io sono un uomo<br>più peccato contro che peccatore. |
-| [[Kent|KENT]] | Ahimè, a capo scoperto?<br>Grazioso mio signore, qui vicino c'è una capanna.<br>Qualche [[Friendship|amicizia]] vi presterà contro la tempesta.<br>Riposatevi là mentre io a questa dura [[house|casa]]—<br>più dura delle pietre onde è innalzata,<br>la quale, proprio or ora, quando chiesi di voi,<br>mi negò l'ingresso—tornerò e strapperò<br>la loro lesinata cortesia. |
-| LEAR | Il mio senno comincia a girare.<br>(Al [[Fool|Buffone]]) Vieni, ragazzo mio. Come stai, ragazzo mio? Hai<br>freddo?<br>Ho freddo anch'io.—Dov'è questa paglia, amico?<br>L'arte delle nostre necessità è strana,<br>e sa render preziose cose vili. Vieni, la tua capanna.—<br>Povero [[Fool|matto]] e furfante, ho una parte nel cuore<br>che ancora si duole per te. |
-| *(didascalia)* | [[Fool|FOOL]] Canta |
-| LEAR | Chi ha soltanto un pochino di senno,<br>con hey-ho, il [[Wind|vento]] e la pioggia,<br>deve contentarsi secondo la sua sorte,<br>benché la pioggia piova ogni giorno. |
+| [[Kent\|KENT]] | Ahimè, a capo scoperto?<br>Grazioso mio signore, qui vicino c'è una capanna.<br>Qualche [[Friendship\|amicizia]] vi presterà contro la tempesta.<br>Riposatevi là mentre io a questa dura [[house\|casa]]—<br>più dura delle pietre onde è innalzata,<br>la quale, proprio or ora, quando chiesi di voi,<br>mi negò l'ingresso—tornerò e strapperò<br>la loro lesinata cortesia. |
+| LEAR | Il mio senno comincia a girare.<br>(Al [[Fool\|Buffone]]) Vieni, ragazzo mio. Come stai, ragazzo mio? Hai<br>freddo?<br>Ho freddo anch'io.—Dov'è questa paglia, amico?<br>L'arte delle nostre necessità è strana,<br>e sa render preziose cose vili. Vieni, la tua capanna.—<br>Povero [[Fool\|matto]] e furfante, ho una parte nel cuore<br>che ancora si duole per te. |
+| *(didascalia)* | [[Fool\|FOOL]] Canta |
+| LEAR | Chi ha soltanto un pochino di senno,<br>con hey-ho, il [[Wind\|vento]] e la pioggia,<br>deve contentarsi secondo la sua sorte,<br>benché la pioggia piova ogni giorno. |
 | LEAR | Vero, ragazzo. (A [[Kent]]) Vieni, portaci a questa capanna. |
 | *(didascalia)* | Escono Lear e [[Kent]] |
-| [[Fool|FOOL]] | Questa è una brava [[Night|notte]] per raffreddare una cortigiana. Dirò una profezia prima d'andarmene:<br>Quando i preti saranno più parola che sostanza;<br>quando i birrai guasteranno il malto con l'[[Water|acqua]];<br>quando i nobili faranno da maestri ai propri sarti,<br>e non si bruceranno eretici, ma corteggiatori di ragazze,<br>allora il regno d'Albione<br>verrà a gran confusione.<br><br>Quando ogni causa in tribunale sarà giusta;<br>nessuno scudiero indebitato né alcun cavaliere povero;<br>quando le calunnie non vivranno sulle lingue,<br>né i tagliaborse verranno tra la folla;<br>quando gli usurai conteranno il loro oro all'aperto,<br>e ruffiani e puttane costruiranno chiese,<br>allora verrà il [[Time|tempo]], chi vive per vederlo,<br>in cui l'andare si farà coi piedi.<br>Questa profezia la farà Merlino; ché io vivo prima del suo [[Time|tempo]]. |
+| [[Fool\|FOOL]] | Questa è una brava [[Night\|notte]] per raffreddare una cortigiana. Dirò una profezia prima d'andarmene:<br>Quando i preti saranno più parola che sostanza;<br>quando i birrai guasteranno il malto con l'[[Water\|acqua]];<br>quando i nobili faranno da maestri ai propri sarti,<br>e non si bruceranno eretici, ma corteggiatori di ragazze,<br>allora il regno d'Albione<br>verrà a gran confusione.<br><br>Quando ogni causa in tribunale sarà giusta;<br>nessuno scudiero indebitato né alcun cavaliere povero;<br>quando le calunnie non vivranno sulle lingue,<br>né i tagliaborse verranno tra la folla;<br>quando gli usurai conteranno il loro oro all'aperto,<br>e ruffiani e puttane costruiranno chiese,<br>allora verrà il [[Time\|tempo]], chi vive per vederlo,<br>in cui l'andare si farà coi piedi.<br>Questa profezia la farà Merlino; ché io vivo prima del suo [[Time\|tempo]]. |
 | *(didascalia)* | Esce |
 
 
@@ -2795,10 +2795,10 @@ The [[Tragedy]] of [[King Lear]]
 
 | Chi parla | Battuta |
 |---|---|
-| *(didascalia)* | Entrano il [[Duke of Gloucester|duca di Gloucester]] ed Edmond |
-| [[Gloucester|GLOUCESTER]] | Ahimè, ahimè, Edmond, non mi piace questo modo snaturato d'agire. Quando chiesi loro licenza di potergli usare pietà, mi tolsero l'uso della mia stessa [[house|casa]], m'ingiunsero, sotto [[Pain|pena]] del loro perpetuo dispiacere, di non parlare di lui, di non intercedere per lui, né di sostenerlo in alcun modo. |
+| *(didascalia)* | Entrano il [[Duke of Gloucester\|duca di Gloucester]] ed Edmond |
+| [[Gloucester\|GLOUCESTER]] | Ahimè, ahimè, Edmond, non mi piace questo modo snaturato d'agire. Quando chiesi loro licenza di potergli usare pietà, mi tolsero l'uso della mia stessa [[house\|casa]], m'ingiunsero, sotto [[Pain\|pena]] del loro perpetuo dispiacere, di non parlare di lui, di non intercedere per lui, né di sostenerlo in alcun modo. |
 | EDMOND | Selvaggio e snaturato al sommo! |
-| [[Gloucester|GLOUCESTER]] | Via, non dite nulla. C'è divisione tra i Duchi, e una faccenda peggiore ancora. Ho ricevuto una lettera questa [[Night|notte]]—è pericoloso parlarne—ho chiuso la lettera nel mio gabinetto. Queste offese che il [[King|Re]] ora sopporta saranno vendicate fino in [[Home|fondo]]. Parte d'un esercito è già sbarcata. Dobbiamo inclinare verso il [[King|Re]]. Andrò a cercarlo e lo soccorrerò di nascosto. Voi andate a intrattenere il Duca in discorsi, perché la mia [[Charity|carità]] non sia da lui avvertita. Se chiede di me, sono malato e sono andato a letto. Se dovessi morirne—ché non mi si minaccia di meno—il [[King|Re]] mio vecchio padrone dev'essere soccorso. Ci sono strane cose in cammino, Edmond; vi prego, siate cauto. Esce |
+| [[Gloucester\|GLOUCESTER]] | Via, non dite nulla. C'è divisione tra i Duchi, e una faccenda peggiore ancora. Ho ricevuto una lettera questa [[Night\|notte]]—è pericoloso parlarne—ho chiuso la lettera nel mio gabinetto. Queste offese che il [[King\|Re]] ora sopporta saranno vendicate fino in [[Home\|fondo]]. Parte d'un esercito è già sbarcata. Dobbiamo inclinare verso il [[King\|Re]]. Andrò a cercarlo e lo soccorrerò di nascosto. Voi andate a intrattenere il Duca in discorsi, perché la mia [[Charity\|carità]] non sia da lui avvertita. Se chiede di me, sono malato e sono andato a letto. Se dovessi morirne—ché non mi si minaccia di meno—il [[King\|Re]] mio vecchio padrone dev'essere soccorso. Ci sono strane cose in cammino, Edmond; vi prego, siate cauto. Esce |
 | EDMOND | Questa cortesia, a te vietata, il Duca<br>la saprà all'istante, e anche di quella lettera.<br>Questo pare un bel merito, e deve attirarmi<br>ciò che mio padre perde: nulla meno che tutto.<br>Il giovane si leva quando il vecchio cade. Esce |
 
 
@@ -2887,78 +2887,78 @@ The [[Tragedy]] of [[King Lear]]
 
 | Chi parla | Battuta |
 |---|---|
-| *(didascalia)* | Entrano [[King Lear]], il conte di [[Kent]] travestito, e il [[Fool|Buffone]] di Lear |
-| [[Kent|KENT]] | Ecco il luogo, mio signore. Mio buon signore, entrate.<br>La tirannia della [[Night|notte]] all'aperto è troppo dura<br>perché la [[Nature|natura]] la sopporti. |
-| *(didascalia)* | [[Storm|Tempesta]] ancora |
-| LEAR | Lasciami [[Alone|solo]]. |
-| [[Kent|KENT]] | Mio buon signore, entrate qui. |
+| *(didascalia)* | Entrano [[King Lear]], il conte di [[Kent]] travestito, e il [[Fool\|Buffone]] di Lear |
+| [[Kent\|KENT]] | Ecco il luogo, mio signore. Mio buon signore, entrate.<br>La tirannia della [[Night\|notte]] all'aperto è troppo dura<br>perché la [[Nature\|natura]] la sopporti. |
+| *(didascalia)* | [[Storm\|Tempesta]] ancora |
+| LEAR | Lasciami [[Alone\|solo]]. |
+| [[Kent\|KENT]] | Mio buon signore, entrate qui. |
 | LEAR | Vuoi spezzarmi il cuore? |
-| [[Kent|KENT]] | Preferirei spezzare il mio. Mio buon signore, entrate. |
-| LEAR | Tu credi sia gran cosa che questa contenziosa [[Storm|tempesta]]<br>c'invada fino alla pelle. Così è per te;<br>ma dove è fissato il male maggiore,<br>il minore appena si sente. Fuggiresti un orso,<br>ma se la tua fuga volgesse verso il mare ruggente<br>andresti a incontrar l'orso in bocca. Quando la mente è<br>libera,<br>il [[Body|corpo]] è delicato. Questa tempesta nella mia mente<br>toglie ai miei sensi ogni altra sensazione<br>tranne ciò che là dentro batte: l'ingratitudine filiale.<br>Non è come se questa bocca lacerasse questa mano<br>per averle portato il cibo? Ma punirò fino in [[Home|fondo]].<br>No, non piangerò più.—In una tale [[Night|notte]]<br>chiudermi fuori? Riversatevi pure, io resisterò.<br>In una [[Night|notte]] come questa! Oh [[Regan]], [[Goneril]],<br>il vostro vecchio e buon padre, che di cuore aperto diede tutto—<br>oh, da quella parte sta la [[Madness|follia]]. Ch'io la eviti.<br>Basta di questo. |
-| [[Kent|KENT]] | Mio buon signore, entrate qui. |
+| [[Kent\|KENT]] | Preferirei spezzare il mio. Mio buon signore, entrate. |
+| LEAR | Tu credi sia gran cosa che questa contenziosa [[Storm\|tempesta]]<br>c'invada fino alla pelle. Così è per te;<br>ma dove è fissato il male maggiore,<br>il minore appena si sente. Fuggiresti un orso,<br>ma se la tua fuga volgesse verso il mare ruggente<br>andresti a incontrar l'orso in bocca. Quando la mente è<br>libera,<br>il [[Body\|corpo]] è delicato. Questa tempesta nella mia mente<br>toglie ai miei sensi ogni altra sensazione<br>tranne ciò che là dentro batte: l'ingratitudine filiale.<br>Non è come se questa bocca lacerasse questa mano<br>per averle portato il cibo? Ma punirò fino in [[Home\|fondo]].<br>No, non piangerò più.—In una tale [[Night\|notte]]<br>chiudermi fuori? Riversatevi pure, io resisterò.<br>In una [[Night\|notte]] come questa! Oh [[Regan]], [[Goneril]],<br>il vostro vecchio e buon padre, che di cuore aperto diede tutto—<br>oh, da quella parte sta la [[Madness\|follia]]. Ch'io la eviti.<br>Basta di questo. |
+| [[Kent\|KENT]] | Mio buon signore, entrate qui. |
 | LEAR | Ti prego, entra tu stesso. Cerca il tuo agio.<br>Questa tempesta non mi lascia agio di meditare<br>su cose che mi farebbero più male; ma entrerò. |
-| *(didascalia)* | (Al [[Fool|Buffone]]) Dentro, ragazzo; va' per primo. Inginocchiandosi Voi senza tetto |
-| LEAR | [[Poverty|povertà]]—<br>Suvvia, entra. Pregherò, e poi [[Sleep|dormirò]]. |
-| *(didascalia)* | Esce il [[Fool|Buffone]] |
-| LEAR | Poveri miserabili nudi, ovunque voi siate,<br>che subite il flagello di questa spietata [[Storm|tempesta]],<br>come vi difenderanno i vostri capi senza tetto e i fianchi non nutriti,<br>i vostri stracci a occhielli e finestre,<br>da [[Seasons|stagioni]] come queste? Oh, ho avuto<br>troppo poca cura di ciò. Prendi medicina, o fasto,<br>esponiti a sentire ciò che sentono i miserabili,<br>sì che tu possa scuotere verso di loro il superfluo<br>e mostrare i cieli più giusti. |
-| *(didascalia)* | Entrano il [[Fool|Buffone]] di Lear, ed [[Edgar]] come mendicante di Bedlam nella capanna |
-| [[Edgar|EDGAR]] | Braccio e mezzo! Braccio e mezzo! Povero Tom! |
-| [[Fool|FOOL]] | Non entrare qui, zietto. C'è uno spirito. Aiuto, aiuto! |
-| [[Kent|KENT]] | Dammi la mano. Chi è là? [[Fool|FOOL]] Uno spirito, uno spirito. Dice che si chiama Povero Tom. |
-| [[Kent|KENT]] | Chi sei tu che brontoli là nella paglia?<br>Vieni fuori. |
+| *(didascalia)* | (Al [[Fool\|Buffone]]) Dentro, ragazzo; va' per primo. Inginocchiandosi Voi senza tetto |
+| LEAR | [[Poverty\|povertà]]—<br>Suvvia, entra. Pregherò, e poi [[Sleep\|dormirò]]. |
+| *(didascalia)* | Esce il [[Fool\|Buffone]] |
+| LEAR | Poveri miserabili nudi, ovunque voi siate,<br>che subite il flagello di questa spietata [[Storm\|tempesta]],<br>come vi difenderanno i vostri capi senza tetto e i fianchi non nutriti,<br>i vostri stracci a occhielli e finestre,<br>da [[Seasons\|stagioni]] come queste? Oh, ho avuto<br>troppo poca cura di ciò. Prendi medicina, o fasto,<br>esponiti a sentire ciò che sentono i miserabili,<br>sì che tu possa scuotere verso di loro il superfluo<br>e mostrare i cieli più giusti. |
+| *(didascalia)* | Entrano il [[Fool\|Buffone]] di Lear, ed [[Edgar]] come mendicante di Bedlam nella capanna |
+| [[Edgar\|EDGAR]] | Braccio e mezzo! Braccio e mezzo! Povero Tom! |
+| [[Fool\|FOOL]] | Non entrare qui, zietto. C'è uno spirito. Aiuto, aiuto! |
+| [[Kent\|KENT]] | Dammi la mano. Chi è là? [[Fool\|FOOL]] Uno spirito, uno spirito. Dice che si chiama Povero Tom. |
+| [[Kent\|KENT]] | Chi sei tu che brontoli là nella paglia?<br>Vieni fuori. |
 | *(didascalia)* | [[Edgar]] viene fuori |
-| [[Edgar|EDGAR]] | Via, il demonio immondo mi segue.<br>Fra il biancospino acuto soffiano i venti. Hm!<br>Va' al tuo freddo letto e riscàldati. |
+| [[Edgar\|EDGAR]] | Via, il demonio immondo mi segue.<br>Fra il biancospino acuto soffiano i venti. Hm!<br>Va' al tuo freddo letto e riscàldati. |
 | LEAR | Desti tutto alle tue due figlie,<br>e sei ridotto a questo? |
-| [[Edgar|EDGAR]] | Chi dà qualcosa al Povero Tom, che il demonio immondo ha condotto attraverso il [[Fire|fuoco]] e la fiamma, attraverso il guado e il gorgo, sopra la palude e il pantano; che gli ha messo coltelli sotto il guanciale e capestri nel suo banco di chiesa, veleno per topi accanto alla minestra, l'ha fatto superbo di cuore da cavalcare un [[Horse|cavallo]] baio trottatore su ponti larghi quattro pollici, da inseguire la propria [[Shadow|ombra]] come un traditore. Benedetti i tuoi cinque sensi, Tom ha freddo! Oh, do, de, do, de, do de. Ti guardi il cielo da turbini, da influssi maligni e da malìe. Fa' al Povero Tom un po' di [[Charity|carità]], lui che il demonio immondo tormenta. Là potrei prenderlo ora, e là, e là ancora, e là. |
-| *(didascalia)* | [[Storm|Tempesta]] ancora |
+| [[Edgar\|EDGAR]] | Chi dà qualcosa al Povero Tom, che il demonio immondo ha condotto attraverso il [[Fire\|fuoco]] e la fiamma, attraverso il guado e il gorgo, sopra la palude e il pantano; che gli ha messo coltelli sotto il guanciale e capestri nel suo banco di chiesa, veleno per topi accanto alla minestra, l'ha fatto superbo di cuore da cavalcare un [[Horse\|cavallo]] baio trottatore su ponti larghi quattro pollici, da inseguire la propria [[Shadow\|ombra]] come un traditore. Benedetti i tuoi cinque sensi, Tom ha freddo! Oh, do, de, do, de, do de. Ti guardi il cielo da turbini, da influssi maligni e da malìe. Fa' al Povero Tom un po' di [[Charity\|carità]], lui che il demonio immondo tormenta. Là potrei prenderlo ora, e là, e là ancora, e là. |
+| *(didascalia)* | [[Storm\|Tempesta]] ancora |
 | LEAR | Le sue figlie l'hanno ridotto a questo punto?<br>(A [[Edgar]]) Non hai potuto salvar nulla? Volesti<br>dar loro tutto? |
-| [[Fool|FOOL]] | Ma no, s'è riservato una coperta, altrimenti saremmo stati tutti svergognati. |
+| [[Fool\|FOOL]] | Ma no, s'è riservato una coperta, altrimenti saremmo stati tutti svergognati. |
 | LEAR | (a [[Edgar]])<br>Ora tutte le pesti che nell'aria sospesa<br>pendono fatali sulle colpe degli uomini cadano sulle tue figlie! |
-| [[Kent|KENT]] | Non ha figlie, signore. |
-| LEAR | [[Death|Morte]], traditore! Nulla poteva ridurre la [[Nature|natura]]<br>a tale bassezza se non le sue figlie snaturate.<br>(A [[Edgar]]) È forse la moda che i padri respinti<br>abbiano così poca [[Mercy|pietà]] della propria carne?<br>Giudiziosa punizione: fu questa carne a generare<br>quelle figlie pellicano. |
-| [[Edgar|EDGAR]] | Pillicock sedeva sul [[Hill|Colle]] di Pillicock; alò, alò, lu, lu. |
-| [[Fool|FOOL]] | Questa fredda [[Night|notte]] ci muterà tutti in matti e in pazzi. |
-| [[Edgar|EDGAR]] | Guàrdati dal demonio immondo; obbedisci ai tuoi genitori; mantieni giusta la tua parola; non giurare; non giacere con la sposa giurata d'altri; non porre il tuo dolce cuore in superbe vesti. Tom ha freddo. |
+| [[Kent\|KENT]] | Non ha figlie, signore. |
+| LEAR | [[Death\|Morte]], traditore! Nulla poteva ridurre la [[Nature\|natura]]<br>a tale bassezza se non le sue figlie snaturate.<br>(A [[Edgar]]) È forse la moda che i padri respinti<br>abbiano così poca [[Mercy\|pietà]] della propria carne?<br>Giudiziosa punizione: fu questa carne a generare<br>quelle figlie pellicano. |
+| [[Edgar\|EDGAR]] | Pillicock sedeva sul [[Hill\|Colle]] di Pillicock; alò, alò, lu, lu. |
+| [[Fool\|FOOL]] | Questa fredda [[Night\|notte]] ci muterà tutti in matti e in pazzi. |
+| [[Edgar\|EDGAR]] | Guàrdati dal demonio immondo; obbedisci ai tuoi genitori; mantieni giusta la tua parola; non giurare; non giacere con la sposa giurata d'altri; non porre il tuo dolce cuore in superbe vesti. Tom ha freddo. |
 | LEAR | Che cosa sei stato? |
-| [[Edgar|EDGAR]] | Un servitore, superbo di cuore e di mente, che m'arricciavo i capelli, portavo guanti sul cappello, servivo la libidine del cuore della mia padrona, e con lei compivo l'atto delle tenebre; giuravo tanti giuramenti quante parole dicevo, e li rompevo nel dolce volto del cielo; uno che s'addormentava macchinando lussuria, e si svegliava per compierla. Il vino l'amavo profondamente, i dadi teneramente, e in fatto di donne superavo in amanti il Turco. Falso di cuore, leggero d'orecchio, sanguinario di mano; porco nella pigrizia, volpe nella furbizia, lupo nell'avidità, cane nella [[Madness|rabbia]], [[Lion|leone]] nella preda. Non lasciare che lo scricchiolio delle scarpe né il fruscio delle sete tradiscano il tuo povero cuore alla donna. Tieni il piede fuori dai bordelli, la mano fuori dalle sottane, la penna lontana dai libri degli usurai, e sfida il demonio immondo. Ancora fra il biancospino soffia il freddo [[Wind|vento]], dice suum, mun, nonny. [[Dauphin|Delfino]], ragazzo mio! Ragazzo, cessez; làscialo trottar via. |
-| *(didascalia)* | [[Storm|Tempesta]] ancora |
-| LEAR | Staresti meglio in una [[Grave|tomba]] che affrontare col tuo [[Body|corpo]] scoperto questa violenza dei cieli. L'uomo non è più di questo? Consideralo [[Well|bene]]. Tu non devi al verme la seta, alla bestia la pelle, alla pecora la lana, al gatto il profumo. Ah, qui tre di noi sono sofisticati; tu sei la cosa stessa. L'uomo senz'aggiunte non è altro che un povero animale nudo e biforcuto come sei tu. Via, via, voi cose prestate! Su, sbottonatemi qui. |
-| *(didascalia)* | Entra il [[Duke of Gloucester|duca di Gloucester]] con una torcia |
-| [[Fool|FOOL]] | Ti prego, zietto, accontèntati. È una [[Night|notte]] cattiva per nuotarci. Ora un piccolo [[Fire|fuoco]] in un campo selvaggio sarebbe come il cuore d'un vecchio libertino—una piccola scintilla, e tutto il resto del suo [[Body|corpo]] freddo. Guarda, ecco che viene un [[Fire|fuoco]] che cammina. |
-| *(didascalia)* | [[Edgar|EDGAR]] Questo è il demonio immondo Flibbertigibbet. Comincia al coprifuoco e cammina fino al primo canto del gallo. Dà la cateratta e la macchia all'occhio, fa lo strabismo, e produce il labbro leporino; fa muffire il bianco frumento, e nuoce alla povera creatura della terra. Canta |
-| [[Fool|FOOL]] | Svitino percorse tre volte la landa,<br>incontrò la [[Night|cavalla notturna]] e i suoi nove puledri,<br>le ordinò di scendere<br>e di giurar fede,<br>e va' via, [[Witch|strega]], va' via! |
-| [[Kent|KENT]] | (a Lear)<br>Come sta vostra grazia? |
+| [[Edgar\|EDGAR]] | Un servitore, superbo di cuore e di mente, che m'arricciavo i capelli, portavo guanti sul cappello, servivo la libidine del cuore della mia padrona, e con lei compivo l'atto delle tenebre; giuravo tanti giuramenti quante parole dicevo, e li rompevo nel dolce volto del cielo; uno che s'addormentava macchinando lussuria, e si svegliava per compierla. Il vino l'amavo profondamente, i dadi teneramente, e in fatto di donne superavo in amanti il Turco. Falso di cuore, leggero d'orecchio, sanguinario di mano; porco nella pigrizia, volpe nella furbizia, lupo nell'avidità, cane nella [[Madness\|rabbia]], [[Lion\|leone]] nella preda. Non lasciare che lo scricchiolio delle scarpe né il fruscio delle sete tradiscano il tuo povero cuore alla donna. Tieni il piede fuori dai bordelli, la mano fuori dalle sottane, la penna lontana dai libri degli usurai, e sfida il demonio immondo. Ancora fra il biancospino soffia il freddo [[Wind\|vento]], dice suum, mun, nonny. [[Dauphin\|Delfino]], ragazzo mio! Ragazzo, cessez; làscialo trottar via. |
+| *(didascalia)* | [[Storm\|Tempesta]] ancora |
+| LEAR | Staresti meglio in una [[Grave\|tomba]] che affrontare col tuo [[Body\|corpo]] scoperto questa violenza dei cieli. L'uomo non è più di questo? Consideralo [[Well\|bene]]. Tu non devi al verme la seta, alla bestia la pelle, alla pecora la lana, al gatto il profumo. Ah, qui tre di noi sono sofisticati; tu sei la cosa stessa. L'uomo senz'aggiunte non è altro che un povero animale nudo e biforcuto come sei tu. Via, via, voi cose prestate! Su, sbottonatemi qui. |
+| *(didascalia)* | Entra il [[Duke of Gloucester\|duca di Gloucester]] con una torcia |
+| [[Fool\|FOOL]] | Ti prego, zietto, accontèntati. È una [[Night\|notte]] cattiva per nuotarci. Ora un piccolo [[Fire\|fuoco]] in un campo selvaggio sarebbe come il cuore d'un vecchio libertino—una piccola scintilla, e tutto il resto del suo [[Body\|corpo]] freddo. Guarda, ecco che viene un [[Fire\|fuoco]] che cammina. |
+| *(didascalia)* | [[Edgar\|EDGAR]] Questo è il demonio immondo Flibbertigibbet. Comincia al coprifuoco e cammina fino al primo canto del gallo. Dà la cateratta e la macchia all'occhio, fa lo strabismo, e produce il labbro leporino; fa muffire il bianco frumento, e nuoce alla povera creatura della terra. Canta |
+| [[Fool\|FOOL]] | Svitino percorse tre volte la landa,<br>incontrò la [[Night\|cavalla notturna]] e i suoi nove puledri,<br>le ordinò di scendere<br>e di giurar fede,<br>e va' via, [[Witch\|strega]], va' via! |
+| [[Kent\|KENT]] | (a Lear)<br>Come sta vostra grazia? |
 | LEAR | Chi è costui? |
-| [[Kent|KENT]] | (a [[Gloucester]]) Chi è là? Che cosa cercate? |
-| [[Gloucester|GLOUCESTER]] | Chi siete voi là? I vostri nomi? |
-| [[Edgar|EDGAR]] | Povero Tom, che mangia la rana natante, il rospo, il girino, la lucertola dei muri e l'[[Water|acqua]]; che nella furia del suo cuore, quando il demonio immondo infuria, mangia sterco di vacca in insalata, inghiotte il vecchio topo e il cane del fossato, beve il verde manto dello stagno fermo; che è frustato di parrocchia in parrocchia, e messo ai ceppi, punito e imprigionato; che ebbe tre vestiti sulla schiena, sei camicie sul [[Body|corpo]],<br>[[Horse|cavallo]] da cavalcare e arma da portare;<br>ma topi e ratti e simile piccola selvaggina<br>furono il cibo di Tom per sette lunghi anni.<br>Attento al mio seguace. Pace, Smulkin; pace, demonio! |
-| [[Gloucester|GLOUCESTER]] | (a Lear)<br>Come, vostra grazia non ha compagnia migliore? |
-| [[Edgar|EDGAR]] | Il Principe delle Tenebre è un gentiluomo.<br>Modo è chiamato, e Mahu. |
-| [[Gloucester|GLOUCESTER]] | (a Lear)<br>La nostra carne e il nostro [[Blood|sangue]], mio signore, son divenuti così vili<br>che odiano ciò che li genera. |
-| [[Edgar|EDGAR]] | Il povero Tom ha freddo. |
-| [[Gloucester|GLOUCESTER]] | (a Lear)<br>Entrate con me. Il mio dovere non può sopportare<br>d'obbedire in tutto ai duri comandi delle vostre figlie.<br>Benché la loro ingiunzione sia di sbarrare le mie porte<br>e di lasciare che questa tirannica [[Night|notte]] v'afferri,<br>pure ho osato venire a cercarvi<br>e a condurvi dove [[Fire|fuoco]] e cibo son pronti. |
+| [[Kent\|KENT]] | (a [[Gloucester]]) Chi è là? Che cosa cercate? |
+| [[Gloucester\|GLOUCESTER]] | Chi siete voi là? I vostri nomi? |
+| [[Edgar\|EDGAR]] | Povero Tom, che mangia la rana natante, il rospo, il girino, la lucertola dei muri e l'[[Water\|acqua]]; che nella furia del suo cuore, quando il demonio immondo infuria, mangia sterco di vacca in insalata, inghiotte il vecchio topo e il cane del fossato, beve il verde manto dello stagno fermo; che è frustato di parrocchia in parrocchia, e messo ai ceppi, punito e imprigionato; che ebbe tre vestiti sulla schiena, sei camicie sul [[Body\|corpo]],<br>[[Horse\|cavallo]] da cavalcare e arma da portare;<br>ma topi e ratti e simile piccola selvaggina<br>furono il cibo di Tom per sette lunghi anni.<br>Attento al mio seguace. Pace, Smulkin; pace, demonio! |
+| [[Gloucester\|GLOUCESTER]] | (a Lear)<br>Come, vostra grazia non ha compagnia migliore? |
+| [[Edgar\|EDGAR]] | Il Principe delle Tenebre è un gentiluomo.<br>Modo è chiamato, e Mahu. |
+| [[Gloucester\|GLOUCESTER]] | (a Lear)<br>La nostra carne e il nostro [[Blood\|sangue]], mio signore, son divenuti così vili<br>che odiano ciò che li genera. |
+| [[Edgar\|EDGAR]] | Il povero Tom ha freddo. |
+| [[Gloucester\|GLOUCESTER]] | (a Lear)<br>Entrate con me. Il mio dovere non può sopportare<br>d'obbedire in tutto ai duri comandi delle vostre figlie.<br>Benché la loro ingiunzione sia di sbarrare le mie porte<br>e di lasciare che questa tirannica [[Night\|notte]] v'afferri,<br>pure ho osato venire a cercarvi<br>e a condurvi dove [[Fire\|fuoco]] e cibo son pronti. |
 | LEAR | Prima lasciate ch'io parli con questo filosofo.<br>(A [[Edgar]]) Qual è la causa del tuono? |
-| [[Kent|KENT]] | Mio buon signore, accettate la sua offerta; entrate nella [[house|casa]]. |
+| [[Kent\|KENT]] | Mio buon signore, accettate la sua offerta; entrate nella [[house\|casa]]. |
 | LEAR | Voglio scambiare una parola con questo dotto Tebano.<br>(A [[Edgar]]) Qual è il tuo studio? |
-| [[Edgar|EDGAR]] | Come prevenire il demonio, e uccidere i parassiti. |
+| [[Edgar\|EDGAR]] | Come prevenire il demonio, e uccidere i parassiti. |
 | LEAR | Lascia ch'io ti chieda una parola in privato.<br>Conversano in disparte |
-| [[Kent|KENT]] | (a [[Gloucester]])<br>Importunatelo ancora una volta perché venga, mio signore.<br>Il suo senno comincia a vacillare. |
-| [[Gloucester|GLOUCESTER]] | Puoi biasimarlo? |
-| *(didascalia)* | [[Storm|Tempesta]] ancora |
-| [[Gloucester|GLOUCESTER]] | Le sue figlie cercano la sua [[Death|morte]]. Ah, quel buon [[Kent]],<br>disse che sarebbe andata così, povero uomo bandito!<br>Tu dici che il [[King|Re]] impazzisce; ti dirò, amico,<br>io stesso son quasi pazzo. Avevo un figlio,<br>ora bandito dal mio [[Blood|sangue]]; attentò alla mia vita<br>or non è molto, pochissimo fa. L'amavo, amico;<br>nessun padre più caramente il proprio figlio. A dirti il vero,<br>il dolore m'ha sconvolto il senno. Che [[Night|notte]] è questa!<br>(A Lear) Supplico vostra grazia— |
-| LEAR | Oh, chiedo [[Mercy|venia]], signore!<br>(A [[Edgar]]) Nobile filosofo, la vostra compagnia. |
-| [[Edgar|EDGAR]] | Tom ha freddo. |
-| [[Gloucester|GLOUCESTER]] | Dentro, amico, là nella capanna; tienti caldo. |
+| [[Kent\|KENT]] | (a [[Gloucester]])<br>Importunatelo ancora una volta perché venga, mio signore.<br>Il suo senno comincia a vacillare. |
+| [[Gloucester\|GLOUCESTER]] | Puoi biasimarlo? |
+| *(didascalia)* | [[Storm\|Tempesta]] ancora |
+| [[Gloucester\|GLOUCESTER]] | Le sue figlie cercano la sua [[Death\|morte]]. Ah, quel buon [[Kent]],<br>disse che sarebbe andata così, povero uomo bandito!<br>Tu dici che il [[King\|Re]] impazzisce; ti dirò, amico,<br>io stesso son quasi pazzo. Avevo un figlio,<br>ora bandito dal mio [[Blood\|sangue]]; attentò alla mia vita<br>or non è molto, pochissimo fa. L'amavo, amico;<br>nessun padre più caramente il proprio figlio. A dirti il vero,<br>il dolore m'ha sconvolto il senno. Che [[Night\|notte]] è questa!<br>(A Lear) Supplico vostra grazia— |
+| LEAR | Oh, chiedo [[Mercy\|venia]], signore!<br>(A [[Edgar]]) Nobile filosofo, la vostra compagnia. |
+| [[Edgar\|EDGAR]] | Tom ha freddo. |
+| [[Gloucester\|GLOUCESTER]] | Dentro, amico, là nella capanna; tienti caldo. |
 | LEAR | Su, entriamo tutti. |
-| [[Kent|KENT]] | Di qua, mio signore. |
+| [[Kent\|KENT]] | Di qua, mio signore. |
 | LEAR | Con lui!<br>Voglio restare col mio filosofo. |
-| [[Kent|KENT]] | (a [[Gloucester]])<br>Mio buon signore, assecondatelo; lasciate che prenda con sé quel tale. |
-| [[Gloucester|GLOUCESTER]] | Portatelo voi con voi. |
-| *(didascalia)* | [[Kent|KENT]] a [[Edgar]] |
-| [[Gloucester|GLOUCESTER]] | Ehi tu, vieni. Vieni con noi. |
+| [[Kent\|KENT]] | (a [[Gloucester]])<br>Mio buon signore, assecondatelo; lasciate che prenda con sé quel tale. |
+| [[Gloucester\|GLOUCESTER]] | Portatelo voi con voi. |
+| *(didascalia)* | [[Kent\|KENT]] a [[Edgar]] |
+| [[Gloucester\|GLOUCESTER]] | Ehi tu, vieni. Vieni con noi. |
 | LEAR | (a [[Edgar]])<br>Vieni, buon Ateniese. |
-| [[Gloucester|GLOUCESTER]] | Niente parole, niente parole. Zitto. |
-| [[Edgar|EDGAR]] | Il [[Child|fanciullo]] Roland alla torre oscura giunse,<br>la sua parola era sempre 'Fi, fo, e fum;<br>fiuto il [[Blood|sangue]] d'un uomo britanno.' |
+| [[Gloucester\|GLOUCESTER]] | Niente parole, niente parole. Zitto. |
+| [[Edgar\|EDGAR]] | Il [[Child\|fanciullo]] Roland alla torre oscura giunse,<br>la sua parola era sempre 'Fi, fo, e fum;<br>fiuto il [[Blood\|sangue]] d'un uomo britanno.' |
 | *(didascalia)* | Escono |
 
 
@@ -2985,15 +2985,15 @@ The [[Tragedy]] of [[King Lear]]
 | Chi parla | Battuta |
 |---|---|
 | *(didascalia)* | Entrano il duca di Cornwall ed Edmond |
-| CORNWALL | Avrò la mia [[Revenge|vendetta]] prima di lasciare la sua [[house|casa]]. |
-| EDMOND | Come, mio signore, io possa essere biasimato, perché la [[Nature|natura]] cede così alla lealtà, un poco mi spaventa a pensarci. |
-| CORNWALL | Ora m'accorgo che non fu del tutto la malvagia disposizione di vostro fratello a fargli cercare la sua [[Death|morte]], ma un merito provocante messo all'opera da una riprovevole cattiveria in lui stesso. 8 |
+| CORNWALL | Avrò la mia [[Revenge\|vendetta]] prima di lasciare la sua [[house\|casa]]. |
+| EDMOND | Come, mio signore, io possa essere biasimato, perché la [[Nature\|natura]] cede così alla lealtà, un poco mi spaventa a pensarci. |
+| CORNWALL | Ora m'accorgo che non fu del tutto la malvagia disposizione di vostro fratello a fargli cercare la sua [[Death\|morte]], ma un merito provocante messo all'opera da una riprovevole cattiveria in lui stesso. 8 |
 | EDMOND | Quanto è maligna la mia fortuna, che devo pentirmi d'essere giusto! Questa è la lettera di cui parlava, che lo dimostra parte informatrice a vantaggio della Francia. Oh cieli, che questo tradimento non fosse, o ch'io non ne fossi lo scopritore! |
 | CORNWALL | Venite con me dalla Duchessa. |
 | EDMOND | Se la materia di questa carta è certa, avete tra le mani un affare poderoso. |
 | CORNWALL | Vera o falsa, essa t'ha fatto conte di [[Gloucester]]. Scopri dov'è tuo padre, sì che sia pronto per il nostro arresto. |
-| *(didascalia)* | EDMOND a parte Se lo trovo a confortare il [[King|Re]], ciò riempirà più pienamente il suo sospetto. (A Cornwall) Persevererò nel mio corso di lealtà, benché il conflitto sia aspro tra essa e il mio [[Blood|sangue]]. |
-| CORNWALL | Riporrò fiducia in te, e tu troverai un padre più caro nel mio [[Love|amore]]. Escono |
+| *(didascalia)* | EDMOND a parte Se lo trovo a confortare il [[King\|Re]], ciò riempirà più pienamente il suo sospetto. (A Cornwall) Persevererò nel mio corso di lealtà, benché il conflitto sia aspro tra essa e il mio [[Blood\|sangue]]. |
+| CORNWALL | Riporrò fiducia in te, e tu troverai un padre più caro nel mio [[Love\|amore]]. Escono |
 
 
 
@@ -3033,30 +3033,30 @@ The [[Tragedy]] of [[King Lear]]
 
 | Chi parla | Battuta |
 |---|---|
-| *(didascalia)* | Entrano il conte di [[Kent]] travestito, e il [[Duke of Gloucester|duca di Gloucester]] |
-| [[Gloucester|GLOUCESTER]] | Qui si sta meglio che all'aria aperta; prendetelo con gratitudine. Aggiungerò al conforto quel poco che posso. Non starò a lungo lontano da voi. |
-| [[Kent|KENT]] | Tutta la forza del suo senno ha ceduto alla sua insofferenza; gli dèi ricompensino la vostra bontà! |
+| *(didascalia)* | Entrano il conte di [[Kent]] travestito, e il [[Duke of Gloucester\|duca di Gloucester]] |
+| [[Gloucester\|GLOUCESTER]] | Qui si sta meglio che all'aria aperta; prendetelo con gratitudine. Aggiungerò al conforto quel poco che posso. Non starò a lungo lontano da voi. |
+| [[Kent\|KENT]] | Tutta la forza del suo senno ha ceduto alla sua insofferenza; gli dèi ricompensino la vostra bontà! |
 | *(didascalia)* | Esce [[Gloucester]] |
-| *(didascalia)* | Entrano [[King Lear]], [[Edgar]] come mendicante di Bedlam, e il [[Fool|Buffone]] di Lear |
-| [[Edgar|EDGAR]] | Frateretto mi chiama, e mi dice che Nerone è pescatore nel lago delle tenebre. Prega, [[Innocent|innocente]], e guàrdati dal demonio immondo. |
-| [[Fool|FOOL]] | Ti prego, zietto, dimmi se un pazzo sia gentiluomo o villano libero. |
-| LEAR | Un [[King|re]], un [[King|re]]! |
-| [[Fool|FOOL]] | No, è un villano che ha per figlio un gentiluomo; ché è un villano pazzo chi vede il figlio gentiluomo prima di sé. |
+| *(didascalia)* | Entrano [[King Lear]], [[Edgar]] come mendicante di Bedlam, e il [[Fool\|Buffone]] di Lear |
+| [[Edgar\|EDGAR]] | Frateretto mi chiama, e mi dice che Nerone è pescatore nel lago delle tenebre. Prega, [[Innocent\|innocente]], e guàrdati dal demonio immondo. |
+| [[Fool\|FOOL]] | Ti prego, zietto, dimmi se un pazzo sia gentiluomo o villano libero. |
+| LEAR | Un [[King\|re]], un [[King\|re]]! |
+| [[Fool\|FOOL]] | No, è un villano che ha per figlio un gentiluomo; ché è un villano pazzo chi vede il figlio gentiluomo prima di sé. |
 | LEAR | Averne mille con rossi spiedi roventi<br>che vengano sibilando addosso a loro! |
-| [[Edgar|EDGAR]] | Benedetti i tuoi cinque sensi. |
-| [[Kent|KENT]] | (a Lear)<br>Oh, pietà! Signore, dov'è ora la pazienza<br>che così spesso vi vantavate di serbare? |
-| [[Edgar|EDGAR]] | (a parte)<br>Le mie [[Tears|lacrime]] cominciano a prendere tanto le sue parti<br>che guastano la mia finzione. |
-| LEAR | I piccoli [[dogs|cani]] e tutti quanti,<br>Tray, Blanch e Sweetheart—guarda, mi abbaiano contro. |
-| [[Edgar|EDGAR]] | Tom scaglierà loro la testa.—Via, botoli!<br>Sia la tua bocca o nera o bianca,<br>dente che avvelena se morde,<br>mastino, levriero, bastardo torvo,<br>segugio o spaniel, cagna o cane,<br>botolo mozzo o dalla coda arrotolata,<br>Tom lo farà piangere e gemere;<br>ché scagliando così la mia testa,<br>i [[dogs|cani]] saltarono il cancello, e tutti son fuggiti.<br>Do, de, de, de. Sese! Su, in marcia verso sagre e fiere<br>e borghi di mercato. Povero Tom, il tuo corno è asciutto. |
-| LEAR | Allora lasciate che sezionino [[Regan]]; si veda che cosa le cova intorno al cuore. C'è qualche causa in [[Nature|natura]] che faccia questi cuori duri? (A [[Edgar]]) Voi, signore, v'assumo per uno dei miei cento, solo che non mi piace il taglio delle vostre vesti. Direte che sono persiane; ma siano cambiate. |
-| [[Kent|KENT]] | Ora, mio buon signore, coricatevi qui e riposate un poco. |
+| [[Edgar\|EDGAR]] | Benedetti i tuoi cinque sensi. |
+| [[Kent\|KENT]] | (a Lear)<br>Oh, pietà! Signore, dov'è ora la pazienza<br>che così spesso vi vantavate di serbare? |
+| [[Edgar\|EDGAR]] | (a parte)<br>Le mie [[Tears\|lacrime]] cominciano a prendere tanto le sue parti<br>che guastano la mia finzione. |
+| LEAR | I piccoli [[dogs\|cani]] e tutti quanti,<br>Tray, Blanch e Sweetheart—guarda, mi abbaiano contro. |
+| [[Edgar\|EDGAR]] | Tom scaglierà loro la testa.—Via, botoli!<br>Sia la tua bocca o nera o bianca,<br>dente che avvelena se morde,<br>mastino, levriero, bastardo torvo,<br>segugio o spaniel, cagna o cane,<br>botolo mozzo o dalla coda arrotolata,<br>Tom lo farà piangere e gemere;<br>ché scagliando così la mia testa,<br>i [[dogs\|cani]] saltarono il cancello, e tutti son fuggiti.<br>Do, de, de, de. Sese! Su, in marcia verso sagre e fiere<br>e borghi di mercato. Povero Tom, il tuo corno è asciutto. |
+| LEAR | Allora lasciate che sezionino [[Regan]]; si veda che cosa le cova intorno al cuore. C'è qualche causa in [[Nature\|natura]] che faccia questi cuori duri? (A [[Edgar]]) Voi, signore, v'assumo per uno dei miei cento, solo che non mi piace il taglio delle vostre vesti. Direte che sono persiane; ma siano cambiate. |
+| [[Kent\|KENT]] | Ora, mio buon signore, coricatevi qui e riposate un poco. |
 | LEAR | Non fate rumore, non fate rumore. Tirate le cortine.<br>Così, così. Andremo a cena domattina. |
 | *(didascalia)* | Egli si corica |
-| [[Fool|FOOL]] | E io andrò a letto a [[Noon|mezzogiorno]]. |
-| *(didascalia)* | Entra il [[Duke of Gloucester|duca di Gloucester]] |
-| [[Gloucester|GLOUCESTER]] | (a [[Kent]])<br>Vieni qua, amico. Dov'è il [[King|Re]] mio padrone? |
-| [[Kent|KENT]] | Qui, signore, ma non lo disturbate; il suo senno se n'è andato. |
-| [[Gloucester|GLOUCESTER]] | Buon amico, ti prego, prendilo tra le braccia.<br>Ho udito per caso una trama di [[Death|morte]] contro di lui.<br>C'è una lettiga pronta. Deponilo dentro<br>e guida verso Dover, amico, dove troverai<br>e accoglienza e protezione. Solleva il tuo padrone.<br>Se indugiassi mezz'ora, la sua vita,<br>con la tua e con quella di tutti coloro che tentano di difenderlo,<br>è di certo perduta. Sollevalo, sollevalo,<br>e seguimi, ché a qualche provvista<br>ti darò rapida scorta. Vieni, vieni via. |
+| [[Fool\|FOOL]] | E io andrò a letto a [[Noon\|mezzogiorno]]. |
+| *(didascalia)* | Entra il [[Duke of Gloucester\|duca di Gloucester]] |
+| [[Gloucester\|GLOUCESTER]] | (a [[Kent]])<br>Vieni qua, amico. Dov'è il [[King\|Re]] mio padrone? |
+| [[Kent\|KENT]] | Qui, signore, ma non lo disturbate; il suo senno se n'è andato. |
+| [[Gloucester\|GLOUCESTER]] | Buon amico, ti prego, prendilo tra le braccia.<br>Ho udito per caso una trama di [[Death\|morte]] contro di lui.<br>C'è una lettiga pronta. Deponilo dentro<br>e guida verso Dover, amico, dove troverai<br>e accoglienza e protezione. Solleva il tuo padrone.<br>Se indugiassi mezz'ora, la sua vita,<br>con la tua e con quella di tutti coloro che tentano di difenderlo,<br>è di certo perduta. Sollevalo, sollevalo,<br>e seguimi, ché a qualche provvista<br>ti darò rapida scorta. Vieni, vieni via. |
 | *(didascalia)* | Escono, [[Kent]] portando Lear tra le braccia |
 
 
@@ -3146,74 +3146,74 @@ The [[Tragedy]] of [[King Lear]]
 | *(didascalia)* | Entrano il duca di Cornwall, [[Regan]], [[Goneril]], Edmond il bastardo, e Servi |
 | CORNWALL | (a [[Goneril]])<br>Correte in fretta dal signore vostro marito.<br>Mostrategli questa lettera. L'esercito di Francia è sbarcato.<br>(Ai Servi) Cercate il traditore [[Gloucester]]. |
 | *(didascalia)* | Escono alcuni |
-| [[Regan|REGAN]] | Impiccatelo all'istante. |
-| [[Goneril|GONERIL]] | Strappategli gli occhi. |
+| [[Regan\|REGAN]] | Impiccatelo all'istante. |
+| [[Goneril\|GONERIL]] | Strappategli gli occhi. |
 | CORNWALL | Lasciatelo al mio dispiacere.<br>Edmond, tenete compagnia a nostra sorella.<br>Le vendette che dobbiamo prendere sul vostro traditore<br>di padre non sono adatte al vostro sguardo. Avvertite il Duca<br>dove state andando, perché faccia rapidissimi preparativi;<br>noi siamo tenuti al pari. I nostri corrieri saranno veloci e<br>informati fra noi. (A [[Goneril]]) Addio, cara sorella.<br>(A Edmond) Addio, mio signore di [[Gloucester]]. |
 | *(didascalia)* | Entra Oswald il maggiordomo |
-| CORNWALL | Ebbene, dov'è il [[King|Re]]? |
-| OSWALD | Il mio signore di [[Gloucester]] l'ha portato via di qui.<br>Trentacinque o trentasei dei suoi cavalieri,<br>ardenti cercatori di lui, l'hanno raggiunto alla porta,<br>e questi, con altri seguaci del conte,<br>sono andati con lui verso Dover, dove si vantano<br>d'avere amici [[Well|ben]] armati. |
+| CORNWALL | Ebbene, dov'è il [[King\|Re]]? |
+| OSWALD | Il mio signore di [[Gloucester]] l'ha portato via di qui.<br>Trentacinque o trentasei dei suoi cavalieri,<br>ardenti cercatori di lui, l'hanno raggiunto alla porta,<br>e questi, con altri seguaci del conte,<br>sono andati con lui verso Dover, dove si vantano<br>d'avere amici [[Well\|ben]] armati. |
 | CORNWALL | Procurate cavalli per la vostra padrona. |
 | *(didascalia)* | Esce Oswald |
-| [[Goneril|GONERIL]] | Addio, dolce signore, e sorella. |
+| [[Goneril\|GONERIL]] | Addio, dolce signore, e sorella. |
 | CORNWALL | Edmond, addio. |
 | *(didascalia)* | Escono [[Goneril]] ed Edmond |
 | CORNWALL | (Ai Servi) Andate a cercare il traditore [[Gloucester]].<br>Legatelo come un ladro; portatelo davanti a noi. |
 | *(didascalia)* | Escono altri Servi |
-| CORNWALL | Benché [[Well|bene]] non possiamo giudicare della sua vita<br>senza le forme della giustizia, pure il nostro potere<br>farà un inchino alla nostra ira, che gli uomini<br>potranno biasimare ma non controllare. |
-| *(didascalia)* | Entrano il [[Duke of Gloucester|duca di Gloucester]] e Servi |
+| CORNWALL | Benché [[Well\|bene]] non possiamo giudicare della sua vita<br>senza le forme della giustizia, pure il nostro potere<br>farà un inchino alla nostra ira, che gli uomini<br>potranno biasimare ma non controllare. |
+| *(didascalia)* | Entrano il [[Duke of Gloucester\|duca di Gloucester]] e Servi |
 | CORNWALL | Chi è là—il traditore? |
-| [[Regan|REGAN]] | Volpe ingrata, è lui. |
+| [[Regan\|REGAN]] | Volpe ingrata, è lui. |
 | CORNWALL | (ai Servi) Legategli stretto le braccia rinsecchite. |
-| [[Gloucester|GLOUCESTER]] | Che intendono le vostre grazie? Miei buoni amici, considerate<br>che siete miei ospiti. Non fatemi tradimento, amici. |
+| [[Gloucester\|GLOUCESTER]] | Che intendono le vostre grazie? Miei buoni amici, considerate<br>che siete miei ospiti. Non fatemi tradimento, amici. |
 | CORNWALL | (ai Servi)<br>Legatelo, dico. |
-| [[Regan|REGAN]] | Forte, forte! Oh sozzo traditore! |
-| [[Gloucester|GLOUCESTER]] | Spietata signora quale voi siete, io non lo sono. |
-| CORNWALL | (ai Servi)<br>Legatelo a questa sedia. (A [[Gloucester]]) [[Villain|Scellerato]], troverai—<br>[[Regan]] strappa la barba a [[Gloucester]] |
-| [[Gloucester|GLOUCESTER]] | Per gli dèi benigni, è cosa ignobilissima<br>strapparmi la barba. |
-| [[Regan|REGAN]] | Così bianca, e un tal traditore? |
-| [[Gloucester|GLOUCESTER]] | Malvagia signora,<br>questi peli che tu strappi dal mio mento<br>prenderanno vita e t'accuseranno. Io sono il vostro ospite.<br>Con mani di ladri non dovreste così sconvolgere<br>i favori della mia ospitalità. Che volete fare? |
+| [[Regan\|REGAN]] | Forte, forte! Oh sozzo traditore! |
+| [[Gloucester\|GLOUCESTER]] | Spietata signora quale voi siete, io non lo sono. |
+| CORNWALL | (ai Servi)<br>Legatelo a questa sedia. (A [[Gloucester]]) [[Villain\|Scellerato]], troverai—<br>[[Regan]] strappa la barba a [[Gloucester]] |
+| [[Gloucester\|GLOUCESTER]] | Per gli dèi benigni, è cosa ignobilissima<br>strapparmi la barba. |
+| [[Regan\|REGAN]] | Così bianca, e un tal traditore? |
+| [[Gloucester\|GLOUCESTER]] | Malvagia signora,<br>questi peli che tu strappi dal mio mento<br>prenderanno vita e t'accuseranno. Io sono il vostro ospite.<br>Con mani di ladri non dovreste così sconvolgere<br>i favori della mia ospitalità. Che volete fare? |
 | CORNWALL | Su, signore, che lettere avete avuto di recente dalla Francia? |
-| [[Regan|REGAN]] | Rispondete senza giri, ché conosciamo la [[Truth|verità]]. |
+| [[Regan\|REGAN]] | Rispondete senza giri, ché conosciamo la [[Truth\|verità]]. |
 | CORNWALL | E che intesa avete coi traditori<br>testé sbarcati nel regno? |
-| [[Regan|REGAN]] | Nelle cui mani<br>avete mandato il [[King|Re]] lunatico. Parlate. |
-| [[Gloucester|GLOUCESTER]] | Ho una lettera scritta per congetture,<br>che venne da uno di cuore neutrale,<br>e non da uno della parte avversa. |
+| [[Regan\|REGAN]] | Nelle cui mani<br>avete mandato il [[King\|Re]] lunatico. Parlate. |
+| [[Gloucester\|GLOUCESTER]] | Ho una lettera scritta per congetture,<br>che venne da uno di cuore neutrale,<br>e non da uno della parte avversa. |
 | CORNWALL | Astuzia. |
-| [[Regan|REGAN]] | E menzogna. |
-| CORNWALL | Dove hai mandato il [[King|Re]]? |
-| [[Gloucester|GLOUCESTER]] | A Dover. |
-| [[Regan|REGAN]] | Perché a Dover? Non t'era stato ingiunto, a tuo rischio— |
+| [[Regan\|REGAN]] | E menzogna. |
+| CORNWALL | Dove hai mandato il [[King\|Re]]? |
+| [[Gloucester\|GLOUCESTER]] | A Dover. |
+| [[Regan\|REGAN]] | Perché a Dover? Non t'era stato ingiunto, a tuo rischio— |
 | CORNWALL | Perché a Dover?—Lascia che risponda a questo. |
-| [[Gloucester|GLOUCESTER]] | Sono legato al palo, e devo reggere l'assalto. |
-| [[Regan|REGAN]] | Perché a Dover? |
-| [[Gloucester|GLOUCESTER]] | Perché non volevo vedere le tue unghie crudeli<br>strappargli i poveri vecchi occhi, né la tua feroce sorella<br>conficcare zanne di cinghiale nella sua carne consacrata.<br>Il mare, con una tal [[Storm|tempesta]] quale il suo capo nudo<br>sopportò nella [[Night|notte]] nera d'inferno, si sarebbe sollevato<br>e avrebbe spento i fuochi stellati.<br>Eppure, povero vecchio cuore, egli aiutò i cieli a piovere.<br>Se i lupi avessero ululato alla tua porta in quel crudele [[Time|tempo]],<br>tu avresti dovuto dire 'Buon portiere, gira la chiave;<br>a tutte le crudeltà mi sottoscrivo.' Ma io vedrò<br>l'alata vendetta raggiungere simili figli. |
+| [[Gloucester\|GLOUCESTER]] | Sono legato al palo, e devo reggere l'assalto. |
+| [[Regan\|REGAN]] | Perché a Dover? |
+| [[Gloucester\|GLOUCESTER]] | Perché non volevo vedere le tue unghie crudeli<br>strappargli i poveri vecchi occhi, né la tua feroce sorella<br>conficcare zanne di cinghiale nella sua carne consacrata.<br>Il mare, con una tal [[Storm\|tempesta]] quale il suo capo nudo<br>sopportò nella [[Night\|notte]] nera d'inferno, si sarebbe sollevato<br>e avrebbe spento i fuochi stellati.<br>Eppure, povero vecchio cuore, egli aiutò i cieli a piovere.<br>Se i lupi avessero ululato alla tua porta in quel crudele [[Time\|tempo]],<br>tu avresti dovuto dire 'Buon portiere, gira la chiave;<br>a tutte le crudeltà mi sottoscrivo.' Ma io vedrò<br>l'alata vendetta raggiungere simili figli. |
 | CORNWALL | Non lo vedrai mai.—Fettows, tenete la sedia.—<br>Su questi tuoi occhi poserò il mio piede. |
-| [[Gloucester|GLOUCESTER]] | Chi spera di vivere fino a essere vecchio<br>mi dia qualche aiuto!—Oh crudele! Oh dèi! |
+| [[Gloucester\|GLOUCESTER]] | Chi spera di vivere fino a essere vecchio<br>mi dia qualche aiuto!—Oh crudele! Oh dèi! |
 | *(didascalia)* | Cornwall strappa uno degli occhi di [[Gloucester]] e lo calpesta |
-| [[Regan|REGAN]] | (a Cornwall)<br>Un lato deriderà l'altro; anche l'altro. |
+| [[Regan\|REGAN]] | (a Cornwall)<br>Un lato deriderà l'altro; anche l'altro. |
 | CORNWALL | (a [[Gloucester]])<br>Se vedete vendetta— |
-| SERVANT | Fermate la mano, mio signore.<br>V'ho servito da quando ero [[Child|bambino]],<br>ma miglior servizio non v'ho mai reso<br>che ora dirvi di fermarvi. |
-| [[Regan|REGAN]] | Ebbene, cane! |
+| SERVANT | Fermate la mano, mio signore.<br>V'ho servito da quando ero [[Child\|bambino]],<br>ma miglior servizio non v'ho mai reso<br>che ora dirvi di fermarvi. |
+| [[Regan\|REGAN]] | Ebbene, cane! |
 | SERVANT | Se portaste una barba sul mento |
 | *(didascalia)* | ve la scuoterei per questa lite. A Cornwall Che cosa |
 | SERVANT | intendete? |
 | CORNWALL | Mio servo della gleba! |
 | SERVANT | E allora avanti, e correte l'azzardo dell'ira.<br>Sfoderano e combattono |
-| [[Regan|REGAN]] | (a un altro Servo)<br>Dammi la tua [[Sword|spada]]. Un villano rizzarsi così! |
-| *(didascalia)* | Ella prende una [[Sword|spada]] e gli corre addosso da dietro |
+| [[Regan\|REGAN]] | (a un altro Servo)<br>Dammi la tua [[Sword\|spada]]. Un villano rizzarsi così! |
+| *(didascalia)* | Ella prende una [[Sword\|spada]] e gli corre addosso da dietro |
 | SERVANT | (a [[Gloucester]])<br>Oh, sono ucciso. Mio signore, vi resta un occhio<br>per vedere qualche sciagura su di lui. |
 | *(didascalia)* | [[Regan]] lo pugnala di nuovo |
 | SERVANT | Oh!<br>Muore |
 | CORNWALL | Perché non veda di più, impediamoglielo. Fuori, vile gelatina! |
 | *(didascalia)* | Strappa l'altro occhio di [[Gloucester]] |
 | CORNWALL | Dov'è ora il tuo splendore? |
-| [[Gloucester|GLOUCESTER]] | Tutto buio e senza conforto. Dov'è mio figlio Edmond?<br>Edmond, accendi tutte le scintille della [[Nature|natura]]<br>per ripagare quest'atto orrendo. |
-| [[Regan|REGAN]] | Fuori, [[Villain|scellerato]] traditore!<br>Tu invochi colui che t'odia. Fu lui<br>che ci rivelò i tuoi tradimenti,<br>ed è troppo buono per aver pietà di te. |
-| [[Gloucester|GLOUCESTER]] | Oh, le mie follie! Allora [[Edgar]] fu calunniato.<br>Dèi benigni, perdonatemi questo, e fatelo prosperare! |
-| [[Regan|REGAN]] | (ai Servi)<br>Andate, spingetelo fuori dalle porte, e lasciate che fiuti<br>la sua strada verso Dover. |
+| [[Gloucester\|GLOUCESTER]] | Tutto buio e senza conforto. Dov'è mio figlio Edmond?<br>Edmond, accendi tutte le scintille della [[Nature\|natura]]<br>per ripagare quest'atto orrendo. |
+| [[Regan\|REGAN]] | Fuori, [[Villain\|scellerato]] traditore!<br>Tu invochi colui che t'odia. Fu lui<br>che ci rivelò i tuoi tradimenti,<br>ed è troppo buono per aver pietà di te. |
+| [[Gloucester\|GLOUCESTER]] | Oh, le mie follie! Allora [[Edgar]] fu calunniato.<br>Dèi benigni, perdonatemi questo, e fatelo prosperare! |
+| [[Regan\|REGAN]] | (ai Servi)<br>Andate, spingetelo fuori dalle porte, e lasciate che fiuti<br>la sua strada verso Dover. |
 | *(didascalia)* | Esce uno o più con [[Gloucester]] |
-| [[Regan|REGAN]] | Come va, mio signore? Come vi sentite? |
-| CORNWALL | Ho ricevuto una ferita. Seguitemi, signora.<br>(Ai Servi) Cacciate fuori quello [[Villain|scellerato]] senz'occhi. Gettate questo<br>schiavo<br>sul letamaio. [[Regan]], perdo sangue in fretta.<br>Fuori tempo giunge questa ferita. Datemi il braccio. |
-| *(didascalia)* | Escono col [[Body|corpo]] |
+| [[Regan\|REGAN]] | Come va, mio signore? Come vi sentite? |
+| CORNWALL | Ho ricevuto una ferita. Seguitemi, signora.<br>(Ai Servi) Cacciate fuori quello [[Villain\|scellerato]] senz'occhi. Gettate questo<br>schiavo<br>sul letamaio. [[Regan]], perdo sangue in fretta.<br>Fuori tempo giunge questa ferita. Datemi il braccio. |
+| *(didascalia)* | Escono col [[Body\|corpo]] |
 
 
 
@@ -3266,41 +3266,41 @@ The [[Tragedy]] of [[King Lear]]
 | Chi parla | Battuta |
 |---|---|
 | *(didascalia)* | Entra [[Edgar]] come mendicante di Bedlam |
-| [[Edgar|EDGAR]] | Meglio così, tuttavia, e sapersi disprezzato<br>che, disprezzato, esser sempre adulato. Essere il peggiore,<br>la cosa più bassa e più abietta della fortuna,<br>lascia pur sempre nella speranza, non vive nella [[Fear|paura]].<br>Il mutamento lamentevole è quello dal meglio;<br>il peggio ritorna al riso. Benvenuta, dunque,<br>tu aria incorporea che io abbraccio.<br>Il misero che tu hai soffiato fino al peggio<br>nulla deve alle tue raffiche. |
-| *(didascalia)* | Entra il [[Duke of Gloucester|duca di Gloucester]] condotto da un Vecchio |
-| [[Edgar|EDGAR]] | Ma chi viene qui?<br>Mio padre, con gli occhi sfigurati? Mondo, mondo, oh mondo!<br>Se le tue strane mutazioni non ci facessero odiarti,<br>la vita non cederebbe alla vecchiaia. |
+| [[Edgar\|EDGAR]] | Meglio così, tuttavia, e sapersi disprezzato<br>che, disprezzato, esser sempre adulato. Essere il peggiore,<br>la cosa più bassa e più abietta della fortuna,<br>lascia pur sempre nella speranza, non vive nella [[Fear\|paura]].<br>Il mutamento lamentevole è quello dal meglio;<br>il peggio ritorna al riso. Benvenuta, dunque,<br>tu aria incorporea che io abbraccio.<br>Il misero che tu hai soffiato fino al peggio<br>nulla deve alle tue raffiche. |
+| *(didascalia)* | Entra il [[Duke of Gloucester\|duca di Gloucester]] condotto da un Vecchio |
+| [[Edgar\|EDGAR]] | Ma chi viene qui?<br>Mio padre, con gli occhi sfigurati? Mondo, mondo, oh mondo!<br>Se le tue strane mutazioni non ci facessero odiarti,<br>la vita non cederebbe alla vecchiaia. |
 | *(didascalia)* | [[Edgar]] si trae in disparte |
 | OLD MAN | (a [[Gloucester]]) Oh mio buon signore,<br>sono stato vostro fittavolo e fittavolo di vostro padre<br>per questi ottant'anni. |
-| [[Gloucester|GLOUCESTER]] | Via, vattene, buon amico, va' via.<br>I tuoi conforti non possono giovarmi in nulla;<br>a te possono nuocere. |
+| [[Gloucester\|GLOUCESTER]] | Via, vattene, buon amico, va' via.<br>I tuoi conforti non possono giovarmi in nulla;<br>a te possono nuocere. |
 | OLD MAN | Non potete vedere la vostra strada. |
-| [[Gloucester|GLOUCESTER]] | Non ho strada, e perciò non ho bisogno d'occhi.<br>Inciampai quando ci vedevo. Assai spesso si vede<br>che i nostri mezzi ci danno falsa sicurezza, e i nostri stessi difetti<br>si rivelano i nostri vantaggi. Oh caro figlio [[Edgar]],<br>pasto dell'ira del tuo padre ingannato—<br>potessi vivere tanto da vederti col mio tatto,<br>direi d'avere di nuovo gli occhi. |
+| [[Gloucester\|GLOUCESTER]] | Non ho strada, e perciò non ho bisogno d'occhi.<br>Inciampai quando ci vedevo. Assai spesso si vede<br>che i nostri mezzi ci danno falsa sicurezza, e i nostri stessi difetti<br>si rivelano i nostri vantaggi. Oh caro figlio [[Edgar]],<br>pasto dell'ira del tuo padre ingannato—<br>potessi vivere tanto da vederti col mio tatto,<br>direi d'avere di nuovo gli occhi. |
 | OLD MAN | Ebbene? Chi è là? |
-| [[Edgar|EDGAR]] | (a parte)<br>Oh dèi! Chi può dire 'Sono al peggio'?<br>Sono peggio di quanto sia mai stato. |
+| [[Edgar\|EDGAR]] | (a parte)<br>Oh dèi! Chi può dire 'Sono al peggio'?<br>Sono peggio di quanto sia mai stato. |
 | OLD MAN | (a [[Gloucester]])<br>È il povero pazzo Tom. |
-| [[Edgar|EDGAR]] | (a parte)<br>E peggio posso ancora essere. Non è il peggio<br>finché possiamo dire 'Questo è il peggio.' |
+| [[Edgar\|EDGAR]] | (a parte)<br>E peggio posso ancora essere. Non è il peggio<br>finché possiamo dire 'Questo è il peggio.' |
 | OLD MAN | (a [[Edgar]]) Amico, dove vai? |
-| [[Gloucester|GLOUCESTER]] | È un mendicante? |
+| [[Gloucester\|GLOUCESTER]] | È un mendicante? |
 | OLD MAN | Pazzo e mendicante insieme. |
-| [[Gloucester|GLOUCESTER]] | Ha un po' di ragione, altrimenti non saprebbe mendicare.<br>Nella [[Storm|tempesta]] della scorsa [[Night|notte]] vidi un tale simile,<br>che mi fece pensare che l'uomo è un verme. Mio figlio<br>mi venne allora in mente, eppure la mia mente<br>era allora appena amica di lui. Ho saputo di più<br>da allora.<br>Come mosche per fanciulli capricciosi siamo noi per gli dèi;<br>ci uccidono per loro sollazzo. |
-| [[Edgar|EDGAR]] | (a parte) Come può essere questo?<br>Cattivo è il mestiere di far da [[Fool|buffone]] al dolore,<br>irritando se stessi e gli altri. |
+| [[Gloucester\|GLOUCESTER]] | Ha un po' di ragione, altrimenti non saprebbe mendicare.<br>Nella [[Storm\|tempesta]] della scorsa [[Night\|notte]] vidi un tale simile,<br>che mi fece pensare che l'uomo è un verme. Mio figlio<br>mi venne allora in mente, eppure la mia mente<br>era allora appena amica di lui. Ho saputo di più<br>da allora.<br>Come mosche per fanciulli capricciosi siamo noi per gli dèi;<br>ci uccidono per loro sollazzo. |
+| [[Edgar\|EDGAR]] | (a parte) Come può essere questo?<br>Cattivo è il mestiere di far da [[Fool\|buffone]] al dolore,<br>irritando se stessi e gli altri. |
 | *(didascalia)* | Si fa avanti |
-| [[Edgar|EDGAR]] | Dio ti benedica, padrone. |
-| [[Gloucester|GLOUCESTER]] | È quello il tale nudo? |
+| [[Edgar\|EDGAR]] | Dio ti benedica, padrone. |
+| [[Gloucester\|GLOUCESTER]] | È quello il tale nudo? |
 | OLD MAN | Sì, mio signore. |
-| [[Gloucester|GLOUCESTER]] | Vattene. Se per amor mio<br>vorrai raggiungerci a un miglio o due di qui<br>sulla strada di Dover, fallo per l'antico [[Love|amore]],<br>e porta qualche coperta per questa nuda [[Soul|anima]],<br>che pregherò di guidarmi. |
+| [[Gloucester\|GLOUCESTER]] | Vattene. Se per amor mio<br>vorrai raggiungerci a un miglio o due di qui<br>sulla strada di Dover, fallo per l'antico [[Love\|amore]],<br>e porta qualche coperta per questa nuda [[Soul\|anima]],<br>che pregherò di guidarmi. |
 | OLD MAN | Ahimè, signore, è pazzo. |
-| [[Gloucester|GLOUCESTER]] | È la piaga del [[Time|tempo]], quando i pazzi guidano i ciechi.<br>Fa' come t'ho detto; o piuttosto fa' come ti piace.<br>Sopra ogni cosa, vattene. |
+| [[Gloucester\|GLOUCESTER]] | È la piaga del [[Time\|tempo]], quando i pazzi guidano i ciechi.<br>Fa' come t'ho detto; o piuttosto fa' come ti piace.<br>Sopra ogni cosa, vattene. |
 | OLD MAN | Gli porterò il miglior vestito che ho, sì,<br>ne venga quel che vuole. Esce |
-| [[Gloucester|GLOUCESTER]] | Ehi tu, uomo nudo! |
-| [[Edgar|EDGAR]] | Il povero Tom ha freddo. (A parte) Non posso reggere oltre la finzione. |
-| [[Gloucester|GLOUCESTER]] | Vieni qua, amico. |
-| [[Edgar|EDGAR]] | (a parte)<br>Eppure devo.<br>(A [[Gloucester]]) Benedetti i tuoi dolci occhi, sanguinano. |
-| [[Gloucester|GLOUCESTER]] | Conosci la strada per Dover? |
-| [[Edgar|EDGAR]] | E la scaletta e il cancello, la mulattiera e il sentiero. Il povero Tom è stato spaventato fuori dal suo buon senno. Dio ti guardi, figlio di brav'uomo, dal demonio immondo. |
-| [[Gloucester|GLOUCESTER]] | Ecco, prendi questa borsa, tu che le piaghe dei cieli<br>hanno<br>umiliato a ogni colpo. Che io sia misero<br>ti rende più felice. Che i cieli operino sempre così.<br>Che l'uomo superfluo e nutrito di libidine,<br>che rende schiava la vostra legge, che non vuol vedere<br>perché non sente, senta presto la vostra potenza.<br>Così la distribuzione disferebbe l'eccesso,<br>e ciascuno avrebbe abbastanza. Conosci Dover? |
-| [[Edgar|EDGAR]] | Sì, padrone. |
-| [[Gloucester|GLOUCESTER]] | C'è una scogliera la cui alta e curva testa<br>guarda spaventosamente nel profondo racchiuso.<br>Portami solo fino al suo orlo estremo<br>e riparerò la miseria che tu porti<br>con qualche cosa di prezioso che ho con me. Da quel luogo<br>non avrò bisogno di guida. |
-| [[Edgar|EDGAR]] | Dammi il braccio.<br>Il povero Tom ti condurrà. |
+| [[Gloucester\|GLOUCESTER]] | Ehi tu, uomo nudo! |
+| [[Edgar\|EDGAR]] | Il povero Tom ha freddo. (A parte) Non posso reggere oltre la finzione. |
+| [[Gloucester\|GLOUCESTER]] | Vieni qua, amico. |
+| [[Edgar\|EDGAR]] | (a parte)<br>Eppure devo.<br>(A [[Gloucester]]) Benedetti i tuoi dolci occhi, sanguinano. |
+| [[Gloucester\|GLOUCESTER]] | Conosci la strada per Dover? |
+| [[Edgar\|EDGAR]] | E la scaletta e il cancello, la mulattiera e il sentiero. Il povero Tom è stato spaventato fuori dal suo buon senno. Dio ti guardi, figlio di brav'uomo, dal demonio immondo. |
+| [[Gloucester\|GLOUCESTER]] | Ecco, prendi questa borsa, tu che le piaghe dei cieli<br>hanno<br>umiliato a ogni colpo. Che io sia misero<br>ti rende più felice. Che i cieli operino sempre così.<br>Che l'uomo superfluo e nutrito di libidine,<br>che rende schiava la vostra legge, che non vuol vedere<br>perché non sente, senta presto la vostra potenza.<br>Così la distribuzione disferebbe l'eccesso,<br>e ciascuno avrebbe abbastanza. Conosci Dover? |
+| [[Edgar\|EDGAR]] | Sì, padrone. |
+| [[Gloucester\|GLOUCESTER]] | C'è una scogliera la cui alta e curva testa<br>guarda spaventosamente nel profondo racchiuso.<br>Portami solo fino al suo orlo estremo<br>e riparerò la miseria che tu porti<br>con qualche cosa di prezioso che ho con me. Da quel luogo<br>non avrò bisogno di guida. |
+| [[Edgar\|EDGAR]] | Dammi il braccio.<br>Il povero Tom ti condurrà. |
 | *(didascalia)* | Esce [[Edgar]] guidando [[Gloucester]] |
 
 
@@ -3352,30 +3352,30 @@ The [[Tragedy]] of [[King Lear]]
 | Chi parla | Battuta |
 |---|---|
 | *(didascalia)* | Entrano [[Goneril]] ed Edmond il bastardo da una porta e Oswald il maggiordomo da un'altra |
-| [[Goneril|GONERIL]] | Benvenuto, mio signore. Mi meraviglio che il nostro mite marito<br>non ci abbia incontrati per via. (A Oswald) Ora, dov'è<br>il vostro padrone? |
+| [[Goneril\|GONERIL]] | Benvenuto, mio signore. Mi meraviglio che il nostro mite marito<br>non ci abbia incontrati per via. (A Oswald) Ora, dov'è<br>il vostro padrone? |
 | OSWALD | Madama, dentro; ma non fu mai uomo tanto mutato.<br>Gli dissi dell'esercito che era sbarcato;<br>ne sorrise. Gli dissi che voi stavate venendo;<br>la sua risposta fu 'Tanto peggio'. Del tradimento di [[Gloucester]]<br>e del leale servizio di suo figlio<br>quando l'informai, allora mi chiamò stolto,<br>e mi disse che avevo rovesciato la cosa dalla parte sbagliata.<br>Ciò che più dovrebbe dispiacergli gli sembra piacevole;<br>ciò che dovrebbe piacergli, offensivo. |
-| [[Goneril|GONERIL]] | (a Edmond) Allora non andrete oltre.<br>È il codardo terrore del suo spirito<br>che non osa intraprendere. Non sentirà offese<br>che l'obblighino a una risposta. I nostri desideri per via<br>possono farsi effetti. Tornate, Edmond, da mio cognato.<br>Affrettate le sue leve e guidate le sue forze.<br>Io devo scambiare i nomi in [[Home|casa]], e dare la conocchia<br>nelle mani di mio marito. Questo fido servo<br>farà da tramite fra noi. Fra non molto è probabile che udiate,<br>se osate arrischiarvi a vostro vantaggio,<br>il comando d'una signora. Portate questo. Risparmiate le parole.<br>Chinate il capo. Questo bacio, s'osasse parlare,<br>ti solleverebbe gli spiriti su nell'aria. |
+| [[Goneril\|GONERIL]] | (a Edmond) Allora non andrete oltre.<br>È il codardo terrore del suo spirito<br>che non osa intraprendere. Non sentirà offese<br>che l'obblighino a una risposta. I nostri desideri per via<br>possono farsi effetti. Tornate, Edmond, da mio cognato.<br>Affrettate le sue leve e guidate le sue forze.<br>Io devo scambiare i nomi in [[Home\|casa]], e dare la conocchia<br>nelle mani di mio marito. Questo fido servo<br>farà da tramite fra noi. Fra non molto è probabile che udiate,<br>se osate arrischiarvi a vostro vantaggio,<br>il comando d'una signora. Portate questo. Risparmiate le parole.<br>Chinate il capo. Questo bacio, s'osasse parlare,<br>ti solleverebbe gli spiriti su nell'aria. |
 | *(didascalia)* | Ella lo bacia |
-| [[Goneril|GONERIL]] | Intendi, e sta' [[Well|bene]]. |
-| EDMOND | Vostro fin nelle schiere della [[Death|morte]]. |
-| [[Goneril|GONERIL]] | Mio carissimo [[Gloucester]]. |
+| [[Goneril\|GONERIL]] | Intendi, e sta' [[Well\|bene]]. |
+| EDMOND | Vostro fin nelle schiere della [[Death\|morte]]. |
+| [[Goneril\|GONERIL]] | Mio carissimo [[Gloucester]]. |
 | *(didascalia)* | Esce |
-| [[Goneril|GONERIL]] | Edmond<br>Oh, che differenza tra uomo e uomo!<br>A te sono dovuti i servigi d'una donna;<br>il mio [[Fool|sciocco]] usurpa il mio [[Body|corpo]]. |
+| [[Goneril\|GONERIL]] | Edmond<br>Oh, che differenza tra uomo e uomo!<br>A te sono dovuti i servigi d'una donna;<br>il mio [[Fool\|sciocco]] usurpa il mio [[Body\|corpo]]. |
 | OSWALD | Madama, ecco che viene il mio signore. |
 | *(didascalia)* | Entra il duca di |
 | OSWALD | Albany |
-| [[Goneril|GONERIL]] | Sono pur stata degna d'un fischio. |
-| ALBANY | Oh [[Goneril]],<br>voi non valete la [[Dust|polvere]] che il rude [[Wind|vento]]<br>vi soffia in faccia. |
-| [[Goneril|GONERIL]] | Uomo dal fegato di latte,<br>che porti una guancia per gli schiaffi, una testa per le offese;<br>che non hai nella fronte un occhio che discerna<br>il tuo [[Honour|onore]] dalla tua [[Suffering|sofferenza]]— |
+| [[Goneril\|GONERIL]] | Sono pur stata degna d'un fischio. |
+| ALBANY | Oh [[Goneril]],<br>voi non valete la [[Dust\|polvere]] che il rude [[Wind\|vento]]<br>vi soffia in faccia. |
+| [[Goneril\|GONERIL]] | Uomo dal fegato di latte,<br>che porti una guancia per gli schiaffi, una testa per le offese;<br>che non hai nella fronte un occhio che discerna<br>il tuo [[Honour\|onore]] dalla tua [[Suffering\|sofferenza]]— |
 | ALBANY | Guarda te stessa, demonio.<br>La deformità che gli è propria non appare nel demonio<br>tanto orrida quanto nella donna. |
-| [[Goneril|GONERIL]] | Oh vano [[Fool|sciocco]]! |
+| [[Goneril\|GONERIL]] | Oh vano [[Fool\|sciocco]]! |
 | *(didascalia)* | Entra un Messaggero |
 | MESSENGER | Oh mio buon signore, il duca di Cornwall è morto,<br>ucciso dal suo servo mentre stava per cavare<br>l'altro occhio a [[Gloucester]]. |
 | ALBANY | Gli occhi di [[Gloucester]]? |
-| MESSENGER | Un servo da lui allevato, scosso dal rimorso,<br>s'oppose all'atto, volgendo la [[Sword|spada]]<br>contro il suo gran padrone, il quale, infuriato,<br>gli si scagliò addosso, e fra tutti lo stesero morto,<br>ma non senza quel colpo funesto che poi<br>l'ha trascinato dietro. |
+| MESSENGER | Un servo da lui allevato, scosso dal rimorso,<br>s'oppose all'atto, volgendo la [[Sword\|spada]]<br>contro il suo gran padrone, il quale, infuriato,<br>gli si scagliò addosso, e fra tutti lo stesero morto,<br>ma non senza quel colpo funesto che poi<br>l'ha trascinato dietro. |
 | ALBANY | Questo mostra che voi siete lassù,<br>giustizieri, se questi nostri delitti terreni<br>sapete vendicare così presto. Ma oh, povero [[Gloucester]]!<br>Perdette anche l'altro occhio? |
 | MESSENGER | Entrambi, entrambi, mio signore.—µ<br>Questa lettera, madama, chiede rapida risposta.<br>È di vostra sorella. |
-| [[Goneril|GONERIL]] | (a parte)<br>Per un verso questo mi sta [[Well|bene]];<br>ma essendo lei vedova, e il mio [[Gloucester]] con lei,<br>tutto l'edificio della mia fantasia potrebbe crollare<br>sulla mia odiosa vita. Per un altro verso<br>la notizia non è così aspra.—Leggerò e risponderò. |
+| [[Goneril\|GONERIL]] | (a parte)<br>Per un verso questo mi sta [[Well\|bene]];<br>ma essendo lei vedova, e il mio [[Gloucester]] con lei,<br>tutto l'edificio della mia fantasia potrebbe crollare<br>sulla mia odiosa vita. Per un altro verso<br>la notizia non è così aspra.—Leggerò e risponderò. |
 | *(didascalia)* | Esce |
 | *(didascalia)* | con Oswald |
 | ALBANY | Dov'era suo figlio quando gli cavarono gli occhi? |
@@ -3383,8 +3383,8 @@ The [[Tragedy]] of [[King Lear]]
 | ALBANY | Non è qui. |
 | MESSENGER | No, mio buon signore; l'ho incontrato mentre tornava indietro. |
 | ALBANY | Conosce la scelleratezza? |
-| MESSENGER | Sì, mio buon signore; fu lui a denunciarlo,<br>e lasciò la [[house|casa]] apposta perché la loro punizione<br>avesse corso più libero. |
-| ALBANY | [[Gloucester]], io vivo<br>per ringraziarti dell'[[Love|amore]] che mostrasti al [[King|Re]],<br>e per [[Revenge|vendicare]] i tuoi occhi.—Vieni qua, amico.<br>Dimmi che altro sai. |
+| MESSENGER | Sì, mio buon signore; fu lui a denunciarlo,<br>e lasciò la [[house\|casa]] apposta perché la loro punizione<br>avesse corso più libero. |
+| ALBANY | [[Gloucester]], io vivo<br>per ringraziarti dell'[[Love\|amore]] che mostrasti al [[King\|Re]],<br>e per [[Revenge\|vendicare]] i tuoi occhi.—Vieni qua, amico.<br>Dimmi che altro sai. |
 | *(didascalia)* | Escono |
 
 
@@ -3413,18 +3413,18 @@ The [[Tragedy]] of [[King Lear]]
 
 | Chi parla | Battuta |
 |---|---|
-| *(didascalia)* | Entrano con un tamburino e le insegne, la [[Queen|Regina]] [[Cordelia]], Gentiluomini e soldati |
-| [[Cordelia|CORDELIA]] | Ahimè, è lui! Ma sì, l'hanno incontrato proprio ora,<br>pazzo come il mare sconvolto, cantando forte,<br>coronato di fumaria rigogliosa e d'erbe dei solchi,<br>di bardana, cicuta, ortiche, [[Flowers|fiori]] di cuculo,<br>loglio, e tutte le erbe inutili che crescono<br>nel grano che ci nutre. Mandate fuori una centuria.<br>Cercate ogni acro nel campo dall'erba alta,<br>e portatelo al nostro sguardo. |
+| *(didascalia)* | Entrano con un tamburino e le insegne, la [[Queen\|Regina]] [[Cordelia]], Gentiluomini e soldati |
+| [[Cordelia\|CORDELIA]] | Ahimè, è lui! Ma sì, l'hanno incontrato proprio ora,<br>pazzo come il mare sconvolto, cantando forte,<br>coronato di fumaria rigogliosa e d'erbe dei solchi,<br>di bardana, cicuta, ortiche, [[Flowers\|fiori]] di cuculo,<br>loglio, e tutte le erbe inutili che crescono<br>nel grano che ci nutre. Mandate fuori una centuria.<br>Cercate ogni acro nel campo dall'erba alta,<br>e portatelo al nostro sguardo. |
 | *(didascalia)* | Esce |
 | *(didascalia)* | uno o più |
-| [[Cordelia|CORDELIA]] | Che può la saggezza dell'uomo<br>nel restituirgli il suo<br>Chi l'aiuta prenda tutto il mio avere esteriore. |
+| [[Cordelia\|CORDELIA]] | Che può la saggezza dell'uomo<br>nel restituirgli il suo<br>Chi l'aiuta prenda tutto il mio avere esteriore. |
 | *(didascalia)* | PRIMOGENTILUOMO C'è un mezzo, madama. |
-| [[Cordelia|CORDELIA]] | La nostra [[Nurse|nutrice]] della [[Nature|natura]] è il riposo,<br>del quale egli manca. A provocarlo in lui<br>ci sono molti semplici efficaci, la cui virtù<br>chiuderà l'occhio dell'angoscia. |
-| [[Cordelia|CORDELIA]] | Tutti voi benedetti [[Secrets|segreti]],<br>tutte voi virtù non divulgate della terra,<br>[[spring|sbocciate]] con le mie [[Tears|lacrime]], siate d'aiuto e di rimedio<br>nell'angoscia del buon uomo!—Cercate, cercatelo,<br>perché la sua rabbia sfrenata non dissolva la vita<br>che manca dei mezzi per guidarla. |
+| [[Cordelia\|CORDELIA]] | La nostra [[Nurse\|nutrice]] della [[Nature\|natura]] è il riposo,<br>del quale egli manca. A provocarlo in lui<br>ci sono molti semplici efficaci, la cui virtù<br>chiuderà l'occhio dell'angoscia. |
+| [[Cordelia\|CORDELIA]] | Tutti voi benedetti [[Secrets\|segreti]],<br>tutte voi virtù non divulgate della terra,<br>[[spring\|sbocciate]] con le mie [[Tears\|lacrime]], siate d'aiuto e di rimedio<br>nell'angoscia del buon uomo!—Cercate, cercatelo,<br>perché la sua rabbia sfrenata non dissolva la vita<br>che manca dei mezzi per guidarla. |
 | *(didascalia)* | Entra |
-| [[Cordelia|CORDELIA]] | un Messaggero |
+| [[Cordelia\|CORDELIA]] | un Messaggero |
 | MESSENGER | Notizie, madama.<br>Le forze britanniche marciano verso qui. |
-| [[Cordelia|CORDELIA]] | È già noto; i nostri preparativi stanno<br>in attesa di loro.—Oh caro padre,<br>è per la tua causa ch'io mi muovo;<br>perciò il gran Francia<br>ha avuto pietà del mio lutto e delle mie [[Tears|lacrime]] importune.<br>Nessuna gonfia [[Ambition|ambizione]] incita le nostre armi,<br>ma l'[[Love|amore]], il caro [[Love|amore]], e il diritto del nostro vecchio padre.<br>Presto possa io udirlo e vederlo! |
+| [[Cordelia\|CORDELIA]] | È già noto; i nostri preparativi stanno<br>in attesa di loro.—Oh caro padre,<br>è per la tua causa ch'io mi muovo;<br>perciò il gran Francia<br>ha avuto pietà del mio lutto e delle mie [[Tears\|lacrime]] importune.<br>Nessuna gonfia [[Ambition\|ambizione]] incita le nostre armi,<br>ma l'[[Love\|amore]], il caro [[Love\|amore]], e il diritto del nostro vecchio padre.<br>Presto possa io udirlo e vederlo! |
 | *(didascalia)* | Escono |
 
 
@@ -3462,25 +3462,25 @@ The [[Tragedy]] of [[King Lear]]
 | Chi parla | Battuta |
 |---|---|
 | *(didascalia)* | Entrano [[Regan]] e Oswald il maggiordomo |
-| [[Regan|REGAN]] | Ma le forze di mio cognato si sono messe in marcia? |
+| [[Regan\|REGAN]] | Ma le forze di mio cognato si sono messe in marcia? |
 | OSWALD | Sì, madama. |
-| [[Regan|REGAN]] | Egli stesso in persona là? |
+| [[Regan\|REGAN]] | Egli stesso in persona là? |
 | OSWALD | Madama, a gran fatica.<br>Vostra sorella è il soldato migliore. |
-| [[Regan|REGAN]] | Il conte Edmond non ha parlato col vostro signore in [[Home|casa]]? |
+| [[Regan\|REGAN]] | Il conte Edmond non ha parlato col vostro signore in [[Home\|casa]]? |
 | OSWALD | No, madama. |
-| [[Regan|REGAN]] | Che cosa potevano portare a lui le lettere di mia sorella? |
+| [[Regan\|REGAN]] | Che cosa potevano portare a lui le lettere di mia sorella? |
 | OSWALD | Non lo so, signora. |
-| [[Regan|REGAN]] | In [[Faith|fede]] mia, è partito di qui in fretta per una faccenda seria.<br>Fu grande sconsideratezza, cavati gli occhi a [[Gloucester]],<br>lasciarlo vivere. Dovunque arrivi egli muove<br>tutti i cuori contro di noi. Edmond, credo, è andato,<br>per pietà della sua miseria, a spegnere<br>la sua vita ottenebrata, e inoltre a scoprire<br>la forza del nemico. |
+| [[Regan\|REGAN]] | In [[Faith\|fede]] mia, è partito di qui in fretta per una faccenda seria.<br>Fu grande sconsideratezza, cavati gli occhi a [[Gloucester]],<br>lasciarlo vivere. Dovunque arrivi egli muove<br>tutti i cuori contro di noi. Edmond, credo, è andato,<br>per pietà della sua miseria, a spegnere<br>la sua vita ottenebrata, e inoltre a scoprire<br>la forza del nemico. |
 | OSWALD | Devo per forza seguirlo, madama, con la mia lettera. |
-| [[Regan|REGAN]] | Le nostre truppe partono domani. Restate con noi.<br>Le strade sono pericolose. |
+| [[Regan\|REGAN]] | Le nostre truppe partono domani. Restate con noi.<br>Le strade sono pericolose. |
 | OSWALD | Non posso, madama.<br>La mia signora ha imposto il mio dovere in questa faccenda. |
-| [[Regan|REGAN]] | Perché dovrebbe scrivere a Edmond? Non potevate voi<br>trasmettere a voce i suoi propositi? Forse—<br>certe cose—non so quali. Ti [[Love|amerò]] molto:<br>lascia ch'io dissigilli la lettera. |
+| [[Regan\|REGAN]] | Perché dovrebbe scrivere a Edmond? Non potevate voi<br>trasmettere a voce i suoi propositi? Forse—<br>certe cose—non so quali. Ti [[Love\|amerò]] molto:<br>lascia ch'io dissigilli la lettera. |
 | OSWALD | Madama, preferirei— |
-| [[Regan|REGAN]] | So che la vostra signora non [[Love|ama]] suo marito.<br>Ne son certa, e quando fu qui l'ultima volta<br>lanciò strane occhiate e sguardi eloquentissimi<br>al nobile Edmond. So che siete nella sua confidenza. |
+| [[Regan\|REGAN]] | So che la vostra signora non [[Love\|ama]] suo marito.<br>Ne son certa, e quando fu qui l'ultima volta<br>lanciò strane occhiate e sguardi eloquentissimi<br>al nobile Edmond. So che siete nella sua confidenza. |
 | OSWALD | Io, madama? |
-| [[Regan|REGAN]] | Parlo con cognizione. Lo siete, lo so.<br>Perciò vi consiglio di prender nota di questo.<br>Il mio signore è morto. Edmond e io abbiamo parlato,<br>ed egli è più conveniente per la mia mano<br>che per quella della vostra signora. Potete arguire il resto.<br>Se lo trovate, vi prego, dategli questo,<br>e quando la vostra padrona udrà da voi tutto ciò,<br>vi prego, [[Desire|invitatela]] a chiamare a sé la sua saggezza.<br>E così, state [[Well|bene]].<br>Se per caso sentite di quel cieco traditore,<br>l'avanzamento tocca a chi lo sopprime. |
+| [[Regan\|REGAN]] | Parlo con cognizione. Lo siete, lo so.<br>Perciò vi consiglio di prender nota di questo.<br>Il mio signore è morto. Edmond e io abbiamo parlato,<br>ed egli è più conveniente per la mia mano<br>che per quella della vostra signora. Potete arguire il resto.<br>Se lo trovate, vi prego, dategli questo,<br>e quando la vostra padrona udrà da voi tutto ciò,<br>vi prego, [[Desire\|invitatela]] a chiamare a sé la sua saggezza.<br>E così, state [[Well\|bene]].<br>Se per caso sentite di quel cieco traditore,<br>l'avanzamento tocca a chi lo sopprime. |
 | OSWALD | Potessi incontrarlo, madama. Mostrerei<br>quale partito io segua. |
-| [[Regan|REGAN]] | Sta' [[Well|bene]]. |
+| [[Regan\|REGAN]] | Sta' [[Well\|bene]]. |
 | *(didascalia)* | Escono separatamente |
 
 
@@ -3610,119 +3610,119 @@ The [[Tragedy]] of [[King Lear]]
 
 | Chi parla | Battuta |
 |---|---|
-| *(didascalia)* | Entra [[Edgar]] travestito da contadino, con un bastone, guidando il cieco [[Duke of Gloucester|duca di Gloucester]] |
-| [[Gloucester|GLOUCESTER]] | Quando arriverò in cima a quella [[Hill|collina]]? |
-| [[Edgar|EDGAR]] | Ci state salendo ora. Guardate come fatichiamo. |
-| [[Gloucester|GLOUCESTER]] | Mi pare che il terreno sia piano. |
-| [[Edgar|EDGAR]] | Orribilmente ripido.<br>Udite, sentite il mare? |
-| [[Gloucester|GLOUCESTER]] | No, davvero. |
-| [[Edgar|EDGAR]] | Ebbene, allora gli altri vostri sensi si fanno imperfetti<br>per l'angoscia dei vostri occhi. |
-| [[Gloucester|GLOUCESTER]] | Può ben essere così.<br>Mi pare che la tua voce sia mutata, e che tu parli<br>con frase e materia migliori di prima. |
-| [[Edgar|EDGAR]] | V'ingannate molto. In nulla sono cambiato<br>se non nelle vesti. |
-| [[Gloucester|GLOUCESTER]] | Mi pare che parliate meglio. |
-| [[Edgar|EDGAR]] | Venite, signore, ecco il luogo. Fermatevi. Com'è pauroso<br>e vertiginoso gettare gli occhi così in basso!<br>I corvi e le taccole che volano a mezz'aria<br>paion grossi appena come scarabei. A mezza costa<br>pende uno che raccoglie il finocchio marino, tremendo mestiere!<br>Mi pare che non sembri più grande della sua testa.<br>I pescatori che camminano sulla spiaggia<br>appaiono come topi, e quell'alta nave all'àncora<br>ridotta alla sua scialuppa, la scialuppa a una boa<br>quasi troppo piccola per la vista. Il mormorante frangente<br>che si rode sugli innumerevoli ciottoli oziosi<br>non si può udire da tanta altezza. Non guarderò più,<br>perché il cervello non mi giri e la vista mancante<br>non mi faccia precipitare a capofitto. |
-| [[Gloucester|GLOUCESTER]] | Mettetemi dove state voi. |
-| [[Edgar|EDGAR]] | Datemi la mano. Ora siete a un piede<br>dall'orlo estremo. Per tutto ciò che sta sotto la [[Moon|luna]]<br>non farei un salto in piedi. |
-| [[Gloucester|GLOUCESTER]] | Lascia la mia mano.<br>Ecco, amico, un'altra borsa; dentro c'è un [[Jewel|gioiello]]<br>[[Well|ben]] degno d'esser preso da un pover'uomo. Fate e dèi<br>te lo facciano prosperare! Va' più lontano.<br>Dimmi addio, e lascia ch'io ti senta andare. |
-| [[Edgar|EDGAR]] | Ora state [[Well|bene]], buon signore.<br>Si trae in disparte |
-| [[Gloucester|GLOUCESTER]] | Con tutto il cuore. |
-| [[Edgar|EDGAR]] | (a parte)<br>Se scherzo così con la sua [[Despair|disperazione]],<br>è per guarirla. |
-| [[Gloucester|GLOUCESTER]] | (inginocchiandosi) Oh voi potenti dèi,<br>rinuncio a questo mondo, e al vostro cospetto<br>scuoto pazientemente da me la mia grande afflizione!<br>Se potessi sopportarla più a lungo, e non cadere<br>a contendere con le vostre grandi volontà inoppugnabili,<br>il moccolo e la parte odiata della mia [[Nature|natura]] dovrebbe<br>consumarsi da sé. Se [[Edgar]] vive, oh benedícetelo!—<br>Ora, amico, sta' [[Well|bene]]. |
-| [[Edgar|EDGAR]] | Andato, signore. Addio.<br>[[Gloucester]] cade in avanti<br>(A parte) Eppure non so come l'immaginazione possa derubare<br>il tesoro della vita, quando la vita stessa<br>si presta al furto. Fosse stato dove credeva,<br>a quest'ora il pensiero sarebbe finito.—Vivo o morto?<br>(A [[Gloucester]]) Olà, voi, signore, amico; mi sentite, signore?<br>Parlate.<br>(A parte) Così potrebbe davvero spirare. Eppure rinviene.<br>(A [[Gloucester]]) Chi siete voi, signore? |
-| [[Gloucester|GLOUCESTER]] | Via, e lasciatemi morire. |
-| [[Edgar|EDGAR]] | Se tu fossi stato altro che ragnatela, piume, aria,<br>precipitando per tante braccia<br>ti saresti frantumato come un uovo. Ma tu respiri,<br>hai pesante sostanza, non sanguini, parli, sei sano.<br>Dieci alberi in lunghezza non fanno l'altezza<br>da cui sei caduto a perpendicolo.<br>La tua vita è un miracolo. Parla ancora. |
-| [[Gloucester|GLOUCESTER]] | Ma sono caduto, o no? |
-| [[Edgar|EDGAR]] | Dalla tremenda cima di questo confine gessoso.<br>Guardate in alto. L'allodola dalla gola stridula a tanta altezza<br>non si può vedere né udire. Guardate solo in su. |
-| [[Gloucester|GLOUCESTER]] | Ahimè, non ho occhi.<br>È forse la miseria privata di quel beneficio<br>di finire se stessa con la [[Death|morte]]? Era pur qualche conforto<br>quando la sventura poteva ingannare l'ira del [[Tyrant|tiranno]]<br>e frustrare la sua superba volontà. |
-| [[Edgar|EDGAR]] | Datemi il braccio.<br>Su, così. Come va? Sentite le gambe? State in piedi. |
-| [[Gloucester|GLOUCESTER]] | Troppo [[Well|bene]], troppo [[Well|bene]]. |
-| [[Edgar|EDGAR]] | Questo supera ogni stranezza.<br>Sulla [[Crown|cima]] della scogliera che cosa era quella cosa<br>che si separò da voi? |
-| [[Gloucester|GLOUCESTER]] | Un povero mendicante sfortunato. |
-| [[Edgar|EDGAR]] | Mentre stavo qui sotto, mi parve che i suoi occhi<br>fossero due lune piene. Aveva mille nasi,<br>corna attorte e ondulate come il mare in furia.<br>Era qualche demonio. Perciò, tu, padre felice,<br>pensa che i limpidissimi dèi, che si fanno onore<br>delle impossibilità degli uomini, t'hanno salvato. |
-| [[Gloucester|GLOUCESTER]] | Ora ricordo. D'ora innanzi sopporterò<br>l'afflizione finché non gridi essa stessa<br>'Basta, basta,' e muoia. Quella cosa di cui parlate,<br>io la presi per un uomo. Spesso diceva<br>'Il demonio, il demonio!' Fu lui a condurmi in quel luogo. |
-| [[Edgar|EDGAR]] | Portate pensieri liberi e pazienti. |
-| *(didascalia)* | Entra [[King Lear]] pazzo, coronato d'erbe e di [[Flowers|fiori]] |
-| [[Edgar|EDGAR]] | Ma chi viene qui?<br>Il senno sano non concerà mai<br>così il suo padrone. |
-| LEAR | No, non possono toccarmi perché grido. Io sono il [[King|Re]] in persona. |
-| [[Edgar|EDGAR]] | Oh vista che trafigge il fianco! |
-| LEAR | La [[Nature|natura]] è sopra l'arte in questo. Ecco il vostro anticipo d'arruolamento. Quel tale maneggia l'arco come uno spaventapasseri. Tiratemi una freccia da una iarda. Guarda, guarda, un topo! Piano, piano, questo pezzo di [[cheese|formaggio]] abbrustolito basterà. Ecco il mio guanto di sfida. Lo proverò contro un gigante. Portate su le alabarde brune. Oh, [[Well|ben]] volato, uccello, nel bersaglio, nel bersaglio! Whew! Dammi la parola d'ordine. |
-| [[Edgar|EDGAR]] | Dolce maggiorana. |
+| *(didascalia)* | Entra [[Edgar]] travestito da contadino, con un bastone, guidando il cieco [[Duke of Gloucester\|duca di Gloucester]] |
+| [[Gloucester\|GLOUCESTER]] | Quando arriverò in cima a quella [[Hill\|collina]]? |
+| [[Edgar\|EDGAR]] | Ci state salendo ora. Guardate come fatichiamo. |
+| [[Gloucester\|GLOUCESTER]] | Mi pare che il terreno sia piano. |
+| [[Edgar\|EDGAR]] | Orribilmente ripido.<br>Udite, sentite il mare? |
+| [[Gloucester\|GLOUCESTER]] | No, davvero. |
+| [[Edgar\|EDGAR]] | Ebbene, allora gli altri vostri sensi si fanno imperfetti<br>per l'angoscia dei vostri occhi. |
+| [[Gloucester\|GLOUCESTER]] | Può ben essere così.<br>Mi pare che la tua voce sia mutata, e che tu parli<br>con frase e materia migliori di prima. |
+| [[Edgar\|EDGAR]] | V'ingannate molto. In nulla sono cambiato<br>se non nelle vesti. |
+| [[Gloucester\|GLOUCESTER]] | Mi pare che parliate meglio. |
+| [[Edgar\|EDGAR]] | Venite, signore, ecco il luogo. Fermatevi. Com'è pauroso<br>e vertiginoso gettare gli occhi così in basso!<br>I corvi e le taccole che volano a mezz'aria<br>paion grossi appena come scarabei. A mezza costa<br>pende uno che raccoglie il finocchio marino, tremendo mestiere!<br>Mi pare che non sembri più grande della sua testa.<br>I pescatori che camminano sulla spiaggia<br>appaiono come topi, e quell'alta nave all'àncora<br>ridotta alla sua scialuppa, la scialuppa a una boa<br>quasi troppo piccola per la vista. Il mormorante frangente<br>che si rode sugli innumerevoli ciottoli oziosi<br>non si può udire da tanta altezza. Non guarderò più,<br>perché il cervello non mi giri e la vista mancante<br>non mi faccia precipitare a capofitto. |
+| [[Gloucester\|GLOUCESTER]] | Mettetemi dove state voi. |
+| [[Edgar\|EDGAR]] | Datemi la mano. Ora siete a un piede<br>dall'orlo estremo. Per tutto ciò che sta sotto la [[Moon\|luna]]<br>non farei un salto in piedi. |
+| [[Gloucester\|GLOUCESTER]] | Lascia la mia mano.<br>Ecco, amico, un'altra borsa; dentro c'è un [[Jewel\|gioiello]]<br>[[Well\|ben]] degno d'esser preso da un pover'uomo. Fate e dèi<br>te lo facciano prosperare! Va' più lontano.<br>Dimmi addio, e lascia ch'io ti senta andare. |
+| [[Edgar\|EDGAR]] | Ora state [[Well\|bene]], buon signore.<br>Si trae in disparte |
+| [[Gloucester\|GLOUCESTER]] | Con tutto il cuore. |
+| [[Edgar\|EDGAR]] | (a parte)<br>Se scherzo così con la sua [[Despair\|disperazione]],<br>è per guarirla. |
+| [[Gloucester\|GLOUCESTER]] | (inginocchiandosi) Oh voi potenti dèi,<br>rinuncio a questo mondo, e al vostro cospetto<br>scuoto pazientemente da me la mia grande afflizione!<br>Se potessi sopportarla più a lungo, e non cadere<br>a contendere con le vostre grandi volontà inoppugnabili,<br>il moccolo e la parte odiata della mia [[Nature\|natura]] dovrebbe<br>consumarsi da sé. Se [[Edgar]] vive, oh benedícetelo!—<br>Ora, amico, sta' [[Well\|bene]]. |
+| [[Edgar\|EDGAR]] | Andato, signore. Addio.<br>[[Gloucester]] cade in avanti<br>(A parte) Eppure non so come l'immaginazione possa derubare<br>il tesoro della vita, quando la vita stessa<br>si presta al furto. Fosse stato dove credeva,<br>a quest'ora il pensiero sarebbe finito.—Vivo o morto?<br>(A [[Gloucester]]) Olà, voi, signore, amico; mi sentite, signore?<br>Parlate.<br>(A parte) Così potrebbe davvero spirare. Eppure rinviene.<br>(A [[Gloucester]]) Chi siete voi, signore? |
+| [[Gloucester\|GLOUCESTER]] | Via, e lasciatemi morire. |
+| [[Edgar\|EDGAR]] | Se tu fossi stato altro che ragnatela, piume, aria,<br>precipitando per tante braccia<br>ti saresti frantumato come un uovo. Ma tu respiri,<br>hai pesante sostanza, non sanguini, parli, sei sano.<br>Dieci alberi in lunghezza non fanno l'altezza<br>da cui sei caduto a perpendicolo.<br>La tua vita è un miracolo. Parla ancora. |
+| [[Gloucester\|GLOUCESTER]] | Ma sono caduto, o no? |
+| [[Edgar\|EDGAR]] | Dalla tremenda cima di questo confine gessoso.<br>Guardate in alto. L'allodola dalla gola stridula a tanta altezza<br>non si può vedere né udire. Guardate solo in su. |
+| [[Gloucester\|GLOUCESTER]] | Ahimè, non ho occhi.<br>È forse la miseria privata di quel beneficio<br>di finire se stessa con la [[Death\|morte]]? Era pur qualche conforto<br>quando la sventura poteva ingannare l'ira del [[Tyrant\|tiranno]]<br>e frustrare la sua superba volontà. |
+| [[Edgar\|EDGAR]] | Datemi il braccio.<br>Su, così. Come va? Sentite le gambe? State in piedi. |
+| [[Gloucester\|GLOUCESTER]] | Troppo [[Well\|bene]], troppo [[Well\|bene]]. |
+| [[Edgar\|EDGAR]] | Questo supera ogni stranezza.<br>Sulla [[Crown\|cima]] della scogliera che cosa era quella cosa<br>che si separò da voi? |
+| [[Gloucester\|GLOUCESTER]] | Un povero mendicante sfortunato. |
+| [[Edgar\|EDGAR]] | Mentre stavo qui sotto, mi parve che i suoi occhi<br>fossero due lune piene. Aveva mille nasi,<br>corna attorte e ondulate come il mare in furia.<br>Era qualche demonio. Perciò, tu, padre felice,<br>pensa che i limpidissimi dèi, che si fanno onore<br>delle impossibilità degli uomini, t'hanno salvato. |
+| [[Gloucester\|GLOUCESTER]] | Ora ricordo. D'ora innanzi sopporterò<br>l'afflizione finché non gridi essa stessa<br>'Basta, basta,' e muoia. Quella cosa di cui parlate,<br>io la presi per un uomo. Spesso diceva<br>'Il demonio, il demonio!' Fu lui a condurmi in quel luogo. |
+| [[Edgar\|EDGAR]] | Portate pensieri liberi e pazienti. |
+| *(didascalia)* | Entra [[King Lear]] pazzo, coronato d'erbe e di [[Flowers\|fiori]] |
+| [[Edgar\|EDGAR]] | Ma chi viene qui?<br>Il senno sano non concerà mai<br>così il suo padrone. |
+| LEAR | No, non possono toccarmi perché grido. Io sono il [[King\|Re]] in persona. |
+| [[Edgar\|EDGAR]] | Oh vista che trafigge il fianco! |
+| LEAR | La [[Nature\|natura]] è sopra l'arte in questo. Ecco il vostro anticipo d'arruolamento. Quel tale maneggia l'arco come uno spaventapasseri. Tiratemi una freccia da una iarda. Guarda, guarda, un topo! Piano, piano, questo pezzo di [[cheese\|formaggio]] abbrustolito basterà. Ecco il mio guanto di sfida. Lo proverò contro un gigante. Portate su le alabarde brune. Oh, [[Well\|ben]] volato, uccello, nel bersaglio, nel bersaglio! Whew! Dammi la parola d'ordine. |
+| [[Edgar\|EDGAR]] | Dolce maggiorana. |
 | LEAR | Passa. |
-| [[Gloucester|GLOUCESTER]] | Conosco quella voce. |
-| LEAR | Ah! [[Goneril]] con la barba bianca? Mi adulavano come un cane, e mi dicevano che avevo i peli bianchi nella barba prima che vi fossero i neri. Dire 'sì' e 'no' a tutto ciò a cui io dicevo 'sì' e 'no' non era buona teologia. Quando venne la pioggia a bagnarmi, e il [[Wind|vento]] a farmi battere i denti; quando il tuono non volle tacere al mio comando, allora li scoprii, allora li fiutai. Suvvia, non sono uomini di parola. Mi dicevano che ero tutto; è una menzogna, non sono a prova di febbre. |
-| [[Gloucester|GLOUCESTER]] | L'accento di quella voce lo ricordo [[Well|bene]].<br>Non è il [[King|Re]]? |
-| LEAR | Sì, ogni pollice un [[King|re]]. |
+| [[Gloucester\|GLOUCESTER]] | Conosco quella voce. |
+| LEAR | Ah! [[Goneril]] con la barba bianca? Mi adulavano come un cane, e mi dicevano che avevo i peli bianchi nella barba prima che vi fossero i neri. Dire 'sì' e 'no' a tutto ciò a cui io dicevo 'sì' e 'no' non era buona teologia. Quando venne la pioggia a bagnarmi, e il [[Wind\|vento]] a farmi battere i denti; quando il tuono non volle tacere al mio comando, allora li scoprii, allora li fiutai. Suvvia, non sono uomini di parola. Mi dicevano che ero tutto; è una menzogna, non sono a prova di febbre. |
+| [[Gloucester\|GLOUCESTER]] | L'accento di quella voce lo ricordo [[Well\|bene]].<br>Non è il [[King\|Re]]? |
+| LEAR | Sì, ogni pollice un [[King\|re]]. |
 | *(didascalia)* | [[Gloucester]] s'inginocchia |
-| LEAR | Quando fisso lo sguardo, guarda come trema il suddito!<br>Perdono la vita a quell'uomo. Qual era la tua causa?<br>Adulterio? Non morirai. Morire per adulterio!<br>No, lo fa lo scricciolo, e la piccola mosca dorata<br>fornica sotto i miei occhi. Prosperi la copulazione,<br>ché il figlio bastardo di [[Gloucester]]<br>fu più gentile con suo padre delle mie figlie<br>generate fra lenzuola legittime. Sotto, lussuria, alla rinfusa,<br>ché mi mancano soldati. Guarda quella dama che sorride affettata,<br>il cui volto tra le sue forcelle presagisce [[Snow|neve]],<br>che fa la smorfiosa con la virtù, e scuote il capo<br>a sentir nominare il piacere.<br>Né la puzzola né il [[Horse|cavallo]] rimpinzato ci vanno<br>con appetito più sfrenato. Dalla cintola in giù<br>sono centauri, benché donne tutte al di sopra.<br>Ma fino alla cintura gli dèi hanno la loro parte;<br>al di sotto è tutto del demonio. Là è l'inferno, là le tenebre,<br>là la fossa sulfurea, che brucia, che scotta, il fetore,<br>la consunzione. Puah, puah, puah; pah, pah! Dammi un'oncia<br>di zibetto, buon speziale, addolcisci la mia [[Imagination|immaginazione]].<br>Ecco del denaro per te. |
-| [[Gloucester|GLOUCESTER]] | Oh, lasciate ch'io baci quella mano! |
-| LEAR | Lascia che prima l'asciughi; sa di [[Mortality|mortalità]]. |
-| [[Gloucester|GLOUCESTER]] | Oh rovinato pezzo di [[Nature|natura]]! Questo gran mondo<br>così si consumerà nel nulla. Mi conosci? |
-| LEAR | Ricordo i tuoi occhi abbastanza [[Well|bene]]. Mi guardi di traverso?<br>No, fa' il tuo peggio, cieco Cupido, non [[Love|amerò]].<br>Leggi questa sfida. Guarda solo com'è vergata. |
-| [[Gloucester|GLOUCESTER]] | Fossero tutte soli le tue lettere, non potrei vedere. |
-| [[Edgar|EDGAR]] | (a parte)<br>Non lo crederei per sentito dire; ma è così,<br>e il mio cuore se ne spezza. |
+| LEAR | Quando fisso lo sguardo, guarda come trema il suddito!<br>Perdono la vita a quell'uomo. Qual era la tua causa?<br>Adulterio? Non morirai. Morire per adulterio!<br>No, lo fa lo scricciolo, e la piccola mosca dorata<br>fornica sotto i miei occhi. Prosperi la copulazione,<br>ché il figlio bastardo di [[Gloucester]]<br>fu più gentile con suo padre delle mie figlie<br>generate fra lenzuola legittime. Sotto, lussuria, alla rinfusa,<br>ché mi mancano soldati. Guarda quella dama che sorride affettata,<br>il cui volto tra le sue forcelle presagisce [[Snow\|neve]],<br>che fa la smorfiosa con la virtù, e scuote il capo<br>a sentir nominare il piacere.<br>Né la puzzola né il [[Horse\|cavallo]] rimpinzato ci vanno<br>con appetito più sfrenato. Dalla cintola in giù<br>sono centauri, benché donne tutte al di sopra.<br>Ma fino alla cintura gli dèi hanno la loro parte;<br>al di sotto è tutto del demonio. Là è l'inferno, là le tenebre,<br>là la fossa sulfurea, che brucia, che scotta, il fetore,<br>la consunzione. Puah, puah, puah; pah, pah! Dammi un'oncia<br>di zibetto, buon speziale, addolcisci la mia [[Imagination\|immaginazione]].<br>Ecco del denaro per te. |
+| [[Gloucester\|GLOUCESTER]] | Oh, lasciate ch'io baci quella mano! |
+| LEAR | Lascia che prima l'asciughi; sa di [[Mortality\|mortalità]]. |
+| [[Gloucester\|GLOUCESTER]] | Oh rovinato pezzo di [[Nature\|natura]]! Questo gran mondo<br>così si consumerà nel nulla. Mi conosci? |
+| LEAR | Ricordo i tuoi occhi abbastanza [[Well\|bene]]. Mi guardi di traverso?<br>No, fa' il tuo peggio, cieco Cupido, non [[Love\|amerò]].<br>Leggi questa sfida. Guarda solo com'è vergata. |
+| [[Gloucester\|GLOUCESTER]] | Fossero tutte soli le tue lettere, non potrei vedere. |
+| [[Edgar\|EDGAR]] | (a parte)<br>Non lo crederei per sentito dire; ma è così,<br>e il mio cuore se ne spezza. |
 | LEAR | (a [[Gloucester]]) Leggi. |
-| [[Gloucester|GLOUCESTER]] | Come—con le orbite degli occhi? |
+| [[Gloucester\|GLOUCESTER]] | Come—con le orbite degli occhi? |
 | LEAR | Oh oh, siete a questo punto con me? Nessun occhio in testa, né denaro nella borsa? I vostri occhi sono in una custodia pesante, la vostra borsa in una leggera; eppure vedete come va questo mondo. |
-| [[Gloucester|GLOUCESTER]] | Lo vedo per sentimento. |
+| [[Gloucester\|GLOUCESTER]] | Lo vedo per sentimento. |
 | LEAR | Come, sei pazzo? Un uomo può vedere come va questo mondo senza occhi; guarda con gli orecchi. Guarda come quel giudice inveisce contro quel semplice ladro. Ascolta all'orecchio: cambia i posti, e a scarica barile, chi è il giudice, chi il ladro? Hai visto il cane d'un fattore abbaiare a un mendicante? |
-| [[Gloucester|GLOUCESTER]] | Sì, signore. |
+| [[Gloucester\|GLOUCESTER]] | Sì, signore. |
 | LEAR | E se la creatura fugge dal botolo, là potresti scorgere la grande immagine dell'autorità. A un cane in carica si obbedisce.<br>Tu, birbante di sagrestano, ferma la tua mano sanguinaria.<br>Perché frusti quella puttana? Spògliati la schiena.<br>Ardentemente brami usarla in quel modo<br>per cui la frusti. L'usuraio impicca il<br>truffatore.<br>Attraverso vesti stracciate i grandi vizi appaiono;<br>toghe e mantelli foderati coprono tutto. Placca d'oro il peccato,<br>e la forte lancia della giustizia si spezza senza ferire;<br>armalo di stracci, e la paglia d'un pigmeo lo trafigge.<br>Nessuno offende, nessuno, dico nessuno. Io li assolvo.<br>Prendi questo da me, amico mio, che ho il potere<br>di sigillare le labbra all'accusatore. Prenditi occhi di vetro,<br>e, come un vile politicante, fingi<br>di vedere le cose che non vedi. Ora, ora, ora, ora!<br>Tirami via gli stivali. Più forte, più forte! Così. |
-| [[Edgar|EDGAR]] | (a parte)<br>Oh, senso e sproposito mescolati—170<br>ragione nella [[Madness|follia]]! |
-| LEAR | Se vuoi piangere le mie sventure, prendi i miei occhi.<br>Ti conosco abbastanza [[Well|bene]]: il tuo nome è [[Gloucester]].<br>Devi aver pazienza. Venimmo qui piangendo.<br>Sai che la prima [[Time|volta]] che fiutiamo l'aria<br>vagiamo e piangiamo. Ti farò una predica. Ascolta. |
-| [[Gloucester|GLOUCESTER]] | Ahimè, ahimè che giorno! |
-| *(didascalia)* | LEAR togliendosi la sua [[Crown|corona]] d'erbe |
-| [[Gloucester|GLOUCESTER]] | Quando nasciamo, piangiamo d'esser venuti<br>su questo gran palco di pazzi. Questo è un buon ceppo.<br>Sarebbe delicato stratagemma ferrare 180<br>uno squadrone di [[Horse|cavalli]] col feltro. Lo metterò alla prova,<br>e quando sarò piombato di soppiatto su questi generi,<br>allora uccidi, uccidi, uccidi, uccidi, uccidi, uccidi! |
+| [[Edgar\|EDGAR]] | (a parte)<br>Oh, senso e sproposito mescolati—170<br>ragione nella [[Madness\|follia]]! |
+| LEAR | Se vuoi piangere le mie sventure, prendi i miei occhi.<br>Ti conosco abbastanza [[Well\|bene]]: il tuo nome è [[Gloucester]].<br>Devi aver pazienza. Venimmo qui piangendo.<br>Sai che la prima [[Time\|volta]] che fiutiamo l'aria<br>vagiamo e piangiamo. Ti farò una predica. Ascolta. |
+| [[Gloucester\|GLOUCESTER]] | Ahimè, ahimè che giorno! |
+| *(didascalia)* | LEAR togliendosi la sua [[Crown\|corona]] d'erbe |
+| [[Gloucester\|GLOUCESTER]] | Quando nasciamo, piangiamo d'esser venuti<br>su questo gran palco di pazzi. Questo è un buon ceppo.<br>Sarebbe delicato stratagemma ferrare 180<br>uno squadrone di [[Horse\|cavalli]] col feltro. Lo metterò alla prova,<br>e quando sarò piombato di soppiatto su questi generi,<br>allora uccidi, uccidi, uccidi, uccidi, uccidi, uccidi! |
 | *(didascalia)* | Entrano due Gentiluomini |
 | *(didascalia)* | PRIMOGENTILUOMO |
 | *(didascalia)* | Oh, eccolo. Mettetegli le mani addosso. A LearSignore, |
-| [[Gloucester|GLOUCESTER]] | La vostra carissima figlia— |
-| LEAR | Nessun soccorso? Come, prigioniero? Sono proprio<br>il naturale [[Fool|zimbello]] della fortuna. Trattatemi [[Well|bene]].<br>Avrete un riscatto. Datemi dei chirurghi;<br>son ferito fino al cervello. |
+| [[Gloucester\|GLOUCESTER]] | La vostra carissima figlia— |
+| LEAR | Nessun soccorso? Come, prigioniero? Sono proprio<br>il naturale [[Fool\|zimbello]] della fortuna. Trattatemi [[Well\|bene]].<br>Avrete un riscatto. Datemi dei chirurghi;<br>son ferito fino al cervello. |
 | *(didascalia)* | PRIMOGENTILUOMO Avrete qualunque cosa. |
-| LEAR | Nessun secondo? Tutto solo io?<br>Ma questo farebbe d'un uomo un uomo di sale,<br>a usare i suoi occhi come annaffiatoi d'[[Water|acqua]] da [[Garden|giardino]].<br>Morrò da valoroso, come un lindo sposo. Come,<br>sarò gioviale. Su, su, io sono un [[King|re]].<br>Signori, lo sapete? |
+| LEAR | Nessun secondo? Tutto solo io?<br>Ma questo farebbe d'un uomo un uomo di sale,<br>a usare i suoi occhi come annaffiatoi d'[[Water\|acqua]] da [[Garden\|giardino]].<br>Morrò da valoroso, come un lindo sposo. Come,<br>sarò gioviale. Su, su, io sono un [[King\|re]].<br>Signori, lo sapete? |
 | *(didascalia)* | PRIMOGENTILUOMO |
 | LEAR | Ne siete uno regale, e noi vi obbediamo. |
 | LEAR | Allora c'è vita in ciò. Su, se lo volete, dovrete prenderlo correndo. Sa, sa, sa, sa! |
 | *(didascalia)* | Esce di corsa inseguito da un Gentiluomo |
 | *(didascalia)* | PRIMOGENTILUOMO |
-| LEAR | Vista pietosissima nel più umile miserabile,<br>indicibile in un [[King|re]]. Tu hai una figlia<br>che redime la [[Nature|natura]] dalla maledizione generale<br>a cui due l'hanno portata. |
-| [[Edgar|EDGAR]] | Salve, gentile signore. |
-| *(didascalia)* | PRIMOGENTILUOMO Signore, [[Speed|buona sorte]] a voi. Qual è il vostro desiderio? |
-| [[Edgar|EDGAR]] | Sapete nulla, signore, d'una battaglia imminente? |
+| LEAR | Vista pietosissima nel più umile miserabile,<br>indicibile in un [[King\|re]]. Tu hai una figlia<br>che redime la [[Nature\|natura]] dalla maledizione generale<br>a cui due l'hanno portata. |
+| [[Edgar\|EDGAR]] | Salve, gentile signore. |
+| *(didascalia)* | PRIMOGENTILUOMO Signore, [[Speed\|buona sorte]] a voi. Qual è il vostro desiderio? |
+| [[Edgar\|EDGAR]] | Sapete nulla, signore, d'una battaglia imminente? |
 | *(didascalia)* | PRIMO+GENTILUOMO |
-| [[Edgar|EDGAR]] | Cosa certissima e risaputa, tutti la sentono<br>chi sappia distinguere un suono. |
-| [[Edgar|EDGAR]] | Ma, con vostra licenza,<br>quanto è vicino l'altro esercito? |
+| [[Edgar\|EDGAR]] | Cosa certissima e risaputa, tutti la sentono<br>chi sappia distinguere un suono. |
+| [[Edgar\|EDGAR]] | Ma, con vostra licenza,<br>quanto è vicino l'altro esercito? |
 | *(didascalia)* | PRIMO GENTILUOMO, |
-| [[Edgar|EDGAR]] | Vicino e a marcia rapida. L'avvistamento del grosso<br>è atteso d'ora in ora. |
-| [[Edgar|EDGAR]] | Vi ringrazio, signore. È tutto. |
+| [[Edgar\|EDGAR]] | Vicino e a marcia rapida. L'avvistamento del grosso<br>è atteso d'ora in ora. |
+| [[Edgar\|EDGAR]] | Vi ringrazio, signore. È tutto. |
 | *(didascalia)* | PRIMOGENTILUOMO |
-| [[Edgar|EDGAR]] | Benché la [[Queen|Regina]] sia qui per speciale motivo,<br>il suo esercito s'è mosso avanti. |
-| [[Edgar|EDGAR]] | Vi ringrazio, signore. Esce il Gentiluomo |
-| [[Gloucester|GLOUCESTER]] | Voi dèi sempre benigni, toglietemi il fiato.<br>Non lasciate che il mio spirito peggiore mi tenti ancora<br>a morire prima che a voi piaccia. |
-| [[Edgar|EDGAR]] | [[Well|Bene]] pregate, padre. |
-| [[Gloucester|GLOUCESTER]] | Ora, buon signore, chi siete voi? |
-| [[Edgar|EDGAR]] | Un pover'uomo, addomesticato dai colpi della fortuna,<br>che per l'arte di dolori conosciuti e sentiti<br>son gravido di buona pietà. Datemi la mano,<br>vi condurrò a qualche ricovero. |
-| *(didascalia)* | [[Gloucester|GLOUCESTER]] alzandosi |
-| [[Edgar|EDGAR]] | Grazie di cuore.<br>La generosità e la benedizione del cielo<br>ti ricompensino e ricompensino ancora. |
+| [[Edgar\|EDGAR]] | Benché la [[Queen\|Regina]] sia qui per speciale motivo,<br>il suo esercito s'è mosso avanti. |
+| [[Edgar\|EDGAR]] | Vi ringrazio, signore. Esce il Gentiluomo |
+| [[Gloucester\|GLOUCESTER]] | Voi dèi sempre benigni, toglietemi il fiato.<br>Non lasciate che il mio spirito peggiore mi tenti ancora<br>a morire prima che a voi piaccia. |
+| [[Edgar\|EDGAR]] | [[Well\|Bene]] pregate, padre. |
+| [[Gloucester\|GLOUCESTER]] | Ora, buon signore, chi siete voi? |
+| [[Edgar\|EDGAR]] | Un pover'uomo, addomesticato dai colpi della fortuna,<br>che per l'arte di dolori conosciuti e sentiti<br>son gravido di buona pietà. Datemi la mano,<br>vi condurrò a qualche ricovero. |
+| *(didascalia)* | [[Gloucester\|GLOUCESTER]] alzandosi |
+| [[Edgar\|EDGAR]] | Grazie di cuore.<br>La generosità e la benedizione del cielo<br>ti ricompensino e ricompensino ancora. |
 | *(didascalia)* | Entra Oswald il maggiordomo |
-| OSWALD | Una preda proclamata! Che fortuna!<br>Quella tua testa senz'occhi fu plasmata carne<br>per far la mia fortuna. Vecchio infelice traditore,<br>ricòrdati in breve di te stesso. La [[Sword|spada]] è fuori<br>che deve distruggerti. |
-| [[Gloucester|GLOUCESTER]] | Ora la tua mano amica<br>vi metta forza abbastanza. |
+| OSWALD | Una preda proclamata! Che fortuna!<br>Quella tua testa senz'occhi fu plasmata carne<br>per far la mia fortuna. Vecchio infelice traditore,<br>ricòrdati in breve di te stesso. La [[Sword\|spada]] è fuori<br>che deve distruggerti. |
+| [[Gloucester\|GLOUCESTER]] | Ora la tua mano amica<br>vi metta forza abbastanza. |
 | OSWALD | (a [[Edgar]])<br>Perché, contadino ardito,<br>osi sostenere un traditore proclamato? Via,<br>o l'infezione della sua fortuna prenderà<br>anche te. Lascia il suo braccio. |
-| [[Edgar|EDGAR]] | 'Un lo lasso mica, siorre, senza vurther 'cagione. |
+| [[Edgar\|EDGAR]] | 'Un lo lasso mica, siorre, senza vurther 'cagione. |
 | OSWALD | Lascia, servo, o muori. |
-| [[Edgar|EDGAR]] | Bon gentilomo, andè per la vostra strada, e lassè passà la povera gente. Se m'avessero da spaventà fori dalla vita a furia de bravate, la nun sarìa durata tanto de quindici giorni. No, nun v'accostè al vecchio. State a la larga, ve lo dico io, o proverò se sia più duro la vostra [[Costard|zucca]] o el mi' bastone; sarò schietto con voi. |
+| [[Edgar\|EDGAR]] | Bon gentilomo, andè per la vostra strada, e lassè passà la povera gente. Se m'avessero da spaventà fori dalla vita a furia de bravate, la nun sarìa durata tanto de quindici giorni. No, nun v'accostè al vecchio. State a la larga, ve lo dico io, o proverò se sia più duro la vostra [[Costard\|zucca]] o el mi' bastone; sarò schietto con voi. |
 | OSWALD | Fuori, letamaio! |
-| [[Edgar|EDGAR]] | V'andrò a stuzzicà i denti, siorre. Venite, nun m'importa gnente delle vostre stoccate. |
+| [[Edgar\|EDGAR]] | V'andrò a stuzzicà i denti, siorre. Venite, nun m'importa gnente delle vostre stoccate. |
 | *(didascalia)* | [[Edgar]] lo abbatte |
-| OSWALD | Servo, m'hai ucciso. [[Villain|Scellerato]], prendi la mia borsa.<br>Se mai vorrai prosperare, seppellisci il mio [[Body|corpo]],<br>e dà le lettere che troverai addosso a me<br>a Edmond, conte di [[Gloucester]]. Cercalo<br>nel campo inglese. Oh [[Death|morte]] intempestiva! [[Death|Morte]]!<br>Muore |
-| [[Edgar|EDGAR]] | Ti conosco [[Well|bene]]—uno [[Villain|scellerato]] servizievole,<br>ossequioso ai vizi della tua padrona<br>quanto la malvagità potrebbe [[Desire|desiderare]]. |
-| [[Gloucester|GLOUCESTER]] | Come, è morto? |
-| [[Edgar|EDGAR]] | Sedetevi, padre. Riposate.<br>[[Gloucester]] siede<br>Vediamo queste tasche. Le lettere di cui parla<br>possono essermi amiche. È morto; mi dolgo solo<br>ch'egli non abbia avuto altro carnefice. Vediamo.<br>Con licenza, gentile cera, e cortesia; non biasimateci.<br>Per conoscere la mente dei nemici ne squarciamo i cuori;<br>le loro carte è più lecito.<br>Legge la lettera<br>'Che i nostri reciproci voti siano ricordati. Avete<br>molte occasioni di sopprimerlo. Se non manca la<br>volontà, [[Time|tempo]] e luogo vi saranno offerti con frutto. Nulla<br>è fatto se egli ritorna vincitore; allora io sono<br>la prigioniera, e il suo letto la mia prigione, dal cui odiato<br>tepore liberatemi, e prendetene il posto per<br>la vostra fatica.<br>Vostra—moglie, così vorrei dire,—affezionata<br>serva, e per voi tutta vostra a ogni rischio,<br>[[Goneril]].'<br>Oh spazio indistinto della volontà femminile—<br>un complotto sulla vita del suo virtuoso marito,<br>e il cambio è mio fratello!—Qui nella sabbia<br>ti sotterrerò, tu messo non consacrato<br>di lussuriosi assassini, e a suo maturo [[Time|tempo]]<br>con questa scellerata carta colpirò la vista<br>del Duca insidiato a [[Death|morte]]. Per lui è [[Well|bene]]<br>che io possa raccontare della tua [[Death|morte]] e del tuo affare. |
-| *(didascalia)* | Esce col [[Body|corpo]] |
-| [[Gloucester|GLOUCESTER]] | Il [[King|Re]] è pazzo. Com'è ostinato il mio vile sentire,<br>che sto in piedi e ho acuta coscienza<br>dei miei enormi dolori! Meglio sarei stravolto,<br>così i miei pensieri sarebbero separati dai miei affanni, |
+| OSWALD | Servo, m'hai ucciso. [[Villain\|Scellerato]], prendi la mia borsa.<br>Se mai vorrai prosperare, seppellisci il mio [[Body\|corpo]],<br>e dà le lettere che troverai addosso a me<br>a Edmond, conte di [[Gloucester]]. Cercalo<br>nel campo inglese. Oh [[Death\|morte]] intempestiva! [[Death\|Morte]]!<br>Muore |
+| [[Edgar\|EDGAR]] | Ti conosco [[Well\|bene]]—uno [[Villain\|scellerato]] servizievole,<br>ossequioso ai vizi della tua padrona<br>quanto la malvagità potrebbe [[Desire\|desiderare]]. |
+| [[Gloucester\|GLOUCESTER]] | Come, è morto? |
+| [[Edgar\|EDGAR]] | Sedetevi, padre. Riposate.<br>[[Gloucester]] siede<br>Vediamo queste tasche. Le lettere di cui parla<br>possono essermi amiche. È morto; mi dolgo solo<br>ch'egli non abbia avuto altro carnefice. Vediamo.<br>Con licenza, gentile cera, e cortesia; non biasimateci.<br>Per conoscere la mente dei nemici ne squarciamo i cuori;<br>le loro carte è più lecito.<br>Legge la lettera<br>'Che i nostri reciproci voti siano ricordati. Avete<br>molte occasioni di sopprimerlo. Se non manca la<br>volontà, [[Time\|tempo]] e luogo vi saranno offerti con frutto. Nulla<br>è fatto se egli ritorna vincitore; allora io sono<br>la prigioniera, e il suo letto la mia prigione, dal cui odiato<br>tepore liberatemi, e prendetene il posto per<br>la vostra fatica.<br>Vostra—moglie, così vorrei dire,—affezionata<br>serva, e per voi tutta vostra a ogni rischio,<br>[[Goneril]].'<br>Oh spazio indistinto della volontà femminile—<br>un complotto sulla vita del suo virtuoso marito,<br>e il cambio è mio fratello!—Qui nella sabbia<br>ti sotterrerò, tu messo non consacrato<br>di lussuriosi assassini, e a suo maturo [[Time\|tempo]]<br>con questa scellerata carta colpirò la vista<br>del Duca insidiato a [[Death\|morte]]. Per lui è [[Well\|bene]]<br>che io possa raccontare della tua [[Death\|morte]] e del tuo affare. |
+| *(didascalia)* | Esce col [[Body\|corpo]] |
+| [[Gloucester\|GLOUCESTER]] | Il [[King\|Re]] è pazzo. Com'è ostinato il mio vile sentire,<br>che sto in piedi e ho acuta coscienza<br>dei miei enormi dolori! Meglio sarei stravolto,<br>così i miei pensieri sarebbero separati dai miei affanni, |
 | *(didascalia)* | Tamburo lontano |
-| [[Gloucester|GLOUCESTER]] | e le sventure, per false immaginazioni, perderebbero<br>la conoscenza di se stesse. |
+| [[Gloucester\|GLOUCESTER]] | e le sventure, per false immaginazioni, perderebbero<br>la conoscenza di se stesse. |
 | *(didascalia)* | Entra [[Edgar]] |
-| [[Edgar|EDGAR]] | Datemi la mano.<br>Lontano mi pare d'udire il tamburo battuto.<br>Venite, padre, vi collocherò presso un amico. |
+| [[Edgar\|EDGAR]] | Datemi la mano.<br>Lontano mi pare d'udire il tamburo battuto.<br>Venite, padre, vi collocherò presso un amico. |
 | *(didascalia)* | Esce [[Edgar]] guidando [[Gloucester]] |
 
 
@@ -3778,44 +3778,44 @@ The [[Tragedy]] of [[King Lear]]
 
 | Chi parla | Battuta |
 |---|---|
-| *(didascalia)* | Entrano la [[Queen|Regina]] [[Cordelia]], il conte di [[Kent]] travestito, e il Primo Gentiluomo |
-| [[Cordelia|CORDELIA]] | Oh tu buon [[Kent]], come potrò vivere e operare<br>per uguagliare la tua bontà? La mia vita sarà troppo breve,<br>e ogni misura mi verrà meno. |
-| [[Kent|KENT]] | Essere riconosciuto, madama, è già pagamento eccessivo.<br>Tutte le mie relazioni vanno con la modesta [[Truth|verità]],<br>né più, né mozze, ma proprio così. |
-| [[Cordelia|CORDELIA]] | Vestitevi meglio.<br>Questi stracci sono memorie di quelle ore peggiori.<br>Ti prego, deponili. |
-| [[Kent|KENT]] | Perdono, cara madama.<br>Farmi conoscere ora accorcerebbe il mio disegno.<br>Chiedo in grazia che voi non mi conosciate<br>finché il [[Time|tempo]] e io lo giudichiamo opportuno. |
-| [[Cordelia|CORDELIA]] | E sia così, mio buon signore.—<br>Come sta il [[King|Re]]? |
+| *(didascalia)* | Entrano la [[Queen\|Regina]] [[Cordelia]], il conte di [[Kent]] travestito, e il Primo Gentiluomo |
+| [[Cordelia\|CORDELIA]] | Oh tu buon [[Kent]], come potrò vivere e operare<br>per uguagliare la tua bontà? La mia vita sarà troppo breve,<br>e ogni misura mi verrà meno. |
+| [[Kent\|KENT]] | Essere riconosciuto, madama, è già pagamento eccessivo.<br>Tutte le mie relazioni vanno con la modesta [[Truth\|verità]],<br>né più, né mozze, ma proprio così. |
+| [[Cordelia\|CORDELIA]] | Vestitevi meglio.<br>Questi stracci sono memorie di quelle ore peggiori.<br>Ti prego, deponili. |
+| [[Kent\|KENT]] | Perdono, cara madama.<br>Farmi conoscere ora accorcerebbe il mio disegno.<br>Chiedo in grazia che voi non mi conosciate<br>finché il [[Time\|tempo]] e io lo giudichiamo opportuno. |
+| [[Cordelia\|CORDELIA]] | E sia così, mio buon signore.—<br>Come sta il [[King\|Re]]? |
 | *(didascalia)* | PRIMOGENTILUOMO Madama, dorme ancora. |
-| [[Cordelia|CORDELIA]] | Oh voi dèi benigni,<br>sanate questa grande breccia nella sua abusata [[Nature|natura]];<br>i sensi scordati e stridenti oh [[Wind|ricaricate]]<br>di questo padre mutato dai [[Child|figli]]! |
+| [[Cordelia\|CORDELIA]] | Oh voi dèi benigni,<br>sanate questa grande breccia nella sua abusata [[Nature\|natura]];<br>i sensi scordati e stridenti oh [[Wind\|ricaricate]]<br>di questo padre mutato dai [[Child\|figli]]! |
 | *(didascalia)* | PRIMOGENTILUOMO |
-| [[Cordelia|CORDELIA]] | Piaccia a vostra maestà<br>che possiamo svegliare il [[King|Re]]? Ha dormito a lungo. |
-| [[Cordelia|CORDELIA]] | Regolatevi secondo la vostra scienza, e procedete<br>secondo il corso della vostra volontà. È vestito? |
+| [[Cordelia\|CORDELIA]] | Piaccia a vostra maestà<br>che possiamo svegliare il [[King\|Re]]? Ha dormito a lungo. |
+| [[Cordelia\|CORDELIA]] | Regolatevi secondo la vostra scienza, e procedete<br>secondo il corso della vostra volontà. È vestito? |
 | *(didascalia)* | PRIMOGENTILUOMO |
-| [[Cordelia|CORDELIA]] | Sì, madama. Nella gravezza del [[Sleep|sonno]]<br>gli abbiamo messo vesti fresche. |
+| [[Cordelia\|CORDELIA]] | Sì, madama. Nella gravezza del [[Sleep\|sonno]]<br>gli abbiamo messo vesti fresche. |
 | *(didascalia)* | Entra [[King Lear]] addormentato, su una sedia portata da servi |
-| [[Cordelia|CORDELIA]] | State accanto, buona madama, quando lo sveglieremo.<br>Non [[Doubt|dubito]] della sua compostezza. |
-| [[Cordelia|CORDELIA]] | Oh mio caro padre, la guarigione appenda<br>la sua medicina alle mie labbra, e questo bacio<br>ripari quei violenti danni che le mie due sorelle<br>hanno fatto alla tua veneranda persona! |
-| [[Kent|KENT]] | Gentile e cara principessa! |
-| [[Cordelia|CORDELIA]] | Se non foste stato loro padre, questi bianchi fiocchi<br>avrebbero reclamato pietà da loro. Era questo un volto<br>da opporre ai venti in guerra?<br>Il cane del mio nemico, anche se m'avesse morso, sarebbe<br>rimasto<br>quella [[Night|notte]] davanti al mio [[Fire|fuoco]]. E dovesti tu, povero<br>padre,<br>ricoverarti coi porci e coi vagabondi abbandonati<br>su paglia corta e ammuffita? Ahimè, ahimè,<br>è [[Wonder|meraviglia]] che la tua vita e il tuo senno a un tempo<br>non siano finiti del tutto! (Al Gentiluomo) Si sveglia.<br>Parlategli. |
+| [[Cordelia\|CORDELIA]] | State accanto, buona madama, quando lo sveglieremo.<br>Non [[Doubt\|dubito]] della sua compostezza. |
+| [[Cordelia\|CORDELIA]] | Oh mio caro padre, la guarigione appenda<br>la sua medicina alle mie labbra, e questo bacio<br>ripari quei violenti danni che le mie due sorelle<br>hanno fatto alla tua veneranda persona! |
+| [[Kent\|KENT]] | Gentile e cara principessa! |
+| [[Cordelia\|CORDELIA]] | Se non foste stato loro padre, questi bianchi fiocchi<br>avrebbero reclamato pietà da loro. Era questo un volto<br>da opporre ai venti in guerra?<br>Il cane del mio nemico, anche se m'avesse morso, sarebbe<br>rimasto<br>quella [[Night\|notte]] davanti al mio [[Fire\|fuoco]]. E dovesti tu, povero<br>padre,<br>ricoverarti coi porci e coi vagabondi abbandonati<br>su paglia corta e ammuffita? Ahimè, ahimè,<br>è [[Wonder\|meraviglia]] che la tua vita e il tuo senno a un tempo<br>non siano finiti del tutto! (Al Gentiluomo) Si sveglia.<br>Parlategli. |
 | *(didascalia)* | PRIMOGENTILUOMO Madama, fatelo voi; è più conveniente. |
-| [[Cordelia|CORDELIA]] | (a Lear)<br>Come sta il mio regale signore? Come va vostra maestà? |
-| LEAR | Mi fate torto a trarmi fuori dalla [[Grave|tomba]].<br>Tu sei un'[[Soul|anima]] in beatitudine, ma io son legato<br>a una [[Wheel|ruota]] di [[Fire|fuoco]], sicché le mie stesse [[Tears|lacrime]]<br>scottano come piombo fuso. |
-| [[Cordelia|CORDELIA]] | Signore, mi conoscete? |
+| [[Cordelia\|CORDELIA]] | (a Lear)<br>Come sta il mio regale signore? Come va vostra maestà? |
+| LEAR | Mi fate torto a trarmi fuori dalla [[Grave\|tomba]].<br>Tu sei un'[[Soul\|anima]] in beatitudine, ma io son legato<br>a una [[Wheel\|ruota]] di [[Fire\|fuoco]], sicché le mie stesse [[Tears\|lacrime]]<br>scottano come piombo fuso. |
+| [[Cordelia\|CORDELIA]] | Signore, mi conoscete? |
 | LEAR | Voi siete uno spirito, lo so. Dove moriste? |
-| [[Cordelia|CORDELIA]] | (al Gentiluomo) Ancora, ancora ben lontano! |
+| [[Cordelia\|CORDELIA]] | (al Gentiluomo) Ancora, ancora ben lontano! |
 | *(didascalia)* | PRIMO GENTILUOMO |
-| [[Cordelia|CORDELIA]] | È appena sveglio. Lasciatelo [[Alone|solo]] un poco. |
+| [[Cordelia\|CORDELIA]] | È appena sveglio. Lasciatelo [[Alone\|solo]] un poco. |
 | LEAR | Dove sono stato? Dove sono? Chiara luce del giorno?<br>Sono grandemente ingannato. Morirei di pietà<br>a veder un altro così. Non so che dire.<br>Non giurerò che queste siano le mie mani. Vediamo:<br>sento la puntura di questo spillo. Vorrei essere certo<br>della mia condizione. |
-| [[Cordelia|CORDELIA]] | (inginocchiandosi) Oh guardatemi, signore,<br>e tenete le mani in benedizione sopra di me.<br>Non dovete inginocchiarvi. |
-| LEAR | Vi prego, non schernitemi.<br>Sono un vecchio molto sciocco e insensato,<br>d'ottant'anni e più,<br>non un'ora di più né di meno; e a dirla schietta,<br>[[Fear|temo]] di non essere nella mia mente perfetta.<br>Mi pare che dovrei conoscere voi, e conoscere quest'uomo;<br>eppure sono in dubbio, ché ignoro del tutto<br>che luogo sia questo; e tutta l'abilità che ho<br>non ricorda queste vesti; né so<br>dove alloggiai la scorsa [[Night|notte]]. Non ridete di me,<br>ché, com'è vero che sono un uomo, credo che questa dama<br>sia la mia [[Child|figlia]], [[Cordelia]]. |
-| [[Cordelia|CORDELIA]] | E lo sono, lo sono. |
-| LEAR | Sono bagnate le vostre [[Tears|lacrime]]? Sì, in [[Faith|fede]] mia. Vi prego, non piangete.<br>Se avete del [[Poison|veleno]] per me, lo berrò.<br>So che non mi [[Love|amate]]; ché le vostre sorelle<br>m'hanno, per quanto ricordo, fatto torto.<br>Voi avete qualche ragione; esse no. |
-| [[Cordelia|CORDELIA]] | Nessuna ragione, nessuna ragione. |
+| [[Cordelia\|CORDELIA]] | (inginocchiandosi) Oh guardatemi, signore,<br>e tenete le mani in benedizione sopra di me.<br>Non dovete inginocchiarvi. |
+| LEAR | Vi prego, non schernitemi.<br>Sono un vecchio molto sciocco e insensato,<br>d'ottant'anni e più,<br>non un'ora di più né di meno; e a dirla schietta,<br>[[Fear\|temo]] di non essere nella mia mente perfetta.<br>Mi pare che dovrei conoscere voi, e conoscere quest'uomo;<br>eppure sono in dubbio, ché ignoro del tutto<br>che luogo sia questo; e tutta l'abilità che ho<br>non ricorda queste vesti; né so<br>dove alloggiai la scorsa [[Night\|notte]]. Non ridete di me,<br>ché, com'è vero che sono un uomo, credo che questa dama<br>sia la mia [[Child\|figlia]], [[Cordelia]]. |
+| [[Cordelia\|CORDELIA]] | E lo sono, lo sono. |
+| LEAR | Sono bagnate le vostre [[Tears\|lacrime]]? Sì, in [[Faith\|fede]] mia. Vi prego, non piangete.<br>Se avete del [[Poison\|veleno]] per me, lo berrò.<br>So che non mi [[Love\|amate]]; ché le vostre sorelle<br>m'hanno, per quanto ricordo, fatto torto.<br>Voi avete qualche ragione; esse no. |
+| [[Cordelia\|CORDELIA]] | Nessuna ragione, nessuna ragione. |
 | LEAR | Sono in Francia? |
-| [[Kent|KENT]] | Nel vostro regno, signore. |
+| [[Kent\|KENT]] | Nel vostro regno, signore. |
 | LEAR | Non m'ingannate. |
 | *(didascalia)* | PRIMOGENTILUOMO |
-| LEAR | Consolatevi, buona madama. La grande furia<br>che vedete è in lui spenta. [[Desire|Invitatelo]] a rientrare.<br>Non lo turbate più finché non si sia ulteriormente calmato. |
-| [[Cordelia|CORDELIA]] | (a Lear) Piace a vostra altezza di camminare? |
+| LEAR | Consolatevi, buona madama. La grande furia<br>che vedete è in lui spenta. [[Desire\|Invitatelo]] a rientrare.<br>Non lo turbate più finché non si sia ulteriormente calmato. |
+| [[Cordelia\|CORDELIA]] | (a Lear) Piace a vostra altezza di camminare? |
 | LEAR | Dovete compatirmi. Vi prego ora, dimenticate<br>e perdonate. Sono vecchio e insensato. |
 | *(didascalia)* | Escono |
 
@@ -3871,42 +3871,42 @@ The [[Tragedy]] of [[King Lear]]
 | Chi parla | Battuta |
 |---|---|
 | *(didascalia)* | Entrano con un tamburino e le insegne Edmond, [[Regan]], <br>Gentiluomini e soldati |
-| EDMOND | Sappiate dal Duca se tiene il suo ultimo proposito,<br>o se da allora qualcosa l'abbia consigliato<br>a mutare il corso. È pieno d'abdicazione<br>e di [[Self|auto]]-rimprovero. Portate il suo fermo volere. |
+| EDMOND | Sappiate dal Duca se tiene il suo ultimo proposito,<br>o se da allora qualcosa l'abbia consigliato<br>a mutare il corso. È pieno d'abdicazione<br>e di [[Self\|auto]]-rimprovero. Portate il suo fermo volere. |
 | *(didascalia)* | Esce uno o più |
-| [[Regan|REGAN]] | L'uomo di nostra sorella è certamente perito. |
+| [[Regan\|REGAN]] | L'uomo di nostra sorella è certamente perito. |
 | EDMOND | C'è da temerlo, madama. |
-| [[Regan|REGAN]] | Ora, dolce signore,<br>voi sapete quale bontà intendo verso di voi.<br>Ditemi solo sinceramente—ma allora dite la [[Truth|verità]]—<br>non [[Love|amate]] mia sorella? |
-| EDMOND | D'onorato [[Love|amore]]. |
-| [[Regan|REGAN]] | Ma non avete mai trovato la via di mio cognato<br>al luogo interdetto? |
-| EDMOND | No, sul mio [[Honour|onore]], madama. |
-| [[Regan|REGAN]] | Non la sopporterò mai. Mio caro signore,<br>non siate familiare con lei. |
-| EDMOND | Non [[Fear|temete]] di me.<br>Lei e il Duca suo marito— |
+| [[Regan\|REGAN]] | Ora, dolce signore,<br>voi sapete quale bontà intendo verso di voi.<br>Ditemi solo sinceramente—ma allora dite la [[Truth\|verità]]—<br>non [[Love\|amate]] mia sorella? |
+| EDMOND | D'onorato [[Love\|amore]]. |
+| [[Regan\|REGAN]] | Ma non avete mai trovato la via di mio cognato<br>al luogo interdetto? |
+| EDMOND | No, sul mio [[Honour\|onore]], madama. |
+| [[Regan\|REGAN]] | Non la sopporterò mai. Mio caro signore,<br>non siate familiare con lei. |
+| EDMOND | Non [[Fear\|temete]] di me.<br>Lei e il Duca suo marito— |
 | *(didascalia)* | Entrano con un tamburino e le insegne il duca d'Albany, [[Goneril]], e soldati |
-| ALBANY | (a [[Regan]])<br>Nostra amatissima sorella, [[Well|ben]] trovata.<br>(A Edmond) Signore, questo ho udito: il [[King|Re]] è giunto da sua<br>figlia,<br>con altri che il rigore del nostro governo<br>ha costretto a gridare. |
-| [[Regan|REGAN]] | Perché si ragiona di questo? |
-| [[Goneril|GONERIL]] | Uniamoci insieme contro il nemico;<br>ché queste risse domestiche e particolari<br>non sono qui la questione. |
+| ALBANY | (a [[Regan]])<br>Nostra amatissima sorella, [[Well\|ben]] trovata.<br>(A Edmond) Signore, questo ho udito: il [[King\|Re]] è giunto da sua<br>figlia,<br>con altri che il rigore del nostro governo<br>ha costretto a gridare. |
+| [[Regan\|REGAN]] | Perché si ragiona di questo? |
+| [[Goneril\|GONERIL]] | Uniamoci insieme contro il nemico;<br>ché queste risse domestiche e particolari<br>non sono qui la questione. |
 | ALBANY | Determiniamo dunque coi veterani di guerra<br>il nostro procedere. |
-| [[Regan|REGAN]] | Sorella, verrete con noi? |
-| [[Goneril|GONERIL]] | No. |
-| [[Regan|REGAN]] | È assai conveniente. Vi prego, venite con noi. |
-| [[Goneril|GONERIL]] | (a parte)<br>Oh oh, conosco l'[[Riddle|indovinello]]! (A [[Regan]]) Verrò. |
+| [[Regan\|REGAN]] | Sorella, verrete con noi? |
+| [[Goneril\|GONERIL]] | No. |
+| [[Regan\|REGAN]] | È assai conveniente. Vi prego, venite con noi. |
+| [[Goneril\|GONERIL]] | (a parte)<br>Oh oh, conosco l'[[Riddle\|indovinello]]! (A [[Regan]]) Verrò. |
 | *(didascalia)* | Entra [[Edgar]] travestito da contadino |
-| [[Edgar|EDGAR]] | (ad Albany)<br>Se mai vostra grazia ebbe parola con uomo così povero,<br>ascoltatemi una parola. |
+| [[Edgar\|EDGAR]] | (ad Albany)<br>Se mai vostra grazia ebbe parola con uomo così povero,<br>ascoltatemi una parola. |
 | ALBANY | (agli altri) Vi raggiungerò. |
 | *(didascalia)* | Escono entrambi gli eserciti |
 | ALBANY | Parla. |
-| [[Edgar|EDGAR]] | Prima di combattere la battaglia, aprite questa lettera.<br>Se avrete vittoria, fate suonare la tromba<br>per colui che l'ha portata. Per misero ch'io sembri,<br>posso produrre un campione che proverà<br>quanto vi è affermato. Se soccombete,<br>i vostri affari col mondo hanno così fine,<br>e le macchinazioni cessano. La Fortuna vi [[Love|ami]]. |
+| [[Edgar\|EDGAR]] | Prima di combattere la battaglia, aprite questa lettera.<br>Se avrete vittoria, fate suonare la tromba<br>per colui che l'ha portata. Per misero ch'io sembri,<br>posso produrre un campione che proverà<br>quanto vi è affermato. Se soccombete,<br>i vostri affari col mondo hanno così fine,<br>e le macchinazioni cessano. La Fortuna vi [[Love\|ami]]. |
 | ALBANY | Aspetta finché io abbia letto la lettera. |
-| [[Edgar|EDGAR]] | Me l'hanno vietato.<br>Quando il [[Time|tempo]] verrà, basti che l'araldo gridi,<br>e io apparirò di nuovo. |
-| ALBANY | Ebbene, sta' [[Well|bene]].<br>Scorrerò la tua carta. |
+| [[Edgar\|EDGAR]] | Me l'hanno vietato.<br>Quando il [[Time\|tempo]] verrà, basti che l'araldo gridi,<br>e io apparirò di nuovo. |
+| ALBANY | Ebbene, sta' [[Well\|bene]].<br>Scorrerò la tua carta. |
 | *(didascalia)* | Esce [[Edgar]] |
 | *(didascalia)* | Entra Edmond |
 | EDMOND | Il nemico è in vista; schierate le vostre forze. |
 | *(didascalia)* | Porge ad Albany una carta |
 | EDMOND | Ecco la stima della loro vera forza e delle loro schiere<br>secondo diligente ricognizione; ma ora vi si<br>impone la fretta. |
-| ALBANY | Andremo incontro al [[Time|tempo]]. |
+| ALBANY | Andremo incontro al [[Time\|tempo]]. |
 | *(didascalia)* | Esce |
-| EDMOND | A entrambe queste sorelle ho giurato il mio [[Love|amore]],<br>ciascuna gelosa dell'altra come il morso<br>lo è della vipera. Quale delle due prenderò?—<br>Entrambe?—una?—o nessuna? Nessuna si può godere<br>se entrambe restano vive. Prendere la vedova<br>esaspera, fa impazzire, la sorella [[Goneril]],<br>e a stento condurrò in porto la mia parte,<br>essendo suo marito vivo. Ora dunque, useremo<br>la sua autorità per la battaglia, e ciò fatto,<br>colei che vuol disfarsene escogiti<br>la rapida soppressione di lui. Quanto alla [[Mercy|clemenza]]<br>ch'egli intende per Lear e per [[Cordelia]],<br>finita la battaglia, ed essi in nostro potere,<br>non vedranno mai il suo perdono; ché il mio stato<br>tocca a me difenderlo, non [[debate|discuterlo]]. |
+| EDMOND | A entrambe queste sorelle ho giurato il mio [[Love\|amore]],<br>ciascuna gelosa dell'altra come il morso<br>lo è della vipera. Quale delle due prenderò?—<br>Entrambe?—una?—o nessuna? Nessuna si può godere<br>se entrambe restano vive. Prendere la vedova<br>esaspera, fa impazzire, la sorella [[Goneril]],<br>e a stento condurrò in porto la mia parte,<br>essendo suo marito vivo. Ora dunque, useremo<br>la sua autorità per la battaglia, e ciò fatto,<br>colei che vuol disfarsene escogiti<br>la rapida soppressione di lui. Quanto alla [[Mercy\|clemenza]]<br>ch'egli intende per Lear e per [[Cordelia]],<br>finita la battaglia, ed essi in nostro potere,<br>non vedranno mai il suo perdono; ché il mio stato<br>tocca a me difenderlo, non [[debate\|discuterlo]]. |
 | *(didascalia)* | Esce |
 
 
@@ -3932,15 +3932,15 @@ The [[Tragedy]] of [[King Lear]]
 
 | Chi parla | Battuta |
 |---|---|
-| *(didascalia)* | Allarme all'interno. Entrano con un tamburino e le insegne [[King Lear]], la [[Queen|Regina]] [[Cordelia]], e soldati attraverso la scena; ed escono. Entra [[Edgar]] travestito da contadino, guidando il cieco [[Duke of Gloucester|duca di Gloucester]] |
-| [[Edgar|EDGAR]] | Qui, padre, prendete l'[[Shadow|ombra]] di quest'albero<br>per vostro buon ospite; pregate che il diritto prosperi.<br>Se mai tornerò da voi<br>vi porterò conforto. |
-| [[Gloucester|GLOUCESTER]] | La grazia vada con voi, signore. |
+| *(didascalia)* | Allarme all'interno. Entrano con un tamburino e le insegne [[King Lear]], la [[Queen\|Regina]] [[Cordelia]], e soldati attraverso la scena; ed escono. Entra [[Edgar]] travestito da contadino, guidando il cieco [[Duke of Gloucester\|duca di Gloucester]] |
+| [[Edgar\|EDGAR]] | Qui, padre, prendete l'[[Shadow\|ombra]] di quest'albero<br>per vostro buon ospite; pregate che il diritto prosperi.<br>Se mai tornerò da voi<br>vi porterò conforto. |
+| [[Gloucester\|GLOUCESTER]] | La grazia vada con voi, signore. |
 | *(didascalia)* | Esce [[Edgar]] |
 | *(didascalia)* | Allarme e ritirata all'interno. Entra [[Edgar]] |
-| [[Edgar|EDGAR]] | Via, vecchio. Dammi la mano. Via.<br>[[King Lear]] ha perduto, lui e sua figlia son presi.<br>Dammi la mano. Andiamo. |
-| [[Gloucester|GLOUCESTER]] | Non più oltre, signore. Un uomo può marcire anche qui. |
-| [[Edgar|EDGAR]] | Come, di nuovo in cattivi pensieri? Gli uomini devono sopportare<br>il loro andarsene di qui come il loro venirci.<br>La maturità è tutto. Andiamo. |
-| [[Gloucester|GLOUCESTER]] | E anche questo è vero. |
+| [[Edgar\|EDGAR]] | Via, vecchio. Dammi la mano. Via.<br>[[King Lear]] ha perduto, lui e sua figlia son presi.<br>Dammi la mano. Andiamo. |
+| [[Gloucester\|GLOUCESTER]] | Non più oltre, signore. Un uomo può marcire anche qui. |
+| [[Edgar\|EDGAR]] | Come, di nuovo in cattivi pensieri? Gli uomini devono sopportare<br>il loro andarsene di qui come il loro venirci.<br>La maturità è tutto. Andiamo. |
+| [[Gloucester\|GLOUCESTER]] | E anche questo è vero. |
 | *(didascalia)* | Esce [[Edgar]] guidando [[Gloucester]] |
 
 
@@ -4108,155 +4108,155 @@ The [[Tragedy]] of [[King Lear]]
 
 | Chi parla | Battuta |
 |---|---|
-| *(didascalia)* | Entrano in trionfo con un tamburino e le insegne Edmond; [[King Lear]] e la [[Queen|Regina]] [[Cordelia]] come prigionieri; soldati; un Capitano |
+| *(didascalia)* | Entrano in trionfo con un tamburino e le insegne Edmond; [[King Lear]] e la [[Queen\|Regina]] [[Cordelia]] come prigionieri; soldati; un Capitano |
 | EDMOND | Alcuni ufficiali li portino via. Buona guardia<br>finché non sia noto il maggior volere<br>di coloro che devono giudicarli. |
-| [[Cordelia|CORDELIA]] | (a Lear)<br>Non siamo i primi<br>che con le migliori intenzioni hanno incontrato il peggio.<br>Per te, oppresso [[King|Re]], io sono abbattuta;<br>per me sola saprei sfidare il cipiglio della falsa fortuna.<br>Non vedremo queste figlie e queste sorelle? |
-| LEAR | No, no, no, no. Vieni, andiamo in [[Prison|prigione]].<br>Noi due [[Alone|soli]] canteremo come [[Birds|uccelli]] in gabbia.<br>Quando tu mi chiederai la benedizione, io m'inginocchierò<br>e ti chiederò [[Forgiveness|perdono]]; così vivremo,<br>e pregheremo, e canteremo, e diremo vecchie storie, e rideremo<br>delle farfalle dorate, e udremo poveri furfanti<br>parlare delle notizie di [[Court|corte]], e parleremo anche noi con loro—<br>chi perde e chi vince, chi è dentro, chi è fuori,<br>e ci assumeremo il mistero delle cose<br>come fossimo spie di Dio; e consumeremo,<br>in una [[Prison|prigione]] murata, cricche e sette di potenti<br>che fluiscono e rifluiscono con la [[Moon|luna]]. |
+| [[Cordelia\|CORDELIA]] | (a Lear)<br>Non siamo i primi<br>che con le migliori intenzioni hanno incontrato il peggio.<br>Per te, oppresso [[King\|Re]], io sono abbattuta;<br>per me sola saprei sfidare il cipiglio della falsa fortuna.<br>Non vedremo queste figlie e queste sorelle? |
+| LEAR | No, no, no, no. Vieni, andiamo in [[Prison\|prigione]].<br>Noi due [[Alone\|soli]] canteremo come [[Birds\|uccelli]] in gabbia.<br>Quando tu mi chiederai la benedizione, io m'inginocchierò<br>e ti chiederò [[Forgiveness\|perdono]]; così vivremo,<br>e pregheremo, e canteremo, e diremo vecchie storie, e rideremo<br>delle farfalle dorate, e udremo poveri furfanti<br>parlare delle notizie di [[Court\|corte]], e parleremo anche noi con loro—<br>chi perde e chi vince, chi è dentro, chi è fuori,<br>e ci assumeremo il mistero delle cose<br>come fossimo spie di Dio; e consumeremo,<br>in una [[Prison\|prigione]] murata, cricche e sette di potenti<br>che fluiscono e rifluiscono con la [[Moon\|luna]]. |
 | EDMOND | (ai soldati)<br>Portateli via. |
-| LEAR | Su tali sacrifici, [[Cordelia]] mia,<br>gli dèi stessi gettano incenso. T'ho dunque<br>ritrovata?<br>Chi ci separa dovrà portare un tizzone dal cielo<br>e stanarci col [[Fire|fuoco]] come volpi. Asciugati gli occhi.<br>Il malanno li divorerà, carne e pelle,<br>prima che ci facciano piangere. Li vedremo prima morire<br>di fame. Vieni. Escono tutti tranne Edmond e il Capitano |
-| EDMOND | Vieni qua, capitano. Ascolta.<br>Prendi questo biglietto. Va' a seguirli in [[Prison|prigione]].<br>D'un grado t'ho innalzato; se farai<br>come questo t'istruisce, t'aprirai la via<br>a nobili fortune. Sappi questo: che gli uomini<br>sono come è il [[Time|tempo]]. Aver l'animo tenero<br>non si conviene a una [[Sword|spada]]. Il tuo grande incarico<br>non ammette discussione. O dici che lo farai,<br>o prospera per altre vie. |
+| LEAR | Su tali sacrifici, [[Cordelia]] mia,<br>gli dèi stessi gettano incenso. T'ho dunque<br>ritrovata?<br>Chi ci separa dovrà portare un tizzone dal cielo<br>e stanarci col [[Fire\|fuoco]] come volpi. Asciugati gli occhi.<br>Il malanno li divorerà, carne e pelle,<br>prima che ci facciano piangere. Li vedremo prima morire<br>di fame. Vieni. Escono tutti tranne Edmond e il Capitano |
+| EDMOND | Vieni qua, capitano. Ascolta.<br>Prendi questo biglietto. Va' a seguirli in [[Prison\|prigione]].<br>D'un grado t'ho innalzato; se farai<br>come questo t'istruisce, t'aprirai la via<br>a nobili fortune. Sappi questo: che gli uomini<br>sono come è il [[Time\|tempo]]. Aver l'animo tenero<br>non si conviene a una [[Sword\|spada]]. Il tuo grande incarico<br>non ammette discussione. O dici che lo farai,<br>o prospera per altre vie. |
 | CAPTAIN | Lo farò, mio signore. |
 | EDMOND | All'opera, e scrivi 'felice' quando avrai finito.<br>Bada, dico, all'istante, e conducilo così<br>come l'ho messo per iscritto. |
 | *(didascalia)* | Esce il Capitano |
 | *(didascalia)* | Squilli. Entrano il duca d'Albany, [[Goneril]], [[Regan]], un tamburino, un trombettiere |
 | EDMOND | e soldati |
-| ALBANY | Signore, avete mostrato oggi la vostra valorosa tempra,<br>e la fortuna vi ha [[Well|ben]] guidato. Avete i prigionieri<br>che furono gli avversari nella contesa di questo giorno.<br>Io ve li richiedo, per trattarli<br>come i loro meriti e la nostra sicurezza<br>potranno ugualmente determinare. |
-| EDMOND | Signore, ho ritenuto conveniente<br>mandare il vecchio e misero [[King|Re]]<br>a qualche custodia e a guardia designata:<br>la sua età aveva in sé incanti, il suo titolo di più,<br>da tirare dalla sua parte il cuore del popolo<br>e volgere le lance da noi arruolate contro gli occhi nostri<br>che le comandano. Con lui ho mandato la [[Queen|Regina]],<br>per la stessa mia ragione, ed essi sono pronti<br>domani, o a più lunga scadenza, a comparire<br>dove terrete la vostra sessione. |
+| ALBANY | Signore, avete mostrato oggi la vostra valorosa tempra,<br>e la fortuna vi ha [[Well\|ben]] guidato. Avete i prigionieri<br>che furono gli avversari nella contesa di questo giorno.<br>Io ve li richiedo, per trattarli<br>come i loro meriti e la nostra sicurezza<br>potranno ugualmente determinare. |
+| EDMOND | Signore, ho ritenuto conveniente<br>mandare il vecchio e misero [[King\|Re]]<br>a qualche custodia e a guardia designata:<br>la sua età aveva in sé incanti, il suo titolo di più,<br>da tirare dalla sua parte il cuore del popolo<br>e volgere le lance da noi arruolate contro gli occhi nostri<br>che le comandano. Con lui ho mandato la [[Queen\|Regina]],<br>per la stessa mia ragione, ed essi sono pronti<br>domani, o a più lunga scadenza, a comparire<br>dove terrete la vostra sessione. |
 | ALBANY | Signore, con vostra licenza,<br>io vi considero solo un suddito in questa guerra,<br>non un fratello. |
-| [[Regan|REGAN]] | Questo secondo come ci piace onorarlo.<br>Mi pare che il nostro volere avrebbe potuto esser richiesto<br>prima che voi parlaste così oltre. Egli guidò le nostre forze,<br>portò l'incarico del mio posto e della mia persona,<br>e questa immediatezza può [[Well|bene]] levarsi<br>e chiamarsi vostro fratello. |
-| [[Goneril|GONERIL]] | Non tanta foga.<br>Nella sua propria grazia egli s'esalta<br>più che nella vostra aggiunta. |
-| [[Regan|REGAN]] | Nei miei diritti<br>da me conferiti, egli pareggia i migliori. |
+| [[Regan\|REGAN]] | Questo secondo come ci piace onorarlo.<br>Mi pare che il nostro volere avrebbe potuto esser richiesto<br>prima che voi parlaste così oltre. Egli guidò le nostre forze,<br>portò l'incarico del mio posto e della mia persona,<br>e questa immediatezza può [[Well\|bene]] levarsi<br>e chiamarsi vostro fratello. |
+| [[Goneril\|GONERIL]] | Non tanta foga.<br>Nella sua propria grazia egli s'esalta<br>più che nella vostra aggiunta. |
+| [[Regan\|REGAN]] | Nei miei diritti<br>da me conferiti, egli pareggia i migliori. |
 | ALBANY | Sarebbe il massimo se vi facesse da marito. |
-| [[Regan|REGAN]] | I burloni spesso si rivelano profeti. |
-| [[Goneril|GONERIL]] | Olà, olà—<br>quell'occhio che ve l'ha detto guardava di traverso. |
-| [[Regan|REGAN]] | Signora, non sto [[Well|bene]], altrimenti risponderei<br>da uno stomaco che trabocca. (A Edmond) Generale,<br>prendi i miei soldati, i prigionieri, il patrimonio.<br>Disponi di loro, di me. Le mura son tue.<br>Sia testimone il mondo che qui ti creo<br>mio signore e padrone. |
-| [[Goneril|GONERIL]] | Intendete godervelo? |
-| ALBANY | Il lasciar [[Alone|correre]] non sta nel vostro buon volere. |
+| [[Regan\|REGAN]] | I burloni spesso si rivelano profeti. |
+| [[Goneril\|GONERIL]] | Olà, olà—<br>quell'occhio che ve l'ha detto guardava di traverso. |
+| [[Regan\|REGAN]] | Signora, non sto [[Well\|bene]], altrimenti risponderei<br>da uno stomaco che trabocca. (A Edmond) Generale,<br>prendi i miei soldati, i prigionieri, il patrimonio.<br>Disponi di loro, di me. Le mura son tue.<br>Sia testimone il mondo che qui ti creo<br>mio signore e padrone. |
+| [[Goneril\|GONERIL]] | Intendete godervelo? |
+| ALBANY | Il lasciar [[Alone\|correre]] non sta nel vostro buon volere. |
 | EDMOND | Né nel tuo, signore. |
 | ALBANY | Individuo di mezzo sangue, sì. |
-| [[Regan|REGAN]] | (a Edmond)<br>Suoni il tamburo e provi tuo il mio titolo. |
+| [[Regan\|REGAN]] | (a Edmond)<br>Suoni il tamburo e provi tuo il mio titolo. |
 | ALBANY | Fermatevi ancora, udite ragione. Edmond, t'arresto<br>per alto tradimento, e nella tua condanna<br>questa serpe dorata. (A [[Regan]]) Quanto alla vostra pretesa, bella<br>sorella,<br>la sbarro nell'interesse di mia moglie.<br>È lei che è già promessa a questo signore,<br>e io, suo marito, contraddico le vostre pubblicazioni.<br>Se volete sposarvi, fate la corte a me.<br>La mia signora è impegnata. |
-| [[Goneril|GONERIL]] | Un intermezzo! |
+| [[Goneril\|GONERIL]] | Un intermezzo! |
 | ALBANY | Sei armato, [[Gloucester]]. Suoni la tromba.<br>Se nessuno appare a provare sulla tua persona<br>i tuoi nefandi, manifesti e molteplici tradimenti,<br>ecco il mio pegno. |
 | *(didascalia)* | Egli |
 | ALBANY | getta a terra un |
 | *(didascalia)* | guanto |
 | ALBANY | Lo proverò sul tuo cuore,<br>prima ch'io gusti pane, che tu non sei in nulla meno<br>di quel che qui t'ho proclamato. |
-| [[Regan|REGAN]] | Male, oh male! |
-| [[Goneril|GONERIL]] | (a parte) Se no, non crederò mai più alla medicina. |
+| [[Regan\|REGAN]] | Male, oh male! |
+| [[Goneril\|GONERIL]] | (a parte) Se no, non crederò mai più alla medicina. |
 | *(didascalia)* | EDMOND (ad Albany, gettando a terra un guantol |
-| [[Goneril|GONERIL]] | Ecco il mio scambio. Chiunque al mondo egli sia<br>che mi chiami traditore, mente da [[Villain|scellerato]].<br>Chiamate con la tromba. Chi osa, s'avanzi;<br>contro di lui, contro di voi,—chi no?—sosterrò<br>fermamente la mia [[Truth|verità]] e il mio [[Honour|onore]]. |
+| [[Goneril\|GONERIL]] | Ecco il mio scambio. Chiunque al mondo egli sia<br>che mi chiami traditore, mente da [[Villain\|scellerato]].<br>Chiamate con la tromba. Chi osa, s'avanzi;<br>contro di lui, contro di voi,—chi no?—sosterrò<br>fermamente la mia [[Truth\|verità]] e il mio [[Honour\|onore]]. |
 | ALBANY | Un araldo, olà! |
 | *(didascalia)* | Entra un Araldo |
 | ALBANY | (A Edmond) Confida nel tuo solo valore, ché i tuoi soldati,<br>arruolati tutti in mio nome, in mio nome<br>hanno preso il loro congedo. |
-| [[Regan|REGAN]] | Il mio male cresce su di me. |
-| ALBANY | Non sta [[Well|bene]]. Portatela alla mia tenda. |
+| [[Regan\|REGAN]] | Il mio male cresce su di me. |
+| ALBANY | Non sta [[Well\|bene]]. Portatela alla mia tenda. |
 | *(didascalia)* | Esce uno o più con [[Regan]] |
 | ALBANY | Vieni qua, araldo. Suoni la tromba,<br>e leggi questo.<br>Una tromba suona |
 | HERALD | (legge) 'Se qualche uomo di qualità o di grado entro le liste dell'esercito vuol sostenere contro Edmond, preteso conte di [[Gloucester]], ch'egli è un traditore molteplice, si presenti al terzo suono della tromba. Egli è audace nella sua difesa.'<br>Prima tromba<br>Ancora.<br>Seconda tromba<br>Ancora.<br>Terza tromba. |
 | *(didascalia)* | Risponde una tromba all'interno. Entra [[Edgar]], armato |
 | ALBANY | (all'Araldo)<br>Chiedigli i suoi propositi, perché appaia<br>a questa chiamata di tromba. |
 | HERALD | (a [[Edgar]])<br>Chi siete voi?<br>Il vostro nome, la vostra qualità, e perché rispondete<br>a questa presente citazione? |
-| [[Edgar|EDGAR]] | Sappiate: il mio nome è perduto,<br>roso a nudo dal dente del tradimento e corroso dal cancro.<br>Eppure sono nobile quanto l'avversario<br>che vengo ad affrontare. |
+| [[Edgar\|EDGAR]] | Sappiate: il mio nome è perduto,<br>roso a nudo dal dente del tradimento e corroso dal cancro.<br>Eppure sono nobile quanto l'avversario<br>che vengo ad affrontare. |
 | ALBANY | Chi è quell'avversario? |
-| [[Edgar|EDGAR]] | Chi è colui che parla per Edmond, conte di [[Gloucester]]? |
+| [[Edgar\|EDGAR]] | Chi è colui che parla per Edmond, conte di [[Gloucester]]? |
 | EDMOND | Lui stesso. Che gli dici? |
-| [[Edgar|EDGAR]] | Sguaina la tua [[Sword|spada]],<br>sì che, se il mio discorso offende un nobile cuore,<br>il tuo braccio ti faccia giustizia. Ecco la mia.<br>Sguaina la [[Sword|spada]]<br>Ecco, è il privilegio del mio [[Honour|onore]],<br>del mio giuramento e della mia professione. Io affermo,<br>a dispetto della tua forza, del tuo grado, della giovinezza e dell'eminenza,<br>nonostante la tua [[Sword|spada]] vittoriosa e la tua fortuna nuova di [[Fire|zecca]],<br>il tuo valore e il tuo cuore, che tu sei un traditore,<br>falso ai tuoi dèi, a tuo fratello e a tuo padre,<br>cospiratore contro questo alto e illustre principe,<br>e dalla sommità estrema del tuo capo<br>fino alla discesa e alla [[Dust|polvere]] sotto il tuo piede<br>un traditore chiazzato come un rospo. Se dici di no,<br>questa [[Sword|spada]], questo braccio e i miei migliori spiriti son tesi<br>a provare sul tuo cuore, a cui parlo,<br>che tu menti. |
-| EDMOND | Per prudenza dovrei chiedere il tuo nome,<br>ma poiché il tuo aspetto appare così bello e guerriero,<br>e la tua lingua spira qualche accento di nobile educazione,<br>ciò che con sicurezza e scrupolo potrei [[Well|bene]] pretendere<br>per regola cavalleresca io lo sdegno e lo respingo.<br>Ti rigetto in testa quei tradimenti,<br>e con la menzogna odiata dall'inferno ti soverchio il cuore;<br>e poiché essi ancora scivolano di lato e a stento contundono,<br>questa mia [[Sword|spada]] darà loro immediata via<br>dove riposeranno per sempre. Trombe, parlate! |
+| [[Edgar\|EDGAR]] | Sguaina la tua [[Sword\|spada]],<br>sì che, se il mio discorso offende un nobile cuore,<br>il tuo braccio ti faccia giustizia. Ecco la mia.<br>Sguaina la [[Sword\|spada]]<br>Ecco, è il privilegio del mio [[Honour\|onore]],<br>del mio giuramento e della mia professione. Io affermo,<br>a dispetto della tua forza, del tuo grado, della giovinezza e dell'eminenza,<br>nonostante la tua [[Sword\|spada]] vittoriosa e la tua fortuna nuova di [[Fire\|zecca]],<br>il tuo valore e il tuo cuore, che tu sei un traditore,<br>falso ai tuoi dèi, a tuo fratello e a tuo padre,<br>cospiratore contro questo alto e illustre principe,<br>e dalla sommità estrema del tuo capo<br>fino alla discesa e alla [[Dust\|polvere]] sotto il tuo piede<br>un traditore chiazzato come un rospo. Se dici di no,<br>questa [[Sword\|spada]], questo braccio e i miei migliori spiriti son tesi<br>a provare sul tuo cuore, a cui parlo,<br>che tu menti. |
+| EDMOND | Per prudenza dovrei chiedere il tuo nome,<br>ma poiché il tuo aspetto appare così bello e guerriero,<br>e la tua lingua spira qualche accento di nobile educazione,<br>ciò che con sicurezza e scrupolo potrei [[Well\|bene]] pretendere<br>per regola cavalleresca io lo sdegno e lo respingo.<br>Ti rigetto in testa quei tradimenti,<br>e con la menzogna odiata dall'inferno ti soverchio il cuore;<br>e poiché essi ancora scivolano di lato e a stento contundono,<br>questa mia [[Sword\|spada]] darà loro immediata via<br>dove riposeranno per sempre. Trombe, parlate! |
 | *(didascalia)* | Allarmi. Combattono. Edmond è vinto |
 | *(didascalia)* | TUTTI |
 | EDMOND | Salvatelo, salvatelo! |
-| [[Goneril|GONERIL]] | Questo è un inganno, [[Gloucester]].<br>Per la legge delle armi non eri tenuto a rispondere<br>a un avversario sconosciuto. Non sei vinto,<br>ma raggirato e ingannato. |
+| [[Goneril\|GONERIL]] | Questo è un inganno, [[Gloucester]].<br>Per la legge delle armi non eri tenuto a rispondere<br>a un avversario sconosciuto. Non sei vinto,<br>ma raggirato e ingannato. |
 | ALBANY | Chiudete la bocca, signora,<br>o con questa carta ve la tapperò. |
 | *(didascalia)* | A Edmond Tieni, signore, tu peggiore d'ogni nome: |
 | ALBANY | leggi il tuo stesso male.<br>(A [[Goneril]]) Niente strappi, signora. M'accorgo che la conoscete. |
-| [[Goneril|GONERIL]] | E se anche fosse, le leggi sono mie, non tue.<br>Chi può chiamarmene in giudizio? |
+| [[Goneril\|GONERIL]] | E se anche fosse, le leggi sono mie, non tue.<br>Chi può chiamarmene in giudizio? |
 | *(didascalia)* | Esce |
 | ALBANY | Mostruosissimo!—<br>Oh, conosci questa carta? |
 | EDMOND | Non chiedermi ciò che so. |
 | ALBANY | Andatele dietro. È disperata. Tenetela a freno. |
 | *(didascalia)* | Esce uno o più |
-| EDMOND | Ciò di cui m'avete accusato, io l'ho fatto,<br>e di più, molto di più. Il [[Time|tempo]] lo farà venire fuori.<br>È passato, e così sono io. (A [[Edgar]]) Ma chi sei tu,<br>che hai questa fortuna su di me? Se sei nobile,<br>io ti perdono. |
-| [[Edgar|EDGAR]] | Scambiamoci [[Charity|carità]].<br>Non sono meno di te per [[Blood|sangue]], Edmond.<br>Se di più, tanto più m'hai fatto torto. |
+| EDMOND | Ciò di cui m'avete accusato, io l'ho fatto,<br>e di più, molto di più. Il [[Time\|tempo]] lo farà venire fuori.<br>È passato, e così sono io. (A [[Edgar]]) Ma chi sei tu,<br>che hai questa fortuna su di me? Se sei nobile,<br>io ti perdono. |
+| [[Edgar\|EDGAR]] | Scambiamoci [[Charity\|carità]].<br>Non sono meno di te per [[Blood\|sangue]], Edmond.<br>Se di più, tanto più m'hai fatto torto. |
 | *(didascalia)* | Egli |
-| [[Edgar|EDGAR]] | si toglie l' |
+| [[Edgar\|EDGAR]] | si toglie l' |
 | *(didascalia)* | elmo |
-| [[Edgar|EDGAR]] | Il mio nome è [[Edgar]], e sono figlio di tuo padre.<br>Gli dèi sono giusti, e dei nostri piacevoli vizi<br>fanno strumenti per flagellarci.<br>Il luogo oscuro e vizioso dove ti generò<br>gli costò gli occhi. |
-| EDMOND | Hai parlato giusto. È vero.<br>La [[Wheel|ruota]] ha compiuto il giro. Io son qui. |
+| [[Edgar\|EDGAR]] | Il mio nome è [[Edgar]], e sono figlio di tuo padre.<br>Gli dèi sono giusti, e dei nostri piacevoli vizi<br>fanno strumenti per flagellarci.<br>Il luogo oscuro e vizioso dove ti generò<br>gli costò gli occhi. |
+| EDMOND | Hai parlato giusto. È vero.<br>La [[Wheel\|ruota]] ha compiuto il giro. Io son qui. |
 | ALBANY | (a [[Edgar]])<br>Mi parve che la tua stessa andatura profetasse<br>una regale nobiltà. Devo abbracciarti.<br>Che il dolore mi spacchi il cuore se mai<br>ho odiato te o tuo padre. |
-| [[Edgar|EDGAR]] | Degno principe, lo so. |
+| [[Edgar\|EDGAR]] | Degno principe, lo so. |
 | ALBANY | Dove vi siete nascosto?<br>Come avete conosciuto le miserie di vostro padre? |
-| [[Edgar|EDGAR]] | Curandole, mio signore. Udite un breve racconto,<br>e quando sia detto, oh, che il mio cuore scoppi!<br>Per sfuggire alla sanguinosa proclamazione<br>che mi seguiva così da vicino—oh, dolcezza della nostra vita,<br>che preferiamo morire ogni ora la [[Pain|pena]] della [[Death|morte]]<br>piuttosto che morire una volta sola!—mi insegnò a mutarmi<br>negli stracci d'un pazzo, ad assumere un aspetto<br>che perfino i [[dogs|cani]] disdegnavano; e in questo abito<br>incontrai mio padre coi suoi anelli sanguinanti,<br>le pietre preziose appena perdute; divenni la sua guida,<br>lo condussi, mendicai per lui, lo salvai dalla [[Despair|disperazione]];<br>mai—oh colpa!—mi rivelai a lui<br>fino a mezz'ora fa, quando fui armato.<br>Non certo, benché speranzoso, di questo buon [[success|esito]],<br>gli chiesi la benedizione, e dal principio alla fine<br>gli narrai il nostro pellegrinaggio; ma il suo cuore incrinato—<br>ahimè, troppo debole a sostenere il conflitto—<br>fra due estremi di passione, la gioia e il dolore,<br>scoppiò sorridendo. |
+| [[Edgar\|EDGAR]] | Curandole, mio signore. Udite un breve racconto,<br>e quando sia detto, oh, che il mio cuore scoppi!<br>Per sfuggire alla sanguinosa proclamazione<br>che mi seguiva così da vicino—oh, dolcezza della nostra vita,<br>che preferiamo morire ogni ora la [[Pain\|pena]] della [[Death\|morte]]<br>piuttosto che morire una volta sola!—mi insegnò a mutarmi<br>negli stracci d'un pazzo, ad assumere un aspetto<br>che perfino i [[dogs\|cani]] disdegnavano; e in questo abito<br>incontrai mio padre coi suoi anelli sanguinanti,<br>le pietre preziose appena perdute; divenni la sua guida,<br>lo condussi, mendicai per lui, lo salvai dalla [[Despair\|disperazione]];<br>mai—oh colpa!—mi rivelai a lui<br>fino a mezz'ora fa, quando fui armato.<br>Non certo, benché speranzoso, di questo buon [[success\|esito]],<br>gli chiesi la benedizione, e dal principio alla fine<br>gli narrai il nostro pellegrinaggio; ma il suo cuore incrinato—<br>ahimè, troppo debole a sostenere il conflitto—<br>fra due estremi di passione, la gioia e il dolore,<br>scoppiò sorridendo. |
 | EDMOND | Questo vostro discorso m'ha commosso,<br>e forse farà del bene. Ma continuate pure—<br>sembrate avere qualcosa di più da dire. |
 | ALBANY | Se c'è dell'altro, e più doloroso, trattenetelo,<br>ché son quasi pronto a dissolvermi<br>a udire questo. |
 | *(didascalia)* | Entra un Gentiluomo con un coltello insanguinato |
 | GENTLEMAN | Aiuto, aiuto, oh aiuto! |
-| [[Edgar|EDGAR]] | Che sorta d'aiuto? |
+| [[Edgar\|EDGAR]] | Che sorta d'aiuto? |
 | ALBANY | Parla, uomo. |
-| [[Edgar|EDGAR]] | Che significa questo coltello insanguinato? |
+| [[Edgar\|EDGAR]] | Che significa questo coltello insanguinato? |
 | GENTLEMAN | È caldo, fuma.<br>Viene proprio dal cuore di—oh, è morta! |
 | ALBANY | Chi è morta? Parla, uomo. |
 | GENTLEMAN | La vostra signora, signore, la vostra signora; e sua sorella<br>è da lei avvelenata. Lo confessa. |
 | EDMOND | Ero promesso a entrambe; tutti e tre<br>ora ci sposiamo in un istante. |
-| [[Edgar|EDGAR]] | Ecco che viene [[Kent]]. |
+| [[Edgar\|EDGAR]] | Ecco che viene [[Kent]]. |
 | *(didascalia)* | Entra il conte di [[Kent]] in propria persona |
-| ALBANY | Portate qua i corpi, siano vivi o morti.<br>I corpi di [[Goneril]] e di [[Regan]] vengono portati fuori<br>Questo giudizio dei cieli, che ci fa tremare,<br>non ci tocca di pietà.—Oh, è lui questo?<br>(A [[Kent]]) Il [[Time|tempo]] non consente il cerimoniale<br>che la buona creanza stessa esige. |
-| [[Kent|KENT]] | Sono venuto<br>a dare al mio [[King|re]] e padrone l'ultima buona [[Night|notte]].<br>Non è qui? |
-| ALBANY | Gran cosa da noi dimenticata!—<br>Parla, Edmond; dov'è il [[King|Re]], e dov'è<br>[[Cordelia]]?—<br>Vedi questo spettacolo, [[Kent]]? |
-| [[Kent|KENT]] | Ahimè, perché così? |
+| ALBANY | Portate qua i corpi, siano vivi o morti.<br>I corpi di [[Goneril]] e di [[Regan]] vengono portati fuori<br>Questo giudizio dei cieli, che ci fa tremare,<br>non ci tocca di pietà.—Oh, è lui questo?<br>(A [[Kent]]) Il [[Time\|tempo]] non consente il cerimoniale<br>che la buona creanza stessa esige. |
+| [[Kent\|KENT]] | Sono venuto<br>a dare al mio [[King\|re]] e padrone l'ultima buona [[Night\|notte]].<br>Non è qui? |
+| ALBANY | Gran cosa da noi dimenticata!—<br>Parla, Edmond; dov'è il [[King\|Re]], e dov'è<br>[[Cordelia]]?—<br>Vedi questo spettacolo, [[Kent]]? |
+| [[Kent\|KENT]] | Ahimè, perché così? |
 | EDMOND | Eppure Edmond fu amato.<br>L'una avvelenò l'altra per amor mio,<br>e poi uccise se stessa. |
 | ALBANY | Proprio così.—Coprite loro i volti. |
-| EDMOND | Ansimo per la vita. Qualche bene intendo fare,<br>a dispetto della mia stessa [[Nature|natura]]. Presto, mandate,<br>fate in fretta, al [[Castle|castello]]; ché il mio ordine<br>è sulla vita di Lear e su [[Cordelia]].<br>Suvvia, mandate in [[Time|tempo]]. |
+| EDMOND | Ansimo per la vita. Qualche bene intendo fare,<br>a dispetto della mia stessa [[Nature\|natura]]. Presto, mandate,<br>fate in fretta, al [[Castle\|castello]]; ché il mio ordine<br>è sulla vita di Lear e su [[Cordelia]].<br>Suvvia, mandate in [[Time\|tempo]]. |
 | ALBANY | Corri, corri, oh corri! |
-| [[Edgar|EDGAR]] | A chi, mio signore?—Chi ha l'incarico? Manda il tuo segno di grazia. |
-| EDMOND | [[Well|Ben]] pensato! Prendi la mia [[Sword|spada]]. Il capitano, dalla al capitano. |
-| [[Edgar|EDGAR]] | Affrèttati per la tua vita. |
+| [[Edgar\|EDGAR]] | A chi, mio signore?—Chi ha l'incarico? Manda il tuo segno di grazia. |
+| EDMOND | [[Well\|Ben]] pensato! Prendi la mia [[Sword\|spada]]. Il capitano, dalla al capitano. |
+| [[Edgar\|EDGAR]] | Affrèttati per la tua vita. |
 | *(didascalia)* | Esce il Gentiluomo |
-| EDMOND | (ad Albany)<br>Egli ha incarico da tua moglie e da me<br>d'impiccare [[Cordelia]] nella [[Prison|prigione]], e<br>di darne la colpa alla sua stessa [[Despair|disperazione]],<br>come s'ella si fosse uccisa da sé. |
+| EDMOND | (ad Albany)<br>Egli ha incarico da tua moglie e da me<br>d'impiccare [[Cordelia]] nella [[Prison\|prigione]], e<br>di darne la colpa alla sua stessa [[Despair\|disperazione]],<br>come s'ella si fosse uccisa da sé. |
 | ALBANY | Gli dèi la difendano!—Portatelo via di qui un momento. |
 | *(didascalia)* | Escono alcuni con Edmond |
-| *(didascalia)* | Entra [[King Lear]] con la [[Queen|Regina]] [[Cordelia]] tra le braccia, |
+| *(didascalia)* | Entra [[King Lear]] con la [[Queen\|Regina]] [[Cordelia]] tra le braccia, |
 | *(didascalia)* | seguito dal Gentiluomo |
 | LEAR | Urlate, urlate, urlate, urlate! Oh, siete uomini di pietra.<br>Se avessi le vostre lingue e i vostri occhi, li userei tanto<br>che la volta del cielo si spaccherebbe. Se n'è andata per sempre.<br>So quando uno è morto e quando uno vive.<br>È morta come la terra. |
 | *(didascalia)* | La depone |
 | LEAR | Datemi uno specchio.<br>Se il suo fiato appanna o macchia il vetro,<br>allora ella vive. |
-| [[Kent|KENT]] | È questa la fine promessa? |
-| [[Edgar|EDGAR]] | O l'immagine di quell'orrore? |
+| [[Kent\|KENT]] | È questa la fine promessa? |
+| [[Edgar\|EDGAR]] | O l'immagine di quell'orrore? |
 | ALBANY | Cada tutto e finisca. |
 | LEAR | Questa piuma si muove. Vive. Se è così,<br>è una sorte che redime tutti i dolori<br>ch'io abbia mai sentito. |
-| *(didascalia)* | [[Kent|KENT]] inginocchiandosi |
+| *(didascalia)* | [[Kent\|KENT]] inginocchiandosi |
 | LEAR | Oh, mio buon padrone! |
 | LEAR | Ti prego, va' via. |
-| [[Edgar|EDGAR]] | È il nobile [[Kent]], vostro amico. |
+| [[Edgar\|EDGAR]] | È il nobile [[Kent]], vostro amico. |
 | LEAR | Un accidente a voi, assassini, traditori tutti.<br>Avrei potuto salvarla; ora se n'è andata per sempre.—<br>[[Cordelia]], [[Cordelia]]: resta un poco. Ah?<br>Che cosa dici?—La sua voce fu sempre dolce,<br>gentile e bassa, cosa eccellente in una donna.—<br>Ho ucciso lo schiavo che t'impiccava. |
 | GENTLEMAN | È vero, miei signori, l'ha fatto. |
 | LEAR | Non è vero, amico?<br>Ho visto il giorno in cui col mio buon brando tagliente<br>li avrei fatti saltare. Ora sono vecchio,<br>e queste stesse traversie mi guastano. (A [[Kent]]) Chi siete<br>voi?<br>I miei occhi non sono dei migliori, ve lo dico subito. |
-| [[Kent|KENT]] | Se la fortuna si vantasse di due che amò e odiò,<br>uno di essi lo vediamo. |
+| [[Kent\|KENT]] | Se la fortuna si vantasse di due che amò e odiò,<br>uno di essi lo vediamo. |
 | LEAR | Questa è una vista offuscata.<br>Non siete [[Kent]]? |
-| [[Kent|KENT]] | Lo stesso, il vostro servo [[Kent]].<br>Dov'è il vostro servo Caius? |
+| [[Kent\|KENT]] | Lo stesso, il vostro servo [[Kent]].<br>Dov'è il vostro servo Caius? |
 | LEAR | È un buon compagno, questo ve lo posso dire.<br>Colpirà, e presto anche. È morto e imputridito. |
-| [[Kent|KENT]] | No, mio buon signore, io sono proprio quell'uomo— |
+| [[Kent\|KENT]] | No, mio buon signore, io sono proprio quell'uomo— |
 | LEAR | Ci baderò fra poco. |
-| [[Kent|KENT]] | Che dal primo vostro dissidio e [[Decay|decadere]]<br>ho seguito i vostri tristi passi. |
+| [[Kent\|KENT]] | Che dal primo vostro dissidio e [[Decay\|decadere]]<br>ho seguito i vostri tristi passi. |
 | LEAR | Siete il benvenuto qui. |
-| [[Kent|KENT]] | Né io né altri. Tutto è squallido, buio e mortale.<br>Le vostre figlie maggiori s'han dato la morte,<br>e sono morte disperatamente. |
+| [[Kent\|KENT]] | Né io né altri. Tutto è squallido, buio e mortale.<br>Le vostre figlie maggiori s'han dato la morte,<br>e sono morte disperatamente. |
 | LEAR | Sì, così credo anch'io. |
 | ALBANY | Non sa quel che dice; ed è vano<br>che ci presentiamo a lui. |
 | *(didascalia)* | Entra un Messaggero |
-| [[Edgar|EDGAR]] | Del tutto inutile. |
+| [[Edgar\|EDGAR]] | Del tutto inutile. |
 | MESSENGER | (ad Albany)<br>Edmond è morto, mio signore. |
-| ALBANY | Questo qui è solo un'inezia.—<br>Voi signori e nobili amici, sappiate la nostra intenzione.<br>Qual conforto possa venire a questa grande [[Decay|rovina]]<br>sarà applicato; quanto a noi, rinunceremo,<br>finché viva questa vecchia maestà,<br>a lui il nostro assoluto potere;<br>(A [[Edgar]] e [[Kent]]) voi ai vostri diritti,<br>con premio e con quell'aggiunta che i vostri onori<br>hanno più che meritato. Tutti gli amici gusteranno<br>il salario della loro virtù, e tutti i nemici<br>la coppa di ciò che meritano.—Oh guardate, guardate! |
-| LEAR | E il mio povero [[Fool|matto]] è impiccato. No, no, nessuna vita?<br>Perché un cane, un [[Horse|cavallo]], un topo devono avere vita,<br>e tu nessun respiro? Tu non tornerai più.<br>Mai, mai, mai, mai, mai. |
+| ALBANY | Questo qui è solo un'inezia.—<br>Voi signori e nobili amici, sappiate la nostra intenzione.<br>Qual conforto possa venire a questa grande [[Decay\|rovina]]<br>sarà applicato; quanto a noi, rinunceremo,<br>finché viva questa vecchia maestà,<br>a lui il nostro assoluto potere;<br>(A [[Edgar]] e [[Kent]]) voi ai vostri diritti,<br>con premio e con quell'aggiunta che i vostri onori<br>hanno più che meritato. Tutti gli amici gusteranno<br>il salario della loro virtù, e tutti i nemici<br>la coppa di ciò che meritano.—Oh guardate, guardate! |
+| LEAR | E il mio povero [[Fool\|matto]] è impiccato. No, no, nessuna vita?<br>Perché un cane, un [[Horse\|cavallo]], un topo devono avere vita,<br>e tu nessun respiro? Tu non tornerai più.<br>Mai, mai, mai, mai, mai. |
 | *(didascalia)* | A [[Kent]] Vi prego, slacciate questo bottone. Grazie, signore. |
 | LEAR | Vedete questo? Guardate lei. Guardate, le sue labbra.<br>Guardate là, guardate là. Muore |
-| [[Edgar|EDGAR]] | Sviene. (A Lear) Mio signore, mio signore! |
-| *(didascalia)* | [[Kent|KENT]] a Lear |
-| [[Edgar|EDGAR]] | Spèzzati, cuore, ti prego spèzzati. |
-| [[Edgar|EDGAR]] | (a Lear)<br>Guardate su, mio signore. |
-| [[Kent|KENT]] | Non tormentate il suo [[Ghost|spirito]]. Oh, lasciatelo andare. Odia colui<br>che sulla ruota di tortura di questo duro mondo<br>volesse distenderlo più a lungo. |
-| [[Edgar|EDGAR]] | È davvero spirato. |
-| [[Kent|KENT]] | La [[Wonder|meraviglia]] è che abbia resistito così a lungo.<br>Egli non faceva che usurpare la propria vita. |
-| ALBANY | Portateli via di qui. Il nostro compito presente<br>è il lutto generale. (A [[Edgar]] e [[Kent]]) Amici della mia<br>[[Soul|anima]], voi due<br>regnate in questo reame, e sostenete lo stato dilaniato. |
-| [[Kent|KENT]] | Ho un [[Journey|viaggio]], signore, da fare fra poco:<br>il mio padrone mi chiama; non posso dire di no. |
-| [[Edgar|EDGAR]] | Al peso di questo triste [[Time|tempo]] dobbiamo obbedire,<br>dire ciò che sentiamo, non ciò che dovremmo dire.<br>Il più vecchio ha sopportato di più. Noi che siamo giovani<br>non vedremo mai tanto, né vivremo così a lungo. |
+| [[Edgar\|EDGAR]] | Sviene. (A Lear) Mio signore, mio signore! |
+| *(didascalia)* | [[Kent\|KENT]] a Lear |
+| [[Edgar\|EDGAR]] | Spèzzati, cuore, ti prego spèzzati. |
+| [[Edgar\|EDGAR]] | (a Lear)<br>Guardate su, mio signore. |
+| [[Kent\|KENT]] | Non tormentate il suo [[Ghost\|spirito]]. Oh, lasciatelo andare. Odia colui<br>che sulla ruota di tortura di questo duro mondo<br>volesse distenderlo più a lungo. |
+| [[Edgar\|EDGAR]] | È davvero spirato. |
+| [[Kent\|KENT]] | La [[Wonder\|meraviglia]] è che abbia resistito così a lungo.<br>Egli non faceva che usurpare la propria vita. |
+| ALBANY | Portateli via di qui. Il nostro compito presente<br>è il lutto generale. (A [[Edgar]] e [[Kent]]) Amici della mia<br>[[Soul\|anima]], voi due<br>regnate in questo reame, e sostenete lo stato dilaniato. |
+| [[Kent\|KENT]] | Ho un [[Journey\|viaggio]], signore, da fare fra poco:<br>il mio padrone mi chiama; non posso dire di no. |
+| [[Edgar\|EDGAR]] | Al peso di questo triste [[Time\|tempo]] dobbiamo obbedire,<br>dire ciò che sentiamo, non ciò che dovremmo dire.<br>Il più vecchio ha sopportato di più. Noi che siamo giovani<br>non vedremo mai tanto, né vivremo così a lungo. |
 | *(didascalia)* | Escono con marcia funebre, portando i corpi |

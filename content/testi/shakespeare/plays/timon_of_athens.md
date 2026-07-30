@@ -1284,10 +1284,10 @@ The Life of [[Timon]] of Athens
 |---|---|
 | *(didascalia)* | Entrano il Poeta da una porta, il Pittore che reca un quadro [da un’altra porta], [seguiti da] il Gioielliere, il Mercante e il Merciaio, da diverse porte |
 | POETA | Buon giorno, signore. |
-| PITTORE | Mi rallegro che stiate [[Well|bene]]. |
+| PITTORE | Mi rallegro che stiate [[Well\|bene]]. |
 | POETA | Da tempo non vi vedevo. Come va il mondo? |
 | PITTORE | Si logora, signore, mentre cresce. |
-| POETA | Sì, questo è [[Well|ben]] noto.<br>Ma quale singolare rarità, quale prodigio,<br>che i molteplici annali non eguaglino?—Vedi,<br>[[Magic|Magia]] di munificenza, tutti questi spiriti il tuo potere<br>ha evocato a servirti. |
+| POETA | Sì, questo è [[Well\|ben]] noto.<br>Ma quale singolare rarità, quale prodigio,<br>che i molteplici annali non eguaglino?—Vedi,<br>[[Magic\|Magia]] di munificenza, tutti questi spiriti il tuo potere<br>ha evocato a servirti. |
 | *(didascalia)* | Il Mercante e il Gioielliere s’incontrano. Il Merciaio attraversa |
 | *(didascalia)* | la scena, ed esce |
 | POETA | Conosco il mercante. |
@@ -1295,22 +1295,22 @@ The Life of [[Timon]] of Athens
 | MERCANTE | (al Gioielliere)<br>Oh, è un signore degno! |
 | GIOIELLIERE | Sì, questo è certissimo. |
 | MERCANTE | Un uomo incomparabile, allenato, si direbbe,<br>a una bontà instancabile e continua.<br>Egli supera ogni misura. |
-| GIOIELLIERE | (mostrando un [[Jewel|gioiello]]) Ho qui un [[Jewel|gioiello]]. |
-| MERCANTE | Oh, di grazia, mostratelo. Per il signor [[Timon|Timone]], messere? |
+| GIOIELLIERE | (mostrando un [[Jewel\|gioiello]]) Ho qui un [[Jewel\|gioiello]]. |
+| MERCANTE | Oh, di grazia, mostratelo. Per il signor [[Timon\|Timone]], messere? |
 | GIOIELLIERE | Se vorrà pagarne la stima. Ma quanto a ciò— |
 | POETA | (fra sé)<br>‘Quando per ricompensa abbiamo lodato il vile,<br>ciò macchia la gloria di quel verso felice<br>che degnamente canta il bene.’ |
 | MERCANTE | (al Gioielliere) È di bella forma. |
-| GIOIELLIERE | E ricco. Ecco qui un’[[Water|acqua]], guardate. |
+| GIOIELLIERE | E ricco. Ecco qui un’[[Water\|acqua]], guardate. |
 | PITTORE | (al Poeta)<br>Siete assorto, signore, in qualche opera, qualche dedica<br>al grande signore. |
-| POETA | Cosa sfuggitami oziosamente.<br>La nostra poesia è come una gomma che stilla<br>da ciò che la nutre. Il [[Fire|fuoco]] nella selce<br>non appare finché non sia percossa; la nostra gentile fiamma<br>si provoca da sé, e come la corrente supera<br>ogni argine che l’irrita. Che avete là? |
+| POETA | Cosa sfuggitami oziosamente.<br>La nostra poesia è come una gomma che stilla<br>da ciò che la nutre. Il [[Fire\|fuoco]] nella selce<br>non appare finché non sia percossa; la nostra gentile fiamma<br>si provoca da sé, e come la corrente supera<br>ogni argine che l’irrita. Che avete là? |
 | PITTORE | Un quadro, signore. Quando esce il vostro libro? |
 | POETA | Subito dopo la mia presentazione, signore.<br>Vediamo la vostra opera. |
 | PITTORE | (mostrando il quadro) È una buona opera. |
-| POETA | Lo è davvero. Questo riesce [[Well|bene]] ed eccellente. |
+| POETA | Lo è davvero. Questo riesce [[Well\|bene]] ed eccellente. |
 | PITTORE | Mediocre. |
-| POETA | Ammirevole. Come questa grazia<br>proclama la propria dignità! Che potenza mentale<br>saetta quest’occhio! Quanto grande [[Imagination|immaginazione]]<br>si muove in questo labbro! Alla mutezza del gesto<br>si potrebbe dar parola. |
+| POETA | Ammirevole. Come questa grazia<br>proclama la propria dignità! Che potenza mentale<br>saetta quest’occhio! Quanto grande [[Imagination\|immaginazione]]<br>si muove in questo labbro! Alla mutezza del gesto<br>si potrebbe dar parola. |
 | PITTORE | È un grazioso rifacimento della vita.<br>Ecco un tocco; è buono? |
-| POETA | Dirò di esso<br>che ammaestra la [[Nature|natura]]. Un’artificiale contesa<br>vive in questi tocchi più viva della vita. |
+| POETA | Dirò di esso<br>che ammaestra la [[Nature\|natura]]. Un’artificiale contesa<br>vive in questi tocchi più viva della vita. |
 | *(didascalia)* | Entrano alcuni Senatori |
 | PITTORE | Com’è seguito questo signore! |
 | POETA | I senatori d’Atene. Uomo felice! |
@@ -1318,141 +1318,141 @@ The Life of [[Timon]] of Athens
 | *(didascalia)* | I Senatori attraversano la scena, ed escono] |
 | POETA | Vedete questo concorso, questa gran piena di visitatori.<br>In quest’opera abbozzata ho foggiato un uomo<br>che questo mondo di quaggiù abbraccia e stringe<br>con amplissima accoglienza. Il mio libero intento<br>non si ferma su nessuno in particolare, ma si muove<br>in un ampio mare di biasimo. Nessuna malizia mirata<br>infetta una virgola nel corso che tengo,<br>ma vola d’un volo d’aquila, ardito e avanti,<br>senza lasciare traccia dietro di sé. |
 | PITTORE | Come devo intendervi? |
-| POETA | Ve lo dischiuderò.<br>Vedete come tutte le condizioni, tutti gli animi,<br>così [[Well|bene]] di creature lisce e sdrucciolevoli come<br>di [[Grave|grave]] e austera qualità, offrono<br>i loro servigi al signor [[Timon|Timone]]. La sua larga fortuna,<br>sospesa alla sua buona e cortese [[Nature|natura]],<br>soggioga e fa proprietà del suo [[Love|amore]] e della sua cura<br>ogni sorta di cuori; sì, dall’adulatore dal viso di specchio<br>ad [[Apemantus|Apemanto]], che poche cose ama di più<br>che aborrire sé stesso; anche lui piega<br>il ginocchio davanti a lui, e torna in pace,<br>ricchissimo d’un cenno di [[Timon|Timone]]. |
+| POETA | Ve lo dischiuderò.<br>Vedete come tutte le condizioni, tutti gli animi,<br>così [[Well\|bene]] di creature lisce e sdrucciolevoli come<br>di [[Grave\|grave]] e austera qualità, offrono<br>i loro servigi al signor [[Timon\|Timone]]. La sua larga fortuna,<br>sospesa alla sua buona e cortese [[Nature\|natura]],<br>soggioga e fa proprietà del suo [[Love\|amore]] e della sua cura<br>ogni sorta di cuori; sì, dall’adulatore dal viso di specchio<br>ad [[Apemantus\|Apemanto]], che poche cose ama di più<br>che aborrire sé stesso; anche lui piega<br>il ginocchio davanti a lui, e torna in pace,<br>ricchissimo d’un cenno di [[Timon\|Timone]]. |
 | PITTORE | Li ho visti parlare insieme. |
-| POETA | Signore, sopra un alto e ameno [[Hill|colle]]<br>ho finto in trono la Fortuna. La base del monte<br>è schierata d’ogni merito, d’ogni sorta di nature<br>che s’affaticano sul seno di questa sfera<br>per accrescere il proprio stato. Fra tutti costoro,<br>i cui occhi sono fissi su questa sovrana signora,<br>uno ne raffiguro della statura del signor [[Timon|Timone]],<br>che la Fortuna con la sua mano d’avorio attira a sé,<br>la cui presente grazia in schiavi e servi presenti<br>tramuta i suoi rivali. |
-| PITTORE | È concepito a dovere.<br>Questo trono, questa Fortuna, e questo [[Hill|colle]], mi pare,<br>con un uomo chiamato a cenni fra gli altri di sotto,<br>che china il capo contro l’erta del monte<br>per salire alla sua felicità, sarebbero [[Well|ben]] espressi<br>nella nostra arte. |
+| POETA | Signore, sopra un alto e ameno [[Hill\|colle]]<br>ho finto in trono la Fortuna. La base del monte<br>è schierata d’ogni merito, d’ogni sorta di nature<br>che s’affaticano sul seno di questa sfera<br>per accrescere il proprio stato. Fra tutti costoro,<br>i cui occhi sono fissi su questa sovrana signora,<br>uno ne raffiguro della statura del signor [[Timon\|Timone]],<br>che la Fortuna con la sua mano d’avorio attira a sé,<br>la cui presente grazia in schiavi e servi presenti<br>tramuta i suoi rivali. |
+| PITTORE | È concepito a dovere.<br>Questo trono, questa Fortuna, e questo [[Hill\|colle]], mi pare,<br>con un uomo chiamato a cenni fra gli altri di sotto,<br>che china il capo contro l’erta del monte<br>per salire alla sua felicità, sarebbero [[Well\|ben]] espressi<br>nella nostra arte. |
 | POETA | No, signore, ma ascoltatemi ancora.<br>Tutti quelli che gli erano pari fino a ieri,<br>alcuni di lui più valenti, all’istante<br>seguono i suoi passi, gli riempiono le anticamere d’ossequi,<br>gli piovono nell’orecchio bisbigli sacrificali,<br>gli fanno sacra perfino la staffa, e attraverso lui<br>bevono l’aria libera. |
 | PITTORE | Sì, per la Vergine, e che ne è di costoro? |
 | POETA | Quando la Fortuna, nel suo volgersi e mutar d’umore,<br>respinge in basso il suo diletto d’un tempo, tutti i suoi dipendenti,<br>che s’erano arrampicati dietro a lui fino alla cima del monte<br>perfino su ginocchia e mani, lo lasciano precipitare,<br>senza che uno solo accompagni il suo piede che scende. |
-| PITTORE | È cosa comune.<br>Mille dipinti morali posso mostrare<br>che dimostreranno questi rapidi colpi della Fortuna<br>più efficacemente delle parole. Pur fate [[Well|bene]]<br>a mostrare al signor [[Timon|Timone]] che occhi umili hanno veduto<br>il piede sopra il capo. |
-| *(didascalia)* | Squillano le trombe. Entra [[Timon|Timone]] [che porta un ricco |
+| PITTORE | È cosa comune.<br>Mille dipinti morali posso mostrare<br>che dimostreranno questi rapidi colpi della Fortuna<br>più efficacemente delle parole. Pur fate [[Well\|bene]]<br>a mostrare al signor [[Timon\|Timone]] che occhi umili hanno veduto<br>il piede sopra il capo. |
+| *(didascalia)* | Squillano le trombe. Entra [[Timon\|Timone]] [che porta un ricco |
 | PITTORE | gioiello, con un Messaggero da Ventidio; Lucilio |
-| *(didascalia)* | e altri Servi] al seguito. [[Timon|Timone]] si rivolge |
+| *(didascalia)* | e altri Servi] al seguito. [[Timon\|Timone]] si rivolge |
 | PITTORE | cortesemente a ogni postulante, poi parla al<br><br>Messaggero |
-| [[Timon|TIMONE]] | È in prigione, dite? |
+| [[Timon\|TIMONE]] | È in prigione, dite? |
 | MESSAGGERO | Sì, mio buon signore. Cinque talenti è il suo debito,<br>i suoi mezzi scarsissimi, i creditori durissimi.<br>Desidera una vostra onorevole lettera<br>a coloro che l’hanno rinchiuso; se questa manca,<br>è finita ogni sua consolazione. |
-| [[Timon|TIMONE]] | Nobile Ventidio! [[Well|Bene]],<br>non son io di quella penna da scuotermi di dosso<br>l’amico quando ha bisogno di me. So che egli è<br>un gentiluomo che [[Well|ben]] merita aiuto,<br>e l’avrà. Pagherò il debito e lo libererò. |
+| [[Timon\|TIMONE]] | Nobile Ventidio! [[Well\|Bene]],<br>non son io di quella penna da scuotermi di dosso<br>l’amico quando ha bisogno di me. So che egli è<br>un gentiluomo che [[Well\|ben]] merita aiuto,<br>e l’avrà. Pagherò il debito e lo libererò. |
 | MESSAGGERO | Vostra signoria se lo lega per sempre. |
-| [[Timon|TIMONE]] | Salutatelo da parte mia. Manderò il suo riscatto;<br>e, una volta liberato, ditegli di venire da me.<br>Non basta rimettere in piedi il debole,<br>bisogna sorreggerlo poi. State [[Well|bene]]. |
-| MESSAGGERO | Ogni felicità al vostro [[Honour|onore]]. Esce |
+| [[Timon\|TIMONE]] | Salutatelo da parte mia. Manderò il suo riscatto;<br>e, una volta liberato, ditegli di venire da me.<br>Non basta rimettere in piedi il debole,<br>bisogna sorreggerlo poi. State [[Well\|bene]]. |
+| MESSAGGERO | Ogni felicità al vostro [[Honour\|onore]]. Esce |
 | *(didascalia)* | Entra un Vecchio Ateniese |
-| VECCHIO ATENIESE | Signor [[Timon|Timone]], ascoltatemi. |
-| [[Timon|TIMONE]] | Liberamente, buon padre. |
+| VECCHIO ATENIESE | Signor [[Timon\|Timone]], ascoltatemi. |
+| [[Timon\|TIMONE]] | Liberamente, buon padre. |
 | VECCHIO ATENIESE | Hai un servo di nome Lucilio. |
-| [[Timon|TIMONE]] | Sì. Che c’è di lui? |
-| VECCHIO ATENIESE | Nobilissimo [[Timon|Timone]], chiama l’uomo davanti a te. |
-| [[Timon|TIMONE]] | È qui in attesa o no? Lucilio! |
+| [[Timon\|TIMONE]] | Sì. Che c’è di lui? |
+| VECCHIO ATENIESE | Nobilissimo [[Timon\|Timone]], chiama l’uomo davanti a te. |
+| [[Timon\|TIMONE]] | È qui in attesa o no? Lucilio! |
 | LUCILIO | (facendosi avanti) Qui al servizio di vostra signoria. |
-| VECCHIO ATENIESE | Costui qui, signor [[Timon|Timone]], questa tua creatura,<br>di [[Night|notte]] frequenta la mia [[house|casa]]. Io sono un uomo<br>che fin dal principio è stato incline al risparmio,<br>e il mio patrimonio merita un erede più alto<br>di uno che regge un tagliere. |
-| [[Timon|TIMONE]] | [[Well|Bene]], e poi? |
-| VECCHIO ATENIESE | Una sola figlia ho, nessun altro parente<br>a cui possa conferire ciò che ho acquistato.<br>La fanciulla è bella, giovanissima per sposa,<br>e l’ho allevata a mie carissime spese<br>nelle migliori qualità. Quest’uomo tuo<br>tenta il suo [[Love|amore]]. Ti prego, nobile signore,<br>unisciti a me per vietargli di frequentarla.<br>Io stesso ho parlato invano. |
-| [[Timon|TIMONE]] | L’uomo è onesto. |
-| VECCHIO ATENIESE | Tale dunque resti, [[Timon|Timone]].<br>La sua onestà lo ricompensa da sé;<br>non deve portarsi via mia figlia. |
-| [[Timon|TIMONE]] | Lo [[Love|ama]] ella? |
+| VECCHIO ATENIESE | Costui qui, signor [[Timon\|Timone]], questa tua creatura,<br>di [[Night\|notte]] frequenta la mia [[house\|casa]]. Io sono un uomo<br>che fin dal principio è stato incline al risparmio,<br>e il mio patrimonio merita un erede più alto<br>di uno che regge un tagliere. |
+| [[Timon\|TIMONE]] | [[Well\|Bene]], e poi? |
+| VECCHIO ATENIESE | Una sola figlia ho, nessun altro parente<br>a cui possa conferire ciò che ho acquistato.<br>La fanciulla è bella, giovanissima per sposa,<br>e l’ho allevata a mie carissime spese<br>nelle migliori qualità. Quest’uomo tuo<br>tenta il suo [[Love\|amore]]. Ti prego, nobile signore,<br>unisciti a me per vietargli di frequentarla.<br>Io stesso ho parlato invano. |
+| [[Timon\|TIMONE]] | L’uomo è onesto. |
+| VECCHIO ATENIESE | Tale dunque resti, [[Timon\|Timone]].<br>La sua onestà lo ricompensa da sé;<br>non deve portarsi via mia figlia. |
+| [[Timon\|TIMONE]] | Lo [[Love\|ama]] ella? |
 | VECCHIO ATENIESE | È giovane e arrendevole.<br>Le nostre passioni trascorse c’insegnano<br>quanta leggerezza sia nella gioventù. |
-| [[Timon|TIMONE]] | (a Lucilio) [[Love|Ami]] la fanciulla? |
+| [[Timon\|TIMONE]] | (a Lucilio) [[Love\|Ami]] la fanciulla? |
 | LUCILIO | Sì, mio buon signore, ed ella l’accetta. |
-| VECCHIO ATENIESE | Se nel suo [[Marriage|matrimonio]] manca il mio consenso,<br>chiamo gli dèi a testimoni, sceglierò<br>il mio erede fra i mendicanti del mondo,<br>e la spoglierò d’ogni cosa. |
-| [[Timon|TIMONE]] | Di che sarà dotata<br>se sarà unita a un marito suo pari? |
+| VECCHIO ATENIESE | Se nel suo [[Marriage\|matrimonio]] manca il mio consenso,<br>chiamo gli dèi a testimoni, sceglierò<br>il mio erede fra i mendicanti del mondo,<br>e la spoglierò d’ogni cosa. |
+| [[Timon\|TIMONE]] | Di che sarà dotata<br>se sarà unita a un marito suo pari? |
 | VECCHIO ATENIESE | Tre talenti al presente; in futuro, ogni cosa. |
-| [[Timon|TIMONE]] | Questo mio gentiluomo m’ha servito a lungo.<br>Per edificare la sua fortuna mi sforzerò un poco,<br>ché è un vincolo fra gli uomini. Dagli tua figlia.<br>Quel che le darai in dote io lo controbilancerò,<br>e lo farò pesare quanto lei. |
-| VECCHIO ATENIESE | Nobilissimo signore,<br>impegnatemi in ciò il vostro [[Honour|onore]], ed ella è sua. |
-| [[Timon|TIMONE]] | La mia mano a te; il mio [[Honour|onore]] sulla mia promessa. |
+| [[Timon\|TIMONE]] | Questo mio gentiluomo m’ha servito a lungo.<br>Per edificare la sua fortuna mi sforzerò un poco,<br>ché è un vincolo fra gli uomini. Dagli tua figlia.<br>Quel che le darai in dote io lo controbilancerò,<br>e lo farò pesare quanto lei. |
+| VECCHIO ATENIESE | Nobilissimo signore,<br>impegnatemi in ciò il vostro [[Honour\|onore]], ed ella è sua. |
+| [[Timon\|TIMONE]] | La mia mano a te; il mio [[Honour\|onore]] sulla mia promessa. |
 | LUCILIO | Umilmente ringrazio vostra signoria. Mai<br>cada in mia custodia stato o fortuna<br>che non sia dovuta a voi. |
 | *(didascalia)* | Escono Lucilio e il Vecchio Ateniese |
-| POETA | (presentando un poema a [[Timon|Timone]])<br>Degnatevi della mia fatica, e lunga vita a vostra signoria! |
-| [[Timon|TIMONE]] | Vi ringrazio. Avrete presto mie notizie.<br>Non andatevene. (Al Pittore) Che avete là, amico<br>mio? |
+| POETA | (presentando un poema a [[Timon\|Timone]])<br>Degnatevi della mia fatica, e lunga vita a vostra signoria! |
+| [[Timon\|TIMONE]] | Vi ringrazio. Avrete presto mie notizie.<br>Non andatevene. (Al Pittore) Che avete là, amico<br>mio? |
 | PITTORE | Un’opera di pittura, che supplico<br>vostra signoria d’accettare. |
-| [[Timon|TIMONE]] | La pittura è benvenuta.<br>Il dipinto è quasi l’uomo naturale;<br>poiché da quando il disonore traffica con la [[Nature|natura]] dell’uomo,<br>egli non è che superficie; queste figure disegnate sono<br>proprio quel che dichiarano. Mi piace il vostro lavoro,<br>e vedrete che mi piace. Restate in attesa<br>finché non abbiate altre mie notizie. |
+| [[Timon\|TIMONE]] | La pittura è benvenuta.<br>Il dipinto è quasi l’uomo naturale;<br>poiché da quando il disonore traffica con la [[Nature\|natura]] dell’uomo,<br>egli non è che superficie; queste figure disegnate sono<br>proprio quel che dichiarano. Mi piace il vostro lavoro,<br>e vedrete che mi piace. Restate in attesa<br>finché non abbiate altre mie notizie. |
 | PITTORE | Gli dèi vi conservino! |
-| [[Timon|TIMONE]] | [[Well|Bene]] vi sia, gentiluomo. Datemi la mano.<br>Dobbiamo assolutamente pranzare insieme. (Al Gioielliere) Signore, il vostro [[Jewel|gioiello]]<br>ha sofferto sotto la lode. |
+| [[Timon\|TIMONE]] | [[Well\|Bene]] vi sia, gentiluomo. Datemi la mano.<br>Dobbiamo assolutamente pranzare insieme. (Al Gioielliere) Signore, il vostro [[Jewel\|gioiello]]<br>ha sofferto sotto la lode. |
 | GIOIELLIERE | Come, mio signore, biasimo? |
-| [[Timon|TIMONE]] | Una mera sazietà di elogi.<br>Se dovessi pagarvelo come viene esaltato<br>mi dipanerebbe del tutto. |
-| GIOIELLIERE | Mio signore, è valutato<br>come lo darebbero quelli che vendono; ma voi [[Well|ben]] sapete<br>che cose di pari valore, differenti nei possessori,<br>sono pregiate secondo i loro padroni. Credetelo, caro signore,<br>voi migliorate il [[Jewel|gioiello]] portandolo. |
-| [[Timon|TIMONE]] | [[Well|Ben]] beffato. |
+| [[Timon\|TIMONE]] | Una mera sazietà di elogi.<br>Se dovessi pagarvelo come viene esaltato<br>mi dipanerebbe del tutto. |
+| GIOIELLIERE | Mio signore, è valutato<br>come lo darebbero quelli che vendono; ma voi [[Well\|ben]] sapete<br>che cose di pari valore, differenti nei possessori,<br>sono pregiate secondo i loro padroni. Credetelo, caro signore,<br>voi migliorate il [[Jewel\|gioiello]] portandolo. |
+| [[Timon\|TIMONE]] | [[Well\|Ben]] beffato. |
 | MERCANTE | No, mio buon signore, egli parla la lingua comune<br>che tutti gli uomini parlano con lui. |
-| *(didascalia)* | Entra [[Apemantus|Apemanto]] |
-| [[Timon|TIMONE]] | Guardate chi arriva.<br>Volete essere sgridati? |
+| *(didascalia)* | Entra [[Apemantus\|Apemanto]] |
+| [[Timon\|TIMONE]] | Guardate chi arriva.<br>Volete essere sgridati? |
 | GIOIELLIERE | Sopporteremo, insieme a vostra signoria. |
 | MERCANTE | Non risparmierà nessuno. |
-| [[Timon|TIMONE]] | Buon giorno a te, gentile [[Apemantus|Apemanto]]. |
-| [[Apemantus|APEMANTO]] | Finché non sia gentile, aspetta pure il tuo buon giorno—<br>quando tu sarai il cane di [[Timon|Timone]], e questi furfanti onesti. |
-| [[Timon|TIMONE]] | Perché li chiami furfanti? Tu non li<br>conosci. |
-| [[Apemantus|APEMANTO]] | Non sono Ateniesi? |
-| [[Timon|TIMONE]] | Sì. |
-| [[Apemantus|APEMANTO]] | Allora non me ne pento. |
-| GIOIELLIERE | Mi conoscete, [[Apemantus|Apemanto]]? |
-| [[Apemantus|APEMANTO]] | Sai bene di sì. T’ho chiamato col tuo nome. |
-| [[Timon|TIMONE]] | Sei superbo, [[Apemantus|Apemanto]]! |
-| [[Apemantus|APEMANTO]] | Di nulla tanto quanto di non essere simile a [[Timon|Timone]]. |
-| [[Timon|TIMONE]] | Dove vai? |
-| [[Apemantus|APEMANTO]] | A far saltare le cervella a un onesto Ateniese. |
-| [[Timon|TIMONE]] | È un’azione per cui morirai. |
-| [[Apemantus|APEMANTO]] | Giusto, se non far nulla è [[Death|morte]] secondo la legge. |
-| [[Timon|TIMONE]] | Come ti piace questo quadro, [[Apemantus|Apemanto]]? |
-| [[Apemantus|APEMANTO]] | Ottimo per l’[[innocence|innocenza]]. |
-| [[Timon|TIMONE]] | Non ha operato [[Well|bene]] chi l’ha dipinto? |
-| [[Apemantus|APEMANTO]] | Meglio operò chi fece il pittore, eppure costui non è che una lurida opera. |
+| [[Timon\|TIMONE]] | Buon giorno a te, gentile [[Apemantus\|Apemanto]]. |
+| [[Apemantus\|APEMANTO]] | Finché non sia gentile, aspetta pure il tuo buon giorno—<br>quando tu sarai il cane di [[Timon\|Timone]], e questi furfanti onesti. |
+| [[Timon\|TIMONE]] | Perché li chiami furfanti? Tu non li<br>conosci. |
+| [[Apemantus\|APEMANTO]] | Non sono Ateniesi? |
+| [[Timon\|TIMONE]] | Sì. |
+| [[Apemantus\|APEMANTO]] | Allora non me ne pento. |
+| GIOIELLIERE | Mi conoscete, [[Apemantus\|Apemanto]]? |
+| [[Apemantus\|APEMANTO]] | Sai bene di sì. T’ho chiamato col tuo nome. |
+| [[Timon\|TIMONE]] | Sei superbo, [[Apemantus\|Apemanto]]! |
+| [[Apemantus\|APEMANTO]] | Di nulla tanto quanto di non essere simile a [[Timon\|Timone]]. |
+| [[Timon\|TIMONE]] | Dove vai? |
+| [[Apemantus\|APEMANTO]] | A far saltare le cervella a un onesto Ateniese. |
+| [[Timon\|TIMONE]] | È un’azione per cui morirai. |
+| [[Apemantus\|APEMANTO]] | Giusto, se non far nulla è [[Death\|morte]] secondo la legge. |
+| [[Timon\|TIMONE]] | Come ti piace questo quadro, [[Apemantus\|Apemanto]]? |
+| [[Apemantus\|APEMANTO]] | Ottimo per l’[[innocence\|innocenza]]. |
+| [[Timon\|TIMONE]] | Non ha operato [[Well\|bene]] chi l’ha dipinto? |
+| [[Apemantus\|APEMANTO]] | Meglio operò chi fece il pittore, eppure costui non è che una lurida opera. |
 | PITTORE | Sei un cane. |
-| [[Apemantus|APEMANTO]] | Tua madre è della mia razza. Che cos’è lei, se io sono un cane? |
-| [[Timon|TIMONE]] | Vuoi pranzare con me, [[Apemantus|Apemanto]]? |
-| [[Apemantus|APEMANTO]] | No, io non mangio signori. |
-| [[Timon|TIMONE]] | Se lo facessi, faresti adirare le dame. |
-| [[Apemantus|APEMANTO]] | Oh, loro sì che mangiano signori. Così si procurano grossi ventri. |
-| [[Timon|TIMONE]] | È una lasciva interpretazione. |
-| [[Apemantus|APEMANTO]] | Così tu l’intendi; prenditela per tua fatica. |
-| [[Timon|TIMONE]] | Come ti piace questo [[Jewel|gioiello]], [[Apemantus|Apemanto]]? |
-| [[Apemantus|APEMANTO]] | Non così [[Well|bene]] come il trattare schietto, che non costa a un uomo un quattrino. |
-| [[Timon|TIMONE]] | Quanto pensi che valga? |
-| [[Apemantus|APEMANTO]] | Non vale il mio pensiero.<br>Ebbene, poeta? |
+| [[Apemantus\|APEMANTO]] | Tua madre è della mia razza. Che cos’è lei, se io sono un cane? |
+| [[Timon\|TIMONE]] | Vuoi pranzare con me, [[Apemantus\|Apemanto]]? |
+| [[Apemantus\|APEMANTO]] | No, io non mangio signori. |
+| [[Timon\|TIMONE]] | Se lo facessi, faresti adirare le dame. |
+| [[Apemantus\|APEMANTO]] | Oh, loro sì che mangiano signori. Così si procurano grossi ventri. |
+| [[Timon\|TIMONE]] | È una lasciva interpretazione. |
+| [[Apemantus\|APEMANTO]] | Così tu l’intendi; prenditela per tua fatica. |
+| [[Timon\|TIMONE]] | Come ti piace questo [[Jewel\|gioiello]], [[Apemantus\|Apemanto]]? |
+| [[Apemantus\|APEMANTO]] | Non così [[Well\|bene]] come il trattare schietto, che non costa a un uomo un quattrino. |
+| [[Timon\|TIMONE]] | Quanto pensi che valga? |
+| [[Apemantus\|APEMANTO]] | Non vale il mio pensiero.<br>Ebbene, poeta? |
 | POETA | Ebbene, filosofo? |
-| [[Apemantus|APEMANTO]] | Menti. |
+| [[Apemantus\|APEMANTO]] | Menti. |
 | POETA | Non lo sei? |
-| [[Apemantus|APEMANTO]] | Sì. |
+| [[Apemantus\|APEMANTO]] | Sì. |
 | POETA | Allora non mento. |
-| [[Apemantus|APEMANTO]] | Non sei un poeta? |
+| [[Apemantus\|APEMANTO]] | Non sei un poeta? |
 | POETA | Sì. |
-| [[Apemantus|APEMANTO]] | Allora menti. Guarda nella tua ultima opera, dove l’hai finto uomo degno. |
+| [[Apemantus\|APEMANTO]] | Allora menti. Guarda nella tua ultima opera, dove l’hai finto uomo degno. |
 | POETA | Non è finzione, egli è tale. |
-| [[Apemantus|APEMANTO]] | Sì, è degno di te, e di pagarti la tua fatica. Chi ama essere adulato è degno dell’adulatore. Cieli, foss’io un signore! |
-| [[Timon|TIMONE]] | Che faresti allora, [[Apemantus|Apemanto]]? |
-| [[Apemantus|APEMANTO]] | Proprio quel che [[Apemantus|Apemanto]] fa ora: odiare un signore con tutto il cuore. |
-| [[Timon|TIMONE]] | Come, te stesso? |
-| [[Apemantus|APEMANTO]] | Sì. |
-| [[Timon|TIMONE]] | Perché? |
-| [[Apemantus|APEMANTO]] | Per non aver avuto altro presagio che d’essere un signore.-Non sei tu un mercante? |
-| MERCANTE | Sì, [[Apemantus|Apemanto]]. |
-| [[Apemantus|APEMANTO]] | Ti confonda il traffico, se non lo faranno gli dèi! |
+| [[Apemantus\|APEMANTO]] | Sì, è degno di te, e di pagarti la tua fatica. Chi ama essere adulato è degno dell’adulatore. Cieli, foss’io un signore! |
+| [[Timon\|TIMONE]] | Che faresti allora, [[Apemantus\|Apemanto]]? |
+| [[Apemantus\|APEMANTO]] | Proprio quel che [[Apemantus\|Apemanto]] fa ora: odiare un signore con tutto il cuore. |
+| [[Timon\|TIMONE]] | Come, te stesso? |
+| [[Apemantus\|APEMANTO]] | Sì. |
+| [[Timon\|TIMONE]] | Perché? |
+| [[Apemantus\|APEMANTO]] | Per non aver avuto altro presagio che d’essere un signore.-Non sei tu un mercante? |
+| MERCANTE | Sì, [[Apemantus\|Apemanto]]. |
+| [[Apemantus\|APEMANTO]] | Ti confonda il traffico, se non lo faranno gli dèi! |
 | MERCANTE | Se lo fa il traffico, lo fanno gli dèi. |
-| [[Apemantus|APEMANTO]] | Il traffico è il tuo dio, e il tuo dio ti confonda! |
+| [[Apemantus\|APEMANTO]] | Il traffico è il tuo dio, e il tuo dio ti confonda! |
 | *(didascalia)* | Squilla una tromba. Entra un Messaggero |
-| [[Timon|TIMONE]] | Che tromba è quella? |
-| MESSAGGERO | È [[Alcibiades|Alcibiade]], con una ventina di [[Horse|cavalli]]<br>tutti in compagnia. |
-| [[Timon|TIMONE]] | (ai Servi)<br>Vi prego, accoglieteli. Fate loro da guida fino a noi.<br>[Esce uno o più Servi]<br>[Al Gioielliere] Dovete assolutamente pranzare con me.<br>[Al Poeta] Non andatevene di qui<br>finché non v’abbia ringraziato. [Al Pittore] Quando il pranzo è finito<br>mostratemi quest’opera. [A tutti] Godo alla vista di voi tutti. |
-| *(didascalia)* | Entra [[Alcibiades|Alcibiade]] con [i suoi cavalieri] |
-| [[Timon|TIMONE]] | Benvenutissimo, signore! |
-| [[Apemantus|APEMANTO]] | [a parte] Così, così, ecco.<br>Doglie contraggano e consumino le vostre agili giunture!<br>Che ci sia così poco [[Love|amore]] fra questi dolci<br>furfanti,<br>e tutta questa cortesia! La stirpe dell’uomo è degenerata<br>in babbuino e scimmia. |
-| [[Alcibiades|ALCIBIADE]] | (a [[Timon|Timone]])<br>Signore, avete appagato il mio [[Longing|desiderio]], e mi nutro<br>con gran fame della vostra vista. |
-| [[Timon|TIMONE]] | Benvenuto davvero, signore!<br>Prima di separarci, spartiremo un generoso [[Time|tempo]]<br>in diversi piaceri. Vi prego, entriamo. |
-| *(didascalia)* | Escono tutti tranne [[Apemantus|Apemanto]] |
+| [[Timon\|TIMONE]] | Che tromba è quella? |
+| MESSAGGERO | È [[Alcibiades\|Alcibiade]], con una ventina di [[Horse\|cavalli]]<br>tutti in compagnia. |
+| [[Timon\|TIMONE]] | (ai Servi)<br>Vi prego, accoglieteli. Fate loro da guida fino a noi.<br>[Esce uno o più Servi]<br>[Al Gioielliere] Dovete assolutamente pranzare con me.<br>[Al Poeta] Non andatevene di qui<br>finché non v’abbia ringraziato. [Al Pittore] Quando il pranzo è finito<br>mostratemi quest’opera. [A tutti] Godo alla vista di voi tutti. |
+| *(didascalia)* | Entra [[Alcibiades\|Alcibiade]] con [i suoi cavalieri] |
+| [[Timon\|TIMONE]] | Benvenutissimo, signore! |
+| [[Apemantus\|APEMANTO]] | [a parte] Così, così, ecco.<br>Doglie contraggano e consumino le vostre agili giunture!<br>Che ci sia così poco [[Love\|amore]] fra questi dolci<br>furfanti,<br>e tutta questa cortesia! La stirpe dell’uomo è degenerata<br>in babbuino e scimmia. |
+| [[Alcibiades\|ALCIBIADE]] | (a [[Timon\|Timone]])<br>Signore, avete appagato il mio [[Longing\|desiderio]], e mi nutro<br>con gran fame della vostra vista. |
+| [[Timon\|TIMONE]] | Benvenuto davvero, signore!<br>Prima di separarci, spartiremo un generoso [[Time\|tempo]]<br>in diversi piaceri. Vi prego, entriamo. |
+| *(didascalia)* | Escono tutti tranne [[Apemantus\|Apemanto]] |
 | *(didascalia)* | Entrano due Signori |
-| PRIMO SIGNORE | Che [[Time|ora]] del giorno è, [[Apemantus|Apemanto]]? |
-| [[Apemantus|APEMANTO]] | [[Time|Tempo]] d’essere onesti. |
-| PRIMO SIGNORE | Quel [[Time|tempo]] è sempre opportuno. |
-| [[Apemantus|APEMANTO]] | Tanto più maledetto tu, che sempre lo trascuri. |
-| SECONDO SIGNORE | Vai al banchetto del signor [[Timon|Timone]]? |
-| [[Apemantus|APEMANTO]] | Sì, per vedere la carne riempire furfanti, e il vino scaldare sciocchi. |
-| SECONDO SIGNORE | Sta’ [[Well|bene]], sta’ [[Well|bene]]. |
-| [[Apemantus|APEMANTO]] | Sei uno [[Fool|sciocco]] a darmi l’addio due volte. |
-| SECONDO SIGNORE | Perché, [[Apemantus|Apemanto]]? |
-| [[Apemantus|APEMANTO]] | Avresti dovuto serbarne uno per te, ché io non intendo dartene alcuno. |
+| PRIMO SIGNORE | Che [[Time\|ora]] del giorno è, [[Apemantus\|Apemanto]]? |
+| [[Apemantus\|APEMANTO]] | [[Time\|Tempo]] d’essere onesti. |
+| PRIMO SIGNORE | Quel [[Time\|tempo]] è sempre opportuno. |
+| [[Apemantus\|APEMANTO]] | Tanto più maledetto tu, che sempre lo trascuri. |
+| SECONDO SIGNORE | Vai al banchetto del signor [[Timon\|Timone]]? |
+| [[Apemantus\|APEMANTO]] | Sì, per vedere la carne riempire furfanti, e il vino scaldare sciocchi. |
+| SECONDO SIGNORE | Sta’ [[Well\|bene]], sta’ [[Well\|bene]]. |
+| [[Apemantus\|APEMANTO]] | Sei uno [[Fool\|sciocco]] a darmi l’addio due volte. |
+| SECONDO SIGNORE | Perché, [[Apemantus\|Apemanto]]? |
+| [[Apemantus\|APEMANTO]] | Avresti dovuto serbarne uno per te, ché io non intendo dartene alcuno. |
 | PRIMO SIGNORE | Impiccati |
-| [[Apemantus|APEMANTO]] | No, non farò nulla al tuo comando. Rivolgi le tue richieste al tuo amico. |
+| [[Apemantus\|APEMANTO]] | No, non farò nulla al tuo comando. Rivolgi le tue richieste al tuo amico. |
 | SECONDO SIGNORE | Via, cane rissoso, o ti caccio a calci di qui. |
-| [[Apemantus|APEMANTO]] | Fuggirò, come un cane, i calcagni dell’asino. |
+| [[Apemantus\|APEMANTO]] | Fuggirò, come un cane, i calcagni dell’asino. |
 | *(didascalia)* | Esce |
-| PRIMO SIGNORE | È il contrario dell’umanità. Su, entriamo,<br>e gustiamo la munificenza del signor [[Timon|Timone]]? Egli supera<br>il cuore stesso della bontà. |
+| PRIMO SIGNORE | È il contrario dell’umanità. Su, entriamo,<br>e gustiamo la munificenza del signor [[Timon\|Timone]]? Egli supera<br>il cuore stesso della bontà. |
 | SECONDO SIGNORE | La versa a piene mani. Pluto il dio dell’oro<br>non è che il suo intendente; non v’è merito ch’egli non ripaghi<br>sette volte al di sopra di sé; non v’è dono a lui<br>che non frutti al donatore un contraccambio eccedente<br>ogni usanza di ricambio. |
 | PRIMO SIGNORE | Porta in sé l’animo più nobile<br>che mai governasse uomo. |
 | SECONDO SIGNORE | Lungamente viva nelle fortune! Entriamo? |
@@ -1575,109 +1575,109 @@ The Life of [[Timon]] of Athens
 
 | Chi parla | Battuta |
 |---|---|
-| *(didascalia)* | Oboi che suonano una musica alta. Viene servito un gran banchetto, con [[Flavius|Flavio]] e i Servi al seguito; ed entrano poi [[Timon|Timone]], [[Alcibiades|Alcibiade]], i Senatori, i Signori ateniesi, e Ventidio che [[Timon|Timone]] riscattò dalla [[Prison|prigione]]. Poi giunge, cascando dietro a tutti, [[Apemantus|Apemanto]], scontento, come è suo costume |
-| VENTIDIO | Onoratissimo [[Timon|Timone]], è piaciuto agli dèi di<br>ricordare<br>la vecchiaia di mio padre e chiamarlo a lunga pace.<br>Se n’è andato felice, e m’ha lasciato ricco.<br>Perciò, come per grata virtù sono legato<br>al vostro cuore generoso, vi rendo quei talenti,<br>raddoppiati di grazie e servigio, dal cui aiuto<br>trassi la libertà. |
-| [[Timon|TIMONE]] | Oh, in nessun modo,<br>onesto Ventidio. Fraintendete il mio [[Love|amore]].<br>L’ho sempre dato liberamente, e nessuno<br>può dire in verità di dare se riceve.<br>Se i nostri superiori giocano a quel gioco, noi non dobbiamo osare<br>d’imitarli. Le colpe che son ricche son belle. |
+| *(didascalia)* | Oboi che suonano una musica alta. Viene servito un gran banchetto, con [[Flavius\|Flavio]] e i Servi al seguito; ed entrano poi [[Timon\|Timone]], [[Alcibiades\|Alcibiade]], i Senatori, i Signori ateniesi, e Ventidio che [[Timon\|Timone]] riscattò dalla [[Prison\|prigione]]. Poi giunge, cascando dietro a tutti, [[Apemantus\|Apemanto]], scontento, come è suo costume |
+| VENTIDIO | Onoratissimo [[Timon\|Timone]], è piaciuto agli dèi di<br>ricordare<br>la vecchiaia di mio padre e chiamarlo a lunga pace.<br>Se n’è andato felice, e m’ha lasciato ricco.<br>Perciò, come per grata virtù sono legato<br>al vostro cuore generoso, vi rendo quei talenti,<br>raddoppiati di grazie e servigio, dal cui aiuto<br>trassi la libertà. |
+| [[Timon\|TIMONE]] | Oh, in nessun modo,<br>onesto Ventidio. Fraintendete il mio [[Love\|amore]].<br>L’ho sempre dato liberamente, e nessuno<br>può dire in verità di dare se riceve.<br>Se i nostri superiori giocano a quel gioco, noi non dobbiamo osare<br>d’imitarli. Le colpe che son ricche son belle. |
 | VENTIDIO | Un nobile spirito! |
 | *(didascalia)* | I Signori restano in piedi con cerimonia |
-| [[Timon|TIMONE]] | No, miei signori,<br>la cerimonia fu dapprima escogitata soltanto<br>per dar lustro ad atti fiacchi, accoglienze vuote,<br>bontà che si ritratta, pentita prima d’esser mostrata;<br>ma dove c’è vera [[Friendship|amicizia]], non ne occorre alcuna.<br>Vi prego, sedete. Più benvenuti siete voi alle mie fortune<br>che le mie fortune a me. |
+| [[Timon\|TIMONE]] | No, miei signori,<br>la cerimonia fu dapprima escogitata soltanto<br>per dar lustro ad atti fiacchi, accoglienze vuote,<br>bontà che si ritratta, pentita prima d’esser mostrata;<br>ma dove c’è vera [[Friendship\|amicizia]], non ne occorre alcuna.<br>Vi prego, sedete. Più benvenuti siete voi alle mie fortune<br>che le mie fortune a me. |
 | *(didascalia)* | Siedono |
 | PRIMO SIGNORE | Mio signore, l’abbiamo sempre confessato. |
-| [[Apemantus|APEMANTO]] | Oh, oh, confessato? Impiccato, non è vero? |
-| [[Timon|TIMONE]] | Oh, [[Apemantus|Apemanto]]! Siate il benvenuto. |
-| [[Apemantus|APEMANTO]] | No,<br>non mi renderete benvenuto.<br>Vengo perché tu mi cacci fuori dalla porta. |
-| [[Timon|TIMONE]] | Via, sei uno zotico. Hai lì un [[Humour|umore]]<br>che non s’addice a un uomo; è molto biasimevole.<br>Si dice, miei signori, Ira furor brevis est,<br><br>ma quell’uomo è sempre in collera.<br>Andate, dategli una tavola per sé solo,<br>ché egli né ama la compagnia<br>né vi è adatto, in verità. |
-| [[Apemantus|APEMANTO]] | Lasciami restare a tuo rischio, [[Timon|Timone]].<br>Vengo per osservare, te ne do avviso. |
-| [[Timon|TIMONE]] | Non bado a te; sei un Ateniese,<br>perciò benvenuto. Io stesso non vorrei aver potere:<br>ti prego, che le mie vivande ti facciano tacere. |
-| [[Apemantus|APEMANTO]] | Disprezzo le tue vivande. Mi soffocherebbero, ché non ti adulerei mai. O voi dèi, che quantità d’uomini divora [[Timon|Timone]], ed egli non li vede! Mi duole vedere tanti intingere la carne nel [[Blood|sangue]] d’un uomo solo; e la [[Madness|follia]] più grande è che egli per giunta li incoraggia. Mi [[Wonder|meraviglio]] che gli uomini osino affidarsi agli uomini. Mi pare che dovrebbero invitarli senza coltelli: meglio per le vivande, e più sicuro per la vita. Ce n’è molto esempio. Colui che siede accanto a lui, ora spartisce il pane con lui, brinda al suo respiro in una coppa divisa, è l’uomo più pronto a ucciderlo. È stato provato. Se fossi un uomo potente, avrei [[Fear|paura]] di bere ai pasti, per timore che spiassero le note pericolose della mia gola. I grandi dovrebbero bere con l’armatura alla gola. |
-| [[Timon|TIMONE]] | (bevendo alla salute d’un Signore)<br>Mio signore, di cuore; e giri la salute. |
+| [[Apemantus\|APEMANTO]] | Oh, oh, confessato? Impiccato, non è vero? |
+| [[Timon\|TIMONE]] | Oh, [[Apemantus\|Apemanto]]! Siate il benvenuto. |
+| [[Apemantus\|APEMANTO]] | No,<br>non mi renderete benvenuto.<br>Vengo perché tu mi cacci fuori dalla porta. |
+| [[Timon\|TIMONE]] | Via, sei uno zotico. Hai lì un [[Humour\|umore]]<br>che non s’addice a un uomo; è molto biasimevole.<br>Si dice, miei signori, Ira furor brevis est,<br><br>ma quell’uomo è sempre in collera.<br>Andate, dategli una tavola per sé solo,<br>ché egli né ama la compagnia<br>né vi è adatto, in verità. |
+| [[Apemantus\|APEMANTO]] | Lasciami restare a tuo rischio, [[Timon\|Timone]].<br>Vengo per osservare, te ne do avviso. |
+| [[Timon\|TIMONE]] | Non bado a te; sei un Ateniese,<br>perciò benvenuto. Io stesso non vorrei aver potere:<br>ti prego, che le mie vivande ti facciano tacere. |
+| [[Apemantus\|APEMANTO]] | Disprezzo le tue vivande. Mi soffocherebbero, ché non ti adulerei mai. O voi dèi, che quantità d’uomini divora [[Timon\|Timone]], ed egli non li vede! Mi duole vedere tanti intingere la carne nel [[Blood\|sangue]] d’un uomo solo; e la [[Madness\|follia]] più grande è che egli per giunta li incoraggia. Mi [[Wonder\|meraviglio]] che gli uomini osino affidarsi agli uomini. Mi pare che dovrebbero invitarli senza coltelli: meglio per le vivande, e più sicuro per la vita. Ce n’è molto esempio. Colui che siede accanto a lui, ora spartisce il pane con lui, brinda al suo respiro in una coppa divisa, è l’uomo più pronto a ucciderlo. È stato provato. Se fossi un uomo potente, avrei [[Fear\|paura]] di bere ai pasti, per timore che spiassero le note pericolose della mia gola. I grandi dovrebbero bere con l’armatura alla gola. |
+| [[Timon\|TIMONE]] | (bevendo alla salute d’un Signore)<br>Mio signore, di cuore; e giri la salute. |
 | SECONDO SIGNORE | Che scorra da questa parte, mio buon signore. |
-| [[Apemantus|APEMANTO]] | ‘Scorra da questa parte’? Un bravo compagno; tiene [[Well|bene]] le sue maree. Quelle salutazioni faranno apparire malmessi te e il tuo stato, [[Timon|Timone]].<br>Ecco qui ciò che è troppo debole per essere peccatore:<br>onesta [[Water|acqua]], che mai lasciò un uomo nel fango.<br>Questa e il mio cibo sono pari; non c’è divario.<br>I banchetti sono troppo superbi per render grazie agli dèi.<br>La grazia di [[Apemantus|Apemanto]]<br><br>Dèi immortali, non chiedo ricchezza.<br>Non prego per nessuno, se non per me stesso.<br>Concedete ch’io non sia mai tanto sciocco<br>da fidarmi d’un uomo per giuramento o contratto,<br>o d’una meretrice per il suo pianto,<br>o d’un cane che par dormire,<br>o d’un carceriere con la mia [[Freedom|libertà]],<br>o dei miei amici se avessi bisogno di loro.<br>Amen. E dunque all’opera.<br>I ricchi peccano, e io mangio radici. |
+| [[Apemantus\|APEMANTO]] | ‘Scorra da questa parte’? Un bravo compagno; tiene [[Well\|bene]] le sue maree. Quelle salutazioni faranno apparire malmessi te e il tuo stato, [[Timon\|Timone]].<br>Ecco qui ciò che è troppo debole per essere peccatore:<br>onesta [[Water\|acqua]], che mai lasciò un uomo nel fango.<br>Questa e il mio cibo sono pari; non c’è divario.<br>I banchetti sono troppo superbi per render grazie agli dèi.<br>La grazia di [[Apemantus\|Apemanto]]<br><br>Dèi immortali, non chiedo ricchezza.<br>Non prego per nessuno, se non per me stesso.<br>Concedete ch’io non sia mai tanto sciocco<br>da fidarmi d’un uomo per giuramento o contratto,<br>o d’una meretrice per il suo pianto,<br>o d’un cane che par dormire,<br>o d’un carceriere con la mia [[Freedom\|libertà]],<br>o dei miei amici se avessi bisogno di loro.<br>Amen. E dunque all’opera.<br>I ricchi peccano, e io mangio radici. |
 | *(didascalia)* | Mangia |
-| [[Apemantus|APEMANTO]] | Buon pro faccia al tuo buon cuore, [[Apemantus|Apemanto]]. |
-| [[Timon|TIMONE]] | Capitano [[Alcibiades|Alcibiade]], il vostro cuore è ora sul campo. |
-| [[Alcibiades|ALCIBIADE]] | Il mio cuore è sempre al vostro servizio, mio signore. |
-| [[Timon|TIMONE]] | Preferireste una colazione di nemici a un pranzo d’amici. |
+| [[Apemantus\|APEMANTO]] | Buon pro faccia al tuo buon cuore, [[Apemantus\|Apemanto]]. |
+| [[Timon\|TIMONE]] | Capitano [[Alcibiades\|Alcibiade]], il vostro cuore è ora sul campo. |
+| [[Alcibiades\|ALCIBIADE]] | Il mio cuore è sempre al vostro servizio, mio signore. |
+| [[Timon\|TIMONE]] | Preferireste una colazione di nemici a un pranzo d’amici. |
 | ALCISIADES | Purché fossero freschi di sangue, mio signore; non c’è carne come la loro. Vorrei il mio migliore amico a un tale banchetto. |
-| [[Apemantus|APEMANTO]] | Fossero allora tutti quegli adulatori tuoi nemici,<br>così potresti ucciderli e invitarmi a loro. |
-| PRIMO SIGNORE | (a [[Timon|Timone]]) Se solo avessimo quella felicità, mio signore, che voleste una volta servirvi dei nostri cuori, per cui potessimo esprimere qualche parte del nostro zelo, ci riterremmo per sempre appagati. |
-| [[Timon|TIMONE]] | Oh, senza [[Doubt|dubbio]], buoni amici, gli dèi stessi hanno provveduto che io abbia molto aiuto da voi. Come sareste altrimenti stati miei amici? Perché avreste quel caritatevole titolo fra mille, se non apparteneste principalmente al mio cuore? Ho detto di voi a me stesso più di quanto voi possiate con modestia dire in vostro favore; e fin qui vi confermo. ‘O voi dèi,’ penso, ‘che bisogno abbiamo d’amici se non dovessimo mai aver bisogno di loro? Sarebbero le creature più inutili che vivano, se non avessimo mai da servircene, e somiglierebbero assai a dolci strumenti appesi nelle custodie, che serbano i loro suoni per sé.’ Sì, spesso ho desiderato d’essere più povero, per potermi accostare di più a voi. Siamo nati per fare benefici; e che cosa possiamo chiamare nostra di meglio o di più proprio delle ricchezze dei nostri amici? Oh, che prezioso conforto è avere tanti che, come fratelli, dispongono l’uno delle fortune dell’altro! Oh, la gioia se ne va prima ancora di poter nascere: i miei occhi non riescono a trattenere l’[[Water|acqua]], mi pare. Per dimenticare i loro difetti, bevo a voi. |
-| [[Apemantus|APEMANTO]] | Piangi per farli bere, [[Timon|Timone]]. |
-| SECONDO SIGNORE | (a [[Timon|Timone]])<br>La gioia ebbe simile concepimento nei nostri occhi,<br>e in quell’istante come un bimbo balzò fuori. |
-| [[Apemantus|APEMANTO]] | Oh, oh, rido a pensare quel bimbo un bastardo. |
-| TERZO SIGNORE | (a [[Timon|Timone]])<br>V’assicuro, mio signore, m’avete molto commosso. |
-| [[Apemantus|APEMANTO]] | Molto!<br>Squilla una fanfara dentro |
-| [[Timon|TIMONE]] | Che significa quella tromba? |
+| [[Apemantus\|APEMANTO]] | Fossero allora tutti quegli adulatori tuoi nemici,<br>così potresti ucciderli e invitarmi a loro. |
+| PRIMO SIGNORE | (a [[Timon\|Timone]]) Se solo avessimo quella felicità, mio signore, che voleste una volta servirvi dei nostri cuori, per cui potessimo esprimere qualche parte del nostro zelo, ci riterremmo per sempre appagati. |
+| [[Timon\|TIMONE]] | Oh, senza [[Doubt\|dubbio]], buoni amici, gli dèi stessi hanno provveduto che io abbia molto aiuto da voi. Come sareste altrimenti stati miei amici? Perché avreste quel caritatevole titolo fra mille, se non apparteneste principalmente al mio cuore? Ho detto di voi a me stesso più di quanto voi possiate con modestia dire in vostro favore; e fin qui vi confermo. ‘O voi dèi,’ penso, ‘che bisogno abbiamo d’amici se non dovessimo mai aver bisogno di loro? Sarebbero le creature più inutili che vivano, se non avessimo mai da servircene, e somiglierebbero assai a dolci strumenti appesi nelle custodie, che serbano i loro suoni per sé.’ Sì, spesso ho desiderato d’essere più povero, per potermi accostare di più a voi. Siamo nati per fare benefici; e che cosa possiamo chiamare nostra di meglio o di più proprio delle ricchezze dei nostri amici? Oh, che prezioso conforto è avere tanti che, come fratelli, dispongono l’uno delle fortune dell’altro! Oh, la gioia se ne va prima ancora di poter nascere: i miei occhi non riescono a trattenere l’[[Water\|acqua]], mi pare. Per dimenticare i loro difetti, bevo a voi. |
+| [[Apemantus\|APEMANTO]] | Piangi per farli bere, [[Timon\|Timone]]. |
+| SECONDO SIGNORE | (a [[Timon\|Timone]])<br>La gioia ebbe simile concepimento nei nostri occhi,<br>e in quell’istante come un bimbo balzò fuori. |
+| [[Apemantus\|APEMANTO]] | Oh, oh, rido a pensare quel bimbo un bastardo. |
+| TERZO SIGNORE | (a [[Timon\|Timone]])<br>V’assicuro, mio signore, m’avete molto commosso. |
+| [[Apemantus\|APEMANTO]] | Molto!<br>Squilla una fanfara dentro |
+| [[Timon\|TIMONE]] | Che significa quella tromba? |
 | *(didascalia)* | Entra un Servo |
-| [[Timon|TIMONE]] | Ebbene? |
+| [[Timon\|TIMONE]] | Ebbene? |
 | SERVO | Con vostra licenza, mio signore, ci sono certe dame desiderosissime d’essere ammesse. |
-| [[Timon|TIMONE]] | Dame? Quali sono i loro voleri? |
+| [[Timon\|TIMONE]] | Dame? Quali sono i loro voleri? |
 | SERVO | Viene con loro un precursore, mio signore, che ha l’ufficio di significare i loro desideri. |
-| [[Timon|TIMONE]] | Vi prego, siano ammesse. |
+| [[Timon\|TIMONE]] | Vi prego, siano ammesse. |
 | *(didascalia)* | Entra uno in veste di Cupido |
-| CUPIDO | Salute a te, degno [[Timon|Timone]], e a tutti<br>coloro che gustano le tue munificenze! I cinque migliori sensi<br>ti riconoscono loro patrono, e vengono liberamente<br>a felicitare il tuo generoso petto. L’udito,<br>il gusto, il tatto, l’olfatto, tutti, appagati si levano dalla tua mensa.<br>Solo ora vengono a far festa ai tuoi occhi. |
-| [[Timon|TIMONE]] | Siano tutti benvenuti. Abbiano cortese accoglienza. |
+| CUPIDO | Salute a te, degno [[Timon\|Timone]], e a tutti<br>coloro che gustano le tue munificenze! I cinque migliori sensi<br>ti riconoscono loro patrono, e vengono liberamente<br>a felicitare il tuo generoso petto. L’udito,<br>il gusto, il tatto, l’olfatto, tutti, appagati si levano dalla tua mensa.<br>Solo ora vengono a far festa ai tuoi occhi. |
+| [[Timon\|TIMONE]] | Siano tutti benvenuti. Abbiano cortese accoglienza. |
 | *(didascalia)* | La musica dia loro il benvenuto! Esce Cupido |
 | *(didascalia)* | PRIMO SIGNORE |
-| [[Timon|TIMONE]] | Vedete, mio signore, quanto ampiamente siete amato. |
-| *(didascalia)* | Musica. Entra una [[Masque|mascherata]] di Dame in veste d’Amazzoni, con liuti in mano, danzando e suonando |
-| [[Apemantus|APEMANTO]] | Ehilà, che spazzata di [[Vanity|vanità]] viene da questa parte!<br>[[Dance|Danzano]]? Sono pazze.<br>Simile a [[Madness|follia]] è la gloria di questa vita<br>quanto questa pompa a paragone d’un po’ d’olio e d’una radice.<br>Ci facciamo sciocchi per divertirci,<br>e spendiamo le nostre adulazioni per bere quegli uomini<br>sulla cui vecchiaia le rivomitiamo poi<br>con velenoso dispetto e invidia.<br>Chi vive che non sia depravato o non depravi?<br>Chi muore che non porti alla tomba un calcio<br>in dono dagli amici?<br>Avrei [[Fear|paura]] che quelli che [[Dance|danzano]] ora davanti a me<br>un giorno mi calpestino. È già accaduto.<br>Gli uomini chiudono le porte al sole che tramonta.<br>I Signori si levano da tavola con molte adorazioni a<br><br>[[Timon|Timone]]; e per mostrare il loro amore ciascuno sceglie un’<br><br>Amazzone, e tutti [[Dance|danzano]], uomini con donne, una nobile<br><br>aria o due agli oboi; e cessano |
-| [[Timon|TIMONE]] | Avete fatto molta grazia ai nostri piaceri, belle dame,<br>avete dato bella foggia al nostro intrattenimento,<br>che non era neppure a metà così bello e cortese.<br>Gli avete aggiunto pregio e lustro,<br>e m’avete intrattenuto con una mia stessa invenzione.<br>Ve ne devo ringraziare. |
+| [[Timon\|TIMONE]] | Vedete, mio signore, quanto ampiamente siete amato. |
+| *(didascalia)* | Musica. Entra una [[Masque\|mascherata]] di Dame in veste d’Amazzoni, con liuti in mano, danzando e suonando |
+| [[Apemantus\|APEMANTO]] | Ehilà, che spazzata di [[Vanity\|vanità]] viene da questa parte!<br>[[Dance\|Danzano]]? Sono pazze.<br>Simile a [[Madness\|follia]] è la gloria di questa vita<br>quanto questa pompa a paragone d’un po’ d’olio e d’una radice.<br>Ci facciamo sciocchi per divertirci,<br>e spendiamo le nostre adulazioni per bere quegli uomini<br>sulla cui vecchiaia le rivomitiamo poi<br>con velenoso dispetto e invidia.<br>Chi vive che non sia depravato o non depravi?<br>Chi muore che non porti alla tomba un calcio<br>in dono dagli amici?<br>Avrei [[Fear\|paura]] che quelli che [[Dance\|danzano]] ora davanti a me<br>un giorno mi calpestino. È già accaduto.<br>Gli uomini chiudono le porte al sole che tramonta.<br>I Signori si levano da tavola con molte adorazioni a<br><br>[[Timon\|Timone]]; e per mostrare il loro amore ciascuno sceglie un’<br><br>Amazzone, e tutti [[Dance\|danzano]], uomini con donne, una nobile<br><br>aria o due agli oboi; e cessano |
+| [[Timon\|TIMONE]] | Avete fatto molta grazia ai nostri piaceri, belle dame,<br>avete dato bella foggia al nostro intrattenimento,<br>che non era neppure a metà così bello e cortese.<br>Gli avete aggiunto pregio e lustro,<br>e m’avete intrattenuto con una mia stessa invenzione.<br>Ve ne devo ringraziare. |
 | *(didascalia)* | PRIMA DAMA |
-| [[Timon|TIMONE]] | Mio signore, ci prendete proprio nel migliore dei modi. |
-| [[Apemantus|APEMANTO]] | [[Faith|In fede mia]]; ché il peggio è lurido, e non reggerebbe a esser preso, ne [[Doubt|dubito]]. |
-| [[Timon|TIMONE]] | Dame, un banchetto leggero vi attende.<br>Compiacetevi di disporne. |
+| [[Timon\|TIMONE]] | Mio signore, ci prendete proprio nel migliore dei modi. |
+| [[Apemantus\|APEMANTO]] | [[Faith\|In fede mia]]; ché il peggio è lurido, e non reggerebbe a esser preso, ne [[Doubt\|dubito]]. |
+| [[Timon\|TIMONE]] | Dame, un banchetto leggero vi attende.<br>Compiacetevi di disporne. |
 | TUTTE LE DAME | Con molta gratitudine, mio signore. Escono le Dame |
-| [[Timon|TIMONE]] | [[Flavius|Flavio]]. |
-| [[Flavius|FLAVIO]] | Mio signore. |
-| [[Timon|TIMONE]] | Portami qui il piccolo cofanetto. |
-| [[Flavius|FLAVIO]] | Sì, mio signore. (A parte) Ancora gioielli?<br>Non c’è modo di contrariarlo nel suo [[Humour|umore]],<br>altrimenti glielo direi [[Well|bene]], in [[Faith|fede]] mia lo farei.<br>Quando tutto è speso, allora vorrebbe esser contrariato, se potesse.<br>È peccato che la munificenza non abbia occhi di dietro,<br>ché l’uomo non fosse mai misero per il suo buon animo. Esce |
+| [[Timon\|TIMONE]] | [[Flavius\|Flavio]]. |
+| [[Flavius\|FLAVIO]] | Mio signore. |
+| [[Timon\|TIMONE]] | Portami qui il piccolo cofanetto. |
+| [[Flavius\|FLAVIO]] | Sì, mio signore. (A parte) Ancora gioielli?<br>Non c’è modo di contrariarlo nel suo [[Humour\|umore]],<br>altrimenti glielo direi [[Well\|bene]], in [[Faith\|fede]] mia lo farei.<br>Quando tutto è speso, allora vorrebbe esser contrariato, se potesse.<br>È peccato che la munificenza non abbia occhi di dietro,<br>ché l’uomo non fosse mai misero per il suo buon animo. Esce |
 | PRIMO SIGNORE | Dove sono i nostri uomini? |
 | SERVO | Qui, mio signore, pronti. |
 | *(didascalia)* | SECONDO SIGNORE I nostri cavalli. Esce il Servo |
-| *(didascalia)* | Entra [[Flavius|Flavio]] col cofanetto. Lo dà a [[Timon|Timone]], ed esce |
-| [[Timon|TIMONE]] | O amici miei, ho una parola da dirvi.<br>Vedete, mio buon signore,<br>devo pregarvi di [[Honour|onorarmi]] tanto<br>da dar pregio a questo [[Jewel|gioiello]]. Accettatelo e portatelo,<br>caro mio signore. |
+| *(didascalia)* | Entra [[Flavius\|Flavio]] col cofanetto. Lo dà a [[Timon\|Timone]], ed esce |
+| [[Timon\|TIMONE]] | O amici miei, ho una parola da dirvi.<br>Vedete, mio buon signore,<br>devo pregarvi di [[Honour\|onorarmi]] tanto<br>da dar pregio a questo [[Jewel\|gioiello]]. Accettatelo e portatelo,<br>caro mio signore. |
 | PRIMO SIGNORE | Sono già così avanti nei vostri doni. |
-| TUTTI I SIGNORI | E così tutti noi.<br>[[Timon|Timone]] dà loro gioielli. |
+| TUTTI I SIGNORI | E così tutti noi.<br>[[Timon\|Timone]] dà loro gioielli. |
 | *(didascalia)* | Entra un Servo |
 | PRIMO SERVO | Mio signore, ci sono certi nobili del senato appena smontati da cavallo e venuti a farvi visita. |
-| [[Timon|TIMONE]] | Sono i benvenuti. Esce il Servo |
-| *(didascalia)* | Entra [[Flavius|Flavio]] |
-| [[Flavius|FLAVIO]] | Supplico vostro [[Honour|onore]], degnatemi d’una parola; vi tocca da vicino. |
-| [[Timon|TIMONE]] | Da vicino? Ebbene, un’altra [[Time|volta]] t’ascolterò.<br>Ti prego, prepariamoci a offrir loro accoglienza. |
-| [[Flavius|FLAVIO]] | A stento so come. |
+| [[Timon\|TIMONE]] | Sono i benvenuti. Esce il Servo |
+| *(didascalia)* | Entra [[Flavius\|Flavio]] |
+| [[Flavius\|FLAVIO]] | Supplico vostro [[Honour\|onore]], degnatemi d’una parola; vi tocca da vicino. |
+| [[Timon\|TIMONE]] | Da vicino? Ebbene, un’altra [[Time\|volta]] t’ascolterò.<br>Ti prego, prepariamoci a offrir loro accoglienza. |
+| [[Flavius\|FLAVIO]] | A stento so come. |
 | *(didascalia)* | Entra un Secondo Servo |
-| SECONDO SERVO | Con licenza di vostro [[Honour|onore]], il signor [[Lucius|Lucio]]<br>per suo libero [[Love|amore]] vi ha donato<br>quattro cavalli bianchi come latte bardati d’argento. |
-| [[Timon|TIMONE]] | Li accetterò di buon grado. Che i doni<br>siano degnamente accolti. |
+| SECONDO SERVO | Con licenza di vostro [[Honour\|onore]], il signor [[Lucius\|Lucio]]<br>per suo libero [[Love\|amore]] vi ha donato<br>quattro cavalli bianchi come latte bardati d’argento. |
+| [[Timon\|TIMONE]] | Li accetterò di buon grado. Che i doni<br>siano degnamente accolti. |
 | *(didascalia)* | Esce il Servo |
 | *(didascalia)* | Entra un Terzo Servo |
-| [[Timon|TIMONE]] | Ebbene, che notizie? |
-| TERZO SERVO | Con vostra licenza, mio signore, quell’onorevole gentiluomo il signor [[Lucullus|Lucullo]] chiede la vostra compagnia domani per cacciare con lui, e ha mandato a vostro [[Honour|onore]] due coppie di levrieri. |
-| [[Timon|TIMONE]] | Caccerò con lui, e siano ricevuti<br>non senza giusta ricompensa. Esce il Servo |
-| [[Flavius|FLAVIO]] | (a parte) Dove andrà a finire tutto questo?<br>Ci comanda di provvedere e di fare gran doni,<br>e tutto da uno scrigno vuoto;<br>né vuol conoscere la sua borsa, né concedermi questo:<br>di mostrargli che mendicante sia il suo cuore,<br>non avendo alcun potere di far buoni i suoi desideri.<br>Le sue promesse volano tanto oltre il suo stato<br>che quel che dice è tutto a debito, egli deve<br>per ogni parola. È così generoso che ora<br>ne paga gli interessi. Le sue terre sono iscritte nei loro libri.<br>[[Well|Bene]], vorrei essere gentilmente rimosso dall’ufficio<br>prima d’esserne cacciato per forza.<br>Più felice è chi non ha amici da nutrire<br>che chi ne ha di tali da superare perfino i nemici.<br>Sanguino internamente per il mio signore. Esce |
-| [[Timon|TIMONE]] | (ai Signori) Vi fate<br>gran torto, sminuite troppo i vostri meriti.<br>(Al Secondo Signore) Ecco, mio signore, un pegno del nostro [[Love|amore]]. |
+| [[Timon\|TIMONE]] | Ebbene, che notizie? |
+| TERZO SERVO | Con vostra licenza, mio signore, quell’onorevole gentiluomo il signor [[Lucullus\|Lucullo]] chiede la vostra compagnia domani per cacciare con lui, e ha mandato a vostro [[Honour\|onore]] due coppie di levrieri. |
+| [[Timon\|TIMONE]] | Caccerò con lui, e siano ricevuti<br>non senza giusta ricompensa. Esce il Servo |
+| [[Flavius\|FLAVIO]] | (a parte) Dove andrà a finire tutto questo?<br>Ci comanda di provvedere e di fare gran doni,<br>e tutto da uno scrigno vuoto;<br>né vuol conoscere la sua borsa, né concedermi questo:<br>di mostrargli che mendicante sia il suo cuore,<br>non avendo alcun potere di far buoni i suoi desideri.<br>Le sue promesse volano tanto oltre il suo stato<br>che quel che dice è tutto a debito, egli deve<br>per ogni parola. È così generoso che ora<br>ne paga gli interessi. Le sue terre sono iscritte nei loro libri.<br>[[Well\|Bene]], vorrei essere gentilmente rimosso dall’ufficio<br>prima d’esserne cacciato per forza.<br>Più felice è chi non ha amici da nutrire<br>che chi ne ha di tali da superare perfino i nemici.<br>Sanguino internamente per il mio signore. Esce |
+| [[Timon\|TIMONE]] | (ai Signori) Vi fate<br>gran torto, sminuite troppo i vostri meriti.<br>(Al Secondo Signore) Ecco, mio signore, un pegno del nostro [[Love\|amore]]. |
 | SECONDO SIGNORE | Con più che comune gratitudine lo riceverò. |
-| TERZO SIGNORE | Oh, egli è l’[[Soul|anima]] stessa della munificenza! |
-| [[Timon|TIMONE]] | (al Primo Signore) E ora ricordo, mio signore, che l’altro giorno spendeste buone parole per un corsiero baio che cavalcavo. È vostro, perché vi piaceva. |
+| TERZO SIGNORE | Oh, egli è l’[[Soul\|anima]] stessa della munificenza! |
+| [[Timon\|TIMONE]] | (al Primo Signore) E ora ricordo, mio signore, che l’altro giorno spendeste buone parole per un corsiero baio che cavalcavo. È vostro, perché vi piaceva. |
 | PRIMO SIGNORE | Oh, vi supplico, perdonatemi in questo, mio signore. |
-| [[Timon|TIMONE]] | Potete credermi sulla parola, mio signore, so che nessuno<br>può lodare con giustizia se non ciò che ama.<br>Peso l’affetto dei miei amici col mio.<br>Vi dirò il vero, farò ricorso a voi. |
+| [[Timon\|TIMONE]] | Potete credermi sulla parola, mio signore, so che nessuno<br>può lodare con giustizia se non ciò che ama.<br>Peso l’affetto dei miei amici col mio.<br>Vi dirò il vero, farò ricorso a voi. |
 | TUTTI I SIGNORI | Oh, nessuno sarà più benvenuto. |
-| [[Timon|TIMONE]] | Prendo tutto e le vostre singole visite<br>tanto a cuore, che non basta dare.<br>Mi pare che potrei distribuire regni ai miei amici,<br>e non stancarmi mai. [[Alcibiades|Alcibiade]],<br>tu sei un soldato, perciò di rado ricco. |
-| *(didascalia)* | Facendo un dono Ti viene per [[Charity|carità]], ché tutto |
-| [[Timon|TIMONE]] | il tuo vivere<br>è fra i morti, e tutte le terre che possiedi<br>giacciono in un campo di battaglia. |
-| [[Alcibiades|ALCIBIADE]] | Sì, terra insozzata, mio signore. |
+| [[Timon\|TIMONE]] | Prendo tutto e le vostre singole visite<br>tanto a cuore, che non basta dare.<br>Mi pare che potrei distribuire regni ai miei amici,<br>e non stancarmi mai. [[Alcibiades\|Alcibiade]],<br>tu sei un soldato, perciò di rado ricco. |
+| *(didascalia)* | Facendo un dono Ti viene per [[Charity\|carità]], ché tutto |
+| [[Timon\|TIMONE]] | il tuo vivere<br>è fra i morti, e tutte le terre che possiedi<br>giacciono in un campo di battaglia. |
+| [[Alcibiades\|ALCIBIADE]] | Sì, terra insozzata, mio signore. |
 | PRIMO SIGNORE | Siamo così virtuosamente obbligati— |
-| [[Timon|TIMONE]] | E così io a voi. |
+| [[Timon\|TIMONE]] | E così io a voi. |
 | SECONDO SIGNORE | Così infinitamente affezionati— |
-| [[Timon|TIMONE]] | Tutto a voi. Lumi, più lumi! |
-| PRIMO SIGNORE | Il meglio di felicità, [[Honour|onore]] e fortune<br>resti con voi, signor [[Timon|Timone]]. |
-| [[Timon|TIMONE]] | Pronto per i suoi amici. |
-| *(didascalia)* | Escono tutti tranne [[Timon|Timone]] e [[Apemantus|Apemanto]] |
-| [[Apemantus|APEMANTO]] | Che baccano qui,<br>un servire di cenni e uno sporgere di deretani!<br>[[Doubt|Dubito]] che le loro gambe valgano le somme<br>che si danno per esse. L’[[Friendship|amicizia]] è piena di feccia.<br>Mi pare che cuori falsi non dovrebbero mai avere gambe sane.<br>Così gli sciocchi onesti spendono la loro ricchezza in riverenze. |
-| [[Timon|TIMONE]] | Ora, [[Apemantus|Apemanto]], se tu non fossi arcigno<br>sarei buono con te. |
-| [[Apemantus|APEMANTO]] | No, non voglio nulla; ché se fossi corrotto anch’io, non resterebbe nessuno a inveire contro di te, e allora peccheresti più in fretta. Tu dai da tanto tempo, [[Timon|Timone]], che [[Fear|temo]] darai via te stesso in carta fra poco. Che bisogno c’è di questi banchetti, pompe e vanaglorie? |
-| [[Timon|TIMONE]] | No, se una volta cominci a inveire contro la società, ho giurato di non darti ascolto.<br>Addio, e vieni con musica migliore. Esce |
-| [[Apemantus|APEMANTO]] SO. | Non vuoi ascoltarmi ora, non lo farai allora.<br>Ti chiuderò il tuo cielo. Oh, che le orecchie degli uomini<br>debbano essere<br>sorde al consiglio, ma non all’adulazione! |
+| [[Timon\|TIMONE]] | Tutto a voi. Lumi, più lumi! |
+| PRIMO SIGNORE | Il meglio di felicità, [[Honour\|onore]] e fortune<br>resti con voi, signor [[Timon\|Timone]]. |
+| [[Timon\|TIMONE]] | Pronto per i suoi amici. |
+| *(didascalia)* | Escono tutti tranne [[Timon\|Timone]] e [[Apemantus\|Apemanto]] |
+| [[Apemantus\|APEMANTO]] | Che baccano qui,<br>un servire di cenni e uno sporgere di deretani!<br>[[Doubt\|Dubito]] che le loro gambe valgano le somme<br>che si danno per esse. L’[[Friendship\|amicizia]] è piena di feccia.<br>Mi pare che cuori falsi non dovrebbero mai avere gambe sane.<br>Così gli sciocchi onesti spendono la loro ricchezza in riverenze. |
+| [[Timon\|TIMONE]] | Ora, [[Apemantus\|Apemanto]], se tu non fossi arcigno<br>sarei buono con te. |
+| [[Apemantus\|APEMANTO]] | No, non voglio nulla; ché se fossi corrotto anch’io, non resterebbe nessuno a inveire contro di te, e allora peccheresti più in fretta. Tu dai da tanto tempo, [[Timon\|Timone]], che [[Fear\|temo]] darai via te stesso in carta fra poco. Che bisogno c’è di questi banchetti, pompe e vanaglorie? |
+| [[Timon\|TIMONE]] | No, se una volta cominci a inveire contro la società, ho giurato di non darti ascolto.<br>Addio, e vieni con musica migliore. Esce |
+| [[Apemantus\|APEMANTO]] SO. | Non vuoi ascoltarmi ora, non lo farai allora.<br>Ti chiuderò il tuo cielo. Oh, che le orecchie degli uomini<br>debbano essere<br>sorde al consiglio, ma non all’adulazione! |
 | *(didascalia)* | Esce |
 
 
@@ -1705,10 +1705,10 @@ The Life of [[Timon]] of Athens
 | Chi parla | Battuta |
 |---|---|
 | *(didascalia)* | Entra un Senatore con obbligazioni |
-| SENATORE | E di recente cinquemila. A Varrone e a Isidoro<br>ne deve novemila, oltre alla mia somma precedente,<br>il che fa venticinque. Sempre in moto<br>di furiosa dissipazione! Non può reggere, non reggerà.<br>Se voglio oro, basta rubare il cane d’un mendicante<br>e darlo a [[Timon|Timone]]: ecco, il cane conia oro.<br>Se volessi vendere il mio [[Horse|cavallo]] e comprarne venti altri<br>migliori di lui: ebbene, dà il mio [[Horse|cavallo]] a [[Timon|Timone]]—<br>non chieder nulla, daglielo—e subito mi figlia,<br>e cavalli robusti. Nessun portiere alla sua porta,<br>ma piuttosto uno che sorride e sempre invita<br>quanti passano. Non può reggere. Nessuna ragione<br>può scandagliare il suo stato in sicurezza. Ehi, Caphis!<br>Caphis, dico! |
+| SENATORE | E di recente cinquemila. A Varrone e a Isidoro<br>ne deve novemila, oltre alla mia somma precedente,<br>il che fa venticinque. Sempre in moto<br>di furiosa dissipazione! Non può reggere, non reggerà.<br>Se voglio oro, basta rubare il cane d’un mendicante<br>e darlo a [[Timon\|Timone]]: ecco, il cane conia oro.<br>Se volessi vendere il mio [[Horse\|cavallo]] e comprarne venti altri<br>migliori di lui: ebbene, dà il mio [[Horse\|cavallo]] a [[Timon\|Timone]]—<br>non chieder nulla, daglielo—e subito mi figlia,<br>e cavalli robusti. Nessun portiere alla sua porta,<br>ma piuttosto uno che sorride e sempre invita<br>quanti passano. Non può reggere. Nessuna ragione<br>può scandagliare il suo stato in sicurezza. Ehi, Caphis!<br>Caphis, dico! |
 | *(didascalia)* | Entra Caphis |
 | CAPHIS | Eccomi, signore. Qual è il vostro volere? |
-| SENATORE | Mettiti il mantello e affrettati dal signor [[Timon|Timone]].<br>Importunalo per i miei denari. Non lasciarti fermare<br>da un lieve diniego, né zittire quando<br>‘Salutami il tuo padrone’, e il berretto<br>gioca nella destra, così; ma digli<br>che i miei bisogni gridano a me, devo provvedere<br>del mio, i suoi giorni e i suoi termini son passati,<br>e il mio affidarmi alle sue scadenze infrante<br>ha colpito il mio credito. Io l’[[Love|amo]] e l’[[Honour|onoro]],<br>ma non devo rompermi la schiena per guarirgli un dito.<br>Immediati sono i miei bisogni, e il mio sollievo<br>non dev’essermi palleggiato e rigirato in parole,<br>ma trovare immediato soccorso. Vattene.<br>Assumi l’aspetto più importuno,<br>un volto d’esigenza, perché [[Fear|temo]]<br>che, quando ogni penna torni alla propria ala,<br>il signor [[Timon|Timone]] resterà un nudo gabbiano,<br>lui che ora sfolgora fenice. Vattene. |
+| SENATORE | Mettiti il mantello e affrettati dal signor [[Timon\|Timone]].<br>Importunalo per i miei denari. Non lasciarti fermare<br>da un lieve diniego, né zittire quando<br>‘Salutami il tuo padrone’, e il berretto<br>gioca nella destra, così; ma digli<br>che i miei bisogni gridano a me, devo provvedere<br>del mio, i suoi giorni e i suoi termini son passati,<br>e il mio affidarmi alle sue scadenze infrante<br>ha colpito il mio credito. Io l’[[Love\|amo]] e l’[[Honour\|onoro]],<br>ma non devo rompermi la schiena per guarirgli un dito.<br>Immediati sono i miei bisogni, e il mio sollievo<br>non dev’essermi palleggiato e rigirato in parole,<br>ma trovare immediato soccorso. Vattene.<br>Assumi l’aspetto più importuno,<br>un volto d’esigenza, perché [[Fear\|temo]]<br>che, quando ogni penna torni alla propria ala,<br>il signor [[Timon\|Timone]] resterà un nudo gabbiano,<br>lui che ora sfolgora fenice. Vattene. |
 | CAPHIS | Vado, signore. |
 | *(didascalia)* | SENATORE dandogli le obbligazioni |
 | CAPHIS | Porta con te le obbligazioni,<br>e tieni conto delle scadenze. |
@@ -1840,116 +1840,116 @@ The Life of [[Timon]] of Athens
 
 | Chi parla | Battuta |
 |---|---|
-| *(didascalia)* | Entra [[Flavius|Flavio]], con molte fatture in mano |
-| [[Flavius|FLAVIO]] | Nessuna cura, nessun freno; così insensato nella spesa<br>che non saprà né come sostenerla<br>né cesserà il suo fiume di sperpero, non tien conto<br>di come le cose gli sfuggano, né si riprende cura<br>di ciò che deve durare. Mai animo<br>fu tanto insensato per essere tanto generoso.<br>Che si farà? Non vuole udire finché non senta. |
+| *(didascalia)* | Entra [[Flavius\|Flavio]], con molte fatture in mano |
+| [[Flavius\|FLAVIO]] | Nessuna cura, nessun freno; così insensato nella spesa<br>che non saprà né come sostenerla<br>né cesserà il suo fiume di sperpero, non tien conto<br>di come le cose gli sfuggano, né si riprende cura<br>di ciò che deve durare. Mai animo<br>fu tanto insensato per essere tanto generoso.<br>Che si farà? Non vuole udire finché non senta. |
 | *(didascalia)* | Suono di corni dall’interno |
-| [[Flavius|FLAVIO]] | Devo parlargli chiaro, ora che torna dalla caccia.<br>Ohibò, ohibò, ohibò, ohibò! |
+| [[Flavius\|FLAVIO]] | Devo parlargli chiaro, ora che torna dalla caccia.<br>Ohibò, ohibò, ohibò, ohibò! |
 | *(didascalia)* | Entra Caphis da una porta e i Servi d’Isidoro e di Varrone da un’altra porta |
 | CAPHIS | Buona sera, Varrone. Come, venite per denaro? |
 | SERVO DI VARRONE | Non è affare anche vostro? |
 | CAPHIS | Lo è; e anche vostro, Isidoro? |
 | SERVO D’ISIDORO | È così. |
 | CAPHIS | Fossimo tutti soddisfatti. |
-| SERVO DI VARRONE | Lo [[Fear|temo]]. |
+| SERVO DI VARRONE | Lo [[Fear\|temo]]. |
 | CAPHIS | Ecco che viene il signore. |
-| *(didascalia)* | Entrano [[Timon|Timone]] e il suo seguito, fra loro [[Alcibiades|Alcibiade]], come di ritorno dalla caccia |
-| [[Timon|TIMONE]] | Appena finito il pranzo usciremo di nuovo,<br>mio [[Alcibiades|Alcibiade]].<br>Caphis incontra [[Timon|Timone]]<br>Con me? Qual è il vostro volere? |
+| *(didascalia)* | Entrano [[Timon\|Timone]] e il suo seguito, fra loro [[Alcibiades\|Alcibiade]], come di ritorno dalla caccia |
+| [[Timon\|TIMONE]] | Appena finito il pranzo usciremo di nuovo,<br>mio [[Alcibiades\|Alcibiade]].<br>Caphis incontra [[Timon\|Timone]]<br>Con me? Qual è il vostro volere? |
 | CAPHIS | Mio signore, ecco una nota di certi crediti. |
-| [[Timon|TIMONE]] | Crediti? Di dove siete? |
+| [[Timon\|TIMONE]] | Crediti? Di dove siete? |
 | CAPHIS | Di qui, d’Atene, mio signore. |
-| [[Timon|TIMONE]] | Andate dal mio intendente. |
+| [[Timon\|TIMONE]] | Andate dal mio intendente. |
 | CAPHIS | Con licenza di vostra signoria, egli m’ha rimandato,<br>di giorno in giorno, per tutto questo mese.<br>Il mio padrone è spinto da grave necessità<br>a richiedere il suo, e umilmente vi prega<br>che alle vostre altre nobili doti facciate accordo<br>rendendogli il suo diritto. |
-| [[Timon|TIMONE]] | Mio onesto amico,<br>ti prego, torna da me domattina. |
+| [[Timon\|TIMONE]] | Mio onesto amico,<br>ti prego, torna da me domattina. |
 | CAPHIS | No, mio buon signore. |
-| [[Timon|TIMONE]] | Contieniti, buon amico. |
+| [[Timon\|TIMONE]] | Contieniti, buon amico. |
 | SERVO DI VARRONE | Un servo di Varrone, mio buon signore. |
-| SERVO D’ISIDORO | (a [[Timon|Timone]])<br>Da Isidoro. Prega umilmente il vostro sollecito pagamento. |
-| CAPHIS | (a [[Timon|Timone]])<br>Se sapeste, mio signore, i bisogni del mio padrone— |
-| SERVO DI VARRONE | (a [[Timon|Timone]])<br>Era scaduto con penale, mio signore, da sei settimane e più. |
-| SERVO D’ISIDORO | (a [[Timon|Timone]])<br>Il vostro intendente mi rimanda, mio signore, e io<br>sono mandato espressamente a vostra signoria. |
-| [[Timon|TIMONE]] | Datemi respiro.—<br>Vi supplico, miei buoni signori, proseguite.<br>Vi raggiungo all’istante. |
-| *(didascalia)* | Escono [[Alcibiades|Alcibiade]] e il seguito di [[Timon|Timone]] |
-| [[Timon|TIMONE]] | (A [[Flavius|Flavio]]) Vieni qua. Di grazia,<br>come va il mondo, che io sia così assalito<br>da clamorose richieste di obbligazioni infrante<br>e dal trattenersi di debiti scaduti da tempo,<br>contro il mio [[Honour|onore]]? |
-| [[Flavius|FLAVIO]] | (ai Servi) Con licenza, signori,<br>il [[Time|momento]] non è adatto a questo affare;<br>cessi la vostra insistenza fino a dopo il pranzo,<br>ch’io possa far intendere a sua signoria<br>perché non siate pagati. |
-| [[Timon|TIMONE]] | (ai Servi) Fate così, amici miei.<br>(A [[Flavius|Flavio]]) Siano [[Well|bene]] trattati. Esce |
-| [[Flavius|FLAVIO]] | Prego, accostatevi. |
+| SERVO D’ISIDORO | (a [[Timon\|Timone]])<br>Da Isidoro. Prega umilmente il vostro sollecito pagamento. |
+| CAPHIS | (a [[Timon\|Timone]])<br>Se sapeste, mio signore, i bisogni del mio padrone— |
+| SERVO DI VARRONE | (a [[Timon\|Timone]])<br>Era scaduto con penale, mio signore, da sei settimane e più. |
+| SERVO D’ISIDORO | (a [[Timon\|Timone]])<br>Il vostro intendente mi rimanda, mio signore, e io<br>sono mandato espressamente a vostra signoria. |
+| [[Timon\|TIMONE]] | Datemi respiro.—<br>Vi supplico, miei buoni signori, proseguite.<br>Vi raggiungo all’istante. |
+| *(didascalia)* | Escono [[Alcibiades\|Alcibiade]] e il seguito di [[Timon\|Timone]] |
+| [[Timon\|TIMONE]] | (A [[Flavius\|Flavio]]) Vieni qua. Di grazia,<br>come va il mondo, che io sia così assalito<br>da clamorose richieste di obbligazioni infrante<br>e dal trattenersi di debiti scaduti da tempo,<br>contro il mio [[Honour\|onore]]? |
+| [[Flavius\|FLAVIO]] | (ai Servi) Con licenza, signori,<br>il [[Time\|momento]] non è adatto a questo affare;<br>cessi la vostra insistenza fino a dopo il pranzo,<br>ch’io possa far intendere a sua signoria<br>perché non siate pagati. |
+| [[Timon\|TIMONE]] | (ai Servi) Fate così, amici miei.<br>(A [[Flavius\|Flavio]]) Siano [[Well\|bene]] trattati. Esce |
+| [[Flavius\|FLAVIO]] | Prego, accostatevi. |
 | *(didascalia)* | Esce |
-| *(didascalia)* | Entrano [[Apemantus|Apemanto]] e il [[Fool|Buffone]] |
-| CAPHIS | Ferma, ferma, ecco che viene il [[Fool|buffone]] con [[Apemantus|Apemanto]].<br>Divertiamoci un po’ con loro. |
+| *(didascalia)* | Entrano [[Apemantus\|Apemanto]] e il [[Fool\|Buffone]] |
+| CAPHIS | Ferma, ferma, ecco che viene il [[Fool\|buffone]] con [[Apemantus\|Apemanto]].<br>Divertiamoci un po’ con loro. |
 | SERVO DI VARRONE | Al diavolo, ci insulterà. |
 | SERVO D’ISIDORO | La peste lo colga, cane! |
-| SERVO DI VARRONE | Come stai, [[Fool|buffone]]? |
-| [[Apemantus|APEMANTO]] | Dialoghi con la tua [[Shadow|ombra]]? |
+| SERVO DI VARRONE | Come stai, [[Fool\|buffone]]? |
+| [[Apemantus\|APEMANTO]] | Dialoghi con la tua [[Shadow\|ombra]]? |
 | SERVO DI VARRONE | Non parlo a te. |
-| [[Apemantus|APEMANTO]] | No, è a te stesso. (Al [[Fool|Buffone]]) Vieni via. |
-| SERVO D’ISIDORO | (al Servo di Varrone) Ecco il [[Fool|buffone]] già ti pende dalla schiena.<br>[[Apemantus|APEMANTO]] No, tu stai solo: non sei ancora addosso a lui. |
-| CAPHIS | (al Servo d’Isidoro) Dov’è ora il [[Fool|buffone]]? |
-| [[Apemantus|APEMANTO]] | Chi ha fatto per ultimo la domanda. Uomini di poveri furfanti e d’usurai, ruffiani fra l’oro e il bisogno. |
-| TUTTI I SERVI | Che siamo noi, [[Apemantus|Apemanto]]? 6 |
-| [[Apemantus|APEMANTO]] | Asini. |
+| [[Apemantus\|APEMANTO]] | No, è a te stesso. (Al [[Fool\|Buffone]]) Vieni via. |
+| SERVO D’ISIDORO | (al Servo di Varrone) Ecco il [[Fool\|buffone]] già ti pende dalla schiena.<br>[[Apemantus\|APEMANTO]] No, tu stai solo: non sei ancora addosso a lui. |
+| CAPHIS | (al Servo d’Isidoro) Dov’è ora il [[Fool\|buffone]]? |
+| [[Apemantus\|APEMANTO]] | Chi ha fatto per ultimo la domanda. Uomini di poveri furfanti e d’usurai, ruffiani fra l’oro e il bisogno. |
+| TUTTI I SERVI | Che siamo noi, [[Apemantus\|Apemanto]]? 6 |
+| [[Apemantus\|APEMANTO]] | Asini. |
 | TUTTI I SERVI | Perché? |
-| [[Apemantus|APEMANTO]] | Perché chiedete a me che cosa siete, e non conoscete voi stessi. Parla loro, [[Fool|buffone]]. |
-| [[Fool|BUFFONE]] | Come state, signori? |
-| TUTTI I SERVI | Grazie tante, buon [[Fool|buffone]]. Come sta la tua padrona? |
-| [[Fool|BUFFONE]] | Sta giusto mettendo l’[[Water|acqua]] al fuoco per spennare polli come voi. Vorremmo potervi vedere a Corinto. |
-| [[Apemantus|APEMANTO]] | Bene; grazie tante. |
+| [[Apemantus\|APEMANTO]] | Perché chiedete a me che cosa siete, e non conoscete voi stessi. Parla loro, [[Fool\|buffone]]. |
+| [[Fool\|BUFFONE]] | Come state, signori? |
+| TUTTI I SERVI | Grazie tante, buon [[Fool\|buffone]]. Come sta la tua padrona? |
+| [[Fool\|BUFFONE]] | Sta giusto mettendo l’[[Water\|acqua]] al fuoco per spennare polli come voi. Vorremmo potervi vedere a Corinto. |
+| [[Apemantus\|APEMANTO]] | Bene; grazie tante. |
 | *(didascalia)* | Entra un Paggio con due lettere |
-| [[Fool|BUFFONE]] | Guardate, ecco il paggio della mia padrona. |
-| PAGGIO | Ehi, che c’è, capitano? Che fate in questa savia compagnia? Come stai, [[Apemantus|Apemanto]]? |
-| [[Apemantus|APEMANTO]] | Vorrei avere una verga in bocca, per poterti rispondere con profitto. |
-| PAGGIO | Ti prego, [[Apemantus|Apemanto]], leggimi l’indirizzo di queste lettere. Non so quale sia quale. |
-| [[Apemantus|APEMANTO]] | Non sai leggere? |
+| [[Fool\|BUFFONE]] | Guardate, ecco il paggio della mia padrona. |
+| PAGGIO | Ehi, che c’è, capitano? Che fate in questa savia compagnia? Come stai, [[Apemantus\|Apemanto]]? |
+| [[Apemantus\|APEMANTO]] | Vorrei avere una verga in bocca, per poterti rispondere con profitto. |
+| PAGGIO | Ti prego, [[Apemantus\|Apemanto]], leggimi l’indirizzo di queste lettere. Non so quale sia quale. |
+| [[Apemantus\|APEMANTO]] | Non sai leggere? |
 | PAGGIO | No. |
-| [[Apemantus|APEMANTO]] | Poca dottrina morirà dunque il giorno che sarai impiccato. Questa è per il signor [[Timon|Timone]], questa per [[Alcibiades|Alcibiade]]. Va’, sei nato bastardo, e morirai ruffiano. |
-| PAGGIO | Tu fosti figliato cane, e morirai di fame d’una [[Death|morte]] da cane. Non rispondere; me ne vado. Esce |
-| [[Apemantus|APEMANTO]] | Proprio così superi di corsa la grazia. [[Fool|Buffone]], verrò con te dal signor [[Timon|Timone]]. |
-| [[Fool|BUFFONE]] | Mi lascerete là? |
-| [[Apemantus|APEMANTO]] | Se [[Timon|Timone]] resta in [[Home|casa]]. (Ai Servi) Voi tre servite tre usurai? |
+| [[Apemantus\|APEMANTO]] | Poca dottrina morirà dunque il giorno che sarai impiccato. Questa è per il signor [[Timon\|Timone]], questa per [[Alcibiades\|Alcibiade]]. Va’, sei nato bastardo, e morirai ruffiano. |
+| PAGGIO | Tu fosti figliato cane, e morirai di fame d’una [[Death\|morte]] da cane. Non rispondere; me ne vado. Esce |
+| [[Apemantus\|APEMANTO]] | Proprio così superi di corsa la grazia. [[Fool\|Buffone]], verrò con te dal signor [[Timon\|Timone]]. |
+| [[Fool\|BUFFONE]] | Mi lascerete là? |
+| [[Apemantus\|APEMANTO]] | Se [[Timon\|Timone]] resta in [[Home\|casa]]. (Ai Servi) Voi tre servite tre usurai? |
 | TUTTI I SERVI | Sì. Volesse il cielo che servissero noi. |
-| [[Apemantus|APEMANTO]] | Lo vorrei anch’io: buon servizio come mai boia ne rese a ladro. |
-| [[Fool|BUFFONE]] | Siete voi tre uomini d’usurai? |
-| TUTTI I SERVI | Sì, [[Fool|buffone]]. 95 |
-| [[Fool|BUFFONE]] | Credo che non ci sia usuraio che non abbia uno [[Fool|sciocco]] per servo. La mia padrona è una di quelli, e io sono il suo [[Fool|buffone]]. Quando gli uomini vengono a prendere in prestito dai vostri padroni si accostano tristi e se ne vanno allegri, ma entrano nella [[house|casa]] della mia padrona allegri e se ne vanno tristi. La ragione di ciò? |
+| [[Apemantus\|APEMANTO]] | Lo vorrei anch’io: buon servizio come mai boia ne rese a ladro. |
+| [[Fool\|BUFFONE]] | Siete voi tre uomini d’usurai? |
+| TUTTI I SERVI | Sì, [[Fool\|buffone]]. 95 |
+| [[Fool\|BUFFONE]] | Credo che non ci sia usuraio che non abbia uno [[Fool\|sciocco]] per servo. La mia padrona è una di quelli, e io sono il suo [[Fool\|buffone]]. Quando gli uomini vengono a prendere in prestito dai vostri padroni si accostano tristi e se ne vanno allegri, ma entrano nella [[house\|casa]] della mia padrona allegri e se ne vanno tristi. La ragione di ciò? |
 | SERVO DI VARRONE | Potrei darne una. |
-| [[Apemantus|APEMANTO]] | Fallo dunque, così potremo tenerti per un puttaniere e un furfante, e ciò nonostante non sarai stimato meno. |
-| SERVO DI VARRONE | Che cos’è un puttaniere, [[Fool|buffone]]? |
-| [[Fool|BUFFONE]] | Uno [[Fool|sciocco]] in bei panni, e qualcosa di simile a te. È uno spirito; talvolta appare come un signore, talvolta come un avvocato, talvolta come un filosofo con due pietre in più della sua artificiale. È spessissimo simile a un cavaliere; e in generale in tutte le forme in cui l’uomo va su e giù dagli ottanta ai tredici anni, in quelle cammina questo spirito. |
-| SERVO DI VARRONE | Non sei del tutto uno [[Fool|sciocco]]. |
-| [[Fool|BUFFONE]] | Né tu del tutto un saggio. Quanta follia ho io, tanto senno manca a te. |
-| [[Apemantus|APEMANTO]] | Quella risposta sarebbe stata degna di [[Apemantus|Apemanto]]. Entrano [[Timon|Timone]] e [[Flavius|Flavio]] |
-| TUTTI I SERVI | Da parte, da parte, ecco che viene il signor [[Timon|Timone]]. |
-| [[Apemantus|APEMANTO]] | Vieni con me, [[Fool|buffone]], vieni. |
-| [[Fool|BUFFONE]] | Non sempre seguo l’[[Lover|innamorato]], il fratello maggiore e la donna: talvolta il filosofo. |
-| *(didascalia)* | Escono [[Apemantus|Apemanto]] e il [[Fool|Buffone]] |
-| [[Flavius|FLAVIO]] | (ai Servi)<br>Di grazia, restate qui vicino. Vi parlerò fra poco. |
+| [[Apemantus\|APEMANTO]] | Fallo dunque, così potremo tenerti per un puttaniere e un furfante, e ciò nonostante non sarai stimato meno. |
+| SERVO DI VARRONE | Che cos’è un puttaniere, [[Fool\|buffone]]? |
+| [[Fool\|BUFFONE]] | Uno [[Fool\|sciocco]] in bei panni, e qualcosa di simile a te. È uno spirito; talvolta appare come un signore, talvolta come un avvocato, talvolta come un filosofo con due pietre in più della sua artificiale. È spessissimo simile a un cavaliere; e in generale in tutte le forme in cui l’uomo va su e giù dagli ottanta ai tredici anni, in quelle cammina questo spirito. |
+| SERVO DI VARRONE | Non sei del tutto uno [[Fool\|sciocco]]. |
+| [[Fool\|BUFFONE]] | Né tu del tutto un saggio. Quanta follia ho io, tanto senno manca a te. |
+| [[Apemantus\|APEMANTO]] | Quella risposta sarebbe stata degna di [[Apemantus\|Apemanto]]. Entrano [[Timon\|Timone]] e [[Flavius\|Flavio]] |
+| TUTTI I SERVI | Da parte, da parte, ecco che viene il signor [[Timon\|Timone]]. |
+| [[Apemantus\|APEMANTO]] | Vieni con me, [[Fool\|buffone]], vieni. |
+| [[Fool\|BUFFONE]] | Non sempre seguo l’[[Lover\|innamorato]], il fratello maggiore e la donna: talvolta il filosofo. |
+| *(didascalia)* | Escono [[Apemantus\|Apemanto]] e il [[Fool\|Buffone]] |
+| [[Flavius\|FLAVIO]] | (ai Servi)<br>Di grazia, restate qui vicino. Vi parlerò fra poco. |
 | *(didascalia)* | Escono i Servi |
-| [[Timon|TIMONE]] | Mi fai stupire che prima di quest’[[Time|ora]]<br>tu non m’abbia esposto per intero il mio stato,<br>ch’io avessi potuto misurare la mia spesa<br>secondo che i mezzi mi consentivano. |
-| [[Flavius|FLAVIO]] | Non volevate ascoltarmi.<br>In molti momenti liberi ve lo proposi— |
-| [[Timon|TIMONE]] | Suvvia.<br>Forse cogliesti qualche singola occasione,<br>quando la mia indisposizione ti respingeva,<br>e di quella malagevolezza facesti tuo ministro<br>per scusarti così. |
-| [[Flavius|FLAVIO]] | O mio buon signore,<br>molte volte portai i miei conti,<br>li posi davanti a voi; voi li respingevate<br>e dicevate di sommarli nella mia onestà.<br>Quando per qualche dono da nulla m’avete ordinato<br>di rendere tanto, io scossi il capo e piansi,<br>anzi, contro l’autorità delle convenienze vi pregai<br>di tenere la mano più chiusa. Sopportai<br>non di rado né lievi rimproveri, quando v’ho<br>avvertito del riflusso del vostro patrimonio<br>e della gran piena dei vostri debiti. Mio amato signore—<br>benché ora udiate troppo tardi, pure ora è il [[Time|momento]]—<br>tutto ciò che possedete manca della metà<br>per pagare i vostri debiti presenti. |
-| [[Timon|TIMONE]] | Si vendano tutte le mie terre. |
-| [[Flavius|FLAVIO]] | Son tutte impegnate, alcune perdute e andate,<br>e quel che resta a stento chiuderà la bocca<br>dei crediti presenti. Il futuro viene a gran passi.<br>Che difenderà il frattempo, e alla fine<br>come andrà il nostro conto? |
-| [[Timon|TIMONE]] | Fino a Lacedemone si stendevano le mie terre. |
-| [[Flavius|FLAVIO]] | O mio buon signore, il mondo non è che una parola.<br>Fosse tutto vostro da donarlo in un respiro,<br>quanto presto se ne andrebbe. |
-| [[Timon|TIMONE]] | Dici il vero. |
-| [[Flavius|FLAVIO]] | Se sospettate della mia amministrazione o della mia lealtà,<br>chiamatemi davanti ai più rigorosi revisori<br>e mettetemi alla prova. Così gli dèi m’assistano:<br>quando tutte le nostre dispense erano oppresse<br>da mangiatori sfrenati, quando le nostre cantine piangevano<br>per il vino versato dagli ubriachi, quando ogni stanza<br>fiammeggiava di lumi e strepitava di musici,<br>io mi ritiravo presso una cannella che perdeva,<br>e lasciavo scorrere i miei occhi. |
-| [[Timon|TIMONE]] | Ti prego, basta. |
-| [[Flavius|FLAVIO]] | ‘Cieli,’ ho detto, ‘la munificenza di questo signore!<br>Quanti bocconi prodighi hanno servi e villani<br>questa [[Night|notte]] ingoiato! Chi non è di [[Timon|Timone]]?<br>Quale cuore, testa, [[Sword|spada]], forza, mezzo, che non sia del signor<br>[[Timon|Timone]]?<br>Gran [[Timon|Timone]], nobile, degno, regale [[Timon|Timone]]!<br>Ah, quando saranno finiti i mezzi che comprano questa lode,<br>finito è il fiato di cui questa lode è fatta.<br>Banchetto vinto, digiuno perduto; una nube di piogge d’[[Winter|inverno]],<br>e queste mosche sono acquattate.’ |
-| [[Timon|TIMONE]] | Su, non farmi altri sermoni.<br>Nessuna munificenza villana è mai passata per il mio cuore.<br>Imprudentemente, non ignobilmente, ho donato.<br>Perché piangi? Puoi mancare di [[Conscience|coscienza]]<br>fino a pensare che mi mancheranno amici? Rassicura il tuo cuore.<br>Se volessi spillare le botti del mio [[Love|amore]]<br>e saggiare la prova dei cuori chiedendo in prestito,<br>gli uomini e le fortune degli uomini potrei usare francamente<br>come posso ordinare a te di parlare. |
-| [[Flavius|FLAVIO]] | La certezza benedica i vostri pensieri! |
-| [[Timon|TIMONE]] | E in certo modo queste mie strettezze sono coronate<br>tanto che le tengo per benedizioni, ché per esse<br>metterò alla prova gli amici. Vedrai come<br>fraintendi le mie fortune. Io sono ricco d’amici.— |
+| [[Timon\|TIMONE]] | Mi fai stupire che prima di quest’[[Time\|ora]]<br>tu non m’abbia esposto per intero il mio stato,<br>ch’io avessi potuto misurare la mia spesa<br>secondo che i mezzi mi consentivano. |
+| [[Flavius\|FLAVIO]] | Non volevate ascoltarmi.<br>In molti momenti liberi ve lo proposi— |
+| [[Timon\|TIMONE]] | Suvvia.<br>Forse cogliesti qualche singola occasione,<br>quando la mia indisposizione ti respingeva,<br>e di quella malagevolezza facesti tuo ministro<br>per scusarti così. |
+| [[Flavius\|FLAVIO]] | O mio buon signore,<br>molte volte portai i miei conti,<br>li posi davanti a voi; voi li respingevate<br>e dicevate di sommarli nella mia onestà.<br>Quando per qualche dono da nulla m’avete ordinato<br>di rendere tanto, io scossi il capo e piansi,<br>anzi, contro l’autorità delle convenienze vi pregai<br>di tenere la mano più chiusa. Sopportai<br>non di rado né lievi rimproveri, quando v’ho<br>avvertito del riflusso del vostro patrimonio<br>e della gran piena dei vostri debiti. Mio amato signore—<br>benché ora udiate troppo tardi, pure ora è il [[Time\|momento]]—<br>tutto ciò che possedete manca della metà<br>per pagare i vostri debiti presenti. |
+| [[Timon\|TIMONE]] | Si vendano tutte le mie terre. |
+| [[Flavius\|FLAVIO]] | Son tutte impegnate, alcune perdute e andate,<br>e quel che resta a stento chiuderà la bocca<br>dei crediti presenti. Il futuro viene a gran passi.<br>Che difenderà il frattempo, e alla fine<br>come andrà il nostro conto? |
+| [[Timon\|TIMONE]] | Fino a Lacedemone si stendevano le mie terre. |
+| [[Flavius\|FLAVIO]] | O mio buon signore, il mondo non è che una parola.<br>Fosse tutto vostro da donarlo in un respiro,<br>quanto presto se ne andrebbe. |
+| [[Timon\|TIMONE]] | Dici il vero. |
+| [[Flavius\|FLAVIO]] | Se sospettate della mia amministrazione o della mia lealtà,<br>chiamatemi davanti ai più rigorosi revisori<br>e mettetemi alla prova. Così gli dèi m’assistano:<br>quando tutte le nostre dispense erano oppresse<br>da mangiatori sfrenati, quando le nostre cantine piangevano<br>per il vino versato dagli ubriachi, quando ogni stanza<br>fiammeggiava di lumi e strepitava di musici,<br>io mi ritiravo presso una cannella che perdeva,<br>e lasciavo scorrere i miei occhi. |
+| [[Timon\|TIMONE]] | Ti prego, basta. |
+| [[Flavius\|FLAVIO]] | ‘Cieli,’ ho detto, ‘la munificenza di questo signore!<br>Quanti bocconi prodighi hanno servi e villani<br>questa [[Night\|notte]] ingoiato! Chi non è di [[Timon\|Timone]]?<br>Quale cuore, testa, [[Sword\|spada]], forza, mezzo, che non sia del signor<br>[[Timon\|Timone]]?<br>Gran [[Timon\|Timone]], nobile, degno, regale [[Timon\|Timone]]!<br>Ah, quando saranno finiti i mezzi che comprano questa lode,<br>finito è il fiato di cui questa lode è fatta.<br>Banchetto vinto, digiuno perduto; una nube di piogge d’[[Winter\|inverno]],<br>e queste mosche sono acquattate.’ |
+| [[Timon\|TIMONE]] | Su, non farmi altri sermoni.<br>Nessuna munificenza villana è mai passata per il mio cuore.<br>Imprudentemente, non ignobilmente, ho donato.<br>Perché piangi? Puoi mancare di [[Conscience\|coscienza]]<br>fino a pensare che mi mancheranno amici? Rassicura il tuo cuore.<br>Se volessi spillare le botti del mio [[Love\|amore]]<br>e saggiare la prova dei cuori chiedendo in prestito,<br>gli uomini e le fortune degli uomini potrei usare francamente<br>come posso ordinare a te di parlare. |
+| [[Flavius\|FLAVIO]] | La certezza benedica i vostri pensieri! |
+| [[Timon\|TIMONE]] | E in certo modo queste mie strettezze sono coronate<br>tanto che le tengo per benedizioni, ché per esse<br>metterò alla prova gli amici. Vedrai come<br>fraintendi le mie fortune. Io sono ricco d’amici.— |
 | *(didascalia)* | Ehi, là dentro, Flaminio, Servilio! |
 | *(didascalia)* | Entrano Flaminio, Servilio e un Terzo Servo |
 | TUTTI I SERVI | Mio signore, mio signore. |
-| [[Timon|TIMONE]] | Vi spedirò separatamente.<br>(A Servilio) Tu dal signor [[Lucius|Lucio]],<br>(A Flaminio) tu dal signor [[Lucullus|Lucullo]]—<br>ho cacciato oggi con sua [[Honour|signoria]]—<br>(Al Terzo Servo) tu da [[Sempronius|Sempronio]]. Raccomandatemi<br>al loro affetto,<br>e dite ch’io sono fiero che le mie necessità abbiano<br>trovato il [[Time|tempo]] di ricorrere a loro per una provvista di denaro.<br>La richiesta sia di cinquanta talenti. |
+| [[Timon\|TIMONE]] | Vi spedirò separatamente.<br>(A Servilio) Tu dal signor [[Lucius\|Lucio]],<br>(A Flaminio) tu dal signor [[Lucullus\|Lucullo]]—<br>ho cacciato oggi con sua [[Honour\|signoria]]—<br>(Al Terzo Servo) tu da [[Sempronius\|Sempronio]]. Raccomandatemi<br>al loro affetto,<br>e dite ch’io sono fiero che le mie necessità abbiano<br>trovato il [[Time\|tempo]] di ricorrere a loro per una provvista di denaro.<br>La richiesta sia di cinquanta talenti. |
 | FLAMINIO | Come avete detto, mio signore. Escono i Servi |
-| [[Flavius|FLAVIO]] | Il signor [[Lucius|Lucio]] e [[Lucullus|Lucullo]]? Ehm! |
-| [[Timon|TIMONE]] | Andate voi, signore, dai senatori,<br>dai quali, anche per il miglior bene dello stato, ho<br>meritato questo ascolto. Dite loro di mandarmi all’istante<br>mille talenti. |
-| [[Flavius|FLAVIO]] | Sono stato ardito,<br>perché sapevo essere quella la via più consueta<br>verso di loro, a usare il vostro sigillo e il vostro nome;<br>ma essi scuotono il capo, e io sono qui<br>non più ricco al ritorno. |
-| [[Timon|TIMONE]] | È vero? Può essere? |
-| [[Flavius|FLAVIO]] | Rispondono con voce unanime e corporata<br>che ora sono in ribasso, mancano di tesoro, non possono<br>far quel che vorrebbero, son dolenti, voi siete onorevole,<br>ma pure avrebbero desiderato—non sanno—<br>qualcosa è andato storto—una nobile [[Nature|natura]]<br>può prendere una storta—fosse tutto [[Well|bene]]—è un peccato;<br>e così, volgendosi ad altre gravi faccende,<br>dopo sguardi sgraditi e queste dure frasi spezzate,<br>con certi mezzi saluti di berretto e freddi cenni del capo<br>mi gelarono nel [[Silence|silenzio]]. |
-| [[Timon|TIMONE]] | Voi dèi ricompensateli!<br>Ti prego, uomo, mostrati allegro. Questi vecchi<br>hanno in sé ereditaria l’ingratitudine.<br>Il loro [[Blood|sangue]] è rappreso, è freddo, di rado scorre.<br>È mancanza di calore benigno se non sono benigni;<br>e la [[Nature|natura]], mentre torna a piegarsi verso la terra,<br>è foggiata per il [[Journey|viaggio]] ottusa e pesante.<br>Va’ da Ventidio. Ti prego, non essere triste.<br>Sei fedele e onesto—lo dico schiettamente—<br>nessuna colpa ti spetta. Ventidio ha di recente<br>sepolto suo padre, per la cui [[Death|morte]] è entrato<br>in un gran patrimonio. Quando era povero,<br>imprigionato, e scarso d’amici,<br>io lo liberai con cinque talenti. Salutalo da parte mia.<br>Digli di supporre che qualche onesta necessità<br>tocchi il suo amico, il quale chiede d’esser ricordato<br>con quei cinque talenti. Avutili, dalli a costoro<br>ai quali sono immediatamente dovuti. Non dire né pensare mai<br>che le fortune di [[Timon|Timone]] possano affondare fra i suoi amici. |
-| [[Flavius|FLAVIO]] | Vorrei non poterlo pensare. Quel pensiero è nemico della<br>munificenza:<br>essendo generosa essa stessa, crede tutti gli altri tali. |
+| [[Flavius\|FLAVIO]] | Il signor [[Lucius\|Lucio]] e [[Lucullus\|Lucullo]]? Ehm! |
+| [[Timon\|TIMONE]] | Andate voi, signore, dai senatori,<br>dai quali, anche per il miglior bene dello stato, ho<br>meritato questo ascolto. Dite loro di mandarmi all’istante<br>mille talenti. |
+| [[Flavius\|FLAVIO]] | Sono stato ardito,<br>perché sapevo essere quella la via più consueta<br>verso di loro, a usare il vostro sigillo e il vostro nome;<br>ma essi scuotono il capo, e io sono qui<br>non più ricco al ritorno. |
+| [[Timon\|TIMONE]] | È vero? Può essere? |
+| [[Flavius\|FLAVIO]] | Rispondono con voce unanime e corporata<br>che ora sono in ribasso, mancano di tesoro, non possono<br>far quel che vorrebbero, son dolenti, voi siete onorevole,<br>ma pure avrebbero desiderato—non sanno—<br>qualcosa è andato storto—una nobile [[Nature\|natura]]<br>può prendere una storta—fosse tutto [[Well\|bene]]—è un peccato;<br>e così, volgendosi ad altre gravi faccende,<br>dopo sguardi sgraditi e queste dure frasi spezzate,<br>con certi mezzi saluti di berretto e freddi cenni del capo<br>mi gelarono nel [[Silence\|silenzio]]. |
+| [[Timon\|TIMONE]] | Voi dèi ricompensateli!<br>Ti prego, uomo, mostrati allegro. Questi vecchi<br>hanno in sé ereditaria l’ingratitudine.<br>Il loro [[Blood\|sangue]] è rappreso, è freddo, di rado scorre.<br>È mancanza di calore benigno se non sono benigni;<br>e la [[Nature\|natura]], mentre torna a piegarsi verso la terra,<br>è foggiata per il [[Journey\|viaggio]] ottusa e pesante.<br>Va’ da Ventidio. Ti prego, non essere triste.<br>Sei fedele e onesto—lo dico schiettamente—<br>nessuna colpa ti spetta. Ventidio ha di recente<br>sepolto suo padre, per la cui [[Death\|morte]] è entrato<br>in un gran patrimonio. Quando era povero,<br>imprigionato, e scarso d’amici,<br>io lo liberai con cinque talenti. Salutalo da parte mia.<br>Digli di supporre che qualche onesta necessità<br>tocchi il suo amico, il quale chiede d’esser ricordato<br>con quei cinque talenti. Avutili, dalli a costoro<br>ai quali sono immediatamente dovuti. Non dire né pensare mai<br>che le fortune di [[Timon\|Timone]] possano affondare fra i suoi amici. |
+| [[Flavius\|FLAVIO]] | Vorrei non poterlo pensare. Quel pensiero è nemico della<br>munificenza:<br>essendo generosa essa stessa, crede tutti gli altri tali. |
 | *(didascalia)* | Escono da parti diverse |
 
 
@@ -1985,25 +1985,25 @@ The Life of [[Timon]] of Athens
 
 | Chi parla | Battuta |
 |---|---|
-| *(didascalia)* | Entra Flaminio, con una scatola sotto il mantello, in attesa di parlare con [[Lucullus|Lucullo]]. Da parte del suo padrone, gli si fa incontro un Servo |
-| SERVO DI [[Lucullus|LUCULLO]] | Ho parlato di voi al mio signore. Sta scendendo da voi. |
+| *(didascalia)* | Entra Flaminio, con una scatola sotto il mantello, in attesa di parlare con [[Lucullus\|Lucullo]]. Da parte del suo padrone, gli si fa incontro un Servo |
+| SERVO DI [[Lucullus\|LUCULLO]] | Ho parlato di voi al mio signore. Sta scendendo da voi. |
 | FLAMINIO | Vi ringrazio, signore. |
-| *(didascalia)* | Entra [[Lucullus|Lucullo]] |
-| SERVO DI [[Lucullus|LUCULLO]] | Ecco il mio signore. |
-| [[Lucullus|LUCULLO]] | (a parte) Uno degli uomini del signor [[Timon|Timone]]? Un dono, ne son certo. Ecco, ci azzecca in pieno; stanotte ho sognato un bacile e una brocca d’argento.—Flaminio, onesto Flaminio, siete assai rispettosamente il benvenuto, signore. (Al suo Servo) Versami del vino. Esce il Servo E come sta quell’onorevole, compiuto, generoso gentiluomo d’Atene, il tuo munificentissimo buon signore e padrone? |
-| FLAMINIO | La sua salute è [[Well|buona]], signore. |
-| [[Lucullus|LUCULLO]] | Son proprio lieto che la sua salute sia [[Well|buona]], signore. E che hai là sotto il mantello, grazioso Flaminio? |
-| FLAMINIO | [[Faith|In fede mia]], nient’altro che una scatola vuota, signore, che a nome del mio signore vengo a pregare vostro [[Honour|onore]] di riempire; il quale, avendo grande e immediata occasione di servirsi di cinquanta talenti, ha mandato a vostra signoria perché gliene provveda, per nulla dubitando del vostro pronto soccorso in ciò. |
-| [[Lucullus|LUCULLO]] | La, la, la, la, ‘per nulla dubitando’ dice? Ahimè, buon signore! È un nobile gentiluomo, se non tenesse una [[house|casa]] così sfarzosa. Molte [[Time|volte]] e spesso ho pranzato con lui e gliel’ho detto, e sono tornato a cena da lui apposta per fargli spendere meno; eppure non voleva accogliere consiglio, né prendere avvertimento dal mio venire. Ogni uomo ha il suo difetto, e l’onestà è il suo. Gliel’ho detto, ma non ho mai potuto distoglierlo. |
+| *(didascalia)* | Entra [[Lucullus\|Lucullo]] |
+| SERVO DI [[Lucullus\|LUCULLO]] | Ecco il mio signore. |
+| [[Lucullus\|LUCULLO]] | (a parte) Uno degli uomini del signor [[Timon\|Timone]]? Un dono, ne son certo. Ecco, ci azzecca in pieno; stanotte ho sognato un bacile e una brocca d’argento.—Flaminio, onesto Flaminio, siete assai rispettosamente il benvenuto, signore. (Al suo Servo) Versami del vino. Esce il Servo E come sta quell’onorevole, compiuto, generoso gentiluomo d’Atene, il tuo munificentissimo buon signore e padrone? |
+| FLAMINIO | La sua salute è [[Well\|buona]], signore. |
+| [[Lucullus\|LUCULLO]] | Son proprio lieto che la sua salute sia [[Well\|buona]], signore. E che hai là sotto il mantello, grazioso Flaminio? |
+| FLAMINIO | [[Faith\|In fede mia]], nient’altro che una scatola vuota, signore, che a nome del mio signore vengo a pregare vostro [[Honour\|onore]] di riempire; il quale, avendo grande e immediata occasione di servirsi di cinquanta talenti, ha mandato a vostra signoria perché gliene provveda, per nulla dubitando del vostro pronto soccorso in ciò. |
+| [[Lucullus\|LUCULLO]] | La, la, la, la, ‘per nulla dubitando’ dice? Ahimè, buon signore! È un nobile gentiluomo, se non tenesse una [[house\|casa]] così sfarzosa. Molte [[Time\|volte]] e spesso ho pranzato con lui e gliel’ho detto, e sono tornato a cena da lui apposta per fargli spendere meno; eppure non voleva accogliere consiglio, né prendere avvertimento dal mio venire. Ogni uomo ha il suo difetto, e l’onestà è il suo. Gliel’ho detto, ma non ho mai potuto distoglierlo. |
 | *(didascalia)* | Entra il Servo, col vino |
 | SERVO | Con licenza di vostra signoria, ecco il vino. |
-| [[Lucullus|LUCULLO]] | Flaminio, t’ho sempre notato savio. (Bevendo) Alla tua salute! |
+| [[Lucullus\|LUCULLO]] | Flaminio, t’ho sempre notato savio. (Bevendo) Alla tua salute! |
 | FLAMINIO | Vostra signoria dice ciò che le piace. |
-| [[Lucullus|LUCULLO]] | T’ho sempre osservato per uno spirito docile e pronto, a darti il tuo dovuto, e uno che sa quel che spetta alla ragione; e sai usare [[Well|bene]] il [[Time|tempo]] se il [[Time|tempo]] usa [[Well|bene]] te. (Bevendo) Buone qualità in te! (Al suo Servo) Vattene, messere. Esce il Servo Accostati, onesto Flaminio. Il tuo signore è un gentiluomo munifico; ma tu sei savio, e sai [[Well|bene]] abbastanza, benché tu venga da me, che questo non è [[Time|tempo]] da prestar denaro, specialmente sulla nuda [[Friendship|amicizia]] senza garanzia. (Dandogli monete) Ecco tre solidari per te. Bravo ragazzo, chiudi un occhio su di me, e di’ che non m’hai visto. Sta’ [[Well|bene]]. |
-| FLAMINIO | È possibile che il mondo tanto muti,<br>e noi vivi che vivemmo?<br>Getta le monete addosso a [[Lucullus|Lucullo]]<br>Vola, dannata bassezza,<br>a colui che t’adora. |
-| [[Lucullus|LUCULLO]] | Ah! Ora vedo che sei uno [[Fool|sciocco]], e degno del tuo padrone. |
+| [[Lucullus\|LUCULLO]] | T’ho sempre osservato per uno spirito docile e pronto, a darti il tuo dovuto, e uno che sa quel che spetta alla ragione; e sai usare [[Well\|bene]] il [[Time\|tempo]] se il [[Time\|tempo]] usa [[Well\|bene]] te. (Bevendo) Buone qualità in te! (Al suo Servo) Vattene, messere. Esce il Servo Accostati, onesto Flaminio. Il tuo signore è un gentiluomo munifico; ma tu sei savio, e sai [[Well\|bene]] abbastanza, benché tu venga da me, che questo non è [[Time\|tempo]] da prestar denaro, specialmente sulla nuda [[Friendship\|amicizia]] senza garanzia. (Dandogli monete) Ecco tre solidari per te. Bravo ragazzo, chiudi un occhio su di me, e di’ che non m’hai visto. Sta’ [[Well\|bene]]. |
+| FLAMINIO | È possibile che il mondo tanto muti,<br>e noi vivi che vivemmo?<br>Getta le monete addosso a [[Lucullus\|Lucullo]]<br>Vola, dannata bassezza,<br>a colui che t’adora. |
+| [[Lucullus\|LUCULLO]] | Ah! Ora vedo che sei uno [[Fool\|sciocco]], e degno del tuo padrone. |
 | *(didascalia)* | Esce |
-| FLAMINIO | S’aggiungano queste al numero di ciò che potrà scottarti.<br>Sia moneta fusa la tua dannazione,<br>tu malattia d’un amico, e non lui stesso.<br>Ha l’[[Friendship|amicizia]] un cuore così fiacco e lattiginoso<br>da inacidirsi in meno di due notti? O voi dèi,<br>sento la passione del mio padrone! Questo schiavo<br>ha in sé fino a quest’ora le vivande del mio signore.<br>Perché dovrebbero giovargli e mutarsi in nutrimento,<br>quando lui s’è mutato in [[Poison|veleno]]?<br>Oh, che solo le malattie vi operino sopra;<br>e quando sarà malato a [[Death|morte]], quella parte di [[Nature|natura]]<br>che il mio signore ha pagato non abbia alcun potere<br>di scacciare il male, ma prolunghi la sua agonia. |
+| FLAMINIO | S’aggiungano queste al numero di ciò che potrà scottarti.<br>Sia moneta fusa la tua dannazione,<br>tu malattia d’un amico, e non lui stesso.<br>Ha l’[[Friendship\|amicizia]] un cuore così fiacco e lattiginoso<br>da inacidirsi in meno di due notti? O voi dèi,<br>sento la passione del mio padrone! Questo schiavo<br>ha in sé fino a quest’ora le vivande del mio signore.<br>Perché dovrebbero giovargli e mutarsi in nutrimento,<br>quando lui s’è mutato in [[Poison\|veleno]]?<br>Oh, che solo le malattie vi operino sopra;<br>e quando sarà malato a [[Death\|morte]], quella parte di [[Nature\|natura]]<br>che il mio signore ha pagato non abbia alcun potere<br>di scacciare il male, ma prolunghi la sua agonia. |
 | *(didascalia)* | Esce |
 
 
@@ -2047,33 +2047,33 @@ The Life of [[Timon]] of Athens
 
 | Chi parla | Battuta |
 |---|---|
-| *(didascalia)* | Entra [[Lucius|Lucio]], con tre Forestieri |
-| [[Lucius|LUCIO]] | Chi, il signor [[Timon|Timone]]? È un mio ottimo amico, e un onorevole gentiluomo. |
-| PRIMO FORESTIERO | Lo conosciamo per non meno, benché gli siamo soltanto estranei. Ma posso dirvi una cosa, mio signore, che odo da voci comuni: ora le ore felici del signor [[Timon|Timone]] sono finite e passate, e il suo patrimonio si ritira da lui. |
-| [[Lucius|LUCIO]] | Via, no, non lo credete. Non può mancargli denaro. 9 |
-| SECONDO FORESTIERO | Ma credete a questo, mio signore, che non molto tempo fa uno dei suoi uomini fu dal signor [[Lucullus|Lucullo]] a chiedere in prestito altrettanti talenti—anzi, insistette all’estremo, e mostrò quale necessità vi fosse legata, eppure gli fu rifiutato. |
-| [[Lucius|LUCIO]] | Come? |
+| *(didascalia)* | Entra [[Lucius\|Lucio]], con tre Forestieri |
+| [[Lucius\|LUCIO]] | Chi, il signor [[Timon\|Timone]]? È un mio ottimo amico, e un onorevole gentiluomo. |
+| PRIMO FORESTIERO | Lo conosciamo per non meno, benché gli siamo soltanto estranei. Ma posso dirvi una cosa, mio signore, che odo da voci comuni: ora le ore felici del signor [[Timon\|Timone]] sono finite e passate, e il suo patrimonio si ritira da lui. |
+| [[Lucius\|LUCIO]] | Via, no, non lo credete. Non può mancargli denaro. 9 |
+| SECONDO FORESTIERO | Ma credete a questo, mio signore, che non molto tempo fa uno dei suoi uomini fu dal signor [[Lucullus\|Lucullo]] a chiedere in prestito altrettanti talenti—anzi, insistette all’estremo, e mostrò quale necessità vi fosse legata, eppure gli fu rifiutato. |
+| [[Lucius\|LUCIO]] | Come? |
 | SECONDO FORESTIERO | Vi dico, rifiutato, mio signore. |
-| [[Lucius|LUCIO]] | Che caso strano fu quello! Ora, davanti agli dèi, me ne vergogno. Rifiutare quell’uomo onorevole? Ben poco [[Honour|onore]] si mostrò in ciò. Per parte mia, devo confessare d’aver ricevuto da lui qualche piccola cortesia, come denaro, argenteria, gioielli e simili inezie—nulla a paragone delle sue; eppure, se egli non si fosse sbagliato e avesse mandato da me, non avrei mai negato alla sua occasione altrettanti talenti. |
+| [[Lucius\|LUCIO]] | Che caso strano fu quello! Ora, davanti agli dèi, me ne vergogno. Rifiutare quell’uomo onorevole? Ben poco [[Honour\|onore]] si mostrò in ciò. Per parte mia, devo confessare d’aver ricevuto da lui qualche piccola cortesia, come denaro, argenteria, gioielli e simili inezie—nulla a paragone delle sue; eppure, se egli non si fosse sbagliato e avesse mandato da me, non avrei mai negato alla sua occasione altrettanti talenti. |
 | *(didascalia)* | Entra Servilio |
-| SERVILIO | (a parte) Guarda, per buona sorte ecco laggiù il mio signore. Ho sudato per vedere sua [[Honour|signoria]]. (A [[Lucius|Lucio]]) Mio onorato signore! |
-| *(didascalia)* | [[Lucius|LUCIO]] Servilio! Ben trovato, signore. Sta’ [[Well|bene]]. Salutami il tuo onorevole e virtuoso signore, mio squisitissimo amico. |
-| SERVILIO | Con licenza di vostro [[Honour|onore]], il mio signore ha mandato— |
-| [[Lucius|LUCIO]] | Ah! Che ha mandato? Sono tanto obbligato a quel signore, manda sempre qualcosa. Come lo ringrazierò, secondo te? E che ha mandato ora? |
+| SERVILIO | (a parte) Guarda, per buona sorte ecco laggiù il mio signore. Ho sudato per vedere sua [[Honour\|signoria]]. (A [[Lucius\|Lucio]]) Mio onorato signore! |
+| *(didascalia)* | [[Lucius\|LUCIO]] Servilio! Ben trovato, signore. Sta’ [[Well\|bene]]. Salutami il tuo onorevole e virtuoso signore, mio squisitissimo amico. |
+| SERVILIO | Con licenza di vostro [[Honour\|onore]], il mio signore ha mandato— |
+| [[Lucius\|LUCIO]] | Ah! Che ha mandato? Sono tanto obbligato a quel signore, manda sempre qualcosa. Come lo ringrazierò, secondo te? E che ha mandato ora? |
 | SERVILIO | Ha mandato soltanto la sua presente necessità, mio signore, chiedendo a vostra signoria di soccorrere il suo immediato bisogno con altrettanti talenti. |
-| *(didascalia)* | [[Lucius|LUCIO]] |
+| *(didascalia)* | [[Lucius\|LUCIO]] |
 | SERVILIO | So che sua signoria scherza soltanto con me.<br>Non possono mancargli cinquemilacinquecento talenti. |
-| SERVILIO | Ma nel [[Time|frattempo]] gliene mancano meno, mio signore.<br>Se la sua occasione non fosse virtuosa<br>non insisterei neppure per metà con tanta fedeltà. |
-| [[Lucius|LUCIO]] | Parli sul serio, Servilio? |
-| SERVILIO | Sulla mia [[Soul|anima]], è vero, signore. |
-| [[Lucius|LUCIO]] | Che bestia malvagia fui a spogliarmi proprio in vista d’un così buon [[Time|momento]], quando avrei potuto mostrarmi onorevole! Come sfortunatamente accadde che io comprassi il giorno prima una piccola parte, e disfacessi gran parte del mio [[Honour|onore]]! Servilio, ora davanti agli dèi non sono in grado di farlo, tanto più bestia io, dico. Stavo mandando io stesso a ricorrere al signor [[Timon|Timone]]—questi gentiluomini possono testimoniarlo—ma non vorrei per tutta la ricchezza d’Atene averlo fatto ora. Salutatemi con larghezza sua buona signoria; e [[Hope|spero]] che il suo [[Honour|onore]] penserà il meglio di me, perché non ho il potere d’essere generoso. E ditegli questo da parte mia: che la considero una delle mie più grandi afflizioni, ditegli, di non poter far piacere a un così onorevole gentiluomo. Buon Servilio, mi farete l’amicizia di riferirgli le mie stesse parole? |
+| SERVILIO | Ma nel [[Time\|frattempo]] gliene mancano meno, mio signore.<br>Se la sua occasione non fosse virtuosa<br>non insisterei neppure per metà con tanta fedeltà. |
+| [[Lucius\|LUCIO]] | Parli sul serio, Servilio? |
+| SERVILIO | Sulla mia [[Soul\|anima]], è vero, signore. |
+| [[Lucius\|LUCIO]] | Che bestia malvagia fui a spogliarmi proprio in vista d’un così buon [[Time\|momento]], quando avrei potuto mostrarmi onorevole! Come sfortunatamente accadde che io comprassi il giorno prima una piccola parte, e disfacessi gran parte del mio [[Honour\|onore]]! Servilio, ora davanti agli dèi non sono in grado di farlo, tanto più bestia io, dico. Stavo mandando io stesso a ricorrere al signor [[Timon\|Timone]]—questi gentiluomini possono testimoniarlo—ma non vorrei per tutta la ricchezza d’Atene averlo fatto ora. Salutatemi con larghezza sua buona signoria; e [[Hope\|spero]] che il suo [[Honour\|onore]] penserà il meglio di me, perché non ho il potere d’essere generoso. E ditegli questo da parte mia: che la considero una delle mie più grandi afflizioni, ditegli, di non poter far piacere a un così onorevole gentiluomo. Buon Servilio, mi farete l’amicizia di riferirgli le mie stesse parole? |
 | SERVILIO | Sì, signore, lo farò. |
-| [[Lucius|LUCIO]] | Ti procurerò un buon servizio, Servilio. Esce Servilio<br><br>Vero come dicevate: [[Timon|Timone]] è davvero in ribasso;<br>e chi una volta è respinto difficilmente avrà [[Speed|fortuna]]. Esce |
+| [[Lucius\|LUCIO]] | Ti procurerò un buon servizio, Servilio. Esce Servilio<br><br>Vero come dicevate: [[Timon\|Timone]] è davvero in ribasso;<br>e chi una volta è respinto difficilmente avrà [[Speed\|fortuna]]. Esce |
 | PRIMO FORESTIERO | Osservate questo, Ostilio? |
-| SECONDO FORESTIERO | Sì, fin troppo [[Well|bene]]. |
-| PRIMO FORESTIERO | Ecco, questa è l’[[Soul|anima]] del mondo, e proprio della stessa stoffa<br>è lo spirito d’ogni adulatore. Chi può chiamarlo suo amico<br>colui che intinge nello stesso piatto? Ché, per quanto io so,<br>[[Timon|Timone]] è stato il padre di questo signore<br>e ne ha sostenuto il credito con la propria borsa,<br>ne ha sorretto il patrimonio; anzi, il denaro di [[Timon|Timone]]<br>ha pagato ai suoi uomini il salario. Non beve mai<br>senza che l’argento di [[Timon|Timone]] gli calchi il labbro;<br>eppure—oh, vedete la mostruosità dell’uomo<br>quando si mostra in forma ingrata!—<br>egli gli nega, in proporzione dei suoi averi,<br>quel che gli uomini caritatevoli danno ai mendicanti. |
+| SECONDO FORESTIERO | Sì, fin troppo [[Well\|bene]]. |
+| PRIMO FORESTIERO | Ecco, questa è l’[[Soul\|anima]] del mondo, e proprio della stessa stoffa<br>è lo spirito d’ogni adulatore. Chi può chiamarlo suo amico<br>colui che intinge nello stesso piatto? Ché, per quanto io so,<br>[[Timon\|Timone]] è stato il padre di questo signore<br>e ne ha sostenuto il credito con la propria borsa,<br>ne ha sorretto il patrimonio; anzi, il denaro di [[Timon\|Timone]]<br>ha pagato ai suoi uomini il salario. Non beve mai<br>senza che l’argento di [[Timon\|Timone]] gli calchi il labbro;<br>eppure—oh, vedete la mostruosità dell’uomo<br>quando si mostra in forma ingrata!—<br>egli gli nega, in proporzione dei suoi averi,<br>quel che gli uomini caritatevoli danno ai mendicanti. |
 | TERZO FORESTIERO | La religione ne geme. |
-| PRIMO FORESTIERO | Per parte mia,<br>non ho mai gustato [[Timon|Timone]] in vita mia,<br>né alcuna delle sue munificenze mi è mai giunta<br>a segnarmi come suo amico; eppure protesto<br>che, per il suo animo veramente nobile, l’illustre virtù<br>e l’onorevole contegno,<br>se la sua necessità si fosse servita di me<br>avrei messo in dono la mia ricchezza<br>e la metà migliore gli sarebbe tornata,<br>tanto [[Love|amo]] il suo cuore. Ma m’avvedo<br>che gli uomini devono ormai imparare a fare a meno della pietà,<br>ché il calcolo siede al di sopra della [[Conscience|coscienza]]. |
+| PRIMO FORESTIERO | Per parte mia,<br>non ho mai gustato [[Timon\|Timone]] in vita mia,<br>né alcuna delle sue munificenze mi è mai giunta<br>a segnarmi come suo amico; eppure protesto<br>che, per il suo animo veramente nobile, l’illustre virtù<br>e l’onorevole contegno,<br>se la sua necessità si fosse servita di me<br>avrei messo in dono la mia ricchezza<br>e la metà migliore gli sarebbe tornata,<br>tanto [[Love\|amo]] il suo cuore. Ma m’avvedo<br>che gli uomini devono ormai imparare a fare a meno della pietà,<br>ché il calcolo siede al di sopra della [[Conscience\|coscienza]]. |
 | *(didascalia)* | Escono |
 
 
@@ -2096,12 +2096,12 @@ The Life of [[Timon]] of Athens
 
 | Chi parla | Battuta |
 |---|---|
-| *(didascalia)* | Entra il Terzo Servo di [[Timon|Timone]], con [[Sempronius|Sempronio]], un altro degli amici di [[Timon|Timone]] |
-| [[Sempronius|SEMPRONIO]] | Deve proprio disturbare me in questo? Ehm! Più di tutti gli altri?<br>Poteva provare col signor [[Lucius|Lucio]] o con [[Lucullus|Lucullo]];<br>e ora anche Ventidio è ricco,<br>lui che riscattò dalla [[Prison|prigione]]. Tutti costoro<br>devono a lui i loro patrimoni. |
+| *(didascalia)* | Entra il Terzo Servo di [[Timon\|Timone]], con [[Sempronius\|Sempronio]], un altro degli amici di [[Timon\|Timone]] |
+| [[Sempronius\|SEMPRONIO]] | Deve proprio disturbare me in questo? Ehm! Più di tutti gli altri?<br>Poteva provare col signor [[Lucius\|Lucio]] o con [[Lucullus\|Lucullo]];<br>e ora anche Ventidio è ricco,<br>lui che riscattò dalla [[Prison\|prigione]]. Tutti costoro<br>devono a lui i loro patrimoni. |
 | SERVO | Mio signore,<br>tutti sono stati saggiati e trovati metallo vile,<br>ché tutti gli hanno rifiutato. |
-| [[Sempronius|SEMPRONIO]] | Come, gli hanno rifiutato?<br>Gli hanno rifiutato Ventidio e [[Lucullus|Lucullo]],<br>e manda a me? Tre? Ehm!<br>Mostra ben poco [[Love|amore]] o giudizio in lui.<br>Devo essere io il suo ultimo rifugio? I suoi amici, come i medici,<br>prosperano e lo abbandonano; devo prendermi io la cura?<br>M’ha molto disonorato in ciò. Sono in collera con lui,<br>che avrebbe dovuto conoscere il mio rango. Non ci vedo altro senso<br>se non che le sue necessità avrebbero dovuto corteggiare prima me,<br>ché, nella mia [[Conscience|coscienza]], io fui il primo uomo<br>che mai ricevette dono da lui.<br>E ora pensa di me così bassamente<br>ch’io lo ricambi per ultimo? No.<br>Così potrebbe diventare argomento di riso<br>per gli altri, e io fra i signori esser tenuto per uno [[Fool|sciocco]].<br>Avrei preferito, più del valore di tre volte la somma,<br>ch’egli avesse mandato prima da me, per amor del mio animo.<br>Avevo tanto [[Courage|ardore]] di fargli del bene. Ma ora torna,<br>e alla loro fiacca risposta unisci questa:<br>chi sminuisce il mio [[Honour|onore]] non conoscerà la mia moneta. |
+| [[Sempronius\|SEMPRONIO]] | Come, gli hanno rifiutato?<br>Gli hanno rifiutato Ventidio e [[Lucullus\|Lucullo]],<br>e manda a me? Tre? Ehm!<br>Mostra ben poco [[Love\|amore]] o giudizio in lui.<br>Devo essere io il suo ultimo rifugio? I suoi amici, come i medici,<br>prosperano e lo abbandonano; devo prendermi io la cura?<br>M’ha molto disonorato in ciò. Sono in collera con lui,<br>che avrebbe dovuto conoscere il mio rango. Non ci vedo altro senso<br>se non che le sue necessità avrebbero dovuto corteggiare prima me,<br>ché, nella mia [[Conscience\|coscienza]], io fui il primo uomo<br>che mai ricevette dono da lui.<br>E ora pensa di me così bassamente<br>ch’io lo ricambi per ultimo? No.<br>Così potrebbe diventare argomento di riso<br>per gli altri, e io fra i signori esser tenuto per uno [[Fool\|sciocco]].<br>Avrei preferito, più del valore di tre volte la somma,<br>ch’egli avesse mandato prima da me, per amor del mio animo.<br>Avevo tanto [[Courage\|ardore]] di fargli del bene. Ma ora torna,<br>e alla loro fiacca risposta unisci questa:<br>chi sminuisce il mio [[Honour\|onore]] non conoscerà la mia moneta. |
 | *(didascalia)* | Esce |
-| SERVO | Eccellente. Vostra signoria è un bel [[Villain|furfante]]. Il diavolo non sapeva quel che faceva quando fece l’uomo politico—così s’è rovinato da sé, e non posso pensare altro se non che alla fine le scelleratezze dell’uomo lo faranno apparire innocente. Con che bella arte questo signore si sforza d’apparire turpe! Prende modelli virtuosi per essere malvagio, come quelli che sotto un caldo e ardente zelo darebbero interi regni alle [[Fire|fiamme]]; di tale [[Nature|natura]] è il suo politico [[Love|amore]].<br>Questa era la migliore [[Hope|speranza]] del mio signore. Ora tutti sono fuggiti<br>tranne solo gli dèi. Ora i suoi amici sono morti.<br>Porte che per molti anni munifici<br>non conobbero mai i loro catenacci dovranno ora essere adoperate<br>a custodire ben chiuso il loro padrone;<br>ed ecco tutto quel che una condotta liberale concede:<br>chi non sa serbare la ricchezza deve serbare la [[house|casa]]. |
+| SERVO | Eccellente. Vostra signoria è un bel [[Villain\|furfante]]. Il diavolo non sapeva quel che faceva quando fece l’uomo politico—così s’è rovinato da sé, e non posso pensare altro se non che alla fine le scelleratezze dell’uomo lo faranno apparire innocente. Con che bella arte questo signore si sforza d’apparire turpe! Prende modelli virtuosi per essere malvagio, come quelli che sotto un caldo e ardente zelo darebbero interi regni alle [[Fire\|fiamme]]; di tale [[Nature\|natura]] è il suo politico [[Love\|amore]].<br>Questa era la migliore [[Hope\|speranza]] del mio signore. Ora tutti sono fuggiti<br>tranne solo gli dèi. Ora i suoi amici sono morti.<br>Porte che per molti anni munifici<br>non conobbero mai i loro catenacci dovranno ora essere adoperate<br>a custodire ben chiuso il loro padrone;<br>ed ecco tutto quel che una condotta liberale concede:<br>chi non sa serbare la ricchezza deve serbare la [[house\|casa]]. |
 | *(didascalia)* | Esce |
 
 
@@ -2190,78 +2190,78 @@ The Life of [[Timon]] of Athens
 
 | Chi parla | Battuta |
 |---|---|
-| *(didascalia)* | Entrano i due Servi di Varrone, incontrandone altri, tutti Servi dei creditori di [[Timon|Timone]], per attendere che egli esca. Entrano poi i Servi di [[Lucius|Lucio]], di Tito e di Ortensio |
+| *(didascalia)* | Entrano i due Servi di Varrone, incontrandone altri, tutti Servi dei creditori di [[Timon\|Timone]], per attendere che egli esca. Entrano poi i Servi di [[Lucius\|Lucio]], di Tito e di Ortensio |
 | *(didascalia)* | PRIMO SERVO DI VARRONE |
-| *(didascalia)* | [[Well|Ben]] trovati; buon giorno, Tito e Ortensio. |
+| *(didascalia)* | [[Well\|Ben]] trovati; buon giorno, Tito e Ortensio. |
 | SERVO DI TITO | Altrettanto a voi, buon Varrone. |
-| SERVO DI ORTENSIO | [[Lucius|Lucio]], come, ci troviamo tutti insieme? |
-| SERVO DI [[Lucius|LUCIO]] | Sì, e credo che un solo affare ci comandi tutti,<br>ché il mio è denaro. |
+| SERVO DI ORTENSIO | [[Lucius\|Lucio]], come, ci troviamo tutti insieme? |
+| SERVO DI [[Lucius\|LUCIO]] | Sì, e credo che un solo affare ci comandi tutti,<br>ché il mio è denaro. |
 | SERVO DI TITO | Così il loro e il nostro. |
 | *(didascalia)* | Entra un Servo di Filoto |
-| SERVO DI [[Lucius|LUCIO]] | E anche messer Filoto! |
+| SERVO DI [[Lucius\|LUCIO]] | E anche messer Filoto! |
 | SERVO DI FILOTO | Buon giorno a tutti insieme. |
-| SERVO DI [[Lucius|LUCIO]] | Benvenuto, buon fratello. Che ora credi che sia? |
+| SERVO DI [[Lucius\|LUCIO]] | Benvenuto, buon fratello. Che ora credi che sia? |
 | SERVO DI FILOTO | Va faticando verso le nove. |
-| SERVO DI [[Lucius|LUCIO]] | Già tanto? |
+| SERVO DI [[Lucius\|LUCIO]] | Già tanto? |
 | SERVO DI FILOTO | Non s’è ancora visto il mio signore? |
-| SERVO DI [[Lucius|LUCIO]] | Non ancora. |
-| SERVO DI FILOTO | Me ne [[Wonder|meraviglio]]; soleva risplendere alle sette. |
-| SERVO DI [[Lucius|LUCIO]] | Sì, ma i giorni gli si sono fatti più corti.<br>Devi considerare che un corso prodigo<br>è come quello del sole,<br>ma non, come il suo, ricuperabile. [[Fear|Temo]]<br>che sia il più fondo [[Winter|inverno]] nella borsa del signor [[Timon|Timone]]; cioè,<br>uno può frugare abbastanza a fondo, e trovar pur poco. |
-| SERVO DI FILOTO | Ho il tuo stesso [[Fear|timore]] su ciò. |
+| SERVO DI [[Lucius\|LUCIO]] | Non ancora. |
+| SERVO DI FILOTO | Me ne [[Wonder\|meraviglio]]; soleva risplendere alle sette. |
+| SERVO DI [[Lucius\|LUCIO]] | Sì, ma i giorni gli si sono fatti più corti.<br>Devi considerare che un corso prodigo<br>è come quello del sole,<br>ma non, come il suo, ricuperabile. [[Fear\|Temo]]<br>che sia il più fondo [[Winter\|inverno]] nella borsa del signor [[Timon\|Timone]]; cioè,<br>uno può frugare abbastanza a fondo, e trovar pur poco. |
+| SERVO DI FILOTO | Ho il tuo stesso [[Fear\|timore]] su ciò. |
 | SERVO DI TITO | Ti mostrerò come osservare uno strano caso.<br>Il tuo signore manda ora a chiedere denaro? |
 | SERVO DI ORTENSIO | Verissimo, lo fa. |
-| SERVO DI TITO | E porta ora gioielli avuti in dono da [[Timon|Timone]],<br>per i quali io attendo denaro. |
+| SERVO DI TITO | E porta ora gioielli avuti in dono da [[Timon\|Timone]],<br>per i quali io attendo denaro. |
 | SERVO DI ORTENSIO | È contro il mio cuore. |
-| SERVO DI [[Lucius|LUCIO]] | Nota com’è strana la cosa.<br>[[Timon|Timone]] in questo dovrebbe pagare più di quanto deve,<br>ed è proprio come se il tuo signore portasse ricchi gioielli<br>e mandasse a chiedere denaro per essi. |
-| SERVO DI ORTENSIO | Sono stanco di quest’incarico, gli dèi ne son testimoni.<br>So che il mio signore ha speso della ricchezza di [[Timon|Timone]],<br>e ora l’ingratitudine rende ciò peggiore d’un furto. |
+| SERVO DI [[Lucius\|LUCIO]] | Nota com’è strana la cosa.<br>[[Timon\|Timone]] in questo dovrebbe pagare più di quanto deve,<br>ed è proprio come se il tuo signore portasse ricchi gioielli<br>e mandasse a chiedere denaro per essi. |
+| SERVO DI ORTENSIO | Sono stanco di quest’incarico, gli dèi ne son testimoni.<br>So che il mio signore ha speso della ricchezza di [[Timon\|Timone]],<br>e ora l’ingratitudine rende ciò peggiore d’un furto. |
 | PRIMO SERVO DI VARRONE | Sì; il mio è di tremila corone. Qual è il tuo? |
-| SERVO DI [[Lucius|LUCIO]] | Cinquemila, il mio. |
+| SERVO DI [[Lucius\|LUCIO]] | Cinquemila, il mio. |
 | PRIMO SERVO DI VARRONE | È molto più alto, e parrebbe dalla somma<br>che la fiducia del tuo padrone fosse superiore alla mia,<br>altrimenti certo la sua l’avrebbe eguagliata. |
 | *(didascalia)* | Entra Flaminio |
-| SERVO DI TITO | Uno degli uomini del signor [[Timon|Timone]]. |
-| SERVO DI [[Lucius|LUCIO]] | Flaminio! Signore, una parola. Di grazia, il mio signore è 36<br>pronto a venir fuori? |
+| SERVO DI TITO | Uno degli uomini del signor [[Timon\|Timone]]. |
+| SERVO DI [[Lucius\|LUCIO]] | Flaminio! Signore, una parola. Di grazia, il mio signore è 36<br>pronto a venir fuori? |
 | FLAMINIO | No, davvero non lo è. |
 | SERVO DI TITO | Attendiamo sua signoria.<br>Di grazia, fateglielo sapere. |
 | FLAMINIO | Non ho bisogno di dirglielo;<br>egli sa che siete anche troppo diligenti. |
-| *(didascalia)* | Entra [[Flavius|Flavio]], avvolto in un mantello |
-| SERVO DI [[Lucius|LUCIO]] | Ah, non è il suo intendente così avvolto?<br>Se ne va in una nuvola. Chiamatelo, chiamatelo. |
-| SERVO DI TITO | (a [[Flavius|Flavio]]) Udite, signore? |
-| SECONDO SERVO DI VARRONE | (a [[Flavius|Flavio]]) Con vostra licenza, signore. |
-| [[Flavius|FLAVIO]] | Che chiedete da me, amico mio? |
+| *(didascalia)* | Entra [[Flavius\|Flavio]], avvolto in un mantello |
+| SERVO DI [[Lucius\|LUCIO]] | Ah, non è il suo intendente così avvolto?<br>Se ne va in una nuvola. Chiamatelo, chiamatelo. |
+| SERVO DI TITO | (a [[Flavius\|Flavio]]) Udite, signore? |
+| SECONDO SERVO DI VARRONE | (a [[Flavius\|Flavio]]) Con vostra licenza, signore. |
+| [[Flavius\|FLAVIO]] | Che chiedete da me, amico mio? |
 | SERVO DI TITO | Attendiamo qui certo denaro, signore. |
-| [[Flavius|FLAVIO]] | Sì,<br>se il denaro fosse così certo come il vostro attendere,<br>sarebbe abbastanza sicuro.<br>Perché allora non presentaste le vostre somme e le vostre fatture<br>quando i vostri falsi padroni mangiavano le vivande del mio signore?<br>Allora sapevano sorridere e adulare i suoi debiti,<br>e ingoiare gli interessi nelle loro gole ghiotte.<br>Fate torto solo a voi stessi a irritarmi.<br>Lasciatemi passare in pace.<br>Credetemi, il mio signore e io abbiamo finito.<br>Io non ho più nulla da contare, né lui da spendere. |
-| SERVO DI [[Lucius|LUCIO]] | Sì, ma questa risposta non servirà. |
-| [[Flavius|FLAVIO]] | Se non serve, non è tanto vile quanto voi,<br>ché voi servite furfanti. |
+| [[Flavius\|FLAVIO]] | Sì,<br>se il denaro fosse così certo come il vostro attendere,<br>sarebbe abbastanza sicuro.<br>Perché allora non presentaste le vostre somme e le vostre fatture<br>quando i vostri falsi padroni mangiavano le vivande del mio signore?<br>Allora sapevano sorridere e adulare i suoi debiti,<br>e ingoiare gli interessi nelle loro gole ghiotte.<br>Fate torto solo a voi stessi a irritarmi.<br>Lasciatemi passare in pace.<br>Credetemi, il mio signore e io abbiamo finito.<br>Io non ho più nulla da contare, né lui da spendere. |
+| SERVO DI [[Lucius\|LUCIO]] | Sì, ma questa risposta non servirà. |
+| [[Flavius\|FLAVIO]] | Se non serve, non è tanto vile quanto voi,<br>ché voi servite furfanti. |
 | *(didascalia)* | Esce |
 | PRIMO SERVO DI VARRONE | Come? Che borbotta sua signoria licenziata? |
-| SECONDO SERVO DI VARRONE | Non importa che cosa; è povero, e questa è [[Revenge|vendetta]] a sufficienza. Chi può parlare più liberamente di chi non ha [[house|casa]] in cui mettere il capo? Costui può ben inveire contro i grandi edifici. |
+| SECONDO SERVO DI VARRONE | Non importa che cosa; è povero, e questa è [[Revenge\|vendetta]] a sufficienza. Chi può parlare più liberamente di chi non ha [[house\|casa]] in cui mettere il capo? Costui può ben inveire contro i grandi edifici. |
 | *(didascalia)* | Entra Servilio |
 | SERVO DI TITO | Oh, ecco Servilio. Ora avremo qualche risposta. |
-| SERVILIO | Se potessi supplicarvi, signori, di tornare a qualche altra ora, ne ricaverei molto; ché, prendetelo sulla mia [[Soul|anima]], il mio signore pende straordinariamente verso lo sconforto. Il suo umore sereno l’ha abbandonato. È molto malandato in salute, e tiene la camera. |
-| SERVO DI [[Lucius|LUCIO]] | Molti tengono la camera e non sono malati,<br>e se è così al di là della sua salute<br>mi pare che dovrebbe pagare i suoi debiti tanto più presto<br>e farsi una strada libera verso gli dèi. |
+| SERVILIO | Se potessi supplicarvi, signori, di tornare a qualche altra ora, ne ricaverei molto; ché, prendetelo sulla mia [[Soul\|anima]], il mio signore pende straordinariamente verso lo sconforto. Il suo umore sereno l’ha abbandonato. È molto malandato in salute, e tiene la camera. |
+| SERVO DI [[Lucius\|LUCIO]] | Molti tengono la camera e non sono malati,<br>e se è così al di là della sua salute<br>mi pare che dovrebbe pagare i suoi debiti tanto più presto<br>e farsi una strada libera verso gli dèi. |
 | SERVILIO | Buoni dèi! |
 | SERVO DI TITO | Non possiamo prendere questa per risposta, signore. |
 | FLAMINIO | (Dall’interno)<br>Servilio, aiuto! Mio signore, mio signore! |
-| *(didascalia)* | Entra [[Timon|Timone]] infuriato |
-| [[Timon|TIMONE]] | Come, le mie porte si oppongono al mio passaggio?<br>Sono sempre stato libero, e deve la mia [[house|casa]]<br>essere il mio nemico che mi trattiene, la mia prigione?<br>Il luogo dove ho banchettato, mi mostra ora,<br>come tutto il genere umano, un cuore di ferro? |
-| SERVO DI [[Lucius|LUCIO]] | Fatti avanti ora, Tito. |
+| *(didascalia)* | Entra [[Timon\|Timone]] infuriato |
+| [[Timon\|TIMONE]] | Come, le mie porte si oppongono al mio passaggio?<br>Sono sempre stato libero, e deve la mia [[house\|casa]]<br>essere il mio nemico che mi trattiene, la mia prigione?<br>Il luogo dove ho banchettato, mi mostra ora,<br>come tutto il genere umano, un cuore di ferro? |
+| SERVO DI [[Lucius\|LUCIO]] | Fatti avanti ora, Tito. |
 | SERVO DI TITO | Mio signore, ecco la mia fattura. |
-| SERVO DI [[Lucius|LUCIO]] | Ecco la mia. |
+| SERVO DI [[Lucius\|LUCIO]] | Ecco la mia. |
 | *(didascalia)* | SERVO DI ORTENSIO E la mia, mio signore. |
 | *(didascalia)* | PRIMO e SECONDO SERVO DI VARRONE E le nostre, mio signore. |
 | SERVO DI FILOTO | Tutte le nostre fatture. |
-| [[Timon|TIMONE]] | Abbattetemi con esse, spaccatemi fino alla cintura. |
-| SERVO DI [[Lucius|LUCIO]] | Ahimè, mio signore. |
-| [[Timon|TIMONE]] | Tagliatemi il cuore in somme. 90 |
+| [[Timon\|TIMONE]] | Abbattetemi con esse, spaccatemi fino alla cintura. |
+| SERVO DI [[Lucius\|LUCIO]] | Ahimè, mio signore. |
+| [[Timon\|TIMONE]] | Tagliatemi il cuore in somme. 90 |
 | SERVO DI TITO | Il mio, cinquanta talenti. |
-| [[Timon|TIMONE]] | Contate il mio [[Blood|sangue]]. |
-| SERVO DI [[Lucius|LUCIO]] | Cinquemila corone, mio signore. |
-| [[Timon|TIMONE]] | Cinquemila gocce pagano quello. Il vostro? E il vostro? |
+| [[Timon\|TIMONE]] | Contate il mio [[Blood\|sangue]]. |
+| SERVO DI [[Lucius\|LUCIO]] | Cinquemila corone, mio signore. |
+| [[Timon\|TIMONE]] | Cinquemila gocce pagano quello. Il vostro? E il vostro? |
 | PRIMO SERVO DI VARRONE | Mio signore— |
 | SECONDO SERVO DI VARRONE | Mio signore— |
-| [[Timon|TIMONE]] | Sbranatemi, prendetemi, e gli dèi vi piombino addosso. |
+| [[Timon\|TIMONE]] | Sbranatemi, prendetemi, e gli dèi vi piombino addosso. |
 | *(didascalia)* | Esce |
-| SERVO DI ORTENSIO | [[Faith|In fede mia]], m’accorgo che i nostri padroni possono gettare i berretti dietro al loro denaro. Questi debiti si possono [[Well|ben]] chiamare disperati, ché li deve un pazzo. |
+| SERVO DI ORTENSIO | [[Faith\|In fede mia]], m’accorgo che i nostri padroni possono gettare i berretti dietro al loro denaro. Questi debiti si possono [[Well\|ben]] chiamare disperati, ché li deve un pazzo. |
 | *(didascalia)* | Escono |
 
 
@@ -2288,16 +2288,16 @@ The Life of [[Timon]] of Athens
 
 | Chi parla | Battuta |
 |---|---|
-| *(didascalia)* | Entrano [[Timon|Timone]] e [[Flavius|Flavio]] |
-| [[Timon|TIMONE]] | M’hanno proprio tolto il respiro, quegli schiavi.<br>Creditori? Demoni! |
-| [[Flavius|FLAVIO]] | Mio caro signore— |
-| [[Timon|TIMONE]] | E se fosse così? |
-| [[Flavius|FLAVIO]] | Mio signore— |
-| [[Timon|TIMONE]] | Voglio che sia così. Intendente mio! |
-| [[Flavius|FLAVIO]] | Eccomi, mio signore. |
-| [[Timon|TIMONE]] | Così a proposito? Va’ a invitare di nuovo tutti i miei amici:<br>[[Lucius|Lucio]], [[Lucullus|Lucullo]] e [[Sempronius|Sempronio]]—tutti crapuloni, tutti.<br>Voglio banchettare ancora una volta con quei furfanti. |
-| [[Flavius|FLAVIO]] | O mio signore,<br>parlate soltanto dalla vostra [[Soul|anima]] sconvolta.<br>Non resta tanto da imbandire<br>una mensa modesta. |
-| [[Timon|TIMONE]] | Non sia questa la tua cura.<br>Va’, te lo comando, invitali tutti. Lascia entrare ancora una volta<br>la marea dei furfanti. Il mio cuoco e io provvederemo. |
+| *(didascalia)* | Entrano [[Timon\|Timone]] e [[Flavius\|Flavio]] |
+| [[Timon\|TIMONE]] | M’hanno proprio tolto il respiro, quegli schiavi.<br>Creditori? Demoni! |
+| [[Flavius\|FLAVIO]] | Mio caro signore— |
+| [[Timon\|TIMONE]] | E se fosse così? |
+| [[Flavius\|FLAVIO]] | Mio signore— |
+| [[Timon\|TIMONE]] | Voglio che sia così. Intendente mio! |
+| [[Flavius\|FLAVIO]] | Eccomi, mio signore. |
+| [[Timon\|TIMONE]] | Così a proposito? Va’ a invitare di nuovo tutti i miei amici:<br>[[Lucius\|Lucio]], [[Lucullus\|Lucullo]] e [[Sempronius\|Sempronio]]—tutti crapuloni, tutti.<br>Voglio banchettare ancora una volta con quei furfanti. |
+| [[Flavius\|FLAVIO]] | O mio signore,<br>parlate soltanto dalla vostra [[Soul\|anima]] sconvolta.<br>Non resta tanto da imbandire<br>una mensa modesta. |
+| [[Timon\|TIMONE]] | Non sia questa la tua cura.<br>Va’, te lo comando, invitali tutti. Lascia entrare ancora una volta<br>la marea dei furfanti. Il mio cuoco e io provvederemo. |
 | *(didascalia)* | Escono da parti diverse |
 
 
@@ -2344,34 +2344,34 @@ The Life of [[Timon]] of Athens
 | Chi parla | Battuta |
 |---|---|
 | *(didascalia)* | Entrano tre Senatori da una porta |
-| PRIMO SENATORE | Miei signori, avete il mio voto. La colpa è sanguinosa.<br>È necessario che muoia.<br>Nulla incoraggia il peccato quanto la [[Mercy|clemenza]]. |
+| PRIMO SENATORE | Miei signori, avete il mio voto. La colpa è sanguinosa.<br>È necessario che muoia.<br>Nulla incoraggia il peccato quanto la [[Mercy\|clemenza]]. |
 | SECONDO SENATORE | Verissimo; la legge lo schiaccerà. |
-| *(didascalia)* | Entra [[Alcibiades|Alcibiade]] da un’altra porta, con seguito |
-| [[Alcibiades|ALCIBIADE]] | [[Honour|Onore]], salute e compassione al senato! |
+| *(didascalia)* | Entra [[Alcibiades\|Alcibiade]] da un’altra porta, con seguito |
+| [[Alcibiades\|ALCIBIADE]] | [[Honour\|Onore]], salute e compassione al senato! |
 | PRIMO SENATORE | Ebbene, capitano. |
-| [[Alcibiades|ALCIBIADE]] | Sono un umile supplice delle vostre virtù;<br>ché la pietà è la virtù della legge,<br>e nessuno se non i tiranni l’usa crudelmente.<br>Piace al [[Time|tempo]] e alla fortuna di gravare pesantemente<br>sopra un mio amico, il quale in caldo [[Blood|sangue]]<br>è incorso nella legge, che è di profondità smisurata<br>per quelli che senza cautela vi si tuffano.<br>Egli è uomo, messo da parte il suo atto,<br>di belle virtù;<br>né macchiò il fatto di viltà—<br>un [[Honour|onore]] in lui che riscatta la sua colpa—<br>ma con nobile furore e franco spirito,<br>vedendo la propria reputazione ferita a [[Death|morte]],<br>affrontò il suo nemico;<br>e con passione così pacata e composta<br>governò la sua collera, prima che si sfogasse,<br>come se non avesse fatto che sostenere un ragionamento. |
-| PRIMO SENATORE | Sostenete un troppo arduo [[Paradox|paradosso]],<br>sforzandovi di far apparire bella una brutta azione.<br>Le vostre parole si son date tanta pena come se s’affaticassero<br>a mettere in forma l’omicidio, e a porre la rissa<br>sul capo del valore—il quale in verità<br>è valore mal generato, e venne al mondo<br>quando sette e fazioni erano appena nate.<br>Veramente valoroso è colui che sa saggiamente sopportare<br>il peggio che uomo possa proferire, e fare dei propri<br>torti la sua veste esteriore,<br>per portarli con noncuranza come un abito,<br>e mai accostare le offese al cuore<br>per metterlo in pericolo.<br>Se i torti sono mali e ci costringono a uccidere,<br>che follia è rischiare la vita per il male! |
-| [[Alcibiades|ALCIBIADE]] | Mio signore— |
-| PRIMO SENATORE | Non potete far apparire limpidi i peccati grossolani.<br>[[Revenge|Vendicarsi]] non è valore, ma sopportare. |
-| [[Alcibiades|ALCIBIADE]] | Miei signori, allora, con vostra licenza, perdonatemi<br>se parlo da capitano.<br>Perché gli uomini insensati s’espongono alla battaglia,<br>e non sopportano ogni minaccia, e non ci [[Sleep|dormono]] sopra,<br>e non lasciano che i nemici tranquillamente taglino loro la gola<br>senza opporsi? Se c’è<br>tanto valore nel sopportare, che facciamo noi<br>in campo? Ebbene allora, più valorose sono le donne<br>che restano a [[Home|casa]], se il sopportare è ciò che conta,<br>e l’asino più capitano del [[Lion|leone]], e il malfattore<br>carico di ferri più savio del giudice,<br>se la saggezza sta nel [[Suffering|patire]]. O miei signori,<br>come siete grandi, siate pietosamente buoni.<br>Chi non sa condannare l’avventatezza a [[Blood|sangue]] freddo?<br>Uccidere, lo concedo, è la raffica estrema del peccato,<br>ma in difesa, per [[Mercy|misericordia]], è cosa giustissima.<br>Essere in collera è empietà,<br>ma chi è uomo che non s’adiri?<br>Pesate il delitto soltanto con questo. |
+| [[Alcibiades\|ALCIBIADE]] | Sono un umile supplice delle vostre virtù;<br>ché la pietà è la virtù della legge,<br>e nessuno se non i tiranni l’usa crudelmente.<br>Piace al [[Time\|tempo]] e alla fortuna di gravare pesantemente<br>sopra un mio amico, il quale in caldo [[Blood\|sangue]]<br>è incorso nella legge, che è di profondità smisurata<br>per quelli che senza cautela vi si tuffano.<br>Egli è uomo, messo da parte il suo atto,<br>di belle virtù;<br>né macchiò il fatto di viltà—<br>un [[Honour\|onore]] in lui che riscatta la sua colpa—<br>ma con nobile furore e franco spirito,<br>vedendo la propria reputazione ferita a [[Death\|morte]],<br>affrontò il suo nemico;<br>e con passione così pacata e composta<br>governò la sua collera, prima che si sfogasse,<br>come se non avesse fatto che sostenere un ragionamento. |
+| PRIMO SENATORE | Sostenete un troppo arduo [[Paradox\|paradosso]],<br>sforzandovi di far apparire bella una brutta azione.<br>Le vostre parole si son date tanta pena come se s’affaticassero<br>a mettere in forma l’omicidio, e a porre la rissa<br>sul capo del valore—il quale in verità<br>è valore mal generato, e venne al mondo<br>quando sette e fazioni erano appena nate.<br>Veramente valoroso è colui che sa saggiamente sopportare<br>il peggio che uomo possa proferire, e fare dei propri<br>torti la sua veste esteriore,<br>per portarli con noncuranza come un abito,<br>e mai accostare le offese al cuore<br>per metterlo in pericolo.<br>Se i torti sono mali e ci costringono a uccidere,<br>che follia è rischiare la vita per il male! |
+| [[Alcibiades\|ALCIBIADE]] | Mio signore— |
+| PRIMO SENATORE | Non potete far apparire limpidi i peccati grossolani.<br>[[Revenge\|Vendicarsi]] non è valore, ma sopportare. |
+| [[Alcibiades\|ALCIBIADE]] | Miei signori, allora, con vostra licenza, perdonatemi<br>se parlo da capitano.<br>Perché gli uomini insensati s’espongono alla battaglia,<br>e non sopportano ogni minaccia, e non ci [[Sleep\|dormono]] sopra,<br>e non lasciano che i nemici tranquillamente taglino loro la gola<br>senza opporsi? Se c’è<br>tanto valore nel sopportare, che facciamo noi<br>in campo? Ebbene allora, più valorose sono le donne<br>che restano a [[Home\|casa]], se il sopportare è ciò che conta,<br>e l’asino più capitano del [[Lion\|leone]], e il malfattore<br>carico di ferri più savio del giudice,<br>se la saggezza sta nel [[Suffering\|patire]]. O miei signori,<br>come siete grandi, siate pietosamente buoni.<br>Chi non sa condannare l’avventatezza a [[Blood\|sangue]] freddo?<br>Uccidere, lo concedo, è la raffica estrema del peccato,<br>ma in difesa, per [[Mercy\|misericordia]], è cosa giustissima.<br>Essere in collera è empietà,<br>ma chi è uomo che non s’adiri?<br>Pesate il delitto soltanto con questo. |
 | SECONDO SENATORE | Sprecate fiato. |
-| [[Alcibiades|ALCIBIADE]] | Sprecato?<br>I servigi da lui resi a Lacedemone e a Bisanzio<br>basterebbero a riscattare la sua vita. |
+| [[Alcibiades\|ALCIBIADE]] | Sprecato?<br>I servigi da lui resi a Lacedemone e a Bisanzio<br>basterebbero a riscattare la sua vita. |
 | PRIMO SENATORE | Che c’entra questo? |
-| [[Alcibiades|ALCIBIADE]] | Dico, miei signori, ch’egli ha reso bei servigi,<br>e ucciso in battaglia molti dei vostri nemici.<br>Con quanto valore si comportò<br>nell’ultimo scontro, e quante ferite inflisse! |
+| [[Alcibiades\|ALCIBIADE]] | Dico, miei signori, ch’egli ha reso bei servigi,<br>e ucciso in battaglia molti dei vostri nemici.<br>Con quanto valore si comportò<br>nell’ultimo scontro, e quante ferite inflisse! |
 | SECONDO SENATORE | Ne ha fatta anche troppa abbondanza.<br>È uno sfrenato giurato; ha un vizio<br>che spesso lo annega e gli fa prigioniero il valore.<br>Se non ci fossero nemici, quello basterebbe<br>a vincerlo. In quel furore bestiale<br>è noto che ha commesso oltraggi<br>e alimentato fazioni. Ci vien riferito<br>che i suoi giorni sono turpi e il suo bere pericoloso. |
 | PRIMO SENATORE | Muoia. |
-| [[Alcibiades|ALCIBIADE]] | Dura sorte! Poteva morire in guerra.<br>Miei signori, se non per alcuna sua qualità—<br>benché il suo braccio destro potrebbe comprarsi il proprio [[Time|tempo]]<br>e non esser debitore a nessuno—pure, per commuovervi di più,<br>prendete i miei meriti insieme ai suoi e uniteli entrambi.<br>E poiché so<br>che le vostre venerande età [[Love|amano]] la garanzia,<br>vi darò in pegno le mie vittorie, tutto il mio [[Honour|onore]]<br>sul suo buon ravvedimento.<br>Se per questo delitto egli deve la vita alla legge,<br>ebbene, la riceva la guerra in valoroso sangue,<br>ché la legge è severa, e la guerra non è nulla di più. |
-| PRIMO SENATORE | Noi stiamo per la legge; egli muore. Non insistete oltre,<br>a costo del colmo del nostro sdegno. Amico o fratello,<br>perde il proprio [[Blood|sangue]] chi versa quello d’un altro. |
-| [[Alcibiades|ALCIBIADE]] | Dev’essere così? Non dev’essere.<br>Miei signori, vi supplico, riconoscetemi. |
+| [[Alcibiades\|ALCIBIADE]] | Dura sorte! Poteva morire in guerra.<br>Miei signori, se non per alcuna sua qualità—<br>benché il suo braccio destro potrebbe comprarsi il proprio [[Time\|tempo]]<br>e non esser debitore a nessuno—pure, per commuovervi di più,<br>prendete i miei meriti insieme ai suoi e uniteli entrambi.<br>E poiché so<br>che le vostre venerande età [[Love\|amano]] la garanzia,<br>vi darò in pegno le mie vittorie, tutto il mio [[Honour\|onore]]<br>sul suo buon ravvedimento.<br>Se per questo delitto egli deve la vita alla legge,<br>ebbene, la riceva la guerra in valoroso sangue,<br>ché la legge è severa, e la guerra non è nulla di più. |
+| PRIMO SENATORE | Noi stiamo per la legge; egli muore. Non insistete oltre,<br>a costo del colmo del nostro sdegno. Amico o fratello,<br>perde il proprio [[Blood\|sangue]] chi versa quello d’un altro. |
+| [[Alcibiades\|ALCIBIADE]] | Dev’essere così? Non dev’essere.<br>Miei signori, vi supplico, riconoscetemi. |
 | SECONDO SENATORE | Come? |
-| [[Alcibiades|ALCIBIADE]] | Richiamatemi alla vostra memoria. |
+| [[Alcibiades\|ALCIBIADE]] | Richiamatemi alla vostra memoria. |
 | TERZO SENATORE | Che cosa? |
-| [[Alcibiades|ALCIBIADE]] | Non posso pensare altro se non che la vostra età m’abbia dimenticato.<br>Non potrebbe altrimenti essere ch’io mi mostrassi tanto vile<br>da chiedere e vedermi negare una grazia così comune.<br>Le mie ferite mi dolgono per causa vostra. |
+| [[Alcibiades\|ALCIBIADE]] | Non posso pensare altro se non che la vostra età m’abbia dimenticato.<br>Non potrebbe altrimenti essere ch’io mi mostrassi tanto vile<br>da chiedere e vedermi negare una grazia così comune.<br>Le mie ferite mi dolgono per causa vostra. |
 | PRIMO SENATORE | Osate sfidare la nostra collera?<br>È in poche parole, ma ampia negli effetti:<br>ti bandiamo per sempre. |
-| [[Alcibiades|ALCIBIADE]] | Bandire me?<br>Bandite il vostro rimbambimento, bandite l’usura<br>che rende turpe il senato. |
+| [[Alcibiades\|ALCIBIADE]] | Bandire me?<br>Bandite il vostro rimbambimento, bandite l’usura<br>che rende turpe il senato. |
 | PRIMO SENATORE | Se dopo due giorni di sole<br>Atene ti conterrà ancora, aspettati un giudizio più grave;<br>e, per non gonfiare il vostro spirito, egli sarà<br>giustiziato immediatamente. |
 | *(didascalia)* | Escono i Senatori e il seguito |
-| [[Alcibiades|ALCIBIADE]] | Ora gli dèi vi conservino tanto vecchi che possiate vivere<br>solo in ossa, sì che nessuno voglia guardarvi!<br>Sono peggio che pazzo. Io ho tenuto lontani i loro nemici<br>mentre essi contavano il loro denaro e prestavano<br>la loro moneta a grossi interessi—io stesso,<br>ricco soltanto di larghe ferite. Tutto questo per questo?<br>È questo il balsamo che il senato usuraio<br>versa nelle ferite dei capitani? Bando!<br>Non giunge male; non mi spiace essere bandito.<br>È una causa degna del mio livore e del mio furore,<br>ch’io possa colpire Atene. Rincuorerò<br>le mie truppe scontente, e mi metterò a conquistare cuori.<br>È [[Honour|onore]] essere in urto con la maggior parte dei paesi.<br>I soldati dovrebbero tollerare i torti quanto poco li tollerano gli dèi. |
+| [[Alcibiades\|ALCIBIADE]] | Ora gli dèi vi conservino tanto vecchi che possiate vivere<br>solo in ossa, sì che nessuno voglia guardarvi!<br>Sono peggio che pazzo. Io ho tenuto lontani i loro nemici<br>mentre essi contavano il loro denaro e prestavano<br>la loro moneta a grossi interessi—io stesso,<br>ricco soltanto di larghe ferite. Tutto questo per questo?<br>È questo il balsamo che il senato usuraio<br>versa nelle ferite dei capitani? Bando!<br>Non giunge male; non mi spiace essere bandito.<br>È una causa degna del mio livore e del mio furore,<br>ch’io possa colpire Atene. Rincuorerò<br>le mie truppe scontente, e mi metterò a conquistare cuori.<br>È [[Honour\|onore]] essere in urto con la maggior parte dei paesi.<br>I soldati dovrebbero tollerare i torti quanto poco li tollerano gli dèi. |
 | *(didascalia)* | Esce |
 
 
@@ -2460,11 +2460,11 @@ The Life of [[Timon]] of Athens
 
 | Chi parla | Battuta |
 |---|---|
-| *(didascalia)* | Entrano diversi amici di [[Timon|Timone]], fra loro [[Lucullus|Lucullo]], [[Lucius|Lucio]], [[Sempronius|Sempronio]], e altri Signori e Senatori, da diverse porte |
-| PRIMO SIGNORE | Il buon [[Time|giorno]] a voi, signore. |
+| *(didascalia)* | Entrano diversi amici di [[Timon\|Timone]], fra loro [[Lucullus\|Lucullo]], [[Lucius\|Lucio]], [[Sempronius\|Sempronio]], e altri Signori e Senatori, da diverse porte |
+| PRIMO SIGNORE | Il buon [[Time\|giorno]] a voi, signore. |
 | SECONDO SIGNORE | Ve lo auguro anch’io. Credo che quest’onorevole signore l’altro giorno non facesse che metterci alla prova. |
-| PRIMO SIGNORE | Su questo si affaticavano i miei pensieri quando c’incontrammo. [[Hope|Spero]] che non sia in così basso stato come volle far apparire nella prova dei suoi vari amici. |
-| SECONDO SIGNORE | Non dovrebbe esserlo, a [[Persuasion|persuasione]] del suo nuovo banchetto. |
+| PRIMO SIGNORE | Su questo si affaticavano i miei pensieri quando c’incontrammo. [[Hope\|Spero]] che non sia in così basso stato come volle far apparire nella prova dei suoi vari amici. |
+| SECONDO SIGNORE | Non dovrebbe esserlo, a [[Persuasion\|persuasione]] del suo nuovo banchetto. |
 | PRIMO SIGNORE | Credo di sì. M’ha mandato un caldo invito, che molte mie prossime occupazioni mi spingevano a declinare, ma egli m’ha scongiurato al di là di esse, e devo pur comparire. |
 | SECONDO SIGNORE | Allo stesso modo ero io debitore ai miei affari pressanti, ma non volle udire la mia scusa. Mi dispiace che, quando mandò a chiedermi in prestito, la mia provvista fosse esaurita. |
 | PRIMO SIGNORE | Anch’io soffro di quel dolore, ora che comprendo come vanno le cose. |
@@ -2473,63 +2473,63 @@ The Life of [[Timon]] of Athens
 | SECONDO SIGNORE | Mille pezzi? |
 | PRIMO SIGNORE | E da voi? |
 | SECONDO SIGNORE | Mandò da me, signore— |
-| *(didascalia)* | Musica alta. Entrano [[Timon|Timone]] e il seguito |
+| *(didascalia)* | Musica alta. Entrano [[Timon\|Timone]] e il seguito |
 | SECONDO SIGNORE | Eccolo che viene. |
-| [[Timon|TIMONE]] | Con tutto il cuore, gentiluomini entrambi; e come state? |
-| PRIMO SIGNORE | Sempre al meglio, udendo [[Well|bene]] di vostra signoria. |
-| SECONDO SIGNORE | La [[Swallow|rondine]] non segue l’[[Summer|estate]] più volentieri di quanto noi seguiamo vostra signoria. |
-| [[Timon|TIMONE]] | (a parte) Né più volentieri [[Leaves|lascia]] l’[[Winter|inverno]]: tali [[Birds|uccelli]] d’[[Summer|estate]] sono gli uomini.—Gentiluomini, il nostro pranzo non ricompenserà questa lunga attesa. Banchettate un poco le vostre orecchie con la musica, se vorranno cibarsi così aspramente del suono delle trombe; ci metteremo a tavola fra poco. |
-| PRIMO SIGNORE | [[Hope|Spero]] che vostra signoria non serbi rancore perché vi rimandai un messaggero a mani vuote. |
-| [[Timon|TIMONE]] | Oh signore, non ve ne date pensiero. |
+| [[Timon\|TIMONE]] | Con tutto il cuore, gentiluomini entrambi; e come state? |
+| PRIMO SIGNORE | Sempre al meglio, udendo [[Well\|bene]] di vostra signoria. |
+| SECONDO SIGNORE | La [[Swallow\|rondine]] non segue l’[[Summer\|estate]] più volentieri di quanto noi seguiamo vostra signoria. |
+| [[Timon\|TIMONE]] | (a parte) Né più volentieri [[Leaves\|lascia]] l’[[Winter\|inverno]]: tali [[Birds\|uccelli]] d’[[Summer\|estate]] sono gli uomini.—Gentiluomini, il nostro pranzo non ricompenserà questa lunga attesa. Banchettate un poco le vostre orecchie con la musica, se vorranno cibarsi così aspramente del suono delle trombe; ci metteremo a tavola fra poco. |
+| PRIMO SIGNORE | [[Hope\|Spero]] che vostra signoria non serbi rancore perché vi rimandai un messaggero a mani vuote. |
+| [[Timon\|TIMONE]] | Oh signore, non ve ne date pensiero. |
 | SECONDO SIGNORE | Mio nobile signore— |
-| [[Timon|TIMONE]] | Ah, mio buon amico, come va? |
+| [[Timon\|TIMONE]] | Ah, mio buon amico, come va? |
 | *(didascalia)* | Vengono portati una tavola e degli sgabelli |
 | SECONDO SIGNORE | Mio onoratissimo signore, sono proprio malato di vergogna che, quando vostra signoria mandò da me l’altro giorno, io fossi un mendicante così sfortunato. |
-| [[Timon|TIMONE]] | Non pensateci, signore. |
+| [[Timon\|TIMONE]] | Non pensateci, signore. |
 | SECONDO SIGNORE | Se solo aveste mandato due ore prima— |
-| [[Timon|TIMONE]] | Non ingombri la vostra migliore memoria.—Su, portate tutto insieme. |
+| [[Timon\|TIMONE]] | Non ingombri la vostra migliore memoria.—Su, portate tutto insieme. |
 | *(didascalia)* | Entrano i Servi con piatti coperti |
 | SECONDO SIGNORE | Tutti piatti coperti. |
 | PRIMO SIGNORE | Cibo regale, ve lo garantisco. |
-| TERZO SIGNORE | Non [[Doubt|dubitatene]], se il denaro e la stagione possono darlo. |
+| TERZO SIGNORE | Non [[Doubt\|dubitatene]], se il denaro e la stagione possono darlo. |
 | PRIMO SIGNORE | Come state? Che notizie ci sono? |
-| TERZO SIGNORE | [[Alcibiades|Alcibiade]] è bandito. L’avete saputo? |
-| PRIMO | e SECONDO SIGNORE [[Alcibiades|Alcibiade]] bandito? |
+| TERZO SIGNORE | [[Alcibiades\|Alcibiade]] è bandito. L’avete saputo? |
+| PRIMO | e SECONDO SIGNORE [[Alcibiades\|Alcibiade]] bandito? |
 | TERZO SIGNORE | È così, statene certi. |
 | PRIMO SIGNORE | Come, come? |
 | SECONDO SIGNORE | Di grazia, per che cosa? |
-| [[Timon|TIMONE]] | Miei degni amici, volete accostarvi? |
+| [[Timon\|TIMONE]] | Miei degni amici, volete accostarvi? |
 | TERZO SIGNORE | Ve ne dirò di più fra poco. Ecco un nobile banchetto in arrivo. |
 | SECONDO SIGNORE | È sempre l’uomo di prima. |
 | TERZO SIGNORE | Durerà, durerà? |
-| SECONDO SIGNORE | Dura; ma il [[Time|tempo]] farà—e così— |
+| SECONDO SIGNORE | Dura; ma il [[Time\|tempo]] farà—e così— |
 | TERZO SIGNORE | Intendo. 64 |
-| [[Timon|TIMONE]] | Ognuno al suo sgabello con lo stesso slancio con cui andrebbe alle labbra della sua amante. Il vostro cibo sarà uguale in ogni posto. Non ne fate un banchetto di [[City|città]], da lasciar raffreddare le vivande prima d’accordarci sul primo posto. Sedete, sedete. Gli dèi esigono i nostri ringraziamenti.<br>Siedono<br>Voi grandi benefattori, spargete di gratitudine la nostra compagnia. Per i vostri doni fatevi lodare; ma serbate sempre da dare, perché le vostre divinità non siano disprezzate. Prestate a ciascuno abbastanza perché l’uno non debba prestare all’altro; ché se le vostre divinità dovessero chiedere in prestito agli uomini, gli uomini abbandonerebbero gli dèi. Fate che le vivande siano amate più di chi le dona. Nessuna adunanza di venti sia senza una ventina di furfanti. Se dodici donne siedono a tavola, che una dozzina di loro sia quel che è. Il resto dei vostri nemici, o dèi—i senatori d’Atene, insieme alla comune marmaglia del popolo—ciò che in loro è guasto, voi dèi, rendetelo adatto alla distruzione. Quanto a questi miei amici presenti, come essi non sono nulla per me, così in nulla benediteli; e a nulla siano i benvenuti.—Scoprite, [[dogs|cani]], e lappate. |
-| *(didascalia)* | I piatti vengono scoperti, e si vedono pieni d’[[Water|acqua]] fumante e di pietre |
+| [[Timon\|TIMONE]] | Ognuno al suo sgabello con lo stesso slancio con cui andrebbe alle labbra della sua amante. Il vostro cibo sarà uguale in ogni posto. Non ne fate un banchetto di [[City\|città]], da lasciar raffreddare le vivande prima d’accordarci sul primo posto. Sedete, sedete. Gli dèi esigono i nostri ringraziamenti.<br>Siedono<br>Voi grandi benefattori, spargete di gratitudine la nostra compagnia. Per i vostri doni fatevi lodare; ma serbate sempre da dare, perché le vostre divinità non siano disprezzate. Prestate a ciascuno abbastanza perché l’uno non debba prestare all’altro; ché se le vostre divinità dovessero chiedere in prestito agli uomini, gli uomini abbandonerebbero gli dèi. Fate che le vivande siano amate più di chi le dona. Nessuna adunanza di venti sia senza una ventina di furfanti. Se dodici donne siedono a tavola, che una dozzina di loro sia quel che è. Il resto dei vostri nemici, o dèi—i senatori d’Atene, insieme alla comune marmaglia del popolo—ciò che in loro è guasto, voi dèi, rendetelo adatto alla distruzione. Quanto a questi miei amici presenti, come essi non sono nulla per me, così in nulla benediteli; e a nulla siano i benvenuti.—Scoprite, [[dogs\|cani]], e lappate. |
+| *(didascalia)* | I piatti vengono scoperti, e si vedono pieni d’[[Water\|acqua]] fumante e di pietre |
 | ALCUNI SIGNORI | Che intende sua signoria? |
 | ALTRI SIGNORI | Non so. |
-| [[Timon|TIMONE]] | Possiate non vedere mai un banchetto migliore,<br>voi manipolo d’amici di bocca. Fumo e [[Water|acqua]] tiepida<br>è la vostra perfezione. Questo è l’ultimo di [[Timon|Timone]],<br>il quale, incrostato e infiorato della vostra adulazione,<br>se la lava via, e vi spruzza in faccia<br>la vostra fetida infamia. |
-| *(didascalia)* | Getta loro l’[[Water|acqua]] in faccia |
-| [[Timon|TIMONE]] | Vivete odiati e a lungo,<br>sorridentissimi, lisci, detestati parassiti,<br>cortesi distruttori, affabili lupi, miti orsi,<br>voi sciocchi della fortuna, amici da tavola, mosche del [[Time|tempo]],<br>schiavi da berretto e ginocchio, vapori, pupazzi da orologio!<br>D’uomo e di bestia l’infinito morbo<br>vi ricopra tutti d’una crosta. |
+| [[Timon\|TIMONE]] | Possiate non vedere mai un banchetto migliore,<br>voi manipolo d’amici di bocca. Fumo e [[Water\|acqua]] tiepida<br>è la vostra perfezione. Questo è l’ultimo di [[Timon\|Timone]],<br>il quale, incrostato e infiorato della vostra adulazione,<br>se la lava via, e vi spruzza in faccia<br>la vostra fetida infamia. |
+| *(didascalia)* | Getta loro l’[[Water\|acqua]] in faccia |
+| [[Timon\|TIMONE]] | Vivete odiati e a lungo,<br>sorridentissimi, lisci, detestati parassiti,<br>cortesi distruttori, affabili lupi, miti orsi,<br>voi sciocchi della fortuna, amici da tavola, mosche del [[Time\|tempo]],<br>schiavi da berretto e ginocchio, vapori, pupazzi da orologio!<br>D’uomo e di bestia l’infinito morbo<br>vi ricopra tutti d’una crosta. |
 | *(didascalia)* | Un Signore se ne va |
-| [[Timon|TIMONE]] | Come, te ne vai?<br>Piano, prendi prima la tua medicina. Anche tu, e tu. |
+| [[Timon\|TIMONE]] | Come, te ne vai?<br>Piano, prendi prima la tua medicina. Anche tu, e tu. |
 | *(didascalia)* | Li percuote |
-| [[Timon|TIMONE]] | Fermo, ti presterò denaro, non ne prenderò a prestito. |
+| [[Timon\|TIMONE]] | Fermo, ti presterò denaro, non ne prenderò a prestito. |
 | *(didascalia)* | Escono i Signori, lasciando berretti e toghe |
-| [[Timon|TIMONE]] | Come, tutti in fuga? D’ora innanzi non vi sia banchetto<br>in cui un [[Villain|furfante]] non sia ospite gradito.<br>Brucia, [[house|casa]]! Sprofonda, Atene! D’ora innanzi siano odiati<br>da [[Timon|Timone]] l’uomo e tutta l’umanità! |
+| [[Timon\|TIMONE]] | Come, tutti in fuga? D’ora innanzi non vi sia banchetto<br>in cui un [[Villain\|furfante]] non sia ospite gradito.<br>Brucia, [[house\|casa]]! Sprofonda, Atene! D’ora innanzi siano odiati<br>da [[Timon\|Timone]] l’uomo e tutta l’umanità! |
 | *(didascalia)* | Esce |
 | *(didascalia)* | Entrano i Senatori e gli altri Signori |
 | PRIMO SIGNORE | Ebbene, miei signori? |
-| SECONDO SIGNORE | Conoscete la qualità del furore del signor [[Timon|Timone]]? |
+| SECONDO SIGNORE | Conoscete la qualità del furore del signor [[Timon\|Timone]]? |
 | TERZO SIGNORE | Puah! Avete visto il mio berretto? |
 | QUARTO SIGNORE | Ho perso la mia toga. |
-| PRIMO SIGNORE | Non è che un signore pazzo, e nulla se non gli umori lo governa. Mi diede un [[Jewel|gioiello]] l’altro giorno, e ora me l’ha battuto fuori dal cappello. Avete visto il mio [[Jewel|gioiello]]? |
+| PRIMO SIGNORE | Non è che un signore pazzo, e nulla se non gli umori lo governa. Mi diede un [[Jewel\|gioiello]] l’altro giorno, e ora me l’ha battuto fuori dal cappello. Avete visto il mio [[Jewel\|gioiello]]? |
 | *(didascalia)* | TERZO SIGNORE Avete visto il mio berretto? |
 | *(didascalia)* | SECONDO SIGNORE |
 | PRIMO SIGNORE | Eccolo qui. |
 | QUARTO SIGNORE | Qui giace la mia toga. |
 | PRIMO SIGNORE | Non indugiamo. |
-| SECONDO SIGNORE | Il signor [[Timon|Timone]] è pazzo. |
+| SECONDO SIGNORE | Il signor [[Timon\|Timone]] è pazzo. |
 | TERZO SIGNORE | Lo sento sulle mie ossa. |
 | QUARTO SIGNORE | Un giorno ci dà diamanti, il giorno dopo pietre. |
 | *(didascalia)* | Escono |
@@ -2552,10 +2552,10 @@ The Life of [[Timon]] of Athens
 
 | Chi parla | Battuta |
 |---|---|
-| *(didascalia)* | Entra [[Timon|Timone]] |
-| [[Timon|TIMONE]] | Lascia ch’io mi volga a guardarti. O tu, muro<br>che cingi quei lupi, sprofonda nella terra,<br>e non difendere Atene! Matrone, fatevi incontinenti!<br>Manchi l’obbedienza nei figli! Schiavi e sciocchi,<br>strappate dal seggio il [[Grave|grave]] senato rugoso<br>e governate in loro vece! In lordure comuni<br>[[convert|convertitevi]] all’istante, verde verginità!<br>Fatelo sotto gli occhi dei vostri genitori. Falliti, tenete duro!<br>Piuttosto che restituire, fuori i coltelli,<br>e tagliate la gola a chi vi diede fiducia. Servi legati, rubate!<br>Ladri dalla mano larga sono i vostri [[Grave|gravi]] padroni,<br>e saccheggiano per legge. Ancella, al letto del tuo padrone!<br>La tua padrona è al bordello. Figlio di sedici anni,<br>strappa la gruccia imbottita al tuo vecchio padre zoppo;<br>e con quella fagli saltare le cervella! Pietà e [[Fear|timore]],<br>religione verso gli dèi, pace, giustizia, [[Truth|verità]],<br>rispetto domestico, riposo della [[Night|notte]], e buon vicinato,<br>istruzione, costumi, misteri e mestieri,<br>gradi, osservanze, usanze e leggi,<br>degenerate nei vostri contrari che tutto confondono,<br>e viva la confusione! Pesti che toccate agli uomini,<br>ammucchiate le vostre potenti e infettive febbri<br>su Atene, matura per il colpo! Tu, fredda sciatica,<br>storpia i nostri senatori, sì che le loro membra zoppichino<br>come zoppicano i loro costumi! Lussuria e licenza,<br>insinuatevi nelle menti e nei midolli della nostra gioventù,<br>sì che contro la corrente della virtù essa si sforzi<br>e s’anneghi nella dissolutezza! Pruriti e pustole,<br>seminate tutti i petti ateniesi, e il loro raccolto<br>sia lebbra universale! Il fiato infetti il fiato,<br>sì che il loro consorzio, come la loro [[Friendship|amicizia]], sia<br>puro e semplice [[Poison|veleno]]! |
-| *(didascalia)* | Si [[Tears|strappa]] di dosso le vesti |
-| [[Timon|TIMONE]] | Nulla porterò via da te<br>se non la [[Nakedness|nudità]], città detestabile;<br>prenditi anche quella, con moltiplicate maledizioni.<br>[[Timon|Timone]] andrà ai boschi, dove troverà<br>la belva più crudele più benigna del genere umano.<br>Gli dèi confondano—uditemi, voi tutti buoni dèi—<br>gli Ateniesi, tanto dentro quanto fuori di quel muro;<br>e concedano che, come [[Timon|Timone]] cresce, cresca il suo odio<br>verso tutta la razza umana, alti e bassi.<br>Amen. |
+| *(didascalia)* | Entra [[Timon\|Timone]] |
+| [[Timon\|TIMONE]] | Lascia ch’io mi volga a guardarti. O tu, muro<br>che cingi quei lupi, sprofonda nella terra,<br>e non difendere Atene! Matrone, fatevi incontinenti!<br>Manchi l’obbedienza nei figli! Schiavi e sciocchi,<br>strappate dal seggio il [[Grave\|grave]] senato rugoso<br>e governate in loro vece! In lordure comuni<br>[[convert\|convertitevi]] all’istante, verde verginità!<br>Fatelo sotto gli occhi dei vostri genitori. Falliti, tenete duro!<br>Piuttosto che restituire, fuori i coltelli,<br>e tagliate la gola a chi vi diede fiducia. Servi legati, rubate!<br>Ladri dalla mano larga sono i vostri [[Grave\|gravi]] padroni,<br>e saccheggiano per legge. Ancella, al letto del tuo padrone!<br>La tua padrona è al bordello. Figlio di sedici anni,<br>strappa la gruccia imbottita al tuo vecchio padre zoppo;<br>e con quella fagli saltare le cervella! Pietà e [[Fear\|timore]],<br>religione verso gli dèi, pace, giustizia, [[Truth\|verità]],<br>rispetto domestico, riposo della [[Night\|notte]], e buon vicinato,<br>istruzione, costumi, misteri e mestieri,<br>gradi, osservanze, usanze e leggi,<br>degenerate nei vostri contrari che tutto confondono,<br>e viva la confusione! Pesti che toccate agli uomini,<br>ammucchiate le vostre potenti e infettive febbri<br>su Atene, matura per il colpo! Tu, fredda sciatica,<br>storpia i nostri senatori, sì che le loro membra zoppichino<br>come zoppicano i loro costumi! Lussuria e licenza,<br>insinuatevi nelle menti e nei midolli della nostra gioventù,<br>sì che contro la corrente della virtù essa si sforzi<br>e s’anneghi nella dissolutezza! Pruriti e pustole,<br>seminate tutti i petti ateniesi, e il loro raccolto<br>sia lebbra universale! Il fiato infetti il fiato,<br>sì che il loro consorzio, come la loro [[Friendship\|amicizia]], sia<br>puro e semplice [[Poison\|veleno]]! |
+| *(didascalia)* | Si [[Tears\|strappa]] di dosso le vesti |
+| [[Timon\|TIMONE]] | Nulla porterò via da te<br>se non la [[Nakedness\|nudità]], città detestabile;<br>prenditi anche quella, con moltiplicate maledizioni.<br>[[Timon\|Timone]] andrà ai boschi, dove troverà<br>la belva più crudele più benigna del genere umano.<br>Gli dèi confondano—uditemi, voi tutti buoni dèi—<br>gli Ateniesi, tanto dentro quanto fuori di quel muro;<br>e concedano che, come [[Timon\|Timone]] cresce, cresca il suo odio<br>verso tutta la razza umana, alti e bassi.<br>Amen. |
 | *(didascalia)* | Esce |
 
 
@@ -2582,16 +2582,16 @@ The Life of [[Timon]] of Athens
 
 | Chi parla | Battuta |
 |---|---|
-| *(didascalia)* | Entra [[Flavius|Flavio]], con due o tre Servi |
+| *(didascalia)* | Entra [[Flavius\|Flavio]], con due o tre Servi |
 | PRIMO SERVO | Udite, messer intendente, dov’è il nostro padrone?<br>Siamo rovinati, licenziati, non resta più nulla? |
-| [[Flavius|FLAVIO]] | Ahimè, compagni miei, che dovrei dirvi?<br>Sia messo agli atti: per gli dèi giusti,<br>io sono povero quanto voi. |
-| PRIMO SERVO | Una tal [[house|casa]] rovinata,<br>un padrone così nobile caduto? Tutti spariti, e non<br>un amico che prenda per il braccio la sua fortuna<br>e vada con lui? |
-| SECONDO SERVO | Come noi volgiamo le spalle<br>al compagno gettato nella sua [[Grave|tomba]],<br>così i suoi intimi, alle sue fortune sepolte,<br>svicolano via tutti, gli lasciano i loro falsi voti<br>come borse vuote e svaligiate; e il suo povero [[Self|io]],<br>mendicante votato all’aria aperta,<br>con la sua malattia della [[Poverty|povertà]] fuggita da tutti,<br>cammina [[Alone|solo]] come il disprezzo. |
+| [[Flavius\|FLAVIO]] | Ahimè, compagni miei, che dovrei dirvi?<br>Sia messo agli atti: per gli dèi giusti,<br>io sono povero quanto voi. |
+| PRIMO SERVO | Una tal [[house\|casa]] rovinata,<br>un padrone così nobile caduto? Tutti spariti, e non<br>un amico che prenda per il braccio la sua fortuna<br>e vada con lui? |
+| SECONDO SERVO | Come noi volgiamo le spalle<br>al compagno gettato nella sua [[Grave\|tomba]],<br>così i suoi intimi, alle sue fortune sepolte,<br>svicolano via tutti, gli lasciano i loro falsi voti<br>come borse vuote e svaligiate; e il suo povero [[Self\|io]],<br>mendicante votato all’aria aperta,<br>con la sua malattia della [[Poverty\|povertà]] fuggita da tutti,<br>cammina [[Alone\|solo]] come il disprezzo. |
 | *(didascalia)* | Entrano altri Servi |
 | SECONDO SERVO | Altri dei nostri compagni. |
-| [[Flavius|FLAVIO]] | Tutti strumenti rotti d’una [[house|casa]] in rovina. |
-| TERZO SERVO | Eppure i nostri cuori portano la livrea di [[Timon|Timone]].<br>Lo vedo dai nostri volti. Siamo compagni ancora,<br>servendo del pari nel dolore. La nostra barca fa acqua,<br>e noi, poveri marinai, stiamo sul ponte che muore<br>udendo la minaccia dei flutti. Dobbiamo tutti separarci<br>in questo mare d’aria. |
-| [[Flavius|FLAVIO]] | Buoni compagni tutti,<br>l’ultimo della mia ricchezza lo dividerò fra voi.<br>Dovunque c’incontreremo, per amore di [[Timon|Timone]]<br>siamo ancora compagni. Scuotiamo il capo e diciamo,<br>quasi fosse un rintocco per le fortune del nostro padrone,<br>‘Abbiamo visto giorni migliori.’<br>Dà loro del denaro<br>Ciascuno ne prenda un poco.<br>Su, tendete tutti le mani. Non una parola di più.<br>Così ci separiamo ricchi di dolore, separandoci poveri.<br>S’abbracciano, e i Servi si dividono per varie strade<br>Oh, la feroce miseria che la gloria ci porta!<br>Chi non vorrebbe essere esente dalla ricchezza,<br>poiché i beni conducono alla miseria e al disprezzo?<br>Chi vorrebbe essere così beffato dalla gloria, o vivere<br>solo in [[A Dream|un sogno]] d’[[Friendship|amicizia]],<br>avere il suo fasto e tutto ciò che compone il rango<br>soltanto dipinto, come i suoi amici verniciati?<br>Povero onesto signore, abbassato dal proprio cuore,<br>rovinato dalla bontà! Strano, insolito [[Blood|sangue]]<br>quando il peggior peccato dell’uomo è fare troppo bene!<br>Chi oserà allora essere di nuovo generoso neppure a metà?<br>Ché la munificenza, che fa gli dèi, sempre rovina gli uomini.<br>Carissimo mio signore, benedetto per essere maledettissimo,<br>ricco solo per essere misero, le tue grandi fortune<br>sono divenute le tue principali afflizioni. Ahimè, buon signore!<br>S’è scagliato con furore via da questa ingrata sede<br>d’amici mostruosi;<br>né ha con sé di che sostentare la vita,<br>o ciò che possa procurarla.<br>Lo seguirò e mi metterò a cercarlo.<br>Servirò sempre il suo animo con la mia miglior volontà.<br>Finché avrò oro sarò ancora il suo intendente. |
+| [[Flavius\|FLAVIO]] | Tutti strumenti rotti d’una [[house\|casa]] in rovina. |
+| TERZO SERVO | Eppure i nostri cuori portano la livrea di [[Timon\|Timone]].<br>Lo vedo dai nostri volti. Siamo compagni ancora,<br>servendo del pari nel dolore. La nostra barca fa acqua,<br>e noi, poveri marinai, stiamo sul ponte che muore<br>udendo la minaccia dei flutti. Dobbiamo tutti separarci<br>in questo mare d’aria. |
+| [[Flavius\|FLAVIO]] | Buoni compagni tutti,<br>l’ultimo della mia ricchezza lo dividerò fra voi.<br>Dovunque c’incontreremo, per amore di [[Timon\|Timone]]<br>siamo ancora compagni. Scuotiamo il capo e diciamo,<br>quasi fosse un rintocco per le fortune del nostro padrone,<br>‘Abbiamo visto giorni migliori.’<br>Dà loro del denaro<br>Ciascuno ne prenda un poco.<br>Su, tendete tutti le mani. Non una parola di più.<br>Così ci separiamo ricchi di dolore, separandoci poveri.<br>S’abbracciano, e i Servi si dividono per varie strade<br>Oh, la feroce miseria che la gloria ci porta!<br>Chi non vorrebbe essere esente dalla ricchezza,<br>poiché i beni conducono alla miseria e al disprezzo?<br>Chi vorrebbe essere così beffato dalla gloria, o vivere<br>solo in [[A Dream\|un sogno]] d’[[Friendship\|amicizia]],<br>avere il suo fasto e tutto ciò che compone il rango<br>soltanto dipinto, come i suoi amici verniciati?<br>Povero onesto signore, abbassato dal proprio cuore,<br>rovinato dalla bontà! Strano, insolito [[Blood\|sangue]]<br>quando il peggior peccato dell’uomo è fare troppo bene!<br>Chi oserà allora essere di nuovo generoso neppure a metà?<br>Ché la munificenza, che fa gli dèi, sempre rovina gli uomini.<br>Carissimo mio signore, benedetto per essere maledettissimo,<br>ricco solo per essere misero, le tue grandi fortune<br>sono divenute le tue principali afflizioni. Ahimè, buon signore!<br>S’è scagliato con furore via da questa ingrata sede<br>d’amici mostruosi;<br>né ha con sé di che sostentare la vita,<br>o ciò che possa procurarla.<br>Lo seguirò e mi metterò a cercarlo.<br>Servirò sempre il suo animo con la mia miglior volontà.<br>Finché avrò oro sarò ancora il suo intendente. |
 | *(didascalia)* | Esce |
 
 
@@ -2789,146 +2789,146 @@ The Life of [[Timon]] of Athens
 
 | Chi parla | Battuta |
 |---|---|
-| *(didascalia)* | Entra [[Timon|Timone]] dalla sua [[Cave|caverna]] nel bosco, seminudo, e con una vanga |
-| [[Timon|TIMONE]] | O benedetto sole generatore, trai dalla terra<br>umidità putrida; sotto l’orbe di tua sorella<br>infetta l’aria. Fratelli gemelli d’un solo ventre,<br>la cui [[Procreation|procreazione]], dimora e nascita<br>a stento si distinguono: toccali con fortune diverse,<br>e il maggiore disprezza il minore. Non la [[Nature|natura]],<br>cui ogni piaga assedia, può sopportare gran fortuna<br>se non col disprezzo della [[Nature|natura]].<br>È il pascolo che ingrassa i fianchi del fratello,<br>la penuria che lo fa magro.<br>Innalzami questo mendicante e abbassa quel signore,<br>e il senatore porterà un disprezzo ereditario,<br>il mendicante un [[Honour|onore]] nativo. Chi osa, chi osa<br>in purezza di virilità star ritto<br>e dire ‘Costui è un adulatore’? Se uno lo è,<br>lo sono tutti, ché ogni gradino della fortuna<br>è spianato da quello di sotto. La testa dotta<br>s’inchina allo [[Fool|sciocco]] dorato. Tutto è obliquo;<br>nulla è diritto nelle nostre nature maledette<br>se non la schietta scelleratezza. Siano dunque aborriti<br>tutti i banchetti, i consorzi e le folle d’uomini.<br>Il suo simile, anzi sé stesso, [[Timon|Timone]] disdegna.<br>La distruzione azzanni il genere umano. Terra, dammi radici.<br>Scava<br>Chi da te cerca di meglio, si condisca il palato<br>col tuo più efficace [[Poison|veleno]].<br>Trova dell’oro<br>Che c’è qui?<br>Oro? Giallo, scintillante, prezioso oro?<br>No, dèi, non sono un vano supplicante:<br>radici, o cieli limpidi. Tanto così di questo può<br>fare<br>il nero bianco, il turpe bello, il torto ragione,<br>il vile nobile, il vecchio giovane, il codardo valoroso.<br>Ah, voi dèi! Perché questo, come, questo, voi dèi? Ecco,<br>questo<br>vi strapperà i sacerdoti e i servi dai fianchi,<br>toglierà i guanciali di sotto il capo d’uomini robusti.<br>Questo schiavo giallo<br>annoderà e spezzerà religioni, benedirà i maledetti,<br>farà adorare la lebbra canuta, collocherà i ladri,<br>e darà loro titolo, riverenza e approvazione<br>fra i senatori in seggio. È questo<br>che fa rimaritare la vedova sfiorita.<br>Colei di cui la [[house|casa]] dei lebbrosi e le piaghe ulcerose<br>farebbero rivoltar lo stomaco, questo l’imbalsama e la profuma<br>di nuovo in giorno d’aprile. Vieni, dannata terra,<br>tu comune meretrice del genere umano, che semini discordia<br>fra la calca delle nazioni; io ti farò<br>compiere la tua vera [[Nature|natura]].<br>Marcia in lontananza<br>Ah, un tamburo! Sei viva;<br>ma pure ti seppellirò.<br>Seppellisce l’oro<br>Andrai, ladro potente,<br>quando i tuoi gottosi custodi non potranno reggersi in piedi.<br>Tiene un po’ d’oro<br>No, resta tu fuori come caparra. |
-| *(didascalia)* | Entra [[Alcibiades|Alcibiade]], con soldati che suonano tamburo e |
-| [[Timon|TIMONE]] | piffero, in assetto di guerra; e Frinia e Timandra |
-| [[Alcibiades|ALCIBIADE]] | Chi sei tu costì? Parla. |
-| [[Timon|TIMONE]] | Una bestia, come sei tu. Il verme ti roda il cuore<br>per avermi mostrato di nuovo gli occhi d’un uomo. |
-| [[Alcibiades|ALCIBIADE]] | Qual è il tuo nome? È l’uomo tanto odioso a te<br>che pure sei un uomo? |
-| [[Timon|TIMONE]] | Sono Misantropo, e odio il genere umano.<br>Per parte tua, vorrei che tu fossi un cane,<br>ch’io potessi [[Love|amarti]] un poco. |
-| [[Alcibiades|ALCIBIADE]] | Ti conosco [[Well|bene]],<br>ma delle tue fortune sono ignaro ed estraneo. |
-| [[Timon|TIMONE]] | Anch’io conosco te, e più di quanto ti conosco<br>non [[Desire|desidero]] conoscere. Segui il tuo tamburo.<br>Col [[Blood|sangue]] degli uomini dipingi il suolo di rosso, di rosso.<br>I canoni religiosi, le leggi civili, sono crudeli;<br>che dovrebbe essere allora la guerra? Questa tua feroce sgualdrina<br>ha in sé più distruzione della tua [[Sword|spada]],<br>malgrado tutto il suo viso di cherubino. |
+| *(didascalia)* | Entra [[Timon\|Timone]] dalla sua [[Cave\|caverna]] nel bosco, seminudo, e con una vanga |
+| [[Timon\|TIMONE]] | O benedetto sole generatore, trai dalla terra<br>umidità putrida; sotto l’orbe di tua sorella<br>infetta l’aria. Fratelli gemelli d’un solo ventre,<br>la cui [[Procreation\|procreazione]], dimora e nascita<br>a stento si distinguono: toccali con fortune diverse,<br>e il maggiore disprezza il minore. Non la [[Nature\|natura]],<br>cui ogni piaga assedia, può sopportare gran fortuna<br>se non col disprezzo della [[Nature\|natura]].<br>È il pascolo che ingrassa i fianchi del fratello,<br>la penuria che lo fa magro.<br>Innalzami questo mendicante e abbassa quel signore,<br>e il senatore porterà un disprezzo ereditario,<br>il mendicante un [[Honour\|onore]] nativo. Chi osa, chi osa<br>in purezza di virilità star ritto<br>e dire ‘Costui è un adulatore’? Se uno lo è,<br>lo sono tutti, ché ogni gradino della fortuna<br>è spianato da quello di sotto. La testa dotta<br>s’inchina allo [[Fool\|sciocco]] dorato. Tutto è obliquo;<br>nulla è diritto nelle nostre nature maledette<br>se non la schietta scelleratezza. Siano dunque aborriti<br>tutti i banchetti, i consorzi e le folle d’uomini.<br>Il suo simile, anzi sé stesso, [[Timon\|Timone]] disdegna.<br>La distruzione azzanni il genere umano. Terra, dammi radici.<br>Scava<br>Chi da te cerca di meglio, si condisca il palato<br>col tuo più efficace [[Poison\|veleno]].<br>Trova dell’oro<br>Che c’è qui?<br>Oro? Giallo, scintillante, prezioso oro?<br>No, dèi, non sono un vano supplicante:<br>radici, o cieli limpidi. Tanto così di questo può<br>fare<br>il nero bianco, il turpe bello, il torto ragione,<br>il vile nobile, il vecchio giovane, il codardo valoroso.<br>Ah, voi dèi! Perché questo, come, questo, voi dèi? Ecco,<br>questo<br>vi strapperà i sacerdoti e i servi dai fianchi,<br>toglierà i guanciali di sotto il capo d’uomini robusti.<br>Questo schiavo giallo<br>annoderà e spezzerà religioni, benedirà i maledetti,<br>farà adorare la lebbra canuta, collocherà i ladri,<br>e darà loro titolo, riverenza e approvazione<br>fra i senatori in seggio. È questo<br>che fa rimaritare la vedova sfiorita.<br>Colei di cui la [[house\|casa]] dei lebbrosi e le piaghe ulcerose<br>farebbero rivoltar lo stomaco, questo l’imbalsama e la profuma<br>di nuovo in giorno d’aprile. Vieni, dannata terra,<br>tu comune meretrice del genere umano, che semini discordia<br>fra la calca delle nazioni; io ti farò<br>compiere la tua vera [[Nature\|natura]].<br>Marcia in lontananza<br>Ah, un tamburo! Sei viva;<br>ma pure ti seppellirò.<br>Seppellisce l’oro<br>Andrai, ladro potente,<br>quando i tuoi gottosi custodi non potranno reggersi in piedi.<br>Tiene un po’ d’oro<br>No, resta tu fuori come caparra. |
+| *(didascalia)* | Entra [[Alcibiades\|Alcibiade]], con soldati che suonano tamburo e |
+| [[Timon\|TIMONE]] | piffero, in assetto di guerra; e Frinia e Timandra |
+| [[Alcibiades\|ALCIBIADE]] | Chi sei tu costì? Parla. |
+| [[Timon\|TIMONE]] | Una bestia, come sei tu. Il verme ti roda il cuore<br>per avermi mostrato di nuovo gli occhi d’un uomo. |
+| [[Alcibiades\|ALCIBIADE]] | Qual è il tuo nome? È l’uomo tanto odioso a te<br>che pure sei un uomo? |
+| [[Timon\|TIMONE]] | Sono Misantropo, e odio il genere umano.<br>Per parte tua, vorrei che tu fossi un cane,<br>ch’io potessi [[Love\|amarti]] un poco. |
+| [[Alcibiades\|ALCIBIADE]] | Ti conosco [[Well\|bene]],<br>ma delle tue fortune sono ignaro ed estraneo. |
+| [[Timon\|TIMONE]] | Anch’io conosco te, e più di quanto ti conosco<br>non [[Desire\|desidero]] conoscere. Segui il tuo tamburo.<br>Col [[Blood\|sangue]] degli uomini dipingi il suolo di rosso, di rosso.<br>I canoni religiosi, le leggi civili, sono crudeli;<br>che dovrebbe essere allora la guerra? Questa tua feroce sgualdrina<br>ha in sé più distruzione della tua [[Sword\|spada]],<br>malgrado tutto il suo viso di cherubino. |
 | FRINIA | Ti caschino le labbra imputridite! |
-| [[Timon|TIMONE]] | Non ti bacerò; così il marciume ritorna<br>di nuovo sulle tue stesse labbra. |
-| [[Alcibiades|ALCIBIADE]] | Come giunse il nobile [[Timon|Timone]] a questo mutamento? |
-| [[Timon|TIMONE]] | Come fa la [[Moon|luna]], per mancanza di luce da dare.<br>Ma poi non potei rinnovarmi come la [[Moon|luna]];<br>non c’erano soli da cui prendere in prestito. |
-| [[Alcibiades|ALCIBIADE]] | Nobile [[Timon|Timone]], quale [[Friendship|amicizia]] posso renderti? |
-| [[Timon|TIMONE]] | Nessuna se non confermare la mia opinione. |
-| [[Alcibiades|ALCIBIADE]] | Quale, [[Timon|Timone]]? |
-| [[Timon|TIMONE]] | Promettimi [[Friendship|amicizia]], ma non mantenerne alcuna. Se prometterai, gli dèi ti flagellino, ché sei un uomo. Se non manterrai, ti confondano, ché sei un uomo. |
-| [[Alcibiades|ALCIBIADE]] | Ho udito in qualche modo delle tue miserie. |
-| [[Timon|TIMONE]] | Le vedesti quando avevo prosperità. |
-| [[Alcibiades|ALCIBIADE]] | Le vedo ora; quello era un [[Time|tempo]] benedetto. |
-| [[Timon|TIMONE]] | Come il tuo ora, tenuto con un paio di sgualdrine. |
+| [[Timon\|TIMONE]] | Non ti bacerò; così il marciume ritorna<br>di nuovo sulle tue stesse labbra. |
+| [[Alcibiades\|ALCIBIADE]] | Come giunse il nobile [[Timon\|Timone]] a questo mutamento? |
+| [[Timon\|TIMONE]] | Come fa la [[Moon\|luna]], per mancanza di luce da dare.<br>Ma poi non potei rinnovarmi come la [[Moon\|luna]];<br>non c’erano soli da cui prendere in prestito. |
+| [[Alcibiades\|ALCIBIADE]] | Nobile [[Timon\|Timone]], quale [[Friendship\|amicizia]] posso renderti? |
+| [[Timon\|TIMONE]] | Nessuna se non confermare la mia opinione. |
+| [[Alcibiades\|ALCIBIADE]] | Quale, [[Timon\|Timone]]? |
+| [[Timon\|TIMONE]] | Promettimi [[Friendship\|amicizia]], ma non mantenerne alcuna. Se prometterai, gli dèi ti flagellino, ché sei un uomo. Se non manterrai, ti confondano, ché sei un uomo. |
+| [[Alcibiades\|ALCIBIADE]] | Ho udito in qualche modo delle tue miserie. |
+| [[Timon\|TIMONE]] | Le vedesti quando avevo prosperità. |
+| [[Alcibiades\|ALCIBIADE]] | Le vedo ora; quello era un [[Time\|tempo]] benedetto. |
+| [[Timon\|TIMONE]] | Come il tuo ora, tenuto con un paio di sgualdrine. |
 | TIMANDRA | È questo il beniamino d’Atene, di cui il mondo<br>parlava con tanto riguardo? |
 | SIMON | Sei tu Timandra? |
 | TIMANDRA | Sì. |
-| [[Timon|TIMONE]] | Resta pur meretrice. Non ti [[Love|amano]] quelli che ti usano.<br>Dà loro malattie, lasciando in te la loro libidine.<br>Sfrutta le tue ore salaci: prepara quegli schiavi<br>per le tinozze e i bagni, riduci la gioventù dalle guance di [[Rose|rosa]]<br>al digiuno della tinozza e alla dieta. |
-| TIMANDRA | Va’ a impiccarti, [[Monster|mostro]]! |
-| [[Alcibiades|ALCIBIADE]] | Perdonalo, dolce Timandra, ché il suo senno<br>è annegato e perduto nelle sue calamità.<br>Ho poco oro in questi giorni, valoroso [[Timon|Timone]],<br>e la mancanza di esso ogni giorno fa nascere rivolta<br>nella mia banda squattrinata. Ho udito e mi son doluto<br>di come la maledetta Atene, immemore del tuo valore,<br>dimenticando le tue grandi gesta, quando gli stati vicini<br>senza la tua [[Sword|spada]] e la tua fortuna li calpestavano— |
-| [[Timon|TIMONE]] | Ti prego, batti il tuo tamburo e vattene. |
-| [[Alcibiades|ALCIBIADE]] | Sono tuo amico, e ho pietà di te, caro [[Timon|Timone]]. |
-| [[Timon|TIMONE]] | Come compiangi colui che tu disturbi?<br>Preferirei essere [[Alone|solo]]. |
-| [[Alcibiades|ALCIBIADE]] | Ebbene, sta’ [[Well|bene]].<br>Ecco dell’oro per te. |
-| [[Timon|TIMONE]] | Tienlo. Non posso mangiarlo. |
-| [[Alcibiades|ALCIBIADE]] | Quando avrò ridotto la superba Atene a un mucchio— |
-| [[Timon|TIMONE]] | Fai guerra contro Atene? |
-| [[Alcibiades|ALCIBIADE]] | Sì, [[Timon|Timone]], e ne ho motivo. |
-| [[Timon|TIMONE]] | Gli dèi li confondano tutti nella tua conquista,<br>e te dopo, quando avrai conquistato. |
-| [[Alcibiades|ALCIBIADE]] | Perché me, [[Timon|Timone]]? |
-| [[Timon|TIMONE]] | Perché, uccidendo furfanti,<br>sei nato per conquistare il mio paese.<br>Riprendi il tuo oro.<br>Dà dell’oro ad [[Alcibiades|Alcibiade]]<br>Va’ pure; ecco oro; va’ pure.<br>Sii come una peste planetaria quando Giove<br>vuol sospendere il suo [[Poison|veleno]] su qualche [[City|città]] viziosissima<br>nell’aria malata. La tua [[Sword|spada]] non ne salti uno.<br>Non aver pietà della veneranda età per la sua barba bianca;<br>è un usuraio. Colpiscimi la matrona contraffatta;<br>è solo la sua veste a essere onesta,<br>lei è una ruffiana. La guancia della vergine non<br>ammollisca la tua tagliente [[Sword|spada]]; ché quelle mammelle di latte<br>che attraverso le sbarre della [[Window|finestra]] trapassano gli occhi degli uomini<br>non sono iscritte nel registro della pietà;<br>ma segnale come orribili traditrici. Non risparmiare il<br>bimbo<br>i cui sorrisi fossettati esauriscono negli sciocchi la loro [[Mercy|misericordia]].<br>Consideralo un bastardo, di cui l’oracolo<br>ha ambiguamente predetto che ti taglierà la gola,<br>e fallo a pezzi senza rimorso. Giura contro ogni obiezione.<br>Metti l’armatura alle tue orecchie e ai tuoi occhi,<br>la cui tempra né urla di madri, di fanciulle o di bimbi,<br>né vista di sacerdoti sanguinanti nelle sacre vesti,<br>trafiggano d’un solo punto. Ecco oro per pagare i tuoi soldati.<br>Fa’ grande scempio, e, sfogato il tuo furore,<br>sii confuso tu stesso. Non parlare. Vattene. |
-| [[Alcibiades|ALCIBIADE]] | Hai ancora oro? Prenderò l’oro che mi dai,<br>non tutti i tuoi consigli. |
-| [[Timon|TIMONE]] | Che tu lo faccia o no, la maledizione del cielo su di te! |
-| FRINIA | e TIMANDRA<br>Dacci un po’ d’oro, buon [[Timon|Timone]]. Ne hai ancora? |
-| [[Timon|TIMONE]] | Abbastanza da far rinnegare a una meretrice il suo mestiere,<br>e da fare della sanità una ruffiana. Alzate, sgualdrine,<br>i vostri grembiuli.<br>Tenete su i vostri grembiuli spiegati. |
+| [[Timon\|TIMONE]] | Resta pur meretrice. Non ti [[Love\|amano]] quelli che ti usano.<br>Dà loro malattie, lasciando in te la loro libidine.<br>Sfrutta le tue ore salaci: prepara quegli schiavi<br>per le tinozze e i bagni, riduci la gioventù dalle guance di [[Rose\|rosa]]<br>al digiuno della tinozza e alla dieta. |
+| TIMANDRA | Va’ a impiccarti, [[Monster\|mostro]]! |
+| [[Alcibiades\|ALCIBIADE]] | Perdonalo, dolce Timandra, ché il suo senno<br>è annegato e perduto nelle sue calamità.<br>Ho poco oro in questi giorni, valoroso [[Timon\|Timone]],<br>e la mancanza di esso ogni giorno fa nascere rivolta<br>nella mia banda squattrinata. Ho udito e mi son doluto<br>di come la maledetta Atene, immemore del tuo valore,<br>dimenticando le tue grandi gesta, quando gli stati vicini<br>senza la tua [[Sword\|spada]] e la tua fortuna li calpestavano— |
+| [[Timon\|TIMONE]] | Ti prego, batti il tuo tamburo e vattene. |
+| [[Alcibiades\|ALCIBIADE]] | Sono tuo amico, e ho pietà di te, caro [[Timon\|Timone]]. |
+| [[Timon\|TIMONE]] | Come compiangi colui che tu disturbi?<br>Preferirei essere [[Alone\|solo]]. |
+| [[Alcibiades\|ALCIBIADE]] | Ebbene, sta’ [[Well\|bene]].<br>Ecco dell’oro per te. |
+| [[Timon\|TIMONE]] | Tienlo. Non posso mangiarlo. |
+| [[Alcibiades\|ALCIBIADE]] | Quando avrò ridotto la superba Atene a un mucchio— |
+| [[Timon\|TIMONE]] | Fai guerra contro Atene? |
+| [[Alcibiades\|ALCIBIADE]] | Sì, [[Timon\|Timone]], e ne ho motivo. |
+| [[Timon\|TIMONE]] | Gli dèi li confondano tutti nella tua conquista,<br>e te dopo, quando avrai conquistato. |
+| [[Alcibiades\|ALCIBIADE]] | Perché me, [[Timon\|Timone]]? |
+| [[Timon\|TIMONE]] | Perché, uccidendo furfanti,<br>sei nato per conquistare il mio paese.<br>Riprendi il tuo oro.<br>Dà dell’oro ad [[Alcibiades\|Alcibiade]]<br>Va’ pure; ecco oro; va’ pure.<br>Sii come una peste planetaria quando Giove<br>vuol sospendere il suo [[Poison\|veleno]] su qualche [[City\|città]] viziosissima<br>nell’aria malata. La tua [[Sword\|spada]] non ne salti uno.<br>Non aver pietà della veneranda età per la sua barba bianca;<br>è un usuraio. Colpiscimi la matrona contraffatta;<br>è solo la sua veste a essere onesta,<br>lei è una ruffiana. La guancia della vergine non<br>ammollisca la tua tagliente [[Sword\|spada]]; ché quelle mammelle di latte<br>che attraverso le sbarre della [[Window\|finestra]] trapassano gli occhi degli uomini<br>non sono iscritte nel registro della pietà;<br>ma segnale come orribili traditrici. Non risparmiare il<br>bimbo<br>i cui sorrisi fossettati esauriscono negli sciocchi la loro [[Mercy\|misericordia]].<br>Consideralo un bastardo, di cui l’oracolo<br>ha ambiguamente predetto che ti taglierà la gola,<br>e fallo a pezzi senza rimorso. Giura contro ogni obiezione.<br>Metti l’armatura alle tue orecchie e ai tuoi occhi,<br>la cui tempra né urla di madri, di fanciulle o di bimbi,<br>né vista di sacerdoti sanguinanti nelle sacre vesti,<br>trafiggano d’un solo punto. Ecco oro per pagare i tuoi soldati.<br>Fa’ grande scempio, e, sfogato il tuo furore,<br>sii confuso tu stesso. Non parlare. Vattene. |
+| [[Alcibiades\|ALCIBIADE]] | Hai ancora oro? Prenderò l’oro che mi dai,<br>non tutti i tuoi consigli. |
+| [[Timon\|TIMONE]] | Che tu lo faccia o no, la maledizione del cielo su di te! |
+| FRINIA | e TIMANDRA<br>Dacci un po’ d’oro, buon [[Timon\|Timone]]. Ne hai ancora? |
+| [[Timon\|TIMONE]] | Abbastanza da far rinnegare a una meretrice il suo mestiere,<br>e da fare della sanità una ruffiana. Alzate, sgualdrine,<br>i vostri grembiuli.<br>Tenete su i vostri grembiuli spiegati. |
 | *(didascalia)* | Getta oro nei loro grembiuli |
-| [[Timon|TIMONE]] | Non siete degne di giuramento,<br>benché io sappia che giurerete, giurerete terribilmente,<br>fino a forti brividi e a febbri celesti<br>gli dèi immortali che v’ascoltano. Risparmiate i giuramenti;<br>mi affiderò alla vostra indole. Restate meretrici,<br>e colui il cui pio fiato cerca di [[convert|convertirvi]],<br>siate forti nel puttaneggiare, allettatelo, bruciatelo tutto.<br>Il vostro chiuso [[Fire|fuoco]] prevalga sul suo fumo;<br>e non siate voltafaccia. Pure i vostri mesi malati di [[Pain|doglie]]<br>siano tutto il contrario, e coprite i vostri poveri tetti radi<br>con carichi di capelli dei morti—alcuni di impiccati,<br>non importa. Portateli, tradite con essi; puttaneggiate ancora;<br>imbellettatevi finché un [[Horse|cavallo]] possa impantanarsi sul vostro viso.<br>Al diavolo le rughe! |
-| FRINIA | e TIMANDRA [[Well|Bene]], altro oro; e poi?<br>Credi pure che faremo qualunque cosa per l’oro. |
-| [[Timon|TIMONE]] | Seminate consunzioni<br>nelle ossa cave dell’uomo, colpite i loro stinchi aguzzi,<br>e guastate agli uomini lo sprone. Rompete la voce all’avvocato,<br>ch’egli non perori mai più un falso titolo<br>né gridi stridulo i suoi cavilli. Incanutite il sacerdote<br>che sbraita contro la qualità della carne<br>e non crede a sé stesso. Giù col naso,<br>giù, schiacciatelo; portate via del tutto il setto<br>a colui che, per provvedere al proprio interesse,<br>fiuta lontano dal bene comune. Fate calvi i ricciuti<br>bravacci,<br>e fate che gli sbruffoni della guerra senza cicatrici<br>ricavino da voi qualche [[Pain|dolore]]. Appestate tutti,<br>sì che la vostra attività sconfigga e soffochi<br>la fonte d’ogni erezione. Ecco altro oro.<br>Dannate voi gli altri, e questo danni voi;<br>e i fossati vi facciano da [[Grave|tomba]] a tutte! |
-| FRINIA | e TIMANDRA<br>Più consigli con più denaro, munifico [[Timon|Timone]]. |
-| [[Timon|TIMONE]] | Prima più puttaneggiare, più malanni; v’ho dato la caparra. |
-| [[Alcibiades|ALCIBIADE]] | Battete il tamburo verso Atene. Addio, [[Timon|Timone]].<br>Se mi va [[Well|bene]], ti visiterò di nuovo. |
-| [[Timon|TIMONE]] | Se [[Hope|spero]] [[Well|bene]], non ti vedrò mai più. |
-| [[Alcibiades|ALCIBIADE]] | Non t’ho mai fatto male. |
-| [[Timon|TIMONE]] | Sì, hai parlato [[Well|bene]] di me. |
-| [[Alcibiades|ALCIBIADE]] | Chiami male quello? |
-| [[Timon|TIMONE]] | Gli uomini lo sperimentano ogni giorno. Vattene,<br>e portati via i tuoi segugi. |
-| [[Alcibiades|ALCIBIADE]] | Non facciamo che offenderlo. Battete! |
-| *(didascalia)* | Escono al suono di tamburo e piffero tutti tranne [[Timon|Timone]] |
-| [[Timon|TIMONE]] | Che la [[Nature|natura]], nauseata della malvagità dell’uomo,<br>debba pur avere fame!<br>Scava la terra<br>Madre comune—tu<br>il cui ventre incommensurabile e il cui seno infinito<br>tutti generano e nutrono; la cui stessa materia<br>di cui il tuo superbo [[Child|figlio]], l’uomo arrogante, si gonfia<br>genera il rospo nero e la vipera azzurra,<br>il tritone dorato e il verme cieco e velenoso,<br>con tutte le nascite aborrite sotto il cielo increspato<br>su cui splende il [[Fire|fuoco]] vivificante d’[[Hyperion|Iperione]]—<br>concedi a lui, che tutti i tuoi figli umani odiano,<br>dal tuo seno copioso una povera radice.<br>Inaridisci il tuo ventre fertile e concipiente;<br>non produca mai più l’uomo ingrato.<br>Va’ gravida di tigri, draghi, lupi e orsi;<br>partorisci nuovi mostri, quali il tuo volto rivolto in su<br>non ha mai presentato alla dimora marmorea<br>lassù nell’alto.<br>Trova una radice<br>Oh, una radice! Care grazie.<br>Prosciuga i tuoi midolli, le viti e i campi arati,<br>con cui l’uomo ingrato, con bevande ghiotte<br>e bocconi untuosi, ingrassa la sua mente pura,<br>sì che da essa ogni riflessione scivola via!— |
-| *(didascalia)* | Entra [[Apemantus|Apemanto]] |
-| [[Timon|TIMONE]] | Ancora un uomo? Peste, peste! |
-| [[Apemantus|APEMANTO]] | Sono stato indirizzato qui. Gli uomini riferiscono<br>che tu imiti i miei modi, e che li pratichi. |
-| [[Timon|TIMONE]] | È allora perché non tieni un cane<br>che io vorrei imitare. Ti prenda la consunzione! |
-| [[Apemantus|APEMANTO]] | Questa è in te una [[Nature|natura]] soltanto infettata,<br>una povera e virile [[Melancholy|malinconia]], nata<br>da mutamento di fortuna. Perché questa vanga, questo luogo,<br>questa veste da schiavo, e questi sguardi d’affanno?<br>I tuoi adulatori portano ancora seta, bevono vino, dormono molli,<br>abbracciano i loro profumi malati, e hanno dimenticato<br>che [[Timon|Timone]] sia mai esistito. Non svergognare questi boschi<br>assumendo l’astuzia d’un censore.<br>Fatti adulatore ora, e cerca di prosperare<br>con ciò che t’ha rovinato. Piega il ginocchio,<br>e lascia che il fiato stesso di colui che corteggerai<br>ti soffi via il berretto. Loda la sua vena più viziosa,<br>e chiamala eccellente. A te fu detto così.<br>Prestavi le orecchie come tavernieri che danno il benvenuto<br>a furfanti e a chiunque s’accosti. È giustissimo<br>che tu diventi un mascalzone. Se tu riavessi ricchezza,<br>i mascalzoni l’avrebbero. Non assumere le mie sembianze. |
-| [[Timon|TIMONE]] | Se fossi come te, getterei via me stesso. |
-| [[Apemantus|APEMANTO]] | Hai gettato via te stesso essendo simile a te stesso—<br>tanto tempo un pazzo, ora uno [[Fool|sciocco]]. Come, credi<br>che l’aria gelida, il tuo turbolento ciambellano,<br>ti scaldi la camicia? Che questi alberi muschiosi,<br>che sono sopravvissuti all’aquila, ti facciano da paggio ai calcagni<br>e saltino quando tu accenni? Che il freddo ruscello,<br>candito di ghiaccio, ti prepari il beveraggio del mattino<br>per guarirti dalla crapula della notte? Chiama le creature<br>le cui nude nature vivono in tutto il dispetto<br>del cielo vendicativo, i cui tronchi spogli e senza casa,<br>esposti agli elementi in conflitto,<br>rispondono con la sola [[Nature|natura]]; ordina loro di adularti.<br>Oh, tu troverai— |
-| [[Timon|TIMONE]] | Uno [[Fool|sciocco]] in te! Vattene. |
-| [[Apemantus|APEMANTO]] | Ti [[Love|amo]] più ora che mai. |
-| [[Timon|TIMONE]] | Io ti odio di più. |
-| [[Apemantus|APEMANTO]] | Perché? |
-| [[Timon|TIMONE]] | Tu aduli la miseria. |
-| [[Apemantus|APEMANTO]] | Non adulo, ma dico che sei un miserabile. |
-| [[Timon|TIMONE]] | Perché mi vieni a cercare? |
-| [[Apemantus|APEMANTO]] | Per tormentarti. |
-| [[Timon|TIMONE]] | Sempre ufficio d’un [[Villain|furfante]], o d’uno [[Fool|sciocco]].<br>Ci trovi diletto? |
-| [[Apemantus|APEMANTO]] | Sì. |
-| [[Timon|TIMONE]] | Come, anche furfante? |
-| [[Apemantus|APEMANTO]] | Se tu avessi indossato quest’abito aspro e freddo<br>per castigare il tuo [[Pride|orgoglio]], sarebbe [[Well|bene]]; ma tu<br>lo fai per forza. Torneresti cortigiano<br>se non fossi mendicante. La miseria voluta<br>sopravvive al fasto incerto, ed è coronata prima.<br>L’uno va sempre riempiendosi, mai completo;<br>l’altra è al colmo del desiderio. Il miglior stato, senza contentezza,<br>ha un’esistenza sconvolta e misera,<br>peggiore del peggiore, che è contento.<br>Dovresti [[Desire|desiderare]] di morire, essendo misero. |
-| [[Timon|TIMONE]] | Non per il fiato di chi è più misero.<br>Tu sei uno schiavo che il tenero braccio della fortuna<br>non strinse mai con favore, ma allevò come un cane.<br>Se tu, come noi, dalle prime fasce avessi percorso<br>i dolci gradi che questo breve mondo concede<br>a coloro che possono liberamente comandare<br>i suoi servi passivi, ti saresti tuffato<br>nella dissolutezza generale, avresti fuso la tua gioventù<br>in diversi letti di libidine, e mai avresti appreso<br>i gelidi precetti del riguardo, ma avresti inseguito<br>la selvaggina zuccherina davanti a te. Ma io,<br>che avevo il mondo per mia confetteria,<br>le bocche, le lingue, gli occhi e i cuori degli uomini<br>al mio servizio, più di quanti potessi impiegare,<br>che innumerevoli mi si attaccavano addosso, come [[Leaves|foglie]]<br>fanno alla quercia, con una sola spazzata d’[[Winter|inverno]]<br>caddero dai loro rami, e mi lasciarono scoperto, nudo<br>a ogni [[Storm|tempesta]] che soffia—che io sopporti questo,<br>io che non conobbi mai se non il meglio, è pur qualche peso.<br>La tua [[Nature|natura]] cominciò nella sofferenza, il [[Time|tempo]]<br>t’ha reso duro in essa. Perché dovresti odiare gli uomini?<br>Non t’hanno mai adulato. Che cosa hai dato tu?<br>Se vuoi maledire, tuo padre, quel povero cencio,<br>dev’essere il tuo soggetto, il quale per dispetto mise seme<br>in qualche mendicante e ti compose<br>povero furfante ereditario. Via, vattene.<br>Se non fossi nato il peggiore degli uomini<br>saresti stato un furfante e un adulatore. |
-| [[Apemantus|APEMANTO]] | Sei ancora superbo? |
-| [[Timon|TIMONE]] | Sì, di non essere te. |
-| [[Apemantus|APEMANTO]] | Io di non essere stato<br>un prodigo. |
-| [[Timon|TIMONE]] | Io di esserlo ora.<br>Fosse tutta la ricchezza che ho rinchiusa in te,<br>ti darei licenza d’impiccarti con essa. Vattene.<br>Fosse in questa tutta la vita d’Atene!<br>Così la mangerei.<br>Morde la radice |
-| *(didascalia)* | [[Apemantus|APEMANTO]] offrendo del cibo Ecco, migliorerò il tuo banchetto. |
-| [[Timon|TIMONE]] | Migliora prima la mia compagnia: togli via te stesso. |
-| [[Apemantus|APEMANTO]] | Così migliorerò la mia con la mancanza della tua. |
-| [[Timon|TIMONE]] | Non è [[Well|ben]] migliorata così, è solo rattoppata;<br>se non lo è, vorrei che lo fosse. |
-| [[Apemantus|APEMANTO]] | Che vorresti mandare ad Atene? |
-| [[Timon|TIMONE]] | Te là dentro in un turbine. Se vuoi,<br>di’ loro che ho dell’oro. Guarda, ne ho davvero. |
-| [[Apemantus|APEMANTO]] | Qui non c’è uso per l’oro. |
-| [[Timon|TIMONE]] | Il migliore e il più vero,<br>ché qui dorme e non fa danno prezzolato. |
-| [[Apemantus|APEMANTO]] | Dove giaci di notte, [[Timon|Timone]]? |
-| [[Timon|TIMONE]] | Sotto ciò che mi sta sopra. Dove ti nutri di giorno, [[Apemantus|Apemanto]]? |
-| [[Apemantus|APEMANTO]] | Dove il mio stomaco trova cibo; o meglio, dove lo mangio. |
-| [[Timon|TIMONE]] | Fosse il [[Poison|veleno]] obbediente, e conoscesse la mia mente! |
-| [[Apemantus|APEMANTO]] | Dove lo manderesti? |
-| [[Timon|TIMONE]] | A condire le tue pietanze. |
-| [[Apemantus|APEMANTO]] | Il mezzo dell’umanità tu non l’hai mai conosciuto, ma solo l’estremo d’entrambi i capi. Quando eri nella tua doratura e nel tuo profumo, ti beffavano per troppa ricercatezza; nei tuoi cenci non ne conosci alcuna, ma sei disprezzato per il contrario. Ecco una nespola per te; mangiala. |
-| [[Timon|TIMONE]] | Di ciò che odio non mi nutro. |
-| [[Apemantus|APEMANTO]] | Odi una nespola? |
-| [[Timon|TIMONE]] | Sì, benché somigli a te. |
-| [[Apemantus|APEMANTO]] | Se avessi odiato prima gli intriganti, ora dovresti amare di più te stesso. Che uomo scialacquatore hai mai conosciuto che fosse amato dopo i suoi mezzi? |
-| [[Timon|TIMONE]] | Chi, senza quei mezzi di cui parli, hai mai conosciuto tu che fosse amato? |
-| [[Apemantus|APEMANTO]] | Me stesso. |
-| [[Timon|TIMONE]] | Ti capisco: avevi qualche mezzo per mantenere un cane. |
-| [[Apemantus|APEMANTO]] | Quali cose al mondo puoi paragonare più da vicino ai tuoi adulatori? |
-| [[Timon|TIMONE]] | Le donne più da vicino; ma gli uomini, gli uomini sono le cose stesse. Che faresti tu del mondo, [[Apemantus|Apemanto]], se stesse in tuo potere? |
-| [[Apemantus|APEMANTO]] | Lo darei alle bestie, per sbarazzarmi degli uomini. |
-| [[Timon|TIMONE]] | Vorresti tu stesso cadere nella rovina degli uomini, e restare una bestia fra le bestie? |
-| [[Apemantus|APEMANTO]] | Sì, [[Timon|Timone]]. |
-| [[Timon|TIMONE]] | Una bestiale [[Ambition|ambizione]], che gli dèi ti concedano di raggiungere. Se tu fossi il [[Lion|leone]], la volpe t’ingannerebbe. Se fossi l’[[Lamb|agnello]], la volpe ti mangerebbe. Se fossi la volpe, il [[Lion|leone]] ti sospetterebbe quando per avventura fossi accusato dall’asino. Se fossi l’asino, la tua ottusità ti tormenterebbe, e vivresti soltanto come colazione del lupo. Se fossi il lupo, la tua ingordigia t’affliggerebbe, e spesso rischieresti la vita per il tuo pranzo. Fossi l’unicorno, l’[[Pride|orgoglio]] e l’ira ti confonderebbero, e farebbero del tuo stesso [[Self|io]] la conquista del tuo furore. Fossi un orso, saresti ucciso dal [[Horse|cavallo]]. Fossi un [[Horse|cavallo]], saresti ghermito dal leopardo. Fossi un leopardo, saresti germano del [[Lion|leone]], e le macchie della tua parentela sarebbero giurati sulla tua vita; tutta la tua salvezza sarebbe l’allontanarti, e la tua difesa l’assenza. Che bestia potresti essere che non fosse soggetta a una bestia? E che bestia sei già, che non vedi la tua perdita nella trasformazione! |
-| [[Apemantus|APEMANTO]] | Se tu potessi piacermi parlando con me, avresti potuto coglierlo qui. La repubblica d’Atene è divenuta una foresta di bestie. |
-| [[Timon|TIMONE]] | Come, l’asino ha rotto il muro, che tu sei fuori della [[City|città]]? |
-| [[Apemantus|APEMANTO]] | Laggiù vengono un poeta e un pittore. La peste della compagnia cada su di te! [[Fear|Temerò]] di prenderla, e mi tolgo di mezzo. Quando non saprò che altro fare, ti rivedrò. 356 |
-| [[Timon|TIMONE]] | Quando non ci sarà nulla di vivo se non te, sarai il benvenuto. Preferirei essere il cane d’un mendicante che [[Apemantus|Apemanto]]. |
-| [[Apemantus|APEMANTO]] | Tu sei il berretto di tutti gli sciocchi viventi. |
-| [[Timon|TIMONE]] | Fossi tu abbastanza pulito da sputarci sopra. |
-| [[Apemantus|APEMANTO]] | La peste su di te! Sei troppo cattivo perfino da maledire. |
-| [[Timon|TIMONE]] | Tutti i furfanti che ti stanno accanto sono puri. |
-| [[Apemantus|APEMANTO]] | Non c’è lebbra se non quella che tu parli. |
-| [[Timon|TIMONE]] | Se pronuncio il tuo nome.<br>Ti batterei, ma m’infetterei le mani. |
-| [[Apemantus|APEMANTO]] | Vorrei che la mia lingua potesse fartele marcire e cadere. |
-| [[Timon|TIMONE]] | Via, tu progenie d’un cane rognoso!<br>La collera mi uccide che tu sia vivo.<br>Vengo meno a vederti. |
-| [[Apemantus|APEMANTO]] | Vorrei che tu scoppiassi! |
-| [[Timon|TIMONE]] | Via, tu noioso furfante! |
-| *(didascalia)* | Getta una pietra contro [[Apemantus|Apemanto]] |
-| [[Timon|TIMONE]] | Mi dispiace di perdere una pietra per causa tua. |
-| [[Apemantus|APEMANTO]] | Bestia! |
-| [[Timon|TIMONE]] | Schiavo! |
-| [[Apemantus|APEMANTO]] | Rospo! |
-| [[Timon|TIMONE]] | Furfante, furfante, furfante!<br>Sono nauseato di questo mondo falso, e non [[Love|amerò]] nulla<br>se non le pure necessità che vi sono.<br>Allora, [[Timon|Timone]], prepara subito la tua [[Grave|tomba]].<br>Giaci dove la lieve spuma del mare possa battere<br>ogni giorno la tua pietra sepolcrale. Componi il tuo epitaffio,<br>sì che la [[Death|morte]] in me possa ridere della vita altrui.<br>Guarda l’oro<br>O tu, dolce uccisore di [[King|re]], e caro [[divorce|divorzio]]<br>fra il figlio naturale e il padre; tu splendido profanatore<br>del più puro letto d’Imeneo; tu valoroso Marte;<br>tu sempre giovane, fresco, amato e delicato corteggiatore,<br>il cui rossore disgela la [[Snow|neve]] consacrata<br>che giace in grembo a Diana; tu dio visibile,<br>che saldi insieme strette impossibilità<br>e le fai baciare, che parli con ogni lingua<br>per ogni scopo; o tu pietra di paragone dei cuori:<br>pensa che l’uomo tuo schiavo si ribella, e con la tua virtù<br>mettili in discordia rovinosa, sì che le bestie<br>abbiano l’impero del mondo. |
-| [[Apemantus|APEMANTO]] | Fosse così,<br>ma non prima ch’io sia morto. Dirò che hai dell’oro.<br>Sarai presto assediato dalla folla. |
-| [[Timon|TIMONE]] | Assediato dalla folla? |
-| [[Apemantus|APEMANTO]] | Sì. |
-| [[Timon|TIMONE]] | Le spalle, ti prego. |
-| [[Apemantus|APEMANTO]] | Vivi, e [[Love|ama]] la tua miseria. |
-| [[Timon|TIMONE]] | Viva a lungo così, e così muoia. Siamo pari. |
+| [[Timon\|TIMONE]] | Non siete degne di giuramento,<br>benché io sappia che giurerete, giurerete terribilmente,<br>fino a forti brividi e a febbri celesti<br>gli dèi immortali che v’ascoltano. Risparmiate i giuramenti;<br>mi affiderò alla vostra indole. Restate meretrici,<br>e colui il cui pio fiato cerca di [[convert\|convertirvi]],<br>siate forti nel puttaneggiare, allettatelo, bruciatelo tutto.<br>Il vostro chiuso [[Fire\|fuoco]] prevalga sul suo fumo;<br>e non siate voltafaccia. Pure i vostri mesi malati di [[Pain\|doglie]]<br>siano tutto il contrario, e coprite i vostri poveri tetti radi<br>con carichi di capelli dei morti—alcuni di impiccati,<br>non importa. Portateli, tradite con essi; puttaneggiate ancora;<br>imbellettatevi finché un [[Horse\|cavallo]] possa impantanarsi sul vostro viso.<br>Al diavolo le rughe! |
+| FRINIA | e TIMANDRA [[Well\|Bene]], altro oro; e poi?<br>Credi pure che faremo qualunque cosa per l’oro. |
+| [[Timon\|TIMONE]] | Seminate consunzioni<br>nelle ossa cave dell’uomo, colpite i loro stinchi aguzzi,<br>e guastate agli uomini lo sprone. Rompete la voce all’avvocato,<br>ch’egli non perori mai più un falso titolo<br>né gridi stridulo i suoi cavilli. Incanutite il sacerdote<br>che sbraita contro la qualità della carne<br>e non crede a sé stesso. Giù col naso,<br>giù, schiacciatelo; portate via del tutto il setto<br>a colui che, per provvedere al proprio interesse,<br>fiuta lontano dal bene comune. Fate calvi i ricciuti<br>bravacci,<br>e fate che gli sbruffoni della guerra senza cicatrici<br>ricavino da voi qualche [[Pain\|dolore]]. Appestate tutti,<br>sì che la vostra attività sconfigga e soffochi<br>la fonte d’ogni erezione. Ecco altro oro.<br>Dannate voi gli altri, e questo danni voi;<br>e i fossati vi facciano da [[Grave\|tomba]] a tutte! |
+| FRINIA | e TIMANDRA<br>Più consigli con più denaro, munifico [[Timon\|Timone]]. |
+| [[Timon\|TIMONE]] | Prima più puttaneggiare, più malanni; v’ho dato la caparra. |
+| [[Alcibiades\|ALCIBIADE]] | Battete il tamburo verso Atene. Addio, [[Timon\|Timone]].<br>Se mi va [[Well\|bene]], ti visiterò di nuovo. |
+| [[Timon\|TIMONE]] | Se [[Hope\|spero]] [[Well\|bene]], non ti vedrò mai più. |
+| [[Alcibiades\|ALCIBIADE]] | Non t’ho mai fatto male. |
+| [[Timon\|TIMONE]] | Sì, hai parlato [[Well\|bene]] di me. |
+| [[Alcibiades\|ALCIBIADE]] | Chiami male quello? |
+| [[Timon\|TIMONE]] | Gli uomini lo sperimentano ogni giorno. Vattene,<br>e portati via i tuoi segugi. |
+| [[Alcibiades\|ALCIBIADE]] | Non facciamo che offenderlo. Battete! |
+| *(didascalia)* | Escono al suono di tamburo e piffero tutti tranne [[Timon\|Timone]] |
+| [[Timon\|TIMONE]] | Che la [[Nature\|natura]], nauseata della malvagità dell’uomo,<br>debba pur avere fame!<br>Scava la terra<br>Madre comune—tu<br>il cui ventre incommensurabile e il cui seno infinito<br>tutti generano e nutrono; la cui stessa materia<br>di cui il tuo superbo [[Child\|figlio]], l’uomo arrogante, si gonfia<br>genera il rospo nero e la vipera azzurra,<br>il tritone dorato e il verme cieco e velenoso,<br>con tutte le nascite aborrite sotto il cielo increspato<br>su cui splende il [[Fire\|fuoco]] vivificante d’[[Hyperion\|Iperione]]—<br>concedi a lui, che tutti i tuoi figli umani odiano,<br>dal tuo seno copioso una povera radice.<br>Inaridisci il tuo ventre fertile e concipiente;<br>non produca mai più l’uomo ingrato.<br>Va’ gravida di tigri, draghi, lupi e orsi;<br>partorisci nuovi mostri, quali il tuo volto rivolto in su<br>non ha mai presentato alla dimora marmorea<br>lassù nell’alto.<br>Trova una radice<br>Oh, una radice! Care grazie.<br>Prosciuga i tuoi midolli, le viti e i campi arati,<br>con cui l’uomo ingrato, con bevande ghiotte<br>e bocconi untuosi, ingrassa la sua mente pura,<br>sì che da essa ogni riflessione scivola via!— |
+| *(didascalia)* | Entra [[Apemantus\|Apemanto]] |
+| [[Timon\|TIMONE]] | Ancora un uomo? Peste, peste! |
+| [[Apemantus\|APEMANTO]] | Sono stato indirizzato qui. Gli uomini riferiscono<br>che tu imiti i miei modi, e che li pratichi. |
+| [[Timon\|TIMONE]] | È allora perché non tieni un cane<br>che io vorrei imitare. Ti prenda la consunzione! |
+| [[Apemantus\|APEMANTO]] | Questa è in te una [[Nature\|natura]] soltanto infettata,<br>una povera e virile [[Melancholy\|malinconia]], nata<br>da mutamento di fortuna. Perché questa vanga, questo luogo,<br>questa veste da schiavo, e questi sguardi d’affanno?<br>I tuoi adulatori portano ancora seta, bevono vino, dormono molli,<br>abbracciano i loro profumi malati, e hanno dimenticato<br>che [[Timon\|Timone]] sia mai esistito. Non svergognare questi boschi<br>assumendo l’astuzia d’un censore.<br>Fatti adulatore ora, e cerca di prosperare<br>con ciò che t’ha rovinato. Piega il ginocchio,<br>e lascia che il fiato stesso di colui che corteggerai<br>ti soffi via il berretto. Loda la sua vena più viziosa,<br>e chiamala eccellente. A te fu detto così.<br>Prestavi le orecchie come tavernieri che danno il benvenuto<br>a furfanti e a chiunque s’accosti. È giustissimo<br>che tu diventi un mascalzone. Se tu riavessi ricchezza,<br>i mascalzoni l’avrebbero. Non assumere le mie sembianze. |
+| [[Timon\|TIMONE]] | Se fossi come te, getterei via me stesso. |
+| [[Apemantus\|APEMANTO]] | Hai gettato via te stesso essendo simile a te stesso—<br>tanto tempo un pazzo, ora uno [[Fool\|sciocco]]. Come, credi<br>che l’aria gelida, il tuo turbolento ciambellano,<br>ti scaldi la camicia? Che questi alberi muschiosi,<br>che sono sopravvissuti all’aquila, ti facciano da paggio ai calcagni<br>e saltino quando tu accenni? Che il freddo ruscello,<br>candito di ghiaccio, ti prepari il beveraggio del mattino<br>per guarirti dalla crapula della notte? Chiama le creature<br>le cui nude nature vivono in tutto il dispetto<br>del cielo vendicativo, i cui tronchi spogli e senza casa,<br>esposti agli elementi in conflitto,<br>rispondono con la sola [[Nature\|natura]]; ordina loro di adularti.<br>Oh, tu troverai— |
+| [[Timon\|TIMONE]] | Uno [[Fool\|sciocco]] in te! Vattene. |
+| [[Apemantus\|APEMANTO]] | Ti [[Love\|amo]] più ora che mai. |
+| [[Timon\|TIMONE]] | Io ti odio di più. |
+| [[Apemantus\|APEMANTO]] | Perché? |
+| [[Timon\|TIMONE]] | Tu aduli la miseria. |
+| [[Apemantus\|APEMANTO]] | Non adulo, ma dico che sei un miserabile. |
+| [[Timon\|TIMONE]] | Perché mi vieni a cercare? |
+| [[Apemantus\|APEMANTO]] | Per tormentarti. |
+| [[Timon\|TIMONE]] | Sempre ufficio d’un [[Villain\|furfante]], o d’uno [[Fool\|sciocco]].<br>Ci trovi diletto? |
+| [[Apemantus\|APEMANTO]] | Sì. |
+| [[Timon\|TIMONE]] | Come, anche furfante? |
+| [[Apemantus\|APEMANTO]] | Se tu avessi indossato quest’abito aspro e freddo<br>per castigare il tuo [[Pride\|orgoglio]], sarebbe [[Well\|bene]]; ma tu<br>lo fai per forza. Torneresti cortigiano<br>se non fossi mendicante. La miseria voluta<br>sopravvive al fasto incerto, ed è coronata prima.<br>L’uno va sempre riempiendosi, mai completo;<br>l’altra è al colmo del desiderio. Il miglior stato, senza contentezza,<br>ha un’esistenza sconvolta e misera,<br>peggiore del peggiore, che è contento.<br>Dovresti [[Desire\|desiderare]] di morire, essendo misero. |
+| [[Timon\|TIMONE]] | Non per il fiato di chi è più misero.<br>Tu sei uno schiavo che il tenero braccio della fortuna<br>non strinse mai con favore, ma allevò come un cane.<br>Se tu, come noi, dalle prime fasce avessi percorso<br>i dolci gradi che questo breve mondo concede<br>a coloro che possono liberamente comandare<br>i suoi servi passivi, ti saresti tuffato<br>nella dissolutezza generale, avresti fuso la tua gioventù<br>in diversi letti di libidine, e mai avresti appreso<br>i gelidi precetti del riguardo, ma avresti inseguito<br>la selvaggina zuccherina davanti a te. Ma io,<br>che avevo il mondo per mia confetteria,<br>le bocche, le lingue, gli occhi e i cuori degli uomini<br>al mio servizio, più di quanti potessi impiegare,<br>che innumerevoli mi si attaccavano addosso, come [[Leaves\|foglie]]<br>fanno alla quercia, con una sola spazzata d’[[Winter\|inverno]]<br>caddero dai loro rami, e mi lasciarono scoperto, nudo<br>a ogni [[Storm\|tempesta]] che soffia—che io sopporti questo,<br>io che non conobbi mai se non il meglio, è pur qualche peso.<br>La tua [[Nature\|natura]] cominciò nella sofferenza, il [[Time\|tempo]]<br>t’ha reso duro in essa. Perché dovresti odiare gli uomini?<br>Non t’hanno mai adulato. Che cosa hai dato tu?<br>Se vuoi maledire, tuo padre, quel povero cencio,<br>dev’essere il tuo soggetto, il quale per dispetto mise seme<br>in qualche mendicante e ti compose<br>povero furfante ereditario. Via, vattene.<br>Se non fossi nato il peggiore degli uomini<br>saresti stato un furfante e un adulatore. |
+| [[Apemantus\|APEMANTO]] | Sei ancora superbo? |
+| [[Timon\|TIMONE]] | Sì, di non essere te. |
+| [[Apemantus\|APEMANTO]] | Io di non essere stato<br>un prodigo. |
+| [[Timon\|TIMONE]] | Io di esserlo ora.<br>Fosse tutta la ricchezza che ho rinchiusa in te,<br>ti darei licenza d’impiccarti con essa. Vattene.<br>Fosse in questa tutta la vita d’Atene!<br>Così la mangerei.<br>Morde la radice |
+| *(didascalia)* | [[Apemantus\|APEMANTO]] offrendo del cibo Ecco, migliorerò il tuo banchetto. |
+| [[Timon\|TIMONE]] | Migliora prima la mia compagnia: togli via te stesso. |
+| [[Apemantus\|APEMANTO]] | Così migliorerò la mia con la mancanza della tua. |
+| [[Timon\|TIMONE]] | Non è [[Well\|ben]] migliorata così, è solo rattoppata;<br>se non lo è, vorrei che lo fosse. |
+| [[Apemantus\|APEMANTO]] | Che vorresti mandare ad Atene? |
+| [[Timon\|TIMONE]] | Te là dentro in un turbine. Se vuoi,<br>di’ loro che ho dell’oro. Guarda, ne ho davvero. |
+| [[Apemantus\|APEMANTO]] | Qui non c’è uso per l’oro. |
+| [[Timon\|TIMONE]] | Il migliore e il più vero,<br>ché qui dorme e non fa danno prezzolato. |
+| [[Apemantus\|APEMANTO]] | Dove giaci di notte, [[Timon\|Timone]]? |
+| [[Timon\|TIMONE]] | Sotto ciò che mi sta sopra. Dove ti nutri di giorno, [[Apemantus\|Apemanto]]? |
+| [[Apemantus\|APEMANTO]] | Dove il mio stomaco trova cibo; o meglio, dove lo mangio. |
+| [[Timon\|TIMONE]] | Fosse il [[Poison\|veleno]] obbediente, e conoscesse la mia mente! |
+| [[Apemantus\|APEMANTO]] | Dove lo manderesti? |
+| [[Timon\|TIMONE]] | A condire le tue pietanze. |
+| [[Apemantus\|APEMANTO]] | Il mezzo dell’umanità tu non l’hai mai conosciuto, ma solo l’estremo d’entrambi i capi. Quando eri nella tua doratura e nel tuo profumo, ti beffavano per troppa ricercatezza; nei tuoi cenci non ne conosci alcuna, ma sei disprezzato per il contrario. Ecco una nespola per te; mangiala. |
+| [[Timon\|TIMONE]] | Di ciò che odio non mi nutro. |
+| [[Apemantus\|APEMANTO]] | Odi una nespola? |
+| [[Timon\|TIMONE]] | Sì, benché somigli a te. |
+| [[Apemantus\|APEMANTO]] | Se avessi odiato prima gli intriganti, ora dovresti amare di più te stesso. Che uomo scialacquatore hai mai conosciuto che fosse amato dopo i suoi mezzi? |
+| [[Timon\|TIMONE]] | Chi, senza quei mezzi di cui parli, hai mai conosciuto tu che fosse amato? |
+| [[Apemantus\|APEMANTO]] | Me stesso. |
+| [[Timon\|TIMONE]] | Ti capisco: avevi qualche mezzo per mantenere un cane. |
+| [[Apemantus\|APEMANTO]] | Quali cose al mondo puoi paragonare più da vicino ai tuoi adulatori? |
+| [[Timon\|TIMONE]] | Le donne più da vicino; ma gli uomini, gli uomini sono le cose stesse. Che faresti tu del mondo, [[Apemantus\|Apemanto]], se stesse in tuo potere? |
+| [[Apemantus\|APEMANTO]] | Lo darei alle bestie, per sbarazzarmi degli uomini. |
+| [[Timon\|TIMONE]] | Vorresti tu stesso cadere nella rovina degli uomini, e restare una bestia fra le bestie? |
+| [[Apemantus\|APEMANTO]] | Sì, [[Timon\|Timone]]. |
+| [[Timon\|TIMONE]] | Una bestiale [[Ambition\|ambizione]], che gli dèi ti concedano di raggiungere. Se tu fossi il [[Lion\|leone]], la volpe t’ingannerebbe. Se fossi l’[[Lamb\|agnello]], la volpe ti mangerebbe. Se fossi la volpe, il [[Lion\|leone]] ti sospetterebbe quando per avventura fossi accusato dall’asino. Se fossi l’asino, la tua ottusità ti tormenterebbe, e vivresti soltanto come colazione del lupo. Se fossi il lupo, la tua ingordigia t’affliggerebbe, e spesso rischieresti la vita per il tuo pranzo. Fossi l’unicorno, l’[[Pride\|orgoglio]] e l’ira ti confonderebbero, e farebbero del tuo stesso [[Self\|io]] la conquista del tuo furore. Fossi un orso, saresti ucciso dal [[Horse\|cavallo]]. Fossi un [[Horse\|cavallo]], saresti ghermito dal leopardo. Fossi un leopardo, saresti germano del [[Lion\|leone]], e le macchie della tua parentela sarebbero giurati sulla tua vita; tutta la tua salvezza sarebbe l’allontanarti, e la tua difesa l’assenza. Che bestia potresti essere che non fosse soggetta a una bestia? E che bestia sei già, che non vedi la tua perdita nella trasformazione! |
+| [[Apemantus\|APEMANTO]] | Se tu potessi piacermi parlando con me, avresti potuto coglierlo qui. La repubblica d’Atene è divenuta una foresta di bestie. |
+| [[Timon\|TIMONE]] | Come, l’asino ha rotto il muro, che tu sei fuori della [[City\|città]]? |
+| [[Apemantus\|APEMANTO]] | Laggiù vengono un poeta e un pittore. La peste della compagnia cada su di te! [[Fear\|Temerò]] di prenderla, e mi tolgo di mezzo. Quando non saprò che altro fare, ti rivedrò. 356 |
+| [[Timon\|TIMONE]] | Quando non ci sarà nulla di vivo se non te, sarai il benvenuto. Preferirei essere il cane d’un mendicante che [[Apemantus\|Apemanto]]. |
+| [[Apemantus\|APEMANTO]] | Tu sei il berretto di tutti gli sciocchi viventi. |
+| [[Timon\|TIMONE]] | Fossi tu abbastanza pulito da sputarci sopra. |
+| [[Apemantus\|APEMANTO]] | La peste su di te! Sei troppo cattivo perfino da maledire. |
+| [[Timon\|TIMONE]] | Tutti i furfanti che ti stanno accanto sono puri. |
+| [[Apemantus\|APEMANTO]] | Non c’è lebbra se non quella che tu parli. |
+| [[Timon\|TIMONE]] | Se pronuncio il tuo nome.<br>Ti batterei, ma m’infetterei le mani. |
+| [[Apemantus\|APEMANTO]] | Vorrei che la mia lingua potesse fartele marcire e cadere. |
+| [[Timon\|TIMONE]] | Via, tu progenie d’un cane rognoso!<br>La collera mi uccide che tu sia vivo.<br>Vengo meno a vederti. |
+| [[Apemantus\|APEMANTO]] | Vorrei che tu scoppiassi! |
+| [[Timon\|TIMONE]] | Via, tu noioso furfante! |
+| *(didascalia)* | Getta una pietra contro [[Apemantus\|Apemanto]] |
+| [[Timon\|TIMONE]] | Mi dispiace di perdere una pietra per causa tua. |
+| [[Apemantus\|APEMANTO]] | Bestia! |
+| [[Timon\|TIMONE]] | Schiavo! |
+| [[Apemantus\|APEMANTO]] | Rospo! |
+| [[Timon\|TIMONE]] | Furfante, furfante, furfante!<br>Sono nauseato di questo mondo falso, e non [[Love\|amerò]] nulla<br>se non le pure necessità che vi sono.<br>Allora, [[Timon\|Timone]], prepara subito la tua [[Grave\|tomba]].<br>Giaci dove la lieve spuma del mare possa battere<br>ogni giorno la tua pietra sepolcrale. Componi il tuo epitaffio,<br>sì che la [[Death\|morte]] in me possa ridere della vita altrui.<br>Guarda l’oro<br>O tu, dolce uccisore di [[King\|re]], e caro [[divorce\|divorzio]]<br>fra il figlio naturale e il padre; tu splendido profanatore<br>del più puro letto d’Imeneo; tu valoroso Marte;<br>tu sempre giovane, fresco, amato e delicato corteggiatore,<br>il cui rossore disgela la [[Snow\|neve]] consacrata<br>che giace in grembo a Diana; tu dio visibile,<br>che saldi insieme strette impossibilità<br>e le fai baciare, che parli con ogni lingua<br>per ogni scopo; o tu pietra di paragone dei cuori:<br>pensa che l’uomo tuo schiavo si ribella, e con la tua virtù<br>mettili in discordia rovinosa, sì che le bestie<br>abbiano l’impero del mondo. |
+| [[Apemantus\|APEMANTO]] | Fosse così,<br>ma non prima ch’io sia morto. Dirò che hai dell’oro.<br>Sarai presto assediato dalla folla. |
+| [[Timon\|TIMONE]] | Assediato dalla folla? |
+| [[Apemantus\|APEMANTO]] | Sì. |
+| [[Timon\|TIMONE]] | Le spalle, ti prego. |
+| [[Apemantus\|APEMANTO]] | Vivi, e [[Love\|ama]] la tua miseria. |
+| [[Timon\|TIMONE]] | Viva a lungo così, e così muoia. Siamo pari. |
 | *(didascalia)* | Entrano i Banditi, ladroni |
-| [[Apemantus|APEMANTO]] | Altre cose simili a uomini. Mangia, [[Timon|Timone]], e detestali. |
+| [[Apemantus\|APEMANTO]] | Altre cose simili a uomini. Mangia, [[Timon\|Timone]], e detestali. |
 | *(didascalia)* | Esce |
-| PRIMO LADRONE | Da dove gli verrebbe quest’oro? Sarà qualche povero [[Fragment|frammento]], qualche misero avanzo del suo residuo. La pura mancanza d’oro e l’abbandono dei suoi amici l’hanno spinto in questa [[Melancholy|malinconia]]. |
+| PRIMO LADRONE | Da dove gli verrebbe quest’oro? Sarà qualche povero [[Fragment\|frammento]], qualche misero avanzo del suo residuo. La pura mancanza d’oro e l’abbandono dei suoi amici l’hanno spinto in questa [[Melancholy\|malinconia]]. |
 | SECONDO LADRONE | Si dice in giro che abbia una massa di tesoro. |
 | TERZO LADRONE | Facciamone la prova su di lui. Se non gli importa, ce ne fornirà facilmente. Se lo serba avidamente, come faremo a prenderlo? |
 | SECONDO LADRONE | Vero, ché non lo porta addosso; è nascosto. |
@@ -2936,41 +2936,41 @@ The Life of [[Timon]] of Athens
 | ALTRI LADRONI | Dove? |
 | SECONDO LADRONE | È la sua descrizione. |
 | TERZO LADRONE | È lui, lo conosco. |
-| TUTTI I LADRONI | (facendosi avanti) Dio ti salvi, [[Timon|Timone]]. |
-| [[Timon|TIMONE]] | Ebbene, ladri. |
+| TUTTI I LADRONI | (facendosi avanti) Dio ti salvi, [[Timon\|Timone]]. |
+| [[Timon\|TIMONE]] | Ebbene, ladri. |
 | TUTTI I LADRONI | Soldati, non ladri. |
-| [[Timon|TIMONE]] | Entrambi, anche, e figli di donna. |
+| [[Timon\|TIMONE]] | Entrambi, anche, e figli di donna. |
 | TUTTI I LADRONI | Non siamo ladri, ma uomini che hanno gran bisogno. |
-| [[Timon|TIMONE]] | Il vostro maggior bisogno è che vi manca molto cibo.<br>Perché dovreste mancarne? Guardate, la terra ha radici. |
+| [[Timon\|TIMONE]] | Il vostro maggior bisogno è che vi manca molto cibo.<br>Perché dovreste mancarne? Guardate, la terra ha radici. |
 | *(didascalia)* | Entro un miglio da qui sgorgano cento sorgenti. |
-| [[Timon|TIMONE]] | Le querce portano ghiande, i rovi rossi cinorrodi.<br>La munifica massaia [[Nature|natura]] su ogni cespuglio<br>vi pone davanti la sua piena pietanza. Bisogno? Perché bisogno? |
-| PRIMO LADRONE | Non possiamo vivere d’erba, di bacche, d’[[Water|acqua]],<br>come bestie, [[Birds|uccelli]] e pesci. |
-| [[Timon|TIMONE]] | Né delle bestie stesse, degli [[Birds|uccelli]] e dei pesci;<br>dovete mangiare uomini. Pure vi devo rendere grazie<br>che siate ladri per professione, che non operiate<br>in forme più sante; ché c’è furto sconfinato<br>nelle professioni legali. (Dando dell’oro) Ladri mascalzoni,<br>ecco oro. Andate a succhiare il sottile [[Blood|sangue]] dell’uva<br>finché l’alta febbre non vi faccia ribollire il [[Blood|sangue]] in schiuma,<br>e così scampiate alla forca. Non fidatevi del medico:<br>i suoi antidoti sono [[Poison|veleno]], ed egli uccide<br>più di quanto voi rubiate. Prendete ricchezze e vite insieme.<br>Fate scelleratezze; fatele, poiché dichiarate di farle,<br>da operai. Vi darò esempi di ladrocinio.<br>Il sole è un ladro, e con la sua grande attrazione<br>deruba il vasto mare. La [[Moon|luna]] è una ladra matricolata,<br>e il suo pallido [[Fire|fuoco]] lo strappa al sole.<br>Il mare è un ladro, la cui liquida marea scioglie<br>la [[Moon|luna]] in salate [[Tears|lacrime]]. La terra è una ladra,<br>che si nutre e genera con un concime rubato<br>dagli escrementi generali. Ogni cosa è ladra.<br>Le leggi, vostro freno e vostra frusta, nel loro rozzo potere<br>hanno il furto impunito. Non [[Love|amate]] voi stessi. Via,<br>derubatevi l’un l’altro. Ecco altro oro. Tagliate gole;<br>tutti quelli che incontrate sono ladri. Andate ad Atene,<br>sfondate le botteghe; nulla potete rubare<br>che i ladri non lo perdano. Non rubate meno per questo che vi do,<br>e l’oro vi confonda comunque. Amen. |
+| [[Timon\|TIMONE]] | Le querce portano ghiande, i rovi rossi cinorrodi.<br>La munifica massaia [[Nature\|natura]] su ogni cespuglio<br>vi pone davanti la sua piena pietanza. Bisogno? Perché bisogno? |
+| PRIMO LADRONE | Non possiamo vivere d’erba, di bacche, d’[[Water\|acqua]],<br>come bestie, [[Birds\|uccelli]] e pesci. |
+| [[Timon\|TIMONE]] | Né delle bestie stesse, degli [[Birds\|uccelli]] e dei pesci;<br>dovete mangiare uomini. Pure vi devo rendere grazie<br>che siate ladri per professione, che non operiate<br>in forme più sante; ché c’è furto sconfinato<br>nelle professioni legali. (Dando dell’oro) Ladri mascalzoni,<br>ecco oro. Andate a succhiare il sottile [[Blood\|sangue]] dell’uva<br>finché l’alta febbre non vi faccia ribollire il [[Blood\|sangue]] in schiuma,<br>e così scampiate alla forca. Non fidatevi del medico:<br>i suoi antidoti sono [[Poison\|veleno]], ed egli uccide<br>più di quanto voi rubiate. Prendete ricchezze e vite insieme.<br>Fate scelleratezze; fatele, poiché dichiarate di farle,<br>da operai. Vi darò esempi di ladrocinio.<br>Il sole è un ladro, e con la sua grande attrazione<br>deruba il vasto mare. La [[Moon\|luna]] è una ladra matricolata,<br>e il suo pallido [[Fire\|fuoco]] lo strappa al sole.<br>Il mare è un ladro, la cui liquida marea scioglie<br>la [[Moon\|luna]] in salate [[Tears\|lacrime]]. La terra è una ladra,<br>che si nutre e genera con un concime rubato<br>dagli escrementi generali. Ogni cosa è ladra.<br>Le leggi, vostro freno e vostra frusta, nel loro rozzo potere<br>hanno il furto impunito. Non [[Love\|amate]] voi stessi. Via,<br>derubatevi l’un l’altro. Ecco altro oro. Tagliate gole;<br>tutti quelli che incontrate sono ladri. Andate ad Atene,<br>sfondate le botteghe; nulla potete rubare<br>che i ladri non lo perdano. Non rubate meno per questo che vi do,<br>e l’oro vi confonda comunque. Amen. |
 | TERZO LADRONE | M’ha quasi incantato lontano dalla mia professione persuadendomi a essa. |
 | PRIMO LADRONE | È per malizia verso il genere umano che ci consiglia così, non per farci prosperare nel nostro mestiere. |
 | SECONDO LADRONE | Gli crederò come a un nemico, e lascerò il mio mestiere. |
-| PRIMO LADRONE | Vediamo prima la pace ad Atene. Non c’è [[Time|tempo]] tanto misero che un uomo non possa essere onesto. |
+| PRIMO LADRONE | Vediamo prima la pace ad Atene. Non c’è [[Time\|tempo]] tanto misero che un uomo non possa essere onesto. |
 | *(didascalia)* | Escono i Ladroni |
-| *(didascalia)* | Entra [[Flavius|Flavio]] verso [[Timon|Timone]] |
-| [[Flavius|FLAVIO]] | O voi dèi!<br>È quell’uomo disprezzato e in rovina il mio signore,<br>pieno di [[Decay|decadimento]] e di sfacelo? O monumento<br>e [[Wonder|meraviglia]] di buone azioni malamente elargite!<br>Che alterazione d’[[Honour|onore]] ha prodotto la disperata miseria!<br>Che cosa più vile sulla terra degli amici,<br>che possono condurre i più nobili animi ai più bassi fini!<br>Quanto raramente s’accorda col costume di questo [[Time|tempo]],<br>quando all’uomo fu prescritto d’[[Love|amare]] i propri nemici!<br>Concedano ch’io [[Love|ami]] sempre e corteggi piuttosto<br>quelli che vorrebbero farmi male che quelli che me lo fanno!<br>[[Timon|Timone]] lo vede<br>M’ha colto con l’occhio. Gli presenterò<br>il mio onesto dolore, e come mio signore<br>lo servirò ancora con la mia vita.—Mio carissimo padrone. |
-| [[Timon|TIMONE]] | Via! Chi sei tu? |
-| [[Flavius|FLAVIO]] | M’avete dimenticato, signore? |
-| [[Timon|TIMONE]] | Perché lo chiedi? Ho dimenticato tutti gli uomini;<br>dunque, se ammetti d’essere uomo, ho dimenticato te. |
-| [[Flavius|FLAVIO]] | Un onesto povero servo vostro. |
-| [[Timon|TIMONE]] | Allora non ti conosco. Non ebbi mai<br>uomo onesto intorno a me; sì, tutti quelli che tenni erano furfanti,<br>per servire vivande a furfanti. |
-| [[Flavius|FLAVIO]] | Gli dèi ne son testimoni,<br>mai povero intendente portò un dolore più vero<br>per il suo signore rovinato di quanto lo portino i miei occhi per voi. |
-| [[Timon|TIMONE]] | Come, tu piangi? Vieni più vicino allora; ti [[Love|amo]]<br>perché sei una donna, e ripudi<br>l’umanità di selce, i cui occhi non danno mai<br>se non attraverso la libidine e il riso. La pietà dorme.<br>Strani tempi, che piangono ridendo, e non<br>piangendo! |
-| [[Flavius|FLAVIO]] | Vi supplico di riconoscermi, mio buon signore,<br>d’accettare il mio dolore, |
+| *(didascalia)* | Entra [[Flavius\|Flavio]] verso [[Timon\|Timone]] |
+| [[Flavius\|FLAVIO]] | O voi dèi!<br>È quell’uomo disprezzato e in rovina il mio signore,<br>pieno di [[Decay\|decadimento]] e di sfacelo? O monumento<br>e [[Wonder\|meraviglia]] di buone azioni malamente elargite!<br>Che alterazione d’[[Honour\|onore]] ha prodotto la disperata miseria!<br>Che cosa più vile sulla terra degli amici,<br>che possono condurre i più nobili animi ai più bassi fini!<br>Quanto raramente s’accorda col costume di questo [[Time\|tempo]],<br>quando all’uomo fu prescritto d’[[Love\|amare]] i propri nemici!<br>Concedano ch’io [[Love\|ami]] sempre e corteggi piuttosto<br>quelli che vorrebbero farmi male che quelli che me lo fanno!<br>[[Timon\|Timone]] lo vede<br>M’ha colto con l’occhio. Gli presenterò<br>il mio onesto dolore, e come mio signore<br>lo servirò ancora con la mia vita.—Mio carissimo padrone. |
+| [[Timon\|TIMONE]] | Via! Chi sei tu? |
+| [[Flavius\|FLAVIO]] | M’avete dimenticato, signore? |
+| [[Timon\|TIMONE]] | Perché lo chiedi? Ho dimenticato tutti gli uomini;<br>dunque, se ammetti d’essere uomo, ho dimenticato te. |
+| [[Flavius\|FLAVIO]] | Un onesto povero servo vostro. |
+| [[Timon\|TIMONE]] | Allora non ti conosco. Non ebbi mai<br>uomo onesto intorno a me; sì, tutti quelli che tenni erano furfanti,<br>per servire vivande a furfanti. |
+| [[Flavius\|FLAVIO]] | Gli dèi ne son testimoni,<br>mai povero intendente portò un dolore più vero<br>per il suo signore rovinato di quanto lo portino i miei occhi per voi. |
+| [[Timon\|TIMONE]] | Come, tu piangi? Vieni più vicino allora; ti [[Love\|amo]]<br>perché sei una donna, e ripudi<br>l’umanità di selce, i cui occhi non danno mai<br>se non attraverso la libidine e il riso. La pietà dorme.<br>Strani tempi, che piangono ridendo, e non<br>piangendo! |
+| [[Flavius\|FLAVIO]] | Vi supplico di riconoscermi, mio buon signore,<br>d’accettare il mio dolore, |
 | *(didascalia)* | Offre il suo denaro |
-| [[Flavius|FLAVIO]] | e, finché dura questa povera ricchezza,<br>di tenermi ancora come vostro intendente. |
-| [[Timon|TIMONE]] | Avevo io un intendente<br>così fedele, così giusto, e ora così consolante?<br>Quasi ammansisce la mia pericolosa [[Nature|natura]].<br>Lascia ch’io veda il tuo volto. Certo quest’uomo<br>è nato di donna.<br>Perdonate la mia generale e senza eccezioni avventatezza,<br>voi dèi perpetuamente sobri! Io proclamo<br>un uomo onesto—non fraintendetemi, ma uno,<br>non più, vi prego—ed è un intendente.<br>Quanto volentieri avrei odiato tutto il genere umano,<br>e tu riscatti te stesso! Ma tutti tranne te<br>li ho abbattuti con maledizioni.<br>Mi pare che tu sia più onesto che savio,<br>ché opprimendomi e tradendomi<br>avresti potuto ottenere più presto un altro servizio;<br>ché molti giungono così a secondi padroni<br>sul collo del primo signore. Ma dimmi il vero—<br>ché devo sempre [[Doubt|dubitare]], per quanto sia sicuro—<br>la tua bontà non è sottile, avida,<br>una bontà d’usuraio, e, come i ricchi elargiscono doni,<br>che s’aspetta in cambio venti per uno? |
-| [[Flavius|FLAVIO]] | No, mio degnissimo padrone, nel cui petto<br>il [[Doubt|dubbio]] e il sospetto, ahimè, si sono insediati troppo tardi.<br>Avreste dovuto temere i tempi falsi quando banchettavate.<br>Il sospetto giunge sempre dove il patrimonio è minimo.<br>Ciò che mostro, il cielo lo sa, è puro [[Love|amore]],<br>dovere e zelo verso il vostro animo senza pari,<br>cura del vostro cibo e del vostro vivere; e, credetelo,<br>mio onoratissimo signore,<br>qualunque beneficio che a me si rivolga,<br>in [[Hope|speranza]] o presente, lo scambierei<br>per questo solo desiderio: che aveste potere e ricchezza<br>da ricompensarmi arricchendo voi stesso. |
-| [[Timon|TIMONE]] | Guarda, è così. Tu, unico uomo onesto, |
-| *(didascalia)* | Dà dell’oro a [[Flavius|Flavio]] |
-| [[Timon|TIMONE]] | Ecco, prendi. Gli dèi, dalla mia miseria,<br>t’hanno mandato un tesoro. Va’, vivi ricco e felice,<br>ma a questa condizione: costruirai lontano dagli uomini,<br>odierai tutti, maledirai tutti, non mostrerai [[Charity|carità]] a nessuno,<br>ma lascerai che la carne affamata scivoli via dall’osso<br>prima di soccorrere il mendicante. Da’ ai [[dogs|cani]]<br>ciò che neghi agli uomini. Che le prigioni li [[Swallow|inghiottano]],<br>i debiti li riducano a nulla; siano gli uomini come boschi fulminati,<br>e le malattie lecchino via i loro falsi sangui.<br>E così addio, e prospera. |
-| [[Flavius|FLAVIO]] | Oh, lasciate ch’io resti<br>e vi conforti, padrone mio. |
-| [[Timon|TIMONE]] | Se odi le maledizioni,<br>non restare. Fuggi mentre sei benedetto e libero.<br>Non vedere mai più un uomo, e ch’io non veda mai più te. |
-| *(didascalia)* | Escono [[Timon|Timone]] nella sua [[Cave|caverna]], [[Flavius|Flavio]] per un’altra via |
+| [[Flavius\|FLAVIO]] | e, finché dura questa povera ricchezza,<br>di tenermi ancora come vostro intendente. |
+| [[Timon\|TIMONE]] | Avevo io un intendente<br>così fedele, così giusto, e ora così consolante?<br>Quasi ammansisce la mia pericolosa [[Nature\|natura]].<br>Lascia ch’io veda il tuo volto. Certo quest’uomo<br>è nato di donna.<br>Perdonate la mia generale e senza eccezioni avventatezza,<br>voi dèi perpetuamente sobri! Io proclamo<br>un uomo onesto—non fraintendetemi, ma uno,<br>non più, vi prego—ed è un intendente.<br>Quanto volentieri avrei odiato tutto il genere umano,<br>e tu riscatti te stesso! Ma tutti tranne te<br>li ho abbattuti con maledizioni.<br>Mi pare che tu sia più onesto che savio,<br>ché opprimendomi e tradendomi<br>avresti potuto ottenere più presto un altro servizio;<br>ché molti giungono così a secondi padroni<br>sul collo del primo signore. Ma dimmi il vero—<br>ché devo sempre [[Doubt\|dubitare]], per quanto sia sicuro—<br>la tua bontà non è sottile, avida,<br>una bontà d’usuraio, e, come i ricchi elargiscono doni,<br>che s’aspetta in cambio venti per uno? |
+| [[Flavius\|FLAVIO]] | No, mio degnissimo padrone, nel cui petto<br>il [[Doubt\|dubbio]] e il sospetto, ahimè, si sono insediati troppo tardi.<br>Avreste dovuto temere i tempi falsi quando banchettavate.<br>Il sospetto giunge sempre dove il patrimonio è minimo.<br>Ciò che mostro, il cielo lo sa, è puro [[Love\|amore]],<br>dovere e zelo verso il vostro animo senza pari,<br>cura del vostro cibo e del vostro vivere; e, credetelo,<br>mio onoratissimo signore,<br>qualunque beneficio che a me si rivolga,<br>in [[Hope\|speranza]] o presente, lo scambierei<br>per questo solo desiderio: che aveste potere e ricchezza<br>da ricompensarmi arricchendo voi stesso. |
+| [[Timon\|TIMONE]] | Guarda, è così. Tu, unico uomo onesto, |
+| *(didascalia)* | Dà dell’oro a [[Flavius\|Flavio]] |
+| [[Timon\|TIMONE]] | Ecco, prendi. Gli dèi, dalla mia miseria,<br>t’hanno mandato un tesoro. Va’, vivi ricco e felice,<br>ma a questa condizione: costruirai lontano dagli uomini,<br>odierai tutti, maledirai tutti, non mostrerai [[Charity\|carità]] a nessuno,<br>ma lascerai che la carne affamata scivoli via dall’osso<br>prima di soccorrere il mendicante. Da’ ai [[dogs\|cani]]<br>ciò che neghi agli uomini. Che le prigioni li [[Swallow\|inghiottano]],<br>i debiti li riducano a nulla; siano gli uomini come boschi fulminati,<br>e le malattie lecchino via i loro falsi sangui.<br>E così addio, e prospera. |
+| [[Flavius\|FLAVIO]] | Oh, lasciate ch’io resti<br>e vi conforti, padrone mio. |
+| [[Timon\|TIMONE]] | Se odi le maledizioni,<br>non restare. Fuggi mentre sei benedetto e libero.<br>Non vedere mai più un uomo, e ch’io non veda mai più te. |
+| *(didascalia)* | Escono [[Timon\|Timone]] nella sua [[Cave\|caverna]], [[Flavius\|Flavio]] per un’altra via |
 
 
 
@@ -3044,59 +3044,59 @@ The Life of [[Timon]] of Athens
 | *(didascalia)* | Entrano il Poeta e il Pittore |
 | PITTORE | Da come ho preso nota del luogo, non può essere lontano il posto dove dimora. |
 | POETA | Che si deve pensare di lui? Regge per vera la voce che sia così pieno d’oro? |
-| PITTORE | Certissimo. [[Alcibiades|Alcibiade]] lo riferisce. Frinia e Timandra ebbero oro da lui. Egli parimenti arricchì di gran quantità poveri soldati sbandati. Si dice che al suo intendente diede una somma ingente. |
+| PITTORE | Certissimo. [[Alcibiades\|Alcibiade]] lo riferisce. Frinia e Timandra ebbero oro da lui. Egli parimenti arricchì di gran quantità poveri soldati sbandati. Si dice che al suo intendente diede una somma ingente. |
 | POETA | Allora questo suo fallimento non è stato che una prova per i suoi amici? |
 | PITTORE | Nient’altro. Lo vedrete di nuovo palma in Atene, e fiorire con i più alti. Perciò non è male che gli offriamo il nostro affetto in questa sua presunta angustia. Ci farà apparire onesti, ed è assai probabile che carichi i nostri intenti di ciò per cui s’affaticano, se è giusta e vera la voce che corre sui suoi averi. |
 | POETA | Che avete ora da presentargli? |
-| PITTORE | Nulla per il [[Time|momento]], se non la mia visita; solo gli prometterò un’opera eccellente. |
+| PITTORE | Nulla per il [[Time\|momento]], se non la mia visita; solo gli prometterò un’opera eccellente. |
 | POETA | Dovrò servirlo così anch’io, parlargli d’un progetto che sta per venirgli incontro. |
 | PITTORE | Buono come il migliore. |
-| *(didascalia)* | Entra [[Timon|Timone]] dalla sua [[Cave|caverna]], inosservato |
-| PITTORE | Promettere è proprio l’aria del [[Time|tempo]]; apre gli occhi dell’aspettativa. L’adempiere è sempre più fiacco nel suo atto, e se non presso la gente più semplice e schietta il fatto conforme al detto è del tutto fuori uso. Promettere è cosa cortigianesca e alla moda. L’adempiere è una specie di volontà o testamento, che dimostra una grave malattia nel giudizio di chi lo fa. |
-| [[Timon|TIMONE]] | (a parte) Eccellente artefice, non sai dipingere un uomo tanto cattivo quanto sei tu stesso. |
-| POETA | (al Pittore) Sto pensando a che cosa dirò d’aver preparato per lui. Dev’essere una raffigurazione di lui stesso, una [[Satire|satira]] contro la mollezza della prosperità, con la scoperta delle infinite adulazioni che seguono la giovinezza e l’opulenza. |
-| [[Timon|TIMONE]] | (a parte) Devi proprio far la parte d’un [[Villain|furfante]] nella tua stessa opera? Vuoi flagellare i tuoi difetti in altri uomini? Fallo pure; ho dell’oro per te. |
+| *(didascalia)* | Entra [[Timon\|Timone]] dalla sua [[Cave\|caverna]], inosservato |
+| PITTORE | Promettere è proprio l’aria del [[Time\|tempo]]; apre gli occhi dell’aspettativa. L’adempiere è sempre più fiacco nel suo atto, e se non presso la gente più semplice e schietta il fatto conforme al detto è del tutto fuori uso. Promettere è cosa cortigianesca e alla moda. L’adempiere è una specie di volontà o testamento, che dimostra una grave malattia nel giudizio di chi lo fa. |
+| [[Timon\|TIMONE]] | (a parte) Eccellente artefice, non sai dipingere un uomo tanto cattivo quanto sei tu stesso. |
+| POETA | (al Pittore) Sto pensando a che cosa dirò d’aver preparato per lui. Dev’essere una raffigurazione di lui stesso, una [[Satire\|satira]] contro la mollezza della prosperità, con la scoperta delle infinite adulazioni che seguono la giovinezza e l’opulenza. |
+| [[Timon\|TIMONE]] | (a parte) Devi proprio far la parte d’un [[Villain\|furfante]] nella tua stessa opera? Vuoi flagellare i tuoi difetti in altri uomini? Fallo pure; ho dell’oro per te. |
 | POETA | (al Pittore) Su, cerchiamolo. Allora pecchiamo contro il nostro stesso interesse quando possiamo trovare il profitto e giungiamo troppo tardi. |
-| PITTORE | Vero.<br>Quando il giorno serve, prima della [[Night|notte]] dagli angoli neri,<br>trova ciò che ti manca con libera e offerta luce.<br>Vieni. |
-| [[Timon|TIMONE]] | (a parte)<br>V’incontrerò alla svolta. Che dio è l’oro,<br>che viene adorato in un tempio più vile<br>di quello dove si nutrono i porci!<br>Sei tu che armi la barca e solchi la spuma,<br>che insedi ammirata riverenza in uno schiavo.<br>A te sia culto, e i tuoi santi in eterno<br>siano coronati di pesti, essi che a te [[Alone|solo]] obbediscono.<br>È giusto ch’io li incontri.<br>Si fa avanti verso di loro |
-| POETA | Salve, degno [[Timon|Timone]]! |
+| PITTORE | Vero.<br>Quando il giorno serve, prima della [[Night\|notte]] dagli angoli neri,<br>trova ciò che ti manca con libera e offerta luce.<br>Vieni. |
+| [[Timon\|TIMONE]] | (a parte)<br>V’incontrerò alla svolta. Che dio è l’oro,<br>che viene adorato in un tempio più vile<br>di quello dove si nutrono i porci!<br>Sei tu che armi la barca e solchi la spuma,<br>che insedi ammirata riverenza in uno schiavo.<br>A te sia culto, e i tuoi santi in eterno<br>siano coronati di pesti, essi che a te [[Alone\|solo]] obbediscono.<br>È giusto ch’io li incontri.<br>Si fa avanti verso di loro |
+| POETA | Salve, degno [[Timon\|Timone]]! |
 | PITTORE | Nostro nobile padrone d’un tempo! |
-| [[Timon|TIMONE]] | Ho vissuto tanto da vedere due uomini onesti? |
+| [[Timon\|TIMONE]] | Ho vissuto tanto da vedere due uomini onesti? |
 | POETA | Signore, avendo spesso gustato della vostra aperta munificenza,<br>udendo che vi eravate ritirato, che i vostri amici erano venuti meno,<br>le cui nature ingrate, o spiriti aborriti,<br>tutte le sferze del cielo non bastano—<br>come, a voi,<br>la cui nobiltà simile a stella diede vita e influsso<br>a tutto il loro essere! Sono rapito, e non posso coprire<br>la mole mostruosa di quest’ingratitudine<br>con parole d’alcuna misura. |
-| [[Timon|TIMONE]] | Lasciatela nuda; gli uomini la vedranno meglio.<br>Voi che siete onesti, essendo quel che siete<br>li rendete visibilissimi e riconoscibili. |
+| [[Timon\|TIMONE]] | Lasciatela nuda; gli uomini la vedranno meglio.<br>Voi che siete onesti, essendo quel che siete<br>li rendete visibilissimi e riconoscibili. |
 | PITTORE | Egli e io<br>abbiamo camminato nel gran rovescio dei vostri doni,<br>e dolcemente l’abbiamo sentito. |
-| [[Timon|TIMONE]] | Sì, siete uomini onesti. |
+| [[Timon\|TIMONE]] | Sì, siete uomini onesti. |
 | PITTORE | Siamo venuti qui a offrirvi il nostro servizio. |
-| [[Timon|TIMONE]] | Onestissimi uomini. Ebbene, come vi ricompenserò?<br>Potete mangiare radici e bere fredda [[Water|acqua]]? No. |
+| [[Timon\|TIMONE]] | Onestissimi uomini. Ebbene, come vi ricompenserò?<br>Potete mangiare radici e bere fredda [[Water\|acqua]]? No. |
 | POETA | e PITTORE<br>Quel che possiamo fare lo faremo per servirvi. |
-| [[Timon|TIMONE]] | Siete uomini onesti. Avete udito che ho dell’oro,<br>ne son certo. Dite la [[Truth|verità]]; siete uomini onesti. |
+| [[Timon\|TIMONE]] | Siete uomini onesti. Avete udito che ho dell’oro,<br>ne son certo. Dite la [[Truth\|verità]]; siete uomini onesti. |
 | PITTORE | Così si dice, mio nobile signore, ma non per questo<br>venimmo io e il mio amico. |
-| [[Timon|TIMONE]] | Buoni uomini onesti. (Al Pittore) Tu dipingi un<br>ritratto<br>meglio di chiunque in Atene; sei davvero il migliore;<br>contraffai con somma vivezza. |
+| [[Timon\|TIMONE]] | Buoni uomini onesti. (Al Pittore) Tu dipingi un<br>ritratto<br>meglio di chiunque in Atene; sei davvero il migliore;<br>contraffai con somma vivezza. |
 | PITTORE | Così così, mio signore. |
-| [[Timon|TIMONE]] | Proprio così, signore, come dico. (Al Poeta) E quanto alla tua invenzione,<br>ebbene, il tuo verso si gonfia di materia così fine e liscia<br>che sei perfino naturale nella tua arte.<br>Ma con tutto questo, amici miei d’onesta natura,<br>devo pur dire che avete un piccolo difetto.<br>Certo, non è mostruoso in voi, né desidero<br>che vi diate gran pena per correggerlo. |
-| POETA | e PITTORE<br>Supplichiamo vostro [[Honour|onore]]<br>di farcelo conoscere. |
-| [[Timon|TIMONE]] | Ve l’avrete a male. |
+| [[Timon\|TIMONE]] | Proprio così, signore, come dico. (Al Poeta) E quanto alla tua invenzione,<br>ebbene, il tuo verso si gonfia di materia così fine e liscia<br>che sei perfino naturale nella tua arte.<br>Ma con tutto questo, amici miei d’onesta natura,<br>devo pur dire che avete un piccolo difetto.<br>Certo, non è mostruoso in voi, né desidero<br>che vi diate gran pena per correggerlo. |
+| POETA | e PITTORE<br>Supplichiamo vostro [[Honour\|onore]]<br>di farcelo conoscere. |
+| [[Timon\|TIMONE]] | Ve l’avrete a male. |
 | POETA | e PITTORE Con molta gratitudine, mio signore. |
-| [[Timon|TIMONE]] | Davvero? |
-| POETA | e PITTORE Non [[Doubt|dubitatene]], degno signore. |
-| [[Timon|TIMONE]] | Non ce n’è uno di voi che non si fidi d’un furfante<br>che potentemente v’inganna. |
+| [[Timon\|TIMONE]] | Davvero? |
+| POETA | e PITTORE Non [[Doubt\|dubitatene]], degno signore. |
+| [[Timon\|TIMONE]] | Non ce n’è uno di voi che non si fidi d’un furfante<br>che potentemente v’inganna. |
 | POETA | e PITTORE Davvero, mio signore? |
-| [[Timon|TIMONE]] | Sì, e lo sentite barare, lo vedete fingere,<br>conoscete la sua grossolana ciarlataneria, l’[[Love|amate]], lo nutrite,<br>lo tenete in seno; eppure restate certi<br>ch’è un [[Villain|furfante]] bell’e fatto. |
+| [[Timon\|TIMONE]] | Sì, e lo sentite barare, lo vedete fingere,<br>conoscete la sua grossolana ciarlataneria, l’[[Love\|amate]], lo nutrite,<br>lo tenete in seno; eppure restate certi<br>ch’è un [[Villain\|furfante]] bell’e fatto. |
 | PITTORE | Non ne conosco alcuno di simile, mio signore. |
 | POETA | Né io. |
-| [[Timon|TIMONE]] | Vedete, io vi [[Love|amo]] [[Well|bene]]. Vi darò oro,<br>liberatemi questi furfanti dalle vostre compagnie.<br>Impiccateli o pugnalateli, annegateli in una fogna,<br>confondeteli in qualche modo, e venite da me,<br>vi darò oro a sufficienza. |
+| [[Timon\|TIMONE]] | Vedete, io vi [[Love\|amo]] [[Well\|bene]]. Vi darò oro,<br>liberatemi questi furfanti dalle vostre compagnie.<br>Impiccateli o pugnalateli, annegateli in una fogna,<br>confondeteli in qualche modo, e venite da me,<br>vi darò oro a sufficienza. |
 | POETA | e PITTORE<br>Nominateli, mio signore, facceli conoscere. |
-| [[Timon|TIMONE]] | Tu da quella parte e tu da questa—ma due in compagnia—<br>ciascuno per conto suo, tutti singoli e [[Alone|soli]],<br>eppure un arci-[[Villain|furfante]] gli tiene compagnia. |
+| [[Timon\|TIMONE]] | Tu da quella parte e tu da questa—ma due in compagnia—<br>ciascuno per conto suo, tutti singoli e [[Alone\|soli]],<br>eppure un arci-[[Villain\|furfante]] gli tiene compagnia. |
 | *(didascalia)* | Al Pittore Se dove tu sei non devono esserci due furfanti, |
 | *(didascalia)* | non avvicinarti a lui. Al Poeta Se tu non volessi |
-| [[Timon|TIMONE]] | risiedere<br>se non dove c’è un solo [[Villain|furfante]], allora abbandonalo. |
+| [[Timon\|TIMONE]] | risiedere<br>se non dove c’è un solo [[Villain\|furfante]], allora abbandonalo. |
 | *(didascalia)* | Via di qui; sgombrate! Percuotendolo Ecco dell’oro. Siete venuti |
-| [[Timon|TIMONE]] | per oro, schiavi che siete. |
+| [[Timon\|TIMONE]] | per oro, schiavi che siete. |
 | *(didascalia)* | Percuotendo il Pittore Avete lavoro per me; ecco il |
-| [[Timon|TIMONE]] | pagamento. Via! |
+| [[Timon\|TIMONE]] | pagamento. Via! |
 | *(didascalia)* | Percuotendo il Poeta Siete un alchimista; fatene oro. |
-| *(didascalia)* | Fuori, [[dogs|cani]] mascalzoni! Escono il Poeta e il Pittore da una parte, |
-| *(didascalia)* | [[Timon|Timone]] nella sua [[Cave|caverna]] |
+| *(didascalia)* | Fuori, [[dogs\|cani]] mascalzoni! Escono il Poeta e il Pittore da una parte, |
+| *(didascalia)* | [[Timon\|Timone]] nella sua [[Cave\|caverna]] |
 
 
 
@@ -3148,41 +3148,41 @@ The Life of [[Timon]] of Athens
 
 | Chi parla | Battuta |
 |---|---|
-| *(didascalia)* | Entrano [[Flavius|Flavio]] e due Senatori |
-| [[Flavius|FLAVIO]] | È vano che vogliate parlare con [[Timon|Timone]],<br>ché egli è talmente rivolto a sé solo<br>che nulla, tranne sé stesso, che abbia sembianza d’uomo<br>gli è amico. |
-| PRIMO SENATORE | Conducici alla sua [[Cave|caverna]].<br>È nostro compito e nostra promessa agli Ateniesi<br>di parlare con [[Timon|Timone]]. |
-| SECONDO SENATORE | In tutti i tempi allo stesso modo<br>gli uomini non restano sempre uguali. Furono il [[Time|tempo]] e i dolori<br>a foggiarlo così. Il [[Time|Tempo]], con la sua mano più benigna,<br>offrendogli le fortune dei suoi giorni passati,<br>può rifarne l’uomo di prima. Conducici da lui,<br>e vada come può andare. |
-| [[Flavius|FLAVIO]] | Ecco la sua [[Cave|caverna]].<br>(Chiamando) Pace e contentezza siano qui! Signor [[Timon|Timone]],<br>[[Timon|Timone]],<br>affacciati e parla agli amici. Gli Ateniesi<br>per bocca di due dei più venerandi del loro senato ti salutano.<br>Parla loro, nobile [[Timon|Timone]]. |
-| *(didascalia)* | Entra [[Timon|Timone]] fuori dalla sua [[Cave|caverna]] |
-| [[Timon|TIMONE]] | Tu sole che conforti, brucia! Parlate e siate impiccati.<br>Per ogni parola vera una vescica, e ogni falsa<br>sia come un cauterio alla radice della lingua,<br>consumandola nel parlare. |
-| PRIMO SENATORE | Degno [[Timon|Timone]]— |
-| [[Timon|TIMONE]] | Degno di nessuno se non di gente come voi, e voi di [[Timon|Timone]]. |
-| PRIMO SENATORE | I senatori d’Atene ti salutano, [[Timon|Timone]]. |
-| [[Timon|TIMONE]] | Li ringrazio, e vorrei rimandare loro la peste<br>potessi soltanto prenderla per loro. |
-| PRIMO SENATORE | Oh, dimentica<br>ciò di cui ci dogliamo, noi stessi in te.<br>I senatori con unanime consenso d’[[Love|amore]]<br>ti supplicano di tornare ad Atene, avendo pensato<br>a speciali dignità che giacciono vacanti<br>perché tu le usi e le porti al meglio. |
-| SECONDO SENATORE | Confessano<br>verso di te una dimenticanza troppo generale e grossolana,<br>e ora il [[Body|corpo]] pubblico, che di rado<br>fa la parte di chi si ritratta, sentendo in sé<br>una mancanza dell’aiuto di [[Timon|Timone]], ha insieme coscienza<br>del proprio fallo, per aver negato aiuto a [[Timon|Timone]];<br>e manda noi a fare la loro dolente ammenda,<br>insieme a una ricompensa più fruttuosa<br>di quanto la loro offesa possa pesare a dramma;<br>sì, tali cumuli e somme d’[[Love|amore]] e di ricchezza<br>da cancellare in te i torti che furono loro,<br>e da scrivere in te le cifre del loro [[Love|amore]],<br>perché tu le legga per sempre come tue. |
-| [[Timon|TIMONE]] | Mi [[Witch|stregate]] con ciò,<br>mi sorprendete fin sull’orlo delle [[Tears|lacrime]].<br>Prestatemi un cuore di [[Fool|sciocco]] e occhi di donna,<br>e piangerò su questi conforti, degni senatori. |
-| PRIMO SENATORE | Perciò, se ti piacerà tornare con noi,<br>e della nostra Atene, tua e nostra, prendere<br>il comando, sarai accolto con ringraziamenti,<br>investito di potere assoluto, e il tuo buon nome<br>vivrà con autorità. Così presto respingeremo<br>i selvaggi assalti d’[[Alcibiades|Alcibiade]],<br>il quale, come un cinghiale troppo feroce, sradica<br>la pace del suo paese. |
-| SECONDO SENATORE | E scuote la sua minacciosa [[Sword|spada]] contro le mura d’Atene. |
-| PRIMO SENATORE | Perciò, [[Timon|Timone]]— |
-| [[Timon|TIMONE]] | [[Well|Bene]], signore, lo farò; perciò lo farò, signore, così.<br>Se [[Alcibiades|Alcibiade]] uccide i miei concittadini,<br>sappia [[Alcibiades|Alcibiade]] questo da [[Timon|Timone]]:<br>che a [[Timon|Timone]] non importa. Ma se saccheggerà la bella Atene,<br>e prenderà per la barba i nostri bei vecchi,<br>dando le nostre sante vergini alla macchia<br>d’una guerra contumeliosa, bestiale, forsennata,<br>allora sappia, e ditegli che [[Timon|Timone]] lo dice<br>per pietà dei nostri vecchi e della nostra gioventù,<br>che non posso far altro che dirgli che non m’importa;<br>e—lo prenda pure nel peggior senso—dei loro coltelli non<br>m’importa<br>finché avete gole da rispondere. Quanto a me,<br>non c’è coltellaccio in quell’accampamento sfrenato<br>ch’io non stimi con tutto il mio [[Love|amore]] più<br>della più veneranda gola d’Atene. Così vi lascio<br>alla protezione dei prosperi dèi,<br>come ladri ai carcerieri. |
-| [[Flavius|FLAVIO]] | (ai Senatori) Non restate; tutto è vano. |
-| [[Timon|TIMONE]] | Ecco, stavo scrivendo il mio epitaffio.<br>Si vedrà domani. La mia lunga malattia<br>di salute e di vita comincia ora a guarire,<br>e il nulla mi porta ogni cosa. Andate; vivete pure.<br>Sia [[Alcibiades|Alcibiade]] la vostra peste, e voi la sua,<br>e durate insieme abbastanza a lungo. |
+| *(didascalia)* | Entrano [[Flavius\|Flavio]] e due Senatori |
+| [[Flavius\|FLAVIO]] | È vano che vogliate parlare con [[Timon\|Timone]],<br>ché egli è talmente rivolto a sé solo<br>che nulla, tranne sé stesso, che abbia sembianza d’uomo<br>gli è amico. |
+| PRIMO SENATORE | Conducici alla sua [[Cave\|caverna]].<br>È nostro compito e nostra promessa agli Ateniesi<br>di parlare con [[Timon\|Timone]]. |
+| SECONDO SENATORE | In tutti i tempi allo stesso modo<br>gli uomini non restano sempre uguali. Furono il [[Time\|tempo]] e i dolori<br>a foggiarlo così. Il [[Time\|Tempo]], con la sua mano più benigna,<br>offrendogli le fortune dei suoi giorni passati,<br>può rifarne l’uomo di prima. Conducici da lui,<br>e vada come può andare. |
+| [[Flavius\|FLAVIO]] | Ecco la sua [[Cave\|caverna]].<br>(Chiamando) Pace e contentezza siano qui! Signor [[Timon\|Timone]],<br>[[Timon\|Timone]],<br>affacciati e parla agli amici. Gli Ateniesi<br>per bocca di due dei più venerandi del loro senato ti salutano.<br>Parla loro, nobile [[Timon\|Timone]]. |
+| *(didascalia)* | Entra [[Timon\|Timone]] fuori dalla sua [[Cave\|caverna]] |
+| [[Timon\|TIMONE]] | Tu sole che conforti, brucia! Parlate e siate impiccati.<br>Per ogni parola vera una vescica, e ogni falsa<br>sia come un cauterio alla radice della lingua,<br>consumandola nel parlare. |
+| PRIMO SENATORE | Degno [[Timon\|Timone]]— |
+| [[Timon\|TIMONE]] | Degno di nessuno se non di gente come voi, e voi di [[Timon\|Timone]]. |
+| PRIMO SENATORE | I senatori d’Atene ti salutano, [[Timon\|Timone]]. |
+| [[Timon\|TIMONE]] | Li ringrazio, e vorrei rimandare loro la peste<br>potessi soltanto prenderla per loro. |
+| PRIMO SENATORE | Oh, dimentica<br>ciò di cui ci dogliamo, noi stessi in te.<br>I senatori con unanime consenso d’[[Love\|amore]]<br>ti supplicano di tornare ad Atene, avendo pensato<br>a speciali dignità che giacciono vacanti<br>perché tu le usi e le porti al meglio. |
+| SECONDO SENATORE | Confessano<br>verso di te una dimenticanza troppo generale e grossolana,<br>e ora il [[Body\|corpo]] pubblico, che di rado<br>fa la parte di chi si ritratta, sentendo in sé<br>una mancanza dell’aiuto di [[Timon\|Timone]], ha insieme coscienza<br>del proprio fallo, per aver negato aiuto a [[Timon\|Timone]];<br>e manda noi a fare la loro dolente ammenda,<br>insieme a una ricompensa più fruttuosa<br>di quanto la loro offesa possa pesare a dramma;<br>sì, tali cumuli e somme d’[[Love\|amore]] e di ricchezza<br>da cancellare in te i torti che furono loro,<br>e da scrivere in te le cifre del loro [[Love\|amore]],<br>perché tu le legga per sempre come tue. |
+| [[Timon\|TIMONE]] | Mi [[Witch\|stregate]] con ciò,<br>mi sorprendete fin sull’orlo delle [[Tears\|lacrime]].<br>Prestatemi un cuore di [[Fool\|sciocco]] e occhi di donna,<br>e piangerò su questi conforti, degni senatori. |
+| PRIMO SENATORE | Perciò, se ti piacerà tornare con noi,<br>e della nostra Atene, tua e nostra, prendere<br>il comando, sarai accolto con ringraziamenti,<br>investito di potere assoluto, e il tuo buon nome<br>vivrà con autorità. Così presto respingeremo<br>i selvaggi assalti d’[[Alcibiades\|Alcibiade]],<br>il quale, come un cinghiale troppo feroce, sradica<br>la pace del suo paese. |
+| SECONDO SENATORE | E scuote la sua minacciosa [[Sword\|spada]] contro le mura d’Atene. |
+| PRIMO SENATORE | Perciò, [[Timon\|Timone]]— |
+| [[Timon\|TIMONE]] | [[Well\|Bene]], signore, lo farò; perciò lo farò, signore, così.<br>Se [[Alcibiades\|Alcibiade]] uccide i miei concittadini,<br>sappia [[Alcibiades\|Alcibiade]] questo da [[Timon\|Timone]]:<br>che a [[Timon\|Timone]] non importa. Ma se saccheggerà la bella Atene,<br>e prenderà per la barba i nostri bei vecchi,<br>dando le nostre sante vergini alla macchia<br>d’una guerra contumeliosa, bestiale, forsennata,<br>allora sappia, e ditegli che [[Timon\|Timone]] lo dice<br>per pietà dei nostri vecchi e della nostra gioventù,<br>che non posso far altro che dirgli che non m’importa;<br>e—lo prenda pure nel peggior senso—dei loro coltelli non<br>m’importa<br>finché avete gole da rispondere. Quanto a me,<br>non c’è coltellaccio in quell’accampamento sfrenato<br>ch’io non stimi con tutto il mio [[Love\|amore]] più<br>della più veneranda gola d’Atene. Così vi lascio<br>alla protezione dei prosperi dèi,<br>come ladri ai carcerieri. |
+| [[Flavius\|FLAVIO]] | (ai Senatori) Non restate; tutto è vano. |
+| [[Timon\|TIMONE]] | Ecco, stavo scrivendo il mio epitaffio.<br>Si vedrà domani. La mia lunga malattia<br>di salute e di vita comincia ora a guarire,<br>e il nulla mi porta ogni cosa. Andate; vivete pure.<br>Sia [[Alcibiades\|Alcibiade]] la vostra peste, e voi la sua,<br>e durate insieme abbastanza a lungo. |
 | PRIMO SENATORE | Parliamo invano. |
-| [[Timon|TIMONE]] | Eppure [[Love|amo]] il mio paese, e non sono<br>uno che si rallegri della rovina comune<br>come la voce comune lo dipinge. |
-| PRIMO SENATORE | Questo è [[Well|ben]] detto. |
-| [[Timon|TIMONE]] | Salutatemi i miei amorevoli concittadini— |
+| [[Timon\|TIMONE]] | Eppure [[Love\|amo]] il mio paese, e non sono<br>uno che si rallegri della rovina comune<br>come la voce comune lo dipinge. |
+| PRIMO SENATORE | Questo è [[Well\|ben]] detto. |
+| [[Timon\|TIMONE]] | Salutatemi i miei amorevoli concittadini— |
 | PRIMO SENATORE | Queste parole s’addicono alle vostre labbra mentre passano per<br>esse. |
 | SECONDO SENATORE | Ed entrano nelle nostre orecchie come grandi trionfatori<br>nelle loro porte plaudenti. |
-| [[Timon|TIMONE]] | Salutatemeli,<br>e dite loro che, per alleviarli dei loro dolori,<br>dei loro timori di colpi nemici, dei loro mali, delle perdite,<br>delle loro fitte d’[[Love|amore]], con le altre doglie inerenti<br>che il fragile vaso della [[Nature|natura]] sostiene<br>nell’incerto viaggio della vita, farò loro qualche cortesia.<br>Insegnerò loro a prevenire l’ira del selvaggio [[Alcibiades|Alcibiade]]. |
-| PRIMO SENATORE | (a parte)<br>Questo mi piace [[Well|molto]]; egli tornerà. |
-| [[Timon|TIMONE]] | Ho un albero che cresce qui nel mio recinto<br>che il mio proprio uso m’invita ad abbattere,<br>e fra poco dovrò atterrarlo. Dite ai miei amici,<br>dite ad Atene, in ordine di grado<br>dall’alto al basso senza eccezione, che chi voglia<br>por fine all’afflizione s’affretti,<br>venga qui prima che il mio albero abbia sentito la scure,<br>e vi s’impicchi. Vi prego, portate il mio saluto. |
-| [[Flavius|FLAVIO]] | (ai Senatori)<br>Non lo disturbate oltre. Così lo troverete sempre. |
-| [[Timon|TIMONE]] | Non tornate più da me, ma dite ad Atene<br>che [[Timon|Timone]] ha fatto la sua eterna dimora<br>sull’orlo battuto dalle onde del flutto salato,<br>che una volta al giorno con la sua spuma rigonfia<br>la marea turbolenta coprirà. Là venite,<br>e sia la mia pietra sepolcrale il vostro oracolo.<br>Labbra, lasciate passare quattro parole, e finisca il linguaggio.<br>Ciò che è guasto, lo emendino peste e infezione.<br>Solo le tombe siano opera degli uomini, e la [[Death|morte]] il loro guadagno.<br>Sole, nascondi i tuoi raggi. [[Timon|Timone]] ha compiuto il suo regno. |
+| [[Timon\|TIMONE]] | Salutatemeli,<br>e dite loro che, per alleviarli dei loro dolori,<br>dei loro timori di colpi nemici, dei loro mali, delle perdite,<br>delle loro fitte d’[[Love\|amore]], con le altre doglie inerenti<br>che il fragile vaso della [[Nature\|natura]] sostiene<br>nell’incerto viaggio della vita, farò loro qualche cortesia.<br>Insegnerò loro a prevenire l’ira del selvaggio [[Alcibiades\|Alcibiade]]. |
+| PRIMO SENATORE | (a parte)<br>Questo mi piace [[Well\|molto]]; egli tornerà. |
+| [[Timon\|TIMONE]] | Ho un albero che cresce qui nel mio recinto<br>che il mio proprio uso m’invita ad abbattere,<br>e fra poco dovrò atterrarlo. Dite ai miei amici,<br>dite ad Atene, in ordine di grado<br>dall’alto al basso senza eccezione, che chi voglia<br>por fine all’afflizione s’affretti,<br>venga qui prima che il mio albero abbia sentito la scure,<br>e vi s’impicchi. Vi prego, portate il mio saluto. |
+| [[Flavius\|FLAVIO]] | (ai Senatori)<br>Non lo disturbate oltre. Così lo troverete sempre. |
+| [[Timon\|TIMONE]] | Non tornate più da me, ma dite ad Atene<br>che [[Timon\|Timone]] ha fatto la sua eterna dimora<br>sull’orlo battuto dalle onde del flutto salato,<br>che una volta al giorno con la sua spuma rigonfia<br>la marea turbolenta coprirà. Là venite,<br>e sia la mia pietra sepolcrale il vostro oracolo.<br>Labbra, lasciate passare quattro parole, e finisca il linguaggio.<br>Ciò che è guasto, lo emendino peste e infezione.<br>Solo le tombe siano opera degli uomini, e la [[Death\|morte]] il loro guadagno.<br>Sole, nascondi i tuoi raggi. [[Timon\|Timone]] ha compiuto il suo regno. |
 | *(didascalia)* | Esce nella sua |
-| *(didascalia)* | [[Cave|caverna]] |
-| PRIMO SENATORE | I suoi malumori sono inamovibilmente<br>congiunti alla sua [[Nature|natura]]. |
-| SECONDO SENATORE | La nostra [[Hope|speranza]] in lui è morta. Torniamo indietro,<br>e mettiamo alla prova quali altri mezzi ci restino<br>nel nostro grave pericolo. |
+| *(didascalia)* | [[Cave\|caverna]] |
+| PRIMO SENATORE | I suoi malumori sono inamovibilmente<br>congiunti alla sua [[Nature\|natura]]. |
+| SECONDO SENATORE | La nostra [[Hope\|speranza]] in lui è morta. Torniamo indietro,<br>e mettiamo alla prova quali altri mezzi ci restino<br>nel nostro grave pericolo. |
 | PRIMO SENATORE | Richiede piede veloce. |
 | *(didascalia)* | Escono |
 
@@ -3216,13 +3216,13 @@ The Life of [[Timon]] of Athens
 | *(didascalia)* | Faticosamente hai scoperto. Sono le sue schiere<br>tanto piene quanto il tuo rapporto? |
 | MESSAGGERO | Ho detto il meno.<br>Inoltre, la sua speditezza promette<br>un arrivo immediato. |
 | *(didascalia)* | QUARTO SENATORE |
-| MESSAGGERO | Corriamo grave rischio se non riportano [[Timon|Timone]]. |
-| MESSAGGERO | Incontrai un corriere, un mio antico amico,<br>col quale, benché in generale fossimo di parti opposte,<br>pure il nostro vecchio [[Love|affetto]] esercitò una forza particolare<br>e ci fece parlare da amici. Quest’uomo cavalcava<br>da [[Alcibiades|Alcibiade]] alla [[Cave|caverna]] di [[Timon|Timone]]<br>con lettere di supplica che portavano<br>la sua alleanza nella causa contro la vostra [[City|città]],<br>mossa in parte per amor suo. |
+| MESSAGGERO | Corriamo grave rischio se non riportano [[Timon\|Timone]]. |
+| MESSAGGERO | Incontrai un corriere, un mio antico amico,<br>col quale, benché in generale fossimo di parti opposte,<br>pure il nostro vecchio [[Love\|affetto]] esercitò una forza particolare<br>e ci fece parlare da amici. Quest’uomo cavalcava<br>da [[Alcibiades\|Alcibiade]] alla [[Cave\|caverna]] di [[Timon\|Timone]]<br>con lettere di supplica che portavano<br>la sua alleanza nella causa contro la vostra [[City\|città]],<br>mossa in parte per amor suo. |
 | *(didascalia)* | Entrano gli altri Senatori |
 | *(didascalia)* | TERZO SENATORE |
 | MESSAGGERO | Ecco che vengono i nostri fratelli. |
 | *(didascalia)* | PRIMO SENATORE |
-| MESSAGGERO | Non si parli di [[Timon|Timone]]; nulla ci si aspetti da lui.<br>Il tamburo del nemico si ode, e una spaventosa scorreria<br>soffoca l’aria di [[Dust|polvere]]. Dentro, e prepariamoci.<br>Nostra è la caduta, [[Fear|temo]], del nemico la rete. Escono |
+| MESSAGGERO | Non si parli di [[Timon\|Timone]]; nulla ci si aspetti da lui.<br>Il tamburo del nemico si ode, e una spaventosa scorreria<br>soffoca l’aria di [[Dust\|polvere]]. Dentro, e prepariamoci.<br>Nostra è la caduta, [[Fear\|temo]], del nemico la rete. Escono |
 
 
 
@@ -3241,10 +3241,10 @@ The Life of [[Timon]] of Athens
 
 | Chi parla | Battuta |
 |---|---|
-| *(didascalia)* | Entra un Soldato, nel bosco, in cerca di [[Timon|Timone]] |
+| *(didascalia)* | Entra un Soldato, nel bosco, in cerca di [[Timon\|Timone]] |
 | SOLDATO | Da ogni descrizione, questo dovrebbe essere il luogo.<br>Chi è qui? Parla, ehi! Nessuna risposta? |
 | *(didascalia)* | Scopre una pietra sepolcrale |
-| SOLDATO | Che cos’è questo?<br>Morto, certo, e questa la sua [[Grave|tomba]]. Ciò che sta su questo sepolcro<br>non so leggerlo. I caratteri li rileverò con la cera.<br>Il nostro capitano ha perizia d’ogni scrittura,<br>interprete maturo, benché giovane d’anni.<br>Davanti alla superba Atene s’è ormai accampato,<br>la cui caduta è il segno della sua [[Ambition|ambizione]]. Esce |
+| SOLDATO | Che cos’è questo?<br>Morto, certo, e questa la sua [[Grave\|tomba]]. Ciò che sta su questo sepolcro<br>non so leggerlo. I caratteri li rileverò con la cera.<br>Il nostro capitano ha perizia d’ogni scrittura,<br>interprete maturo, benché giovane d’anni.<br>Davanti alla superba Atene s’è ormai accampato,<br>la cui caduta è il segno della sua [[Ambition\|ambizione]]. Esce |
 
 
 
@@ -3283,27 +3283,27 @@ The Life of [[Timon]] of Athens
 
 | Chi parla | Battuta |
 |---|---|
-| *(didascalia)* | Squillano le trombe. Entra [[Alcibiades|Alcibiade]] con le sue forze, davanti ad Atene |
+| *(didascalia)* | Squillano le trombe. Entra [[Alcibiades\|Alcibiade]] con le sue forze, davanti ad Atene |
 | *(didascalia)* | Annunciate a questa città codarda e lasciva |
-| [[Alcibiades|ALCIBIADE]] | il nostro terribile arrivo.<br>Si suona a parlamento. I Senatori appaiono sulle mura<br><br>Fino ad ora avete proseguito e riempito il [[Time|tempo]]<br><br>con ogni licenziosa misura, facendo dei vostri voleri<br>l’ambito della giustizia. Fino ad ora io stesso e quelli<br>che dormivano nell’[[Shadow|ombra]] del vostro potere<br>abbiamo errato con le braccia conserte, e sfogato<br>invano la nostra sofferenza. Ora il [[Time|tempo]] è colmo<br>in cui il midollo accucciato, forte in chi lo porta,<br>grida da sé ‘Basta’; ora il torto senza fiato<br>siederà ansante nelle vostre grandi poltrone d’agio,<br>e l’insolenza panciuta perderà il [[Wind|fiato]]<br>per la [[Fear|paura]] e per l’orrida fuga. |
-| PRIMO SENATORE | Nobile e giovane,<br>quando i tuoi primi dolori non erano che un’idea,<br>prima che tu avessi potere o noi motivo di [[Fear|timore]],<br>mandammo da te a dar balsamo alle tue collere,<br>a cancellare la nostra ingratitudine con affetti<br>superiori alla loro misura. |
-| SECONDO SENATORE | Così corteggiammo<br>il trasformato [[Timon|Timone]] all’[[Love|amore]] della nostra [[City|città]]<br>con umile messaggio e con mezzi promessi.<br>Non fummo tutti ingrati, né tutti meritiamo<br>il colpo indiscriminato della guerra. |
+| [[Alcibiades\|ALCIBIADE]] | il nostro terribile arrivo.<br>Si suona a parlamento. I Senatori appaiono sulle mura<br><br>Fino ad ora avete proseguito e riempito il [[Time\|tempo]]<br><br>con ogni licenziosa misura, facendo dei vostri voleri<br>l’ambito della giustizia. Fino ad ora io stesso e quelli<br>che dormivano nell’[[Shadow\|ombra]] del vostro potere<br>abbiamo errato con le braccia conserte, e sfogato<br>invano la nostra sofferenza. Ora il [[Time\|tempo]] è colmo<br>in cui il midollo accucciato, forte in chi lo porta,<br>grida da sé ‘Basta’; ora il torto senza fiato<br>siederà ansante nelle vostre grandi poltrone d’agio,<br>e l’insolenza panciuta perderà il [[Wind\|fiato]]<br>per la [[Fear\|paura]] e per l’orrida fuga. |
+| PRIMO SENATORE | Nobile e giovane,<br>quando i tuoi primi dolori non erano che un’idea,<br>prima che tu avessi potere o noi motivo di [[Fear\|timore]],<br>mandammo da te a dar balsamo alle tue collere,<br>a cancellare la nostra ingratitudine con affetti<br>superiori alla loro misura. |
+| SECONDO SENATORE | Così corteggiammo<br>il trasformato [[Timon\|Timone]] all’[[Love\|amore]] della nostra [[City\|città]]<br>con umile messaggio e con mezzi promessi.<br>Non fummo tutti ingrati, né tutti meritiamo<br>il colpo indiscriminato della guerra. |
 | PRIMO SENATORE | Queste nostre mura<br>non furono erette dalle mani di coloro dai quali<br>tu hai ricevuto il tuo dolore; né sono tali<br>che queste grandi torri, trofei e scuole debbano cadere<br>per le colpe private che sono in essi. |
-| SECONDO SENATORE | Né sono vivi<br>coloro che furono i motivi per cui uscisti dapprima.<br>La vergogna che mancasse loro l’accortezza, in eccesso,<br>ha spezzato i loro cuori. Marcia, nobile signore,<br>nella nostra [[City|città]] con le tue insegne spiegate.<br>Per decimazione e per una [[Death|morte]] a decime,<br>se le tue vendette hanno fame di quel cibo<br>che la [[Nature|natura]] aborre, prenditi il decimo destinato,<br>e per l’azzardo del dado macchiato<br>muoiano i macchiati. |
+| SECONDO SENATORE | Né sono vivi<br>coloro che furono i motivi per cui uscisti dapprima.<br>La vergogna che mancasse loro l’accortezza, in eccesso,<br>ha spezzato i loro cuori. Marcia, nobile signore,<br>nella nostra [[City\|città]] con le tue insegne spiegate.<br>Per decimazione e per una [[Death\|morte]] a decime,<br>se le tue vendette hanno fame di quel cibo<br>che la [[Nature\|natura]] aborre, prenditi il decimo destinato,<br>e per l’azzardo del dado macchiato<br>muoiano i macchiati. |
 | PRIMO SENATORE | Non tutti hanno offeso.<br>Per coloro che furono, non è giusto prendere<br>vendette su coloro che sono. I delitti, come le terre,<br>non s’ereditano. Dunque, caro concittadino,<br>fa’ entrare le tue schiere, ma lascia fuori la tua ira.<br>Risparmia la tua culla ateniese e quei congiunti<br>che, nella burrasca del tuo furore, dovrebbero cadere<br>insieme a chi ha offeso. Come un pastore<br>accostati all’ovile e scegli fuori gli infetti,<br>ma non uccidere tutti insieme. |
-| SECONDO SENATORE | Ciò che vorrai,<br>lo imporrai piuttosto col tuo sorriso<br>che aprendotene la via con la tua [[Sword|spada]]. |
+| SECONDO SENATORE | Ciò che vorrai,<br>lo imporrai piuttosto col tuo sorriso<br>che aprendotene la via con la tua [[Sword\|spada]]. |
 | PRIMO SENATORE | Poni solo il tuo piede<br>contro le nostre porte fortificate e s’apriranno,<br>purché tu mandi innanzi il tuo cuore gentile<br>a dire che entrerai da amico. |
-| SECONDO SENATORE | Getta il tuo guanto,<br>o qualunque altro pegno del tuo [[Honour|onore]],<br>che userai la guerra come tua riparazione,<br>e non come nostra rovina. Tutte le tue forze<br>prenderanno alloggio nella nostra città finché non avremo<br>suggellato ogni tuo [[Desire|desiderio]]. |
-| *(didascalia)* | [[Alcibiades|ALCIBIADE]] gettando in alto un guanto |
-| SECONDO SENATORE | Ecco dunque il mio guanto.<br>Scendete, e aprite le vostre porte non assalite.<br>Quei nemici di [[Timon|Timone]] e miei<br>che voi stessi indicherete al castigo<br>cadano, e nessun altro; e per placare i vostri timori<br>col mio più nobile intento, non un uomo<br>oltrepasserà il suo quartiere o offenderà il corso<br>della regolare giustizia entro i confini della vostra [[City|città]]<br>senza esser consegnato alle vostre leggi pubbliche<br>per la più grave risposta. |
+| SECONDO SENATORE | Getta il tuo guanto,<br>o qualunque altro pegno del tuo [[Honour\|onore]],<br>che userai la guerra come tua riparazione,<br>e non come nostra rovina. Tutte le tue forze<br>prenderanno alloggio nella nostra città finché non avremo<br>suggellato ogni tuo [[Desire\|desiderio]]. |
+| *(didascalia)* | [[Alcibiades\|ALCIBIADE]] gettando in alto un guanto |
+| SECONDO SENATORE | Ecco dunque il mio guanto.<br>Scendete, e aprite le vostre porte non assalite.<br>Quei nemici di [[Timon\|Timone]] e miei<br>che voi stessi indicherete al castigo<br>cadano, e nessun altro; e per placare i vostri timori<br>col mio più nobile intento, non un uomo<br>oltrepasserà il suo quartiere o offenderà il corso<br>della regolare giustizia entro i confini della vostra [[City\|città]]<br>senza esser consegnato alle vostre leggi pubbliche<br>per la più grave risposta. |
 | ENTRAMBI I SENATORI | È detto nobilissimamente. |
-| [[Alcibiades|ALCIBIADE]] | Scendete, e mantenete la parola. |
+| [[Alcibiades\|ALCIBIADE]] | Scendete, e mantenete la parola. |
 | *(didascalia)* | Squillano le trombe. Escono i Senatori dalle mura. |
 | *(didascalia)* | Entra il Soldato, con una tavoletta di cera |
-| SOLDATO | Mio nobile generale, [[Timon|Timone]] è morto,<br>sepolto proprio sull’orlo del mare;<br>e sulla sua pietra sepolcrale quest’iscrizione, che<br>con la cera ho riportato, la cui morbida impronta<br>interpreta per la mia povera ignoranza.<br>[[Alcibiades|Alcibiade]] legge l’epitaffio |
-| [[Alcibiades|ALCIBIADE]] | ‘Qui giace un misero cadavere,<br>privato d’una misera [[Soul|anima]].<br>Non cercare il mio nome. La peste consumi<br>voi malvagi miserabili rimasti!<br>Qui giaccio io, [[Timon|Timone]], che da vivo<br>odiai tutti i viventi.<br>Passa oltre e maledici a sazietà, ma passa<br>e non fermare qui il tuo passo.’<br>Queste [[Well|bene]] esprimono in te i tuoi ultimi umori.<br>Benché tu aborrissi in noi i nostri umani dolori,<br>e disprezzassi il flusso dei nostri cervelli e quelle nostre goccioline che<br>cadono dall’avara [[Nature|natura]], pure una ricca invenzione<br>t’insegnò a far piangere in eterno il vasto Nettuno<br>sulla tua bassa [[Grave|tomba]], su colpe perdonate. Morto<br>è il nobile [[Timon|Timone]], della cui [[Memory|memoria]]<br>si dirà più oltre. |
+| SOLDATO | Mio nobile generale, [[Timon\|Timone]] è morto,<br>sepolto proprio sull’orlo del mare;<br>e sulla sua pietra sepolcrale quest’iscrizione, che<br>con la cera ho riportato, la cui morbida impronta<br>interpreta per la mia povera ignoranza.<br>[[Alcibiades\|Alcibiade]] legge l’epitaffio |
+| [[Alcibiades\|ALCIBIADE]] | ‘Qui giace un misero cadavere,<br>privato d’una misera [[Soul\|anima]].<br>Non cercare il mio nome. La peste consumi<br>voi malvagi miserabili rimasti!<br>Qui giaccio io, [[Timon\|Timone]], che da vivo<br>odiai tutti i viventi.<br>Passa oltre e maledici a sazietà, ma passa<br>e non fermare qui il tuo passo.’<br>Queste [[Well\|bene]] esprimono in te i tuoi ultimi umori.<br>Benché tu aborrissi in noi i nostri umani dolori,<br>e disprezzassi il flusso dei nostri cervelli e quelle nostre goccioline che<br>cadono dall’avara [[Nature\|natura]], pure una ricca invenzione<br>t’insegnò a far piangere in eterno il vasto Nettuno<br>sulla tua bassa [[Grave\|tomba]], su colpe perdonate. Morto<br>è il nobile [[Timon\|Timone]], della cui [[Memory\|memoria]]<br>si dirà più oltre. |
 | *(didascalia)* | Entrano i Senatori attraverso le porte |
-| [[Alcibiades|ALCIBIADE]] | Conducetemi nella vostra [[City|città]],<br>e userò l’ulivo insieme alla mia [[Sword|spada]],<br>farò che la guerra generi pace, che la pace freni la guerra, che ciascuna<br>prescriva all’altra come medico dell’altra.<br>Rullino i nostri tamburi. |
+| [[Alcibiades\|ALCIBIADE]] | Conducetemi nella vostra [[City\|città]],<br>e userò l’ulivo insieme alla mia [[Sword\|spada]],<br>farò che la guerra generi pace, che la pace freni la guerra, che ciascuna<br>prescriva all’altra come medico dell’altra.<br>Rullino i nostri tamburi. |
 | *(didascalia)* | Tamburi. Escono attraverso |
-| [[Alcibiades|ALCIBIADE]] | le |
+| [[Alcibiades\|ALCIBIADE]] | le |
 | *(didascalia)* | porte |

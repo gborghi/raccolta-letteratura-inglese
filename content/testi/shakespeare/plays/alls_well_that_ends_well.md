@@ -1280,74 +1280,74 @@ All’s [[Well]] That Ends [[Well]]
 
 | Chi parla | Battuta |
 |---|---|
-| *(didascalia)* | Entrano il giovane [[Bertram]] conte di Rossiglione, sua madre la Contessa, [[Helen|Elena]] e il signore di Lafeu, tutti in nero |
+| *(didascalia)* | Entrano il giovane [[Bertram]] conte di Rossiglione, sua madre la Contessa, [[Helen\|Elena]] e il signore di Lafeu, tutti in nero |
 | COUNTESS | Nel consegnare mio figlio lontano da me, seppellisco un secondo marito. |
-| [[Bertram|BERTRAM]] | E io, partendo, signora, piango di nuovo la [[Death|morte]] di mio padre; ma devo obbedire al comando di sua maestà, di cui sono ora pupillo, per sempre in soggezione. |
-| LAFEU | Nel [[King|Re]] troverete un marito, signora; e voi, signore, un padre. Colui che è così universalmente buono in ogni tempo deve per necessità serbare la sua virtù verso di voi, il cui merito la ridesterebbe là dove mancasse, anziché trovarne penuria dove ve n’è tanta abbondanza. |
-| COUNTESS | Che [[Hope|speranza]] c’è della guarigione di sua maestà? |
-| LAFEU | Ha congedato i suoi medici, signora, sotto le cui cure ha perseguitato il [[Time|tempo]] con la [[Hope|speranza]], e non trae altro vantaggio dal procedimento se non la perdita della [[Hope|speranza]] per opera del [[Time|tempo]]. |
-| COUNTESS | Questa giovane gentildonna aveva un padre—oh, quell’«aveva»: che triste passaggio è!—la cui perizia era quasi grande quanto la sua onestà; se si fosse spinta tanto oltre, avrebbe reso immortale la [[Nature|natura]], e la [[Death|morte]] avrebbe dovuto trastullarsi per mancanza di lavoro. Volesse il cielo che, per amore del [[King|Re]], fosse ancora vivo. Credo che sarebbe la [[Death|morte]] della malattia del [[King|Re]]. |
+| [[Bertram\|BERTRAM]] | E io, partendo, signora, piango di nuovo la [[Death\|morte]] di mio padre; ma devo obbedire al comando di sua maestà, di cui sono ora pupillo, per sempre in soggezione. |
+| LAFEU | Nel [[King\|Re]] troverete un marito, signora; e voi, signore, un padre. Colui che è così universalmente buono in ogni tempo deve per necessità serbare la sua virtù verso di voi, il cui merito la ridesterebbe là dove mancasse, anziché trovarne penuria dove ve n’è tanta abbondanza. |
+| COUNTESS | Che [[Hope\|speranza]] c’è della guarigione di sua maestà? |
+| LAFEU | Ha congedato i suoi medici, signora, sotto le cui cure ha perseguitato il [[Time\|tempo]] con la [[Hope\|speranza]], e non trae altro vantaggio dal procedimento se non la perdita della [[Hope\|speranza]] per opera del [[Time\|tempo]]. |
+| COUNTESS | Questa giovane gentildonna aveva un padre—oh, quell’«aveva»: che triste passaggio è!—la cui perizia era quasi grande quanto la sua onestà; se si fosse spinta tanto oltre, avrebbe reso immortale la [[Nature\|natura]], e la [[Death\|morte]] avrebbe dovuto trastullarsi per mancanza di lavoro. Volesse il cielo che, per amore del [[King\|Re]], fosse ancora vivo. Credo che sarebbe la [[Death\|morte]] della malattia del [[King\|Re]]. |
 | LAFEU | Come chiamavate l’uomo di cui parlate, signora? CONTESSA Era famoso, signore, nella sua professione, e ne aveva ben gran diritto: Gerard de Narbonne. |
-| LAFEU | Era eccellente davvero, signora. Il [[King|Re]] ne parlava proprio di recente, con ammirazione e con lutto. Era abbastanza abile per vivere ancora, se il sapere potesse opporsi alla [[Mortality|mortalità]]. |
-| [[Bertram|BERTRAM]] | Di che cosa langue, mio buon signore, il [[King|Re]]? |
+| LAFEU | Era eccellente davvero, signora. Il [[King\|Re]] ne parlava proprio di recente, con ammirazione e con lutto. Era abbastanza abile per vivere ancora, se il sapere potesse opporsi alla [[Mortality\|mortalità]]. |
+| [[Bertram\|BERTRAM]] | Di che cosa langue, mio buon signore, il [[King\|Re]]? |
 | LAFEU | Una fistola, mio signore. |
-| [[Bertram|BERTRAM]] | Non ne avevo sentito parlare prima. |
+| [[Bertram\|BERTRAM]] | Non ne avevo sentito parlare prima. |
 | LAFEU | Vorrei che non fosse notoria.—Era questa gentildonna la figlia di Gérard de Narbonne? |
-| COUNTESS | La sua unica [[Child|figlia]], mio signore, e affidata alla mia tutela. Ho di lei quelle speranze di bene che la sua [[Education|educazione]] promette; le sue disposizioni le eredita, e ciò rende più belli i bei doni—poiché dove una mente impura porta qualità virtuose, là le lodi vanno accompagnate dalla pietà: sono virtù e insieme traditrici. In lei sono migliori per la loro semplicità. Deriva la sua onestà e conquista la sua bontà. |
-| LAFEU | Le vostre lodi, signora, le strappano [[Tears|lacrime]]. |
-| COUNTESS | È la migliore salamoia in cui una fanciulla possa condire la propria lode. Il ricordo di suo padre non le sfiora mai il cuore senza che la tirannia dei suoi dolori le tolga ogni vivezza dalla guancia.—Basta di questo, [[Helen|Elena]]. Andiamo, basta, perché non si pensi piuttosto che tu ostenti un dolore anziché averlo— |
-| [[Helen|HELEN]] | Ostento un dolore, è vero, ma l’ho anche. |
+| COUNTESS | La sua unica [[Child\|figlia]], mio signore, e affidata alla mia tutela. Ho di lei quelle speranze di bene che la sua [[Education\|educazione]] promette; le sue disposizioni le eredita, e ciò rende più belli i bei doni—poiché dove una mente impura porta qualità virtuose, là le lodi vanno accompagnate dalla pietà: sono virtù e insieme traditrici. In lei sono migliori per la loro semplicità. Deriva la sua onestà e conquista la sua bontà. |
+| LAFEU | Le vostre lodi, signora, le strappano [[Tears\|lacrime]]. |
+| COUNTESS | È la migliore salamoia in cui una fanciulla possa condire la propria lode. Il ricordo di suo padre non le sfiora mai il cuore senza che la tirannia dei suoi dolori le tolga ogni vivezza dalla guancia.—Basta di questo, [[Helen\|Elena]]. Andiamo, basta, perché non si pensi piuttosto che tu ostenti un dolore anziché averlo— |
+| [[Helen\|HELEN]] | Ostento un dolore, è vero, ma l’ho anche. |
 | LAFEU | Un lamento moderato è diritto dei morti, il dolore eccessivo è nemico dei vivi. |
-| COUNTESS | Se il vivo non è nemico del dolore, l’eccesso lo rende presto mortale.<br>[[Bertram|BERTRAM]]) (inginocchiandosi) Signora, [[Desire|desidero]] i vostri santi auguri. LAFEU Come dobbiamo intenderlo? |
-| COUNTESS | Sii benedetto, [[Bertram]], e succedi a tuo padre<br>nei costumi come nell’aspetto. Il tuo [[Blood|sangue]] e la virtù<br>contendono l’impero in te, e la tua bontà<br>spartisca col tuo diritto di nascita. [[Love|Ama]] tutti, fidati di pochi,<br>non far torto a nessuno. Sii forte col tuo nemico<br>più in potenza che in atto, e custodisci l’amico<br>sotto la chiave della tua stessa vita. Sii ripreso per il [[Silence|silenzio]]<br>ma mai accusato per le parole. Quanto più il cielo voglia<br>che ti provveda e le mie preghiere sappiano ottenere,<br>cada sul tuo capo. Addio. (A Lafeu) Mio signore,<br>è un cortigiano ancora crudo. Mio buon signore,<br>consigliatelo. |
-| LAFEU | Non può mancargli il meglio<br>che assisterà il suo [[Love|amore]]. |
+| COUNTESS | Se il vivo non è nemico del dolore, l’eccesso lo rende presto mortale.<br>[[Bertram\|BERTRAM]]) (inginocchiandosi) Signora, [[Desire\|desidero]] i vostri santi auguri. LAFEU Come dobbiamo intenderlo? |
+| COUNTESS | Sii benedetto, [[Bertram]], e succedi a tuo padre<br>nei costumi come nell’aspetto. Il tuo [[Blood\|sangue]] e la virtù<br>contendono l’impero in te, e la tua bontà<br>spartisca col tuo diritto di nascita. [[Love\|Ama]] tutti, fidati di pochi,<br>non far torto a nessuno. Sii forte col tuo nemico<br>più in potenza che in atto, e custodisci l’amico<br>sotto la chiave della tua stessa vita. Sii ripreso per il [[Silence\|silenzio]]<br>ma mai accusato per le parole. Quanto più il cielo voglia<br>che ti provveda e le mie preghiere sappiano ottenere,<br>cada sul tuo capo. Addio. (A Lafeu) Mio signore,<br>è un cortigiano ancora crudo. Mio buon signore,<br>consigliatelo. |
+| LAFEU | Non può mancargli il meglio<br>che assisterà il suo [[Love\|amore]]. |
 | COUNTESS | Il cielo lo benedica!—Addio, [[Bertram]]. |
-| [[Bertram|BERTRAM]] | (alzandosi) I migliori auguri che possano forgiarsi nei vostri pensieri vi siano servitori. |
+| [[Bertram\|BERTRAM]] | (alzandosi) I migliori auguri che possano forgiarsi nei vostri pensieri vi siano servitori. |
 | *(didascalia)* | Esce la Contessa |
-| [[Bertram|BERTRAM]] | ([[To Helen|A Elena]]) Sii di conforto a mia madre, la tua signora, e abbi molta cura di lei. |
+| [[Bertram\|BERTRAM]] | ([[To Helen\|A Elena]]) Sii di conforto a mia madre, la tua signora, e abbi molta cura di lei. |
 | LAFEU | Addio, bella signorina. Dovete sostenere il credito di vostro padre. |
 | *(didascalia)* | Escono [[Bertram]] e Lafeu |
-| [[Helen|HELEN]] | Oh, fosse tutto qui! Non penso a mio padre,<br>e queste grandi [[Tears|lacrime]] onorano la sua memoria più<br>di quelle che versai per lui. Com’era egli?<br>L’ho dimenticato. La mia [[Imagination|immaginazione]]<br>non porta in sé altro volto che quello di [[Bertram]].<br>Sono perduta. Non c’è vita, nessuna,<br>se [[Bertram]] è lontano. Sarebbe tutt’uno<br>ch’io [[Love|amassi]] una brillante stella singolare<br>e pensassi di sposarla: tanto è sopra di me.<br>Nel suo fulgore e nella sua luce laterale<br>devo trovare conforto, non nella sua sfera.<br>L’[[Ambition|ambizione]] nel mio [[Love|amore]] così tormenta sé stessa.<br>La cerva che volesse accoppiarsi col [[Lion|leone]]<br>deve morire d’[[Love|amore]]. Era dolce, pur essendo piaga,<br>vederlo ogni ora, sedere e disegnare<br>le sue ciglia arcuate, l’occhio di falco, i riccioli,<br>sulla tavola del nostro cuore—cuore troppo capace<br>d’ogni linea e tratto del suo dolce volto.<br>Ma ora è partito, e la mia fantasia idolatra<br>deve santificare le sue reliquie. Chi viene qui? |
+| [[Helen\|HELEN]] | Oh, fosse tutto qui! Non penso a mio padre,<br>e queste grandi [[Tears\|lacrime]] onorano la sua memoria più<br>di quelle che versai per lui. Com’era egli?<br>L’ho dimenticato. La mia [[Imagination\|immaginazione]]<br>non porta in sé altro volto che quello di [[Bertram]].<br>Sono perduta. Non c’è vita, nessuna,<br>se [[Bertram]] è lontano. Sarebbe tutt’uno<br>ch’io [[Love\|amassi]] una brillante stella singolare<br>e pensassi di sposarla: tanto è sopra di me.<br>Nel suo fulgore e nella sua luce laterale<br>devo trovare conforto, non nella sua sfera.<br>L’[[Ambition\|ambizione]] nel mio [[Love\|amore]] così tormenta sé stessa.<br>La cerva che volesse accoppiarsi col [[Lion\|leone]]<br>deve morire d’[[Love\|amore]]. Era dolce, pur essendo piaga,<br>vederlo ogni ora, sedere e disegnare<br>le sue ciglia arcuate, l’occhio di falco, i riccioli,<br>sulla tavola del nostro cuore—cuore troppo capace<br>d’ogni linea e tratto del suo dolce volto.<br>Ma ora è partito, e la mia fantasia idolatra<br>deve santificare le sue reliquie. Chi viene qui? |
 | *(didascalia)* | Entra Paroles |
-| [[Helen|HELEN]] | Uno che parte con lui. Lo [[Love|amo]] per amor suo—<br>e tuttavia lo so bugiardo notorio,<br>lo credo in gran parte [[Fool|sciocco]], e nient’altro che codardo.<br>Pure questi mali radicati gli stanno così bene<br>che trovano posto quando le ossa d’acciaio della virtù<br>appaiono squallide al freddo [[Wind|vento]]. E spesso vediamo<br>la fredda saggezza al servizio della follia superflua. |
-| PAROLES | Dio vi salvi, bella [[Queen|regina]]. |
-| [[Helen|HELEN]] | E voi, monarca. |
+| [[Helen\|HELEN]] | Uno che parte con lui. Lo [[Love\|amo]] per amor suo—<br>e tuttavia lo so bugiardo notorio,<br>lo credo in gran parte [[Fool\|sciocco]], e nient’altro che codardo.<br>Pure questi mali radicati gli stanno così bene<br>che trovano posto quando le ossa d’acciaio della virtù<br>appaiono squallide al freddo [[Wind\|vento]]. E spesso vediamo<br>la fredda saggezza al servizio della follia superflua. |
+| PAROLES | Dio vi salvi, bella [[Queen\|regina]]. |
+| [[Helen\|HELEN]] | E voi, monarca. |
 | PAROLES | No. |
-| [[Helen|HELEN]] | E no. |
+| [[Helen\|HELEN]] | E no. |
 | PAROLES | Meditate sulla verginità? |
-| [[Helen|HELEN]] | Sì. Avete in voi una qualche tinta di soldato, lasciate che vi faccia una domanda. L’uomo è nemico della verginità: come possiamo barricarla contro di lui? in |
+| [[Helen\|HELEN]] | Sì. Avete in voi una qualche tinta di soldato, lasciate che vi faccia una domanda. L’uomo è nemico della verginità: come possiamo barricarla contro di lui? in |
 | PAROLES | Tenetelo fuori. |
-| [[Helen|HELEN]] | Ma lui assale, e la nostra verginità, pur valorosa nella difesa, è debole. Esponeteci qualche resistenza guerresca. |
+| [[Helen\|HELEN]] | Ma lui assale, e la nostra verginità, pur valorosa nella difesa, è debole. Esponeteci qualche resistenza guerresca. |
 | PAROLES | Non ce n’è nessuna. L’uomo, ponendo l’assedio davanti a voi, vi scaverà sotto e vi farà saltare in aria. |
-| [[Helen|HELEN]] | Preservi il cielo la nostra povera verginità dagli scavatori di mine e da chi le fa brillare. Non c’è arte militare per cui le vergini possano far saltare in aria gli uomini? |
-| PAROLES | Abbattuta la verginità, l’uomo sarà fatto saltare più presto. Ma davvero, nell’abbatterlo di nuovo, con la breccia che voi stesse avete aperto perdete la vostra [[City|città]]. Non è politico, nella repubblica della [[Nature|natura]], conservare la verginità. La perdita della verginità è ragionevole incremento, e non ci fu mai vergine generata prima che una verginità fosse perduta. Ciò di cui siete fatta è metallo per fare vergini. La verginità, una volta perduta, può essere ritrovata dieci volte; se è sempre custodita, è per sempre perduta. È compagna troppo fredda, via con essa. |
-| [[Helen|HELEN]] | La difenderò ancora un poco, anche se per questo morrò vergine. |
-| PAROLES | Poco si può dire in suo favore. È contro la regola della [[Nature|natura]]. Parlare in difesa della verginità è accusare le vostre madri, che è disobbedienza infallibilissima. Chi s’impicca è vergine: la verginità uccide sé stessa, e dovrebbe essere sepolta nei crocicchi, fuori d’ogni limite consacrato, come disperata rea contro la [[Nature|natura]]. La verginità genera acari, proprio come un [[cheese|formaggio]]; consuma sé stessa fino all’ultima buccia, e così muore nutrendo il proprio stomaco. Inoltre la verginità è stizzosa, superba, oziosa, fatta d’[[Love|amore]] di [[Self|sé]]—che è il peccato più proibito nel canone. Non la custodite: non potete che perdere per causa sua. Fuori con essa! Entro un anno si farà due, che è bell’incremento, e il capitale stesso non molto peggiore. Via con essa. |
-| [[Helen|HELEN]] | Come potrebbe fare una donna, signore, a perderla a proprio gradimento? |
-| PAROLES | Vediamo. Ma davvero, male, ad amare chi non l’ama mai. È una merce che perde il lustro a giacere: più si conserva, meno vale. Via con essa mentre è vendibile. Rispondete al [[Time|tempo]] della richiesta. La verginità, come un vecchio cortigiano, porta il cappello fuori moda, riccamente vestita ma inadatta, proprio come il fermaglio e lo stuzzicadenti, che oggi non si portano più. La vostra data sta meglio nel pasticcio e nella minestra che sulla guancia, e la vostra verginità, la vostra vecchia verginità, è come una delle nostre pere francesi rinsecchite: ha brutto aspetto, si mangia asciutta, e insomma è una pera rinsecchita—prima era migliore, ma insomma è una pera rinsecchita. Ne volete far qualcosa? |
-| [[Helen|HELEN]] | Non la mia verginità, e tuttavia ...<br>Là il vostro padrone avrà mille amori,<br>una madre e un’amante e un’amica,<br>una fenice, un capitano e una nemica,<br>una guida, una dea e una sovrana,<br>una consigliera, una traditrice e una cara:<br>la sua umile [[Ambition|ambizione]], la superba [[Humility|umiltà]],<br>il suo stridente accordo e la sua dolce discordia,<br>la sua [[Faith|fede]], il suo dolce disastro, con un mondo<br>di vezzosi e amorosi nomi adottivi<br>cui fa da padrino il cieco Cupido. Ora egli—<br>non so che sarà di lui. Dio lo mandi [[Well|bene]].<br>La [[Court|corte]] è luogo d’apprendimento, ed egli è uno— |
-| PAROLES | Uno che, in [[Faith|fede]] mia? |
-| [[Helen|HELEN]] | Uno a cui auguro [[Well|bene]]. È un peccato. |
+| [[Helen\|HELEN]] | Preservi il cielo la nostra povera verginità dagli scavatori di mine e da chi le fa brillare. Non c’è arte militare per cui le vergini possano far saltare in aria gli uomini? |
+| PAROLES | Abbattuta la verginità, l’uomo sarà fatto saltare più presto. Ma davvero, nell’abbatterlo di nuovo, con la breccia che voi stesse avete aperto perdete la vostra [[City\|città]]. Non è politico, nella repubblica della [[Nature\|natura]], conservare la verginità. La perdita della verginità è ragionevole incremento, e non ci fu mai vergine generata prima che una verginità fosse perduta. Ciò di cui siete fatta è metallo per fare vergini. La verginità, una volta perduta, può essere ritrovata dieci volte; se è sempre custodita, è per sempre perduta. È compagna troppo fredda, via con essa. |
+| [[Helen\|HELEN]] | La difenderò ancora un poco, anche se per questo morrò vergine. |
+| PAROLES | Poco si può dire in suo favore. È contro la regola della [[Nature\|natura]]. Parlare in difesa della verginità è accusare le vostre madri, che è disobbedienza infallibilissima. Chi s’impicca è vergine: la verginità uccide sé stessa, e dovrebbe essere sepolta nei crocicchi, fuori d’ogni limite consacrato, come disperata rea contro la [[Nature\|natura]]. La verginità genera acari, proprio come un [[cheese\|formaggio]]; consuma sé stessa fino all’ultima buccia, e così muore nutrendo il proprio stomaco. Inoltre la verginità è stizzosa, superba, oziosa, fatta d’[[Love\|amore]] di [[Self\|sé]]—che è il peccato più proibito nel canone. Non la custodite: non potete che perdere per causa sua. Fuori con essa! Entro un anno si farà due, che è bell’incremento, e il capitale stesso non molto peggiore. Via con essa. |
+| [[Helen\|HELEN]] | Come potrebbe fare una donna, signore, a perderla a proprio gradimento? |
+| PAROLES | Vediamo. Ma davvero, male, ad amare chi non l’ama mai. È una merce che perde il lustro a giacere: più si conserva, meno vale. Via con essa mentre è vendibile. Rispondete al [[Time\|tempo]] della richiesta. La verginità, come un vecchio cortigiano, porta il cappello fuori moda, riccamente vestita ma inadatta, proprio come il fermaglio e lo stuzzicadenti, che oggi non si portano più. La vostra data sta meglio nel pasticcio e nella minestra che sulla guancia, e la vostra verginità, la vostra vecchia verginità, è come una delle nostre pere francesi rinsecchite: ha brutto aspetto, si mangia asciutta, e insomma è una pera rinsecchita—prima era migliore, ma insomma è una pera rinsecchita. Ne volete far qualcosa? |
+| [[Helen\|HELEN]] | Non la mia verginità, e tuttavia ...<br>Là il vostro padrone avrà mille amori,<br>una madre e un’amante e un’amica,<br>una fenice, un capitano e una nemica,<br>una guida, una dea e una sovrana,<br>una consigliera, una traditrice e una cara:<br>la sua umile [[Ambition\|ambizione]], la superba [[Humility\|umiltà]],<br>il suo stridente accordo e la sua dolce discordia,<br>la sua [[Faith\|fede]], il suo dolce disastro, con un mondo<br>di vezzosi e amorosi nomi adottivi<br>cui fa da padrino il cieco Cupido. Ora egli—<br>non so che sarà di lui. Dio lo mandi [[Well\|bene]].<br>La [[Court\|corte]] è luogo d’apprendimento, ed egli è uno— |
+| PAROLES | Uno che, in [[Faith\|fede]] mia? |
+| [[Helen\|HELEN]] | Uno a cui auguro [[Well\|bene]]. È un peccato. |
 | PAROLES | Che cos’è un peccato? |
-| [[Helen|HELEN]] | Che l’augurare [[Well|bene]] non abbia in sé un [[Body|corpo]]<br>che si possa toccare, sì che noi, nate più povere,<br>che [[Stars|stelle]] più basse racchiudono nei soli desideri,<br>potessimo coi loro effetti seguire i nostri amici<br>e mostrare ciò che [[Alone|sole]] dobbiamo pensare, e che mai<br>ci rende grazie. |
+| [[Helen\|HELEN]] | Che l’augurare [[Well\|bene]] non abbia in sé un [[Body\|corpo]]<br>che si possa toccare, sì che noi, nate più povere,<br>che [[Stars\|stelle]] più basse racchiudono nei soli desideri,<br>potessimo coi loro effetti seguire i nostri amici<br>e mostrare ciò che [[Alone\|sole]] dobbiamo pensare, e che mai<br>ci rende grazie. |
 | *(didascalia)* | Entra un Paggio |
 | PAGE | Monsieur Paroles, il mio signore vi chiama. |
 | *(didascalia)* | Esce |
-| PAROLES | Piccola [[Helen|Elena]], addio. Se saprò ricordarti, penserò a te a [[Court|corte]]. |
-| [[Helen|HELEN]] | Monsieur Paroles, siete nato sotto una stella caritatevole. |
+| PAROLES | Piccola [[Helen\|Elena]], addio. Se saprò ricordarti, penserò a te a [[Court\|corte]]. |
+| [[Helen\|HELEN]] | Monsieur Paroles, siete nato sotto una stella caritatevole. |
 | PAROLES | Sotto Marte, io. |
-| [[Helen|HELEN]] | Penso proprio sotto Marte. |
+| [[Helen\|HELEN]] | Penso proprio sotto Marte. |
 | PAROLES | Perché «sotto Marte»? |
-| [[Helen|HELEN]] | Le guerre vi han tenuto tanto sotto che dovete per forza esser nato sotto Marte. |
+| [[Helen\|HELEN]] | Le guerre vi han tenuto tanto sotto che dovete per forza esser nato sotto Marte. |
 | PAROLES | Quando era predominante. |
-| [[Helen|HELEN]] | Quando era retrogrado, penso piuttosto. |
+| [[Helen\|HELEN]] | Quando era retrogrado, penso piuttosto. |
 | PAROLES | Perché lo pensate? |
-| [[Helen|HELEN]] | Andate tanto indietro quando combattete. |
+| [[Helen\|HELEN]] | Andate tanto indietro quando combattete. |
 | PAROLES | È per vantaggio. |
-| [[Helen|HELEN]] | Così è anche il fuggire, quando la [[Fear|paura]] propone la salvezza. Ma la composizione che il vostro valore e la [[Fear|paura]] fanno in voi è una virtù di buon’ala, e mi piace [[Well|bene]] portarla. |
+| [[Helen\|HELEN]] | Così è anche il fuggire, quando la [[Fear\|paura]] propone la salvezza. Ma la composizione che il vostro valore e la [[Fear\|paura]] fanno in voi è una virtù di buon’ala, e mi piace [[Well\|bene]] portarla. |
 | PAROLES | Sono così pieno d’affari che non posso risponderti acutamente. Tornerò cortigiano perfetto, e con la mia istruzione ti naturalizzerò, così sarai capace del consiglio d’un cortigiano e intenderai quali avvertimenti ti verranno imposti; altrimenti morrai nella tua ingratitudine, e la tua ignoranza ti manderà in rovina. Addio. Quando hai tempo, di’ le tue preghiere; quando non ne hai, ricordati degli amici. Prenditi un buon marito e usalo come lui usa te. E così, addio. |
 | *(didascalia)* | Esce |
-| [[Helen|HELEN]] | I nostri rimedi spesso stanno in noi stessi,<br>e li ascriviamo al cielo. La volta fatale<br>ci dà libero campo, e solo tira indietro<br>i nostri lenti disegni quando noi siamo tardi.<br>Qual è la forza che innalza tanto il mio [[Love|amore]],<br>che mi fa vedere e non può nutrire il mio occhio?<br>Il più vasto spazio della fortuna la [[Nature|natura]] avvicina,<br>per unire i simili ai simili e baciarli come cose affini.<br>Impossibili sono i tentativi strani a coloro<br>che pesano le loro pene col senso e suppongono<br>che ciò che non fu non possa essere. Chi mai s’adoperò<br>a mostrare il proprio merito, e perdette il suo [[Love|amore]]?<br>La malattia del [[King|Re]]—il mio progetto può ingannarmi,<br>ma i miei intenti sono fermi e non m’abbandoneranno. |
+| [[Helen\|HELEN]] | I nostri rimedi spesso stanno in noi stessi,<br>e li ascriviamo al cielo. La volta fatale<br>ci dà libero campo, e solo tira indietro<br>i nostri lenti disegni quando noi siamo tardi.<br>Qual è la forza che innalza tanto il mio [[Love\|amore]],<br>che mi fa vedere e non può nutrire il mio occhio?<br>Il più vasto spazio della fortuna la [[Nature\|natura]] avvicina,<br>per unire i simili ai simili e baciarli come cose affini.<br>Impossibili sono i tentativi strani a coloro<br>che pesano le loro pene col senso e suppongono<br>che ciò che non fu non possa essere. Chi mai s’adoperò<br>a mostrare il proprio merito, e perdette il suo [[Love\|amore]]?<br>La malattia del [[King\|Re]]—il mio progetto può ingannarmi,<br>ma i miei intenti sono fermi e non m’abbandoneranno. |
 | *(didascalia)* | Esce |
 
 
@@ -1383,25 +1383,25 @@ All’s [[Well]] That Ends [[Well]]
 
 | Chi parla | Battuta |
 |---|---|
-| *(didascalia)* | Squillo di cornette. Entra il [[King of France|Re di Francia]] con delle lettere, i due Signori [[Dumaine]] e vari attendenti |
-| [[King|RE]] | Fiorentini e Senesi sono alle prese,<br>han combattuto con pari fortuna, e continuano<br>una guerra di sfida. |
-| PRIMO SIGNORE [[Dumaine|DUMAINE]] | Così si riferisce, signore. |
-| [[King|RE]] | Anzi, è credibilissimo: qui la riceviamo<br>come certezza attestata dal nostro cugino d’Austria,<br>con l’avvertenza che il Fiorentino ci solleciterà<br>pronto soccorso—in che il nostro più caro amico<br>pregiudica la cosa, e sembrerebbe<br>volere che noi rifiutiamo. |
-| PRIMO SIGNORE [[Dumaine|DUMAINE]] | Il suo [[Love|amore]] e la sua saggezza,<br>così provati a vostra maestà, possono chiedere<br>la più ampia fiducia. |
-| [[King|RE]] | Egli ha armato la nostra risposta,<br>e Firenze è respinta prima ch’ei venga.<br>Pure ai nostri gentiluomini che intendono vedere<br>il servizio toscano è dato libero congedo<br>di schierarsi da una parte o dall’altra. |
-| SECONDO SIGNORE [[Dumaine|DUMAINE]] | Potrà [[Well|bene]] servire<br>di vivaio alla nostra nobiltà, che è malata<br>di voglia d’aria e d’imprese. |
-| [[King|RE]] | Chi è colui che viene qui? |
+| *(didascalia)* | Squillo di cornette. Entra il [[King of France\|Re di Francia]] con delle lettere, i due Signori [[Dumaine]] e vari attendenti |
+| [[King\|RE]] | Fiorentini e Senesi sono alle prese,<br>han combattuto con pari fortuna, e continuano<br>una guerra di sfida. |
+| PRIMO SIGNORE [[Dumaine\|DUMAINE]] | Così si riferisce, signore. |
+| [[King\|RE]] | Anzi, è credibilissimo: qui la riceviamo<br>come certezza attestata dal nostro cugino d’Austria,<br>con l’avvertenza che il Fiorentino ci solleciterà<br>pronto soccorso—in che il nostro più caro amico<br>pregiudica la cosa, e sembrerebbe<br>volere che noi rifiutiamo. |
+| PRIMO SIGNORE [[Dumaine\|DUMAINE]] | Il suo [[Love\|amore]] e la sua saggezza,<br>così provati a vostra maestà, possono chiedere<br>la più ampia fiducia. |
+| [[King\|RE]] | Egli ha armato la nostra risposta,<br>e Firenze è respinta prima ch’ei venga.<br>Pure ai nostri gentiluomini che intendono vedere<br>il servizio toscano è dato libero congedo<br>di schierarsi da una parte o dall’altra. |
+| SECONDO SIGNORE [[Dumaine\|DUMAINE]] | Potrà [[Well\|bene]] servire<br>di vivaio alla nostra nobiltà, che è malata<br>di voglia d’aria e d’imprese. |
+| [[King\|RE]] | Chi è colui che viene qui? |
 | *(didascalia)* | Entrano [[Bertram]], Lafeu e Paroles |
-| PRIMO SIGNORE [[Dumaine|DUMAINE]] | È il conte di Rossiglione, mio buon signore,<br>il giovane [[Bertram]]. |
-| [[King|RE]] | (a [[Bertram]]) Giovane, porti il volto di tuo padre.<br>La generosa [[Nature|natura]], più accurata che in fretta,<br>ti ha [[Well|bene]] composto. Le doti morali di tuo padre<br>possa tu ereditarle anche. Benvenuto a [[Paris|Parigi]]. |
-| [[Bertram|BERTRAM]] | I miei ringraziamenti e il mio dovere sono di vostra maestà. |
-| [[King|RE]] | Vorrei avere ora quella saldezza del corpo<br>che avevo quando tuo padre e io, in [[Friendship|amicizia]],<br>provammo per primi le nostre armi. Egli guardava lontano<br>nel servizio del [[Time|tempo]], ed era<br>discepolo dei più valorosi. Durò a lungo,<br>ma su noi due s’insinuò l’età strega,<br>e ci logorò fuor d’ogni azione. Molto mi ristora<br>parlare del vostro buon padre. In gioventù<br>aveva quello spirito che [[Well|bene]] posso osservare<br>oggi nei nostri giovani signori; ma essi possono scherzare<br>finché il loro stesso scherno torni loro inosservato,<br>prima che sappiano celare la leggerezza nell’[[Honour|onore]].<br>Vero cortigiano, né disprezzo né amarezza<br>erano nel suo [[Pride|orgoglio]] o nella sua asprezza; e se v’erano,<br>il suo pari li aveva destati, e il suo [[Honour|onore]]—<br>[[Clock|orologio]] di sé stesso—conosceva il vero minuto in cui<br>l’obiezione gli comandava di parlare, e in quel [[Time|tempo]]<br>la sua lingua obbediva alla sua mano. Chi gli stava sotto<br>egli trattava come creature d’altro luogo,<br>e piegava la sua eminente cima ai loro ranghi bassi,<br>rendendoli orgogliosi della sua [[Humility|umiltà]],.<br>nella loro povera lode umiliandosi. Tale uomo<br>potrebbe essere modello a questi tempi più giovani,<br>che, seguìto [[Well|bene]], li mostrerebbe ora<br>solo camminatori a ritroso. |
-| [[Bertram|BERTRAM]] | La sua buona memoria, signore, Vive più ricca nei vostri pensieri che sulla sua tomba.<br>Così il suo epitaffio non vive in conferma<br>come nel vostro regale discorso. |
-| [[King|RE]] | Fossi con lui! Diceva sempre—<br>mi par d’udirlo adesso; le sue parole gradite<br>non le spargeva negli orecchi, ma le innestava<br>perché vi crescessero e fruttassero. «Ch’io non viva»—<br>così la sua buona [[Melancholy|malinconia]] spesso cominciava<br>sulla catastrofe e sul calcagno del divertimento,<br>quando era finito—«ch’io non viva», diceva,<br>«quando la mia fiamma manchi d’olio, per essere il moccolo<br>di spiriti più giovani, i cui sensi pronti<br>disdegnano tutto fuorché le cose nuove, i cui giudizi<br>son meri padri delle loro vesti, le cui costanze<br>scadono prima delle loro mode.» Questo egli desiderava.<br>Io, dopo di lui, dopo di lui desidero pure,<br>poiché non posso portare a [[Home|casa]] né cera né miele,<br>d’esser presto disciolto dal mio alveare<br>per far posto a qualche operaio. |
-| SECONDO SIGNORE [[Dumaine|DUMAINE]] | Siete amato, signore.<br>Chi meno ve ne presta vi rimpiangerà per primo. |
-| [[King|RE]] | Occupo un posto, lo so.—Quanto tempo è, Conte,<br>da che morì il medico di vostro padre?<br>Era molto famoso. |
-| [[Bertram|BERTRAM]] | Circa sei mesi, mio signore. |
-| [[King|RE]] | Se fosse vivo, lo proverei ancora.—<br>Datemi un braccio.—Gli altri m’hanno logorato<br>con diverse applicazioni. La [[Nature|natura]] e la malattia<br>[[debate|Ne discutano]] a loro agio. Benvenuto, Conte.<br>Mio figlio non m’è più caro.<br>[[Bertram|BERTRAM]])<br>Grazie a vostra maestà. |
+| PRIMO SIGNORE [[Dumaine\|DUMAINE]] | È il conte di Rossiglione, mio buon signore,<br>il giovane [[Bertram]]. |
+| [[King\|RE]] | (a [[Bertram]]) Giovane, porti il volto di tuo padre.<br>La generosa [[Nature\|natura]], più accurata che in fretta,<br>ti ha [[Well\|bene]] composto. Le doti morali di tuo padre<br>possa tu ereditarle anche. Benvenuto a [[Paris\|Parigi]]. |
+| [[Bertram\|BERTRAM]] | I miei ringraziamenti e il mio dovere sono di vostra maestà. |
+| [[King\|RE]] | Vorrei avere ora quella saldezza del corpo<br>che avevo quando tuo padre e io, in [[Friendship\|amicizia]],<br>provammo per primi le nostre armi. Egli guardava lontano<br>nel servizio del [[Time\|tempo]], ed era<br>discepolo dei più valorosi. Durò a lungo,<br>ma su noi due s’insinuò l’età strega,<br>e ci logorò fuor d’ogni azione. Molto mi ristora<br>parlare del vostro buon padre. In gioventù<br>aveva quello spirito che [[Well\|bene]] posso osservare<br>oggi nei nostri giovani signori; ma essi possono scherzare<br>finché il loro stesso scherno torni loro inosservato,<br>prima che sappiano celare la leggerezza nell’[[Honour\|onore]].<br>Vero cortigiano, né disprezzo né amarezza<br>erano nel suo [[Pride\|orgoglio]] o nella sua asprezza; e se v’erano,<br>il suo pari li aveva destati, e il suo [[Honour\|onore]]—<br>[[Clock\|orologio]] di sé stesso—conosceva il vero minuto in cui<br>l’obiezione gli comandava di parlare, e in quel [[Time\|tempo]]<br>la sua lingua obbediva alla sua mano. Chi gli stava sotto<br>egli trattava come creature d’altro luogo,<br>e piegava la sua eminente cima ai loro ranghi bassi,<br>rendendoli orgogliosi della sua [[Humility\|umiltà]],.<br>nella loro povera lode umiliandosi. Tale uomo<br>potrebbe essere modello a questi tempi più giovani,<br>che, seguìto [[Well\|bene]], li mostrerebbe ora<br>solo camminatori a ritroso. |
+| [[Bertram\|BERTRAM]] | La sua buona memoria, signore, Vive più ricca nei vostri pensieri che sulla sua tomba.<br>Così il suo epitaffio non vive in conferma<br>come nel vostro regale discorso. |
+| [[King\|RE]] | Fossi con lui! Diceva sempre—<br>mi par d’udirlo adesso; le sue parole gradite<br>non le spargeva negli orecchi, ma le innestava<br>perché vi crescessero e fruttassero. «Ch’io non viva»—<br>così la sua buona [[Melancholy\|malinconia]] spesso cominciava<br>sulla catastrofe e sul calcagno del divertimento,<br>quando era finito—«ch’io non viva», diceva,<br>«quando la mia fiamma manchi d’olio, per essere il moccolo<br>di spiriti più giovani, i cui sensi pronti<br>disdegnano tutto fuorché le cose nuove, i cui giudizi<br>son meri padri delle loro vesti, le cui costanze<br>scadono prima delle loro mode.» Questo egli desiderava.<br>Io, dopo di lui, dopo di lui desidero pure,<br>poiché non posso portare a [[Home\|casa]] né cera né miele,<br>d’esser presto disciolto dal mio alveare<br>per far posto a qualche operaio. |
+| SECONDO SIGNORE [[Dumaine\|DUMAINE]] | Siete amato, signore.<br>Chi meno ve ne presta vi rimpiangerà per primo. |
+| [[King\|RE]] | Occupo un posto, lo so.—Quanto tempo è, Conte,<br>da che morì il medico di vostro padre?<br>Era molto famoso. |
+| [[Bertram\|BERTRAM]] | Circa sei mesi, mio signore. |
+| [[King\|RE]] | Se fosse vivo, lo proverei ancora.—<br>Datemi un braccio.—Gli altri m’hanno logorato<br>con diverse applicazioni. La [[Nature\|natura]] e la malattia<br>[[debate\|Ne discutano]] a loro agio. Benvenuto, Conte.<br>Mio figlio non m’è più caro.<br>[[Bertram\|BERTRAM]])<br>Grazie a vostra maestà. |
 | *(didascalia)* | Squilli di trombe. Escono |
 
 
@@ -1491,69 +1491,69 @@ All’s [[Well]] That Ends [[Well]]
 | REYNALDO | Signora, la cura che ho posto per pareggiare la vostra soddisfazione vorrei si trovasse nel calendario dei miei passati sforzi; poiché feriamo la nostra modestia e insozziamo la limpidezza dei nostri meriti quando li pubblichiamo da noi stessi. |
 | COUNTESS | Che fa qui questo furfante? (A Lavatch) Vattene, messere. Le lagnanze che ho udito di te non le credo tutte. È mia lentezza non crederle, perché so che non ti manca la follia di commetterle e hai abilità bastante per far tue tali furfanterie. |
 | LAVATCH | Non v’è ignoto, signora, che sono un pover’uomo. |
-| COUNTESS | [[Well|Bene]], signore? |
-| LAVATCH | No, signora, non è così [[Well|bene]] ch’io sia povero, benché molti dei ricchi siano dannati. Ma se posso avere il buon volere di vostra signoria per andarmene nel mondo, Isbel la donna e io faremo come potremo. |
+| COUNTESS | [[Well\|Bene]], signore? |
+| LAVATCH | No, signora, non è così [[Well\|bene]] ch’io sia povero, benché molti dei ricchi siano dannati. Ma se posso avere il buon volere di vostra signoria per andarmene nel mondo, Isbel la donna e io faremo come potremo. |
 | COUNTESS | Vuoi proprio essere un mendicante? |
 | LAVATCH | Mendico il vostro buon volere in questo caso. |
 | COUNTESS | In quale caso? |
-| LAVATCH | Nel caso d’Isbel e nel mio. Il servire non è eredità, e credo che non avrò mai la benedizione di Dio finché non avrò prole dal mio [[Body|corpo]], perché dicono che i figlioli sono benedizioni. |
+| LAVATCH | Nel caso d’Isbel e nel mio. Il servire non è eredità, e credo che non avrò mai la benedizione di Dio finché non avrò prole dal mio [[Body\|corpo]], perché dicono che i figlioli sono benedizioni. |
 | COUNTESS | Dimmi la tua ragione per cui vuoi sposarti. |
-| LAVATCH | Il mio povero [[Body|corpo]], signora, lo richiede. Sono spinto dalla carne, e deve pur andare chi è spinto dal diavolo. |
+| LAVATCH | Il mio povero [[Body\|corpo]], signora, lo richiede. Sono spinto dalla carne, e deve pur andare chi è spinto dal diavolo. |
 | COUNTESS | È questa tutta la ragione di vossignoria? |
-| LAVATCH | In [[Faith|fede]], signora, ho altre sante ragioni, quali che siano. |
+| LAVATCH | In [[Faith\|fede]], signora, ho altre sante ragioni, quali che siano. |
 | COUNTESS | Può il mondo conoscerle? |
-| LAVATCH | Sono stato, signora, una creatura malvagia, come voi—e ogni carne e [[Blood|sangue]]—siete, e in verità mi sposo per poter far penitenza. |
-| COUNTESS | Il tuo [[Marriage|matrimonio]] prima della tua malvagità. |
-| LAVATCH | Sono privo d’amici, signora, e [[Hope|spero]] d’aver amici per amor di mia moglie. |
+| LAVATCH | Sono stato, signora, una creatura malvagia, come voi—e ogni carne e [[Blood\|sangue]]—siete, e in verità mi sposo per poter far penitenza. |
+| COUNTESS | Il tuo [[Marriage\|matrimonio]] prima della tua malvagità. |
+| LAVATCH | Sono privo d’amici, signora, e [[Hope\|spero]] d’aver amici per amor di mia moglie. |
 | COUNTESS | Tali amici sono i tuoi nemici, furfante. |
-| LAVATCH | Siete di poca vista, signora—in fatto di grandi amici, perché i furfanti vengono a fare per me quello di cui sono stanco. Chi ara la mia terra risparmia il mio tiro, e mi lascia raccogliere il raccolto. Se io sono il suo cornuto, lui è il mio garzone. Chi consola mia moglie è colui che nutre la mia carne e il mio [[Blood|sangue]]; chi nutre la mia carne e il mio [[Blood|sangue]] ama la mia carne e il mio [[Blood|sangue]]; chi ama la mia carne e il mio [[Blood|sangue]] è mio amico; ergo, chi bacia mia moglie è mio amico. Se gli uomini si contentassero d’essere quel che sono, non ci sarebbe [[Fear|paura]] nel [[Marriage|matrimonio]]. Perché il giovane Chairbonne il puritano e il vecchio Poisson il papista, comunque i loro cuori siano divisi in religione, hanno la testa tutt’una: possono accostare le corna come qualunque cervo del branco. |
+| LAVATCH | Siete di poca vista, signora—in fatto di grandi amici, perché i furfanti vengono a fare per me quello di cui sono stanco. Chi ara la mia terra risparmia il mio tiro, e mi lascia raccogliere il raccolto. Se io sono il suo cornuto, lui è il mio garzone. Chi consola mia moglie è colui che nutre la mia carne e il mio [[Blood\|sangue]]; chi nutre la mia carne e il mio [[Blood\|sangue]] ama la mia carne e il mio [[Blood\|sangue]]; chi ama la mia carne e il mio [[Blood\|sangue]] è mio amico; ergo, chi bacia mia moglie è mio amico. Se gli uomini si contentassero d’essere quel che sono, non ci sarebbe [[Fear\|paura]] nel [[Marriage\|matrimonio]]. Perché il giovane Chairbonne il puritano e il vecchio Poisson il papista, comunque i loro cuori siano divisi in religione, hanno la testa tutt’una: possono accostare le corna come qualunque cervo del branco. |
 | COUNTESS | Sarai sempre un furfante sboccato e calunnioso? |
-| LAVATCH | Un [[Prophet|profeta]]? Sì, signora, e dico la [[Truth|verità]] per la via più breve.<br>[Canta]<br>Perché la ballata ripeterò,<br>che gli uomini troveran ben vera:<br>il vostro [[Marriage|matrimonio]] vien per destino,<br>il vostro cuculo canta per natura. |
+| LAVATCH | Un [[Prophet\|profeta]]? Sì, signora, e dico la [[Truth\|verità]] per la via più breve.<br>[Canta]<br>Perché la ballata ripeterò,<br>che gli uomini troveran ben vera:<br>il vostro [[Marriage\|matrimonio]] vien per destino,<br>il vostro cuculo canta per natura. |
 | COUNTESS | Vattene, messere. Ti parlerò di più fra poco. |
-| REYNALDO | Vi piaccia, signora, ch’egli dica a [[Helen|Elena]] di venire a voi? Di lei devo parlare. |
-| COUNTESS | (a Lavatch) Messere, di’ alla mia gentildonna che voglio parlarle. [[Helen|Elena]], intendo. |
+| REYNALDO | Vi piaccia, signora, ch’egli dica a [[Helen\|Elena]] di venire a voi? Di lei devo parlare. |
+| COUNTESS | (a Lavatch) Messere, di’ alla mia gentildonna che voglio parlarle. [[Helen\|Elena]], intendo. |
 | *(didascalia)* | LAVATCH canta |
-| COUNTESS | «Fu questo bel volto la causa», disse lei,<br>«per cui i Greci saccheggiaron Troia?<br>Follia fatta, fatta follia. Fu questa la gioia di [[King|re]] Priamo?»<br>Con ciò sospirò mentre stava in piedi,<br>con ciò sospirò mentre stava in piedi,<br>e diede allora questa sentenza:<br>«Tra nove cattive se una è buona,<br>tra nove cattive se una è buona,<br>c’è pur una buona su dieci.» |
-| COUNTESS | Che, «una buona su dieci»? Tu corrompi la [[Song|canzone]], messere. |
-| LAVATCH | Una donna buona su dieci, signora, il che è una purificazione della [[Song|canzone]]. Volesse Dio servire il mondo così tutto l’anno! Non troveremmo da ridire sulla decima in donne, s’io fossi il parroco. Una su dieci, dice lui? Se potessimo avere una buona donna nata soltanto a ogni cometa fiammeggiante, o a ogni terremoto, si migliorerebbe [[Well|bene]] la lotteria. Un uomo può cavarsi il cuore prima di pescarne una. |
+| COUNTESS | «Fu questo bel volto la causa», disse lei,<br>«per cui i Greci saccheggiaron Troia?<br>Follia fatta, fatta follia. Fu questa la gioia di [[King\|re]] Priamo?»<br>Con ciò sospirò mentre stava in piedi,<br>con ciò sospirò mentre stava in piedi,<br>e diede allora questa sentenza:<br>«Tra nove cattive se una è buona,<br>tra nove cattive se una è buona,<br>c’è pur una buona su dieci.» |
+| COUNTESS | Che, «una buona su dieci»? Tu corrompi la [[Song\|canzone]], messere. |
+| LAVATCH | Una donna buona su dieci, signora, il che è una purificazione della [[Song\|canzone]]. Volesse Dio servire il mondo così tutto l’anno! Non troveremmo da ridire sulla decima in donne, s’io fossi il parroco. Una su dieci, dice lui? Se potessimo avere una buona donna nata soltanto a ogni cometa fiammeggiante, o a ogni terremoto, si migliorerebbe [[Well\|bene]] la lotteria. Un uomo può cavarsi il cuore prima di pescarne una. |
 | COUNTESS | Vattene, ser furfante, e fa’ come ti comando. |
-| LAVATCH | Che l’uomo debba stare al comando della donna, e che non ne venga danno! Benché l’onestà non sia puritana, non farà danno alcuno; porterà la cotta dell’[[Humility|umiltà]] sopra la nera veste d’un gran cuore. Vado, in fede. L’affare è che [[Helen|Elena]] venga qua. Esce |
-| COUNTESS | [[Well|Bene]], ora. |
-| REYNALDO | So, signora, che [[Love|amate]] interamente la vostra gentildonna. |
-| COUNTESS | In [[Faith|fede]], è vero. Suo padre me l’affidò per testamento, e lei stessa, senza altro vantaggio, può legittimamente avanzar diritto a tutto l’[[Love|amore]] che trova. Le è dovuto più di quanto le sia pagato, e più le sarà pagato di quanto ella chiederà. |
-| REYNALDO | Signora, poco tempo fa fui più vicino a lei di quanto credo ella desiderasse. Era [[Alone|sola]], e comunicava a sé stessa, le sue parole ai suoi propri orecchi; credeva, oso giurarlo per lei, che non toccassero alcun senso estraneo. La sua materia era che amava vostro figlio. La Fortuna, diceva, non era dea, avendo posto tale differenza fra le loro due condizioni; l’[[Love|Amore]] non era dio, non volendo estendere la sua potenza se non dove le qualità sono pari; Diana non era [[Queen|regina]] delle vergini, tollerando che il suo povero cavaliere fosse sorpreso senza soccorso al primo assalto né riscatto dopo. Questo ella proferì col più amaro tocco di dolore in cui mai udii vergine lamentarsi; e ritenni mio dovere informarvene prontamente, poiché nella perdita che può avvenire vi importa alquanto saperlo. |
+| LAVATCH | Che l’uomo debba stare al comando della donna, e che non ne venga danno! Benché l’onestà non sia puritana, non farà danno alcuno; porterà la cotta dell’[[Humility\|umiltà]] sopra la nera veste d’un gran cuore. Vado, in fede. L’affare è che [[Helen\|Elena]] venga qua. Esce |
+| COUNTESS | [[Well\|Bene]], ora. |
+| REYNALDO | So, signora, che [[Love\|amate]] interamente la vostra gentildonna. |
+| COUNTESS | In [[Faith\|fede]], è vero. Suo padre me l’affidò per testamento, e lei stessa, senza altro vantaggio, può legittimamente avanzar diritto a tutto l’[[Love\|amore]] che trova. Le è dovuto più di quanto le sia pagato, e più le sarà pagato di quanto ella chiederà. |
+| REYNALDO | Signora, poco tempo fa fui più vicino a lei di quanto credo ella desiderasse. Era [[Alone\|sola]], e comunicava a sé stessa, le sue parole ai suoi propri orecchi; credeva, oso giurarlo per lei, che non toccassero alcun senso estraneo. La sua materia era che amava vostro figlio. La Fortuna, diceva, non era dea, avendo posto tale differenza fra le loro due condizioni; l’[[Love\|Amore]] non era dio, non volendo estendere la sua potenza se non dove le qualità sono pari; Diana non era [[Queen\|regina]] delle vergini, tollerando che il suo povero cavaliere fosse sorpreso senza soccorso al primo assalto né riscatto dopo. Questo ella proferì col più amaro tocco di dolore in cui mai udii vergine lamentarsi; e ritenni mio dovere informarvene prontamente, poiché nella perdita che può avvenire vi importa alquanto saperlo. |
 | COUNTESS | Avete adempiuto onestamente. Tenetelo per voi. Molte verosimiglianze me l’avevano già fatto intendere, e stavano così vacillanti sulla bilancia che non potevo né credere né dubitare. Vi prego, lasciatemi. Riponete questo nel vostro petto, e vi ringrazio della vostra onesta cura. Vi parlerò più a lungo fra poco. |
 | *(didascalia)* | Esce il Maggiordomo |
-| *(didascalia)* | Entra [[Helen|Elena]] |
-| COUNTESS | (a parte)<br>Proprio così fu con me quand’ero giovane.<br>Se mai siamo della [[Nature|natura]], questi sono nostri: questa spina<br>alla nostra [[Rose|rosa]] di gioventù giustamente appartiene.<br>Il nostro [[Blood|sangue]] a noi, questo al nostro [[Blood|sangue]] è nato;<br>è la mostra e il sigillo della [[Truth|verità]] della [[Nature|natura]],<br>dove la forte passione d’[[Love|amore]] s’imprime in gioventù.<br>Per i nostri ricordi dei giorni trascorsi,<br>tali erano le nostre colpe—o allora le credevamo<br>nessuna.<br>Il suo occhio ne è malato. Ora l’osservo. |
-| [[Helen|HELEN]] | Qual è il vostro piacere, signora? |
-| COUNTESS | Sai, [[Helen|Elena]],<br>ch’io ti sono madre. |
-| [[Helen|HELEN]] | Mia onorata signora. |
-| COUNTESS | Anzi, una madre.<br>Perché non una madre? Quando dissi «una madre»,<br>mi parve che tu vedessi un serpente. Che c’è in «madre»<br>da farti sussultare? Dico che sono tua madre,<br>e ti pongo nel catalogo di quelli<br>che furono grembo mio. Si vede spesso<br>che l’adozione contende con la [[Nature|natura]], e la scelta genera<br>per noi un rampollo nativo da semi stranieri.<br>Non mi opprimesti mai col gemito d’una madre,<br>pure ti esprimo la cura d’una madre.<br>[[Mercy|Misericordia]] di Dio, fanciulla! Ti fa cagliare il [[Blood|sangue]]<br>ch’io dica d’essere tua madre? Che avviene,<br>che questo scomposto messaggero d’umido,<br>la multicolore Iride, ti cerchia l’occhio?<br>Come, che tu sei mia figlia? |
-| [[Helen|HELEN]] | Che non lo sono. |
+| *(didascalia)* | Entra [[Helen\|Elena]] |
+| COUNTESS | (a parte)<br>Proprio così fu con me quand’ero giovane.<br>Se mai siamo della [[Nature\|natura]], questi sono nostri: questa spina<br>alla nostra [[Rose\|rosa]] di gioventù giustamente appartiene.<br>Il nostro [[Blood\|sangue]] a noi, questo al nostro [[Blood\|sangue]] è nato;<br>è la mostra e il sigillo della [[Truth\|verità]] della [[Nature\|natura]],<br>dove la forte passione d’[[Love\|amore]] s’imprime in gioventù.<br>Per i nostri ricordi dei giorni trascorsi,<br>tali erano le nostre colpe—o allora le credevamo<br>nessuna.<br>Il suo occhio ne è malato. Ora l’osservo. |
+| [[Helen\|HELEN]] | Qual è il vostro piacere, signora? |
+| COUNTESS | Sai, [[Helen\|Elena]],<br>ch’io ti sono madre. |
+| [[Helen\|HELEN]] | Mia onorata signora. |
+| COUNTESS | Anzi, una madre.<br>Perché non una madre? Quando dissi «una madre»,<br>mi parve che tu vedessi un serpente. Che c’è in «madre»<br>da farti sussultare? Dico che sono tua madre,<br>e ti pongo nel catalogo di quelli<br>che furono grembo mio. Si vede spesso<br>che l’adozione contende con la [[Nature\|natura]], e la scelta genera<br>per noi un rampollo nativo da semi stranieri.<br>Non mi opprimesti mai col gemito d’una madre,<br>pure ti esprimo la cura d’una madre.<br>[[Mercy\|Misericordia]] di Dio, fanciulla! Ti fa cagliare il [[Blood\|sangue]]<br>ch’io dica d’essere tua madre? Che avviene,<br>che questo scomposto messaggero d’umido,<br>la multicolore Iride, ti cerchia l’occhio?<br>Come, che tu sei mia figlia? |
+| [[Helen\|HELEN]] | Che non lo sono. |
 | COUNTESS | Dico che sono vostra madre. |
-| [[Helen|HELEN]] | Perdono, signora.<br>Il conte di Rossiglione non può essere mio fratello.<br>Io vengo da umile, egli da onorato nome;<br>nessuna fama sui miei genitori, i suoi tutti nobili.<br>Mio padrone, mio caro signore egli è, e io<br>vivo sua serva e morrò sua vassalla.<br>Non deve essere mio fratello. |
+| [[Helen\|HELEN]] | Perdono, signora.<br>Il conte di Rossiglione non può essere mio fratello.<br>Io vengo da umile, egli da onorato nome;<br>nessuna fama sui miei genitori, i suoi tutti nobili.<br>Mio padrone, mio caro signore egli è, e io<br>vivo sua serva e morrò sua vassalla.<br>Non deve essere mio fratello. |
 | COUNTESS | Né io vostra madre? |
-| [[Helen|HELEN]] | Voi siete mia madre, signora. Foste—<br>purché il mio signore vostro figlio non fosse mio fratello—<br>davvero mia madre! O foste madre d’entrambi,<br>non m’importa più di ciò che del cielo,<br>purché io non fossi sua sorella. Non può essere altrimenti,<br>se non che, essendo io vostra figlia, egli debba essere mio fratello? |
-| COUNTESS | Sì, [[Helen|Elena]], potresti essere mia nuora.<br>Dio non voglia che tu l’intenda! «Figlia» e «madre»<br>così contendono nel tuo polso. Che, pallida di nuovo?<br>La mia [[Fear|paura]] ha colto il tuo affetto. Ora vedo<br>il mistero della tua [[Loneliness|solitudine]], e trovo<br>la fonte delle tue salse [[Tears|lacrime]]. Ora a ogni senso è palese:<br>tu [[Love|ami]] mio figlio. L’invenzione si vergogna,<br>contro il proclama della tua passione,<br>di dire che non è così. Perciò dimmi il vero,<br>ma dimmi allora ch’è così—perché guarda, le tue guance<br>se lo confessano l’una all’altra, e i tuoi occhi<br>lo vedono mostrato sì palesemente nei tuoi modi<br>che a loro modo lo dicono. Solo il peccato<br>e un’infernale ostinazione ti legano la lingua,<br>sì che la [[Truth|verità]] debba esser sospettata. Parla, è così?<br>Se è così, hai avvolto un bel gomitolo;<br>se non è così, negalo. In ogni caso ti scongiuro,<br>per quanto il cielo opererà in me a tuo vantaggio,<br>di dirmi il vero. |
-| [[Helen|HELEN]] | Buona signora, perdonatemi. |
-| COUNTESS | [[Love|Ami]] tu mio figlio? |
-| [[Helen|HELEN]] | Il vostro perdono, nobile signora. |
-| COUNTESS | [[Love|Ami]] mio figlio? |
-| [[Helen|HELEN]] | Non lo [[Love|amate]] voi, signora? |
-| COUNTESS | Non girare intorno. Il mio [[Love|amore]] ha in sé un vincolo<br>di cui il mondo prende nota. Su, su, svela<br>lo stato del tuo affetto, perché le tue passioni<br>t’hanno pienamente accusata. |
-| [[Helen|HELEN]] | Allora confesso,<br>qui sul mio ginocchio, davanti all’alto cielo e a voi,<br>che davanti a voi e subito dopo l’alto cielo<br>io [[Love|amo]] vostro figlio.<br>I miei erano poveri ma onesti; così è il mio [[Love|amore]].<br>Non v’offendete, perché non gli fa male<br>essere amato da me. Non lo inseguo<br>con alcun segno di presuntuosa richiesta,<br>né lo vorrei prima di meritarlo,<br>pur non sapendo mai come quel [[Desert|merito]] potrebbe essere.<br>So che [[Love|amo]] invano, e lotto contro la [[Hope|speranza]];<br>pure in questo crivello fallace e non tenibile<br>verso ancora le acque del mio [[Love|amore]]<br>e non mi manca da perdere sempre. Così, a modo d’Indiano,<br>religiosa nel mio errore, adoro<br>il sole che guarda il suo adoratore<br>ma nulla più sa di lui. Mia carissima signora,<br>non lasciate che il vostro odio s’incontri col mio [[Love|amore]]<br>per amare dove amate voi; ma se voi stessa,<br>il cui antico [[Honour|onore]] attesta una virtuosa gioventù,<br>mai in così vera fiamma d’inclinazione<br>desideraste castamente e [[Love|amaste]] caramente, sì che la vostra Diana<br>fu insieme sé stessa e [[Love|Amore]], oh allora date pietà<br>a colei la cui condizione è tale che non può scegliere<br>se non prestare e donare dove è certa di perdere,<br>che cerca di trovare non ciò che la sua ricerca implica,<br>ma, a modo di [[Riddle|enigma]], vive dolcemente là dove muore. |
-| COUNTESS | Non avevi di recente l’intento—dì il vero—<br>d’andare a [[Paris|Parigi]]? |
-| [[Helen|HELEN]] | Signora, sì. |
+| [[Helen\|HELEN]] | Voi siete mia madre, signora. Foste—<br>purché il mio signore vostro figlio non fosse mio fratello—<br>davvero mia madre! O foste madre d’entrambi,<br>non m’importa più di ciò che del cielo,<br>purché io non fossi sua sorella. Non può essere altrimenti,<br>se non che, essendo io vostra figlia, egli debba essere mio fratello? |
+| COUNTESS | Sì, [[Helen\|Elena]], potresti essere mia nuora.<br>Dio non voglia che tu l’intenda! «Figlia» e «madre»<br>così contendono nel tuo polso. Che, pallida di nuovo?<br>La mia [[Fear\|paura]] ha colto il tuo affetto. Ora vedo<br>il mistero della tua [[Loneliness\|solitudine]], e trovo<br>la fonte delle tue salse [[Tears\|lacrime]]. Ora a ogni senso è palese:<br>tu [[Love\|ami]] mio figlio. L’invenzione si vergogna,<br>contro il proclama della tua passione,<br>di dire che non è così. Perciò dimmi il vero,<br>ma dimmi allora ch’è così—perché guarda, le tue guance<br>se lo confessano l’una all’altra, e i tuoi occhi<br>lo vedono mostrato sì palesemente nei tuoi modi<br>che a loro modo lo dicono. Solo il peccato<br>e un’infernale ostinazione ti legano la lingua,<br>sì che la [[Truth\|verità]] debba esser sospettata. Parla, è così?<br>Se è così, hai avvolto un bel gomitolo;<br>se non è così, negalo. In ogni caso ti scongiuro,<br>per quanto il cielo opererà in me a tuo vantaggio,<br>di dirmi il vero. |
+| [[Helen\|HELEN]] | Buona signora, perdonatemi. |
+| COUNTESS | [[Love\|Ami]] tu mio figlio? |
+| [[Helen\|HELEN]] | Il vostro perdono, nobile signora. |
+| COUNTESS | [[Love\|Ami]] mio figlio? |
+| [[Helen\|HELEN]] | Non lo [[Love\|amate]] voi, signora? |
+| COUNTESS | Non girare intorno. Il mio [[Love\|amore]] ha in sé un vincolo<br>di cui il mondo prende nota. Su, su, svela<br>lo stato del tuo affetto, perché le tue passioni<br>t’hanno pienamente accusata. |
+| [[Helen\|HELEN]] | Allora confesso,<br>qui sul mio ginocchio, davanti all’alto cielo e a voi,<br>che davanti a voi e subito dopo l’alto cielo<br>io [[Love\|amo]] vostro figlio.<br>I miei erano poveri ma onesti; così è il mio [[Love\|amore]].<br>Non v’offendete, perché non gli fa male<br>essere amato da me. Non lo inseguo<br>con alcun segno di presuntuosa richiesta,<br>né lo vorrei prima di meritarlo,<br>pur non sapendo mai come quel [[Desert\|merito]] potrebbe essere.<br>So che [[Love\|amo]] invano, e lotto contro la [[Hope\|speranza]];<br>pure in questo crivello fallace e non tenibile<br>verso ancora le acque del mio [[Love\|amore]]<br>e non mi manca da perdere sempre. Così, a modo d’Indiano,<br>religiosa nel mio errore, adoro<br>il sole che guarda il suo adoratore<br>ma nulla più sa di lui. Mia carissima signora,<br>non lasciate che il vostro odio s’incontri col mio [[Love\|amore]]<br>per amare dove amate voi; ma se voi stessa,<br>il cui antico [[Honour\|onore]] attesta una virtuosa gioventù,<br>mai in così vera fiamma d’inclinazione<br>desideraste castamente e [[Love\|amaste]] caramente, sì che la vostra Diana<br>fu insieme sé stessa e [[Love\|Amore]], oh allora date pietà<br>a colei la cui condizione è tale che non può scegliere<br>se non prestare e donare dove è certa di perdere,<br>che cerca di trovare non ciò che la sua ricerca implica,<br>ma, a modo di [[Riddle\|enigma]], vive dolcemente là dove muore. |
+| COUNTESS | Non avevi di recente l’intento—dì il vero—<br>d’andare a [[Paris\|Parigi]]? |
+| [[Helen\|HELEN]] | Signora, sì. |
 | COUNTESS | Perché? Dì il vero. |
-| [[Helen|HELEN]] | Dirò la [[Truth|verità]], per la grazia stessa lo giuro.<br>Sapete che mio padre mi lasciò alcune ricette<br>di rari e provati effetti, quali la sua lettura<br>e la manifesta esperienza avevano raccolto<br>per sovrana efficacia generale, e che mi ordinò<br>di custodirle con la più attenta riserva,<br>come scritti le cui facoltà racchiuse erano<br>più di quanto ne apparisse. Fra le altre<br>v’è un rimedio, approvato, registrato,<br>per guarire quei disperati languori per cui<br>il [[King|Re]] è dato per perduto. |
-| COUNTESS | Era questo il tuo motivo<br>per [[Paris|Parigi]], era? Parla. |
-| [[Helen|HELEN]] | Il mio signore vostro figlio me lo fece pensare,<br>altrimenti [[Paris|Parigi]] e la medicina e il [[King|Re]]<br>dalla conversazione dei miei pensieri<br>sarebbero forse allora stati assenti. |
-| COUNTESS | Ma credi, [[Helen|Elena]], che se offrissi il tuo presunto aiuto,<br>egli l’accetterebbe? Lui e i suoi medici<br>sono d’un solo parere: lui, che non possono aiutarlo;<br>essi, che non possono aiutare. Come daran credito<br>a una povera vergine indotta, quando le scuole,<br>sviscerate della loro dottrina, hanno abbandonato<br>il male a sé stesso? |
-| [[Helen|HELEN]] | C’è in ciò qualcosa<br>più che la perizia di mio padre, che era la maggiore<br>della sua professione: che la sua buona ricetta<br>sia per mia eredità santificata<br>dalle più fortunate [[Stars|stelle]] del cielo; e se il vostro<br>[[Honour|onore]]<br>mi concedesse di tentare il [[success|successo]], arrischierei<br>questa mia vita [[Well|bene]] perduta sulla guarigione di sua grazia<br>entro tal giorno, tal ora. |
+| [[Helen\|HELEN]] | Dirò la [[Truth\|verità]], per la grazia stessa lo giuro.<br>Sapete che mio padre mi lasciò alcune ricette<br>di rari e provati effetti, quali la sua lettura<br>e la manifesta esperienza avevano raccolto<br>per sovrana efficacia generale, e che mi ordinò<br>di custodirle con la più attenta riserva,<br>come scritti le cui facoltà racchiuse erano<br>più di quanto ne apparisse. Fra le altre<br>v’è un rimedio, approvato, registrato,<br>per guarire quei disperati languori per cui<br>il [[King\|Re]] è dato per perduto. |
+| COUNTESS | Era questo il tuo motivo<br>per [[Paris\|Parigi]], era? Parla. |
+| [[Helen\|HELEN]] | Il mio signore vostro figlio me lo fece pensare,<br>altrimenti [[Paris\|Parigi]] e la medicina e il [[King\|Re]]<br>dalla conversazione dei miei pensieri<br>sarebbero forse allora stati assenti. |
+| COUNTESS | Ma credi, [[Helen\|Elena]], che se offrissi il tuo presunto aiuto,<br>egli l’accetterebbe? Lui e i suoi medici<br>sono d’un solo parere: lui, che non possono aiutarlo;<br>essi, che non possono aiutare. Come daran credito<br>a una povera vergine indotta, quando le scuole,<br>sviscerate della loro dottrina, hanno abbandonato<br>il male a sé stesso? |
+| [[Helen\|HELEN]] | C’è in ciò qualcosa<br>più che la perizia di mio padre, che era la maggiore<br>della sua professione: che la sua buona ricetta<br>sia per mia eredità santificata<br>dalle più fortunate [[Stars\|stelle]] del cielo; e se il vostro<br>[[Honour\|onore]]<br>mi concedesse di tentare il [[success\|successo]], arrischierei<br>questa mia vita [[Well\|bene]] perduta sulla guarigione di sua grazia<br>entro tal giorno, tal ora. |
 | COUNTESS | Lo credi tu? |
-| [[Helen|HELEN]] | Sì, signora, con piena scienza. |
-| COUNTESS | Ebbene, [[Helen|Elena]], avrai il mio congedo e il mio [[Love|amore]],<br>mezzi e servitori, e i miei amorevoli saluti<br>ai miei che sono a [[Court|corte]]. Io resterò a [[Home|casa]]<br>e pregherò la benedizione di Dio sul tuo tentativo.<br>Parti domani, e sii certa di questo:<br>ciò in cui posso aiutarti, non ti mancherà. |
+| [[Helen\|HELEN]] | Sì, signora, con piena scienza. |
+| COUNTESS | Ebbene, [[Helen\|Elena]], avrai il mio congedo e il mio [[Love\|amore]],<br>mezzi e servitori, e i miei amorevoli saluti<br>ai miei che sono a [[Court\|corte]]. Io resterò a [[Home\|casa]]<br>e pregherò la benedizione di Dio sul tuo tentativo.<br>Parti domani, e sii certa di questo:<br>ciò in cui posso aiutarti, non ti mancherà. |
 | *(didascalia)* | Escono |
 
 
@@ -1642,79 +1642,79 @@ All’s [[Well]] That Ends [[Well]]
 
 | Chi parla | Battuta |
 |---|---|
-| *(didascalia)* | Squillo di cornette. Entra il [[King|Re]] portato su una sedia, con i due Signori [[Dumaine]], vari giovani signori che prendono congedo per la guerra fiorentina, e [[Bertram]] e Paroles |
-| [[King|RE]] | Addio, giovani signori. Questi principi guerreschi<br>non gettateli via da voi. E voi, miei signori, addio.<br>Dividetevi il consiglio; se entrambi guadagnate tutto,<br>il dono si distende nell’esser ricevuto,<br>e basta per entrambi. |
-| PRIMO SIGNORE [[Dumaine|DUMAINE]] | È nostra [[Hope|speranza]], signore, dopo esser stati soldati [[Well|bene]] iniziati, di tornare<br>e trovare vostra grazia in salute. |
-| [[King|RE]] | No, no, non può essere—e tuttavia il mio cuore<br>non confessa d’esser debitore del male<br>che assedia la mia vita. Addio, giovani signori.<br>Ch’io viva o muoia, siate voi i figli<br>di degni Francesi; che l’alta [[Italy|Italia]]—<br>esclusi quelli che ereditano solo la caduta<br>dell’ultima monarchia—veda che venite<br>non a corteggiare l’[[Honour|onore]] ma a sposarlo. Quando<br>il più valoroso cercatore si ritrae, trovate ciò che cercate,<br>sì che la fama vi acclami forte. Vi dico addio. |
-| PRIMO SIGNORE [[Dumaine|DUMAINE]] | La salute, al vostro comando, serva vostra maestà. |
-| [[King|RE]] | Quelle ragazze d’[[Italy|Italia]], guardatevene.<br>Dicono che ai nostri Francesi manca la lingua per negare<br>se esse chiedono. Badate di non esser prigionieri<br>prima di servire. |
-| ENTRAMBI I SIGNORI [[Dumaine|DUMAINE]] | I nostri cuori accolgono i vostri avvertimenti. |
-| [[King|RE]] | Addio.—Venite qua a me. |
-| *(didascalia)* | Alcuni signori si tirano in parte col [[King|Re]] |
-| PRIMO SIGNORE [[Dumaine|DUMAINE]] | (a [[Bertram]])<br>Oh mio dolce signore, che vogliate restare dietro a noi. |
+| *(didascalia)* | Squillo di cornette. Entra il [[King\|Re]] portato su una sedia, con i due Signori [[Dumaine]], vari giovani signori che prendono congedo per la guerra fiorentina, e [[Bertram]] e Paroles |
+| [[King\|RE]] | Addio, giovani signori. Questi principi guerreschi<br>non gettateli via da voi. E voi, miei signori, addio.<br>Dividetevi il consiglio; se entrambi guadagnate tutto,<br>il dono si distende nell’esser ricevuto,<br>e basta per entrambi. |
+| PRIMO SIGNORE [[Dumaine\|DUMAINE]] | È nostra [[Hope\|speranza]], signore, dopo esser stati soldati [[Well\|bene]] iniziati, di tornare<br>e trovare vostra grazia in salute. |
+| [[King\|RE]] | No, no, non può essere—e tuttavia il mio cuore<br>non confessa d’esser debitore del male<br>che assedia la mia vita. Addio, giovani signori.<br>Ch’io viva o muoia, siate voi i figli<br>di degni Francesi; che l’alta [[Italy\|Italia]]—<br>esclusi quelli che ereditano solo la caduta<br>dell’ultima monarchia—veda che venite<br>non a corteggiare l’[[Honour\|onore]] ma a sposarlo. Quando<br>il più valoroso cercatore si ritrae, trovate ciò che cercate,<br>sì che la fama vi acclami forte. Vi dico addio. |
+| PRIMO SIGNORE [[Dumaine\|DUMAINE]] | La salute, al vostro comando, serva vostra maestà. |
+| [[King\|RE]] | Quelle ragazze d’[[Italy\|Italia]], guardatevene.<br>Dicono che ai nostri Francesi manca la lingua per negare<br>se esse chiedono. Badate di non esser prigionieri<br>prima di servire. |
+| ENTRAMBI I SIGNORI [[Dumaine\|DUMAINE]] | I nostri cuori accolgono i vostri avvertimenti. |
+| [[King\|RE]] | Addio.—Venite qua a me. |
+| *(didascalia)* | Alcuni signori si tirano in parte col [[King\|Re]] |
+| PRIMO SIGNORE [[Dumaine\|DUMAINE]] | (a [[Bertram]])<br>Oh mio dolce signore, che vogliate restare dietro a noi. |
 | PAROLES | Non è colpa sua, il bravo giovane. |
-| SECONDO SIGNORE [[Dumaine|DUMAINE]] | Oh, è una bella guerra. |
+| SECONDO SIGNORE [[Dumaine\|DUMAINE]] | Oh, è una bella guerra. |
 | PAROLES | Ammirevolissima! Ho visto quelle guerre. |
-| [[Bertram|BERTRAM]] | Qui mi si comanda, e mi si tiene in agitazione con<br>«troppo giovane» e «l’anno venturo» e «è troppo presto». |
+| [[Bertram\|BERTRAM]] | Qui mi si comanda, e mi si tiene in agitazione con<br>«troppo giovane» e «l’anno venturo» e «è troppo presto». |
 | PAROLES | Se il tuo animo ci sta, ragazzo, fuggi via bravamente. |
-| [[Bertram|BERTRAM]] | Resterò qui cavallo di testa a una gonnella,<br>facendo scricchiolare le scarpe sul liscio pavimento,<br>finché l’[[Honour|onore]] sia tutto comprato, e non si porti [[Sword|spada]]<br>se non una per [[Dance|danzare]]. Per il cielo, fuggirò via. |
-| PRIMO SIGNORE [[Dumaine|DUMAINE]] | C’è [[Honour|onore]] nel furto. |
+| [[Bertram\|BERTRAM]] | Resterò qui cavallo di testa a una gonnella,<br>facendo scricchiolare le scarpe sul liscio pavimento,<br>finché l’[[Honour\|onore]] sia tutto comprato, e non si porti [[Sword\|spada]]<br>se non una per [[Dance\|danzare]]. Per il cielo, fuggirò via. |
+| PRIMO SIGNORE [[Dumaine\|DUMAINE]] | C’è [[Honour\|onore]] nel furto. |
 | PAROLES | Commettetelo, Conte. |
-| SECONDO SIGNORE [[Dumaine|DUMAINE]] | Sono vostro complice. E così, addio. |
-| [[Bertram|BERTRAM]] | Cresco unito a voi,<br>e il nostro separarci è un [[Body|corpo]] torturato. |
-| PRIMO SIGNORE [[Dumaine|DUMAINE]] | Addio, capitano. |
-| SECONDO SIGNORE [[Dumaine|DUMAINE]] | Dolce Monsieur Paroles. |
-| PAROLES | Nobili eroi, la mia [[Sword|spada]] e le vostre sono parenti. Bravi e lustri giovani, una parola, buoni metalli. Troverete nel reggimento degli Spinii un certo capitano Spurio, con la sua cicatrice, emblema di guerra, qui sulla guancia sinistra. Fu questa stessa [[Sword|spada]] a inciderla. Ditegli che vivo, e osservate per me i suoi rapporti. |
-| PRIMO SIGNORE [[Dumaine|DUMAINE]] | Così faremo, nobile capitano. |
+| SECONDO SIGNORE [[Dumaine\|DUMAINE]] | Sono vostro complice. E così, addio. |
+| [[Bertram\|BERTRAM]] | Cresco unito a voi,<br>e il nostro separarci è un [[Body\|corpo]] torturato. |
+| PRIMO SIGNORE [[Dumaine\|DUMAINE]] | Addio, capitano. |
+| SECONDO SIGNORE [[Dumaine\|DUMAINE]] | Dolce Monsieur Paroles. |
+| PAROLES | Nobili eroi, la mia [[Sword\|spada]] e le vostre sono parenti. Bravi e lustri giovani, una parola, buoni metalli. Troverete nel reggimento degli Spinii un certo capitano Spurio, con la sua cicatrice, emblema di guerra, qui sulla guancia sinistra. Fu questa stessa [[Sword\|spada]] a inciderla. Ditegli che vivo, e osservate per me i suoi rapporti. |
+| PRIMO SIGNORE [[Dumaine\|DUMAINE]] | Così faremo, nobile capitano. |
 | PAROLES | Marte vi ami come suoi novizi. |
 | *(didascalia)* | Escono entrambi i Signori [[Dumaine]] |
 | PAROLES | (A [[Bertram]]) Che farete? |
-| [[Bertram|BERTRAM]] | Attendere il [[King|Re]]. |
-| PAROLES | Usate una cerimonia più ampia coi nobili signori. Vi siete contenuto nel limite d’un addio troppo freddo. Siate più espansivo con loro, perché essi si portano nel cappello del [[Time|tempo]], là fanno rassegna d’andatura vera; mangiano, parlano e si muovono sotto l’influsso della stella più accreditata—e anche se il diavolo guida la danza, tali si devono seguire. Andate dietro a loro, e prendete un congedo più dilatato. |
-| [[Bertram|BERTRAM]] | E così farò. |
-| PAROLES | Degni compagni, e probabilmente si mostreranno nerbutissimi uomini di [[Sword|spada]]. |
+| [[Bertram\|BERTRAM]] | Attendere il [[King\|Re]]. |
+| PAROLES | Usate una cerimonia più ampia coi nobili signori. Vi siete contenuto nel limite d’un addio troppo freddo. Siate più espansivo con loro, perché essi si portano nel cappello del [[Time\|tempo]], là fanno rassegna d’andatura vera; mangiano, parlano e si muovono sotto l’influsso della stella più accreditata—e anche se il diavolo guida la danza, tali si devono seguire. Andate dietro a loro, e prendete un congedo più dilatato. |
+| [[Bertram\|BERTRAM]] | E così farò. |
+| PAROLES | Degni compagni, e probabilmente si mostreranno nerbutissimi uomini di [[Sword\|spada]]. |
 | *(didascalia)* | Escono [[[Bertram]] e Paroles] |
-| *(didascalia)* | Entra Lafeu presso il [[King|Re]] |
+| *(didascalia)* | Entra Lafeu presso il [[King\|Re]] |
 | LAFEU | (inginocchiandosi)<br>Perdono, mio signore, per me e per le mie notizie. |
-| [[King|RE]] | Ti pagherò perché ti alzi. |
-| LAFEU | (alzandosi)<br>Ecco allora un uomo in piedi che s’è comprato il perdono.<br>Vorrei che vi fossi inginocchiato, mio signore, a chiedermi [[Mercy|misericordia]],<br>e che al mio comando potessi così alzarvi. |
-| [[King|RE]] | Vorrei averlo fatto, purché t’avessi rotto la testa<br>e t’avessi chiesto [[Mercy|misericordia]] per questo. |
-| LAFEU | Buona [[Faith|fede]], di traverso!<br>Ma, mio buon signore, sta così: volete esser guarito<br>della vostra infermità? |
-| [[King|RE]] | No. |
-| LAFEU | Oh, non volete mangiare<br>uva, mia regale volpe? Sì che volete,<br>la mia nobile uva, se la mia regale volpe<br>potesse raggiungerla. Ho visto una medicina<br>capace di soffiar vita in una pietra,<br>d’animare una roccia, e di farvi [[Dance|danzare]] la canary<br>con vivace [[Fire|fuoco]] e movimento; il cui semplice tocco<br>ha potere di rialzare [[King|re]] Pipino, anzi<br>di dare al grande Carlomagno una penna in mano<br>e di farle scrivere un verso d’[[Love|amore]]. |
-| [[King|RE]] | Che «lei» è questa? |
-| LAFEU | Ebbene, il dottor Lei. Mio signore, ne è arrivata una,<br>se volete vederla. Ora, per la mia [[Faith|fede]] e il mio [[Honour|onore]],<br>se posso seriamente trasmettere i miei pensieri<br>in questa mia leggera esposizione, ho parlato<br>con una che, nel suo sesso, nei suoi anni, nella professione,<br>nella saggezza e nella costanza, m’ha stupito più<br>di quanto osi biasimare la mia debolezza. Volete vederla—<br>poiché questa è la sua domanda—e conoscere il suo affare?<br>Fatto ciò, ridete [[Well|bene]] di me. |
-| [[King|RE]] | Ora, buon Lafeu, fate entrare la meraviglia, sì che noi con voi<br>possiamo spendere anche il nostro [[Wonder|stupore]], o togliere il vostro<br>meravigliandoci di come l’abbiate preso. |
+| [[King\|RE]] | Ti pagherò perché ti alzi. |
+| LAFEU | (alzandosi)<br>Ecco allora un uomo in piedi che s’è comprato il perdono.<br>Vorrei che vi fossi inginocchiato, mio signore, a chiedermi [[Mercy\|misericordia]],<br>e che al mio comando potessi così alzarvi. |
+| [[King\|RE]] | Vorrei averlo fatto, purché t’avessi rotto la testa<br>e t’avessi chiesto [[Mercy\|misericordia]] per questo. |
+| LAFEU | Buona [[Faith\|fede]], di traverso!<br>Ma, mio buon signore, sta così: volete esser guarito<br>della vostra infermità? |
+| [[King\|RE]] | No. |
+| LAFEU | Oh, non volete mangiare<br>uva, mia regale volpe? Sì che volete,<br>la mia nobile uva, se la mia regale volpe<br>potesse raggiungerla. Ho visto una medicina<br>capace di soffiar vita in una pietra,<br>d’animare una roccia, e di farvi [[Dance\|danzare]] la canary<br>con vivace [[Fire\|fuoco]] e movimento; il cui semplice tocco<br>ha potere di rialzare [[King\|re]] Pipino, anzi<br>di dare al grande Carlomagno una penna in mano<br>e di farle scrivere un verso d’[[Love\|amore]]. |
+| [[King\|RE]] | Che «lei» è questa? |
+| LAFEU | Ebbene, il dottor Lei. Mio signore, ne è arrivata una,<br>se volete vederla. Ora, per la mia [[Faith\|fede]] e il mio [[Honour\|onore]],<br>se posso seriamente trasmettere i miei pensieri<br>in questa mia leggera esposizione, ho parlato<br>con una che, nel suo sesso, nei suoi anni, nella professione,<br>nella saggezza e nella costanza, m’ha stupito più<br>di quanto osi biasimare la mia debolezza. Volete vederla—<br>poiché questa è la sua domanda—e conoscere il suo affare?<br>Fatto ciò, ridete [[Well\|bene]] di me. |
+| [[King\|RE]] | Ora, buon Lafeu, fate entrare la meraviglia, sì che noi con voi<br>possiamo spendere anche il nostro [[Wonder\|stupore]], o togliere il vostro<br>meravigliandoci di come l’abbiate preso. |
 | LAFEU | Anzi, vi accontenterò,<br>e non ci metterò tutto il giorno. |
 | *(didascalia)* | Va alla porta |
-| [[King|RE]] | Così egli fa sempre prologo al suo speciale nulla. |
-| LAFEU | ([[To Helen|a Elena]], dentro) Su, venite avanti. |
-| *(didascalia)* | Entra [[Helen|Elena]] travestita |
-| [[King|RE]] | Questa fretta ha davvero le ali. |
-| LAFEU | ([[To Helen|a Elena]]) Su, venite avanti.<br>Questa è sua maestà. Ditegli il vostro pensiero.<br>Sembrate una traditrice, ma tali traditrici<br>sua maestà raramente teme. Io sono lo zio di Cressida,<br>che osa lasciare due insieme. Statevi [[Well|bene]]. |
-| *(didascalia)* | Escono tutti tranne il [[King|Re]] ed [[Helen|Elena]] |
-| [[King|RE]] | Ora, bella, il vostro affare ci segue? |
-| [[Helen|HELEN]] | Sì, mio buon signore. Gérard de Narbonne era mio padre;<br>in ciò che professò, [[Well|bene]] esperto. |
-| [[King|RE]] | Lo conoscevo. |
-| [[Helen|HELEN]] | Tanto più risparmierò le mie lodi verso di lui;<br>conoscerlo basta. Sul suo letto di [[Death|morte]]<br>molte ricette mi diede, e soprattutto una<br>che, come il più caro frutto della sua pratica<br>e unica diletta della sua vecchia esperienza,<br>mi ordinò di custodire come un terzo occhio<br>più sicuro dei miei due, più caro. Così ho fatto,<br>e udendo che vostra alta maestà è tocca<br>da quel maligno male in cui l’[[Honour|onore]] no<br>del dono del mio caro padre sta primo in potenza,<br>vengo a offrirlo, e con esso la mia opera,<br>con ogni obbligata umiltà. |
-| [[King|RE]] | Vi ringraziamo, fanciulla,<br>ma non possiamo esser così creduli di guarigione,<br>quando i nostri più dotti medici ci abbandonano, e<br>il Collegio congregato ha concluso<br>che l’arte laboriosa non può mai riscattare la [[Nature|natura]]<br>dal suo stato senza soccorso. Dico che non dobbiamo<br>così macchiare il nostro giudizio né corrompere la nostra [[Hope|speranza]],<br>prostituendo il nostro male incurabile<br>agli empirici, o disgiungere così<br>il nostro grande [[Self|io]] e il nostro credito, stimando<br>un aiuto insensato, quando l’aiuto giudichiamo fuor di senso. |
-| [[Helen|HELEN]] | Il mio dovere allora mi ripagherà delle mie pene.<br>Non v’imporrò più il mio servizio,<br>chiedendo umilmente dai vostri regali pensieri<br>uno modesto che mi riporti indietro. |
-| [[King|RE]] | Non posso darti meno, per esser detto grato.<br>Pensasti d’aiutarmi, e tali grazie io rendo<br>quali un uomo vicino alla [[Death|morte]] a chi gli augura vita.<br>Ma ciò che io so appieno, tu non ne sai parte;<br>io conoscendo tutto il mio pericolo, tu nessun’arte. |
-| [[Helen|HELEN]] | Ciò che posso fare non fa danno a provarlo,<br>poiché voi ponete il vostro riposo contro il rimedio.<br>Colui che delle opere più grandi è compitore<br>spesso le compie col ministro più debole.<br>Così la santa scrittura ha mostrato giudizio nei bambini<br>quando i giudici sono stati bambini; grandi fiumi sono<br>sgorgati<br>da fonti semplici, e grandi mari si sono asciugati.<br>Quando i miracoli sono stati negati dai più grandi<br>spesso l’attesa fallisce, e più spesso là<br>dove più promette, e spesso colpisce<br>dove la [[Hope|speranza]] è più fredda e la [[Despair|disperazione]] più s’addice. |
-| [[King|RE]] | Non devo ascoltarti. Statti [[Well|bene]], gentile fanciulla.<br>Le tue pene, non usate, da te stessa vanno pagate:<br>le offerte non accolte raccolgono grazie per ricompensa. |
-| [[Helen|HELEN]] | Così il merito ispirato è sbarrato da un fiato.<br>Non è con colui che tutte le cose conosce<br>come con noi, che misuriamo la congettura dalle apparenze;<br>ma presunzione è in noi soprattutto quando<br>l’aiuto del cielo lo contiamo per atto degli uomini.<br>Caro signore, ai miei sforzi date consenso.<br>Del cielo, non di me, fate esperimento.<br>Non sono un’impostora, che proclami<br>me stessa contro il livello del mio scopo,<br>ma so, credo, e credo di sapere sicurissimamente,<br>che la mia arte non è fuor di potere, né voi fuor di cura. |
-| [[King|RE]] | Sei tanto fiduciosa? In quale spazio<br>speri la mia guarigione? |
-| [[Helen|HELEN]] | Prestando grazia la più grande grazia,<br>prima che due volte i cavalli del sole rechino<br>al loro igneo cocchiere il suo giro diurno,<br>prima che due volte nel buio e nell’umido occidentale<br>l’umido Espero abbia spento la sua lampada sonnolenta,<br>o ventiquattro volte la clessidra del pilota<br>abbia contato ai minuti ladri il loro passare,<br>ciò che è infermo fuggirà dalle vostre parti sane,<br>la salute vivrà libera, e la malattia liberamente morrà. |
-| [[King|RE]] | Sulla tua certezza e sulla tua fiducia<br>che osi arrischiare? |
-| [[Helen|HELEN]] | L’accusa d’impudenza,<br>l’audacia d’una sgualdrina, una vergogna divulgata;<br>diffamato da odiose ballate il mio nome di vergine,<br>marchiato d’altro modo, anzi—peggio del peggio—stesa<br>con vilissima tortura, sia finita la mia vita. |
-| [[King|RE]] | Mi pare che in te parli qualche spirito benedetto,<br>il suo suono potente in un organo debole;<br>e ciò che l’impossibilità ucciderebbe<br>nel senso comune, il senso salva per altra via.<br>La tua vita è cara, perché tutto ciò che la vita può valutare<br>degno del nome di vita in te ha estimo:<br>gioventù, [[Beauty|bellezza]], saggezza, [[Courage|coraggio]], tutto<br>ciò che la felicità e il fiore dell’età possono dir felice.<br>Arrischiar questo deve per forza far intendere<br>perizia infinita, o mostruosa disperazione.<br>Dolce operatrice, proverò la tua medicina,<br>che amministra la tua stessa [[Death|morte]] se io muoio. |
-| [[Helen|HELEN]] | Se rompo il [[Time|tempo]], o vengo meno nella proprietà<br>di ciò che ho detto, ch’io muoia senza pietà,<br>e [[Well|bene]] meritato. Se non giovo, la [[Death|morte]] è il mio salario.<br>Ma se giovo, che mi promettete? |
-| [[King|RE]] | Fa’ la tua domanda. |
-| [[Helen|HELEN]] | Ma la manterrete pari? |
-| [[King|RE]] | Sì, per il mio scettro e le mie speranze di cielo. |
-| [[Helen|HELEN]] | Allora mi darai con la tua mano regale<br>quel marito che, in tuo potere, io comanderò.<br>Sia esente da me l’arroganza<br>di scegliere dal regale [[Blood|sangue]] di Francia,<br>per propagare il mio basso e umile nome<br>con qualche ramo o immagine del tuo stato;<br>ma uno tale, tuo vassallo, che io sappia<br>esser libero per me di chiedere, per te di concedere. |
-| [[King|RE]] | Ecco la mia mano. Osservate le premesse,<br>la tua volontà sarà servita dalla mia esecuzione.<br>Fa’ dunque la scelta del tuo proprio [[Time|tempo]], perché io,<br>tuo paziente risoluto, sempre in te confido.<br>Più dovrei interrogarti, e più devo,<br>benché saper di più non potesse esser fidarsi di più:<br>di dove venisti, come accompagnata—ma sii<br>benvenuta senza domande, e benedetta senza dubbio.—<br>Datemi qualche aiuto qui, olà! Se procedi<br>tanto alto quanto la parola, il mio fatto pareggerà il tuo fatto. |
-| *(didascalia)* | Squilli di trombe. Escono il [[King|Re]], portato, ed [[Helen|Elena]] |
+| [[King\|RE]] | Così egli fa sempre prologo al suo speciale nulla. |
+| LAFEU | ([[To Helen\|a Elena]], dentro) Su, venite avanti. |
+| *(didascalia)* | Entra [[Helen\|Elena]] travestita |
+| [[King\|RE]] | Questa fretta ha davvero le ali. |
+| LAFEU | ([[To Helen\|a Elena]]) Su, venite avanti.<br>Questa è sua maestà. Ditegli il vostro pensiero.<br>Sembrate una traditrice, ma tali traditrici<br>sua maestà raramente teme. Io sono lo zio di Cressida,<br>che osa lasciare due insieme. Statevi [[Well\|bene]]. |
+| *(didascalia)* | Escono tutti tranne il [[King\|Re]] ed [[Helen\|Elena]] |
+| [[King\|RE]] | Ora, bella, il vostro affare ci segue? |
+| [[Helen\|HELEN]] | Sì, mio buon signore. Gérard de Narbonne era mio padre;<br>in ciò che professò, [[Well\|bene]] esperto. |
+| [[King\|RE]] | Lo conoscevo. |
+| [[Helen\|HELEN]] | Tanto più risparmierò le mie lodi verso di lui;<br>conoscerlo basta. Sul suo letto di [[Death\|morte]]<br>molte ricette mi diede, e soprattutto una<br>che, come il più caro frutto della sua pratica<br>e unica diletta della sua vecchia esperienza,<br>mi ordinò di custodire come un terzo occhio<br>più sicuro dei miei due, più caro. Così ho fatto,<br>e udendo che vostra alta maestà è tocca<br>da quel maligno male in cui l’[[Honour\|onore]] no<br>del dono del mio caro padre sta primo in potenza,<br>vengo a offrirlo, e con esso la mia opera,<br>con ogni obbligata umiltà. |
+| [[King\|RE]] | Vi ringraziamo, fanciulla,<br>ma non possiamo esser così creduli di guarigione,<br>quando i nostri più dotti medici ci abbandonano, e<br>il Collegio congregato ha concluso<br>che l’arte laboriosa non può mai riscattare la [[Nature\|natura]]<br>dal suo stato senza soccorso. Dico che non dobbiamo<br>così macchiare il nostro giudizio né corrompere la nostra [[Hope\|speranza]],<br>prostituendo il nostro male incurabile<br>agli empirici, o disgiungere così<br>il nostro grande [[Self\|io]] e il nostro credito, stimando<br>un aiuto insensato, quando l’aiuto giudichiamo fuor di senso. |
+| [[Helen\|HELEN]] | Il mio dovere allora mi ripagherà delle mie pene.<br>Non v’imporrò più il mio servizio,<br>chiedendo umilmente dai vostri regali pensieri<br>uno modesto che mi riporti indietro. |
+| [[King\|RE]] | Non posso darti meno, per esser detto grato.<br>Pensasti d’aiutarmi, e tali grazie io rendo<br>quali un uomo vicino alla [[Death\|morte]] a chi gli augura vita.<br>Ma ciò che io so appieno, tu non ne sai parte;<br>io conoscendo tutto il mio pericolo, tu nessun’arte. |
+| [[Helen\|HELEN]] | Ciò che posso fare non fa danno a provarlo,<br>poiché voi ponete il vostro riposo contro il rimedio.<br>Colui che delle opere più grandi è compitore<br>spesso le compie col ministro più debole.<br>Così la santa scrittura ha mostrato giudizio nei bambini<br>quando i giudici sono stati bambini; grandi fiumi sono<br>sgorgati<br>da fonti semplici, e grandi mari si sono asciugati.<br>Quando i miracoli sono stati negati dai più grandi<br>spesso l’attesa fallisce, e più spesso là<br>dove più promette, e spesso colpisce<br>dove la [[Hope\|speranza]] è più fredda e la [[Despair\|disperazione]] più s’addice. |
+| [[King\|RE]] | Non devo ascoltarti. Statti [[Well\|bene]], gentile fanciulla.<br>Le tue pene, non usate, da te stessa vanno pagate:<br>le offerte non accolte raccolgono grazie per ricompensa. |
+| [[Helen\|HELEN]] | Così il merito ispirato è sbarrato da un fiato.<br>Non è con colui che tutte le cose conosce<br>come con noi, che misuriamo la congettura dalle apparenze;<br>ma presunzione è in noi soprattutto quando<br>l’aiuto del cielo lo contiamo per atto degli uomini.<br>Caro signore, ai miei sforzi date consenso.<br>Del cielo, non di me, fate esperimento.<br>Non sono un’impostora, che proclami<br>me stessa contro il livello del mio scopo,<br>ma so, credo, e credo di sapere sicurissimamente,<br>che la mia arte non è fuor di potere, né voi fuor di cura. |
+| [[King\|RE]] | Sei tanto fiduciosa? In quale spazio<br>speri la mia guarigione? |
+| [[Helen\|HELEN]] | Prestando grazia la più grande grazia,<br>prima che due volte i cavalli del sole rechino<br>al loro igneo cocchiere il suo giro diurno,<br>prima che due volte nel buio e nell’umido occidentale<br>l’umido Espero abbia spento la sua lampada sonnolenta,<br>o ventiquattro volte la clessidra del pilota<br>abbia contato ai minuti ladri il loro passare,<br>ciò che è infermo fuggirà dalle vostre parti sane,<br>la salute vivrà libera, e la malattia liberamente morrà. |
+| [[King\|RE]] | Sulla tua certezza e sulla tua fiducia<br>che osi arrischiare? |
+| [[Helen\|HELEN]] | L’accusa d’impudenza,<br>l’audacia d’una sgualdrina, una vergogna divulgata;<br>diffamato da odiose ballate il mio nome di vergine,<br>marchiato d’altro modo, anzi—peggio del peggio—stesa<br>con vilissima tortura, sia finita la mia vita. |
+| [[King\|RE]] | Mi pare che in te parli qualche spirito benedetto,<br>il suo suono potente in un organo debole;<br>e ciò che l’impossibilità ucciderebbe<br>nel senso comune, il senso salva per altra via.<br>La tua vita è cara, perché tutto ciò che la vita può valutare<br>degno del nome di vita in te ha estimo:<br>gioventù, [[Beauty\|bellezza]], saggezza, [[Courage\|coraggio]], tutto<br>ciò che la felicità e il fiore dell’età possono dir felice.<br>Arrischiar questo deve per forza far intendere<br>perizia infinita, o mostruosa disperazione.<br>Dolce operatrice, proverò la tua medicina,<br>che amministra la tua stessa [[Death\|morte]] se io muoio. |
+| [[Helen\|HELEN]] | Se rompo il [[Time\|tempo]], o vengo meno nella proprietà<br>di ciò che ho detto, ch’io muoia senza pietà,<br>e [[Well\|bene]] meritato. Se non giovo, la [[Death\|morte]] è il mio salario.<br>Ma se giovo, che mi promettete? |
+| [[King\|RE]] | Fa’ la tua domanda. |
+| [[Helen\|HELEN]] | Ma la manterrete pari? |
+| [[King\|RE]] | Sì, per il mio scettro e le mie speranze di cielo. |
+| [[Helen\|HELEN]] | Allora mi darai con la tua mano regale<br>quel marito che, in tuo potere, io comanderò.<br>Sia esente da me l’arroganza<br>di scegliere dal regale [[Blood\|sangue]] di Francia,<br>per propagare il mio basso e umile nome<br>con qualche ramo o immagine del tuo stato;<br>ma uno tale, tuo vassallo, che io sappia<br>esser libero per me di chiedere, per te di concedere. |
+| [[King\|RE]] | Ecco la mia mano. Osservate le premesse,<br>la tua volontà sarà servita dalla mia esecuzione.<br>Fa’ dunque la scelta del tuo proprio [[Time\|tempo]], perché io,<br>tuo paziente risoluto, sempre in te confido.<br>Più dovrei interrogarti, e più devo,<br>benché saper di più non potesse esser fidarsi di più:<br>di dove venisti, come accompagnata—ma sii<br>benvenuta senza domande, e benedetta senza dubbio.—<br>Datemi qualche aiuto qui, olà! Se procedi<br>tanto alto quanto la parola, il mio fatto pareggerà il tuo fatto. |
+| *(didascalia)* | Squilli di trombe. Escono il [[King\|Re]], portato, ed [[Helen\|Elena]] |
 
 
 
@@ -1761,18 +1761,18 @@ All’s [[Well]] That Ends [[Well]]
 |---|---|
 | *(didascalia)* | Entrano la Contessa e Lavatch il buffone |
 | COUNTESS | Avanti, messere. Ora ti metterò al colmo della tua educazione. |
-| LAVATCH | Mi mostrerò altamente nutrito e bassamente istruito. So che il mio affare è soltanto per la [[Court|corte]]. |
-| COUNTESS | «Per la [[Court|corte]]»? Come, quale luogo tieni per speciale, se congedi quello con tanto disprezzo? «Soltanto per la [[Court|corte]]»! |
-| LAVATCH | In verità, signora, se Dio ha prestato a un uomo qualche buona maniera, egli può facilmente sbarazzarsene a [[Court|corte]]. Chi non sa fare un inchino, levarsi il cappello, baciarsi la mano e non dir nulla, non ha né gamba, né mani, né labbro, né cappello; e in verità un tale, a dirla precisamente, non sarebbe fatto per la [[Court|corte]]. Ma quanto a me, ho una risposta che servirà a tutti gli uomini. |
+| LAVATCH | Mi mostrerò altamente nutrito e bassamente istruito. So che il mio affare è soltanto per la [[Court\|corte]]. |
+| COUNTESS | «Per la [[Court\|corte]]»? Come, quale luogo tieni per speciale, se congedi quello con tanto disprezzo? «Soltanto per la [[Court\|corte]]»! |
+| LAVATCH | In verità, signora, se Dio ha prestato a un uomo qualche buona maniera, egli può facilmente sbarazzarsene a [[Court\|corte]]. Chi non sa fare un inchino, levarsi il cappello, baciarsi la mano e non dir nulla, non ha né gamba, né mani, né labbro, né cappello; e in verità un tale, a dirla precisamente, non sarebbe fatto per la [[Court\|corte]]. Ma quanto a me, ho una risposta che servirà a tutti gli uomini. |
 | COUNTESS | Davvero, è una risposta generosa quella che s’adatta a tutte le domande. |
 | LAVATCH | È come la sedia d’un barbiere che s’adatta a tutte le natiche: la natica a spillo, la natica schiacciata, la natica polposa, o qualunque natica. |
 | COUNTESS | La tua risposta s’adatterà a tutte le domande? |
-| LAVATCH | Adatta come dieci grossi per la mano d’un avvocato, come la vostra [[Crown|corona]] francese per la vostra sgualdrina di taffetà, come il giunco di Tib per l’indice di Tom, come una frittella per il martedì grasso, una morisca per il Calendimaggio, come il chiodo al suo buco, il cornuto al suo corno, come una megera brontolona a un furfante litigioso, come il labbro della monaca alla bocca del frate, anzi come il sanguinaccio alla sua pelle. |
+| LAVATCH | Adatta come dieci grossi per la mano d’un avvocato, come la vostra [[Crown\|corona]] francese per la vostra sgualdrina di taffetà, come il giunco di Tib per l’indice di Tom, come una frittella per il martedì grasso, una morisca per il Calendimaggio, come il chiodo al suo buco, il cornuto al suo corno, come una megera brontolona a un furfante litigioso, come il labbro della monaca alla bocca del frate, anzi come il sanguinaccio alla sua pelle. |
 | COUNTESS | Hai, dico, una risposta di tale adattezza per tutte le domande? |
 | LAVATCH | Da oltre il vostro duca a sotto il vostro conestabile, s’adatterà a qualunque domanda. |
 | COUNTESS | Dev’essere una risposta di mostruosissima taglia quella che deve adattarsi a ogni richiesta. |
-| LAVATCH | Ma è anche una bagattella, in buona [[Faith|fede]], se i dotti ne dicessero la [[Truth|verità]]. Eccola qui, e tutto ciò che le appartiene. Chiedetemi se sono un cortigiano. Non vi farà male impararlo. |
-| COUNTESS | Esser giovani di nuovo, se potessimo! Farò la [[Fool|sciocca]] nel domandare, sperando d’esser più saggia per la tua risposta. Ti prego, messere, sei tu un cortigiano? |
+| LAVATCH | Ma è anche una bagattella, in buona [[Faith\|fede]], se i dotti ne dicessero la [[Truth\|verità]]. Eccola qui, e tutto ciò che le appartiene. Chiedetemi se sono un cortigiano. Non vi farà male impararlo. |
+| COUNTESS | Esser giovani di nuovo, se potessimo! Farò la [[Fool\|sciocca]] nel domandare, sperando d’esser più saggia per la tua risposta. Ti prego, messere, sei tu un cortigiano? |
 | LAVATCH | Oh Signore, signore!—Ecco un semplice sbarazzarsene. Ancora, ancora, cento di queste. |
 | COUNTESS | Messere, sono una vostra povera amica che vi ama. |
 | LAVATCH | Oh Signore, signore!—Fitto, fitto, non risparmiatemi. |
@@ -1780,10 +1780,10 @@ All’s [[Well]] That Ends [[Well]]
 | LAVATCH | Oh Signore, signore!—Su, mettetemi alla prova, ve lo garantisco. |
 | COUNTESS | Sei stato frustato di recente, messere, a quel che credo. |
 | LAVATCH | Oh Signore, signore!—Non risparmiatemi. |
-| COUNTESS | Gridi «Oh Signore, signore!» quando ti frustano, e «non risparmiatemi»? In verità il tuo «Oh Signore, signore!» segue proprio da presso la tua frustata. Risponderesti [[Well|bene]] a una frustata, se solo vi fossi legato. |
+| COUNTESS | Gridi «Oh Signore, signore!» quando ti frustano, e «non risparmiatemi»? In verità il tuo «Oh Signore, signore!» segue proprio da presso la tua frustata. Risponderesti [[Well\|bene]] a una frustata, se solo vi fossi legato. |
 | LAVATCH | Mai in vita mia ebbi peggior fortuna col mio «Oh Signore, signore!» Vedo che le cose possono servire a lungo, ma non servire sempre. |
-| COUNTESS | Faccio la nobile massaia col [[Time|tempo]], a intrattenerlo così allegramente con un [[Fool|buffone]]. |
-| LAVATCH | Oh Signore, signore!—Ecco, là serve [[Well|bene]] di nuovo. CONTESSA<br>Basta, messere! Al tuo affare: da’ a [[Helen|Elena]] questo,<br>Gli dà una lettera<br>e sollecitala a una risposta immediata.<br>Raccomandami ai miei parenti e a mio figlio.<br>Non è molto. |
+| COUNTESS | Faccio la nobile massaia col [[Time\|tempo]], a intrattenerlo così allegramente con un [[Fool\|buffone]]. |
+| LAVATCH | Oh Signore, signore!—Ecco, là serve [[Well\|bene]] di nuovo. CONTESSA<br>Basta, messere! Al tuo affare: da’ a [[Helen\|Elena]] questo,<br>Gli dà una lettera<br>e sollecitala a una risposta immediata.<br>Raccomandami ai miei parenti e a mio figlio.<br>Non è molto. |
 | LAVATCH | Non molte raccomandazioni a loro? |
 | COUNTESS | Non molta fatica per te. Mi capisci. |
 | LAVATCH | Fruttuosissimamente. Sono là prima delle mie gambe. |
@@ -1927,9 +1927,9 @@ All’s [[Well]] That Ends [[Well]]
 | Chi parla | Battuta |
 |---|---|
 | *(didascalia)* | Entrano [[Bertram]], Lafeu con una ballata], e Paroles |
-| LAFEU | Dicono che i miracoli sono finiti, e abbiamo i nostri uomini filosofici per rendere le cose moderne e familiari [[Supernatural|sovrannaturali]] e senza causa. Da ciò viene che facciamo bagattelle dei terrori, rincantucciandoci in una parvenza di sapere quando dovremmo sottometterci a una [[Fear|paura]] ignota. |
-| PAROLES | Ebbene, è il più raro argomento di [[Wonder|meraviglia]] che sia germogliato nei nostri ultimi tempi. |
-| [[Bertram|BERTRAM]] | E così è. |
+| LAFEU | Dicono che i miracoli sono finiti, e abbiamo i nostri uomini filosofici per rendere le cose moderne e familiari [[Supernatural\|sovrannaturali]] e senza causa. Da ciò viene che facciamo bagattelle dei terrori, rincantucciandoci in una parvenza di sapere quando dovremmo sottometterci a una [[Fear\|paura]] ignota. |
+| PAROLES | Ebbene, è il più raro argomento di [[Wonder\|meraviglia]] che sia germogliato nei nostri ultimi tempi. |
+| [[Bertram\|BERTRAM]] | E così è. |
 | LAFEU | Esser abbandonato dagli artisti— |
 | PAROLES | Così dico io—sia di Galeno che di Paracelso. |
 | LAFEU | Di tutti i dotti e autentici Membri del Collegio— |
@@ -1938,8 +1938,8 @@ All’s [[Well]] That Ends [[Well]]
 | PAROLES | Ecco, appunto, così dico anch’io. |
 | LAFEU | Da non potersi soccorrere. |
 | PAROLES | Giusto, come fosse un uomo sicuro d’una— |
-| LAFEU | Vita incerta e [[Death|morte]] certa. |
-| PAROLES | Esatto, dite [[Well|bene]], così avrei detto io. |
+| LAFEU | Vita incerta e [[Death\|morte]] certa. |
+| PAROLES | Esatto, dite [[Well\|bene]], così avrei detto io. |
 | LAFEU | Posso dire in verità che è una novità per il mondo. |
 | PAROLES | Lo è davvero. Se volete averlo per iscritto, lo leggerete in [indicando la ballata] quel-come-si-chiama là. |
 | *(didascalia)* | LAFEU legge «Esposizione d’un effetto celeste in un agente terreno.» |
@@ -1949,63 +1949,63 @@ All’s [[Well]] That Ends [[Well]]
 | LAFEU | Vera mano del cielo. |
 | PAROLES | Sì, così dico io. |
 | LAFEU | In un debolissimo— |
-| PAROLES | E debile ministro, gran potenza, gran trascendenza, che dovrebbe in verità darci un uso ulteriore da farsene che non [[Alone|soltanto]] la guarigione del [[King|re]], come l’essere— |
+| PAROLES | E debile ministro, gran potenza, gran trascendenza, che dovrebbe in verità darci un uso ulteriore da farsene che non [[Alone\|soltanto]] la guarigione del [[King\|re]], come l’essere— |
 | LAFEU | Generalmente riconoscenti. |
-| *(didascalia)* | Entrano il [[King|Re]], [[Helen|Elena]] e gli attendenti |
-| PAROLES | L’avrei detto io, dite [[Well|bene]]. Ecco viene il [[King|Re]]. |
+| *(didascalia)* | Entrano il [[King\|Re]], [[Helen\|Elena]] e gli attendenti |
+| PAROLES | L’avrei detto io, dite [[Well\|bene]]. Ecco viene il [[King\|Re]]. |
 | LAFEU | Lustig, come dice il Tedesco. Amerò le fanciulle tanto più finché avrò un dente in bocca. |
-| *(didascalia)* | Il [[King|Re]] ed [[Helen|Elena]] [[Dance|danzano]] |
+| *(didascalia)* | Il [[King\|Re]] ed [[Helen\|Elena]] [[Dance\|danzano]] |
 | LAFEU | Ebbene, è capace di guidarla in una corranta. |
-| PAROLES | Mort du vinaigre, non è questa [[Helen|Elena]]? |
+| PAROLES | Mort du vinaigre, non è questa [[Helen\|Elena]]? |
 | LAFEU | Per Dio, credo di sì. |
-| [[King|RE]] | Andate a chiamare davanti a me tutti i signori di [[Court|corte]]. |
+| [[King\|RE]] | Andate a chiamare davanti a me tutti i signori di [[Court\|corte]]. |
 | *(didascalia)* | Esce uno o più |
-| [[King|RE]] | Siedi, mia salvatrice, al fianco del tuo paziente, |
-| *(didascalia)* | Il [[King|Re]] ed [[Helen|Elena]] siedono] |
-| [[King|RE]] | E con questa mano risanata, il cui senso esiliato<br>tu hai richiamato, ricevi una seconda [[Time|volta]]<br>la conferma del mio dono promesso,<br>che attende solo che tu nomini. |
+| [[King\|RE]] | Siedi, mia salvatrice, al fianco del tuo paziente, |
+| *(didascalia)* | Il [[King\|Re]] ed [[Helen\|Elena]] siedono] |
+| [[King\|RE]] | E con questa mano risanata, il cui senso esiliato<br>tu hai richiamato, ricevi una seconda [[Time\|volta]]<br>la conferma del mio dono promesso,<br>che attende solo che tu nomini. |
 | *(didascalia)* | Entrano quattro Signori |
-| [[King|RE]] | Bella fanciulla, manda fuori il tuo sguardo. Questo giovane gruppo<br>di nobili scapoli sta a mia disposizione,<br>su cui posso usare sia il potere sovrano<br>sia la voce di padre. Fa’ la tua libera elezione.<br>Tu hai potere di scegliere, ed essi nessuno di rifiutare. |
-| [[Helen|HELEN]] | A ciascuno di voi una bella e virtuosa signora<br>tocchi quando [[Love|amore]] piaccia. Ma sì, a ciascuno una sola. |
+| [[King\|RE]] | Bella fanciulla, manda fuori il tuo sguardo. Questo giovane gruppo<br>di nobili scapoli sta a mia disposizione,<br>su cui posso usare sia il potere sovrano<br>sia la voce di padre. Fa’ la tua libera elezione.<br>Tu hai potere di scegliere, ed essi nessuno di rifiutare. |
+| [[Helen\|HELEN]] | A ciascuno di voi una bella e virtuosa signora<br>tocchi quando [[Love\|amore]] piaccia. Ma sì, a ciascuno una sola. |
 | LAFEU | (a parte)<br>Darei il baio Curtal e i suoi arnesi<br>perché la mia bocca non fosse più sdentata di quella di questi ragazzi,<br>e scrivessi altrettanto poca barba. |
-| [[King|RE]] | ([[To Helen|a Elena]]) Esaminali [[Well|bene]].<br>Non uno di questi che non abbia avuto un nobile padre. |
-| [[Helen|HELEN]] | Signori,<br>il cielo per mio mezzo ha restituito il [[King|Re]] alla salute. |
-| *(didascalia)* | TUTTI TRANNE [[Helen|HELEN]]] |
-| [[Helen|HELEN]] | Lo comprendiamo, e ringraziamo il cielo per voi. |
-| [[Helen|HELEN]] | Sono una semplice fanciulla, e in ciò più ricca,<br>che protesto d’essere semplicemente fanciulla.—<br>Piaccia a vostra maestà, ho già finito.<br>I rossori nelle mie guance così mi sussurrano:<br>«Arrossiamo che tu debba scegliere; ma, se sei rifiutata,<br>segga per sempre sulla tua guancia la bianca [[Death|morte]],<br>noi non torneremo più là.» |
-| [[King|RE]] | Fa’ la scelta e vedi.<br>Chi fugge il tuo [[Love|amore]] fugge tutto il suo [[Love|amore]] in me. |
-| [[Helen|HELEN]] | (alzandosi)<br>Ora, Diana, dal tuo altare io fuggo,<br>e all’imperiale [[Love|Amore]], quel dio altissimo,<br>fluiscono i miei sospiri. |
+| [[King\|RE]] | ([[To Helen\|a Elena]]) Esaminali [[Well\|bene]].<br>Non uno di questi che non abbia avuto un nobile padre. |
+| [[Helen\|HELEN]] | Signori,<br>il cielo per mio mezzo ha restituito il [[King\|Re]] alla salute. |
+| *(didascalia)* | TUTTI TRANNE [[Helen\|HELEN]]] |
+| [[Helen\|HELEN]] | Lo comprendiamo, e ringraziamo il cielo per voi. |
+| [[Helen\|HELEN]] | Sono una semplice fanciulla, e in ciò più ricca,<br>che protesto d’essere semplicemente fanciulla.—<br>Piaccia a vostra maestà, ho già finito.<br>I rossori nelle mie guance così mi sussurrano:<br>«Arrossiamo che tu debba scegliere; ma, se sei rifiutata,<br>segga per sempre sulla tua guancia la bianca [[Death\|morte]],<br>noi non torneremo più là.» |
+| [[King\|RE]] | Fa’ la scelta e vedi.<br>Chi fugge il tuo [[Love\|amore]] fugge tutto il suo [[Love\|amore]] in me. |
+| [[Helen\|HELEN]] | (alzandosi)<br>Ora, Diana, dal tuo altare io fuggo,<br>e all’imperiale [[Love\|Amore]], quel dio altissimo,<br>fluiscono i miei sospiri. |
 | *(didascalia)* | Ella si rivolge a un Signore] |
-| [[Helen|HELEN]] | Signore, volete udire la mia domanda? |
+| [[Helen\|HELEN]] | Signore, volete udire la mia domanda? |
 | PRIMO SIGNORE | E accordarla. |
-| [[Helen|HELEN]] | Grazie, signore. Tutto il resto è muto. |
+| [[Helen\|HELEN]] | Grazie, signore. Tutto il resto è muto. |
 | LAFEU | (a parte) Preferirei essere in questa scelta che gettare doppio asso per la mia vita. |
-| [[Helen|HELEN]] | (a un altro Signore)<br>L’[[Honour|onore]], signore, che fiammeggia nei vostri begli occhi,<br>prima ch’io parli, risponde troppo minaccioso.<br>[[Love|Amore]] renda le vostre fortune venti volte sopra<br>colei che così v’augura, e il suo umile [[Love|amore]]. |
+| [[Helen\|HELEN]] | (a un altro Signore)<br>L’[[Honour\|onore]], signore, che fiammeggia nei vostri begli occhi,<br>prima ch’io parli, risponde troppo minaccioso.<br>[[Love\|Amore]] renda le vostre fortune venti volte sopra<br>colei che così v’augura, e il suo umile [[Love\|amore]]. |
 | SECONDO SIGNORE | Non miglior sorte, se vi piace. |
-| [[Helen|HELEN]] | Ricevete il mio augurio,<br>che il grande [[Love|Amore]] l’accordi. E così prendo congedo. |
+| [[Helen\|HELEN]] | Ricevete il mio augurio,<br>che il grande [[Love\|Amore]] l’accordi. E così prendo congedo. |
 | LAFEU | (a parte) La rifiutano tutti? Se fossero figli miei li farei frustare, o li manderei al Turco perché ne facesse eunuchi. |
-| [[Helen|HELEN]] | (a un altro Signore)<br>Non temete ch’io prenda la vostra mano;<br>non vi farò mai torto, per il vostro bene.<br>Benedizione sui vostri voti, e nel vostro letto<br>trovate più bella fortuna, se mai vi sposate. |
+| [[Helen\|HELEN]] | (a un altro Signore)<br>Non temete ch’io prenda la vostra mano;<br>non vi farò mai torto, per il vostro bene.<br>Benedizione sui vostri voti, e nel vostro letto<br>trovate più bella fortuna, se mai vi sposate. |
 | LAFEU | (a parte) Questi ragazzi sono ragazzi di ghiaccio, nessuno la vuole. Certo sono bastardi degli Inglesi, i Francesi non li han generati. |
-| [[Helen|HELEN]] | (a un altro Signore)<br>Siete troppo giovane, troppo felice e troppo buono<br>per farvi un figlio dal mio [[Blood|sangue]]. |
+| [[Helen\|HELEN]] | (a un altro Signore)<br>Siete troppo giovane, troppo felice e troppo buono<br>per farvi un figlio dal mio [[Blood\|sangue]]. |
 | QUARTO SIGNORE | Bella, non credo così. |
 | LAFEU | (a parte) Ecco ancora un acino. Son certo che tuo padre bevve vino, ma se tu non sei un asino io sono un giovinetto di quattordici anni. Ti conosco già. |
-| [[Helen|HELEN]] | (a [[Bertram]])<br>Non oso dire che vi prendo, ma dono<br>me stessa e il mio servizio, sempre finché vivo,<br>al vostro potere di guida.—Questo è l’uomo. |
-| [[King|RE]] | Ebbene allora, giovane [[Bertram]], prendila, è tua moglie. |
-| [[Bertram|BERTRAM]] | Mia moglie, mio sovrano? Supplicherò vostra altezza,<br>in un tale affare, di concedermi d’usare<br>l’aiuto dei miei propri occhi. |
-| [[King|RE]] | Non sai, [[Bertram]],<br>ciò che ha fatto per me? |
-| [[Bertram|BERTRAM]] | Sì, mio buon signore,<br>ma non [[Hope|spero]] mai di sapere perché dovrei sposarla. |
-| [[King|RE]] | Sai che m’ha rialzato dal mio letto d’infermo. |
-| [[Bertram|BERTRAM]] | Ma segue, mio signore, che l’abbassarmi<br>debba rispondere del vostro rialzarvi? La conosco [[Well|bene]]:<br>fu allevata a spese di mio padre.<br>La figlia d’un povero medico, mia moglie? Piuttosto<br>mi corrompa il disdegno per sempre. |
-| [[King|RE]] | È solo il titolo che disdegni in lei, il quale<br>io posso edificare. Strano è che i nostri sangui,<br>di colore, peso e calore, versati tutti insieme,<br>confonderebbero del tutto ogni distinzione, e pure stanno separati<br>in differenze così potenti. Se ella è<br>tutto ciò che è virtuoso, salvo ciò che tu disdegni—<br>«la figlia d’un povero medico»—tu disdegni<br>la virtù per il nome. Ma non far così.<br>Quando da luogo più basso procedono cose virtuose,<br>il luogo è nobilitato dall’atto di chi lo compie.<br>Dove grandi aggiunte gonfiano, e virtù nessuna,<br>è un [[Honour|onore]] idropico. Il bene [[Alone|solo]]<br>è bene senza nome, e così la viltà:<br>la proprietà deve valere per ciò che è,<br>non per il titolo. Ella è giovane, saggia, bella.<br>In queste cose è erede immediata della [[Nature|natura]],<br>e queste generano [[Honour|onore]]. È scherno dell’[[Honour|onore]]<br>ciò che si pretende nato dall’[[Honour|onore]]<br>e non somiglia al padre; gli onori prosperano<br>quando piuttosto dai nostri atti li deriviamo<br>che dai nostri antenati. La mera parola è schiava,<br>prostituita su ogni tomba, su ogni [[Grave|sepolcro]]<br>un trofeo mendace, e altrettanto spesso è muta<br>dove [[Dust|polvere]] e dannato oblio sono la tomba<br>d’ossa veramente onorate. Che si dovrebbe dire?<br>Se tu puoi gradire questa creatura come fanciulla,<br>io posso creare il resto. La virtù ed ella<br>sono la sua propria dote; [[Honour|onore]] e ricchezza da me. |
-| [[Bertram|BERTRAM]] | Non posso [[Love|amarla]], né mi sforzerò di farlo. |
-| [[King|RE]] | Fai torto a te stesso. Se ti sforzassi di scegliere— |
-| [[Helen|HELEN]] | Che voi siate [[Well|bene]] risanato, mio signore, me ne rallegro.<br>Lasciate andare il resto. |
-| [[King|RE]] | Il mio [[Honour|onore]] è in gioco, e per non perderlo<br>devo produrre il mio potere. Qua, prendile la mano,<br>ragazzo superbo e sdegnoso, indegno di questo buon dono,<br>tu che in vile misconoscimento incateni<br>il mio [[Love|amore]] e il suo [[Desert|merito]]; tu che non puoi sognare<br>che noi, ponendoci sul suo piatto difettoso,<br>ti solleveremo fino alla stanga; tu che non vuoi sapere<br>ch’è in noi piantare il tuo [[Honour|onore]] dove<br>ci piaccia farlo crescere. Frena il tuo disprezzo;<br>obbedisci alla nostra volontà, che s’adopera per il tuo bene;<br>non credere al tuo disdegno, ma subito<br>rendi alla tua stessa fortuna quel diritto obbediente<br>che il tuo dovere deve e il nostro potere reclama,<br>o ti scaccerò per sempre dalla mia cura<br>nel barcollamento e nella noncurante caduta<br>di gioventù e ignoranza, sciogliendo la mia [[Revenge|vendetta]] e il mio odio<br>su di te in nome della giustizia<br>senza alcun termine di pietà. Parla. La tua risposta.<br>[[Bertram|BERTRAM]]) (inginocchiandosi)<br>Perdono, mio grazioso signore, poiché sottometto<br>la mia inclinazione ai vostri occhi. Quando considero<br>quale grande creazione e quale distribuzione d’[[Honour|onore]]<br>volano dove voi comandate, trovo che colei che poc’anzi<br>era nei miei più nobili pensieri vilissima, è ora<br>la lodata del [[King|Re]]; la quale, così nobilitata,<br>è come se fosse nata tale. |
-| [[King|RE]] | Prendila per la mano<br>e dille che è tua; a lei prometto<br>un contrappeso, se non pari al tuo stato<br>una bilancia più ricolma. |
-| [[Bertram|BERTRAM]] | (alzandosi)<br>Prendo la sua mano. |
-| [[King|RE]] | Buona fortuna e il favore del [[King|Re]]<br>sorridano a questo contratto, la cui cerimonia<br>sarà spedita sul breve appena nato,<br>e si compirà questa notte. Il solenne banchetto<br>attenderà lo spazio a venire,<br>aspettando gli amici assenti. Se tu l’ami,<br>il tuo [[Love|amore]] verso me è religioso; altrimenti, erra. |
+| [[Helen\|HELEN]] | (a [[Bertram]])<br>Non oso dire che vi prendo, ma dono<br>me stessa e il mio servizio, sempre finché vivo,<br>al vostro potere di guida.—Questo è l’uomo. |
+| [[King\|RE]] | Ebbene allora, giovane [[Bertram]], prendila, è tua moglie. |
+| [[Bertram\|BERTRAM]] | Mia moglie, mio sovrano? Supplicherò vostra altezza,<br>in un tale affare, di concedermi d’usare<br>l’aiuto dei miei propri occhi. |
+| [[King\|RE]] | Non sai, [[Bertram]],<br>ciò che ha fatto per me? |
+| [[Bertram\|BERTRAM]] | Sì, mio buon signore,<br>ma non [[Hope\|spero]] mai di sapere perché dovrei sposarla. |
+| [[King\|RE]] | Sai che m’ha rialzato dal mio letto d’infermo. |
+| [[Bertram\|BERTRAM]] | Ma segue, mio signore, che l’abbassarmi<br>debba rispondere del vostro rialzarvi? La conosco [[Well\|bene]]:<br>fu allevata a spese di mio padre.<br>La figlia d’un povero medico, mia moglie? Piuttosto<br>mi corrompa il disdegno per sempre. |
+| [[King\|RE]] | È solo il titolo che disdegni in lei, il quale<br>io posso edificare. Strano è che i nostri sangui,<br>di colore, peso e calore, versati tutti insieme,<br>confonderebbero del tutto ogni distinzione, e pure stanno separati<br>in differenze così potenti. Se ella è<br>tutto ciò che è virtuoso, salvo ciò che tu disdegni—<br>«la figlia d’un povero medico»—tu disdegni<br>la virtù per il nome. Ma non far così.<br>Quando da luogo più basso procedono cose virtuose,<br>il luogo è nobilitato dall’atto di chi lo compie.<br>Dove grandi aggiunte gonfiano, e virtù nessuna,<br>è un [[Honour\|onore]] idropico. Il bene [[Alone\|solo]]<br>è bene senza nome, e così la viltà:<br>la proprietà deve valere per ciò che è,<br>non per il titolo. Ella è giovane, saggia, bella.<br>In queste cose è erede immediata della [[Nature\|natura]],<br>e queste generano [[Honour\|onore]]. È scherno dell’[[Honour\|onore]]<br>ciò che si pretende nato dall’[[Honour\|onore]]<br>e non somiglia al padre; gli onori prosperano<br>quando piuttosto dai nostri atti li deriviamo<br>che dai nostri antenati. La mera parola è schiava,<br>prostituita su ogni tomba, su ogni [[Grave\|sepolcro]]<br>un trofeo mendace, e altrettanto spesso è muta<br>dove [[Dust\|polvere]] e dannato oblio sono la tomba<br>d’ossa veramente onorate. Che si dovrebbe dire?<br>Se tu puoi gradire questa creatura come fanciulla,<br>io posso creare il resto. La virtù ed ella<br>sono la sua propria dote; [[Honour\|onore]] e ricchezza da me. |
+| [[Bertram\|BERTRAM]] | Non posso [[Love\|amarla]], né mi sforzerò di farlo. |
+| [[King\|RE]] | Fai torto a te stesso. Se ti sforzassi di scegliere— |
+| [[Helen\|HELEN]] | Che voi siate [[Well\|bene]] risanato, mio signore, me ne rallegro.<br>Lasciate andare il resto. |
+| [[King\|RE]] | Il mio [[Honour\|onore]] è in gioco, e per non perderlo<br>devo produrre il mio potere. Qua, prendile la mano,<br>ragazzo superbo e sdegnoso, indegno di questo buon dono,<br>tu che in vile misconoscimento incateni<br>il mio [[Love\|amore]] e il suo [[Desert\|merito]]; tu che non puoi sognare<br>che noi, ponendoci sul suo piatto difettoso,<br>ti solleveremo fino alla stanga; tu che non vuoi sapere<br>ch’è in noi piantare il tuo [[Honour\|onore]] dove<br>ci piaccia farlo crescere. Frena il tuo disprezzo;<br>obbedisci alla nostra volontà, che s’adopera per il tuo bene;<br>non credere al tuo disdegno, ma subito<br>rendi alla tua stessa fortuna quel diritto obbediente<br>che il tuo dovere deve e il nostro potere reclama,<br>o ti scaccerò per sempre dalla mia cura<br>nel barcollamento e nella noncurante caduta<br>di gioventù e ignoranza, sciogliendo la mia [[Revenge\|vendetta]] e il mio odio<br>su di te in nome della giustizia<br>senza alcun termine di pietà. Parla. La tua risposta.<br>[[Bertram\|BERTRAM]]) (inginocchiandosi)<br>Perdono, mio grazioso signore, poiché sottometto<br>la mia inclinazione ai vostri occhi. Quando considero<br>quale grande creazione e quale distribuzione d’[[Honour\|onore]]<br>volano dove voi comandate, trovo che colei che poc’anzi<br>era nei miei più nobili pensieri vilissima, è ora<br>la lodata del [[King\|Re]]; la quale, così nobilitata,<br>è come se fosse nata tale. |
+| [[King\|RE]] | Prendila per la mano<br>e dille che è tua; a lei prometto<br>un contrappeso, se non pari al tuo stato<br>una bilancia più ricolma. |
+| [[Bertram\|BERTRAM]] | (alzandosi)<br>Prendo la sua mano. |
+| [[King\|RE]] | Buona fortuna e il favore del [[King\|Re]]<br>sorridano a questo contratto, la cui cerimonia<br>sarà spedita sul breve appena nato,<br>e si compirà questa notte. Il solenne banchetto<br>attenderà lo spazio a venire,<br>aspettando gli amici assenti. Se tu l’ami,<br>il tuo [[Love\|amore]] verso me è religioso; altrimenti, erra. |
 | *(didascalia)* | Squilli di trombe. Escono tutti tranne Paroles e Lafeu, che restano indietro a commentare queste nozze |
 | LAFEU | Sentite, monsieur? Una parola con voi. PAROLES A vostro piacere, signore. |
-| LAFEU | Il vostro signore e padrone ha fatto [[Well|bene]] a ritrattare. |
+| LAFEU | Il vostro signore e padrone ha fatto [[Well\|bene]] a ritrattare. |
 | PAROLES | Ritrattazione? Il mio signore? Il mio padrone? |
 | LAFEU | Sì. Non è una lingua quella che parlo? |
 | PAROLES | Assai aspra, e da non intendersi senza sanguinoso seguito. Il mio padrone? |
@@ -2014,40 +2014,40 @@ All’s [[Well]] That Ends [[Well]]
 | LAFEU | Di ciò che è l’uomo del conte; il padrone del conte è d’altro stile. |
 | PAROLES | Siete troppo vecchio, signore. Vi basti questo: siete troppo vecchio. |
 | LAFEU | Devo dirti, messere, che io mi firmo «Uomo», titolo al quale l’età non può portarti. |
-| PAROLES | Ciò che oso troppo [[Well|bene]], non oso farlo. |
+| PAROLES | Ciò che oso troppo [[Well\|bene]], non oso farlo. |
 | LAFEU | Ti credetti, per due pasti, un tipo abbastanza saggio. Facesti tollerabile sfoggio dei tuoi viaggi; poteva passare. Pure le sciarpe e le bandierine addosso a te mi dissuasero in molti modi dal crederti un vascello di troppo gran portata. Ora t’ho scoperto; quando ti perderò di nuovo non m’importerà. Pure non sei buono a nulla se non a esser raccolto, e a quello vali appena. |
 | PAROLES | Se non avessi su di te il privilegio dell’antichità— |
-| LAFEU | Non t’immergere troppo nell’ira, per non affrettare la tua prova, la quale se—il Signore abbia [[Mercy|misericordia]] di te, gallina che sei! Così, mia buona [[Window|finestra]] a graticcio, statti [[Well|bene]]. Non ho bisogno d’aprire la tua imposta, perché guardo attraverso di te. Dammi la mano. 216 |
+| LAFEU | Non t’immergere troppo nell’ira, per non affrettare la tua prova, la quale se—il Signore abbia [[Mercy\|misericordia]] di te, gallina che sei! Così, mia buona [[Window\|finestra]] a graticcio, statti [[Well\|bene]]. Non ho bisogno d’aprire la tua imposta, perché guardo attraverso di te. Dammi la mano. 216 |
 | PAROLES | Mio signore, mi date un’indegnità egregissima. |
 | LAFEU | Sì, con tutto il cuore, e ne sei degno. PAROLES Non l’ho meritata, mio signore. |
-| LAFEU | Sì, in buona [[Faith|fede]], ogni dramma, e non ti scalerò uno scrupolo. |
-| PAROLES | [[Well|Bene]], sarò più saggio. |
-| LAFEU | Il più presto che puoi, perché hai da tirare una bella sorsata del contrario. Se mai sarai legato con la tua sciarpa e battuto, scoprirai che cos’è essere orgoglioso della propria schiavitù. Ho [[Desire|desiderio]] di mantenere la mia conoscenza con te, o piuttosto la mia notizia di te, perché possa dire, in mancanza d’altro: «È un uomo che conosco». |
+| LAFEU | Sì, in buona [[Faith\|fede]], ogni dramma, e non ti scalerò uno scrupolo. |
+| PAROLES | [[Well\|Bene]], sarò più saggio. |
+| LAFEU | Il più presto che puoi, perché hai da tirare una bella sorsata del contrario. Se mai sarai legato con la tua sciarpa e battuto, scoprirai che cos’è essere orgoglioso della propria schiavitù. Ho [[Desire\|desiderio]] di mantenere la mia conoscenza con te, o piuttosto la mia notizia di te, perché possa dire, in mancanza d’altro: «È un uomo che conosco». |
 | PAROLES | Mio signore, mi fate una vessazione insopportabilissima. |
 | LAFEU | Vorrei che fossero pene infernali, per il tuo bene, e il mio povero operare eterno; perché quanto all’operare, sono ormai passato, come passerò accanto a te, con quel moto che l’età mi concederà. Esce |
-| PAROLES | [[Well|Bene]], hai un figlio che mi toglierà questo disonore. Vile, vecchio, sporco, vile signore. [[Well|Bene]], devo esser paziente. Non si può incatenare l’autorità. Lo batterò, per la mia vita, se posso incontrarlo con qualche comodità, fosse pure [[Double|due]] e [[Double|due]] volte signore. Non avrò più pietà della sua età di quanta ne avrei di—lo batterò, se solo potessi incontrarlo di nuovo. |
+| PAROLES | [[Well\|Bene]], hai un figlio che mi toglierà questo disonore. Vile, vecchio, sporco, vile signore. [[Well\|Bene]], devo esser paziente. Non si può incatenare l’autorità. Lo batterò, per la mia vita, se posso incontrarlo con qualche comodità, fosse pure [[Double\|due]] e [[Double\|due]] volte signore. Non avrò più pietà della sua età di quanta ne avrei di—lo batterò, se solo potessi incontrarlo di nuovo. |
 | *(didascalia)* | Entra Lafeu |
 | LAFEU | Messere, il vostro signore e padrone è sposato. Ecco notizie per voi: avete una nuova padrona. |
 | PAROLES | Supplico senza infingimenti vostra signoria di fare qualche riserva delle vostre offese. Egli è il mio buon signore; colui che servo là sopra è il mio padrone. |
 | LAFEU | Chi? Dio? |
 | PAROLES | Sì, signore. |
-| LAFEU | È il diavolo il tuo padrone. Perché ti leghi le braccia a quel modo? Fai calze delle tue maniche? Fanno così gli altri servi? Faresti meglio a metter la parte bassa dove sta il tuo naso. Per il mio [[Honour|onore]], se fossi solo di due ore più giovane ti batterei. Mi sembra che tu sia un’offesa generale, e che ogni uomo dovrebbe batterti. Credo che tu sia stato creato perché gli uomini si sfoghino su di te. |
+| LAFEU | È il diavolo il tuo padrone. Perché ti leghi le braccia a quel modo? Fai calze delle tue maniche? Fanno così gli altri servi? Faresti meglio a metter la parte bassa dove sta il tuo naso. Per il mio [[Honour\|onore]], se fossi solo di due ore più giovane ti batterei. Mi sembra che tu sia un’offesa generale, e che ogni uomo dovrebbe batterti. Credo che tu sia stato creato perché gli uomini si sfoghino su di te. |
 | PAROLES | Questa è misura dura e immeritata, mio signore. |
-| LAFEU | Andiamo, signore. Fosti battuto in [[Italy|Italia]] per aver rubato un granello da una melagrana; sei un vagabondo e non un vero viaggiatore; sei più insolente coi signori e con le persone onorevoli di quanto la patente della tua nascita e della tua virtù ti dia diritto d’araldica. Non vali un’altra parola, altrimenti ti chiamerei furfante. Ti lascio. |
+| LAFEU | Andiamo, signore. Fosti battuto in [[Italy\|Italia]] per aver rubato un granello da una melagrana; sei un vagabondo e non un vero viaggiatore; sei più insolente coi signori e con le persone onorevoli di quanto la patente della tua nascita e della tua virtù ti dia diritto d’araldica. Non vali un’altra parola, altrimenti ti chiamerei furfante. Ti lascio. |
 | *(didascalia)* | Esce |
 | PAROLES | Bene, benissimo, sta così dunque. Bene, benissimo, si tenga celato per un poco.<br>[Entra [[Bertram]]] |
-| [[Bertram|BERTRAM]] | Perduto e consegnato per sempre agli affanni. |
+| [[Bertram\|BERTRAM]] | Perduto e consegnato per sempre agli affanni. |
 | PAROLES | Che c’è, cuor mio? |
-| [[Bertram|BERTRAM]] | Sebbene davanti al solenne sacerdote abbia giurato,<br>non la porterò a letto. |
+| [[Bertram\|BERTRAM]] | Sebbene davanti al solenne sacerdote abbia giurato,<br>non la porterò a letto. |
 | PAROLES | Che, che, cuor mio? |
-| [[Bertram|BERTRAM]] | Oh mio Paroles, m’hanno ammogliato.<br>Andrò alle guerre toscane e non la porterò mai a letto. |
+| [[Bertram\|BERTRAM]] | Oh mio Paroles, m’hanno ammogliato.<br>Andrò alle guerre toscane e non la porterò mai a letto. |
 | PAROLES | La Francia è un canile, e non merita più<br>il calpestio d’un piede d’uomo. Alle guerre! |
-| [[Bertram|BERTRAM]] | Ci sono lettere di mia madre. Che cosa contengano<br>non so ancora. |
-| PAROLES | Sì, questo si vorrebbe sapere. Alle guerre, ragazzo mio, alle<br>guerre! 275<br>Porta il suo [[Honour|onore]] in una scatola, invisibile,<br>chi qui a [[Home|casa]] abbraccia la sua cocca,<br>spendendo il suo virile midollo nelle braccia di lei,<br>che dovrebbero sostenere il balzo e l’alta corvetta<br>dell’igneo destriero di Marte. Ad altre regioni!<br>La Francia è una stalla, e noi che vi abitiamo ronzini.<br>Perciò alla guerra. |
-| [[Bertram|BERTRAM]] | Sarà così. La manderò alla mia [[house|casa]],<br>informerò mia madre del mio odio per lei,<br>e del perché sono fuggito; scriverò al [[King|Re]]<br>ciò che non osai dire. Il suo dono presente<br>mi fornirà per quei campi italiani<br>dove colpiscono nobili compagni. La guerra non è contesa<br>rispetto alla [[house|casa]] tenebrosa e alla moglie detestata. |
+| [[Bertram\|BERTRAM]] | Ci sono lettere di mia madre. Che cosa contengano<br>non so ancora. |
+| PAROLES | Sì, questo si vorrebbe sapere. Alle guerre, ragazzo mio, alle<br>guerre! 275<br>Porta il suo [[Honour\|onore]] in una scatola, invisibile,<br>chi qui a [[Home\|casa]] abbraccia la sua cocca,<br>spendendo il suo virile midollo nelle braccia di lei,<br>che dovrebbero sostenere il balzo e l’alta corvetta<br>dell’igneo destriero di Marte. Ad altre regioni!<br>La Francia è una stalla, e noi che vi abitiamo ronzini.<br>Perciò alla guerra. |
+| [[Bertram\|BERTRAM]] | Sarà così. La manderò alla mia [[house\|casa]],<br>informerò mia madre del mio odio per lei,<br>e del perché sono fuggito; scriverò al [[King\|Re]]<br>ciò che non osai dire. Il suo dono presente<br>mi fornirà per quei campi italiani<br>dove colpiscono nobili compagni. La guerra non è contesa<br>rispetto alla [[house\|casa]] tenebrosa e alla moglie detestata. |
 | PAROLES | Terrà in te questo capriccio? Sei sicuro? |
-| [[Bertram|BERTRAM]] | Vieni con me nella mia camera e consigliami.<br>La manderò via subito. Domani<br>io alle guerre, lei al suo solitario dolore. |
-| PAROLES | Ecco, queste palle rimbalzano, c’è del fracasso. È duro:<br>un giovane ammogliato è un uomo guastato.<br>Perciò via, e lasciala bravamente. Va’.<br>Il [[King|Re]] t’ha fatto torto, ma zitto, sta così. |
+| [[Bertram\|BERTRAM]] | Vieni con me nella mia camera e consigliami.<br>La manderò via subito. Domani<br>io alle guerre, lei al suo solitario dolore. |
+| PAROLES | Ecco, queste palle rimbalzano, c’è del fracasso. È duro:<br>un giovane ammogliato è un uomo guastato.<br>Perciò via, e lasciala bravamente. Va’.<br>Il [[King\|Re]] t’ha fatto torto, ma zitto, sta così. |
 | *(didascalia)* | Escono |
 
 
@@ -2093,35 +2093,35 @@ All’s [[Well]] That Ends [[Well]]
 
 | Chi parla | Battuta |
 |---|---|
-| *(didascalia)* | Entrano [[Helen|Elena]] leggendo una lettera, e Lavatch il buffone |
-| [[Helen|HELEN]] | Mia madre mi saluta con affetto. Sta [[Well|bene]]? |
-| LAVATCH | Non sta [[Well|bene]], eppure ha la sua salute. È molto allegra, eppure non sta [[Well|bene]]. Ma grazie al cielo sta molto [[Well|bene]] e non le manca nulla al mondo. Eppure non sta [[Well|bene]]. |
-| [[Helen|HELEN]] | Se sta molto [[Well|bene]], di che soffre<br>da non stare molto [[Well|bene]]? |
-| LAVATCH | In verità sta proprio molto [[Well|bene]], se non per due cose. [[Helen|HELEN]] Quali due cose? |
+| *(didascalia)* | Entrano [[Helen\|Elena]] leggendo una lettera, e Lavatch il buffone |
+| [[Helen\|HELEN]] | Mia madre mi saluta con affetto. Sta [[Well\|bene]]? |
+| LAVATCH | Non sta [[Well\|bene]], eppure ha la sua salute. È molto allegra, eppure non sta [[Well\|bene]]. Ma grazie al cielo sta molto [[Well\|bene]] e non le manca nulla al mondo. Eppure non sta [[Well\|bene]]. |
+| [[Helen\|HELEN]] | Se sta molto [[Well\|bene]], di che soffre<br>da non stare molto [[Well\|bene]]? |
+| LAVATCH | In verità sta proprio molto [[Well\|bene]], se non per due cose. [[Helen\|HELEN]] Quali due cose? |
 | LAVATCH | Una, che non è in cielo, dove Dio la mandi presto. L’altra, che è in terra, da dove Dio la mandi via presto. |
 | *(didascalia)* | Entra Paroles |
 | PAROLES | Dio vi benedica, mia fortunata signora. |
-| [[Helen|HELEN]] | [[Hope|Spero]], signore, d’avere il vostro buon volere per avere<br>le mie proprie buone fortune. 15 |
+| [[Helen\|HELEN]] | [[Hope\|Spero]], signore, d’avere il vostro buon volere per avere<br>le mie proprie buone fortune. 15 |
 | PAROLES | Avete avuto le mie preghiere per condurle avanti, e per mantenerle tenetele stitt.—Oh mio furfante, come sta la mia vecchia signora? |
 | LAVATCH | Purché voi aveste le sue rughe e io il suo denaro, vorrei che stesse come dite. |
 | PAROLES | Ma io non dico nulla. |
 | LAVATCH | Davvero, siete l’uomo più saggio, perché la lingua di molti uomini scuote fuori la rovina del padrone. Non dir nulla, non far nulla, non saper nulla e non aver nulla, è una gran parte del vostro titolo, che è a un pelo dal nulla. |
 | PAROLES | Via, sei un furfante. |
-| LAVATCH | Avreste dovuto dire, signore: «Davanti a un furfante, sei un furfante»—cioè «davanti a me, sei un furfante». Questa sarebbe stata [[Truth|verità]], signore. |
-| PAROLES | Andiamo, sei un [[Fool|buffone]] spiritoso. T’ho scoperto. |
+| LAVATCH | Avreste dovuto dire, signore: «Davanti a un furfante, sei un furfante»—cioè «davanti a me, sei un furfante». Questa sarebbe stata [[Truth\|verità]], signore. |
+| PAROLES | Andiamo, sei un [[Fool\|buffone]] spiritoso. T’ho scoperto. |
 | LAVATCH | M’avete scoperto in voi stesso, signore, o vi fu insegnato a scoprirmi? |
 | *(didascalia)* | PAROLES In me stesso, furfante. |
-| LAVATCH | La ricerca, signore, fu profittevole, e molta [[Fool|follia]] possiate trovare in voi, a piacere del mondo e ad accrescimento del riso. |
-| PAROLES | ([[To Helen|a Elena]]) Un buon furfante, in [[Faith|fede]] mia, e [[Well|bene]] nutrito.<br>Signora, il mio signore partirà questa notte.<br>Un affare molto serio lo chiama.<br>La grande prerogativa e il rito d’[[Love|amore]],<br>che il [[Time|tempo]] reclama come vostro dovuto, egli lo riconosce,<br>ma lo rinvia a una costretta astinenza:<br>la cui privazione e il cui indugio sono sparsi di dolcezze,<br>che ora essi distillano nel [[Time|tempo]] frenato,<br>per far che l’ora futura sovrabbondi di gioia,<br>e il piacere ne affoghi l’orlo. |
-| [[Helen|HELEN]] | Qual è ancora il suo volere? |
-| PAROLES | Che voi prendiate subito congedo dal [[King|Re]],<br>e facciate apparire questa fretta come vostra buona iniziativa,<br>rafforzata da quella scusa che crediate<br>possa renderla necessità plausibile. |
-| [[Helen|HELEN]] | Che altro comanda? |
+| LAVATCH | La ricerca, signore, fu profittevole, e molta [[Fool\|follia]] possiate trovare in voi, a piacere del mondo e ad accrescimento del riso. |
+| PAROLES | ([[To Helen\|a Elena]]) Un buon furfante, in [[Faith\|fede]] mia, e [[Well\|bene]] nutrito.<br>Signora, il mio signore partirà questa notte.<br>Un affare molto serio lo chiama.<br>La grande prerogativa e il rito d’[[Love\|amore]],<br>che il [[Time\|tempo]] reclama come vostro dovuto, egli lo riconosce,<br>ma lo rinvia a una costretta astinenza:<br>la cui privazione e il cui indugio sono sparsi di dolcezze,<br>che ora essi distillano nel [[Time\|tempo]] frenato,<br>per far che l’ora futura sovrabbondi di gioia,<br>e il piacere ne affoghi l’orlo. |
+| [[Helen\|HELEN]] | Qual è ancora il suo volere? |
+| PAROLES | Che voi prendiate subito congedo dal [[King\|Re]],<br>e facciate apparire questa fretta come vostra buona iniziativa,<br>rafforzata da quella scusa che crediate<br>possa renderla necessità plausibile. |
+| [[Helen\|HELEN]] | Che altro comanda? |
 | PAROLES | Che, ottenuto questo, voi subito<br>attendiate il suo ulteriore piacere. |
-| [[Helen|HELEN]] | In ogni cosa<br>mi rimetto al suo volere. |
+| [[Helen\|HELEN]] | In ogni cosa<br>mi rimetto al suo volere. |
 | PAROLES | Così riferirò. |
-| [[Helen|HELEN]] | Ve ne prego. |
+| [[Helen\|HELEN]] | Ve ne prego. |
 | *(didascalia)* | Esce Paroles da una porta] |
-| [[Helen|HELEN]] | Vieni, messere. |
+| [[Helen\|HELEN]] | Vieni, messere. |
 | *(didascalia)* | Escono F da un’altra porta] |
 
 
@@ -2179,44 +2179,44 @@ All’s [[Well]] That Ends [[Well]]
 | Chi parla | Battuta |
 |---|---|
 | *(didascalia)* | Entrano Lafeu e [[Bertram]] |
-| LAFEU | Ma [[Hope|spero]] che vostra signoria non lo tenga per un soldato.<br>[[Bertram|BERTRAM]]) Sì, mio signore, e di prova valorosissima. |
+| LAFEU | Ma [[Hope\|spero]] che vostra signoria non lo tenga per un soldato.<br>[[Bertram\|BERTRAM]]) Sì, mio signore, e di prova valorosissima. |
 | LAFEU | L’avete dalla sua propria dichiarazione. |
-| [[Bertram|BERTRAM]] | E da altra testimonianza garantita. |
+| [[Bertram\|BERTRAM]] | E da altra testimonianza garantita. |
 | LAFEU | Allora il mio quadrante non va giusto. Presi quest’allodola per uno zigolo. |
-| [[Bertram|BERTRAM]] | V’assicuro, mio signore, ch’egli è grandissimo nel sapere, e valoroso in proporzione. |
+| [[Bertram\|BERTRAM]] | V’assicuro, mio signore, ch’egli è grandissimo nel sapere, e valoroso in proporzione. |
 | LAFEU | Ho dunque peccato contro la sua esperienza e trasgredito contro il suo valore—e il mio stato per questa via è pericoloso, poiché non trovo ancora nel mio cuore di pentirmene. Eccolo che viene. Vi prego, fateci amici. Coltiverò l’amicizia. |
 | *(didascalia)* | Entra Paroles |
 | PAROLES | (a [[Bertram]]) Queste cose saranno fatte, signore. |
 | LAFEU | (a [[Bertram]]) Vi prego, signore, chi è il suo sarto? 15 |
 | PAROLES | Signore! |
-| LAFEU | Oh, lo conosco [[Well|bene]]. Sì, «Signore», lui; «Signore» è un buon artigiano, un ottimo sarto.<br>[[Bertram|BERTRAM]]) (a parte a Paroles) È andata dal [[King|Re]]? |
-| PAROLES | Sì.<br>[[Bertram|BERTRAM]]) Partirà questa notte? |
+| LAFEU | Oh, lo conosco [[Well\|bene]]. Sì, «Signore», lui; «Signore» è un buon artigiano, un ottimo sarto.<br>[[Bertram\|BERTRAM]]) (a parte a Paroles) È andata dal [[King\|Re]]? |
+| PAROLES | Sì.<br>[[Bertram\|BERTRAM]]) Partirà questa notte? |
 | PAROLES | Come volete voi. |
-| [[Bertram|BERTRAM]] | Ho scritto le mie lettere, riposto in cassa il mio tesoro,<br>dato ordine per i nostri cavalli, e stanotte,<br>quando dovrei prender possesso della sposa,<br>finirò prima di cominciare. |
-| LAFEU | (a parte) Un buon viaggiatore vale qualcosa alla fine d’un pranzo, ma uno che mente per tre terzi e usa una [[Truth|verità]] nota per far passare mille nullità, dovrebbe essere udito una volta e battuto tre. (A Paroles) Dio vi salvi, capitano.<br>[[Bertram|BERTRAM]]) (a Paroles) C’è qualche ruggine fra il mio signore e voi, monsieur? |
+| [[Bertram\|BERTRAM]] | Ho scritto le mie lettere, riposto in cassa il mio tesoro,<br>dato ordine per i nostri cavalli, e stanotte,<br>quando dovrei prender possesso della sposa,<br>finirò prima di cominciare. |
+| LAFEU | (a parte) Un buon viaggiatore vale qualcosa alla fine d’un pranzo, ma uno che mente per tre terzi e usa una [[Truth\|verità]] nota per far passare mille nullità, dovrebbe essere udito una volta e battuto tre. (A Paroles) Dio vi salvi, capitano.<br>[[Bertram\|BERTRAM]]) (a Paroles) C’è qualche ruggine fra il mio signore e voi, monsieur? |
 | PAROLES | Non so come abbia meritato d’incorrere nel dispiacere del mio signore. 35 |
-| LAFEU | Ci siete corso dentro con destrezza, stivali e sproni e tutto, come colui che saltò nel budino, e ne uscirete correndo di nuovo, piuttosto che patire domande sulla vostra dimora.<br>[[Bertram|BERTRAM]]) Può essere che l’abbiate scambiato, mio signore. |
-| LAFEU | E così farò sempre, anche se lo cogliessi in preghiera. Statevi [[Well|bene]], mio signore, e credete questo di me: non può esserci gheriglio in questa noce leggera. L’[[Soul|anima]] di quest’uomo sono i suoi abiti. Non fidatevi di lui in materia di grave conseguenza. Ne ho tenuti di simili addomesticati, e conosco le loro nature.—Addio, monsieur. Ho parlato di voi meglio di quanto abbiate ingegno o volontà di meritare dalla mia mano, ma dobbiamo fare il bene contro il male. |
+| LAFEU | Ci siete corso dentro con destrezza, stivali e sproni e tutto, come colui che saltò nel budino, e ne uscirete correndo di nuovo, piuttosto che patire domande sulla vostra dimora.<br>[[Bertram\|BERTRAM]]) Può essere che l’abbiate scambiato, mio signore. |
+| LAFEU | E così farò sempre, anche se lo cogliessi in preghiera. Statevi [[Well\|bene]], mio signore, e credete questo di me: non può esserci gheriglio in questa noce leggera. L’[[Soul\|anima]] di quest’uomo sono i suoi abiti. Non fidatevi di lui in materia di grave conseguenza. Ne ho tenuti di simili addomesticati, e conosco le loro nature.—Addio, monsieur. Ho parlato di voi meglio di quanto abbiate ingegno o volontà di meritare dalla mia mano, ma dobbiamo fare il bene contro il male. |
 | *(didascalia)* | Esce |
 | PAROLES | Un signore fannullone, lo giuro. |
-| [[Bertram|BERTRAM]] | Non credo. |
+| [[Bertram\|BERTRAM]] | Non credo. |
 | PAROLES | Ma come, non lo conoscete? |
-| [[Bertram|BERTRAM]] | Sì, lo conosco [[Well|bene]], e la voce comune<br>gli dà buona fama. Ecco viene il mio ceppo. |
-| *(didascalia)* | Entra [[Helen|Elena]], con seguito |
-| [[Helen|HELEN]] | Ho, signore, come mi fu comandato da voi,<br>parlato col [[King|Re]], e ottenuto il suo congedo<br>per una partenza immediata; solo egli desidera<br>un colloquio privato con voi.<br>[[Bertram|BERTRAM]])<br>Obbedirò al suo volere.<br>Non devi meravigliarti, [[Helen|Elena]], del mio procedere,<br>che non s’accorda col [[Time|tempo]], né compie<br>il servizio e l’ufficio richiesto<br>nel mio caso particolare. Non ero preparato<br>a un tale affare, perciò mi si trova<br>così sconvolto. Questo mi spinge a pregarti<br>che tu prenda subito la via di [[Home|casa]],<br>e piuttosto rimugini che chieda perché ti prego,<br>poiché le mie ragioni son migliori di quanto sembrino,<br>e i miei impegni hanno in sé una necessità<br>maggiore di quanto si mostri a prima vista<br>a te che non li conosci. Questo a mia madre.<br>Le dà una lettera<br>Passeranno due giorni prima ch’io ti riveda, così<br>ti lascio alla tua saggezza. |
-| [[Helen|HELEN]] | Signore, nulla posso dire<br>se non che sono la vostra obbedientissima serva. |
-| [[Bertram|BERTRAM]] | Basta, basta, non più di questo. |
-| [[Helen|HELEN]] | E sempre cercherò<br>con vera osservanza di supplire a ciò<br>in cui verso me le mie umili [[Stars|stelle]] hanno mancato<br>d’uguagliare la mia grande fortuna. |
-| [[Bertram|BERTRAM]] | Lascia andare.<br>La mia fretta è grandissima. Addio. Affrettati a [[Home|casa]]. |
-| [[Helen|HELEN]] | Vi prego, signore, il vostro perdono. |
-| [[Bertram|BERTRAM]] | [[Well|Bene]], che vorreste dire? |
-| [[Helen|HELEN]] | Non son degna della ricchezza che possiedo,<br>né oso dire ch’è mia—e pure lo è—<br>ma come un ladro timoroso volentieri ruberei<br>ciò che la legge attesta esser mio. |
-| [[Bertram|BERTRAM]] | Che vorreste? |
-| [[Helen|HELEN]] | Qualcosa, e a stento tanto: nulla in verità.<br>Non vorrei dirvi ciò che vorrei, mio signore. In [[Faith|fede]],<br>sì:<br>gli estranei e i nemici si separano e non si baciano. |
-| [[Bertram|BERTRAM]] | Vi prego, non v’attardate, ma in fretta a [[Horse|cavallo]]. |
-| [[Helen|HELEN]] | Non trasgredirò il vostro comando, mio buon signore.—<br>Dove sono gli altri miei uomini?—Monsieur, addio. |
-| *(didascalia)* | Escono [[Helen|Elena]] e il seguito da una porta |
-| [[Bertram|BERTRAM]] | Va’ tu verso [[Home|casa]], dove io non verrò mai<br>finché potrò scuotere la mia [[Sword|spada]] o udire il tamburo.—<br>Via, e alla nostra fuga. |
+| [[Bertram\|BERTRAM]] | Sì, lo conosco [[Well\|bene]], e la voce comune<br>gli dà buona fama. Ecco viene il mio ceppo. |
+| *(didascalia)* | Entra [[Helen\|Elena]], con seguito |
+| [[Helen\|HELEN]] | Ho, signore, come mi fu comandato da voi,<br>parlato col [[King\|Re]], e ottenuto il suo congedo<br>per una partenza immediata; solo egli desidera<br>un colloquio privato con voi.<br>[[Bertram\|BERTRAM]])<br>Obbedirò al suo volere.<br>Non devi meravigliarti, [[Helen\|Elena]], del mio procedere,<br>che non s’accorda col [[Time\|tempo]], né compie<br>il servizio e l’ufficio richiesto<br>nel mio caso particolare. Non ero preparato<br>a un tale affare, perciò mi si trova<br>così sconvolto. Questo mi spinge a pregarti<br>che tu prenda subito la via di [[Home\|casa]],<br>e piuttosto rimugini che chieda perché ti prego,<br>poiché le mie ragioni son migliori di quanto sembrino,<br>e i miei impegni hanno in sé una necessità<br>maggiore di quanto si mostri a prima vista<br>a te che non li conosci. Questo a mia madre.<br>Le dà una lettera<br>Passeranno due giorni prima ch’io ti riveda, così<br>ti lascio alla tua saggezza. |
+| [[Helen\|HELEN]] | Signore, nulla posso dire<br>se non che sono la vostra obbedientissima serva. |
+| [[Bertram\|BERTRAM]] | Basta, basta, non più di questo. |
+| [[Helen\|HELEN]] | E sempre cercherò<br>con vera osservanza di supplire a ciò<br>in cui verso me le mie umili [[Stars\|stelle]] hanno mancato<br>d’uguagliare la mia grande fortuna. |
+| [[Bertram\|BERTRAM]] | Lascia andare.<br>La mia fretta è grandissima. Addio. Affrettati a [[Home\|casa]]. |
+| [[Helen\|HELEN]] | Vi prego, signore, il vostro perdono. |
+| [[Bertram\|BERTRAM]] | [[Well\|Bene]], che vorreste dire? |
+| [[Helen\|HELEN]] | Non son degna della ricchezza che possiedo,<br>né oso dire ch’è mia—e pure lo è—<br>ma come un ladro timoroso volentieri ruberei<br>ciò che la legge attesta esser mio. |
+| [[Bertram\|BERTRAM]] | Che vorreste? |
+| [[Helen\|HELEN]] | Qualcosa, e a stento tanto: nulla in verità.<br>Non vorrei dirvi ciò che vorrei, mio signore. In [[Faith\|fede]],<br>sì:<br>gli estranei e i nemici si separano e non si baciano. |
+| [[Bertram\|BERTRAM]] | Vi prego, non v’attardate, ma in fretta a [[Horse\|cavallo]]. |
+| [[Helen\|HELEN]] | Non trasgredirò il vostro comando, mio buon signore.—<br>Dove sono gli altri miei uomini?—Monsieur, addio. |
+| *(didascalia)* | Escono [[Helen\|Elena]] e il seguito da una porta |
+| [[Bertram\|BERTRAM]] | Va’ tu verso [[Home\|casa]], dove io non verrò mai<br>finché potrò scuotere la mia [[Sword\|spada]] o udire il tamburo.—<br>Via, e alla nostra fuga. |
 | PAROLES | Bravamente. Coraggio! |
 | *(didascalia)* | Escono da un’altra porta |
 
@@ -2243,13 +2243,13 @@ All’s [[Well]] That Ends [[Well]]
 | Chi parla | Battuta |
 |---|---|
 | *(didascalia)* | Squillo di trombe. Entrano il Duca di Firenze e i due Signori [[Dumaine]], con una truppa di soldati |
-| DUCA | Così, punto per punto, avete ora udito<br>le ragioni fondamentali di questa guerra,<br>la cui grande decisione ha fatto versare molto [[Blood|sangue]],<br>e ne ha sete di più. |
-| PRIMO SIGNORE [[Dumaine|DUMAINE]] | Santa sembra la contesa<br>da parte di vostra grazia; nera e paurosa<br>da parte dell’avversario. |
+| DUCA | Così, punto per punto, avete ora udito<br>le ragioni fondamentali di questa guerra,<br>la cui grande decisione ha fatto versare molto [[Blood\|sangue]],<br>e ne ha sete di più. |
+| PRIMO SIGNORE [[Dumaine\|DUMAINE]] | Santa sembra la contesa<br>da parte di vostra grazia; nera e paurosa<br>da parte dell’avversario. |
 | DUCA | Perciò molto ci meravigliamo che nostro cugino di Francia<br>voglia, in affare così giusto, chiudere il suo petto<br>alle nostre preghiere di soccorso. |
-| SECONDO SIGNORE [[Dumaine|DUMAINE]] | Mio buon signore,<br>le ragioni del nostro stato non posso esporle<br>se non come un uomo comune ed esterno<br>che si figura la grande immagine d’un consiglio<br>per moto incapace di [[Self|sé]]; perciò non oso<br>dire ciò che ne penso, poiché ho trovato<br>me stesso, sui miei terreni incerti, fallire<br>tante volte quante ho congetturato. |
+| SECONDO SIGNORE [[Dumaine\|DUMAINE]] | Mio buon signore,<br>le ragioni del nostro stato non posso esporle<br>se non come un uomo comune ed esterno<br>che si figura la grande immagine d’un consiglio<br>per moto incapace di [[Self\|sé]]; perciò non oso<br>dire ciò che ne penso, poiché ho trovato<br>me stesso, sui miei terreni incerti, fallire<br>tante volte quante ho congetturato. |
 | DUCA | Sia il suo piacere. |
-| PRIMO SIGNORE [[Dumaine|DUMAINE]] | Ma son certo che i più giovani della nostra nazione,<br>che si rimpinzano del loro agio, verranno di giorno in giorno<br>qui in cerca di medicina. |
-| DUCA | Benvenuti saranno,<br>e tutti gli onori che possano volare da noi<br>su loro si poseranno. Conoscete [[Well|bene]] i vostri posti;<br>quando ne cadano di migliori, cadranno a vostro vantaggio.<br>Domani in campo. |
+| PRIMO SIGNORE [[Dumaine\|DUMAINE]] | Ma son certo che i più giovani della nostra nazione,<br>che si rimpinzano del loro agio, verranno di giorno in giorno<br>qui in cerca di medicina. |
+| DUCA | Benvenuti saranno,<br>e tutti gli onori che possano volare da noi<br>su loro si poseranno. Conoscete [[Well\|bene]] i vostri posti;<br>quando ne cadano di migliori, cadranno a vostro vantaggio.<br>Domani in campo. |
 | *(didascalia)* | Squilli di trombe. Escono |
 
 
@@ -2314,53 +2314,53 @@ All’s [[Well]] That Ends [[Well]]
 | Chi parla | Battuta |
 |---|---|
 | *(didascalia)* | Entrano la Contessa con una lettera, e Lavatch CONTESSA È andato tutto come avrei voluto, salvo che egli non viene insieme a lei. |
-| LAVATCH | In fede mia, ritengo il mio giovane signore un uomo molto [[Melancholy|malinconico]]. |
+| LAVATCH | In fede mia, ritengo il mio giovane signore un uomo molto [[Melancholy\|malinconico]]. |
 | COUNTESS | Da quale osservazione, ti prego? |
-| LAVATCH | Ebbene, guarda il suo stivale e canta, aggiusta la gorgiera e canta, fa domande e canta, si stuzzica i denti e canta. Ho conosciuto un uomo che, avendo questo vezzo della [[Melancholy|malinconia]], vendette un bel maniero per una [[Song|canzone]]. |
+| LAVATCH | Ebbene, guarda il suo stivale e canta, aggiusta la gorgiera e canta, fa domande e canta, si stuzzica i denti e canta. Ho conosciuto un uomo che, avendo questo vezzo della [[Melancholy\|malinconia]], vendette un bel maniero per una [[Song\|canzone]]. |
 | COUNTESS | Vediamo che cosa scrive, e quando intende venire.<br>Apre la lettera e legge |
-| LAVATCH | (a parte) Non ho più voglia d’Isbel da quando fui a [[Court|corte]]. I nostri vecchi merluzzi e le nostre Isbel di campagna non sono nulla di simile al vostro vecchio merluzzo e alle vostre Isbel di [[Court|corte]]. Al mio Cupido son state fatte saltare le cervella, e comincio ad [[Love|amare]] come un vecchio ama il denaro: senza appetito. |
+| LAVATCH | (a parte) Non ho più voglia d’Isbel da quando fui a [[Court\|corte]]. I nostri vecchi merluzzi e le nostre Isbel di campagna non sono nulla di simile al vostro vecchio merluzzo e alle vostre Isbel di [[Court\|corte]]. Al mio Cupido son state fatte saltare le cervella, e comincio ad [[Love\|amare]] come un vecchio ama il denaro: senza appetito. |
 | COUNTESS | Che abbiamo qui? |
 | LAVATCH | Proprio quel che avete lì. |
 | *(didascalia)* | Esce |
-| COUNTESS | (legge la lettera ad alta voce) «Vi ho mandato una nuora. Ha guarito il [[King|Re]] e ha rovinato me. L’ho sposata, non l’ho portata a letto, e ho giurato di rendere eterno quel “non”. Sentirete che sono fuggito; sappiatelo prima che ne venga la notizia. Se c’è al mondo spazio abbastanza, terrò una lunga distanza. Il mio dovere a voi.<br>Il vostro sfortunato figlio,<br>[[Bertram]].»<br>Questo non è [[Well|bene]], ragazzo temerario e sfrenato,<br>fuggire i favori d’un [[King|Re]] così buono,<br>tirarti sul capo la sua indignazione<br>con lo spregio d’una fanciulla troppo virtuosa<br>per il disprezzo d’un impero. |
+| COUNTESS | (legge la lettera ad alta voce) «Vi ho mandato una nuora. Ha guarito il [[King\|Re]] e ha rovinato me. L’ho sposata, non l’ho portata a letto, e ho giurato di rendere eterno quel “non”. Sentirete che sono fuggito; sappiatelo prima che ne venga la notizia. Se c’è al mondo spazio abbastanza, terrò una lunga distanza. Il mio dovere a voi.<br>Il vostro sfortunato figlio,<br>[[Bertram]].»<br>Questo non è [[Well\|bene]], ragazzo temerario e sfrenato,<br>fuggire i favori d’un [[King\|Re]] così buono,<br>tirarti sul capo la sua indignazione<br>con lo spregio d’una fanciulla troppo virtuosa<br>per il disprezzo d’un impero. |
 | *(didascalia)* | Entra Lavatch |
 | LAVATCH | Oh signora, là dentro ci sono gravi notizie, fra due soldati e la mia giovane signora. |
 | COUNTESS | Che c’è? |
 | LAVATCH | Anzi, c’è qualche conforto nella notizia, qualche conforto. Vostro figlio non sarà ucciso così presto come credevo che sarebbe. |
 | COUNTESS | Perché dovrebbe essere ucciso? |
 | LAVATCH | Così dico anch’io, signora—se fugge, come sento che fa. Il pericolo sta nel resistere; quella è la perdita degli uomini, benché sia il guadagno dei figli. Eccoli che vengono, vi diranno di più. Per parte mia, ho solo udito che vostro figlio era fuggito. [Esce] |
-| *(didascalia)* | Entra [[Helen|Elena]] con una lettera, e i due Signori [[Dumaine]] |
-| SECONDO SIGNORE [[Dumaine|DUMAINE]] | (alla Contessa)<br>Dio vi salvi, buona signora. |
-| [[Helen|HELEN]] | Signora, il mio signore è partito, per sempre partito. |
-| PRIMO SIGNORE [[Dumaine|DUMAINE]] | Non dite così. |
-| COUNTESS | ([[To Helen|a Elena]])<br>Pensa alla pazienza.—Vi prego, signori,<br>ho provato tanti capricci di gioia e di dolore<br>che il primo volto né dell’una né dell’altro, all’improvviso,<br>può farmi donna fino al pianto. Dov’è mio figlio, vi prego? |
-| PRIMO SIGNORE [[Dumaine|DUMAINE]] | Signora, è andato a servire il Duca di Firenze.<br>L’incontrammo in cammino colà, poiché di là venivamo,<br>e, dopo qualche incarico da sbrigare a [[Court|corte]],<br>là volgeremo di nuovo. |
-| [[Helen|HELEN]] | Guardate la sua lettera, signora: ecco il mio passaporto. |
+| *(didascalia)* | Entra [[Helen\|Elena]] con una lettera, e i due Signori [[Dumaine]] |
+| SECONDO SIGNORE [[Dumaine\|DUMAINE]] | (alla Contessa)<br>Dio vi salvi, buona signora. |
+| [[Helen\|HELEN]] | Signora, il mio signore è partito, per sempre partito. |
+| PRIMO SIGNORE [[Dumaine\|DUMAINE]] | Non dite così. |
+| COUNTESS | ([[To Helen\|a Elena]])<br>Pensa alla pazienza.—Vi prego, signori,<br>ho provato tanti capricci di gioia e di dolore<br>che il primo volto né dell’una né dell’altro, all’improvviso,<br>può farmi donna fino al pianto. Dov’è mio figlio, vi prego? |
+| PRIMO SIGNORE [[Dumaine\|DUMAINE]] | Signora, è andato a servire il Duca di Firenze.<br>L’incontrammo in cammino colà, poiché di là venivamo,<br>e, dopo qualche incarico da sbrigare a [[Court\|corte]],<br>là volgeremo di nuovo. |
+| [[Helen\|HELEN]] | Guardate la sua lettera, signora: ecco il mio passaporto. |
 | *(didascalia)* | Ella legge ad alta voce |
-| [[Helen|HELEN]] | «Quando potrai avere l’anello che ho al dito, il quale mai ne uscirà, e mostrarmi un [[Child|figlio]] generato dal tuo [[Body|corpo]] di cui io sia padre, allora chiamami marito; ma in un tale “allora” io scrivo un “mai”.» Questa è una sentenza terribile. |
+| [[Helen\|HELEN]] | «Quando potrai avere l’anello che ho al dito, il quale mai ne uscirà, e mostrarmi un [[Child\|figlio]] generato dal tuo [[Body\|corpo]] di cui io sia padre, allora chiamami marito; ma in un tale “allora” io scrivo un “mai”.» Questa è una sentenza terribile. |
 | COUNTESS | Portaste voi questa lettera, signori? |
-| PRIMO SIGNORE [[Dumaine|DUMAINE]] | Sì, signora,<br>e per il contenuto ci dispiace della nostra fatica. |
-| COUNTESS | Ti prego, signora, fa’ miglior viso.<br>Se accaparri per te tutti i dolori<br>mi rubi la mia metà. Era mio figlio,<br>ma io lavo il suo nome fuori dal mio [[Blood|sangue]],<br>e tu sei tutta la mia [[Child|figlia]].—Verso Firenze è andato? |
-| PRIMO SIGNORE [[Dumaine|DUMAINE]] | Sì, signora. |
+| PRIMO SIGNORE [[Dumaine\|DUMAINE]] | Sì, signora,<br>e per il contenuto ci dispiace della nostra fatica. |
+| COUNTESS | Ti prego, signora, fa’ miglior viso.<br>Se accaparri per te tutti i dolori<br>mi rubi la mia metà. Era mio figlio,<br>ma io lavo il suo nome fuori dal mio [[Blood\|sangue]],<br>e tu sei tutta la mia [[Child\|figlia]].—Verso Firenze è andato? |
+| PRIMO SIGNORE [[Dumaine\|DUMAINE]] | Sì, signora. |
 | COUNTESS | E per essere soldato? |
-| PRIMO SIGNORE [[Dumaine|DUMAINE]] | Tale è il suo nobile proposito, e—credetelo—<br>il Duca porrà su lui tutto l’[[Honour|onore]]<br>che la buona convenienza reclama. |
+| PRIMO SIGNORE [[Dumaine\|DUMAINE]] | Tale è il suo nobile proposito, e—credetelo—<br>il Duca porrà su lui tutto l’[[Honour\|onore]]<br>che la buona convenienza reclama. |
 | COUNTESS | Ritornate là? |
-| SECONDO SIGNORE [[Dumaine|DUMAINE]] | Sì, signora, con la più rapida ala della [[Speed|velocità]]. |
-| [[Helen|HELEN]] | «Finché non avrò moglie, non ho nulla in Francia.»<br>È amaro. 75 |
+| SECONDO SIGNORE [[Dumaine\|DUMAINE]] | Sì, signora, con la più rapida ala della [[Speed\|velocità]]. |
+| [[Helen\|HELEN]] | «Finché non avrò moglie, non ho nulla in Francia.»<br>È amaro. 75 |
 | COUNTESS | Trovi questo lì? |
-| [[Helen|HELEN]] | Sì, signora. |
-| SECONDO SIGNORE [[Dumaine|DUMAINE]] | È solo l’audacia della sua mano,<br>forse, a cui il suo cuore non consentiva. |
+| [[Helen\|HELEN]] | Sì, signora. |
+| SECONDO SIGNORE [[Dumaine\|DUMAINE]] | È solo l’audacia della sua mano,<br>forse, a cui il suo cuore non consentiva. |
 | COUNTESS | Nulla in Francia finché non abbia moglie?<br>Non c’è nulla qui che sia troppo buono per lui<br>se non lei sola, e lei merita un signore<br>al cui servizio venti tali ragazzi rozzi potrebbero stare,<br>chiamandola ogni ora padrona. Chi era con lui? |
-| SECONDO SIGNORE [[Dumaine|DUMAINE]] | Solo un servo, e un gentiluomo<br>che ho conosciuto un tempo. |
+| SECONDO SIGNORE [[Dumaine\|DUMAINE]] | Solo un servo, e un gentiluomo<br>che ho conosciuto un tempo. |
 | COUNTESS | Paroles, non è vero? |
-| SECONDO SIGNORE [[Dumaine|DUMAINE]] | Sì, mia buona signora, lui. |
-| COUNTESS | Un tipo assai corrotto, e pieno di malvagità.<br>Mio figlio corrompe una [[Nature|natura]] [[Well|bene]] derivata<br>con la sua istigazione. |
-| SECONDO SIGNORE [[Dumaine|DUMAINE]] | In verità, buona signora,<br>quel tipo ha buona dose di quel troppo,<br>che gli giova molto avere. |
-| COUNTESS | Siate i benvenuti, signori.<br>Vi pregherò, quando vedrete mio figlio,<br>di dirgli che la sua [[Sword|spada]] non potrà mai vincere<br>l’[[Honour|onore]] che egli perde. Di più vi pregherò<br>di portar con voi per iscritto. |
-| PRIMO SIGNORE [[Dumaine|DUMAINE]] | Vi serviamo, signora,<br>in quello e in tutti i vostri più degni affari. |
+| SECONDO SIGNORE [[Dumaine\|DUMAINE]] | Sì, mia buona signora, lui. |
+| COUNTESS | Un tipo assai corrotto, e pieno di malvagità.<br>Mio figlio corrompe una [[Nature\|natura]] [[Well\|bene]] derivata<br>con la sua istigazione. |
+| SECONDO SIGNORE [[Dumaine\|DUMAINE]] | In verità, buona signora,<br>quel tipo ha buona dose di quel troppo,<br>che gli giova molto avere. |
+| COUNTESS | Siate i benvenuti, signori.<br>Vi pregherò, quando vedrete mio figlio,<br>di dirgli che la sua [[Sword\|spada]] non potrà mai vincere<br>l’[[Honour\|onore]] che egli perde. Di più vi pregherò<br>di portar con voi per iscritto. |
+| PRIMO SIGNORE [[Dumaine\|DUMAINE]] | Vi serviamo, signora,<br>in quello e in tutti i vostri più degni affari. |
 | COUNTESS | Non così, ma in scambio di cortesie.<br>Volete accostarvi? |
-| *(didascalia)* | Escono tutti tranne [[Helen|Elena]] |
-| [[Helen|HELEN]] | «Finché non avrò moglie, non ho nulla in Francia.»<br>Nulla in Francia finché non abbia moglie.<br>Non ne avrai alcuna, Rossiglione, nessuna in Francia;<br>allora avrai tutto di nuovo. Povero signore, sono io<br>che ti scaccio dal tuo paese ed espongo<br>quelle tue tenere membra all’azzardo<br>della guerra che non risparmia? E sono io<br>che ti caccio dalla [[Court|corte]] festosa, dove tu<br>eri bersaglio di begli occhi, per farti segno<br>di moschetti fumanti? Oh voi messaggeri di piombo<br>che cavalcate sulla violenta [[Speed|velocità]] del [[Fire|fuoco]],<br>volate con mira falsa, fendete l’aria che sempre si richiude<br>e canta al vostro fischio, non toccate il mio signore.<br>Chiunque gli spari, io l’ho posto là.<br>Chiunque carichi sul suo petto proteso,<br>io sono la vile che glielo fa affrontare,<br>e sebbene io non l’uccida, sono la causa<br>per cui la sua [[Death|morte]] fu così compiuta. Meglio sarebbe<br>ch’io incontrassi il [[Lion|leone]] rapace quando ruggiva<br>per acuta stretta di fame; meglio sarebbe<br>che tutte le miserie che la [[Nature|natura]] deve<br>fossero mie in una volta. No, torna tu a [[Home|casa]], Rossiglione,<br>di là dove l’[[Honour|onore]] non guadagna dal pericolo che una cicatrice,<br>e spesso perde tutto. Io partirò;<br>è il mio esser qui che ti tiene lontano.<br>Devo restar qui a far questo? No, no, quand’anche<br>l’aria del paradiso ventilasse la [[house|casa]]<br>e gli angeli facessero ogni servizio. Io partirò,<br>perché una pietosa voce riferisca la mia fuga<br>a consolare il tuo orecchio. Vieni, [[Night|notte]], finisci il giorno;<br>perché col buio, povera ladra, mi dileguerò. Esce |
+| *(didascalia)* | Escono tutti tranne [[Helen\|Elena]] |
+| [[Helen\|HELEN]] | «Finché non avrò moglie, non ho nulla in Francia.»<br>Nulla in Francia finché non abbia moglie.<br>Non ne avrai alcuna, Rossiglione, nessuna in Francia;<br>allora avrai tutto di nuovo. Povero signore, sono io<br>che ti scaccio dal tuo paese ed espongo<br>quelle tue tenere membra all’azzardo<br>della guerra che non risparmia? E sono io<br>che ti caccio dalla [[Court\|corte]] festosa, dove tu<br>eri bersaglio di begli occhi, per farti segno<br>di moschetti fumanti? Oh voi messaggeri di piombo<br>che cavalcate sulla violenta [[Speed\|velocità]] del [[Fire\|fuoco]],<br>volate con mira falsa, fendete l’aria che sempre si richiude<br>e canta al vostro fischio, non toccate il mio signore.<br>Chiunque gli spari, io l’ho posto là.<br>Chiunque carichi sul suo petto proteso,<br>io sono la vile che glielo fa affrontare,<br>e sebbene io non l’uccida, sono la causa<br>per cui la sua [[Death\|morte]] fu così compiuta. Meglio sarebbe<br>ch’io incontrassi il [[Lion\|leone]] rapace quando ruggiva<br>per acuta stretta di fame; meglio sarebbe<br>che tutte le miserie che la [[Nature\|natura]] deve<br>fossero mie in una volta. No, torna tu a [[Home\|casa]], Rossiglione,<br>di là dove l’[[Honour\|onore]] non guadagna dal pericolo che una cicatrice,<br>e spesso perde tutto. Io partirò;<br>è il mio esser qui che ti tiene lontano.<br>Devo restar qui a far questo? No, no, quand’anche<br>l’aria del paradiso ventilasse la [[house\|casa]]<br>e gli angeli facessero ogni servizio. Io partirò,<br>perché una pietosa voce riferisca la mia fuga<br>a consolare il tuo orecchio. Vieni, [[Night\|notte]], finisci il giorno;<br>perché col buio, povera ladra, mi dileguerò. Esce |
 
 
 
@@ -2382,10 +2382,10 @@ All’s [[Well]] That Ends [[Well]]
 | Chi parla | Battuta |
 |---|---|
 | *(didascalia)* | Squillo di trombe. Entrano il Duca di Firenze, [[Bertram]], un tamburino e trombettieri, soldati, e Paroles |
-| DUCA | (a [[Bertram]])<br>Generale della nostra [[Horse|cavalleria]] tu sei, e noi,<br>grandi nella nostra [[Hope|speranza]], poniamo il nostro miglior [[Love|amore]] e la nostra fede<br>sulla tua promettente fortuna. |
-| [[Bertram|BERTRAM]] | Signore, è<br>un carico troppo grave per la mia forza, e tuttavia<br>ci sforzeremo di portarlo per amore del vostro merito<br>fino all’estremo orlo dell’azzardo. |
+| DUCA | (a [[Bertram]])<br>Generale della nostra [[Horse\|cavalleria]] tu sei, e noi,<br>grandi nella nostra [[Hope\|speranza]], poniamo il nostro miglior [[Love\|amore]] e la nostra fede<br>sulla tua promettente fortuna. |
+| [[Bertram\|BERTRAM]] | Signore, è<br>un carico troppo grave per la mia forza, e tuttavia<br>ci sforzeremo di portarlo per amore del vostro merito<br>fino all’estremo orlo dell’azzardo. |
 | DUCA | Va’ dunque avanti,<br>e la Fortuna si posi a giocare sul tuo elmo prospero<br>come tua propizia signora. |
-| [[Bertram|BERTRAM]] | Questo giorno stesso,<br>grande Marte, mi pongo nella tua schiera.<br>Rendimi solo simile ai miei pensieri, e mi mostrerò<br>[[Lover|amante]] del tuo tamburo, odiatore dell’[[Love|amore]]. |
+| [[Bertram\|BERTRAM]] | Questo giorno stesso,<br>grande Marte, mi pongo nella tua schiera.<br>Rendimi solo simile ai miei pensieri, e mi mostrerò<br>[[Lover\|amante]] del tuo tamburo, odiatore dell’[[Love\|amore]]. |
 | *(didascalia)* | Escono |
 
 
@@ -2410,10 +2410,10 @@ All’s [[Well]] That Ends [[Well]]
 |---|---|
 | *(didascalia)* | Entrano la Contessa e Reynaldo suo maggiordomo, con una lettera |
 | COUNTESS | Ahimè! E avete preso da lei la lettera?<br>Non potevate sapere che avrebbe fatto come ha fatto,<br>mandandomi una lettera? Leggetela di nuovo. |
-| REYNALDO | (legge la lettera)<br>«Sono [[Pilgrim|pellegrina]] di San [[Jaques|Giacomo]], e là sono andata.<br>L’[[Love|amore]] ambizioso ha tanto offeso in me<br>che a piedi nudi calco la terra fredda<br>con voto santo per emendare le mie colpe.<br>Scrivete, scrivete, che dal sanguinoso corso della guerra<br>il mio carissimo padrone, il vostro caro figlio, s’affretti via.<br>Benedicetelo a [[Home|casa]] in pace, mentre io da lontano<br>il suo nome con zelante fervore santifico.<br>Le fatiche ch’egli ha prese mi perdoni;<br>io, la sua dispettosa Giunone, lo mandai fuori<br>dagli amici di corte, a vivere con nemici accampati,<br>dove la [[Death|morte]] e il pericolo [[dogs|inseguono]] i calcagni del valore.<br>Egli è troppo buono e bello per la [[Death|morte]] e per me;<br>la quale io stessa abbraccio per renderlo libero.» |
-| COUNTESS | Ah, che pungiglioni acuti sono nelle sue parole più miti!<br>Reynaldo, mai vi mancò tanto il giudizio<br>come nel lasciarla partire così. Se avessi parlato con lei,<br>avrei [[Well|bene]] potuto sviare i suoi intenti,<br>che così ella ha prevenuti. |
-| REYNALDO | Perdonatemi, signora.<br>Se v’avessi dato questa la [[Night|notte]] passata<br>la si sarebbe potuta raggiungere—e tuttavia ella scrive<br>che l’inseguimento sarebbe vano. |
-| COUNTESS | Quale angelo<br>benedirà questo marito indegno? Non può prosperare<br>se le preghiere di lei, che il cielo si diletta d’udire<br>e ama esaudire, non lo sottraggono all’ira<br>della più grande giustizia. Scrivete, scrivete, Reynaldo,<br>a questo indegno marito di sua moglie.<br>Che ogni parola pesi grave del valore di lei,<br>ch’egli pesa troppo leggero; il mio più grande dolore,<br>sebbene poco lo senta, esponetelo acerbamente.<br>Spedite il messaggero più adatto.<br>Quando forse udrà ch’ella è partita,<br>tornerà, e [[Hope|spero]] ch’ella,<br>udendo altrettanto, [[Speed|affretti]] di nuovo il suo piede,<br>condotta qua da puro [[Love|amore]]. Quale dei due<br>mi sia più caro, non ho perizia di senso<br>per far distinzione. Provvedete questo messaggero.<br>Il mio cuore è grave e la mia età è debole;<br>il dolore vorrebbe [[Tears|lacrime]], e la pena mi comanda di parlare. |
+| REYNALDO | (legge la lettera)<br>«Sono [[Pilgrim\|pellegrina]] di San [[Jaques\|Giacomo]], e là sono andata.<br>L’[[Love\|amore]] ambizioso ha tanto offeso in me<br>che a piedi nudi calco la terra fredda<br>con voto santo per emendare le mie colpe.<br>Scrivete, scrivete, che dal sanguinoso corso della guerra<br>il mio carissimo padrone, il vostro caro figlio, s’affretti via.<br>Benedicetelo a [[Home\|casa]] in pace, mentre io da lontano<br>il suo nome con zelante fervore santifico.<br>Le fatiche ch’egli ha prese mi perdoni;<br>io, la sua dispettosa Giunone, lo mandai fuori<br>dagli amici di corte, a vivere con nemici accampati,<br>dove la [[Death\|morte]] e il pericolo [[dogs\|inseguono]] i calcagni del valore.<br>Egli è troppo buono e bello per la [[Death\|morte]] e per me;<br>la quale io stessa abbraccio per renderlo libero.» |
+| COUNTESS | Ah, che pungiglioni acuti sono nelle sue parole più miti!<br>Reynaldo, mai vi mancò tanto il giudizio<br>come nel lasciarla partire così. Se avessi parlato con lei,<br>avrei [[Well\|bene]] potuto sviare i suoi intenti,<br>che così ella ha prevenuti. |
+| REYNALDO | Perdonatemi, signora.<br>Se v’avessi dato questa la [[Night\|notte]] passata<br>la si sarebbe potuta raggiungere—e tuttavia ella scrive<br>che l’inseguimento sarebbe vano. |
+| COUNTESS | Quale angelo<br>benedirà questo marito indegno? Non può prosperare<br>se le preghiere di lei, che il cielo si diletta d’udire<br>e ama esaudire, non lo sottraggono all’ira<br>della più grande giustizia. Scrivete, scrivete, Reynaldo,<br>a questo indegno marito di sua moglie.<br>Che ogni parola pesi grave del valore di lei,<br>ch’egli pesa troppo leggero; il mio più grande dolore,<br>sebbene poco lo senta, esponetelo acerbamente.<br>Spedite il messaggero più adatto.<br>Quando forse udrà ch’ella è partita,<br>tornerà, e [[Hope\|spero]] ch’ella,<br>udendo altrettanto, [[Speed\|affretti]] di nuovo il suo piede,<br>condotta qua da puro [[Love\|amore]]. Quale dei due<br>mi sia più caro, non ho perizia di senso<br>per far distinzione. Provvedete questo messaggero.<br>Il mio cuore è grave e la mia età è debole;<br>il dolore vorrebbe [[Tears\|lacrime]], e la pena mi comanda di parlare. |
 | *(didascalia)* | Escono |
 
 
@@ -2483,58 +2483,58 @@ All’s [[Well]] That Ends [[Well]]
 | Chi parla | Battuta |
 |---|---|
 | *(didascalia)* | Squillo di tromba in lontananza. Entrano una vecchia Vedova, sua figlia [[Diana]], e [[Mariana]], con altri cittadini fiorentini |
-| VEDOVA | Su, venite, perché se s’accostano alla [[City|città]] perderemo tutto lo spettacolo. |
-| [[Diana|DIANA]] | Dicono che il conte francese ha reso onorevolissimo servizio. |
+| VEDOVA | Su, venite, perché se s’accostano alla [[City\|città]] perderemo tutto lo spettacolo. |
+| [[Diana\|DIANA]] | Dicono che il conte francese ha reso onorevolissimo servizio. |
 | VEDOVA | Si riferisce che ha catturato il loro maggior comandante, e che con la sua propria mano ha ucciso il fratello del Duca. (Squillo) Abbiamo perso la nostra fatica; sono andati per la via contraria. Ascoltate. Lo si può capire dalle loro trombe. |
-| [[Mariana|MARIANA]] | Su, torniamo indietro, e accontentiamoci del racconto.—Wett, [[Diana]], badate a questo conte francese. L’[[Honour|onore]] d’una fanciulla è il suo nome, e nessuna eredità è così ricca come l’onestà. |
+| [[Mariana\|MARIANA]] | Su, torniamo indietro, e accontentiamoci del racconto.—Wett, [[Diana]], badate a questo conte francese. L’[[Honour\|onore]] d’una fanciulla è il suo nome, e nessuna eredità è così ricca come l’onestà. |
 | VEDOVA | (a [[Diana]]) Ho raccontato alla mia vicina come sei stata sollecitata da un gentiluomo, suo compagno. |
-| [[Mariana|MARIANA]] | Conosco quel furfante, che sia impiccato! Un certo Paroles. È un lurido ufficiale in quelle proposte per il giovane conte. Guardatene, [[Diana]]; le loro promesse, lusinghe, giuramenti, pegni e tutti i loro ordigni di lussuria non sono le cose sotto cui si presentano. Molte fanciulle sono state sedotte da loro; e la miseria è che l’esempio, che si mostra così terribile nel naufragio della verginità, non può con tutto ciò dissuadere chi segue, ma esse restano invischiate dalle stesse frasche che le minacciano. [[Hope|Spero]] di non aver bisogno d’avvertirvi di più, ma [[Hope|spero]] che la vostra propria grazia vi mantenga dove siete, quand’anche non fosse noto altro pericolo che la modestia così perduta. |
-| [[Diana|DIANA]] | Non avrete bisogno di [[Fear|temere]] per me. |
-| *(didascalia)* | Entra [[Helen|Elena]] vestita da [[Pilgrim|pellegrina]] |
-| VEDOVA | [[Hope|Spero]] di sì. Guardate, ecco viene una [[Pilgrim|pellegrina]]. So che alloggerà nella mia [[house|casa]]; là si mandano l’una l’altra. La interrogherò.<br>Dio vi salvi, [[Pilgrim|pellegrina]]. Dove siete diretta? |
-| [[Helen|HELEN]] | A San [[Jaques|Giacomo]] il Grande.<br>Dove alloggiano i palmieri, vi supplico? |
+| [[Mariana\|MARIANA]] | Conosco quel furfante, che sia impiccato! Un certo Paroles. È un lurido ufficiale in quelle proposte per il giovane conte. Guardatene, [[Diana]]; le loro promesse, lusinghe, giuramenti, pegni e tutti i loro ordigni di lussuria non sono le cose sotto cui si presentano. Molte fanciulle sono state sedotte da loro; e la miseria è che l’esempio, che si mostra così terribile nel naufragio della verginità, non può con tutto ciò dissuadere chi segue, ma esse restano invischiate dalle stesse frasche che le minacciano. [[Hope\|Spero]] di non aver bisogno d’avvertirvi di più, ma [[Hope\|spero]] che la vostra propria grazia vi mantenga dove siete, quand’anche non fosse noto altro pericolo che la modestia così perduta. |
+| [[Diana\|DIANA]] | Non avrete bisogno di [[Fear\|temere]] per me. |
+| *(didascalia)* | Entra [[Helen\|Elena]] vestita da [[Pilgrim\|pellegrina]] |
+| VEDOVA | [[Hope\|Spero]] di sì. Guardate, ecco viene una [[Pilgrim\|pellegrina]]. So che alloggerà nella mia [[house\|casa]]; là si mandano l’una l’altra. La interrogherò.<br>Dio vi salvi, [[Pilgrim\|pellegrina]]. Dove siete diretta? |
+| [[Helen\|HELEN]] | A San [[Jaques\|Giacomo]] il Grande.<br>Dove alloggiano i palmieri, vi supplico? |
 | VEDOVA | Al «San Francesco» qui accanto alla porta. |
-| [[Helen|HELEN]] | È questa la via? |
+| [[Helen\|HELEN]] | È questa la via? |
 | VEDOVA | Sì, davvero, è questa. |
 | *(didascalia)* | Suono d’una marcia, in lontananza |
-| VEDOVA | Ascoltate, vengono per questa via. Se volete indugiare,<br>santa [[Pilgrim|pellegrina]], solo fin che le truppe siano passate,<br>vi condurrò dove sarete alloggiata,<br>tanto più che credo di conoscere la vostra ospite<br>quanto me stessa. |
-| [[Helen|HELEN]] | Siete voi stessa? |
-| VEDOVA | Se così vi piacerà, [[Pilgrim|pellegrina]]. |
-| [[Helen|HELEN]] | Vi ringrazio, e attenderò il vostro comodo. |
+| VEDOVA | Ascoltate, vengono per questa via. Se volete indugiare,<br>santa [[Pilgrim\|pellegrina]], solo fin che le truppe siano passate,<br>vi condurrò dove sarete alloggiata,<br>tanto più che credo di conoscere la vostra ospite<br>quanto me stessa. |
+| [[Helen\|HELEN]] | Siete voi stessa? |
+| VEDOVA | Se così vi piacerà, [[Pilgrim\|pellegrina]]. |
+| [[Helen\|HELEN]] | Vi ringrazio, e attenderò il vostro comodo. |
 | VEDOVA | Venite, credo, dalla Francia? |
-| [[Helen|HELEN]] | Proprio COSÌ. |
+| [[Helen\|HELEN]] | Proprio COSÌ. |
 | VEDOVA | Qui vedrete un vostro compatriota<br>che ha reso degno servizio. |
-| [[Helen|HELEN]] | Il suo nome, vi prego? |
-| [[Diana|DIANA]] | Il conte di Rossiglione. Ne conoscete uno tale? |
-| [[Helen|HELEN]] | Solo per udito, che nobilissime cose sente di lui; 50<br>il suo volto non lo conosco. |
-| [[Diana|DIANA]] | Chiunque egli sia,<br>qui è tenuto in gran conto. Fuggì dalla Francia,<br>a quel che si dice; perché il [[King|Re]] l’aveva ammogliato<br>contro il suo gradimento. Credete che sia così? |
-| [[Helen|HELEN]] | Sì, certo, pura [[Truth|verità]]. Conosco la sua signora. |
-| [[Diana|DIANA]] | C’è un gentiluomo che serve il Conte<br>e parla di lei assai grossolanamente. |
-| [[Helen|HELEN]] | Come si chiama? |
-| [[Diana|DIANA]] | Un<br>Monsieur Paroles. |
-| [[Helen|HELEN]] | Oh, io concordo con lui:<br>in materia di lode, o rispetto al valore<br>del grande Conte medesimo, ella è troppo umile<br>perché il suo nome sia ripetuto. Tutto il suo merito<br>è un’onestà riservata, e quella<br>non ho udito che sia stata messa in questione. |
-| [[Diana|DIANA]] | Ahimè, povera signora.<br>È dura schiavitù divenire la moglie<br>d’un signore che detesta. |
+| [[Helen\|HELEN]] | Il suo nome, vi prego? |
+| [[Diana\|DIANA]] | Il conte di Rossiglione. Ne conoscete uno tale? |
+| [[Helen\|HELEN]] | Solo per udito, che nobilissime cose sente di lui; 50<br>il suo volto non lo conosco. |
+| [[Diana\|DIANA]] | Chiunque egli sia,<br>qui è tenuto in gran conto. Fuggì dalla Francia,<br>a quel che si dice; perché il [[King\|Re]] l’aveva ammogliato<br>contro il suo gradimento. Credete che sia così? |
+| [[Helen\|HELEN]] | Sì, certo, pura [[Truth\|verità]]. Conosco la sua signora. |
+| [[Diana\|DIANA]] | C’è un gentiluomo che serve il Conte<br>e parla di lei assai grossolanamente. |
+| [[Helen\|HELEN]] | Come si chiama? |
+| [[Diana\|DIANA]] | Un<br>Monsieur Paroles. |
+| [[Helen\|HELEN]] | Oh, io concordo con lui:<br>in materia di lode, o rispetto al valore<br>del grande Conte medesimo, ella è troppo umile<br>perché il suo nome sia ripetuto. Tutto il suo merito<br>è un’onestà riservata, e quella<br>non ho udito che sia stata messa in questione. |
+| [[Diana\|DIANA]] | Ahimè, povera signora.<br>È dura schiavitù divenire la moglie<br>d’un signore che detesta. |
 | VEDOVA | Lo garantisco, buona creatura, dovunque sia<br>il suo cuore pesa tristemente. Questa giovane fanciulla potrebbe farle<br>un brutto tiro, se volesse. |
-| [[Helen|HELEN]] | Che intendete?<br>Forse l’amoroso Conte la sollecita<br>a un proposito illecito. |
-| VEDOVA | Lo fa davvero,<br>e tratta con tutto ciò che in tale corteggiamento<br>possa corrompere il tenero [[Honour|onore]] d’una fanciulla.<br>Ma ella è armata contro di lui, e tiene la sua guardia<br>nella più onesta difesa. |
-| [[Mariana|MARIANA]] | Gli dèi non permettano altrimenti. |
+| [[Helen\|HELEN]] | Che intendete?<br>Forse l’amoroso Conte la sollecita<br>a un proposito illecito. |
+| VEDOVA | Lo fa davvero,<br>e tratta con tutto ciò che in tale corteggiamento<br>possa corrompere il tenero [[Honour\|onore]] d’una fanciulla.<br>Ma ella è armata contro di lui, e tiene la sua guardia<br>nella più onesta difesa. |
+| [[Mariana\|MARIANA]] | Gli dèi non permettano altrimenti. |
 | *(didascalia)* | Entrano, con tamburino e insegne, [[Bertram]], Paroles e tutto l’esercito |
 | VEDOVA | Ecco, ora vengono.<br>Quello è [[Antonio]], il figlio maggiore del Duca;<br>quello, [[Escalus]]. |
-| [[Helen|HELEN]] | Quale è il Francese? |
-| [[Diana|DIANA]] | Lui—<br>quello col pennacchio. È un giovane gagliardissimo.<br>Vorrei che amasse sua moglie. Se fosse più onesto<br>sarebbe molto più bello. Non è<br>un bel gentiluomo? |
-| [[Helen|HELEN]] | Mi piace [[Well|bene]]. |
-| [[Diana|DIANA]] | È peccato che non sia onesto.<br>Là c’è quello stesso furfante che lo conduce in quei<br>luoghi.<br>Se fossi la sua signora, [[Poison|avvelenerei]]<br>quel vile mascalzone. |
-| [[Helen|HELEN]] | Quale è? |
-| [[Diana|DIANA]] | Quel bertuccione<br>con le sciarpe. Perché è [[Melancholy|malinconico]]? |
-| [[Helen|HELEN]] | Forse è stato ferito nella battaglia. |
-| PAROLES | (a parte) Perdere il nostro tamburo? [[Well|Bene]]. 90 |
-| [[Mariana|MARIANA]] | È malamente irritato per qualcosa.<br>Guardate, ci ha scorte. |
+| [[Helen\|HELEN]] | Quale è il Francese? |
+| [[Diana\|DIANA]] | Lui—<br>quello col pennacchio. È un giovane gagliardissimo.<br>Vorrei che amasse sua moglie. Se fosse più onesto<br>sarebbe molto più bello. Non è<br>un bel gentiluomo? |
+| [[Helen\|HELEN]] | Mi piace [[Well\|bene]]. |
+| [[Diana\|DIANA]] | È peccato che non sia onesto.<br>Là c’è quello stesso furfante che lo conduce in quei<br>luoghi.<br>Se fossi la sua signora, [[Poison\|avvelenerei]]<br>quel vile mascalzone. |
+| [[Helen\|HELEN]] | Quale è? |
+| [[Diana\|DIANA]] | Quel bertuccione<br>con le sciarpe. Perché è [[Melancholy\|malinconico]]? |
+| [[Helen\|HELEN]] | Forse è stato ferito nella battaglia. |
+| PAROLES | (a parte) Perdere il nostro tamburo? [[Well\|Bene]]. 90 |
+| [[Mariana\|MARIANA]] | È malamente irritato per qualcosa.<br>Guardate, ci ha scorte. |
 | VEDOVA | (a Paroles)<br>Davvero, che sia impiccato! |
-| [[Mariana|MARIANA]] | (a Paroles)<br>E la vostra cortesia, portatore d’anelli che siete. |
+| [[Mariana\|MARIANA]] | (a Paroles)<br>E la vostra cortesia, portatore d’anelli che siete. |
 | *(didascalia)* | Escono [[Bertram]], Paroles e l’esercito |
-| VEDOVA | La truppa è passata. Venite, [[Pilgrim|pellegrina]], vi condurrò<br>dove alloggerete. Di penitenti per voto<br>ce n’è quattro o cinque diretti al grande San [[Jaques|Giacomo]]<br>già nella mia [[house|casa]]. |
-| [[Helen|HELEN]] | Umilmente vi ringrazio.<br>Se piaccia a questa matrona e a questa gentile fanciulla<br>di cenare con noi stanotte, la spesa e i ringraziamenti<br>saranno a mio carico. E per ricompensarvi ancora,<br>impartirò a questa vergine alcuni precetti<br>degni di nota. |
-| VEDOVA | e [[Mariana|MARIANA]] Accetteremo di buon grado la vostra offerta. Escono |
+| VEDOVA | La truppa è passata. Venite, [[Pilgrim\|pellegrina]], vi condurrò<br>dove alloggerete. Di penitenti per voto<br>ce n’è quattro o cinque diretti al grande San [[Jaques\|Giacomo]]<br>già nella mia [[house\|casa]]. |
+| [[Helen\|HELEN]] | Umilmente vi ringrazio.<br>Se piaccia a questa matrona e a questa gentile fanciulla<br>di cenare con noi stanotte, la spesa e i ringraziamenti<br>saranno a mio carico. E per ricompensarvi ancora,<br>impartirò a questa vergine alcuni precetti<br>degni di nota. |
+| VEDOVA | e [[Mariana\|MARIANA]] Accetteremo di buon grado la vostra offerta. Escono |
 
 
 
@@ -2585,41 +2585,41 @@ All’s [[Well]] That Ends [[Well]]
 
 | Chi parla | Battuta |
 |---|---|
-| *(didascalia)* | Entrano [[Bertram]] e i due Capitani [[Dumaine]] SECONDO SIGNORE [[Dumaine|DUMAINE]] (a [[Bertram]]) Su, mio buon signore, mettetelo alla prova. Lasciate che faccia a suo modo. |
-| PRIMO SIGNORE [[Dumaine|DUMAINE]] | (a [[Bertram]]) Se vostra signoria non lo trova un ronzino da nulla, non tenetemi più in vostra stima. |
-| SECONDO SIGNORE [[Dumaine|DUMAINE]] | (a [[Bertram]]) Sulla mia vita, mio signore, una bolla. |
-| [[Bertram|BERTRAM]] | Credete che io m’inganni tanto su lui? |
-| SECONDO SIGNORE [[Dumaine|DUMAINE]] | Credetelo, mio signore. Per mia diretta conoscenza—senza alcuna malizia, ma per parlare di lui come mio parente—è un codardo notevolissimo, un bugiardo infinito e senza fine, uno che rompe le promesse a ogni ora, il possessore di non una sola buona qualità degna dell’accoglienza di vostra signoria. 13 |
-| PRIMO SIGNORE [[Dumaine|DUMAINE]] | (a [[Bertram]]) Sarebbe bene che lo conoscessi, perché, riponendo troppa fiducia nella sua virtù, che non ha, non abbia a mancarvi in qualche grande e fidato affare, in un pericolo capitale. |
-| [[Bertram|BERTRAM]] | Vorrei sapere in quale azione particolare provarlo. |
-| PRIMO SIGNORE [[Dumaine|DUMAINE]] | Nessuna migliore che lasciarlo andare a ricuperare il suo tamburo, cosa che lo sentite intraprendere con tanta sicurezza. |
-| SECONDO SIGNORE [[Dumaine|DUMAINE]] | (a [[Bertram]]) Io, con una truppa di Fiorentini, lo sorprenderò all’improvviso. Prenderò gente che son certo non sappia distinguere dal nemico; lo legheremo e lo incappucceremo in modo che non supponga altro se non d’essere portato nell’accampamento dell’avversario, mentre lo condurremo alle nostre stesse tende. Sia solo presente vostra signoria al suo interrogatorio: se egli non offrirà, per la promessa della vita e sotto la più alta costrizione d’una vile [[Fear|paura]], di tradirvi, e di consegnare contro di voi tutte le informazioni in suo potere, e questo con la divina perdita della sua [[Soul|anima]] sotto giuramento, non fidatevi mai più del mio giudizio in nulla. 34 |
-| PRIMO SIGNORE [[Dumaine|DUMAINE]] | (a [[Bertram]]) Oh, per l’[[Love|amor]] del riso, lasciate che vada a prendere il suo tamburo. Dice d’avere uno stratagemma per ciò. Quando vostra signoria vedrà il [[Bottom|fondo]] del suo [[success|successo]] in questo, e in quale metallo si fonderà questa massa contraffatta di minerale, se non gli darete l’accoglienza di Giovanni Tamburo, la vostra inclinazione non si potrà rimuovere. Eccolo che viene. |
+| *(didascalia)* | Entrano [[Bertram]] e i due Capitani [[Dumaine]] SECONDO SIGNORE [[Dumaine\|DUMAINE]] (a [[Bertram]]) Su, mio buon signore, mettetelo alla prova. Lasciate che faccia a suo modo. |
+| PRIMO SIGNORE [[Dumaine\|DUMAINE]] | (a [[Bertram]]) Se vostra signoria non lo trova un ronzino da nulla, non tenetemi più in vostra stima. |
+| SECONDO SIGNORE [[Dumaine\|DUMAINE]] | (a [[Bertram]]) Sulla mia vita, mio signore, una bolla. |
+| [[Bertram\|BERTRAM]] | Credete che io m’inganni tanto su lui? |
+| SECONDO SIGNORE [[Dumaine\|DUMAINE]] | Credetelo, mio signore. Per mia diretta conoscenza—senza alcuna malizia, ma per parlare di lui come mio parente—è un codardo notevolissimo, un bugiardo infinito e senza fine, uno che rompe le promesse a ogni ora, il possessore di non una sola buona qualità degna dell’accoglienza di vostra signoria. 13 |
+| PRIMO SIGNORE [[Dumaine\|DUMAINE]] | (a [[Bertram]]) Sarebbe bene che lo conoscessi, perché, riponendo troppa fiducia nella sua virtù, che non ha, non abbia a mancarvi in qualche grande e fidato affare, in un pericolo capitale. |
+| [[Bertram\|BERTRAM]] | Vorrei sapere in quale azione particolare provarlo. |
+| PRIMO SIGNORE [[Dumaine\|DUMAINE]] | Nessuna migliore che lasciarlo andare a ricuperare il suo tamburo, cosa che lo sentite intraprendere con tanta sicurezza. |
+| SECONDO SIGNORE [[Dumaine\|DUMAINE]] | (a [[Bertram]]) Io, con una truppa di Fiorentini, lo sorprenderò all’improvviso. Prenderò gente che son certo non sappia distinguere dal nemico; lo legheremo e lo incappucceremo in modo che non supponga altro se non d’essere portato nell’accampamento dell’avversario, mentre lo condurremo alle nostre stesse tende. Sia solo presente vostra signoria al suo interrogatorio: se egli non offrirà, per la promessa della vita e sotto la più alta costrizione d’una vile [[Fear\|paura]], di tradirvi, e di consegnare contro di voi tutte le informazioni in suo potere, e questo con la divina perdita della sua [[Soul\|anima]] sotto giuramento, non fidatevi mai più del mio giudizio in nulla. 34 |
+| PRIMO SIGNORE [[Dumaine\|DUMAINE]] | (a [[Bertram]]) Oh, per l’[[Love\|amor]] del riso, lasciate che vada a prendere il suo tamburo. Dice d’avere uno stratagemma per ciò. Quando vostra signoria vedrà il [[Bottom\|fondo]] del suo [[success\|successo]] in questo, e in quale metallo si fonderà questa massa contraffatta di minerale, se non gli darete l’accoglienza di Giovanni Tamburo, la vostra inclinazione non si potrà rimuovere. Eccolo che viene. |
 | *(didascalia)* | Entra Paroles |
-| *(didascalia)* | SECONDO SIGNORE [[Dumaine|DUMAINE]] Oh a parte per l’[[Love|amor]] del riso ad alta voce non ostacolate l’[[Honour|onore]] del suo disegno; lasciate che vada a ricuperare il suo tamburo in ogni caso. |
-| [[Bertram|BERTRAM]] | (a Paroles) Come va, monsieur? Questo tamburo vi sta dolorosamente sullo stomaco. |
-| PRIMO SIGNORE [[Dumaine|DUMAINE]] | Alla malora, lasciatelo andare. Non è che un tamburo. |
-| PAROLES | Non è che un tamburo? È solo un tamburo? Un tamburo perduto così! Bell’ordine fu quello: caricare con la nostra [[Horse|cavalleria]] sulle nostre stesse ali e squarciare i nostri stessi soldati! 51 |
-| PRIMO SIGNORE [[Dumaine|DUMAINE]] | Non era da biasimarsi nel comando del servizio. Fu un disastro di guerra che Cesare stesso non avrebbe potuto prevenire, s’egli fosse stato là a comandare.<br>[[Bertram|BERTRAM]]) [[Well|Bene]], non possiamo condannare troppo il nostro [[success|successo]]. Qualche disonore l’abbiamo avuto nella perdita di quel tamburo, ma non è da ricuperare. |
+| *(didascalia)* | SECONDO SIGNORE [[Dumaine\|DUMAINE]] Oh a parte per l’[[Love\|amor]] del riso ad alta voce non ostacolate l’[[Honour\|onore]] del suo disegno; lasciate che vada a ricuperare il suo tamburo in ogni caso. |
+| [[Bertram\|BERTRAM]] | (a Paroles) Come va, monsieur? Questo tamburo vi sta dolorosamente sullo stomaco. |
+| PRIMO SIGNORE [[Dumaine\|DUMAINE]] | Alla malora, lasciatelo andare. Non è che un tamburo. |
+| PAROLES | Non è che un tamburo? È solo un tamburo? Un tamburo perduto così! Bell’ordine fu quello: caricare con la nostra [[Horse\|cavalleria]] sulle nostre stesse ali e squarciare i nostri stessi soldati! 51 |
+| PRIMO SIGNORE [[Dumaine\|DUMAINE]] | Non era da biasimarsi nel comando del servizio. Fu un disastro di guerra che Cesare stesso non avrebbe potuto prevenire, s’egli fosse stato là a comandare.<br>[[Bertram\|BERTRAM]]) [[Well\|Bene]], non possiamo condannare troppo il nostro [[success\|successo]]. Qualche disonore l’abbiamo avuto nella perdita di quel tamburo, ma non è da ricuperare. |
 | PAROLES | Si sarebbe potuto ricuperare. |
-| [[Bertram|BERTRAM]] | Si sarebbe potuto, ma ora non lo è. |
+| [[Bertram\|BERTRAM]] | Si sarebbe potuto, ma ora non lo è. |
 | PAROLES | È da ricuperare. Se non fosse che il merito del servizio è raramente attribuito al vero ed esatto esecutore, avrei quel tamburo o un altro, oppure «hic iacet». |
-| [[Bertram|BERTRAM]] | Ebbene, se ne avete lo stomaco, all’opera, monsieur. Se credete che il vostro mistero di stratagemmi possa riportare questo strumento d’[[Honour|onore]] nel suo quartiere nativo, siate magnanimo nell’impresa e procedete. Onorerò il tentativo come degna prodezza. Se vi [[Speed|riuscite]] [[Well|bene]], il Duca ne parlerà e vi accorderà quanto ancora s’addice alla sua [[Greatness|grandezza]], fino all’ultima sillaba del vostro merito. |
-| PAROLES | Per la mano d’un soldato, l’intraprenderò.<br>[[Bertram|BERTRAM]]) Ma ora non dovete sonnecchiarvi sopra. |
-| PAROLES | Mi metterò all’opera questa sera, e stenderò subito per iscritto i miei dilemmi, m’incoraggerò nella mia certezza, mi porrò nella mia mortale preparazione; e verso mezzanotte aspettatevi d’aver altre notizie da me.<br>[[Bertram|BERTRAM]]) Posso essere così ardito da informare sua grazia che siete andato a farlo? |
-| PAROLES | Non so quale sarà il [[success|successo]], mio signore, ma il tentativo lo giuro.<br>[[Bertram|BERTRAM]]) So che sei valoroso, e per quanto è possibile alla tua arte militare sottoscriverò per te. Addio. |
-| PAROLES | Non [[Love|amo]] molte parole. Esce |
-| SECONDO SIGNORE [[Dumaine|DUMAINE]] | Non più di quanto un pesce ami l’[[Water|acqua]]. (A [[Bertram]]) Non è un tipo strano, mio signore, che con tanta sicurezza sembra intraprendere questo affare, che sa non potersi fare? Si danna per farlo, e preferisce esser dannato che farlo. |
-| PRIMO SIGNORE [[Dumaine|DUMAINE]] | (a [[Bertram]]) Non lo conoscete, mio signore, come lo conosciamo noi. Certo è che s’insinua nel favore d’un uomo, e per una settimana sfugge a un gran numero di scoperte; ma quando l’avete scoperto, l’avete per sempre.<br>[[Bertram|BERTRAM]]) Come, credete che non farà nulla di questo a cui si dedica così seriamente? |
-| SECONDO SIGNORE [[Dumaine|DUMAINE]] | Nulla al mondo, ma tornerà con un’invenzione, e vi appiccicherà due o tre bugie plausibili. Ma l’abbiamo quasi stanato nel bosco. Vedrete la sua caduta stanotte; perché in verità non è degno della stima di vostra signoria. |
-| PRIMO SIGNORE [[Dumaine|DUMAINE]] | (a [[Bertram]]) Vi daremo un po’ di spasso con la volpe prima di scuoiarla. Fu affumicata per primo dal vecchio signore di Lafeu. Quando il suo travestimento e lui si separeranno, ditemi che spratto lo troverete: e lo vedrete questa [[Night|notte]] stessa. 106 |
-| SECONDO SIGNORE [[Dumaine|DUMAINE]] | Devo andare a guardare le mie panie. Sarà preso. |
-| [[Bertram|BERTRAM]] | Vostro fratello verrà con me. |
-| *(didascalia)* | SECONDO SIGNORE [[Dumaine|DUMAINE]] Come piace a vostra signoria. Vi lascio. Esce |
-| [[Bertram|BERTRAM]] | Ora vi condurrò alla [[house|casa]], e vi mostrerò 111<br>la ragazza di cui parlai. |
-| *(didascalia)* | PRIMO SIGNORE [[Dumaine|DUMAINE]] Ma dite ch’è onesta. |
-| [[Bertram|BERTRAM]] | Questo è tutto il difetto. Le parlai una volta sola<br>e la trovai straordinariamente fredda; ma le mandai,<br>per mezzo di questo stesso fanfarone che abbiamo al [[Wind|vento]] 115,<br>pegni e lettere, ch’ella rimandò indietro,<br>e questo è tutto quel che ho fatto. È una bella creatura.<br>Volete andare a vederla? |
-| *(didascalia)* | PRIMO SIGNORE [[Dumaine|DUMAINE]] Con tutto il cuore, mio signore. |
+| [[Bertram\|BERTRAM]] | Ebbene, se ne avete lo stomaco, all’opera, monsieur. Se credete che il vostro mistero di stratagemmi possa riportare questo strumento d’[[Honour\|onore]] nel suo quartiere nativo, siate magnanimo nell’impresa e procedete. Onorerò il tentativo come degna prodezza. Se vi [[Speed\|riuscite]] [[Well\|bene]], il Duca ne parlerà e vi accorderà quanto ancora s’addice alla sua [[Greatness\|grandezza]], fino all’ultima sillaba del vostro merito. |
+| PAROLES | Per la mano d’un soldato, l’intraprenderò.<br>[[Bertram\|BERTRAM]]) Ma ora non dovete sonnecchiarvi sopra. |
+| PAROLES | Mi metterò all’opera questa sera, e stenderò subito per iscritto i miei dilemmi, m’incoraggerò nella mia certezza, mi porrò nella mia mortale preparazione; e verso mezzanotte aspettatevi d’aver altre notizie da me.<br>[[Bertram\|BERTRAM]]) Posso essere così ardito da informare sua grazia che siete andato a farlo? |
+| PAROLES | Non so quale sarà il [[success\|successo]], mio signore, ma il tentativo lo giuro.<br>[[Bertram\|BERTRAM]]) So che sei valoroso, e per quanto è possibile alla tua arte militare sottoscriverò per te. Addio. |
+| PAROLES | Non [[Love\|amo]] molte parole. Esce |
+| SECONDO SIGNORE [[Dumaine\|DUMAINE]] | Non più di quanto un pesce ami l’[[Water\|acqua]]. (A [[Bertram]]) Non è un tipo strano, mio signore, che con tanta sicurezza sembra intraprendere questo affare, che sa non potersi fare? Si danna per farlo, e preferisce esser dannato che farlo. |
+| PRIMO SIGNORE [[Dumaine\|DUMAINE]] | (a [[Bertram]]) Non lo conoscete, mio signore, come lo conosciamo noi. Certo è che s’insinua nel favore d’un uomo, e per una settimana sfugge a un gran numero di scoperte; ma quando l’avete scoperto, l’avete per sempre.<br>[[Bertram\|BERTRAM]]) Come, credete che non farà nulla di questo a cui si dedica così seriamente? |
+| SECONDO SIGNORE [[Dumaine\|DUMAINE]] | Nulla al mondo, ma tornerà con un’invenzione, e vi appiccicherà due o tre bugie plausibili. Ma l’abbiamo quasi stanato nel bosco. Vedrete la sua caduta stanotte; perché in verità non è degno della stima di vostra signoria. |
+| PRIMO SIGNORE [[Dumaine\|DUMAINE]] | (a [[Bertram]]) Vi daremo un po’ di spasso con la volpe prima di scuoiarla. Fu affumicata per primo dal vecchio signore di Lafeu. Quando il suo travestimento e lui si separeranno, ditemi che spratto lo troverete: e lo vedrete questa [[Night\|notte]] stessa. 106 |
+| SECONDO SIGNORE [[Dumaine\|DUMAINE]] | Devo andare a guardare le mie panie. Sarà preso. |
+| [[Bertram\|BERTRAM]] | Vostro fratello verrà con me. |
+| *(didascalia)* | SECONDO SIGNORE [[Dumaine\|DUMAINE]] Come piace a vostra signoria. Vi lascio. Esce |
+| [[Bertram\|BERTRAM]] | Ora vi condurrò alla [[house\|casa]], e vi mostrerò 111<br>la ragazza di cui parlai. |
+| *(didascalia)* | PRIMO SIGNORE [[Dumaine\|DUMAINE]] Ma dite ch’è onesta. |
+| [[Bertram\|BERTRAM]] | Questo è tutto il difetto. Le parlai una volta sola<br>e la trovai straordinariamente fredda; ma le mandai,<br>per mezzo di questo stesso fanfarone che abbiamo al [[Wind\|vento]] 115,<br>pegni e lettere, ch’ella rimandò indietro,<br>e questo è tutto quel che ho fatto. È una bella creatura.<br>Volete andare a vederla? |
+| *(didascalia)* | PRIMO SIGNORE [[Dumaine\|DUMAINE]] Con tutto il cuore, mio signore. |
 | *(didascalia)* | Escono |
 
 
@@ -2645,16 +2645,16 @@ All’s [[Well]] That Ends [[Well]]
 
 | Chi parla | Battuta |
 |---|---|
-| *(didascalia)* | Entrano [[Helen|Elena]] e la Vedova |
-| [[Helen|HELEN]] | Se dubitate di me, che io non sia colei,<br>non so come potrò assicurarvi di più<br>senza perdere il terreno su cui lavoro. |
-| VEDOVA | Sebbene il mio stato sia caduto, nacqui [[Well|bene]],<br>nulla avvezza a questi affari,<br>e non vorrei porre ora la mia reputazione<br>in nessun atto che la macchi. |
-| [[Helen|HELEN]] | Né io lo vorrei da voi.<br>Prima credetemi che il Conte è mio marito,<br>e che ciò che ho detto al vostro consiglio giurato<br>è così parola per parola; e allora non potrete,<br>col buon aiuto che da voi prenderò in prestito,<br>errare nel concederlo. |
-| VEDOVA | Dovrei credervi,<br>perché m’avete mostrato ciò che [[Well|bene]] prova<br>che siete grande di fortuna. |
-| [[Helen|HELEN]] | Prendete questa borsa d’oro,<br>e lasciate ch’io compri fin qui il vostro amichevole aiuto,<br>che ripagherò oltre misura, e pagherò di nuovo<br>quando l’avrò trovato. Il Conte corteggia vostra<br>figlia,<br>pone il suo lascivo assedio davanti alla sua [[Beauty|bellezza]],<br>risoluto a conquistarla. Ch’ella infine consenta,<br>come le insegneremo essere il modo migliore di condurre la cosa.<br>Ora il suo [[Blood|sangue]] impellente nulla negherà<br>di ciò ch’ella chiederà. Un anello porta il Conte,<br>che è discesso nella sua [[house|casa]]<br>di figlio in figlio per quattro o cinque generazioni<br>da che il primo padre lo portò. Quest’anello egli tiene<br>in ricchissimo pregio; e tuttavia, nel suo vano [[Fire|fuoco]],<br>per comprare la sua voglia non gli parrebbe troppo caro,<br>quantunque poi se ne penta. |
-| VEDOVA | Ora vedo il [[Bottom|fondo]] del vostro proposito. |
-| [[Helen|HELEN]] | Lo vedete dunque lecito. Non è altro<br>se non che vostra figlia, prima di sembrare conquistata,<br>desideri quest’anello; gli fissi un incontro;<br>e infine consegni me a riempire il [[Time|tempo]],<br>restando lei castissimamente assente. Dopo,<br>per maritarla aggiungerò tremila corone<br>a quanto è già passato. |
-| VEDOVA | Ho ceduto.<br>Istruite mia figlia come dovrà persistere,<br>sì che [[Time|tempo]] e luogo con questo inganno così lecito<br>si mostrino coerenti. Ogni [[Night|notte]] egli viene<br>con musiche d’ogni sorta, e [[songs|canzoni]] composte<br>alla sua indegnità. Nulla ci giova<br>scacciarlo dalle nostre grondaie, perché insiste<br>come se la sua vita ne dipendesse. |
-| [[Helen|HELEN]] | Ebbene, allora stanotte<br>[[Essay|tentiamo]] il nostro disegno, il quale, se [[Speed|riesce]],<br>è intenzione malvagia in un’azione lecita<br>e intenzione lecita in un atto malvagio,<br>dove entrambi non peccano, e tuttavia è un fatto peccaminoso.<br>Ma all’opera. Escono |
+| *(didascalia)* | Entrano [[Helen\|Elena]] e la Vedova |
+| [[Helen\|HELEN]] | Se dubitate di me, che io non sia colei,<br>non so come potrò assicurarvi di più<br>senza perdere il terreno su cui lavoro. |
+| VEDOVA | Sebbene il mio stato sia caduto, nacqui [[Well\|bene]],<br>nulla avvezza a questi affari,<br>e non vorrei porre ora la mia reputazione<br>in nessun atto che la macchi. |
+| [[Helen\|HELEN]] | Né io lo vorrei da voi.<br>Prima credetemi che il Conte è mio marito,<br>e che ciò che ho detto al vostro consiglio giurato<br>è così parola per parola; e allora non potrete,<br>col buon aiuto che da voi prenderò in prestito,<br>errare nel concederlo. |
+| VEDOVA | Dovrei credervi,<br>perché m’avete mostrato ciò che [[Well\|bene]] prova<br>che siete grande di fortuna. |
+| [[Helen\|HELEN]] | Prendete questa borsa d’oro,<br>e lasciate ch’io compri fin qui il vostro amichevole aiuto,<br>che ripagherò oltre misura, e pagherò di nuovo<br>quando l’avrò trovato. Il Conte corteggia vostra<br>figlia,<br>pone il suo lascivo assedio davanti alla sua [[Beauty\|bellezza]],<br>risoluto a conquistarla. Ch’ella infine consenta,<br>come le insegneremo essere il modo migliore di condurre la cosa.<br>Ora il suo [[Blood\|sangue]] impellente nulla negherà<br>di ciò ch’ella chiederà. Un anello porta il Conte,<br>che è discesso nella sua [[house\|casa]]<br>di figlio in figlio per quattro o cinque generazioni<br>da che il primo padre lo portò. Quest’anello egli tiene<br>in ricchissimo pregio; e tuttavia, nel suo vano [[Fire\|fuoco]],<br>per comprare la sua voglia non gli parrebbe troppo caro,<br>quantunque poi se ne penta. |
+| VEDOVA | Ora vedo il [[Bottom\|fondo]] del vostro proposito. |
+| [[Helen\|HELEN]] | Lo vedete dunque lecito. Non è altro<br>se non che vostra figlia, prima di sembrare conquistata,<br>desideri quest’anello; gli fissi un incontro;<br>e infine consegni me a riempire il [[Time\|tempo]],<br>restando lei castissimamente assente. Dopo,<br>per maritarla aggiungerò tremila corone<br>a quanto è già passato. |
+| VEDOVA | Ho ceduto.<br>Istruite mia figlia come dovrà persistere,<br>sì che [[Time\|tempo]] e luogo con questo inganno così lecito<br>si mostrino coerenti. Ogni [[Night\|notte]] egli viene<br>con musiche d’ogni sorta, e [[songs\|canzoni]] composte<br>alla sua indegnità. Nulla ci giova<br>scacciarlo dalle nostre grondaie, perché insiste<br>come se la sua vita ne dipendesse. |
+| [[Helen\|HELEN]] | Ebbene, allora stanotte<br>[[Essay\|tentiamo]] il nostro disegno, il quale, se [[Speed\|riesce]],<br>è intenzione malvagia in un’azione lecita<br>e intenzione lecita in un atto malvagio,<br>dove entrambi non peccano, e tuttavia è un fatto peccaminoso.<br>Ma all’opera. Escono |
 
 
 
@@ -2722,55 +2722,55 @@ All’s [[Well]] That Ends [[Well]]
 | Chi parla | Battuta |
 |---|---|
 | *(didascalia)* | Entra il Secondo Signore [[Dumaine]], con cinque o sei altri soldati, in imboscata |
-| *(didascalia)* | SECONDO SIGNORE [[Dumaine|DUMAINE]] Non può venire per altra via che da quest’angolo di siepe. Quando gli piombate addosso, parlate qualunque lingua terribile vi piaccia. Anche se voi stessi non la capite, non importa, perché non dobbiamo sembrare di capire lui, tranne uno fra noi, che dovremo produrre come interprete. 6 |
+| *(didascalia)* | SECONDO SIGNORE [[Dumaine\|DUMAINE]] Non può venire per altra via che da quest’angolo di siepe. Quando gli piombate addosso, parlate qualunque lingua terribile vi piaccia. Anche se voi stessi non la capite, non importa, perché non dobbiamo sembrare di capire lui, tranne uno fra noi, che dovremo produrre come interprete. 6 |
 | INTERPRETE | Buon capitano, lasciate che io sia l’interprete. |
-| *(didascalia)* | SECONDO SIGNORE [[Dumaine|DUMAINE]] Non sei suo conoscente? Non conosce la tua voce? |
+| *(didascalia)* | SECONDO SIGNORE [[Dumaine\|DUMAINE]] Non sei suo conoscente? Non conosce la tua voce? |
 | INTERPRETE | No, signore, ve lo garantisco. |
-| *(didascalia)* | SECONDO SIGNORE [[Dumaine|DUMAINE]] Ma che accozzaglia di lana e lino hai da rispondere a noi? |
+| *(didascalia)* | SECONDO SIGNORE [[Dumaine\|DUMAINE]] Ma che accozzaglia di lana e lino hai da rispondere a noi? |
 | INTERPRETE | Proprio quella che voi parlate a me. |
-| *(didascalia)* | SECONDO SIGNORE [[Dumaine|DUMAINE]] Deve crederci qualche banda di stranieri al servizio dell’avversario. Ora, egli ha un’infarinatura di tutte le lingue vicine, perciò ognuno di noi dev’essere uomo della propria fantasia. Non sapere ciò che ci diciamo l’uno all’altro, purché sembriamo saperlo, è sapere subito il nostro scopo: lingua di cornacchie, gracchiare quanto basta e va bene abbastanza. Quanto a te, interprete, devi sembrare molto astuto. Ma giù, olà! Eccolo che viene, a ingannare due ore in un [[Sleep|sonno]], e poi a tornare e giurare le bugie che forgia. |
-| *(didascalia)* | Si nascondono. Entra Paroles. L’[[Clock|orologio]] suona |
-| PAROLES | Dieci all’[[Clock|orologio]]. Entro queste tre ore ci sarà [[Time|tempo]] abbastanza per tornare a [[Home|casa]]. Che dirò d’aver fatto? Deve essere un’invenzione molto plausibile per riuscirci. Cominciano a sospettarmi, e le disgrazie hanno di recente battuto troppo spesso alla mia porta. Trovo che la mia lingua è troppo temeraria, ma il mio cuore ha davanti a sé la [[Fear|paura]] di Marte e delle sue creature, e non osa i vanti della mia lingua. 31 |
-| *(didascalia)* | SECONDO SIGNORE [[Dumaine|DUMAINE]] (a parte) Questa è la prima [[Truth|verità]] di cui la tua stessa lingua si sia mai resa colpevole. |
+| *(didascalia)* | SECONDO SIGNORE [[Dumaine\|DUMAINE]] Deve crederci qualche banda di stranieri al servizio dell’avversario. Ora, egli ha un’infarinatura di tutte le lingue vicine, perciò ognuno di noi dev’essere uomo della propria fantasia. Non sapere ciò che ci diciamo l’uno all’altro, purché sembriamo saperlo, è sapere subito il nostro scopo: lingua di cornacchie, gracchiare quanto basta e va bene abbastanza. Quanto a te, interprete, devi sembrare molto astuto. Ma giù, olà! Eccolo che viene, a ingannare due ore in un [[Sleep\|sonno]], e poi a tornare e giurare le bugie che forgia. |
+| *(didascalia)* | Si nascondono. Entra Paroles. L’[[Clock\|orologio]] suona |
+| PAROLES | Dieci all’[[Clock\|orologio]]. Entro queste tre ore ci sarà [[Time\|tempo]] abbastanza per tornare a [[Home\|casa]]. Che dirò d’aver fatto? Deve essere un’invenzione molto plausibile per riuscirci. Cominciano a sospettarmi, e le disgrazie hanno di recente battuto troppo spesso alla mia porta. Trovo che la mia lingua è troppo temeraria, ma il mio cuore ha davanti a sé la [[Fear\|paura]] di Marte e delle sue creature, e non osa i vanti della mia lingua. 31 |
+| *(didascalia)* | SECONDO SIGNORE [[Dumaine\|DUMAINE]] (a parte) Questa è la prima [[Truth\|verità]] di cui la tua stessa lingua si sia mai resa colpevole. |
 | PAROLES | Che diavolo dovette spingermi a intraprendere il ricupero di questo tamburo, non essendo ignaro dell’impossibilità, e sapendo che non ne avevo l’intenzione? Devo darmi qualche ferita, e dire che le presi nell’impresa. Ma quelle leggere non basteranno. Diranno: «Ne siete uscito con così poco?» E grandi non oso darmene. Perciò, qual è la prova? Lingua, devo metterti nella bocca d’una lattaia e comprarmene un’altra dal muto di Bajazet, se mi chiacchieri dentro questi pericoli. |
-| *(didascalia)* | SECONDO SIGNORE [[Dumaine|DUMAINE]] (a parte) È possibile che sappia quel che è, ed essere quel che è? |
-| PAROLES | Vorrei che il tagliarmi le vesti bastasse allo scopo, o il rompere la mia [[Sword|spada]] spagnola. |
-| *(didascalia)* | SECONDO SIGNORE [[Dumaine|DUMAINE]] (a parte) Non possiamo concedertelo a questo prezzo. |
+| *(didascalia)* | SECONDO SIGNORE [[Dumaine\|DUMAINE]] (a parte) È possibile che sappia quel che è, ed essere quel che è? |
+| PAROLES | Vorrei che il tagliarmi le vesti bastasse allo scopo, o il rompere la mia [[Sword\|spada]] spagnola. |
+| *(didascalia)* | SECONDO SIGNORE [[Dumaine\|DUMAINE]] (a parte) Non possiamo concedertelo a questo prezzo. |
 | PAROLES | O il radermi la barba, e dire che fu per stratagemma. |
-| *(didascalia)* | SECONDO SIGNORE [[Dumaine|DUMAINE]] (a parte) Non basterebbe. |
+| *(didascalia)* | SECONDO SIGNORE [[Dumaine\|DUMAINE]] (a parte) Non basterebbe. |
 | PAROLES | O l’affogare i miei abiti, e dire che fui spogliato. |
-| *(didascalia)* | SECONDO SIGNORE [[Dumaine|DUMAINE]] (a parte) Basterebbe a fatica. |
-| *(didascalia)* | PAROLES E se giurassi d’essere saltato dalla [[Window|finestra]] della cittadella? 55 SECONDO SIGNORE [[Dumaine|DUMAINE]] (a parte) Da che altezza? |
+| *(didascalia)* | SECONDO SIGNORE [[Dumaine\|DUMAINE]] (a parte) Basterebbe a fatica. |
+| *(didascalia)* | PAROLES E se giurassi d’essere saltato dalla [[Window\|finestra]] della cittadella? 55 SECONDO SIGNORE [[Dumaine\|DUMAINE]] (a parte) Da che altezza? |
 | PAROLES | Trenta braccia. |
-| *(didascalia)* | SECONDO SIGNORE [[Dumaine|DUMAINE]] (a parte) Tre grandi giuramenti a fatica lo farebbero credere. |
+| *(didascalia)* | SECONDO SIGNORE [[Dumaine\|DUMAINE]] (a parte) Tre grandi giuramenti a fatica lo farebbero credere. |
 | PAROLES | Vorrei avere un qualsiasi tamburo del nemico. Giurerei d’averlo ricuperato. |
-| *(didascalia)* | SECONDO SIGNORE [[Dumaine|DUMAINE]] (a parte) Ne udirai uno fra poco. |
+| *(didascalia)* | SECONDO SIGNORE [[Dumaine\|DUMAINE]] (a parte) Ne udirai uno fra poco. |
 | *(didascalia)* | PAROLES Un tamburo ora del nemico—Allarme dentro. L’imboscata si slancia fuori |
-| *(didascalia)* | SECONDO SIGNORE [[Dumaine|DUMAINE]] Throca movousus, cargo, cargo, cargo. |
+| *(didascalia)* | SECONDO SIGNORE [[Dumaine\|DUMAINE]] Throca movousus, cargo, cargo, cargo. |
 | *(didascalia)* | SOLDATI (separatamente) Cargo, cargo, cargo, villianda par corbo, cargo. |
 | *(didascalia)* | Lo afferrano e gli bendano gli occhi |
 | PAROLES | Oh riscatto, riscatto, non mi coprite gli occhi. |
 | INTERPRETE | Boskos thromuldo boskos. |
 | PAROLES | So che siete il reggimento di Mosca,<br>e perderò la vita per mancanza di lingua.<br>Se c’è qui un Tedesco o un Danese, un Olandese,<br>un Italiano o un Francese, che mi parli,<br>rivelerò ciò che rovinerà il Fiorentino. |
-| INTERPRETE | Boskos vauvado.—<br>Ti capisco, e posso parlare la tua lingua.—<br>Kerelybonto.—Signore,<br>raccomandati alla tua [[Faith|fede]], perché diciassette pugnali<br>sono al tuo petto. |
+| INTERPRETE | Boskos vauvado.—<br>Ti capisco, e posso parlare la tua lingua.—<br>Kerelybonto.—Signore,<br>raccomandati alla tua [[Faith\|fede]], perché diciassette pugnali<br>sono al tuo petto. |
 | PAROLES | Oh! |
 | INTERPRETE | Oh prega, prega, prega!—<br>Manka revania dulche? 80 |
-| *(didascalia)* | SECONDO SIGNORE [[Dumaine|DUMAINE]] |
+| *(didascalia)* | SECONDO SIGNORE [[Dumaine\|DUMAINE]] |
 | INTERPRETE | Oscorbidulchos volivorco. |
 | INTERPRETE | Il generale è contento di risparmiarti per ora,<br>e, incappucciato come sei, ti condurrà avanti<br>per raccogliere da te. Forse potrai informare<br>di qualcosa che salvi la tua vita. |
-| PAROLES | Oh lasciatemi vivere,<br>e mostrerò tutti i [[Secrets|segreti]] del nostro campo,<br>le loro forze, i loro propositi; anzi, dirò cose<br>di cui vi [[Wonder|meraviglierete]]. |
+| PAROLES | Oh lasciatemi vivere,<br>e mostrerò tutti i [[Secrets\|segreti]] del nostro campo,<br>le loro forze, i loro propositi; anzi, dirò cose<br>di cui vi [[Wonder\|meraviglierete]]. |
 | INTERPRETE | Ma lo farai fedelmente? |
 | PAROLES | Se non lo faccio, ch’io sia dannato. |
 | INTERPRETE | Acordo linta.—<br>Avanti, ti è concessa tregua. 90 |
 | *(didascalia)* | Escono tutti tranne il Secondo Signore [[Dumaine]] e un Soldato |
 | INTERPRETE | Un breve allarme dentro |
-| *(didascalia)* | SECONDO SIGNORE [[Dumaine|DUMAINE]] |
+| *(didascalia)* | SECONDO SIGNORE [[Dumaine\|DUMAINE]] |
 | INTERPRETE | Va’ a dire al conte di Rossiglione e a mio fratello<br>che abbiamo preso la beccaccia, e lo terremo<br>imbacuccato<br>finché non udiamo da loro. |
 | SOLDATO | Capitano, così farò. |
-| *(didascalia)* | SECONDO SIGNORE [[Dumaine|DUMAINE]] |
+| *(didascalia)* | SECONDO SIGNORE [[Dumaine\|DUMAINE]] |
 | SOLDATO | Ci tradirà tutti a noi stessi.<br>Informane. |
 | SOLDATO | Così farò, signore. |
-| *(didascalia)* | SECONDO SIGNORE [[Dumaine|DUMAINE]] |
+| *(didascalia)* | SECONDO SIGNORE [[Dumaine\|DUMAINE]] |
 | SOLDATO | Fino allora lo terrò all’oscuro e ben serrato. |
 | *(didascalia)* | Escono separatamente |
 
@@ -2807,24 +2807,24 @@ All’s [[Well]] That Ends [[Well]]
 | Chi parla | Battuta |
 |---|---|
 | *(didascalia)* | Entrano [[Bertram]] e la fanciulla chiamata [[Diana]] |
-| [[Bertram|BERTRAM]] | Mi dissero che il vostro nome era Fontibel. |
-| [[Diana|DIANA]] | No, mio buon signore, [[Diana]]. |
-| [[Bertram|BERTRAM]] | Nome di dea,<br>e ne siete degna, e di più. Ma, bella [[Soul|anima]],<br>nella vostra fine struttura l’[[Love|amore]] non ha qualità?<br>Se il vivo [[Fire|fuoco]] della gioventù non v’accende la mente,<br>non siete fanciulla ma monumento.<br>Quando sarete morta dovreste essere tale<br>quale siete adesso, perché siete fredda e severa,<br>e ora dovreste essere come vostra madre fu<br>quando il vostro dolce [[Self|essere]] fu generato. |
-| [[Diana|DIANA]] | Ella allora fu onesta. |
-| [[Bertram|BERTRAM]] | Così dovreste essere voi. |
-| [[Diana|DIANA]] | No.<br>Mia madre fece solo il suo dovere; tale, mio signore,<br>quale voi dovete a vostra moglie.<br>[[Bertram|BERTRAM]])<br>Basta di questo.<br>Ti prego, non lottare contro i miei voti.<br>A lei fui costretto, ma te [[Love|amo]]<br>per la dolce costrizione dell’[[Love|amore]] stesso, e per sempre<br>ti renderò ogni diritto di servizio. |
-| [[Diana|DIANA]] | Sì, così ci servite<br>finché noi non serviamo voi. Ma quando avete le nostre rose,<br>ci lasciate appena le spine per pungerci,<br>e ci schernite della nostra nudità.<br>[[Bertram|BERTRAM]])<br>Come ho giurato! |
-| [[Diana|DIANA]] | Non sono i molti giuramenti che fanno la [[Truth|verità]],<br>ma il semplice voto unico giurato con sincerità.<br>Ciò che non è santo, per quello non giuriamo,<br>ma prendiamo a testimone l’altissimo; dunque, vi prego, ditemi:<br>se giurassi per i grandi attributi di Giove<br>che v’amo caramente, credereste ai miei giuramenti<br>quando male v’[[Love|amassi]]? Non ha tenuta<br>giurare per colui che protesto d’[[Love|amare]]<br>che opererò contro di lui. Perciò i vostri giuramenti<br>sono parole e povere clausole, ma non sigillate,<br>almeno a mio parere.<br>[[Bertram|BERTRAM]])<br>Cambia parere, cambia.<br>Non essere così santamente crudele. L’[[Love|Amore]] è santo,<br>e la mia integrità non conobbe mai le astuzie<br>di cui accusi gli uomini. Non stare più in disparte,<br>ma dàtti ai miei desideri malati,<br>che allora guariscono. Di’ che sei mia, e sempre<br>il mio [[Love|amore]], come comincia, così persisterà. |
-| [[Diana|DIANA]] | Vedo che gli uomini fanno giocattoli d’una tale garanzia<br>che noi abbandoniamo noi stesse. Datemi quell’anello. |
-| [[Bertram|BERTRAM]] | Te lo presterò, mia cara, ma non ho potere<br>di darlo via da me. |
-| [[Diana|DIANA]] | Non volete, mio signore? |
-| [[Bertram|BERTRAM]] | È un [[Honour|onore]] [[Longing|appartenente]] alla nostra [[house|casa]],<br>tramandato da molti antenati,<br>e sarebbe la più grande infamia del mondo<br>ch’io lo perdessi. |
-| [[Diana|DIANA]] | Il mio [[Honour|onore]] è un tale anello.<br>La mia castità è il [[Jewel|gioiello]] della nostra [[house|casa]],<br>tramandato da molti antenati,<br>e sarebbe la più grande infamia del mondo<br>ch’io lo perdessi. Così la vostra propria saggezza<br>chiama in campo l’[[Honour|Onore]] come mio campione<br>contro il vostro vano assalto.<br>[[Bertram|BERTRAM]])<br>Ecco, prendi il mio anello.<br>La mia [[house|casa]], il mio [[Honour|onore]], sì la mia vita sia tua,<br>e sarò ai tuoi comandi. |
-| [[Diana|DIANA]] | Quando viene mezzanotte, battete alla [[Window|finestra]] della mia camera.<br>Provvederò che mia madre non senta.<br>Ora v’ingiungerò, nel vincolo della [[Truth|verità]],<br>quando avrete conquistato il mio letto ancora virgineo,<br>di restarvi solo un’ora, e di non parlarmi—<br>le mie ragioni sono fortissime, e le conoscerete<br>quando quest’anello vi sarà restituito—<br>e al vostro dito nella [[Night|notte]] porrò<br>un altro anello, sì che ciò che nel [[Time|tempo]] procede<br>possa attestare al futuro le nostre azioni passate.<br>Addio fino allora; allora, non mancate. Avete conquistato<br>in me una moglie, sebbene lì la mia [[Hope|speranza]] sia finita. |
-| [[Bertram|BERTRAM]] | Un cielo in terra ho conquistato corteggiandoti. |
-| [[Diana|DIANA]] | Per il quale vivete lungamente a ringraziare il cielo e me. |
+| [[Bertram\|BERTRAM]] | Mi dissero che il vostro nome era Fontibel. |
+| [[Diana\|DIANA]] | No, mio buon signore, [[Diana]]. |
+| [[Bertram\|BERTRAM]] | Nome di dea,<br>e ne siete degna, e di più. Ma, bella [[Soul\|anima]],<br>nella vostra fine struttura l’[[Love\|amore]] non ha qualità?<br>Se il vivo [[Fire\|fuoco]] della gioventù non v’accende la mente,<br>non siete fanciulla ma monumento.<br>Quando sarete morta dovreste essere tale<br>quale siete adesso, perché siete fredda e severa,<br>e ora dovreste essere come vostra madre fu<br>quando il vostro dolce [[Self\|essere]] fu generato. |
+| [[Diana\|DIANA]] | Ella allora fu onesta. |
+| [[Bertram\|BERTRAM]] | Così dovreste essere voi. |
+| [[Diana\|DIANA]] | No.<br>Mia madre fece solo il suo dovere; tale, mio signore,<br>quale voi dovete a vostra moglie.<br>[[Bertram\|BERTRAM]])<br>Basta di questo.<br>Ti prego, non lottare contro i miei voti.<br>A lei fui costretto, ma te [[Love\|amo]]<br>per la dolce costrizione dell’[[Love\|amore]] stesso, e per sempre<br>ti renderò ogni diritto di servizio. |
+| [[Diana\|DIANA]] | Sì, così ci servite<br>finché noi non serviamo voi. Ma quando avete le nostre rose,<br>ci lasciate appena le spine per pungerci,<br>e ci schernite della nostra nudità.<br>[[Bertram\|BERTRAM]])<br>Come ho giurato! |
+| [[Diana\|DIANA]] | Non sono i molti giuramenti che fanno la [[Truth\|verità]],<br>ma il semplice voto unico giurato con sincerità.<br>Ciò che non è santo, per quello non giuriamo,<br>ma prendiamo a testimone l’altissimo; dunque, vi prego, ditemi:<br>se giurassi per i grandi attributi di Giove<br>che v’amo caramente, credereste ai miei giuramenti<br>quando male v’[[Love\|amassi]]? Non ha tenuta<br>giurare per colui che protesto d’[[Love\|amare]]<br>che opererò contro di lui. Perciò i vostri giuramenti<br>sono parole e povere clausole, ma non sigillate,<br>almeno a mio parere.<br>[[Bertram\|BERTRAM]])<br>Cambia parere, cambia.<br>Non essere così santamente crudele. L’[[Love\|Amore]] è santo,<br>e la mia integrità non conobbe mai le astuzie<br>di cui accusi gli uomini. Non stare più in disparte,<br>ma dàtti ai miei desideri malati,<br>che allora guariscono. Di’ che sei mia, e sempre<br>il mio [[Love\|amore]], come comincia, così persisterà. |
+| [[Diana\|DIANA]] | Vedo che gli uomini fanno giocattoli d’una tale garanzia<br>che noi abbandoniamo noi stesse. Datemi quell’anello. |
+| [[Bertram\|BERTRAM]] | Te lo presterò, mia cara, ma non ho potere<br>di darlo via da me. |
+| [[Diana\|DIANA]] | Non volete, mio signore? |
+| [[Bertram\|BERTRAM]] | È un [[Honour\|onore]] [[Longing\|appartenente]] alla nostra [[house\|casa]],<br>tramandato da molti antenati,<br>e sarebbe la più grande infamia del mondo<br>ch’io lo perdessi. |
+| [[Diana\|DIANA]] | Il mio [[Honour\|onore]] è un tale anello.<br>La mia castità è il [[Jewel\|gioiello]] della nostra [[house\|casa]],<br>tramandato da molti antenati,<br>e sarebbe la più grande infamia del mondo<br>ch’io lo perdessi. Così la vostra propria saggezza<br>chiama in campo l’[[Honour\|Onore]] come mio campione<br>contro il vostro vano assalto.<br>[[Bertram\|BERTRAM]])<br>Ecco, prendi il mio anello.<br>La mia [[house\|casa]], il mio [[Honour\|onore]], sì la mia vita sia tua,<br>e sarò ai tuoi comandi. |
+| [[Diana\|DIANA]] | Quando viene mezzanotte, battete alla [[Window\|finestra]] della mia camera.<br>Provvederò che mia madre non senta.<br>Ora v’ingiungerò, nel vincolo della [[Truth\|verità]],<br>quando avrete conquistato il mio letto ancora virgineo,<br>di restarvi solo un’ora, e di non parlarmi—<br>le mie ragioni sono fortissime, e le conoscerete<br>quando quest’anello vi sarà restituito—<br>e al vostro dito nella [[Night\|notte]] porrò<br>un altro anello, sì che ciò che nel [[Time\|tempo]] procede<br>possa attestare al futuro le nostre azioni passate.<br>Addio fino allora; allora, non mancate. Avete conquistato<br>in me una moglie, sebbene lì la mia [[Hope\|speranza]] sia finita. |
+| [[Bertram\|BERTRAM]] | Un cielo in terra ho conquistato corteggiandoti. |
+| [[Diana\|DIANA]] | Per il quale vivete lungamente a ringraziare il cielo e me. |
 | *(didascalia)* | Potreste farlo alla fine. Esce [[Bertram]] |
-| [[Diana|DIANA]] | Mia madre mi disse proprio come avrebbe corteggiato,<br>come se sedesse nel suo cuore. Dice che tutti gli uomini<br>hanno simili giuramenti. Aveva giurato di sposarmi<br>quando sua moglie fosse morta; perciò giacerò con lui<br>quando io sarò sepolta. Poiché i Francesi sono così falsi,<br>si mariti chi vuole; io vivo e muoio fanciulla.<br>Solo, in questo travestimento non credo sia peccato<br>ingannare chi vorrebbe vincere ingiustamente. Esce |
+| [[Diana\|DIANA]] | Mia madre mi disse proprio come avrebbe corteggiato,<br>come se sedesse nel suo cuore. Dice che tutti gli uomini<br>hanno simili giuramenti. Aveva giurato di sposarmi<br>quando sua moglie fosse morta; perciò giacerò con lui<br>quando io sarò sepolta. Poiché i Francesi sono così falsi,<br>si mariti chi vuole; io vivo e muoio fanciulla.<br>Solo, in questo travestimento non credo sia peccato<br>ingannare chi vorrebbe vincere ingiustamente. Esce |
 
 
 
@@ -2967,132 +2967,132 @@ All’s [[Well]] That Ends [[Well]]
 | Chi parla | Battuta |
 |---|---|
 | *(didascalia)* | Entrano i due Capitani [[Dumaine]] e due o tre soldati |
-| PRIMO SIGNORE [[Dumaine|DUMAINE]] | Non gli avete dato la lettera di sua madre? |
-| SECONDO SIGNORE [[Dumaine|DUMAINE]] | L’ho consegnata un’ora fa. C’è qualcosa dentro che punge la sua [[Nature|natura]], perché alla lettura egli è quasi mutato in un altro uomo. |
-| PRIMO SIGNORE [[Dumaine|DUMAINE]] | Gli si addossa molto meritato biasimo per aver scrollato via una moglie così buona e una signora così dolce. |
-| SECONDO SIGNORE [[Dumaine|DUMAINE]] | Soprattutto ha incorso nell’eterno dispiacere del [[King|Re]], che aveva perfino accordato la sua liberalità per cantargli felicità. Vi dirò una cosa, ma dovrete lasciarla dimorare all’oscuro presso di voi. |
-| PRIMO SIGNORE [[Dumaine|DUMAINE]] | Quando l’avrete detta è morta, e io ne sono il [[Grave|sepolcro]]. |
-| SECONDO SIGNORE [[Dumaine|DUMAINE]] | Ha pervertito qui in Firenze una giovane gentildonna di castissima fama, e questa [[Night|notte]] sazia la sua voglia nella spoglia del suo [[Honour|onore]]. Le ha dato il suo anello monumentale, e si crede fatto in quella composizione impura. |
-| PRIMO SIGNORE [[Dumaine|DUMAINE]] | Ora Dio ritardi la nostra ribellione! Come siamo noi stessi, che cose siamo! |
-| SECONDO SIGNORE [[Dumaine|DUMAINE]] | Meri traditori di noi stessi. E come nel corso comune di tutti i tradimenti li vediamo sempre rivelarsi finché raggiungono i loro aborriti fini, così colui che in quest’azione trama contro la propria nobiltà, nel proprio flusso trabocca da sé. |
-| PRIMO SIGNORE [[Dumaine|DUMAINE]] | Non è ritenuto dannabile in noi essere trombettieri dei nostri intenti illeciti? Non avremo dunque la sua compagnia stanotte? |
-| SECONDO SIGNORE [[Dumaine|DUMAINE]] | Non prima di dopo mezzanotte, perché è messo a dieta fino alla sua ora. |
-| PRIMO SIGNORE [[Dumaine|DUMAINE]] | Che s’avvicina a gran passi. Vorrei volentieri che vedesse anatomizzato il suo compagno, per poter prendere la misura dei propri giudizi, nei quali con tanta cura aveva incastonato questo falso. |
-| SECONDO SIGNORE [[Dumaine|DUMAINE]] | Non ci occuperemo di lui finché non venga, perché la sua presenza deve essere il flagello dell’altro. |
-| PRIMO SIGNORE [[Dumaine|DUMAINE]] | Nel [[Time|frattempo]], che sentite di queste guerre? |
-| SECONDO SIGNORE [[Dumaine|DUMAINE]] | Sento che c’è un’apertura di pace. |
-| PRIMO SIGNORE [[Dumaine|DUMAINE]] | Anzi, v’assicuro, una pace conclusa. |
-| SECONDO SIGNORE [[Dumaine|DUMAINE]] | Che farà allora il conte di Rossiglione? Viaggerà più oltre, o tornerà di nuovo in Francia? |
-| PRIMO SIGNORE [[Dumaine|DUMAINE]] | Vedo da questa domanda che non siete del tutto nel suo consiglio. |
-| SECONDO SIGNORE [[Dumaine|DUMAINE]] | Dio non voglia, signore; altrimenti sarei per gran parte complice del suo atto. |
-| PRIMO SIGNORE [[Dumaine|DUMAINE]] | Signore, sua moglie, circa due mesi fa, fuggì dalla sua [[house|casa]]. Il suo pretesto è un pellegrinaggio a San [[Jaques|Giacomo]] il Grande, santa impresa che con austerissima devozione compì; e là dimorando, la tenerezza della sua [[Nature|natura]] divenne preda del suo dolore: in fine, fece un gemito del suo ultimo respiro, e ora canta in cielo. |
-| SECONDO SIGNORE [[Dumaine|DUMAINE]] | Come è comprovato questo? |
-| PRIMO SIGNORE [[Dumaine|DUMAINE]] | La parte più forte per le sue proprie lettere, che rendono vera la sua storia fino al punto della sua [[Death|morte]]. La sua [[Death|morte]] stessa, che non poteva essere suo ufficio dire che era venuta, fu fedelmente confermata dal rettore del luogo. |
-| SECONDO SIGNORE [[Dumaine|DUMAINE]] | Ha il Conte tutte queste notizie? |
-| PRIMO SIGNORE [[Dumaine|DUMAINE]] | Sì, e le conferme particolari, punto per punto, fino al pieno armamento della verità. |
-| SECONDO SIGNORE [[Dumaine|DUMAINE]] | Mi dispiace di cuore che ne sarà contento. |
-| PRIMO SIGNORE [[Dumaine|DUMAINE]] | Con quanta forza a volte ci facciamo conforto delle nostre perdite. |
-| SECONDO SIGNORE [[Dumaine|DUMAINE]] | E con quanta forza altre volte affoghiamo il nostro guadagno nelle [[Tears|lacrime]]. La grande dignità che il suo valore gli ha qui acquistato sarà a [[Home|casa]] incontrata da una vergogna altrettanto ampia. |
-| PRIMO SIGNORE [[Dumaine|DUMAINE]] | La tela della nostra vita è d’un filo mescolato, bene e male insieme. Le nostre virtù sarebbero superbe se le nostre colpe non le frustassero, e i nostri delitti [[Despair|dispererebbero]] se non fossero accarezzati dalle nostre virtù. |
+| PRIMO SIGNORE [[Dumaine\|DUMAINE]] | Non gli avete dato la lettera di sua madre? |
+| SECONDO SIGNORE [[Dumaine\|DUMAINE]] | L’ho consegnata un’ora fa. C’è qualcosa dentro che punge la sua [[Nature\|natura]], perché alla lettura egli è quasi mutato in un altro uomo. |
+| PRIMO SIGNORE [[Dumaine\|DUMAINE]] | Gli si addossa molto meritato biasimo per aver scrollato via una moglie così buona e una signora così dolce. |
+| SECONDO SIGNORE [[Dumaine\|DUMAINE]] | Soprattutto ha incorso nell’eterno dispiacere del [[King\|Re]], che aveva perfino accordato la sua liberalità per cantargli felicità. Vi dirò una cosa, ma dovrete lasciarla dimorare all’oscuro presso di voi. |
+| PRIMO SIGNORE [[Dumaine\|DUMAINE]] | Quando l’avrete detta è morta, e io ne sono il [[Grave\|sepolcro]]. |
+| SECONDO SIGNORE [[Dumaine\|DUMAINE]] | Ha pervertito qui in Firenze una giovane gentildonna di castissima fama, e questa [[Night\|notte]] sazia la sua voglia nella spoglia del suo [[Honour\|onore]]. Le ha dato il suo anello monumentale, e si crede fatto in quella composizione impura. |
+| PRIMO SIGNORE [[Dumaine\|DUMAINE]] | Ora Dio ritardi la nostra ribellione! Come siamo noi stessi, che cose siamo! |
+| SECONDO SIGNORE [[Dumaine\|DUMAINE]] | Meri traditori di noi stessi. E come nel corso comune di tutti i tradimenti li vediamo sempre rivelarsi finché raggiungono i loro aborriti fini, così colui che in quest’azione trama contro la propria nobiltà, nel proprio flusso trabocca da sé. |
+| PRIMO SIGNORE [[Dumaine\|DUMAINE]] | Non è ritenuto dannabile in noi essere trombettieri dei nostri intenti illeciti? Non avremo dunque la sua compagnia stanotte? |
+| SECONDO SIGNORE [[Dumaine\|DUMAINE]] | Non prima di dopo mezzanotte, perché è messo a dieta fino alla sua ora. |
+| PRIMO SIGNORE [[Dumaine\|DUMAINE]] | Che s’avvicina a gran passi. Vorrei volentieri che vedesse anatomizzato il suo compagno, per poter prendere la misura dei propri giudizi, nei quali con tanta cura aveva incastonato questo falso. |
+| SECONDO SIGNORE [[Dumaine\|DUMAINE]] | Non ci occuperemo di lui finché non venga, perché la sua presenza deve essere il flagello dell’altro. |
+| PRIMO SIGNORE [[Dumaine\|DUMAINE]] | Nel [[Time\|frattempo]], che sentite di queste guerre? |
+| SECONDO SIGNORE [[Dumaine\|DUMAINE]] | Sento che c’è un’apertura di pace. |
+| PRIMO SIGNORE [[Dumaine\|DUMAINE]] | Anzi, v’assicuro, una pace conclusa. |
+| SECONDO SIGNORE [[Dumaine\|DUMAINE]] | Che farà allora il conte di Rossiglione? Viaggerà più oltre, o tornerà di nuovo in Francia? |
+| PRIMO SIGNORE [[Dumaine\|DUMAINE]] | Vedo da questa domanda che non siete del tutto nel suo consiglio. |
+| SECONDO SIGNORE [[Dumaine\|DUMAINE]] | Dio non voglia, signore; altrimenti sarei per gran parte complice del suo atto. |
+| PRIMO SIGNORE [[Dumaine\|DUMAINE]] | Signore, sua moglie, circa due mesi fa, fuggì dalla sua [[house\|casa]]. Il suo pretesto è un pellegrinaggio a San [[Jaques\|Giacomo]] il Grande, santa impresa che con austerissima devozione compì; e là dimorando, la tenerezza della sua [[Nature\|natura]] divenne preda del suo dolore: in fine, fece un gemito del suo ultimo respiro, e ora canta in cielo. |
+| SECONDO SIGNORE [[Dumaine\|DUMAINE]] | Come è comprovato questo? |
+| PRIMO SIGNORE [[Dumaine\|DUMAINE]] | La parte più forte per le sue proprie lettere, che rendono vera la sua storia fino al punto della sua [[Death\|morte]]. La sua [[Death\|morte]] stessa, che non poteva essere suo ufficio dire che era venuta, fu fedelmente confermata dal rettore del luogo. |
+| SECONDO SIGNORE [[Dumaine\|DUMAINE]] | Ha il Conte tutte queste notizie? |
+| PRIMO SIGNORE [[Dumaine\|DUMAINE]] | Sì, e le conferme particolari, punto per punto, fino al pieno armamento della verità. |
+| SECONDO SIGNORE [[Dumaine\|DUMAINE]] | Mi dispiace di cuore che ne sarà contento. |
+| PRIMO SIGNORE [[Dumaine\|DUMAINE]] | Con quanta forza a volte ci facciamo conforto delle nostre perdite. |
+| SECONDO SIGNORE [[Dumaine\|DUMAINE]] | E con quanta forza altre volte affoghiamo il nostro guadagno nelle [[Tears\|lacrime]]. La grande dignità che il suo valore gli ha qui acquistato sarà a [[Home\|casa]] incontrata da una vergogna altrettanto ampia. |
+| PRIMO SIGNORE [[Dumaine\|DUMAINE]] | La tela della nostra vita è d’un filo mescolato, bene e male insieme. Le nostre virtù sarebbero superbe se le nostre colpe non le frustassero, e i nostri delitti [[Despair\|dispererebbero]] se non fossero accarezzati dalle nostre virtù. |
 | *(didascalia)* | Entra un Servo |
-| PRIMO SIGNORE [[Dumaine|DUMAINE]] | Ebbene? Dov’è il tuo padrone? |
-| SERVANT | Ha incontrato il Duca nella strada, signore, dal quale ha preso solenne congedo. Sua signoria partirà domattina per la Francia. Il Duca gli ha offerto lettere di raccomandazione per il [[King|Re]]. |
-| SECONDO SIGNORE [[Dumaine|DUMAINE]] | Non saranno più che necessarie là, quand’anche fossero più di quanto possano raccomandare. |
+| PRIMO SIGNORE [[Dumaine\|DUMAINE]] | Ebbene? Dov’è il tuo padrone? |
+| SERVANT | Ha incontrato il Duca nella strada, signore, dal quale ha preso solenne congedo. Sua signoria partirà domattina per la Francia. Il Duca gli ha offerto lettere di raccomandazione per il [[King\|Re]]. |
+| SECONDO SIGNORE [[Dumaine\|DUMAINE]] | Non saranno più che necessarie là, quand’anche fossero più di quanto possano raccomandare. |
 | *(didascalia)* | Entra [[Bertram]] |
-| *(didascalia)* | PRIMO SIGNORE [[Dumaine|DUMAINE]] Non possono essere troppo dolci per l’asprezza del [[King|Re]]. Ecco ora sua signoria. Ebbene, mio signore, non è passata mezzanotte? |
-| [[Bertram|BERTRAM]] | Stanotte ho sbrigato sedici affari, ciascuno lungo un mese. In un compendio di [[success|successo]]: ho preso congé dal Duca, fatto il mio addio ai suoi più intimi, seppellito una moglie, pianto per lei, scritto alla mia signora madre che torno, provveduto alla mia scorta, e fra queste principali partite di sbrigo ho compiuto molti bisogni più delicati. L’ultimo era il maggiore, ma quello non l’ho ancora finito. |
-| SECONDO SIGNORE [[Dumaine|DUMAINE]] | Se l’affare è di qualche difficoltà, e stamattina è la vostra partenza di qui, richiede fretta da vostra signoria. |
-| [[Bertram|BERTRAM]] | Voglio dire che l’affare non è finito, temendo d’averne a sentir parlare in seguito. Ma avremo questo dialogo fra il [[Fool|Buffone]] e il Soldato? Su, portate avanti questo modello contraffatto, che m’ha ingannato come un profeta dal [[Double|doppio]] senso. |
-| SECONDO SIGNORE [[Dumaine|DUMAINE]] | Portatelo avanti. Esce uno o più È stato in gogna tutta la [[Night|notte]], povero furfante galante. 105 |
-| [[Bertram|BERTRAM]] | Non importa, i suoi calcagni l’han meritato, usurpando così a lungo i suoi sproni. Come si comporta? |
-| SECONDO SIGNORE [[Dumaine|DUMAINE]] | L’ho già detto a vostra signoria: la gogna lo porta. Ma per rispondervi come volete essere inteso, piange come una serva che abbia versato il latte. S’è confessato a Morgan, che egli suppone essere un frate, dal [[Time|tempo]] della sua memoria fino a questo stesso disastro del suo esser messo in gogna. E che credete che abbia confessato? |
-| [[Bertram|BERTRAM]] | Nulla di me, vero? |
-| SECONDO SIGNORE [[Dumaine|DUMAINE]] | La sua confessione è presa, e gli sarà letta in faccia. Se vostra signoria vi è dentro, come credo che sia, dovrete avere la pazienza d’ascoltarla. |
+| *(didascalia)* | PRIMO SIGNORE [[Dumaine\|DUMAINE]] Non possono essere troppo dolci per l’asprezza del [[King\|Re]]. Ecco ora sua signoria. Ebbene, mio signore, non è passata mezzanotte? |
+| [[Bertram\|BERTRAM]] | Stanotte ho sbrigato sedici affari, ciascuno lungo un mese. In un compendio di [[success\|successo]]: ho preso congé dal Duca, fatto il mio addio ai suoi più intimi, seppellito una moglie, pianto per lei, scritto alla mia signora madre che torno, provveduto alla mia scorta, e fra queste principali partite di sbrigo ho compiuto molti bisogni più delicati. L’ultimo era il maggiore, ma quello non l’ho ancora finito. |
+| SECONDO SIGNORE [[Dumaine\|DUMAINE]] | Se l’affare è di qualche difficoltà, e stamattina è la vostra partenza di qui, richiede fretta da vostra signoria. |
+| [[Bertram\|BERTRAM]] | Voglio dire che l’affare non è finito, temendo d’averne a sentir parlare in seguito. Ma avremo questo dialogo fra il [[Fool\|Buffone]] e il Soldato? Su, portate avanti questo modello contraffatto, che m’ha ingannato come un profeta dal [[Double\|doppio]] senso. |
+| SECONDO SIGNORE [[Dumaine\|DUMAINE]] | Portatelo avanti. Esce uno o più È stato in gogna tutta la [[Night\|notte]], povero furfante galante. 105 |
+| [[Bertram\|BERTRAM]] | Non importa, i suoi calcagni l’han meritato, usurpando così a lungo i suoi sproni. Come si comporta? |
+| SECONDO SIGNORE [[Dumaine\|DUMAINE]] | L’ho già detto a vostra signoria: la gogna lo porta. Ma per rispondervi come volete essere inteso, piange come una serva che abbia versato il latte. S’è confessato a Morgan, che egli suppone essere un frate, dal [[Time\|tempo]] della sua memoria fino a questo stesso disastro del suo esser messo in gogna. E che credete che abbia confessato? |
+| [[Bertram\|BERTRAM]] | Nulla di me, vero? |
+| SECONDO SIGNORE [[Dumaine\|DUMAINE]] | La sua confessione è presa, e gli sarà letta in faccia. Se vostra signoria vi è dentro, come credo che sia, dovrete avere la pazienza d’ascoltarla. |
 | *(didascalia)* | Entra Paroles sotto scorta e con gli occhi bendati, con l’Interprete |
-| [[Bertram|BERTRAM]] | La peste su lui! Incappucciato! Non può dir nulla di me. |
-| *(didascalia)* | PRIMO SIGNORE [[Dumaine|DUMAINE]] (a parte a [[Bertram]]) Zitto, zitto. |
-| *(didascalia)* | SECONDO SIGNORE [[Dumaine|DUMAINE]] (a parte a [[Bertram]]) Viene il cieco bendato. (Ad alta voce) Porto tartarossa. |
+| [[Bertram\|BERTRAM]] | La peste su lui! Incappucciato! Non può dir nulla di me. |
+| *(didascalia)* | PRIMO SIGNORE [[Dumaine\|DUMAINE]] (a parte a [[Bertram]]) Zitto, zitto. |
+| *(didascalia)* | SECONDO SIGNORE [[Dumaine\|DUMAINE]] (a parte a [[Bertram]]) Viene il cieco bendato. (Ad alta voce) Porto tartarossa. |
 | INTERPRETE | (a Paroles) Chiama le torture. Che dirai senza di esse? |
 | PAROLES | Confesserò ciò che so senza costrizione. Se mi pizzicate come un pasticcio, non posso dire di più. |
 | INTERPRETE | Bosko chimurcho. |
-| *(didascalia)* | SECONDO SIGNORE [[Dumaine|DUMAINE]] Boblibindo chicurmurco. |
+| *(didascalia)* | SECONDO SIGNORE [[Dumaine\|DUMAINE]] Boblibindo chicurmurco. |
 | INTERPRETE | Siete un generale misericordioso.—Il nostro generale ti ordina di rispondere a ciò che ti chiederò da una nota. |
-| PAROLES | E con verità, come [[Hope|spero]] di vivere. |
-| *(didascalia)* | L’INTERPRETE legge «Prima chiedigli di quanti [[Horse|cavalli]] è forte il Duca.»—Che dici a questo? |
-| PAROLES | Cinque o seimila, ma molto debole e inservibile. Le truppe sono tutte sparse e i comandanti poverissimi furfanti, sulla mia reputazione e sul mio credito, e come [[Hope|spero]] di vivere. |
+| PAROLES | E con verità, come [[Hope\|spero]] di vivere. |
+| *(didascalia)* | L’INTERPRETE legge «Prima chiedigli di quanti [[Horse\|cavalli]] è forte il Duca.»—Che dici a questo? |
+| PAROLES | Cinque o seimila, ma molto debole e inservibile. Le truppe sono tutte sparse e i comandanti poverissimi furfanti, sulla mia reputazione e sul mio credito, e come [[Hope\|spero]] di vivere. |
 | INTERPRETE | Devo mettere per iscritto così la tua risposta? 139 |
 | PAROLES | Fatelo. Ne prenderò il sacramento, come e in qual modo volete. |
-| *(didascalia)* | PRIMO SIGNORE [[Dumaine|DUMAINE]] (a parte) Per lui è tutt’uno. |
-| [[Bertram|BERTRAM]] | (a parte) Che schiavo insalvabile è questo! |
-| PRIMO SIGNORE [[Dumaine|DUMAINE]] | (a parte) V’ingannate, mio signore. Questo è Monsieur Paroles, il «galante militarista»—era la sua propria frase—che aveva tutta la teorica della guerra nel nodo della sua sciarpa, e la pratica nel puntale del suo pugnale. |
-| SECONDO SIGNORE [[Dumaine|DUMAINE]] | (a parte) Non mi fiderò mai più d’un uomo per il fatto che tiene pulita la [[Sword|spada]], né crederò che possa avere ogni cosa in sé perché porta con eleganza i suoi abiti. |
-| INTERPRETE | (a Paroles) [[Well|Bene]], questo è messo per iscritto. |
-| PAROLES | «Cinque o seimila [[Horse|cavalli]]», dissi—dirò il vero—«o giù di lì», mettete per iscritto, perché dirò la [[Truth|verità]]. |
-| PRIMO SIGNORE [[Dumaine|DUMAINE]] | (a parte) In questo è molto vicino alla [[Truth|verità]]. |
-| [[Bertram|BERTRAM]] | (a parte) Ma non gliene rendo grazie, per il modo di [[Nature|natura]] in cui lo dice. |
+| *(didascalia)* | PRIMO SIGNORE [[Dumaine\|DUMAINE]] (a parte) Per lui è tutt’uno. |
+| [[Bertram\|BERTRAM]] | (a parte) Che schiavo insalvabile è questo! |
+| PRIMO SIGNORE [[Dumaine\|DUMAINE]] | (a parte) V’ingannate, mio signore. Questo è Monsieur Paroles, il «galante militarista»—era la sua propria frase—che aveva tutta la teorica della guerra nel nodo della sua sciarpa, e la pratica nel puntale del suo pugnale. |
+| SECONDO SIGNORE [[Dumaine\|DUMAINE]] | (a parte) Non mi fiderò mai più d’un uomo per il fatto che tiene pulita la [[Sword\|spada]], né crederò che possa avere ogni cosa in sé perché porta con eleganza i suoi abiti. |
+| INTERPRETE | (a Paroles) [[Well\|Bene]], questo è messo per iscritto. |
+| PAROLES | «Cinque o seimila [[Horse\|cavalli]]», dissi—dirò il vero—«o giù di lì», mettete per iscritto, perché dirò la [[Truth\|verità]]. |
+| PRIMO SIGNORE [[Dumaine\|DUMAINE]] | (a parte) In questo è molto vicino alla [[Truth\|verità]]. |
+| [[Bertram\|BERTRAM]] | (a parte) Ma non gliene rendo grazie, per il modo di [[Nature\|natura]] in cui lo dice. |
 | PAROLES | «Poveri furfanti», vi prego, scrivete. |
-| INTERPRETE | [[Well|Bene]], questo è messo per iscritto. |
-| PAROLES | Umilmente vi ringrazio, signore. Una [[Truth|verità]] è una [[Truth|verità]]. I furfanti sono meravigliosamente poveri. |
+| INTERPRETE | [[Well\|Bene]], questo è messo per iscritto. |
+| PAROLES | Umilmente vi ringrazio, signore. Una [[Truth\|verità]] è una [[Truth\|verità]]. I furfanti sono meravigliosamente poveri. |
 | *(didascalia)* | L’INTERPRETE legge «Chiedigli di quale forza siano a piedi.»—Che dici a questo? |
-| PAROLES | In fede mia, signore, se dovessi morire in quest’ora presente, dirò il vero. Vediamo: Spurio centocinquanta; [[Sebastian]] altrettanti; Corambus altrettanti; [[Jaques]] altrettanti; Guillaume, Cosmo, Lodowick e Gratii, duecentocinquanta ciascuno; la mia propria compagnia, Chitopher, Vaumond, Bentii, duecentocinquanta ciascuno. Sì che il ruolo della rassegna, guasti e sani, sulla mia vita non ammonta a quindicimila teste, la metà dei quali non osa scuotere la [[Snow|neve]] dalle proprie casacche per timore di scuotersi in pezzi. |
-| [[Bertram|BERTRAM]] | (a parte) Che gli si farà? 175 |
-| PRIMO SIGNORE [[Dumaine|DUMAINE]] | (a parte) Nulla, ma che gli si rendano grazie. (All’Interprete) Chiedigli la mia condizione, e quale credito io abbia col Duca. |
-| *(didascalia)* | L’INTERPRETE (a Paroles) [[Well|Bene]], questo è messo per iscritto. Legge «Gli chiederai se un certo capitano [[Dumaine]] sia nel campo, un Francese; quale sia la sua reputazione presso il Duca; quale il suo valore, la sua onestà e la sua perizia nelle guerre; ovvero se non creda che sarebbe possibile, con somme d’oro [[Well|bene]] pesate, corromperlo a una rivolta.»—Che dici a questo? Che ne sai? 186 |
+| PAROLES | In fede mia, signore, se dovessi morire in quest’ora presente, dirò il vero. Vediamo: Spurio centocinquanta; [[Sebastian]] altrettanti; Corambus altrettanti; [[Jaques]] altrettanti; Guillaume, Cosmo, Lodowick e Gratii, duecentocinquanta ciascuno; la mia propria compagnia, Chitopher, Vaumond, Bentii, duecentocinquanta ciascuno. Sì che il ruolo della rassegna, guasti e sani, sulla mia vita non ammonta a quindicimila teste, la metà dei quali non osa scuotere la [[Snow\|neve]] dalle proprie casacche per timore di scuotersi in pezzi. |
+| [[Bertram\|BERTRAM]] | (a parte) Che gli si farà? 175 |
+| PRIMO SIGNORE [[Dumaine\|DUMAINE]] | (a parte) Nulla, ma che gli si rendano grazie. (All’Interprete) Chiedigli la mia condizione, e quale credito io abbia col Duca. |
+| *(didascalia)* | L’INTERPRETE (a Paroles) [[Well\|Bene]], questo è messo per iscritto. Legge «Gli chiederai se un certo capitano [[Dumaine]] sia nel campo, un Francese; quale sia la sua reputazione presso il Duca; quale il suo valore, la sua onestà e la sua perizia nelle guerre; ovvero se non creda che sarebbe possibile, con somme d’oro [[Well\|bene]] pesate, corromperlo a una rivolta.»—Che dici a questo? Che ne sai? 186 |
 | PAROLES | Vi supplico, lasciate che risponda al particolare degli interrogatori. Chiedeteli uno per uno. |
 | INTERPRETE | Conosci questo capitano [[Dumaine]]? |
-| PAROLES | Lo conosco. Era garzone d’un rappezzatore a [[Paris|Parigi]], da dove fu frustato per aver fatto un [[Child|figlio]] alla [[Fool|matta]] dello sceriffo—muta [[Innocent|innocente]] che non poteva dirgli no. 193 |
-| [[Bertram|BERTRAM]] | (a parte al Primo Signore [[Dumaine]]) Su, con vostra licenza, trattenete le mani, sebbene io sappia che le sue cervella sono destinate alla prima tegola che cade. |
-| INTERPRETE | [[Well|Bene]], è questo capitano nel campo del Duca di Firenze? |
+| PAROLES | Lo conosco. Era garzone d’un rappezzatore a [[Paris\|Parigi]], da dove fu frustato per aver fatto un [[Child\|figlio]] alla [[Fool\|matta]] dello sceriffo—muta [[Innocent\|innocente]] che non poteva dirgli no. 193 |
+| [[Bertram\|BERTRAM]] | (a parte al Primo Signore [[Dumaine]]) Su, con vostra licenza, trattenete le mani, sebbene io sappia che le sue cervella sono destinate alla prima tegola che cade. |
+| INTERPRETE | [[Well\|Bene]], è questo capitano nel campo del Duca di Firenze? |
 | PAROLES | A mia conoscenza sì, e pieno di pidocchi. 199 |
-| PRIMO SIGNORE [[Dumaine|DUMAINE]] | (a parte) Su, non guardatemi così: sentiremo parlare di vostra signoria fra poco. |
+| PRIMO SIGNORE [[Dumaine\|DUMAINE]] | (a parte) Su, non guardatemi così: sentiremo parlare di vostra signoria fra poco. |
 | INTERPRETE | Qual è la sua reputazione presso il Duca? |
 | PAROLES | Il Duca non lo conosce per altro che per un povero ufficiale mio, e mi scrisse l’altro giorno di cacciarlo dalla banda. Credo d’avere la sua lettera in tasca. 206 INTERPRETE Davvero, cercheremo. |
 | PAROLES | In tutta serietà, non lo so. O è là, o sta in un fascicolo con le altre lettere del Duca nella mia tenda. 210 |
 | INTERPRETE | Eccola qui, ecco una carta. Devo leggertela? |
 | PAROLES | Non so se sia quella o no. |
-| [[Bertram|BERTRAM]] | (a parte) Il nostro interprete lo fa [[Well|bene]]. |
-| PRIMO SIGNORE [[Dumaine|DUMAINE]] | (a parte) Eccellentemente. |
-| INTERPRETE | (legge la lettera) «Diana, il Conte è uno [[Fool|sciocco]], e pieno d’oro.» |
+| [[Bertram\|BERTRAM]] | (a parte) Il nostro interprete lo fa [[Well\|bene]]. |
+| PRIMO SIGNORE [[Dumaine\|DUMAINE]] | (a parte) Eccellentemente. |
+| INTERPRETE | (legge la lettera) «Diana, il Conte è uno [[Fool\|sciocco]], e pieno d’oro.» |
 | PAROLES | Quella non è la lettera del Duca, signore. È un avvertimento a una brava fanciulla in Firenze, una certa [[Diana]], di guardarsi dalle lusinghe d’un certo conte di Rossiglione, un ragazzo sciocco e ozioso, ma con tutto ciò molto libidinoso. Vi prego, signore, rimettetela via. |
 | INTERPRETE | Anzi, la leggerò prima, con vostra licenza. |
-| PAROLES | La mia intenzione in essa, lo protesto, era onestissima a favore della fanciulla, perché sapevo che il giovane Conte era un ragazzo pericoloso e lascivo, che è una balena per la verginità, e divora tutto il pesciolino che trova. [[Bertram|BERTRAM]] (a parte) Furfante dannabile a doppia faccia. |
-| INTERPRETE | (legge)<br>«Quando giura giuramenti, fagli sborsare l’oro, e prendilo.<br>Dopo che ha segnato il conto, non paga mai il conto.<br>Mezzo vinto è patto [[Well|bene]] fatto; pattuisci, e fallo [[Well|bene]].<br>Non paga mai i debiti posticipati: prendi prima.<br>E di’ che un soldato, Diana, ti disse questo:<br>con gli uomini si può trattare, i ragazzi non si baciano.<br>In conto di questo, il Conte è uno [[Fool|sciocco]], lo so io,<br>che paga prima, ma non quando è debitore.<br>Tuo, come te lo giurò all’orecchio,<br>Paroles.» |
-| [[Bertram|BERTRAM]] | (a parte) Sarà frustato attraverso l’esercito con questa rima sulla fronte. |
-| SECONDO SIGNORE [[Dumaine|DUMAINE]] | (a parte) Questo è il vostro devoto amico, signore, il linguista multiforme e il soldato armipotente. |
-| [[Bertram|BERTRAM]] | (a parte) Prima potevo sopportare qualunque cosa fuorché un gatto, e ora egli è un gatto per me. |
+| PAROLES | La mia intenzione in essa, lo protesto, era onestissima a favore della fanciulla, perché sapevo che il giovane Conte era un ragazzo pericoloso e lascivo, che è una balena per la verginità, e divora tutto il pesciolino che trova. [[Bertram\|BERTRAM]] (a parte) Furfante dannabile a doppia faccia. |
+| INTERPRETE | (legge)<br>«Quando giura giuramenti, fagli sborsare l’oro, e prendilo.<br>Dopo che ha segnato il conto, non paga mai il conto.<br>Mezzo vinto è patto [[Well\|bene]] fatto; pattuisci, e fallo [[Well\|bene]].<br>Non paga mai i debiti posticipati: prendi prima.<br>E di’ che un soldato, Diana, ti disse questo:<br>con gli uomini si può trattare, i ragazzi non si baciano.<br>In conto di questo, il Conte è uno [[Fool\|sciocco]], lo so io,<br>che paga prima, ma non quando è debitore.<br>Tuo, come te lo giurò all’orecchio,<br>Paroles.» |
+| [[Bertram\|BERTRAM]] | (a parte) Sarà frustato attraverso l’esercito con questa rima sulla fronte. |
+| SECONDO SIGNORE [[Dumaine\|DUMAINE]] | (a parte) Questo è il vostro devoto amico, signore, il linguista multiforme e il soldato armipotente. |
+| [[Bertram\|BERTRAM]] | (a parte) Prima potevo sopportare qualunque cosa fuorché un gatto, e ora egli è un gatto per me. |
 | INTERPRETE | M’accorgo, signore, dagli sguardi del generale, che dovremo impiccarti. |
-| PAROLES | La mia vita, signore, in ogni caso! Non che io abbia paura di morire, ma perché, essendo le mie offese molte, vorrei pentirmi per tutto il resto della [[Nature|natura]]. Lasciatemi vivere, signore, in una prigione sotterranea, in gogna, o dove che sia, purché possa vivere. |
+| PAROLES | La mia vita, signore, in ogni caso! Non che io abbia paura di morire, ma perché, essendo le mie offese molte, vorrei pentirmi per tutto il resto della [[Nature\|natura]]. Lasciatemi vivere, signore, in una prigione sotterranea, in gogna, o dove che sia, purché possa vivere. |
 | INTERPRETE | Vedremo che si può fare, purché confessi liberamente. Perciò, ancora una volta, a questo capitano [[Dumaine]]. Hai risposto sulla sua reputazione presso il Duca, e sul suo valore. Qual è la sua onestà? |
-| PAROLES | Ruberebbe, signore, un uovo da un chiostro. Per stupri e ratti è pari a Nesso. Non professa il mantenere i giuramenti; nel romperli è più forte d’Ercole. Mentirà, signore, con tale scioltezza che crederesti la [[Truth|verità]] una [[Fool|sciocca]]. L’ubriachezza è la sua miglior virtù, perché s’ubriaca come un porco, e nel suo [[Sleep|sonno]] fa poco male, salvo alle sue lenzuola; ma quelli che gli stanno intorno conoscono le sue abitudini e lo mettono a giacere nella paglia. Ho poco più da dire, signore, sulla sua onestà. Ha tutto ciò che un uomo onesto non dovrebbe avere; di ciò che un uomo onesto dovrebbe avere, non ha nulla. |
-| PRIMO SIGNORE [[Dumaine|DUMAINE]] | (a parte) Comincio ad [[Love|amarlo]] per questo. |
-| [[Bertram|BERTRAM]] | (a parte) Per questa descrizione della tua onestà? La peste su lui! Per me è sempre più un gatto. |
+| PAROLES | Ruberebbe, signore, un uovo da un chiostro. Per stupri e ratti è pari a Nesso. Non professa il mantenere i giuramenti; nel romperli è più forte d’Ercole. Mentirà, signore, con tale scioltezza che crederesti la [[Truth\|verità]] una [[Fool\|sciocca]]. L’ubriachezza è la sua miglior virtù, perché s’ubriaca come un porco, e nel suo [[Sleep\|sonno]] fa poco male, salvo alle sue lenzuola; ma quelli che gli stanno intorno conoscono le sue abitudini e lo mettono a giacere nella paglia. Ho poco più da dire, signore, sulla sua onestà. Ha tutto ciò che un uomo onesto non dovrebbe avere; di ciò che un uomo onesto dovrebbe avere, non ha nulla. |
+| PRIMO SIGNORE [[Dumaine\|DUMAINE]] | (a parte) Comincio ad [[Love\|amarlo]] per questo. |
+| [[Bertram\|BERTRAM]] | (a parte) Per questa descrizione della tua onestà? La peste su lui! Per me è sempre più un gatto. |
 | INTERPRETE | Che dici della sua perizia in guerra? |
-| PAROLES | In [[Faith|fede]], signore, ha battuto il tamburo davanti agli attori tragici inglesi. Non voglio calunniarlo, e altro della sua arte militare non so, tranne che in quel paese ebbe l’[[Honour|onore]] d’essere l’ufficiale in un luogo là chiamato Mile End, per istruire al raddoppio delle file. Vorrei rendere a quell’uomo tutto l’[[Honour|onore]] che posso, ma di questo non sono certo. |
-| PRIMO SIGNORE [[Dumaine|DUMAINE]] | (a parte) Ha superato in scelleratezza la scelleratezza stessa tanto che la rarità lo redime. |
-| [[Bertram|BERTRAM]] | (a parte) La peste su lui! È sempre un gatto. |
+| PAROLES | In [[Faith\|fede]], signore, ha battuto il tamburo davanti agli attori tragici inglesi. Non voglio calunniarlo, e altro della sua arte militare non so, tranne che in quel paese ebbe l’[[Honour\|onore]] d’essere l’ufficiale in un luogo là chiamato Mile End, per istruire al raddoppio delle file. Vorrei rendere a quell’uomo tutto l’[[Honour\|onore]] che posso, ma di questo non sono certo. |
+| PRIMO SIGNORE [[Dumaine\|DUMAINE]] | (a parte) Ha superato in scelleratezza la scelleratezza stessa tanto che la rarità lo redime. |
+| [[Bertram\|BERTRAM]] | (a parte) La peste su lui! È sempre un gatto. |
 | INTERPRETE | Essendo le sue qualità a questo povero prezzo, non ho bisogno di chiederti se l’oro lo corromperà alla rivolta. |
 | PAROLES | Signore, per un quarto d’écu venderà la piena proprietà della sua salvezza, l’eredità di essa, e taglierà il vincolo da ogni successore, e una perpetua successione per essa, perpetuamente. |
 | INTERPRETE | Che è suo fratello, l’altro capitano [[Dumaine]]? 285 |
-| SECONDO SIGNORE [[Dumaine|DUMAINE]] | (a parte) Perché gli chiede di me? |
+| SECONDO SIGNORE [[Dumaine\|DUMAINE]] | (a parte) Perché gli chiede di me? |
 | INTERPRETE | Che è lui? |
 | PAROLES | Proprio un corvo dello stesso nido. Non del tutto così grande come il primo in bontà, ma di gran lunga più grande nel male. Supera suo fratello per codardia, e pure suo fratello è reputato uno dei migliori che ci siano. In una ritirata corre più d’ogni lacchè; ma sì, nell’andare avanti gli vengono i crampi. |
 | INTERPRETE | Se la tua vita è salvata, ti impegni a tradire il Fiorentino? 295 |
-| PAROLES | Sì, e il capitano della sua [[Horse|cavalleria]], il conte di Rossiglione. |
+| PAROLES | Sì, e il capitano della sua [[Horse\|cavalleria]], il conte di Rossiglione. |
 | INTERPRETE | Sussurrerò col generale e conoscerò il suo piacere. |
-| PAROLES | Non più tamburi. La peste su tutti i tamburi! Solo per sembrare di meritar [[Well|bene]], e per ingannare l’opinione di quel lascivo giovane ragazzo, il Conte, sono corso in questo pericolo. Eppure chi avrebbe sospettato un’imboscata là dove fui preso? |
-| INTERPRETE | Non c’è rimedio, signore, ma devi morire. Il generale dice che tu, che hai così traditoramente svelato i [[Secrets|segreti]] del tuo esercito, e fatto rapporti così pestiferi d’uomini tenuti in gran nobiltà, non puoi servire al mondo per nessun uso onesto; perciò devi morire.—Su, carnefice, giù la sua testa. 310 |
-| PAROLES | Oh Signore, signore!—Lasciatemi vivere, o lasciatemi vedere la mia [[Death|morte]]! |
+| PAROLES | Non più tamburi. La peste su tutti i tamburi! Solo per sembrare di meritar [[Well\|bene]], e per ingannare l’opinione di quel lascivo giovane ragazzo, il Conte, sono corso in questo pericolo. Eppure chi avrebbe sospettato un’imboscata là dove fui preso? |
+| INTERPRETE | Non c’è rimedio, signore, ma devi morire. Il generale dice che tu, che hai così traditoramente svelato i [[Secrets\|segreti]] del tuo esercito, e fatto rapporti così pestiferi d’uomini tenuti in gran nobiltà, non puoi servire al mondo per nessun uso onesto; perciò devi morire.—Su, carnefice, giù la sua testa. 310 |
+| PAROLES | Oh Signore, signore!—Lasciatemi vivere, o lasciatemi vedere la mia [[Death\|morte]]! |
 | INTERPRETE | Questo sì, e prendi congedo da tutti i tuoi amici.<br>Scopre il volto a Paroles<br>Su, guardati intorno. Conosci qualcuno qui? |
-| [[Bertram|BERTRAM]] | Buon giorno, nobile capitano. 315 |
-| SECONDO SIGNORE [[Dumaine|DUMAINE]] | Dio vi benedica, capitano Paroles. |
-| PRIMO SIGNORE [[Dumaine|DUMAINE]] | Dio vi salvi, nobile capitano. |
-| SECONDO SIGNORE [[Dumaine|DUMAINE]] | Capitano, che saluto volete per il mio signore di Lafeu? Io parto per la Francia. |
-| PRIMO SIGNORE [[Dumaine|DUMAINE]] | Buon capitano, volete darmi una copia del [[Sonnet|sonetto]] che scrivesti a [[Diana]] a favore del conte di Rossiglione? Se non fossi un gran codardo ve lo estorcerei. Ma statevi [[Well|bene]]. |
+| [[Bertram\|BERTRAM]] | Buon giorno, nobile capitano. 315 |
+| SECONDO SIGNORE [[Dumaine\|DUMAINE]] | Dio vi benedica, capitano Paroles. |
+| PRIMO SIGNORE [[Dumaine\|DUMAINE]] | Dio vi salvi, nobile capitano. |
+| SECONDO SIGNORE [[Dumaine\|DUMAINE]] | Capitano, che saluto volete per il mio signore di Lafeu? Io parto per la Francia. |
+| PRIMO SIGNORE [[Dumaine\|DUMAINE]] | Buon capitano, volete darmi una copia del [[Sonnet\|sonetto]] che scrivesti a [[Diana]] a favore del conte di Rossiglione? Se non fossi un gran codardo ve lo estorcerei. Ma statevi [[Well\|bene]]. |
 | *(didascalia)* | Escono tutti tranne Paroles e l’Interprete |
 | INTERPRETE | Siete rovinato, capitano—tutto tranne la vostra sciarpa; quella ha ancora un nodo. 325 |
 | PAROLES | Chi non può essere schiacciato da una trama? |
-| INTERPRETE | Se potessi trovare un paese dove ci fossero soltanto donne che avessero ricevuto tanta vergogna, potreste fondare una nazione impudente. Statevi [[Well|bene]], signore. Anch’io parto per la Francia. Parleremo di voi là. Esce |
-| PAROLES | Pure sono grato. Se il mio cuore fosse grande<br>scoppierebbe a questo. Capitano non sarò più,<br>ma mangerò e berrò e [[Sleep|dormirò]] tanto morbido<br>quanto un capitano. Semplicemente la cosa che sono<br>mi farà vivere. Chi si conosce spaccone,<br>[[Fear|tema]] questo, perché avverrà<br>che ogni spaccone sarà trovato un asino.<br>Ruggini, [[Sword|spada]]; raffreddatevi, rossori; e Paroles viva<br>più sicuro nella vergogna; beffato, per [[Fool|buffoneria]] prosperi.<br>C’è posto e mezzi per ogni uomo vivente.<br>Andrò dietro a loro. Esce |
+| INTERPRETE | Se potessi trovare un paese dove ci fossero soltanto donne che avessero ricevuto tanta vergogna, potreste fondare una nazione impudente. Statevi [[Well\|bene]], signore. Anch’io parto per la Francia. Parleremo di voi là. Esce |
+| PAROLES | Pure sono grato. Se il mio cuore fosse grande<br>scoppierebbe a questo. Capitano non sarò più,<br>ma mangerò e berrò e [[Sleep\|dormirò]] tanto morbido<br>quanto un capitano. Semplicemente la cosa che sono<br>mi farà vivere. Chi si conosce spaccone,<br>[[Fear\|tema]] questo, perché avverrà<br>che ogni spaccone sarà trovato un asino.<br>Ruggini, [[Sword\|spada]]; raffreddatevi, rossori; e Paroles viva<br>più sicuro nella vergogna; beffato, per [[Fool\|buffoneria]] prosperi.<br>C’è posto e mezzi per ogni uomo vivente.<br>Andrò dietro a loro. Esce |
 
 
 
@@ -3114,12 +3114,12 @@ All’s [[Well]] That Ends [[Well]]
 
 | Chi parla | Battuta |
 |---|---|
-| *(didascalia)* | Entrano [[Helen|Elena]], la Vedova e [[Diana]] |
-| [[Helen|HELEN]] | Perché possiate [[Well|bene]] vedere che non v’ho fatto torto,<br>uno dei più grandi del mondo cristiano<br>sarà la mia garanzia; davanti al cui trono è necessario,<br>prima ch’io possa compiere i miei intenti, inginocchiarsi.<br>Un [[Time|tempo]] fu, gli resi un servizio desiderato<br>caro quasi come la sua vita; e tale gratitudine<br>attraverso il petto selcioso d’un Tartaro spunterebbe<br>e risponderebbe «Grazie». Sono debitamente informata<br>che sua grazia è a Marsiglia, e a quel luogo<br>abbiamo comoda scorta. Dovete sapere<br>che mi si crede morta. Sciogliendosi l’esercito,<br>mio marito s’affretta a [[Home|casa]], dove, col cielo propizio,<br>e col permesso del mio buon signore il [[King|Re]],<br>saremo là prima del nostro benvenuto. |
+| *(didascalia)* | Entrano [[Helen\|Elena]], la Vedova e [[Diana]] |
+| [[Helen\|HELEN]] | Perché possiate [[Well\|bene]] vedere che non v’ho fatto torto,<br>uno dei più grandi del mondo cristiano<br>sarà la mia garanzia; davanti al cui trono è necessario,<br>prima ch’io possa compiere i miei intenti, inginocchiarsi.<br>Un [[Time\|tempo]] fu, gli resi un servizio desiderato<br>caro quasi come la sua vita; e tale gratitudine<br>attraverso il petto selcioso d’un Tartaro spunterebbe<br>e risponderebbe «Grazie». Sono debitamente informata<br>che sua grazia è a Marsiglia, e a quel luogo<br>abbiamo comoda scorta. Dovete sapere<br>che mi si crede morta. Sciogliendosi l’esercito,<br>mio marito s’affretta a [[Home\|casa]], dove, col cielo propizio,<br>e col permesso del mio buon signore il [[King\|Re]],<br>saremo là prima del nostro benvenuto. |
 | VEDOVA | Gentile signora,<br>mai avete avuto una serva alla cui fiducia<br>il vostro affare fosse più gradito. |
-| [[Helen|HELEN]] | Né voi, padrona,<br>mai un’amica i cui pensieri più veramente s’adoprino<br>a ricompensare il vostro [[Love|amore]]. Non [[Doubt|dubitate]] che il cielo<br>m’abbia allevata per essere la dote di vostra figlia,<br>come ha destinato lei a essere il mio motivo<br>e l’aiuto a un marito. Ma oh, strani uomini,<br>che sanno fare sì dolce uso di ciò che odiano,<br>quando l’insolente fiducia dei pensieri ingannati<br>profana la [[Night|notte]] di pece; così la lussuria scherza<br>con ciò che detesta, per amor di ciò che è lontano.<br>Ma di questo più tardi. Voi, [[Diana]],<br>sotto le mie povere istruzioni dovrete ancora patire<br>qualcosa per me. |
-| [[Diana|DIANA]] | Vadano la [[Death|morte]] e l’onestà<br>con le vostre imposizioni: sono vostra,<br>pronta a patire secondo il vostro volere. |
-| [[Helen|HELEN]] | Ancora, vi prego.—<br>Ma con quella parola il [[Time|tempo]] porterà l’[[Summer|estate]],<br>quando i roveti avranno [[Leaves|foglie]] così [[Well|bene]] come spine<br>e saranno dolci quanto pungenti. Dobbiamo partire,<br>il nostro carro è preparato, e il [[Time|tempo]] ci ravviva.<br>Tutto è [[Well|bene]] quel che finisce [[Well|bene]]; sempre la fine è la [[Crown|corona]].<br>Qualunque sia il corso, il fine è la rinomanza. |
+| [[Helen\|HELEN]] | Né voi, padrona,<br>mai un’amica i cui pensieri più veramente s’adoprino<br>a ricompensare il vostro [[Love\|amore]]. Non [[Doubt\|dubitate]] che il cielo<br>m’abbia allevata per essere la dote di vostra figlia,<br>come ha destinato lei a essere il mio motivo<br>e l’aiuto a un marito. Ma oh, strani uomini,<br>che sanno fare sì dolce uso di ciò che odiano,<br>quando l’insolente fiducia dei pensieri ingannati<br>profana la [[Night\|notte]] di pece; così la lussuria scherza<br>con ciò che detesta, per amor di ciò che è lontano.<br>Ma di questo più tardi. Voi, [[Diana]],<br>sotto le mie povere istruzioni dovrete ancora patire<br>qualcosa per me. |
+| [[Diana\|DIANA]] | Vadano la [[Death\|morte]] e l’onestà<br>con le vostre imposizioni: sono vostra,<br>pronta a patire secondo il vostro volere. |
+| [[Helen\|HELEN]] | Ancora, vi prego.—<br>Ma con quella parola il [[Time\|tempo]] porterà l’[[Summer\|estate]],<br>quando i roveti avranno [[Leaves\|foglie]] così [[Well\|bene]] come spine<br>e saranno dolci quanto pungenti. Dobbiamo partire,<br>il nostro carro è preparato, e il [[Time\|tempo]] ci ravviva.<br>Tutto è [[Well\|bene]] quel che finisce [[Well\|bene]]; sempre la fine è la [[Crown\|corona]].<br>Qualunque sia il corso, il fine è la rinomanza. |
 | *(didascalia)* | Escono |
 
 
@@ -3177,45 +3177,45 @@ All’s [[Well]] That Ends [[Well]]
 | Chi parla | Battuta |
 |---|---|
 | *(didascalia)* | Entrano Lavatch, la vecchia Contessa e Lafeu |
-| LAFEU | No, no, no, vostro figlio fu traviato da un tipo di taffetà tagliuzzato là, il cui scellerato zafferano avrebbe tinto del suo colore tutta la gioventù cruda e pastosa d’una nazione. Altrimenti vostra nuora sarebbe viva a quest’ora, e vostro figlio qui a [[Home|casa]], più innalzato dal [[King|Re]] che da quel bombo dalla coda rossa di cui parlo. |
-| COUNTESS | Vorrei che non l’avesse mai conosciuto. Fu la [[Death|morte]] della più virtuosa gentildonna che la [[Nature|natura]] abbia mai avuto lode d’aver creato. S’ella avesse partecipato della mia carne e m’avesse costato i più cari gemiti d’una madre, non avrei potuto portarle un [[Love|amore]] più radicato. |
+| LAFEU | No, no, no, vostro figlio fu traviato da un tipo di taffetà tagliuzzato là, il cui scellerato zafferano avrebbe tinto del suo colore tutta la gioventù cruda e pastosa d’una nazione. Altrimenti vostra nuora sarebbe viva a quest’ora, e vostro figlio qui a [[Home\|casa]], più innalzato dal [[King\|Re]] che da quel bombo dalla coda rossa di cui parlo. |
+| COUNTESS | Vorrei che non l’avesse mai conosciuto. Fu la [[Death\|morte]] della più virtuosa gentildonna che la [[Nature\|natura]] abbia mai avuto lode d’aver creato. S’ella avesse partecipato della mia carne e m’avesse costato i più cari gemiti d’una madre, non avrei potuto portarle un [[Love\|amore]] più radicato. |
 | LAFEU | Era una buona signora, era una buona signora. Possiamo cogliere mille insalate prima di trovare un’altra erba simile. |
 | LAVATCH | In verità, signore, era la dolce maggiorana dell’insalata, o piuttosto l’erba della grazia. |
 | LAFEU | Non sono erbaggi, furfante, sono erbe da odorare. |
 | LAVATCH | Non sono un gran Nabucodonosor, signore, non ho molta perizia in erbe di grazia. 21 |
-| LAFEU | Che ti professi, un furfante o un [[Fool|buffone]]? |
-| LAVATCH | Un [[Fool|buffone]], signore, al servizio d’una donna, e un furfante a quello d’un uomo. |
+| LAFEU | Che ti professi, un furfante o un [[Fool\|buffone]]? |
+| LAVATCH | Un [[Fool\|buffone]], signore, al servizio d’una donna, e un furfante a quello d’un uomo. |
 | LAFEU | La tua distinzione? |
 | LAVATCH | Ingannerei l’uomo togliendogli la moglie, e gli farei il suo servizio. |
 | LAFEU | Così sareste davvero un furfante al suo servizio. |
 | LAVATCH | E darei a sua moglie il mio bastone da buffone, signore, per farle servizio. |
-| LAFEU | Sottoscriverò per te: sei insieme furfante e [[Fool|buffone]]. |
+| LAFEU | Sottoscriverò per te: sei insieme furfante e [[Fool\|buffone]]. |
 | LAVATCH | Al vostro servizio. |
 | LAFEU | No, no, no. 35 |
 | LAVATCH | Ebbene, signore, se non posso servire voi posso servire un principe tanto grande quanto voi siete. |
 | LAFEU | Chi è? Un Francese? |
-| LAVATCH | In [[Faith|fede]], signore, ha un nome inglese, ma la sua fisionomia è più calda in Francia che là. |
+| LAVATCH | In [[Faith\|fede]], signore, ha un nome inglese, ma la sua fisionomia è più calda in Francia che là. |
 | LAFEU | Quale principe è quello? |
 | LAVATCH | Il Principe Nero, signore, alias il principe delle tenebre, alias il diavolo. |
 | LAFEU | Tieni, ecco la mia borsa. Non ti do questa per sviarti dal padrone di cui parli; servilo pure. |
-| LAVATCH | Sono un uomo di bosco, signore, che ha sempre amato un gran [[Fire|fuoco]], e il padrone di cui parlo tiene sempre un buon [[Fire|fuoco]]. Ma poiché egli è il principe di questo mondo, che la nobiltà resti nella sua [[Court|corte]]; io sono per la [[house|casa]] dalla porta stretta, che ritengo troppo piccola perché la pompa v’entri. Alcuni che s’umiliano possono, ma i più saranno troppo freddolosi e delicati, e andranno per la via fiorita che conduce alla porta larga e al gran [[Fire|fuoco]]. |
-| LAFEU | Va’ per la tua strada. Comincio a stancarmi di te, e te lo dico prima, perché non vorrei litigare con te. Va’ per la tua strada. Che si badi [[Well|bene]] ai miei cavalli, senza tiri mancini. |
-| LAVATCH | Se faccio loro qualche tiro, signore, saranno tiri da ronzini, che sono loro proprio diritto per legge di [[Nature|natura]]. Esce |
+| LAVATCH | Sono un uomo di bosco, signore, che ha sempre amato un gran [[Fire\|fuoco]], e il padrone di cui parlo tiene sempre un buon [[Fire\|fuoco]]. Ma poiché egli è il principe di questo mondo, che la nobiltà resti nella sua [[Court\|corte]]; io sono per la [[house\|casa]] dalla porta stretta, che ritengo troppo piccola perché la pompa v’entri. Alcuni che s’umiliano possono, ma i più saranno troppo freddolosi e delicati, e andranno per la via fiorita che conduce alla porta larga e al gran [[Fire\|fuoco]]. |
+| LAFEU | Va’ per la tua strada. Comincio a stancarmi di te, e te lo dico prima, perché non vorrei litigare con te. Va’ per la tua strada. Che si badi [[Well\|bene]] ai miei cavalli, senza tiri mancini. |
+| LAVATCH | Se faccio loro qualche tiro, signore, saranno tiri da ronzini, che sono loro proprio diritto per legge di [[Nature\|natura]]. Esce |
 | LAFEU | Un furfante astuto e uno sventurato. |
 | COUNTESS | Così è. Il mio signore che è morto si prendeva molto spasso con lui; per la sua autorità egli resta qui, cosa che crede sia una patente per la sua insolenza, e in verità non ha andatura, ma corre dove vuole. |
-| LAFEU | Mi piace [[Well|bene]], non è male. E stavo per dirvi che, da quando ho udito della [[Death|morte]] della buona signora e che il mio signore vostro figlio era in viaggio di ritorno a [[Home|casa]], ho sollecitato il [[King|Re]] mio padrone a parlare in favore di mia figlia; cosa che, nella minore età d’entrambi, sua maestà, per un ricordo di [[Self|sé]] pieno di grazia, propose per prima. Sua altezza m’ha promesso di farlo; e per turare il dispiacere ch’egli ha concepito contro vostro figlio, non c’è materia più adatta. Come piace a vostra signoria? |
+| LAFEU | Mi piace [[Well\|bene]], non è male. E stavo per dirvi che, da quando ho udito della [[Death\|morte]] della buona signora e che il mio signore vostro figlio era in viaggio di ritorno a [[Home\|casa]], ho sollecitato il [[King\|Re]] mio padrone a parlare in favore di mia figlia; cosa che, nella minore età d’entrambi, sua maestà, per un ricordo di [[Self\|sé]] pieno di grazia, propose per prima. Sua altezza m’ha promesso di farlo; e per turare il dispiacere ch’egli ha concepito contro vostro figlio, non c’è materia più adatta. Come piace a vostra signoria? |
 | COUNTESS | Con moltissima soddisfazione, mio signore, e desidero che si compia felicemente. |
-| LAFEU | Sua altezza viene a marce forzate da Marsiglia, con un [[Body|corpo]] tanto valido come quando contava trent’anni. Sarà qui domani, o m’inganna colui che in tali informazioni ha raramente fallito. |
-| COUNTESS | Mi rallegra [[Hope|sperare]] che lo vedrò prima di morire. Ho lettere che dicono che mio figlio sarà qui stanotte. Supplicherò vostra signoria di restare con me finché s’incontrino. |
+| LAFEU | Sua altezza viene a marce forzate da Marsiglia, con un [[Body\|corpo]] tanto valido come quando contava trent’anni. Sarà qui domani, o m’inganna colui che in tali informazioni ha raramente fallito. |
+| COUNTESS | Mi rallegra [[Hope\|sperare]] che lo vedrò prima di morire. Ho lettere che dicono che mio figlio sarà qui stanotte. Supplicherò vostra signoria di restare con me finché s’incontrino. |
 | LAFEU | Signora, stavo pensando con quali maniere potessi essere ammesso senza rischio. |
 | COUNTESS | Non dovete che invocare il vostro onorevole privilegio. |
 | LAFEU | Signora, di quello ho fatto una carta ardita, ma, grazie al mio Dio, tiene ancora. |
 | *(didascalia)* | Entra Lavatch |
 | LAVATCH | Oh signora, là c’è il mio signore vostro figlio con una toppa di velluto sul volto. Se sotto ci sia una cicatrice o no, il velluto lo sa; ma è una bella toppa di velluto. La sua guancia sinistra è una guancia a due peli e mezzo, ma la destra è consumata a nudo. |
-| LAFEU | Una cicatrice nobilmente acquistata, o una nobile cicatrice, è una buona livrea d’[[Honour|onore]]. Così probabilmente è quella. |
+| LAFEU | Una cicatrice nobilmente acquistata, o una nobile cicatrice, è una buona livrea d’[[Honour\|onore]]. Così probabilmente è quella. |
 | LAVATCH | Ma è la vostra faccia a fette per la graticola. |
 | LAFEU | (alla Contessa) Andiamo a vedere vostro figlio, vi prego. Ho gran voglia di parlare col giovane nobile soldato. |
-| LAVATCH | In [[Faith|fede]], ce n’è una dozzina, con delicati bei cappelli e piume cortesissime, che chinano il capo e fanno cenno a ogni uomo. |
+| LAVATCH | In [[Faith\|fede]], ce n’è una dozzina, con delicati bei cappelli e piume cortesissime, che chinano il capo e fanno cenno a ogni uomo. |
 | *(didascalia)* | Escono |
 
 
@@ -3251,25 +3251,25 @@ All’s [[Well]] That Ends [[Well]]
 
 | Chi parla | Battuta |
 |---|---|
-| *(didascalia)* | Entrano [[Helen|Elena]], la Vedova e [[Diana]], con due attendenti |
-| [[Helen|HELEN]] | Ma questo eccessivo correre a staffetta giorno e [[Night|notte]]<br>deve abbattere i vostri spiriti. Non possiamo evitarlo.<br>Ma poiché avete fatto dei giorni e delle notti una cosa sola<br>per consumare le vostre gentili membra nei miei affari,<br>siate certe che così crescete nella mia riconoscenza<br>che nulla potrà sradicarvi. |
+| *(didascalia)* | Entrano [[Helen\|Elena]], la Vedova e [[Diana]], con due attendenti |
+| [[Helen\|HELEN]] | Ma questo eccessivo correre a staffetta giorno e [[Night\|notte]]<br>deve abbattere i vostri spiriti. Non possiamo evitarlo.<br>Ma poiché avete fatto dei giorni e delle notti una cosa sola<br>per consumare le vostre gentili membra nei miei affari,<br>siate certe che così crescete nella mia riconoscenza<br>che nulla potrà sradicarvi. |
 | *(didascalia)* | Entra un Gentiluomo Falconiere |
-| [[Helen|HELEN]] | In buon [[Time|tempo]]!<br>Quest’uomo può aiutarmi a giungere all’orecchio di sua maestà,<br>se volesse spendere il suo potere.—Dio vi salvi, signore. |
+| [[Helen\|HELEN]] | In buon [[Time\|tempo]]!<br>Quest’uomo può aiutarmi a giungere all’orecchio di sua maestà,<br>se volesse spendere il suo potere.—Dio vi salvi, signore. |
 | GENTILUOMO | E voi. |
-| [[Helen|HELEN]] | Signore, v’ho visto alla [[Court|corte]] di Francia. |
+| [[Helen\|HELEN]] | Signore, v’ho visto alla [[Court\|corte]] di Francia. |
 | GENTILUOMO | Vi sono stato qualche volta. |
-| [[Helen|HELEN]] | Presumo, signore, che voi non siate decaduto<br>dalla fama che corre sulla vostra bontà,<br>e perciò, spronata da occasioni acutissime<br>che mettono da parte le belle maniere, vi chiamo<br>all’uso delle vostre proprie virtù, per le quali<br>continuerò a esservi grata. |
+| [[Helen\|HELEN]] | Presumo, signore, che voi non siate decaduto<br>dalla fama che corre sulla vostra bontà,<br>e perciò, spronata da occasioni acutissime<br>che mettono da parte le belle maniere, vi chiamo<br>all’uso delle vostre proprie virtù, per le quali<br>continuerò a esservi grata. |
 | GENTILUOMO | Qual è il vostro volere? |
-| [[Helen|HELEN]] | Che vi piaccia<br>dare questa povera petizione al [[King|Re]],<br>e aiutarmi con quella riserva di potere che avete<br>a venire alla sua presenza. |
-| GENTILUOMO | Il [[King|Re]] non è qui. |
-| [[Helen|HELEN]] | Non è qui, signore? |
-| GENTILUOMO | No, davvero.<br>È partito di qui la [[Night|notte]] passata, e con più fretta<br>di quanto sia sua usanza. |
+| [[Helen\|HELEN]] | Che vi piaccia<br>dare questa povera petizione al [[King\|Re]],<br>e aiutarmi con quella riserva di potere che avete<br>a venire alla sua presenza. |
+| GENTILUOMO | Il [[King\|Re]] non è qui. |
+| [[Helen\|HELEN]] | Non è qui, signore? |
+| GENTILUOMO | No, davvero.<br>È partito di qui la [[Night\|notte]] passata, e con più fretta<br>di quanto sia sua usanza. |
 | VEDOVA | Signore, come perdiamo le nostre fatiche. |
-| [[Helen|HELEN]] | Tutto è [[Well|bene]] quel che finisce [[Well|bene]], ancora,<br>anche se il [[Time|tempo]] sembra tanto avverso, e i mezzi inadatti.—<br>Vi supplico, dove è andato? |
+| [[Helen\|HELEN]] | Tutto è [[Well\|bene]] quel che finisce [[Well\|bene]], ancora,<br>anche se il [[Time\|tempo]] sembra tanto avverso, e i mezzi inadatti.—<br>Vi supplico, dove è andato? |
 | GENTILUOMO | Ma sì, a quel che intendo, a Rossiglione,<br>dove io sto andando. |
-| [[Helen|HELEN]] | Vi supplico, signore,<br>poiché è probabile che vediate il [[King|Re]] prima di me,<br>raccomandate la carta alla sua graziosa mano,<br>il che presumo non vi recherà biasimo,<br>ma piuttosto vi farà ringraziare la vostra fatica per essa.<br>Vi seguirò con quella buona [[Speed|prestezza]]<br>che i nostri mezzi ci daranno modo d’avere. |
+| [[Helen\|HELEN]] | Vi supplico, signore,<br>poiché è probabile che vediate il [[King\|Re]] prima di me,<br>raccomandate la carta alla sua graziosa mano,<br>il che presumo non vi recherà biasimo,<br>ma piuttosto vi farà ringraziare la vostra fatica per essa.<br>Vi seguirò con quella buona [[Speed\|prestezza]]<br>che i nostri mezzi ci daranno modo d’avere. |
 | GENTILUOMO | (prendendo la carta) Questo lo farò per voi. |
-| [[Helen|HELEN]] | E vi troverete [[Well|bene]] ringraziato,<br>qualunque altra cosa avvenga. Dobbiamo tornare a [[Horse|cavallo]].—<br>Su, su, provvedete. |
+| [[Helen\|HELEN]] | E vi troverete [[Well\|bene]] ringraziato,<br>qualunque altra cosa avvenga. Dobbiamo tornare a [[Horse\|cavallo]].—<br>Su, su, provvedete. |
 | *(didascalia)* | Escono separatamente |
 
 
@@ -3309,7 +3309,7 @@ All’s [[Well]] That Ends [[Well]]
 |---|---|
 | *(didascalia)* | Entrano Lavatch e Paroles, con una lettera |
 | PAROLES | Buon messer Lavatch, date al mio signore di Lafeu questa lettera. Un tempo, signore, v’ero meglio noto, quando avevo familiarità con abiti più freschi. Ma ora, signore, sono infangato nell’umore della Fortuna, e odoro un po’ forte del suo forte dispiacere. |
-| LAVATCH | In verità, il dispiacere della Fortuna è ben sudicio, se odora così forte come dite. D’ora in poi non mangerò più pesce imburrato dalla Fortuna. Ti prego, lascia libero il [[Wind|vento]]. |
+| LAVATCH | In verità, il dispiacere della Fortuna è ben sudicio, se odora così forte come dite. D’ora in poi non mangerò più pesce imburrato dalla Fortuna. Ti prego, lascia libero il [[Wind\|vento]]. |
 | PAROLES | Anzi, non avete bisogno di tapparvi il naso, signore, parlavo solo per metafora. 11 |
 | LAVATCH | In verità, signore, se la vostra metafora puzza mi tapperò il naso, come contro la metafora di qualunque uomo. Ti prego, allontanati di più. |
 | PAROLES | Vi prego, signore, consegnate per me questa carta. |
@@ -3318,7 +3318,7 @@ All’s [[Well]] That Ends [[Well]]
 | LAVATCH | Ecco qui uno sterco della Fortuna, signore, o del gatto della Fortuna—ma non un gatto di muschio—che è caduto nell’immondo vivaio del suo dispiacere e, come dice lui, ne è rimasto infangato. Vi prego, signore, usate la carpa come potete, perché ha l’aspetto d’un povero furfante decaduto, ingegnoso, sciocco e canagliesco. Compiango la sua sventura nelle mie similitudini di conforto, e lo lascio a vostra signoria. Esce |
 | PAROLES | Mio signore, sono un uomo che la Fortuna ha crudelmente graffiato. |
 | LAFEU | E che vorreste che io facessi? È troppo tardi ora per tagliarle le unghie. In che avete fatto il furfante con la Fortuna, perché ella vi graffiasse, lei che di per sé è una buona signora e non vorrebbe che i furfanti prosperassero a lungo sotto di lei? Ecco per voi un quarto d’écu. Che i giudici facciano amici voi e la Fortuna; io ho altri affari. |
-| PAROLES | Supplico vostro [[Honour|onore]] d’ascoltarmi una sola parola— |
+| PAROLES | Supplico vostro [[Honour\|onore]] d’ascoltarmi una sola parola— |
 | LAFEU | Voi mendicate un solo penny di più. Su, l’avrete. Risparmiate la vostra parola. |
 | PAROLES | Il mio nome, mio buon signore, è Paroles. |
 | LAFEU | Allora mendicate più d’una parola. Corpo di bacco! Datemi la mano. Come sta il vostro tamburo? |
@@ -3327,7 +3327,7 @@ All’s [[Well]] That Ends [[Well]]
 | PAROLES | Sta in voi, mio signore, ricondurmi in qualche grazia, perché voi mi portaste fuori. |
 | LAFEU | Vergogna su te, furfante! Mi imponi in una volta sia l’ufficio di Dio sia quello del diavolo? Uno ti porta in grazia, e l’altro ti porta fuori. |
 | *(didascalia)* | Suonano le trombe |
-| LAFEU | Viene il [[King|Re]]; lo so dalle sue trombe. Messere, cercami più tardi. Ho parlato di te la [[Night|notte]] passata. Sebbene tu sia uno [[Fool|sciocco]] e un furfante, mangerai. Andiamo, seguimi. |
+| LAFEU | Viene il [[King\|Re]]; lo so dalle sue trombe. Messere, cercami più tardi. Ho parlato di te la [[Night\|notte]] passata. Sebbene tu sia uno [[Fool\|sciocco]] e un furfante, mangerai. Andiamo, seguimi. |
 | *(didascalia)* | PAROLES Lodo Dio per voi. Escono |
 
 
@@ -3473,133 +3473,133 @@ All’s [[Well]] That Ends [[Well]]
 
 | Chi parla | Battuta |
 |---|---|
-| *(didascalia)* | Squillo di trombe. Entrano il [[King|Re]], la vecchia Contessa, Lafeu e gli attendenti |
-| [[King|RE]] | Perdemmo in lei un [[Jewel|gioiello]], e la nostra stima<br>ne fu resa molto più povera. Ma vostro figlio,<br>pazzo nella follia, mancò del senno di conoscere<br>il suo pregio fino in [[Home|fondo]]. |
-| COUNTESS | È passato, mio sovrano, e supplico vostra maestà di tenerlo<br>per naturale ribellione compiuta nel germoglio della gioventù,<br>quando l’olio e il [[Fire|fuoco]], troppo forti per la forza della ragione,<br>la sopraffanno e continuano a bruciare. |
-| [[King|RE]] | Mia onorata signora,<br>ho perdonato e dimenticato tutto,<br>sebbene le mie vendette fossero tese in alto contro di lui 10<br>e spiassero il [[Time|tempo]] di scagliarsi. |
-| LAFEU | Questo devo dire—<br>ma prima chiedo il mio perdono—il giovane signore<br>fece a sua maestà, a sua madre e alla sua signora<br>offesa di gran rilievo, ma a sé stesso<br>il torto più grande di tutti. Perdette una moglie 15<br>la cui [[Beauty|bellezza]] stupiva lo sguardo<br>degli occhi più ricchi, le cui parole facevano prigioniero ogni orecchio,<br>la cui cara perfezione cuori che disdegnavano di servire<br>umilmente chiamavano padrona. |
-| [[King|RE]] | Lodare ciò che è perduto<br>rende caro il ricordo. [[Well|Bene]], chiamatelo qua.<br>Siamo riconciliati, e la prima vista ucciderà<br>ogni ripetizione. Non ci chieda perdono.<br>La [[Nature|natura]] della sua grande offesa è morta,<br>e più profonde dell’oblio noi seppelliamo<br>le sue reliquie che accendono l’ira. Che s’accosti<br>come estraneo, non come offensore; e informatelo<br>che tale è la nostra volontà. |
+| *(didascalia)* | Squillo di trombe. Entrano il [[King\|Re]], la vecchia Contessa, Lafeu e gli attendenti |
+| [[King\|RE]] | Perdemmo in lei un [[Jewel\|gioiello]], e la nostra stima<br>ne fu resa molto più povera. Ma vostro figlio,<br>pazzo nella follia, mancò del senno di conoscere<br>il suo pregio fino in [[Home\|fondo]]. |
+| COUNTESS | È passato, mio sovrano, e supplico vostra maestà di tenerlo<br>per naturale ribellione compiuta nel germoglio della gioventù,<br>quando l’olio e il [[Fire\|fuoco]], troppo forti per la forza della ragione,<br>la sopraffanno e continuano a bruciare. |
+| [[King\|RE]] | Mia onorata signora,<br>ho perdonato e dimenticato tutto,<br>sebbene le mie vendette fossero tese in alto contro di lui 10<br>e spiassero il [[Time\|tempo]] di scagliarsi. |
+| LAFEU | Questo devo dire—<br>ma prima chiedo il mio perdono—il giovane signore<br>fece a sua maestà, a sua madre e alla sua signora<br>offesa di gran rilievo, ma a sé stesso<br>il torto più grande di tutti. Perdette una moglie 15<br>la cui [[Beauty\|bellezza]] stupiva lo sguardo<br>degli occhi più ricchi, le cui parole facevano prigioniero ogni orecchio,<br>la cui cara perfezione cuori che disdegnavano di servire<br>umilmente chiamavano padrona. |
+| [[King\|RE]] | Lodare ciò che è perduto<br>rende caro il ricordo. [[Well\|Bene]], chiamatelo qua.<br>Siamo riconciliati, e la prima vista ucciderà<br>ogni ripetizione. Non ci chieda perdono.<br>La [[Nature\|natura]] della sua grande offesa è morta,<br>e più profonde dell’oblio noi seppelliamo<br>le sue reliquie che accendono l’ira. Che s’accosti<br>come estraneo, non come offensore; e informatelo<br>che tale è la nostra volontà. |
 | ATTENDENTE | Così farò, mio sovrano. Esce |
-| [[King|RE]] | (a Lafeu)<br>Che dice di vostra figlia? Avete parlato? |
+| [[King\|RE]] | (a Lafeu)<br>Che dice di vostra figlia? Avete parlato? |
 | LAFEU | Tutto ciò che egli è si rimette a vostra altezza. |
-| [[King|RE]] | Allora avremo un matrimonio. Mi son state mandate lettere<br>che lo pongono alto in fama. |
+| [[King\|RE]] | Allora avremo un matrimonio. Mi son state mandate lettere<br>che lo pongono alto in fama. |
 | *(didascalia)* | Entra [[Bertram]] con una toppa di velluto sulla guancia sinistra, e s’inginocchia |
-| LAFEU | Gli sta [[Well|bene]]. |
-| [[King|RE]] | (a [[Bertram]]) Non sono un giorno di stagione,<br>perché puoi vedere in me un sole e una grandine<br>in una volta. Ma ai raggi più splendenti<br>le nubi dissipate cedono; dunque fatti avanti.<br>Il [[Time|tempo]] è di nuovo sereno. |
-| [[Bertram|BERTRAM]] | Le mie colpe altamente pentite,<br>caro sovrano, perdonatemi. |
-| [[King|RE]] | Tutto è sanato.<br>Non una parola di più del [[Time|tempo]] consumato.<br>Prendiamo l’istante per il ciuffo davanti,<br>perché siamo vecchi, e sui nostri più rapidi decreti<br>il piede inudibile e senza rumore del [[Time|tempo]]<br>s’insinua prima che possiamo eseguirli. Ricordate<br>la figlia di questo signore? |
-| [[Bertram|BERTRAM]] | Con ammirazione, mio sovrano. Da principio 45<br>fissai la mia scelta su lei, prima che il mio cuore<br>osasse fare della mia lingua un araldo troppo ardito;<br>e là, fissando l’impressione del mio occhio,<br>il Disprezzo mi prestò la sua prospettiva sdegnosa,<br>che storse la linea d’ogni altro volto,<br>macchiò un bel colore o lo dichiarò rubato,<br>dilatò o contrasse tutte le proporzioni<br>in un oggetto orrendissimo. Da ciò venne<br>che colei che tutti lodavano e che io stesso,<br>da quando l’ho perduta, ho amato, era al mio occhio 55<br>la [[Dust|polvere]] che l’offendeva. |
-| [[King|RE]] | [[Well|Bene]] scusato.<br>Che tu l’abbia [[Love|amata]] cancella qualche partita<br>dal gran conto. Ma l’[[Love|amore]] che viene troppo tardi,<br>come un perdono pieno di rimorso portato lentamente,<br>si volge, per chi manda la grazia, in offesa amara, 60<br>gridando: «Buono è ciò che è perduto.» Le nostre colpe temerarie<br>fanno vil prezzo delle cose serie che abbiamo,<br>non conoscendole finché non conosciamo il loro [[Grave|sepolcro]].<br>Spesso i nostri dispiaceri, ingiusti verso noi stessi,<br>distruggono i nostri amici, e poi ne piangiamo la [[Dust|polvere]]. 65<br>Il nostro proprio [[Love|amore]], destandosi, grida a vedere ciò che è fatto,<br>mentre l’odio vergognoso dorme via il pomeriggio.<br>Sia questa la campana a morto della dolce [[Helen|Elena]]; e ora dimenticala.<br>Manda il tuo pegno amoroso per la bella Maudlin.<br>I consensi principali sono ottenuti, e qui resteremo<br>per vedere il secondo giorno di [[Marriage|nozze]] del nostro vedovo. |
+| LAFEU | Gli sta [[Well\|bene]]. |
+| [[King\|RE]] | (a [[Bertram]]) Non sono un giorno di stagione,<br>perché puoi vedere in me un sole e una grandine<br>in una volta. Ma ai raggi più splendenti<br>le nubi dissipate cedono; dunque fatti avanti.<br>Il [[Time\|tempo]] è di nuovo sereno. |
+| [[Bertram\|BERTRAM]] | Le mie colpe altamente pentite,<br>caro sovrano, perdonatemi. |
+| [[King\|RE]] | Tutto è sanato.<br>Non una parola di più del [[Time\|tempo]] consumato.<br>Prendiamo l’istante per il ciuffo davanti,<br>perché siamo vecchi, e sui nostri più rapidi decreti<br>il piede inudibile e senza rumore del [[Time\|tempo]]<br>s’insinua prima che possiamo eseguirli. Ricordate<br>la figlia di questo signore? |
+| [[Bertram\|BERTRAM]] | Con ammirazione, mio sovrano. Da principio 45<br>fissai la mia scelta su lei, prima che il mio cuore<br>osasse fare della mia lingua un araldo troppo ardito;<br>e là, fissando l’impressione del mio occhio,<br>il Disprezzo mi prestò la sua prospettiva sdegnosa,<br>che storse la linea d’ogni altro volto,<br>macchiò un bel colore o lo dichiarò rubato,<br>dilatò o contrasse tutte le proporzioni<br>in un oggetto orrendissimo. Da ciò venne<br>che colei che tutti lodavano e che io stesso,<br>da quando l’ho perduta, ho amato, era al mio occhio 55<br>la [[Dust\|polvere]] che l’offendeva. |
+| [[King\|RE]] | [[Well\|Bene]] scusato.<br>Che tu l’abbia [[Love\|amata]] cancella qualche partita<br>dal gran conto. Ma l’[[Love\|amore]] che viene troppo tardi,<br>come un perdono pieno di rimorso portato lentamente,<br>si volge, per chi manda la grazia, in offesa amara, 60<br>gridando: «Buono è ciò che è perduto.» Le nostre colpe temerarie<br>fanno vil prezzo delle cose serie che abbiamo,<br>non conoscendole finché non conosciamo il loro [[Grave\|sepolcro]].<br>Spesso i nostri dispiaceri, ingiusti verso noi stessi,<br>distruggono i nostri amici, e poi ne piangiamo la [[Dust\|polvere]]. 65<br>Il nostro proprio [[Love\|amore]], destandosi, grida a vedere ciò che è fatto,<br>mentre l’odio vergognoso dorme via il pomeriggio.<br>Sia questa la campana a morto della dolce [[Helen\|Elena]]; e ora dimenticala.<br>Manda il tuo pegno amoroso per la bella Maudlin.<br>I consensi principali sono ottenuti, e qui resteremo<br>per vedere il secondo giorno di [[Marriage\|nozze]] del nostro vedovo. |
 | *(didascalia)* | COUNTESS |
-| [[King|RE]] | E che sia migliore del primo, oh caro cielo, benedicilo!<br>O prima che s’incontrino, in me, oh [[Nature|natura]], cessa. |
-| LAFEU | (a [[Bertram]])<br>Venite, figlio mio, in cui il nome della mia [[house|casa]]<br>dev’essere assorbito, date un pegno da parte vostra<br>che scintilli negli spiriti di mia figlia,<br>perché ella venga presto.<br>[[Bertram]] dà a Lafeu un anello<br>Per la mia vecchia barba<br>e per ogni pelo che v’è sopra, [[Helen|Elena]] che è morta<br>era una dolce creatura. Un anello come questo,<br>l’ultima volta che presi congedo da lei a [[Court|corte]],<br>vidi al suo dito. |
-| [[Bertram|BERTRAM]] | Suo non era. |
-| [[King|RE]] | Ora, vi prego, lasciatemelo vedere; perché il mio occhio,<br>mentre parlavo, spesso vi si fissava.<br>Lafeu gli dà l’anello<br>Quest’anello era mio, e quando lo diedi a [[Helen|Elena]]<br>le dissi che, se la sua fortuna si fosse mai trovata<br>nel bisogno d’aiuto, con questo pegno<br>io l’avrei soccorsa. Avesti tu l’astuzia di privarla<br>di ciò che più doveva giovarle? |
-| [[Bertram|BERTRAM]] | Mio grazioso sovrano,<br>comunque vi piaccia intenderla così,<br>l’anello non fu mai suo. |
+| [[King\|RE]] | E che sia migliore del primo, oh caro cielo, benedicilo!<br>O prima che s’incontrino, in me, oh [[Nature\|natura]], cessa. |
+| LAFEU | (a [[Bertram]])<br>Venite, figlio mio, in cui il nome della mia [[house\|casa]]<br>dev’essere assorbito, date un pegno da parte vostra<br>che scintilli negli spiriti di mia figlia,<br>perché ella venga presto.<br>[[Bertram]] dà a Lafeu un anello<br>Per la mia vecchia barba<br>e per ogni pelo che v’è sopra, [[Helen\|Elena]] che è morta<br>era una dolce creatura. Un anello come questo,<br>l’ultima volta che presi congedo da lei a [[Court\|corte]],<br>vidi al suo dito. |
+| [[Bertram\|BERTRAM]] | Suo non era. |
+| [[King\|RE]] | Ora, vi prego, lasciatemelo vedere; perché il mio occhio,<br>mentre parlavo, spesso vi si fissava.<br>Lafeu gli dà l’anello<br>Quest’anello era mio, e quando lo diedi a [[Helen\|Elena]]<br>le dissi che, se la sua fortuna si fosse mai trovata<br>nel bisogno d’aiuto, con questo pegno<br>io l’avrei soccorsa. Avesti tu l’astuzia di privarla<br>di ciò che più doveva giovarle? |
+| [[Bertram\|BERTRAM]] | Mio grazioso sovrano,<br>comunque vi piaccia intenderla così,<br>l’anello non fu mai suo. |
 | COUNTESS | Figlio, sulla mia vita<br>l’ho vista portarlo, e lo stimava<br>al prezzo della sua vita. |
 | LAFEU | Sono certo d’averla vista portarlo. |
-| [[Bertram|BERTRAM]] | V’ingannate, mio signore, ella non lo vide mai.<br>In Firenze mi fu gettato da una finestra,<br>avvolto in una carta che conteneva il nome<br>di colei che lo gettò. Nobile era, e credeva<br>ch’io fossi impegnato. Ma quando avevo dichiarato<br>la mia propria condizione, e l’avevo pienamente informata<br>che non potevo rispondere in quel corso d’[[Honour|onore]]<br>in cui ella aveva fatto l’apertura, ella si fermò<br>in grave rassegnazione, e non volle mai<br>riprendere l’anello. |
-| [[King|RE]] | Pluto stesso,<br>che conosce la tintura e la medicina moltiplicante,<br>non ha nel mistero della [[Nature|natura]] più scienza<br>di quanta io ne abbia in quest’anello. Era mio, era d’[[Helen|Elena]],<br>chiunque ve l’abbia dato. Dunque, se sapete<br>d’essere [[Well|bene]] al corrente di voi stesso,<br>confessate che era suo, e per quale rude costrizione<br>lo avete ottenuto da lei. Chiamò i santi a garanti<br>che non l’avrebbe mai tolto dal proprio dito<br>se non per darlo a voi stesso nel letto,<br>dove non siete mai venuto, o per mandarlo a noi<br>nel suo gran disastro. |
-| [[Bertram|BERTRAM]] | Ella non lo vide mai. |
-| [[King|RE]] | Lo dici falsamente, com’è vero che [[Love|amo]] il mio [[Honour|onore]],<br>e fai entrare in me timori congetturali<br>che volentieri escluderei. Se dovesse risultare<br>che tu sei così inumano—non risulterà così.<br>E tuttavia non so. Tu l’odiavi a morte,<br>ed ella è morta; cosa che nulla, se non chiuderle<br>io stesso gli occhi, potrebbe indurmi a credere,<br>più che il vedere quest’anello.—Portatelo via.<br>Le mie prove passate, comunque cada la faccenda,<br>accuseranno i miei timori di poca [[Vanity|vanità]],<br>avendo io vanamente temuto troppo poco. Via con lui.<br>Vaglieremo più a fondo questa materia. |
-| [[Bertram|BERTRAM]] | Se proverete<br>che quest’anello fu mai suo, proverete con la stessa facilità<br>ch’io fui marito nel suo letto in Firenze,<br>dove pure ella non fu mai. Esce sotto scorta |
+| [[Bertram\|BERTRAM]] | V’ingannate, mio signore, ella non lo vide mai.<br>In Firenze mi fu gettato da una finestra,<br>avvolto in una carta che conteneva il nome<br>di colei che lo gettò. Nobile era, e credeva<br>ch’io fossi impegnato. Ma quando avevo dichiarato<br>la mia propria condizione, e l’avevo pienamente informata<br>che non potevo rispondere in quel corso d’[[Honour\|onore]]<br>in cui ella aveva fatto l’apertura, ella si fermò<br>in grave rassegnazione, e non volle mai<br>riprendere l’anello. |
+| [[King\|RE]] | Pluto stesso,<br>che conosce la tintura e la medicina moltiplicante,<br>non ha nel mistero della [[Nature\|natura]] più scienza<br>di quanta io ne abbia in quest’anello. Era mio, era d’[[Helen\|Elena]],<br>chiunque ve l’abbia dato. Dunque, se sapete<br>d’essere [[Well\|bene]] al corrente di voi stesso,<br>confessate che era suo, e per quale rude costrizione<br>lo avete ottenuto da lei. Chiamò i santi a garanti<br>che non l’avrebbe mai tolto dal proprio dito<br>se non per darlo a voi stesso nel letto,<br>dove non siete mai venuto, o per mandarlo a noi<br>nel suo gran disastro. |
+| [[Bertram\|BERTRAM]] | Ella non lo vide mai. |
+| [[King\|RE]] | Lo dici falsamente, com’è vero che [[Love\|amo]] il mio [[Honour\|onore]],<br>e fai entrare in me timori congetturali<br>che volentieri escluderei. Se dovesse risultare<br>che tu sei così inumano—non risulterà così.<br>E tuttavia non so. Tu l’odiavi a morte,<br>ed ella è morta; cosa che nulla, se non chiuderle<br>io stesso gli occhi, potrebbe indurmi a credere,<br>più che il vedere quest’anello.—Portatelo via.<br>Le mie prove passate, comunque cada la faccenda,<br>accuseranno i miei timori di poca [[Vanity\|vanità]],<br>avendo io vanamente temuto troppo poco. Via con lui.<br>Vaglieremo più a fondo questa materia. |
+| [[Bertram\|BERTRAM]] | Se proverete<br>che quest’anello fu mai suo, proverete con la stessa facilità<br>ch’io fui marito nel suo letto in Firenze,<br>dove pure ella non fu mai. Esce sotto scorta |
 | *(didascalia)* | Entra il Gentiluomo Falconiere con una carta |
-| [[King|RE]] | Sono avvolto in tetri pensieri. |
+| [[King\|RE]] | Sono avvolto in tetri pensieri. |
 | GENTILUOMO | Grazioso sovrano,<br>se io sia stato da biasimare o no, non lo so.<br>Ecco una petizione d’una Fiorentina<br>che per quattro o cinque tappe è arrivata troppo tardi<br>per presentarla ella stessa. Me ne son fatto carico,<br>vinto a ciò dalla bella grazia e dal parlare<br>della povera supplicante, la quale ormai so<br>che è qui in attesa. Il suo affare le si legge in volto<br>con aria d’importanza, e mi disse<br>in un dolce sommario a voce che riguardava<br>vostra altezza insieme con lei stessa. |
-| *(didascalia)* | [[King|RE]] (legge una lettera) «Sulle sue molte proteste di sposarmi quando sua moglie fosse morta, arrossisco a dirlo, mi conquistò. Ora il conte di Rossiglione è vedovo, i suoi voti mi sono dovuti, e il mio [[Honour|onore]] gli è pagato. Fuggì da Firenze senza prender congedo, e io lo seguo nel suo paese per giustizia. Concedetemela, oh [[King|Re]]! In voi meglio riposa; altrimenti un seduttore prospera e una povera fanciulla è perduta. |
+| *(didascalia)* | [[King\|RE]] (legge una lettera) «Sulle sue molte proteste di sposarmi quando sua moglie fosse morta, arrossisco a dirlo, mi conquistò. Ora il conte di Rossiglione è vedovo, i suoi voti mi sono dovuti, e il mio [[Honour\|onore]] gli è pagato. Fuggì da Firenze senza prender congedo, e io lo seguo nel suo paese per giustizia. Concedetemela, oh [[King\|Re]]! In voi meglio riposa; altrimenti un seduttore prospera e una povera fanciulla è perduta. |
 | GENTILUOMO | [[Diana]] Capilet.» |
 | LAFEU | Mi comprerò un genero a una fiera, e pagherò il dazio per questo. Di lui non ne voglio. |
-| [[King|RE]] | I cieli han pensato [[Well|bene]] a te, Lafeu,<br>facendo venire alla luce questa scoperta.—Cercate queste ricorrenti.<br>Andate in fretta e riportate qua il Conte. |
+| [[King\|RE]] | I cieli han pensato [[Well\|bene]] a te, Lafeu,<br>facendo venire alla luce questa scoperta.—Cercate queste ricorrenti.<br>Andate in fretta e riportate qua il Conte. |
 | *(didascalia)* | Esce uno o più |
-| [[King|RE]] | Temo che la vita d’[[Helen|Elena]], signora,<br>sia stata turpemente strappata. |
+| [[King\|RE]] | Temo che la vita d’[[Helen\|Elena]], signora,<br>sia stata turpemente strappata. |
 | *(didascalia)* | Entra [[Bertram]] sotto scorta |
 | COUNTESS | Ora giustizia su chi l’ha fatto! |
-| [[King|RE]] | (a [[Bertram]])<br>Mi [[Wonder|meraviglio]], signore, che, essendo le mogli mostri per voi,<br>e fuggendole nel momento stesso in cui giurate loro signoria,<br>pure [[Desire|desideriate]] sposarvi. |
+| [[King\|RE]] | (a [[Bertram]])<br>Mi [[Wonder\|meraviglio]], signore, che, essendo le mogli mostri per voi,<br>e fuggendole nel momento stesso in cui giurate loro signoria,<br>pure [[Desire\|desideriate]] sposarvi. |
 | *(didascalia)* | Entrano la Vedova e [[Diana]] |
-| [[King|RE]] | Chi è quella donna? |
-| [[Diana|DIANA]] | Sono, mio signore, una misera Fiorentina,<br>discesa dall’antico Capilet.<br>La mia domanda, a quanto intendo, voi la conoscete,<br>e perciò sapete fin dove posso esser compatita. |
-| VEDOVA | (al [[King|Re]])<br>Sono sua madre, signore, e la mia età e il mio [[Honour|onore]]<br>soffrono entrambi sotto questa lagnanza che portiamo,<br>ed entrambi cesseranno senza il vostro rimedio. |
-| [[King|RE]] | Venite qua, Conte. Conoscete queste donne? |
-| [[Bertram|BERTRAM]] | Mio signore, non posso né voglio negare<br>di conoscerle. Mi accusano d’altro? |
-| [[Diana|DIANA]] | Perché guardate con tanta estraneità vostra moglie? |
-| [[Bertram|BERTRAM]] | (al [[King|Re]])<br>Non è mia, mio signore. |
-| [[Diana|DIANA]] | Se vi sposate<br>date via questa mano, e quella è mia;<br>date via i voti del cielo, e quelli sono miei;<br>date via me stessa, che è cosa nota esser mia,<br>perché per voto sono così incorporata in voi<br>che colei che sposa voi deve sposare me,<br>o entrambe o nessuna. |
+| [[King\|RE]] | Chi è quella donna? |
+| [[Diana\|DIANA]] | Sono, mio signore, una misera Fiorentina,<br>discesa dall’antico Capilet.<br>La mia domanda, a quanto intendo, voi la conoscete,<br>e perciò sapete fin dove posso esser compatita. |
+| VEDOVA | (al [[King\|Re]])<br>Sono sua madre, signore, e la mia età e il mio [[Honour\|onore]]<br>soffrono entrambi sotto questa lagnanza che portiamo,<br>ed entrambi cesseranno senza il vostro rimedio. |
+| [[King\|RE]] | Venite qua, Conte. Conoscete queste donne? |
+| [[Bertram\|BERTRAM]] | Mio signore, non posso né voglio negare<br>di conoscerle. Mi accusano d’altro? |
+| [[Diana\|DIANA]] | Perché guardate con tanta estraneità vostra moglie? |
+| [[Bertram\|BERTRAM]] | (al [[King\|Re]])<br>Non è mia, mio signore. |
+| [[Diana\|DIANA]] | Se vi sposate<br>date via questa mano, e quella è mia;<br>date via i voti del cielo, e quelli sono miei;<br>date via me stessa, che è cosa nota esser mia,<br>perché per voto sono così incorporata in voi<br>che colei che sposa voi deve sposare me,<br>o entrambe o nessuna. |
 | LAFEU | (a [[Bertram]]) La vostra reputazione è troppo corta per mia figlia, non siete marito per lei. |
-| [[Bertram|BERTRAM]] | (al [[King|Re]])<br>Mio signore, questa è una creatura sciocca e disperata<br>con cui qualche volta ho riso. Che vostra<br>altezza<br>ponga un pensiero più nobile sul mio [[Honour|onore]]<br>che credere ch’io lo affonderei qui. |
-| [[King|RE]] | Signore, quanto ai miei pensieri, li avete mal amici<br>finché le vostre azioni non li conquistino. Si mostri il vostro [[Honour|onore]] più bello<br>di quanto stia nel mio pensiero. |
-| [[Diana|DIANA]] | Mio buon signore,<br>chiedetegli sotto giuramento se crede<br>di non aver avuto la mia verginità. |
-| [[King|RE]] | Che dici a lei? |
-| [[Bertram|BERTRAM]] | È impudente, mio signore,<br>ed era una comune sgualdrina del campo. |
-| [[Diana|DIANA]] | (al [[King|Re]])<br>Mi fa torto, mio signore. Se fossi tale<br>avrebbe potuto comprarmi a prezzo comune.<br>Non credetegli. Oh, guardate quest’anello,<br>il cui alto pregio e ricco valore<br>non avevano pari; e pure, con tutto ciò,<br>lo diede a una sgualdrina del campo,<br>se io sono tale. |
+| [[Bertram\|BERTRAM]] | (al [[King\|Re]])<br>Mio signore, questa è una creatura sciocca e disperata<br>con cui qualche volta ho riso. Che vostra<br>altezza<br>ponga un pensiero più nobile sul mio [[Honour\|onore]]<br>che credere ch’io lo affonderei qui. |
+| [[King\|RE]] | Signore, quanto ai miei pensieri, li avete mal amici<br>finché le vostre azioni non li conquistino. Si mostri il vostro [[Honour\|onore]] più bello<br>di quanto stia nel mio pensiero. |
+| [[Diana\|DIANA]] | Mio buon signore,<br>chiedetegli sotto giuramento se crede<br>di non aver avuto la mia verginità. |
+| [[King\|RE]] | Che dici a lei? |
+| [[Bertram\|BERTRAM]] | È impudente, mio signore,<br>ed era una comune sgualdrina del campo. |
+| [[Diana\|DIANA]] | (al [[King\|Re]])<br>Mi fa torto, mio signore. Se fossi tale<br>avrebbe potuto comprarmi a prezzo comune.<br>Non credetegli. Oh, guardate quest’anello,<br>il cui alto pregio e ricco valore<br>non avevano pari; e pure, con tutto ciò,<br>lo diede a una sgualdrina del campo,<br>se io sono tale. |
 | COUNTESS | Arrossisce, e il colpo è giusto.<br>Di sei antenati precedenti, quella gemma;<br>trasmessa per testamento alla discendenza seguente<br>fu posseduta e portata. Questa è sua moglie.<br>Quell’anello è mille prove. |
-| [[King|RE]] | (a [[Diana]])<br>Mi parve che dicessi<br>d’aver visto uno qui a [[Court|corte]] che potesse testimoniarlo. |
-| [[Diana|DIANA]] | Sì, mio signore, ma m’è odioso produrre<br>uno strumento così cattivo. Si chiama Paroles. |
+| [[King\|RE]] | (a [[Diana]])<br>Mi parve che dicessi<br>d’aver visto uno qui a [[Court\|corte]] che potesse testimoniarlo. |
+| [[Diana\|DIANA]] | Sì, mio signore, ma m’è odioso produrre<br>uno strumento così cattivo. Si chiama Paroles. |
 | LAFEU | Ho visto l’uomo oggi, se uomo è. |
-| [[King|RE]] | Trovatelo e portatelo qua. Esce uno |
-| [[Bertram|BERTRAM]] | Che c’entra lui?<br>È additato come uno schiavo perfidissimo,<br>accusato e corrotto d’ogni macchia del mondo,<br>la cui [[Nature|natura]] si sente male solo a dire una [[Truth|verità]].<br>Sono io questo o quello per ciò che egli dirà,<br>lui che dirà qualunque cosa? |
-| [[King|RE]] | Ella ha quell’anello vostro. |
-| [[Bertram|BERTRAM]] | Credo che l’abbia. Certo è che mi piacque<br>e l’abbordai alla maniera lasciva della gioventù.<br>Ella conosceva la sua distanza e pescava per me,<br>rendendo pazza la mia avidità col suo ritegno,<br>come tutti gli impedimenti nel corso del capriccio<br>sono motivi di maggior capriccio; e in fine<br>la sua infinita astuzia con la sua grazia da poco<br>mi soggiogò al suo prezzo. Ottenne l’anello,<br>e io ebbi ciò che un mio inferiore avrebbe potuto<br>comprare a prezzo di mercato. |
-| [[Diana|DIANA]] | Devo esser paziente.<br>Voi che avete congedato una prima moglie così nobile<br>potete giustamente tenermi a stecchetto. Pure vi prego—<br>poiché a voi manca la virtù, io perderò un marito—<br>mandate a prendere il vostro anello, lo restituirò a [[Home|casa]],<br>e ridatemi il mio. |
-| [[Bertram|BERTRAM]] | Non l’ho. |
-| [[King|RE]] | (a [[Diana]]) Quale anello era il tuo, ti prego? |
-| [[Diana|DIANA]] | Signore, molto simile a quello che avete al dito. |
-| [[King|RE]] | Conosci quest’anello? Quest’anello era suo poco fa. |
-| [[Diana|DIANA]] | E questo è quello che gli diedi essendo a letto. |
-| [[King|RE]] | Va dunque falsa la storia che tu gliel’avessi gettato<br>da una finestra? |
-| [[Diana|DIANA]] | Ho detto la [[Truth|verità]]. |
+| [[King\|RE]] | Trovatelo e portatelo qua. Esce uno |
+| [[Bertram\|BERTRAM]] | Che c’entra lui?<br>È additato come uno schiavo perfidissimo,<br>accusato e corrotto d’ogni macchia del mondo,<br>la cui [[Nature\|natura]] si sente male solo a dire una [[Truth\|verità]].<br>Sono io questo o quello per ciò che egli dirà,<br>lui che dirà qualunque cosa? |
+| [[King\|RE]] | Ella ha quell’anello vostro. |
+| [[Bertram\|BERTRAM]] | Credo che l’abbia. Certo è che mi piacque<br>e l’abbordai alla maniera lasciva della gioventù.<br>Ella conosceva la sua distanza e pescava per me,<br>rendendo pazza la mia avidità col suo ritegno,<br>come tutti gli impedimenti nel corso del capriccio<br>sono motivi di maggior capriccio; e in fine<br>la sua infinita astuzia con la sua grazia da poco<br>mi soggiogò al suo prezzo. Ottenne l’anello,<br>e io ebbi ciò che un mio inferiore avrebbe potuto<br>comprare a prezzo di mercato. |
+| [[Diana\|DIANA]] | Devo esser paziente.<br>Voi che avete congedato una prima moglie così nobile<br>potete giustamente tenermi a stecchetto. Pure vi prego—<br>poiché a voi manca la virtù, io perderò un marito—<br>mandate a prendere il vostro anello, lo restituirò a [[Home\|casa]],<br>e ridatemi il mio. |
+| [[Bertram\|BERTRAM]] | Non l’ho. |
+| [[King\|RE]] | (a [[Diana]]) Quale anello era il tuo, ti prego? |
+| [[Diana\|DIANA]] | Signore, molto simile a quello che avete al dito. |
+| [[King\|RE]] | Conosci quest’anello? Quest’anello era suo poco fa. |
+| [[Diana\|DIANA]] | E questo è quello che gli diedi essendo a letto. |
+| [[King\|RE]] | Va dunque falsa la storia che tu gliel’avessi gettato<br>da una finestra? |
+| [[Diana\|DIANA]] | Ho detto la [[Truth\|verità]]. |
 | *(didascalia)* | Entra Paroles |
-| [[Bertram|BERTRAM]] | (al [[King|Re]])<br>Mio signore, confesso che l’anello era suo. |
-| [[King|RE]] | Trasalisci malamente; ogni piuma ti fa sobbalzare.—<br>È questo l’uomo di cui parli? |
-| [[Diana|DIANA]] | Sì, mio signore. |
-| [[King|RE]] | (a Paroles)<br>Dimmi, messere—ma dimmi il vero, t’ingiungo,<br>senza temere il dispiacere del tuo padrone,<br>che, se procedi rettamente, terrò lontano—<br>di lui e di questa donna qui che cosa sai? |
+| [[Bertram\|BERTRAM]] | (al [[King\|Re]])<br>Mio signore, confesso che l’anello era suo. |
+| [[King\|RE]] | Trasalisci malamente; ogni piuma ti fa sobbalzare.—<br>È questo l’uomo di cui parli? |
+| [[Diana\|DIANA]] | Sì, mio signore. |
+| [[King\|RE]] | (a Paroles)<br>Dimmi, messere—ma dimmi il vero, t’ingiungo,<br>senza temere il dispiacere del tuo padrone,<br>che, se procedi rettamente, terrò lontano—<br>di lui e di questa donna qui che cosa sai? |
 | PAROLES | Piaccia a vostra maestà, il mio padrone è stato un gentiluomo onorevole. Ha avuto in sé quei trucchi che i gentiluomini hanno. |
-| [[King|RE]] | Su, su, al punto. [[Love|Amò]] questa donna? |
-| PAROLES | In [[Faith|fede]], signore, l’[[Love|amò]], ma come? |
-| [[King|RE]] | Come, ti prego? |
-| PAROLES | L’[[Love|amò]], signore, come un gentiluomo ama una donna. |
-| [[King|RE]] | E come è questo? |
+| [[King\|RE]] | Su, su, al punto. [[Love\|Amò]] questa donna? |
+| PAROLES | In [[Faith\|fede]], signore, l’[[Love\|amò]], ma come? |
+| [[King\|RE]] | Come, ti prego? |
+| PAROLES | L’[[Love\|amò]], signore, come un gentiluomo ama una donna. |
+| [[King\|RE]] | E come è questo? |
 | PAROLES | L’amò, signore, e non l’amò. |
-| [[King|RE]] | Come tu sei un furfante e non un furfante. Che compagno equivoco è questo! |
+| [[King\|RE]] | Come tu sei un furfante e non un furfante. Che compagno equivoco è questo! |
 | PAROLES | Sono un pover’uomo, e al comando di vostra maestà. |
-| LAFEU | (al [[King|Re]]) È un buon tamburo, mio signore, ma un cattivo oratore. |
-| [[Diana|DIANA]] | (a Paroles) Sai che mi promise il [[Marriage|matrimonio]]? |
-| PAROLES | In [[Faith|fede]], so più di quanto dirò. |
-| [[King|RE]] | Ma non vuoi dire tutto ciò che sai? |
-| PAROLES | Sì, se piaccia a vostra maestà. Facevo da tramite fra loro, come ho detto; ma più di questo, egli l’amava, perché in verità era pazzo per lei e parlava di [[Satan|Satana]] e del limbo e delle Furie e non so che. Pure ero in tal credito presso di loro in quel [[Time|tempo]] che sapevo del loro andare a letto e d’altri movimenti, come del promettere a lei il [[Marriage|matrimonio]] e cose che mi tirerebbero addosso malanimo a dirle. Perciò non dirò ciò che so. |
-| [[King|RE]] | Hai già detto tutto, a meno che non possa dire che sono sposati. Ma sei troppo sottile nella tua testimonianza, perciò fatti da parte.—<br>Quest’anello, dici, era tuo. |
-| [[Diana|DIANA]] | Sì, mio buon signore. |
-| [[King|RE]] | Dove l’hai comprato? O chi te l’ha dato? |
-| [[Diana|DIANA]] | Non mi fu dato, né io lo comprai. |
-| [[King|RE]] | Chi te l’ha prestato? |
-| [[Diana|DIANA]] | Né mi fu prestato. |
-| [[King|RE]] | Dove l’hai trovato allora? |
-| [[Diana|DIANA]] | Non l’ho trovato. |
-| [[King|RE]] | Se non era tuo per nessuna di tutte queste vie,<br>come potevi darlo a lui? |
-| [[Diana|DIANA]] | Non gliel’ho mai dato. |
-| LAFEU | (al [[King|Re]]) Questa donna è un guanto comodo, mio signore: si sfila e s’infila a piacere. |
-| [[King|RE]] | (a [[Diana]])<br>Quest’anello era mio. Lo diedi alla sua prima moglie. |
-| [[Diana|DIANA]] | Potrebbe essere vostro o suo, per quel che ne so. |
-| [[King|RE]] | (agli attendenti)<br>Portatela via, ora non mi piace.<br>In [[Prison|prigione]] con lei. E via con lui.—<br>Se non mi dici dove hai avuto quest’anello<br>morirai entro quest’ora. |
-| [[Diana|DIANA]] | Non ve lo dirò mai. |
-| [[King|RE]] | (agli attendenti)<br>Portatela via. |
-| [[Diana|DIANA]] | Fornirò una cauzione, mio sovrano. |
-| [[King|RE]] | Ti credo ora una comune sgualdrina. |
-| [[Diana|DIANA]] | Per Giove, se mai conobbi uomo, foste voi. |
-| [[King|RE]] | Perché dunque l’hai accusato per tutto questo tempo? |
-| [[Diana|DIANA]] | Perché è colpevole, e non è colpevole.<br>Sa che non sono vergine, e lo giurerà;<br>io giurerò che sono vergine, e lui non lo sa.<br>Grande [[King|Re]], non sono una sgualdrina; sulla mia vita,<br>sono o vergine o moglie di questo vecchio. |
-| [[King|RE]] | (agli attendenti)<br>Ella abusa dei nostri orecchi. In [[Prison|prigione]] con lei. |
-| [[Diana|DIANA]] | Buona madre, andate a prendere la mia cauzione. |
+| LAFEU | (al [[King\|Re]]) È un buon tamburo, mio signore, ma un cattivo oratore. |
+| [[Diana\|DIANA]] | (a Paroles) Sai che mi promise il [[Marriage\|matrimonio]]? |
+| PAROLES | In [[Faith\|fede]], so più di quanto dirò. |
+| [[King\|RE]] | Ma non vuoi dire tutto ciò che sai? |
+| PAROLES | Sì, se piaccia a vostra maestà. Facevo da tramite fra loro, come ho detto; ma più di questo, egli l’amava, perché in verità era pazzo per lei e parlava di [[Satan\|Satana]] e del limbo e delle Furie e non so che. Pure ero in tal credito presso di loro in quel [[Time\|tempo]] che sapevo del loro andare a letto e d’altri movimenti, come del promettere a lei il [[Marriage\|matrimonio]] e cose che mi tirerebbero addosso malanimo a dirle. Perciò non dirò ciò che so. |
+| [[King\|RE]] | Hai già detto tutto, a meno che non possa dire che sono sposati. Ma sei troppo sottile nella tua testimonianza, perciò fatti da parte.—<br>Quest’anello, dici, era tuo. |
+| [[Diana\|DIANA]] | Sì, mio buon signore. |
+| [[King\|RE]] | Dove l’hai comprato? O chi te l’ha dato? |
+| [[Diana\|DIANA]] | Non mi fu dato, né io lo comprai. |
+| [[King\|RE]] | Chi te l’ha prestato? |
+| [[Diana\|DIANA]] | Né mi fu prestato. |
+| [[King\|RE]] | Dove l’hai trovato allora? |
+| [[Diana\|DIANA]] | Non l’ho trovato. |
+| [[King\|RE]] | Se non era tuo per nessuna di tutte queste vie,<br>come potevi darlo a lui? |
+| [[Diana\|DIANA]] | Non gliel’ho mai dato. |
+| LAFEU | (al [[King\|Re]]) Questa donna è un guanto comodo, mio signore: si sfila e s’infila a piacere. |
+| [[King\|RE]] | (a [[Diana]])<br>Quest’anello era mio. Lo diedi alla sua prima moglie. |
+| [[Diana\|DIANA]] | Potrebbe essere vostro o suo, per quel che ne so. |
+| [[King\|RE]] | (agli attendenti)<br>Portatela via, ora non mi piace.<br>In [[Prison\|prigione]] con lei. E via con lui.—<br>Se non mi dici dove hai avuto quest’anello<br>morirai entro quest’ora. |
+| [[Diana\|DIANA]] | Non ve lo dirò mai. |
+| [[King\|RE]] | (agli attendenti)<br>Portatela via. |
+| [[Diana\|DIANA]] | Fornirò una cauzione, mio sovrano. |
+| [[King\|RE]] | Ti credo ora una comune sgualdrina. |
+| [[Diana\|DIANA]] | Per Giove, se mai conobbi uomo, foste voi. |
+| [[King\|RE]] | Perché dunque l’hai accusato per tutto questo tempo? |
+| [[Diana\|DIANA]] | Perché è colpevole, e non è colpevole.<br>Sa che non sono vergine, e lo giurerà;<br>io giurerò che sono vergine, e lui non lo sa.<br>Grande [[King\|Re]], non sono una sgualdrina; sulla mia vita,<br>sono o vergine o moglie di questo vecchio. |
+| [[King\|RE]] | (agli attendenti)<br>Ella abusa dei nostri orecchi. In [[Prison\|prigione]] con lei. |
+| [[Diana\|DIANA]] | Buona madre, andate a prendere la mia cauzione. |
 | *(didascalia)* | Esce la Vedova |
-| [[Diana|DIANA]] | Restate, regale signore.<br>Il gioielliere che possiede l’anello è stato mandato a chiamare,<br>ed egli sarà mia garanzia. Ma quanto a questo signore,<br>che m’ha oltraggiata come egli stesso sa,<br>pur non avendomi mai fatto danno, qui io l’assolvo.<br>Sa lui stesso d’aver contaminato il mio letto,<br>e in quel [[Time|tempo]] mise incinta d’un [[Child|figlio]] sua moglie.<br>Morta com’ella è, sente il suo piccolo scalciare.<br>Ecco dunque il mio [[Riddle|enigma]]: una che è morta è viva.<br>E ora guardate il significato. |
-| *(didascalia)* | Entrano [[Helen|Elena]] e la Vedova |
-| [[King|RE]] | Non c’è qualche esorcista<br>che inganni il più vero ufficio dei miei occhi?<br>È reale ciò che vedo? |
-| [[Helen|HELEN]] | No, mio buon signore,<br>è solo l’[[Shadow|ombra]] d’una moglie quella che vedete,<br>il nome e non la cosa. |
-| [[Bertram|BERTRAM]] | Entrambi, entrambi. Oh, perdono! |
-| [[Helen|HELEN]] | Oh, mio buon signore, quando ero come questa fanciulla<br>vi trovai straordinariamente gentile. Ecco il vostro anello.<br>E, guardate, ecco la vostra lettera. Questo dice:<br>«Quando dal mio dito potrai avere quest’anello,<br>e sarai da me con un [[Child|figlio]]», eccetera. Questo è compiuto.<br>Volete essere mio, ora che siete doppiamente conquistato? |
-| [[Bertram|BERTRAM]] | (al [[King|Re]])<br>Se ella, mio sovrano, può farmi conoscere chiaramente questo,<br>l’[[Love|amerò]] caramente, sempre sempre caramente. |
-| [[Helen|HELEN]] | Se non apparirà chiaro e si mostrerà non vero,<br>mortale [[divorce|divorzio]] si ponga fra me e voi.—<br>Oh mia cara madre, vi vedo viva? |
-| LAFEU | I miei occhi odorano cipolle, piangerò fra poco.<br>(A Paroles) Buon Tom Tamburo, prestami un fazzoletto.<br>Così, ti ringrazio. Accompagnami a [[Home|casa]], mi divertirò<br>con te. Lascia [[Alone|stare]] i tuoi inchini, sono meschini. |
-| [[King|RE]] | ([[To Helen|a Elena]])<br>Conosciamo punto per punto questa storia,<br>per far scorrere in piacere la piana [[Truth|verità]].<br>(A [[Diana]]) Se sei ancora un fresco fiore non colto,<br>scegli tu il tuo marito e io pagherò la tua dote.<br>Perché posso indovinare che col tuo onesto aiuto<br>conservasti a una moglie sé stessa, e a te stessa la verginità.<br>Di ciò e di tutto lo svolgimento, più e meno,<br>un maggior agio dirà risolutamente.<br>Tutto pare per ora [[Well|bene]]; e se finisce così a proposito,<br>passato l’amaro, più gradito è il dolce. |
+| [[Diana\|DIANA]] | Restate, regale signore.<br>Il gioielliere che possiede l’anello è stato mandato a chiamare,<br>ed egli sarà mia garanzia. Ma quanto a questo signore,<br>che m’ha oltraggiata come egli stesso sa,<br>pur non avendomi mai fatto danno, qui io l’assolvo.<br>Sa lui stesso d’aver contaminato il mio letto,<br>e in quel [[Time\|tempo]] mise incinta d’un [[Child\|figlio]] sua moglie.<br>Morta com’ella è, sente il suo piccolo scalciare.<br>Ecco dunque il mio [[Riddle\|enigma]]: una che è morta è viva.<br>E ora guardate il significato. |
+| *(didascalia)* | Entrano [[Helen\|Elena]] e la Vedova |
+| [[King\|RE]] | Non c’è qualche esorcista<br>che inganni il più vero ufficio dei miei occhi?<br>È reale ciò che vedo? |
+| [[Helen\|HELEN]] | No, mio buon signore,<br>è solo l’[[Shadow\|ombra]] d’una moglie quella che vedete,<br>il nome e non la cosa. |
+| [[Bertram\|BERTRAM]] | Entrambi, entrambi. Oh, perdono! |
+| [[Helen\|HELEN]] | Oh, mio buon signore, quando ero come questa fanciulla<br>vi trovai straordinariamente gentile. Ecco il vostro anello.<br>E, guardate, ecco la vostra lettera. Questo dice:<br>«Quando dal mio dito potrai avere quest’anello,<br>e sarai da me con un [[Child\|figlio]]», eccetera. Questo è compiuto.<br>Volete essere mio, ora che siete doppiamente conquistato? |
+| [[Bertram\|BERTRAM]] | (al [[King\|Re]])<br>Se ella, mio sovrano, può farmi conoscere chiaramente questo,<br>l’[[Love\|amerò]] caramente, sempre sempre caramente. |
+| [[Helen\|HELEN]] | Se non apparirà chiaro e si mostrerà non vero,<br>mortale [[divorce\|divorzio]] si ponga fra me e voi.—<br>Oh mia cara madre, vi vedo viva? |
+| LAFEU | I miei occhi odorano cipolle, piangerò fra poco.<br>(A Paroles) Buon Tom Tamburo, prestami un fazzoletto.<br>Così, ti ringrazio. Accompagnami a [[Home\|casa]], mi divertirò<br>con te. Lascia [[Alone\|stare]] i tuoi inchini, sono meschini. |
+| [[King\|RE]] | ([[To Helen\|a Elena]])<br>Conosciamo punto per punto questa storia,<br>per far scorrere in piacere la piana [[Truth\|verità]].<br>(A [[Diana]]) Se sei ancora un fresco fiore non colto,<br>scegli tu il tuo marito e io pagherò la tua dote.<br>Perché posso indovinare che col tuo onesto aiuto<br>conservasti a una moglie sé stessa, e a te stessa la verginità.<br>Di ciò e di tutto lo svolgimento, più e meno,<br>un maggior agio dirà risolutamente.<br>Tutto pare per ora [[Well\|bene]]; e se finisce così a proposito,<br>passato l’amaro, più gradito è il dolce. |
 | *(didascalia)* | Squillo di trombe |
-| [[King|RE]] | Epilogo<br>Il [[King|Re]] è un mendicante, ora che la commedia è finita.<br>Tutto è finito [[Well|bene]] se questa causa è vinta:<br>che voi manifestiate contento, il quale ripagheremo<br>con lo sforzo di piacervi, giorno superando giorno.<br>Sia nostra allora la vostra pazienza, e vostre le nostre parti:<br>prestateci le vostre gentili mani, e prendete i nostri cuori. |
+| [[King\|RE]] | Epilogo<br>Il [[King\|Re]] è un mendicante, ora che la commedia è finita.<br>Tutto è finito [[Well\|bene]] se questa causa è vinta:<br>che voi manifestiate contento, il quale ripagheremo<br>con lo sforzo di piacervi, giorno superando giorno.<br>Sia nostra allora la vostra pazienza, e vostre le nostre parti:<br>prestateci le vostre gentili mani, e prendete i nostri cuori. |
 | *(didascalia)* | Escono |

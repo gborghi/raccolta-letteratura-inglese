@@ -1129,27 +1129,27 @@ The [[Tragedy]] of [[Julius Caesar]]
 
 | Chi parla | Battuta |
 |---|---|
-| *(didascalia)* | Entrano [[Flavius|Flavio]], Marullo e alcuni popolani attraverso la scena |
-| [[Flavius|FLAVIO]] | Via di qui, a [[Home|casa]], creature oziose, tornatevene a [[Home|casa]]!<br>È forse giorno di festa? Come, non sapete,<br>essendo artigiani, che non dovete andare in giro<br>in un giorno di lavoro senza il segno<br>del vostro mestiere?—Parla, che mestiere fai? |
+| *(didascalia)* | Entrano [[Flavius\|Flavio]], Marullo e alcuni popolani attraverso la scena |
+| [[Flavius\|FLAVIO]] | Via di qui, a [[Home\|casa]], creature oziose, tornatevene a [[Home\|casa]]!<br>È forse giorno di festa? Come, non sapete,<br>essendo artigiani, che non dovete andare in giro<br>in un giorno di lavoro senza il segno<br>del vostro mestiere?—Parla, che mestiere fai? |
 | FALEGNAME | Ma, signore, il falegname. |
 | MARULLO | Dov'è il tuo grembiule di cuoio e la tua squadra?<br>Che ci fai con addosso l'abito migliore?—<br>E voi, signore, che mestiere fate? |
 | CIABATTINO | In verità, signore, a paragone d'un fine artigiano io non sono che, come direste voi, un ciabattino. |
 | MARULLO | Ma che mestiere fai? Rispondimi chiaramente. |
-| CIABATTINO | Un mestiere, signore, che [[Hope|spero]] di poter esercitare con [[Conscience|coscienza]] tranquilla: sono, in verità, signore, un risanatore di suole malandate. |
-| [[Flavius|FLAVIO]] | Che mestiere, briccone? Furfante malnato, che mestiere? |
+| CIABATTINO | Un mestiere, signore, che [[Hope\|spero]] di poter esercitare con [[Conscience\|coscienza]] tranquilla: sono, in verità, signore, un risanatore di suole malandate. |
+| [[Flavius\|FLAVIO]] | Che mestiere, briccone? Furfante malnato, che mestiere? |
 | CIABATTINO | No, vi prego, signore, non uscite di sesto con me. Eppure, se siete sconciato, signore, io posso rappezzarvi. |
 | MARULLO | Che vuoi dire con questo? Rappezzare me, sfacciato che non sei altro? |
 | CIABATTINO | Ma, signore, rattopparvi. |
-| [[Flavius|FLAVIO]] | Sei un ciabattino, dunque? |
+| [[Flavius\|FLAVIO]] | Sei un ciabattino, dunque? |
 | CIABATTINO | In verità, signore, tutto ciò di cui vivo è la lesina. Non m'immischio nelle faccende degli altri artigiani, né in quelle delle donne; ma con tutto ciò io sono, signore, un chirurgo di scarpe vecchie: quando sono in grave pericolo, le risano. Uomini dabbene quanti mai ne calcarono cuoio di vitello hanno camminato sull'opera delle mie mani. |
-| [[Flavius|FLAVIO]] | Ma perché oggi non sei nella tua bottega?<br>Perché conduci costoro in giro per le strade? |
+| [[Flavius\|FLAVIO]] | Ma perché oggi non sei nella tua bottega?<br>Perché conduci costoro in giro per le strade? |
 | CIABATTINO | In verità, signore, per consumar loro le scarpe e procurarmi più lavoro. Ma davvero, signore, facciamo festa per veder Cesare, e per rallegrarci del suo trionfo. |
-| MARULLO | Rallegrarvi di che? Quale conquista porta a [[Home|casa]]?<br>Quali tributari lo seguono a Roma<br>per ornare in ceppi di prigionia le ruote del suo carro?<br>O ceppi, o pietre, o voi peggio che insensibili<br>cose!<br>O duri cuori, o crudeli uomini di Roma,<br>non conosceste [[Pompey|Pompeo]]? Quante [[Time|volte]], e spesso,<br>vi arrampicaste su mura e bastioni,<br>su torri e finestre, sì, in cima ai comignoli,<br>con i vostri bimbi in braccio, e là restaste<br>l'intera giornata in paziente attesa<br>di veder passare il grande [[Pompey|Pompeo]] per le vie di Roma.<br>E quando appena vedevate apparire il suo carro,<br>non levaste voi un grido universale,<br>sì che il Tevere tremò sotto le sue rive<br>nell'udire la ripercussione dei vostri clamori<br>fra le sue sponde incavate?<br>E ora vi mettete l'abito migliore?<br>E ora vi scegliete un giorno di festa?<br>E ora spargete [[Flowers|fiori]] sul cammino<br>di chi viene in trionfo sul [[Blood|sangue]] di [[Pompey|Pompeo]]?<br>Via di qui!<br>Correte alle vostre case, cadete in ginocchio,<br>pregate gli dèi di sospendere il flagello<br>che per forza deve piombare su tanta ingratitudine. |
-| [[Flavius|FLAVIO]] | Andate, andate, buona gente, e per questa colpa<br>radunate tutti i poveri della vostra condizione;<br>conduceteli alle rive del Tevere, e piangete le vostre [[Tears|lacrime]]<br>dentro l'alveo, finché la corrente più bassa<br>baci le sponde più alte di tutte. |
+| MARULLO | Rallegrarvi di che? Quale conquista porta a [[Home\|casa]]?<br>Quali tributari lo seguono a Roma<br>per ornare in ceppi di prigionia le ruote del suo carro?<br>O ceppi, o pietre, o voi peggio che insensibili<br>cose!<br>O duri cuori, o crudeli uomini di Roma,<br>non conosceste [[Pompey\|Pompeo]]? Quante [[Time\|volte]], e spesso,<br>vi arrampicaste su mura e bastioni,<br>su torri e finestre, sì, in cima ai comignoli,<br>con i vostri bimbi in braccio, e là restaste<br>l'intera giornata in paziente attesa<br>di veder passare il grande [[Pompey\|Pompeo]] per le vie di Roma.<br>E quando appena vedevate apparire il suo carro,<br>non levaste voi un grido universale,<br>sì che il Tevere tremò sotto le sue rive<br>nell'udire la ripercussione dei vostri clamori<br>fra le sue sponde incavate?<br>E ora vi mettete l'abito migliore?<br>E ora vi scegliete un giorno di festa?<br>E ora spargete [[Flowers\|fiori]] sul cammino<br>di chi viene in trionfo sul [[Blood\|sangue]] di [[Pompey\|Pompeo]]?<br>Via di qui!<br>Correte alle vostre case, cadete in ginocchio,<br>pregate gli dèi di sospendere il flagello<br>che per forza deve piombare su tanta ingratitudine. |
+| [[Flavius\|FLAVIO]] | Andate, andate, buona gente, e per questa colpa<br>radunate tutti i poveri della vostra condizione;<br>conduceteli alle rive del Tevere, e piangete le vostre [[Tears\|lacrime]]<br>dentro l'alveo, finché la corrente più bassa<br>baci le sponde più alte di tutte. |
 | *(didascalia)* | Escono tutti i popolani |
-| [[Flavius|FLAVIO]] | Guarda se la loro più vile tempra non si è commossa.<br>Spariscono con la lingua legata dalla loro colpa.<br>Tu scendi per quella via verso il Campidoglio;<br>io per questa. Spoglia le statue<br>se le trovi ornate di paramenti. |
+| [[Flavius\|FLAVIO]] | Guarda se la loro più vile tempra non si è commossa.<br>Spariscono con la lingua legata dalla loro colpa.<br>Tu scendi per quella via verso il Campidoglio;<br>io per questa. Spoglia le statue<br>se le trovi ornate di paramenti. |
 | MARULLO | Possiamo farlo?<br>Sai che è la festa dei Lupercali. |
-| [[Flavius|FLAVIO]] | Non importa. Che nessuna statua<br>sia adorna dei trofei di Cesare. Io andrò in giro<br>a scacciare il volgo dalle strade;<br>fa' altrettanto tu, dove li vedi affollati.<br>Queste penne che crescono, strappate all'ala di Cesare,<br>lo faranno volare a un'altezza comune;<br>altrimenti si leverebbe oltre lo sguardo degli uomini<br>e ci terrebbe tutti in servile timore. |
+| [[Flavius\|FLAVIO]] | Non importa. Che nessuna statua<br>sia adorna dei trofei di Cesare. Io andrò in giro<br>a scacciare il volgo dalle strade;<br>fa' altrettanto tu, dove li vedi affollati.<br>Queste penne che crescono, strappate all'ala di Cesare,<br>lo faranno volare a un'altezza comune;<br>altrimenti si leverebbe oltre lo sguardo degli uomini<br>e ci terrebbe tutti in servile timore. |
 | *(didascalia)* | Escono |
 
 
@@ -1263,104 +1263,104 @@ The [[Tragedy]] of [[Julius Caesar]]
 
 | Chi parla | Battuta |
 |---|---|
-| *(didascalia)* | Musica alta. Entrano Cesare, Antonio spogliato per la corsa, [[Calpurnia]], [[Portia|Porzia]], Decio, Cicerone, [[Brutus|Bruto]], [[Cassius|Cassio]], [[Casca]], un Indovino, una folla di cittadini; dopo di loro, Marullo e [[Flavius|Flavio]] |
+| *(didascalia)* | Musica alta. Entrano Cesare, Antonio spogliato per la corsa, [[Calpurnia]], [[Portia\|Porzia]], Decio, Cicerone, [[Brutus\|Bruto]], [[Cassius\|Cassio]], [[Casca]], un Indovino, una folla di cittadini; dopo di loro, Marullo e [[Flavius\|Flavio]] |
 | CESARE | [[Calpurnia]]. |
-| *(didascalia)* | [[Casca|CASCA]] Silenzio, olà! Cesare parla. La musica cessa |
+| *(didascalia)* | [[Casca\|CASCA]] Silenzio, olà! Cesare parla. La musica cessa |
 | CESARE | [[Calpurnia]]. |
 | CALPURNIA | Son qui, mio signore. |
 | CESARE | Mettiti proprio sul cammino di [[Antonio]]<br>quando correrà la sua corsa.—[[Antonio]]. |
 | ANTONIO | Cesare, mio signore. |
-| CESARE | Non dimenticare, nella tua [[Speed|foga]], [[Antonio]],<br>di toccare [[Calpurnia]]; ché i nostri antichi dicono<br>che le sterili, toccate in questa sacra caccia,<br>si scuotono di dosso la maledizione dell'infecondità. |
+| CESARE | Non dimenticare, nella tua [[Speed\|foga]], [[Antonio]],<br>di toccare [[Calpurnia]]; ché i nostri antichi dicono<br>che le sterili, toccate in questa sacra caccia,<br>si scuotono di dosso la maledizione dell'infecondità. |
 | ANTONIO | Me ne ricorderò:<br>quando Cesare dice 'Fa' questo', è cosa fatta. |
 | CESARE | Procedete, e non si tralasci alcuna cerimonia. |
 | *(didascalia)* | musica |
 | INDOVINO | Cesare! |
 | CESARE | Ah! Chi chiama? |
-| [[Casca|CASCA]] | Che ogni rumore si acquieti. Silenzio ancora. |
+| [[Casca\|CASCA]] | Che ogni rumore si acquieti. Silenzio ancora. |
 | *(didascalia)* | La musica cessa |
 | CESARE | Chi è, nella calca, che mi chiama?<br>Odo una voce più stridula d'ogni musica<br>gridare 'Cesare!' Parla. Cesare si è volto ad ascoltare. |
 | INDOVINO | Guàrdati dalle idi di marzo. |
 | CESARE | Chi è quell'uomo? |
-| [[Brutus|BRUTO]] | Un indovino ti dice di guardarti dalle idi di marzo. |
+| [[Brutus\|BRUTO]] | Un indovino ti dice di guardarti dalle idi di marzo. |
 | CESARE | Mettetelo davanti a me; ch'io veda il suo volto. |
-| [[Cassius|CASSIO]] | Tu là, esci dalla folla; guarda Cesare.<br>L'Indovino si fa avanti |
+| [[Cassius\|CASSIO]] | Tu là, esci dalla folla; guarda Cesare.<br>L'Indovino si fa avanti |
 | CESARE | Che mi dici ora? Parla ancora una volta. |
 | INDOVINO | Guàrdati dalle idi di marzo. |
 | CESARE | È un sognatore. Lasciamolo. Avanti! |
-| *(didascalia)* | Squillo di trombe. Escono tutti tranne [[Brutus|Bruto]] e [[Cassius|Cassio]] |
-| [[Cassius|CASSIO]] | Volete andare a veder lo svolgimento della corsa? |
-| [[Brutus|BRUTO]] | Io no. |
-| [[Cassius|CASSIO]] | Vi prego, andateci. |
-| [[Brutus|BRUTO]] | Non amo i giochi; mi manca in parte<br>quel vivace spirito che è in Antonio.<br>Non voglio ostacolare, [[Cassius|Cassio]], i vostri desideri.<br>Vi lascio. |
-| [[Cassius|CASSIO]] | [[Brutus|Bruto]], vi osservo da qualche tempo.<br>Non ricevo dai vostri occhi quella dolcezza<br>e quel segno d'[[Love|amore]] che ero solito avere.<br>Troppo dura e troppo estranea è la mano che tenete<br>sull'amico che vi ama. |
-| [[Brutus|BRUTO]] | [[Cassius|Cassio]],<br>non v'ingannate. Se ho velato il mio sguardo,<br>il turbamento del mio volto lo rivolgo<br>soltanto contro me stesso. Da qualche tempo<br>son tormentato da passioni discordi,<br>pensieri che riguardano me solo,<br>e che forse macchiano un poco i miei modi.<br>Ma non se ne affliggano per questo i miei buoni amici—<br>e nel loro numero, [[Cassius|Cassio]], siate voi uno—<br>né interpretate la mia trascuratezza<br>oltre questo: che il povero [[Brutus|Bruto]], in guerra con se stesso,<br>dimentica di mostrare [[Love|amore]] agli altri uomini. |
-| [[Cassius|CASSIO]] | Allora, [[Brutus|Bruto]], ho assai frainteso la vostra pena,<br>e per ciò questo mio petto ha sepolto<br>pensieri di gran valore, degne meditazioni.<br>Ditemi, buon [[Brutus|Bruto]], potete voi vedere il vostro volto? |
-| [[Brutus|BRUTO]] | No, [[Cassius|Cassio]], ché l'occhio non vede se stesso<br>se non per riflesso, per mezzo d'altre cose. |
-| [[Cassius|CASSIO]] | È giusto;<br>e assai si lamenta, [[Brutus|Bruto]],<br>che voi non abbiate specchi tali da volgere<br>il vostro nascosto valore sotto il vostro occhio,<br>sì che possiate vedere la vostra [[Shadow|ombra]]. Ho udito<br>che molti fra i più stimati in Roma—<br>eccettuato l'immortale Cesare—parlando di [[Brutus|Bruto]],<br>e gemendo sotto il giogo di questa età,<br>hanno desiderato che il nobile [[Brutus|Bruto]] avesse i loro occhi. |
-| [[Brutus|BRUTO]] | In quali pericoli vorreste condurmi, [[Cassius|Cassio]],<br>volendo che io cerchi dentro me stesso<br>ciò che in me non è? |
-| [[Cassius|CASSIO]] | Perciò, buon [[Brutus|Bruto]], preparatevi ad ascoltare.<br>E poiché sapete di non potervi vedere<br>così [[Well|bene]] se non per riflesso, io, vostro specchio,<br>vi rivelerò modestamente<br>quello di voi che ancora non conoscete.<br>E non diffidate di me, gentile [[Brutus|Bruto]].<br>Se io fossi un buffone da nulla, o usassi<br>svilire con giuramenti da poco il mio [[Love|amore]]<br>verso ogni nuovo adulatore; se sapete<br>che io blandisco gli uomini e li stringo forte,<br>e poi li diffamo; o se sapete<br>che io mi professo amico, nei banchetti,<br>a tutta la marmaglia: allora tenetemi per pericoloso. |
+| *(didascalia)* | Squillo di trombe. Escono tutti tranne [[Brutus\|Bruto]] e [[Cassius\|Cassio]] |
+| [[Cassius\|CASSIO]] | Volete andare a veder lo svolgimento della corsa? |
+| [[Brutus\|BRUTO]] | Io no. |
+| [[Cassius\|CASSIO]] | Vi prego, andateci. |
+| [[Brutus\|BRUTO]] | Non amo i giochi; mi manca in parte<br>quel vivace spirito che è in Antonio.<br>Non voglio ostacolare, [[Cassius\|Cassio]], i vostri desideri.<br>Vi lascio. |
+| [[Cassius\|CASSIO]] | [[Brutus\|Bruto]], vi osservo da qualche tempo.<br>Non ricevo dai vostri occhi quella dolcezza<br>e quel segno d'[[Love\|amore]] che ero solito avere.<br>Troppo dura e troppo estranea è la mano che tenete<br>sull'amico che vi ama. |
+| [[Brutus\|BRUTO]] | [[Cassius\|Cassio]],<br>non v'ingannate. Se ho velato il mio sguardo,<br>il turbamento del mio volto lo rivolgo<br>soltanto contro me stesso. Da qualche tempo<br>son tormentato da passioni discordi,<br>pensieri che riguardano me solo,<br>e che forse macchiano un poco i miei modi.<br>Ma non se ne affliggano per questo i miei buoni amici—<br>e nel loro numero, [[Cassius\|Cassio]], siate voi uno—<br>né interpretate la mia trascuratezza<br>oltre questo: che il povero [[Brutus\|Bruto]], in guerra con se stesso,<br>dimentica di mostrare [[Love\|amore]] agli altri uomini. |
+| [[Cassius\|CASSIO]] | Allora, [[Brutus\|Bruto]], ho assai frainteso la vostra pena,<br>e per ciò questo mio petto ha sepolto<br>pensieri di gran valore, degne meditazioni.<br>Ditemi, buon [[Brutus\|Bruto]], potete voi vedere il vostro volto? |
+| [[Brutus\|BRUTO]] | No, [[Cassius\|Cassio]], ché l'occhio non vede se stesso<br>se non per riflesso, per mezzo d'altre cose. |
+| [[Cassius\|CASSIO]] | È giusto;<br>e assai si lamenta, [[Brutus\|Bruto]],<br>che voi non abbiate specchi tali da volgere<br>il vostro nascosto valore sotto il vostro occhio,<br>sì che possiate vedere la vostra [[Shadow\|ombra]]. Ho udito<br>che molti fra i più stimati in Roma—<br>eccettuato l'immortale Cesare—parlando di [[Brutus\|Bruto]],<br>e gemendo sotto il giogo di questa età,<br>hanno desiderato che il nobile [[Brutus\|Bruto]] avesse i loro occhi. |
+| [[Brutus\|BRUTO]] | In quali pericoli vorreste condurmi, [[Cassius\|Cassio]],<br>volendo che io cerchi dentro me stesso<br>ciò che in me non è? |
+| [[Cassius\|CASSIO]] | Perciò, buon [[Brutus\|Bruto]], preparatevi ad ascoltare.<br>E poiché sapete di non potervi vedere<br>così [[Well\|bene]] se non per riflesso, io, vostro specchio,<br>vi rivelerò modestamente<br>quello di voi che ancora non conoscete.<br>E non diffidate di me, gentile [[Brutus\|Bruto]].<br>Se io fossi un buffone da nulla, o usassi<br>svilire con giuramenti da poco il mio [[Love\|amore]]<br>verso ogni nuovo adulatore; se sapete<br>che io blandisco gli uomini e li stringo forte,<br>e poi li diffamo; o se sapete<br>che io mi professo amico, nei banchetti,<br>a tutta la marmaglia: allora tenetemi per pericoloso. |
 | *(didascalia)* | Squilli e grida dall'interno |
-| [[Brutus|BRUTO]] | Che significa questo gridare? [[Fear|Temo]] che il popolo<br>scelga Cesare per suo [[King|re]]. |
-| [[Cassius|CASSIO]] | Ah, lo [[Fear|temete]]?<br>Devo dunque pensare che non vorreste fosse così. |
-| [[Brutus|BRUTO]] | Non vorrei, [[Cassius|Cassio]]; eppure lo [[Love|amo]], e [[Well|bene]].<br>Ma perché mi trattenete qui tanto a lungo?<br>Che cosa volete confidarmi?<br>Se è qualcosa che tenda al bene comune,<br>ponete l'[[Honour|onore]] in un occhio e la [[Death|morte]] nell'altro,<br>e io guarderò entrambi con pari indifferenza;<br>ché gli dèi mi [[Speed|assistano]] quanto è vero che [[Love|amo]]<br>il nome dell'[[Honour|onore]] più di quanto [[Fear|tema]] la [[Death|morte]]. |
-| [[Cassius|CASSIO]] | So che quella virtù è in voi, [[Brutus|Bruto]],<br>così [[Well|bene]] come conosco il vostro aspetto esteriore.<br>[[Well|Ebbene]], l'[[Honour|onore]] è il tema del mio discorso.<br>Non so che cosa voi e gli altri uomini<br>pensiate di questa vita; ma quanto a me [[Self|stesso]],<br>preferirei non essere, che vivere<br>nel timore d'una cosa simile a me stesso.<br>Nacqui libero come Cesare, e così voi.<br>Entrambi ci siamo nutriti altrettanto [[Well|bene]], ed entrambi<br>possiamo sopportare il freddo dell'[[Winter|inverno]] così [[Well|bene]] come lui.<br>Ché un giorno crudo e ventoso,<br>mentre il Tevere agitato s'infuriava contro le sue rive,<br>Cesare mi disse: 'Osi tu, [[Cassius|Cassio]], ora<br>gettarti con me in questa corrente adirata,<br>e nuotare fino a quel punto laggiù?' A quella parola,<br>bardato com'ero mi tuffai,<br>e gli dissi di seguirmi. E infatti lo fece.<br>Il torrente ruggiva, e noi lo battevamo<br>con nerbo gagliardo, respingendolo da parte,<br>e fendendolo con cuori di sfida.<br>Ma prima di poter giungere al punto stabilito,<br>Cesare gridò: 'Aiutami, [[Cassius|Cassio]], o affondo!'<br>Sì, e come Enea, nostro grande antenato,<br>portò sulle spalle dalle fiamme di Troia<br>il vecchio Anchise, così dalle onde del Tevere<br>io portai lo stanco Cesare. E quest'uomo<br>è ora diventato un dio, e [[Cassius|Cassio]] è<br>una misera creatura, e deve piegare il suo [[Body|corpo]]<br>se Cesare gli fa appena un cenno distratto.<br>Ebbe la febbre quando era in Spagna,<br>e quando l'accesso lo prendeva, osservai<br>come tremava. È vero, questo dio tremava.<br>Le sue labbra vili fuggirono dal loro colore;<br>e quello stesso occhio il cui cenno atterrisce il mondo<br>perdette il suo splendore. Lo udii gemere,<br>sì, e quella sua lingua che ordinava ai Romani<br>di ascoltarlo e di scrivere i suoi discorsi nei loro libri,<br>'Ahimè!' gridava, 'Dammi da bere, Titinio',<br>come una fanciulla malata. O dèi, mi stupisce<br>che un uomo di tempra così fiacca debba<br>prendere così il passo sul maestoso mondo,<br>e portare la palma da [[Alone|solo]]! |
+| [[Brutus\|BRUTO]] | Che significa questo gridare? [[Fear\|Temo]] che il popolo<br>scelga Cesare per suo [[King\|re]]. |
+| [[Cassius\|CASSIO]] | Ah, lo [[Fear\|temete]]?<br>Devo dunque pensare che non vorreste fosse così. |
+| [[Brutus\|BRUTO]] | Non vorrei, [[Cassius\|Cassio]]; eppure lo [[Love\|amo]], e [[Well\|bene]].<br>Ma perché mi trattenete qui tanto a lungo?<br>Che cosa volete confidarmi?<br>Se è qualcosa che tenda al bene comune,<br>ponete l'[[Honour\|onore]] in un occhio e la [[Death\|morte]] nell'altro,<br>e io guarderò entrambi con pari indifferenza;<br>ché gli dèi mi [[Speed\|assistano]] quanto è vero che [[Love\|amo]]<br>il nome dell'[[Honour\|onore]] più di quanto [[Fear\|tema]] la [[Death\|morte]]. |
+| [[Cassius\|CASSIO]] | So che quella virtù è in voi, [[Brutus\|Bruto]],<br>così [[Well\|bene]] come conosco il vostro aspetto esteriore.<br>[[Well\|Ebbene]], l'[[Honour\|onore]] è il tema del mio discorso.<br>Non so che cosa voi e gli altri uomini<br>pensiate di questa vita; ma quanto a me [[Self\|stesso]],<br>preferirei non essere, che vivere<br>nel timore d'una cosa simile a me stesso.<br>Nacqui libero come Cesare, e così voi.<br>Entrambi ci siamo nutriti altrettanto [[Well\|bene]], ed entrambi<br>possiamo sopportare il freddo dell'[[Winter\|inverno]] così [[Well\|bene]] come lui.<br>Ché un giorno crudo e ventoso,<br>mentre il Tevere agitato s'infuriava contro le sue rive,<br>Cesare mi disse: 'Osi tu, [[Cassius\|Cassio]], ora<br>gettarti con me in questa corrente adirata,<br>e nuotare fino a quel punto laggiù?' A quella parola,<br>bardato com'ero mi tuffai,<br>e gli dissi di seguirmi. E infatti lo fece.<br>Il torrente ruggiva, e noi lo battevamo<br>con nerbo gagliardo, respingendolo da parte,<br>e fendendolo con cuori di sfida.<br>Ma prima di poter giungere al punto stabilito,<br>Cesare gridò: 'Aiutami, [[Cassius\|Cassio]], o affondo!'<br>Sì, e come Enea, nostro grande antenato,<br>portò sulle spalle dalle fiamme di Troia<br>il vecchio Anchise, così dalle onde del Tevere<br>io portai lo stanco Cesare. E quest'uomo<br>è ora diventato un dio, e [[Cassius\|Cassio]] è<br>una misera creatura, e deve piegare il suo [[Body\|corpo]]<br>se Cesare gli fa appena un cenno distratto.<br>Ebbe la febbre quando era in Spagna,<br>e quando l'accesso lo prendeva, osservai<br>come tremava. È vero, questo dio tremava.<br>Le sue labbra vili fuggirono dal loro colore;<br>e quello stesso occhio il cui cenno atterrisce il mondo<br>perdette il suo splendore. Lo udii gemere,<br>sì, e quella sua lingua che ordinava ai Romani<br>di ascoltarlo e di scrivere i suoi discorsi nei loro libri,<br>'Ahimè!' gridava, 'Dammi da bere, Titinio',<br>come una fanciulla malata. O dèi, mi stupisce<br>che un uomo di tempra così fiacca debba<br>prendere così il passo sul maestoso mondo,<br>e portare la palma da [[Alone\|solo]]! |
 | *(didascalia)* | Squilli e grida dall'interno |
-| [[Brutus|BRUTO]] | Un altro grido generale!<br>Credo che questi applausi siano<br>per nuovi onori accumulati su Cesare. |
-| [[Cassius|CASSIO]] | Ma sì, egli scavalca l'angusto mondo<br>come un Colosso, e noi, uomini da poco,<br>camminiamo sotto le sue enormi gambe, e spiamo intorno<br>per trovarci tombe disonorate.<br>Gli uomini talvolta sono padroni del loro destino.<br>La colpa, caro [[Brutus|Bruto]], non è nelle nostre [[Stars|stelle]],<br>ma in noi stessi, se siamo dei sottoposti.<br>[[Brutus|Bruto]] e Cesare: che c'è mai in quel 'Cesare'?<br>Perché quel nome dovrebbe risuonare più del vostro?<br>Scriveteli insieme: il vostro è nome altrettanto bello. |
-| *(didascalia)* | Pronunciateli: sta in bocca altrettanto [[Well|bene]]. |
-| [[Cassius|CASSIO]] | Pesateli: è altrettanto pesante. Evocate con essi:<br>'[[Brutus|Bruto]]' farà sorgere uno spirito non meno presto di 'Cesare'.<br>Ora, in nome di tutti gli dèi insieme,<br>di quale carne si nutre questo nostro Cesare<br>per esser cresciuto tanto grande? Età, sei svergognata.<br>Roma, hai perduto la stirpe dei nobili sangui.<br>Quando mai passò un'età, dopo il gran diluvio,<br>che non fosse illustre per più d'un uomo solo?<br>Quando poterono dire, fino ad ora, quanti parlavano di Roma,<br>che le sue ampie mura racchiudevano un uomo soltanto?<br>Ora sì che è Roma davvero, e spazio ne avanza,<br>quando in essa non c'è che un uomo solo.<br>Oh, voi ed io abbiamo udito dire dai nostri padri<br>che vi fu un [[Brutus|Bruto]], un tempo, che avrebbe sopportato<br>l'eterno demonio a tener corte in Roma<br>tanto facilmente quanto un [[King|re]]. |
-| [[Brutus|BRUTO]] | Che voi mi [[Love|amiate]] non ne dubito affatto.<br>A che vogliate indurmi, qualcosa intuisco.<br>Come io abbia pensato di ciò e di questi tempi<br>vi racconterò in seguito. Per il momento,<br>non vorrei, e con [[Love|affetto]] ve ne prego,<br>essere ulteriormente sollecitato. Ciò che avete detto<br>lo mediterò. Ciò che avete da dire<br>lo ascolterò con pazienza, e troverò un [[Time|tempo]]<br>acconcio a udire e a rispondere a cose così alte.<br>Fino allora, mio nobile amico, rimuginate questo:<br>[[Brutus|Bruto]] preferirebbe essere un villano<br>che stimarsi figlio di Roma<br>sotto le dure condizioni che questo [[Time|tempo]]<br>è probabile ci imponga. |
-| [[Cassius|CASSIO]] | Son lieto<br>che le mie deboli parole abbiano tratto anche solo tanto<br>di [[Fire|fuoco]] da [[Brutus|Bruto]]. |
+| [[Brutus\|BRUTO]] | Un altro grido generale!<br>Credo che questi applausi siano<br>per nuovi onori accumulati su Cesare. |
+| [[Cassius\|CASSIO]] | Ma sì, egli scavalca l'angusto mondo<br>come un Colosso, e noi, uomini da poco,<br>camminiamo sotto le sue enormi gambe, e spiamo intorno<br>per trovarci tombe disonorate.<br>Gli uomini talvolta sono padroni del loro destino.<br>La colpa, caro [[Brutus\|Bruto]], non è nelle nostre [[Stars\|stelle]],<br>ma in noi stessi, se siamo dei sottoposti.<br>[[Brutus\|Bruto]] e Cesare: che c'è mai in quel 'Cesare'?<br>Perché quel nome dovrebbe risuonare più del vostro?<br>Scriveteli insieme: il vostro è nome altrettanto bello. |
+| *(didascalia)* | Pronunciateli: sta in bocca altrettanto [[Well\|bene]]. |
+| [[Cassius\|CASSIO]] | Pesateli: è altrettanto pesante. Evocate con essi:<br>'[[Brutus\|Bruto]]' farà sorgere uno spirito non meno presto di 'Cesare'.<br>Ora, in nome di tutti gli dèi insieme,<br>di quale carne si nutre questo nostro Cesare<br>per esser cresciuto tanto grande? Età, sei svergognata.<br>Roma, hai perduto la stirpe dei nobili sangui.<br>Quando mai passò un'età, dopo il gran diluvio,<br>che non fosse illustre per più d'un uomo solo?<br>Quando poterono dire, fino ad ora, quanti parlavano di Roma,<br>che le sue ampie mura racchiudevano un uomo soltanto?<br>Ora sì che è Roma davvero, e spazio ne avanza,<br>quando in essa non c'è che un uomo solo.<br>Oh, voi ed io abbiamo udito dire dai nostri padri<br>che vi fu un [[Brutus\|Bruto]], un tempo, che avrebbe sopportato<br>l'eterno demonio a tener corte in Roma<br>tanto facilmente quanto un [[King\|re]]. |
+| [[Brutus\|BRUTO]] | Che voi mi [[Love\|amiate]] non ne dubito affatto.<br>A che vogliate indurmi, qualcosa intuisco.<br>Come io abbia pensato di ciò e di questi tempi<br>vi racconterò in seguito. Per il momento,<br>non vorrei, e con [[Love\|affetto]] ve ne prego,<br>essere ulteriormente sollecitato. Ciò che avete detto<br>lo mediterò. Ciò che avete da dire<br>lo ascolterò con pazienza, e troverò un [[Time\|tempo]]<br>acconcio a udire e a rispondere a cose così alte.<br>Fino allora, mio nobile amico, rimuginate questo:<br>[[Brutus\|Bruto]] preferirebbe essere un villano<br>che stimarsi figlio di Roma<br>sotto le dure condizioni che questo [[Time\|tempo]]<br>è probabile ci imponga. |
+| [[Cassius\|CASSIO]] | Son lieto<br>che le mie deboli parole abbiano tratto anche solo tanto<br>di [[Fire\|fuoco]] da [[Brutus\|Bruto]]. |
 | *(didascalia)* | musica. Entrano Cesare e il suo seguito |
-| [[Brutus|BRUTO]] | I giochi sono finiti, e Cesare torna. |
-| [[Cassius|CASSIO]] | Mentre passano, tirate [[Casca]] per la manica,<br>e vi dirà, alla sua maniera arcigna,<br>quanto è accaduto oggi di degno di nota. |
-| [[Brutus|BRUTO]] | Così farò. Ma guardate, [[Cassius|Cassio]],<br>la macchia dell'ira arde sulla fronte di Cesare,<br>e tutti gli altri sembrano un seguito rimproverato.<br>La guancia di [[Calpurnia]] è pallida, e Cicerone<br>ha occhi così di furetto e così infuocati<br>come glieli abbiamo visti in Campidoglio<br>quando era contraddetto nel dibattito da qualche senatore. |
-| [[Cassius|CASSIO]] | [[Casca]] ci dirà di che si tratta. |
+| [[Brutus\|BRUTO]] | I giochi sono finiti, e Cesare torna. |
+| [[Cassius\|CASSIO]] | Mentre passano, tirate [[Casca]] per la manica,<br>e vi dirà, alla sua maniera arcigna,<br>quanto è accaduto oggi di degno di nota. |
+| [[Brutus\|BRUTO]] | Così farò. Ma guardate, [[Cassius\|Cassio]],<br>la macchia dell'ira arde sulla fronte di Cesare,<br>e tutti gli altri sembrano un seguito rimproverato.<br>La guancia di [[Calpurnia]] è pallida, e Cicerone<br>ha occhi così di furetto e così infuocati<br>come glieli abbiamo visti in Campidoglio<br>quando era contraddetto nel dibattito da qualche senatore. |
+| [[Cassius\|CASSIO]] | [[Casca]] ci dirà di che si tratta. |
 | CESARE | [[Antonio]]. |
 | ANTONIO | Cesare. |
-| CESARE | Vorrei intorno a me uomini grassi,<br>dal capo ben lisciato, e che di notte [[Sleep|dormano]].<br>Quel [[Cassius|Cassio]] ha un aspetto magro e affamato.<br>Pensa troppo. Uomini simili sono pericolosi. |
-| ANTONIO | Non lo [[Fear|temere]], Cesare, non è pericoloso.<br>È un nobile Romano, e [[Well|ben]] disposto. |
-| CESARE | Fosse più grasso! Ma non lo [[Fear|temo]].<br>Eppure, se il mio nome fosse soggetto al [[Fear|timore]],<br>non conosco uomo che dovrei evitare<br>quanto quel magro [[Cassius|Cassio]]. Legge molto,<br>è un grande osservatore, e penetra<br>a fondo nelle azioni degli uomini. Non ama gli spettacoli,<br>come fai tu, Antonio; non ascolta musica.<br>Di rado sorride, e sorride in tal modo<br>come se schernisse se stesso, e disprezzasse il proprio spirito<br>che si fosse lasciato indurre a sorridere di qualcosa.<br>Uomini come lui non hanno mai pace nel cuore<br>finché vedono uno più grande di loro,<br>e perciò sono molto pericolosi.<br>Ti dico piuttosto ciò che è da temersi<br>che non ciò che io [[Fear|temo]], perché sono sempre Cesare.<br>Vieni alla mia destra, ché quest'orecchio è sordo,<br>e dimmi sinceramente che pensi di lui. |
-| *(didascalia)* | Squillo di trombe. Escono Cesare e il suo seguito. Restano [[Brutus|Bruto]], [[Cassius|Cassio]] e [[Casca]] |
-| [[Casca|CASCA]] | (a [[Brutus|Bruto]]) Mi avete tirato per il mantello. Volete parlarmi? |
-| [[Brutus|BRUTO]] | Sì, [[Casca]]. Diteci che cosa è accaduto oggi,<br>che Cesare ha l'aria così cupa. |
-| [[Casca|CASCA]] | Ma come, eravate con lui, non è vero? |
-| [[Brutus|BRUTO]] | Non chiederei allora a [[Casca]] che cosa è accaduto. |
-| [[Casca|CASCA]] | Ebbene, gli fu offerta una [[Crown|corona]]; e come gli fu offerta, la respinse col dorso della mano, così; e allora il popolo si mise a gridare. |
-| [[Brutus|BRUTO]] | E il secondo clamore, per che cosa fu? |
-| [[Casca|CASCA]] | Ma, per quello stesso. |
-| [[Cassius|CASSIO]] | Gridarono tre volte. E l'ultimo grido, per che cosa fu? |
-| [[Casca|CASCA]] | Ma, per quello stesso. |
-| [[Brutus|BRUTO]] | Gli fu offerta la [[Crown|corona]] tre volte? |
-| [[Casca|CASCA]] | Sì, perbacco, tre volte; e tre volte la respinse, ogni [[Time|volta]] più mollemente della precedente; e a ogni rifiuto i miei onesti vicini gridavano. |
-| [[Cassius|CASSIO]] | Chi gli offrì la [[Crown|corona]]? |
-| [[Casca|CASCA]] | Ma, Antonio. |
-| [[Brutus|BRUTO]] | Raccontaci come andò, gentile [[Casca]]. |
-| [[Casca|CASCA]] | Tanto [[Well|bene]] potrei farmi impiccare quanto raccontare come andò. Fu pura buffoneria, non ci badai. Vidi [[Mark Antony|Marco Antonio]] offrirgli una [[Crown|corona]]—eppure non era neanche una [[Crown|corona]], era una di quelle coroncine—e come vi ho detto la respinse una volta; ma con tutto ciò, a mio parere, l'avrebbe presa volentieri. Poi gliela offrì di nuovo; e di nuovo la respinse—ma a mio parere era assai restio a staccarne le dita. E poi gliela offrì la terza [[Time|volta]]; e la terza [[Time|volta]] la respinse. E ogni volta che la rifiutava, la marmaglia urlava, batteva le mani screpolate, gettava in aria i berretti sudati, ed esalava tanto di quel fiato puzzolente perché Cesare rifiutava la [[Crown|corona]], che per poco non soffocò Cesare; ché egli svenne e cadde a terra. E per parte mia, non osai ridere per [[Fear|paura]] di aprire le labbra e ricevere quell'aria cattiva. |
-| [[Cassius|CASSIO]] | Ma piano, vi prego. Come, Cesare svenne? |
-| [[Casca|CASCA]] | Cadde a terra nella piazza del mercato, schiumava dalla bocca, e restò senza parola. |
-| [[Brutus|BRUTO]] | È molto probabile: ha il mal caduco. |
-| [[Cassius|CASSIO]] | No, Cesare non l'ha; ma voi ed io<br>e l'onesto [[Casca]], noi abbiamo il mal caduco. |
-| [[Casca|CASCA]] | Non so che vogliate dire con questo, ma sono certo che Cesare cadde a terra. Se la plebaglia non lo applaudì e non lo fischiò, secondo che li contentava o li scontentava, come suole fare con gli attori a teatro, allora io non sono un uomo dabbene. |
-| [[Brutus|BRUTO]] | Che disse quando tornò in sé? |
-| [[Casca|CASCA]] | Perbacco, prima di cadere, quando s'accorse che il gregge volgare era contento che rifiutasse la [[Crown|corona]], si strappò aperto il giustacuore e offrì loro la gola da tagliare. Se fossi stato un uomo di qualche mestiere, e non l'avessi preso in parola, possa io andare all'inferno tra i furfanti. E così cadde. Quando tornò di nuovo in sé, disse che, se aveva fatto o detto qualcosa di sconveniente, pregava le loro signorie di pensare che era la sua infermità. Tre o quattro donnicciole là dov'ero io gridarono: 'Ahimè, [[Soul|buon'anima]]!' e lo perdonarono con tutto il cuore. Ma non c'è da badare a loro: se Cesare avesse pugnalato le loro madri, non avrebbero fatto di meno. |
-| [[Brutus|BRUTO]] | E dopo di ciò se ne andò così cupo? |
-| [[Casca|CASCA]] | Sì. |
-| [[Cassius|CASSIO]] | Cicerone disse qualcosa? |
-| [[Casca|CASCA]] | Sì, parlò greco. |
-| [[Cassius|CASSIO]] | Per dire che cosa? |
-| [[Casca|CASCA]] | No, se ve lo dicessi, non vi guarderei mai più in faccia. Ma quelli che lo capivano si sorridevano l'un l'altro, e scuotevano il capo. Ma quanto a me, per me era greco. Potrei darvi anche altre notizie. Marullo e [[Flavius|Flavio]], per aver strappato le sciarpe dalle statue di Cesare, sono stati ridotti al [[Silence|silenzio]]. State [[Well|bene]]. Ci furono ancora altre buffonerie, se potessi ricordarmele. [[Cassius|CASSIO]] Volete cenare con me stasera, [[Casca]]? |
-| [[Casca|CASCA]] | No, sono impegnato altrove. |
-| [[Cassius|CASSIO]] | Volete pranzare con me domani? |
-| [[Casca|CASCA]] | Sì, se sarò vivo, e se il vostro proposito reggerà, e se il vostro pranzo varrà la pena d'esser mangiato. |
-| [[Cassius|CASSIO]] | Bene; vi aspetterò. |
-| [[Casca|CASCA]] | Fatelo. Addio a entrambi. Esce |
-| [[Brutus|BRUTO]] | Che tipo rozzo è diventato costui!<br>Era di pronto ingegno quando andava a scuola. |
-| [[Cassius|CASSIO]] | Tale è anche adesso, nell'eseguire<br>qualunque ardita o nobile impresa,<br>per quanto assuma questa lenta apparenza.<br>Questa rozzezza è una salsa al suo buon ingegno,<br>che mette agli uomini lo stomaco di digerire le sue parole<br>con miglior appetito. |
-| [[Brutus|BRUTO]] | E così è. Per questa [[Time|volta]] vi lascio.<br>Domani, se vi piacerà parlarmi,<br>verrò a [[Home|casa]] vostra; o, se preferite,<br>venite a [[Home|casa]] mia e vi aspetterò. |
-| [[Cassius|CASSIO]] | Così farò. Fino allora, pensate al mondo. |
-| *(didascalia)* | Esce [[Brutus|Bruto]] |
-| [[Cassius|CASSIO]] | [[Well|Ebbene]], [[Brutus|Bruto]], tu sei nobile; eppure vedo<br>che la tua onorevole tempra può essere piegata<br>dalla sua naturale inclinazione. Perciò conviene<br>che le nobili menti stiano sempre coi loro simili;<br>ché chi è tanto saldo da non poter esser sedotto?<br>Cesare mi porta rancore, ma ama [[Brutus|Bruto]].<br>Se io fossi [[Brutus|Bruto]] ora, e lui fosse [[Cassius|Cassio]],<br>non mi [[Humour|blandirebbe]]. Questa [[Night|notte]]<br>getterò alle sue finestre, in diverse calligrafie—<br>come venissero da diversi cittadini—<br>scritti, tutti volti alla grande stima<br>che Roma ha del suo nome, e in cui oscuramente<br>si accennerà all'[[Ambition|ambizione]] di Cesare.<br>E dopo di ciò, che Cesare si assicuri il seggio,<br>ché noi lo scuoteremo, o soffriremo giorni peggiori. Esce |
+| CESARE | Vorrei intorno a me uomini grassi,<br>dal capo ben lisciato, e che di notte [[Sleep\|dormano]].<br>Quel [[Cassius\|Cassio]] ha un aspetto magro e affamato.<br>Pensa troppo. Uomini simili sono pericolosi. |
+| ANTONIO | Non lo [[Fear\|temere]], Cesare, non è pericoloso.<br>È un nobile Romano, e [[Well\|ben]] disposto. |
+| CESARE | Fosse più grasso! Ma non lo [[Fear\|temo]].<br>Eppure, se il mio nome fosse soggetto al [[Fear\|timore]],<br>non conosco uomo che dovrei evitare<br>quanto quel magro [[Cassius\|Cassio]]. Legge molto,<br>è un grande osservatore, e penetra<br>a fondo nelle azioni degli uomini. Non ama gli spettacoli,<br>come fai tu, Antonio; non ascolta musica.<br>Di rado sorride, e sorride in tal modo<br>come se schernisse se stesso, e disprezzasse il proprio spirito<br>che si fosse lasciato indurre a sorridere di qualcosa.<br>Uomini come lui non hanno mai pace nel cuore<br>finché vedono uno più grande di loro,<br>e perciò sono molto pericolosi.<br>Ti dico piuttosto ciò che è da temersi<br>che non ciò che io [[Fear\|temo]], perché sono sempre Cesare.<br>Vieni alla mia destra, ché quest'orecchio è sordo,<br>e dimmi sinceramente che pensi di lui. |
+| *(didascalia)* | Squillo di trombe. Escono Cesare e il suo seguito. Restano [[Brutus\|Bruto]], [[Cassius\|Cassio]] e [[Casca]] |
+| [[Casca\|CASCA]] | (a [[Brutus\|Bruto]]) Mi avete tirato per il mantello. Volete parlarmi? |
+| [[Brutus\|BRUTO]] | Sì, [[Casca]]. Diteci che cosa è accaduto oggi,<br>che Cesare ha l'aria così cupa. |
+| [[Casca\|CASCA]] | Ma come, eravate con lui, non è vero? |
+| [[Brutus\|BRUTO]] | Non chiederei allora a [[Casca]] che cosa è accaduto. |
+| [[Casca\|CASCA]] | Ebbene, gli fu offerta una [[Crown\|corona]]; e come gli fu offerta, la respinse col dorso della mano, così; e allora il popolo si mise a gridare. |
+| [[Brutus\|BRUTO]] | E il secondo clamore, per che cosa fu? |
+| [[Casca\|CASCA]] | Ma, per quello stesso. |
+| [[Cassius\|CASSIO]] | Gridarono tre volte. E l'ultimo grido, per che cosa fu? |
+| [[Casca\|CASCA]] | Ma, per quello stesso. |
+| [[Brutus\|BRUTO]] | Gli fu offerta la [[Crown\|corona]] tre volte? |
+| [[Casca\|CASCA]] | Sì, perbacco, tre volte; e tre volte la respinse, ogni [[Time\|volta]] più mollemente della precedente; e a ogni rifiuto i miei onesti vicini gridavano. |
+| [[Cassius\|CASSIO]] | Chi gli offrì la [[Crown\|corona]]? |
+| [[Casca\|CASCA]] | Ma, Antonio. |
+| [[Brutus\|BRUTO]] | Raccontaci come andò, gentile [[Casca]]. |
+| [[Casca\|CASCA]] | Tanto [[Well\|bene]] potrei farmi impiccare quanto raccontare come andò. Fu pura buffoneria, non ci badai. Vidi [[Mark Antony\|Marco Antonio]] offrirgli una [[Crown\|corona]]—eppure non era neanche una [[Crown\|corona]], era una di quelle coroncine—e come vi ho detto la respinse una volta; ma con tutto ciò, a mio parere, l'avrebbe presa volentieri. Poi gliela offrì di nuovo; e di nuovo la respinse—ma a mio parere era assai restio a staccarne le dita. E poi gliela offrì la terza [[Time\|volta]]; e la terza [[Time\|volta]] la respinse. E ogni volta che la rifiutava, la marmaglia urlava, batteva le mani screpolate, gettava in aria i berretti sudati, ed esalava tanto di quel fiato puzzolente perché Cesare rifiutava la [[Crown\|corona]], che per poco non soffocò Cesare; ché egli svenne e cadde a terra. E per parte mia, non osai ridere per [[Fear\|paura]] di aprire le labbra e ricevere quell'aria cattiva. |
+| [[Cassius\|CASSIO]] | Ma piano, vi prego. Come, Cesare svenne? |
+| [[Casca\|CASCA]] | Cadde a terra nella piazza del mercato, schiumava dalla bocca, e restò senza parola. |
+| [[Brutus\|BRUTO]] | È molto probabile: ha il mal caduco. |
+| [[Cassius\|CASSIO]] | No, Cesare non l'ha; ma voi ed io<br>e l'onesto [[Casca]], noi abbiamo il mal caduco. |
+| [[Casca\|CASCA]] | Non so che vogliate dire con questo, ma sono certo che Cesare cadde a terra. Se la plebaglia non lo applaudì e non lo fischiò, secondo che li contentava o li scontentava, come suole fare con gli attori a teatro, allora io non sono un uomo dabbene. |
+| [[Brutus\|BRUTO]] | Che disse quando tornò in sé? |
+| [[Casca\|CASCA]] | Perbacco, prima di cadere, quando s'accorse che il gregge volgare era contento che rifiutasse la [[Crown\|corona]], si strappò aperto il giustacuore e offrì loro la gola da tagliare. Se fossi stato un uomo di qualche mestiere, e non l'avessi preso in parola, possa io andare all'inferno tra i furfanti. E così cadde. Quando tornò di nuovo in sé, disse che, se aveva fatto o detto qualcosa di sconveniente, pregava le loro signorie di pensare che era la sua infermità. Tre o quattro donnicciole là dov'ero io gridarono: 'Ahimè, [[Soul\|buon'anima]]!' e lo perdonarono con tutto il cuore. Ma non c'è da badare a loro: se Cesare avesse pugnalato le loro madri, non avrebbero fatto di meno. |
+| [[Brutus\|BRUTO]] | E dopo di ciò se ne andò così cupo? |
+| [[Casca\|CASCA]] | Sì. |
+| [[Cassius\|CASSIO]] | Cicerone disse qualcosa? |
+| [[Casca\|CASCA]] | Sì, parlò greco. |
+| [[Cassius\|CASSIO]] | Per dire che cosa? |
+| [[Casca\|CASCA]] | No, se ve lo dicessi, non vi guarderei mai più in faccia. Ma quelli che lo capivano si sorridevano l'un l'altro, e scuotevano il capo. Ma quanto a me, per me era greco. Potrei darvi anche altre notizie. Marullo e [[Flavius\|Flavio]], per aver strappato le sciarpe dalle statue di Cesare, sono stati ridotti al [[Silence\|silenzio]]. State [[Well\|bene]]. Ci furono ancora altre buffonerie, se potessi ricordarmele. [[Cassius\|CASSIO]] Volete cenare con me stasera, [[Casca]]? |
+| [[Casca\|CASCA]] | No, sono impegnato altrove. |
+| [[Cassius\|CASSIO]] | Volete pranzare con me domani? |
+| [[Casca\|CASCA]] | Sì, se sarò vivo, e se il vostro proposito reggerà, e se il vostro pranzo varrà la pena d'esser mangiato. |
+| [[Cassius\|CASSIO]] | Bene; vi aspetterò. |
+| [[Casca\|CASCA]] | Fatelo. Addio a entrambi. Esce |
+| [[Brutus\|BRUTO]] | Che tipo rozzo è diventato costui!<br>Era di pronto ingegno quando andava a scuola. |
+| [[Cassius\|CASSIO]] | Tale è anche adesso, nell'eseguire<br>qualunque ardita o nobile impresa,<br>per quanto assuma questa lenta apparenza.<br>Questa rozzezza è una salsa al suo buon ingegno,<br>che mette agli uomini lo stomaco di digerire le sue parole<br>con miglior appetito. |
+| [[Brutus\|BRUTO]] | E così è. Per questa [[Time\|volta]] vi lascio.<br>Domani, se vi piacerà parlarmi,<br>verrò a [[Home\|casa]] vostra; o, se preferite,<br>venite a [[Home\|casa]] mia e vi aspetterò. |
+| [[Cassius\|CASSIO]] | Così farò. Fino allora, pensate al mondo. |
+| *(didascalia)* | Esce [[Brutus\|Bruto]] |
+| [[Cassius\|CASSIO]] | [[Well\|Ebbene]], [[Brutus\|Bruto]], tu sei nobile; eppure vedo<br>che la tua onorevole tempra può essere piegata<br>dalla sua naturale inclinazione. Perciò conviene<br>che le nobili menti stiano sempre coi loro simili;<br>ché chi è tanto saldo da non poter esser sedotto?<br>Cesare mi porta rancore, ma ama [[Brutus\|Bruto]].<br>Se io fossi [[Brutus\|Bruto]] ora, e lui fosse [[Cassius\|Cassio]],<br>non mi [[Humour\|blandirebbe]]. Questa [[Night\|notte]]<br>getterò alle sue finestre, in diverse calligrafie—<br>come venissero da diversi cittadini—<br>scritti, tutti volti alla grande stima<br>che Roma ha del suo nome, e in cui oscuramente<br>si accennerà all'[[Ambition\|ambizione]] di Cesare.<br>E dopo di ciò, che Cesare si assicuri il seggio,<br>ché noi lo scuoteremo, o soffriremo giorni peggiori. Esce |
 
 
 
@@ -1418,49 +1418,49 @@ The [[Tragedy]] of [[Julius Caesar]]
 
 | Chi parla | Battuta |
 |---|---|
-| *(didascalia)* | Tuoni e [[Lightning|lampi]]. Entra [[Casca]] da una porta, con la [[Sword|spada]] sguainata, e Cicerone da un'altra |
-| CICERONE | Buona sera, [[Casca]]. Avete accompagnato Cesare a [[Home|casa]]?<br>Perché siete senza fiato, e perché guardate così fisso? |
-| [[Casca|CASCA]] | Non vi commuovete voi, quando tutta la compagine della terra<br>vacilla come cosa malferma? O Cicerone,<br>ho veduto tempeste, quando i venti rabbiosi<br>hanno spaccato le querce nodose, e ho veduto<br>l'ambizioso oceano gonfiarsi e infuriare e spumare<br>per innalzarsi fino alle nubi minacciose;<br>ma mai fino a stanotte, mai fino ad ora,<br>attraversai una tempesta che stillasse [[Fire|fuoco]].<br>O c'è guerra civile in cielo,<br>o il mondo, troppo insolente verso gli dèi,<br>li accende a mandar distruzione. |
+| *(didascalia)* | Tuoni e [[Lightning\|lampi]]. Entra [[Casca]] da una porta, con la [[Sword\|spada]] sguainata, e Cicerone da un'altra |
+| CICERONE | Buona sera, [[Casca]]. Avete accompagnato Cesare a [[Home\|casa]]?<br>Perché siete senza fiato, e perché guardate così fisso? |
+| [[Casca\|CASCA]] | Non vi commuovete voi, quando tutta la compagine della terra<br>vacilla come cosa malferma? O Cicerone,<br>ho veduto tempeste, quando i venti rabbiosi<br>hanno spaccato le querce nodose, e ho veduto<br>l'ambizioso oceano gonfiarsi e infuriare e spumare<br>per innalzarsi fino alle nubi minacciose;<br>ma mai fino a stanotte, mai fino ad ora,<br>attraversai una tempesta che stillasse [[Fire\|fuoco]].<br>O c'è guerra civile in cielo,<br>o il mondo, troppo insolente verso gli dèi,<br>li accende a mandar distruzione. |
 | CICERONE | Come, avete visto qualcosa di ancor più prodigioso? |
-| [[Casca|CASCA]] | Uno schiavo qualunque—lo conoscete [[Well|bene]] di vista—<br>levò in alto la mano sinistra, che fiammeggiava e ardeva<br>come venti torce riunite; eppure la sua mano,<br>insensibile al [[Fire|fuoco]], rimase non bruciata.<br>E poi—non ho più rinfoderato da allora la mia [[Sword|spada]]—<br>presso il Campidoglio incontrai un [[Lion|leone]]<br>che mi fissò con occhio vitreo, e passò oltre torvo<br>senza molestarmi. E c'erano ammassate<br>in un mucchio cento donne spaventate,<br>trasfigurate dalla [[Fear|paura]], che giuravano d'aver visto<br>uomini tutti in [[Fire|fiamme]] andare su e giù per le strade.<br>E ieri l'uccello della [[Night|notte]] si posò<br>persino in pieno mezzogiorno sulla piazza del mercato,<br>gufando e stridendo. Quando questi prodigi<br>s'incontrano così tutti insieme, non dicano gli uomini<br>'Queste ne sono le ragioni', 'sono cose naturali',<br>ché io credo siano presagi funesti<br>per il paese su cui si appuntano. |
-| CICERONE | Davvero è un [[Time|tempo]] stranamente disposto;<br>ma gli uomini possono interpretare le cose a modo loro,<br>del tutto fuori dal senso delle cose stesse.<br>Viene Cesare domani in Campidoglio? |
-| [[Casca|CASCA]] | Viene, ché disse ad [[Antonio]]<br>di mandarvi parola che sarebbe stato là domani. |
-| CICERONE | Buona [[Night|notte]] allora, [[Casca]]. Questo cielo sconvolto<br>non è da passeggiarci sotto. |
-| [[Casca|CASCA]] | Addio, Cicerone. Esce Cicerone |
-| *(didascalia)* | Entra [[Cassius|Cassio]], con le vesti slacciate |
-| [[Cassius|CASSIO]] | Chi è là? |
-| [[Casca|CASCA]] | Un Romano. |
-| [[Cassius|CASSIO]] | [[Casca]], dalla voce. |
-| [[Casca|CASCA]] | Avete buon orecchio. [[Cassius|Cassio]], che [[Night|notte]] è questa? |
-| [[Cassius|CASSIO]] | Una [[Night|notte]] assai gradita agli uomini onesti. |
-| [[Casca|CASCA]] | Chi vide mai i cieli minacciare così? |
-| [[Cassius|CASSIO]] | Quelli che hanno visto la terra così piena di colpe.<br>Per parte mia, sono andato in giro per le strade,<br>esponendomi alla [[Night|notte]] perigliosa;<br>e così slacciato, [[Casca]], come vedete,<br>ho denudato il petto alla folgore;<br>e quando il [[Cross|guizzo]] azzurro del [[Lightning|lampo]] sembrava aprire<br>il seno del cielo, io mi offrivo<br>proprio al segno e in mezzo al suo bagliore. |
-| [[Casca|CASCA]] | Ma perché tentaste tanto i cieli?<br>È proprio degli uomini [[Fear|temere]] e tremare<br>quando gli dèi potentissimi mandano per segni<br>araldi così terribili a sbigottirci. |
-| [[Cassius|CASSIO]] | Siete ottuso, [[Casca]], e quelle scintille di vita<br>che dovrebbero essere in un Romano vi mancano,<br>o non le adoperate. Impallidite, e sbarrate gli occhi,<br>e assumete [[Fear|paura]], e vi gettate nello [[Wonder|stupore]],<br>al vedere la strana impazienza dei cieli;<br>ma se voleste considerare la vera causa<br>del perché tutti questi fuochi, tutti questi [[Ghosts|spettri]] erranti,<br>perché [[Birds|uccelli]] e bestie fuori dalla loro natura e specie—<br>perché vecchi, sciocchi e fanciulli fanno profezie—<br>perché tutte queste cose mutino dal loro ordine,<br>dalle loro nature e dalle facoltà prestabilite<br>in una qualità mostruosa—ebbene, troverete<br>che il cielo le ha infuse di questi spiriti<br>per farne strumenti di [[Fear|terrore]] e di avvertimento<br>verso qualche mostruoso stato di cose. Ora potrei, [[Casca]],<br>nominarti un uomo simile in tutto a questa terribile [[Night|notte]],<br>che tuona, lampeggia, apre le tombe e ruggisce<br>come il [[Lion|leone]] in Campidoglio;<br>un uomo non più potente di te o di me<br>nell'azione personale, eppure cresciuto prodigioso<br>e spaventoso, come sono queste strane eruzioni. |
-| [[Casca|CASCA]] | È Cesare che intendete, non è vero, [[Cassius|Cassio]]? |
-| [[Cassius|CASSIO]] | Sia chi vuol essere; ché i Romani ora<br>hanno nervi e membra simili ai loro antenati.<br>Ma sventura ai tempi! Le menti dei nostri padri son morte,<br>e noi siamo governati dagli spiriti delle nostre madri.<br>Il nostro giogo e la nostra pazienza ci mostrano effeminati. |
-| [[Casca|CASCA]] | Davvero si dice che i senatori domani<br>intendano proclamare Cesare [[King|re]],<br>ed egli porterà la sua [[Crown|corona]] per mare e per terra<br>in ogni luogo, tranne qui in [[Italy|Italia]]. |
-| [[Cassius|CASSIO]] | (sguainando il pugnale)<br>So allora dove porterò questo pugnale:<br>[[Cassius|Cassio]] libererà [[Cassius|Cassio]] dalla schiavitù.<br>In ciò, o dèi, voi fate fortissimo il debole;<br>in ciò, o dèi, voi sconfiggete i tiranni.<br>Né torre di pietra, né mura di bronzo battuto,<br>né segreta senz'aria, né forti catene di ferro<br>possono trattenere la forza dello spirito;<br>ma la vita, stanca di queste sbarre terrene,<br>non manca mai del potere di congedare se stessa.<br>Se io so questo, lo sappia tutto il mondo:<br>quella parte di tirannide che io sopporto<br>posso scuoterla via a mio piacere. |
+| [[Casca\|CASCA]] | Uno schiavo qualunque—lo conoscete [[Well\|bene]] di vista—<br>levò in alto la mano sinistra, che fiammeggiava e ardeva<br>come venti torce riunite; eppure la sua mano,<br>insensibile al [[Fire\|fuoco]], rimase non bruciata.<br>E poi—non ho più rinfoderato da allora la mia [[Sword\|spada]]—<br>presso il Campidoglio incontrai un [[Lion\|leone]]<br>che mi fissò con occhio vitreo, e passò oltre torvo<br>senza molestarmi. E c'erano ammassate<br>in un mucchio cento donne spaventate,<br>trasfigurate dalla [[Fear\|paura]], che giuravano d'aver visto<br>uomini tutti in [[Fire\|fiamme]] andare su e giù per le strade.<br>E ieri l'uccello della [[Night\|notte]] si posò<br>persino in pieno mezzogiorno sulla piazza del mercato,<br>gufando e stridendo. Quando questi prodigi<br>s'incontrano così tutti insieme, non dicano gli uomini<br>'Queste ne sono le ragioni', 'sono cose naturali',<br>ché io credo siano presagi funesti<br>per il paese su cui si appuntano. |
+| CICERONE | Davvero è un [[Time\|tempo]] stranamente disposto;<br>ma gli uomini possono interpretare le cose a modo loro,<br>del tutto fuori dal senso delle cose stesse.<br>Viene Cesare domani in Campidoglio? |
+| [[Casca\|CASCA]] | Viene, ché disse ad [[Antonio]]<br>di mandarvi parola che sarebbe stato là domani. |
+| CICERONE | Buona [[Night\|notte]] allora, [[Casca]]. Questo cielo sconvolto<br>non è da passeggiarci sotto. |
+| [[Casca\|CASCA]] | Addio, Cicerone. Esce Cicerone |
+| *(didascalia)* | Entra [[Cassius\|Cassio]], con le vesti slacciate |
+| [[Cassius\|CASSIO]] | Chi è là? |
+| [[Casca\|CASCA]] | Un Romano. |
+| [[Cassius\|CASSIO]] | [[Casca]], dalla voce. |
+| [[Casca\|CASCA]] | Avete buon orecchio. [[Cassius\|Cassio]], che [[Night\|notte]] è questa? |
+| [[Cassius\|CASSIO]] | Una [[Night\|notte]] assai gradita agli uomini onesti. |
+| [[Casca\|CASCA]] | Chi vide mai i cieli minacciare così? |
+| [[Cassius\|CASSIO]] | Quelli che hanno visto la terra così piena di colpe.<br>Per parte mia, sono andato in giro per le strade,<br>esponendomi alla [[Night\|notte]] perigliosa;<br>e così slacciato, [[Casca]], come vedete,<br>ho denudato il petto alla folgore;<br>e quando il [[Cross\|guizzo]] azzurro del [[Lightning\|lampo]] sembrava aprire<br>il seno del cielo, io mi offrivo<br>proprio al segno e in mezzo al suo bagliore. |
+| [[Casca\|CASCA]] | Ma perché tentaste tanto i cieli?<br>È proprio degli uomini [[Fear\|temere]] e tremare<br>quando gli dèi potentissimi mandano per segni<br>araldi così terribili a sbigottirci. |
+| [[Cassius\|CASSIO]] | Siete ottuso, [[Casca]], e quelle scintille di vita<br>che dovrebbero essere in un Romano vi mancano,<br>o non le adoperate. Impallidite, e sbarrate gli occhi,<br>e assumete [[Fear\|paura]], e vi gettate nello [[Wonder\|stupore]],<br>al vedere la strana impazienza dei cieli;<br>ma se voleste considerare la vera causa<br>del perché tutti questi fuochi, tutti questi [[Ghosts\|spettri]] erranti,<br>perché [[Birds\|uccelli]] e bestie fuori dalla loro natura e specie—<br>perché vecchi, sciocchi e fanciulli fanno profezie—<br>perché tutte queste cose mutino dal loro ordine,<br>dalle loro nature e dalle facoltà prestabilite<br>in una qualità mostruosa—ebbene, troverete<br>che il cielo le ha infuse di questi spiriti<br>per farne strumenti di [[Fear\|terrore]] e di avvertimento<br>verso qualche mostruoso stato di cose. Ora potrei, [[Casca]],<br>nominarti un uomo simile in tutto a questa terribile [[Night\|notte]],<br>che tuona, lampeggia, apre le tombe e ruggisce<br>come il [[Lion\|leone]] in Campidoglio;<br>un uomo non più potente di te o di me<br>nell'azione personale, eppure cresciuto prodigioso<br>e spaventoso, come sono queste strane eruzioni. |
+| [[Casca\|CASCA]] | È Cesare che intendete, non è vero, [[Cassius\|Cassio]]? |
+| [[Cassius\|CASSIO]] | Sia chi vuol essere; ché i Romani ora<br>hanno nervi e membra simili ai loro antenati.<br>Ma sventura ai tempi! Le menti dei nostri padri son morte,<br>e noi siamo governati dagli spiriti delle nostre madri.<br>Il nostro giogo e la nostra pazienza ci mostrano effeminati. |
+| [[Casca\|CASCA]] | Davvero si dice che i senatori domani<br>intendano proclamare Cesare [[King\|re]],<br>ed egli porterà la sua [[Crown\|corona]] per mare e per terra<br>in ogni luogo, tranne qui in [[Italy\|Italia]]. |
+| [[Cassius\|CASSIO]] | (sguainando il pugnale)<br>So allora dove porterò questo pugnale:<br>[[Cassius\|Cassio]] libererà [[Cassius\|Cassio]] dalla schiavitù.<br>In ciò, o dèi, voi fate fortissimo il debole;<br>in ciò, o dèi, voi sconfiggete i tiranni.<br>Né torre di pietra, né mura di bronzo battuto,<br>né segreta senz'aria, né forti catene di ferro<br>possono trattenere la forza dello spirito;<br>ma la vita, stanca di queste sbarre terrene,<br>non manca mai del potere di congedare se stessa.<br>Se io so questo, lo sappia tutto il mondo:<br>quella parte di tirannide che io sopporto<br>posso scuoterla via a mio piacere. |
 | *(didascalia)* | Ancora tuoni |
-| [[Casca|CASCA]] | E così posso io.<br>Così ogni schiavo porta nella propria mano<br>il potere di annullare la sua prigionia. |
-| [[Cassius|CASSIO]] | E perché dunque Cesare dovrebbe essere un [[Tyrant|tiranno]]?<br>Pover'uomo, so che non sarebbe un lupo<br>se non vedesse che i Romani non sono che pecore.<br>Non sarebbe un [[Lion|leone]], se i Romani non fossero cerve.<br>Chi in fretta vuol fare un potente [[Fire|fuoco]]<br>lo comincia con deboli fuscelli. Che spazzatura è Roma,<br>che immondizia, che rifiuto, quando serve<br>da vile materia per illuminare<br>una cosa tanto abietta quanto Cesare! Ma, o dolore,<br>dove mi hai condotto? Forse dico questo<br>davanti a uno schiavo consenziente; allora so<br>che dovrò renderne conto. Ma io sono armato,<br>e i pericoli mi sono indifferenti. |
-| [[Casca|CASCA]] | Voi parlate a [[Casca]], e a un uomo tale<br>che non è un delatore beffardo. Tenete. La mia mano.<br>Fate parte per riparare tutti questi mali,<br>e io porterò questo mio piede tanto lontano<br>quanto chi va più lontano di tutti.<br>Si stringono la mano |
-| [[Cassius|CASSIO]] | Il patto è concluso.<br>Ora sappiate, [[Casca]], che ho già indotto<br>alcuni tra i Romani di più nobile animo<br>a intraprendere con me un'impresa<br>di conseguenze onorevolmente pericolose.<br>E so che a quest'ora essi mi attendono<br>sotto il Portico di [[Pompey|Pompeo]]; ché ora, in questa [[Night|notte]] paurosa,<br>non c'è movimento né passeggio per le strade,<br>e l'aspetto degli elementi<br>somiglia nel volto all'opera che abbiamo per le mani:<br>sanguinosissimo, infuocato e terribilissimo. |
+| [[Casca\|CASCA]] | E così posso io.<br>Così ogni schiavo porta nella propria mano<br>il potere di annullare la sua prigionia. |
+| [[Cassius\|CASSIO]] | E perché dunque Cesare dovrebbe essere un [[Tyrant\|tiranno]]?<br>Pover'uomo, so che non sarebbe un lupo<br>se non vedesse che i Romani non sono che pecore.<br>Non sarebbe un [[Lion\|leone]], se i Romani non fossero cerve.<br>Chi in fretta vuol fare un potente [[Fire\|fuoco]]<br>lo comincia con deboli fuscelli. Che spazzatura è Roma,<br>che immondizia, che rifiuto, quando serve<br>da vile materia per illuminare<br>una cosa tanto abietta quanto Cesare! Ma, o dolore,<br>dove mi hai condotto? Forse dico questo<br>davanti a uno schiavo consenziente; allora so<br>che dovrò renderne conto. Ma io sono armato,<br>e i pericoli mi sono indifferenti. |
+| [[Casca\|CASCA]] | Voi parlate a [[Casca]], e a un uomo tale<br>che non è un delatore beffardo. Tenete. La mia mano.<br>Fate parte per riparare tutti questi mali,<br>e io porterò questo mio piede tanto lontano<br>quanto chi va più lontano di tutti.<br>Si stringono la mano |
+| [[Cassius\|CASSIO]] | Il patto è concluso.<br>Ora sappiate, [[Casca]], che ho già indotto<br>alcuni tra i Romani di più nobile animo<br>a intraprendere con me un'impresa<br>di conseguenze onorevolmente pericolose.<br>E so che a quest'ora essi mi attendono<br>sotto il Portico di [[Pompey\|Pompeo]]; ché ora, in questa [[Night\|notte]] paurosa,<br>non c'è movimento né passeggio per le strade,<br>e l'aspetto degli elementi<br>somiglia nel volto all'opera che abbiamo per le mani:<br>sanguinosissimo, infuocato e terribilissimo. |
 | *(didascalia)* | Entra Cinna |
-| [[Casca|CASCA]] | State un poco in disparte, ché qui ne viene uno in fretta. |
-| [[Cassius|CASSIO]] | È Cinna; lo riconosco dal passo.<br>È un amico.—Cinna, dove correte così? |
+| [[Casca\|CASCA]] | State un poco in disparte, ché qui ne viene uno in fretta. |
+| [[Cassius\|CASSIO]] | È Cinna; lo riconosco dal passo.<br>È un amico.—Cinna, dove correte così? |
 | CINNA | A cercare voi. Chi è quello? Metello Cimbro? |
-| [[Cassius|CASSIO]] | No, è [[Casca]], uno ormai incorporato<br>ai nostri disegni. Non mi si attende, Cinna? |
-| CINNA | Ne son lieto. Che [[Night|notte]] paurosa è questa!<br>Due o tre di noi hanno visto strane visioni. |
-| [[Cassius|CASSIO]] | Non mi si attende? Ditemelo. |
-| CINNA | Sì, vi si attende.<br>O [[Cassius|Cassio]], se solo poteste<br>guadagnare il nobile [[Brutus|Bruto]] al nostro partito— |
-| [[Cassius|CASSIO]] | State tranquillo. Buon Cinna, prendete questo foglio,<br>Dà a Cinna delle lettere<br><br>e badate di deporlo sul Seggio del Pretore,<br>dove [[Brutus|Bruto]] non possa che trovarlo; e questo gettatelo<br>dentro la sua [[Window|finestra]]. Questo affiggetelo con la cera<br>sulla statua del vecchio [[Brutus|Bruto]]. Fatto tutto questo,<br>venite al Portico di [[Pompey|Pompeo]], dove ci troverete.<br>Ci sono là Decio [[Brutus|Bruto]] e Trebonio? |
-| CINNA | Tutti, tranne Metello Cimbro, ed egli è andato<br>a cercarvi a [[house|casa]] vostra. [[Well|Ebbene]], mi affretterò,<br>e disporrò questi fogli come mi avete ordinato. |
-| [[Cassius|CASSIO]] | Fatto ciò, venite al Teatro di [[Pompey|Pompeo]]. |
+| [[Cassius\|CASSIO]] | No, è [[Casca]], uno ormai incorporato<br>ai nostri disegni. Non mi si attende, Cinna? |
+| CINNA | Ne son lieto. Che [[Night\|notte]] paurosa è questa!<br>Due o tre di noi hanno visto strane visioni. |
+| [[Cassius\|CASSIO]] | Non mi si attende? Ditemelo. |
+| CINNA | Sì, vi si attende.<br>O [[Cassius\|Cassio]], se solo poteste<br>guadagnare il nobile [[Brutus\|Bruto]] al nostro partito— |
+| [[Cassius\|CASSIO]] | State tranquillo. Buon Cinna, prendete questo foglio,<br>Dà a Cinna delle lettere<br><br>e badate di deporlo sul Seggio del Pretore,<br>dove [[Brutus\|Bruto]] non possa che trovarlo; e questo gettatelo<br>dentro la sua [[Window\|finestra]]. Questo affiggetelo con la cera<br>sulla statua del vecchio [[Brutus\|Bruto]]. Fatto tutto questo,<br>venite al Portico di [[Pompey\|Pompeo]], dove ci troverete.<br>Ci sono là Decio [[Brutus\|Bruto]] e Trebonio? |
+| CINNA | Tutti, tranne Metello Cimbro, ed egli è andato<br>a cercarvi a [[house\|casa]] vostra. [[Well\|Ebbene]], mi affretterò,<br>e disporrò questi fogli come mi avete ordinato. |
+| [[Cassius\|CASSIO]] | Fatto ciò, venite al Teatro di [[Pompey\|Pompeo]]. |
 | *(didascalia)* | Esce Cinna |
-| [[Cassius|CASSIO]] | Venite, [[Casca]], voi ed io andremo ancor prima del giorno<br>a veder [[Brutus|Bruto]] a [[house|casa]] sua. Tre parti di lui<br>sono già nostre, e l'uomo intero<br>al prossimo incontro si darà tutto a noi. |
-| [[Casca|CASCA]] | Oh, egli siede alto nei cuori di tutto il popolo,<br>e ciò che in noi apparirebbe delitto<br>il suo favore, come ricchissima alchimia,<br>muterà in virtù e in merito. |
-| [[Cassius|CASSIO]] | Lui e il suo valore, e il gran bisogno che ne abbiamo,<br>li avete concepiti proprio [[Well|bene]]. Andiamo,<br>ché è passata la mezzanotte, e prima del giorno<br>lo desteremo e ce lo assicureremo. Escono |
+| [[Cassius\|CASSIO]] | Venite, [[Casca]], voi ed io andremo ancor prima del giorno<br>a veder [[Brutus\|Bruto]] a [[house\|casa]] sua. Tre parti di lui<br>sono già nostre, e l'uomo intero<br>al prossimo incontro si darà tutto a noi. |
+| [[Casca\|CASCA]] | Oh, egli siede alto nei cuori di tutto il popolo,<br>e ciò che in noi apparirebbe delitto<br>il suo favore, come ricchissima alchimia,<br>muterà in virtù e in merito. |
+| [[Cassius\|CASSIO]] | Lui e il suo valore, e il gran bisogno che ne abbiamo,<br>li avete concepiti proprio [[Well\|bene]]. Andiamo,<br>ché è passata la mezzanotte, e prima del giorno<br>lo desteremo e ce lo assicureremo. Escono |
 
 
 
@@ -1584,114 +1584,114 @@ The [[Tragedy]] of [[Julius Caesar]]
 
 | Chi parla | Battuta |
 |---|---|
-| *(didascalia)* | Entra [[Brutus|Bruto]] nel suo giardino |
-| [[Brutus|BRUTO]] | Ehi, [[Lucius|Lucio]], olà!—<br>Non posso, dal corso delle [[Stars|stelle]],<br>indovinare quanto manchi al giorno.—[[Lucius|Lucio]], dico!—<br>Vorrei che fosse un mio difetto [[Sleep|dormire]] così profondamente.—<br>Su, [[Lucius|Lucio]], su! Svegliati, dico! Ehi, [[Lucius|Lucio]]! |
-| *(didascalia)* | Entra [[Lucius|Lucio]] |
-| [[Lucius|LUCIO]] | Chiamavate, mio signore? |
-| [[Brutus|BRUTO]] | Portami una candela nel mio studio, [[Lucius|Lucio]]. Quando sarà accesa, vieni a chiamarmi qui. |
-| [[Lucius|LUCIO]] | Sì, mio signore. |
+| *(didascalia)* | Entra [[Brutus\|Bruto]] nel suo giardino |
+| [[Brutus\|BRUTO]] | Ehi, [[Lucius\|Lucio]], olà!—<br>Non posso, dal corso delle [[Stars\|stelle]],<br>indovinare quanto manchi al giorno.—[[Lucius\|Lucio]], dico!—<br>Vorrei che fosse un mio difetto [[Sleep\|dormire]] così profondamente.—<br>Su, [[Lucius\|Lucio]], su! Svegliati, dico! Ehi, [[Lucius\|Lucio]]! |
+| *(didascalia)* | Entra [[Lucius\|Lucio]] |
+| [[Lucius\|LUCIO]] | Chiamavate, mio signore? |
+| [[Brutus\|BRUTO]] | Portami una candela nel mio studio, [[Lucius\|Lucio]]. Quando sarà accesa, vieni a chiamarmi qui. |
+| [[Lucius\|LUCIO]] | Sì, mio signore. |
 | *(didascalia)* | Esce |
-| [[Brutus|BRUTO]] | Dev'essere con la sua [[Death|morte]]. E per parte mia<br>non conosco causa personale per colpirlo,<br>ma solo il bene comune. Vuol essere incoronato.<br>Come ciò possa mutare la sua [[Nature|natura]], ecco la<br>questione.<br>È il giorno luminoso che fa uscire la vipera,<br>e ciò esige un camminare guardingo. [[Crown|Incoronatelo]]: ecco!<br>E allora, lo concedo, gli mettiamo dentro un pungiglione<br>col quale a suo talento possa far danno.<br>L'abuso della [[Greatness|grandezza]] è quando essa disgiunge<br>il rimorso dal potere. E a dire il [[Truth|vero]] di Cesare,<br>non ho mai visto che i suoi affetti prevalessero<br>sulla sua ragione. Ma è cosa comunemente provata<br>che l'umiltà è la scala della giovane [[Ambition|ambizione]],<br>verso cui chi sale volge il viso;<br>ma quando una volta raggiunge il piolo più alto,<br>allora volge le spalle alla scala,<br>guarda nelle nubi, sprezzando i bassi gradini<br>per cui è salito. Così può fare Cesare.<br>Perché non possa, preveniamolo. E poiché l'accusa<br>non ha colore per quello che egli è ora,<br>formuliamola così: che ciò che egli è, accresciuto,<br>correrebbe a questi e a questi estremi;<br>e perciò consideriamolo come un uovo di serpente,<br>che, schiuso, secondo la sua specie diverrebbe nocivo,<br>e uccidiamolo nel guscio. |
-| *(didascalia)* | Entra [[Lucius|Lucio]], con una lettera |
-| [[Lucius|LUCIO]] | La candela arde nel vostro studio, signore.<br>Cercando una pietra focaia sulla [[Window|finestra]], ho trovato<br>questo foglio, così sigillato, e sono certo<br>che non era là quando andai a letto.<br>Gli dà la lettera |
-| [[Brutus|BRUTO]] | Torna a letto; non è ancora giorno.<br>Non è domani, ragazzo, il giorno delle idi di marzo? |
-| [[Lucius|LUCIO]] | Non lo so, signore. |
-| [[Brutus|BRUTO]] | Guarda nel calendario e vieni a dirmelo. |
-| [[Lucius|LUCIO]] | Sì, signore. Esce |
-| [[Brutus|BRUTO]] | Le esalazioni che sibilano nell'aria<br>danno tanta luce che posso leggervi.<br>Apre la lettera e legge<br><br>'[[Brutus|Bruto]], tu [[Sleep|dormi]]. Svégliati, e guarda te stesso.<br>Dovrà Roma, eccetera? Parla, colpisci, ripara.'—<br>'[[Brutus|Bruto]], tu [[Sleep|dormi]]. Svégliati.'<br>Simili istigazioni sono state spesso lasciate cadere<br>dove io le ho raccolte.<br>'Dovrà Roma, eccetera?' Così devo completarlo:<br>dovrà Roma star soggetta al timore d'un uomo solo? Come,<br>Roma?<br>I miei antenati cacciarono dalle vie di Roma<br>il [[Tarquin|Tarquinio]], quando fu chiamato [[King|re]].<br>'Parla, colpisci, ripara.' Sono io pregato<br>di parlare e di colpire? O Roma, io ti prometto:<br>se la riparazione seguirà, tu riceverai<br>per intero la tua richiesta dalla mano di [[Brutus|Bruto]]. |
-| *(didascalia)* | Entra [[Lucius|Lucio]] |
-| [[Lucius|LUCIO]] | Signore, di marzo son trascorsi quindici giorni. Bussano dentro |
-| [[Brutus|BRUTO]] | Sta bene. Va' al cancello; qualcuno bussa. |
-| *(didascalia)* | Esce [[Lucius|Lucio]] |
-| [[Brutus|BRUTO]] | Da quando [[Cassius|Cassio]] mi aizzò la prima volta contro Cesare<br>non ho più dormito.<br>Fra il compiersi d'una cosa terribile<br>e il primo impulso, tutto l'intervallo è<br>come un fantasma o un sogno orrendo.<br>Il genio e gli strumenti mortali<br>tengono allora consiglio, e lo stato dell'uomo,<br>simile a un piccolo regno, subisce allora<br>la [[Nature|natura]] di un'insurrezione. |
-| *(didascalia)* | Entra [[Lucius|Lucio]] |
-| [[Lucius|LUCIO]] | Signore, è vostro cognato [[Cassius|Cassio]] alla porta,<br>che [[Desire|desidera]] vedervi. |
-| [[Brutus|BRUTO]] | È [[Alone|solo]]? |
-| [[Lucius|LUCIO]] | No, signore, ce ne sono altri con lui. |
-| [[Brutus|BRUTO]] | Li conosci? |
-| [[Lucius|LUCIO]] | No, signore; hanno i cappelli calati sulle orecchie,<br>e metà del viso sepolta nei mantelli,<br>sì che in nessun modo posso riconoscerli<br>da alcun tratto del volto. |
-| [[Brutus|BRUTO]] | Falli entrare. Esce [[Lucius|Lucio]]<br>Sono la fazione. O congiura,<br>ti vergogni di mostrare la tua fronte pericolosa di [[Night|notte]],<br>quando i mali sono più liberi? Oh, di giorno allora<br>dove troverai una caverna abbastanza buia<br>da mascherare il tuo mostruoso volto? Non cercarne, congiura.<br>Nascondilo in sorrisi e affabilità;<br>ché se indossi il tuo aspetto nativo,<br>neppure l'Erebo sarebbe abbastanza fosco<br>da celarti e sottrarti al sospetto. |
-| *(didascalia)* | Entrano i congiurati, imbacuccati: [[Cassius|Cassio]], [[Casca]], Decio, Cinna, Metello e Trebonio |
-| [[Cassius|CASSIO]] | Temo che ci prendiamo troppa libertà col vostro riposo.<br>Buon giorno, [[Brutus|Bruto]]. Vi disturbiamo? |
-| [[Brutus|BRUTO]] | Sono in piedi da un'ora, sveglio tutta la [[Night|notte]].<br>Li conosco questi uomini che vengono con voi? |
-| [[Cassius|CASSIO]] | Sì, ognuno di loro; e non c'è qui uomo<br>che non vi onori; e ognuno desidera<br>che voi aveste di voi stesso quell'opinione<br>che ogni nobile Romano ha di voi.<br>Questi è Trebonio. |
-| [[Brutus|BRUTO]] | Sia il benvenuto qui. |
-| [[Cassius|CASSIO]] | Questi, Decio [[Brutus|Bruto]]. |
-| [[Brutus|BRUTO]] | Anch'egli è il benvenuto. |
-| [[Cassius|CASSIO]] | Questi, [[Casca]]; questi, Cinna; e questi, Metello Cimbro. |
-| [[Brutus|BRUTO]] | Tutti sono i benvenuti.<br>Quali affanni vigili s'interpongono<br>fra i vostri occhi e la [[Night|notte]]? |
-| [[Cassius|CASSIO]] | Posso chiedervi una parola? |
-| *(didascalia)* | [[Cassius|Cassio]] e [[Brutus|Bruto]] si traggono in disparte e bisbigliano |
+| [[Brutus\|BRUTO]] | Dev'essere con la sua [[Death\|morte]]. E per parte mia<br>non conosco causa personale per colpirlo,<br>ma solo il bene comune. Vuol essere incoronato.<br>Come ciò possa mutare la sua [[Nature\|natura]], ecco la<br>questione.<br>È il giorno luminoso che fa uscire la vipera,<br>e ciò esige un camminare guardingo. [[Crown\|Incoronatelo]]: ecco!<br>E allora, lo concedo, gli mettiamo dentro un pungiglione<br>col quale a suo talento possa far danno.<br>L'abuso della [[Greatness\|grandezza]] è quando essa disgiunge<br>il rimorso dal potere. E a dire il [[Truth\|vero]] di Cesare,<br>non ho mai visto che i suoi affetti prevalessero<br>sulla sua ragione. Ma è cosa comunemente provata<br>che l'umiltà è la scala della giovane [[Ambition\|ambizione]],<br>verso cui chi sale volge il viso;<br>ma quando una volta raggiunge il piolo più alto,<br>allora volge le spalle alla scala,<br>guarda nelle nubi, sprezzando i bassi gradini<br>per cui è salito. Così può fare Cesare.<br>Perché non possa, preveniamolo. E poiché l'accusa<br>non ha colore per quello che egli è ora,<br>formuliamola così: che ciò che egli è, accresciuto,<br>correrebbe a questi e a questi estremi;<br>e perciò consideriamolo come un uovo di serpente,<br>che, schiuso, secondo la sua specie diverrebbe nocivo,<br>e uccidiamolo nel guscio. |
+| *(didascalia)* | Entra [[Lucius\|Lucio]], con una lettera |
+| [[Lucius\|LUCIO]] | La candela arde nel vostro studio, signore.<br>Cercando una pietra focaia sulla [[Window\|finestra]], ho trovato<br>questo foglio, così sigillato, e sono certo<br>che non era là quando andai a letto.<br>Gli dà la lettera |
+| [[Brutus\|BRUTO]] | Torna a letto; non è ancora giorno.<br>Non è domani, ragazzo, il giorno delle idi di marzo? |
+| [[Lucius\|LUCIO]] | Non lo so, signore. |
+| [[Brutus\|BRUTO]] | Guarda nel calendario e vieni a dirmelo. |
+| [[Lucius\|LUCIO]] | Sì, signore. Esce |
+| [[Brutus\|BRUTO]] | Le esalazioni che sibilano nell'aria<br>danno tanta luce che posso leggervi.<br>Apre la lettera e legge<br><br>'[[Brutus\|Bruto]], tu [[Sleep\|dormi]]. Svégliati, e guarda te stesso.<br>Dovrà Roma, eccetera? Parla, colpisci, ripara.'—<br>'[[Brutus\|Bruto]], tu [[Sleep\|dormi]]. Svégliati.'<br>Simili istigazioni sono state spesso lasciate cadere<br>dove io le ho raccolte.<br>'Dovrà Roma, eccetera?' Così devo completarlo:<br>dovrà Roma star soggetta al timore d'un uomo solo? Come,<br>Roma?<br>I miei antenati cacciarono dalle vie di Roma<br>il [[Tarquin\|Tarquinio]], quando fu chiamato [[King\|re]].<br>'Parla, colpisci, ripara.' Sono io pregato<br>di parlare e di colpire? O Roma, io ti prometto:<br>se la riparazione seguirà, tu riceverai<br>per intero la tua richiesta dalla mano di [[Brutus\|Bruto]]. |
+| *(didascalia)* | Entra [[Lucius\|Lucio]] |
+| [[Lucius\|LUCIO]] | Signore, di marzo son trascorsi quindici giorni. Bussano dentro |
+| [[Brutus\|BRUTO]] | Sta bene. Va' al cancello; qualcuno bussa. |
+| *(didascalia)* | Esce [[Lucius\|Lucio]] |
+| [[Brutus\|BRUTO]] | Da quando [[Cassius\|Cassio]] mi aizzò la prima volta contro Cesare<br>non ho più dormito.<br>Fra il compiersi d'una cosa terribile<br>e il primo impulso, tutto l'intervallo è<br>come un fantasma o un sogno orrendo.<br>Il genio e gli strumenti mortali<br>tengono allora consiglio, e lo stato dell'uomo,<br>simile a un piccolo regno, subisce allora<br>la [[Nature\|natura]] di un'insurrezione. |
+| *(didascalia)* | Entra [[Lucius\|Lucio]] |
+| [[Lucius\|LUCIO]] | Signore, è vostro cognato [[Cassius\|Cassio]] alla porta,<br>che [[Desire\|desidera]] vedervi. |
+| [[Brutus\|BRUTO]] | È [[Alone\|solo]]? |
+| [[Lucius\|LUCIO]] | No, signore, ce ne sono altri con lui. |
+| [[Brutus\|BRUTO]] | Li conosci? |
+| [[Lucius\|LUCIO]] | No, signore; hanno i cappelli calati sulle orecchie,<br>e metà del viso sepolta nei mantelli,<br>sì che in nessun modo posso riconoscerli<br>da alcun tratto del volto. |
+| [[Brutus\|BRUTO]] | Falli entrare. Esce [[Lucius\|Lucio]]<br>Sono la fazione. O congiura,<br>ti vergogni di mostrare la tua fronte pericolosa di [[Night\|notte]],<br>quando i mali sono più liberi? Oh, di giorno allora<br>dove troverai una caverna abbastanza buia<br>da mascherare il tuo mostruoso volto? Non cercarne, congiura.<br>Nascondilo in sorrisi e affabilità;<br>ché se indossi il tuo aspetto nativo,<br>neppure l'Erebo sarebbe abbastanza fosco<br>da celarti e sottrarti al sospetto. |
+| *(didascalia)* | Entrano i congiurati, imbacuccati: [[Cassius\|Cassio]], [[Casca]], Decio, Cinna, Metello e Trebonio |
+| [[Cassius\|CASSIO]] | Temo che ci prendiamo troppa libertà col vostro riposo.<br>Buon giorno, [[Brutus\|Bruto]]. Vi disturbiamo? |
+| [[Brutus\|BRUTO]] | Sono in piedi da un'ora, sveglio tutta la [[Night\|notte]].<br>Li conosco questi uomini che vengono con voi? |
+| [[Cassius\|CASSIO]] | Sì, ognuno di loro; e non c'è qui uomo<br>che non vi onori; e ognuno desidera<br>che voi aveste di voi stesso quell'opinione<br>che ogni nobile Romano ha di voi.<br>Questi è Trebonio. |
+| [[Brutus\|BRUTO]] | Sia il benvenuto qui. |
+| [[Cassius\|CASSIO]] | Questi, Decio [[Brutus\|Bruto]]. |
+| [[Brutus\|BRUTO]] | Anch'egli è il benvenuto. |
+| [[Cassius\|CASSIO]] | Questi, [[Casca]]; questi, Cinna; e questi, Metello Cimbro. |
+| [[Brutus\|BRUTO]] | Tutti sono i benvenuti.<br>Quali affanni vigili s'interpongono<br>fra i vostri occhi e la [[Night\|notte]]? |
+| [[Cassius\|CASSIO]] | Posso chiedervi una parola? |
+| *(didascalia)* | [[Cassius\|Cassio]] e [[Brutus\|Bruto]] si traggono in disparte e bisbigliano |
 | DECIO | Qui è l'oriente. Non spunta di qui il giorno? |
-| [[Casca|CASCA]] | No. |
+| [[Casca\|CASCA]] | No. |
 | CINNA | Oh, perdonate, signore, sì; e quelle linee grigie<br>che striano le nubi sono messaggere del giorno. |
-| [[Casca|CASCA]] | Confesserete che siete entrambi in errore.<br>Punta la [[Sword|spada]]<br><br>Qui, dove punto la mia [[Sword|spada]], sorge il sole,<br>che è ancora assai inclinato verso il sud,<br>considerata la giovane stagione dell'anno.<br>Fra circa due mesi, più in alto verso il nord,<br>presenterà il suo primo [[Fire|fuoco]], e l'oriente vero<br>sta, come il Campidoglio, proprio qui. |
-| *(didascalia)* | Punta la [[Sword|spada]]. [[Brutus|Bruto]] e [[Cassius|Cassio]] si riuniscono agli altri congiurati |
-| [[Brutus|BRUTO]] | Datemi tutti la mano, uno per uno.<br>Stringe loro la mano |
-| [[Cassius|CASSIO]] | E giuriamo la nostra risoluzione. |
-| [[Brutus|BRUTO]] | No, nessun giuramento. Se il volto degli uomini,<br>la sofferenza delle nostre anime, l'abuso del [[Time|tempo]]—<br>se questi son motivi deboli, sciogliamoci per tempo,<br>e ognuno se ne torni al suo ozioso letto.<br>Lasciamo così che l'altezzosa tirannide spazi<br>finché ciascuno cada a sorte. Ma se questi,<br>come son certo che fanno, portano [[Fire|fuoco]] abbastanza<br>da infiammare i vili e da temprare di valore<br>i molli spiriti delle donne, allora, concittadini,<br>che bisogno abbiamo d'altro sprone che la nostra causa<br>per spingerci a riparare? Quale altro vincolo<br>che Romani segreti, i quali han dato la parola<br>e non verranno meno? E quale altro giuramento<br>che l'onestà impegnata all'onestà<br>che questo sarà, o per esso cadremo?<br>Giurino i preti, i vili e gli uomini cauti,<br>vecchie carogne fiacche, e quelle anime [[Suffering|sofferenti]]<br>che accolgono i torti; alle cause cattive giurino<br>creature di cui gli uomini [[Doubt|dubitano]]; ma non macchiate<br>la pari virtù della nostra impresa,<br>né l'indomabile tempra dei nostri spiriti,<br>col pensare che la nostra causa o la nostra azione<br>avessero bisogno d'un giuramento, quando ogni goccia di [[Blood|sangue]]<br>che ogni Romano porta, e nobilmente porta,<br>è colpevole d'una sua propria bastardia<br>se egli infrange la più piccola particella<br>di qualunque promessa uscita dalla sua bocca. |
-| [[Cassius|CASSIO]] | Ma che dire di Cicerone? Lo sonderemo?<br>Credo che starà molto saldo con noi. |
-| [[Casca|CASCA]] | Non lasciamolo fuori. |
+| [[Casca\|CASCA]] | Confesserete che siete entrambi in errore.<br>Punta la [[Sword\|spada]]<br><br>Qui, dove punto la mia [[Sword\|spada]], sorge il sole,<br>che è ancora assai inclinato verso il sud,<br>considerata la giovane stagione dell'anno.<br>Fra circa due mesi, più in alto verso il nord,<br>presenterà il suo primo [[Fire\|fuoco]], e l'oriente vero<br>sta, come il Campidoglio, proprio qui. |
+| *(didascalia)* | Punta la [[Sword\|spada]]. [[Brutus\|Bruto]] e [[Cassius\|Cassio]] si riuniscono agli altri congiurati |
+| [[Brutus\|BRUTO]] | Datemi tutti la mano, uno per uno.<br>Stringe loro la mano |
+| [[Cassius\|CASSIO]] | E giuriamo la nostra risoluzione. |
+| [[Brutus\|BRUTO]] | No, nessun giuramento. Se il volto degli uomini,<br>la sofferenza delle nostre anime, l'abuso del [[Time\|tempo]]—<br>se questi son motivi deboli, sciogliamoci per tempo,<br>e ognuno se ne torni al suo ozioso letto.<br>Lasciamo così che l'altezzosa tirannide spazi<br>finché ciascuno cada a sorte. Ma se questi,<br>come son certo che fanno, portano [[Fire\|fuoco]] abbastanza<br>da infiammare i vili e da temprare di valore<br>i molli spiriti delle donne, allora, concittadini,<br>che bisogno abbiamo d'altro sprone che la nostra causa<br>per spingerci a riparare? Quale altro vincolo<br>che Romani segreti, i quali han dato la parola<br>e non verranno meno? E quale altro giuramento<br>che l'onestà impegnata all'onestà<br>che questo sarà, o per esso cadremo?<br>Giurino i preti, i vili e gli uomini cauti,<br>vecchie carogne fiacche, e quelle anime [[Suffering\|sofferenti]]<br>che accolgono i torti; alle cause cattive giurino<br>creature di cui gli uomini [[Doubt\|dubitano]]; ma non macchiate<br>la pari virtù della nostra impresa,<br>né l'indomabile tempra dei nostri spiriti,<br>col pensare che la nostra causa o la nostra azione<br>avessero bisogno d'un giuramento, quando ogni goccia di [[Blood\|sangue]]<br>che ogni Romano porta, e nobilmente porta,<br>è colpevole d'una sua propria bastardia<br>se egli infrange la più piccola particella<br>di qualunque promessa uscita dalla sua bocca. |
+| [[Cassius\|CASSIO]] | Ma che dire di Cicerone? Lo sonderemo?<br>Credo che starà molto saldo con noi. |
+| [[Casca\|CASCA]] | Non lasciamolo fuori. |
 | CINNA | No, in nessun modo. |
 | METELLO | Oh, prendiamolo con noi, ché i suoi capelli d'argento<br>ci procureranno una buona fama,<br>e compreranno le voci degli uomini a lodare le nostre azioni.<br>Si dirà che il suo giudizio guidò le nostre mani.<br>La nostra giovinezza e la nostra avventatezza non appariranno affatto,<br>ma saranno tutte sepolte nella sua gravità. |
-| [[Brutus|BRUTO]] | Oh, non nominatelo! Non apriamoci con lui,<br>ché non seguirà mai nulla<br>che altri uomini abbiano cominciato. |
-| [[Cassius|CASSIO]] | Allora lasciamolo fuori. |
-| [[Casca|CASCA]] | Davvero non è adatto. |
+| [[Brutus\|BRUTO]] | Oh, non nominatelo! Non apriamoci con lui,<br>ché non seguirà mai nulla<br>che altri uomini abbiano cominciato. |
+| [[Cassius\|CASSIO]] | Allora lasciamolo fuori. |
+| [[Casca\|CASCA]] | Davvero non è adatto. |
 | DECIO | Nessun altro sarà toccato, se non Cesare soltanto? |
-| [[Cassius|CASSIO]] | Decio, [[Well|ben]] detto. Non credo sia conveniente<br>che [[Mark Antony|Marco Antonio]], così [[Well|ben]] amato da Cesare,<br>sopravviva a Cesare. Lo troveremo<br>un astuto macchinatore. E sapete che i suoi mezzi,<br>se li adopera, possono [[Well|bene]] estendersi tanto<br>da nuocere a tutti noi; per prevenire ciò,<br>cadano insieme Antonio e Cesare. |
-| [[Brutus|BRUTO]] | Il nostro procedere sembrerà troppo sanguinoso, Caio [[Cassius|Cassio]],<br>tagliare il capo e poi mozzare le membra,<br>come ira nella [[Death|morte]] e livore dopo—<br>ché Antonio non è che un membro di Cesare.<br>Siamo sacrificatori, non macellai, Caio.<br>Tutti noi ci leviamo contro lo spirito di Cesare,<br>e nello spirito degli uomini non c'è [[Blood|sangue]].<br>Oh, se potessimo dunque raggiungere lo spirito di Cesare,<br>senza smembrare Cesare! Ma, ahimè,<br>Cesare deve sanguinarne. E, cari amici,<br>uccidiamolo arditamente, ma non con ira.<br>Trinciamolo come vivanda degna degli dèi,<br>non facciamolo a pezzi come carcassa buona per i cani.<br>E i nostri cuori, come fanno i padroni accorti,<br>eccitino i loro servi a un atto di furore,<br>e poi fingano di rimproverarli. Ciò renderà<br>il nostro proposito necessario, e non odioso;<br>e apparendo tale agli occhi del volgo,<br>saremo chiamati purificatori, non assassini.<br>E quanto a [[Mark Antony|Marco Antonio]], non pensateci,<br>ché non può far più del braccio di Cesare<br>quando la testa di Cesare è recisa. |
-| [[Cassius|CASSIO]] | Eppure lo [[Fear|temo]];<br>ché nell'[[Love|amore]] innestato che porta a Cesare— |
-| [[Brutus|BRUTO]] | Ahimè, buon [[Cassius|Cassio]], non pensate a lui.<br>Se [[Love|ama]] Cesare, tutto ciò che può fare<br>è contro se stesso: darsi alla malinconia, e morire per Cesare.<br>E sarebbe già molto ch'egli lo facesse, ché è dedito<br>ai divertimenti, agli stravizi e alla molta compagnia. |
-| TREBONIO | Non c'è nulla da [[Fear|temere]] in lui. Non muoia;<br>ché vivrà, e in seguito riderà di questo.<br>Batte l'[[Clock|orologio]] |
-| [[Brutus|BRUTO]] | Silenzio, contate l'[[Clock|orologio]]. |
-| [[Cassius|CASSIO]] | L'[[Clock|orologio]] ha battuto le tre. |
-| TREBONIO | È [[Time|tempo]] di separarci. |
-| [[Cassius|CASSIO]] | Ma è ancora incerto<br>se Cesare uscirà oggi o no;<br>ché di recente è diventato superstizioso,<br>ben lontano dall'opinione salda che teneva un tempo<br>sulle fantasie, sui [[Dreams|sogni]] e sulle cerimonie.<br>Può darsi che questi prodigi manifesti,<br>l'insolito terrore di questa [[Night|notte]],<br>e la [[Persuasion|persuasione]] dei suoi àuguri,<br>lo trattengano oggi dal Campidoglio. |
-| DECIO | Non [[Fear|temete]] questo. Se sarà così deciso,<br>saprò smuoverlo; ché ama sentirsi dire<br>che gli unicorni si prendono con gli alberi,<br>gli orsi con gli specchi, gli elefanti con le fosse,<br>i leoni con le reti, e gli uomini con gli adulatori;<br>ma quando gli dico che egli odia gli adulatori,<br>risponde di sì, ed è allora adulato al massimo. Lasciate<br>fare a me,<br>ché so dare al suo [[Humour|umore]] la giusta piega,<br>e lo condurrò al Campidoglio. |
-| [[Cassius|CASSIO]] | Anzi, saremo tutti là a prenderlo. |
-| [[Brutus|BRUTO]] | All'ottava ora. È questo il termine estremo? |
+| [[Cassius\|CASSIO]] | Decio, [[Well\|ben]] detto. Non credo sia conveniente<br>che [[Mark Antony\|Marco Antonio]], così [[Well\|ben]] amato da Cesare,<br>sopravviva a Cesare. Lo troveremo<br>un astuto macchinatore. E sapete che i suoi mezzi,<br>se li adopera, possono [[Well\|bene]] estendersi tanto<br>da nuocere a tutti noi; per prevenire ciò,<br>cadano insieme Antonio e Cesare. |
+| [[Brutus\|BRUTO]] | Il nostro procedere sembrerà troppo sanguinoso, Caio [[Cassius\|Cassio]],<br>tagliare il capo e poi mozzare le membra,<br>come ira nella [[Death\|morte]] e livore dopo—<br>ché Antonio non è che un membro di Cesare.<br>Siamo sacrificatori, non macellai, Caio.<br>Tutti noi ci leviamo contro lo spirito di Cesare,<br>e nello spirito degli uomini non c'è [[Blood\|sangue]].<br>Oh, se potessimo dunque raggiungere lo spirito di Cesare,<br>senza smembrare Cesare! Ma, ahimè,<br>Cesare deve sanguinarne. E, cari amici,<br>uccidiamolo arditamente, ma non con ira.<br>Trinciamolo come vivanda degna degli dèi,<br>non facciamolo a pezzi come carcassa buona per i cani.<br>E i nostri cuori, come fanno i padroni accorti,<br>eccitino i loro servi a un atto di furore,<br>e poi fingano di rimproverarli. Ciò renderà<br>il nostro proposito necessario, e non odioso;<br>e apparendo tale agli occhi del volgo,<br>saremo chiamati purificatori, non assassini.<br>E quanto a [[Mark Antony\|Marco Antonio]], non pensateci,<br>ché non può far più del braccio di Cesare<br>quando la testa di Cesare è recisa. |
+| [[Cassius\|CASSIO]] | Eppure lo [[Fear\|temo]];<br>ché nell'[[Love\|amore]] innestato che porta a Cesare— |
+| [[Brutus\|BRUTO]] | Ahimè, buon [[Cassius\|Cassio]], non pensate a lui.<br>Se [[Love\|ama]] Cesare, tutto ciò che può fare<br>è contro se stesso: darsi alla malinconia, e morire per Cesare.<br>E sarebbe già molto ch'egli lo facesse, ché è dedito<br>ai divertimenti, agli stravizi e alla molta compagnia. |
+| TREBONIO | Non c'è nulla da [[Fear\|temere]] in lui. Non muoia;<br>ché vivrà, e in seguito riderà di questo.<br>Batte l'[[Clock\|orologio]] |
+| [[Brutus\|BRUTO]] | Silenzio, contate l'[[Clock\|orologio]]. |
+| [[Cassius\|CASSIO]] | L'[[Clock\|orologio]] ha battuto le tre. |
+| TREBONIO | È [[Time\|tempo]] di separarci. |
+| [[Cassius\|CASSIO]] | Ma è ancora incerto<br>se Cesare uscirà oggi o no;<br>ché di recente è diventato superstizioso,<br>ben lontano dall'opinione salda che teneva un tempo<br>sulle fantasie, sui [[Dreams\|sogni]] e sulle cerimonie.<br>Può darsi che questi prodigi manifesti,<br>l'insolito terrore di questa [[Night\|notte]],<br>e la [[Persuasion\|persuasione]] dei suoi àuguri,<br>lo trattengano oggi dal Campidoglio. |
+| DECIO | Non [[Fear\|temete]] questo. Se sarà così deciso,<br>saprò smuoverlo; ché ama sentirsi dire<br>che gli unicorni si prendono con gli alberi,<br>gli orsi con gli specchi, gli elefanti con le fosse,<br>i leoni con le reti, e gli uomini con gli adulatori;<br>ma quando gli dico che egli odia gli adulatori,<br>risponde di sì, ed è allora adulato al massimo. Lasciate<br>fare a me,<br>ché so dare al suo [[Humour\|umore]] la giusta piega,<br>e lo condurrò al Campidoglio. |
+| [[Cassius\|CASSIO]] | Anzi, saremo tutti là a prenderlo. |
+| [[Brutus\|BRUTO]] | All'ottava ora. È questo il termine estremo? |
 | CINNA | Sia quello il termine estremo, e allora non mancate. |
-| METELLO | Caio Ligario porta rancore a Cesare,<br>che lo rimproverò per aver parlato [[Well|bene]] di [[Pompey|Pompeo]].<br>Mi [[Wonder|stupisco]] che nessuno di voi abbia pensato a lui. |
-| [[Brutus|BRUTO]] | Ora, buon Metello, passate da lui.<br>Mi vuol [[Well|bene]], e gliene ho dato ragione.<br>Mandatemelo qui, e io lo plasmerò. |
-| [[Cassius|CASSIO]] | Il mattino ci sorprende. Vi lasciamo, [[Brutus|Bruto]].<br>E voi, amici, disperdetevi; ma tutti ricordate<br>ciò che avete detto, e mostratevi veri Romani. |
-| [[Brutus|BRUTO]] | Buoni signori, abbiate l'aria fresca e lieta.<br>I nostri volti non indossino i nostri propositi;<br>ma portiamoli come fanno i nostri attori romani,<br>con spiriti instancabili e decorosa costanza.<br>E così buon giorno a ciascuno di voi. |
-| *(didascalia)* | Escono tutti tranne [[Brutus|Bruto]] |
-| [[Brutus|BRUTO]] | Ragazzo, [[Lucius|Lucio]]!—Profondamente addormentato? Non importa.<br>Gòditi la rugiada greve di miele del sonno.<br>Tu non hai immagini né fantasmi<br>che l'affanno operoso disegna nei cervelli degli uomini;<br>perciò [[Sleep|dormi]] così profondamente. |
-| *(didascalia)* | Entra [[Portia|Porzia]] |
-| [[Portia|PORZIA]] | [[Brutus|Bruto]], mio signore. |
-| [[Brutus|BRUTO]] | [[Portia|Porzia]], che fate? Perché vi alzate ora?<br>Non giova alla vostra salute esporre così<br>la vostra debole complessione al crudo freddo del mattino. |
-| [[Portia|PORZIA]] | Né giova alla vostra. Voi, [[Brutus|Bruto]], scortesemente<br>vi siete sottratto al mio letto; e ieri sera a cena<br>vi alzaste all'improvviso, e camminaste in giro<br>meditando e sospirando, con le braccia conserte;<br>e quando vi chiesi che cosa vi fosse,<br>mi fissaste con sguardi sgarbati.<br>Insistetti ancora; allora vi grattaste il capo,<br>e batteste il piede con troppa impazienza.<br>Pure insistetti; pure non rispondeste,<br>ma con un gesto irato della mano<br>mi faceste segno di lasciarvi. E così feci,<br>temendo di accrescere quell'impazienza<br>che pareva troppo accesa, e insieme<br>sperando che fosse solo un effetto dell'[[Humour|umore]],<br>che talvolta ha la sua ora con ogni uomo.<br>Non vi lascia mangiare, né parlare, né [[Sleep|dormire]];<br>e se potesse operare sul vostro aspetto<br>quanto ha prevalso sul vostro animo,<br>non vi riconoscerei per [[Brutus|Bruto]]. Caro mio signore,<br>fatemi conoscere la causa del vostro dolore. |
-| [[Brutus|BRUTO]] | Non sto [[Well|bene]] in salute, e questo è tutto. |
-| [[Portia|PORZIA]] | [[Brutus|Bruto]] è savio, e se non fosse in salute<br>abbraccerebbe i mezzi per riacquistarla. |
-| [[Brutus|BRUTO]] | Ma è ciò che faccio. Buona [[Portia|Porzia]], andate a letto. |
-| [[Portia|PORZIA]] | È malato [[Brutus|Bruto]]? Ed è salutare<br>andare in giro slacciato e assorbire gli umori<br>del mattino umidiccio? Come, è malato [[Brutus|Bruto]]?<br>E vuol sgusciare fuori dal suo letto salubre<br>per sfidare il vile contagio della [[Night|notte]],<br>e tentare l'aria catarrosa e non purificata<br>perché aggiunga al suo male? No, mio [[Brutus|Bruto]],<br>voi avete qualche morbosa offesa nella mente,<br>della quale, per diritto e virtù del mio posto,<br>io dovrei essere informata. (Inginocchiandosi) E in ginocchio,<br>vi scongiuro per la mia [[Beauty|bellezza]] un tempo lodata,<br>per tutti i vostri voti d'[[Love|amore]], e per quel gran voto<br>che ci incorporò e ci fece una cosa sola,<br>di rivelare a me, voi [[Self|stesso]], vostra metà,<br>perché siete oppresso, e quali uomini stanotte<br>sono venuti da voi—ché qui ce ne sono stati<br>sei o sette, che nascondevano il volto<br>perfino alle tenebre. |
-| [[Brutus|BRUTO]] | Non v'inginocchiate, gentile [[Portia|Porzia]]. |
-| *(didascalia)* | [[Portia|PORZIA]] alzandosi |
-| [[Brutus|BRUTO]] | Non ne avrei bisogno, se voi foste il gentile [[Brutus|Bruto]]. |
-| *(didascalia)* | Entro il vincolo del [[Marriage|matrimonio]], ditemi, [[Brutus|Bruto]], |
-| [[Brutus|BRUTO]] | è forse escluso che io conosca i [[Secrets|segreti]]<br>che vi riguardano? Sono io voi [[Self|stesso]]<br>solo, per così dire, in parte e con limiti?<br>Per starvi accanto ai pasti, allietare il vostro letto,<br>e parlarvi qualche volta? Abito io solo nei<br>sobborghi<br>del vostro buon piacere? Se non è più di questo,<br>[[Portia|Porzia]] è la meretrice di [[Brutus|Bruto]], non sua moglie. |
-| [[Brutus|BRUTO]] | Voi siete la mia vera e onorevole moglie,<br>a me cara quanto le rosse gocce<br>che visitano il mio triste cuore. |
-| [[Portia|PORZIA]] | Se questo fosse vero, allora conoscerei questo segreto.<br>Ammetto d'essere una donna, ma insieme<br>una donna che il signor [[Brutus|Bruto]] prese in moglie.<br>Ammetto d'essere una donna, ma insieme<br>una donna [[Well|ben]] reputata, figlia di Catone.<br>Credete voi che io non sia più forte del mio sesso,<br>avendo tal padre e tal marito?<br>Ditemi i vostri disegni; non li rivelerò.<br>Ho dato forte prova della mia costanza,<br>infliggendomi una ferita volontaria<br>qui nella coscia. Posso sopportare quella con pazienza,<br>e non i [[Secrets|segreti]] di mio marito? |
-| [[Brutus|BRUTO]] | O dèi,<br>rendetemi degno di questa nobile moglie! |
+| METELLO | Caio Ligario porta rancore a Cesare,<br>che lo rimproverò per aver parlato [[Well\|bene]] di [[Pompey\|Pompeo]].<br>Mi [[Wonder\|stupisco]] che nessuno di voi abbia pensato a lui. |
+| [[Brutus\|BRUTO]] | Ora, buon Metello, passate da lui.<br>Mi vuol [[Well\|bene]], e gliene ho dato ragione.<br>Mandatemelo qui, e io lo plasmerò. |
+| [[Cassius\|CASSIO]] | Il mattino ci sorprende. Vi lasciamo, [[Brutus\|Bruto]].<br>E voi, amici, disperdetevi; ma tutti ricordate<br>ciò che avete detto, e mostratevi veri Romani. |
+| [[Brutus\|BRUTO]] | Buoni signori, abbiate l'aria fresca e lieta.<br>I nostri volti non indossino i nostri propositi;<br>ma portiamoli come fanno i nostri attori romani,<br>con spiriti instancabili e decorosa costanza.<br>E così buon giorno a ciascuno di voi. |
+| *(didascalia)* | Escono tutti tranne [[Brutus\|Bruto]] |
+| [[Brutus\|BRUTO]] | Ragazzo, [[Lucius\|Lucio]]!—Profondamente addormentato? Non importa.<br>Gòditi la rugiada greve di miele del sonno.<br>Tu non hai immagini né fantasmi<br>che l'affanno operoso disegna nei cervelli degli uomini;<br>perciò [[Sleep\|dormi]] così profondamente. |
+| *(didascalia)* | Entra [[Portia\|Porzia]] |
+| [[Portia\|PORZIA]] | [[Brutus\|Bruto]], mio signore. |
+| [[Brutus\|BRUTO]] | [[Portia\|Porzia]], che fate? Perché vi alzate ora?<br>Non giova alla vostra salute esporre così<br>la vostra debole complessione al crudo freddo del mattino. |
+| [[Portia\|PORZIA]] | Né giova alla vostra. Voi, [[Brutus\|Bruto]], scortesemente<br>vi siete sottratto al mio letto; e ieri sera a cena<br>vi alzaste all'improvviso, e camminaste in giro<br>meditando e sospirando, con le braccia conserte;<br>e quando vi chiesi che cosa vi fosse,<br>mi fissaste con sguardi sgarbati.<br>Insistetti ancora; allora vi grattaste il capo,<br>e batteste il piede con troppa impazienza.<br>Pure insistetti; pure non rispondeste,<br>ma con un gesto irato della mano<br>mi faceste segno di lasciarvi. E così feci,<br>temendo di accrescere quell'impazienza<br>che pareva troppo accesa, e insieme<br>sperando che fosse solo un effetto dell'[[Humour\|umore]],<br>che talvolta ha la sua ora con ogni uomo.<br>Non vi lascia mangiare, né parlare, né [[Sleep\|dormire]];<br>e se potesse operare sul vostro aspetto<br>quanto ha prevalso sul vostro animo,<br>non vi riconoscerei per [[Brutus\|Bruto]]. Caro mio signore,<br>fatemi conoscere la causa del vostro dolore. |
+| [[Brutus\|BRUTO]] | Non sto [[Well\|bene]] in salute, e questo è tutto. |
+| [[Portia\|PORZIA]] | [[Brutus\|Bruto]] è savio, e se non fosse in salute<br>abbraccerebbe i mezzi per riacquistarla. |
+| [[Brutus\|BRUTO]] | Ma è ciò che faccio. Buona [[Portia\|Porzia]], andate a letto. |
+| [[Portia\|PORZIA]] | È malato [[Brutus\|Bruto]]? Ed è salutare<br>andare in giro slacciato e assorbire gli umori<br>del mattino umidiccio? Come, è malato [[Brutus\|Bruto]]?<br>E vuol sgusciare fuori dal suo letto salubre<br>per sfidare il vile contagio della [[Night\|notte]],<br>e tentare l'aria catarrosa e non purificata<br>perché aggiunga al suo male? No, mio [[Brutus\|Bruto]],<br>voi avete qualche morbosa offesa nella mente,<br>della quale, per diritto e virtù del mio posto,<br>io dovrei essere informata. (Inginocchiandosi) E in ginocchio,<br>vi scongiuro per la mia [[Beauty\|bellezza]] un tempo lodata,<br>per tutti i vostri voti d'[[Love\|amore]], e per quel gran voto<br>che ci incorporò e ci fece una cosa sola,<br>di rivelare a me, voi [[Self\|stesso]], vostra metà,<br>perché siete oppresso, e quali uomini stanotte<br>sono venuti da voi—ché qui ce ne sono stati<br>sei o sette, che nascondevano il volto<br>perfino alle tenebre. |
+| [[Brutus\|BRUTO]] | Non v'inginocchiate, gentile [[Portia\|Porzia]]. |
+| *(didascalia)* | [[Portia\|PORZIA]] alzandosi |
+| [[Brutus\|BRUTO]] | Non ne avrei bisogno, se voi foste il gentile [[Brutus\|Bruto]]. |
+| *(didascalia)* | Entro il vincolo del [[Marriage\|matrimonio]], ditemi, [[Brutus\|Bruto]], |
+| [[Brutus\|BRUTO]] | è forse escluso che io conosca i [[Secrets\|segreti]]<br>che vi riguardano? Sono io voi [[Self\|stesso]]<br>solo, per così dire, in parte e con limiti?<br>Per starvi accanto ai pasti, allietare il vostro letto,<br>e parlarvi qualche volta? Abito io solo nei<br>sobborghi<br>del vostro buon piacere? Se non è più di questo,<br>[[Portia\|Porzia]] è la meretrice di [[Brutus\|Bruto]], non sua moglie. |
+| [[Brutus\|BRUTO]] | Voi siete la mia vera e onorevole moglie,<br>a me cara quanto le rosse gocce<br>che visitano il mio triste cuore. |
+| [[Portia\|PORZIA]] | Se questo fosse vero, allora conoscerei questo segreto.<br>Ammetto d'essere una donna, ma insieme<br>una donna che il signor [[Brutus\|Bruto]] prese in moglie.<br>Ammetto d'essere una donna, ma insieme<br>una donna [[Well\|ben]] reputata, figlia di Catone.<br>Credete voi che io non sia più forte del mio sesso,<br>avendo tal padre e tal marito?<br>Ditemi i vostri disegni; non li rivelerò.<br>Ho dato forte prova della mia costanza,<br>infliggendomi una ferita volontaria<br>qui nella coscia. Posso sopportare quella con pazienza,<br>e non i [[Secrets\|segreti]] di mio marito? |
+| [[Brutus\|BRUTO]] | O dèi,<br>rendetemi degno di questa nobile moglie! |
 | *(didascalia)* | Bussano dentro |
-| [[Brutus|BRUTO]] | Ascolta, ascolta, qualcuno bussa. [[Portia|Porzia]], rientra per un poco,<br>e fra breve il tuo petto parteciperà<br>ai [[Secrets|segreti]] del mio cuore.<br>Tutti i miei impegni ti spiegherò,<br>tutti i caratteri scritti sulla mia fronte triste.<br>Lasciami in fretta. |
-| *(didascalia)* | Esce [[Portia|Porzia]] |
-| [[Brutus|BRUTO]] | [[Lucius|Lucio]], chi è che bussa? |
-| *(didascalia)* | Entrano [[Lucius|Lucio]] e Ligario, con una benda intorno al capo |
-| [[Lucius|LUCIO]] | C'è qui un uomo malato che vorrebbe parlarvi. |
-| [[Brutus|BRUTO]] | Caio Ligario, quello di cui parlò Metello.—<br>Ragazzo, tirati da parte. |
-| *(didascalia)* | Esce [[Lucius|Lucio]] |
-| [[Brutus|BRUTO]] | Caio Ligario, come state? |
+| [[Brutus\|BRUTO]] | Ascolta, ascolta, qualcuno bussa. [[Portia\|Porzia]], rientra per un poco,<br>e fra breve il tuo petto parteciperà<br>ai [[Secrets\|segreti]] del mio cuore.<br>Tutti i miei impegni ti spiegherò,<br>tutti i caratteri scritti sulla mia fronte triste.<br>Lasciami in fretta. |
+| *(didascalia)* | Esce [[Portia\|Porzia]] |
+| [[Brutus\|BRUTO]] | [[Lucius\|Lucio]], chi è che bussa? |
+| *(didascalia)* | Entrano [[Lucius\|Lucio]] e Ligario, con una benda intorno al capo |
+| [[Lucius\|LUCIO]] | C'è qui un uomo malato che vorrebbe parlarvi. |
+| [[Brutus\|BRUTO]] | Caio Ligario, quello di cui parlò Metello.—<br>Ragazzo, tirati da parte. |
+| *(didascalia)* | Esce [[Lucius\|Lucio]] |
+| [[Brutus\|BRUTO]] | Caio Ligario, come state? |
 | LIGARIO | Accogliete un buon giorno da una lingua fiacca. |
-| [[Brutus|BRUTO]] | Oh, che [[Time|momento]] avete scelto, prode Caio,<br>per portare una benda! Foste voi non malato! |
-| LIGARIO | Non sono malato, se [[Brutus|Bruto]] ha per le mani<br>qualche impresa degna del nome d'[[Honour|onore]]. |
-| [[Brutus|BRUTO]] | Una tale impresa ho per le mani, Ligario,<br>se aveste un orecchio sano per udirne. |
-| LIGARIO | Per tutti gli dèi davanti a cui s'inchinano i Romani,<br>qui getto via la mia malattia.<br>Si toglie la benda [[Soul|Anima]] di Roma,<br>prode figlio disceso da lombi onorati,<br>tu come un esorcista hai evocato<br>il mio spirito mortificato. Ora comandami di correre,<br>e lotterò con l'impossibile,<br>sì, e ne avrò ragione. Che c'è da fare? |
-| [[Brutus|BRUTO]] | Un'opera che renderà sani gli uomini malati. |
+| [[Brutus\|BRUTO]] | Oh, che [[Time\|momento]] avete scelto, prode Caio,<br>per portare una benda! Foste voi non malato! |
+| LIGARIO | Non sono malato, se [[Brutus\|Bruto]] ha per le mani<br>qualche impresa degna del nome d'[[Honour\|onore]]. |
+| [[Brutus\|BRUTO]] | Una tale impresa ho per le mani, Ligario,<br>se aveste un orecchio sano per udirne. |
+| LIGARIO | Per tutti gli dèi davanti a cui s'inchinano i Romani,<br>qui getto via la mia malattia.<br>Si toglie la benda [[Soul\|Anima]] di Roma,<br>prode figlio disceso da lombi onorati,<br>tu come un esorcista hai evocato<br>il mio spirito mortificato. Ora comandami di correre,<br>e lotterò con l'impossibile,<br>sì, e ne avrò ragione. Che c'è da fare? |
+| [[Brutus\|BRUTO]] | Un'opera che renderà sani gli uomini malati. |
 | LIGARIO | Ma non ce ne sono di sani che dobbiamo far malati? |
-| [[Brutus|BRUTO]] | Anche questo dobbiamo fare. Che cosa sia, mio Caio,<br>te lo svelerò mentre andiamo<br>da colui a cui deve esser fatto. |
-| LIGARIO | Movete il piede,<br>e con cuore riacceso vi seguo<br>a fare non so che cosa; ma mi basta<br>che [[Brutus|Bruto]] mi conduca. |
-| [[Brutus|BRUTO]] | Seguimi, dunque. |
+| [[Brutus\|BRUTO]] | Anche questo dobbiamo fare. Che cosa sia, mio Caio,<br>te lo svelerò mentre andiamo<br>da colui a cui deve esser fatto. |
+| LIGARIO | Movete il piede,<br>e con cuore riacceso vi seguo<br>a fare non so che cosa; ma mi basta<br>che [[Brutus\|Bruto]] mi conduca. |
+| [[Brutus\|BRUTO]] | Seguimi, dunque. |
 | *(didascalia)* | Escono |
 
 
@@ -1757,45 +1757,45 @@ The [[Tragedy]] of [[Julius Caesar]]
 
 | Chi parla | Battuta |
 |---|---|
-| *(didascalia)* | Tuoni e [[Lightning|lampi]]. Entra [[Julius Caesar|Giulio Cesare]] in veste da notte |
-| CESARE | Né cielo né terra hanno avuto pace stanotte.<br>Tre volte [[Calpurnia]] nel [[Sleep|sonno]] ha gridato<br>'Aiuto, olà! Assassinano Cesare!'—Chi è là dentro? |
+| *(didascalia)* | Tuoni e [[Lightning\|lampi]]. Entra [[Julius Caesar\|Giulio Cesare]] in veste da notte |
+| CESARE | Né cielo né terra hanno avuto pace stanotte.<br>Tre volte [[Calpurnia]] nel [[Sleep\|sonno]] ha gridato<br>'Aiuto, olà! Assassinano Cesare!'—Chi è là dentro? |
 | *(didascalia)* | Entra un Servo |
 | SERVO | Mio signore. |
-| CESARE | Va', di' ai sacerdoti di compiere subito il sacrificio,<br>e portami il loro parere sull'[[success|esito]]. |
+| CESARE | Va', di' ai sacerdoti di compiere subito il sacrificio,<br>e portami il loro parere sull'[[success\|esito]]. |
 | SERVO | Sì, mio signore. |
 | *(didascalia)* | Esce |
 | *(didascalia)* | Entra [[Calpurnia]] |
-| [[Calpurnia|CALPURNIA]] | Che intendete fare, Cesare? Pensate di uscire?<br>Non vi muoverete oggi dalla vostra [[house|casa]]. |
+| [[Calpurnia\|CALPURNIA]] | Che intendete fare, Cesare? Pensate di uscire?<br>Non vi muoverete oggi dalla vostra [[house\|casa]]. |
 | CESARE | Cesare uscirà. Le cose che mi minacciarono<br>non guardarono mai che le mie spalle; quando vedranno<br>il volto di Cesare, saranno svanite. |
-| [[Calpurnia|CALPURNIA]] | Cesare, non ho mai dato peso ai presagi,<br>eppure ora mi spaventano. C'è uno là dentro<br>che, oltre alle cose che abbiamo udito e visto,<br>racconta visioni orrende viste dalle guardie.<br>Una leonessa ha figliato per le strade,<br>e le tombe si sono spalancate e hanno reso i loro morti.<br>Feroci guerrieri di fuoco combattono sulle nubi,<br>in file e in squadre e in vera forma di battaglia,<br>e ne piovve [[Blood|sangue]] a spruzzi sul Campidoglio.<br>Il fragore della battaglia si scagliava nell'aria.<br>I cavalli nitriscono, e i morenti gemevano,<br>e gli [[Ghosts|spettri]] stridevano e squittivano per le strade.<br>O Cesare, queste cose sono fuori d'ogni consuetudine,<br>e io le [[Fear|temo]]. |
+| [[Calpurnia\|CALPURNIA]] | Cesare, non ho mai dato peso ai presagi,<br>eppure ora mi spaventano. C'è uno là dentro<br>che, oltre alle cose che abbiamo udito e visto,<br>racconta visioni orrende viste dalle guardie.<br>Una leonessa ha figliato per le strade,<br>e le tombe si sono spalancate e hanno reso i loro morti.<br>Feroci guerrieri di fuoco combattono sulle nubi,<br>in file e in squadre e in vera forma di battaglia,<br>e ne piovve [[Blood\|sangue]] a spruzzi sul Campidoglio.<br>Il fragore della battaglia si scagliava nell'aria.<br>I cavalli nitriscono, e i morenti gemevano,<br>e gli [[Ghosts\|spettri]] stridevano e squittivano per le strade.<br>O Cesare, queste cose sono fuori d'ogni consuetudine,<br>e io le [[Fear\|temo]]. |
 | CESARE | Che cosa si può evitare,<br>se il suo fine è voluto dagli dèi possenti?<br>Eppure Cesare uscirà, ché queste predizioni<br>riguardano il mondo in generale quanto Cesare. |
-| [[Calpurnia|CALPURNIA]] | Quando muoiono i mendicanti non si vedono comete;<br>i cieli stessi fiammeggiano per la [[Death|morte]] dei<br>principi. |
-| CESARE | I vili muoiono molte volte prima della loro morte;<br>i valorosi non gustano la [[Death|morte]] che una volta sola.<br>Di tutti i prodigi che ho udito finora,<br>mi pare stranissimo che gli uomini [[Fear|temano]],<br>vedendo che la [[Death|morte]], fine necessario,<br>verrà quando dovrà venire. |
+| [[Calpurnia\|CALPURNIA]] | Quando muoiono i mendicanti non si vedono comete;<br>i cieli stessi fiammeggiano per la [[Death\|morte]] dei<br>principi. |
+| CESARE | I vili muoiono molte volte prima della loro morte;<br>i valorosi non gustano la [[Death\|morte]] che una volta sola.<br>Di tutti i prodigi che ho udito finora,<br>mi pare stranissimo che gli uomini [[Fear\|temano]],<br>vedendo che la [[Death\|morte]], fine necessario,<br>verrà quando dovrà venire. |
 | *(didascalia)* | Entra il Servo |
 | CESARE | Che dicono gli àuguri? |
 | SERVO | Non vorrebbero che usciste oggi.<br>Estraendo le viscere d'una vittima,<br>non riuscirono a trovare il cuore dentro la bestia. |
-| CESARE | Gli dèi fanno questo a vergogna della viltà.<br>Cesare sarebbe una bestia senza cuore<br>se restasse oggi a [[Home|casa]] per [[Fear|paura]].<br>No, Cesare non resterà. Il pericolo sa [[Well|bene]]<br>che Cesare è più pericoloso di lui.<br>Siamo due leoni figliati in un sol giorno,<br>e io il maggiore e il più terribile.<br>E Cesare uscirà. |
-| [[Calpurnia|CALPURNIA]] | Ahimè, mio signore,<br>la vostra saggezza è divorata dalla presunzione.<br>Non uscite oggi. Dite che è la mia [[Fear|paura]]<br>a trattenervi in [[house|casa]], e non la vostra.<br>Manderemo [[Mark Antony|Marco Antonio]] alla [[house|Curia]] del Senato,<br>e dirà che oggi non state [[Well|bene]].<br>Lasciate che in ginocchio io la spunti in questo.<br>S'inginocchia |
-| CESARE | [[Mark Antony|Marco Antonio]] dirà che non sto [[Well|bene]],<br>e per assecondare il tuo [[Humour|capriccio]] resterò a [[Home|casa]]. |
+| CESARE | Gli dèi fanno questo a vergogna della viltà.<br>Cesare sarebbe una bestia senza cuore<br>se restasse oggi a [[Home\|casa]] per [[Fear\|paura]].<br>No, Cesare non resterà. Il pericolo sa [[Well\|bene]]<br>che Cesare è più pericoloso di lui.<br>Siamo due leoni figliati in un sol giorno,<br>e io il maggiore e il più terribile.<br>E Cesare uscirà. |
+| [[Calpurnia\|CALPURNIA]] | Ahimè, mio signore,<br>la vostra saggezza è divorata dalla presunzione.<br>Non uscite oggi. Dite che è la mia [[Fear\|paura]]<br>a trattenervi in [[house\|casa]], e non la vostra.<br>Manderemo [[Mark Antony\|Marco Antonio]] alla [[house\|Curia]] del Senato,<br>e dirà che oggi non state [[Well\|bene]].<br>Lasciate che in ginocchio io la spunti in questo.<br>S'inginocchia |
+| CESARE | [[Mark Antony\|Marco Antonio]] dirà che non sto [[Well\|bene]],<br>e per assecondare il tuo [[Humour\|capriccio]] resterò a [[Home\|casa]]. |
 | *(didascalia)* | Entra Decio |
-| CESARE | Ecco Decio [[Brutus|Bruto]]; sarà lui a dirglielo. |
+| CESARE | Ecco Decio [[Brutus\|Bruto]]; sarà lui a dirglielo. |
 | *(didascalia)* | [[Calpurnia]] si alza |
-| DECIO | Cesare, salve! Buon giorno, degno Cesare.<br>Vengo a condurvi alla [[house|Curia]] del Senato. |
-| CESARE | E venite in [[Time|momento]] assai opportuno<br>per portare il mio saluto ai senatori<br>e dir loro che oggi non verrò.<br>'Non posso' è falso, e 'non oso' più falso ancora.<br>Non verrò oggi; dite loro così, Decio. |
-| [[Calpurnia|CALPURNIA]] | Dite che è malato. |
-| CESARE | Cesare manderà una menzogna?<br>Ho io steso tanto lontano il mio braccio nelle conquiste,<br>per aver timore di dire la [[Truth|verità]] a delle barbe grigie?<br>Decio, andate a dir loro che Cesare non verrà. |
+| DECIO | Cesare, salve! Buon giorno, degno Cesare.<br>Vengo a condurvi alla [[house\|Curia]] del Senato. |
+| CESARE | E venite in [[Time\|momento]] assai opportuno<br>per portare il mio saluto ai senatori<br>e dir loro che oggi non verrò.<br>'Non posso' è falso, e 'non oso' più falso ancora.<br>Non verrò oggi; dite loro così, Decio. |
+| [[Calpurnia\|CALPURNIA]] | Dite che è malato. |
+| CESARE | Cesare manderà una menzogna?<br>Ho io steso tanto lontano il mio braccio nelle conquiste,<br>per aver timore di dire la [[Truth\|verità]] a delle barbe grigie?<br>Decio, andate a dir loro che Cesare non verrà. |
 | DECIO | Potentissimo Cesare, fatemi sapere una ragione,<br>perché non si rida di me quando dirò loro così. |
-| CESARE | La ragione è nella mia volontà; non verrò.<br>Questo basta a soddisfare il Senato.<br>Ma per vostra privata soddisfazione,<br>poiché vi [[Love|amo]], ve lo farò sapere.<br>[[Calpurnia]] qui, mia moglie, mi trattiene a [[Home|casa]].<br>Stanotte sognò di vedere la mia statua<br>che, come una fontana da cento zampilli,<br>colava puro [[Blood|sangue]]; e molti gagliardi Romani<br>venivano sorridendo e vi bagnavano le mani.<br>Ed ella li interpreta come avvertimenti e presagi<br>di mali imminenti, e in ginocchio<br>mi ha supplicato di restare oggi a [[Home|casa]]. |
-| DECIO | Questo sogno è tutto male interpretato.<br>Fu una visione bella e fortunata.<br>La vostra statua che zampilla [[Blood|sangue]] da molte cannelle,<br>nel quale tanti Romani sorridenti si bagnavano,<br>significa che da voi la grande Roma succhierà<br>[[Blood|sangue]] rinnovatore, e che grandi uomini faranno ressa<br>per averne tinture, macchie, reliquie e insegne.<br>Questo è significato dal sogno di [[Calpurnia]]. |
-| CESARE | E in questo modo l'avete [[Well|bene]] spiegato. |
-| DECIO | L'ho fatto, quando avrete udito ciò che posso dire.<br>E sappiatelo ora: il Senato ha deciso<br>di dare oggi una [[Crown|corona]] al potente Cesare.<br>Se manderete loro parola che non verrete,<br>le loro menti potrebbero mutare. Inoltre, sarebbe una beffa<br>facile a rendersi, che qualcuno dicesse:<br>'Si sciolga il Senato fino a un altro [[Time|momento]],<br>quando la moglie di Cesare farà [[Dreams|sogni]] migliori.'<br>Se Cesare si nasconde, non bisbiglieranno forse:<br>'Ecco, Cesare ha paura'?<br>Perdonatemi, Cesare; ché il mio caro carissimo [[Love|affetto]]<br>per la vostra grandezza mi impone di dirvi questo,<br>e la ragione è soggetta al mio [[Love|amore]]. |
+| CESARE | La ragione è nella mia volontà; non verrò.<br>Questo basta a soddisfare il Senato.<br>Ma per vostra privata soddisfazione,<br>poiché vi [[Love\|amo]], ve lo farò sapere.<br>[[Calpurnia]] qui, mia moglie, mi trattiene a [[Home\|casa]].<br>Stanotte sognò di vedere la mia statua<br>che, come una fontana da cento zampilli,<br>colava puro [[Blood\|sangue]]; e molti gagliardi Romani<br>venivano sorridendo e vi bagnavano le mani.<br>Ed ella li interpreta come avvertimenti e presagi<br>di mali imminenti, e in ginocchio<br>mi ha supplicato di restare oggi a [[Home\|casa]]. |
+| DECIO | Questo sogno è tutto male interpretato.<br>Fu una visione bella e fortunata.<br>La vostra statua che zampilla [[Blood\|sangue]] da molte cannelle,<br>nel quale tanti Romani sorridenti si bagnavano,<br>significa che da voi la grande Roma succhierà<br>[[Blood\|sangue]] rinnovatore, e che grandi uomini faranno ressa<br>per averne tinture, macchie, reliquie e insegne.<br>Questo è significato dal sogno di [[Calpurnia]]. |
+| CESARE | E in questo modo l'avete [[Well\|bene]] spiegato. |
+| DECIO | L'ho fatto, quando avrete udito ciò che posso dire.<br>E sappiatelo ora: il Senato ha deciso<br>di dare oggi una [[Crown\|corona]] al potente Cesare.<br>Se manderete loro parola che non verrete,<br>le loro menti potrebbero mutare. Inoltre, sarebbe una beffa<br>facile a rendersi, che qualcuno dicesse:<br>'Si sciolga il Senato fino a un altro [[Time\|momento]],<br>quando la moglie di Cesare farà [[Dreams\|sogni]] migliori.'<br>Se Cesare si nasconde, non bisbiglieranno forse:<br>'Ecco, Cesare ha paura'?<br>Perdonatemi, Cesare; ché il mio caro carissimo [[Love\|affetto]]<br>per la vostra grandezza mi impone di dirvi questo,<br>e la ragione è soggetta al mio [[Love\|amore]]. |
 | CESARE | Quanto sciocchi appaiono ora i vostri timori, Calpurnia!<br>Mi vergogno d'aver ceduto ad essi.<br>Datemi la mia toga, ché voglio andare. |
-| *(didascalia)* | Entrano [[Cassius|Cassio]], [[Brutus|Bruto]], Ligario, Metello, [[Casca]], Trebonio e Cinna |
-| CESARE | Ed ecco che [[Cassius|Cassio]] è venuto a prendermi. |
-| *(didascalia)* | [[Cassius|CASSIO]] |
+| *(didascalia)* | Entrano [[Cassius\|Cassio]], [[Brutus\|Bruto]], Ligario, Metello, [[Casca]], Trebonio e Cinna |
+| CESARE | Ed ecco che [[Cassius\|Cassio]] è venuto a prendermi. |
+| *(didascalia)* | [[Cassius\|CASSIO]] |
 | CESARE | Buon giorno, Cesare. |
-| CESARE | Benvenuto, [[Cassius|Cassio]].—<br>Come, [[Brutus|Bruto]], siete in piedi anche voi così presto?—<br>Buon giorno, [[Casca]].—Caio Ligario,<br>Cesare non vi fu mai tanto nemico<br>quanto quella febbre che vi ha fatto magro.<br>Che [[Clock|ora]] è? |
-| [[Brutus|BRUTO]] | Cesare, sono suonate le otto. |
+| CESARE | Benvenuto, [[Cassius\|Cassio]].—<br>Come, [[Brutus\|Bruto]], siete in piedi anche voi così presto?—<br>Buon giorno, [[Casca]].—Caio Ligario,<br>Cesare non vi fu mai tanto nemico<br>quanto quella febbre che vi ha fatto magro.<br>Che [[Clock\|ora]] è? |
+| [[Brutus\|BRUTO]] | Cesare, sono suonate le otto. |
 | CESARE | Vi ringrazio della vostra fatica e cortesia. |
 | *(didascalia)* | Entra Antonio |
 | CESARE | Guardate: Antonio, che fa baldoria fino a tardi la notte,<br>è tuttavia in piedi. Buon giorno, Antonio. |
@@ -1806,7 +1806,7 @@ The [[Tragedy]] of [[Julius Caesar]]
 | *(didascalia)* | Cesare, lo farò, a parte e tanto vicino sarò |
 | TREBONIO | che i vostri migliori amici vorranno che fossi stato più lontano. |
 | CESARE | Buoni amici, entrate e assaggiate un po' di vino con me,<br>e poi, da amici, andremo subito insieme. |
-| [[Brutus|BRUTO]] | (a parte)<br>Che ogni simile non sia lo stesso, o Cesare,<br>il cuore di [[Brutus|Bruto]] si duole a pensarlo. Escono |
+| [[Brutus\|BRUTO]] | (a parte)<br>Che ogni simile non sia lo stesso, o Cesare,<br>il cuore di [[Brutus\|Bruto]] si duole a pensarlo. Escono |
 
 
 
@@ -1824,7 +1824,7 @@ The [[Tragedy]] of [[Julius Caesar]]
 | Chi parla | Battuta |
 |---|---|
 | *(didascalia)* | Entra Artemidoro, leggendo una lettera |
-| ARTEMIDORO | 'Cesare, guardati da [[Brutus|Bruto]]. Sta' in guardia da [[Cassius|Cassio]]. Non accostarti a [[Casca]]. Tieni d'occhio Cinna. Non fidarti di Trebonio. Osserva [[Well|bene]] Metello Cimbro. Decio [[Brutus|Bruto]] non ti ama. Hai fatto torto a Caio Ligario. In tutti questi uomini non c'è che un solo animo, ed è rivolto contro Cesare. Se non sei immortale, guardati intorno. La sicurezza apre la via alla congiura. Ti difendano gli dèi possenti!<br>Il tuo [[Lover|devoto]],<br>Artemidoro.'<br>Qui starò finché Cesare non passi,<br>e come postulante gli porgerò questo.<br>Il mio cuore si duole che la virtù non possa vivere<br>fuori dalle zanne dell'invidia.<br>Se leggerai questo, o Cesare, potrai vivere.<br>Se no, i fati congiurano coi traditori. Esce |
+| ARTEMIDORO | 'Cesare, guardati da [[Brutus\|Bruto]]. Sta' in guardia da [[Cassius\|Cassio]]. Non accostarti a [[Casca]]. Tieni d'occhio Cinna. Non fidarti di Trebonio. Osserva [[Well\|bene]] Metello Cimbro. Decio [[Brutus\|Bruto]] non ti ama. Hai fatto torto a Caio Ligario. In tutti questi uomini non c'è che un solo animo, ed è rivolto contro Cesare. Se non sei immortale, guardati intorno. La sicurezza apre la via alla congiura. Ti difendano gli dèi possenti!<br>Il tuo [[Lover\|devoto]],<br>Artemidoro.'<br>Qui starò finché Cesare non passi,<br>e come postulante gli porgerò questo.<br>Il mio cuore si duole che la virtù non possa vivere<br>fuori dalle zanne dell'invidia.<br>Se leggerai questo, o Cesare, potrai vivere.<br>Se no, i fati congiurano coi traditori. Esce |
 
 
 
@@ -1863,29 +1863,29 @@ The [[Tragedy]] of [[Julius Caesar]]
 
 | Chi parla | Battuta |
 |---|---|
-| *(didascalia)* | Entrano [[Portia|Porzia]] e [[Lucius|Lucio]] |
-| [[Portia|PORZIA]] | Ti prego, ragazzo, corri alla [[house|Curia]] del Senato.<br>Non fermarti a rispondermi, ma va' via.—<br>Perché indugi? |
-| [[Lucius|LUCIO]] | Per sapere il mio incarico, signora. |
-| [[Portia|PORZIA]] | Vorrei che tu fossi già là e di nuovo qui,<br>prima ch'io possa dirti che cosa devi farvi.<br>(A parte) O costanza, siimi forte accanto;<br>poni un monte immenso tra il mio cuore e la lingua.<br>Ho la mente d'un uomo, ma la forza d'una donna.<br>Com'è duro per le donne serbare un segreto!<br>(A [[Lucius|Lucio]]) Sei ancora qui? |
-| [[Lucius|LUCIO]] | Signora, che devo fare?<br>Correre al Campidoglio, e nient'altro?<br>E poi tornare da voi, e nient'altro? |
-| [[Portia|PORZIA]] | Sì, portami parola, ragazzo, se il tuo signore sta [[Well|bene]],<br>ché uscì sofferente; e prendi buona nota<br>di ciò che fa Cesare, di quali postulanti gli fanno ressa.<br>Ascolta, ragazzo: che rumore è quello? |
-| [[Lucius|LUCIO]] | Non ne odo alcuno, signora. |
-| [[Portia|PORZIA]] | Ti prego, ascolta [[Well|bene]].<br>Ho udito un brusio agitato, come d'una rissa,<br>e il [[Wind|vento]] lo porta dal Campidoglio. |
-| [[Lucius|LUCIO]] | In verità, signora, non odo nulla. |
+| *(didascalia)* | Entrano [[Portia\|Porzia]] e [[Lucius\|Lucio]] |
+| [[Portia\|PORZIA]] | Ti prego, ragazzo, corri alla [[house\|Curia]] del Senato.<br>Non fermarti a rispondermi, ma va' via.—<br>Perché indugi? |
+| [[Lucius\|LUCIO]] | Per sapere il mio incarico, signora. |
+| [[Portia\|PORZIA]] | Vorrei che tu fossi già là e di nuovo qui,<br>prima ch'io possa dirti che cosa devi farvi.<br>(A parte) O costanza, siimi forte accanto;<br>poni un monte immenso tra il mio cuore e la lingua.<br>Ho la mente d'un uomo, ma la forza d'una donna.<br>Com'è duro per le donne serbare un segreto!<br>(A [[Lucius\|Lucio]]) Sei ancora qui? |
+| [[Lucius\|LUCIO]] | Signora, che devo fare?<br>Correre al Campidoglio, e nient'altro?<br>E poi tornare da voi, e nient'altro? |
+| [[Portia\|PORZIA]] | Sì, portami parola, ragazzo, se il tuo signore sta [[Well\|bene]],<br>ché uscì sofferente; e prendi buona nota<br>di ciò che fa Cesare, di quali postulanti gli fanno ressa.<br>Ascolta, ragazzo: che rumore è quello? |
+| [[Lucius\|LUCIO]] | Non ne odo alcuno, signora. |
+| [[Portia\|PORZIA]] | Ti prego, ascolta [[Well\|bene]].<br>Ho udito un brusio agitato, come d'una rissa,<br>e il [[Wind\|vento]] lo porta dal Campidoglio. |
+| [[Lucius\|LUCIO]] | In verità, signora, non odo nulla. |
 | *(didascalia)* | Entra l'Indovino |
-| [[Portia|PORZIA]] | Vieni qua, brav'uomo. Da che parte sei stato? |
-| INDOVINO | A [[house|casa]] mia, buona signora. |
-| [[Portia|PORZIA]] | Che [[Clock|ora]] è? |
+| [[Portia\|PORZIA]] | Vieni qua, brav'uomo. Da che parte sei stato? |
+| INDOVINO | A [[house\|casa]] mia, buona signora. |
+| [[Portia\|PORZIA]] | Che [[Clock\|ora]] è? |
 | INDOVINO | Circa la nona ora, signora. |
-| [[Portia|PORZIA]] | Cesare è già andato al Campidoglio? |
+| [[Portia\|PORZIA]] | Cesare è già andato al Campidoglio? |
 | INDOVINO | Signora, non ancora. Io vado a prendere posto<br>per vederlo passare verso il Campidoglio. |
-| [[Portia|PORZIA]] | Hai qualche supplica da rivolgere a Cesare, non è vero? |
+| [[Portia\|PORZIA]] | Hai qualche supplica da rivolgere a Cesare, non è vero? |
 | INDOVINO | Sì, signora. Se piacerà a Cesare<br>d'esser tanto buono verso Cesare da ascoltarmi,<br>lo supplicherò d'essere amico di se stesso. |
-| [[Portia|PORZIA]] | Come, sai tu di qualche male ordito contro di lui? |
-| INDOVINO | Nessuno che io sappia certo; molto che [[Fear|temo]] possa accadere.<br>Buon giorno a voi. |
+| [[Portia\|PORZIA]] | Come, sai tu di qualche male ordito contro di lui? |
+| INDOVINO | Nessuno che io sappia certo; molto che [[Fear\|temo]] possa accadere.<br>Buon giorno a voi. |
 | *(didascalia)* | Si sposta Qui la strada è stretta. |
-| INDOVINO | La calca che segue Cesare alle calcagna,<br>di senatori, di pretori, di comuni postulanti,<br>schiaccerebbe un uomo debole quasi a [[Death|morte]].<br>Mi porterò in un luogo più sgombro, e là<br>parlerò al grande Cesare mentre passa. Esce |
-| [[Portia|PORZIA]] | (a parte)<br>Devo rientrare. Ahimè! Che debole cosa<br>è il cuore d'una donna! O [[Brutus|Bruto]],<br>i cieli ti [[Speed|assistano]] nella tua impresa!—<br>Certo il ragazzo mi ha udita. (A [[Lucius|Lucio]]) [[Brutus|Bruto]] ha una supplica<br>che Cesare non concederà. (A parte) Oh, mi sento venir meno!<br>(A [[Lucius|Lucio]]) Corri, [[Lucius|Lucio]], e raccomandami al mio signore.<br>Digli che sono lieta. Torna poi da me,<br>e portami parola di ciò che egli ti dirà. |
+| INDOVINO | La calca che segue Cesare alle calcagna,<br>di senatori, di pretori, di comuni postulanti,<br>schiaccerebbe un uomo debole quasi a [[Death\|morte]].<br>Mi porterò in un luogo più sgombro, e là<br>parlerò al grande Cesare mentre passa. Esce |
+| [[Portia\|PORZIA]] | (a parte)<br>Devo rientrare. Ahimè! Che debole cosa<br>è il cuore d'una donna! O [[Brutus\|Bruto]],<br>i cieli ti [[Speed\|assistano]] nella tua impresa!—<br>Certo il ragazzo mi ha udita. (A [[Lucius\|Lucio]]) [[Brutus\|Bruto]] ha una supplica<br>che Cesare non concederà. (A parte) Oh, mi sento venir meno!<br>(A [[Lucius\|Lucio]]) Corri, [[Lucius\|Lucio]], e raccomandami al mio signore.<br>Digli che sono lieta. Torna poi da me,<br>e portami parola di ciò che egli ti dirà. |
 | *(didascalia)* | Escono da parti diverse |
 
 
@@ -2008,111 +2008,111 @@ The [[Tragedy]] of [[Julius Caesar]]
 | Chi parla | Battuta |
 |---|---|
 | *(didascalia)* | Entrano da una porta Artemidoro, l'Indovino, |
-| *(didascalia)* | e cittadini. Squillo di trombe. Entrano da un'altra porta Cesare, [[Brutus|Bruto]], [[Cassius|Cassio]], [[Casca]], Decio, Metello, Trebonio, Cinna, Ligario, Antonio, [[Lepidus|Lepido]], Publio, Popilio e altri senatori |
+| *(didascalia)* | e cittadini. Squillo di trombe. Entrano da un'altra porta Cesare, [[Brutus\|Bruto]], [[Cassius\|Cassio]], [[Casca]], Decio, Metello, Trebonio, Cinna, Ligario, Antonio, [[Lepidus\|Lepido]], Publio, Popilio e altri senatori |
 | CESARE | (all'Indovino) Le idi di marzo sono venute. |
 | INDOVINO | Sì, Cesare, ma non sono passate. |
 | ARTEMIDORO | Salve, Cesare! Leggi questo foglio. |
-| DECIO | (a Cesare)<br>Trebonio [[Desire|desidera]] che rileggiate<br>a vostro comodo questa sua umile supplica. |
+| DECIO | (a Cesare)<br>Trebonio [[Desire\|desidera]] che rileggiate<br>a vostro comodo questa sua umile supplica. |
 | ARTEMIDORO | O Cesare, leggi prima la mia, ché la mia è una supplica<br>che tocca Cesare più da vicino. Leggila, grande Cesare. |
 | CESARE | Ciò che tocca noi stessi sarà servito per ultimo. |
 | ARTEMIDORO | Non indugiare, Cesare, leggila all'istante. |
 | CESARE | Come, è pazzo costui? |
 | PUBLIO | (ad Artemidoro)<br>Ehi tu, fatti da parte. |
-| [[Cassius|CASSIO]] | (ad Artemidoro)<br>Come, insistete con le vostre petizioni per la strada?<br>Venite al Campidoglio. |
+| [[Cassius\|CASSIO]] | (ad Artemidoro)<br>Come, insistete con le vostre petizioni per la strada?<br>Venite al Campidoglio. |
 | *(didascalia)* | Camminano per la scena |
-| POPILIO | (a parte a [[Cassius|Cassio]])<br>Auguro che la vostra impresa oggi prosperi. |
-| [[Cassius|CASSIO]] | Quale impresa, Popilio? |
-| POPILIO | State [[Well|bene]].<br>[[Leaves|Lascia]] [[Cassius|Cassio]], e si dirige verso Cesare |
-| [[Brutus|BRUTO]] | Che ha detto Popilio Lena? |
-| [[Cassius|CASSIO]] | Ha augurato che oggi la nostra impresa prosperi.<br>[[Fear|Temo]] che il nostro disegno sia scoperto. |
-| [[Brutus|BRUTO]] | Guarda come si dirige verso Cesare. Osservalo. |
-| [[Cassius|CASSIO]] | [[Casca]], sii rapido, ché [[Fear|temiamo]] d'esser prevenuti.—<br>[[Brutus|Bruto]], che si farà? Se questo si risapesse,<br>[[Cassius|Cassio]] o Cesare non tornerà mai indietro,<br>ché io mi ucciderò. |
-| [[Brutus|BRUTO]] | [[Cassius|Cassio]], sii saldo.<br>Popilio Lena non parla dei nostri disegni,<br>ché guarda, sorride, e Cesare non muta volto. |
-| [[Cassius|CASSIO]] | Trebonio sa il suo [[Time|momento]], ché guardate, [[Brutus|Bruto]],<br>trae [[Mark Antony|Marco Antonio]] fuori dai piedi. |
+| POPILIO | (a parte a [[Cassius\|Cassio]])<br>Auguro che la vostra impresa oggi prosperi. |
+| [[Cassius\|CASSIO]] | Quale impresa, Popilio? |
+| POPILIO | State [[Well\|bene]].<br>[[Leaves\|Lascia]] [[Cassius\|Cassio]], e si dirige verso Cesare |
+| [[Brutus\|BRUTO]] | Che ha detto Popilio Lena? |
+| [[Cassius\|CASSIO]] | Ha augurato che oggi la nostra impresa prosperi.<br>[[Fear\|Temo]] che il nostro disegno sia scoperto. |
+| [[Brutus\|BRUTO]] | Guarda come si dirige verso Cesare. Osservalo. |
+| [[Cassius\|CASSIO]] | [[Casca]], sii rapido, ché [[Fear\|temiamo]] d'esser prevenuti.—<br>[[Brutus\|Bruto]], che si farà? Se questo si risapesse,<br>[[Cassius\|Cassio]] o Cesare non tornerà mai indietro,<br>ché io mi ucciderò. |
+| [[Brutus\|BRUTO]] | [[Cassius\|Cassio]], sii saldo.<br>Popilio Lena non parla dei nostri disegni,<br>ché guarda, sorride, e Cesare non muta volto. |
+| [[Cassius\|CASSIO]] | Trebonio sa il suo [[Time\|momento]], ché guardate, [[Brutus\|Bruto]],<br>trae [[Mark Antony\|Marco Antonio]] fuori dai piedi. |
 | *(didascalia)* | Escono Trebonio e Antonio |
 | DECIO | Dov'è Metello Cimbro? Vada<br>e presenti subito la sua supplica a Cesare. |
 | *(didascalia)* | Cesare siede |
-| [[Brutus|BRUTO]] | È pronto. Fatevi presso, e secondatelo. |
+| [[Brutus\|BRUTO]] | È pronto. Fatevi presso, e secondatelo. |
 | CINNA | [[Casca]], voi siete il primo ad alzare la mano. |
 | *(didascalia)* | I congiurati e gli altri senatori prendono i loro posti |
 | CESARE | Siamo tutti pronti? Che cosa v'è ora di storto<br>che Cesare e il suo Senato debbano raddrizzare? |
 | METELLO | (facendosi avanti e inginocchiandosi)<br>Altissimo, potentissimo e possentissimo Cesare,<br>Metello Cimbro getta dinanzi al tuo seggio<br>un cuore umile. |
-| CESARE | Devo prevenirti, Cimbro.<br>Questi prostramenti e queste basse riverenze<br>potrebbero [[Fire|infiammare]] il [[Blood|sangue]] degli uomini comuni,<br>e mutare il preordinato e il primo decreto<br>nella legge dei fanciulli. Non essere così sciocco<br>da credere che Cesare abbia un [[Blood|sangue]] tanto [[Rebel|ribelle]]<br>da lasciarsi sciogliere dalla sua vera natura<br>con ciò che intenerisce gli sciocchi: intendo dolci parole,<br>inchini piegati a terra e vile scodinzolare da bracchetto.<br>Tuo fratello è bandito per decreto.<br>Se ti pieghi e preghi e strisci per lui,<br>ti scaccio a calci come un botolo dal mio cammino.<br>Sappi che Cesare non fa torto se non con giusta causa,<br>né senza causa si dichiarerà soddisfatto. |
+| CESARE | Devo prevenirti, Cimbro.<br>Questi prostramenti e queste basse riverenze<br>potrebbero [[Fire\|infiammare]] il [[Blood\|sangue]] degli uomini comuni,<br>e mutare il preordinato e il primo decreto<br>nella legge dei fanciulli. Non essere così sciocco<br>da credere che Cesare abbia un [[Blood\|sangue]] tanto [[Rebel\|ribelle]]<br>da lasciarsi sciogliere dalla sua vera natura<br>con ciò che intenerisce gli sciocchi: intendo dolci parole,<br>inchini piegati a terra e vile scodinzolare da bracchetto.<br>Tuo fratello è bandito per decreto.<br>Se ti pieghi e preghi e strisci per lui,<br>ti scaccio a calci come un botolo dal mio cammino.<br>Sappi che Cesare non fa torto se non con giusta causa,<br>né senza causa si dichiarerà soddisfatto. |
 | METELLO | Non v'è voce più degna della mia<br>che suoni più dolce all'orecchio del grande Cesare<br>per il richiamo del mio fratello bandito? |
-| [[Brutus|BRUTO]] | (facendosi avanti e inginocchiandosi)<br>Ti bacio la mano, ma non per adulazione, Cesare,<br>chiedendoti che Publio Cimbro possa<br>avere immediata [[Freedom|libertà]] di richiamo. |
-| CESARE | Come, [[Brutus|Bruto]]? |
-| [[Cassius|CASSIO]] | (facendosi avanti e inginocchiandosi)<br>Perdono, Cesare; Cesare, perdono.<br>Fino ai tuoi piedi si prostra [[Cassius|Cassio]]<br>per implorare la grazia per Publio Cimbro. |
-| CESARE | Potrei [[Well|ben]] esser mosso, se fossi come voi.<br>Se sapessi pregare per commuovere, le preghiere commuoverebbero me.<br>Ma io sono costante come la Stella Polare,<br>alla cui vera qualità, ferma e immota,<br>non v'è compagna nel firmamento.<br>I cieli sono dipinti d'innumerevoli scintille;<br>sono tutte [[Fire|fuoco]], e ognuna risplende;<br>ma una sola fra tutte tiene il suo posto.<br>Così nel mondo: è [[Well|ben]] fornito d'uomini,<br>e gli uomini sono carne e [[Blood|sangue]], e sensibili;<br>eppure fra il numero io ne conosco uno solo<br>che inespugnabile mantiene il suo grado,<br>non scosso da moto; e che io sia quello,<br>lasciate ch'io un poco lo mostri anche in questo—<br>che fui costante nel volere Cimbro bandito,<br>e costante rimango nel mantenerlo tale. |
+| [[Brutus\|BRUTO]] | (facendosi avanti e inginocchiandosi)<br>Ti bacio la mano, ma non per adulazione, Cesare,<br>chiedendoti che Publio Cimbro possa<br>avere immediata [[Freedom\|libertà]] di richiamo. |
+| CESARE | Come, [[Brutus\|Bruto]]? |
+| [[Cassius\|CASSIO]] | (facendosi avanti e inginocchiandosi)<br>Perdono, Cesare; Cesare, perdono.<br>Fino ai tuoi piedi si prostra [[Cassius\|Cassio]]<br>per implorare la grazia per Publio Cimbro. |
+| CESARE | Potrei [[Well\|ben]] esser mosso, se fossi come voi.<br>Se sapessi pregare per commuovere, le preghiere commuoverebbero me.<br>Ma io sono costante come la Stella Polare,<br>alla cui vera qualità, ferma e immota,<br>non v'è compagna nel firmamento.<br>I cieli sono dipinti d'innumerevoli scintille;<br>sono tutte [[Fire\|fuoco]], e ognuna risplende;<br>ma una sola fra tutte tiene il suo posto.<br>Così nel mondo: è [[Well\|ben]] fornito d'uomini,<br>e gli uomini sono carne e [[Blood\|sangue]], e sensibili;<br>eppure fra il numero io ne conosco uno solo<br>che inespugnabile mantiene il suo grado,<br>non scosso da moto; e che io sia quello,<br>lasciate ch'io un poco lo mostri anche in questo—<br>che fui costante nel volere Cimbro bandito,<br>e costante rimango nel mantenerlo tale. |
 | CINNA | (facendosi avanti e inginocchiandosi) O Cesare! |
 | CESARE | Via! Vuoi tu sollevare l'Olimpo? |
 | *(didascalia)* | DECIO (facendosi avanti con Ligario e inginocchiandosi) Grande Cesare! |
-| CESARE | Non s'inginocchia invano [[Brutus|Bruto]]? |
-| *(didascalia)* | [[Casca|CASCA]] (facendosi avanti e inginocchiandosi) |
+| CESARE | Non s'inginocchia invano [[Brutus\|Bruto]]? |
+| *(didascalia)* | [[Casca\|CASCA]] (facendosi avanti e inginocchiandosi) |
 | CESARE | Parlate, mani, per me. |
-| *(didascalia)* | Pugnalano Cesare, [[Casca]] per primo, [[Brutus|Bruto]] per ultimo |
+| *(didascalia)* | Pugnalano Cesare, [[Casca]] per primo, [[Brutus\|Bruto]] per ultimo |
 | CESARE | Et tu, Brute?—Allora cadi, Cesare. Muore |
-| CINNA | Libertà! [[Freedom|Franchigia]]! La tirannide è morta!<br>Correte, proclamatelo, gridatelo per le strade. |
-| [[Cassius|CASSIO]] | Alcuni ai pulpiti pubblici, e gridate<br>'Libertà, [[Freedom|franchigia]] e affrancamento!' |
-| [[Brutus|BRUTO]] | Popolo e senatori, non vi spaventate. |
-| *(didascalia)* | Escono in tumulto [[Lepidus|Lepido]], Popilio, gli altri senatori, Artemidoro, l'Indovino e un cittadino |
-| [[Brutus|BRUTO]] | Non fuggite! Fermatevi! Il debito dell'[[Ambition|ambizione]] è pagato. |
-| [[Casca|CASCA]] | Va' al pulpito, [[Brutus|Bruto]]. |
-| DECIO | E anche [[Cassius|Cassio]]. |
-| [[Brutus|BRUTO]] | Dov'è Publio? |
+| CINNA | Libertà! [[Freedom\|Franchigia]]! La tirannide è morta!<br>Correte, proclamatelo, gridatelo per le strade. |
+| [[Cassius\|CASSIO]] | Alcuni ai pulpiti pubblici, e gridate<br>'Libertà, [[Freedom\|franchigia]] e affrancamento!' |
+| [[Brutus\|BRUTO]] | Popolo e senatori, non vi spaventate. |
+| *(didascalia)* | Escono in tumulto [[Lepidus\|Lepido]], Popilio, gli altri senatori, Artemidoro, l'Indovino e un cittadino |
+| [[Brutus\|BRUTO]] | Non fuggite! Fermatevi! Il debito dell'[[Ambition\|ambizione]] è pagato. |
+| [[Casca\|CASCA]] | Va' al pulpito, [[Brutus\|Bruto]]. |
+| DECIO | E anche [[Cassius\|Cassio]]. |
+| [[Brutus\|BRUTO]] | Dov'è Publio? |
 | CINNA | Qui, tutto sconvolto da questo tumulto. |
 | METELLO | Restiamo stretti insieme, ché qualche amico di Cesare<br>non abbia a—- |
-| [[Brutus|BRUTO]] | Non parlate di restare.—Publio, fatevi animo!<br>Nessun male è inteso alla vostra persona,<br>né ad alcun altro Romano—dite loro così, Publio. |
-| [[Cassius|CASSIO]] | E lasciateci, Publio, ché il popolo,<br>precipitandosi su di noi, non faccia danno alla vostra età. |
-| [[Brutus|BRUTO]] | Fate così; e nessuno risponda di quest'atto<br>se non noi che l'abbiamo compiuto. |
+| [[Brutus\|BRUTO]] | Non parlate di restare.—Publio, fatevi animo!<br>Nessun male è inteso alla vostra persona,<br>né ad alcun altro Romano—dite loro così, Publio. |
+| [[Cassius\|CASSIO]] | E lasciateci, Publio, ché il popolo,<br>precipitandosi su di noi, non faccia danno alla vostra età. |
+| [[Brutus\|BRUTO]] | Fate così; e nessuno risponda di quest'atto<br>se non noi che l'abbiamo compiuto. |
 | *(didascalia)* | Esce Publio Entra Trebonio |
-| [[Cassius|CASSIO]] | Dov'è Antonio? |
-| TREBONIO | Fuggito alla sua [[house|casa]], sbigottito.<br>Uomini, mogli e fanciulli guardano attoniti, gridano e corrono,<br>come fosse il giorno del giudizio. |
-| [[Brutus|BRUTO]] | Fati, conosceremo i vostri voleri.<br>Che dovremo morire, lo sappiamo; è solo il [[Time|tempo]]<br>e il tirare in lungo i giorni che agli uomini importa. |
-| [[Casca|CASCA]] | Ebbene, chi taglia via vent'anni di vita<br>taglia via altrettanti anni di paura della [[Death|morte]]. |
-| [[Brutus|BRUTO]] | Ammesso questo, la [[Death|morte]] è allora un beneficio.<br>Così noi siamo amici di Cesare, che gli abbiamo abbreviato<br>il [[Time|tempo]] di temere la [[Death|morte]]. Chinatevi, Romani, chinatevi,<br>e bagniamoci le mani nel [[Blood|sangue]] di Cesare<br>fino ai gomiti, e intingiamovi le spade;<br>poi usciamo fino al foro,<br>e, agitando sopra il capo le nostre armi rosse,<br>gridiamo tutti 'pace, [[Freedom|franchigia]] e libertà!' |
-| [[Cassius|CASSIO]] | Chinatevi, dunque, e lavatevi.<br>Si imbrattano le mani col [[Blood|sangue]] di Cesare Quante età di qui innanzi<br>sarà recitata di nuovo questa nostra alta scena,<br>in stati [[unborn|non ancora nati]] e in accenti ancora ignoti! |
-| [[Brutus|BRUTO]] | Quante volte sanguinerà Cesare per gioco,<br>lui che ora giace disteso ai piedi della statua di [[Pompey|Pompeo]],<br>non più degno della [[Dust|polvere]]! |
-| [[Cassius|CASSIO]] | Tante volte quante ciò avverrà,<br>altrettante il nostro gruppo sarà chiamato<br>gli uomini che diedero la libertà alla patria. |
+| [[Cassius\|CASSIO]] | Dov'è Antonio? |
+| TREBONIO | Fuggito alla sua [[house\|casa]], sbigottito.<br>Uomini, mogli e fanciulli guardano attoniti, gridano e corrono,<br>come fosse il giorno del giudizio. |
+| [[Brutus\|BRUTO]] | Fati, conosceremo i vostri voleri.<br>Che dovremo morire, lo sappiamo; è solo il [[Time\|tempo]]<br>e il tirare in lungo i giorni che agli uomini importa. |
+| [[Casca\|CASCA]] | Ebbene, chi taglia via vent'anni di vita<br>taglia via altrettanti anni di paura della [[Death\|morte]]. |
+| [[Brutus\|BRUTO]] | Ammesso questo, la [[Death\|morte]] è allora un beneficio.<br>Così noi siamo amici di Cesare, che gli abbiamo abbreviato<br>il [[Time\|tempo]] di temere la [[Death\|morte]]. Chinatevi, Romani, chinatevi,<br>e bagniamoci le mani nel [[Blood\|sangue]] di Cesare<br>fino ai gomiti, e intingiamovi le spade;<br>poi usciamo fino al foro,<br>e, agitando sopra il capo le nostre armi rosse,<br>gridiamo tutti 'pace, [[Freedom\|franchigia]] e libertà!' |
+| [[Cassius\|CASSIO]] | Chinatevi, dunque, e lavatevi.<br>Si imbrattano le mani col [[Blood\|sangue]] di Cesare Quante età di qui innanzi<br>sarà recitata di nuovo questa nostra alta scena,<br>in stati [[unborn\|non ancora nati]] e in accenti ancora ignoti! |
+| [[Brutus\|BRUTO]] | Quante volte sanguinerà Cesare per gioco,<br>lui che ora giace disteso ai piedi della statua di [[Pompey\|Pompeo]],<br>non più degno della [[Dust\|polvere]]! |
+| [[Cassius\|CASSIO]] | Tante volte quante ciò avverrà,<br>altrettante il nostro gruppo sarà chiamato<br>gli uomini che diedero la libertà alla patria. |
 | DECIO | Ebbene, usciamo? |
-| [[Cassius|CASSIO]] | Sì, ognuno via.<br>[[Brutus|Bruto]] guiderà, e noi gli faremo onore alle calcagna<br><br>coi più arditi e migliori cuori di Roma. |
+| [[Cassius\|CASSIO]] | Sì, ognuno via.<br>[[Brutus\|Bruto]] guiderà, e noi gli faremo onore alle calcagna<br><br>coi più arditi e migliori cuori di Roma. |
 | *(didascalia)* | Entra il Servo di Antonio |
-| [[Brutus|BRUTO]] | Piano; chi viene qui? Un amico di Antonio. |
-| SERVO | (inginocchiandosi e prostrandosi)<br>Così, [[Brutus|Bruto]], il mio padrone mi ordinò d'inginocchiarmi.<br>Così [[Mark Antony|Marco Antonio]] mi ordinò di prostrarmi,<br>e, prostrato, così mi ordinò di dire.<br>'[[Brutus|Bruto]] è nobile, saggio, valoroso e onesto.<br>Cesare era potente, ardito, regale e amorevole.<br>Di' che io [[Love|amo]] [[Brutus|Bruto]], e che lo [[Honour|onoro]].<br>Di' che temevo Cesare, lo onoravo e lo amavo.<br>Se [[Brutus|Bruto]] vorrà concedere che Antonio<br>possa venire sicuro da lui ed essere chiarito<br>di come Cesare abbia meritato di giacere nella [[Death|morte]],<br>[[Mark Antony|Marco Antonio]] non [[Love|amerà]] Cesare morto<br>così [[Well|bene]] come [[Brutus|Bruto]] vivo, ma seguirà<br>le fortune e le sorti del nobile [[Brutus|Bruto]]<br>attraverso i rischi di questo stato non battuto<br>con tutta vera [[Faith|fede]].' Così dice il mio padrone Antonio. |
-| [[Brutus|BRUTO]] | Il tuo padrone è un Romano saggio e valoroso.<br>Non l'ho mai stimato da meno.<br>Digli che, se gli piace venire in questo luogo,<br>sarà soddisfatto, e, sul mio [[Honour|onore]],<br>se ne andrà intatto. |
+| [[Brutus\|BRUTO]] | Piano; chi viene qui? Un amico di Antonio. |
+| SERVO | (inginocchiandosi e prostrandosi)<br>Così, [[Brutus\|Bruto]], il mio padrone mi ordinò d'inginocchiarmi.<br>Così [[Mark Antony\|Marco Antonio]] mi ordinò di prostrarmi,<br>e, prostrato, così mi ordinò di dire.<br>'[[Brutus\|Bruto]] è nobile, saggio, valoroso e onesto.<br>Cesare era potente, ardito, regale e amorevole.<br>Di' che io [[Love\|amo]] [[Brutus\|Bruto]], e che lo [[Honour\|onoro]].<br>Di' che temevo Cesare, lo onoravo e lo amavo.<br>Se [[Brutus\|Bruto]] vorrà concedere che Antonio<br>possa venire sicuro da lui ed essere chiarito<br>di come Cesare abbia meritato di giacere nella [[Death\|morte]],<br>[[Mark Antony\|Marco Antonio]] non [[Love\|amerà]] Cesare morto<br>così [[Well\|bene]] come [[Brutus\|Bruto]] vivo, ma seguirà<br>le fortune e le sorti del nobile [[Brutus\|Bruto]]<br>attraverso i rischi di questo stato non battuto<br>con tutta vera [[Faith\|fede]].' Così dice il mio padrone Antonio. |
+| [[Brutus\|BRUTO]] | Il tuo padrone è un Romano saggio e valoroso.<br>Non l'ho mai stimato da meno.<br>Digli che, se gli piace venire in questo luogo,<br>sarà soddisfatto, e, sul mio [[Honour\|onore]],<br>se ne andrà intatto. |
 | *(didascalia)* | IL SERVO alzandosi Lo condurrò subito. Esce |
-| [[Brutus|BRUTO]] | So che l'avremo [[Well|ben]] amico. |
-| [[Cassius|CASSIO]] | Lo spero. Eppure ho un animo<br>che molto lo teme; e i miei presentimenti sempre<br>colpiscono acutamente nel segno. |
+| [[Brutus\|BRUTO]] | So che l'avremo [[Well\|ben]] amico. |
+| [[Cassius\|CASSIO]] | Lo spero. Eppure ho un animo<br>che molto lo teme; e i miei presentimenti sempre<br>colpiscono acutamente nel segno. |
 | *(didascalia)* | Entra Antonio |
-| BRUTO | Ma ecco venire Antonio.—Benvenuto, [[Mark Antony|Marco Antonio]]. |
-| ANTONIO | O potente Cesare! Giaci tu così in basso?<br>Sono tutte le tue conquiste, glorie, trionfi, spoglie,<br>ridotte a questa piccola misura? Sta' [[Well|bene]].—<br>Non so, signori, che cosa intendiate—<br>a chi altri si debba cavar [[Blood|sangue]], chi altri sia in soprappiù.<br>Se io stesso, non v'è ora così adatta<br>come l'ora della [[Death|morte]] di Cesare, né strumento<br>di metà quel pregio come queste vostre spade, fatte ricche<br>del più nobile [[Blood|sangue]] di tutto questo mondo.<br>Vi supplico, se avete rancore contro di me,<br>ora, mentre le vostre mani imporporate fumano e vaporano,<br>compite il vostro piacere. Vivessi mille anni,<br>non mi troverò mai così disposto a morire.<br>Nessun luogo mi piacerà tanto, nessun modo di [[Death|morte]],<br>come qui presso Cesare, e reciso da voi,<br>gli spiriti eletti e sovrani di questa età. |
-| [[Brutus|BRUTO]] | O Antonio, non chiederci la tua [[Death|morte]]!<br>Benché ora dobbiamo apparire sanguinari e crudeli,<br>come dalle nostre mani e da questo nostro atto presente<br>vedete che siamo, pure voi non vedete che le nostre mani,<br>e questa l'opera sanguinosa che hanno compiuto.<br>I nostri cuori non li vedete; sono pietosi;<br>e la pietà per il torto generale di Roma—<br>come il [[Fire|fuoco]] scaccia il [[Fire|fuoco]], così pietà pietà–<br>ha compiuto quest'atto su Cesare. Quanto a voi,<br>per voi le nostre spade hanno punte di piombo, [[Mark Antony|Marco Antonio]].<br>Le nostre braccia, disarmate d'ogni malizia, e i nostri cuori<br>di tempra fraterna, vi accolgono<br><br>con ogni gentile [[Love|affetto]], buoni pensieri e riverenza. |
-| [[Cassius|CASSIO]] | La vostra voce sarà forte quanto quella di chiunque<br>nella distribuzione delle nuove dignità. |
-| [[Brutus|BRUTO]] | Solo siate paziente finché non avremo placato<br>la moltitudine, fuori di sé per la [[Fear|paura]],<br>e allora vi esporremo la ragione<br>per cui io, che [[Love|amavo]] Cesare quando lo colpii,<br>ho proceduto così. |
-| ANTONIO | Non [[Doubt|dubito]] della vostra saggezza.<br>Ognuno mi porga la sua mano insanguinata.<br>Stringe la mano ai congiurati<br><br>Primo, Marco [[Brutus|Bruto]], stringerò la vostra.—<br>Poi, Caio [[Cassius|Cassio]], prendo la vostra mano.—<br>Ora, Decio [[Brutus|Bruto]], la vostra;—ora la vostra, Metello;—<br>La vostra, Cinna;—e la vostra, mio valoroso [[Casca]];—<br>Ultimo, ma non ultimo nell'[[Love|affetto]], la vostra, buon Trebonio.<br>Signori tutti—ahimè, che dirò?<br>Il mio credito posa ora su terreno tanto sdrucciolevole<br>che in uno di due modi cattivi dovrete giudicarmi:<br>o un vile o un adulatore.<br>Che io ti [[Love|amassi]], Cesare, oh, è vero.<br>Se dunque il tuo spirito ci guarda ora,<br>non ti dorrà più caramente della tua [[Death|morte]]<br>vedere il tuo Antonio far pace,<br>stringendo le dita insanguinate dei tuoi nemici—<br>nobilissimo!—alla presenza del tuo cadavere?<br>Se avessi tanti occhi quante tu hai ferite,<br>piangenti così rapidi come esse versano il tuo [[Blood|sangue]],<br>mi si converrebbe meglio che concludere<br>patti d'[[Friendship|amicizia]] coi tuoi nemici.<br>Perdonami, Giulio. Qui fosti braccato, prode cervo;<br>qui cadesti, e qui stanno i tuoi cacciatori<br>segnati della tua preda e imporporati nel tuo lete.<br>O mondo, tu eri la foresta di questo cervo;<br>e questi davvero, o mondo, era il cuore di te.<br>Come un cervo abbattuto da molti principi<br>giaci tu qui! |
-| [[Cassius|CASSIO]] | [[Mark Antony|Marco Antonio]]. |
-| ANTONIO | Perdonatemi, Caio [[Cassius|Cassio]].<br>I nemici di Cesare diranno altrettanto;<br>dunque in un amico è fredda modestia. |
-| [[Cassius|CASSIO]] | Non vi biasimo perché lodate Cesare così;<br>ma quale patto intendete avere con noi?<br>Sarete segnato nel numero dei nostri amici,<br>o proseguiremo senza contare su di voi? |
-| ANTONIO | Perciò vi presi le mani, ma davvero fui<br>distolto dal punto guardando in basso Cesare.<br>Sono amico con tutti voi, e vi [[Love|amo]] tutti<br>su questa [[Hope|speranza]]: che mi darete le ragioni<br>del perché e in che cosa Cesare fosse pericoloso. |
-| [[Brutus|BRUTO]] | Altrimenti questo sarebbe uno spettacolo selvaggio.<br>Le nostre ragioni sono così piene di giusto riguardo,<br>che se voi, Antonio, foste il figlio di Cesare,<br>ne sareste soddisfatto. |
-| ANTONIO | È tutto ciò che chiedo;<br>e sono, inoltre, supplice perché io possa<br>portare il suo [[Body|corpo]] al foro,<br>e dal pulpito, come si conviene a un amico,<br>parlare nell'ordine del suo funerale. |
-| [[Brutus|BRUTO]] | Lo farete, [[Mark Antony|Marco Antonio]]. |
-| [[Cassius|CASSIO]] | [[Brutus|Bruto]], una parola con voi.<br>(A parte a [[Brutus|Bruto]]) Non sapete quel che fate. Non<br>consentite<br>che Antonio parli al suo funerale.<br>Sapete voi quanto il popolo può esser commosso<br>da ciò che egli dirà? |
-| [[Brutus|BRUTO]] | (a parte a [[Cassius|Cassio]]) Col vostro permesso,<br>salirò io stesso per primo sul pulpito,<br>e mostrerò la ragione della [[Death|morte]] del nostro Cesare.<br>Ciò che Antonio dirà, io dichiarerò<br>ch'egli lo dice per licenza e permesso;<br>e che siamo contenti che Cesare abbia<br>tutti i veri riti e le legittime cerimonie,<br>ci gioverà più che farci torto. |
-| [[Cassius|CASSIO]] | (a parte a [[Brutus|Bruto]])<br>Non so che possa accadere. Non mi piace. |
-| [[Brutus|BRUTO]] | [[Mark Antony|Marco Antonio]], ecco, prendete il [[Body|corpo]] di Cesare.<br>Non ci biasimerete nel vostro discorso funebre;<br>ma direte tutto il bene che saprete immaginare di Cesare,<br>e direte che lo fate col nostro permesso;<br>altrimenti non avrete parte alcuna<br>nel suo funerale. E parlerete<br>dallo stesso pulpito a cui io mi reco,<br>dopo che il mio discorso sarà finito. |
-| ANTONIO | Sia così;<br>non [[Desire|desidero]] altro. |
-| [[Brutus|BRUTO]] | Preparate dunque il [[Body|corpo]], e seguiteci. |
+| BRUTO | Ma ecco venire Antonio.—Benvenuto, [[Mark Antony\|Marco Antonio]]. |
+| ANTONIO | O potente Cesare! Giaci tu così in basso?<br>Sono tutte le tue conquiste, glorie, trionfi, spoglie,<br>ridotte a questa piccola misura? Sta' [[Well\|bene]].—<br>Non so, signori, che cosa intendiate—<br>a chi altri si debba cavar [[Blood\|sangue]], chi altri sia in soprappiù.<br>Se io stesso, non v'è ora così adatta<br>come l'ora della [[Death\|morte]] di Cesare, né strumento<br>di metà quel pregio come queste vostre spade, fatte ricche<br>del più nobile [[Blood\|sangue]] di tutto questo mondo.<br>Vi supplico, se avete rancore contro di me,<br>ora, mentre le vostre mani imporporate fumano e vaporano,<br>compite il vostro piacere. Vivessi mille anni,<br>non mi troverò mai così disposto a morire.<br>Nessun luogo mi piacerà tanto, nessun modo di [[Death\|morte]],<br>come qui presso Cesare, e reciso da voi,<br>gli spiriti eletti e sovrani di questa età. |
+| [[Brutus\|BRUTO]] | O Antonio, non chiederci la tua [[Death\|morte]]!<br>Benché ora dobbiamo apparire sanguinari e crudeli,<br>come dalle nostre mani e da questo nostro atto presente<br>vedete che siamo, pure voi non vedete che le nostre mani,<br>e questa l'opera sanguinosa che hanno compiuto.<br>I nostri cuori non li vedete; sono pietosi;<br>e la pietà per il torto generale di Roma—<br>come il [[Fire\|fuoco]] scaccia il [[Fire\|fuoco]], così pietà pietà–<br>ha compiuto quest'atto su Cesare. Quanto a voi,<br>per voi le nostre spade hanno punte di piombo, [[Mark Antony\|Marco Antonio]].<br>Le nostre braccia, disarmate d'ogni malizia, e i nostri cuori<br>di tempra fraterna, vi accolgono<br><br>con ogni gentile [[Love\|affetto]], buoni pensieri e riverenza. |
+| [[Cassius\|CASSIO]] | La vostra voce sarà forte quanto quella di chiunque<br>nella distribuzione delle nuove dignità. |
+| [[Brutus\|BRUTO]] | Solo siate paziente finché non avremo placato<br>la moltitudine, fuori di sé per la [[Fear\|paura]],<br>e allora vi esporremo la ragione<br>per cui io, che [[Love\|amavo]] Cesare quando lo colpii,<br>ho proceduto così. |
+| ANTONIO | Non [[Doubt\|dubito]] della vostra saggezza.<br>Ognuno mi porga la sua mano insanguinata.<br>Stringe la mano ai congiurati<br><br>Primo, Marco [[Brutus\|Bruto]], stringerò la vostra.—<br>Poi, Caio [[Cassius\|Cassio]], prendo la vostra mano.—<br>Ora, Decio [[Brutus\|Bruto]], la vostra;—ora la vostra, Metello;—<br>La vostra, Cinna;—e la vostra, mio valoroso [[Casca]];—<br>Ultimo, ma non ultimo nell'[[Love\|affetto]], la vostra, buon Trebonio.<br>Signori tutti—ahimè, che dirò?<br>Il mio credito posa ora su terreno tanto sdrucciolevole<br>che in uno di due modi cattivi dovrete giudicarmi:<br>o un vile o un adulatore.<br>Che io ti [[Love\|amassi]], Cesare, oh, è vero.<br>Se dunque il tuo spirito ci guarda ora,<br>non ti dorrà più caramente della tua [[Death\|morte]]<br>vedere il tuo Antonio far pace,<br>stringendo le dita insanguinate dei tuoi nemici—<br>nobilissimo!—alla presenza del tuo cadavere?<br>Se avessi tanti occhi quante tu hai ferite,<br>piangenti così rapidi come esse versano il tuo [[Blood\|sangue]],<br>mi si converrebbe meglio che concludere<br>patti d'[[Friendship\|amicizia]] coi tuoi nemici.<br>Perdonami, Giulio. Qui fosti braccato, prode cervo;<br>qui cadesti, e qui stanno i tuoi cacciatori<br>segnati della tua preda e imporporati nel tuo lete.<br>O mondo, tu eri la foresta di questo cervo;<br>e questi davvero, o mondo, era il cuore di te.<br>Come un cervo abbattuto da molti principi<br>giaci tu qui! |
+| [[Cassius\|CASSIO]] | [[Mark Antony\|Marco Antonio]]. |
+| ANTONIO | Perdonatemi, Caio [[Cassius\|Cassio]].<br>I nemici di Cesare diranno altrettanto;<br>dunque in un amico è fredda modestia. |
+| [[Cassius\|CASSIO]] | Non vi biasimo perché lodate Cesare così;<br>ma quale patto intendete avere con noi?<br>Sarete segnato nel numero dei nostri amici,<br>o proseguiremo senza contare su di voi? |
+| ANTONIO | Perciò vi presi le mani, ma davvero fui<br>distolto dal punto guardando in basso Cesare.<br>Sono amico con tutti voi, e vi [[Love\|amo]] tutti<br>su questa [[Hope\|speranza]]: che mi darete le ragioni<br>del perché e in che cosa Cesare fosse pericoloso. |
+| [[Brutus\|BRUTO]] | Altrimenti questo sarebbe uno spettacolo selvaggio.<br>Le nostre ragioni sono così piene di giusto riguardo,<br>che se voi, Antonio, foste il figlio di Cesare,<br>ne sareste soddisfatto. |
+| ANTONIO | È tutto ciò che chiedo;<br>e sono, inoltre, supplice perché io possa<br>portare il suo [[Body\|corpo]] al foro,<br>e dal pulpito, come si conviene a un amico,<br>parlare nell'ordine del suo funerale. |
+| [[Brutus\|BRUTO]] | Lo farete, [[Mark Antony\|Marco Antonio]]. |
+| [[Cassius\|CASSIO]] | [[Brutus\|Bruto]], una parola con voi.<br>(A parte a [[Brutus\|Bruto]]) Non sapete quel che fate. Non<br>consentite<br>che Antonio parli al suo funerale.<br>Sapete voi quanto il popolo può esser commosso<br>da ciò che egli dirà? |
+| [[Brutus\|BRUTO]] | (a parte a [[Cassius\|Cassio]]) Col vostro permesso,<br>salirò io stesso per primo sul pulpito,<br>e mostrerò la ragione della [[Death\|morte]] del nostro Cesare.<br>Ciò che Antonio dirà, io dichiarerò<br>ch'egli lo dice per licenza e permesso;<br>e che siamo contenti che Cesare abbia<br>tutti i veri riti e le legittime cerimonie,<br>ci gioverà più che farci torto. |
+| [[Cassius\|CASSIO]] | (a parte a [[Brutus\|Bruto]])<br>Non so che possa accadere. Non mi piace. |
+| [[Brutus\|BRUTO]] | [[Mark Antony\|Marco Antonio]], ecco, prendete il [[Body\|corpo]] di Cesare.<br>Non ci biasimerete nel vostro discorso funebre;<br>ma direte tutto il bene che saprete immaginare di Cesare,<br>e direte che lo fate col nostro permesso;<br>altrimenti non avrete parte alcuna<br>nel suo funerale. E parlerete<br>dallo stesso pulpito a cui io mi reco,<br>dopo che il mio discorso sarà finito. |
+| ANTONIO | Sia così;<br>non [[Desire\|desidero]] altro. |
+| [[Brutus\|BRUTO]] | Preparate dunque il [[Body\|corpo]], e seguiteci. |
 | *(didascalia)* | Escono tutti tranne Antonio |
-| ANTONIO | Oh perdonami, tu sanguinante pezzo di terra,<br>s'io sono mite e gentile con questi macellai.<br>Tu sei le rovine dell'uomo più nobile<br>che mai visse nella corrente dei tempi.<br>Guai alla mano che versò questo prezioso [[Blood|sangue]]!<br>Sulle tue ferite ora profetizzo—<br>ferite che come bocche mute schiudono le labbra di rubino<br>per implorare la voce e la parola della mia lingua—<br>una maledizione scenderà sulle membra degli uomini;<br>furore domestico e feroce discordia civile<br>ingombreranno tutte le parti d'[[Italy|Italia]];<br>[[Blood|Sangue]] e distruzione saranno tanto in uso,<br>e le cose spaventose tanto familiari,<br>che le madri non faranno che sorridere quando vedranno<br>i loro bambini squartati dalle mani della guerra,<br>ogni pietà soffocata dall'abitudine ad atti crudeli;<br>e lo spirito di Cesare, errando in cerca di [[Revenge|vendetta]],<br>con Ate al suo fianco venuta ardente dall'inferno,<br>griderà in questi confini con voce di monarca<br>'strage!' e scioglierà i [[dogs|cani]] della guerra,<br>sì che quest'atto immondo puzzerà sopra la terra<br>di uomini carogna, gementi per la sepoltura. |
+| ANTONIO | Oh perdonami, tu sanguinante pezzo di terra,<br>s'io sono mite e gentile con questi macellai.<br>Tu sei le rovine dell'uomo più nobile<br>che mai visse nella corrente dei tempi.<br>Guai alla mano che versò questo prezioso [[Blood\|sangue]]!<br>Sulle tue ferite ora profetizzo—<br>ferite che come bocche mute schiudono le labbra di rubino<br>per implorare la voce e la parola della mia lingua—<br>una maledizione scenderà sulle membra degli uomini;<br>furore domestico e feroce discordia civile<br>ingombreranno tutte le parti d'[[Italy\|Italia]];<br>[[Blood\|Sangue]] e distruzione saranno tanto in uso,<br>e le cose spaventose tanto familiari,<br>che le madri non faranno che sorridere quando vedranno<br>i loro bambini squartati dalle mani della guerra,<br>ogni pietà soffocata dall'abitudine ad atti crudeli;<br>e lo spirito di Cesare, errando in cerca di [[Revenge\|vendetta]],<br>con Ate al suo fianco venuta ardente dall'inferno,<br>griderà in questi confini con voce di monarca<br>'strage!' e scioglierà i [[dogs\|cani]] della guerra,<br>sì che quest'atto immondo puzzerà sopra la terra<br>di uomini carogna, gementi per la sepoltura. |
 | *(didascalia)* | Entra il Servo di Ottavio |
-| ANTONIO | Voi servite [[Octavius Caesar|Ottavio Cesare]], non è vero? |
-| SERVO | Sì, [[Mark Antony|Marco Antonio]]. |
+| ANTONIO | Voi servite [[Octavius Caesar\|Ottavio Cesare]], non è vero? |
+| SERVO | Sì, [[Mark Antony\|Marco Antonio]]. |
 | ANTONIO | Cesare gli scrisse di venire a Roma. |
-| SERVO | Ricevette le sue lettere, e sta venendo,<br>e mi ordinò di dirvi a voce—<br>(Vedendo il [[Body|corpo]]) O Cesare! |
-| ANTONIO | Il tuo cuore è gonfio. Va' in disparte e piangi.<br>La passione, vedo, è contagiosa, ché i miei occhi,<br>vedendo quelle perle di dolore fermarsi nei tuoi,<br>cominciarono a [[Water|lacrimare]]. Viene il tuo padrone? |
+| SERVO | Ricevette le sue lettere, e sta venendo,<br>e mi ordinò di dirvi a voce—<br>(Vedendo il [[Body\|corpo]]) O Cesare! |
+| ANTONIO | Il tuo cuore è gonfio. Va' in disparte e piangi.<br>La passione, vedo, è contagiosa, ché i miei occhi,<br>vedendo quelle perle di dolore fermarsi nei tuoi,<br>cominciarono a [[Water\|lacrimare]]. Viene il tuo padrone? |
 | SERVO | Stanotte alloggia a sette leghe da Roma. |
-| ANTONIO | Corri indietro con [[Speed|prestezza]] e digli quel che è<br>accaduto.<br>Qui è una Roma in lutto, una Roma pericolosa,<br>non ancora una Roma sicura per Ottavio.<br>Affrettati e diglielo.—Eppure resta un poco.<br>Non tornerai finché io non abbia portato questo cadavere<br>nel foro. Là proverò<br>con la mia orazione come il popolo accolga<br>il crudele operato di questi uomini sanguinari;<br>e secondo ciò tu riferirai<br>al giovane Ottavio lo stato delle cose.<br>Datemi la vostra mano. |
-| *(didascalia)* | Escono col [[Body|corpo]] di Cesare |
+| ANTONIO | Corri indietro con [[Speed\|prestezza]] e digli quel che è<br>accaduto.<br>Qui è una Roma in lutto, una Roma pericolosa,<br>non ancora una Roma sicura per Ottavio.<br>Affrettati e diglielo.—Eppure resta un poco.<br>Non tornerai finché io non abbia portato questo cadavere<br>nel foro. Là proverò<br>con la mia orazione come il popolo accolga<br>il crudele operato di questi uomini sanguinari;<br>e secondo ciò tu riferirai<br>al giovane Ottavio lo stato delle cose.<br>Datemi la vostra mano. |
+| *(didascalia)* | Escono col [[Body\|corpo]] di Cesare |
 
 
 
@@ -2246,67 +2246,67 @@ The [[Tragedy]] of [[Julius Caesar]]
 
 | Chi parla | Battuta |
 |---|---|
-| *(didascalia)* | Entrano [[Brutus|Bruto]] e [[Cassius|Cassio]], con i Plebei |
+| *(didascalia)* | Entrano [[Brutus\|Bruto]] e [[Cassius\|Cassio]], con i Plebei |
 | TUTTI I PLEBEI | Vogliamo essere soddisfatti! Che ci si soddisfi! |
-| [[Brutus|BRUTO]] | Seguitemi allora, e datemi ascolto, amici.<br>(A parte a [[Cassius|Cassio]]) [[Cassius|Cassio]], andate voi nell'altra strada,<br>e dividete la folla.<br>(Ai Plebei)<br>Quelli che vogliono udir me, restino qui;<br>quelli che vogliono seguire [[Cassius|Cassio]], vadano con lui;<br>e saranno rese pubbliche ragioni<br>della [[Death|morte]] di Cesare.<br>[[Brutus|Bruto]] sale al pulpito |
-| PRIMO PLEBEO | Voglio udire [[Brutus|Bruto]] parlare. |
-| SECONDO PLEBEO | Voglio udire [[Cassius|Cassio]], e confrontare le loro ragioni<br>quando separatamente le udremo esporre. |
-| *(didascalia)* | Esce [[Cassius|Cassio]], con alcuni Plebei |
-| *(didascalia)* | Entra [[Brutus|Bruto]] in altonel pulpito |
-| TERZO PLEBEO | Il nobile [[Brutus|Bruto]] è salito. [[Silence|Silenzio]]. |
-| [[Brutus|BRUTO]] | Siate pazienti fino alla fine.<br>Romani, concittadini e [[lovers|amici]], ascoltatemi per la mia<br>causa, e tacete per poter udire. Credetemi per il<br>mio [[Honour|onore]], e abbiate riguardo al mio [[Honour|onore]], perché<br>possiate credere. Giudicatemi nella vostra saggezza, e<br>destate i vostri sensi, per poter meglio giudicare. Se<br>v'è alcuno in questa assemblea, qualche caro amico di<br>Cesare, a lui dico che l'[[Love|amore]] di [[Brutus|Bruto]] per Cesare non fu<br>minore del suo. Se dunque quell'amico domanda perché [[Brutus|Bruto]]<br>[[Rose|insorse]] contro Cesare, questa è la mia risposta: non che amassi<br>Cesare di meno, ma che amavo Roma di più. Preferireste<br>che Cesare vivesse, e morire tutti schiavi, piuttosto che<br>Cesare fosse morto, per vivere tutti liberi? Poiché Cesare mi amava,<br>io lo piango. Poiché fu fortunato, me ne<br>rallegro. Poiché fu valoroso, lo [[Honour|onoro]]. Ma poiché fu<br>ambizioso, l'ho ucciso. Vi sono [[Tears|lacrime]] per il suo [[Love|amore]], gioia<br>per la sua fortuna, [[Honour|onore]] per il suo valore, e [[Death|morte]] per<br>la sua [[Ambition|ambizione]]. Chi è qui tanto vile da voler essere<br>schiavo? Se v'è alcuno, parli, ché lui ho offeso. Chi<br>è qui tanto rozzo da non voler essere Romano? Se v'è alcuno,<br>parli, ché lui ho offeso. Chi è qui tanto abbietto che<br>non [[Love|ami]] la sua patria? Se v'è alcuno, parli, ché lui<br>ho offeso. Attendo una risposta. |
-| TUTTI I PLEBEI | Nessuno, [[Brutus|Bruto]], nessuno. |
-| [[Brutus|BRUTO]] | Allora nessuno ho offeso. Non ho fatto a Cesare più di quanto voi farete a [[Brutus|Bruto]]. La questione della sua [[Death|morte]] è registrata in Campidoglio, senza attenuare la sua gloria in ciò per cui fu degno, né aggravare le sue colpe per le quali subì la [[Death|morte]]. |
-| *(didascalia)* | Entra [[Mark Antony|Marco Antonio]], con altri |
-| *(didascalia)* | che recano il [[Body|corpo]] di Cesare in una bara |
-| [[Brutus|BRUTO]] | Ecco venire il suo [[Body|corpo]], pianto da [[Mark Antony|Marco Antonio]], il quale, benché non abbia avuto parte nella sua [[Death|morte]], riceverà il beneficio del suo morire: un posto nella repubblica—e chi di voi non l'avrà? Con questo mi congedo: che come uccisi il mio migliore [[Lover|amico]] per il bene di Roma, così ho lo stesso pugnale per me stesso, quando piacerà alla mia patria d'aver bisogno della mia [[Death|morte]]. |
-| TUTTI I PLEBEI | Viva [[Brutus|Bruto]], viva, viva! |
-| PRIMO PLEBEO | Portiamolo in trionfo a [[Home|casa]], alla sua [[house|dimora]]. |
+| [[Brutus\|BRUTO]] | Seguitemi allora, e datemi ascolto, amici.<br>(A parte a [[Cassius\|Cassio]]) [[Cassius\|Cassio]], andate voi nell'altra strada,<br>e dividete la folla.<br>(Ai Plebei)<br>Quelli che vogliono udir me, restino qui;<br>quelli che vogliono seguire [[Cassius\|Cassio]], vadano con lui;<br>e saranno rese pubbliche ragioni<br>della [[Death\|morte]] di Cesare.<br>[[Brutus\|Bruto]] sale al pulpito |
+| PRIMO PLEBEO | Voglio udire [[Brutus\|Bruto]] parlare. |
+| SECONDO PLEBEO | Voglio udire [[Cassius\|Cassio]], e confrontare le loro ragioni<br>quando separatamente le udremo esporre. |
+| *(didascalia)* | Esce [[Cassius\|Cassio]], con alcuni Plebei |
+| *(didascalia)* | Entra [[Brutus\|Bruto]] in altonel pulpito |
+| TERZO PLEBEO | Il nobile [[Brutus\|Bruto]] è salito. [[Silence\|Silenzio]]. |
+| [[Brutus\|BRUTO]] | Siate pazienti fino alla fine.<br>Romani, concittadini e [[lovers\|amici]], ascoltatemi per la mia<br>causa, e tacete per poter udire. Credetemi per il<br>mio [[Honour\|onore]], e abbiate riguardo al mio [[Honour\|onore]], perché<br>possiate credere. Giudicatemi nella vostra saggezza, e<br>destate i vostri sensi, per poter meglio giudicare. Se<br>v'è alcuno in questa assemblea, qualche caro amico di<br>Cesare, a lui dico che l'[[Love\|amore]] di [[Brutus\|Bruto]] per Cesare non fu<br>minore del suo. Se dunque quell'amico domanda perché [[Brutus\|Bruto]]<br>[[Rose\|insorse]] contro Cesare, questa è la mia risposta: non che amassi<br>Cesare di meno, ma che amavo Roma di più. Preferireste<br>che Cesare vivesse, e morire tutti schiavi, piuttosto che<br>Cesare fosse morto, per vivere tutti liberi? Poiché Cesare mi amava,<br>io lo piango. Poiché fu fortunato, me ne<br>rallegro. Poiché fu valoroso, lo [[Honour\|onoro]]. Ma poiché fu<br>ambizioso, l'ho ucciso. Vi sono [[Tears\|lacrime]] per il suo [[Love\|amore]], gioia<br>per la sua fortuna, [[Honour\|onore]] per il suo valore, e [[Death\|morte]] per<br>la sua [[Ambition\|ambizione]]. Chi è qui tanto vile da voler essere<br>schiavo? Se v'è alcuno, parli, ché lui ho offeso. Chi<br>è qui tanto rozzo da non voler essere Romano? Se v'è alcuno,<br>parli, ché lui ho offeso. Chi è qui tanto abbietto che<br>non [[Love\|ami]] la sua patria? Se v'è alcuno, parli, ché lui<br>ho offeso. Attendo una risposta. |
+| TUTTI I PLEBEI | Nessuno, [[Brutus\|Bruto]], nessuno. |
+| [[Brutus\|BRUTO]] | Allora nessuno ho offeso. Non ho fatto a Cesare più di quanto voi farete a [[Brutus\|Bruto]]. La questione della sua [[Death\|morte]] è registrata in Campidoglio, senza attenuare la sua gloria in ciò per cui fu degno, né aggravare le sue colpe per le quali subì la [[Death\|morte]]. |
+| *(didascalia)* | Entra [[Mark Antony\|Marco Antonio]], con altri |
+| *(didascalia)* | che recano il [[Body\|corpo]] di Cesare in una bara |
+| [[Brutus\|BRUTO]] | Ecco venire il suo [[Body\|corpo]], pianto da [[Mark Antony\|Marco Antonio]], il quale, benché non abbia avuto parte nella sua [[Death\|morte]], riceverà il beneficio del suo morire: un posto nella repubblica—e chi di voi non l'avrà? Con questo mi congedo: che come uccisi il mio migliore [[Lover\|amico]] per il bene di Roma, così ho lo stesso pugnale per me stesso, quando piacerà alla mia patria d'aver bisogno della mia [[Death\|morte]]. |
+| TUTTI I PLEBEI | Viva [[Brutus\|Bruto]], viva, viva! |
+| PRIMO PLEBEO | Portiamolo in trionfo a [[Home\|casa]], alla sua [[house\|dimora]]. |
 | *(didascalia)* | QUARTO PLEBEO |
 | PRIMO PLEBEO | Dategli una statua accanto ai suoi antenati. |
 | TERZO PLEBEO | Sia lui Cesare. |
 | *(didascalia)* | QUINTO PLEBEO Le parti migliori di Cesare |
-| TERZO PLEBEO | saranno coronate in [[Brutus|Bruto]]. |
-| PRIMO PLEBEO | Lo condurremo alla sua [[house|casa]] con grida e<br>clamori. |
-| [[Brutus|BRUTO]] | Concittadini miei. |
-| *(didascalia)* | QUARTO PLEBEO Pace, [[Silence|silenzio]]. Parla [[Brutus|Bruto]]. |
+| TERZO PLEBEO | saranno coronate in [[Brutus\|Bruto]]. |
+| PRIMO PLEBEO | Lo condurremo alla sua [[house\|casa]] con grida e<br>clamori. |
+| [[Brutus\|BRUTO]] | Concittadini miei. |
+| *(didascalia)* | QUARTO PLEBEO Pace, [[Silence\|silenzio]]. Parla [[Brutus\|Bruto]]. |
 | PRIMO PLEBEO | Pace, olà! |
-| [[Brutus|BRUTO]] | Buoni concittadini, lasciate ch'io parta [[Alone|solo]],<br>e, per amor mio, restate qui con Antonio.<br>Rendete onore alla salma di Cesare, e onore al discorso<br>volto alle glorie di Cesare, che [[Mark Antony|Marco Antonio]],<br>per nostro permesso, è autorizzato a fare.<br>Vi supplico, nessuno si allontani<br>tranne me [[Alone|solo]], finché Antonio non abbia parlato. Esce |
-| PRIMO PLEBEO | Fermi, olà, e udiamo [[Mark Antony|Marco Antonio]]. |
+| [[Brutus\|BRUTO]] | Buoni concittadini, lasciate ch'io parta [[Alone\|solo]],<br>e, per amor mio, restate qui con Antonio.<br>Rendete onore alla salma di Cesare, e onore al discorso<br>volto alle glorie di Cesare, che [[Mark Antony\|Marco Antonio]],<br>per nostro permesso, è autorizzato a fare.<br>Vi supplico, nessuno si allontani<br>tranne me [[Alone\|solo]], finché Antonio non abbia parlato. Esce |
+| PRIMO PLEBEO | Fermi, olà, e udiamo [[Mark Antony\|Marco Antonio]]. |
 | TERZO PLEBEO | Salga sulla tribuna pubblica.<br>Lo ascolteremo. Nobile Antonio, sali. |
-| ANTONIO | Per amore di [[Brutus|Bruto]] vi sono obbligato.<br>Antonio sale al pulpito |
+| ANTONIO | Per amore di [[Brutus\|Bruto]] vi sono obbligato.<br>Antonio sale al pulpito |
 | *(didascalia)* | QUINTO PLEBEO |
-| ANTONIO | Che dice di [[Brutus|Bruto]]? |
-| TERZO PLEBEO | Dice che, per amore di [[Brutus|Bruto]],<br>si trova obbligato a tutti noi. |
+| ANTONIO | Che dice di [[Brutus\|Bruto]]? |
+| TERZO PLEBEO | Dice che, per amore di [[Brutus\|Bruto]],<br>si trova obbligato a tutti noi. |
 | *(didascalia)* | QUINTO PLEBEO |
-| TERZO PLEBEO | Farà meglio a non dir male di [[Brutus|Bruto]] qui! |
-| PRIMO PLEBEO | Questo Cesare era un [[Tyrant|tiranno]]. |
+| TERZO PLEBEO | Farà meglio a non dir male di [[Brutus\|Bruto]] qui! |
+| PRIMO PLEBEO | Questo Cesare era un [[Tyrant\|tiranno]]. |
 | TERZO PLEBEO | Certo, non c'è dubbio.<br>Siamo benedetti che Roma se ne sia liberata. |
 | *(didascalia)* | Entra Antonio nel pulpito |
 | *(didascalia)* | QUARTO PLEBEO |
 | TERZO PLEBEO | Pace, udiamo che cosa può dire Antonio. |
 | ANTONIO | Voi, gentili Romani. TUTTI I PLEBEI Pace, olà! Ascoltiamolo. |
-| ANTONIO | Amici, Romani, concittadini, prestatemi orecchio.<br>Vengo a seppellire Cesare, non a lodarlo.<br>Il male che gli uomini fanno vive dopo di loro;<br>il bene è spesso sepolto con le loro ossa.<br>Così sia di Cesare. Il nobile [[Brutus|Bruto]]<br>vi ha detto che Cesare era ambizioso.<br>Se così fu, fu una colpa grave,<br>e gravemente Cesare ne ha risposto.<br>Qui, con licenza di [[Brutus|Bruto]] e degli altri—<br>ché [[Brutus|Bruto]] è uomo d'onore,<br>e così sono tutti, tutti uomini d'onore—<br>vengo a parlare al funerale di Cesare.<br>Era mio amico, fedele e giusto verso di me.<br>Ma [[Brutus|Bruto]] dice che era ambizioso,<br>e [[Brutus|Bruto]] è uomo d'onore.<br>Egli condusse molti prigionieri a [[Home|casa]], a Roma,<br>i cui riscatti riempirono le casse pubbliche.<br><br>Sembrava questo ambizioso in Cesare?<br>Quando i poveri hanno pianto, Cesare ha lacrimato.<br>L'[[Ambition|ambizione]] dovrebbe esser fatta di più dura stoffa.<br>Eppure [[Brutus|Bruto]] dice che era ambizioso,<br>e [[Brutus|Bruto]] è uomo d'onore.<br>Vedeste tutti che ai Lupercali<br>gli offrii tre volte una [[Crown|corona]] regale,<br>che egli tre volte rifiutò. Era questa [[Ambition|ambizione]]?<br>Eppure [[Brutus|Bruto]] dice che era ambizioso,<br>e certo egli è uomo d'onore.<br>Non parlo per smentire ciò che [[Brutus|Bruto]] ha detto,<br>ma sono qui per dire ciò che so.<br>Voi tutti l'[[Love|amaste]] una volta, non senza ragione.<br>Quale ragione vi trattiene dunque dal piangerlo?<br>O giudizio, sei fuggito alle bestie brute,<br>e gli uomini hanno perduto la ragione!<br>Piange Abbiate pazienza con me.<br>Il mio cuore è là nella bara con Cesare,<br>e devo attendere finché non torni a me. |
+| ANTONIO | Amici, Romani, concittadini, prestatemi orecchio.<br>Vengo a seppellire Cesare, non a lodarlo.<br>Il male che gli uomini fanno vive dopo di loro;<br>il bene è spesso sepolto con le loro ossa.<br>Così sia di Cesare. Il nobile [[Brutus\|Bruto]]<br>vi ha detto che Cesare era ambizioso.<br>Se così fu, fu una colpa grave,<br>e gravemente Cesare ne ha risposto.<br>Qui, con licenza di [[Brutus\|Bruto]] e degli altri—<br>ché [[Brutus\|Bruto]] è uomo d'onore,<br>e così sono tutti, tutti uomini d'onore—<br>vengo a parlare al funerale di Cesare.<br>Era mio amico, fedele e giusto verso di me.<br>Ma [[Brutus\|Bruto]] dice che era ambizioso,<br>e [[Brutus\|Bruto]] è uomo d'onore.<br>Egli condusse molti prigionieri a [[Home\|casa]], a Roma,<br>i cui riscatti riempirono le casse pubbliche.<br><br>Sembrava questo ambizioso in Cesare?<br>Quando i poveri hanno pianto, Cesare ha lacrimato.<br>L'[[Ambition\|ambizione]] dovrebbe esser fatta di più dura stoffa.<br>Eppure [[Brutus\|Bruto]] dice che era ambizioso,<br>e [[Brutus\|Bruto]] è uomo d'onore.<br>Vedeste tutti che ai Lupercali<br>gli offrii tre volte una [[Crown\|corona]] regale,<br>che egli tre volte rifiutò. Era questa [[Ambition\|ambizione]]?<br>Eppure [[Brutus\|Bruto]] dice che era ambizioso,<br>e certo egli è uomo d'onore.<br>Non parlo per smentire ciò che [[Brutus\|Bruto]] ha detto,<br>ma sono qui per dire ciò che so.<br>Voi tutti l'[[Love\|amaste]] una volta, non senza ragione.<br>Quale ragione vi trattiene dunque dal piangerlo?<br>O giudizio, sei fuggito alle bestie brute,<br>e gli uomini hanno perduto la ragione!<br>Piange Abbiate pazienza con me.<br>Il mio cuore è là nella bara con Cesare,<br>e devo attendere finché non torni a me. |
 | PRIMO PLEBEO | Mi pare che vi sia molta ragione nelle sue parole. |
 | *(didascalia)* | QUARTO PLEBEO |
 | PRIMO PLEBEO | Se consideri rettamente la faccenda,<br>Cesare ha subìto un gran torto. |
-| TERZO PLEBEO | Non è vero, signori?<br>[[Fear|Temo]] che ne verrà uno peggiore al suo posto. |
+| TERZO PLEBEO | Non è vero, signori?<br>[[Fear\|Temo]] che ne verrà uno peggiore al suo posto. |
 | *(didascalia)* | QUINTO PLEBEO |
-| TERZO PLEBEO | Avete notato le sue parole? Non volle prendere la [[Crown|corona]],<br>dunque è certo che non era ambizioso. |
+| TERZO PLEBEO | Avete notato le sue parole? Non volle prendere la [[Crown\|corona]],<br>dunque è certo che non era ambizioso. |
 | PRIMO PLEBEO | Se si troverà che è così, qualcuno la pagherà cara. |
 | *(didascalia)* | QUARTO PLEBEO |
-| PRIMO PLEBEO | Povera [[Soul|anima]], ha gli occhi rossi come [[Fire|fuoco]] dal pianto. |
+| PRIMO PLEBEO | Povera [[Soul\|anima]], ha gli occhi rossi come [[Fire\|fuoco]] dal pianto. |
 | TERZO PLEBEO | Non v'è uomo più nobile in Roma di Antonio. |
 | *(didascalia)* | QUINTO PLEBEO |
 | TERZO PLEBEO | Ora osservatelo; ricomincia a parlare. |
-| ANTONIO | Ancora ieri la parola di Cesare avrebbe potuto<br>reggere contro il mondo. Ora egli giace là,<br>e nessuno è tanto misero da rendergli riverenza.<br>O signori, se io fossi disposto a sollevare<br>i vostri cuori e le vostre menti a rivolta e furore,<br>farei torto a [[Brutus|Bruto]], e torto a [[Cassius|Cassio]],<br>che, lo sapete tutti, sono uomini d'onore.<br>Non farò loro torto. Preferisco piuttosto<br>far torto al morto, far torto a me stesso e a voi,<br>che far torto a tali uomini d'onore.<br>Ma ecco una pergamena col sigillo di Cesare.<br>La trovai nel suo studio. È il suo testamento.<br>Bastasse che il popolo udisse questo testamento—<br>che, perdonatemi, non intendo leggere—<br>e andrebbero a baciare le ferite di Cesare morto,<br>e a intingere i fazzoletti nel suo sacro [[Blood|sangue]],<br>sì, a chiedere un suo capello per [[Memory|ricordo]],<br>e, morendo, a menzionarlo nei loro testamenti,<br>lasciandolo come ricco lascito<br>alla loro discendenza. |
+| ANTONIO | Ancora ieri la parola di Cesare avrebbe potuto<br>reggere contro il mondo. Ora egli giace là,<br>e nessuno è tanto misero da rendergli riverenza.<br>O signori, se io fossi disposto a sollevare<br>i vostri cuori e le vostre menti a rivolta e furore,<br>farei torto a [[Brutus\|Bruto]], e torto a [[Cassius\|Cassio]],<br>che, lo sapete tutti, sono uomini d'onore.<br>Non farò loro torto. Preferisco piuttosto<br>far torto al morto, far torto a me stesso e a voi,<br>che far torto a tali uomini d'onore.<br>Ma ecco una pergamena col sigillo di Cesare.<br>La trovai nel suo studio. È il suo testamento.<br>Bastasse che il popolo udisse questo testamento—<br>che, perdonatemi, non intendo leggere—<br>e andrebbero a baciare le ferite di Cesare morto,<br>e a intingere i fazzoletti nel suo sacro [[Blood\|sangue]],<br>sì, a chiedere un suo capello per [[Memory\|ricordo]],<br>e, morendo, a menzionarlo nei loro testamenti,<br>lasciandolo come ricco lascito<br>alla loro discendenza. |
 | *(didascalia)* | QUINTO PLEBEO |
-| ANTONIO | Udiremo il testamento. Leggetelo, [[Mark Antony|Marco Antonio]]. |
+| ANTONIO | Udiremo il testamento. Leggetelo, [[Mark Antony\|Marco Antonio]]. |
 | TUTTI I PLEBEI | Il testamento, il testamento! Vogliamo udire il testamento di Cesare. |
 | ANTONIO | Abbiate pazienza, gentili amici, non devo leggerlo.<br>Non conviene che sappiate quanto Cesare vi amava.<br>Non siete legno, non siete pietre, ma uomini;<br>ed essendo uomini, udendo il testamento di Cesare,<br>vi infiammerà, vi farà impazzire.<br>È bene che non sappiate d'essere suoi eredi,<br>ché se lo sapeste, oh, che ne verrebbe? |
 | *(didascalia)* | QUINTO PLEBEO |
 | ANTONIO | Leggi il testamento. Vogliamo udirlo, Antonio.<br>Ci leggerai il testamento, il testamento di Cesare. |
-| ANTONIO | Sarete pazienti? Attenderete un poco?<br>Sono andato troppo oltre a parlarvene.<br>[[Fear|Temo]] di far torto agli uomini d'onore<br>i cui pugnali hanno colpito Cesare; sì, lo [[Fear|temo]]. |
+| ANTONIO | Sarete pazienti? Attenderete un poco?<br>Sono andato troppo oltre a parlarvene.<br>[[Fear\|Temo]] di far torto agli uomini d'onore<br>i cui pugnali hanno colpito Cesare; sì, lo [[Fear\|temo]]. |
 | *(didascalia)* | QUINTO PLEBEO Erano traditori. Uomini d'onore? |
 | TUTTI I PLEBEI | Il testamento, le ultime volontà! |
 | *(didascalia)* | QUARTO PLEBEO Erano scellerati, assassini. Il testamento, leggi il testamento! |
@@ -2316,13 +2316,13 @@ The [[Tragedy]] of [[Julius Caesar]]
 | TERZO PLEBEO | Ne avrete licenza.<br>Antonio scende dal pulpito |
 | *(didascalia)* | QUINTO PLEBEO Un cerchio. |
 | TERZO PLEBEO | Fate cerchio. |
-| PRIMO PLEBEO | Scostatevi dal feretro. Scostatevi dal [[Body|corpo]]. |
+| PRIMO PLEBEO | Scostatevi dal feretro. Scostatevi dal [[Body\|corpo]]. |
 | *(didascalia)* | QUARTO PLEBEO |
 | PRIMO PLEBEO | Largo ad Antonio, nobilissimo Antonio! |
 | *(didascalia)* | Entra Antonio in basso |
 | ANTONIO | No, non accalcatevi così su di me. State più lontano. |
 | TUTTI I PLEBEI | Indietro! Largo! Fatevi indietro! |
-| ANTONIO | Se avete [[Tears|lacrime]], preparatevi a versarle ora.<br>Voi tutti conoscete questo mantello. Ricordo<br>la prima [[Time|volta]] che Cesare lo indossò.<br>Fu in una sera d'[[Summer|estate]], nella sua tenda,<br>il giorno in cui vinse i Nervi.<br>Guardate, in questo punto passò il pugnale di [[Cassius|Cassio]].<br>Vedete che squarcio fece l'invidioso [[Casca]].<br>Per questo colpì il [[Well|ben]]amato [[Brutus|Bruto]];<br>e mentre ritraeva il suo acciaio maledetto,<br>osservate come il [[Blood|sangue]] di Cesare lo seguì,<br>come precipitandosi fuori dalla porta per accertarsi<br>se [[Brutus|Bruto]] avesse bussato così crudelmente o no—<br>ché [[Brutus|Bruto]], come sapete, era l'angelo di Cesare.<br>Giudicate, o dèi, quanto teneramente Cesare l'amava!<br>Questo fu il più crudele di tutti i colpi.<br>Ché quando il nobile Cesare lo vide colpire,<br>l'ingratitudine, più forte delle braccia dei traditori,<br>lo vinse del tutto. Allora gli scoppiò il possente cuore,<br>e, avvolgendosi il volto nel mantello,<br>proprio ai piedi della statua di [[Pompey|Pompeo]],<br>che intanto grondava [[Blood|sangue]], il grande Cesare cadde.<br>Oh, che caduta fu quella, concittadini miei!<br>Allora io, e voi, e tutti noi cademmo,<br>mentre il sanguinoso tradimento trionfava sopra di noi.<br>Oh, ora piangete, e m'accorgo che sentite<br>il colpo della pietà. Queste sono gocce benedette.<br>Anime gentili, come, piangete solo a vedere<br>ferita la veste del nostro Cesare? Guardate qui.<br>Ecco lui stesso, straziato, come vedete, dai traditori.<br>Scopre il [[Body|corpo]] di Cesare |
+| ANTONIO | Se avete [[Tears\|lacrime]], preparatevi a versarle ora.<br>Voi tutti conoscete questo mantello. Ricordo<br>la prima [[Time\|volta]] che Cesare lo indossò.<br>Fu in una sera d'[[Summer\|estate]], nella sua tenda,<br>il giorno in cui vinse i Nervi.<br>Guardate, in questo punto passò il pugnale di [[Cassius\|Cassio]].<br>Vedete che squarcio fece l'invidioso [[Casca]].<br>Per questo colpì il [[Well\|ben]]amato [[Brutus\|Bruto]];<br>e mentre ritraeva il suo acciaio maledetto,<br>osservate come il [[Blood\|sangue]] di Cesare lo seguì,<br>come precipitandosi fuori dalla porta per accertarsi<br>se [[Brutus\|Bruto]] avesse bussato così crudelmente o no—<br>ché [[Brutus\|Bruto]], come sapete, era l'angelo di Cesare.<br>Giudicate, o dèi, quanto teneramente Cesare l'amava!<br>Questo fu il più crudele di tutti i colpi.<br>Ché quando il nobile Cesare lo vide colpire,<br>l'ingratitudine, più forte delle braccia dei traditori,<br>lo vinse del tutto. Allora gli scoppiò il possente cuore,<br>e, avvolgendosi il volto nel mantello,<br>proprio ai piedi della statua di [[Pompey\|Pompeo]],<br>che intanto grondava [[Blood\|sangue]], il grande Cesare cadde.<br>Oh, che caduta fu quella, concittadini miei!<br>Allora io, e voi, e tutti noi cademmo,<br>mentre il sanguinoso tradimento trionfava sopra di noi.<br>Oh, ora piangete, e m'accorgo che sentite<br>il colpo della pietà. Queste sono gocce benedette.<br>Anime gentili, come, piangete solo a vedere<br>ferita la veste del nostro Cesare? Guardate qui.<br>Ecco lui stesso, straziato, come vedete, dai traditori.<br>Scopre il [[Body\|corpo]] di Cesare |
 | PRIMO PLEBEO | O spettacolo pietoso! |
 | *(didascalia)* | QUARTO PLEBEO O nobile Cesare! |
 | TERZO PLEBEO | O giorno di lutto! |
@@ -2331,13 +2331,13 @@ The [[Tragedy]] of [[Julius Caesar]]
 | PRIMO PLEBEO | O vista sanguinosissima! |
 | *(didascalia)* | QUARTO PLEBEO Ci vendicheremo. |
 | *(didascalia)* | TUTTI I PLEBEI |
-| PRIMO PLEBEO | [[Revenge|Vendetta]]! Attorno! Cercate! Bruciate! [[Fire|Fuoco]]! Uccidete! Ammazzate!<br>Non viva un solo traditore ! |
+| PRIMO PLEBEO | [[Revenge\|Vendetta]]! Attorno! Cercate! Bruciate! [[Fire\|Fuoco]]! Uccidete! Ammazzate!<br>Non viva un solo traditore ! |
 | ANTONIO | Fermi, concittadini. |
 | PRIMO PLEBEO | Pace là, udite il nobile Antonio. |
 | *(didascalia)* | QUARTO PLEBEO Lo udiremo, lo seguiremo, moriremo con lui! |
-| ANTONIO | Buoni amici, dolci amici, ch'io non vi ecciti<br>a un così improvviso diluvio di rivolta.<br>Coloro che hanno compiuto quest'atto sono uomini d'onore.<br>Quali privati rancori abbiano, ahimè, non so,<br>che li spinsero a farlo. Sono saggi e onorevoli,<br>e senza [[Doubt|dubbio]] vi risponderanno con ragioni.<br>Non vengo, amici, a rubarvi i cuori.<br>Non sono un oratore come [[Brutus|Bruto]],<br>ma, come tutti mi conoscete, un uomo semplice e schietto<br>che [[Love|ama]] il suo amico; e questo lo sanno [[Well|bene]]<br>coloro che m'han dato pubblica licenza di parlare di lui.<br>Ché non ho né ingegno, né parole, né merito,<br>gesto, né dizione, né potenza d'eloquio,<br>per accendere il [[Blood|sangue]] degli uomini. Parlo solo alla buona.<br>Vi dico ciò che voi stessi sapete,<br>vi mostro le ferite del dolce Cesare, povere povere mute<br>bocche,<br>e chiedo loro di parlare per me. Ma se io fossi [[Brutus|Bruto]],<br>e [[Brutus|Bruto]] Antonio, ci sarebbe un Antonio<br>che vi scompiglierebbe gli animi, e metterebbe una lingua<br>in ogni ferita di Cesare, tale da muovere<br>le pietre di Roma a insorgere e ribellarsi. |
+| ANTONIO | Buoni amici, dolci amici, ch'io non vi ecciti<br>a un così improvviso diluvio di rivolta.<br>Coloro che hanno compiuto quest'atto sono uomini d'onore.<br>Quali privati rancori abbiano, ahimè, non so,<br>che li spinsero a farlo. Sono saggi e onorevoli,<br>e senza [[Doubt\|dubbio]] vi risponderanno con ragioni.<br>Non vengo, amici, a rubarvi i cuori.<br>Non sono un oratore come [[Brutus\|Bruto]],<br>ma, come tutti mi conoscete, un uomo semplice e schietto<br>che [[Love\|ama]] il suo amico; e questo lo sanno [[Well\|bene]]<br>coloro che m'han dato pubblica licenza di parlare di lui.<br>Ché non ho né ingegno, né parole, né merito,<br>gesto, né dizione, né potenza d'eloquio,<br>per accendere il [[Blood\|sangue]] degli uomini. Parlo solo alla buona.<br>Vi dico ciò che voi stessi sapete,<br>vi mostro le ferite del dolce Cesare, povere povere mute<br>bocche,<br>e chiedo loro di parlare per me. Ma se io fossi [[Brutus\|Bruto]],<br>e [[Brutus\|Bruto]] Antonio, ci sarebbe un Antonio<br>che vi scompiglierebbe gli animi, e metterebbe una lingua<br>in ogni ferita di Cesare, tale da muovere<br>le pietre di Roma a insorgere e ribellarsi. |
 | TUTTI I PLEBEI | Ci ribelleremo. |
-| PRIMO PLEBEO | Bruceremo la [[house|casa]] di [[Brutus|Bruto]]. |
+| PRIMO PLEBEO | Bruceremo la [[house\|casa]] di [[Brutus\|Bruto]]. |
 | TERZO PLEBEO | Via dunque! Venite, cerchiamo i congiurati. |
 | ANTONIO | Udite ancora, concittadini, udite ancora ch'io parli. |
 | TUTTI I PLEBEI | Pace, olà! Udite Antonio, nobilissimo Antonio. |
@@ -2345,24 +2345,24 @@ The [[Tragedy]] of [[Julius Caesar]]
 | TUTTI I PLEBEI | Verissimo. Il testamento. Restiamo e udiamo il testamento. |
 | ANTONIO | Ecco il testamento, e sotto il sigillo di Cesare.<br>A ogni cittadino romano egli dà—<br>a ciascun uomo singolarmente—settantacinque dracme. |
 | *(didascalia)* | QUARTO PLEBEO |
-| ANTONIO | Nobilissimo Cesare! [[Revenge|Vendicheremo]] la sua [[Death|morte]]. |
+| ANTONIO | Nobilissimo Cesare! [[Revenge\|Vendicheremo]] la sua [[Death\|morte]]. |
 | TERZO PLEBEO | O regale Cesare! |
 | ANTONIO | Uditemi con pazienza. |
 | TUTTI I PLEBEI | Pace, olà! |
 | ANTONIO | Inoltre vi ha lasciato tutti i suoi viali,<br>i suoi pergolati privati e i frutteti nuovamente piantati,<br>di qua dal Tevere. Li ha lasciati a voi,<br>e ai vostri eredi per sempre—diletti comuni<br>per passeggiare all'aperto e ricrearvi.<br>Questo era un Cesare. Quando ne verrà un altro simile? |
-| PRIMO PLEBEO | Mai, mai! Venite, via, via!<br>Bruceremo il suo [[Body|corpo]] nel luogo sacro,<br>e coi tizzoni daremo [[Fire|fuoco]] alle case dei traditori.<br>Sollevate il [[Body|corpo]]. |
-| *(didascalia)* | QUARTO PLEBEO Andate, portate il [[Fire|fuoco]]! |
+| PRIMO PLEBEO | Mai, mai! Venite, via, via!<br>Bruceremo il suo [[Body\|corpo]] nel luogo sacro,<br>e coi tizzoni daremo [[Fire\|fuoco]] alle case dei traditori.<br>Sollevate il [[Body\|corpo]]. |
+| *(didascalia)* | QUARTO PLEBEO Andate, portate il [[Fire\|fuoco]]! |
 | TERZO PLEBEO | Abbattete le panche! |
 | *(didascalia)* | QUINTO PLEBEO Abbattete i sedili, le finestre, qualunque cosa! |
-| *(didascalia)* | Escono i Plebei col [[Body|corpo]] di Cesare |
+| *(didascalia)* | Escono i Plebei col [[Body\|corpo]] di Cesare |
 | ANTONIO | Ora lascia che agisca. Sciagura, sei in cammino.<br>Prendi la strada che vuoi. |
 | *(didascalia)* | Entra il Servo di Ottavio |
 | ANTONIO | Ebbene, amico? |
 | SERVO | Signore, Ottavio è già giunto a Roma. |
 | ANTONIO | Dov'è? |
-| SERVO | Lui e [[Lepidus|Lepido]] sono alla [[house|casa]] di Cesare. |
+| SERVO | Lui e [[Lepidus\|Lepido]] sono alla [[house\|casa]] di Cesare. |
 | ANTONIO | E là andrò subito a visitarlo.<br>Viene a desiderio. La Fortuna è allegra,<br>e in questo umore ci darà qualunque cosa. |
-| SERVO | L'ho udito dire che [[Brutus|Bruto]] e [[Cassius|Cassio]]<br>sono fuggiti a cavallo come pazzi per le porte di Roma. |
+| SERVO | L'ho udito dire che [[Brutus\|Bruto]] e [[Cassius\|Cassio]]<br>sono fuggiti a cavallo come pazzi per le porte di Roma. |
 | ANTONIO | Probabilmente ebbero notizia del popolo,<br>di come l'avessi commosso. Conducimi da Ottavio. |
 | *(didascalia)* | Escono |
 
@@ -2421,7 +2421,7 @@ The [[Tragedy]] of [[Julius Caesar]]
 | QUARTO PLEBEO | Sì, e saggiamente. |
 | TERZO PLEBEO | Sì, e sinceramente, sarà meglio per voi. |
 | CINNA | Come mi chiamo? Dove vado? Dove abito? Sono ammogliato o scapolo? Dunque, per rispondere a ciascuno direttamente e brevemente, saggiamente e sinceramente: saggiamente, dico, sono scapolo. |
-| SECONDO PLEBEO | Questo è come dire che son pazzi quelli che si sposano. Ti buscherai un colpo da me per questo, [[Fear|temo]]. Procedi direttamente. |
+| SECONDO PLEBEO | Questo è come dire che son pazzi quelli che si sposano. Ti buscherai un colpo da me per questo, [[Fear\|temo]]. Procedi direttamente. |
 | CINNA | Direttamente, vado al funerale di Cesare. |
 | PRIMO PLEBEO | Da amico o da nemico? |
 | CINNA | Da amico. |
@@ -2437,7 +2437,7 @@ The [[Tragedy]] of [[Julius Caesar]]
 | QUARTO PLEBEO | Non importa, si chiama Cinna. Strappategli soltanto il nome dal cuore, e poi mandatelo pure via. |
 | TERZO PLEBEO | A pezzi, a pezzi! |
 | *(didascalia)* | Si avventano su Cinna |
-| TERZO PLEBEO | Venite, tizzoni, olà! Fiaccole! Da [[Brutus|Bruto]], da [[Cassius|Cassio]]!<br>Bruciate tutto! Alcuni alla [[house|casa]] di Decio, e altri a quella di [[Casca]];<br>altri a quella di Ligario. Via, andate! |
+| TERZO PLEBEO | Venite, tizzoni, olà! Fiaccole! Da [[Brutus\|Bruto]], da [[Cassius\|Cassio]]!<br>Bruciate tutto! Alcuni alla [[house\|casa]] di Decio, e altri a quella di [[Casca]];<br>altri a quella di Ligario. Via, andate! |
 | *(didascalia)* | Escono tutti i Plebei, con Cinna |
 
 
@@ -2468,21 +2468,21 @@ The [[Tragedy]] of [[Julius Caesar]]
 
 | Chi parla | Battuta |
 |---|---|
-| *(didascalia)* | Entrano Antonio con delle carte, Ottavio e [[Lepidus|Lepido]] |
+| *(didascalia)* | Entrano Antonio con delle carte, Ottavio e [[Lepidus\|Lepido]] |
 | ANTONIO | Costoro, dunque, moriranno; i loro nomi sono segnati. |
-| OTTAVIO | (a [[Lepidus|Lepido]])<br>Anche vostro fratello deve morire. Acconsentite, [[Lepidus|Lepido]]? |
-| [[Lepidus|LEPIDO]] | Acconsento. |
+| OTTAVIO | (a [[Lepidus\|Lepido]])<br>Anche vostro fratello deve morire. Acconsentite, [[Lepidus\|Lepido]]? |
+| [[Lepidus\|LEPIDO]] | Acconsento. |
 | OTTAVIO | Segnatelo, Antonio. |
-| [[Lepidus|LEPIDO]] | A condizione che Publio non viva,<br>che è figlio di vostra sorella, [[Mark Antony|Marco Antonio]]. |
-| ANTONIO | Non vivrà. Guardate: con un punto lo condanno.<br>Ma voi, [[Lepidus|Lepido]], andate alla [[house|casa]] di Cesare;<br>portate qui il testamento, e stabiliremo<br>come tagliare qualche spesa nei lasciti. |
-| [[Lepidus|LEPIDO]] | Come, vi troverò qui? |
-| OTTAVIO | O qui o in Campidoglio. Esce [[Lepidus|Lepido]] |
+| [[Lepidus\|LEPIDO]] | A condizione che Publio non viva,<br>che è figlio di vostra sorella, [[Mark Antony\|Marco Antonio]]. |
+| ANTONIO | Non vivrà. Guardate: con un punto lo condanno.<br>Ma voi, [[Lepidus\|Lepido]], andate alla [[house\|casa]] di Cesare;<br>portate qui il testamento, e stabiliremo<br>come tagliare qualche spesa nei lasciti. |
+| [[Lepidus\|LEPIDO]] | Come, vi troverò qui? |
+| OTTAVIO | O qui o in Campidoglio. Esce [[Lepidus\|Lepido]] |
 | ANTONIO | Costui è un uomo dappoco, senza merito,<br>buono a esser mandato in commissioni. È giusto<br>che, diviso in tre il mondo, egli stia<br>come uno dei tre a spartirselo? |
 | OTTAVIO | Tale lo giudicaste voi,<br>e prendeste il suo voto su chi dovesse esser segnato a morte<br>nella nostra nera sentenza di proscrizione. |
 | ANTONIO | Ottavio, ho visto più giorni di voi,<br>e benché deponiamo questi onori su quest'uomo<br>per alleggerirci di diversi carichi d'infamia,<br>egli non li porterà che come l'asino porta l'oro:<br>per gemere e sudare sotto il peso,<br>o condotto o spinto dove noi additiamo la via;<br>e portato il nostro tesoro dove vogliamo,<br>gli togliamo allora il carico e lo scacciamo,<br>come l'asino scarico, a scuotere gli orecchi<br>e a brucare sul pascolo comune. |
 | OTTAVIO | Fate come volete;<br>ma è un soldato provato e valoroso. |
-| ANTONIO | Tale è il mio [[Horse|cavallo]], Ottavio, e per questo<br>gli assegno abbondanza di biada.<br>È una creatura che io ammaestro a combattere,<br>a [[Wind|volteggiare]], a fermarsi, a correre diritto,<br>col moto del suo corpo governato dal mio spirito;<br>e in qualche misura [[Lepidus|Lepido]] non è che questo.<br>Va istruito, addestrato, e mandato avanti—<br>uomo di spirito sterile, uno che si nutre<br>di oggetti, artifici e imitazioni,<br>i quali, fuori d'uso e resi stantii da altri,<br>diventano la sua moda. Non parlate di lui<br>se non come d'uno strumento. E ora, Ottavio,<br>ascoltate cose grandi. [[Brutus|Bruto]] e [[Cassius|Cassio]]<br>stanno levando eserciti. Dobbiamo subito far fronte.<br>Perciò sia stretta la nostra alleanza,<br>procurati i migliori amici, ampliate le nostre schiere,<br>e andiamo senz'indugio a sedere in consiglio,<br>su come scoprire al meglio le trame occulte,<br>e come affrontare più sicuri i pericoli palesi. |
-| OTTAVIO | Facciamo così, ché siamo al palo<br>e assaliti tutt'intorno da molti nemici;<br>e certuni che sorridono hanno in cuore, [[Fear|temo]],<br>milioni di malanni. Escono |
+| ANTONIO | Tale è il mio [[Horse\|cavallo]], Ottavio, e per questo<br>gli assegno abbondanza di biada.<br>È una creatura che io ammaestro a combattere,<br>a [[Wind\|volteggiare]], a fermarsi, a correre diritto,<br>col moto del suo corpo governato dal mio spirito;<br>e in qualche misura [[Lepidus\|Lepido]] non è che questo.<br>Va istruito, addestrato, e mandato avanti—<br>uomo di spirito sterile, uno che si nutre<br>di oggetti, artifici e imitazioni,<br>i quali, fuori d'uso e resi stantii da altri,<br>diventano la sua moda. Non parlate di lui<br>se non come d'uno strumento. E ora, Ottavio,<br>ascoltate cose grandi. [[Brutus\|Bruto]] e [[Cassius\|Cassio]]<br>stanno levando eserciti. Dobbiamo subito far fronte.<br>Perciò sia stretta la nostra alleanza,<br>procurati i migliori amici, ampliate le nostre schiere,<br>e andiamo senz'indugio a sedere in consiglio,<br>su come scoprire al meglio le trame occulte,<br>e come affrontare più sicuri i pericoli palesi. |
+| OTTAVIO | Facciamo così, ché siamo al palo<br>e assaliti tutt'intorno da molti nemici;<br>e certuni che sorridono hanno in cuore, [[Fear\|temo]],<br>milioni di malanni. Escono |
 
 
 
@@ -2693,202 +2693,202 @@ The [[Tragedy]] of [[Julius Caesar]]
 
 | Chi parla | Battuta |
 |---|---|
-| *(didascalia)* | Tamburo. Entrano [[Brutus|Bruto]], [[Lucius|Lucio]] e l'esercito. Lucilio, Titinio e Pindaro li incontrano |
-| [[Brutus|BRUTO]] | Alt, olà! |
+| *(didascalia)* | Tamburo. Entrano [[Brutus\|Bruto]], [[Lucius\|Lucio]] e l'esercito. Lucilio, Titinio e Pindaro li incontrano |
+| [[Brutus\|BRUTO]] | Alt, olà! |
 | *(didascalia)* | SOLDATO Passate la parola 'olà', e fermatevi. |
-| [[Brutus|BRUTO]] | Ebbene, Lucilio: è vicino [[Cassius|Cassio]]? |
+| [[Brutus\|BRUTO]] | Ebbene, Lucilio: è vicino [[Cassius\|Cassio]]? |
 | LUCILIO | È a portata, e Pindaro è venuto<br>a portarvi il saluto del suo padrone. |
-| [[Brutus|BRUTO]] | Mi saluta [[Well|bene]]. Il tuo padrone, Pindaro,<br>o per suo mutamento o per cattivi ufficiali,<br>mi ha dato buon motivo di desiderare<br>disfatto ciò che è stato fatto. Ma se è vicino,<br>sarò soddisfatto. |
-| PINDARO | Non [[Doubt|dubito]]<br>che il mio nobile padrone apparirà<br>quale egli è, pieno di riguardo e d'[[Honour|onore]]. |
-| [[Brutus|BRUTO]] | Non è messo in dubbio.—Una parola, Lucilio.<br>[[Brutus|Bruto]] e Lucilio parlano in disparte<br><br>Fammi sapere come ti ha ricevuto. |
+| [[Brutus\|BRUTO]] | Mi saluta [[Well\|bene]]. Il tuo padrone, Pindaro,<br>o per suo mutamento o per cattivi ufficiali,<br>mi ha dato buon motivo di desiderare<br>disfatto ciò che è stato fatto. Ma se è vicino,<br>sarò soddisfatto. |
+| PINDARO | Non [[Doubt\|dubito]]<br>che il mio nobile padrone apparirà<br>quale egli è, pieno di riguardo e d'[[Honour\|onore]]. |
+| [[Brutus\|BRUTO]] | Non è messo in dubbio.—Una parola, Lucilio.<br>[[Brutus\|Bruto]] e Lucilio parlano in disparte<br><br>Fammi sapere come ti ha ricevuto. |
 | LUCILIO | Con cortesia e con rispetto a sufficienza,<br>ma non con quelle prove familiari,<br>né con quel colloquio libero e amichevole<br>ch'egli usava un tempo. |
-| [[Brutus|BRUTO]] | Hai descritto<br>un amico ardente che si raffredda. Nota sempre, Lucilio:<br>quando l'[[Love|amore]] comincia a languire e a [[Decay|decadere]]<br>ricorre a una cerimonia forzata.<br>Non vi sono artifici nella [[Faith|fede]] schietta e semplice;<br>ma gli uomini vuoti, come cavalli focosi alla partenza,<br>fanno bella mostra e promessa del loro ardore;<br>Marcia sommessa dentro<br>ma quando dovrebbero sopportare lo sprone sanguinoso,<br>abbassano la criniera e, come ronzini ingannevoli,<br>crollano alla prova. Viene avanti il suo esercito? |
-| LUCILIO | Intendono acquartierarsi questa [[Night|notte]] a Sardi.<br>La maggior parte, e tutta la [[Horse|cavalleria]],<br>è giunta con [[Cassius|Cassio]]. |
-| *(didascalia)* | Entra [[Cassius|Cassio]] con le sue truppe |
-| [[Brutus|BRUTO]] | Ascolta, è arrivato.<br>Marciate piano incontro a lui.<br>Gli eserciti marciano |
-| [[Cassius|CASSIO]] | Alt, olà! |
-| [[Brutus|BRUTO]] | Alt, olà! Passate la parola. |
+| [[Brutus\|BRUTO]] | Hai descritto<br>un amico ardente che si raffredda. Nota sempre, Lucilio:<br>quando l'[[Love\|amore]] comincia a languire e a [[Decay\|decadere]]<br>ricorre a una cerimonia forzata.<br>Non vi sono artifici nella [[Faith\|fede]] schietta e semplice;<br>ma gli uomini vuoti, come cavalli focosi alla partenza,<br>fanno bella mostra e promessa del loro ardore;<br>Marcia sommessa dentro<br>ma quando dovrebbero sopportare lo sprone sanguinoso,<br>abbassano la criniera e, come ronzini ingannevoli,<br>crollano alla prova. Viene avanti il suo esercito? |
+| LUCILIO | Intendono acquartierarsi questa [[Night\|notte]] a Sardi.<br>La maggior parte, e tutta la [[Horse\|cavalleria]],<br>è giunta con [[Cassius\|Cassio]]. |
+| *(didascalia)* | Entra [[Cassius\|Cassio]] con le sue truppe |
+| [[Brutus\|BRUTO]] | Ascolta, è arrivato.<br>Marciate piano incontro a lui.<br>Gli eserciti marciano |
+| [[Cassius\|CASSIO]] | Alt, olà! |
+| [[Brutus\|BRUTO]] | Alt, olà! Passate la parola. |
 | *(didascalia)* | PRIMO SOLDATO Alt! |
 | *(didascalia)* | secondo SOLDATO Alt! |
 | *(didascalia)* | TERZO SOLDATO Alt! |
-| [[Cassius|CASSIO]] | Nobilissimo fratello, mi avete fatto torto. |
-| [[Brutus|BRUTO]] | Giudicatemi, o dèi: faccio io torto ai miei nemici?<br>E se non a loro, come potrei far torto a un fratello? |
-| [[Cassius|CASSIO]] | [[Brutus|Bruto]], questo vostro contegno severo nasconde torti,<br>e quando li commettete— |
-| [[Brutus|BRUTO]] | [[Cassius|Cassio]], calmatevi.<br>Esponete piano i vostri rancori. Vi conosco [[Well|bene]].<br>Davanti agli occhi di entrambi i nostri eserciti,<br>che da noi non dovrebbero cogliere altro che [[Love|amore]],<br>non litighiamo. Fate che si allontanino,<br>poi nella mia tenda, [[Cassius|Cassio]], sfogate i vostri rancori,<br>e io vi darò ascolto. |
-| [[Cassius|CASSIO]] | Pindaro,<br>di' ai nostri comandanti di condurre le loro truppe<br>un po' lontano da questo terreno. |
-| [[Brutus|BRUTO]] | Lucilio, fate voi altrettanto; e nessuno<br>venga alla nostra tenda finché non avremo finito il colloquio.<br>[[Lucius|Lucio]] e Titinio custodiscano la nostra porta. |
-| *(didascalia)* | Escono gli eserciti [[Brutus|Bruto]] e [[Cassius|Cassio]] restano, con Titinio e [[Lucius|Lucio]] a guardia della porta |
-| [[Cassius|CASSIO]] | Che mi abbiate fatto torto appare da questo:<br>avete condannato e bollato [[Lucius|Lucio]] Pella<br>per aver preso qui doni dai Sardiani,<br>e in ciò le mie lettere che intercedevano per lui,<br>perché conoscevo l'uomo, furono messe da parte. |
-| [[Brutus|BRUTO]] | Faceste torto a voi stesso a scrivere in tal caso. |
-| [[Cassius|CASSIO]] | In un [[Time|tempo]] come questo non conviene<br>che ogni minima colpa abbia il suo commento. |
-| [[Brutus|BRUTO]] | Lasciate che vi dica, [[Cassius|Cassio]], che voi stesso<br>siete molto biasimato d'aver la mano che prude,<br>di vendere e mercanteggiare i vostri uffici per oro<br>a gente immeritevole. |
-| [[Cassius|CASSIO]] | Io, la mano che prude?<br>Sapete d'essere [[Brutus|Bruto]] voi che dite questo, 65<br>o, per gli dèi, questo discorso sarebbe altrimenti l'ultimo. |
-| [[Brutus|BRUTO]] | Il nome di [[Cassius|Cassio]] fa onore a questa corruzione,<br>e il castigo perciò nasconde il capo. |
-| [[Cassius|CASSIO]] | Castigo? |
-| [[Brutus|BRUTO]] | Ricordate marzo, le idi di marzo, ricordate.<br>Non sanguinò il grande Giulio per amor di giustizia?<br>Quale [[Villain|scellerato]] toccò il suo [[Body|corpo]], che colpisse<br>e non per giustizia? Come, dovrà uno di noi,<br>che colpimmo il primo uomo di tutto questo mondo<br>solo perché proteggeva i ladri, dovremo ora<br>contaminare le nostre dita con vili doni,<br>e vendere il vasto spazio dei nostri grandi onori<br>per tanta spazzatura quanta se ne può stringere così?<br>Preferirei essere un cane e abbaiare alla [[Moon|luna]]<br>che un tale Romano. |
-| [[Cassius|CASSIO]] | [[Brutus|Bruto]], non abbaiate a me.<br>Non lo sopporterò. Dimenticate voi stesso<br>nel volermi porre limiti. Io sono un soldato, io,<br>più vecchio nella pratica, più capace di voi<br>di stabilire condizioni. |
-| [[Brutus|BRUTO]] | Andiamo, non lo siete, [[Cassius|Cassio]]. |
-| [[Cassius|CASSIO]] | Lo sono. |
-| [[Brutus|BRUTO]] | Dico che non lo siete. |
-| [[Cassius|CASSIO]] | Non incalzatemi oltre, dimenticherò me stesso.<br>Badate alla vostra salute. Non tentatemi più. |
-| [[Brutus|BRUTO]] | Via, uomo dappoco. |
-| [[Cassius|CASSIO]] | È possibile? |
-| [[Brutus|BRUTO]] | Uditemi, ché voglio parlare.<br>Devo cedere il passo alla vostra collera avventata?<br>Devo spaventarmi quando un pazzo mi guarda torvo? |
-| [[Cassius|CASSIO]] | O dèi, o dèi! Devo sopportare tutto questo? |
-| [[Brutus|BRUTO]] | Tutto questo? Sì, e di più. Rodetevi finché il vostro cuore superbo scoppi.<br>Andate a mostrare ai vostri schiavi quanto siete collerico,<br>e fate tremare i vostri servi. Devo io scansarmi?<br>Devo farvi riverenza? Devo star ritto e curvarmi<br>sotto il vostro [[Humour|umore]] stizzoso? Per gli dèi,<br>digerirete voi il veleno della vostra bile,<br>foss'anche che vi spacchi. Ché da questo giorno in poi<br>vi userò per mio spasso, sì, per mia risata,<br>quando sarete come una vespa. |
-| [[Cassius|CASSIO]] | Siamo giunti a questo? |
-| [[Brutus|BRUTO]] | Dite d'essere un soldato migliore.<br>Che si veda, rendete vero il vostro vanto,<br>e mi farà molto [[Well|bene]]. Per parte mia,<br>sarò lieto d'imparare da uomini nobili. |
-| [[Cassius|CASSIO]] | Mi fate torto in ogni modo, mi fate torto, [[Brutus|Bruto]].<br>Dissi un soldato più anziano, non migliore.<br>Dissi forse migliore? |
-| [[Brutus|BRUTO]] | Se lo diceste, non m'importa. |
-| [[Cassius|CASSIO]] | Quando Cesare viveva, non avrebbe osato irritarmi così. |
-| [[Brutus|BRUTO]] | Piano, piano; voi non avreste osato tentarlo così. |
-| [[Cassius|CASSIO]] | Non avrei osato? |
-| [[Brutus|BRUTO]] | No. |
-| [[Cassius|CASSIO]] | Come, non avrei osato tentarlo? |
-| [[Brutus|BRUTO]] | Per la vostra vita, non avreste osato. |
-| [[Cassius|CASSIO]] | Non presumete troppo del mio [[Love|affetto]].<br>Potrei fare ciò di cui mi pentirei. |
-| [[Brutus|BRUTO]] | Avete già fatto ciò di cui dovreste pentirvi.<br>Non v'è terrore, [[Cassius|Cassio]], nelle vostre minacce,<br>ché sono armato così forte d'onestà<br>che mi passano accanto come [[Wind|vento]] ozioso,<br>cui non bado. Mandai da voi<br>a chiedere certe somme d'oro, che mi negaste;<br>ché io non so raccogliere denaro con mezzi vili.<br>Per il cielo, preferirei coniare il mio cuore<br>e stillare il mio [[Blood|sangue]] in dracme, che strappare<br>dalle dure mani dei contadini il loro vile denaro<br>con qualche traverso raggiro. Mandai<br>da voi per dell'oro con cui pagare le mie legioni,<br>e voi me lo negaste. Fu questo un agire da [[Cassius|Cassio]]?<br>Avrei io risposto così a Caio [[Cassius|Cassio]]?<br>Quando Marco [[Brutus|Bruto]] diverrà tanto avido<br>da chiudere ai suoi amici tali gettoni da furfante,<br>siate pronti, o dèi, con tutti i vostri fulmini;<br>fatelo a pezzi. |
-| [[Cassius|CASSIO]] | Non ve lo negai. |
-| [[Brutus|BRUTO]] | Sì. |
-| [[Cassius|CASSIO]] | Non lo feci. Non era che uno [[Fool|sciocco]]<br>colui che riportò la mia risposta. [[Brutus|Bruto]] mi ha spaccato il<br>cuore.<br>Un amico dovrebbe sopportare le debolezze dell'amico,<br>ma [[Brutus|Bruto]] fa le mie più grandi di quel che sono. |
-| [[Brutus|BRUTO]] | Non lo faccio, finché non le esercitate su di me. |
-| [[Cassius|CASSIO]] | Non mi [[Love|amate]]. |
-| [[Brutus|BRUTO]] | Non mi piacciono i vostri difetti. |
-| [[Cassius|CASSIO]] | Un occhio amico non vedrebbe mai tali difetti. |
-| [[Brutus|BRUTO]] | Quello d'un adulatore no, anche se apparissero<br>enormi come l'alto Olimpo. |
-| [[Cassius|CASSIO]] | Venite, Antonio e giovane Ottavio, venite,<br>[[Revenge|vendicatevi]] su [[Cassius|Cassio]] [[Alone|solo]];<br>ché [[Cassius|Cassio]] è stanco del mondo,<br>odiato da chi ama, sfidato dal suo fratello,<br>ripreso come un servo; tutti i suoi difetti osservati,<br>scritti in un taccuino, imparati e ripetuti a memoria,<br>per gettarmeli in faccia. Oh, potrei piangere<br>l'anima fuori dagli occhi! Ecco il mio pugnale,<br>e qui il mio petto nudo; dentro, un cuore<br>più caro della miniera di Plutone, più ricco dell'oro.<br>Se sei un Romano, cavalo fuori.<br>Io che ti negai l'oro ti darò il cuore.<br>Colpisci come colpisti Cesare; ché so<br>che quando più l'odiavi, l'amavi<br>più<br>di quanto mai amasti [[Cassius|Cassio]]. |
-| [[Brutus|BRUTO]] | Rinfoderate il pugnale.<br>Adiratevi quando volete; avrà libero corso.<br>Fate ciò che volete; il disonore sarà [[Humour|umore]].<br>O [[Cassius|Cassio]], siete aggiogato a un [[Lamb|agnello]]<br>che porta l'ira come la selce porta il [[Fire|fuoco]],<br>e che, molto percosso, mostra una scintilla frettolosa<br>e subito è freddo di nuovo. |
-| [[Cassius|CASSIO]] | È vissuto [[Cassius|Cassio]]<br>per essere solo spasso e riso al suo [[Brutus|Bruto]],<br>quando il dolore e il [[Blood|sangue]] mal temprato lo tormentano? |
-| [[Brutus|BRUTO]] | Quando dissi ciò, anch'io ero mal temprato. |
-| [[Cassius|CASSIO]] | Lo confessate? Datemi la mano. |
+| [[Cassius\|CASSIO]] | Nobilissimo fratello, mi avete fatto torto. |
+| [[Brutus\|BRUTO]] | Giudicatemi, o dèi: faccio io torto ai miei nemici?<br>E se non a loro, come potrei far torto a un fratello? |
+| [[Cassius\|CASSIO]] | [[Brutus\|Bruto]], questo vostro contegno severo nasconde torti,<br>e quando li commettete— |
+| [[Brutus\|BRUTO]] | [[Cassius\|Cassio]], calmatevi.<br>Esponete piano i vostri rancori. Vi conosco [[Well\|bene]].<br>Davanti agli occhi di entrambi i nostri eserciti,<br>che da noi non dovrebbero cogliere altro che [[Love\|amore]],<br>non litighiamo. Fate che si allontanino,<br>poi nella mia tenda, [[Cassius\|Cassio]], sfogate i vostri rancori,<br>e io vi darò ascolto. |
+| [[Cassius\|CASSIO]] | Pindaro,<br>di' ai nostri comandanti di condurre le loro truppe<br>un po' lontano da questo terreno. |
+| [[Brutus\|BRUTO]] | Lucilio, fate voi altrettanto; e nessuno<br>venga alla nostra tenda finché non avremo finito il colloquio.<br>[[Lucius\|Lucio]] e Titinio custodiscano la nostra porta. |
+| *(didascalia)* | Escono gli eserciti [[Brutus\|Bruto]] e [[Cassius\|Cassio]] restano, con Titinio e [[Lucius\|Lucio]] a guardia della porta |
+| [[Cassius\|CASSIO]] | Che mi abbiate fatto torto appare da questo:<br>avete condannato e bollato [[Lucius\|Lucio]] Pella<br>per aver preso qui doni dai Sardiani,<br>e in ciò le mie lettere che intercedevano per lui,<br>perché conoscevo l'uomo, furono messe da parte. |
+| [[Brutus\|BRUTO]] | Faceste torto a voi stesso a scrivere in tal caso. |
+| [[Cassius\|CASSIO]] | In un [[Time\|tempo]] come questo non conviene<br>che ogni minima colpa abbia il suo commento. |
+| [[Brutus\|BRUTO]] | Lasciate che vi dica, [[Cassius\|Cassio]], che voi stesso<br>siete molto biasimato d'aver la mano che prude,<br>di vendere e mercanteggiare i vostri uffici per oro<br>a gente immeritevole. |
+| [[Cassius\|CASSIO]] | Io, la mano che prude?<br>Sapete d'essere [[Brutus\|Bruto]] voi che dite questo, 65<br>o, per gli dèi, questo discorso sarebbe altrimenti l'ultimo. |
+| [[Brutus\|BRUTO]] | Il nome di [[Cassius\|Cassio]] fa onore a questa corruzione,<br>e il castigo perciò nasconde il capo. |
+| [[Cassius\|CASSIO]] | Castigo? |
+| [[Brutus\|BRUTO]] | Ricordate marzo, le idi di marzo, ricordate.<br>Non sanguinò il grande Giulio per amor di giustizia?<br>Quale [[Villain\|scellerato]] toccò il suo [[Body\|corpo]], che colpisse<br>e non per giustizia? Come, dovrà uno di noi,<br>che colpimmo il primo uomo di tutto questo mondo<br>solo perché proteggeva i ladri, dovremo ora<br>contaminare le nostre dita con vili doni,<br>e vendere il vasto spazio dei nostri grandi onori<br>per tanta spazzatura quanta se ne può stringere così?<br>Preferirei essere un cane e abbaiare alla [[Moon\|luna]]<br>che un tale Romano. |
+| [[Cassius\|CASSIO]] | [[Brutus\|Bruto]], non abbaiate a me.<br>Non lo sopporterò. Dimenticate voi stesso<br>nel volermi porre limiti. Io sono un soldato, io,<br>più vecchio nella pratica, più capace di voi<br>di stabilire condizioni. |
+| [[Brutus\|BRUTO]] | Andiamo, non lo siete, [[Cassius\|Cassio]]. |
+| [[Cassius\|CASSIO]] | Lo sono. |
+| [[Brutus\|BRUTO]] | Dico che non lo siete. |
+| [[Cassius\|CASSIO]] | Non incalzatemi oltre, dimenticherò me stesso.<br>Badate alla vostra salute. Non tentatemi più. |
+| [[Brutus\|BRUTO]] | Via, uomo dappoco. |
+| [[Cassius\|CASSIO]] | È possibile? |
+| [[Brutus\|BRUTO]] | Uditemi, ché voglio parlare.<br>Devo cedere il passo alla vostra collera avventata?<br>Devo spaventarmi quando un pazzo mi guarda torvo? |
+| [[Cassius\|CASSIO]] | O dèi, o dèi! Devo sopportare tutto questo? |
+| [[Brutus\|BRUTO]] | Tutto questo? Sì, e di più. Rodetevi finché il vostro cuore superbo scoppi.<br>Andate a mostrare ai vostri schiavi quanto siete collerico,<br>e fate tremare i vostri servi. Devo io scansarmi?<br>Devo farvi riverenza? Devo star ritto e curvarmi<br>sotto il vostro [[Humour\|umore]] stizzoso? Per gli dèi,<br>digerirete voi il veleno della vostra bile,<br>foss'anche che vi spacchi. Ché da questo giorno in poi<br>vi userò per mio spasso, sì, per mia risata,<br>quando sarete come una vespa. |
+| [[Cassius\|CASSIO]] | Siamo giunti a questo? |
+| [[Brutus\|BRUTO]] | Dite d'essere un soldato migliore.<br>Che si veda, rendete vero il vostro vanto,<br>e mi farà molto [[Well\|bene]]. Per parte mia,<br>sarò lieto d'imparare da uomini nobili. |
+| [[Cassius\|CASSIO]] | Mi fate torto in ogni modo, mi fate torto, [[Brutus\|Bruto]].<br>Dissi un soldato più anziano, non migliore.<br>Dissi forse migliore? |
+| [[Brutus\|BRUTO]] | Se lo diceste, non m'importa. |
+| [[Cassius\|CASSIO]] | Quando Cesare viveva, non avrebbe osato irritarmi così. |
+| [[Brutus\|BRUTO]] | Piano, piano; voi non avreste osato tentarlo così. |
+| [[Cassius\|CASSIO]] | Non avrei osato? |
+| [[Brutus\|BRUTO]] | No. |
+| [[Cassius\|CASSIO]] | Come, non avrei osato tentarlo? |
+| [[Brutus\|BRUTO]] | Per la vostra vita, non avreste osato. |
+| [[Cassius\|CASSIO]] | Non presumete troppo del mio [[Love\|affetto]].<br>Potrei fare ciò di cui mi pentirei. |
+| [[Brutus\|BRUTO]] | Avete già fatto ciò di cui dovreste pentirvi.<br>Non v'è terrore, [[Cassius\|Cassio]], nelle vostre minacce,<br>ché sono armato così forte d'onestà<br>che mi passano accanto come [[Wind\|vento]] ozioso,<br>cui non bado. Mandai da voi<br>a chiedere certe somme d'oro, che mi negaste;<br>ché io non so raccogliere denaro con mezzi vili.<br>Per il cielo, preferirei coniare il mio cuore<br>e stillare il mio [[Blood\|sangue]] in dracme, che strappare<br>dalle dure mani dei contadini il loro vile denaro<br>con qualche traverso raggiro. Mandai<br>da voi per dell'oro con cui pagare le mie legioni,<br>e voi me lo negaste. Fu questo un agire da [[Cassius\|Cassio]]?<br>Avrei io risposto così a Caio [[Cassius\|Cassio]]?<br>Quando Marco [[Brutus\|Bruto]] diverrà tanto avido<br>da chiudere ai suoi amici tali gettoni da furfante,<br>siate pronti, o dèi, con tutti i vostri fulmini;<br>fatelo a pezzi. |
+| [[Cassius\|CASSIO]] | Non ve lo negai. |
+| [[Brutus\|BRUTO]] | Sì. |
+| [[Cassius\|CASSIO]] | Non lo feci. Non era che uno [[Fool\|sciocco]]<br>colui che riportò la mia risposta. [[Brutus\|Bruto]] mi ha spaccato il<br>cuore.<br>Un amico dovrebbe sopportare le debolezze dell'amico,<br>ma [[Brutus\|Bruto]] fa le mie più grandi di quel che sono. |
+| [[Brutus\|BRUTO]] | Non lo faccio, finché non le esercitate su di me. |
+| [[Cassius\|CASSIO]] | Non mi [[Love\|amate]]. |
+| [[Brutus\|BRUTO]] | Non mi piacciono i vostri difetti. |
+| [[Cassius\|CASSIO]] | Un occhio amico non vedrebbe mai tali difetti. |
+| [[Brutus\|BRUTO]] | Quello d'un adulatore no, anche se apparissero<br>enormi come l'alto Olimpo. |
+| [[Cassius\|CASSIO]] | Venite, Antonio e giovane Ottavio, venite,<br>[[Revenge\|vendicatevi]] su [[Cassius\|Cassio]] [[Alone\|solo]];<br>ché [[Cassius\|Cassio]] è stanco del mondo,<br>odiato da chi ama, sfidato dal suo fratello,<br>ripreso come un servo; tutti i suoi difetti osservati,<br>scritti in un taccuino, imparati e ripetuti a memoria,<br>per gettarmeli in faccia. Oh, potrei piangere<br>l'anima fuori dagli occhi! Ecco il mio pugnale,<br>e qui il mio petto nudo; dentro, un cuore<br>più caro della miniera di Plutone, più ricco dell'oro.<br>Se sei un Romano, cavalo fuori.<br>Io che ti negai l'oro ti darò il cuore.<br>Colpisci come colpisti Cesare; ché so<br>che quando più l'odiavi, l'amavi<br>più<br>di quanto mai amasti [[Cassius\|Cassio]]. |
+| [[Brutus\|BRUTO]] | Rinfoderate il pugnale.<br>Adiratevi quando volete; avrà libero corso.<br>Fate ciò che volete; il disonore sarà [[Humour\|umore]].<br>O [[Cassius\|Cassio]], siete aggiogato a un [[Lamb\|agnello]]<br>che porta l'ira come la selce porta il [[Fire\|fuoco]],<br>e che, molto percosso, mostra una scintilla frettolosa<br>e subito è freddo di nuovo. |
+| [[Cassius\|CASSIO]] | È vissuto [[Cassius\|Cassio]]<br>per essere solo spasso e riso al suo [[Brutus\|Bruto]],<br>quando il dolore e il [[Blood\|sangue]] mal temprato lo tormentano? |
+| [[Brutus\|BRUTO]] | Quando dissi ciò, anch'io ero mal temprato. |
+| [[Cassius\|CASSIO]] | Lo confessate? Datemi la mano. |
 | BRUTO | E anche il mio cuore. |
 | *(didascalia)* | Si abbracciano |
-| [[Cassius|CASSIO]] | O [[Brutus|Bruto]]! |
-| [[Brutus|BRUTO]] | Che c'è? |
-| [[Cassius|CASSIO]] | Non avete abbastanza [[Love|affetto]] da sopportarmi<br>quando quell'[[Humour|umore]] avventato che mi diede mia madre<br>mi rende smemorato? |
-| [[Brutus|BRUTO]] | Sì, [[Cassius|Cassio]], e d'ora in poi,<br>quando sarete troppo veemente col vostro [[Brutus|Bruto]],<br>egli penserà che sia vostra madre a sgridare, e vi lascerà fare. |
+| [[Cassius\|CASSIO]] | O [[Brutus\|Bruto]]! |
+| [[Brutus\|BRUTO]] | Che c'è? |
+| [[Cassius\|CASSIO]] | Non avete abbastanza [[Love\|affetto]] da sopportarmi<br>quando quell'[[Humour\|umore]] avventato che mi diede mia madre<br>mi rende smemorato? |
+| [[Brutus\|BRUTO]] | Sì, [[Cassius\|Cassio]], e d'ora in poi,<br>quando sarete troppo veemente col vostro [[Brutus\|Bruto]],<br>egli penserà che sia vostra madre a sgridare, e vi lascerà fare. |
 | *(didascalia)* | Entrano Lucilio e un Poeta |
-| POETA | Lasciatemi entrare a vedere i generali.<br>C'è del rancore fra loro; non conviene<br>che restino [[Alone|soli]]. |
+| POETA | Lasciatemi entrare a vedere i generali.<br>C'è del rancore fra loro; non conviene<br>che restino [[Alone\|soli]]. |
 | LUCILIO | Non andrete da loro. |
-| POETA | Nulla se non la [[Death|morte]] mi fermerà. |
-| [[Cassius|CASSIO]] | Ebbene! Che succede? |
-| POETA | Vergogna, generali, che intendete fare?<br>[[Love|Amatevi]] e siate amici, come due tali uomini dovrebbero,<br>ché ho visto più anni di voi, ne son certo. |
-| [[Cassius|CASSIO]] | Ah, ah! Come rima vilmente questo cinico! |
-| [[Brutus|BRUTO]] | (al Poeta)<br>Andatevene, messere; sfrontato, via di qui! |
-| [[Cassius|CASSIO]] | Sopportatelo, [[Brutus|Bruto]], è il suo modo. |
-| [[Brutus|BRUTO]] | Riconoscerò il suo [[Humour|umore]] quando egli conoscerà il suo [[Time|tempo]].<br>Che se ne fanno le guerre di questi buffoni rimatori?<br>(Al Poeta) Compare, via! |
-| [[Cassius|CASSIO]] | (al Poeta) Via, via, andatevene! |
+| POETA | Nulla se non la [[Death\|morte]] mi fermerà. |
+| [[Cassius\|CASSIO]] | Ebbene! Che succede? |
+| POETA | Vergogna, generali, che intendete fare?<br>[[Love\|Amatevi]] e siate amici, come due tali uomini dovrebbero,<br>ché ho visto più anni di voi, ne son certo. |
+| [[Cassius\|CASSIO]] | Ah, ah! Come rima vilmente questo cinico! |
+| [[Brutus\|BRUTO]] | (al Poeta)<br>Andatevene, messere; sfrontato, via di qui! |
+| [[Cassius\|CASSIO]] | Sopportatelo, [[Brutus\|Bruto]], è il suo modo. |
+| [[Brutus\|BRUTO]] | Riconoscerò il suo [[Humour\|umore]] quando egli conoscerà il suo [[Time\|tempo]].<br>Che se ne fanno le guerre di questi buffoni rimatori?<br>(Al Poeta) Compare, via! |
+| [[Cassius\|CASSIO]] | (al Poeta) Via, via, andatevene! |
 | *(didascalia)* | Esce il Poeta |
-| [[Brutus|BRUTO]] | Lucilio e Titinio, dite ai comandanti<br>di prepararsi ad alloggiare le compagnie stanotte. |
-| [[Cassius|CASSIO]] | E venite voi stessi, e portate Messala con voi<br>subito da noi. |
+| [[Brutus\|BRUTO]] | Lucilio e Titinio, dite ai comandanti<br>di prepararsi ad alloggiare le compagnie stanotte. |
+| [[Cassius\|CASSIO]] | E venite voi stessi, e portate Messala con voi<br>subito da noi. |
 | *(didascalia)* | Escono Lucilio e Titinio |
-| [[Brutus|BRUTO]] | [[Lucius|Lucio]], una coppa di vino. |
-| *(didascalia)* | Esce [[Lucius|Lucio]] |
-| [[Cassius|CASSIO]] | Non pensavo che poteste adirarvi tanto. |
-| [[Brutus|BRUTO]] | O [[Cassius|Cassio]], sono malato di molti dolori. |
-| [[Cassius|CASSIO]] | Della vostra [[philosophy|filosofia]] non fate uso,<br>se cedete ai mali accidentali. |
-| [[Brutus|BRUTO]] | Nessuno sopporta meglio il dolore. [[Portia|Porzia]] è morta. |
-| [[Cassius|CASSIO]] | Ah! [[Portia|Porzia]]? |
-| [[Brutus|BRUTO]] | È morta. |
-| [[Cassius|CASSIO]] | Come sfuggii alla morte, contraddicendovi così?<br>O perdita insopportabile e straziante!<br>Di quale male? |
-| [[Brutus|BRUTO]] | L'impazienza della mia assenza,<br>e il dolore che il giovane Ottavio con [[Mark Antony|Marco Antonio]]<br>si siano fatti tanto forti—ché con la sua [[Death|morte]]<br>giunse quella notizia. Con questo, cadde nel delirio,<br>e, assenti le ancelle, inghiottì il [[Fire|fuoco]]. |
-| [[Cassius|CASSIO]] | E morì così? |
-| [[Brutus|BRUTO]] | Proprio così. |
-| [[Cassius|CASSIO]] | O dèi immortali! |
-| *(didascalia)* | Entra [[Lucius|Lucio]], con vino e candele |
-| [[Brutus|BRUTO]] | Non parlate più di lei. (A [[Lucius|Lucio]]) Dammi una coppa di<br>vino.<br>(A [[Cassius|Cassio]]) In questo seppellisco ogni malanimo, [[Cassius|Cassio]].<br>Beve |
-| [[Cassius|CASSIO]] | Il mio cuore ha sete di quel nobile brindisi.<br>Versa, [[Lucius|Lucio]], finché il vino trabocchi dalla coppa.<br>Non posso mai bere troppo dell'[[Love|amore]] di [[Brutus|Bruto]].<br>Beve. |
-| *(didascalia)* | Esce [[Lucius|Lucio]] Entrano Titinio e Messala |
-| [[Brutus|BRUTO]] | Entrate, Titinio; benvenuto, buon Messala.<br>Ora sediamo stretti intorno a questa candela,<br>e discutiamo le nostre necessità. |
-| [[Cassius|CASSIO]] | (a parte)<br>[[Portia|Porzia]], sei tu partita? |
-| [[Brutus|BRUTO]] | Basta, ve ne prego. |
+| [[Brutus\|BRUTO]] | [[Lucius\|Lucio]], una coppa di vino. |
+| *(didascalia)* | Esce [[Lucius\|Lucio]] |
+| [[Cassius\|CASSIO]] | Non pensavo che poteste adirarvi tanto. |
+| [[Brutus\|BRUTO]] | O [[Cassius\|Cassio]], sono malato di molti dolori. |
+| [[Cassius\|CASSIO]] | Della vostra [[philosophy\|filosofia]] non fate uso,<br>se cedete ai mali accidentali. |
+| [[Brutus\|BRUTO]] | Nessuno sopporta meglio il dolore. [[Portia\|Porzia]] è morta. |
+| [[Cassius\|CASSIO]] | Ah! [[Portia\|Porzia]]? |
+| [[Brutus\|BRUTO]] | È morta. |
+| [[Cassius\|CASSIO]] | Come sfuggii alla morte, contraddicendovi così?<br>O perdita insopportabile e straziante!<br>Di quale male? |
+| [[Brutus\|BRUTO]] | L'impazienza della mia assenza,<br>e il dolore che il giovane Ottavio con [[Mark Antony\|Marco Antonio]]<br>si siano fatti tanto forti—ché con la sua [[Death\|morte]]<br>giunse quella notizia. Con questo, cadde nel delirio,<br>e, assenti le ancelle, inghiottì il [[Fire\|fuoco]]. |
+| [[Cassius\|CASSIO]] | E morì così? |
+| [[Brutus\|BRUTO]] | Proprio così. |
+| [[Cassius\|CASSIO]] | O dèi immortali! |
+| *(didascalia)* | Entra [[Lucius\|Lucio]], con vino e candele |
+| [[Brutus\|BRUTO]] | Non parlate più di lei. (A [[Lucius\|Lucio]]) Dammi una coppa di<br>vino.<br>(A [[Cassius\|Cassio]]) In questo seppellisco ogni malanimo, [[Cassius\|Cassio]].<br>Beve |
+| [[Cassius\|CASSIO]] | Il mio cuore ha sete di quel nobile brindisi.<br>Versa, [[Lucius\|Lucio]], finché il vino trabocchi dalla coppa.<br>Non posso mai bere troppo dell'[[Love\|amore]] di [[Brutus\|Bruto]].<br>Beve. |
+| *(didascalia)* | Esce [[Lucius\|Lucio]] Entrano Titinio e Messala |
+| [[Brutus\|BRUTO]] | Entrate, Titinio; benvenuto, buon Messala.<br>Ora sediamo stretti intorno a questa candela,<br>e discutiamo le nostre necessità. |
+| [[Cassius\|CASSIO]] | (a parte)<br>[[Portia\|Porzia]], sei tu partita? |
+| [[Brutus\|BRUTO]] | Basta, ve ne prego. |
 | *(didascalia)* | Siedono |
-| [[Brutus|BRUTO]] | Messala, ho ricevuto qui lettere<br>che il giovane Ottavio e [[Mark Antony|Marco Antonio]]<br>scendono contro di noi con forze poderose,<br>volgendo la loro spedizione verso Filippi. |
+| [[Brutus\|BRUTO]] | Messala, ho ricevuto qui lettere<br>che il giovane Ottavio e [[Mark Antony\|Marco Antonio]]<br>scendono contro di noi con forze poderose,<br>volgendo la loro spedizione verso Filippi. |
 | MESSALA | Anch'io ho lettere dello stesso tenore. |
-| [[Brutus|BRUTO]] | Con quale aggiunta? |
-| MESSALA | Che per proscrizione e bandi di fuorilegge<br>Ottavio, Antonio e [[Lepidus|Lepido]]<br>hanno messo a [[Death|morte]] cento senatori. |
-| [[Brutus|BRUTO]] | In ciò le nostre lettere non concordano [[Well|bene]].<br>Le mie parlano di settanta senatori morti<br>per le loro proscrizioni, e Cicerone fra questi. |
-| [[Cassius|CASSIO]] | Cicerone fra questi? |
-| MESSALA | Sì, Cicerone è morto,<br>e per quell'ordine di proscrizione.<br>(A [[Brutus|Bruto]])<br>Aveste lettere da vostra moglie, mio signore? |
-| [[Brutus|BRUTO]] | No, Messala. |
+| [[Brutus\|BRUTO]] | Con quale aggiunta? |
+| MESSALA | Che per proscrizione e bandi di fuorilegge<br>Ottavio, Antonio e [[Lepidus\|Lepido]]<br>hanno messo a [[Death\|morte]] cento senatori. |
+| [[Brutus\|BRUTO]] | In ciò le nostre lettere non concordano [[Well\|bene]].<br>Le mie parlano di settanta senatori morti<br>per le loro proscrizioni, e Cicerone fra questi. |
+| [[Cassius\|CASSIO]] | Cicerone fra questi? |
+| MESSALA | Sì, Cicerone è morto,<br>e per quell'ordine di proscrizione.<br>(A [[Brutus\|Bruto]])<br>Aveste lettere da vostra moglie, mio signore? |
+| [[Brutus\|BRUTO]] | No, Messala. |
 | MESSALA | Né nulla di lei scritto nelle vostre lettere? |
-| [[Brutus|BRUTO]] | Nulla, Messala. |
+| [[Brutus\|BRUTO]] | Nulla, Messala. |
 | MESSALA | Ciò mi pare strano. |
-| [[Brutus|BRUTO]] | Perché domandate? Sapete qualcosa di lei nelle vostre? |
+| [[Brutus\|BRUTO]] | Perché domandate? Sapete qualcosa di lei nelle vostre? |
 | MESSALA | No, mio signore. |
-| [[Brutus|BRUTO]] | Ora, come siete Romano, ditemi il vero. |
-| MESSALA | Allora da Romano sopportate la [[Truth|verità]] che dico;<br>ella è certamente morta, e in strano modo. |
-| [[Brutus|BRUTO]] | Ebbene, addio, [[Portia|Porzia]]. Dobbiamo morire, Messala.<br>Meditando che ella doveva morire una volta,<br>ho la pazienza di sopportarlo ora. |
+| [[Brutus\|BRUTO]] | Ora, come siete Romano, ditemi il vero. |
+| MESSALA | Allora da Romano sopportate la [[Truth\|verità]] che dico;<br>ella è certamente morta, e in strano modo. |
+| [[Brutus\|BRUTO]] | Ebbene, addio, [[Portia\|Porzia]]. Dobbiamo morire, Messala.<br>Meditando che ella doveva morire una volta,<br>ho la pazienza di sopportarlo ora. |
 | MESSALA | Così i grandi uomini devono sopportare le grandi perdite. |
-| [[Cassius|CASSIO]] | Io ne ho altrettanto nella dottrina quanto voi,<br>eppure la mia [[Nature|natura]] non saprebbe sopportarlo così. |
-| [[Brutus|BRUTO]] | [[Well|Ebbene]], all'opera che ci resta. Che ne pensate<br>di marciare subito su Filippi? |
-| [[Cassius|CASSIO]] | Non lo credo buono. |
-| [[Brutus|BRUTO]] | La vostra ragione? |
-| [[Cassius|CASSIO]] | Eccola:<br>è meglio che il nemico cerchi noi;<br>così consumerà i suoi mezzi, stancherà i suoi soldati,<br>facendo danno a se stesso; mentre noi, restando fermi,<br>siamo pieni di riposo, di difesa e d'agilità. |
-| [[Brutus|BRUTO]] | Le buone ragioni devono per forza cedere alle migliori.<br>Il popolo fra Filippi e questo terreno<br>non ci sta che in un affetto forzato,<br>ché ci ha lesinato i contributi.<br>Il nemico, marciando attraverso di loro,<br>per mezzo loro accrescerà il suo numero,<br>avanzerà rinfrescato, ingrossato e rincuorato;<br>e di questo vantaggio lo priveremo,<br>se a Filippi lo affronteremo là,<br>con questa gente alle nostre spalle. |
-| [[Cassius|CASSIO]] | Uditemi, buon fratello. |
-| [[Brutus|BRUTO]] | Col vostro permesso. Dovete notare inoltre<br>che abbiamo spremuto il massimo dai nostri amici;<br>le nostre legioni sono al colmo, la nostra causa è matura.<br>Il nemico cresce ogni giorno;<br>noi, al culmine, siamo prossimi a declinare.<br>V'è una marea nelle cose degli uomini<br>che, presa al flusso, conduce alla fortuna;<br>trascurata, tutto il viaggio della loro vita<br>resta chiuso fra secche e miserie.<br>Su un tal mare pieno siamo ora a galla,<br>e dobbiamo prendere la corrente quando è propizia,<br>o perdere le nostre imprese. |
-| [[Cassius|CASSIO]] | Allora, sia fatta la vostra volontà, avanti.<br>Andremo anche noi, e li affronteremo a Filippi. |
-| [[Brutus|BRUTO]] | Il fondo della [[Night|notte]] è calato sul nostro discorso,<br>e la [[Nature|natura]] deve obbedire alla necessità,<br>che appagheremo con un po' di riposo.<br>Non v'è altro da dire. |
-| [[Cassius|CASSIO]] | Non altro. Buona [[Night|notte]].<br>Domani presto ci leveremo e via. |
-| [[Brutus|BRUTO]] | [[Lucius|Lucio]]. |
-| *(didascalia)* | Entra [[Lucius|Lucio]] |
-| [[Brutus|BRUTO]] | La mia veste. |
-| *(didascalia)* | Esce [[Lucius|Lucio]] |
-| [[Brutus|BRUTO]] | Addio, buon Messala.<br>Buona [[Night|notte]], Titinio. Nobile, nobile [[Cassius|Cassio]],<br>buona [[Night|notte]] e buon riposo. |
-| [[Cassius|CASSIO]] | O mio caro fratello,<br>questo fu un cattivo inizio della [[Night|notte]]!<br>Mai venga tale divisione fra le nostre anime.<br>Non avvenga, [[Brutus|Bruto]]. |
-| *(didascalia)* | Entra [[Lucius|Lucio]] con la veste |
-| [[Brutus|BRUTO]] | Tutto va [[Well|bene]]. |
-| [[Cassius|CASSIO]] | Buona [[Night|notte]], mio signore. |
-| [[Brutus|BRUTO]] | Buona [[Night|notte]], buon fratello. |
-| TITINIO | e MESSALA<br>Buona [[Night|notte]], signor [[Brutus|Bruto]]. |
-| [[Brutus|BRUTO]] | Addio a tutti. |
-| *(didascalia)* | Escono [[Cassius|Cassio]], Titinio e Messala |
-| [[Brutus|BRUTO]] | Dammi la veste. |
+| [[Cassius\|CASSIO]] | Io ne ho altrettanto nella dottrina quanto voi,<br>eppure la mia [[Nature\|natura]] non saprebbe sopportarlo così. |
+| [[Brutus\|BRUTO]] | [[Well\|Ebbene]], all'opera che ci resta. Che ne pensate<br>di marciare subito su Filippi? |
+| [[Cassius\|CASSIO]] | Non lo credo buono. |
+| [[Brutus\|BRUTO]] | La vostra ragione? |
+| [[Cassius\|CASSIO]] | Eccola:<br>è meglio che il nemico cerchi noi;<br>così consumerà i suoi mezzi, stancherà i suoi soldati,<br>facendo danno a se stesso; mentre noi, restando fermi,<br>siamo pieni di riposo, di difesa e d'agilità. |
+| [[Brutus\|BRUTO]] | Le buone ragioni devono per forza cedere alle migliori.<br>Il popolo fra Filippi e questo terreno<br>non ci sta che in un affetto forzato,<br>ché ci ha lesinato i contributi.<br>Il nemico, marciando attraverso di loro,<br>per mezzo loro accrescerà il suo numero,<br>avanzerà rinfrescato, ingrossato e rincuorato;<br>e di questo vantaggio lo priveremo,<br>se a Filippi lo affronteremo là,<br>con questa gente alle nostre spalle. |
+| [[Cassius\|CASSIO]] | Uditemi, buon fratello. |
+| [[Brutus\|BRUTO]] | Col vostro permesso. Dovete notare inoltre<br>che abbiamo spremuto il massimo dai nostri amici;<br>le nostre legioni sono al colmo, la nostra causa è matura.<br>Il nemico cresce ogni giorno;<br>noi, al culmine, siamo prossimi a declinare.<br>V'è una marea nelle cose degli uomini<br>che, presa al flusso, conduce alla fortuna;<br>trascurata, tutto il viaggio della loro vita<br>resta chiuso fra secche e miserie.<br>Su un tal mare pieno siamo ora a galla,<br>e dobbiamo prendere la corrente quando è propizia,<br>o perdere le nostre imprese. |
+| [[Cassius\|CASSIO]] | Allora, sia fatta la vostra volontà, avanti.<br>Andremo anche noi, e li affronteremo a Filippi. |
+| [[Brutus\|BRUTO]] | Il fondo della [[Night\|notte]] è calato sul nostro discorso,<br>e la [[Nature\|natura]] deve obbedire alla necessità,<br>che appagheremo con un po' di riposo.<br>Non v'è altro da dire. |
+| [[Cassius\|CASSIO]] | Non altro. Buona [[Night\|notte]].<br>Domani presto ci leveremo e via. |
+| [[Brutus\|BRUTO]] | [[Lucius\|Lucio]]. |
+| *(didascalia)* | Entra [[Lucius\|Lucio]] |
+| [[Brutus\|BRUTO]] | La mia veste. |
+| *(didascalia)* | Esce [[Lucius\|Lucio]] |
+| [[Brutus\|BRUTO]] | Addio, buon Messala.<br>Buona [[Night\|notte]], Titinio. Nobile, nobile [[Cassius\|Cassio]],<br>buona [[Night\|notte]] e buon riposo. |
+| [[Cassius\|CASSIO]] | O mio caro fratello,<br>questo fu un cattivo inizio della [[Night\|notte]]!<br>Mai venga tale divisione fra le nostre anime.<br>Non avvenga, [[Brutus\|Bruto]]. |
+| *(didascalia)* | Entra [[Lucius\|Lucio]] con la veste |
+| [[Brutus\|BRUTO]] | Tutto va [[Well\|bene]]. |
+| [[Cassius\|CASSIO]] | Buona [[Night\|notte]], mio signore. |
+| [[Brutus\|BRUTO]] | Buona [[Night\|notte]], buon fratello. |
+| TITINIO | e MESSALA<br>Buona [[Night\|notte]], signor [[Brutus\|Bruto]]. |
+| [[Brutus\|BRUTO]] | Addio a tutti. |
+| *(didascalia)* | Escono [[Cassius\|Cassio]], Titinio e Messala |
+| [[Brutus\|BRUTO]] | Dammi la veste. |
 | *(didascalia)* | Indossa la veste |
-| [[Brutus|BRUTO]] | Dov'è il tuo strumento? |
-| [[Lucius|LUCIO]] | Qui nella tenda. |
-| [[Brutus|BRUTO]] | Come, parli assonnato.<br>Povero ragazzo, non ti biasimo; hai vegliato troppo.<br>Chiama [[Claudio]] e qualche altro dei miei uomini.<br>Voglio che [[Sleep|dormano]] su cuscini nella mia tenda. |
-| [[Lucius|LUCIO]] | Varro e [[Claudio]]! |
+| [[Brutus\|BRUTO]] | Dov'è il tuo strumento? |
+| [[Lucius\|LUCIO]] | Qui nella tenda. |
+| [[Brutus\|BRUTO]] | Come, parli assonnato.<br>Povero ragazzo, non ti biasimo; hai vegliato troppo.<br>Chiama [[Claudio]] e qualche altro dei miei uomini.<br>Voglio che [[Sleep\|dormano]] su cuscini nella mia tenda. |
+| [[Lucius\|LUCIO]] | Varro e [[Claudio]]! |
 | *(didascalia)* | Entrano Varro e [[Claudio]] |
 | VARRO | Chiama il mio signore? |
-| [[Brutus|BRUTO]] | Vi prego, signori, coricatevi nella mia tenda e [[Sleep|dormite]].<br>Può darsi ch'io vi svegli fra poco<br>per una faccenda presso mio fratello [[Cassius|Cassio]]. |
+| [[Brutus\|BRUTO]] | Vi prego, signori, coricatevi nella mia tenda e [[Sleep\|dormite]].<br>Può darsi ch'io vi svegli fra poco<br>per una faccenda presso mio fratello [[Cassius\|Cassio]]. |
 | VARRO | Se vi piace, resteremo in piedi ad attendere il vostro comando. |
-| [[Brutus|BRUTO]] | Non voglio così. Coricatevi, buoni signori.<br>Può darsi ch'io muti pensiero.<br>Varro e [[Claudio]] si coricano a [[Sleep|dormire]]<br><br>Guarda, [[Lucius|Lucio]], ecco il libro che tanto cercavo.<br>L'avevo messo nella tasca della mia veste. |
-| [[Lucius|LUCIO]] | Ero certo che vossignoria non me l'aveva dato. |
-| [[Brutus|BRUTO]] | Abbi pazienza, buon ragazzo, sono molto smemorato.<br>Puoi tener aperti ancora un poco i tuoi occhi pesanti,<br>e toccare sul tuo strumento un'aria o due? |
-| [[Lucius|LUCIO]] | Sì, mio signore, se vi piace. |
-| [[Brutus|BRUTO]] | Mi piace, ragazzo mio.<br>Ti disturbo troppo, ma tu sei volenteroso. |
-| [[Lucius|LUCIO]] | È mio dovere, signore. |
-| [[Brutus|BRUTO]] | Non dovrei spingere il tuo dovere oltre le tue forze.<br>So che il sangue giovane cerca un [[Time|tempo]] di riposo. |
-| [[Lucius|LUCIO]] | Ho già dormito, mio signore. |
-| [[Brutus|BRUTO]] | Facesti [[Well|bene]], e [[Sleep|dormirai]] di nuovo.<br>Non ti tratterrò a lungo. Se vivrò,<br>sarò buono con te.<br>[[Lucius|Lucio]] suona e canta una [[Song|canzone]], e così s'addormenta<br>Questa è un'aria sonnolenta. O sonno assassino,<br>posi tu la tua mazza di piombo sul mio ragazzo<br>che ti fa musica?—Gentile fanciullo, buona [[Night|notte]].<br>Non ti farò il torto di svegliarti.<br>Se ciondoli il capo, romperai il tuo strumento;<br>te lo toglierò, e, buon ragazzo, buona [[Night|notte]].<br>Toglie lo strumento a [[Lucius|Lucio]], poi apre il libro<br>Vediamo, vediamo: non è piegato l'angolo del foglio<br>dove smisi di leggere? Eccolo qui, credo. |
-| *(didascalia)* | Entra lo [[Ghost|Spettro]] di Cesare |
-| [[Brutus|BRUTO]] | Come arde male questa candela! Ah! Chi viene qui?<br>Credo che sia la debolezza dei miei occhi<br>a foggiare questa mostruosa apparizione.<br>Viene verso di me. Sei tu qualcosa?<br>Sei un dio, un angelo, o un demonio,<br>che mi fai freddo il [[Blood|sangue]] e dritti i capelli?<br>Dimmi che cosa sei. |
-| [[Ghost|SPETTRO]] | Il tuo spirito maligno, [[Brutus|Bruto]]. |
-| [[Brutus|BRUTO]] | Perché vieni? |
-| [[Ghost|SPETTRO]] | Per dirti che mi vedrai a Filippi. |
-| [[Brutus|BRUTO]] | [[Well|Bene]]; ti vedrò dunque di nuovo? |
-| [[Ghost|SPETTRO]] | Sì, a Filippi. |
-| [[Brutus|BRUTO]] | Ebbene, ti vedrò a Filippi allora. Esce lo [[Ghost|Spettro]]<br><br>Ora che ho preso coraggio, tu svanisci.<br>Spirito maligno, vorrei parlare ancora con te.—<br>Ragazzo, [[Lucius|Lucio]], Varro, [[Claudio]], signori, svegliatevi!<br>[[Claudio]]! |
-| [[Lucius|LUCIO]] | Le corde, mio signore, sono stonate. |
-| [[Brutus|BRUTO]] | Crede d'essere ancora al suo strumento.—<br>[[Lucius|Lucio]], svegliati! |
-| [[Lucius|LUCIO]] | Mio signore. |
-| [[Brutus|BRUTO]] | Hai sognato, [[Lucius|Lucio]], che gridavi così? |
-| [[Lucius|LUCIO]] | Mio signore, non so d'aver gridato. |
-| [[Brutus|BRUTO]] | Sì, hai gridato. Hai visto qualcosa? |
-| [[Lucius|LUCIO]] | Nulla, mio signore. |
-| [[Brutus|BRUTO]] | [[Sleep|Dormi]] di nuovo, [[Lucius|Lucio]].—Ehi, [[Claudio]]!<br>(A Varro) Compare,<br>tu, svegliati! |
+| [[Brutus\|BRUTO]] | Non voglio così. Coricatevi, buoni signori.<br>Può darsi ch'io muti pensiero.<br>Varro e [[Claudio]] si coricano a [[Sleep\|dormire]]<br><br>Guarda, [[Lucius\|Lucio]], ecco il libro che tanto cercavo.<br>L'avevo messo nella tasca della mia veste. |
+| [[Lucius\|LUCIO]] | Ero certo che vossignoria non me l'aveva dato. |
+| [[Brutus\|BRUTO]] | Abbi pazienza, buon ragazzo, sono molto smemorato.<br>Puoi tener aperti ancora un poco i tuoi occhi pesanti,<br>e toccare sul tuo strumento un'aria o due? |
+| [[Lucius\|LUCIO]] | Sì, mio signore, se vi piace. |
+| [[Brutus\|BRUTO]] | Mi piace, ragazzo mio.<br>Ti disturbo troppo, ma tu sei volenteroso. |
+| [[Lucius\|LUCIO]] | È mio dovere, signore. |
+| [[Brutus\|BRUTO]] | Non dovrei spingere il tuo dovere oltre le tue forze.<br>So che il sangue giovane cerca un [[Time\|tempo]] di riposo. |
+| [[Lucius\|LUCIO]] | Ho già dormito, mio signore. |
+| [[Brutus\|BRUTO]] | Facesti [[Well\|bene]], e [[Sleep\|dormirai]] di nuovo.<br>Non ti tratterrò a lungo. Se vivrò,<br>sarò buono con te.<br>[[Lucius\|Lucio]] suona e canta una [[Song\|canzone]], e così s'addormenta<br>Questa è un'aria sonnolenta. O sonno assassino,<br>posi tu la tua mazza di piombo sul mio ragazzo<br>che ti fa musica?—Gentile fanciullo, buona [[Night\|notte]].<br>Non ti farò il torto di svegliarti.<br>Se ciondoli il capo, romperai il tuo strumento;<br>te lo toglierò, e, buon ragazzo, buona [[Night\|notte]].<br>Toglie lo strumento a [[Lucius\|Lucio]], poi apre il libro<br>Vediamo, vediamo: non è piegato l'angolo del foglio<br>dove smisi di leggere? Eccolo qui, credo. |
+| *(didascalia)* | Entra lo [[Ghost\|Spettro]] di Cesare |
+| [[Brutus\|BRUTO]] | Come arde male questa candela! Ah! Chi viene qui?<br>Credo che sia la debolezza dei miei occhi<br>a foggiare questa mostruosa apparizione.<br>Viene verso di me. Sei tu qualcosa?<br>Sei un dio, un angelo, o un demonio,<br>che mi fai freddo il [[Blood\|sangue]] e dritti i capelli?<br>Dimmi che cosa sei. |
+| [[Ghost\|SPETTRO]] | Il tuo spirito maligno, [[Brutus\|Bruto]]. |
+| [[Brutus\|BRUTO]] | Perché vieni? |
+| [[Ghost\|SPETTRO]] | Per dirti che mi vedrai a Filippi. |
+| [[Brutus\|BRUTO]] | [[Well\|Bene]]; ti vedrò dunque di nuovo? |
+| [[Ghost\|SPETTRO]] | Sì, a Filippi. |
+| [[Brutus\|BRUTO]] | Ebbene, ti vedrò a Filippi allora. Esce lo [[Ghost\|Spettro]]<br><br>Ora che ho preso coraggio, tu svanisci.<br>Spirito maligno, vorrei parlare ancora con te.—<br>Ragazzo, [[Lucius\|Lucio]], Varro, [[Claudio]], signori, svegliatevi!<br>[[Claudio]]! |
+| [[Lucius\|LUCIO]] | Le corde, mio signore, sono stonate. |
+| [[Brutus\|BRUTO]] | Crede d'essere ancora al suo strumento.—<br>[[Lucius\|Lucio]], svegliati! |
+| [[Lucius\|LUCIO]] | Mio signore. |
+| [[Brutus\|BRUTO]] | Hai sognato, [[Lucius\|Lucio]], che gridavi così? |
+| [[Lucius\|LUCIO]] | Mio signore, non so d'aver gridato. |
+| [[Brutus\|BRUTO]] | Sì, hai gridato. Hai visto qualcosa? |
+| [[Lucius\|LUCIO]] | Nulla, mio signore. |
+| [[Brutus\|BRUTO]] | [[Sleep\|Dormi]] di nuovo, [[Lucius\|Lucio]].—Ehi, [[Claudio]]!<br>(A Varro) Compare,<br>tu, svegliati! |
 | VARRO | Mio signore. |
-| [[Claudio|CLAUDIO]] | Mio signore. |
-| [[Brutus|BRUTO]] | Perché avete gridato così, signori, nel [[Sleep|sonno]]? |
+| [[Claudio\|CLAUDIO]] | Mio signore. |
+| [[Brutus\|BRUTO]] | Perché avete gridato così, signori, nel [[Sleep\|sonno]]? |
 | ENTRAMBI | L'abbiamo fatto, mio signore? |
-| [[Brutus|BRUTO]] | Sì. Avete visto qualcosa? |
+| [[Brutus\|BRUTO]] | Sì. Avete visto qualcosa? |
 | VARRO | No, mio signore, non ho visto nulla. |
-| [[Claudio|CLAUDIO]] | Neppure io, mio signore. |
-| [[Brutus|BRUTO]] | Andate e raccomandatemi a mio fratello [[Cassius|Cassio]].<br>Ditegli di far muovere le sue truppe per tempo avanti,<br>e noi seguiremo. |
+| [[Claudio\|CLAUDIO]] | Neppure io, mio signore. |
+| [[Brutus\|BRUTO]] | Andate e raccomandatemi a mio fratello [[Cassius\|Cassio]].<br>Ditegli di far muovere le sue truppe per tempo avanti,<br>e noi seguiremo. |
 | ENTRAMBI | Sarà fatto, mio signore. |
-| *(didascalia)* | Escono Varro e [[Claudio]] da una porta, [[Brutus|Bruto]] e [[Lucius|Lucio]] da un'altra |
+| *(didascalia)* | Escono Varro e [[Claudio]] da una porta, [[Brutus\|Bruto]] e [[Lucius\|Lucio]] da un'altra |
 
 
 
@@ -2953,51 +2953,51 @@ The [[Tragedy]] of [[Julius Caesar]]
 |---|---|
 | *(didascalia)* | Entrano Ottavio, Antonio e il loro esercito |
 | OTTAVIO | Ora, Antonio, le nostre speranze sono esaudite.<br>Dicevate che il nemico non sarebbe sceso,<br>ma avrebbe tenuto i colli e le alture.<br>Non è così; le loro schiere sono a portata.<br>Intendono sfidarci qui a Filippi,<br>rispondendo prima che noi li interpelliamo. |
-| ANTONIO | Ma no, io leggo nei loro cuori, e so<br>perché lo fanno. Sarebbero contenti<br>di visitare altri luoghi; e scendono<br>con paurosa baldanza, credendo con questo volto<br>di ficcarci in testa che hanno [[Courage|coraggio]];<br>ma non è così. |
+| ANTONIO | Ma no, io leggo nei loro cuori, e so<br>perché lo fanno. Sarebbero contenti<br>di visitare altri luoghi; e scendono<br>con paurosa baldanza, credendo con questo volto<br>di ficcarci in testa che hanno [[Courage\|coraggio]];<br>ma non è così. |
 | *(didascalia)* | Entra un Messo |
 | MESSO | Preparatevi, generali.<br>Il nemico avanza in bella mostra.<br>Il loro sanguigno segnale di battaglia è spiegato,<br>e qualcosa va fatto immediatamente. |
 | ANTONIO | Ottavio, conducete piano la vostra schiera<br>sul lato sinistro del campo aperto. |
 | OTTAVIO | Sul destro, io; tenete voi il sinistro. |
-| ANTONIO | Perché mi [[Cross|contrariate]] in questo frangente? |
-| OTTAVIO | Non vi [[Cross|contrario]], ma così voglio fare. |
-| *(didascalia)* | Tamburo. Antonio e Ottavio marciano col loro esercito. Tamburo dentro. Entrano, marciando, [[Brutus|Bruto]], [[Cassius|Cassio]] e il loro esercito, e fra loro Titinio, Lucilio e Messala. L'esercito di Ottavio e di Antonio si arresta |
-| [[Brutus|BRUTO]] | Si arrestano, e vogliono un colloquio. |
-| [[Cassius|CASSIO]] | Tenete saldo, Titinio. Dobbiamo uscire e parlare.<br>L'esercito di [[Brutus|Bruto]] e di [[Cassius|Cassio]] si arresta |
-| OTTAVIO | [[Mark Antony|Marco Antonio]], daremo il segnale di battaglia? |
+| ANTONIO | Perché mi [[Cross\|contrariate]] in questo frangente? |
+| OTTAVIO | Non vi [[Cross\|contrario]], ma così voglio fare. |
+| *(didascalia)* | Tamburo. Antonio e Ottavio marciano col loro esercito. Tamburo dentro. Entrano, marciando, [[Brutus\|Bruto]], [[Cassius\|Cassio]] e il loro esercito, e fra loro Titinio, Lucilio e Messala. L'esercito di Ottavio e di Antonio si arresta |
+| [[Brutus\|BRUTO]] | Si arrestano, e vogliono un colloquio. |
+| [[Cassius\|CASSIO]] | Tenete saldo, Titinio. Dobbiamo uscire e parlare.<br>L'esercito di [[Brutus\|Bruto]] e di [[Cassius\|Cassio]] si arresta |
+| OTTAVIO | [[Mark Antony\|Marco Antonio]], daremo il segnale di battaglia? |
 | ANTONIO | No, Cesare, risponderemo al loro assalto.<br>Avanziamo, i generali vogliono dire qualche parola. |
-| OTTAVIO | (al suo esercito)<br>Non muovetevi fino al segnale.<br>Antonio e Ottavio incontrano [[Brutus|Bruto]] e [[Cassius|Cassio]] |
-| [[Brutus|BRUTO]] | Parole prima dei colpi: è così, compatrioti? |
-| OTTAVIO | Non che noi [[Love|amiamo]] le parole più dei colpi, come voi. |
-| [[Brutus|BRUTO]] | Le buone parole valgono più dei cattivi colpi, Ottavio. |
-| ANTONIO | Nei vostri cattivi colpi, [[Brutus|Bruto]], date buone parole.<br>Testimone il foro che apriste nel cuore di Cesare,<br>gridando 'Viva, salve Cesare'. |
-| [[Cassius|CASSIO]] | Antonio,<br>la portata dei vostri colpi è ancora ignota;<br>ma quanto alle vostre parole, esse derubano le [[Bees|api]] d'Ibla<br>e le lasciano senza miele. |
+| OTTAVIO | (al suo esercito)<br>Non muovetevi fino al segnale.<br>Antonio e Ottavio incontrano [[Brutus\|Bruto]] e [[Cassius\|Cassio]] |
+| [[Brutus\|BRUTO]] | Parole prima dei colpi: è così, compatrioti? |
+| OTTAVIO | Non che noi [[Love\|amiamo]] le parole più dei colpi, come voi. |
+| [[Brutus\|BRUTO]] | Le buone parole valgono più dei cattivi colpi, Ottavio. |
+| ANTONIO | Nei vostri cattivi colpi, [[Brutus\|Bruto]], date buone parole.<br>Testimone il foro che apriste nel cuore di Cesare,<br>gridando 'Viva, salve Cesare'. |
+| [[Cassius\|CASSIO]] | Antonio,<br>la portata dei vostri colpi è ancora ignota;<br>ma quanto alle vostre parole, esse derubano le [[Bees\|api]] d'Ibla<br>e le lasciano senza miele. |
 | ANTONIO | Non anche senza pungiglione. |
-| [[Brutus|BRUTO]] | Oh sì, e anche senza suono,<br>ché avete rubato il loro ronzio, Antonio,<br>e assai saggiamente minacciate prima di pungere. |
+| [[Brutus\|BRUTO]] | Oh sì, e anche senza suono,<br>ché avete rubato il loro ronzio, Antonio,<br>e assai saggiamente minacciate prima di pungere. |
 | ANTONIO | Scellerati, non faceste così quando i vostri vili pugnali<br>si urtarono l'un l'altro nei fianchi di Cesare.<br>Mostraste i denti come scimmie, e scodinzolaste come<br>cani,<br>e vi inchinaste come servi, baciando i piedi di Cesare,<br>mentre il dannato [[Casca]], come un botolo, di dietro,<br>colpì Cesare sul collo. Oh, adulatori! |
-| [[Cassius|CASSIO]] | Adulatori? Ora, [[Brutus|Bruto]], ringrazia te stesso.<br>Questa lingua non avrebbe offeso così oggi<br>se [[Cassius|Cassio]] avesse potuto decidere. |
-| OTTAVIO | Andiamo, andiamo, alla questione. Se il disputare ci fa sudare,<br>la prova di essa si volgerà in gocce più rosse.<br>Sguaina<br><br>Guardate, sguaino una [[Sword|spada]] contro dei congiurati.<br>Quando credete che questa [[Sword|spada]] rientri nel fodero?<br>Mai, finché le trentatré ferite di Cesare<br>non siano [[Well|ben]] vendicate, o finché un altro Cesare<br>non abbia aggiunto strage alle spade dei traditori. |
-| [[Brutus|BRUTO]] | Cesare, tu non puoi morire per mano di traditori,<br>a meno che tu non li conduca con te. |
-| OTTAVIO | Così [[Hope|spero]].<br>Non nacqui per morire sulla [[Sword|spada]] di [[Brutus|Bruto]]. |
-| [[Brutus|BRUTO]] | Oh, se tu fossi il più nobile della tua stirpe,<br>giovane, non potresti morire più onoratamente. |
-| [[Cassius|CASSIO]] | Uno scolaretto stizzoso, indegno di tale [[Honour|onore]],<br>unito a un mascherato e a un gaudente! |
-| ANTONIO | Sempre il vecchio [[Cassius|Cassio]]. |
+| [[Cassius\|CASSIO]] | Adulatori? Ora, [[Brutus\|Bruto]], ringrazia te stesso.<br>Questa lingua non avrebbe offeso così oggi<br>se [[Cassius\|Cassio]] avesse potuto decidere. |
+| OTTAVIO | Andiamo, andiamo, alla questione. Se il disputare ci fa sudare,<br>la prova di essa si volgerà in gocce più rosse.<br>Sguaina<br><br>Guardate, sguaino una [[Sword\|spada]] contro dei congiurati.<br>Quando credete che questa [[Sword\|spada]] rientri nel fodero?<br>Mai, finché le trentatré ferite di Cesare<br>non siano [[Well\|ben]] vendicate, o finché un altro Cesare<br>non abbia aggiunto strage alle spade dei traditori. |
+| [[Brutus\|BRUTO]] | Cesare, tu non puoi morire per mano di traditori,<br>a meno che tu non li conduca con te. |
+| OTTAVIO | Così [[Hope\|spero]].<br>Non nacqui per morire sulla [[Sword\|spada]] di [[Brutus\|Bruto]]. |
+| [[Brutus\|BRUTO]] | Oh, se tu fossi il più nobile della tua stirpe,<br>giovane, non potresti morire più onoratamente. |
+| [[Cassius\|CASSIO]] | Uno scolaretto stizzoso, indegno di tale [[Honour\|onore]],<br>unito a un mascherato e a un gaudente! |
+| ANTONIO | Sempre il vecchio [[Cassius\|Cassio]]. |
 | OTTAVIO | Venite, Antonio, via.<br>Sfida, traditori, vi gettiamo in faccia.<br>Se osate combattere oggi, venite sul campo.<br>Se no, quando ne avrete lo stomaco. |
 | *(didascalia)* | Escono Ottavio, Antonio e il loro esercito |
-| [[Cassius|CASSIO]] | Ebbene, ora soffia [[Wind|vento]], gonfiati onda, e naviga barca.<br>La [[Storm|tempesta]] è scoppiata, e tutto è in balìa della sorte. |
-| [[Brutus|BRUTO]] | Olà, Lucilio! Ascolta, una parola con te. |
-| LUCILIO | Mio signore.<br>Si fa avanti, e parla con [[Brutus|Bruto]] |
-| [[Cassius|CASSIO]] | Messala. |
+| [[Cassius\|CASSIO]] | Ebbene, ora soffia [[Wind\|vento]], gonfiati onda, e naviga barca.<br>La [[Storm\|tempesta]] è scoppiata, e tutto è in balìa della sorte. |
+| [[Brutus\|BRUTO]] | Olà, Lucilio! Ascolta, una parola con te. |
+| LUCILIO | Mio signore.<br>Si fa avanti, e parla con [[Brutus\|Bruto]] |
+| [[Cassius\|CASSIO]] | Messala. |
 | MESSALA | (facendosi avanti) Che dice il mio generale? |
-| [[Cassius|CASSIO]] | Messala,<br>questo è il mio compleanno; in questo stesso giorno<br>nacque [[Cassius|Cassio]]. Dammi la mano, Messala.<br>Sii tu mio testimone che, contro la mia volontà,<br>come accadde a [[Pompey|Pompeo]], sono costretto a rischiare<br>su una sola battaglia tutte le nostre libertà.<br>Sai che tenevo per Epicuro fermamente,<br>e per la sua dottrina. Ora muto pensiero,<br>e in parte presto fede alle cose che presagiscono.<br>Venendo da Sardi, sulle nostre prime insegne<br>calarono due possenti aquile, e là si posarono,<br>ingozzandosi e beccando dalle mani dei nostri soldati,<br>che ci accompagnarono qui a Filippi.<br>Stamane sono fuggite via, sparite,<br>e al loro posto corvi, cornacchie e nibbi<br>volano sulle nostre teste e ci guardano dall'alto,<br>come fossimo preda malata. Le loro ombre paiono<br>un baldacchino funesto, sotto il quale<br>il nostro esercito giace pronto a rendere lo [[Ghost|spirito]]. |
+| [[Cassius\|CASSIO]] | Messala,<br>questo è il mio compleanno; in questo stesso giorno<br>nacque [[Cassius\|Cassio]]. Dammi la mano, Messala.<br>Sii tu mio testimone che, contro la mia volontà,<br>come accadde a [[Pompey\|Pompeo]], sono costretto a rischiare<br>su una sola battaglia tutte le nostre libertà.<br>Sai che tenevo per Epicuro fermamente,<br>e per la sua dottrina. Ora muto pensiero,<br>e in parte presto fede alle cose che presagiscono.<br>Venendo da Sardi, sulle nostre prime insegne<br>calarono due possenti aquile, e là si posarono,<br>ingozzandosi e beccando dalle mani dei nostri soldati,<br>che ci accompagnarono qui a Filippi.<br>Stamane sono fuggite via, sparite,<br>e al loro posto corvi, cornacchie e nibbi<br>volano sulle nostre teste e ci guardano dall'alto,<br>come fossimo preda malata. Le loro ombre paiono<br>un baldacchino funesto, sotto il quale<br>il nostro esercito giace pronto a rendere lo [[Ghost\|spirito]]. |
 | MESSALA | Non crediate così. |
-| [[Cassius|CASSIO]] | Non lo credo che in parte,<br>ché ho l'animo fresco, e sono risoluto<br>ad affrontare ogni pericolo con gran fermezza. |
-| [[Brutus|BRUTO]] | Proprio così, Lucilio. |
-| [[Cassius|CASSIO]] | (raggiungendo [[Brutus|Bruto]]) Ora, nobilissimo [[Brutus|Bruto]],<br>siano oggi gli dèi propizi, sì che possiamo,<br>[[lovers|Amici]] in pace, condurre i nostri giorni alla vecchiaia.<br>Ma poiché le cose degli uomini restano sempre incerte,<br>ragioniamo sul peggio che possa accadere.<br>Se perdiamo questa battaglia, questa è dunque<br>l'ultimissima [[Time|volta]] che parliamo insieme.<br>Che siete allora deciso a fare? |
-| [[Brutus|BRUTO]] | Proprio secondo la regola di quella [[philosophy|filosofia]]<br>per cui biasimai Catone per la [[Death|morte]]<br>che egli si diede—non so come,<br>ma trovo vile e codardo,<br>per [[Fear|paura]] di ciò che potrebbe accadere, prevenire così<br>il [[Time|tempo]] della vita—armandomi di pazienza<br>per attendere la [[Providence|provvidenza]] di certe potenze superiori<br>che quaggiù ci governano. |
-| [[Cassius|CASSIO]] | Allora, se perdiamo questa battaglia,<br>vi accontentate d'essere condotto in trionfo<br>per le strade di Roma? |
-| [[Brutus|BRUTO]] | No, [[Cassius|Cassio]], no.<br>Non pensare, nobile Romano,<br>che mai [[Brutus|Bruto]] vada legato a Roma.<br>Ha un animo troppo grande. Ma questo stesso giorno<br>deve compiere l'opera che le idi di marzo cominciarono;<br>e se ci rivedremo, non so.<br>Perciò prendiamo il nostro addio eterno.<br>Per sempre e per sempre addio, [[Cassius|Cassio]].<br>Se ci rivedremo, ebbene, sorrideremo.<br>Se no, allora questo commiato fu [[Well|ben]] fatto. |
-| [[Cassius|CASSIO]] | Per sempre e per sempre addio, [[Brutus|Bruto]].<br>Se ci rivedremo, sorrideremo davvero.<br>Se no, è vero che questo commiato fu [[Well|ben]] fatto. |
-| [[Brutus|BRUTO]] | Ebbene allora, avanti. Oh, potesse un uomo conoscere<br>la fine dell'opera di questo giorno prima che venga!<br>Ma basta che il giorno finirà,<br>e allora la fine sarà nota.—Venite, olà, via! |
+| [[Cassius\|CASSIO]] | Non lo credo che in parte,<br>ché ho l'animo fresco, e sono risoluto<br>ad affrontare ogni pericolo con gran fermezza. |
+| [[Brutus\|BRUTO]] | Proprio così, Lucilio. |
+| [[Cassius\|CASSIO]] | (raggiungendo [[Brutus\|Bruto]]) Ora, nobilissimo [[Brutus\|Bruto]],<br>siano oggi gli dèi propizi, sì che possiamo,<br>[[lovers\|Amici]] in pace, condurre i nostri giorni alla vecchiaia.<br>Ma poiché le cose degli uomini restano sempre incerte,<br>ragioniamo sul peggio che possa accadere.<br>Se perdiamo questa battaglia, questa è dunque<br>l'ultimissima [[Time\|volta]] che parliamo insieme.<br>Che siete allora deciso a fare? |
+| [[Brutus\|BRUTO]] | Proprio secondo la regola di quella [[philosophy\|filosofia]]<br>per cui biasimai Catone per la [[Death\|morte]]<br>che egli si diede—non so come,<br>ma trovo vile e codardo,<br>per [[Fear\|paura]] di ciò che potrebbe accadere, prevenire così<br>il [[Time\|tempo]] della vita—armandomi di pazienza<br>per attendere la [[Providence\|provvidenza]] di certe potenze superiori<br>che quaggiù ci governano. |
+| [[Cassius\|CASSIO]] | Allora, se perdiamo questa battaglia,<br>vi accontentate d'essere condotto in trionfo<br>per le strade di Roma? |
+| [[Brutus\|BRUTO]] | No, [[Cassius\|Cassio]], no.<br>Non pensare, nobile Romano,<br>che mai [[Brutus\|Bruto]] vada legato a Roma.<br>Ha un animo troppo grande. Ma questo stesso giorno<br>deve compiere l'opera che le idi di marzo cominciarono;<br>e se ci rivedremo, non so.<br>Perciò prendiamo il nostro addio eterno.<br>Per sempre e per sempre addio, [[Cassius\|Cassio]].<br>Se ci rivedremo, ebbene, sorrideremo.<br>Se no, allora questo commiato fu [[Well\|ben]] fatto. |
+| [[Cassius\|CASSIO]] | Per sempre e per sempre addio, [[Brutus\|Bruto]].<br>Se ci rivedremo, sorrideremo davvero.<br>Se no, è vero che questo commiato fu [[Well\|ben]] fatto. |
+| [[Brutus\|BRUTO]] | Ebbene allora, avanti. Oh, potesse un uomo conoscere<br>la fine dell'opera di questo giorno prima che venga!<br>Ma basta che il giorno finirà,<br>e allora la fine sarà nota.—Venite, olà, via! |
 | *(didascalia)* | Escono |
 
 
@@ -3016,8 +3016,8 @@ The [[Tragedy]] of [[Julius Caesar]]
 
 | Chi parla | Battuta |
 |---|---|
-| *(didascalia)* | Allarme. Entrano [[Brutus|Bruto]] e Messala |
-| [[Brutus|BRUTO]] | Cavalca, cavalca, Messala, cavalca, e reca questi ordini<br>alle legioni dall'altro lato.<br>Forte allarme<br>Che assalgano tutte insieme, ché scorgo<br>solo un freddo contegno nell'ala di Ottavio,<br>e una spinta improvvisa ne provoca la rotta.<br>Cavalca, cavalca, Messala; che scendano tutti. |
+| *(didascalia)* | Allarme. Entrano [[Brutus\|Bruto]] e Messala |
+| [[Brutus\|BRUTO]] | Cavalca, cavalca, Messala, cavalca, e reca questi ordini<br>alle legioni dall'altro lato.<br>Forte allarme<br>Che assalgano tutte insieme, ché scorgo<br>solo un freddo contegno nell'ala di Ottavio,<br>e una spinta improvvisa ne provoca la rotta.<br>Cavalca, cavalca, Messala; che scendano tutti. |
 | *(didascalia)* | Escono da parti diverse |
 
 
@@ -3083,55 +3083,55 @@ The [[Tragedy]] of [[Julius Caesar]]
 
 | Chi parla | Battuta |
 |---|---|
-| *(didascalia)* | Allarmi. Entrano [[Cassius|Cassio]] con un'insegna, e Titinio |
-| [[Cassius|CASSIO]] | Oh guarda, Titinio, guarda: gli scellerati fuggono.<br>Io stesso mi sono fatto nemico dei miei:<br>questo mio alfiere volgeva le spalle;<br>uccisi il codardo, e gli tolsi l'insegna. |
-| TITINIO | O [[Cassius|Cassio]], [[Brutus|Bruto]] diede l'ordine troppo presto:<br>egli, avendo qualche vantaggio su Ottavio,<br>lo colse con troppa foga. I suoi soldati si diedero al saccheggio,<br>mentre noi da Antonio siamo tutti circondati. |
+| *(didascalia)* | Allarmi. Entrano [[Cassius\|Cassio]] con un'insegna, e Titinio |
+| [[Cassius\|CASSIO]] | Oh guarda, Titinio, guarda: gli scellerati fuggono.<br>Io stesso mi sono fatto nemico dei miei:<br>questo mio alfiere volgeva le spalle;<br>uccisi il codardo, e gli tolsi l'insegna. |
+| TITINIO | O [[Cassius\|Cassio]], [[Brutus\|Bruto]] diede l'ordine troppo presto:<br>egli, avendo qualche vantaggio su Ottavio,<br>lo colse con troppa foga. I suoi soldati si diedero al saccheggio,<br>mentre noi da Antonio siamo tutti circondati. |
 | *(didascalia)* | Entra Pindaro |
-| PINDARO | Fuggite più lontano, mio signore, fuggite più lontano!<br>[[Mark Antony|Marco Antonio]] è nelle vostre tende, mio signore;<br>fuggite dunque, nobile [[Cassius|Cassio]], fuggite lontano. |
-| [[Cassius|CASSIO]] | Questo [[Hill|colle]] è abbastanza lontano. Guarda, guarda, Titinio,<br>sono quelle le mie tende dove scorgo il [[Fire|fuoco]]? |
+| PINDARO | Fuggite più lontano, mio signore, fuggite più lontano!<br>[[Mark Antony\|Marco Antonio]] è nelle vostre tende, mio signore;<br>fuggite dunque, nobile [[Cassius\|Cassio]], fuggite lontano. |
+| [[Cassius\|CASSIO]] | Questo [[Hill\|colle]] è abbastanza lontano. Guarda, guarda, Titinio,<br>sono quelle le mie tende dove scorgo il [[Fire\|fuoco]]? |
 | TITINIO | Sono quelle, mio signore. |
-| [[Cassius|CASSIO]] | Titinio, se mi ami,<br>monta il mio [[Horse|cavallo]], e affondagli gli sproni nei fianchi<br>finché non ti abbia portato fino a quelle truppe laggiù<br>e qui di nuovo, sì ch'io possa esser certo<br>se quelle truppe siano amiche o nemiche. |
+| [[Cassius\|CASSIO]] | Titinio, se mi ami,<br>monta il mio [[Horse\|cavallo]], e affondagli gli sproni nei fianchi<br>finché non ti abbia portato fino a quelle truppe laggiù<br>e qui di nuovo, sì ch'io possa esser certo<br>se quelle truppe siano amiche o nemiche. |
 | TITINIO | Sarò di ritorno rapido come un pensiero. Esce |
-| [[Cassius|CASSIO]] | Va', Pindaro, sali più in alto su quel [[Hill|colle]].<br>La mia vista fu sempre torbida. Osserva, Titinio,<br>e dimmi che cosa noti sul campo. |
+| [[Cassius\|CASSIO]] | Va', Pindaro, sali più in alto su quel [[Hill\|colle]].<br>La mia vista fu sempre torbida. Osserva, Titinio,<br>e dimmi che cosa noti sul campo. |
 | *(didascalia)* | Esce Pindaro |
-| [[Cassius|CASSIO]] | In questo giorno respirai per la prima volta. [[Time|Il tempo]] ha chiuso il cerchio,<br>e dove cominciai, là finirò.<br>La mia vita ha compiuto il suo giro. |
+| [[Cassius\|CASSIO]] | In questo giorno respirai per la prima volta. [[Time\|Il tempo]] ha chiuso il cerchio,<br>e dove cominciai, là finirò.<br>La mia vita ha compiuto il suo giro. |
 | *(didascalia)* | Entra Pindaro in alto |
-| [[Cassius|CASSIO]] | Ehi, che notizie? |
+| [[Cassius\|CASSIO]] | Ehi, che notizie? |
 | PINDARO | Oh, mio signore! |
-| [[Cassius|CASSIO]] | Che notizie? |
+| [[Cassius\|CASSIO]] | Che notizie? |
 | PINDARO | Titinio è circondato tutt'intorno<br>da cavalieri, che gli muovono contro a spron battuto.<br>Pure egli sprona. Ora gli sono quasi addosso.<br>Ora Titinio. Ora alcuni smontano. Oh, smonta anche lui.<br>È preso. |
 | *(didascalia)* | Grida dentro |
 | PINDARO | E ascoltate, gridano di gioia. |
-| [[Cassius|CASSIO]] | Scendi; non guardare oltre. |
+| [[Cassius\|CASSIO]] | Scendi; non guardare oltre. |
 | *(didascalia)* | Esce Pindaro |
-| [[Cassius|CASSIO]] | Oh codardo che sono, per aver vissuto tanto<br>da vedere il mio migliore amico preso davanti al mio volto! |
+| [[Cassius\|CASSIO]] | Oh codardo che sono, per aver vissuto tanto<br>da vedere il mio migliore amico preso davanti al mio volto! |
 | *(didascalia)* | Entra Pindaro in basso |
-| [[Cassius|CASSIO]] | Vieni qua, messere. In Partia ti feci prigioniero,<br>e allora ti feci giurare, salvandoti la vita,<br>che qualunque cosa io ti comandassi<br>tu l'avresti tentata. Vieni ora, mantieni il tuo giuramento.<br>Ora sii uomo libero, e con questa buona [[Sword|spada]]<br>che passò le viscere di Cesare, fruga questo petto.<br>Non fermarti a rispondere. Ecco, prendi tu l'elsa,<br>Pindaro prende la [[Sword|spada]]<br>e quando il mio volto sarà coperto, come ora è,<br>guida tu la [[Sword|spada]].<br>Pindaro lo pugnala<br>Cesare, sei vendicato,<br>e proprio con la [[Sword|spada]] che ti uccise.<br>Muore |
-| PINDARO | Così sono libero, eppure non l'avrei voluto essere<br>se avessi osato fare la mia volontà. O [[Cassius|Cassio]]!<br>Lontano da questo paese Pindaro fuggirà,<br>dove nessun Romano lo noterà mai. |
+| [[Cassius\|CASSIO]] | Vieni qua, messere. In Partia ti feci prigioniero,<br>e allora ti feci giurare, salvandoti la vita,<br>che qualunque cosa io ti comandassi<br>tu l'avresti tentata. Vieni ora, mantieni il tuo giuramento.<br>Ora sii uomo libero, e con questa buona [[Sword\|spada]]<br>che passò le viscere di Cesare, fruga questo petto.<br>Non fermarti a rispondere. Ecco, prendi tu l'elsa,<br>Pindaro prende la [[Sword\|spada]]<br>e quando il mio volto sarà coperto, come ora è,<br>guida tu la [[Sword\|spada]].<br>Pindaro lo pugnala<br>Cesare, sei vendicato,<br>e proprio con la [[Sword\|spada]] che ti uccise.<br>Muore |
+| PINDARO | Così sono libero, eppure non l'avrei voluto essere<br>se avessi osato fare la mia volontà. O [[Cassius\|Cassio]]!<br>Lontano da questo paese Pindaro fuggirà,<br>dove nessun Romano lo noterà mai. |
 | *(didascalia)* | Esce |
 | *(didascalia)* | Entrano Titinio, che porta una corona di vittoria, e Messala |
-| MESSALA | Non è che uno scambio, Titinio, ché Ottavio<br>è rovesciato dalle forze del nobile [[Brutus|Bruto]],<br>come le legioni di [[Cassius|Cassio]] lo sono da Antonio. |
-| TITINIO | Queste notizie conforteranno [[Well|bene]] [[Cassius|Cassio]]. |
+| MESSALA | Non è che uno scambio, Titinio, ché Ottavio<br>è rovesciato dalle forze del nobile [[Brutus\|Bruto]],<br>come le legioni di [[Cassius\|Cassio]] lo sono da Antonio. |
+| TITINIO | Queste notizie conforteranno [[Well\|bene]] [[Cassius\|Cassio]]. |
 | MESSALA | Dove lo lasciaste? |
-| TITINIO | Tutto sconsolato,<br>con Pindaro suo servo, su questo [[Hill|colle]]. |
+| TITINIO | Tutto sconsolato,<br>con Pindaro suo servo, su questo [[Hill\|colle]]. |
 | MESSALA | Non è lui quello che giace a terra? |
 | TITINIO | Non giace come chi è vivo.—O cuore mio! |
-| MESSALA | Non è lui?<br>TITINIO No, questi fu lui, Messala;<br>ma [[Cassius|Cassio]] non è più. O sole al tramonto,<br>come nei tuoi raggi rossi tu affondi stanotte,<br>così nel suo rosso [[Blood|sangue]] è tramontato il giorno di [[Cassius|Cassio]].<br>Il sole di Roma è tramontato. Il nostro giorno è finito.<br>Vengano nubi, rugiade e pericoli. Le nostre opere son compiute.<br>La sfiducia nel mio [[success|esito]] ha compiuto quest'atto. |
-| MESSALA | La sfiducia in un buon [[success|esito]] ha compiuto quest'atto.<br>O odioso Errore, [[Child|figlio]] della [[Melancholy|Malinconia]],<br>perché mostri ai pronti pensieri degli uomini<br>le cose che non sono? O Errore, presto concepito,<br>tu non giungi mai a un felice parto,<br>ma uccidi la madre che ti generò. |
+| MESSALA | Non è lui?<br>TITINIO No, questi fu lui, Messala;<br>ma [[Cassius\|Cassio]] non è più. O sole al tramonto,<br>come nei tuoi raggi rossi tu affondi stanotte,<br>così nel suo rosso [[Blood\|sangue]] è tramontato il giorno di [[Cassius\|Cassio]].<br>Il sole di Roma è tramontato. Il nostro giorno è finito.<br>Vengano nubi, rugiade e pericoli. Le nostre opere son compiute.<br>La sfiducia nel mio [[success\|esito]] ha compiuto quest'atto. |
+| MESSALA | La sfiducia in un buon [[success\|esito]] ha compiuto quest'atto.<br>O odioso Errore, [[Child\|figlio]] della [[Melancholy\|Malinconia]],<br>perché mostri ai pronti pensieri degli uomini<br>le cose che non sono? O Errore, presto concepito,<br>tu non giungi mai a un felice parto,<br>ma uccidi la madre che ti generò. |
 | TITINIO | Ehi, Pindaro! Dove sei, Pindaro? |
-| MESSALA | Cercalo, Titinio, mentre io vado incontro<br>al nobile [[Brutus|Bruto]], per conficcargli questa notizia<br>negli orecchi. Ben posso dire 'conficcare',<br>ché acciaio che trafigge e dardi avvelenati<br>saranno altrettanto graditi agli orecchi di [[Brutus|Bruto]]<br>quanto la nuova di questa vista. |
+| MESSALA | Cercalo, Titinio, mentre io vado incontro<br>al nobile [[Brutus\|Bruto]], per conficcargli questa notizia<br>negli orecchi. Ben posso dire 'conficcare',<br>ché acciaio che trafigge e dardi avvelenati<br>saranno altrettanto graditi agli orecchi di [[Brutus\|Bruto]]<br>quanto la nuova di questa vista. |
 | TITINIO | Affrettatevi, Messala,<br>e io cercherò Pindaro nel frattempo. |
 | *(didascalia)* | Esce Messala |
-| TITINIO | Perché mi mandasti via, prode [[Cassius|Cassio]]?<br>Non incontrai forse i tuoi amici, e non mi posero<br>essi sulla fronte questa corona di vittoria,<br>e non mi dissero di darla a te? Non udisti le loro<br>grida?<br>Ahimè, hai frainteso ogni cosa.<br>Ma eccoti, prendi questa ghirlanda sulla tua fronte.<br>Il tuo [[Brutus|Bruto]] mi disse di dartela, e io<br>farò ciò che ordinò. [[Brutus|Bruto]], vieni presto,<br>e guarda come ho tenuto caro Caio [[Cassius|Cassio]].<br>Col vostro permesso, o dèi, questa è la parte d'un Romano:<br>vieni, [[Sword|spada]] di [[Cassius|Cassio]], e trova il cuore di Titinio.<br>Si pugnala, e muore |
-| *(didascalia)* | Allarme. Entrano [[Brutus|Bruto]], Messala, il giovane Catone, |
+| TITINIO | Perché mi mandasti via, prode [[Cassius\|Cassio]]?<br>Non incontrai forse i tuoi amici, e non mi posero<br>essi sulla fronte questa corona di vittoria,<br>e non mi dissero di darla a te? Non udisti le loro<br>grida?<br>Ahimè, hai frainteso ogni cosa.<br>Ma eccoti, prendi questa ghirlanda sulla tua fronte.<br>Il tuo [[Brutus\|Bruto]] mi disse di dartela, e io<br>farò ciò che ordinò. [[Brutus\|Bruto]], vieni presto,<br>e guarda come ho tenuto caro Caio [[Cassius\|Cassio]].<br>Col vostro permesso, o dèi, questa è la parte d'un Romano:<br>vieni, [[Sword\|spada]] di [[Cassius\|Cassio]], e trova il cuore di Titinio.<br>Si pugnala, e muore |
+| *(didascalia)* | Allarme. Entrano [[Brutus\|Bruto]], Messala, il giovane Catone, |
 | *(didascalia)* | Stratone, Volumnio, Lucilio, Labeone e Flavio |
-| [[Brutus|BRUTO]] | Dove, dove, Messala, giace il suo [[Body|corpo]]? |
+| [[Brutus\|BRUTO]] | Dove, dove, Messala, giace il suo [[Body\|corpo]]? |
 | MESSALA | Ecco là, e Titinio che lo piange. |
-| [[Brutus|BRUTO]] | Il volto di Titinio è rivolto in su. |
+| [[Brutus\|BRUTO]] | Il volto di Titinio è rivolto in su. |
 | CATONE | È ucciso. |
-| [[Brutus|BRUTO]] | O [[Julius Caesar|Giulio Cesare]], sei potente ancora.<br>Il tuo spirito va errando, e volge le nostre spade<br>nelle nostre stesse viscere.<br>Allarmi sommessi |
-| CATONE | Prode Titinio,<br>guardate se non ha incoronato [[Cassius|Cassio]] morto. |
-| [[Brutus|BRUTO]] | Vivono ancora due Romani come questi?<br>Ultimo di tutti i Romani, che ti vada [[Well|bene]].<br>È impossibile che mai Roma<br>generi il tuo pari. Amici, devo più [[Tears|lacrime]]<br>a quest'uomo morto di quante mi vedrete pagarne.—<br>Troverò il [[Time|tempo]], [[Cassius|Cassio]], troverò il [[Time|tempo]].—<br>Venite dunque, e mandate a Taso il suo [[Body|corpo]].<br>I suoi funerali non si faranno nel nostro campo,<br>ché non ci abbattano. Lucilio, vieni;<br>e vieni, giovane Catone. Andiamo sul campo.<br>Labeone e Flavio, fate muovere le nostre schiere.<br>Sono le tre all'[[Clock|orologio]], e, Romani, prima ancora della [[Night|notte]]<br>tenteremo la fortuna in un secondo scontro. |
+| [[Brutus\|BRUTO]] | O [[Julius Caesar\|Giulio Cesare]], sei potente ancora.<br>Il tuo spirito va errando, e volge le nostre spade<br>nelle nostre stesse viscere.<br>Allarmi sommessi |
+| CATONE | Prode Titinio,<br>guardate se non ha incoronato [[Cassius\|Cassio]] morto. |
+| [[Brutus\|BRUTO]] | Vivono ancora due Romani come questi?<br>Ultimo di tutti i Romani, che ti vada [[Well\|bene]].<br>È impossibile che mai Roma<br>generi il tuo pari. Amici, devo più [[Tears\|lacrime]]<br>a quest'uomo morto di quante mi vedrete pagarne.—<br>Troverò il [[Time\|tempo]], [[Cassius\|Cassio]], troverò il [[Time\|tempo]].—<br>Venite dunque, e mandate a Taso il suo [[Body\|corpo]].<br>I suoi funerali non si faranno nel nostro campo,<br>ché non ci abbattano. Lucilio, vieni;<br>e vieni, giovane Catone. Andiamo sul campo.<br>Labeone e Flavio, fate muovere le nostre schiere.<br>Sono le tre all'[[Clock\|orologio]], e, Romani, prima ancora della [[Night\|notte]]<br>tenteremo la fortuna in un secondo scontro. |
 | *(didascalia)* | Escono con i corpi |
 
 
@@ -3167,26 +3167,26 @@ The [[Tragedy]] of [[Julius Caesar]]
 
 | Chi parla | Battuta |
 |---|---|
-| *(didascalia)* | Allarme. Entrano [[Brutus|Bruto]], Messala, il giovane Catone, Lucilio e [[Flavius|Flavio]] |
-| [[Brutus|BRUTO]] | Ancora, compatrioti, oh ancora tenete alta la testa. |
-| *(didascalia)* | Esce con Messala e [[Flavius|Flavio]] |
+| *(didascalia)* | Allarme. Entrano [[Brutus\|Bruto]], Messala, il giovane Catone, Lucilio e [[Flavius\|Flavio]] |
+| [[Brutus\|BRUTO]] | Ancora, compatrioti, oh ancora tenete alta la testa. |
+| *(didascalia)* | Esce con Messala e [[Flavius\|Flavio]] |
 | CATONE | Quale bastardo non lo fa? Chi verrà con me?<br>Proclamerò il mio nome per tutto il campo.<br>Sono il figlio di Marco Catone, olà!<br>Nemico dei tiranni, e amico della mia patria.<br>Sono il figlio di Marco Catone, olà! |
 | *(didascalia)* | Entrano dei Soldati, e combattono |
-| LUCILIO | E io sono [[Brutus|Bruto]], Marco [[Brutus|Bruto]], io,<br>[[Brutus|Bruto]], amico della mia patria. Riconoscetemi per [[Brutus|Bruto]].<br>I Soldati uccidono Catone<br>O giovane e nobile Catone, sei caduto?<br>Ebbene, ora muori valorosamente quanto Titinio,<br>e ben puoi essere onorato, essendo figlio di Catone. |
+| LUCILIO | E io sono [[Brutus\|Bruto]], Marco [[Brutus\|Bruto]], io,<br>[[Brutus\|Bruto]], amico della mia patria. Riconoscetemi per [[Brutus\|Bruto]].<br>I Soldati uccidono Catone<br>O giovane e nobile Catone, sei caduto?<br>Ebbene, ora muori valorosamente quanto Titinio,<br>e ben puoi essere onorato, essendo figlio di Catone. |
 | *(didascalia)* | PRIMO SOLDATO |
 | LUCILIO | Arrenditi, o muori. |
-| LUCILIO | Mi arrendo solo per morire.<br>Eccoti tanto, perché tu mi uccida sull'istante:<br>uccidi [[Brutus|Bruto]], e sii onorato per la sua [[Death|morte]]. |
+| LUCILIO | Mi arrendo solo per morire.<br>Eccoti tanto, perché tu mi uccida sull'istante:<br>uccidi [[Brutus\|Bruto]], e sii onorato per la sua [[Death\|morte]]. |
 | *(didascalia)* | PRIMO SOLDATO |
 | LUCILIO | Non dobbiamo.—Un nobile prigioniero. |
-| SECONDO SOLDATO | Largo, olà! Dite ad Antonio che [[Brutus|Bruto]] è preso. |
+| SECONDO SOLDATO | Largo, olà! Dite ad Antonio che [[Brutus\|Bruto]] è preso. |
 | *(didascalia)* | Entra Antonio |
-| PRIMO SOLDATO | Darò io la notizia. Ecco che viene il generale.—<br>(Ad Antonio) [[Brutus|Bruto]] è preso, [[Brutus|Bruto]] è preso, mio signore. |
+| PRIMO SOLDATO | Darò io la notizia. Ecco che viene il generale.—<br>(Ad Antonio) [[Brutus\|Bruto]] è preso, [[Brutus\|Bruto]] è preso, mio signore. |
 | ANTONIO | Dov'è? |
-| LUCILIO | Al sicuro, Antonio, [[Brutus|Bruto]] è abbastanza al sicuro.<br>Oso assicurarti che nessun nemico<br>prenderà mai vivo il nobile [[Brutus|Bruto]].<br>Gli dèi lo difendano da così grande vergogna.<br>Quando lo troverete, o vivo o morto,<br>sarà trovato quale [[Brutus|Bruto]], quale se stesso. |
-| ANTONIO | (al Primo Soldato)<br>Costui non è [[Brutus|Bruto]], amico, ma, ve l'assicuro,<br>una preda non meno preziosa. Custodite quest'uomo al sicuro.<br>Trattatelo con ogni riguardo. Preferirei avere<br>uomini simili per amici che per nemici. |
+| LUCILIO | Al sicuro, Antonio, [[Brutus\|Bruto]] è abbastanza al sicuro.<br>Oso assicurarti che nessun nemico<br>prenderà mai vivo il nobile [[Brutus\|Bruto]].<br>Gli dèi lo difendano da così grande vergogna.<br>Quando lo troverete, o vivo o morto,<br>sarà trovato quale [[Brutus\|Bruto]], quale se stesso. |
+| ANTONIO | (al Primo Soldato)<br>Costui non è [[Brutus\|Bruto]], amico, ma, ve l'assicuro,<br>una preda non meno preziosa. Custodite quest'uomo al sicuro.<br>Trattatelo con ogni riguardo. Preferirei avere<br>uomini simili per amici che per nemici. |
 | *(didascalia)* | A un altro Soldato Va', |
-| ANTONIO | e vedi se [[Brutus|Bruto]] sia vivo o morto,<br>e portaci parola alla tenda di Ottavio<br>di come ogni cosa sia andata. |
-| *(didascalia)* | Escono il Soldato da una porta, Antonio, Lucilio e gli altri Soldati, alcuni portando il [[Body|corpo]] di Catone, da un'altra porta |
+| ANTONIO | e vedi se [[Brutus\|Bruto]] sia vivo o morto,<br>e portaci parola alla tenda di Ottavio<br>di come ogni cosa sia andata. |
+| *(didascalia)* | Escono il Soldato da una porta, Antonio, Lucilio e gli altri Soldati, alcuni portando il [[Body\|corpo]] di Catone, da un'altra porta |
 
 
 
@@ -3249,51 +3249,51 @@ The [[Tragedy]] of [[Julius Caesar]]
 
 | Chi parla | Battuta |
 |---|---|
-| *(didascalia)* | Entrano [[Brutus|Bruto]], Dardanio, Clito, Stratone e Volumnio |
-| [[Brutus|BRUTO]] | Venite, poveri resti d'amici, riposate su questa roccia. |
+| *(didascalia)* | Entrano [[Brutus\|Bruto]], Dardanio, Clito, Stratone e Volumnio |
+| [[Brutus\|BRUTO]] | Venite, poveri resti d'amici, riposate su questa roccia. |
 | *(didascalia)* | Siede. Stratone si distende e s'addormenta |
 | CLITO | Statilio mostrò la luce della torcia, ma, mio signore,<br>non è tornato indietro. O è preso o è ucciso. |
-| [[Brutus|BRUTO]] | Siediti, Clito. Uccidere è la parola:<br>è un'azione di moda. Ascolta, Clito.<br>Gli sussurra |
+| [[Brutus\|BRUTO]] | Siediti, Clito. Uccidere è la parola:<br>è un'azione di moda. Ascolta, Clito.<br>Gli sussurra |
 | CLITO | Come, io, mio signore? No, per nulla al mondo. |
-| [[Brutus|BRUTO]] | Taci, allora, non una parola. |
+| [[Brutus\|BRUTO]] | Taci, allora, non una parola. |
 | CLITO | Piuttosto mi ucciderei.<br>Si tira in disparte |
-| [[Brutus|BRUTO]] | Ascolta, Dardanio.<br>Gli sussurra |
+| [[Brutus\|BRUTO]] | Ascolta, Dardanio.<br>Gli sussurra |
 | DARDANIO | Dovrei fare un'azione simile?<br>Raggiunge Clito |
 | CLITO | O Dardanio! |
 | DARDANIO | O Clito! |
-| CLITO | Quale malvagia richiesta ti fece [[Brutus|Bruto]]? |
+| CLITO | Quale malvagia richiesta ti fece [[Brutus\|Bruto]]? |
 | DARDANIO | Di ucciderlo, Clito. Guarda, medita. |
 | CLITO | Ora quel nobile vaso è così pieno di dolore<br>che trabocca perfino dai suoi occhi. |
 | BRUTO | Vieni qua, buon Volumnio. Ascolta una parola. |
 | VOLUMNIO | Che dice il mio signore? |
-| [[Brutus|BRUTO]] | Questo, Volumnio.<br>Lo [[Ghost|spettro]] di Cesare mi è apparso<br>due volte distinte di [[Night|notte]]—a Sardi una volta,<br>e questa scorsa [[Night|notte]], qui nei campi di Filippi.<br>So che la mia ora è giunta. |
+| [[Brutus\|BRUTO]] | Questo, Volumnio.<br>Lo [[Ghost\|spettro]] di Cesare mi è apparso<br>due volte distinte di [[Night\|notte]]—a Sardi una volta,<br>e questa scorsa [[Night\|notte]], qui nei campi di Filippi.<br>So che la mia ora è giunta. |
 | VOLUMNIO | Non è così, mio signore. |
-| [[Brutus|BRUTO]] | No, sono certo che è così, Volumnio.<br>Tu vedi il mondo, Volumnio, come va.<br>I nostri nemici ci hanno sospinti sull'orlo della fossa,<br>Allarmi sommessi<br>è più degno saltarvi dentro noi stessi<br>che indugiare finché ci spingano. Buon Volumnio,<br>tu sai che noi due andammo a scuola insieme.<br>Proprio per questo, per il nostro antico [[Love|affetto]], ti prego,<br>reggi tu l'elsa della mia [[Sword|spada]] mentre vi corro sopra. |
+| [[Brutus\|BRUTO]] | No, sono certo che è così, Volumnio.<br>Tu vedi il mondo, Volumnio, come va.<br>I nostri nemici ci hanno sospinti sull'orlo della fossa,<br>Allarmi sommessi<br>è più degno saltarvi dentro noi stessi<br>che indugiare finché ci spingano. Buon Volumnio,<br>tu sai che noi due andammo a scuola insieme.<br>Proprio per questo, per il nostro antico [[Love\|affetto]], ti prego,<br>reggi tu l'elsa della mia [[Sword\|spada]] mentre vi corro sopra. |
 | VOLUMNIO | Non è un ufficio da amico, mio signore.<br>Allarme ancora |
 | CLITO | Fuggite, fuggite, mio signore! Non c'è da indugiare qui. |
-| [[Brutus|BRUTO]] | Addio a voi, e a voi, e a voi, Volumnio.—<br>Stratone, tu hai dormito per tutto questo tempo. |
+| [[Brutus\|BRUTO]] | Addio a voi, e a voi, e a voi, Volumnio.—<br>Stratone, tu hai dormito per tutto questo tempo. |
 | *(didascalia)* | Stratone si sveglia |
-| [[Brutus|BRUTO]] | Addio anche a te, Stratone. Compatrioti,<br>il mio cuore gioisce perché in tutta la mia vita<br>non trovai uomo che non mi fosse fedele.<br>Avrò gloria da questo giorno di sconfitta,<br>più di quanta Ottavio e [[Mark Antony|Marco Antonio]]<br>ne otterranno da questa vile conquista.<br>Così state [[Well|bene]] tutti insieme, ché la lingua di [[Brutus|Bruto]]<br>ha quasi finito la [[history|storia]] della sua vita.<br>[[Night|La notte]] pesa sui miei occhi. Le mie ossa vorrebbero riposare,<br>esse che non hanno faticato che per giungere a quest'ora. |
+| [[Brutus\|BRUTO]] | Addio anche a te, Stratone. Compatrioti,<br>il mio cuore gioisce perché in tutta la mia vita<br>non trovai uomo che non mi fosse fedele.<br>Avrò gloria da questo giorno di sconfitta,<br>più di quanta Ottavio e [[Mark Antony\|Marco Antonio]]<br>ne otterranno da questa vile conquista.<br>Così state [[Well\|bene]] tutti insieme, ché la lingua di [[Brutus\|Bruto]]<br>ha quasi finito la [[history\|storia]] della sua vita.<br>[[Night\|La notte]] pesa sui miei occhi. Le mie ossa vorrebbero riposare,<br>esse che non hanno faticato che per giungere a quest'ora. |
 | *(didascalia)* | Allarme. Grido dentro: 'Fuggite, fuggite, fuggite!' |
 | CLITO | Fuggite, mio signore, fuggite! |
-| [[Brutus|BRUTO]] | Via; vi seguirò. |
+| [[Brutus\|BRUTO]] | Via; vi seguirò. |
 | *(didascalia)* | Escono Clito, Dardanio e Volumnio |
-| [[Brutus|BRUTO]] | Ti prego, Stratone, resta tu presso il tuo signore.<br>Tu sei uomo di buona stima.<br>La tua vita ha avuto qualche sapore d'[[Honour|onore]].<br>Reggi dunque la mia [[Sword|spada]], e volgi via il volto<br>mentre vi corro sopra. Vuoi tu, Stratone? |
-| STRATONE | Datemi prima la mano. State [[Well|bene]], mio signore. |
-| [[Brutus|BRUTO]] | Addio, buon Stratone.<br>Stratone tiene la [[Sword|spada]], mentre [[Brutus|Bruto]] vi si getta sopra Cesare, ora sta' in pace.<br>Non ti uccisi con metà di così buona volontà.<br>Muore |
+| [[Brutus\|BRUTO]] | Ti prego, Stratone, resta tu presso il tuo signore.<br>Tu sei uomo di buona stima.<br>La tua vita ha avuto qualche sapore d'[[Honour\|onore]].<br>Reggi dunque la mia [[Sword\|spada]], e volgi via il volto<br>mentre vi corro sopra. Vuoi tu, Stratone? |
+| STRATONE | Datemi prima la mano. State [[Well\|bene]], mio signore. |
+| [[Brutus\|BRUTO]] | Addio, buon Stratone.<br>Stratone tiene la [[Sword\|spada]], mentre [[Brutus\|Bruto]] vi si getta sopra Cesare, ora sta' in pace.<br>Non ti uccisi con metà di così buona volontà.<br>Muore |
 | *(didascalia)* | Allarme. Ritirata. Entrano Antonio, Ottavio, Messala, Lucilio e l'esercito |
 | OTTAVIO | Chi è quell'uomo? |
 | MESSALA | L'uomo del mio padrone. Stratone, dov'è il tuo padrone? |
-| STRATONE | Libero dalla schiavitù in cui voi siete, Messala.<br>I vincitori non possono che farne un [[Fire|fuoco]],<br>ché [[Brutus|Bruto]] vinse soltanto se stesso,<br>e nessun altro ha [[Honour|onore]] dalla sua [[Death|morte]]. |
-| LUCILIO | Così [[Brutus|Bruto]] doveva esser trovato. Ti ringrazio, [[Brutus|Bruto]],<br>d'aver dimostrato vera la parola di Lucilio. |
-| OTTAVIO | Tutti coloro che servirono [[Brutus|Bruto]], io li prenderò al mio servizio.<br>(A Stratone)<br><br>Compare, vuoi tu spendere il tuo [[Time|tempo]] con me? |
+| STRATONE | Libero dalla schiavitù in cui voi siete, Messala.<br>I vincitori non possono che farne un [[Fire\|fuoco]],<br>ché [[Brutus\|Bruto]] vinse soltanto se stesso,<br>e nessun altro ha [[Honour\|onore]] dalla sua [[Death\|morte]]. |
+| LUCILIO | Così [[Brutus\|Bruto]] doveva esser trovato. Ti ringrazio, [[Brutus\|Bruto]],<br>d'aver dimostrato vera la parola di Lucilio. |
+| OTTAVIO | Tutti coloro che servirono [[Brutus\|Bruto]], io li prenderò al mio servizio.<br>(A Stratone)<br><br>Compare, vuoi tu spendere il tuo [[Time\|tempo]] con me? |
 | STRATONE | Sì, se Messala mi raccomanderà a voi. |
 | OTTAVIO | Fatelo, buon Messala. |
 | MESSALA | Come morì il mio padrone, Stratone? |
-| STRATONE | Io reggevo la [[Sword|spada]], ed egli vi corse sopra. |
+| STRATONE | Io reggevo la [[Sword\|spada]], ed egli vi corse sopra. |
 | MESSALA | Ottavio, prendetelo dunque al vostro seguito,<br>lui che rese l'ultimo servizio al mio padrone. |
-| ANTONIO | Questi fu il più nobile Romano di tutti.<br>Tutti i congiurati tranne lui solo<br>fecero ciò che fecero per invidia del grande Cesare.<br>Egli soltanto, per un pensiero onesto e generale<br>e per il bene comune a tutti, fu uno di loro.<br>La sua vita fu gentile, e gli elementi<br>così mescolati in lui che la [[Nature|natura]] potrebbe levarsi<br>e dire a tutto il mondo 'Questi era un uomo'. |
+| ANTONIO | Questi fu il più nobile Romano di tutti.<br>Tutti i congiurati tranne lui solo<br>fecero ciò che fecero per invidia del grande Cesare.<br>Egli soltanto, per un pensiero onesto e generale<br>e per il bene comune a tutti, fu uno di loro.<br>La sua vita fu gentile, e gli elementi<br>così mescolati in lui che la [[Nature\|natura]] potrebbe levarsi<br>e dire a tutto il mondo 'Questi era un uomo'. |
 | OTTAVIO | Secondo la sua virtù trattiamolo,<br>con ogni rispetto e riti di sepoltura. |
 | *(didascalia)* | Nella mia tenda giaceranno stanotte le sue ossa, |
 | OTTAVIO | proprio come di un soldato, disposte onorevolmente.<br>Chiamate dunque a riposo il campo, e andiamo<br>a spartirci le glorie di questo felice giorno. |
-| *(didascalia)* | Escono [con il [[Body|corpo]] di [[Brutus|Bruto]]] |
+| *(didascalia)* | Escono [con il [[Body\|corpo]] di [[Brutus\|Bruto]]] |
