@@ -1,0 +1,297 @@
+{
+ "summary": {
+  "files_scanned": 26,
+  "files_with_repairs": 1,
+  "files_written": 1,
+  "files_rejected_or_skipped": 3,
+  "artifacts_repaired": 4,
+  "artifacts_unresolved": 24,
+  "applied": true,
+  "tier2": false
+ },
+ "files": [
+  {
+   "it": "Authors\\Dickens\\Atomized\\Barnaby_Rudge\\Chapter_06\\part_01.it.md",
+   "blocks_en": 28,
+   "blocks_it": 28,
+   "repaired": 0,
+   "unresolved": [
+    "[[L02]"
+   ],
+   "open": [],
+   "status": "nothing repairable"
+  },
+  {
+   "it": "Authors\\Dickens\\Atomized\\Barnaby_Rudge\\Chapter_09\\part_01.it.md",
+   "blocks_en": 16,
+   "blocks_it": 16,
+   "repaired": 0,
+   "unresolved": [
+    "[[L02]"
+   ],
+   "open": [],
+   "status": "nothing repairable"
+  },
+  {
+   "it": "Authors\\Dickens\\Atomized\\Barnaby_Rudge\\Chapter_28.it.md",
+   "blocks_en": 46,
+   "blocks_it": 46,
+   "repaired": 0,
+   "unresolved": [
+    "[[L03]"
+   ],
+   "open": [],
+   "status": "nothing repairable"
+  },
+  {
+   "it": "Authors\\Dickens\\Atomized\\Barnaby_Rudge\\Chapter_29\\part_03.it.md",
+   "blocks_en": 28,
+   "blocks_it": 28,
+   "repaired": 0,
+   "unresolved": [
+    "[[L03]"
+   ],
+   "open": [],
+   "status": "nothing repairable"
+  },
+  {
+   "it": "Authors\\Dickens\\Atomized\\Barnaby_Rudge\\Chapter_31\\part_01.it.md",
+   "blocks_en": 12,
+   "blocks_it": 12,
+   "repaired": 0,
+   "unresolved": [
+    "[[L08]"
+   ],
+   "open": [],
+   "status": "nothing repairable"
+  },
+  {
+   "it": "Authors\\Dickens\\Atomized\\Barnaby_Rudge\\Chapter_56\\part_01.it.md",
+   "blocks_en": 21,
+   "blocks_it": 21,
+   "repaired": 0,
+   "unresolved": [
+    "[[L04]"
+   ],
+   "open": [],
+   "status": "nothing repairable"
+  },
+  {
+   "it": "Authors\\Dickens\\Atomized\\Bleak_House\\Chapter_05\\part_02.it.md",
+   "blocks_en": 14,
+   "blocks_it": 14,
+   "repaired": 0,
+   "unresolved": [
+    "[[L06]"
+   ],
+   "open": [],
+   "status": "nothing repairable"
+  },
+  {
+   "it": "Authors\\Dickens\\Atomized\\Bleak_House\\Chapter_17\\part_05.it.md",
+   "blocks_en": 31,
+   "blocks_it": 31,
+   "repaired": 0,
+   "unresolved": [
+    "[[L02]"
+   ],
+   "open": [],
+   "status": "nothing repairable"
+  },
+  {
+   "it": "Authors\\Dickens\\Atomized\\Bleak_House\\Chapter_35\\part_02.it.md",
+   "blocks_en": 30,
+   "blocks_it": 30,
+   "repaired": 0,
+   "unresolved": [
+    "[[L02]"
+   ],
+   "open": [],
+   "status": "nothing repairable"
+  },
+  {
+   "it": "Authors\\Dickens\\Atomized\\Bleak_House\\Chapter_36\\part_01.it.md",
+   "blocks_en": 16,
+   "blocks_it": 16,
+   "repaired": 2,
+   "unresolved": [],
+   "open": [
+    "[[L04)dormire””, lui scuoteva la testa in modo comico e part"
+   ],
+   "status": "REJECT new validate problems: [\"invented wikilink targets: ['L04)dormire””, lui scuoteva la testa in modo comico e partiva subito; mentre Charley restava lì ad ascoltare ridendo felicemente, il suo riso era davvero come musica. Non so chi avesse dato a Stubbs quel nome, ma sembrava che facesse parte di lui tanto naturalmente quanto il suo mantello ruvido. Una volta lo mettemmo in una piccola carrozza e lo portammo trionfalmente per cinque miglia lungo i sentieri verdi; ma all’improvviso, mentre lo lodavamo senza sosta, sembrò offendersi perché per tutto il tragitto era stato accompagnato da un nugolo di piccoli insetti che gli ronzavano intorno alle orecchie senza mai avvicinarsi. Si fermò quindi a riflettere su questa situazione. Immagino abbia deciso che non poteva sopportarlo, perché si rifiutò categoricamente di muoversi finché non lasciai le redini a Charley e scesi per camminare; allora mi seguì con un atteggiamento sereno e gioioso, appoggiando la testa sul mio braccio e strofinandosi l’orecchio contro la mia manica. Fu inutile che dicessi: “Ora, Stubbs, sono sicura che continuerai a camminare se io cavalco un po’”, perché non appena lo lasciavo, si fermava di nuovo immobile. Così fui costretta a guidarlo io stessa; e in questo modo tornammo [[Home']\"]"
+  },
+  {
+   "it": "Authors\\Dickens\\Atomized\\Bleak_House\\Chapter_37\\part_05.it.md",
+   "blocks_en": 26,
+   "blocks_it": 25,
+   "repaired": 0,
+   "unresolved": [],
+   "open": [],
+   "status": "SKIP block-count mismatch (cannot align)"
+  },
+  {
+   "it": "Authors\\Dickens\\Atomized\\Bleak_House\\Chapter_61\\part_04.it.md",
+   "blocks_en": 28,
+   "blocks_it": 28,
+   "repaired": 0,
+   "unresolved": [
+    "[[L03]"
+   ],
+   "open": [],
+   "status": "nothing repairable"
+  },
+  {
+   "it": "Authors\\Dickens\\Atomized\\David_Copperfield\\Chapter_37_A_LITTLE_COLD_Water_WATER\\part_02.it.md",
+   "blocks_en": 32,
+   "blocks_it": 32,
+   "repaired": 0,
+   "unresolved": [
+    "[[L01]"
+   ],
+   "open": [],
+   "status": "nothing repairable"
+  },
+  {
+   "it": "Authors\\Dickens\\Atomized\\David_Copperfield\\Chapter_42_MISCHIEF\\part_05.it.md",
+   "blocks_en": 23,
+   "blocks_it": 23,
+   "repaired": 0,
+   "unresolved": [
+    "[[L02]"
+   ],
+   "open": [],
+   "status": "nothing repairable"
+  },
+  {
+   "it": "Authors\\Dickens\\Atomized\\David_Copperfield\\Chapter_44_OUR_HOUSEKEEPING\\part_05.it.md",
+   "blocks_en": 14,
+   "blocks_it": 14,
+   "repaired": 0,
+   "unresolved": [
+    "[[L04]"
+   ],
+   "open": [],
+   "status": "nothing repairable"
+  },
+  {
+   "it": "Authors\\Dickens\\Atomized\\David_Copperfield\\Chapter_61_I_AM_SHOWN_TWO_INTERESTING_PEN\\part_03.it.md",
+   "blocks_en": 26,
+   "blocks_it": 25,
+   "repaired": 0,
+   "unresolved": [],
+   "open": [],
+   "status": "SKIP block-count mismatch (cannot align)"
+  },
+  {
+   "it": "Authors\\Dickens\\Atomized\\Dombey_and_Son\\Chapter_31\\part_04.it.md",
+   "blocks_en": 31,
+   "blocks_it": 31,
+   "repaired": 0,
+   "unresolved": [
+    "[[L02]"
+   ],
+   "open": [],
+   "status": "nothing repairable"
+  },
+  {
+   "it": "Authors\\Dickens\\Atomized\\Dombey_and_Son\\Chapter_42\\part_07.it.md",
+   "blocks_en": 30,
+   "blocks_it": 30,
+   "repaired": 0,
+   "unresolved": [
+    "[[L03]"
+   ],
+   "open": [],
+   "status": "nothing repairable"
+  },
+  {
+   "it": "Authors\\Dickens\\Atomized\\Dombey_and_Son\\Chapter_47\\part_01.it.md",
+   "blocks_en": 24,
+   "blocks_it": 24,
+   "repaired": 0,
+   "unresolved": [
+    "[[L02]"
+   ],
+   "open": [],
+   "status": "nothing repairable"
+  },
+  {
+   "it": "Authors\\Dickens\\Atomized\\Little_Dorrit\\Chapter_09_The_Child_of_the_Marshalsea\\part_02.it.md",
+   "blocks_en": 22,
+   "blocks_it": 22,
+   "repaired": 0,
+   "unresolved": [
+    "[[L04]"
+   ],
+   "open": [],
+   "status": "nothing repairable"
+  },
+  {
+   "it": "Authors\\Dickens\\Atomized\\Little_Dorrit\\Chapter_28_Nobodys_State_of_Mind\\part_02.it.md",
+   "blocks_en": 26,
+   "blocks_it": 26,
+   "repaired": 0,
+   "unresolved": [
+    "[[L03]"
+   ],
+   "open": [],
+   "status": "nothing repairable"
+  },
+  {
+   "it": "Authors\\Dickens\\Atomized\\Little_Dorrit\\Chapter_56_A_Castle_in_the_Air\\part_03.it.md",
+   "blocks_en": 12,
+   "blocks_it": 12,
+   "repaired": 0,
+   "unresolved": [
+    "[[L01]"
+   ],
+   "open": [],
+   "status": "nothing repairable"
+  },
+  {
+   "it": "Authors\\Dickens\\Atomized\\Little_Dorrit\\Chapter_66_An_Appearance_in_the_Marshalse\\part_04.it.md",
+   "blocks_en": 27,
+   "blocks_it": 27,
+   "repaired": 4,
+   "unresolved": [
+    "[[L01|Rigaud]"
+   ],
+   "open": [],
+   "status": "OK",
+   "remaining_signatures": 0
+  },
+  {
+   "it": "Authors\\Dickens\\Atomized\\Martin_Chuzzlewit\\Chapter_02\\part_01.it.md",
+   "blocks_en": 12,
+   "blocks_it": 12,
+   "repaired": 0,
+   "unresolved": [
+    "[[L05]"
+   ],
+   "open": [],
+   "status": "nothing repairable"
+  },
+  {
+   "it": "Authors\\Dickens\\Atomized\\Our_Mutual_Friend\\Chapter_35\\part_05.it.md",
+   "blocks_en": 45,
+   "blocks_it": 45,
+   "repaired": 0,
+   "unresolved": [
+    "[[L02]"
+   ],
+   "open": [],
+   "status": "nothing repairable"
+  },
+  {
+   "it": "Authors\\Dickens\\Atomized\\Our_Mutual_Friend\\Chapter_47\\part_06.it.md",
+   "blocks_en": 46,
+   "blocks_it": 46,
+   "repaired": 0,
+   "unresolved": [
+    "[[L02]"
+   ],
+   "open": [],
+   "status": "nothing repairable"
+  }
+ ]
+}

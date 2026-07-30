@@ -119,3 +119,33 @@ export function renderPager(
     mk("Last »", page >= pages - 1, pages - 1),
   )
 }
+
+// Reading difficulty as a CEFR band, which is what a student and a teacher actually plan around;
+// Flesch/Fog are indices nobody reads off directly. Derived from the Flesch reading EASE (higher =
+// easier), the one readability figure computed for every work, so this needs no new data and no
+// rebuild of the index. Bands follow the usual ELT correspondence and are anchored on the design's
+// own example: Dorian Gray, Flesch 61, is B2.
+//
+// Poetry and drama have no reliable sentence length, so their Flesch is absent and stays absent
+// here — an empty cell is honest, an invented band is not.
+export const CEFR_BANDS: [number, string][] = [
+  [80, "A2"],
+  [70, "B1"],
+  [60, "B2"],
+  [45, "C1"],
+  [-Infinity, "C2"],
+]
+
+export function cefr(flesch: unknown): string {
+  const f = Number(flesch)
+  if (!Number.isFinite(f)) return ""
+  return CEFR_BANDS.find(([min]) => f >= min)![1]
+}
+
+// Rank for sorting: A2 easiest -> C2 hardest, so the column orders by difficulty rather than
+// alphabetically (where C1 would land before but read as harder than B2).
+export function cefrRank(flesch: unknown): number {
+  const b = cefr(flesch)
+  const i = CEFR_BANDS.findIndex(([, band]) => band === b)
+  return i < 0 ? Number.POSITIVE_INFINITY : i
+}

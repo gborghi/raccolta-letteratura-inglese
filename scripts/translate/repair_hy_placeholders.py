@@ -26,7 +26,15 @@ link slot should point at:
   weak case     counts differ because the translator dropped some links entirely
                 -> if the artifact count equals the count of targets missing from the IT block,
                    assign those in order of appearance
-  otherwise     UNRESOLVED. Left untouched and reported.
+  one target    the block is short of only ONE distinct target, however many times over: with
+                nothing to choose between, the artifact takes it even with no label at all
+  lexicon       the artifact's own Italian label, via label -> target learned from links already
+                correct elsewhere in the corpus
+  curated       data/hy_placeholder_overrides.json, where a human read the target off the label
+                for the cases none of the above can reach. Re-checked against the block's own
+                missing targets on every run, so a stale entry cannot invent a link.
+  otherwise     UNRESOLVED. Reported; with --strip the code is removed and the words kept, so the
+                reader sees prose rather than `[[L04]sera d'inverno]`, at the cost of the link.
 
 AMBIGUITY IS NOT REPAIRED
 -------------------------
@@ -49,6 +57,7 @@ report before. Any failure and the file is left exactly as it was.
   repair_hy_placeholders.py --apply         write the repairs that pass the gate
   repair_hy_placeholders.py --author Dickens --apply
   repair_hy_placeholders.py --file <path>   one atom (dry run unless --apply)
+  repair_hy_placeholders.py --strip         also de-code the artifacts no rule could resolve
 """
 import os, re, sys, io, json, collections
 
@@ -58,6 +67,11 @@ import dickens_tower as dt
 AUTHORS = os.path.join(dt.VAULT_ROOT, "Authors")
 REPORT = os.path.join(dt.ROOT, "data", "hy_placeholder_repair.json")
 UNRESOLVED_TSV = os.path.join(dt.ROOT, "data", "hy_placeholder_unresolved.tsv")
+
+OVERRIDES = {}
+# An override value meaning "do not restore this link at all" - see rule 4.
+STRIP_SENTINEL = "!strip"
+OVERRIDES_PATH = os.path.join(dt.ROOT, "data", "hy_placeholder_overrides.json")
 
 SIG = re.compile(r"\[\[L\d+")
 
@@ -178,7 +192,7 @@ def build_lexicon(paths, min_count=2):
     return lex
 
 
-def plan_block(en_block, it_block, tier2=False):
+def plan_block(en_block, it_block, tier2=False, rel_it=None, strip=False):
     """(replacements, unresolved, open_list) for one aligned block pair."""
     en_targets = dt.targets(en_block)          # sorted multiset
     en_ordered = [m.group(1) for m in VALID.finditer(en_block)]
@@ -238,6 +252,16 @@ def plan_block(en_block, it_block, tier2=False):
         if consistent(cand):
             assigned = cand
 
+    # Rule 1b — counting still decides when the block is short of only ONE distinct target, however
+    # many times it is short of it: three missing `Night`s and one artifact leaves nothing to
+    # choose between. This needs no label at all, which is the only way the label-less artifacts
+    # (the code reached disk with its text eaten) can ever be recovered.
+    if not assigned:
+        pool = need_pool(en_count, valid_it)
+        if len(set(pool)) == 1 and len(pool) >= len(arts):
+            only = pool[0]
+            assigned = {s[2]: only for s in arts}
+
     # Rule 3 — counting cannot decide because the translator dropped links outright: nine English
     # links, four kept, one artifact leaves four candidates for one slot. The artifact's own label
     # settles it. LEXICON maps an Italian label to the targets it is actually linked to elsewhere
@@ -259,10 +283,43 @@ def plan_block(en_block, it_block, tier2=False):
                 pool[best] -= 1
         assigned = cand
 
+    # Rule 4 — a curated decision, for the artifacts no rule above can reach: the translator
+    # dropped so many links that several candidates remain, and the Italian label is not in the
+    # lexicon. `data/hy_placeholder_overrides.json` maps "<it path>\t<artifact>" to the target
+    # read off the label by hand (`Sowster, il tiranno` -> Tyrant, `ferriere` -> smith). Each was
+    # checked against the block's own missing targets when it was written, and is checked again
+    # here, so a stale override cannot introduce a link the English does not have.
+    if OVERRIDES and rel_it:
+        pool = collections.Counter(need_pool(en_count, valid_it))
+        for s in arts:
+            ov = OVERRIDES.get(rel_it + "\t" + s[3], [])
+            # The strip sentinel must be able to CANCEL an assignment an earlier rule made, so it
+            # is consulted even for slots that are already decided.
+            if s[2] in assigned and STRIP_SENTINEL not in ov:
+                continue
+            for t in ov:
+                if t == STRIP_SENTINEL:
+                    # Locally the target is obvious, but the translator moved that link into
+                    # another paragraph, so restoring it here would leave the FILE carrying one
+                    # more than its English - which the gate rejects, taking the file's other,
+                    # good repairs down with it. Give up this one link on purpose instead.
+                    assigned.pop(s[2], None)
+                    break
+                if pool[t] > 0:
+                    assigned[s[2]] = t
+                    pool[t] -= 1
+                    break
+
     reps, unresolved = [], []
     for s in arts:
         t = assigned.get(s[2])
         if not t:
+            if strip and s[1].strip():
+                # Nothing can say what this link pointed at, but the reader should not be left
+                # staring at `[[L04]sera d'inverno]`. Drop the code and keep the words: the link
+                # is lost, the prose is restored. Still reported as unresolved, so the TSV keeps
+                # the record of every link this corpus gave up on.
+                reps.append((s[2], s[1].strip(), s[3]))
             unresolved.append(s[3])
             continue
         label = s[1].strip()
@@ -275,10 +332,11 @@ def plan_block(en_block, it_block, tier2=False):
     return reps, unresolved, opens
 
 
-def repair_file(en_path, it_path, tier2=False):
+def repair_file(en_path, it_path, tier2=False, strip=False):
     en = dt._read_vault(en_path)
     it = dt._read_vault(it_path)
     before = dt.validate(en, it)
+    rel_it = os.path.relpath(it_path, dt.VAULT_ROOT)
     eb, ib = dt.prose_blocks(en), dt.prose_blocks(it)
     res = {
         "it": os.path.relpath(it_path, dt.VAULT_ROOT),
@@ -303,7 +361,7 @@ def repair_file(en_path, it_path, tier2=False):
             return res, None
         cursor = start + len(i)
 
-        reps, unresolved, opens = plan_block(e, i, tier2)
+        reps, unresolved, opens = plan_block(e, i, tier2, rel_it, strip)
         res["unresolved"] += unresolved
         res["open"] += opens
         for (s0, s1), replacement, _raw in reps:
@@ -358,6 +416,7 @@ def repair_file(en_path, it_path, tier2=False):
 def main(argv):
     apply = "--apply" in argv
     tier2 = "--tier2" in argv
+    strip = "--strip" in argv
     one = None
     if "--file" in argv:
         one = argv[argv.index("--file") + 1]
@@ -380,6 +439,12 @@ def main(argv):
                     except OSError:
                         pass
 
+    global OVERRIDES
+    if os.path.exists(OVERRIDES_PATH):
+        with open(OVERRIDES_PATH, encoding="utf-8") as fh:
+            OVERRIDES = json.load(fh)
+        print(json.dumps({"overrides_loaded": len(OVERRIDES), "file": os.path.basename(OVERRIDES_PATH)}))
+
     if "--lexicon" in argv:
         # Learn from every Italian atom in the vault, not just the ones being repaired: the more
         # correct links the lexicon sees, the more decisive it is.
@@ -399,7 +464,7 @@ def main(argv):
             results.append({"it": os.path.relpath(it_path, dt.VAULT_ROOT),
                             "status": "SKIP no EN sibling"})
             continue
-        res, new_it = repair_file(en_path, it_path, tier2)
+        res, new_it = repair_file(en_path, it_path, tier2, strip)
         results.append(res)
         for u in res.get("unresolved", []) + res.get("open", []):
             unresolved_rows.append((res["it"], u.replace("\t", " ").replace("\n", "\\n")))

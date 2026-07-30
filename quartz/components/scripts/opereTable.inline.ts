@@ -11,6 +11,8 @@ import {
   makeModeToggle,
   makePageSizeSelect,
   renderPager,
+  cefr,
+  cefrRank,
 } from "./qtable"
 
 const KW_FILE = "works_kw.json"
@@ -34,6 +36,9 @@ interface Work {
   fkgrade?: number
   fog?: number
   parentWork?: string
+  // Not stored in index.json: derived from `flesch` at render time. Declared so it can be a
+  // sort key like any other column.
+  cefr?: string
 }
 
 let cache: Work[] | null = null
@@ -98,11 +103,18 @@ function buildTable(el: HTMLElement, rows: Work[], prefix: string) {
     ["nconnections", "Links", true],
     ["flesch", "Flesch", true],
     ["fkgrade", "Grade", true],
-    ["fog", "Fog", true],
+    ["cefr", "Level", true],
   ]
-  const NUMERIC = new Set(["nconnections", "flesch", "fkgrade", "fog"])
+  const NUMERIC = new Set(["nconnections", "flesch", "fkgrade"])
 
   function cmp(a: Work, b: Work): number {
+    // The band is computed, and it must sort by DIFFICULTY (A2 -> C2), not alphabetically, where
+    // C1 would precede B2 while reading as harder. Works with no Flesch rank last, as elsewhere.
+    if (sortKey === "cefr") {
+      const ar = cefrRank(a.flesch), br = cefrRank(b.flesch)
+      if (ar !== br) return (ar < br ? -1 : 1) * sortDir
+      return a.title.toLowerCase() < b.title.toLowerCase() ? -1 : 1
+    }
     let av: any = a[sortKey]
     let bv: any = b[sortKey]
     if (NUMERIC.has(sortKey as string)) {
@@ -168,7 +180,7 @@ function buildTable(el: HTMLElement, rows: Work[], prefix: string) {
             `<td class="lt-num">${esc(r.nconnections)}</td>` +
             `<td class="lt-num">${r.flesch ?? "—"}</td>` +
             `<td class="lt-num">${r.fkgrade ?? "—"}</td>` +
-            `<td class="lt-num">${r.fog ?? "—"}</td></tr>`,
+            `<td class="lt-num">${cefr(r.flesch) || "—"}</td></tr>`,
         )
         .join("") +
       "</tbody>"

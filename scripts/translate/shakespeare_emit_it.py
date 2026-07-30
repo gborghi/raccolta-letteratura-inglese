@@ -71,10 +71,17 @@ def scene_pairs(play_dir):
             if not os.path.exists(en):
                 print(json.dumps({"skip": "no EN sibling", "it": os.path.join(root, fn)}))
                 continue
-            # the play-level <Play>/<Play>.it.md is assembled from these scenes and keyed
-            # separately; shakespeare_assemble.py owns it.
             rel_fs = os.path.relpath(en, PLAYS).replace(os.sep, "/")
-            if len(rel_fs.split("/")) < 3:
+            parts = rel_fs.split("/")
+            if len(parts) < 3:
+                # The play-level `<Play>/<Play>.it.md`, which shakespeare_assemble.py builds from
+                # the scenes. It is a page in its own right - content/testi/shakespeare/plays/
+                # macbeth.md - so it needs its own, shallower key. Skipping it here (as this did
+                # until now) left every assembled play published English-only, the same silent
+                # failure that kept the scenes untranslated: assembling into the vault is not
+                # publishing.
+                if len(parts) == 2 and parts[1] == parts[0] + ".md":
+                    out.append((f"{REL_PREFIX}/{parts[0]}.md".lower(), en, os.path.join(root, fn)))
                 continue
             out.append((f"{REL_PREFIX}/{rel_fs}".lower(), en, os.path.join(root, fn)))
     return out

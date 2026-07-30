@@ -338,6 +338,38 @@ table.lt-table th.lt-num {
 table.lt-table tr:hover td {
   background: var(--highlight);
 }
+
+// ---- plates 1e/1f/1g: table chrome ----------------------------------------
+// The three table pages (works, concept, faceted search) share one treatment in the design:
+// a head that stays put while the rows scroll, small-caps column labels, and figures that
+// line up in a column.
+table.lt-table thead th {
+  position: sticky;
+  top: 0;
+  z-index: 2;
+  background: var(--light);
+  font-family: var(--headerFont), system-ui, sans-serif;
+  font-size: 0.7rem;
+  letter-spacing: 0.13em;
+  text-transform: uppercase;
+  border-bottom: 1px solid var(--rule-mid, var(--lightgray));
+}
+
+// Figures must be comparable down the column, which proportional digits prevent: `11` is
+// narrower than `88` in the body face, so the numbers stop lining up exactly where the reader
+// is scanning them.
+table.lt-table td.lt-num,
+table.lt-table th.lt-num {
+  font-variant-numeric: tabular-nums;
+}
+
+// The CEFR band is a label, not a measurement: set it apart from the raw indices beside it.
+table.lt-table td.lt-num:last-child {
+  font-family: var(--headerFont), system-ui, sans-serif;
+  font-size: 0.78rem;
+  letter-spacing: 0.06em;
+  color: var(--gray);
+}
 .lt-cluster {
   color: var(--gray);
   font-size: 0.82rem;
@@ -1280,6 +1312,18 @@ body.reading-page {
     width: 82% !important; max-width: 320px !important;
   }
   body.explorer-open::after { content: ""; position: fixed; inset: 0; background: rgba(0, 0, 0, 0.28); z-index: 29; }
+
+  // That top bar is a nowrap flex row of title + theme/search buttons + Explorer
+  // toggle. The buttons and toggle are fixed-size, so on a 320px screen the row's
+  // min-content (307px) exceeds the 288px content box and the whole PAGE scrolls
+  // sideways — the grid track widens to fit it, dragging every section out with it.
+  // The title is the only elastic part, so let it shrink and ellipsize.
+  .page > #quartz-body .sidebar.left > .page-title {
+    min-width: 0;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+  }
 }
 
 // =====================================================================
@@ -1868,10 +1912,16 @@ body[data-slug="index"] .page-title {
   flex-wrap: wrap;
 }
 
+// wrap, or the wordmark scrolls the page sideways on a narrow phone: its own
+// min-content is title + rule + subtitle on ONE line (312px, the title being
+// nowrap), and a flex item's default min-width:auto refuses to shrink below it.
+// Each part fits alone, so letting the subtitle drop to a second line is enough.
 .hp-wordmark {
   display: flex;
   align-items: baseline;
   gap: 1.1rem;
+  flex-wrap: wrap;
+  min-width: 0;
 }
 
 .hp-wm-title {
@@ -2344,6 +2394,18 @@ body[data-slug="index"] .page-title {
     align-items: flex-start;
     flex-direction: column;
     gap: 0.7rem;
+  }
+
+  // stack the wordmark rather than let it wrap raggedly; the upright rule reads
+  // as a separator only between two things on one line, so drop it here
+  .hp-wordmark {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 0.35rem;
+  }
+
+  .hp-wm-bar {
+    display: none;
   }
 
   .hp-nav {
