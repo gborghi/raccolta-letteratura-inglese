@@ -1670,6 +1670,122 @@ The [[Tragedy]] of [[Coriolanus]]
 | [[Brutus\|BRUTUS]] | Let’s along. Exeunt<br> |
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entra una schiera di Cittadini ammutinati con bastoni, randelli e altre armi |
+| PRIMO CITTADINO | Prima di procedere oltre, ascoltatemi parlare. |
+| TUTTI | Parla, parla. |
+| PRIMO CITTADINO | Siete tutti risoluti a morire piuttosto che patire la fame? TUTTI Risoluti, risoluti. |
+| PRIMO CITTADINO | Primo, sapete che Caio Marzio è il nemico capitale del popolo. |
+| TUTTI | Lo sappiamo, lo sappiamo. |
+| PRIMO CITTADINO | Uccidiamolo, e avremo il grano al prezzo che vogliamo. È sentenza? |
+| TUTTI | Basta parlarne, si faccia. Via, via. SECONDO CITTADINO Una parola, buoni cittadini. |
+| PRIMO CITTADINO | Noi siamo tenuti per cittadini poveri, i patrizi per ricchi. Ciò di cui l’autorità si rimpinza ci solleverebbe. Se ci cedessero anche solo il superfluo mentre è ancora sano, potremmo supporre che ci soccorressero con umanità; ma essi ci ritengono troppo cari. La magrezza che ci affligge, l’oggetto della nostra miseria, è come un inventario che particolareggia la loro abbondanza; la nostra sofferenza è per loro un guadagno. [[Revenge|Vendichiamo]] questo con le nostre picche prima di diventare rastrelli; ché gli dèi sanno che parlo così per fame di pane, non per sete di [[Revenge|vendetta]]. |
+| SECONDO CITTADINO | Volete procedere in specie contro Caio Marzio? |
+| *(didascalia)* | TERZO CITTADINO Contro di lui per primo. |
+| *(didascalia)* | QUARTO CITTADINO È un vero cane per la plebe. |
+| SECONDO CITTADINO | Considerate i servigi che ha reso al suo paese? |
+| PRIMO CITTADINO | Molto [[Well|bene]], e mi accontenterei di dargliene buona fama, se non che egli si ripaga da sé con l’essere superbo. |
+| *(didascalia)* | QUINTO CITTADINO No, ma non parlare malignamente. |
+| PRIMO CITTADINO | Io vi dico: ciò che ha fatto di famoso, lo fece a quel fine — benché uomini di coscienza molle possano accontentarsi di dire «fu per il suo paese», «lo fece per compiacere sua madre, e in parte per superbia» — la quale in lui giunge all’altezza stessa della sua virtù. |
+| SECONDO CITTADINO | Ciò a cui non può rimediare nella sua [[Nature|natura]] voi glielo ascrivete a vizio. In nessun modo potete dire che sia avido. |
+| PRIMO CITTADINO | Se non devo, non per questo sarò sterile d’accuse. Ha colpe, e d’avanzo, da stancare a ripeterle. |
+| *(didascalia)* | Grida all’interno |
+| PRIMO CITTADINO | Che grida son queste? L’altra parte della [[City|città]] si è<br>sollevata. Perché stiamo qui a cianciare? Al Campidoglio! |
+| TUTTI | Andiamo, andiamo. |
+| *(didascalia)* | Entra [[Menenius]] |
+| PRIMO CITTADINO | Piano, chi viene qui? |
+| SECONDO CITTADINO | Il degno [[Menenius|Menenio]] Agrippa, uno che ha sempre amato il popolo. |
+| PRIMO CITTADINO | È uno abbastanza onesto. Fossero tutti gli altri così! |
+| [[Menenius|MENENIUS]] | Che opera avete per le mani, concittadini? Dove andate<br>con mazze e randelli? La cosa. Parlate, vi prego. |
+| *(didascalia)* | PRIMO CITTADINO La nostra faccenda non è ignota al senato. Da quindici giorni hanno sentore di ciò che intendiamo fare, e ora glielo mostreremo coi fatti. Dicono che i poveri postulanti hanno il fiato forte; sapranno che abbiamo forti anche le braccia. |
+| [[Menenius|MENENIUS]] | Suvvia, padroni, miei buoni amici, miei onesti<br>vicini,<br>volete rovinarvi? |
+| *(didascalia)* | PRIMO CITTADINO |
+| [[Menenius|MENENIUS]] | Non possiamo, signore. Siamo già rovinati. |
+| [[Menenius|MENENIUS]] | Vi dico, amici, che i patrizi hanno di voi<br>la più caritatevole cura. Per i vostri bisogni,<br>per la vostra [[Suffering|sofferenza]] in questa carestia, potreste altrettanto [[Well|bene]]<br>percuotere il cielo coi vostri bastoni quanto levarli<br>contro lo stato romano, che proseguirà<br>la via che ha preso, spezzando diecimila freni<br>di più salda maglia di quanti mai<br>possano apparire nel vostro impedimento. Quanto alla carestia,<br>la fanno gli dèi, non i patrizi, e<br>le vostre ginocchia a loro, non le armi, vi devono giovare. Ahimè,<br>la calamità vi trasporta<br>là dove altro vi attende, e calunniate<br>i timonieri dello stato, che si curano di voi come padri,<br>quando li maledite come nemici. |
+| *(didascalia)* | PRIMO CITTADINO Curarsi di noi? Davvero, sì! Non si son mai curati di noi finora: ci lasciano languire di fame, e i loro granai rigonfi di frumento; fanno editti sull’usura per sostenere gli usurai; abrogano ogni giorno qualche sana legge stabilita contro i ricchi; e ogni giorno provvedono statuti più taglienti per incatenare e frenare i poveri. Se non ci divorano le guerre, ci divoreranno loro; ed ecco tutto l’[[Love|amore]] che ci portano. |
+| [[Menenius|MENENIUS]] | O dovete<br>confessarvi meravigliosamente maligni<br>o essere accusati di follia. Vi narrerò<br>una graziosa favola. Può darsi che l’abbiate udita,<br>ma poiché serve al mio scopo, mi arrischierò<br>a consumarla un poco di più. |
+| *(didascalia)* | PRIMO CITTADINO [[Well|Bene]], l’ascolterò, signore. Però non pensate di liquidare la nostra sventura con una favola. Ma se vi piace, dite pure. |
+| [[Menenius|MENENIUS]] | Vi fu un [[Time|tempo]] in cui tutte le membra del [[Body|corpo]],<br>si ribellarono contro il ventre, e così l’accusarono:<br>che soltanto come un abisso se ne stava<br>in mezzo al [[Body|corpo]], ozioso e inerte,<br>sempre stipando le vivande, mai sostenendo<br>pari fatica con le altre; mentre gli altri strumenti<br>vedevano e udivano, meditavano, istruivano, camminavano, sentivano,<br>e, in mutua partecipazione, servivano<br>all’appetito e all’affetto comune<br>di tutto il [[Body|corpo]]. Il ventre rispose— |
+| *(didascalia)* | PRIMO CITTADINO |
+| [[Menenius|MENENIUS]] | [[Well|Bene]], signore, che risposta diede il ventre? |
+| [[Menenius|MENENIUS]] | Signore, ve lo dirò. Con una specie di sorriso,<br>che non veniva mai dai polmoni, ma proprio così—<br>ché, vedete, io posso far sorridere il ventre<br>tanto [[Well|bene]] quanto parlare—rispose beffardo<br>alle membra scontente, alle parti ammutinate<br>che invidiavano il suo introito; e con tanta convenienza<br>quanta ne avete voi nel malignare sui nostri senatori perché<br>non sono quali siete voi. |
+| *(didascalia)* | PRIMO CITTADINO La risposta del vostro ventre—quale? |
+| [[Menenius|MENENIUS]] | Il capo regalmente coronato, l’occhio vigile,<br>il cuore consigliere, il braccio nostro soldato,<br>nostro destriero la gamba, la lingua nostro trombettiere,<br>con altri presidi e minuti aiuti<br>in questa nostra fabbrica, se essi— |
+| [[Menenius|MENENIUS]] | E allora?<br>Perbacco, costui parla! E allora? E allora? |
+| *(didascalia)* | PRIMO CITTADINO |
+| [[Menenius|MENENIUS]] | dovessero esser tenuti a freno dal ventre cormorano,<br>che è la sentina del [[Body|corpo]]— |
+| [[Menenius|MENENIUS]] | [[Well|Bene]], e allora? |
+| *(didascalia)* | PRIMO CITTADINO |
+| [[Menenius|MENENIUS]] | I detti agenti, se si lagnassero,<br>che potrebbe rispondere il ventre? |
+| [[Menenius|MENENIUS]] | Ve lo dirò,<br>se mi concederete un po’ di ciò che avete in briciola—<br>la pazienza—per un poco, udrete la risposta del ventre. |
+| *(didascalia)* | PRIMO CITTADINO |
+| [[Menenius|MENENIUS]] | Ci mettete molto. |
+| [[Menenius|MENENIUS]] | Notate questo, buon amico:<br>il vostro [[Grave|grave]]issimo ventre fu ponderato,<br>non avventato come i suoi accusatori, e così rispose:<br>«È vero, amici miei incorporati», disse egli,<br>«che io ricevo per primo il cibo comune<br>di cui vivete, ed è giusto,<br>perché io sono il magazzino e la bottega<br>di tutto il [[Body|corpo]]. Ma, se ben ricordate,<br>io lo mando per i fiumi del vostro [[Blood|sangue]]<br>fino alla [[Court|corte]], il cuore, fino al seggio del cervello;<br>e attraverso i meandri e gli uffici dell’uomo<br>i nervi più forti e le piccole vene inferiori<br>ricevono da me quella naturale sufficienza<br>onde vivono. E benché tutti insieme»—<br>voi miei buoni amici, questo dice il ventre, badate a me— |
+| *(didascalia)* | PRIMO CITTADINO |
+| [[Menenius|MENENIUS]] | Sì, signore, [[Well|bene]], [[Well|bene]]. |
+| [[Menenius|MENENIUS]] | «benché tutti insieme non possano<br>vedere ciò che io distribuisco a ciascuno,<br>pure io posso far tornare i miei conti: che tutti<br>da me ricevono in cambio il fiore d’ogni cosa<br>e a me non lasciano che la crusca». Che ne dite? |
+| *(didascalia)* | PRIMO CITTADINO |
+| [[Menenius|MENENIUS]] | Fu una risposta. Come l’applicate? |
+| [[Menenius|MENENIUS]] | I senatori di Roma sono questo buon ventre,<br>e voi le membra ammutinate. Ché, esaminando<br>i loro consigli e le loro cure, e digerendo rettamente le cose<br>quanto al bene comune, troverete<br>che nessun pubblico beneficio da voi ricevuto<br>che non proceda o venga da loro a voi,<br>e in nessun modo da voi stessi. Che ne pensi tu,<br>tu, l’alluce di questa assemblea? |
+| *(didascalia)* | PRIMO CITTADINO |
+| [[Menenius|MENENIUS]] | Io l’alluce? Perché l’alluce? |
+| [[Menenius|MENENIUS]] | Perché, essendo uno dei più bassi, più vili, più poveri<br>di questa sapientissima ribellione, tu vai per primo.<br>Tu furfante, che sei il peggiore per [[Blood|sangue]] a correre,<br>guidi la testa per guadagnare qualche vantaggio.<br>Ma tenete pronti i vostri duri bastoni e randelli.<br>Roma e i suoi topi sono sul punto di battaglia.<br>Una delle due parti dovrà averne danno. |
+| *(didascalia)* | Entra Marzio |
+| [[Menenius|MENENIUS]] | Salve, nobile Marzio! |
+| MARTIUS | Grazie.—Che c’è, canaglie sediziose,<br>che, grattando il misero prurito della vostra opinione,<br>vi fate croste? |
+| *(didascalia)* | PRIMO CITTADINO |
+| MARTIUS | Abbiamo sempre la vostra buona parola. |
+| MARTIUS | Chi vorrà darti buone parole adulerà<br>al di sotto dell’abominio. Che volete, cagnacci<br>cui non piace né pace né guerra? L’una vi spaventa,<br>l’altra vi fa superbi. Chi si fida di voi,<br>dove dovrebbe trovarvi leoni vi trova lepri,<br>dove volpi, oche. Non siete più sicuri, no,<br>di quanto sia il carbone di [[Fire|fuoco]] sul ghiaccio,<br>o la grandine al sole. La vostra virtù è<br>far degno colui che la sua colpa abbatte,<br>e maledire la giustizia che lo fece. Chi merita [[Greatness|grandezza]]<br>merita il vostro odio, e i vostri affetti sono<br>l’appetito d’un malato, che più desidera ciò<br>che accrescerebbe il suo male. Chi dipende<br>dai vostri favori nuota con pinne di piombo,<br>e abbatte querce con giunchi. Impiccatevi! Fidarmi<br>di voi?<br>Ad ogni minuto voi mutate d’animo,<br>e chiamate nobile chi poco fa odiavate,<br>vile chi era la vostra ghirlanda. Che cosa c’è,<br>che in questi diversi luoghi della [[City|città]]<br>gridate contro il nobile senato, il quale,<br>dopo gli dèi, vi tiene in soggezione, che altrimenti<br>vi divorereste l’un l’altro?<br>(A [[Menenius|Menenio]]) Che cosa cercano? |
+| [[Menenius|MENENIUS]] | Grano ai loro prezzi, del quale dicono<br>che la [[City|città]] è [[Well|ben]] fornita. |
+| MARTIUS | Impiccateli! Dicono?<br>Se ne staranno accanto al [[Fire|fuoco]] e presumeranno di sapere<br>ciò che si fa in Campidoglio, chi è probabile che salga,<br>chi prospera e chi declina; parteggiano per fazioni e mettono<br>fuori<br>matrimoni congetturali, rendendo forti certe parti<br>e infiacchendo quelle che non stanno nel loro favore<br>sotto le loro scarpe rappezzate. Dicono che c’è grano<br>abbastanza!<br>Deponesse la nobiltà la sua pietà<br>e mi lasciasse usare la mia [[Sword|spada]], farei un carnaio<br>con migliaia di questi schiavi squartati, alto<br>quanto io possa scagliare la mia lancia. |
+| [[Menenius|MENENIUS]] | Ma no, costoro sono ormai del tutto persuasi,<br>perché, sebbene abbondantemente manchino di discernimento,<br>sono però oltremodo vili. Ma vi supplico,<br>che dice l’altra torma? |
+| MARTIUS | Si sono dispersi. Impiccateli.<br>Dicevano d’aver fame, sospiravano<br>proverbi—<br>che la fame abbatte i muri di pietra, che i [[dogs|cani]] devono mangiare,<br>che la carne fu fatta per le bocche, che gli dèi non mandarono<br>il<br>grano soltanto per i ricchi. Con questi brandelli<br>sfogarono i loro lamenti, e, ottenuta risposta,<br>e concessa loro una petizione—strana davvero,<br>tale da spezzare il cuore alla generosità<br>e far impallidire l’ardito potere—gettarono i berretti<br>come volessero appenderli alle corna della [[Moon|luna]],<br>gridando la loro emulazione. |
+| [[Menenius|MENENIUS]] | Che cosa è stato loro concesso? |
+| MARTIUS | Cinque tribuni a difesa delle loro volgari saggezze,<br>di loro propria scelta. Uno è Giunio [[Brutus|Bruto]],<br>[[Sicinius|Sicinio]] Veluto, e non so chi altri. Per la morte di Dio,<br>la marmaglia avrebbe dovuto prima scoperchiare la [[City|città]]<br>che ottenere tanto da me! Col [[Time|tempo]]<br>guadagnerà sul potere e getterà argomenti maggiori<br>alle dispute dell’insurrezione. |
+| [[Menenius|MENENIUS]] | Questo è strano. |
+| MARTIUS | (ai Cittadini) Andatevene a [[Home|casa]], voi frammenti. |
+| *(didascalia)* | Entra in fretta un Messaggero |
+| MESSAGGERO | Dov’è Caio Marzio? |
+| MARTIUS | Qui. Che c’è? |
+| MESSAGGERO | La notizia è, signore, che i Volsci sono in armi. |
+| MARTIUS | Ne sono lieto. Allora avremo modo di sfogare<br>il nostro ammuffito superfluo. |
+| *(didascalia)* | Entrano [[Sicinius]], [[Brutus]], [[Cominius]], Lartius, con altri Senatori |
+| MARTIUS | Ecco, i nostri migliori anziani. |
+| PRIMO SENATORE | Marzio, è vero ciò che poco fa ci avete detto.<br>I Volsci sono in armi. |
+| MARTIUS | Hanno un condottiero,<br>Tullo [[Aufidius|Aufidio]], che vi darà del filo da torcere.<br>Pecco nell’invidiare la sua nobiltà,<br>e s’io fossi altro da ciò che sono,<br>vorrei essere lui soltanto. |
+| [[Cominius|COMINIUS]] | Vi siete battuti insieme! |
+| MARTIUS | Fosse il mondo diviso a metà per le orecchie ed egli<br>dalla mia parte, mi rivolterei per fare<br>le mie guerre soltanto con lui. È un [[Lion|leone]]<br>che sono fiero di cacciare. |
+| PRIMO SENATORE | Allora, degno Marzio,<br>accompagnate [[Cominius|Cominio]] a queste guerre. |
+| [[Cominius|COMINIUS]] | (a Marzio)<br>È la vostra antica promessa. |
+| MARTIUS | Signore, lo è,<br>e sono costante. Tito Larzio, tu<br>mi vedrai ancora una volta colpire il volto di Tullo.<br>Come, sei rigido? Ti tiri indietro? |
+| LARTIUS | No, Caio Marzio.<br>M’appoggerò a una gruccia e combatterò con l’altra<br>prima di restar fuori da questa impresa. |
+| [[Menenius|MENENIUS]] | Oh, di vera razza! |
+| *(didascalia)* | PRIMO SENATORE |
+| [[Menenius|MENENIUS]] | La vostra compagnia al Campidoglio, dove so<br>che i nostri più grandi amici ci attendono. |
+| LARTIUS | (a [[Cominius|Cominio]]) Guidateci voi.<br>(A Marzio) Segui [[Cominius|Cominio]]. Noi dobbiamo seguire te,<br>ben degno della tua precedenza. |
+| [[Cominius|COMINIUS]] | Nobile Marzio. |
+| *(didascalia)* | PRIMO SENATORE (ai Cittadini) |
+| [[Cominius|COMINIUS]] | Via alle vostre case, andatevene. |
+| MARTIUS | No, lasciate che ci seguano.<br>I Volsci hanno molto grano. Portateli là, questi topi,<br>a rodere i loro granai.<br>I Cittadini si allontanano furtivi<br>Riveriti ammutinati,<br>il vostro valore germoglia [[Well|bene]]. (Ai Senatori) Prego, seguitemi. |
+| *(didascalia)* | Escono tutti tranne [[Sicinius]] e [[Brutus]] |
+| [[Sicinius|SICINIUS]] | Vi fu mai uomo tanto superbo quanto questo Marzio? |
+| [[Brutus|BRUTUS]] | Non ha uguali. |
+| [[Sicinius|SICINIUS]] | Quando fummo scelti tribuni del popolo— |
+| [[Brutus|BRUTUS]] | Avete notato il suo labbro e i suoi occhi? |
+| [[Sicinius|SICINIUS]] | No, ma i suoi scherni. |
+| [[Brutus|BRUTUS]] | Quando è mosso, non si perita di beffare gli dèi. |
+| [[Sicinius|SICINIUS]] | Di schernire la pudica [[Moon|luna]]. |
+| BRUTES | Lo divorino le guerre presenti! È divenuto<br>troppo superbo per essere tanto valoroso. |
+| [[Sicinius|SICINIUS]] | Una simile [[Nature|natura]],<br>solleticata dal buon [[success|successo]], sdegna l’[[Shadow|ombra]]<br>che calpesta a [[Noon|mezzogiorno]]. Ma mi [[Wonder|meraviglio]]<br>che la sua insolenza sopporti d’essere comandata<br>sotto [[Cominius|Cominio]]. |
+| [[Brutus|BRUTUS]] | La fama, alla quale egli mira—<br>e presso la quale è già [[Well|ben]] favorito—non può<br>meglio esser conservata né più raggiunta che con<br>un posto secondo al primo; ché ciò che fallisce<br>sarà colpa del generale, per quanto egli faccia<br>quanto un uomo può, e la vertiginosa censura<br>griderà allora di Marzio: «Oh, se lui<br>avesse condotto l’impresa!» |
+| [[Sicinius|SICINIUS]] | Inoltre, se le cose vanno [[Well|bene]],<br>l’opinione, che tanto s’attacca a Marzio, deruberà<br>[[Cominius|Cominio]] dei meriti di lui. |
+| [[Brutus|BRUTUS]] | Andiamo,<br>metà di tutti gli onori di [[Cominius|Cominio]] toccano a Marzio,<br>benché Marzio non li abbia guadagnati; e tutte le colpe di lui<br>a Marzio si volgeranno in onori, benché in verità<br>in nulla li meriti. |
+| [[Sicinius|SICINIUS]] | Andiamo via e udiamo<br>come si allestisce la spedizione, e in qual foggia,<br>oltre la sua singolarità, egli muove<br>a questa presente azione. |
+| [[Brutus|BRUTUS]] | Andiamo. Escono<br> |
+
 
 
 <span class="atom-split" data-atom="act_1--scene_2" data-title="Coriolanus — Act I, Scene 2" data-chapter="Scene 2" data-kind="scene" data-tags="concept/doubt,character/aufidius,character/cominius,character/coriolanus"></span>
@@ -1696,6 +1812,29 @@ The [[Tragedy]] of [[Coriolanus]]
 | *(didascalia)* | Exeunt, [[Aufidius]] at one door, |
 | *(didascalia)* | Senators at another door |
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entra [[Aufidius]], con Senatori di Corioli |
+| PRIMO SENATORE | Dunque, la vostra opinione è, [[Aufidius|Aufidio]],<br>che quelli di Roma sono entrati nei nostri consigli<br>e sanno come procediamo. |
+| [[Aufidius|AUFIDIUS]] | Non è la vostra?<br>Che cosa mai fu pensata in questo stato<br>che potesse tradursi in atto corporeo prima che Roma<br>ne avesse notizia? Non son passati quattro giorni<br>da che ne ebbi avviso. Queste sono le parole. Credo<br>d’aver qui la lettera—sì, eccola. |
+| *(didascalia)* | Egli |
+| [[Aufidius|AUFIDIUS]] | legge la |
+| *(didascalia)* | lettera |
+| [[Aufidius|AUFIDIUS]] | «Hanno arruolato una forza, ma non si sa<br>se per l’oriente o per l’occidente. La carestia è grande,<br>il popolo ammutinato, e corre voce<br>che [[Cominius|Cominio]], Marzio vostro antico nemico,<br>che è odiato in Roma peggio che da voi,<br>e Tito Larzio, romano validissimo,<br>questi tre guidino tale preparativo<br>dovunque sia rivolto. Con ogni probabilità è per voi.<br>Consideratelo.» |
+| PRIMO SENATORE | Il nostro esercito è in campo.<br>Non abbiamo mai [[Doubt|dubitato]] che Roma fosse pronta<br>a risponderci. |
+| [[Aufidius|AUFIDIUS]] | Né avete pensato fosse follia<br>tenere velate le vostre grandi mire fino a quando<br>dovessero necessariamente mostrarsi; le quali, nell’<br>incubarsi,<br>parve, apparvero a Roma. Per la scoperta<br>saremo accorciati nel nostro intento, che era<br>di prendere molte città prima che Roma, quasi,<br>sapesse che eravamo in marcia. |
+| SECONDO SENATORE | Nobile [[Aufidius|Aufidio]],<br>prendete il vostro comando, correte alle vostre schiere.<br>Lasciate a noi [[Alone|soli]] la guardia di Corioli.<br>Se ci pongono l’assedio, per farlo levare<br>portate su il vostro esercito; ma credo troverete<br>che non si sono preparati contro di noi. |
+| [[Aufidius|AUFIDIUS]] | Oh, non ne [[Doubt|dubitate]].<br>Parlo per certezze. Anzi, di più:<br>alcune porzioni della loro forza sono già uscite,<br>e soltanto verso qui. Lascio i vostri onori.<br>Se io e Caio Marzio ci incontriamo per caso,<br>è giurato fra noi che colpiremo sempre<br>finché l’uno non possa più. |
+| TUTTI I SENATORI | Gli dèi vi assistano! |
+| [[Aufidius|AUFIDIUS]] | E serbino salvi i vostri onori. |
+| PRIMO SENATORE | Addio. |
+| SECONDO SENATORE | Addio. |
+| TUTTI | Addio. |
+| *(didascalia)* | Escono, [[Aufidius]] da una porta, |
+| *(didascalia)* | i Senatori da un’altra porta |
 
 
 
@@ -1751,6 +1890,56 @@ The [[Tragedy]] of [[Coriolanus]]
 | *(didascalia)* | Exeunt Valeri, [[Volumnia]], and usher at one door, [[Virgilia]] and Gentlewoman at another door |
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entrano [[Volumnia]] e [[Virgilia]], madre e moglie di Marzio. Si siedono su due bassi sgabelli e cuciono |
+| [[Volumnia|VOLUMNIA]] | Ti prego, figlia, canta, o esprimiti in modo più consolante. Se mio figlio fosse mio marito, mi rallegrerei più liberamente di quell’assenza in cui egli conquistò [[Honour|onore]] che degli abbracci del suo letto dove mostrerebbe il maggiore [[Love|amore]]. Quando egli era ancora di tenero corpo e unico figlio del mio grembo, quando la giovinezza con la sua avvenenza attirava su di lui ogni sguardo, quando per un giorno intero di preghiere di re una madre non gli venderebbe un’ora del proprio contemplarlo, io, considerando come l’[[Honour|onore]] si convenisse a una tale persona—e che non era meglio che pendere dal muro come un ritratto, se la rinomanza non lo faceva muovere—fui lieta di lasciarlo cercare il pericolo là dove era probabile trovasse la fama. A una guerra crudele lo mandai, donde tornò con le tempie cinte di quercia. Ti dico, figlia, che non sussultai di maggior gioia al primo udire che era un [[Child|figlio]] maschio, di quanta ne provo ora al primo vederlo essersi dimostrato uomo. |
+| [[Virgilia|VIRGILIA]] | Ma se fosse morto nell’impresa, signora, allora? |
+| [[Volumnia|VOLUMNIA]] | Allora la sua buona fama sarebbe stata mio figlio. In essa avrei trovato discendenza. Ascoltami professare sinceramente: se avessi una dozzina di figli, ciascuno egualmente nel mio [[Love|amore]], e nessuno meno caro del tuo e mio buon Marzio, preferirei che undici morissero nobilmente per il loro paese, piuttosto che uno si rimpinzasse voluttuosamente lontano dall’azione. |
+| *(didascalia)* | Entra una Gentildonna |
+| GENTILDONNA | Signora, la nobile Valeria è venuta a farvi visita. |
+| [[Virgilia|VIRGILIA]] | (a [[Volumnia]]) Vi supplico, concedetemi di ritirarmi. |
+| [[Volumnia|VOLUMNIA]] | Davvero non lo farete.<br>Mi par d’udire fin qui il tamburo di vostro marito,<br>di vederlo abbattere [[Aufidius|Aufidio]] per i capelli;<br>e i Volsci fuggirlo come bimbi da un orso.<br>Mi par di vederlo pestare il piede così, e gridare così:<br>«Avanti, vigliacchi, foste generati nella [[Fear|paura]]<br>benché nasceste in Roma!» E, tergendosi poi<br>la fronte insanguinata con la mano corazzata, avanza,<br>come un mietitore incaricato di falciare<br>tutto o di perdere il salario. |
+| [[Virgilia|VIRGILIA]] | La fronte insanguinata? O Giove, non [[Blood|sangue]]! |
+| [[Volumnia|VOLUMNIA]] | Via, [[Fool|sciocca]]! S’addice a un uomo più<br>dell’oro al suo trofeo. Le mammelle di Ecuba<br>quando allattava [[Hector|Ettore]] non parevano più belle<br>della fronte di [[Hector|Ettore]] quando sputava [[Blood|sangue]]<br>alla [[Sword|spada]] greca, sprezzante.<br>(Alla Gentildonna) Di’ a Valeria<br>che siamo pronte a darle il benvenuto. Esce la Gentildonna |
+| [[Virgilia|VIRGILIA]] | I cieli guardino il mio signore dal crudele [[Aufidius|Aufidio]]! |
+| [[Volumnia|VOLUMNIA]] | Egli abbatterà il capo di [[Aufidius|Aufidio]] sotto il proprio ginocchio<br>e gli calpesterà il collo. |
+| *(didascalia)* | Entra Valeria, con un usciere e la Gentildonna |
+| VALERIA | Mie signore entrambe, buon giorno a voi. |
+| [[Volumnia|VOLUMNIA]] | Dolce signora. |
+| [[Virgilia|VIRGILIA]] | Son lieta di vedere vostra signoria. |
+| VALERIA | Come state entrambe? Siete manifeste massaie. Che cosa cucite qui? Un bel ricamo, in buona [[Faith|fede]]. Come sta il vostro piccolo figlio? |
+| [[Virgilia|VIRGILIA]] | Ringrazio vostra signoria; [[Well|bene]], buona signora. |
+| [[Volumnia|VOLUMNIA]] | Preferisce vedere le spade e udire un tamburo che guardare il suo maestro di scuola. |
+| VALERIA O’ | parola mia, figlio del padre! Giurerei che è un bambino graziosissimo. In fede mia, mercoledì l’ho guardato per una mezz’ora di seguito. Ha un cipiglio così deciso! L’ho visto correre dietro a una farfalla dorata, e quando l’ebbe presa la lasciò andare di nuovo, e di nuovo dietro ad essa, e cade e ricade, e su di nuovo, e la riacchiappò. O che la caduta lo facesse infuriare, o come fosse, strinse così i denti e la lacerò! Oh, ve l’assicuro, come la fece a brandelli! |
+| [[Volumnia|VOLUMNIA]] | Uno degli umori di suo padre. |
+| VALERIA | Davvero, sì, è un nobile [[Child|fanciullo]]. |
+| [[Virgilia|VIRGILIA]] | Un monello, signora. |
+| VALERIA | Su, mettete da parte il vostro cucito. Voglio che facciate con me l’ozïosa massaia questo pomeriggio. |
+| [[Virgilia|VIRGILIA]] | No, buona signora, non uscirò di casa. |
+| VALERIA | Non uscirete di casa? |
+| [[Volumnia|VOLUMNIA]] | Uscirà, uscirà. |
+| [[Virgilia|VIRGILIA]] | Davvero no, con vostra licenza. Non varcherò la soglia finché il mio signore non torni dalle guerre. |
+| VALERIA | Suvvia, vi confinate assai irragionevolmente. Venite, dovete andare a visitare la buona dama che è in parto. |
+| [[Virgilia|VIRGILIA]] | Le augurerò pronta forza, e la visiterò con le mie preghiere, ma non posso andarvi. |
+| [[Volumnia|VOLUMNIA]] | E perché, di grazia? |
+| [[Virgilia|VIRGILIA]] | Non è per risparmiare fatica, né perché mi manchi [[Love|affetto]]. |
+| VALERIA | Vorreste essere un’altra Penelope. Eppure dicono che tutto il filo che ella filò in assenza di [[Ulysses|Ulisse]] non fece che riempire Itaca di tarme. Venite, vorrei che la vostra batista fosse sensibile come il vostro dito, sì che smetteste di pungerla per pietà. Venite, verrete con noi. |
+| [[Virgilia|VIRGILIA]] | No, buona signora, perdonatemi, davvero non uscirò. |
+| VALERIA | In [[Truth|verità]], sì, venite con me, e vi dirò eccellenti notizie di vostro marito. |
+| [[Virgilia|VIRGILIA]] | Oh, buona signora, non ve ne possono essere ancora. |
+| VALERIA | In verità, non scherzo con voi: ieri [[Night|notte]] sono giunte notizie da lui. |
+| [[Virgilia|VIRGILIA]] | Davvero, signora? |
+| VALERIA | Sul serio, è vero. L’ho udito dire da un senatore. Ecco come sta: i Volsci hanno un esercito in campo, contro il quale è andato il generale [[Cominius|Cominio]] con una parte della nostra forza romana. Il vostro signore e Tito Larzio si sono accampati davanti alla loro [[City|città]] di Corioli. Non [[Doubt|dubitano]] affatto di prevalere, e di farne una guerra breve. Questo è vero, sul mio [[Honour|onore]]; e perciò, vi prego, venite con noi. |
+| [[Virgilia|VIRGILIA]] | Scusatemi, buona signora, d’ora in poi vi obbedirò in ogni cosa. |
+| [[Volumnia|VOLUMNIA]] | (a Valeria) Lasciatela [[Alone|sola]], signora. Com’è ora non farebbe che guastare la nostra migliore allegria. |
+| VALERIA | In [[Truth|verità]], credo di sì. State [[Well|bene]], dunque. Venite, buona dolce signora. Ti prego, [[Virgilia]], caccia fuori dalla porta la tua gravità e vieni con noi. |
+| [[Virgilia|VIRGILIA]] | No, in una parola, signora. Davvero non devo. Vi auguro molta allegria. |
+| VALERIA | [[Well|Bene]] allora, addio. |
+| *(didascalia)* | Escono Valeri, [[Volumnia]] e l’usciere da una porta, [[Virgilia]] e la Gentildonna da un’altra porta |
+
 
 
 <span class="atom-split" data-atom="act_1--scene_4" data-title="Coriolanus — Act I, Scene 4" data-chapter="Scene 4" data-kind="scene" data-tags="motif/city,motif/horse,concept/fear,character/aufidius,character/coriolanus"></span>
@@ -1786,6 +1975,37 @@ The [[Tragedy]] of [[Coriolanus]]
 | *(didascalia)* | Alarum. The Romans are beat back and exeunt to their trenches, the Volsces following |
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entrano Marzio, Lartius con un tamburino, un trombettiere e insegne, con capitani e Soldati che portano scale d’assalto, come davanti alla [[City|città]] di Corioli; a loro un Messaggero |
+| MARTIUS | Laggiù vengono notizie. Scommetto che si sono scontrati. |
+| LARTIUS | Il mio [[Horse|cavallo]] contro il vostro, no. |
+| MARTIUS | Fatto. |
+| LARTIUS | D’accordo. |
+| MARTIUS | (al Messaggero)<br>Dimmi, il nostro generale ha incontrato il nemico? |
+| MESSAGGERO | Stanno in vista, ma non si sono ancora parlati. |
+| LARTIUS | Così, il buon [[Horse|cavallo]] è mio. |
+| MARTIUS | Ve lo comprerò. |
+| LARTIUS | No, non lo venderò né lo darò. Prestarvelo, quello sì,<br>per una mezza centuria d’anni.<br>(Al trombettiere) Intima la resa alla città. |
+| MARTIUS | (al Messaggero)<br>Quanto distano questi eserciti? |
+| MESSAGGERO | Entro un miglio e mezzo. |
+| MARTIUS | Allora udremo il loro allarme, ed essi il nostro.<br>Ora Marte, ti prego, rendici spediti nell’opera,<br>sì che con le spade fumanti possiamo muovere di qui<br>in aiuto degli amici schierati in campo.<br>(Al trombettiere) Su, dà fiato alla tromba.<br>Suonano a parlamento. Entrano due Senatori, con altri, sulle mura di Corioli<br>(Ai Senatori) Tullo [[Aufidius|Aufidio]], è dentro le vostre mura? |
+| PRIMO SENATORE | No, né un uomo che vi tema meno di lui:<br>ossia meno di un nulla. |
+| *(didascalia)* | Tamburo in lontananza |
+| *(didascalia)* | Ai Volsci Udite, i nostri tamburi |
+| PRIMO SENATORE | stanno traendo fuori la nostra gioventù. Romperemo le nostre mura<br>piuttosto che lasciarci rinchiudere da voi. Le nostre porte,<br>che pure sembrano serrate, le abbiamo fermate con giunchi.<br>Si apriranno da sé. |
+| *(didascalia)* | Allarme in lontananza |
+| PRIMO SENATORE | (Ai Romani) Udite, laggiù<br>c’è [[Aufidius|Aufidio]]. Ascoltate che lavoro fa<br>in mezzo al vostro esercito diviso. |
+| *(didascalia)* | Escono i Volsci dalle mura |
+| MARTIUS | Oh, ci son dentro! |
+| LARTIUS | Il loro fragore ci sia d’insegnamento. Le scale, olà! |
+| *(didascalia)* | Si preparano ad assalire le mura. |
+| *(didascalia)* | Entra l’esercito dei Volsci dalle porte |
+| MARTIUS | Non ci [[Fear|temono]], ma escono dalla loro [[City|città]].<br>Ora ponete gli scudi davanti ai cuori, e combattete<br>con cuori più saldi degli scudi. Avanza, prode<br>Tito.<br>Ci disdegnano assai oltre il nostro pensiero,<br>il che mi fa sudare d’ira. Avanti, miei<br>compagni.<br>Chi si ritira, lo terrò per un Volsco,<br>e sentirà il mio filo. |
+| *(didascalia)* | Allarme. I Romani sono respinti ed escono verso le loro trincee, i Volsci inseguendoli |
+
 
 
 <span class="atom-split" data-atom="act_1--scene_5" data-title="Coriolanus — Act I, Scene 5" data-chapter="Scene 5" data-kind="scene" data-tags="motif/city,motif/home,motif/jewel,motif/wind,concept/fear,character/coriolanus"></span>
@@ -1813,6 +2033,29 @@ The [[Tragedy]] of [[Coriolanus]]
 | LARTIUS | O, ’tis Martius!<br>Let’s fetch him off, or make remain alike.<br>They fight, and all exeunt into the [[City\|city]] |
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entrano Soldati romani, in ritirata, seguiti da Marzio, che impreca |
+| MARTIUS | Tutto il contagio del sud vi caschi addosso,<br>vergogne di Roma! Branco di—bubboni e pestilenze<br>v’intonachino tutti, sì che siate aborriti<br>più lontano di quanto siate visti, e l’uno infetti l’altro<br>contro [[Wind|vento]] per un miglio! Anime d’oche<br>che portate forme d’uomini, come siete fuggiti<br>davanti a schiavi che perfino le scimmie batterebbero! Plutone e inferno:<br>tutti feriti alle spalle! Schiene rosse e volti pallidi<br>di fuga e di febbrile [[Fear|paura]]! Ravvedetevi e caricate a [[Home|fondo]],<br>o per i fuochi del cielo lascerò il nemico<br>e farò le mie guerre contro di voi. Badateci. Avanti.<br>Se terrete saldo, li ricacceremo dalle loro mogli,<br>come essi noi nelle nostre trincee. Seguitemi. |
+| *(didascalia)* | I Romani avanzano verso le mura. Un altro allarme, ed entra l’esercito dei Volsci. Marzio li respinge attraverso le porte |
+| MARTIUS | Così, ora le porte sono aperte. Ora mostratevi buoni secondi.<br>È per chi segue che la fortuna le spalanca,<br>non per chi fugge. Guardatemi, e fate lo stesso.<br>Entra dalle porte |
+| PRIMO SOLDATO | Temerarietà! Io no. |
+| SECONDO SOLDATO | Né io. |
+| *(didascalia)* | L’allarme continua. Le porte si chiudono, e Marzio resta serrato dentro |
+| PRIMO SOLDATO | Guardate, l’hanno chiuso dentro. |
+| *(didascalia)* | TERZO SOLDATO In pentola, ve lo garantisco. |
+| *(didascalia)* | Entra Lartius |
+| LARTIUS | Che ne è stato di Marzio? |
+| *(didascalia)* | QUARTO SOLDATO |
+| LARTIUS | Ucciso, signore, senza dubbio. |
+| PRIMO SOLDATO | Seguendo i fuggitivi proprio alle calcagna,<br>con loro entra, ed essi d’improvviso<br>sbatterono le porte. Egli è [[Alone|solo]], da sé,<br>a rispondere a tutta la [[City|città]]. |
+| LARTIUS | O nobile compagno,<br>che con senno osi più della tua [[Sword|spada]] insensata<br>e, quando essa si piega, resti in piedi! Sei perduto, Marzio.<br>Un carbonchio intero, grande quanto sei tu,<br>non sarebbe [[Jewel|gioiello]] così prezioso. Fosti soldato<br>quale Catone lo desiderava, fiero e terribile<br>non solo nei colpi, ma con i tuoi truci sguardi e<br>la percussione simile a tuono dei tuoi accenti<br>facesti tremare i tuoi nemici come se il mondo<br>fosse febbricitante e vacillasse. |
+| *(didascalia)* | Entra Marzio, sanguinante, assalito dal nemico |
+| PRIMO SOLDATO | Guardate, signore. |
+| LARTIUS | Oh, è Marzio!<br>Andiamo a tirarlo fuori, o restiamo con lui alla pari.<br>Combattono, e tutti escono nella [[City|città]] |
+
 
 
 <span class="atom-split" data-atom="act_1--scene_6" data-title="Coriolanus — Act I, Scene 6" data-chapter="Scene 6" data-kind="scene" data-tags="motif/blood,motif/city,motif/love,motif/soul,motif/well,character/aufidius,character/cominius,character/coriolanus"></span>
@@ -1837,6 +2080,27 @@ The [[Tragedy]] of [[Coriolanus]]
 | LARTIUS | Go sound thy trumpet in the market-place.<br>Call thither all the officers o’th’ town,<br>Where they shall know our mind. Away. |
 | *(didascalia)* | Exeunt severally |
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entrano alcuni Romani con bottino |
+| PRIMO ROMANO | Questo lo porterò a Roma. |
+| SECONDO ROMANO | E io questo. |
+| TERZO ROMANO | Peste lo colga, l’avevo preso per argento. |
+| *(didascalia)* | Lo getta via. |
+| *(didascalia)* | L’allarme continua ancora in lontananza. Entra Marzio, |
+| TERZO ROMANO | sanguinante, e Lartius con un trombettiere. Escono<br><br>i Romani col bottino |
+| MARTIUS | Guardate qui questi facchini che stimano i loro onori<br>quanto una dracma spezzata! Cuscini, cucchiai di piombo,<br>ferraglie da un soldo, farsetti che i boia<br>seppellirebbero con chi li portò: questi vili schiavi,<br>prima ancora che il combattimento sia finito, fanno fagotto. Addosso a loro!<br>E udite che fragore leva il generale. A lui.<br>Là c’è l’uomo dell’odio della mia [[Soul|anima]], [[Aufidius|Aufidio]],<br>che trafigge i nostri Romani. Dunque, valoroso Tito, prendi<br>uomini a sufficienza per tener salda la [[City|città]],<br>mentre io, con quanti hanno cuore, m’affretterò<br>in aiuto di [[Cominius|Cominio]]. |
+| LARTIUS | Degno signore, tu sanguini.<br>Il tuo esercizio è stato troppo violento<br>per una seconda ripresa di battaglia. |
+| MARTIUS | Signore, non lodatemi.<br>La mia opera non m’ha ancora riscaldato. State [[Well|bene]].<br>Il [[Blood|sangue]] che perdo mi è piuttosto salutare<br>che pericoloso. Così ad [[Aufidius|Aufidio]]<br>apparirò e combatterò. |
+| LARTIUS | Ora la bella dea fortuna<br>s’innamori profondamente d’[[Love|amore]] per te, e i suoi grandi incanti svïino le spade dei tuoi avversari! Ardito gentiluomo, la prosperità ti faccia da paggio. |
+| MARTIUS | Tua amica non meno<br>di quanto lo sia di coloro che ella pone più in alto. E così addio. |
+| LARTIUS | Degnissimo Marzio! |
+| *(didascalia)* | Esce Marzio |
+| LARTIUS | Va’ a suonare la tua tromba nella piazza del mercato.<br>Convocavi tutti gli ufficiali della città,<br>dove conosceranno il nostro intendimento. Via. |
+| *(didascalia)* | Escono separatamente |
 
 
 
@@ -1880,6 +2144,44 @@ The [[Tragedy]] of [[Coriolanus]]
 | [[Cominius\|COMINIUS]] | March on, my fellows.<br>Make good this ostentation, and you shall<br>Divide in all with us. Exeunt marching |
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entra [[Cominius]], come in ritirata, con soldati |
+| [[Cominius|COMINIUS]] | Riprendete fiato, amici miei. [[Well|Ben]] combattuto. Ne siamo usciti<br>da Romani, né stolti nel tener fermo<br>né vili nel ritirarci. Credetemi, signori,<br>saremo caricati di nuovo. Mentre battagliavamo,<br>a intervalli e per raffiche portate dal vento abbiamo udito<br>le cariche dei nostri amici. Gli dèi romani<br>guidino i loro successi come noi auguriamo ai nostri,<br>sì che le nostre due schiere, incontrandosi con fronti<br>sorridenti,<br>possano offrirvi grato sacrificio! |
+| *(didascalia)* | Entra un Messaggero |
+| [[Cominius|COMINIUS]] | Le tue notizie? |
+| MESSAGGERO | I cittadini di Corioli sono usciti,<br>e hanno dato battaglia a Lartius e a Marzio.<br>Ho visto i nostri respinti nelle loro trincee,<br>e allora sono venuto via. |
+| [[Cominius|COMINIUS]] | Benché tu dica il [[Truth|vero]], mi pare che tu non parli [[Well|bene]]. Quanto tempo è passato? |
+| MESSAGGERO | Più di un’ora, mio signore. |
+| [[Cominius|COMINIUS]] | Non è un miglio; poco fa udimmo i loro tamburi.<br>Come hai potuto in un miglio consumare un’ora,<br>e portare così tardi le tue notizie? |
+| MESSAGGERO | Spie dei Volsci<br>mi tennero in caccia, sì che fui costretto a [[Wheel|girare]]<br>tre o quattro miglia in tondo; altrimenti, signore, |
+| *(didascalia)* | avrei portato il mio rapporto mezz’ora fa. Esce |
+| *(didascalia)* | Entra Marzio, insanguinato |
+| [[Cominius|COMINIUS]] | Chi è colui laggiù,<br>che pare come fosse scorticato? O dèi!<br>Ha l’impronta di Marzio, e già altre<br>[[Time|volte]] l’ho visto così. |
+| MARTIUS | Giungo troppo tardi? |
+| [[Cominius|COMINIUS]] | Il pastore non distingue il tuono da un tamburello<br>meglio di quanto io distingua il suono della lingua di Marzio<br>da quella d’ogni uomo da meno. |
+| MARTIUS | Giungo troppo tardi? |
+| [[Cominius|COMINIUS]] | Sì, se non venite nel [[Blood|sangue]] altrui,<br>ma ammantato del vostro. |
+| MARTIUS | Oh, lasciate ch’io vi stringa<br>con braccia salde come quando corteggiavo, con cuore<br>lieto come quando il giorno delle nostre nozze finì,<br>e le torce ardevano verso il letto! |
+| *(didascalia)* | Si abbracciano |
+| [[Cominius|COMINIUS]] | Fiore dei guerrieri! Come sta Tito Larzio? |
+| MARTIUS | Come uomo affaccendato intorno a decreti,<br>che condanna alcuni a [[Death|morte]] e altri all’[[Exile|esilio]],<br>che riscatta l’uno o gli usa pietà, minacciando l’altro;<br>tenendo Corioli in nome di Roma<br>proprio come un levriero carezzevole al guinzaglio,<br>per scioglierlo a piacere. |
+| [[Cominius|COMINIUS]] | Dov’è quello schiavo<br>che mi disse che v’avevano ricacciati nelle vostre trincee?<br>Dov’è? Chiamatelo qui. |
+| MARTIUS | Lasciatelo [[Alone|stare]].<br>Riferì il [[Truth|vero]]. Ma quanto ai nostri gentiluomini,<br>la fila comune—peste!—tribuni per loro?—<br>mai il topo fuggì il gatto come essi sgombrarono<br>davanti a canaglie peggiori di loro. |
+| [[Cominius|COMINIUS]] | Ma come prevaleste? |
+| MARTIUS | Basterà il [[Time|tempo]] a raccontarlo? Non credo.<br>Dov’è il nemico? Siete padroni del campo?<br>Se no, perché cessate prima d’esserlo? |
+| [[Cominius|COMINIUS]] | Marzio, abbiamo combattuto in condizione svantaggiosa,<br>e ci ritirammo per vincere il nostro intento. |
+| MARTIUS | Com’è schierata la loro battaglia? Sapete da qual lato<br>abbiano posto i loro uomini di fiducia? |
+| [[Cominius|COMINIUS]] | Per quanto arguisco, Marzio,<br>le loro schiere in avanguardia sono gli Anziati,<br>i più fidati; e sopra di essi [[Aufidius|Aufidio]],<br>il cuore stesso della loro [[Hope|speranza]]. |
+| MARTIUS | Vi supplico<br>per tutte le battaglie in cui abbiamo combattuto,<br>per il [[Blood|sangue]] che abbiamo versato insieme, per i voti che<br>abbiamo fatto<br>di restare amici, che mi opponiate direttamente<br>ad [[Aufidius|Aufidio]] e ai suoi Anziati,<br>e che non differiate il momento, ma,<br>riempiendo l’aria di spade levate e di dardi,<br>ne facciamo prova in quest’ora stessa. |
+| [[Cominius|COMINIUS]] | Benché io desiderassi<br>che foste condotto a un blando bagno<br>e che vi si applicassero balsami, pure non oso mai<br>negare la vostra richiesta. Scegliete fra quelli<br>che meglio possono aiutare la vostra azione. |
+| MARTIUS | Quelli sono coloro<br>che più lo vogliono. Se qualcuno di tal fatta è qui—<br>e sarebbe peccato [[Doubt|dubitarne]]—che [[Love|ami]] questa pittura<br>di cui mi vedete imbrattato; se qualcuno [[Fear|teme]]<br>meno per la sua persona che per una cattiva fama;<br>se qualcuno pensa che una [[Death|morte]] valorosa superi una vita vile,<br>e che il suo paese gli sia più caro di sé stesso,<br>egli [[Alone|solo]], o quanti siano di tal animo,<br>Agita la sua [[Sword|spada]]<br>agiti così per esprimere la sua disposizione,<br>e segua Marzio. |
+| *(didascalia)* | Tutti gridano e agitano le spade, poi alcuni lo sollevano fra le braccia e lanciano in aria i berretti |
+| MARTIUS | Di me [[Alone|solo]] fate una [[Sword|spada]]?<br>Se queste mostre non sono esteriori, chi di voi<br>non vale quattro Volsci? Nessuno di voi che non sia<br>capace di reggere contro il grande [[Aufidius|Aufidio]]<br>uno scudo duro quanto il suo. Un certo numero—<br>pur grato a tutti—devo sceglierne fra tutti.<br>Gli altri sosterranno l’impresa in qualche altro scontro<br>secondo che l’occasione lo richieda. Piacciavi marciare,<br>e presto trarrò fuori il mio drappello,<br>quali uomini vi siano meglio disposti. |
+| [[Cominius|COMINIUS]] | Marciate, compagni miei.<br>Fate buona questa ostentazione, e con noi<br>dividerete ogni cosa. Escono marciando |
+
 
 
 <span class="atom-split" data-atom="act_1--scene_8" data-title="Coriolanus — Act I, Scene 8" data-chapter="Scene 8" data-kind="scene" data-tags="concept/fear,character/cominius,character/coriolanus"></span>
@@ -1895,6 +2197,18 @@ The [[Tragedy]] of [[Coriolanus]]
 | LARTIUS | (To the scout) Our guider, come; to th’ Roman camp<br>conduct us. |
 | *(didascalia)* | Exeunt towards [[Cominius]] and Caius Martius |
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entra Lartius attraverso le porte di Corioli, con un tamburino e un trombettiere, un Luogotenente, altri soldati e un esploratore |
+| LARTIUS | (al Luogotenente)<br>Così, siano custodite le porte. Attenetevi ai vostri compiti<br>come ve li ho fissati. Se mando a chiamare, spedite<br>quelle centurie in nostro aiuto. Il resto basterà<br>per una breve difesa. Se perdiamo il campo<br>non possiamo tenere la città. |
+| LUOGOTENENTE | Non [[Fear|temete]] per la nostra cura, signore. |
+| LARTIUS | Via, e serrate le porte alle nostre spalle. |
+| *(didascalia)* | Esce il Luogotenente |
+| LARTIUS | (All’esploratore) Nostra guida, vieni; al campo romano<br>conducici. |
+| *(didascalia)* | Escono verso [[Cominius]] e Caio Marzio |
 
 
 
@@ -1914,6 +2228,21 @@ The [[Tragedy]] of [[Coriolanus]]
 | [[Aufidius\|AUFIDIUS]] | Officious and not valiant, you have shamed me<br>In your condemned seconds. |
 | *(didascalia)* | Exit |
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Allarme, come in battaglia. Entrano Marzio, insanguinato, e [[Aufidius]], da porte diverse |
+| MARTIUS | Non combatterò con nessuno se non con te, ché ti odio<br>peggio d’uno spergiuro. |
+| [[Aufidius|AUFIDIUS]] | Ci odiamo del pari.<br>L’Africa non possiede serpente ch’io aborra<br>più della tua fama e della mia invidia. Ferma il piede. |
+| MARTIUS | Chi per primo si muove muoia schiavo dell’altro,<br>e gli dèi lo dannino poi. |
+| [[Aufidius|AUFIDIUS]] | Se io fuggo, Marzio,<br>dàmmi la caccia come a una lepre. |
+| MARTIUS | Entro queste tre ore, Tullo,<br>[[Alone|solo]] ho combattuto dentro le mura della vostra Corioli,<br>e vi ho fatto l’opera che m’è piaciuta. Non è il mio [[Blood|sangue]]<br>quello di cui mi vedi mascherato. Per la tua [[Revenge|vendetta]],<br>tendi la tua forza al sommo. |
+| [[Aufidius|AUFIDIUS]] | Fossi tu quell’[[Hector|Ettore]]<br>che fu il flagello della vostra vantata progenie,<br>non mi sfuggiresti qui. |
+| *(didascalia)* | Qui combattono, e alcuni Volsci vengono in aiuto di [[Aufidius]]. Marzio combatte finché i Volsci non sono respinti dentro, senza fiato, seguiti da Marzio |
+| [[Aufidius|AUFIDIUS]] | Officiosi e non valorosi, mi avete disonorato<br>col vostro condannato soccorso. |
+| *(didascalia)* | Esce |
 
 
 
@@ -1947,6 +2276,34 @@ The [[Tragedy]] of [[Coriolanus]]
 | *(didascalia)* | A flourish of cornetts. Exeunt |
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Allarme. Si suona a raccolta. Squilli di trombe. Entra da una porta [[Cominius]] coi Romani, da un’altra porta Marzio col braccio a tracolla |
+| [[Cominius|COMINIUS]] | (a Marzio)<br>Se dovessi ridirti l’opera di questa tua giornata<br>non crederesti alle tue gesta. Ma la riferirò<br>là dove i senatori mescoleranno [[Tears|lacrime]] a sorrisi,<br>dove i grandi patrizi ascolteranno e alzeranno le spalle,<br>e alla fine ammireranno; dove le dame saranno spaventate<br>e, lietamente rabbrividendo, ne udranno ancora; dove gli ottusi<br>tribuni,<br>che coi rancidi plebei odiano i tuoi onori,<br>diranno contro il loro cuore: «Ringraziamo gli dèi<br>che la nostra Roma abbia tale soldato».<br>Eppure sei giunto a un boccone di questo banchetto,<br>avendo già pienamente pranzato. |
+| *(didascalia)* | Entra Lartius, con la sua forza, di ritorno dall’inseguimento |
+| LARTIUS | O generale,<br>ecco il destriero, noi siamo la gualdrappa.<br>Se tu avessi veduto— |
+| MARTIUS | Vi prego, basta. Mia madre,<br>che ha licenza di esaltare il proprio [[Blood|sangue]],<br>quando mi loda mi affligge. Ho fatto<br>come voi avete fatto, cioè quel che posso; spinto<br>come voi siete stato, cioè per il mio paese.<br>Chi non ha fatto altro che compiere il suo buon volere<br>ha superato l’opera mia. |
+| [[Cominius|COMINIUS]] | Non sarete<br>la [[Grave|tomba]] del vostro merito. Roma deve conoscere<br>il valore dei suoi. Sarebbe un occultamento<br>peggiore d’un furto, non meno d’una calunnia,<br>nascondere le vostre imprese e far [[Silence|tacere]] ciò<br>che, elevato alla guglia e alla cima delle lodi,<br>parrebbe ancora modesto. Perciò, vi supplico—<br>in segno di ciò che siete, non a premio<br>di ciò che avete fatto—ascoltatemi davanti al nostro esercito. |
+| MARTIUS | Ho addosso alcune ferite, e bruciano<br>a udirsi ricordare. |
+| [[Cominius|COMINIUS]] | Se non lo facessero,<br>[[Well|ben]] potrebbero incancrenirsi contro l’ingratitudine,<br>e medicarsi con la [[Death|morte]]. Di tutti i cavalli—<br>e ne abbiamo presi di buoni, e in buon numero—di tutto<br>il tesoro conquistato in questo campo e nella [[City|città]],<br>vi consegniamo il decimo, da prelevarsi<br>prima della comune distribuzione<br>a vostra sola scelta. |
+| MARTIUS | Vi ringrazio, generale,<br>ma non posso far consentire il mio cuore ad accettare<br>una mancia per pagare la mia [[Sword|spada]]. La rifiuto,<br>e mi attengo alla mia parte comune con quelli<br>che hanno sostenuto l’impresa.<br>Lungo squillo di trombe. Tutti gridano «Marzio, Marzio!», gettando in aria i berretti e le lance. [[Cominius]] e Lartius stanno a capo scoperto<br>Non suonino mai più questi stessi strumenti<br>che voi profanate. Quando tamburi e trombe<br>si faranno adulatori in campo, siano corti e città<br>tutte fatte di falsa lusinga. Quando l’acciaio si farà<br>molle come la seta del parassita, se ne faccia<br>un banditore per le guerre. Basta, dico.<br>Perché non mi son lavato il naso che sanguinava,<br>o ho abbattuto qualche debole meschino, il che senza rilievo<br>molti altri qui hanno fatto, voi mi levate a grida<br>in acclamazioni iperboliche,<br>come se amassi che la mia piccolezza fosse nutrita<br>di lodi condite di menzogne. |
+| [[Cominius|COMINIUS]] | Troppo modesto siete,<br>più crudele verso la vostra buona fama che grato<br>a noi che ve la rendiamo secondo verità. Con vostra licenza,<br>se contro voi stesso siete acceso, vi metteremo,<br>come chi medita il proprio danno, in ceppi,<br>e poi ragioneremo con voi senza rischio. Sia dunque noto,<br>a noi come a tutto il mondo, che Caio Marzio<br>porta la ghirlanda di questa guerra, in segno della quale<br>gli dono il mio nobile destriero, noto al campo,<br>con tutti i suoi finimenti; e da questo [[Time|momento]],<br>per ciò che fece davanti a Corioli, chiamatelo,<br>con tutto il plauso e il clamore dell’esercito,<br>Marzio Caio [[Coriolanus|Coriolano]]. Porta quest’aggiunta<br>nobilmente per sempre! |
+| *(didascalia)* | Squilli. Suonano trombe e tamburi |
+| TUTTI | Marzio Caio [[Coriolanus|Coriolano]]! |
+| [[Coriolanus|CORIOLANUS]] | (a [[Cominius|Cominio]]) Andrò a lavarmi,<br>e quando il mio viso sarà terso vedrete<br>se arrossisco o no. Comunque sia, vi ringrazio.<br>Intendo cavalcare il vostro destriero, e in ogni tempo<br>portare sull’elmo il vostro buon soprannome<br>fino a quanto di bello può la mia forza. |
+| [[Cominius|COMINIUS]] | Dunque, alla nostra tenda,<br>dove, prima di riposarci, scriveremo<br>a Roma del nostro [[success|successo]]. Voi, Tito Larzio,<br>dovete tornare a Corioli. Mandateci a Roma<br>i migliori, coi quali possiamo trattare<br>per il loro bene e per il nostro. |
+| LARTIUS | Lo farò, mio signore. |
+| [[Coriolanus|CORIOLANUS]] | Gli dèi cominciano a beffarmi. Io, che ora<br>ho rifiutato doni principeschi, sono costretto a mendicare<br>dal mio signore generale. |
+| [[Cominius|COMINIUS]] | Prendetelo, è vostro. Che cos’è? |
+| [[Coriolanus|CORIOLANUS]] | Un tempo alloggiai qui in Corioli,<br>in [[house|casa]] d’un pover’uomo. Mi trattò con bontà.<br>Egli gridava verso di me; lo vidi prigioniero;<br>ma allora [[Aufidius]] mi apparve alla vista,<br>e l’ira sopraffece la mia pietà. Vi chiedo<br>di dare al mio povero ospite la [[Freedom|libertà]]. |
+| [[Cominius|COMINIUS]] | Oh, [[Well|ben]] chiesto!<br>Fosse egli il macellaio di mio figlio, sarebbe<br>libero come il [[Wind|vento]]. Liberalo, Tito. |
+| LARTIUS | Marzio, il suo nome? |
+| [[Coriolanus|CORIOLANUS]] | Per Giove, dimenticato!<br>Sono stanco, sì, la mia [[Memory|memoria]] è affaticata.<br>Non abbiamo vino qui? |
+| [[Cominius|COMINIUS]] | Andiamo alla nostra tenda.<br>Il [[Blood|sangue]] sul vostro volto si secca; è [[Time|tempo]]<br>che vi si badi. Venite. |
+| *(didascalia)* | Squillo di cornette. Escono |
+
 
 
 <span class="atom-split" data-atom="act_1--scene_11" data-title="Coriolanus — Act I, Scene 11" data-chapter="Scene 11" data-kind="scene" data-tags="motif/city,motif/home,motif/journey,motif/sleep,concept/honour,concept/mercy,character/aufidius,character/coriolanus"></span>
@@ -1961,6 +2318,17 @@ The [[Tragedy]] of [[Coriolanus]]
 | [[Aufidius\|AUFIDIUS]] | I am attended at the cypress grove. I pray you—<br>’Tis south the [[City\|city]] mills—bring me word thither<br>How the world goes, that to the pace of it<br>I may spur on my [[Journey\|journey]].<br>A SOLDIER<br>I shall, sir. |
 | *(didascalia)* | Exeunt [[Aufidius]] at one door, Soldiers at another door |
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entra [[Aufidius]], insanguinato, con due o tre Soldati [[Aufidius|AUFIDIUS]] La città è presa. |
+| *(didascalia)* | UN SOLDATO<br>Sarà restituita a buone condizioni. |
+| [[Aufidius|AUFIDIUS]] | Condizioni?<br>Vorrei essere un Romano, ché non posso,<br>essendo Volsco, essere ciò che sono. Condizioni?<br>Quali buone condizioni può trovare un trattato<br>per la parte che è alla [[Mercy|mercé]] altrui? Cinque volte, Marzio,<br>ho combattuto con te; altrettante mi hai battuto,<br>e lo faresti ancora, credo, se ci incontrassimo<br>tanto spesso quanto mangiamo. Per gli elementi,<br>se mai di nuovo lo incontro barba a barba,<br>o è mio, o io son suo! La mia emulazione<br>non ha più l’[[Honour|onore]] che aveva, ché dove<br>pensavo di schiacciarlo in forza pari,<br>vera [[Sword|spada]] contro [[Sword|spada]], ora lo colpirò in qualunque modo<br>l’ira o l’astuzia possano darmelo.<br>UN SOLDATO<br>È il diavolo. |
+| [[Aufidius|AUFIDIUS]] | Più ardito, benché non così sottile. Il mio valore, avvelenato<br>dal solo patire macchia da lui, per lui<br>uscirà fuori di sé. Né [[Sleep|sonno]] né asilo,<br>l’esser nudo o infermo, né tempio né Campidoglio,<br>le preghiere dei sacerdoti né i tempi del sacrificio—<br>tutti impedimenti al furore—leveranno<br>il loro fradicio privilegio e uso contro<br>il mio odio per Marzio. Dove lo trovi, fosse pure<br>in [[Home|casa]] sotto la protezione di mio fratello, perfino là,<br>contro il canone dell’ospitalità, io<br>laverei la mia mano feroce nel suo cuore. Voi andate alla [[City|città]].<br>Apprendete come è tenuta, e chi siano coloro che devono<br>essere ostaggi per Roma.<br>UN SOLDATO<br>Non venite voi? |
+| [[Aufidius|AUFIDIUS]] | Sono atteso al boschetto di cipressi. Vi prego—<br>è a mezzogiorno dei mulini della [[City|città]]—portatemi colà notizia<br>di come va il mondo, sì che al suo passo<br>io possa spronare il mio [[Journey|cammino]].<br>UN SOLDATO<br>Lo farò, signore. |
+| *(didascalia)* | Escono [[Aufidius]] da una porta, i Soldati da un’altra porta |
 
 
 
@@ -2075,6 +2443,115 @@ The [[Tragedy]] of [[Coriolanus]]
 | [[Sicinius\|SICINIUS]] | Have with you. Exeunt |
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entra [[Menenius]] coi due tribuni del popolo, [[Sicinius]] e [[Brutus]] |
+| [[Menenius|MENENIUS]] | L’augure mi dice che stanotte avremo notizie. |
+| [[Brutus|BRUTUS]] | Buone o cattive? |
+| [[Menenius|MENENIUS]] | Non secondo la [[Prayer|preghiera]] del popolo, ché essi non [[Love|amano]] Marzio. |
+| [[Sicinius|SICINIUS]] | La [[Nature|natura]] insegna alle bestie a conoscere i loro amici. |
+| [[Menenius|MENENIUS]] | Di grazia, chi [[Love|ama]] il lupo? |
+| [[Sicinius|SICINIUS]] | L’[[Lamb|agnello]]. |
+| [[Menenius|MENENIUS]] | Sì, per divorarlo, come gli affamati plebei farebbero col nobile Marzio. |
+| [[Brutus|BRUTUS]] | È davvero un [[Lamb|agnello]] che bela come un orso. |
+| [[Menenius|MENENIUS]] | È davvero un orso che vive come un [[Lamb|agnello]]. Voi due siete vecchi. Ditemi una cosa che vi domanderò. |
+| [[Sicinius|SICINIUS]] | e [[Brutus|BRUTUS]] [[Well|Ebbene]], signore? |
+| [[Menenius|MENENIUS]] | In quale enormità è povero Marzio, che voi due non abbiate in abbondanza? |
+| [[Brutus|BRUTUS]] | Non è povero d’alcuna colpa, ma ne è fornito di tutte. [[Sicinius|SICINIUS]] Specialmente d’[[Pride|orgoglio]]. |
+| [[Brutus|BRUTUS]] | E supera tutti gli altri nel vantarsi. |
+| [[Menenius|MENENIUS]] | Questa poi è strana. Sapete voi due come siete giudicati qui in [[City|città]]—intendo da noi della fila di destra. Lo sapete? |
+| [[Sicinius|SICINIUS]] | e [[Brutus|BRUTUS]] Come, e come siamo giudicati? |
+| [[Menenius|MENENIUS]] | Perché—voi parlate d’[[Pride|orgoglio]], ora—non v’adirerete? |
+| [[Sicinius|SICINIUS]] | e [[Brutus|BRUTUS]] [[Well|Ebbene]], [[Well|bene]], signore, [[Well|ebbene]]? |
+| [[Menenius|MENENIUS]] | Ma non è gran cosa, ché un ladruncolo d’occasione vi ruberà una gran quantità di pazienza. Date le briglie alle vostre indoli, e adiratevi a vostro piacere—almeno, se prendete a piacere l’esser tali. Voi rimproverate a Marzio d’essere superbo? |
+| [[Brutus|BRUTUS]] | Non lo facciamo da [[Alone|soli]], signore. |
+| [[Menenius|MENENIUS]] | So che potete far ben poco da [[Alone|soli]], ché i vostri aiuti sono molti, altrimenti le vostre azioni riuscirebbero meravigliosamente scarne. Le vostre capacità sono troppo infantili per far molto da [[Alone|soli]]. Voi parlate d’[[Pride|orgoglio]]. Oh, poteste voltare gli occhi verso la nuca, e fare una sola ispezione interiore delle vostre buone persone! Oh, se poteste! |
+| [[Sicinius|SICINIUS]] | e [[Brutus|BRUTUS]] E allora, signore? |
+| [[Menenius|MENENIUS]] | Ma allora scoprireste una coppia di magistrati immeritevoli, superbi, violenti, iracondi, altrimenti detti sciocchi, come nessun altro in Roma. |
+| [[Sicinius|SICINIUS]] | [[Menenius|Menenio]], anche voi siete conosciuto abbastanza [[Well|bene]]. |
+| [[Menenius|MENENIUS]] | Sono conosciuto per un patrizio umorale, e per uno che ama una coppa di vino caldo senza una goccia di Tevere ad annacquarlo; si dice ch’io sia alquanto imperfetto nel favorire chi si lagna per primo, precipitoso e come esca per un moto troppo lieve; uno che conversa più con la groppa della [[Night|notte]] che con la fronte del mattino. Ciò che penso, lo dico, e spendo la mia malizia nel fiato. Incontrando due tali uomini di stato quali voi siete—non posso chiamarvi Licurghi—se la bevanda che mi date tocca male il mio palato, le faccio una smorfia. Non posso dire che le vostre signorie abbiano esposto la materia [[Well|bene]], quando trovo l’asino in composizione con la maggior parte delle vostre sillabe. E benché mi debba contentare di sopportare quanti dicono che siete uomini reverendi e [[Grave|gravi]], pure mentono mortalmente coloro che dicono che avete buone facce. Se voi vedete questo nella mappa del mio microcosmo, ne segue che anch’io sia conosciuto abbastanza [[Well|bene]]? Che danno possono le vostre cieche vedute spigolare da questo ritratto, se anch’io sono conosciuto abbastanza [[Well|bene]]? |
+| [[Brutus|BRUTUS]] | Suvvia, signore, suvvia, vi conosciamo abbastanza [[Well|bene]]. |
+| [[Menenius|MENENIUS]] | Non conoscete né me, né voi stessi, né alcuna cosa. Siete ambiziosi dei berretti e degli inchini di poveri furfanti. Consumate una buona e sana mattinata nell’udire una causa fra una venditrice d’arance e un venditore di zipoli, e poi rinviate la controversia di tre soldi a una seconda udienza. Quando ascoltate una faccenda tra parte e parte, se per caso vi punge la colica, fate smorfie da istrioni, alzate la [[Flag|bandiera]] insanguinata contro ogni pazienza, e, ruggendo per un pitale, congedate la controversia sanguinante, più imbrogliata dalla vostra udienza. Tutta la pace che fate nella loro causa è chiamare furfanti l’una e l’altra parte. Siete una strana coppia. |
+| [[Brutus|BRUTUS]] | Suvvia, suvvia, siete [[Well|ben]] noto per essere più perfetto burlone da tavola che necessario sedente in Campidoglio. |
+| [[Menenius|MENENIUS]] | I nostri stessi sacerdoti dovrebbero farsi beffeggiatori se s’imbattessero in soggetti ridicoli quali voi siete. Quando parlate meglio a proposito, non vale il dimenare delle vostre barbe, e le vostre barbe non meritano una [[Grave|tomba]] così onorevole come l’imbottire il cuscino d’un rattoppatore o l’essere sepolte nel basto d’un asino. Eppure dovete andar dicendo «Marzio è superbo», il quale, a stima da poco, vale tutti i vostri predecessori dai tempi di Deucalione, benché forse alcuni dei migliori fra essi fossero boia per eredità. Buona sera alle vostre signorie. Altro della vostra conversazione m’infetterebbe il cervello, essendo voi i mandriani dei bestiali plebei. Mi prenderò l’ardire di accomiatarmi da voi.<br>[[Leaves|Lascia]] [[Brutus]] e [[Sicinius]], che si tirano in disparte. |
+| *(didascalia)* | Entrano in fretta [[Volumnia]], [[Virgilia]] e Valeria |
+| [[Menenius|MENENIUS]] | Ebbene, mie dame tanto belle quanto nobili—e la [[Moon|luna]],<br>fosse terrena, non più nobile—dove seguite<br>i vostri occhi con tanta fretta? |
+| [[Volumnia|VOLUMNIA]] | Onorevole [[Menenius|Menenio]], il mio ragazzo Marzio s’avvicina. Per l’[[Love|amore]] di Giunone, andiamo. |
+| [[Menenius|MENENIUS]] | Ah, Marzio torna a [[Home|casa]]? 100 |
+| [[Volumnia|VOLUMNIA]] | Sì, degno [[Menenius|Menenio]], e con approvazione quanto mai prospera. |
+| *(didascalia)* | [[Menenius|MENENIUS]] gettando in aria il berretto Prendi il mio berretto, Giove, e ti ringrazio! Uhu, Marzio torna a [[Home|casa]]? |
+| [[Virgilia|VIRGILIA]] | e VALERIA Sì, è vero. |
+| [[Volumnia|VOLUMNIA]] | Guardate, ecco una lettera di lui. Lo stato ne ha un’altra, sua moglie un’altra, e credo ce ne sia una a [[Home|casa]] per voi. |
+| [[Menenius|MENENIUS]] | Farò traballare la mia stessa [[house|casa]] stanotte. Una lettera per me? |
+| [[Virgilia|VIRGILIA]] | Sì, certo, c’è una lettera per voi; l’ho vista. |
+| [[Menenius|MENENIUS]] | Una lettera per me? Mi dà un patrimonio di sette anni di salute, durante il qual [[Time|tempo]] farò una smorfia al medico. La più sovrana prescrizione di Galeno non è che empirica e, a paragone di questo preservativo, non di miglior fama d’una purga da [[Horse|cavallo]]. Non è ferito? Soleva tornare a [[Home|casa]] ferito. |
+| [[Virgilia|VIRGILIA]] | Oh, no, no, no! |
+| [[Volumnia|VOLUMNIA]] | Oh, è ferito, ne ringrazio gli dèi! |
+| [[Menenius|MENENIUS]] | Anch’io, purché non sia troppo. Se porta una vittoria in tasca, le ferite gli stanno bene. |
+| [[Volumnia|VOLUMNIA]] | Sulle tempie, [[Menenius|Menenio]]. Torna a [[Home|casa]] per la terza [[Time|volta]] con la ghirlanda di quercia. |
+| [[Menenius|MENENIUS]] | Ha castigato [[Aufidius|Aufidio]] a dovere? 124 |
+| [[Volumnia|VOLUMNIA]] | Tito Larzio scrive che si sono battuti insieme, ma [[Aufidius|Aufidio]] è scampato. |
+| [[Menenius|MENENIUS]] | Ed era anche [[Time|ora]] per lui, ve lo garantisco. Fosse rimasto con lui, non avrei voluto essere così aufidiato per tutti i forzieri di Corioli e l’oro che vi è dentro. Il senato è informato di ciò? |
+| [[Volumnia|VOLUMNIA]] | Buone dame, andiamo. Sì, sì, sì. Il senato ha lettere dal generale, nelle quali egli dà a mio figlio tutto il nome della guerra. In quest’azione ha superato doppiamente le sue gesta precedenti. |
+| VALERIA | In [[Truth|verità]], si dicono di lui cose meravigliose. |
+| [[Menenius|MENENIUS]] | Meravigliose, sì, ve lo garantisco; e non senza che egli le abbia veramente acquistate. |
+| [[Virgilia|VIRGILIA]] | Gli dèi le concedano vere. |
+| [[Volumnia|VOLUMNIA]] | Vere? Puah! |
+| [[Menenius|MENENIUS]] | Vere? Giurerei che sono vere. Dov’è ferito? (Ai tribuni) Dio salvi le vostre buone signorie. Marzio torna a [[Home|casa]]. Ha più motivo d’essere superbo. (A [[Volumnia]]) Dov’è ferito? |
+| [[Volumnia|VOLUMNIA]] | Nella spalla e nel braccio sinistro. Vi saranno larghe cicatrici da mostrare al popolo quando si presenterà per la sua carica. Nel respingere [[Tarquin|Tarquinio]] ricevette sette ferite nel [[Body|corpo]]. |
+| [[Menenius|MENENIUS]] | Una nel collo e due nella coscia—fanno nove ch’io sappia. |
+| [[Volumnia|VOLUMNIA]] | Prima di quest’ultima spedizione aveva venticinque ferite addosso. |
+| [[Menenius|MENENIUS]] | Ora sono ventisette. Ogni squarcio fu la [[Grave|tomba]] d’un nemico.<br>Grido e squillo di trombe<br>Udite, le trombe. |
+| [[Volumnia|VOLUMNIA]] | Questi sono gli araldi di Marzio. Davanti a sé porta il fragore, e dietro di sé [[Leaves|lascia]] [[Tears|lacrime]]. La [[Death|Morte]], quel cupo spirito, giace nel suo nerboruto braccio, il quale, levandosi, cala; e allora gli uomini muoiono. |
+| *(didascalia)* | Le trombe suonano una marcia. Entrano in pompa [[Cominius]] il generale e Lartius, tra loro [[Coriolanus]], coronato di ghirlanda di quercia, con capitani e soldati e un Araldo |
+| ARALDO | Sappi, Roma, che tutto [[Alone|solo]] Marzio combatté |
+| *(didascalia)* | dentro le porte di Corioli, dove egli ha conquistato 160 |
+| ARALDO | con la fama un nome a «Marzio Caio»; e a questi<br>in [[Honour|onore]] segue «[[Coriolanus|Coriolano]]».<br>Benvenuto a Roma, illustre [[Coriolanus|Coriolano]]! |
+| *(didascalia)* | Suona uno squillo |
+| TUTTI | Benvenuto a Roma, illustre [[Coriolanus|Coriolano]]! |
+| [[Coriolanus|CORIOLANUS]] | Basta di questo, mi offende il cuore.<br>Vi prego, basta. |
+| [[Cominius|COMINIUS]] | Guardate, signore, vostra madre. |
+| [[Coriolanus|CORIOLANUS]] | (a [[Volumnia]]) Oh,<br>voi avete, lo so, supplicato tutti gli dèi<br>per la mia prosperità!<br>S’inginocchia |
+| [[Volumnia|VOLUMNIA]] | No, mio buon soldato, alzati,<br>mio gentile Marzio, degno Caio, |
+| *(didascalia)* | Si alza |
+| [[Volumnia|VOLUMNIA]] | e da un [[Honour|onore]] conquistato coi fatti nuovamente nominato—<br>com’è?—«[[Coriolanus|Coriolano]]» devo chiamarti?<br>Ma oh, la tua sposa! |
+| [[Coriolanus|CORIOLANUS]] | (a [[Virgilia]]) Mio grazioso [[Silence|silenzio]], salve.<br>Avresti riso se fossi tornato a [[Home|casa]] nella<br>bara,<br>tu che piangi a vedermi trionfare? Ah, mia cara,<br>tali occhi portano le vedove in Corioli,<br>e le madri cui mancano i figli. |
+| [[Menenius|MENENIUS]] | Ora ti [[Crown|incoronino]] gli dèi! |
+| *(didascalia)* | [[Coriolanus|CORIOLANUS]] a Valeria) |
+| [[Menenius|MENENIUS]] | E voi vivete ancora? O mia dolce signora, perdono. |
+| [[Volumnia|VOLUMNIA]] | Non so dove volgermi. Oh, benvenuto a [[Home|casa]]!<br>E benvenuto, generale, e benvenuti tutti voi! |
+| [[Menenius|MENENIUS]] | Centomila benvenuti! Potrei piangere<br>e potrei ridere, sono leggero e greve. Benvenuto!<br>Una maledizione roda fin nella radice il cuore<br>di chi non è lieto di vederti. Voi siete tre<br>di cui Roma dovrebbe andar pazza. Pure, per la [[Faith|fede]] degli uomini,<br>abbiamo qui a [[Home|casa]] certi vecchi meli selvatici che non vogliono<br>essere innestati al vostro gusto. Ma benvenuti, guerrieri!<br>Chiamiamo l’ortica soltanto ortica, e<br>le colpe degli sciocchi soltanto follia. |
+| [[Cominius|COMINIUS]] | Sempre nel giusto. |
+| [[Coriolanus|CORIOLANUS]] | [[Menenius|Menenio]], sempre, sempre. |
+| ARALDO | Fate largo là, e avanti. |
+| *(didascalia)* | [[Coriolanus|CORIOLANUS]] a [[Volumnia]] e [[Virgilia]] |
+| ARALDO | La vostra mano, e la vostra.<br>Prima di riparare il capo nella mia [[house|casa]]<br>devo visitare i buoni patrizi,<br>dai quali ho ricevuto non solo saluti,<br>ma con essi mutamento d’onori. |
+| [[Volumnia|VOLUMNIA]] | Ho vissuto<br>tanto da veder ereditati i miei stessi desideri,<br>e gli edifici della mia fantasia. Soltanto<br>manca una cosa, che non [[Doubt|dubito]] affatto<br>la nostra Roma getterà su di te. |
+| [[Coriolanus|CORIOLANUS]] | Sappiate, buona madre,<br>preferirei essere loro servo a modo mio<br>che dominare su di loro al modo loro. |
+| [[Cominius|COMINIUS]] | Avanti, al Campidoglio. |
+| *(didascalia)* | Squillo di cornette. Escono in pompa, come prima, tutti tranne [[Brutus]] e [[Sicinius]], che si fanno avanti |
+| [[Brutus|BRUTUS]] | Tutte le lingue parlano di lui, e le viste appannate<br>s’inforcano gli occhiali per vederlo. La vostra ciarliera [[Nurse|nutrice]]<br>lascia il suo bimbo gridare fino allo spasimo<br>mentre chiacchiera di lui; la sguattera di cucina si appunta<br>il suo lino più prezioso attorno al collo unto,<br>arrampicandosi sui muri per adocchiarlo. Banchi, banchetti, finestre<br>sono soffocati, i tetti di piombo colmi e i comignoli cavalcati<br>da varie complessioni, tutte concordi<br>nella brama di vederlo. Flàmini che di rado si mostrano<br>si accalcano fra le folle popolari, e ansimano<br>per guadagnare un posto plebeo. Le nostre dame velate<br>abbandonano la guerra del bianco e del damasco<br>nelle loro guance gelosamente custodite al lascivo saccheggio<br>degli ardenti baci di Febo. Un tale scompiglio<br>come se qualunque dio lo guidi<br>gli fosse di soppiatto entrato nelle facoltà umane<br>e gli avesse dato graziosa figura. |
+| [[Sicinius|SICINIUS]] | D’un tratto<br>ve lo garantisco console. |
+| [[Brutus|BRUTUS]] | Allora il nostro ufficio potrà<br>durante il suo potere andare a [[Sleep|dormire]]. |
+| [[Sicinius|SICINIUS]] | Egli non sa temperatamente portare i suoi onori<br>da dove dovrebbe cominciare e finire, ma perderà<br>quelli che ha conquistato. |
+| [[Brutus|BRUTUS]] | In ciò c’è conforto. |
+| [[Sicinius|SICINIUS]] | Non [[Doubt|dubitate]]<br>che i popolani, per cui noi stiamo, non dimentichino,<br>alla loro antica malizia obbedendo,<br>al minimo pretesto questi suoi nuovi onori; ch’egli<br>gliene dia il pretesto, non lo metto in questione<br>più di quanto sia superbo nel farlo. |
+| [[Brutus|BRUTUS]] | L’ho udito giurare<br>che, dovendosi presentare per il consolato, mai<br>sarebbe comparso nella piazza del mercato né avrebbe indossato<br>la veste spelata dell’[[Humility|umiltà]],<br>né, mostrando, come è costume, le sue ferite<br>al popolo, avrebbe mendicato i loro fiati puzzolenti. |
+| [[Sicinius|SICINIUS]] | È giusto. |
+| [[Brutus|BRUTUS]] | Fu la sua parola. Oh, preferirebbe perderlo<br>piuttosto che ottenerlo, se non per la richiesta del patriziato a lui,<br>e per il [[Desire|desiderio]] dei nobili. |
+| [[Sicinius|SICINIUS]] | Non desidero di meglio<br>che vederlo tener fermo quel proposito, e metterlo<br>in esecuzione. |
+| [[Brutus|BRUTUS]] | È molto probabile che lo farà. |
+| [[Sicinius|SICINIUS]] | Sarà allora per lui, come noi ben vogliamo,<br>una sicura rovina. |
+| [[Brutus|BRUTUS]] | Così deve riuscire<br>per lui, o la nostra autorità è finita.<br>Dobbiamo suggerire al popolo in quale odio<br>egli li ha sempre tenuti; che, potendo, avrebbe<br>fatto di loro dei muli, ammutolito i loro difensori,<br>e spogliato le loro libertà, tenendoli,<br>nell’azione e capacità umana,<br>di non più [[Soul|anima]] né attitudine al mondo<br>dei cammelli nelle loro guerre, che hanno il foraggio<br>solo per portare pesi, e duri colpi<br>per crollare sotto di essi. |
+| [[Sicinius|SICINIUS]] | Questo, come dite, suggerito<br>in qualche [[Time|momento]] in cui la sua svettante insolenza<br>tocchi il popolo—e quel [[Time|momento]] non mancherà<br>se lo si spinge a ciò, il che è tanto facile<br>quanto aizzare i [[dogs|cani]] contro le pecore—sarà il suo [[Fire|fuoco]]<br>ad accendere la loro secca stoppia, e la loro fiammata<br>lo oscurerà per sempre. |
+| *(didascalia)* | Entra un Messaggero |
+| [[Brutus|BRUTUS]] | Che c’è? |
+| MESSAGGERO | Siete convocati al Campidoglio. Si pensa<br>che Marzio sarà console. Ho visto<br>i muti accalcarsi per vederlo, e i ciechi<br>per udirlo parlare. Le matrone gli gettavano guanti,<br>le dame e le fanciulle le loro sciarpe e i fazzoletti,<br>addosso mentre passava. I nobili s’inchinavano<br>come alla statua di Giove, e i popolani facevano<br>pioggia e tuono coi loro berretti e le loro grida.<br>Non vidi mai cosa simile. |
+| [[Brutus|BRUTUS]] | Andiamo al Campidoglio,<br>e portiamo con noi orecchi e occhi per il [[Time|momento]],<br>ma cuori per l’esito. |
+| [[Sicinius|SICINIUS]] | Vengo con voi. Escono |
+
 
 
 <span class="atom-split" data-atom="act_2--scene_2" data-title="Coriolanus — Act II, Scene 2" data-chapter="Scene 2" data-kind="scene" data-tags="motif/blood,motif/city,motif/death,motif/desire,motif/grave,motif/home,motif/leaves,motif/love,motif/time,motif/well,concept/body,concept/faith,concept/honour,concept/hope,concept/self,character/brutus,character/cominius,character/coriolanus,character/menenius,character/sicinius,character/tarquin"></span>
@@ -2134,6 +2611,62 @@ The [[Tragedy]] of [[Coriolanus]]
 | [[Sicinius\|SICINIUS]] | May they perceive’s intent! He will require them<br>As if he did contemn what he requested<br>Should be in them to give. |
 | [[Brutus\|BRUTUS]] | Come, we’ll inform them<br>Of our proceedings here. On th’ market-place<br>I know they do attend us. Exeunt |
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entrano due Ufficiali, a disporre cuscini, come fosse in Campidoglio |
+| PRIMO UFFICIALE | Su, su, sono quasi qui. Quanti si presentano per il consolato? |
+| SECONDO UFFICIALE | Tre, dicono, ma tutti pensano che [[Coriolanus|Coriolano]] la spunterà. |
+| PRIMO UFFICIALE | Quello è un uomo valoroso, ma è terribilmente superbo e non ama il popolo minuto. |
+| SECONDO UFFICIALE | In [[Faith|fede]], vi sono stati molti grandi uomini che hanno adulato il popolo senza mai amarlo; e ve ne sono molti che il popolo ha amato senza saperne il perché: sicché, se [[Love|amano]] senza sapere perché, odiano su fondamento non migliore. Perciò, che [[Coriolanus|Coriolano]] non si curi se lo [[Love|amino]] od odino, manifesta la vera conoscenza che ha della loro indole, e con la sua nobile noncuranza glielo lascia vedere apertamente. |
+| PRIMO UFFICIALE | Se non si curasse d’avere il loro [[Love|amore]] o no, oscillerebbe indifferente fra il non far loro né bene né male; ma egli cerca il loro odio con maggior devozione di quanta essi possano rendergliene, e non [[Leaves|lascia]] nulla d’intentato che possa scoprirlo pienamente loro avversario. Ora, il parer di ricercare la malevolenza e il dispiacere del popolo è male quanto ciò ch’egli aborre, cioè adularli per averne [[Love|amore]]. |
+| SECONDO UFFICIALE | Egli ha ben meritato del suo paese, e la sua ascesa non è per quei facili gradi di coloro che, essendo stati arrendevoli e cortesi col popolo, col berretto in mano, senz’altra impresa li hanno pienamente conquistati alla propria stima e fama. Ma egli ha così piantato i suoi onori nei loro occhi e le sue azioni nei loro cuori, che il tacere delle loro lingue e il non confessarlo sarebbe una specie d’ingrata offesa. Riferire altrimenti sarebbe una malizia che, dandosi da sé la mentita, strapperebbe rimprovero e biasimo da ogni orecchio che l’udisse. |
+| PRIMO UFFICIALE | Basta di lui. È un uomo degno. Fate largo, stanno venendo. |
+| *(didascalia)* | Marcia. Entrano i Patrizi, e [[Sicinius]] e [[Brutus]], i tribuni del popolo, coi littori davanti a loro; [[Coriolanus]], [[Menenius]], [[Cominius]] il console. I Patrizi prendono i loro posti e siedono. [[Sicinius]] e [[Brutus]] prendono posto da soli. [[Coriolanus]] resta in piedi |
+| [[Menenius|MENENIUS]] | Avendo deliberato riguardo ai Volsci, e<br>di mandare a chiamare Tito Larzio, resta<br>come punto principale di questa nostra adunanza successiva<br>di ricompensare il nobile servigio di colui che<br>così si è battuto per il suo paese. Perciò piacciavi,<br>a voi,<br>reverendissimi e [[Grave|gravi]] anziani, di [[Desire|richiedere]]<br>al presente console e ultimo generale<br>di riferire, fra i nostri [[Well|ben]] trovati successi,<br>un poco di quella degna opera compiuta<br>da Marzio Caio [[Coriolanus|Coriolano]], che<br>qui ci siamo riuniti a ringraziare e a ricordare<br>con onori simili a lui. |
+| *(didascalia)* | [[Coriolanus]] si siede |
+| PRIMO SENATORE | Parlate, buon [[Cominius|Cominio]].<br>Nulla omettete per amor di brevità, e fateci pensare<br>piuttosto che il nostro stato sia manchevole nel ricompensare<br>che noi restii nell’allargarlo.<br>(Ai tribuni) Signori del popolo,<br>chiediamo i vostri orecchi più benigni e, dopo,<br>il vostro amorevole moto verso il comune [[Body|corpo]]<br>perché conceda ciò che qui si delibera. |
+| [[Sicinius|SICINIUS]] | Siamo convenuti<br>per una gradita trattativa, e abbiamo cuori<br>inclini a [[Honour|onorare]] e a promuovere<br>il tema della nostra assemblea. |
+| [[Brutus|BRUTUS]] | Il che tanto più<br>saremo benedetti di fare, se egli ricorderà<br>una più benigna stima del popolo di<br>quella in cui finora l’ha tenuto. |
+| [[Menenius|MENENIUS]] | Questo è fuori tema, fuori tema.<br>Avrei preferito che taceste. Vi piace<br>udire parlare [[Cominius|Cominio]]? |
+| [[Brutus|BRUTUS]] | Volentierissimo,<br>eppure il mio avvertimento era più pertinente<br>del rimprovero che gli date. |
+| [[Menenius|MENENIUS]] | Egli ama il vostro popolo,<br>ma non costringetelo a esserne compagno di letto.<br>Degno [[Cominius|Cominio]], parlate.<br>[[Coriolanus]] si alza e fa per andarsene |
+| *(didascalia)* | (A [[Coriolanus]]) No, restate al vostro posto. PRIMO SENATORE Sedete, [[Coriolanus|Coriolano]]. Non vergognatevi mai di udire |
+| [[Menenius|MENENIUS]] | ciò che nobilmente avete fatto. |
+| [[Coriolanus|CORIOLANUS]] | Col perdono delle vostre signorie,<br>preferirei aver di nuovo le mie ferite da guarire<br>che udir raccontare come le ottenni. |
+| [[Brutus|BRUTUS]] | Signore, [[Hope|spero]]<br>che le mie parole non v’abbiano scacciato dal seggio? |
+| [[Coriolanus|CORIOLANUS]] | No, signore, eppure spesso,<br>là dove i colpi m’han fatto restare, sono fuggito dalle parole.<br>Voi non avete lusingato, dunque non avete ferito; ma il vostro popolo,<br>io li [[Love|amo]] quanto pesano— |
+| [[Menenius|MENENIUS]] | Vi prego, sedetevi. |
+| [[Coriolanus|CORIOLANUS]] | Preferirei farmi grattare il capo al sole<br>mentre suona l’allarme, che sedere ozioso<br>a udir mostruosamente ingigantire i miei nonnulla. |
+| *(didascalia)* | Esce |
+| [[Menenius|MENENIUS]] | Signori del popolo,<br>come può egli adulare la vostra prolifica figliata—<br>che è mille a uno di buoni—quando ora vedete<br>che preferisce rischiare tutte le sue membra per l’[[Honour|onore]]<br>piuttosto che un solo orecchio per udirne parlare? Proseguite, [[Cominius|Cominio]]. |
+| [[Cominius|COMINIUS]] | Mi mancherà la voce; le gesta di [[Coriolanus|Coriolano]]<br>non dovrebbero essere dette fiaccamente. Si ritiene<br>che il valore sia la virtù principale, e<br>più d’ogni altra nobiliti chi la possiede. Se è così,<br>l’uomo di cui parlo non può al mondo<br>essere da alcuno solo bilanciato. A sedici anni,<br>quando [[Tarquin|Tarquinio]] mosse contro Roma, egli combatté<br>oltre il segno degli altri. Il nostro dittatore d’allora,<br>che con ogni lode indico, lo vide combattere<br>quando col suo mento d’Amazzone respinse<br>le labbra irsute davanti a sé. Stette a cavalcioni<br>d’un Romano sopraffatto e, sotto gli occhi del console,<br>uccise tre avversari. Incontrò [[Tarquin|Tarquinio]] in [[Self|persona]],<br>e lo abbatté sul ginocchio. Nelle imprese di quel giorno,<br>quando avrebbe potuto recitar la donna nella scena,<br>si dimostrò il miglior uomo in campo, e a sua mercede<br>ebbe la fronte cinta di quercia. Entrata così<br>la sua età di pupillo nella virilità, crebbe come un mare,<br>e nell’urto di diciassette battaglie da allora<br>ha sottratto a tutte le spade la ghirlanda. Quanto a quest’ultima<br>davanti e dentro Corioli, lasciate ch’io dica<br>che non so renderlo appieno a [[Home|parole]]. Fermò i fuggitivi,<br>e col suo raro esempio fece sì che il vile<br>mutasse il terrore in gioco. Come alghe davanti<br>a un vascello sotto vela, così gli uomini obbedirono<br>e caddero sotto la sua prua. La sua [[Sword|spada]], suggello della [[Death|morte]],<br>dove segnava, prendeva. Dal volto ai piedi<br>era una cosa di [[Blood|sangue]], il cui ogni moto<br>era scandito da grida di morenti. [[Alone|Solo]] egli entrò<br>nella mortale porta della [[City|città]], che egli, dipinta<br>d’inevitabile destino, senza aiuto ne uscì,<br>e con un improvviso rinforzo colpì<br>Corioli come un pianeta. Ora tutto è suo.<br>Quando di lì a poco il fragore della guerra cominciò a trafiggere<br>il suo pronto sentire, allora subito il suo raddoppiato spirito<br>ravvivò ciò che nella carne era spossato,<br>e alla battaglia egli venne, dove<br>corse fumante sopra le vite degli uomini come se<br>fosse un saccheggio perpetuo; e finché non chiamammo<br>nostri il campo e la [[City|città]], mai si fermò<br>a dar sollievo al petto ansimando. |
+| [[Menenius|MENENIUS]] | Uomo degno. |
+| *(didascalia)* | PRIMO SENATORE |
+| [[Menenius|MENENIUS]] | Non può non colmare a misura gli onori<br>che gli destiniamo. |
+| [[Cominius|COMINIUS]] | Le nostre spoglie le respinse col piede,<br>e guardò le cose preziose come fossero<br>il comune sterco del mondo. Brama meno<br>di quanto la miseria stessa gli darebbe, premia<br>le sue gesta col compierle, ed è contento<br>di spendere il [[Time|tempo]] per finirlo. |
+| [[Menenius|MENENIUS]] | È veramente nobile.<br>Sia chiamato. |
+| *(didascalia)* | PRIMO SENATORE Chiamate [[Coriolanus|Coriolano]]. |
+| UFFICIALE | Eccolo che appare. |
+| *(didascalia)* | Entra [[Coriolanus]] |
+| [[Menenius|MENENIUS]] | Il senato, [[Coriolanus|Coriolano]], è [[Well|ben]] lieto<br>di farti console. |
+| [[Coriolanus|CORIOLANUS]] | Gli devo sempre<br>la mia vita e i miei servigi. |
+| [[Menenius|MENENIUS]] | Resta dunque<br>che voi parliate al popolo. |
+| [[Coriolanus|CORIOLANUS]] | Vi supplico,<br>lasciate ch’io salti quel costume, ché non posso<br>indossare la toga, stare seminudo, e implorarli<br>in nome delle mie ferite di dare il loro suffragio.<br>Piacciavi ch’io ometta questo atto. |
+| [[Sicinius|SICINIUS]] | Signore, il popolo<br>deve avere le sue voci, né rimetterà<br>un ette di cerimonia. |
+| [[Menenius|MENENIUS]] | (a [[Coriolanus]]) Non spingeteli a ciò.<br>Vi prego, adattatevi al costume e<br>prendete per voi, come hanno fatto i vostri predecessori,<br>il vostro [[Honour|onore]] con la sua forma. |
+| [[Coriolanus|CORIOLANUS]] | È una parte<br>che arrossirò a recitare, e potrebbe [[Well|bene]]<br>essere tolta al popolo. |
+| [[Brutus|BRUTUS]] | (a [[Sicinius]]) Notate questo? |
+| [[Coriolanus|CORIOLANUS]] | Vantarmi con loro: «Così feci, e così»,<br>mostrar loro le cicatrici che più non dolgono, e che dovrei nascondere,<br>come se le avessi ricevute in mercede<br>del loro solo fiato! |
+| [[Menenius|MENENIUS]] | Non insistete su ciò.—<br>Raccomandiamo a voi, tribuni del popolo,<br>il nostro proposito presso di loro; e al nostro nobile console<br>auguriamo tutti gioia e [[Honour|onore]]. |
+| SENATORI | A [[Coriolanus|Coriolano]] vengano ogni gioia e ogni [[Honour|onore]]! |
+| *(didascalia)* | Squillo di cornette, poi escono tutti tranne |
+| SENATORI | [[Sicinius]] e [[Brutus]] |
+| [[Brutus|BRUTUS]] | Vedete come intende trattare il popolo. |
+| [[Sicinius|SICINIUS]] | Possano essi avvedersi della sua intenzione! Li richiederà<br>come se disprezzasse ciò che chiede<br>debba essere in loro potere di dare. |
+| [[Brutus|BRUTUS]] | Venite, li informeremo<br>di ciò che qui si è deliberato. Nella piazza del mercato<br>so che ci attendono. Escono |
 
 
 
@@ -2245,6 +2778,113 @@ The [[Tragedy]] of [[Coriolanus]]
 | [[Sicinius\|SICINIUS]] | To th’ Capitol, come.<br>We will be there before the stream o‘th’ people,<br>And this shall seem, as partly ’tis, their own,<br>Which we have goaded onward. |
 | *(didascalia)* | Exeunt |
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entrano sette o otto Cittadini |
+| PRIMO CITTADINO | Insomma, se egli chiede le nostre voci, non dovremmo negargliele. |
+| SECONDO CITTADINO | Possiamo, signore, se vogliamo. |
+| TERZO CITTADINO | Ne abbiamo il potere in noi stessi, ma è un potere che non abbiamo il potere di esercitare. Ché, se egli ci mostra le sue ferite e ci racconta le sue gesta, dobbiamo mettere le nostre lingue in quelle ferite e parlare per esse; così, se ci narra le sue nobili gesta, dobbiamo anche narrargli la nostra nobile accettazione di esse. L’ingratitudine è mostruosa, e che la moltitudine fosse ingrata sarebbe fare della moltitudine un [[Monster|mostro]], della quale noi, essendo membra, ci ridurremmo a essere membra mostruose. |
+| PRIMO CITTADINO | E per farci stimare non meglio, basta un piccolo aiuto; ché una volta che ci levammo per il grano, egli stesso non si peritò di chiamarci moltitudine dalle molte teste. |
+| TERZO CITTADINO | Siamo stati chiamati così da molti, non perché le nostre teste sian chi bruna, chi nera, chi rossiccia, chi calva, ma perché i nostri ingegni sono così diversamente colorati; e in verità credo che se tutti i nostri ingegni dovessero uscire da un solo cranio, volerebbero a levante, a ponente, a settentrione, a mezzogiorno, e il loro accordo su una sola direzione diritta sarebbe di andare insieme a tutti i punti della bussola. |
+| SECONDO CITTADINO | Credete? E da che parte giudicate che volerebbe il mio ingegno? |
+| TERZO CITTADINO | Ma via, il vostro ingegno non uscirà tanto presto quanto quello d’un altro, ché è saldamente incuneato in una testa di legno. Ma se fosse in libertà, andrebbe di certo a mezzogiorno. SECONDO CITTADINO E perché da quella parte? |
+| TERZO CITTADINO | Per smarrirsi in una nebbia dove, essendosi per tre quarti liquefatto in rugiade marce, il quarto tornerebbe per scrupolo di [[Conscience|coscienza]], ad aiutarti a trovar moglie. |
+| SECONDO CITTADINO | Non siete mai senza le vostre facezie. Fate pure, fate pure. |
+| TERZO CITTADINO | Siete tutti risoluti a dare le vostre voci? Ma non importa, la maggioranza decide. Io dico che, se volesse inclinare verso il popolo, non ci fu mai uomo più degno. |
+| *(didascalia)* | Entra [[Coriolanus]] nella toga dell’[[Humility|umiltà]], con [[Menenius]] |
+| TERZO CITTADINO | Eccolo che viene, e nella toga dell’[[Humility|umiltà]]. Osservate il suo contegno. Non dobbiamo restare tutti insieme, ma passargli davanti dove sta, a uno a uno, a due a due, a tre a tre. Egli deve fare le sue richieste a ciascuno in particolare, in che ognuno di noi ha un [[Honour|onore]] singolo nel dargli la propria voce con la propria lingua. Perciò seguitemi, e vi indicherò come dovrete sfilargli davanti. TUTTI I CITTADINI D’accordo, d’accordo. Escono i Cittadini |
+| [[Menenius|MENENIUS]] | O signore, non fate bene. Non sapete<br>che gli uomini più degni l’hanno fatto? |
+| [[Coriolanus|CORIOLANUS]] | Che devo dire?<br>«Vi prego, signore»? Peste lo colga, non posso portare<br>la mia lingua a un tale passo. «Guardate, signore, le mie ferite.<br>Le ho avute al servizio del mio paese, quando<br>certuni dei vostri fratelli ruggivano e fuggivano<br>al fragore dei nostri stessi tamburi»? |
+| [[Menenius|MENENIUS]] | Ohimè, o dèi! 55<br>Non dovete parlare di ciò, dovete [[Desire|chiedere]] loro<br>di pensare a voi. |
+| [[Coriolanus|CORIOLANUS]] | Pensare a me? Impiccateli.<br>Vorrei che mi dimenticassero come le virtù<br>che i nostri sacerdoti sprecano per loro. |
+| [[Menenius|MENENIUS]] | Guasterete ogni cosa.<br>Vi lascio. Vi prego, parlate loro, vi prego, 60<br>in modo sano. |
+| [[Coriolanus|CORIOLANUS]] | Dite loro di lavarsi la faccia<br>e di tenersi i denti puliti. |
+| *(didascalia)* | Esce [[Menenius]] |
+| *(didascalia)* | Entrano tre dei Cittadini |
+| [[Coriolanus|CORIOLANUS]] | Ecco, arriva una coppia.<br>Voi conoscete, signore, la causa del mio star qui. |
+| TERZO CITTADINO | La conosciamo, signore. Diteci che cosa vi ci ha portato. |
+| [[Coriolanus|CORIOLANUS]] | Il mio proprio [[Desert|merito]]. |
+| SECONDO CITTADINO | Il vostro proprio [[Desert|merito]]? |
+| [[Coriolanus|CORIOLANUS]] | Sì, ma non il mio proprio [[Desire|desiderio]]. |
+| TERZO CITTADINO | Come, non il vostro proprio [[Desire|desiderio]]? |
+| [[Coriolanus|CORIOLANUS]] | No, signore, non fu mai finora mio [[Desire|desiderio]] importunare i poveri col mendicare. |
+| TERZO CITTADINO | Dovete pensare che, se vi diamo qualcosa, [[Hope|speriamo]] di guadagnarci per mezzo vostro. |
+| [[Coriolanus|CORIOLANUS]] | [[Well|Ebbene]], vi prego, il vostro prezzo per il consolato? |
+| PRIMO CITTADINO | Il prezzo è chiederlo con cortesia. |
+| [[Coriolanus|CORIOLANUS]] | Con cortesia, signore, vi prego, lasciate che l’abbia. Ho ferite da mostrarvi, che saranno vostre in privato. (Al Secondo Cittadino) La vostra buona voce, signore. Che dite? |
+| SECONDO CITTADINO | L’avrete, degno signore. |
+| [[Coriolanus|CORIOLANUS]] | Affare fatto, signore. In tutto due degne voci mendicate. Ho la vostra elemosina. Addio. |
+| TERZO CITTADINO | (agli altri Cittadini) Ma questo è alquanto strano. |
+| SECONDO CITTADINO | Se fosse da rifare—ma non importa. Escono i Cittadini |
+| *(didascalia)* | Entrano altri due Cittadini |
+| [[Coriolanus|CORIOLANUS]] | Vi prego dunque, se può accordarsi col tono delle vostre voci che io sia console, ho qui la toga consueta. |
+| *(didascalia)* | QUARTO CITTADINO Voi avete nobilmente meritato dal vostro paese, e non avete nobilmente meritato. |
+| *(didascalia)* | [[Coriolanus|CORIOLANUS]] Il vostro enigma? QUARTO CITTADINO Siete stato un flagello per i suoi nemici, siete stato una verga per i suoi amici. Non avete, in verità, amato il popolo minuto. |
+| [[Coriolanus|CORIOLANUS]] | Dovreste stimarmi tanto più virtuoso, in quanto non sono stato comune nel mio [[Love|amore]]. Io, signore, adulerò il mio fratello giurato, il popolo, per guadagnarne più cara estimazione. È una condizione che essi giudicano gentile. E poiché la saggezza della loro scelta è d’avere piuttosto il mio cappello che il mio cuore, io eserciterò il cenno insinuante e sarò con loro quanto mai contraffatto; vale a dire, signore, contraffarò l’incantesimo di qualche uomo popolare, e lo darò con larghezza a chi lo desidera. Perciò, vi supplico, ch’io possa essere console. |
+| *(didascalia)* | QUINTO CITTADINO [[Hope|Speriamo]] di trovarvi nostro amico, e perciò vi diamo di cuore le nostre voci. |
+| *(didascalia)* | QUARTO CITTADINO Avete ricevuto molte ferite per il vostro paese. |
+| [[Coriolanus|CORIOLANUS]] | Non suggellerò il vostro sapere col mostrarle. Terrò gran conto delle vostre voci, e così non v’importunerò oltre. |
+| ENTRAMBI I CITTADINI | Gli dèi vi diano gioia, signore, di cuore. [[Coriolanus|CORIOLANUS]] Dolcissime voci. |
+| *(didascalia)* | Escono i Cittadini |
+| ENTRAMBI I CITTADINI | Meglio è morire, meglio è patir la fame,<br>che implorare il salario che per primo meritiamo.<br>Perché in questa toga femminea dovrei star qui<br>a mendicare da Tizio e da Caio, che offrono<br>le loro superflue garanzie? Il costume mi ci chiama.<br>Se quel che il costume vuole in ogni cosa dovessimo farlo,<br>la [[Dust|polvere]] sull’antico [[Time|tempo]] resterebbe non spazzata,<br>e l’errore montagnoso sarebbe ammucchiato troppo in alto<br>perché la [[Truth|verità]] vi guardi oltre. Piuttosto che far così lo [[Fool|sciocco]],<br>vada l’alta carica e l’[[Honour|onore]]<br>a uno che voglia far così. Sono a mezzo.<br>L’una parte l’ho patita, l’altra la compirò. |
+| *(didascalia)* | Entrano altri tre Cittadini |
+| ENTRAMBI I CITTADINI | Ecco altre voci.<br>Le vostre voci! Per le vostre voci ho combattuto,<br>ho vegliato per le vostre voci, per le vostre voci porto<br>due dozzine e più di ferite; battaglie tre volte sei<br>ho veduto e udito per le vostre voci, ho<br>fatto molte cose, alcune meno, alcune più. Le vostre<br>voci!<br>Davvero vorrei essere console. |
+| *(didascalia)* | SESTO CITTADINO Ha agito nobilmente, e non può andarsene senza la voce d’ogni uomo onesto. |
+| *(didascalia)* | SETTIMO CITTADINO Sia dunque console. Gli dèi gli diano gioia e lo rendano buon amico del popolo! |
+| TUTTI I CITTADINI | Amen, amen. Dio ti salvi, nobile console! |
+| [[Coriolanus|CORIOLANUS]] | Degne voci. |
+| *(didascalia)* | Escono i Cittadini |
+| *(didascalia)* | Entra [[Menenius]] con [[Brutus]] e [[Sicinius]] |
+| [[Menenius|MENENIUS]] | Avete compiuto il vostro termine, e i tribuni<br>vi investono della voce del popolo. Resta<br>che, rivestito delle insegne ufficiali, voi<br>vi rechiate fra poco al senato. |
+| [[Coriolanus|CORIOLANUS]] | È fatto questo? |
+| [[Sicinius|SICINIUS]] | Il costume della richiesta l’avete adempiuto.<br>Il popolo vi ammette, ed è convocato<br>a riunirsi fra poco per la vostra approvazione. |
+| [[Coriolanus|CORIOLANUS]] | Dove, alla [[house|casa]] del senato? |
+| [[Sicinius|SICINIUS]] | Là, [[Coriolanus|Coriolano]]. |
+| [[Coriolanus|CORIOLANUS]] | Posso mutare queste vesti? |
+| [[Sicinius|SICINIUS]] | Potete, signore. |
+| [[Coriolanus|CORIOLANUS]] | Lo farò subito e, riconoscendomi di nuovo,<br>mi recherò alla [[house|casa]] del senato. |
+| [[Menenius|MENENIUS]] | Vi terrò compagnia. (Ai tribuni) Venite<br>anche voi? |
+| [[Brutus|BRUTUS]] | Restiamo qui per il popolo. |
+| [[Sicinius|SICINIUS]] | State [[Well|bene]]. |
+| *(didascalia)* | Escono [[Coriolanus]] e [[Menenius]] |
+| [[Sicinius|SICINIUS]] | Ora l’ha ottenuto, e dai suoi sguardi mi pare<br>che gli scaldi il cuore. |
+| [[Brutus|BRUTUS]] | Con cuore superbo indossò<br>i suoi umili panni. Volete congedare il popolo? |
+| *(didascalia)* | Entrano i Plebei |
+| [[Sicinius|SICINIUS]] | Ebbene, padroni miei, avete scelto quest’uomo? |
+| PRIMO CITTADINO | Ha le nostre voci, signore. |
+| [[Brutus|BRUTUS]] | Preghiamo gli dèi che possa meritare il vostro affetto. |
+| SECONDO CITTADINO | Amen, signore. Al mio povero e indegno avviso<br>egli ci ha beffati quando mendicava le nostre voci. |
+| TERZO CITTADINO | Certamente. Ci ha derisi apertamente. |
+| PRIMO CITTADINO | No, è il suo modo di parlare. Non ci ha beffati. |
+| SECONDO CITTADINO | Non uno fra noi, salvo voi, che non dica<br>che ci ha trattati con scherno. Avrebbe dovuto mostrarci<br>i suoi segni di merito, le ferite ricevute per la patria. |
+| [[Sicinius|SICINIUS]] | Ma sì che l’ha fatto, ne sono certo. |
+| TUTTI I CITTADINI | No, no; nessuno le ha viste. |
+| TERZO CITTADINO | Disse d’aver ferite che poteva mostrare in<br>privato,<br>e col cappello, agitandolo così per scherno:<br>«Vorrei essere console», dice. «L’antico costume<br>senza le vostre voci non me lo permette.<br>Le vostre voci dunque.» Quando l’avemmo concesso,<br>ecco: «Vi ringrazio per le vostre voci, vi ringrazio.<br>Dolcissime voci vostre. Ora che avete ceduto le vostre voci<br>non ho più nulla da fare con voi.» Non era questa una beffa? |
+| [[Sicinius|SICINIUS]] | Ebbene, o foste tanto ignoranti da non vederlo,<br>o, vedendolo, di così puerile cortesia<br>da cedere le vostre voci? |
+| [[Brutus|BRUTUS]] | (ai Cittadini) Non potevate dirgli,<br>come vi era stato insegnato: che quando non aveva potere<br>ma era un meschino servitore dello stato,<br>era vostro nemico, e sempre parlò contro<br>le vostre libertà e i privilegi che voi portate<br>nel [[Body|corpo]] della cosa pubblica; e ora, giungendo<br>a un posto di potenza e di dominio nello stato,<br>se ancora malignamente restasse<br>saldo nemico dei plebei, le vostre voci potrebbero<br>essere maledizioni contro voi stessi. Avreste dovuto dire<br>che, come le sue degne gesta non reclamavano meno<br>di ciò per cui si presentava, così la sua benigna [[Nature|natura]]<br>avrebbe pensato a voi per le vostre voci e<br>tradotto in [[Love|amore]] la sua malevolenza verso di voi,<br>facendosi vostro amichevole signore. |
+| [[Sicinius|SICINIUS]] | (ai Cittadini) Aver parlato così<br>come eravate stati preavvisati, avrebbe toccato il suo spirito<br>e messo alla prova la sua inclinazione, strappandogli<br>o la sua benigna promessa, alla quale voi avreste potuto,<br>quando l’occasione vi avesse chiamati, tenerlo legato,<br>oppure avrebbe irritato la sua arcigna [[Nature|natura]],<br>che non sopporta agevolmente clausola<br>che lo vincoli ad alcunché. Così spingendolo all’ira,<br>avreste dovuto approfittare della sua collera<br>e lasciarlo non eletto. |
+| [[Brutus|BRUTUS]] | (ai Cittadini) Vi siete accorti<br>che vi sollecitava in aperto disprezzo<br>quando aveva bisogno del vostro affetto, e pensate<br>che il suo disprezzo non sarà per voi un livido<br>quando avrà il potere di schiacciare? Come, i vostri corpi<br>non avevano cuore fra voi? O avevate lingue per gridare<br>contro il governo del giudizio? |
+| [[Sicinius|SICINIUS]] | (ai Cittadini) Avete<br>finora negato a chi chiedeva, e ora di nuovo,<br>a colui che non chiese ma beffò, concedete<br>le vostre lingue tanto implorate? |
+| TERZO CITTADINO | Non è confermato, possiamo ancora negarglielo. |
+| SECONDO CITTADINO | E glielo negheremo.<br>Avrò cinquecento voci di quel suono. |
+| PRIMO CITTADINO | Io due volte cinquecento, e i loro amici a rinforzarle. |
+| [[Brutus|BRUTUS]] | Andate via subito, e dite a quegli amici<br>che hanno scelto un console che toglierà loro<br>le loro libertà, li ridurrà a non aver più voce<br>dei [[dogs|cani]], che tanto spesso son battuti per aver latrato<br>quanto son tenuti apposta per farlo. |
+| [[Sicinius|SICINIUS]] | (ai Cittadini) Si radunino,<br>e con più sicuro giudizio revochino tutti<br>la vostra ignorante elezione. Rinfacciate il suo [[Pride|orgoglio]]<br>e il suo vecchio odio per voi. Inoltre, non dimenticate<br>con quale disprezzo indossò l’umile veste,<br>come nella sua richiesta vi schernì; ma il vostro affetto,<br>pensando ai suoi servigi, vi tolse<br>la percezione del suo presente contegno,<br>che egli, beffardo e senza gravità, foggiò<br>secondo l’inveterato odio che vi porta. |
+| [[Brutus|BRUTUS]] | (ai Cittadini) Date<br>la colpa a noi vostri tribuni, che non frapponemmo<br>alcun impedimento, sì che voi doveste<br>gettare su di lui la vostra elezione. |
+| [[Sicinius|SICINIUS]] | (ai Cittadini) Dite che l’avete scelto<br>più per nostro comando che guidati<br>dai vostri veri affetti, e che le vostre menti,<br>preoccupate di ciò che dovevate piuttosto fare<br>che di ciò che avreste dovuto, vi fecero controvoglia<br>acclamarlo console. Date la colpa a noi. |
+| [[Brutus|BRUTUS]] | (ai Cittadini)<br>Sì, non risparmiateci. Dite che vi tenemmo lezioni<br>su quanto giovane egli cominciò a servire il suo paese,<br>quanto a lungo continuò, e da qual ceppo discende:<br>la nobile [[house|casa]] dei Marzi, donde venne<br>quell’Anco Marzio, figlio della figlia di Numa,<br>che dopo il grande Ostilio fu qui [[King|re]];<br>della medesima [[house|casa]] furono Publio e Quinto,<br>che qui portarono per condotti la nostra acqua [[Water|migliore]];<br>e Censorino, che così fu soprannominato,<br>e nobilmente così chiamato per essere stato due volte censore,<br>fu suo grande antenato. |
+| [[Sicinius|SICINIUS]] | (ai Cittadini) Uno così disceso,<br>che oltre a ciò ha [[Well|bene]] operato nella sua persona<br>da essere posto in alto luogo, noi lo raccomandammo<br>alla vostra memoria, ma voi avete trovato,<br>misurando il suo presente contegno col passato,<br>che è vostro fisso nemico, e revocate<br>la vostra improvvisa approvazione. |
+| [[Brutus|BRUTUS]] | (ai Cittadini) Dite che non l’avreste mai fatto—<br>insistete su questo—se non per nostra istigazione;<br>e subito, quando avrete radunato il vostro numero,<br>recatevi al Campidoglio. |
+| *(didascalia)* | UN CITTADINO Così faremo. |
+| *(didascalia)* | UN ALTRO CITTADINO Quasi tutti |
+| [[Brutus|BRUTUS]] | si pentono della loro elezione. |
+| *(didascalia)* | Escono i Cittadini |
+| [[Brutus|BRUTUS]] | Lasciate che vadano.<br>Meglio arrischiare questo tumulto<br>che attendere, senza [[Doubt|dubbio]], uno maggiore.<br>Se, com’è la sua [[Nature|natura]], egli monta in furia<br>per il loro rifiuto, osservate e cogliete<br>il vantaggio della sua ira. |
+| [[Sicinius|SICINIUS]] | Al Campidoglio, venite.<br>Vi saremo prima della fiumana del popolo,<br>e ciò sembrerà, come in parte è, opera loro,<br>che noi abbiamo pungolato innanzi. |
+| *(didascalia)* | Escono |
 
 
 
@@ -2445,6 +3085,201 @@ The [[Tragedy]] of [[Coriolanus]]
 | *(didascalia)* | Patricians at another door |
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Cornette. Entrano [[Coriolanus]], [[Menenius]], tutto il patriziato; [[Cominius]], Lartius e altri Senatori |
+| [[Coriolanus|CORIOLANUS]] | Tullo [[Aufidius|Aufidio]] aveva dunque raccolto nuove forze? |
+| LARTIUS | Sì, mio signore, e fu questo che affrettò<br>il nostro accordo. |
+| [[Coriolanus|CORIOLANUS]] | Così dunque i Volsci stanno come da principio,<br>pronti, quando il [[Time|tempo]] li sproni, a fare irruzione<br>di nuovo contro di noi. |
+| [[Cominius|COMINIUS]] | Sono così logorati, signor console,<br>che difficilmente in vita nostra vedremo<br>sventolare ancora le loro insegne. |
+| [[Coriolanus|CORIOLANUS]] | (a Lartius) Avete visto [[Aufidius|Aufidio]]? |
+| LARTIUS | Venne da me con salvacondotto, e imprecava<br>contro i Volsci per aver così vilmente<br>ceduto la città. Si è ritirato ad Anzio. |
+| [[Coriolanus|CORIOLANUS]] | Parlò di me? |
+| LARTIUS | Sì, mio signore. |
+| [[Coriolanus|CORIOLANUS]] | Come? Che cosa? |
+| LARTIUS | Quante volte v’aveva incontrato [[Sword|spada]] contro [[Sword|spada]];<br>che di tutte le cose sulla terra odiava<br>la vostra persona sopra ogni altra; che avrebbe impegnato le sue fortune<br>a irreparabile perdita, purché potesse<br>essere chiamato il vostro vincitore. |
+| [[Coriolanus|CORIOLANUS]] | Ad Anzio vive? |
+| LARTIUS | Ad Anzio. |
+| [[Coriolanus|CORIOLANUS]] | Vorrei aver motivo di cercarlo là,<br>per opporre pienamente il mio odio al suo. Benvenuto a [[Home|casa]]. |
+| *(didascalia)* | Entrano [[Sicinius]] e [[Brutus]] |
+| [[Coriolanus|CORIOLANUS]] | Ecco, questi sono i tribuni del popolo,<br>le lingue della bocca comune. Io li disprezzo,<br>ché si pavoneggiano nell’autorità<br>oltre ogni nobile sopportazione. |
+| [[Sicinius|SICINIUS]] | Non passate oltre. |
+| [[Coriolanus|CORIOLANUS]] | Ah, che cos’è questo? |
+| [[Brutus|BRUTUS]] | Sarà pericoloso proseguire. Non oltre. |
+| [[Coriolanus|CORIOLANUS]] | Che cosa produce questo mutamento? |
+| [[Menenius|MENENIUS]] | Che c’è? |
+| [[Cominius|COMINIUS]] | Non ha egli superato la prova dei nobili e del popolo? |
+| [[Brutus|BRUTUS]] | [[Cominius|Cominio]], no. |
+| [[Coriolanus|CORIOLANUS]] | Ho avuto voci di fanciulli? |
+| *(didascalia)* | PRIMO SENATORE |
+| [[Coriolanus|CORIOLANUS]] | Tribuni, fate largo. Egli andrà alla piazza del mercato. |
+| [[Brutus|BRUTUS]] | Il popolo è acceso d’ira contro di lui. |
+| [[Sicinius|SICINIUS]] | Fermatevi,<br>o tutto precipiterà nel tumulto. |
+| [[Coriolanus|CORIOLANUS]] | È questo il vostro gregge?<br>Devono aver voce costoro, che possono darla ora<br>e subito rinnegare le proprie lingue? Quali sono i vostri<br>uffici?<br>Essendo voi le loro bocche, perché non governate i loro<br>denti?<br>Non li avete aizzati voi? |
+| [[Menenius|MENENIUS]] | Calma, calma. |
+| [[Coriolanus|CORIOLANUS]] | È cosa premeditata, e cresce per congiura<br>a frenare la volontà della nobiltà.<br>Sopportatelo, e vivete con gente che non sa governare<br>né mai vorrà essere governata. |
+| [[Brutus|BRUTUS]] | Non chiamatela congiura.<br>Il popolo grida che voi l’avete beffato, e che di recente,<br>quando gli fu dato il grano gratis, ve ne doleste,<br>diffamaste i patrocinatori del popolo, chiamandoli<br>servi del [[Time|tempo]], adulatori, nemici della nobiltà. |
+| [[Coriolanus|CORIOLANUS]] | Ma questo si sapeva già prima. |
+| [[Brutus|BRUTUS]] | Non da tutti loro. |
+| [[Coriolanus|CORIOLANUS]] | Glielo avete voi riferito da allora? |
+| [[Brutus|BRUTUS]] | Come, io riferirlo? |
+| *(didascalia)* | [[Coriolanus|CORIOLANUS]] |
+| [[Brutus|BRUTUS]] | Siete uomo da fare simili faccende. |
+| [[Brutus|BRUTUS]] | Non inadatto<br>in ogni modo a far meglio delle vostre. |
+| [[Coriolanus|CORIOLANUS]] | E allora perché dovrei essere console? Per quelle nubi,<br>lasciate ch’io meriti male quanto voi, e fatemi<br>vostro collega tribuno. |
+| [[Sicinius|SICINIUS]] | Voi mostrate troppo di ciò<br>per cui il popolo si agita. Se volete passare<br>là dove siete diretto, dovete chiedere la vostra via,<br>fuori della quale siete, con spirito più mite,<br>o non essere mai nobile quanto un console,<br>né aggiogarvi a lui come tribuno. |
+| [[Menenius|MENENIUS]] | Restiamo calmi. |
+| [[Cominius|COMINIUS]] | Il popolo è ingannato, aizzato. Questo tergiversare<br>non si conviene a Roma, né [[Coriolanus|Coriolano]]<br>ha meritato questo così disonorevole intoppo, falsamente posto<br>sulla piana via del suo merito. |
+| [[Coriolanus|CORIOLANUS]] | Mi parlate di grano?<br>Questo fu il mio discorso, e lo ripeterò. |
+| [[Menenius|MENENIUS]] | Non ora, non ora. |
+| *(didascalia)* | PRIMO SENATORE Non in questo calore, signore, non ora. |
+| [[Coriolanus|CORIOLANUS]] | Ora, com’è vero ch’io vivo,<br>lo farò. Miei più nobili amici, ne chiedo loro perdono.<br>Quanto alla mutevole plebaglia dal fiato rancido,<br>mi guardino, ché io non adulo,<br>e in ciò contemplino sé stessi. Lo dico di nuovo:<br>col blandirli nutriamo contro il nostro Senato<br>il loglio della ribellione, dell’insolenza, della sedizione,<br>che noi stessi abbiamo arato, seminato e<br>sparso<br>mescolandoli a noi, il numero onorato<br>cui non manca virtù, no, né potere, se non quello<br>che essi hanno dato ai mendicanti. |
+| [[Menenius|MENENIUS]] | [[Well|Bene]], basta così. |
+| *(didascalia)* | PRIMO SENATORE |
+| [[Menenius|MENENIUS]] | Non più parole, ve ne supplichiamo. |
+| [[Coriolanus|CORIOLANUS]] | Come, non più?<br>Come per il mio paese ho versato il mio [[Blood|sangue]],<br>senza temere forza esterna, così i miei polmoni<br>conieranno parole fino al loro [[Decay|sfacelo]] contro quel morbillo<br>che sdegniamo ci copra di croste, eppure abbiamo cercato<br>la via stessa per prenderlo. |
+| [[Brutus|BRUTUS]] | Voi parlate del popolo come foste un dio<br>per punire, non un uomo della loro stessa infermità. |
+| [[Sicinius|SICINIUS]] | Sarebbe [[Well|bene]] che lo facessimo sapere al popolo. |
+| [[Menenius|MENENIUS]] | Che cosa, che cosa, la sua collera? |
+| [[Coriolanus|CORIOLANUS]] | Collera? Fossi paziente come il [[Sleep|sonno]] di mezzanotte,<br>per Giove, sarebbe ugualmente il mio pensiero. |
+| [[Sicinius|SICINIUS]] | È un pensiero<br>che resterà un [[Poison|veleno]] dov’è,<br>e non [[Poison|avvelenerà]] oltre. |
+| [[Coriolanus|CORIOLANUS]] | «Resterà»?<br>Udite questo Tritone dei pesciolini? Notate<br>il suo assoluto «resterà»? |
+| [[Cominius|COMINIUS]] | Fu contro la regola. |
+| [[Coriolanus|CORIOLANUS]] | «Resterà»?<br>O buoni ma quanto mai imprudenti patrizi, come,<br>voi [[Grave|gravi]] ma sconsiderati senatori, avete così<br>concesso a quest’Idra di scegliersi un magistrato<br>che, col suo perentorio «resterà», essendo soltanto<br>il corno e il muggito del [[Monster|mostro]], non manca d’animo<br>per dire che volgerà la vostra corrente in un fossato<br>e farà suo il vostro canale? Se egli ha potere,<br>allora piegate la vostra impotenza; se non ne ha, destate<br>la vostra pericolosa mitezza. Se siete dotti,<br>non siate come sciocchi volgari; se non lo siete,<br>fateli sedere su cuscini accanto a voi. Voi siete plebei<br>se essi son senatori, ed essi non sono da meno<br>quando, mescolate le due voci, il gusto maggiore<br>sente soprattutto il loro. Essi scelgono il proprio magistrato,<br>e uno come costui, che pone il suo «resterà»,<br>il suo popolare «resterà», contro un consesso più grave<br>di quanti mai aggrottarono le ciglia in Grecia. Per Giove stesso, no:<br>ciò avvilisce i consoli, e la mia [[Soul|anima]] duole<br>al pensare che, quando due autorità sono in piedi,<br>nessuna suprema, quanto presto la confusione<br>possa entrare nel varco fra le due e prendere<br>l’una per mezzo dell’altra. |
+| [[Cominius|COMINIUS]] | [[Well|Bene]], andiamo alla piazza del mercato. |
+| [[Coriolanus|CORIOLANUS]] | Chiunque diede quel consiglio di distribuire<br>gratis il grano del granaio pubblico, come si usava<br>un tempo in Grecia— |
+| [[Menenius|MENENIUS]] | [[Well|Bene]], [[Well|bene]], basta di ciò. |
+| [[Coriolanus|CORIOLANUS]] | Benché là il popolo avesse potere più assoluto—<br>io dico che essi nutrirono la disobbedienza, alimentarono<br>la rovina dello stato. |
+| [[Brutus|BRUTUS]] | Perché mai il popolo dovrebbe dare<br>la propria voce a uno che parla così? |
+| [[Coriolanus|CORIOLANUS]] | Darò le mie ragioni,<br>più degne delle loro voci. Essi sanno che il grano<br>non era una nostra ricompensa, ben sicuri<br>d’essere [[Well|ben]] certi che non ne resero servigio. Chiamati alla guerra,<br>proprio quando l’ombelico dello stato era toccato,<br>non vollero varcare le porte. Questa specie di servigio<br>non meritava grano gratis. Trovandosi in guerra,<br>i loro ammutinamenti e le loro rivolte, in cui mostrarono<br>il maggior valore, non parlarono in loro favore. L’accusa<br>che essi hanno spesso mosso contro il senato,<br>[[unborn|priva]] d’ogni causa, non poté mai essere l’origine<br>della nostra così franca donazione. [[Well|Ebbene]], e poi?<br>Come digerirà questo petto moltiplicato<br>la cortesia del senato? Lascino i fatti esprimere<br>ciò che verosimilmente saranno le loro parole: «L’abbiamo chiesto,<br>siamo il numero maggiore, e per vera [[Fear|paura]]<br>ci hanno concesso le nostre richieste.» Così avviliamo<br>la [[Nature|natura]] dei nostri seggi, e facciamo sì che la marmaglia<br>chiami paure le nostre cure; il che col [[Time|tempo]]<br>spezzerà le serrature del senato e vi porterà<br>i corvi a beccare le aquile. |
+| [[Menenius|MENENIUS]] | Suvvia, basta. |
+| [[Brutus|BRUTUS]] | Basta e oltre misura. |
+| [[Coriolanus|CORIOLANUS]] | No, prendetene ancora.<br>Tutto ciò per cui si può giurare, divino e umano,<br>suggelli ciò con cui io concludo! Questo [[Double|doppio]] potere,<br>dove una parte disdegna a ragione, e l’altra<br>insulta senza ragione alcuna, dove nobiltà, titolo, saggezza<br>non possono concludere se non col sì e col no<br>dell’ignoranza generale, esso deve trascurare<br>le necessità reali, e cedere intanto<br>a instabile frivolezza. Sbarrato così ogni proposito, ne segue<br>che nulla si compie a proposito. Perciò vi supplico—<br>voi che volete essere meno timorosi che avveduti,<br>che [[Love|amate]] la parte fondamentale dello stato<br>più di quanto [[Doubt|temiate]] il mutarla, che preferite<br>una vita nobile a una lunga, e desiderate<br>scuotere un [[Body|corpo]] con una medicina pericolosa<br>che senza di essa è certo della [[Death|morte]]—strappate d’un colpo<br>la lingua moltitudinaria; non lascino leccare<br>il dolce che è il loro [[Poison|veleno]]. Il vostro disonore<br>strazia il giusto giudizio, e priva lo stato<br>di quell’integrità che gli si converrebbe,<br>non avendo il potere di fare il bene che vorrebbe<br>per il male che lo domina. |
+| [[Brutus|BRUTUS]] | Ha detto abbastanza. |
+| [[Sicinius|SICINIUS]] | Ha parlato da traditore, e risponderà<br>come i traditori. |
+| [[Coriolanus|CORIOLANUS]] | Tu, miserabile, ti sommerga il disprezzo!<br>Che dovrebbe farsene il popolo di questi calvi tribuni,<br>dai quali dipendendo, viene meno la loro obbedienza<br>al consesso maggiore? In una ribellione,<br>quando non ciò che è giusto ma ciò che deve essere era legge,<br>allora furono eletti. In un’ora migliore<br>si dica che ciò che è giusto deve essere giusto,<br>e si getti il loro potere nella [[Dust|polvere]]. |
+| [[Brutus|BRUTUS]] | Manifesto tradimento. |
+| [[Sicinius|SICINIUS]] | Questo un console? No. |
+| [[Brutus|BRUTUS]] | Gli edili, presto |
+| *(didascalia)* | Entra un Edile |
+| [[Brutus|BRUTUS]] | Sia arrestato. |
+| [[Sicinius|SICINIUS]] | Va’ a chiamare il popolo, |
+| *(didascalia)* | Esce l’Edile |
+| [[Sicinius|SICINIUS]] | (A [[Coriolanus]]) in nome del quale io stesso<br>ti arresto come traditore e sovvertitore,<br>nemico del pubblico bene. Obbedisci, te lo intimo,<br>e seguimi a rispondere. |
+| [[Coriolanus|CORIOLANUS]] | Via, vecchio caprone! |
+| *(didascalia)* | TUTTI I PATRIZI |
+| [[Coriolanus|CORIOLANUS]] | Ci facciamo garanti per lui. |
+| [[Cominius|COMINIUS]] | (a [[Sicinius]]) Vecchio signore, giù le mani. |
+| [[Coriolanus|CORIOLANUS]] | (a [[Sicinius]])<br>Via, cosa marcia, o ti scuoterò le ossa<br>fuori dalle vesti. |
+| [[Sicinius|SICINIUS]] | Aiuto, cittadini! |
+| *(didascalia)* | Entra una calca di Plebei, con gli Edili |
+| [[Menenius|MENENIUS]] | Più rispetto da entrambe le parti. |
+| [[Sicinius|SICINIUS]] | Eccolo<br>colui che vorrebbe togliervi tutto il vostro potere. |
+| [[Brutus|BRUTUS]] | Afferratelo, edili. |
+| *(didascalia)* | TUTTI I CITTADINI |
+| [[Brutus|BRUTUS]] | Abbasso lui, abbasso lui! |
+| SECONDO SENATORE | Armi, armi, armi!<br>Tutti si accalcano intorno a [[Coriolanus]] |
+| *(didascalia)* | CITTADINI e PATRIZI in grida sparse |
+| SECONDO SENATORE | Tribuni! Patrizi! Cittadini! Olà!<br>Sicinio! [[Brutus|Bruto]]! Coriolano! Cittadini! |
+| *(didascalia)* | ALCUNI CITTADINI e PATRIZI |
+| SECONDO SENATORE | Pace, pace, pace! Fermi! Alto! Pace! |
+| [[Menenius|MENENIUS]] | Che sta per accadere? Sono senza fiato.<br>La confusione è vicina; non posso parlare. Voi tribuni,<br>al popolo; [[Coriolanus|Coriolano]], pazienza!<br>Parla, buon [[Sicinius|Sicinio]]. |
+| [[Sicinius|SICINIUS]] | Ascoltatemi, popolo, pace. |
+| *(didascalia)* | TUTTI I CITTADINI |
+| [[Sicinius|SICINIUS]] | Ascoltiamo il nostro tribuno! Pace! Parla, parla, parla! |
+| [[Sicinius|SICINIUS]] | Siete sul punto di perdere le vostre libertà.<br>Marzio vorrebbe togliervi tutto—Marzio,<br>che poco fa avete nominato console. |
+| [[Menenius|MENENIUS]] | Vergogna, vergogna, vergogna,<br>questo è il modo di accendere, non di spegnere. |
+| *(didascalia)* | PRIMO SENATORE |
+| [[Menenius|MENENIUS]] | Di disfare la [[City|città]], e di spianare ogni cosa. |
+| [[Sicinius|SICINIUS]] | E che cos’è la [[City|città]] se non il popolo? |
+| *(didascalia)* | TUTTI I CITTADINI |
+| [[Sicinius|SICINIUS]] | Vero,<br>il popolo è la [[City|città]]. |
+| [[Brutus|BRUTUS]] | Per consenso di tutti<br>fummo istituiti magistrati del popolo. |
+| *(didascalia)* | TUTTI I CITTADINI |
+| [[Brutus|BRUTUS]] | Tali restate. |
+| [[Menenius|MENENIUS]] | E tali è probabile resterete. |
+| *(didascalia)* | [[Coriolanus|CORIOLANUS]] |
+| [[Menenius|MENENIUS]] | Questo è il modo di spianare la [[City|città]],<br>di portare il tetto alle fondamenta,<br>e seppellire tutto ciò che ancora distintamente si ordina<br>in mucchi e cumuli di rovina. |
+| [[Sicinius|SICINIUS]] | Questo merita la [[Death|morte]]. |
+| [[Brutus|BRUTUS]] | O teniamo ferma la nostra autorità,<br>o la perdiamo. Noi qui pronunciamo,<br>a nome del popolo, nel cui potere<br>fummo eletti suoi, che Marzio è degno<br>di [[Death|morte]] immediata. |
+| [[Sicinius|SICINIUS]] | Perciò afferratelo,<br>portatelo alla rupe Tarpea; e di là<br>scagliatelo nella distruzione. |
+| [[Brutus|BRUTUS]] | Edili, afferratelo. |
+| TUTTI I CITTADINI | Arrenditi, Marzio, arrenditi. |
+| [[Menenius|MENENIUS]] | Ascoltatemi una parola.<br>Vi supplico, tribuni, ascoltatemi una sola parola. |
+| EDILI | Pace, pace! |
+| [[Menenius|MENENIUS]] | (ai tribuni)<br>Siate quel che sembrate, veri amici del vostro paese,<br>e procedete temperatamente a ciò che vorreste<br>così violentemente correggere. |
+| [[Brutus|BRUTUS]] | Signore, quelle vie fredde<br>che sembrano prudenti rimedi sono veri veleni<br>dove il male è violento. Ponetegli le mani addosso,<br>e portatelo alla rupe.<br>[[Coriolanus]] sguaina la [[Sword|spada]] |
+| [[Coriolanus|CORIOLANUS]] | No, morirò qui.<br>Vi son fra voi alcuni che m’hanno visto combattere.<br>Su, provate su voi stessi ciò che m’avete visto essere. |
+| [[Menenius|MENENIUS]] | Giù quella [[Sword|spada]]. Tribuni, ritiratevi un poco. |
+| [[Brutus|BRUTUS]] | Ponetegli le mani addosso. |
+| [[Menenius|MENENIUS]] | Aiutate Marzio, aiuto!<br>Voi che siete nobili, aiutatelo, giovani e vecchi. |
+| *(didascalia)* | TUTTI I CITTADINI Abbasso lui, abbasso lui! |
+| [[Menenius|MENENIUS]] | In questo tumulto i tribuni, gli Edili e il popolo sono respinti |
+| [[Menenius|MENENIUS]] | (a [[Coriolanus]])<br>Andate alla vostra [[house|casa]]. Via, andatevene!<br>Altrimenti tutto andrà in rovina. |
+| *(didascalia)* | SECONDO SENATORE (a [[Coriolanus]]) Andatevene. [[Coriolanus|CORIOLANUS]] |
+| [[Menenius|MENENIUS]] | Teniamo saldo; abbiamo tanti amici quanti nemici. |
+| [[Menenius|MENENIUS]] | Si deve venire a questo? |
+| *(didascalia)* | PRIMO SENATORE Gli dèi non vogliano! |
+| [[Menenius|MENENIUS]] | (A [[Coriolanus]]) Ti prego, nobile amico, a [[Home|casa]], nella tua [[house|dimora]].<br>Lascia a noi curare questa piaga. |
+| [[Menenius|MENENIUS]] | Ché è una piaga su di noi<br>che voi non potete medicare da solo. Andatevene, vi supplico. |
+| *(didascalia)* | [[Cominius|COMINIUS]] Venite, signore, con noi. |
+| *(didascalia)* | [[Coriolanus|CORIOLANUS]] |
+| [[Menenius|MENENIUS]] | Vorrei che fossero barbari, come sono,<br>benché figliati in Roma; e non Romani, come non<br>sono,<br>benché partoriti nel portico del Campidoglio. |
+| *(didascalia)* | [[Menenius|MENENIUS]] Andatevene. |
+| [[Menenius|MENENIUS]] | Non mettete la vostra degna ira nella lingua.<br>Un [[Time|tempo]] sarà debitore a un altro. |
+| [[Coriolanus|CORIOLANUS]] | In campo aperto<br>ne batterei quaranta. |
+| [[Menenius|MENENIUS]] | Io stesso potrei<br>prendermene un paio dei migliori, sì, i due<br>tribuni. |
+| [[Cominius|COMINIUS]] | Ma ora la disparità è oltre ogni aritmetica,<br>e la virilità si dice follia quando resiste<br>contro un edificio che crolla.<br>(A [[Coriolanus]]) Volete andarvene<br>prima che torni la marmaglia, la cui furia lacera<br>come acque trattenute, e travolge<br>ciò che sono use a sostenere? |
+| [[Menenius|MENENIUS]] | (a [[Coriolanus]]) Vi prego, andatevene.<br>Proverò se il mio vecchio ingegno abbia ancora corso<br>con quelli che ne hanno poco. Bisogna rattoppare questo<br>con panno di qualunque colore. |
+| [[Cominius|COMINIUS]] | Su, venite via. |
+| *(didascalia)* | Escono [[Coriolanus]] e [[Cominius]] |
+| [[Cominius|COMINIUS]] | UN PATRIZIO Quest’uomo ha guastato la sua fortuna. |
+| [[Menenius|MENENIUS]] | La sua [[Nature|natura]] è troppo nobile per il mondo.<br>Non adulerebbe Nettuno per il suo tridente<br>né Giove per il suo potere di tuonare. Il suo cuore è la sua bocca.<br>Ciò che il suo petto forgia, la sua lingua lo deve emettere,<br>e, in collera, dimentica d’aver mai<br>udito il nome della [[Death|morte]]. |
+| *(didascalia)* | Rumore all’interno |
+| [[Menenius|MENENIUS]] | Ecco una bella faccenda.<br>UN PATRIZIO<br>Vorrei che fossero a letto. |
+| [[Menenius|MENENIUS]] | Vorrei che fossero nel Tevere.<br>Che diamine, non poteva parlar loro con garbo? |
+| *(didascalia)* | Entrano [[Brutus]] e [[Sicinius]], di nuovo con la calca |
+| [[Sicinius|SICINIUS]] | Dov’è questa vipera<br>che vorrebbe spopolare la [[City|città]] ed<br>essere ciascun uomo egli solo? |
+| [[Menenius|MENENIUS]] | Degni tribuni— |
+| [[Sicinius|SICINIUS]] | Sarà gettato giù dalla rupe Tarpea<br>da mani rigorose. Ha resistito alla legge,<br>e perciò la legge gli negherà ogni altro processo<br>che la severità del pubblico potere,<br>ch’egli tanto tiene per nulla. |
+| PRIMO CITTADINO | Saprà [[Well|bene]]<br>che i nobili tribuni sono le bocche del popolo,<br>e noi le loro mani. |
+| *(didascalia)* | TUTTI I CITTADINI |
+| PRIMO CITTADINO | Lo saprà, certamente. |
+| [[Menenius|MENENIUS]] | Signore, signore. |
+| [[Sicinius|SICINIUS]] | Pace! |
+| [[Menenius|MENENIUS]] | Non gridate al massacro dove dovreste solo cacciare<br>con misurato mandato. |
+| [[Sicinius|SICINIUS]] | Signore, come avviene che voi<br>abbiate aiutato a compiere questo salvataggio? |
+| [[Menenius|MENENIUS]] | Ascoltatemi parlare.<br>Come conosco il merito del console,<br>così so nominarne le colpe. |
+| [[Sicinius|SICINIUS]] | Console? Quale console? |
+| [[Menenius|MENENIUS]] | Il console [[Coriolanus|Coriolano]]. |
+| [[Brutus|BRUTUS]] | Lui console? |
+| *(didascalia)* | TUTTI I CITTADINI No, no, no, no, no! |
+| [[Menenius|MENENIUS]] | Se, col permesso dei tribuni e vostro, buon popolo,<br>posso essere udito, vorrei chiedere una parola o due,<br>le quali non vi torneranno a danno maggiore<br>che di altrettanto [[Time|tempo]] perduto. |
+| [[Sicinius|SICINIUS]] | Parlate brevemente, dunque,<br>ché siamo risoluti a spacciare<br>questo viperino traditore. Cacciarlo di qui<br>sarebbe solo nostro pericolo, e tenerlo qui<br>la nostra certa [[Death|morte]]. Perciò è decretato<br>ch’egli muoia stanotte. |
+| [[Menenius|MENENIUS]] | Ora i buoni dèi non permettano<br>che la nostra illustre Roma, la cui gratitudine<br>verso i figli che di lei ben meritarono è registrata<br>nel libro stesso di Giove, come madre snaturata<br>divori ora i propri! |
+| [[Sicinius|SICINIUS]] | È un morbo che va reciso. |
+| [[Menenius|MENENIUS]] | Oh, è un membro che ha soltanto un morbo—<br>mortale reciderlo, facile guarirlo.<br>Che ha fatto a Roma che sia degno di [[Death|morte]]?<br>Uccidere i nostri nemici; il [[Blood|sangue]] che ha perduto—<br>e oso garantire che è più di quello che gli resta<br>di molte once—lo versò per il suo paese;<br>e quel che gli resta, perderlo per opera del suo paese<br>sarebbe per tutti noi che lo facciamo e lo sopportiamo<br>un marchio fino alla fine del mondo. |
+| [[Sicinius|SICINIUS]] | Questo è del tutto fuori squadra. |
+| [[Brutus|BRUTUS]] | Del tutto storto. Quando egli [[Love|amava]] il suo paese,<br>questo l’onorava. |
+| *(didascalia)* | [[Sicinius|SICINIUS]] S |
+| [[Brutus|BRUTUS]] | Il servigio del piede,<br>una volta incancrenito, non è più tenuto in conto<br>per ciò che era prima. |
+| [[Brutus|BRUTUS]] | Non udremo altro.<br>Inseguitelo fino alla sua [[house|casa]] e strappatelo di là,<br>perché la sua infezione, essendo di [[Nature|natura]] contagiosa,<br>non si diffonda oltre. |
+| [[Menenius|MENENIUS]] | Una parola ancora, una parola!<br>Questa furia dal passo di tigre, quando scoprirà<br>il danno della sconsiderata rapidità, troppo tardi<br>si legherà pesi di piombo ai calcagni. Procedete per giudizio,<br>perché non scoppino fazioni—ché è molto amato—<br>e non saccheggino la grande Roma coi Romani. |
+| [[Brutus|BRUTUS]] | E se così fosse? |
+| [[Sicinius|SICINIUS]] | (a [[Menenius]]) Che andate dicendo?<br>Non abbiamo avuto un saggio della sua obbedienza:<br>i nostri edili percossi, noi stessi affrontati? Andiamo. |
+| [[Menenius|MENENIUS]] | Considerate questo: è stato allevato nelle guerre<br>da quando sa impugnare una [[Sword|spada]], ed è male ammaestrato<br>nel linguaggio stacciato. Farina e crusca insieme<br>egli getta senza distinzione. Concedetemi licenza,<br>andrò da lui e mi impegno a condurlo<br>dove risponderà secondo forma legale,<br>in pace, a suo estremo rischio. |
+| PRIMO SENATORE | Nobili tribuni,<br>questa è la via umana. L’altra strada<br>si rivelerà troppo sanguinosa, e la sua fine<br>ignota al principio. |
+| [[Sicinius|SICINIUS]] | Nobile [[Menenius|Menenio]],<br>siate dunque come ufficiale del popolo.<br>(Ai Cittadini) Padroni, deponete le vostre armi. |
+| [[Brutus|BRUTUS]] | Non andate a [[Home|casa]]. |
+| [[Sicinius|SICINIUS]] | Radunatevi nella piazza del mercato. (A [[Menenius]]) Vi attenderemo<br>là,<br>dove, se non conducete Marzio, procederemo<br>per la nostra prima via. |
+| [[Menenius|MENENIUS]] | Ve lo condurrò.<br>(Ai Senatori) Lasciate ch’io [[Desire|chieda]] la vostra compagnia. Deve<br>venire,<br>o seguirà il peggio. |
+| *(didascalia)* | PRIMO SENATORE |
+| [[Menenius|MENENIUS]] | Vi prego, andiamo da lui. |
+| *(didascalia)* | Escono i tribuni e i Cittadini da una porta, |
+| *(didascalia)* | i Patrizi da un’altra porta |
+
 
 
 <span class="atom-split" data-atom="act_3--scene_2" data-title="Coriolanus — Act III, Scene 2" data-chapter="Scene 2" data-kind="scene" data-tags="motif/blood,motif/city,motif/cross,motif/death,motif/dust,motif/home,motif/nature,motif/tears,motif/time,motif/well,motif/wheel,motif/wind,concept/body,concept/fear,concept/honour,concept/nature,concept/pride,concept/truth,concept/wonder,character/cominius,character/coriolanus,character/menenius,character/volumnia"></span>
@@ -2505,6 +3340,63 @@ The [[Tragedy]] of [[Coriolanus]]
 | [[Coriolanus\|CORIOLANUS]] | [[Well]], mildly be it, then—mitd)y. |
 | *(didascalia)* | Exeunt |
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entrano [[Coriolanus]] e alcuni Nobili |
+| [[Coriolanus|CORIOLANUS]] | Che mi facciano crollare tutto intorno alle orecchie, mi offrano<br>la [[Death|morte]] sulla [[Wheel|ruota]] o ai calcagni di cavalli selvaggi,<br>o ammucchino dieci colli sulla rupe Tarpea,<br>sì che il precipizio si stenda giù<br>oltre il raggio della vista: pur sempre io<br>sarò così verso di loro. |
+| *(didascalia)* | Entra [[Volumnia]] |
+| [[Coriolanus|CORIOLANUS]] | UN PATRIZIO<br>Fate la cosa più nobile. |
+| [[Coriolanus|CORIOLANUS]] | Mi stupisco che mia madre<br>non mi approvi di più, lei che soleva<br>chiamarli vassalli di lana, cose create<br>per comprare e vendere con spiccioli, per mostrare teste nude<br>nelle adunanze, per sbadigliare, tacere e [[Wonder|stupirsi]],<br>quando uno del mio rango si alzava<br>a parlare di pace o di guerra. (A [[Volumnia]]) Parlo di voi.<br>Perché mi voleste più mite? Volevate ch’io fossi<br>falso alla mia [[Nature|natura]]? Dite piuttosto ch’io recito<br>l’uomo che sono. |
+| [[Volumnia|VOLUMNIA]] | Oh, figlio, figlio, figlio,<br>avrei voluto che indossassi [[Well|bene]] il tuo potere<br>prima di consumarlo. |
+| [[Coriolanus|CORIOLANUS]] | Lasciate andare. |
+| [[Volumnia|VOLUMNIA]] | Saresti potuto essere abbastanza l’uomo che sei<br>sforzandoti meno di esserlo. Minori sarebbero state<br>le censure alle tue disposizioni se<br>non avessi mostrato loro come eri disposto<br>prima che mancasse loro il potere di [[Cross|contrariarti]]. |
+| [[Coriolanus|CORIOLANUS]] | Che li impicchino. |
+| [[Volumnia|VOLUMNIA]] | Sì, e anche li brucino. |
+| *(didascalia)* | Entra [[Menenius]] coi Senatori |
+| [[Menenius|MENENIUS]] | (a [[Coriolanus]])<br>Suvvia, suvvia, siete stato troppo ruvido, un po’ troppo<br>ruvido.<br>Dovete tornare e rimediarvi. |
+| *(didascalia)* | PRIMO SENATORE |
+| [[Menenius|MENENIUS]] | Non c’è rimedio,<br>se non facendo così la nostra buona [[City|città]]<br>si spaccherà nel mezzo e perirà. |
+| [[Volumnia|VOLUMNIA]] | (a [[Coriolanus]])<br>Ti prego, lasciati consigliare.<br>Ho un cuore poco docile quanto il tuo,<br>ma pure un cervello che guida il mio uso dell’ira<br>a miglior vantaggio. |
+| [[Menenius|MENENIUS]] | [[Well|Ben]] detto, nobile donna.<br>Prima che egli dovesse così piegarsi al gregge, se non fosse<br>che il violento accesso del [[Time|tempo]] lo esige come medicina<br>per l’intero stato, io mi metterei l’armatura,<br>che a stento posso portare. |
+| [[Coriolanus|CORIOLANUS]] | Che devo fare? |
+| [[Menenius|MENENIUS]] | Tornare dai tribuni. |
+| [[Coriolanus|CORIOLANUS]] | [[Well|Bene]], e poi, e poi? |
+| [[Menenius|MENENIUS]] | Pentirvi di quel che avete detto. |
+| [[Coriolanus|CORIOLANUS]] | Per loro? Non posso farlo verso gli dèi.<br>Devo dunque farlo verso di loro? |
+| [[Volumnia|VOLUMNIA]] | Tu sei troppo assoluto,<br>benché in ciò tu non possa mai essere troppo nobile,<br>se non quando parlano gli estremi. Ti ho udito dire<br>che l’[[Honour|onore]] e l’accortezza, come amici inseparabili,<br>in guerra crescono insieme. Ammetti questo, e dimmi<br>che cosa in pace ciascuno dei due perda per l’altro<br>se là non si uniscono. |
+| [[Coriolanus|CORIOLANUS]] | Sciocchezze, sciocchezze! |
+| [[Menenius|MENENIUS]] | Buona domanda. |
+| [[Volumnia|VOLUMNIA]] | Se è [[Honour|onore]] nelle tue guerre sembrare<br>ciò che non sei, il che per i tuoi fini migliori<br>adotti come tua accortezza, come è meno o peggio<br>ch’esso tenga compagnia in pace<br>all’[[Honour|onore]], come in guerra, poiché a entrambi<br>è richiesto allo stesso modo? |
+| [[Coriolanus|CORIOLANUS]] | Perché insistete su questo? |
+| [[Volumnia|VOLUMNIA]] | Perché ora ti tocca parlare al popolo,<br>non secondo il tuo proprio insegnamento, né secondo la materia<br>che il tuo cuore ti suggerisce, ma con parole<br>che siano solo mandate a memoria sulla tua lingua, benché soltanto<br>bastarde e sillabe di nessun valore<br>per la [[Truth|verità]] del tuo petto. Ora questo non ti<br>disonora affatto più che prendere<br>una città con parole gentili, la quale altrimenti ti metterebbe<br>alla mercé della fortuna e al rischio di molto [[Blood|sangue]].<br>Io dissimulerei con la mia [[Nature|natura]] là dove<br>le mie fortune e i miei amici in gioco esigessero<br>ch’io lo facessi in [[Honour|onore]]. Io sono in questo<br>tua moglie, tuo figlio, questi senatori, i nobili;<br>e tu preferisci mostrare ai nostri villani in genere<br>come sai aggrottare le ciglia, anziché spendere una carezza per loro<br>per l’eredità del loro amore e la salvaguardia<br>di ciò che la sua mancanza potrebbe rovinare. |
+| [[Menenius|MENENIUS]] | Nobile signora!<br>(A [[Coriolanus]]) Venite, andate con noi, parlate cortese. Così potete<br>sanare,<br>non ciò che è pericoloso al presente, ma la perdita<br>di ciò che è passato. |
+| [[Volumnia|VOLUMNIA]] | Ti prego ora, figlio mio, |
+| *(didascalia)* | Ella gli prende il berretto |
+| [[Volumnia|VOLUMNIA]] | va’ da loro con questo berretto in mano,<br>e, spintoti fin là—qui sii con<br>loro—<br>col ginocchio a baciare le pietre—ché in tali faccende<br>l’azione è eloquenza, e gli occhi degli ignoranti<br>più dotti degli orecchi—scuotendo il capo,<br>spesso, così, correggendo il tuo cuore altero,<br>ora umile come la mora più matura<br>che non regge d’esser toccata; oppure di’ loro<br>che sei il loro soldato e che, cresciuto fra i tumulti,<br>non hai il modo soave che, lo confessi,<br>a te converrebbe usare come a loro pretendere,<br>nel chiedere il loro buon amore; ma che tu ti conformerai,<br>in verità, d’ora innanzi ai loro voleri fin dove<br>hai potere e persona. |
+| [[Menenius|MENENIUS]] | (a [[Coriolanus]]) Fatto questo soltanto<br>proprio come ella dice, ebbene, i loro cuori sarebbero vostri;<br>ché essi hanno perdoni, quando richiesti, liberi<br>come parole di poco conto. |
+| [[Volumnia|VOLUMNIA]] | (a [[Coriolanus]]) Ti prego ora,<br>va’, e lasciati guidare, benché io sappia che preferiresti<br>seguire il tuo nemico in un abisso di fuoco<br>che adularlo in un pergolato. |
+| *(didascalia)* | Entra [[Cominius]] |
+| [[Volumnia|VOLUMNIA]] | Ecco [[Cominius]]. |
+| [[Cominius|COMINIUS]] | Sono stato nella piazza del mercato; e, signore, conviene<br>che vi facciate un forte partito, o vi difendiate<br>con la calma o con l’assenza. Tutto è in collera. |
+| [[Menenius|MENENIUS]] | Solo un bel discorso. |
+| [[Cominius|COMINIUS]] | Credo che basterà, se egli<br>saprà piegarvi il suo spirito. |
+| [[Volumnia|VOLUMNIA]] | Deve, e vorrà.<br>Ti prego ora, di’ che vorrai, e mettiti all’opera. |
+| [[Coriolanus|CORIOLANUS]] | Devo andare a mostrar loro la mia zucca senza elmo?<br>Devo con la mia vile lingua dare al mio nobile cuore<br>una menzogna ch’esso dovrà sopportare? [[Well|Bene]], lo farò.<br>Eppure, se non ci fosse da perdere che questa sola zolla,<br>questo stampo di Marzio, lo macinerebbero in [[Dust|polvere]]<br>e lo getterebbero contro il [[Wind|vento]]. Alla piazza del mercato.<br>Mi avete ora affidato una parte che mai<br>saprò sostenere fino in fondo. |
+| [[Cominius|COMINIUS]] | Venite, venite, vi suggeriremo noi. |
+| [[Volumnia|VOLUMNIA]] | Ti prego ora, dolce figlio, come tu hai detto<br>che le mie lodi ti fecero dapprima soldato, così,<br>per avere la mia lode di questo, recita una parte<br>che non hai mai recitato prima. |
+| [[Coriolanus|CORIOLANUS]] | [[Well|Bene]], devo farlo.<br>Via, mia indole; e mi possieda<br>lo spirito di qualche meretrice! La mia gola di guerra si muti,<br>quella che faceva coro col mio tamburo, in uno zufolo<br>sottile come un eunuco o la voce verginale<br>che culla i bambini nel sonno! I sorrisi dei furfanti<br>s’accampino sulle mie guance, e le [[Tears|lacrime]] degli scolari occupino<br>le lenti della mia vista! La lingua d’un mendicante<br>si muova fra le mie labbra, e le mie ginocchia armate,<br>che s’inchinarono solo nella staffa, si pieghino come quelle<br>di chi ha ricevuto l’elemosina! Non lo farò,<br>per non cessare di [[Honour|onorare]] la mia stessa [[Truth|verità]],<br>e insegnare, con l’azione del mio [[Body|corpo]], alla mia mente<br>una viltà del tutto connaturata. |
+| [[Volumnia|VOLUMNIA]] | A tua scelta, dunque.<br>Mendicare da te è più disonore mio<br>di quanto sia il tuo mendicare da loro. Venga pure la rovina. Che<br>tua madre senta piuttosto il tuo [[Pride|orgoglio]] che [[Fear|temere]]<br>la tua pericolosa fierezza, ché io mi burlo della [[Death|morte]]<br>con cuore grande quanto il tuo. Fa’ come ti piace.<br>Il tuo valore era mio, l’hai succhiato da me,<br>ma il tuo [[Pride|orgoglio]] lo devi a te stesso. |
+| [[Coriolanus|CORIOLANUS]] | Vi prego, quietatevi.<br>Madre, vado alla piazza del mercato.<br>Non mi rimproverate più. Ciurmerò il loro amore,<br>truffando i loro cuori, e tornerò a [[Home|casa]] amato<br>da tutte le arti di Roma. Guardate, vado.<br>Salutatemi mia moglie. Tornerò console,<br>o non fidatevi mai più di ciò che la mia lingua sa fare<br>per via d’adulazione. |
+| [[Volumnia|VOLUMNIA]] | Fa’ come vuoi. |
+| *(didascalia)* | Esce [[Volumnia]] |
+| [[Cominius|COMINIUS]] | Via! I tribuni vi attendono. Armatevi<br>per rispondere con mitezza, ché essi sono pronti<br>con accuse, a quanto sento, più forti<br>di quelle che finora vi gravano. |
+| [[Coriolanus|CORIOLANUS]] | La parola d’ordine è «con mitezza». Vi prego, andiamo.<br>Che m’accusino d’invenzioni: io<br>risponderò nel mio [[Honour|onore]]. |
+| [[Menenius|MENENIUS]] | Sì, ma con mitezza. |
+| [[Coriolanus|CORIOLANUS]] | [[Well|Bene]], sia dunque con mitezza—mitd)y. |
+| *(didascalia)* | Escono |
 
 
 
@@ -2586,6 +3478,82 @@ The [[Tragedy]] of [[Coriolanus]]
 | ALL THE CITIZENS | Come, come, let’s see him out at gates. Come.<br>The gods preserve our noble tribunes! Come. Exeunt |
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entrano [[Sicinius]] e [[Brutus]] |
+| [[Brutus|BRUTUS]] | Su questo punto incalzatelo a [[Home|fondo]]: che egli aspira<br>al potere tirannico. Se ci sfugge là,<br>incalzatelo con la sua invidia verso il popolo,<br>e col fatto che il bottino preso agli Anziati<br>non fu mai distribuito. |
+| *(didascalia)* | Entra un Edile |
+| [[Brutus|BRUTUS]] | Ebbene, verrà? |
+| EDILE | Sta venendo. |
+| [[Brutus|BRUTUS]] | Con che seguito? |
+| EDILE | Col vecchio [[Menenius]], e con quei senatori<br>che sempre lo favorirono. |
+| [[Sicinius|SICINIUS]] | Avete un catalogo<br>di tutte le voci che abbiamo procurato,<br>registrate a testa? |
+| EDILE | Ce l’ho, è pronto. |
+| [[Sicinius|SICINIUS]] | Le avete raccolte per tribù? |
+| EDILE | Sì. |
+| [[Sicinius|SICINIUS]] | Radunate subito qui il popolo,<br>e quando mi sentiranno dire «Così sarà<br>per diritto e forza del popolo», sia esso<br>per la [[Death|morte]], per la multa o per il bando, allora essi,<br>se io dico «Multa», gridino «Multa!», se «[[Death|Morte]]», gridino «[[Death|Morte]]!»,<br>insistendo sull’antica prerogativa<br>e sul potere nella [[Truth|verità]] della causa. |
+| EDILE | Li istruirò. |
+| [[Brutus|BRUTUS]] | E quando avranno cominciato a gridare in tal [[Time|momento]],<br>non cessino, ma con un frastuono confuso<br>impongano l’immediata esecuzione<br>di ciò che ci accada di sentenziare. |
+| EDILE | Molto [[Well|bene]]. |
+| [[Sicinius|SICINIUS]] | Fate che siano risoluti e pronti a questo cenno<br>quando ci accada di darlo loro. |
+| *(didascalia)* | [[Brutus|BRUTUS]] all’Edile Mettiti all’opera. |
+| *(didascalia)* | Esce l’Edile |
+| [[Sicinius|SICINIUS]] | Mettetelo subito in collera. È stato avvezzo<br>sempre a vincere e ad avere la meglio<br>nella contraddizione. Una volta irritato, non può<br>essere ricondotto alla temperanza. Allora dice<br>ciò che ha in cuore, ed è là che sta ciò che con noi<br>mira a spezzargli il collo. |
+| *(didascalia)* | Entrano [[Coriolanus]], [[Menenius]] e [[Cominius]], con altri Senatori e Patrizi |
+| [[Sicinius|SICINIUS]] | [[Well|Bene]], eccolo che viene. |
+| [[Menenius|MENENIUS]] | (a [[Coriolanus]]) Con calma, ve ne supplico. |
+| [[Coriolanus|CORIOLANUS]] | Sì, come uno stalliere che per la più misera moneta<br>si lascia dar del furfante a volumi.—Gli onorati<br>dèi<br>tengano Roma al sicuro e i seggi della giustizia<br>forniti d’uomini degni, piantino l’[[Love|amore]] fra noi,<br>affollino i nostri ampi templi con gli spettacoli della pace,<br>e non le nostre strade con la guerra! |
+| PRIMO SENATORE | Amen, amen. |
+| [[Menenius|MENENIUS]] | Nobile augurio. |
+| *(didascalia)* | Entra l’Edile coi Cittadini |
+| [[Sicinius|SICINIUS]] | Fatevi presso, o popolo. |
+| EDILE | Ascoltate i vostri tribuni. Udienza!<br>Silenzio, dico. |
+| [[Coriolanus|CORIOLANUS]] | Prima, ascoltatemi parlare. |
+| [[Sicinius|SICINIUS]] | e [[Brutus|BRUTUS]] [[Well|Bene]], parlate.—Silenzio, olà! |
+| [[Coriolanus|CORIOLANUS]] | Sarò accusato di nulla più di questo presente?<br>Tutto si deve decidere qui? |
+| [[Sicinius|SICINIUS]] | Io domando<br>se vi sottomettete alle voci del popolo,<br>se riconoscete i suoi ufficiali, e siete contento<br>di subire legittima censura per quelle colpe<br>che vi saranno provate. |
+| [[Coriolanus|CORIOLANUS]] | Sono contento. |
+| [[Menenius|MENENIUS]] | Ecco, cittadini, dice che è contento.<br>Il servizio guerriero che ha reso, considerate. Pensate<br>alle ferite che porta il suo [[Body|corpo]], le quali paiono<br>tombe nel sacro camposanto. |
+| [[Coriolanus|CORIOLANUS]] | Graffi di rovi,<br>cicatrici buone solo a far ridere. |
+| [[Menenius|MENENIUS]] | Considerate inoltre<br>che quando egli non parla da cittadino,<br>lo trovate simile a un soldato. Non prendete<br>i suoi accenti più ruvidi per suoni maligni,<br>ma, come dico, per quali si addicono a un soldato<br>più che per malevolenza verso di voi. |
+| [[Cominius|COMINIUS]] | [[Well|Bene]], [[Well|bene]], basta così. |
+| [[Coriolanus|CORIOLANUS]] | Che cos’è questa faccenda,<br>che, essendo stato approvato console a piena voce,<br>io sia così disonorato che nell’ora stessa<br>me lo togliete di nuovo? |
+| SICINUS | Rispondeteci. |
+| [[Coriolanus|CORIOLANUS]] | Dite, dunque. È vero, così devo fare. |
+| [[Sicinius|SICINIUS]] | Vi accusiamo d’aver macchinato di togliere<br>a Roma ogni carica consolidata, e di [[Wind|avvolgervi]]<br>in un potere tirannico,<br>per il che siete un traditore del popolo. |
+| [[Coriolanus|CORIOLANUS]] | Come, traditore? |
+| [[Menenius|MENENIUS]] | No, con temperanza—la vostra promessa. |
+| [[Coriolanus|CORIOLANUS]] | I fuochi dell’inferno più basso avvolgano il popolo!<br>Chiamare me loro traditore, tu, tribuno ingiurioso? |
+| *(didascalia)* | Se nei tuoi occhi sedessero ventimila morti, |
+| [[Coriolanus|CORIOLANUS]] | e nelle tue mani ne fossero strette altrettanti milioni, e nella<br>tua lingua bugiarda entrambe le cifre, io direi<br>«Tu menti» in faccia a te con voce libera<br>come quando prego gli dèi. |
+| [[Sicinius|SICINIUS]] | Notate questo, o popolo? |
+| *(didascalia)* | TUTTI I CITTADINI  Alla rupe, alla rupe con lui! |
+| [[Sicinius|SICINIUS]] | Silenzio!<br>Non occorre aggiungere nuova materia alla sua accusa.<br>Ciò che l’avete visto fare e udito dire,<br>percuotere i vostri ufficiali, maledire voi stessi,<br>opporsi alle leggi a colpi, e qui sfidare<br>coloro il cui gran potere deve giudicarlo—<br>proprio questo, così criminoso e di specie tanto capitale,<br>merita l’estrema [[Death|morte]]. |
+| [[Brutus|BRUTUS]] | Ma poiché ha<br>[[Well|ben]] servito Roma— |
+| [[Coriolanus|CORIOLANUS]] | Che cianci tu di servizio? |
+| [[Brutus|BRUTUS]] | Parlo di ciò che conosco. |
+| [[Coriolanus|CORIOLANUS]] | Tu? |
+| [[Menenius|MENENIUS]] | È questa la promessa che faceste a vostra madre? |
+| [[Cominius|COMINIUS]] | Sappiate, vi prego— |
+| [[Coriolanus|CORIOLANUS]] | Non voglio sapere altro.<br>Che pronuncino la ripida [[Death|morte]] Tarpea,<br>l’[[Exile|esilio]] vagabondo, lo scorticamento, la reclusione a languire<br>con un solo chicco al giorno: io non comprerei<br>la loro [[Mercy|misericordia]] al prezzo d’una sola buona parola,<br>né freneri il mio [[Courage|coraggio]] per quanto essi possano dare<br>pur di ottenerlo dicendo «Buon giorno». |
+| [[Sicinius|SICINIUS]] | Poiché egli ha,<br>per quanto sta in lui, di [[Time|tempo]] in [[Time|tempo]]<br>inveito contro il popolo, cercando modo<br>di strappargli il potere, e ora da ultimo<br>ha dato colpi ostili, e questo non alla presenza<br>della temuta giustizia, ma contro i ministri<br>che la distribuiscono, in nome del popolo,<br>e nel potere di noi tribuni, noi<br>fin da questo istante lo bandiamo dalla nostra [[City|città]],<br>a pena di essere precipitato<br>giù dalla rupe Tarpea, per non entrare mai più<br>dalle porte della nostra Roma. In nome del popolo<br>io dico che così sarà. |
+| *(didascalia)* | TUTTI I CITTADINI Così sarà, |
+| [[Sicinius|SICINIUS]] | Così sarà. Sia condotto via. È bandito,<br>e così sarà. |
+| [[Cominius|COMINIUS]] | Ascoltatemi, miei padroni e miei comuni amici. |
+| [[Sicinius|SICINIUS]] | È sentenziato. Basta con l’udienza. |
+| [[Cominius|COMINIUS]] | Lasciatemi parlare.<br>Sono stato console, e posso mostrare per Roma<br>i segni dei suoi nemici su di me. Io [[Love|amo]]<br>il bene del mio paese con un rispetto più tenero,<br>più santo e profondo, che la mia stessa vita,<br>che la stima della mia cara moglie, che il frutto del suo grembo,<br>e il tesoro dei miei lombi. Se dunque volessi<br>dire questo— |
+| [[Sicinius|SICINIUS]] | Sappiamo dove mirate. Dire che cosa? |
+| [[Brutus|BRUTUS]] | Non c’è altro da dire, se non che è bandito,<br>come nemico del popolo e del suo paese.<br>Così sarà. |
+| *(didascalia)* | TUTTI I CITTADINI Così sarà, così sarà. |
+| [[Coriolanus|CORIOLANUS]] | Voi, comune muta di cani, il cui fiato odio<br>come il tanfo delle paludi marce, il cui amore stimo<br>quanto le carcasse morte d’uomini insepolti<br>che corrompono la mia aria: io bando voi.<br>E restate qui con la vostra incertezza.<br>Che ogni fiacca diceria vi scuota il cuore;<br>i vostri nemici, con un cenno dei loro pennacchi,<br>vi soffino nella [[Despair|disperazione]]! Abbiate pure il potere<br>di bandire i vostri difensori, finché alla fine<br>la vostra ignoranza—che non s’avvede se non quando sente—<br>non serbando riserva se non di voi stessi,<br>nemici sempre di voi medesimi, vi consegni<br>come schiavi del tutto abbattuti a qualche nazione<br>che v’avrà vinti senza colpi! Disprezzando<br>per voi la [[City|città]], così volgo le spalle.<br>C’è un mondo altrove. |
+| *(didascalia)* | Escono [[Coriolanus]], [[Cominius]] e [[Menenius]], col resto dei Patrizi. I Cittadini gridano tutti e gettano in aria i berretti |
+| EDILE | Il nemico del popolo se n’è andato, se n’è andato. |
+| TUTTI I CITTADINI | Il nostro nemico è bandito, se n’è andato. Uh-uh! |
+| [[Sicinius|SICINIUS]] | Andate a vederlo uscire dalle porte, e seguitelo<br>come egli ha seguito voi, con ogni dispetto.<br>Dategli la meritata molestia. Una guardia<br>ci accompagni per la [[City|città]]. |
+| TUTTI I CITTADINI | Venite, venite, andiamo a vederlo uscire dalle porte. Venite.<br>Gli dèi ci conservino i nostri nobili tribuni! Venite. Escono |
+
 
 
 <span class="atom-split" data-atom="act_4--scene_1" data-title="Coriolanus — Act IV, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="motif/home,motif/tears,motif/time,motif/well,concept/courage,character/cominius,character/coriolanus,character/menenius,character/virgilia,character/volumnia"></span>
@@ -2607,6 +3575,24 @@ The [[Tragedy]] of [[Coriolanus]]
 | [[Coriolanus\|CORIOLANUS]] | Give me thy hand. Come. |
 | *(didascalia)* | Exeunt |
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entrano [[Coriolanus]], [[Volumnia]], [[Virgilia]], [[Menenius]] e [[Cominius]], con la giovane nobiltà di Roma |
+| [[Coriolanus|CORIOLANUS]] | Suvvia, lasciate le vostre [[Tears|lacrime]]. Un breve addio. La bestia<br>dalle molte teste mi caccia a cornate. No, madre,<br>dov’è il vostro antico [[Courage|coraggio]]? Solevate<br>dire che gli estremi erano il paragone degli spiriti,<br>che i casi comuni gli uomini comuni li possono reggere,<br>che quando il mare era calmo tutte le barche ugualmente<br>mostravano maestria nel galleggiare; che i colpi della fortuna,<br>quando più colpiscono a [[Home|fondo]], se il ferito è gentile esigono<br>una nobile accortezza. Solevate caricarmi<br>di precetti che avrebbero reso invincibile<br>il cuore che li imparasse. |
+| [[Virgilia|VIRGILIA]] | O cieli, o cieli! |
+| [[Coriolanus|CORIOLANUS]] | No, ti prego, donna— |
+| [[Volumnia|VOLUMNIA]] | Ora la rossa pestilenza colpisca tutte le arti di Roma,<br>e periscano i mestieri! |
+| [[Coriolanus|CORIOLANUS]] | Che, che, che?<br>Sarò amato quando mancherò. No, madre,<br>riprendete quello spirito di quando solevate dire<br>che, se foste stata la moglie d’Ercole,<br>sei delle sue fatiche le avreste compiute voi, e risparmiato<br>a vostro marito tanto sudore. [[Cominius]],<br>non abbatterti. Addio. Addio, moglie mia, madre mia.<br>Me la caverò [[Well|bene]] ancora. Tu, vecchio e fedele [[Menenius]],<br>le tue [[Tears|lacrime]] sono più salate di quelle d’un giovane,<br>e velenose ai tuoi occhi. Mio generale d’un tempo,<br>ti ho visto severo, e tu hai spesso contemplato<br>spettacoli che induriscono il cuore. Di’ a queste tristi donne<br>che è sciocco piangere i colpi inevitabili<br>quanto lo è riderne. Madre mia, sapete [[Well|bene]]<br>che i miei rischi furono sempre il vostro conforto, e—<br>non lo crediate alla leggera—benché io vada [[Alone|solo]],<br>simile a un drago solitario che rende la sua palude<br>temuta e discussa più di quanto sia veduta, vostro figlio<br>o supererà il comune, o sarà preso<br>con esche insidiose e artifizi. |
+| [[Volumnia|VOLUMNIA]] | Figlio mio primogenito,<br>dove andrai? Prendi con te per un poco<br>il buon [[Cominius]]. Stabilisci una qualche rotta,<br>più che un selvaggio esporti a ogni caso<br>che ti balzi innanzi per via. |
+| *(didascalia)* | [[Virgilia|VIRGILIA]] O dèi! |
+| [[Cominius|COMINIUS]] | Ti seguirò per un mese, stabilirò con te<br>dove riposerai, sì che tu possa aver nostre notizie<br>e noi le tue. Così, se il [[Time|tempo]] farà sorgere<br>un motivo per il tuo richiamo, non manderemo<br>per il vasto mondo a cercare un uomo solo,<br>perdendo il vantaggio, che sempre si raffredda<br>in assenza di chi ne ha bisogno. |
+| [[Coriolanus|CORIOLANUS]] | State [[Well|bene]].<br>Hai gli anni addosso, e sei troppo pieno<br>delle sazietà delle guerre per andare errando con uno<br>che è ancora illeso. Accompagnatemi solo fuori dalla porta.<br>Venite, mia dolce moglie, mia carissima madre, e<br>voi, amici miei di nobile lega. Quando sarò fuori,<br>datemi l’addio, e sorridete. Vi prego, venite.<br>Finché resterò sopra la terra voi<br>avrete sempre mie notizie, e mai di me alcunché<br>se non ciò che mi somiglia come prima. |
+| [[Menenius|MENENIUS]] | Questo è degno<br>quanto orecchio possa udire. Venite, non piangiamo.<br>Se potessi scrollarmi via solo sette anni<br>da queste vecchie braccia e gambe, per i buoni dèi,<br>verrei con te passo per passo. |
+| [[Coriolanus|CORIOLANUS]] | Dammi la mano. Venite. |
+| *(didascalia)* | Escono |
 
 
 
@@ -2654,6 +3640,48 @@ The [[Tragedy]] of [[Coriolanus]]
 | *(didascalia)* | Exit |
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entrano i due tribuni, [[Sicinius]] e [[Brutus]], con l’Edile |
+| [[Sicinius|SICINIUS]] | (all’Edile)<br>Mandali tutti a [[Home|casa]]. Se n’è andato, e non andremo oltre.<br>La nobiltà è irritata, e l’abbiamo vista schierarsi<br>in suo favore. |
+| [[Brutus|BRUTUS]] | Ora che abbiamo mostrato il nostro potere,<br>mostriamoci più umili dopo che è fatto<br>di quanto fossimo mentre si faceva. |
+| [[Sicinius|SICINIUS]] | (all’Edile) Mandali a [[Home|casa]].<br>Di’ che il loro grande nemico se n’è andato, e che essi<br>stanno nella loro antica forza. |
+| [[Brutus|BRUTUS]] | Congedali a [[Home|casa]]. |
+| *(didascalia)* | Esce l’Edile |
+| *(didascalia)* | Entrano [[Volumnia]], [[Virgilia]] in lacrime, e [[Menenius]] |
+| [[Brutus|BRUTUS]] | Ecco che viene sua madre. |
+| [[Sicinius|SICINIUS]] | Non incontriamola. |
+| [[Brutus|BRUTUS]] | Perché? |
+| [[Sicinius|SICINIUS]] | Dicono che è pazza. |
+| [[Brutus|BRUTUS]] | Ci hanno notati. Proseguite per la vostra via. |
+| [[Volumnia|VOLUMNIA]] | Oh, [[Well|ben]] trovati! La peste accumulata degli dèi<br>ricompensi il vostro [[Love|amore]]! |
+| [[Menenius|MENENIUS]] | Calma, calma, non così forte. |
+| [[Volumnia|VOLUMNIA]] | (ai tribuni)<br>Se le lacrime me lo permettessero, ne udreste—<br>anzi, e qualcosa udrete. Volete andarvene? |
+| [[Virgilia|VIRGILIA]] | (ai tribuni)<br>Anche voi resterete. Vorrei avere il potere<br>di dirlo a mio marito. |
+| [[Sicinius|SICINIUS]] | (a [[Volumnia]]) Siete forse un uomo? |
+| [[Volumnia|VOLUMNIA]] | Sì, [[Fool|sciocco]]. È forse una vergogna? Nota solo questo, [[Fool|sciocco]]:<br>non era un uomo mio padre? Hai avuto astuzia di volpe<br>da bandire colui che vibrò più colpi per Roma<br>di quante parole tu abbia pronunciato? |
+| [[Sicinius|SICINIUS]] | O cieli benedetti! |
+| [[Volumnia|VOLUMNIA]] | Colpi più nobili di quanto tu mai parole sagge,<br>e per il bene di Roma. Ti dirò una cosa—va’ pure.<br>No, anzi resterai anche tu. Vorrei che mio figlio<br>fosse in Arabia, e la tua tribù davanti a lui,<br>con la sua buona [[Sword|spada]] in mano. |
+| [[Sicinius|SICINIUS]] | E allora? |
+| [[Virgilia|VIRGILIA]] | E allora?<br>Farebbe finita con la tua posterità. |
+| [[Volumnia|VOLUMNIA]] | Bastardi compresi.<br>Buon uomo, le ferite che egli porta per Romaǃ [[Menenius|MENENIUS]] Suvvia, suvvia, calma. |
+| [[Sicinius|SICINIUS]] | Vorrei che avesse continuato verso il suo paese<br>come aveva cominciato, e non avesse sciolto da sé<br>il nobile nodo che aveva stretto. |
+| [[Brutus|BRUTUS]] | Lo vorrei anch’io. |
+| [[Volumnia|VOLUMNIA]] | «Lo vorrei anch’io»! Siete stati voi ad aizzare la marmaglia—<br>gatti che sanno giudicare del suo valore<br>quanto io di quei misteri che il cielo<br>non vuole che la terra conosca. |
+| [[Brutus|BRUTUS]] | (a [[Sicinius]]) Ti prego, andiamo. |
+| [[Volumnia|VOLUMNIA]] | Ora vi prego, signore, andatevene.<br>Avete compiuto una bella impresa. Prima d’andare, udite questo:<br>quanto il Campidoglio supera<br>la più misera [[house|casa]] di Roma, tanto mio figlio—<br>il marito di questa signora qui, questo, lo vedete?—<br>che voi avete bandito, supera tutti voi. |
+| [[Brutus|BRUTUS]] | [[Well|Bene]], [[Well|bene]], vi lasciamo. |
+| [[Sicinius|SICINIUS]] | Perché restiamo a farci aizzare<br>da una che è fuori di senno? |
+| *(didascalia)* | Escono i tribuni |
+| [[Volumnia|VOLUMNIA]] | Portatevi dietro le mie preghiere.<br>Vorrei che gli dèi non avessero altro da fare<br>che confermare le mie maledizioni. Se potessi incontrarli<br>anche una volta al giorno, mi sgombrerebbe il cuore<br>di ciò che gli pesa. |
+| [[Menenius|MENENIUS]] | Gliene avete dette di [[Home|sante ragioni]]<br>e, in fede mia, ne avete motivo. Cenerete con me? |
+| [[Volumnia|VOLUMNIA]] | La collera è il mio cibo, io ceno di me stessa,<br>e così morirò di fame nutrendomi.<br>(A [[Virgilia]]) Vieni, andiamo.<br>Lascia questo fiacco piagnucolare e lamentati come me,<br>in collera, alla maniera di Giunone. Vieni, vieni, vieni. |
+| *(didascalia)* | Escono [[Volumnia]] e [[Virgilia]] |
+| [[Menenius|MENENIUS]] | Vergogna, vergogna, vergogna. |
+| *(didascalia)* | Esce |
+
 
 
 <span class="atom-split" data-atom="act_4--scene_3" data-title="Coriolanus — Act IV, Scene 3" data-chapter="Scene 3" data-kind="scene" data-tags="motif/home,motif/journey,motif/time,motif/well,concept/hope,character/aufidius,character/coriolanus"></span>
@@ -2683,6 +3711,31 @@ The [[Tragedy]] of [[Coriolanus]]
 | NICANOR | [[Well]], let us go together. Exeunt |
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entrano Nicanore, un Romano, e Adriano, un Volsco |
+| NICANORE | Vi conosco [[Well|bene]], signore, e voi conoscete me. Il vostro nome, credo, è Adriano. |
+| ADRIANO | È così, signore. In verità, vi ho dimenticato. |
+| NICANORE | Sono un Romano, e i miei servigi sono, come i vostri, contro di loro. Mi riconoscete ora? |
+| ADRIANO | Nicanore, non è vero? |
+| NICANORE | Proprio lui, signore. |
+| ADRIANO | Avevate più barba l’ultima volta che vi vidi, ma il vostro volto è [[Well|ben]] confermato dalla vostra lingua. Che notizie ci sono a Roma? Ho un ordine dallo stato volsco di cercarvi laggiù. Mi avete [[Well|bene]] risparmiato un giorno di [[Journey|cammino]]. |
+| NICANORE | Ci sono state a Roma strane insurrezioni, il popolo contro i senatori, i patrizi e i nobili. |
+| ADRIANO | Ci sono state?—è dunque finita? Il nostro stato non la pensa così. Sono in un preparativo assai guerresco, e [[Hope|sperano]] di piombare su di loro nel calore della loro discordia. |
+| NICANORE | La vampa principale è passata, ma poca cosa basterebbe a farla divampare di nuovo, ché i nobili prendono tanto a cuore il bando di quel degno [[Coriolanus]] che sono in matura disposizione a togliere ogni potere al popolo, e a strappar loro i tribuni per sempre. Questo cova sotto la cenere, ve lo posso dire, ed è quasi maturo per lo scoppio violento. |
+| ADRIANO | [[Coriolanus]] bandito? |
+| NICANORE | Bandito, signore. |
+| ADRIANO | Sarete il benvenuto con questa informazione, Nicanore. |
+| NICANORE | Il giorno serve [[Well|bene]] per loro adesso. Ho sentito dire che il [[Time|momento]] più adatto per corrompere la moglie d’un uomo è quando ha litigato col marito. Il vostro nobile Tullo [[Aufidius]] farà [[Well|bella]] figura in queste guerre, ora che il suo grande avversario [[Coriolanus]] non è più richiesto dal suo paese. |
+| ADRIANO | Non può essere altrimenti. Sono fortunatissimo d’avervi incontrato così per caso. Avete concluso la mia faccenda, e vi accompagnerò allegramente a [[Home|casa]]. |
+| NICANORE | Di qui alla cena vi racconterò cose stranissime da Roma, tutte volgenti al bene dei loro avversari. Avete un esercito pronto, dite? |
+| ADRIANO | Uno davvero regale—i centurioni e i loro reparti già distintamente alloggiati a soldo, e pronti a muovere con un’ora di preavviso. |
+| NICANORE | Sono lieto di sentire della loro prontezza, e sono l’uomo, credo, che li metterà subito in azione. Così, signore, di cuore [[Well|ben]] trovato, e assai contento della vostra compagnia. |
+| ADRIANO | Mi togliete la mia parte, signore. Sono io ad avere più motivo d’essere contento della vostra. |
+| NICANORE | [[Well|Bene]], andiamo insieme. Escono |
+
 
 
 <span class="atom-split" data-atom="act_4--scene_4" data-title="Coriolanus — Act IV, Scene 4" data-chapter="Scene 4" data-kind="scene" data-tags="topos/double,motif/city,motif/love,motif/night,motif/sleep,character/aufidius,character/coriolanus"></span>
@@ -2704,6 +3757,24 @@ The [[Tragedy]] of [[Coriolanus]]
 | [[Coriolanus\|CORIOLANUS]] | O world, thy slippery turns! Friends now fast sworn,<br>Whose [[Double\|double]] bosoms seem to wear one heart,<br>Whose hours, whose bed, whose meal and exercise<br>Are still together, who twin as ’twere in [[Love\|love]]<br>Unseparable, shall within this hour,<br>On a dissension of a doit, break out<br>To bitterest enmity. So fellest foes,<br>Whose passions and whose plots have broke their<br>[[Sleep\|sleep]]<br>To take the one the other, by some chance,<br>Some trick not worth an egg, shall grow dear friends<br>And interjoin their issues. So with me.<br>My birthplace hate I, and my [[Love\|love]]’s upon<br>This enemy town. I’ll enter. If he slay me,<br>He does fair justice; if he give me way,<br>I’ll do his country service. |
 | *(didascalia)* | Exit |
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entra [[Coriolanus]] in veste dimessa, travestito e imbacuccato |
+| [[Coriolanus|CORIOLANUS]] | Bella [[City|città]] è questa Anzio. [[City|Città]],<br>sono io che ho fatto le tue vedove. Più d’un erede<br>di questi begli edifici, davanti alle mie guerre,<br>l’ho udito gemere e cadere. Non riconoscermi, dunque,<br>ché le tue donne con gli spiedi e i ragazzi con le pietre<br>non mi uccidano in meschina battaglia. |
+| *(didascalia)* | Entra un Cittadino |
+| [[Coriolanus|CORIOLANUS]] | Dio vi salvi, signore. |
+| CITTADINO | E voi. |
+| [[Coriolanus|CORIOLANUS]] | Indicatemi, se vi piace,<br>dove alloggia il grande [[Aufidius]]. È in Anzio? |
+| CITTADINO | C’è, e banchetta coi nobili dello stato<br>alla sua [[house|casa]] questa [[Night|notte]]. |
+| [[Coriolanus|CORIOLANUS]] | Qual è la sua [[house|casa]], vi prego? |
+| CITTADINO | Questa qui davanti a voi. |
+| [[Coriolanus|CORIOLANUS]] | Grazie, signore. Addio. |
+| *(didascalia)* | Esce il Cittadino |
+| [[Coriolanus|CORIOLANUS]] | O mondo, che sdrucciolevoli giravolte! Amici ora saldamente giurati,<br>i cui [[Double|doppi]] petti sembrano portare un solo cuore,<br>le cui ore, il cui letto, il cui pasto ed esercizio<br>stanno sempre insieme, che si gemellano come fosse per [[Love|amore]]<br>inseparabili, entro quest’ora,<br>per un dissidio da un soldo, prorompono<br>nella più amara inimicizia. Così i più feroci nemici,<br>le cui passioni e le cui trame hanno spezzato il loro<br>[[Sleep|sonno]]<br>per sopraffarsi l’un l’altro, per qualche caso,<br>qualche inezia che non vale un uovo, diventano cari amici<br>e uniscono le loro discendenze. Così è di me.<br>Odio il mio luogo natale, e il mio [[Love|amore]] è per<br>questa città nemica. Entrerò. Se mi uccide,<br>fa giusta giustizia; se mi dà via libera,<br>renderò servigio al suo paese. |
+| *(didascalia)* | Esce |
 
 
 
@@ -2815,6 +3886,112 @@ The [[Tragedy]] of [[Coriolanus]]
 | *(didascalia)* | Exeunt |
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Suona musica. Entra un Servo |
+| PRIMO SERVO | Vino, vino, vino! Che servizio è questo? Credo che i nostri compagni dormano. |
+| *(didascalia)* | Esce |
+| *(didascalia)* | Entra un Secondo Servo |
+| SECONDO SERVO | Dov’è Coto? Il mio padrone lo chiama. Coto! |
+| *(didascalia)* | Esce |
+| *(didascalia)* | Entra [[Coriolanus]], come prima |
+| [[Coriolanus|CORIOLANUS]] | Bella [[house|casa]]. Il banchetto<br>profuma [[Well|bene]], ma io non ho aspetto d’invitato. |
+| *(didascalia)* | Entra il Primo Servo |
+| PRIMO SERVO | Che volete, amico? Da dove venite? Qui non c’è posto per voi. Vi prego, andate alla porta. |
+| *(didascalia)* | Esce |
+| [[Coriolanus|CORIOLANUS]] | Non ho meritato accoglienza migliore, essendo [[Coriolanus]]. |
+| *(didascalia)* | Entra il Secondo Servo |
+| SECONDO SERVO | Da dove venite, signore? Il portiere ha gli occhi in testa, che dà ingresso a simili compagni? Vi prego, uscite. |
+| [[Coriolanus|CORIOLANUS]] | Via! |
+| SECONDO SERVO | Via? Andatevene voi. |
+| [[Coriolanus|CORIOLANUS]] | Ora sei molesto. |
+| SECONDO SERVO | Siete così spavaldo? Vi farò parlare fra poco. |
+| *(didascalia)* | Entra il Terzo Servo. Il Primo gli va incontro |
+| TERZO SERVO | Chi è questo tale? |
+| PRIMO SERVO | Uno strano come non ne vidi mai. Non riesco a cacciarlo fuori di [[house|casa]]. Ti prego, chiamagli il padrone. |
+| TERZO SERVO | (a [[Coriolanus]]) Che avete da fare qui, voi? Vi prego, sgombrate la [[house|casa]]. |
+| [[Coriolanus|CORIOLANUS]] | Lasciatemi solo stare. Non farò male al vostro focolare. |
+| TERZO SERVO | Chi siete? |
+| [[Coriolanus|CORIOLANUS]] | Un gentiluomo. |
+| TERZO SERVO | Uno straordinariamente povero. |
+| [[Coriolanus|CORIOLANUS]] | Vero, tale sono. |
+| TERZO SERVO | Vi prego, povero gentiluomo, prendete un altro posto. Qui non c’è posto per voi. Vi prego, sgombrate. Su. |
+| [[Coriolanus|CORIOLANUS]] | Bada al tuo ufficio. Va’ a ingrassarti d’avanzi freddi.<br>Lo spinge via da sé |
+| TERZO SERVO | Come, non volete?—Ti prego, di’ al mio padrone che strano ospite ha qui. |
+| SECONDO SERVO | Lo farò. |
+| *(didascalia)* | Esce il Secondo Servo |
+| TERZO SERVO | Dove abiti? |
+| [[Coriolanus|CORIOLANUS]] | Sotto il baldacchino. |
+| TERZO SERVO | Sotto il baldacchino? |
+| [[Coriolanus|CORIOLANUS]] | Sì. |
+| TERZO SERVO | E dov’è? |
+| [[Coriolanus|CORIOLANUS]] | Nella [[City|città]] dei nibbi e dei corvi. |
+| TERZO SERVO | Nella [[City|città]] dei nibbi e dei corvi? Che asino! Allora abiti anche con le cornacchie? |
+| [[Coriolanus|CORIOLANUS]] | No, io non servo il tuo padrone. |
+| TERZO SERVO | Come, signore? Vi impicciate del mio padrone? |
+| [[Coriolanus|CORIOLANUS]] | Sì, è un servizio più onesto che impicciarsi della tua padrona. Tu ciarli e ciarli. Servi col tuo tagliere. Via di qui!<br>Lo caccia a botte. |
+| *(didascalia)* | Entra [[Aufidius]] col Secondo Servo |
+| [[Aufidius|AUFIDIUS]] | Dov’è questo tale? |
+| SECONDO SERVO | Qui, signore. L’avrei bastonato come un cane, se non fosse stato per non disturbare i signori là dentro. |
+| *(didascalia)* | I Servi si mettono da parte |
+| [[Aufidius|AUFIDIUS]] | Da dove vieni? Che vuoi? Il tuo nome?<br>Perché non parli? Parla, uomo. Qual è il tuo nome? |
+| *(didascalia)* | [[Coriolanus|CORIOLANUS]] si scopre il capo |
+| [[Aufidius|AUFIDIUS]] | Se, Tullo,<br>ancora non mi riconosci, e vedendomi non<br>mi credi l’uomo che sono, la necessità<br>mi comanda di nominarmi. |
+| [[Aufidius|AUFIDIUS]] | Qual è il tuo nome? |
+| [[Coriolanus|CORIOLANUS]] | Un nome sgradito agli orecchi dei Volsci<br>e aspro al suono per il tuo. |
+| [[Aufidius|AUFIDIUS]] | Di’, qual è il tuo nome?<br>Hai un aspetto arcigno, e il tuo volto<br>porta in sé un comando. Benché il tuo sartiame sia lacero,<br>mostri d’essere un nobile vascello. Qual è il tuo nome? |
+| [[Coriolanus|CORIOLANUS]] | Prepara la fronte ad aggrottarsi. Mi riconosci ora? |
+| [[Aufidius|AUFIDIUS]] | Non ti conosco. Il tuo nome? |
+| [[Coriolanus|CORIOLANUS]] | Il mio nome è Caio Marzio, che ha fatto<br>a te in particolare, e a tutti i Volsci,<br>gran danno e male. Ne può far fede<br>il mio soprannome [[Coriolanus]]. Il faticoso servigio,<br>gli estremi pericoli e le gocce di [[Blood|sangue]]<br>versate per il mio paese ingrato sono ricompensati<br>solo con quel soprannome—buona [[Memory|memoria]]<br>e testimonianza della malizia e del dispiacere<br>che tu dovresti portarmi. Solo quel nome<br>resta.<br>La crudeltà e l’invidia del popolo,<br>permesse dai nostri vili nobili, che<br>tutti mi hanno abbandonato, hanno divorato il resto,<br>e hanno sofferto che, per voce di schiavi, io fossi<br>fischiato fuori da Roma. Ora questo estremo<br>mi ha portato al tuo focolare. Non per [[Hope|speranza]]—<br>non fraintendermi—di salvare la vita, ché se<br>avessi temuto la [[Death|morte]], fra tutti gli uomini del mondo<br>avrei evitato te; ma per puro dispetto,<br>per esser pienamente pari con quei miei banditori,<br>sto qui davanti a te. Se dunque hai<br>un cuore di vendetta in te, che voglia [[Revenge|vendicare]]<br>i tuoi torti particolari e por fine a quelle mutilazioni<br>vergognose viste per tutto il tuo paese, [[Speed|affrettati]]<br>subito,<br>e fa’ che la mia miseria serva al tuo scopo. Usala in modo<br>che i miei servigi vendicativi si dimostrino<br>benefici per te; ché io combatterò<br>contro il mio paese incancrenito con la rabbia<br>di tutti i demoni infernali. Ma se per caso<br>non osi questo, e sei stanco<br>di tentare altre fortune, allora, in una parola, anch’io<br>sono stanchissimo di vivere più a lungo, e offro<br>la mia gola a te e alla tua antica malizia,<br>che, a non tagliarla, ti mostrerebbe soltanto uno [[Fool|sciocco]],<br>giacché io t’ho sempre inseguito con odio,<br>tratto barili di [[Blood|sangue]] dal petto del tuo paese,<br>e non posso vivere se non a tua vergogna, a meno<br>che non sia per renderti servigio. |
+| [[Aufidius|AUFIDIUS]] | O Marzio, Marzio!<br>Ogni parola che hai detto ha divelto dal mio cuore<br>una radice d’antica invidia. Se Giove<br>parlasse da quella nube cose divine<br>e dicesse «È vero», non gli crederei più<br>che a te, tutto nobile Marzio. Lascia ch’io stringa<br>le mie braccia intorno a quel [[Body|corpo]] contro il quale<br>il mio frassino venato cento volte s’è spezzato,<br>sfregiando la [[Moon|luna]] con le schegge.<br>(Abbraccia [[Coriolanus]])<br>Qui io cingo<br>l’incudine della mia [[Sword|spada]], e contendo<br>con la tua [[Love|amicizia]] tanto ardentemente e nobilmente<br>quanto mai con ambiziosa forza<br>contesi col tuo valore. Sappi anzitutto<br>ch’io amai la fanciulla che sposai; mai uomo<br>sospirò fiato più sincero. Ma vederti qui,<br>nobile creatura, fa danzare il mio cuore rapito<br>più di quando vidi per la prima volta la mia sposa<br>varcare la mia soglia. Ebbene, tu Marte, ti dico<br>che abbiamo un esercito in campo, e che avevo intenzione<br>di staccarti ancora una volta lo scudo dal braccio,<br>o di perdervi il mio. Tu m’hai battuto<br>dodici volte diverse, e da allora ogni notte<br>ho sognato scontri fra te e me—<br>siamo stati a terra insieme nel mio [[Sleep|sonno]],<br>slacciandoci gli elmi, afferrandoci la gola a pugni—<br>e mi son destato mezzo morto per nulla. Degno Marzio,<br>se non avessimo altra contesa con Roma che questa,<br>che tu ne sei bandito, chiameremmo alle armi tutti<br>dai dodici ai settant’anni, e, riversando la guerra<br>nelle viscere dell’ingrata Roma,<br>la travolgeremmo come ardita piena. Oh, vieni, entra,<br>e prendi per mano i nostri amici senatori,<br>che ora sono qui a prendere [[Leaves|congedo]] da me,<br>io che sono pronto contro i vostri territori,<br>benché non contro Roma stessa. |
+| [[Coriolanus|CORIOLANUS]] | Voi mi benedite, o dèi. |
+| [[Aufidius|AUFIDIUS]] | Perciò, signore assolutissimo, se vuoi avere<br>la guida delle tue proprie vendette, prendi<br>la metà del mio comando e stabilisci—<br>essendone tu il più esperto, giacché conosci<br>la forza e la debolezza del tuo paese—le tue vie:<br>se battere alle porte di Roma,<br>o visitarli rudemente in parti remote<br>per atterrirli prima di distruggerli. Ma entra.<br>Lascia ch’io ti raccomandi anzitutto a coloro che diranno<br>sì ai tuoi desideri. Mille benvenuti!<br>E più amico ora che mai nemico prima;<br>eppure, Marzio, quello fu molto. La tua mano. Sii il benvenuto! |
+| *(didascalia)* | Escono |
+| *(didascalia)* | I due Servi si fanno avanti |
+| PRIMO SERVO | Ecco uno strano cambiamento! |
+| SECONDO SERVO | Per la mia mano, avevo pensato di picchiarlo con un randello, eppure l’istinto mi diceva che i suoi panni davano di lui un falso rapporto. |
+| PRIMO SERVO | Che braccio ha! Mi ha fatto girare con l’indice e il pollice come si fa partire una trottola. |
+| SECONDO SERVO | Sì, io capii dal suo viso che c’era qualcosa in lui. Aveva, signore, una specie di viso, mi parve—non so come definirlo. |
+| PRIMO SERVO | Sì, l’aveva, un’aria come, per così dire—che mi impicchino se non pensai che ci fosse in lui più di quanto potessi pensare. |
+| SECONDO SERVO | Anch’io, lo giuro. È semplicemente l’uomo più raro del mondo. |
+| PRIMO SERVO | Credo che sia un soldato ancora più grande di quello che sapete voi. |
+| SECONDO SERVO | Chi, il mio padrone? |
+| PRIMO SERVO | Be’, non importa. |
+| SECONDO SERVO | Ne vale sei come lui. |
+| PRIMO SERVO | No, nemmeno tanto; ma lo ritengo il soldato maggiore. |
+| SECONDO SERVO | In [[Faith|fede]], vedete, non si saprebbe come dirlo. Per la difesa d’una città il nostro generale è eccellente. |
+| PRIMO SERVO | Sì, e anche per un assalto. |
+| *(didascalia)* | Entra il Terzo Servo |
+| TERZO SERVO | Oh, schiavi, ho notizie da darvi—notizie, bricconi! |
+| PRIMO | e SECONDO SERVO Che, che, che? Facciamone parte. |
+| TERZO SERVO | Non vorrei essere Romano per nulla al mondo.<br>Preferirei essere un condannato. |
+| PRIMO | e SECONDO SERVO Perché? Perché? |
+| TERZO SERVO | Ma perché ecco qui colui che soleva bastonare il nostro generale, Caio Marzio. |
+| PRIMO SERVO | Perché dici «bastonare il nostro generale»? |
+| TERZO SERVO | Non dico «bastonare il nostro generale»; ma gli fu sempre abbastanza superiore. |
+| SECONDO SERVO | Suvvia, siamo compagni e amici. Fu sempre troppo forte per lui. Gliel’ho sentito dire da lui stesso. |
+| PRIMO SERVO | Fu troppo forte per lui, addirittura. A dire la [[Truth|verità]], davanti a Corioli lo intaccò e lo intagliò come una carbonata. |
+| SECONDO SERVO | E se fosse stato di gusti cannibaleschi, avrebbe potuto anche arrostirlo e mangiarlo. |
+| PRIMO SERVO | Ma dacci altre notizie! |
+| TERZO SERVO | Ebbene, qui dentro è festeggiato come se fosse figlio ed erede di Marte; messo a capotavola, nessuna domanda gli è rivolta da alcuno dei senatori senza che stiano a capo scoperto davanti a lui. Il nostro generale’ stesso ne fa una sua dama, si santifica con la sua mano, e strabuzza il bianco dell’occhio al suo discorso. Ma il [[Bottom|fondo]] della notizia è che il nostro generale è tagliato a metà, e non è che una metà di quel che era ieri, ché l’altra ha metà per preghiera e concessione di tutta la tavola. Andrà, dice, ad acciuffare per gli orecchi il portiere delle porte di Roma. Falcerà tutto davanti a sé, e lascerà il suo passaggio rasato. |
+| SECONDO SERVO | Ed è capace di farlo come nessun altro uomo ch’io possa immaginare. |
+| TERZO SERVO | Farlo? Lo farà; ché, vedete, signore, ha tanti amici quanti nemici; i quali amici, signore, per così dire non osavano—vedete, signore—mostrarsi, come diciamo noi, suoi amici mentre egli era in deiettitudine. |
+| PRIMO SERVO | Deiettitudine? Che cos’è? |
+| TERZO SERVO | Ma quando vedranno, signore, la sua cresta di nuovo ritta e l’uomo nel [[Blood|sangue]], usciranno dalle loro tane come conigli dopo la pioggia, e faranno tutti baldoria con lui. |
+| PRIMO SERVO | Ma quando si muove tutto questo? |
+| TERZO SERVO | Domani, oggi, subito. Sentirete rullare il tamburo questo pomeriggio. È come se fosse una portata del loro banchetto, e da eseguirsi prima che si asciughino le labbra. |
+| SECONDO SERVO | Ebbene, allora avremo di nuovo un mondo movimentato. Questa pace non serve che ad arrugginire il ferro, moltiplicare i sarti e far figliare i cantastorie. |
+| PRIMO SERVO | Datemi la guerra, dico io. Supera la pace quanto il giorno supera la [[Night|notte]]. È vivace nel camminare, sonora e piena di sfogo. La pace è una vera apoplessia, un letargo; intorpidita, sorda, sonnolenta, insensibile; genera più figli bastardi di quanti uomini la guerra ne distrugga. |
+| SECONDO SERVO | È così, e come la guerra in un certo senso si può dire un rapitore, così non si può negare che la pace sia una gran fabbricatrice di cornuti. |
+| PRIMO SERVO | Sì, e fa odiare gli uomini l’un l’altro. |
+| TERZO SERVO | Ragionevole; perché allora hanno meno bisogno l’uno dell’altro. Io punto sulle guerre. [[Hope|Spero]] di veder Romani a buon mercato quanto Volsci. |
+| *(didascalia)* | Un suono all’interno |
+| TERZO SERVO | Si alzano, si alzano. |
+| PRIMO | e SECONDO SERVO Dentro, dentro, dentro, dentro. |
+| *(didascalia)* | Escono |
+
 
 
 <span class="atom-split" data-atom="act_4--scene_6" data-title="Coriolanus — Act IV, Scene 6" data-chapter="Scene 6" data-kind="scene" data-tags="motif/city,motif/fire,motif/home,motif/nature,motif/prison,motif/summer,motif/time,motif/well,concept/exile,concept/faith,concept/fear,concept/mercy,concept/nature,concept/pride,concept/revenge,concept/self,concept/truth,character/aufidius,character/brutus,character/cominius,character/coriolanus,character/menenius,character/sicinius"></span>
@@ -2911,6 +4088,98 @@ The [[Tragedy]] of [[Coriolanus]]
 | *(didascalia)* | Exeunt |
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entrano i due tribuni, [[Sicinius]] e [[Brutus]] |
+| [[Sicinius|SICINIUS]] | Non abbiamo sue notizie, né occorre [[Fear|temerlo]].<br>I suoi rimedi sono fiacchi—la presente pace<br>e quiete del popolo, che prima<br>era in selvaggio tumulto. Qui facciamo arrossire<br>i suoi amici perché il mondo va [[Well|bene]]; essi preferirebbero,<br>benché essi stessi ne patissero, vedere<br>frotte sediziose infestare le strade, anziché vedere<br>i nostri artigiani cantare nelle botteghe e attendere<br>amichevolmente ai loro mestieri. |
+| *(didascalia)* | Entra [[Menenius]] |
+| [[Brutus|BRUTUS]] | Abbiamo tenuto duro a buon [[Time|tempo]]. È questo [[Menenius]]? |
+| [[Sicinius|SICINIUS]] | È lui, è lui. Oh, è diventato assai gentile di recente.<br>Salve, signore. |
+| [[Menenius|MENENIUS]] | Salve a voi due. |
+| [[Sicinius|SICINIUS]] | Il vostro [[Coriolanus]] non manca gran che<br>se non ai suoi amici. Lo stato regge,<br>e reggerebbe anche se egli ne fosse più adirato. |
+| [[Menenius|MENENIUS]] | Tutto va [[Well|bene]], e sarebbe potuto andare assai meglio se<br>egli avesse saputo temporeggiare. |
+| [[Sicinius|SICINIUS]] | Dov’è, ne sapete? |
+| [[Menenius|MENENIUS]] | No, non so nulla.<br>Sua madre e sua moglie non hanno sue notizie. |
+| *(didascalia)* | Entrano tre o quattro Cittadini |
+| TUTTI I CITTADINI | (ai tribuni)<br>Gli dèi vi conservino entrambi. |
+| [[Sicinius|SICINIUS]] | Buona sera, vicini nostri. |
+| [[Brutus|BRUTUS]] | Buona sera a voi tutti, buona sera a voi tutti. |
+| PRIMO CITTADINO | Noi stessi, le nostre mogli e i nostri figli, in ginocchio<br>siamo tenuti a pregare per voi due. |
+| [[Sicinius|SICINIUS]] | Vivete e prosperate. |
+| [[Brutus|BRUTUS]] | Addio, cari vicini.<br>Avremmo voluto che [[Coriolanus]] vi avesse amati come noi. |
+| TUTTI I CITTADINI | Ora gli dèi vi guardino! |
+| [[Sicinius|SICINIUS]] | e [[Brutus|BRUTUS]]<br>Addio, addio. |
+| *(didascalia)* | Escono i Cittadini |
+| [[Sicinius|SICINIUS]] | Questo è un [[Time|tempo]] più felice e più decoroso<br>di quando costoro correvano per le strade<br>gridando confusione. |
+| [[Brutus|BRUTUS]] | Caio Marzio era<br>un ufficiale valente in guerra, ma insolente,<br>vinto dall’[[Pride|orgoglio]], ambizioso oltre ogni immaginare,<br>amante di [[Self|sé]]— |
+| [[Sicinius|SICINIUS]] | E aspirante a un trono unico<br>senza sostegni. |
+| [[Menenius|MENENIUS]] | Io non credo. |
+| [[Sicinius|SICINIUS]] | L’avremmo a quest’ora, con nostro gran lamento,<br>trovato tale, se fosse uscito console. |
+| [[Brutus|BRUTUS]] | Gli dèi l’hanno [[Well|ben]] impedito, e Roma<br>siede sicura e tranquilla senza di lui. |
+| *(didascalia)* | Entra un Edile |
+| EDILE | Degni tribuni,<br>c’è uno schiavo che abbiamo messo in [[Prison|prigione]]<br>il quale riferisce che i Volsci, con due eserciti distinti,<br>sono entrati nei territori romani,<br>e con la più profonda malizia della guerra<br>distruggono ciò che sta loro davanti. |
+| [[Menenius|MENENIUS]] | È [[Aufidius]],<br>che, udito il bando del nostro Marzio,<br>sporge di nuovo le corna nel mondo,<br>le quali erano rincantucciate finché Marzio stava per Roma,<br>e non osavano affacciarsi neppure una volta. |
+| [[Sicinius|SICINIUS]] | Suvvia, che parlate di Marzio? [[Brutus|BRUTUS]] (all’Edile)<br>Va’ a far frustare questo diffusore di voci. Non può essere<br>che i Volsci osino rompere con noi. |
+| [[Menenius|MENENIUS]] | Non può essere?<br>Abbiamo prova che [[Well|benissimo]] può essere,<br>e tre esempi del simile ci sono stati |
+| *(didascalia)* | nella mia età. Ma ragiona con quel tale, |
+| [[Menenius|MENENIUS]] | prima di punirlo, su dove abbia udito questo,<br>perché non ti accada di frustare la tua informazione<br>e di battere il messaggero che avverte di guardarsi<br>da ciò che è da temere. |
+| [[Sicinius|SICINIUS]] | Non dirmelo.<br>So che questo non può essere. |
+| [[Brutus|BRUTUS]] | Non è possibile. |
+| *(didascalia)* | Entra un Messaggero |
+| MESSAGGERO | I nobili con gran fretta si recano<br>tutti alla [[house|curia]] del senato. È giunta qualche notizia<br>che muta loro il volto. |
+| [[Sicinius|SICINIUS]] | È quello schiavo.<br>(All’Edile) Va’ a frustarlo davanti agli occhi del popolo.—<br>La sua sollevazione,<br>nient’altro che il suo rapporto. |
+| *(didascalia)* | Esce l’Edile |
+| MESSAGGERO | Sì, degno signore,<br>il rapporto dello schiavo è confermato, e di più,<br>di più spaventoso, è riferito. |
+| [[Sicinius|SICINIUS]] | Che c’è di più spaventoso? |
+| MESSAGGERO | Si dice liberamente per molte bocche—<br>quanto sia probabile non so—che Marzio,<br>unito ad [[Aufidius]], guida un esercito contro Roma,<br>e giura una [[Revenge|vendetta]] vasta quanto lo spazio fra<br>la cosa più giovane e la più vecchia. |
+| [[Sicinius|SICINIUS]] | Come è verosimile! |
+| [[Brutus|BRUTUS]] | Voce messa in giro solo perché i più deboli desiderino<br>di nuovo a [[Home|casa]] il buon Marzio. |
+| [[Sicinius|SICINIUS]] | Proprio questo il trucco. |
+| [[Menenius|MENENIUS]] | Questo è inverosimile.<br>Lui e [[Aufidius]] non possono riconciliarsi più<br>di quanto possano i contrari più violenti. |
+| *(didascalia)* | Entra un altro Messaggero |
+| SECONDO MESSAGGERO | Siete chiamati al senato.<br>Un esercito spaventoso, guidato da Caio Marzio<br>associato ad [[Aufidius]], infuria<br>sui nostri territori, e ha già<br>travolto il suo cammino, consumato col [[Fire|fuoco]] e preso<br>quanto gli stava davanti. |
+| *(didascalia)* | Entra [[Cominius]] |
+| [[Cominius|COMINIUS]] | Oh, avete fatto un bel lavoro! |
+| [[Menenius|MENENIUS]] | Che notizie? Che notizie? |
+| [[Cominius|COMINIUS]] | Avete contribuito a far violare le vostre stesse figlie e<br>a far fondere i piombi della [[City|città]] sulle vostre teste,<br>a veder disonorate le vostre mogli sotto il vostro naso. |
+| [[Menenius|MENENIUS]] | Quali sono le notizie? Quali sono le notizie? |
+| [[Cominius|COMINIUS]] | I vostri templi bruciati nelle loro malte, e<br>le vostre franchigie, su cui vi reggevate, ridotte<br>al foro d’un succhiello. |
+| [[Menenius|MENENIUS]] | Vi prego, le vostre notizie?<br>(Ai tribuni) Avete fatto un bel lavoro, [[Fear|temo]].<br>(A [[Cominius]]) Vi prego, le vostre notizie.<br>Se Marzio si fosse unito ai Volsci— |
+| [[Cominius|COMINIUS]] | Se? Egli è il loro dio. Li guida come una creatura<br>fatta da qualche altra divinità che la [[Nature|natura]],<br>che plasma l’uomo meglio, ed essi lo seguono<br>contro noi marmocchi con non minor fiducia<br>di ragazzi che inseguono farfalle d’[[Summer|estate]],<br>o di beccai che ammazzano mosche. |
+| [[Menenius|MENENIUS]] | (ai tribuni) Avete fatto un bel lavoro,<br>voi e i vostri uomini col grembiule, voi che tanto vi reggevate<br>sulla voce del mestiere e<br>sul fiato dei mangiatori d’aglio! |
+| [[Cominius|COMINIUS]] | (ai tribuni)<br>Vi scrollerà la vostra Roma intorno agli orecchi. |
+| [[Menenius|MENENIUS]] | Come Ercole scrollava giù la frutta matura. (Ai tribuni) Avete fatto un bel lavoro. |
+| [[Brutus|BRUTUS]] | Ma è vero questo, signore? |
+| [[Cominius|COMINIUS]] | Sì, e impallidirete<br>prima di trovarlo altrimenti. Tutte le regioni<br>si ribellano sorridendo, e chi resiste<br>è deriso per valorosa ignoranza,<br>e perisce da sciocco costante. Chi può biasimarlo?<br>I vostri nemici e i suoi trovano in lui qualcosa. |
+| MENENIVS | Siamo tutti perduti a meno che<br>il nobile uomo non abbia [[Mercy|pietà]]. |
+| [[Cominius|COMINIUS]] | Chi gliela chiederà?<br>I tribuni non possono farlo, per vergogna; il popolo<br>merita da lui quella pietà che il lupo<br>merita dai pastori. Quanto ai suoi migliori amici, se<br>dicessero «Sii buono con Roma», l’assalirebbero proprio<br>come farebbero coloro che avessero meritato il suo odio,<br>e in ciò si mostrerebbero nemici. |
+| [[Menenius|MENENIUS]] | È vero.<br>Se egli accostasse alla mia [[house|casa]] la torcia<br>che dovesse consumarla, io non avrei la faccia<br>di dire «Vi supplico, cessate.»<br>(Ai tribuni) Belle mani avete fatto,<br>voi e le vostre arti! Bella arte avete usato! |
+| [[Cominius|COMINIUS]] | (ai tribuni)<br>Avete portato<br>su Roma un tremore quale non fu mai<br>tanto incapace d’aiuto. |
+| [[Sicinius|SICINIUS]] | e [[Brutus|BRUTUS]] Non dite che l’abbiamo portato noi. |
+| [[Menenius|MENENIUS]] | Come? Fummo noi?<br>Noi lo amavamo, ma come bestie e nobili codardi<br>cedemmo alle vostre frotte, che lo fischiarono<br>fuori dalla [[City|città]]. |
+| [[Cominius|COMINIUS]] | Ma [[Fear|temo]]<br>che lo rimuggiranno dentro. Tullo [[Aufidius]],<br>il secondo nome fra gli uomini, obbedisce ai suoi cenni<br>come se ne fosse l’ufficiale. La disperazione<br>è tutta la politica, la forza e la difesa<br>che Roma può opporre loro. |
+| *(didascalia)* | Entra una schiera di Cittadini |
+| [[Menenius|MENENIUS]] | Ecco che vengono le frotte.<br>(Ai Cittadini) E [[Aufidius]] è con lui? Siete voi coloro<br>che resero l’aria malsana quando gettaste in aria<br>i vostri puzzolenti berretti unti, fischiando<br>l’[[Exile|esilio]] di [[Coriolanus]]. Ora egli viene,<br>e non c’è un capello sulla testa d’un soldato<br>che non si rivelerà una frusta. Quante teste di sciocchi<br>quanti berretti gettaste in alto, tante ne abbatterà,<br>e vi pagherà per le vostre voci. Non importa.<br>Se potesse bruciarci tutti in un solo carbone,<br>l’avremmo meritato. |
+| TUTTI I CITTADINI | In [[Faith|fede]], sentiamo notizie spaventose. |
+| PRIMO CITTADINO | Per parte mia,<br>quando dissi «bandirlo» dissi che era un peccato. |
+| SECONDO CITTADINO | E così feci io. |
+| TERZO CITTADINO | E così feci io, e a dire la [[Truth|verità]] così fecero moltissimi di noi. Quel che facemmo, lo facemmo per il meglio, e benché avessimo volentieri acconsentito al suo bando, pure fu contro la nostra volontà. |
+| [[Cominius|COMINIUS]] | Siete belle cose, voi voci. |
+| [[Menenius|MENENIUS]] | Avete fatto un bel lavoro,<br>voi e la vostra muta. Andiamo al Campidoglio? |
+| [[Cominius|COMINIUS]] | Oh, sì, e che altro? |
+| *(didascalia)* | Escono [[Menenius]] e [[Cominius]] |
+| [[Sicinius|SICINIUS]] | Andate, padroni, tornate a [[Home|casa]]. Non sgomentatevi.<br>Costoro sono una parte che sarebbe lieta d’avere<br>vero ciò che tanto sembrano [[Fear|temere]]. Andate a [[Home|casa]],<br>e non mostrate segno di [[Fear|paura]]. |
+| PRIMO CITTADINO | Gli dèi ci siano propizi! Venite, padroni, andiamo a [[Home|casa]]. Ho sempre detto che avevamo torto quando lo bandimmo. |
+| SECONDO CITTADINO | Così dicemmo tutti. Ma venite, andiamo a [[Home|casa]]. |
+| *(didascalia)* | Escono i Cittadini |
+| [[Brutus|BRUTUS]] | Non mi piacciono queste notizie. |
+| [[Sicinius|SICINIUS]] | Nemmeno a me. |
+| [[Brutus|BRUTUS]] | Andiamo al Campidoglio. Vorrei che metà delle mie sostanze<br>bastasse a comprare che tutto ciò sia una menzogna. |
+| [[Sicinius|SICINIUS]] | Vi prego, andiamo. |
+| *(didascalia)* | Escono |
+
 
 
 <span class="atom-split" data-atom="act_4--scene_7" data-title="Coriolanus — Act IV, Scene 7" data-chapter="Scene 7" data-kind="scene" data-tags="motif/fire,motif/love,motif/nature,motif/time,motif/well,concept/nature,concept/pride,character/aufidius,character/coriolanus"></span>
@@ -2928,6 +4197,20 @@ The [[Tragedy]] of [[Coriolanus]]
 | [[Aufidius\|AUFIDIUS]] | All places yields to him ere he sits down,<br>And the nobility of Rome are his.<br>The senators and patricians [[Love\|love]] him too.<br>The tribunes are no soldiers, and their people<br>Will be as rash in the repeal as hasty<br>To expel him thence. I think he’ll be to Rome<br>As is the osprey to the fish, who takes it<br>By sovereignty of [[Nature\|nature]]. First he was<br>A noble servant to them, but he could not<br>Carry his honours even. Whether ‘twas [[Pride\|pride]],<br>Which out of daily fortune ever taints<br>The happy man; whether defect of judgement,<br>To fail in the disposing of those chances<br>Which he was lord of; or whether [[Nature\|nature]],<br>Not to be other than one thing, not moving<br>From th’ casque to th’ cushion, but commanding peace<br>Even with the same austerity and garb<br>As he controlled the war: but one of these—<br>As he hath spices of them all—not all,<br>For I dare so far free him—made him feared,<br>So hated, and so banished. But he has a merit<br>To choke it in the utt’rance. So our virtues<br>Lie in th‘interpretation of the [[Time\|time]],<br>And power, unto itself most commendable,<br>Hath not a tomb so evident as a chair<br>T’extol what it hath done.<br>One [[Fire\|fire]] drives out one [[Fire\|fire]], one nail one nail;<br>Rights by rights falter, strengths by strengths do fail.<br>Come, let’s away. When, Caius, Rome is thine,<br>Thou art poor’st of all; then shortly art thou mine. |
 | *(didascalia)* | Exeunt |
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entra [[Aufidius]] col suo Luogotenente |
+| [[Aufidius|AUFIDIUS]] | Corrono ancora al Romano? |
+| LUOGOTENENTE | Non so che stregoneria sia in lui, ma<br>i vostri soldati lo usano come la grazia prima del pasto,<br>il loro discorso a tavola e il loro ringraziamento alla fine,<br>e voi siete oscurato in questa impresa, signore,<br>proprio dai vostri. |
+| [[Aufidius|AUFIDIUS]] | Non posso rimediarvi ora,<br>se non usando mezzi che azzoppino il piede<br>del nostro disegno. Egli si porta più altezzosamente,<br>perfino verso la mia persona, di quanto pensassi<br>quando dapprima l’abbracciai. Pure la sua [[Nature|natura]]<br>in questo non è mutata, e devo scusare<br>ciò che non si può emendare. |
+| LUOGOTENENTE | Pure vorrei, signore—<br>intendo per il vostro particolare interesse—che non vi foste<br>unito in comando con lui, ma che aveste<br>sostenuto l’impresa da solo, oppure<br>l’aveste lasciata a lui soltanto. |
+| [[Aufidius|AUFIDIUS]] | Ti capisco [[Well|bene]], e sii certo,<br>quando egli verrà a render conto, egli non sa<br>che cosa io possa addurre contro di lui. Benché sembri—<br>e così egli pensa, e non è meno evidente<br>all’occhio volgare—che egli conduca ogni cosa lealmente<br>e mostri buona amministrazione per lo stato volsco,<br>combatta come un drago, e vinca appena<br>sguainata la [[Sword|spada]], pure ha lasciato non fatto<br>ciò che gli spezzerà il collo o metterà a rischio il mio<br>quando verremo a render conto. |
+| LUOGOTENENTE | Signore, vi supplico, credete che espugnerà Roma? |
+| [[Aufidius|AUFIDIUS]] | Ogni luogo gli si arrende prima ch’egli vi ponga assedio,<br>e la nobiltà di Roma è sua.<br>Anche i senatori e i patrizi lo [[Love|amano]].<br>I tribuni non sono soldati, e il loro popolo<br>sarà tanto avventato nel richiamarlo quanto fu frettoloso<br>nel cacciarlo di là. Credo che sarà per Roma<br>ciò che il falco pescatore è per il pesce, che lo prende<br>per sovranità di [[Nature|natura]]. Dapprima egli fu<br>un nobile servitore per loro, ma non seppe<br>portare in equilibrio i suoi onori. Se fosse [[Pride|orgoglio]],<br>che dalla fortuna quotidiana sempre contamina<br>l’uomo felice; se difetto di giudizio,<br>nel fallire la disposizione di quelle occasioni<br>di cui era signore; o se la sua [[Nature|natura]],<br>incapace d’essere altro che una cosa sola, di non passare<br>dall’elmo al cuscino, ma di comandare in pace<br>con la stessa austerità e portamento<br>con cui reggeva la guerra: uno solo di questi—<br>ché di tutti ha qualche traccia—non tutti,<br>ché fin là oso assolverlo—lo fece temuto,<br>così odiato, e così bandito. Ma egli ha un merito<br>che soffoca tutto ciò nel pronunciarlo. Così le nostre virtù<br>stanno nell’interpretazione del [[Time|tempo]],<br>e il potere, a sé stesso quanto mai commendevole,<br>non ha tomba più evidente d’un seggio<br>eretto a esaltare ciò che ha compiuto.<br>Un [[Fire|fuoco]] scaccia un [[Fire|fuoco]], un chiodo un chiodo;<br>diritti per diritti vacillano, forze per forze vengono meno.<br>Andiamo, via. Quando, Caio, Roma sarà tua,<br>sarai il più povero di tutti; e allora presto sarai mio. |
+| *(didascalia)* | Escono |
 
 
 
@@ -2962,6 +4245,36 @@ The [[Tragedy]] of [[Coriolanus]]
 | [[Cominius\|COMINIUS]] | I tell you, he does sit in gold, his eye<br>Red as ‘twould burn Rome, and his injury<br>The jailer to his pity. I kneeled before him;<br>’Twas very faintly he said ‘Rise’, dismissed me<br>Thus with his speechless hand. What he would do<br>He sent in writing after me, what he would not,<br>Bound with an oath to hold to his conditions.<br>So that all [[Hope\|hope]] is vain unless his noble mother<br>And his wife, who as I hear mean to solicit him<br>For [[Mercy\|mercy]] to his country. Therefore let’s hence,<br>And with our fair entreaties haste them on. |
 | *(didascalia)* | Exeunt |
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entrano [[Menenius]], [[Cominius]], [[Sicinius]] e [[Brutus]], i due tribuni, con altri |
+| [[Menenius|MENENIUS]] | No, non ci andrò. Avete udito che cosa gli ha detto<br>colui che un tempo fu il suo generale, che lo amava<br>d’un affetto quanto mai particolare. Mi chiamava padre,<br>ma che importa? (Ai tribuni) Andate voi, che<br>l’avete bandito.<br>Un miglio prima della sua tenda buttatevi giù, e strisciate in ginocchio<br>la via fino alla sua [[Mercy|clemenza]]. No, se egli fu schivo<br>d’ascoltare [[Cominius]], io me ne starò a [[Home|casa]]. |
+| [[Cominius|COMINIUS]] | Non volle mostrare di conoscermi. |
+| [[Menenius|MENENIUS]] | (ai tribuni) Sentite? |
+| [[Cominius|COMINIUS]] | Pure una [[Time|volta]] mi chiamò per nome.<br>Gli ricordai la nostra vecchia conoscenza e le gocce<br>che abbiamo versato insieme. A «[[Coriolanus]]»<br>non volle rispondere, vietò ogni nome.<br>Era una specie di nulla, senza titolo,<br>finché non si fosse forgiato un nome nel [[Fire|fuoco]]<br>di Roma in fiamme. |
+| [[Menenius|MENENIUS]] | (ai tribuni)<br>Ecco, dunque! Avete fatto un bel lavoro.<br>Un paio di tribuni che hanno rovinato la bella Roma<br>per far costare poco il carbone—nobile [[Memory|memoria]]! |
+| [[Cominius|COMINIUS]] | Gli rammentai quanto fosse regale perdonare<br>quando meno lo si aspettava. Rispose<br>ch’era la nuda supplica d’uno stato<br>a uno che essi avevano punito. |
+| [[Menenius|MENENIUS]] | Molto [[Well|bene]].<br>Poteva dire di meno? |
+| [[Cominius|COMINIUS]] | Mi offersi di ridestare la sua considerazione<br>per i suoi amici privati. La sua risposta fu<br>che non poteva fermarsi a sceglierli in un mucchio<br>di pula fetida e ammuffita. Disse ch’era follia,<br>per un povero chicco o due, lasciare non bruciato<br>e continuare a fiutare il fastidio. |
+| [[Menenius|MENENIUS]] | Per un povero chicco o due?<br>Io sono uno di quelli. Sua madre, sua moglie, il suo [[Child|figlio]],<br>e anche questo bravo uomo—noi siamo i chicchi.<br>(Ai tribuni) Voi siete la pula ammuffita, e il vostro odore si sente<br>sopra la [[Moon|luna]]. Dobbiamo bruciare per voi. |
+| [[Sicinius|SICINIUS]] | No, vi prego, siate paziente. Se rifiutate il vostro aiuto<br>in questo soccorso mai tanto necessario, non però<br>rinfacciateci la nostra angustia. Ma certo, se<br>voleste essere l’avvocato del vostro paese, la vostra buona lingua,<br>più dell’esercito che possiamo mettere insieme sul momento,<br>potrebbe fermare il nostro concittadino. |
+| [[Menenius|MENENIUS]] | No, non m’immischierò. |
+| [[Sicinius|SICINIUS]] | Vi prego, andate da lui. |
+| [[Menenius|MENENIUS]] | Che dovrei fare? |
+| [[Brutus|BRUTUS]] | Fate solo la prova di ciò che il vostro [[Love|affetto]] può fare<br>per Roma presso Marzio. |
+| [[Menenius|MENENIUS]] | [[Well|Bene]], e mettiamo che Marzio mi rimandi,<br>come [[Cominius]] è tornato, senza ascoltarmi—e allora?<br>Se non come un amico scontento, trafitto dal dolore<br>per la sua scortesia? Mettiamo che sia così? |
+| [[Sicinius|SICINIUS]] | Pure la vostra buona volontà<br>dovrà avere da Roma quel ringraziamento nella misura<br>in cui avrete [[Well|bene]] inteso. |
+| [[Menenius|MENENIUS]] | Lo intraprenderò.<br>Credo che m’ascolterà. Pure il fatto che si mordesse il labbro<br>e facesse «hm» al buon [[Cominius]] mi toglie molto animo.<br>Non fu preso [[Well|bene]], non aveva pranzato.<br>Con le vene non piene, il nostro [[Blood|sangue]] è freddo, e allora<br>facciamo il broncio al mattino, siamo inadatti<br>a dare o a perdonare; ma quando abbiamo riempito<br>questi condotti e questi canali del nostro [[Blood|sangue]]<br>di vino e di cibo, abbiamo anime più duttili<br>che nei nostri digiuni da preti. Perciò lo spierò<br>finché non sia messo a dieta per la mia richiesta,<br>e allora l’assalirò. |
+| [[Brutus|BRUTUS]] | Conoscete proprio la [[Road|strada]] che porta alla sua benevolenza,<br>e non potete smarrirvi. |
+| [[Menenius|MENENIUS]] | In buona [[Faith|fede]], lo metterò alla prova.<br>Comunque [[Speed|vada]], avrò fra non molto contezza<br>del mio [[success|esito]]. |
+| *(didascalia)* | Esce |
+| [[Cominius|COMINIUS]] | Non lo ascolterà mai. |
+| [[Sicinius|SICINIUS]] | No? |
+| [[Cominius|COMINIUS]] | Vi dico, siede nell’oro, l’occhio<br>rosso come volesse bruciare Roma, e la sua offesa<br>fa da carceriere alla sua pietà. Io m’inginocchiai davanti a lui;<br>fu con voce fiochissima che disse «Alzati», e mi congedò<br>così, con la mano muta. Ciò che avrebbe fatto<br>me lo mandò per iscritto dietro, e ciò che non avrebbe fatto,<br>vincolato da un giuramento di tener fede alle sue condizioni.<br>Sicché ogni [[Hope|speranza]] è vana, se non nella sua nobile madre<br>e nella moglie, che a quanto sento intendono supplicarlo<br>di [[Mercy|pietà]] per il suo paese. Perciò andiamo via di qui,<br>e con le nostre buone preghiere affrettiamole. |
+| *(didascalia)* | Escono |
 
 
 
@@ -3010,6 +4323,50 @@ The [[Tragedy]] of [[Coriolanus]]
 | FIRST WATCHMAN | A noble fellow, I warrant him. |
 | SECOND WATCHMAN | The worthy fellow is our general. He’s the rock, the oak, not to be [[Wind\|wind]]-shaken. Exeunt |
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entra [[Menenius]] presso la Guardia o sentinella |
+| PRIMA SENTINELLA | Fermo. Da dove venite? |
+| SECONDA SENTINELLA | Alto là, e tornate indietro. |
+| [[Menenius|MENENIUS]] | Fate buona guardia; sta [[Well|bene]]. Ma, con vostra licenza, io sono un ufficiale dello stato, e vengo a parlare con [[Coriolanus]]. |
+| PRIMA SENTINELLA | Da dove? |
+| [[Menenius|MENENIUS]] | Da Roma. |
+| PRIMA SENTINELLA | Non potete passare, dovete tornare indietro.<br>Il nostro generale non vuole più udir nulla di là. |
+| SECONDA SENTINELLA | Vedrete la vostra Roma abbracciata dal [[Fire|fuoco]] prima<br>che parliate con [[Coriolanus]]. |
+| [[Menenius|MENENIUS]] | Buoni amici miei,<br>se avete udito il vostro generale parlare di Roma<br>e dei suoi amici colà, scommetto cento contro zero<br>che il mio nome ha toccato i vostri orecchi. È [[Menenius]]. |
+| PRIMA SENTINELLA | Sia pure; tornate indietro. La virtù del vostro nome<br>non è qui moneta corrente. |
+| [[Menenius|MENENIUS]] | Ti dico, amico,<br>che il tuo generale è il mio [[Lover|caro amico]]. Io sono stato<br>il libro delle sue belle azioni, donde gli uomini hanno letto<br>la sua fama senza pari felicemente amplificata;<br>ché io ho sempre attestato i miei amici,<br>di cui egli è il primo, con tutta l’ampiezza che la verità<br>potesse sopportare senza venir meno. Anzi, talvolta,<br>come una boccia su un terreno insidioso,<br>ho rotolato oltre il tiro, e nella sua lode<br>ho quasi impresso il conio della menzogna. Perciò, amico,<br>devo avere licenza di passare. |
+| PRIMA SENTINELLA | In [[Faith|fede]], signore, se aveste detto tante menzogne in suo favore quante parole avete pronunciato in vostro, non passereste di qui, no, neppure se fosse virtuoso mentire quanto vivere castamente. Perciò tornate indietro. |
+| [[Menenius|MENENIUS]] | Ti prego, amico, ricorda che il mio nome è [[Menenius]], sempre partigiano della fazione del tuo generale. |
+| SECONDA SENTINELLA | Comunque siate stato il suo bugiardo, come dite d’essere stato, io sono uno che, dicendo il vero sotto di lui, deve dirvi che non potete passare. Perciò tornate indietro. |
+| [[Menenius|MENENIUS]] | Ha pranzato, sai dirmelo? Ché non vorrei parlargli se non dopo pranzo. |
+| PRIMA SENTINELLA | Siete un Romano, vero? |
+| [[Menenius|MENENIUS]] | Lo sono quanto il tuo generale. |
+| PRIMA SENTINELLA | Allora dovreste odiare Roma come lui. Potete voi, dopo aver cacciato fuori dalle vostre porte proprio il loro difensore, e in una violenta ignoranza popolare aver dato al vostro nemico il vostro scudo, pensare di affrontare le sue vendette coi facili gemiti di vecchie donne, con le palme verginali delle vostre figlie, o con la paralitica intercessione d’un rimbambito decrepito come voi sembrate essere? Potete pensare di spegnere il [[Fire|fuoco]] già destinato, in cui la vostra [[City|città]] sta per divampare, con un fiato debole come questo? No, v’ingannate, perciò tornate a Roma, e preparatevi all’esecuzione. Siete condannati, il nostro generale ha giurato di escludervi da ogni tregua e perdono. |
+| [[Menenius|MENENIUS]] | Messere, se il tuo capitano sapesse che sono qui, mi tratterebbe con stima. |
+| PRIMA SENTINELLA | Suvvia, il mio capitano non vi conosce. |
+| [[Menenius|MENENIUS]] | Intendo il tuo generale. |
+| PRIMA SENTINELLA | Il mio generale non si cura di voi. Indietro, dico, andate, o vi faccio uscire la vostra mezza pinta di [[Blood|sangue]]. Indietro. È il massimo che otterrete. Indietro. |
+| [[Menenius|MENENIUS]] | Ma no, amico, amico— |
+| *(didascalia)* | Entra [[Coriolanus]] con [[Aufidius]] |
+| [[Coriolanus|CORIOLANUS]] | Che succede? |
+| [[Menenius|MENENIUS]] | (alla Prima Sentinella) Ora, compare, dirò una parolina per te. Saprai adesso che io sono tenuto in stima. Ti accorgerai che un guardiano da strapazzo non può con la sua carica separarmi da mio figlio [[Coriolanus]]. Indovina solo dall’accoglienza ch’egli mi fa se non ti trovi nella condizione d’essere impiccato, o d’una [[Death|morte]] più lunga da guardare e più crudele nel [[Suffering|patire]]. Guarda dunque subito, e sviene per ciò che ti sta per capitare. (A [[Coriolanus]]) I gloriosi dèi siedano in sinodo d’ora in ora intorno alla tua particolare prosperità, e ti [[Love|amino]] non meno di quanto ti ami il tuo vecchio padre [[Menenius]]! (Piangendo) O figlio mio, figlio mio, tu stai preparando il [[Fire|fuoco]] per noi. Guarda, ecco l’[[Water|acqua]] per spegnerlo. A stento mi son lasciato indurre a venire da te, ma essendomi assicurato che nessuno all’infuori di me poteva commuoverti, sono stato soffiato fuori dalle nostre porte dai sospiri, e ti scongiuro di perdonare Roma e i tuoi supplici concittadini. I buoni dèi plachino la tua ira e ne rovescino la feccia su questo furfante qui, questo, che come un ceppo mi ha negato l’accesso a te! |
+| [[Coriolanus|CORIOLANUS]] | Via! |
+| [[Menenius|MENENIUS]] | Come? Via? |
+| [[Coriolanus|CORIOLANUS]] | Moglie, madre, [[Child|figlio]], non li conosco. I miei affari<br>sono asserviti ad altri. Benché la mia [[Revenge|vendetta]]<br>sia propriamente mia, il mio perdono sta<br>nei petti volsci. Che noi siamo stati intimi,<br>l’ingrata dimenticanza lo [[Poison|avveleni]] piuttosto<br>che la pietà ne noti quanto. Perciò vattene.<br>I miei orecchi contro le vostre suppliche sono più forti<br>delle vostre porte contro la mia forza. Pure, poiché ti amai,<br>Gli dà una lettera<br>prendi questa con te. La scrissi per amor tuo,<br>e volevo mandartela. Un’altra parola, [[Menenius]],<br>e non t’ascolterò parlare.—Quest’uomo, [[Aufidius]],<br>era il mio diletto a Roma; eppure tu vedi. |
+| [[Aufidius|AUFIDIUS]] | Mantieni un temperamento costante. |
+| *(didascalia)* | Escono [[Coriolanus]] e [[Aufidius]] |
+| PRIMA SENTINELLA | Ebbene, signore, il vostro nome è [[Menenius]]? |
+| SECONDA SENTINELLA | È un incantesimo, vedete, di gran potere.<br>Sapete la via per tornare a [[Home|casa]]. |
+| PRIMA SENTINELLA | Sentite come siamo rimproverati per aver trattenuto la vostra [[Greatness|grandezza]]? |
+| SECONDA SENTINELLA | Che motivo credete ch’io abbia di svenire? |
+| [[Menenius|MENENIUS]] | Non m’importa né del mondo né del vostro generale. Quanto a esseri come voi, a stento posso credere che esistano, tanto siete da poco. Chi ha volontà di morire di propria mano non teme la morte da un altro. Faccia pure il vostro generale il peggio che può. Quanto a voi, restate a lungo quel che siete, e la vostra miseria cresca con la vostra età. Vi dico ciò che fu detto a me: «Via!» |
+| *(didascalia)* | Esce |
+| PRIMA SENTINELLA | Un nobile uomo, ve lo garantisco. |
+| SECONDA SENTINELLA | Il degno uomo è il nostro generale. È la rupe, la quercia, che non si lascia scuotere dal [[Wind|vento]]. Escono |
 
 
 
@@ -3070,6 +4427,61 @@ The [[Tragedy]] of [[Coriolanus]]
 | *(didascalia)* | Exeunt |
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entrano [[Coriolanus]] e [[Aufidius]], con soldati volsci. [[Coriolanus]] e [[Aufidius]] si siedono |
+| [[Coriolanus|CORIOLANUS]] | Domani, davanti alle mura di Roma,<br>accamperemo il nostro esercito. Compagno mio in quest’impresa,<br>dovrete riferire ai signori volsci con quanta lealtà<br>io abbia condotto questa faccenda. |
+| [[Aufidius|AUFIDIUS]] | Solo i loro fini<br>avete riguardato, avete chiuso gli orecchi<br>alla supplica generale di Roma, non avete mai ammesso<br>un sussurro privato, no, nemmeno con quegli amici<br>che si credevano sicuri di voi. |
+| [[Coriolanus|CORIOLANUS]] | Quest’ultimo vecchio,<br>che con cuore spezzato ho rimandato a Roma,<br>mi amava oltre la misura d’un padre,<br>anzi, mi faceva addirittura un dio. Il loro estremo rifugio<br>era mandare lui, e per il suo vecchio [[Love|affetto]] ho—<br>benché mi sia mostrato aspro con lui—offerto ancora una volta<br>le prime condizioni, che essi rifiutarono<br>e che ora non possono accettare, solo per far grazia a lui<br>che pensava di poter fare di più. Ben poco<br>ho concesso. A nuove ambascerie e suppliche,<br>né dallo stato né da amici privati, d’ora innanzi<br>presterò orecchio. |
+| *(didascalia)* | Grida all’interno |
+| [[Coriolanus|CORIOLANUS]] | Ah, che grida son queste?<br>Sarò tentato d’infrangere il mio voto<br>nel [[Time|momento]] stesso in cui è fatto? Non lo farò. |
+| *(didascalia)* | Entrano [[Virgilia]], [[Volumnia]], Valeria, il giovane Marzio, con seguito |
+| [[Coriolanus|CORIOLANUS]] | Mia moglie viene per prima, poi lo stampo onorato<br>in cui questo tronco fu formato, e per mano<br>il nipote del suo [[Blood|sangue]]. Ma via, affetto!<br>Si spezzi ogni vincolo e privilegio di [[Nature|natura]];<br>sia virtù essere ostinato. |
+| *(didascalia)* | [[Virgilia]] fa una riverenza |
+| [[Coriolanus|CORIOLANUS]] | Quanto vale quella riverenza? O quegli occhi di colomba<br>che possono far spergiurare gli dèi? Io mi struggo, e non sono<br>di terra più forte degli altri.<br>[[Volumnia]] s’inchina<br>Mia madre s’inchina,<br>come se l’Olimpo a un formicaio<br>facesse cenno di supplica; e il mio piccolo<br>ha un’aria d’intercessione a cui<br>la grande [[Nature|natura]] grida «Non negare».—Che i Volsci<br>arino Roma ed erpichino l’[[Italy|Italia]]! Non sarò mai<br>tale papero da obbedire all’istinto, ma starò<br>come se un uomo fosse autore di sé stesso<br>e non conoscesse altra parentela. |
+| [[Virgilia|VIRGILIA]] | Mio signore e marito. |
+| [[Coriolanus|CORIOLANUS]] | Questi occhi non sono gli stessi che portavo a Roma. |
+| [[Virgilia|VIRGILIA]] | È il dolore che ci consegna così mutate<br>a farvelo credere. |
+| [[Coriolanus|CORIOLANUS]] | Come un attore inetto ora<br>ho dimenticato la mia parte, e sono fuori<br>fino alla piena vergogna. FRisingl Migliore della mia carne,<br>perdona la mia tirannia, ma non dire per questo<br>«Perdona i nostri Romani». |
+| *(didascalia)* | viraiha lo bacia |
+| [[Coriolanus|CORIOLANUS]] | Oh, un bacio<br>lungo come il mio [[Exile|esilio]], dolce come la mia [[Revenge|vendetta]]!<br>Ora, per la gelosa [[Queen|regina]] del cielo, quel bacio<br>lo portai via da te, cara, e il mio labbro fedele<br>l’ha custodito vergine da allora. O dèi, io ciarlo,<br>e la più nobile madre del mondo<br>lascio non salutata! Affondati, ginocchio mio, nella terra.<br>S’inginocchia<br>Del tuo profondo dovere mostra impronta più forte<br>di quella dei figli comuni. |
+| [[Volumnia|VOLUMNIA]] | Oh, alzati benedetto, |
+| *(didascalia)* | [[Coriolanus]] si alza |
+| [[Volumnia|VOLUMNIA]] | mentre io, con cuscino non più molle della selce,<br>m’inginocchio davanti a te, e impropriamente<br>mostro un dovere scambiato per tutto questo tempo<br>fra il [[Child|figlio]] e il genitore.<br>S’inginocchia |
+| [[Coriolanus|CORIOLANUS]] | Che cos’è questo?<br>Voi in ginocchio davanti a me? Al vostro figlio corretto? |
+| *(didascalia)* | La rialza |
+| [[Coriolanus|CORIOLANUS]] | Allora i ciottoli della spiaggia affamata<br>diano una schicchera alle [[Stars|stelle]]; allora i venti ammutinati<br>scaglino i superbi cedri contro il sole di fuoco,<br>uccidendo l’impossibilità per rendere<br>facile impresa ciò che non può essere. |
+| [[Volumnia|VOLUMNIA]] | Tu sei il mio guerriero.<br>Io ho contribuito a plasmarti. Conosci questa signora? |
+| [[Coriolanus|CORIOLANUS]] | La nobile sorella di Publicola,<br>la [[Moon|luna]] di Roma, casta come il ghiacciolo<br>che il [[Frost|gelo]] candisce dalla più pura [[Snow|neve]]<br>e pende dal tempio di Diana—cara Valeria! |
+| [[Volumnia|VOLUMNIA]] | (mostrando a [[Coriolanus]] suo figlio)<br>Questo è un povero compendio di te,<br>che per l’interpretazione del pieno [[Time|tempo]]<br>potrà apparire tutto simile a te. |
+| [[Coriolanus|CORIOLANUS]] | (al giovane Marzio) Il dio dei soldati,<br>col consenso del sommo Giove, informi<br>i tuoi pensieri di nobiltà, sì che tu possa mostrarti<br>invulnerabile alla vergogna, e stare nelle guerre<br>come un grande faro che regge ogni raffica<br>e salva coloro che ti guardano! |
+| [[Volumnia|VOLUMNIA]] | (al giovane Marzio) Il ginocchio, ragazzo. |
+| *(didascalia)* | Il giovane Marzio s’inginocchia |
+| [[Coriolanus|CORIOLANUS]] | Ecco il mio bravo ragazzo. |
+| [[Volumnia|VOLUMNIA]] | Lui stesso, tua moglie, questa signora e io<br>siamo supplici davanti a te. |
+| [[Coriolanus|CORIOLANUS]] | Vi supplico, silenzio.<br>O, se volete chiedere, ricordate prima questo:<br>le cose che ho giurato di non concedere non potranno mai<br>essere da voi tenute per rifiuti. Non chiedetemi<br>di congedare i miei soldati, o di capitolare<br>di nuovo con gli artigiani di Roma. Non ditemi<br>in che cosa io sembri snaturato. Non [[Desire|cercate]] di placare<br>le mie ire e vendette con le vostre ragioni più fredde. |
+| [[Volumnia|VOLUMNIA]] | Oh, basta, basta!<br>Hai detto che non ci concederai nulla—<br>ché non abbiamo altro da chiedere se non ciò<br>che tu già neghi. Pure chiederemo,<br>affinché, se ci manchi nella richiesta, la colpa<br>possa pendere sulla tua durezza. Perciò ascoltaci. |
+| [[Coriolanus|CORIOLANUS]] | [[Aufidius]] e voi Volsci, udite, ché non vogliamo<br>udir nulla da Roma in privato. |
+| *(didascalia)* | Si siede |
+| [[Coriolanus|CORIOLANUS]] | La vostra richiesta? |
+| [[Volumnia|VOLUMNIA]] | Se anche tacessimo e non parlassimo, le nostre vesti<br>e lo stato dei nostri corpi tradirebbero quale vita<br>abbiamo condotto dal tuo [[Exile|esilio]]. Pensa fra te<br>quanto più sventurate di tutte le donne viventi<br>siamo venute qui, giacché la tua vista, che dovrebbe<br>far scorrere di gioia i nostri occhi, far [[Dance|danzare]] i cuori di<br>conforti,<br>li costringe a piangere e a tremare di [[Fear|paura]] e<br>dolore,<br>facendo che la madre, la moglie e il [[Child|figlio]] vedano<br>il figlio, il marito e il padre strappare<br>le viscere del suo paese; e per noi misere<br>la tua inimicizia è quanto mai capitale. Tu ci sbarri<br>le preghiere agli dèi, che è un conforto<br>di cui tutti godono fuorché noi. Ché come possiamo,<br>ahimè, come possiamo pregare per il nostro paese,<br>a cui siamo legate, e insieme per la tua vittoria,<br>a cui siamo legate? Ahimè, o dobbiamo perdere neo<br>il paese, nostra cara [[Nurse|nutrice]], oppure la tua persona,<br>nostro conforto nel paese. Dobbiamo trovare<br>un’evidente calamità, anche se avessimo<br>il nostro desiderio su quale parte debba vincere. Ché o tu<br>dovrai, come rinnegato straniero, essere condotto<br>in manette per le nostre strade, oppure<br>calpestare trionfante la rovina del tuo paese,<br>e portare la palma per aver bravamente versato<br>il [[Blood|sangue]] di tua moglie e dei tuoi figli. Quanto a me, figlio,<br>non intendo attendere la fortuna finché<br>queste guerre si decidano. Se non riesco a persuaderti<br>a mostrare piuttosto una nobile grazia a entrambe le parti<br>che a cercare la fine dell’una, non muoverai<br>ad assalire il tuo paese senza prima calpestare—<br>credilo pure, non lo farai—il grembo di tua madre<br>che ti portò in questo mondo. |
+| [[Virgilia|VIRGILIA]] | Sì, e il mio,<br>che vi partorì questo bambino per mantenere il vostro nome<br>vivo nel [[Time|tempo]]. |
+| GIOVANE MARZIO | Non calpesterà me.<br>Scapperò via finché non sarò più grande, ma poi combatterò. |
+| [[Coriolanus|CORIOLANUS]] | Per non essere di tenerezza femminile<br>non bisogna guardare volto di [[Child|bimbo]] né di donna.<br>Sono rimasto seduto troppo a lungo. |
+| *(didascalia)* | Egli |
+| *(didascalia)* | si alza e si volta via |
+| [[Volumnia|VOLUMNIA]] | No, non allontanarti così da noi.<br>Se fosse che la nostra richiesta mirasse<br>a salvare i Romani, e con ciò a distruggere<br>i Volsci che tu servi, potresti condannarci<br>come velenose per il tuo [[Honour|onore]]. No, la nostra supplica<br>è che tu li riconcili: sì che i Volsci<br>possano dire «Questa [[Mercy|clemenza]] abbiamo mostrato», e i Romani<br>«Questa abbiamo ricevuta», e ciascuno da entrambe le parti<br>ti dia il saluto e gridi «Sii benedetto<br>per aver concluso questa pace!» Tu sai, gran figlio,<br>che la fine della guerra è incerta; ma questo è certo,<br>che se conquisti Roma, il beneficio<br>che ne ricaverai è un nome<br>la cui ripetizione sarà inseguita da maledizioni,<br>la cui cronaca sarà scritta così: «L’uomo era nobile,<br>ma con l’ultima impresa cancellò tutto,<br>distrusse il suo paese, e il suo nome resta<br>all’età seguente aborrito.» Parlami, figlio.<br>Tu hai aspirato alle fini corde dell’[[Honour|onore]],<br>a imitare le grazie degli dèi,<br>a squarciare col tuono le larghe guance dell’aria,<br>e pure a caricare il tuo zolfo d’un fulmine<br>che non facesse che spaccare una quercia. Perché non parli?<br>Credi tu onorevole per un uomo nobile<br>ricordare sempre le offese? Figlia, parla tu,<br>egli non si cura del tuo pianto. Parla tu, ragazzo.<br>Forse la tua fanciullezza lo commuoverà più<br>di quanto possano le nostre ragioni. Non c’è uomo al mondo<br>più obbligato a sua madre, eppure qui mi lascia ciarlare<br>come una messa alla berlina. Tu non hai mai in vita tua<br>mostrato alla tua cara madre alcuna cortesia,<br>mentre lei, povera chioccia, non desiderosa d’altra covata,<br>ti ha chiocciato alle guerre e a [[Home|casa]] salvo,<br>carico d’[[Honour|onore]]. Di’ che la mia richiesta è ingiusta,<br>e ricacciami indietro con un calcio. Ma se non è così,<br>tu non sei onesto, e gli dèi ti flagelleranno<br>perché mi neghi il dovere che<br>alla parte d’una madre appartiene.—Egli si volta via.<br>A terra, signore. Facciamogli vergogna con le nostre ginocchia.<br>Al suo soprannome «[[Coriolanus]]» appartiene più [[Pride|orgoglio]]<br>che pietà per le nostre preghiere. A terra! Finiamola.<br>Questa è l’ultima volta.<br>Le signore e il giovane Marzio s’inginocchiano<br>Così ce ne torneremo a [[Home|casa]] a Roma,<br>e moriremo fra i nostri vicini.—No, guardaci.<br>Questo bambino, che non sa dire ciò che vorrebbe,<br>ma s’inginocchia e alza le mani per solidarietà,<br>argomenta la nostra supplica con più forza<br>di quanta tu ne abbia per negarla.—Su, andiamocene.<br>Costui ebbe una Volsca per madre.<br>Sua moglie è a Codoles, e questo [[Child|figlio]]<br>gli somiglia per caso.—Eppure congedaci.<br>Io taccio finché la nostra [[City|città]] non sia in fiamme,<br>e allora parlerò un poco.<br>Egli la tiene per mano, in silenzio |
+| [[Coriolanus|CORIOLANUS]] | O madre, madre!<br>Che avete fatto? Guardate, i cieli si aprono,<br>gli dèi guardano giù, e di questa scena snaturata<br>ridono. O madre mia, madre, oh!<br>Avete vinto una felice vittoria per Roma;<br>ma quanto a vostro figlio, credetelo, oh credetelo,<br>l’avete vinto in modo quanto mai pericoloso per lui,<br>se non addirittura mortale. Ma venga pure. |
+| *(didascalia)* | Le signore e il giovane Marzio si alzano |
+| [[Coriolanus|CORIOLANUS]] | [[Aufidius]], benché io non possa fare vere guerre,<br>farò una pace conveniente. Ora, buon [[Aufidius]],<br>foste voi al mio posto, avreste ascoltato<br>meno una madre, o concesso meno, [[Aufidius]]? |
+| [[Aufidius|AUFIDIUS]] | Anch’io ne fui commosso. |
+| [[Coriolanus|CORIOLANUS]] | Oso giurare che lo foste.<br>E, signore, non è cosa da poco far sì<br>che i miei occhi sudino compassione. Ma, buon signore,<br>quale pace farete, consigliatemi. Per parte mia,<br>non andrò a Roma; tornerò con voi, e vi prego<br>di sostenermi in questa causa.—O madre! Moglie! |
+| [[Aufidius|AUFIDIUS]] | (a parte)<br>Son lieto che tu abbia messo la tua [[Mercy|clemenza]] e il tuo [[Honour|onore]]<br>in contrasto dentro di te. Da ciò mi lavorerò<br>una fortuna come quella d’un tempo. |
+| [[Coriolanus|CORIOLANUS]] | (a [[Volumnia]] e [[Virgilia]]) Sì, fra poco.<br>Ma berremo insieme, e voi riporterete indietro<br>una testimonianza migliore delle parole, che noi<br>a pari condizioni faremo controsigillare.<br>Venite, entrate con noi. Signore, voi meritate<br>che vi si edifichi un tempio. Tutte le spade<br>d’[[Italy|Italia]], e le sue armi confederate,<br>non avrebbero potuto fare questa pace. |
+| *(didascalia)* | Escono |
+
 
 
 <span class="atom-split" data-atom="act_5--scene_4" data-title="Coriolanus — Act V, Scene 4" data-chapter="Scene 4" data-kind="scene" data-tags="motif/city,motif/dance,motif/death,motif/fire,motif/home,motif/horse,motif/time,motif/well,concept/doubt,concept/eternity,concept/hope,concept/mercy,character/coriolanus,character/menenius,character/sicinius,character/volumnia"></span>
@@ -3109,6 +4521,41 @@ The [[Tragedy]] of [[Coriolanus]]
 | *(didascalia)* | Exeunt |
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entrano [[Menenius]] e [[Sicinius]] |
+| [[Menenius|MENENIUS]] | Vedete quello spigolo del Campidoglio, quella pietra angolare? |
+| [[Sicinius|SICINIUS]] | Ebbene, che c’entra? |
+| [[Menenius|MENENIUS]] | Se vi è possibile smuoverla col vostro mignolo, c’è qualche [[Hope|speranza]] che le donne di Roma, e specialmente sua madre, possano ottenere qualcosa da lui. Ma io dico che non c’è [[Hope|speranza]] alcuna: le nostre gole sono condannate e attendono l’esecuzione. |
+| [[Sicinius|SICINIUS]] | È possibile che così poco [[Time|tempo]] possa mutare la condizione d’un uomo? |
+| [[Menenius|MENENIUS]] | C’è differenza fra un bruco e una farfalla, eppure la vostra farfalla fu un bruco. Questo Marzio è cresciuto da uomo a drago. Ha le ali, è più di una cosa strisciante. |
+| [[Sicinius|SICINIUS]] | Amava teneramente sua madre. |
+| [[Menenius|MENENIUS]] | E così amava me, e ora non si ricorda di sua madre più di quanto se ne ricordi un [[Horse|cavallo]] di otto anni. L’asprezza del suo volto inacidisce l’uva matura. Quando cammina, si muove come una macchina, e il suolo s’incurva sotto il suo passo. È capace di trapassare una corazza con lo sguardo, parla come una campana a morto, e il suo «hm!» è una cannonata. Siede in trono come una cosa fatta per Alessandro. Ciò che ordina di fare è compiuto col suo ordine stesso. Non gli manca nulla d’un dio se non l’[[Eternity|eternità]] e un cielo dove regnare. |
+| [[Sicinius|SICINIUS]] | Sì: la [[Mercy|clemenza]], se lo ritraete fedelmente. |
+| [[Menenius|MENENIUS]] | Lo dipingo secondo il suo carattere. Notate che [[Mercy|clemenza]] sua madre otterrà da lui. Non c’è più [[Mercy|clemenza]] in lui di quanto ci sia latte in una tigre maschio. Questo lo scoprirà la nostra povera [[City|città]]; e tutto ciò è per colpa vostra. [[Sicinius|SICINIUS]] Gli dèi ci siano propizi! |
+| VIENENIUS | No, in un caso simile gli dèi non ci saranno propizi. Quando lo bandimmo non li rispettammo, e ora che egli torna a spezzarci il collo, essi non rispettano noi. |
+| *(didascalia)* | Entra un Messaggero |
+| MESSAGGERO | (a [[Sicinius]])<br>Signore, se volete salvare la vita, fuggite alla vostra [[house|casa]].<br>I plebei hanno preso il vostro collega tribuno<br>e lo trascinano su e giù, giurando tutti che se<br>le dame romane non riportano conforto a [[Home|casa]]<br>gli daranno la [[Death|morte]] a pollice a pollice. |
+| *(didascalia)* | Entra un altro Messaggero |
+| [[Sicinius|SICINIUS]] | Che notizie? |
+| SECONDO MESSAGGERO | Buone notizie, buone notizie. Le dame hanno vinto,<br>i Volsci hanno tolto il campo, e Marzio se n’è andato.<br>Giorno più lieto non salutò mai Roma,<br>no, nemmeno la cacciata dei Tarquini. |
+| [[Sicinius|SICINIUS]] | Amico,<br>sei certo che questo sia vero? È certissimo? |
+| SECONDO MESSAGGERO | Certo come so che il sole è [[Fire|fuoco]].<br>Dove vi siete rintanato, per [[Doubt|dubitarne]]?<br>Mai marea gonfia si precipitò sotto un arco<br>come i riconfortati attraverso le porte. |
+| *(didascalia)* | Trombe, oboi, tamburi, tutti insieme |
+| SECONDO MESSAGGERO | Ma udite,<br>le trombe, i tromboni, i salteri e i pifferi,<br>i tamburelli e i cembali e i Romani che gridano<br>fanno [[Dance|danzare]] il sole.<br>Grida all’interno<br>Udite! |
+| [[Menenius|MENENIUS]] | Questa è buona notizia.<br>Andrò incontro alle dame. Questa [[Volumnia]]<br>vale consoli, senatori, patrizi,<br>una [[City|città]] intera; di tribuni come voi,<br>un mare e una terra intera. Avete pregato [[Well|bene]] oggi.<br>Stamattina per diecimila delle vostre gole<br>non avrei dato un soldo. |
+| *(didascalia)* | La musica continua a suonare insieme alle grida |
+| [[Menenius|MENENIUS]] | Udite come gioiscono! |
+| [[Sicinius|SICINIUS]] | (al Messaggero)<br>Anzitutto, gli dèi ti benedicano per le tue notizie. Poi, |
+| *(didascalia)* | Dandogli del denaro Accetta la mia gratitudine. |
+| SECONDO MESSAGGERO | Signore, abbiamo tutti gran motivo di rendere gran grazie. |
+| [[Sicinius|SICINIUS]] | Sono vicine alla [[City|città]]. |
+| SECONDO MESSAGGERO | Quasi sul punto d’entrare. |
+| [[Sicinius|SICINIUS]] | Andremo loro incontro, e accresceremo la gioia. |
+| *(didascalia)* | Escono |
+
 
 
 <span class="atom-split" data-atom="act_5--scene_5" data-title="Coriolanus — Act V, Scene 5" data-chapter="Scene 5" data-kind="scene" data-tags="motif/flowers,character/coriolanus,character/sicinius,character/virgilia,character/volumnia"></span>
@@ -3121,6 +4568,15 @@ The [[Tragedy]] of [[Coriolanus]]
 | ALL | Welcome, ladies, welcome! |
 | *(didascalia)* | A flourish with drums and trumpets. Exeunt |
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entrano da una porta Signori e Cittadini, da un’altra porta due Senatori con le dame [[Volumnia]], [[Virgilia]] e Valeria, attraversando la scena |
+| [[Sicinius|SICINIUS]] | UN SENATORE<br>Ecco la nostra patrona, la vita di Roma!<br>Chiamate a raccolta tutte le vostre tribù, lodate gli dèi,<br>e accendete fuochi trionfali. Spargete [[Flowers|fiori]] davanti a loro.<br>Disdite col grido il clamore che bandì Marzio,<br>richiamatelo col benvenuto di sua madre.<br>Gridate «Benvenute, signore, benvenute!» |
+| TUTTI | Benvenute, signore, benvenute! |
+| *(didascalia)* | Squillo di tamburi e trombe. Escono |
 
 
 
@@ -3191,3 +4647,71 @@ The [[Tragedy]] of [[Coriolanus]]
 | FIRST LORD | Bear from hence his [[Body\|body]],<br>And mourn you for him. Let him be regarded<br>As the most noble corpse that ever herald<br>Did follow to his urn. |
 | SECOND LORD | His own impatience<br>Takes from [[Aufidius]] a great part of blame.<br>Let’s make the best of it. |
 | [[Aufidius\|AUFIDIUS]] | My rage is gone,<br>And I am struck with sorrow. Take him up.<br>Help three o’th’ chiefest soldiers; I’ll be one.<br>Beat thou the drum, that it speak mournfully.<br>Trail your steel pikes. Though in this [[City\|city]] he<br>Hath widowed and unchilded many a one,<br>Which to this hour bewail the injury,<br>Yet he shall have a noble [[Memory\|memory]]. Assist.<br>A dead march sounded. Exeunt<br>bearing the [[Body\|body]] of Martius |
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entra Tullo [[Aufidius]] con il seguito |
+| [[Aufidius|AUFIDIUS]] | Andate a dire ai signori della [[City|città]] che sono qui.<br>Consegnate loro questo foglio. Dopo averlo letto,<br>invitateli a recarsi alla piazza del mercato, dove io,<br>proprio ai loro orecchi e a quelli del popolo,<br>ne attesterò la [[Truth|verità]]. Colui che accuso<br>ha ormai varcato le porte della [[City|città]], e<br>intende presentarsi davanti al popolo, sperando<br>di discolparsi con le parole. Sbrigatevi. |
+| *(didascalia)* | Esce il seguito |
+| *(didascalia)* | Entrano tre o quattro Congiurati della fazione di [[Aufidius]] |
+| [[Aufidius|AUFIDIUS]] | Siate i benvenuti. |
+| PRIMO CONGIURATO | Come sta il nostro generale? |
+| [[Aufidius|AUFIDIUS]] | Proprio<br>come un uomo avvelenato dalle sue stesse elemosine,<br>e ucciso dalla propria [[Charity|carità]]. |
+| SECONDO CONGIURATO | Nobilissimo signore,<br>se conservate lo stesso proposito in cui<br>ci volevate partecipi, vi libereremo<br>dal vostro grande pericolo. |
+| [[Aufidius|AUFIDIUS]] | Signore, non saprei dire.<br>Dobbiamo procedere secondo come troveremo il popolo. |
+| TERZO CONGIURATO | Il popolo resterà incerto finché<br>fra voi ci sarà divergenza; ma la caduta dell’uno<br>fa del superstite l’erede di tutto. |
+| [[Aufidius|AUFIDIUS]] | Lo so,<br>e il mio pretesto per colpirlo ammette<br>una buona interpretazione. Io lo innalzai, e impegnai<br>il mio [[Honour|onore]] per la sua [[Truth|lealtà]]; ed egli, così elevato,<br>innaffiò le sue nuove piante con la rugiada dell’adulazione,<br>seducendo così i miei amici; e a questo fine<br>piegò la sua [[Nature|natura]], mai conosciuta prima<br>se non come ruvida, indomabile e schietta. |
+| TERZO CONGIURATO | Signore, la sua fierezza<br>quando si candidò a console, cosa che perdette<br>per non aver saputo piegarsi— |
+| [[Aufidius|AUFIDIUS]] | Di questo volevo parlare.<br>Bandito per ciò, venne al mio focolare,<br>offrì al mio coltello la sua gola. Io lo accolsi,<br>lo feci mio pari nel comando, gli concessi<br>tutti i suoi desideri; anzi, gli lasciai scegliere<br>fra le mie file, per compiere i suoi progetti,<br>i miei uomini migliori e più freschi; servii i suoi disegni<br>di persona, contribuii a mietere la fama<br>che egli fece tutta sua, e provai perfino [[Pride|orgoglio]]<br>a farmi questo torto, finché alla fine<br>parvi un suo seguace, non un socio, ed<br>egli mi pagava con la sua benevolenza come se<br>io fossi stato un mercenario. |
+| PRIMO CONGIURATO | Così fece, mio signore.<br>L’esercito se ne meravigliò, e alla fine,<br>quando ebbe conquistato Roma e ci attendevamo<br>bottino non minore della gloria— |
+| [[Aufidius|AUFIDIUS]] | Fu proprio lì,<br>e per questo i miei nervi si tenderanno contro di lui.<br>Per poche gocce di rugiada femminile, che valgono<br>quanto le menzogne, egli vendette il [[Blood|sangue]] e la fatica<br>della nostra grande impresa; perciò morirà,<br>e io mi rinnoverò nella sua caduta. |
+| *(didascalia)* | Suonano tamburi e trombe, con grandi grida del popolo |
+| [[Aufidius|AUFIDIUS]] | Ma udite. |
+| PRIMO CONGIURATO | Nella vostra città natale siete entrato come un corriere,<br>e non aveste alcun benvenuto a [[Home|casa]]; ma egli torna<br>squarciando l’aria di clamore. |
+| SECONDO CONGIURATO | E sciocchi pazienti,<br>di cui egli ha ucciso i figli, si lacerano le vili gole<br>per dargli gloria. |
+| TERZO CONGIURATO | Perciò, al vostro momento propizio,<br>prima che egli si spieghi o commuova il popolo<br>con ciò che vorrà dire, gli faccia sentire la vostra [[Sword|spada]],<br>che noi seconderemo. Quando giacerà lungo disteso,<br>il suo racconto pronunciato a modo vostro seppellirà<br>le sue ragioni col suo [[Body|corpo]]. |
+| *(didascalia)* | Entrano i Signori della [[City|città]] |
+| [[Aufidius|AUFIDIUS]] | Non dite altro.<br>Ecco i signori. |
+| TUTTI I SIGNORI | Siate il benvenuto a [[Home|casa]]. |
+| [[Aufidius|AUFIDIUS]] | Non l’ho meritato.<br>Ma, degni signori, avete letto con attenzione<br>ciò che vi ho scritto? |
+| TUTTI I SIGNORI | L’abbiamo letto. |
+| PRIMO SIGNORE | E ci duole udirlo.<br>Quali colpe egli abbia commesso prima dell’ultima, credo<br>avrebbero potuto trovare lievi ammende. Ma finire là<br>dove doveva cominciare, e gettar via<br>il frutto delle nostre leve, ripagandoci<br>con le nostre stesse spese, facendo un trattato dove<br>c’era una resa—questo non ammette scusa. |
+| [[Aufidius|AUFIDIUS]] | Si avvicina. Lo ascolterete. |
+| *(didascalia)* | Entra [[Coriolanus]] marciando con tamburo e insegne, con lui i Popolani |
+| [[Coriolanus|CORIOLANUS]] | Salve, signori! Sono tornato vostro soldato,<br>non più infetto d’[[Love|amore]] per il mio paese<br>di quando partii di qui, ma sempre sussistente<br>sotto il vostro grande comando. Dovete sapere<br>che ho tentato con successo, e<br>con sanguinoso cammino ho condotto le vostre guerre fino<br>alle porte di Roma. Il bottino che abbiamo portato a [[Home|casa]]<br>controbilancia più d’un pieno terzo<br>le spese dell’impresa. Abbiamo fatto la pace<br>con non minore [[Honour|onore]] per gli Anziati<br>che vergogna per i Romani. E qui consegniamo,<br>sottoscritto dai consoli e dai patrizi,<br>insieme al sigillo del senato, ciò che<br>abbiamo pattuito.<br>Dà ai Signori un foglio |
+| [[Aufidius|AUFIDIUS]] | Non leggetelo, nobili signori,<br>ma dite al traditore che al più alto grado<br>egli ha abusato dei vostri poteri. |
+| [[Coriolanus|CORIOLANUS]] | Traditore? Che c’è ora? |
+| [[Aufidius|AUFIDIUS]] | Sì, traditore, Marzio. |
+| [[Coriolanus|CORIOLANUS]] | Marzio? |
+| [[Aufidius|AUFIDIUS]] | Sì, Marzio, Caio Marzio. Credi tu<br>ch’io ti onorerò con quella rapina, col tuo nome rubato,<br>«[[Coriolanus]]», qui in Corioli?<br>Voi signori e capi dello stato, perfidamente<br>egli ha tradito la vostra impresa, e ha ceduto,<br>per certe gocce salate, la vostra [[City|città]], Roma—<br>dico la vostra [[City|città]]—a sua moglie e a sua madre,<br>spezzando il giuramento e la risoluzione come<br>un filo di seta marcia, senza mai ammettere<br>consiglio di guerra. Ma alle [[Tears|lacrime]] della sua [[Nurse|balia]]<br>egli guaì e ruggì via la vostra vittoria,<br>tanto che i paggi arrossirono di lui, e gli uomini di cuore<br>si guardarono l’un l’altro stupiti. |
+| [[Coriolanus|CORIOLANUS]] | Odi tu, Marte? |
+| [[Aufidius|AUFIDIUS]] | Non nominare il dio, tu ragazzo di [[Tears|lacrime]]. |
+| [[Coriolanus|CORIOLANUS]] | Ah? |
+| [[Aufidius|AUFIDIUS]] | Non altro. |
+| [[Coriolanus|CORIOLANUS]] | Bugiardo smisurato, tu hai reso il mio cuore<br>troppo grande per ciò che lo contiene. «Ragazzo»? O schiavo!—<br>Perdonatemi, signori, è la prima [[Time|volta]] che mai<br>sono stato costretto a inveire. I vostri giudizi, [[Grave|gravi]] signori miei,<br>devono dare a questo cane del bugiardo, e la sua stessa coscienza—<br>lui che porta impresse su di sé le mie staffilate, e che<br>dovrà portare le mie botte fino alla [[Grave|tomba]]—si unirà<br>a cacciargli in gola la menzogna. |
+| PRIMO SIGNORE | Pace entrambi, e ascoltatemi parlare. |
+| [[Coriolanus|CORIOLANUS]] | Fatemi a pezzi, Volsci. Uomini e ragazzi,<br>macchiate su di me tutte le vostre lame. «Ragazzo»! Falso segugio,<br>se avete scritto veritieri i vostri annali, sta là scritto<br>che, come un’aquila in una colombaia, io<br>feci svolazzare i vostri Volsci in Corioli.<br>[[Alone|Solo]] io lo feci. «Ragazzo»! |
+| [[Aufidius|AUFIDIUS]] | Ebbene, nobili signori,<br>vi lascerete rammentare la sua cieca fortuna,<br>che fu la vostra vergogna, da questo empio millantatore,<br>davanti ai vostri stessi occhi e orecchi? |
+| TUTTI I CONGIURATI | Che muoia per questo. |
+| *(didascalia)* | TUTTO IL POPOLO gridando in modo sparso |
+| TUTTI I CONGIURATI | Fatelo a pezzi! Fatelo subito!<br>Ha ucciso mio figlio! Mia figlia! Ha ucciso mio cugino<br>Marco! Ha ucciso mio padre! |
+| SECONDO SIGNORE | Pace, olà! Nessuna violenza, pace.<br>Quest’uomo è nobile, e la sua fama avvolge<br>questo globo terrestre. Le sue ultime offese verso di noi<br>avranno giudiziosa udienza. Fermo, [[Aufidius]],<br>e non turbare la pace. |
+| *(didascalia)* | [[Coriolanus|CORIOLANUS]] sguainando la [[Sword|spada]] |
+| SECONDO SIGNORE | Oh, l’avessi qui con sei Aufidii,<br>o più, tutta la sua tribù, per usare la mia legittima [[Sword|spada]]! |
+| *(didascalia)* | [[Aufidius|AUFIDIUS]] sguainando la [[Sword|spada]] |
+| SECONDO SIGNORE | Insolente [[Villain|scellerato]]! |
+| TUTTI I CONGIURATI | Uccidi, uccidi, uccidi, uccidi, uccidilo! |
+| *(didascalia)* | Due Congiurati sguainano e uccidono Marzio, che cade. [[Aufidius]] e i Congiurati gli stanno sopra |
+| SIGNORI | Fermi, fermi, fermi, fermi! |
+| [[Aufidius|AUFIDIUS]] | Miei nobili padroni, ascoltatemi parlare. |
+| PRIMO SIGNORE | O Tullo! |
+| SECONDO SIGNORE | (a [[Aufidius]])<br>Hai compiuto un’azione per cui<br>il Valore piangerà. |
+| *(didascalia)* | TERZO SIGNORE a [[Aufidius]] e ai Congiurati |
+| SECONDO SIGNORE | Non calpestatelo, padroni.<br>State tutti quieti. Rinfoderate le spade. |
+| [[Aufidius|AUFIDIUS]] | Miei signori,<br>quando saprete—cosa che in questa rabbia<br>da lui provocata non potete—il grande pericolo<br>che la vita di quest’uomo vi faceva correre, vi rallegrerete<br>ch’egli sia stato così stroncato. Se piaccia alle vostre signorie<br>chiamarmi al vostro senato, mi dichiarerò<br>vostro leale servitore, o sopporterò<br>la vostra più grave censura. |
+| PRIMO SIGNORE | Portate via di qui il suo [[Body|corpo]],<br>e piangetelo. Sia egli riguardato<br>come la più nobile salma che mai araldo<br>abbia seguito alla sua urna. |
+| SECONDO SIGNORE | La sua stessa impazienza<br>toglie ad [[Aufidius]] gran parte della colpa.<br>Facciamone il meglio. |
+| [[Aufidius|AUFIDIUS]] | La mia rabbia è passata,<br>e sono colpito dal dolore. Sollevatelo.<br>Aiutino tre dei soldati più ragguardevoli; io sarò uno di essi.<br>Batti tu il tamburo, che parli lugubremente.<br>Trascinate a terra le picche d’acciaio. Benché in questa [[City|città]] egli<br>abbia reso vedove e senza figli molte persone,<br>che fino a quest’ora ne lamentano l’offesa,<br>pure avrà una nobile [[Memory|memoria]]. Aiutatemi.<br>Suona una marcia funebre. Escono<br>portando il [[Body|corpo]] di Marzio |

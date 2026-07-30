@@ -958,6 +958,63 @@ tags:
 | *(didascalia)* | Exit. The heads are concealed |
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entra [[Gower]] come Prologo |
+| [[Gower|GOWER]] | A cantar un [[Song|canto]] già cantato<br>dalle ceneri l’antico [[Gower]] è tornato,<br>vestendo l’umana infermità<br>per rallegrarvi orecchio e occhi.<br>Cantato fu nelle gran feste,<br>nelle vigilie e nelle sacre veglie,<br>e dame e sire, in lor vivenza,<br>lo lesser per ristoro e possa.<br>Il pregio è far gli uomini gloriosi,<br>Et bonum quo antiquius eo melius.<br><br>Se voi, nati in questi ultimi tempi,<br>or che il senno è più maturo, gradite i miei carmi,<br>e se l’udire un vecchio che canta<br>può ai vostri desiri diletto recare,<br>vorrei la vita, e che potessi<br>spenderla per voi come lume di cero.<br>Questa è dunque Antiochia; [[Antiochus|Antioco]] il Grande<br>eresse questa [[City|città]] a sua prima sede,<br>la più bella in tutta la Siria.<br>Vi dico ciò che dicono i miei autori.<br>Questo [[King|re]] prese a sé una compagna<br>che morì, e lasciò un’erede femmina<br>sì florida, lieta e di pieno viso<br>come se il cielo le avesse prestato ogni sua grazia,<br>di cui il padre prese diletto,<br>e all’incesto la provocò.<br>Rea [[Child|figlia]], peggior padre: adescare la propria<br>al male da nessuno dovrebbe farsi.<br>Per costume ciò che cominciarono<br>fu con lungo uso stimato non peccato.<br>La [[Beauty|bellezza]] di questa peccatrice dama<br>fece molti principi colà volgersi<br>a cercarla come compagna di letto,<br>nelle gioie del [[Marriage|matrimonio]] compagna di giochi;<br>il che a impedire egli fece una legge<br>per tenerla ancor sua, e gli uomini in timore:<br>che chiunque la chiedesse per moglie,<br>non sciolto il suo [[Riddle|enigma]], perdesse la vita.<br>Così per lei molti prodi morirono, |
+| *(didascalia)* | Si scopre una fila di teste |
+| [[Gower|GOWER]] | come quei torvi sguardi attestano.<br>Ciò che ora segue, al giudizio del vostro occhio<br>lo affido, che meglio d’ogni altro può giustificar la mia causa. Esce |
+| *(didascalia)* | Squillo. Entrano il [[King|re]] [[Antiochus|Antioco]], il principe [[Pericles|Pericle]], e signori e pari nei loro più ricchi ornamenti |
+| [[Antiochus|ANTIOCHUS]] | Giovane principe di Tiro, avete appieno inteso<br>il pericolo dell’impresa che assumete. |
+| [[Pericles|PERICLES]] | L’ho inteso, [[Antiochus|Antioco]], e con un’[[Soul|anima]]<br>fatta ardita dalla gloria della sua lode<br>non stimo la [[Death|morte]] un rischio in questa impresa. |
+| [[Antiochus|ANTIOCHUS]] | Musica! |
+| *(didascalia)* | Suona musica |
+| [[Antiochus|ANTIOCHUS]] | Si conduca nostra figlia, vestita da sposa<br>degna degli amplessi persino di Giove stesso,<br>al cui concepimento, finché Lucina regnò,<br>[[Nature|Natura]] diede questa dote a rallegrar sua presenza:<br>la [[house|casa]] senatoria dei pianeti tutta sedette,<br>per intessere in lei le lor migliori perfezioni. |
+| *(didascalia)* | Entra la Figlia di [[Antiochus|Antioco]] |
+| [[Pericles|PERICLES]] | Ecco che viene, adorna come la [[spring|primavera]],<br>le Grazie sue suddite, e i suoi pensieri il [[King|re]]<br>d’ogni virtù che dà rinomanza agli uomini;<br>il suo volto il libro delle lodi, dove si legge<br>null’altro che rari diletti, come se di là<br>il dolore fosse per sempre raso, e l’ira stizzosa<br>non potesse mai esserle mite compagna.<br>Voi dèi che mi faceste uomo, e regnate in [[Love|amore]],<br>che avete infiammato il [[Desire|desiderio]] nel mio petto<br>di gustare il frutto di quell’albero celeste<br>o di morire nell’impresa, siate miei aiuti,<br>ché son figlio e servo del vostro volere,<br>per conseguire sì sconfinata felicità. |
+| [[Antiochus|ANTIOCHUS]] | Principe [[Pericles|Pericle]]— |
+| [[Pericles|PERICLES]] | Che vorrebbe esser figlio al grande [[Antiochus|Antioco]]. |
+| [[Antiochus|ANTIOCHUS]] | Dinanzi a te sta questa bella Esperide,<br>col frutto d’oro, ma pericoloso a toccarsi, |
+| *(didascalia)* | Accenna verso le teste |
+| [[Antiochus|ANTIOCHUS]] | Ché draghi simili alla [[Death|morte]] qui aspramente ti sgomentano. |
+| *(didascalia)* | Accenna verso sua figlia |
+| [[Antiochus|ANTIOCHUS]] | Il suo volto celestiale t’alletta a mirare<br>la sua gloria innumerevole, che il [[Desert|merito]] deve guadagnare;<br>e la quale senza [[Desert|merito]], perché il tuo occhio<br>presume raggiungerla, tutto l’intero mucchio deve morire.<br>Quei principi un tempo famosi, come te<br>tratti dalla fama, avventurosi per [[Desire|desiderio]],<br>ti dicono con lingue mute e sembianti<br>esangui<br>che senz’altra coltre che quel campo di [[Stars|stelle]]<br>qui stanno, martiri caduti nelle guerre di Cupido,<br>e con guance morte ti consigliano a desistere<br>dall’andare nella rete della [[Death|morte]], cui nessuno resiste. |
+| [[Pericles|PERICLES]] | [[Antiochus|Antioco]], ti ringrazio, tu che hai insegnato<br>alla mia fragile [[Mortality|mortalità]] a conoscer se stessa,<br>e per quei terribili oggetti a preparare<br>questo [[Body|corpo]], simile ad essi, a ciò che devo;<br>ché la [[Death|morte]] ricordata dev’essere come uno [[Mirror|specchio]]<br>che ci dice: la vita è solo fiato, fidarsene è errore.<br>Farò dunque il mio testamento e, come fanno gl’infermi<br>che conoscono il mondo, veggono il cielo, ma sentendo pena<br>non afferrano le gioie terrene come già facevano,<br>così lascio in retaggio una felice pace a voi<br>e a tutti i buoni, come ogni principe dovrebbe;<br>le mie ricchezze alla terra donde vennero,<br>(Alla Figlia) ma il mio immacolato [[Fire|fuoco]] d’[[Love|amore]] a voi.<br>(Ad [[Antiochus|Antioco]]) Così pronto alla via della vita o della [[Death|morte]],<br>attendo il colpo più acuto, [[Antiochus|Antioco]]. |
+| [[Antiochus|ANTIOCHUS]] | Sprezzando il consiglio, leggi dunque la conclusione, |
+| *(didascalia)* | Getta a terra con ira l’[[Riddle|enigma]] |
+| [[Antiochus|ANTIOCHUS]] | il quale, letto e non spiegato, è decretato<br>che, come questi prima di te, tu stesso sanguinerai. |
+| FIGLIA | (a [[Pericles|Pericle]])<br>Di quanti hanno tentato finora, possa tu prosperare;<br>di quanti hanno tentato finora, io ti auguro felicità. |
+| [[Pericles|PERICLES]] | Come ardito campione entro nell’agone,<br>né chiedo consiglio ad altro pensiero<br>che alla fede e al [[Courage|coraggio]]. |
+| *(didascalia)* | Raccoglie e legge ad alta voce l’[[Riddle|enigma]] |
+| [[Pericles|PERICLES]] | Non son vipera, eppur mi pasco<br>della carne materna che mi generò.<br>Cercai uno sposo, e in tale fatica<br>trovai quella tenerezza in un padre.<br>Egli è padre, figlio e mite marito;<br>io madre, moglie, e pure sua [[Child|figlia]].<br>Come ciò possa essere, e pure in due,<br>se volete vivere, scioglietelo voi. |
+| *(didascalia)* | Aspra medicina è l’ultima. A parte Ma oh, voi potenze |
+| [[Pericles|PERICLES]] | che date al cielo occhi innumerevoli per veder gli atti degli uomini,<br>perché non annebbiano le lor viste in perpetuo<br>se è vero ciò che mi fa impallidire nel leggerlo? |
+| *(didascalia)* | Fissa lo sguardo sulla Figlia |
+| [[Pericles|PERICLES]] | Bel cristallo di luce, v’amai, e potrei ancora,<br>se questo glorioso scrigno non fosse colmo di male.<br>Ma devo dirvi che ora i miei pensieri si ribellano,<br>ché non è uomo cui le perfezioni facciano corte<br>colui che, sapendo il peccato dentro, toccherà la porta.<br>Siete una bella viola, e i vostri sensi le corde<br>che, toccate a far dell’uomo la sua lecita musica,<br>trarrebbero giù il cielo e tutti gli dèi ad ascoltare,<br>ma, suonate innanzi al vostro [[Time|tempo]],<br>solo l’inferno danza a sì aspro scampanio.<br>In buona fede, non mi curo di voi. |
+| [[Antiochus|ANTIOCHUS]] | Principe [[Pericles|Pericle]], non toccare, sulla tua vita,<br>ché quello è un articolo dentro la nostra legge<br>pericoloso quanto il resto. Il vostro [[Time|tempo]] è scaduto.<br>O spiegate ora, o ricevete la vostra sentenza. |
+| [[Pericles|PERICLES]] | Gran [[King|re]],<br>pochi [[Love|amano]] udire i peccati che [[Love|amano]] commettere.<br>Vi rinfaccerebbe troppo da presso perch’io lo dica.<br>Chi ha un libro di tutto ciò che i monarchi fanno,<br>più sicuro è a tenerlo chiuso che mostrato,<br>ché il vizio ripetuto, come il vagante [[Wind|vento]],<br>soffia [[Dust|polvere]] negli occhi altrui per spandersi;<br>e pure la fine di tutto è comprata sì cara,<br>il fiato è ito, e gli occhi doloranti veggono chiaro<br>che fermar l’aria li ferirebbe. La talpa cieca innalza<br>cumuli acuti verso il cielo per dire che la terra è oppressa<br>dall’oppressione dell’uomo, e il povero verme ne muore.<br>I re son dèi della terra; nel vizio la lor legge è il lor volere,<br>e se Giove erra, chi osa dir che Giove faccia male?<br>Basta che voi sappiate, ed è conveniente<br>soffocare ciò che, più conosciuto, peggiora.<br>Tutti [[Love|amano]] il grembo che generò il loro primo essere;<br>date dunque alla mia lingua egual licenza d’[[Love|amare]] il mio capo. |
+| [[Antiochus|ANTIOCHUS]] | (a parte)<br>Cielo, avessi io il tuo capo! Ha trovato il senso.<br>Ma userò con lui lusinghe.—Giovane principe di Tiro,<br>benché per il tenore del nostro severo editto,<br>interpretando male la vostra esposizione,<br>potremmo procedere alla cancellazione dei vostri giorni,<br>pure la [[Hope|speranza]], che sorge da sì bell’albero<br>qual è la vostra bella [[Self|persona]], ci accorda altrimenti.<br>Quaranta giorni ancora vi concediamo di tregua:<br>se entro tal [[Time|tempo]] il nostro segreto sia sciolto,<br>questa [[Mercy|clemenza]] mostra che gioiremo di tal figlio.<br>E fino allora il vostro trattamento sarà<br>quale s’addice al vostro merito e al nostro grado. |
+| *(didascalia)* | Squilli.Escono tutti tranne [[Pericles|Pericle]] |
+| [[Pericles|PERICLES]] | Come la cortesia parrebbe coprire il peccato<br>quando ciò che è fatto è come un ipocrita,<br>il quale in nulla è buono se non all’aspetto.<br>Se è vero che io interpreto falsamente,<br>allora sarebbe certo che voi non foste sì reo<br>da abusare con turpe incesto della vostra [[Soul|anima]],<br>là dove ora siete e padre e figlio<br>per i vostri sconci amplessi con vostra [[Child|figlia]]—<br>piaceri che convengono a un marito, non a un padre—<br>ed ella, mangiatrice della carne di sua madre,<br>per la contaminazione del letto dei suoi genitori;<br>ed entrambi son come serpenti, che benché si pascano<br>dei più dolci [[Flowers|fiori]], pure generano [[Poison|veleno]].<br>Antiochia, addio: ché la saggezza vede che quegli uomini<br>i quali non arrossiscono in atti più neri della [[Night|notte]]<br>non schiveranno alcuna via per tenerli lontani dalla luce.<br>Un peccato, lo so, un altro ne provoca.<br>L’omicidio è prossimo alla lussuria come la fiamma al fumo.<br>[[Poison|Veleno]] e tradimento son le mani del peccato,<br>sì, e gli scudi per stornare la vergogna.<br>Dunque, perché la mia vita non sia recisa a tenervi netto,<br>con la fuga schiverò il pericolo che [[Fear|temo]]. Esce |
+| *(didascalia)* | Entra [[Antiochus|Antioco]] |
+| [[Antiochus|ANTIOCHUS]] | Ha trovato il senso, per il che intendiamo<br>avere il suo capo. Non deve vivere<br>a trombettare la mia infamia, né a dire al mondo<br>che [[Antiochus|Antioco]] pecca in sì aborrita maniera,<br>e perciò all’istante questo principe deve morire,<br>ché per la sua caduta il mio [[Honour|onore]] si terrà alto.<br>Chi ci attende là? |
+| *(didascalia)* | Entra Thaliart |
+| THALIART | Chiama vostra altezza? |
+| [[Antiochus|ANTIOCHUS]] | Thaliart, voi siete della nostra camera, Thaliart,<br>e alla vostra segretezza la nostra mente partecipa<br>le sue private azioni. Per la vostra fedeltà<br>vi innalzeremo, Thaliart. Ecco,<br>qui è [[Poison|veleno]], e qui è oro.<br>Odiamo il principe di Tiro, e tu devi ucciderlo.<br>Non ti si addice chiederne la ragione. Perché?<br>Perché noi lo comandiamo. Di’: è fatto? |
+| THALIART | Mio signore, è fatto. |
+| [[Antiochus|ANTIOCHUS]] | Basta. |
+| *(didascalia)* | Entra in fretta un Messaggero |
+| [[Antiochus|ANTIOCHUS]] | Il vostro fiato vi rinfreschi, narrando la vostra fretta. |
+| *(didascalia)* | Vostra maestà, il principe [[Pericles|Pericle]] è fuggito. Esce |
+| [[Antiochus|ANTIOCHUS]] | (a Thaliart)<br>Come vuoi vivere, volagli dietro; come una freccia<br>scoccata da un arciere [[Well|ben]] esperto colpisce<br>il segno cui il suo occhio mira, così tu<br>non tornare mai se non per dire:<br>‘Vostra maestà, il principe [[Pericles|Pericle]] è morto.’ |
+| THALIART | Se posso averlo a tiro della mia [[Pistol|pistola]]<br>lo renderò ben sicuro. Addio, vostra altezza. |
+| [[Antiochus|ANTIOCHUS]] | Thaliart, addio. |
+| *(didascalia)* | Esce Thaliart |
+| [[Antiochus|ANTIOCHUS]] | Finché [[Pericles|Pericle]] non sia morto<br>il mio cuore non può prestare soccorso al mio capo. |
+| *(didascalia)* | Esce. Le teste vengono nascoste |
+
 
 
 <span class="atom-split" data-atom="scenes--scene_2" data-title="Pericles — Scene 2" data-chapter="Scene 2" data-kind="scene" data-tags="archetype/king,archetype/tyrant,motif/blood,motif/death,motif/love,motif/night,motif/silence,motif/sleep,motif/soul,motif/time,motif/well,motif/wind,concept/beauty,concept/body,concept/charity,concept/courage,concept/doubt,concept/faith,concept/fear,concept/honour,concept/melancholy,concept/truth,concept/wonder,setting/court,character/antiochus,character/pericles"></span>
@@ -994,6 +1051,38 @@ tags:
 | *(didascalia)* | Exeunt |
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entra [[Pericles|Pericle]], turbato, con i suoi signori |
+| [[Pericles|PERICLES]] | Nessuno ci disturbi. |
+| *(didascalia)* | Escono i signori |
+| [[Pericles|PERICLES]] | Perché questo mutamento di pensieri,<br>la triste compagna, la [[Melancholy|malinconia]] dall’occhio spento,<br>m’è ospite sì consueta che non un’ora,<br>nel glorioso cammino del giorno o nella pacifica [[Night|notte]],<br>tomba ove il dolore dovrebbe [[Sleep|dormire]], può generarmi<br>quiete? 5<br>Qui i piaceri [[Court|corteggiano]] i miei occhi, e i miei occhi li<br>fuggono,<br>e il pericolo, che temevo, è ad Antiochia,<br>il cui braccio par troppo corto per colpirmi qui.<br>Pure né l’arte del piacere può rallegrare i miei spiriti,<br>né la distanza dell’autore dell’affanno mi conforta.<br>Sta dunque così: le passioni della mente,<br>che hanno la lor prima concezione dal mal timore,<br>traggon poi nutrimento e vita dall’affanno,<br>e ciò che dapprima era solo [[Fear|timore]] di quel che potesse farsi<br>ora invecchia, e s’affanna che non si faccia.<br>E così è di me. Il grande [[Antiochus|Antioco]],<br>contro cui son troppo piccolo per contendere,<br>poiché è sì grande da far del suo volere il suo atto,<br>mi crederà parlante benché io giuri il [[Silence|silenzio]],<br>né mi giova dire che lo [[Honour|onoro]]<br>s’egli sospetta ch’io possa disonorarlo.<br>E ciò che può farlo arrossire se risaputo,<br>egli fermerà la via per cui potrebbe risapersi.<br>Con ostili eserciti coprirà la terra,<br>e con l’ostentazione di guerra parrà sì immane<br>che lo sbigottimento scaccerà il [[Courage|coraggio]] dallo stato,<br>i nostri uomini saran vinti prima di resistere,<br>e puniti sudditi che mai pensarono offesa;<br>il qual pensiero di loro, non pietà di me stesso,<br>che non son più che come le cime degli alberi<br>le quali riparano le radici onde crescono e le difendono,<br>fa il mio [[Body|corpo]] consumarsi e l’[[Soul|anima]] languire,<br>e punisce prima ciò ch’egli vorrebbe punire. |
+| *(didascalia)* | Entrano tutti i Signori, fra loro il vecchio Helicanus, verso [[Pericles|Pericle]] |
+| PRIMO SIGNORE | Gioia e ogni conforto nel vostro sacro petto! |
+| SECONDO SIGNORE | E serbino la vostra mente pacifica e serena. |
+| HELICANUS | Pace, pace, e date lingua all’esperienza.<br>(A [[Pericles|Pericle]]) Non fate [[Well|bene]] a maltrattarvi così,<br>a consumare qui il vostro [[Body|corpo]] con dolore struggente,<br>voi dalla cui salvezza dipendono le vite<br>e la prosperità d’un intero regno.<br>È male in voi il farlo, e non meno<br>ale nel vostro consiglio non contraddirlo.<br>Fanno torto al [[King|re]] coloro che l’adulano,<br>ché l’adulazione è il mantice che attizza il peccato;<br>la cosa che è adulata, solo una scintilla,<br>cui quel [[Wind|vento]] dà calore e più forte ardore;<br>mentre il rimprovero, ossequente e ordinato,<br>s’addice ai re in quanto uomini, ché possono errare.<br>Quando messer Lusinga qui proclama una pace<br>egli vi adula, e fa guerra alla vostra vita. |
+| *(didascalia)* | S’inginocchia |
+| HELICANUS | Principe, perdonatemi, o colpitemi se vi piace.<br>Non posso stare molto più basso delle mie ginocchia. |
+| [[Pericles|PERICLES]] | Tutti gli altri ci lascino; ma le vostre cure rivedano<br>quali navi e qual carico sian nel nostro porto,<br>e poi tornate a noi. Escono i Signori<br>Helicane, tu<br>ci hai commossi. Che vedi nel nostro volto? |
+| HELICANUS | Un ciglio adirato, temuto signore. |
+| [[Pericles|PERICLES]] | Se v’è tal dardo nel cipiglio dei principi,<br>come osò la tua lingua muover ira al nostro ciglio? |
+| HELICANUS | Come osan le piante guardare al cielo donde<br>traggono il lor nutrimento? |
+| [[Pericles|PERICLES]] | Tu sai ch’io ho potere di torti la vita. |
+| HELICANUS | Io stesso ho affilato la scure; voi date solo il colpo. |
+| *(didascalia)* | [[Pericles|PERICLES]] sollevandolo |
+| HELICANUS | Alzati, ti prego, alzati. Siedi. Non sei adulatore,<br>te ne ringrazio, e il cielo non voglia<br>che i re lascino i loro orecchi udire nascoste le lor colpe.<br>Degno consigliere e servo per un principe,<br>tu che con la tua saggezza fai d’un principe tuo servo,<br>che vorresti tu ch’io facessi? |
+| HELICANUS | A sopportare con pazienza<br>quei dolori che voi stesso v’imponete. |
+| [[Pericles|PERICLES]] | Parli come un medico, Helicanus,<br>che mi somministra una pozione<br>che tu tremeresti a ricevere tu stesso.<br>Ascoltami, dunque. Andai ad Antiochia,<br>dove, come sai, contro il volto della [[Death|morte]]<br>cercai l’acquisto d’una gloriosa [[Beauty|bellezza]]<br>donde potessi propagare una progenie,<br>ché i figli son benedizioni del cielo: ai genitori,<br>oggetti;<br>sono armi ai principi, e recano gioie ai sudditi.<br>Il suo volto fu al mio occhio oltre ogni [[Wonder|meraviglia]],<br>il resto—ascolta nel tuo orecchio—nero come l’incesto,<br>il quale scoperto dal mio sapere, il peccaminoso padre<br>parve non colpire, ma blandire. Ma tu sai<br>questo,<br>è [[Time|tempo]] di [[Fear|temere]] quando i tiranni paion baciare;<br>il qual [[Fear|timore]] tanto crebbe in me ch’io fuggii qua<br>sotto la coltre della sollecita [[Night|notte]],<br>che parve mio buon protettore, e giunto qui<br>meditai su quel ch’era stato, su quel che poteva seguire.<br>Lo sapevo tirannico, e i timori dei tiranni<br>non scemano, ma crescono più rapidi degli anni.<br>E s’egli [[Doubt|dubitasse]]—come senza [[Doubt|dubbio]] [[Doubt|dubita]]—<br>ch’io possa aprire all’aria in ascolto<br>quanti sangui di degni principi furon versati<br>per tener non svelato il suo letto di tenebra,<br>per recidere quel [[Doubt|dubbio]] riempirà d’armi questa terra,<br>e fingerà un torto ch’io gli abbia fatto,<br>sì che tutti, per la mia—se posso chiamarla—offesa,<br>dovran sentire il colpo della guerra, che non risparmia l’[[innocence|innocenza]];<br>il qual [[Love|amore]] verso tutti, di cui tu stesso sei uno,<br>che ora me ne rimproveravi— |
+| HELICANUS | Ahimè, signore. |
+| [[Pericles|PERICLES]] | trasse il [[Sleep|sonno]] dai miei occhi, il [[Blood|sangue]] dalle mie guance,<br>meditazioni nella mia mente, con mille dubbi,<br>come fermar questa tempesta prima ch’ella venisse;<br>e, trovando poco conforto a sollevarli,<br>stimai principesca [[Charity|carità]] dolermene. |
+| HELICANUS | [[Well|Ebbene]], mio signore, poiché m’avete dato licenza di parlare,<br>liberamente parlerò. [[Antiochus|Antioco]] voi [[Fear|temete]],<br>e giustamente, io credo: voi [[Fear|temete]] il [[Tyrant|tiranno]],<br>che o per guerra pubblica o per privato tradimento<br>vi torrà la vita.<br>Perciò, mio signore, andate a viaggiare per un tempo,<br>finché la sua rabbia e la sua ira sian dimenticate,<br>o i destini recidano il filo della sua vita.<br>Affidate il vostro governo a chiunque; se a me,<br>il giorno non serve la luce più fedelmente ch’io sarò. |
+| [[Pericles|PERICLES]] | Non [[Doubt|dubito]] della tua [[Faith|fede]],<br>ma s’egli in mia assenza offendesse le tue libertà? |
+| HELICANUS | Mescoleremo i nostri sangui insieme nella terra<br>donde avemmo il nostro essere e la nostra nascita. |
+| [[Pericles|PERICLES]] | Tiro, distolgo ora da te lo sguardo, e a Tarso<br>volgo il mio viaggio, ove avrò tue nuove,<br>e secondo le tue lettere mi regolerò.<br>La cura ch’ebbi e ho del bene dei sudditi<br>su te depongo, la cui forza di saggezza può portarla.<br>Prenderò la tua parola per [[Faith|fede]], non chiederò il tuo giuramento;<br>chi non rifugge dal rompere l’una spezzerà di certo entrambi.<br>Ma nelle nostre orbite vivremo sì tondi e sicuri<br>che il [[Time|tempo]] mai smentirà d’entrambi questa [[Truth|verità]]:<br>tu mostrasti lo splendore d’un suddito, io d’un vero principe. |
+| *(didascalia)* | Escono |
+
 
 
 <span class="atom-split" data-atom="scenes--scene_3" data-title="Pericles — Scene 3" data-chapter="Scene 3" data-kind="scene" data-tags="archetype/king,archetype/villain,motif/death,motif/desire,motif/home,motif/secrets,motif/ship,motif/well,setting/court,setting/ship,character/antiochus,character/pericles"></span>
@@ -1015,6 +1104,24 @@ tags:
 | THALIART | From [[King]] [[Antiochus]] I come<br>With message unto princely [[Pericles]],<br>But since my landing I have understood<br>Your lord’s betook himself to unknown travels.<br>Now my message must return from whence it came. |
 | HELICANUS | We have no reason to enquire it,<br>Commended to our master, not to us.<br>Yet ere you shall depart, this we [[Desire\|desire]]:<br>As friends to Antioch, we may feast in Tyre. Exeunt |
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entra Thaliart |
+| THALIART | Dunque questa è Tiro, e questa la [[Court|corte]]. Qui devo uccidere il [[King|re]] [[Pericles|Pericle]], e se lo faccio e vengo preso è probabile ch’io sia impiccato all’estero; ma se non lo faccio, son certo d’essere impiccato in [[Home|patria]]. È cosa pericolosa. [[Well|Ebbene]], m’avvedo che fu un uomo saggio e di buona discrezione colui che, invitato a chiedere al [[King|re]] ciò che volesse, desiderò di non conoscere nessuno dei suoi [[Secrets|segreti]]. Ora vedo che ne aveva qualche ragione, ché se un [[King|re]] ordina a un uomo d’essere uno [[Villain|scellerato]], costui è tenuto dal contratto del suo giuramento a esserlo. Zitto, ecco venire i signori di Tiro. |
+| *(didascalia)* | Entrano Helicanus ed Aeschines, con altri signori |
+| HELICANUS | Non vi occorrerà, miei pari di Tiro,<br>interrogare oltre sulla partenza del vostro [[King|re]].<br>Il suo sigillato mandato lasciato in fiducia a me<br>dice a sufficienza ch’egli è andato in viaggio. |
+| THALIART | (a parte) Come? Il [[King|re]] partito? |
+| HELICANUS | Se ancora oltre volete esser soddisfatti<br>del perché, quasi senza licenza del vostro affetto,<br>egli volle partire, vi darò qualche lume.<br>Essendo ad Antiochia— |
+| THALIART | (a parte)<br>Che cosa da Antiochia? |
+| HELICANUS | Il regale [[Antiochus|Antioco]], per qual causa non so,<br>concepì contro di lui qualche sdegno—almeno così egli giudicò—<br>e temendo d’aver errato o peccato,<br>per mostrare il suo dolore volle correggere se stesso;<br>così si dà alla fatica dell’uomo di [[Ship|nave]],<br>per il quale ogni minuto minaccia vita o [[Death|morte]]. |
+| THALIART | (a parte)<br>[[Well|Ebbene]], m’avvedo che non sarò impiccato ora,<br>benché lo volessi.<br>Ma poiché egli è partito, deve piacere agli orecchi del [[King|re]]<br>ch’egli sfuggì alla terra per perire sui mari.<br>Mi presenterò.—Pace ai signori di Tiro.<br>Il signor Thaliart son io, d’Antiochia. |
+| *(didascalia)* | HELICANUS |
+| THALIART | Il signor Thaliart d’Antiochia sia il benvenuto. |
+| THALIART | Dal [[King|re]] [[Antiochus|Antioco]] io vengo<br>con messaggio al principesco [[Pericles|Pericle]],<br>ma dopo il mio sbarco ho inteso<br>che il vostro signore s’è dato a ignoti viaggi.<br>Ora il mio messaggio deve tornare donde venne. |
+| HELICANUS | Non abbiamo ragione d’indagarlo:<br>è affidato al nostro padrone, non a noi.<br>Pure, prima che partiate, questo [[Desire|desideriamo]]:<br>che, come amici d’Antiochia, possiamo banchettare in Tiro. Escono |
 
 
 
@@ -1050,6 +1157,37 @@ tags:
 | [[Cleon\|CLEON]] | The which when any shall not gratify,<br>Or pay you with unthankfulness in thought,<br>Be it our wives, our children, or ourselves,<br>The curse of heav’n and men succeed their evils!<br>Till when—the which I [[Hope\|hope]] shall ne’er be seen—<br>Your grace is welcome to our town and us. |
 | [[Pericles\|PERICLES]] | Which welcome we’ll accept, feast here a while,<br>Until our [[Stars\|stars]] that frown lend us a smile. Exeunt |
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entrano [[Cleon|Cleone]], governatore di Tarso, con [[Dionyza|Dionisa]] sua moglie, e altri |
+| [[Cleon|CLEON]] | Mia [[Dionyza|Dionisa]], vogliamo qui riposarci<br>e, narrando storie degli altrui dolori,<br>vedere se ciò c’insegni a scordare i nostri? |
+| [[Dionyza|DIONYZA]] | Sarebbe soffiare sul [[Fire|fuoco]] nella [[Hope|speranza]] di spegnerlo,<br>ché chi scava i colli perché s’ergono<br>abbatte un monte per innalzarne uno più alto.<br>O mio afflitto signore, tali appunto sono i nostri dolori;<br>qui son solo sentiti e visti con occhi di moscerini,<br>ma, come i boschetti, potati più alti risorgono. |
+| [[Cleon|CLEON]] | O [[Dionyza|Dionisa]],<br>chi manca di cibo e non vuol dire che ne manca,<br>o può celare la sua fame finché muoia d’inedia?<br>Le nostre lingue i nostri dolori dettano, a suonar profonde<br>le nostre pene nell’aria, i nostri occhi a piangere<br>finché i polmoni traggan fiato che le proclami più forte,<br>sì che, se il cielo dorme mentre le sue creature patiscono,<br>esse possan destare i loro aiuti a confortarle.<br>Narrerò dunque le nostre pene, patite più anni,<br>e, mancandomi il fiato a parlare, aiutami con le [[Tears|lacrime]]. |
+| [[Dionyza|DIONYZA]] | Come meglio vi pare, signore. |
+| [[Cleon|CLEON]] | Questa Tarso su cui ho il [[government|governo]],<br>una [[City|città]] su cui l’abbondanza tenne piena la mano,<br>ché la ricchezza si spargeva persino per le strade,<br>le cui torri levavan capi sì alti che baciavano le nubi,<br>e che gli stranieri mai videro senza stupirne,<br>i cui uomini e dame sì incedevano e s’adornavano<br>come specchio l’un dell’altro per acconciarsi;<br>le loro mense eran colme a rallegrare la vista,<br>e non tanto per cibarsene quanto per diletto.<br>Ogni [[Poverty|povertà]] era sprezzata, e l’[[Pride|orgoglio]] sì grande<br>che il nome d’aiuto divenne odioso a ripetersi. |
+| [[Dionyza|DIONYZA]] | Oh, è pur troppo vero. |
+| [[Cleon|CLEON]] | Ma vedi che può il cielo per questo nostro mutamento.<br>Quelle bocche cui poco fa terra, mare e aria<br>eran tutti troppo poco a contentare e appagare,<br>benché dessero le lor creature in abbondanza,<br>come le case si guastano per mancanza d’uso,<br>ora son affamate per mancanza d’esercizio.<br>Quei palati che, non ancora due estati addietro,<br>dovevano aver trovate a dilettare il gusto,<br>ora sarebbero lieti d’un pane e ne mendicherebbero.<br>Quelle madri che a nutrire i loro bimbi<br>nulla stimavano troppo ricercato, ora son pronte<br>a mangiare quei piccoli tesori che amavano.<br>Sì aguzzi sono i denti della fame che marito e moglie<br>tirano a sorte chi primo morrà per allungar la vita.<br>Qui sta piangendo un signore, là giace una dama morente,<br>qui molti crollano, e pure quelli che li vedon cadere<br>hanno appena forza per dar loro sepoltura.<br>Non è questo vero? |
+| [[Dionyza|DIONYZA]] | Le nostre guance e i nostri occhi incavati ne fan fede. |
+| [[Cleon|CLEON]] | Oh, quelle città che alla coppa dell’abbondanza<br>e alle sue prosperità sì largamente gustano<br>coi loro superflui bagordi, badino a queste [[Tears|lacrime]]!<br>La miseria di Tarso può esser la loro. |
+| *(didascalia)* | Entra lentamente un languenteSignore di Tarso |
+| LORD | Dov’è il signor governatore? |
+| [[Cleon|CLEON]] | Qui. Di’ apertamente i dolori che rechi in<br>fretta,<br>ché il conforto è troppo lontano perché noi l’attendiamo. |
+| LORD | Abbiamo scorto sulla nostra riva vicina<br>un’imponente vela di navi far rotta in qua. |
+| [[Cleon|CLEON]] | Tanto pensavo.<br>Un dolore mai viene senza recare un erede<br>che gli succeda come suo ereditiere,<br>e così nel nostro. Qualche nazione vicina,<br>traendo vantaggio dalla nostra miseria,<br>ha riempito questi vuoti scafi della sua forza<br>per abbatterci, noi che siamo già abbattuti,<br>e far conquista d’uomini infelici,<br>laddove nessuna gloria s’acquista a vincere. |
+| LORD | Questo è il minor [[Fear|timore]], ché dall’apparenza<br>delle lor bianche bandiere spiegate ci recano pace,<br>e vengono a noi come benevoli, non come nemici. |
+| [[Cleon|CLEON]] | Parli come chi non è ammaestrato a ripetere;<br>chi fa la più bella mostra medita il maggiore inganno.<br>Ma rechino ciò che vogliono e ciò che possono,<br>che dobbiamo [[Fear|temere]]?<br>La nostra [[Grave|fossa]] è la più bassa, e siamo a mezza via.<br>Va’, di’ al loro generale che l’attendiamo qui<br>per sapere per che cosa viene, e donde viene. |
+| LORD | Vado, mio signore. Esce |
+| [[Cleon|CLEON]] | Benvenuta è la pace, s’egli sulla pace insiste;<br>se guerra, non siamo in grado di resistere. |
+| *(didascalia)* | Rientra il Signore conducendo [[Pericles|Pericle]] con il seguito |
+| [[Pericles|PERICLES]] | (a [[Cleon|Cleone]])<br>Signor governatore, ché tale udiamo che siate,<br>non siano le nostre navi e il numero dei nostri uomini<br>come un faro acceso a sgomentare i vostri occhi.<br>Abbiamo udito le vostre miserie fin dentro Tiro,<br>ed entrati per le vostre porte non serrate abbiam veduto<br>la vedovile desolazione delle vostre strade;<br>né veniamo ad aggiungere dolore ai vostri cuori,<br>ma a sollevarli dal loro grave carico;<br>e queste nostre navi, che forse voi pensate<br>siano come il [[Horse|cavallo]] troiano ch’era gravido dentro<br>di vene sanguinose recanti rovina,<br>son cariche di grano per fare il pane che vi manca,<br>e dar vita a quelli che la fame ridusse mezzo morti. |
+| *(didascalia)* | TUTTI QUELLI DI TARSO cadendoin ginocchio e piangendo |
+| [[Pericles|PERICLES]] | Gli dèi di Grecia vi proteggano, e noi pregheremo per voi! |
+| [[Pericles|PERICLES]] | Alzatevi, vi prego, alzatevi.<br>Non cerchiamo riverenza ma [[Love|amore]],<br>e ricovero per me, per le mie navi e i miei uomini. |
+| [[Cleon|CLEON]] | Il quale se alcuno non ricompenserà,<br>o vi ripagherà con ingratitudine nel pensiero,<br>siano le nostre mogli, i nostri figli, o noi stessi,<br>la maledizione del cielo e degli uomini segua i loro mali!<br>Fino a quando—il che [[Hope|spero]] non si veda mai—<br>vostra grazia sia benvenuta nella nostra città e presso di noi. |
+| [[Pericles|PERICLES]] | Il qual benvenuto accetteremo: banchetteremo qui un poco,<br>finché le nostre [[Stars|stelle]] accigliate ci prestino un sorriso. Escono |
 
 
 
@@ -1125,6 +1263,76 @@ tags:
 | *(didascalia)* | Exeunt with nets and armour |
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entra [[Gower]] |
+| [[Gower|GOWER]] | Qui avete visto un possente [[King|re]]<br>la sua [[Child|figlia]], invero, all’incesto addurre;<br>un principe migliore e signore benigno<br>mostrarsi degno di riverenza in atto e in verbo.<br>Statevi quieti dunque, come gli uomini devono,<br>finch’egli abbia varcata la necessità.<br>Vi mostrerò color che nel regno dell’affanno,<br>perdendo un nulla, un monte guadagnano.<br>Il buono nel conversare,<br>a cui io do la mia benedizione,<br>è ancora in Tarso, dove ogni uomo<br>crede scrittura tutto ciò ch’ei sa dire,<br>e per ricordare ciò ch’egli fa<br>la sua statua erigono a farlo glorioso.<br>Ma novelle di contrario tenore<br>son recate ai vostri occhi. Che bisogno ho di dire?<br>Scena muta. Entra da una porta [[Pericles|Pericle]] parlando con [[Cleon|Cleone]], tutto il seguito con loro. Entra da un’altra porta un gentiluomo con una lettera per [[Pericles|Pericle]]. [[Pericles|Pericle]] mostra la lettera a [[Cleon|Cleone]]. [[Pericles|Pericle]] dà al messaggero una ricompensa, e lo fa cavaliere. Escono con i loro seguiti [[Pericles|Pericle]] da una porta e [[Cleon|Cleone]] dall’altra<br>Il buon Helicane che restò in [[Home|patria]],<br>non per mangiar miele come un fuco<br>dalle altrui fatiche, ché egli si sforza<br>d’uccidere il male, tener vivo il bene,<br>e per compiere il [[Desire|desiderio]] del suo principe<br>mandò novella di tutto ciò che accade in Tiro;<br>come Thaliart venne tutto teso al peccato<br>e con celato intento d’ucciderlo,<br>e che in Tarso non era il meglio<br>ch’ei più a lungo prendesse riposo.<br>Ei così stimando prese il mare,<br>dove quando gli uomini stanno, rado è l’agio,<br>ché ora il [[Wind|vento]] comincia a soffiare; |
+| *(didascalia)* | Tuono in alto e abissi in basso |
+| [[Gower|GOWER]] | fanno tale inquiete che la [[Ship|nave]]<br>che dovrebbe [[house|albergarlo]] sicuro è infranta e squarciata,<br>ed egli, buon principe, avendo tutto perduto,<br>dalle onde di costa in costa è sbattuto.<br>Tutti periscono, d’uomini e d’averi,<br>né altro scampa che lui stesso,<br>finché fortuna, stanca di far male,<br>lo gettò a riva per dargli letizia.<br>[Entra [[Pericles|Pericle]] bagnato e mezzo nudo]<br>Ed eccolo che viene. Ciò che seguirà<br>perdonate al vecchio [[Gower]]; ciò spetta al testo. Esce<br>[Tuono e [[Lightning|lampi]]] |
+| [[Pericles|PERICLES]] | Cessate pure la vostra ira, adirate [[Stars|stelle]] del cielo! |
+| *(didascalia)* | [[Wind|Vento]], pioggia e tuono, ricordate che l’uomo terreno |
+| [[Pericles|PERICLES]] | non è che una sostanza che deve cedervi,<br>e io, come s’addice alla mia [[Nature|natura]], vi obbedisco.<br>Ahimè, i mari m’han gettato sugli scogli,<br>m’han lavato di riva in riva, e lasciato al mio fiato<br>null’altro a cui pensare che alla [[Death|morte]] imminente.<br>Basti alla [[Greatness|grandezza]] delle vostre potenze<br>d’aver spogliato un principe d’ogni sua fortuna,<br>e, avendolo gettato fuori dalla vostra acquea [[Grave|tomba]],<br>aver qui la [[Death|morte]] in pace è tutto ciò ch’egli implora.<br>Si siede.Entrano due poveri pescatori: l’uno il Padrone, l’altro il suo garzone |
+| MASTER | chiamando Ehilà, Pece! |
+| SECOND FISHERMAN | chiamando Ehi, vieni e porta via le reti. |
+| MASTER | chiamando Ehi, Braghe-rattoppate, dico! |
+| *(didascalia)* | Entra un Terzo rozzo pescatore con un cappuccio in capo e una lurida pelle di cuoio sulle spalle, vestito sconciamente, e rustico a vedersi. Porta reti da asciugare e riparare |
+| THIRD FISHERMAN | Che dite, padrone? |
+| MASTER | Guarda come ti muovi ora. Vieni via, o ti vengo a prendere con tanto di malanno. |
+| THIRD FISHERMAN | In [[Faith|fede]], padrone, sto pensando ai poveri uomini che sono naufragati davanti a noi proprio ora. |
+| MASTER | Ahimè, povere anime, mi doleva il cuore a udire che pietose grida ci facevano perché li aiutassimo quando, [[Well|ohimè]], a stento potevamo aiutare noi stessi. |
+| THIRD FISHERMAN | Ma no, padrone, non dissi io altrettanto quando vidi la focena come balzava e si rotolava? Dicono che siano metà pesce e metà carne. La peste li colga: mai vengono senza ch’io m’aspetti d’essere inzuppato. Padrone, mi meraviglio di come i pesci vivano nel mare. |
+| MASTER | Ma come fanno gli uomini in terra: i grandi divorano i piccoli. Non posso paragonare i nostri ricchi avari a nulla così acconciamente come a una balena: gioca e si rotola, cacciandosi innanzi il povero pesciame, e alla fine li divora tutti in un boccone. Di tali balene ho sentito parlare anche in terraferma, che mai smettono di spalancare le fauci finché non hanno inghiottito l’intera parrocchia: chiesa, campanile, [[Bells|campane]] e tutto. [[Pericles|PERICLES]] (a parte) Una bella morale. |
+| THIRD FISHERMAN | Ma, padrone, se io fossi stato il sagrestano, sarei stato quel giorno nel campanile. |
+| SECOND FISHERMAN | Perché, uomo? |
+| THIRD FISHERMAN | Perché avrebbe inghiottito anche me, e quando fossi stato nel suo ventre avrei fatto tale scampanio con [[The Bells|le campane]] ch’egli non avrebbe mai smesso finché non avesse rigettato [[Bells|campane]], campanile, chiesa e parrocchia. Ma se il buon [[King|re]] [[Simonides|Simonide]] fosse del mio parere— |
+| [[Pericles|PERICLES]] | (a parte) [[Simonides|Simonide]]? |
+| THIRD FISHERMAN | Purgheremmo il paese di questi fuchi che rubano all’ape il suo miele. |
+| [[Pericles|PERICLES]] | (a parte)<br>Come dal pinnuto soggetto del mare<br>questi pescatori narrano le infermità degli uomini,<br>e dal loro acqueo impero raccolgono<br>tutto ciò che negli uomini si può lodare o scoprire!<br>Facendosi avanti Pace sia alla vostra fatica, onesti<br>pescatori. |
+| SECOND FISHERMAN | Onesto, buon uomo? Che roba è? Se è un giorno che vi conviene, cancellatelo dal calendario, e nessuno ci baderà. |
+| [[Pericles|PERICLES]] | Potete vedere che il mare ha gettato sulla vostra costa— |
+| SECOND FISHERMAN | Che briccone ubriaco fu il mare a gettarti sul nostro cammino! |
+| [[Pericles|PERICLES]] | un uomo che e le acque e il [[Wind|vento]]<br>in quel vasto [[Court|campo]] da pallacorda han fatto la palla<br>con cui giocare, vi supplica d’averne pietà.<br>Vi chiede colui che non fu mai avvezzo a mendicare. |
+| MASTER | Come no, amico, non sapete mendicare? Qui nel nostro paese di Grecia c’è chi guadagna più mendicando di quanto noi possiamo lavorando. |
+| SECOND FISHERMAN | Sai dunque pigliare qualche pesce? |
+| [[Pericles|PERICLES]] | Non l’ho mai praticato. |
+| SECOND FISHERMAN | Allora morrai di fame, di certo; ché al giorno d’oggi non c’è nulla da guadagnare se non sai pescartelo. |
+| [[Pericles|PERICLES]] | Ciò che sono stato, ho scordato di saperlo,<br>ma ciò che sono, il bisogno m’insegna a considerarlo:<br>un uomo stipato di freddo; le mie vene son gelide,<br>e non hanno più vita di quanta basti<br>a dare alla mia lingua quel calore per implorare il vostro aiuto;<br>il quale se rifiuterete, quando sarò morto,<br>poiché sono un uomo, vi prego, fatemi seppellire.<br>Cade a terra |
+| MASTER | Morire, dice? Ora, gli dèi lo vietino, ché ho qui una veste! A [[Pericles|Pericle]], sollevandolo da terra Su, mettitela, tienti caldo. Ora, in fede mia, un bel giovanotto! Vieni, verrai a [[Home|casa]], e avremo carne per le feste, pesce per i giorni di magro, e per giunta budini e frittelle, e sarai il benvenuto. |
+| [[Pericles|PERICLES]] | Vi ringrazio, signore. |
+| SECOND FISHERMAN | Udite, amico mio, dicevate che non sapevate mendicare? |
+| [[Pericles|PERICLES]] | Non feci che implorare. |
+| SECOND FISHERMAN | Solo implorare? Allora mi farò implorante anch’io, e così scamperò la frusta. |
+| [[Pericles|PERICLES]] | Come, sono dunque frustati tutti i vostri mendicanti? |
+| SECOND FISHERMAN | Oh, non tutti, amico mio, non tutti; ché se tutti i vostri mendicanti fossero frustati non vorrei miglior ufficio che d’essere il bidello. |
+| MASTER | Il tuo ufficio, furfante— |
+| SECOND FISHERMAN | è tirar su le altre reti. Vado. |
+| *(didascalia)* | Esce col Terzo Pescatore |
+| [[Pericles|PERICLES]] | (a parte)<br>Come [[Well|bene]] questa onesta allegria s’addice alla loro fatica! |
+| *(didascalia)* | IL PADRONE sedendosi accanto a [[Pericles|Pericle]] Udite, signore, sapete dove siete? |
+| [[Pericles|PERICLES]] | Non [[Well|bene]]. |
+| MASTER | Ebbene, ve lo dirò. Questa si chiama Pentapoli, e il nostro [[King|re]] è il buon [[Simonides|Simonide]]. |
+| [[Pericles|PERICLES]] | ’Il buon [[Simonides|Simonide]]’ lo chiamate? |
+| MASTER | Sì, signore, e merita d’esser così chiamato per il suo pacifico regno e il buon [[government|governo]]. |
+| [[Pericles|PERICLES]] | È un [[King|re]] felice, poiché dai suoi sudditi<br>guadagna il nome di buono per il suo [[government|governo]].<br>Quanto dista la sua [[Court|corte]] da questa riva? |
+| MASTER | Perbacco, signore, circa un mezzo giorno di [[Journey|cammino]]. E vi dirò, egli ha una bella figlia, e domani è il suo giorno natale, e sono venuti principi e cavalieri da ogni parte del mondo a giostrare e torneare per il suo [[Love|amore]]. |
+| [[Pericles|PERICLES]] | Fossero solo le mie fortune rispondenti<br>ai miei desideri, vorrei essere uno di quelli. |
+| MASTER | Oh, signore, le cose devono andare come possono, e ciò che un uomo non può ottenere da sé, può lecitamente trattarlo con l’[[Soul|anima]] di sua moglie. |
+| *(didascalia)* | Entrano gli altri due pescatori tirando su una rete |
+| SECOND FISHERMAN | Aiuto, padrone, aiuto! Qui c’è un pesce impigliato nella rete come il diritto d’un povero nella legge; a stento verrà fuori.<br>Prima che venga aiuto, viene su la loro preda<br>Ah, malanno, è venuto alla fine, e s’è mutato in una<br>rugginosa armatura. |
+| [[Pericles|PERICLES]] | Un’armatura, amici? Vi prego, lasciate ch’io la veda.<br>(A parte) Grazie, fortuna, che dopo tutte le tue traversie<br>tu mi dài qualcosa a riparare le mie perdite;<br>e pure fu mia, parte del mio retaggio<br>che il mio morto padre mi lasciò<br>con questo stretto comando proprio mentre lasciava la vita:<br>‘Serbala, mio [[Pericles|Pericle]]; è stata scudo<br>fra me e la [[Death|morte]],’ e additò questo bracciale,<br>‘perché mi salvò, serbala. In simile necessità,<br>il che gli dèi impediscano, la stessa possa difenderti.’<br>Stette dove stavo io, sì caramente l’amavo,<br>finché gli aspri mari che non risparmiano alcun uomo<br>me la tolsero in furia, ma, calmati, me l’han resa.<br>Te ne ringrazio. Il mio naufragio ora non è male,<br>poiché ho qui ciò che mio padre diede nel suo testamento. |
+| MASTER | Che intendete, signore? |
+| [[Pericles|PERICLES]] | Chiedervi, cortesi amici, questa veste di pregio,<br>ché fu un tempo scudo a un [[King|re]].<br>La riconosco da questo segno. Egli m’amava caramente,<br>e per amor suo desidero averla,<br>e che voi mi guidiate alla [[Court|corte]] del vostro sovrano,<br>dove con essa possa apparire un gentiluomo.<br>E se mai la mia bassa fortuna migliori,<br>pagherò le vostre larghezze; fino allora resto vostro debitore. |
+| MASTER | Come, vuoi torneare per la dama? |
+| [[Pericles|PERICLES]] | Mostrerò il valore che ho appreso nelle armi. |
+| MASTER | Ebbene, prendila, e gli dèi te ne diano bene! |
+| SECOND FISHERMAN | Sì, ma udite, amico mio, fummo noi a ripescare questa veste attraverso le ruvide cuciture delle acque. Ci sono certi compensi, certe mance. [[Hope|Spero]], signore, che se prosperate, vi ricorderete donde aveste questa. |
+| [[Pericles|PERICLES]] | Credetelo, lo farò.<br>Per il vostro aiuto son vestito d’acciaio,<br>e a dispetto d’ogni rapina del mare<br>questo [[Jewel|gioiello]] tien la sua costruzione sul mio braccio.<br>Al tuo valore io mi leverò<br>sopra un corsiero i cui passi dilettosi<br>faran gioire chi guarda al vederlo incedere.<br>Solo, amici miei, son ancora sprovvisto<br>d’un paio di gualdrappe. |
+| SECOND FISHERMAN | Provvederemo di certo. Avrai la mia veste migliore per fartene un paio, e ti condurrò io stesso alla [[Court|corte]]. |
+| [[Pericles|PERICLES]] | Allora, sia l’[[Honour|onore]] pari al mio volere:<br>oggi mi solleverò, o aggiungerò male a male. |
+| *(didascalia)* | Escono con le reti e l’armatura |
+
 
 
 <span class="atom-split" data-atom="scenes--scene_6" data-title="Pericles — Scene 6" data-chapter="Scene 6" data-kind="scene" data-tags="archetype/child,archetype/fool,archetype/king,motif/desire,motif/dust,motif/nature,motif/well,concept/beauty,concept/faith,concept/honour,concept/nature,concept/wonder,character/pericles,character/simonides,character/thaisa,character/touchstone"></span>
@@ -1177,6 +1385,55 @@ tags:
 | *(didascalia)* | Cornetts and great shouts within, and all cry |
 | [[King\|KING]] [[Simonides\|SIMONIDES]] | ‘The mean knight!’ |
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Squillo.Entrano il [[King|re]] [[Simonides|Simonide]] e [[Thaisa|Taisa]], con Signori al seguito, e siedono su due troni |
+| [[King|RE]] [[Simonides|SIMONIDES]] | Sono i cavalieri pronti a cominciare il torneo? |
+| PRIMO SIGNORE | Lo sono, mio sire,<br>e attendono il vostro venire per presentarsi. |
+| [[King|RE]] [[Simonides|SIMONIDES]] | Rispondete loro che siamo pronti; e nostra figlia,<br>in [[Honour|onore]] della cui nascita son questi tornei,<br>siede qui come [[Child|figlia]] della [[Beauty|bellezza]], che la [[Nature|natura]] generò<br>perché gli uomini la vedano e, vedendola, ne [[Wonder|stupiscano]]. Esce uno |
+| [[Thaisa|THAISA]] | Vi piace, padre mio, d’esprimere<br>grandi le mie lodi, il cui merito è minore. |
+| [[King|RE]] [[Simonides|SIMONIDES]] | È giusto che sia così, ché i principi sono<br>un modello che il cielo fa simile a se stesso.<br>Come i gioielli perdono la loro gloria se trascurati,<br>così i principi la loro fama, se non rispettati.<br>Ora è vostro ufficio, figlia, d’accogliere<br>la fatica d’ogni cavaliere nella sua impresa. |
+| [[Thaisa|THAISA]] | Il che, a preservare il mio [[Honour|onore]], eseguirò. |
+| *(didascalia)* | Squilli.Passa il primo cavaliere |
+| [[Thaisa|THAISA]] | riccamente armato, e il suo paggio innanzi a lui, recando la sua impresa sullo scudo, la consegna alla dama [[Thaisa|Taisa]] |
+| [[King|RE]] [[Simonides|SIMONIDES]] | Chi è il primo che si presenta? |
+| [[Thaisa|THAISA]] | Un cavaliere di Sparta, mio rinomato padre,<br>e l’impresa ch’egli porta sul suo scudo<br>è un nero Etiope che tende al sole.<br>Il motto, Lux tua vita mihi.<br>Ella la presenta al [[King|re]] |
+| [[King|RE]] [[Simonides|SIMONIDES]] | Molto [[Well|bene]] v’ama chi tiene da voi la sua vita.<br>Egli la restituisce al paggio, che esce col primo cavaliere. |
+| *(didascalia)* | Squilli.Passa il secondo cavaliere |
+| [[King|RE]] [[Simonides|SIMONIDES]] | riccamente armato, e il suo paggio innanzi a lui, recando la sua impresa sullo scudo, la consegna alla dama [[Thaisa|Taisa]]<br>Chi è il secondo che si presenta? |
+| [[Thaisa|THAISA]] | Un principe di Macedonia, mio regale padre,<br>e l’impresa ch’egli porta sul suo scudo<br>un cavaliere armato vinto da una dama.<br>Il motto così: Piùe per dolcezza che per forza.<br>ella la presenta al [[King|re]] |
+| [[King|RE]] [[Simonides|SIMONIDES]] | Voi lo vincete più con la clemenza che con la forza.<br>Egli la restituisce al paggio, che esce col secondo cavaliere. |
+| *(didascalia)* | Squilli.Passa il terzo cavaliere |
+| [[King|RE]] [[Simonides|SIMONIDES]] | riccamente armato, e il suo paggio innanzi a lui, recando la sua impresa sullo scudo, la consegna alla dama [[Thaisa|Taisa]]<br>E qual è il terzo? |
+| [[Thaisa|THAISA]] | Il terzo d’Antiochia,<br>e la sua impresa una ghirlanda di cavalleria.<br>Il motto, Me pompae provexit apex.<br>Ella la presenta al [[King|re]] |
+| [[King|RE]] [[Simonides|SIMONIDES]] | [[Desire|Desiderio]] di fama egli raffigura,<br>il quale l’ha tratto a questa impresa.<br>Egli la restituisce al paggio, che esce col terzo cavaliere. |
+| *(didascalia)* | Squilli.Passa il quarto cavaliere |
+| [[King|RE]] [[Simonides|SIMONIDES]] | riccamente armato, e il suo paggio innanzi a lui, recando la sua impresa sullo scudo, la consegna alla dama [[Thaisa|Taisa]]<br>Qual è il quarto? |
+| [[Thaisa|THAISA]] | Un cavaliere d’Atene che porta<br>una torcia ardente rivolta all’ingiù.<br>Il motto, Qui me alit me extinguit.<br>Ella la presenta al [[King|re]] |
+| [[King|RE]] [[Simonides|SIMONIDES]] | Il che mostra che la [[Beauty|bellezza]] ha questo potere e volere:<br>che può [[Well|tanto bene]] infiammare quanto uccidere. |
+| *(didascalia)* | Egli la restituisce al paggio, che esce col quarto cavaliere. |
+| *(didascalia)* | Squilli. Passa il quinto cavaliere riccamente armato, e il suo paggio innanzi a lui, recando la sua impresa sullo scudo, la consegna alla dama [[Thaisa|Taisa]] |
+| [[King|RE]] [[Simonides|SIMONIDES]] | E chi il quinto? |
+| [[Thaisa|THAISA]] | Il quinto, un principe di Corinto,<br>presenta una mano circondata di nubi,<br>che porge oro provato alla [[Touchstone|pietra di paragone]].<br>Il motto così: Sic spectanda fides. |
+| *(didascalia)* | Ella la presenta al [[King|re]] |
+| [[King|RE]] [[Simonides|SIMONIDES]] | Così si deve saggiare la [[Faith|fede]]. |
+| *(didascalia)* | Egli la restituisce al paggio, che esce col quinto cavaliere. |
+| *(didascalia)* | Squilli.l Il sesto cavaliere, [[Pericles|Pericle]], in una rugginosa armatura, il quale, non avendo né paggio a consegnare il suo scudo né scudo da consegnare, presenta la sua impresa alla dama [[Thaisa|Taisa]] |
+| [[King|RE]] [[Simonides|SIMONIDES]] | E qual è il sesto e ultimo, che il cavaliere<br>stesso<br>con sì graziosa cortesia consegna? |
+| [[Thaisa|THAISA]] | Pare essere uno straniero, ma il suo dono è<br>un ramo appassito che è verde solo in cima.<br>Il motto, In hac spe vivo. |
+| [[King|RE]] [[Simonides|SIMONIDES]] | Dallo stato abbattuto in cui si trova<br>egli spera che per voi le sue fortune possano ancor fiorire. |
+| PRIMO SIGNORE | Bisogna ch’egli valga meglio di quanto la sua mostra esteriore<br>possa in alcun modo dire a sua giusta lode,<br>ché dal suo rugginoso di fuori appare<br>aver praticato più il manico della frusta che la lancia. |
+| SECONDO SIGNORE | [[Well|Bene]] può essere uno straniero, ché viene<br>a un onorato torneo stranamente fornito. |
+| TERZO SIGNORE | E a bella posta lasciò arrugginire la sua armatura<br>fino a questo giorno, per forbirla nella [[Dust|polvere]]. |
+| [[King|RE]] [[Simonides|SIMONIDES]] | L’opinione non è che una [[Fool|sciocca]], che ci fa scrutare<br>l’abito esteriore per l’uomo interiore. |
+| *(didascalia)* | Cornette |
+| [[King|RE]] [[Simonides|SIMONIDES]] | Ma fermi, i cavalieri vengono. Ci ritireremo |
+| *(didascalia)* | nella galleria. Escono |
+| *(didascalia)* | Cornette e grandi grida dentro, e tutti gridano |
+| [[King|RE]] [[Simonides|SIMONIDES]] | ‘Il cavaliere dappoco!’ |
 
 
 
@@ -1237,6 +1494,61 @@ tags:
 | *(didascalia)* | Exeunt severally |
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | [[Simonides|Simonide]], [[Thaisa|Taisa]] e il loro seguito a una porta, e a un’altra porta un Maresciallo che conduce [[Pericles|Pericle]] e gli altri cavalieri dalla giostra |
+| [[King|RE]] [[Simonides|SIMONIDES]] | (ai cavalieri)<br>Dirvi che siete benvenuti sarebbe superfluo.<br>Porre sul volume delle vostre gesta,<br>come in un frontespizio, il vostro valore nelle armi<br>sarebbe più di quanto v’aspettate, o più del conveniente,<br>poiché ogni valore in mostra si loda da sé.<br>Preparatevi all’allegria, ché l’allegria s’addice a un banchetto.<br>Siete principi, e miei ospiti. |
+| [[Thaisa|THAISA]] | (a [[Pericles|Pericle]]) Ma voi, mio cavaliere e ospite; a cui do questa ghirlanda di vittoria, e vi [[Crown|incorono]] [[King|re]] della felicità di questo giorno. |
+| [[Pericles|PERICLES]] | È più per fortuna, signora, che per mio merito. |
+| [[King|RE]] [[Simonides|SIMONIDES]] | Chiamatelo come volete, il giorno è vostro,<br>e qui [[Hope|spero]] non v’è alcuno che ve l’invidi.<br>Nel formare artefici l’arte ha così decretato:<br>farne alcuni buoni, ma altri eccellenti.<br>Voi siete il suo elaborato scolaro. (A [[Thaisa|Taisa]]) Vieni,<br>[[Queen|regina]] del banchetto—<br>ché, figlia, tale sei—prendi qui il tuo posto.<br>(Al Maresciallo) Disponete gli altri secondo che meritano la loro<br>grazia. |
+| CAVALIERI | Molto siamo onorati dal buon [[Simonides|Simonide]]. |
+| [[King|RE]] [[Simonides|SIMONIDES]] | La vostra presenza rallegra i nostri giorni; [[Love|amiamo]] l’[[Honour|onore]],<br>ché chi odia l’[[Honour|onore]] odia gli dèi lassù. |
+| MARESCIALLO | (a [[Pericles|Pericle]])<br>Signore, laggiù è il vostro posto. |
+| [[Pericles|PERICLES]] | Qualche altro è più conveniente. |
+| PRIMO CAVALIERE | Non contendete, signore, ché siamo gentiluomini<br>che né nei nostri cuori né negli occhi esteriori<br>abbiamo invidiato i grandi, né disprezzeremo gli umili. |
+| [[Pericles|PERICLES]] | Siete cavalieri assai cortesi. |
+| [[King|RE]] [[Simonides|SIMONIDES]] | Sedete, signore, sedete. |
+| *(didascalia)* | [[Pericles|Pericle]] siede proprio di fronte al [[King|re]] e a [[Thaisa|Taisa]]. Gli ospiti mangiano di buona lena. [[Pericles|Pericle]] siede immobile e non mangia nulla |
+| *(didascalia)* | A parte Per Giove, che è [[King|re]] dei pensieri, mi [[Wonder|meraviglio]]: queste vivande mi disgustano, al solo pensiero di lui. |
+| *(didascalia)* | [[Thaisa|THAISA]] a parte |
+| [[King|RE]] [[Simonides|SIMONIDES]] | Per Giunone, che è [[Queen|regina]] del [[Marriage|matrimonio]],<br>son stupita che tutte le vivande che mangio<br>mi paian insipide, desiderando lui per mio cibo. |
+| *(didascalia)* | Al [[King|re]] Certo è un gagliardo gentiluomo. |
+| [[King|RE]] [[Simonides|SIMONIDES]] | Non è che un gentiluomo di campagna.<br>Non ha fatto più di quanto abbian fatto altri cavalieri.<br>Ha spezzato un’asta o giù di lì, e lasciamo andare. |
+| *(didascalia)* | [[Thaisa|THAISA]] a parte |
+| [[King|RE]] [[Simonides|SIMONIDES]] | A me pare come diamante rispetto a vetro. |
+| *(didascalia)* | [[Pericles|PERICLES]] a parte |
+| [[King|RE]] [[Simonides|SIMONIDES]] | Quel [[King|re]] m’è come il ritratto di mio padre,<br>che mi dice in qual gloria egli fu un tempo—<br>aveva principi seduti come [[Stars|stelle]] intorno al suo trono,<br>ed egli il sole ch’essi riverivano.<br>Nessuno che lo mirasse che, come luci minori,<br>non abbassasse la corona alla sua supremazia;<br>mentre ora suo figlio è una lucciola nella [[Night|notte]],<br>che ha [[Fire|fuoco]] nel buio, nessuno nella luce;<br>onde vedo che il [[Time|tempo]] è il [[King|re]] degli uomini:<br>è insieme loro genitore ed è la loro [[Grave|tomba]],<br>e dà loro ciò che vuole, non ciò che implorano. |
+| *(didascalia)* | [[King|RE]] [[Simonides|SIMONIDES]] Ebbene, siete allegri, cavalieri? GLI ALTRI CAVALIERI |
+| [[King|RE]] [[Simonides|SIMONIDES]] | Chi può essere altrimenti in questa regale presenza? |
+| [[King|RE]] [[Simonides|SIMONIDES]] | Ecco, con una coppa colma fino all’orlo,<br>come [[Love|amate]], piena fino alle labbra della vostra dama,<br>beviamo questa salute a voi. |
+| *(didascalia)* | GLI ALTRI CAVALIERI Ringraziamo vostra grazia. |
+| [[King|RE]] [[Simonides|SIMONIDES]] | Ma indugiate un poco. Quel cavaliere siede troppo<br>[[Melancholy|malinconico]],<br>come se l’accoglienza nella nostra [[Court|corte]]<br>non avesse mostra che pareggiasse il suo merito.<br>Non lo noti tu, [[Thaisa|Taisa]]? |
+| [[Thaisa|THAISA]] | Che m’importa, padre mio? |
+| [[King|RE]] [[Simonides|SIMONIDES]] | Oh, ascolta, figlia mia. I principi in questo<br>dovrebbero vivere come gli dèi lassù, che liberamente danno<br>a chiunque venga a [[Honour|onorarli]].<br>E i principi che non fanno così son come zanzare<br>che fanno un ronzio ma, uccise, destano stupore.<br>Perciò, a far più dolce la sua accoglienza,<br>recagli qui questa coppa di vino col piede. |
+| [[Thaisa|THAISA]] | Ahimè, padre mio, non si conviene a me<br>d’essere sì ardita verso un cavaliere straniero.<br>Egli può prendere la mia offerta per un’offesa,<br>poiché gli uomini prendono i doni delle donne per impudenza. |
+| [[King|RE]] [[Simonides|SIMONIDES]] | Come? Fa’ come t’ordino, o altrimenti mi muoverai a sdegno. |
+| [[Thaisa|THAISA]] | (a parte)<br>Ora, per gli dèi, non potrebbe piacermi di più. |
+| [[King|RE]] [[Simonides|SIMONIDES]] | Inoltre, digli che [[Desire|desideriamo]] sapere<br>donde egli sia, il suo nome e la sua stirpe. |
+| *(didascalia)* | [[Thaisa|Taisa]] porta la coppa a [[Pericles|Pericle]] |
+| [[Thaisa|THAISA]] | Il [[King|re]] mio padre, signore, ha bevuto a voi,<br>augurando che ciò sia altrettanto [[Blood|sangue]] per la vostra vita. |
+| [[Pericles|PERICLES]] | Ringrazio e lui e voi, e brindo a lui di buon grado.<br>Brinda al [[King|re]] |
+| [[Thaisa|THAISA]] | E inoltre desidera sapere da voi<br>donde siete, il vostro nome e la vostra stirpe. |
+| [[Pericles|PERICLES]] | Un gentiluomo di Tiro, il mio nome [[Pericles|Pericle]],<br>la mia [[Education|educazione]] fu nelle arti e nelle armi;<br>il quale, cercando avventure per il mondo,<br>fu dai mari aspri e incostanti privato<br>sventuratamente e di navi e d’uomini,<br>e dopo il naufragio sospinto su questa riva. |
+| *(didascalia)* | [[Thaisa|Taisa]] torna dal [[King|re]] |
+| [[Thaisa|THAISA]] | Ringrazia vostra grazia, si nomina [[Pericles|Pericle]],<br>gentiluomo di Tiro, il quale, cercando avventure,<br>fu solo per sventura dei mari<br>privato di navi e d’uomini, gettato su questa riva. |
+| [[King|RE]] [[Simonides|SIMONIDES]] | Ora, per gli dèi, ho pietà delle sue sciagure,<br>e lo desterò dalla sua [[Melancholy|malinconia]]. |
+| *(didascalia)* | [[Simonides|Simonide]], alzandosi dal suo seggio, va subito e abbraccia [[Pericles|Pericle]] |
+| [[King|RE]] [[Simonides|SIMONIDES]] | Rallegratevi, ché di quanto la sventura v’ha spogliato,<br>la fortuna col mio aiuto può risarcirvi.<br>La mia [[Self|persona]] e il mio paese vi saranno amici,<br>e all’istante un bel destriero bianco latte<br>e speroni d’oro io per primo vi concedo,<br>i premi dovuti al vostro merito, e destinati<br>all’impresa di questo giorno. |
+| [[Pericles|PERICLES]] | La vostra regale cortesia accetto con gratitudine. |
+| [[King|RE]] [[Simonides|SIMONIDES]] | Su, gentiluomini, sediamo troppo a lungo su inezie,<br>e sprechiamo il [[Time|tempo]] che attende altri sollazzi.<br>Anche nelle vostre armature, così come siete acconci,<br>le vostre membra staran [[Well|bene]] in una [[Dance|danza]] di soldati.<br>Non ammetterò scusa col dire questo:<br>‘La musica forte è troppo aspra per le teste delle dame’,<br>poiché esse [[Love|amano]] gli uomini in armi [[Well|tanto bene]] quanto in letto.<br>I cavalieri [[Dance|danzano]]<br>Così fu [[Well|ben]] chiesto, e fu così [[Well|ben]] eseguito.<br>Su, ecco una dama che ha bisogno anch’essa di prender fiato.<br>(A [[Pericles|Pericle]]) E ho udito, signore, che i cavalieri di<br>Tiro<br>sono eccellenti nel far volteggiare le dame,<br>e che le loro danze sono altrettanto eccellenti. |
+| [[Pericles|PERICLES]] | In quelli che le praticano lo sono, mio signore. |
+| [[King|RE]] [[Simonides|SIMONIDES]] | Oh, questo vale quanto dire che vorreste esser dispensato<br>dalla vostra bella cortesia. Slacciate, slacciate.<br>[[Dance|Danzano]]<br>Grazie, gentiluomini, a tutti. Tutti han fatto [[Well|bene]],<br>(A [[Pericles|Pericle]]) ma voi il meglio.—Lumi, paggi, a<br>condurre<br>questi cavalieri ai loro rispettivi alloggi.—Il vostro, signore,<br>abbiam dato ordine che sia accanto al nostro. |
+| [[Pericles|PERICLES]] | Sono a piacere di vostra grazia. |
+| [[King|RE]] [[Simonides|SIMONIDES]] | Principi, è troppo tardi per parlar d’[[Love|amore]],<br>ed è quello il segno cui so che mirate.<br>Perciò ciascuno si dia al suo riposo;<br>domani tutti facciano il meglio per riuscire. |
+| *(didascalia)* | Escono separatamente |
+
 
 
 <span class="atom-split" data-atom="scenes--scene_8" data-title="Pericles — Scene 8" data-chapter="Scene 8" data-kind="scene" data-tags="archetype/fool,archetype/king,motif/crown,motif/death,motif/fire,motif/grave,motif/love,motif/time,concept/greatness,concept/honour,concept/pride,concept/self,character/antiochus,character/pericles"></span>
@@ -1267,6 +1579,32 @@ tags:
 | HELICANUS | Then you [[Love\|love]] us, we you, and we’ll clasp hands.<br>When peers thus knit, a kingdom ever stands. Exeunt<br> |
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entrano Helicanus ed Aeschines |
+| HELICANUS | No, Aeschines, sappi questo da me:<br>[[Antiochus|Antioco]] non visse libero dall’incesto,<br>per il che gli altissimi dèi, non volendo più<br>trattenere la vendetta che tenevano in serbo<br>dovuta a questa atroce offesa capitale,<br>proprio nel colmo e nell’[[Pride|orgoglio]] di tutta la sua gloria,<br>quando sedeva sopra un carro<br>d’inestimabile valore, e<br>sua figlia con lui, entrambi vestiti tutti di gioielli,<br>un [[Fire|fuoco]] venne dal cielo e riarse<br>i loro corpi fino al ribrezzo, ché sì putivano<br>che tutti quegli occhi che li adoravano prima della caduta<br>sdegnano ora che le lor mani diano loro sepoltura. |
+| AESCHINES | Fu cosa assai strana. |
+| HELICANUS | E pure solo giustizia, ché benché<br>questo [[King|re]] fosse grande, la sua [[Greatness|grandezza]] non fu riparo a sbarrare il dardo del cielo, ma il peccato ebbe la sua mercede. |
+| AESCHINES | È verissimo. |
+| *(didascalia)* | Entrano tre Signori, e stanno in disparte |
+| PRIMO SIGNORE | Vedete, non v’è uomo in privato colloquio<br>o consiglio che abbia credito presso di lui se non lui. |
+| SECONDO SIGNORE | Non affliggerà più a lungo senza rimprovero. |
+| TERZO SIGNORE | E maledetto sia chi non vorrà secondarlo. |
+| PRIMO SIGNORE | Seguitemi, dunque.—Signor Helicane, una parola. |
+| HELICANUS | Con me? E siate benvenuti. Buon giorno, miei signori. |
+| PRIMO SIGNORE | Sappiate che i nostri dolori son saliti al colmo,<br>e ora alfine traboccano dalle loro sponde. |
+| HELICANUS | I vostri dolori? Per che cosa? Non fate torto al vostro principe che [[Love|amate]]. |
+| PRIMO SIGNORE | Non fate torto a voi stesso, dunque, nobile Helicane,<br>ma se il principe vive, lasciate che lo salutiamo<br>o che sappiamo qual terra è resa felice dal suo passo,<br>e siamo accertati ch’egli vive a governarci,<br>o, morto, dateci ragione di piangere il suo funerale<br>e lasciateci alla nostra libera elezione. |
+| SECONDO SIGNORE | La cui [[Death|morte]] invero è la più forte nel nostro giudizio;<br>e sapendo questo—che i regni senza un capo,<br>come begli edifici lasciati senza tetto,<br>presto cadono in totale rovina—alla vostra nobile [[Self|persona]],<br>che meglio sapete come reggere e come regnare,<br>così ci sottomettiamo come a sovrano. |
+| *(didascalia)* | TUTTI inginocchiandosi Viva, nobile Helicane! |
+| HELICANUS | Per causa d’[[Honour|onore]], astenetevi dai vostri suffragi.<br>Se [[Love|amate]] il principe [[Pericles|Pericle]], astenetevi. |
+| *(didascalia)* | I signori si alzano |
+| HELICANUS | Se accetto il vostro desiderio, mi getto nei mari<br>dove c’è tormento a ogni ora per un minuto d’agio;<br>ma se non posso volgervi a questo [[Love|amore]],<br>lasciate ch’io vi supplichi ancora per un anno<br>di sopportare oltre l’assenza del vostro [[King|re]];<br>se, scaduto tal [[Time|tempo]], egli non torni,<br>porterò con vecchia pazienza il vostro giogo.<br>Andate, cercate il vostro nobile principe come nobili sudditi,<br>e nella ricerca spendete il vostro avventuroso valore;<br>il quale se lo trovate e persuadete a tornare,<br>siederete come diamanti intorno alla sua [[Crown|corona]]. |
+| PRIMO SIGNORE | Alla saggezza è uno [[Fool|sciocco]] chi non vuol cedere,<br>e poiché il signor Helicane ce l’ingiunge,<br>noi coi nostri viaggi ci adopreremo.<br>Se al mondo egli vive, lo cercheremo;<br>se nella sua [[Grave|tomba]] riposa, là lo troveremo. |
+| HELICANUS | Allora voi [[Love|amate]] noi, noi voi, e ci stringeremo le mani.<br>Quando i pari così s’uniscono, un regno sempre sta. Escono<br> |
+
 
 
 <span class="atom-split" data-atom="scenes--scene_8a" data-title="Pericles — Scene 8a" data-chapter="Scene 8a" data-kind="scene" data-tags="motif/night,motif/sleep,character/pericles"></span>
@@ -1287,6 +1625,23 @@ tags:
 | [[Pericles\|PERICLES]] | [[Pericles]] plays and sings<br>Day—that hath still that sovereignty to draw back<br>The empire of the [[Night\|night]], though for a while<br>In darkness she usurp—brings morning on.<br>I will go give his grace that salutation<br>Morning requires of me. |
 | *(didascalia)* | Exit with instrument |
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* |  |
+| *(didascalia)* | Entra [[Pericles|Pericle]] con Gentiluomini con lumi |
+| PRIMO GENTILUOMO | Qui è il vostro alloggio, signore. |
+| [[Pericles|PERICLES]] | Vi prego, lasciatemi solo.<br>Solo, per immediato sollievo, compiacetemi<br>con qualche dilettoso strumento, col quale,<br>e con la mia antica pratica, intendo<br>passare il tedio della [[Night|notte]], 5<br>benché il sonno fosse più conveniente. |
+| PRIMO GENTILUOMO | Subito. |
+| *(didascalia)* | Esce il Primo Gentiluomo |
+| SECONDO GENTILUOMO | Il vostro volere è obbedito in ogni cosa, ché il nostro padrone<br>comandò che in nulla vi si disobbedisse. |
+| *(didascalia)* | Entra il Primo Gentiluomo con uno strumento a corde |
+| [[Pericles|PERICLES]] | Vi ringrazio. Ora datevi ai vostri guanciali,<br>e al nutrimento del quieto [[Sleep|sonno]]. 10 |
+| *(didascalia)* | Escono i Gentiluomini |
+| [[Pericles|PERICLES]] | [[Pericles|Pericle]] suona e canta<br>Il giorno—che ha pur quella sovranità di ritrarre<br>l’impero della [[Night|notte]], benché per un poco<br>nelle tenebre essa usurpi—conduce il mattino.<br>Andrò a dare a sua grazia quel saluto<br>che il mattino richiede da me. |
+| *(didascalia)* | Esce con lo strumento |
 
 
 
@@ -1351,6 +1706,65 @@ tags:
 | [[King\|KING]] [[Simonides\|SIMONIDES]] | It pleaseth me so [[Well\|well]] that I will see you wed,<br>Then with what haste you can, get you to bed. Exeunt |
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entra il [[King|re]] [[Simonides|Simonide]] da una porta leggendo una lettera, i Cavalieri entrano da un’altra porta e lo incontrano |
+| PRIMO CAVALIERE | Buon giorno al buon [[Simonides|Simonide]]. |
+| [[King|RE]] [[Simonides|SIMONIDES]] | Cavalieri, da mia figlia questo vi faccio sapere:<br>che per quest’anno ella non intraprenderà<br>vita maritale. La sua ragione a lei sola<br>è nota, e da lei nessuno può cavarla. |
+| SECONDO CAVALIERE | Non possiamo aver accesso a lei, mio signore? |
+| [[King|RE]] [[Simonides|SIMONIDES]] | In [[Faith|fede]], in nessun modo. È impossibile:<br>sì strettamente s’è legata alla sua camera.<br>Altre dodici lune porterà la livrea di [[Diana]].<br>Questo ha giurato per l’occhio di [[Cynthia|Cinzia]],<br>e sul suo verginale [[Honour|onore]] non lo romperà. |
+| TERZO CAVALIERE | Restii a dire addio, prendiamo [[Leaves|congedo]]. |
+| *(didascalia)* | Escono i Cavalieri |
+| [[King|RE]] [[Simonides|SIMONIDES]] | Così, son [[Well|ben]] sbrigati. Ora alla lettera di mia<br>figlia.<br>Ella mi dice qui che sposerà il cavaliere straniero,<br>o mai più vedrà né giorno né luce.<br>Ciò mi piace [[Well|assai]]. Anzi, com’è risoluta in ciò,<br>senza curarsi se a me spiaccia o no!<br>Signorina, sta [[Well|bene]], lodo la vostra scelta,<br>e non vorrò più che sia differita. |
+| *(didascalia)* | Entra [[Pericles|Pericle]] |
+| [[King|RE]] [[Simonides|SIMONIDES]] | Piano, eccolo che viene. Devo dissimulare in apparenza<br>ciò che in cuore ho deciso. |
+| [[Pericles|PERICLES]] | Ogni fortuna al buon [[Simonides|Simonide]]. |
+| [[King|RE]] [[Simonides|SIMONIDES]] | A voi altrettanta, signore. Vi sono obbligato<br>per la vostra dolce musica questa scorsa [[Night|notte]]. I miei orecchi,<br>lo protesto, mai furon meglio nutriti<br>di sì dilettosa e piacevole armonia. |
+| [[Pericles|PERICLES]] | È piacere di vostra grazia il lodare,<br>non mio [[Desert|merito]]. |
+| [[King|RE]] [[Simonides|SIMONIDES]] | Signore, voi siete maestro di musica. |
+| [[Pericles|PERICLES]] | Il peggiore di tutti i suoi scolari, mio buon signore. |
+| [[King|RE]] [[Simonides|SIMONIDES]] | Lasciate ch’io vi chieda una cosa. Che pensate di mia figlia? |
+| [[Pericles|PERICLES]] | Una principessa virtuosissima. |
+| [[King|RE]] [[Simonides|SIMONIDES]] | E bella anche, non è vero? |
+| [[Pericles|PERICLES]] | Come un bel giorno d’[[Summer|estate]]; mirabilmente bella. |
+| [[King|RE]] [[Simonides|SIMONIDES]] | Mia figlia, signore, pensa assai [[Well|bene]] di voi;<br>sì [[Well|bene]] invero che voi dovete essere il suo maestro<br>ed ella sarà la vostra scolara; perciò badateci. |
+| [[Pericles|PERICLES]] | Sono indegno d’esserle maestro. |
+| [[King|RE]] [[Simonides|SIMONIDES]] | Ella non pensa così. Leggete altrimenti questo scritto.<br>Dà la lettera a [[Pericles|Pericle]], che legge |
+| [[Pericles|PERICLES]] | (a parte)<br>Che c’è qui?—una lettera che dice ch’ella ama il cavaliere di Tiro?<br>È l’astuzia del [[King|re]] per avere la mia vita. |
+| *(didascalia)* | Si prostra ai piedi del [[King|re]] |
+| [[Pericles|PERICLES]] | Oh, non cercate d’intrappolarmi, grazioso signore,<br>uno straniero e afflitto gentiluomo<br>che mai mirò sì alto da [[Love|amare]] vostra figlia,<br>ma volse ogni ufficio a [[Honour|onorarla]].<br>Mai pensiero mio levò offesa,<br>né mai le mie azioni ancora iniziarono<br>atto che guadagnasse il suo [[Love|amore]] o il vostro sdegno. |
+| [[King|RE]] [[Simonides|SIMONIDES]] | Menti come un traditore. |
+| [[Pericles|PERICLES]] | Traditore? |
+| [[King|RE]] [[Simonides|SIMONIDES]] | Sì, traditore,<br>che così travestito ti sei introdotto nella mia [[Court|corte]]<br>con la stregoneria delle tue azioni per stregare<br>l’arrendevole spirito della mia tenera [[Child|figlia]]. 50 |
+| *(didascalia)* | [[Pericles|PERICLES]] alzandosi |
+| [[King|RE]] [[Simonides|SIMONIDES]] | Chi mi chiama traditore, s’egli non è il [[King|re]],<br>proprio nel suo petto scriverò la menzogna. |
+| [[King|RE]] [[Simonides|SIMONIDES]] | (a parte)<br>Ora, per gli dèi, applaudo il suo [[Courage|coraggio]]. |
+| [[Pericles|PERICLES]] | Le mie azioni son nobili quanto il mio [[Blood|sangue]],<br>che mai ebbe sapore di bassa discendenza. 55<br>Venni alla vostra [[Court|corte]] in cerca d’[[Honour|onore]],<br>e non per essere [[Rebel|ribelle]] al vostro stato;<br>e chi altrimenti mi giudica,<br>questa [[Sword|spada]] proverà ch’egli è nemico dell’[[Honour|onore]]. |
+| [[King|RE]] [[Simonides|SIMONIDES]] | Io proverò altrimenti, poiché e la vostra macchinazione<br>e il consenso di lei in ciò è evidente<br>là, di mano di mia figlia, come ella può testimoniare. |
+| *(didascalia)* | Entra [[Thaisa|Taisa]] |
+| [[Pericles|PERICLES]] | (a [[Thaisa|Taisa]])<br>Allora, come siete virtuosa quanto bella,<br>per quanto [[Hope|sperate]] dal cielo o [[Desire|desiderate]]<br>veder compiuto qui nel mondo dai vostri migliori voti,<br>chiarite al vostro adirato padre se la mia lingua<br>mai sollecitò, o la mia mano sottoscrisse<br>una sola sillaba che vi corteggiasse d’[[Love|amore]]. |
+| [[Thaisa|THAISA]] | Ma, signore, e se anche l’aveste fatto,<br>chi s’offende di ciò che mi renderebbe lieta? |
+| [[King|RE]] [[Simonides|SIMONIDES]] | Come, damigella, siete così perentoria?<br>(A parte) Ne son lieto.—È questo un partito adatto a voi?<br>Un vagabondo [[Theseus|Teseo]], nato non sappiamo dove,<br>uno che non ha né [[Blood|sangue]] né merito<br>perché tu lo [[Hope|speri]], o egli stesso pretenda<br>delle tue perfezioni pur la minima concessione. |
+| [[Thaisa|THAISA]] | (inginocchiandosi)<br>Poniamo che la sua nascita fosse bassa: quando la sua vita<br>mostra ch’egli non è tale, pure ha virtù,<br>il fondamento stesso d’ogni nobiltà,<br>bastante a farlo nobile. Vi supplico<br>di ricordare ch’io sono presa d’[[Love|amore]],<br>la potenza del quale [[Love|amore]] non può esser confinata<br>dalla potenza del vostro volere. Regalissimo padre,<br>ciò che con la penna ho scritto in segreto<br>con la lingua ora apertamente confermo:<br>cioè che non ho vita se non nel suo [[Love|amore]],<br>né alcun essere se non nel godere del suo valore. |
+| [[King|RE]] [[Simonides|SIMONIDES]] | Uguali a uguali, il bene al bene s’unisce.<br>Non essendo così, la fascina della vostra mente<br>accesa in avventatezza dev’essere di nuovo spenta,<br>o guadagnare il nostro sdegno.—E quanto a voi, signore,<br>apprendete anzitutto ch’io vi bandisco dalla mia [[Court|corte]],<br>e pure sdegno che la nostra ira si abbassi tanto.<br>Per la vostra [[Ambition|ambizione]], signore, avrò la vostra vita. |
+| [[Thaisa|THAISA]] | (a [[Pericles|Pericle]])<br>Per ogni goccia del vostro [[Blood|sangue]] ch’egli versi<br>ne trarrà un’altra dalla sua unica [[Child|figlia]]. |
+| [[King|RE]] [[Simonides|SIMONIDES]] | Vi domerò, sì, vi ridurrò in soggezione.<br>Volete voi, senza il mio consenso,<br>conferire il vostro [[Love|amore]] e i vostri affetti<br>a uno straniero?—(a parte) il quale per quanto ne so<br>può essere, né posso pensare il contrario,<br>grande di [[Blood|sangue]] quanto me stesso. |
+| *(didascalia)* | Afferra bruscamente [[Thaisa|Taisa]] per la mano |
+| [[King|RE]] [[Simonides|SIMONIDES]] | Perciò udite, signorina: o conformate il vostro volere al<br>mio— |
+| *(didascalia)* | Afferra bruscamente [[Pericles|Pericle]] per la mano |
+| [[King|RE]] [[Simonides|SIMONIDES]] | E voi, signore, udite: o lasciatevi guidare da me—<br>o vi farò |
+| *(didascalia)* | Batte insieme le loro mani marito e moglie. 105 |
+| [[King|RE]] [[Simonides|SIMONIDES]] | Anzi, su, anche le vostre mani e labbra devono suggellarlo,<br>[[Pericles|Pericle]] e [[Thaisa|Taisa]] si baciano<br>e, essendo uniti, così distruggerò le vostre speranze, |
+| *(didascalia)* | Li separa |
+| [[King|RE]] [[Simonides|SIMONIDES]] | E per vostro ulteriore dolore, Dio vi dia gioia. Ebbene, siete contenti? |
+| [[Thaisa|THAISA]] | Sì, (a [[Pericles|Pericle]]) se voi m’[[Love|amate]], signore. |
+| [[Pericles|PERICLES]] | Come la mia vita ama il [[Blood|sangue]] che la nutre. |
+| [[King|RE]] [[Simonides|SIMONIDES]] | Ebbene, siete entrambi d’accordo? |
+| [[Pericles|PERICLES]] | e [[Thaisa|THAISA]] Sì, se piace a vostra maestà. |
+| [[King|RE]] [[Simonides|SIMONIDES]] | Mi piace così [[Well|bene]] che vi vedrò sposati,<br>poi con quanta fretta potete, andatevene a letto. Escono |
+
 
 
 <span class="atom-split" data-atom="scenes--scene_10" data-title="Pericles — Scene 10" data-chapter="Scene 10" data-kind="scene" data-tags="topos/quest,archetype/child,archetype/king,motif/cross,motif/crown,motif/desire,motif/home,motif/horse,motif/marriage,motif/ship,motif/sleep,motif/storm,motif/time,motif/well,concept/fear,concept/imagination,setting/court,setting/ship,character/antiochus,character/gower,character/nurse,character/pericles,character/queen,character/simonides,character/thaisa"></span>
@@ -1363,6 +1777,15 @@ tags:
 | *(didascalia)* | Enter [[Pericles]] and [[Simonides]] at one door with attendants. A messenger comes hastily in to them, kneels, and gives [[Pericles]] a letter. [[Pericles]] shows it [[Simonides]]; the lords kneel to him. Then enter [[Thaisa]] with [[Child\|child]], with Lychorida, a [[Nurse\|nurse]]. The [[King]] shows her the letter. She rejoices. She and [[Pericles]] take leave of her father and depart with I,,ychorida at one door; [[Simonides]] and attendants depart at another |
 | [[Gower\|GOWER]] | By many a dern and painful perch<br>Of [[Pericles]] the care-full search,<br>By the four opposing coigns<br>Which the world together joins,<br>Is made with all due diligence<br>That [[Horse\|horse]] and sail and high expense<br>Can stead the [[Quest\|quest]]. At last from Tyre<br>Fame answering the most strange enquire,<br>To th’ [[Court\|court]] of [[King]] [[Simonides]]<br>Are letters brought, the tenor these:<br>[[Antiochus]] and his daughter dead,<br>The men of Tyrus on the head<br>Of Helicanus would set on<br>The [[Crown\|crown]] of Tyre, but he will none.<br>The mutiny there he hastes t‘appease,<br>Says to ’em if [[King]] [[Pericles]]<br>Come not [[Home\|home]] in twice six moons<br>He, obedient to their dooms,<br>Will take the [[Crown\|crown]]. The sum of this<br>Brought hither to Pentapolis<br>Y-ravishèd the regions round,<br>And everyone with claps can sound<br>‘Our heir-apparent is a [[King\|king]]!<br>Who dreamt, who thought of such a thing?’<br>Brief he must hence depart to Tyre;<br>His [[Queen\|queen]] with [[Child\|child]] makes her [[Desire\|desire]]—<br>Which who shall [[Cross\|cross]]?—along to go.<br>Omit we all their dole and woe.<br>Lychorida her [[Nurse\|nurse]] she takes,<br>And so to sea. Their vessel shakes<br>On Neptune’s billow. Half the flood<br>Hath their keel cut, but fortune’s mood<br>Varies again. The grizzled north<br>Disgorges such a tempest forth<br>That as a duck for life that dives,<br>So up and down the poor [[Ship\|ship]] drives.<br>The lady shrieks, and [[Well\|well]]-a-near<br>Does fall in travail with her [[Fear\|fear]],<br>And what ensues in this fell [[Storm\|storm]]<br>Shall for itself itself perform;<br>I nill relate; action may<br>Conveniently the rest convey,<br>Which might not what by me is told.<br>In your [[Imagination\|imagination]] hold<br>This stage the [[Ship\|ship]], upon whose deck<br>The sea-tossed [[Pericles]] appears to speke. Exit |
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entra [[Gower]] |
+| [[Gower|GOWER]] | Or il [[Sleep|sonno]] ha fiaccato la brigata,<br>nessun fracasso ma russare per la [[house|casa]] intorno,<br>fatto più forte dal petto satollo<br>di questa pomposissima festa di [[Marriage|nozze]].<br>Il gatto con occhi di carbone ardente<br>or s’acquatta innanzi al buco del topo,<br>e i grilli cantano alla bocca del forno<br>tanto più lieti per la loro arsura.<br>Imeneo ha condotto la sposa al letto,<br>dove per la perdita della verginità<br>un bimbo è plasmato. State attenti,<br>e il [[Time|tempo]] che sì brevemente si spende<br>con le vostre belle fantasie leggiadramente accrescete.<br>Ciò che è muto in scena, io lo chiarirò col discorso.<br>Scena muta. |
+| *(didascalia)* | Entrano [[Pericles|Pericle]] e [[Simonides|Simonide]] da una porta con il seguito. Un messaggero entra in fretta da loro, s’inginocchia, e dà a [[Pericles|Pericle]] una lettera. [[Pericles|Pericle]] la mostra a [[Simonides|Simonide]]; i signori s’inginocchiano davanti a lui. Poi entra [[Thaisa|Taisa]] gravida d’un [[Child|figlio]], con Lychorida, una [[Nurse|nutrice]]. Il [[King|re]] le mostra la lettera. Ella gioisce. Ella e [[Pericles|Pericle]] prendono congedo dal padre di lei e partono con I,,ychorida da una porta; [[Simonides|Simonide]] e il seguito partono da un’altra |
+| [[Gower|GOWER]] | Per molta oscura e penosa pertica<br>di [[Pericles|Pericle]] la sollecita ricerca,<br>per i quattro opposti cantoni<br>che il mondo insieme congiungono,<br>è fatta con ogni debita diligenza<br>che [[Horse|cavallo]] e vela e alta spesa<br>possan giovare alla [[Quest|cerca]]. Alfine da Tiro,<br>rispondendo la fama alla stranissima inchiesta,<br>alla [[Court|corte]] del [[King|re]] [[Simonides|Simonide]]<br>son recate lettere, di questo tenore:<br>[[Antiochus|Antioco]] e sua figlia morti,<br>gli uomini di Tiro sul capo<br>d’Helicanus vorrebbero porre<br>la [[Crown|corona]] di Tiro, ma egli non ne vuole.<br>La sedizione colà s’affretta a placare,<br>dice loro che se il [[King|re]] [[Pericles|Pericle]]<br>non torna a [[Home|casa]] in due volte sei lune<br>egli, obbediente ai loro decreti,<br>prenderà la [[Crown|corona]]. La somma di ciò<br>recata qui a Pentapoli<br>rapì di gioia le regioni intorno,<br>e ognuno con applausi sa suonare:<br>‘Il nostro erede designato è [[King|re]]!<br>Chi sognò, chi pensò tal cosa?’<br>In breve, egli deve di qui partire per Tiro;<br>la sua [[Queen|regina]] gravida d’un [[Child|figlio]] fa suo [[Desire|desiderio]]—<br>chi lo [[Cross|contrasterà]]?—d’andar con lui.<br>Ometto ogni loro lutto e pena.<br>Lychorida sua [[Nurse|nutrice]] ella prende,<br>e così al mare. Il loro vascello scuote<br>sul flutto di Nettuno. Metà del mare<br>ha la lor chiglia tagliato, ma l’umore della fortuna<br>muta ancora. Il grigio settentrione<br>vomita fuori tal tempesta<br>che, come un’anatra che s’immerge per la vita,<br>così su e giù la povera [[Ship|nave]] è sospinta.<br>La dama grida, e [[Well|ahimè]]<br>cade nelle doglie per il suo [[Fear|terrore]],<br>e ciò che segue in questa fiera [[Storm|tempesta]]<br>da sé si rappresenterà;<br>io nol narrerò; l’azione può<br>acconciamente il resto trasmettere,<br>cosa che non potrebbe ciò che da me è detto.<br>Nella vostra [[Imagination|immaginazione]] tenete<br>questo palco la [[Ship|nave]], sul cui ponte<br>[[Pericles|Pericle]] sbattuto dal mare appare a parlare. Esce |
 
 
 
@@ -1403,6 +1826,42 @@ tags:
 | [[Pericles\|PERICLES]] | Make for Tarsus.<br>There will I visit [[Cleon]], for the babe<br>Cannot hold out to Tyrus. There I’ll leave it<br>At careful nursing. Go thy ways, good mariner.<br>I’ll bring the [[Body\|body]] presently. |
 | *(didascalia)* | Exit Master at one door and Sailor beneath the hatches. Exit [[Pericles]] to [[Thaisa]], closing the curtains |
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+| Chi parla | Battuta |
+|---|---|
+| [[Pericles|PERICLES]] | Il dio di questa gran vastità rimproveri questi flutti<br>che lavano e cielo e inferno; e tu che hai<br>comando sui venti, legali nel bronzo,<br>avendoli chiamati dall’abisso. Oh acqueta<br>i tuoi assordanti terribili tuoni, spegni dolcemente<br>i tuoi agili lampi sulfurei.—Oh, ehi, Lychorida!<br>Come sta la mia [[Queen|regina]]?—Tu infuri velenosamente.<br>Vuoi sputar tutto te stesso? Il fischio del nocchiero<br>è come un sussurro negli orecchi della [[Death|morte]],<br>inudito.—Lychorida!—Lucina, oh!<br>Divinissima patrona, e gentile levatrice<br>a quelle che gridano di [[Night|notte]], reca la tua deità<br>a bordo della nostra danzante barca, fa’ rapide le doglie<br>del travaglio della mia [[Queen|regina]]!—Ebbene, Lychorida. |
+| *(didascalia)* | Entra Lychorida con una neonata |
+| LYCHORIDA | Ecco una creatura troppo giovane per tal luogo,<br>che, s’avesse intendimento, morrebbe, com’io<br>son per fare. Prendete fra le braccia questo pezzo<br>della vostra morta [[Queen|regina]]. |
+| [[Pericles|PERICLES]] | Come, come, Lychorida? |
+| LYCHORIDA | Pazienza, buon signore, non assecondate la [[Storm|tempesta]].<br>Ecco tutto ciò che resta vivo della vostra [[Queen|regina]]:<br>una figlioletta. Per amor suo<br>siate virile, e prendete conforto. |
+| [[Pericles|PERICLES]] | O voi dèi!<br>Perché ci fate [[Love|amare]] i vostri bei doni,<br>e subito ce li strappate? Noi quaggiù<br>non richiamiamo ciò che diamo, e in ciò possiamo<br>usare [[Honour|onore]] con voi. |
+| LYCHORIDA | Pazienza, buon signore,<br>anche per questo pegno. |
+| *(didascalia)* | Gli dà la neonata. [[Pericles|Pericle]], guardandola mestamente, scuote il capo, e piange |
+| [[Pericles|PERICLES]] | Or mite sia la tua vita,<br>ché nascita più burrascosa mai ebbe bimbo;<br>quieta e gentile la tua indole, ché<br>tu sei la più rudemente accolta in questo mondo<br>che mai fosse [[Child|figlia]] di principe; felice ciò che segue.<br>Hai una natività tanto rampognante<br>quanto [[Fire|fuoco]], aria, [[Water|acqua]], terra e cielo possan fare<br>per annunziarti dal grembo. Povero pollice di [[Nature|natura]],<br>fin dal principio la tua perdita è più di quanto<br>la tua parte possa compensare con tutto ciò che qui trovi.<br>Or gettino i buoni dèi i loro occhi migliori su di lei. |
+| *(didascalia)* | Entrano il Padrone e un Marinaio |
+| *(didascalia)* | IL PADRONE Su, [[Courage|coraggio]], signore! Dio vi salvi. |
+| [[Pericles|PERICLES]] | [[Courage|Coraggio]] a sufficienza, non [[Fear|temo]] la raffica;<br>m’ha fatto il suo peggio. Pure per l’[[Love|amore]]<br>di questa povera neonata, questa nuova navigante,<br>vorrei che si acquetasse. |
+| *(didascalia)* | IL PADRONE (chiamando) Allentate le bugne di prua, là.—Non vuoi, eh? Soffia, e spaccati. |
+| MARINAIO | Purché ci sia spazio di mare, e bacino pure la salamoia e il flutto nuvoloso la [[Moon|luna]], non me ne curo. |
+| *(didascalia)* | IL PADRONE (a [[Pericles|Pericle]]) Signore, la vostra [[Queen|regina]] deve andare fuori bordo. Il mare monta alto, il [[Wind|vento]] è forte, e non si placherà finché la [[Ship|nave]] non sia sgombra dei morti. |
+| [[Pericles|PERICLES]] | Questa non è che vostra superstizione. |
+| *(didascalia)* | IL PADRONE Perdonateci, signore; fra noi in mare è stato sempre osservato, e siamo tenaci nell’usanza. Perciò cedetela in breve, ché deve andar subito fuori bordo. |
+| [[Pericles|PERICLES]] | Come vi par conveniente. Infelicissima [[Queen|regina]]! |
+| LYCHORIDA | Qui ella giace, signore. |
+| *(didascalia)* | Ella tira le cortine e scopre il [[Body|corpo]] di [[Thaisa|Taisa]] in un letto. [[Pericles|Pericle]] dà a Lychorida la neonata |
+| [[Pericles|PERICLES]] | (a [[Thaisa|Taisa]])<br>Un terribile parto hai avuto, mia cara,<br>nessuna luce, nessun [[Fire|fuoco]]. Gli ostili elementi<br>t’han del tutto scordata, né io ho [[Time|tempo]]<br>di darti consacrata alla tua [[Grave|tomba]], ma subito<br>devo gettarti, appena chiusa in bara, nella melma,<br>dove, per monumento sulle tue ossa<br>e per lampade perpetue, la balena ruttante<br>e l’[[Water|acqua]] mormorante dovranno sommergere il tuo corpo,<br>giacente fra semplici shetts.—O Lychorida,<br>di’ a Nestor di portarmi spezie, inchiostro e carta,<br>il mio scrigno e i miei gioielli, e di’ a Nicander<br>di portarmi la cassa di raso. Posa la bimba<br>sul guanciale. Affrettati mentre io dico<br>un sacerdotale addio a lei. Subito, donna. |
+| *(didascalia)* | Esce Lychorida |
+| *(didascalia)* | IL MARINAIO Signore, abbiamo sotto i boccaporti una cassa calafatata e impeciata, pronta. |
+| *(didascalia)* | Ti ringrazio. Al Padrone Marinaio, di’: qual è questa costa? |
+| *(didascalia)* | IL PADRONE |
+| [[Pericles|PERICLES]] | Siamo presso Tarso. |
+| [[Pericles|PERICLES]] | Là, gentile marinaio, |
+| *(didascalia)* | muta la tua rotta da Tiro. Quando puoi raggiungerla? IL PADRONE |
+| [[Pericles|PERICLES]] | Allo spuntar del giorno, se il [[Wind|vento]] cessa. |
+| [[Pericles|PERICLES]] | Fa’ vela per Tarso.<br>Là visiterò [[Cleon|Cleone]], ché la bimba<br>non può reggere fino a Tiro. Là la lascerò<br>a sollecito allevamento. Va’ pure, buon marinaio.<br>Porterò il [[Body|corpo]] fra poco. |
+| *(didascalia)* | Esce il Padrone da una porta e il Marinaio sotto i boccaporti. Esce [[Pericles|Pericle]] verso [[Thaisa|Taisa]], chiudendo le cortine |
 
 
 
@@ -1467,6 +1926,65 @@ tags:
 | CERIMON | Hush, gentle neighbours. Lend me your hands. To the next chamber bear her. Get linen. Now this matter must be looked to, For her relapse is mortal. Come, come, And Aesculapius guide us. They carry her away. Exeunt |
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entra il signor Cerimon con un pover’uomo e un servo |
+| CERIMON | Philemon, ehi! |
+| *(didascalia)* | Entra Philemon |
+| PHILEMON | Chiama il mio signore? |
+| CERIMON | Procura [[Fire|fuoco]] e cibo per quei poveri uomini. |
+| *(didascalia)* | Esce Philemon |
+| CERIMON | È stata una [[Night|notte]] turbolenta e tempestosa. |
+| SERVO | Molte ne ho vedute, ma una [[Night|notte]] come questa<br>fino ad ora mai la sopportai. |
+| CERIMON | Il vostro padrone sarà morto prima che torniate.<br>Non v’è nulla che si possa somministrare in [[Nature|natura]] |
+| *(didascalia)* | che lo possa risanare. Al pover’uomo Dà questo allo |
+| CERIMON | speziale<br>e dimmi come opera. |
+| *(didascalia)* | Escono il pover’uomo e il servo |
+| *(didascalia)* | Entrano due Gentiluomini |
+| PRIMO GENTILUOMO | Buon giorno. |
+| SECONDO GENTILUOMO | Buon giorno a vostra signoria. |
+| CERIMON | Gentiluomini,<br>perché siete in moto sì presto? |
+| PRIMO GENTILUOMO | Signore,<br>i nostri alloggi, esposti e nudi sul mare,<br>tremarono come se la terra sussultasse.<br>Le travi maestre stesse parevano schiantarsi<br>e tutto crollare. Puro sbigottimento e [[Fear|paura]]<br>mi fecero lasciar la [[house|casa]]. |
+| SECONDO GENTILUOMO | Questa è la causa per cui vi disturbiamo sì presto;<br>non è nostra parsimonia. |
+| CERIMON | Oh, dite [[Well|bene]]. |
+| PRIMO GENTILUOMO | Ma assai mi meraviglio che vostra signoria,<br>avendo ricco arredo intorno a sé, a quest’ora<br>scuota via l’aureo sonno del riposo. È cosa assai<br>strana,<br>che la [[Nature|Natura]] sia sì familiare col [[Pain|dolore]],<br>non essendovi costretta. |
+| CERIMON | Ho sempre tenuto<br>che virtù e sapere fossero doti maggiori<br>che nobiltà e ricchezze. Eredi incuranti<br>possono le due ultime oscurare e dissipare,<br>ma l’[[Immortality|immortalità]] accompagna le prime,<br>facendo d’un uomo un dio. È noto ch’io sempre<br>ho studiato medicina, per la quale segreta arte,<br>volgendo e rivolgendo le autorità, ho,<br>insieme con la mia pratica, reso familiari<br>a me e in mio aiuto le benedette infusioni<br>che dimorano nei vegetali, nei metalli, nelle pietre,<br>e così posso parlare dei turbamenti<br>che la [[Nature|natura]] opera, e delle sue cure; il che mi<br>dà<br>maggior contento e ragione di vero diletto<br>che l’aver sete di vacillante [[Honour|onore]],<br>o legare il mio piacere in sacchi di seta<br>per rallegrare lo [[Fool|sciocco]] e la [[Death|morte]]. |
+| SECONDO GENTILUOMO | Il vostro [[Honour|onore]] ha<br>per Efeso riversato la vostra [[Charity|carità]],<br>e centinaia si dicono vostre creature, che per<br>voi<br>sono state risanate. E non [[Alone|solo]] il vostro sapere,<br>la vostra personale [[Pain|fatica]], ma persino la vostra borsa sempre aperta<br>ha edificato al signor Cerimon sì salda fama<br>che il [[Time|tempo]] mai— |
+| *(didascalia)* | Entrano Philemon e uno o due con una cassa |
+| *(didascalia)* | PHILEMON Su, sollevate là. |
+| *(didascalia)* | CERIMON Che cos’è? PHILEMON Signore, proprio ora |
+| SECONDO GENTILUOMO | il mare ha gettato sulla nostra riva questa cassa.<br>Viene da qualche naufragio. |
+| CERIMON | Posatela. Guardiamola. |
+| SECONDO GENTILUOMO | Somiglia a una bara, signore. |
+| CERIMON | Qualunque cosa sia,<br>è meravigliosamente pesante.—Il mare l’ha gettata a riva? |
+| *(didascalia)* | PHILEMON |
+| CERIMON | Mai vidi flutto sì immane, signore,<br>né più violento. |
+| CERIMON | Forzatela subito ad aprirsi.<br>Gli altri si mettono all’opera<br>Se lo stomaco del mare è sovraccarico d’oro<br>è per buona costrizione di nauseata fortuna<br>ch’esso ce lo rigetta addosso. |
+| SECONDO GENTILUOMO | È così, mio signore. |
+| CERIMON | Com’è strettamente calafatata e impeciata! |
+| *(didascalia)* | Forzano il coperchio |
+| CERIMON | Piano, ha odore<br>dolcissimo al mio senso. |
+| SECONDO GENTILUOMO | Un odore delicato. |
+| CERIMON | Come mai colpì la mia narice. Su, sollevatelo.<br>Tolgono il coperchio<br>O voi potentissimi dèi! Che c’è qui—un cadavere? |
+| SECONDO GENTILUOMO | Stranissimo. |
+| CERIMON | Avvolta in drappo regale, e coronata,<br>imbalsamata e arricchita di pieni sacchi di spezie.<br>Anche un salvacondotto!<br>Prende un foglio dalla cassa<br>[[Apollo]] mi renda perfetto nei caratteri.<br>‘Qui do a intendere,<br>se mai questa bara approdi a terra,<br>ch’io, [[King|re]] [[Pericles|Pericle]], ho perduto<br>questa [[Queen|regina]] che val tutto il nostro mondano tesoro.<br>Chi la trova, le dia sepoltura;<br>ella fu figlia d’un [[King|re]].<br>Oltre questo tesoro per mercede,<br>gli dèi ricompensino la sua [[Charity|carità]].’<br>Se vivi, [[Pericles|Pericle]], hai un cuore<br>che addirittura si spezza per il dolore. Ciò avvenne stanotte. |
+| SECONDO GENTILUOMO | Assai probabile, signore. |
+| CERIMON | Anzi, certamente stanotte,<br>ché guardate com’ella appare fresca. Furon troppo avventati<br>quelli che la gettarono in mare. Fate un [[Fire|fuoco]] là dentro. |
+| *(didascalia)* | Portate qua tutte le mie scatole nel mio stanzino. Esce Philemon |
+| CERIMON | La [[Death|Morte]] può usurpare sulla [[Nature|natura]] molte ore,<br>e pure il [[Fire|fuoco]] della vita riaccendere<br>gli spiriti oppressi. Ho udito<br>d’un Egizio morto da nove ore<br>che fu con buoni rimedi risanato. |
+| *(didascalia)* | Entra Philemon con panni e [[Fire|fuoco]] |
+| CERIMON | [[Well|Ben]] detto, [[Well|ben]] detto: il [[Fire|fuoco]] e i panni.<br><br>La quieta e dolente musica che abbiamo,<br>fatela suonare, ve ne prego. |
+| *(didascalia)* | Musica |
+| CERIMON | La fiala ancora una volta.<br>Come ti muovi, ceppo! La musica, là!<br>Vi prego, datele aria. Gentiluomini,<br>questa [[Queen|regina]] vivrà. La [[Nature|Natura]] si desta, un tepore<br>spira da lei. Non è stata in sopore<br>più di cinque ore. Vedete come comincia a sbocciare<br>di nuovo nel fiore della vita. |
+| PRIMO GENTILUOMO | I cieli<br>per voi accrescono la nostra [[Wonder|meraviglia]], e innalzano<br>la vostra fama per sempre. |
+| CERIMON | Ella è viva. Guardate,<br>le sue palpebre, custodie di quei celesti gioielli<br>che [[Pericles|Pericle]] ha perduto,<br>cominciano a schiudere le lor frange d’oro splendente.<br>I diamanti d’[[Water|acqua]] lodatissima<br>appaiono a far due volte ricco il mondo.—Vivi,<br>e facci piangere a udire la tua sorte, bella creatura,<br>rara come sembri essere.<br>Ella si muove |
+| [[Thaisa|THAISA]] | O cara [[Diana]],<br>dove sono? Dov’è il mio signore? Che mondo è questo? |
+| SECONDO GENTILUOMO | Non è cosa strana? |
+| PRIMO GENTILUOMO | Rarissima. |
+| CERIMON | Zitti, gentili vicini. Datemi le vostre mani. Portatela nella camera vicina. Procurate biancheria. Ora questa faccenda va sorvegliata, ché la sua ricaduta è mortale. Venite, venite, e Esculapio ci guidi. La portano via. Escono |
+
 
 
 <span class="atom-split" data-atom="scenes--scene_13" data-title="Pericles — Scene 13" data-chapter="Scene 13" data-kind="scene" data-tags="archetype/child,motif/nature,motif/tears,concept/body,concept/charity,concept/fear,concept/honour,concept/nature,concept/revenge,character/cleon,character/diana,character/dionyza,character/marina,character/pericles,character/queen"></span>
@@ -1487,6 +2005,22 @@ tags:
 | [[Pericles\|PERICLES]] | I will embrace your offer.—Come, dear’st madam.—<br>O, no [[Tears\|tears]], Lychorida, no [[Tears\|tears]].<br>Look to your little mistress, on whose grace<br>You may depend hereafter.—Come, my lord. Exeunt |
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entra [[Pericles|Pericle]] a Tarso, con [[Cleon|Cleone]] e [[Dionyza|Dionisa]], e Lychorida con una bimba |
+| [[Pericles|PERICLES]] | Onoratissimo [[Cleon|Cleone]], devo per forza partire.<br>I miei dodici mesi son scaduti, e Tiro sta<br>in litigiosa pace. Voi e la vostra signora<br>prendete dal mio cuore ogni gratitudine. Gli dèi<br>compiano su voi il resto! |
+| [[Cleon|CLEON]] | I vostri colpi di fortuna, benché feriscano voi mortalmente, pure rimbalzano assai dolorosamente su noi. |
+| [[Dionyza|DIONYZA]] | Oh la vostra dolce [[Queen|regina]]!<br>Fosse piaciuto ai severi fati che l’aveste condotta<br>qua<br>per benedire con lei i miei occhi! |
+| [[Pericles|PERICLES]] | Non possiamo che obbedire<br>alle potenze sopra di noi. S’io infuriassi e ruggissi<br>come fa il mare in cui ella giace, pure la fine<br>dev’essere qual è. La mia gentile bimba [[Marina]],<br>che, perché nacque in mare, ho così nominata,<br>qui affido alla vostra [[Charity|carità]], e la lascio<br>creatura delle vostre cure, supplicandovi<br>di darle principesca educazione, ch’ella possa essere<br>nei modi qual è per nascita. |
+| [[Cleon|CLEON]] | Non [[Fear|temete]], mio signore, ma pensate<br>che vostra grazia, che nutrì il mio paese col vostro grano—<br>per il che le preghiere del popolo cadono ancora su voi—<br>dev’essere ricordata nella vostra [[Child|figlia]]. Se negligenza<br>in ciò mi rendesse vile, il comune [[Body|corpo]]<br>da voi soccorso mi costringerebbe al mio dovere.<br>Ma se a ciò la mia [[Nature|natura]] avesse bisogno di sprone,<br>gli dèi lo [[Revenge|vendichino]] su me e sui miei<br>fino alla fine della generazione. |
+| [[Pericles|PERICLES]] | Vi credo.<br>Il vostro [[Honour|onore]] e la vostra bontà me lo insegnano<br>senza i vostri voti.—Finché ella non sia maritata, signora,<br>per la fulgida [[Diana]], che tutti [[Honour|onoriamo]],<br>non tosati resteranno questi miei capelli,<br>benché io ne appaia malconcio. Così prendo congedo.<br>Buona signora, rendetemi beato con la vostra cura<br>nell’allevare mia [[Child|figlia]]. |
+| [[Dionyza|DIONYZA]] | Ne ho una io stessa,<br>che non sarà più cara al mio riguardo<br>della vostra, mio signore. |
+| [[Pericles|PERICLES]] | Signora, i miei ringraziamenti e le mie preghiere. |
+| [[Cleon|CLEON]] | Accompagneremo vostra grazia fin sull’orlo della riva,<br>poi vi consegneremo all’alberato Nettuno e<br>ai più gentili venti del cielo. |
+| [[Pericles|PERICLES]] | Accetterò la vostra offerta.—Venite, carissima signora.—<br>Oh, niente [[Tears|lacrime]], Lychorida, niente [[Tears|lacrime]].<br>Bada alla tua piccola padrona, dalla cui grazia<br>potrai dipendere in avvenire.—Venite, mio signore. Escono |
+
 
 
 <span class="atom-split" data-atom="scenes--scene_14" data-title="Pericles — Scene 14" data-chapter="Scene 14" data-kind="scene" data-tags="archetype/king,motif/time,motif/well,character/diana,character/pericles,character/thaisa"></span>
@@ -1500,6 +2034,16 @@ tags:
 | CERIMON | Madam, if this you purpose as ye speak,<br>[[Diana]]’s temple is not distant far,<br>Where till your date expire you may abide.<br>Moreover, if you please a niece of mine<br>Shall there attend you. |
 | [[Thaisa\|THAISA]] | My recompense is thanks, that’s all,<br>Yet my good will is great, though the gift small. Exeunt |
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entrano Cerimon e [[Thaisa|Taisa]] |
+| CERIMON | Signora, questa lettera e certi gioielli<br>giacevano con voi nel vostro scrigno, e tutti sono<br>a vostro comando. Riconoscete la scrittura? |
+| [[Thaisa|THAISA]] | È del mio signore. Ch’io fossi imbarcata in mare<br>[[Well|ben]] ricordo, proprio al mio [[Time|tempo]] di partorire,<br>ma se là abbia partorito, per gli dèi santi<br>non so dire con certezza. Ma poiché il [[King|re]] [[Pericles|Pericle]],<br>il mio sposo signore, mai più rivedrò,<br>a livrea di vestale mi consacrerò,<br>e mai più avrò gioia. |
+| CERIMON | Signora, se questo proponete come dite,<br>il tempio di [[Diana]] non è lontano,<br>dove finché il vostro termine scada potrete dimorare.<br>Inoltre, se vi piace, una mia nipote<br>là vi assisterà. |
+| [[Thaisa|THAISA]] | Il mio compenso è il grazie, null’altro;<br>pure il mio buon volere è grande, benché il dono sia piccolo. Escono |
 
 
 
@@ -1556,6 +2100,58 @@ tags:
 | LEONINE | These roguing thieves serve the great pirate Valdes.<br>An they have seized [[Marina]], let her go.<br>There’s no [[Hope\|hope]] she’ll return. I’ll swear she’s dead<br>And thrown into the sea; but I’ll see further.<br>Perhaps they will but please themselves upon her,<br>Not carry her aboard. If she remain,<br>Whom they have ravished must by me be slain. |
 | *(didascalia)* | Exit. The tomb is concealed |
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entra [[Gower]] |
+| [[Gower|GOWER]] | Immaginate [[Pericles|Pericle]] giunto a Tiro,<br>accolto e assiso a suo [[Desire|desiderio]].<br>La sua dolente [[Queen|regina]] lasciamo a Efeso,<br>là votata a [[Diana]] qual sacerdotessa.<br>Or a [[Marina]] volgete la mente,<br>che la nostra scena rapida crescente<br>a Tarso deve trovare, da [[Cleon|Cleone]] educata<br>in musica e in lettere; ella ha guadagnato<br>dell’[[Education|educazione]] tutta la grazia,<br>il che la fa e il cuore e il luogo<br>della [[Wonder|meraviglia]] universale. Ma, ahimè,<br>quel [[Monster|mostro]] dell’invidia, spesso rovina<br>di lode meritata, la vita di [[Marina]]<br>cerca di togliere col coltello del tradimento;<br>e in tal genere il nostro [[Cleon|Cleone]] ha<br>una figlia, fanciulla già cresciuta<br>e matura al rito di [[Marriage|nozze]]. Questa fanciulla<br>si chiama Filotena, e si dice<br>per certo nella nostra storia ch’ella<br>sempre con [[Marina]] stava,<br>sia quando tessevano la seta sfilata<br>con dita lunghe, sottili, bianche come latte;<br>o quando con acuto ago feriva<br>la batista, che rendeva più salda<br>col ferirla; o quando al liuto<br>cantava, e faceva muto l’uccello della [[Night|notte]],<br>che sempre gorgheggia con lamento; o quando<br>con ricca e costante penna<br>rendeva omaggio alla sua signora Diana. Sempre<br>questa Filotena contende in perizia<br>con la perfetta [[Marina]]; così<br>con la colomba di Pafo potrebbe la cornacchia<br>gareggiar di penne bianche. [[Marina]] ottiene<br>tutte le lodi che son pagate come debiti,<br>e non come donate. Ciò tanto oscura<br>in Filotena ogni graziosa impronta<br>che la moglie di [[Cleon|Cleone]] con rara invidia<br>prepara un immediato assassinio<br>per la buona [[Marina]], perché sua figlia<br>possa restar senza pari per questa strage.<br>Tanto prima a servire i suoi vili pensieri,<br>Lychorida, la nostra [[Nurse|nutrice]], è morta, |
+| *(didascalia)* | Si scopre una tomba |
+| [[Gower|GOWER]] | e la maledetta [[Dionyza|Dionisa]] ha<br>il pronto strumento d’ira<br>arruolato per questo colpo. L’evento [[unborn|non nato]]<br>io affido al vostro compiacimento;<br>solo che porto il [[Time|Tempo]] alato<br>in posta sui piedi zoppi della mia rima,<br>il che mai potrei così trasmettere<br>se i vostri pensieri non andassero per la mia via. |
+| *(didascalia)* | Entrano [[Dionyza|Dionisa]] con Leonine |
+| [[Gower|GOWER]] | [[Dionyza|Dionisa]] appare,<br>con Leonine, un assassino. Esce |
+| [[Dionyza|DIONYZA]] | Ricorda il tuo giuramento. Hai giurato di farlo.<br>Non è che un colpo, che mai sarà risaputo.<br>Non puoi far cosa al mondo sì presto<br>che ti renda tanto profitto. Non lasciare che la [[Conscience|coscienza]],<br>che non è che fredda, o il vezzeggiante [[Love|amore]], il tuo petto<br>disinfiammi troppo scrupolosamente, né lasciare che la pietà, che<br>persino le donne han rigettata, t’intenerisca; ma sii<br>soldato al tuo proposito. |
+| LEONINE | Lo farò;<br>eppure ella è una bella creatura. |
+| [[Dionyza|DIONYZA]] | Tanto più conviene dunque che l’abbiano gli dèi. |
+| *(didascalia)* | Entra [[Marina]] verso la tomba con un cesto di [[Flowers|fiori]] |
+| [[Dionyza|DIONYZA]] | Eccola che viene, piangendo la [[Death|morte]] della sua unica [[Nurse|nutrice]].<br>Sei risoluto. |
+| LEONINE | Sono risoluto. |
+| [[Marina|MARINA]] | No, spoglierò Tellure della sua veste<br>per cospargere di fiori la tua [[Grave|tomba]]. I gialli, gli azzurri,<br>le violette purpuree e le calendole<br>penderanno come un tappeto sulla tua tomba<br>finché durino i giorni d’[[Summer|estate]]. Ahimè, povera fanciulla,<br>nata in una tempesta quando mia madre morì:<br>questo mondo per me non è che una [[Storm|tempesta]] incessante<br>che turbinando mi strappa dai miei cari. |
+| [[Dionyza|DIONYZA]] | Ebbene, [[Marina]], perché ve ne state [[Alone|sola]]?<br>Come mai mia figlia non è con voi?<br>Non consumate il vostro [[Blood|sangue]] col dolervi.<br>Abbiate me per [[Nurse|nutrice]]. Signore, come il vostro volto<br>è mutato con questa inutile pena!<br>Datemi i vostri [[Flowers|fiori]]. Su, lungo il margine del mare<br>passeggiate con Leonine. L’aria è pungente là,<br>e viva; aguzza l’appetito. Su, Leonine,<br>prendila per il braccio. Passeggia con lei. |
+| [[Marina|MARINA]] | No, vi prego,<br>non vi priverò del vostro servo. |
+| [[Dionyza|DIONYZA]] | Su, su,<br>io [[Love|amo]] il [[King|re]] vostro padre e voi stessa<br>con più che straniero cuore. Ogni giorno<br>l’attendiamo qui. Quando verrà e troverà<br>il nostro modello, a dispetto d’ogni fama, così avvizzito,<br>si pentirà dell’ampiezza del suo gran viaggio,<br>biasimerà e il mio signore e me, che non abbiamo avuto<br>cura del vostro miglior regime. Andate, vi prego,<br>passeggiate e siate di nuovo lieta; riprendete<br>quel colorito eccellente che rubava<br>gli occhi di giovani e vecchi. Non pensate a me.<br>Posso tornare a [[Home|casa]] [[Alone|sola]]. |
+| [[Marina|MARINA]] | [[Well|Ebbene]], andrò,<br>ma in verità non ne ho [[Desire|desiderio]]. |
+| [[Dionyza|DIONYZA]] | Anzi, so ch’è buono per voi. Passeggiate mezz’ora,<br>Leonine, almeno; ricorda<br>ciò che ho detto. |
+| LEONINE | Ve ne rispondo, signora. |
+| [[Dionyza|DIONYZA]] | (a [[Marina]])<br>Vi lascio, mia dolce signora, per un poco.<br>Vi prego, camminate piano, non scaldate il vostro [[Blood|sangue]].<br>Ecco, devo aver cura di voi! |
+| [[Marina|MARINA]] | Grazie, dolce signora. |
+| *(didascalia)* | Esce [[Dionyza|Dionisa]] |
+| [[Marina|MARINA]] | È di ponente questo [[Wind|vento]] che soffia? |
+| LEONINE | Di libeccio. |
+| [[Marina|MARINA]] | Quando nacqui il [[Wind|vento]] era di tramontana. |
+| LEONINE | Era così? [[Marina|MARINA]]<br>Mio padre, come dice la [[Nurse|nutrice]], mai [[Fear|temette]],<br>ma gridava ‘Buoni marinai’ ai naviganti,<br>scorticandosi le regali mani a tirar le gomene,<br>e, stringendosi all’albero, sostenne un mare<br>che quasi spezzò il ponte. |
+| LEONINE | Quando fu questo? |
+| [[Marina|MARINA]] | Quando nacqui.<br>Mai furon onde né [[Wind|vento]] più violenti.<br>A un tratto dalla scala di sartie è spazzato via<br>un gabbiere. ‘Ah!’ dice uno, ‘vuoi uscirne?’<br>E con gocciolante operosità saltano<br>da prua a poppa. Il nostromo fischia, e<br>il padrone chiama e triplica la loro confusione. |
+| LEONINE | Su, dite le vostre preghiere. |
+| [[Marina|MARINA]] | Che intendete? |
+| LEONINE | Se chiedete un breve spazio per la [[Prayer|preghiera]]<br>ve lo concedo. Pregate, ma non siate tediosa.<br>Gli dèi hanno orecchio pronto, e io ho giurato<br>di far la mia opera in fretta. |
+| [[Marina|MARINA]] | Perché volete uccidermi? |
+| LEONINE | Per soddisfare la mia signora. |
+| [[Marina|MARINA]] | Perché vorrebbe farmi uccidere? Ora, per quanto posso ricordare, in fede mia<br>mai le feci male in tutta la mia vita.<br>Mai dissi cattiva parola, né feci mal tiro<br>ad alcuna creatura vivente. Credetemi, via.<br>Mai uccisi un topo né feci male a una mosca.<br>Calpestai una volta un verme contro mia voglia,<br>ma ne piansi. In che ho offeso,<br>onde la mia [[Death|morte]] possa recarle alcun profitto<br>o la mia vita comportarle pericolo? |
+| LEONINE | Il mio mandato<br>non è ragionare dell’atto, ma farlo. |
+| [[Marina|MARINA]] | Non lo farete per tutto il mondo, [[Hope|spero]].<br>Siete di [[Well|bell]]’aspetto, e il vostro viso presagisce<br>che avete cuore gentile. Vi vidi di recente<br>quando vi feriste nel separare due che combattevano.<br>In buona fede, vi stette [[Well|bene]]. Fate così ora.<br>La vostra signora cerca la mia vita. Frapponetevi voi,<br>e salvate me poveretta, la più debole. |
+| *(didascalia)* | LEONINE sguainando la sua [[Sword|spada]] Ho giurato, |
+| [[Marina|MARINA]] | e sbrigherò. |
+| *(didascalia)* | Entrano dei Pirati di corsa |
+| PRIMO PIRATA | Ferma, [[Villain|furfante]]. |
+| *(didascalia)* | Leonine fugge e si nasconde dietro la tomba |
+| SECONDO PIRATA | Una preda, una preda. |
+| TERZO PIRATA | Metà per uno, compagni, metà per uno. Su, portiamola a bordo subito. |
+| *(didascalia)* | Escono i Pirati portando [[Marina]] |
+| *(didascalia)* | Leonine torna furtivo |
+| LEONINE | Questi ladri vagabondi servono il gran pirata Valdes.<br>E se hanno preso [[Marina]], lasciamola andare.<br>Non v’è [[Hope|speranza]] ch’ella torni. Giurerò ch’è morta<br>e gettata in mare; ma indagherò oltre.<br>Forse si compiaceranno solo di lei,<br>e non la porteranno a bordo. Se resta,<br>colei che hanno violata dovrà da me esser uccisa. |
+| *(didascalia)* | Esce. La tomba viene nascosta |
 
 
 
@@ -1634,6 +2230,79 @@ tags:
 | *(didascalia)* | Exeunt. The sign is removed |
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+| Chi parla | Battuta |
+|---|---|
+| RUFFIANO | Boult. |
+| BOULT | Signore. |
+| RUFFIANO | Perlustra il mercato da presso. Mitilene è piena di galanti. Perdiamo troppo denaro in questa fiera per mancanza di ragazze. |
+| MEZZANA | Mai fummo tanto sprovvisti di creature. Non ne abbiamo che tre misere, e non possono far più di quel che possono, e con la continua fatica sono ormai buone come marce. |
+| RUFFIANO | Perciò procuriamocene di fresche, a qualunque prezzo le paghiamo. Se non v’è una [[Conscience|coscienza]] da usarsi in ogni mestiere, non prospereremo mai. |
+| MEZZANA | Dici il vero. Non è il nostro allevare poveri bastardi—come credo d’averne allevati una undicina— |
+| BOULT | Sì, fino a undici anni, e poi rimessi giù. Ma devo perlustrare il mercato? |
+| MEZZANA | E che altro, uomo? La roba che abbiamo, un forte [[Wind|vento]] la spazzerà a pezzi, tanto son miseramente lesse. |
+| RUFFIANO | Dici il vero. Sono troppo malsane, sulla mia [[Conscience|coscienza]]. Il povero transilvano è morto, quello che giacque con la piccola sgualdrinella. |
+| BOULT | Sì, presto l’ha spacciato, ne fece arrosto per i vermi. Ma andrò a perlustrare il mercato. Esce |
+| RUFFIANO | Tre o quattro mila zecchini sarebbero una bella somma per vivere quieti, e così smettere. |
+| MEZZANA | Perché smettere, di grazia? È forse vergogna guadagnare quando siamo vecchi? |
+| RUFFIANO | Oh, il nostro credito non entra come la merce, né la merce compensa il rischio. Perciò, se in gioventù potessimo mettere insieme un discreto patrimonio, non sarebbe male tenere la nostra porta socchiusa. Inoltre, i duri conti che abbiamo in sospeso con gli dèi saran forti argomenti per smettere. |
+| MEZZANA | Via, altre categorie offendono [[Well|altrettanto]] quanto noi. RUFFIANO [[Well|Altrettanto]] quanto noi? Sì, e anche meglio; noi offendiamo peggio. Né la nostra professione è un’arte, non è una vocazione. Ma ecco che viene Boult. |
+| *(didascalia)* | Entra Boult con i Pirati e [[Marina]] |
+| *(didascalia)* | BOULT ai Pirati Venite avanti, padroni miei; dite ch’è vergine? |
+| MEZZANA | UN PIRATA Oh signore, non ne [[Doubt|dubitiamo]]. |
+| BOULT | (al Ruffiano) Padrone, ho concluso l’affare per questo pezzo che vedete. Se vi piace, bene; se no, ho perduto la mia caparra. |
+| MEZZANA | Boult, ha qualche qualità? |
+| BOULT | Ha un bel viso, parla [[Well|bene]], e ha ottimi abiti. Non c’è ulteriore necessità di qualità che possa farla rifiutare. |
+| MEZZANA | Qual è il suo prezzo, Boult? |
+| BOULT | Non posso calare d’un quattrino da cento sesterzi. |
+| RUFFIANO | (ai Pirati) [[Well|Bene]], seguitemi, padroni miei. Avrete il vostro denaro subito. (Alla Mezzana) Moglie, portala dentro, istruiscila su ciò che deve fare, ch’ella non sia rozza nel suo accogliere. |
+| *(didascalia)* | Escono il Ruffiano e i Pirati |
+| MEZZANA | Boult, prendi i suoi connotati: il colore dei capelli, la carnagione, la statura, l’età, con garanzia della sua verginità, e grida ‘Chi darà di più l’avrà per primo.’ Una tal verginità non sarebbe cosa da poco se gli uomini fossero quali sono stati. Fa’ questo come ti comando. |
+| BOULT | L’esecuzione seguirà. Esce |
+| [[Marina|MARINA]] | Ahimè che Leonine fosse sì fiacco, sì lento.<br>Doveva colpire, non parlare; o che questi pirati,<br>non abbastanza barbari, m’avessero gettata fuori bordo<br>a cercare mia madre. |
+| MEZZANA | Perché ti lamenti, bellina? |
+| [[Marina|MARINA]] | Che sono bella. |
+| MEZZANA | Via, gli dèi han fatto la loro parte in te. |
+| [[Marina|MARINA]] | Non li accuso. |
+| MEZZANA | Sei capitata nelle mie mani, dove è probabile che tu viva. |
+| [[Marina|MARINA]] | Tanto maggiore la mia colpa<br>d’esser sfuggita alle mani di lui, dove era probabile ch’io morissi. |
+| MEZZANA | Sì, e vivrai nel piacere. |
+| [[Marina|MARINA]] | No. |
+| MEZZANA | Sì, certo che vivrai, e assaggerai gentiluomini d’ogni foggia. Starai [[Well|bene]]. Avrai la varietà di tutte le carnagioni. Ma come, ti turi gli orecchi? |
+| [[Marina|MARINA]] | Siete voi una donna? |
+| MEZZANA | E che vorresti ch’io fossi, se non sono una donna? |
+| [[Marina|MARINA]] | Una donna onesta, o non una donna. |
+| MEZZANA | Per la Madonna, frustate la papera! Credo che avrò da fare con te. Vieni, sei un giovane virgulto sciocco, e devi esser piegato come ti voglio io. |
+| [[Marina|MARINA]] | Gli dèi mi difendano! |
+| MEZZANA | Se piace agli dèi difenderti per mezzo d’uomini, allora gli uomini devono consolarti, gli uomini devono nutrirti, gli uomini devono scuoterti. |
+| *(didascalia)* | Entra Boult |
+| MEZZANA | Ora, messere, l’hai bandita per tutto il mercato? BOULT L’ho bandita quasi fino al numero dei suoi capelli.<br>Ho disegnato il suo ritratto con la voce. |
+| MEZZANA | E dimmi, ti prego, come trovi l’inclinazione della gente, specialmente dei più giovani? |
+| BOULT | In [[Faith|fede]], m’ascoltarono come avrebbero ascoltato il testamento dei loro padri. A uno spagnolo venne l’acquolina in bocca mentre andava a letto alla sola descrizione di lei. |
+| MEZZANA | L’avremo qui domani con la sua migliore gorgiera. |
+| BOULT | Stanotte, stanotte. Ma padrona, conoscete il cavaliere francese che si piega sulle anche? |
+| MEZZANA | Chi, monsieur Veroles? |
+| BOULT | Sì, lui. Volle fare una capriola alla proclamazione, ma ne trasse un gemito, e giurò che l’avrebbe veduta domani. |
+| MEZZANA | [[Well|Bene]], [[Well|bene]], quanto a lui, portò qui il suo male. Qui non fa che rinfrescarlo. So che verrà alla nostra [[Shadow|ombra]] a spargere i suoi scudi di sole. |
+| BOULT | [[Well|Ebbene]], se avessimo d’ogni nazione un viaggiatore, li alloggeremmo tutti a questa insegna. |
+| MEZZANA | (a [[Marina]]) Ti prego, vieni qua un momento. Hai fortune che ti piovono addosso. Bada a me: devi parer di fare con timore ciò che commetti volentieri, di sprezzare il profitto là dove hai maggior guadagno. Piangere che vivi come vivi genera pietà nei tuoi [[lovers|amanti]]. Rado avviene che quella pietà non ti procuri una buona opinione, e quella opinione un puro profitto. |
+| [[Marina|MARINA]] | Non vi capisco. |
+| BOULT | (alla Mezzana) Oh, portatela a [[Home|casa]], padrona, portatela a [[Home|casa]]. Questi suoi rossori vanno spenti con qualche immediata pratica. |
+| MEZZANA | Dici il vero, in [[Faith|fede]] mia, così dev’essere; ché la sposa va con vergogna a quello a cui ha diritto d’andare con garanzia. |
+| BOULT | In [[Faith|fede]], alcune sì e alcune no. Ma padrona, se ho contrattato per il quarto di carne— |
+| MEZZANA | Puoi tagliarne un boccone dallo spiedo. |
+| BOULT | Posso, dunque. |
+| MEZZANA | Chi lo negherebbe? (A [[Marina]]) Vieni, giovinetta, mi piace [[Well|assai]] la foggia delle tue vesti. |
+| BOULT | Sì, per la mia [[Faith|fede]], non saranno ancora cambiate. |
+| MEZZANA | (dandogli denaro) Boult, spendi questo in città. Riferisci che ospite abbiamo. Non perderai nulla con la clientela. Quando la [[Nature|natura]] plasmò questo pezzo intendeva farti un favore. Perciò di’ che modello ella sia, e mieterai il raccolto della tua stessa esposizione. |
+| BOULT | Ve ne rispondo, padrona: il tuono non desterà i letti delle anguille come il mio bandire la sua [[Beauty|bellezza]] scuoterà i lascivamente inclinati. Ne porterò a [[Home|casa]] alcuni stanotte. |
+| *(didascalia)* | Esce |
+| MEZZANA | Vieni avanti, seguimi. |
+| [[Marina|MARINA]] | Se i fuochi son caldi, i coltelli aguzzi, o le acque profonde,<br>intatto il mio nodo verginale serberò.<br>[[Diana]] soccorra il mio proposito. |
+| MEZZANA | Che abbiamo a che fare con [[Diana]]? Di grazia, vuoi venire con me? |
+| *(didascalia)* | Escono. L’insegna viene tolta |
+
 
 
 <span class="atom-split" data-atom="scenes--scene_17" data-title="Pericles — Scene 17" data-chapter="Scene 17" data-kind="scene" data-tags="archetype/child,archetype/innocent,archetype/villain,motif/blood,motif/cross,motif/crown,motif/moon,motif/night,motif/time,motif/well,motif/winter,character/cleon,character/dionyza,character/marina,character/pericles"></span>
@@ -1656,6 +2325,24 @@ tags:
 | [[Dionyza\|DIONYZA]] | Ye’re like one that superstitiously<br>Do swear to th’ gods that [[Winter\|winter]] kills the flies,<br>But yet I know you’ll do as I advise. Exeunt |
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Ma come, siete sciocco? Può disfarsi? |
+| [[Cleon|CLEON]] | O [[Dionyza|Dionisa]], tale opera di macello<br>il sole e la [[Moon|luna]] mai contemplarono. |
+| [[Dionyza|DIONYZA]] | Credo che tornerete [[Child|bambino]]. |
+| [[Cleon|CLEON]] | Fossi io sommo signore di tutto questo spazioso mondo<br>lo darei per disfare l’atto. Una dama<br>assai meno di [[Blood|sangue]] che di virtù, eppur principessa<br>da pareggiare qualunque singola [[Crown|corona]] della terra<br>nella giustizia del paragone. O [[Villain|scellerato]] Leonine,<br>che tu hai pure avvelenato,<br>se tu avessi bevuto con lui sarebbe stata cortesia<br>[[Well|ben]] confacente al tuo misfatto. Che potrai dire<br>quando il nobile [[Pericles|Pericle]] chiederà sua [[Child|figlia]]? |
+| [[Dionyza|DIONYZA]] | Che è morta. Le nutrici non sono i fati.<br>Allevare non è sempre conservare.<br>Morì di [[Night|notte]]. Così dirò. Chi può [[Cross|contraddirlo]],<br>se non facciate voi il pio [[Innocent|innocente]]<br>e, per un onesto attributo, gridiate<br>‘Morì per delitto.’ |
+| [[Cleon|CLEON]] | Oh, andiamo. [[Well|Bene]], [[Well|bene]],<br>di tutte le colpe sotto i cieli gli dèi<br>questa gradiscono meno. |
+| [[Dionyza|DIONYZA]] | Siate uno di quelli che pensano<br>che i piccoli scriccioli di Tarso voleranno di qui<br>e sveleranno ciò a [[Pericles|Pericle]]. Mi vergogno<br>a pensare di che nobile stirpe siete,<br>e di quanto avvilito spirito. |
+| [[Cleon|CLEON]] | A tal procedere<br>chiunque solo la sua approvazione aggiunse,<br>benché non il suo primo consenso, non sgorgò<br>da onorate sorgenti. |
+| [[Dionyza|DIONYZA]] | Sia dunque così.<br>Pure nessuno sa fuor di voi come ella morì,<br>né alcuno può saperlo, essendo Leonine sparito.<br>Ella offuscava mia [[Child|figlia]], e stava fra<br>lei e le sue fortune. Nessuno guardava lei,<br>ma tutti volgevano gli sguardi al viso di [[Marina]],<br>mentre la nostra era sbeffeggiata, e tenuta per una sguattera<br>non degna d’un [[Time|buon giorno]]. Mi trafisse da parte a parte,<br>e benché voi chiamiate snaturata la mia condotta,<br>voi che non amate [[Well|bene]] vostra [[Child|figlia]], pure io trovo<br>che mi si presenta come un’impresa di bontà<br>compiuta verso la vostra unica figlia. |
+| [[Cleon|CLEON]] | I cieli lo perdonino. |
+| [[Dionyza|DIONYZA]] | E quanto a [[Pericles|Pericle]],<br>che dovrebbe dire? Piangemmo dietro il suo feretro,<br>e ancora ne portiamo lutto. Il suo monumento<br>è quasi finito, e i suoi epitaffi<br>in scintillanti caratteri d’oro esprimono<br>una lode generale a lei e cura in noi,<br>a spese nostre essendo fatto. |
+| [[Cleon|CLEON]] | Sei come l’arpia, che, per tradire, con il tuo viso d’angelo, ghermisci con i tuoi artigli d’aquila. |
+| [[Dionyza|DIONYZA]] | Voi siete come chi superstiziosamente<br>giura agli dèi che l’[[Winter|inverno]] uccide le mosche,<br>ma pure so che farete come io consiglio. Escono |
+
 
 
 <span class="atom-split" data-atom="scenes--scene_18" data-title="Pericles — Scene 18" data-chapter="Scene 18" data-kind="scene" data-tags="archetype/king,motif/garden,motif/home,motif/leaves,motif/nature,motif/spring,motif/tears,motif/time,motif/well,concept/imagination,concept/nature,character/cleon,character/dionyza,character/gower,character/marina,character/pericles"></span>
@@ -1670,6 +2357,17 @@ tags:
 | *(didascalia)* | [[Cleon]] draws the curtain and shows [[Pericles]] the |
 | [[Gower\|GOWER]] | tomb, whereat [[Pericles]] makes lamentation, puts on<br><br>sack-cloth, and in a mighty passion departs,<br><br>followed by his train. [[Cleon]] and [[Dionyza]] depart at<br><br>the other door<br>See how belief may suffer by foul show.<br>This borrowed passion stands for true-owed woe,<br>And [[Pericles]], in sorrow all devoured,<br>With sighs shot through, and biggest [[Tears\|tears]] o‘ershow’red,<br>[[Leaves]] Tarsus, and again embarks. He swears<br>Never to wash his face nor cut his hairs.<br>He puts on sack-cloth, and to sea. He bears<br>A tempest which his mortal vessel [[Tears\|tears]],<br>And yet he rides it out. Now please you wit<br>The epitaph is for [[Marina]] writ<br>By wicked [[Dionyza]].<br>He reads [[Marina]]’s epitaph on the tomb<br>‘The fairest, sweetest, best lies here,<br>Who withered in her [[spring]] of year.<br>In [[Nature\|nature]]’s [[Garden\|garden]], though by growth a bud,<br>She was the chiefest flower: she was good.’<br>No visor does become black villainy<br>So [[Well\|well]] as soft and tender flattery.<br>Let [[Pericles]] believe his daughter’s dead<br>And bear his courses to be ordered<br>By Lady Fortune, while our scene must play<br>His daughter’s woe and heavy [[Well\|well]]-a-day<br>In her unholy service. Patience then,<br>And think you now are all in Mytilene. Exit |
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entra [[Gower]] |
+| [[Gower|GOWER]] | Così il [[Time|tempo]] consumiamo, e lunghe leghe rendiamo brevi,<br>varchiamo mari in gusci, e basta volerlo per averlo,<br>facendo prendere all’[[Imagination|immaginazione]]<br>da confine a confine, da regione a regione.<br>Perdonati da voi, non commettiamo delitto<br>nell’usare una sola lingua in ogni diverso clima<br>dove la nostra scena par vivere. Vi supplico<br>d’apprender da me, che sto nei vuoti per insegnarvi<br>le tappe della nostra storia: [[Pericles|Pericle]]<br>or di nuovo attraversa i capricciosi mari,<br>accompagnato da molti signori e cavalieri,<br>per veder sua figlia, tutto il diletto della sua vita.<br>Il vecchio Helicanus va con lui. Dietro<br>è lasciato a governare, se ben ricordate,<br>il vecchio Aeschines, che Helicanus di recente<br>innalzò in Tiro a grande e alto stato.<br>Navi che [[Well|ben]] veleggiano e venti generosi han portato<br>questo [[King|re]] a Tarso—pensate che il pensiero sia il suo pilota;<br>così col suo timone andranno i vostri pensieri—<br>a ricondurre a [[Home|casa]] sua figlia, che prima è partita.<br>Come pulviscoli e ombre vedeteli muoversi un poco;<br>i vostri orecchi ai vostri occhi riconcilierò.<br>Scena muta. |
+| *(didascalia)* | Entra [[Pericles|Pericle]] da una porta con tutto il suo seguito, [[Cleon|Cleone]] |
+| *(didascalia)* | e [[Dionyza|Dionisa]] in vesti di lutto dall’altra. |
+| *(didascalia)* | [[Cleon|Cleone]] tira la cortina e mostra a [[Pericles|Pericle]] la |
+| [[Gower|GOWER]] | tomba, al che [[Pericles|Pericle]] fa lamento, indossa<br><br>un sacco di crine, e in possente dolore parte,<br><br>seguito dal suo corteo. [[Cleon|Cleone]] e [[Dionyza|Dionisa]] escono dall’<br><br>altra porta<br>Vedete come la fede può patire per turpe apparenza.<br>Questo dolore preso a prestito sta per pena veramente dovuta,<br>e [[Pericles|Pericle]], tutto divorato dal dolore,<br>trafitto di sospiri, e da grossissime [[Tears|lacrime]] inondato,<br>[[Leaves|lascia]] Tarso, e di nuovo s’imbarca. Giura<br>di mai lavarsi il viso né tagliarsi i capelli.<br>Indossa il sacco, e al mare. Sostiene<br>una tempesta che il suo mortale vascello [[Tears|lacera]],<br>e pure la supera. Or piacciavi sapere<br>che l’epitaffio è scritto per [[Marina]]<br>dalla malvagia [[Dionyza|Dionisa]].<br>Legge l’epitaffio di [[Marina]] sulla tomba<br>‘La più bella, la più dolce, la migliore qui giace,<br>che appassì nella sua [[spring|primavera]] d’anni.<br>Nel [[Garden|giardino]] della [[Nature|natura]], benché per crescita un bocciolo,<br>era il fiore principale: era buona.’<br>Nessuna maschera s’addice alla nera scelleraggine<br>così [[Well|bene]] come la molle e tenera adulazione.<br>Lasciate che [[Pericles|Pericle]] creda morta sua figlia<br>e sopporti che le sue rotte siano ordinate<br>da madonna Fortuna, mentre la nostra scena deve recitare<br>la pena di sua figlia e il grave [[Well|ahimè]]<br>nel suo empio servizio. Pazienza dunque,<br>e pensate d’essere ora tutti in Mitilene. Esce |
 
 
 
@@ -1774,6 +2472,105 @@ tags:
 | *(didascalia)* | Exeunt. The sign is removed |
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+| Chi parla | Battuta |
+|---|---|
+| PRIMO GENTILUOMO | Avete mai udito cosa simile? |
+| SECONDO GENTILUOMO | No, né mai l’udrò in un luogo come questo, una volta ch’ella sia partita. |
+| PRIMO GENTILUOMO | Ma sentir predicare la divinità là dentro—avete mai sognato cosa simile? |
+| SECONDO GENTILUOMO | No, no. Via, non son più per i bordelli. Andiamo a udire le vestali cantare? |
+| PRIMO GENTILUOMO | Farò ora qualunque cosa sia virtuosa, ma son fuori per sempre dalla [[Road|strada]] della fregola. Escono |
+| *(didascalia)* | Entrano il Ruffiano, la Mezzana e Boult |
+| RUFFIANO | [[Well|Ebbene]], darei il doppio del suo valore perché non fosse mai venuta qui. |
+| MEZZANA | Vergogna, vergogna su lei: è capace di gelare il dio Priapo e di rovinare l’intera generazione. Dobbiamo o farla violare o sbarazzarcene. Quando dovrebbe fare ai clienti il suo servizio e rendere a me la cortesia della nostra professione, mi tira fuori i suoi cavilli, le sue ragioni, le sue ragioni maestre, le sue preghiere, le sue ginocchia, tanto che farebbe un puritano del diavolo se questi le mercanteggiasse un bacio. |
+| BOULT | In [[Faith|fede]], devo violarla, o ci spoglierà di tutta la nostra cavalleria e farà preti dei nostri bestemmiatori. |
+| RUFFIANO | Ora, il malfrancese colga la sua clorosi, per quel che mi riguarda. MEZZANA In [[Faith|fede]], non c’è modo di sbarazzarsene se non per la via del malfrancese. |
+| *(didascalia)* | Entra Lysimachus, travestito |
+| RUFFIANO | Ecco che viene il signor Lysimachus, travestito. |
+| BOULT | Avremmo e signori e villani, se la petulante sgualdrina volesse solo cedere all’usanza. |
+| LYSIMACHUS | Ebbene, a quanto la dozzina di verginità? MEZZANA Ora, gli dèi benedicano vostro [[Honour|onore]]! |
+| BOULT | Son lieto di veder vostro [[Honour|onore]] in buona salute. |
+| LYSIMACHUS | Potete ben esserlo. Tanto meglio per voi che i vostri frequentatori stiano su gambe sane. Ebbene, avete iniquità salubre, con cui un uomo possa trattare e sfidare il chirurgo? |
+| MEZZANA | Ne abbiamo qui una, signore, se ella volesse—ma mai venne la sua pari in Mitilene. |
+| LYSIMACHUS | Se volesse fare l’atto delle tenebre, vorresti dire. |
+| *(didascalia)* | MEZZANA Vostro [[Honour|onore]] sa [[Well|bene]] abbastanza che cosa voglia dire. LYSIMACHUS [[Well|Bene]], chiamatela fuori, chiamatela fuori. Esce il Ruffiano BOULT Quanto a carne e [[Blood|sangue]], signore, [[White and Red|bianco e rosso]], vedrete una [[Rose|rosa]]. E sarebbe una [[Rose|rosa]] davvero, se solo avesse— |
+| LYSIMACHUS | Che cosa, di grazia? |
+| BOULT | Oh signore, so essere modesto. |
+| LYSIMACHUS | Ciò nobilita la fama d’un mezzano non meno che il buon nome d’un nobile l’esser casto. |
+| *(didascalia)* | Entra il Ruffiano con [[Marina]] |
+| MEZZANA | Ecco che viene ciò che cresce sullo stelo, mai colto ancora, ve l’assicuro. Non è una bella creatura? |
+| LYSIMACHUS | In [[Faith|fede]], servirebbe dopo un lungo viaggio per mare. [[Well|Bene]], ecco per voi. Lasciateci. |
+| *(didascalia)* | Paga la Mezzana |
+| MEZZANA | Supplico vostro [[Honour|onore]] di darmi licenza: una parola, e avrò finito subito. |
+| LYSIMACHUS | Vi prego, fate. |
+| MEZZANA | (a parte a [[Marina]]) Anzitutto, voglio che tu noti che questi è un uomo onorevole. |
+| [[Marina|MARINA]] | [[Desire|Desidero]] trovarlo tale, per poterlo onorevolmente conoscere. |
+| MEZZANA | Poi, è il governatore di questo paese, e uomo cui sono obbligata. |
+| [[Marina|MARINA]] | Se governa il paese gli siete obbligata davvero, ma quanto onorevole egli sia in ciò, non so. |
+| MEZZANA | Di grazia, senza altra verginale schermaglia, vuoi trattarlo con cortesia? Ti fodererà d’oro il grembiule. |
+| [[Marina|MARINA]] | Ciò che egli farà graziosamente riceverò con gratitudine. LYSIMACHUS (alla Mezzana) Avete finito? |
+| MEZZANA | Mio signore, non è ancora ammaestrata all’andatura. Dovrete durar qualche fatica per piegarla al vostro maneggio. (A Boult e al Ruffiano) Venite, lasceremo il suo [[Honour|onore]] e il suo insieme. Va’ per la tua strada. Escono il Ruffiano, la Mezzana e Boult |
+| LYSIMACHUS | Bella, da quanto siete in questo mestiere? [[Marina|MARINA]] Quale mestiere, signore? |
+| LYSIMACHUS | Non posso nominarlo senza offendere. |
+| [[Marina|MARINA]] | Non posso offendermi del mio mestiere.<br>Piacciavi nominarlo. |
+| LYSIMACHUS | Da quanto siete<br>di questa professione? |
+| [[Marina|MARINA]] | Da quando posso ricordare. |
+| LYSIMACHUS | Vi ci deste sì giovane? Eravate giocatrice<br>a cinque anni, o a sette? |
+| [[Marina|MARINA]] | Anche prima, signore,<br>se ora lo sono. |
+| LYSIMACHUS | Ma la [[house|casa]] in cui dimorate<br>vi proclama creatura in vendita. |
+| [[Marina|MARINA]] | E voi sapete che questa [[house|casa]] è luogo<br>di tal frequenza e pur vi entrate?<br>Odo dire che siete di [[Blood|sangue]] onorevole,<br>e siete il governatore di tutta questa provincia. |
+| LYSIMACHUS | Come, la vostra padrona v’ha informata di chi io sia? |
+| [[Marina|MARINA]] | Chi è la mia padrona? |
+| LYSIMACHUS | Ma la vostra erbaiola;<br>colei che pianta semi di vergogna, radici d’iniquità. |
+| *(didascalia)* | [[Marina]] piange |
+| LYSIMACHUS | Oh, avete udito qualcosa del mio potere, e così<br>vi tenete in disparte per un corteggiamento più serio.<br>Ma io ti protesto,<br>bellina, che la mia autorità sa chiudere un occhio<br>sulle macchie, o sa guardare amichevolmente le colpe;<br>o il mio sdegno punire a mio piacere,<br>dal quale sdegno né la tua [[Beauty|bellezza]] ti<br>privilegerà, né il mio affetto, che<br>m’ha tratto qui, scemerà con ulteriore indugio.<br>Su, conducimi in qualche luogo appartato. Su, su. |
+| [[Marina|MARINA]] | Non sia l’autorità, che v’insegna<br>a governare altri, il mezzo per farvi<br>malgovernare assai voi stesso.<br>Se nasceste all’[[Honour|onore]], mostratelo ora;<br>se vi fu conferito, giustificate il giudizio<br>che vi stimò degno d’esso. Che ragione v’è<br>nella vostra giustizia, che ha potere su tutti,<br>di rovinare alcuno? Se togliete a me<br>il mio [[Honour|onore]], siete come chi apre una breccia<br>in terreno proibito, dopo il quale<br>troppi entrano, e di tutti i loro mali<br>voi stesso siete colpevole. La mia vita è ancora immacolata;<br>la mia castità intatta persino nel pensiero.<br>Se dunque la vostra violenza deturpa questo edificio,<br>opera del cielo, uccidete il vostro [[Honour|onore]],<br>abusate della vostra giustizia, e impoverite me.<br>Mio signore ancora buono, se v’è [[Fire|fuoco]] davanti a me,<br>devo subito volarvi dentro e bruciarmi? Poniamo che questa<br>[[house|casa]]—<br>che troppi, troppi sanno che tali case sono—<br>sia il patrimonio del medico, e<br>il pasto del chirurgo; ne segue ch’io<br>debba per forza infettarmi per dar loro sostentamento? |
+| LYSIMACHUS | Com’è questo, com’è questo? Ancora. Sii saggia. |
+| *(didascalia)* | [[Marina|MARINA]] inginocchiandosi Per me |
+| LYSIMACHUS | che sono vergine, benché fortuna crudelissima<br>m’abbia rinchiusa in questo porcile, dove da quando venni<br>le malattie son state vendute più care delle medicine—<br>che gli dèi mi liberino da questo sconsacrato<br>luogo,<br>anche se mi mutassero nel più vile uccello<br>che vola nell’aria più pura! |
+| *(didascalia)* | LYSIMACHUS commosso Non pensavo |
+| LYSIMACHUS | che tu potessi parlar sì [[Well|bene]], mai sognai che tu<br>potessi. |
+| *(didascalia)* | La solleva con le sue mani |
+| LYSIMACHUS | Benché io recassi qua una mente corrotta,<br>il tuo discorso l’ha mutata, |
+| *(didascalia)* | Le asciuga l’umore dagli occhi e i miei turpi pensieri |
+| LYSIMACHUS | le tue [[Tears|lacrime]] han sì [[Well|bene]] lavato che ora son bianchi.<br>Venni qui intendendo solo pagare il prezzo,<br>una moneta d’oro per la tua verginità;<br>eccone venti a soccorrere la tua onestà.<br>Persevera pure in quella limpida via che segui,<br>e gli dèi ti fortifichino. |
+| [[Marina|MARINA]] | I buoni dèi vi conservino! |
+| LYSIMACHUS | Le porte stesse e le finestre puzzano vilmente.<br>Sta’ [[Well|bene]]. Sei un pezzo di virtù,<br>il meglio lavorato che mai la [[Nature|natura]] facesse,<br>e non [[Doubt|dubito]] che la tua educazione sia stata nobile.<br>Maledizione su lui, muoia come un ladro,<br>chi ti deruba del tuo [[Honour|onore]]. Tieni, ecco altro oro.<br>Se avrai mie notizie, sarà per il tuo bene. |
+| *(didascalia)* | Entra Boult, stando pronto alla porta, facendogli riverenza mentre Lysimachus sta per uscire |
+| BOULT | Supplico vostro [[Honour|onore]], una moneta per me. |
+| LYSIMACHUS | Va’ via, dannato portinaio!<br>La vostra [[house|casa]], se non fosse per questa vergine che la puntella,<br>sprofonderebbe e vi seppellirebbe. Via. Esce |
+| BOULT | Com’è questa? Dovremo prendere un altro partito con voi. Se la vostra petulante castità, che non vale una colazione nel paese più a buon mercato sotto la volta del cielo, deve rovinare un’intera casa, ch’io sia castrato come uno spaniel. Venite avanti. |
+| [[Marina|MARINA]] | Dove volete condurmi? |
+| BOULT | Devo farvi togliere la verginità, o lo farà il pubblico boia. Non vogliamo più gentiluomini cacciati via. Venite avanti, dico. |
+| *(didascalia)* | Entrano la Mezzana e il Ruffiano |
+| MEZZANA | Ebbene, che c’è? |
+| BOULT | Di male in peggio, padrona: ha qui parlato parole sante al signor Lysimachus. |
+| MEZZANA | Oh, abominevole! |
+| BOULT | Fa sì che la nostra professione puzzi, per così dire, davanti al volto degli dèi. |
+| MEZZANA | Per la Madonna, impiccatela per sempre! |
+| BOULT | Il nobiluomo avrebbe trattato con lei da nobiluomo, ed ella lo mandò via freddo come una palla di neve, e per giunta a dire le sue preghiere. |
+| *(didascalia)* | RUFFIANO Boult, portala via. Usala a tuo piacere. Spezza il ghiaccio della sua verginità, e rendi malleabile il resto. |
+| BOULT | E fosse anche un pezzo di terra più spinoso di quel che è, sarà arata. |
+| [[Marina|MARINA]] | Udite, udite, o dèi! |
+| MEZZANA | Ella scongiura. Portatela via! Non fosse mai entrata dentro le mie porte.—Per la Madonna, siate impiccata!—È nata per rovinarci.—Non volete andare per la via del genere femminile? Per la Madonna, suvvia, mio piatto di castità con rosmarino e alloro. Escono la Mezzana e il Ruffiano |
+| *(didascalia)* | BOULT afferrandola bruscamente per la mano Vieni, padroncina, vieni via con me. |
+| [[Marina|MARINA]] | Dove vuoi condurmi? |
+| BOULT | A toglierti il [[Jewel|gioiello]] che tieni sì caro. |
+| [[Marina|MARINA]] | Ti prego, dimmi prima una cosa. |
+| BOULT | Su, dunque, la tua una cosa. |
+| [[Marina|MARINA]] | Che puoi augurare al tuo nemico d’essere? |
+| BOULT | Ma potrei augurargli d’essere il mio padrone, o piuttosto la mia padrona. |
+| [[Marina|MARINA]] | Nessuno di questi può esser cattivo quanto sei tu,<br>poiché essi ti superano nel comandarti.<br>Occupi un posto che il più tormentato demonio d’inferno<br>non cambierebbe con te quanto a reputazione,<br>tu dannato portinaio d’ogni ribaldo<br>che viene chiedendo della sua sgualdrina.<br>Al collerico pugno d’ogni furfante<br>il tuo orecchio è esposto. Il tuo cibo è tale<br>quale fu ruttato sopra da polmoni infetti. |
+| BOULT | Che vorreste ch’io facessi? Andare alle guerre, vorreste, dove un uomo può servire sette anni per la perdita d’una gamba, e non aver denaro abbastanza alla fine per comprarsene una di legno? |
+| [[Marina|MARINA]] | Fa’ qualunque cosa fuor di questa che fai. Svuota<br>vecchi ricettacoli o comuni fogne di lordura,<br>servi per contratto al pubblico boia—<br>ognuna di queste è pur meglio di questa.<br>Ché ciò che professi un babbuino, se potesse parlare,<br>riterrebbe nome troppo caro. Ecco oro per te.<br>Se il tuo padrone vuol trarre guadagno da me,<br>proclama ch’io so cantare, tessere, cucire e [[Dance|danzare]],<br>con altre virtù che tacerò per non vantarmi,<br>e m’impegnerò a insegnarle tutte.<br>Non [[Doubt|dubito]] che questa popolosa [[City|città]]<br>darà molte scolare. |
+| BOULT | Ma sapete insegnare tutto ciò di cui parlate? |
+| [[Marina|MARINA]] | Provate ch’io non posso, riportatemi a [[Home|casa]]<br>e prostituitemi al più vile staffiere<br>che frequenti la vostra [[house|casa]]. |
+| BOULT | [[Well|Bene]], vedrò che posso fare per te. Se posso collocarti, lo farò. |
+| [[Marina|MARINA]] | Ma fra donne oneste. |
+| BOULT | In [[Faith|fede]], la mia conoscenza sta poco fra loro; ma poiché il mio padrone e la mia padrona v’hanno comprata, non si va se non col loro consenso. Perciò li metterò a parte del vostro proposito, e non [[Doubt|dubito]] che li troverò abbastanza trattabili. Venite, farò per voi quel che posso. Venite avanti. |
+| *(didascalia)* | Escono. L’insegna viene tolta |
+
 
 
 <span class="atom-split" data-atom="scenes--scene_20" data-title="Pericles — Scene 20" data-chapter="Scene 20" data-kind="scene" data-tags="motif/city,motif/nature,motif/ship,concept/nature,setting/ship,character/gower,character/marina,character/pericles"></span>
@@ -1783,6 +2580,12 @@ tags:
 |---|---|
 | [[Gower\|GOWER]] | [[Marina]] thus the brothel scapes, and chances<br>Into an honest [[house]], our story says.<br>She sings like one immortal, and she dances<br>As goddess-like to her admired lays.<br>Deep clerks she dumbs, and with her nee‘le composes<br>[[Nature]]’s own shape, of bud, bird, branch, or berry,<br>That e’en her art sisters the natural roses.<br>Her inkle, silk, twin with the rubied cherry;<br>That pupils lacks she none of noble race,<br>Who pour their bounty on her, and her gain<br>She gives the cursed Bawd. Here we her place,<br>And to her father turn our thoughts again.<br>We left him on the sea. Waves there him tossed,<br>Whence, driven tofore the winds, he is arrived<br>Here where his daughter dwells, and on this coast<br>Suppose him now at anchor. The [[City\|city]] strived<br>God Neptune’s annual feast to keep, from whence<br>Lysimachus our Tyrian [[Ship\|ship]] espies,<br>His banners sable, trimmed with rich expense;<br>And to him in his barge with fervour hies.<br>In your supposing once more put your sight;<br>Of heavy [[Pericles]] think this the barque,<br>Where what is done in action, more if might,<br>Shall be discovered. Please you sit and hark. Exit |
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+| Chi parla | Battuta |
+|---|---|
+| [[Gower|GOWER]] | [[Marina]] così al bordello scampa, e capita<br>in un’onesta [[house|casa]], la nostra storia dice.<br>Canta come un’immortale, e danza<br>in guisa di dea alle sue ammirate note.<br>Ammutolisce dotti profondi, e col suo ago compone<br>la forma stessa della [[Nature|Natura]]: bocciolo, uccello, ramo o bacca,<br>tanto che la sua arte è sorella alle rose naturali.<br>Il suo filo, la seta, gemellano con la ciliegia rubinosa;<br>sì che d’allieve di nobile schiatta non manca,<br>le quali versano su lei la loro larghezza, e il suo guadagno<br>ella dà alla maledetta Mezzana. Qui la collochiamo,<br>e al padre di lei volgiamo di nuovo i pensieri.<br>Lo lasciammo sul mare. Là le onde lo sbatterono,<br>donde, sospinto innanzi ai venti, è giunto<br>qui dove sua figlia dimora, e su questa costa<br>supponetelo ora all’ancora. La [[City|città]] s’adoperava<br>a celebrar l’annua festa del dio Nettuno, donde<br>Lysimachus scorge la nostra [[Ship|nave]] tiria,<br>dai vessilli neri, ornati con ricca spesa;<br>e a lui nella sua barca con fervore s’affretta.<br>Nel vostro supporre ponete ancora una volta la vista;<br>dell’afflitto [[Pericles|Pericle]] pensate questa la barca,<br>dove ciò che si compie in azione, e più se si potesse,<br>sarà svelato. Piacciavi sedere e ascoltare. Esce |
 
 
 
@@ -1915,6 +2718,133 @@ tags:
 | *(didascalia)* | Exit [[Pericles]] with Lysimachus at one arm, [[Marina]] at the other |
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+| Chi parla | Battuta |
+|---|---|
+| MARINAIO DI TIRO | (al Marinaio di Mitilene)<br>Il signor Helicanus può risolvervi, signore.<br>(A Helicanus) S’è staccata una barca da Mitilene.<br>Vi è Lysimachus, il governatore,<br>che chiede di venire a bordo. Qual è il vostro volere? |
+| HELICANUS | Che abbia il suo. |
+| *(didascalia)* | Esce il Marinaio di Mitilene dalla prima porta Chiamate su alcuni gentiluomini. |
+| *(didascalia)* | Esce Helicanus di sopra |
+| *(didascalia)* | MARINAIO DI TIRO |
+| HELICANUS | Ehilà, il mio signore chiama! |
+| *(didascalia)* | Entrano da sotto il palco due o tre Gentiluomini; a loro entra Helicanus |
+| PRIMO GENTILUOMO | Qual è il piacere di vostra signoria? |
+| HELICANUS | Gentiluomini, persona di riguardo vuol venire a bordo.<br>Vi prego, accoglietelo cortesemente. |
+| *(didascalia)* | Entra Lysimachus dalla prima porta, con il Marinaio e i Signori di Mitilene |
+| *(didascalia)* | MARINAIO DI MITILENE (a Lysimachus) |
+| HELICANUS | Questi è l’uomo che in ogni cosa può risolvervi. |
+| LYSIMACHUS | (a Helicanus)<br>Salve, reverendo signore; gli dèi vi conservino! |
+| HELICANUS | E voi, signore, a sopravvivere all’età ch’io ho,<br>e a morire come io vorrei. |
+| LYSIMACHUS | Mi augurate [[Well|bene]].<br>Sono il governatore di Mitilene;<br>essendo a terra, onorando i trionfi di Nettuno,<br>vedendo questo bel vascello all’ancora dinanzi a noi,<br>mi diressi ad esso per sapere donde siete. |
+| HELICANUS | Il nostro vascello è di Tiro, in esso il nostro [[King|re]],<br>un uomo che da tre mesi non ha parlato<br>ad alcuno, né preso sostentamento<br>se non per prolungare il suo dolore. |
+| LYSIMACHUS | Da qual causa nacque il suo turbamento? |
+| HELICANUS | Sarebbe troppo tedioso ridirlo tutto,<br>ma il dolore principale nasce dalla preziosa perdita<br>d’una diletta figlia e d’una moglie. |
+| LYSIMACHUS | Non possiamo vederlo? |
+| HELICANUS | Vederlo, signore, potete,<br>ma vana è la vostra vista. Non vuol parlare<br>ad alcuno. |
+| LYSIMACHUS | Concedetemi pure il mio desiderio. |
+| HELICANUS | Eccolo.<br>Helicanus tira una cortina, scoprendo [[Pericles|Pericle]] disteso su un giaciglio con lunga barba incolta, capelli scomposti, unghie sconvenienti alle dita, e vestito di sacco<br>Costui era bella persona<br>finché il disastro d’una mortale [[Night|notte]]<br>lo ridusse a questo. |
+| LYSIMACHUS | (a [[Pericles|Pericle]])<br>Signore, [[King|re]], salute a voi. Salve, regale signore. |
+| *(didascalia)* | [[Pericles|Pericle]] si rannicchia sul suo guanciale |
+| HELICANUS | È inutile. Non vi parlerà. |
+| SIGNORE DI MITILENE | Signore, abbiamo in Mitilene una fanciulla che oserei scommettere<br>strapperebbe da lui qualche parola. |
+| LYSIMACHUS | È [[Well|ben]] pensato.<br>Ella senza dubbio, con la sua dolce armonia<br>e altre scelte attrattive, darebbe l’assalto<br>e aprirebbe breccia nelle sue assordate porte,<br>che ora son mezzo ostruite. Ella, felice in tutto,<br>come la più bella di tutte, fra le sue compagne fanciulle<br>dimora ora nel frondoso ricovero che confina<br>col fianco dell’isola. Andate a condurla qua. |
+| *(didascalia)* | Esce il Signore |
+| HELICANUS | Certo, tutto senza effetto; pure nulla ometteremo<br>che porti il nome di guarigione. Ma poiché la vostra cortesia<br>abbiamo così a lungo protratta, lasciate che vi supplichiamo<br>che per il nostro oro possiamo aver vettovaglie,<br>di cui non siamo privi per penuria,<br>ma stanchi per la loro stantìa. |
+| LYSIMACHUS | Oh signore, una cortesia<br>che se noi negassimo, gli dèi giustissimi<br>per ogni innesto manderebbero un bruco,<br>e così flagellerebbero la nostra provincia. Pure ancora una volta<br>lasciate ch’io chieda di conoscere per intero la causa<br>del dolore del vostro [[King|re]]. |
+| HELICANUS | Sedete, signore. Ve la narrerò. |
+| *(didascalia)* | Entra il Signore con [[Marina]] e un’altra fanciulla |
+| HELICANUS | Ma vedete, son prevenuto. |
+| LYSIMACHUS | Oh, ecco la dama che mandai a chiamare.—<br>Benvenuta, bella.—Non è una bella presenza? HELICANUS È una nobile dama. |
+| LYSIMACHUS | È tale che, se fossi [[Well|ben]] certo<br>ch’ella venisse da gentile schiatta o nobile ceppo, non vorrei<br>miglior scelta per stimarmi raramente sposato.—<br>Bella, ogni bene che consiste in generosità<br>attendetelo proprio qui, dove è un regale infermo;<br>se la tua prospera e artificiosa arte<br>può trarlo solo a risponderti in qualcosa,<br>la tua sacra medicina riceverà tal compenso<br>quale i tuoi desideri possan bramare. |
+| [[Marina|MARINA]] | Signore, userò<br>tutta la mia arte alla sua guarigione, purché<br>nessuno fuor di me e della mia compagna fanciulla<br>sia lasciato accostarsi a lui. |
+| LYSIMACHUS | (agli altri) Lasciamola, |
+| *(didascalia)* | e gli dèi la facciano prosperare. Gli uomini si ritirano in disparte |
+| LYSIMACHUS | Il [[Song|Canto]] |
+| *(didascalia)* | LYSIMACHUS facendosi avanti Ha egli notato la vostra musica? FANCIULLA |
+| LYSIMACHUS | No, né ci ha guardate. |
+| LYSIMACHUS | (agli altri) Vedete, ella gli parlerà. |
+| [[Marina|MARINA]] | (a [[Pericles|Pericle]])<br>Salve, signore; mio signore, prestate orecchio. |
+| [[Pericles|PERICLES]] | Hmh, ah! |
+| *(didascalia)* | La respinge rudemente |
+| [[Marina|MARINA]] | Son fanciulla,<br>mio signore, che mai prima invitò sguardi,<br>ma fu contemplata come una cometa. Parla,<br>mio signore, una che forse ha sostenuto un dolore<br>che potrebbe uguagliare il vostro, se entrambi fossero giustamente pesati.<br>Benché capricciosa fortuna abbia guastato il mio stato,<br>la mia discendenza fu da antenati<br>che stavano pari a possenti re,<br>ma il [[Time|tempo]] ha sradicato la mia stirpe,<br>e al mondo e a ostili casi<br>m’ha legata in servitù. (A parte) Desisterò.<br>Ma qualcosa arde sulla mia guancia,<br>e sussurra al mio orecchio ‘Resta finché parli.’ |
+| [[Pericles|PERICLES]] | Le mie fortune, la stirpe, buona stirpe,<br>da uguagliare la mia? Non fu così? Che dite? |
+| [[Marina|MARINA]] | Dissi che se conosceste la mia stirpe,<br>mio signore, non mi fareste violenza. |
+| [[Pericles|PERICLES]] | Lo credo. Vi prego, volgete i vostri occhi su me.<br>Somigliate a qualcosa che—di che paese siete?<br>Di queste rive? |
+| [[Marina|MARINA]] | No, né d’alcuna riva,<br>pure fui mortalmente generata, e non sono<br>altro da quel che sembro. |
+| *(didascalia)* | [[Pericles|PERICLES]] a parte |
+| [[Marina|MARINA]] | Son gravido di pena, e partorirò piangendo.<br>La mia carissima moglie era come questa fanciulla, e tale<br>mia figlia poteva essere. Della mia [[Queen|regina]] le quadre<br>sopracciglia,<br>la sua statura a un pollice, dritta come una verga,<br>di voce argentina, gli occhi simili a [[Jewel|gioielli]],<br>e incastonati altrettanto riccamente, nel passo un’altra Giunone,<br>che affama gli orecchi che nutre, e li rende<br>affamati<br>quanto più dà loro parola.—Dove vivete? |
+| [[Marina|MARINA]] | Dove non sono che una straniera. Dal ponte<br>potete scorgere il luogo. |
+| [[Pericles|PERICLES]] | Dove foste allevata, e come conseguiste queste doti che voi rendete più ricche col possederle? |
+| [[Marina|MARINA]] | Se dovessi narrare la mia [[history|storia]], parrebbe menzogna sdegnata nel riferirla. |
+| [[Pericles|PERICLES]] | Ti prego, parla.<br>Falsità non può venire da te, ché appari<br>modesta come la giustizia, e sembri un palazzo<br>perché la [[Truth|verità]] coronata vi dimori. Ti crederò,<br>e farò che i miei sensi prestino fede al tuo racconto<br>fino a punti che paion impossibili. Tu appari<br>come una ch’io amai davvero. Chi erano i tuoi?<br>Non dicesti tu, quando ti respinsi—<br>il che fu quando ti scorsi—che tu venivi<br>da buona discendenza? |
+| [[Marina|MARINA]] | Così invero dissi. |
+| [[Pericles|PERICLES]] | Riferisci la tua stirpe. Credo tu dicessi<br>d’essere stata sbattuta da torto a offesa,<br>e che stimavi i tuoi dolori poter uguagliare i miei,<br>se entrambi fossero svelati. |
+| [[Marina|MARINA]] | Qualcosa di simile dissi,<br>e non dissi più di quanto la mia condizione<br>mi garantisse esser verosimile. |
+| [[Pericles|PERICLES]] | Narra la tua storia.<br>Se la tua, ponderata, risulta la millesima parte<br>della mia [[Endurance|sopportazione]], tu sei un uomo, e io<br>ho patito come una fanciulla. Pure tu appari<br>come la pazienza che fissa le tombe dei re, e sorridendo<br>toglie all’estremo il suo atto. Chi erano i tuoi?<br>Come li perdesti? Il tuo nome, mia gentilissima vergine?<br>Racconta, ti supplico. Vieni, siedi accanto a me.<br>Ella si siede |
+| [[Marina|MARINA]] | Il mio nome, signore, è [[Marina]]. |
+| [[Pericles|PERICLES]] | Oh, son beffato,<br>e tu da qualche dio sdegnato sei mandata qua<br>per far ridere il mondo di me. |
+| [[Marina|MARINA]] | Pazienza, buon signore,<br>o qui mi fermo. |
+| [[Pericles|PERICLES]] | No, sarò paziente.<br>Poco sai come mi scuoti<br>col chiamarti [[Marina]]. |
+| [[Marina|MARINA]] | Il nome<br>mi fu dato da uno che aveva qualche potere:<br>mio padre, e un [[King|re]]. |
+| [[Pericles|PERICLES]] | Come, figlia d’un [[King|re]], e chiamata [[Marina]]? |
+| [[Marina|MARINA]] | Diceste che m’avreste creduta, ma per non turbare la vostra pace finirò qui. |
+| [[Pericles|PERICLES]] | Ma siete carne e [[Blood|sangue]]?<br>Avete polso che batte e non siete una fata?<br>E movimento [[Well|del pari]]? Parlate ancora. Dove nasceste,<br>e perché chiamata [[Marina]]? |
+| [[Marina|MARINA]] | Chiamata [[Marina]]<br>perché nacqui in mare. |
+| [[Pericles|PERICLES]] | In mare? Quale madre? |
+| [[Marina|MARINA]] | Mia madre era figlia d’un [[King|re]],<br>che morì quando io nacqui, come la mia buona [[Nurse|nutrice]]<br>Lychorida ha spesso raccontato piangendo. |
+| *(didascalia)* | Oh, fermati lì un poco! A parte Questo è il più raro sogno |
+| [[Pericles|PERICLES]] | con cui mai il [[Sleep|sonno]] ottuso beffò tristi folli.<br>Questa non può essere mia figlia, sepolta. [[Well|Bene]].<br>(A [[Marina]]) Dove foste allevata? Vi ascolterò oltre<br>fino in [[Bottom|fondo]]<br>alla vostra storia, e mai v’interromperò. |
+| [[Marina|MARINA]] | A stento mi crederete. Meglio sarebbe ch’io smettessi. |
+| [[Pericles|PERICLES]] | Vi crederò sillaba per sillaba<br>di quanto direte. Pure concedetemi.<br>Come veniste in queste parti? Dove foste allevata? |
+| [[Marina|MARINA]] | Il [[King|re]] mio padre mi lasciò in Tarso,<br>finché il crudele [[Cleon|Cleone]], con la sua malvagia moglie,<br>cercò d’uccidermi, e persuase uno [[Villain|scellerato]]<br>a tentar l’atto; il quale, avendo sguainato per farlo,<br>una banda di pirati venne e mi salvò.<br>A Mitilene mi condussero. Ma, buon signore,<br>che volete da me? Perché piangete? Può essere<br>che mi crediate un’impostora. No, in buona [[Faith|fede]],<br>io sono la figlia del [[King|re]] [[Pericles|Pericle]],<br>se il buon [[King|re]] [[Pericles|Pericle]] esiste. |
+| [[Pericles|PERICLES]] | alzandosi Ehilà, Helicanus! |
+| HELICANUS | (facendosi avanti) Chiama il mio signore? |
+| [[Pericles|PERICLES]] | Tu sei un [[Grave|grave]] e nobile consigliere,<br>saggissimo in tutto. Dimmi se puoi<br>chi sia questa fanciulla, o chi possa essere,<br>che così m’ha fatto piangere. |
+| HELICANUS | Non so.<br>Ma ecco il reggente, signore, di Mitilene<br>parla nobilmente di lei. |
+| LYSIMACHUS | Ella non volle mai dire<br>la sua stirpe. Richiestane,<br>sedeva immobile e piangeva. |
+| [[Pericles|PERICLES]] | O Helicanus, colpiscimi, onorato signore,<br>dammi uno squarcio, mettimi a immediato [[Pain|dolore]],<br>perché questo gran mare di gioie irrompendo su me<br>non travolga le rive della mia [[Mortality|mortalità]]<br>e m’anneghi con la sua dolcezza! (A [[Marina]]) Oh,<br>vieni qua, |
+| *(didascalia)* | [[Marina]] si alza |
+| [[Pericles|PERICLES]] | tu che generi colui che te generò,<br>tu che nascesti in mare, sepolta a Tarso,<br>e ritrovata di nuovo in mare!—O Helicanus,<br>giù in ginocchio, ringrazia i santi dèi tanto forte<br>quanto il tuono ci minaccia: questa è [[Marina]]!<br>(A [[Marina]]) Qual era il nome di tua madre? Dimmi<br>solo quello,<br>ché la [[Truth|verità]] mai può essere abbastanza confermata,<br>benché i dubbi [[Sleep|dormissero]] per sempre. |
+| [[Marina|MARINA]] | Prima, signore, vi prego, qual è il vostro titolo? |
+| [[Pericles|PERICLES]] | Io sono [[Pericles|Pericle]]<br>di Tiro. Ma dimmi ora il nome della mia annegata [[Queen|regina]].<br>Come nel resto sei stata divinamente perfetta,<br>così risulta solo vera in quello, e sei mia figlia,<br>erede di regni, e un’altra vita<br>per [[Pericles|Pericle]] tuo padre. |
+| *(didascalia)* | [[Marina|MARINA]] inginocchiandosi Non occorre altro |
+| [[Pericles|PERICLES]] | per essere vostra figlia che dire il nome di mia madre?<br>[[Thaisa|Taisa]] fu mia madre, che finì<br>nel minuto in cui io cominciai. |
+| [[Pericles|PERICLES]] | Ora benedizione su te! Alzati. Sei mia [[Child|figlia]]. |
+| *(didascalia)* | [[Marina]] si alza. Egli la bacia |
+| *(didascalia)* | Al seguito Datemi vesti fresche.—La mia propria, |
+| [[Pericles|PERICLES]] | Helicanus!<br>Non morta a Tarso, come avrebbe dovuto essere<br>per il selvaggio [[Cleon|Cleone]]. Ella ti dirà tutto,<br>quando t’inginocchierai e attesterai con certezza<br>ch’ella è la tua vera principessa. Chi è costui? |
+| HELICANUS | Signore, è il governatore di Mitilene,<br>che, udendo del vostro stato [[Melancholy|malinconico]],<br>venne a vedervi. |
+| [[Pericles|PERICLES]] | (a Lysimachus) Vi abbraccio, signore.—<br>Datemi le mie vesti. |
+| *(didascalia)* | È rivestito di vesti fresche |
+| [[Pericles|PERICLES]] | Sono smarrito nel mio guardare.<br>O cieli, benedite la mia fanciulla! |
+| *(didascalia)* | Musica celeste |
+| [[Pericles|PERICLES]] | Ma udite, che musica?<br>Di’ a Helicanus, mia [[Marina]], digli<br>punto per punto, ché ancora par [[Doubt|dubitare]],<br>quanto certo sei mia figlia. Ma che musica? |
+| HELICANUS | Mio signore, non ne odo alcuna. |
+| [[Pericles|PERICLES]] | Nessuna? La musica delle sfere! Ascolta, mia [[Marina]]. |
+| LYSIMACHUS | (a parte agli altri)<br>Non è bene [[Cross|contrariarlo]]. Assecondatelo. |
+| [[Pericles|PERICLES]] | Suoni rarissimi. Non udite? |
+| LYSIMACHUS | Musica, mio signore? |
+| [[Pericles|PERICLES]] | Odo musica celestiale.<br>Mi rapisce all’ascolto, e denso sopore<br>pende sulle mie palpebre. Lasciatemi riposare.<br>S’addormenta |
+| LYSIMACHUS | Un guanciale per il suo capo. |
+| *(didascalia)* | A [[Marina]] e agli altri Amici compagni, |
+| LYSIMACHUS | se questo risponde alla mia giusta credenza<br>vi ricorderò [[Well|bene]]. Così lasciatelo tutti. |
+| *(didascalia)* | Escono tutti tranne [[Pericles|Pericle]] |
+| *(didascalia)* | [[Diana]] discende dai cieli |
+| [[Diana|DIANA]] | Il mio tempio sorge in Efeso. Affrettati là,<br>e fa’ sacrificio sul mio altare.<br>Là, quando le mie vergini sacerdotesse sian riunite,<br>narra per intero le tue vicende in questo modo:<br>a piena voce dinanzi a tutto il popolo,<br>rivela come in mare perdesti tua moglie.<br>A piangere le tue traversie, con quelle di tua figlia, chiama<br>e dàne racconto al vivo.<br>Compi il mio comando, o vivrai nel dolore;<br>fallo, e resta felice, per il mio arco d’argento.<br>Destati, e narra il tuo sogno. |
+| *(didascalia)* | [[Diana]] ascende ai cieli |
+| [[Pericles|PERICLES]] | Celeste Diana, dea argentea,<br>ti obbedirò. (Chiamando) Helicanus! |
+| *(didascalia)* | Entrano Helicanus, Lysimachus e [[Marina]] |
+| HELICANUS | Signore? |
+| [[Pericles|PERICLES]] | Il mio intento era per Tarso, per colpirvi<br>l’inospitale [[Cleon|Cleone]], ma sono<br>per altro servizio prima. Verso Efeso<br>volgi le nostre vele gonfie. Fra poco ti dirò perché. |
+| *(didascalia)* | Esce Helicanus |
+| [[Pericles|PERICLES]] | Possiamo rifocillarci, signore, sulla vostra riva,<br>e darvi oro per quelle vettovaglie<br>che i nostri intenti richiederanno? |
+| LYSIMACHUS | Con tutto il cuore, signore,<br>e quando sarete a terra ho una richiesta. |
+| [[Pericles|PERICLES]] | La otterrete, fosse anche di corteggiare mia figlia,<br>ché pare siate stato nobile verso di lei. |
+| LYSIMACHUS | Signore, datemi il vostro braccio. |
+| [[Pericles|PERICLES]] | Vieni, mia [[Marina]]. |
+| *(didascalia)* | Esce [[Pericles|Pericle]] con Lysimachus a un braccio, [[Marina]] all’altro |
+
 
 
 <span class="atom-split" data-atom="scenes--scene_22" data-title="Pericles — Scene 22" data-chapter="Scene 22" data-kind="scene" data-tags="archetype/child,archetype/king,motif/city,motif/death,motif/marriage,motif/spring,motif/stars,motif/tears,motif/time,motif/well,concept/charity,concept/faith,concept/longing,concept/truth,histref/ancient_rome,histref/roman_history,character/antiochus,character/cleon,character/diana,character/gower,character/marina,character/pericles,character/queen,character/thaisa"></span>
@@ -1964,3 +2894,51 @@ tags:
 | [[Gower\|GOWER]] | In [[Antiochus]] and his daughter you have heard<br>Of monstrous lust the due and just reward;<br>In [[Pericles]], his [[Queen\|queen]], and daughter seen,<br>Although assailed with fortune fierce and keen,<br>Virtue preserved from fell destruction’s blast,<br>Led on by heav’n, and crowned with joy at last.<br>In Helicanus may you [[Well\|well]] descry<br>A figure of [[Truth\|truth]], of [[Faith\|faith]], of loyalty.<br>In reverend Cerimon there [[Well\|well]] appears<br>The worth that learned [[Charity\|charity]] aye wears.<br>For wicked [[Cleon]] and his wife, when fame<br>Had spread their cursed deed to th’ honoured name<br>Of [[Pericles]], to rage the [[City\|city]] turn,<br>That him and his they in his palace burn.<br>The gods for murder seemed so content<br>To punish that, although not done, but meant.<br>So on your patience evermore attending,<br>New joy wait on you. Here our play has ending. |
 | *(didascalia)* | Exit |
 | ADDITIONAL PASSAGES | Q gives this more expansive version of [[Marina]]’s Epitaph (18.347):<br>’The fairest, sweetest, best lies here,<br>Who withered in her [[spring]] of year.<br>She was of Tyrus the [[King]]’s daughter,<br>On whom foul [[Death\|death]] hath made this slaughter.<br>[[Marina]] was she called, and at her birth<br>Thetis, being proud, swallowed some part o‘th’ earth;<br>Therefore the earth, fearing to be o’erflowed,<br>Hath Thetis’ birth-[[Child\|child]] on the heav‘ns bestowed,<br>Wherefore she does, and swears she’ll never stint,<br>Make raging batt’ry upon shores of flint.’ |
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+| Chi parla | Battuta |
+|---|---|
+| [[Gower|GOWER]] | Or la nostra sabbia è quasi corsa;<br>poco ancora, e poi muti.<br>Questo mio ultimo dono datemi,<br>ché tal cortesia deve sollevarmi:<br>che voi acconciamente supponiate<br>quali pompe, quali imprese, quali spettacoli,<br>qual musica e grazioso frastuono<br>il reggente fece in Mitilene<br>per accogliere il [[King|re]]. Sì [[Well|bene]] prosperò<br>ch’egli è promesso in isposo<br>alla bella [[Marina]], ma in nessun modo<br>prima ch’ei compia il suo sacrificio<br>come Diana comandò; al che essendo diretti,<br>l’intervallo, vi prego, tutto abbreviate.<br>In alata brevità le vele son gonfie,<br>e i voti riescono come son voluti.<br>In Efeso vedete il tempio: |
+| *(didascalia)* | Si scoprono un altare, [[Thaisa|Taisa]] e altre vestali |
+| [[Gower|GOWER]] | il nostro [[King|re]], e tutta la sua compagnia. |
+| *(didascalia)* | Entrano [[Pericles|Pericle]], [[Marina]], Lysimachus, Helicanus, Cerimon, con il seguito |
+| [[Gower|GOWER]] | Ch’egli possa venir qua sì presto<br>è per grazioso decreto della vostra fantasia. |
+| *(didascalia)* | [[Gower]] si mette in disparte |
+| [[Pericles|PERICLES]] | Salve, Diana. Per compiere il tuo giusto comando<br>qui mi confesso il [[King|re]] di Tiro,<br>che, cacciato dal terrore dal mio paese, sposai<br>la bella [[Thaisa|Taisa]] |
+| *(didascalia)* | [[Thaisa|Taisa]] trasale |
+| [[Pericles|PERICLES]] | a Pentapoli.<br>In mare morì di parto, ma diede alla luce<br>una [[Child|figlia]] fanciulla chiamata [[Marina]], che, o dea,<br>porta ancora la tua argentea livrea. Ella a Tarso<br>fu allevata presso [[Cleon|Cleone]], il quale a quattordici anni<br>cercò d’ucciderla, ma le sue migliori [[Stars|stelle]]<br>la portarono a Mitilene, alla cui riva stando all’ancora<br>le sue fortune condussero la fanciulla a bordo della nostra barca,<br>dove, per suo chiarissimo ricordo, ella<br>si fece conoscere mia figlia. |
+| [[Thaisa|THAISA]] | La voce e il volto—<br>voi siete, voi siete—o regale [[Pericles|Pericle]]! Ella cade |
+| [[Pericles|PERICLES]] | Che vuol dire la monaca? Ella muore. Aiuto, gentiluomini! |
+| CERIMON | Nobile signore,<br>se avete detto il vero all’altare di [[Diana]],<br>questa è vostra moglie. |
+| [[Pericles|PERICLES]] | Reverendo apparitore, no.<br>La gettai fuori bordo con queste stesse braccia. |
+| CERIMON | Su questa costa, ve ne rispondo. |
+| [[Pericles|PERICLES]] | È certissimo. |
+| CERIMON | Badate alla dama. Oh, è solo sopraffatta dalla gioia.<br>Un mattino burrascoso, di buon’ora, questa dama<br>fu gettata su questa riva. Apersi la bara,<br>vi trovai ricchi gioielli, la risanai, e la collocai<br>qui nel tempio di [[Diana]]. |
+| [[Pericles|PERICLES]] | Possiamo vederli? |
+| CERIMON | Gran signore, vi saranno recati alla mia [[house|casa]],<br>dove v’invito. Guardate, [[Thaisa|Taisa]] s’è<br>ripresa. |
+| [[Thaisa|THAISA]] | Oh, lasciate ch’io lo guardi!<br>S’egli non è dei miei, la mia santità<br>non piegherà ai miei sensi orecchio licenzioso,<br>ma lo frenerà, malgrado la vista. Oh, mio signore,<br>non siete voi [[Pericles|Pericle]]? Come lui parlaste,<br>come lui siete. Non nominaste una tempesta,<br>una nascita e una [[Death|morte]]? |
+| [[Pericles|PERICLES]] | La voce della morta [[Thaisa|Taisa]]! [[Thaisa|THAISA]] Quella [[Thaisa|Taisa]]<br>io sono, creduta morta e annegata. |
+| *(didascalia)* | [[Pericles|PERICLES]] prendendo la mano di [[Thaisa|Taisa]] Immortale Diana! |
+| [[Thaisa|THAISA]] | Ora vi riconosco meglio.<br>Quando con [[Tears|lacrime]] lasciammo Pentapoli,<br>il [[King|re]] mio padre vi diede un anello come questo. |
+| [[Pericles|PERICLES]] | Questo, questo! Basta, o dèi. La vostra presente bontà<br>fa delle mie passate miserie un gioco; farete [[Well|bene]]<br>se al toccare delle sue labbra io possa<br>struggermi, e non esser più veduto.—Oh vieni, sii sepolta<br>una seconda [[Time|volta]] dentro queste braccia. |
+| *(didascalia)* | S’abbracciano e si baciano |
+| [[Marina|MARINA]] | (inginocchiandosi davanti a [[Thaisa|Taisa]]) Il mio cuore balza per rifugiarsi nel seno di mia madre. |
+| [[Pericles|PERICLES]] | Guarda chi qui s’inginocchia: carne della tua carne, [[Thaisa|Taisa]],<br>il tuo peso in mare, e chiamata [[Marina]]<br>perché là fu data alla luce. |
+| *(didascalia)* | [[Thaisa|THAISA]] abbracciando [[Marina]] Benedetta, e mia! HELICANUS inginocchiandosi davanti a [[Thaisa|Taisa]] |
+| [[Pericles|PERICLES]] | Salve, signora, e mia [[Queen|regina]]. |
+| [[Thaisa|THAISA]] | Non vi conosco. |
+| [[Pericles|PERICLES]] | M’avete udito dire che, quando fuggii da Tiro,<br>lasciai dietro un antico sostituto.<br>Ricordate come chiamavo quell’uomo?<br>L’ho nominato spesso. |
+| [[Thaisa|THAISA]] | Era Helicanus allora. |
+| [[Pericles|PERICLES]] | Ancora conferma.<br>Abbraccialo, cara [[Thaisa|Taisa]]; è lui.<br>Or bramo udire come foste ritrovata,<br>come mai preservata, e chi ringraziare—<br>oltre gli dèi—per questo gran miracolo. |
+| [[Thaisa|THAISA]] | Il signor Cerimon, mio signore. Questi è l’uomo<br>per il quale gli dèi han mostrato la lor potenza,<br>e che può<br>dal primo all’ultimo risolvervi. |
+| [[Pericles|PERICLES]] | (a Cerimon) Reverendo signore,<br>gli dèi non posson avere ministro mortale<br>più simile a un dio di voi. Volete narrare<br>come questa morta [[Queen|regina]] rivive? |
+| CERIMON | Lo farò, mio signore.<br>Vi supplico, venite prima con me alla mia [[house|casa]],<br>dove vi sarà mostrato tutto ciò che fu trovato con lei,<br>e narrato come in questo tempio ella fu collocata,<br>senza omettere nulla di necessario. |
+| [[Pericles|PERICLES]] | Pura [[Diana]],<br>ti benedico per la tua visione, e t’offrirò<br>notturne oblazioni.—Diletta [[Thaisa|Taisa]],<br>questo principe, il bel promesso di vostra figlia,<br>a Pentapoli la sposerà.<br>(A [[Marina]]) E ora questo ornamento<br>che mi fa apparire tetro lo taglierò a modo,<br>e ciò che in questi quattordici anni nessun rasoio toccò,<br>a onore del giorno delle tue [[Marriage|nozze]] abbellirò. |
+| [[Thaisa|THAISA]] | Il signor Cerimon ha lettere di buon credito,<br>signore, da Pentapoli: mio padre è morto. |
+| [[Pericles|PERICLES]] | Il cielo ne faccia una stella! Pure là, mia [[Queen|regina]],<br>celebreremo le loro nozze, e noi stessi<br>in quel regno passeremo i giorni che ci restano.<br>Nostro figlio e nostra figlia regneranno in Tiro.—<br>Signor Cerimon, teniamo a freno la nostra [[Longing|brama]]<br>d’udire il resto non narrato. Signore, mostrateci la via. |
+| *(didascalia)* | Escono tutti tranne [[Gower]] |
+| [[Gower|GOWER]] | In [[Antiochus|Antioco]] e in sua figlia avete udito<br>della mostruosa lussuria il debito e giusto premio;<br>in [[Pericles|Pericle]], nella sua [[Queen|regina]] e nella figlia veduto,<br>benché assaliti da fortuna fiera e acuta,<br>la virtù preservata dal soffio della fiera distruzione,<br>guidata dal cielo, e alfine coronata di gioia.<br>In Helicanus potete [[Well|ben]] discernere<br>una figura di [[Truth|verità]], di [[Faith|fede]], di lealtà.<br>Nel reverendo Cerimon [[Well|bene]] appare<br>il pregio che la dotta [[Charity|carità]] sempre porta.<br>Quanto al malvagio [[Cleon|Cleone]] e a sua moglie, quando la fama<br>ebbe divulgato il loro maledetto atto all’onorato nome<br>di [[Pericles|Pericle]], la [[City|città]] si volse a furore,<br>sì che lui e i suoi nel suo palazzo bruciarono.<br>Gli dèi parvero così contenti dell’omicidio<br>di punir quello che, benché non compiuto, fu inteso.<br>Così, sempre in attesa della vostra pazienza,<br>nuova gioia v’assista. Qui il nostro dramma ha fine. |
+| *(didascalia)* | Esce |
+| PASSI AGGIUNTIVI | Q dà questa versione più ampia dell’epitaffio di [[Marina]] (18.347):<br>’La più bella, la più dolce, la migliore qui giace,<br>che appassì nella sua [[spring|primavera]] d’anni.<br>Era del [[King|re]] di Tiro la figlia,<br>su cui la turpe [[Death|morte]] ha fatto questa strage.<br>[[Marina]] fu chiamata, e alla sua nascita<br>Teti, superba, inghiottì qualche parte della terra;<br>perciò la terra, temendo d’essere sommersa,<br>ha donato ai cieli la [[Child|figlia]] natale di Teti,<br>onde quella fa, e giura che mai cesserà,<br>di battere furiosa contro rive di selce.’ |

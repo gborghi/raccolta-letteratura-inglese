@@ -1330,6 +1330,73 @@ Exeunt ⌈Norfolk at one door, [[Buckingham]] and Abergavenny under guard at ano
 | *(didascalia)* | Exeunt Norfolk at one door, [[Buckingham]] and Abergavenny under guard at another |
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Un baldacchino di stato per tutta la durata del dramma. Entra il Duca di Norfolk da una porta; dall’altra porta entrano il [[Duke of Buckingham|Duca di Buckingham]] e Lord Abergavenny |
+| [[Buckingham|BUCKINGHAM]] | (a Norfolk)<br>Buon giorno, e [[Well|ben]] trovato. Come avete fatto<br>Da quando ci vedemmo in Francia? |
+| NORFOLK | Ringrazio vostra grazia,<br>In salute, e da allora sempre nuovo ammiratore<br>Di ciò che là vidi. |
+| [[Buckingham|BUCKINGHAM]] | Una febbre intempestiva<br>Mi tenne prigioniero nella mia camera quando 5<br>Quei soli di gloria, quei due lumi degli uomini,<br>S’incontrarono nella valle di Ardres. |
+| NORFOLK | Fra Guisnes e Ardres.<br>Io v’era allora presente, li vidi salutarsi a cavallo,<br>Li scorsi quando scesero, come s’avvinsero<br>Nel loro abbraccio quasi crescessero insieme,<br>Ché, se tali fossero, quali quattro incoronati avrebbero<br>pesato<br>Un tale in uno composto? |
+| [[Buckingham|BUCKINGHAM]] | Per tutto quel [[Time|tempo]]<br>Fui prigioniero della mia camera. |
+| NORFOLK | Allora perdeste<br>La vista della gloria terrena. Si potrebbe dire<br>Che fino a quel [[Time|tempo]] la pompa era sola, ma ora sposata<br>A una maggiore di sé. Ogni giorno seguente<br>Divenne maestro del giorno appresso, finché l’ultimo<br>Fece sue le meraviglie dei primi. Oggi i Francesi,<br>Tutti scintillanti d’oro, come dèi pagani<br>Oscurarono gli Inglesi; e domani essi<br>Fecero della Britannia un’India. Ogni uomo che stava là<br>Pareva una miniera. I loro paggi nanerottoli erano<br>Come cherubini, tutti dorati; e le dame anch’esse,<br>Non use alla fatica, quasi sudavano a portare<br>L’[[Pride|orgoglio]] addosso, sì che la loro stessa fatica<br>Era per esse come un dipinto. Or questa [[Masque|mascherata]]<br>Fu proclamata incomparabile, e la [[Night|notte]] seguente<br>La rese [[Fool|sciocca]] e mendica. I due re,<br>Pari in splendore, erano ora il migliore, ora il peggiore,<br>Secondo che la presenza li mostrava. Chi era sotto gli occhi<br>Era sempre quello lodato, e presenti entrambi,<br>Si disse che non se ne vedeva che uno, e nessun giudice<br>Osò muover la lingua a censura. Quando questi soli—<br>Ché così li chiamano—per mezzo dei loro araldi sfidarono<br>I nobili spiriti all’armi, essi compirono<br>Oltre la misura del pensiero, sì che l’antica favolosa storia,<br>Vista ora abbastanza possibile, ottenne credito<br>Che a Bevis si credette. |
+| [[Buckingham|BUCKINGHAM]] | Oh, voi andate lontano! |
+| NORFOLK | Com’io appartengo all’onorata gente, e amo<br>Nell’[[Honour|onore]] l’onestà, il racconto d’ogni cosa<br>Perderebbe, per buon narratore che fosse, un po’ di quella vita<br>Cui l’azione [[Self|stessa]] fu lingua. Tutto fu regale.<br>Al suo ordinamento nulla si ribellò.<br>L’ordine dava a ogni cosa risalto. Ogni ufficio compì<br>Distintamente la sua piena funzione. |
+| [[Buckingham|BUCKINGHAM]] | Chi guidò—<br>Voglio dire, chi congegnò il [[Body|corpo]] e le membra<br>Di questo gran divertimento, a vostro avviso? |
+| NORFOLK | Uno, per certo, che non promette alcuna attitudine<br>In tale faccenda. |
+| [[Buckingham|BUCKINGHAM]] | Di grazia, chi, mio signore? |
+| NORFOLK | Tutto ciò fu ordinato dalla buona discrezione<br>Del reverendissimo Cardinale di York. |
+| [[Buckingham|BUCKINGHAM]] | Il diavolo lo [[Speed|spedisca]]! Non v’è pasticcio d’alcuno che sia libero<br>Dal suo dito ambizioso. Che aveva egli<br>Da fare in queste sfrenate vanità? Mi [[Wonder|meraviglio]]<br>Che un tal blocco di sugna possa, con la sua stessa mole,<br>Assorbire i raggi del sole benefico,<br>E tenerli lontani dalla terra. |
+| NORFOLK | Certo, signore,<br>V’è in lui stoffa che lo spinge a questi fini.<br>Poiché, non essendo sostenuto da avi, la cui grazia<br>Segna ai successori la via, né chiamato no<br>Per alte imprese rese alla [[Crown|corona]], né alleato<br>A eminenti sostenitori, ma a modo di ragno,<br>Dalla sua tela tratta da [[Self|sé]], a ci fa notare<br>Che la forza del proprio merito gli apre il cammino—<br>Un dono che il cielo gli dà, e che gli compra<br>Un posto accanto al [[King|Re]]. |
+| ABERGAVENNY | Io non so dire<br>Che cosa il cielo gli abbia dato—che occhio più grave<br>Penetri in ciò; ma io ben vedo il suo [[Pride|orgoglio]]<br>Sbucare da ogni sua parte. Donde gli viene questo?<br>Se non dall’inferno, il diavolo è un avaro<br>O ha dato già tutto prima, ed egli comincia<br>Un nuovo inferno in sé stesso. |
+| [[Buckingham|BUCKINGHAM]] | Perché, in nome del diavolo,<br>In questa uscita verso la Francia, si prese egli l’arbitrio,<br>Senza saputa del [[King|Re]], di designare<br>Chi dovesse accompagnarlo? Compila la lista<br>Di tutta la nobiltà, per la maggior parte tali<br>Cui tanto grave spesa quanto poco [[Honour|onore]]<br>Intendeva imporre; e la sua propria lettera,<br>Escluso l’onorevole consesso del consiglio,<br>Deve tirarlo dentro, chi egli mette in carta. |
+| ABERGAVENNY | Io conosco<br>Parenti miei—tre almeno—che hanno<br>Per questo tanto infermato le loro fortune che mai<br>Saranno agiati come prima. |
+| [[Buckingham|BUCKINGHAM]] | Oh, molti<br>S’han rotto le spalle a caricarsi addosso i manieri<br>Per questo gran [[Journey|viaggio]]. Che fece questa [[Vanity|vanità]]<br>Se non procurare il commercio<br>D’un esito assai meschino? |
+| NORFOLK | Con dolore penso<br>Che la pace tra i Francesi e noi non valga<br>La spesa che la concluse. |
+| [[Buckingham|BUCKINGHAM]] | Ognuno,<br>Dopo l’orrenda [[Storm|tempesta]] che seguì, fu<br>Cosa ispirata, e, senza consultarsi, proruppe<br>In una generale profezia—che quella bufera,<br>Sconciando la veste di questa pace, presagiva<br>La sua rottura improvvisa. |
+| NORFOLK | La quale è già germogliata—<br>Ché la Francia ha infranto la lega, e ha sequestrato<br>Le merci dei nostri mercanti a Bordeaux. |
+| ABERGAVENNY | È per questo<br>Che l’ambasciatore è stato zittito? |
+| NORFOLK | Per la Vergine, sì. |
+| ABERGAVENNY | Un bel titolo di pace, e comprata<br>A prezzo superfluo. |
+| [[Buckingham|BUCKINGHAM]] | Ebbene, tutta questa faccenda<br>La condusse il nostro reverendo Cardinale. |
+| NORFOLK | Piaccia a vostra grazia,<br>Lo Stato prende nota del privato dissidio<br>Fra voi e il Cardinale. Vi consiglio—<br>E prendetelo da un cuore che verso di voi augura<br>[[Honour|Onore]] e piena sicurezza—di leggere<br>La malizia del Cardinale e la sua potenza<br>Insieme; e di considerare inoltre che<br>Ciò che il suo alto odio vorrebbe attuare non manca<br>D’un ministro in suo potere. Conoscete la sua [[Nature|natura]],<br>Che è vendicativo; e io conosco la sua [[Sword|spada]]<br>Ha un taglio acuto—è lunga, e si può dir no<br>Che giunge lontano; e dove non arriverà<br>Là la scaglia. Riponete in seno il mio consiglio,<br>Lo troverete salubre. Ecco, dove viene quello scoglio<br>Che vi consiglio d’evitare. |
+| *(didascalia)* | Entra il [[Cardinal Wolsey|Cardinale Wolsey]], portata dinanzi a lui la borsa che contiene il gran sigillo. Entrano con lui alcuni delle guardie, e due segretari con carte. Il Cardinale nel passare fissa lo sguardo su [[Buckingham]] e [[Buckingham]] su di lui, entrambi pieni di disdegno |
+| [[Cardinal Wolsey|CARDINALE WOLSEY]] | (a un segretario)<br>L’intendente del [[Duke of Buckingham|Duca di Buckingham]], eh?<br>Dov’è il suo interrogatorio? |
+| SEGRETARIO | Qui, se vi piace. |
+| [[Cardinal Wolsey|CARDINALE WOLSEY]] | È pronto in persona? |
+| SEGRETARIO | Sì, piaccia a vostra grazia. |
+| [[Cardinal Wolsey|CARDINALE WOLSEY]] | [[Well|Bene]], allora sapremo di più, e [[Buckingham]] Dovrà smorzare questo suo grande cipiglio. |
+| *(didascalia)* | Escono Wolsey e il suo seguito |
+| [[Buckingham|BUCKINGHAM]] | Questo cagnaccio di macellaio ha la bocca velenosa, e io<br>Non ho il potere di mettergli la museruola; dunque è meglio<br>Non destarlo nel suo sonno. Il libro d’un mendicante<br>Vale più del [[Blood|sangue]] d’un nobile. |
+| NORFOLK | Che, siete irritato?<br>Chiedete a Dio temperanza; quello è il solo rimedio<br>Che il vostro male richiede. |
+| [[Buckingham|BUCKINGHAM]] | Leggo nel suo sguardo<br>Materia contro di me, e il suo occhio mi vilipese<br>Come suo abietto oggetto. In questo istante<br>Mi trapana con qualche trama. È andato dal [[King|Re]]—<br>Lo seguirò, e lo fisserò più fermo di lui. |
+| NORFOLK | Fermatevi, mio signore,<br>E lasciate che la ragione interroghi la vostra collera<br>Su ciò che intendete fare. A salire erti colli<br>Occorre passo lento in principio. L’ira è come<br>Un [[Horse|cavallo]] tutto focoso che, lasciato andare a suo modo,<br>Il [[Self|proprio]] ardore lo stanca. Non un uomo in Inghilterra<br>Sa consigliarmi come voi. Siate verso voi stesso<br>Come sareste verso il vostro amico. |
+| [[Buckingham|BUCKINGHAM]] | Andrò dal [[King|Re]],<br>E con bocca d’[[Honour|onore]] abbatterò del tutto<br>L’insolenza di questo tale d’Ipswich, o proclamerò<br>Che non v’è differenza fra le persone. |
+| NORFOLK | Siate avvisato.<br>Non scaldate per il vostro nemico una fornace tanto<br>Che bruci voi stesso. Possiamo oltrepassare<br>Per violenta rapidità ciò a cui corriamo,<br>E perderlo per averlo troppo corso. Non sapete<br>Che il [[Fire|fuoco]] che fa salire il liquore finché trabocchi,<br>Nel parer d’accrescerlo lo consuma? Siate avvisato.<br>Ridico che non v’è [[Soul|anima]] inglese<br>Più forte a dirigervi di voi stesso,<br>Se col succo della ragione volessi spegnere<br>O solo mitigare il [[Fire|fuoco]] della passione. |
+| [[Buckingham|BUCKINGHAM]] | Signore,<br>Vi sono grato, e procederò<br>Secondo la vostra prescrizione; ma questo tale gonfio di superbia—<br>Che non nomino per flusso di bile, ma<br>Per sincero moto—per informazioni,<br>E prove chiare come fonti a luglio quando<br>Vediamo ogni grano di ghiaia, io so<br>Ch’egli è corrotto e traditore. |
+| NORFOLK | Non dite ‘traditore’. |
+| [[Buckingham|BUCKINGHAM]] | Al [[King|Re]] lo dirò, e farò la mia asserzione forte<br>Come riva di roccia. Udite: questa santa volpe,<br>O lupo, o entrambi—ché è tanto rapace<br>Quanto è subdolo, e tanto proclive al male<br>Quanto capace di compierlo, la sua mente e il suo posto<br>Infettandosi l’un l’altro, sì, reciprocatamente—<br>Solo per mostrare la sua pompa tanto [[Well|bene]] in Francia<br>Quanto qui in [[Home|patria]], induce il [[King|Re]] nostro signore<br>A quest’ultimo costoso trattato, l’abboccamento<br>Che inghiottì tanto tesoro e, come un vetro,<br>Si ruppe nel risciacquo. |
+| NORFOLK | In [[Faith|fede]], e così fu. |
+| [[Buckingham|BUCKINGHAM]] | Di grazia, concedetemi, signore. Questo astuto Cardinale<br>Gli articoli dell’accordo stese<br>Come a lui piacque, e furono ratificati 170<br>Al suo grido ‘Così sia’, con tanto effetto<br>Quanto dare una gruccia a un morto. Ma il nostro conte-Cardinale<br>Ha fatto questo, ed è [[Well|bene]], per il degno Wolsey,<br>Che non può errare, ch’egli l’abbia fatto. Or segue questo—<br>Il quale, come lo intendo, è una specie di cucciolo<br>Della vecchia madre, il tradimento—Carlo l’Imperatore,<br>Col pretesto di vedere la [[Queen|Regina]] sua zia—<br>Ché tale fu davvero il suo colore, ma venne<br>Per sussurrare a Wolsey—qui fa visita.<br>I suoi timori erano che l’abboccamento fra<br>Inghilterra e Francia potesse, per la loro amicizia,<br>Generargli qualche pregiudizio, ché da questa lega<br>Sbucavano danni che lo minacciavano. Segretamente egli<br>Tratta col nostro Cardinale e, com’io credo—<br>E ben lo credo [[Well|bene]], ché son certo che l’Imperatore<br>Pagò prima di promettere, per cui la sua richiesta fu accolta<br>Prima d’esser chiesta—ma quando la via fu fatta,<br>E lastricata d’oro, l’Imperatore così desiderò<br>Che gli piacesse mutare il corso del [[King|Re]]<br>E rompere la detta pace. Sappia il [[King|Re]],<br>Come presto saprà da me, che così il Cardinale<br>Compra e vende il suo [[Honour|onore]] come gli piace,<br>E a proprio vantaggio. |
+| NORFOLK | Mi dispiace<br>Udir questo di lui, e vorrei che in ciò<br>Fosse in qualche modo frainteso. |
+| [[Buckingham|BUCKINGHAM]] | No, non una sillaba.<br>Io lo dichiaro in quella stessa forma<br>In cui apparirà alla prova. |
+| *(didascalia)* | Entra Brandon, precedendolo un sergente d’armi, e due o tre delle guardie |
+| BRANDON | Il vostro ufficio, sergente, eseguitelo. |
+| SERGENTE | Signore.<br>(A [[Buckingham]]) Mio signore il [[Duke of Buckingham|Duca di Buckingham]] e<br>Conte<br>Di Hereford, Stafford e Northampton, io<br>Ti arresto per alto tradimento nel nome<br>Del nostro sovrano [[King|Re]]. |
+| [[Buckingham|BUCKINGHAM]] | a Norfolk<br>Ecco, mio signore,<br>La rete m’è caduta addosso. Perirò<br>Sotto trame e macchinazioni. |
+| BRANDON | Mi dispiace<br>Vedervi tolto dalla libertà per guardare<br>La presente faccenda. È volere di sua altezza<br>Che andiate alla Torre. |
+| [[Buckingham|BUCKINGHAM]] | Nulla mi gioverà<br>Invocare la mia [[innocence|innocenza]], ché è su di me quella tinta<br>Che fa nera la mia parte più bianca. La volontà del<br>cielo<br>Sia fatta in questo e in ogni cosa. Obbedisco.<br>Oh, mio signore Abergavenny, state [[Well|bene]]. |
+| BRANDON | No, egli deve farvi compagnia.<br>(Ad Abergavenny)<br>Al [[King|Re]]<br>Piace che andiate alla Torre finché non sappiate<br>Come egli decida ulteriormente. |
+| ABERGAVENNY | Come disse il Duca,<br>Sia fatta la volontà del cielo e il piacere del [[King|Re]]<br>Da me obbedito. |
+| BRANDON | Ecco un mandato dal<br>[[King|Re]] per arrestare Lord Montague e le persone<br>Del confessore del duca, John de la Car,<br>Un certo Gilbert Perk, suo cancelliere— |
+| [[Buckingham|BUCKINGHAM]] | Così, così;<br>Queste sono le membra della trama. Non più, [[Hope|spero]]. |
+| BRANDON | Un monaco dei Certosini. |
+| [[Buckingham|BUCKINGHAM]] | Oh, Nicholas Hopkins? |
+| BRANDON | Lui. |
+| [[Buckingham|BUCKINGHAM]] | Il mio intendente è falso. Il troppo grande Cardinale<br>Gli ha mostrato dell’oro. La mia vita è già misurata.<br>Io sono l’[[Shadow|ombra]] del povero [[Buckingham]],<br>La cui figura anche in questo istante la nube assume<br>Oscurando il mio chiaro sole. (A Norfolk) Mio signore,<br>addio. |
+| *(didascalia)* | Escono Norfolk da una porta, [[Buckingham]] e Abergavenny sotto scorta da un’altra |
+
 
 
 <span class="atom-split" data-atom="act_1--scene_2" data-title="All Is True (Henry VIII) — Act I, Scene 2" data-chapter="Scene 2" data-kind="scene" data-tags="archetype/king,archetype/usurper,motif/crown,motif/journey,motif/love,motif/nature,motif/night,motif/prison,motif/rose,motif/soul,motif/time,motif/well,concept/charity,concept/fear,concept/freedom,concept/honour,concept/longing,concept/mercy,concept/nature,concept/revenge,concept/truth,character/buckingham,character/cardinal_wolsey,character/duke_of_buckingham,character/duke_of_suffolk,character/henry_viii,character/queen,character/queen_katherine,character/richard"></span>
@@ -1390,6 +1457,62 @@ Exeunt ⌈Norfolk at one door, [[Buckingham]] and Abergavenny under guard at ano
 | *(didascalia)* | Flourish. Exeunt |
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Cornette. Entra il [[King|re]] Enrico appoggiandosi alla spalla del [[Cardinal Wolsey|Cardinale Wolsey]]. Entrano con loro i due segretari di Wolsey, i nobili e Sir Thomas Lovell. Il [[King|re]] sale al suo seggio sotto il baldacchino regale; Wolsey si colloca ai piedi del [[King|re]], alla sua destra |
+| [[King|RE]] ENRICO | a Wolsey<br>La mia vita stessa, e il meglio del suo cuore,<br>vi ringrazia di questa gran cura. Ero al tiro<br>d’una congiura a carica piena, e rendo grazie<br>a voi che l’avete soffocata. Sia chiamato innanzi a noi<br>quel gentiluomo di [[Buckingham]]. Di persona<br>voglio udirlo giustificare le sue confessioni,<br>e punto per punto i tradimenti del suo padrone<br>egli ridirà. |
+| *(didascalia)* | L’ARALDO (da dentro) |
+| [[King|RE]] ENRICO | Largo alla [[Queen|regina]], scortata dal Duca di Norfolk. |
+| *(didascalia)* | Entrano [[Queen Katherine|la regina Caterina]], il Duca di Norfolk e il [[Duke of Suffolk|Duca di Suffolk]]. Ella s’inginocchia. Il [[King|re]] Enrico si leva dal suo seggio, la rialza e la bacia |
+| [[Queen Katherine|REGINA CATERINA]] | No, dobbiamo restare più a lungo in ginocchio. Sono una supplice. |
+| [[King|RE]] ENRICO | Alzatevi, e prendete posto accanto a noi.<br>La colloca accanto a sé<br>Metà della vostra richiesta<br>non nominatecela mai. Avete metà del nostro potere,<br>l’altra metà v’è concessa prima ancora che chiediate.<br>Ripetete il vostro volere e prendetelo. |
+| [[Queen Katherine|REGINA CATERINA]] | Grazie a vostra maestà.<br>Che vogliate [[Love|amare]] voi stesso, e in quell’[[Love|amore]]<br>non lasciare in non cale il vostro [[Honour|onore]] né<br>la dignità del vostro ufficio, è il punto<br>della mia petizione. |
+| [[King|RE]] ENRICO | Signora mia, proseguite. |
+| [[Queen Katherine|REGINA CATERINA]] | Sono sollecitata, non da pochi,<br>e da gente d’onesta condizione, che i vostri sudditi<br>sono in gran travaglio. Sono state mandate<br>fra loro commissioni che hanno incrinato il cuore<br>d’ogni loro fedeltà; nelle quali, benché,<br>mio buon signore Cardinale, essi versino rimproveri<br>amarissimi su di voi, come istigatore<br>di queste esazioni, pure il [[King|re]] nostro signore—<br>il cui [[Honour|onore]] il cielo difenda da ogni macchia—perfino egli<br>non sfugge<br>a un parlare scortese, anzi tale che rompe<br>i vincoli della fedeltà, e quasi appare<br>in aperta ribellione. |
+| NORFOLK | Non ‘quasi appare’—<br>appare davvero; ché per queste tassazioni<br>i drappieri tutti, non potendo mantenere<br>i molti a loro [[Longing|appartenenti]], hanno licenziato<br>le filatrici, i cardatori, i follatori, i tessitori, i quali,<br>inetti ad altra vita, costretti dalla fame<br>e dalla mancanza d’altri mezzi, in modo disperato<br>sfidando l’evento a viso aperto, sono tutti in tumulto,<br>e il pericolo si aggira fra loro. |
+| [[King|RE]] ENRICO | Tassazione?<br>In che cosa, e quale tassazione? Mio signore Cardinale,<br>voi che ne siete incolpato al pari di noi,<br>sapete di questa tassazione? |
+| [[Cardinal Wolsey|CARDINALE WOLSEY]] | Con vostra licenza, signore,<br>io non conosco che una parte singola in tutto ciò che<br>concerne lo stato, e sto in prima fila solo in quella schiera<br>dove altri battono il passo con me. |
+| [[Queen Katherine|REGINA CATERINA]] | No, mio signore?<br>Non sapete più degli altri? Ma voi ordite<br>cose che pur si sanno da tutti, e che non giovano<br>a chi non vorrebbe conoscerle, e tuttavia deve<br>per forza farne conoscenza. Queste esazioni<br>di cui il mio sovrano vorrebbe notizia, sono<br>pestifere all’udirle, e a portarle<br>la schiena è sacrificata al carico. Si dice<br>che siano ideate da voi, o altrimenti soffrite<br>una troppo dura accusa. |
+| [[King|RE]] ENRICO | Sempre esazione!<br>Qual è la sua [[Nature|natura]]? Di che specie, fatecelo sapere,<br>è questa esazione? |
+| [[Queen Katherine|REGINA CATERINA]] | Sono fin troppo ardita<br>nel tentare la vostra pazienza, ma m’incoraggia<br>il perdono che m’avete promesso. Il dolore dei sudditi<br>viene da commissioni che esigono da ciascuno<br>la sesta parte del suo avere, da riscuotersi<br>senza indugio, e il pretesto di ciò<br>si dice essere le vostre guerre in Francia. Ciò fa bocche ardite.<br>Le lingue sputano fuori i loro doveri, e cuori freddi gelano<br>in essi la fedeltà. Le loro maledizioni ora<br>vivono dove vivevano le preghiere, ed è avvenuto<br>che questa docile obbedienza è schiava<br>d’ogni volere inasprito. Vorrei che vostra altezza<br>vi desse pronta considerazione, ché<br>non v’è affare più urgente. |
+| [[King|RE]] ENRICO | Sulla mia vita,<br>ciò è contro il nostro piacere. |
+| [[Cardinal Wolsey|CARDINALE WOLSEY]] | E quanto a me,<br>non son andato oltre in questo se non con<br>un voto singolo, e quello non passò da me se non<br>per dotta approvazione dei giudici. Se sono<br>calunniato da lingue ignoranti, che né conoscono<br>le mie facoltà né la mia persona, e tuttavia vogliono essere<br>le cronache del mio operare, lasciatemi dire<br>ch’è solo il destino della carica, e l’aspro roveto<br>che la virtù deve attraversare. Non dobbiamo trattenere<br>le nostre azioni necessarie per il [[Fear|timore]]<br>d’affrontare maligni censori, i quali sempre,<br>come pesci voraci, seguono un vascello<br>di fresco allestito, ma non ne traggono altro profitto<br>che un vano [[Longing|desiderio]]. Ciò che spesso facciamo meglio,<br>per malati interpreti, un tempo deboli, non è<br>nostro o non è concesso; ciò che peggio, altrettanto spesso,<br>toccando una qualità più grossolana, è esaltato<br>come il nostro atto migliore. Se dovessimo star fermi,<br>nel [[Fear|timore]] che il nostro moto sia deriso o criticato,<br>metteremmo radici qui dove sediamo,<br>o non saremmo che statue di stato. |
+| [[King|RE]] ENRICO | Le cose fatte [[Well|bene]],<br>e con cura, si esentano dal [[Fear|timore]];<br>le cose fatte senza esempio, nel loro esito<br>son da temere. Avete un precedente<br>di questa commissione? Credo nessuno.<br>Non dobbiamo strappare i nostri sudditi alle nostre leggi<br>e conficcarli nel nostro volere. La sesta parte di ciascuno?<br>Un tributo che fa tremare! Come, noi prendiamo<br>da ogni albero rami, scorza e parte del legname,<br>e benché lo lasciamo con la radice, così mutilato<br>l’aria ne berrà la linfa. A ogni contea<br>dove ciò è contestato mandate le nostre lettere con<br>libero perdono a ogni uomo che abbia negato<br>la forza di questa commissione. Vi prego, badateci—<br>lo affido alla vostra cura. |
+| [[Cardinal Wolsey|CARDINALE WOLSEY]] | (a un segretario) Una parola con voi.<br>Si scrivano lettere a ogni contea<br>della grazia e del perdono del [[King|re]].<br>(A parte, al segretario)<br>I comuni afflitti<br>hanno di me cattiva opinione. Si faccia correre voce<br>che per nostra intercessione questa revoca<br>e questo perdono vengono. Fra poco vi darò<br>ulteriori istruzioni sul procedere. |
+| *(didascalia)* | Esce il segretario |
+| *(didascalia)* | Entra l’intendente di [[Buckingham]] |
+| [[Queen Katherine|REGINA CATERINA]] | (al [[King|re]])<br>Mi duole che il [[Duke of Buckingham|Duca di Buckingham]]<br>sia incorso nel vostro disfavore. |
+| [[King|RE]] ENRICO | Molti se ne dolgono.<br>Il gentiluomo è dotto, e oratore rarissimo,<br>alla [[Nature|natura]] nessuno più obbligato; la sua educazione tale<br>che potrebbe fornire e istruire grandi maestri<br>e mai cercare aiuto fuori di sé. Eppure vedete,<br>quando doni così nobili si mostrino<br>non [[Well|bene]] disposti, corrottasi una volta la mente,<br>si mutano in forme viziose dieci volte più brutte<br>di quanto mai furono belle. Quest’uomo così compiuto,<br>che era iscritto fra i prodigi—e quando noi,<br>rapiti quasi nell’ascolto, non trovavamo<br>che un minuto la sua ora di discorso—egli, mia signora,<br>ha rivolto a mostruose abitudini le grazie<br>che un tempo furono sue, ed è divenuto nero<br>come se fosse imbrattato d’inferno. Sedete accanto a noi. Udrete—<br>costui era il suo gentiluomo di fiducia—<br>cose che rattristano l’[[Honour|onore]].<br>(A Wolsey)<br>Ditegli di riferire<br>le pratiche già ricordate, delle quali<br>non possiamo sentire troppo poco, né udire troppo. |
+| [[Cardinal Wolsey|CARDINALE WOLSEY]] | (all’intendente)<br>Fatevi avanti, e con animo ardito riferite ciò che,<br>da suddito accorto, avete raccolto<br>dal [[Duke of Buckingham|Duca di Buckingham]]. |
+| [[King|RE]] ENRICO | (all’intendente)<br>Parlate liberamente. |
+| INTENDENTE DI [[Buckingham|BUCKINGHAM]] | Primo, era in lui abituale, ogni giorno<br>ne infettava il discorso, che se il [[King|re]]<br>morisse senza prole, egli avrebbe fatto in modo<br>di render suo lo scettro. Queste stesse parole<br>l’ho udito proferire a suo genero,<br>lord Abergavenny, cui con giuramento minacciò<br>[[Revenge|vendetta]] sul Cardinale. |
+| [[Cardinal Wolsey|CARDINALE WOLSEY]] | (al [[King|re]])<br>Piaccia a vostra altezza notare<br>il suo pericoloso concepimento in questo punto,<br>non amico, nel suo desiderio, alla vostra alta persona.<br>Il suo volere è quanto mai maligno, e si stende<br>oltre voi fino ai vostri amici. |
+| [[Queen Katherine|REGINA CATERINA]] | Mio dotto signore Cardinale,<br>esponete ogni cosa con [[Charity|carità]]. |
+| [[King|RE]] ENRICO | (all’intendente) Continua.<br>Su che fondava il suo titolo alla [[Crown|corona]]<br>in caso di nostra mancanza? Su questo punto l’hai udito<br>in qualche [[Time|tempo]] dire alcunché? |
+| INTENDENTE DI [[Buckingham|BUCKINGHAM]] | Fu condotto a ciò<br>da una vana profezia di Nicholas Hopkins. |
+| [[King|RE]] ENRICO | Chi era quell’Hopkins? |
+| INTENDENTE DI [[Buckingham|BUCKINGHAM]] | Signore, un frate certosino,<br>suo confessore, che lo nutriva ogni minuto<br>di parole di sovranità. |
+| [[King|RE]] ENRICO | Come sai tu questo? |
+| INTENDENTE DI [[Buckingham|BUCKINGHAM]] | Non molto prima che vostra altezza movesse per la Francia,<br>il Duca, trovandosi alla [[Rose|Rosa]], nella parrocchia<br>di San Lorenzo Poutney, mi domandò<br>quale fosse il discorso fra i londinesi<br>intorno al [[Journey|viaggio]] di Francia. Risposi<br>che si temeva che i francesi si mostrassero perfidi,<br>a rischio del [[King|re]]; subito il Duca<br>disse ch’era quello il [[Fear|timore]] davvero, e ch’egli sospettava<br>si sarebbe avverata la verità di certe parole<br>dette da un santo monaco che spesso, dice egli,<br>‘ha mandato da me, desiderando ch’io permettessi<br>a John de la Car, mio cappellano, un’ora eletta<br>per udire da lui una faccenda di qualche momento;<br>al quale poi, sotto il sigillo della confessione,<br>aveva solennemente fatto giurare che quanto egli diceva<br>il mio cappellano a nessuna creatura vivente se non<br>a me dovesse riferire, e con contegno grave<br>a pause seguì questo: “né il [[King|re]] né i suoi eredi”,<br>di’ al Duca, “prospereranno. Digli di sforzarsi<br>di conquistare l’[[Love|amore]] del popolo. Il Duca<br>governerà l’Inghilterra.” ’ |
+| [[Queen Katherine|REGINA CATERINA]] | Se vi conosco [[Well|bene]],<br>eravate l’intendente del Duca, e perdeste l’ufficio<br>per la querela dei fittavoli. Badate bene<br>di non accusare nel vostro rancore una nobile persona<br>e di non guastare la vostra più nobile [[Soul|anima]]. Dico, badate;<br>sì, di cuore ve ne supplico. |
+| [[King|RE]] ENRICO | Lasciatelo proseguire.<br>(All’intendente) Avanti. |
+| INTENDENTE DI [[Buckingham|BUCKINGHAM]] | Sulla mia [[Soul|anima]] dirò solo il [[Truth|vero]].<br>Dissi al mio signore il Duca che per illusioni del demonio<br>il monaco poteva essere ingannato, e ch’era<br>pericoloso<br>rimuginare su ciò tanto oltre, finché<br>non gli forgiasse qualche disegno il quale, creduto,<br>era assai probabile ch’egli compisse. Rispose: ‘Bah,<br>non può recarmi danno’, aggiungendo inoltre<br>che se il [[King|re]] nella sua ultima malattia fosse mancato,<br>le teste del Cardinale e di Sir Thomas Lovell<br>sarebbero cadute. |
+| [[King|RE]] ENRICO | Ah? Come, tanto rigoglioso? Ah, ah!<br>C’è del malanno in quest’uomo. Puoi dire altro? |
+| INTENDENTE DI [[Buckingham|BUCKINGHAM]] | Posso, mio sire. |
+| [[King|RE]] ENRICO | Procedi. |
+| INTENDENTE DI BUCKINGHAM | Trovandoci a Greenwich,<br>dopo che vostra altezza ebbe rimproverato il Duca<br>a proposito di Sir William Bulmer— |
+| [[King|RE]] ENRICO | Ricordo<br>un tale [[Time|tempo]]: essendo egli mio servitore giurato,<br>il Duca lo trattenne come suo. Ma avanti—che ne seguì? |
+| INTENDENTE DI BUCKINGHAM | ‘Se’, disse, ‘per questo fossi stato imprigionato’—<br>alla Torre, pensai—‘avrei recitato<br>la parte che mio padre intendeva sostenere contro<br>l’[[Usurper|usurpatore]] [[Richard|Riccardo]] il quale, essendo a Salisbury,<br>chiese di venire alla sua presenza; e, se concesso,<br>mentre faceva sembiante d’omaggio, gli avrebbe<br>cacciato dentro il coltello.’ |
+| [[King|RE]] ENRICO | Un traditore gigantesco! |
+| [[Cardinal Wolsey|CARDINALE WOLSEY]] | (alla [[Queen|regina]])<br>Ora, signora, può sua altezza vivere in [[Freedom|libertà]],<br>e quest’uomo fuori di [[Prison|prigione]]? |
+| [[Queen Katherine|REGINA CATERINA]] | Dio rimedi a tutto. |
+| [[King|RE]] ENRICO | (all’intendente)<br>C’è dell’altro che vorrebbe uscire da te—che<br>dici? |
+| INTENDENTE DI [[Buckingham|BUCKINGHAM]] | Dopo ‘il Duca suo padre’, col ‘coltello’,<br>si distese, e con una mano sul pugnale,<br>l’altra spiegata sul petto, alzando gli occhi,<br>scagliò un orribile giuramento il cui tenore<br>era che, se maltrattato, avrebbe superato<br>suo padre di tanto quanto un’esecuzione<br>supera un proposito irresoluto. |
+| [[King|RE]] ENRICO | Ecco il suo fine—<br>rinfoderare in noi il suo coltello. È in arresto.<br>Chiamatelo a immediato giudizio. Se può<br>trovare [[Mercy|misericordia]] nella legge, sia sua; se nessuna,<br>non la cerchi da noi. Di giorno e di [[Night|notte]],<br>è traditore al sommo grado. |
+| *(didascalia)* | Squilli di tromba. Escono |
+
 
 
 <span class="atom-split" data-atom="act_1--scene_3" data-title="All Is True (Henry VIII) — Act I, Scene 3" data-chapter="Scene 3" data-kind="scene" data-tags="archetype/fool,motif/death,motif/night,motif/spring,motif/time,motif/well,concept/beauty,concept/doubt,concept/faith,histref/reformation,setting/court,character/henry_viii"></span>
@@ -1426,6 +1549,39 @@ Exeunt ⌈Norfolk at one door, [[Buckingham]] and Abergavenny under guard at ano
 | SANDS | I am your lordship’s. |
 | *(didascalia)* | Exeunt |
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entrano il Lord Ciambellano e Lord Sands |
+| LORD CIAMBELLANO | È possibile che gli incantesimi di Francia stregolino<br>gli uomini in così strani misteri? |
+| SANDS | Le usanze nuove,<br>per quanto siano ridicole—<br>anzi, siano pure poco virili—pure si seguono. |
+| LORD CIAMBELLANO | Per quanto vedo, tutto il bene che i nostri inglesi<br>hanno tratto dall’ultimo viaggio è soltanto<br>una smorfia o due sul volto. Ma sono smorfie astute,<br>ché quando le tengono giureresti addirittura<br>che i loro nasi stessi siano stati consiglieri<br>di Pipino o di Clotario, tanto si danno contegno. |
+| SANDS | Hanno tutti gambe nuove, e zoppe; chi<br>penserebbe,<br>non avendoli mai visti camminare prima, che lo spavenio<br>o l’[[spring|arrembatura]] regnasse fra loro. |
+| LORD CIAMBELLANO | [[Death|Morte]], mio signore,<br>i loro abiti son tagliati a foggia così pagana<br>che di certo hanno consumato la cristianità. |
+| *(didascalia)* | Entra Sir Thomas Lovell |
+| LORD CIAMBELLANO | Ebbene—<br>che nuove, Sir Thomas Lovell? |
+| LOVELL | [[Faith|Fede]] mia, mio signore,<br>non odo d’altro che del nuovo bando<br>affisso alla porta della [[Court|corte]]. |
+| LORD CIAMBELLANO | A che serve? |
+| LOVELL | Alla [[Reformation|riforma]] dei nostri galanti reduci dai viaggi<br>che riempiono la [[Court|corte]] di risse, chiacchiere e sarti. |
+| LORD CIAMBELLANO | Son lieto che sia là. Ora pregherei i nostri ‘messieurs’<br><br>di pensare che un cortigiano inglese può essere saggio<br>e non veder mai il Louvre. |
+| LOVELL | Devono o,<br>ché così suonano le condizioni, lasciare quei resti<br>di [[Fool|follia]] e di piume che presero in Francia,<br>con tutti i loro onorevoli punti d’ignoranza<br>a ciò pertinenti—come duelli e fuochi d’artificio,<br>oltraggiando uomini migliori di quanto essi possano essere<br>in nome d’una saggezza straniera, rinunciando del tutto<br>alla [[Faith|fede]] che ripongono nel tennis e nelle calze lunghe,<br>nei brevi calzoni a sbuffo, e in quelle insegne di viaggio—<br>e tornare a ragionare come uomini onesti,<br>o far fagotto verso i vecchi compagni di gioco. Là, credo,<br>potranno, cum privilegio, ‘oui’-eggiare via<br>l’ultimo scampolo della loro sconcezza ed esser derisi. |
+| SANDS | È [[Time|tempo]] di dar loro una purga, i loro morbi<br>son divenuti così contagiosi. |
+| LORD CIAMBELLANO | Che perdita avranno le nostre dame<br>di queste eleganti vanità! |
+| LOVELL | Sì, davvero,<br>vi sarà gran dolore, signori. Quei furbi figli di puttana<br>hanno un trucco spiccio per stendere le dame.<br>Una [[Song|canzone]] francese e un violino non han pari. |
+| SANDS | Che il diavolo li strimpelli! Son lieto che se ne vadano,<br>ché di certo non c’è modo di convertirli. Ora<br>un onesto signore di campagna, quale io sono, cacciato<br>da gran [[Time|tempo]] fuori dal gioco, potrà portare il suo canto piano<br>e avere un’ora d’ascolto, e, per la Madonna,<br>esser tenuto anche per musica corrente. |
+| LORD CIAMBELLANO | [[Well|Ben]] detto, Lord Sands.<br>Non vi è ancora caduto il dente da puledro? |
+| SANDS | No, mio signore,<br>né cadrà finché me ne resti un moncone. |
+| LORD CIAMBELLANO | (a Lovell)<br>Sir Thomas,<br>dove eravate diretto? |
+| LOVELL | Dal Cardinale.<br>Anche vostra signoria è invitata. |
+| LORD CIAMBELLANO | Oh, è vero.<br>Questa [[Night|notte]] egli dà una cena, e grande,<br>a molti signori e dame. Vi sarà<br>la [[Beauty|bellezza]] di questo regno, ve l’assicuro. |
+| LOVELL | Quel prelato ha davvero animo generoso,<br>una mano feconda come la terra che ci nutre.<br>Le sue rugiade cadono dappertutto. |
+| LORD CIAMBELLANO | Senza [[Doubt|dubbio]] è nobile.<br>Avrebbe bocca nera chi dicesse altro di lui. |
+| SANDS | Ben può esserlo, mio signore; ne ha i mezzi. In lui<br>il risparmio mostrerebbe peccato peggiore d’una cattiva dottrina.<br>Uomini della sua condizione devono essere liberalissimi.<br>Sono posti qui a esempio. |
+| LORD CIAMBELLANO | Vero, lo sono,<br>ma pochi ora ne danno di così grandi. La mia barca attende.<br>Vostra signoria verrà con me. (A Lovell) Venite, buon Sir<br>Thomas,<br>altrimenti faremo tardi, cosa che non vorrei,<br>ché mi fu chiesto, insieme a Sir Henry Guildford,<br>d’essere questa [[Night|notte]] sovrintendenti. |
+| SANDS | Sono ai comandi di vostra signoria. |
+| *(didascalia)* | Escono |
 
 
 
@@ -1499,6 +1655,74 @@ Exeunt ⌈Norfolk at one door, [[Buckingham]] and Abergavenny under guard at ano
 | *(didascalia)* | Exeunt with trumpets |
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Oboi. Entrano servi con una piccola tavola per il [[Cardinal Wolsey|Cardinale Wolsey]], che collocano sotto il baldacchino regale, e una tavola più lunga per gli ospiti. Poi entrano da una porta Anna Bolena e diverse altre dame e gentiluomini come ospiti, e da un’altra porta entra Sir Henry Guildford |
+| *(didascalia)* | GUILDFORD<br>Dame, un generale benvenuto da parte di sua grazia<br>vi saluta tutte. Questa [[Night|notte]] egli la dedica<br>al bel diletto e a voi. Nessuna qui, egli spera,<br>in tutto questo nobile stuolo, ha portato con sé<br>una sola cura di fuori. Vorrebbe tutti allegri<br>quanto festa, buona compagnia, buon vino, buona accoglienza<br>possono rendere buona gente. |
+| *(didascalia)* | Entrano il Lord Ciambellano, Lord Sands e Sir Thomas Lovell |
+| *(didascalia)* | (Al Lord Ciambellano) Oh, mio signore, siete in ritardo.<br>Il solo pensiero di questa bella compagnia<br>mi ha messo le ali. |
+| LORD CIAMBELLANO | Siete giovane, Sir Harry Guildford. |
+| SANDS | Sir Thomas Lovell, se il Cardinale avesse<br>anche solo metà dei miei pensieri laici, alcune di queste<br>troverebbero un banchetto volante, prima di riposare,<br>che, credo, meglio le contenterebbe. Sulla mia vita,<br>sono una dolce società di belle. |
+| LOVELL | Oh, se vostra signoria fosse ora confessore<br>d’una o due di queste. |
+| SANDS | Vorrei esserlo.<br>Troverebbero facile penitenza. |
+| LOVELL | [[Faith|Fede]] mia, quanto facile? |
+| SANDS | Facile quanto un letto di piume potrebbe concederla. |
+| LORD CIAMBELLANO | Dolci dame, vi piace sedervi?<br>(A Guildford)<br>Sir Harry,<br>voi disponete quel lato, io mi prenderò cura di questo.<br>Siedono attorno alla tavola più lunga. Rumore da dentro<br>Sua grazia sta entrando. Suvvia, non dovete gelare—<br>due donne poste insieme fanno tempo freddo.<br>Mio signore Sands, voi siete uomo da tenerle sveglie.<br>Vi prego, sedete tra queste dame. |
+| SANDS | Sulla mia [[Faith|fede]],<br>e ringrazio vostra signoria.<br>Siede fra Anna e un’altra<br>Con vostra licenza, dolci dame.<br>Se mi capita di parlare un po’ selvaggio, perdonatemi.<br>L’ho preso da mio padre. |
+| ANNA | Era pazzo, signore? |
+| SANDS | Oh, pazzissimo; oltremodo pazzo—e in [[Love|amore]], per giunta.<br>Ma non mordeva nessuno. Proprio come faccio io ora,<br>ve ne baciava venti in un fiato.<br>La bacia |
+| LORD CIAMBELLANO | [[Well|Ben]] detto, mio signore.<br>Ora dunque siete bene accomodati. Gentiluomini,<br>la penitenza ricade su di voi se queste belle dame<br>se ne andranno accigliate. |
+| SANDS | Quanto alla mia piccola cura,<br>lasciate fare a me [[Alone|solo]]. |
+| *(didascalia)* | Oboi. Entra il [[Cardinal Wolsey|Cardinale Wolsey]], che prende posto alla piccola tavola sotto il baldacchino |
+| [[Cardinal Wolsey|CARDINALE WOLSEY]] | Siate i benvenuti, miei belli ospiti. Quella nobile dama<br>o gentiluomo che non sia liberamente allegro<br>non è mio amico. Questo, a conferma del mio benvenuto,<br>e a voi tutti, salute!<br>Beve |
+| SANDS | Vostra grazia è nobile.<br>Datemi una coppa tale che possa contenere i miei ringraziamenti,<br>e mi risparmi tanto parlare. |
+| [[Cardinal Wolsey|CARDINALE WOLSEY]] | Mio signore Sands,<br>vi sono obbligato. Rallegrate i vostri vicini.<br>Dame, non siete allegre! Gentiluomini,<br>di chi è la colpa? |
+| SANDS | Il vino rosso deve prima salire<br>alle loro belle guance, mio signore, e allora le avremo<br>a ridurci col parlare al [[Silence|silenzio]]. |
+| ANNA | Siete un allegro giocatore,<br>mio signore Sands. |
+| SANDS | Sì, se mi riesce la giocata.<br>Alla salute di vostra signoria; e brindate, madama,<br>ché è a una cosa tale— |
+| ANNA | Che non potete mostrarmi. |
+| SANDS | (a Wolsey)<br>Dicevo a vostra grazia che presto avrebbero parlato. |
+| *(didascalia)* | Tamburo e tromba. Salve di cannoncini |
+| [[Cardinal Wolsey|CARDINALE WOLSEY]] | Che cos’è? |
+| LORD CIAMBELLANO | (ai servi)<br>Guardate fuori là, alcuni di voi. |
+| *(didascalia)* | Esce un servo |
+| [[Cardinal Wolsey|CARDINALE WOLSEY]] | Che voce guerresca,<br>e a qual fine è questa? Suvvia, dame, non [[Fear|temete]].<br>Per tutte le leggi di guerra siete privilegiate. |
+| *(didascalia)* | Entra il servo |
+| LORD CIAMBELLANO | Ebbene—che c’è? |
+| SERVO | Una nobile schiera di stranieri,<br>ché tali sembrano. Hanno lasciato la barca e sono sbarcati,<br>e vengono qua come grandi ambasciatori<br>di principi stranieri. |
+| [[Cardinal Wolsey|CARDINALE WOLSEY]] | Buon Lord Ciambellano,<br>andate a dar loro il benvenuto—voi sapete parlare la lingua<br>francese.<br>E vi prego accoglieteli nobilmente, e conduceteli<br>alla nostra presenza, dove questo cielo di [[Beauty|bellezza]]<br>splenderà su loro in pieno. Alcuni lo accompagnino. |
+| *(didascalia)* | Esce il Ciambellano, con seguito |
+| [[Cardinal Wolsey|CARDINALE WOLSEY]] | Tutti si levano, e alcuni servi rimuovono le tavole<br>Avete ora un banchetto interrotto, ma vi porremo rimedio.<br>Buona digestione a voi tutti, e ancora una volta<br>riverso su di voi un benvenuto—benvenuti tutti. |
+| *(didascalia)* | Oboi. Entrano, scortati dal Lord Ciambellano, il [[King|re]] Enrico e altri come mascherati vestiti da pastori. Passano direttamente davanti al [[Cardinal Wolsey|Cardinale Wolsey]] e lo salutano con grazia |
+| [[Cardinal Wolsey|CARDINALE WOLSEY]] | Una nobile compagnia. Quali sono i loro desideri? |
+| LORD CIAMBELLANO | Poiché non parlano inglese, così pregarono<br>che si dicesse a vostra grazia che, avendo udito per fama<br>di questa così nobile e così bella assemblea<br>riunita qui questa [[Night|notte]], non poterono far meno,<br>per il grande rispetto che portano alla [[Beauty|bellezza]],<br>che lasciare le loro greggi, e, sotto la vostra bella guida,<br>chiedono licenza di vedere queste dame, e implorano<br>un’ora di festa con loro. |
+| [[Cardinal Wolsey|CARDINALE WOLSEY]] | Dite, Lord Ciambellano,<br>ch’essi hanno fatto grazia alla mia povera [[house|casa]], per la quale rendo<br>loro<br>mille grazie, e li prego di prendersi i loro piaceri.<br>I mascherati scelgono le dame. Il [[King|re]] sceglie Anna Bolena |
+| [[King|RE]] ENRICO | (ad Anna)<br>La più bella mano ch’io abbia mai toccato. Oh [[Beauty|bellezza]],<br>fino ad ora mai ti conobbi. |
+| *(didascalia)* | Musica. [[Dance|Danzano]] |
+| [[Cardinal Wolsey|CARDINALE WOLSEY]] | (al Lord Ciambellano) Mio signore. |
+| LORD CIAMBELLANO | Vostra grazia. |
+| [[Cardinal Wolsey|CARDINALE WOLSEY]] | Vi prego di dir loro questo da parte mia. Vi dovrebbe essere uno fra loro che per la sua persona è più degno di questo posto di quanto io stesso sia, al quale, se pur lo conoscessi, con il mio [[Love|amore]] e il mio dovere lo cederei. |
+| LORD CIAMBELLANO | Lo farò, mio signore.<br>Bisbiglia con i mascherati |
+| [[Cardinal Wolsey|CARDINALE WOLSEY]] | Che dicono? |
+| LORD CIAMBELLANO | Tutti confessano che uno tale<br>v’è davvero, e vorrebbero che vostra grazia<br>lo scoprisse, ed egli lo prenderà. |
+| [[Cardinal Wolsey|CARDINALE WOLSEY]] | alzandosi<br>Lasciate dunque ch’io veda.<br>Con tutti i vostri buoni [[Leaves|permessi]], gentiluomini, qui farò<br>la mia scelta regale.<br>S’inchina davanti al [[King|re]] |
+| [[King|RE]] ENRICO | smascherandosi L’avete trovato, Cardinale.<br>Tenete una bella assemblea. Fate [[Well|bene]], signore.<br>Siete un uomo di chiesa, o vi dirò, Cardinale,<br>che giudicherei ora malamente. |
+| [[Cardinal Wolsey|CARDINALE WOLSEY]] | Son lieto<br>che vostra grazia sia divenuta così faceta. |
+| [[King|RE]] ENRICO | Mio Lord Ciambellano,<br>di grazia venite qua.<br>(Accennando verso Anna) Chi è quella bella dama? |
+| LORD CIAMBELLANO | Se piace a vostra grazia, la figlia di Sir Thomas Boleyn—<br>il visconte Rochford—una delle dame di sua altezza. |
+| [[King|RE]] ENRICO | Per il cielo, è una leggiadra. (Ad Anna) Cuor mio,<br>sarei scortese a condurvi in danza |
+| *(didascalia)* | e non baciarvi la bacia. Un brindisi, gentiluomini; |
+| [[King|RE]] ENRICO | Beve<br>Che giri in tondo. |
+| [[Cardinal Wolsey|CARDINALE WOLSEY]] | Sir Thomas Lovell, è pronto il banchetto<br>nella camera privata? |
+| LOVELL | Sì, mio signore. |
+| [[Cardinal Wolsey|CARDINALE WOLSEY]] | (al [[King|re]])<br>Vostra grazia<br>[[Fear|temo]] che col danzare si sia un po’ riscaldata. |
+| [[King|RE]] ENRICO | [[Fear|Temo]] troppo. |
+| [[Cardinal Wolsey|CARDINALE WOLSEY]] | V’è aria più fresca, mio signore,<br>nella camera accanto. |
+| [[King|RE]] ENRICO | Conducete dentro le vostre dame, ognuno. (Ad Anna) Dolce compagna,<br>non devo ancora lasciarvi. (A Wolsey) Siamo allegri,<br>mio buon signore Cardinale. Ho una mezza dozzina di brindisi<br>da bere a queste belle dame, e una danza<br>da guidare ancora una volta con loro, e poi sogniamo<br>chi è più in favore. Che la musica batta il tempo. |
+| *(didascalia)* | Escono con trombe |
+
 
 
 <span class="atom-split" data-atom="act_2--scene_1" data-title="All Is True (Henry VIII) — Act II, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="archetype/king,motif/blood,motif/death,motif/grave,motif/home,motif/love,motif/mirror,motif/soul,motif/time,motif/water,concept/charity,concept/conscience,concept/doubt,concept/faith,concept/fear,concept/greatness,concept/honour,concept/hope,concept/revenge,concept/truth,setting/court,character/buckingham,character/duke_of_buckingham,character/henry_viii,character/lord_mayor,character/queen,character/richard"></span>
@@ -1555,6 +1779,59 @@ Exeunt ⌈Norfolk at one door, [[Buckingham]] and Abergavenny under guard at ano
 | FIRST GENTLEMAN | ’Tis woeful.<br>We are too open here to argue this.<br>Let’s think in private more. |
 | *(didascalia)* | Exeunt |
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entrano due Gentiluomini, da porte diverse |
+| PRIMO GENTILUOMO | Dove andate così in fretta? |
+| SECONDO GENTILUOMO | Oh, Dio vi salvi.<br>Proprio alla sala, per udire che ne sarà<br>del grande [[Duke of Buckingham|Duca di Buckingham]]. |
+| PRIMO GENTILUOMO | Vi risparmierò<br>quella fatica, signore. Tutto è ormai compiuto tranne la cerimonia<br>del ricondurre il prigioniero. |
+| SECONDO GENTILUOMO | Vi eravate? |
+| PRIMO GENTILUOMO | Sì, davvero c’ero. |
+| SECONDO GENTILUOMO | Di grazia, dite che cosa è accaduto. |
+| PRIMO GENTILUOMO | Potete indovinarlo presto. |
+| SECONDO GENTILUOMO | È stato trovato colpevole? |
+| PRIMO GENTILUOMO | Sì, davvero lo è, e su ciò condannato. |
+| SECONDO GENTILUOMO | Me ne dispiace. |
+| PRIMO GENTILUOMO | E così a molti altri. |
+| SECONDO GENTILUOMO | Ma di grazia, come andò? |
+| PRIMO GENTILUOMO | Ve lo dirò in breve. Il gran Duca<br>venne alla sbarra, dove alle sue accuse<br>si dichiarò sempre non colpevole, e addusse<br>molte acute ragioni per sconfiggere la legge.<br>Il procuratore del [[King|re]], al contrario,<br>insistette sugli esami, le prove, le confessioni<br>di diversi testimoni, che il Duca desiderò<br>gli fossero portati viva voce in faccia—<br>al che apparvero contro di lui il suo intendente,<br>Sir Gilbert Perk suo cancelliere, e John Car,<br>suo confessore, con quel monaco-demonio,<br>Hopkins, che ordì questo malanno. |
+| SECONDO GENTILUOMO | Fu quello<br>che lo nutrì delle sue profezie. |
+| PRIMO GENTILUOMO | Lo stesso.<br>Tutti costoro l’accusarono fortemente, ed egli volentieri<br>li avrebbe scrollati da sé, ma invero non poté.<br>E così i suoi pari, su questa testimonianza,<br>l’hanno trovato colpevole d’alto tradimento. Molto<br>egli parlò, e dottamente, per la vita, ma tutto<br>fu o compatito in lui o dimenticato. |
+| SECONDO GENTILUOMO | Dopo tutto questo, come si contenne? |
+| PRIMO GENTILUOMO | Quando fu ricondotto alla sbarra per udire<br>suonare la sua campana a morto, la sua sentenza, fu scosso<br>da tale angoscia che sudò oltremodo,<br>e disse qualcosa in collera, male e in fretta;<br>ma tornò poi in sé, e dolcemente<br>in tutto il resto mostrò nobilissima pazienza. |
+| SECONDO GENTILUOMO | Non credo ch’egli tema la [[Death|morte]]. |
+| PRIMO GENTILUOMO | Certo che no.<br>Non fu mai così donnesco. Della causa<br>può un poco dolersi. |
+| SECONDO GENTILUOMO | Certamente<br>il Cardinale è il fine di questo. |
+| PRIMO GENTILUOMO | È probabile<br>per ogni congettura: prima la condanna di Kildare,<br>allora vicerè d’Irlanda, il quale, rimosso,<br>il conte di Surrey vi fu mandato—e anche in fretta,<br>perché non aiutasse suo padre. |
+| SECONDO GENTILUOMO | Quel giuoco di stato<br>fu profondamente invidioso. |
+| PRIMO GENTILUOMO | Al suo ritorno<br>senza [[Doubt|dubbio]] lo ricambierà. Ciò è notato,<br>e generalmente: chiunque il [[King|re]] favorisca,<br>il Cardinale gli troverà all’istante un impiego—<br>e abbastanza lontano dalla [[Court|corte]], per giunta. |
+| SECONDO GENTILUOMO | Tutto il popolo<br>l’odia perniciosamente e, sulla mia [[Conscience|coscienza]],<br>lo vorrebbe dieci braccia sottoterra. Questo Duca altrettanto<br>[[Love|amano]] e vezzeggiano, lo chiamano ‘il generoso<br>[[Buckingham]],<br>lo [[Mirror|specchio]] d’ogni cortesia’— |
+| *(didascalia)* | Entra il [[Duke of Buckingham|Duca di Buckingham]] dal suo processo, con gli uscieri davanti a lui, la scure col taglio rivolto verso di lui, alabardieri ai lati, accompagnato da Sir Thomas Lovell, Sir Nicholas Vaux, Sir William Sands e popolani |
+| PRIMO GENTILUOMO | Fermatevi qui, signore,<br>e vedete il nobile uomo rovinato di cui parlate. |
+| SECONDO GENTILUOMO | Stiamo appartati e guardiamolo.<br>Si tengono in disparte |
+| [[Buckingham|BUCKINGHAM]] | (ai popolani) Buona gente tutta,<br>voi che siete venuti fin qui a compiangermi,<br>udite ciò che dico, e poi andate a [[Home|casa]] e perdetemi.<br>Ho ricevuto oggi la sentenza d’un traditore,<br>e con quel nome devo morire. Pure, il cielo mi sia testimone,<br>e s’io ho una [[Conscience|coscienza]], mi faccia sprofondare,<br>proprio mentre cade la scure, s’io non sono fedele.<br>Alla legge non porto rancore per la mia [[Death|morte]].<br>Essa ha fatto, sulle premesse, soltanto giustizia.<br>Ma quelli che l’hanno cercata li vorrei più cristiani.<br>Siano ciò che vogliono, di cuore li perdono.<br>Pure badino di non gloriarsi nel malfare,<br>né d’edificare i loro mali sulle tombe dei grandi,<br>ché allora il mio innocente [[Blood|sangue]] dovrà gridare contro di loro.<br>Di più vita in questo mondo mai più [[Hope|spero]],<br>né la chiederò, benché il [[King|re]] abbia misericordie<br>più di quante io osi far colpe. Voi pochi che m’avete amato,<br>e osate esser arditi a piangere per [[Buckingham]],<br>suoi nobili amici e compagni, il lasciare i quali<br>è la sola cosa amara per lui, la sola morte,<br>venite con me come buoni angeli alla mia fine,<br>e, quando il lungo [[divorce|divorzio]] dell’acciaio cadrà su di me,<br>fate delle vostre preghiere un dolce sacrificio,<br>e sollevate la mia [[Soul|anima]] al cielo. (Alla guardia) Avanti, nel<br>nome di Dio. |
+| LOVELL | Supplico vostra grazia, per [[Charity|carità]],<br>se mai alcun rancore nel vostro cuore<br>fu nascosto contro di me, di perdonarmi ora francamente. |
+| [[Buckingham|BUCKINGHAM]] | Sir Thomas Lovell, io vi perdono altrettanto liberamente<br>quanto vorrei essere perdonato. Perdono tutti.<br>Non possono esservi contro di me offese così innumerevoli<br>che io non possa farvi pace. Nessuna nera invidia<br>segnerà la mia [[Grave|tomba]]. Raccomandatemi a sua grazia,<br>e s’egli parla di [[Buckingham]], vi prego ditegli<br>che l’avete incontrato già mezzo in cielo. I miei voti e le mie preghiere<br>sono ancora del [[King|re]], e, finché la mia [[Soul|anima]] non se ne parta,<br>invocheranno benedizioni su di lui. Possa egli vivere<br>più a lungo di quanto io abbia [[Time|tempo]] per contare i suoi anni;<br>sempre amato e amante sia il suo governo;<br>e, quando il vecchio [[Time|tempo]] lo condurrà alla sua fine,<br>la bontà e lui riempiano un solo monumento. |
+| LOVELL | Fino alla riva devo condurre vostra grazia,<br>poi cedere il mio incarico a Sir Nicholas Vaux,<br>che vi prende in consegna fino alla vostra fine. |
+| VAUX | (a un servitore) Preparate là—<br>il Duca sta venendo. Badate che la barca sia pronta,<br>e fornitela di tali arredi che convengano<br>alla [[Greatness|grandezza]] della sua persona. |
+| [[Buckingham|BUCKINGHAM]] | No, Sir Nicholas,<br>lasciate [[Alone|stare]]. Il mio stato ora non farebbe che schernirmi.<br>Quando venni qua ero Lord Gran Conestabile<br>e [[Duke of Buckingham|Duca di Buckingham]]; ora, povero Edward Bohun.<br>Pure sono più ricco dei miei vili accusatori,<br>che mai seppero che cosa significasse [[Truth|verità]]. Ora io la suggello,<br>e con quel [[Blood|sangue]] li farò un giorno gemere per questo.<br>Il mio nobile padre, Enrico di [[Buckingham]],<br>che primo alzò il capo contro l’usurpatore [[Richard|Riccardo]],<br>fuggendo per soccorso presso il suo servo Banister,<br>trovandosi in angustia, fu da quel miserabile tradito,<br>e senza processo cadde. La pace di Dio sia con lui.<br>Enrico Settimo, succedendo, compiangendo veramente<br>la perdita di mio padre, da principe regalissimo<br>mi restituì i miei onori, e dalle rovine<br>rese il mio nome ancora una volta nobile. Ora suo figlio,<br>Enrico Ottavo, la vita, l’[[Honour|onore]], il nome, e tutto<br>ciò che mi rendeva felice, con un solo colpo ha tolto<br>per sempre dal mondo. Ebbi il mio processo,<br>e devo pur dire nobile; il che mi rende<br>un poco più felice del mio misero padre.<br>Pure fin qui siamo una cosa sola nella sorte: entrambi<br>caduti per i nostri servi, per quegli uomini che più amammo—<br>un servizio quanto mai innaturale e infedele.<br>Il cielo ha un fine in ogni cosa. Pure, voi che m’udite,<br>questo da un uomo morente ricevete per certo—<br>là dove siete liberali dei vostri amori e consigli,<br>badate di non essere incauti; ché quelli di cui fate amici<br>e a cui donate il cuore, non appena scorgono<br>il minimo intoppo nella vostra fortuna, si staccano<br>come [[Water|acqua]] da voi, e non si ritrovano più<br>se non dove intendono affondarvi. Buona gente tutta,<br>pregate per me. Ora devo lasciarvi. L’ultima ora<br>della mia lunga stanca vita mi è giunta addosso.<br>Addio, e quando vorrete dire qualcosa che sia<br>triste,<br>raccontate come caddi. Ho finito, e Dio mi perdoni. |
+| *(didascalia)* | Escono [[Buckingham]] e il suo seguito |
+| [[Buckingham|BUCKINGHAM]] | I due Gentiluomini si fanno avanti |
+| PRIMO GENTILUOMO | Oh, questo è pieno di pietà, signore; richiama,<br>[[Fear|temo]], troppe maledizioni sulle teste<br>di coloro che ne furono gli autori. |
+| SECONDO GENTILUOMO | Se il Duca è innocente,<br>è pieno di sventura. Pure posso darvi sentore<br>d’un male che seguirà, se cadrà,<br>maggiore di questo. |
+| PRIMO GENTILUOMO | I buoni angeli lo tengano lontano da noi.<br>Che può essere? Non [[Doubt|dubitate]] della mia [[Faith|fedeltà]], signore? |
+| SECONDO GENTILUOMO | Questo segreto è così grave che richiederà<br>una forte [[Faith|fedeltà]] per celarlo. |
+| PRIMO GENTILUOMO | Datemelo—<br>io non parlo molto. |
+| SECONDO GENTILUOMO | Ne son certo;<br>l’avrete, signore. Non avete udito in questi ultimi giorni<br>un bisbiglio di separazione<br>fra il [[King|re]] e Caterina? |
+| PRIMO GENTILUOMO | Sì, ma non tenne.<br>Ché quando il [[King|re]] una volta l’udì, per collera<br>mandò subito ordine al [[Lord Mayor|Lord Sindaco]]<br>di fermare la voce e placare quelle lingue<br>che osavano spargerla. |
+| SECONDO GENTILUOMO | Ma quella calunnia, signore,<br>si trova ora essere [[Truth|verità]], ché cresce di nuovo<br>più fresca che mai fu, e si tiene per certo<br>che il [[King|re]] vi si arrischierà. O il Cardinale<br>o qualcuno a lui vicino ha, per malanimo<br>verso la buona [[Queen|regina]], invasato lui d’uno scrupolo<br>che la rovinerà. A conferma di questo, inoltre,<br>il Cardinale Campeggio è arrivato, e di recente,<br>come tutti pensano, per questa faccenda. |
+| PRIMO GENTILUOMO | È il Cardinale;<br>e solo per [[Revenge|vendicarsi]] sull’Imperatore<br>per non avergli conferito, quando lo chiese,<br>l’arcivescovado di Toledo, ciò è stato ordito. |
+| SECONDO GENTILUOMO | Credo abbiate colto nel segno. Ma non è crudele<br>che sia lei a sentirne il bruciore? Il Cardinale<br>avrà il suo volere, e lei deve cadere. |
+| PRIMO GENTILUOMO | È cosa lacrimevole.<br>Siamo troppo allo scoperto qui per discuterne.<br>Pensiamoci più in privato. |
+| *(didascalia)* | Escono |
 
 
 
@@ -1624,6 +1901,70 @@ Exeunt ⌈Norfolk at one door, [[Buckingham]] and Abergavenny under guard at ano
 | *(didascalia)* | Exeunt |
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entra il Lord Ciambellano con una lettera |
+| LORD CIAMBELLANO | (legge) ‘Mio signore, i cavalli che vostra signoria ha fatto richiedere, con tutta la cura ch’io ebbi, li vidi [[Well|ben]] scelti, domati e forniti. Erano giovani e belli, e della miglior razza del nord. Quando furono pronti a partire per [[London|Londra]], un uomo del mio signore Cardinale, per commissione e forza maggiore, me li tolse con questa ragione—che il suo padrone dev’essere servito prima d’un suddito, se non prima del [[King|re]]; il che ci chiuse la bocca, signore.’<br>[[Fear|Temo]] che lo farà davvero. [[Well|Bene]], li abbia pure. 10<br>Avrà tutto, credo. |
+| *(didascalia)* | Entrano incontro al Lord Ciambellano i Duchi di Norfolk e di Suffolk |
+| NORFOLK | [[Well|Ben]] trovato, mio Lord Ciambellano. |
+| LORD CIAMBELLANO | Buon giorno a entrambe le vostre grazie. |
+| SUFFOLK | In che è occupato il [[King|re]]? |
+| LORD CIAMBELLANO | L’ho lasciato in privato,<br>pieno di tristi pensieri e di affanni. |
+| NORFOLK | Qual è la causa? |
+| LORD CIAMBELLANO | Pare che il [[Marriage|matrimonio]] con la moglie di suo fratello<br>gli si sia insinuato troppo dentro la [[Conscience|coscienza]]. |
+| SUFFOLK | No, la sua [[Conscience|coscienza]]<br>si è insinuata troppo vicino a un’altra dama. |
+| NORFOLK | È così.<br>Questa è opera del Cardinale. Il [[King|Re]]-Cardinale,<br>quel prete cieco, come figlio primogenito della fortuna,<br>volge ciò che gli piace. Il [[King|re]] un giorno lo conoscerà. |
+| SUFFOLK | Voglia Dio che lo faccia. Altrimenti non conoscerà mai se stesso. |
+| NORFOLK | Con quanta santità opera in tutti i suoi affari,<br>e con che zelo! Ché ora ha spezzato la<br>lega<br>fra noi e l’Imperatore, pronipote della [[Queen|regina]],<br>25<br>s’immerge nell’[[Soul|anima]] del [[King|re]] e vi sparge<br>pericoli, dubbi, torture della [[Conscience|coscienza]],<br>timori e disperazioni—e tutto questo per il suo [[Marriage|matrimonio]].<br>E fuori da tutto questo, per restaurare il [[King|re]],<br>consiglia un [[divorce|divorzio]]—la perdita di colei<br>che come un [[Jewel|gioiello]] gli è pesa vent’anni<br>al collo, senza mai perdere il suo splendore;<br>di colei che l’ama con quell’eccellenza<br>con cui gli angeli [[Love|amano]] gli uomini buoni; perfino di colei<br>che, quando cadrà il più gran colpo della fortuna,<br>benedirà il [[King|re]]—e non è forse pio questo procedere? |
+| LORD CIAMBELLANO | Il cielo mi tenga lontano da simile consiglio! È verissimo—<br>queste nuove sono ovunque, ogni lingua le ripete,<br>e ogni cuore sincero ne piange. Tutti quelli che osano<br>guardare in queste faccende vedono questo fine principale—<br>la sorella del [[King|re]] di Francia. Il cielo un giorno aprirà<br>gli occhi del [[King|re]], che tanto a lungo hanno dormito, su<br>quest’uomo audace e malvagio. |
+| SUFFOLK | E ci liberi dalla sua [[Slavery|schiavitù]]. |
+| NORFOLK. | Abbiamo bisogno di pregare,<br>e di cuore, per la nostra liberazione,<br>o quest’uomo imperioso ci trasformerà tutti<br>da principi in paggi. Gli onori di tutti gli uomini<br>giacciono come un solo blocco davanti a lui, da foggiare<br>in quella forma che gli piaccia. |
+| SUFFOLK | Quanto a me, signori,<br>non lo [[Love|amo]], né lo [[Fear|temo]]—ecco il mio credo.<br>Come son fatto senza di lui, così starò,<br>se piace al [[King|re]]. Le sue maledizioni e le sue benedizioni<br>mi toccano ugualmente; sono fiato in cui non credo.<br>Lo conobbi, e lo conosco; così lo lascio<br>a colui che lo rese superbo—il Papa. |
+| NORFOLK | Entriamo,<br>e con qualche altra faccenda distogliamo il [[King|re]]<br>da questi tristi pensieri che troppo lavorano in lui.<br>(Al Lord Ciambellano)<br>Mio signore, ci terrete compagnia? |
+| LORD CIAMBELLANO | Scusatemi,<br>il [[King|re]] mi ha mandato altrove. Inoltre,<br>troverete che è [[Time|tempo]] assai inadatto per disturbarlo.<br>Salute alle vostre signorie. |
+| NORFOLK | Grazie, mio buon Lord Ciambellano. |
+| *(didascalia)* | Esce il Lord Ciambellano |
+| NORFOLK | Il [[King|re]] Enrico tira la tenda, e siede leggendo<br>pensoso |
+| SUFFOLK | Come pare triste! Certo è molto afflitto. |
+| [[King|RE]] ENRICO | Chi è là? Eh? |
+| NORFOLK | Voglia Dio che non sia adirato. |
+| [[King|RE]] ENRICO | Chi è là, dico? Come osate spingervi<br>nelle mie private meditazioni!<br>Chi sono io? Eh? |
+| NORFOLK | Un grazioso [[King|re]] che perdona tutte le offese<br>che malizia non ha mai voluto. Questa nostra mancanza di dovere<br>è affare di stato, per il quale veniamo<br>a conoscere il vostro regale piacere. |
+| [[King|RE]] ENRICO | Siete troppo arditi.<br>Suvvia, vi farò conoscere i vostri tempi per gli affari.<br>È questa un’ora per faccende temporali? Eh? |
+| *(didascalia)* | Entrano il [[Cardinal Wolsey|Cardinale Wolsey]] e il Cardinale Campeggio, quest’ultimo con una commissione |
+| [[King|RE]] ENRICO | Chi è là? Il mio buon signore Cardinale? Oh, mio Wolsey,<br>quiete della mia ferita [[Conscience|coscienza]],<br>tu sei rimedio degno d’un [[King|re]].<br>(A Campeggio)<br>Siate il benvenuto,<br>dottissimo e reverendo signore, nel nostro regno.<br>Servitevi di noi e di esso. (A Wolsey) Mio buon signore, badate<br>bene<br>ch’io non sia trovato un chiacchierone. |
+| [[Cardinal Wolsey|CARDINALE WOLSEY]] | Signore, non potete esserlo.<br>Vorrei che vostra grazia ci concedesse solo un’ora<br>di privato colloquio. |
+| [[King|RE]] ENRICO | (a Norfolk e Suffolk) Siamo occupati; andate.<br>Norfolk e Suffolk si parlano in privato mentre escono |
+| NORFOLK | Questo prete non ha in sé [[Pride|orgoglio]]! |
+| SUFFOLK | Neanche un po’.<br>Non vorrei però esser così malato, nemmeno per il suo posto—<br>ma questo non può continuare. |
+| NORFOLK | Se continua<br>arrischierò un colpo contro di lui. |
+| SUFFOLK | E io un altro. |
+| *(didascalia)* | Escono Norfolk e Suffolk |
+| [[Cardinal Wolsey|CARDINALE WOLSEY]] | (al [[King|re]])<br>Vostra grazia ha dato esempio di saggezza<br>sopra tutti i principi, rimettendo liberamente<br>il vostro scrupolo alla voce della cristianità.<br>Chi può ora adirarsi? Quale invidia vi raggiunge?<br>Lo spagnolo, legato a lei da [[Blood|sangue]] e favore,<br>deve ora confessare, s’essi hanno qualche bontà,<br>che il processo è giusto e nobile. Tutti i chierici—<br>intendo i dotti nei regni cristiani—<br>hanno libera voce. Roma, [[Nurse|nutrice]] del giudizio,<br>invitata dal vostro nobile [[Self|io]], ci ha mandato<br>una lingua universale: quest’uomo dabbene,<br>questo giusto e dotto prete, il Cardinal Campeggio,<br>che ancora una volta presento a vostra altezza. |
+| [[King|RE]] ENRICO | (abbracciando Campeggio)<br>E ancora una volta fra le mie braccia gli do il benvenuto,<br>e ringrazio il santo conclave del loro affetto.<br>M’hanno mandato un tal uomo quale avrei desiderato. |
+| CARDINALE CAMPEGGIO | Vostra grazia deve pur meritare l’amore di tutti gli stranieri,<br>tanto siete nobile. Alla mano di vostra altezza<br>porgo la mia commissione,<br>Consegna la commissione al [[King|re]]<br>(A Wolsey)<br>in virtù della quale,<br>per comando della [[Court|Corte]] di Roma, voi, mio signore<br>Cardinale di York, siete unito a me, loro servo,<br>nell’imparziale giudizio di questa faccenda. |
+| [[King|RE]] ENRICO | Due uomini pari. La [[Queen|regina]] sarà informata<br>senza indugio del motivo per cui venite. Dov’è Gardiner? |
+| [[Cardinal Wolsey|CARDINALE WOLSEY]] | So che vostra maestà l’ha sempre amata<br>tanto caramente in cuore da non negarle ciò<br>che una donna di minor condizione potrebbe chiedere per legge—<br>che si permetta liberamente ai dotti di perorare per lei. |
+| [[King|RE]] ENRICO | Sì, e avrà i migliori, e il mio favore<br>a chi meglio farà, Dio non voglia altrimenti. Cardinale,<br>di grazia chiamatemi Gardiner, il mio nuovo segretario.<br>Il [[Cardinal Wolsey|Cardinale Wolsey]] va alla porta e chiama Gardiner<br>Lo trovo compagno adatto. |
+| *(didascalia)* | Entra Gardiner |
+| [[Cardinal Wolsey|CARDINALE WOLSEY]] | (a parte, a Gardiner)<br>Datemi la mano. Molta gioia e molto favore a voi.<br>Ora siete del [[King|re]]. |
+| GARDINER | (a parte, a Wolsey) Ma per essere comandato<br>in eterno da vostra grazia, la cui mano m’ha innalzato. |
+| [[King|RE]] ENRICO | Venite qua, Gardiner.<br>Il [[King|re]] passeggia con Gardiner e gli parla sottovoce |
+| CARDINALE CAMPEGGIO | (a Wolsey)<br>Mio signore di York, non c’era un certo dottor Pace<br>nel posto di quest’uomo prima di lui? |
+| [[Cardinal Wolsey|CARDINALE WOLSEY]] | Sì, c’era. |
+| CARDINALE CAMPEGGIO | Non era tenuto per uomo dotto? |
+| [[Cardinal Wolsey|CARDINALE WOLSEY]] | Sì, certamente. |
+| CARDINALE CAMPEGGIO | Credetemi, corre allora una cattiva opinione,<br>perfino di voi stesso, signore Cardinale. |
+| [[Cardinal Wolsey|CARDINALE WOLSEY]] | Come? Di me? |
+| CARDINALE CAMPEGGIO | Non esiteranno a dire che voi l’invidiaste,<br>e temendo ch’egli salisse, tanto era virtuoso,<br>lo teneste sempre in terra straniera, il che tanto l’afflisse<br>ch’egli impazzì e morì. |
+| [[Cardinal Wolsey|CARDINALE WOLSEY]] | La pace del cielo sia con lui—<br>è cura cristiana bastante. Per i mormoratori vivi<br>vi sono luoghi di castigo. Era uno [[Fool|sciocco]],<br>ché voleva a ogni costo essere virtuoso.<br>(Accennando verso Gardiner)<br>Quel buon compagno,<br>se glielo comando, segue la mia disposizione.<br>Nessun altro voglio così vicino. Imparate questo, fratello:<br>non viviamo per essere stretti da persone da meno. |
+| [[King|RE]] ENRICO | (a Gardiner)<br>Consegnate questo con modestia alla [[Queen|regina]]. |
+| *(didascalia)* | Esce Gardiner |
+| [[King|RE]] ENRICO | Il luogo più conveniente ch’io possa immaginare<br>per tale raduno di dottrina è Blackfriars;<br>là vi riunirete intorno a questa grave faccenda.<br>Mio Wolsey, badate che sia allestito. Oh, mio signore,<br>non dorrebbe a un uomo valido lasciare<br>così dolce compagna di letto? Ma [[Conscience|coscienza]], [[Conscience|coscienza]]—<br>oh, è un punto delicato, e devo lasciarla. |
+| *(didascalia)* | Escono |
+
 
 
 <span class="atom-split" data-atom="act_2--scene_3" data-title="All Is True (Henry VIII) — Act II, Scene 3" data-chapter="Scene 3" data-kind="scene" data-tags="archetype/king,archetype/monster,motif/blood,motif/crown,motif/soul,motif/time,motif/well,concept/beauty,concept/conscience,concept/faith,concept/honour,concept/hope,concept/truth,setting/court,setting/egypt,character/henry_viii,character/marchioness,character/queen"></span>
@@ -1668,6 +2009,46 @@ Exeunt ⌈Norfolk at one door, [[Buckingham]] and Abergavenny under guard at ano
 | *(didascalia)* | Exeunt |
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entrano Anna Bolena e una Vecchia Dama |
+| ANNA | Nemmeno per quello. Ecco la fitta che punge—<br>sua altezza avendo vissuto così a lungo con lei, ed ella<br>dama così buona che nessuna lingua poté mai<br>pronunciare disonore di lei—sulla mia vita,<br>ella non conobbe mai il far male—oh ora, dopo<br>tanti corsi del sole passati in trono,<br>crescendo sempre in maestà e pompa, il lasciar la quale<br>è mille volte più amaro di quanto<br>sia dolce dapprima l’acquistarla—dopo questo procedere,<br>darle il congedo, è una pietà<br>che moverebbe un [[Monster|mostro]]. |
+| VECCHIA DAMA | Cuori di durissima tempra<br>si sciolgono e piangono per lei. |
+| ANNA | Oh, volontà di Dio! Molto meglio<br>ch’ella non avesse mai conosciuto la pompa; benché sia cosa temporale,<br>pure se quella nemica, la fortuna, la [[divorce|divorzia]]<br>da chi la porta, è un patire che strazia<br>quanto il separarsi d’[[Soul|anima]] e corpo. |
+| VECCHIA DAMA | Ahimè, povera dama!<br>Ora è di nuovo una straniera. |
+| ANNA | Tanto più<br>deve la pietà stillare su di lei. In verità,<br>lo giuro, è meglio nascere umili<br>e andare fra chi vive modestamente in contentezza<br>che essere issati in uno scintillante dolore<br>e portare un’aurea afflizione. |
+| VECCHIA DAMA | La nostra contentezza<br>è il nostro miglior avere. |
+| ANNA | Sulla mia fede e sulla mia verginità,<br>non vorrei essere [[Queen|regina]]. |
+| VECCHIA DAMA | Maledetta me, io sì—<br>e ci arrischierei la verginità; e anche voi,<br>malgrado tutto questo pizzico della vostra ipocrisia.<br>Voi, che avete su di voi così belle parti di donna,<br>avete anche un cuore di donna che sempre finora<br>ha ambito eminenza, ricchezza, sovranità;<br>le quali, a dire il vero, sono benedizioni; e quali doni,<br>salvo le vostre smorfie, la capacità<br>della vostra molle [[Conscience|coscienza]] di pelle di capretto accoglierebbe<br>se vi piacesse allargarla. |
+| ANNA | No, in buona fede. |
+| VECCHIA DAMA | Sì, fede e fede. Non vorreste essere [[Queen|regina]]? |
+| ANNA | No, neanche per tutte le ricchezze sotto il cielo. |
+| VECCHIA DAMA | È strano. Un soldo piegato basterebbe ad assoldarmi,<br>vecchia come sono, a far la [[Queen|regina]]. Ma vi prego,<br>che ne pensate d’una duchessa? Avete membra<br>da reggere quel carico di titolo? |
+| ANNA | No, in [[Truth|verità]]. |
+| VECCHIA DAMA | Allora siete fatta debole. Calate un poco;<br>non vorrei essere un giovane conte sulla vostra strada<br>per più di quanto valga un rossore. Se la vostra schiena<br>non può concedersi questo peso, è troppo debole<br>per generare mai un maschio. |
+| ANNA | Come parlate!<br>Giuro di nuovo, non vorrei essere [[Queen|regina]]<br>per tutto il mondo. |
+| VECCHIA DAMA | In [[Faith|fede]], per la piccola Inghilterra<br>arrischiereste l’investitura col globo; io stessa<br>lo farei per il Caernarfonshire, benché alla [[Crown|corona]]<br>non appartenesse altro che quello. Ecco, chi viene qua? |
+| *(didascalia)* | Entra il Lord Ciambellano |
+| LORD CIAMBELLANO | Buon giorno, signore. Quanto varrebbe conoscere<br>il segreto del vostro colloquio? |
+| ANNA | Mio buon signore,<br>non la vostra domanda; non vale il vostro chiedere.<br>Compiangevamo i dolori della nostra signora. |
+| LORD CIAMBELLANO | Era una faccenda gentile, e ben si conviene<br>all’operare di buone donne. V’è [[Hope|speranza]]<br>che tutto andrà [[Well|bene]]. |
+| ANNA | Ora prego Dio, amen. |
+| LORD CIAMBELLANO | Avete animo gentile, e le celesti benedizioni<br>seguono tali creature. Perché possiate, bella dama,<br>avvedervi ch’io parlo sinceramente, e che alto conto<br>si fa delle vostre molte virtù, la maestà del [[King|re]]<br>vi raccomanda la sua buona opinione di voi, e<br>si propone di darvi [[Honour|onore]] non meno ampio<br>che [[Marchioness|Marchesa]] di Pembroke; al qual titolo<br>mille sterline l’anno di sostegno annuo<br>egli aggiunge per sua grazia. |
+| ANNA | Non so<br>quale sorta della mia obbedienza io debba offrire.<br>Più del mio tutto non è nulla; né le mie preghiere<br>sono parole debitamente consacrate, né i miei voti<br>valgono più di vuote vanità; pure preghiere e voti<br>sono tutto ciò che posso rendere. Supplico vostra signoria,<br>degnatevi di dire i miei ringraziamenti e la mia obbedienza,<br>come da un’ancella che arrossisce a sua altezza,<br>per la cui salute e regalità io prego. |
+| LORD CIAMBELLANO | Signora,<br>non mancherò di confermare la bella opinione<br>che il [[King|re]] ha di voi. (A parte) L’ho esaminata [[Well|bene]].<br>[[Beauty|Bellezza]] e [[Honour|onore]] in lei son così mescolati<br>che hanno preso il [[King|re]], e chi sa ancora<br>che da questa dama non proceda una gemma<br>a illuminare tutta quest’isola. (Ad Anna) Andrò dal [[King|re]]<br>e dirò che ho parlato con voi; |
+| ANNA | Mio onorato signore. |
+| *(didascalia)* | Esce il Lord Ciambellano |
+| VECCHIA DAMA | Ecco, è così—vedete, vedete!<br>Sono sedici anni che mendico a [[Court|corte]],<br>e sono ancora una cortigiana pezzente, né riuscii<br>a capitare a puntino fra il troppo presto e il troppo tardi<br>per una qualsiasi supplica di sterline; e voi—oh, sorte!—<br>pesce freschissimo qui—vergogna, vergogna su<br>questa fortuna imposta!—vi trovate la bocca riempita<br>prima ancora d’aprirla. |
+| ANNA | Questo mi riesce strano. |
+| VECCHIA DAMA | Che sapore ha? È amaro? Quaranta denari che no.<br>C’era una volta una dama—è una vecchia storia—<br>che non voleva essere [[Queen|regina]], no davvero,<br>per tutto il fango d’[[Egypt|Egitto]]. L’avete udita? |
+| ANNA | Suvvia, siete faceta. |
+| VECCHIA DAMA | Col vostro tema potrei<br>salire più in alto dell’allodola. [[Marchioness|Marchesa]] di Pembroke?<br>Mille sterline l’anno, per puro riguardo?<br>Nessun altro obbligo? Sulla mia vita,<br>ciò promette altre migliaia. Lo strascico dell’[[Honour|Onore]]<br>è più lungo del suo davanti. Ormai a quest’[[Time|ora]]<br>so che la vostra schiena reggerà una duchessa. Dite,<br>non siete più forte di prima? |
+| ANNA | Buona signora,<br>fatevi allegria con la vostra particolare fantasia,<br>e lasciatemene fuori. Vorrei non avere essere;<br>se questo rallegra d’un ette il mio [[Blood|sangue]]. Mi vien meno il cuore<br>a pensare ciò che segue.<br>La [[Queen|regina]] è sconsolata, e noi smemorate<br>nella nostra lunga assenza. Vi prego, non riferitele<br>ciò che qui avete udito. |
+| VECCHIA DAMA | Che cosa mi credete— |
+| *(didascalia)* | Escono |
+
 
 
 <span class="atom-split" data-atom="act_2--scene_4" data-title="All Is True (Henry VIII) — Act II, Scene 4" data-chapter="Scene 4" data-kind="scene" data-tags="archetype/child,archetype/king,motif/cross,motif/desire,motif/fire,motif/grave,motif/love,motif/marriage,motif/nature,motif/silence,motif/soul,motif/spring,motif/tears,motif/time,motif/well,concept/charity,concept/conscience,concept/doubt,concept/fear,concept/friendship,concept/honour,concept/humility,concept/nature,concept/pride,concept/truth,setting/court,character/cardinal_wolsey,character/cranmer,character/ferdinand,character/henry_viii,character/lincoln,character/queen,character/queen_katherine"></span>
@@ -1711,6 +2092,46 @@ Exeunt ⌈Norfolk at one door, [[Buckingham]] and Abergavenny under guard at ano
 | [[King\|KING]] HENRY | (aside)<br>I may perceive<br>These cardinals trifle with me. I abhor<br>This dilatory sloth and tricks of Rome.<br>My learned and [[Well\|well]]-belovèd servant, [[Cranmer]],<br>Prithee return. With thy approach I know<br>My comfort comes along. (Aloud) Break up the [[Court\|court]].<br>I say, set on. |
 | *(didascalia)* | Exeunt in manner as they entered |
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Trombe: marcia. Poi cornette. Entrano due sagrestani con corte verghe d’argento; dopo di loro due Scrivani in abito di dottori; dopo di essi l’Arcivescovo di Canterbury [[Alone|solo]]; dopo di lui i Vescovi di [[Lincoln]], Ely, Rochester e Saint Asaph; dopo di loro, a poca distanza, segue un gentiluomo che porta insieme la borsa contenente il gran sigillo e un cappello cardinalizio; poi due preti che portano ciascuno una [[Cross|croce]] d’argento; poi un gentiluomo usciere, a capo scoperto, accompagnato da un sergente d’armi che porta una mazza d’argento; poi due gentiluomini che portano due grandi colonne d’argento; dopo di loro, fianco a fianco, i due cardinali, Wolsey e Campeggio; poi due nobili con la [[Sword|spada]] e la mazza. Il [[King|re]] sale al suo seggio sotto il baldacchino regale; i due cardinali siedono sotto di lui come giudici; la [[Queen|regina]], assistita da Griffith suo gentiluomo usciere, prende posto a qualche distanza dal [[King|re]]; i Vescovi si collocano ai due lati della [[Court|corte]] alla maniera d’un concistoro; sotto di loro, gli Scrivani. I signori siedono accanto ai Vescovi. Il resto del seguito sta in ordine conveniente attorno alla scena |
+| [[Cardinal Wolsey|CARDINALE WOLSEY]] | Mentre si legge la nostra commissione da Roma<br>sia comandato il [[Silence|silenzio]]. |
+| [[King|RE]] ENRICO | Che bisogno c’è?<br>È già stata letta pubblicamente,<br>e da ogni parte l’autorità è stata ammessa.<br>Potete dunque risparmiare quel [[Time|tempo]]. |
+| [[Cardinal Wolsey|CARDINALE WOLSEY]] | Sia così. Procedete. |
+| SCRIVANO | (al banditore)<br>Dite: ‘Enrico, [[King|re]] d’Inghilterra, venite nella [[Court|corte]]’. |
+| BANDITORE | Enrico, [[King|re]] d’Inghilterra, venite nella [[Court|corte]]. |
+| [[King|RE]] ENRICO | Eccomi. |
+| SCRIVANO | (al banditore)<br>Dite: ‘Caterina, [[Queen|regina]] d’Inghilterra, venite nella [[Court|corte]]’. |
+| BANDITORE | Caterina, [[Queen|regina]] d’Inghilterra, venite nella [[Court|corte]].<br>La [[Queen|regina]] non risponde, ma si leva dal suo seggio, fa il giro della [[Court|corte]], viene al [[King|re]] e s’inginocchia ai suoi piedi. Poi parla |
+| [[Queen Katherine|REGINA CATERINA]] | Sire, [[Desire|desidero]] che mi facciate ragione e giustizia,<br>e che concediate a me la vostra pietà; ché<br>sono una poverissima donna, e una straniera,<br>nata fuori dei vostri domini, non avendo qui<br>giudice imparziale, né più alcuna certezza<br>d’equa [[Friendship|amicizia]] e procedura. Ahimè, sire,<br>in che v’ho offeso? Qual motivo<br>ha dato il mio contegno al vostro disfavore<br>perché così procediate a ripudiarmi,<br>e a togliermi la vostra buona grazia? Il cielo testimoni<br>che vi sono stata moglie fedele e umile,<br>in ogni tempo conforme al vostro volere,<br>sempre in [[Fear|timore]] d’accendere il vostro disgusto,<br>anzi soggetta al vostro volto, lieta o dolente<br>secondo lo vedevo inclinato. Quando fu l’ora<br>in cui contraddissi mai il vostro [[Desire|desiderio]],<br>o non lo feci anche mio? O quale dei vostri amici<br>non mi sforzai d’[[Love|amare]], benché sapessi<br>ch’egli era mio nemico? Quale amico mio<br>che avesse attirato su di sé la vostra collera<br>tenni ancora nel mio favore? Anzi, non gli feci sapere<br>ch’era da quello licenziato? Sire, richiamate alla mente<br>che vi sono stata moglie in questa obbedienza<br>per più di vent’anni, e sono stata benedetta<br>con molti figli da voi. Se, nel corso<br>e processo di questo [[Time|tempo]], potete riferire—<br>e anche provarlo—alcunché contro il mio [[Honour|onore]],<br>contro il mio vincolo nuziale, o il mio [[Love|amore]] e dovere<br>verso la vostra sacra persona, in nome di Dio<br>cacciatemi via, e il più turpe disprezzo<br>mi chiuda la porta in faccia, e così consegnatemi<br>alla più tagliente specie di giustizia. Piacciavi, sire,<br>il [[King|re]] vostro padre era reputato<br>principe prudentissimo, d’eccellente<br>e insuperato ingegno e giudizio. [[Ferdinand|Ferdinando]]<br>mio padre, [[King|re]] di Spagna, era contato uno<br>dei più saggi principi che vi avessero regnato per molti<br>anni prima. Non è da mettere in dubbio<br>ch’essi avessero raccolto attorno a sé un saggio consiglio<br>d’ogni regno, che [[debate|dibatté]] questa faccenda,<br>e giudicò legittimo il nostro [[Marriage|matrimonio]]. Perciò umilmente<br>vi supplico, sire, di risparmiarmi finché io possa<br>essere consigliata dai miei amici in Spagna, il cui consiglio<br>implorerò. Se no, in nome di Dio,<br>sia adempiuto il vostro piacere. |
+| [[Cardinal Wolsey|CARDINALE WOLSEY]] | Avete qui, signora,<br>e di vostra scelta, questi reverendi padri, uomini<br>di singolare integrità e dottrina,<br>anzi gli eletti del paese, che sono riuniti<br>a perorare la vostra causa. Sarà dunque inutile<br>che più a lungo [[Desire|desideriate]] rinviare la [[Court|corte]], così [[Well|bene]]<br>per la vostra stessa quiete, come per raddrizzare<br>ciò che è irrisolto nel [[King|re]]. |
+| CARDINALE CAMPEGGIO | Sua grazia<br>ha parlato [[Well|bene]] e giustamente. Perciò, madama,<br>conviene che questa regale sessione proceda,<br>e che senza indugio i loro argomenti<br>siano ora prodotti e uditi. |
+| [[Queen Katherine|REGINA CATERINA]] | (a Wolsey) Signore Cardinale,<br>a voi parlo. |
+| [[Cardinal Wolsey|CARDINALE WOLSEY]] | Al vostro piacere, madama. |
+| [[Queen Katherine|REGINA CATERINA]] | Signore,<br>sto per piangere, ma pensando che<br>siamo [[Queen|regina]], o a lungo l’abbiamo sognato, e certo<br>figlia d’un [[King|re]], le mie gocce di [[Tears|lacrime]]<br>muterò in scintille di [[Fire|fuoco]]. |
+| [[Cardinal Wolsey|CARDINALE WOLSEY]] | Siate ancora paziente. |
+| [[Queen Katherine|REGINA CATERINA]] | Lo sarò quando voi sarete umile! Anzi, prima,<br>o Dio mi punirà. Io credo,<br>indotta da potenti circostanze, che<br>voi siate mio nemico, e faccio la mia ricusazione:<br>non sarete mio giudice. Ché siete voi<br>che avete soffiato su questo carbone fra il mio signore e me,<br>il quale la rugiada di Dio spenga. Perciò dico di nuovo,<br>io del tutto vi aborrisco, sì, dalla mia [[Soul|anima]],<br>vi ricuso come mio giudice, voi che ancora una volta<br>tengo per mio nemico malignissimo, e non giudico<br>affatto amico della [[Truth|verità]]. |
+| CARDINALE WOISEY | Io dichiaro<br>che non parlate da voi stessa, voi che sempre finora<br>vi siete attenuta alla [[Charity|carità]], e avete mostrato gli effetti<br>d’un’indole gentile e d’una saggezza<br>che sormonta la capacità d’una donna. Madama, mi fate torto.<br>Non ho rancore contro di voi, né ingiustizia<br>per voi o per alcuno. Quanto ho proceduto,<br>o quanto ancora procederò, è garantito<br>da una commissione del concistoro,<br>anzi dell’intero concistoro di Roma. Mi accusate<br>d’aver ‘soffiato su questo carbone’. Io lo nego.<br>Il [[King|re]] è presente. Se gli fosse noto<br>ch’io smentisco il mio operato, quanto potrebbe ferire,<br>e degnamente, la mia falsità—sì, altrettanto<br>quanto voi avete ferito la mia [[Truth|verità]]. S’egli sa<br>ch’io sono immune dalla vostra accusa, sa<br>ch’io sono immune dal vostro torto. Perciò in lui<br>sta il guarirmi, e la cura è<br>rimuovere questi pensieri da voi. Prima che in ciò<br>sua altezza parli, io supplico<br>voi, graziosa madama, di disdire il vostro dire,<br>e di non dirlo più. |
+| [[Queen Katherine|REGINA CATERINA]] | Mio signore, mio signore—<br>sono una donna semplice, troppo debole<br>per opporsi alla vostra astuzia. Siete mite e umile di bocca;<br>segnate il vostro posto e la vostra vocazione, in tutta apparenza,<br>con mitezza e [[Humility|umiltà]]—ma il vostro cuore<br>è stipato d’arroganza, livore e [[Pride|superbia]].<br>Avete per fortuna e per i favori di sua altezza<br>varcato leggermente i gradini bassi, e ora siete salito<br>là dove le potenze sono i vostri servitori, e le vostre parole,<br>domestiche a voi, servono il vostro volere come piace<br>a voi stesso pronunciarne l’ufficio. Devo dirvi<br>che avete più a cuore l’[[Honour|onore]] della vostra persona che<br>la vostra alta professione spirituale, e che di nuovo<br>io vi ricuso come mio giudice, e qui,<br>davanti a voi tutti, mi appello al Papa,<br>per portare tutta la mia causa dinanzi a sua santità,<br>ed esserne giudicata.<br>Fa la riverenza al [[King|re]] e comincia ad allontanarsi |
+| CARDINALE CAMPEGGIO | La [[Queen|regina]] è ostinata,<br>renitente alla giustizia, pronta ad accusarla, e<br>sdegnosa d’esserne giudicata. Non è [[Well|bene]].<br>Se ne sta andando. |
+| [[King|RE]] ENRICO | (al banditore) Richiamatela. |
+| BANDITORE | Caterina, [[Queen|regina]] d’Inghilterra, venite nella [[Court|corte]]. |
+| GRIFFITH | (alla [[Queen|regina]]) Madama, siete richiamata. |
+| [[Queen Katherine|REGINA CATERINA]] | Che bisogno avete di notarlo? Vi prego, tirate dritto.<br>Quando sarete chiamato, tornate. Ora il Signore ci aiuti.<br>Mi tormentano oltre la mia pazienza. Vi prego, andate avanti.<br>Non mi tratterrò; no, né mai più<br>in questa faccenda farò comparsa<br>in alcuna delle loro corti. |
+| *(didascalia)* | Escono [[Queen Katherine|la regina Caterina]] e il suo seguito |
+| [[King|RE]] ENRICO | Va’ per la tua strada, Caterina.<br>Quell’uomo al mondo che riferisca d’avere<br>una moglie migliore, non gli si creda in nulla,<br>per aver mentito in ciò. Tu sei [[Alone|unica]]—<br>se le tue rare qualità, la dolce gentilezza,<br>la tua mitezza da santa, il tuo [[government|governo]] da sposa,<br>l’obbedire nel comandare, e le tue altre doti<br>sovrane e pie potessero mai proclamarti—<br>la [[Queen|regina]] delle regine terrene. È di nobile nascita,<br>e conforme alla sua vera nobiltà si è<br>comportata verso di me. |
+| [[Cardinal Wolsey|CARDINALE WOLSEY]] | Graziosissimo sire,<br>nella maniera più umile chiedo a vostra altezza<br>che vi piaccia dichiarare all’udito<br>di tutte queste orecchie—ché dove sono derubato e legato,<br>là devo essere sciolto, benché non là<br>subito e pienamente soddisfatto—se mai io<br>abbia sollevato questa faccenda a vostra altezza, o<br>abbia posto sulla vostra via qualche scrupolo che potesse<br>indurvi alla questione, o mai<br>abbia a voi, se non con ringraziamenti a Dio per tale<br>regale signora, detto la minima parola che potesse<br>tornare a pregiudizio del suo presente stato,<br>o toccare la sua buona persona? |
+| [[King|RE]] ENRICO | Mio signore Cardinale,<br>io vi scuso; sì, sul mio [[Honour|onore]],<br>ve ne libero. Non c’è da insegnarvi<br>che avete molti nemici i quali non sanno<br>perché lo siano, ma, come cani da villaggio,<br>abbaiano quando abbaiano i compagni. Da alcuni di questi<br>la [[Queen|regina]] è stata messa in collera. Siete scusato.<br>Ma volete essere ancor più giustificato? Voi sempre<br>avete desiderato che questa faccenda dormisse, mai voluto<br>che fosse smossa, anzi spesso avete impedito, spesso,<br>i passi fatti verso di essa. Sul mio [[Honour|onore]]<br>parlo del mio buon signore Cardinale su questo punto,<br>e fin qui lo discolpo. Ora, ciò che mi mosse,<br>abuserò del [[Time|tempo]] e della vostra attenzione.<br>Notate dunque il movente. Così avvenne—prestatevi orecchio.<br>La mia [[Conscience|coscienza]] ricevette dapprima una fitta,<br>uno scrupolo e una puntura, per certe parole proferite<br>dal vescovo di Bayonne, allora ambasciatore di Francia,<br>che era stato mandato qua per trattare<br>un [[Marriage|matrimonio]] fra il duca d’Orléans e<br>nostra figlia Maria. Nel corso di questa faccenda,<br>prima d’una risoluzione definitiva, egli—<br>intendo il vescovo—chiese una dilazione<br>entro la quale potesse avvertire il [[King|re]] suo signore<br>se nostra figlia fosse legittima,<br>riguardo a questo nostro [[Marriage|matrimonio]] con la vedova,<br>già moglie di nostro fratello. Questa dilazione scosse<br>il seno della mia [[Conscience|coscienza]], m’entrò dentro,<br>sì, con forza trafiggente, e fece tremare<br>la regione del mio petto; il che s’aprì tale varco<br>che molte smarrite riflessioni s’affollarono<br>e s’insinuarono con questo avvertimento. Dapprima mi parve<br>di non stare nel sorriso del cielo, il quale aveva<br>comandato alla [[Nature|natura]] che il grembo della mia signora,<br>se concepiva da me un [[Child|figlio]] maschio, non gli<br>rendesse più uffici di vita di quanti<br>la [[Grave|tomba]] ne renda ai morti. Ché la sua prole maschile<br>o morì dov’era stata generata, o poco dopo<br>che questo mondo l’ebbe respirata. Di qui presi il pensiero<br>che questo fosse un giudizio su di me: che il mio regno,<br>[[Well|ben]] degno del miglior erede del mondo, non dovesse<br>esserne rallegrato per opera mia. Ne segue poi<br>ch’io pesai il pericolo in cui stavano i miei reami<br>per questo venir meno della mia prole, e ciò mi diede<br>più d’una doglia gemente. Così, alla deriva<br>sul mare selvaggio della mia [[Conscience|coscienza]], governai<br>verso questo rimedio, per il quale siamo<br>ora qui presenti insieme—vale a dire<br>ch’io intesi raddrizzare la mia [[Conscience|coscienza]], che<br>allora sentivo assai malata, e ancora non [[Well|sana]],<br>per mezzo di tutti i reverendi padri del paese<br>e dei dotti dottori. Prima cominciai in privato<br>con voi, mio signore di [[Lincoln]]. Ricordate<br>come sotto la mia oppressione io fumassi<br>quando per primo v’interpellai. |
+| [[Lincoln|LINCOLN]] | Molto [[Well|bene]], mio sire. |
+| [[King|RE]] ENRICO | Ho parlato a lungo. Compiacetevi di dire voi stesso<br>fino a che punto mi soddisfaceste. |
+| [[Lincoln|LINCOLN]] | Se piace a vostra altezza,<br>la questione dapprima tanto mi sconcertò,<br>recando in sé cosa di gravissimo momento<br>e conseguenza di spavento, ch’io consegnai<br>il più ardito consiglio ch’io avessi al [[Doubt|dubbio]],<br>e supplicai vostra altezza di prendere questa via<br>che qui state percorrendo. |
+| [[King|RE]] ENRICO | (a Canterbury)<br>Poi interpellai voi,<br>mio signore di Canterbury, e ottenni il vostro assenso<br>a fare questa presente convocazione. Non sollecitata<br>non lasciai persona reverenda in questa [[Court|corte]],<br>ma per particolare consenso procedetti<br>sotto le vostre firme e i vostri sigilli. Perciò, andate avanti,<br>ché nessuna avversione al mondo contro la persona<br>della buona [[Queen|regina]], ma le acute punte spinose<br>delle mie addotte ragioni, spingono innanzi tutto ciò.<br>Provate soltanto legittimo il nostro [[Marriage|matrimonio]], e sulla mia vita<br>e sulla dignità regale, siamo contenti<br>di consumare con lei il nostro stato mortale a venire,<br>con Caterina, nostra [[Queen|regina]], innanzi alla più eccelsa creatura<br>che il mondo dia per esempio. |
+| CARDINALE CAMPEGGIO | Se piace a vostra altezza,<br>essendo assente la [[Queen|regina]], è necessaria convenienza<br>che aggiorniamo questa [[Court|corte]] ad altro giorno.<br>Frattanto dev’essere fatta un’istanza sincera<br>alla [[Queen|regina]] perché ritiri l’appello<br>ch’ella intende rivolgere a sua santità. |
+| [[King|RE]] ENRICO | (a parte)<br>Ben m’avvedo<br>che questi cardinali si trastullano con me. Aborro<br>questa lentezza dilatoria e le astuzie di Roma.<br>Mio dotto e [[Well|ben]] amato servitore, [[Cranmer]],<br>di grazia torna. Col tuo avvicinarti so<br>che il mio conforto viene con te. (Ad alta voce) Si sciolga la [[Court|corte]].<br>Dico, andiamo. |
+| *(didascalia)* | Escono nell’ordine in cui erano entrati |
 
 
 
@@ -1764,6 +2185,55 @@ Exeunt ⌈Norfolk at one door, [[Buckingham]] and Abergavenny under guard at ano
 | QUEENS KATHERINE | Do what ye will, my lords, and pray forgive me.<br>If I have used myself unmannerly,<br>You know I am a woman, lacking wit<br>To make a seemly answer to such persons.<br>Pray do my service to his majesty.<br>He has my heart yet, and shall have my prayers<br>While I shall have my life. Come, reverend fathers,<br>Bestow your counsels on me. She now begs<br>That little thought, when she set footing here,<br>She should have bought her dignities so dear. |
 | *(didascalia)* | Exeunt |
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entrano [[Queen Katherine|la regina Caterina]] e le sue dame, come al lavoro |
+| [[Queen Katherine|REGINA CATERINA]] | Prendi il liuto, ragazza. La mia [[Soul|anima]] s’intristisce d’affanni.<br>Canta, e dissipali se puoi. Lascia il lavoro. |
+| DAMIGELLA | (canta)<br>Orfeo col suo liuto fece gli alberi,<br>e le cime dei monti che gelano,<br>piegarsi quando egli cantava.<br>Alla sua musica piante e [[Flowers|fiori]]<br>sempre spuntavano, come se sole e piogge<br>vi avessero fatto una [[spring|primavera]] eterna.<br>Ogni cosa che l’udiva suonare,<br>perfino i flutti del mare,<br>chinava il capo, e poi si posava.<br>Nella dolce musica è tale arte<br>che l’affanno che uccide e il dolore del cuore<br>s’addormentano, o udendola, muoiono. |
+| *(didascalia)* | Entra Griffith, un gentiluomo |
+| [[Queen Katherine|REGINA CATERINA]] | Ebbene? |
+| *(didascalia)* | GRIFFITH |
+| [[Queen Katherine|REGINA CATERINA]] | Se piace a vostra grazia, i due gran cardinali<br>attendono nella sala di ricevimento. |
+| [[Queen Katherine|REGINA CATERINA]] | Vogliono parlare con me? |
+| *(didascalia)* | GRIFFITH |
+| [[Queen Katherine|REGINA CATERINA]] | Così m’hanno voluto far dire, madama. |
+| [[Queen Katherine|REGINA CATERINA]] | Pregate le loro grazie<br>d’avvicinarsi. |
+| *(didascalia)* | Esce Griffith |
+| [[Queen Katherine|REGINA CATERINA]] | Che affare possono avere<br>con me, povera debole donna, caduta dal favore?<br>Non mi piace il loro venire, ora che ci penso;<br>dovrebbero essere uomini buoni, e i loro affari altrettanto giusti—<br>ma non tutte le cocolle fanno i [[Monks|monaci]]. |
+| *(didascalia)* | Entrano i due cardinali, Wolsey e Campeggio, introdotti da Griffith |
+| [[Cardinal Wolsey|CARDINALE WOLSEY]] | Pace a vostra altezza. |
+| [[Queen Katherine|REGINA CATERINA]] | Le vostre grazie mi trovano qui mezza massaia—<br>vorrei esserlo tutta, in previsione del peggio che può accadere.<br>Che desiderate da me, reverendi signori? |
+| [[Cardinal Wolsey|CARDINALE WOLSEY]] | Vi piaccia, nobile madama, ritirarvi<br>nella vostra camera privata, e vi daremo<br>la piena causa del nostro venire. |
+| [[Queen Katherine|REGINA CATERINA]] | Ditela qui.<br>Nulla ho fatto finora, sulla mia [[Conscience|coscienza]],<br>che meriti un cantuccio. Volesse il cielo che tutte le altre donne<br>potessero dirlo con [[Soul|anima]] così libera come faccio io.<br>Signori miei, non m’importa—tanto sono felice<br>al di sopra di molti—se le mie azioni<br>fossero giudicate da ogni lingua, se ogni occhio le vedesse,<br>con l’invidia e la bassa opinione schierate contro,<br>tanto so uguale la mia vita. Se il vostro affare<br>cerca me e quel ruolo di moglie che ho,<br>fuori con esso arditamente. La [[Truth|Verità]] ama l’agire aperto. |
+| [[Cardinal Wolsey|CARDINALE WOLSEY]] | Tanta est erga te mentis integritas, Regina serenissima— |
+| [[Queen Katherine|REGINA CATERINA]] | Oh, mio buon signore, niente latino.<br>Non sono stata tale scolara svogliata dal mio arrivo<br>da non conoscere la lingua in cui son vissuta.<br>Una lingua straniera rende la mia causa più strana e<br>sospetta—<br>vi prego, parlate in inglese. Vi sono qui alcune che vi ringrazieranno,<br>se dite la [[Truth|verità]], per amore della loro povera signora.<br>Credetemi, ha avuto molto torto. Signore Cardinale,<br>il più volontario peccato ch’io abbia mai commesso<br>può essere assolto in inglese. |
+| [[Cardinal Wolsey|CARDINALE WOLSEY]] | Nobile signora,<br>mi duole che la mia integrità debba generare—così<br>e il servizio a sua maestà e a voi—<br>così profondo sospetto, dove ogni [[Faith|fede]] era intesa.<br>Non veniamo per via d’accusa,<br>a macchiare quell’[[Honour|onore]] che ogni buona lingua benedice,<br>né per consegnarvi in alcun modo al dolore—<br>ne avete troppo, buona signora—ma per sapere<br>come siate disposta nella grave controversia<br>fra il [[King|re]] e voi, e per offrire,<br>da uomini liberi e onesti, le nostre giuste opinioni<br>e conforti alla vostra causa. |
+| CARDINALE CAMPEGGIO | Onoratissima madama,<br>il mio signore di York, per la sua nobile [[Nature|natura]],<br>lo zelo e l’obbedienza che sempre portò a vostra grazia,<br>dimenticando, da uomo dabbene, la vostra recente censura<br>e della sua [[Truth|lealtà]] e di lui—che andò troppo oltre—<br>offre, come faccio io, in segno di pace,<br>il suo servizio e il suo consiglio. |
+| [[Queen Katherine|REGINA CATERINA]] | (a parte)<br>Per tradirmi.<br>(Ad alta voce) Signori miei, vi ringrazio entrambi delle vostre buone<br>volontà.<br>Parlate da uomini onesti—voglia Dio che tali vi mostriate.<br>Ma come darvi all’improvviso una risposta<br>in un punto di tal peso, così vicino al mio [[Honour|onore]]—<br>più vicino alla mia vita, [[Fear|temo]]—col mio debole ingegno,<br>e a uomini di tale gravità e dottrina,<br>in [[Truth|verità]] non so. Ero messa al lavoro<br>fra le mie damigelle, ben poco—Dio lo sa—aspettandomi<br>o tali uomini o tale faccenda.<br>Per amore di quella che sono stata—ché sento<br>l’ultimo sussulto della mia [[Greatness|grandezza]]—buone grazie vostre,<br>concedetemi [[Time|tempo]] e consiglio per la mia causa.<br>Ahimè, sono una donna senza amici, senza speranza. |
+| [[Cardinal Wolsey|CARDINALE WOLSEY]] | Madama, fate torto all’[[Love|amore]] del [[King|re]] con questi timori.<br>Le vostre speranze e i vostri amici sono infiniti. |
+| [[Queen Katherine|REGINA CATERINA]] | In Inghilterra<br>ben poco a mio profitto. Potete credere, signori,<br>che alcun inglese osi darmi consiglio,<br>o essere apertamente amico contro il piacere di sua altezza—<br>fosse pur divenuto tanto disperato da esser onesto—<br>e vivere da suddito? No, in verità, i miei amici,<br>quelli che devono bilanciare le mie afflizioni,<br>quelli a cui la mia fiducia deve volgersi, non vivono qui.<br>Sono, come tutti gli altri miei conforti, lontani di qui,<br>nel mio paese natale, signori. |
+| CARDINALE CAMPEGGIO | Vorrei che vostra grazia<br>lasciasse i suoi dolori e prendesse il mio consiglio. |
+| [[Queen Katherine|REGINA CATERINA]] | Come, signore? |
+| CARDINALE CAMPEGGIO | Mettete la vostra causa principale sotto la protezione del [[King|re]].<br>È amorevole e graziosissimo. Sarà assai<br>meglio e per il vostro [[Honour|onore]] e per la vostra causa,<br>ché se il giudizio della legge vi raggiunge<br>ve ne andrete disonorata. |
+| [[Cardinal Wolsey|CARDINALE WOLSEY]] | (alla [[Queen|regina]]) Vi dice il giusto. |
+| [[Queen Katherine|REGINA CATERINA]] | Mi dite ciò che entrambi desiderate—la mia rovina.<br>È questo il vostro consiglio cristiano? Vergogna su di voi!<br>Il cielo è ancora sopra tutto—là siede un giudice<br>che nessun [[King|re]] può corrompere. |
+| CARDINALE CAMPEGGIO | La vostra ira ci fraintende. |
+| [[Queen Katherine|REGINA CATERINA]] | Tanta più vergogna per voi! Vi credevo uomini santi,<br>sulla mia [[Soul|anima]], due reverende virtù cardinali—<br>ma [[Fear|temo]] che siate peccati cardinali e cuori vuoti.<br>Emendateli, per vergogna, signori miei! È questo il vostro conforto?<br>Il cordiale che portate a una misera dama,<br>a una donna perduta fra voi, derisa, schernita?<br>Non vi augurerò la metà delle mie miserie—<br>ho più [[Charity|carità]]. Ma dite che v’ho avvertiti.<br>Badate, per amor del cielo badate, che a un tratto<br>il peso dei miei dolori non ricada su di voi. |
+| [[Cardinal Wolsey|CARDINALE WOLSEY]] | Madama, questo è puro smarrimento.<br>Voi mutate in malanimo il bene che offriamo. |
+| [[Queen Katherine|REGINA CATERINA]] | Voi mutate me in nulla. Sventura su di voi,<br>e su tutti i falsi professanti simili a voi. Vorreste voi—<br>se avete alcuna giustizia, alcuna pietà,<br>se siete altro che abiti di uomini di chiesa—<br>ch’io metta la mia causa malata nelle mani di chi mi odia?<br>Ahimè, egli m’ha già bandita dal suo letto—<br>e dal suo [[Love|amore]] pure, da gran tempo. Sono vecchia, signori,<br>e tutta la comunanza che ho ora con lui<br>è soltanto la mia obbedienza. Che può accadermi<br>al di sopra di questa miseria? Tutti i vostri studi<br>mi rendono maledetta a questo modo. |
+| CARDINALE CAMPEGGIO | I vostri timori sono peggiori. |
+| [[Queen Katherine|REGINA CATERINA]] | Ho vissuto così a lungo—lasciate ch’io parli di me,<br>poiché la virtù non trova amici—moglie, e fedele?<br>Donna, oso dirlo senza vanagloria,<br>mai finora bollata da sospetto?<br>Ho io con tutti i miei pieni affetti<br>sempre incontrato il [[King|re]], amatolo dopo il cielo, obbeditogli,<br>per tenerezza sono stata verso di lui superstiziosa,<br>quasi dimenticando le mie preghiere per contentarlo?<br>E son così ricompensata? Non è [[Well|bene]], signori.<br>Portatemi una donna costante verso il marito,<br>una che mai sognò gioia oltre il piacere di lui,<br>e a quella donna, quando avrà fatto il massimo,<br>io aggiungerò ancora un [[Honour|onore]]: una grande pazienza. |
+| [[Cardinal Wolsey|CARDINALE WOLSEY]] | Madama, vi allontanate dal bene a cui miriamo. |
+| [[Queen Katherine|REGINA CATERINA]] | Mio signore, non oso rendermi così colpevole<br>da cedere volontariamente quel nobile titolo<br>a cui il vostro padrone mi sposò. Nulla se non la [[Death|morte]]<br>[[divorce|divorzierà]] mai le mie dignità. |
+| [[Cardinal Wolsey|CARDINALE WOLSEY]] | Vi prego, ascoltatemi. |
+| [[Queen Katherine|REGINA CATERINA]] | Non avessi mai calcato questa terra inglese,<br>né sentito le lusinghe che vi crescono sopra.<br>Avete volti d’angeli, ma il cielo conosce i vostri cuori.<br>Che sarà ora di me, misera dama?<br>Sono la donna più infelice che viva.<br>(Alle sue dame) Ahimè, povere ragazze, dove sono ora<br>le vostre fortune?<br>Naufragate in un regno dove nessuna pietà,<br>nessun amico, nessuna [[Hope|speranza]], nessun parente piange per me?<br>Dove quasi non m’è concessa una [[Grave|tomba]]? Come il giglio,<br>che un tempo era signore del campo e fioriva,<br>chinerò il capo e perirò. |
+| [[Cardinal Wolsey|CARDINALE WOLSEY]] | Se vostra grazia<br>potesse solo essere indotta a sapere che i nostri fini sono onesti,<br>sentireste più conforto. Perché mai dovremmo, buona signora,<br>e per qual causa, farvi torto? Ahimè, i nostri posti,<br>la via della nostra professione, vi si oppongono.<br>Dobbiamo curare tali dolori, non seminarli.<br>Per amor del cielo, considerate ciò che fate,<br>come possiate nuocere a voi stessa, sì, del tutto<br>staccarvi dalla familiarità del [[King|re]] con questo contegno.<br>I cuori dei principi baciano l’obbedienza,<br>tanto l’[[Love|amano]], ma verso gli spiriti ostinati<br>si gonfiano e crescono terribili come tempeste.<br>So che avete indole gentile e nobile,<br>un’[[Soul|anima]] uguale come una bonaccia. Vi prego, tenéteci<br>per quelli che professiamo d’essere—paceri, amici e servitori. |
+| CARDINALE CAMPEGGIO | Madama, lo troverete così. Fate torto alle vostre virtù<br>con questi deboli timori di donna. Un nobile spirito,<br>quale in voi fu posto, sempre getta<br>tali dubbi via da sé come moneta falsa. Il [[King|re]] vi ama.<br>Badate di non perderlo. Quanto a noi, se vi piace<br>affidarci la vostra faccenda, siamo pronti<br>a impiegare ogni nostro studio al vostro servizio. |
+| REGINA CATERINA | Fate ciò che volete, signori, e vi prego perdonatemi.<br>Se mi sono comportata scortesemente,<br>sapete che sono una donna, priva d’ingegno<br>per dare conveniente risposta a tali persone.<br>Vi prego, porgete i miei omaggi a sua maestà.<br>Egli ha ancora il mio cuore, e avrà le mie preghiere<br>finché avrò la mia vita. Venite, reverendi padri,<br>concedetemi i vostri consigli. Ora mendica colei<br>che poco pensava, quando pose piede qui,<br>d’aver comprato così care le sue dignità. |
+| *(didascalia)* | Escono |
 
 
 
@@ -1907,6 +2377,144 @@ Exeunt ⌈Norfolk at one door, [[Buckingham]] and Abergavenny under guard at ano
 | *(didascalia)* | Exeunt |
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entrano il Duca di Norfolk, il [[Duke of Suffolk|Duca di Suffolk]], Lord Surrey e il Lord Ciambellano |
+| NORFOLK | Se ora vorrete unirvi nelle vostre lagnanze,<br>e spingerle con costanza, il Cardinale<br>non potrà reggerne il peso. Se trascurate<br>l’offerta di questo [[Time|tempo]], non posso promettere<br>altro se non che subirete nuove disgrazie<br>oltre a queste che già portate. |
+| SURREY | Son lieto<br>d’incontrare la minima occasione che possa darmi<br>memoria di mio suocero il Duca,<br>per vendicarmi di lui. |
+| SUFFOLK | Quale dei pari<br>gli è passato accanto senza disprezzo, o almeno<br>senza strana noncuranza? Quando mai riguardò<br>l’impronta della nobiltà in alcuna persona<br>fuori di se stesso? |
+| LORD CIAMBELLANO | Signori, dite ciò che vi piace.<br>Che cosa egli meriti da voi e da me, lo so;<br>che cosa possiamo noi fargli—benché ora il [[Time|tempo]]<br>ci dia adito—molto [[Fear|temo]]. Se non potete<br>sbarrargli l’accesso al [[King|re]], non tentate mai<br>nulla contro di lui, ché ha uno stregamento<br>sul [[King|re]] nella sua lingua. |
+| NORFOLK | Oh, non lo [[Fear|temete]].<br>Il suo incantesimo in ciò è finito. Il [[King|re]] ha trovato<br>materia contro di lui che per sempre guasta<br>il miele del suo parlare. No, egli è confitto,<br>senza scampo, nel suo disfavore. |
+| SURREY | Signore,<br>sarei lieto d’udire nuove come questa<br>una volta ogni ora. |
+| NORFOLK | Credetelo, è vero.<br>Nel [[divorce|divorzio]] i suoi procedimenti contrari<br>sono tutti svelati, e vi appare<br>come vorrei che apparisse il mio nemico. |
+| SURREY | Come vennero<br>alla luce i suoi maneggi? |
+| SUFFOLK | Stranissimamente. |
+| SURREY | Oh, come, come? |
+| SUFFOLK | Le lettere del Cardinale al Papa smarrirono la via,<br>e giunsero all’occhio del [[King|re]], nelle quali si lesse<br>come il Cardinale supplicasse sua santità<br>di sospendere il giudizio del [[divorce|divorzio]], ché se<br>esso avesse luogo, ‘io’, dice, ‘m’avvedo<br>che il mio [[King|re]] è invischiato d’affetto per<br>una creatura della [[Queen|regina]], [[Lady Anne|madonna Anna]] Bolena’. |
+| SURREY | Il [[King|re]] ha questo? |
+| SUFFOLK | Credetelo. |
+| SURREY | Farà effetto? |
+| LORD CIAMBELLANO | Il [[King|re]] in ciò s’avvede di come costeggi<br>e si assicuri la propria via. Ma in questo punto<br>tutte le sue astuzie affondano, ed egli porta la medicina<br>dopo la [[Death|morte]] del suo paziente. Il [[King|re]] ha già<br>sposato la bella dama. |
+| SURREY | Volesse il cielo che l’avesse fatto. |
+| SUFFOLK | Possiate essere felice nel vostro desiderio, mio signore,<br>ché dichiaro che l’avete ottenuto. |
+| SURREY | Ora tutta la mia gioia<br>accompagni quell’unione. |
+| SUFFOLK | Il mio amen a ciò. |
+| NORFOLK | L’amen di tutti. |
+| SUFFOLK | È stato dato ordine per la sua incoronazione.<br>Per la Madonna, ciò è ancora cosa nuova, e può restare<br>non riferita a certe orecchie. Ma, signori miei,<br>ella è creatura gagliarda, e compiuta<br>di mente e di forme. Mi persuado che da lei<br>cadrà qualche benedizione su questa terra, che vi sarà<br>ricordata in perpetuo. |
+| SURREY | Ma il [[King|re]]<br>digerirà questa lettera del Cardinale?<br>Il Signore non voglia! |
+| NORFOLK | Per la Madonna, amen. |
+| SUFFOLK | No, no—<br>ci sono altre vespe che gli ronzano attorno al naso<br>e faranno pungere questa più presto. Il Cardinale Campeggio<br>è fuggito a Roma; non ha preso congedo;<br>ha lasciato intatta la causa del [[King|re]], ed<br>è corso come agente del nostro Cardinale<br>a secondare tutto il suo intrigo. Vi assicuro<br>che il [[King|re]] gridò ‘Ah!’ a questo. |
+| LORD CIAMBELLANO | Ora Dio l’infiammi,<br>e gli faccia gridare ‘Ah!’ più forte. |
+| NORFOLK | Ma, mio signore,<br>quando torna [[Cranmer]]? |
+| SUFFOLK | È tornato nelle sue opinioni, le quali<br>hanno soddisfatto il [[King|re]] quanto al suo [[divorce|divorzio]],<br>insieme a quasi tutti i famosi collegi<br>della cristianità. Fra poco, credo,<br>sarà pubblicato il suo secondo [[Marriage|matrimonio]], e<br>la di lei incoronazione. Caterina non più<br>sarà chiamata ‘[[Queen|regina]]’, ma ‘Principessa Vedova’,<br>e ‘vedova del principe [[arthur|Arturo]]’. |
+| NORFOLK | Questo [[Cranmer]] è<br>uomo degno, e s’è preso molta [[Pain|pena]]<br>negli affari del [[King|re]]. |
+| SUFFOLK | L’ha fatto, e per questo lo vedremo<br>arcivescovo. |
+| NORFOLK | Così sento dire. |
+| SUFFOLK | È così. |
+| *(didascalia)* | Entrano il [[Cardinal Wolsey|Cardinale Wolsey]] e Cromwell |
+| SUFFOLK | Il Cardinale. |
+| NORFOLK | Osservate, osservate—è di malumore.<br>Si tengono in disparte e osservano Wolsey e<br>Cromwell |
+| [[Cardinal Wolsey|CARDINALE WOLSEY]] | (a Cromwell)<br>Il plico, Cromwell—l’avete dato al [[King|re]]?<br>CROMWELI,<br>Nella sua stessa mano, nella sua camera da letto. |
+| [[Cardinal Wolsey|CARDINALE WOLSEY]] | Guardò<br>l’interno della carta?<br>CROMWELL,<br>Subito<br>li dissigillò, e il primo che guardò<br>lo guardò con mente seria; un’attenzione<br>era nel suo volto. A voi ordinò<br>d’attenderlo qui stamane. |
+| [[Cardinal Wolsey|CARDINALE WOLSEY]] | È pronto<br>a uscire? |
+| CROMWELL | Credo che a quest’ora lo sia. |
+| [[Cardinal Wolsey|CARDINALE WOLSEY]] | Lasciami un poco. |
+| *(didascalia)* | Esce Cromwell |
+| [[Cardinal Wolsey|CARDINALE WOLSEY]] | (A parte) Sarà con la Duchessa d’Alençon,<br>sorella del [[King|re]] di Francia—la sposerà.<br>Anna Bolena? No, niente Anne Bolena per lui.<br>C’è dentro ben altro che un bel viso. Bolena?<br>No, niente Bolena. Presto desidero<br>aver notizie da Roma. [[Marchioness|Marchesa]] di Pembroke?<br>I nobili parlano fra loro |
+| NORFOLK | È scontento. |
+| SUFFOLK | Forse sente che il [[King|re]]<br>affila la sua collera contro di lui. |
+| SURREY | Abbastanza affilata,<br>Signore, per la tua giustizia. |
+| [[Cardinal Wolsey|CARDINALE WOLSEY]] | (a parte)<br>La damigella della defunta [[Queen|regina]]? La figlia d’un cavaliere<br>essere signora della sua signora? La [[Queen|regina]] della [[Queen|regina]]?<br>Questa candela non arde chiara; sono io che devo smoccolarla,<br>e allora si spegne. Che importa s’io la so virtuosa<br>e [[Well|ben]] meritevole? Pure la conosco per<br>una luterana biliosa, e non salutare<br>alla nostra causa, ch’ella giaccia nel seno<br>del nostro [[King|re]] difficile a governarsi. E poi è spuntato<br>un eretico, e dei massimi, [[Cranmer]], uno<br>che s’è insinuato nel favore del [[King|re]]<br>ed è il suo oracolo.<br>I nobili parlano fra loro |
+| NORFOLK | È irritato per qualcosa. |
+| *(didascalia)* | Entra il [[King|re]] Enrico leggendo una lista, e con lui Lovell |
+| SURREY | Vorrei che fosse qualcosa che logorasse la corda,<br>la corda maestra del suo cuore! |
+| SUFFOLK | Il [[King|re]], il [[King|re]]! |
+| *(didascalia)* | [[King|RE]] ENRICO a parte |
+| SUFFOLK | Che cumuli di ricchezze ha accumulato<br>per la propria parte? E che spesa a ogni ora<br>par che scorra da lui? Come, in nome della parsimonia,<br>rastrella tutto questo? (Ai nobili) Ora, signori miei,<br>avete visto il Cardinale? |
+| NORFOLK | Mio signore, siamo<br>stati qui a osservarlo. Qualche strana agitazione<br>è nel suo cervello. Si morde il labbro, e trasale,<br>si ferma all’improvviso, guarda per terra,<br>poi si posa il dito sulla tempia, subito<br>scatta in andatura veloce, poi si ferma di nuovo,<br>si batte forte il petto, e poi rivolge<br>l’occhio contro la [[Moon|luna]]. In stranissime posture<br>l’abbiamo visto atteggiarsi. |
+| [[King|RE]] ENRICO | Può [[Well|ben]] essere<br>che vi sia un ammutinamento nella sua mente. Stamane<br>mi mandò carte di stato da esaminare<br>come avevo richiesto, e sapete che vi trovai,<br>messo dentro, sulla mia [[Conscience|coscienza]], inavvertitamente?<br>Nientemeno che un inventario recante<br>le varie partite del suo vasellame, il suo tesoro,<br>ricche stoffe e ornamenti di casa, che<br>trovo a tal superbo ammontare da eccedere<br>il possesso d’un suddito. |
+| NORFOLK | È volere del cielo.<br>Qualche spirito mise questa carta nel plico<br>per benedirne il vostro occhio. |
+| [[King|RE]] ENRICO | Se pensassimo<br>che la sua contemplazione fosse sopra la terra<br>e fissa su oggetto spirituale, egli continuerebbe<br>a dimorare nelle sue meditazioni. Ma temo<br>che i suoi pensieri stiano sotto la [[Moon|luna]], non degni<br>d’una sua seria considerazione.<br>Il [[King|re]] prende posto e parla sottovoce con Lovell, che poi va dal Cardinale |
+| [[Cardinal Wolsey|CARDINALE WOLSEY]] | Il cielo mi perdoni! |
+| *(didascalia)* | Al [[King|re]] Dio benedica sempre vostra altezza! |
+| [[King|RE]] ENRICO | Mio buon signore,<br>siete pieno di materia celeste, e portate l’inventario<br>delle vostre migliori grazie nella mente, il quale<br>stavate or ora scorrendo. Avete appena [[Time|tempo]]<br>di rubare al vostro ozio spirituale un breve spazio<br>per tenere il vostro conto terreno. Certo, in ciò<br>vi stimo cattivo amministratore, e son lieto<br>d’avervi in questo per compagno. |
+| [[Cardinal Wolsey|CARDINALE WOLSEY]] | Sire,<br>per i santi uffici ho un [[Time|tempo]]; un [[Time|tempo]]<br>per pensare a quella parte d’affari che<br>porto nello stato; e la [[Nature|natura]] esige<br>i suoi tempi di conservazione, ai quali, per forza,<br>io, suo fragile figlio, fra i miei fratelli mortali,<br>devo dare la mia cura. |
+| [[King|RE]] ENRICO | Avete detto [[Well|bene]]. |
+| [[Cardinal Wolsey|CARDINALE WOLSEY]] | E possa sempre vostra altezza accoppiare,<br>ché ve ne darò motivo, il mio far [[Well|bene]]<br>col mio [[Well|ben]] dire. |
+| [[King|RE]] ENRICO | È [[Well|ben]] detto di nuovo,<br>ed è una specie di buona azione il dir [[Well|bene]]—<br>eppure le parole non sono azioni. Mio padre vi amò.<br>Disse d’amarvi, e con l’atto [[Crown|coronò]]<br>la sua parola su di voi. Da quando ho il mio ufficio,<br>v’ho tenuto accanto al cuore, non [[Alone|solo]] v’ho<br>impiegato dove alti profitti potessero tornare a [[Home|casa]],<br>ma ho intaccato i miei presenti averi per riversare<br>su di voi le mie liberalità. |
+| [[Cardinal Wolsey|CARDINALE WOLSEY]] | (a parte) Che vorrà dir questo? |
+| *(didascalia)* | SURREY a parte |
+| [[Cardinal Wolsey|CARDINALE WOLSEY]] | Il Signore accresca questa faccenda! |
+| [[King|RE]] ENRICO | Non v’ho forse fatto<br>il primo uomo dello stato? Vi prego, ditemi<br>se ciò che ora pronuncio l’avete trovato vero,<br>e, se potete confessarlo, dite inoltre<br>se siete obbligato a noi o no. Che dite? |
+| [[Cardinal Wolsey|CARDINALE WOLSEY]] | Mio sovrano, confesso che le vostre regali grazie<br>riversate su di me ogni giorno sono state più di quanto<br>i miei studiati propositi potessero ricambiare, i quali andarono<br>oltre ogni sforzo umano. I miei sforzi<br>sono sempre rimasti al di sotto dei miei desideri,<br>pur tenendo il passo con le mie capacità. I miei propri fini<br>sono stati miei in tal modo che sempre mirarono<br>al bene della vostra sacratissima persona e<br>al profitto dello stato. Per le vostre grandi grazie<br>accumulate su di me, povero immeritevole, io<br>nulla posso rendere se non fedeli ringraziamenti,<br>le mie preghiere al cielo per voi, la mia lealtà,<br>che sempre è cresciuta e sempre crescerà,<br>finché la [[Death|morte]], quell’[[Winter|inverno]], la uccida. |
+| [[King|RE]] ENRICO | Bella risposta.<br>Un suddito leale e obbediente vi è<br>raffigurato. L’[[Honour|onore]] di ciò<br>ripaga l’atto stesso, come, al contrario,<br>la turpitudine è il castigo. Presumo<br>che, come la mia mano ha aperto la munificenza verso di voi,<br>il mio cuore ha stillato [[Love|amore]], il mio potere piovuto [[Honour|onore]], più<br>su di voi che su chiunque, così la vostra mano e il vostro cuore,<br>il vostro cervello, e ogni funzione del vostro potere,<br>dovrebbero, oltre a quel vostro vincolo di dovere,<br>come fosse in particolare d’[[Love|amore]], essere più<br>a me, vostro amico, che a chiunque. |
+| [[Cardinal Wolsey|CARDINALE WOLSEY]] | Io dichiaro<br>che per il bene di vostra altezza sempre lavorai<br>più che per il mio; e sono, sono stato e sarò—<br>quand’anche tutto il mondo spezzasse il proprio dovere verso di voi,<br>e lo gettasse via dall’[[Soul|anima]], quand’anche i pericoli<br>abbondassero, fitti quanto il pensiero può farli, e<br>apparissero in forme più orride—pure il mio dovere,<br>come fa una roccia contro la piena che rimbrotta,<br>spezzerebbe l’assalto di questo selvaggio [[River|fiume]],<br>e resterebbe vostro incrollabile. |
+| [[King|RE]] ENRICO | È nobilmente detto.<br>Notate, signori, ha un petto leale,<br>ché l’avete visto aprirlo. (A Wolsey) Leggete questo,<br>Gli dà una carta<br>e dopo questo (dandogli un’altra carta), e poi a<br>colazione con<br>quell’appetito che avete. |
+| *(didascalia)* | Esce il [[King|re]] Enrico, aggrottando le ciglia verso il |
+| [[King|RE]] ENRICO | Cardinale. I nobili s’accalcano dietro<br>al [[King|re]], sorridendo e bisbigliando |
+| [[Cardinal Wolsey|CARDINALE WOLSEY]] | Che vorrà dir questo?<br>Che collera improvvisa è questa? Come me la son meritata?<br>Si è staccato da me aggrottato, come se la rovina<br>gli balzasse dagli occhi. Così guarda il [[Lion|leone]] irritato<br>l’ardito cacciatore che l’ha ferito,<br>e poi lo riduce a nulla. Devo leggere questa carta—<br>[[Fear|temo]], la storia della sua collera.<br>Legge una delle carte<br>È così.<br>Questa carta m’ha rovinato. È il conto<br>di tutto quel mondo di ricchezze che ho radunato<br>per i miei propri fini—invero, per ottenere il papato,<br>e pagare i miei amici a Roma. Oh negligenza,<br>degna d’uno [[Fool|sciocco]] che vi caschi! Quale [[Cross|storto]] demonio<br>mi fece mettere questo capitale segreto nel plico<br>che mandai al [[King|re]]? Non v’è modo di rimediare a ciò?<br>Nessun nuovo espediente per cacciarlo dal suo cervello?<br>So che lo scuoterà fortemente. Pure conosco<br>una via che, se riesce a dovere, a dispetto della fortuna<br>mi trarrà di nuovo in salvo. Che cos’è questo?<br>Legge l’altra carta<br>‘Al Papa’?<br>La lettera, com’è vero ch’io vivo, con tutta la faccenda<br>ch’io scrissi a sua santità. E allora, addio.<br>Ho toccato il punto più alto di tutta la mia [[Greatness|grandezza]],<br>e da quel pieno meridiano della mia gloria<br>m’affretto ora al mio tramonto. Cadrò<br>come una lucente meteora nella sera,<br>e nessun uomo mi vedrà più. |
+| *(didascalia)* | Entrano presso il [[Cardinal Wolsey|Cardinale Wolsey]] i Duchi di Norfolk e di |
+| [[Cardinal Wolsey|CARDINALE WOLSEY]] | Suffolk, il [[Earl of Surrey|Conte di Surrey]] e il Lord Ciambellano |
+| NORFOLK | Udite il piacere del [[King|re]], Cardinale, il quale vi comanda<br>di consegnare subito il gran sigillo<br>nelle nostre mani, e di confinarvi<br>ad Ashen [[house|House]], residenza del mio signore di Winchester,<br>finché non abbiate altro avviso da sua altezza. |
+| [[Cardinal Wolsey|CARDINALE WOLSEY]] | Fermi—<br>dov’è la vostra commissione, signori? Le parole non possono recare<br>autorità di tal peso. |
+| SUFFOLK | Chi osa [[Cross|contrastarle]],<br>recando il volere del [[King|re]] espressamente dalla sua bocca? |
+| [[Cardinal Wolsey|CARDINALE WOLSEY]] | Finché non trovo più che volere o parole a farlo—<br>intendo la vostra malizia—sappiate, signori officiosi,<br>ch’io oso e devo rifiutare. Ora sento<br>di che rozzo metallo siete foggiati—invidia.<br>Con che avidità inseguite le mie disgrazie<br>come se vi nutrissero, e come lisci e lascivi<br>apparite in tutto ciò che può portare la mia rovina!<br>Seguite le vostre invidiose vie, uomini di malizia.<br>Ne avete cristiana licenza, e senza [[Doubt|dubbio]]<br>col [[Time|tempo]] troveranno le ricompense che meritano. Quel sigillo<br>che chiedete con tale violenza, il [[King|re]],<br>mio e vostro padrone, con la propria mano me lo diede,<br>m’ordinò di goderne, con la carica e gli onori,<br>durante la mia vita; e, a conferma della sua bontà,<br>lo legò con lettere patenti. Ora, chi lo prenderà? |
+| SURREY | Il [[King|re]] che lo diede. |
+| [[Cardinal Wolsey|CARDINALE WOLSEY]] | Allora dev’essere lui stesso. |
+| SURREY | Sei un traditore superbo, prete. |
+| [[Cardinal Wolsey|CARDINALE WOLSEY]] | Superbo signore, tu menti. |
+| *(didascalia)* | In queste quaranta ore Surrey avrebbe meglio osato |
+| [[Cardinal Wolsey|CARDINALE WOLSEY]] | bruciarsi quella lingua che dir così. |
+| SURREY | La tua [[Ambition|ambizione]],<br>tu peccato scarlatto, derubò questa terra piangente<br>del nobile [[Buckingham]], mio suocero.<br>Le teste di tutti i tuoi fratelli cardinali,<br>con te e tutte le tue parti migliori legate insieme,<br>non pesavano un suo capello. Peste della vostra politica,<br>mi mandaste vicerè in Irlanda,<br>lontano dal suo soccorso, dal [[King|re]], da tutto<br>ciò che potesse avere [[Mercy|misericordia]] della colpa che tu gli desti;<br>mentre la vostra gran bontà, per santa pietà,<br>lo assolveva con una scure. |
+| [[Cardinal Wolsey|CARDINALE WOLSEY]] | Questo, e tutto il resto<br>che questo signore chiacchierone può addossare al mio credito,<br>rispondo che è falsissimo. Il Duca per legge<br>trovò ciò che meritava. Quanto io fossi [[Innocent|innocente]]<br>d’ogni malizia privata nella sua fine,<br>la sua nobile giuria e la turpe causa possono attestarlo.<br>S’io amassi le molte parole, signore, vi direi<br>che avete tanto poca onestà quanto [[Honour|onore]],<br>e che per via di lealtà e [[Truth|verità]]<br>verso il [[King|re]], mio sempre regale padrone,<br>oso misurarmi con uomo più saldo di quanto Surrey possa essere,<br>e con tutti quelli che [[Love|amano]] le sue follie. |
+| SURREY | Sulla mia [[Soul|anima]],<br>la vostra lunga veste, prete, vi protegge; altrimenti sentiresti<br>la mia [[Sword|spada]] nel [[Blood|sangue]] vitale di te. Signori miei,<br>potete sopportare d’udire quest’arroganza,<br>e da costui? Se viviamo così docilmente,<br>da farci strapazzare da un pezzo di scarlatto,<br>addio nobiltà. Vada pure avanti sua grazia<br>e ci adeschi col suo cappello, come allodole. |
+| [[Cardinal Wolsey|CARDINALE WOLSEY]] | Ogni bontà<br>è [[Poison|veleno]] per il tuo stomaco. |
+| SURREY | Sì, quella bontà<br>di spigolare tutta la ricchezza del paese in un sol luogo,<br>nelle vostre stesse mani, Cardinale, per estorsione;<br>la bontà dei vostri plichi intercettati<br>che scriveste al Papa contro il [[King|re]]; la vostra<br>bontà—<br>giacché mi provocate—sarà notissima.<br>Mio signore di Norfolk, poiché siete veramente nobile,<br>poiché avete riguardo al bene comune, allo stato<br>della nostra disprezzata nobiltà, alla nostra prole—<br>che, s’egli vive, sarà a stento gentiluomo—<br>producete la gran somma dei suoi peccati, gli articoli<br>raccolti dalla sua vita. (A Wolsey) Vi farò trasalire<br>peggio della campanella dell’elevazione quando la bruna ragazza<br>vi giaceva a baciarvi fra le braccia, signore Cardinale. |
+| *(didascalia)* | [[Cardinal Wolsey|CARDINALE WOLSEY]] a parte |
+| SURREY | Quanto, mi pare, potrei disprezzare quest’uomo,<br>se non fossi in [[Charity|carità]] obbligato a non farlo. |
+| NORFOLK | (a Surrey)<br>Quegli articoli, mio signore, sono nelle mani del [[King|re]];<br>ma tanto vi dico—sono turpi. |
+| [[Cardinal Wolsey|CARDINALE WOLSEY]] | Tanto più bella<br>e immacolata sorgerà la mia [[innocence|innocenza]]<br>quando il [[King|re]] conoscerà la mia [[Truth|verità]]. |
+| SURREY | Questo non può salvarvi.<br>Ringrazio la mia [[Memory|memoria]] se ancora ricordo<br>alcuni di questi articoli, e fuori usciranno.<br>Ora, se sapete arrossire e gridare ‘Colpevole’, Cardinale,<br>mostrerete un poco d’onestà. |
+| [[Cardinal Wolsey|CARDINALE WOLSEY]] | Parlate pure, signore;<br>sfido le vostre peggiori obiezioni. Se arrossisco,<br>è nel vedere un nobile privo di creanza. |
+| SURREY | Preferisco esser privo di quella che della testa. In guardia!<br>Primo: che senza l’assenso o la scienza del [[King|re]]<br>operaste per essere legato, con qual potere<br>mutilaste la giurisdizione di tutti i vescovi. |
+| NORFOLK | (a Wolsey)<br>Poi: che in tutto ciò che scriveste a Roma, o anche<br>a principi stranieri, ‘Ego et Rex meus’<br><br>era sempre inscritto—con che riduceste il [[King|re]]<br>a essere vostro servo. |
+| SUFFOLK | (a Wolsey) Poi: che senza la scienza<br>né del [[King|re]] né del Consiglio, quando andaste<br>ambasciatore presso l’Imperatore, osaste<br>portare nelle Fiandre il gran sigillo. |
+| SURREY | (a Wolsey)<br>Item: mandaste ampia commissione<br>a Gregorio de Cassado, per concludere,<br>senza il volere del [[King|re]] o il consenso dello stato,<br>una lega fra sua altezza e Ferrara, |
+| SUFFOLK | (a Wolsey)<br>Che per pura [[Ambition|ambizione]] avete fatto<br>coniare il vostro sacro cappello sulla moneta del [[King|re]]. |
+| SURREY | (a Wolsey)<br>Poi: che avete mandato innumerevoli sostanze—<br>con quali mezzi ottenute, lo lascio alla vostra stessa [[Conscience|coscienza]]—<br>a fornire Roma, e a preparare le vie<br>che vi siete aperto verso le dignità, con la pura rovina<br>di tutto il regno. Ve ne sono molte altre,<br>le quali, poiché son vostre e odiose,<br>non voglio contaminarne la mia bocca. |
+| LORD CIAMBELLANO | Oh, mio signore,<br>non incalzate troppo un uomo che cade. È virtù.<br>Le sue colpe stanno aperte alle leggi. Siano esse,<br>non voi, a correggerlo. Il mio cuore piange nel vederlo<br>così poco del suo gran [[Self|sé]]. |
+| SURREY | Io lo perdono. |
+| SUFFOLK | Signore Cardinale, l’ulteriore piacere del [[King|re]] è—<br>poiché tutte quelle cose che avete fatto di recente,<br>per il vostro potere legatizio dentro questo regno,<br>cadono nell’ambito d’un praemunire—<br>che perciò tale mandato sia promosso contro di voi,<br>a confisca di tutti i vostri beni, terre, tenute,<br>mobili e quant’altro, e che siate<br>fuori dalla protezione del [[King|re]]. Questo è il mio incarico. |
+| NORFOLK | (a Wolsey)<br>E così vi lasceremo alle vostre meditazioni<br>su come vivere meglio. Quanto alla vostra ostinata risposta<br>circa il restituirci il gran sigillo,<br>il [[King|re]] lo saprà e, senza [[Doubt|dubbio]], vi ringrazierà.<br>Dunque state [[Well|bene]], mio piccolo buon signore Cardinale. |
+| *(didascalia)* | Escono tutti tranne Wolsey |
+| [[Cardinal Wolsey|CARDINALE WOLSEY]] | Dunque addio—al poco bene che mi portate.<br>Addio, un lungo addio, a tutta la mia [[Greatness|grandezza]]!<br>Questo è lo stato dell’uomo. Oggi mette fuori<br>le tenere [[Leaves|foglie]] delle speranze; domani fiorisce,<br>e porta su di sé fitti i suoi onori arrossenti;<br>il terzo giorno viene un [[Frost|gelo]], un [[Frost|gelo]] micidiale,<br>e quando egli pensa, buon uomo credulo, ben sicuro<br>che la sua [[Greatness|grandezza]] stia maturando, gli morde la radice,<br>e allora cade, come faccio io. Mi sono arrischiato,<br>come piccoli ragazzi sventati che nuotano su vesciche,<br>per tante estati in un mare di gloria,<br>ma assai oltre la mia altezza; la mia [[Pride|superbia]] gonfiata<br>alla fine si ruppe sotto di me, e ora m’ha lasciato<br>stanco, e invecchiato dal servizio, alla [[Mercy|mercé]]<br>d’una rude corrente che per sempre deve nascondermi.<br>Vana pompa e gloria di questo mondo, io v’odio!<br>Sento il mio cuore aperto di nuovo. Oh, quanto misero<br>è quel pover’uomo che pende dai favori dei principi!<br>V’è, fra quel sorriso a cui aspireremmo,<br>quel dolce aspetto dei principi, e la loro rovina,<br>più fitte e timori di quanti ne abbiano guerre o donne,<br>e quando egli cade, cade come [[Lucifer|Lucifero]],<br>per non [[Hope|sperare]] mai più. |
+| *(didascalia)* | Entra Cromwell, che poi resta attonito |
+| [[Cardinal Wolsey|CARDINALE WOLSEY]] | Ebbene, che c’è, Cromwell? |
+| CROMWELL | Non ho forza di parlare, signore. |
+| [[Cardinal Wolsey|CARDINALE WOLSEY]] | Come, attonito<br>per le mie sventure? Può il tuo spirito [[Wonder|meravigliarsi]]<br>che un grand’uomo debba declinare? |
+| *(didascalia)* | Cromwell comincia a piangere |
+| [[Cardinal Wolsey|CARDINALE WOLSEY]] | Suvvia, se tu piangi<br>sono caduto davvero. |
+| CROMWELL | Come sta vostra grazia? |
+| [[Cardinal Wolsey|CARDINALE WOLSEY]] | Ma [[Well|bene]]—<br>mai così veramente felice, mio buon Cromwell.<br>Ora conosco me stesso, e sento dentro di me<br>una pace superiore a tutte le dignità terrene,<br>una [[Conscience|coscienza]] ferma e quieta. Il [[King|re]] m’ha guarito.<br>Umilmente ringrazio sua grazia, e da queste spalle,<br>queste colonne in rovina, per pietà ha tolto<br>un carico che affonderebbe una flotta—troppo [[Honour|onore]].<br>Oh, è un peso, Cromwell, è un peso<br>troppo grave per un uomo che spera nel cielo. |
+| CROMWELL | Son lieto che vostra grazia ne abbia fatto quel giusto uso. |
+| [[Cardinal Wolsey|CARDINALE WOLSEY]] | Lo [[Hope|spero]]. Ora sono capace, mi pare,<br>per una fortezza d’[[Soul|anima]] che sento,<br>di sopportare miserie più numerose e assai maggiori<br>di quante i miei nemici dal cuore debole osino offrire.<br>Che nuove corrono? |
+| CROMWELL | La più grave e la peggiore<br>è il vostro disfavore presso il [[King|re]]. |
+| [[Cardinal Wolsey|CARDINALE WOLSEY]] | Dio lo benedica. |
+| CROMWELL | La successiva è che [[Sir Thomas More|Sir Tommaso Moro]] è stato scelto<br>Lord Cancelliere al vostro posto. |
+| [[Cardinal Wolsey|CARDINALE WOLSEY]] | Ciò è alquanto improvviso.<br>Ma è uomo dotto. Possa egli durare<br>a lungo nel favore di sua altezza, e far giustizia<br>per amor della [[Truth|verità]] e della sua [[Conscience|coscienza]], sì che le sue ossa,<br>quando avrà corso la sua via e dormirà fra le benedizioni,<br>abbiano una tomba di [[Tears|lacrime]] d’orfani piante su di lui.<br>Che altro? |
+| CROMWELL | Che [[Cranmer]] è tornato con accoglienza festosa,<br>insediato lord Arcivescovo di Canterbury. |
+| [[Cardinal Wolsey|CARDINALE WOLSEY]] | Questa è nuova davvero. |
+| CROMWELL | Infine, che [[Lady Anne|madonna Anna]],<br>che il [[King|re]] ha in segreto sposato da tempo,<br>oggi è stata vista in pubblico come sua [[Queen|regina]],<br>andando alla cappella, e la voce ora corre<br>solo intorno alla sua incoronazione. |
+| [[Cardinal Wolsey|CARDINALE WOLSEY]] | Ecco il peso che m’ha tirato giù. Oh,<br>Cromwell,<br>il [[King|re]] m’ha sopravanzato. Tutte le mie glorie<br>in quella sola donna ho perduto per sempre.<br>Nessun sole scorterà mai più i miei onori,<br>né dorerà di nuovo le nobili schiere che attendevano<br>ai miei sorrisi. Va’, allontanati da me, Cromwell.<br>Sono un povero uomo caduto, ora indegno<br>d’essere tuo signore e padrone. Cerca il [[King|re]]—<br>quel sole che prego non tramonti mai—gli ho detto<br>che cosa e quanto fedele tu sia. Egli t’innalzerà.<br>Qualche piccola [[Memory|memoria]] di me lo commuoverà.<br>Conosco la sua nobile [[Nature|natura]]: non lascerà<br>perire anche il tuo promettente servizio. Buon Cromwell,<br>non trascurarlo. Approfittane ora, e provvedi<br>alla tua futura sicurezza. |
+| *(didascalia)* | CROMWELL piangendo |
+| [[Cardinal Wolsey|CARDINALE WOLSEY]] | Oh, mio signore,<br>devo dunque lasciarvi? Devo per forza rinunciare<br>a un padrone così buono, così nobile e così fedele?<br>Siate testimoni, voi tutti che non avete cuori di ferro,<br>con che dolore Cromwell [[Leaves|lascia]] il suo signore.<br>Il [[King|re]] avrà il mio servizio, ma le mie preghiere<br>in eterno e in eterno saranno vostre. |
+| [[Cardinal Wolsey|CARDINALE WOLSEY]] | (piangendo)<br>Cromwell, non pensavo di versare una lacrima<br>in tutte le mie miserie, ma tu m’hai costretto,<br>con la tua onesta [[Truth|sincerità]], a far la donna.<br>Asciughiamoci gli occhi, e fin qui ascoltami, Cromwell,<br>e quando sarò dimenticato, come sarò,<br>e [[Sleep|dormirò]] in freddo marmo opaco, dove più nessuna menzione<br>di me si dovrà udire, di’ ch’io t’insegnai—<br>di’ che Wolsey, che un tempo calcò le vie della gloria,<br>e scandagliò tutte le profondità e le secche dell’[[Honour|onore]],<br>ti trovò, dal suo naufragio, una via per salire,<br>sicura e salda, benché il tuo padrone l’avesse mancata.<br>Nota solo la mia caduta, e ciò che mi rovinò.<br>Cromwell, te lo ingiungo, getta via l’[[Ambition|ambizione]].<br>Per quel peccato caddero gli angeli. Come può dunque l’uomo,<br>immagine del suo creatore, [[Hope|sperare]] di vincere con essa?<br>[[Love|Ama]] te stesso per ultimo. Abbi cari quei cuori che t’odiano.<br>La corruzione non vince più dell’onestà.<br>Porta sempre nella destra la mite pace<br>per far [[Silence|tacere]] le lingue invidiose. Sii giusto, e non [[Fear|temere]].<br>Che tutti i fini a cui miri siano quelli del tuo paese,<br>del tuo Dio, e della [[Truth|verità]]. Allora, se cadrai, o<br>Cromwell,<br>cadrai martire benedetto.<br>Servi il [[King|re]]. E ti prego, conducimi dentro—<br>là fa’ l’inventario di tutto ciò che ho:<br>fino all’ultimo soldo è del [[King|re]]. La mia veste,<br>e la mia integrità verso il cielo, è tutto<br>ciò che ora oso chiamar mio. O Cromwell, Cromwell,<br>se solo avessi servito il mio Dio con metà dello zelo<br>con cui servii il mio [[King|re]], Egli nella mia vecchiaia non<br>m’avrebbe lasciato nudo ai miei nemici. |
+| CROMWELL | Buon signore, abbiate pazienza. |
+| [[Cardinal Wolsey|CARDINALE WOLSEY]] | L’ho. Addio<br>speranze di [[Court|corte]]; le mie speranze dimorano in cielo. |
+| *(didascalia)* | Escono |
+
 
 
 <span class="atom-split" data-atom="act_4--scene_1" data-title="All Is True (Henry VIII) — Act IV, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="archetype/king,archetype/lover,motif/crown,motif/flowers,motif/jewel,motif/marriage,motif/rose,motif/soul,motif/stars,motif/time,motif/well,concept/beauty,concept/conscience,concept/doubt,concept/honour,setting/court,setting/london,character/cranmer,character/duke_of_buckingham,character/duke_of_suffolk,character/earl_of_surrey,character/henry_viii,character/lady_anne,character/lord_mayor,character/queen"></span>
@@ -1976,6 +2584,71 @@ Exeunt ⌈Norfolk at one door, [[Buckingham]] and Abergavenny under guard at ano
 | *(didascalia)* | Exeunt |
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entrano i due Gentiluomini incontrandosi. Il primo tiene una carta |
+| PRIMO GENTILUOMO | Siete di nuovo [[Well|ben]] trovato. |
+| SECONDO GENTILUOMO | E così voi. |
+| PRIMO GENTILUOMO | Venite a prender posto qui per vedere<br>[[Lady Anne|madonna Anna]] passare dopo la sua incoronazione? |
+| SECONDO GENTILUOMO | È tutto il mio affare. Al nostro ultimo incontro<br>il [[Duke of Buckingham|Duca di Buckingham]] veniva dal suo processo. |
+| PRIMO GENTILUOMO | È verissimo. Ma quel [[Time|tempo]] offriva dolore,<br>questo, gioia universale. |
+| SECONDO GENTILUOMO | È [[Well|bene]]. I cittadini,<br>ne son certo, hanno mostrato in pieno il loro animo regale—<br>ché, rendendo loro giustizia, sono sempre solleciti—<br>nel celebrare questo giorno con spettacoli,<br>cortei e visioni d’[[Honour|onore]]. |
+| PRIMO GENTILUOMO | Mai maggiori,<br>né, ve l’assicuro, meglio accolti, signore. |
+| SECONDO GENTILUOMO | Posso essere ardito a chiedere che cosa contenga<br>quella carta nella vostra mano? |
+| PRIMO GENTILUOMO | Sì, è la lista<br>di coloro che rivendicano oggi i loro uffici<br>per consuetudine dell’incoronazione.<br>Il [[Duke of Suffolk|Duca di Suffolk]] è il primo, e rivendica<br>d’essere Gran Siniscalco; poi il Duca di Norfolk,<br>egli d’essere Conte Maresciallo. Potete leggere il resto.<br>Gli dà la carta |
+| SECONDO GENTILUOMO | Vi ringrazio, signore. Se non avessi conosciuto quelle consuetudini,<br>sarei stato obbligato alla vostra carta.<br>Ma vi supplico, che ne è di Caterina,<br>la Principessa Vedova? Come vanno le sue faccende? |
+| PRIMO GENTILUOMO | Anche questo posso dirvi. L’Arcivescovo<br>di Canterbury, accompagnato da altri<br>dotti e reverendi padri del suo ordine,<br>tenne di recente [[Court|corte]] a Dunstable, sei miglia lontano<br>da Ampthill, dove giaceva la Principessa; alla quale<br>ella fu spesso citata da loro, ma non comparve.<br>E, per farla breve, per la non comparizione, e<br>il recente scrupolo del [[King|re]], col principale assenso<br>di tutti questi dotti, ella fu divorziata,<br>e il [[Marriage|matrimonio]] d’un tempo reso di nessun effetto,<br>dopo di che fu trasferita a Kimbolton,<br>dove ora resta inferma. |
+| SECONDO GENTILUOMO | Ahimè, buona dama! |
+| *(didascalia)* | Squillo di trombe da dentro |
+| SECONDO GENTILUOMO | Le trombe suonano. State appartato. La [[Queen|regina]] sta venendo. |
+| *(didascalia)* | Entra il corteo dell’incoronazione, che attraversa la scena in ordine e con solennità. Oboi, da dentro, suonano durante il corteo |
+| L’ORDINE DELLA | INCORONAZIONE |
+| *(didascalia)* | 1. Primo, entrano trombettieri, che suonano una vivace fanfara. |
+| L’ORDINE DELLA | 2. Poi entrano due giudici.<br>3. Poi entra il Lord Cancelliere, con la borsa contenente il gran sigillo e la mazza portate davanti a lui. |
+| *(didascalia)* | 4. Poi entrano coristi che cantano; con loro, musicisti che suonano. |
+| L’ORDINE DELLA | 5. Poi entra il [[Lord Mayor|Lord Sindaco]] di [[London|Londra]] che porta la mazza, seguito dal [[King|Re]] d’Armi della Giarrettiera, che indossa la sua cotta d’arme e una [[Crown|corona]] di rame dorato.<br>6. Poi entra il Marchese Dorset che porta uno scettro d’oro, e indossa, sul capo, una mezza corona d’oro e, al collo, un collare di esse. Con lui entra il [[Earl of Surrey|Conte di Surrey]] che porta la verga d’argento con la colomba, cinto del coronetto da conte, e anch’egli con un collare di esse.<br>7. Poi entra il [[Duke of Suffolk|Duca di Suffolk]] come Gran Siniscalco, nella sua veste di stato, col coronetto sul capo, e reca una lunga bacchetta bianca. Con lui entra il Duca di Norfolk con la verga di maresciallo e un coronetto sul capo. Ciascuno porta un collare di esse.<br>8. Poi, sotto un baldacchino portato da quattro baroni dei Cinque Porti, entra Anna, la nuova [[Queen|regina]], nella sua veste. I suoi capelli, che scendono sciolti, sono riccamente adorni di perle. Porta una [[Crown|corona]]. L’accompagnano ai due lati i Vescovi di [[London|Londra]] e di Winchester.<br>9. Poi entra la vecchia Duchessa di Norfolk, con un serto d’oro lavorato a [[Flowers|fiori]], che regge lo strascico della [[Queen|regina]].<br>10. Infine entrano alcune dame o contesse, con semplici cerchi d’oro senza [[Flowers|fiori]]. I due Gentiluomini commentano il corteo mentre attraversa la scena |
+| SECONDO GENTILUOMO | Un corteo regale, credetemi. Questi li conosco.<br>Chi è colui che porta lo scettro? |
+| PRIMO GENTILUOMO | Il Marchese Dorset.<br>E quello, il [[Earl of Surrey|Conte di Surrey]] con la verga. |
+| SECONDO GENTILUOMO | Un gentiluomo ardito e valoroso. Quello dovrebbe essere<br>il [[Duke of Suffolk|Duca di Suffolk]]? |
+| PRIMO GENTILUOMO | È proprio lui: Gran Siniscalco. |
+| SECONDO GENTILUOMO | E quello, il mio signore di Norfolk? |
+| PRIMO GENTILUOMO | Sì. |
+| SECONDO GENTILUOMO | (vedendo Anna) Il cielo ti benedica!<br>Hai il volto più dolce su cui si sia mai posato sguardo.<br>Signore, com’è vero ch’ho un’[[Soul|anima]], è un angelo.<br>Il nostro [[King|re]] ha tutte le Indie fra le braccia,<br>e più, e più ricche, quando stringe quella dama.<br>Non posso biasimare la sua [[Conscience|coscienza]]. |
+| PRIMO GENTILUOMO | Coloro che reggono il drappo d’[[Honour|onore]] sopra di lei sono quattro baroni<br>dei Cinque Porti. |
+| SECONDO GENTILUOMO | Quegli uomini sono felici, e così tutti quelli che le sono vicini.<br>Ritengo che colei che regge lo strascico<br>sia quella vecchia nobile dama, la Duchessa di Norfolk. |
+| PRIMO GENTILUOMO | Lo è. E tutte le altre sono contesse. |
+| SECONDO GENTILUOMO | I loro coronetti lo dicono. Queste sono davvero [[Stars|stelle]]— |
+| *(didascalia)* | PRIMO GENTILUOMO |
+| SECONDO GENTILUOMO | E talvolta cadenti. |
+| SECONDO GENTILUOMO | Basta con questo. |
+| *(didascalia)* | Esce l’ultimo del corteo, e poi |
+| SECONDO GENTILUOMO | un gran squillo di trombe da dentro |
+| *(didascalia)* | Entra un terzo Gentiluomo tutto sudato |
+| PRIMO GENTILUOMO | Dio vi salvi, signore. Dove siete stato ad arrostirvi? |
+| TERZO GENTILUOMO | Fra la calca nell’Abbazia, dove un dito<br>non si sarebbe potuto incuneare di più. Sono soffocato<br>dal solo rigoglio della loro gioia. |
+| SECONDO GENTILUOMO | Avete visto la cerimonia? |
+| TERZO GENTILUOMO | Sì, l’ho vista. |
+| PRIMO GENTILUOMO | Com’era? |
+| TERZO GENTILUOMO | [[Well|Ben]] degna d’esser vista. |
+| SECONDO GENTILUOMO | Buon signore, raccontatecela. |
+| TERZO GENTILUOMO | [[Well|Bene]] quanto ne son capace. Il ricco fiume<br>di signori e dame, avendo condotto la [[Queen|regina]]<br>a un luogo apprestato nel coro, si ritrasse<br>a una certa distanza da lei, mentre sua grazia si sedette<br>a riposare un poco—una mezz’ora o giù di lì—<br>in una ricca sedia di stato, esponendo liberamente<br>la [[Beauty|bellezza]] della sua persona al popolo.<br>Credetemi, signore, è la donna più avvenente<br>che sia mai giaciuta accanto a uomo; e quando il popolo<br>ne ebbe piena vista, sorse un tale fragore<br>quale fanno le sartie in mare in una dura tempesta,<br>altrettanto forte e su altrettante note. Cappelli, mantelli—<br>e farsetti, credo—volarono in alto, e se le loro facce<br>fossero state staccate, quel giorno le avrebbero perdute. Tal gioia<br>non vidi mai prima. Donne dal ventre grosso,<br>cui non restava mezza settimana, come arieti<br>nell’antico [[Time|tempo]] di guerra, scuotevano la calca,<br>e la facevano barcollare davanti a loro. Nessun uomo vivente<br>avrebbe potuto dire là ‘Questa è mia moglie’, tanto tutti erano intessuti<br>stranamente in un solo pezzo. |
+| SECONDO GENTILUOMO | Ma che seguì? |
+| TERZO GENTILUOMO | Alla fine sua grazia si [[Rose|levò]], e con modesti passi<br>venne all’altare, dove s’inginocchiò, e da santa<br>volse i suoi begli occhi al cielo, e pregò devotamente, 86<br>poi si [[Rose|levò]] di nuovo, e s’inchinò al popolo,<br>quando dall’Arcivescovo di Canterbury<br>ricevette tutte le insegne regali d’una [[Queen|regina]],<br>come il sacro olio, la [[Crown|corona]] d’Edoardo il Confessore,<br>la verga e l’uccello della pace, e tutti tali emblemi<br>nobilmente posti su di lei. Compiuto ciò, il coro,<br>con tutta la più scelta musica del regno,<br>cantò insieme il Te Deum. Così ella partì,<br>e con la stessa piena solennità tornò a passo lento<br>a York Place, dove si tiene il banchetto. |
+| PRIMO GENTILUOMO | Signore, non dovete più chiamarlo York Place—è passato,<br>ché da quando il Cardinale cadde, quel titolo è perduto.<br>Ora è del [[King|re]], e si chiama Whitehall. |
+| TERZO GENTILUOMO | Lo so, ma è mutato così di recente che il vecchio nome<br>mi è ancora fresco addosso. |
+| SECONDO GENTILUOMO | Quali due reverendi vescovi<br>erano quelli che andavano ai due lati della [[Queen|regina]]? |
+| TERZO GENTILUOMO | Stokesley e Gardiner, l’uno di Winchester—<br>di fresco promosso da segretario del [[King|re]]—<br>l’altro di [[London|Londra]]. |
+| SECONDO GENTILUOMO | Quello di Winchester<br>non è tenuto per gran buon [[Lover|amico]] dell’Arcivescovo,<br>il virtuoso [[Cranmer]]. |
+| TERZO GENTILUOMO | Tutto il paese lo sa.<br>Tuttavia non v’è ancora gran rottura. Quando<br>verrà,<br>[[Cranmer]] troverà un amico che non si ritrarrà da lui. |
+| SECONDO GENTILUOMO | Chi può essere, di grazia? |
+| TERZO GENTILUOMO | Thomas Cromwell, uomo in molta stima presso il [[King|re]], e davvero<br>amico degno. Il [[King|re]] l’ha fatto<br>Maestro della [[house|Casa]] dei [[Jewel|Gioielli]],<br>e già membro del Consiglio Privato. |
+| SECONDO GENTILUOMO | Meriterà di più. |
+| TERZO GENTILUOMO | Sì, senza alcun [[Doubt|dubbio]].<br>Venite, gentiluomini, farete la mia strada,<br>che va alla [[Court|corte]], e là sarete miei<br>ospiti.<br>Qualcosa posso comandare. Mentre vi cammino<br>vi dirò di più. |
+| PRIMO | e SECONDO GENTILUOMO Potete comandarci, signore. |
+| *(didascalia)* | Escono |
+
 
 
 <span class="atom-split" data-atom="act_4--scene_2" data-title="All Is True (Henry VIII) — Act IV, Scene 2" data-chapter="Scene 2" data-kind="scene" data-tags="topos/double,archetype/child,archetype/king,motif/dance,motif/death,motif/dreams,motif/flowers,motif/grave,motif/love,motif/nature,motif/pain,motif/sleep,motif/soul,motif/summer,motif/tears,motif/time,motif/water,motif/well,concept/beauty,concept/body,concept/charity,concept/fear,concept/greatness,concept/honour,concept/hope,concept/humility,concept/nature,concept/poverty,concept/truth,setting/oxford,character/cardinal_wolsey,character/henry_viii,character/queen"></span>
@@ -2033,6 +2706,60 @@ Exeunt ⌈Norfolk at one door, [[Buckingham]] and Abergavenny under guard at ano
 | *(didascalia)* | Exeunt Caputius and Griffith at one door; |
 | *(didascalia)* | Patience leading Katherine at another |
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Tre sedie. Entra Caterina Vedova, inferma, sorretta fra Griffith suo gentiluomo usciere e Patience sua dama |
+| GRIFFITH | Come sta vostra grazia? |
+| CATERINA | O Griffith, malata a [[Death|morte]].<br>Le mie gambe, come rami carichi, si piegano a terra,<br>volenterose di deporre il loro peso. Porgi una sedia.<br>Le viene portata una sedia. Ella siede<br>Così ora, mi pare, sento un po’ di sollievo.<br>Non mi dicesti, Griffith, mentre mi conducevi,<br>che il gran [[Child|figlio]] dell’[[Honour|onore]], il [[Cardinal Wolsey|Cardinale Wolsey]],<br>era morto? |
+| GRIFFITH | Sì, madama, ma credo che vostra grazia, per la [[Pain|pena]] che soffriva, non vi prestasse orecchio. |
+| CATERINA | Di grazia, buon Griffith, dimmi come morì.<br>Se [[Well|bene]], mi ha felicemente preceduto<br>a mio esempio. |
+| GRIFFITH | [[Well|Bene]], corre voce, madama.<br>Ché dopo che il valente conte di Northumberland<br>l’arrestò a York, e lo condusse innanzi,<br>come uomo gravemente infamato, a rispondere,<br>cadde malato, all’improvviso, e s’aggravò tanto<br>che non poteva reggersi sul suo mulo. |
+| CATERINA | Ahimè, pover’uomo. |
+| GRIFFITH | Alla fine, a brevi tappe, giunse a Leicester,<br>alloggiò nell’abbazia, dove il reverendo abate,<br>con tutto il suo convento, l’accolse onorevolmente,<br>al quale rivolse queste parole: ‛O padre abate,<br>un vecchio spezzato dalle tempeste dello stato<br>è venuto a deporre le sue stanche ossa fra voi.<br>Dategli un poco di terra, per [[Charity|carità]].’<br>Così andò a letto, dove avidamente il suo male<br>continuò a incalzarlo, e tre notti dopo,<br>verso l’ora ottava, che egli stesso<br>predisse sarebbe stata la sua ultima, pieno di pentimento,<br>di continue meditazioni, [[Tears|lacrime]] e dolori,<br>rese i suoi onori di nuovo al mondo,<br>la sua parte benedetta al cielo, e dormì in pace. |
+| CATERINA | Così possa riposare, e le sue colpe gli pesino lievi.<br>Pure fin qui, Griffith, concedimi di parlarne,<br>e tuttavia con [[Charity|carità]]. Era un uomo<br>d’ambizione sconfinata, che sempre si poneva<br>alla pari dei principi; uno che per suggestione<br>legava tutto il regno. La simonia era gioco lecito.<br>La sua opinione era la sua legge. In presenza altrui<br>diceva falsità, ed era sempre [[Double|doppio]]<br>e nelle parole e nel senso. Non fu mai<br>pietoso, se non dove intendeva rovinare.<br>Le sue promesse erano, com’egli allora era, possenti;<br>ma il suo mantenerle, com’egli ora è, nulla.<br>Del suo proprio [[Body|corpo]] fu vizioso, e diede<br>al clero cattivo esempio. |
+| GRIFFITH | Nobile madama, i mali costumi degli uomini vivono nel bronzo, le loro virtù<br>le scriviamo nell’[[Water|acqua]]. Piaccia a vostra altezza<br>d’udirmi ora dire il suo bene? |
+| CATERINA | Sì, buon Griffith,<br>sarei maligna altrimenti. |
+| GRIFFITH | Questo cardinale, benché d’umile stirpe, indubbiamente<br>era foggiato a molto [[Honour|onore]]. Fin dalla culla<br>fu uno studioso, e maturo e valente,<br>oltremodo saggio, di bel parlare e persuasivo;<br>altero e aspro con quelli che non l’amavano,<br>ma verso quegli uomini che lo cercavano, dolce come l’[[Summer|estate]].<br>E benché fosse insaziabile nell’acquistare—<br>il che era peccato—pure nel donare, madama,<br>fu principesco al massimo: testimonino sempre per lui<br>quei due gemelli del sapere ch’egli innalzò in voi,<br>Ipswich e [[Oxford]]—uno dei quali cadde con lui,<br>non volendo sopravvivere al bene che l’aveva fatto;<br>l’altro, benché incompiuto, pure così famoso,<br>così eccellente nelle arti, e tuttora in tale ascesa,<br>che la cristianità dirà per sempre la sua virtù.<br>La sua caduta accumulò felicità su di lui,<br>ché allora, e non prima di allora, sentì se stesso,<br>e trovò la beatitudine dell’essere piccolo.<br>E per aggiungere alla sua vecchiaia onori maggiori<br>di quanti l’uomo potesse dargli, morì temendo Dio. |
+| CATERINA | Dopo la mia [[Death|morte]] non desidero altro araldo,<br>nessun altro narratore delle mie azioni in vita<br>a preservare il mio [[Honour|onore]] dalla corruzione,<br>se non un cronista onesto quale Griffith.<br>Colui che più odiai da vivo, tu m’hai fatto,<br>con la tua religiosa [[Truth|sincerità]] e modestia,<br>ora [[Honour|onorare]] nelle sue ceneri. Pace sia con lui.<br>(Alla sua dama) Patience, stammi ancora vicina, e mettimi<br>più bassa.<br>Non ho più per molto da disturbarti. Buon Griffith,<br>fa’ che i musici mi suonino quella nota mesta<br>ch’io chiamai la mia campana a morto, mentre siedo meditando<br>su quell’armonia celeste verso cui vado.<br>Musica mesta e solenne. Caterina s’addormenta |
+| GRIFFITH | (alla dama)<br>Dorme. Buona ragazza, sediamoci quiete<br>per [[Fear|timore]] di svegliarla. Piano, gentile Patience.<br>Siedono |
+| *(didascalia)* | Entrano, procedendo solennemente uno dopo l’altro, sei personaggi vestiti di bianche vesti, che portano sul capo ghirlande d’alloro e maschere dorate sul volto. Recano in mano rami d’alloro o di palma. Fanno dapprima riverenza a Caterina, poi [[Dance|danzano]]; e, a certe figure, i primi due reggono una ghirlanda di riserva sopra il suo capo, al che gli altri quattro fanno riverenti inchini. Poi i due che reggevano la ghirlanda la consegnano ai due successivi, che osservano lo stesso ordine nelle loro figure e nel reggere la ghirlanda sopra il suo capo. Fatto ciò, consegnano la medesima ghirlanda agli ultimi due, che parimenti osservano lo stesso ordine. Al che, come per ispirazione, ella fa nel [[Sleep|sonno]] segni di gioia, e leva le mani al cielo. E così danzando svaniscono, portando via con sé la ghirlanda. La musica continua |
+| CATERINA | (svegliandosi)<br>Spiriti di pace, dove siete? Ve ne siete andati tutti,<br>e mi lasciate qui dietro di voi nella miseria?<br>Griffith e Patience si alzano e si fanno avanti |
+| GRIFFITH | Madama, siamo qui. |
+| CATERINA | Non è voi che chiamo.<br>Non avete visto nessuno entrare mentre dormivo? |
+| GRIFFITH | Nessuno, madama. |
+| CATERINA | No? Non avete visto proprio ora una schiera beata<br>invitarmi a un banchetto, i cui volti splendenti<br>gettavano su di me mille raggi, come il sole?<br>Mi promisero eterna felicità,<br>e mi portarono ghirlande, Griffith, che sento<br>di non esser degna ancora di portare. Lo sarò,<br>di certo. |
+| GRIFFITH | Son lietissimo, madama, che così buoni [[Dreams|sogni]]<br>possiedano la vostra fantasia. |
+| CATERINA | Di’ alla musica di cessare.<br>M’è aspra e greve. |
+| *(didascalia)* | La musica cessa |
+| PATIENCE | (a Griffith)<br>Notate<br>quanto sua grazia sia mutata all’improvviso?<br>Come le si è allungato il volto? Com’è pallida,<br>e d’un colore terreo? Guardate i suoi occhi? |
+| GRIFFITH | Se ne va, ragazza. Prega, prega. |
+| PATIENCE | Il cielo la conforti. |
+| *(didascalia)* | Entra un Messaggero |
+| MESSAGGERO | (a Caterina)<br>Se piace a vostra grazia— |
+| CATERINA | Siete un tipo insolente—<br>non meritiamo più riverenza? |
+| GRIFFITH | (al Messaggero)<br>Siete da biasimare,<br>sapendo ch’ella non vuol perdere la sua consueta [[Greatness|grandezza]],<br>a usare così rozzo contegno. Suvvia, inginocchiatevi. |
+| MESSAGGERO | (inginocchiandosi davanti a Caterina)<br>Umilmente imploro il perdono di vostra altezza.<br>La mia fretta m’ha reso scortese. Attende<br>un gentiluomo mandato dal [[King|re]] a vedervi. |
+| CATERINA | Fallo entrare, Griffith. Ma costui<br>ch’io non lo veda mai più. |
+| *(didascalia)* | Esce il Messaggero |
+| *(didascalia)* | Entra Lord Capuzio introdotto da Griffith |
+| CATERINA | Se la vista non m’inganna,<br>voi dovreste essere il signore ambasciatore dell’Imperatore,<br>mio regale nipote, e il vostro nome Capuzio. |
+| *(didascalia)* | Madama, il medesimo, inchinandosi vostro servo. |
+| CATERINA | Oh, mio signore, i tempi e i titoli ora sono stranamente mutati<br>per me da quando la prima volta mi conosceste. Ma vi prego,<br>che desiderate da me? |
+| CAPUZIO | Nobile signora, prima il mio proprio ossequio a vostra grazia; poi,<br>la richiesta del [[King|re]] ch’io vi visitassi,<br>il quale molto si duole della vostra debolezza, e per mezzo mio<br>vi manda i suoi principeschi saluti,<br>e di cuore vi supplica di prendere buon conforto. |
+| CATERINA | Oh, mio buon signore, quel conforto giunge troppo tardi,<br>è come un perdono dopo l’esecuzione.<br>Quella dolce medicina, data in [[Time|tempo]], m’avrebbe guarita;<br>ma ora sono oltre ogni conforto quaggiù, tranne le preghiere.<br>Come sta sua altezza? |
+| CAPUZIO | Madama, in buona salute. |
+| CATERINA | Così possa egli sempre stare, e sempre fiorire<br>quando io dimorerò coi vermi, e il mio povero nome<br>sarà bandito dal regno. (Alla sua dama) Patience, è<br>quella lettera<br>che ti feci scrivere già stata mandata? |
+| PATIENCE | No, madama. |
+| CATERINA | (a Capuzio)<br>Signore, umilissimamente vi prego di consegnare<br>questa al mio signore il [[King|re]].<br>La lettera è data a Capuzio |
+| CAPUZIO | Ben volentieri, madama. |
+| CATERINA | Nella quale ho raccomandato alla sua bontà<br>il modello dei nostri casti amori, la sua giovane figlia—<br>le rugiade del cielo cadano fitte in benedizioni su di lei—<br>supplicandolo di darle virtuosa educazione.<br>È giovane, e di nobile e modesta [[Nature|natura]].<br>[[Hope|Spero]] che meriterà [[Well|bene]]—e un poco<br>ch’egli l’[[Love|ami]] per amore di sua madre, che l’amò,<br>il cielo sa quanto caramente. La mia prossima povera petizione<br>è che la sua nobile grazia abbia qualche pietà<br>delle mie misere donne, che così a lungo<br>hanno seguito fedelmente entrambe le mie fortune;<br>delle quali non ve n’è una, oso affermarlo—<br>e ora non dovrei mentire—che non meriterà,<br>per virtù e vera [[Beauty|bellezza]] dell’[[Soul|anima]],<br>per onestà e decoroso contegno,<br>un marito davvero buono. Sia pure un nobile,<br>e certo son felici quegli uomini che le avranno.<br>L’ultima è per i miei uomini—sono i più poveri,<br>ma la [[Poverty|povertà]] non poté mai staccarli da me—<br>che sia loro pagato debitamente il salario,<br>e qualcosa in più per ricordarsi di me.<br>Se al cielo fosse piaciuto darmi vita più lunga,<br>e mezzi sufficienti, non ci saremmo separati così.<br>Questo è tutto il contenuto; e, mio buon signore,<br>per ciò che [[Love|amate]] di più caro in questo mondo,<br>come desiderate cristiana pace alle anime dei defunti,<br>siate amico di questa povera gente e sollecitate il [[King|re]]<br>a rendermi quest’ultimo rito. |
+| CAPUZIO | Per il cielo lo farò,<br>o ch’io perda la forma d’uomo. |
+| CATERINA | Vi ringrazio, onesto signore. Ricordatemi<br>in tutta [[Humility|umiltà]] a sua altezza.<br>Ditegli che il suo lungo travaglio ora sta passando<br>fuori da questo mondo. Ditegli che in [[Death|morte]] l’ho benedetto,<br>ché così farò. I miei occhi s’oscurano. Addio,<br>mio signore. Griffith, addio.<br>(Alla sua dama)<br>No, Patience,<br>tu non devi ancora lasciarmi. Devo andare a letto.<br>Chiama altre donne. Quando sarò morta, buona ragazza,<br>si usi verso di me [[Honour|onore]]. Cospargetemi<br>di [[Flowers|fiori]] verginali, perché tutto il mondo sappia<br>ch’io fui moglie casta fino alla mia [[Grave|tomba]]. Imbalsamatemi,<br>poi esponetemi. Benché spodestata, pure come<br>una [[Queen|regina]] e figlia d’un [[King|re]] seppellitemi.<br>Non posso più. |
+| *(didascalia)* | Escono Capuzio e Griffith da una porta; |
+| *(didascalia)* | Patience conducendo Caterina da un’altra |
 
 
 
@@ -2117,6 +2844,86 @@ Exeunt ⌈Norfolk at one door, [[Buckingham]] and Abergavenny under guard at ano
 | OLD LADY | An hundred marks? By this light, I’ll ha’ more.<br>An ordinary groom is for such payment.<br>I will have more, or scold it out of him.<br>Said I for this the girl was like to him? I’ll<br>Have more, or else unsay’t; and now, while ’tis hot,<br>I’ll put it to the issue. |
 | *(didascalia)* | Exeunt |
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entra da una porta Gardiner, Vescovo di Winchester; davanti a lui, un Paggio con una torcia |
+| GARDINER | È l’una all’[[Clock|orologio]], ragazzo, non è vero? |
+| PAGGIO | Ha battuto. |
+| GARDINER | Queste dovrebbero essere ore per le necessità,<br>non per i diletti; tempi per ristorare la nostra [[Nature|natura]]<br>con confortante riposo, e non perché noi<br>sprechiamo tali tempi. |
+| *(didascalia)* | Entra da un’altra porta Sir Thomas Lovell, incontrandoli |
+| GARDINER | Buona ora di [[Night|notte]], Sir Thomasl<br>Dove andate così tardi? |
+| LOVELY | Venite dal [[King|re]], mio signore? |
+| GARDINER | Sì, Sir Thomas, e l’ho lasciato al primiera<br>col [[Duke of Suffolk|Duca di Suffolk]]. |
+| LOVELL | Devo andare anch’io da lui,<br>prima ch’egli vada a letto. Prendo congedo. |
+| GARDINER | Non ancora, Sir Thomas Lovell—che c’è?<br>Pare che siate in fretta. E se non v’è<br>grande offesa in ciò, date al vostro amico<br>qualche cenno della vostra tarda faccenda. Gli affari che camminano,<br>come dicono facciano gli spiriti, a mezzanotte, hanno<br>in sé una [[Nature|natura]] più selvaggia degli affari<br>che cercano spedizione di giorno. |
+| LOVELL | Mio signore, io v’[[Love|amo]],<br>e oserei affidare al vostro orecchio un segreto<br>assai più grave di questa faccenda. La [[Queen|regina]] è in travaglio—<br>dicono in grande estremo—e si teme<br>ch’ella col travaglio finisca. |
+| GARDINER | Per il frutto ch’ella porta<br>prego di cuore, che possa trovare<br>buon [[Time|tempo]] e vivere. Ma quanto al ceppo, Sir Thomas,<br>lo vorrei sradicato ora. |
+| LOVELL | Mi pare che potrei<br>gridarci amen, eppure la mia [[Conscience|coscienza]] dice<br>ch’ella è buona creatura e, dolce dama,<br>merita i nostri migliori auguri. |
+| GARDINER | Ma signore, signore,<br>ascoltatemi, Sir Thomas. Siete un gentiluomo<br>della mia stessa via. Vi so saggio, religioso.<br>E lasciate che vi dica, non andrà mai [[Well|bene]]—<br>non andrà, Sir Thomas Lovell, credetelo a me—<br>finché [[Cranmer]], Cromwell—le sue due mani—ed ella<br>non [[Sleep|dormano]] nelle loro tombe. |
+| LOVELL | Ora, signore, parlate di due<br>fra i più notati del regno. Quanto a Cromwell,<br>oltre a quello della [[house|Casa]] dei [[Jewel|Gioielli]], è fatto Maestro<br>dei Rotoli e segretario del [[King|re]]. Inoltre, signore,<br>sta nel varco e nella via di altre promozioni<br>di cui il [[Time|tempo]] lo caricherà. L’Arcivescovo<br>è la mano e la lingua del [[King|re]], e chi osa dire<br>una sillaba contro di lui? |
+| GARDINER | Sì, sì, Sir Thomas—<br>ve n’è chi osa, e io stesso mi sono arrischiato<br>a dire di lui il mio pensiero, e, invero, oggi,<br>signore—posso dirvelo, credo—ho<br>infiammato i signori del Consiglio che egli è—<br>ché tale io so ch’egli è, e loro sanno ch’egli è—<br>un arcieretico, una pestilenza<br>che infetta il paese; onde essi, commossi,<br>ne hanno parlato col [[King|re]], il quale ha finora<br>prestato orecchio alla nostra lagnanza, e per la sua gran grazia<br>e cura principesca, prevedendo quei crudeli malanni<br>che le nostre ragioni gli hanno esposto, ha comandato così<br>che domani mattina al banco del Consiglio<br>egli sia convocato. È un’erbaccia rigogliosa, Sir Thomas,<br>e dobbiamo sradicarlo. Dai vostri affari<br>vi trattengo troppo a lungo. Buona [[Night|notte]], Sir Thomas. |
+| LOVELL | Molte buone notti, mio signore; resto vostro servo. |
+| *(didascalia)* | Escono Gardiner e il Paggio da una porta |
+| *(didascalia)* | Entrano il [[King|re]] Enrico e Suffolk da un’altra porta |
+| [[King|RE]] ENRICO | (a Suffolk)<br>Carlo, non giocherò più stanotte.<br>La mia mente non vi è. Siete troppo forte per me. |
+| SUFFOLK | Sire, non v’avevo mai vinto prima. |
+| [[King|RE]] ENRICO | E poco, Carlo,<br>né vincerete quando la mia mente sarà al gioco.<br>Ora, Lovell, dalla [[Queen|regina]] che nuove? |
+| LOVELL | Non potei consegnarle di persona<br>ciò che m’avevate comandato, ma per mezzo della sua dama<br>le mandai il vostro messaggio; ella rese i suoi ringraziamenti<br>con la più grande umiltà, e desiderò che vostra altezza<br>di tutto cuore pregasse per lei. |
+| [[King|RE]] ENRICO | Che dici? Eh?<br>Pregare per lei? Come, grida di doglie? |
+| LOVELL | Così disse la sua dama, e che il suo patire rendeva<br>quasi ogni fitta una [[Death|morte]]. |
+| [[King|RE]] ENRICO | Ahimè, buona dama. |
+| SUFFOLK | Dio la sciolga sicura dal suo peso, e<br>con dolce travaglio, per rallegrare<br>vostra altezza con un erede. |
+| [[King|RE]] ENRICO | È mezzanotte, Carlo.<br>Di grazia a letto, e nelle tue preghiere ricorda<br>lo stato della mia povera [[Queen|regina]]. Lasciami [[Alone|solo]],<br>ché devo pensare a ciò cui la compagnia<br>non sarebbe amica. |
+| SUFFOLK | Auguro a vostra altezza<br>una quieta [[Night|notte]], e la mia buona signora<br>ricorderò nelle mie preghiere. |
+| [[King|RE]] ENRICO | Carlo, buona [[Night|notte]]. |
+| *(didascalia)* | Esce Suffolk |
+| *(didascalia)* | Entra Sir Anthony Denny |
+| [[King|RE]] ENRICO | [[Well|Ebbene]], signore, che segue? |
+| DENNY | Sire, ho condotto il mio signore l’Arcivescovo,<br>come m’avete comandato. |
+| [[King|RE]] ENRICO | Ah, Canterbury? |
+| DENNY | Sì, mio buon signore. |
+| [[King|RE]] ENRICO | È vero—dov’è, Denny? |
+| DENNY | Attende il piacere di vostra altezza. |
+| [[King|RE]] ENRICO | Conducetelo a noi. |
+| *(didascalia)* | Esce Denny |
+| LOVELL. | (a parte)<br>Questo riguarda ciò di cui parlò il Vescovo.<br>Son venuto qua per buona ventura. |
+| *(didascalia)* | Entra |
+| LOVELL. | [[Cranmer]]<br>l’Arcivescovo, introdotto da<br>Denny |
+| [[King|RE]] ENRICO | (a Lovell e Denny) Sgombrate la galleria. |
+| *(didascalia)* | Denny comincia ad allontanarsi. Lovell pare indugiare |
+| [[King|RE]] ENRICO | Eh? Ho parlato. Andatevene.<br>Che? |
+| *(didascalia)* | Escono Lovell e Denny |
+| [[Cranmer|CRANMER]] | (a parte)<br>Sono pieno di timore. Perché aggrotta così le ciglia?<br>È il suo aspetto di terrore. Non va tutto [[Well|bene]]. |
+| [[King|RE]] ENRICO | Ebbene, mio signore? [[Desire|Desiderate]] sapere<br>perché vi ho mandato a chiamare. |
+| [[Cranmer|CRANMER]] | (inginocchiandosi) È mio dovere<br>attendere il piacere di vostra altezza. |
+| [[King|RE]] ENRICO | Vi prego, alzatevi,<br>mio buono e grazioso Signore di Canterbury.<br>Venite, voi e io dobbiamo fare un giro insieme.<br>Ho nuove da dirvi. Venite, venite—datemi la<br>mano. |
+| *(didascalia)* | [[Cranmer]] si alza. Passeggiano |
+| [[King|RE]] ENRICO | Ah, mio buon signore, mi duole ciò che dico,<br>e mi rincresce assai ripetere ciò che segue.<br>Ho, e assai malvolentieri, di recente<br>udito molte gravi—dico proprio, mio signore,<br>gravi—lagnanze su di voi, le quali, considerate,<br>hanno mosso noi e il nostro Consiglio a che voi<br>stamane compariate davanti a noi, dove so<br>che non potrete con tale [[Freedom|libertà]] purgarvi,<br>sì che, fino a ulteriore processo su quelle accuse<br>che richiederanno la vostra risposta, dovrete<br>armarvi di pazienza, ed essere [[Well|ben]] contento<br>di fare della vostra [[house|casa]] la nostra Torre. Essendo voi un nostro fratello,<br>conviene che così procediamo, o altrimenti nessun testimone<br>verrebbe contro di voi. |
+| [[Cranmer|CRANMER]] | (inginocchiandosi)<br>Umilmente ringrazio vostra altezza, e son ben lieto di cogliere questa buona occasione<br>d’essere accuratamente vagliato, dove la mia pula<br>e il mio grano voleranno separati. Ché so<br>che nessuno sta sotto lingue più calunniose<br>di me stesso, pover’uomo. |
+| [[King|RE]] ENRICO | Alzatevi, buon Canterbury.<br>La vostra [[Truth|verità]] e la vostra integrità hanno radice<br>in noi, vostro amico. Datemi la mano. Alzatevi.<br>Di grazia, passeggiamo.<br>[[Cranmer]] si alza. Passeggiano<br>Ora, per la mia santa fede,<br>che sorta d’uomo siete? Mio signore, mi aspettavo<br>che m’aveste dato la vostra petizione perché<br>io mi prendessi qualche pena di riunire<br>voi stesso e i vostri accusatori, e d’ascoltarvi<br>senza ulteriore costrizione. |
+| [[Cranmer|CRANMER]] | Temutissimo sire, il fondamento su cui sto è la mia [[Truth|verità]] e la mia onestà.<br>Se esse verranno meno, io insieme ai miei nemici<br>trionferò sulla mia persona, che non stimo nulla,<br>se priva di quelle virtù. Non [[Fear|temo]] nulla<br>di ciò che può dirsi contro di me. |
+| [[King|RE]] ENRICO | Non sapete<br>come sta il vostro stato nel mondo, con tutto il<br>mondo?<br>I vostri nemici sono molti, e non piccoli; i loro maneggi<br>devono avere la stessa proporzione, e non sempre<br>la giustizia e la [[Truth|verità]] della causa portano<br>con sé la rugiada del verdetto. Con che facilità<br>menti corrotte potrebbero procurarsi furfanti altrettanto corrotti<br>a giurare contro di voi? Tali cose sono state<br>fatte.<br>Vi si oppongono potentemente, e con una malizia<br>di pari grandezza. Vi credete di miglior fortuna,<br>intendo in fatto di testimoni spergiuri, del vostro maestro,<br>di cui siete ministro, mentre qui visse<br>su questa cattiva terra? Suvvia, suvvia.<br>Voi prendete un precipizio per un salto senza pericolo,<br>e corteggiate la vostra propria distruzione. |
+| [[Cranmer|CRANMER]] | Dio e vostra maestà<br>proteggano la mia [[innocence|innocenza]], o cado nella<br>trappola che m’è tesa. |
+| [[King|RE]] ENRICO | Fatevi coraggio. Non prevarranno più di quanto noi cediamo.<br>Serbate conforto in voi, e stamane badate<br>di comparire davanti a loro. Se per caso,<br>accusandovi di certe cose, vi imprigioneranno,<br>non mancate d’usare le migliori persuasioni<br>in contrario, e con quella veemenza<br>che l’occasione v’insegnerà. Se le suppliche |
+| *(didascalia)* | non vi daranno alcun rimedio, dandogli il suo anello questo anello |
+| [[King|RE]] ENRICO | mostrate loro, e il vostro appello a noi<br>fate là davanti a loro.<br>[[Cranmer]] piange<br>Guardate, il buon uomo piange.<br>È onesto, sul mio [[Honour|onore]]. Per la benedetta madre di Dio,<br>giuro ch’egli è di cuore sincero, e un’[[Soul|anima]]<br>migliore non v’è nel mio regno. Andate,<br>e fate come v’ho ordinato. |
+| *(didascalia)* | Esce [[Cranmer]] |
+| [[King|RE]] ENRICO | Ha strozzato<br>la sua parola nelle sue [[Tears|lacrime]]. |
+| *(didascalia)* | Entra la Vecchia Dama |
+| *(didascalia)* | LOVELL (da dentro) Tornate indietro! Che intendete fare? |
+| *(didascalia)* | Entra Lovell, seguendola |
+| VECCHIA DAMA | Non tornerò indietro. Le notizie che porto<br>faranno della mia audacia buona creanza. (Al [[King|re]]) Ora<br>buoni angeli<br>volino sopra il tuo regale capo, e adombrino la tua persona<br>sotto le loro benedette ali. |
+| [[King|RE]] ENRICO | Ora dal tuo aspetto<br>indovino il tuo messaggio. La [[Queen|regina]] ha partorito?<br>Di’: ‘Sì, e d’un maschio.’ |
+| VECCHIA DAMA | Sì, sì, mio sire,<br>e d’un bel maschio. Il Dio del cielo<br>ora e sempre la benedica! È una femmina<br>che promette maschi in avvenire. Sire, la vostra [[Queen|regina]]<br>desidera la vostra visita, e d’esser<br>presentata a questa forestiera. È simile a voi<br>come ciliegia a ciliegia. |
+| [[King|RE]] ENRICO | Lovell— |
+| LOVELL | Sire? |
+| [[King|RE]] ENRICO | Dàlle cento marchi. Io vado dalla [[Queen|regina]]. |
+| *(didascalia)* | Esce |
+| VECCHIA DAMA | Cento marchi? Per questa luce, ne voglio di più.<br>Uno stalliere qualunque merita tal paga.<br>Ne avrò di più, o glieli strapperò a forza di sgridate.<br>Dissi io per questo che la bimba gli somigliava? Ne<br>avrò di più, o altrimenti disdirò; e ora, finché è caldo,<br>la porterò a compimento. |
+| *(didascalia)* | Escono |
 
 
 
@@ -2208,6 +3015,92 @@ Exeunt ⌈Norfolk at one door, [[Buckingham]] and Abergavenny under guard at ano
 | *(didascalia)* | Exeunt |
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entrano messi, paggi, staffieri e valletti. Poi entra [[Cranmer]], Arcivescovo di Canterbury |
+| [[Cranmer|CRANMER]] | [[Hope|Spero]] di non essere troppo tardi, eppure il gentiluomo<br>che mi fu mandato dal consiglio mi pregò<br>di far gran fretta. Tutto chiuso? Che vuol dir questo?<br>(Chiamando alla porta) Olà!<br>Chi è di guardia là? |
+| *(didascalia)* | Entra |
+| [[Cranmer|CRANMER]] | un Portiere<br>Certo mi conoscete? |
+| PORTIERE | Sì, mio signore,<br>eppure non posso aiutarvi. |
+| [[Cranmer|CRANMER]] | Perché? |
+| *(didascalia)* | Entra |
+| [[Cranmer|CRANMER]] | il dottor Butts, attraversando la |
+| *(didascalia)* | scena |
+| PORTIERE | Vostra grazia deve attendere finché sia chiamata. |
+| [[Cranmer|CRANMER]] | Ah sì. |
+| BUTTS | (a parte)<br>Questo è un tratto di malizia. Son lieto<br>d’esser passato di qua così per buona sorte. Il [[King|re]]<br>ne sarà informato all’istante. |
+| *(didascalia)* | Esce |
+| [[Cranmer|CRANMER]] | (a parte)<br>È Butts, il medico del [[King|re]]. Mentre passava<br>con che intensità gettò gli occhi su di me!<br>Voglia il cielo ch’egli non abbia scoperto la mia disgrazia. Di certo<br>questo è ordito a bella posta da alcuni che m’odiano—<br>Dio muti i loro cuori, io non cercai mai la loro malizia—<br>per spegnere il mio [[Honour|onore]]. Si vergognerebbero altrimenti di farmi<br>attendere alla porta, un collega Consigliere,<br>fra ragazzi, valletti e lacchè. Ma i loro piaceri<br>devono essere adempiuti, e io attendo con pazienza. |
+| *(didascalia)* | Entrano il [[King|re]] Enrico e il dottor Butts a una [[Window|finestra]], in alto |
+| BUTTS | Mostrerò a vostra grazia lo spettacolo più strano— |
+| [[King|RE]] ENRICO | Che cos’è, Butts? |
+| BUTTS | Credo che vostra altezza abbia visto questo per molti giorni. |
+| [[King|RE]] ENRICO | [[Body|Corpo]] di me, dov’è? |
+| BUTTS | (indicando [[Cranmer]], in basso)<br>Là, mio signore. L’alta promozione di sua grazia di Canterbury,<br>che tiene il suo seggio alla porta, fra messi,<br>paggi e staffieri. |
+| [[King|RE]] ENRICO | Eh? È lui davvero.<br>È questo l’[[Honour|onore]] che si fanno l’un l’altro?<br>È [[Well|bene]] che ce n’è ancora uno sopra di loro. Credevo<br>che avessero spartito fra loro tanta onestà—<br>o almeno buona creanza—da non permettere così<br>che un uomo del suo posto e tanto vicino al nostro favore<br>faccia la [[Dance|danza]] d’anticamera ai piaceri delle loro signorie,<br>e per giunta alla porta, come un corriere coi plichi!<br>Per la santa Maria, Butts, c’è furfanteria!<br>Lasciamoli [[Alone|stare]], e tira bene la tenda.<br>Fra poco udremo di più. |
+| *(didascalia)* | [[Cranmer]] e il portiere si tengono da un lato. Escono i lacchè. In alto, Butts tira in parte la tenda. In basso, viene portato dentro un tavolo del consiglio insieme a sedie e sgabelli, e posto sotto il baldacchino regale. Entra il Lord Cancelliere, che si colloca all’estremità superiore del tavolo, sulla sinistra, lasciando un seggio vuoto sopra di lui, a capotavola, come seggio per Canterbury. Il [[Duke of Suffolk|Duca di Suffolk]], il Duca di Norfolk, il [[Earl of Surrey|Conte di Surrey]], il Lord Ciambellano e Gardiner, il Vescovo di Winchester, si siedono in ordine ai due lati del tavolo. Cromwell siede all’estremità inferiore, e funge da segretario |
+| LORD CANCELLIERE | (a Cromwell)<br>Esponete la faccenda, signor segretario.<br>Perché siamo riuniti in consiglio? |
+| CROMWELL | Piaccia alle vostre signorie,<br>la causa principale riguarda sua grazia di Canterbury. |
+| GARDINER | Ne è stato informato? |
+| CROMWELL | Sì. |
+| NORFOLK | (al Portiere)<br>Chi attende là? |
+| *(didascalia)* | IL PORTIERE facendosi avanti |
+| NORFOLK | Di fuori, miei nobili signori? |
+| GARDINER | Sì. |
+| PORTIERE | Il mio signore Arcivescovo;<br>ed è già mezz’ora, per conoscere i vostri desideri. |
+| LORD CANCELLIERE | Fatelo entrare. |
+| PORTIERE | (a [[Cranmer]]) Vostra grazia può ora entrare.<br>[[Cranmer]] s’avvicina al tavolo del Consiglio |
+| LORD CANCELLIERE | Mio buon signore Arcivescovo, mi duole assai<br>sedere qui in questo momento e vedere<br>quella sedia vuota, ma siamo tutti uomini<br>nelle nostre nature fragili, e soggetti<br>alla nostra carne; pochi sono angeli; e per tale fragilità<br>e mancanza di saggezza, voi, che meglio dovreste insegnarci,<br>vi siete comportato male, e non poco,<br>verso il [[King|re]] anzitutto, poi verso le sue leggi, riempiendo<br>tutto il regno, col vostro insegnamento e con quello dei vostri cappellani—<br>ché così siamo informati—di nuove opinioni,<br>diverse e pericolose, che sono eresie,<br>e, non riformate, possono riuscire perniciose. |
+| GARDINER | La qual [[Reformation|riforma]] dev’essere anche subitanea,<br>miei nobili signori; ché chi doma i cavalli selvaggi<br>non li fa passeggiare a mano per renderli miti,<br>ma serra loro la bocca con morsi duri e li sprona<br>finché non obbediscono al maneggio. Se tolleriamo,<br>per la nostra remissività e puerile pietà<br>verso l’[[Honour|onore]] d’un solo uomo, questo morbo contagioso,<br>addio a ogni medicina—e che segue allora?<br>Tumulti, sommosse—con una generale infezione<br>di tutto lo stato, come nei giorni scorsi i nostri vicini,<br>l’alta [[Germany|Germania]], possono caramente attestare,<br>ancor fresca di compianto nella nostra memoria. 65 |
+| [[Cranmer|CRANMER]] | Miei buoni signori, finora in tutto il corso<br>e della mia vita e del mio ufficio, ho lavorato,<br>e con non poco studio, perché il mio insegnamento<br>e il forte corso della mia autorità<br>andassero per una sola via, e sicura; e il fine<br>fu sempre di far [[Well|bene]]. Né vive—<br>lo dico con cuore sincero, signori miei—<br>uomo che più detesti, più s’adoperi contro,<br>e nella sua privata [[Conscience|coscienza]] e nella sua carica,<br>i guastatori della pace pubblica, di quanto faccia io.<br>Voglia il cielo che il [[King|re]] non trovi mai un cuore<br>con meno fedeltà in sé. Uomini che fanno<br>dell’invidia e della torta malizia il loro nutrimento<br>osano mordere i migliori. Supplico le vostre signorie<br>che, in questo caso di giustizia, i miei accusatori,<br>siano chi si voglia, si facciano avanti faccia a faccia,<br>e liberamente incalzino contro di me. |
+| SUFFOLK | No, mio signore,<br>ciò non può essere. Siete Consigliere,<br>e in virtù di ciò nessuno osa accusarvi. |
+| GARDINER | (a [[Cranmer]])<br>Mio signore, poiché abbiamo affari di maggior momento,<br>saremo brevi con voi. È piacere di sua altezza<br>e nostro consenso che, per meglio processarvi,<br>di qui siate condotto alla Torre,<br>dove, tornato semplice privato,<br>saprete che molti osano accusarvi arditamente,<br>più di quanto, [[Fear|temo]], siate preparato a sostenere. |
+| [[Cranmer|CRANMER]] | Ah, mio buon signore di Winchester, vi ringrazio.<br>Siete sempre mio buon amico. Se il vostro volere passa,<br>troverò in vostra signoria e giudice e giurato,<br>tanto siete misericordioso. Vedo il vostro fine—<br>è la mia rovina. [[Love|Amore]] e mitezza, signore,<br>convengono a un uomo di chiesa meglio dell’[[Ambition|ambizione]].<br>Riconquistate con modestia le anime smarrite;<br>non gettatene via nessuna. Che mi discolperò,<br>ponete pure sulla mia pazienza tutto il peso che potete,<br>ne ho così poco [[Doubt|dubbio]] quanto voi ne fate [[Conscience|coscienza]]<br>nel commettere torti ogni giorno. Potrei dire di più,<br>ma la riverenza alla vostra vocazione mi rende modesto. |
+| GARDINER | Mio signore, mio signore—siete un settario,<br>ecco la pura [[Truth|verità]]. La vostra vernice dipinta scopre,<br>agli uomini che vi comprendono, parole e debolezza. |
+| CROMWELL | (a Gardiner)<br>Mio signore di Winchester, siete un poco,<br>con vostra buona licenza, troppo aspro. Uomini così nobili,<br>per quanto colpevoli, dovrebbero pure trovare rispetto<br>per ciò che sono stati. È crudeltà<br>caricare un uomo che cade. |
+| GARDINER | Buon signor segretario,<br>chiedo [[Mercy|perdono]] a vostro [[Honour|onore]]. Voi meno di tutti<br>a questo tavolo potete dir questo. |
+| CROMWELL | Perché, mio signore? |
+| GARDINER | Non vi conosco forse per fautore<br>di questa nuova setta? Non siete sano. |
+| CROMWELL | Non sano? |
+| GARDINER | Non sano, dico. |
+| CROMWELL | Foste voi metà tanto onesto!<br>Allora le preghiere degli uomini vi cercherebbero, non i loro timori. |
+| GARDINER | Ricorderò questo linguaggio ardito. |
+| CROMWELL | Fatelo.<br>Ricordate anche la vostra ardita vita. |
+| LORD CANCELLIERE | Questo è troppo.<br>Trattenetevi, per vergogna, signori miei. |
+| GARDINER | Ho finito. |
+| CROMWELL | E io. |
+| LORD CANCELLIERE | (a [[Cranmer]])<br>Dunque così per voi, mio signore. È convenuto,<br>a quel che intendo, da tutte le voci, che senza indugio<br>siate condotto alla Torre come prigioniero,<br>là a restare finché l’ulteriore piacere del [[King|re]]<br>non ci sia noto. Siete tutti d’accordo, signori? |
+| TUTTO IL CONSIGLIO | Lo siamo. |
+| [[Cranmer|CRANMER]] | Non v’è altra via di [[Mercy|misericordia]],<br>e devo per forza andare alla Torre, signori miei? |
+| GARDINER | Che altro<br>vi aspettereste? Siete stranamente molesto.<br>Che alcuni della guardia siano pronti là. |
+| *(didascalia)* | Entra la guardia |
+| [[Cranmer|CRANMER]] | Per me?<br>Devo andarvi come un traditore? |
+| GARDINER | (alla guardia)<br>Prendetelo in consegna,<br>e conducetelo sicuro alla Torre. |
+| [[Cranmer|CRANMER]] | Fermatevi, miei buoni signori.<br>Ho ancora un poco da dire. Guardate qui, signori miei—<br>Mostra l’anello del [[King|re]]<br>In virtù di quell’anello io tolgo la mia causa<br>dalle grinfie d’uomini crudeli, e la consegno<br>a un giudice nobilissimo, il [[King|re]] mio signore. |
+| LORD CIAMBELLANO | Questo è l’anello del [[King|re]]. |
+| SURREY | Non è contraffatto. |
+| SUFFOLK | È l’anello autentico, per il cielo. Ve l’avevo detto a tutti<br>quando mettemmo per la prima volta questa pietra pericolosa a [[rolling|rotolare]]<br>che sarebbe caduta su noi stessi. |
+| NORFOLK | Credete voi, signori miei,<br>che il [[King|re]] permetterà che pur il mignolo<br>di quest’uomo sia molestato? |
+| LORD CIAMBELLANO | Ora è fin troppo certo.<br>Quanto più vale per lui la sua vita!<br>Vorrei esserne fuori pulito. |
+| *(didascalia)* | Esce il [[King|re]] con Butts, in alto |
+| CROMWELL | Il mio animo me lo diceva:<br>cercando storie e denunce<br>contro quest’uomo, la cui onestà solo il diavolo<br>e i suoi discepoli invidiano,<br>avete soffiato sul [[Fire|fuoco]] che vi brucia. Ora badate a voi! |
+| *(didascalia)* | Entra, in basso, il [[King|re]] Enrico aggrottando le ciglia verso di loro. Prende il suo posto |
+| GARDINER | Temuto sovrano, quanto siamo obbligati al cielo<br>in quotidiano rendimento di grazie, che ci diede tal principe,<br>non solo buono e saggio, ma religiosissimo.<br>Uno che in ogni obbedienza fa della chiesa<br>il fine principale del suo [[Honour|onore]], e, per rafforzare<br>quel santo dovere, per caro riguardo,<br>il suo regale [[Self|io]] viene in giudizio a udire<br>la causa fra lei e questo grande offensore. |
+| [[King|RE]] ENRICO | Foste sempre bravo nelle improvvise lodi,<br>Vescovo di Winchester. Ma sappiate ch’io non vengo<br>a udire ora simile adulazione; e in mia presenza<br>essa è troppo sottile e vile per nascondere le offese.<br>A me non potete arrivare. Fate il cagnolino,<br>e credete con lo scodinzolare della lingua di conquistarmi.<br>Ma per qualunque cosa tu mi prenda, son certo<br>che hai una [[Nature|natura]] crudele e sanguinaria.<br>(A [[Cranmer]]) Buon uomo, sedete.<br>[[Cranmer]] prende posto a capo del tavolo del Consiglio<br>Ora ch’io veda il più superbo,<br>colui che più osa, muovere anche solo un dito contro di te.<br>Per tutto ciò che è santo, gli converrebbe morir di fame<br>piuttosto che pensare una sola volta che questo posto non ti si addice. |
+| SURREY | Piaccia a vostra grazia— |
+| [[King|RE]] ENRICO | No, signore, non mi piace affatto!<br>Credevo d’avere nel mio Consiglio uomini di qualche intendimento<br>e saggezza, ma non ne trovo nessuno.<br>Fu discrezione, signori, lasciare che quest’uomo,<br>quest’uomo buono—pochi di voi meritano quel titolo—<br>quest’uomo onesto, attendesse come un pidocchioso staffiere<br>alla porta della camera? E uno grande quanto voi?<br>Che vergogna fu questa! Il mio mandato<br>vi ordinava di dimenticarvi fino a tal punto? Vi diedi<br>potere di processarlo in quanto Consigliere,<br>non in quanto valletto. Ve n’è alcuni, vedo,<br>più per malizia che per integrità,<br>che lo processerebbero all’estremo, se ne aveste modo;<br>il che non avrete mai finché io viva. |
+| LORD CANCELLIERE | Fin qui,<br>temutissimo mio sovrano, piaccia a vostra grazia<br>lasciare che la mia lingua scusi tutto. Ciò che si proponeva<br>circa la sua [[Imprisonment|prigionia]] era piuttosto—<br>se v’è [[Faith|fede]] negli uomini—inteso al suo processo<br>e a una giusta purgazione davanti al mondo, che malizia,<br>ne son certo, in me. |
+| [[King|RE]] ENRICO | [[Well|Bene]], [[Well|bene]], signori miei—rispettatelo.<br>Prendetelo e trattatelo [[Well|bene]], ne è degno.<br>Dirò questo per lui—se un principe<br>può essere obbligato a un suddito, io<br>lo sono a lui per il suo [[Love|amore]] e il suo servizio.<br>Non fatemi altre storie; ma abbracciatelo tutti.<br>Siate amici, per vergogna, signori miei. (A [[Cranmer]]) Mio signore<br>di Canterbury,<br>ho una richiesta che non dovete negarmi:<br>c’è una bella giovane fanciulla che ancora attende il battesimo—<br>voi dovete esserne padrino, e rispondere per lei. |
+| [[Cranmer|CRANMER]] | Il più grande monarca ora vivente potrebbe gloriarsi<br>di tale [[Honour|onore]]; come posso io meritarlo,<br>io che sono un povero e umile vostro suddito? |
+| [[King|RE]] ENRICO | Suvvia, suvvia, mio signore—vorreste risparmiare i vostri cucchiai. Avrete con voi due nobili compagni—la vecchia Duchessa di Norfolk e Lady Marchesa Dorset. Vi piacciono costoro?<br>(A Gardiner) Ancora una volta, mio signore di Winchester, vi<br>ingiungo<br>d’abbracciare e d’[[Love|amare]] quest’uomo. |
+| GARDINER | Con cuore sincero<br>e [[Love|amore]] fraterno lo faccio. |
+| *(didascalia)* | Gardiner e [[Cranmer]] si abbracciano |
+| [[Cranmer|CRANMER]] | (piangendo)<br>E il cielo<br>testimoni quanto cara io tenga questa conferma. |
+| [[King|RE]] ENRICO | Buon uomo, quelle [[Tears|lacrime]] di gioia mostrano il tuo cuore sincero.<br>La voce comune, vedo, si verifica<br>di te, quella che dice così: ‘Fa’ al mio signore di Canterbury<br>un cattivo servizio, ed egli ti sarà amico per sempre.’<br>Venite, signori, sprechiamo il [[Time|tempo]]. Non vedo l’ora<br>che questa piccina sia fatta cristiana.<br>Come v’ho fatti uno, signori, uno restate—<br>così io divento più forte, e voi guadagnate più [[Honour|onore]]. |
+| *(didascalia)* | Escono |
+
 
 
 <span class="atom-split" data-atom="act_5--scene_3" data-title="All Is True (Henry VIII) — Act V, Scene 3" data-chapter="Scene 3" data-kind="scene" data-tags="archetype/king,motif/dance,motif/fire,motif/garden,motif/hill,motif/sleep,motif/well,concept/conscience,concept/doubt,concept/honour,concept/hope,concept/mercy,setting/court,setting/paris,character/henry_viii"></span>
@@ -2245,6 +3138,39 @@ Exeunt ⌈Norfolk at one door, [[Buckingham]] and Abergavenny under guard at ano
 | *(didascalia)* | Exeunt |
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Rumore e tumulto da dentro. Entra il Portinaio con giunchi e il suo uomo con un randello spezzato |
+| PORTINAIO | (a quelli di dentro)<br>La smetterete subito col vostro chiasso, furfanti. Prendete<br>la [[Court|corte]] per il [[Garden|giardino]] di [[Paris|Paris]], zotici schiavi?<br>Basta con lo sbraitare. |
+| UNO | (da dentro)<br>Buon mastro portinaio, io appartengo alla dispensa. |
+| PORTINAIO | Appartieni alla forca, e sii impiccato, canaglia!<br>È questo un luogo dove ruggire?<br>(Al suo uomo)<br>Portami una dozzina di bastoni di melo selvatico, e robusti, |
+| *(didascalia)* | Alzando i suoi giunchi Questi non sono che vermene al confronto. |
+| PORTINAIO | (A quelli di dentro)<br>Vi gratterò la testa.<br>Dovete proprio vedere i battesimi? Cercate<br>birra e focacce qui, zotici furfanti? |
+| L’UOMO | Di grazia, signore, siate paziente. È altrettanto impossibile,<br>a meno di spazzarli via dalla porta coi cannoni,<br>disperderli quanto lo è farli [[Sleep|dormire]]<br>la mattina di calendimaggio—il che non sarà mai.<br>Potremmo altrettanto [[Well|bene]] spingere contro San Paolo che smuoverli. |
+| PORTINAIO | Come sono entrati, che siano impiccati? |
+| L’UOMO | Ahimè, non so. Come entra la marea?<br>Quanto un buon randello di quattro piedi—<br>Alza il suo randello<br>vedete il misero avanzo—poteva distribuire,<br>non ne risparmiai, signore. |
+| PORTINAIO | Non avete fatto nulla, signore. |
+| L’UOMO | Non sono Sansone, né Sir Guy, né Colbrand,<br>da falciarli davanti a me; ma se ho risparmiato qualcuno<br>che avesse una testa da colpire, giovane o vecchio,<br>lui o lei, cornuto o facitore di corna,<br>ch’io non [[Hope|speri]] mai più di rivedere un lombo di manzo—<br>e questo non lo vorrei per una vacca, Dio la salvi! |
+| UNO | (da dentro) Sentite, mastro portinaio? |
+| PORTINAIO | Sarò da voi all’istante,<br>buon mastro cucciolo. (Al suo uomo) Tieni ben chiusa la porta,<br>messere. |
+| L’UOMO | Che volete ch’io faccia? |
+| PORTINAIO | Che dovresti fare, se non abbatterli a dozzine? È questo Moorfields<br>per farvi la rassegna? O ci è venuto a [[Court|corte]] qualche strano indiano<br>con l’arnese grosso, che le donne ci assediano così?<br>Che il cielo mi aiuti, che frittura di fornicazione c’è alla porta! Sulla mia<br>[[Conscience|coscienza]] di cristiano, questo solo battesimo ne genererà<br>mille. Qui ci saranno padre, padrino e tutti<br>insieme. |
+| L’UOMO | I cucchiai saranno più grandi, signore. C’è un tale piuttosto vicino alla porta, dev’essere un calderaio a giudicare dalla faccia, ché sulla mia [[Conscience|coscienza]] venti giorni della canicola regnano ora nel suo naso. Tutti quelli che gli stanno attorno sono sotto l’equatore—non han bisogno d’altra penitenza. Quel drago di [[Fire|fuoco]] l’ho colpito tre volte in testa, e tre volte il suo naso s’è scaricato contro di me. Se ne sta là come un mortaio, per farci saltare. C’era vicino a lui la moglie d’un merciaio, di poco senno, che m’insultò finché la sua scodella traforata non le cadde di testa, per aver io acceso una simile combustione nello stato. Mancai la meteora una volta, e colpii quella donna, che gridò ‘Randelli!’, quando vidi da lontano una quarantina di manganellatori accorrere in suo soccorso, ch’erano la [[Hope|speranza]] dello Strand, dove ella era acquartierata. Si gettarono all’assalto. Io tenni il mio posto. Alla fine mi vennero addosso col manico di scopa. Io continuai a sfidarli, quando all’improvviso una fila di ragazzi dietro di loro, tiratori sciolti, scagliò una tale gragnuola di sassi che dovetti ritirare il mio [[Honour|onore]] e lasciare che vincessero la piazza. Il diavolo era fra loro, credo, di sicuro. |
+| PORTINAIO | Questi sono i giovinastri che tuonano in un teatro, e si azzuffano per mele mordicchiate, che nessun pubblico se non la tribolazione di Tower [[Hill|Hill]] o le membra di Limehouse, loro cari fratelli, è capace di sopportare. Ne ho alcuni in limbo patrum, e là è probabile che [[Dance|danzino]] per questi tre giorni, oltre al banchetto volante di due birri che deve ancora venire. |
+| *(didascalia)* | Entra il Lord Ciambellano |
+| LORD CIAMBELLANO | [[Mercy|Misericordia]] di me, che moltitudine c’è qui!<br>E cresce ancora—da ogni parte vengono,<br>come se tenessimo qui una fiera! Dove sono questi portinai,<br>questi pigri furfanti? (Al Portinaio e al suo uomo) Bel lavoro<br>avete fatto, compagni!<br>Bella marmaglia avete lasciato entrare—sono tutti questi<br>i vostri fedeli amici dei sobborghi? Avremo<br>gran copia di spazio, senza [[Doubt|dubbio]], per le dame<br>quando ripasseranno dal battesimo! |
+| PORTINAIO | Se piace a vostro [[Honour|onore]],<br>non siamo che uomini, e ciò che tanti possono fare,<br>senza essere fatti a pezzi, l’abbiamo fatto.<br>Un esercito non li governerebbe. |
+| LORD CIAMBELLANO | Com’è vero ch’io vivo, se il [[King|re]] me ne biasima, vi metterò tutti<br>ai ceppi, e all’istante—e sulle vostre teste<br>schiafferò multe salate per negligenza. Siete pigri furfanti,<br>e ve ne state qui a succhiare boccali quando<br>dovreste fare servizio. |
+| *(didascalia)* | Squillo di trombe da dentro |
+| LORD CIAMBELLANO | Udite, le trombe suonano.<br>Sono già tornati dal battesimo.<br>Andate a rompere la calca, e trovate un varco<br>per far passare comodamente il corteo, o vi troverò<br>una Marshalsea che vi darà da fare per due mesi. |
+| *(didascalia)* | Mentre escono, il Portinaio e il suo uomo gridano da dentro |
+| PORTINAIO | Largo là per la Principessa! |
+| L’UOMO | Tu, omone,<br>tirati da parte, o ti faccio dolere la testa. |
+| PORTINAIO | Tu col cammellotto, sali sulla balaustra—<br>o ti scaravento oltre lo steccato. |
+| *(didascalia)* | Escono |
+
 
 
 <span class="atom-split" data-atom="act_5--scene_4" data-title="All Is True (Henry VIII) — Act V, Scene 4" data-chapter="Scene 4" data-kind="scene" data-tags="archetype/child,archetype/king,motif/blood,motif/city,motif/crown,motif/desire,motif/love,motif/sleep,motif/soul,motif/time,concept/fear,concept/greatness,concept/honour,concept/truth,concept/wonder,setting/london,character/cranmer,character/duke_of_suffolk,character/henry_viii,character/lord_mayor,character/marchioness,character/nurse,character/queen"></span>
@@ -2270,3 +3196,27 @@ Exeunt ⌈Norfolk at one door, [[Buckingham]] and Abergavenny under guard at ano
 | *(didascalia)* | Enter Epilogue |
 | EPILOGUE | ‘Tis ten to one this play can never please<br>All that are here. Some come to take their ease,<br>And [[Sleep\|sleep]] an act or two; but those, we [[Fear\|fear]],<br>We’ve frighted with our trumpets; so, ’tis clear,<br>They’ll say ’tis naught. Others to hear the [[City\|city]]<br>Abused extremely, and to cry ‘That’s witty!’—<br>Which we have not done neither; that, I [[Fear\|fear]],<br>All the expected good we’re like to hear<br>For this play at this [[Time\|time]] is only in<br>The merciful construction of good women,<br>For such a one we showed ’em. If they smile,<br>And say “Twill do’, I know within a while<br>All the best men are ours—for ’tis ill hap<br>If they hold when their ladies bid ’em clap. |
 | *(didascalia)* | Exit |
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entrano trombettieri, che suonano. Poi entrano due assessori, il [[Lord Mayor|Lord Sindaco]] di [[London|Londra]], il [[King|Re]] d’Armi della Giarrettiera, [[Cranmer]] Arcivescovo di Canterbury, il Duca di Norfolk con la sua verga di maresciallo, il [[Duke of Suffolk|Duca di Suffolk]], due nobili che portano grandi coppe a piede per i doni battesimali; poi entrano quattro nobili che portano un baldacchino, sotto il quale sta la Duchessa di Norfolk, madrina, che porta la [[Child|bambina]] Elisabetta riccamente vestita d’un manto, il cui strascico è retto da una dama. Poi seguono la [[Marchioness|Marchesa]] Dorset, l’altra madrina, e altre dame. Il corteo fa un giro della scena e la Giarrettiera parla |
+| GIARRETTIERA | Cielo, dalla tua infinita bontà manda vita prospera, lunga e sempre felice all’alta e possente Principessa d’Inghilterra, Elisabetta. |
+| *(didascalia)* | Fanfara. Entrano il [[King|re]] Enrico e la guardia |
+| [[Cranmer|CRANMER]] | (inginocchiandosi)<br>E alla vostra regale grazia, e alla buona [[Queen|regina]]!<br>I miei nobili compagni e io stesso così preghiamo<br>che ogni conforto e gioia, riposti in questa graziosissima dama,<br>che il cielo abbia mai serbato per far felici i genitori,<br>ricadano ogni ora su di voi. |
+| [[King|RE]] ENRICO | Vi ringrazio, buon signore Arcivescovo.<br>Qual è il suo nome? |
+| [[Cranmer|CRANMER]] | Elisabetta. |
+| [[King|RE]] ENRICO | Alzatevi, signore.<br>[[Cranmer]] si alza<br>(Alla [[Child|bambina]]) Con questo bacio ricevi la mia benedizione—<br>Bacia la [[Child|bambina]]<br>Dio ti protegga,<br>nelle cui mani affido la tua vita. |
+| [[Cranmer|CRANMER]] | Amen. |
+| [[King|RE]] ENRICO | (a [[Cranmer]], alla vecchia Duchessa e alla [[Marchioness|Marchesa]]) Miei nobili compari, siete stati troppo prodighi. Vi ringrazio di cuore. E così farà questa dama, quando saprà tanto d’inglese. |
+| [[Cranmer|CRANMER]] | Lasciatemi parlare, sire,<br>ché il cielo ora me lo comanda, e le parole ch’io proferisco<br>nessuno le creda adulazione, ché le troverà [[Truth|verità]].<br>Questa regale infante—il cielo si muova sempre attorno a lei—<br>benché nella culla, già promette<br>su questa terra mille e mille benedizioni<br>che il [[Time|tempo]] porterà a maturità. Ella sarà—<br>ma pochi ora viventi potranno contemplare quella bontà—<br>un modello per tutti i principi che vivranno con lei,<br>e per tutti quelli che seguiranno. Saba non fu mai<br>più bramosa di saggezza e di bella virtù<br>di quanto sarà questa pura [[Soul|anima]]. Tutte le grazie principesche<br>che plasmano una così possente creatura come questa,<br>con tutte le virtù che accompagnano i buoni,<br>saranno in lei raddoppiate. La [[Truth|Verità]] la [[Nurse|nutrirà]],<br>santi e celesti pensieri sempre la consiglieranno.<br>Sarà amata e temuta. I suoi la benediranno;<br>i suoi nemici tremeranno come un campo di grano battuto,<br>e chineranno il capo dal dolore. Il bene cresce con<br>lei.<br>Nei suoi giorni ogni uomo mangerà in sicurezza<br>sotto la propria vite ciò che pianta, e canterà<br>i lieti [[songs|canti]] di pace a tutti i suoi vicini.<br>Dio sarà veramente conosciuto, e quelli attorno a lei<br>da lei impareranno le perfette vie dell’[[Honour|onore]],<br>e per esse rivendicheranno la loro [[Greatness|grandezza]], non per [[Blood|sangue]].<br>Né questa pace [[Sleep|dormirà]] con lei, ma, come quando<br>muore l’uccello del [[Wonder|prodigio]]—la vergine fenice—<br>le sue ceneri creano di nuovo un altro erede<br>grande in ammirazione quanto lei stessa,<br>così ella lascerà la sua beatitudine a uno,<br>quando il cielo la chiamerà da questa nube di tenebra,<br>il quale dalle sacre ceneri del suo [[Honour|onore]]<br>sorgerà come astro, grande in fama quanto lei fu,<br>e così starà fisso. Pace, abbondanza, [[Love|amore]], [[Truth|verità]], terrore,<br>che furono i servitori di questa eletta infante,<br>saranno allora suoi, e, come una vite, cresceranno a lui.<br>Ovunque splenderà il chiaro sole del cielo,<br>il suo [[Honour|onore]] e la [[Greatness|grandezza]] del suo nome<br>saranno, e faranno nuove nazioni. Egli fiorirà,<br>e come cedro montano stenderà i suoi rami<br>a tutte le pianure attorno a lui. I figli dei nostri figli<br>vedranno questo, e benediranno il cielo. |
+| [[King|RE]] ENRICO | Tu dici prodigi. |
+| CRAMMER | Ella sarà, per la felicità dell’Inghilterra,<br>una principessa longeva. Molti giorni la vedranno,<br>e pure nessun giorno senza un’impresa a [[Crown|coronarlo]].<br>Vorrei non aver saputo di più. Ma ella deve morire—<br>deve, i santi devono averla—eppure vergine,<br>giglio immacolato ella passerà<br>alla terra, e tutto il mondo la piangerà. |
+| [[King|RE]] ENRICO | O signore Arcivescovo, tu m’hai fatto ora uomo. Mai prima<br>di questa felice [[Child|bambina]] generai qualcosa.<br>Questo oracolo di conforto tanto m’ha compiaciuto<br>che quando sarò in cielo [[Desire|desidererò]]<br>vedere ciò che questa [[Child|bambina]] fa, e lodare il mio creatore.<br>Vi ringrazio tutti. A voi, mio buon [[Lord Mayor|Lord Sindaco]],<br>e ai vostri buoni confratelli, sono molto obbligato.<br>Ho ricevuto molto [[Honour|onore]] dalla vostra presenza,<br>e mi troverete riconoscente. Fate strada, signori.<br>Dovete tutti vedere la [[Queen|regina]], ed ella deve ringraziarvi.<br>Altrimenti se ne ammalerà. Oggi nessuno pensi<br>d’avere affari a [[house|casa]] sua, ché tutti resteranno— |
+| *(didascalia)* | Questa piccina ne farà giorno di festa. Fanfara. Escono |
+| [[King|RE]] ENRICO | Epilogo |
+| *(didascalia)* | Entra l’Epilogo |
+| EPILOGO | È dieci a uno che questa commedia non possa mai piacere<br>a tutti quelli che son qui. Alcuni vengono a starsene comodi,<br>e a [[Sleep|dormire]] un atto o due; ma quelli, [[Fear|temiamo]],<br>li abbiamo spaventati con le nostre trombe; e così, è chiaro,<br>diranno che non val nulla. Altri, per udire la [[City|città]]<br>oltraggiata a dovere, e per gridare ‘Che spirito!’—<br>il che neppure abbiamo fatto; sicché, [[Fear|temo]],<br>tutto il bene che possiamo attenderci di udire<br>per questa commedia in questo [[Time|tempo]] sta solo<br>nella misericordiosa interpretazione delle buone donne,<br>ché una tale ne abbiamo mostrata. Se sorridono,<br>e dicono ‘Andrà bene’, so che fra poco<br>tutti i migliori uomini sono nostri—ché sarebbe mala sorte<br>se resistessero quando le loro dame ordinano loro d’applaudire. |
+| *(didascalia)* | Esce |

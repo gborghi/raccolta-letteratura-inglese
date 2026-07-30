@@ -1047,6 +1047,23 @@ The [[history|History]] of Henry the Fourth
 | *(didascalia)* | Exeunt [[King]] Henry, Lancaster, and other lords at one door; Westmorland at another door |
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entrano [[King|Re]] Enrico, Lord John di Lancaster e il Conte di Westmorland, con altri lord |
+| [[King|RE]] ENRICO | Così scossi come siamo, così smorti d’affanno,<br>troviamo un [[Time|tempo]] perché la pace atterrita riprenda fiato<br>ed esali con lena corta accenti di nuove risse<br>da intraprendersi in lidi assai remoti.<br>Non più la fauce assetata di questo suolo<br>imbratterà le sue labbra col [[Blood|sangue]] dei propri figli.<br>Non più la guerra scavatrice solcherà i suoi campi,<br>né pesterà i suoi fiorellini con gli zoccoli ferrati<br>di passi ostili. Quegli sguardi avversi,<br>che, come meteore d’un cielo turbato,<br>tutti d’una sola [[Nature|natura]], d’una sola sostanza generati,<br>di recente s’incontrarono nell’urto intestino<br>e nella furiosa stretta del macello civile,<br>ora, in schiere concordi e [[Well|ben]] ordinate,<br>marceranno tutti per una via, e non più opposti<br>contro conoscenti, congiunti e alleati.<br>Il filo della guerra, come coltello mal rinfoderato,<br>non ferirà più il suo padrone. Dunque, amici,<br>fino al sepolcro di [[Christ|Cristo]]—<br>di cui ora siamo soldati, sotto la cui benedetta [[Cross|croce]]<br>siamo arruolati e impegnati a combattere—<br>senza indugio leveremo una schiera d’Inglesi,<br>le cui braccia furono plasmate nel grembo materno<br>per cacciare questi pagani da quei campi santi<br>sui cui acri camminarono quei piedi beati<br>che millequattrocento anni or sono furono inchiodati,<br>a nostro vantaggio, sull’amara [[Cross|croce]].<br>Ma questo nostro proposito ha ormai dodici mesi,<br>ed è vano dirvi che andremo.<br>Non per questo ci raduniamo ora. Ditemi dunque,<br>voi, mio gentile cugino Westmorland,<br>che cosa la notte scorsa decretò il nostro Consiglio<br>nel promuovere questa cara impresa. |
+| WESTMORLAND | Mio sire, questa fretta fu discussa con ardore,<br>e molti termini della spesa furono fissati<br>proprio ieri notte, quando di traverso giunse<br>un corriere dal Galles, carico di gravi novelle,<br>la cui peggiore era che il nobile Mortimer,<br>guidando gli uomini dell’Herefordshire a battaglia<br>contro l’irregolare e selvaggio Glyndwr,<br>fu preso dalle rozze mani di quel Gallese,<br>e mille dei suoi furono macellati,<br>e sui cui cadaveri si fece tale scempio,<br>tale bestiale e svergognato strazio,<br>opera di quelle donne gallesi, che non si può<br>senza gran vergogna ridire o raccontare. |
+| [[King|RE]] ENRICO | Pare dunque che la notizia di questa mischia<br>abbia interrotto la nostra impresa per la Terra Santa. |
+| WESTMORLAND | Questa s’unì ad altre, mio grazioso signore,<br>ché novelle più aspre e sgradite<br>vennero dal nord, e recavano questo:<br>nel giorno della Santa Croce il gagliardo [[Hotspur]] là—<br>il giovane Harry Percy—e il prode Archibald,<br>quello Scozzese sempre valente e provato,<br>s’affrontarono a Holmedon,<br>dove spesero un’ora triste e sanguinosa,<br>come dallo scaricarsi delle loro artiglierie<br>e dall’apparenza del verosimile fu riferita la nuova;<br>poiché colui che la recò, nel colmo stesso<br>e nell’[[Pride|orgoglio]] della loro contesa prese il [[Horse|cavallo]],<br>incerto in ogni modo dell’esito. |
+| [[King|RE]] ENRICO | Ecco un caro, un vero e operoso amico,<br>Sir Walter Blunt, appena sceso dal suo [[Horse|cavallo]],<br>macchiato dalla varietà d’ogni terreno<br>fra quella Holmedon e questa nostra sede;<br>ed egli ci ha recato liete e gradite novelle.<br>Il Conte di Douglas è sconfitto.<br>Diecimila arditi Scozzesi, ventidue cavalieri,<br>riversi nel proprio [[Blood|sangue]] vide Sir Walter<br>sulle piane di Holmedon. Di prigionieri [[Hotspur]] prese<br>Mordake Conte di Fife e figlio maggiore<br>del vinto Douglas, e il Conte di Athol,<br>di Moray, Angus e Menteith;<br>e non è questa una spoglia onorevole,<br>un gagliardo bottino? Eh, cugino, non è vero? |
+| WESTMORLAND | In [[Faith|fede]], è una conquista di cui un principe può vantarsi. |
+| [[King|RE]] ENRICO | Sì, in ciò mi fai triste, e mi fai peccare<br>d’invidia, che il mio lord Northumberland<br>sia il padre d’un figlio così benedetto—<br>un figlio che è il tema della lingua dell’[[Honour|onore]],<br>fra un bosco la pianta più diritta,<br>che è il favorito della dolce Fortuna e il suo [[Pride|orgoglio]]—<br>mentre io, guardando alla lode di lui,<br>vedo il disordine e il disonore macchiare la fronte<br>del mio giovane Harry. Oh, si potesse provare<br>che qualche fata vagante nella [[Night|notte]] avesse scambiato<br>nelle fasce i nostri figli là dove giacevano,<br>e chiamato Percy il mio, e Plantageneto il suo!<br>Allora io avrei il suo Harry, ed egli il mio.<br>Ma via lui dai miei pensieri. Che pensi, cugino,<br>dell’[[Pride|orgoglio]] di questo giovane Percy? I prigionieri<br>che in questa impresa ha catturato<br>li tiene per proprio uso, e mi manda a dire<br>che non avrò nessuno tranne Mordake Conte di Fife. |
+| WESTMORLAND | Questo è l’insegnamento di suo zio. Questo è Worcester,<br>a voi malevolo sotto ogni aspetto,<br>che lo fa impettire e rizzare<br>la cresta della giovinezza contro la vostra dignità. |
+| [[King|RE]] ENRICO | Ma l’ho fatto chiamare perché ne risponda;<br>e per questa causa dobbiamo per un poco trascurare<br>il nostro santo proposito verso Gerusalemme.<br>Cugino, mercoledì prossimo il nostro Consiglio<br>lo terremo a Windsor. Così informa i lord.<br>Ma tornate voi stesso da noi con [[Speed|prestezza]],<br>ché più v’è da dire e da fare<br>di quanto l’ira possa esprimere. |
+| WESTMORLAND | Lo farò, mio sire. |
+| *(didascalia)* | Escono [[King|Re]] Enrico, Lancaster e gli altri lord da una porta; Westmorland da un’altra porta |
+
 
 
 <span class="atom-split" data-atom="act_1--scene_2" data-title="1 Henry IV — Act I, Scene 2" data-chapter="Scene 2" data-kind="scene" data-tags="archetype/king,archetype/lover,archetype/villain,motif/blood,motif/clock,motif/hill,motif/home,motif/lion,motif/moon,motif/night,motif/noon,motif/sleep,motif/soul,motif/spring,motif/stars,motif/summer,motif/time,motif/well,concept/beauty,concept/body,concept/doubt,concept/faith,concept/melancholy,concept/vanity,histref/reformation,setting/castle,setting/court,setting/london,character/diana,character/henry_iv"></span>
@@ -1120,6 +1137,75 @@ The [[history|History]] of Henry the Fourth
 | PRINCE HARRY | I know you all, and will a while uphold The unyoked [[Humour\|humour]] of your idleness. Yet herein will I imitate the sun, Who doth permit the base contagious clouds To smother up his [[Beauty\|beauty]] from the world, That when he please again to be himself, Being wanted he may be more wondered at By breaking through the foul and ugly mists Of vapours that did seem to strangle him. If all the year were playing holidays, To sport would be as tedious as to work; But when they seldom come, they wished-for come, And nothing pleaseth but rare accidents. So when this loose behaviour I throw off And pay the debt I never promised, By how much better than my word I am, By so much shall I falsify men’s hopes; And like bright metal on a sullen ground, My [[Reformation\|reformation]], glitt‘ring o’er my fault, Shall show more goodly and attract more eyes Than that which hath no foil to set it off. I’ll so offend to make offence a skill, Redeeming [[Time\|time]] when men think least I will. Exit |
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entrano Harry Principe di Galles e Sir John Oldcastle SIR JOHN Ebbene, Hal, che [[Time|ora]] del giorno è, ragazzo? |
+| PRINCIPE HARRY | Sei così grasso d’ingegno per il bere vecchio sack, e per lo sbottonarti dopo cena, e per il dormire sulle panche dopo [[Noon|mezzogiorno]], che hai dimenticato di domandare davvero ciò che davvero vorresti sapere. Che diavolo hai tu a che fare con l’[[Time|ora]] del giorno? A meno che le ore non fossero coppe di sack, e i minuti capponi, e gli orologi lingue di ruffiane, e i quadranti insegne di bordelli, e il benedetto sole stesso una bella ragazza focosa in taffettà color fiamma, non vedo ragione perché tu debba essere così superfluo da domandare l’[[Time|ora]] del giorno. |
+| SIR JOHN | Davvero ora mi cogli, Hal, ché noi che tagliamo borse andiamo secondo la [[Moon|luna]] e le sette [[Stars|stelle]], e non secondo ‘Per Febo, lui, quel cavaliere errante sì bello’. E ti prego, dolce burlone, quando sarai [[King|re]], come Dio salvi la tua grazia—‘maestà’ dovrei dire, ché di grazia non ne avrai punto— |
+| PRINCIPE HARRY | Come, punto? |
+| SIR JOHN | No, in fede mia, neppur tanta quanta basti a far da prologo a un uovo col burro. |
+| PRINCIPE HARRY | [[Well|Ebbene]], e allora? Su, spiccio, spiccio. |
+| SIR JOHN | Perbacco allora, dolce burlone, quando sarai [[King|re]] non lasciare che noi, che siamo scudieri del [[Body|corpo]] della [[Night|notte]], siamo chiamati ladri della [[Beauty|bellezza]] del giorno. Ci si dica ‘forestali di [[Diana]]’, ‘gentiluomini dell’ombra’, ‘favoriti della [[Moon|luna]]’, e la gente dica che siamo uomini di buon [[government|governo]], essendo governati, come il mare, dalla nostra nobile e casta signora la [[Moon|luna]], sotto il cui volto rubiamo. |
+| PRINCIPE HARRY | Dici [[Well|bene]], e regge [[Well|bene]] anche, ché la fortuna di noi che siamo uomini della [[Moon|luna]] cala e cresce come il mare, essendo governata come il mare dalla [[Moon|luna]]. Ed eccone la prova: una borsa d’oro risolutissimamente ghermita la [[Night|notte]] di lunedì, e dissolutissimamente spesa il martedì mattina; ottenuta gridando ‘posa lì!’, e spesa gridando ‘porta qua!’; ora in riflusso basso come il piede della scala, e poco dopo in flusso alto come la trave della forca. |
+| SIR JOHN | Per il Signore, dici il vero, ragazzo; e non è la mia Ostessa della taverna una dolcissima ragazza? |
+| PRINCIPE HARRY | Come il miele d’Ibla, mio vecchio compare del [[Castle|castello]]; e non è un giustacuore di cuoio una dolcissima veste di durata? |
+| SIR JOHN | Come, come, pazzo burlone? Che, coi tuoi frizzi e i tuoi cavilli? Che peste ho io a che fare con un giustacuore di cuoio? |
+| PRINCIPE HARRY | Diamine, che vaiolo ho io a che fare con la mia Ostessa della taverna? |
+| SIR JOHN | [[Well|Ebbene]], tu l’hai chiamata a far conto molte [[Time|volte]] e spesso. |
+| PRINCIPE HARRY | Ti ho mai chiesto di pagare la tua parte? |
+| SIR JOHN | No, ti renderò giustizia, là hai pagato tutto. |
+| PRINCIPE HARRY | Sì, e altrove fin dove il mio denaro arrivava; e dove non arrivava, ho usato il mio credito. |
+| SIR JOHN | Sì, e l’hai usato tanto che, se non fosse qui apparente che tu sei erede apparente—ma ti prego, dolce burlone, ci saranno forche in piedi in Inghilterra quando sarai [[King|re]], e la risolutezza sarà così gabbata com’è dal morso rugginoso di quel vecchio padre Buffone che è la legge? Non impiccare tu un ladro, quando sarai [[King|re]]. |
+| PRINCIPE HARRY | No, lo farai tu. |
+| SIR JOHN | Io? Oh, che meraviglia! Per il Signore, sarò un bravo giudice! |
+| PRINCIPE HARRY | Giudichi già a torto. Voglio dire che avrai tu l’impiccagione dei ladri, e così diverrai un raro boia. |
+| SIR JOHN | [[Well|Ebbene]], Hal, [[Well|bene]]; e in certo modo s’accorda col mio [[Humour|umore]] tanto [[Well|bene]] quanto l’attendere a [[Court|corte]], te lo posso dire. |
+| PRINCIPE HARRY | Per ottener vesti? |
+| SIR JOHN | Sì, per ottener vesti, di cui il boia non ha magro guardaroba. Sangue di Dio, sono [[Melancholy|malinconico]] come un gatto castrato, o un orso aizzato. |
+| PRINCIPE HARRY | O un vecchio [[Lion|leone]], o il liuto d’un [[Lover|amante]]. |
+| SIR JOHN | Sì, o il bordone d’una cornamusa del Lincolnshire. |
+| PRINCIPE HARRY | Che dici d’una lepre, o della [[Melancholy|malinconia]] di Moor-ditch? |
+| SIR JOHN | Hai le similitudini più sgradevoli, e sei davvero il più comparativo, il più birbante dolce giovane Principe. Ma Hal, ti prego, non tormentarmi più con la [[Vanity|vanità]]. Vorrei a Dio che tu ed io sapessimo dove si possa comprare una partita di buoni nomi. Un vecchio lord del Consiglio l’altro giorno mi rimproverò in strada a causa vostra, signore, ma non gli badai; eppure parlava molto saggiamente, ma non lo considerai; eppure parlava saggiamente, e in strada per giunta. |
+| PRINCIPE HARRY | Facesti [[Well|bene]], ché la sapienza grida per le strade, e nessuno la considera. |
+| SIR JOHN | Oh, tu hai una dannabile insistenza, e sei davvero capace di corrompere un santo. Mi hai fatto molto male, Hal, Dio te lo perdoni. Prima di conoscerti, Hal, non sapevo nulla; e ora, a dirla giusta, sono poco meglio d’uno dei malvagi. Devo lasciare questa vita, e la lascerò. Per il Signore, se non lo faccio, sono un [[Villain|furfante]]. Non voglio esser dannato per nessun figlio di [[King|re]] della cristianità. |
+| PRINCIPE HARRY | Dove taglieremo una borsa domani, Jack? |
+| SIR JOHN | Corpo di Dio, dove vorrai, ragazzo! Sarò dei vostri; e se non lo faccio, chiamatemi [[Villain|furfante]] e svergognatemi. |
+| PRINCIPE HARRY | Vedo in te un buon emendamento di vita, dal pregare al tagliar borse. |
+| SIR JOHN | Diamine, Hal, è la mia vocazione, Hal. Non è peccato per un uomo affaticarsi nella propria vocazione. |
+| *(didascalia)* | Entra Poins |
+| SIR JOHN | Poins! Ora sapremo se Gadshill ha combinato il colpo. Oh, se gli uomini dovessero salvarsi per merito, quale buco dell’inferno sarebbe abbastanza caldo per lui? Questo è il più onnipotente [[Villain|furfante]] che mai gridò ‘Fermo!’ a un galantuomo. |
+| PRINCIPE HARRY | Buon giorno, Ned. no |
+| POINS | Buon giorno, dolce Hal. (A Sir John) Che dice Monsieur Rimorso? Che dice Sir John, Jack sack-e-zucchero? Come vi accordate tu e il diavolo circa la tua [[Soul|anima]], che gli vendesti l’ultimo Venerdì Santo, per una coppa di Madera e una fredda coscia di cappone? |
+| PRINCIPE HARRY | Sir John tien fede alla parola, il diavolo avrà il suo affare, ché egli non fu mai violatore di proverbi: darà al diavolo il suo dovuto. |
+| POINS | (a Sir John) Allora sei dannato per aver mantenuto la parola col diavolo. |
+| PRINCIPE HARRY | Altrimenti sarebbe stato dannato per aver gabbato il diavolo. |
+| POINS | Ma ragazzi miei, ragazzi miei, domattina per tempo, alle quattro d’[[Clock|orologio]], a Gads [[Hill]], ci sono pellegrini che vanno a Canterbury con ricche offerte, e mercanti che cavalcano a [[London|Londra]] con borse grasse. Ho maschere per tutti voi; voi avete cavalli per voi stessi. Gadshill dorme stanotte a Rochester. Ho ordinato la cena per domani [[Night|notte]] a Eastcheap. Possiamo farlo sicuri come nel [[Sleep|sonno]]. Se verrete, vi riempirò le borse di corone; se non verrete, restate a [[Home|casa]] e siate impiccati. |
+| SIR JOHN | Sentite, Edward, se resto a [[Home|casa]] e non vado, vi impiccherò per esser andati. |
+| POINS | Davvero, ganascia? |
+| SIR JOHN | Hal, sarai dei nostri? |
+| PRINCIPE HARRY | Chi, io rubare? Io ladro? Non io, in [[Faith|fede]] mia. |
+| SIR JOHN | Non c’è in te né onestà, né virilità, né buona compagnia, né discendi dal [[Blood|sangue]] reale, se non osi batterti per dieci scellini. |
+| PRINCIPE HARRY | [[Well|Ebbene]] allora, una volta nella mia vita farò lo scapestrato. |
+| SIR JOHN | Ecco, questo è [[Well|ben]] detto. |
+| PRINCIPE HARRY | [[Well|Ebbene]], accada quel che vuole, io resterò a [[Home|casa]]. |
+| SIR JOHN | Per il Signore, sarò un traditore allora, quando sarai [[King|re]]. |
+| PRINCIPE HARRY | Non m’importa. |
+| POINS | Sir John, ti prego, lascia [[Alone|soli]] me e il Principe. Gli esporrò tali ragioni per questa avventura che verrà. |
+| SIR JOHN | [[Well|Ebbene]], Dio ti dia lo spirito della [[Persuasion|persuasione]] e a lui orecchie che ne profittino, sì che ciò che dici possa muovere e ciò che egli ode possa esser creduto, e il vero principe possa, per amor di svago, farsi falso ladro; ché i poveri abusi del [[Time|tempo]] mancano d’appoggio. Addio. Mi troverete a Eastcheap. |
+| PRINCIPE HARRY | Addio, tarda [[spring|primavera]]; addio, [[Summer|estate]] d’Ognissanti. Esce Sir John |
+| POINS | Ora, mio buono e dolce signore di miele, cavalca con noi domani. Ho uno scherzo da eseguire che non posso condurre da [[Alone|solo]]. Oldcastle, Harvey, Russell e Gadshill deruberanno quegli uomini che abbiamo già teso in agguato—voi ed io non ci saremo—e quando avranno il bottino, se voi ed io non deruberemo loro, tagliatemi questa testa dalle spalle. |
+| PRINCIPE HARRY | Ma come ci separeremo da loro nel partire? |
+| POINS | Diamine, partiremo prima o dopo di loro e fisseremo loro un luogo d’incontro, al quale è a nostro piacere mancare. E allora si arrischieranno essi stessi nell’impresa, e non l’avranno appena compiuta che noi piomberemo su di loro. |
+| PRINCIPE HARRY | Sì, ma è probabile che ci riconoscano dai nostri cavalli, dai nostri abiti e da ogni altro arnese, per quelli che siamo. |
+| POINS | Bah, i nostri cavalli non li vedranno—li legherò nel bosco; le nostre maschere le cambieremo dopo averli lasciati; e, messere, ho vesti di bucherame apposta, per mascherare i nostri noti indumenti esterni. |
+| PRINCIPE HARRY | Ma [[Doubt|dubito]] che saranno troppo duri per noi. |
+| POINS | [[Well|Ebbene]], quanto a due di loro, li conosco per codardi di schietta razza quanti mai voltarono le spalle; e quanto al terzo, se combatte più a lungo di quanto veda ragione, abiurerò le armi. La virtù di questo scherzo saranno le incomprensibili menzogne che quello stesso grasso furfante ci racconterà quando ci troveremo a cena: con quanti, almeno trenta, egli combatté, che parate, che colpi, che estremi sopportò; e nel confutar questo sta lo scherzo. |
+| PRINCIPE HARRY | [[Well|Ebbene]], verrò con te. Provvedi a tutto il necessario, e trovami domani [[Night|notte]] a Eastcheap; là cenerò. Addio. |
+| POINS | Addio, mio signore. Esce |
+| PRINCIPE HARRY | Io vi conosco tutti, e per un poco sosterrò l’[[Humour|umore]] sfrenato del vostro ozio. Pure in questo imiterò il sole, che permette alle basse nubi contagiose di soffocare la sua [[Beauty|bellezza]] agli occhi del mondo, sì che, quando gli piaccia d’esser di nuovo se stesso, essendo desiderato, susciti maggior meraviglia irrompendo attraverso le turpi e brutte nebbie di vapori che parevano strangolarlo. Se tutto l’anno fossero feste da giocare, lo svagarsi sarebbe tedioso quanto il lavorare; ma quando vengono di rado, vengono desiderate, e nulla piace se non i rari accidenti. Così, quando getterò via questa condotta sregolata e pagherò il debito che mai promisi, di quanto sarò migliore della mia parola, di altrettanto smentirò le attese degli uomini; e come metallo lucente su fondo cupo, la mia [[Reformation|riforma]], scintillando sopra la mia colpa, apparirà più bella e attirerà più occhi di quella che non ha sfondo che la risalti. Così offenderò da fare dell’offesa un’arte, riscattando il [[Time|tempo]] quando meno gli uomini crederanno. Esce |
+
 
 
 <span class="atom-split" data-atom="act_1--scene_3" data-title="1 Henry IV — Act I, Scene 3" data-chapter="Scene 3" data-kind="scene" data-tags="archetype/fool,archetype/king,motif/blood,motif/cross,motif/crown,motif/death,motif/dust,motif/home,motif/lion,motif/love,motif/moon,motif/night,motif/rose,motif/soul,motif/time,motif/well,motif/wind,concept/faith,concept/greatness,concept/honour,concept/imagination,concept/mercy,concept/revenge,setting/castle,setting/mountains,character/bottom,character/earl_of_worcester,character/edmund,character/henry_iv,character/hotspur,character/richard,character/speed"></span>
@@ -1191,6 +1277,73 @@ The [[history|History]] of Henry the Fourth
 | *(didascalia)* | Exeunt Worcester at one door, Northumberland and [[Hotspur]] at another door |
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entrano il [[King|Re]], i Conti di Northumberland e Worcester, [[Hotspur]], Sir Walter Blunt, con altri lord |
+| [[King|RE]] ENRICO | (a [[Hotspur]], Northumberland e Worcester) Il mio [[Blood|sangue]] è stato troppo freddo e temperato, restio a commuoversi a queste indegnità, e voi ve ne siete accorti, ché di conseguenza calpestate la mia pazienza; ma siatene certi, d’ora innanzi sarò piuttosto me stesso, potente e da temersi, che la mia indole, che è stata liscia come olio, morbida come tenera lanugine, e per ciò ha perduto quel titolo di rispetto che l’[[Soul|anima]] superba non paga se non al superbo. |
+| WORCESTER | La nostra [[house|casa]], mio sovrano signore, poco merita che su di lei si usi il flagello della [[Greatness|grandezza]], e proprio quella [[Greatness|grandezza]] che le nostre stesse mani hanno aiutato a farsi così maestosa. |
+| NORTHUMBERLAND | (al [[King|Re]]) Mio signore— |
+| [[King|RE]] ENRICO | Worcester, vattene, ché io vedo<br>pericolo e disobbedienza nel tuo occhio.<br>Oh signore, la vostra presenza è troppo ardita e perentoria,<br>e la maestà non poté mai sopportare<br>la fronte accigliata d’un servitore.<br>Avete ben licenza di lasciarci. Quando avremo bisogno<br>dell’opera e del consiglio vostro, vi manderemo a chiamare. |
+| *(didascalia)* | Esce Worcester |
+| [[King|RE]] ENRICO | Stavate per parlare. |
+| NORTHUMBERLAND | Sì, mio buon signore.<br>Quei prigionieri richiesti in nome di vostra altezza,<br>che Harry Percy qui prese a Holmedon,<br>non furono, com’egli dice, negati con quella durezza<br>che fu riferita a vostra maestà:<br>chi la riferì, o per invidia o per equivoco,<br>fu colpevole di questo fallo, e non mio figlio. |
+| [[Hotspur|HOTSPUR]] | (al [[King|Re]])<br>Mio sire, io non negai prigionieri;<br>ma ricordo che, finita la battaglia,<br>quando ero riarso di rabbia e d’estrema fatica,<br>senza fiato e spossato, appoggiato alla mia [[Sword|spada]],<br>venne un certo lord, lindo e attillato,<br>fresco come uno sposo, e il suo mento, appena mietuto,<br>pareva un campo di stoppie quando la messe torna a [[Home|casa]].<br>Era profumato come un merciaio,<br>e fra il dito e il pollice teneva<br>una scatoletta da profumi, che di quando in quando<br>accostava al naso e ne toglieva di nuovo—<br>il quale, adirato di ciò, quando essa vi tornò<br>la prese a starnuti—ed egli sempre sorrideva e parlava;<br>e mentre i soldati portavano via i corpi dei morti,<br>li chiamò villani ineducati, screanzati<br>a portare una carogna sconcia e sgraziata<br>fra il [[Wind|vento]] e la sua nobiltà.<br>Con molti termini da festa e da dama<br>m’interrogò; fra l’altro richiese<br>i miei prigionieri in nome di vostra maestà.<br>Io allora, tutto bruciante per le ferite raffreddate—<br>essere così molestato da un pappagallo!—<br>per il mio dolore e la mia impazienza<br>risposi con noncuranza, non so che cosa—<br>che li avrebbe, o non li avrebbe—ché mi fece impazzire<br>vederlo splendere così arzillo, e odorare così dolce,<br>e discorrere come una dama di compagnia<br>di schioppi, e tamburi, e ferite, Dio ci scampi!<br>e dirmi che la cosa più sovrana sulla terra<br>era lo spermaceti per una contusione interna,<br>e che era gran peccato, sì davvero,<br>che questo scellerato salnitro si scavasse<br>dalle viscere dell’innocua terra,<br>il quale aveva distrutto tanti bravi e alti giovani<br>così vigliaccamente, e che, non fosse per questi vili schioppi,<br>egli stesso sarebbe stato soldato.<br>Questo suo insulso e sconnesso ciarlare, mio signore,<br>mi fece rispondere di traverso, come ho detto;<br>e vi supplico, non lasciate che il suo rapporto<br>corra come un’accusa<br>fra il mio [[Love|amore]] e la vostra alta maestà. |
+| BLUNT | (al [[King|Re]])<br>Considerata la circostanza, mio buon signore,<br>qualunque cosa Lord Harry Percy avesse allora detto<br>a una tale persona, e in un tal luogo,<br>in un tal [[Time|momento]], con tutto il resto riferito,<br>può ragionevolmente morire, e mai risorgere<br>a fargli torto o in alcun modo accusarlo<br>di ciò che disse allora, purché ora lo disdica. |
+| [[King|RE]] ENRICO | Eppure, ecco, egli nega i suoi prigionieri,<br>ma con clausola ed eccezione<br>che noi, a nostre spese, riscattiamo subito<br>suo cognato, lo sciocco Mortimer,<br>il quale, sull’[[Soul|anima]] mia, ha volutamente tradito<br>le vite di quelli che condusse a combattere<br>contro quel gran mago, il dannato Glyndŵr—<br>la cui figlia, a quanto udiamo, il Conte di March<br>ha di recente sposata. Dovranno dunque i nostri scrigni<br>vuotarsi per ricondurre a [[Home|casa]] un traditore?<br>Compreremo il tradimento, e patteggeremo coi codardi<br>quando essi si son perduti e traditi da sé?<br>No, sui nudi [[Mountains|monti]] lo si lasci morir di fame;<br>ché non terrò mai per amico quell’uomo<br>la cui lingua mi chieda un solo penny di spesa<br>per riscattare e ricondurre a [[Home|casa]] il ribelle Mortimer— |
+| [[Hotspur|HOTSPUR]] | Il ribelle Mortimer?<br>Egli non venne mai meno, mio sovrano signore,<br>se non per il caso della guerra. A provarlo vero<br>non occorre che una sola lingua per tutte quelle ferite,<br>quelle ferite spalancate, che valorosamente ricevette<br>quando sulla dolce riva giuncosa della Severn,<br>in singolare contesa, a corpo a corpo,<br>consumò la miglior parte d’un’ora<br>scambiando prodezze col grande Glyndwr.<br>Tre volte ripresero fiato, e tre volte<br>bevvero,<br>di comune accordo, alla rapida corrente della Severn,<br>la quale, atterrita dai loro sguardi sanguinosi,<br>corse impaurita fra le canne tremanti,<br>e nascose il capo increspato nella riva incavata,<br>macchiata del sangue di quei valorosi combattenti.<br>Mai nuda e putrida politica<br>colorò l’opera sua con tali ferite mortali,<br>né mai il nobile Mortimer<br>poté riceverne tante, e tutte di sua volontà.<br>Non lo si calunni dunque di ribellione. |
+| [[King|RE]] ENRICO | Tu lo menti, Percy, tu lo menti.<br>Egli non incontrò mai Glyndŵr. Te lo dico:<br>avrebbe osato tanto [[Well|bene]] affrontare il diavolo da [[Alone|solo]]<br>quanto Owain Glyndŵr per nemico.<br>Non ti vergogni? Ma, messere, d’ora innanzi<br>ch’io non vi senta parlare di Mortimer.<br>Mandatemi i vostri prigionieri col mezzo più celere,<br>o udrete da me tal linguaggio<br>che vi dispiacerà.—Mio lord Northumberland,<br>concediamo licenza di partire a voi e a vostro figlio.<br>(A [[Hotspur]]) Mandateci i vostri prigionieri, o ne sentirete parlare. |
+| *(didascalia)* | Escono tutti tranne [[Hotspur]] e Northumberland |
+| [[Hotspur|HOTSPUR]] | E venisse pure il diavolo a ruggire per averli,<br>non li manderò. Gli andrò subito dietro<br>e glielo dirò, ché voglio sgravarmi il cuore,<br>sia pure a rischio della mia testa. |
+| NORTHUMBERLAND | Come, ubriaco di collera? Fermati e pondera un poco. |
+| *(didascalia)* | Entra il [[Earl of Worcester|Conte di Worcester]] |
+| NORTHUMBERLAND | Ecco che viene vostro zio. |
+| [[Hotspur|HOTSPUR]] | Parlare di Mortimer?<br>Corpo di Dio, ne parlerò, e sia la mia [[Soul|anima]]<br>priva di [[Mercy|misericordia]] se non mi unisco a lui.<br>Per lui vuoterò tutte queste vene,<br>e verserò il mio caro [[Blood|sangue]] goccia a goccia nella [[Dust|polvere]],<br>pur di sollevare il caduto Mortimer<br>tanto in alto nell’aria quanto questo ingrato [[King|Re]],<br>quanto questo sconoscente e incancrenito Bolingbroke. |
+| NORTHUMBERLAND | (a Worcester)<br>Fratello, il [[King|Re]] ha fatto impazzire vostro nipote. |
+| WORCESTER | Chi ha acceso questo furore dopo che me ne fui andato? |
+| [[Hotspur|HOTSPUR]] | Vuole, in fede, tutti i miei prigionieri;<br>e quando insistetti ancora una volta per il riscatto<br>del fratello di mia moglie, la sua guancia impallidì,<br>e sul mio volto volse un occhio di [[Death|morte]],<br>tremando al solo nome di Mortimer. |
+| WORCESTER | Non posso biasimarlo: non fu egli proclamato<br>da [[Richard|Riccardo]], che è morto, il più prossimo di [[Blood|sangue]]? |
+| NORTHUMBERLAND | Lo fu; io stesso udii il proclama.<br>E fu allora che l’infelice [[King|Re]],<br>i cui torti in noi Dio perdoni, partì<br>per la sua spedizione d’Irlanda,<br>donde, intercettato, tornò<br>per essere deposto, e poco dopo assassinato. |
+| WORCESTER | E per la cui [[Death|morte]] noi, nella larga bocca del mondo,<br>viviamo scandalizzati e turpemente diffamati. |
+| [[Hotspur|HOTSPUR]] | Ma piano, vi prego; [[King|Re]] [[Richard|Riccardo]] dunque<br>proclamò mio fratello [[Edmund|Edmondo]] Mortimer<br>erede alla [[Crown|corona]]? |
+| NORTHUMBERLAND | Lo fece; io stesso l’udii. |
+| [[Hotspur|HOTSPUR]] | Ebbene, allora non posso biasimare il [[King|Re]] suo cugino<br>che gli augurò di morir di fame sui nudi [[Mountains|monti]].<br>Ma sarà mai che voi, che poneste la [[Crown|corona]]<br>sul capo di quest’uomo smemorato,<br>e per lui portate la detestata macchia<br>d’una subornazione omicida, sarà mai<br>che voi subiate un mondo di maledizioni,<br>essendo gli agenti o i vili strumenti secondi,<br>le corde, la scala, o piuttosto il boia?<br>Oh, perdonatemi se discendo così in basso<br>per mostrare il grado e la condizione<br>in cui vi collocate sotto questo sottile [[King|Re]]!<br>Sarà detto con vergogna in questi giorni,<br>o riempirà le cronache nel [[Time|tempo]] a venire,<br>che uomini della vostra nobiltà e potenza<br>impegnarono l’una e l’altra in una causa ingiusta,<br>come voi due, Dio lo perdoni, avete fatto:<br>abbattere [[Richard|Riccardo]], quella dolce e amabile [[Rose|rosa]],<br>e piantare questa spina, questo cancro, Bolingbroke?<br>E sarà detto oltre, con maggior vergogna,<br>che siete gabbati, scartati e scrollati via<br>da colui per il quale subiste queste onte?<br>No; c’è ancora [[Time|tempo]] in cui potete riscattare<br>i vostri onori banditi, e restituirvi<br>di nuovo al buon pensiero del mondo,<br>[[Revenge|vendicare]] lo scherno e lo sprezzante disprezzo<br>di questo superbo [[King|Re]], che studia giorno e [[Night|notte]]<br>come pagare tutto il debito che vi deve<br>proprio col sanguinoso saldo delle vostre morti.<br>Perciò, io dico— |
+| WORCESTER | Taci, cugino, non dire altro.<br>E ora dischiuderò un libro segreto,<br>e al vostro scontento pronto a concepire<br>leggerò cose profonde e pericolose,<br>piene di rischio e di spirito avventuroso<br>quanto varcare una corrente che ruggisce forte<br>sul malfermo appoggio d’una lancia. |
+| [[Hotspur|HOTSPUR]] | Se vi cade dentro, buona [[Night|notte]], o affondi o nuoti.<br>Manda il pericolo da oriente a occidente,<br>purché l’[[Honour|onore]] lo [[Cross|attraversi]] da settentrione a mezzogiorno;<br>e si azzuffino pure. Oh, il [[Blood|sangue]] più si agita<br>a stanare un [[Lion|leone]] che a levare una lepre! |
+| NORTHUMBERLAND | (a Worcester)<br>L’[[Imagination|immaginazione]] di qualche grande impresa<br>lo spinge oltre i confini della pazienza. |
+| *(didascalia)* | [[Hotspur|HOTSPUR]] |
+| NORTHUMBERLAND | Per il cielo, mi pare che sarebbe un salto facile<br>strappare il lucente [[Honour|onore]] alla pallida [[Moon|luna]],<br>o tuffarsi nel [[Bottom|fondo]] dell’abisso,<br>dove lo scandaglio non potrebbe mai toccare terra,<br>e tirar su per i capelli l’[[Honour|onore]] annegato,<br>purché chi ve lo riscatta possa portare,<br>senza rivali, tutte le sue dignità.<br>Ma al diavolo questa società a mezza faccia! |
+| WORCESTER | (a Northumberland)<br>Egli afferra qui un mondo di figure,<br>ma non la forma di ciò a cui dovrebbe attendere.<br>(A [[Hotspur]]) Buon cugino, datemi udienza un poco,<br>e ascoltatemi. |
+| [[Hotspur|HOTSPUR]] | Vi chiedo [[Mercy|mercé]]. |
+| WORCESTER | Quei nobili Scozzesi<br>che sono vostri prigionieri— |
+| [[Hotspur|HOTSPUR]] | Li terrò tutti.<br>Per Dio, non ne avrà uno Scozzese;<br>no, neppure se uno scotto potesse salvargli l’[[Soul|anima]].<br>Li terrò, per questa mano. |
+| WORCESTER | Voi scattate via,<br>e non prestate orecchio ai miei disegni.<br>Quei prigionieri li terrete. |
+| [[Hotspur|HOTSPUR]] | Sì, li terrò; è cosa detta.<br>Disse che non avrebbe riscattato Mortimer,<br>vietò alla mia lingua di parlare di Mortimer;<br>ma lo troverò quando giacerà addormentato,<br>e nel suo orecchio urlerò ‘Mortimerl’<br>Anzi, avrò uno storno che sarà ammaestrato a dire<br>nient’altro che ‘Mortimer’, e glielo darò<br>per tener la sua ira sempre in moto. |
+| WORCESTER | Sentite, cugino, una parola. |
+| [[Hotspur|HOTSPUR]] | Ogni studio io solennemente rinnego,<br>salvo come tormentare e pungere questo Bolingbroke.<br>E quel Principe di Galles da [[Sword|spada]] e brocchiere—<br>se non pensassi che suo padre non l’ama<br>e sarebbe lieto che gli capitasse qualche sventura—<br>lo vorrei avvelenato con un boccale di birra. |
+| WORCESTER | Addio, congiunto. Ti parlerò<br>quando sarai meglio disposto ad ascoltare. |
+| NORTHUMBERLAND | (a [[Hotspur]])<br>Diamine, che [[Fool|folle]] impaziente e punto dalla vespa<br>sei tu, a prorompere in questo umore da donna,<br>legando il tuo orecchio a nessuna lingua se non la tua I |
+| [[Hotspur|HOTSPUR]] | Diamine, vedete, io sono frustato e sferzato con verghe,<br>punto e morso dalle formiche, quando odo<br>di questo vile politicante Bolingbroke.<br>Ai [[Time|tempi]] di [[Richard|Riccardo]]—come si chiama quel luogo?<br>Peste lo colga, è nel Gloucestershire.<br>Era là che stava lo scapestrato Duca suo zio—<br>suo zio York—dove per la prima volta piegai il ginocchio<br>a questo [[King|re]] di sorrisi, a questo Bolingbroke.<br>Sangue di Dio, quando voi ed egli tornaste da<br>Ravenspurgh. |
+| NORTHUMBERLAND | Al [[Castle|castello]] di Berkeley. |
+| [[Hotspur|HOTSPUR]] | Dite il vero.<br>Diamine, che dolciume di cortesia<br>mi porse allora quel levriero adulatore!<br>‘Quando la sua fortuna bambina sarà cresciuta’,<br>e ‘gentile Harry Percy’, e ‘caro cugino’.<br>Oh, il diavolo si porti tali imbroglioni!—Dio mi perdoni.<br>Buon zio, dite il vostro racconto; io ho finito. |
+| WORCESTER | No, se non avete finito, riprendete.<br>Aspetteremo il vostro comodo. |
+| [[Hotspur|HOTSPUR]] | Ho finito, in [[Faith|fede]] mia. |
+| WORCESTER | Dunque ancora una volta ai vostri prigionieri Scozzesi.<br>Consegnateli subito senza riscatto;<br>e fate del figlio del Douglas il vostro solo mezzo<br>per aver forze in Scozia, le quali, per diverse ragioni<br>che vi manderò per iscritto, siatene certo,<br>saranno concesse agevolmente. (A Northumberland) Voi, mio<br>signore,<br>mentre vostro figlio è così impiegato in Scozia,<br>v’insinuerete segretamente nel seno<br>di quel nobile prelato tanto [[Well|ben]] amato,<br>l’Arcivescovo. |
+| [[Hotspur|HOTSPUR]] | Di York, non è vero? |
+| WORCESTER | Vero, il quale mal sopporta<br>la [[Death|morte]] del fratello a Bristol, il Lord Scrope.<br>Non dico questo per congettura,<br>come ciò che penso possa essere, ma ciò che so<br>esser ruminato, tramato e stabilito,<br>e che attende soltanto di scorgere il volto<br>di quell’occasione che lo porrà in atto. |
+| [[Hotspur|HOTSPUR]] | Lo fiuto; sulla mia vita, andrà [[Well|bene]]! |
+| NORTHUMBERLAND | Prima che la selvaggina sia levata, tu già sciogli i cani. |
+| [[Hotspur|HOTSPUR]] | Diamine, non può non essere un nobile disegno—<br>e allora la potenza di Scozia e di York<br>per unirsi a Mortimer, eh? |
+| WORCESTER | E così sarà. |
+| [[Hotspur|HOTSPUR]] | In [[Faith|fede]], è mirato oltremodo [[Well|bene]]. |
+| WORCESTER | E non è piccola ragione a spronarci alla [[Speed|prestezza]]<br>di salvare le nostre teste levando un esercito;<br>ché, per quanto dritti sappiamo tenerci,<br>il [[King|Re]] si crederà sempre nostro debitore,<br>e penserà che noi ci crediamo insoddisfatti<br>finché non abbia trovato il [[Time|tempo]] di saldarci fino in [[Home|fondo]].<br>E vedete già come comincia<br>a farci estranei ai suoi sguardi d’[[Love|amore]]. |
+| [[Hotspur|HOTSPUR]] | Lo fa, lo fa. Ci vendicheremo di lui. |
+| WORCESTER | Cugino, addio. Non andate oltre in questo<br>di quanto io per lettere dirigerò il vostro corso.<br>Quando il [[Time|tempo]] sarà maturo, e sarà d’improvviso,<br>sguscerò da Glyndŵr e da Lord Mortimer,<br>dove voi e Douglas e le nostre forze tutte insieme,<br>come io disporrò, felicemente c’incontreremo,<br>per portare le nostre fortune nelle nostre forti braccia,<br>che ora teniamo in molta incertezza. |
+| NORTHUMBERLAND | Addio, buon fratello. Prospereremo, confido. |
+| [[Hotspur|HOTSPUR]] | (a Worcester)<br>Zio, addio. Oh, siano brevi le ore<br>finché campi e colpi e gemiti applaudano il nostro gioco! |
+| *(didascalia)* | Escono Worcester da una porta, Northumberland e [[Hotspur]] da un’altra porta |
+
 
 
 <span class="atom-split" data-atom="act_2--scene_1" data-title="1 Henry IV — Act II, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="archetype/king,archetype/villain,motif/clock,motif/cross,motif/death,motif/horse,motif/night,motif/road,motif/rose,motif/time,motif/water,concept/body,concept/faith,setting/castle,setting/london,character/henry_iv,character/kent"></span>
@@ -1235,6 +1388,47 @@ The [[history|History]] of Henry the Fourth
 | CHAMBERLAIN | Nay, rather let me have it as you are a false thief. |
 | *(didascalia)* | GADSHILL Go to, ‘homo’ is a common name to all men. Bid the ostler bring my gelding out of the stable. Farewell, you muddy knave. Exeunt severally |
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entra un Carrettiere, con una lanterna in mano |
+| PRIMO CARRETTIERE | Ehilà! Se non sono le quattro del giorno, che m’impicchino. Il Carro di Carlo è sopra il camino nuovo, e il nostro [[Horse|cavallo]] non è ancora bardato. Ehi, stalliere! |
+| STALLIERE | (da dentro) Subito, subito! |
+| PRIMO CARRETTIERE | Ti prego, Tom, batti la sella di Moccolo, mettici un po’ di borra nell’arcione. La povera rozza è scorticata al garrese, oltre ogni misura. |
+| *(didascalia)* | Entra un altro Carrettiere |
+| SECONDO CARRETTIERE | Piselli e fave qui sono umidi come un cane, e questa è la via più corta per dare i bachi alle povere rozze. Questa [[house|casa]] è sottosopra da quando morì Robin lo Stalliere. |
+| PRIMO CARRETTIERE | Il pover’uomo non ebbe più gioia da quando il prezzo dell’avena [[Rose|salì]]; fu la sua [[Death|morte]]. |
+| SECONDO CARRETTIERE | Credo che questa sia la [[house|casa]] più scellerata di tutta la [[Road|strada]] di [[London|Londra]] quanto a pulci. Sono punto come una tinca. |
+| PRIMO CARRETTIERE | Come una tinca? Per la messa, non c’è [[King|re]] battezzato che potesse essere morso meglio di me dal primo canto del gallo. |
+| SECONDO CARRETTIERE | Diamine, non ci concedono mai un orinale, e allora sgocciolate nel camino, e la vostra piscia di camera genera pulci come un ghiozzo. |
+| PRIMO CARRETTIERE | Ehi, stalliere! Vieni via, e che t’impicchino, vieni via! |
+| SECONDO CARRETTIERE | Ho un prosciutto di lardo e due radici di zenzero da consegnare fin laggiù a Charing [[Cross]]. |
+| PRIMO CARRETTIERE | [[Body|Corpo]] di Dio, i tacchini nella mia gerla sono mezzo morti di fame! Ehi, stalliere! Peste ti colga, non hai un occhio in testa? Non ci senti? Se non fosse buona azione quanto bere il romperti la zucca, sono un vero [[Villain|furfante]]. Vieni, e che t’impicchino! Non hai [[Faith|fede]] in corpo? |
+| *(didascalia)* | Entra Gadshill |
+| GADSHILL | Buon giorno, carrettieri. Che ora fa l’[[Clock|orologio]]? |
+| PRIMO CARRETTIERE | Credo che siano le due d’[[Clock|orologio]]. |
+| GADSHILL | Ti prego, prestami la tua lanterna per vedere il mio castrone nella stalla. |
+| PRIMO CARRETTIERE | No, per Dio, piano. Ne so una che val due di quelle, in [[Faith|fede]] mia. |
+| GADSHILL | (al Secondo Carrettiere) Ti prego, prestami la tua. |
+| SECONDO CARRETTIERE | Sì, e quando? Lo sai dire? ‘Prestami la tua lanterna’, dice lui. Perbacco, prima ti vedrò impiccato. |
+| GADSHILL | Messer carrettiere, a che [[Time|ora]] contate d’arrivare a [[London|Londra]]? |
+| SECONDO CARRETTIERE | [[Time|Tempo]] abbastanza per andare a letto con la candela, te lo garantisco.—Vieni, vicino Mugs, chiameremo i signori. Verranno in compagnia, ché hanno gran carico. Escono i Carrettieri |
+| GADSHILL | Ehilà, cameriere! |
+| *(didascalia)* | Entra il Cameriere |
+| CAMERIERE | ‘A portata di mano’, disse Tagliaborse. |
+| GADSHILL | È giusto come ‘ “A portata di mano” disse il cameriere’, ché tu non differisci più dal tagliar borse di quanto il dare istruzioni differisca dal faticare: sei tu che ordisci il come. |
+| CAMERIERE | Buon giorno, mastro Gadshill. Regge quel che vi dissi ieri notte. C’è un possidente nella Weald del [[Kent]] che ha portato con sé trecento marchi in oro. Gliel’ho sentito raccontare a uno della sua compagnia ieri [[Night|notte]] a cena—una specie di revisore, uno che ha anch’esso abbondanza di carico, Dio sa di che. Sono già in piedi, e chiedono uova e burro; se ne andranno tra poco. |
+| GADSHILL | Messere, se non incontrano i chierici di San Nicola, ti do questo collo. |
+| CAMERIERE | No, non ne voglio; ti prego di serbarlo per il boia, ché so che tu veneri San Nicola quanto veramente può un uomo di falsità. |
+| GADSHILL | Che mi parli tu del boia? Se sarò impiccato, farò un grasso paio di forche, ché se io pendo, il vecchio Sir John pende con me, e sai che non è uno smunto. Bah, ci sono altri Troiani che tu non sogni, i quali per amor di spasso si degnano di far qualche grazia alla professione, e che, se le cose venissero guardate a fondo, per il proprio credito rimetterebbero tutto a posto. Io non sono unito con vagabondi da strada, né con picchiatori da sei soldi col bastone lungo, né con questi pazzi bevitori di birra dai baffi e dal viso paonazzo, ma con nobiltà e tranquillità, borgomastri e grandi banditori; gente che sa trattenersi, che colpisce prima di parlare, e parla prima di bere, e beve prima di pregare. Eppure, corpo di Dio, mento, ché essi pregano di continuo la loro santa, la cosa pubblica; o piuttosto non la pregano, ma la predano; ché le cavalcano sopra in su e in giù e ne fanno i loro stivali. |
+| CAMERIERE | Come, la cosa pubblica i loro stivali? Terrà fuori l’[[Water|acqua]] nella via fangosa? |
+| GADSHILL | La terrà, la terrà, la giustizia l’ha unta d’olio. Rubiamo come in un [[Castle|castello]], sicurissimi; abbiamo la ricetta del seme di felce, camminiamo invisibili. |
+| CAMERIERE | No, in [[Faith|fede]] mia, credo che siate più obbligati alla [[Night|notte]] che al seme di felce per il vostro camminare invisibili. |
+| GADSHILL | Dammi la mano; avrai una parte del nostro acquisto, com’è vero che sono un galantuomo. |
+| CAMERIERE | No, piuttosto dammela come sei un falso ladro. |
+| *(didascalia)* | GADSHILL Suvvia, ‘homo’ è nome comune a tutti gli uomini. Di’ allo stalliere di condurre il mio castrone fuori dalla stalla. Addio, furfante fangoso. Escono separatamente |
 
 
 
@@ -1294,6 +1488,60 @@ The [[history|History]] of Henry the Fourth
 | SIR JOHN | Hang ye, gorbellied knaves, are ye undone ? No, ye fat chuffs; I would your store were here. On, bacons, on ! What, ye knaves! Young men must live. You are grand-jurors, are ye? We’ll jure ye, [[Faith\|faith]].<br>Here they rob them and bind them. Exeunt the thieves with the travellers |
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entrano il Principe Harry, Poins, Harvey e Russell |
+| POINS | Su, al riparo, al riparo! |
+| *(didascalia)* | Escono Harvey e Russell da un’altra porta |
+| POINS | Ho portato via il [[Horse|cavallo]] di Oldcastle, ed egli freme come<br>velluto ingommato. |
+| *(didascalia)* | PRINCIPE HARRY State nascosti! Esce Poins |
+| *(didascalia)* | Entra Sir John Oldcastle |
+| SIR JOHN | Poins ! Poins, e che t’impicchino! Poins ! |
+| PRINCIPE HARRY | Zitto, furfante dai grassi rognoni ! Che baccano tieni ! |
+| SIR JOHN | Dov’è Poins, Hal? |
+| *(didascalia)* | PRINCIPE HARRY È salito in cima alla [[Hill|collina]]. Vado a cercarlo. Esce |
+| SIR JOHN | Sono maledetto a rubare in compagnia di quel ladro. Il furfante m’ha portato via il [[Horse|cavallo]] e l’ha legato non so dove. Se cammino a piedi quattro piedi di squadra più oltre, mi si romperà il [[Wind|fiato]]. [[Well|Ebbene]], non [[Doubt|dubito]] di morire d’una bella [[Death|morte]], nonostante tutto—se scampo all’impiccagione per aver ammazzato quel briccone. Ho abiurato la sua compagnia ogni ora, in ogni [[Time|tempo]], in questi ventidue anni, eppure sono stregato dalla compagnia del briccone. Se il furfante non m’ha dato filtri per farmelo [[Love|amare]], che m’impicchino. Non può essere altrimenti: ho bevuto filtri. Poins ! Hal ! Peste colga entrambi ! Russell ! Harvey ! Morirò di fame prima di rubare un piede più in là. Se non fosse buona azione quanto bere il farsi galantuomo e lasciare questi bricconi, sono il più vero manigoldo che mai masticasse con un dente. Otto iarde di terreno accidentato sono per me settanta miglia a piedi, e i furfanti dal cuore di pietra lo sanno [[Well|bene]] abbastanza. Peste, quando i ladri non possono esser leali l’uno con l’altro ! |
+| *(didascalia)* | Fischiano. Entrano il Principe Harry, Poins, Harvey e Russell |
+| SIR JOHN | Uff !Peste colga tutti voi !Datemi il mio [[Horse|cavallo]], voi<br>bricconi, datemi il mio [[Horse|cavallo]], e che v’impicchino! |
+| PRINCIPE HARRY | Zitto, pancione. Sdraiati, accosta l’orecchio a terra, e ascolta se puoi udire il passo dei viandanti. |
+| SIR JOHN | Avete leve per rialzarmi, una volta a terra ? Sangue di Dio, non porterò più la mia carne così lontano a piedi per tutto il denaro dell’erario di tuo padre. Che peste intendete, a puledrarmi così? |
+| PRINCIPE HARRY | Tu menti : non sei puledrato, sei spuledrato. |
+| SIR JOHN | Ti prego, buon [[Prince Hal|principe Hal]], aiutami a montare il mio [[Horse|cavallo]], buon figlio di [[King|re]]. |
+| PRINCIPE HARRY | Va’ via, briccone, devo farti da stalliere? |
+| SIR JOHN | Impiccati con le tue giarrettiere d’erede apparente ! Se sarò preso, vi denuncerò per questo. Se non farò comporre ballate su tutti voi e cantarle su sudicie arie, sia una coppa di sack il mio [[Poison|veleno]]. Quando uno scherzo è così spinto, e per giunta a piedi ! Lo detesto. |
+| *(didascalia)* | Entra Gadshill mascherato |
+| GADSHILL | Fermi! |
+| SIR JOHN | Fermo sono, contro la mia volontà. |
+| POINS | Oh, è il nostro segugio, ne riconosco la voce. Gadshill, che novità? |
+| *(didascalia)* | GADSHILL Copritevi, copritevi, su le maschere ! C’è denaro del [[King|Re]] che scende dalla [[Hill|collina]]; va all’erario del [[King|Re]]. |
+| SIR JOHN | Menti, briccone, va alla taverna del [[King|Re]]. |
+| GADSHILL | Ce n’è abbastanza per far la fortuna di tutti noi. |
+| SIR JOHN | Per farci impiccare. |
+| *(didascalia)* | Si mettono le maschere |
+| PRINCIPE HARRY | Signori, voi quattro li affronterete nella stradetta stretta. Ned Poins ed io cammineremo più in basso. Se scampano al vostro incontro, allora piombano su di noi. |
+| HARVEY | Quanti sono? |
+| GADSHILL | Otto o dieci. |
+| SIR JOHN | Corpo di Dio, non deruberanno noi? |
+| PRINCIPE HARRY | Come, un codardo, Sir John Pancia? |
+| SIR JOHN | Davvero non sono [[John of Gaunt|Giovanni di Gaunt]] vostro nonno, ma nemmeno un codardo, Hal. |
+| PRINCIPE HARRY | [[Well|Ebbene]], lasciamo che sia la prova a dirlo. |
+| POINS | Messer Jack, il tuo [[Horse|cavallo]] sta dietro la siepe. Quando ti servirà, là lo troverai. Addio, e tieni duro. |
+| SIR JOHN | Ora non posso batterlo, dovessero impiccarmi. |
+| PRINCIPE HARRY | (a parte a Poins) Ned, dove sono i nostri travestimenti? |
+| POINS | (a parte al Principe) Qui, a due passi. State nascosto. |
+| *(didascalia)* | Escono il Principe e Poins |
+| SIR JOHN | Ora, padroni miei, buona sorte a chi tocca, dico io; ognuno al suo affare. |
+| *(didascalia)* | Si tirano da parte.] |
+| *(didascalia)* | Entrano i Viandanti, fra loro i Carrettieri l |
+| FIRSTI TRAVELLER | Venite, vicino, il ragazzo condurrà i nostri cavalli giù dalla [[Hill|collina]]. Cammineremo a piedi un poco, e riposeremo le loro gambe. |
+| *(didascalia)* | I LADRI facendosi avanti Fermi ! |
+| *(didascalia)* | SECONDO VIANDANTE Gesù ci benedica ! |
+| SIR JOHN | Colpite, abbatteteli, tagliate la gola ai furfanti ! Ah, bruchi figli di puttana, manigoldi ingrassati di lardo ! Odiano noi giovani. Abbatteteli, spennateli ! |
+| *(didascalia)* | PRIMO VIANDANTE Oh, siamo rovinati, noi e i nostri per sempre! |
+| SIR JOHN | Che v’impicchino, manigoldi panciuti, siete rovinati ? No, grassi spilorci; vorrei che tutta la vostra roba fosse qui. Avanti, lardoni, avanti ! Come, manigoldi! I giovani devono vivere. Siete giurati di gran giuria, eh? Vi giureremo noi, in [[Faith|fede]].<br>Qui li derubano e li legano. Escono i ladri coi viandanti |
+
 
 
 <span class="atom-split" data-atom="act_2--scene_3" data-title="1 Henry IV — Act II, Scene 3" data-chapter="Scene 3" data-kind="scene" data-tags="motif/death,motif/horse,concept/fear,setting/london,character/henry_iv"></span>
@@ -1312,6 +1560,21 @@ The [[history|History]] of Henry the Fourth
 | PRINCE HARRY | Got with much ease. Now merrily to [[Horse\|horse]].<br>The thieves are all scattered, and possessed with [[Fear\|fear]]<br>So strongly that they dare not meet each other.<br>Each takes his fellow for an officer.<br>Away, good Ned. Oldcastle sweats to [[Death\|death]],<br>And lards the lean earth as he walks along.<br>Were’t not for laughing, I should pity him. |
 | POINS | How the fat rogue roared! Exeunt with the booty |
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entrano il Principe Harry e Poins, travestiti con vesti di bucherame |
+| PRINCIPE HARRY | I ladri hanno legato i galantuomini; ora tu ed io potremmo derubare i ladri, e andarcene allegramente a [[London|Londra]]. Sarebbe argomento per una settimana, riso per un mese, e un bello scherzo per sempre. |
+| POINS | State nascosto; li sento venire.<br>Si tirano da parte. |
+| *(didascalia)* | Entrano Sir John Oldcastle, Russell, Harvey e Gadshill, col denaro dei viandanti |
+| SIR JOHN | Venite, padroni miei, spartiamo, e poi a [[Horse|cavallo]] prima che faccia giorno. Se il Principe e Poins non sono due matricolati codardi, non c’è più equità al mondo. Non c’è più valore in quel Poins che in un’anitra selvatica.<br>Mentre spartiscono, il Principe e Poins piombano su di loro |
+| PRINCIPE HARRY | Il vostro denaro! |
+| POINS | Furfanti! |
+| *(didascalia)* | Gadshill, Russell e Harvey fuggono chi di qua chi di là, e Oldcastle, dopo un colpo o due, ruggisce e fugge anch’egli, lasciandosi dietro il bottino |
+| PRINCIPE HARRY | Preso con molta facilità. Ora allegramente a [[Horse|cavallo]].<br>I ladri sono tutti dispersi, e presi da [[Fear|paura]]<br>così forte che non osano incontrarsi l’un l’altro.<br>Ognuno scambia il compagno per uno sbirro.<br>Via, buon Ned. Oldcastle suda da [[Death|morirne]],<br>e unge la magra terra mentre cammina.<br>Se non fosse per il ridere, ne avrei pietà. |
+| POINS | Come ruggiva il grasso briccone! Escono col bottino |
 
 
 
@@ -1348,6 +1611,38 @@ The [[history|History]] of Henry the Fourth
 | [[Hotspur\|HOTSPUR]] | Not an inch further. But hark you, Kate,<br>Whither I go, thither shall you go too.<br>Today will I set forth, tomorrow you.<br>Will this content you, Kate? |
 | LADY PERCY | It must, of force. Exeunt |
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entra [[Hotspur]], leggendo una lettera |
+| [[Hotspur|HOTSPUR]] | ‘Ma per parte mia, mio signore, sarei [[Well|ben]] contento d’esser là, in riguardo all’[[Love|amore]] che porto alla vostra [[house|casa]].’—Sarebbe contento; perché dunque non c’è? In riguardo all’[[Love|amore]] che porta alla nostra [[house|casa]] ! Mostra con questo che ama il proprio granaio più di quanto ami la nostra [[house|casa]]. Vediamo un po’ oltre.—‘Il disegno che intraprendete è pericoloso’—Diamine, questo è certo: è pericoloso prendere un raffreddore, [[Sleep|dormire]], bere; ma io vi dico, mio signore [[Fool|sciocco]], da questa ortica del pericolo noi cogliamo questo fiore della sicurezza.—‘Il disegno che intraprendete è pericoloso, gli amici che avete nominato incerti, il [[Time|tempo]] stesso non scelto, e tutta la vostra trama troppo leggera per contrappesare una così grande opposizione.’—Dite così, dite così? Io vi ridico che siete un villano superficiale e codardo, e che mentite. Che cervello vuoto è costui! Per il Signore, la nostra trama è buona trama quanto mai se ne ordì, i nostri amici fedeli e costanti; una buona trama, buoni amici, e piena d’aspettativa; un’eccellente trama, ottimi amici. Che briccone dallo spirito gelato è costui! Diamine, il mio lord di York approva la trama e il corso generale dell’azione. Corpo di Dio, se ora fossi accanto a questo furfante, gli spaccherei il cranio col ventaglio della sua dama! Non ci sono forse mio padre, mio zio e io stesso? Lord [[Edmund|Edmondo]] Mortimer, il mio lord di York e Owain Glyndwr? Non c’è forse inoltre il Douglas? Non ho tutte le loro lettere, che m’incontreranno in armi entro il nove del mese prossimo? E non sono già in marcia alcuni di loro? Che furfante pagano è costui, un infedele ! Ah, vedrete ora, per pura sincerità di [[Fear|paura]] e di cuore freddo andrà dal [[King|Re]], e svelerà tutti i nostri procedimenti! Oh, potessi dividermi in due e prendermi a pugni per aver mosso un tal piatto di latte scremato a un’azione così onorevole Impiccatelo ! Dica pure al [[King|Re]] che siamo pronti; io partirò stanotte. |
+| *(didascalia)* | Entra Lady Percy |
+| [[Hotspur|HOTSPUR]] | Ebbene, Kate? Devo lasciarvi entro due ore. |
+| LADY PERCY | Omio buon signore, perché siete così [[Alone|solo]] ?<br>Per quale offesa sono stata in queste due settimane<br>donna bandita dal letto del mio Harry?<br>Ditemi, dolce signore, che cosa vi toglie<br>l’appetito, il piacere, e il vostro aureo [[Sleep|sonno]]?<br>Perché pieghi gli occhi verso terra,<br>e trasalisci così spesso quando siedi [[Alone|solo]]?<br>Perché hai perduto il fresco [[Blood|sangue]] delle tue guance,<br>e hai dato i miei tesori e i miei diritti su di te<br>a un fantasticare dall’occhio torbido e alla maledetta [[Melancholy|malinconia]]?<br>Nei tuoi sonni leggeri ho vegliato al tuo fianco,<br>e t’ho udito mormorare racconti di guerre di ferro,<br>dar termini di maneggio al tuo destriero impennato,<br>gridare ‘[[Courage|Coraggio]]! Al campo!’ E hai parlato<br>di sortite e ritirate, di trincee, tende,<br>di palizzate, frontiere, parapetti,<br>di basilischi, di cannoni, colubrine,<br>di prigionieri riscattati, e di soldati uccisi,<br>e di tutte le correnti d’una zuffa impetuosa.<br>Il tuo spirito dentro di te è stato tanto in guerra,<br>e t’ha così agitato nel tuo [[Sleep|sonno]],<br>che gocce di sudore ti son ristate sulla fronte<br>come bolle in un ruscello or ora turbato;<br>e sul tuo volto son apparsi strani moti,<br>quali vediamo quando gli uomini trattengono il fiato<br>a qualche grande e improvviso comando. Oh,che presagi son<br>questi?<br>Qualche grave faccenda ha per le mani il mio signore,<br>e devo saperla, altrimenti non m’ama. |
+| [[Hotspur|HOTSPUR]] | Ehilà! |
+| *(didascalia)* | Entra un Servo |
+| [[Hotspur|HOTSPUR]] | È partito Gilliams col plico? |
+| SERVO | È partito, mio signore, un’ora fa. |
+| [[Hotspur|HOTSPUR]] | Butler ha portato quei cavalli dallo sceriffo? |
+| SERVO | Un [[Horse|cavallo]], mio signore, l’ha portato or ora. |
+| [[Hotspur|HOTSPUR]] | Quale [[Horse|cavallo]]? Un roano, dalle orecchie mozze, non è vero? |
+| SERVO | È così, mio signore. |
+| [[Hotspur|HOTSPUR]] | Quel roano sarà il mio trono.<br>[[Well|Ebbene]], lo monterò subito.—Oh,Esperance!—<br>Di’ a Butler di condurlo fuori nel parco. |
+| LADY PERCY | Ma sentite, mio signore. |
+| [[Hotspur|HOTSPUR]] | Che dite, mia signora? |
+| LADY PERCY | Che cos’è che vi porta via? |
+| [[Hotspur|HOTSPUR]] | Diamine, il mio [[Horse|cavallo]],<br>[[Love|amore]] mio, il mio [[Horse|cavallo]]. |
+| LADY PERCY | Via, scimmia dalla testa pazza!<br>Una donnola non ha tanta bile<br>quanta ne siete voi sconvolto.<br>In [[Faith|fede]], saprò i vostri affari, Harry, sì che li saprò.<br>[[Fear|Temo]] che mio fratello Mortimer si muova<br>per il suo titolo, e abbia mandato a chiamarvi<br>per rinforzare la sua impresa; ma se andate— |
+| [[Hotspur|HOTSPUR]] | Così lontano a piedi? Mi stancherò, [[Love|amore]]. |
+| LADY PERCY | Su, su, pappagallino, rispondetemi<br>direttamente a questa domanda che vi faccio.<br>In [[Faith|fede]], ti romperò il mignolo, Harry,<br>se non mi dirai ogni cosa per il vero. |
+| [[Hotspur|HOTSPUR]] | Via, via, frivola! [[Love|Amore]] ? Io non t’[[Love|amo]],<br>non mi curo di te, Kate. Questo non è mondo<br>da giocare con bambole e giostrare con le labbra.<br>Ci vogliono nasi sanguinanti e teste rotte,<br>e farle correre per moneta. Dio mio, il mio [[Horse|cavallo]]!—<br>Che dici, Kate? Che vuoi<br>da me? |
+| LADY PERCY | Non mi [[Love|amate]]? Davvero non m’amate?<br>[[Well|Ebbene]], non amatemi allora, ché poiché voi non mi [[Love|amate]]<br>io non [[Love|amerò]] me stessa. Non mi [[Love|amate]]?<br>Anzi, ditemi se parlate per scherzo o no. |
+| [[Hotspur|HOTSPUR]] | Su, vuoi vedermi cavalcare ?<br>E quando sarò in sella, giurerò<br>che t’[[Love|amo]] infinitamente. Ma ascolta, Kate.<br>D’ora innanzi non voglio che tu mi domandi<br>dove vado, né che ragioni sul perché.<br>Dove devo, devo; e, per concludere,<br>questa sera devo lasciarti, gentile Kate.<br>Ti so saggia, ma non più saggia<br>di quanto sia la moglie di Harry Percy; costante sei,<br>ma pur donna; e quanto al segreto<br>nessuna dama più chiusa, ché io [[Well|ben]] credo<br>che non dirai ciò che non sai.<br>E fino a tanto mi fiderò di te, gentile Kate. |
+| LADY PERCY | Come, fino a tanto? |
+| [[Hotspur|HOTSPUR]] | Non un pollice più oltre. Ma ascolta, Kate,<br>dove vado io, là verrai anche tu.<br>Oggi partirò io, domani tu.<br>Ti contenterà questo, Kate? |
+| LADY PERCY | Per forza. Escono |
 
 
 
@@ -1589,6 +1884,242 @@ The [[history|History]] of Henry the Fourth
 | *(didascalia)* | HARVEY Good morrow, good my lord. Exeunt severally |
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entra il Principe Harry |
+| PRINCIPE HARRY | Ned, ti prego, esci da quella stanza grassa, e dammi una mano a ridere un poco. |
+| *(didascalia)* | Entra Poins da un’altra porta |
+| POINS | Dove sei stato, Hal? |
+| PRINCIPE HARRY | Con tre o quattro teste di legno, in mezzo a tre o quattro ventine di botti. Ho toccato la corda più bassa dell’[[Humility|umiltà]]. Messere, sono fratello giurato d’un terzetto di garzoni, e posso chiamarli tutti col nome di battesimo, come ‘Tom’, ‘Dick’ e ‘Francis’. Danno già per certo, sulla loro salvezza, che, benché io sia solo Principe di Galles, sono però il [[King|re]] della cortesia, e mi dicono schietto che non sono un tronfio spaccone come Oldcastle, ma un Corinzio, un ragazzo di fegato, un buon figliolo—per il Signore, così mi chiamano; e quando sarò [[King|Re]] d’Inghilterra comanderò tutti i bravi ragazzi di Eastcheap. Chiamano il bere profondo ‘tingersi di scarlatto’, e quando riprendi fiato mentre tracanni gridano ‘Ehm!’ e ti dicono ‘Butta giù!’ Per concludere, in un quarto d’ora sono divenuto così esperto che potrò bere con qualsiasi calderaio nella sua propria lingua per tutta la vita. Ti dico, Ned, hai perduto molto [[Honour|onore]] a non essere stato con me in questa azione. Ma, dolce Ned—e per addolcire questo nome di Ned ti do questo soldo di zucchero, cacciatomi in mano or ora da un sottocoppiere, uno che non parlò mai altro inglese in vita sua che ‘Otto scellini e sei pence’ e ‘Siate il benvenuto’, con questa stridula aggiunta: ‘Subito, subito, signore ! Segnate una pinta di bastardo nella Mezza[[Moon|luna]]!’ o qualcosa di simile. Ma, Ned, per far passare il [[Time|tempo]] finché arrivi Oldcastle, ti prego, mettiti tu in qualche stanzino, mentre io domando al mio garzoncello a che fine mi diede lo zucchero, e tu non smettere mai di chiamare ‘Francis!’, sì che il suo discorso con me non sia altro che ‘Subito!’ Fatti da parte, e ti mostrerò un saggio. |
+| *(didascalia)* | Esce Poins |
+| POINS | (da dentro) Francis! |
+| PRINCIPE HARRY | Sei perfetto. |
+| POINS | (da dentro) Francis! |
+| *(didascalia)* | Entra Francis, un garzone |
+| FRANCIS | Subito, subito, signore!—Da’ un’occhiata giù nel Melograno, Ralph ! |
+| PRINCIPE HARRY | Vieni qua, Francis. |
+| FRANCIS | Mio signore. |
+| PRINCIPE HARRY | Quanto hai ancora da servire, Francis? |
+| FRANCIS | In fede, cinque anni, e altrettanto quanto a— |
+| POINS | (da dentro) Francis! |
+| FRANCIS | Subito, subito, signore! |
+| PRINCIPE HARRY | Cinque anni! Per la Madonna, un lungo contratto per far tintinnare lo stagno. Ma, Francis, oseresti essere tanto valoroso da fare il codardo col tuo contratto, e mostrargli un bel paio di calcagni, e fuggirne? |
+| FRANCIS | Oh Signore, messere, giurerei su tutti i libri d’Inghilterra, me la sentirei in cuore— |
+| POINS | (da dentro) Francis! |
+| FRANCIS | Subito, signore! |
+| PRINCIPE HARRY | Quanti anni hai, Francis ? |
+| FRANCIS | Vediamo, per San Michele prossimo avrò— |
+| POINS | (da dentro) Francis! |
+| FRANCIS | Subito, signore! (Al Principe) Vi prego, aspettate un poco, mio signore. |
+| PRINCIPE HARRY | Ma senti, Francis. Quanto allo zucchero che m’hai dato, era un soldo, non è vero? |
+| FRANCIS | Oh Signore, vorrei che fossero stati due I |
+| PRINCIPE HARRY | Te ne darò in cambio mille sterline. Chiedimele quando vuoi, e le avrai— |
+| POINS | (da dentro) Francis! |
+| FRANCIS | Subito, subito! |
+| PRINCIPE HARRY | Subito, Francis? No, Francis, ma domani, Francis; o, Francis, di [[thursday|giovedì]]; o, davvero, Francis, quando vorrai. Ma, Francis. |
+| FRANCIS | Mio signore. |
+| PRINCIPE HARRY | Vuoi tu derubare quel giustacuore di cuoio, bottoni di cristallo, testa rapata, anello d’agata, calze bigie, giarrettiere di lana, lingua liscia, borsa di Spagna? |
+| FRANCIS | Oh Signore, messere, di chi intendete ? |
+| PRINCIPE HARRY | Diamine, allora il vostro bastardo bruno è la sola bevanda ! Ché vedete, Francis, il vostro farsetto di tela bianca si sporcherà. In Barberia, messere, non può arrivare a tanto. |
+| FRANCIS | Che cosa, signore? |
+| POINS | (da dentro) Francis ! |
+| PRINCIPE HARRY | Va’ via, briccone ! Non li senti chiamare ? |
+| *(didascalia)* | Mentre egli si allontana, Poins e il Principe lo chiamano entrambi. |
+| PRINCIPE HARRY | Il Garzone resta stupefatto, non sapendo da che<br><br>parte andare. |
+| *(didascalia)* | Entra il Vinaio |
+| VINAIO | Come, resti fermo, e senti un tale chiamare? Bada agli ospiti là dentro. Esce Francis Mio signore, il vecchio Sir John con una mezza dozzina d’altri è alla porta. Devo farli entrare? |
+| PRINCIPE HARRY | Lasciateli [[Alone|soli]] un poco, e poi aprite la porta. Esce il Vinaio Poins ! |
+| *(didascalia)* | POINS da dentro Subito, subito, signore! |
+| *(didascalia)* | Entra Poins |
+| PRINCIPE HARRY | Messere, Oldcastle e il resto dei ladri sono alla porta. Vogliamo divertirci? |
+| POINS | Allegri come grilli, ragazzo mio. Ma senti, che astuta partita hai combinato con questo scherzo del garzone? Su, qual è l’esito? |
+| PRINCIPE HARRY | Sono ora di tutti gli umori che si siano mostrati umori dai vecchi tempi di messer Adamo fino all’età pupilla di queste presenti dodici d’[[Clock|orologio]] a mezzanotte. |
+| *(didascalia)* | Entra Francis |
+| PRINCIPE HARRY | Che ora fa l’[[Clock|orologio]], Francis? |
+| *(didascalia)* | FRANCIS Subito, subito, signore ! Esce da un’altra porta |
+| PRINCIPE HARRY | Che costui abbia meno parole d’un pappagallo, ed è pur figlio di donna ! La sua industria è salire e scendere le scale, la sua eloquenza il conto d’una spesa. Non sono ancora dell’animo di Percy, l’[[Hotspur]] del Nord—quello che m’ammazza sei o sette dozzine di Scozzesi a colazione, si lava le mani, e dice alla moglie: ‘Puah, questa vita quieta ! Voglio lavoro.’ ‘Oh mio dolce Harry,’ dice lei, ‘quanti ne hai uccisi oggi?’ ‘Date una purga al mio [[Horse|cavallo]] roano,’ dice lui, e risponde: ‘Un quattordici,’ un’ora dopo; ‘un’inezia, un’inezia.’ Ti prego, fa’ entrare Oldcastle. Io farò Percy, e quel dannato lardone farà Donna Mortimer sua moglie. ‘Rivo!’ dice l’ubriaco. Fate entrare Costole, fate entrare Sego. |
+| *(didascalia)* | Entra Sir John Oldcastle, con [[Sword|spada]] e brocchiere, Russell, Harvey e Gadshill, seguiti da Francis, col vino |
+| POINS | Benvenuto, Jack. Dove sei stato? |
+| SIR JOHN | Peste colga tutti i codardi, dico io, e vendetta anche, perbacco e amen!—Dammi una coppa di sack, ragazzo.—Prima di condurre a lungo questa vita, cucirò calze, e le rammenderò e ci farò anche i piedi. Peste colga tutti i codardi!—Dammi una coppa di sack, briccone. Non c’è più virtù al mondo?<br>Beve |
+| PRINCIPE HARRY | Non hai mai visto Titano baciare un piatto di burro—Titano dal cuore pietoso—che si sciolse al dolce racconto del sole? Se l’hai visto, guarda allora quel composto. |
+| *(didascalia)* | SIR JOHN (a Francis) Briccone, c’è della calce anche in questo sack. Non si trova che bricconeria nell’uomo scellerato, eppure un codardo è peggio d’una coppa di sack con la calce dentro. Esce Francis Un codardo scellerato ! Va’ per la tua strada, vecchio Jack, muori quando vuoi. Se la virilità, la buona virilità, non è dimenticata sulla faccia della terra, allora io sono un’aringa vuota. Non vivono tre uomini buoni non impiccati in Inghilterra, e uno di loro è grasso e invecchia, Dio ci aiuti. Un cattivo mondo, dico io. Vorrei essere un tessitore—potrei cantare salmi, o qualsiasi cosa. Peste colga tutti i codardi, lo dico ancora. |
+| PRINCIPE HARRY | Ebbene, sacco di lana, che borbotti? |
+| SIR JOHN | Un figlio di [[King|re]] ! Se non ti scaccio dal tuo regno con un pugnale di legno, e non caccio tutti i tuoi sudditi davanti a te come un branco d’oche selvatiche, non porterò mai più un pelo sul viso. Voi, Principe di Galles! |
+| PRINCIPE HARRY | Diamine, tu, tondo figlio di puttana, che c’è? |
+| SIR JOHN | Non siete un codardo? Rispondetemi a questo. E Poins là? |
+| POINS | Corpo di Dio, pancione, se mi chiami codardo, per il Signore ti pugnalo. |
+| SIR JOHN | Io chiamarti codardo? Ti vedrò dannato prima di chiamarti codardo, ma darei mille sterline per poter correre svelto quanto te. Avete le spalle abbastanza dritte; non vi curate di chi vi vede la schiena. Chiamate questo spalleggiare gli amici ? Peste colga tale spalleggiare! Datemi quelli che mi fanno fronte. Dammi una coppa di sack. Sono un briccone se ho bevuto oggi. |
+| PRINCIPE HARRY | Oh [[Villain|furfante]], hai appena le labbra asciutte dall’ultima bevuta. |
+| SIR JOHN | È tutt’uno.<br>Beve<br>Peste colga tutti i codardi, lo dico sempre. |
+| PRINCIPE HARRY | Che c’è? |
+| SIR JOHN | Che c’è? Siamo qui quattro che stamattina abbiamo preso mille sterline. |
+| PRINCIPE HARRY | Dov’è, Jack, dov’è? |
+| SIR JOHN | Dov’è? Ci è stata presa. Cento addosso a noi poveri quattro. |
+| PRINCIPE HARRY | Come, cento, amico? |
+| SIR JOHN | Sono un briccone se non fui a mezza [[Sword|spada]] con una dozzina di loro, per due ore di seguito. Sono scampato per miracolo. Sono trapassato otto volte nel farsetto, quattro nelle brache, il mio brocchiere tagliato da parte a parte, la mia [[Sword|spada]] intaccata come una sega. Ecce signum. |
+| *(didascalia)* | Mostra la sua [[Sword|spada]] |
+| SIR JOHN | Non mi son mai battuto meglio da quando sono uomo. Nulla giovò. Peste colga tutti i codardi! (Indicando Gadshill, Harvey e Russell) Che parlino loro. Se dicono più o meno della [[Truth|verità]], sono furfanti e figli delle tenebre. |
+| *(didascalia)* | PRINCIPE HARRY Parlate, signori, come andò? |
+| *(didascalia)* | GADSHILL Noi quattro assalimmo una dozzina— |
+| SIR JOHN | (al Principe) Sedici almeno, mio signore. |
+| *(didascalia)* | GADSHILL E li legammo. |
+| HARVEY | No, no, non erano legati. |
+| SIR JOHN | Briccone, erano legati tutti quanti, o son giudeo altrimenti, giudeo ebreo. |
+| *(didascalia)* | GADSHILL Mentre spartivamo, sei o sette uomini freschi ci assalirono. |
+| SIR JOHN | E slegarono gli altri; e poi entrarono gli altri. |
+| PRINCIPE HARRY | Come, vi batteste con tutti loro? |
+| SIR JOHN | Tutti? Non so che cosa chiamiate tutti, ma se non mi battei con cinquanta di loro, sono un mazzo di ravanelli. Se non erano cinquantadue o cinquantatré addosso al povero vecchio Jack, allora non sono una creatura a due gambe. |
+| PRINCIPE HARRY | Prego Dio che tu non ne abbia ammazzato qualcuno. |
+| SIR JOHN | No, per questo non c’è più da pregare. Ne ho pepati due. Due son certo d’aver saldati—due bricconi in vesti di bucherame. Ti dico una cosa, Hal: se ti dico una bugia, sputami in faccia, chiamami [[Horse|cavallo]]. Tu conosci la mia vecchia guardia— |
+| *(didascalia)* | Si mette in posizione di combattimento |
+| SIR JOHN | qui mi piantai, e così portai la punta. Quattro bricconi in bucherame mi si avventarono addosso. |
+| PRINCIPE HARRY | Come, quattro? Or ora ne dicesti solo due. |
+| SIR JOHN | Quattro, Hal, te ne dissi quattro. |
+| POINS | Sì, sì, disse quattro. |
+| SIR JOHN | Questi quattro vennero tutti di fronte, e mi puntarono addosso con forza. Non feci altro che ricevere tutte le loro sette punte nel mio scudo, così. |
+| *(didascalia)* | Si copre col brocchiere |
+| PRINCIPE HARRY | Sette? Diamine, or ora erano solo quattro. |
+| SIR JOHN | In bucherame? |
+| POINS | Sì, quattro in vesti di bucherame. |
+| SIR JOHN | Sette, per quest’elsa, o sono un [[Villain|furfante]]. |
+| PRINCIPE HARRY | (a parte a Poins) Ti prego, lascialo [[Alone|stare]]. Ne avremo altri fra poco. |
+| SIR JOHN | Mi senti, Hal? |
+| PRINCIPE HARRY | Sì, e ti seguo anche, Jack. |
+| SIR JOHN | Fa’ così, ché merita d’essere ascoltato. Questi nove in bucherame di cui ti dicevo— |
+| PRINCIPE HARRY | (a parte a Poins) Ecco, già due di più. |
+| SIR JOHN | Rotte le loro punte— |
+| *(didascalia)* | POINS a parte al Principe Caddero giù le loro brache. |
+| SIR JOHN | cominciarono a cedermi terreno. Ma io li incalzai da presso, entrai di piede e di mano, e, in un pensiero, sette degli undici li saldai. |
+| PRINCIPE HARRY | (a parte a Poins) Oh mostruoso! Undici uomini di bucherame cresciuti da due! |
+| SIR JOHN | Ma, come il diavolo volle, tre manigoldi malnati in verde di Kendal mi vennero alle spalle e mi si avventarono addosso; ché era così buio, Hal, che non potevi vederti la mano. |
+| PRINCIPE HARRY | Queste bugie somigliano al padre che le genera—grosse come una montagna, aperte, palpabili. Diamine, tu, budella dal cervello d’argilla, tu [[Fool|sciocco]] dalla testa nodosa, tu osceno untuoso raccogli-sego figlio di puttana- |
+| SIR JOHN | Come, sei pazzo? Sei pazzo? Non è la [[Truth|verità]] la [[Truth|verità]]? |
+| PRINCIPE HARRY | Diamine, come potevi riconoscere questi uomini in verde di Kendal quando era così buio che non potevi vederti la mano? Su, dicci la tua ragione. Che dici a questo? |
+| POINS | Su, la tua ragione, Jack, la tua ragione. |
+| SIR JOHN | Come, per costrizione? Corpo di Dio, fossi anche allo strappado, o su tutte le ruote del mondo, non ve la direi per costrizione. Darvi una ragione per costrizione? Se le ragioni fossero abbondanti come le more, non darei a nessuno una ragione per costrizione, io. |
+| PRINCIPE HARRY | Non voglio esser più colpevole di questo peccato. Questo codardo sanguigno, questo schiaccialetti, questo spezzaschiene di [[Horse|cavalli]], questa enorme [[Hill|collina]] di carne— |
+| SIR JOHN | Sangue di Dio, tu affamato, tu pelle d’elfo, tu lingua secca di bue, tu nerbo di toro, tu stoccafisso—oh, avessi fiato per dire ciò a cui somigli!—tu canna da sarto, tu guaina, tu astuccio d’arco, tu vile stocco piantato— |
+| PRINCIPE HARRY | [[Well|Ebbene]], riprendi fiato un poco, e poi daccapo, e quando ti sarai stancato in vili paragoni, ascolta soltanto questo da me. |
+| POINS | Attento, Jack. |
+| PRINCIPE HARRY | Noi due vedemmo voi quattro assalirne quattro, e legarli, ed esser padroni dei loro averi.—Ora sta’ a vedere come un racconto semplice vi abbatterà.—Poi noi due assalimmo voi quattro, e, con una parola, vi cacciammo dal vostro bottino, e l’abbiamo; sì, e possiamo mostrarvelo qui nella [[house|casa]]. E voi, Oldcastle, portaste via le vostre budella così agilmente, con così pronta destrezza, e ruggiste [[Mercy|mercé]], e correvate e ruggivate come mai udii vitello. Che schiavo sei, a intaccare la tua [[Sword|spada]] come hai fatto, e poi dire che fu in combattimento! Che astuzia, che espediente, che pertugio sai ora trovare per nasconderti da questa aperta ed evidente vergogna? |
+| POINS | Su, sentiamo, Jack; che astuzia hai adesso? |
+| SIR JOHN | Per il Signore, vi conobbi tanto [[Well|bene]] quanto colui che vi fece. Diamine, sentite, padroni miei. Toccava a me uccidere l’erede apparente? Dovevo io volgermi contro il vero principe? Diamine, tu sai che sono valoroso come Ercole; ma bada all’istinto. Il [[Lion|leone]] non tocca il vero principe—l’istinto è gran cosa. Fui allora codardo per istinto. Penserò meglio di me e di te per tutta la vita—io come [[Lion|leone]] valoroso, e tu come vero principe. Ma per il Signore, ragazzi, son lieto che abbiate il denaro.—(Chiamando) Ostessa, sbarra le porte.—Veglia stanotte, prega domani. Galanti, ragazzi, figlioli, cuori d’oro, tutti i titoli della buona compagnia vengano su di voi! Su, vogliamo divertirci, vogliamo fare una commedia all’improvviso? |
+| PRINCIPE HARRY | D’accordo, e l’argomento sarà la tua fuga. |
+| SIR JOHN | Ah, non più di quello, Hal, se mi vuoi bene. |
+| *(didascalia)* | Entra l’Ostessa |
+| OSTESSA | Oh Gesù, mio signore il Principe! |
+| PRINCIPE HARRY | Ebbene, mia signora l’Ostessa, che mi dite? |
+| OSTESSA | Perbacco, mio signore, c’è un nobiluomo della [[Court|corte]] alla porta che vorrebbe parlarvi. Dice che viene da parte di vostro padre. |
+| PRINCIPE HARRY | Dategli tanto da farne un uomo reale, e rimandatelo da mia madre. |
+| SIR JOHN | Che sorta d’uomo è? |
+| OSTESSA | Un vecchio. |
+| SIR JOHN | Che fa la gravità fuori dal letto a mezzanotte? Devo dargli io la risposta? |
+| PRINCIPE HARRY | Fallo pure, Jack. |
+| SIR JOHN | In [[Faith|fede]], e lo manderò a spasso. Esce |
+| PRINCIPE HARRY | Ora, signori; (a Gadshill) per la Madonna, vi batteste bene—e anche voi, Harvey, e anche voi, Russell. Siete leoni anche voi—fuggiste per istinto, non volete toccare il vero principe; no, vergogna! |
+| RUSSELL | In [[Faith|fede]], corsi quando vidi correre gli altri. |
+| PRINCIPE HARRY | In [[Faith|fede]], dimmi ora sul serio, come mai la [[Sword|spada]] di Oldcastle fu così intaccata? |
+| HARVEY | Diamine, se la intaccò col pugnale, e disse che avrebbe giurato via dall’Inghilterra la [[Truth|verità]] pur di farvi credere che fu fatto in combattimento, e persuase noi a fare lo stesso. |
+| RUSSELL | Sì, e a solleticarci il naso con l’erba lancia, per farlo sanguinare; e poi a imbrattarne le nostre vesti, e giurare che era il [[Blood|sangue]] di galantuomini. Feci ciò che non facevo da sette anni—arrossii a udire i suoi mostruosi ritrovati. |
+| PRINCIPE HARRY | Oh [[Villain|furfante]], rubasti una coppa di sack diciott’anni fa, e fosti colto sul fatto, e da allora arrossisci all’improvviso. Avevi il [[Fire|fuoco]] e la [[Sword|spada]] dalla tua, eppure fuggisti. Che istinto avesti per questo? |
+| RUSSELL | (indicando il proprio volto) Mio signore, vedete queste meteore? Contemplate queste esalazioni? |
+| PRINCIPE HARRY | Le vedo. |
+| RUSSELL | Che pensate che presagiscano? |
+| PRINCIPE HARRY | Fegati caldi e borse fredde. |
+| *(didascalia)* | RUSSELL Collera, mio signore, se presa a dovere. Esce |
+| PRINCIPE HARRY | No, se presa a dovere, capestro. |
+| *(didascalia)* | Entra Sir John Oldcastle |
+| PRINCIPE HARRY | Ecco che viene il magro Jack; ecco che vengono le ossa spolpate. Ebbene, mia dolce creatura d’imbottitura? Quanto tempo è, Jack, da che vedesti il tuo ginocchio? |
+| SIR JOHN | Il mio ginocchio? Quando avevo i tuoi anni, Hal, non ero grosso in cintura più d’un artiglio d’aquila; potevo strisciare dentro l’anello da pollice d’un assessore. Peste colga i sospiri e il dolore—gonfiano l’uomo come una vescica. Ci sono novità scellerate in giro. È stato qui Sir John Bracy da parte di vostro padre; dovete andare a [[Court|corte]] domattina. Quel pazzo del Nord, Percy, e quello del Galles che diede la bastonata ad Amamon, e fece becco [[Lucifer|Lucifero]], e giurò il diavolo suo fedele vassallo sulla [[Cross|croce]] d’una roncola gallese—come diavolo lo chiamate? |
+| POINS | Owain Glyndwr. |
+| SIR JOHN | Owain, Owain, proprio lui; e suo genero Mortimer, e il vecchio Northumberland, e quello svelto Scozzese fra gli Scozzesi, Douglas, che a cavallo sale su per una [[Hill|collina]] a perpendicolo— |
+| PRINCIPE HARRY | Quello che cavalca a gran [[Speed|velocità]] e con la sua [[Pistol|pistola]] uccide un passero in volo. |
+| SIR JOHN | L’hai colto. |
+| PRINCIPE HARRY | Lui invece non colse mai il passero. |
+| SIR JOHN | [[Well|Ebbene]], quel furfante ha buon fegato in corpo; non fuggirà. |
+| PRINCIPE HARRY | Diamine, che furfante sei tu, dunque, a lodarlo così per il correre! |
+| SIR JOHN | A cavallo, cuculo, ma a piedi non si muove d’un piede. |
+| PRINCIPE HARRY | Sì, Jack, per istinto. |
+| SIR JOHN | Te lo concedo, per istinto. [[Well|Ebbene]], c’è anche lui, e un certo Mordake, e altri mille berretti azzurri. Worcester è sgusciato via stanotte. La barba di tuo padre s’è fatta bianca alla notizia. Ora si può comprar terra a buon mercato come sgombro putrido. |
+| PRINCIPE HARRY | Diamine, allora è probabile che, se viene un giugno caldo e dura questa zuffa civile, compreremo verginità come si comprano i chiodi: a centinaia. |
+| SIR JOHN | Per la messa, ragazzo, dici il vero; è probabile che avremo buon commercio in quel genere. Ma dimmi, Hal, non hai una paura orribile? Essendo tu erede apparente, potrebbe il mondo sceglierti di nuovo tre nemici simili a quel demonio di Douglas, a quello spirito di Percy, e a quel diavolo di Glyndŵr? Non hai una paura orribile? Non ti freme il [[Blood|sangue]] a pensarci? |
+| PRINCIPE HARRY | Neanche un briciolo, in [[Faith|fede]] mia. Mi manca un po’ del tuo istinto. 375 |
+| SIR JOHN | [[Well|Ebbene]], sarai orribilmente sgridato domani quando andrai da tuo padre. Se mi [[Love|ami]], esercitati in una risposta. |
+| PRINCIPE HARRY | Fa’ tu la parte di mio padre, ed esaminami sui particolari della mia vita. |
+| SIR JOHN | Io? D’accordo. Questa sedia sarà il mio trono, questo pugnale il mio scettro, e questo cuscino la mia [[Crown|corona]].<br>Si siede |
+| PRINCIPE HARRY | Il tuo trono è preso per uno sgabello, il tuo aureo scettro per un pugnale di piombo, e la tua preziosa e ricca [[Crown|corona]] per una misera [[Crown|cocuzza]] pelata. |
+| SIR JOHN | [[Well|Ebbene]], se il [[Fire|fuoco]] della grazia non è del tutto spento in te, ora sarai commosso. Dammi una coppa di sack per farmi gli occhi rossi, sì che si creda che ho pianto; ché devo parlare con passione, e lo farò alla maniera di [[King|Re]] Cambise. |
+| PRINCIPE HARRY | (inchinandosi) [[Well|Ebbene]], ecco il mio inchino. |
+| SIR JOHN | Ed ecco il mio discorso. (A Harvey, Poins e Gadshill) Fatevi da parte, nobiltà. |
+| OSTESSA | Oh Gesù, questo è spasso eccellente, in [[Faith|fede]] mia. |
+| SIR JOHN | Non piangere, dolce [[Queen|Regina]], ché le [[Tears|lacrime]] che scorrono son vane. |
+| OSTESSA | Oh Padre, come tien fermo il contegno! |
+| SIR JOHN | Per amor di Dio, signori, portate via la mia mesta [[Queen|Regina]],<br>ché le [[Tears|lacrime]] ostruiscono le chiuse dei suoi occhi. |
+| OSTESSA | Oh Gesù, lo fa proprio come uno di quei commedianti da bordello che abbia mai visto! |
+| SIR JOHN | Zitto, buon boccale; zitto, buon solletica-cervello.—<br>Harry, non solo mi meraviglio di dove tu spenda il tuo<br>[[Time|tempo]], ma anche di come sei accompagnato. Poiché, sebbene<br>la camomilla, quanto più è calpestata, tanto più presto<br>cresca, la giovinezza invece, quanto più è sprecata, tanto prima<br>si consuma. Che tu sia mio figlio, l’ho in parte dalla parola di tua<br>madre, in parte dalla mia opinione, ma soprattutto da uno scellerato<br>vezzo del tuo occhio, e da uno sciocco pendere del tuo labbro<br>inferiore, che me lo garantisce. Se dunque sei figlio mio,<br>qui sta il punto. Perché, essendo figlio mio, sei tu così<br>additato? Dovrà il benedetto sole del cielo farsi<br>vagabondo, e mangiar more?—Domanda che non va<br>fatta. Dovrà il figlio d’Inghilterra farsi ladro, e tagliar<br>borse?—Domanda che va fatta. C’è una cosa,<br>Harry, di cui hai udito spesso, ed è nota<br>a molti nella nostra terra col nome di pece. Questa pece,<br>come riferiscono gli antichi scrittori, imbratta. Così fa la<br>compagnia che tu frequenti. Poiché, Harry, ora non ti parlo<br>nel vino, ma nelle [[Tears|lacrime]]; non nel piacere, ma nella<br>passione; non con parole soltanto, ma anche con affanni. E tuttavia<br>c’è un uomo virtuoso che ho spesso notato nella<br>tua compagnia, ma non so il suo nome. |
+| PRINCIPE HARRY | Che sorta d’uomo, se piace a vostra maestà? |
+| SIR JOHN | Un uomo avvenente e maestoso, in [[Faith|fede]], e corpulento; d’aspetto allegro, d’occhio piacevole, e di portamento nobilissimo; e, come credo, d’età sui cinquanta, o, per la Madonna, incline ai sessanta. E ora mi ricordo, il suo nome è Oldcastle. Se quell’uomo fosse dato alla lussuria, m’inganna; ché, Harry, io vedo virtù nel suo volto. Se dunque l’albero si conosce dal frutto, come il frutto dall’albero, allora lo dico perentoriamente—c’è virtù in quell’Oldcastle. Con lui sta’; gli altri bandiscili. E dimmi ora, cattivo manigoldo, dimmi, dove sei stato questo mese? |
+| PRINCIPE HARRY | Parli tu come un [[King|re]]? Fa’ tu la mia parte, e io farò mio padre. |
+| SIR JOHN | (alzandosi) Deponimi. Se lo fai la metà così gravemente, così maestosamente e in parola e in sostanza, appendimi per i talloni come un coniglio da latte, o una lepre da pollivendolo. |
+| PRINCIPE HARRY | (sedendosi) [[Well|Ebbene]], eccomi assiso. |
+| SIR JOHN | E qui io sto in piedi. (Agli altri) Giudicate, padroni miei. |
+| PRINCIPE HARRY | Ora, Harry, di dove venite? |
+| SIR JOHN | Mio nobile signore, da Eastcheap. |
+| PRINCIPE HARRY | Le lagnanze che odo sul tuo conto sono gravi. |
+| *(didascalia)* | SIR JOHN Sangue di Dio, mio signore, sono false. Agli |
+| *(didascalia)* | altri |
+| PRINCIPE HARRY | Ma io ti solleticherò per un giovane principe, in [[Faith|fede]] mia. |
+| PRINCIPE HARRY | Giuri, ragazzo scellerato? D’ora innanzi non guardarmi più. Sei violentemente trascinato via dalla grazia. C’è un diavolo che ti perseguita in sembianza d’un vecchio grasso; una botte d’uomo è il tuo compagno. Perché conversi con quel baule d’umori, quella madia di bestialità, quel gonfio fardello d’idropisie, quella enorme bombarda di sack, quel sacco da viaggio imbottito di budella, quel bue arrostito di Manningtree col sanguinaccio in pancia, quel reverendo Vizio, quella grigia Iniquità, quel padre Ruffiano, quella [[Vanity|Vanità]] in Anni? In che cosa è buono, se non ad assaggiare il sack e berlo? In che cosa lindo e pulito, se non a trinciare un cappone e mangiarlo? In che cosa astuto, se non nella frode? In che cosa frodolento, se non nella scelleratezza? In che cosa scellerato, se non in ogni cosa? In che cosa degno, se non in nulla? |
+| SIR JOHN | Vorrei che vostra grazia mi conducesse con sé. Chi intende vostra grazia? |
+| PRINCIPE HARRY | Quello scellerato, abominevole traviatore della gioventù, Oldcastle; quel vecchio [[Satan|Satana]] dalla barba bianca. |
+| SIR JOHN | Mio signore, l’uomo lo conosco. |
+| PRINCIPE HARRY | So che lo conosci. |
+| SIR JOHN | Ma dire che conosco in lui più male che in me stesso sarebbe dire più di quanto so. Che sia vecchio, tanto peggio, i suoi capelli bianchi ne fanno fede. Ma che sia, salva la vostra riverenza, un puttaniere, questo lo nego assolutamente. Se sack e zucchero sono una colpa, Dio aiuti i malvagi. Se essere vecchio e allegro è peccato, allora molti vecchi osti che conosco sono dannati. Se essere grasso vuol dire essere odiato, allora le vacche magre di Faraone son da amare. No, mio buon signore, bandite Harvey, bandite Russell, bandite Poins, ma quanto al dolce Jack Oldcastle, al caro Jack Oldcastle, al fedele Jack Oldcastle, al valoroso Jack Oldcastle, e perciò tanto più valoroso essendo, com’è, il vecchio Jack Oldcastle, non bandirlo dalla compagnia del tuo Harry, non bandirlo dalla compagnia del tuo Harry. Bandisci il grassoccio Jack, e bandisci tutto il mondo. |
+| PRINCIPE HARRY | Lo faccio; lo farò. |
+| *(didascalia)* | Si bussa dentro. Esce l’Ostessa. |
+| *(didascalia)* | Entra Russell, correndo |
+| RUSSELL | Oh mio signore, mio signore, lo sceriffo con una guardia mostruosa è alla porta! |
+| SIR JOHN | Va’ via, briccone! Recita fino in fondo la commedia! Ho molto da dire in favore di quell’Oldeastle. |
+| *(didascalia)* | Entra l’Ostessa |
+| OSTESSA | Oh Gesù! Mio signore, mio signore! |
+| PRINCIPE HARRY | Ehi, ehi, il diavolo cavalca un archetto di violino! Che c’è? |
+| OSTESSA | Lo sceriffo e tutta la guardia sono alla porta.<br>Sono venuti a perquisire la [[house|casa]]. Devo farli entrare? |
+| SIR JOHN | Mi senti, Hal? Non chiamare mai contraffatto un vero pezzo d’oro—tu sei fatto d’essenza, senza parerlo. |
+| PRINCIPE HARRY | E tu un codardo naturale senza istinto. |
+| SIR JOHN | Nego la vostra maggiore. Se volete negare l’ingresso allo sceriffo, sia. Se no, fatelo entrare. Se non figuro su un carro tanto [[Well|bene]] quanto un altro, peste colga la mia educazione. [[Hope|Spero]] d’essere strangolato con un capestro presto quanto un altro. |
+| PRINCIPE HARRY | Va’, nasconditi dietro l’arazzo. Gli altri salgano di sopra. Ora, padroni miei, un volto sincero e una buona [[Conscience|coscienza]]. Escono Poins, Russell e Gadshill |
+| SIR JOHN | Entrambi li ho avuti, ma la loro scadenza è passata; e perciò mi nasconderò.<br>Si ritira dietro l’arazzo |
+| PRINCIPE HARRY | (all’<br>Ostessa) Fate entrare lo sceriffo. Esce l’Ostessa |
+| *(didascalia)* | Entrano lo Sceriffo e un Carrettiere |
+| PRINCIPE HARRY | Ora, messer sceriffo, che volete da me? |
+| SCERIFFO | Anzitutto, perdonatemi, mio signore. Un grido d’allarme<br>ha inseguito certi uomini fino a questa [[house|casa]]. |
+| PRINCIPE HARRY | Quali uomini? |
+| SCERIFFO | Uno di loro è [[Well|ben]] noto, mio grazioso signore,<br>un uomo grosso e grasso. |
+| CARRETTIERE | Grasso come burro. |
+| PRINCIPE HARRY | L’uomo, ve l’assicuro, non è qui,<br>ché io stesso in questo [[Time|momento]] l’ho impiegato.<br>E, sceriffo, t’impegno la mia parola<br>che entro l’[[Time|ora]] del pranzo di domani<br>lo manderò a rispondere a te, o a chiunque,<br>di qualunque cosa gli sia imputata.<br>E così vi prego di lasciare la [[house|casa]]. |
+| SCERIFFO | Lo farò, mio signore. Ci sono due gentiluomini<br>che in questa rapina hanno perduto trecento marchi. |
+| PRINCIPE HARRY | Può darsi. Se ha derubato questi uomini,<br>ne risponderà. E così, addio. |
+| SCERIFFO | Buona [[Night|notte]], mio nobile signore. |
+| PRINCIPE HARRY | Credo che sia buon giorno, non è vero? |
+| SCERIFFO | Davvero, mio signore, credo che siano le due d’[[Clock|orologio]]. |
+| *(didascalia)* | Escono lo Sceriffo e il Carrettiere |
+| PRINCIPE HARRY | Questo unto furfante è noto tanto [[Well|bene]] quanto San Paolo.<br>Andate a chiamarlo. |
+| HARVEY | Oldcastle! |
+| *(didascalia)* | Egli |
+| *(didascalia)* | tira indietro l’arazzo, scoprendo Sir John addormentato |
+| HARVEY | Profondamente addormentato<br>dietro l’arazzo, e russa come un [[Horse|cavallo]]. |
+| PRINCIPE HARRY | Senti come tira il fiato a fatica. Frugagli le tasche. |
+| *(didascalia)* | Harvey gli fruga la tasca e trova certe carte. Richiude l’arazzo e si fa avanti |
+| PRINCIPE HARRY | Che hai trovato? |
+| HARVEY | Nient’altro che carte, mio signore. |
+| PRINCIPE HARRY | Vediamo che cosa sono. Leggile. |
+| *(didascalia)* | HARVEY (legge) |
+| PRINCIPE HARRY | Item: un cappone. 2s. 2d.<br><br>Item: salsa. 4d.<br><br>Item: sack, due galloni. 5s. 8d.<br>Item: acciughe e sack dopo cena. 2s. 6d.<br><br>Item: pane. ob. |
+| *(didascalia)* | PRINCIPE HARRY Oh mostruoso! Un solo mezzo penny di pane per questa intollerabile quantità di sack! Quel che c’è d’altro, tienilo nascosto; lo leggeremo con più comodo. Là lascialo [[Sleep|dormire]] fino a giorno. Io andrò a [[Court|corte]] domattina. Dobbiamo andare tutti alla guerra, e il tuo posto sarà onorevole. Procurerò a questo grasso briccone un comando di fanteria, e so che la sua [[Death|morte]] sarà una marcia di duecentoquaranta passi. Il denaro sarà restituito, con l’interesse. Sii da me di buon’ora domattina; e così buon giorno, Harvey. |
+| *(didascalia)* | HARVEY Buon giorno, mio buon signore. Escono separatamente |
+
 
 
 <span class="atom-split" data-atom="act_3--scene_1" data-title="1 Henry IV — Act III, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="motif/blood,motif/cross,motif/crown,motif/fire,motif/home,motif/horse,motif/leaves,motif/lion,motif/love,motif/moon,motif/nature,motif/night,motif/river,motif/sleep,motif/summer,motif/time,motif/water,motif/well,motif/wheel,motif/wind,concept/beauty,concept/courage,concept/faith,concept/fear,concept/greatness,concept/hope,concept/nature,concept/pride,concept/self,concept/truth,setting/court,setting/mountains,character/bottom,character/earl_of_worcester,character/henry_bolingbroke,character/henry_iv,character/hotspur,character/queen,character/speed,character/sunday"></span>
@@ -1669,6 +2200,82 @@ The [[history|History]] of Henry the Fourth
 | MORTIMER | (rising) With all my heart.<br>The ladies rise, and all exeunt |
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entrano [[Hotspur]], il [[Earl of Worcester|Conte di Worcester]], Lord Mortimer e Owain Glyndŵr, con una mappa |
+| MORTIMER | Queste promesse son belle, le parti sicure,<br>e il nostro esordio pieno di prospera [[Hope|speranza]]. |
+| [[Hotspur|HOTSPUR]] | Lord Mortimer e cugino Glyndŵr,<br>volete sedervi? E voi, zio Worcester? |
+| *(didascalia)* | Mortimer, Glyndŵr e Worcester si siedono |
+| [[Hotspur|HOTSPUR]] | Peste lo colga, ho dimenticato la mappa!<br>GLYNDŴR<br>No, eccola qui. Siedi, cugino Percy, siedi,<br>buon cugino [[Hotspur]]; |
+| *(didascalia)* | [[Hotspur]] si siede |
+| [[Hotspur|HOTSPUR]] | Ché a quel nome,<br>ogni volta che Lancaster parla di voi,<br>la sua guancia impallidisce, e con un sospiro che sale<br>vi augura in cielo. |
+| [[Hotspur|HOTSPUR]] | E voi all’inferno,<br>ogni volta che ode nominare Owain Glyndŵr.<br>GLYNDŴR<br>Non posso biasimarlo. Alla mia nascita<br>la fronte del cielo era piena di forme di fuoco,<br>di fiaccole ardenti; e al mio nascere<br>l’ossatura e l’immensa fondamenta della terra<br>tremarono come un codardo. |
+| [[Hotspur|HOTSPUR]] | Diamine, avrebbe fatto lo stesso<br>nella stessa stagione se la gatta di vostra madre<br>avesse figliato, anche se voi non foste mai<br>nato.<br>GLYNDŴR<br>Dico che la terra tremò quando io nacqui. |
+| [[Hotspur|HOTSPUR]] | E io dico che la terra non era del mio parere<br>se supponete che tremasse per timore di voi.<br>GLYNDŴR<br>I cieli erano tutti in [[Fire|fiamme]], la terra tremò— |
+| [[Hotspur|HOTSPUR]] | Oh, la terra tremò allora nel vedere i cieli in [[Fire|fiamme]],<br>e non per [[Fear|paura]] della vostra nascita.<br>La [[Nature|natura]] malata spesso prorompe<br>in strane eruzioni; sovente la terra gravida<br>è da una specie di colica stretta e tormentata<br>per l’imprigionarsi d’un [[Wind|vento]] indocile |
+| *(didascalia)* | Dentro il suo grembo, il quale, lottando per liberarsi |
+| [[Hotspur|HOTSPUR]] | scuote la vecchia nonna terra, e abbatte<br>campanili e torri coperte di musco. Alla vostra nascita<br>la nostra avola terra, avendo questo malessere,<br>tremò per passione.<br>GLYNDŴR Cugino, da molti uomini<br>non sopporto queste contraddizioni. Datemi licenza<br>di dirvi ancora una volta che alla mia nascita<br>la fronte del cielo era piena di forme di fuoco,<br>le capre fuggirono dai [[Mountains|monti]], e le mandrie<br>stranamente muggirono ai campi atterriti.<br>Questi segni m’hanno segnato straordinario,<br>e tutti i corsi della mia vita mostrano<br>che non sono nel ruolo degli uomini comuni.<br>Dov’è colui che viva, cinto dal mare<br>che sgrida le rive d’Inghilterra, Scozia, Galles,<br>il quale mi chiami discepolo o m’abbia insegnato?<br>E producetemi quel figlio di donna<br>che sappia seguirmi per le tediose vie dell’arte,<br>e tenermi il passo in profondi esperimenti. |
+| *(didascalia)* | [[Hotspur|HOTSPUR]] in piedi |
+| [[Hotspur|HOTSPUR]] | Credo che nessuno parli miglior gallese.<br>Vado a pranzo. |
+| MORTIMER | Piano, cugino Percy, lo farete impazzire.<br>GLYNDŴR<br>Io posso chiamare spiriti dal vasto abisso. |
+| [[Hotspur|HOTSPUR]] | Diamine, posso anch’io, e può chiunque;<br>ma verranno quando li chiamate?<br>GLYNDŴR<br>Diamine, posso insegnarvi, cugino, a comandare il diavolo. |
+| [[Hotspur|HOTSPUR]] | E io posso insegnarti, cugino, a svergognare il diavolo,<br>dicendo la [[Truth|verità]]: ‘Di’ la [[Truth|verità]], e svergogna il diavolo’.<br>Se hai il potere d’evocarlo, portalo qua,<br>e giuro che ho il potere di svergognarlo via.<br>Oh, finché vivi, di’ la [[Truth|verità]] e svergogna il diavolo. |
+| MORTIMER | Su, su, basta con queste chiacchiere infruttuose.<br>GLYNDŴR<br>Tre volte [[Henry Bolingbroke]] ha levato il capo<br>contro la mia potenza; tre volte dalle rive del Wye<br>e della Severn dal fondo sabbioso l’ho rimandato<br>a [[Home|casa]] senza stivali, e battuto dal maltempo. |
+| [[Hotspur|HOTSPUR]] | A [[Home|casa]] senza stivali, e per giunta col maltempo!<br>Come scampa alle febbri, in nome del diavolo?<br>GLYNDŴR<br>Su, ecco la mappa. Vogliamo dividere il nostro diritto,<br>secondo il triplice ordine stabilito? |
+| MORTIMER | L’Arcidiacono l’ha divisa<br>in tre confini assai equamente.<br>L’Inghilterra dal Trent e dalla Severn fin qui<br>a mezzogiorno e a levante è assegnata alla mia parte;<br>tutto il Galles a ponente oltre la riva della Severn<br>e tutta la terra fertile entro quel confine—<br>a Owain Glyndwr; (a [[Hotspur]]) e, caro cugino, a voi<br>il resto che giace a settentrione a partire dal Trent.<br>E i nostri atti tripartiti sono stesi,<br>i quali, sigillati vicendevolmente—<br>faccenda che questa [[Night|notte]] può compiere—<br>domani, cugino Percy, voi ed io 80<br>e il mio buon lord di Worcester partiremo<br>per raggiungere vostro padre e le forze scozzesi,<br>come ci è stato assegnato, a Shrewsbury.<br>Mio suocero, Glyndŵr., non è ancora pronto,<br>né ci occorrerà il suo aiuto per questi quattordici giorni. |
+| *(didascalia)* | In quello spazio potrete aver radunato |
+| MORTIMER | i vostri fittavoli, amici e gentiluomini vicini.<br>GLYNDŴR<br>Un [[Time|tempo]] più breve mi manderà a voi, signori;<br>e sotto la mia scorta verranno le vostre dame,<br>dalle quali ora dovete sgusciare senza prender congedo;<br>ché sarà versato un mondo d’[[Water|acqua]] 91<br>al separarsi delle vostre mogli da voi. |
+| [[Hotspur|HOTSPUR]] | Mi pare che la mia porzione a nord da Burton in qua<br>non eguagli in quantità nessuna delle vostre.<br>Vedete come questo [[River|fiume]] mi s’incunea dentro,<br>e mi taglia via dal meglio di tutta la mia terra<br>un’enorme mezza[[Moon|luna]], un mostruoso quarto.<br>Farò arginare la corrente in questo punto,<br>e qui il lindo e argenteo Trent scorrerà<br>in un nuovo canale bello e diritto.<br>Non [[Wind|serpeggerà]] con un’ansa così profonda,<br>a rubarmi qui un [[Bottom|fondo]] così ricco.<br>GLYNDŴR<br>Non [[Wind|serpeggiare]]? Lo farà, lo deve; vedete che lo fa. |
+| MORTIMER | Sì, ma badate come porta il suo corso, e mi risale<br>in su<br>con pari vantaggio dall’altra parte,<br>castrando la sponda opposta altrettanto<br>quanto dall’altro lato toglie a voi. |
+| WORCESTER | Sì, ma una piccola spesa lo scaverà qui,<br>e su questo lato nord guadagnerà questo capo di terra,<br>e allora correrà dritto e uguale. no |
+| [[Hotspur|HOTSPUR]] | Voglio che sia così; una piccola spesa basterà.<br>GLYNDŴR Non voglio che sia alterato. |
+| [[Hotspur|HOTSPUR]] | Non volete?<br>GLYNDŴR No, né voi lo farete. |
+| [[Hotspur|HOTSPUR]] | Chi mi dirà di no? 115<br>GLYNDŴR Diamine, lo dirò io. |
+| [[Hotspur|HOTSPUR]] | Fate ch’io non vi capisca, allora: ditelo in gallese.<br>GLYNDŴR<br>So parlare inglese, signore, tanto [[Well|bene]] quanto voi;<br>ché fui allevato alla [[Court|corte]] inglese,<br>dove, ancor giovane, composi per l’arpa<br>più d’una canzone inglese assai [[Well|bene]],<br>e diedi alla lingua un ornamento giovevole—<br>virtù che mai si vide in voi. |
+| [[Hotspur|HOTSPUR]] | Perbacco, e me ne rallegro con tutto il cuore.<br>Preferirei essere un gattino e gridare ‘miao’<br>che uno di questi mercanti di ballate a metro.<br>Preferirei udire un candeliere d’ottone al tornio,<br>o una [[Wheel|ruota]] secca stridere sull’asse,<br>e ciò non mi allegherebbe punto i denti,<br>nulla quanto la poesia lezionosa.<br>È come l’andatura forzata d’una rozza strascicante.<br>GLYNDŴR Su, avrete il Trent deviato. |
+| [[Hotspur|HOTSPUR]] | Non m’importa. Darò tre volte tanta terra<br>a qualsiasi amico [[Well|ben]] meritevole;<br>ma in fatto di contratto—badatemi—135<br>cavillerò sulla nona parte d’un capello.<br>Sono stesi gli atti? Possiamo andare?<br>GLYNDŴR<br>La [[Moon|luna]] splende chiara. Potete partire di [[Night|notte]].<br>Affretterò lo scrivano, e insieme<br>parlerò alle vostre mogli della vostra partenza.<br>Temo che mia figlia impazzisca,<br>tanto stravede per il suo Mortimer. Esce |
+| MORTIMER | Vergogna, cugino Percy, come [[Cross|contrariate]] mio suocero! |
+| [[Hotspur|HOTSPUR]] | Non posso farne a meno. Talvolta m’irrita<br>parlandomi della talpa e della formica,<br>del sognatore Merlino e delle sue profezie,<br>e d’un drago e d’un pesce senza pinne,<br>d’un grifone dalle ali mozze e d’un corvo spennato,<br>d’un [[Lion|leone]] accovacciato e d’un gatto rampante,<br>e di tanta roba scombiccherata 150<br>da farmi uscire dalla mia [[Faith|fede]]. Vi dico una cosa:<br>ieri [[Night|notte]] mi trattenne almeno nove ore<br>a snocciolare i nomi dei vari diavoli<br>che erano suoi lacchè. Io gridavo ‘Uhm!’ e ‘[[Well|Ebbene]],<br>avanti!’,<br>ma non gli badavo una parola. Oh, è tedioso<br>quanto un [[Horse|cavallo]] stanco, quanto una moglie brontolona,<br>peggio d’una [[house|casa]] affumicata. Preferirei vivere<br>con [[cheese|formaggio]] e aglio, in un mulino a vento, lontano,<br>che nutrirmi di leccornie e averlo a parlarmi<br>in qualsiasi [[house|casa]] d’[[Summer|estate]] della cristianità. 160 |
+| MORTIMER | In [[Faith|fede]], è un degno gentiluomo,<br>straordinariamente [[Well|ben]] letto, e versato<br>in strani segreti, valoroso come un [[Lion|leone]],<br>e mirabilmente affabile, e generoso<br>quanto le miniere dell’India. Volete che vi dica, cugino? 165<br>Tiene il vostro carattere in alto rispetto,<br>e frena persino il suo naturale impeto<br>quando gli andate di [[Cross|traverso]] all’[[Humour|umore]]; in [[Faith|fede]], lo fa.<br>Vi garantisco che non vive uomo<br>che l’avrebbe così tentato come voi avete fatto<br>senza assaggiare pericolo e rimprovero.<br>Ma non usatene spesso, ve ne prego. |
+| WORCESTER | (a [[Hotspur]])<br>In [[Faith|fede]], mio signore, siete troppo caparbiamente in colpa,<br>e dal vostro arrivo qui avete fatto abbastanza<br>da metterlo del tutto fuori di pazienza.<br>Dovete pur imparare, signore, a emendare questo difetto.<br>Benché talvolta mostri [[Greatness|grandezza]], [[Courage|coraggio]], [[Blood|sangue]]—<br>e questa è la grazia più cara che vi rende—<br>pure sovente presenta rabbia aspra,<br>difetto di maniere, mancanza di [[government|governo]],<br>[[Pride|orgoglio]], alterigia, presunzione e disdegno,<br>il minimo dei quali, albergando in un nobiluomo,<br>perde i cuori degli uomini, e [[Leaves|lascia]] dietro una macchia<br>sulla [[Beauty|bellezza]] di tutte le altre qualità,<br>defraudandole della lode. 185 |
+| [[Hotspur|HOTSPUR]] | [[Well|Ebbene]], sono ammaestrato. Le buone maniere siano la vostra [[Speed|fortuna]]! |
+| *(didascalia)* | Entra Glyndŵr con Lady Percy e la moglie di Mortimer |
+| [[Hotspur|HOTSPUR]] | Ecco che vengono le nostre mogli, e prendiamo congedo. |
+| *(didascalia)* | La moglie di Mortimer piange, e gli parla in gallese |
+| MORTIMER | Questa è la mortale sventura che m’irrita:<br>mia moglie non sa l’inglese, io non il gallese.<br>GLYNDŴR<br>Mia figlia piange perché non vuol separarsi da voi.<br>Vuol farsi anche lei soldato; vuole andare alla guerra. |
+| MORTIMER | Buon padre, ditele che lei e mia zia Percy<br>seguiranno prontamente sotto la vostra scorta.<br>Glyndŵr le parla in gallese, e lei gli risponde nella stessa lingua |
+| GLYNDWR | È disperata qui, una petulante sgualdrinella tutta [[Self|sé]] e volontà,<br>una su cui nessuna [[Persuasion|persuasione]] può nulla. 195<br>La dama parla in gallese |
+| MORTIMER | Comprendo i tuoi sguardi. Quel bel gallese<br>che tu riversi da questi rigonfi<br>cieli<br>lo so troppo bene, e se non fosse la vergogna<br>in tale colloquio ti risponderei.<br>La dama lo bacia, e parla di nuovo in gallese |
+| MORTIMER | Comprendo i tuoi baci, e tu i miei,<br>e questa è una disputa che si sente;<br>ma non sarò mai svogliato, [[Love|amore]],<br>finché non avrò appreso la tua lingua, ché la tua favella<br>rende il gallese dolce quanto canzoni finemente scritte,<br>cantate da una bella [[Queen|regina]] in un pergolato d’[[Summer|estate]]<br>con rapinose variazioni, sul suo liuto.<br>GLYNDŴR<br>No, se v’intenerite, allora impazzirà.<br>La dama |
+| *(didascalia)* | siede sui giunchi e parla di nuovo in gallese |
+| MORTIMER | Oh, in questo io sono l’ignoranza stessa!<br>GLYNDŴR<br>V’invita a stendervi sui molli giunchi<br>e a posare il vostro gentile capo sul suo grembo,<br>ed ella canterà il [[Song|canto]] che vi piace,<br>e sulle vostre palpebre [[Crown|incoronerà]] il dio del [[Sleep|sonno]],<br>incantando il vostro [[Blood|sangue]] con piacevole gravezza,<br>facendo tra la veglia e il [[Sleep|sonno]] tale differenza<br>quale è la differenza fra il giorno e la [[Night|notte]] 215<br>nell’ora prima che la celeste pariglia aggiogata<br>cominci il suo aureo cammino a levante. |
+| MORTIMER | Con tutto il cuore, siederò e l’ascolterò cantare.<br>Per quel [[Time|tempo]] il nostro atto, credo, sarà steso. |
+| *(didascalia)* | Si siede, posando il capo sul grembo della dama gallese |
+| YNDWR | Fatelo, e quei musici che suoneranno per voi<br>stanno sospesi nell’aria a mille leghe di qui,<br>e subito saranno qui. Sedete e attendete. |
+| [[Hotspur|HOTSPUR]] | Su, Kate, tu sei perfetta nello sdraiarti.<br>Su, presto, presto, ch’io possa posarti il capo in grembo. |
+| LADY PERCY | (sedendosi) Va’ là, oca svanita!<br>[[Hotspur]] si siede, posando il capo sul grembo di Lady Percy. Suona la musica |
+| [[Hotspur|HOTSPUR]] | Ora m’avvedo che il diavolo capisce il gallese;<br>e non è meraviglia, è così capriccioso.<br>Per la Madonna, è un buon musicista. |
+| LADY PERCY | Allora dovreste essere null’altro che musicale,<br>ché siete governato interamente dagli umori.<br>Sta’ fermo, ladro, e ascolta la dama cantare in gallese. |
+| [[Hotspur|HOTSPUR]] | Preferirei udire Lady, la mia cagna, ululare in irlandese. |
+| LADY PERCY | Vorresti avere la testa rotta? |
+| [[Hotspur|HOTSPUR]] | No. |
+| LADY PERCY | Allora sta’ fermo. 235 |
+| [[Hotspur|HOTSPUR]] | Nemmeno—è difetto da donna. |
+| LADY PERCY | Ora Dio t’aiuti! |
+| [[Hotspur|HOTSPUR]] | Al letto della dama gallese. |
+| LADY PERCY | Che cos’è? |
+| [[Hotspur|HOTSPUR]] | Zitta; canta.<br>Qui la dama canta un [[Song|canto]] gallese |
+| [[Hotspur|HOTSPUR]] | Su, Kate, voglio anche il vostro [[Song|canto]]. |
+| LADY PERCY | Non il mio, in buona fede. |
+| [[Hotspur|HOTSPUR]] | Non il vostro, in buona fede! Cuore mio, giurate come la moglie d’un confettiere: ‘Non voi, in buona fede!’ e ‘Com’è vero che vivo!’ e 245 ‘Così Dio m’assista!’ e ‘Sicuro come il giorno!’; e date ai vostri giuramenti una garanzia di zendado come se non camminaste mai più in là di Finsbury. Giuratemi, Kate, da dama quale siete, un buon giuramento che riempia la bocca, e lasciate ‘in fede’ 250 e simili proteste da pan di zenzero pepato ai guardaroba di velluto e ai cittadini della [[Sunday|domenica]]. Su, cantate. |
+| LADY PERCY | Non canterò. |
+| [[Hotspur|HOTSPUR]] | È la via più breve per farsi sarto, o maestro di pettirossi. (Alzandosi) Se gli atti sono stesi, me ne andrò entro due ore; e così venite quando volete. |
+| *(didascalia)* | Esce |
+| [[Hotspur|HOTSPUR]] | GLYNDŴR<br>Su, su, Lord Mortimer. Siete tanto lento<br>quanto l’ardente Lord Percy è in [[Fire|fuoco]] di partire.<br>A quest’ora il nostro atto è steso. Non resta che sigillare, 260<br>e poi subito a [[Horse|cavallo]]. |
+| MORTIMER | (alzandosi) Con tutto il cuore.<br>Le dame si alzano, ed escono tutti |
+
 
 
 <span class="atom-split" data-atom="act_3--scene_2" data-title="1 Henry IV — Act III, Scene 2" data-chapter="Scene 2" data-kind="scene" data-tags="archetype/child,archetype/king,archetype/shadow,motif/blood,motif/crown,motif/lion,motif/soul,motif/time,motif/well,concept/fear,concept/greatness,concept/honour,concept/hope,concept/humility,concept/wonder,setting/court,character/christ,character/henry_iv,character/hotspur,character/richard,character/speed"></span>
@@ -1691,6 +2298,25 @@ The [[history|History]] of Henry the Fourth
 | BLUNT | So hath the business that I come to speak of.<br>Lord Mortimer of Scotland hath sent word<br>That Douglas and the English rebels met<br>The eleventh of this month at Shrewsbury.<br>A mighty and a fearful head they are,<br>If promises be kept on every hand,<br>As ever offered foul play in a state. |
 | [[King\|KING]] HENRY | The Earl of Westmorland set forth today,<br>With him my son Lord John of Lancaster,<br>For this advertisement is five days old.<br>On Wednesday next, Harry, you shall set forward.<br>On [[thursday\|Thursday]] we ourselves will march.<br>Our meeting is Bridgnorth, and, Harry, you<br>Shall march through Gloucestershire, by which<br>account,<br>Our business valued, some twelve days hence<br>Our general forces at Bridgnorth shall meet.<br>Our hands are full of business; let’s away.<br>Advantage feeds him fat while men delay. Exeunt |
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entrano [[King|Re]] Enrico, il Principe Harry e i lord |
+| [[King|RE]] ENRICO | Signori, lasciateci—il Principe di Galles ed io<br>dobbiamo aver privato colloquio—ma restate a<br>portata,<br>ché fra poco avremo bisogno di voi. |
+| *(didascalia)* | Escono i Lord |
+| [[King|RE]] ENRICO | Non so se Dio voglia che sia così<br>per qualche servigio sgradito che ho reso,<br>sì che nel suo segreto giudizio dal mio [[Blood|sangue]]<br>generi vendetta e flagello per me;<br>ma tu, nei passaggi della tua vita,<br>mi fai credere che tu sia designato soltanto<br>all’ardente vendetta e alla verga del cielo<br>per punire i miei passi falsi. Dimmi altrimenti:<br>potrebbero desideri così smodati e bassi,<br>tentativi così poveri, così nudi, così osceni, così vili,<br>piaceri così sterili, compagnia così rozza,<br>quali son quelli cui sei accoppiato e innestato, 15<br>accompagnare la [[Greatness|grandezza]] del tuo [[Blood|sangue]],<br>e tenersi al livello del tuo cuore principesco? |
+| PRINCIPE HARRY | Se piace a vostra maestà, vorrei poter<br>scagionarmi d’ogni offesa con scusa così chiara<br>come [[Well|bene]] son certo di potermi purgare<br>di molte di cui sono accusato;<br>pure lasciate ch’io implori tale attenuazione<br>che, nel confutare molte storie inventate—<br>che spesso l’orecchio della [[Greatness|grandezza]] deve udire<br>da sorridenti adulatori e vili spacciatori di novelle—<br>io possa, per alcune cose vere in cui la mia giovinezza<br>ha errato in fallo e fuor di regola,<br>trovare perdono sulla mia sincera sottomissione. |
+| [[King|RE]] ENRICO | Dio ti perdoni! Pure lasciami [[Wonder|stupire]], Harry,<br>delle tue inclinazioni, che tengono un volo<br>tutto diverso da quello di tutti i tuoi antenati.<br>Il tuo posto in Consiglio l’hai rozzamente perduto—<br>e vi supplisce il tuo fratello minore—<br>e sei quasi estraneo ai cuori<br>di tutta la [[Court|corte]] e dei principi del mio [[Blood|sangue]].<br>La [[Hope|speranza]] e l’aspettativa del tuo [[Time|tempo]]<br>sono rovinate, e l’[[Soul|anima]] d’ogni uomo<br>profeticamente pregusta la tua caduta.<br>Se io fossi stato così prodigo della mia presenza,<br>così comune e trito agli occhi degli uomini,<br>così stantio e a buon mercato per la volgare compagnia,<br>l’opinione, che mi aiutò a ottenere la [[Crown|corona]],<br>sarebbe rimasta fedele al possessore,<br>e m’avrebbe lasciato in un esilio senza fama,<br>uomo di nessun segno né promessa.<br>Essendo visto di rado, non potevo muovermi<br>senza che, come una cometa, ci si stupisse di me,<br>sì che gli uomini dicevano ai figli: ‘Questi è lui.’<br>Altri dicevano: ‘Dove, quale è Bolingbroke?’<br>E allora rubai al cielo ogni cortesia,<br>e mi vestii di tale [[Humility|umiltà]]<br>che colsi la fedeltà dai cuori degli uomini,<br>alte grida e saluti dalle loro bocche,<br>persino alla presenza del [[King|Re]] incoronato.<br>Così mantenni la mia persona fresca e nuova,<br>la mia presenza come veste pontificale—<br>mai vista senza destar meraviglia—e così il mio stato,<br>raro ma sontuoso, appariva come una festa,<br>e guadagnava per rarità tale solennità.<br>Il [[King|Re]] saltellante, egli andava su e giù 60<br>con buffoni superficiali e ingegni di fascina,<br>presto accesi e presto arsi, sciupò il suo stato,<br>mescolò la sua regalità con folli danzanti,<br>lasciò profanare il suo gran nome dai loro scherni,<br>e prestò il suo volto, contro il suo nome,<br>a ridere con ragazzi beffardi, e a sopportare l’urto<br>d’ogni imberbe e vano paragonatore;<br>divenne compagno delle strade comuni,<br>s’infeudò alla popolarità,<br>sì che, essendo ogni giorno ingoiato dagli occhi degli uomini,<br>essi si saziarono di miele, e cominciarono<br>a detestare il sapore della dolcezza, di cui un poco<br>più che un poco è di molto troppo.<br>Così, quando ebbe occasione d’esser visto,<br>non fu che come il cuculo in giugno,<br>udito, non considerato, visto ma con quegli occhi<br>che, malati e ottusi per la troppa dimestichezza,<br>non concedono quello sguardo straordinario<br>che si volge alla maestà simile al sole<br>quando splende di rado in occhi ammirati,<br>ma piuttosto s’assonnarono e abbassarono le palpebre,<br>dormirono in faccia a lui, e resero quell’aspetto<br>che gli uomini nuvolosi usano ai loro avversari,<br>essendo della sua presenza sazi, ingozzati e pieni.<br>E in quella stessa linea, Harry, stai tu; 85<br>ché hai perduto il tuo privilegio principesco<br>con vile frequentazione. Non c’è occhio<br>che non sia stanco della tua vista comune,<br>salvo il mio, che ha desiderato vederti di più,<br>e che ora fa ciò che non vorrei facesse—<br>accecarsi di sciocca tenerezza.<br>Piange |
+| PRINCIPE HARRY | Sarò d’ora innanzi, mio tre volte grazioso signore,<br>più me stesso. |
+| [[King|RE]] ENRICO | In tutto e per tutto,<br>quale tu sei a quest’ora, tale era allora [[Richard|Riccardo]],<br>quando dalla Francia posi piede a Ravenspurgh,<br>e proprio quale ero io allora è ora Percy.<br>Ora, per il mio scettro, e per la mia [[Soul|anima]] in più,<br>egli ha più degno diritto allo stato<br>di te, [[Shadow|ombra]] della successione;<br>ché, senza diritto né parvenza di diritto,<br>riempie i campi d’armature nel regno,<br>volge la testa contro le fauci armate del [[Lion|leone]],<br>e, non essendo più debitore d’anni di te,<br>conduce antichi lord e reverendi vescovi<br>a battaglie sanguinose e ad armi che pestano. 105<br>Quale [[Honour|onore]] immortale ha egli acquistato<br>contro il rinomato Douglas !—le cui alte imprese,<br>le cui ardenti incursioni e il gran nome nelle armi,<br>gli danno fra tutti i soldati il primato<br>e il titolo militare capitale<br>per tutti i regni che riconoscono [[Christ|Cristo]].<br>Tre volte questo [[Hotspur]], Marte in fasce,<br>questo guerriero bambino, nelle sue imprese<br>ha sconfitto il grande Douglas; l’ha preso una volta;<br>l’ha liberato; e se n’è fatto amico 115<br>per riempire la bocca d’una profonda sfida,<br>e scuotere la pace e la sicurezza del nostro trono.<br>E che dici tu a questo ? Percy, Northumberland,<br>sua grazia l’Arcivescovo di York, Douglas, Mortimer,<br>pattuiscono contro di noi, e sono in armi.<br>Ma perché ti do io queste notizie ?<br>Perché, Harry, ti parlo dei miei nemici,<br>tu che sei il mio più prossimo e più caro nemico ?—<br>tu che sei ben capace, per [[Fear|paura]] servile,<br>vile inclinazione e scatto di bile,<br>di combattere contro di me al soldo di Percy,<br>di seguirlo alle calcagna, e inchinarti ai suoi cipigli,<br>per mostrare quanto sei degenere. |
+| PRINCIPE HARRY | Non pensate così; non lo troverete così.<br>E Dio perdoni coloro che tanto hanno sviato<br>i buoni pensieri di vostra maestà da me.<br>Riscatterò tutto questo sul capo di Percy,<br>e alla chiusa di qualche glorioso giorno<br>oserò dirvi che sono vostro figlio;<br>quando indosserò una veste tutta di [[Blood|sangue]],<br>e macchierò le mie insegne in una maschera sanguinosa,<br>la quale, lavata via, ne raschierà con sé la mia vergogna.<br>E quello sarà il giorno, quando che spunti,<br>in cui questo stesso [[Child|figlio]] dell’[[Honour|onore]] e della fama,<br>questo gagliardo [[Hotspur]], questo cavaliere da tutti lodato,<br>e il vostro non curato Harry si troveranno a incontrarsi.<br>Ché ogni [[Honour|onore]] posato sul suo elmo,<br>vorrei che fossero moltitudini, e sul mio capo<br>le mie vergogne raddoppiate; ché verrà il [[Time|tempo]]<br>in cui farò sì che questo giovane del nord baratti<br>le sue gloriose imprese con le mie indegnità.<br>Percy non è che il mio fattore, mio buon signore,<br>per accumulare gloriose imprese per mio conto;<br>e lo chiamerò a un conto così stretto<br>che dovrà rendere ogni gloria, 150<br>sì, fin la più lieve stima del suo [[Time|tempo]],<br>o gli strapperò il conto dal cuore.<br>Questo, nel nome di Dio, prometto qui,<br>e se a Lui piacerà ch’io lo compia,<br>supplico vostra maestà di voler sanare<br>le antiche piaghe della mia intemperanza;<br>se no, la fine della vita cancella ogni obbligo,<br>e morirò centomila morti<br>prima di rompere la minima parte di questo voto. |
+| [[King|RE]] ENRICO | Centomila ribelli muoiono in questo.<br>Avrai comando e sovrana fiducia in ciò. |
+| *(didascalia)* | Entra Sir Walter Blunt |
+| [[King|RE]] ENRICO | Ebbene, buon Blunt ? I tuoi sguardi son pieni di [[Speed|fretta]]. |
+| BLUNT | E tale è l’affare di cui vengo a parlare.<br>Lord Mortimer di Scozia ha mandato a dire<br>che Douglas e i ribelli inglesi s’incontrarono<br>l’undici di questo mese a Shrewsbury.<br>Sono una schiera potente e terribile,<br>se le promesse son mantenute da ogni parte,<br>quanto mai ne minacciò tradimento in uno stato. |
+| [[King|RE]] ENRICO | Il Conte di Westmorland è partito oggi,<br>con lui mio figlio Lord John di Lancaster,<br>ché questo avviso è vecchio di cinque giorni.<br>Mercoledì prossimo, Harry, tu partirai.<br>[[thursday|Giovedì]] marceremo noi stessi.<br>Il nostro convegno è Bridgnorth, e tu, Harry,<br>marcerai per il Gloucestershire, secondo il qual<br>conto,<br>valutati i nostri affari, fra una dozzina di giorni<br>le nostre forze generali s’incontreranno a Bridgnorth.<br>Le nostre mani son piene d’affari; andiamo.<br>Il vantaggio s’ingrassa mentre gli uomini indugiano. Escono |
 
 
 
@@ -1781,6 +2407,91 @@ The [[history|History]] of Henry the Fourth
 | SIR JOHN | Rare words I Brave world! (Calling) Hostess, my<br>breakfast, come!—<br>O, I could wish this tavern were my drum! Exit |
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entra Sir John Oldcastle |
+| *(didascalia)* | Con un randello alla cintura, e Russell |
+| SIR JOHN | Russell, non sono sciaguratamente dimagrito dopo quest’ultima impresa? Non calo? Non mi consumo? Diamine, la pelle mi pende addosso come la veste larga d’una vecchia dama. Sono avvizzito come una vecchia mela rugosa. [[Well|Ebbene]], mi pentirò, e presto, finché sono ancora in carne. Sarò senza cuore fra poco, e allora non avrò forza di pentirmi. Se non ho dimenticato di che è fatto l’interno d’una chiesa, sono un grano di pepe, un [[Horse|cavallo]] da birraio—l’interno d’una chiesa! La compagnia, la scellerata compagnia, è stata la mia rovina. 10 |
+| RUSSELL | Sir John, siete così stizzoso che non potete vivere a lungo. |
+| SIR JOHN | Diamine, sta proprio lì. Su, cantami una [[Song|canzone]] sconcia, rallegrami. Ero virtuosamente disposto quanto un gentiluomo dev’essere: virtuoso abbastanza; bestemmiavo poco; giocavo ai dadi non più di sette volte la settimana; andavo in una [[house|casa]] di piacere non più d’una volta al quarto—d’ora; pagavo il denaro che prendevo in prestito—tre o quattro volte; vivevo [[Well|bene]], e in buona misura. E ora vivo fuor d’ogni ordine, fuor d’ogni misura. |
+| RUSSELL | Diamine, siete così grasso, Sir John, che dovete per forza essere fuor d’ogni misura, fuor d’ogni ragionevole misura, Sir John. |
+| SIR JOHN | Emenda tu la tua faccia, e io emenderò la mia vita. Tu sei il nostro ammiraglio, tu porti la lanterna a poppa—ma è nel tuo naso. Tu sei il Cavaliere della Lampada Ardente. |
+| RUSSELL | Diamine, Sir John, la mia faccia non vi fa alcun male. |
+| SIR JOHN | No, lo giuro; ne faccio buon uso quanto molti fanno d’un teschio di [[Death|morte]], o d’un [[Memento Mori|memento mori]]. Non vedo mai la tua faccia senza pensare al [[Fire|fuoco]] dell’inferno e a Epulone che vestiva di porpora—ché eccolo là nelle sue vesti, che brucia, che brucia. Se tu fossi in qualche modo dato alla virtù, giurerei sulla tua faccia; il mio giuramento sarebbe ‘Per questo [[Fire|fuoco]] che è l’angelo di Dio!’ Ma tu sei del tutto perduto, e saresti davvero, se non fosse per la luce nella tua faccia, il figlio delle tenebre più fitte. Quando corresti su per Gads [[Hill]] nella [[Night|notte]] a prendere il mio [[Horse|cavallo]], se non pensai che tu fossi un ignis fatuus o una palla di fuoco greco, non c’è più acquisto nel denaro. Oh, tu sei un trionfo perpetuo, un eterno lume di falò! Mi hai risparmiato mille marchi in fiaccole e torce, camminando con te nella [[Night|notte]] da taverna a taverna—ma il sack che m’hai bevuto m’avrebbe comprato lumi altrettanto a buon mercato dal più caro candelaio d’Europa. Ho mantenuto quella tua salamandra con [[Fire|fuoco]] in ogni [[Time|tempo]] in questi trentadue anni, Dio me ne renda merito. |
+| RUSSELL | Sangue di Dio, vorrei che la mia faccia fosse nel vostro ventre! |
+| SIR JOHN | Dio abbia [[Mercy|mercé]]! ! Così sarei sicuro d’avere il bruciore di stomaco. |
+| *(didascalia)* | Entra l’Ostessa |
+| SIR JOHN | Ebbene, Donna Partlet la gallina, avete già indagato<br>chi mi vuotò la tasca? |
+| OSTESSA | Diamine, Sir John, che credete, Sir John? Credete che io tenga ladri nella mia [[house|casa]] ? Ho cercato, ho indagato; e così mio marito, uomo per uomo, ragazzo per ragazzo, servo per servo. La decima parte d’un capello non s’era mai perduta prima nella mia [[house|casa]]. |
+| SIR JOHN | Mentite, Ostessa: Russell fu raso e perdette molti capelli, e giuro che la mia tasca fu vuotata. Suvvia, siete una donna, andate. 60 |
+| OSTESSA | Chi, io? No, vi sfido! Luce di Dio, non fui mai chiamata così prima nella mia propria [[house|casa]]. |
+| SIR JOHN | Suvvia, vi conosco [[Well|bene]] abbastanza. |
+| OSTESSA | No, Sir John, voi non conoscete me, Sir John; io conosco voi, Sir John. Mi dovete denaro, Sir John, e ora attaccate lite per gabbarmene. Vi comprai una dozzina di camicie per la schiena. |
+| SIR JOHN | Tela grossa, sudicia tela grossa. Le ho regalate alle mogli dei fornai; ne hanno fatto stacci. |
+| OSTESSA | Ora, com’è vero che sono una donna onesta, tela d’Olanda da otto scellini l’auna. Dovete denaro qui, per giunta, Sir John: per il vitto, e le bevute fuori pasto, e denaro prestatovi, ventiquattro sterline. |
+| SIR JOHN | (indicando Russell) Lui n’ebbe la sua parte. Che paghi lui. |
+| OSTESSA | Lui? Ahimè, è povero; non ha nulla. |
+| SIR JOHN | Come, povero? Guardategli la faccia. Che chiamate ricco? Che coniino il suo naso, che coniino le sue guance, io non pagherò un denaro. Come, volete farmi passare per un novellino ? Non potrò starmene comodo alla mia locanda senza che mi vuotino la tasca? Ho perduto un anello da sigillo di mio nonno che valeva quaranta marchi. |
+| OSTESSA | Oh Gesù, (a Russell) ho sentito il Principe dirgli, non so quante volte, che quell’anello era di rame. |
+| *(didascalia)* | SIR JOHN Come ? Il Principe è un fantoccio, un piagnucolone. Alzando il randello Sangue di Dio, se fosse qui lo bastonerei come un cane se dicesse questo. |
+| *(didascalia)* | Entrano il Principe Harry e Harvey, marciando; e Sir John Oldcastle va loro incontro, suonando sul suo randello come su un piffero |
+| OSTESSA | Ebbene, ragazzo, il [[Wind|vento]] è a quella porta, in [[Faith|fede]] mia? Dobbiamo<br>marciare tutti? |
+| RUSSELL | Sì, a due a due, alla maniera di Newgate. |
+| OSTESSA | Mio signore, vi prego, ascoltatemi. |
+| PRINCIPE HARRY | Che dici, [[Mistress Quickly]]? Come sta tuo<br>marito?<br>Lo [[Love|amo]] [[Well|bene]]; è un uomo onesto. |
+| OSTESSA | Mio buon signore, ascoltatemi!! |
+| SIR JOHN | Ti prego, lasciala [[Alone|stare]], e ascolta me. |
+| PRINCIPE HARRY | Che dici, Jack? |
+| SIR JOHN | L’altra [[Night|notte]] mi addormentai qui dietro l’arazzo, e mi vuotarono la tasca. Questa [[house|casa]] s’è fatta [[house|casa]] di piacere: vuotano le tasche. |
+| PRINCIPE HARRY | Che perdesti, Jack? 100 |
+| SIR JOHN | Mi crederai, Hal, tre o quattro obbligazioni da quaranta sterline l’una, e un anello da sigillo di mio nonno. |
+| PRINCIPE HARRY | Un’inezia, roba da otto penny. |
+| OSTESSA | Così gli dissi, mio signore; e dissi che avevo sentito vostra grazia dirlo; e, mio signore, egli parla di voi in modo vilissimo, da uomo di bocca sudicia qual è, e disse che vi avrebbe bastonato. 108 |
+| PRINCIPE HARRY | Come? Non l’ha detto ! |
+| OSTESSA | Non ci sia in me né [[Faith|fede]], né [[Truth|verità]], né femminilità, altrimenti. |
+| SIR JOHN | Non c’è più [[Faith|fede]] in te che in una prugna cotta, né più [[Truth|verità]] in te che in una volpe stanata; e, quanto a femminilità, Marion la Vergine può essere la moglie del vicario del quartiere al tuo confronto. Va’, cosa, va’! |
+| OSTESSA | Dite, che cosa, che cosa? |
+| SIR JOHN | Che cosa? Diamine, una cosa per cui ringraziare Dio. |
+| OSTESSA | Io non sono una cosa per cui ringraziare Dio. Voglio che lo sappiate, sono moglie d’un uomo onesto; e, messo da parte il vostro cavalierato, siete un manigoldo a chiamarmi così. |
+| SIR JOHN | Messa da parte la tua femminilità, sei una bestia a dire altrimenti. |
+| OSTESSA | Dite, che bestia, manigoldo?<br>sIR JOHN Che bestia? Diamine, una lontra. |
+| PRINCIPE HARRY | Una lontra, Sir John? Perché una lontra? |
+| SIR JOHN | Perché? Non è né pesce né carne; un uomo non sa da che parte prenderla. |
+| OSTESSA | Siete un uomo ingiusto a dir così. Voi o chiunque sapete bene da che parte prendermi, manigoldo che siete. |
+| PRINCIPE HARRY | Dici il vero, Ostessa, e lui ti calunnia assai grossolanamente. |
+| OSTESSA | E così fa con voi, mio signore, e disse l’altro giorno che gli dovevate mille sterline. |
+| PRINCIPE HARRY | (a Sir John) Messere, ti devo io mille sterline? |
+| SIR JOHN | Mille sterline, Hal? Un milione! Il tuo [[Love|amore]] vale un milione; tu mi devi il tuo [[Love|amore]]. |
+| OSTESSA | No, mio signore, vi chiamò ‘fantoccio’ e disse che vi avrebbe bastonato. |
+| SIR JOHN | L’ho detto, Russell? |
+| RUSSELL | Davvero, Sir John, l’avete detto. |
+| SIR JOHN | Sì, se dicesse che il mio anello era di rame. |
+| PRINCIPE HARRY | Io dico che è di rame; osi tu ora tener fede alla tua parola? |
+| SIR JOHN | Diamine, Hal, tu sai che, in quanto sei uomo, oso; ma in quanto sei principe, ti [[Fear|temo]] come [[Fear|temo]] il ruggito del cucciolo del [[Lion|leone]]. |
+| PRINCIPE HARRY | E perché non come il [[Lion|leone]]? |
+| SIR JOHN | Il [[King|Re]] stesso è da temersi come il [[Lion|leone]]. Credi tu che ti [[Fear|tema]] come [[Fear|temo]] tuo padre? No, e se lo faccio, prego Dio che mi si spezzi la cintura. |
+| PRINCIPE HARRY | Oh, se si spezzasse, come ti cadrebbero le budella intorno alle ginocchia! Ma, messere, non c’è posto per [[Faith|fede]], [[Truth|verità]] o onestà in codesto tuo petto; è tutto riempito di budella e diaframma. Accusare una donna onesta d’averti vuotato la tasca? Diamine, tu, impudente e gonfio furfante figlio di puttana, se ci fosse stato nella tua tasca qualcosa oltre a conti di taverna, promemoria di case di piacere, e un povero soldo di zucchero candito per darti fiato-se la tua tasca fosse stata arricchita d’altre offese che queste, io sono un [[Villain|furfante]]. E tuttavia insisti, non vuoi intascare il torto. Non ti vergogni? |
+| SIR JOHN | Mi senti, Hal? Tu sai che nello stato d’innocenza Adamo cadde, e che dovrebbe fare il povero Jack Oldcastle nei giorni della scelleratezza? Vedi che ho più carne d’un altro uomo, e perciò più fragilità. Confessate, dunque, che m’avete vuotato la tasca voi. |
+| PRINCIPE HARRY | Così pare dal racconto. |
+| SIR JOHN | Ostessa, ti perdono. Va’ a preparare la colazione. [[Love|Ama]] tuo marito, bada ai tuoi servi, tratta bene i tuoi ospiti. Mi troverai arrendevole a qualsiasi ragione onesta; vedi che sono placato ormai. Su, ti prego, vattene. Esce l’Ostessa Ora, Hal, alle notizie di [[Court|corte]]. Quanto alla rapina, ragazzo, com’è stata sistemata? |
+| PRINCIPE HARRY | Oh, mio dolce manzo, devo essere ancora il tuo angelo buono. Il denaro è stato restituito. |
+| SIR JOHN | Oh, non mi piace quel restituire; è [[Double|doppia]] fatica. 181 |
+| PRINCIPE HARRY | Sono in buoni rapporti con mio padre, e posso fare qualsiasi cosa. |
+| SIR JOHN | Deruba dunque l’erario per prima cosa, e fallo anche con le mani non lavate. |
+| RUSSELL | Fatelo, mio signore. |
+| PRINCIPE HARRY | T’ho procurato, Jack, un comando di fanteria. |
+| SIR JOHN | Vorrei che fosse stato di [[Horse|cavalleria]] ! Dove troverò uno che sappia rubar [[Well|bene]]? Oh, un bel ladro sui ventidue anni o giù di lì! Sono orrendamente sprovvisto. [[Well|Ebbene]], sia ringraziato Dio per questi ribelli-non offendono che i virtuosi. Li lodo, li encomio. |
+| PRINCIPE HARRY | Russell. |
+| RUSSELL | Mio signore? |
+| PRINCIPE HARRY | (consegnando lettere)<br>Va’ a portare questa lettera a Lord John di Lancaster,<br>a mio fratello John; questa al mio lord di Westmorland. |
+| *(didascalia)* | Esce Russell |
+| PRINCIPE HARRY | Va’, Harvey, a [[Horse|cavallo]], a [[Horse|cavallo]], ché tu ed io<br>abbiamo trenta miglia da cavalcare prima dell’[[Time|ora]] del pranzo. |
+| *(didascalia)* | Esce Harvey |
+| PRINCIPE HARRY | Jack, trovati con me domani nella Temple Hall<br>alle due d’[[Clock|orologio]] del pomeriggio.<br>Là conoscerai il tuo comando, e là riceverai<br>denaro e ordini per il loro equipaggiamento.<br>La terra brucia, Percy sta in alto,<br>e o noi o loro dobbiamo giacere più in basso. Esce |
+| SIR JOHN | Rare parole I Bel mondo! (Chiamando) Ostessa, la mia<br>colazione, presto!—<br>Oh, vorrei che questa taverna fosse il mio tamburo! Esce |
+
 
 
 <span class="atom-split" data-atom="act_4--scene_1" data-title="1 Henry IV — Act IV, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="archetype/king,motif/blood,motif/death,motif/fire,motif/home,motif/horse,motif/love,motif/soul,motif/time,motif/well,motif/wind,concept/faith,concept/fear,concept/honour,concept/hope,concept/truth,character/bottom,character/henry_iv,character/hotspur,character/prince_john,character/richard,character/witch"></span>
@@ -1830,6 +2541,51 @@ The [[history|History]] of Henry the Fourth
 | *(didascalia)* | Exeunt |
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entrano [[Hotspur]] e i Conti di,Worcester e Douglas |
+| [[Hotspur|HOTSPUR]] | [[Well|Ben]] detto, mio nobile Scozzese ! Se dire il [[Truth|vero]]<br>in questa bella età non fosse creduto adulazione,<br>tale attribuzione dovrebbe avere il Douglas<br>che nessun soldato del conio di questa stagione<br>correrebbe così universalmente per il mondo.<br>Per Dio, non so adulare, io sfido<br>le lingue dei lusingatori, ma un posto più bello<br>nell’[[Love|amore]] del mio cuore non l’ha nessuno più di voi.<br>Anzi, mettetemi alla prova della parola, provatemi, signore. |
+| DOUGLAS | Tu sei il [[King|re]] dell’[[Honour|onore]].<br>Non respira uomo così potente sulla terra<br>ch’io non gli tenga testa. |
+| [[Hotspur|HOTSPUR]] | Fatelo, e sarà [[Well|bene]]. |
+| *(didascalia)* | Entra un Messo con lettere |
+| [[Hotspur|HOTSPUR]] | Che lettere hai lì? Non posso che ringraziarvi. |
+| MESSO | Queste lettere vengono da vostro padre. |
+| [[Hotspur|HOTSPUR]] | Lettere da lui? Perché non viene egli stesso? 15 |
+| MESSO | Non può venire, mio signore, è gravemente malato. |
+| [[Hotspur|HOTSPUR]] | Corpo di Dio, come ha l’agio d’esser malato<br>in un [[Time|tempo]] così incalzante? Chi guida le sue forze?<br>Sotto il [[government|governo]] di chi vengono? |
+| MESSO | Le sue lettere recano la sua mente, non io, mio signore.<br>[[Hotspur]] legge la lettera |
+| WORCESTER | Ti prego, dimmi: tiene il letto? |
+| MESSO | Lo teneva, mio signore, quattro giorni prima ch’io partissi;<br>e al [[Time|momento]] della mia partenza di là<br>era molto temuto dai suoi medici. |
+| WORCESTER | Vorrei che lo stato del [[Time|tempo]] fosse stato prima sano<br>prima che la malattia lo visitasse.<br>La sua salute non valse mai più di adesso. |
+| [[Hotspur|HOTSPUR]] | Malato ora? Abbattuto ora? Questa malattia infetta<br>il [[Blood|sangue]] vitale stesso della nostra impresa.<br>Si attacca fin qui, fino al nostro campo.<br>Mi scrive qui che un male interno lo trattiene,<br>e che i suoi amici per delega<br>non poterono esser radunati così presto; né gli parve conveniente<br>porre una fiducia così pericolosa e cara<br>su [[Soul|anima]] alcuna lontana da lui, se non sulla propria.<br>Pure ci dà arditamente avviso<br>che con la nostra piccola unione dobbiamo procedere,<br>per vedere come la fortuna sia disposta verso di noi;<br>ché, come scrive, non c’è più da esitare,<br>poiché il [[King|Re]] è certamente informato 40<br>di tutti i nostri disegni. Che ne dite? |
+| WORCESTER | La malattia di vostro padre è per noi una mutilazione. |
+| [[Hotspur|HOTSPUR]] | Uno squarcio pericoloso, un membro reciso addirittura.<br>Eppure, in [[Faith|fede]], non lo è. La sua presente mancanza<br>sembra più di quanto la troveremo. Sarebbe bene<br>porre l’esatta ricchezza di tutti i nostri stati<br>tutta a un sol getto, mettere una posta così ricca<br>al delicato azzardo d’un’ora dubbiosa?<br>Non sarebbe bene, ché in ciò leggeremmo<br>il [[Bottom|fondo]] stesso e la suola della [[Hope|speranza]],<br>il limite stesso, l’estremo confine,<br>di tutte le nostre fortune. |
+| DOUGLAS | In [[Faith|fede]], e così faremmo, mentre ora resta<br>una dolce riserva—possiamo arditamente spendere<br>sulla [[Hope|speranza]] di ciò che ha da venire.<br>In questo vive un conforto di ritirata. |
+| [[Hotspur|HOTSPUR]] | Un ritrovo, una [[Home|casa]] in cui rifugiarsi,<br>se il diavolo e la sventura guarderanno grosso<br>la verginità dei nostri affari. |
+| WORCESTER | Eppure vorrei che vostro padre fosse stato qui. 60<br>La qualità e il pelo della nostra impresa<br>non tollerano divisione. Alcuni, che non sanno<br>perché egli sia lontano, penseranno<br>che saggezza, lealtà e schietta avversione<br>al nostro procedere abbiano trattenuto il Conte;<br>e pensate come tale timore<br>possa volgere la marea d’una fazione paurosa,<br>e generare una specie di dubbio nella nostra causa.<br>Ché, [[Well|ben]] lo sapete, noi che siamo gli offerenti<br>dobbiamo tenerci lontani da un rigoroso giudizio,<br>e turare ogni spiraglio, ogni feritoia donde<br>l’occhio della ragione possa spiarci dentro.<br>Questa assenza di vostro padre tira una tenda<br>che mostra agli ignoranti una specie di [[Fear|paura]]<br>prima non sognata. |
+| [[Hotspur|HOTSPUR]] | Voi tirate troppo in là.<br>Io piuttosto della sua assenza faccio quest’uso:<br>dà lustro, e più alta opinione,<br>e più ardito slancio alla nostra grande impresa,<br>che se il Conte fosse qui; ché gli uomini penseranno<br>che, se senza il suo aiuto sappiamo levare un esercito 80<br>per spingere contro un regno, col suo aiuto<br>lo rovesceremo tutto sossopra.<br>Pure tutto va [[Well|bene]], pure tutte le nostre giunture son sane. |
+| DOUGLAS | Quanto il cuore possa pensare, non v’è parola<br>pronunciata in Scozia come questo termine di [[Fear|paura]]. |
+| *(didascalia)* | Entra Sir [[Richard|Riccardo]] Vernon |
+| [[Hotspur|HOTSPUR]] | Mio cugino Vernon! Benvenuto, sull’[[Soul|anima]] mia! |
+| VERNON | Prego Dio che le mie nuove valgano un benvenuto, signore.<br>Il Conte di Westmorland, forte di settemila,<br>marcia in questa direzione; con lui il [[Prince John|Principe John]]. |
+| [[Hotspur|HOTSPUR]] | Nessun danno. Che altro? |
+| VERNON | E inoltre ho appreso<br>che il [[King|Re]] stesso in persona è partito,<br>o intende venire prontamente da questa parte,<br>con forte e possente apparato. |
+| [[Hotspur|HOTSPUR]] | Sarà benvenuto anche lui. Dov’è suo figlio,<br>lo scapestrato Principe di Galles dal piede agile,<br>e i suoi compagni che scacciarono il mondo da parte<br>e gli dissero di passare oltre? |
+| VERNON | Tutti equipaggiati, tutti in armi,<br>tutti impennacchiati come struzzi, che col [[Wind|vento]] |
+| *(didascalia)* |  |
+| VERNON | sbattono le ali come aquile appena bagnate,<br>scintillanti in cotte d’oro come immagini,<br>pieni di spirito quanto il mese di maggio,<br>e splendidi come il sole a mezza estate;<br>lascivi come capretti, selvaggi come giovani tori.<br>Vidi il giovane Harry con la visiera calata, 105<br>le cosciali sulle cosce, gagliardamente armato,<br>levarsi da terra come Mercurio alato,<br>e balzare con tale agio nella sella<br>come se un angelo fosse sceso dalle nubi<br>per far volteggiare e [[Wind|girare]] un focoso Pegaso, 110<br>e [[Witch|stregare]] il mondo con nobile arte equestre. |
+| [[Hotspur|HOTSPUR]] | Basta, basta! Peggio del sole di marzo,<br>questa lode nutre le febbri. Che vengano!<br>Vengono come vittime nei loro ornamenti,<br>e alla vergine dagli occhi di [[Fire|fuoco]] della fumosa guerra 115<br>tutti caldi e sanguinanti li offriremo.<br>Marte corazzato siederà sul suo altare<br>fino alle orecchie nel [[Blood|sangue]]. Io sono in [[Fire|fiamme]]<br>a udire che questa ricca preda è così vicina,<br>e non ancora nostra! Su, fatemi provare il mio [[Horse|cavallo]],<br>che deve portarmi come folgore<br>contro il petto del Principe di Galles.<br>Harry contro Harry, ardente [[Horse|cavallo]] contro [[Horse|cavallo]],<br>s’incontreranno e non si separeranno finché uno non cada cadavere.<br>Oh, fosse venuto Glyndwr! |
+| VERNON | Ci sono altre notizie.<br>Ho appreso a Worcester, mentre cavalcavo,<br>che non può radunare le sue forze per questi quattordici giorni. |
+| DOUGLAS | Questa è la peggior novella che abbia udito finora. |
+| WORCESTER | Sì, in [[Faith|fede]] mia, questa ha un suono di gelo. |
+| [[Hotspur|HOTSPUR]] | A quanto può ammontare l’intero esercito del [[King|Re]]? |
+| VERNON | A trentamila. |
+| [[Hotspur|HOTSPUR]] | Siano pure quarantamila.<br>Essendo assenti mio padre e Glyndŵr,<br>le forze nostre possono bastare a un giorno così grande.<br>Su, facciamo presto la rassegna.<br>Il giudizio è vicino: muoiano tutti, muoiano allegramente. |
+| DOUGLAS | Non parlate di morire; sono fuor di [[Fear|paura]]<br>della [[Death|morte]] o della mano della [[Death|morte]] per questo mezzo anno. |
+| *(didascalia)* | Escono |
+
 
 
 <span class="atom-split" data-atom="act_4--scene_2" data-title="1 Henry IV — Act IV, Scene 2" data-chapter="Scene 2" data-kind="scene" data-tags="archetype/king,motif/night,motif/prison,motif/time,motif/well,concept/faith,concept/fear,concept/honour,concept/mercy,concept/poverty,concept/truth,character/henry_iv"></span>
@@ -1861,6 +2617,34 @@ The [[history|History]] of Henry the Fourth
 | *(didascalia)* | WESTMORLAND He is, Sir John. I [[Fear\|fear]] we shall stay too long. Exit |
 | SIR JOHN | [[Well]], to the latter end of a fray<br>And the beginning of a feast<br>Fits a dull fighter and a keen guest. Exit |
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entrano Sir John Oldcastle e Russell |
+| SIR JOHN | Russell, va’ avanti a Coventry; riempimi una bottiglia di sack. I nostri soldati passeranno di lì. Andremo a Sutton Coldfield stanotte. |
+| RUSSELL | Mi darete denaro, capitano? |
+| SIR JOHN | Anticipa, anticipa. 5 |
+| RUSSELL | Questa bottiglia fa un angelo. |
+| *(didascalia)* | SIR JOHN dando denaro a Russell E se lo fa, prendilo per la tua fatica; e se ne fa venti, prendili tutti; risponderò io del conio. Di’ al mio luogotenente Harvey di trovarmi all’uscita della città. |
+| RUSSELL | Lo farò, capitano. Addio. Esce |
+| SIR JOHN | Se non mi vergogno dei miei soldati, sono una triglia in salamoia. Ho abusato dannatamente della leva del [[King|Re]]. In cambio di centocinquanta soldati ho ricavato trecento e più sterline. Non arruolo che buoni padroni di casa, figli di piccoli proprietari, vado a cercarmi scapoli promessi, di quelli già chiamati due volte alle pubblicazioni, una tal merce di schiavi ben tiepidi che udirebbero volentieri il diavolo quanto un tamburo, di quelli che [[Fear|temono]] lo sparo d’un archibugio peggio d’un pollo colpito o d’un’anitra selvatica ferita. Non arruolo che simili pan-e-burro, con cuori in corpo non più grossi di capocchie di spillo, ed essi si sono riscattati dal servizio; e ora tutta la mia compagnia consiste d’alfieri, caporali, luogotenenti, gentiluomini di compagnia—schiavi cenciosi come Lazzaro nell’arazzo dipinto, dove i [[dogs|cani]] del ricco epulone gli leccavano le piaghe—e di gente che non fu mai soldato, ma servitori infedeli licenziati, figli cadetti di fratelli cadetti, garzoni di taverna scappati e stallieri falliti, i cancri d’un mondo tranquillo e d’una lunga pace, dieci volte più disonorevolmente cenciosi d’una vecchia insegna sfilacciata; e questi ho per riempire i posti di quelli che si sono riscattati dal servizio, sì che credereste ch’io abbia centocinquanta figliuol prodighi stracciati appena tornati dal guardare i porci, dal mangiare ghiande e bucce. Un pazzo m’incontrò per via e mi disse che avevo scaricato tutte le forche e arruolato i cadaveri. Occhio non vide mai simili spauracchi. Non marcerò con loro per Coventry, questo è certo. Anzi, i furfanti marciano a gambe larghe, come se avessero i ceppi, ché in verità la maggior parte l’ho presa dalla [[Prison|prigione]]. Non c’è una camicia e mezza in tutta la mia compagnia; e la mezza camicia son due tovaglioli cuciti insieme e gettati sulle spalle come la cotta d’un araldo senza maniche; e la camicia, a dire il [[Truth|vero]], è rubata al mio oste di Saint Albans, o all’oste dal naso rosso di Daventry. Ma è tutt’uno; troveranno biancheria a sufficienza su ogni siepe. 48 |
+| *(didascalia)* | Entrano il Principe Harry e il Conte di Westmorland |
+| PRINCIPE HARRY | Ebbene, Jack gonfiato? Ebbene, trapunta? |
+| SIR JOHN | Come, Hal! Ebbene, pazzo burlone? Che diavolo fai nel Warwickshire? Mio buon lord di Westmorland, vi chiedo [[Mercy|mercé]]! Credevo che vostro [[Honour|onore]] fosse già a Shrewsbury. |
+| WESTMORLAND | In [[Faith|fede]], Sir John, è più che [[Time|tempo]] ch’io sia là, e voi pure; ma le mie forze sono già là. Il [[King|Re]], ve lo posso dire, aspetta noi tutti. Dobbiamo marciare tutta la [[Night|notte]]. |
+| SIR JOHN | Bah, non [[Fear|temete]] di me. Sono vigile come un gatto che ruba la panna. |
+| PRINCIPE HARRY | A rubar panna, davvero, ché il tuo furto t’ha già fatto burro. Ma dimmi, Jack, di chi sono questi tizi che vengono dietro? |
+| SIR JOHN | Miei, Hal, miei. |
+| PRINCIPE HARRY | Non vidi mai furfanti così pietosi. |
+| SIR JOHN | Bah, bah, buoni abbastanza da infilzare, carne da polvere, carne da polvere. Riempiranno una fossa tanto [[Well|bene]] quanto altri migliori. Suvvia, uomini mortali, uomini mortali. |
+| WESTMORLAND | Sì, ma Sir John, mi paiono straordinariamente poveri e nudi, troppo pezzenti. |
+| SIR JOHN | In [[Faith|fede]], quanto alla loro [[Poverty|povertà]], non so dove l’abbiano presa, e quanto alla loro nudità, son certo che non l’hanno imparata da me. |
+| PRINCIPE HARRY | No, lo giuro, a meno che non chiamiate nudità tre dita di grasso sulle costole. Ma, messere, fa’ presto. Percy è già in campo. Esce |
+| SIR JOHN | Come, il [[King|Re]] è accampato? |
+| *(didascalia)* | WESTMORLAND Lo è, Sir John. [[Fear|Temo]] che ci attarderemo troppo. Esce |
+| SIR JOHN | [[Well|Ebbene]], alla fine d’una zuffa<br>e al principio d’un banchetto<br>s’addicono un pigro guerriero e un ospite vorace. Esce |
 
 
 
@@ -1901,6 +2685,41 @@ The [[history|History]] of Henry the Fourth
 | *(didascalia)* | Exeunt [[[Hotspur]], Worcester, Douglas, and Vernon at one door, Blunt at another door |
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entrano [[Hotspur]], i Conti di Worcester e Douglas, e Sir [[Richard|Riccardo]] Vernon |
+| [[Hotspur|HOTSPUR]] | Combatteremo con lui stanotte. |
+| WORCESTER | Non si può. |
+| DOUGLAS | Gli date allora vantaggio. |
+| VERNON | Neanche un briciolo. |
+| [[Hotspur|HOTSPUR]] | Perché dite così? Non aspetta rinforzi? |
+| VERNON | E anche noi. |
+| [[Hotspur|HOTSPUR]] | I suoi sono certi; i nostri dubbiosi. |
+| WORCESTER | Buon cugino, lasciatevi consigliare. Non muovetevi stanotte. |
+| VERNON | (a [[Hotspur]])<br>Non fatelo, mio signore. |
+| DOUGLAS | Non consigliate [[Well|bene]].<br>Lo dite per [[Fear|paura]] e per cuore freddo. |
+| VERNON | Non calunniatemi, Douglas. Per la mia vita—<br>e oso [[Well|bene]] sostenerlo con la mia vita—<br>se l’[[Honour|onore]] [[Well|ben]] ponderato mi spinge avanti, 10<br>tengo tanto poco consiglio con la debole [[Fear|paura]]<br>quanto voi, signore, o qualsiasi Scozzese che viva oggi.<br>Si veda domani nella battaglia<br>chi di noi tema. |
+| DOUGLAS | Sì, o stanotte. 15 |
+| VERNON | D’accordo. |
+| [[Hotspur|HOTSPUR]] | Stanotte, dico io. |
+| VERNON | Su, su, non si può. Molto mi [[Wonder|stupisco]],<br>essendo voi uomini di così grande comando,<br>che non prevediate quali impedimenti<br>trattengano la nostra spedizione. Certi [[Horse|cavalli]]<br>di mio cugino Vernon non sono ancora arrivati.<br>I [[Horse|cavalli]] di vostro zio Worcester giunsero solo oggi,<br>e ora il loro [[Pride|orgoglio]] e il loro fuoco dormono,<br>il loro [[Courage|coraggio]] è dalla dura fatica domato e ottuso,<br>sì che non c’è [[Horse|cavallo]] che sia la metà della metà di sé. |
+| [[Hotspur|HOTSPUR]] | Così sono i cavalli del nemico,<br>in generale sfiancati dal [[Journey|viaggio]] e abbattuti.<br>La miglior parte dei nostri è ben riposata. |
+| WORCESTER | Il numero del [[King|Re]] supera il nostro.<br>Per amor di Dio, cugino, aspettate che tutti arrivino.<br>La tromba suona a parlamento [da dentro]. Entra Sir Walter Blunt |
+| BLUNT | Vengo con graziose offerte da parte del [[King|Re]],<br>se mi concedete ascolto e rispetto. |
+| [[Hotspur|HOTSPUR]] | Benvenuto, Sir Walter Blunt; e volesse Dio<br>che foste della nostra risoluzione.<br>Alcuni di noi vi [[Love|amano]] [[Well|bene]], e proprio quegli stessi<br>invidiano i vostri gran meriti e il buon nome,<br>perché non siete della nostra parte,<br>ma state contro di noi come nemico. |
+| BLUNT | E Dio non voglia ch’io non stia sempre così,<br>finché fuor d’ogni limite e vera regola<br>voi state contro la maestà consacrata.<br>Ma al mio incarico. Il [[King|Re]] ha mandato a sapere<br>la [[Nature|natura]] dei vostri rancori, e per qual causa<br>evochiate dal seno della pace civile<br>tale ardita ostilità, insegnando alla sua terra devota<br>audace crudeltà. Se il [[King|Re]]<br>ha in qualche modo dimenticato i vostri buoni meriti,<br>che egli confessa esser molteplici,<br>vi invita a nominare i vostri rancori, e con ogni [[Speed|prestezza]]<br>avrete i vostri desideri, con l’interesse,<br>e perdono assoluto per voi stesso e per costoro<br>qui traviati dalla vostra istigazione. |
+| [[Hotspur|HOTSPUR]] | Il [[King|Re]] è benigno, e [[Well|ben]] sappiamo che il [[King|Re]]<br>sa a qual [[Time|tempo]] promettere, e quando pagare.<br>Mio padre e mio zio e io stesso<br>gli demmo quella regalità stessa che porta;<br>e quando non aveva forza di ventisei uomini,<br>malvisto dal mondo, misero e basso,<br>povero fuorilegge dimenticato che rientrava furtivo a [[Home|casa]],<br>mio padre gli diede il benvenuto alla riva;<br>e quando l’udì giurare e far voto a Dio<br>che veniva solo per essere Duca di Lancaster,<br>per reclamare la sua eredità e implorare la pace<br>con [[Tears|lacrime]] d’innocenza e parole di zelo,<br>mio padre, mosso da cuore gentile e da pietà,<br>gli giurò assistenza, e la prestò anche.<br>Ora, quando i lord e i baroni del regno<br>s’avvidero che Northumberland propendeva per lui,<br>grandi e piccoli vennero col berretto e col ginocchio,<br>lo incontrarono in borghi, città, villaggi,<br>lo scortarono sui ponti, sostarono nei viottoli,<br>gli posero doni davanti, gli offrirono i loro giuramenti,<br>gli diedero i loro eredi come paggi, lo seguirono,<br>proprio alle calcagna, in auree moltitudini.<br>Egli tosto, come la [[Greatness|grandezza]] si conosce,<br>sale un poco più in alto del suo voto<br>fatto a mio padre quando il suo [[Blood|sangue]] era povero<br>sulla nuda riva di Ravenspurgh,<br>e ora, in fede, si assume di [[Reform|riformare]]<br>certi editti e certi rigidi decreti<br>che pesano troppo sulla cosa pubblica,<br>grida contro gli abusi, sembra piangere<br>sui torti del suo paese; e con questo volto,<br>con questa apparente fronte di giustizia, guadagnò<br>i cuori di tutti quelli cui gettava l’amo;<br>procedette oltre, mi fece tagliare le teste<br>di tutti i favoriti che il [[King|Re]] assente<br>aveva lasciato qui in delega<br>quando era di persona alla guerra d’Irlanda. |
+| BLUNT | Bah, non venni per udire questo. |
+| [[Hotspur|HOTSPUR]] | Al punto, allora.<br>Poco [[Time|tempo]] dopo, depose il [[King|Re]],<br>e subito dopo lo privò della vita,<br>e sul collo di ciò tassò tutto lo stato;<br>e a peggiorare le cose, tollerò che il suo congiunto March—<br>il quale è, se ogni possessore fosse [[Well|ben]] collocato,<br>in verità il suo [[King|re]]—fosse trattenuto nel Galles,<br>e là giacesse perduto senza riscatto;<br>mi disonorò nelle mie felici vittorie,<br>cercò d’irretirmi con le spie, 100<br>cacciò con rimproveri mio zio dal banco del Consiglio,<br>in collera congedò mio padre dalla [[Court|corte]],<br>ruppe giuramento su giuramento, commise torto su torto,<br>e in conclusione ci spinse a cercare<br>questa testa di salvezza, e insieme a scrutare 105<br>nel suo titolo, il quale troviamo<br>troppo indiretto per lunga durata. |
+| BLUNT | Devo riportare questa risposta al [[King|Re]]? |
+| [[Hotspur|HOTSPUR]] | Non così, Sir Walter. Ci ritireremo un poco.<br>Andate dal [[King|Re]], e sia data in pegno 110<br>qualche garanzia per un sicuro ritorno;<br>e domattina presto mio zio<br>gli porterà i nostri propositi. E così, addio. |
+| BLUNT | Vorrei che accettaste grazia e [[Love|amore]]. |
+| [[Hotspur|HOTSPUR]] | E forse lo faremo. |
+| BLUNT | Prego Dio che lo facciate. |
+| *(didascalia)* | Escono [[[Hotspur]], Worcester, Douglas e Vernon da una porta, Blunt da un’altra porta |
+
 
 
 <span class="atom-split" data-atom="act_4--scene_4" data-title="1 Henry IV — Act IV, Scene 4" data-chapter="Scene 4" data-kind="scene" data-tags="archetype/king,motif/well,concept/doubt,concept/fear,concept/hope,character/henry_iv,character/michael,character/speed"></span>
@@ -1921,6 +2740,23 @@ The [[history|History]] of Henry the Fourth
 | *(didascalia)* | Exeunt |
 | *(didascalia)* | severally |
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entrano l’Arcivescovo di York e Sir [[Michael|Michele]] |
+| ARCIVESCOVO | (consegnando lettere)<br>Affrettati, buon Sir [[Michael|Michele]], porta questo plico sigillato<br>con alata fretta al Lord Maresciallo,<br>questo a mio cugino Scrope, e tutti gli altri<br>a coloro cui sono diretti. Se sapeste<br>quanto importano, vi affrettereste. |
+| SIR [[Michael|MICHELE]] | Mio buon signore,<br>indovino il loro tenore. |
+| ARCIVESCOVO | Probabile che lo indoviniate.<br>Domani, buon Sir [[Michael|Michele]], è un giorno<br>in cui la fortuna di diecimila uomini<br>dovrà subire la prova; ché, signore, a Shrewsbury,<br>come mi si dà veramente a intendere,<br>il [[King|Re]] con possente e presto levato esercito<br>s’incontra con Lord Harry. E [[Fear|temo]], Sir [[Michael|Michele]],<br>fra la malattia di Northumberland,<br>la cui forza era della prima grandezza, 15<br>e l’assenza di là di Owain Glyndŵr,<br>che con loro era pure un nerbo stimato,<br>e non viene, dominato dalle profezie,<br>[[Fear|temo]] che la forza di Percy sia troppo debole<br>per sostenere un’immediata prova col [[King|Re]]. |
+| SIR [[Michael|MICHELE]] | Diamine, mio buon signore, non dovete [[Fear|temere]]; c’è<br>Douglas<br>e Lord Mortimer. |
+| ARCIVESCOVO | No, Mortimer non è là. |
+| SIR [[Michael|MICHELE]] | Ma c’è Mordake, Vernon, Lord Harry Percy;<br>e c’è il mio lord di Worcester, e una schiera<br>di gagliardi guerrieri, nobili gentiluomini. |
+| ARCIVESCOVO | E così è; ma pure il [[King|Re]] ha radunato<br>insieme il fiore speciale di tutta la terra—<br>il Principe di Galles, Lord John di Lancaster,<br>il nobile Westmorland, e il bellicoso Blunt,<br>e molti altri emuli, e uomini cari<br>di stima e di comando nelle armi. |
+| SIR [[Michael|MICHELE]] | Non [[Doubt|dubitate]], mio signore, saranno [[Well|ben]] contrastati. |
+| ARCIVESCOVO | Non [[Hope|spero]] meno, pure è necessario [[Fear|temere]];<br>e per prevenire il peggio, Sir [[Michael|Michele]], [[Speed|affrettatevi]].<br>Ché se Lord Percy non prospera, prima che il [[King|Re]]<br>congedi il suo esercito, intende visitarci,<br>poiché ha udito della nostra lega,<br>e non è che saggezza fortificarsi contro di lui;<br>perciò fate presto. Devo andare a scrivere ancora<br>ad altri amici; e così addio, Sir [[Michael|Michele]]. |
+| *(didascalia)* | Escono |
+| *(didascalia)* | separatamente |
 
 
 
@@ -1955,6 +2791,36 @@ The [[history|History]] of Henry the Fourth
 | SIR JOHN | ‘Tis not due yet. I would be loath to pay him before his day. What need I be so forward with him that calls not on me? [[Well]], ’tis no matter; [[Honour\|honour]] pricks me on. Yea, but how if [[Honour\|honour]] prick me off when I come on? How then? Can [[Honour\|honour]] set-to a leg? No. Or an arm? No. Or take away the grief of a wound? No. [[Honour]] hath no skill in surgery, then? No. What is [[Honour\|honour]]? A word. What is in that word ‘[[Honour\|honour]]’? What is that ‘[[Honour\|honour]]’ ? Air. A trim reckoning! Who hath it? He that died o’ Wednesday. Doth he feel it? No. Doth he hear it? No. ’Tis insensible then? Yea, to the dead. But will it not live with the living? No. Why? Detraction will not suffer it. Therefore I’ll none of it. [[Honour]] is a mere scutcheon. And so ends my catechism. |
 | *(didascalia)* | Exit |
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entrano [[King|Re]] Enrico, il Principe Harry, Lord John di Lancaster, il Conte di Westmorland, Sir Walter Blunt e Sir John Oldcastle |
+| [[King|RE]] ENRICO | Come sanguinosamente il sole comincia a spuntare<br>sopra quella massiccia [[Hill|collina]]! Il giorno impallidisce<br>al suo malumore. |
+| PRINCIPE HARRY | Il [[Wind|vento]] del sud<br>fa da trombetta ai suoi propositi,<br>e col suo cupo fischiare tra le [[Leaves|foglie]] 5<br>predice tempesta e giornata di raffiche. |
+| [[King|RE]] ENRICO | Allora simpatizzi coi perdenti,<br>ché nulla può parer torbido a chi vince.<br>La tromba suona |
+| *(didascalia)* | a parlamento, da dentro. Entra il [[Earl of Worcester|Conte di Worcester]] |
+| *(didascalia)* | e Sir [[Richard|Riccardo]] Vernon |
+| [[King|RE]] ENRICO | Ebbene, mio lord di Worcester? Non è [[Well|bene]]<br>che voi ed io c’incontriamo a tali condizioni 10<br>come ora c’incontriamo. Avete ingannato la nostra fiducia,<br>e ci avete fatto deporre le comode vesti della pace<br>per stringere le nostre vecchie membra in aspro acciaio.<br>Questo non è [[Well|bene]], mio signore, questo non è [[Well|bene]].<br>Che ne dite? Volete di nuovo sciogliere 15<br>questo villano nodo della guerra da tutti aborrita,<br>e muovervi ancora in quell’orbita obbediente<br>dove davate una bella e naturale luce,<br>e non essere più una meteora esalata,<br>un prodigio di [[Fear|paura]], e un presagio<br>di sciagura scatenata per i tempi [[unborn|non ancora nati]]? |
+| WORCESTER | Ascoltatemi, mio sire.<br>Per parte mia, sarei [[Well|ben]] contento<br>di trascorrere la coda della mia vita<br>in ore tranquille; ché protesto, 25<br>non ho cercato il giorno di questa discordia. |
+| [[King|RE]] ENRICO | Non l’avete cercato? Come avviene, dunque? |
+| SIR JOHN | La ribellione gli stava sulla via, ed egli la trovò. |
+| PRINCIPE HARRY | Zitto, gazza, zitto! |
+| WORCESTER | (al [[King|Re]])<br>Piacque a vostra maestà di volgere i vostri sguardi<br>di favore lontano da me e da tutta la nostra [[house|casa]];<br>e pure devo ricordarvi, mio signore,<br>che fummo i primi e i più cari dei vostri amici.<br>Per voi spezzai il mio bastone di comando<br>ai [[Time|tempi]] di [[Richard|Riccardo]], e corsi giorno e [[Night|notte]]<br>per incontrarvi sulla via e baciarvi la mano<br>quando ancora eravate, per grado e per stima,<br>non altrettanto forte e fortunato di me.<br>Fummo io stesso, mio fratello e suo figlio<br>a ricondurvi a [[Home|casa]], e arditamente sfidammo<br>i pericoli del [[Time|tempo]]. Ci giuraste,<br>e giuraste quel giuramento a Doncaster,<br>che nulla tramavate contro lo stato,<br>né reclamavate oltre il vostro diritto appena caduto,<br>il seggio di Gaunt, il ducato di Lancaster.<br>A questo giurammo il nostro aiuto, ma in breve spazio<br>piovve la fortuna a rovesci sul vostro capo,<br>e tale fiumana di [[Greatness|grandezza]] cadde su di voi,<br>fra il nostro aiuto, fra il [[King|Re]] assente,<br>fra le ingiurie d’un [[Time|tempo]] licenzioso,<br>le apparenti sofferenze che avevate sopportato,<br>e i venti contrari che trattennero il [[King|Re]]<br>così a lungo nelle sue sfortunate guerre d’Irlanda<br>che tutti in Inghilterra lo reputarono morto;<br>e da questo sciame di bei vantaggi<br>prendeste occasione d’esser presto pregato<br>a stringere il potere generale nella vostra mano,<br>dimenticaste il giuramento a noi fatto a Doncaster,<br>e, nutrito da noi, ci trattaste<br>come quell’ingrato ingordo, l’uccello del cuculo,<br>tratta il passero—opprimeste il nostro nido,<br>cresceste col nostro nutrimento a tal mole<br>che perfino il nostro [[Love|amore]] non osò accostarsi al vostro sguardo<br>per [[Fear|paura]] d’essere inghiottito. Ma con ala agile<br>fummo costretti, per amor di salvezza, a volare 65<br>fuori dalla vostra vista, e a levare questa presente schiera,<br>onde stiamo opposti a voi con quei mezzi<br>che voi stesso avete forgiato contro voi stesso,<br>con trattamento scortese, con sguardo minaccioso,<br>e con violazione d’ogni [[Faith|fede]] e lealtà<br>giurataci nella vostra impresa più giovane. |
+| [[King|RE]] ENRICO | Queste cose invero avete articolato,<br>proclamato alle croci dei mercati, letto nelle chiese,<br>per guarnire la veste della ribellione<br>con qualche bel colore che possa piacere all’occhio<br>di volubili incostanti e di poveri malcontenti,<br>che sbadigliano e si fregano il gomito alla notizia<br>d’un rivolgimento tumultuoso;<br>e mai finora l’insurrezione mancò<br>di tali colori all’[[Water|acqua]] per dipingere la sua causa,<br>né di accattoni scontrosi che agognano un [[Time|tempo]]<br>di scompiglio e confusione alla rinfusa. |
+| PRINCIPE HARRY | In entrambi i nostri eserciti c’è più d’un’[[Soul|anima]]<br>che pagherà ben caro questo incontro<br>se una volta si vengano alle mani. Dite a vostro nipote<br>che il Principe di Galles s’unisce a tutto il mondo<br>nel lodare Henry Percy. Per le mie speranze,<br>tolta dal suo conto questa presente impresa,<br>non credo che gentiluomo più prode,<br>più attivamente valoroso o più valorosamente giovane,<br>più ardito o più audace, viva oggi<br>a ornare quest’ultima età di nobili gesta.<br>Per parte mia, posso dirlo a mia vergogna,<br>sono stato un disertore della cavalleria;<br>e così, odo, egli mi giudica.<br>Pure questo, davanti alla maestà di mio padre:<br>mi contento ch’egli prenda il vantaggio<br>del suo gran nome e della sua stima,<br>e voglio, per risparmiare il [[Blood|sangue]] d’entrambe le parti,<br>tentar la fortuna con lui in singolar tenzone. |
+| [[King|RE]] ENRICO | E, Principe di Galles, così osiamo arrischiarti,<br>benché infinite considerazioni<br>vi si oppongano. No, buon Worcester, no.<br>[[Love|Amiamo]] [[Well|bene]] il nostro popolo; [[Love|amiamo]] anche quelli<br>che sono traviati dalla parte di vostro nipote; 105<br>e se accetteranno l’offerta della nostra grazia,<br>sia egli sia loro sia voi, sì, ogni uomo<br>sarà di nuovo mio amico, e io sarò suo.<br>Così dite a vostro nipote, e portatemi parola<br>di ciò che farà. Ma se non vorrà cedere,<br>il rimprovero e la temuta punizione ci attendono,<br>e faranno il loro ufficio. Dunque andate.<br>Non vogliamo ora esser turbati da repliche.<br>Offriamo lealmente; accettate con senno. |
+| *(didascalia)* | Escono Worcester [e Vernon] |
+| PRINCIPE HARRY | Non sarà accettata, sulla mia vita.<br>Il Douglas e [[Hotspur]], tutti e due insieme,<br>si sentono sicuri contro il mondo in armi. |
+| [[King|RE]] ENRICO | Via, dunque, ogni comandante al suo posto,<br>ché sulla loro risposta piomberemo su di loro,<br>e Dio ci sia amico quanto la nostra causa è giusta! |
+| *(didascalia)* | Escono tutti tranne il Principe Harry e Oldcastle |
+| SIR JOHN | Hal, se mi vedi a terra nella battaglia, e mi fai scudo col corpo, ecco. È un tratto d’[[Friendship|amicizia]]. |
+| PRINCIPE HARRY | Nulla se non un colosso può renderti quell’[[Friendship|amicizia]]. Di’ le tue preghiere, e addio. |
+| SIR JOHN | Vorrei che fosse l’[[Time|ora]] d’andare a letto, Hal, e tutto [[Well|bene]]. |
+| PRINCIPE HARRY | Diamine, tu devi a Dio una [[Death|morte]]. Esce |
+| SIR JOHN | Non è ancora scaduta. Mi dispiacerebbe pagarlo prima del suo giorno. Che bisogno ho d’esser così sollecito con chi non mi chiama? [[Well|Ebbene]], non importa; l’[[Honour|onore]] mi sprona. Sì, ma come, se l’[[Honour|onore]] mi cancella quando m’avanzo? E allora? Può l’[[Honour|onore]] rimettere una gamba? No. O un braccio? No. O togliere il dolore d’una ferita? No. L’[[Honour|onore]] non ha dunque abilità in chirurgia? No. Che cos’è l’[[Honour|onore]]? Una parola. Che c’è in quella parola ‘[[Honour|onore]]’? Che cos’è quell’‘[[Honour|onore]]’ ? Aria. Bel conto! Chi lo possiede? Colui che morì mercoledì. Lo sente? No. Lo ode? No. È dunque insensibile? Sì, per i morti. Ma non vivrà coi vivi? No. Perché? La maldicenza non lo permetterà. Perciò non ne voglio. L’[[Honour|onore]] è un mero scudo funebre. E così finisce il mio catechismo. |
+| *(didascalia)* | Esce |
 
 
 
@@ -1994,6 +2860,40 @@ The [[history|History]] of Henry the Fourth
 | [[Hotspur\|HOTSPUR]] | And by that music let us all embrace,<br>For, heaven to earth, some of us never shall<br>A second [[Time\|time]] do such a courtesy.<br>The trumpets sound. Here they embrace. Exeunt |
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entrano il [[Earl of Worcester|Conte di Worcester]] e Sir [[Richard|Riccardo]] Vernon |
+| WORCESTER | Oh no, mio nipote non deve sapere, Sir [[Richard|Riccardo]],<br>la generosa e benigna offerta del [[King|Re]]. |
+| VERNON | Sarebbe meglio che la sapesse. |
+| WORCESTER | Allora siamo tutti perduti.<br>Non è possibile, non può essere,<br>che il [[King|Re]] mantenga la parola nell’amarci.<br>Ci sospetterà sempre, e troverà un [[Time|tempo]]<br>per punire questa offesa sotto altre colpe.<br>Il sospetto per tutta la vita ci terrà infissi mille occhi addosso,<br>ché al tradimento si crede come alla volpe,<br>la quale, per quanto addomesticata, vezzeggiata e rinchiusa,<br>avrà pur l’istinto selvaggio dei suoi avi.<br>Guardiamo come vogliamo, tristi o allegri,<br>l’interpretazione travisserà i nostri sguardi,<br>e saremo nutriti come buoi alla stalla:<br>quanto meglio vezzeggiati, tanto più vicini alla [[Death|morte]].<br>La colpa di mio nipote può essere [[Well|ben]] dimenticata;<br>ha la scusa della giovinezza e del calore del [[Blood|sangue]],<br>e un nome adottato che è privilegio—<br>un [[Hotspur]] dalla testa di lepre, governato dalla bile.<br>Tutte le sue offese vivono sul mio capo,<br>e su quello di suo padre. Noi l’abbiamo istruito,<br>e, venendo la sua corruzione da noi,<br>noi, come [[spring|sorgente]] di tutto, pagheremo per tutto.<br>Perciò, buon cugino, non lasciate che Harry sappia<br>in nessun caso l’offerta del [[King|Re]]. |
+| VERNON | Riferite ciò che volete; dirò che è così. |
+| *(didascalia)* | Entrano [[Hotspur]] e il Conte di Douglas |
+| VERNON | Ecco che viene vostro nipote. |
+| [[Hotspur|HOTSPUR]] | Mio zio è tornato.<br>Rilasciate il mio lord di Westmorland.<br>Zio, che nuove? |
+| WORCESTER | Il [[King|Re]] vi offrirà battaglia fra poco. |
+| DOUGLAS | Sfidatelo per mezzo del Lord di Westmorland. |
+| [[Hotspur|HOTSPUR]] | Lord Douglas, andate voi e diteglielo. |
+| DOUGLAS | Perbacco, lo farò, e ben volentieri. Esce |
+| WORCESTER | Non c’è apparenza di [[Mercy|clemenza]] nel [[King|Re]]. |
+| [[Hotspur|HOTSPUR]] | Ne avete chiesta? Dio non voglia! |
+| WORCESTER | Gli dissi con garbo dei nostri torti,<br>del suo spergiuro, ch’egli emendò così:<br>spergiurando ora ch’egli è spergiuro.<br>Ci chiama ‘ribelli’, ‘traditori’, e flagellerà<br>con armi altere questo nome odioso in noi. |
+| *(didascalia)* | Entra il Conte di Douglas |
+| DOUGLAS | All’armi, signori, all’armi, ché ho gettato<br>un’ardita sfida in faccia a [[King|Re]] Enrico-<br>e Westmorland, che era ostaggio, la portò—<br>il che non può non farlo venire presto. |
+| WORCESTER | (a [[Hotspur]])<br>Il Principe di Galles si fece avanti prima del [[King|Re]]<br>e, nipote, vi sfidò a singolar tenzone. |
+| [[Hotspur|HOTSPUR]] | Oh, fosse la contesa sulle nostre sole teste,<br>e nessuno oggi tirasse il fiato corto<br>se non io e Harry Monmouth ! Dimmi, dimmi,<br>come apparve la sua sfida? Sembrò fatta con disprezzo? |
+| VERNON | No, sull’[[Soul|anima]] mia, mai in vita mia<br>udii sfida proposta più modestamente,<br>se non quando un fratello sfidasse un fratello<br>a gentile esercizio e prova d’armi.<br>Vi rese tutti i doveri d’un uomo,<br>adornò le vostre lodi con lingua principesca,<br>disse i vostri meriti come una cronaca,<br>facendovi sempre migliore della sua lode<br>col deprezzare ogni lode messa a confronto con voi;<br>e, ciò che gli s’addisse davvero da principe,<br>fece di sé un arrossente resoconto,<br>e sgridò la sua giovinezza svogliata con tanta grazia<br>come se là padroneggiasse un [[Double|duplice]] spirito<br>d’insegnare e d’imparare a un tempo.<br>Là s’interruppe; ma lasciate ch’io dica al mondo:<br>se sopravvive all’invidia di questo giorno,<br>l’Inghilterra non ebbe mai una [[Hope|speranza]] così dolce,<br>tanto fraintesa nella sua sfrenatezza. |
+| [[Hotspur|HOTSPUR]] | Cugino, credo che tu sia innamorato<br>delle sue follie. Mai udii<br>d’alcun principe una licenza così sfrenata.<br>Ma sia egli come vuole, pure una volta prima di [[Night|notte]]<br>lo abbraccerò con braccio di soldato,<br>sì che si rannicchierà sotto la mia cortesia.<br>All’armi, all’armi, in [[Speed|fretta]]! E voi, compagni, soldati, amici,<br>considerate meglio ciò che dovete fare<br>di quanto io, che non ho [[Well|bene]] il dono della lingua,<br>possa sollevarvi il [[Blood|sangue]] con la [[Persuasion|persuasione]]. |
+| *(didascalia)* | Entra un Messo |
+| MESSO | Mio signore, ecco lettere per voi. |
+| [[Hotspur|HOTSPUR]] | Non posso leggerle ora. [Esce il Messo]<br>Oh signori, il [[Time|tempo]] della vita è breve.<br>Spendere quella brevità vilmente sarebbe troppo lungo<br>anche se la vita cavalcasse sulla punta d’un quadrante,<br>finendo sempre all’arrivo d’un’ora.<br>E se viviamo, viviamo per calpestare i re;<br>se moriamo, bella [[Death|morte]] quando i principi muoiono con noi!<br>Ora quanto alle nostre coscienze: le armi sono giuste<br>quando l’intento di portarle è giusto. |
+| *(didascalia)* | Entra un altro Messo |
+| MESSO | Mio signore, preparatevi; il [[King|Re]] avanza rapidamente. [Esce] |
+| [[Hotspur|HOTSPUR]] | Lo ringrazio che mi tronchi il discorso,<br>ché non faccio professione di parlare, ma solo questo:<br>ognuno faccia del suo meglio. E qui io sguaino<br>una [[Sword|spada]] la cui tempra intendo macchiare<br>col miglior [[Blood|sangue]] che potrò incontrare<br>nell’avventura di questo giorno periglioso.<br>Ora Esperance! Percy! E all’assalto! |
+| *(didascalia)* | Suonino tutti gli alti strumenti di guerra, |
+| [[Hotspur|HOTSPUR]] | e a quella musica abbracciamoci tutti,<br>ché, scommetto il cielo contro la terra, alcuni di noi mai<br>una seconda [[Time|volta]] faranno tale cortesia.<br>Le trombe suonano. Qui si abbracciano. Escono |
+
 
 
 <span class="atom-split" data-atom="act_5--scene_3" data-title="1 Henry IV — Act V, Scene 3" data-chapter="Scene 3" data-kind="scene" data-tags="archetype/fool,archetype/king,motif/city,motif/death,motif/soul,motif/time,motif/well,concept/body,concept/fear,concept/honour,concept/revenge,concept/vanity,setting/london,character/henry_iv,character/hotspur,character/pistol"></span>
@@ -2030,6 +2930,39 @@ The [[history|History]] of Henry the Fourth
 | PRINCE HARRY | What, is it a [[Time\|time]] to jest and dally now?<br>He throws the bottle at him. Exit |
 | SIR JOHN | [[Well]], if Percy be alive, I’ll pierce him. If he do come in my way, so; if he do not, if I come in his willingly, let him make a carbonado of me. I like not such grinning [[Honour\|honour]] as Sir Walter hath. Give me life, which if I can save, so; if not, [[Honour\|honour]] comes unlocked for, and there’s an end. Exit [with Blunt’s [[Body\|body]]] |
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | [[King|Re]] Enrico entra con le sue forze. Allarme, ed escono verso la battaglia. Poi entrano il Conte di Douglas e Sir Walter Blunt, travestito da [[King|Re]] |
+| BLUNT | Qual è il tuo nome, che nella battaglia così<br>mi attraversi il cammino? Qual [[Honour|onore]] cerchi<br>sul mio capo? |
+| DOUGLAS | Sappi dunque che il mio nome è Douglas,<br>e ti perseguito nella battaglia così<br>perché alcuni mi dicono che tu sei [[King|re]]. |
+| BLUNT | Ti dicono il vero. |
+| DOUGLAS | Il Lord di Stafford ha comprato caro oggi<br>la tua sembianza, ché invece di te, [[King|Re]] Harry,<br>questa [[Sword|spada]] l’ha finito. E così farà con te,<br>se non ti arrendi come mio prigioniero. |
+| BLUNT | Non nacqui per arrendermi, superbo Scozzese,<br>e troverai un [[King|re]] che [[Revenge|vendicherà]]<br>la [[Death|morte]] di Lord Stafford.<br>Combattono. Douglas uccide Blunt. Poi entra [[Hotspur]] |
+| [[Hotspur|HOTSPUR]] | Oh Douglas, avessi tu combattuto così a Holmedon,<br>non avrei mai trionfato su uno Scozzese. |
+| DOUGLAS | Tutto è fatto, tutto è vinto: qui giace senza fiato il [[King|Re]]. |
+| [[Hotspur|HOTSPUR]] | Dove? |
+| DOUGLAS | Qui. |
+| [[Hotspur|HOTSPUR]] | Questo, Douglas? No, conosco [[Well|ben]] bene questo volto.<br>Era un gagliardo cavaliere; il suo nome era Blunt—<br>equipaggiato in tutto simile al [[King|Re]] stesso. |
+| DOUGLAS | (al [[Body|corpo]] di Blunt)<br>Un [[Fool|folle]] accompagni la tua [[Soul|anima]], ovunque vada !<br>Un titolo prestato hai comprato troppo caro.<br>Perché mi dicesti che eri [[King|re]]? |
+| [[Hotspur|HOTSPUR]] | Il [[King|re]] ne ha molti che marciano nelle sue insegne. |
+| DOUGLAS | Ora per la mia [[Sword|spada]], ucciderò tutte le sue insegne.<br>Assassinerò tutto il suo guardaroba, pezzo per pezzo,<br>finché non incontri il [[King|Re]]. |
+| [[Hotspur|HOTSPUR]] | Su, e via!<br>I nostri soldati si tengono ben saldi per la giornata. |
+| *(didascalia)* | Escono, lasciando il [[Body|corpo]] di Blunt |
+| *(didascalia)* | Allarme. Entra Sir John Oldcastle |
+| SIR JOHN | Benché a [[London|Londra]] potessi scappare senza pagare il conto, qui [[Fear|temo]] i colpi. Qui non si segna il conto che sulla zucca.—Piano, chi siete?—Sir Walter Blunt. Ecco dell’[[Honour|onore]] per voi. Qui non c’è [[Vanity|vanità]]. Sono caldo come piombo fuso, e pesante altrettanto. Dio tenga lontano da me il piombo; non ho bisogno d’altro peso che delle mie budella. Ho condotto i miei straccioni dove sono stati pepati; non ne restano vivi tre dei miei centocinquanta, e quelli sono buoni per l’uscita della città, a mendicare per tutta la vita. |
+| *(didascalia)* | Entra il Principe Harry |
+| SIR JOHN | Ma chi viene qui? |
+| PRINCIPE HARRY | Come, te ne stai qui in ozio? Prestami la tua [[Sword|spada]].<br>Molti nobili giacciono rigidi e freddi<br>sotto gli zoccoli di nemici tronfi,<br>le cui morti sono ancora invendicate. Ti prego,<br>prestami la tua [[Sword|spada]]. |
+| SIR JOHN | Oh Hal, ti prego, lasciami riprender fiato un poco.<br>Il Turco Gregorio non fece mai tali gesta d’armi<br>quali ho fatto io oggi. Ho saldato Percy,<br>l’ho messo al sicuro. |
+| PRINCIPE HARRY | Lo è davvero,<br>ed è vivo per ucciderti. Ti prego,<br>prestami la tua [[Sword|spada]]. |
+| SIR JOHN | No, per Dio, Hal,<br>se Percy è vivo non avrai la mia [[Sword|spada]];<br>ma prendi la mia [[Pistol|pistola]], se vuoi. |
+| PRINCIPE HARRY | Dammela. Come, è nella custodia? |
+| SIR JOHN | Sì, Hal;<br>è calda, è calda. C’è là dentro di che saccheggiare una [[City|città]].<br>Il Principe la estrae, e trova che è una bottiglia di sack |
+| PRINCIPE HARRY | Come, è [[Time|tempo]] di scherzare e trastullarsi ora?<br>Gli getta addosso la bottiglia. Esce |
+| SIR JOHN | [[Well|Ebbene]], se Percy è vivo, lo trafiggerò. Se mi viene sulla strada, sia; se non ci viene, e io vado sulla sua di mia volontà, che mi faccia a fette. Non mi piace un [[Honour|onore]] così sogghignante come quello di Sir Walter. Datemi la vita: se posso salvarla, bene; se no, l’[[Honour|onore]] viene senza esser cercato, ed è finita. Esce [col [[Body|corpo]] di Blunt] |
 
 
 
@@ -2086,6 +3019,57 @@ The [[history|History]] of Henry the Fourth
 | *(didascalia)* | Exit, bearing [[Hotspur]]’s [[Body\|body]] |
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Allarme. Scaramucce. Entrano [[King|Re]] Enrico, il Principe Harry, ferito, Lord John di Lancaster e il Conte di Westmorland |
+| [[King|RE]] ENRICO | Ti prego, Harry, ritirati, tu sanguini troppo<br>abbondantemente.<br>Lord John di Lancaster, andate voi con lui. |
+| JOHN DI LANCASTER | Non io, mio signore, a meno che non sanguinassi anch’io. |
+| PRINCIPE HARRY | (al [[King|Re]])<br>Supplico vostra maestà, avanzate,<br>ché la vostra ritirata non sbigottisca i vostri amici. |
+| [[King|RE]] ENRICO | Così farò. Mio lord di Westmorland,<br>conducetelo alla sua tenda. |
+| WESTMORLAND | (al Principe)<br>Venite, mio signore, vi condurrò alla vostra tenda. |
+| PRINCIPE HARRY | Condurmi, mio signore? Non ho bisogno del vostro aiuto,<br>e Dio non voglia che un graffio superficiale scacci<br>il Principe di Galles da un campo come questo,<br>dove la nobiltà macchiata giace calpestata,<br>e le armi dei ribelli trionfano nei massacri. |
+| JOHN DI LANCASTER | Prendiamo fiato troppo a lungo. Venite, cugino Westmorland,<br>il nostro dovere è da questa parte. Per amor di Dio, venite. |
+| *(didascalia)* | Escono Lancaster e Westmorland |
+| PRINCIPE HARRY | Per Dio, m’hai ingannato, Lancaster;<br>non ti credevo signore di tale spirito.<br>Prima t’amavo come un fratello, John,<br>ma ora ti rispetto come la mia [[Soul|anima]]. |
+| [[King|RE]] ENRICO | L’ho visto tener testa a Lord Percy<br>con più gagliardo contegno di quanto m’aspettassi<br>da un guerriero così acerbo. |
+| PRINCIPE HARRY | Oh, questo ragazzo dà fegato a tutti noi! Esce |
+| *(didascalia)* | Entra il Conte di Douglas |
+| DOUGLAS | Un altro [[King|re]]! Crescono come le teste dell’Idra.<br>Io sono il Douglas, fatale a tutti coloro<br>che portano addosso quei colori. Chi sei tu<br>che contraffai la persona d’un [[King|re]]? |
+| [[King|RE]] ENRICO | Il [[King|Re]] stesso, il quale, Douglas, si duole in cuore<br>che tu abbia incontrato tante sue ombre<br>e non il [[King|Re]] vero. Ho due ragazzi<br>che cercano Percy e te per il campo;<br>ma poiché mi capiti addosso così a proposito,<br>ti metterò alla prova; e tu difenditi. |
+| DOUGLAS | [[Fear|Temo]] che tu sia un altro contraffatto;<br>eppure, in [[Faith|fede]], ti porti come un [[King|re]].<br>Ma mio sei di certo, chiunque tu sia,<br>e così ti conquisto.<br>Combattono. Essendo il [[King|Re]] in pericolo, entra il Principe Harry |
+| PRINCIPE HARRY | Alza la testa, vile Scozzese, o rischi<br>di non alzarla mai più. Gli spiriti<br>del valoroso [[Shirley]], di Stafford, di Blunt, sono nelle mie braccia.<br>È il Principe di Galles che ti minaccia,<br>il quale non promette mai se non intende pagare.<br>Combattono. Douglas fugge<br>Coraggio, mio signore! Come sta vostra grazia?<br>Sir Nicholas Gawsey ha mandato a chieder soccorso,<br>e così ha fatto Clifton. Vado subito da Clifton. |
+| [[King|RE]] ENRICO | Fermati e riprendi fiato un poco.<br>Hai riscattato la tua opinione perduta,<br>e hai mostrato che hai qualche cura della mia vita,<br>in questo bel soccorso che m’hai recato. |
+| PRINCIPE HARRY | Oh Dio, mi fecero troppo torto<br>quelli che dissero mai ch’io agognassi la vostra [[Death|morte]].<br>Se così fosse, avrei potuto lasciar [[Alone|stare]]<br>l’insultante mano di Douglas sopra di voi,<br>la quale sarebbe stata rapida per la vostra fine<br>quanto tutte le pozioni velenose del mondo,<br>e avrebbe risparmiato la traditrice fatica a vostro figlio. |
+| [[King|RE]] ENRICO | Raggiungi Clifton; io andrò da Sir Nicholas Gawsey. Esce |
+| *(didascalia)* | Entra [[Hotspur]] |
+| [[Hotspur|HOTSPUR]] | Se non m’inganno, tu sei Harry Monmouth. |
+| PRINCIPE HARRY | Parli come se io volessi negare il mio nome. |
+| [[Hotspur|HOTSPUR]] | Il mio nome è Harry Percy. |
+| PRINCIPE HARRY | Diamine, allora vedo<br>un [[Rebel|ribelle]] assai valoroso di quel nome.<br>Io sono il Principe di Galles; e non pensare, Percy,<br>di dividere ancora con me la gloria.<br>Due [[Stars|stelle]] non tengono il loro moto in una sola sfera,<br>né una sola Inghilterra può sopportare un [[Double|duplice]] regno<br>di Harry Percy e del Principe di Galles. |
+| [[Hotspur|HOTSPUR]] | Né lo sopporterà, Harry, ché è giunta l’ora<br>di finire l’uno di noi due, e volesse Dio<br>che il tuo nome nelle armi fosse grande quanto il mio. |
+| PRINCIPE HARRY | Lo farò più grande prima di separarmi da te,<br>e tutti gli onori in boccio sul tuo cimiero<br>li reciderò per farne una ghirlanda al mio capo. |
+| [[Hotspur|HOTSPUR]] | Non posso più sopportare le tue vanterie.<br>Combattono. |
+| *(didascalia)* | Entra Sir John Oldcastle |
+| SIR JOHN | [[Well|Ben]] detto, Hal! Addosso, Hal! No, non troverete qui gioco da ragazzi, ve lo posso dire. |
+| *(didascalia)* | Entra Douglas. Combatte con Sir John, il quale cade a terra come se fosse morto. Esce Douglas. Il Principe uccide [[Hotspur]] |
+| [[Hotspur|HOTSPUR]] | Oh Harry, tu m’hai derubato della mia giovinezza.<br>Meglio sopporto la perdita della fragile vita<br>che quei superbi titoli che m’hai vinto.<br>Feriscono i miei pensieri più di quanto la tua [[Sword|spada]] la mia<br>carne.<br>Ma i pensieri, schiavi della vita, e la vita, [[Fool|zimbello]] del [[Time|tempo]],<br>e il [[Time|tempo]], che passa in rassegna tutto il mondo,<br>devono avere una fine. Oh, potrei profetare,<br>se non che la terrosa e fredda mano della [[Death|morte]]<br>giace sulla mia lingua. No, Percy, tu sei [[Dust|polvere]],<br>e cibo per—Muore |
+| PRINCIPE HARRY | Per i vermi, prode Percy. Sta’ [[Well|bene]], gran cuore.<br>[[Ambition|Ambizione]] mal tessuta, quanto ti sei ristretta!<br>Quando questo [[Body|corpo]] conteneva uno spirito,<br>un regno era per esso confine troppo angusto,<br>ma ora due passi della più vile terra<br>sono spazio bastante. Questa terra che ti porta morto<br>non porta vivo un gentiluomo così gagliardo.<br>Se tu fossi sensibile alla cortesia,<br>non farei così caro sfoggio di zelo;<br>ma le mie insegne coprano il tuo volto straziato,<br>Copre il volto di [[Hotspur]]<br>e persino in tuo nome ringrazierò me stesso<br>per aver compiuto questi bei riti di tenerezza.<br>Addio, e porta con te la tua lode in cielo.<br>La tua ignominia [[Sleep|dorma]] con te nella [[Grave|tomba]],<br>ma non sia ricordata nel tuo epitaffio.<br>Scorge Sir John a terra<br>Come, vecchia conoscenza! Non poté tutta questa carne<br>serbare un po’ di vita ? Povero Jack, addio.<br>Avrei potuto perdere più volentieri un uomo migliore.<br>Oh, sentirei gravemente la tua mancanza,<br>se fossi molto in [[Love|amore]] con la [[Vanity|vanità]].<br>La [[Death|Morte]] non ha abbattuto oggi una preda così grassa,<br>benché molte più care in questa sanguinosa mischia.<br>Sventrato ti vedrò fra poco.<br>Fino ad allora, giaci nel [[Blood|sangue]] presso il nobile Percy. Esce<br>Sir John si rialza |
+| SIR JOHN | Sventrato? Se mi sventri oggi, ti do licenza di salarmi, e anche di mangiarmi, domani. Sangue di Dio, era [[Time|tempo]] di fingere, o quell’ardente Scozzese furibondo m’avrebbe saldato, e con gli interessi. Fingere? Mento, non sono un finto. Morire è essere un finto, ché è solo la contraffazione d’un uomo colui che non ha la vita d’un uomo. Ma fingere di morire quando per questo un uomo vive è non essere finto, ma l’immagine vera e perfetta della vita in persona. La parte migliore del valore è la discrezione, e in quella parte migliore ho salvato la mia vita. Corpo di Dio, ho paura di questo Percy da polvere da sparo, benché sia morto. E come, se fingesse anche lui, e si rialzasse ? In [[Faith|fede]] mia, temo che si rivelerebbe il miglior finto. Perciò lo metterò al sicuro; sì, e giurerò d’averlo ucciso io. Perché non potrebbe rialzarsi tanto [[Well|bene]] quanto me? Nulla mi smentisce se non gli occhi, e nessuno mi vede. Perciò, messere, (pugnalando [[Hotspur]]) con una nuova ferita nella coscia, venite con me.<br>Si carica [[Hotspur]] sulle spalle. |
+| *(didascalia)* | Entrano il Principe Harry e Lord John di Lancaster |
+| PRINCIPE HARRY | Vieni, fratello John. Assai valorosamente hai insanguinato<br>la tua vergine [[Sword|spada]]. |
+| JOHN DI LANCASTER | Ma piano; chi abbiamo qui? Non m’avevate detto che questo grassone era morto? |
+| PRINCIPE HARRY | L’ho detto; l’ho visto morto, senza fiato e sanguinante a terra. (A Sir John) Sei vivo? O è fantasia che gioca sulla nostra vista? Ti prego, parla; non ci fideremo dei nostri occhi senza le nostre orecchie. Tu non sei ciò che sembri. |
+| SIR JOHN | No, questo è certo: non sono un uomo [[Double|doppio]]. Ma se non sono Jack Oldcastle, allora sono un fantoccio. Ecco Percy. Se vostro padre vorrà rendermi qualche [[Honour|onore]], bene; se no, uccida lui stesso il prossimo Percy. Conto di diventare o conte o duca, ve l’assicuro. |
+| PRINCIPE HARRY | Diamine, Percy l’ho ucciso io, e ti ho visto morto. |
+| SIR JOHN | Davvero ? Signore, Signore, come questo mondo è dato alla menzogna! Vi concedo che ero a terra e senza fiato, e così lui; ma ci [[Rose|rialzammo]] entrambi in un istante, e combattemmo una lunga ora all’[[Clock|orologio]] di Shrewsbury. Se mi si può credere, bene; se no, che quelli che dovrebbero premiare il valore portino il peccato sul proprio capo. Lo prendo sulla mia [[Death|morte]]: gli diedi io questa ferita nella coscia. Se l’uomo fosse vivo e volesse negarlo, corpo di Dio, gli farei mangiare un pezzo della mia [[Sword|spada]]. |
+| JOHN DI LANCASTER | Questo è il racconto più strano che abbia mai udito. |
+| PRINCIPE HARRY | Questo è il tipo più strano, fratello John.<br>(A Sir John) Su, porta nobilmente il tuo bagaglio sulla<br>schiena.<br>Per parte mia, se una menzogna può farti grazia,<br>la indorerò coi termini più felici che ho.<br>Si suona la ritirata<br>La tromba suona la ritirata; la giornata è nostra.<br>Vieni, fratello, andiamo sull’altura del campo<br>a vedere quali amici sono vivi, e chi è morto. |
+| *(didascalia)* | Escono il Principe e Lancaster |
+| SIR JOHN | Li seguirò, come si dice, per la ricompensa. Chi mi ricompensa, Dio lo ricompensi. Se divento grande, diventerò più piccolo; ché mi purgherò, e lascerò il sack, e vivrò pulitamente, come si conviene a un nobiluomo. |
+| *(didascalia)* | Esce, portando il [[Body|corpo]] di [[Hotspur]] |
+
 
 
 <span class="atom-split" data-atom="act_5--scene_5" data-title="1 Henry IV — Act V, Scene 5" data-chapter="Scene 5" data-kind="scene" data-tags="archetype/king,motif/death,motif/hill,motif/love,concept/fear,character/earl_of_worcester,character/henry_iv,character/richard,character/speed"></span>
@@ -2105,3 +3089,21 @@ The [[history|History]] of Henry the Fourth
 | JOHN OF LANCASTER | I thank your grace for this high courtesy,<br>Which I shall give away immediately. |
 | [[King\|KING]] HENRY | Then this remains, that we divide our power.<br>You, son John, and my cousin Westmorland,<br>Towards York shall bend you with your dearest [[Speed\|speed]]<br>To meet Northumberland and the prelate Scrope,<br>Who, as we hear, are busily in arms.<br>Myself and you, son Harry, will towards Wales,<br>To fight with Glyndwr and the Earl of March.<br>Rebellion in this land shall lose his sway,<br>Meeting the check of such another day;<br>And since this business so fair is done,<br>Let us not leave till all our own be won. |
 | *(didascalia)* | Exeunt [the [[King]], the Prince, and their power at one door, Lancaster, Westmorland, and their power at another door] |
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Le trombe suonano. Entrano [[King|Re]] Enrico, il Principe Harry, Lord John di Lancaster, il Conte di Westmorland, con il [[Earl of Worcester|Conte di Worcester]] e Sir [[Richard|Riccardo]] Vernon, prigionieri, e soldato |
+| [[King|RE]] ENRICO | Così sempre la ribellione trovò castigo.<br>Worcester dal malo spirito, non mandammo grazia,<br>perdono e parole d’[[Love|amore]] a tutti voi ?<br>E volesti tu volgere le nostre offerte al contrario,<br>abusare del tenore della fiducia di tuo nipote?<br>Tre cavalieri dalla nostra parte uccisi oggi,<br>un nobile conte, e molte altre creature,<br>sarebbero vivi a quest’ora<br>se da cristiano tu avessi lealmente portato<br>fra i nostri eserciti la vera notizia. |
+| WORCESTER | Ciò che ho fatto la mia salvezza me lo impose,<br>e abbraccio questa sorte con pazienza,<br>poiché, non potendo evitarsi, cade su di me. |
+| [[King|RE]] ENRICO | Conducete Worcester alla [[Death|morte]], e Vernon anche.<br>Sugli altri colpevoli ci fermeremo a riflettere. |
+| *(didascalia)* | Escono Worcester e Vernon, sotto scorta |
+| [[King|RE]] ENRICO | Come va il campo? |
+| PRINCIPE HARRY | Il nobile Scozzese Lord Douglas, quando vide<br>la fortuna della giornata volta del tutto contro di lui,<br>il nobile Percy ucciso, e tutti i suoi uomini<br>in preda alla [[Fear|paura]], fuggì con gli altri;<br>e cadendo da una [[Hill|collina]] fu così malconcio<br>che gli inseguitori lo presero. Alla mia tenda<br>è il Douglas, e supplico vostra grazia<br>di poterne disporre. |
+| [[King|RE]] ENRICO | Con tutto il cuore. |
+| PRINCIPE HARRY | Allora, fratello John di Lancaster,<br>a voi apparterrà questa onorevole liberalità.<br>Andate dal Douglas, e consegnatelo<br>al suo piacere, senza riscatto e libero.<br>I valori che oggi mostrò sui nostri cimieri<br>ci hanno insegnato come tener cara tale alta prodezza<br>anche nel petto dei nostri avversari. |
+| JOHN DI LANCASTER | Ringrazio vostra grazia di questa alta cortesia,<br>che donerò immediatamente. |
+| [[King|RE]] ENRICO | Resta dunque questo: che dividiamo le nostre forze.<br>Voi, figlio John, e mio cugino Westmorland,<br>volgetevi verso York con la più cara [[Speed|prestezza]]<br>per affrontare Northumberland e il prelato Scrope,<br>i quali, come udiamo, sono attivamente in armi.<br>Io stesso e tu, figlio Harry, andremo verso il Galles,<br>a combattere con Glyndwr e il Conte di March.<br>La ribellione in questa terra perderà il suo dominio,<br>incontrando lo scacco d’un altro giorno simile;<br>e poiché questa impresa è così bene compiuta,<br>non desistiamo finché tutto il nostro non sia riconquistato. |
+| *(didascalia)* | Escono [il [[King|Re]], il Principe e le loro forze da una porta, Lancaster, Westmorland e le loro forze da un’altra porta] |

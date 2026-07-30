@@ -1645,6 +1645,55 @@ Exit
 | [[Troilus\|TROILUS]] | Come, go we then together. Exeunt |
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entrano [[Pandarus|Pandaro]], e [[Troilus|Troilo]] in armi |
+| [[Troilus|TROILO]] | Chiamate qui il mio scudiero. Voglio disarmarmi ancora.<br>Perché dovrei guerreggiare fuori dalle mura di Troia,<br>io che trovo qui dentro battaglia sì crudele?<br>Ogni Troiano che sia padrone del proprio cuore,<br>vada a Betd—Troitus, ahimè, non ne ha alcuno. |
+| [[Pandarus|PANDARO]] | Non si porrà mai rimedio a questa faccenda? |
+| [[Troilus|TROILO]] | I Greci sono forti, e alla loro forza pari è l’arte,<br>feroci all’arte loro, e alla ferocia valorosi.<br>Ma io son più debole della lacrima d’una donna,<br>più mansueto del [[Sleep|sonno]], più sciocco dell’ignoranza,<br>meno valoroso della vergine nella [[Night|notte]],<br>e inesperto come infanzia senza pratica. |
+| [[Pandarus|PANDARO]] | [[Well|Bene]], di questo ve n’ho detto abbastanza. Per parte mia, non m’impiccerò né m’intrometterò più oltre. Chi vuole la focaccia dal grano deve aspettare la macinatura. |
+| [[Troilus|TROILO]] | Non ho aspettato? |
+| [[Pandarus|PANDARO]] | Sì, la macinatura; ma dovete aspettare la setacciatura. |
+| [[Troilus|TROILO]] | Non ho aspettato? |
+| [[Pandarus|PANDARO]] | Sì, la setacciatura; ma dovete aspettare la lievitazione. |
+| [[Troilus|TROILO]] | Anche questo ho aspettato. |
+| [[Pandarus|PANDARO]] | Sì, fino alla lievitazione; ma nella parola ‘poi’ restano ancora l’impastare, il fare la focaccia, lo scaldare il forno, e la cottura—anzi, dovete attendere anche il raffreddamento, o vi potrà accadere di scottarvi le labbra. |
+| [[Troilus|TROILO]] | La Pazienza stessa, qual dea ella sia,<br>meno di me trasalisce nel patire.<br>Alla regal mensa di Priamo io siedo,<br>e quando la bella Cressida mi viene in pensiero—<br>Ah, traditore! ‘Quando viene’? E quando mai ne parte? |
+| [[Pandarus|PANDARO]] | [[Well|Bene]], iersera appariva più bella di quanto io l’abbia mai vista, o qualunque altra donna. |
+| [[Troilus|TROILO]] | Stavo per dirti: quando il mio cuore,<br>come spaccato da un sospiro, voleva fendersi in due,<br>per timore che [[Hector|Ettore]] o mio padre s’accorgessero di me,<br>io, come quando il sole illumina di traverso,<br>ho sepolto quel sospiro nella piega d’un sorriso.<br>Ma il dolore che sta celato in finta allegria<br>è come quel riso che il fato volge in subita tristezza. |
+| [[Pandarus|PANDARO]] | Se i suoi capelli non fossero un poco più scuri di quelli d’[[Helen|Elena]]—[[Well|bene]], via, non ci sarebbe più confronto fra le due donne. Ma, per parte mia, ella è mia parente; non vorrei, come dicono, ‘lodarla’. Però avrei voluto che qualcuno l’avesse sentita parlare ieri, come l’ho sentita io. Non voglio sparlare dell’ingegno di vostra sorella Cassandra, ma— |
+| [[Troilus|TROILO]] | O [[Pandarus|Pandaro]]! Io ti dico, [[Pandarus|Pandaro]],<br>quando ti dico ‘Là le mie speranze giacciono annegate’,<br>non replicare a quante braccia di profondità<br>stiano sommerse. Ti dico che son pazzo<br>d’[[Love|amore]] per Cressida; tu rispondi ‘È bella’,<br>e versi nell’aperta piaga del mio cuore<br>i suoi occhi, i suoi capelli, la guancia, l’andatura, la voce;<br>maneggi nel tuo discorso, oh, quella sua mano,<br>al cui paragone ogni biancore è inchiostro<br>che scrive il proprio biasimo, al cui morbido tocco<br>la piuma del cigno è ruvida, e il più fine spirito del senso<br>duro come il palmo dell’aratore. Questo tu mi dici—<br>e con verità me lo dici—quando io dico che l’[[Love|amo]].<br>Ma dicendo così, invece d’olio e di balsamo<br>tu poni in ogni squarcio che l’[[Love|amore]] m’ha inflitto<br>il coltello che l’ha aperto. |
+| [[Pandarus|PANDARO]] | Non dico più che la [[Truth|verità]]. |
+| [[Troilus|TROILO]] | Non ne dici tanta. |
+| [[Pandarus|PANDARO]] | In [[Faith|fede]] mia, non voglio impicciarmene. Sia com’è. Se è bella, tanto meglio per lei; se non lo è, ha in mano il rimedio da sé. |
+| [[Troilus|TROILO]] | Buon [[Pandarus|Pandaro]], suvvia, [[Pandarus|Pandaro]]! |
+| [[Pandarus|PANDARO]] | Ho avuto per compenso la mia fatica. Male giudicato da lei e male giudicato da voi. Andato avanti e indietro a far da mezzano, e poche grazie per il mio travaglio. |
+| [[Troilus|TROILO]] | Come, sei in collera, [[Pandarus|Pandaro]]? Come, con me? |
+| [[Pandarus|PANDARO]] | Perché è mia parente, dunque non è bella come [[Helen|Elena]]. Se non fosse mia parente, sarebbe bella il venerdì quanto [[Helen|Elena]] lo è la [[Sunday|domenica]]. Ma che m’importa? Non m’importerebbe s’ella fosse una mora d’Africa. Per me è tutt’uno. |
+| [[Troilus|TROILO]] | Ho detto io che non è bella? |
+| [[Pandarus|PANDARO]] | Non m’importa che l’abbiate detto o no. È una [[Fool|sciocca]] a restare indietro, lontana dal padre. Vada dai Greci—e così le dirò la prossima [[Time|volta]] che la vedrò. Per parte mia, non m’impiccerò né m’intrometterò più nella faccenda. |
+| [[Troilus|TROILO]] | [[Pandarus|Pandaro]]— |
+| [[Pandarus|PANDARO]] | Io no. |
+| [[Troilus|TROILO]] | Dolce [[Pandarus|Pandaro]]— |
+| [[Pandarus|PANDARO]] | Vi prego, non parlatemi più. Lascerò tutto come l’ho trovato. E qui finisca. |
+| *(didascalia)* | Esce |
+| *(didascalia)* | Squillo d’allarme |
+| [[Troilus|TROILO]] | Pace, clamori sgraziati! Pace, suoni rozzi!<br>Folli da entrambe le parti. [[Helen|Elena]] dev’essere bella per forza,<br>se col vostro [[Blood|sangue]] la dipingete così ogni giorno.<br>Io non posso combattere per questa causa.<br>È soggetto troppo scarno per la mia [[Sword|spada]].<br>Ma [[Pandarus|Pandaro]]—o dèi, come mi tormentate!<br>Non posso giungere a Cressida se non per mezzo di Pandaro,<br>ed egli è tanto ritroso a farsi pregare di pregare<br>quanto ella è ostinatamente casta contro ogni corteggiamento.<br>Dimmi, [[Apollo]], per l’[[Love|amore]] della tua Dafne,<br>che cosa è Cressida, che cosa Pandaro, e che cosa noi?<br>Il suo letto è l’India; là ella giace, una perla.<br>Fra il nostro Ilio e il luogo ov’ella dimora<br>sia detto il flutto selvaggio ed errabondo,<br>noi stessi il mercante, e questo Pandaro nocchiero<br>la nostra dubbia [[Hope|speranza]], la nostra scorta, e la nostra barca. |
+| *(didascalia)* | Squillo d’allarme. Entra Enea |
+| ENEA | Ebbene, principe [[Troilus|Troilo]]? Perché non in campo? |
+| [[Troilus|TROILO]] | Perché non vi sono. Questa risposta da donna s’addice,<br>ché femmineo è l’esserne lontano.<br>Che nuove, Enea, dal campo oggi? |
+| ENEA | Che [[Paris|Paride]] è tornato a [[Home|casa]], e ferito. |
+| [[Troilus|TROILO]] | Da chi, Enea? |
+| ENEA | [[Troilus|Troilo]], da Menelao. |
+| [[Troilus|TROILO]] | Lasciate che [[Paris|Paride]] sanguini, non è che una cicatrice da schernire:<br>[[Paris|Paride]] è stato incornato dal corno di Menelao. |
+| *(didascalia)* | Squillo d’allarme |
+| ENEA | Udite che bel diporto c’è oggi fuori città. |
+| [[Troilus|TROILO]] | Meglio in [[Home|casa]], se ‘vorrei potere’ fosse ‘posso’.<br>Ma al diporto là fuori—siete diretto colà? |
+| ENEA | In tutta rapida fretta. |
+| [[Troilus|TROILO]] | Venite, andiamo dunque insieme. Escono |
+
 
 
 <span class="atom-split" data-atom="act_1--scene_2" data-title="Troilus and Cressida — Act I, Scene 2" data-chapter="Scene 2" data-kind="scene" data-tags="archetype/prophet,motif/autumn,motif/blood,motif/desire,motif/fire,motif/flowers,motif/home,motif/lion,motif/love,motif/nature,motif/rose,motif/soul,motif/spring,motif/tears,motif/time,motif/well,motif/window,concept/beauty,concept/body,concept/doubt,concept/faith,concept/melancholy,concept/mercy,concept/nature,concept/truth,setting/paris,character/achilles,character/agamemnon,character/ajax,character/cressida,character/hector,character/helen,character/pandarus,character/queen,character/troilus"></span>
@@ -1811,6 +1860,168 @@ Exit
 | *(didascalia)* | Exit |
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entrano in alto [[Cressida]] e il suo servo Alessandro |
+| [[Cressida|CRESSIDA]] | Chi erano quelli che sono passati? |
+| ALESSANDRO | La [[Queen|regina]] Ecuba ed [[Helen|Elena]]. |
+| [[Cressida|CRESSIDA]] | E dove vanno? |
+| ALESSANDRO | Su alla torre orientale,<br>la cui altezza domina soggetta tutta la valle,<br>per vedere la battaglia. [[Hector|Ettore]], la cui pazienza<br>è come virtù saldamente fissa, oggi è stato commosso.<br>Ha rimbrottato Andromaca e percosso il suo armaiolo<br>e, come se in guerra vi fosse buona economia,<br>prima che il sole [[Rose|sorgesse]] era armato di leggero,<br>e va al campo, dove ogni fiore<br>come [[Prophet|profeta]] piangeva ciò che prevedeva<br>nell’ira d’[[Hector|Ettore]]. |
+| [[Cressida|CRESSIDA]] | Qual era la causa della sua collera? |
+| ALESSANDRO | La voce corre così: v’è fra i Greci<br>un signore di [[Blood|sangue]] troiano, nipote d’[[Hector|Ettore]];<br>lo chiamano [[Ajax|Aiace]]. |
+| [[Cressida|CRESSIDA]] | Bene, e che c’è di lui? |
+| ALESSANDRO | Dicono ch’egli è un uomo per sé,<br><br>e sta [[Alone|solo]]. |
+| [[Cressida|CRESSIDA]] | Così fanno tutti gli uomini,<br>a meno che siano ubriachi, malati, o senza gambe. |
+| ALESSANDRO | Quest’uomo, signora, ha derubato molte bestie dei loro particolari attributi: è valoroso come il [[Lion|leone]], rozzo come l’orso, lento come l’elefante—un uomo in cui la [[Nature|natura]] ha stipato tanti umori che il suo valore è schiacciato in follia, e la sua follia farcita di discrezione. Non c’è uomo che abbia una virtù di cui egli non abbia un barlume, né uomo che abbia una macchia senza ch’egli ne porti qualche segno. È [[Melancholy|malinconico]] senza causa e allegro a contrappelo; ha le giunture d’ogni cosa, ma ogni cosa così slogata ch’egli è un Briareo gottoso, molte mani e nessun uso, o un Argo mezzo cieco, tutt’occhi e nessuna vista. |
+| [[Cressida|CRESSIDA]] | Ma come può quest’uomo che mi fa sorridere mettere in collera [[Hector|Ettore]]? |
+| ALESSANDRO | Dicono che ieri affrontò [[Hector|Ettore]] nella battaglia e l’abbatté, e per lo sdegno e la vergogna di ciò [[Hector|Ettore]] da allora sta digiuno e insonne. |
+| [[Cressida|CRESSIDA]] | Chi viene qui? |
+| ALESSANDRO | Signora, vostro zio [[Pandarus|Pandaro]]. |
+| *(didascalia)* | Entra [[Pandarus|Pandaro]] in alto |
+| [[Cressida|CRESSIDA]] | [[Hector|Ettore]] è un uomo prode. |
+| ALESSANDRO | Quanto altri al mondo, signora. |
+| [[Pandarus|PANDARO]] | Che c’è? Che c’è? |
+| [[Cressida|CRESSIDA]] | Buon giorno, zio [[Pandarus|Pandaro]]. |
+| [[Pandarus|PANDARO]] | Buon giorno, cugina Cressida. Di che parlate?—Buon giorno, Alessandro.—Come state, cugina? Quando siete stata a Ilio? |
+| [[Cressida|CRESSIDA]] | Stamattina, zio. |
+| [[Pandarus|PANDARO]] | Di che parlavate quando son giunto? Era [[Hector|Ettore]] armato e partito prima che venissi a Ilio? [[Helen|Elena]] non era alzata, vero? |
+| [[Cressida|CRESSIDA]] | [[Hector|Ettore]] era partito ma [[Helen|Elena]] non era alzata? |
+| [[Pandarus|PANDARO]] | Proprio così. [[Hector|Ettore]] si mosse presto. |
+| [[Cressida|CRESSIDA]] | Di questo parlavamo, e della sua collera. |
+| [[Pandarus|PANDARO]] | Era in collera? |
+| [[Cressida|CRESSIDA]] | Così dice costui. |
+| [[Pandarus|PANDARO]] | Vero, lo era. E ne conosco anche la causa. Oggi menerà colpi all’intorno, questo glielo posso dire. E c’è [[Troilus|Troilo]] che non gli resterà molto indietro. Si guardino da [[Troilus|Troilo]], anche questo glielo posso dire. |
+| [[Cressida|CRESSIDA]] | Come, è in collera anche lui? |
+| [[Pandarus|PANDARO]] | Chi, [[Troilus|Troilo]]? [[Troilus|Troilo]] è il migliore dei due. |
+| [[Cressida|CRESSIDA]] | O Giove! Non c’è confronto. |
+| [[Pandarus|PANDARO]] | Come, non fra [[Troilus|Troilo]] ed [[Hector|Ettore]]? Riconoscete un uomo se lo vedete? |
+| [[Cressida|CRESSIDA]] | Sì, se l’ho già visto prima e lo conoscevo. |
+| [[Pandarus|PANDARO]] | [[Well|Bene]], io dico che [[Troilus|Troilo]] è [[Troilus|Troilo]]. |
+| [[Cressida|CRESSIDA]] | Allora dite come dico io, perché son certa<br>che non è [[Hector|Ettore]]. |
+| [[Pandarus|PANDARO]] | No, né [[Hector|Ettore]] è [[Troilus|Troilo]], sotto certi aspetti. |
+| [[Cressida|CRESSIDA]] | È giusto per ciascuno dei due: ognuno è se stesso. |
+| [[Pandarus|PANDARO]] | Se stesso? Ahimè, povero [[Troilus|Troilo]], vorrei che lo fosse. |
+| [[Cressida|CRESSIDA]] | E lo è. |
+| [[Pandarus|PANDARO]] | A patto che, sarei andato a piedi nudi fino in India. |
+| [[Cressida|CRESSIDA]] | Non è [[Hector|Ettore]]. |
+| [[Pandarus|PANDARO]] | Se stesso? No, non è se stesso. Volesse il cielo che fosse se stesso! [[Well|Bene]], gli dèi stanno in alto, il [[Time|tempo]] deve soccorrere o por fine. [[Well|Bene]], [[Troilus|Troilo]], [[Well|bene]], vorrei che il mio cuore fosse nel [[Body|corpo]] di lei. No, [[Hector|Ettore]] non è uomo migliore di [[Troilus|Troilo]]. |
+| [[Cressida|CRESSIDA]] | Scusatemi. |
+| [[Pandarus|PANDARO]] | È più anziano. |
+| [[Cressida|CRESSIDA]] | Perdonatemi, perdonatemi. |
+| [[Pandarus|PANDARO]] | L’altro non ci è ancora arrivato. Mi racconterete un’altra storia quando l’altro ci sarà arrivato. [[Hector|Ettore]] non otterrà il suo volere quest’anno. |
+| [[Cressida|CRESSIDA]] | Non ne avrà bisogno, se avrà il suo. |
+| [[Pandarus|PANDARO]] | Né le sue qualità. |
+| [[Cressida|CRESSIDA]] | Non importa. |
+| [[Pandarus|PANDARO]] | Né la sua [[Beauty|bellezza]]. |
+| [[Cressida|CRESSIDA]] | Non gli s’addirebbe; la sua è migliore. |
+| [[Pandarus|PANDARO]] | Non avete giudizio, nipote. [[Helen|Elena]] stessa giurò l’altro giorno che [[Troilus|Troilo]], per un incarnato bruno, ché tale è, devo confessarlo—e nemmeno bruno— |
+| [[Cressida|CRESSIDA]] | No, ma bruno. |
+| [[Pandarus|PANDARO]] | In [[Faith|fede]], a dir la [[Truth|verità]], bruno e non bruno. |
+| [[Cressida|CRESSIDA]] | A dir la [[Truth|verità]], vero e non vero. |
+| [[Pandarus|PANDARO]] | Lodò il suo incarnato sopra quello di [[Paris|Paride]]. |
+| [[Cressida|CRESSIDA]] | Ma via, [[Paris|Paride]] ha colore abbastanza. |
+| [[Pandarus|PANDARO]] | E l’ha. |
+| [[Cressida|CRESSIDA]] | Allora [[Troilus|Troilo]] dovrebbe averne troppo. Se lei lo lodò sopra l’altro, il suo incarnato è più acceso del suo; avendo l’uno colore abbastanza, e l’altro più acceso, è lode troppo fiammeggiante per un buon incarnato. Tanto mi sarebbe piaciuto che l’aurea lingua d’[[Helen|Elena]] avesse lodato [[Troilus|Troilo]] per un naso di rame. |
+| [[Pandarus|PANDARO]] | Vi giuro, credo che [[Helen|Elena]] lo ami più di [[Paris|Paride]]. |
+| [[Cressida|CRESSIDA]] | Allora è davvero una Greca allegra. |
+| [[Pandarus|PANDARO]] | Anzi, ne son certo. L’altro giorno gli venne accanto nella [[Window|finestra]] arcuata, e sapete che non ha più di tre o quattro peli sul mento— |
+| [[Cressida|CRESSIDA]] | Davvero, l’aritmetica d’un garzone d’osteria può ben presto portarne a totale i particolari. no |
+| [[Pandarus|PANDARO]] | Ma è molto giovane—e tuttavia, a tre libbre di differenza, solleverà quanto suo fratello [[Hector|Ettore]]. |
+| [[Cressida|CRESSIDA]] | È un uomo così giovane e un ladro così vecchio? |
+| [[Pandarus|PANDARO]] | Ma per provarvi che [[Helen|Elena]] l’ama: venne e mi pose la sua bianca mano sul mento fesso di lui. |
+| [[Cressida|CRESSIDA]] | Giunone abbia [[Mercy|pietà]]! Come s’è fesso? |
+| [[Pandarus|PANDARO]] | Ma via, sapete, ha una fossetta. Credo che il sorriso gli s’addica meglio che a qualunque uomo in tutta la Frigia. |
+| [[Cressida|CRESSIDA]] | Oh, sorride valorosamente. |
+| [[Pandarus|PANDARO]] | Non è vero? |
+| [[Cressida|CRESSIDA]] | Oh sì, come fosse una nube d’[[Autumn|autunno]]. |
+| [[Pandarus|PANDARO]] | Suvvia, dunque. Ma per provarvi che [[Helen|Elena]] ama [[Troilus|Troilo]]— |
+| [[Cressida|CRESSIDA]] | [[Troilus|Troilo]] sosterrà la prova, se così la proverete. |
+| [[Pandarus|PANDARO]] | [[Troilus|Troilo]]? Ma egli la stima non più di quanto io stimi un uovo guasto. |
+| [[Cressida|CRESSIDA]] | Se [[Love|amate]] un uovo guasto [[Well|bene]] quanto [[Love|amate]] una testa vuota, mangereste i pulcini nel guscio. |
+| [[Pandarus|PANDARO]] | Non posso far altro che ridere al pensiero di come gli fece il solletico sul mento. Davvero, ha una mano meravigliosamente bianca, devo pur confessarlo— |
+| [[Cressida|CRESSIDA]] | Senza il cavalletto della tortura. |
+| [[Pandarus|PANDARO]] | E si prende la briga di scovargli un pelo bianco sul mento. |
+| [[Cressida|CRESSIDA]] | Ahimè, povero mento! Più d’una verruca è più ricca. |
+| [[Pandarus|PANDARO]] | Ma ci fu un tal ridere! La [[Queen|regina]] Ecuba rise tanto che le traboccarono gli occhi. |
+| [[Cressida|CRESSIDA]] | Con macine da mulino. |
+| [[Pandarus|PANDARO]] | E Cassandra rise. |
+| [[Cressida|CRESSIDA]] | Ma sotto il paiolo dei suoi occhi c’era un [[Fire|fuoco]] più temperato—o traboccarono anche i suoi occhi? |
+| PINDARUS | Ed [[Hector|Ettore]] rise. |
+| [[Cressida|CRESSIDA]] | Di che si rideva tanto? |
+| [[Pandarus|PANDARO]] | Perbacco, del pelo bianco che [[Helen|Elena]] scovò sul<br>mento di [[Troilus|Troilo]]. |
+| [[Cressida|CRESSIDA]] | Se fosse stato un pelo verde, avrei riso anch’io. |
+| [[Pandarus|PANDARO]] | Non ridevano tanto del pelo quanto della sua bella risposta. |
+| [[Cressida|CRESSIDA]] | Qual fu la sua risposta? |
+| [[Pandarus|PANDARO]] | Disse lei: ‘Non hai che cinquantadue peli sul mento, e uno di essi è bianco.’ |
+| [[Cressida|CRESSIDA]] | Questa è la sua domanda. |
+| PINDARUS | È vero, non ci sia dubbio su questo. ‘Cinquantadue peli,’ disse lui, ‘e uno bianco? Quel pelo bianco è mio padre, e tutti gli altri sono i suoi figli.’ ‘Giove!’ disse lei, ‘quale di questi peli è [[Paris|Paride]] mio marito?’ ‘Quello biforcuto,’ disse lui, ‘strappalo e daglielo.’ Ma ci fu un tal ridere, e [[Helen|Elena]] arrossì tanto e [[Paris|Paride]] tanto si stizzì e tutti gli altri tanto risero, che passò ogni misura. |
+| [[Cressida|CRESSIDA]] | Così passi ora, ché è passato un bel pezzo di tempo. |
+| [[Pandarus|PANDARO]] | [[Well|Bene]], cugina, ieri vi dissi una cosa.<br>Pensateci. |
+| [[Cressida|CRESSIDA]] | Ci penso. |
+| [[Pandarus|PANDARO]] | Lo giurerei, è vero. Piangerà per voi come un uomo nato in aprile. |
+| [[Cressida|CRESSIDA]] | E io [[spring|germoglierò]] nelle sue [[Tears|lacrime]] come un’ortica al venire di maggio.<br>Si suona la ritirata |
+| [[Pandarus|PANDARO]] | Udite, tornano dal campo. Vogliamo stare qui in alto e vederli passare verso Ilio? Buona nipote, sì, dolce nipote [[Cressida]]. |
+| [[Cressida|CRESSIDA]] | Come vi piace. |
+| [[Pandarus|PANDARO]] | Qui, qui, ecco un posto eccellente, qui potremo vedere splendidamente. Ve li dirò tutti per nome mentre passano, ma osservate [[Troilus|Troilo]] più di tutti. |
+| *(didascalia)* | Entra Enea passando di sotto |
+| [[Cressida|CRESSIDA]] | Non parlate così forte. |
+| [[Pandarus|PANDARO]] | Quello è Enea. Non è un uomo prode? È uno dei [[Flowers|fiori]] di Troia, ve lo posso dire. Ma osservate [[Troilus|Troilo]]; lo vedrete or ora. |
+| *(didascalia)* | Entra Antenore passando di sotto |
+| [[Cressida|CRESSIDA]] | Chi è quello? |
+| [[Pandarus|PANDARO]] | Quello è Antenore. Ha un ingegno acuto, ve lo posso dire, ed è un uomo abbastanza valente. È uno dei più saldi giudizi che vi siano in Troia, chiunque altro ci sia, e un uomo di bella persona. Quando viene [[Troilus|Troilo]]? Vi mostrerò [[Troilus|Troilo]] or ora. Se mi vede, lo vedrete farmi un cenno del capo. |
+| [[Cressida|CRESSIDA]] | Vi farà il cenno dello sciocco? |
+| [[Pandarus|PANDARO]] | Vedrete. |
+| [[Cressida|CRESSIDA]] | Se lo fa, il ricco avrà di più. |
+| *(didascalia)* | Entra [[Hector|Ettore]] passando di sotto |
+| [[Pandarus|PANDARO]] | Quello è [[Hector|Ettore]], quello, quello, guardate, quello. Ecco un uomo!—Va’ pure, [[Hector|Ettore]]!—Ecco un uomo prode, nipote. O prode [[Hector|Ettore]]! Guardate come guarda. Ecco un volto. Non è un uomo prode? |
+| [[Cressida|CRESSIDA]] | Oh, un uomo prode. |
+| [[Pandarus|PANDARO]] | Non è vero? Fa bene al cuore d’un uomo. Guardate che tagli ha sull’elmo. Guardate là, vedete? Guardate lì. Non c’è da scherzare. Là si mena, e se lo scrolli chi vuole, come dicono. Là ci sono tagli. |
+| [[Cressida|CRESSIDA]] | Sono fatti con le spade? |
+| *(didascalia)* | Entra [[Paris|Paride]] passando di sotto |
+| [[Pandarus|PANDARO]] | Spade, qualsiasi cosa, non gliene importa. Se gli venisse incontro il diavolo, per lui è tutt’uno. Per la palpebra di Dio, fa bene al cuore. Là viene [[Paris|Paride]], là viene [[Paris|Paride]]. Guardate là, nipote. Non è anche lui un uomo prode? Non è vero? Ecco, questo è bello ora. Chi ha detto che oggi è tornato a [[Home|casa]] ferito? Non è ferito. Ecco, questo farà bene al cuore d’[[Helen|Elena]] ora, hal Vorrei poter vedere [[Troilus|Troilo]] ora. Vedrete [[Troilus|Troilo]] or ora. |
+| *(didascalia)* | Entra Eleno passando di sotto |
+| [[Cressida|CRESSIDA]] | Chi è quello? |
+| [[Pandarus|PANDARO]] | Quello è Eleno. Mi domando dove sia [[Troilus|Troilo]]. Quello è Eleno. Credo che oggi non sia uscito. Quello è Eleno. |
+| [[Cressida|CRESSIDA]] | Sa combattere Eleno, zio? |
+| [[Pandarus|PANDARO]] | Eleno? No—sì, combatterà passabilmente [[Well|bene]].<br>Mi domando dove sia [[Troilus|Troilo]]. |
+| *(didascalia)* | Un clamore |
+| [[Pandarus|PANDARO]] | Udite, non sentite il popolo gridare ‘[[Troilus|Troilo]]’? Eleno è un sacerdote. |
+| *(didascalia)* | Entra [[Troilus|Troilo]] passando di sotto |
+| [[Cressida|CRESSIDA]] | Che tipo furtivo viene là? |
+| [[Pandarus|PANDARO]] | Dove? Là? Quello è Deifobo.—È [[Troilus|Troilo]]! Ecco un uomo, nipote, eh? Prode [[Troilus|Troilo]], il principe della cavalleria! |
+| [[Cressida|CRESSIDA]] | Tacete, per vergogna, tacete. |
+| [[Pandarus|PANDARO]] | Osservatelo, notatelo. O prode [[Troilus|Troilo]]! Guardatelo [[Well|bene]], nipote. Guardate come la sua [[Sword|spada]] è insanguinata e l’elmo più tagliuzzato di quello d’[[Hector|Ettore]], e come guarda e come cammina. O gioventù ammirabile! Non ha ancora visto i ventitré anni.—Va’ pure, [[Troilus|Troilo]], va’ pure!—S’io avessi una sorella che fosse una Grazia, o una figlia che fosse una dea, egli avrebbe la scelta. O uomo ammirabile! [[Paris|Paride]]? [[Paris|Paride]] è fango accanto a lui, e garantisco che [[Helen|Elena]], per fare il cambio, darebbe un occhio in aggiunta. |
+| *(didascalia)* | Entrano soldati comuni passando di sotto |
+| [[Cressida|CRESSIDA]] | Ne vengono altri. |
+| [[Pandarus|PANDARO]] | Asini, sciocchi, zucconi. Pula e crusca, pula e crusca. Minestra dopo la carne. Potrei vivere e morire negli occhi di [[Troilus|Troilo]]. Non guardate più, non guardate più, le aquile sono passate. Corvi e cornacchie, corvi e cornacchie. Preferirei essere un uomo come [[Troilus|Troilo]] che [[Agamemnon|Agamennone]] e tutta la Grecia. |
+| [[Cressida|CRESSIDA]] | Fra i Greci c’è [[Achilles|Achille]], uomo migliore di [[Troilus|Troilo]]. |
+| [[Pandarus|PANDARO]] | [[Achilles|Achille]]? Un carrettiere, un facchino, un vero cammello. |
+| [[Cressida|CRESSIDA]] | [[Well|Bene]], [[Well|bene]]. |
+| [[Pandarus|PANDARO]] | [[Well|Bene]], [[Well|bene]]? Ma via, avete un po’ di discernimento? Avete occhi? Sapete che cosa sia un uomo? Non sono la nascita, la [[Beauty|bellezza]], la buona forma, l’eloquio, la virilità, il sapere, la gentilezza, la virtù, la giovinezza, la liberalità e così via, la spezia e il sale che condiscono un uomo? |
+| [[Cressida|CRESSIDA]] | Sì, un uomo tritato—e poi da cuocersi in forno senza datteri nel pasticcio, ché allora la data dell’uomo è scaduta. |
+| [[Pandarus|PANDARO]] | Siete proprio una tal donna! Non si sa in che guardia stiate. |
+| [[Cressida|CRESSIDA]] | Sulla schiena per difendere il ventre, sull’ingegno per difendere le mie astuzie, sulla segretezza per difendere la mia onestà, sulla maschera per difendere la mia [[Beauty|bellezza]], e su voi per difendere tutte queste cose—e in tutte queste guardie sto con mille vigilanze. |
+| [[Pandarus|PANDARO]] | Ditene una delle vostre vigilanze. |
+| [[Cressida|CRESSIDA]] | ‘No, di questo mi guarderò da voi’—e anche questa è una delle principali. Se non posso parare ciò che non vorrei fosse colpito, posso guardarmi da voi perché non raccontiate come ho preso il colpo—a meno che non gonfi tanto da non potersi nascondere, e allora non c’è più vigilanza che valga. |
+| [[Pandarus|PANDARO]] | Siete proprio una tale! |
+| *(didascalia)* | Entra un Paggio |
+| PAGGIO | Signore, il mio padrone vuole parlarvi all’istante. |
+| [[Pandarus|PANDARO]] | Dove? |
+| PAGGIO | In [[house|casa]] vostra. |
+| [[Pandarus|PANDARO]] | Bravo ragazzo, digli che vengo. |
+| *(didascalia)* | Esce il Paggio |
+| [[Pandarus|PANDARO]] | [[Doubt|Temo]] che sia ferito. State [[Well|bene]], buona nipote. |
+| [[Cressida|CRESSIDA]] | Addio, zio. |
+| [[Pandarus|PANDARO]] | Sarò con voi, nipote, fra poco. |
+| [[Cressida|CRESSIDA]] | Per portare, zio? |
+| [[Pandarus|PANDARO]] | Sì, un pegno da [[Troilus|Troilo]]. |
+| [[Cressida|CRESSIDA]] | Per lo stesso pegno, voi siete un mezzano. |
+| *(didascalia)* | Escono [[Pandarus|Pandaro]] e Alessandro |
+| [[Cressida|CRESSIDA]] | Parole, voti, doni, [[Tears|lacrime]], e il pieno sacrificio d’[[Love|amore]]<br>egli offre nell’impresa d’un altro;<br>ma in [[Troilus|Troilo]] vedo mille volte più<br>di quanto nello specchio della lode di Pandaro possa apparire.<br>Pur mi trattengo. Le donne sono angeli, finché corteggiate;<br>le cose vinte son finite. L’[[Soul|anima]] della gioia sta nel farla.<br>Nulla sa quella donna amata che non sappia questo:<br>gli uomini prezzano la cosa non ottenuta più di quel che vale.<br>Non ci fu mai donna che conoscesse<br>l’[[Love|amore]] ottenuto dolce come quando il [[Desire|desiderio]] supplicava.<br>Perciò questa massima dall’[[Love|amore]] io traggo e insegno:<br>chi ha ottenuto comanda; chi non ha ottenuto, supplica.<br>Dunque, sebbene il contento del mio cuore porti fermo [[Love|amore]],<br>nulla di ciò apparirà dai miei occhi. |
+| *(didascalia)* | Esce |
+
 
 
 <span class="atom-split" data-atom="act_1--scene_3" data-title="Troilus and Cressida — Act I, Scene 3" data-chapter="Scene 3" data-kind="scene" data-tags="archetype/artist,archetype/fool,archetype/king,motif/blood,motif/fire,motif/home,motif/horse,motif/love,motif/nature,motif/night,motif/soul,motif/time,motif/well,motif/wind,concept/beauty,concept/courage,concept/fear,concept/greatness,concept/honour,concept/hope,concept/nature,concept/pride,concept/self,concept/truth,form/masque,setting/mountains,character/achilles,character/agamemnon,character/ajax,character/apollo,character/cressida,character/hector,character/speed,character/thersites,character/troilus,character/ulysses"></span>
@@ -1876,6 +2087,68 @@ Exit
 | NESTOR | Now, [[Ulysses]], I begin to relish thy advice,<br>And I will give a taste of it forthwith<br>To [[Agamemnon]]. Go we to him straight.<br>Two curs shall tame each other; [[Pride\|pride]] [[Alone\|alone]]<br>Must tarre the mastiffs on, as ’twere their bone. |
 | *(didascalia)* | Exeunt |
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Squillo di trombe. Entrano [[Agamemnon|Agamennone]], Nestore, [[Ulysses|Ulisse]], Diomede, e Menelao, con altri |
+| [[Agamemnon|AGAMENNONE]] | Principi, qual dolore v’ha posto l’itterizia sulle<br>guance?<br>L’ampio proponimento che la [[Hope|speranza]] fa<br>in ogni disegno intrapreso qui sulla terra<br>manca della promessa larghezza. Intoppi e disastri<br>crescono nelle vene delle azioni più altamente erette,<br>come i nodi, per il confluire della linfa che s’incontra,<br>infettano il pino sano e ne deviano la fibra,<br>torta ed errante, dal suo corso di crescita.<br>Né, principi, è cosa nuova per noi<br>che tanto restiamo al di sotto della nostra previsione<br>che dopo sette anni d’assedio le mura di Troia ancora stanno,<br>poiché ogni azione che ci ha precorso,<br>di cui abbiamo memoria, la prova la trasse<br>obliqua e di traverso, non rispondendo alla mira<br>né a quell’incorporea figura del pensiero<br>che le diede forma supposta. Perché dunque, o principi,<br>guardate con guance confuse le nostre opere,<br>e le reputate vergogne, che in verità non sono altro<br>che le prove protratte del grande Giove<br>per trovare negli uomini persistente costanza?<br>La finezza di tal tempra non si trova<br>nell’[[Love|amore]] della fortuna—ché allora l’ardito e il codardo,<br>il saggio e lo [[Fool|stolto]], l’[[artist|artista]] e l’illetterato,<br>il duro e il molle, paiono tutti affini e congiunti.<br>Ma nel [[Wind|vento]] e nella tempesta del suo cipiglio<br>la distinzione, con vaglio sonoro e potente,<br>soffiando su tutto, disperde il leggero,<br>e ciò che ha massa o materia per sé<br>resta ricco di virtù e non commisto. |
+| NESTORE | Col debito rispetto al tuo divino soglio,<br>grande [[Agamemnon|Agamennone]], Nestore applicherà<br>le tue ultime parole. Nella riprova della sorte<br>sta la vera prova degli uomini. Quando il mare è liscio,<br>quante barchette da nulla osano navigare<br>sul suo petto paziente, facendosi strada<br>insieme a quelle di più nobile mole!<br>Ma faccia una volta il rissoso Borea infuriare<br>la gentile Tetide, e tosto vedrai<br>la barca dalle forti costole per liquide [[Mountains|montagne]]<br>fendere,<br>balzando fra i due umidi elementi<br>come il [[Horse|cavallo]] di Perseo. Dov’è allora la barchetta insolente<br>i cui fianchi deboli e senza fasciame appena ora<br>rivaleggiavano con la [[Greatness|grandezza]]? O fuggita in porto,<br>o fatta crostino per Nettuno. Proprio così<br>si dividono l’apparenza del valore e il valore vero<br>nelle tempeste della fortuna. Ché nel suo raggio e splendore<br>l’armento è più molestato dal tafano<br>che dalla tigre; ma quando il [[Wind|vento]] che spacca<br>rende flessibili le ginocchia delle querce nodose<br>e le mosche fuggono all’ombra, allora la creatura di<br>[[Courage|coraggio]],<br>destata dalla furia, con la furia s’accorda,<br>e con accento intonato nella medesima chiave<br>ribatte alla fortuna che la rimbrotta. |
+| [[Ulysses|ULISSE]] | [[Agamemnon|Agamennone]],<br>tu, gran comandante, nervo e osso della Grecia,<br>cuore delle nostre schiere, [[Soul|anima]] e solo spirito<br>in cui i temperamenti e le menti di tutti<br>dovrebbero racchiudersi, ascolta ciò che dice [[Ulysses|Ulisse]].<br>Oltre al plauso e all’approvazione<br>che, (ad [[Agamemnon|Agamennone]]) a te potentissimo per il tuo posto<br>e dominio,<br>e a te, (a Nestore) venerandissimo per la tua protratta<br>vita,<br>io do a entrambi i vostri discorsi—che furono tali<br>che, [[Agamemnon|Agamennone]], ogni mano di Grecia<br>dovrebbe levarli alti in bronzo, e tali ancora<br>che, venerabile Nestore, incisi in argento,<br>dovrebbero con vincolo d’aria, forte come l’asse<br>su cui girano i cieli, legare gli orecchi di tutti i Greci<br>alla sua esperta lingua—tuttavia piaccia a entrambi,<br>a te (ad [[Agamemnon|Agamennone]]) grande, e (a Nestore) saggio,<br>d’udire parlare [[Ulysses|Ulisse]]. |
+| [[Agamemnon|AGAMENNONE]] | Parla, principe d’Itaca, e sia meno atteso<br>che materia inutile, di peso senza importanza,<br>ti divida le labbra, di quanto siamo certi<br>che quando il fetido [[Thersites|Tersite]] apre le sue mascelle di mastice<br>udremo musica, ingegno e oracolo. |
+| [[Ulysses|ULISSE]] | Troia, che ancora sta sulle sue fondamenta, sarebbe caduta<br>e la [[Sword|spada]] del grande [[Hector|Ettore]] sarebbe stata senza padrone,<br>se non fosse per queste ragioni:<br>il privilegio del comando è stato trascurato.<br>E guardate quante tende greche stanno<br>vuote su questa pianura: tante vuote fazioni.<br>Quando il generale non è come l’alveare<br>al quale tutte le bottinatrici s’indirizzano,<br>qual miele s’attende? Mascherato il grado,<br>il più indegno figura bene quanto gli altri nella [[Masque|mascherata]] |
+| *(didascalia)* |  . |
+| [[Ulysses|ULISSE]] | I cieli stessi, i pianeti, e questo centro<br>osservano grado, priorità e luogo,<br>stabilità, corso, proporzione, stagione, forma,<br>ufficio e costume, in ogni linea d’ordine.<br>E perciò il glorioso pianeta Sole<br>in nobile eminenza è intronizzato e insferato<br>fra gli altri, il cui occhio medicinale<br>corregge i mali aspetti dei pianeti malefici<br>e corre come il comando d’un [[King|re]],<br>senza ostacolo, ai buoni e ai cattivi. Ma quando i pianeti<br>in mala mescolanza vagano al disordine,<br>quali pesti e quali portenti, quale ammutinamento?<br>Quale furia del mare, quale scuotimento della terra?<br>Sconvolgimento nei venti, spaventi, mutamenti, orrori<br>deviano e schiantano, lacerano e sradicano<br>l’[[unity|unità]] e la maritata calma degli stati<br>affatto dalla loro sede. Oh, quando il grado è scosso,<br>esso che è la scala d’ogni alto disegno,<br>l’impresa è malata. Come potrebbero le comunità,<br>i gradi nelle scuole, le confraternite nelle città,<br>il pacifico commercio fra sponde divise,<br>la primogenitura e il diritto di nascita,<br>la prerogativa dell’età, corone, scettri, lauri,<br>stare al loro autentico posto, se non per grado?<br>Togli via solo il grado, scorda quella corda,<br>e senti che discordia segue. Ogni cosa s’incontra no<br>in mera opposizione. Le acque contenute<br>solleverebbero i loro seni più alti delle sponde<br>e farebbero una zuppa di tutto questo solido globo;<br>la forza sarebbe signora della debolezza,<br>e il figlio brutale colpirebbe a morte suo padre.<br>La forza sarebbe diritto—o piuttosto, il diritto e il torto,<br>fra il cui interminabile contrasto risiede la giustizia,<br>perderebbero i loro nomi, e con essi anche la giustizia.<br>Allora ogni cosa si racchiude nella potenza,<br>la potenza nella volontà, la volontà nell’appetito;<br>e l’appetito, lupo universale,<br>così doppiamente secondato da volontà e potenza,<br>farebbe per forza una preda universale,<br>e alla fine divorerebbe se stesso. Grande [[Agamemnon|Agamennone]],<br>questo caos, quando il grado è soffocato,<br>segue lo strangolamento.<br>Ed è questa negligenza del grado<br>che d’un passo va indietro nel proposito<br>che ha di salire. Il generale è disdegnato<br>da chi gli sta un grado sotto; questi, dal seguente;<br>quel seguente, da chi gli è di sotto. Così ogni grado,<br>sull’esempio del primo passo che è malato<br>del suo superiore, cresce in febbre invidiosa<br>di pallida ed esangue emulazione.<br>Ed è questa febbre che tiene Troia in piedi,<br>non i suoi nervi. Per finire un racconto di lunghezza:<br>Troia vive nella nostra debolezza, non nella sua forza. |
+| NESTORE | Sapientissimamente [[Ulysses|Ulisse]] ha qui scoperto<br>la febbre di cui tutta la nostra potenza è malata. |
+| [[Agamemnon|AGAMENNONE]] | Trovata la [[Nature|natura]] del morbo, [[Ulysses|Ulisse]],<br>qual è il rimedio? |
+| [[Ulysses|ULISSE]] | Il grande [[Achilles|Achille]], che l’opinione incorona<br>nervo e braccio primo del nostro esercito,<br>avendo l’orecchio pieno della sua aerea fama<br>si fa schifiltoso del proprio merito, e nella sua tenda<br>sta a beffare i nostri disegni. Con lui Patroclo,<br>su un letto d’ozio tutto il santo giorno,<br>sciorina scurrili facezie<br>e, con gesti ridicoli e sconci<br>che, calunniatore, egli chiama ‘[[Imitation|imitazione]]’,<br>ci rappresenta in mascherata. Talvolta, grande [[Agamemnon|Agamennone]],<br>indossa la tua altissima autorità,<br>e come un attore pavoneggiante, il cui ingegno<br>sta nel garretto e crede cosa ricca<br>udire il dialogo e il suono di legno<br>fra il suo passo teso e le tavole del palco,<br>in tale sembianza da compatire e stiracchiata<br>recita la tua [[Greatness|grandezza]]. E quando parla<br>è come un carillon in [[mending|riparazione]], con parole senza squadra<br>che, cadute dalla lingua del ruggente Tifone,<br>parrebbero iperboli. A questa roba muffita<br>il grosso [[Achilles|Achille]], sdraiato sul letto schiacciato,<br>dal profondo petto ride un sonoro applauso,<br>grida ‘Eccellente! È [[Agamemnon|Agamennone]] preciso.<br>Ora fammi Nestore, tossicchia e lisciati la barba,<br>come s’egli s’apprestasse a qualche orazione.’<br>E ciò è fatto tanto simile quanto gli estremi capi<br>di due parallele, tanto somigliante quanto Vulcano e sua moglie.<br>E tuttavia il dio [[Achilles|Achille]] grida ancora: ‘Eccellente!<br>È Nestore in persona. Ora fammelo, Patroclo,<br>mentre s’arma per rispondere a un allarme di [[Night|notte]]’.<br>E allora, in verità, i languidi difetti dell’età<br>devono essere la scena dell’allegria: tossire e sputare,<br>e con mano tremante, brancicando la gorgiera,<br>scuotere dentro e fuori il chiodo. E a questo spasso<br>Messer Valore muore, grida: ‘Oh basta, Patroclo!<br>O dammi costole d’acciaio. Mi spaccherò tutto<br>per il piacere della mia milza.’ E in tal modo<br>tutte le nostre capacità, doti, nature, forme,<br>particolari e generali d’esatta grazia,<br>imprese, piani, ordini, precauzioni,<br>incitamenti al campo o discorsi di tregua,<br>[[success|successo]] o perdita, ciò che è o ciò che non è, serve<br>a questi due come materia per far paradossi. |
+| NESTORE | E nell’[[Imitation|imitazione]] di questi due<br>che, come dice [[Ulysses|Ulisse]], l’opinione incorona<br>con voce imperiale, molti sono infetti.<br>[[Ajax|Aiace]] s’è fatto ostinato di [[Self|sé]] e porta il capo<br>con tale briglia, in posto altrettanto superbo<br>quanto il largo [[Achilles|Achille]], e sta in tenda come lui,<br>fa banchetti di fazione, inveisce contro il nostro stato di guerra<br>ardito come un oracolo, e aizza [[Thersites|Tersite]],<br>uno schiavo la cui bile conia calunnie come una zecca,<br>a paragonarci col fango,<br>a indebolire e screditare la nostra esposizione,<br>per quanto fittamente essa sia cinta di pericolo. |
+| [[Ulysses|ULISSE]] | Tassano la nostra prudenza e la chiamano codardia,<br>contano la saggezza come non membro della guerra,<br>prevengono la previdenza e non stimano atto<br>se non quello della mano. Le parti quiete e mentali<br>che escogitano quante mani debbano colpire<br>quando l’opportunità le chiami, e conoscono a misura<br>della loro attenta fatica il peso del nemico,<br>ebbene, ciò non ha la dignità d’un dito.<br>Chiamano questo ‘lavoro da letto’, ‘faccenda di mappe’, ‘guerra da studio’.<br>Così che l’ariete che abbatte il muro,<br>per il grande slancio e la rozzezza del suo peso,<br>lo pongono innanzi alla mano che fece la macchina,<br>o a quelli che con la finezza delle loro anime<br>con la ragione ne guidano l’opera. |
+| NESTORE | Si conceda questo, e il [[Horse|cavallo]] d’[[Achilles|Achille]]<br>fa molti figli di Tetide. |
+| *(didascalia)* | Squillo di tromba |
+| [[Agamemnon|AGAMENNONE]] | Che tromba è questa?<br>Guarda, Menelao. |
+| MENELAO | Da Troia. |
+| *(didascalia)* | Entrano Enea e un trombettiere |
+| [[Agamemnon|AGAMENNONE]] | Che volete davanti alla nostra tenda? |
+| ENEA | È questa la tenda del grande [[Agamemnon|Agamennone]], di grazia? |
+| [[Agamemnon|AGAMENNONE]] | Questa appunto. |
+| ENEA | Può uno che è araldo e principe<br>recare un cortese messaggio ai suoi regali orecchi? |
+| [[Agamemnon|AGAMENNONE]] | Con garanzia più forte del braccio d’[[Achilles|Achille]],<br>innanzi a tutti i capi greci, che con una sola voce<br>chiamano [[Agamemnon|Agamennone]] cuore e generale. |
+| ENEA | Cortese permesso e ampia garanzia. Come può<br>uno straniero a quegli sguardi imperialissimi<br>distinguerli dagli occhi d’altri mortali? |
+| [[Agamemnon|AGAMENNONE]] | Come? |
+| ENEA | Sì, lo chiedo per poter destare la riverenza<br>e tenere pronto sulla guancia un rossore<br>modesto come il mattino quando freddamente guarda<br>il giovine Febo.<br>Quale è quel dio in carica, che guida gli uomini?<br>Quale è l’alto e possente [[Agamemnon|Agamennone]]? |
+| [[Agamemnon|AGAMENNONE]] | (ai Greci)<br>Questo Troiano ci schernisce, o gli uomini di Troia<br>sono cortigiani cerimoniosi. |
+| ENEA | Cortigiani liberali, affabili, disarmati,<br>come angeli inchinati—tale è la loro fama in pace.<br>Ma quando vogliono apparire soldati hanno fiele,<br>buone braccia, salde giunture, spade fedeli—e la ghianda del grande<br>Giove<br>non è tanto piena di cuore. Ma taci, Enea,<br>taci, Troiano; poni il dito sulle labbra.<br>Il pregio della lode macchia il proprio pregio,<br>se il lodato stesso la lode produce.<br>Ma ciò che, a malincuore, il nemico loda,<br>quel soffio la fama diffonde; quella lode, sola pura,<br>trascende. |
+| [[Agamemnon|AGAMENNONE]] | Signore, voi di Troia, vi chiamate Enea? |
+| ENEA | Sì, Greco, questo è il mio nome. |
+| [[Agamemnon|AGAMENNONE]] | Qual è il vostro affare, di grazia? |
+| ENEA | Signore, perdonate, è per gli orecchi d’[[Agamemnon|Agamennone]]. |
+| [[Agamemnon|AGAMENNONE]] | Egli nulla ascolta in privato che venga da Troia. |
+| ENEA | Né io vengo da Troia per sussurrargli.<br>Porto una tromba per destargli l’orecchio,<br>per tendere i suoi sensi all’attenzione,<br>e poi parlare. |
+| [[Agamemnon|AGAMENNONE]] | Parla franco come il [[Wind|vento]].<br>Non è l’ora del sonno d’[[Agamemnon|Agamennone]].<br>Perché tu sappia, Troiano, ch’egli è sveglio,<br>te lo dice egli stesso. |
+| ENEA | Tromba, suona forte.<br>Manda la tua voce di bronzo per tutte queste tende oziose,<br>e ogni Greco di tempra sappia<br>che ciò che Troia lealmente intende sarà detto ad alta voce.<br>La tromba suona<br>Abbiamo, grande [[Agamemnon|Agamennone]], qui in Troia<br>un principe chiamato [[Hector|Ettore]]—Priamo è suo padre—<br>il quale in questa fiacca e lungamente durata tregua<br>s’è fatto restio. M’ordinò di prendere una tromba<br>e di parlare a questo fine: ‘Re, principi, signori,<br>se ve n’è uno fra i più nobili di Grecia<br>che tenga il suo [[Honour|onore]] più alto del suo agio,<br>che cerchi la sua lode più di quanto tema il suo periglio,<br>che conosca il suo valore e non conosca la sua [[Fear|paura]],<br>che ami la sua donna più di quanto in confessione,<br>con voti fuggitivi alle labbra di lei, dica d’amarla,<br>e osi affermare la sua [[Beauty|bellezza]] e il suo pregio<br>in armi altre che le sue—a lui questa sfida.<br>[[Hector|Ettore]], alla vista di Troiani e di Greci,<br>la sosterrà, o farà il suo meglio per sostenerla:<br>egli ha una dama più saggia, più bella, più fedele<br>di quante mai Greco cinse fra le braccia,<br>e domani con la sua tromba chiamerà,<br>a mezza via fra le vostre tende e le mura di Troia,<br>per destare un Greco che sia fedele in [[Love|amore]].<br>Se alcuno viene, [[Hector|Ettore]] l’[[Honour|onorerà]].<br>Se nessuno, dirà in Troia al suo ritorno<br>che le dame greche sono arse dal sole e non valgono<br>la scheggia d’una lancia.’ Questo è tutto. |
+| [[Agamemnon|AGAMENNONE]] | Questo sarà detto ai nostri [[lovers|innamorati]], signor Enea.<br>Se nessuno di loro ha [[Soul|anima]] di tal fatta,<br>li abbiamo lasciati tutti a [[Home|casa]]. Ma noi siamo soldati,<br>e si dimostri mero rinnegato quel soldato<br>che non intende, non ha, o non è in [[Love|amore]].<br>Se dunque uno lo è, o l’ha, o intende esserlo,<br>quello incontri [[Hector|Ettore]]. Se nessun altro, sarò io. |
+| NESTORE | (a<br>Enea)<br>Parlagli di Nestore, uno che era uomo<br>quando l’avo d’[[Hector|Ettore]] succhiava il latte. Ora è vecchio,<br>ma se non v’è nella nostra stampa greca<br>un uomo nobile che abbia una scintilla di [[Fire|fuoco]]<br>per rispondere in nome del suo [[Love|amore]], digli da parte mia<br>che nasconderò la mia barba d’argento in una visiera d’oro<br>e metterò nel bracciale questo muscolo disseccato,<br>e incontrandolo gli dirò che la mia dama<br>era più bella di sua nonna, e casta<br>quanto altre al mondo. La sua gioventù è in piena,<br>io proverò questa [[Truth|verità]] con le mie tre gocce di [[Blood|sangue]]. |
+| ENEA | Ora il cielo vieti tale scarsità di gioventù. |
+| [[Ulysses|ULISSE]] | Amen. |
+| [[Agamemnon|AGAMENNONE]] | Nobile signor Enea, lasciate ch’io tocchi la vostra mano.<br>Al nostro padiglione vi condurrò per primo.<br>[[Achilles|Achille]] avrà notizia di questo intento;<br>e così ogni signore di Grecia, di tenda in tenda.<br>Voi stesso banchetterete con noi prima d’andare,<br>e troverete l’accoglienza d’un nobile nemico. |
+| *(didascalia)* | Escono tutti tranne [[Ulysses|Ulisse]] e Nestore |
+| [[Ulysses|ULISSE]] | Nestore! |
+| NESTORE | Che dice [[Ulysses|Ulisse]]? |
+| [[Ulysses|ULISSE]] | Ho un giovane<br>concepimento nel cervello; siate voi il mio [[Time|tempo]]<br>per portarlo a qualche forma. |
+| NESTORE | Che cos’è? |
+| [[Ulysses|ULISSE]] | Ecco:<br>cunei ottusi spaccano nodi duri. La [[Pride|superbia]] andata a seme<br>che a tale maturità s’è gonfiata<br>nel rigoglioso [[Achilles|Achille]] o va ora recisa,<br>o, sgranandosi, genererà un semenzaio di simil male<br>che tutti ci soverchierà. |
+| NESTORE | [[Well|Bene]], e come? |
+| [[Ulysses|ULISSE]] | Questa sfida che il prode [[Hector|Ettore]] manda,<br>per quanto sia diffusa a nome generale,<br>nell’intento riguarda solo [[Achilles|Achille]]. |
+| NESTORE | L’intento è perspicuo, come una sostanza<br>la cui mole piccoli caratteri riassumono.<br>E, nella divulgazione, non dubitate<br>che [[Achilles|Achille]], fosse pure il suo cervello sterile<br>come le rive di Libia—sebbene, [[Apollo]] lo sa,<br>sia asciutto abbastanza—con gran [[Speed|prontezza]] di giudizio,<br>sì, con celerità, troverà che l’intento d’[[Hector|Ettore]]<br>punta su di lui. |
+| [[Ulysses|ULISSE]] | E lo desterà a rispondere, credete? |
+| NESTORE | Sì, è convenientissimo. Chi altri potreste opporgli<br>che possa da [[Hector|Ettore]] portar via il proprio [[Honour|onore]],<br>se non [[Achilles|Achille]]? Sebbene sia un combattimento per gioco,<br>in questa prova pur dimora molta reputazione,<br>ché qui i Troiani assaggiano la nostra più cara fama<br>col loro palato più fine. E credimi, [[Ulysses|Ulisse]],<br>la nostra stima sarà stranamente bilanciata<br>in questa temeraria azione: ché il [[success|successo]],<br>sebbene particolare, darà un saggio<br>di bene o di male al generale—<br>e in tali indici, sebbene piccoli punti<br>rispetto ai volumi che seguono, si vede<br>la figura in fasce della gigantesca mole<br>delle cose a venire in grande. Si suppone<br>che chi incontra [[Hector|Ettore]] esca dalla nostra scelta,<br>e la scelta, essendo atto comune di tutte le nostre anime,<br>fa del merito la sua elezione, e distilla,<br>come fosse, da noi tutti un uomo stillato<br>dalle nostre virtù—il quale, se falla,<br>qual cuore ne trae la parte vincente<br>per temprarsi in sé una forte opinione?<br>La quale accolta, le membra ne sono gli strumenti,<br>operanti non meno di spade e archi<br>diretti dalle membra. |
+| [[Ulysses|ULISSE]] | Perdonate il mio dire:<br>perciò conviene che [[Achilles|Achille]] non incontri [[Hector|Ettore]].<br>Mostriamo, come mercanti, la nostra merce più scadente<br>e pensiamo che forse si venderà. Se no,<br>lo splendore della migliore ancora da mostrare<br>apparirà migliore. Non consentite<br>che mai [[Hector|Ettore]] ed [[Achilles|Achille]] s’incontrino,<br>ché in ciò sia il nostro [[Honour|onore]] sia la nostra vergogna<br>sono seguiti da due strani cani. |
+| NESTORE | Non li vedo coi miei vecchi occhi. Quali sono? |
+| [[Ulysses|ULISSE]] | Qualunque gloria il nostro [[Achilles|Achille]] tragga da [[Hector|Ettore]],<br>se non fosse superbo la porteremmo tutti con lui.<br>Ma egli è già troppo insolente,<br>e meglio ci sarebbe arrostire al sole d’Africa<br>che nella [[Pride|superbia]] e nello scherno salato dei suoi occhi,<br>s’egli scampasse onorevolmente a [[Hector|Ettore]]. Se fosse sconfitto,<br>ebbene, avremmo schiacciato la nostra principale reputazione<br>nell’onta del nostro miglior uomo. No, si faccia una lotteria,<br>e per artificio si faccia sì che lo zotico [[Ajax|Aiace]] tragga<br>la sorte di combattere con [[Hector|Ettore]]. Fra noi stessi<br>riconosciamogli il vanto d’uomo più degno—<br>ché ciò medicherà il grande Mirmidone,<br>che si cuoce nel sonoro applauso, e gli farà abbassare<br>il cimiero, che si curva più superbo dell’azzurra Iride.<br>Se l’ottuso e scervellato [[Ajax|Aiace]] ne uscirà salvo,<br>lo rivestiremo di lodi; se falla,<br>andremo ancora forti dell’opinione<br>d’avere uomini migliori. Ma colpisca o manchi,<br>la vita del nostro progetto assume questa forma di senso:<br>[[Ajax|Aiace]] impiegato strappa le piume ad [[Achilles|Achille]]. |
+| NESTORE | Ora, [[Ulysses|Ulisse]], comincio a gustare il tuo consiglio,<br>e ne darò subito un assaggio<br>ad [[Agamemnon|Agamennone]]. Andiamo a lui senz’altro.<br>Due botoli si domeranno l’un l’altro; la [[Pride|superbia]] [[Alone|sola]]<br>deve aizzare i mastini, come fosse il loro osso. |
+| *(didascalia)* | Escono |
 
 
 
@@ -1976,6 +2249,101 @@ Exit
 | *(didascalia)* | Exit |
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entrano [[Ajax|Aiace]] e [[Thersites|Tersite]] |
+| [[Ajax|AIACE]] | [[Thersites|Tersite]]. |
+| [[Thersites|TERSITE]] | [[Agamemnon|Agamennone]]—e se avesse i foruncoli, pieni, tutto addosso, in generale? |
+| [[Ajax|AIACE]] | [[Thersites|Tersite]]. |
+| [[Thersites|TERSITE]] | E se quei foruncoli colassero? Dimmi, non colerebbe allora il Generale? Non sarebbe quello un torsolo purulento? |
+| [[Ajax|AIACE]] | Cane. |
+| [[Thersites|TERSITE]] | Allora ne uscirebbe qualche materia.<br>Ora non ne vedo nessuna. |
+| [[Ajax|AIACE]] | Figlio di lupa cagna, non senti? Senti allora questo.<br>Percuote [[Thersites|Tersite]] |
+| [[Thersites|TERSITE]] | La peste di Grecia su di te, signore bastardo dal cervello di manzo! |
+| [[Ajax|AIACE]] | Parla dunque, lievito non setacciato, parla! Ti bastonerò fino a farti bello. |
+| [[Thersites|TERSITE]] | Più presto io t’insolentirò fino a farti savio e santo. Ma credo che il tuo [[Horse|cavallo]] mandi a memoria un’orazione prima che tu impari una [[prayer|preghiera]] senza libro. |
+| *(didascalia)* | [[Ajax|Aiace]] lo percuote |
+| [[Thersites|TERSITE]] | Sai picchiare, eh? Una rossa moria sui tuoi trucchi da ronzino. |
+| [[Ajax|AIACE]] | Fungo da rospo! |
+| *(didascalia)* | Percuote [[Thersites|Tersite]] |
+| [[Ajax|AIACE]] | Impara per me il proclama. |
+| [[Thersites|TERSITE]] | Credi ch’io non abbia sensibilità, che mi percuoti così? |
+| [[Ajax|AIACE]] | Il proclama. |
+| [[Thersites|TERSITE]] | Tu sei proclamato [[Fool|sciocco]], credo. |
+| [[Ajax|AIACE]] | Non farlo, porcospino, non farlo. Mi prudono le dita. |
+| [[Thersites|TERSITE]] | Vorrei che ti prudesse da capo a piedi. E s’io avessi il compito di grattarti, farei di te la più ripugnante crosta di Grecia. |
+| [[Ajax|AIACE]] | Dico, il proclama. |
+| [[Thersites|TERSITE]] | Tu brontoli e inveisci ogni ora contro [[Achilles|Achille]], e sei tanto pieno d’invidia per la sua [[Greatness|grandezza]] quanto Cerbero per la [[Beauty|bellezza]] di Proserpina, sì, tanto che gli latri dietro. |
+| [[Ajax|AIACE]] | Madama [[Thersites|Tersite]]. |
+| [[Thersites|TERSITE]] | Dovresti percuotere lui. |
+| [[Ajax|AIACE]] | Pagnottone. |
+| [[Thersites|TERSITE]] | Ti pesterebbe in schegge col pugno, come un marinaio rompe un biscotto. |
+| [[Ajax|AIACE]] | Cagnaccio figlio di puttana. |
+| *(didascalia)* | Percuote [[Thersites|Tersite]] |
+| [[Thersites|TERSITE]] | Fallo! Fallo! |
+| [[Ajax|AIACE]] | Sgabello da [[Witch|strega]]. |
+| *(didascalia)* | Percuote [[Thersites|Tersite]] |
+| [[Thersites|TERSITE]] | Sì, fallo, fallo! Signore dal cervello lesso, non hai nel cranio più cervello di quanto io n’abbia nei gomiti. Un asinello può farti da maestro. Asino valoroso e scabbioso, tu stai qui solo per trebbiare Troiani, e sei comprato e venduto fra la gente d’un po’ d’ingegno come uno schiavo barbaro. Se prendi l’abitudine di picchiarmi, comincerò dal tuo calcagno e dirò pollice per pollice quel che sei, cosa senza viscere, tu. |
+| [[Ajax|AIACE]] | Cane. |
+| [[Thersites|TERSITE]] | Signore scabbioso. |
+| [[Ajax|AIACE]] | Cagnaccio. |
+| *(didascalia)* | Percuote [[Thersites|Tersite]] |
+| [[Thersites|TERSITE]] | Idiota di Marte! Fallo, rozzezza! Fallo, cammello, fallo, fallo! |
+| *(didascalia)* | Entrano [[Achilles|Achille]] e Patroclo |
+| [[Achilles|ACHILLE]] | Ebbene, che c’è, [[Ajax|Aiace]]? Perché fate così?<br>Che c’è, [[Thersites|Tersite]]? Che cosa succede, uomo? |
+| [[Thersites|TERSITE]] | Lo vedete lì? Sì? |
+| [[Achilles|ACHILLE]] | Sì. Che cosa succede? |
+| [[Thersites|TERSITE]] | No, guardatelo. |
+| [[Achilles|ACHILLE]] | Lo guardo. Che cosa succede? |
+| [[Thersites|TERSITE]] | No, ma osservatelo [[Well|bene]]. |
+| [[Achilles|ACHILLE]] | ‘[[Well|Bene]]’? Ma lo faccio. |
+| [[Thersites|TERSITE]] | Eppure non lo guardate [[Well|bene]]. Perché, per chiunque lo prendiate, egli è [[Ajax|Aiace]]. |
+| [[Achilles|ACHILLE]] | Lo so, [[Fool|buffone]]. |
+| [[Thersites|TERSITE]] | Sì, ma ‘quello [[Fool|sciocco]]’ non conosce se stesso. |
+| [[Ajax|AIACE]] | Perciò ti picchio. |
+| [[Thersites|TERSITE]] | Ecco, ecco, ecco, ecco, che briciole d’ingegno emette.<br>Le sue scappatoie hanno orecchie lunghe così. Ho ammaccato il suo cervello più di quanto lui m’abbia pestato le ossa. Compro nove passeri per un soldo, e la sua pia madre non vale la nona parte d’un passero. Questo signore, [[Achilles|Achille]]—[[Ajax|Aiace]], che porta l’ingegno nella pancia e le trippe nella testa—vi dirò quel che dico di lui. |
+| [[Achilles|ACHILLE]] | Che cosa? |
+| [[Thersites|TERSITE]] | Dico, questo [[Ajax|Aiace]]— |
+| *(didascalia)* | [[Ajax|Aiace]] minaccia di percuoterlo |
+| [[Achilles|ACHILLE]] | No, buon [[Ajax|Aiace]]. |
+| [[Thersites|TERSITE]] | Non ha tanto ingegno— |
+| *(didascalia)* | [[Ajax|Aiace]] minaccia di percuoterlo |
+| [[Achilles|ACHILLE]] | (a [[Ajax|Aiace]]) No, devo trattenervi. |
+| [[Thersites|TERSITE]] | quanto ne basti a tappare la cruna dell’ago d’[[Helen|Elena]], per la quale viene a combattere. |
+| [[Achilles|ACHILLE]] | Taci, [[Fool|buffone]]. |
+| [[Thersites|TERSITE]] | Io vorrei pace e quiete, ma lo [[Fool|sciocco]] non vuole. Lui, là, quel lui, guardate là. |
+| [[Ajax|AIACE]] | O maledetto cagnaccio, io ti— |
+| [[Achilles|ACHILLE]] | (a [[Ajax|Aiace]]) Volete misurare il vostro ingegno con quello d’un [[Fool|buffone]]? |
+| [[Thersites|TERSITE]] | No, ve lo garantisco, perché quello d’un [[Fool|buffone]] gli farebbe vergogna. |
+| PATROCLO | Buone parole, [[Thersites|Tersite]]. |
+| [[Achilles|ACHILLE]] | (a [[Ajax|Aiace]]) Qual è la contesa? |
+| [[Ajax|AIACE]] | Ordinai a quel vile allocco d’andare a imparare per me il tenore del proclama, ed egli m’insolentisce. |
+| [[Thersites|TERSITE]] | Non ti servo. |
+| [[Ajax|AIACE]] | [[Well|Bene]], via, via. |
+| [[Thersites|TERSITE]] | Io servo qui volontario. |
+| [[Achilles|ACHILLE]] | Il vostro ultimo servizio fu patimento. Non fu volontario: nessuno è picchiato volontariamente. [[Ajax|Aiace]] era qui il volontario, e voi come sotto arruolamento forzato. |
+| [[Thersites|TERSITE]] | Proprio così. Anche gran parte del vostro ingegno sta nei vostri nervi, o altrimenti ci sono bugiardi. [[Hector|Ettore]] farà una gran presa se caverà il cervello a uno di voi due. Farebbe tanto bene a schiacciare una noce muffita senza gheriglio. |
+| [[Achilles|ACHILLE]] | Come, anche con me, [[Thersites|Tersite]]? |
+| [[Thersites|TERSITE]] | Ci sono [[Ulysses|Ulisse]] e il vecchio Nestore, il cui ingegno era ammuffito prima che i vostri avi avessero unghie sui piedi, che vi aggiogano come buoi da tiro e vi fanno arare la guerra. |
+| [[Achilles|ACHILLE]] | Che? Che? |
+| [[Thersites|TERSITE]] | Sì, in verità. Arri, [[Achilles|Achille]]! Arri, [[Ajax|Aiace]], arri— |
+| [[Ajax|AIACE]] | Ti taglierò la lingua. |
+| [[Thersites|TERSITE]] | Non importa. Dopo parlerò con tanto ingegno quanto te. |
+| PATROCLO | Basta parole, [[Thersites|Tersite]], taci. |
+| [[Thersites|TERSITE]] | Tacerò quando la cagna d’[[Achilles|Achille]] me lo comanda, eh? |
+| [[Achilles|ACHILLE]] | Questa è per voi, Patroclo. |
+| [[Thersites|TERSITE]] | Vi vedrò impiccati come zucconi prima di tornare alle vostre tende. Starò dove c’è ingegno che si muove, e lascerò la fazione degli sciocchi. |
+| *(didascalia)* | Esce |
+| PATROCLO | Buon liberarsene. |
+| [[Achilles|ACHILLE]] | (a [[Ajax|Aiace]])<br>Perbacco, questo, signore, è proclamato per tutto il nostro esercito:<br>che [[Hector|Ettore]], alla quinta ora del sole,<br>domattina con una tromba fra le nostre tende e Troia<br>chiamerà all’armi qualche cavaliere<br>che abbia fegato, e tale che osi<br>sostenere—non so che cosa. È spazzatura. Addio. |
+| [[Ajax|AIACE]] | Addio. Chi gli risponderà? |
+| [[Achilles|ACHILLE]] | Non lo so. È messo a sorte. Altrimenti, |
+| *(didascalia)* | Egli conoscerebbe il suo uomo. Escono [[Achilles|Achille]] e Patroclo |
+| [[Ajax|AIACE]] | Oh, intendendo voi? Andrò a saperne di più. |
+| *(didascalia)* | Esce |
+
 
 
 <span class="atom-split" data-atom="act_2--scene_2" data-title="Troilus and Cressida — Act II, Scene 2" data-chapter="Scene 2" data-kind="scene" data-tags="archetype/king,motif/blood,motif/death,motif/dreams,motif/home,motif/nature,motif/prayer,motif/sleep,motif/soul,motif/tears,motif/time,motif/well,concept/beauty,concept/courage,concept/doubt,concept/fear,concept/honour,concept/nature,concept/revenge,concept/truth,setting/paris,character/apollo,character/bottom,character/cressida,character/hector,character/helen,character/queen,character/troilus"></span>
@@ -2013,6 +2381,40 @@ Exit
 | [[Hector\|HECTOR]] | I am yours,<br>You valiant offspring of great Priamus.<br>I have a roisting challenge sent amongst<br>The dull and factious nobles of the Greeks<br>Will shriek amazement to their drowsy spirits.<br>I was advertised their great general slept<br>Whilst emulation in the army crept;<br>This I presume will wake him. |
 | *(didascalia)* | Flourish. Exeunt |
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Squillo di trombe. Entrano il [[King|re]] Priamo, [[Hector|Ettore]], [[Troilus|Troilo]], [[Paris|Paride]], ed Eleno |
+| PRIAMO | Dopo tante ore, tante vite, tanti discorsi spesi,<br>così ancora una volta dice Nestore dai Greci:<br>‘Consegnate [[Helen|Elena]], e ogni altro danno—<br>come l’[[Honour|onore]], la perdita di [[Time|tempo]], la fatica, la spesa,<br>le ferite, gli amici, e ogni altra cosa cara consumata<br>nella calda digestione di questa guerra voracissima—<br>sarà cancellato.’ [[Hector|Ettore]], che ne dite? |
+| [[Hector|ETTORE]] | Sebbene nessuno tema i Greci meno di me,<br>per quanto tocca la mia persona, tuttavia, temuto Priamo,<br>non v’è dama di viscere più tenere,<br>più spugnosa nell’assorbire il senso della [[Fear|paura]],<br>più pronta a gridare: ‘Chi sa che ne segue?’<br>di quanto lo sia [[Hector|Ettore]]. La piaga della pace è la sicurezza,<br>la sicurezza spensierata; ma il modesto [[Doubt|dubbio]] è chiamato<br>il faro dei savi, la sonda che cerca<br>fino al [[Bottom|fondo]] del peggio. Lasciate andare [[Helen|Elena]].<br>Da quando la prima [[Sword|spada]] fu tratta per questa questione,<br>ogni [[Soul|anima]] di decima, fra molte migliaia di decime,<br>è stata cara quanto [[Helen|Elena]]—intendo, delle nostre.<br>Se abbiamo perduto tante nostre decime<br>per custodire una cosa non nostra—né che valga per noi,<br>portasse pure il nostro nome, il prezzo d’una decima—<br>qual merito v’è in quella ragione che nega<br>di renderla? |
+| [[Troilus|TROILO]] | Vergogna, vergogna, fratello mio!<br>Pesate il valore e l’[[Honour|onore]] d’un [[King|re]]<br>grande come il nostro temuto padre su una bilancia<br>d’once comuni? Volete con gettoni sommare<br>l’oltre-misura del suo infinito,<br>e allacciare una cintura insondabile<br>con palmi e pollici così minuti<br>come paure e ragioni? Vergogna, per pudore divino! |
+| ELENO | Non c’è da stupirsi se morde così aspro le ragioni<br>chi n’è così vuoto. Non dovrebbe nostro padre<br>reggere il gran peso dei suoi affari con ragione<br>perché il vostro dire non ne ha alcuna che gliela dica? |
+| [[Troilus|TROILO]] | Voi siete per i [[Dreams|sogni]] e i sonni, fratello sacerdote.<br>Voi foderate di ‘ragione’ i vostri guanti. Ecco le vostre<br>ragioni:<br>sapete che un nemico vi vuol male,<br>sapete che una [[Sword|spada]] in azione è periglio,<br>e la ragione fugge l’oggetto d’ogni male.<br>Chi si stupisce dunque se, quando Eleno scorge<br>un Greco e la sua [[Sword|spada]], egli pone<br>le ali stesse della ragione ai suoi calcagni<br>e fugge come Mercurio rimbrottato da Giove,<br>o come stella sviata d’orbita? Anzi, se parliamo di ragione,<br>chiudiamo le porte e [[Sleep|dormiamo]]. Virilità e [[Honour|onore]]<br>avrebbero cuori di lepre, se volessero ingrassare i loro<br>pensieri<br>con questa ragione rimpinzata. Ragione e riguardo<br>fanno pallidi i fegati e abbattono il vigore. |
+| [[Hector|ETTORE]] | Fratello, ella non vale ciò che costa<br>il tenerla. |
+| [[Troilus|TROILO]] | Che è mai una cosa, se non per come la si valuta? |
+| [[Hector|ETTORE]] | Ma il valore non dimora nella volontà particolare.<br>Esso tiene la sua stima e la sua dignità<br>[[Well|bene]] tanto in ciò per cui è prezioso di per sé<br>quanto in chi lo pregia. È pazza idolatria<br>far il culto più grande del dio;<br>e delira la volontà che è inclinata<br>a ciò che essa stessa contagiosamente ama<br>senza qualche immagine del merito amato. |
+| [[Troilus|TROILO]] | Prendo oggi moglie, e la mia scelta<br>è condotta dalla guida della mia volontà;<br>la mia volontà accesa dai miei occhi e orecchi,<br>due piloti esperti fra le pericolose sponde<br>della volontà e del giudizio. Come posso evitare—<br>sebbene la mia volontà disgusti ciò che elesse—<br>la moglie che scelsi? Non può esservi scappatoia<br>per sottrarsi a questo e restar fermo nell’[[Honour|onore]].<br>Non rimandiamo le sete al mercante<br>quando le abbiamo guastate; né gli avanzi delle vivande<br>gettiamo in fogna senza riguardo<br>perché ora siamo sazi. Si giudicò conveniente<br>che [[Paris|Paride]] facesse qualche vendetta sui Greci.<br>Il vostro fiato di pieno consenso gonfiò le sue vele;<br>i mari e i venti, vecchi litiganti, fecero tregua<br>e gli fecero servizio. Toccò i porti desiderati,<br>e in cambio d’una vecchia zia che i Greci tenevano captiva<br>portò una [[Queen|regina]] greca, la cui gioventù e freschezza<br>raggrinza quelle d’[[Apollo]] e fa stantio il mattino.<br>Perché la teniamo? I Greci tengono nostra zia.<br>Val la pena tenerla? Ebbene, ella è una perla<br>il cui prezzo ha varato più di mille navi<br>e mutato re coronati in mercanti.<br>Se affermerete che fu saggezza che [[Paris|Paride]] andasse—<br>come dovete, ché tutti gridaste: ‘Va’, va’!’;<br>se confesserete che portò a [[Home|casa]] nobile preda—<br>come dovete, ché tutti batteste le mani<br>e gridaste: ‘Inestimabile!’—perché ora<br>biasimate il frutto della vostra propria saggezza,<br>e compite un atto che la fortuna mai compì:<br>impoverite la stima che pregiaste<br>più ricca di mare e di terra? Oh furto vilissimo,<br>che abbiamo rubato ciò che [[Fear|temiamo]] di tenere!<br>Ma ladri indegni d’una cosa così rubata,<br>che nel loro paese fecero a loro quell’onta<br>che noi [[Fear|temiamo]] di sostenere nel nostro suolo natale. |
+| *(didascalia)* | CASSANDRA da dentro |
+| [[Troilus|TROILO]] | Piangete, Troiani, piangete! |
+| PRIAMO | Che rumore? Che strido è questo? |
+| [[Troilus|TROILO]] | È la nostra pazza sorella. Riconosco la sua voce. |
+| *(didascalia)* | CASSANDRA da dentro Piangete, Troiani! |
+| [[Hector|ETTORE]] | È Cassandra. |
+| *(didascalia)* | Entra Cassandra delirante, coi capelli sciolti sulle orecchie |
+| CASSANDRA | Piangete, Troiani, piangete! Prestatemi diecimila occhi<br>e li colmerò di profetiche [[Tears|lacrime]]. |
+| [[Hector|ETTORE]] | Taci, sorella, taci. |
+| CASSANDRA | Vergini e fanciulli, uomini maturi, e vecchi rugosi,<br>tenera infanzia che nulla sai fuor che piangere,<br>accrescete i miei clamori. Paghiamo in anticipo<br>una parte di quella massa di gemiti a venire.<br>Piangete, Troiani, piangete! Esercitate i vostri occhi alle [[Tears|lacrime]].<br>Troia non deve essere, né il bell’Ilio restare in piedi.<br>Il nostro fratello tizzone, [[Paris|Paride]], ci brucia tutti.<br>Piangete, Troiani, piangete! Ah [[Helen|Elena]], e ah sventura!<br>Grida, grida ‘Troia brucia!’—o lasciate andare [[Helen|Elena]]. Esce |
+| [[Hector|ETTORE]] | Ora, giovane [[Troilus|Troilo]], questi alti accenti<br>di divinazione in nostra sorella non destano<br>qualche tocco di rimorso? O il tuo [[Blood|sangue]]<br>è così follemente caldo che nessun discorso di ragione,<br>né [[Fear|timore]] di mal [[success|esito]] in mala causa,<br>può temperarlo? |
+| [[Troilus|TROILO]] | Ebbene, fratello [[Hector|Ettore]],<br>non possiamo credere che la giustezza d’ogni atto<br>sia tale e non altra da come l’esito la forma,<br>né abbattere per un istante il [[Courage|coraggio]] dei nostri animi<br>perché Cassandra è pazza. I suoi rapimenti da cervello malato<br>non possono guastare la bontà d’una contesa<br>che ha impegnato tutti i nostri singoli onori<br>a renderla gloriosa. Quanto a me in privato,<br>non ne son toccato più di tutti i figli di Priamo.<br>E Giove vieti che si facciano fra noi<br>cose tali che offendano il più debole animo<br>a combattere per esse e a sostenerle. |
+| [[Paris|PARIDE]] | Altrimenti il mondo potrebbe convincere di leggerezza<br>[[Well|tanto]] le mie imprese quanto i vostri consigli.<br>Ma chiamo a testimoni gli dèi: il vostro pieno consenso<br>diede ali alla mia inclinazione e troncò<br>tutti i timori che accompagnano un progetto così terribile.<br>Ché, ahimè, che possono queste mie sole braccia?<br>Qual difesa v’è nel valore d’un uomo solo<br>per resistere all’urto e all’inimicizia di quelli<br>che questa contesa desterebbe? Pur protesto:<br>s’io fossi [[Alone|solo]] a superare le difficoltà<br>e avessi potere tanto ampio quanto ho volontà,<br>[[Paris|Paride]] non ritratterebbe mai quel che ha fatto<br>né verrebbe meno nell’impresa. |
+| PRIAMO | [[Paris|Paride]], tu parli<br>come chi è infatuato dei suoi dolci diletti.<br>Tu hai ancora il miele, ma costoro il fiele.<br>Esser valoroso così non è lode alcuna. |
+| [[Paris|PARIDE]] | Signore, non mi propongo soltanto<br>i piaceri che tale [[Beauty|bellezza]] porta con sé,<br>ma vorrei che la macchia del suo bel rapimento<br>fosse cancellata dal tenerla onorevolmente.<br>Che tradimento sarebbe verso la [[Queen|regina]] predata,<br>che disonore ai vostri grandi meriti, e che vergogna per me,<br>renderne ora il possesso<br>per vile costrizione? Può essere<br>che una vena così degenere come questa<br>metta piede una volta nei vostri generosi petti?<br>Non v’è il più umile spirito nella nostra parte<br>senza un cuore per osare o una [[Sword|spada]] da trarre<br>quando si difende [[Helen|Elena]]; né alcuno tanto nobile<br>la cui vita sia mal spesa o la [[Death|morte]] senza fama<br>dove [[Helen|Elena]] è il soggetto. Dunque dico:<br>[[Well|Bene]] possiamo combattere per lei che [[Well|ben]] sappiamo<br>non aver pari nei vasti spazi del mondo. |
+| [[Hector|ETTORE]] | [[Paris|Paride]] e [[Troilus|Troilo]], entrambi avete detto [[Well|bene]],<br>ma sulla causa e la questione ora in mano<br>avete glossato solo superficialmente—non molto<br>diversamente dai giovani, che Aristotele giudicava<br>inetti a udire la [[philosophy|filosofia]] morale.<br>Le ragioni che addite conducono più<br>alla calda passione del [[Blood|sangue]] intemperato<br>che a formare una libera decisione<br>fra il giusto e l’ingiusto; ché il piacere e la [[Revenge|vendetta]]<br>hanno orecchi più sordi delle vipere alla voce<br>d’ogni vera decisione. La [[Nature|Natura]] esige<br>che ogni debito sia reso ai suoi proprietari. Ora,<br>qual debito più prossimo in tutta l’umanità<br>di quello della moglie verso il marito? Se questa legge<br>di [[Nature|natura]] è corrotta dalla passione,<br>e le grandi menti, per parziale indulgenza<br>verso le loro volontà intorpidite, le resistono,<br>v’è in ogni nazione [[Well|ben]] ordinata una legge<br>per frenare quegli appetiti furiosi che sono<br>più disobbedienti e ribelli.<br>Se dunque [[Helen|Elena]] è moglie del [[King|re]] di Sparta,<br>come si sa che è, queste leggi morali<br>di [[Nature|natura]] e delle genti parlano alto<br>perché sia restituita. Così persistere<br>nel far torto non attenua il torto,<br>ma lo rende molto più grave. L’opinione d’[[Hector|Ettore]]<br>è questa per via di [[Truth|verità]]—e tuttavia,<br>miei vivaci fratelli, io propendo per voi<br>nella risoluzione di tenere ancora [[Helen|Elena]];<br>ché è una causa che non poco dipende<br>dalle nostre dignità congiunte e singole. |
+| [[Troilus|TROILO]] | Ecco, là hai toccato la vita del nostro disegno.<br>Se non fosse la gloria ciò che più amiamo<br>più che lo sfogo dei nostri animi gonfi,<br>non vorrei che una goccia di [[Blood|sangue]] troiano<br>fosse più spesa in sua difesa. Ma, degno [[Hector|Ettore]],<br>ella è tema d’[[Honour|onore]] e di rinomanza,<br>sprone a imprese valorose e magnanime,<br>il cui presente [[Courage|coraggio]] può abbattere i nostri nemici,<br>e la fama nel [[Time|tempo]] a venire canonizzarci—<br>ché presumo che il prode [[Hector|Ettore]] non perderebbe<br>un vantaggio così ricco di gloria promessa,<br>quale sorride sulla fronte di quest’azione,<br>per la rendita del mondo intero. |
+| [[Hector|ETTORE]] | Io son vostro,<br>valorosa progenie del grande Priamo.<br>Ho mandato una spavalda sfida fra<br>gli ottusi e faziosi nobili dei Greci<br>che striderà stupore ai loro spiriti sonnolenti.<br>Fui avvertito che il loro gran generale dormiva<br>mentre l’emulazione strisciava nell’esercito;<br>questo, presumo, lo sveglierà. |
+| *(didascalia)* | Fanfara. Escono |
 
 
 
@@ -2138,6 +2540,126 @@ Exit
 | [[Agamemnon\|AGAMEMNON]] | Go we to counsel. Let [[Achilles]] [[Sleep\|sleep]].<br>Light boats sail swift, though greater hulks draw<br>deep. Exeunt |
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entra [[Thersites|Tersite]] |
+| [[Thersites|TERSITE]] | Ebbene, [[Thersites|Tersite]]? Come, perduto nel labirinto della tua furia? Se la porterà così l’elefante [[Ajax|Aiace]]? Lui mi picchia e io lo insolentisco. O degna soddisfazione! Fosse il contrario: che io potessi picchiarlo mentre lui m’insolentisce. Corpo d’un cane, imparerò a evocare e a suscitare diavoli, ma voglio vedere qualche frutto delle mie maligne imprecazioni. Poi c’è [[Achilles|Achille]]: un raro ingegnere. Se Troia non è presa finché questi due non la mineranno, le mura staranno in piedi finché non cadranno da sé. O tu grande scagliatore di fulmini d’Olimpo, dimentica d’essere Giove, il [[King|re]] degli dèi; e tu, Mercurio, perdi tutta la serpentina astuzia del tuo caduceo, se non toglierete loro quel poco, poco, meno che poco cervello che hanno—che, come sa l’ignoranza stessa dalle braccia corte, è così abbondantemente scarso che con nessun raggiro riuscirebbe a liberare una mosca da un ragno senza tirar fuori i loro massicci ferri e tagliare la tela. Dopo di questo, la vendetta su tutto il campo—o piuttosto, il mal d’ossa napoletano, ché quella mi pare la maledizione che pende su chi guerreggia per una sottana. Ho detto le mie preghiere, e il diavolo Invidia dica ‘Amen’.—Ehilà! Mio signore [[Achilles|Achille]]! |
+| *(didascalia)* | Entra |
+| *(didascalia)* | Patroclo alla porta della tenda |
+| *(didascalia)* | PATROCLO Chi è là? [[Thersites|Tersite]]? Buon [[Thersites|Tersite]], entra e insolentisci. Esce |
+| [[Thersites|TERSITE]] | Se mi fossi ricordato d’un falso dorato, non mi saresti sfuggito dalla contemplazione; ma non importa. Te stesso su te stesso! La comune maledizione dell’umanità, follia e ignoranza, sia tua in gran rendita! Il cielo ti guardi da un maestro, e la disciplina non ti s’avvicini! Sia il tuo [[Blood|sangue]] la tua guida fino alla tua [[Death|morte]]! Allora, se colei che ti comporrà dirà che sei un bel cadavere, giurerò e rigiurerò che non ha mai avvolto nel sudario altri che lazzaroni. |
+| *(didascalia)* | Entra Patroclo |
+| [[Thersites|TERSITE]] | Amen.—Dov’è [[Achilles|Achille]]? |
+| PATROCLO | Come, sei devoto? Eri in [[prayer|preghiera]]? |
+| [[Thersites|TERSITE]] | Sì. I cieli m’ascoltino! |
+| PATROCLO | Amen. |
+| *(didascalia)* | Entra [[Achilles|Achille]] |
+| [[Achilles|ACHILLE]] | Chi è là? |
+| PATROCLO | [[Thersites|Tersite]], mio signore. |
+| [[Achilles|ACHILLE]] | Dove? Dove? Oh dove?—Sei venuto? Ebbene, mio [[cheese|formaggio]], mia digestione, perché non ti sei servito alla mia tavola per tanti pasti? Su: che cos’è [[Agamemnon|Agamennone]]? |
+| [[Thersites|TERSITE]] | Il tuo comandante, [[Achilles|Achille]].—Ora dimmi, Patroclo, che cos’è [[Achilles|Achille]]? |
+| PATROCLO | Il tuo signore, [[Thersites|Tersite]]. Ora dimmi, ti prego, che cos’è [[Thersites|Tersite]]? |
+| [[Thersites|TERSITE]] | Colui che ti conosce, Patroclo. Ora dimmi, Patroclo, che cosa sei tu? |
+| PATROCLO | Puoi dirlo tu, che lo sai. |
+| [[Achilles|ACHILLE]] | Oh dillo, dillo. |
+| [[Thersites|TERSITE]] | Declinerò tutta la questione. [[Agamemnon|Agamennone]] comanda [[Achilles|Achille]], [[Achilles|Achille]] è il mio signore, io son colui che conosce Patroclo, e Patroclo è uno [[Fool|sciocco]]. |
+| PATROCLO | Furfante. |
+| [[Thersites|TERSITE]] | Taci, [[Fool|sciocco]], non ho finito. |
+| [[Achilles|ACHILLE]] | (a Patroclo) È un uomo privilegiato.—Procedi, [[Thersites|Tersite]]. |
+| [[Thersites|TERSITE]] | [[Agamemnon|Agamennone]] è uno [[Fool|sciocco]], [[Achilles|Achille]] è uno [[Fool|sciocco]], [[Thersites|Tersite]] è uno [[Fool|sciocco]], e come detto sopra Patroclo è uno [[Fool|sciocco]]. |
+| [[Achilles|ACHILLE]] | Derivalo. Su. |
+| [[Thersites|TERSITE]] | [[Agamemnon|Agamennone]] è uno [[Fool|sciocco]] a pretendere di comandare [[Achilles|Achille]]; [[Achilles|Achille]] è uno [[Fool|sciocco]] a farsi comandare da [[Agamemnon|Agamennone]]; [[Thersites|Tersite]] è uno [[Fool|sciocco]] a servire un tale [[Fool|sciocco]]; e Patroclo è uno [[Fool|sciocco]] in senso assoluto. |
+| PATROCLO | Perché sono uno [[Fool|sciocco]]? |
+| [[Thersites|TERSITE]] | Rivolgi la domanda al Creatore. A me basta che lo sei. Guarda, chi viene qui? |
+| *(didascalia)* | Entrano [[Agamemnon|Agamennone]], [[Ulysses|Ulisse]], Nestore, Diomede, [[Ajax|Aiace]], e Calcante |
+| [[Achilles|ACHILLE]] | Patroclo, non parlerò con nessuno.—Vieni dentro con me, [[Thersites|Tersite]]. Esce |
+| [[Thersites|TERSITE]] | Qui c’è un tale rappezzamento, tali giochi di bussolotti e tale furfanteria. Tutto l’argomento è una puttana e un cornuto. Bella contesa per tirar fuori fazioni rivali e dissanguarsi a [[Death|morte]] sopra di essa. Ora la secca tigna su quel soggetto, e la guerra e la lussuria confondano tutto. Esce |
+| [[Agamemnon|AGAMENNONE]] | (a Patroclo) Dov’è [[Achilles|Achille]]? |
+| *(didascalia)* | Nella sua tenda; ma indisposto, mio signore. |
+| [[Agamemnon|AGAMENNONE]] | Gli sia fatto sapere che siamo qui.<br>Ha affrontato i nostri messi, e noi deponiamo<br>le nostre prerogative, venendo a visitarlo.<br>Gli sia detto, perché per caso non pensi<br>che non osiamo sollevare la questione del nostro rango,<br>o che non sappiamo che cosa siamo. |
+| PATROCLO | Così gli dirò. |
+| *(didascalia)* | Esce |
+| [[Ulysses|ULISSE]] | L’abbiamo visto all’apertura della sua tenda.<br>Non è malato. |
+| *(didascalia)* | [[Ajax|AIACE]] Sì, malato di [[Lion|leone]]: malato di cuore superbo. Potete chiamarlo ‘[[Melancholy|malinconia]]’ se volete favorire l’uomo, ma sulla mia testa è [[Pride|superbia]]. Ma perché? Perché? Ci mostri la causa. Ad [[Agamemnon|Agamennone]] Una parola, mio signore. |
+| *(didascalia)* | [[Ajax|Aiace]] e [[Agamemnon|Agamennone]] parlano in disparte |
+| NESTORE | Che cosa spinge [[Ajax|Aiace]] a latrargli così contro? |
+| [[Ulysses|ULISSE]] | [[Achilles|Achille]] gli ha sottratto con lusinghe il suo [[Fool|buffone]]. |
+| NESTORE | Chi? [[Thersites|Tersite]]? |
+| [[Ulysses|ULISSE]] | Lui. |
+| NESTORE | Allora [[Ajax|Aiace]] resterà senza materia, se ha perduto il suo argomento. |
+| [[Ulysses|ULISSE]] | No, vedete, il suo argomento è colui che ha il suo argomento: [[Achilles|Achille]]. |
+| NESTORE | Tanto meglio—la loro frattura è più nel nostro desiderio della loro fazione. Ma era un consiglio ben forte, quello che uno [[Fool|sciocco]] ha potuto disunire. |
+| [[Ulysses|ULISSE]] | L’amicizia che la saggezza non annoda, la follia può facilmente slegare. |
+| *(didascalia)* | Entra Patroclo |
+| [[Ulysses|ULISSE]] | Ecco che viene Patroclo. |
+| NESTORE | Nessun [[Achilles|Achille]] con lui. |
+| [[Ulysses|ULISSE]] | L’elefante ha giunture, ma nessuna per la cortesia: le sue gambe son gambe per necessità, non per flettersi. |
+| PATROCLO | (ad [[Agamemnon|Agamennone]])<br>[[Achilles|Achille]] mi comanda di dire che gli duole molto<br>se qualcosa più del vostro diporto e piacere<br>ha mosso la vostra [[Greatness|grandezza]] e questo nobile consesso<br>a fargli visita. Spera che non sia altro<br>che per la vostra salute e per la vostra digestione: no<br>una passeggiata dopo pranzo. |
+| [[Agamemnon|AGAMENNONE]] | Udite, Patroclo.<br>Conosciamo troppo [[Well|bene]] queste risposte.<br>Ma la sua scappatoia, così veloce alata di scherno,<br>non può volar più rapida del nostro intendimento.<br>Molti pregi egli ha, e molte le ragioni<br>per cui glieli attribuiamo. Pur tutte le sue virtù,<br>non virtuosamente da lui stesso considerate,<br>cominciano ai nostri occhi a perdere il lustro,<br>sì, e come bel frutto in un piatto insalubre<br>rischiano di marcire non assaggiate. Andate e ditegli<br>che veniamo a parlare con lui—e non peccherete<br>se dite che lo giudichiamo troppo superbo<br>e poco onesto, più grande nella presunzione di [[Self|sé]]<br>che nella misura del giudizio. E uomini più degni di<br>lui<br>qui secondano la selvaggia stranezza che ostenta,<br>dissimulano la sacra forza del loro comando,<br>e sottoscrivono con deferenza<br>il suo capriccioso predominio—sì, spiano<br>i suoi stizzosi lunari, i suoi riflussi, i suoi flussi, come se<br>il corso e l’intera condotta di quest’azione<br>cavalcassero la sua marea. Andate a dirgli questo, e aggiungete<br>che se tiene il suo prezzo tanto alto<br>non ne vorremo sapere, ma lo lasceremo, come una macchina<br>non trasportabile, sotto questa fama:<br>‘Portate qui l’azione, questa non può andare in guerra.’<br>A un [[Dwarf|nano]] che si muove diamo più pregio<br>che a un gigante dormiente. Ditegli così. |
+| PATROCLO | Lo farò, e porterò subito la sua risposta. |
+| [[Agamemnon|AGAMENNONE]] | Non ci accontenteremo d’una voce di seconda mano;<br>veniamo a parlare con lui.—[[Ulysses|Ulisse]], entrate voi. |
+| *(didascalia)* | Esce [[Ulysses|Ulisse]] con Patroclo |
+| [[Ajax|AIACE]] | Che cos’è lui più d’un altro? |
+| [[Agamemnon|AGAMENNONE]] | Nulla più di quel che crede d’essere. |
+| [[Ajax|AIACE]] | È tanto? Non credete che si ritenga uomo migliore di me? |
+| [[Agamemnon|AGAMENNONE]] | Senza dubbio. |
+| [[Ajax|AIACE]] | Sottoscrivete il suo pensiero, e dite che lo è? |
+| [[Agamemnon|AGAMENNONE]] | No, nobile [[Ajax|Aiace]]. Voi siete altrettanto forte, altrettanto valoroso, altrettanto saggio, non meno nobile, molto più gentile, e del tutto più trattabile. |
+| [[Ajax|AIACE]] | Perché un uomo dovrebbe essere superbo? Come cresce la [[Pride|superbia]]? Io non so che cosa sia. |
+| [[Agamemnon|AGAMENNONE]] | Tanto più limpida è la vostra mente, [[Ajax|Aiace]], e tanto più belle le vostre virtù. Chi è superbo divora se stesso. La [[Pride|Superbia]] è il proprio specchio, la propria tromba, la propria cronaca—e tutto ciò che si loda se non nell’atto divora l’atto nella lode. |
+| *(didascalia)* | Entra [[Ulysses|Ulisse]] |
+| [[Ajax|AIACE]] | Odio un uomo superbo come odio la generazione dei rospi. |
+| NESTORE | (a parte) E tuttavia ama se stesso. Non è strano? |
+| [[Ulysses|ULISSE]] | [[Achilles|Achille]] non andrà in campo domani. |
+| [[Agamemnon|AGAMENNONE]] | Qual è la sua scusa? |
+| [[Ulysses|ULISSE]] | Non s’appoggia a nessuna,<br>ma segue la corrente del proprio arbitrio<br>senza osservanza né rispetto di alcuno,<br>in volontà tutta sua e in ammissione di [[Self|sé]]. |
+| [[Agamemnon|AGAMENNONE]] | Come, non vuole, alla nostra cortese richiesta,<br>trarre la sua persona dalla tenda e dividere l’aria con noi? |
+| [[Ulysses|ULISSE]] | Cose piccole come nulla, solo perché richieste,<br>egli le fa importanti. È posseduto dalla [[Greatness|grandezza]],<br>e non parla a se stesso che con una [[Pride|superbia]]<br>che litiga col proprio fiato di [[Self|sé]]. Il merito immaginato<br>tiene nel suo [[Blood|sangue]] discorso così gonfio e caldo<br>che fra le sue parti mentali e le sue attive<br>[[Achilles|Achille]], fatto regno, infuria in tumulto<br>e s’abbatte contro se stesso. Che dirò?<br>È così pestilenzialmente superbo che i segni di [[Death|morte]] del male<br>gridano ‘Nessuna guarigione’. |
+| [[Agamemnon|AGAMENNONE]] | Vada [[Ajax|Aiace]] da lui.<br>(A [[Ajax|Aiace]]) Caro signore, andate voi a salutarlo nella sua tenda.<br>Si dice che vi tenga in [[Well|buon]] conto e che si lascerà condurre,<br>alla vostra richiesta, un poco fuori di sé. |
+| [[Ulysses|ULISSE]] | O [[Agamemnon|Agamennone]], non sia così.<br>Consacreremo i passi che [[Ajax|Aiace]] fa<br>quando s’allontanano da [[Achilles|Achille]]. Il superbo signore<br>che unge la propria arroganza col proprio grasso<br>e non permette mai che materia del mondo |
+| *(didascalia)* | Entri nei suoi pensieri, se non tale che si volga |
+| [[Ulysses|ULISSE]] | e rumini lui stesso—dovrà egli essere adorato<br>da colui che noi teniamo un idolo più di lui?<br>No, questo tre volte degno e ben valoroso signore<br>non deve così svilire la sua palma, nobilmente acquisita,<br>né per mia volontà sottomettere il suo merito,<br>ampiamente titolato quanto quello d’[[Achilles|Achille]],<br>andando da [[Achilles|Achille]]—<br>ciò sarebbe ingrassare la sua già grassa [[Pride|superbia]]<br>e aggiungere carboni al Cancro quando arde<br>nell’ospitare il grande [[Hyperion|Iperione]].<br>Questo signore andare da lui? Giove non voglia,<br>e dica nel tuono: ‘[[Achilles|Achille]], va’ tu da lui’. |
+| NESTORE | (a parte, a Diomede)<br>Oh, questo va [[Well|bene]]. Gli tocca la vena giusta. |
+| DIOMEDE | (a parte, a Nestore)<br>E come il suo [[Silence|silenzio]] beve tutto quest’applauso. |
+| [[Ajax|AIACE]] | Se vado da lui, col mio pugno armato<br>gli sfracellerò la faccia. |
+| [[Agamemnon|AGAMENNONE]] | Oh no, non andrete. |
+| [[Ajax|AIACE]] | E se fa il superbo con me, gli concerò la [[Pride|superbia]].<br>Lasciatemi andare da lui. |
+| [[Ulysses|ULISSE]] | Nemmeno per tutto il valore che pende dalla nostra contesa. |
+| [[Ajax|AIACE]] | Un tipo meschino e insolente. |
+| NESTORE | (a parte) Come descrive se stesso! |
+| [[Ajax|AIACE]] | Non può essere socievole? |
+| [[Ulysses|ULISSE]] | (a parte) [[The Raven|Il corvo]] rimprovera il nero. |
+| [[Ajax|AIACE]] | Caverò il [[Blood|sangue]] al suo [[Humour|umore]]. |
+| [[Agamemnon|AGAMENNONE]] | (a parte) Vuol essere il medico chi dovrebbe essere il paziente. |
+| [[Ajax|AIACE]] | Se tutti gli uomini fossero del mio parere— |
+| [[Ulysses|ULISSE]] | (a parte) L’ingegno sarebbe fuori moda. |
+| [[Ajax|AIACE]] | Non se la caverebbe così. Mangerebbe spade prima.<br>Se la porterà la [[Pride|superbia]]? |
+| NESTORE | (a parte) Se la portasse, tu ne porteresti metà. |
+| *(didascalia)* | [[Ajax|AIACE]] Ne vorrebbe dieci parti. |
+| *(didascalia)* | [[Ulysses|ULISSE]] (a parte) Lo impasterò; lo farò morbido. |
+| NESTORE | Non è ancora ben caldo. |
+| NESTORE | (a parte) Farcitelo di lodi. Versate, versate!<br>La sua [[Ambition|ambizione]] è asciutta. |
+| [[Ulysses|ULISSE]] | (ad [[Agamemnon|Agamennone]])<br>Mio signore, vi nutrite troppo di questo malanimo. |
+| NESTORE | (ad [[Agamemnon|Agamennone]])<br>Nostro nobile generale, non fate così. |
+| DIOMEDE | (ad [[Agamemnon|Agamennone]])<br>Dovete prepararvi a combattere senza [[Achilles|Achille]]. |
+| [[Ulysses|ULISSE]] | Ebbene, è questo nominarlo che gli fa male.<br>Ecco qui un uomo—ma è in sua presenza.<br>Tacerò. |
+| NESTORE | E perché dovreste?<br>Egli non è invidioso, come è [[Achilles|Achille]]. |
+| [[Ulysses|ULISSE]] | Sappia il mondo intero ch’egli è altrettanto valoroso— |
+| [[Ajax|AIACE]] | Un cane bastardo, che tergiversa così con noi—fosse un Troiano! |
+| NESTORE | Che vizio sarebbe ora in [[Ajax|Aiace]]— |
+| [[Ulysses|ULISSE]] | s’egli fosse superbo— |
+| DIOMEDE | o avido di lode— |
+| [[Ulysses|ULISSE]] | sì, o d’indole scontrosa— |
+| DIOMEDE | o schivo, o innamorato di [[Self|sé]]. |
+| [[Ulysses|ULISSE]] | (a [[Ajax|Aiace]])<br>Ringrazia i cieli, signore, che sei di dolce composizione.<br>Sia lodato chi ti generò, e colei che ti diede il latte.<br>Famoso sia il tuo maestro, e le tue doti di [[Nature|natura]]<br>tre volte famose oltre, oltre ogni erudizione.<br>Ma colui che ammaestrò le tue braccia a combattere—<br>Marte divida l’[[Eternity|eternità]] in due,<br>e gliene dia la metà. E quanto al tuo vigore,<br>Milone portatore di tori ceda il suo titolo<br>al nerboruto [[Ajax|Aiace]]. Non loderò la tua saggezza,<br>che come confine, come palizzata, come sponda circoscrive<br>le tue spaziose e dilatate doti. Ecco Nestore,<br>istruito dai tempi antichi:<br>deve essere, è, non può non essere, saggio.<br>Ma perdonate, padre Nestore: se i vostri giorni<br>fossero verdi come quelli d’[[Ajax|Aiace]], e il vostro cervello temperato così,<br>non avreste eminenza su di lui,<br>ma sareste come [[Ajax|Aiace]]. |
+| [[Ajax|AIACE]] | Devo chiamarvi padre? |
+| [[Ulysses|ULISSE]] | Sì, mio buon figlio. |
+| DIOMEDE | Lasciatevi guidare da lui, signor [[Ajax|Aiace]]. |
+| [[Ulysses|ULISSE]] | (ad [[Agamemnon|Agamennone]])<br>Non c’è da indugiare qui: il cervo [[Achilles|Achille]]<br>sta nel folto. Piaccia al nostro gran generale<br>di convocare tutto il suo consiglio di guerra.<br>Nuovi re sono giunti oggi a Troia; domani<br>dovremo con tutta la nostra forza tener fermo.<br>Ed ecco un signore: vengano cavalieri da oriente a occidente<br>e si scelga il loro fiore, [[Ajax|Aiace]] affronterà il migliore. |
+| [[Agamemnon|AGAMENNONE]] | Andiamo a consiglio. Lasciamo [[Sleep|dormire]] [[Achilles|Achille]].<br>Le barche leggere corrono veloci, sebbene gli scafi maggiori peschino<br>profondo. Escono |
+
 
 
 <span class="atom-split" data-atom="act_3--scene_1" data-title="Troilus and Cressida — Act III, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="archetype/king,motif/blood,motif/desire,motif/love,motif/soul,motif/well,concept/beauty,concept/faith,concept/honour,concept/hope,concept/melancholy,concept/truth,setting/paris,character/cressida,character/hector,character/helen,character/pandarus,character/queen,character/troilus,character/venus"></span>
@@ -2238,6 +2760,102 @@ Exit
 | *(didascalia)* | Exeunt |
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Musica suona dentro. Entra [[Pandarus|Pandaro]] da una porta e un Servo da un’altra porta |
+| [[Pandarus|PANDARO]] | Amico? Voi. Di grazia, una parola. Non seguite voi il giovane signor [[Paris|Paride]]? |
+| SERVO | Sì, signore, quando mi va davanti. |
+| [[Pandarus|PANDARO]] | Dipendete da lui, voglio dire. |
+| SERVO | Signore, io dipendo dal Signore. |
+| [[Pandarus|PANDARO]] | Dipendete da un notevole gentiluomo; devo proprio lodarlo. |
+| SERVO | Sia lodato il Signore! |
+| [[Pandarus|PANDARO]] | Mi conoscete—non è vero? |
+| SERVO | In [[Faith|fede]], signore, superficialmente. |
+| [[Pandarus|PANDARO]] | Amico, conoscetemi meglio. Io sono il signor [[Pandarus|Pandaro]]. |
+| SERVO | [[Hope|Spero]] di conoscere meglio vostro [[Honour|onore]]. |
+| [[Pandarus|PANDARO]] | Lo [[Desire|desidero]]. |
+| SERVO | Siete in stato di grazia? |
+| [[Pandarus|PANDARO]] | Grazia? Non è così, amico. ‘[[Honour|Onore]]’ e ‘signoria’ sono i miei titoli. Che musica è questa? |
+| SERVO | Lo so solo in parte, signore. È musica a più parti. |
+| [[Pandarus|PANDARO]] | Conoscete i musicanti? |
+| SERVO | Del tutto, signore. |
+| [[Pandarus|PANDARO]] | Per chi suonano? |
+| SERVO | Per chi ascolta, signore. |
+| [[Pandarus|PANDARO]] | A piacere di chi, amico? |
+| SERVO | Del mio, signore, e di quelli che [[Love|amano]] la musica. |
+| [[Pandarus|PANDARO]] | ‘Comando’ volevo dire, amico. |
+| SERVO | Chi devo comandare, signore? |
+| [[Pandarus|PANDARO]] | Amico, non ci capiamo l’un l’altro. Io sono troppo cortigiano e tu troppo astuto. A richiesta di chi suonano questi uomini? |
+| SERVO | Ecco che ci siamo davvero, signore. Perbacco, signore, a richiesta di [[Paris|Paride]] mio signore, che è là in persona; con lui, la mortale [[Venus|Venere]], il [[Blood|sangue]] del cuore della [[Beauty|bellezza]], l’[[Soul|anima]] visibile dell’[[Love|amore]]— |
+| [[Pandarus|PANDARO]] | Chi, mia cugina [[Cressida]]? |
+| SERVO | No, signore, [[Helen|Elena]]. Non l’avreste indovinato dai suoi attributi? |
+| [[Pandarus|PANDARO]] | Parrebbe, amico, che tu non abbia veduto la signora Cressida. Vengo a parlare con [[Paris|Paride]] da parte del principe [[Troilus|Troilo]]. Gli darò un assalto di complimenti, ché il mio affare bolle. |
+| SERVO | Affare lesso! Ecco davvero una frase stufata. |
+| *(didascalia)* | Entrano [[Paris|Paride]] ed [[Helen|Elena]], accompagnati da musicanti |
+| [[Pandarus|PANDARO]] | Bel saluto a voi, mio signore, e a tutta questa bella compagnia. Bei desideri in ogni bella misura bellamente li guidino—specialmente a voi, bella [[Queen|regina]]. Bei pensieri siano il vostro bel guanciale. |
+| [[Helen|ELENA]] | Caro signore, siete pieno di belle parole. |
+| [[Pandarus|PANDARO]] | Dite il vostro bel piacere, dolce [[Queen|regina]]. (A [[Paris|Paride]]) Bel principe, ecco della buona musica spezzata. |
+| [[Paris|PARIDE]] | L’avete spezzata voi, cugino, e sulla mia vita la renderete intera di nuovo. La rappezzerete con un pezzo della vostra esecuzione.—Nella, è pieno d’armonia. |
+| [[Pandarus|PANDARO]] | Davvero, signora, no. |
+| [[Helen|ELENA]] | Oh, signore. |
+| *(didascalia)* | Gli fa il solletico |
+| [[Pandarus|PANDARO]] | Rozzo, in verità, in buona verità molto rozzo. |
+| [[Paris|PARIDE]] | [[Well|Ben]] detto, mio signore. Lo direte così, a strofe? |
+| [[Pandarus|PANDARO]] | Ho un affare col mio signore, cara [[Queen|regina]].—Mio signore, mi concedete una parola? |
+| [[Helen|ELENA]] | No, questo non ci escluderà. Vi sentiremo cantare, certamente. |
+| [[Pandarus|PANDARO]] | [[Well|Bene]], dolce [[Queen|regina]], scherzate con me.—Ma dunque, così, mio signore: mio caro signore e stimatissimo amico, vostro fratello [[Troilus|Troilo]]— |
+| [[Helen|ELENA]] | Mio signor [[Pandarus|Pandaro]], signore dolce come il miele. |
+| [[Pandarus|PANDARO]] | Via, dolce [[Queen|regina]], via tot—si raccomanda a voi affettuosissimamente. |
+| [[Helen|ELENA]] | Non ci truffate della nostra melodia. Se lo fate, la nostra [[Melancholy|malinconia]] sul vostro capo. |
+| [[Pandarus|PANDARO]] | Dolce [[Queen|regina]], dolce [[Queen|regina]], questa è una dolce<br>[[Queen|regina]]. Sì, in [[Faith|fede]]— |
+| [[Helen|ELENA]] | E rendere triste una dolce signora è un’offesa acida. |
+| [[Pandarus|PANDARO]] | No, questo non vi servirà; no davvero, in [[Truth|verità]], via. No, non m’importa di tali parole. No, no.—E, mio signore, egli vi prega che, se il [[King|re]] lo chiama a cena, voi lo scusiate. |
+| [[Helen|ELENA]] | Mio signor [[Pandarus|Pandaro]]. |
+| [[Pandarus|PANDARO]] | Che dice la mia dolce [[Queen|regina]], la mia dolcissima dolcissima [[Queen|regina]]? |
+| [[Paris|PARIDE]] | Che impresa si prepara? Dove cena stasera? |
+| [[Helen|ELENA]] | No, ma mio signore— |
+| [[Pandarus|PANDARO]] | Che dice la mia dolce [[Queen|regina]]? Mia cugina si guasterà con voi. |
+| [[Helen|ELENA]] | (a [[Paris|Paride]]) Non dovete sapere dove cena. |
+| [[Paris|PARIDE]] | Scommetto la vita: con la mia dispensiera [[Cressida]]. |
+| [[Pandarus|PANDARO]] | No, no! Nulla di ciò. Siete fuori bersaglio. Suvvia, la vostra dispensiera è malata. |
+| [[Paris|PARIDE]] | [[Well|Bene]], lo scuserò. |
+| [[Pandarus|PANDARO]] | Sì, mio buon signore. Perché dovreste dire<br>[[Cressida]]? No, la vostra povera dispensiera è malata. |
+| [[Paris|PARIDE]] | ‘Ti vedo.’ |
+| *(didascalia)* | [[Pandarus|PANDARO]] Voi vedete? Che cosa vedete?—A un musicante |
+| [[Paris|PARIDE]] | Su, dammi uno strumento.—Ora, dolce [[Queen|regina]]. |
+| [[Helen|ELENA]] | Ecco, questo è fatto con gentilezza! |
+| [[Pandarus|PANDARO]] | Mia nipote è orribilmente [[Love|innamorata]] d’una cosa che avete voi, dolce [[Queen|regina]]. |
+| [[Helen|ELENA]] | L’avrà, mio signore—se non è il mio signor [[Paris|Paride]]. |
+| [[Pandarus|PANDARO]] | Lui? No, non ne vuole sapere. Loro due sono divisi. |
+| [[Helen|ELENA]] | Il ricongiungersi, dopo il disgiungersi, potrebbe farli tre. |
+| [[Pandarus|PANDARO]] | Via, via, non ne voglio più sentire. Vi canterò ora una [[Song|canzone]]. |
+| [[Helen|ELENA]] | Sì, sì, di grazia. Ora sulla mia fede, dolce signore, hai una bella fronte. |
+| *(didascalia)* | Gli accarezza la fronte |
+| [[Pandarus|PANDARO]] | Sì, potete, potete. |
+| [[Helen|ELENA]] | Sia la tua [[Song|canzone]] l’[[Love|amore]]. ‘Quest’[[Love|amore]] ci rovinerà tutti.’<br>O Cupido, Cupido, Cupido! |
+| [[Pandarus|PANDARO]] | L’[[Love|amore]]? Sì, lo farà, in [[Faith|fede]] mia. |
+| [[Paris|PARIDE]] | Sì, su via, ‘[[Love|Amore]], [[Love|amore]], nulla che non sia [[Love|amore]]’. |
+| [[Pandarus|PANDARO]] | In buona [[Truth|verità]], comincia così.<br>(Canta)<br>[[Love|Amore]], [[Love|amore]], nulla che non sia [[Love|amore]], sempre [[Love|amore]], sempre più!<br>Ché oh, l’arco d’[[Love|amore]]<br>colpisce cervo e cerva.<br>Il dardo sconvolge<br>non perché ferisce,<br>ma perché stuzzica sempre la piaga.<br>Questi [[lovers|amanti]] gridano ‘Oh! Oh!’, e muoiono.<br>Pur ciò che sembra la ferita che uccide<br>muta ‘Oh! Oh!’ in ‘ah ah ah!’<br>Così l’[[Love|amore]], morendo, vive ancora.<br>‘Oh! Oh!’ per un poco, ma poi ‘ah ah ah!’<br>‘Oh! Oh!’ geme e si volge in ‘ah ah ah!’—<br>Ehi-ohi. |
+| [[Helen|ELENA]] | [[Love|Innamorato]]—sì, in [[Faith|fede]], fino alla punta del naso. |
+| [[Paris|PARIDE]] | Non mangia altro che colombe, [[Love|amore]], e questo genera [[Blood|sangue]] caldo, e il [[Blood|sangue]] caldo genera pensieri caldi, e i pensieri caldi generano atti caldi, e gli atti caldi sono [[Love|amore]]. |
+| [[Pandarus|PANDARO]] | È questa la generazione dell’[[Love|amore]]: [[Blood|sangue]] caldo, pensieri caldi, e atti caldi? Ebbene, son vipere. È l’[[Love|amore]] una generazione di vipere? |
+| *(didascalia)* | Squillo d’allarme |
+| [[Pandarus|PANDARO]] | Dolce signore, chi è in campo oggi? |
+| [[Paris|PARIDE]] | [[Hector|Ettore]], Deifobo, Eleno, Antenore, e tutto il fiore della cavalleria di Troia. Avrei ben voluto armarmi oggi, ma la mia Nella non l’ha voluto. Com’è che mio fratello [[Troilus|Troilo]] non è andato? |
+| [[Helen|ELENA]] | Ha il labbro pendente per qualcosa. Voi sapete tutto, signor<br>[[Pandarus|Pandaro]]. |
+| [[Pandarus|PANDARO]] | Non io, [[Queen|regina]] dolce come il miele. Non aspetto che di sentire come sono andati oggi.—Vi ricorderete della scusa di vostro fratello? |
+| [[Paris|PARIDE]] | A puntino. |
+| [[Pandarus|PANDARO]] | Addio, dolce [[Queen|regina]]. |
+| [[Helen|ELENA]] | Salutatemi vostra nipote. |
+| [[Pandarus|PANDARO]] | Lo farò, dolce [[Queen|regina]]. Esce |
+| *(didascalia)* | Si suoni la ritirata |
+| [[Paris|PARIDE]] | Sono tornati dal campo. Andiamo alla sala di Priamo<br>a salutare i guerrieri. Dolce [[Helen|Elena]], devo pregarvi<br>d’aiutarmi a disarmare il nostro [[Hector|Ettore]]. Le sue ostinate fibbie,<br>toccate da queste vostre bianche dita incantatrici,<br>obbediranno più che al filo dell’acciaio<br>o alla forza dei nervi greci. Voi farete più<br>di tutti i re delle isole: disarmerete il grande [[Hector|Ettore]]. |
+| [[Helen|ELENA]] | Ci renderà orgogliose d’essergli serva, [[Paris|Paride]];<br>sì, ciò ch’egli riceverà da noi in omaggio<br>ci dà più palma di [[Beauty|bellezza]] di quanta ne abbiamo—<br>sì, oscura noi stessa. |
+| [[Paris|PARIDE]] | Dolce oltre ogni pensiero, io t’[[Love|amo]]! |
+| *(didascalia)* | Escono |
+
 
 
 <span class="atom-split" data-atom="act_3--scene_2" data-title="Troilus and Cressida — Act III, Scene 2" data-chapter="Scene 2" data-kind="scene" data-tags="archetype/fool,archetype/monster,archetype/prophet,archetype/tyrant,archetype/villain,motif/blood,motif/crown,motif/death,motif/desert,motif/desire,motif/fire,motif/lamb,motif/love,motif/memory,motif/moon,motif/night,motif/pain,motif/river,motif/silence,motif/soul,motif/time,motif/water,motif/well,motif/wind,concept/beauty,concept/faith,concept/fear,concept/self,concept/truth,setting/desert,character/cressida,character/pandarus,character/troilus"></span>
@@ -2308,6 +2926,73 @@ Exit
 | *(didascalia)* | Exeunt [[Troilus]] and [[Cressida]] |
 | [[Pandarus\|PANDARUS]] | And Cupid grant all tongue-tied maidens here<br>Bed, chamber, pander to provide this gear. Exit |
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entra [[Pandarus|Pandaro]] da una porta e il servo di [[Troilus|Troilo]] da un’altra porta |
+| [[Pandarus|PANDARO]] | Ebbene, dov’è il tuo padrone? In casa di mia cugina [[Cressida]]? |
+| SERVO | No, signore, aspetta che voi lo conduciate colà. |
+| *(didascalia)* | Entra [[Troilus|Troilo]] |
+| [[Pandarus|PANDARO]] | Oh, ecco che viene.—Ebbene, ebbene? |
+| [[Troilus|TROILO]] | Tu, vattene. Esce il Servo |
+| [[Pandarus|PANDARO]] | Avete veduto mia cugina? |
+| [[Troilus|TROILO]] | No, [[Pandarus|Pandaro]], io m’aggiro intorno alla sua porta<br>come un’[[Soul|anima]] straniera sulle rive dello Stige<br>in attesa del traghetto. Oh, sii tu il mio Caronte,<br>e dammi rapido passaggio a quei campi<br>dove possa voltolarmi nei letti di giglio<br>destinati a chi li merita. O gentile Pandaro,<br>strappa dalla spalla di Cupido le sue ali dipinte<br>e vola con me a Cressida. |
+| [[Pandarus|PANDARO]] | Passeggiate qui nel frutteto. La porterò subito. |
+| *(didascalia)* | Esce |
+| [[Troilus|TROILO]] | Ho il capo che gira. L’attesa mi fa vortice attorno.<br>Il gusto immaginato è così dolce<br>che m’incanta i sensi. Che sarà<br>quando i palati acquolinosi gusteranno davvero<br>il nettare tre volte raffinato dell’[[Love|amore]]? La [[Death|morte]], [[Fear|temo]],<br>distruzione per deliquio, o qualche gioia troppo fine,<br>troppo sottilmente potente, intonata troppo acuta in dolcezza<br>per la capacità delle mie più rozze facoltà.<br>Molto lo [[Fear|temo]], e [[Fear|temo]] inoltre<br>che perderò ogni distinzione nelle mie gioie,<br>come fa una battaglia quando caricano a mucchi<br>sul nemico in fuga. |
+| *(didascalia)* | Entra [[Pandarus|Pandaro]] |
+| [[Pandarus|PANDARO]] | Si sta preparando. Verrà subito. Ora dovete esser spiritoso. Arrossisce tanto, e tira il [[Wind|fiato]] così corto come se fosse spaventata da uno spettro. Vado a prenderla. È la più graziosa [[Villain|birbante]]! Tira il respiro corto come un passero appena catturato. |
+| *(didascalia)* | Esce |
+| [[Troilus|TROILO]] | Proprio tale passione stringe il mio petto.<br>Il cuore mi batte più fitto d’un polso febbrile,<br>e tutte le mie facoltà perdono il loro governo,<br>come vassalli che all’improvviso incontrano<br>l’occhio della maestà. |
+| *(didascalia)* | Entra [[Pandarus|Pandaro]], con [[Cressida]] velata |
+| *(didascalia)* | [[Pandarus|PANDARO]] (a [[Cressida]]) Su, su, che bisogno hai d’arrossire? La vergogna è una bimba. (A [[Troilus|Troilo]]) Eccola qui ora. Giuratele ora i giuramenti che avete giurato a me. (A [[Cressida]]) Come, te ne vai di nuovo? Bisogna tenerti in veglia prima che ti si addomestichi, eh? Vieni avanti, vieni avanti. E se tiri indietro, ti metteremo nelle stanghe. (A [[Troilus|Troilo]]) Perché non le parlate? (A [[Cressida]]) Su, tira questo velo, e vediamo il tuo ritratto. Le toglie il velo Ahi, che giornata! Come vi ripugna offendere la luce del giorno! Se fosse buio, vi accostereste più presto. Così, così. (A [[Troilus|Troilo]]) Sfregate avanti, e baciate la padrona. (Si baciano) Ecco qua, un bacio in enfiteusi! Costruisci lì, carpentiere, l’aria è dolce. Anzi, vi batterete a cuore aperto prima ch’io vi separi. Il falco quanto il terzuolo, per tutte le anatre del [[River|fiume]]. Via, via. |
+| [[Troilus|TROILO]] | M’avete privato d’ogni parola, signora. |
+| [[Pandarus|PANDARO]] | Le parole non pagano debiti; datele fatti. Ma vi priverà anche dei fatti, se metterà in questione la vostra attività. (Si baciano) Come, di nuovo a beccarsi? Ecco l’‘in testimonianza di che le parti reciprocamente’. Entrate, entrate. Vado ad accendere il [[Fire|fuoco]]. Esce |
+| [[Cressida|CRESSIDA]] | Volete entrare, mio signore? |
+| [[Troilus|TROILO]] | O [[Cressida]], quante volte mi son desiderato così. |
+| [[Cressida|CRESSIDA]] | Desiderato, mio signore? Gli dèi concedano—Oh, mio signorl |
+| [[Troilus|TROILO]] | Che dovrebbero concedere? Che cosa causa questa graziosa interruzione? Qual feccia troppo curiosa scorge la mia dolce signora nella fontana del nostro [[Love|amore]]? |
+| [[Cressida|CRESSIDA]] | Più feccia che [[Water|acqua]], se le mie paure hanno occhi. |
+| [[Troilus|TROILO]] | Le paure fanno diavoli dei cherubini; non vedono mai il vero. |
+| [[Cressida|CRESSIDA]] | La [[Fear|paura]] cieca, guidata dalla ragione che vede, trova passo più sicuro della ragione cieca, che inciampa senza [[Fear|paura]]. [[Fear|Temere]] il peggio spesso guarisce il peggiore. |
+| [[Troilus|TROILO]] | Oh, non concepisca [[Fear|paura]] la mia signora. In tutta la mascherata di Cupido non si presenta alcun [[Monster|mostro]]. |
+| [[Cressida|CRESSIDA]] | E nemmeno nulla di mostruoso? |
+| [[Troilus|TROILO]] | Nulla se non le nostre imprese, quando giuriamo di piangere mari, di vivere nel [[Fire|fuoco]], di mangiar rocce, di domar tigri, credendo più difficile per la nostra donna escogitare imposizioni bastanti che per noi sopportare qualunque difficoltà imposta. Questa è la mostruosità nell’[[Love|amore]], signora—che la volontà è infinita e l’esecuzione confinata; che il [[Desire|desiderio]] è senza confini e l’atto schiavo del limite. |
+| [[Cressida|CRESSIDA]] | Dicono che tutti gli [[lovers|amanti]] giurano più prestazioni di quante ne siano capaci, e pure serbano una capacità che mai adempiono: promettendo più della perfezione di dieci, e sborsando meno della decima parte d’uno. Quelli che hanno la voce dei leoni e l’atto delle lepri, non sono mostri? |
+| [[Troilus|TROILO]] | Ce ne sono di tali? Tali non siamo noi. Lodateci come siamo assaggiati; concedeteci quel che dimostriamo. Il nostro capo andrà nudo finché il merito non lo [[Crown|incoroni]]. Nessuna perfezione futura avrà lode nel presente. Non nomineremo il [[Desert|merito]] prima della sua nascita, e nato che sia il suo titolo sarà umile. Poche parole per una bella [[Faith|fede]]. [[Troilus|Troilo]] sarà tale verso Cressida che il peggio che l’invidia possa dire sarà una beffa per la sua [[Truth|verità]]; e ciò che la [[Truth|verità]] può dire di più vero, non più vero di [[Troilus|Troilo]]. |
+| [[Cressida|CRESSIDA]] | Volete entrare, mio signore? |
+| *(didascalia)* | Entra [[Pandarus|Pandaro]] |
+| [[Pandarus|PANDARO]] | Come, ancora ad arrossire? Non avete ancora finito di parlare? |
+| [[Cressida|CRESSIDA]] | [[Well|Bene]], zio, qualunque follia io commetta, la dedico a voi. |
+| [[Pandarus|PANDARO]] | Ti ringrazio di questo. Se il mio signore ti fa un maschio, lo darai a me. Sii fedele al mio signore. Se lui vacilla, rimprovera me. |
+| [[Troilus|TROILO]] | (a [[Cressida]]) Ora conoscete i vostri pegni: la parola di vostro zio e la mia ferma [[Faith|fede]]. |
+| [[Pandarus|PANDARO]] | Anzi, darò la mia parola anche per lei. I nostri parenti, sebbene siano lunghi a farsi corteggiare, sono costanti una volta conquistati. Sono lappole, ve lo posso dire: s’attaccano dove sono gettate. |
+| [[Cressida|CRESSIDA]] | L’ardire mi viene ora, e mi porta coraggio.<br>Principe [[Troilus|Troilo]], v’ho amato [[Night|notte]] e giorno<br>per molti mesi penosi. |
+| [[Troilus|TROILO]] | Perché la mia Cressida fu allora così difficile da conquistare? |
+| [[Cressida|CRESSIDA]] | Difficile a parer conquistata; ma fui conquistata, mio signore,<br>col primo sguardo che mai—perdonatemi:<br>se confesso troppo, farete il [[Tyrant|tiranno]].<br>V’[[Love|amo]] ora, ma fino ad ora non tanto<br>che non potessi dominarlo. In [[Faith|fede]], mento:<br>i miei pensieri erano come bimbi sfrenati, cresciuti<br>troppo testardi per la loro madre. Vedete, noi sciocche!<br>Perché ho ciarlato? Chi sarà fedele a noi,<br>quando siamo così poco segrete con noi stesse?<br>Ma sebbene v’amassi [[Well|bene]], non vi corteggiai—<br>e pure, in buona [[Faith|fede]], mi volevo uomo,<br>o che noi donne avessimo il privilegio degli uomini<br>di parlare per prime. Dolce, ordinatemi di tacere,<br>ché in questo rapimento dirò certamente<br>ciò di cui mi pentirò. Vedete, vedete, il vostro [[Silence|silenzio]],<br>astuto nel mutismo, nella mia debolezza mi trae<br>l’[[Soul|anima]] del segreto. Chiudetemi la bocca. |
+| [[Troilus|TROILO]] | E lo farò, sebbene dolce musica ne esca.<br>La bacia |
+| [[Pandarus|PANDARO]] | Graziosa, in [[Faith|fede]] mia. |
+| [[Cressida|CRESSIDA]] | (a [[Troilus|Troilo]])<br>Mio signore, vi supplico di perdonarmi.<br>Non era mia intenzione mendicare così un bacio.<br>Mi vergogno. O cieli, che ho fatto?<br>Per questa [[Time|volta]] prendo congedo, mio signore. [[Troilus|TROILO]] Il vostro congedo, dolce Cressida? |
+| [[Pandarus|PANDARO]] | Congedo? Se prendete congedo fino a domattina— |
+| [[Cressida|CRESSIDA]] | Vi prego, acquietatevi. |
+| [[Troilus|TROILO]] | Che vi offende, signora? |
+| [[Cressida|CRESSIDA]] | Signore, la mia propria compagnia. |
+| [[Troilus|TROILO]] | Non potete sfuggire a voi stessa. |
+| [[Cressida|CRESSIDA]] | Lasciatemi andare a provarci.<br>Ho una specie di [[Self|me]] che risiede con voi—<br>ma un [[Self|me]] snaturato, che abbandonerà se stesso<br>per essere lo [[Fool|zimbello]] d’un altro. Dov’è il mio senno?<br>Vorrei andarmene. Parlo non so che. |
+| [[Troilus|TROILO]] | [[Well|Bene]] sanno quel che dicono coloro che parlano così saviamente. |
+| [[Cressida|CRESSIDA]] | Forse, mio signore, mostro più astuzia che [[Love|amore]],<br>e caddi così tondamente in un’ampia confessione<br>per pescare i vostri pensieri. Ma voi siete savio,<br>o altrimenti non [[Love|amate]]—ché esser savio e [[Love|amare]]<br>eccede il potere dell’uomo: quello dimora presso gli dèi. |
+| [[Troilus|TROILO]] | Oh, s’io credessi che potesse esservi in una donna—<br>e, se può esservi, lo presumerò in voi—<br>d’alimentare in eterno la sua lampada e le fiamme d’[[Love|amore]],<br>di mantenere la sua costanza in vigore e giovinezza,<br>sopravvivendo all’esterno della [[Beauty|bellezza]], con una mente<br>che si rinnova più veloce di quanto il [[Blood|sangue]] decada;<br>o che la [[Persuasion|persuasione]] potesse così convincermi<br>che la mia integrità e [[Truth|fedeltà]] verso voi<br>potessero esser affrontate dal pari e dal peso<br>di tale vagliata purezza in [[Love|amore]].<br>Come sarei allora esaltato! Ma ahimè,<br>io sono fedele quanto la semplicità della [[Truth|verità]],<br>e più semplice dell’infanzia della [[Truth|verità]]. |
+| [[Cressida|CRESSIDA]] | In questo guerreggerò con voi. |
+| [[Troilus|TROILO]] | O virtuoso combattimento,<br>quando il giusto col giusto contende chi sarà più giusto.<br>I fedeli amanti in [[Love|amore]] nel mondo a venire<br>proveranno la loro [[Truth|fedeltà]] con [[Troilus|Troilo]]. Quando le loro rime,<br>piene di proteste, di giuramenti e di grandi paragoni,<br>mancheranno di similitudini, la [[Truth|verità]] stanca di ripetersi—<br>‘fedele come l’acciaio, come la pianta alla [[Moon|luna]],<br>come il sole al giorno, come la tortora al compagno,<br>come il ferro al diamante, come la terra al centro’—<br>pure, dopo tutti i paragoni di [[Truth|fedeltà]],<br>da citarsi come autentico autore della [[Truth|verità]],<br>‘fedele come [[Troilus|Troilo]]’ [[Crown|coronerà]] il verso<br>e santificherà i metri. |
+| [[Cressida|CRESSIDA]] | [[Prophet|Profeta]] possiate essere!<br>S’io sarò falsa, o devierò d’un capello dalla [[Truth|verità]],<br>quando il [[Time|tempo]] sarà vecchio e si sarà dimenticato di sé,<br>quando le gocce d’[[Water|acqua]] avranno consumato le pietre di Troia<br>e il cieco oblio avrà inghiottito le città,<br>e potenti stati, senza più segno, saran ridotti<br>a polveroso nulla, allora la [[Memory|memoria]],<br>di falsa in falsa, fra le fanciulle infedeli in [[Love|amore]],<br>rimproveri la mia falsità. Quando avranno detto: ‘falsa<br>come l’aria, come l’[[Water|acqua]], il [[Wind|vento]] o la terra sabbiosa,<br>come la volpe all’[[Lamb|agnello]], o il lupo al vitello della giovenca,<br>il leopardo alla cerva, o la matrigna al figliastro’,<br>sì, dicano, per trafiggere il cuore della falsità:<br>‘falsa come Cressida’. |
+| [[Pandarus|PANDARO]] | Via, il patto è fatto. Sigillatelo, sigillatelo. Io sarò il testimone. Qui tengo la vostra mano; qui, quella di mia cugina. Se mai sarete falsi l’uno con l’altra, poiché mi son dato tanta [[Pain|pena]] per unirvi, tutti i pietosi mezzani siano chiamati fino alla fine del mondo col mio nome: chiamateli tutti pandari. Tutti gli uomini costanti siano Troili, tutte le donne false Cresside, e tutti i sensali pandari. Dite ‘Amen’. |
+| [[Troilus|TROILO]] | Amen. |
+| [[Cressida|CRESSIDA]] | Amen. |
+| [[Pandarus|PANDARO]] | Amen. Sul che vi mostrerò una camera con un letto—e quel letto, perché non parli dei vostri graziosi incontri, schiacciatelo a [[Death|morte]]. Via! |
+| *(didascalia)* | Escono [[Troilus|Troilo]] e [[Cressida]] |
+| [[Pandarus|PANDARO]] | E Cupido conceda a tutte le fanciulle qui mute<br>letto, camera, mezzano a fornir tal faccenda. Esce |
 
 
 
@@ -2399,6 +3084,92 @@ Exit
 | [[Thersites\|THERSITES]] | Would the fountain of your mind were clear again, that I might [[Water\|water]] an ass at it. I had rather be a tick in a sheep than such a valiant ignorance. Exit |
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Fanfara. Entrano [[Ulysses|Ulisse]], Diomede, Nestore, [[Agamemnon|Agamennone]], Menelao, [[Ajax|Aiace]], e Calcante |
+| CALCANTE | Ora, principi, per il servizio che v’ho reso,<br>l’occasione del [[Time|tempo]] m’induce ad alta voce<br>a chiedere ricompensa. Vi torni alla mente<br>che per la vista ch’io porto nelle cose a venire<br>ho abbandonato Troia, lasciato il mio ufficio,<br>incorso nel nome di traditore, e mi son esposto,<br>da agi certi e posseduti,<br>a fortune dubbie, sequestrandomi tutto ciò<br>che il [[Time|tempo]], la conoscenza, l’uso e la condizione<br>avevano reso mansueto e familiarissimo alla mia [[Nature|natura]];<br>e qui, per servirvi, son divenuto<br>come nuovo al mondo, straniero, senza conoscenze.<br>Vi supplico, a modo di saggio,<br>di darmi ora un piccolo beneficio<br>fra quei molti registrati in promessa<br>che voi dite viventi a venire in mio favore. |
+| [[Agamemnon|AGAMENNONE]] | Che vuoi da noi, Troiano? Fa’ la tua domanda. |
+| CALCANTE | Avete un prigioniero troiano chiamato Antenore,<br>preso ieri. Troia lo tiene molto caro.<br>Spesso avete—spesso ne abbiate grazie—<br>desiderato la mia Cressida in ben grande scambio,<br>che Troia ha sempre negata. Ma questo Antenore<br>io so che è tale chiave nei loro affari<br>che tutte le loro trattative dovranno allentarsi,<br>mancando la sua guida, e quasi ci daranno<br>un principe di [[Blood|sangue]], un figlio di Priamo,<br>in cambio di lui. Sia mandato, grandi principi,<br>ed egli comprerà mia figlia, e la sua presenza<br>cancellerà del tutto ogni servizio ch’io ho reso<br>con [[Pain|fatica]] assai gradita. |
+| [[Agamemnon|AGAMENNONE]] | Diomede lo conduca,<br>e ci porti qui Cressida; Calcante avrà<br>ciò che chiede da noi. Buon Diomede,<br>preparatevi degnamente per questo scambio;<br>e portate insieme notizia se [[Hector|Ettore]] vorrà domani<br>aver risposta alla sua sfida. [[Ajax|Aiace]] è pronto. |
+| DIOMEDE | Questo lo prenderò su di me, ed è un peso<br>ch’io son fiero di portare. Esce con Calcante |
+| *(didascalia)* | Entrano [[Achilles|Achille]] e Patroclo nella loro tenda |
+| [[Ulysses|ULISSE]] | [[Achilles|Achille]] sta all’ingresso della sua tenda.<br>Piaccia al nostro generale passargli accanto da estraneo,<br>come se fosse dimenticato; e, principi tutti,<br>posate su di lui uno sguardo negligente e distratto.<br>Io verrò ultimo. È probabile che mi domandi<br>perché occhi così poco plaudenti si volgano, perché rivolti su di<br>lui.<br>Se così, ho una derisione medicinale<br>da porre fra la vostra estraneità e la sua [[Pride|superbia]],<br>che la sua stessa volontà avrà [[Desire|desiderio]] di bere.<br>Può far bene. La [[Pride|Superbia]] non ha altro specchio<br>per mostrarsi che la [[Pride|superbia]]; ché ginocchia flessibili<br>nutrono l’arroganza e sono i tributi dell’uomo superbo. |
+| [[Agamemnon|AGAMENNONE]] | Eseguiremo il vostro disegno e assumeremo<br>una forma d’estraneità passando oltre.<br>Così faccia ogni signore, e o non lo salutino<br>o lo salutino con disdegno, che lo scuoterà più<br>del non esser guardato affatto. Io farò strada.<br>Passano davanti alla tenda, uno dopo l’altro |
+| [[Achilles|ACHILLE]] | Come, viene il generale a parlare con me?<br>Conoscete la mia intenzione: non combatterò più contro Troia. |
+| [[Agamemnon|AGAMENNONE]] | (a Nestore)<br>Che dice [[Achilles|Achille]]? Vuol qualcosa da noi? |
+| NESTORE | (a [[Achilles|Achille]])<br>Volete, mio signore, qualcosa dal generale? |
+| [[Achilles|ACHILLE]] | No. |
+| NESTORE | (ad [[Agamemnon|Agamennone]])<br>Nulla, mio signore. |
+| [[Agamemnon|AGAMENNONE]] | Tanto meglio. |
+| *(didascalia)* | Escono [[Agamemnon|Agamennone]] e Nestore |
+| *(didascalia)* | [[Achilles|ACHILLE]] a Menelao Buon giorno, buon giorno. |
+| MENELAO | Come state? Come state? |
+| *(didascalia)* | Esce |
+| [[Achilles|ACHILLE]] | (a Patroclo)<br>Come, il cornuto mi schernisce? |
+| [[Ajax|AIACE]] | Ebbene, Patroclo? |
+| [[Achilles|ACHILLE]] | Buon giorno, [[Ajax|Aiace]]. |
+| [[Ajax|AIACE]] | Eh? |
+| [[Achilles|ACHILLE]] | Buon giorno. |
+| [[Ajax|AIACE]] | Sì, e buon giorno anche il giorno dopo. |
+| *(didascalia)* | Esce |
+| [[Achilles|ACHILLE]] | (a Patroclo)<br>Che intendono costoro? Non conoscono [[Achilles|Achille]]? |
+| PATROCLO | Passano oltre da estranei. Solevano inchinarsi,<br>mandare i loro sorrisi innanzi a sé verso [[Achilles|Achille]],<br>venire umili come si suole strisciare<br>verso i santi altari. |
+| [[Achilles|ACHILLE]] | Come, son io divenuto povero da poco?<br>È certo, la [[Greatness|grandezza]], una volta in lite con la fortuna,<br>dev’essere in lite anche con gli uomini. Ciò che il decaduto è<br>egli lo leggerà negli occhi degli altri tanto presto<br>quanto lo sentirà nella propria caduta; ché gli uomini, come farfalle,<br>non mostrano le ali farinose che all’[[Summer|estate]],<br>e nessun uomo, per il solo essere uomo,<br>ha alcun [[Honour|onore]], ma [[Honour|onore]] per quegli onori<br>che gli sono esterni—come rango, ricchezze e favore:<br>premi del caso quanto del merito;<br>i quali, quando cadono, essendo sostegni sdrucciolevoli—<br>e l’[[Love|amore]] che vi si appoggiava, altrettanto sdrucciolevole—<br>l’uno trascina giù l’altro, e insieme<br>muoiono nella caduta. Ma con me non è così.<br>La fortuna e io siamo amici. Io godo<br>in pieno tutto quel che possedevo,<br>tranne gli sguardi di questi uomini—che, mi pare, scoprano<br>in me qualcosa non degna d’un così ricco guardare<br>come spesso m’han dato. Ecco [[Ulysses|Ulisse]];<br>gli interromperò la lettura. Ebbene, [[Ulysses|Ulisse]]? |
+| [[Ulysses|ULISSE]] | Ebbene, gran figlio di Tetide. |
+| [[Achilles|ACHILLE]] | Che state leggendo? |
+| [[Ulysses|ULISSE]] | Uno strano tale qui<br>mi scrive che l’uomo, per quanto largamente dotato,<br>per quanto ricco d’aver, fuori o dentro di sé,<br>non può vantarsi d’avere quel che ha,<br>né sente ciò che possiede, se non per riflesso—<br>come quando le sue virtù, brillando sugli altri,<br>li riscaldano, ed essi ritorcono quel calore<br>ai primi donatori. |
+| [[Achilles|ACHILLE]] | Questo non è strano, [[Ulysses|Ulisse]].<br>La [[Beauty|bellezza]] che si porta qui nel volto<br>chi la porta non la conosce, ma essa si raccomanda<br>agli occhi altrui. Né l’occhio stesso,<br>quel purissimo spirito del senso, vede se stesso,<br>non uscendo da sé; ma occhio contrapposto a occhio<br>si salutano l’uno con la forma dell’altro.<br>Ché la vista non torna a se stessa<br>finché non ha viaggiato e non è specchiata là<br>dove possa vedersi. Questo non è strano per nulla. |
+| [[Ulysses|ULISSE]] | Non m’arresto sulla proposizione—<br>è cosa nota—ma sull’intento dell’autore;<br>il quale nel suo svolgimento prova espressamente<br>che nessun uomo è signore di nulla,<br>sebbene in lui e di lui vi sia molto,<br>finché non comunichi le sue doti agli altri.<br>Né da sé le conosce per qualcosa<br>finché non le veda formate nell’applauso<br>in cui si estendono—il quale, come un arco, ripercuote<br>di nuovo la voce; o, come una porta d’acciaio<br>rivolta al sole, riceve e rimanda<br>la sua figura e il suo calore. Ero molto rapito in questo,<br>e qui subito concepii<br>l’ignoto [[Ajax|Aiace]].<br>Cieli, che uomo è quello! Un vero [[Horse|cavallo]],<br>che ha non sa che cosa. [[Nature|Natura]], che cose<br>vi sono,<br>abiettissime nella considerazione e care nell’uso.<br>E che cose, ancora, carissime nella stima<br>e povere di valore. Ora vedremo domani<br>un atto che il puro caso gli getta addosso.<br>[[Ajax|Aiace]] famoso? O cieli, quel che certi uomini fanno,<br>mentre altri tralasciano di fare.<br>Come certi strisciano nella sala della capricciosa Fortuna<br>mentre altri fanno gli idioti sotto i suoi occhi;<br>come un uomo rode la [[Pride|superbia]] d’un altro<br>mentre la [[Pride|superbia]] digiuna nella sua sfrenatezza.<br>A vedere questi signori greci! Ebbene, già ora<br>battono la spalla al goffo [[Ajax|Aiace]],<br>come se il suo piede fosse sul petto del prode [[Hector|Ettore]]<br>e la grande Troia si ritraesse. |
+| [[Achilles|ACHILLE]] | Lo credo,<br>ché mi son passati accanto come gli avari accanto ai mendichi,<br>né m’han dato buona parola né sguardo.<br>Come, sono dimenticate le mie imprese? |
+| [[Ulysses|ULISSE]] | Il [[Time|Tempo]] ha, mio signore,<br>una bisaccia sulla schiena, in cui mette<br>elemosine per l’oblio, [[Monster|mostro]] di gran mole<br>d’ingratitudini. Quegli avanzi sono le buone azioni passate,<br>che sono divorate tanto presto quanto son fatte,<br>dimenticate appena compiute. La perseveranza, mio caro signore,<br>tiene lucido l’[[Honour|onore]]. Aver fatto è pendere<br>affatto fuori moda, come una cotta rugginosa<br>in monumentale derisione. Prendi la via immediata,<br>ché l’[[Honour|onore]] viaggia in una gola così stretta<br>che vi si passa uno solo alla volta. Tieni dunque il sentiero,<br>ché l’emulazione ha mille figli<br>che a uno a uno inseguono: se cedi il passo,<br>o t’apparti dalla via diritta,<br>come marea entrata tutti passano oltre<br>e ti lasciano ultimo;<br>o, come nobile [[Horse|cavallo]] caduto in prima fila,<br>resti lì a far selciato per l’abietta retroguardia,<br>travolto e calpestato. Allora quel che fanno nel<br>presente,<br>sebbene minore del tuo passato, dovrà sovrastare il tuo.<br>Ché il [[Time|Tempo]] è come un ospite alla moda,<br>che stringe appena la mano all’ospite che parte<br>e, con le braccia protese come volesse volare,<br>afferra chi arriva. Il Benvenuto sempre sorride,<br>e l’Addio se ne va sospirando. Oh, non cerchi la virtù<br>ricompensa per ciò che fu;<br>ché la [[Beauty|bellezza]], l’ingegno,<br>l’alta nascita, il vigore delle ossa, il [[Desert|merito]] nel servizio,<br>l’[[Love|amore]], l’[[Friendship|amicizia]], la [[Charity|carità]], son tutti soggetti<br>all’invidioso e calunniatore [[Time|tempo]].<br>Un tocco di [[Nature|natura]] fa parente il mondo intero—<br>sì che tutti d’un solo consenso lodano i gingilli appena nati,<br>sebbene siano fatti e modellati di cose passate,<br>e danno alla [[Dust|polvere]] un poco dorata<br>più lode che all’oro coperto di polvere.<br>L’occhio presente loda l’oggetto presente.<br>Non ti stupire dunque, tu uomo grande e compiuto,<br>che tutti i Greci comincino ad adorare [[Ajax|Aiace]],<br>poiché le cose in movimento prendono l’occhio più presto<br>di quel che non si muove. Il clamore fu un tempo per te,<br>e ancora potrebbe esserlo, e ancora può esserlo di nuovo,<br>se non volessi seppellirti vivo<br>e chiudere in astuccio la tua fama nella tua tenda,<br>le cui glorie in questi campi, non molto addietro,<br>suscitarono missioni d’emulazione fra gli dèi stessi,<br>e spinsero il grande Marte a prender parte. |
+| [[Achilles|ACHILLE]] | Di questo mio ritiro<br>ho forti ragioni. |
+| [[Ulysses|ULISSE]] | Ma contro il vostro ritiro<br>le ragioni son più potenti ed eroiche.<br>Si sa, [[Achilles|Achille]], che siete [[Love|innamorato]]<br>d’una delle figlie di Priamo. |
+| [[Achilles|ACHILLE]] | Eh? Si sa? |
+| [[Ulysses|ULISSE]] | È una [[Wonder|meraviglia]]?<br>La [[Providence|provvidenza]] che è in uno stato vigile<br>conosce quasi ogni grano dell’oro di Plutone,<br>trova il [[Bottom|fondo]] negli abissi incomprensibili,<br>sta al passo con tutto, e quasi come gli dèi<br>svela i pensieri infanti nelle loro mute cune.<br>V’è un mistero, col quale il racconto<br>non osò mai intromettersi, nell’[[Soul|anima]] dello stato,<br>che ha un’operazione più divina<br>di quanto fiato o penna possa esprimere.<br>Tutto il commercio che avete avuto con Troia<br>è nostro tanto perfettamente quanto vostro, mio signore;<br>e molto meglio s’addirebbe ad [[Achilles|Achille]]<br>abbattere [[Hector|Ettore]] che Polissena.<br>Ma dovrà dolere al giovane Pirro ora a [[Home|casa]],<br>quando la fama nella sua isola suonerà la tromba<br>e tutte le fanciulle greche danzando canteranno:<br>‘La sorella del grande [[Hector|Ettore]] la conquistò [[Achilles|Achille]],<br>ma il nostro grande [[Ajax|Aiace]] prodemente abbatté lui’.<br>Addio, mio signore. Io parlo come vostro [[Lover|amico]].<br>Lo [[Fool|sciocco]] scivola sul ghiaccio che voi dovreste rompere. Esce |
+| PATROCLO | A questo scopo, [[Achilles|Achille]], v’ho esortato.<br>Una donna impudente e divenuta virile<br>non è più detestata d’un uomo effeminato<br>in [[Time|tempo]] d’azione. Io sto condannato per questo.<br>Credono che il mio poco appetito per la guerra<br>e il vostro grande [[Love|amore]] per me vi trattengano così.<br>Dolce, destatevi, e il debole lascivo Cupido<br>scioglierà dal vostro collo il suo amoroso abbraccio<br>e come goccia di rugiada dalla criniera del [[Lion|leone]]<br>sarà scosso nell’aria. |
+| [[Achilles|ACHILLE]] | Combatterà [[Ajax|Aiace]] con [[Hector|Ettore]]? |
+| PATROCLO | Sì, e forse ne riceverà molto [[Honour|onore]]. |
+| [[Achilles|ACHILLE]] | Vedo che la mia fama è in gioco.<br>Il mio nome è malamente ferito. |
+| PATROCLO | Oh, allora badate:<br>guariscono male le ferite che gli uomini si dànno da sé.<br>L’omettere ciò ch’è necessario<br>sigilla una patente a un bianco di pericolo,<br>e il pericolo, come una febbre, sottilmente infetta<br>proprio quando ce ne stiamo oziosi al sole. |
+| [[Achilles|ACHILLE]] | Va’ a chiamar qui [[Thersites|Tersite]], dolce Patroclo.<br>Manderò lo [[Fool|sciocco]] a [[Ajax|Aiace]], e lo [[Desire|pregherò]]<br>d’invitare i signori troiani dopo il combattimento<br>a vederci qui disarmati. Ho una [[Longing|brama]] di donna,<br>un appetito di cui son malato,<br>di vedere il grande [[Hector|Ettore]] nelle sue vesti di pace, |
+| *(didascalia)* | Entra [[Thersites|Tersite]] |
+| [[Achilles|ACHILLE]] | di parlare con lui e di contemplarne il volto<br>fino a saziarmene la vista.—Fatica risparmiata. |
+| [[Thersites|TERSITE]] | Una [[Wonder|meraviglia]]! |
+| [[Achilles|ACHILLE]] | Quale? |
+| [[Thersites|TERSITE]] | [[Ajax|Aiace]] va su e giù per il campo, come se cercasse se stesso. |
+| [[Achilles|ACHILLE]] | E come? |
+| [[Thersites|TERSITE]] | Deve combattere domani a singolare con [[Hector|Ettore]], ed è così profeticamente orgoglioso d’una bastonatura eroica che delira senza dire nulla. |
+| [[Achilles|ACHILLE]] | Come può essere? |
+| [[Thersites|TERSITE]] | Ebbene, va a spasso su e giù come un pavone—un passo e una posa; rumina come un’ostessa che non ha altra aritmetica che il proprio cervello per segnare il conto; si morde il labbro con aria politica, come per dire ‘Ci sarebbe ingegno in questa testa, se volesse uscire’—e infatti c’è; ma vi giace freddo come il [[Fire|fuoco]] nella pietra focaia, che non si mostra senza percussione. L’uomo è rovinato per sempre, ché se [[Hector|Ettore]] non gli rompe il collo nel combattimento, se lo romperà da sé per vanagloria. Non mi riconosce. Gli dissi: ‘Buon giorno, [[Ajax|Aiace]]’, e lui risponde: ‘Grazie, [[Agamemnon|Agamennone]]’. Che ne pensate d’un uomo che mi prende per il Generale? È diventato un vero pesce di terra, senza linguaggio, un [[Monster|mostro]]. Peste dell’opinione! Uno può portarla da entrambi i lati come un giubbetto di cuoio. |
+| [[Achilles|ACHILLE]] | Devi essere il mio ambasciatore presso di lui, [[Thersites|Tersite]]. |
+| [[Thersites|TERSITE]] | Chi, io? Ma egli non risponde a nessuno. Professa il non rispondere. Il parlare è per i mendichi. Porta la lingua nelle braccia. Assumerò la sua persona. Patroclo mi rivolga domande. Vedrete la mascherata di [[Ajax|Aiace]]. |
+| [[Achilles|ACHILLE]] | A lui, Patroclo. Digli che umilmente [[Desire|desidero]] che il valoroso [[Ajax|Aiace]] inviti il valorosissimo [[Hector|Ettore]] a venire disarmato alla mia tenda, e che procuri un salvacondotto per la sua persona dal magnanimo e illustrissimo sei-o-sette-volte-onorato capitano generale dell’esercito greco, [[Agamemnon|Agamennone]]; et cetera. Fa’ questo. |
+| PATROCLO | (a [[Thersites|Tersite]]) Giove benedica il grande [[Ajax|Aiace]]! |
+| [[Thersites|TERSITE]] | Hm. |
+| PATROCLO | Vengo dal degno [[Achilles|Achille]]— |
+| [[Thersites|TERSITE]] | Eh? |
+| PATROCLO | il quale umilissimamente vi prega d’invitare [[Hector|Ettore]] alla sua tenda— |
+| [[Thersites|TERSITE]] | Hm! |
+| PATROCLO | E di procurare un salvacondotto da [[Agamemnon|Agamennone]]. |
+| [[Thersites|TERSITE]] | [[Agamemnon|Agamennone]]? |
+| PATROCLO | Sì, mio signore. |
+| [[Thersites|TERSITE]] | Ah! |
+| PATROCLO | Che ne dite? |
+| [[Thersites|TERSITE]] | Dio sia con voi, con tutto il cuore. |
+| PATROCLO | La vostra risposta, signore? |
+| [[Thersites|TERSITE]] | Se domani sarà un bel giorno, entro le undici all’[[Clock|orologio]] andrà in un modo o nell’altro. Comunque sia, mi pagherà prima d’avermi. |
+| PATROCLO | La vostra risposta, signore? |
+| [[Thersites|TERSITE]] | State [[Well|bene]], con tutto il cuore. |
+| [[Achilles|ACHILLE]] | Ma via, non è su questo tono, vero? |
+| [[Thersites|TERSITE]] | No, ma è scordato in questo modo. Che musica ci sarà in lui quando [[Hector|Ettore]] gli avrà cavato le cervella, non lo so. Ma temo nessuna, a meno che il violinista [[Apollo]] non prenda i suoi nervi per farne corde. |
+| [[Achilles|ACHILLE]] | Su, gli porterai subito una lettera. |
+| [[Thersites|TERSITE]] | Fatemene portare un’altra al suo [[Horse|cavallo]], ché quella è la creatura più capace. |
+| [[Achilles|ACHILLE]] | La mia mente è turbata come una fonte agitata,<br>e io stesso non ne vedo il [[Bottom|fondo]]. |
+| *(didascalia)* | Esce con Patroclo |
+| [[Thersites|TERSITE]] | Volesse il cielo che la fonte della vostra mente tornasse limpida, ché vi potessi [[Water|abbeverare]] un asino. Preferirei essere una zecca in una pecora che una tale valorosa ignoranza. Esce |
+
 
 
 <span class="atom-split" data-atom="act_4--scene_1" data-title="Troilus and Cressida — Act IV, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="archetype/king,motif/death,motif/desire,motif/lion,motif/love,motif/pain,motif/silence,motif/soul,motif/time,motif/well,concept/courage,concept/faith,concept/fear,concept/honour,setting/paris,character/cressida,character/helen,character/troilus,character/venus"></span>
@@ -2436,6 +3207,40 @@ Exit
 | DIOMEDES | She’s bitter to her country. Hear me, [[Paris]].<br>For every false drop in her bawdy veins<br>A Grecian’s life hath sunk; for every scruple<br>Of her contaminated carrion weight<br>A Trojan hath been slain. Since she could speak<br>She hath not given so many good words breath<br>As, for her, Greeks and Trojans suffered [[Death\|death]]. |
 | [[Paris\|PARIS]] | Fair Diomed, you do as chapmen do:<br>Dispraise the thing that you [[Desire\|desire]] to buy.<br>But we in [[Silence\|silence]] hold this virtue [[Well\|well]]:<br>We’ll but commend what we intend to sell.—<br>Here lies our way. Exeunt |
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entra da una porta Enea con una torcia; da un’altra [[Paris|Paride]], Deifobo, Antenore, e Diomede il Greco, con portatori di torce |
+| [[Paris|PARIDE]] | Guardate, ehil Chi è quello là? |
+| DEIFOBO | È il signor Enea. |
+| ENEA | È il Principe là in persona? Se avessi buona occasione d’indugiare a letto<br>come voi, principe [[Paris|Paride]], nulla se non affari celesti<br>ruberebbe alla mia compagna di letto la mia compagnia. |
+| DIOMEDE | Questo è anche il mio parere. Buon giorno, signor Enea. |
+| [[Paris|PARIDE]] | Un valoroso Greco, Enea, prendetegli la mano.<br>Ne fa testimonianza il corso del vostro discorso, in cui<br>raccontaste come Diomede per una settimana intera, giorno per giorno,<br>vi diede la caccia sul campo. |
+| ENEA | (a Diomede) Salute a voi, valoroso signore,<br>per tutta la durata della gentile tregua.<br>Ma quando v’incontrerò in armi, sfida così nera<br>quanto il cuore possa pensare o il [[Courage|coraggio]] eseguire. |
+| DIOMEDE | L’una e l’altra cosa Diomede abbraccia.<br>I nostri sangui sono ora in calma; e fin che dura, salute.<br>Ma quando la contesa e l’occasione s’incontreranno,<br>per Giove farò il cacciatore della tua vita<br>con tutta la mia forza, il mio inseguimento e la mia astuzia. |
+| ENEA | E tu darai la caccia a un [[Lion|leone]] che fuggirà<br>col volto rivolto indietro. In umana gentilezza,<br>benvenuto a Troia. Ora, per la vita d’Anchise,<br>benvenuto davvero) Per la mano di [[Venus|Venere]] giuro<br>che nessun uomo vivo può [[Love|amare]] in tal modo,<br>più eccellentemente, la cosa che intende uccidere. |
+| DIOMEDE | Ci troviamo concordi. Giove, viva Enea—<br>se il suo destino non è gloria della mia [[Sword|spada]]—<br>mille interi corsi del sole;<br>ma, per il mio [[Honour|onore]] emulo, muoia<br>con ogni giuntura una ferita—e questo, domani. |
+| ENEA | Ci conosciamo [[Well|bene]] l’un l’altro. |
+| DIOMEDE | È vero, e non aspettiamo che di conoscerci peggio. |
+| [[Paris|PARIDE]] | Questo è il più dispettoso gentile saluto,<br>il più nobile odioso [[Love|amore]], di cui mai udii.<br>Quale affare, signore, così di buon’ora? |
+| ENEA | Fui chiamato dal [[King|re]]; ma perché, non lo so. |
+| [[Paris|PARIDE]] | Il suo intento vi viene incontro: era di condurre questo Greco<br>alla [[house|casa]] di Calcante, e là consegnargli,<br>in cambio d’Antenore liberato, la bella Cressida.<br>Venite con noi, o se vi piace |
+| *(didascalia)* | affrettatevi là prima di noi. A parte Costantemente penso— |
+| [[Paris|PARIDE]] | o piuttosto, chiamate il mio pensiero certa conoscenza—<br>che mio fratello [[Troilus|Troilo]] alloggia là stanotte.<br>Destatelo e avvisatelo del nostro avvicinarsi,<br>con tutta la natura del perché. [[Fear|Temo]]<br>che saremo assai malvenuti. |
+| *(didascalia)* | ENEA a parte Di questo vi assicuro. |
+| [[Paris|PARIDE]] | [[Troilus|Troilo]] preferirebbe che Troia fosse portata in Grecia<br>che Cressida portata via da Troia. |
+| *(didascalia)* | [[Paris|PARIDE]] a parte |
+| [[Paris|PARIDE]] | Non c’è rimedio.<br>L’amara disposizione del [[Time|tempo]]<br>vuole così. |
+| *(didascalia)* | Ad alta voce Avanti, signore, vi seguiremo. |
+| ENEA | Buon giorno a tutti. |
+| *(didascalia)* | Esce |
+| [[Paris|PARIDE]] | E dimmi, nobile Diomede—in [[Faith|fede]], dimmi il vero,<br>proprio nell’[[Soul|anima]] della sana buona amicizia-<br>chi, a tuo giudizio, merita più la bella [[Helen|Elena]],<br>io o Menelao? |
+| DIOMEDE | Entrambi allo stesso modo.<br>[[Well|Ben]] merita d’averla chi la cerca,<br>senza farsi scrupolo della sua macchia,<br>con tale inferno di [[Pain|pena]] e mondo di spesa;<br>e voi [[Well|bene]] altrettanto a tenerla, voi che la difendete,<br>senza sentire al palato il gusto del suo disonore,<br>con così costosa perdita di ricchezze e d’amici.<br>Egli, come un cornuto piagnucoloso, tracannerebbe<br>la broda e la feccia d’un pezzo svaporato e domato;<br>voi, come un libertino, da lombi di puttana<br>vi compiacete di generare i vostri eredi.<br>Pesati entrambi i meriti, ciascuno pesa né meno né più,<br>ma l’uno come l’altro: chi più grave, per una puttana? |
+| [[Paris|PARIDE]] | Siete troppo amaro con la vostra compatriota. |
+| DIOMEDE | Ella è amara col suo paese. Ascoltatemi, [[Paris|Paride]].<br>Per ogni goccia falsa nelle sue vene lascive<br>è affondata la vita d’un Greco; per ogni scrupolo<br>del suo contaminato peso di carogna<br>un Troiano è stato ucciso. Da quando sa parlare<br>non ha dato fiato a tante buone parole<br>quanti Greci e Troiani, per lei, hanno patito la [[Death|morte]]. |
+| [[Paris|PARIDE]] | Bel Diomede, voi fate come i mercanti:<br>sparlate della cosa che [[Desire|desiderate]] comprare.<br>Ma noi in [[Silence|silenzio]] teniamo [[Well|bene]] questa virtù:<br>loderemo soltanto ciò che intendiamo vendere.—<br>Qui è la nostra via. Escono |
 
 
 
@@ -2493,6 +3298,58 @@ Exit
 | *(didascalia)* | Exeunt |
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entrano [[Troilus|Troilo]] e [[Cressida]] |
+| [[Troilus|TROILO]] | Cara, non v’incomodate. Il mattino è freddo. |
+| [[Cressida|CRESSIDA]] | Allora, dolce mio signore, chiamerò giù mio zio.<br>Egli tirerà i chiavistelli dei portoni. |
+| [[Troilus|TROILO]] | Non l’incomodate.<br>A letto, a letto! Il [[Sleep|Sonno]] culli quei belli occhi<br>e dia ai tuoi sensi un abbandono tanto soave<br>quanto ai bimbi vuoti d’ogni pensiero. |
+| [[Cressida|CRESSIDA]] | Buon giorno, allora. |
+| [[Troilus|TROILO]] | Ti prego ora, a letto. |
+| [[Cressida|CRESSIDA]] | Siete stanco di me? |
+| [[Troilus|TROILO]] | O [[Cressida]]! Se non fosse che l’operoso giorno,<br>svegliato dall’allodola, ha destato i corvi sfacciati,<br>e la [[Night|notte]] sognante non nasconderà più le nostre gioie,<br>non mi staccherei da te. |
+| [[Cressida|CRESSIDA]] | La [[Night|Notte]] è stata troppo breve. |
+| [[Troilus|TROILO]] | Maledetta la [[Witch|strega]]! Con gli esseri velenosi indugia<br>orribile come l’inferno, ma fugge le strette dell’[[Love|amore]]<br>con ali più istantaneamente rapide del pensiero.<br>Prenderai freddo e mi maledirai. |
+| [[Cressida|CRESSIDA]] | Ti prego, resta. Voi uomini non restate mai.<br>O sciocca Cressida! Avrei potuto tenermi ancora in ritegno,<br>e allora tu saresti restato.—Udite, c’è qualcuno<br>alzato. |
+| *(didascalia)* | Si vela |
+| [[Pandarus|PANDARO]] | (da dentro) Come, tutte le porte aperte qui? |
+| [[Troilus|TROILO]] | È vostro zio. |
+| [[Cressida|CRESSIDA]] | Una pestilenza su di lui! Ora si metterà a beffare.<br>Che vita mi toccherà. |
+| *(didascalia)* | Entra [[Pandarus|Pandaro]] |
+| [[Pandarus|PANDARO]] | Ebbene, ebbene, come vanno le verginità? (A [[Cressida]]) Ehi, tu, ragazza! Dov’è mia cugina Cressida? |
+| *(didascalia)* | [[Cressida|CRESSIDA]] togliendosi il velo |
+| [[Pandarus|PANDARO]] | Andate a impiccarvi. Zio cattivo e beffardo!<br>Voi m’inducete a fare—e poi mi scornate anche. |
+| [[Pandarus|PANDARO]] | A fare che? A fare che?—Che dica lei che cosa.—A che cosa v’ho indotta? |
+| [[Cressida|CRESSIDA]] | Via, via, maledetto il vostro cuore. Non sarete mai<br>buono,<br>né lo permetterete agli altri. |
+| PINDARUS | Ah ah! Ahimè, povera sventurata. Ah, povera capocchia, non hai dormito stanotte? Non t’ha voluta—cattivo uomo—lasciar [[Sleep|dormire]]? Se lo porti via un babau. |
+| [[Cressida|CRESSIDA]] | (a [[Troilus|Troilo]])<br>Non ve l’avevo detto? Vorrei che gli spaccassero la testa. |
+| *(didascalia)* | Si batte dentro |
+| [[Cressida|CRESSIDA]] | Chi è alla porta?—Buon zio, andate a vedere.—<br>Mio signore, rientrate nella mia camera.<br>Sorridete e mi beffate, come se intendessi malizia. |
+| [[Troilus|TROILO]] | Ah ah! |
+| [[Cressida|CRESSIDA]] | Via, v’ingannate, non penso a nulla di ciò.<br>Si batte dentro<br><br>Con che insistenza battono! Vi prego, entrate.<br>Non vorrei per mezza Troia che vi si vedesse qui. |
+| *(didascalia)* | Escono [[Troilus|Troilo]] e [[Cressida]] |
+| [[Pandarus|PANDARO]] | Chi è là? Che c’è? Volete sfondare la porta? |
+| *(didascalia)* | Apre la porta. Entra Enea |
+| [[Pandarus|PANDARO]] | Ebbene, che c’è? |
+| ENEA | Buon giorno, signore, buon giorno. |
+| [[Pandarus|PANDARO]] | Chi è là? Il mio signor Enea? Sulla mia fede,<br>non vi riconoscevo. Che nuove portate così di buon’ora? |
+| ENEA | Non è qui il principe [[Troilus|Troilo]]? |
+| [[Pandarus|PANDARO]] | Qui? Che dovrebbe farci qui? |
+| ENEA | Suvvia, è qui, mio signore. Non negatelo.<br>Molto gl’importa parlare con me. |
+| [[Pandarus|PANDARO]] | È qui, dite? È più di quanto io sappia, lo giurerei. Per parte mia, son rientrato tardi. Che dovrebbe farci qui? |
+| ENEA | Oh là! No, dunque. Via, via, gli farete torto<br>prima d’accorgervene. Gli sarete fedele tanto<br>da essergli infedele. Non sappiate nulla di lui, |
+| *(didascalia)* | ma andate pure a chiamarlo qui. Andate. Esce [[Pandarus|Pandaro]] |
+| *(didascalia)* | Entra [[Troilus|Troilo]] |
+| [[Troilus|TROILO]] | Ebbene, che c’è? |
+| ENEA | Mio signore, ho appena il tempo di salutarvi,<br>tanto è precipitosa la mia faccenda. Sono qui presso<br>[[Paris|Paride]] vostro fratello e Deifobo,<br>il greco Diomede, e il nostro Antenore<br>consegnato a noi—e per lui, subito,<br>prima del primo sacrificio, entro quest’ora,<br>dobbiamo cedere alla mano di Diomede<br>la signora [[Cressida]]. |
+| [[Troilus|TROILO]] | È così concluso? |
+| ENEA | Da Priamo e dal consiglio generale di Troia.<br>Sono qui presso, e pronti a eseguirlo. |
+| [[Troilus|TROILO]] | Come le mie conquiste mi scherniscono.<br>Andrò a incontrarli—e, mio signor Enea,<br>c’incontrammo per caso: voi non mi trovaste qui. |
+| ENEA | Bene, bene, mio signore: i segreti della [[Nature|natura]]<br>non hanno maggior dono di taciturnità. |
+| *(didascalia)* | Escono |
+
 
 
 <span class="atom-split" data-atom="act_4--scene_3" data-title="Troilus and Cressida — Act IV, Scene 3" data-chapter="Scene 3" data-kind="scene" data-tags="motif/blood,motif/crown,motif/death,motif/love,motif/soul,motif/time,concept/body,character/cressida,character/pandarus,character/troilus"></span>
@@ -2518,6 +3375,27 @@ Exit
 | *(didascalia)* | Exeunt |
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entrano [[Pandarus|Pandaro]] e [[Cressida]] |
+| [[Pandarus|PANDARO]] | È possibile? Appena ottenuta, ed ecco perduta. Il diavolo si porti Antenore! Il giovane principe diverrà pazzo. La peste su Antenore! Vorrei che gli avessero rotto il collo. |
+| [[Cressida|CRESSIDA]] | Ebbene? Che c’è? Chi era qui? |
+| [[Pandarus|PANDARO]] | Ah, ah! |
+| [[Cressida|CRESSIDA]] | Perché sospirate così profondamente? Dov’è il mio signore?<br>Partito? Dimmi, dolce zio, che c’è? |
+| [[Pandarus|PANDARO]] | Vorrei essere tanto profondo sotto terra quanto sono sopra. |
+| [[Cressida|CRESSIDA]] | O dèi! Che c’è? |
+| [[Pandarus|PANDARO]] | Ti prego, rientra. Volesse il cielo che non fossi mai nata. Sapevo che sarebbi stata la sua [[Death|morte]]. O povero gentiluomo! La peste su Antenore! |
+| [[Cressida|CRESSIDA]] | Buon zio, vi supplico in ginocchio; vi supplico, che c’è? |
+| [[Pandarus|PANDARO]] | Devi andare, ragazza, devi andare. Sei scambiata con Antenore. Devi andare da tuo padre, e allontanarti da [[Troilus|Troilo]]. Sarà la sua [[Death|morte]]. Sarà la sua rovina. Non lo può sopportare. |
+| [[Cressida|CRESSIDA]] | O dèi immortali! Non andrò. |
+| [[Pandarus|PANDARO]] | Devi. |
+| [[Cressida|CRESSIDA]] | Non andrò, zio. Ho dimenticato mio padre.<br>Non conosco alcun tocco di consanguineità,<br>nessun parente, nessun [[Love|amore]], nessun [[Blood|sangue]], nessuna [[Soul|anima]] tanto vicina a me<br>quanto il dolce [[Troilus|Troilo]]. O dèi divini,<br>fate del nome di Cressida la [[Crown|corona]] stessa della falsità<br>s’ella mai lascerà [[Troilus|Troilo]]. [[Time|Tempo]], violenza, e [[Death|morte]],<br>fate a questo [[Body|corpo]] ogni estremo che potete,<br>ma la salda base e l’edificio del mio [[Love|amore]]<br>è come il centro stesso della terra,<br>che attira a sé tutte le cose. Rientrerò a piangere— |
+| [[Pandarus|PANDARO]] | Fa’, fa’. |
+| [[Cressida|CRESSIDA]] | a strapparmi i lucenti capelli, a graffiarmi le guance lodate,<br>a spezzare con i singhiozzi la mia voce chiara, e a rompermi il cuore<br>gridando ‘[[Troilus|Troilo]]’. Non partirò da Troia. |
+| *(didascalia)* | Escono |
+
 
 
 <span class="atom-split" data-atom="act_4--scene_4" data-title="Troilus and Cressida — Act IV, Scene 4" data-chapter="Scene 4" data-kind="scene" data-tags="motif/love,setting/paris,character/cressida,character/troilus"></span>
@@ -2531,6 +3409,16 @@ Exit
 | [[Paris\|PARIS]] | I know what ’tis to [[Love\|love]],<br>And would, as I shall pity, I could help.— |
 | *(didascalia)* | Please you walk in, my lords? Exeunt |
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entrano [[Paris|Paride]], [[Troilus|Troilo]], Enea, Deifobo, Antenore, e Diomede |
+| [[Paris|PARIDE]] | È giorno pieno, e l’ora prefissa<br>della sua consegna a questo valoroso Greco<br>ci viene addosso rapida. Mio buon fratello [[Troilus|Troilo]],<br>dite voi alla signora ciò che deve fare,<br>e affrettatela al proposito. |
+| [[Troilus|TROILO]] | Entrate nella sua [[house|casa]].<br>La condurrò subito al Greco—<br>e quando la consegnerò alla sua mano,<br>pensa che sia un altare, e tuo fratello [[Troilus|Troilo]]<br>un sacerdote, che vi offre il proprio cuore. |
+| [[Paris|PARIDE]] | Io so che cosa sia [[Love|amare]],<br>e vorrei, come ne avrò pietà, poter dare aiuto.— |
+| *(didascalia)* | Vi piaccia entrare, miei signori? Escono |
 
 
 
@@ -2600,6 +3488,71 @@ Exit
 | DEIPHOBUS | Let us make ready straight. |
 | AENEAS | Yea, with a bridegroom’s fresh alacrity<br>Let us address to tend on [[Hector]]’s heels.<br>The glory of our Troy doth this day lie<br>On his fair worth and single chivalry. Exeunt |
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entrano [[Pandarus|Pandaro]] e [[Cressida]] |
+| [[Pandarus|PANDARO]] | Siate moderata, siate moderata. |
+| [[Cressida|CRESSIDA]] | Perché mi parlate di moderazione?<br>Il dolore che gusto è puro, pieno, perfetto,<br>e si fa violento in un senso tanto forte<br>quanto quello che lo causa. Come posso moderarlo?<br>Se potessi temporeggiare col mio affetto<br>o stemperarlo per un palato debole e più freddo,<br>simile attenuazione potrei dare al mio dolore.<br>Il mio [[Love|amore]] non ammette scoria che lo tempri;<br>né il mio dolore, in una perdita così preziosa. |
+| *(didascalia)* | Entra [[Troilus|Troilo]] |
+| [[Pandarus|PANDARO]] | Qui, qui, ecco che viene. Ah, dolci anatrelle! |
+| [[Cressida|CRESSIDA]] | (abbracciandolo) O [[Troilus|Troilo]], [[Troilus|Troilo]]! |
+| [[Pandarus|PANDARO]] | Che paio di spettacoli è questo! Lasciate ch’io<br>abbracci anche voi. ‘O cuore’, come dice il bel detto,<br>‘O cuore, cuore grave,<br>perché sospiri senza spezzarti?’<br>dove egli risponde ancora<br>‘Perché non puoi alleviare la tua pena<br>né con l’[[Friendship|amicizia]] né col parlare.’<br>Non ci fu mai rima più vera. Non buttiamo via<br>nulla, ché potremmo vivere fino ad aver bisogno d’un tal verso.<br>Lo vediamo, lo vediamo. Ebbene, agnellini? |
+| [[Troilus|TROILO]] | Cressida, io t’[[Love|amo]] con purezza così filtrata<br>che i beati dèi, come sdegnati del mio affetto—<br>più splendente di zelo della devozione che<br>labbra fredde soffiano alle loro deità—ti togliono a me. |
+| [[Cressida|CRESSIDA]] | Hanno invidia gli dèi? |
+| [[Pandarus|PANDARO]] | Sì, sì, sì, sì, è un caso troppo chiaro. |
+| [[Cressida|CRESSIDA]] | Ed è vero che devo partire da Troia? |
+| [[Troilus|TROILO]] | Un’odiosa [[Truth|verità]]. |
+| [[Cressida|CRESSIDA]] | Come, e anche da [[Troilus|Troilo]]? |
+| [[Troilus|TROILO]] | Da Troia e da [[Troilus|Troilo]]. |
+| [[Cressida|CRESSIDA]] | È possibile? |
+| [[Troilus|TROILO]] | E subitamente—dove l’ingiuria del caso<br>respinge il commiato, urta via ruvidamente<br>ogni [[Time|tempo]] d’indugio, rozzamente froda le nostre labbra<br>d’ogni ricongiungimento, con violenza impedisce<br>i nostri stretti abbracci, strangola i nostri cari voti<br>proprio nel nascere del nostro affannoso respiro.<br>Noi due, che con tante migliaia di sospiri<br>ci comprammo l’un l’altra, dobbiamo poveramente venderci<br>con la rozza brevità e lo sfogo d’uno solo.<br>L’ingiurioso [[Time|Tempo]] ora, con fretta di ladro,<br>stipa il suo ricco furto, non sa come.<br>Tanti addii quante sono le [[Stars|stelle]] in cielo,<br>con distinto respiro e baci a ciascuno assegnati,<br>li accozza in un addio slegato<br>e ci lesina un solo bacio affamato,<br>guastato dal sale di [[Tears|lacrime]] rotte. |
+| *(didascalia)* | Entra Enea |
+| ENEA | Mio signore, è pronta la signora? |
+| [[Troilus|TROILO]] | (a [[Cressida]])<br>Udite, siete chiamata. Alcuni dicono che così il genio<br>grida ‘Vieni!’ a chi deve morire all’istante. |
+| *(didascalia)* | A [[Pandarus|Pandaro]] Di’ loro d’aver pazienza. Verrà |
+| [[Troilus|TROILO]] | or ora. |
+| [[Pandarus|PANDARO]] | Dove sono le mie [[Tears|lacrime]]? Piovi, per placare questo [[Wind|vento]], o il mio cuore sarà sradicato dal soffio. |
+| *(didascalia)* | Esce con Enea |
+| [[Cressida|CRESSIDA]] | Devo dunque andare dai Greci. |
+| [[Troilus|TROILO]] | Nessun rimedio. |
+| [[Cressida|CRESSIDA]] | Una dolente Cressida fra gli allegri Greci!<br>Quando ci rivedremo? |
+| [[Troilus|TROILO]] | Ascoltami, [[Love|amore]] mio: sii solo fedele di cuore— |
+| [[Cressida|CRESSIDA]] | Io fedele? Ebbene! Che malvagio sospetto è questo? |
+| [[Troilus|TROILO]] | No, dobbiamo usare gentilmente le rimostranze,<br>ché essa si sta separando da noi.<br>Non dico ‘Sii fedele’ perché ti tema—<br>ché getterei il mio guanto alla [[Death|Morte]] stessa<br>a provare che non v’è macchia nel tuo cuore—<br>ma dico ‘Sii fedele’ per introdurvi<br>la mia protesta seguente: ‘Sii fedele,<br>e io ti rivedrò’. |
+| [[Cressida|CRESSIDA]] | Oh, sarete esposto, mio signore, a pericoli<br>tanto infiniti quanto imminenti. Ma io sarò fedele. |
+| [[Troilus|TROILO]] | E io mi farò amico del pericolo. Porta questa manica. |
+| [[Cressida|CRESSIDA]] | E voi questo guanto. Quando vi vedrò? |
+| [[Troilus|TROILO]] | Corromperò le sentinelle greche<br>per farti visita ogni notte.<br>Ma pure, sii fedele. |
+| [[Cressida|CRESSIDA]] | O cieli! Ancora ‘sii fedele’! |
+| [[Troilus|TROILO]] | Ascolta perché lo dico, [[Love|amore]].<br>I giovani greci son pieni di qualità,<br>il loro amare [[Well|ben]] composto, ricco di doni di [[Nature|natura]]<br>fluenti,<br>e traboccante d’arti e d’esercizio.<br>Quanto possa la novità, e le doti unite alla persona,<br>ahimè, una specie di pia [[Jealousy|gelosia]]—<br>che vi supplico di chiamare un peccato virtuoso—<br>mi fa paura. |
+| [[Cressida|CRESSIDA]] | O cieli, voi non m’[[Love|amate]]! |
+| [[Troilus|TROILO]] | Ch’io muoia [[Villain|scellerato]], allora!<br>In questo non metto in questione la vostra [[Faith|fede]]<br>tanto quanto il mio merito. Io non so cantare,<br>né danzare l’alta lavolta, né addolcire il discorso,<br>né giocare a giochi sottili—belle virtù tutte,<br>alle quali i Greci sono prontissimi e<br>disposti.<br>Ma io posso dire che in ciascuna di queste grazie<br>s’annida un diavolo silenzioso e muto-eloquente<br>che tenta con grande astuzia. Ma tu non lasciarti tentare. |
+| [[Cressida|CRESSIDA]] | Credete che lo farò? |
+| [[Troilus|TROILO]] | No, ma può farsi qualcosa che non vogliamo,<br>e a volte siamo diavoli a noi stessi,<br>quando vogliamo tentare la fragilità delle nostre facoltà,<br>presumendo della loro mutevole potenza. |
+| ENEA | (da dentro)<br>Su, mio buon signore! |
+| [[Troilus|TROILO]] | Vieni, baciami, e separiamoci. |
+| *(didascalia)* | [[Paris|PARIDE]] alla porta |
+| [[Troilus|TROILO]] | Fratello [[Troilus|Troilo]]? |
+| [[Troilus|TROILO]] | Buon fratello, venite qui,<br>e portate con voi Enea e il Greco. |
+| *(didascalia)* | Esce [[Paris|Paride]] |
+| [[Cressida|CRESSIDA]] | Mio signore, sarete fedele? |
+| [[Troilus|TROILO]] | Chi, io? Ahimè, è il mio vizio, la mia colpa.<br>Mentre altri pescano con astuzia grande fama,<br>io con grande [[Truth|verità]] pesco mera semplicità;<br>mentre alcuni con arte indorano le loro corone di rame,<br>con [[Truth|verità]] e semplicità io porto la mia nuda. |
+| *(didascalia)* | Entrano [[Paris|Paride]], Enea, Antenore, Deifobo, e Diomede |
+| [[Troilus|TROILO]] | Non [[Fear|temere]] la mia [[Truth|fedeltà]]. La morale del mio ingegno<br>è ‘semplice e vero!’; tutta qui è la sua portata.—<br>Benvenuto, messer Diomede. Ecco la signora<br>che in cambio d’Antenore vi consegniamo.<br>Alla porta, signore, la darò nella tua mano,<br>e per via ti farò sapere chi ella è.<br>Trattala bene, e per la mia [[Soul|anima]], bel Greco,<br>se mai starai alla [[Mercy|mercé]] della mia [[Sword|spada]],<br>nomina Cressida, e la tua vita sarà tanto sicura<br>quanto Priamo in Ilio. |
+| DIOMEDE | Bella signora Cressida,<br>con vostra licenza, risparmiate i ringraziamenti che questo principe s’attende.<br>Lo splendore nel vostro occhio, il cielo nella vostra guancia,<br>perorano il vostro buon trattamento; e di Diomede<br>sarete padrona, e lo comanderete interamente. |
+| [[Troilus|TROILO]] | Greco, tu non mi tratti cortesemente,<br>svergognando lo zelo della mia preghiera verso te<br>col lodarla. Ti dico, signore di Grecia,<br>ella vola tanto più alta delle tue lodi<br>quanto tu sei indegno d’esser chiamato suo servo.<br>Ti comando di trattarla [[Well|bene]], per il mio comando stesso;<br>ché, per il tremendo Plutone, se non lo farai,<br>sebbene la gran mole d’[[Achilles|Achille]] ti faccia guardia<br>ti taglierò la gola. |
+| DIOMEDE | Oh, non v’adirate, principe [[Troilus|Troilo]].<br>Sia mio privilegio, per il mio ufficio e messaggio,<br>d’essere libero parlatore. Quando sarò via di qui<br>risponderò al mio piacere. E sappiate, signore,<br>che nulla farò per comando. Secondo il suo proprio merito<br>sarà pregiata; ma poiché voi dite ‘Sia così’,<br>io lo dico nel mio spirito e nel mio [[Honour|onore]]: ‘No!’ |
+| [[Troilus|TROILO]] | Su, alla porta.—Ti dico, Diomede,<br>questa bravata ti farà spesso nascondere il capo.—<br>Signora, datemi la mano, e mentre camminiamo<br>volgiamo a noi stessi il nostro necessario discorso. |
+| *(didascalia)* | Escono [[Troilus|Troilo]], [[Cressida]], e Diomede |
+| [[Troilus|TROILO]] | Una tromba suona |
+| [[Paris|PARIDE]] | Udite, la tromba d’[[Hector|Ettore]]. |
+| ENEA | Come abbiamo speso questa mattina?<br>Il Principe mi crederà tardo e negligente,<br>io che giurai di cavalcare innanzi a lui sul campo. |
+| [[Paris|PARIDE]] | È colpa di [[Troilus|Troilo]]. Su, venite al campo con lui. |
+| DEIFOBO | Prepariamoci subito. |
+| ENEA | Sì, con la fresca alacrità d’uno sposo<br>accingiamoci a seguire i calcagni d’[[Hector|Ettore]].<br>La gloria della nostra Troia oggi riposa<br>sul suo bel valore e sulla sua sola cavalleria. Escono |
 
 
 
@@ -2683,6 +3636,84 @@ Exit
 | *(didascalia)* | His blows are [[Well\|well]] disposed. There, [[Ajax]]! Exeunt |
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entra [[Ajax|Aiace]] armato, [[Achilles|Achille]], Patroclo, [[Agamemnon|Agamennone]], Menelao, [[Ulysses|Ulisse]], Nestore, un trombettiere, e altri |
+| [[Agamemnon|AGAMENNONE]] | Qui tu stai in armi fresco e bello,<br>anticipando il [[Time|tempo]] con [[Courage|coraggio]] impaziente.<br>Da’ con la tua tromba una nota alta a Troia,<br>tu terribile [[Ajax|Aiace]], sì che l’aria spaventata<br>possa trafiggere il capo del grande combattente<br>e trascinarlo qui. |
+| [[Ajax|AIACE]] | Tu, trombettiere, ecco la mia borsa.<br>Gli dà del denaro<br>Ora schianta i tuoi polmoni e spacca la tua canna di bronzo.<br>Soffia, [[Villain|furfante]], finché la tua guancia gonfia e sferica<br>non superi la colica del gonfio Aquilone.<br>Su, tendi il petto e lascia che i tuoi occhi schizzino [[Blood|sangue]];<br>tu soffi per [[Hector|Ettore]]. |
+| *(didascalia)* | La tromba suona |
+| [[Ulysses|ULISSE]] | Nessuna tromba risponde. |
+| [[Achilles|ACHILLE]] | È ancora presto. |
+| [[Agamemnon|AGAMENNONE]] | Non è quello là Diomede con la figlia di Calcante? |
+| [[Ulysses|ULISSE]] | È lui. Riconosco il modo del suo passo.<br>Si alza sulla punta: quel suo spirito<br>nell’[[Aspiration|aspirazione]] lo solleva da terra. |
+| *(didascalia)* | Entrano Diomede e [[Cressida]] |
+| [[Agamemnon|AGAMENNONE]] | (a Diomede)<br>È questa la signora Cressida? |
+| DIOMEDE | Lei appunto. |
+| [[Agamemnon|AGAMENNONE]] | Carissima benvenuta fra i Greci, dolce signora.<br>La bacia |
+| NESTORE | (a [[Cressida]])<br>Il nostro Generale vi saluta con un bacio. |
+| [[Ulysses|ULISSE]] | Pur la cortesia è solo particolare;<br>meglio sarebbe che fosse baciata in generale. |
+| NESTORE | E consiglio molto cortigiano. Comincerò io.<br>La bacia<br>Questo per Nestore. |
+| [[Achilles|ACHILLE]] | Toglierò quell’[[Winter|inverno]] dalle vostre labbra, bella signora.<br>La bacia<br>[[Achilles|Achille]] vi dà il benvenuto. |
+| MENELAO | (a [[Cressida]])<br>Un tempo avevo buon argomento per baciare. |
+| PATROCLO | Ma quello non è argomento per baciare ora; |
+| *(didascalia)* | ché mettendosi così in mezzo a loro saltò dentro [[Paris|Paride]] col suo |
+| PATROCLO | ardimento,<br>e separò così voi e il vostro argomento.<br>La bacia |
+| *(didascalia)* | [[Ulysses|ULISSE]] a parte |
+| PATROCLO | O fiele mortale, e tema di tutti i nostri scherni!<br>per cui perdiamo la testa a dorare le sue corna. |
+| PATROCLO | (a [[Cressida]])<br>Il primo fu il bacio di Menelao; questo, il mio.<br>Patroclo vi bacia.<br>La bacia di nuovo |
+| MENELAO | Oh, questo è bello. |
+| PATROCLO | (a [[Cressida]])<br>[[Paris|Paride]] e io baciamo sempre per lui. |
+| MENELAO | Voglio il mio bacio, signore.—Signora, con vostra licenza. |
+| [[Cressida|CRESSIDA]] | Nel baciare, date o ricevete? |
+| *(didascalia)* | MENELAO |
+| [[Cressida|CRESSIDA]] | Prendo e do entrambi. |
+| [[Cressida|CRESSIDA]] | Scommetterò la vita:<br>il bacio che prendete è migliore di quel che date.<br>Perciò nessun bacio. |
+| MENELAO | Vi darò la giunta: ve ne darò tre per uno. |
+| [[Cressida|CRESSIDA]] | Voi siete un uomo dispari: datene un numero pari o nessuno. |
+| MENELAO | Un uomo dispari, signora? Ogni uomo è dispari. |
+| [[Cressida|CRESSIDA]] | No, [[Paris|Paride]] non lo è—ché sapete che è vero<br>che voi siete dispari, ed egli è pari con voi. |
+| MENELAO | Mi date un colpetto sulla testa. |
+| [[Cressida|CRESSIDA]] | No, lo giurerei. |
+| [[Ulysses|ULISSE]] | Non sarebbe partita pari, la vostra unghia contro il suo corno.<br>Posso, dolce signora, chiedervi in elemosina un bacio? |
+| [[Cressida|CRESSIDA]] | Potete. |
+| [[Ulysses|ULISSE]] | Lo [[Desire|desidero]]. |
+| [[Cressida|CRESSIDA]] | Ebbene, chiedetelo pure in elemosina. |
+| [[Ulysses|ULISSE]] | Allora, per amor di [[Venus|Venere]], datemi un bacio<br>quando [[Helen|Elena]] sarà vergine di nuovo, e sua— |
+| [[Cressida|CRESSIDA]] | Vi son debitrice; reclamatelo quando sarà dovuto. |
+| [[Ulysses|ULISSE]] | Il mio giorno è il Mai, e allora un bacio da voi. |
+| DIOMEDE | Signora, una parola. Vi condurrò a vostro padre. |
+| *(didascalia)* | Parlano in disparte |
+| NESTORE | Una donna di senso pronto. |
+| [[Ulysses|ULISSE]] | Vergogna, vergogna su di lei!<br>V’è linguaggio nel suo occhio, nella guancia, nel labbro;<br>anzi, il suo piede parla. I suoi spiriti lascivi guardano fuori<br>da ogni giuntura e movenza del suo [[Body|corpo]].<br>Oh, queste donne d’incontri, così sciolte di lingua,<br>che dànno il benvenuto all’accostarsi prima che venga,<br>e spalancano le tavole dei loro pensieri<br>a ogni lettore malizioso, mettetele in conto<br>come sozze prede dell’occasione<br>e figlie del mestiere. |
+| *(didascalia)* | Escono Diomede e [[Cressida]] |
+| *(didascalia)* | Fanfara |
+| TUTTI | La tromba dei Troiani. |
+| *(didascalia)* | Entrano tutti quelli di Troia: [[Hector|Ettore]] armato, [[Paris|Paride]], Enea, Eleno, e seguaci, fra loro [[Troilus|Troilo]] |
+| [[Agamemnon|AGAMENNONE]] | Là viene la schiera. |
+| *(didascalia)* | ENEA facendosi avanti |
+| [[Agamemnon|AGAMENNONE]] | Salute a voi tutti, consesso di Grecia! Che si farà<br>a colui al quale la vittoria comanda? O intendete<br>che un vincitore sia dichiarato? Volete che i cavalieri<br>si perseguano l’un l’altro fino al limite<br>d’ogni estremo, o saranno separati<br>da qualche voce o ordine del campo?<br>[[Hector|Ettore]] mi comandò di chiedere. |
+| [[Agamemnon|AGAMENNONE]] | In che modo lo vuole [[Hector|Ettore]]? |
+| ENEA | Non gliene importa; obbedirà alle condizioni. |
+| *(didascalia)* | [[Achilles|ACHILLE]] |
+| ENEA | È fatto da [[Hector|Ettore]]—ma fatto con troppa sicurezza,<br>un poco superbamente, e assai disprezzando<br>il cavaliere avversario. |
+| ENEA | Se non [[Achilles|Achille]], signore,<br>qual è il vostro nome? |
+| [[Achilles|ACHILLE]] | Se non [[Achilles|Achille]], nulla. |
+| ENEA | Dunque [[Achilles|Achille]]. Ma chiunque siate, sappiate questo:<br>negli estremi del grande e del piccolo,<br>il valore e la [[Pride|superbia]] si superano in [[Hector|Ettore]],<br>l’uno quasi infinito come il tutto,<br>l’altra vuota come il nulla. Pesatelo [[Well|bene]],<br>e ciò che sembra [[Pride|superbia]] è cortesia.<br>Questo [[Ajax|Aiace]] è fatto per metà del [[Blood|sangue]] d’[[Hector|Ettore]],<br>per [[Love|amore]] del quale metà d’[[Hector|Ettore]] resta a [[Home|casa]].<br>Mezzo cuore, mezza mano, mezzo [[Hector|Ettore]] viene a cercare<br>questo cavaliere mescolato, mezzo Troiano e mezzo Greco. |
+| [[Achilles|ACHILLE]] | Una battaglia verginale, allora? Oh, vi capisco. |
+| *(didascalia)* | Entra Diomede |
+| [[Agamemnon|AGAMENNONE]] | Ecco messer Diomede.—Andate, gentile cavaliere,<br>state accanto al nostro [[Ajax|Aiace]]. Come voi e il signor Enea<br>convenite sull’ordine del loro combattimento,<br>così sia: o fino all’estremo<br>o solo per una prova di fiato. |
+| *(didascalia)* | Escono [[Ajax|Aiace]], Diomede, [[Hector|Ettore]], ed Enea |
+| [[Agamemnon|AGAMENNONE]] | L’esser parenti i combattenti<br>smorza a metà la loro lotta prima che i colpi comincino. [[Ulysses|ULISSE]] Sono già l’uno contro l’altro. |
+| [[Agamemnon|AGAMENNONE]] | Che Troiano è quello che ha l’aria così grave? |
+| [[Ulysses|ULISSE]] | Il più giovane figlio di Priamo, un vero cavaliere:<br>lo chiamano [[Troilus|Troilo]].<br>Non ancor maturo, pur incomparabilmente fermo di parola,<br>che parla in fatti e non fa fatti con la lingua;<br>non presto provocato, né, provocato, presto calmato;<br>il suo cuore e la sua mano entrambi aperti ed entrambi liberali.<br>Ché ciò che ha lo dà; ciò che pensa lo mostra;<br>pur non dà finché il giudizio non guidi la sua liberalità,<br>né onora col fiato un pensiero indegno.<br>Virile come [[Hector|Ettore]], ma più pericoloso,<br>ché [[Hector|Ettore]], nella vampa della sua ira, cede<br>davanti a oggetti indifesi, ma egli nel calore dell’azione<br>è più vindice dell’[[Love|amore]] geloso.<br>Lo chiamano [[Troilus|Troilo]], e su di lui erigono<br>una seconda [[Hope|speranza]] costruita bene quanto [[Hector|Ettore]].<br>Così dice Enea, uno che conosce il giovane<br>fin nei suoi pollici, e con [[Soul|animo]] confidente<br>me lo tradusse così nella grande Ilio. |
+| *(didascalia)* | Squillo d’allarme |
+| [[Agamemnon|AGAMENNONE]] | Sono in azione. |
+| NESTORE | Ora, [[Ajax|Aiace]], tieni il tuo posto! |
+| [[Troilus|TROILO]] | [[Hector|Ettore]], tu dormi! Svegliati! |
+| *(didascalia)* | I suoi colpi sono [[Well|ben]] assestati. Là, [[Ajax|Aiace]]! Escono |
+
 
 
 <span class="atom-split" data-atom="act_4--scene_7" data-title="Troilus and Cressida — Act IV, Scene 7" data-chapter="Scene 7" data-kind="scene" data-tags="archetype/lover,motif/blood,motif/city,motif/death,motif/desire,motif/home,motif/journey,motif/love,motif/time,motif/well,concept/body,concept/faith,concept/fear,concept/honour,concept/wonder,character/achilles,character/agamemnon,character/ajax,character/cressida,character/hector,character/troilus,character/ulysses,character/venus"></span>
@@ -2760,6 +3791,79 @@ Exit
 | [[Troilus\|TROILUS]] | O sir, to such as boasting show their scars<br>A mock is due. Will you walk on, my lord?<br>She was beloved, she loved; she is, and doth.<br>But still sweet [[Love\|love]] is food for fortune’s tooth. Exeunt |
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entrano [[Hector|Ettore]] e [[Ajax|Aiace]] combattendo, ed Enea e |
+| *(didascalia)* | Diomede che s’interpongono. Le trombe cessano |
+| DIOMEDE | Non dovete più. |
+| ENEA | Principi, basta, se vi piace. |
+| [[Ajax|AIACE]] | Non sono ancora riscaldato. Combattiamo di nuovo. |
+| DIOMEDE | Come piace a [[Hector|Ettore]]. |
+| [[Hector|ETTORE]] | Allora io non voglio più.—<br>Tu sei, gran signore, il figlio della sorella di mio padre,<br>cugino primo del seme del grande Priamo.<br>L’obbligo del nostro [[Blood|sangue]] vieta<br>una sanguinosa emulazione fra noi due.<br>Fosse la tua mescolanza di Greco e di Troiano tale<br>che tu potessi dire ‘Questa mano è tutta greca,<br>e questa è troiana; i nervi di questa gamba<br>tutti greci, e questa tutta di Troia; il [[Blood|sangue]] di mia madre<br>corre sulla guancia destra, e questa sinistra<br>racchiude quello di mio padre,’ per Giove onnipotente<br>non porteresti via da me un membro greco<br>in cui la mia [[Sword|spada]] non avesse impresso il segno<br>della nostra rancida faida. Ma i giusti dèi vietano<br>che una sola goccia che prendesti in prestito da tua madre,<br>mia sacra zia, sia dalla mia mortale [[Sword|spada]]<br>prosciugata. Lascia ch’io t’abbracci, [[Ajax|Aiace]].<br>Per colui che tuona, tu hai braccia gagliarde.<br>[[Hector|Ettore]] vuole che gli cadano addosso così.<br>Cugino, ogni [[Honour|onore]] a te. |
+| [[Ajax|AIACE]] | Ti ringrazio, [[Hector|Ettore]].<br>Tu sei uomo troppo gentile e troppo generoso.<br>Venni per ucciderti, cugino, e per portar via<br>un gran titolo guadagnato nella tua [[Death|morte]]. |
+| [[Hector|ETTORE]] | Nemmeno Neottolemo, così mirabile,<br>sul cui lucente cimiero la Fama col suo più forte ‘udite’<br>grida ‘Questo è lui!’, potrebbe promettere a se stesso<br>un pensiero d’[[Honour|onore]] aggiunto, strappato a [[Hector|Ettore]]. |
+| ENEA | Da entrambe le parti qui s’attende<br>che altro farete. |
+| [[Hector|ETTORE]] | Risponderemo:<br>l’esito è un abbraccio.—[[Ajax|Aiace]], addio. |
+| [[Ajax|AIACE]] | Se nelle preghiere potessi trovar [[success|successo]],<br>come raramente me ne càpita l’occasione, [[Desire|inviterei]]<br>il mio famoso cugino alle nostre tende greche. |
+| DIOMEDE | È il desiderio d’[[Agamemnon|Agamennone]]—e il grande [[Achilles|Achille]]<br>brama vedere disarmato il valoroso [[Hector|Ettore]]. |
+| [[Hector|ETTORE]] | Enea, chiamami mio fratello [[Troilus|Troilo]],<br>e annuncia questo amichevole incontro<br>a coloro che attendono da parte troiana. |
+| *(didascalia)* | [[Desire|Pregali]] di tornare a [[Home|casa]]. Esce Enea |
+| [[Hector|ETTORE]] | Dammi la mano, cugino mio.<br>Andrò a mangiare con te, e vedrò i vostri cavalieri. |
+| *(didascalia)* | Entrano [[Agamemnon|Agamennone]] e gli altri: Enea, [[Ulysses|Ulisse]], |
+| [[Hector|ETTORE]] | Menelao, Nestore, [[Achilles|Achille]], Patroclo, [[Troilus|Troilo]], e<br><br>altri |
+| [[Ajax|AIACE]] | Il grande [[Agamemnon|Agamennone]] viene a incontrarci qui. |
+| [[Hector|ETTORE]] | (a Enea)<br>I più degni fra loro, dimmeli nome per nome.<br>Ma quanto ad [[Achilles|Achille]], i miei occhi indagatori<br>lo troveranno dalla sua ampia e imponente statura. |
+| [[Agamemnon|AGAMENNONE]] | (abbracciandolo)<br>Degno delle armi, benvenuto quanto può esserlo per uno<br>che vorrebbe liberarsi di tale nemico.<br>Ma questo non è un benvenuto. Intendi più chiaramente:<br>ciò che è passato e ciò che è a venire è sparso di gusci<br>e d’informe rovina d’oblio,<br>ma in questo istante presente la [[Faith|fede]] e la lealtà,<br>filtrate pure da ogni vuota parzialità,<br>ti dicono con divinissima integrità,<br>dal cuore del cuore stesso: ‘Grande [[Hector|Ettore]], benvenuto!’ |
+| [[Hector|ETTORE]] | Ti ringrazio, imperiosissimo [[Agamemnon|Agamennone]]. |
+| *(didascalia)* | [[Agamemnon|AGAMENNONE]] a [[Troilus|Troilo]] |
+| [[Hector|ETTORE]] | Mio [[Well|ben]] famoso signore di Troia, non meno a voi. |
+| MENELAO | Lasciate ch’io confermi il saluto del mio regale fratello.<br>Voi coppia di fratelli guerrieri, benvenuti qui. |
+| *(didascalia)* | Abbraccia [[Hector|Ettore]] e [[Troilus|Troilo]] |
+| [[Hector|ETTORE]] | (a Enea)<br>A chi dobbiamo rispondere? |
+| ENEA | Il nobile Menelao. |
+| [[Hector|ETTORE]] | Oh, voi, mio signore! Per il guanto di Marte, grazie.<br>Non beffate s’io amo il giuramento insolito.<br>La vostra già moglie giura ancora per il guanto di [[Venus|Venere]].<br>Sta [[Well|bene]], ma non m’incaricò di raccomandarla a voi. |
+| MENELAO | Non nominatela ora, signore. È un tema mortale. |
+| [[Hector|ETTORE]] | Oh, perdonate. Offendo. |
+| NESTORE | Io t’ho veduto spesso, prode Troiano,<br>che, faticando per il destino, aprivi crudele varco<br>fra le file della gioventù greca, e t’ho veduto<br>ardente come Perseo spronare il tuo destriero frigio,<br>e t’ho veduto disdegnare riscatti e sottomissioni,<br>quando tenevi sospesa in aria la [[Sword|spada]] levata,<br>non lasciandola calare sui caduti,<br>sì che dissi a quelli che mi stavano accanto:<br>‘Ecco, Giove è là, che dispensa vita’.<br>E t’ho veduto fermarti e riprender fiato,<br>quando un cerchio di Greci t’aveva accerchiato,<br>come un atleta olimpico nella lotta. Questo ho veduto;<br>ma questo tuo volto, sempre chiuso nell’acciaio,<br>non lo vidi mai fino ad ora. Conobbi tuo avo<br>e una volta combattei con lui. Era un buon soldato,<br>ma—per il grande Marte, capitano di noi tutti—<br>mai come te. Lascia che un vecchio t’abbracci;<br>e, degno guerriero, benvenuto alle nostre tende.<br>Abbraccia [[Hector|Ettore]] |
+| ENEA | (a [[Hector|Ettore]]) È il vecchio Nestore. |
+| [[Hector|ETTORE]] | Lascia ch’io t’abbracci, buona vecchia cronaca,<br>che tanto a lungo hai camminato mano nella mano col [[Time|tempo]].<br>Reverendissimo Nestore, son lieto di stringerti. |
+| NESTORE | Vorrei che le mie braccia potessero gareggiare con te nella lotta<br>come gareggiano con te nella cortesia. |
+| [[Hector|ETTORE]] | Vorrei che potessero. |
+| NESTORE | Ah! Per questa barba bianca combatterei con te domani.<br>[[Well|Bene]], benvenuto, benvenuto! Ho conosciuto quel [[Time|tempo]]. |
+| [[Ulysses|ULISSE]] | Mi [[Wonder|meraviglio]] ora come quella [[City|città]] là stia in piedi,<br>quando abbiamo qui accanto a noi la sua base e la sua colonna. |
+| [[Hector|ETTORE]] | Conosco [[Well|bene]] il vostro volto, signor [[Ulysses|Ulisse]].<br>Ah, signore, molti Greci e Troiani son morti<br>da quando vidi per la prima volta voi e Diomede<br>in Ilio nella vostra ambasceria greca. |
+| [[Ulysses|ULISSE]] | Signore, allora vi predissi ciò che ne sarebbe seguito.<br>La mia profezia non è ancora a metà del suo [[Journey|cammino]];<br>ché quelle mura che baldanzose fronteggiano la vostra città,<br>quelle torri le cui cime lascive baciano le nubi,<br>dovranno baciare i propri piedi. |
+| [[Hector|ETTORE]] | Non devo credervi.<br>Là stanno ancora, e modestamente credo<br>che la caduta d’ogni pietra frigia costerà<br>una goccia di [[Blood|sangue]] greco. La fine incorona tutto,<br>e quel vecchio comune arbitro, il [[Time|Tempo]],<br>un giorno vi porrà fine. |
+| [[Ulysses|ULISSE]] | Dunque a lui la lasciamo.<br>Gentilissimo e valorosissimo [[Hector|Ettore]], benvenuto. |
+| *(didascalia)* | Lo abbraccia |
+| [[Ulysses|ULISSE]] | Dopo il Generale, vi supplico, siate poi<br>mio convitato e visitatemi nella mia tenda. |
+| *(didascalia)* | Ti precederò, signor [[Ulysses|Ulisse]]. A [[Hector|Ettore]] Tu! |
+| [[Achilles|ACHILLE]] | Ora, [[Hector|Ettore]], ho pasciuto i miei occhi di te.<br>Con esatta vista t’ho scrutato, [[Hector|Ettore]],<br>e t’ho annotato giuntura per giuntura. |
+| [[Hector|ETTORE]] | È questo [[Achilles|Achille]]? |
+| [[Achilles|ACHILLE]] | Io sono [[Achilles|Achille]]. |
+| [[Hector|ETTORE]] | Sta’ in piena luce, ti prego, lascia ch’io ti guardi. |
+| [[Achilles|ACHILLE]] | Guarda a sazietà. |
+| [[Hector|ETTORE]] | No, ho già finito. |
+| [[Achilles|ACHILLE]] | Sei troppo breve. Una seconda [[Time|volta]],<br>come volessi comprarti, ti esaminerò membro per membro. |
+| [[Hector|ETTORE]] | Oh, come un libro di caccia mi leggerai tutto.<br>Ma in me c’è più di quanto tu comprenda.<br>Perché mi opprimi così col tuo occhio? |
+| [[Achilles|ACHILLE]] | Ditemi, o cieli, in quale parte del suo [[Body|corpo]]<br>lo distruggerò—se là, o là, o<br>là—<br>ch’io possa dare un nome alla ferita nel suo luogo,<br>e render distinta la breccia stessa da cui<br>volò via il grande spirito d’[[Hector|Ettore]]? Rispondetemi, cieli. |
+| [[Hector|ETTORE]] | Disonorerebbe i beati dèi, uomo superbo,<br>rispondere a tale domanda. Stammi di nuovo davanti.<br>Credi di prendermi la vita così piacevolmente<br>da pronominare in sottile congettura<br>dove mi colpirai a morte? |
+| [[Achilles|ACHILLE]] | Ti dico che sì. |
+| [[Hector|ETTORE]] | Fossi tu l’oracolo a dirmelo,<br>non ti crederei. D’ora in poi guardati [[Well|bene]].<br>Ché io non t’ucciderò là, né là, né là,<br>ma, per la fucina che forgiò l’elmo di Marte,<br>t’ucciderò in ogni parte, sì, e ancora e ancora.—<br>Voi sapientissimi Greci, perdonatemi questa vanteria:<br>la sua insolenza trae follia dalle mie labbra.<br>Ma mi sforzerò d’imprese pari a queste parole,<br>o ch’io mai— |
+| [[Ajax|AIACE]] | Non t’accalorare, cugino.—<br>E voi, [[Achilles|Achille]], lasciate [[Alone|stare]] queste minacce,<br>finché il caso o il proposito non vi conducano al fatto.<br>Potete aver ogni giorno [[Hector|Ettore]] a sazietà,<br>se avete fegato. Il consiglio generale, [[Fear|temo]],<br>a stento può pregarvi d’essere in lite con lui. |
+| [[Hector|ETTORE]] | (a [[Achilles|Achille]])<br>Vi prego, fatevi vedere sul campo.<br>Abbiamo avuto guerre da poco da quando rifiutaste<br>la causa dei Greci. |
+| [[Achilles|ACHILLE]] | Mi preghi tu, [[Hector|Ettore]]?<br>Domani t’incontrerò, crudele come la [[Death|morte]];<br>stanotte, tutti amici. |
+| [[Hector|ETTORE]] | La tua mano su questo patto. |
+| [[Agamemnon|AGAMENNONE]] | Prima, voi tutti pari di Grecia, andate alla mia tenda.<br>Là banchettate in pieno. Poi,<br>come l’agio d’[[Hector|Ettore]] e le vostre liberalità<br>concorreranno insieme, invitatelo ciascuno per sé.<br>Battete forte i tamburi, suonino le trombe,<br>ché questo gran soldato conosca il suo benvenuto. |
+| *(didascalia)* | Fanfara. Escono tutti tranne [[Troilus|Troilo]] e [[Ulysses|Ulisse]] |
+| [[Troilus|TROILO]] | Mio signor [[Ulysses|Ulisse]], ditemi, vi supplico,<br>in che luogo del campo dimora Calcante? |
+| [[Ulysses|ULISSE]] | Alla tenda di Menelao, principissimo [[Troilus|Troilo]].<br>Là Diomede banchetta con lui stanotte—<br>egli che non guarda né cielo né terra,<br>ma volge ogni sguardo e ogni inclinazione d’occhio amoroso<br>alla bella Cressida. |
+| [[Troilus|TROILO]] | Vi sarò, dolce signore, tanto obbligato<br>se, dopo che ci separeremo dalla tenda d’[[Agamemnon|Agamennone]],<br>mi condurrete colà? |
+| [[Ulysses|ULISSE]] | Comandatemi, signore.<br>Ma altrettanto gentilmente ditemi: di quale [[Honour|onore]] era<br>questa [[Cressida]] in Troia? Non aveva là un [[Lover|amante]]<br>che pianga la sua assenza? |
+| [[Troilus|TROILO]] | Oh signore, a chi vantandosi mostra le proprie cicatrici<br>è dovuta una beffa. Volete proseguire, mio signore?<br>Era amata, amava; è amata, e ama.<br>Ma il dolce [[Love|amore]] è sempre cibo per il dente della fortuna. Escono |
+
 
 
 <span class="atom-split" data-atom="act_5--scene_1" data-title="Troilus and Cressida — Act V, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="archetype/fool,motif/blood,motif/love,motif/moon,motif/nature,motif/night,motif/well,concept/honour,concept/nature,form/fragment,character/achilles,character/agamemnon,character/ajax,character/cressida,character/hector,character/queen,character/thersites,character/troilus,character/ulysses"></span>
@@ -2817,6 +3921,60 @@ Exit
 | [[Achilles\|ACHILLES]] | [[Troilus]], at one door; and [[Achilles]], [[Hector]],<br>[[Ajax]], and Nestor at another door |
 | [[Thersites\|THERSITES]] | That same Diomed’s a false-hearted rogue, a most unjust knave. I will no more trust him when he leers than I will a serpent when he hisses. He will spend his mouth and promise like Brabbler the hound, but when he performs astronomers foretell it: that is prodigious, there will come some change. The sun borrows of the [[Moon\|moon]] when Diomed keeps his word. I will rather leave to see [[Hector]] than not to dog him. They say he keeps a Trojan drab, and uses the traitor Calchas his tent. I’ll after.—Nothing but lechery! All incontinent varlets! Exit |
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entrano [[Achilles|Achille]] e Patroclo |
+| [[Achilles|ACHILLE]] | Gli scalderò il [[Blood|sangue]] stanotte con vino greco,<br>che domani gli raffredderò con la mia scimitarra.<br>Patroclo, banchettiamolo al massimo. |
+| PATROCLO | Ecco che viene [[Thersites|Tersite]]. |
+| *(didascalia)* | Entra [[Thersites|Tersite]] |
+| [[Achilles|ACHILLE]] | Ebbene, tu torsolo d’invidia,<br>tu crostosa pustola della [[Nature|natura]], che nuove ci sono? |
+| [[Thersites|TERSITE]] | Ebbene, tu ritratto di quel che sembri, e idolo d’adoratori idioti, ecco una lettera per te. |
+| [[Achilles|ACHILLE]] | Da dove, [[Fragment|frammento]]? |
+| [[Thersites|TERSITE]] | Ebbene, tu piatto colmo di [[Fool|scemo]], da Troia.<br>[[Achilles|Achille]] legge la lettera |
+| PATROCLO | Chi tiene la tenda ora? |
+| [[Thersites|TERSITE]] | L’astuccio del chirurgo o la ferita del paziente. |
+| PATROCLO | [[Well|Ben]] detto, avversità. E che bisogno c’è di questi giochetti? |
+| [[Thersites|TERSITE]] | Ti prego, taci, ragazzo. Non traggo profitto dal tuo discorso.<br>Ti si crede il servitore maschio d’[[Achilles|Achille]]. |
+| PATROCLO | ‘Servitore maschio’, furfante? Che roba è? |
+| [[Thersites|TERSITE]] | Ebbene, la sua puttana in maschio. Ora le putride malattie del sud, le coliche, le ernie, i catarri, i carichi di renella nella schiena, le letargie, le paralisi fredde, e simili, prendano e riprendano tali scoperte a rovescio! |
+| PATROCLO | Ma tu, maledetta scatola d’invidia che sei, che intendi con questo maledire? |
+| [[Thersites|TERSITE]] | Maledico te? |
+| PATROCLO | No, no, tu botte in rovina, tu cagnaccio bastardo senza forma, no. |
+| [[Thersites|TERSITE]] | No? E perché allora sei esasperato? Tu ozioso e immateriale gomitolo di seta sfilacciata, tu benda di taffettà verde per un occhio malato, tu fiocco della borsa d’un prodigo, tu! Ah, come il povero mondo è infestato di tali mosche d’acqua! Diminutivi della [[Nature|natura]]. |
+| PATROCLO | Via, fiele! |
+| [[Thersites|TERSITE]] | Uovo di fringuello! |
+| [[Achilles|ACHILLE]] | Mio dolce Patroclo, sono del tutto sviato<br>dal mio grande proposito nella battaglia di domani.<br>Ecco una lettera dalla [[Queen|regina]] Ecuba,<br>un pegno da sua figlia, il mio bell’[[Love|amore]],<br>che entrambe m’accusano, e m’impegnano a mantenere<br>un giuramento che ho fatto. Non lo romperò.<br>Cadete, Greci; svanisci, fama; [[Honour|onore]], vattene o resta.<br>Il mio voto maggiore sta qui; a questo obbedirò.—<br>Su, su, [[Thersites|Tersite]], aiuta ad addobbare la mia tenda.<br>Questa [[Night|notte]] dev’esser tutta spesa in banchetti.—<br>Via, Patroclo. Escono [[Achilles|Achille]] e Patroclo |
+| [[Thersites|TERSITE]] | Con troppo [[Blood|sangue]] e troppo poco cervello questi due possono impazzire, ma se impazziscono con troppo cervello e troppo poco [[Blood|sangue]], mi farò guaritore di pazzi. Ecco [[Agamemnon|Agamennone]]: un tipo abbastanza onesto, e uno che ama le quaglie, ma non ha tanto cervello quanta cera d’orecchi. E là quella bella trasformazione di Giove, suo fratello il toro, la statua primigenia e obliquo memoriale dei cornuti, un economico calzascarpe appeso a una catena alla gamba del fratello: in che forma, se non in quella che ha, potrebbero mutarlo l’ingegno lardellato di malizia e la malizia farcita d’ingegno? Farlo asino sarebbe nulla: è insieme asino e bue. Farlo bue sarebbe nulla: è insieme bue e asino. Essere un cane, un mulo, un gatto, una puzzola, un rospo, una lucertola, una civetta, un nibbio, o un’aringa senza uova, non me n’importerebbe; ma essere Menetao!—congiurerei contro il destino. Non chiedetemi che vorrei essere se non fossi [[Thersites|Tersite]], ché non m’importerebbe d’essere il pidocchio d’un lebbroso, purché non fossi Menetao.—Ohilà, spiriti e fuochi. |
+| *(didascalia)* | Entrano [[Hector|Ettore]], [[Ajax|Aiace]], [[Agamemnon|Agamennone]], [[Ulysses|Ulisse]], Nestore, |
+| [[Thersites|TERSITE]] | Menelao, [[Troilus|Troilo]], e Diomede, con lumi |
+| [[Agamemnon|AGAMENNONE]] | Sbagliamo strada, sbagliamo strada. |
+| [[Ajax|AIACE]] | No, è là:<br>là, dove vediamo la luce. |
+| [[Hector|ETTORE]] | Vi incomodo. |
+| [[Ajax|AIACE]] | No, niente affatto. |
+| *(didascalia)* | Entra [[Achilles|Achille]] |
+| [[Ulysses|ULISSE]] | Ecco che viene lui stesso a guidarvi. |
+| [[Achilles|ACHILLE]] | Benvenuto, prode [[Hector|Ettore]]. Benvenuti, principi tutti. |
+| [[Agamemnon|AGAMENNONE]] | (a [[Hector|Ettore]])<br>Dunque ora, bel principe di Troia, vi dico buona [[Night|notte]].<br>[[Ajax|Aiace]] ordina alla guardia di servirvi. |
+| [[Hector|ETTORE]] | Grazie e buona [[Night|notte]] al generale dei Greci. |
+| MENELAO | Buona [[Night|notte]], mio signore. |
+| [[Hector|ETTORE]] | Buona [[Night|notte]], dolce signor Menelao. |
+| [[Thersites|TERSITE]] | (a parte) Dolce latrina! ‘Dolce’, ha detto? Dolce scolo, dolce fogna. |
+| [[Achilles|ACHILLE]] | Buona [[Night|notte]] e benvenuto insieme, a quelli<br>che vanno o restano. |
+| [[Agamemnon|AGAMENNONE]] | Buona [[Night|notte]]. |
+| *(didascalia)* | Escono [[Agamemnon|Agamennone]] e Menelao |
+| [[Achilles|ACHILLE]] | Il vecchio Nestore resta, e anche voi, Diomede.<br>Tenete compagnia a [[Hector|Ettore]] un’ora o due. |
+| DIOMEDE | Non posso, signore. Ho un affare importante<br>la cui marea è adesso.—Buona [[Night|notte]], grande [[Hector|Ettore]]. |
+| [[Hector|ETTORE]] | Datemi la vostra mano. |
+| [[Ulysses|ULISSE]] | (a parte, a [[Troilus|Troilo]])<br>Seguite la sua torcia, va alla tenda di Calcante.<br>Vi terrò compagnia. |
+| [[Troilus|TROILO]] | (a parte) Dolce signore, mi fate [[Honour|onore]]. |
+| [[Hector|ETTORE]] | (a Diomede)<br>E dunque buona [[Night|notte]]. |
+| [[Achilles|ACHILLE]] | Su, su, entrate nella mia tenda. |
+| *(didascalia)* | Escono Diomede, seguito da [[Ulysses|Ulisse]] e |
+| [[Achilles|ACHILLE]] | [[Troilus|Troilo]], da una porta; e [[Achilles|Achille]], [[Hector|Ettore]],<br>[[Ajax|Aiace]], e Nestore da un’altra porta |
+| [[Thersites|TERSITE]] | Quel Diomede è un furfante dal cuore falso, un manigoldo iniquissimo. Mi fiderò di lui quando fa l’occhiolino non più che d’una serpe quando sibila. Sguaina la bocca e promette come Brabbler il cane da caccia, ma quando mantiene gli astronomi lo predicono: è cosa prodigiosa, verrà qualche mutamento. Il sole prende in prestito dalla [[Moon|luna]] quando Diomede tiene la parola. Rinuncerò piuttosto a vedere [[Hector|Ettore]] che a non stargli alle calcagna. Dicono che tiene una sgualdrina troiana, e usa la tenda del traditore Calcante. Gli andrò dietro.—Nient’altro che lussuria! Tutti servitori incontinenti! Esce |
 
 
 
@@ -2961,6 +4119,145 @@ Exit
 | [[Thersites\|THERSITES]] | Would I could meet that rogue Diomed! I would croak like a raven. I would bode, I would bode. Patroclus will give me anything for the intelligence of this whore. The parrot will not do more for an almond than he for a commodious drab. Lechery, lechery, still wars and lechery! Nothing else holds fashion. A burning devil take them! Exit |
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entra Diomede |
+| DIOMEDE | Come, siete alzati qui? Ehi! Parlate! |
+| *(didascalia)* | CALCANTE alla porta Chi chiama? |
+| DIOMEDE | Diomede. Calcante, credo. Dov’è vostra figlia? |
+| *(didascalia)* | CALCANTE alla porta Viene a voi. |
+| *(didascalia)* | Entrano [[Troilus|Troilo]] e [[Ulysses|Ulisse]], non visti |
+| [[Ulysses|ULISSE]] | (a parte)<br>Stiamo dove la torcia non ci possa scoprire. |
+| [[Troilus|TROILO]] | (a parte)<br>Cressida gli viene incontro. |
+| *(didascalia)* | Entra [[Cressida]] |
+| DIOMEDE | Ebbene, mia pupilla? |
+| [[Cressida|CRESSIDA]] | Ebbene, mio dolce tutore. Udite, una parola con voi.<br>Gli sussurra. |
+| *(didascalia)* | Entra [[Thersites|Tersite]], non visto |
+| [[Troilus|TROILO]] | (a parte) Ah, così intimi? |
+| [[Ulysses|ULISSE]] | (a parte) Canterà a prima vista qualunque uomo. |
+| [[Thersites|TERSITE]] | (a parte) E qualunque uomo può cantarla, se sa prenderne la chiave. È segnata in note. |
+| DIOMEDE | Vi ricorderete? |
+| [[Cressida|CRESSIDA]] | Ricordarmi? Sì. |
+| DIOMEDE | Sì, ma fatelo dunque, e sia la vostra mente accoppiata alle vostre parole. |
+| [[Troilus|TROILO]] | (a parte) Che dovrebbe ricordare? |
+| [[Ulysses|ULISSE]] | (a parte) Ascoltate! |
+| [[Cressida|CRESSIDA]] | Dolce Greco di miele, non tentarmi più alla follia. |
+| [[Thersites|TERSITE]] | (a parte) Furfanteria. |
+| DIOMEDE | Ah, dunque! |
+| [[Cressida|CRESSIDA]] | Vi dirò una cosa— |
+| DIOMEDE | Puah, puah! Via, non dite un bel niente. Siete spergiura. |
+| [[Cressida|CRESSIDA]] | In [[Faith|fede]], non posso. Che volete che faccia? |
+| [[Thersites|TERSITE]] | (a parte) Un gioco di prestigio: essere segretamente aperta. |
+| DIOMEDE | Che giuraste di concedermi? |
+| [[Cressida|CRESSIDA]] | Ti prego, non tenermi al mio giuramento.<br>Chiedimi qualunque cosa fuor che quella, dolce Greco. |
+| DIOMEDE | Buona [[Night|notte]]. |
+| [[Troilus|TROILO]] | (a parte)<br>Ferma, pazienza! |
+| [[Ulysses|ULISSE]] | (a parte) Ebbene, Troiano? |
+| [[Cressida|CRESSIDA]] | Diomede. |
+| DIOMEDE | No, no, buona [[Night|notte]]. Non sarò più il vostro [[Fool|zimbello]]. |
+| [[Troilus|TROILO]] | (a parte) Uno migliore di te lo dev’essere. |
+| [[Cressida|CRESSIDA]] | Udite, una parola all’orecchio.<br>Gli sussurra |
+| [[Troilus|TROILO]] | (a parte) O peste e [[Madness|follia]]! |
+| [[Ulysses|ULISSE]] | (a parte)<br>Siete commosso, Principe. Andiamo via, vi prego,<br>ché il vostro sdegno non s’allarghi<br>in termini d’ira. Questo luogo è pericoloso,<br>il [[Time|momento]] ben mortale. Vi supplico, andiamo. |
+| [[Troilus|TROILO]] | (a parte)<br>Guardate, vi prego. |
+| [[Ulysses|ULISSE]] | (a parte) No, mio buon signore, allontanatevi.<br>Straripate in grande smarrimento. Venite, mio signore. |
+| [[Troilus|TROILO]] | (a parte)<br>Ti prego, resta. |
+| [[Ulysses|ULISSE]] | (a parte) Non avete pazienza. Venite. |
+| [[Troilus|TROILO]] | (a parte)<br>Vi prego, restate. Per l’inferno e tutti i tormenti dell’inferno,<br>non dirò una parola. |
+| DIOMEDE | E dunque buona [[Night|notte]]. |
+| [[Cressida|CRESSIDA]] | No, ma ve ne andate in collera. |
+| [[Troilus|TROILO]] | (a parte) Questo ti duole?<br>O [[Truth|verità]] inaridita! |
+| [[Ulysses|ULISSE]] | (a parte) Ebbene, che c’è, signore? |
+| [[Troilus|TROILO]] | (a parte) Per Giove,<br>sarò paziente. |
+| *(didascalia)* | Diomede s’avvia per andare |
+| [[Cressida|CRESSIDA]] | Tutore! Ehi, Greco! |
+| DIOMEDE | Puah, puah! Addio. Voi tergiversate. |
+| [[Cressida|CRESSIDA]] | In [[Faith|fede]], non è vero. Vieni qua ancora una volta. |
+| [[Ulysses|ULISSE]] | (a parte)<br>Tremate, mio signore, per qualcosa. Volete andare?<br>Esploderete. |
+| [[Troilus|TROILO]] | (a parte) Gli accarezza la guancia. |
+| [[Ulysses|ULISSE]] | (a parte) Venite, venite. |
+| [[Troilus|TROILO]] | (a parte)<br>No, restate. Per Giove, non dirò una parola.<br>Fra la mia volontà e ogni offesa<br>sta una guardia di pazienza. Restate ancora un poco. |
+| [[Thersites|TERSITE]] | (a parte) Come il diavolo Lussuria, con la sua grassa groppa e il suo dito a patata, se li stuzzica insieme! Friggi, lussuria, friggi. |
+| DIOMEDE | Ma lo farete, allora? |
+| [[Cressida|CRESSIDA]] | In [[Faith|fede]], lo farò, via. Altrimenti non fidarti mai di me. |
+| DIOMEDE | Dammi qualche pegno a garanzia. |
+| [[Cressida|CRESSIDA]] | Te ne porterò uno. Esce |
+| [[Ulysses|ULISSE]] | (a parte) Avete giurato pazienza. |
+| [[Troilus|TROILO]] | (a parte) Non [[Fear|temete]] di me, dolce signore.<br>Non sarò me stesso, né avrò coscienza<br>di ciò che sento. Sono tutto pazienza. |
+| *(didascalia)* | Entra [[Cressida]] con la manica di [[Troilus|Troilo]] |
+| [[Thersites|TERSITE]] | (a parte) Ora il pegno! Ora, ora, ora. |
+| [[Cressida|CRESSIDA]] | Ecco, Diomede, tieni questa manica. |
+| [[Troilus|TROILO]] | (a parte) O [[Beauty|bellezza]], dov’è la tua [[Faith|fede]]? |
+| [[Ulysses|ULISSE]] | (a parte) Mio signore. |
+| [[Troilus|TROILO]] | (a parte)<br>Sarò paziente; di fuori lo sarò. |
+| [[Cressida|CRESSIDA]] | Tu guardi quella manica. Guardala [[Well|bene]].<br>Egli m’amava—o donna falsa!—ridammela.<br>La riprende |
+| DIOMEDE | Di chi era? |
+| [[Cressida|CRESSIDA]] | Non importa, ora l’ho di nuovo.<br>Non m’incontrerò con te domani [[Night|notte]].<br>Ti prego, Diomede, non venirmi più a visitare. |
+| [[Thersites|TERSITE]] | (a parte) Ora affila. [[Well|Ben]] detto, cote. |
+| DIOMEDE | L’avrò. |
+| [[Cressida|CRESSIDA]] | Come, questa? |
+| DIOMEDE | Sì, quella. |
+| [[Cressida|CRESSIDA]] | O voi tutti dèi! O grazioso grazioso pegno!<br>Il tuo padrone ora sta sul suo letto a pensare<br>a te e a me, e sospira, e prende il mio guanto<br>e gli dà delicati baci di memoria— |
+| *(didascalia)* | DIOMEDE |
+| [[Cressida|CRESSIDA]] | come io ti bacio. |
+| *(didascalia)* | le strappa la manica |
+| *(didascalia)* | [[Cressida|CRESSiDA]] No, non strapparmela. |
+| [[Cressida|CRESSIDA]] | Chi prende quella prende con essa il mio cuore. |
+| DIOMEDE | Avevo già il vostro cuore; questa lo segue. |
+| [[Troilus|TROILO]] | (a parte) Avevo giurato pazienza. |
+| [[Cressida|CRESSIDA]] | Non l’avrai, Diomede. In [[Faith|fede]], non l’avrai.<br>Ti darò qualcos’altro. |
+| DIOMEDE | Voglio questa. Di chi era? |
+| [[Cressida|CRESSIDA]] | Non importa. |
+| DIOMEDE | Su, dimmi di chi era. |
+| [[Cressida|CRESSIDA]] | Era d’uno che m’amava più di quanto tu farai.<br>Ma ora che l’hai, prendila. |
+| DIOMEDE | Di chi era? |
+| [[Cressida|CRESSIDA]] | Per tutte le ancelle di [[Diana]] là in cielo,<br>e per lei stessa, non ti dirò di chi. |
+| DIOMEDE | Domani la porterò sul mio elmo,<br>e affliggerò lo spirito di chi osa, non reclamarla. |
+| [[Troilus|TROILO]] | (a parte)<br>Fossi tu il diavolo e la portassi sul tuo corno,<br>sarebbe reclamata. |
+| [[Cressida|CRESSIDA]] | [[Well|Bene]], [[Well|bene]], è fatto, è passato—e pure non lo è.<br>Non manterrò la mia parola. |
+| DIOMEDE | Allora, addio.<br>Non ti burlerai mai più di Diomede. |
+| [[Cressida|CRESSIDA]] | Non andrai. Non si può dire una parola<br>senza che subito ti faccia sobbalzare. |
+| DIOMEDE | Non mi piace questo scherzare. |
+| *(didascalia)* | [[Troilus|TROILO]] (a parte) |
+| DIOMEDE | Né a me, per Plutone—ma ciò che non piace a te<br>a me piace di più. |
+| DIOMEDE | Come, devo venire? L’ora— |
+| [[Cressida|CRESSIDA]] | Sì, vieni. O Giove, vieni. Sarò tormentata. |
+| DIOMEDE | Addio fino allora. |
+| [[Cressida|CRESSIDA]] | Buona [[Night|notte]]. Ti prego, vieni. |
+| *(didascalia)* | Esce Diomede |
+| [[Cressida|CRESSIDA]] | [[Troilus|Troilo]], addio. Un occhio ancora ti guarda,<br>ma col mio cuore vede l’altro occhio.<br>Ah, povero nostro sesso! Questa colpa trovo in noi:<br>l’errore del nostro occhio guida la nostra mente.<br>Ciò che l’errore conduce deve errare. Concludete dunque:<br>le menti governate dagli occhi son piene di turpitudine. Esce |
+| [[Thersites|TERSITE]] | (a parte)<br>Una prova più forte non poteva pubblicare,<br>a meno che dicesse: ‘La mia mente s’è fatta puttana’. |
+| [[Ulysses|ULISSE]] | Tutto è finito, mio signore. |
+| [[Troilus|TROILO]] | Lo è. |
+| [[Ulysses|ULISSE]] | Perché restiamo, allora? |
+| [[Troilus|TROILO]] | Per fare registrazione alla mia [[Soul|anima]]<br>d’ogni sillaba che qui fu detta.<br>Ma se racconto come questi due recitarono insieme,<br>non mentirò nel pubblicare una [[Truth|verità]]?<br>Poiché ancora v’è nel mio cuore una credenza,<br>una speranza così ostinatamente forte,<br>che ribalta la testimonianza d’occhi e d’orecchi,<br>come se quegli organi avessero funzioni ingannevoli<br>create solo per calunniare.<br>Cressida era qui? |
+| [[Ulysses|ULISSE]] | Non so evocare spiriti, Troiano. |
+| [[Troilus|TROILO]] | Non c’era, certo. |
+| [[Ulysses|ULISSE]] | Certissimamente, c’era. |
+| [[Troilus|TROILO]] | Ebbene, la mia negazione non ha sapore di [[Madness|follia]]. |
+| [[Ulysses|ULISSE]] | Né la mia, signore. Cressida era qui proprio ora. |
+| [[Troilus|TROILO]] | Non si creda, per l’onore della femminilità.<br>Pensa: abbiamo avuto madri. Non dar vantaggio<br>a critici ostinati, pronti senza tema alcuno<br>di depravazione a misurare tutto il sesso<br>sulla regola di Cressida. Piuttosto, pensa che questa non è Cressida. |
+| [[Ulysses|ULISSE]] | Che ha fatto, Principe, che possa macchiare le nostre madri? |
+| [[Troilus|TROILO]] | Nulla affatto, a meno che questa fosse lei. |
+| [[Thersites|TERSITE]] | (a parte) Vuol spacconeggiare fino a negare i propri occhi? |
+| [[Troilus|TROILO]] | Questa, lei? No, questa è la [[Cressida]] di Diomede.<br>Se la [[Beauty|bellezza]] ha un’[[Soul|anima]], questa non è lei.<br>Se le anime guidano i voti, se i voti sono cose sacre,<br>se la santità è il diletto degli dèi,<br>se v’è regola nell’[[unity|unità]] stessa,<br>questa non è lei. O [[Madness|follia]] del discorso,<br>che la causa erige con te e contro te stessol<br>Bifida autorità, dove la ragione può ribellarsi<br>senza perdizione, e la perdita assumere ogni ragione<br>senza ribellione! Questa è e non è Cressida. |
+| *(didascalia)* | Dentro la mia [[Soul|anima]] si conduce una lotta |
+| [[Troilus|TROILO]] | di questa strana [[Nature|natura]]: che una cosa inseparabile<br>si divide più largamente del cielo e della terra,<br>e pure l’ampia larghezza di questa divisione<br>non ammette apertura per cui entri un punto sottile<br>quanto il filo rotto d’Aracne.<br>Prova, o prova, forte come le porte di Plutone:<br>Cressida è mia, legata coi vincoli del cielo.<br>Prova, o prova, forte come il cielo stesso:<br>i vincoli del cielo sono sciolti, dissolti, e slegati,<br>e con un altro nodo, stretto da cinque dita,<br>le frazioni della sua [[Faith|fede]], gli avanzi del suo [[Love|amore]],<br>i frammenti, i ritagli, i pezzi e le unte reliquie<br>della sua [[Faith|fede]] divorata, sono legati a Diomede. |
+| [[Ulysses|ULISSE]] | Può il degno [[Troilus|Troilo]] essere anche solo per metà preso<br>da ciò che qui la sua passione esprime? |
+| [[Troilus|TROILO]] | Sì, Greco, e sarà [[Well|ben]] divulgato<br>in caratteri rossi come il cuore di Marte<br>infiammato di [[Venus|Venere]]. Mai giovane amò<br>con [[Soul|anima]] così eterna e così fissa.<br>Ascolta, Greco: quanto io [[Love|amo]] Cressida,<br>tanto, a peso, odio il suo Diomede.<br>Quella manica che porterà nell’elmo è mia.<br>Fosse un elmo composto dall’arte di Vulcano,<br>la mia [[Sword|spada]] lo morderebbe. Non la tremenda tromba<br>che i marinai chiamano uragano,<br>costretta in massa dall’onnipotente sole,<br>stordirà con più clamore l’orecchio di Nettuno<br>nella sua discesa, di quanto la mia [[Sword|spada]] incitata<br>cadendo su Diomede. |
+| [[Thersites|TERSITE]] | (a parte) Gliela stuzzicherà per la sua concupiscenza. |
+| [[Troilus|TROILO]] | O Cressida, o falsa Cressida! Falsa, falsa, falsa.<br>Si mettano tutte le falsità accanto al tuo nome macchiato,<br>e sembreranno gloriose. |
+| [[Ulysses|ULISSE]] | Oh, contenetevi.<br>La vostra passione attira orecchi qui. |
+| *(didascalia)* | Entra Enea |
+| ENEA | (a [[Troilus|Troilo]])<br>Vi cerco da un’ora, mio signore.<br>[[Hector|Ettore]] a quest’ora s’arma in Troia.<br>[[Ajax|Aiace]], la vostra guardia, attende per condurvi a [[Home|casa]]. |
+| [[Troilus|TROILO]] | Vengo con voi, Principe.—Mio cortese signore, addio.—<br>Addio, bella ribelle; e tu, Diomede,<br>tienti saldo e porta un [[Castle|castello]] sulla testa. |
+| [[Ulysses|ULISSE]] | Vi condurrò alle porte. |
+| [[Troilus|TROILO]] | Accettate ringraziamenti sconvolti. |
+| *(didascalia)* | Escono [[Troilus|Troilo]], Enea, e [[Ulysses|Ulisse]] |
+| [[Thersites|TERSITE]] | Potessi incontrare quel furfante di Diomede! Croccerei come un corvo. Farei presagi, farei presagi. Patroclo mi darà qualunque cosa per le notizie di questa puttana. Il pappagallo non farebbe di più per una mandorla di quel che farebbe lui per una comoda sgualdrina. Lussuria, lussuria, sempre guerre e lussuria! Nient’altro fa moda. Se li porti un diavolo ardente! Esce |
+
 
 
 <span class="atom-split" data-atom="act_5--scene_3" data-title="Troilus and Cressida — Act V, Scene 3" data-chapter="Scene 3" data-kind="scene" data-tags="archetype/fool,archetype/prophet,motif/dreams,motif/lion,motif/love,motif/night,motif/tears,motif/wind,concept/charity,concept/doubt,concept/faith,concept/honour,concept/mercy,character/cressida,character/hector,character/pandarus,character/troilus"></span>
@@ -3031,6 +4328,72 @@ Exit
 | *(didascalia)* | Exeunt severally |
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entrano [[Hector|Ettore]] armato, e Andromaca |
+| ANDROMACA | Quando mai il mio signore fu d’umore così poco gentile<br>da chiudere gli orecchi all’ammonimento?<br>Disarmatevi, disarmatevi, e non combattete oggi. |
+| [[Hector|ETTORE]] | Mi tirate a offendervi. Rientrate.<br>Per tutti gli dèi eterni, andrò. |
+| ANDROMACA | I miei [[Dreams|sogni]] si mostreranno certo funesti a questo giorno. |
+| [[Hector|ETTORE]] | Basta, dico. |
+| *(didascalia)* | Entra Cassandra |
+| CASSANDRA | Dov’è mio fratello [[Hector|Ettore]]? |
+| ANDROMACA | Qui, sorella, armato e sanguinario d’intento.<br>Unisciti a me in alta e ardente supplica,<br>inseguiamolo in ginocchio—ché ho sognato<br>sanguinosa turbolenza, e tutta questa [[Night|notte]]<br>non è stata che sagome e forme di strage. |
+| CASSANDRA | Oh, è vero. |
+| [[Hector|ETTORE]] | Ehi! Che la mia tromba suoni. |
+| CASSANDRA | Nessuna nota di sortita, per amor del cielo, dolce fratello. |
+| [[Hector|ETTORE]] | Andate via, dico. Gli dèi m’hanno udito giurare. |
+| CASSANDRA | Gli dèi son sordi a voti caldi e stizzosi.<br>Sono offerte contaminate, più abominate<br>dei fegati macchiati nel sacrificio. |
+| ANDROMACA | (a [[Hector|Ettore]])<br>Oh, lasciatevi persuadere. Non tenete per santo<br>il far male essendo giusti. È altrettanto lecito,<br>poiché vorremmo dar molto, usare furti violenti<br>e rubare in nome della [[Charity|carità]]. |
+| CASSANDRA | È il fine che rende forte il voto,<br>ma i voti per ogni fine non devono valere.<br>Disarmati, dolce [[Hector|Ettore]]. |
+| [[Hector|ETTORE]] | Statevi zitte, dico.<br>Il mio [[Honour|onore]] tiene il vento del mio destino.<br>La vita ogni uomo la tiene cara, ma l’uomo di pregio<br>tiene l’[[Honour|onore]] assai più caro e prezioso della vita. |
+| *(didascalia)* | Entra [[Troilus|Troilo]], armato |
+| [[Hector|ETTORE]] | Ebbene, giovanotto, intendi combattere oggi? |
+| *(didascalia)* | ANDROMACA a parte |
+| [[Hector|ETTORE]] | Cassandra, chiama mio padre a persuaderlo. Esce Cassandra |
+| [[Hector|ETTORE]] | No, in [[Faith|fede]], giovane [[Troilus|Troilo]]. Deponi l’armatura, ragazzo.<br>Oggi io sono in vena di cavalleria.<br>Lascia crescere i tuoi nervi finché i loro nodi sian forti,<br>e non tentare ancora gli scontri della guerra.<br>Disarmati, va’—e non [[Doubt|dubitare]], prode ragazzo,<br>oggi io starò per te e per me e per Troia. |
+| [[Troilus|TROILO]] | Fratello, avete in voi un vizio di [[Mercy|clemenza]]<br>che s’addice più a un [[Lion|leone]] che a un uomo. |
+| [[Hector|ETTORE]] | Che vizio è questo? Buon [[Troilus|Troilo]], rimproveramelo. |
+| [[Troilus|TROILO]] | Quando molte volte il Greco prigioniero cade<br>proprio nel soffio e nel [[Wind|vento]] della vostra bella [[Sword|spada]],<br>voi gli dite d’alzarsi e vivere. |
+| [[Hector|ETTORE]] | Oh, è gioco leale. |
+| [[Troilus|TROILO]] | Gioco da [[Fool|sciocco]], per il cielo, [[Hector|Ettore]]. |
+| [[Hector|ETTORE]] | Ebbene! Ebbene! |
+| [[Troilus|TROILO]] | Per l’[[Love|amore]] di tutti gli dèi,<br>lasciamo la pietà eremita con nostra madre<br>e, quando avremo allacciate le nostre armature,<br>cavalchi la vendetta avvelenata sulle nostre spade,<br>spronandole a opera di strazio, trattenendole dalla pietà. |
+| [[Hector|ETTORE]] | Vergogna, selvaggio, vergogna! |
+| [[Troilus|TROILO]] | [[Hector|Ettore]], allora è guerra. |
+| [[Hector|ETTORE]] | [[Troilus|Troilo]], non vorrei che tu combattessi oggi. |
+| [[Troilus|TROILO]] | Chi mi tratterrebbe?<br>Non il destino, non l’obbedienza, né la mano di Marte<br>che col bastone di fuoco m’accenna la ritirata,<br>non Priamo ed Ecuba in ginocchio,<br>gli occhi escoriati dal ricorrere delle [[Tears|lacrime]],<br>né voi, fratello mio, con la vostra fedele [[Sword|spada]] tratta<br>opposta a impedirmi: nessuno fermerebbe la mia via<br>se non con la mia rovina. |
+| *(didascalia)* | Entrano Priamo e Cassandra |
+| CASSANDRA | Afferralo, Priamo, tienilo saldo.<br>Egli è la tua gruccia: se ora perdi il tuo sostegno,<br>tu che t’appoggi a lui e tutta Troia a te,<br>cadete tutti insieme. |
+| PRIAMO | Vieni, [[Hector|Ettore]], vieni. Torna indietro.<br>Tua moglie ha sognato, tua madre ha avuto visioni,<br>Cassandra prevede, e io stesso<br>son come un [[Prophet|profeta]] improvvisamente rapito<br>a dirti che questo giorno è funesto.<br>Perciò torna indietro. |
+| [[Hector|ETTORE]] | Enea è in campo,<br>e io son impegnato con molti Greci,<br>proprio sulla [[Faith|fede]] del valore, ad apparire<br>loro questa mattina. |
+| PRIAMO | Sì, ma tu non andrai. |
+| *(didascalia)* | [[Hector|ETTORE]] inginocchiandosi Non devo rompere la mia [[Faith|fede]]. |
+| PRIAMO | Mi conoscete obbediente; perciò, caro padre,<br>non fatemi svergognare il rispetto, ma datemi licenza<br>di prendere, col vostro consenso e la vostra voce,<br>quella via che qui mi vietate, regale Priamo. |
+| CASSANDRA | O Priamo, non cedere a lui. |
+| ANDROMACA | Non farlo, caro padre. |
+| [[Hector|ETTORE]] | Andromaca, sono offeso con te.<br>Per l’[[Love|amore]] che mi porti, rientra. |
+| *(didascalia)* | Esce Andromaca |
+| [[Troilus|TROILO]] | Questa sciocca, sognatrice, superstiziosa ragazza<br>fa tutti questi presagi. |
+| CASSANDRA | O addio, caro [[Hector|Ettore]].<br>Guarda come muori; guarda come il tuo occhio impallidisce;<br>guarda come le tue ferite sanguinano da molte bocche.<br>Senti come Troia rugge, come Ecuba grida,<br>come la povera Andromaca strilla fuori i suoi dolori.<br>Guarda: smarrimento, frenesia e stupore<br>come buffoni senza senno s’incontrano l’un l’altro,<br>e tutti gridano ‘[[Hector|Ettore]], [[Hector|Ettore]] è morto, o [[Hector|Ettore]]!’ |
+| [[Troilus|TROILO]] | Via, via! |
+| CASSANDRA | Addio. Ma piano: [[Hector|Ettore]], prendo congedo.<br>Tu inganni te stesso e tutta la nostra Troia. Esce |
+| [[Hector|ETTORE]] | (a Priamo)<br>Siete sbigottito, mio sovrano, per il suo clamore.<br>Rientrate e rincorate la città. Noi andremo a combattere,<br>faremo imprese degne di lode, e ve le racconteremo di [[Night|notte]]. |
+| PRIAMO | Addio. Gli dèi ti stiano attorno a salvarti. |
+| *(didascalia)* | Escono Priamo ed [[Hector|Ettore]] da parti diverse. Squillo d’allarme |
+| [[Troilus|TROILO]] | Ci sono, udite! Superbo Diomede, credi<br>che vengo a perdere il braccio o a vincere la mia manica. |
+| *(didascalia)* | Entra [[Pandarus|Pandaro]] |
+| [[Pandarus|PANDARO]] | Sentite, mio signore, sentite? |
+| [[Troilus|TROILO]] | Che c’è ora? |
+| [[Pandarus|PANDARO]] | Ecco una lettera venuta da quella povera ragazza. |
+| [[Troilus|TROILO]] | Lasciami leggere.<br>[[Troilus|Troilo]] legge la lettera |
+| [[Pandarus|PANDARO]] | Una tisi bastarda, una tisi bastarda e furfante mi tormenta tanto, e la sciocca sorte di questa ragazza, e questo e quello, che uno di questi giorni vi lascerò. E ho anche un catarro negli occhi, e un tale dolore nelle ossa che, se un uomo non fosse maledetto, non saprei che pensarne.—Che dice lei là? no |
+| [[Troilus|TROILO]] | (stracciando la lettera)<br>Parole, parole, mere parole, nulla che venga dal cuore.<br>L’effetto opera in altro modo.<br>Va’, [[Wind|vento]], al [[Wind|vento]]: là giratevi e mutate insieme.<br>Il mio [[Love|amore]] lei lo nutre sempre di parole e d’inganni,<br>ma con i fatti edifica un altro. |
+| [[Pandarus|PANDARO]] | Ma via, ascoltate— |
+| [[Troilus|TROILO]] | Via, lacchè da mezzano! Ignominia e vergogna<br>perseguano la tua vita, e vivano sempre col tuo nome. |
+| *(didascalia)* | Escono da parti diverse |
+
 
 
 <span class="atom-split" data-atom="act_5--scene_4" data-title="Troilus and Cressida — Act V, Scene 4" data-chapter="Scene 4" data-kind="scene" data-tags="archetype/villain,motif/blood,motif/river,concept/honour,concept/mercy,character/achilles,character/ajax,character/cressida,character/hector,character/thersites,character/troilus,character/ulysses"></span>
@@ -3055,6 +4418,27 @@ Exit
 | [[Thersites\|THERSITES]] | but a plague break thy neck for frighting me. What’s become of the wenching rogues? I think they have swallowed one another. I would laugh at that miracle—yet in a sort lechery eats itself. I’ll seek them. |
 | *(didascalia)* | Exit |
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Squillo d’allarme. Entra [[Thersites|Tersite]] fra le scorrerie |
+| [[Thersites|TERSITE]] | Ora se le stanno graffiando a vicenda. Vado a guardare. Quel simulatore abominevole di servitore, Diomede, ha là nell’elmo la manica di quello stesso scabbioso, rimbambito, sciocco giovane furfante di Troia. Vorrei proprio vederli scontrarsi, che quello stesso giovane asino troiano innamorato della puttana rimandasse quel greco puttaniere [[Villain|scellerato]] con la manica indietro alla simulatrice e lussuriosa sgualdrina, con una commissione senza manica. Dall’altro lato, la politica di quei furbi manigoldi spergiuri—quel vecchio [[cheese|formaggio]] stantio, secco e roso dai topi, Nestore, e quella volpe-cane d’[[Ulysses|Ulisse]]—si è dimostrata non valere una mora di siepe. Per politica mi hanno aizzato quel cagnaccio bastardo d’[[Ajax|Aiace]] contro quel cane d’altrettanto mala razza, [[Achilles|Achille]]. E ora il cagnaccio [[Ajax|Aiace]] è più superbo del cagnaccio [[Achilles|Achille]], e non vuole armarsi oggi—al che i Greci han cominciato a proclamare la barbarie, e la politica cade in cattiva fama. |
+| *(didascalia)* | Entrano Diomede, seguito da [[Troilus|Troilo]] |
+| [[Thersites|TERSITE]] | Piano, ecco che vengono la manica e l’altro. |
+| [[Troilus|TROILO]] | (a Diomede)<br>Non fuggire, ché se anche prendessi il [[River|fiume]] Stige<br>ti nuoterei dietro. |
+| DIOMEDE | Tu chiami male la ritirata.<br>Non fuggo, ma una prudenza vantaggiosa<br>m’ha ritratto dallo svantaggio del numero. A te,<br>dunque!<br>Combattono |
+| [[Thersites|TERSITE]] | Tieni la tua puttana, Greco! Ora per la tua puttana, Troiano! Ora la manica, ora la manica! |
+| *(didascalia)* | Esce Diomede incalzando [[Troilus|Troilo]] |
+| *(didascalia)* | Entra [[Hector|Ettore]] dietro |
+| [[Hector|ETTORE]] | Che sei tu, Greco? Sei tu pari a [[Hector|Ettore]]?<br>Sei tu di [[Blood|sangue]] e d’[[Honour|onore]]? |
+| [[Thersites|TERSITE]] | No, no, io sono un manigoldo, uno scabbioso furfante insolente, un sozzissimo briccone. |
+| [[Hector|ETTORE]] | Ti credo: vivi. |
+| [[Thersites|TERSITE]] | Grazie alla [[Mercy|misericordia]] di Dio, che vuoi credermi— |
+| *(didascalia)* | Esce [[Hector|Ettore]] |
+| [[Thersites|TERSITE]] | ma la peste ti rompa il collo per avermi spaventato. Che ne è dei bricconi puttanieri? Credo che si siano ingoiati l’un l’altro. Riderei di quel miracolo—eppure, in certo modo, la lussuria divora se stessa. Andrò a cercarli. |
+| *(didascalia)* | Esce |
 
 
 
@@ -3083,6 +4467,30 @@ Exit
 | [[Achilles\|ACHILLES]] | Where is this [[Hector]]?<br>Come, come, thou brave boy-queller, show thy face.<br>Know what it is to meet [[Achilles]] angry.<br>[[Hector]]! Where’s [[Hector]]? I will none but [[Hector]]. |
 | *(didascalia)* | Exeunt |
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entrano Diomede e Servi |
+| DIOMEDE | Va’, va’, mio servo, prendi il [[Horse|cavallo]] di [[Troilus|Troilo]].<br>Presenta il bel destriero alla mia signora Cressida.<br>Uomo, raccomanda il mio servizio alla sua [[Beauty|bellezza]].<br>Dille che ho castigato l’amoroso Troiano,<br>e che sono il suo cavaliere per prova. |
+| SERVO | Vado, mio signore. Esce |
+| *(didascalia)* | Entra [[Agamemnon|Agamennone]] |
+| [[Agamemnon|AGAMENNONE]] | Rinnovate, rinnovate! Il feroce Polidamante<br>ha abbattuto Menone; il bastardo Margaretone<br>ha Doreo prigioniero,<br>e sta come un colosso brandendo la sua trave<br>sopra i cadaveri sfracellati dei re<br>Epistrofo e Cedio; [[Polixenes|Polisseno]] è ucciso,<br>Anfimaco e Toante feriti a morte,<br>Patroclo preso o ucciso, e Palamede<br>gravemente ferito e contuso; il tremendo saettatore<br>atterrisce le nostre schiere. Affrettiamoci, Diomede,<br>ai rinforzi, o periamo tutti. |
+| *(didascalia)* | Entra Nestore |
+| *(didascalia)* | col [[Body|corpo]] di Patroclo |
+| NESTORE | Andate, portate il [[Body|corpo]] di Patroclo ad [[Achilles|Achille]],<br>e dite a [[Ajax|Aiace]] dal passo di lumaca che s’armi, per vergogna. |
+| *(didascalia)* | Escono uno o più col [[Body|corpo]] |
+| NESTORE | Ci sono mille Ettori sul campo.<br>Ora qui combatte su Galate, il suo [[Horse|cavallo]],<br>e là gli manca lavoro; poco dopo è là a piedi,<br>e là fuggono o muoiono, come branchi squamosi<br>davanti alla balena che rutta. Poi è là in fondo,<br>e là i Greci di paglia, maturi per il suo filo,<br>cadono davanti a lui come la falciata del mietitore.<br>Qui, là e in ogni luogo egli [[Leaves|lascia]] e prende,<br>la destrezza obbedendo tanto all’appetito<br>che fa quel che vuole, e fa tanto<br>che la prova stessa è chiamata impossibilità. |
+| *(didascalia)* | Entra [[Ulysses|Ulisse]] |
+| [[Ulysses|ULISSE]] | O [[Courage|coraggio]], [[Courage|coraggio]], principi! Il grande [[Achilles|Achille]]<br>s’arma, piangendo, maledicendo, giurando vendetta.<br>Le ferite di Patroclo hanno destato il suo [[Blood|sangue]] sonnolento,<br>insieme ai suoi Mirmidoni straziati,<br>che senza naso, senza mani, tagliuzzati e scheggiati vengono a<br>lui<br>gridando contro [[Hector|Ettore]]. [[Ajax|Aiace]] ha perduto un amico<br>e ha la schiuma alla bocca, ed è armato e all’opera,<br>ruggendo per Troitus—che ha compiuto oggi<br>folle e fantastica strage,<br>impegnandosi e riscattandosi<br>con forza così incurante e cura così senza forza<br>come se la fortuna, proprio a dispetto dell’astuzia,<br>gli ordinasse di vincere tutto. |
+| *(didascalia)* | Entra [[Ajax|Aiace]] |
+| [[Ajax|AIACE]] | [[Troilus|Troilo]], tu codardo Troitus! Esce |
+| *(didascalia)* | DIOMEDE Sì, là, là! Esce |
+| NESTORE | Così, così, ci raccogliamo insieme. |
+| *(didascalia)* | Entra [[Achilles|Achille]] |
+| [[Achilles|ACHILLE]] | Dov’è questo [[Hector|Ettore]]?<br>Vieni, vieni, tu prode ammazzafanciulli, mostra il tuo volto.<br>Sappi che cos’è incontrare [[Achilles|Achille]] in collera.<br>[[Hector|Ettore]]! Dov’è [[Hector|Ettore]]? Non voglio altri che [[Hector|Ettore]]. |
+| *(didascalia)* | Escono |
 
 
 
@@ -3121,6 +4529,39 @@ Exit
 | [[Hector\|HECTOR]] | Wilt thou not, beast, abide?<br>Why then, fly on; I’ll hunt thee for thy hide. Exit |
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entra [[Ajax|Aiace]] |
+| [[Ajax|AIACE]] | [[Troilus|Troilo]], tu codardo [[Troilus|Troilo]]! Mostra la testa! |
+| *(didascalia)* | Entra Diomede |
+| DIOMEDE | [[Troilus|Troilo]], dico! Dov’è [[Troilus|Troilo]]? |
+| [[Ajax|AIACE]] | Che vorresti? DIOMEDE Vorrei correggerlo. |
+| [[Ajax|AIACE]] | Fossi io il generale, avresti il mio ufficio<br>prima di quella correzione.—Troitus, dico! Ehi, [[Troilus|Troilo]]! |
+| *(didascalia)* | Entra [[Troilus|Troilo]] |
+| [[Troilus|TROILO]] | O traditore Diomede! Volgi il tuo falso volto, traditore,<br>e paga la vita che mi devi per il mio [[Horse|cavallo]]. |
+| DIOMEDE | Ah, sei tu là? |
+| [[Ajax|AIACE]] | Combatterò con lui da [[Alone|solo]]. Ferma, Diomede. |
+| DIOMEDE | È la mia preda; non starò a guardare. |
+| [[Troilus|TROILO]] | Venite, Greci imbroglioni entrambi, a voi due!<br>Combattono. |
+| *(didascalia)* | Entra [[Hector|Ettore]] |
+| [[Hector|ETTORE]] | Ah, [[Troilus|Troilo]]? Oh, [[Well|ben]] combattuto, mio fratello minore! |
+| *(didascalia)* | Esce [[Troilus|Troilo]] incalzando Diomede e [[Ajax|Aiace]] |
+| *(didascalia)* | Entra [[Achilles|Achille]] dietro |
+| [[Achilles|ACHILLE]] | Ora ti vedo.—Ah! A te, [[Hector|Ettore]]. |
+| *(didascalia)* | Combattono. [[Achilles|Achille]] ha la peggio |
+| [[Hector|ETTORE]] | Riposa, se vuoi. |
+| [[Achilles|ACHILLE]] | Disdegno la tua cortesia, superbo Troiano.<br>Sii lieto che le mie armi son fuori esercizio.<br>Il mio riposo e la mia negligenza ora ti favoriscono;<br>ma presto sentirai di nuovo parlare di me.<br>Fino allora, va’ a cercare la tua fortuna. Esce |
+| [[Hector|ETTORE]] | Sta’ [[Well|bene]].<br>Sarei stato uomo molto più fresco,<br>se t’avessi atteso. |
+| *(didascalia)* | Entra [[Troilus|Troilo]] in fretta |
+| [[Hector|ETTORE]] | Ebbene, fratello mio? |
+| [[Troilus|TROILO]] | [[Ajax|Aiace]] ha preso Enea. Sarà così?<br>No, per la fiamma di quel glorioso cielo,<br>non lo porterà via. Sarò preso anch’io,<br>o lo trarrò in salvo. Destino, ascolta ciò che dico:<br>non m’importa se oggi porrai fine alla mia vita. Esce |
+| *(didascalia)* | Entra uno in armatura sontuosa |
+| [[Hector|ETTORE]] | Ferma, ferma, tu Greco! Sei un bel bersaglio.<br>No? Non vuoi? Mi piace [[Well|bene]] la tua armatura.<br>La sfonderò e ne scioglierò tutti i chiodi, |
+| *(didascalia)* | ma ne sarò padrone. Esce quello in armatura |
+| [[Hector|ETTORE]] | Non vuoi restare, bestia?<br>Allora fuggi; ti darò la caccia per la tua pelle. Esce |
+
 
 
 <span class="atom-split" data-atom="act_5--scene_7" data-title="Troilus and Cressida — Act V, Scene 7" data-chapter="Scene 7" data-kind="scene" data-tags="motif/wheel,character/achilles,character/cressida,character/hector,character/troilus"></span>
@@ -3131,6 +4572,13 @@ Exit
 | *(didascalia)* | Enter [[Achilles]] with Myrmidons |
 | [[Achilles\|ACHILLES]] | Come here about me, you my Myrmidons.<br>Mark what I say. Attend me where I [[Wheel\|wheel]];<br>Strike not a stroke, but keep yourselves in breath,<br>And when I have the bloody [[Hector]] found,<br>Empale him with your weapons round about.<br>In fellest manner execute your arms.<br>Follow me, sirs, and my proceedings eye.<br>It is decreed [[Hector]] the great must die. Exeunt |
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entra [[Achilles|Achille]] con i Mirmidoni |
+| [[Achilles|ACHILLE]] | Venite qui attorno a me, voi miei Mirmidoni.<br>Notate ciò che dico. Seguitemi dove [[Wheel|giro]];<br>non menate un colpo, ma tenetevi il fiato,<br>e quando avrò trovato il sanguinoso [[Hector|Ettore]],<br>circondatelo con le vostre armi come in una palizzata.<br>Nel modo più crudele adoperate le vostre armi.<br>Seguitemi, signori, e tenete l’occhio sul mio procedere.<br>È decretato che [[Hector|Ettore]] il grande debba morire. Escono |
 
 
 
@@ -3149,6 +4597,20 @@ Exit
 | *(didascalia)* | [[Thersites\|THERSITES]] I am a bastard, too. I [[Love\|love]] bastards. I am bastard begot, bastard instructed, bastard in mind, bastard in valour, in everything illegitimate. One bear will not bite another, and wherefore should one bastard? Take heed: the quarrel’s most ominous to us. If the son of a whore fight for a whore, he tempts judgement. Farewell, bastard. Exit |
 | BASTARD | The devil take thee, coward. Exit |
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entrano Menelao e [[Paris|Paride]], combattendo, poi [[Thersites|Tersite]] |
+| [[Thersites|TERSITE]] | Il cornuto e il fabbricatore di corna ci si sono messi.—Ora, toro! Ora, cane! Dàgli, [[Paris|Paride]], dàgli! Ora, mio Spartano dalle [[Double|doppie]] corna! Dàgli, [[Paris|Paride]], dàgli! Il toro ha la partita. Attento alle corna, ehi! |
+| *(didascalia)* | Esce Menelao incalzando [[Paris|Paride]] |
+| *(didascalia)* | Entra il Bastardo dietro |
+| BASTARDO | Voltati, schiavo, e combatti. |
+| [[Thersites|TERSITE]] | Che sei tu? |
+| BASTARDO | Un figlio bastardo di Priamo. |
+| *(didascalia)* | [[Thersites|TERSITE]] Anch’io sono un bastardo. [[Love|Amo]] i bastardi. Son generato bastardo, istruito da bastardo, bastardo di mente, bastardo di valore, illegittimo in ogni cosa. Un orso non morde un altro orso, e perché dovrebbe farlo un bastardo con un altro? Bada: la contesa è funestissima per noi. Se il figlio d’una puttana combatte per una puttana, tenta il giudizio divino. Addio, bastardo. Esce |
+| BASTARDO | Il diavolo ti porti, codardo. Esce |
 
 
 
@@ -3173,6 +4635,25 @@ Exit
 | *(didascalia)* | Exeunt, dragging the bodies |
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entra [[Hector|Ettore]] trascinando quello in armatura sontuosa |
+| *(didascalia)* | [[Hector|ETTORE]] togliendogli l’elmo |
+| *(didascalia)* | Nucleo putrefattissimo, così bello di fuori,<br>la tua bella armatura t’è costata così la vita.<br>Ora il lavoro della mia giornata è compiuto. Prenderò buon respiro.<br>Riposa, [[Sword|spada]]: hai la tua sazietà di [[Blood|sangue]] e di [[Death|morte]].<br>Si disarma. |
+| *(didascalia)* | Entrano [[Achilles|Achille]] e i suoi Mirmidoni, circondando |
+| *(didascalia)* | [[Hector|Ettore]] |
+| [[Achilles|ACHILLE]] | Guarda, [[Hector|Ettore]], come il sole comincia a calare,<br>come la brutta [[Night|notte]] viene ansimando alle sue calcagna.<br>Proprio col velo e l’oscurarsi del sole<br>che chiude il giorno, la vita d’[[Hector|Ettore]] è finita. |
+| [[Hector|ETTORE]] | Io sono disarmato. Rinuncia a questo vantaggio, Greco. |
+| [[Achilles|ACHILLE]] | Colpite, compagni, colpite! Questo è l’uomo che cerco. |
+| *(didascalia)* | I Mirmidoni uccidono [[Hector|Ettore]] |
+| [[Achilles|ACHILLE]] | Così, Ilio, cadi. Ora, Troia, affonda.<br>Qui giace il tuo cuore, i tuoi nervi e le tue ossa.—<br>Avanti, Mirmidoni, e gridate tutti a piena voce:<br>‘[[Achilles|Achille]] ha macchiato il potente [[Hector|Ettore]]!’<br>Si suona la ritirata<br>Udite, una ritirata dalla nostra parte greca. |
+| *(didascalia)* | Si suona un’altra ritirata |
+| [[Achilles|ACHILLE]] | UN MIRMIDONE<br>Le trombe troiane suonano lo stesso, mio signore. |
+| [[Achilles|ACHILLE]] | L’ala di drago della [[Night|notte]] si stende sulla terra<br>e, come arbitro di duello, separa gli eserciti.<br>La mia [[Sword|spada]] cenata a metà, che avrebbe mangiato di gusto,<br>appagata di questa delicata esca, va così a letto.<br>Rinfodera la [[Sword|spada]]<br>Su, legate il suo [[Body|corpo]] alla coda del mio [[Horse|cavallo]].<br>Trascinerò il Troiano lungo il campo. |
+| *(didascalia)* | Escono, trascinando i corpi |
+
 
 
 <span class="atom-split" data-atom="act_5--scene_10" data-title="Troilus and Cressida — Act V, Scene 10" data-chapter="Scene 10" data-kind="scene" data-tags="motif/death,character/achilles,character/agamemnon,character/ajax,character/cressida,character/hector,character/troilus"></span>
@@ -3189,6 +4670,19 @@ Exit
 | [[Agamemnon\|AGAMEMNON]] | March patiently along. Let one be sent<br>To pray [[Achilles]] see us at our tent.<br>If in his [[Death\|death]] the gods have us befriended,<br>Great Troy is ours, and our sharp wars are ended. |
 | *(didascalia)* | Exeunt marching |
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Si suona la ritirata. Entrano [[Agamemnon|Agamennone]], [[Ajax|Aiace]], Menelao, Nestore, Diomede, e gli altri, marciando. Un clamore dentro |
+| [[Agamemnon|AGAMENNONE]] | Udite, udite! Che grido è quello? |
+| NESTORE | Silenzio, tamburi. |
+| MIRMIDONI | (da dentro) [[Achilles|Achille]]!<br>[[Achilles|Achille]]! [[Hector|Ettore]] è ucciso! [[Achilles|Achille]]! |
+| DIOMEDE | La voce è: [[Hector|Ettore]] è ucciso, e da [[Achilles|Achille]]. |
+| [[Ajax|AIACE]] | Se è così, non se ne faccia però vanto.<br>Il grande [[Hector|Ettore]] era uomo buono quanto lui. |
+| [[Agamemnon|AGAMENNONE]] | Marciate avanti con pazienza. Sia mandato qualcuno<br>a pregare [[Achilles|Achille]] di venire a trovarci alla nostra tenda.<br>Se nella sua [[Death|morte]] gli dèi ci hanno favorito,<br>la grande Troia è nostra, e le nostre aspre guerre son finite. |
+| *(didascalia)* | Escono marciando |
 
 
 
@@ -3217,3 +4711,29 @@ Exit
 | SONNETS AND | ‘A [[Lover\|LOVER]]’S COMPLAINT’ |
 | SHAKESPEARE’S | Sonnets were published as a collection by Thomas Thorpe in 1609; the title-page declared that they were ‘never before imprinted’. Versions of two of them- 138 and 144—had appeared in 1599, in<br>The Passionate [[Pilgrim]]<br>, a collection ascribed to Shakespeare but including some [[Poems\|poems]] certainly written by other authors; and in the previous year Francis Meres, in<br>Palladis Tamia,<br> had alluded to Shakespeare’s ‘sugared sonnets among his private friends’. The [[Sonnet\|sonnet]] sequence had enjoyed a brief but intense vogue from the publication of Sir Philip Sidney’s<br>Astrophil and Stella<br> in 1591 till about 1597. Some of Shakespeare’s plays of this period reflect the fashion: in the [[Comedy\|comedy]] of<br>[[Love]]’s Labour’s Lost<br> the writing of sonnets is seen as a laughable symptom of [[Love\|love]], and in the [[Tragedy\|tragedy]] of<br>[[Romeo]] and [[Juliet]]<br> both speeches of the [[Chorus]] and the [[lovers]]’ first conversation are in [[Sonnet\|sonnet]] form. Later plays use it, too, but it seems likely that most of Shakespeare’s sonnets were first written during this period. But there are indications that some of them were revised; the two printed in<br>The Passionate [[Pilgrim]]<br> differ at certain points from Thorpe’s version, and two other sonnets (2 and 106) exist in manuscript versions which also are not identical with those published in the sequence. We print these as ‘Alternative Versions’ of Sonnets 2, 106, 138, and 144.<br><br>The order in which Thorpe printed the Sonnets has often been questioned, but is not entirely haphazard: all the first seventeen, and no later ones, exhort a young man to marry; all those clearly addressed to one or more men are among the first 126, and all those clearly addressed to, or concerned with, one or more women (the ‘dark lady’) follow. Some of the sonnets in the second group appear to refer to events that prompted sonnets in the first group; it seems likely that the [[Poems\|poems]] were rearranged after composition. Moreover, the volume contains ‘A [[Lover]]’s Complaint’, clearly ascribed to Shakespeare, which stylistic evidence suggests was written in the early seventeenth century and which may have been intended as a companion piece. So, printing the Sonnets in Thorpe’s order, we place them according to the likely date of their revision.<br><br>Textual evidence suggests that Thorpe printed from a transcript by someone other than Shakespeare. His volume bears a dedication over his own initials to ‘Mr W.H.’; we do not know whether this derives from the manuscript, and can only speculate about the dedicatee’s [[Identity\|identity]]. His initials are those of Shakespeare’s only known dedicatee, Henry Wriothesley, Earl of Southampton, but in reverse order. We have even less clue as to the [[Identity\|identity]] of the Sonnets’ other personae, who include a rival poet and a dark woman.<br><br>Shakespeare’s Sonnets may not be autobiographical, but they are certainly unconventional: the most idealistic [[Poems\|poems]] celebrating [[Love\|love]]’s mutuality are addressed by one man to another, and the [[Poems\|poems]] clearly addressed to a woman revile her morals, speak ill of her appearance, and explore the poet’s [[Self\|self]]-disgust at his entanglement with her. The Sonnets include some of the finest [[Love\|love]] [[Poems\|poems]] in the English language: the sequence itself presents an internal drama of great psychological complexity. |
 | THESE.ENSUING.SONNETS. |  M<br>r<br>.W.H. ALL.HAPPINESS. |
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entrano Enea, [[Paris|Paride]], Antenore, e Deifobo |
+| ENEA | Fermi, olà! Siamo ancora padroni del campo.<br>Non torniamo a [[Home|casa]]; qui passeremo digiuni la [[Night|notte]]. |
+| *(didascalia)* | Entra [[Troilus|Troilo]] |
+| [[Troilus|TROILO]] | [[Hector|Ettore]] è ucciso. |
+| TUTTI GLI ALTRI | [[Hector|Ettore]]? Gli dèi non vogliano. |
+| [[Troilus|TROILO]] | È morto, e alla coda del [[Horse|cavallo]] dell’assassino,<br>in modo bestiale, trascinato per il campo infame.<br>Aggrottatevi, o cieli; eseguite la vostra ira con [[Speed|prestezza]];<br>sedete, dèi, sui vostri troni, e colpite Troia.<br>Dico, in un colpo: siano le vostre brevi pesti [[Mercy|misericordia]],<br>e non trascinate a lungo le nostre sicure distruzioni. |
+| ENEA | Mio signore, sconfortate tutto l’esercito. |
+| [[Troilus|TROILO]] | Non mi capite, voi che mi dite così.<br>Non parlo di fuga, né di [[Fear|paura]] della [[Death|morte]],<br>ma sfido ogni imminenza in cui dèi e uomini<br>rivolgono i loro pericoli. [[Hector|Ettore]] non è più.<br>Chi lo dirà a Priamo, o a Ecuba?<br>Chi vuole essere per sempre chiamato barbagianni<br>vada in Troia e dica che il loro [[Hector|Ettore]] è morto.<br>V’è una parola che muterà Priamo in pietra,<br>farà pozzi e Niobi delle fanciulle e delle mogli,<br>fredde statue dei giovani, e in una parola<br>spaventerà Troia fuori di sé. Ma marciamo via.<br>[[Hector|Ettore]] è morto; non c’è altro da dire.<br>Ma restate.—Voi vili abominevoli tende<br>così superbamente piantate sulle nostre pianure frigie,<br>sorga Titano quanto presto osi,<br>vi passerò da parte a parte! E tu, codardo<br>di gran mole,<br>nessuno spazio di terra separerà i nostri due odii.<br>Ti perseguiterò sempre come una malvagia [[Conscience|coscienza]],<br>che modella spettri rapidi come i pensieri della frenesia.<br>Battete una marcia franca! A Troia andate con conforto:<br>la [[Hope|speranza]] di [[Revenge|vendetta]] nasconderà il nostro dolore interiore. |
+| *(didascalia)* | Escono marciando |
+| PASSI AGGIUNTIVI | A. Il Quarto (sotto) dà una versione più elaborata del discorso di [[Thersites|Tersite]] in 5.1.17-21. |
+| [[Thersites|TERSITE]] | Ebbene, la sua puttana in maschio. Ora le putride malattie del sud, le coliche, le ernie, i carichi di renella nella schiena, le letargie, le paralisi fredde, gli occhi infiammati, i fegati marci di sozzura, i polmoni ansanti, le vesciche piene d’apostema, le sciatiche, le fornaci da calce nel palmo, il mal d’ossa incurabile, e la rugosa proprietà perpetua della tigna, prendano e riprendano tali scoperte a rovescio.<br>B. Il Quarto dà un finale diverso all’opera (che il Folio ripete inavvertitamente). |
+| *(didascalia)* | Entra [[Pandarus|Pandaro]] |
+| [[Pandarus|PANDARO]] | Ma sentite, sentite. |
+| *(didascalia)* | Via, lacchè da mezzano. Lo percuote Ignominia e vergogna |
+| [[Troilus|TROILO]] | perseguano la tua vita, e vivano sempre col tuo nome. |
+| *(didascalia)* | Escono tutti tranne [[Pandarus|Pandaro]] |
+| [[Pandarus|PANDARO]] | Bella medicina per le mie ossa doloranti. O mondo, mondo, mondo!—così è disprezzato il povero intermediario. O traditori e mezzani, con che zelo vi si mette all’opera, e come mal vi si ricompensa! Perché il nostro adoperarci dovrebbe essere tanto desiderato e l’esecuzione tanto detestata? Che verso c’è per questo? Che esempio? Vediamo,<br>Tutto allegro il bombo canta<br>finché non ha perduto il miele e il pungiglione,<br>e una volta domato nella coda armata,<br>il dolce miele e le dolci note vengono a mancare insieme.<br>Buoni mercanti di carne, mettete questo sui vostri panni dipinti:<br>quanti qui sono della sala di Pandaro,<br>i vostri occhi, mezzo cavati, piangano alla caduta di Pandaro.<br>O se non potete piangere, date almeno qualche gemito,<br>se non per me, almeno per le vostre ossa doloranti.<br>Fratelli e sorelle del mestiere di tener la porta,<br>fra un due mesi qui sarà fatto il mio testamento.<br>Dovrebbe esser ora, ma la mia [[Fear|paura]] è questa:<br>qualche oca scorticata di Winchester sibilerebbe.<br>Fino allora sudirò e cercherò qua e là qualche sollievo,<br>e in quel [[Time|tempo]] vi lascerò in eredità le mie malattie. Esce |
+| SONETTI E | ‘IL LAMENTO D’UN [[Lover|AMANTE]]’ |
+| SHAKESPEARE’S | I Sonetti furono pubblicati come raccolta da Thomas Thorpe nel 1609; il frontespizio dichiarava che erano ‘mai prima stampati’. Versioni di due di essi- 138 e 144—erano apparse nel 1599, in<br>The Passionate [[Pilgrim]]<br>, una raccolta attribuita a Shakespeare ma che comprendeva alcune [[Poems|poesie]] certamente scritte da altri autori; e l’anno precedente Francis Meres, in<br>Palladis Tamia,<br> aveva alluso ai ‘sonetti zuccherini fra i suoi amici privati’ di Shakespeare. La sequenza di [[Sonnet|sonetti]] aveva goduto d’una voga breve ma intensa dalla pubblicazione dell’<br>Astrophil and Stella<br> di Sir Philip Sidney nel 1591 fino a circa il 1597. Alcune opere di Shakespeare di questo periodo riflettono la moda: nella [[Comedy|commedia]]<br>[[Love]]’s Labour’s Lost<br> la scrittura di sonetti è vista come sintomo ridicolo dell’[[Love|amore]], e nella [[Tragedy|tragedia]] di<br>[[Romeo]] e [[Juliet|Giulietta]]<br> sia i discorsi del [[Chorus|Coro]] sia la prima conversazione degli [[lovers|amanti]] sono in forma di [[Sonnet|sonetto]]. Anche opere più tarde la usano, ma è probabile che la maggior parte dei sonetti di Shakespeare sia stata scritta per la prima volta in questo periodo. Vi sono però indizi che alcuni di essi furono rivisti; i due stampati in<br>The Passionate [[Pilgrim]]<br> differiscono in certi punti dalla versione di Thorpe, e altri due sonetti (2 e 106) esistono in versioni manoscritte che pure non sono identiche a quelle pubblicate nella sequenza. Li stampiamo come ‘Versioni alternative’ dei Sonetti 2, 106, 138 e 144.<br><br>L’ordine in cui Thorpe stampò i Sonetti è stato spesso messo in dubbio, ma non è del tutto casuale: tutti i primi diciassette, e nessuno dei successivi, esortano un giovane a sposarsi; tutti quelli chiaramente rivolti a uno o più uomini stanno fra i primi 126, e seguono tutti quelli chiaramente rivolti a, o riguardanti, una o più donne (la ‘dama bruna’). Alcuni sonetti del secondo gruppo sembrano riferirsi a eventi che suscitarono sonetti del primo gruppo; è probabile che le [[Poems|poesie]] fossero riordinate dopo la composizione. Inoltre il volume contiene ‘A [[Lover]]’s Complaint’, chiaramente attribuito a Shakespeare, che secondo indizi stilistici fu scritto nei primi anni del Seicento e che può essere stato inteso come componimento d’accompagnamento. Perciò, stampando i Sonetti nell’ordine di Thorpe, li collochiamo secondo la data probabile della loro revisione.<br><br>L’evidenza testuale suggerisce che Thorpe stampò da una trascrizione di mano diversa da quella di Shakespeare. Il suo volume porta una dedica firmata con le proprie iniziali a ‘Mr W.H.’; non sappiamo se essa derivi dal manoscritto, e possiamo solo fare congetture sull’[[Identity|identità]] del dedicatario. Le sue iniziali sono quelle dell’unico dedicatario noto di Shakespeare, Henry Wriothesley, conte di Southampton, ma in ordine inverso. Abbiamo indizi ancor minori sull’[[Identity|identità]] degli altri personaggi dei Sonetti, fra i quali un poeta rivale e una donna bruna.<br><br>I Sonetti di Shakespeare possono non essere autobiografici, ma sono certamente non convenzionali: le [[Poems|poesie]] più idealistiche, che celebrano la reciprocità dell’[[Love|amore]], sono rivolte da un uomo a un altro, e le [[Poems|poesie]] chiaramente rivolte a una donna ne vituperano i costumi, ne parlano male dell’aspetto, ed esplorano il disgusto di [[Self|sé]] del poeta per il suo legame con lei. I Sonetti comprendono alcune delle più belle [[Poems|poesie]] d’[[Love|amore]] della lingua inglese: la sequenza stessa presenta un dramma interiore di grande complessità psicologica. |
+| QUESTI.SEGUENTI.SONETTI. |  M<br>r<br>.W.H. OGNI.FELICITÀ. |
