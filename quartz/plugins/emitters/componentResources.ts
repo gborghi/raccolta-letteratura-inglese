@@ -28,6 +28,8 @@ import atomRouterScript from "../../components/scripts/atomRouter.inline"
 import sidebarToggleScript from "../../components/scripts/sidebarToggle.inline"
 // @ts-ignore
 import feedbackFormScript from "../../components/scripts/feedbackForm.inline"
+// @ts-ignore
+import axisTagsScript from "../../components/scripts/axisTags.inline"
 import styles from "../../styles/custom.scss"
 import popoverStyle from "../../components/styles/popover.scss"
 import { BuildCtx } from "../../util/ctx"
@@ -144,6 +146,9 @@ function addGlobalPageResources(ctx: BuildCtx, componentResources: ComponentReso
     // Feedback form on /feedback: fire-and-forget POST to the GAS mail relay. No-ops on
     // every other page (see feedbackForm.inline.ts).
     feedbackFormScript,
+    // Regroups the flat tag row into one row per knowledge-graph axis (concept/, motif/,
+    // character/, …). Presentational only; hrefs are untouched (see axisTags.inline.ts).
+    axisTagsScript,
   )
 
   if (cfg.analytics?.provider === "google") {

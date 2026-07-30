@@ -18,30 +18,47 @@ configuration:
   theme:
     fontOrigin: googleFonts
     cdnCaching: true
+    # Four families, four slots. NOTE the deliberate twist: the redesign needs a humanist
+    # sans for navigation, labels, chips and table heads, and a Caslon display cut for every
+    # heading — but Quartz only fetches the fonts named here. So `header` carries the UI sans
+    # (aliased to --ui-font in custom.scss) while headings are switched to --titleFont.
+    # Renaming these slots to match intuition would drop a family from the Google Fonts fetch.
     typography:
-      header: Fraunces
-      body: Source Sans 3
-      code: IBM Plex Mono
+      title:
+        name: Libre Caslon Display
+        weights: [400]
+      header:
+        name: Cabin
+        weights: [500, 600, 700]
+      body:
+        name: Libre Caslon Text
+        weights: [400, 700]
+        includeItalic: true
+      code:
+        name: IBM Plex Mono
+        weights: [400, 500, 600]
     colors:
       lightMode:
-        light: "#fbf6ee"
-        lightgray: "#e7ddcf"
-        gray: "#a99c88"
-        darkgray: "#5a5145"
-        dark: "#33302b"
-        secondary: "#c9785b"
-        tertiary: "#8a9a78"
-        highlight: rgba(201, 120, 91, 0.10)
+        light: "#faf5ec"
+        lightgray: "#dcd0bc"
+        gray: "#8a8070"
+        darkgray: "#4b4339"
+        dark: "#241f1a"
+        # was #c9785b: 2.9:1 on cream, below the 4.5:1 minimum for body text. This reads as
+        # the same terracotta and measures 5.4:1.
+        secondary: "#a4482f"
+        tertiary: "#4c6150"
+        highlight: rgba(164, 72, 47, 0.1)
         textHighlight: "#e8b88c88"
       darkMode:
-        light: "#23201c"
-        lightgray: "#3c372f"
-        gray: "#7f7565"
-        darkgray: "#d9cfbf"
-        dark: "#f2ebe0"
-        secondary: "#d98e6f"
-        tertiary: "#9cae88"
-        highlight: rgba(217, 142, 111, 0.12)
+        light: "#1b1815"
+        lightgray: "#3a352d"
+        gray: "#8f8474"
+        darkgray: "#ded4c4"
+        dark: "#f4ece0"
+        secondary: "#dc8f70"
+        tertiary: "#8fa88d"
+        highlight: rgba(220, 143, 112, 0.12)
         textHighlight: "#c9785b88"
 plugins:
   # ---- transformers ----
