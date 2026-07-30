@@ -39,6 +39,8 @@ tags:
 
 ## Capitoli / Chapters
 
+- [Act I, Scene 1](/testi/shakespeare/plays/titus_andronicus#act_1--scene_1)
+- [Act II, Scene 1](/testi/shakespeare/plays/titus_andronicus#act_2--scene_1)
 - [Act II, Scene 2](/testi/shakespeare/plays/titus_andronicus#act_2--scene_2)
 - [Act II, Scene 3](/testi/shakespeare/plays/titus_andronicus#act_2--scene_3)
 - [Act II, Scene 4](/testi/shakespeare/plays/titus_andronicus#act_2--scene_4)

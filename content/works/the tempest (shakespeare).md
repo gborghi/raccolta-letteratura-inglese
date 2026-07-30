@@ -59,6 +59,7 @@ tags:
 - [Act I, Scene 1](/testi/shakespeare/plays/the_tempest#act_1--scene_1)
 - [Act I, Scene 2](/testi/shakespeare/plays/the_tempest#act_1--scene_2)
 - [Act II, Scene 1](/testi/shakespeare/plays/the_tempest#act_2--scene_1)
+- [Act II, Scene 2](/testi/shakespeare/plays/the_tempest#act_2--scene_2)
 - [Act III, Scene 1](/testi/shakespeare/plays/the_tempest#act_3--scene_1)
 - [Act III, Scene 2](/testi/shakespeare/plays/the_tempest#act_3--scene_2)
 - [Act III, Scene 3](/testi/shakespeare/plays/the_tempest#act_3--scene_3)

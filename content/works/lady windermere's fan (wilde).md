@@ -51,6 +51,68 @@ tags:
 > [!abstract] 
 > Wilde's 1892 society comedy in four acts satirising Victorian morality through the rigid 'good woman' Lady Windermere and the worldly Mrs. Erlynne (her secret mother), built on the fan, the dropped reputation, and an epigrammatic dialogue that dissolves the line between good and bad women.
 
+## Testo / Text
+
+- [Lady Windermere's Fan](/testi/wilde/plays/lady_windermeres_fan#lady_windermeres_fan)
+
+## Parti / Parts
+
+- [Part 1](/testi/wilde/plays/lady_windermeres_fan#act_1--scene_1--part_01)
+- [Part 1](/testi/wilde/plays/lady_windermeres_fan#act_2--scene_1--part_01)
+- [Part 1](/testi/wilde/plays/lady_windermeres_fan#act_3--scene_1--part_01)
+- [Part 1](/testi/wilde/plays/lady_windermeres_fan#act_4--scene_1--part_01)
+- [Part 2](/testi/wilde/plays/lady_windermeres_fan#act_1--scene_1--part_02)
+- [Part 2](/testi/wilde/plays/lady_windermeres_fan#act_2--scene_1--part_02)
+- [Part 2](/testi/wilde/plays/lady_windermeres_fan#act_3--scene_1--part_02)
+- [Part 2](/testi/wilde/plays/lady_windermeres_fan#act_4--scene_1--part_02)
+- [Part 3](/testi/wilde/plays/lady_windermeres_fan#act_1--scene_1--part_03)
+- [Part 3](/testi/wilde/plays/lady_windermeres_fan#act_2--scene_1--part_03)
+- [Part 3](/testi/wilde/plays/lady_windermeres_fan#act_3--scene_1--part_03)
+- [Part 3](/testi/wilde/plays/lady_windermeres_fan#act_4--scene_1--part_03)
+- [Part 4](/testi/wilde/plays/lady_windermeres_fan#act_1--scene_1--part_04)
+- [Part 4](/testi/wilde/plays/lady_windermeres_fan#act_2--scene_1--part_04)
+- [Part 4](/testi/wilde/plays/lady_windermeres_fan#act_3--scene_1--part_04)
+- [Part 4](/testi/wilde/plays/lady_windermeres_fan#act_4--scene_1--part_04)
+- [Part 5](/testi/wilde/plays/lady_windermeres_fan#act_1--scene_1--part_05)
+- [Part 5](/testi/wilde/plays/lady_windermeres_fan#act_2--scene_1--part_05)
+- [Part 5](/testi/wilde/plays/lady_windermeres_fan#act_3--scene_1--part_05)
+- [Part 5](/testi/wilde/plays/lady_windermeres_fan#act_4--scene_1--part_05)
+- [Part 6](/testi/wilde/plays/lady_windermeres_fan#act_1--scene_1--part_06)
+- [Part 6](/testi/wilde/plays/lady_windermeres_fan#act_2--scene_1--part_06)
+- [Part 6](/testi/wilde/plays/lady_windermeres_fan#act_3--scene_1--part_06)
+- [Part 6](/testi/wilde/plays/lady_windermeres_fan#act_4--scene_1--part_06)
+- [Part 7](/testi/wilde/plays/lady_windermeres_fan#act_1--scene_1--part_07)
+- [Part 7](/testi/wilde/plays/lady_windermeres_fan#act_2--scene_1--part_07)
+- [Part 7](/testi/wilde/plays/lady_windermeres_fan#act_3--scene_1--part_07)
+- [Part 7](/testi/wilde/plays/lady_windermeres_fan#act_4--scene_1--part_07)
+- [Part 8](/testi/wilde/plays/lady_windermeres_fan#act_1--scene_1--part_08)
+- [Part 8](/testi/wilde/plays/lady_windermeres_fan#act_2--scene_1--part_08)
+- [Part 8](/testi/wilde/plays/lady_windermeres_fan#act_3--scene_1--part_08)
+- [Part 8](/testi/wilde/plays/lady_windermeres_fan#act_4--scene_1--part_08)
+- [Part 9](/testi/wilde/plays/lady_windermeres_fan#act_1--scene_1--part_09)
+- [Part 9](/testi/wilde/plays/lady_windermeres_fan#act_2--scene_1--part_09)
+- [Part 9](/testi/wilde/plays/lady_windermeres_fan#act_3--scene_1--part_09)
+- [Part 9](/testi/wilde/plays/lady_windermeres_fan#act_4--scene_1--part_09)
+- [Part 10](/testi/wilde/plays/lady_windermeres_fan#act_1--scene_1--part_10)
+- [Part 10](/testi/wilde/plays/lady_windermeres_fan#act_2--scene_1--part_10)
+- [Part 10](/testi/wilde/plays/lady_windermeres_fan#act_3--scene_1--part_10)
+- [Part 10](/testi/wilde/plays/lady_windermeres_fan#act_4--scene_1--part_10)
+- [Part 11](/testi/wilde/plays/lady_windermeres_fan#act_1--scene_1--part_11)
+- [Part 11](/testi/wilde/plays/lady_windermeres_fan#act_2--scene_1--part_11)
+- [Part 11](/testi/wilde/plays/lady_windermeres_fan#act_3--scene_1--part_11)
+- [Part 11](/testi/wilde/plays/lady_windermeres_fan#act_4--scene_1--part_11)
+- [Part 12](/testi/wilde/plays/lady_windermeres_fan#act_1--scene_1--part_12)
+- [Part 12](/testi/wilde/plays/lady_windermeres_fan#act_2--scene_1--part_12)
+- [Part 12](/testi/wilde/plays/lady_windermeres_fan#act_3--scene_1--part_12)
+- [Part 12](/testi/wilde/plays/lady_windermeres_fan#act_4--scene_1--part_12)
+- [Part 13](/testi/wilde/plays/lady_windermeres_fan#act_1--scene_1--part_13)
+- [Part 13](/testi/wilde/plays/lady_windermeres_fan#act_4--scene_1--part_13)
+- [Part 14](/testi/wilde/plays/lady_windermeres_fan#act_1--scene_1--part_14)
+- [Part 14](/testi/wilde/plays/lady_windermeres_fan#act_4--scene_1--part_14)
+- [Part 15](/testi/wilde/plays/lady_windermeres_fan#act_1--scene_1--part_15)
+- [Part 15](/testi/wilde/plays/lady_windermeres_fan#act_4--scene_1--part_15)
+- [Part 16](/testi/wilde/plays/lady_windermeres_fan#act_1--scene_1--part_16)
+
 ## Connections
 
 **Topoi:** [[Fall from Innocence]], [[World Upside Down]], [[Double]]

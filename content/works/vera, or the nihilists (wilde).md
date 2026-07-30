@@ -56,6 +56,63 @@ tags:
 > [!abstract] 
 > Wilde's first play, a melodramatic political tragedy set in Tsarist Russia about nihilist revolutionaries plotting to assassinate the Czar; Vera's sworn oath to renounce love and pity collides with her love for the Czarevitch, ending in self-sacrifice. Central themes: tyranny and revolution, love versus duty, oath and betrayal, martyrdom.
 
+## Testo / Text
+
+- [Vera, or The Nihilists](/testi/wilde/plays/vera_or_the_nihilists#vera_or_the_nihilists)
+
+## Parti / Parts
+
+- [Part 1](/testi/wilde/plays/vera_or_the_nihilists#act_1--scene_1--part_01)
+- [Part 1](/testi/wilde/plays/vera_or_the_nihilists#act_2--scene_1--part_01)
+- [Part 1](/testi/wilde/plays/vera_or_the_nihilists#act_3--scene_1--part_01)
+- [Part 1](/testi/wilde/plays/vera_or_the_nihilists#act_4--scene_1--part_01)
+- [Part 1](/testi/wilde/plays/vera_or_the_nihilists#prologue--scene_1--part_01)
+- [Part 2](/testi/wilde/plays/vera_or_the_nihilists#act_1--scene_1--part_02)
+- [Part 2](/testi/wilde/plays/vera_or_the_nihilists#act_2--scene_1--part_02)
+- [Part 2](/testi/wilde/plays/vera_or_the_nihilists#act_3--scene_1--part_02)
+- [Part 2](/testi/wilde/plays/vera_or_the_nihilists#act_4--scene_1--part_02)
+- [Part 2](/testi/wilde/plays/vera_or_the_nihilists#prologue--scene_1--part_02)
+- [Part 3](/testi/wilde/plays/vera_or_the_nihilists#act_1--scene_1--part_03)
+- [Part 3](/testi/wilde/plays/vera_or_the_nihilists#act_2--scene_1--part_03)
+- [Part 3](/testi/wilde/plays/vera_or_the_nihilists#act_3--scene_1--part_03)
+- [Part 3](/testi/wilde/plays/vera_or_the_nihilists#act_4--scene_1--part_03)
+- [Part 3](/testi/wilde/plays/vera_or_the_nihilists#prologue--scene_1--part_03)
+- [Part 4](/testi/wilde/plays/vera_or_the_nihilists#act_1--scene_1--part_04)
+- [Part 4](/testi/wilde/plays/vera_or_the_nihilists#act_2--scene_1--part_04)
+- [Part 4](/testi/wilde/plays/vera_or_the_nihilists#act_3--scene_1--part_04)
+- [Part 4](/testi/wilde/plays/vera_or_the_nihilists#act_4--scene_1--part_04)
+- [Part 4](/testi/wilde/plays/vera_or_the_nihilists#prologue--scene_1--part_04)
+- [Part 5](/testi/wilde/plays/vera_or_the_nihilists#act_1--scene_1--part_05)
+- [Part 5](/testi/wilde/plays/vera_or_the_nihilists#act_2--scene_1--part_05)
+- [Part 5](/testi/wilde/plays/vera_or_the_nihilists#act_3--scene_1--part_05)
+- [Part 5](/testi/wilde/plays/vera_or_the_nihilists#act_4--scene_1--part_05)
+- [Part 6](/testi/wilde/plays/vera_or_the_nihilists#act_1--scene_1--part_06)
+- [Part 6](/testi/wilde/plays/vera_or_the_nihilists#act_2--scene_1--part_06)
+- [Part 6](/testi/wilde/plays/vera_or_the_nihilists#act_3--scene_1--part_06)
+- [Part 6](/testi/wilde/plays/vera_or_the_nihilists#act_4--scene_1--part_06)
+- [Part 7](/testi/wilde/plays/vera_or_the_nihilists#act_1--scene_1--part_07)
+- [Part 7](/testi/wilde/plays/vera_or_the_nihilists#act_2--scene_1--part_07)
+- [Part 7](/testi/wilde/plays/vera_or_the_nihilists#act_3--scene_1--part_07)
+- [Part 7](/testi/wilde/plays/vera_or_the_nihilists#act_4--scene_1--part_07)
+- [Part 8](/testi/wilde/plays/vera_or_the_nihilists#act_1--scene_1--part_08)
+- [Part 8](/testi/wilde/plays/vera_or_the_nihilists#act_2--scene_1--part_08)
+- [Part 8](/testi/wilde/plays/vera_or_the_nihilists#act_3--scene_1--part_08)
+- [Part 8](/testi/wilde/plays/vera_or_the_nihilists#act_4--scene_1--part_08)
+- [Part 9](/testi/wilde/plays/vera_or_the_nihilists#act_1--scene_1--part_09)
+- [Part 9](/testi/wilde/plays/vera_or_the_nihilists#act_2--scene_1--part_09)
+- [Part 9](/testi/wilde/plays/vera_or_the_nihilists#act_3--scene_1--part_09)
+- [Part 9](/testi/wilde/plays/vera_or_the_nihilists#act_4--scene_1--part_09)
+- [Part 10](/testi/wilde/plays/vera_or_the_nihilists#act_1--scene_1--part_10)
+- [Part 10](/testi/wilde/plays/vera_or_the_nihilists#act_2--scene_1--part_10)
+- [Part 10](/testi/wilde/plays/vera_or_the_nihilists#act_3--scene_1--part_10)
+- [Part 10](/testi/wilde/plays/vera_or_the_nihilists#act_4--scene_1--part_10)
+- [Part 11](/testi/wilde/plays/vera_or_the_nihilists#act_1--scene_1--part_11)
+- [Part 11](/testi/wilde/plays/vera_or_the_nihilists#act_2--scene_1--part_11)
+- [Part 11](/testi/wilde/plays/vera_or_the_nihilists#act_4--scene_1--part_11)
+- [Part 12](/testi/wilde/plays/vera_or_the_nihilists#act_2--scene_1--part_12)
+- [Part 12](/testi/wilde/plays/vera_or_the_nihilists#act_4--scene_1--part_12)
+- [Part 13](/testi/wilde/plays/vera_or_the_nihilists#act_2--scene_1--part_13)
+
 ## Connections
 
 **Topoi:** [[World Upside Down]], [[Love as Religion]], [[Love-Death (Liebestod)]]

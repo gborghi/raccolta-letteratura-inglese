@@ -86,13 +86,28 @@ function formatFontSpecification(
 }
 
 export function googleFontHref(theme: Theme) {
-  const { header, body, code } = theme.typography
+  const { title, header, body, code } = theme.typography
   const headerFont = formatFontSpecification("header", header)
   const bodyFont = formatFontSpecification("body", body)
   const codeFont = formatFontSpecification("code", code)
 
-  return `https://fonts.googleapis.com/css2?family=${headerFont}&family=${bodyFont}&family=${codeFont}&display=swap`
+  // The title family is fetched WHOLE, deliberately — see googleFontSubsetHref below for
+  // what upstream does instead and why it cannot work here.
+  const titleFont = title ? `&family=${formatFontSpecification("title", title)}` : ""
+
+  return `https://fonts.googleapis.com/css2?family=${headerFont}&family=${bodyFont}&family=${codeFont}${titleFont}&display=swap`
 }
+
+// Upstream Quartz asks Google for the title face with `text=<site title>`, i.e. only the
+// glyphs the wordmark needs — a sound optimisation *if* the face is used for the wordmark
+// and nothing else. This site sets every heading in the Caslon display cut, and the subset
+// is built from a constant (cfg.pageTitle), so the same letters were missing site-wide:
+// "English Literature — A Knowledge Graph" contains no c, m, y, b, f, v, x, z, no digits
+// and almost no punctuation. Those characters had no glyph in the downloaded file and the
+// browser substituted the system sans for each one individually — Caslon and Segoe UI
+// interleaved inside single words, which is what "the c and m look wrong" was.
+// Kept for reference and for anyone restoring the upstream behaviour; Head.tsx and
+// componentResources.ts no longer call it.
 
 export function googleFontSubsetHref(theme: Theme, text: string) {
   const title = theme.typography.title || theme.typography.header

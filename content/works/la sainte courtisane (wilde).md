@@ -44,6 +44,20 @@ tags:
 > [!abstract] 
 > Unfinished verse-drama in which the courtesan Myrrhina and the hermit Honorius exchange fates: she converts in the desert while he turns toward sin, dramatizing faith versus desire.
 
+## Testo / Text
+
+- [La Sainte Courtisane](/testi/wilde/plays/la_sainte_courtisane#la_sainte_courtisane)
+
+## Parti / Parts
+
+- [Part 1](/testi/wilde/plays/la_sainte_courtisane#act_1--scene_1--part_01)
+- [Part 2](/testi/wilde/plays/la_sainte_courtisane#act_1--scene_1--part_02)
+- [Part 3](/testi/wilde/plays/la_sainte_courtisane#act_1--scene_1--part_03)
+- [Part 4](/testi/wilde/plays/la_sainte_courtisane#act_1--scene_1--part_04)
+- [Part 5](/testi/wilde/plays/la_sainte_courtisane#act_1--scene_1--part_05)
+- [Part 6](/testi/wilde/plays/la_sainte_courtisane#act_1--scene_1--part_06)
+- [Part 7](/testi/wilde/plays/la_sainte_courtisane#act_1--scene_1--part_07)
+
 ## Connections
 
 **Topoi:** [[Contemptus Mundi]], [[Love as Religion]], [[World Upside Down]]

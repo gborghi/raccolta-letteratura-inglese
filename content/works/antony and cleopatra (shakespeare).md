@@ -82,6 +82,7 @@ tags:
 - [Act IV, Scene 10](/testi/shakespeare/plays/antony_and_cleopatra#act_4--scene_10)
 - [Act IV, Scene 11](/testi/shakespeare/plays/antony_and_cleopatra#act_4--scene_11)
 - [Act IV, Scene 12](/testi/shakespeare/plays/antony_and_cleopatra#act_4--scene_12)
+- [Act IV, Scene 13](/testi/shakespeare/plays/antony_and_cleopatra#act_4--scene_13)
 - [Act IV, Scene 14](/testi/shakespeare/plays/antony_and_cleopatra#act_4--scene_14)
 - [Act IV, Scene 15](/testi/shakespeare/plays/antony_and_cleopatra#act_4--scene_15)
 - [Act IV, Scene 16](/testi/shakespeare/plays/antony_and_cleopatra#act_4--scene_16)

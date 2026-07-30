@@ -37,7 +37,6 @@ import { QuartzComponent } from "../../components/types"
 import { componentRegistry } from "../../components/registry"
 import {
   googleFontHref,
-  googleFontSubsetHref,
   joinStyles,
   processGoogleFonts,
 } from "../../util/theme"
@@ -346,14 +345,11 @@ export const ComponentResources: QuartzEmitterPlugin = () => {
       } else if (cfg.theme.fontOrigin === "googleFonts" && !cfg.theme.cdnCaching) {
         // when cdnCaching is true, we link to google fonts in Head.tsx
         const theme = ctx.cfg.configuration.theme
+        // googleFontHref now carries the title family in full, so the second, glyph-subset
+        // request that used to follow here is gone — it would redefine the same family with
+        // only the site title's letters and, being appended last, win the CSS font match.
         const response = await fetch(googleFontHref(theme))
         googleFontsStyleSheet = await response.text()
-
-        if (theme.typography.title) {
-          const title = ctx.cfg.configuration.pageTitle
-          const response = await fetch(googleFontSubsetHref(theme, title))
-          googleFontsStyleSheet += `\n${await response.text()}`
-        }
 
         if (!cfg.baseUrl) {
           throw new Error(

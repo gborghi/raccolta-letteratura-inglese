@@ -1500,6 +1500,80 @@ Now turn we towards your comforts.
 
 
 
+<span class="atom-split" data-atom="act_1--scene_1" data-title="The Two Noble Kinsmen — Act I, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="archetype/child,archetype/fool,archetype/king,archetype/shadow,motif/blood,motif/death,motif/dreams,motif/dust,motif/flowers,motif/lion,motif/love,motif/moon,motif/nature,motif/night,motif/tears,motif/time,concept/honour,concept/hope,concept/longing,concept/mercy,concept/nature,concept/revenge,character/emilia,character/hippolyta,character/queen,character/theseus"></span>
+
+
+| Speaker | Line |
+|---|---|
+| *(didascalia)* | Music. Enter Hymen with a torch burning, a Boy in a white robe before, singing and strewing [[Flowers\|flowers]]. After Hymen, a nymph encompassed in her tresses, bearing a wheaten garland. Then [[Theseus]] between two other nymphs with wheaten chaplets on their heads. Then [[Hippolyta]], the bride, led by Pirithous and another holding a garland over her head, her tresses likewise hanging. After her, [[Emilia]] holding up her train. Then Artesius and other attendants |
+| BOY | (sings during procession)<br>Roses, their sharp spines being gone,<br>Not royal in their smells [[Alone\|alone]],<br>But in their hue;<br>Maiden pinks, of odour faint,<br>Daisies smell-less, yet most quaint,<br>And sweet thyme true;<br>Primrose, first-born [[Child\|child]] of Ver,<br>Merry springtime’s harbinger,<br>With harebells dim;<br>Oxlips, in their cradles growing,<br>Marigolds, on deathbeds blowing,<br>Lark’s-heels trim;<br>All dear [[Nature\|nature]]’s children sweet,<br>Lie fore bride and bridegroom’s feet,<br>He strews [[Flowers\|flowers]]<br>Blessing their sense.<br>Not an angel of the air,<br>Bird melodious, or bird fair,<br>Is absent hence.<br>The crow, the sland’rous cuckoo, nor<br>The boding raven, nor chough hoar,<br>Nor chatt’ring pie,<br>May on our bridehouse perch or sing,<br>Or with them any discord bring,<br>But from it fly. |
+| *(didascalia)* | Enter three Queens in black, with veils stained, with imperial crowns. The First [[Queen]] falls down at the foot of [[Theseus]]; the Second falls down at the foot of [[Hippolyta]]; the Third, before [[Emilia]] |
+| FIRST [[Queen\|QUEEN]] | (to [[Theseus]])<br>For pity’s sake and true gentility’s,<br>Hear and respect me. |
+| SECOND [[Queen\|QUEEN]] | (to [[Hippolyta]])<br>For your mother’s sake, And as you wish your womb may thrive with fair ones,<br>Hear and respect me. |
+| THIRD [[Queen\|QUEEN]] | (to [[Emilia]])<br>Now for the [[Love\|love]] of him whom Jove hath marked<br>The [[Honour\|honour]] of your bed, and for the sake<br>Of clear virginity, be advocate<br>For us and our distresses. This good deed<br>Shall raze you out o’th’ Book of Trespasses<br>All you are set down there. |
+| [[Theseus\|THESEUS]] | (to First [[Queen]])<br>Sad lady, rise. |
+| [[Hippolyta\|HIPPOLYTA]] | (to Second [[Queen]]) Stand up. |
+| [[Emilia\|EMILIA]] | (to Third [[Queen]])<br>No knees to me. What woman I may stead that is distressed<br>Does bind me to her. |
+| [[Theseus\|THESEUS]] | (to First [[Queen]])<br>What’s your request? Deliver you for all. |
+| *(didascalia)* | FIRST [[Queen\|QUEEN]] kneeling still |
+| [[Theseus\|THESEUS]] | We are three queens whose sovereigns fell before<br>The wrath of cruel Creon; who endured<br>The beaks of ravens, talons of the kites,<br>And pecks of crows in the foul fields of Thebes.<br>He will not suffer us to burn their bones,<br>To urn their ashes, nor to take th‘offence<br>Of mortal loathsomeness from the blest eye<br>Of holy Phoebus, but infects the winds<br>With stench of our slain lords. O pity, Duke!<br>Thou purger of the earth, draw thy feared [[Sword\|sword]]<br>That does good turns to’th’ world; give us the bones<br>Of our dead kings that we may chapel them;<br>And of thy boundless goodness take some note<br>That for our crowned heads we have no roof,<br>Save this, which is the [[Lion\|lion]]’s and the bear’s,<br>And vault to everything. |
+| [[Theseus\|THESEUS]] | Pray you, kneel not: I was transported with your speech, and suffered<br>Your knees to wrong themselves. I have heard the<br>fortunes<br>Of your dead lords, which gives me such lamenting<br>As wakes my vengeance and [[Revenge\|revenge]] for ’em.<br>[[King]] Capaneus was your lord: the day<br>That he should marry you—at such a season<br>As now it is with me—I met your groom<br>By Mars’s altar. You were that [[Time\|time]] fair,<br>Not Juno’s mantle fairer than your tresses,<br>Nor in more bounty spread her. Your wheaten wreath<br>Was then nor threshed nor blasted; fortune at you 6<br>Dimpled her cheek with smiles; Hercules our<br>kinsman—<br>Then weaker than your eyes—laid by his club.<br>He tumbled down upon his Nemean hide<br>And swore his sinews thawed. O grief and [[Time\|time]],<br>Fearful consumers, you will all devour. |
+| *(didascalia)* | FIRST [[Queen\|QUEEN]] kneeling still |
+| [[Theseus\|THESEUS]] | O, I [[Hope\|hope]] some god, Some god hath put his [[Mercy\|mercy]] in your manhood,<br>Whereto he’ll infuse power and press you forth<br>Our undertaker. |
+| [[Theseus\|THESEUS]] | O no knees, none, widow: |
+| *(didascalia)* | The First [[Queen]] |
+| *(didascalia)* | rises |
+| [[Theseus\|THESEUS]] | Unto the helmeted Bellona use them<br>And pray for me, your soldier. Troubled I am.<br>He turns away |
+| *(didascalia)* | SECOND [[Queen\|QUEEN]] kneeling still |
+| [[Theseus\|THESEUS]] | Honoured [[Hippolyta]], Most dreaded Amazonian, that hast slain<br>The scythe-tusked boar, that with thy arm, as strong<br>As it is white, wast near to make the male<br>To thy sex captive, but that this, thy lord—<br>Born to uphold creation in that [[Honour\|honour]]<br>First [[Nature\|nature]] styled it in—shrunk thee into<br>The bound thou wast o‘erflowing, at once subduing<br>Thy force and thy affection; soldieress,<br>That equally canst poise sternness with pity,<br>Whom now I know hast much more power on him<br>Than ever he had on thee, who ow’st his strength,<br>And his [[Love\|love]] too, who is a servant for<br>The tenor of thy speech; dear glass of ladies,<br>Bid him that we, whom flaming war doth scorch,<br>Under the [[Shadow\|shadow]] of his [[Sword\|sword]] may cool us.<br>Require him he advance it o‘er our heads.<br>Speak’t in a woman’s key, like such a woman<br>As any of us three. Weep ere you fail.<br>Lend us a knee:<br>But touch the ground for us no longer [[Time\|time]]<br>Than a dove’s motion when the head’s plucked off.<br>Tell him, if he i’th’ [[Blood\|blood]]-sized field lay swoll’n,<br>Showing the sun his teeth, grinning at the [[Moon\|moon]],<br>What you would do. |
+| [[Hippolyta\|HIPPOLYTA]] | Poor lady, say no more.<br>I had as lief trace this good action with you<br>As that whereto I am going, and never yet<br>Went I so willing way. My lord is taken<br>Heart-deep with your distress. Let him consider.<br>I’ll speak anon. |
+| *(didascalia)* | The Second [[Queen]] rises |
+| *(didascalia)* | THIRD [[Queen\|QUEEN]] (kneeling still to [[Emilia]]) |
+| [[Hippolyta\|HIPPOLYTA]] | O, my petition was<br>Set down in ice, which by hot grief uncandied<br>Melts into drops; so sorrow, wanting form,<br>Is pressed with deeper matter. |
+| [[Emilia\|EMILIA]] | Pray stand up:<br>Your grief is written in your cheek. |
+| THIRD [[Queen\|QUEEN]] | O woe,<br>You cannot read it there; there, through my [[Tears\|tears]],<br>Like wrinkled pebbles in a glassy stream,<br>You may behold ’em. |
+| *(didascalia)* | The |
+| THIRD [[Queen\|QUEEN]] | Third [[Queen]] |
+| *(didascalia)* | rises |
+| THIRD [[Queen\|QUEEN]] | Lady, lady, alack—<br>He that will all the treasure know o’th’ earth<br>Must know the centre too; he that will fish<br>For my least minnow, let him lead his line<br>To catch one at my heart. O, pardon me:<br>Extremity, that sharpens sundry wits,<br>Makes me a [[Fool\|fool]]. |
+| [[Emilia\|EMILIA]] | Pray you, say nothing, pray you.<br>Who cannot feel nor see the rain, being in’t,<br>Knows neither wet nor dry. If that you were<br>The ground-piece of some painter, I would buy you<br>T’instruct me ’gainst a capital grief, indeed<br>Such heart-pierced demonstration; but, alas,<br>Being a natural sister of our sex,<br>Your sorrow beats so ardently upon me<br>That it shall make a counter-reflect ’gainst<br>My brother’s heart, and warm it to some pity,<br>Though it were made of stone. Pray have good<br>comfort. |
+| [[Theseus\|THESEUS]] | Forward to th’ temple. Leave not out a jot<br>O’th’ sacred ceremony. |
+| FIRST [[Queen\|QUEEN]] | O, this celebration<br>Will longer last and be more costly than<br>Your suppliants’ war. Remember that your fame<br>Knolls in the ear o’th’ world: what you do quickly<br>Is not done rashly; your first thought is more<br>Than others’ laboured meditance; your premeditating<br>More than their actions. But, O Jove, your actions,<br>Soon as they move, as ospreys do the fish,<br>Subdue before they touch. Think, dear Duke, think<br>What beds our slain kings have. |
+| SECOND [[Queen\|QUEEN]] | What griefs our beds,<br>That our dear lords have none. |
+| THIRD [[Queen\|QUEEN]] | None fit for th’ dead.<br>Those that with cords, knives, drams, precipitance,<br>Weary of this world’s light, have to themselves<br>Been [[Death\|death]]’s most horrid agents, human grace<br>Affords them [[Dust\|dust]] and [[Shadow\|shadow]]. |
+| FIRST [[Queen\|QUEEN]] | But our lords<br>Lie blist’ring fore the visitating sun,<br>And were good kings, when living. |
+| [[Theseus\|THESEUS]] | It is true,<br>And I will give you comfort to give your dead lords<br>graves,<br>The which to do must make some work with Creon. |
+| FIRST [[Queen\|QUEEN]] | And that work presents itself to th’ doing.<br>Now ’twill take form, the heats are gone tomorrow.<br>Then, bootless toil must recompense itself<br>With its own sweat; now he’s secure,<br>Not [[Dreams\|dreams]] we stand before your puissance<br>Rinsing our holy begging in our eyes<br>To make petition clear. |
+| SECOND [[Queen\|QUEEN]] | Now you may take him,<br>Drunk with his victory. |
+| THIRD [[Queen\|QUEEN]] | And his army full<br>Of bread and sloth. |
+| [[Theseus\|THESEUS]] | Artesius, that best knowest How to draw out, fit to this enterprise<br>The prim’st for this proceeding and the number<br>To carry such a business: forth and levy<br>Our worthiest instruments, whilst we dispatch<br>This grand act of our life, this daring deed<br>Of fate in wedlock. |
+| FIRST [[Queen\|QUEEN]] | (to the other two Queens)<br>Dowagers, take hands;<br>Let us be widows to our woes; delay<br>Commends us to a famishing [[Hope\|hope]]. |
+| ALL THREE QUEENS | Farewell. |
+| SECOND [[Queen\|QUEEN]] | We come unseasonably, but when could grief<br>Cull forth, as unpanged judgement can, fitt’st [[Time\|time]]<br>For best solicitation? |
+| [[Theseus\|THESEUS]] | Why, good ladies,<br>This is a service whereto I am going<br>Greater than any war—it more imports me<br>Than all the actions that I have foregone,<br>Or futurely can cope. |
+| FIRST [[Queen\|QUEEN]] | The more proclaiming<br>Our suit shall be neglected when her arms,<br>Able to lock Jove from a synod, shall<br>By warranting moonlight corslet thee! O when<br>Her twinning cherries shall their sweetness fall<br>Upon thy tasteful lips, what wilt thou think<br>Of rotten kings or blubbered queens? What care<br>For what thou feel’st not, what thou feel’st being able<br>To make Mars spurn his drum? O, if thou couch<br>But one [[Night\|night]] with her, every hour in’t will<br>Take hostage of thee for a hundred, and<br>Thou shalt remember nothing more than what<br>That banquet bids thee to. |
+| [[Hippolyta\|HIPPOLYTA]] | (to [[Theseus]])<br>Though much unlike<br>You should be so transported, as much sorry<br>I should be such a suitor—yet I think<br>Did I not by th’abstaining of my joy,<br>Which breeds a deeper [[Longing\|longing]], cure their surfeit<br>That craves a present medicine, I should pluck |
+| *(didascalia)* | All ladies’ scandal on me. Kneels Therefore, sir, |
+| [[Hippolyta\|HIPPOLYTA]] | As I shall here make trial of my prayers,<br>Either presuming them to have some force,<br>Or sentencing for aye their vigour dumb,<br>Prorogue this business we are going about, and hang<br>Your shield afore your heart—about that neck<br>Which is my fee, and which I freely lend<br>To do these poor queens service. |
+| ALL THREE QUEENS | (to [[Emilia]])<br>O, help now,<br>Our cause cries for your knee. |
+| [[Emilia\|EMILIA]] | (kneels to [[Theseus]])<br>If you grant not<br>My sister her petition in that force<br>With that celerity and [[Nature\|nature]] which<br>She makes it in, from henceforth I’ll not dare<br>To ask you anything, nor be so hardy<br>Ever to take a husband. |
+| [[Theseus\|THESEUS]] | Pray stand up. |
+| *(didascalia)* | They rise |
+| [[Theseus\|THESEUS]] | I am entreating of myself to do<br>That which you kneel to have me.—Pirithous,<br>Lead on the bride: get you and pray the gods<br>For [[success]] and return; omit not anything<br>In the pretended celebration.—Queens,<br>Follow your soldier. (To Artesius) As before, hence you,<br>And at the banks of Aulis meet us with<br>The forces you can raise, where we shall find<br>The moiety of a number for a business<br>More bigger looked. |
+| *(didascalia)* | Exit Artesius |
+| [[Theseus\|THESEUS]] | (To [[Hippolyta]]) Since that our theme is haste,<br>I stamp this kiss upon thy current lip—<br>Sweet, keep it as my token. (To the wedding party) Set<br>you forward,<br>For I will see you gone.<br>(To [[Emilia]]) Farewell, my beauteous sister.—Pirithous,<br>Keep the feast full: bate not an hour on’t. |
+| PIRITHOUS | Sir,<br>I’ll follow you at heels. The feast’s solemnity<br>Shall want till your return. |
+| [[Theseus\|THESEUS]] | Cousin, I charge you<br>Budge not from Athens. We shall be returning<br>Ere you can end this feast, of which, I pray you,<br>Make no abatement.—Once more, farewell all. |
+| *(didascalia)* | Exeunt [[Hippolyta]], [[Emilia]], Pirithous, and train towards the temple |
+| FIRST [[Queen\|QUEEN]] | Thus dost thou still make good the tongue o’th’ world. |
+| SECOND [[Queen\|QUEEN]] | And earn’st a deity equal with Mars— |
+| THIRD [[Queen\|QUEEN]] | If not above him, for Thou being but mortal mak’st affections bend<br>To godlike honours; they themselves, some say,<br>Groan under such a mast’ry. |
+| [[Theseus\|THESEUS]] | As we are men,<br>Thus should we do; being sensually subdued<br>We lose our human title. Good cheer, ladies.<br>Now turn we towards your comforts. |
+| *(didascalia)* | Flourish. Exeunt |
+
+
+
+
 <span class="atom-split" data-atom="act_1--scene_2" data-title="The Two Noble Kinsmen — Act I, Scene 2" data-chapter="Scene 2" data-kind="scene" data-tags="archetype/king,archetype/tyrant,motif/blood,motif/city,motif/horse,motif/love,motif/nature,concept/faith,concept/fear,concept/honour,concept/jealousy,concept/mercy,concept/nature,setting/court,character/arcite,character/palamon,character/theseus"></span>
 
 
@@ -2235,7 +2309,7 @@ Now turn we towards your comforts.
 
 
 
-<span class="atom-split" data-atom="act_4--scene_1" data-title="The Two Noble Kinsmen — Act IV, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="archetype/child,archetype/fool,archetype/innocent,archetype/lover,archetype/shadow,motif/blood,motif/city,motif/cross,motif/dance,motif/death,motif/fire,motif/flowers,motif/home,motif/lion,motif/love,motif/marriage,motif/nature,motif/night,motif/ship,motif/sleep,motif/soul,motif/time,motif/well,motif/wind,concept/beauty,concept/body,concept/conscience,concept/doubt,concept/faith,concept/fear,concept/honour,concept/hope,concept/longing,concept/nature,setting/court,setting/ship,character/arcite,character/cynthia,character/diana,character/emilia,character/hippolyta,character/palamon,character/theseus"></span>
+<span class="atom-split" data-atom="act_4--scene_1" data-title="The Two Noble Kinsmen — Act IV, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="archetype/child,archetype/fool,archetype/innocent,motif/city,motif/cross,motif/dance,motif/flowers,motif/home,motif/love,motif/marriage,motif/night,motif/ship,motif/sleep,motif/soul,motif/time,motif/well,motif/wind,concept/fear,concept/hope,concept/longing,setting/ship,character/cynthia,character/hippolyta,character/palamon,character/theseus"></span>
 
 
 | Speaker | Line |
@@ -2330,7 +2404,16 @@ Now turn we towards your comforts.
 | SECOND FRIEND | A fair wood. |
 | JAILER’S DAUGHTER | Bear for it, master.<br>Tack about!<br>(Sings) ‘When [[Cynthia]] with her borrowed light ...’ |
 | *(didascalia)* | Exeunt |
-| *(didascalia)* | 4.2 Enter [[Emilia]], with two pictures |
+
+
+
+
+<span class="atom-split" data-atom="act_4--scene_2" data-title="The Two Noble Kinsmen — Act IV, Scene 2" data-chapter="Scene 2" data-kind="scene" data-tags="archetype/child,archetype/fool,archetype/lover,archetype/shadow,motif/blood,motif/cross,motif/death,motif/fire,motif/lion,motif/love,motif/nature,motif/soul,motif/well,concept/beauty,concept/body,concept/conscience,concept/doubt,concept/faith,concept/fear,concept/honour,concept/nature,setting/court,character/arcite,character/diana,character/emilia,character/hippolyta,character/palamon,character/theseus"></span>
+
+
+| Speaker | Line |
+|---|---|
+| *(didascalia)* | Enter [[Emilia]], with two pictures |
 | [[Emilia\|EMILIA]] | Yet I may bind those wounds up that must open<br>And bleed to [[Death\|death]] for my sake else—I’ll choose,<br>And end their strife. Two such young handsome men<br>Shall never fall for me; their weeping mothers<br>Following the dead cold ashes of their sons,<br>Shall never curse my cruelty. Good heaven,<br>What a sweet face has Arcitel If wise [[Nature\|nature]],<br>With all her best endowments, all those beauties<br>She sows into the births of noble bodies,<br>Were here a mortal woman and had in her<br>The coy denials of young maids, yet doubtless<br>She would run mad for this man. What an eye,<br>Of what a fiery sparkle and quick sweetness<br>Has this young prince! Here [[Love\|love]] himself sits smiling!<br>Just such another wanton Ganymede<br>Set Jove afire once, and enforced the god<br>Snatch up the goodly boy and set him by him,<br>A shining constellation. What a brow,<br>Of what a spacious majesty, he carries!<br>Arched like the great-eyed Juno’s, but far sweeter,<br>Smoother than Pelops’ shoulder! Fame and [[Honour\|honour]],<br>Methinks, from hence, as from a promontory<br>Pointed in heaven, should clap their wings and sing<br>To all the under world the loves and fights<br>Of gods, and such men near ’em. [[Palamon]]<br>Is but his foil; to him a mere dull [[Shadow\|shadow]];<br>He’s swart and meagre, of an eye as heavy<br>As if he had lost his mother; a still temper,<br>No stirring in him, no alacrity,<br>Of all this sprightly sharpness, not a smile.<br>Yet these that we count errors may become him:<br>Narcissus was a sad boy, but a heavenly.<br>O, who can find the bent of woman’s fancy?<br>I am a [[Fool\|fool]], my reason is lost in me,<br>I have no choice, and I have lied so lewdly<br>That women ought to beat me. On my knees<br>I ask thy pardon, [[Palamon]], thou art [[Alone\|alone]]<br>And only beautiful, and these the eyes,<br>These the bright lamps of [[Beauty\|beauty]], that command<br>And threaten [[Love\|love]]—and what young maid dare [[Cross\|cross]]<br>’em?<br>What a bold gravity, and yet inviting,<br>Has this brown manly face? O, [[Love\|love]], this only<br>From this hour is complexion. Lie there, [[Arcite]],<br>Thou art a changeling to him, a mere gypsy,<br>And this the noble [[Body\|body]]. I am sotted,<br>Utterly lost—my virgin’s [[Faith\|faith]] has fled me.<br>For if my brother, but even now, had asked me<br>Whether I loved, I had run mad for [[Arcite]];<br>Now if my sister, more for [[Palamon]].<br>Stand both together. Now come ask me, brother—<br>Alas, I know not; ask me now, sweet sister—<br>I may go look. What a mere [[Child\|child]] is fancy,<br>That having two fair gauds of equal sweetness,<br>Cannot distinguish, but must cry for both! |
 | *(didascalia)* | Enter a Gentlemanl |
 | [[Emilia\|EMILIA]] | How now, sir? |
@@ -2379,7 +2462,7 @@ Now turn we towards your comforts.
 
 
 
-<span class="atom-split" data-atom="act_4--scene_3" data-title="The Two Noble Kinsmen — Act IV, Scene 3" data-chapter="Scene 3" data-kind="scene" data-tags="archetype/child,motif/blood,motif/city,motif/crown,motif/desire,motif/fire,motif/flowers,motif/garden,motif/love,motif/memory,motif/moon,motif/prison,motif/sleep,motif/soul,motif/stars,motif/time,motif/well,concept/doubt,concept/faith,concept/fear,concept/honour,concept/hope,concept/madness,concept/melancholy,concept/truth,character/arcite,character/emilia,character/hippolyta,character/palamon,character/queen,character/speed,character/theseus,character/witch"></span>
+<span class="atom-split" data-atom="act_4--scene_3" data-title="The Two Noble Kinsmen — Act IV, Scene 3" data-chapter="Scene 3" data-kind="scene" data-tags="archetype/child,motif/city,motif/desire,motif/fire,motif/flowers,motif/garden,motif/love,motif/moon,motif/prison,motif/sleep,motif/soul,motif/stars,motif/time,concept/doubt,concept/faith,concept/hope,concept/madness,concept/melancholy,concept/truth,character/emilia,character/palamon,character/witch"></span>
 
 
 | Speaker | Line |
@@ -2408,7 +2491,16 @@ Now turn we towards your comforts.
 | WOOER | I did think so too, and would account I had a great penn’orth on’t to give half my state that both she and I, at this present, stood unfeignedly on the same terms. 66 |
 | DOCTOR | That intemperate surfeit of her eye hath distempered the other senses. They may return and settle again to execute their preordained faculties, but they are now in a most extravagant vagary. This you must do: confine her to a place where the light may rather seem to steal in than be permitted; take upon you, young sir her friend, the name of [[Palamon]]; say you come to eat with her and to commune of [[Love\|love]]. This will catch her attention, for this her mind beats upon—other objects that are inserted ’tween her mind and eye become the pranks and friskins of her [[Madness\|madness]]. Sing to her such green [[songs]] of [[Love\|love]] as she says [[Palamon]] hath sung in [[Prison\|prison]]; come to her stuck in as sweet [[Flowers\|flowers]] as the season is mistress of, and thereto make an addition of some other compounded odours which are grateful to the sense. All this shall become [[Palamon]], for [[Palamon]] can sing, and [[Palamon]] is sweet and every good thing. [[Desire]] to eat with her, carve her, drink to her, and still among intermingle your petition of grace and acceptance into her favour. Learn what maids have been her companions and playferes, and let them repair to her, with [[Palamon]] in their mouths, and appear with tokens as if they suggested for him. It is a falsehood she is in, which is with falsehoods to be combated. This may bring her to eat, to [[Sleep\|sleep]], and reduce what’s now out of square in her into their former law and regiment. I have seen it approved, how many times I know not, but to make the number more I have great [[Hope\|hope]] in this. I will between the passages of this project come in with my appliance. Let us put it in execution, and hasten the [[success]], which [[Doubt\|doubt]] not will bring forth comfort. |
 | *(didascalia)* | Exeunt |
-| *(didascalia)* | 5.1 An altar prepared. Flourish. Enter [[Theseus]], Pirithous, [[Hippolyta]], attendants |
+
+
+
+
+<span class="atom-split" data-atom="act_5--scene_1" data-title="The Two Noble Kinsmen — Act V, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="motif/blood,motif/crown,motif/flowers,motif/love,motif/memory,motif/well,concept/fear,concept/honour,character/arcite,character/hippolyta,character/palamon,character/queen,character/speed,character/theseus"></span>
+
+
+| Speaker | Line |
+|---|---|
+| *(didascalia)* | An altar prepared. Flourish. Enter [[Theseus]], Pirithous, [[Hippolyta]], attendants |
 | [[Theseus\|THESEUS]] | Now let ’em enter and before the gods<br>Tender their holy prayers. Let the temples<br>Burn bright with sacred fires, and the altars<br>In hallowed clouds commend their swelling incense<br>To those above us. Let no due be wanting. |
 | *(didascalia)* | Flourish of cornetts |
 | [[Theseus\|THESEUS]] | They have a noble work in hand, will [[Honour\|honour]]<br>The very powers that [[Love\|love]] ’em. |

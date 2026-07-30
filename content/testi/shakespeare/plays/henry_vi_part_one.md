@@ -1045,13 +1045,6 @@ The First Part of Henry the Sixth
 | *(didascalia)* | Exit with Exeter |
 | [[Gloucester\|GLOUCESTER]] | Ay, grief, I [[Fear\|fear]] me, both at first and last. Exit |
 | SIIEFOLK | Thus Suffolk hath prevailed, and thus he goes<br>As did the youthful [[Paris]] once to Greece,<br>With [[Hope\|hope]] to find the like event in [[Love\|love]],<br>But prosper better than the Trojan did.<br>Margaret shall now be [[Queen\|queen]] and rule the [[King]];<br>But I will rule both her, the [[King]], and realm. Exit |
-| BY WILLIAM | SHAKESPEARE, WITH GEORGE PEELE |
-| SHAKESPEARE’S | first, most sensation-packed [[Tragedy\|tragedy]] appeared in print, anonymously, in 1594, and a performance record dating from January of that year appears to indicate that it was then a new play. But according to its title-page it had been acted by three companies, one of which was bankrupt by the [[Summer\|summer]] of 1593; and the play’s style, too, suggests that it was written earlier. During the later part of the twentieth century, scholars increasingly came round to the view that George Peele had a hand in, especially, the first act of the play. Shakespeare seems to have added a scene after its earliest performances, for Act 3, Scene 2 was first printed in the 1623 Folio. The 1594 performance record may refer to the revised play, not the original, or to the play’s first [[London]] performance after plague had closed the theatres from June 1592.<br>By convention, Elizabethan tragedies treated historical subjects, and [[Titus Andronicus]] is set in Rome during the fourth century AD; but its story (like that of Shakespeare’s other early [[Tragedy\|tragedy]], [[Romeo]] and [[Juliet]]) is fictitious. Whether Shakespeare invented it is an open question: the same tale is told in both a ballad and a chap-book which survive only in eighteenth-century versions but which could derive from pre-Shakespearian originals. Even if Shakespeare knew these works, they could have supplied only a skeletal narrative. His play’s spirit and style owe much to Ovid’s Metamorphoses, one of his favourite works of classical literature, which he actually brings on stage in Act 4, Scene I. Ovid’s tale of the rape of Philomela was certainly in Shakespeare’s mind as he wrote, and the play’s more horrific elements owe something to the Roman dramatist Seneca.<br>In its [[Time\|time]], [[Titus Andronicus]] was popular, perhaps because it combines sensational incident with high-flown rhetoric of a kind that was fashionable around 1590. It tells a story of [[Double\|double]] [[Revenge\|revenge]]. [[Tamora]], [[Queen]] of the Goths, seeks [[Revenge\|revenge]] on her captor, Titus, for the ritual slaughter of her son Alarbus; she achieves it when her other sons, Chiron and [[Demetrius]], rape and mutilate Titus’ daughter, [[Lavinia]]. Later, Titus himself seeks [[Revenge\|revenge]] on [[Tamora]] and her husband, [[Saturninus]], after [[Tamora]]’s black [[Lover\|lover]], [[Aaron]], has falsely led him to believe that he can save his sons’ lives by allowing his own hand to be chopped off. Though he is driven to [[Madness\|madness]], Titus, with his brother Marcus and his last surviving son, [[Lucius]], achieves a spectacular sequence of vengeance in which he cuts [[Tamora]]’s sons’ throats, serves their flesh baked in a pie to their mother, kills [[Lavinia]] to save her from her shame, and stabs [[Tamora]] to [[Death\|death]]. Then, in rapid succession, [[Saturninus]] kills Titus and is himself killed by [[Lucius]], who, as the new Emperor, is left with Marcus to bury the dead, to punish [[Aaron]], and ‘To heal Rome’s harms and wipe away her woe’.<br>In [[Titus Andronicus]], as in his early [[history]] plays, Shakespeare is at his most successful in the expression of grief and the portrayal of vigorously energetic evil. The play’s piling of horror upon horror can seem ludicrous, and the reader may be surprised by the apparent disjunction between terrifying events and the measured verse in which characters react; but a few remarkable modern productions have revealed that the play may still arouse pity as [[Well\|well]] as terror in its audiences. |
-| THE PERSONS OF THE | PLAY<br>[[Saturninus\|SATURNINUS]], eldest son of the late Emperor of Rome; later<br>Emperor<br>[[Bassianus\|BASSIANUS]], his brother |
-| TITUS | ANDRONICUS, a Roman nobleman, general against the Goths<br>[[Lavinia\|LAVINIA]], daughter of Titus |
-| YOUNG | [[Lucius\|LUCIUS]], a boy, son of [[Lucius]] |
-| MARCUS | ANDRONICUS, a tribune of the people, Titus’ brother PUBLIUS, his son<br>A CAPTAIN |
-| AEMILIUS | [[Tamora\|TAMORA]], [[Queen]] of the Goths, later wife of [[Saturninus]]<br>[[Aaron\|AARON]], a Moor, her [[Lover\|lover]]<br>A [[Nurse\|NURSE]]<br><br>A CLOWN<br><br>Senators, tribunes, Romans, Goths, soldiers, and attendants |
 
 
 
@@ -1688,7 +1681,7 @@ The First Part of Henry the Sixth
 
 
 
-<span class="atom-split" data-atom="act_3--scene_7" data-title="Henry VI Part One — Act III, Scene 7" data-chapter="Scene 7" data-kind="scene" data-tags="archetype/king,archetype/rebel,archetype/villain,motif/blood,motif/crown,motif/death,motif/leaves,motif/love,motif/nature,motif/pain,motif/rose,motif/tears,motif/well,concept/common_man,concept/courage,concept/fear,concept/friendship,concept/honour,concept/hope,concept/madness,concept/nature,concept/truth,setting/court,setting/paris,character/charles_the_dauphin,character/dauphin,character/duke_of_exeter,character/duke_of_gloucester,character/duke_of_york,character/earl_of_suffolk,character/earl_of_warwick,character/gloucester,character/henry_vi,character/joan_la_pucelle,character/king_of_france,character/lord_talbot,character/richard"></span>
+<span class="atom-split" data-atom="act_3--scene_7" data-title="Henry VI Part One — Act III, Scene 7" data-chapter="Scene 7" data-kind="scene" data-tags="motif/blood,motif/death,motif/nature,motif/tears,concept/courage,concept/friendship,concept/hope,concept/nature,setting/paris,character/charles_the_dauphin,character/dauphin,character/henry_vi,character/joan_la_pucelle"></span>
 
 
 | Speaker | Line |
@@ -1723,7 +1716,16 @@ The First Part of Henry the Sixth
 | CHARLES | Welcome, brave Duke. Thy [[Friendship\|friendship]] makes us fresh. |
 | BASTARD | And doth beget new [[Courage\|courage]] in our breasts.<br>ALENÇON<br>Pucelle hath bravely played her part in this,<br>And doth deserve a coronet of gold. |
 | CHARLES | Now let us on, my lords, and join our powers,<br>And seek how we may prejudice the foe. Exeunt |
-| *(didascalia)* | 3.8 Flourish. Enter [[King]] Henry, the [[Duke of Gloucester]], the Bishop of Winchester, the [[Duke of Exeter]]; [[Richard]] [[Duke of York]], the [[Earl of Warwick]], and Vernon with white roses; the [[Earl of Suffolk]], the Duke of Somerset, and Basset with red roses. To them, with his soldiers, enter [[Lord Talbot]] |
+
+
+
+
+<span class="atom-split" data-atom="act_3--scene_8" data-title="Henry VI Part One — Act III, Scene 8" data-chapter="Scene 8" data-kind="scene" data-tags="archetype/king,archetype/villain,motif/blood,motif/death,motif/well,concept/honour,concept/truth,character/duke_of_exeter,character/duke_of_gloucester,character/duke_of_york,character/earl_of_suffolk,character/earl_of_warwick,character/gloucester,character/henry_vi,character/lord_talbot,character/richard"></span>
+
+
+| Speaker | Line |
+|---|---|
+| *(didascalia)* | Flourish. Enter [[King]] Henry, the [[Duke of Gloucester]], the Bishop of Winchester, the [[Duke of Exeter]]; [[Richard]] [[Duke of York]], the [[Earl of Warwick]], and Vernon with white roses; the [[Earl of Suffolk]], the Duke of Somerset, and Basset with red roses. To them, with his soldiers, enter [[Lord Talbot]] |
 | TALBOT | My gracious prince and honourable peers,<br>Hearing of your arrival in this realm<br>I have a while given truce unto my wars<br>To do my duty to my sovereign;<br>In sign whereof, this arm that hath reclaimed<br>To your obedience fifty fortresses,<br>Twelve cities, and seven walled towns of strength,<br>Beside five hundred prisoners of esteem,<br>Lets fall his [[Sword\|sword]] before your highness’ feet,<br>And with submissive loyalty of heart<br>Ascribes the glory of his conquest got<br>First to my God, and next unto your grace. |
 | *(didascalia)* | He kneels |
 | [[King\|KING]] HENRY | Is this the [[Lord Talbot]], uncle [[Gloucester]],<br>That hath so long been resident in France? |
@@ -1738,7 +1740,16 @@ The First Part of Henry the Sixth
 | BASSET | [[Villain]], thou know‘st the law of arms is such<br>That whoso draws a [[Sword\|sword]] ’tis present [[Death\|death]],<br>Or else this blow should broach thy dearest [[Blood\|blood]].<br>But I’ll unto his majesty and crave<br>I may have liberty to venge this wrong,<br>When thou shalt see I’ll meet thee to thy cost. |
 | VERNON | [[Well]], miscreant, I’ll be there as soon as you,<br>And after meet you sooner than you would. |
 | *(didascalia)* | Exeunt |
-| *(didascalia)* | 4.1 Flourish. Enter [[King]] Henry, the [[Duke of Gloucester]], the Bishop of Winchester, the [[Duke of Exeter]],; [[Richard]] [[Duke of York]], and the [[Earl of Warwick]] with white roses; the [[Earl of Suffolk]] and the Duke of Somerset with red roses; [[Lord Talbot]], and the Governor of [[Paris]] |
+
+
+
+
+<span class="atom-split" data-atom="act_4--scene_1" data-title="Henry VI Part One — Act IV, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="archetype/king,archetype/rebel,motif/blood,motif/crown,motif/death,motif/leaves,motif/love,motif/pain,motif/rose,motif/tears,motif/well,concept/common_man,concept/courage,concept/fear,concept/hope,concept/madness,concept/truth,setting/court,setting/paris,character/duke_of_exeter,character/duke_of_gloucester,character/duke_of_york,character/earl_of_suffolk,character/earl_of_warwick,character/gloucester,character/henry_vi,character/king_of_france,character/lord_talbot,character/richard"></span>
+
+
+| Speaker | Line |
+|---|---|
+| *(didascalia)* | Flourish. Enter [[King]] Henry, the [[Duke of Gloucester]], the Bishop of Winchester, the [[Duke of Exeter]],; [[Richard]] [[Duke of York]], and the [[Earl of Warwick]] with white roses; the [[Earl of Suffolk]] and the Duke of Somerset with red roses; [[Lord Talbot]], and the Governor of [[Paris]] |
 | [[Gloucester\|GLOUCESTER]] | Lord Bishop, set the [[Crown\|crown]] upon his head. |
 | WINCHESTER | God save [[King]] Henry, of that name the sixth I<br>Winchester crowns the [[King]] |
 | [[Gloucester\|GLOUCESTER]] | Now, Governor of [[Paris]], take your oath<br>That you elect no other [[King\|king]] but him;<br>Esteem none friends but such as are his friends,<br>And none your foes but such as shall pretend<br>Malicious practices against his state.<br>This shall ye do, so help you righteous God. |
@@ -1904,7 +1915,7 @@ The First Part of Henry the Sixth
 
 
 
-<span class="atom-split" data-atom="act_4--scene_7" data-title="Henry VI Part One — Act IV, Scene 7" data-chapter="Scene 7" data-kind="scene" data-tags="archetype/ghost,archetype/king,motif/blood,motif/crown,motif/death,motif/grave,motif/jewel,motif/lion,motif/marriage,motif/prison,motif/well,concept/beauty,concept/body,concept/faith,concept/mortality,concept/pride,concept/wonder,setting/paris,character/charles_the_dauphin,character/dauphin,character/gloucester,character/henry_vi,character/joan_la_pucelle,character/lord_talbot,character/michael,character/queen"></span>
+<span class="atom-split" data-atom="act_4--scene_7" data-title="Henry VI Part One — Act IV, Scene 7" data-chapter="Scene 7" data-kind="scene" data-tags="archetype/ghost,motif/blood,motif/death,motif/grave,motif/lion,motif/prison,concept/body,concept/mortality,concept/pride,concept/wonder,setting/paris,character/charles_the_dauphin,character/dauphin,character/henry_vi,character/joan_la_pucelle,character/lord_talbot,character/michael"></span>
 
 
 | Speaker | Line |
@@ -1936,7 +1947,16 @@ The First Part of Henry the Sixth
 | CHARLES | So we be rid of them, do with them what thou wilt. |
 | *(didascalia)* | Exeunt Lucy and herald with the bodies |
 | CHARLES | And now to [[Paris]] in this conquering vein.<br>All will be ours, now bloody Talbot’s slain. Exeunt |
-| *(didascalia)* | 5.1 Sennet. Enter [[King]] Henry, the Dukes of [[Gloucester]] and Exeter, and others |
+
+
+
+
+<span class="atom-split" data-atom="act_5--scene_1" data-title="Henry VI Part One — Act V, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="archetype/king,motif/blood,motif/crown,motif/grave,motif/jewel,motif/marriage,motif/well,concept/beauty,concept/faith,character/gloucester,character/henry_vi,character/queen"></span>
+
+
+| Speaker | Line |
+|---|---|
+| *(didascalia)* | Sennet. Enter [[King]] Henry, the Dukes of [[Gloucester]] and Exeter, and others |
 | [[King\|KING]] HENRY | (to [[Gloucester]])<br>Have you perused the letters from the Pope,<br>The Emperor, and the Earl of Armagnac? |
 | [[Gloucester\|GLOUCESTER]] | I have, my lord, and their intent is this:<br>They humbly sue unto your excellence<br>To have a godly peace concluded of<br>Between the realms of England and of France. |
 | [[King\|KING]] HENRY | How doth your grace affect their motion? |
@@ -2145,7 +2165,7 @@ The First Part of Henry the Sixth
 
 
 
-<span class="atom-split" data-atom="act_5--scene_7" data-title="Henry VI Part One — Act V, Scene 7" data-chapter="Scene 7" data-kind="scene" data-tags="topos/double,archetype/king,archetype/lover,motif/cross,motif/death,motif/horse,motif/love,motif/marriage,motif/summer,motif/time,motif/well,concept/courage,concept/fear,concept/history,concept/honour,concept/hope,concept/madness,concept/revenge,form/history,form/tragedy,setting/london,setting/paris,character/aaron,character/bassianus,character/demetrius,character/earl_of_suffolk,character/gloucester,character/henry_vi,character/juliet,character/lavinia,character/lucius,character/nurse,character/queen,character/romeo,character/saturninus,character/tamora,character/titus_andronicus"></span>
+<span class="atom-split" data-atom="act_5--scene_7" data-title="Henry VI Part One — Act V, Scene 7" data-chapter="Scene 7" data-kind="scene" data-tags="archetype/king,motif/cross,motif/horse,motif/love,motif/marriage,concept/courage,concept/fear,concept/history,concept/honour,concept/hope,form/history,setting/paris,character/earl_of_suffolk,character/gloucester,character/henry_vi,character/queen"></span>
 
 
 | Speaker | Line |
@@ -2165,10 +2185,3 @@ The First Part of Henry the Sixth
 | *(didascalia)* | Exit with Exeter |
 | [[Gloucester\|GLOUCESTER]] | Ay, grief, I [[Fear\|fear]] me, both at first and last. Exit |
 | SIIEFOLK | Thus Suffolk hath prevailed, and thus he goes<br>As did the youthful [[Paris]] once to Greece,<br>With [[Hope\|hope]] to find the like event in [[Love\|love]],<br>But prosper better than the Trojan did.<br>Margaret shall now be [[Queen\|queen]] and rule the [[King]];<br>But I will rule both her, the [[King]], and realm. Exit |
-| BY WILLIAM | SHAKESPEARE, WITH GEORGE PEELE |
-| SHAKESPEARE’S | first, most sensation-packed [[Tragedy\|tragedy]] appeared in print, anonymously, in 1594, and a performance record dating from January of that year appears to indicate that it was then a new play. But according to its title-page it had been acted by three companies, one of which was bankrupt by the [[Summer\|summer]] of 1593; and the play’s style, too, suggests that it was written earlier. During the later part of the twentieth century, scholars increasingly came round to the view that George Peele had a hand in, especially, the first act of the play. Shakespeare seems to have added a scene after its earliest performances, for Act 3, Scene 2 was first printed in the 1623 Folio. The 1594 performance record may refer to the revised play, not the original, or to the play’s first [[London]] performance after plague had closed the theatres from June 1592.<br>By convention, Elizabethan tragedies treated historical subjects, and [[Titus Andronicus]] is set in Rome during the fourth century AD; but its story (like that of Shakespeare’s other early [[Tragedy\|tragedy]], [[Romeo]] and [[Juliet]]) is fictitious. Whether Shakespeare invented it is an open question: the same tale is told in both a ballad and a chap-book which survive only in eighteenth-century versions but which could derive from pre-Shakespearian originals. Even if Shakespeare knew these works, they could have supplied only a skeletal narrative. His play’s spirit and style owe much to Ovid’s Metamorphoses, one of his favourite works of classical literature, which he actually brings on stage in Act 4, Scene I. Ovid’s tale of the rape of Philomela was certainly in Shakespeare’s mind as he wrote, and the play’s more horrific elements owe something to the Roman dramatist Seneca.<br>In its [[Time\|time]], [[Titus Andronicus]] was popular, perhaps because it combines sensational incident with high-flown rhetoric of a kind that was fashionable around 1590. It tells a story of [[Double\|double]] [[Revenge\|revenge]]. [[Tamora]], [[Queen]] of the Goths, seeks [[Revenge\|revenge]] on her captor, Titus, for the ritual slaughter of her son Alarbus; she achieves it when her other sons, Chiron and [[Demetrius]], rape and mutilate Titus’ daughter, [[Lavinia]]. Later, Titus himself seeks [[Revenge\|revenge]] on [[Tamora]] and her husband, [[Saturninus]], after [[Tamora]]’s black [[Lover\|lover]], [[Aaron]], has falsely led him to believe that he can save his sons’ lives by allowing his own hand to be chopped off. Though he is driven to [[Madness\|madness]], Titus, with his brother Marcus and his last surviving son, [[Lucius]], achieves a spectacular sequence of vengeance in which he cuts [[Tamora]]’s sons’ throats, serves their flesh baked in a pie to their mother, kills [[Lavinia]] to save her from her shame, and stabs [[Tamora]] to [[Death\|death]]. Then, in rapid succession, [[Saturninus]] kills Titus and is himself killed by [[Lucius]], who, as the new Emperor, is left with Marcus to bury the dead, to punish [[Aaron]], and ‘To heal Rome’s harms and wipe away her woe’.<br>In [[Titus Andronicus]], as in his early [[history]] plays, Shakespeare is at his most successful in the expression of grief and the portrayal of vigorously energetic evil. The play’s piling of horror upon horror can seem ludicrous, and the reader may be surprised by the apparent disjunction between terrifying events and the measured verse in which characters react; but a few remarkable modern productions have revealed that the play may still arouse pity as [[Well\|well]] as terror in its audiences. |
-| THE PERSONS OF THE | PLAY<br>[[Saturninus\|SATURNINUS]], eldest son of the late Emperor of Rome; later<br>Emperor<br>[[Bassianus\|BASSIANUS]], his brother |
-| TITUS | ANDRONICUS, a Roman nobleman, general against the Goths<br>[[Lavinia\|LAVINIA]], daughter of Titus |
-| YOUNG | [[Lucius\|LUCIUS]], a boy, son of [[Lucius]] |
-| MARCUS | ANDRONICUS, a tribune of the people, Titus’ brother PUBLIUS, his son<br>A CAPTAIN |
-| AEMILIUS | [[Tamora\|TAMORA]], [[Queen]] of the Goths, later wife of [[Saturninus]]<br>[[Aaron\|AARON]], a Moor, her [[Lover\|lover]]<br>A [[Nurse\|NURSE]]<br><br>A CLOWN<br><br>Senators, tribunes, Romans, Goths, soldiers, and attendants |

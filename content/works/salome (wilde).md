@@ -46,6 +46,47 @@ tags:
 > [!abstract] 
 > Wilde's one-act biblical tragedy in lyrical prose, dominated by the moon, the femme fatale's lust for the prophet Iokanaan, the dance of the seven veils, and the severed head, fusing desire and death.
 
+## Testo / Text
+
+- [Salome](/testi/wilde/plays/salome#salome)
+
+## Parti / Parts
+
+- [Part 1](/testi/wilde/plays/salome#act_1--scene_1--part_01)
+- [Part 2](/testi/wilde/plays/salome#act_1--scene_1--part_02)
+- [Part 3](/testi/wilde/plays/salome#act_1--scene_1--part_03)
+- [Part 4](/testi/wilde/plays/salome#act_1--scene_1--part_04)
+- [Part 5](/testi/wilde/plays/salome#act_1--scene_1--part_05)
+- [Part 6](/testi/wilde/plays/salome#act_1--scene_1--part_06)
+- [Part 7](/testi/wilde/plays/salome#act_1--scene_1--part_07)
+- [Part 8](/testi/wilde/plays/salome#act_1--scene_1--part_08)
+- [Part 9](/testi/wilde/plays/salome#act_1--scene_1--part_09)
+- [Part 10](/testi/wilde/plays/salome#act_1--scene_1--part_10)
+- [Part 11](/testi/wilde/plays/salome#act_1--scene_1--part_11)
+- [Part 12](/testi/wilde/plays/salome#act_1--scene_1--part_12)
+- [Part 13](/testi/wilde/plays/salome#act_1--scene_1--part_13)
+- [Part 14](/testi/wilde/plays/salome#act_1--scene_1--part_14)
+- [Part 15](/testi/wilde/plays/salome#act_1--scene_1--part_15)
+- [Part 16](/testi/wilde/plays/salome#act_1--scene_1--part_16)
+- [Part 17](/testi/wilde/plays/salome#act_1--scene_1--part_17)
+- [Part 18](/testi/wilde/plays/salome#act_1--scene_1--part_18)
+- [Part 19](/testi/wilde/plays/salome#act_1--scene_1--part_19)
+- [Part 20](/testi/wilde/plays/salome#act_1--scene_1--part_20)
+- [Part 21](/testi/wilde/plays/salome#act_1--scene_1--part_21)
+- [Part 22](/testi/wilde/plays/salome#act_1--scene_1--part_22)
+- [Part 23](/testi/wilde/plays/salome#act_1--scene_1--part_23)
+- [Part 24](/testi/wilde/plays/salome#act_1--scene_1--part_24)
+- [Part 25](/testi/wilde/plays/salome#act_1--scene_1--part_25)
+- [Part 26](/testi/wilde/plays/salome#act_1--scene_1--part_26)
+- [Part 27](/testi/wilde/plays/salome#act_1--scene_1--part_27)
+- [Part 28](/testi/wilde/plays/salome#act_1--scene_1--part_28)
+- [Part 29](/testi/wilde/plays/salome#act_1--scene_1--part_29)
+- [Part 30](/testi/wilde/plays/salome#act_1--scene_1--part_30)
+- [Part 31](/testi/wilde/plays/salome#act_1--scene_1--part_31)
+- [Part 32](/testi/wilde/plays/salome#act_1--scene_1--part_32)
+- [Part 33](/testi/wilde/plays/salome#act_1--scene_1--part_33)
+- [Part 34](/testi/wilde/plays/salome#act_1--scene_1--part_34)
+
 ## Connections
 
 **Topoi:** [[Love as Religion]], [[Unattainable Beloved]], [[Memento Mori]]

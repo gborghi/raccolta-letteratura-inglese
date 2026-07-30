@@ -21,7 +21,8 @@ import fs from "fs"
 import path from "path"
 import { pathToFileURL } from "node:url"
 
-const dir = "public/static"
+// see the QUARTZ_OUT note in make-mobile-index.mjs
+const dir = path.join(process.env.QUARTZ_OUT || "public", "static")
 const full = path.join(dir, "contentIndex.json")
 const masterPath = path.join("data", "search-full-index.json")
 const MASTER_CAP = 500 // ranked terms kept per doc in the master (bounds its size)

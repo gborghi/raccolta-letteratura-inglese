@@ -40,14 +40,21 @@ tags:
 
 ## Capitoli / Chapters
 
+- [Act I, Scene 1](/testi/shakespeare/plays/king_john#act_1--scene_1)
+- [Act II, Scene 1](/testi/shakespeare/plays/king_john#act_2--scene_1)
 - [Act II, Scene 2](/testi/shakespeare/plays/king_john#act_2--scene_2)
+- [Act III, Scene 1](/testi/shakespeare/plays/king_john#act_3--scene_1)
 - [Act III, Scene 2](/testi/shakespeare/plays/king_john#act_3--scene_2)
 - [Act III, Scene 3](/testi/shakespeare/plays/king_john#act_3--scene_3)
 - [Act III, Scene 4](/testi/shakespeare/plays/king_john#act_3--scene_4)
 - [Act IV, Scene 1](/testi/shakespeare/plays/king_john#act_4--scene_1)
+- [Act IV, Scene 2](/testi/shakespeare/plays/king_john#act_4--scene_2)
 - [Act IV, Scene 3](/testi/shakespeare/plays/king_john#act_4--scene_3)
+- [Act V, Scene 1](/testi/shakespeare/plays/king_john#act_5--scene_1)
 - [Act V, Scene 2](/testi/shakespeare/plays/king_john#act_5--scene_2)
 - [Act V, Scene 3](/testi/shakespeare/plays/king_john#act_5--scene_3)
+- [Act V, Scene 4](/testi/shakespeare/plays/king_john#act_5--scene_4)
+- [Act V, Scene 5](/testi/shakespeare/plays/king_john#act_5--scene_5)
 - [Act V, Scene 6](/testi/shakespeare/plays/king_john#act_5--scene_6)
 - [Act V, Scene 7](/testi/shakespeare/plays/king_john#act_5--scene_7)
 

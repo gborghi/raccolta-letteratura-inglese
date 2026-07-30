@@ -1389,10 +1389,86 @@ Exeunt severally
 | SOOTHSAYER | The fingers of the powers above do tune<br>The harmony of this peace. The vision,<br>Which I made known to [[Lucius]] ere the stroke<br>Of this yet scarce-cold battle, at this instant<br>Is full accomplished. For the Roman eagle,<br>From south to west on wing soaring aloft,<br>Lessened herself, and in the beams o‘th’ sun<br>So vanished; which foreshowed our princely eagle<br>Th’imperial Caesar should again unite<br>His favour with the radiant [[Cymbeline]],<br>Which shines here in the west. |
 | [[Cymbeline\|CYMBELINE]] | Laud we the gods,<br>And let our crooked smokes climb to their nostrils<br>From our blest altars. Publish we this peace<br>To all our subjects. Set we forward, let<br>A Roman and a British ensign wave<br>Friendly together. So through Lud’s town march,<br>And in the temple of great Jupiter<br>Our peace we’ll ratify, seal it with feasts.<br>Set on there. Never was a war did cease,<br>Ere bloody hands were washed, with such a peace. |
 | *(didascalia)* | Flourish. Exeunt in triumph |
-| THE | [[King]]’s Men acted The Tempest before their patron, James I, at Whitehall on I November 1611. (It was also chosen for performance during the festivities for the [[Marriage\|marriage]] of James’s daughter, Princess Elizabeth, to the Elector Palatine during the [[Winter\|winter]] of 1612- 13.) Shakespeare’s play takes place on a [[Desert\|desert]] island somewhere between Tunis and Naples; he derived some details of it from his reading of travel literature, including accounts of an expedition of nine ships taking five hundred colonists from Plymouth to Virginia, which set sail in May 1609. On 29 July the flagship, the Sea-Adventure, was wrecked by a [[Storm\|storm]] on the coast of the Bermudas. She was presumed lost, but on 23 May 1610 those aboard her arrived safely in Jamestown, Virginia, having found shelter on the island of Bermuda, where they were able to build the pinnaces in which they completed their [[Journey\|journey]]. Accounts of the voyage soon reached England; the last-written that Shakespeare seems to have known is a letter by William Strachey, who was on the Sea-Adventure, dated 15 July 1610; though it was not published until 1625, it circulated in manuscript. So it seems clear that Shakespeare wrote The Tempest during the later part of 1610or in 1611. It was first printed in the 1623 Folio, where it is the opening play.<br>Though other items of Shakespeare’s reading—including both [[arthur\|Arthur]] Golding’s [[Translation\|translation]] and Ovid’s original Metamorphoses (closely echoed in Prospero’s farewell to his [[Magic\|magic]]), John Florio’s [[Translation\|translation]] of essays by Michel de Montaigne, and (less locally but no less pervasively) Virgil’s Aeneid—certainly fed Shakespeare’s [[Imagination\|imagination]] as he wrote The Tempest, he appears to have devised the main plot himself. Many of its elements are based on the familiar stuff of [[Romance\|romance]] literature: the long-past shipwreck after a perilous voyage of Prospero and his daughter [[Miranda]]; the shipwreck, depicted in the opening scene, of Prospero’s brother, [[Antonio]], with [[Alonso]], [[King]] of Naples, and others; the separation and estrangement of relatives—[[Antonio]] usurped Prospero’s dukedom, and [[Alonso]] believes his son, [[Ferdinand]], is drowned; the chaste [[Love\|love]], subjected to trials, of the handsome [[Ferdinand]] and the beautiful [[Miranda]]; the influence of the [[Supernatural\|supernatural]] exercised through Prospero’s [[Magic\|magic]] powers; and the final reunions and reconciliations along with the happy conclusion of the [[Love\|love]] affair. Shakespeare had employed such conventions from the beginning of his career in his comedies, and with especial concentration, shortly before he wrote The Tempest, in [[Pericles]], The [[Winter]]’s Tale, and [[Cymbeline]]. But whereas those plays unfold the events as they happen, taking us on a [[Journey\|journey]] through [[Time\|time]] and space, in The Tempest (as elsewhere only in The [[Comedy]] of Errors) Shakespeare gives us only the end of the story, concentrating the action into a few hours and locating it in a single place, but informing us about the past, as in the long, [[Romance\|romance]]-type narrative (1.2) in which Prospero tells [[Miranda]] of her [[Childhood\|childhood]]. The [[Supernatural\|supernatural]], a strong presence in all Shakespeare’s late plays, is particularly pervasive in The Tempest; Prospero is a ‘white’ magician—a beneficent one—attended by the spirit [[Ariel]] and the sub-human [[Caliban]], two of Shakespeare’s most obviously symbolic characters; and a climax of the play is the supernaturally induced wedding [[Masque\|masque]] that Prospero conjures up for the entertainment and edification of the young [[lovers]], and which vanishes as he remembers [[Caliban]]’s plot against his life. |
-| THE PERSONS OF THE | PLAY<br>PROSPERO, the rightful [[Duke of Milan]]<br>[[Miranda\|MIRANDA]], his daughter<br><br>[[Antonio\|ANTONIO]], his brother, the usurping [[Duke of Milan]]<br>[[Alonso\|ALONSO]], [[King]] of Naples<br>[[Sebastian\|SEBASTIAN]], his brother<br>[[Ferdinand\|FERDINAND]], [[Alonso]]’s son<br>[[Gonzalo\|GONZALO]], an honest old counsellor of Naples<br>[[Ariel\|ARIEL]], an airy spirit attendant upon Prospero<br>[[Caliban\|CALIBAN]], a savage and deformed native of the island, Prospero’s slave<br>[[Trinculo\|TRINCULO]], [[Alonso]]’s jester<br>STEFANO, [[Alonso]]’s drunken butler<br><br>The MASTER of a [[Ship\|ship]] |
-| SPIRITS | The [[Masque]]<br>Spirits appearing as: |
-| JUNO | Nymphs, reapers |
+
+
+
+
+<span class="atom-split" data-atom="act_1--scene_1" data-title="Cymbeline — Act I, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="archetype/child,archetype/king,archetype/tyrant,motif/blood,motif/death,motif/fire,motif/garden,motif/jewel,motif/love,motif/poison,motif/spring,motif/time,motif/well,concept/despair,concept/exile,concept/fear,concept/honour,concept/hope,concept/self,setting/court,character/cymbeline,character/innogen,character/posthumus,character/queen"></span>
+
+
+| Speaker | Line |
+|---|---|
+| *(didascalia)* | Enter two Gentlemen |
+| FIRST GENTLEMAN | You do not meet a man but frowns. Our bloods<br>No more obey the heavens than our courtiers<br>Still seem as does the [[King]]. |
+| SECOND GENTLEMAN | But what’s the matter? |
+| FIRST GENTLEMAN | His daughter, and the heir of ’s kingdom, whom<br>He purposed to his wife’s sole son—a widow<br>That late he married—hath referred herself<br>Unto a poor but worthy gentleman. She’s wedded,<br>Her husband banished, she imprisoned. All<br>Is outward sorrow, though I think the [[King]]<br>Be touched at very heart. |
+| SECOND GENTLEMAN | None but the [[King]]? |
+| FIRST GENTLEMAN | He that hath lost her, too. So is the [[Queen]],<br>That most desired the match. But not a courtier—<br>Although they wear their faces to the bent<br>Of the [[King]]’s looks—hath a heart that is not<br>Glad of the thing they scowl at. |
+| SECOND GENTLEMAN | And why so? |
+| FIRST GENTLEMAN | He that hath missed the Princess is a thing<br>Too bad for bad report, and he that hath her—<br>I mean that married her—alack, good man,<br>And therefore banished!—is a creature such<br>As, to seek through the regions of the earth<br>For one his like, there would be something failing<br>In him that should compare. I do not think<br>So fair an outward and such stuff within<br>Endows a man but he. |
+| SECOND GENTLEMAN | You speak him far. |
+| FIRST GENTLEMAN | I do extend him, sir, within himself;<br>Crush him together rather than unfold<br>His measure duly. |
+| SECOND GENTLEMAN | What’s his name and birth? |
+| FIRST GENTLEMAN | I cannot delve him to the root. His father<br>Was called Sicilius, who did join his [[Honour\|honour]]<br>Against the Romans with Cassibelan<br>But had his titles by Tenantius, whom<br>He served with glory and admired [[success]],<br>So gained the sur-addition ‘Leonatus’;<br>And had, besides this gentleman in question,<br>Two other sons who in the wars o‘th’ [[Time\|time]]<br>Died with their swords in hand; for which their father,<br>Then old and fond of issue, took such sorrow<br>That he quit being, and his gentle lady,<br>Big of this gentleman, our theme, deceased<br>As he was born. The [[King]], he takes the babe<br>To his protection, calls him [[Posthumus]] Leonatus,<br>Breeds him, and makes him of his bedchamber;<br>Puts to him all the learnings that his [[Time\|time]]<br>Could make him the receiver of, which he took<br>As we do air, fast as ’twas ministered,<br>And in ’s [[Spring\|spring]] became a harvest; lived in [[Court\|court]]—<br>Which rare it is to do—most praised, most loved;<br>A sample to the youngest, to th’ more mature<br>A glass that feated them, and to the graver<br>A [[Child\|child]] that guided dotards. To his mistress,<br>For whom he now is banished, her own price<br>Proclaims how she esteemed him and his virtue.<br>By her election may be truly read<br>What kind of man he is. |
+| SECOND GENTLEMAN | I [[Honour\|honour]] him<br>Even out of your report. But pray you tell me,<br>Is she sole [[Child\|child]] to th’ [[King]]? |
+| FIRST GENTLEMAN | His only [[Child\|child]].<br>He had two sons—if this be worth your hearing,<br>Mark it: the eld‘st of them at three years old,<br>I’th’ swathing clothes the other, from their nursery<br>Were stol’n, and to this hour no guess in knowledge<br>Which way they went. |
+| SECOND GENTLEMAN | How long is this ago? |
+| FIRST GENTLEMAN | Some twenty years. |
+| SECOND GENTLEMAN | That a [[King\|king]]’s children should be so conveyed,<br>So slackly guarded, and the search so slow<br>That could not trace them! |
+| FIRST GENTLEMAN | Howsoe‘er ’tis strange,<br>Or that the negligence may [[Well\|well]] be laughed at,<br>Yet is it true, sir. |
+| SECOND GENTLEMAN | I do [[Well\|well]] believe you. |
+| *(didascalia)* | Enter the [[Queen]], [[Posthumus]], and [[Innogen]] |
+| FIRST GENTLEMAN | We must forbear. Here comes the gentleman,<br>The [[Queen]] and Princess. |
+| *(didascalia)* | Exeunt the two Gentlemen |
+| [[Queen\|QUEEN]] | No, be assured you shall not find me, daughter,<br>After the slander of most stepmothers,<br>Evil-eyed unto you. You’re my prisoner, but<br>Your jailer shall deliver you the keys<br>That lock up your restraint. For you, [[Posthumus]],<br>So soon as I can win th‘offended [[King]]<br>I will be known your advocate. Marry, yet<br>The [[Fire\|fire]] of rage is in him, and ’twere good<br>You leaned unto his sentence with what patience<br>Your wisdom may inform you. |
+| [[Posthumus\|POSTHUMUS]] | Please your highness,<br>I will from hence today. |
+| [[Queen\|QUEEN]] | You know the peril.<br>I’ll fetch a turn about the [[Garden\|garden]], pitying<br>The pangs of barred affections, though the [[King]]<br>Hath charged you should not speak together. Exit |
+| [[Innogen\|INNOGEN]] | O dissembling courtesy! How fine this [[Tyrant\|tyrant]]<br>Can tickle where she wounds! My dearest husband,<br>I something [[Fear\|fear]] my father’s wrath, but nothing—<br>Always reserved my holy duty—what<br>His rage can do on me. You must be gone,<br>And I shall here abide the hourly shot<br>Of angry eyes, not comforted to live<br>But that there is this [[Jewel\|jewel]] in the world<br>That I may see again. |
+| [[Posthumus\|POSTHUMUS]] | My [[Queen\|queen]], my mistress!<br>O lady, weep no more, lest I give cause<br>To be suspected of more tenderness<br>Than doth become a man. I will remain<br>The loyal‘st husband that did e’er plight troth;<br>My residence in Rome at one Filario’s,<br>Who to my father was a friend, to me<br>Known but by letter; thither write, my [[Queen\|queen]],<br>And with mine eyes I’ll drink the words you send<br>Though ink be made of gall. |
+| *(didascalia)* | Enter [[Queen]] |
+| [[Queen\|QUEEN]] | Be brief, I pray you.<br>If the [[King]] come, I shall incur I know not<br>How much of his displeasure. (Aside) Yet I’ll move him<br>To walk this way. I never do him wrong<br>But he does buy my injuries, to be friends,<br>Pays dear for my offences. Exit |
+| [[Posthumus\|POSTHUMUS]] | Should we be taking leave<br>As long a term as yet we have to live,<br>The loathness to depart would grow. Adieu. |
+| [[Innogen\|INNOGEN]] | Nay, stay a little.<br>Were you but riding forth to air yourself<br>Such parting were too petty. Look here, [[Love\|love]]:<br>This diamond was my mother’s. Take it, heart;<br>She gives him a ring<br>But keep it till you woo another wife<br>When [[Innogen]] is dead. |
+| [[Posthumus\|POSTHUMUS]] | How, how? Another?<br>You gentle gods, give me but this I have,<br>And cere up my embracements from a next<br>With bonds of [[Death\|death]]! Remain, remain thou here<br>He puts on the ring<br>While sense can keep it on; and, sweetest, fairest,<br>As I my poor [[Self\|self]] did exchange for you<br>To your so infinite loss, so in our trifles<br>I still win of you. For my sake wear this.<br>He gives her a bracelet<br>It is a manacle of [[Love\|love]]. I’ll place it<br>Upon this fairest prisoner. |
+| [[Innogen\|INNOGEN]] | O the gods!<br>When shall we see again? |
+| *(didascalia)* | Enter [[Cymbeline]] and lords |
+| [[Posthumus\|POSTHUMUS]] | Alack, the [[King]]! |
+| [[Cymbeline\|CYMBELINE]] | Thou basest thing, avoid hence, from my sight!<br>If after this command thou fraught the [[Court\|court]]<br>With thy unworthiness, thou diest. Away.<br>Thou’rt [[Poison\|poison]] to my [[Blood\|blood]]. |
+| [[Posthumus\|POSTHUMUS]] | The gods protect you,<br>And bless the good remainders of the [[Court\|court]]!<br>I am gone. |
+| *(didascalia)* | Exit |
+| [[Innogen\|INNOGEN]] | There cannot be a pinch in [[Death\|death]]<br>More sharp than this is. |
+| [[Cymbeline\|CYMBELINE]] | O disloyal thing,<br>That shouldst repair my youth, thou heap’st<br>A year’s age on me. |
+| [[Innogen\|INNOGEN]] | I beseech you, sir,<br>Harm not yourself with your vexation.<br>I am senseless of your wrath. A touch more rare<br>Subdues all pangs, all fears. |
+| [[Cymbeline\|CYMBELINE]] | Past grace, obedience- |
+| [[Innogen\|INNOGEN]] | Past [[Hope\|hope]] and in [[Despair\|despair]]: that way past grace. |
+| [[Cymbeline\|CYMBELINE]] | That mightst have had the sole son of my [[Queen\|queen]]! |
+| [[Innogen\|INNOGEN]] | O blessed that I might not! I chose an eagle<br>And did avoid a puttock. |
+| [[Cymbeline\|CYMBELINE]] | Thou took’st a beggar, wouldst have made my throne<br>A seat for baseness. |
+| [[Innogen\|INNOGEN]] | No, I rather added<br>A lustre to it. |
+| [[Cymbeline\|CYMBELINE]] | O thou vile one! |
+| [[Innogen\|INNOGEN]] | Sir,<br>It is your fault that I have loved [[Posthumus]].<br>You bred him as my playfellow, and he is<br>A man worth any woman, over-buys me<br>Almost the sum he pays. |
+| [[Cymbeline\|CYMBELINE]] | What, art thou mad? |
+| [[Innogen\|INNOGEN]] | Almost, sir. Heaven restore me! Would I were<br>A neatherd’s daughter, and my Leonatus<br>Our neighbour shepherd’s son. |
+| *(didascalia)* | Enter [[Queen]] |
+| [[Cymbeline\|CYMBELINE]] | Thou foolish thing.<br>(To [[Queen]]) They were again together; you have done<br>Not after our command. (To lords) Away with her,<br>And pen her up. |
+| [[Queen\|QUEEN]] | Beseech your patience, peace,<br>Dear lady daughter, peace. Sweet sovereign,<br>Leave us to ourselves, and make yourself some comfort<br>Out of your best advice. |
+| [[Cymbeline\|CYMBELINE]] | Nay, let her languish<br>A drop of [[Blood\|blood]] a day, and, being aged,<br>Die of this folly. |
+| *(didascalia)* | Exit with lords |
+| [[Queen\|QUEEN]] | Fie, you must give way. |
+| *(didascalia)* | Enter Pisanio |
+| [[Queen\|QUEEN]] | Here is your servant. How now, sir? What news? |
+| PISANIO | My lord your son drew on my master. |
+| [[Queen\|QUEEN]] | Ha!<br>No harm, I trust, is done? |
+| PISANIO | There might have been,<br>But that my master rather played than fought,<br>And had no help of anger. They were parted<br>By gentlemen at hand. |
+| [[Queen\|QUEEN]] | I am very glad on’t. |
+| [[Innogen\|INNOGEN]] | Your son’s my father’s friend; he takes his part<br>To draw upon an [[Exile\|exile]]—O brave sir!<br>I would they were in Afric both together,<br>Myself by with a needle, that I might prick<br>The goer-back. (To Pisanio) Why came you from your<br>master? |
+| PISANIO | On his command. He would not suffer me<br>To bring him to the haven, left these notes<br>Of what commands I should be subject to<br>When’t pleased you to employ me. |
+| [[Queen\|QUEEN]] | This hath been<br>Your faithful servant. I dare lay mine [[Honour\|honour]]<br>He will remain so. |
+| PISANIO | I humbly thank your highness. |
+| [[Queen\|QUEEN]] | Pray walk a while. |
+| *(didascalia)* | Exit |
+| [[Innogen\|INNOGEN]] | About some half hour hence, pray you speak with me.<br>You shall at least go see my lord aboard.<br>For this [[Time\|time]] leave me. |
+| *(didascalia)* | Exeunt severally |
 
 
 
@@ -1429,7 +1505,7 @@ Exeunt severally
 
 
 
-<span class="atom-split" data-atom="act_1--scene_3" data-title="Cymbeline — Act I, Scene 3" data-chapter="Scene 3" data-kind="scene" data-tags="archetype/king,motif/jewel,motif/nature,motif/night,motif/noon,motif/ship,motif/soul,motif/time,concept/doubt,concept/faith,concept/fear,concept/honour,concept/hope,concept/mercy,concept/nature,setting/court,setting/italy,setting/ship,character/cymbeline,character/innogen,character/posthumus,character/queen"></span>
+<span class="atom-split" data-atom="act_1--scene_3" data-title="Cymbeline — Act I, Scene 3" data-chapter="Scene 3" data-kind="scene" data-tags="motif/noon,motif/ship,motif/soul,concept/honour,concept/mercy,setting/italy,setting/ship,character/cymbeline,character/innogen,character/queen"></span>
 
 
 | Speaker | Line |
@@ -1452,7 +1528,16 @@ Exeunt severally
 | [[Innogen\|INNOGEN]] | (to Pisanio)<br>Those things I bid you do, get them dispatched.<br>I will attend the [[Queen]]. |
 | PISANIO | Madam, I shall. |
 | *(didascalia)* | Exeunt [[Innogen]] and Lady at one door, Pisanio at another |
-| *(didascalia)* | 1.4 A table brought out, with a banquet upon it. Enter Filario, Giacomo, a Frenchman, a Dutchman, and a Spaniard |
+
+
+
+
+<span class="atom-split" data-atom="act_1--scene_4" data-title="Cymbeline — Act I, Scene 4" data-chapter="Scene 4" data-kind="scene" data-tags="archetype/king,motif/jewel,motif/nature,motif/night,motif/time,concept/doubt,concept/faith,concept/fear,concept/honour,concept/hope,concept/nature,setting/court,setting/italy,character/cymbeline,character/posthumus"></span>
+
+
+| Speaker | Line |
+|---|---|
+| *(didascalia)* | A table brought out, with a banquet upon it. Enter Filario, Giacomo, a Frenchman, a Dutchman, and a Spaniard |
 | GIACOMO | Believe it, sir, I have seen him in Britain. He was then of a crescent note, expected to prove so worthy as since he hath been allowed the name of. But I could then have looked on him without the help of admiration, though the catalogue of his endowments had been tabled by his side and I to peruse him by items. |
 | FILARIO | You speak of him when he was less furnished than now he is with that which makes him both without and within. |
 | FRENCHMAN | I have seen him in France. We had very many there could behold the sun with as firm eyes as he. |
@@ -1826,7 +1911,7 @@ Exeunt severally
 
 
 
-<span class="atom-split" data-atom="act_2--scene_5" data-title="Cymbeline — Act II, Scene 5" data-chapter="Scene 5" data-kind="scene" data-tags="archetype/king,motif/crown,motif/moon,motif/mutability,motif/snow,motif/time,motif/water,motif/well,concept/ambition,concept/courage,concept/honour,concept/longing,character/cloten,character/cymbeline,character/julius_caesar,character/lucius,character/posthumus,character/queen,character/saturn"></span>
+<span class="atom-split" data-atom="act_2--scene_5" data-title="Cymbeline — Act II, Scene 5" data-chapter="Scene 5" data-kind="scene" data-tags="motif/mutability,motif/snow,motif/time,motif/well,concept/longing,character/cymbeline,character/posthumus,character/saturn"></span>
 
 
 | Speaker | Line |
@@ -1834,7 +1919,16 @@ Exeunt severally
 | *(didascalia)* | Enter [[Posthumus]] |
 | [[Posthumus\|POSTHUMUS]] | Is there no way for men to be, but women<br>Must be half-workers? We are bastards all,<br>And that most venerable man which I<br>Did call my father was I know not where<br>When I was stamped. Some coiner with his tools<br>Made me a counterfeit; yet my mother seemed<br>The Dian of that [[Time\|time]]: so doth my wife<br>The nonpareil of this. O vengeance, vengeance!<br>Me of my lawful pleasure she restrained,<br>And prayed me oft forbearance; did it with<br>A pudency so rosy the sweet view on’t<br>Might [[Well\|well]] have warmed old [[Saturn]]; that I thought<br>her<br>As chaste as unsunned [[Snow\|snow]]. O all the devils!<br>This yellow Giacomo in an hour—was’t not?—<br>Or less—at first? Perchance he spoke not, but<br>Like a full-acorned boar, a German one,<br>Cried ‘O!’ and mounted; found no opposition<br>But what he looked for should oppose and she<br>Should from encounter guard. Could I find out<br>The woman’s part in me—for there’s no motion<br>That tends to vice in man but I affirm<br>It is the woman’s part; be it lying, note it,<br>The woman’s; flattering, hers; deceiving, hers;<br>Lust and rank thoughts, hers, hers; revenges, hers;<br>Ambitions, covetings, change of prides, disdain,<br>Nice [[Longing\|longing]], slanders, [[Mutability\|mutability]],<br>All faults that man can name, nay, that hell knows,<br>Why, hers in part or all, but rather all—<br>For even to vice<br>They are not constant, but are changing still<br>One vice but of a minute old for one<br>Not half so old as that. I’ll write against them,<br>Detest them, curse them, yet ’tis greater skill<br>In a true hate to pray they have their will.<br>The very devils cannot plague them better. |
 | *(didascalia)* | Exit |
-| *(didascalia)* | 3.1 Flourish. Enter in state [[Cymbeline]], the [[Queen]], [[Cloten]], and lords at one door, and at another, Caius [[Lucius]] and attendants |
+
+
+
+
+<span class="atom-split" data-atom="act_3--scene_1" data-title="Cymbeline — Act III, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="archetype/king,motif/crown,motif/moon,motif/time,motif/water,concept/ambition,concept/courage,concept/honour,character/cloten,character/cymbeline,character/julius_caesar,character/lucius,character/queen"></span>
+
+
+| Speaker | Line |
+|---|---|
+| *(didascalia)* | Flourish. Enter in state [[Cymbeline]], the [[Queen]], [[Cloten]], and lords at one door, and at another, Caius [[Lucius]] and attendants |
 | [[Cymbeline\|CYMBELINE]] | Now say, what would Augustus Caesar with us? |
 | [[Lucius\|LUCIUS]] | When [[Julius Caesar]]—whose remembrance yet<br>Lives in men’s eyes, and will to ears and tongues<br>Be theme and hearing ever—was in this Britain<br>And conquered it, Cassibelan, thine uncle,<br>Famous in Caesar’s praises no whit less<br>Than in his feats deserving it, for him<br>And his succession granted Rome a tribute,<br>Yearly three thousand pounds, which by thee lately<br>Is left untendered. |
 | [[Queen\|QUEEN]] | And, to kill the marvel,<br>Shall be so ever. |
@@ -1902,7 +1996,7 @@ Exeunt severally
 
 
 
-<span class="atom-split" data-atom="act_3--scene_4" data-title="Cymbeline — Act III, Scene 4" data-chapter="Scene 4" data-kind="scene" data-tags="archetype/fool,archetype/innocent,archetype/king,archetype/villain,motif/clock,motif/crown,motif/death,motif/desire,motif/grave,motif/home,motif/horse,motif/lamb,motif/love,motif/memory,motif/nature,motif/night,motif/secrets,motif/silence,motif/sleep,motif/summer,motif/time,motif/well,concept/body,concept/conscience,concept/courage,concept/despair,concept/exile,concept/faith,concept/fear,concept/history,concept/honour,concept/nature,concept/revenge,concept/self,form/history,setting/court,setting/italy,character/bottom,character/cloten,character/cymbeline,character/innogen,character/lucius,character/posthumus,character/queen,character/speed"></span>
+<span class="atom-split" data-atom="act_3--scene_4" data-title="Cymbeline — Act III, Scene 4" data-chapter="Scene 4" data-kind="scene" data-tags="archetype/innocent,archetype/king,archetype/villain,motif/clock,motif/death,motif/desire,motif/grave,motif/horse,motif/lamb,motif/love,motif/memory,motif/nature,motif/night,motif/secrets,motif/sleep,motif/summer,motif/time,motif/well,concept/conscience,concept/courage,concept/faith,concept/fear,concept/history,concept/nature,concept/revenge,concept/self,form/history,setting/court,setting/italy,character/bottom,character/cloten,character/cymbeline,character/innogen,character/lucius,character/posthumus,character/queen"></span>
 
 
 | Speaker | Line |
@@ -1944,7 +2038,16 @@ Exeunt severally
 | PISANIO | [[Well]], madam, we must take a short farewell<br>Lest, being missed, I be suspected of<br>Your carriage from the [[Court\|court]]. My noble mistress,<br>Here is a box. I had it from the [[Queen]].<br>What’s in’t is precious. If you are sick at sea<br>Or stomach-qualmed at land, a dram of this<br>Will drive away distemper. To some shade,<br>And fit you to your manhood. May the gods<br>Direct you to the best. |
 | [[Innogen\|INNOGEN]] | Amen. I thank thee. |
 | *(didascalia)* | Exeunt severally |
-| *(didascalia)* | 3.5 Flourish. Enter [[Cymbeline]], the [[Queen]], [[Cloten]], [[Lucius]], and lords |
+
+
+
+
+<span class="atom-split" data-atom="act_3--scene_5" data-title="Cymbeline — Act III, Scene 5" data-chapter="Scene 5" data-kind="scene" data-tags="archetype/fool,archetype/king,archetype/villain,motif/crown,motif/death,motif/desire,motif/home,motif/love,motif/memory,motif/night,motif/silence,motif/time,motif/well,concept/body,concept/despair,concept/exile,concept/fear,concept/history,concept/honour,concept/revenge,form/history,setting/court,character/cloten,character/cymbeline,character/innogen,character/lucius,character/posthumus,character/queen,character/speed"></span>
+
+
+| Speaker | Line |
+|---|---|
+| *(didascalia)* | Flourish. Enter [[Cymbeline]], the [[Queen]], [[Cloten]], [[Lucius]], and lords |
 | [[Cymbeline\|CYMBELINE]] | (to [[Lucius]])<br>Thus far, and so farewell. |
 | [[Lucius\|LUCIUS]] | Thanks, royal sir.<br>My emperor hath wrote I must from hence;<br>And am right sorry that I must report ye<br>My master’s enemy. |
 | [[Cymbeline\|CYMBELINE]] | Our subjects, sir,<br>Will not endure his yoke, and for ourself<br>To show less sovereignty than they must needs<br>Appear unkinglike. |
@@ -2285,7 +2388,7 @@ Exeunt severally
 
 
 
-<span class="atom-split" data-atom="act_5--scene_1" data-title="Cymbeline — Act V, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="motif/death,motif/leaves,motif/love,motif/nature,concept/guilt,concept/nature,character/cymbeline,character/innogen,character/lucius,character/posthumus"></span>
+<span class="atom-split" data-atom="act_5--scene_1" data-title="Cymbeline — Act V, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="motif/death,motif/love,character/cymbeline,character/innogen,character/posthumus"></span>
 
 
 | Speaker | Line |
@@ -2294,14 +2397,23 @@ Exeunt severally
 | [[Posthumus\|POSTHUMUS]] | Yea, bloody cloth, I’ll keep thee, for I once wished<br>Thou shouldst be coloured thus. You married ones,<br>If each of you should take this course, how many<br>Must murder wives much better than themselves<br>For wrying but a little! O Pisanio,<br>Every good servant does not all commands,<br>No bond but to do just ones. Gods, if you<br>Should have ta‘en vengeance on my faults, I never<br>Had lived to put on this; so had you saved<br>The noble [[Innogen]] to repent, and struck<br>Me, wretch, more worth your vengeance. But alack,<br>You snatch some hence for little faults; that’s [[Love\|love]],<br>To have them fall no more. You some permit<br>To second ills with ills, each elder worse,<br>And make them dread ill, to the doer’s thrift.<br>But [[Innogen]] is your own. Do your blest wills,<br>And make me blest to obey. I am brought hither<br>Among th’Italian gentry, and to fight<br>Against my lady’s kingdom. ’Tis enough<br>That, Britain, I have killed thy mistress-piece;<br>I’ll give no wound to thee. Therefore, good heavens,<br>Hear patiently my purpose. I’ll disrobe me<br>Of these Italian weeds, and suit myself<br>As does a Briton peasant. |
 | *(didascalia)* | He disrobes himself |
 | [[Posthumus\|POSTHUMUS]] | So I’ll fight<br>Against the part I come with; so I’ll die<br>For thee, O [[Innogen]], even for whom my life<br>Is every breath a [[Death\|death]]; and, thus unknown,<br>Pitied nor hated, to the face of peril<br>Myself I’ll dedicate. Let me make men know<br>More valour in me than my habits show.<br>Gods, put the strength o‘th’ Leonati in me.<br>To shame the guise o’th’ world, I will begin<br>The fashion-less without and more within. Exit |
-| *(didascalia)* | 5.2 A march. Enter [[Lucius]], Giacomo, and the Roman army at one door, and the Briton army at another, Leonatus [[Posthumus]] following like a poor soldier. They march over and go out. Alarums. Then enter again in skirmish Giacomo and [[Posthumus]]: he vanquisheth and disarmeth Giacomo, and then [[Leaves\|leaves]] him |
+
+
+
+
+<span class="atom-split" data-atom="act_5--scene_2" data-title="Cymbeline — Act V, Scene 2" data-chapter="Scene 2" data-kind="scene" data-tags="motif/leaves,motif/nature,concept/guilt,concept/nature,character/cymbeline,character/lucius,character/posthumus"></span>
+
+
+| Speaker | Line |
+|---|---|
+| *(didascalia)* | A march. Enter [[Lucius]], Giacomo, and the Roman army at one door, and the Briton army at another, Leonatus [[Posthumus]] following like a poor soldier. They march over and go out. Alarums. Then enter again in skirmish Giacomo and [[Posthumus]]: he vanquisheth and disarmeth Giacomo, and then [[Leaves\|leaves]] him |
 | GIACOMO | The heaviness and [[Guilt\|guilt]] within my bosom<br>Takes off my manhood. I have belied a lady,<br>The princess of this country, and the air on’t<br>Revengingly enfeebles me; or could this carl,<br>A very drudge of [[Nature\|nature]]’s, have subdued me<br>In my profession? Knighthoods and honours borne<br>As I wear mine are titles but of scorn.<br>If that thy gentry, Britain, go before<br>This lout as he exceeds our lords, the odds<br>Is that we scarce are men and you are gods. |
 | *(didascalia)* | Exit |
 
 
 
 
-<span class="atom-split" data-atom="act_5--scene_3" data-title="Cymbeline — Act V, Scene 3" data-chapter="Scene 3" data-kind="scene" data-tags="character/arviragus,character/belarius,character/cymbeline,character/guiderius,character/innogen,character/lucius,character/posthumus"></span>
+<span class="atom-split" data-atom="act_5--scene_3" data-title="Cymbeline — Act V, Scene 3" data-chapter="Scene 3" data-kind="scene" data-tags="character/arviragus,character/belarius,character/cymbeline,character/guiderius,character/posthumus"></span>
 
 
 | Speaker | Line |
@@ -2310,7 +2422,16 @@ Exeunt severally
 | [[Belarius\|BELARIUS]] | Stand, stand, we have th’advantage of the ground.<br>The lane is guarded. Nothing routs us but<br>The villainy of our fears. |
 | [[Guiderius\|GUIDERIUS]] | and [[Arviragus\|ARVIRAGUS]] Stand, stand, and fight. |
 | *(didascalia)* | Enter [[Posthumus]] like a poor soldier, and seconds the Britons. They rescue [[Cymbeline]] and exeunt |
-| *(didascalia)* | 5.4 The trumpets sound a retreat, then enter [[Lucius]], Giacomo, and [[Innogen]] |
+
+
+
+
+<span class="atom-split" data-atom="act_5--scene_4" data-title="Cymbeline — Act V, Scene 4" data-chapter="Scene 4" data-kind="scene" data-tags="character/cymbeline,character/innogen,character/lucius"></span>
+
+
+| Speaker | Line |
+|---|---|
+| *(didascalia)* | The trumpets sound a retreat, then enter [[Lucius]], Giacomo, and [[Innogen]] |
 | [[Lucius\|LUCIUS]] | (to [[Innogen]])<br>Away, boy, from the troops, and save thyself;<br>For friends kill friends, and the disorder’s such<br>As war were hoodwinked. |
 | GIACOMO | ’Tis their fresh supplies. |
 | [[Lucius\|LUCIUS]] | It is a day turned strangely. Or betimes<br>Let’s reinforce, or fly. |
@@ -2319,7 +2440,7 @@ Exeunt severally
 
 
 
-<span class="atom-split" data-atom="act_5--scene_5" data-title="Cymbeline — Act V, Scene 5" data-chapter="Scene 5" data-kind="scene" data-tags="archetype/child,archetype/fool,archetype/king,archetype/lover,archetype/monster,archetype/villain,motif/blood,motif/childhood,motif/clock,motif/cross,motif/crown,motif/death,motif/desert,motif/desire,motif/dreams,motif/fire,motif/flowers,motif/ghosts,motif/jewel,motif/journey,motif/leaves,motif/lightning,motif/lion,motif/love,motif/marriage,motif/nature,motif/poison,motif/ship,motif/silence,motif/sleep,motif/soul,motif/stars,motif/storm,motif/supernatural,motif/tears,motif/time,motif/water,motif/well,motif/wheel,motif/window,motif/winter,concept/beauty,concept/charity,concept/conscience,concept/faith,concept/fear,concept/freedom,concept/friendship,concept/greatness,concept/honour,concept/hope,concept/imagination,concept/jealousy,concept/longing,concept/mercy,concept/nature,concept/truth,concept/wonder,form/comedy,form/masque,form/translation,setting/court,setting/desert,setting/italy,setting/mountains,setting/ship,character/alonso,character/antonio,character/ariel,character/arthur,character/arviragus,character/belarius,character/caliban,character/cloten,character/cymbeline,character/duke_of_milan,character/ferdinand,character/gonzalo,character/guiderius,character/innogen,character/lucius,character/miranda,character/nurse,character/pericles,character/posthumus,character/queen,character/sebastian,character/speed,character/trinculo,character/venus"></span>
+<span class="atom-split" data-atom="act_5--scene_5" data-title="Cymbeline — Act V, Scene 5" data-chapter="Scene 5" data-kind="scene" data-tags="archetype/king,archetype/monster,motif/cross,motif/death,motif/desire,motif/flowers,motif/ghosts,motif/journey,motif/lightning,motif/lion,motif/love,motif/marriage,motif/nature,motif/silence,motif/sleep,motif/well,motif/window,concept/charity,concept/conscience,concept/fear,concept/freedom,concept/friendship,concept/greatness,concept/honour,concept/jealousy,concept/mercy,concept/nature,concept/wonder,setting/italy,character/arthur,character/arviragus,character/belarius,character/cymbeline,character/guiderius,character/innogen,character/lucius,character/posthumus,character/speed"></span>
 
 
 | Speaker | Line |
@@ -2384,7 +2505,16 @@ Exeunt severally
 | JAILER | I’ll be hanged then. |
 | [[Posthumus\|POSTHUMUS]] | Thou shalt be then freer than a jailer; no bolts for the dead. |
 | JAILER | (aside) Unless a man would marry a gallows and beget young gibbets, I never saw one so prone. Yet, on my [[Conscience\|conscience]], there are verier knaves [[Desire\|desire]] to live, for all he be a Roman; and there be some of them, too, that die against their wills; so should I if I were one. I would we were all of one mind, and one mind good. O, there were desolation of jailers and gallowses! I speak against my present profit, but my wish hath a preferment in’t. Exeunt |
-| *(didascalia)* | 5.6 Flourish.  Enter [[Cymbeline]], [[Belarius]], [[Guiderius]], [[Arviragus]], Pisanio, and lords |
+
+
+
+
+<span class="atom-split" data-atom="act_5--scene_6" data-title="Cymbeline — Act V, Scene 6" data-chapter="Scene 6" data-kind="scene" data-tags="archetype/child,archetype/fool,archetype/king,archetype/lover,archetype/villain,motif/blood,motif/clock,motif/crown,motif/death,motif/dreams,motif/fire,motif/jewel,motif/leaves,motif/lightning,motif/lion,motif/love,motif/nature,motif/poison,motif/soul,motif/stars,motif/tears,motif/time,motif/water,motif/well,motif/wheel,concept/beauty,concept/conscience,concept/faith,concept/fear,concept/greatness,concept/honour,concept/hope,concept/longing,concept/nature,concept/truth,concept/wonder,setting/court,setting/italy,setting/mountains,character/arthur,character/arviragus,character/belarius,character/cloten,character/cymbeline,character/guiderius,character/innogen,character/lucius,character/nurse,character/posthumus,character/queen,character/venus"></span>
+
+
+| Speaker | Line |
+|---|---|
+| *(didascalia)* | Flourish.  Enter [[Cymbeline]], [[Belarius]], [[Guiderius]], [[Arviragus]], Pisanio, and lords |
 | [[Cymbeline\|CYMBELINE]] | (to [[Belarius]], [[Guiderius]], and [[Arviragus]])<br>Stand by my side, you whom the gods have made<br>Preservers of my throne. Woe is my heart<br>That the poor soldier that so richly fought,<br>Whose rags shamed gilded arms, whose naked breast<br>Stepped before targs of proof, cannot be found.<br>He shall be happy that can find him, if<br>Our grace can make him so. |
 | [[Belarius\|BELARIUS]] | I never saw<br>Such noble fury in so poor a thing,<br>Such precious deeds in one that promised naught<br>But beggary and poor looks. |
 | [[Cymbeline\|CYMBELINE]] | No tidings of him? |
@@ -2539,7 +2669,3 @@ Exeunt severally
 | SOOTHSAYER | The fingers of the powers above do tune<br>The harmony of this peace. The vision,<br>Which I made known to [[Lucius]] ere the stroke<br>Of this yet scarce-cold battle, at this instant<br>Is full accomplished. For the Roman eagle,<br>From south to west on wing soaring aloft,<br>Lessened herself, and in the beams o‘th’ sun<br>So vanished; which foreshowed our princely eagle<br>Th’imperial Caesar should again unite<br>His favour with the radiant [[Cymbeline]],<br>Which shines here in the west. |
 | [[Cymbeline\|CYMBELINE]] | Laud we the gods,<br>And let our crooked smokes climb to their nostrils<br>From our blest altars. Publish we this peace<br>To all our subjects. Set we forward, let<br>A Roman and a British ensign wave<br>Friendly together. So through Lud’s town march,<br>And in the temple of great Jupiter<br>Our peace we’ll ratify, seal it with feasts.<br>Set on there. Never was a war did cease,<br>Ere bloody hands were washed, with such a peace. |
 | *(didascalia)* | Flourish. Exeunt in triumph |
-| THE | [[King]]’s Men acted The Tempest before their patron, James I, at Whitehall on I November 1611. (It was also chosen for performance during the festivities for the [[Marriage\|marriage]] of James’s daughter, Princess Elizabeth, to the Elector Palatine during the [[Winter\|winter]] of 1612- 13.) Shakespeare’s play takes place on a [[Desert\|desert]] island somewhere between Tunis and Naples; he derived some details of it from his reading of travel literature, including accounts of an expedition of nine ships taking five hundred colonists from Plymouth to Virginia, which set sail in May 1609. On 29 July the flagship, the Sea-Adventure, was wrecked by a [[Storm\|storm]] on the coast of the Bermudas. She was presumed lost, but on 23 May 1610 those aboard her arrived safely in Jamestown, Virginia, having found shelter on the island of Bermuda, where they were able to build the pinnaces in which they completed their [[Journey\|journey]]. Accounts of the voyage soon reached England; the last-written that Shakespeare seems to have known is a letter by William Strachey, who was on the Sea-Adventure, dated 15 July 1610; though it was not published until 1625, it circulated in manuscript. So it seems clear that Shakespeare wrote The Tempest during the later part of 1610or in 1611. It was first printed in the 1623 Folio, where it is the opening play.<br>Though other items of Shakespeare’s reading—including both [[arthur\|Arthur]] Golding’s [[Translation\|translation]] and Ovid’s original Metamorphoses (closely echoed in Prospero’s farewell to his [[Magic\|magic]]), John Florio’s [[Translation\|translation]] of essays by Michel de Montaigne, and (less locally but no less pervasively) Virgil’s Aeneid—certainly fed Shakespeare’s [[Imagination\|imagination]] as he wrote The Tempest, he appears to have devised the main plot himself. Many of its elements are based on the familiar stuff of [[Romance\|romance]] literature: the long-past shipwreck after a perilous voyage of Prospero and his daughter [[Miranda]]; the shipwreck, depicted in the opening scene, of Prospero’s brother, [[Antonio]], with [[Alonso]], [[King]] of Naples, and others; the separation and estrangement of relatives—[[Antonio]] usurped Prospero’s dukedom, and [[Alonso]] believes his son, [[Ferdinand]], is drowned; the chaste [[Love\|love]], subjected to trials, of the handsome [[Ferdinand]] and the beautiful [[Miranda]]; the influence of the [[Supernatural\|supernatural]] exercised through Prospero’s [[Magic\|magic]] powers; and the final reunions and reconciliations along with the happy conclusion of the [[Love\|love]] affair. Shakespeare had employed such conventions from the beginning of his career in his comedies, and with especial concentration, shortly before he wrote The Tempest, in [[Pericles]], The [[Winter]]’s Tale, and [[Cymbeline]]. But whereas those plays unfold the events as they happen, taking us on a [[Journey\|journey]] through [[Time\|time]] and space, in The Tempest (as elsewhere only in The [[Comedy]] of Errors) Shakespeare gives us only the end of the story, concentrating the action into a few hours and locating it in a single place, but informing us about the past, as in the long, [[Romance\|romance]]-type narrative (1.2) in which Prospero tells [[Miranda]] of her [[Childhood\|childhood]]. The [[Supernatural\|supernatural]], a strong presence in all Shakespeare’s late plays, is particularly pervasive in The Tempest; Prospero is a ‘white’ magician—a beneficent one—attended by the spirit [[Ariel]] and the sub-human [[Caliban]], two of Shakespeare’s most obviously symbolic characters; and a climax of the play is the supernaturally induced wedding [[Masque\|masque]] that Prospero conjures up for the entertainment and edification of the young [[lovers]], and which vanishes as he remembers [[Caliban]]’s plot against his life. |
-| THE PERSONS OF THE | PLAY<br>PROSPERO, the rightful [[Duke of Milan]]<br>[[Miranda\|MIRANDA]], his daughter<br><br>[[Antonio\|ANTONIO]], his brother, the usurping [[Duke of Milan]]<br>[[Alonso\|ALONSO]], [[King]] of Naples<br>[[Sebastian\|SEBASTIAN]], his brother<br>[[Ferdinand\|FERDINAND]], [[Alonso]]’s son<br>[[Gonzalo\|GONZALO]], an honest old counsellor of Naples<br>[[Ariel\|ARIEL]], an airy spirit attendant upon Prospero<br>[[Caliban\|CALIBAN]], a savage and deformed native of the island, Prospero’s slave<br>[[Trinculo\|TRINCULO]], [[Alonso]]’s jester<br>STEFANO, [[Alonso]]’s drunken butler<br><br>The MASTER of a [[Ship\|ship]] |
-| SPIRITS | The [[Masque]]<br>Spirits appearing as: |
-| JUNO | Nymphs, reapers |

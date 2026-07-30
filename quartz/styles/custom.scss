@@ -1318,7 +1318,7 @@ article h1 {
 // ---- reading measure ----
 article p,
 article li,
-.atom-split p {
+.ar-pane p {
   max-width: var(--measure);
   text-wrap: pretty;
 }
@@ -1333,21 +1333,29 @@ article table,
 }
 
 // ---- wikilinks inside running prose: quiet, dotted, ink-coloured ----
-.atom-split p a,
-.atom-split li a {
+// The container is `.ar-pane`, NOT `.atom-split`: the split markers are only in the
+// emitted markdown — atomRouter.inline.ts consumes them at hydration and rebuilds the
+// text as one `article.ar-pane` per atom. Styling `.atom-split` therefore matches
+// nothing in the browser, which is why these links stayed bold and highlighted.
+// `.ar-pane` needs no `.reading-page` qualifier: it exists only on reading pages.
+.ar-pane p a.internal,
+.ar-pane li a.internal {
   color: var(--dark);
+  font-weight: inherit; // base sets 600 — too loud for prose read at length
+  background-color: transparent; // and a terracotta highlight box behind every link
   text-decoration: none;
   border-bottom: 1px dotted var(--secondary);
 
   &:hover {
     color: var(--secondary);
+    background-color: transparent;
     border-bottom-style: solid;
   }
 }
 
 // ---- drop cap: first paragraph of a prose reading unit only ----
 // `> p:first-of-type` keeps it off the play atoms, whose body is a table.
-body.reading-page .atom-split > p:first-of-type::first-letter {
+body.reading-page .ar-pane > p:first-of-type::first-letter {
   float: left;
   font-family: var(--titleFont), Georgia, serif;
   font-size: 3.9em;
@@ -1759,4 +1767,611 @@ footer a:hover {
     flex: none;
     text-align: left;
   }
+}
+
+// =====================================================================
+// HOME PLATE — design plate 1b
+// ---------------------------------------------------------------------
+// The system layer above restyled the existing furniture; this section is
+// the part of the redesign that changes the *layout* of the home page:
+// nameplate, hero, eight-axis grid, century timeline. The markup is emitted
+// by preprocess.mjs (search for "design plate 1b"), so the classes here and
+// the HTML there move together.
+//
+// Everything is scoped to `body[data-slug="index"]` or to the `hp-` prefix,
+// so nothing in this section can reach another page.
+// =====================================================================
+
+:root {
+  --rule-faint: #e4d9c7; // timeline hairlines — a step below --lightgray
+}
+
+:root[saved-theme="dark"] {
+  --rule-faint: #332e27;
+}
+
+// The sidebar already carries the site title, and the nameplate below repeats
+// it in the display cut. On the home page the sidebar copy is the redundant
+// one — and it links to the page we are already on.
+body[data-slug="index"] .page-title {
+  display: none;
+}
+
+// hero, grid and timeline are full-column: the 66ch measure is for prose
+.hp-hero,
+.hp-hero p,
+.hp-mast,
+.hp-mast p,
+.hp-axes,
+.hp-timeline,
+.hp-plate p,
+.hp-sec {
+  max-width: none;
+}
+
+// ---- rules: the two weights of the design ----
+.hp-rule-thin {
+  height: 1px;
+  background: var(--lightgray);
+}
+
+// masthead rule — 2px over 1px, the one place the double rule is used
+.hp-rule-double {
+  display: block;
+
+  span {
+    display: block;
+    background: var(--dark);
+
+    &:first-child {
+      height: 2px;
+    }
+
+    &:last-child {
+      height: 1px;
+      margin-top: 2px;
+    }
+  }
+}
+
+// ---- nameplate ----
+.hp-mast {
+  margin: 0 0 2.6rem;
+}
+
+.hp-eyebrow {
+  margin: 0 0 0.85rem;
+  font-family: var(--ui-font), system-ui, sans-serif;
+  font-size: 0.66rem;
+  font-weight: 600;
+  letter-spacing: 0.22em;
+  text-transform: uppercase;
+  color: var(--gray);
+}
+
+.hp-nameplate {
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-between;
+  gap: 2rem;
+  padding: 1.15rem 0 1.1rem;
+  flex-wrap: wrap;
+}
+
+.hp-wordmark {
+  display: flex;
+  align-items: baseline;
+  gap: 1.1rem;
+}
+
+.hp-wm-title {
+  font-family: var(--titleFont), Georgia, serif;
+  font-size: clamp(1.9rem, 4.4vw, 2.4rem);
+  line-height: 1;
+  letter-spacing: -0.01em;
+  color: var(--dark);
+  white-space: nowrap;
+}
+
+.hp-wm-bar {
+  width: 1px;
+  height: 1.6rem;
+  background: var(--rule-mid);
+}
+
+.hp-wm-sub {
+  font-family: var(--bodyFont), Georgia, serif;
+  font-style: italic;
+  font-size: 1rem;
+  color: var(--gray);
+}
+
+.hp-mast-stats {
+  font-family: var(--codeFont), ui-monospace, monospace;
+  font-size: 0.75rem;
+  color: var(--gray);
+  font-variant-numeric: tabular-nums;
+}
+
+.hp-nav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1.6rem;
+  padding: 0.75rem 0;
+
+  a {
+    font-family: var(--ui-font), system-ui, sans-serif;
+    font-size: 0.72rem;
+    font-weight: 600;
+    letter-spacing: 0.17em;
+    text-transform: uppercase;
+    color: var(--darkgray);
+    text-decoration: none;
+    padding-bottom: 4px;
+    border-bottom: 2px solid transparent;
+
+    &:hover {
+      color: var(--secondary);
+      border-bottom-color: var(--secondary);
+    }
+  }
+}
+
+// ---- hero ----
+.hp-hero {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) 20rem;
+  gap: 3.4rem;
+  align-items: start;
+  margin: 0 0 3.2rem;
+}
+
+.hp-kicker {
+  margin: 0 0 1rem;
+  font-family: var(--ui-font), system-ui, sans-serif;
+  font-size: 0.66rem;
+  font-weight: 600;
+  letter-spacing: 0.22em;
+  text-transform: uppercase;
+  color: var(--secondary);
+}
+
+// the one piece of type on the site allowed to be loud
+.hp-headline {
+  margin: 0 0 1.1rem;
+  font-family: var(--titleFont), Georgia, serif;
+  font-size: clamp(2.6rem, 6.4vw, 4.6rem);
+  line-height: 0.98;
+  font-weight: 400;
+  letter-spacing: -0.015em;
+  color: var(--dark);
+
+  // the second line answers the first, so it changes voice: text cut, italic
+  em {
+    font-family: var(--bodyFont), Georgia, serif;
+    font-style: italic;
+    font-size: 0.9em;
+  }
+}
+
+.hp-lead {
+  margin: 0 0 0.9rem;
+  font-size: 1.15rem;
+  line-height: 1.6;
+  color: var(--darkgray);
+  max-width: 56ch;
+}
+
+.hp-lead-alt {
+  margin: 0 0 1.6rem;
+  font-size: 1rem;
+  line-height: 1.6;
+  font-style: italic;
+  color: var(--gray);
+  max-width: 56ch;
+}
+
+.hp-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  margin: 0;
+}
+
+// ---- ruled stat plate ----
+.hp-plate {
+  background: var(--paper-2);
+  box-shadow: inset 0 0 0 1px var(--lightgray);
+  padding: 1.6rem 1.6rem 1.25rem;
+}
+
+.hp-plate-art {
+  display: flex;
+  justify-content: center;
+  color: var(--secondary);
+  opacity: 0.85;
+  margin-bottom: 0.9rem;
+
+  svg {
+    width: 100%;
+    max-width: 150px;
+    height: auto;
+  }
+}
+
+.hp-stats {
+  border-top: 1px solid var(--dark);
+}
+
+.hp-stat {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  padding: 0.5rem 0;
+  border-bottom: 1px solid var(--lightgray);
+}
+
+.hp-stat-k {
+  font-family: var(--ui-font), system-ui, sans-serif;
+  font-size: 0.66rem;
+  font-weight: 600;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  color: var(--darkgray);
+}
+
+.hp-stat-v {
+  font-family: var(--codeFont), ui-monospace, monospace;
+  font-size: 1rem;
+  color: var(--dark);
+  font-variant-numeric: tabular-nums;
+}
+
+.hp-plate-note {
+  margin: 0.9rem 0 0;
+  font-size: 0.88rem;
+  line-height: 1.55;
+  font-style: italic;
+  color: var(--gray);
+}
+
+// ---- section head: title left, pointer right, ink rule under both ----
+.hp-sec {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 1.25rem;
+  flex-wrap: wrap;
+  border-bottom: 1px solid var(--dark);
+  padding-bottom: 0.55rem;
+  margin: 3.2rem 0 1.4rem;
+
+  h2 {
+    margin: 0;
+    font-size: 1.6rem;
+    line-height: 1.1;
+    border-bottom: 0; // the flex container owns the rule
+  }
+
+  // the double rule the system layer gives .page-title would collide here
+  &::after {
+    content: none;
+  }
+}
+
+.hp-sec-link {
+  font-family: var(--ui-font), system-ui, sans-serif;
+  font-size: 0.7rem;
+  font-weight: 600;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--secondary);
+  text-decoration: none;
+  white-space: nowrap;
+}
+
+.hp-sec-note {
+  font-family: var(--codeFont), ui-monospace, monospace;
+  font-size: 0.72rem;
+  color: var(--gray);
+}
+
+// ---- the eight concept axes ----
+// 1px gaps over a hairline background: the grid lines are the container
+// showing through, so there are no doubled borders between cells.
+.hp-axes {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 1px;
+  background: var(--lightgray);
+  box-shadow: 0 0 0 1px var(--lightgray);
+  margin: 0 0 1rem;
+}
+
+.hp-axis {
+  display: flex;
+  gap: 0.8rem;
+  align-items: center;
+  padding: 0.9rem 1rem;
+  background: var(--light);
+  text-decoration: none;
+
+  &:hover {
+    background: var(--paper-2);
+
+    .hp-axis-name {
+      color: var(--secondary);
+    }
+  }
+}
+
+.hp-axis-em {
+  flex: 0 0 48px;
+  width: 48px;
+  height: 48px;
+  border-radius: 50%;
+  overflow: hidden;
+  background: var(--paper-2);
+  box-shadow: 0 0 0 1px var(--rule-mid);
+
+  img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+    margin: 0;
+    border-radius: 0;
+  }
+}
+
+.hp-axis-body {
+  min-width: 0;
+}
+
+.hp-axis-head {
+  display: flex;
+  align-items: baseline;
+  gap: 0.45rem;
+}
+
+.hp-axis-name {
+  font-family: var(--ui-font), system-ui, sans-serif;
+  font-size: 0.72rem;
+  font-weight: 600;
+  letter-spacing: 0.13em;
+  text-transform: uppercase;
+  color: var(--dark);
+}
+
+.hp-axis-n {
+  font-family: var(--codeFont), ui-monospace, monospace;
+  font-size: 0.72rem;
+  color: var(--secondary);
+  font-variant-numeric: tabular-nums;
+}
+
+.hp-axis-gloss {
+  display: block;
+  margin-top: 0.25rem;
+  font-family: var(--bodyFont), Georgia, serif;
+  font-style: italic;
+  font-size: 0.9rem;
+  line-height: 1.35;
+  color: var(--gray);
+}
+
+// ---- century timeline ----
+// A chart drawn in CSS: one row per author, the dot placed by percentage from
+// the year. preprocess.mjs computes the percentages (tlX) — nothing here knows
+// about dates, so the columns are pure layout.
+.hp-timeline {
+  background: var(--paper-2);
+  border-bottom: 1px solid var(--lightgray);
+  padding: 1rem 2rem 1.25rem;
+  margin: 0 0 1rem;
+}
+
+.hp-tl-axis,
+.hp-tl-foot,
+.hp-tl-row {
+  display: flex;
+  align-items: center;
+  gap: 0;
+}
+
+.hp-tl-name {
+  flex: 0 0 8.5rem;
+  text-align: right;
+  padding-right: 1rem;
+  font-family: var(--ui-font), system-ui, sans-serif;
+  font-size: 0.66rem;
+  font-weight: 600;
+  letter-spacing: 0.13em;
+  text-transform: uppercase;
+  color: var(--dark);
+}
+
+.hp-tl-track {
+  flex: 1;
+  position: relative;
+  height: 1.65rem;
+  min-width: 0;
+}
+
+.hp-tl-n {
+  flex: 0 0 3.4rem;
+  text-align: right;
+  font-family: var(--codeFont), ui-monospace, monospace;
+  font-size: 0.72rem;
+  color: var(--gray);
+  font-variant-numeric: tabular-nums;
+}
+
+.hp-tl-axis {
+  height: 1.2rem;
+
+  .hp-tl-track {
+    height: 1.2rem;
+  }
+}
+
+.hp-tl-tick {
+  position: absolute;
+  bottom: 0;
+  transform: translateX(-50%);
+  font-family: var(--codeFont), ui-monospace, monospace;
+  font-size: 0.72rem;
+  color: var(--gray);
+  font-variant-numeric: tabular-nums;
+}
+
+.hp-tl-body {
+  border-top: 1px solid var(--dark);
+  border-bottom: 1px solid var(--dark);
+}
+
+.hp-tl-row {
+  border-bottom: 1px solid var(--rule-faint);
+  text-decoration: none;
+
+  &:last-child {
+    border-bottom: 0;
+  }
+
+  &:hover {
+    background: color-mix(in srgb, var(--secondary) 7%, transparent);
+
+    .hp-tl-name {
+      color: var(--secondary);
+    }
+  }
+}
+
+// the row's own baseline, so a dot with no neighbours still reads as a position
+.hp-tl-track::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 50%;
+  height: 1px;
+  background: var(--rule-faint);
+}
+
+.hp-tl-grid {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  width: 1px;
+  background: var(--rule-faint);
+}
+
+.hp-tl-dot {
+  position: absolute;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  width: 9px;
+  height: 9px;
+  border-radius: 50%;
+  background: var(--secondary);
+  box-shadow: 0 0 0 2.5px var(--paper-2);
+}
+
+.hp-tl-year {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  margin-left: 11px;
+  font-family: var(--codeFont), ui-monospace, monospace;
+  font-size: 0.72rem;
+  color: var(--darkgray);
+  font-variant-numeric: tabular-nums;
+}
+
+.hp-tl-foot {
+  padding-top: 0.45rem;
+
+  .hp-tl-name,
+  .hp-tl-n {
+    font-size: 0.6rem;
+    letter-spacing: 0.16em;
+    color: var(--gray);
+  }
+
+  .hp-tl-track {
+    height: auto;
+    font-family: var(--bodyFont), Georgia, serif;
+    font-size: 0.85rem;
+    color: var(--gray);
+
+    &::before {
+      content: none;
+    }
+  }
+}
+
+// ---- narrow viewports ----
+// The plate drops under the hero, the axis grid halves then singles, and the
+// timeline's name column shrinks before the track does — the track is the part
+// carrying the information.
+@media all and (max-width: 1000px) {
+  .hp-hero {
+    grid-template-columns: minmax(0, 1fr);
+    gap: 2.2rem;
+  }
+
+  .hp-axes {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+@media all and (max-width: 600px) {
+  .hp-axes {
+    grid-template-columns: minmax(0, 1fr);
+  }
+
+  .hp-nameplate {
+    align-items: flex-start;
+    flex-direction: column;
+    gap: 0.7rem;
+  }
+
+  .hp-nav {
+    gap: 1rem;
+  }
+
+  .hp-timeline {
+    padding: 1rem 0.5rem 1.25rem;
+  }
+
+  .hp-tl-name {
+    flex: 0 0 5.6rem;
+    font-size: 0.58rem;
+    letter-spacing: 0.08em;
+    padding-right: 0.5rem;
+  }
+
+  .hp-tl-n {
+    flex: 0 0 2.2rem;
+  }
+
+  .hp-tl-year {
+    display: none; // the dot and the axis ticks carry it
+  }
+}
+
+// ---- callouts: the two the corpus actually uses, in the house palette ----
+// callouts.scss ships Obsidian's default hues; `abstract` is #00b0ff and `note` is
+// #448aff — two saturated blues on warm cream, the one clash left in the palette after
+// the restyle. The work pages open with an `abstract` callout, so this is the callout
+// the reader meets first. Overriding `--color` is enough: the stripe, the icon tint and
+// the title colour all derive from it.
+.callout[data-callout="abstract"],
+.callout[data-callout="summary"],
+.callout[data-callout="tldr"] {
+  --color: #4c6150; // tertiary — the sage the site uses for "secondary voice"
+}
+
+.callout[data-callout="note"] {
+  --color: #a98a4f; // gold, kept for ornament-level asides
 }

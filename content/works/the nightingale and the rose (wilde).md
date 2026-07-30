@@ -36,6 +36,10 @@ tags:
 > [!abstract] 
 > A nightingale gives her heart's blood to make a red rose for love, only for the gift to be scorned; a fairy tale on self-sacrifice, the worth of love versus utility, and white turning to red.
 
+## Testo / Text
+
+- [The Nightingale and the Rose](/testi/wilde/atomized/012_the_nightingale_and_the_rose#012_the_nightingale_and_the_rose)
+
 
 <div class="work-readability" style="border:1px solid var(--lightgray,#e5e5e5);border-radius:8px;padding:.5rem .7rem;margin:.7rem 0;font-size:.9rem"><span style="color:var(--gray,#888);text-transform:uppercase;font-size:.72rem;letter-spacing:.03em;margin-right:.4rem">Readability (prose)</span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">84.7</b> <span style="color:var(--gray,#888);font-size:.8em">Flesch ease</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">5.9</b> <span style="color:var(--gray,#888);font-size:.8em">FK grade</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">8.7</b> <span style="color:var(--gray,#888);font-size:.8em">Fog</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">4%</b> <span style="color:var(--gray,#888);font-size:.8em">complex</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">17.9</b> <span style="color:var(--gray,#888);font-size:.8em">words/sent</span></span></div>
 

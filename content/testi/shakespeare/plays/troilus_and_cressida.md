@@ -1879,7 +1879,7 @@ Exit
 
 
 
-<span class="atom-split" data-atom="act_2--scene_1" data-title="Troilus and Cressida — Act II, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="archetype/fool,archetype/king,motif/blood,motif/death,motif/dreams,motif/home,motif/horse,motif/nature,motif/prayer,motif/sleep,motif/soul,motif/tears,motif/time,motif/well,concept/beauty,concept/courage,concept/doubt,concept/fear,concept/greatness,concept/honour,concept/nature,concept/revenge,concept/truth,setting/paris,character/achilles,character/agamemnon,character/ajax,character/apollo,character/bottom,character/cressida,character/hector,character/helen,character/queen,character/thersites,character/troilus,character/ulysses,character/witch"></span>
+<span class="atom-split" data-atom="act_2--scene_1" data-title="Troilus and Cressida — Act II, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="archetype/fool,motif/horse,motif/prayer,motif/well,concept/beauty,concept/greatness,character/achilles,character/agamemnon,character/ajax,character/cressida,character/hector,character/helen,character/thersites,character/troilus,character/ulysses,character/witch"></span>
 
 
 | Speaker | Line |
@@ -1974,7 +1974,16 @@ Exit
 | *(didascalia)* | He knew his man. Exeunt [[Achilles]] and Patroclus |
 | [[Ajax\|AJAX]] | O, meaning you? I will go learn more of it. |
 | *(didascalia)* | Exit |
-| *(didascalia)* | 2.2 Sennet. Enter [[King]] Priam, [[Hector]], [[Troilus]], [[Paris]], and Helenus |
+
+
+
+
+<span class="atom-split" data-atom="act_2--scene_2" data-title="Troilus and Cressida — Act II, Scene 2" data-chapter="Scene 2" data-kind="scene" data-tags="archetype/king,motif/blood,motif/death,motif/dreams,motif/home,motif/nature,motif/prayer,motif/sleep,motif/soul,motif/tears,motif/time,motif/well,concept/beauty,concept/courage,concept/doubt,concept/fear,concept/honour,concept/nature,concept/revenge,concept/truth,setting/paris,character/apollo,character/bottom,character/cressida,character/hector,character/helen,character/queen,character/troilus"></span>
+
+
+| Speaker | Line |
+|---|---|
+| *(didascalia)* | Sennet. Enter [[King]] Priam, [[Hector]], [[Troilus]], [[Paris]], and Helenus |
 | PRIAM | After so many hours, lives, speeches spent,<br>Thus once again says Nestor from the Greeks:<br>‘Deliver [[Helen]], and all damage else—<br>As [[Honour\|honour]], loss of [[Time\|time]], travail, expense,<br>Wounds, friends, and what else dear that is consumed<br>In hot digestion of this cormorant war—<br>Shall be struck off.’ [[Hector]], what say you to’t? |
 | [[Hector\|HECTOR]] | Though no man lesser fears the Greeks than I,<br>As far as toucheth my particular, yet, dread Priam,<br>There is no lady of more softer bowels,<br>More spongy to suck in the sense of [[Fear\|fear]],<br>More ready to cry out, ‘Who knows what follows?’<br>Than [[Hector]] is. The wound of peace is surety,<br>Surety secure; but modest [[Doubt\|doubt]] is called<br>The beacon of the wise, the tent that searches<br>To th’ [[Bottom\|bottom]] of the worst. Let [[Helen]] go.<br>Since the first [[Sword\|sword]] was drawn about this question,<br>Every tithe-[[Soul\|soul]], ’mongst many thousand dimes,<br>Hath been as dear as [[Helen]]—I mean, of ours.<br>If we have lost so many tenths of ours<br>To guard a thing not ours—nor worth to us,<br>Had it our name, the value of one ten—<br>What merit’s in that reason which denies<br>The yielding of her up? |
 | [[Troilus\|TROILUS]] | Fie, fie, my brother!<br>Weigh you the worth and [[Honour\|honour]] of a [[King\|king]]<br>So great as our dread father in a scale<br>Of common ounces? Will you with counters sum<br>The past-proportion of his infinite,<br>And buckle in a waist most fathomless<br>With spans and inches so diminutive<br>As fears and reasons? Fie, for godly shame! |
@@ -2594,7 +2603,7 @@ Exit
 
 
 
-<span class="atom-split" data-atom="act_4--scene_6" data-title="Troilus and Cressida — Act IV, Scene 6" data-chapter="Scene 6" data-kind="scene" data-tags="archetype/lover,archetype/villain,motif/blood,motif/city,motif/death,motif/desire,motif/home,motif/journey,motif/love,motif/soul,motif/time,motif/well,motif/winter,concept/aspiration,concept/body,concept/courage,concept/faith,concept/fear,concept/honour,concept/hope,concept/pride,concept/wonder,setting/paris,character/achilles,character/agamemnon,character/ajax,character/cressida,character/hector,character/helen,character/troilus,character/ulysses,character/venus"></span>
+<span class="atom-split" data-atom="act_4--scene_6" data-title="Troilus and Cressida — Act IV, Scene 6" data-chapter="Scene 6" data-kind="scene" data-tags="archetype/villain,motif/blood,motif/desire,motif/home,motif/love,motif/soul,motif/time,motif/well,motif/winter,concept/aspiration,concept/body,concept/courage,concept/hope,concept/pride,setting/paris,character/achilles,character/agamemnon,character/ajax,character/cressida,character/hector,character/helen,character/troilus,character/ulysses,character/venus"></span>
 
 
 | Speaker | Line |
@@ -2672,7 +2681,16 @@ Exit
 | NESTOR | Now, [[Ajax]], hold thine own! |
 | [[Troilus\|TROILUS]] | [[Hector]], thou steep’st! Awake thee! |
 | *(didascalia)* | His blows are [[Well\|well]] disposed. There, [[Ajax]]! Exeunt |
-| *(didascalia)* | 4.7 Enter [[Hector]] and [[Ajax]] fighting, and Aeneas and |
+
+
+
+
+<span class="atom-split" data-atom="act_4--scene_7" data-title="Troilus and Cressida — Act IV, Scene 7" data-chapter="Scene 7" data-kind="scene" data-tags="archetype/lover,motif/blood,motif/city,motif/death,motif/desire,motif/home,motif/journey,motif/love,motif/time,motif/well,concept/body,concept/faith,concept/fear,concept/honour,concept/wonder,character/achilles,character/agamemnon,character/ajax,character/cressida,character/hector,character/troilus,character/ulysses,character/venus"></span>
+
+
+| Speaker | Line |
+|---|---|
+| *(didascalia)* | Enter [[Hector]] and [[Ajax]] fighting, and Aeneas and |
 | *(didascalia)* | Diomedes interposing. Trumpets cease |
 | DIOMEDES | You must no more. |
 | AENEAS | Princes, enough, so please you. |

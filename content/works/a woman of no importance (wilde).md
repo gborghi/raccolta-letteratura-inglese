@@ -57,6 +57,68 @@ tags:
 > [!abstract] 
 > Wilde's 1893 society comedy turning on the dandy Lord Illingworth, his abandoned former lover Mrs. Arbuthnot and their illegitimate son; an epigram-laden satire of the English aristocracy that exposes the double standard punishing the fallen woman while the man goes free.
 
+## Testo / Text
+
+- [Act 1 [1]](/testi/wilde/plays/a_woman_of_no_importance#act_1--scene_1--part_01(cf-2))
+
+## Parti / Parts
+
+- [Part 1](/testi/wilde/plays/a_woman_of_no_importance#act_1--scene_1--part_01)
+- [Part 1](/testi/wilde/plays/a_woman_of_no_importance#act_2--scene_1--part_01)
+- [Part 1](/testi/wilde/plays/a_woman_of_no_importance#act_3--scene_1--part_01)
+- [Part 1](/testi/wilde/plays/a_woman_of_no_importance#act_4--scene_1--part_01)
+- [Part 2](/testi/wilde/plays/a_woman_of_no_importance#act_1--scene_1--part_02)
+- [Part 2](/testi/wilde/plays/a_woman_of_no_importance#act_2--scene_1--part_02)
+- [Part 2](/testi/wilde/plays/a_woman_of_no_importance#act_3--scene_1--part_02)
+- [Part 2](/testi/wilde/plays/a_woman_of_no_importance#act_4--scene_1--part_02)
+- [Part 3](/testi/wilde/plays/a_woman_of_no_importance#act_1--scene_1--part_03)
+- [Part 3](/testi/wilde/plays/a_woman_of_no_importance#act_2--scene_1--part_03)
+- [Part 3](/testi/wilde/plays/a_woman_of_no_importance#act_3--scene_1--part_03)
+- [Part 3](/testi/wilde/plays/a_woman_of_no_importance#act_4--scene_1--part_03)
+- [Part 4](/testi/wilde/plays/a_woman_of_no_importance#act_1--scene_1--part_04)
+- [Part 4](/testi/wilde/plays/a_woman_of_no_importance#act_2--scene_1--part_04)
+- [Part 4](/testi/wilde/plays/a_woman_of_no_importance#act_3--scene_1--part_04)
+- [Part 4](/testi/wilde/plays/a_woman_of_no_importance#act_4--scene_1--part_04)
+- [Part 5](/testi/wilde/plays/a_woman_of_no_importance#act_1--scene_1--part_05)
+- [Part 5](/testi/wilde/plays/a_woman_of_no_importance#act_2--scene_1--part_05)
+- [Part 5](/testi/wilde/plays/a_woman_of_no_importance#act_3--scene_1--part_05)
+- [Part 5](/testi/wilde/plays/a_woman_of_no_importance#act_4--scene_1--part_05)
+- [Part 6](/testi/wilde/plays/a_woman_of_no_importance#act_1--scene_1--part_06)
+- [Part 6](/testi/wilde/plays/a_woman_of_no_importance#act_2--scene_1--part_06)
+- [Part 6](/testi/wilde/plays/a_woman_of_no_importance#act_3--scene_1--part_06)
+- [Part 6](/testi/wilde/plays/a_woman_of_no_importance#act_4--scene_1--part_06)
+- [Part 7](/testi/wilde/plays/a_woman_of_no_importance#act_1--scene_1--part_07)
+- [Part 7](/testi/wilde/plays/a_woman_of_no_importance#act_2--scene_1--part_07)
+- [Part 7](/testi/wilde/plays/a_woman_of_no_importance#act_3--scene_1--part_07)
+- [Part 7](/testi/wilde/plays/a_woman_of_no_importance#act_4--scene_1--part_07)
+- [Part 8](/testi/wilde/plays/a_woman_of_no_importance#act_1--scene_1--part_08)
+- [Part 8](/testi/wilde/plays/a_woman_of_no_importance#act_2--scene_1--part_08)
+- [Part 8](/testi/wilde/plays/a_woman_of_no_importance#act_3--scene_1--part_08)
+- [Part 8](/testi/wilde/plays/a_woman_of_no_importance#act_4--scene_1--part_08)
+- [Part 9](/testi/wilde/plays/a_woman_of_no_importance#act_1--scene_1--part_09)
+- [Part 9](/testi/wilde/plays/a_woman_of_no_importance#act_2--scene_1--part_09)
+- [Part 9](/testi/wilde/plays/a_woman_of_no_importance#act_3--scene_1--part_09)
+- [Part 9](/testi/wilde/plays/a_woman_of_no_importance#act_4--scene_1--part_09)
+- [Part 10](/testi/wilde/plays/a_woman_of_no_importance#act_1--scene_1--part_10)
+- [Part 10](/testi/wilde/plays/a_woman_of_no_importance#act_2--scene_1--part_10)
+- [Part 10](/testi/wilde/plays/a_woman_of_no_importance#act_3--scene_1--part_10)
+- [Part 10](/testi/wilde/plays/a_woman_of_no_importance#act_4--scene_1--part_10)
+- [Part 11](/testi/wilde/plays/a_woman_of_no_importance#act_1--scene_1--part_11)
+- [Part 11](/testi/wilde/plays/a_woman_of_no_importance#act_2--scene_1--part_11)
+- [Part 11](/testi/wilde/plays/a_woman_of_no_importance#act_3--scene_1--part_11)
+- [Part 11](/testi/wilde/plays/a_woman_of_no_importance#act_4--scene_1--part_11)
+- [Part 12](/testi/wilde/plays/a_woman_of_no_importance#act_1--scene_1--part_12)
+- [Part 12](/testi/wilde/plays/a_woman_of_no_importance#act_2--scene_1--part_12)
+- [Part 12](/testi/wilde/plays/a_woman_of_no_importance#act_3--scene_1--part_12)
+- [Part 12](/testi/wilde/plays/a_woman_of_no_importance#act_4--scene_1--part_12)
+- [Part 13](/testi/wilde/plays/a_woman_of_no_importance#act_2--scene_1--part_13)
+- [Part 13](/testi/wilde/plays/a_woman_of_no_importance#act_3--scene_1--part_13)
+- [Part 13](/testi/wilde/plays/a_woman_of_no_importance#act_4--scene_1--part_13)
+- [Part 14](/testi/wilde/plays/a_woman_of_no_importance#act_2--scene_1--part_14)
+- [Part 15](/testi/wilde/plays/a_woman_of_no_importance#act_2--scene_1--part_15)
+- [Part 16](/testi/wilde/plays/a_woman_of_no_importance#act_2--scene_1--part_16)
+- [Part 17](/testi/wilde/plays/a_woman_of_no_importance#act_2--scene_1--part_17)
+
 ## Connections
 
 **Topoi:** [[Fall from Innocence]], [[World Upside Down]], [[Paradise Lost]]

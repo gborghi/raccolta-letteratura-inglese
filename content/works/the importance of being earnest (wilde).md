@@ -45,6 +45,60 @@ tags:
 > [!abstract] 
 > Farcical comedy of manners turning on Bunburying/double identities, courtship and marriage, and a sustained satire of late-Victorian London society.
 
+## Testo / Text
+
+- [The Importance of Being Earnest](/testi/wilde/plays/the_importance_of_being_earnest#the_importance_of_being_earnest)
+
+## Parti / Parts
+
+- [Part 1](/testi/wilde/plays/the_importance_of_being_earnest#act_1--scene_1--part_01)
+- [Part 1](/testi/wilde/plays/the_importance_of_being_earnest#act_2--scene_1--part_01)
+- [Part 1](/testi/wilde/plays/the_importance_of_being_earnest#act_3--scene_1--part_01)
+- [Part 2](/testi/wilde/plays/the_importance_of_being_earnest#act_1--scene_1--part_02)
+- [Part 2](/testi/wilde/plays/the_importance_of_being_earnest#act_2--scene_1--part_02)
+- [Part 2](/testi/wilde/plays/the_importance_of_being_earnest#act_3--scene_1--part_02)
+- [Part 3](/testi/wilde/plays/the_importance_of_being_earnest#act_1--scene_1--part_03)
+- [Part 3](/testi/wilde/plays/the_importance_of_being_earnest#act_2--scene_1--part_03)
+- [Part 3](/testi/wilde/plays/the_importance_of_being_earnest#act_3--scene_1--part_03)
+- [Part 4](/testi/wilde/plays/the_importance_of_being_earnest#act_1--scene_1--part_04)
+- [Part 4](/testi/wilde/plays/the_importance_of_being_earnest#act_2--scene_1--part_04)
+- [Part 4](/testi/wilde/plays/the_importance_of_being_earnest#act_3--scene_1--part_04)
+- [Part 5](/testi/wilde/plays/the_importance_of_being_earnest#act_1--scene_1--part_05)
+- [Part 5](/testi/wilde/plays/the_importance_of_being_earnest#act_2--scene_1--part_05)
+- [Part 5](/testi/wilde/plays/the_importance_of_being_earnest#act_3--scene_1--part_05)
+- [Part 6](/testi/wilde/plays/the_importance_of_being_earnest#act_1--scene_1--part_06)
+- [Part 6](/testi/wilde/plays/the_importance_of_being_earnest#act_2--scene_1--part_06)
+- [Part 6](/testi/wilde/plays/the_importance_of_being_earnest#act_3--scene_1--part_06)
+- [Part 7](/testi/wilde/plays/the_importance_of_being_earnest#act_1--scene_1--part_07)
+- [Part 7](/testi/wilde/plays/the_importance_of_being_earnest#act_2--scene_1--part_07)
+- [Part 7](/testi/wilde/plays/the_importance_of_being_earnest#act_3--scene_1--part_07)
+- [Part 8](/testi/wilde/plays/the_importance_of_being_earnest#act_1--scene_1--part_08)
+- [Part 8](/testi/wilde/plays/the_importance_of_being_earnest#act_2--scene_1--part_08)
+- [Part 8](/testi/wilde/plays/the_importance_of_being_earnest#act_3--scene_1--part_08)
+- [Part 9](/testi/wilde/plays/the_importance_of_being_earnest#act_1--scene_1--part_09)
+- [Part 9](/testi/wilde/plays/the_importance_of_being_earnest#act_2--scene_1--part_09)
+- [Part 9](/testi/wilde/plays/the_importance_of_being_earnest#act_3--scene_1--part_09)
+- [Part 10](/testi/wilde/plays/the_importance_of_being_earnest#act_1--scene_1--part_10)
+- [Part 10](/testi/wilde/plays/the_importance_of_being_earnest#act_2--scene_1--part_10)
+- [Part 10](/testi/wilde/plays/the_importance_of_being_earnest#act_3--scene_1--part_10)
+- [Part 11](/testi/wilde/plays/the_importance_of_being_earnest#act_1--scene_1--part_11)
+- [Part 11](/testi/wilde/plays/the_importance_of_being_earnest#act_2--scene_1--part_11)
+- [Part 11](/testi/wilde/plays/the_importance_of_being_earnest#act_3--scene_1--part_11)
+- [Part 12](/testi/wilde/plays/the_importance_of_being_earnest#act_1--scene_1--part_12)
+- [Part 12](/testi/wilde/plays/the_importance_of_being_earnest#act_2--scene_1--part_12)
+- [Part 12](/testi/wilde/plays/the_importance_of_being_earnest#act_3--scene_1--part_12)
+- [Part 13](/testi/wilde/plays/the_importance_of_being_earnest#act_1--scene_1--part_13)
+- [Part 13](/testi/wilde/plays/the_importance_of_being_earnest#act_2--scene_1--part_13)
+- [Part 14](/testi/wilde/plays/the_importance_of_being_earnest#act_1--scene_1--part_14)
+- [Part 14](/testi/wilde/plays/the_importance_of_being_earnest#act_2--scene_1--part_14)
+- [Part 15](/testi/wilde/plays/the_importance_of_being_earnest#act_1--scene_1--part_15)
+- [Part 15](/testi/wilde/plays/the_importance_of_being_earnest#act_2--scene_1--part_15)
+- [Part 16](/testi/wilde/plays/the_importance_of_being_earnest#act_1--scene_1--part_16)
+- [Part 16](/testi/wilde/plays/the_importance_of_being_earnest#act_2--scene_1--part_16)
+- [Part 17](/testi/wilde/plays/the_importance_of_being_earnest#act_1--scene_1--part_17)
+- [Part 17](/testi/wilde/plays/the_importance_of_being_earnest#act_2--scene_1--part_17)
+- [Part 18](/testi/wilde/plays/the_importance_of_being_earnest#act_2--scene_1--part_18)
+
 ## Connections
 
 **Topoi:** [[World Upside Down]], [[Theatrum Mundi]], [[Double]]

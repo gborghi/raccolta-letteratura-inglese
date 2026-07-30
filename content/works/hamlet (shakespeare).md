@@ -57,6 +57,7 @@ tags:
 - [Act I, Scene 4](/testi/shakespeare/plays/hamlet#act_1--scene_4)
 - [Act I, Scene 5](/testi/shakespeare/plays/hamlet#act_1--scene_5)
 - [Act II, Scene 1](/testi/shakespeare/plays/hamlet#act_2--scene_1)
+- [Act II, Scene 2](/testi/shakespeare/plays/hamlet#act_2--scene_2)
 - [Act III, Scene 1](/testi/shakespeare/plays/hamlet#act_3--scene_1)
 - [Act III, Scene 2](/testi/shakespeare/plays/hamlet#act_3--scene_2)
 - [Act III, Scene 3](/testi/shakespeare/plays/hamlet#act_3--scene_3)

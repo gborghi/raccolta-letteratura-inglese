@@ -741,16 +741,6 @@ A Midsummer [[Night]]’s Dream
 | [[Theseus\|THESEUS]] | Go, bring them in; and take your places, ladies. |
 | *(didascalia)* | Exit Philostrate |
 | [[Hippolyta\|HIPPOLYTA]] | I [[Love\|love]] not to see wretchedness o’ercharged<br>And duty in his service perishing. |
-| [[King John\|KING JOHN]] | A PLAY called The Troublesome Reign of John, [[King]] of England, published anonymously in 1591, has sometimes been thought to be a derivative version of Shakespeare’s [[King John]], first published in the 1623 Folio; more probably Shakespeare wrote his play in 1595 or 1596, using The Troublesome Reign—itself based on Holinshed’s Chronicles and John Foxe’s Book of Martyrs (1563)—as his principal source. Like [[Richard II]], [[King John]] is written entirely in verse.<br>[[King John]] (c.1167―1216) was famous as the opponent of papal tyranny, and The Troublesome Reign is a violently anti-Catholic play; but Shakespeare is more moderate. He portrays selected events from John’s reign—like The Troublesome Reign, making no mention of Magna Carta—and ends with John’s [[Death\|death]], but John is not so dominant a figure in his play as [[Richard II]] or [[Richard III]] in theirs. Indeed, the longest—and liveliest—role is that of [[Richard]] Coeur-de-[[Lion\|lion]]’s illegitimate son, Philip Falconbridge, the Bastard.<br>[[King John]]’s reign was troublesome initially because of his weak claim to his brother [[Richard]] Coeur-de-[[Lion\|lion]]’s throne. Prince [[Arthur]], son of John’s elder brother Geoffrey, had no less strong a claim, which is upheld by his mother, [[Constance]], and by [[King Philip of France]]. The waste and futility of the consequent war between power-hungry leaders is satirically demonstrated in the dispute over the French town of Angers, which is resolved by a [[Marriage\|marriage]] between John’s niece, Lady Blanche of Spain, and Louis, the French [[Dauphin]]. The moral is strikingly drawn by the Bastard—the man best fitted to be [[King\|king]], but debarred by accident of birth—in his speech (2.1.562-99) on ’commodity’ ([[Self\|self]]-interest). [[King]] Philip breaks his treaty with England, and in the ensuing battle Prince [[Arthur]] is captured. He becomes the play’s [[Touchstone\|touchstone]] of humanity as he persuades John’s agent, [[Hubert]], to disobey John’s orders to blind him, only to kill himself while trying to escape. John’s noblemen, thinking the [[King]] responsible for the boy’s [[Death\|death]], defect to the French, but return to their allegiance on learning that the [[Dauphin]] intends to kill them after conquering England. John dies, poisoned by a monk; the play ends with the reunited noblemen swearing allegiance to John’s son, the young Henry III, and with the Bastard’s boast that<br>This England never did, nor never shall,<br>Lie at the proud foot of a conqueror<br>But when it first did help to wound itself.<br>Twentieth-century revivals of [[King John]] were infrequent, but it was popular in the nineteenth century, when the roles of the [[King]], the Bastard, and [[Constance]] all appealed to successful actors; a production of 1823 at Covent [[Garden]] inaugurated a trend for historically accurate settings and costumes which led to a number of spectacular revivals. |
-| THE PERSONS OF THE | PLAY |
-| [[King John\|KING JOHN]] | of England |
-| [[Queen\|QUEEN]] | [[Eleanor\|ELEANOR]], his mother |
-| LADY FALCONBRIDGE | [[Philip the Bastard\|Philip the BASTARD]], later knighted as Sir [[Richard]] Plantagenet,<br>her illegitimate son by [[King]] [[Richard]] I (Coeur-de-[[Lion\|lion]])<br>Robert FALCONBRIDGE, her legitimate son<br>James GURNEY, her attendant<br><br>Lady BLANCHE of Spain, niece of [[King John]] |
-| PRINCE | HENRY, son of [[King John]]<br>[[Hubert\|HUBERT]], a follower of [[King John]]<br>[[Earl of Salisbury\|Earl of SALISBURY]]<br>Earl of PEMBROKE<br>Earl of ESSEX<br>Lord BIGOT |
-| [[King\|KING]] PHILIP | of France |
-| LOUIS THE | [[Dauphin\|DAUPHIN]], his son<br>[[Arthur\|ARTHUR]], Duke of Brittaine, nephew of [[King John]]<br>Lady [[Constance\|coNSTANCE]], his mother<br>Duke of AUSTRIA (Limoges)<br>CHÂTILLON, ambassador from France to England<br>Count MELUN<br><br>A CITIZEN of Angers<br>Cardinal PANDOLF, a legate from the Pope |
-| PETER OF | POMFRET, a [[Prophet\|prophet]] |
-| SHERIFF | Lords, soldiers, attendants |
 
 
 
@@ -1056,7 +1046,7 @@ A Midsummer [[Night]]’s Dream
 
 
 
-<span class="atom-split" data-atom="act_3--scene_2" data-title="A Midsummer Nights Dream — Act III, Scene 2" data-chapter="Scene 2" data-kind="scene" data-tags="topos/double,archetype/child,archetype/king,archetype/lover,archetype/monster,archetype/villain,motif/blood,motif/childhood,motif/cross,motif/death,motif/desire,motif/ghosts,motif/home,motif/love,motif/moon,motif/night,motif/sleep,motif/snow,motif/soul,motif/stars,motif/tears,motif/time,motif/well,motif/wind,concept/doubt,concept/faith,concept/fear,concept/friendship,concept/hope,concept/revenge,concept/truth,concept/union,concept/wonder,character/demetrius,character/dwarf,character/helen,character/helena,character/hermia,character/lysander,character/oberon,character/puck,character/queen,character/theseus,character/titania,character/venus"></span>
+<span class="atom-split" data-atom="act_3--scene_2" data-title="A Midsummer Nights Dream — Act III, Scene 2" data-chapter="Scene 2" data-kind="scene" data-tags="topos/double,archetype/child,archetype/king,archetype/lover,archetype/monster,archetype/villain,motif/blood,motif/childhood,motif/cross,motif/death,motif/desire,motif/ghosts,motif/home,motif/love,motif/moon,motif/night,motif/sleep,motif/snow,motif/soul,motif/stars,motif/tears,motif/time,motif/well,motif/wind,concept/doubt,concept/faith,concept/fear,concept/friendship,concept/hope,concept/truth,concept/union,concept/wonder,character/demetrius,character/dwarf,character/helen,character/helena,character/hermia,character/lysander,character/oberon,character/puck,character/queen,character/theseus,character/titania,character/venus"></span>
 
 
 | Speaker | Line |
@@ -1186,7 +1176,16 @@ A Midsummer [[Night]]’s Dream
 | *(didascalia)* | [[Demetrius\|DEMETRIUS]] shifting place Yea, art thou there? |
 | *(didascalia)* | ROBIN shifting place |
 | [[Lysander\|LYSANDER]] | Follow my voice; we’ll try no manhood here. Exeunt |
-| *(didascalia)* | 3.3 Enter [[Lysander]] |
+
+
+
+
+<span class="atom-split" data-atom="act_3--scene_3" data-title="A Midsummer Nights Dream — Act III, Scene 3" data-chapter="Scene 3" data-kind="scene" data-tags="archetype/lover,archetype/villain,motif/night,motif/sleep,motif/well,concept/revenge,character/demetrius,character/helena,character/hermia,character/lysander"></span>
+
+
+| Speaker | Line |
+|---|---|
+| *(didascalia)* | Enter [[Lysander]] |
 | [[Lysander\|LYSANDER]] | He goes before me, and still dares me on;<br>When I come where he calls, then he is gone.<br>The [[Villain\|villain]] is much lighter heeled than I;<br>I followed fast, but faster he did fly,<br>That fallen am I in dark uneven way,<br>And here will rest me.<br>He lies down<br>Come, thou gentle day;<br>For if but once thou show me thy grey light,<br>I’ll find [[Demetrius]], and [[Revenge\|revenge]] this spite. He sleeps |
 | *(didascalia)* | Enter Robin Goodfellow and [[Demetrius]] |
 | *(didascalia)* | ROBIN shifting place |
@@ -1304,7 +1303,7 @@ A Midsummer [[Night]]’s Dream
 
 
 
-<span class="atom-split" data-atom="act_5--scene_1" data-title="A Midsummer Nights Dream — Act V, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="archetype/king,archetype/lover,archetype/prophet,motif/death,motif/garden,motif/lion,motif/love,motif/marriage,motif/night,motif/time,concept/beauty,concept/fear,concept/imagination,concept/self,form/masque,form/satire,setting/egypt,character/arthur,character/constance,character/dauphin,character/demetrius,character/earl_of_salisbury,character/eleanor,character/helen,character/helena,character/hermia,character/hippolyta,character/hubert,character/king_john,character/king_philip_of_france,character/lysander,character/philip_the_bastard,character/queen,character/richard,character/richard_ii,character/richard_iii,character/theseus,character/touchstone"></span>
+<span class="atom-split" data-atom="act_5--scene_1" data-title="A Midsummer Nights Dream — Act V, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="archetype/lover,motif/death,motif/love,motif/night,motif/time,concept/beauty,concept/fear,concept/imagination,form/masque,form/satire,setting/egypt,character/arthur,character/demetrius,character/helen,character/helena,character/hermia,character/hippolyta,character/lysander,character/theseus"></span>
 
 
 | Speaker | Line |
@@ -1325,16 +1324,6 @@ A Midsummer [[Night]]’s Dream
 | [[Theseus\|THESEUS]] | Go, bring them in; and take your places, ladies. |
 | *(didascalia)* | Exit Philostrate |
 | [[Hippolyta\|HIPPOLYTA]] | I [[Love\|love]] not to see wretchedness o’ercharged<br>And duty in his service perishing. |
-| [[King John\|KING JOHN]] | A PLAY called The Troublesome Reign of John, [[King]] of England, published anonymously in 1591, has sometimes been thought to be a derivative version of Shakespeare’s [[King John]], first published in the 1623 Folio; more probably Shakespeare wrote his play in 1595 or 1596, using The Troublesome Reign—itself based on Holinshed’s Chronicles and John Foxe’s Book of Martyrs (1563)—as his principal source. Like [[Richard II]], [[King John]] is written entirely in verse.<br>[[King John]] (c.1167―1216) was famous as the opponent of papal tyranny, and The Troublesome Reign is a violently anti-Catholic play; but Shakespeare is more moderate. He portrays selected events from John’s reign—like The Troublesome Reign, making no mention of Magna Carta—and ends with John’s [[Death\|death]], but John is not so dominant a figure in his play as [[Richard II]] or [[Richard III]] in theirs. Indeed, the longest—and liveliest—role is that of [[Richard]] Coeur-de-[[Lion\|lion]]’s illegitimate son, Philip Falconbridge, the Bastard.<br>[[King John]]’s reign was troublesome initially because of his weak claim to his brother [[Richard]] Coeur-de-[[Lion\|lion]]’s throne. Prince [[arthur\|Arthur]], son of John’s elder brother Geoffrey, had no less strong a claim, which is upheld by his mother, [[Constance]], and by [[King Philip of France]]. The waste and futility of the consequent war between power-hungry leaders is satirically demonstrated in the dispute over the French town of Angers, which is resolved by a [[Marriage\|marriage]] between John’s niece, Lady Blanche of Spain, and Louis, the French [[Dauphin]]. The moral is strikingly drawn by the Bastard—the man best fitted to be [[King\|king]], but debarred by accident of birth—in his speech (2.1.562-99) on ’commodity’ ([[Self\|self]]-interest). [[King]] Philip breaks his treaty with England, and in the ensuing battle Prince [[arthur\|Arthur]] is captured. He becomes the play’s [[Touchstone\|touchstone]] of humanity as he persuades John’s agent, [[Hubert]], to disobey John’s orders to blind him, only to kill himself while trying to escape. John’s noblemen, thinking the [[King]] responsible for the boy’s [[Death\|death]], defect to the French, but return to their allegiance on learning that the [[Dauphin]] intends to kill them after conquering England. John dies, poisoned by a monk; the play ends with the reunited noblemen swearing allegiance to John’s son, the young Henry III, and with the Bastard’s boast that<br>This England never did, nor never shall,<br>Lie at the proud foot of a conqueror<br>But when it first did help to wound itself.<br>Twentieth-century revivals of [[King John]] were infrequent, but it was popular in the nineteenth century, when the roles of the [[King]], the Bastard, and [[Constance]] all appealed to successful actors; a production of 1823 at Covent [[Garden]] inaugurated a trend for historically accurate settings and costumes which led to a number of spectacular revivals. |
-| THE PERSONS OF THE | PLAY |
-| [[King John\|KING JOHN]] | of England |
-| [[Queen\|QUEEN]] | [[Eleanor\|ELEANOR]], his mother |
-| LADY FALCONBRIDGE | [[Philip the Bastard\|Philip the BASTARD]], later knighted as Sir [[Richard]] Plantagenet,<br>her illegitimate son by [[King]] [[Richard]] I (Coeur-de-[[Lion\|lion]])<br>Robert FALCONBRIDGE, her legitimate son<br>James GURNEY, her attendant<br><br>Lady BLANCHE of Spain, niece of [[King John]] |
-| PRINCE | HENRY, son of [[King John]]<br>[[Hubert\|HUBERT]], a follower of [[King John]]<br>[[Earl of Salisbury\|Earl of SALISBURY]]<br>Earl of PEMBROKE<br>Earl of ESSEX<br>Lord BIGOT |
-| [[King\|KING]] PHILIP | of France |
-| LOUIS THE | [[Dauphin\|DAUPHIN]], his son<br>[[arthur\|ARTHUR]], Duke of Brittaine, nephew of [[King John]]<br>Lady [[Constance\|coNSTANCE]], his mother<br>Duke of AUSTRIA (Limoges)<br>CHÂTILLON, ambassador from France to England<br>Count MELUN<br><br>A CITIZEN of Angers<br>Cardinal PANDOLF, a legate from the Pope |
-| PETER OF | POMFRET, a [[Prophet\|prophet]] |
-| SHERIFF | Lords, soldiers, attendants |
 
 
 

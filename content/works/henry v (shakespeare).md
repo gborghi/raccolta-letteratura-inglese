@@ -51,6 +51,7 @@ tags:
 - [Act II, Scene 2](/testi/shakespeare/plays/henry_v#act_2--scene_2)
 - [Act II, Scene 3](/testi/shakespeare/plays/henry_v#act_2--scene_3)
 - [Act II, Scene 4](/testi/shakespeare/plays/henry_v#act_2--scene_4)
+- [Act III, Scene 0](/testi/shakespeare/plays/henry_v#act_3--scene_0)
 - [Act III, Scene 1](/testi/shakespeare/plays/henry_v#act_3--scene_1)
 - [Act III, Scene 2](/testi/shakespeare/plays/henry_v#act_3--scene_2)
 - [Act III, Scene 3](/testi/shakespeare/plays/henry_v#act_3--scene_3)

@@ -1548,15 +1548,11 @@ The [[Tragedy]] of [[Coriolanus]]
 | FIRST LORD | Bear from hence his [[Body\|body]],<br>And mourn you for him. Let him be regarded<br>As the most noble corpse that ever herald<br>Did follow to his urn. |
 | SECOND LORD | His own impatience<br>Takes from [[Aufidius]] a great part of blame.<br>Let’s make the best of it. |
 | [[Aufidius\|AUFIDIUS]] | My rage is gone,<br>And I am struck with sorrow. Take him up.<br>Help three o’th’ chiefest soldiers; I’ll be one.<br>Beat thou the drum, that it speak mournfully.<br>Trail your steel pikes. Though in this [[City\|city]] he<br>Hath widowed and unchilded many a one,<br>Which to this hour bewail the injury,<br>Yet he shall have a noble [[Memory\|memory]]. Assist.<br>A dead march sounded. Exeunt<br>bearing the [[Body\|body]] of Martius |
-| THE | astrologer Simon Forman saw The [[Winter]]’s Tale at the Globe on 15 May 1611. Just how much earlier the play was written is not certainly known. During the sheep-shearing feast in Act 4, twelve countrymen perform a satyrs’ [[Dance\|dance]] that three of them are said to have already ‘danced before the [[King]]’. This is not necessarily a topical reference, but satyrs danced in Ben Jonson’s [[Masque]] of [[Oberon]], performed before [[King]] James on 1 January 1611. It seems likely that this [[Dance\|dance]] was incorporated in The [[Winter]]’s Tale (just as, later, another [[Masque\|masque]] [[Dance\|dance]] seems to have been transferred to The Two Noble Kinsmen). But it occurs in a [[Self\|self]]-contained passage that may [[Well\|well]] have been added after Shakespeare wrote the play itself. The [[Winter]]’s Tale, first printed in the 1623 Folio, is usually thought to have been written after [[Cymbeline]], but stylistic evidence places it before that play, perhaps in 1609-10.<br>A mid sixteenth-century book classes ‘[[Winter\|winter]] tales’ along with ‘old wives’ tales‘; Shakespeare’s title prepared his audiences for a tale of romantic improbability, one to be wondered at rather than believed; and within the play itself characters compare its events to ‘an old tale’ (5.2.61; 5.3.118). The comparison is just: Shakespeare is dramatizing a story by his old rival Robert Greene, published as Pandosto: The Triumph of [[Time]] in or before 1588. This gave Shakespeare his plot outline, of a [[King\|king]] ([[Leontes]]) who believes his wife ([[Hermione]]) to have committed adultery with another [[King\|king]] ([[Polixenes]]), his boyhood friend, and who casts off his new-born daughter ([[Perdita]]—the lost one) in the belief that she is his friend’s bastard. In both versions the baby is brought up as a shepherdess, falls in [[Love\|love]] with her supposed father’s son ([[Florizel]] in the play), and returns to her real father’s [[Court\|court]] where she is at last recognized as his daughter. In both versions, too, the wife’s [[innocence]] is demonstrated by the pronouncement of the Delphic oracle, and her husband passes the period of his daughter’s absence in penitence; but Shakespeare alters the ending of his source story, bringing it into line with the conventions of [[Romance\|romance]]. He adopts Greene’s tripartite structure, but greatly develops it, adding for instance [[Leontes]]’ steward Antigonus and his redoubtable wife [[Paulina]], along with the comic rogue [[Autolycus]], ‘snapper-up of unconsidered trifles’.<br>The intensity of poetic [[Suffering\|suffering]] with which [[Leontes]] expresses his irrational [[Jealousy\|jealousy]] is matched by the lyrical rapture of the [[Love\|love]] episodes between [[Florizel]] and [[Perdita]]. In both verse and prose The [[Winter]]’s Tale shows Shakespeare’s verbal powers at their greatest, and his theatrical mastery is apparent in, for example, [[Hermione]]’s trial (3.1) and the daring final scene in which [[Time\|time]] brings about its triumph. |
-| THE PERSONS OF THE | PLAY<br>[[Leontes\|LEONTES]], [[King]] of Sicily<br>[[Hermione\|HERMIONE]], his wife<br>MAMILLIUS, his son<br>[[Perdita\|PERDITA]], his daughter<br>[[Paulina\|PAULINA]], Antigonus’s wife<br>[[Emilia\|EMILIA]], a lady attending on [[Hermione]]<br>A JAILER<br>A MARINER<br>Other Lords and Gentlemen, Ladies, Officers, and Servants at [[Leontes]]’s [[Court\|court]]<br>[[Polixenes\|POLIXENES]], [[King]] of Bohemia<br>[[Florizel\|FLORIZEL]], his son, in [[Love\|love]] with [[Perdita]]; known as Doricles<br>ARCHIDAMUS, a Bohemian lord<br>[[Autolycus\|AUTOLYCUS]], a rogue, once in the service of [[Florizel]] |
-| OLD SHEPHERD | CLOWN, his son |
-| SERVANT | of the Old Shepherd<br>Other Shepherds and Shepherdesses<br>Twelve countrymen disguised as satyrs<br><br>[[Time\|TIME]], as [[Chorus\|chorus]] |
 
 
 
 
-<span class="atom-split" data-atom="act_1--scene_1" data-title="Coriolanus — Act I, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="archetype/shadow,motif/blood,motif/city,motif/fire,motif/grave,motif/home,motif/lion,motif/love,motif/moon,motif/nature,motif/noon,motif/time,motif/well,concept/body,concept/doubt,concept/greatness,concept/nature,concept/revenge,concept/suffering,concept/wonder,setting/court,character/aufidius,character/brutus,character/cominius,character/coriolanus,character/menenius,character/sicinius"></span>
+<span class="atom-split" data-atom="act_1--scene_1" data-title="Coriolanus — Act I, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="archetype/shadow,motif/blood,motif/city,motif/fire,motif/grave,motif/home,motif/lion,motif/love,motif/moon,motif/nature,motif/noon,motif/time,motif/well,concept/body,concept/greatness,concept/nature,concept/revenge,concept/suffering,concept/wonder,setting/court,character/aufidius,character/brutus,character/cominius,character/coriolanus,character/menenius,character/sicinius"></span>
 
 
 | Speaker | Line |
@@ -1671,7 +1667,17 @@ The [[Tragedy]] of [[Coriolanus]]
 | [[Sicinius\|SICINIUS]] | Besides, if things go [[Well\|well]],<br>Opinion, that so sticks on Martius, shall<br>Of his demerits rob [[Cominius]]. |
 | [[Brutus\|BRUTUS]] | Come,<br>Half all [[Cominius]]’ honours are to Martius,<br>Though Martius earned them not; and all his faults<br>To Martius shall be honours, though indeed<br>In aught he merit not. |
 | [[Sicinius\|SICINIUS]] | Let’s hence and hear<br>How the dispatch is made, and in what fashion,<br>More than his singularity, he goes<br>Upon this present action. |
-| [[Brutus\|BRUTUS]] | Let’s along. Exeunt<br><br>1.2 Enter [[Aufidius]], with Senators of Corioles |
+| [[Brutus\|BRUTUS]] | Let’s along. Exeunt<br> |
+
+
+
+
+<span class="atom-split" data-atom="act_1--scene_2" data-title="Coriolanus — Act I, Scene 2" data-chapter="Scene 2" data-kind="scene" data-tags="concept/doubt,character/aufidius,character/cominius,character/coriolanus"></span>
+
+
+| Speaker | Line |
+|---|---|
+| *(didascalia)* | Enter [[Aufidius]], with Senators of Corioles |
 | FIRST SENATOR | So, your opinion is, [[Aufidius]],<br>That they of Rome are entered in our counsels<br>And know how we proceed. |
 | [[Aufidius\|AUFIDIUS]] | Is it not yours?<br>What ever have been thought on in this state<br>That could be brought to bodily act ere Rome<br>Had circumvention? ’Tis not four days gone<br>Since I heard thence. These are the words. I think<br>I have the letter here—yes, here it is. |
 | *(didascalia)* | He |
@@ -2441,7 +2447,7 @@ The [[Tragedy]] of [[Coriolanus]]
 
 
 
-<span class="atom-split" data-atom="act_3--scene_2" data-title="Coriolanus — Act III, Scene 2" data-chapter="Scene 2" data-kind="scene" data-tags="motif/blood,motif/city,motif/cross,motif/death,motif/dust,motif/home,motif/love,motif/nature,motif/tears,motif/time,motif/well,motif/wheel,motif/wind,concept/body,concept/courage,concept/despair,concept/exile,concept/fear,concept/honour,concept/mercy,concept/nature,concept/pride,concept/truth,concept/wonder,character/brutus,character/cominius,character/coriolanus,character/menenius,character/sicinius,character/volumnia"></span>
+<span class="atom-split" data-atom="act_3--scene_2" data-title="Coriolanus — Act III, Scene 2" data-chapter="Scene 2" data-kind="scene" data-tags="motif/blood,motif/city,motif/cross,motif/death,motif/dust,motif/home,motif/nature,motif/tears,motif/time,motif/well,motif/wheel,motif/wind,concept/body,concept/fear,concept/honour,concept/nature,concept/pride,concept/truth,concept/wonder,character/cominius,character/coriolanus,character/menenius,character/volumnia"></span>
 
 
 | Speaker | Line |
@@ -2498,7 +2504,16 @@ The [[Tragedy]] of [[Coriolanus]]
 | [[Menenius\|MENENIUS]] | Ay, but mildly. |
 | [[Coriolanus\|CORIOLANUS]] | [[Well]], mildly be it, then—mitd)y. |
 | *(didascalia)* | Exeunt |
-| [[Coriolanus\|CORIOLANUS]] | 3.3 Enter [[Sicinius]] and [[Brutus]] |
+
+
+
+
+<span class="atom-split" data-atom="act_3--scene_3" data-title="Coriolanus — Act III, Scene 3" data-chapter="Scene 3" data-kind="scene" data-tags="motif/city,motif/death,motif/home,motif/love,motif/time,motif/well,motif/wind,concept/body,concept/courage,concept/despair,concept/exile,concept/mercy,concept/truth,character/brutus,character/cominius,character/coriolanus,character/menenius,character/sicinius"></span>
+
+
+| Speaker | Line |
+|---|---|
+| *(didascalia)* | Enter [[Sicinius]] and [[Brutus]] |
 | [[Brutus\|BRUTUS]] | In this point charge him [[Home\|home]]: that he affects<br>Tyrannical power. If he evade us there,<br>Enforce him with his envy to the people,<br>And that the spoil got on the Antiats<br>Was ne’er distributed. |
 | *(didascalia)* | Enter an Aedile |
 | [[Brutus\|BRUTUS]] | What, will he come? |
@@ -3057,7 +3072,7 @@ The [[Tragedy]] of [[Coriolanus]]
 
 
 
-<span class="atom-split" data-atom="act_5--scene_4" data-title="Coriolanus — Act V, Scene 4" data-chapter="Scene 4" data-kind="scene" data-tags="motif/city,motif/dance,motif/death,motif/fire,motif/flowers,motif/home,motif/horse,motif/time,motif/well,concept/doubt,concept/eternity,concept/hope,concept/mercy,character/coriolanus,character/menenius,character/sicinius,character/virgilia,character/volumnia"></span>
+<span class="atom-split" data-atom="act_5--scene_4" data-title="Coriolanus — Act V, Scene 4" data-chapter="Scene 4" data-kind="scene" data-tags="motif/city,motif/dance,motif/death,motif/fire,motif/home,motif/horse,motif/time,motif/well,concept/doubt,concept/eternity,concept/hope,concept/mercy,character/coriolanus,character/menenius,character/sicinius,character/volumnia"></span>
 
 
 | Speaker | Line |
@@ -3092,7 +3107,16 @@ The [[Tragedy]] of [[Coriolanus]]
 | SECOND MESSENGER | Almost at point to enter. |
 | [[Sicinius\|SICINIUS]] | We’ll meet them, and help the joy. |
 | *(didascalia)* | Exeunt |
-| *(didascalia)* | 5.5 Enter at one door Lords and Citizens, at another door two Senators with the ladies [[Volumnia]], [[Virgilia]], and Valeria, passing over the stage |
+
+
+
+
+<span class="atom-split" data-atom="act_5--scene_5" data-title="Coriolanus — Act V, Scene 5" data-chapter="Scene 5" data-kind="scene" data-tags="motif/flowers,character/coriolanus,character/sicinius,character/virgilia,character/volumnia"></span>
+
+
+| Speaker | Line |
+|---|---|
+| *(didascalia)* | Enter at one door Lords and Citizens, at another door two Senators with the ladies [[Volumnia]], [[Virgilia]], and Valeria, passing over the stage |
 | [[Sicinius\|SICINIUS]] | A SENATOR<br>Behold our patroness, the life of Rome!<br>Call all your tribes together, praise the gods,<br>And make triumphant fires. Strew [[Flowers\|flowers]] before them.<br>Unshout the noise that banished Martius,<br>Repeal him with the welcome of his mother.<br>Cry ‘Welcome, ladies, welcome!’ |
 | ALL | Welcome, ladies, welcome! |
 | *(didascalia)* | A flourish with drums and trumpets. Exeunt |
@@ -3100,7 +3124,7 @@ The [[Tragedy]] of [[Coriolanus]]
 
 
 
-<span class="atom-split" data-atom="act_5--scene_6" data-title="Coriolanus — Act V, Scene 6" data-chapter="Scene 6" data-kind="scene" data-tags="archetype/king,archetype/villain,motif/blood,motif/city,motif/dance,motif/grave,motif/home,motif/love,motif/memory,motif/nature,motif/tears,motif/time,motif/well,motif/winter,concept/body,concept/charity,concept/honour,concept/jealousy,concept/nature,concept/pride,concept/self,concept/suffering,concept/truth,form/masque,setting/court,character/aufidius,character/autolycus,character/chorus,character/coriolanus,character/cymbeline,character/emilia,character/florizel,character/hermione,character/leontes,character/nurse,character/oberon,character/paulina,character/perdita,character/polixenes"></span>
+<span class="atom-split" data-atom="act_5--scene_6" data-title="Coriolanus — Act V, Scene 6" data-chapter="Scene 6" data-kind="scene" data-tags="archetype/villain,motif/blood,motif/city,motif/grave,motif/home,motif/love,motif/memory,motif/nature,motif/tears,motif/time,concept/body,concept/charity,concept/honour,concept/nature,concept/pride,concept/truth,character/aufidius,character/coriolanus,character/nurse"></span>
 
 
 | Speaker | Line |
@@ -3167,7 +3191,3 @@ The [[Tragedy]] of [[Coriolanus]]
 | FIRST LORD | Bear from hence his [[Body\|body]],<br>And mourn you for him. Let him be regarded<br>As the most noble corpse that ever herald<br>Did follow to his urn. |
 | SECOND LORD | His own impatience<br>Takes from [[Aufidius]] a great part of blame.<br>Let’s make the best of it. |
 | [[Aufidius\|AUFIDIUS]] | My rage is gone,<br>And I am struck with sorrow. Take him up.<br>Help three o’th’ chiefest soldiers; I’ll be one.<br>Beat thou the drum, that it speak mournfully.<br>Trail your steel pikes. Though in this [[City\|city]] he<br>Hath widowed and unchilded many a one,<br>Which to this hour bewail the injury,<br>Yet he shall have a noble [[Memory\|memory]]. Assist.<br>A dead march sounded. Exeunt<br>bearing the [[Body\|body]] of Martius |
-| THE | astrologer Simon Forman saw The [[Winter]]’s Tale at the Globe on 15 May 1611. Just how much earlier the play was written is not certainly known. During the sheep-shearing feast in Act 4, twelve countrymen perform a satyrs’ [[Dance\|dance]] that three of them are said to have already ‘danced before the [[King]]’. This is not necessarily a topical reference, but satyrs danced in Ben Jonson’s [[Masque]] of [[Oberon]], performed before [[King]] James on 1 January 1611. It seems likely that this [[Dance\|dance]] was incorporated in The [[Winter]]’s Tale (just as, later, another [[Masque\|masque]] [[Dance\|dance]] seems to have been transferred to The Two Noble Kinsmen). But it occurs in a [[Self\|self]]-contained passage that may [[Well\|well]] have been added after Shakespeare wrote the play itself. The [[Winter]]’s Tale, first printed in the 1623 Folio, is usually thought to have been written after [[Cymbeline]], but stylistic evidence places it before that play, perhaps in 1609-10.<br>A mid sixteenth-century book classes ‘[[Winter\|winter]] tales’ along with ‘old wives’ tales‘; Shakespeare’s title prepared his audiences for a tale of romantic improbability, one to be wondered at rather than believed; and within the play itself characters compare its events to ‘an old tale’ (5.2.61; 5.3.118). The comparison is just: Shakespeare is dramatizing a story by his old rival Robert Greene, published as Pandosto: The Triumph of [[Time]] in or before 1588. This gave Shakespeare his plot outline, of a [[King\|king]] ([[Leontes]]) who believes his wife ([[Hermione]]) to have committed adultery with another [[King\|king]] ([[Polixenes]]), his boyhood friend, and who casts off his new-born daughter ([[Perdita]]—the lost one) in the belief that she is his friend’s bastard. In both versions the baby is brought up as a shepherdess, falls in [[Love\|love]] with her supposed father’s son ([[Florizel]] in the play), and returns to her real father’s [[Court\|court]] where she is at last recognized as his daughter. In both versions, too, the wife’s [[innocence]] is demonstrated by the pronouncement of the Delphic oracle, and her husband passes the period of his daughter’s absence in penitence; but Shakespeare alters the ending of his source story, bringing it into line with the conventions of [[Romance\|romance]]. He adopts Greene’s tripartite structure, but greatly develops it, adding for instance [[Leontes]]’ steward Antigonus and his redoubtable wife [[Paulina]], along with the comic rogue [[Autolycus]], ‘snapper-up of unconsidered trifles’.<br>The intensity of poetic [[Suffering\|suffering]] with which [[Leontes]] expresses his irrational [[Jealousy\|jealousy]] is matched by the lyrical rapture of the [[Love\|love]] episodes between [[Florizel]] and [[Perdita]]. In both verse and prose The [[Winter]]’s Tale shows Shakespeare’s verbal powers at their greatest, and his theatrical mastery is apparent in, for example, [[Hermione]]’s trial (3.1) and the daring final scene in which [[Time\|time]] brings about its triumph. |
-| THE PERSONS OF THE | PLAY<br>[[Leontes\|LEONTES]], [[King]] of Sicily<br>[[Hermione\|HERMIONE]], his wife<br>MAMILLIUS, his son<br>[[Perdita\|PERDITA]], his daughter<br>[[Paulina\|PAULINA]], Antigonus’s wife<br>[[Emilia\|EMILIA]], a lady attending on [[Hermione]]<br>A JAILER<br>A MARINER<br>Other Lords and Gentlemen, Ladies, Officers, and Servants at [[Leontes]]’s [[Court\|court]]<br>[[Polixenes\|POLIXENES]], [[King]] of Bohemia<br>[[Florizel\|FLORIZEL]], his son, in [[Love\|love]] with [[Perdita]]; known as Doricles<br>ARCHIDAMUS, a Bohemian lord<br>[[Autolycus\|AUTOLYCUS]], a rogue, once in the service of [[Florizel]] |
-| OLD SHEPHERD | CLOWN, his son |
-| SERVANT | of the Old Shepherd<br>Other Shepherds and Shepherdesses<br>Twelve countrymen disguised as satyrs<br><br>[[Time\|TIME]], as [[Chorus\|chorus]] |

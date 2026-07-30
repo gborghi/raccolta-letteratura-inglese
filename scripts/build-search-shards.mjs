@@ -12,7 +12,8 @@ import path from "path"
 import { pathToFileURL } from "node:url"
 
 const masterPath = path.join("data", "search-full-index.json")
-const outDir = path.join("public", "static")
+// see the QUARTZ_OUT note in make-mobile-index.mjs
+const outDir = path.join(process.env.QUARTZ_OUT || "public", "static")
 // HARD_CAP = the real guard: Cloudflare Pages rejects any file > 25 MiB, so fail the
 // build well below that. SOFT = per-tier size we'd LIKE to stay under (progressive-load
 // budget); exceeding it only warns — real sizes get reported either way.

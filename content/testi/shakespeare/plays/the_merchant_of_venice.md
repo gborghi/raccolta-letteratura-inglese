@@ -858,8 +858,6 @@ The Comical [[history|History]] of the Merchant of [[Venice]], or Otherwise Call
 | [[Lorenzo\|LORENZO]] | Fair ladies, you drop manna in the way<br>Of starved people. |
 | [[Portia\|PORTIA]] | It is almost morning,<br>And yet I am sure you are not satisfied<br>Of these events at full. Let us go in,<br>And charge us there upon inter’gatories,<br>And we will answer all things faithfully. |
 | GRAZIANO | Let it be so. The first inter’gatory<br>That my [[Nerissa]] shall be sworn on is<br>Whether till the next [[Night\|night]] she had rather stay,<br>Or go to bed now, being two hours to day.<br>But were the day come, I should wish it dark<br>Till I were couching with the doctor’s clerk.<br>[[Well]], while I live I’ll [[Fear\|fear]] no other thing<br>So sore as keeping safe [[Nerissa]]’s ring. Exeunt<br><br>1 [[Henry IV\|HENRY IV]] |
-| THE | play described in the 1623 Folio as The First Part of Henry the Fourth had been entered on the Stationers’ Register on 25 February 1598 as The [[history\|History]] of Henry the Fourth, and that is the title of the first surviving edition, of the same year. An earlier edition, doubtless also printed in 1598, is known only from a single, eight-page [[Fragment\|fragment]]. Five more editions appeared before the Folio.<br>The printing of at least two editions within a few months, and the fact that one of them was read almost out of existence, reflect a matter of exceptional topical interest. The earliest title-page advertises the play’s portrayal of ‘the humorous conceits of Sir John [[Falstaff]]’; but when it was first acted, probably in 1596 or 1597, this character bore the name of his historical counterpart, the Protestant martyr Sir John Oldcastle. Shakespeare changed his surname as the result of protests from Oldcastle’s descendants, the influential Cobham family, one of whom—William Brooke, 7th Lord Cobham—was Elizabeth I’s Lord Chamberlain from August 1596 till he died on 5 March 1597. Our edition restores Sir John’s original surname for the first [[Time\|time]] in printed texts (though there is reason to believe that even after the earliest performances the name ’Oldcastle’ was sometimes used on the stage), and also restores Russell and Harvey, names Shakespeare was probably obliged to alter to Bardolph and Peto.<br>Shakespeare had already shown [[Henry IV]]’s rise to power, and his troubled state of mind on achieving it, in [[Richard II]]; that play also shows Henry’s dissatisfaction with his wayward son, Prince Harry, later [[Henry V]]. 1 [[Henry IV]] continues the story, but in a very different dramatic style. A play called The Famous Victories of [[Henry V]], entered in the Stationers’ Register in 1594, was published anonymously, in a debased and shortened text, in 1598. This text—which also features Oldcastle as a reprobate—gives a sketchy version of the events portrayed in 1 and 2 [[Henry IV]] and [[Henry V]]. Shakespeare must have known the original play, but in the absence of a full text we cannot tell how much he depended on it. The surviving version contains nothing about the rebellions against [[Henry IV]], for which Shakespeare seems to have gone to IIolinshed’s, and perhaps other, Chronicles; he draws also on Samuel Daniel’s poem The First Four Books of the Civil Wars (1595).<br>1 [[Henry IV]] is the first of Shakespeare’s [[history]] plays to make extensive use of the techniques of [[Comedy\|comedy]]. On a national level, the play shows the continuing problems of [[Henry Bolingbroke]], insecure in his hold on the throne, and the victim of rebellions led by Worcester, [[Hotspur]] (Harry Percy), and Glyndwr. These scenes are counterpointed by others, written mainly in prose, which, in the manner of a comic sub-plot, provide humorous diversion while also reflecting and extending the concerns of the main plot. Henry suffers not only public insurrection but the personal rebellion of Prince Harry, in his unprincely exploits with the reprobate old knight, Oldcastle. Sir John has become Shakespeare’s most famous comic character, but Shakespeare shows that the Prince’s treatment of him as a surrogate father who must eventually be abandoned has an intensely serious side. |
-| THE PERSONS OF THE | PLAY |
 
 
 
@@ -952,7 +950,7 @@ The Comical [[history|History]] of the Merchant of [[Venice]], or Otherwise Call
 
 
 
-<span class="atom-split" data-atom="act_1--scene_3" data-title="The Merchant of Venice — Act I, Scene 3" data-chapter="Scene 3" data-kind="scene" data-tags="archetype/prophet,archetype/villain,motif/autumn,motif/blood,motif/desire,motif/fire,motif/home,motif/lion,motif/love,motif/marriage,motif/memory,motif/soul,motif/storm,motif/time,motif/water,motif/well,concept/body,concept/faith,concept/fear,concept/friendship,setting/venice,character/antonio,character/bassanio,character/nerissa,character/portia,character/queen,character/shylock"></span>
+<span class="atom-split" data-atom="act_1--scene_3" data-title="The Merchant of Venice — Act I, Scene 3" data-chapter="Scene 3" data-kind="scene" data-tags="archetype/prophet,archetype/villain,motif/autumn,motif/desire,motif/home,motif/love,motif/memory,motif/soul,motif/storm,motif/time,motif/water,motif/well,concept/body,concept/faith,concept/fear,concept/friendship,setting/venice,character/antonio,character/bassanio,character/shylock"></span>
 
 
 | Speaker | Line |
@@ -1010,7 +1008,16 @@ The Comical [[history|History]] of the Merchant of [[Venice]], or Otherwise Call
 | [[Antonio\|ANTONIO]] | Hie thee, gentle Jew. Exit [[Shylock]]<br>The Hebrew will turn Christian; he grows kind. |
 | [[Bassanio\|BASSANIO]] | I like not fair terms and a [[Villain\|villain]]’s mind. |
 | [[Antonio\|ANTONIO]] | Come on. In this there can be no dismay.<br>My ships come [[Home\|home]] a month before the day. Exeunt |
-| *(didascalia)* | 2.1 Flourish of cornetts. Enter the Prince of Morocco, a tawny Moor all in white, and three or four followers accordingly, with [[Portia]], [[Nerissa]], and their train |
+
+
+
+
+<span class="atom-split" data-atom="act_2--scene_1" data-title="The Merchant of Venice — Act II, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="motif/blood,motif/fire,motif/lion,motif/love,motif/marriage,setting/venice,character/nerissa,character/portia,character/queen"></span>
+
+
+| Speaker | Line |
+|---|---|
+| *(didascalia)* | Flourish of cornetts. Enter the Prince of Morocco, a tawny Moor all in white, and three or four followers accordingly, with [[Portia]], [[Nerissa]], and their train |
 | MOROCCO | (to [[Portia]])<br>Mislike me not for my complexion,<br>The shadowed livery of the burnished sun,<br>To whom I am a neighbour and near bred.<br>Bring me the fairest creature northward born,<br>Where Phoebus’ [[Fire\|fire]] scarce thaws the icicles,<br>And let us make incision for your [[Love\|love]]<br>To prove whose [[Blood\|blood]] is reddest, his or mine.<br>I tell thee, lady, this aspect of mine<br>Hath feared the valiant. By my [[Love\|love]] I swear,<br>The best regarded virgins of our clime<br>Have loved it too. I would not change this hue<br>Except to steal your thoughts, my gentle [[Queen\|queen]]. |
 | [[Portia\|PORTIA]] | In terms of choice I am not solely led<br>By nice direction of a maiden’s eyes.<br>Besides, the lott’ry of my destiny<br>Bars me the right of voluntary choosing.<br>But if my father had not scanted me,<br>And hedged me by his wit to yield myself<br>His wife who wins me by that means I told you,<br>Yourself, renowned Prince, then stood as fair<br>As any comer I have looked on yet<br>For my affection. |
 | MOROCCO | Even for that I thank you.<br>Therefore I pray you lead me to the caskets<br>To try my fortune. By this scimitar,<br>That slew the Sophy and a Persian prince<br>That won three fields of Sultan Suleiman,<br>I would o’erstare the sternest eyes that look,<br>Outbrave the heart most daring on the earth,<br>Pluck the young sucking cubs from the she-bear,<br>Yea, mock the [[Lion\|lion]] when a roars for prey,<br>To win the lady. But alas the while,<br>If Hercules and Lichas play at dice<br>Which is the better man, the greater throw<br>May turn by fortune from the weaker hand.<br>So is Alcides beaten by his rage,<br>And so may I, blind Fortune leading me,<br>Miss that which one unworthier may attain,<br>And die with grieving. |
@@ -1140,7 +1147,7 @@ The Comical [[history|History]] of the Merchant of [[Venice]], or Otherwise Call
 
 
 
-<span class="atom-split" data-atom="act_2--scene_5" data-title="The Merchant of Venice — Act II, Scene 5" data-chapter="Scene 5" data-kind="scene" data-tags="archetype/fool,motif/clock,motif/death,motif/desire,motif/fire,motif/frost,motif/grave,motif/horse,motif/love,motif/night,motif/sleep,motif/soul,motif/time,motif/well,motif/wind,motif/window,concept/faith,concept/hope,form/inscription,form/masque,setting/venice,character/antonio,character/bassanio,character/jessica,character/lorenzo,character/portia,character/shylock,character/venus"></span>
+<span class="atom-split" data-atom="act_2--scene_5" data-title="The Merchant of Venice — Act II, Scene 5" data-chapter="Scene 5" data-kind="scene" data-tags="archetype/fool,motif/clock,motif/love,motif/sleep,motif/well,motif/window,form/masque,setting/venice,character/bassanio,character/jessica,character/shylock"></span>
 
 
 | Speaker | Line |
@@ -1164,7 +1171,16 @@ The Comical [[history|History]] of the Merchant of [[Venice]], or Otherwise Call
 | *(didascalia)* | Exit at one door |
 | [[Jessica\|JESSICA]] | Farewell; and if my fortune be not crossed,<br>I have a father, you a daughter lost. |
 | *(didascalia)* | Exit at another door |
-| *(didascalia)* | 2.6 Enter the masquers, Graziano and Salerio, with torchbearers |
+
+
+
+
+<span class="atom-split" data-atom="act_2--scene_6" data-title="The Merchant of Venice — Act II, Scene 6" data-chapter="Scene 6" data-kind="scene" data-tags="motif/clock,motif/desire,motif/fire,motif/horse,motif/love,motif/night,motif/soul,motif/time,motif/wind,concept/faith,form/masque,setting/venice,character/antonio,character/bassanio,character/jessica,character/lorenzo,character/venus"></span>
+
+
+| Speaker | Line |
+|---|---|
+| *(didascalia)* | Enter the masquers, Graziano and Salerio, with torchbearers |
 | GRAZIANO | This is the penthouse under which [[Lorenzo]]<br>Desired us to make stand. |
 | SALERIO | His hour is almost past. |
 | GRAZIANO | And it is marvel he outdwells his hour,<br>For [[lovers]] ever run before the [[Clock\|clock]]. |
@@ -1194,7 +1210,16 @@ The Comical [[history|History]] of the Merchant of [[Venice]], or Otherwise Call
 | GRAZIANO | Signor [[Antonio]]? 60 |
 | [[Antonio\|ANTONIO]] | Fie, fie, Graziano, where are all the rest?<br>‘Tis nine o’[[Clock\|clock]]. Our friends all stay for you.<br>No [[Masque\|masque]] tonight. The [[Wind\|wind]] is come about.<br>[[Bassanio]] presently will go aboard.<br>I have sent twenty out to seek for you. 65 |
 | GRAZIANO | I am glad on’t. I [[Desire\|desire]] no more delight<br>Than to be under sail and gone tonight. Exeunt |
-| *(didascalia)* | 2.7 Flourish of cornetts. Enter [[Portia]] with Morocco and both their trains |
+
+
+
+
+<span class="atom-split" data-atom="act_2--scene_7" data-title="The Merchant of Venice — Act II, Scene 7" data-chapter="Scene 7" data-kind="scene" data-tags="motif/death,motif/desire,motif/frost,motif/grave,motif/love,motif/well,concept/hope,form/inscription,setting/venice,character/portia"></span>
+
+
+| Speaker | Line |
+|---|---|
+| *(didascalia)* | Flourish of cornetts. Enter [[Portia]] with Morocco and both their trains |
 | [[Portia\|PORTIA]] | Go, draw aside the curtains, and discover<br>The several caskets to this noble prince.<br>The curtains are drawn aside, revealing three caskets<br>(To Morocco) Now make your choice. |
 | MOROCCO | This first of gold, who this [[Inscription\|inscription]] bears:<br>‘Who chooseth me shall gain what many men [[Desire\|desire]].’<br>The second silver, which this promise carries:<br>‘Who chooseth me shall get as much as he deserves.’<br>This third dull lead, with warning all as blunt:<br>‘Who chooseth me must give and hazard all he hath.’<br>How shall I know if I do choose the right? |
 | [[Portia\|PORTIA]] | The one of them contains my picture, Prince.<br>If you choose that, then I am yours withal. |
@@ -1638,7 +1663,7 @@ The Comical [[history|History]] of the Merchant of [[Venice]], or Otherwise Call
 
 
 
-<span class="atom-split" data-atom="act_5--scene_1" data-title="The Merchant of Venice — Act V, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="topos/double,archetype/king,archetype/shadow,motif/blood,motif/death,motif/decay,motif/grave,motif/home,motif/jewel,motif/lion,motif/love,motif/moon,motif/nature,motif/night,motif/nightingale,motif/road,motif/silence,motif/soul,motif/summer,motif/time,motif/well,motif/wind,concept/body,concept/faith,concept/fear,concept/history,concept/honour,concept/hope,concept/nature,concept/self,concept/truth,form/comedy,form/fragment,form/history,form/hymn,setting/venice,character/antonio,character/bassanio,character/diana,character/endymion,character/falstaff,character/henry_bolingbroke,character/henry_iv,character/henry_v,character/hotspur,character/jessica,character/lorenzo,character/nerissa,character/portia,character/richard_ii,character/speed,character/troilus"></span>
+<span class="atom-split" data-atom="act_5--scene_1" data-title="The Merchant of Venice — Act V, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="topos/double,archetype/king,archetype/shadow,motif/blood,motif/death,motif/decay,motif/grave,motif/home,motif/jewel,motif/lion,motif/love,motif/moon,motif/nature,motif/night,motif/nightingale,motif/road,motif/silence,motif/soul,motif/summer,motif/time,motif/well,motif/wind,concept/body,concept/faith,concept/fear,concept/history,concept/honour,concept/hope,concept/nature,concept/self,concept/truth,form/history,form/hymn,setting/venice,character/antonio,character/bassanio,character/diana,character/endymion,character/henry_iv,character/jessica,character/lorenzo,character/nerissa,character/portia,character/speed,character/troilus"></span>
 
 
 | Speaker | Line |
@@ -1751,5 +1776,3 @@ The Comical [[history|History]] of the Merchant of [[Venice]], or Otherwise Call
 | [[Lorenzo\|LORENZO]] | Fair ladies, you drop manna in the way<br>Of starved people. |
 | [[Portia\|PORTIA]] | It is almost morning,<br>And yet I am sure you are not satisfied<br>Of these events at full. Let us go in,<br>And charge us there upon inter’gatories,<br>And we will answer all things faithfully. |
 | GRAZIANO | Let it be so. The first inter’gatory<br>That my [[Nerissa]] shall be sworn on is<br>Whether till the next [[Night\|night]] she had rather stay,<br>Or go to bed now, being two hours to day.<br>But were the day come, I should wish it dark<br>Till I were couching with the doctor’s clerk.<br>[[Well]], while I live I’ll [[Fear\|fear]] no other thing<br>So sore as keeping safe [[Nerissa]]’s ring. Exeunt<br><br>1 [[Henry IV\|HENRY IV]] |
-| THE | play described in the 1623 Folio as The First Part of Henry the Fourth had been entered on the Stationers’ Register on 25 February 1598 as The [[history\|History]] of Henry the Fourth, and that is the title of the first surviving edition, of the same year. An earlier edition, doubtless also printed in 1598, is known only from a single, eight-page [[Fragment\|fragment]]. Five more editions appeared before the Folio.<br>The printing of at least two editions within a few months, and the fact that one of them was read almost out of existence, reflect a matter of exceptional topical interest. The earliest title-page advertises the play’s portrayal of ‘the humorous conceits of Sir John [[Falstaff]]’; but when it was first acted, probably in 1596 or 1597, this character bore the name of his historical counterpart, the Protestant martyr Sir John Oldcastle. Shakespeare changed his surname as the result of protests from Oldcastle’s descendants, the influential Cobham family, one of whom—William Brooke, 7th Lord Cobham—was Elizabeth I’s Lord Chamberlain from August 1596 till he died on 5 March 1597. Our edition restores Sir John’s original surname for the first [[Time\|time]] in printed texts (though there is reason to believe that even after the earliest performances the name ’Oldcastle’ was sometimes used on the stage), and also restores Russell and Harvey, names Shakespeare was probably obliged to alter to Bardolph and Peto.<br>Shakespeare had already shown [[Henry IV]]’s rise to power, and his troubled state of mind on achieving it, in [[Richard II]]; that play also shows Henry’s dissatisfaction with his wayward son, Prince Harry, later [[Henry V]]. 1 [[Henry IV]] continues the story, but in a very different dramatic style. A play called The Famous Victories of [[Henry V]], entered in the Stationers’ Register in 1594, was published anonymously, in a debased and shortened text, in 1598. This text—which also features Oldcastle as a reprobate—gives a sketchy version of the events portrayed in 1 and 2 [[Henry IV]] and [[Henry V]]. Shakespeare must have known the original play, but in the absence of a full text we cannot tell how much he depended on it. The surviving version contains nothing about the rebellions against [[Henry IV]], for which Shakespeare seems to have gone to IIolinshed’s, and perhaps other, Chronicles; he draws also on Samuel Daniel’s poem The First Four Books of the Civil Wars (1595).<br>1 [[Henry IV]] is the first of Shakespeare’s [[history]] plays to make extensive use of the techniques of [[Comedy\|comedy]]. On a national level, the play shows the continuing problems of [[Henry Bolingbroke]], insecure in his hold on the throne, and the victim of rebellions led by Worcester, [[Hotspur]] (Harry Percy), and Glyndwr. These scenes are counterpointed by others, written mainly in prose, which, in the manner of a comic sub-plot, provide humorous diversion while also reflecting and extending the concerns of the main plot. Henry suffers not only public insurrection but the personal rebellion of Prince Harry, in his unprincely exploits with the reprobate old knight, Oldcastle. Sir John has become Shakespeare’s most famous comic character, but Shakespeare shows that the Prince’s treatment of him as a surrogate father who must eventually be abandoned has an intensely serious side. |
-| THE PERSONS OF THE | PLAY |

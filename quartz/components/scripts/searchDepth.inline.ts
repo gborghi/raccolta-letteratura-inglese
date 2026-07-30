@@ -150,8 +150,8 @@ function ensureUI(): void {
   const btn = document.createElement("button")
   btn.className = "sd-button"
   btn.type = "button"
-  btn.setAttribute("aria-label", "Cerca")
-  btn.innerHTML = `<span class="sd-button-icon" aria-hidden="true">🔍</span><span class="sd-button-label">Cerca</span>`
+  btn.setAttribute("aria-label", "Search")
+  btn.innerHTML = `<span class="sd-button-icon" aria-hidden="true">🔍</span><span class="sd-button-label">Search</span>`
   btn.dataset.persist = "" // survive SPA micromorph (mirrors sidebarToggle)
   const slot = document.querySelector(".flex-component") ?? document.body
   slot.appendChild(btn)
@@ -160,8 +160,8 @@ function ensureUI(): void {
   modal.className = "sd-modal"
   modal.dataset.persist = ""
   modal.innerHTML = `
-    <div class="sd-inner" role="dialog" aria-modal="true" aria-label="Ricerca">
-      <input class="sd-input" type="text" placeholder="Cerca nel corpus…" aria-label="Cerca" autocomplete="off" />
+    <div class="sd-inner" role="dialog" aria-modal="true" aria-label="Search">
+      <input class="sd-input" type="text" placeholder="Search the corpus…" aria-label="Search" autocomplete="off" />
       <div class="sd-slider-wrap"></div>
       <ul class="sd-results" role="listbox"></ul>
     </div>`
@@ -175,7 +175,7 @@ function ensureUI(): void {
   const maxStop = isMobile() ? 1 : 3
   const cur = savedStop()
   wrap.innerHTML = `
-    <input class="sd-slider" type="range" min="0" max="${maxStop}" step="1" value="${cur}" aria-label="Profondità ricerca" />
+    <input class="sd-slider" type="range" min="0" max="${maxStop}" step="1" value="${cur}" aria-label="Search depth" />
     <span class="sd-slider-label"></span>
     <span class="sd-spin" hidden aria-hidden="true">⏳</span>`
   const slider = wrap.querySelector(".sd-slider") as HTMLInputElement

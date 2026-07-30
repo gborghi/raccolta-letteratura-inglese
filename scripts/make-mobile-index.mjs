@@ -12,7 +12,12 @@ import path from "path"
 import { projectToTarget } from "./compress-search-index.mjs"
 
 const masterPath = path.join("data", "search-full-index.json")
-const outPath = path.join("public", "static", "contentIndexMobile.json")
+// QUARTZ_OUT lets the whole post-build chain target a directory other than public/.
+// Needed on Windows, where Dropbox or the indexer can hold a handle on public/ that
+// makes Quartz's initial wipe fail with EBUSY — building elsewhere sidesteps the lock
+// instead of retrying against it. CI sets nothing and keeps public/.
+const OUT = process.env.QUARTZ_OUT || "public"
+const outPath = path.join(OUT, "static", "contentIndexMobile.json")
 const MOBILE_TARGET = 8_000_000 // bytes; mobile contentIndexMobile.json budget
 const LINK_CAP = 20 // keep up to N links/entry so the GRAPH still works on mobile
 // (works have ~10 links; only huge aggregator hubs get trimmed)

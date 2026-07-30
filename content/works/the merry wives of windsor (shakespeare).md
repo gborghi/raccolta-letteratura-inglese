@@ -58,6 +58,7 @@ tags:
 - [Act IV, Scene 3](/testi/shakespeare/plays/the_merry_wives_of_windsor#act_4--scene_3)
 - [Act IV, Scene 4](/testi/shakespeare/plays/the_merry_wives_of_windsor#act_4--scene_4)
 - [Act IV, Scene 5](/testi/shakespeare/plays/the_merry_wives_of_windsor#act_4--scene_5)
+- [Act IV, Scene 6](/testi/shakespeare/plays/the_merry_wives_of_windsor#act_4--scene_6)
 - [Act V, Scene 1](/testi/shakespeare/plays/the_merry_wives_of_windsor#act_5--scene_1)
 - [Act V, Scene 2](/testi/shakespeare/plays/the_merry_wives_of_windsor#act_5--scene_2)
 - [Act V, Scene 3](/testi/shakespeare/plays/the_merry_wives_of_windsor#act_5--scene_3)

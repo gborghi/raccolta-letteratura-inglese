@@ -57,6 +57,7 @@ tags:
 - [Act II, Scene 1](/testi/shakespeare/plays/measure_for_measure#act_2--scene_1)
 - [Act II, Scene 2](/testi/shakespeare/plays/measure_for_measure#act_2--scene_2)
 - [Act II, Scene 3](/testi/shakespeare/plays/measure_for_measure#act_2--scene_3)
+- [Act II, Scene 4](/testi/shakespeare/plays/measure_for_measure#act_2--scene_4)
 - [Act III, Scene 1](/testi/shakespeare/plays/measure_for_measure#act_3--scene_1)
 - [Act IV, Scene 1](/testi/shakespeare/plays/measure_for_measure#act_4--scene_1)
 - [Act IV, Scene 2](/testi/shakespeare/plays/measure_for_measure#act_4--scene_2)

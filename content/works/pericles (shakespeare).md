@@ -48,6 +48,7 @@ tags:
 - [Scene 6](/testi/shakespeare/plays/pericles#scenes--scene_6)
 - [Scene 7](/testi/shakespeare/plays/pericles#scenes--scene_7)
 - [Scene 8](/testi/shakespeare/plays/pericles#scenes--scene_8)
+- [Scene 8a](/testi/shakespeare/plays/pericles#scenes--scene_8a)
 - [Scene 9](/testi/shakespeare/plays/pericles#scenes--scene_9)
 - [Scene 10](/testi/shakespeare/plays/pericles#scenes--scene_10)
 - [Scene 11](/testi/shakespeare/plays/pericles#scenes--scene_11)

@@ -44,6 +44,10 @@ tags:
 > [!abstract] 
 > Wilde's decadent narrative poem in which a student addresses an immortal Egyptian Sphinx, conjuring her ancient lovers and exotic gods amid lust, decay and ruin, before recoiling toward his crucifix at the close.
 
+## Testo / Text
+
+- [The Sphinx](/testi/wilde/atomized/030_the_sphinx#030_the_sphinx)
+
 ## Connections
 
 **Topoi:** [[Immortality Through Verse]], [[Memento Mori]], [[Sic Transit Gloria Mundi]], [[Ubi Sunt]]

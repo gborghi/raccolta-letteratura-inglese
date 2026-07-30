@@ -2,39 +2,66 @@
 title: English Literature — A Knowledge Graph
 ---
 
-<div class="hero">
-  <div class="hero-art" aria-hidden="true">
-    <!-- PLACEHOLDER hero art — replace with a hand-crafted SVG/illustration -->
-    <svg viewBox="0 0 200 200" width="180" height="180" role="img" aria-label="open book">
-      <g fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
-        <path d="M100 50 C70 35 40 35 20 45 L20 150 C40 140 70 140 100 155"/>
-        <path d="M100 50 C130 35 160 35 180 45 L180 150 C160 140 130 140 100 155"/>
-        <path d="M100 55 L100 150"/>
-        <path d="M35 65 H80 M35 85 H80 M35 105 H80 M120 65 H165 M120 85 H165 M120 105 H165"/>
-      </g>
-    </svg>
+<div class="hp-mast">
+  <p class="hp-eyebrow">English literature · a graph of ideas</p>
+  <div class="hp-rule-thin"></div>
+  <div class="hp-nameplate">
+    <span class="hp-wordmark"><span class="hp-wm-title">English Literature</span><span class="hp-wm-bar"></span><span class="hp-wm-sub">a knowledge graph</span></span>
+    <span class="hp-mast-stats">3,573 works · 15 authors · 15,702 excerpts</span>
   </div>
-  <div class="hero-text">
-    <p class="hero-kicker">A connected reading of the English canon</p>
-    <h1 class="hero-title">English Literature</h1>
-    <p class="hero-lead">3,573 works by 15 authors, woven together through shared <em>topoi, archetypes, motifs, themes, forms, settings and characters</em>. Open a work to follow its connections; open a concept to see every work that shares it.</p>
-    <p class="hero-actions">
-      <a class="btn btn-primary" href="opere">Browse all works</a>
-      <a class="btn" href="cerca">Search by theme</a>
-    </p>
-  </div>
+  <div class="hp-rule-double"><span></span><span></span></div>
+  <nav class="hp-nav" aria-label="Sections">
+    <a href="opere">Works</a><a href="brani">Excerpts</a><a href="cerca">Search</a><a href="naviga">Navigate</a>
+  </nav>
+  <div class="hp-rule-thin"></div>
 </div>
 
-## Authors
+<div class="hp-hero">
+  <div class="hp-hero-text">
+    <p class="hp-kicker">A connected reading of the English canon</p>
+    <h1 class="hp-headline">Not an archive.<br><em>A network of ideas.</em></h1>
+    <p class="hp-lead">Every work is divided into reading units and tied to all the others through what they share: themes, archetypes, motifs, forms, settings, historical references, characters.</p>
+    <p class="hp-lead-alt">Open a work to follow its links; open a concept to see every work that carries it.</p>
+    <p class="hp-actions"><a class="btn btn-primary" href="cerca">Enter through a theme</a><a class="btn" href="opere">All works</a></p>
+  </div>
+  <aside class="hp-plate">
+    <div class="hp-plate-art" aria-hidden="true">
+      <svg viewBox="0 0 200 200" width="150" height="150" role="img" aria-label="open book">
+        <g fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+          <path d="M100 50 C70 35 40 35 20 45 L20 150 C40 140 70 140 100 155"/>
+          <path d="M100 50 C130 35 160 35 180 45 L180 150 C160 140 130 140 100 155"/>
+          <path d="M100 55 L100 150"/>
+          <path d="M35 65 H80 M35 85 H80 M35 105 H80 M120 65 H165 M120 85 H165 M120 105 H165"/>
+        </g>
+      </svg>
+    </div>
+    <div class="hp-stats">
+      <div class="hp-stat"><span class="hp-stat-k">Works</span><span class="hp-stat-v">3,573</span></div>
+      <div class="hp-stat"><span class="hp-stat-k">Authors</span><span class="hp-stat-v">15</span></div>
+      <div class="hp-stat"><span class="hp-stat-k">Reading units</span><span class="hp-stat-v">15,702</span></div>
+      <div class="hp-stat"><span class="hp-stat-k">Concept notes</span><span class="hp-stat-v">2,032</span></div>
+      <div class="hp-stat"><span class="hp-stat-k">Bilingual pages</span><span class="hp-stat-v">5,572</span></div>
+    </div>
+    <p class="hp-plate-note">Italian translations go up chapter by chapter, alongside the English — never in place of it.</p>
+  </aside>
+</div>
 
-Spin through the 15 authors — each emblem opens that author's works.
+<div class="hp-sec"><h2>The eight ways of meaning</h2><a class="hp-sec-link" href="naviga">Navigate the concept spaces →</a></div>
 
-<div class="radial-wheel" data-wheel="authors" data-center="Authors" data-center-sub="15 voices"></div>
+<div class="hp-axes"><a class="hp-axis" href="topoi/"><span class="hp-axis-em"><img src="static/wheel/axis-topoi.webp" alt=""></span><span class="hp-axis-body"><span class="hp-axis-head"><span class="hp-axis-name">Topoi</span><span class="hp-axis-n">45</span></span><span class="hp-axis-gloss">recurring situations</span></span></a><a class="hp-axis" href="archetypes/"><span class="hp-axis-em"><img src="static/wheel/axis-archetipi.webp" alt=""></span><span class="hp-axis-body"><span class="hp-axis-head"><span class="hp-axis-name">Archetypes</span><span class="hp-axis-n">52</span></span><span class="hp-axis-gloss">universal figures</span></span></a><a class="hp-axis" href="motifs/"><span class="hp-axis-em"><img src="static/wheel/axis-motivi.webp" alt=""></span><span class="hp-axis-body"><span class="hp-axis-head"><span class="hp-axis-name">Motifs</span><span class="hp-axis-n">157</span></span><span class="hp-axis-gloss">images that return</span></span></a><a class="hp-axis" href="concepts/"><span class="hp-axis-em"><img src="static/wheel/axis-concetti.webp" alt=""></span><span class="hp-axis-body"><span class="hp-axis-head"><span class="hp-axis-name">Concepts</span><span class="hp-axis-n">289</span></span><span class="hp-axis-gloss">themes and ideas</span></span></a><a class="hp-axis" href="forms/"><span class="hp-axis-em"><img src="static/wheel/axis-forme.webp" alt=""></span><span class="hp-axis-body"><span class="hp-axis-head"><span class="hp-axis-name">Forms</span><span class="hp-axis-n">76</span></span><span class="hp-axis-gloss">genres and metres</span></span></a><a class="hp-axis" href="historical-references/"><span class="hp-axis-em"><img src="static/wheel/axis-storia.webp" alt=""></span><span class="hp-axis-body"><span class="hp-axis-head"><span class="hp-axis-name">Historical References</span><span class="hp-axis-n">143</span></span><span class="hp-axis-gloss">history in the text</span></span></a><a class="hp-axis" href="settings/"><span class="hp-axis-em"><img src="static/wheel/axis-ambientazioni.webp" alt=""></span><span class="hp-axis-body"><span class="hp-axis-head"><span class="hp-axis-name">Settings</span><span class="hp-axis-n">68</span></span><span class="hp-axis-gloss">places and landscapes</span></span></a><a class="hp-axis" href="characters/"><span class="hp-axis-em"><img src="static/wheel/axis-personaggi.webp" alt=""></span><span class="hp-axis-body"><span class="hp-axis-head"><span class="hp-axis-name">Characters</span><span class="hp-axis-n">1202</span></span><span class="hp-axis-gloss">who recurs</span></span></a></div>
 
-## Thematic clusters
-
-The 107 clusters group works by the constellations of theme and form they share. Here is a curated selection of 15 cross-author themes.
+<div class="hp-sec"><h2>Thematic families</h2><span class="hp-sec-note">15 of 107 · the constellations that cross authors</span></div>
 
 <div class="radial-wheel" data-wheel="clusters" data-center="Clusters" data-center-sub="107 in all"></div>
 
-<p style="margin-top:1.2rem; text-align:center"><a class="btn" href="naviga">Explore the concept spaces →</a> &nbsp; <a class="btn btn-primary" href="opere">All works table →</a></p>
+<div class="hp-sec"><h2>Fifteen voices</h2><span class="hp-sec-note">click an emblem to enter an author's work</span></div>
+
+<div class="radial-wheel" data-wheel="authors" data-center="Authors" data-center-sub="15 voices"></div>
+
+<div class="hp-sec"><h2>Three and a half centuries</h2><span class="hp-sec-note">each author placed at the year of their central work</span></div>
+
+<div class="hp-timeline">
+  <div class="hp-tl-axis"><span class="hp-tl-name"></span><span class="hp-tl-track"><span class="hp-tl-tick" style="left:5.41%">1600</span><span class="hp-tl-tick" style="left:18.92%">1650</span><span class="hp-tl-tick" style="left:32.43%">1700</span><span class="hp-tl-tick" style="left:45.95%">1750</span><span class="hp-tl-tick" style="left:59.46%">1800</span><span class="hp-tl-tick" style="left:72.97%">1850</span><span class="hp-tl-tick" style="left:86.49%">1900</span><span class="hp-tl-tick" style="left:100.00%">1950</span></span><span class="hp-tl-n"></span></div>
+  <div class="hp-tl-body"><a class="hp-tl-row" href="cerca"><span class="hp-tl-name">Shakespeare</span><span class="hp-tl-track"><span class="hp-tl-grid" style="left:5.41%"></span><span class="hp-tl-grid" style="left:18.92%"></span><span class="hp-tl-grid" style="left:32.43%"></span><span class="hp-tl-grid" style="left:45.95%"></span><span class="hp-tl-grid" style="left:59.46%"></span><span class="hp-tl-grid" style="left:72.97%"></span><span class="hp-tl-grid" style="left:86.49%"></span><span class="hp-tl-grid" style="left:100.00%"></span><span class="hp-tl-dot" style="left:5.41%"></span><span class="hp-tl-year" style="left:5.41%">1600</span></span><span class="hp-tl-n">202</span></a><a class="hp-tl-row" href="cerca"><span class="hp-tl-name">Coleridge</span><span class="hp-tl-track"><span class="hp-tl-grid" style="left:5.41%"></span><span class="hp-tl-grid" style="left:18.92%"></span><span class="hp-tl-grid" style="left:32.43%"></span><span class="hp-tl-grid" style="left:45.95%"></span><span class="hp-tl-grid" style="left:59.46%"></span><span class="hp-tl-grid" style="left:72.97%"></span><span class="hp-tl-grid" style="left:86.49%"></span><span class="hp-tl-grid" style="left:100.00%"></span><span class="hp-tl-dot" style="left:58.92%"></span><span class="hp-tl-year" style="left:58.92%">1798</span></span><span class="hp-tl-n">434</span></a><a class="hp-tl-row" href="cerca"><span class="hp-tl-name">Austen</span><span class="hp-tl-track"><span class="hp-tl-grid" style="left:5.41%"></span><span class="hp-tl-grid" style="left:18.92%"></span><span class="hp-tl-grid" style="left:32.43%"></span><span class="hp-tl-grid" style="left:45.95%"></span><span class="hp-tl-grid" style="left:59.46%"></span><span class="hp-tl-grid" style="left:72.97%"></span><span class="hp-tl-grid" style="left:86.49%"></span><span class="hp-tl-grid" style="left:100.00%"></span><span class="hp-tl-dot" style="left:62.97%"></span><span class="hp-tl-year" style="left:62.97%">1813</span></span><span class="hp-tl-n">7</span></a><a class="hp-tl-row" href="cerca"><span class="hp-tl-name">Keats</span><span class="hp-tl-track"><span class="hp-tl-grid" style="left:5.41%"></span><span class="hp-tl-grid" style="left:18.92%"></span><span class="hp-tl-grid" style="left:32.43%"></span><span class="hp-tl-grid" style="left:45.95%"></span><span class="hp-tl-grid" style="left:59.46%"></span><span class="hp-tl-grid" style="left:72.97%"></span><span class="hp-tl-grid" style="left:86.49%"></span><span class="hp-tl-grid" style="left:100.00%"></span><span class="hp-tl-dot" style="left:64.59%"></span><span class="hp-tl-year" style="left:64.59%">1819</span></span><span class="hp-tl-n">142</span></a><a class="hp-tl-row" href="cerca"><span class="hp-tl-name">Poe</span><span class="hp-tl-track"><span class="hp-tl-grid" style="left:5.41%"></span><span class="hp-tl-grid" style="left:18.92%"></span><span class="hp-tl-grid" style="left:32.43%"></span><span class="hp-tl-grid" style="left:45.95%"></span><span class="hp-tl-grid" style="left:59.46%"></span><span class="hp-tl-grid" style="left:72.97%"></span><span class="hp-tl-grid" style="left:86.49%"></span><span class="hp-tl-grid" style="left:100.00%"></span><span class="hp-tl-dot" style="left:71.62%"></span><span class="hp-tl-year" style="left:71.62%">1845</span></span><span class="hp-tl-n">110</span></a><a class="hp-tl-row" href="cerca"><span class="hp-tl-name">Brontë</span><span class="hp-tl-track"><span class="hp-tl-grid" style="left:5.41%"></span><span class="hp-tl-grid" style="left:18.92%"></span><span class="hp-tl-grid" style="left:32.43%"></span><span class="hp-tl-grid" style="left:45.95%"></span><span class="hp-tl-grid" style="left:59.46%"></span><span class="hp-tl-grid" style="left:72.97%"></span><span class="hp-tl-grid" style="left:86.49%"></span><span class="hp-tl-grid" style="left:100.00%"></span><span class="hp-tl-dot" style="left:72.16%"></span><span class="hp-tl-year" style="left:72.16%">1847</span></span><span class="hp-tl-n">7</span></a><a class="hp-tl-row" href="cerca"><span class="hp-tl-name">Dickens</span><span class="hp-tl-track"><span class="hp-tl-grid" style="left:5.41%"></span><span class="hp-tl-grid" style="left:18.92%"></span><span class="hp-tl-grid" style="left:32.43%"></span><span class="hp-tl-grid" style="left:45.95%"></span><span class="hp-tl-grid" style="left:59.46%"></span><span class="hp-tl-grid" style="left:72.97%"></span><span class="hp-tl-grid" style="left:86.49%"></span><span class="hp-tl-grid" style="left:100.00%"></span><span class="hp-tl-dot" style="left:73.78%"></span><span class="hp-tl-year" style="left:73.78%">1853</span></span><span class="hp-tl-n">23</span></a><a class="hp-tl-row" href="cerca"><span class="hp-tl-name">Whitman</span><span class="hp-tl-track"><span class="hp-tl-grid" style="left:5.41%"></span><span class="hp-tl-grid" style="left:18.92%"></span><span class="hp-tl-grid" style="left:32.43%"></span><span class="hp-tl-grid" style="left:45.95%"></span><span class="hp-tl-grid" style="left:59.46%"></span><span class="hp-tl-grid" style="left:72.97%"></span><span class="hp-tl-grid" style="left:86.49%"></span><span class="hp-tl-grid" style="left:100.00%"></span><span class="hp-tl-dot" style="left:74.32%"></span><span class="hp-tl-year" style="left:74.32%">1855</span></span><span class="hp-tl-n">354</span></a><a class="hp-tl-row" href="cerca"><span class="hp-tl-name">Dickinson</span><span class="hp-tl-track"><span class="hp-tl-grid" style="left:5.41%"></span><span class="hp-tl-grid" style="left:18.92%"></span><span class="hp-tl-grid" style="left:32.43%"></span><span class="hp-tl-grid" style="left:45.95%"></span><span class="hp-tl-grid" style="left:59.46%"></span><span class="hp-tl-grid" style="left:72.97%"></span><span class="hp-tl-grid" style="left:86.49%"></span><span class="hp-tl-grid" style="left:100.00%"></span><span class="hp-tl-dot" style="left:76.22%"></span><span class="hp-tl-year" style="left:76.22%">1862</span></span><span class="hp-tl-n">1764</span></a><a class="hp-tl-row" href="cerca"><span class="hp-tl-name">Wilde</span><span class="hp-tl-track"><span class="hp-tl-grid" style="left:5.41%"></span><span class="hp-tl-grid" style="left:18.92%"></span><span class="hp-tl-grid" style="left:32.43%"></span><span class="hp-tl-grid" style="left:45.95%"></span><span class="hp-tl-grid" style="left:59.46%"></span><span class="hp-tl-grid" style="left:72.97%"></span><span class="hp-tl-grid" style="left:86.49%"></span><span class="hp-tl-grid" style="left:100.00%"></span><span class="hp-tl-dot" style="left:84.05%"></span><span class="hp-tl-year" style="left:84.05%">1891</span></span><span class="hp-tl-n">32</span></a><a class="hp-tl-row" href="cerca"><span class="hp-tl-name">Conan Doyle</span><span class="hp-tl-track"><span class="hp-tl-grid" style="left:5.41%"></span><span class="hp-tl-grid" style="left:18.92%"></span><span class="hp-tl-grid" style="left:32.43%"></span><span class="hp-tl-grid" style="left:45.95%"></span><span class="hp-tl-grid" style="left:59.46%"></span><span class="hp-tl-grid" style="left:72.97%"></span><span class="hp-tl-grid" style="left:86.49%"></span><span class="hp-tl-grid" style="left:100.00%"></span><span class="hp-tl-dot" style="left:84.32%"></span><span class="hp-tl-year" style="left:84.32%">1892</span></span><span class="hp-tl-n">81</span></a><a class="hp-tl-row" href="cerca"><span class="hp-tl-name">Belloc</span><span class="hp-tl-track"><span class="hp-tl-grid" style="left:5.41%"></span><span class="hp-tl-grid" style="left:18.92%"></span><span class="hp-tl-grid" style="left:32.43%"></span><span class="hp-tl-grid" style="left:45.95%"></span><span class="hp-tl-grid" style="left:59.46%"></span><span class="hp-tl-grid" style="left:72.97%"></span><span class="hp-tl-grid" style="left:86.49%"></span><span class="hp-tl-grid" style="left:100.00%"></span><span class="hp-tl-dot" style="left:87.03%"></span><span class="hp-tl-year" style="left:87.03%">1902</span></span><span class="hp-tl-n">63</span></a><a class="hp-tl-row" href="cerca"><span class="hp-tl-name">Chesterton</span><span class="hp-tl-track"><span class="hp-tl-grid" style="left:5.41%"></span><span class="hp-tl-grid" style="left:18.92%"></span><span class="hp-tl-grid" style="left:32.43%"></span><span class="hp-tl-grid" style="left:45.95%"></span><span class="hp-tl-grid" style="left:59.46%"></span><span class="hp-tl-grid" style="left:72.97%"></span><span class="hp-tl-grid" style="left:86.49%"></span><span class="hp-tl-grid" style="left:100.00%"></span><span class="hp-tl-dot" style="left:88.65%"></span><span class="hp-tl-year" style="left:88.65%">1908</span></span><span class="hp-tl-n">228</span></a><a class="hp-tl-row" href="cerca"><span class="hp-tl-name">Eliot</span><span class="hp-tl-track"><span class="hp-tl-grid" style="left:5.41%"></span><span class="hp-tl-grid" style="left:18.92%"></span><span class="hp-tl-grid" style="left:32.43%"></span><span class="hp-tl-grid" style="left:45.95%"></span><span class="hp-tl-grid" style="left:59.46%"></span><span class="hp-tl-grid" style="left:72.97%"></span><span class="hp-tl-grid" style="left:86.49%"></span><span class="hp-tl-grid" style="left:100.00%"></span><span class="hp-tl-dot" style="left:92.43%"></span><span class="hp-tl-year" style="left:92.43%">1922</span></span><span class="hp-tl-n">124</span></a><a class="hp-tl-row" href="cerca"><span class="hp-tl-name">Sayers</span><span class="hp-tl-track"><span class="hp-tl-grid" style="left:5.41%"></span><span class="hp-tl-grid" style="left:18.92%"></span><span class="hp-tl-grid" style="left:32.43%"></span><span class="hp-tl-grid" style="left:45.95%"></span><span class="hp-tl-grid" style="left:59.46%"></span><span class="hp-tl-grid" style="left:72.97%"></span><span class="hp-tl-grid" style="left:86.49%"></span><span class="hp-tl-grid" style="left:100.00%"></span><span class="hp-tl-dot" style="left:95.95%"></span><span class="hp-tl-year" style="left:95.95%">1935</span></span><span class="hp-tl-n">2</span></a></div>
+  <div class="hp-tl-foot"><span class="hp-tl-name">Author</span><span class="hp-tl-track"><em>year of the central work</em></span><span class="hp-tl-n">Works</span></div>
+</div>

@@ -1689,46 +1689,150 @@ async function main() {
     JSON.stringify(wheelData),
   )
 
+  // ---------- Home (design plate 1b) ----------
+  // Editorial nameplate, hero, eight-axis grid, the two wheels, century timeline.
+  // Everything here is raw HTML on purpose: Quartz passes it through untouched, and the
+  // markup carries the classes that quartz/styles/custom.scss styles (`hp-*`). Keep the
+  // blocks free of blank lines — a blank line inside an HTML block makes the markdown
+  // parser resume and wrap the remainder in <p>.
+
+  // One glossing line per concept axis, in the order axesWheel is built. Editorial text,
+  // so it lives next to the markup rather than in the data.
+  const axisGloss = {
+    Topoi: "recurring situations",
+    Archetypes: "universal figures",
+    Motifs: "images that return",
+    Concepts: "themes and ideas",
+    Forms: "genres and metres",
+    "Historical References": "history in the text",
+    Settings: "places and landscapes",
+    Characters: "who recurs",
+  }
+  const axisTiles = axesWheel
+    .map(
+      (a) =>
+        `<a class="hp-axis" href="${a.href}"><span class="hp-axis-em"><img src="static/wheel/${a.img}.webp" alt=""></span><span class="hp-axis-body"><span class="hp-axis-head"><span class="hp-axis-name">${a.label}</span><span class="hp-axis-n">${a.sub}</span></span><span class="hp-axis-gloss">${axisGloss[a.label] || ""}</span></span></a>`,
+    )
+    .join("")
+
+  // The year of each author's central work — an editorial judgement, not vault data (no
+  // work in the graph carries a date), which is why it is a literal table: edit a year
+  // here and the timeline moves. An author absent from this map is dropped from the
+  // chart with a warning rather than plotted at a guessed position.
+  const CENTRAL_WORK_YEAR = {
+    Shakespeare: 1600, // Hamlet
+    Coleridge: 1798, // Lyrical Ballads
+    Austen: 1813, // Pride and Prejudice
+    Keats: 1819, // the great odes
+    Poe: 1845, // The Raven
+    "Brontë": 1847, // Jane Eyre / Wuthering Heights
+    Dickens: 1853, // Bleak House
+    Whitman: 1855, // Leaves of Grass
+    Dickinson: 1862, // her most prolific year
+    Wilde: 1891, // The Picture of Dorian Gray
+    "Conan Doyle": 1892, // The Adventures of Sherlock Holmes
+    Belloc: 1902, // The Path to Rome
+    Chesterton: 1908, // Orthodoxy · The Man Who Was Thursday
+    Eliot: 1922, // The Waste Land
+    Sayers: 1935, // Gaudy Night
+  }
+  const TL_FROM = 1580
+  const TL_TO = 1950
+  const tlX = (y) => (((y - TL_FROM) / (TL_TO - TL_FROM)) * 100).toFixed(2) + "%"
+  const tlTicks = [1600, 1650, 1700, 1750, 1800, 1850, 1900, 1950]
+  const tlGrid = tlTicks
+    .map((t) => `<span class="hp-tl-grid" style="left:${tlX(t)}"></span>`)
+    .join("")
+  const tlRows = authorsWheel
+    .map((a) => {
+      const year = CENTRAL_WORK_YEAR[a.label]
+      if (!year) {
+        console.warn(`home timeline: no central-work year for author "${a.label}" — omitted`)
+        return null
+      }
+      return { label: a.label, year, n: parseInt(a.sub, 10) || 0, href: a.href }
+    })
+    .filter(Boolean)
+    .sort((x, y) => x.year - y.year)
+    .map(
+      (a) =>
+        `<a class="hp-tl-row" href="${a.href}"><span class="hp-tl-name">${a.label}</span><span class="hp-tl-track">${tlGrid}<span class="hp-tl-dot" style="left:${tlX(a.year)}"></span><span class="hp-tl-year" style="left:${tlX(a.year)}">${a.year}</span></span><span class="hp-tl-n">${a.n}</span></a>`,
+    )
+    .join("")
+  const tlAxis = tlTicks
+    .map((t) => `<span class="hp-tl-tick" style="left:${tlX(t)}">${t}</span>`)
+    .join("")
+
+  const conceptNotes = axesWheel.reduce((s, a) => s + (parseInt(a.sub, 10) || 0), 0)
+  const num = (n) => n.toLocaleString("en")
+
   const home = `---
 title: English Literature — A Knowledge Graph
 ---
 
-<div class="hero">
-  <div class="hero-art" aria-hidden="true">
-    <!-- PLACEHOLDER hero art — replace with a hand-crafted SVG/illustration -->
-    <svg viewBox="0 0 200 200" width="180" height="180" role="img" aria-label="open book">
-      <g fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
-        <path d="M100 50 C70 35 40 35 20 45 L20 150 C40 140 70 140 100 155"/>
-        <path d="M100 50 C130 35 160 35 180 45 L180 150 C160 140 130 140 100 155"/>
-        <path d="M100 55 L100 150"/>
-        <path d="M35 65 H80 M35 85 H80 M35 105 H80 M120 65 H165 M120 85 H165 M120 105 H165"/>
-      </g>
-    </svg>
+<div class="hp-mast">
+  <p class="hp-eyebrow">English literature · a graph of ideas</p>
+  <div class="hp-rule-thin"></div>
+  <div class="hp-nameplate">
+    <span class="hp-wordmark"><span class="hp-wm-title">English Literature</span><span class="hp-wm-bar"></span><span class="hp-wm-sub">a knowledge graph</span></span>
+    <span class="hp-mast-stats">${num(works.length)} works · ${authors.length} authors · ${num(excerpts.length)} excerpts</span>
   </div>
-  <div class="hero-text">
-    <p class="hero-kicker">A connected reading of the English canon</p>
-    <h1 class="hero-title">English Literature</h1>
-    <p class="hero-lead">${works.length.toLocaleString("en")} works by ${authors.length} authors, woven together through shared <em>topoi, archetypes, motifs, themes, forms, settings and characters</em>. Open a work to follow its connections; open a concept to see every work that shares it.</p>
-    <p class="hero-actions">
-      <a class="btn btn-primary" href="opere">Browse all works</a>
-      <a class="btn" href="cerca">Search by theme</a>
-    </p>
-  </div>
+  <div class="hp-rule-double"><span></span><span></span></div>
+  <nav class="hp-nav" aria-label="Sections">
+    <a href="opere">Works</a><a href="brani">Excerpts</a><a href="cerca">Search</a><a href="naviga">Navigate</a>
+  </nav>
+  <div class="hp-rule-thin"></div>
 </div>
 
-## Authors
+<div class="hp-hero">
+  <div class="hp-hero-text">
+    <p class="hp-kicker">A connected reading of the English canon</p>
+    <h1 class="hp-headline">Not an archive.<br><em>A network of ideas.</em></h1>
+    <p class="hp-lead">Every work is divided into reading units and tied to all the others through what they share: themes, archetypes, motifs, forms, settings, historical references, characters.</p>
+    <p class="hp-lead-alt">Open a work to follow its links; open a concept to see every work that carries it.</p>
+    <p class="hp-actions"><a class="btn btn-primary" href="cerca">Enter through a theme</a><a class="btn" href="opere">All works</a></p>
+  </div>
+  <aside class="hp-plate">
+    <div class="hp-plate-art" aria-hidden="true">
+      <svg viewBox="0 0 200 200" width="150" height="150" role="img" aria-label="open book">
+        <g fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+          <path d="M100 50 C70 35 40 35 20 45 L20 150 C40 140 70 140 100 155"/>
+          <path d="M100 50 C130 35 160 35 180 45 L180 150 C160 140 130 140 100 155"/>
+          <path d="M100 55 L100 150"/>
+          <path d="M35 65 H80 M35 85 H80 M35 105 H80 M120 65 H165 M120 85 H165 M120 105 H165"/>
+        </g>
+      </svg>
+    </div>
+    <div class="hp-stats">
+      <div class="hp-stat"><span class="hp-stat-k">Works</span><span class="hp-stat-v">${num(works.length)}</span></div>
+      <div class="hp-stat"><span class="hp-stat-k">Authors</span><span class="hp-stat-v">${authors.length}</span></div>
+      <div class="hp-stat"><span class="hp-stat-k">Reading units</span><span class="hp-stat-v">${num(excerpts.length)}</span></div>
+      <div class="hp-stat"><span class="hp-stat-k">Concept notes</span><span class="hp-stat-v">${num(conceptNotes)}</span></div>
+      <div class="hp-stat"><span class="hp-stat-k">Bilingual pages</span><span class="hp-stat-v">${num(translations.size)}</span></div>
+    </div>
+    <p class="hp-plate-note">Italian translations go up chapter by chapter, alongside the English — never in place of it.</p>
+  </aside>
+</div>
 
-Spin through the ${authorsWheel.length} authors — each emblem opens that author's works.
+<div class="hp-sec"><h2>The eight ways of meaning</h2><a class="hp-sec-link" href="naviga">Navigate the concept spaces →</a></div>
 
-<div class="radial-wheel" data-wheel="authors" data-center="Authors" data-center-sub="${authorsWheel.length} voices"></div>
+<div class="hp-axes">${axisTiles}</div>
 
-## Thematic clusters
-
-The ${clusters.length} clusters group works by the constellations of theme and form they share. Here is a curated selection of ${clustersWheel.length} cross-author themes.
+<div class="hp-sec"><h2>Thematic families</h2><span class="hp-sec-note">${clustersWheel.length} of ${clusters.length} · the constellations that cross authors</span></div>
 
 <div class="radial-wheel" data-wheel="clusters" data-center="Clusters" data-center-sub="${clusters.length} in all"></div>
 
-<p style="margin-top:1.2rem; text-align:center"><a class="btn" href="naviga">Explore the concept spaces →</a> &nbsp; <a class="btn btn-primary" href="opere">All works table →</a></p>
+<div class="hp-sec"><h2>Fifteen voices</h2><span class="hp-sec-note">click an emblem to enter an author's work</span></div>
+
+<div class="radial-wheel" data-wheel="authors" data-center="Authors" data-center-sub="${authorsWheel.length} voices"></div>
+
+<div class="hp-sec"><h2>Three and a half centuries</h2><span class="hp-sec-note">each author placed at the year of their central work</span></div>
+
+<div class="hp-timeline">
+  <div class="hp-tl-axis"><span class="hp-tl-name"></span><span class="hp-tl-track">${tlAxis}</span><span class="hp-tl-n"></span></div>
+  <div class="hp-tl-body">${tlRows}</div>
+  <div class="hp-tl-foot"><span class="hp-tl-name">Author</span><span class="hp-tl-track"><em>year of the central work</em></span><span class="hp-tl-n">Works</span></div>
+</div>
 `
   await fs.writeFile(path.join(CONTENT, "index.md"), home)
 

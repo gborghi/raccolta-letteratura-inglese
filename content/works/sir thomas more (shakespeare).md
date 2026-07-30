@@ -53,6 +53,7 @@ tags:
 - [Scene 2](/testi/shakespeare/plays/sir_thomas_more#scenes--scene_2)
 - [Scene 3](/testi/shakespeare/plays/sir_thomas_more#scenes--scene_3)
 - [Scene 4](/testi/shakespeare/plays/sir_thomas_more#scenes--scene_4)
+- [Scene 4a](/testi/shakespeare/plays/sir_thomas_more#scenes--scene_4a)
 - [Scene 5](/testi/shakespeare/plays/sir_thomas_more#scenes--scene_5)
 - [Scene 6](/testi/shakespeare/plays/sir_thomas_more#scenes--scene_6)
 - [Scene 7](/testi/shakespeare/plays/sir_thomas_more#scenes--scene_7)

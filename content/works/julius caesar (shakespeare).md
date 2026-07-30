@@ -49,6 +49,7 @@ tags:
 ## Capitoli / Chapters
 
 - [Act I, Scene 1](/testi/shakespeare/plays/julius_caesar#act_1--scene_1)
+- [Act I, Scene 2](/testi/shakespeare/plays/julius_caesar#act_1--scene_2)
 - [Act I, Scene 3](/testi/shakespeare/plays/julius_caesar#act_1--scene_3)
 - [Act II, Scene 1](/testi/shakespeare/plays/julius_caesar#act_2--scene_1)
 - [Act II, Scene 2](/testi/shakespeare/plays/julius_caesar#act_2--scene_2)

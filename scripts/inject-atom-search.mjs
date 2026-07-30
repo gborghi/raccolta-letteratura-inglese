@@ -27,7 +27,8 @@ export function mergeAtoms(index, atoms) {
 }
 
 function main() {
-  const file = path.join("public", "static", "contentIndex.json")
+  // see the QUARTZ_OUT note in make-mobile-index.mjs
+  const file = path.join(process.env.QUARTZ_OUT || "public", "static", "contentIndex.json")
   if (!fs.existsSync(file)) {
     console.error("inject-atom-search: contentIndex.json not found — skipping")
     process.exit(0)

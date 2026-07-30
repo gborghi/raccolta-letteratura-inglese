@@ -1257,12 +1257,77 @@ Exeunt ⌈Norfolk at one door, [[Buckingham]] and Abergavenny under guard at ano
 | *(didascalia)* | Enter Epilogue |
 | EPILOGUE | ‘Tis ten to one this play can never please<br>All that are here. Some come to take their ease,<br>And [[Sleep\|sleep]] an act or two; but those, we [[Fear\|fear]],<br>We’ve frighted with our trumpets; so, ’tis clear,<br>They’ll say ’tis naught. Others to hear the [[City\|city]]<br>Abused extremely, and to cry ‘That’s witty!’—<br>Which we have not done neither; that, I [[Fear\|fear]],<br>All the expected good we’re like to hear<br>For this play at this [[Time\|time]] is only in<br>The merciful construction of good women,<br>For such a one we showed ’em. If they smile,<br>And say “Twill do’, I know within a while<br>All the best men are ours—for ’tis ill hap<br>If they hold when their ladies bid ’em clap. |
 | *(didascalia)* | Exit |
-| BY JOHN FLETCHER AND | WILLIAM SHAKESPEARE |
-| WHEN | it first appeared in print, in 1634, The Two Noble Kinsmen was stated to be ‘by the memorable worthies of their [[Time\|time]], Mr John Fletcher, and Mr William Shakespeare’. There is no reason to disbelieve this ascription: many plays of the period were not printed till long after they were acted, and there is other evidence that Shakespeare collaborated with Fletcher (1579―1625). The morris [[Dance\|dance]] in Act 3, Scene 5, contains characters who also appear in Francis Beaumont’s [[Masque]] of the Inner Temple and Gray’s Inn performed before James I on 20 February 1613. Their [[Dance\|dance]] was a great [[success]] with the [[King]]; probably the [[King]]’s Men—some of whom may have taken part in the [[Masque\|masque]]—decided to exploit its [[success]] by incorporating it in a play written soon afterwards, in the last year of Shakespeare’s playwriting life.<br>The Two Noble Kinsmen, a [[Tragicomedy\|tragicomedy]] of the kind that became popular during the last years of the first decade of the seventeenth century, is based on Chaucer’s Knight’s Tale, on which Shakespeare had already drawn for episodes of A Midsummer [[Night]]’s Dream. It tells a romantic tale of the conflicting claims of [[Love\|love]] and [[Friendship\|friendship]]: the ‘two noble kinsmen’, [[Palamon]] and [[Arcite]], are the closest of friends until each falls in [[Love\|love]] with [[Emilia]], sister-in-law of [[Theseus]], Duke of Athens. Their conflict is finally resolved by a formal combat with [[Emilia]] as the prize, in which the loser is to be executed. [[Arcite]] wins, and [[Palamon]]’s head is on the block as news arrives that [[Arcite]] has been thrown from his [[Horse\|horse]]. Dying, [[Arcite]] commends [[Emilia]] to his friend, and [[Theseus]] rounds off the play with a meditation on the paradoxes of fortune.<br>Studies of style suggest that Shakespeare was primarily responsible for the rhetorically and ritualistically impressive Act 1, for Act 2, Scene 1. Act 3, Scenes 1 and 2; and for most of Act 5 (Scene 4 excepted), which includes emblematically spectacular episodes related to his other late plays. Fletcher appears mainly to have written the scenes showing the rivalry of [[Palamon]] and [[Arcite]] along with the sub-plots concerned with the Jailer’s daughter’s [[Love\|love]] for [[Palamon]] and the rustics’ entertainment for [[Theseus]].<br>Though the play was adapted by William Davenant as The Rivals (1664), its first known performances since the seventeenth century were at the Old Vic in 1928; it has been played only occasionally since then, but was chosen to open the Swan Theatre in Stratford-upon-Avon in 1986. Critical interest, too, has been slight; but Shakespeare’s contributions are entirely characteristic of his late style, and Fletcher’s scenes are both touching and funny. |
-| THE PERSONS OF THE | PLAY |
-| PROLOGUE | [[Theseus\|THESEUS]], Duke of Athens<br>[[Hippolyta\|HIPPOLYTA]], [[Queen]] of the Amazons, later wife of [[Theseus]]<br>[[Emilia\|EMILIA]], her sister<br>PIRITHOUS, friend of [[Theseus]]<br>Hymen, god of [[Marriage\|marriage]]<br>A BOY, who sings<br>ARTESIUS, an Athenian soldier<br>Three QUEENS, widows of kings killed in the siege of Thebes<br>VALERIUS, a Theban<br>A HERALD<br>WOMAN, attending [[Emilia]]<br>An Athenian GENTLEMAN |
-| MESSENGERS | Six KNIGHTS, three attending [[Arcite]] and three [[Palamon]]<br>A SERVANT<br>A JAILER in charge of [[Theseus]]’ [[Prison\|prison]]<br>The JAILER’S DAUGHTER<br>The JAILER’S BROTHER<br>The WOOER of the Jailer’s daughter<br>Two FRIENDS of the Jailer<br>A DOCTOR<br>Six COUNTRYMEN, one dressed as a babion, or baboon<br>Gerald, a SCHOOLMASTER<br>NELL, a country wench<br>Four other country wenches: Friz, [[Madeline]], Luce, and Barbara Timothy, a TABORER |
-| EPILOGUE | Nymphs, attendants, maids, executioner, guard |
+
+
+
+
+<span class="atom-split" data-atom="act_1--scene_1" data-title="All Is True (Henry VIII) — Act I, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="archetype/fool,archetype/king,archetype/shadow,motif/blood,motif/crown,motif/fire,motif/home,motif/horse,motif/journey,motif/nature,motif/night,motif/soul,motif/storm,motif/time,motif/well,concept/body,concept/faith,concept/honour,concept/hope,concept/nature,concept/pride,concept/self,concept/vanity,concept/wonder,form/masque,character/buckingham,character/cardinal_wolsey,character/duke_of_buckingham,character/henry_viii,character/queen,character/speed"></span>
+
+
+| Speaker | Line |
+|---|---|
+| *(didascalia)* | A cloth of state throughout the play. Enter the Duke of Norfolk at one door; at the other door enter the [[Duke of Buckingham]] and the Lord Abergavenny |
+| [[Buckingham\|BUCKINGHAM]] | (to Norfolk)<br>Good morrow, and [[Well\|well]] met. How have ye done<br>Since last we saw in France? |
+| NORFOLK | I thank your grace,<br>Healthful, and ever since a fresh admirer<br>Of what I saw there. |
+| [[Buckingham\|BUCKINGHAM]] | An untimely ague<br>Stayed me a prisoner in my chamber when 5<br>Those suns of glory, those two lights of men,<br>Met in the vale of Ardres. |
+| NORFOLK | ’Twixt Guisnes and Ardres.<br>I was then present, saw them salute on horseback,<br>Beheld them when they lighted, how they clung<br>In their embracement as they grew together,<br>Which had they, what four throned ones could have<br>weighed<br>Such a compounded one? |
+| [[Buckingham\|BUCKINGHAM]] | All the whole [[Time\|time]]<br>I was my chamber’s prisoner. |
+| NORFOLK | Then you lost<br>The view of earthly glory. Men might say<br>Till this [[Time\|time]] pomp was single, but now married<br>To one above itself. Each following day<br>Became the next day’s master, till the last<br>Made former wonders its. Today the French,<br>All clinquant all in gold, like heathen gods<br>Shone down the English; and tomorrow they<br>Made Britain India. Every man that stood<br>Showed like a mine. Their dwarfish pages were<br>As cherubim, all gilt; the mesdames, too,<br>Not used to toil, did almost sweat to bear<br>The [[Pride\|pride]] upon them, that their very labour<br>Was to them as a painting. Now this [[Masque\|masque]]<br>Was cried incomparable, and th‘ensuing [[Night\|night]]<br>Made it a [[Fool\|fool]] and beggar. The two kings<br>Equal in lustre, were now best, now worst,<br>As presence did present them. Him in eye<br>Still him in praise, and being present both,<br>’Twas said they saw but one, and no discerner<br>Durst wag his tongue in censure. When these suns—<br>For so they phrase ’em—by their heralds challenged<br>The noble spirits to arms, they did perform<br>Beyond thought’s compass, that former fabulous story<br>Being now seen possible enough, got credit<br>That Bevis was believed. |
+| [[Buckingham\|BUCKINGHAM]] | O, you go far! |
+| NORFOLK | As I belong to worship, and affect<br>In [[Honour\|honour]] honesty, the tract of ev’rything<br>Would by a good discourser lose some life<br>Which action’s [[Self\|self]] was tongue to. All was royal.<br>To the disposing of it naught rebelled.<br>Order gave each thing view. The office did<br>Distinctly his full function. |
+| [[Buckingham\|BUCKINGHAM]] | Who did guide—<br>I mean, who set the [[Body\|body]] and the limbs<br>Of this great sport together, as you guess? |
+| NORFOLK | One, certes, that promises no element<br>In such a business. |
+| [[Buckingham\|BUCKINGHAM]] | I pray you who, my lord? |
+| NORFOLK | All this was ordered by the good discretion<br>Of the right reverend Cardinal of York. |
+| [[Buckingham\|BUCKINGHAM]] | The devil [[Speed\|speed]] him! No man’s pie is freed<br>From his ambitious finger. What had he<br>To do in these fierce vanities? I [[Wonder\|wonder]]<br>That such a keech can, with his very bulk,<br>Take up the rays o’th’ beneficial sun,<br>And keep it from the earth. |
+| NORFOLK | Surely, sir,<br>There’s in him stuff that puts him to these ends.<br>For being not propped by ancestry, whose grace<br>Chalks successors their way, nor called upon no<br>For high feats done to th’ [[Crown\|crown]], neither allied<br>To eminent assistants, but spider-like,<br>Out of his [[Self\|self]]-drawing web, a gives us note<br>The force of his own merit makes his way—<br>A gift that heaven gives for him which buys<br>A place next to the [[King]]. |
+| ABERGAVENNY | I cannot tell<br>What heaven hath given him—let some graver eye<br>Pierce into that; but I can see his [[Pride\|pride]]<br>Peep through each part of him. Whence has he that?<br>If not from hell, the devil is a niggard<br>Or has given all before, and he begins<br>A new hell in himself. |
+| [[Buckingham\|BUCKINGHAM]] | Why the devil,<br>Upon this French going out, took he upon him<br>Without the privity o’th’ [[King]] t’appoint<br>Who should attend on him? He makes up the file<br>Of all the gentry, for the most part such<br>To whom as great a charge as little [[Honour\|honour]]<br>He meant to lay upon; and his own letter,<br>The honourable board of council out,<br>Must fetch him in, he papers. |
+| ABERGAVENNY | I do know<br>Kinsmen of mine—three at the least—that have<br>By this so sickened their estates that never<br>They shall abound as formerly. |
+| [[Buckingham\|BUCKINGHAM]] | O, many<br>Have broke their backs with laying manors on ’em<br>For this great [[Journey\|journey]]. What did this [[Vanity\|vanity]]<br>But minister communication of<br>A most poor issue? |
+| NORFOLK | Grievingly I think<br>The peace between the French and us not values<br>The cost that did conclude it. |
+| [[Buckingham\|BUCKINGHAM]] | Every man,<br>After the hideous [[Storm\|storm]] that followed, was<br>A thing inspired, and, not consulting, broke<br>Into a general prophecy—that this tempest,<br>Dashing the garment of this peace, aboded<br>The sudden breach on’t. |
+| NORFOLK | Which is budded out—<br>For France hath flawed the league, and hath attached<br>Our merchants’ goods at Bordeaux. |
+| ABERGAVENNY | Is it therefore<br>Th’ambassador is silenced? |
+| NORFOLK | Marry is’t. |
+| ABERGAVENNY | A proper title of a peace, and purchased<br>At a superfluous rate. |
+| [[Buckingham\|BUCKINGHAM]] | Why, all this business<br>Our reverend Cardinal carried. |
+| NORFOLK | Like it your grace,<br>The state takes notice of the private difference<br>Betwixt you and the Cardinal. I advise you—<br>And take it from a heart that wishes towards you<br>[[Honour]] and plenteous safety—that you read<br>The Cardinal’s malice and his potency<br>Together; to consider further that<br>What his high hatred would effect wants not<br>A minister in his power. You know his [[Nature\|nature]],<br>That he’s revengeful; and I know his [[Sword\|sword]]<br>Hath a sharp edge—it’s long, and’t may be said no<br>It reaches far; and where ’twill not extend<br>Thither he darts it. Bosom up my counsel,<br>You’ll find it wholesome. Lo, where comes that rock<br>That I advise your shunning. |
+| *(didascalia)* | Enter [[Cardinal Wolsey]], the purse containing the great seal borne before him. Enter with him certain of the guard, and two secretaries with papers. The Cardinal in his passage fixeth his eye on [[Buckingham]] and [[Buckingham]] on him, both full of disdain |
+| [[Cardinal Wolsey\|CARDINAL WOLSEY]] | (to a secretary)<br>The [[Duke of Buckingham]]’s surveyor, ha?<br>Where’s his examination? |
+| SECRETARY | Here, so please you. |
+| [[Cardinal Wolsey\|CARDINAL WOLSEY]] | Is he in person ready? |
+| SECRETARY | Ay, please your grace. |
+| [[Cardinal Wolsey\|CARDINAL WOLSEY]] | [[Well]], we shall then know more, and [[Buckingham]] Shall lessen this big look. |
+| *(didascalia)* | Exeunt Wolsey and his train |
+| [[Buckingham\|BUCKINGHAM]] | This butcher’s cur is venom-mouthed, and I<br>Have not the power to muzzle him; therefore best<br>Not wake him in his slumber. A beggar’s book<br>Outworths a noble’s [[Blood\|blood]]. |
+| NORFOLK | What, are you chafed?<br>Ask God for temp’rance; that’s th’appliance only<br>Which your disease requires. |
+| [[Buckingham\|BUCKINGHAM]] | I read in’s looks<br>Matter against me, and his eye reviled<br>Me as his abject object. At this instant<br>He bores me with some trick. He’s gone to th’ [[King]]—<br>I’ll follow, and outstare him. |
+| NORFOLK | Stay, my lord,<br>And let your reason with your choler question<br>What ’tis you go about. To climb steep hills<br>Requires slow pace at first. Anger is like<br>A full hot [[Horse\|horse]] who, being allowed his way,<br>[[Self]]-mettle tires him. Not a man in England<br>Can advise me like you. Be to yourself<br>As you would to your friend. |
+| [[Buckingham\|BUCKINGHAM]] | I’ll to the [[King]],<br>And from a mouth of [[Honour\|honour]] quite cry down<br>This Ipswich fellow’s insolence, or proclaim<br>There’s difference in no persons. |
+| NORFOLK | Be advised.<br>Heat not a furnace for your foe so hot<br>That it do singe yourself. We may outrun<br>By violent swiftness that which we run at,<br>And lose by over-running. Know you not<br>The [[Fire\|fire]] that mounts the liquor till’t run o’er<br>In seeming to augment it wastes it? Be advised.<br>I say again there is no English [[Soul\|soul]]<br>More stronger to direct you than yourself,<br>If with the sap of reason you would quench<br>Or but allay the [[Fire\|fire]] of passion. |
+| [[Buckingham\|BUCKINGHAM]] | Sir,<br>I am thankful to you, and I’ll go along<br>By your prescription; but this top-proud fellow—<br>Whom from the flow of gall I name not, but<br>From sincere motions—by intelligence,<br>And proofs as clear as founts in July when<br>We see each grain of gravel, I do know<br>To be corrupt and treasonous. |
+| NORFOLK | Say not ‘treasonous’. |
+| [[Buckingham\|BUCKINGHAM]] | To th’ [[King]] I’ll say’t, and make my vouch as strong<br>As shore of rock. Attend: this holy fox,<br>Or wolf, or both—for he is equal rav’nous<br>As he is subtle, and as prone to mischief<br>As able to perform’t, his mind and place<br>Infecting one another, yea, reciprocatly—<br>Only to show his pomp as [[Well\|well]] in France<br>As here at [[Home\|home]], suggests the [[King]] our master<br>To this last costly treaty, th’interview<br>That swallowed so much treasure and, like a glass,<br>Did break i’th’ rinsing. |
+| NORFOLK | [[Faith]], and so it did. |
+| [[Buckingham\|BUCKINGHAM]] | Pray give me favour, sir. This cunning Cardinal,<br>The articles o‘th’ combination drew<br>As himself pleased, and they were ratified 170<br>As he cried ‘Thus let be’, to as much end<br>As give a crutch to th’ dead. But our count-Cardinal<br>Has done this, and ’tis [[Well\|well]] for worthy Wolsey,<br>Who cannot err, he did it. Now this follows—<br>Which, as I take it, is a kind of puppy<br>To th‘old dam, treason—Charles the Emperor,<br>Under pretence to see the [[Queen]] his aunt—<br>For ’twas indeed his colour, but he came<br>To whisper Wolsey—here makes visitation.<br>His fears were that the interview betwixt<br>England and France might through their amity<br>Breed him some prejudice, for from this league<br>Peeped harms that menaced him. Privily he<br>Deals with our Cardinal and, as I trow—<br>Which I do [[Well\|well]], for I am sure the Emperor<br>Paid ere he promised, whereby his suit was granted<br>Ere it was asked—but when the way was made,<br>And paved with gold, the Emperor thus desired<br>That he would please to alter the [[King]]’s course<br>And break the foresaid peace. Let the [[King]] know,<br>As soon he shall by me, that thus the Cardinal<br>Does buy and sell his [[Honour\|honour]] as he pleases,<br>And for his own advantage. |
+| NORFOLK | I am sorry<br>To hear this of him, and could wish he were<br>Something mistaken in’t. |
+| [[Buckingham\|BUCKINGHAM]] | No, not a syllable.<br>I do pronounce him in that very shape<br>He shall appear in proof. |
+| *(didascalia)* | Enter Brandon, a serjeant-at-arms before him, and two or three of the guard |
+| BRANDON | Your office, serjeant, execute it. |
+| SERJEANT | Sir.<br>(To [[Buckingham]]) My lord the [[Duke of Buckingham]] and<br>Earl<br>Of Hereford, Stafford, and Northampton, I<br>Arrest thee of high treason in the name<br>Of our most sovereign [[King]]. |
+| [[Buckingham\|BUCKINGHAM]] | to Norfolk<br>Lo you, my lord,<br>The net has fall’n upon me. I shall perish<br>Under device and practice. |
+| BRANDON | I am sorry<br>To see you ta’en from liberty to look on<br>The business present. ’Tis his highness’ pleasure<br>You shall to th’ Tower. |
+| [[Buckingham\|BUCKINGHAM]] | It will help me nothing<br>To plead mine [[innocence]], for that dye is on me<br>Which makes my whit’st part black. The will of<br>heav’n<br>Be done in this and all things. I obey.<br>O, my lord Abergavenny, fare you [[Well\|well]]. |
+| BRANDON | Nay, he must bear you company.<br>(To Abergavenny)<br>The [[King]]<br>Is pleased you shall to th’ Tower till you know<br>How he determines further. |
+| ABERGAVENNY | As the Duke said,<br>The will of heaven be done and the [[King]]’s pleasure<br>By me obeyed. |
+| BRANDON | Here is a warrant from<br>The [[King]] t’attach Lord Montague and the bodies<br>Of the duke’s confessor, John de la Car,<br>One Gilbert Perk, his chancellor— |
+| [[Buckingham\|BUCKINGHAM]] | So, so;<br>These are the limbs o’th’ plot. No more, I [[Hope\|hope]]. |
+| BRANDON | A monk o’th’ Chartreux. |
+| [[Buckingham\|BUCKINGHAM]] | O, Nicholas Hopkins? |
+| BRANDON | He. |
+| [[Buckingham\|BUCKINGHAM]] | My surveyor is false. The o’er-great Cardinal<br>Hath showed him gold. My life is spanned already.<br>I am the [[Shadow\|shadow]] of poor [[Buckingham]],<br>Whose figure even this instant cloud puts on<br>By dark’ning my clear sun. (To Norfolk) My lord,<br>farewell. |
+| *(didascalia)* | Exeunt Norfolk at one door, [[Buckingham]] and Abergavenny under guard at another |
 
 
 
@@ -1364,7 +1429,7 @@ Exeunt ⌈Norfolk at one door, [[Buckingham]] and Abergavenny under guard at ano
 
 
 
-<span class="atom-split" data-atom="act_1--scene_4" data-title="All Is True (Henry VIII) — Act I, Scene 4" data-chapter="Scene 4" data-kind="scene" data-tags="archetype/king,motif/blood,motif/dance,motif/death,motif/grave,motif/home,motif/leaves,motif/love,motif/mirror,motif/night,motif/silence,motif/soul,motif/time,motif/water,motif/well,concept/beauty,concept/charity,concept/conscience,concept/doubt,concept/faith,concept/fear,concept/greatness,concept/honour,concept/hope,concept/revenge,concept/truth,setting/court,character/buckingham,character/cardinal_wolsey,character/duke_of_buckingham,character/henry_viii,character/lord_mayor,character/queen,character/richard"></span>
+<span class="atom-split" data-atom="act_1--scene_4" data-title="All Is True (Henry VIII) — Act I, Scene 4" data-chapter="Scene 4" data-kind="scene" data-tags="archetype/king,motif/dance,motif/leaves,motif/love,motif/night,motif/silence,motif/well,concept/beauty,concept/faith,concept/fear,character/cardinal_wolsey,character/henry_viii"></span>
 
 
 | Speaker | Line |
@@ -1432,7 +1497,16 @@ Exeunt ⌈Norfolk at one door, [[Buckingham]] and Abergavenny under guard at ano
 | [[Cardinal Wolsey\|CARDINAL WOLSEY]] | There’s fresher air, my lord,<br>In the next chamber. |
 | [[King\|KING]] HENRY | Lead in your ladies, every one. (To Anne) Sweet partner,<br>I must not yet forsake you. (To Wolsey) Let’s be merry,<br>Good my lord Cardinal. I have half a dozen healths<br>To drink to these fair ladies, and a measure<br>To lead ’em once again, and then let’s dream<br>Who’s best in favour. Let the music knock it. |
 | *(didascalia)* | Exeunt with trumpets |
-| [[King\|KING]] HENRY | 2.1 Enter two Gentlemen, at several doors |
+
+
+
+
+<span class="atom-split" data-atom="act_2--scene_1" data-title="All Is True (Henry VIII) — Act II, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="archetype/king,motif/blood,motif/death,motif/grave,motif/home,motif/love,motif/mirror,motif/soul,motif/time,motif/water,concept/charity,concept/conscience,concept/doubt,concept/faith,concept/fear,concept/greatness,concept/honour,concept/hope,concept/revenge,concept/truth,setting/court,character/buckingham,character/duke_of_buckingham,character/henry_viii,character/lord_mayor,character/queen,character/richard"></span>
+
+
+| Speaker | Line |
+|---|---|
+| *(didascalia)* | Enter two Gentlemen, at several doors |
 | FIRST GENTLEMAN | Whither away so fast? |
 | SECOND GENTLEMAN | O, God save ye.<br>Ev’n to the hall to hear what shall become<br>Of the great [[Duke of Buckingham]]. |
 | FIRST GENTLEMAN | I’ll save you<br>That labour, sir. All’s now done but the ceremony<br>Of bringing back the prisoner. |
@@ -1596,7 +1670,7 @@ Exeunt ⌈Norfolk at one door, [[Buckingham]] and Abergavenny under guard at ano
 
 
 
-<span class="atom-split" data-atom="act_2--scene_4" data-title="All Is True (Henry VIII) — Act II, Scene 4" data-chapter="Scene 4" data-kind="scene" data-tags="archetype/child,archetype/king,motif/cross,motif/death,motif/desire,motif/fire,motif/flowers,motif/grave,motif/love,motif/marriage,motif/nature,motif/silence,motif/soul,motif/spring,motif/tears,motif/time,motif/well,concept/charity,concept/conscience,concept/doubt,concept/faith,concept/fear,concept/friendship,concept/greatness,concept/honour,concept/hope,concept/humility,concept/nature,concept/pride,concept/truth,setting/court,character/cardinal_wolsey,character/cranmer,character/ferdinand,character/henry_viii,character/lincoln,character/monks,character/queen,character/queen_katherine"></span>
+<span class="atom-split" data-atom="act_2--scene_4" data-title="All Is True (Henry VIII) — Act II, Scene 4" data-chapter="Scene 4" data-kind="scene" data-tags="archetype/child,archetype/king,motif/cross,motif/desire,motif/fire,motif/grave,motif/love,motif/marriage,motif/nature,motif/silence,motif/soul,motif/spring,motif/tears,motif/time,motif/well,concept/charity,concept/conscience,concept/doubt,concept/fear,concept/friendship,concept/honour,concept/humility,concept/nature,concept/pride,concept/truth,setting/court,character/cardinal_wolsey,character/cranmer,character/ferdinand,character/henry_viii,character/lincoln,character/queen,character/queen_katherine"></span>
 
 
 | Speaker | Line |
@@ -1636,7 +1710,16 @@ Exeunt ⌈Norfolk at one door, [[Buckingham]] and Abergavenny under guard at ano
 | CARDINAL CAMPEIUS | So please your highness,<br>The [[Queen]] being absent, ’tis a needful fitness<br>That we adjourn this [[Court\|court]] till further day.<br>Meanwhile must be an earnest motion<br>Made to the [[Queen]] to call back her appeal<br>She intends unto his holiness. |
 | [[King\|KING]] HENRY | (aside)<br>I may perceive<br>These cardinals trifle with me. I abhor<br>This dilatory sloth and tricks of Rome.<br>My learned and [[Well\|well]]-belovèd servant, [[Cranmer]],<br>Prithee return. With thy approach I know<br>My comfort comes along. (Aloud) Break up the [[Court\|court]].<br>I say, set on. |
 | *(didascalia)* | Exeunt in manner as they entered |
-| [[King\|KING]] HENRY | 3.1 Enter [[Queen Katherine]] and her women, as at work |
+
+
+
+
+<span class="atom-split" data-atom="act_3--scene_1" data-title="All Is True (Henry VIII) — Act III, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="archetype/king,motif/death,motif/flowers,motif/grave,motif/love,motif/nature,motif/soul,motif/spring,motif/time,motif/well,concept/charity,concept/conscience,concept/faith,concept/fear,concept/greatness,concept/honour,concept/hope,concept/nature,concept/truth,character/cardinal_wolsey,character/henry_viii,character/monks,character/queen,character/queen_katherine"></span>
+
+
+| Speaker | Line |
+|---|---|
+| *(didascalia)* | Enter [[Queen Katherine]] and her women, as at work |
 | [[Queen Katherine\|QUEEN KATHERINE]] | Take thy lute, wench. My [[Soul\|soul]] grows sad with troubles.<br>Sing, and disperse ’em if thou canst. Leave working. |
 | GENTLEWOMAN | (sings)<br>Orpheus with his lute made trees,<br>And the mountain tops that freeze,<br>Bow themselves when he did sing.<br>To his music plants and [[Flowers\|flowers]]<br>Ever sprung, as sun and showers<br>There had made a lasting [[spring]].<br>Everything that heard him play,<br>Even the billows of the sea,<br>Hung their heads, and then lay by.<br>In sweet music is such art,<br>Killing care and grief of heart<br>Fall asleep, or hearing, die. |
 | *(didascalia)* | Enter Griffith, a gentleman |
@@ -1826,7 +1909,7 @@ Exeunt ⌈Norfolk at one door, [[Buckingham]] and Abergavenny under guard at ano
 
 
 
-<span class="atom-split" data-atom="act_4--scene_1" data-title="All Is True (Henry VIII) — Act IV, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="topos/double,archetype/child,archetype/king,archetype/lover,motif/crown,motif/dance,motif/death,motif/dreams,motif/flowers,motif/grave,motif/jewel,motif/love,motif/marriage,motif/nature,motif/pain,motif/rose,motif/sleep,motif/soul,motif/stars,motif/summer,motif/tears,motif/time,motif/water,motif/well,concept/beauty,concept/body,concept/charity,concept/conscience,concept/doubt,concept/fear,concept/greatness,concept/honour,concept/hope,concept/humility,concept/nature,concept/poverty,concept/truth,setting/court,setting/london,setting/oxford,character/cardinal_wolsey,character/cranmer,character/duke_of_buckingham,character/duke_of_suffolk,character/earl_of_surrey,character/henry_viii,character/lady_anne,character/lord_mayor,character/queen"></span>
+<span class="atom-split" data-atom="act_4--scene_1" data-title="All Is True (Henry VIII) — Act IV, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="archetype/king,archetype/lover,motif/crown,motif/flowers,motif/jewel,motif/marriage,motif/rose,motif/soul,motif/stars,motif/time,motif/well,concept/beauty,concept/conscience,concept/doubt,concept/honour,setting/court,setting/london,character/cranmer,character/duke_of_buckingham,character/duke_of_suffolk,character/earl_of_surrey,character/henry_viii,character/lady_anne,character/lord_mayor,character/queen"></span>
 
 
 | Speaker | Line |
@@ -1891,7 +1974,16 @@ Exeunt ⌈Norfolk at one door, [[Buckingham]] and Abergavenny under guard at ano
 | THIRD GENTLEMAN | Yes, without all [[Doubt\|doubt]].<br>Come, gentlemen, ye shall go my way,<br>Which is to th’ [[Court\|court]], and there ye shall be my<br>guests.<br>Something I can command. As I walk thither<br>I’ll tell ye more. |
 | FIRST | and SECOND GENTLEMEN You may command us, sir. |
 | *(didascalia)* | Exeunt |
-| *(didascalia)* | 4.2 Three chairs. Enter Katherine Dowager, sick, led between Griffith her gentleman usher, and Patience her woman |
+
+
+
+
+<span class="atom-split" data-atom="act_4--scene_2" data-title="All Is True (Henry VIII) — Act IV, Scene 2" data-chapter="Scene 2" data-kind="scene" data-tags="topos/double,archetype/child,archetype/king,motif/dance,motif/death,motif/dreams,motif/flowers,motif/grave,motif/love,motif/nature,motif/pain,motif/sleep,motif/soul,motif/summer,motif/tears,motif/time,motif/water,motif/well,concept/beauty,concept/body,concept/charity,concept/fear,concept/greatness,concept/honour,concept/hope,concept/humility,concept/nature,concept/poverty,concept/truth,setting/oxford,character/cardinal_wolsey,character/henry_viii,character/queen"></span>
+
+
+| Speaker | Line |
+|---|---|
+| *(didascalia)* | Three chairs. Enter Katherine Dowager, sick, led between Griffith her gentleman usher, and Patience her woman |
 | GRIFFITH | How does your grace? |
 | KATHERINE | O Griffith, sick to [[Death\|death]].<br>My legs, like loaden branches, bow to th’ earth,<br>Willing to leave their burden. Reach a chair.<br>A chair is brought to her. She sits<br>So now, methinks, I feel a little ease.<br>Didst thou not tell me, Griffith, as thou led’st me,<br>That the great [[Child\|child]] of [[Honour\|honour]], [[Cardinal Wolsey]],<br>Was dead? |
 | GRIFFITH | Yes, madam, but I think your grace, Out of the [[Pain\|pain]] you suffered, gave no ear to’t. |
@@ -1944,7 +2036,7 @@ Exeunt ⌈Norfolk at one door, [[Buckingham]] and Abergavenny under guard at ano
 
 
 
-<span class="atom-split" data-atom="act_5--scene_1" data-title="All Is True (Henry VIII) — Act V, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="archetype/king,motif/clock,motif/dance,motif/death,motif/desire,motif/fire,motif/jewel,motif/love,motif/nature,motif/night,motif/sleep,motif/soul,motif/tears,motif/time,motif/well,motif/window,concept/ambition,concept/body,concept/conscience,concept/doubt,concept/faith,concept/fear,concept/freedom,concept/honour,concept/hope,concept/imprisonment,concept/mercy,concept/nature,concept/self,concept/truth,histref/reformation,setting/germany,character/cranmer,character/duke_of_suffolk,character/earl_of_surrey,character/henry_viii,character/queen"></span>
+<span class="atom-split" data-atom="act_5--scene_1" data-title="All Is True (Henry VIII) — Act V, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="archetype/king,motif/clock,motif/death,motif/desire,motif/jewel,motif/love,motif/nature,motif/night,motif/sleep,motif/soul,motif/tears,motif/time,motif/well,concept/conscience,concept/fear,concept/freedom,concept/honour,concept/nature,concept/truth,histref/reformation,character/cranmer,character/duke_of_suffolk,character/henry_viii,character/queen"></span>
 
 
 | Speaker | Line |
@@ -2024,7 +2116,16 @@ Exeunt ⌈Norfolk at one door, [[Buckingham]] and Abergavenny under guard at ano
 | *(didascalia)* | Exit |
 | OLD LADY | An hundred marks? By this light, I’ll ha’ more.<br>An ordinary groom is for such payment.<br>I will have more, or scold it out of him.<br>Said I for this the girl was like to him? I’ll<br>Have more, or else unsay’t; and now, while ’tis hot,<br>I’ll put it to the issue. |
 | *(didascalia)* | Exeunt |
-| *(didascalia)* | 5.2 Enter pursuivants, pages, footboys, and grooms. Then enter [[Cranmer]], Archbishop of Canterbury |
+
+
+
+
+<span class="atom-split" data-atom="act_5--scene_2" data-title="All Is True (Henry VIII) — Act V, Scene 2" data-chapter="Scene 2" data-kind="scene" data-tags="archetype/king,motif/dance,motif/fire,motif/love,motif/nature,motif/tears,motif/time,motif/well,motif/window,concept/ambition,concept/body,concept/conscience,concept/doubt,concept/faith,concept/fear,concept/honour,concept/hope,concept/imprisonment,concept/mercy,concept/nature,concept/self,concept/truth,histref/reformation,setting/germany,character/cranmer,character/duke_of_suffolk,character/earl_of_surrey,character/henry_viii"></span>
+
+
+| Speaker | Line |
+|---|---|
+| *(didascalia)* | Enter pursuivants, pages, footboys, and grooms. Then enter [[Cranmer]], Archbishop of Canterbury |
 | [[Cranmer\|CRANMER]] | I [[Hope\|hope]] I am not too late, and yet the gentleman<br>That was sent to me from the council prayed me<br>To make great haste. All fast? What means this?<br>(Calling at the door) Ho!<br>Who waits there? |
 | *(didascalia)* | Enter |
 | [[Cranmer\|CRANMER]] | a Doorkeeper<br>Sure you know me? |
@@ -2146,7 +2247,7 @@ Exeunt ⌈Norfolk at one door, [[Buckingham]] and Abergavenny under guard at ano
 
 
 
-<span class="atom-split" data-atom="act_5--scene_4" data-title="All Is True (Henry VIII) — Act V, Scene 4" data-chapter="Scene 4" data-kind="scene" data-tags="archetype/child,archetype/king,motif/blood,motif/city,motif/crown,motif/dance,motif/desire,motif/horse,motif/love,motif/marriage,motif/night,motif/prison,motif/sleep,motif/soul,motif/time,concept/fear,concept/friendship,concept/greatness,concept/honour,concept/truth,concept/wonder,form/masque,form/tragicomedy,setting/london,character/arcite,character/cranmer,character/duke_of_suffolk,character/emilia,character/henry_viii,character/hippolyta,character/lord_mayor,character/madeline,character/marchioness,character/nurse,character/palamon,character/queen,character/theseus"></span>
+<span class="atom-split" data-atom="act_5--scene_4" data-title="All Is True (Henry VIII) — Act V, Scene 4" data-chapter="Scene 4" data-kind="scene" data-tags="archetype/child,archetype/king,motif/blood,motif/city,motif/crown,motif/desire,motif/love,motif/sleep,motif/soul,motif/time,concept/fear,concept/greatness,concept/honour,concept/truth,concept/wonder,setting/london,character/cranmer,character/duke_of_suffolk,character/henry_viii,character/lord_mayor,character/marchioness,character/nurse,character/queen"></span>
 
 
 | Speaker | Line |
@@ -2169,9 +2270,3 @@ Exeunt ⌈Norfolk at one door, [[Buckingham]] and Abergavenny under guard at ano
 | *(didascalia)* | Enter Epilogue |
 | EPILOGUE | ‘Tis ten to one this play can never please<br>All that are here. Some come to take their ease,<br>And [[Sleep\|sleep]] an act or two; but those, we [[Fear\|fear]],<br>We’ve frighted with our trumpets; so, ’tis clear,<br>They’ll say ’tis naught. Others to hear the [[City\|city]]<br>Abused extremely, and to cry ‘That’s witty!’—<br>Which we have not done neither; that, I [[Fear\|fear]],<br>All the expected good we’re like to hear<br>For this play at this [[Time\|time]] is only in<br>The merciful construction of good women,<br>For such a one we showed ’em. If they smile,<br>And say “Twill do’, I know within a while<br>All the best men are ours—for ’tis ill hap<br>If they hold when their ladies bid ’em clap. |
 | *(didascalia)* | Exit |
-| BY JOHN FLETCHER AND | WILLIAM SHAKESPEARE |
-| WHEN | it first appeared in print, in 1634, The Two Noble Kinsmen was stated to be ‘by the memorable worthies of their [[Time\|time]], Mr John Fletcher, and Mr William Shakespeare’. There is no reason to disbelieve this ascription: many plays of the period were not printed till long after they were acted, and there is other evidence that Shakespeare collaborated with Fletcher (1579―1625). The morris [[Dance\|dance]] in Act 3, Scene 5, contains characters who also appear in Francis Beaumont’s [[Masque]] of the Inner Temple and Gray’s Inn performed before James I on 20 February 1613. Their [[Dance\|dance]] was a great [[success]] with the [[King]]; probably the [[King]]’s Men—some of whom may have taken part in the [[Masque\|masque]]—decided to exploit its [[success]] by incorporating it in a play written soon afterwards, in the last year of Shakespeare’s playwriting life.<br>The Two Noble Kinsmen, a [[Tragicomedy\|tragicomedy]] of the kind that became popular during the last years of the first decade of the seventeenth century, is based on Chaucer’s Knight’s Tale, on which Shakespeare had already drawn for episodes of A Midsummer [[Night]]’s Dream. It tells a romantic tale of the conflicting claims of [[Love\|love]] and [[Friendship\|friendship]]: the ‘two noble kinsmen’, [[Palamon]] and [[Arcite]], are the closest of friends until each falls in [[Love\|love]] with [[Emilia]], sister-in-law of [[Theseus]], Duke of Athens. Their conflict is finally resolved by a formal combat with [[Emilia]] as the prize, in which the loser is to be executed. [[Arcite]] wins, and [[Palamon]]’s head is on the block as news arrives that [[Arcite]] has been thrown from his [[Horse\|horse]]. Dying, [[Arcite]] commends [[Emilia]] to his friend, and [[Theseus]] rounds off the play with a meditation on the paradoxes of fortune.<br>Studies of style suggest that Shakespeare was primarily responsible for the rhetorically and ritualistically impressive Act 1, for Act 2, Scene 1. Act 3, Scenes 1 and 2; and for most of Act 5 (Scene 4 excepted), which includes emblematically spectacular episodes related to his other late plays. Fletcher appears mainly to have written the scenes showing the rivalry of [[Palamon]] and [[Arcite]] along with the sub-plots concerned with the Jailer’s daughter’s [[Love\|love]] for [[Palamon]] and the rustics’ entertainment for [[Theseus]].<br>Though the play was adapted by William Davenant as The Rivals (1664), its first known performances since the seventeenth century were at the Old Vic in 1928; it has been played only occasionally since then, but was chosen to open the Swan Theatre in Stratford-upon-Avon in 1986. Critical interest, too, has been slight; but Shakespeare’s contributions are entirely characteristic of his late style, and Fletcher’s scenes are both touching and funny. |
-| THE PERSONS OF THE | PLAY |
-| PROLOGUE | [[Theseus\|THESEUS]], Duke of Athens<br>[[Hippolyta\|HIPPOLYTA]], [[Queen]] of the Amazons, later wife of [[Theseus]]<br>[[Emilia\|EMILIA]], her sister<br>PIRITHOUS, friend of [[Theseus]]<br>Hymen, god of [[Marriage\|marriage]]<br>A BOY, who sings<br>ARTESIUS, an Athenian soldier<br>Three QUEENS, widows of kings killed in the siege of Thebes<br>VALERIUS, a Theban<br>A HERALD<br>WOMAN, attending [[Emilia]]<br>An Athenian GENTLEMAN |
-| MESSENGERS | Six KNIGHTS, three attending [[Arcite]] and three [[Palamon]]<br>A SERVANT<br>A JAILER in charge of [[Theseus]]’ [[Prison\|prison]]<br>The JAILER’S DAUGHTER<br>The JAILER’S BROTHER<br>The WOOER of the Jailer’s daughter<br>Two FRIENDS of the Jailer<br>A DOCTOR<br>Six COUNTRYMEN, one dressed as a babion, or baboon<br>Gerald, a SCHOOLMASTER<br>NELL, a country wench<br>Four other country wenches: Friz, [[Madeline]], Luce, and Barbara Timothy, a TABORER |
-| EPILOGUE | Nymphs, attendants, maids, executioner, guard |
