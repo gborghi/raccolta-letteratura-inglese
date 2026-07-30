@@ -35,3 +35,24 @@ test("pre-existing: Scene_1 still classifies as scene with numeric order", () =>
   assert.equal(r.unitType, "scene")
   assert.equal(r.order, 1)
 })
+
+test("Scene_8a sorts between Scene_8 and Scene_9", () => {
+  const r = classifyUnit(["Plays", "Pericles"], "Scene_8a")
+  assert.equal(r.unitType, "scene")
+  assert.equal(r.order, 8.01)
+  assert.ok(classifyUnit(["Plays", "Pericles"], "Scene_8").order < r.order)
+  assert.ok(r.order < classifyUnit(["Plays", "Pericles"], "Scene_9").order)
+})
+
+test("Scene_4a and Scene_4b keep their letter order", () => {
+  const a = classifyUnit(["Plays", "Sir_Thomas_More"], "Scene_4a")
+  const b = classifyUnit(["Plays", "Sir_Thomas_More"], "Scene_4b")
+  assert.ok(a.order < b.order)
+  assert.ok(b.order < classifyUnit(["Plays", "Sir_Thomas_More"], "Scene_5").order)
+})
+
+test("a scene whose name merely continues in letters is not read as a half-scene", () => {
+  // Scene_1_Prologue must not turn into order 1.16 via a stray 'p'
+  const r = classifyUnit(["Plays", "SomePlay"], "Scene_1_Prologue")
+  assert.equal(r.order, 1)
+})
