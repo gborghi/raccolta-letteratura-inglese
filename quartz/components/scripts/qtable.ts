@@ -136,9 +136,17 @@ export const CEFR_BANDS: [number, string][] = [
   [-Infinity, "C2"],
 ]
 
+// Flesch ease is defined on roughly 0-100. Seven works in this corpus score BELOW zero -- down to
+// -261 for a Whitman poem -- which is not difficulty but the formula collapsing: with no sentence
+// punctuation the whole poem counts as one sentence, and words-per-sentence dominates the result.
+// Banding those as C2 would read as "hardest texts here" when the truth is "not measurable this
+// way". Outside the valid range there is no band. Real prose values here span 10.3 to 93.6.
+const FLESCH_MIN = 0
+const FLESCH_MAX = 100
+
 export function cefr(flesch: unknown): string {
   const f = Number(flesch)
-  if (!Number.isFinite(f)) return ""
+  if (!Number.isFinite(f) || f < FLESCH_MIN || f > FLESCH_MAX) return ""
   return CEFR_BANDS.find(([min]) => f >= min)![1]
 }
 
