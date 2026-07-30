@@ -1072,9 +1072,13 @@ ul.tags {
 .sd-modal { display: none; position: fixed; inset: 0; z-index: 60; padding: 8vh 1rem 1rem;
   background: color-mix(in srgb, var(--dark) 32%, transparent); backdrop-filter: blur(2px); }
 .sd-modal.active { display: block; }
-.sd-inner { max-width: 640px; margin: 0 auto; background: var(--light); border: 1px solid var(--lightgray);
+.sd-inner { box-sizing: border-box; max-width: 640px; margin: 0 auto; background: var(--light); border: 1px solid var(--lightgray);
   border-radius: 12px; box-shadow: 0 18px 60px rgba(0, 0, 0, .28); padding: 1rem; }
-.sd-input { width: 100%; font: inherit; font-size: 1.05rem; padding: .6rem .7rem; color: var(--dark);
+// border-box, or the input runs past the panel: `width: 100%` resolves to the panel's
+// CONTENT width and then its own .7rem side padding and 1px border are added outside that,
+// so the field ends ~7px beyond the rounded edge on the right. The page's box-sizing is
+// content-box, so this cannot be left to inherit.
+.sd-input { box-sizing: border-box; width: 100%; font: inherit; font-size: 1.05rem; padding: .6rem .7rem; color: var(--dark);
   background: var(--light); border: 1px solid var(--lightgray); border-radius: 8px; }
 .sd-input:focus { outline: none; border-color: var(--secondary); }
 .sd-slider-wrap { display: flex; align-items: center; gap: .6rem; margin: .7rem .1rem .3rem; }
