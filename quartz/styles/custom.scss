@@ -782,7 +782,9 @@ details.cerca-facet > summary {
 }
 .rw-spoke {
   position: absolute;
-  width: 27%;
+  // set per wheel by radialWheel.inline.ts from the spoke count (see tileSize); the 27%
+  // here is only the fallback for a wheel rendered before the script runs.
+  width: var(--rw-tile, 27%);
   left: 50%;
   top: 50%;
   transform: translate(-50%, -50%);
@@ -855,8 +857,12 @@ details.cerca-facet > summary {
 .rw-label-anchor .rw-label {
   white-space: normal;
 }
+// The emblems shrink as the ring fills up (radialWheel's tileSize), which opens a clear
+// band inside them for the labels — but the band is only ~13% of the stage wide at 15
+// spokes, so a 20%-wide label still reached under the plates on the diagonals. Narrower
+// box, tighter type: the label has to fit the band, not merely sit at its centre.
 .rw-stage[data-crowded] .rw-label-anchor {
-  max-width: 20%;
+  max-width: 15%;
 }
 .rw-stage[data-crowded] .rw-label {
   font-size: 0.68rem;

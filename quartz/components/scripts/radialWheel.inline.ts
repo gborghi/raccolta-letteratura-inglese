@@ -134,17 +134,38 @@ function healSeam(stage: HTMLElement, tiles: HTMLElement[], before: Node, n: num
   stage.insertBefore(dup, before) // above tiles, beneath centre medallion + labels
 }
 
+// Emblem diameter as a % of the stage, derived from how many spokes have to share the
+// ring rather than fixed at 27%. The arc available to one spoke is the ring's
+// circumference (2π·tileR, already in % units) divided by n; at 15 spokes that is ~15.5%
+// against a 27% tile, i.e. each emblem covered most of its neighbour and the labels had
+// nowhere to sit. OVERLAP keeps a deliberate slight shingle — the wheel is meant to read
+// as overlapping plates — while CAP stops sparse wheels (8 axes) from ballooning.
+const OVERLAP = 1.12
+const TILE_CAP = 27
+const TILE_MIN = 11
+
+function tileSize(n: number, tileR: number): number {
+  const arc = (2 * Math.PI * tileR) / n
+  return Math.max(TILE_MIN, Math.min(TILE_CAP, arc * OVERLAP))
+}
+
 function layoutCircle(tiles: HTMLElement[], labels: HTMLElement[]) {
   const n = tiles.length
   const tileR = 37 // emblem ring radius (% of stage)
   // For crowded wheels (≥10 spokes) alternate between two inner radii so adjacent
   // labels sit at different distances and don't overlap each other.
   const crowded = n >= 10
-  const labelR_inner = crowded ? 20 : 22 // closer ring (even spokes)
-  // Wide inner/outer spread on crowded wheels so adjacent labels sit at very different
-  // radii — long multi-word cluster names ("Unrequited Frustrated Love") otherwise
-  // collide with their neighbours. 33 is still inside the emblem ring (tileR 37).
-  const labelR_outer = crowded ? 33 : 22 // farther ring (odd spokes, still inner side)
+  // Labels sit in the clear band between the centre medallion and the inner edge of the
+  // emblems. That edge moves with the tile size now, so the radii are derived from it
+  // rather than hard-coded — with smaller plates the old outer ring (33) would have sat
+  // underneath them.
+  const labelBase = tileR - tileSize(n, tileR) / 2 - 4
+  // Crowded wheels alternate between two radii so adjacent labels sit at different
+  // distances: long multi-word cluster names ("Unrequited Frustrated Love") collide with
+  // their neighbours otherwise.
+  // 16 is the floor: the centre medallion is 30% wide, so its edge sits at 15%.
+  const labelR_inner = crowded ? Math.max(16, labelBase - 7) : labelBase // closer ring
+  const labelR_outer = labelBase // farther ring (odd spokes, still inside the emblems)
   // A circular shingle can only ever be monotone up to ONE seam — z-index is a
   // total order, so somewhere around the ring the "each tile above its counter-
   // clockwise neighbour" rule must reverse. Only immediate neighbours overlap
@@ -156,11 +177,13 @@ function layoutCircle(tiles: HTMLElement[], labels: HTMLElement[]) {
   // every visible upper-arc overlap (e.g. Whitman<Wilde<Austen<Belloc) is
   // consistent.
   const seam = Math.round(n / 2)
+  const tileW = tileSize(n, tileR)
   for (let i = 0; i < n; i++) {
     const angle = (i / n) * 2 * Math.PI - Math.PI / 2 // start at 12 o'clock
     const cos = Math.cos(angle)
     const sin = Math.sin(angle)
     const t = tiles[i]
+    t.style.setProperty("--rw-tile", tileW + "%")
     t.style.left = 50 + tileR * cos + "%"
     t.style.top = 50 + tileR * sin + "%"
     // Write the base stacking order as a CSS variable (NOT an inline z-index):
