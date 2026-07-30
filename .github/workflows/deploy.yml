@@ -31,6 +31,18 @@ jobs:
         # quartz.lock.json — clones each, runs npm install + build, regenerates
         # .quartz/plugins/index.ts. `npx quartz build` does NOT run this itself.
         run: npx quartz plugin restore
+      - name: Point baseUrl at GitHub Pages
+        # The two hosts need DIFFERENT baseUrl values and there is only one config
+        # file. Cloudflare is primary and root-mounted, so quartz.config.yaml holds
+        # its domain; GitHub Pages serves from a subpath, and building with the CF
+        # value bakes an empty basePath into every page — the SPA router, Explorer,
+        # graph and search then emit links without the /raccolta-letteratura-inglese
+        # prefix and the whole backup host 404s. Rewriting it here keeps the two
+        # hosts from fighting over one line in git (it used to be flipped by hand,
+        # which is why main and the working branch kept diverging on it).
+        run: |
+          sed -i 's|^  baseUrl: .*|  baseUrl: gborghi.github.io/raccolta-letteratura-inglese|' quartz.config.yaml
+          grep -n '^  baseUrl:' quartz.config.yaml
       - name: Build Quartz
         # ~19k pages (full texts + atomized excerpts): raise Node heap so the
         # parse/emit phases don't OOM on the runner.
