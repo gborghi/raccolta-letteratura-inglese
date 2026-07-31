@@ -11,6 +11,293 @@ tags:
 <div class="atom-reader" data-work="testi/bronte/atomized/villette" data-author="Bronte" data-workhref="works/villette-(bronte)"></div>
 
 
+<span class="atom-split" data-atom="chapter_15--part_02-(desktop-l2ks9qk's-conflicted-copy-2026-07-31)" data-title="Villette — Chapter 15 (part 2)" data-chapter="Chapter 15" data-kind="intro" data-tags="motif/childhood,motif/city,motif/desert,motif/dust,motif/fire,motif/garden,motif/home,motif/pain,motif/silence,motif/storm,motif/summer,motif/swallow,motif/tears,motif/well,concept/body,concept/fear,concept/hope,concept/jealousy,concept/mercy,concept/resignation,setting/court,setting/desert,setting/paris,character/madame_beck,character/nurse"></span>
+
+
+“Shall I take it out of your hands?”
+
+“With all my heart; if you do not [[Fear|fear]] failure.”
+
+“But I should fail. I only know three phrases of English, and a few
+words: par exemple, de sonn, de mone, de stare—est-ce bien dit? My
+opinion is that it would be better to give up the thing altogether: to
+have no English examination, eh?”
+
+“If Madame consents, I consent.”
+
+“Heartily?”
+
+“Very heartily.”
+
+He smoked his cigar in [[Silence|silence]]. He turned suddenly.
+
+“Donnez-moi la main,” said he, and the spite and [[Jealousy|jealousy]] melted out of
+his face, and a generous kindliness shone there instead.
+
+“Come, we will not be rivals, we will be friends,” he pursued. “The
+examination shall take place, and I will choose a good moment; and
+instead of vexing and hindering, as I felt half-inclined ten minutes
+ago—for I have my malevolent moods: I always had from [[Childhood|childhood]]—I will
+aid you sincerely. After all, you are solitary and a stranger, and have
+your way to make and your bread to earn; it may be [[Well|well]] that you should
+become known. We will be friends: do you agree?”
+
+“Out of my heart, Monsieur. I am glad of a friend. I like that better
+than a triumph.”
+
+“Pauvrette!” said he, and turned away and left the alley.
+
+The examination passed over [[Well|well]]; M. Paul was as good as his word, and
+did his best to make my part easy. The next day came the distribution
+of prizes; that also passed; the school broke up; the pupils went [[Home|home]],
+and now began the long vacation.
+
+That vacation! Shall I ever forget it? I think not. [[Madame Beck]] went,
+the first day of the holidays, to join her children at the sea-side;
+all the three teachers had parents or friends with whom they took
+refuge; every professor quitted the [[City|city]]; some went to [[Paris]], some to
+Boue-Marine; M. Paul set forth on a pilgrimage to Rome; the [[house]] was
+left quite empty, but for me, a servant, and a poor deformed and
+imbecile pupil, a sort of crétin, whom her stepmother in a distant
+province would not allow to return [[Home|home]].
+
+My heart almost died within me; miserable longings strained its chords.
+How long were the September days! How silent, how lifeless! How vast
+and void seemed the desolate premises! How gloomy the forsaken
+[[Garden|garden]]—grey now with the [[Dust|dust]] of a town [[Summer|summer]] departed. Looking
+forward at the commencement of those eight weeks, I hardly knew how I
+was to live to the end. My spirits had long been gradually sinking; now
+that the prop of employment was withdrawn, they went down fast. Even to
+look forward was not to [[Hope|hope]]: the dumb future spoke no comfort, offered
+no promise, gave no inducement to bear present evil in reliance on
+future good. A sorrowful indifference to existence often pressed on
+me—a despairing [[Resignation|resignation]] to reach betimes the end of all things
+earthly. Alas! When I had full leisure to look on life as life must be
+looked on by such as me, I found it but a hopeless [[Desert|desert]]: tawny sands,
+with no green fields, no palm-tree, no [[Well|well]] in view. The hopes which
+are dear to youth, which bear it up and lead it on, I knew not and
+dared not know. If they knocked at my heart sometimes, an inhospitable
+bar to admission must be inwardly drawn. When they turned away thus
+rejected, [[Tears|tears]] sad enough sometimes flowed: but it could not be
+helped: I dared not give such guests lodging. So mortally did I [[Fear|fear]]
+the sin and weakness of presumption.
+
+Religious reader, you will preach to me a long sermon about what I have
+just written, and so will you, moralist: and you, stern sage: you,
+stoic, will frown; you, cynic, sneer; you, epicure, laugh. [[Well]], each
+and all, take it your own way. I accept the sermon, frown, sneer, and
+laugh; perhaps you are all right: and perhaps, circumstanced like me,
+you would have been, like me, wrong. The first month was, indeed, a
+long, black, heavy month to me.
+
+The crétin did not seem unhappy. I did my best to feed her [[Well|well]] and
+keep her warm, and she only asked food and sunshine, or when that
+lacked, [[Fire|fire]]. Her weak faculties approved of inertion: her brain, her
+eyes, her ears, her heart slept content; they could not wake to work,
+so lethargy was their Paradise.
+
+Three weeks of that vacation were hot, fair, and dry, but the fourth
+and fifth were tempestuous and wet. I do not know why that change in
+the atmosphere made a cruel impression on me, why the raging [[Storm|storm]] and
+beating rain crushed me with a deadlier paralysis than I had
+experienced while the air had remained serene; but so it was; and my
+nervous system could hardly support what it had for many days and
+nights to undergo in that huge empty [[house]]. How I used to pray to
+Heaven for consolation and support! With what dread force the
+conviction would grasp me that Fate was my permanent foe, never to be
+conciliated. I did not, in my heart, arraign the [[Mercy|mercy]] or justice of
+God for this; I concluded it to be a part of his great plan that some
+must deeply suffer while they live, and I thrilled in the certainty
+that of this number, I was one.
+
+It was some relief when an aunt of the crétin, a kind old woman, came
+one day, and took away my strange, deformed companion. The hapless
+creature had been at times a heavy charge; I could not take her out
+beyond the [[Garden|garden]], and I could not leave her a minute [[Alone|alone]]: for her
+poor mind, like her [[Body|body]], was warped: its propensity was to evil. A
+vague bent to mischief, an aimless malevolence, made constant vigilance
+indispensable. As she very rarely spoke, and would sit for hours
+together moping and mowing, and distorting her features with
+indescribable grimaces, it was more like being prisoned with some
+strange tameless animal, than associating with a human being. Then
+there were personal attentions to be rendered which required the nerve
+of a hospital [[Nurse|nurse]]; my resolution was so tried, it sometimes fell
+dead-sick. These duties should not have fallen on me; a servant, now
+absent, had rendered them hitherto, and in the hurry of holiday
+departure, no substitute to fill this office had been provided. This
+tax and trial were by no means the least I have known in life. Still,
+menial and distasteful as they were, my mental [[Pain|pain]] was far more
+wasting and wearing. Attendance on the crétin deprived me often of the
+power and inclination to [[Swallow|swallow]] a meal, and sent me faint to the fresh
+air, and the [[Well|well]] or fountain in the [[Court|court]]; but this duty never wrung
+my heart, or brimmed my eyes, or scalded my cheek with [[Tears|tears]] hot as
+molten metal.
+
+
+
+
+<span class="atom-split" data-atom="chapter_39--part_05-(desktop-l2ks9qk's-conflicted-copy-2026-07-31)" data-title="Villette — Chapter 37 (part 5)" data-chapter="Chapter 39" data-kind="intro" data-tags="archetype/king,archetype/lover,motif/blood,motif/death,motif/grave,motif/home,motif/journey,motif/love,motif/nature,motif/pain,motif/rose,motif/summer,motif/time,motif/well,concept/charity,concept/doubt,concept/nature,concept/suffering,concept/truth,character/graham_bretton,character/paulina"></span>
+
+
+“Sir, I cannot repent.”
+
+“Repent! Not you! You triumph, no [[Doubt|doubt]]: John Graham, you descended
+partly from a Highlander and a chief, and there is a trace of the Celt
+in all you look, speak, and think. You have his cunning and his charm.
+The red—([[Well]] then, Polly, the _fair_) hair, the tongue of guile, and
+brain of wile, are all come down by inheritance.”
+
+“Sir, I _feel_ honest enough,” said Graham; and a genuine English blush
+covered his face with its warm witness of sincerity. “And yet,” he
+added, “I won’t deny that in some respects you accuse me justly. In
+your presence I have always had a thought which I dared not show you. I
+did truly regard you as the possessor of the most valuable thing the
+world owns for me. I wished for it: I tried for it. Sir, I ask for it
+now.”
+
+“John, you ask much.”
+
+“Very much, sir. It must come from your generosity, as a gift; from
+your justice, as a reward. I can never earn it.”
+
+“Ay! Listen to the Highland tongue!” said Mr. [[Home]]. “Look up, Polly!
+Answer this ‘braw wooer;’ send him away!”
+
+She looked up. She shyly glanced at her eager, handsome suitor. She
+gazed tenderly on her furrowed sire.
+
+“Papa, I [[Love|love]] you both,” said she; “I can take care of you both. I need
+not send Graham away—he can live here; he will be no inconvenience,”
+she alleged with that simplicity of phraseology which at times was wont
+to make both her father and Graham smile. They smiled now.
+
+“He will be a prodigious inconvenience to me,” still persisted Mr.
+[[Home]]. “I don’t want him, Polly, he is too tall; he is in my way. Tell
+him to march.”
+
+“You will get used to him, papa. He seemed exceedingly tall to me at
+first—like a tower when I looked up at him; but, on the whole, I would
+rather not have him otherwise.”
+
+“I object to him altogether, Polly; I can do without a son-in-law. I
+should never have requested the best man in the land to stand to me in
+that relation. Dismiss this gentleman.”
+
+“But he has known you so long, papa, and suits you so [[Well|well]].”
+
+“Suits _me_, forsooth! Yes; he has pretended to make my opinions and
+tastes his own. He has humoured me for good reasons. I think, Polly,
+you and I will bid him good-by.”
+
+“Till to-morrow only. Shake hands with Graham, papa.”
+
+“No: I think not: I am not friends with him. Don’t think to coax me
+between you.”
+
+“Indeed, indeed, you _are_ friends. Graham, stretch out your right
+hand. Papa, put out yours. Now, let them touch. Papa, don’t be stiff;
+close your fingers; be pliant—there! But that is not a clasp—it is a
+grasp? Papa, you grasp like a vice. You crush Graham’s hand to the
+bone; you hurt him!”
+
+He must have hurt him; for he wore a massive ring, set round with
+brilliants, of which the sharp facets cut into Graham’s flesh and drew
+[[Blood|blood]]: but [[Pain|pain]] only made Dr. John laugh, as anxiety had made him
+smile.
+
+“Come with me into my study,” at last said Mr. [[Home]] to the doctor. They
+went. Their intercourse was not long, but I suppose it was conclusive.
+The suitor had to undergo an interrogatory and a scrutiny on many
+things. Whether Dr. Bretton was at times guileful in look and language
+or not, there was a sound foundation below. His answers, I understood
+afterwards, evinced both wisdom and integrity. He had managed his
+affairs [[Well|well]]. He had struggled through entanglements; his fortunes were
+in the way of retrieval; he proved himself in a position to marry.
+
+Once more the father and [[Lover|lover]] appeared in the library. M. de
+Bassompierre shut the door; he pointed to his daughter.
+
+“Take her,” he said. “Take her, John Bretton: and may God deal with you
+as you deal with her!”
+
+Not long after, perhaps a fortnight, I saw three persons, Count de
+Bassompierre, his daughter, and Dr. [[Graham Bretton]], sitting on one
+seat, under a low-spreading and umbrageous tree, in the grounds of the
+palace at Bois l’Etang. They had come thither to enjoy a [[Summer|summer]]
+evening: outside the magnificent gates their carriage waited to take
+them [[Home|home]]; the green sweeps of turf spread round them quiet and dim;
+the palace [[Rose|rose]] at a distance, white as a crag on Pentelicus; the
+[[Evening Star|evening star]] shone above it; a forest of flowering shrubs embalmed the
+climate of this spot; the hour was still and sweet; the scene, but for
+this group, was solitary.
+
+[[Paulina]] sat between the two gentlemen: while they conversed, her little
+hands were busy at some work; I thought at first she was binding a
+nosegay. No; with the tiny pair of scissors, glittering in her lap, she
+had severed spoils from each manly head beside her, and was now
+occupied in plaiting together the grey lock and the golden wave. The
+plait woven—no silk-thread being at hand to bind it—a tress of her own
+hair was made to serve that purpose; she tied it like a knot, prisoned
+it in a locket, and laid it on her heart.
+
+“Now,” said she, “there is an amulet made, which has virtue to keep you
+two always friends. You can never quarrel so long as I wear this.”
+
+An amulet was indeed made, a spell framed which rendered enmity
+impossible. She was become a bond to both, an influence over each, a
+mutual concord. From them she drew her happiness, and what she
+borrowed, she, with interest, gave back.
+
+“Is there, indeed, such happiness on earth?” I asked, as I watched the
+father, the daughter, the future husband, now united—all blessed and
+blessing.
+
+Yes; it is so. Without any colouring of [[Romance|romance]], or any exaggeration of
+fancy, it is so. Some real lives do—for some certain days or
+years—actually anticipate the happiness of Heaven; and, I believe, if
+such perfect happiness is once felt by good people (to the wicked it
+never comes), its sweet effect is never wholly lost. Whatever trials
+follow, whatever pains of sickness or shades of [[Death|death]], the glory
+precedent still shines through, cheering the keen anguish, and tinging
+the deep cloud.
+
+I will go farther. I _do_ believe there are some human beings so born,
+so reared, so guided from a soft cradle to a calm and late [[Grave|grave]], that
+no excessive [[Suffering|suffering]] penetrates their lot, and no tempestuous
+blackness overcasts their [[Journey|journey]]. And often, these are not pampered,
+selfish beings, but [[Nature]]’s elect, harmonious and benign; men and
+women mild with [[Charity|charity]], kind agents of God’s kind attributes.
+
+Let me not delay the happy [[Truth|truth]]. [[Graham Bretton]] and [[Paulina]] de
+Bassompierre were married, and such an agent did Dr. Bretton prove. He
+did not with [[Time|time]] degenerate; his faults decayed, his virtues ripened;
+he [[Rose|rose]] in intellectual refinement, he won in moral profit: all dregs
+filtered away, the clear wine settled bright and tranquil. Bright, too,
+was the destiny of his sweet wife. She kept her husband’s [[Love|love]], she
+aided in his progress—of his happiness she was the corner stone.
+
+This pair was blessed indeed, for years brought them, with great
+prosperity, great goodness: they imparted with open hand, yet wisely.
+Doubtless they knew crosses, disappointments, difficulties; but these
+were [[Well|well]] borne. More than once, too, they had to look on Him whose
+face flesh scarce can see and live: they had to pay their tribute to
+the [[King]] of Terrors. In the fulness of years, M. de Bassompierre was
+taken: in ripe old age departed Louisa Bretton. Once even there [[Rose|rose]] a
+cry in their halls, of Rachel weeping for her children; but others
+sprang healthy and blooming to replace the lost: Dr. Bretton saw
+himself live again in a son who inherited his looks and his
+disposition; he had stately daughters, too, like himself: these
+children he reared with a suave, yet a firm hand; they grew up
+according to inheritance and nurture.
+
+In short, I do but speak the [[Truth|truth]] when I say that these two lives of
+Graham and [[Paulina]] were blessed, like that of Jacob’s favoured son,
+with “blessings of Heaven above, blessings of the deep that lies
+under.” It was so, for God saw that it was good.
+
+
+
+
 <span class="atom-split" data-atom="villette" data-title="Villette" data-chapter="" data-kind="intro"></span>
 
 

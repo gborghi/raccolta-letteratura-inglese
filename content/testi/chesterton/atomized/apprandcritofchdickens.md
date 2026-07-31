@@ -1,5 +1,5 @@
 ---
-title: "ApprAndCritOfChDickens"
+title: "ApprAndCritOfChDickens — Book 2: celebrated characters who are both especially exuberant and (part 27)"
 author: "Chesterton"
 unitType: work
 parentWork: "works/apprandcritofchdickens-(chesterton)"
@@ -12468,6 +12468,356 @@ THE END
 |                                                              |
 
 +--------------------------------------------------------------+
+
+
+
+
+<span class="atom-split" data-atom="chapter_01_page--part_21-(desktop-l2ks9qk's-conflicted-copy-2026-07-31)" data-title="ApprAndCritOfChDickens — Chapter 1: PAGE (part 21)" data-chapter="PAGE" data-kind="intro" data-tags="archetype/child,archetype/fool,motif/road,motif/soul,motif/well,concept/eternity,concept/truth,form/hymn,form/novel,form/sketch,character/little_nell"></span>
+
+
+were tragic because they were better off. The others had known the
+
+sorrowful experiences; but they [[Alone|alone]] had known the splendid expectation
+
+and the original claims. It was just here that Dickens was so true a
+
+[[Child|child]] of them and of that happy theory so bitterly applied. They were
+
+the one oppressed people that simply asked for justice; they were the
+
+one Parish Boy who innocently asked for more.
+
+OLD CURIOSITY SHOP
+
+Nothing is important except the fate of the [[Soul|soul]]; and literature is only
+
+redeemed from an utter triviality, surpassing that of naughts and
+
+crosses, by the fact that it describes not the world around us or the
+
+things on the retina of the eye or the enormous irrelevancy of
+
+encyclopædias, but some condition to which the human spirit can come.
+
+All good writers express the state of their souls, even (as occurs in
+
+some cases of very good writers) if it is a state of damnation. The
+
+first thing that has to be realised about Dickens is this ultimate
+
+spiritual condition of the man, which lay behind all his creations. This
+
+Dickens state of mind is difficult to pick out in words as are all
+
+elementary states of mind; they cannot be described, not because they
+
+are too subtle for words, but because they are too simple for words.
+
+Perhaps the nearest approach to a statement of it would be this: that
+
+Dickens expresses an eager anticipation of everything that will happen
+
+in the motley affairs of men; he looks at the quiet crowd waiting for it
+
+to be picturesque and to play the [[Fool|fool]]; he expects everything; he is
+
+torn with a happy hunger. Thackeray is always looking back to yesterday;
+
+Dickens is always looking forward to to-morrow. Both are profoundly
+
+humorous, for there is a [[Humour|humour]] of the morning and a [[Humour|humour]] of the
+
+evening; but the first guesses at what it will get, at all the
+
+grotesqueness and variety which a day may bring forth; the second looks
+
+back on what the day has been and sees even its solemnities as slightly
+
+ironical. Nothing can be too extravagant for the laughter that looks
+
+forward; and nothing can be too dignified for the laughter that looks
+
+back. It is an idle but obvious thing, which many must have noticed,
+
+that we often find in the title of one of an author's books what might
+
+very [[Well|well]] stand for a general description of all of them. Thus all
+
+Spenser's works might be called _A [[Hymn]] to Heavenly Beauty_; or all Mr.
+
+Bernard [[Shaw]]'s bound books might be called _You Never Can Tell_. In the
+
+same way the whole substance and spirit of Thackeray might be gathered
+
+under the general title _Vanity Fair_. In the same way too the whole
+
+substance and spirit of Dickens might be gathered under the general
+
+title _Great Expectations_.
+
+In a recent criticism on this position I saw it remarked that all this
+
+is reading into Dickens something that he did not mean; and I have been
+
+told that it would have greatly surprised Dickens to be informed that he
+
+"went down the broad [[Road|road]] of the Revolution." Of course it would.
+
+Criticism does not exist to say about authors the things that they knew
+
+themselves. It exists to say the things about them which they did not
+
+know themselves. If a critic says that the _Iliad_ has a pagan rather
+
+than a Christian pity, or that it is full of pictures made by one
+
+epithet, of course he does not mean that Homer could have said that. If
+
+Homer could have said that the critic would leave Homer to say it. The
+
+function of criticism, if it has a legitimate function at all, can only
+
+be one function--that of dealing with the subconscious part of the
+
+author's mind which only the critic can express, and not with the
+
+conscious part of the author's mind, which the author himself can
+
+express. Either criticism is no good at all (a very defensible position)
+
+or else criticism means saying about an author the very things that
+
+would have made him jump out of his boots.
+
+Doubtless the name in this case _Great Expectations_ is an empty
+
+coincidence; and indeed it is not in the books of the later Dickens
+
+period (the period of _Great Expectations_) that we should look for the
+
+best examples of this sanguine and expectant spirit which is the
+
+essential of the man's genius. There are plenty of good examples of it
+
+especially in the earlier works. But even in the earlier works there is
+
+no example of it more striking or more satisfactory than _The Old
+
+Curiosity Shop_. It is particularly noticeable in the fact that its
+
+opening and original framework express the idea of a random experience,
+
+a thing come across in the street; a single face in the crowd, followed
+
+until it tells its story. Though the thing ends in a [[Novel|novel]] it begins in
+
+a [[Sketch|sketch]]; it begins as one of the _Sketches by Boz_. There is something
+
+unconsciously artistic in the very clumsiness of this opening. Master
+
+Humphrey starts to keep a scrap-book of all his adventures, and he finds
+
+that he can fill the whole scrap-book with the sequels and developments
+
+of one adventure; he goes out to notice everybody and he finds himself
+
+busily and variedly occupied only in watching somebody. In this there is
+
+a very profound [[Truth|truth]] about the true excitement and inexhaustible poetry
+
+of life. The [[Truth|truth]] is not so much that [[Eternity|eternity]] is full of souls as that
+
+one [[Soul|soul]] can fill [[Eternity|eternity]]. In strict art there is something quite lame
+
+and lumbering about the way in which the benevolent old story-teller
+
+starts to tell many stories and then drops away altogether, while one of
+
+his stories takes his place. But in a larger art, his collision with
+
+[[Little Nell]] and his complete eclipse by her personality and narrative
+
+have a real significance. They suggest the random richness of such
+
+meetings, and their uncalculated results. It makes the whole book a sort
+
+of splendid accident.
+
+It is not true, as is commonly said, that the Dickens pathos as pathos
+
+is bad. It is not true, as is still more commonly said, that the whole
+
+
+
+
+<span class="atom-split" data-atom="chapter_02_celebrated_characters_who_are--part_27-(desktop-l2ks9qk's-conflicted-copy-2026-07-31)" data-title="ApprAndCritOfChDickens — Book 2: celebrated characters who are both especially exuberant and (part 27)" data-chapter="celebrated characters who are" data-kind="intro" data-tags="archetype/hero,archetype/villain,motif/crown,motif/nature,motif/night,motif/time,concept/beauty,concept/doubt,concept/history,concept/honour,concept/nature,concept/pride,form/history,form/novel,form/tragedy,histref/christianity,histref/french_revolution,setting/london,setting/paris,character/kit_nubbles,character/nicholas_nickleby,character/sydney_carton,character/walter_gay"></span>
+
+
+that everything is happening at [[Night|night]]. In Dickens even massacre happens
+
+by daylight. Carlyle always assumes that because things were tragedies
+
+therefore the men who did them felt tragic. Dickens knows that the man
+
+who works the worst tragedies is the man who feels comic; as for
+
+example, Mr. Quilp. The [[French Revolution]] was a much simpler world than
+
+Carlyle could understand; for Carlyle was subtle and not simple. Dickens
+
+could understand it, for he was simple and not subtle. He understood
+
+that plain rage against plain political injustice; he understood again
+
+that obvious vindictiveness and that obvious brutality which followed.
+
+"Cruelty and the abuse of absolute power," he told an American
+
+slave-owner, "are two of the bad passions of human [[Nature|nature]]." Carlyle was
+
+quite incapable of rising to the height of that uplifted common-sense.
+
+He must always find something mystical about the cruelty of the French
+
+Revolution. The effect was equally bad whether he found it mystically
+
+bad and called the thing anarchy, or whether he found it mystically good
+
+and called it the rule of the strong. In both cases he could not
+
+understand the common-sense justice or the common-sense vengeance of
+
+Dickens and the [[French Revolution]].
+
+Yet Dickens has in this book given a perfect and final touch to this
+
+whole conception of mere rebellion and mere human [[Nature|nature]]. Carlyle had
+
+written the story of the [[French Revolution]] and had made the story a mere
+
+[[Tragedy|tragedy]]. Dickens writes the story about the [[French Revolution]], and does
+
+not make the Revolution itself the [[Tragedy|tragedy]] at all. Dickens knows that an
+
+outbreak is seldom a [[Tragedy|tragedy]]; generally it is the avoidance of a
+
+[[Tragedy|tragedy]]. All the real tragedies are silent. Men fight each other with
+
+furious cries, because men fight each other with chivalry and an
+
+unchangeable sense of brotherhood. But trees fight each other in utter
+
+stillness; because they fight each other cruelly and without quarter. In
+
+this book, as in [[history]], the guillotine is not the calamity, but rather
+
+the solution of the calamity. The sin of [[Sydney Carton]] is a sin of
+
+habit, not of revolution. His gloom is the gloom of [[London]], not the
+
+gloom of [[Paris]].
+
+[Illustration: Charles Dickens, Circa 1860
+
+Photograph by J. & C. Watkins.]
+
+[[Great Expectations|GREAT EXPECTATIONS]]
+
+_Great Expectations_, which was written in the afternoon of Dickens's
+
+life and fame, has a quality of serene irony and even sadness, which
+
+puts it quite [[Alone|alone]] among his other works. At no [[Time|time]] could Dickens
+
+possibly be called cynical, he had too much vitality; but relatively to
+
+the other books this book is cynical; but it has the soft and gentle
+
+cynicism of old age, not the hard cynicism of youth. To be a young cynic
+
+is to be a young brute; but Dickens, who had been so perfectly romantic
+
+and sentimental in his youth, could afford to admit this touch of [[Doubt|doubt]]
+
+into the mixed experience of his middle age. At no [[Time|time]] could any books
+
+by Dickens have been called Thackerayan. Both of the two men were too
+
+great for that. But relatively to the other Dickensian productions this
+
+book may be called Thackerayan. It is a study in human weakness and the
+
+slow human surrender. It describes how easily a free lad of fresh and
+
+decent instincts can be made to care more for rank and [[Pride|pride]] and the
+
+degrees of our stratified society than for old affection and for [[Honour|honour]].
+
+It is an extra chapter to _The Book of Snobs_.
+
+The best way of stating the change which this book marks in Dickens can
+
+be put in one phrase. In this book for the first [[Time|time]] the [[Hero|hero]]
+
+disappears. The [[Hero|hero]] had descended to Dickens by a long line which
+
+begins with the gods, nay, perhaps if one may say so, which begins with
+
+God. First comes Deity and then the image of Deity; first comes the god
+
+and then the demi-god, the Hercules who labours and conquers before he
+
+receives his heavenly [[Crown|crown]]. That idea, with continual mystery and
+
+modification, has continued behind all romantic tales; the demi-god
+
+became the [[Hero|hero]] of paganism; the [[Hero|hero]] of paganism became the
+
+knight-errant of [[Christianity]]; the knight-errant who wandered and was
+
+foiled before he triumphed became the [[Hero|hero]] of the later prose [[Romance|romance]],
+
+the [[Romance|romance]] in which the [[Hero|hero]] had to fight a duel with the [[Villain|villain]] but
+
+always survived, in which the [[Hero|hero]] drove desperate horses through the
+
+[[Night|night]] in order to rescue the heroine, but always rescued her.
+
+This heroic modern [[Hero|hero]], this demi-god in a top-hat, may be said to
+
+reach his supreme moment and typical example about the [[Time|time]] when Dickens
+
+was writing that thundering and thrilling and highly unlikely scene in
+
+_Nicholas Nickleby_, the scene where Nicholas hopelessly denounces the
+
+atrocious Gride in his hour of grinning triumph, and a thud upon the
+
+floor above tells them that the heroine's tyrannical father has died
+
+just in [[Time|time]] to set her free. That is the apotheosis of the pure heroic
+
+as Dickens found it, and as Dickens in some sense continued it. It may
+
+be that it does not appear with quite so much unmistakable youth,
+
+[[Beauty|beauty]], valour, and virtue as it does in [[Nicholas Nickleby]]. [[Walter Gay]]
+
+is a simpler and more careless [[Hero|hero]], but when he is doing any of the
+
+business of the story he is purely heroic. [[Kit Nubbles]] is a humbler
+
+[[Hero|hero]], but he is a [[Hero|hero]]; when he is good he is very good. Even David
+
+Copperfield, who confesses to boyish tremors and boyish evasions in his
+
+account of his boyhood, acts the strict stiff part of the chivalrous
+
+gentleman in all the active and determining scenes of the tale. But
+
+_Great Expectations_ may be called, like _Vanity Fair_, a [[Novel|novel]] without
+
+a [[Hero|hero]]. Almost all Thackeray's novels except Esmond are novels without a
 
 
 

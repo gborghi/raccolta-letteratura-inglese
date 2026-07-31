@@ -9672,7 +9672,7 @@ men than I may see tracks in what is to me the trackless sand.
 
 
 
-<span class="atom-split" data-atom="chapter_01_prefaratory_note" data-title="everlasting man — Chapter 1: PREFARATORY NOTE" data-chapter="PREFARATORY NOTE" data-kind="chapter" data-tags="concept/courage,concept/history,concept/hope,concept/imagination,form/history,character/christ"></span>
+<span class="atom-split" data-atom="chapter_01_prefaratory_note" data-title="everlasting man — Chapter 1: PREFARATORY NOTE" data-chapter="PREFARATORY NOTE" data-kind="chapter"></span>
 
 
 PREFARATORY NOTE
@@ -9733,7 +9733,7 @@ a fare quel che può con i fatti che gli specialisti gli forniscono.
 
 
 
-<span class="atom-split" data-atom="chapter_02_introduction--part_01" data-title="everlasting man — Chapter 2: INTRODUCTION (part 1)" data-chapter="INTRODUCTION" data-kind="excerpt" data-tags="archetype/shadow,motif/cross,motif/garden,motif/grave,motif/hill,motif/home,motif/journey,motif/love,motif/prayer,motif/well,motif/wheel,concept/faith,concept/truth,histref/catholic_church,histref/christianity,setting/castle"></span>
+<span class="atom-split" data-atom="chapter_02_introduction--part_01" data-title="everlasting man — Chapter 2: INTRODUCTION (part 1)" data-chapter="INTRODUCTION" data-kind="excerpt"></span>
 
 
 INTRODUCTION
@@ -9977,7 +9977,7 @@ cristiani tanta giustizia quanta ne renderebbero a dei saggi pagani.
 
 
 
-<span class="atom-split" data-atom="chapter_02_introduction--part_02" data-title="everlasting man — Chapter 2: INTRODUCTION (part 2)" data-chapter="INTRODUCTION" data-kind="excerpt" data-tags="archetype/child,archetype/hero,motif/animals,motif/horse,motif/nature,motif/time,motif/well,concept/faith,concept/history,concept/hope,concept/imagination,concept/nature,concept/wonder,form/fable,form/history,form/sketch,character/christ"></span>
+<span class="atom-split" data-atom="chapter_02_introduction--part_02" data-title="everlasting man — Chapter 2: INTRODUCTION (part 2)" data-chapter="INTRODUCTION" data-kind="excerpt"></span>
 
 
 But with this we come to the final and vital point I shall try
@@ -10231,7 +10231,7 @@ al punto che potremmo quasi dire che il più bel complimento a un uomo
 
 
 
-<span class="atom-split" data-atom="chapter_02_introduction--part_03" data-title="everlasting man — Chapter 2: INTRODUCTION (part 3)" data-chapter="INTRODUCTION" data-kind="excerpt" data-tags="archetype/hero,archetype/monster,motif/cross,motif/dawn,motif/desire,motif/dust,motif/horse,motif/lion,motif/nature,motif/road,motif/supernatural,motif/time,motif/well,concept/beauty,concept/faith,concept/fear,concept/grotesque,concept/history,concept/imagination,concept/nature,concept/providence,concept/truth,concept/wonder,form/fable,form/history,histref/christianity,character/christ,character/dwarf,character/speed"></span>
+<span class="atom-split" data-atom="chapter_02_introduction--part_03" data-title="everlasting man — Chapter 2: INTRODUCTION (part 3)" data-chapter="INTRODUCTION" data-kind="excerpt"></span>
 
 
 But if a man has got into a mood in which he is not able to feel this
@@ -10571,7 +10571,7 @@ e ancora nuova quanto è antica.
 
 
 
-<span class="atom-split" data-atom="chapter_03_the_man_in_the_cave--part_01" data-title="everlasting man — Chapter 3: The Man In The Cave (part 1)" data-chapter="The Man In The Cave" data-kind="excerpt" data-tags="motif/animals,motif/cave,motif/nature,motif/time,motif/uncanny,motif/well,concept/history,concept/nature,concept/uncanny,form/history,form/parable,character/dwarf,character/pistol,character/witch"></span>
+<span class="atom-split" data-atom="chapter_03_the_man_in_the_cave--part_01" data-title="everlasting man — Chapter 3: The Man In The Cave (part 1)" data-chapter="The Man In The Cave" data-kind="excerpt"></span>
 
 
 I
@@ -10690,7 +10690,7 @@ Ma questa nozione di qualcosa di dolce e lento, come il salire di un pendio, è 
 
 
 
-<span class="atom-split" data-atom="chapter_03_the_man_in_the_cave--part_02" data-title="everlasting man — Chapter 3: The Man In The Cave (part 2)" data-chapter="The Man In The Cave" data-kind="excerpt" data-tags="archetype/child,archetype/hero,archetype/prophet,motif/birds,motif/cave,motif/childhood,motif/machine,motif/river,motif/supernatural,motif/time,concept/history,concept/sublime,concept/truth,form/history"></span>
+<span class="atom-split" data-atom="chapter_03_the_man_in_the_cave--part_02" data-title="everlasting man — Chapter 3: The Man In The Cave (part 2)" data-chapter="The Man In The Cave" data-kind="excerpt"></span>
 
 
 Mr. H. G. Wells has confessed to being a [[Prophet|prophet]]; and in this matter
@@ -10914,7 +10914,7 @@ potrebbe apprendere.
 
 
 
-<span class="atom-split" data-atom="chapter_03_the_man_in_the_cave--part_03" data-title="everlasting man — Chapter 3: The Man In The Cave (part 3)" data-chapter="The Man In The Cave" data-kind="excerpt" data-tags="archetype/artist,archetype/innocent,motif/animals,motif/cave,motif/dawn,motif/horse,motif/journey,motif/love,motif/night,motif/water,motif/well,concept/hope,concept/resurrection,concept/truth,form/epic,form/novel,setting/mountains"></span>
+<span class="atom-split" data-atom="chapter_03_the_man_in_the_cave--part_03" data-title="everlasting man — Chapter 3: The Man In The Cave (part 3)" data-chapter="The Man In The Cave" data-kind="excerpt"></span>
 
 
 In fact, people have been interested in everything about the [[Cave|cave]]-man
@@ -11037,7 +11037,7 @@ Ora è superfluo osservare, se non di sfuggita, che non v'è nulla nell'atmosfer
 
 
 
-<span class="atom-split" data-atom="chapter_03_the_man_in_the_cave--part_04" data-title="everlasting man — Chapter 3: The Man In The Cave (part 4)" data-chapter="The Man In The Cave" data-kind="excerpt" data-tags="archetype/artist,archetype/child,motif/animals,motif/birds,motif/cave,motif/chalk,motif/horse,motif/love,motif/moon,motif/nature,motif/stars,motif/well,concept/fear,concept/nature,concept/truth"></span>
+<span class="atom-split" data-atom="chapter_03_the_man_in_the_cave--part_04" data-title="everlasting man — Chapter 3: The Man In The Cave (part 4)" data-chapter="The Man In The Cave" data-kind="excerpt"></span>
 
 
 But this is not the point about the pictures or the particular moral
@@ -11164,7 +11164,7 @@ Ma supponiamo che il ragazzo non fosse stato istruito da un sacerdote ma da un p
 
 
 
-<span class="atom-split" data-atom="chapter_03_the_man_in_the_cave--part_05" data-title="everlasting man — Chapter 3: The Man In The Cave (part 5)" data-chapter="The Man In The Cave" data-kind="excerpt" data-tags="archetype/shadow,motif/animals,motif/cave,motif/horse,motif/mirror,motif/nature,motif/night,motif/road,motif/sleep,motif/supernatural,motif/time,motif/well,concept/history,concept/madness,concept/nature,concept/truth,form/history"></span>
+<span class="atom-split" data-atom="chapter_03_the_man_in_the_cave--part_05" data-title="everlasting man — Chapter 3: The Man In The Cave (part 5)" data-chapter="The Man In The Cave" data-kind="excerpt"></span>
 
 
 That is the sort of simple [[Truth|truth]] with which a story of the beginnings
@@ -11274,7 +11274,7 @@ Sarà [[Well|bene]], tuttavia, riassumere in questo punto una volta per tutte ch
 
 
 
-<span class="atom-split" data-atom="chapter_03_the_man_in_the_cave--part_06" data-title="everlasting man — Chapter 3: The Man In The Cave (part 6)" data-chapter="The Man In The Cave" data-kind="excerpt" data-tags="archetype/monster,archetype/shadow,motif/birds,motif/desire,motif/dreams,motif/leaves,motif/moon,motif/nature,motif/summer,motif/swallow,motif/time,motif/window,concept/body,concept/history,concept/nature,form/history"></span>
+<span class="atom-split" data-atom="chapter_03_the_man_in_the_cave--part_06" data-title="everlasting man — Chapter 3: The Man In The Cave (part 6)" data-chapter="The Man In The Cave" data-kind="excerpt"></span>
 
 
 It is not natural to see man as a natural product.  It is not common
@@ -11390,7 +11390,7 @@ Ora, di fatto, non c'è l'[[Shadow|ombra]] di una prova che questa cosa si sia m
 
 
 
-<span class="atom-split" data-atom="chapter_04_professors_and_prehistoric_men--part_01" data-title="everlasting man — Chapter 4: Professors And Prehistoric Men (part 1)" data-chapter="Professors And Prehistoric Men" data-kind="excerpt" data-tags="motif/birds,motif/cave,motif/hill,motif/marriage,motif/well,concept/fanaticism,form/fragment"></span>
+<span class="atom-split" data-atom="chapter_04_professors_and_prehistoric_men--part_01" data-title="everlasting man — Chapter 4: Professors And Prehistoric Men (part 1)" data-chapter="Professors And Prehistoric Men" data-kind="excerpt"></span>
 
 
 II
@@ -11513,7 +11513,7 @@ Per esempio, ho fatto notare la difficoltà di tenere una scimmia e osservarla e
 
 
 
-<span class="atom-split" data-atom="chapter_04_professors_and_prehistoric_men--part_02" data-title="everlasting man — Chapter 4: Professors And Prehistoric Men (part 2)" data-chapter="Professors And Prehistoric Men" data-kind="excerpt" data-tags="motif/nature,motif/soul,motif/time,motif/well,concept/body,concept/courage,concept/doubt,concept/history,concept/nature,concept/truth,form/history,form/sketch"></span>
+<span class="atom-split" data-atom="chapter_04_professors_and_prehistoric_men--part_02" data-title="everlasting man — Chapter 4: Professors And Prehistoric Men (part 2)" data-chapter="Professors And Prehistoric Men" data-kind="excerpt"></span>
 
 
 In this [[Sketch|sketch]], therefore, of man in his relation to certain
@@ -11725,7 +11725,7 @@ non comincia affatto a cominciare a farlo.  Una linea di qualche specie
 
 
 
-<span class="atom-split" data-atom="chapter_04_professors_and_prehistoric_men--part_03" data-title="everlasting man — Chapter 4: Professors And Prehistoric Men (part 3)" data-chapter="Professors And Prehistoric Men" data-kind="excerpt" data-tags="motif/animals,motif/cave,motif/dreams,motif/flag,motif/love,motif/spring,motif/time,motif/winter,concept/fear,concept/resurrection,concept/truth,character/speed"></span>
+<span class="atom-split" data-atom="chapter_04_professors_and_prehistoric_men--part_03" data-title="everlasting man — Chapter 4: Professors And Prehistoric Men (part 3)" data-chapter="Professors And Prehistoric Men" data-kind="excerpt"></span>
 
 
 Another distinguished writer, again, in commenting on the [[Cave|cave]]
@@ -11929,7 +11929,7 @@ apparire mistici allora, come possono apparire mistici oggi.
 
 
 
-<span class="atom-split" data-atom="chapter_04_professors_and_prehistoric_men--part_04" data-title="everlasting man — Chapter 4: Professors And Prehistoric Men (part 4)" data-chapter="Professors And Prehistoric Men" data-kind="excerpt" data-tags="archetype/shadow,motif/animals,motif/cave,motif/dance,motif/death,motif/dreams,motif/home,motif/horse,motif/love,motif/moon,motif/soul,motif/spring,motif/time,concept/honour,concept/resurrection,concept/self,concept/sublime,concept/truth,concept/wonder"></span>
+<span class="atom-split" data-atom="chapter_04_professors_and_prehistoric_men--part_04" data-title="everlasting man — Chapter 4: Professors And Prehistoric Men (part 4)" data-chapter="Professors And Prehistoric Men" data-kind="excerpt"></span>
 
 
 For the plain [[Truth|truth]] is that all this is a trick of making things seem
@@ -12045,7 +12045,7 @@ La semplice [[Truth|verità]] è che tutto questo non è che un trucco per far a
 
 
 
-<span class="atom-split" data-atom="chapter_04_professors_and_prehistoric_men--part_05" data-title="everlasting man — Chapter 4: Professors And Prehistoric Men (part 5)" data-chapter="Professors And Prehistoric Men" data-kind="excerpt" data-tags="motif/animals,motif/cave,motif/city,motif/death,motif/nakedness,motif/nature,motif/soul,motif/well,concept/despair,concept/history,concept/nature,concept/original_sin,concept/self,concept/truth,concept/wonder,form/history"></span>
+<span class="atom-split" data-atom="chapter_04_professors_and_prehistoric_men--part_05" data-title="everlasting man — Chapter 4: Professors And Prehistoric Men (part 5)" data-chapter="Professors And Prehistoric Men" data-kind="excerpt"></span>
 
 
 It is quite true that we have even these hints chiefly about man when
@@ -12166,7 +12166,7 @@ Guardando dal nostro punto di vista umano su per la lunga prospettiva dell'umani
 
 
 
-<span class="atom-split" data-atom="chapter_04_professors_and_prehistoric_men--part_06" data-title="everlasting man — Chapter 4: Professors And Prehistoric Men (part 6)" data-chapter="Professors And Prehistoric Men" data-kind="excerpt" data-tags="archetype/child,motif/bees,motif/city,motif/flag,motif/time,motif/well,concept/grotesque,concept/history,concept/honour,form/history"></span>
+<span class="atom-split" data-atom="chapter_04_professors_and_prehistoric_men--part_06" data-title="everlasting man — Chapter 4: Professors And Prehistoric Men (part 6)" data-chapter="Professors And Prehistoric Men" data-kind="excerpt"></span>
 
 
 That fact is the family.  Here again we must keep the enormous
@@ -12314,7 +12314,7 @@ se non nell'essere capovolto.
 
 
 
-<span class="atom-split" data-atom="chapter_05_the_antiquity_of_civilisation--part_01" data-title="everlasting man — Chapter 5: The Antiquity Of Civilisation (part 1)" data-chapter="The Antiquity Of Civilisation" data-kind="excerpt" data-tags="archetype/tyrant,motif/animals,motif/cave,motif/childhood,motif/city,motif/dawn,motif/machine,motif/nature,motif/night,motif/sleep,motif/stars,motif/time,motif/well,concept/democracy,concept/endurance,concept/fear,concept/history,concept/nature,concept/reform,form/history,form/inscription,setting/court,setting/egypt,setting/mountains"></span>
+<span class="atom-split" data-atom="chapter_05_the_antiquity_of_civilisation--part_01" data-title="everlasting man — Chapter 5: The Antiquity Of Civilisation (part 1)" data-chapter="The Antiquity Of Civilisation" data-kind="excerpt"></span>
 
 
 III
@@ -12595,7 +12595,7 @@ un'umanità vecchia.
 
 
 
-<span class="atom-split" data-atom="chapter_05_the_antiquity_of_civilisation--part_02" data-title="everlasting man — Chapter 5: The Antiquity Of Civilisation (part 2)" data-chapter="The Antiquity Of Civilisation" data-kind="excerpt" data-tags="motif/animals,motif/home,motif/time,concept/body,concept/democracy,concept/doubt,concept/fear,concept/history,concept/paradox,concept/self,concept/slavery,concept/truth,form/history"></span>
+<span class="atom-split" data-atom="chapter_05_the_antiquity_of_civilisation--part_02" data-title="everlasting man — Chapter 5: The Antiquity Of Civilisation (part 2)" data-chapter="The Antiquity Of Civilisation" data-kind="excerpt"></span>
 
 
 It is far more probable that a primitive society was something like
@@ -12713,7 +12713,7 @@ Ma la [[Truth|verità]] è che il sipario si leva su una recita già in corso. I
 
 
 
-<span class="atom-split" data-atom="chapter_05_the_antiquity_of_civilisation--part_03" data-title="everlasting man — Chapter 5: The Antiquity Of Civilisation (part 3)" data-chapter="The Antiquity Of Civilisation" data-kind="excerpt" data-tags="archetype/king,archetype/shadow,motif/animals,motif/cave,motif/desert,motif/lion,motif/marriage,motif/river,motif/sleep,concept/fear,concept/greatness,concept/history,concept/imagination,concept/temptation,concept/truth,form/history,setting/desert,setting/egypt"></span>
+<span class="atom-split" data-atom="chapter_05_the_antiquity_of_civilisation--part_03" data-title="everlasting man — Chapter 5: The Antiquity Of Civilisation (part 3)" data-chapter="The Antiquity Of Civilisation" data-kind="excerpt"></span>
 
 
 It is so also with the more special fancy about evolution and
@@ -12859,7 +12859,7 @@ L'[[Egypt|Egitto]] è un nastro verde lungo il margine del [[River|fiume]] che o
 
 
 
-<span class="atom-split" data-atom="chapter_05_the_antiquity_of_civilisation--part_04" data-title="everlasting man — Chapter 5: The Antiquity Of Civilisation (part 4)" data-chapter="The Antiquity Of Civilisation" data-kind="excerpt" data-tags="archetype/child,archetype/detective,archetype/king,archetype/shadow,motif/fire,motif/horse,motif/river,motif/soul,motif/tears,motif/time,motif/wheel,concept/body,concept/fear,concept/history,concept/honour,form/history,histref/christianity,setting/egypt"></span>
+<span class="atom-split" data-atom="chapter_05_the_antiquity_of_civilisation--part_04" data-title="everlasting man — Chapter 5: The Antiquity Of Civilisation (part 4)" data-chapter="The Antiquity Of Civilisation" data-kind="excerpt"></span>
 
 
 The popular pictures of these primeval empires are not half so popular
@@ -12970,7 +12970,7 @@ Si ammette che dobbiamo gran parte di questa scienza ai sacerdoti. Scrittori mod
 
 
 
-<span class="atom-split" data-atom="chapter_05_the_antiquity_of_civilisation--part_05" data-title="everlasting man — Chapter 5: The Antiquity Of Civilisation (part 5)" data-chapter="The Antiquity Of Civilisation" data-kind="excerpt" data-tags="archetype/king,motif/birds,motif/desert,motif/home,motif/nature,motif/river,motif/rose,motif/stars,motif/time,motif/well,motif/wind,concept/doubt,concept/education,concept/history,concept/imagination,concept/nature,form/history,setting/desert,setting/egypt"></span>
+<span class="atom-split" data-atom="chapter_05_the_antiquity_of_civilisation--part_05" data-title="everlasting man — Chapter 5: The Antiquity Of Civilisation (part 5)" data-chapter="The Antiquity Of Civilisation" data-kind="excerpt"></span>
 
 
 The point is here, however, that the Egyptian [[government]],
@@ -13088,7 +13088,7 @@ Contro questa società solida, come contro una vasta e nuda muraglia di mattoni,
 
 
 
-<span class="atom-split" data-atom="chapter_05_the_antiquity_of_civilisation--part_06" data-title="everlasting man — Chapter 5: The Antiquity Of Civilisation (part 6)" data-chapter="The Antiquity Of Civilisation" data-kind="excerpt" data-tags="topos/double,archetype/shadow,motif/city,motif/desert,motif/stars,motif/well,concept/history,concept/paradox,concept/slavery,concept/truth,concept/wonder,form/history,setting/desert,setting/egypt,character/christ"></span>
+<span class="atom-split" data-atom="chapter_05_the_antiquity_of_civilisation--part_06" data-title="everlasting man — Chapter 5: The Antiquity Of Civilisation (part 6)" data-chapter="The Antiquity Of Civilisation" data-kind="excerpt"></span>
 
 
 Now it is worth while to pause upon that story because, as has
@@ -13400,7 +13400,7 @@ e invisibile; è la cosa piccola a essere evidente ed enorme.
 
 
 
-<span class="atom-split" data-atom="chapter_05_the_antiquity_of_civilisation--part_07" data-title="everlasting man — Chapter 5: The Antiquity Of Civilisation (part 7)" data-chapter="The Antiquity Of Civilisation" data-kind="excerpt" data-tags="archetype/child,motif/childhood,motif/home,motif/night,motif/time,motif/well,concept/history,concept/truth,form/history,histref/america,setting/america,setting/egypt,setting/italy,setting/london,character/helen"></span>
+<span class="atom-split" data-atom="chapter_05_the_antiquity_of_civilisation--part_07" data-title="everlasting man — Chapter 5: The Antiquity Of Civilisation (part 7)" data-chapter="The Antiquity Of Civilisation" data-kind="excerpt"></span>
 
 
 Every race on the face of the earth has been the subject
@@ -13508,7 +13508,7 @@ La [[Truth|verità]], si può ripeterlo, è che ciò che realmente vediamo, a di
 
 
 
-<span class="atom-split" data-atom="chapter_05_the_antiquity_of_civilisation--part_08" data-title="everlasting man — Chapter 5: The Antiquity Of Civilisation (part 8)" data-chapter="The Antiquity Of Civilisation" data-kind="excerpt" data-tags="motif/birds,motif/decay,motif/flowers,motif/night,motif/stars,motif/water,motif/well,concept/history,concept/truth,form/history,histref/bible,histref/islam,setting/egypt,character/hamlet"></span>
+<span class="atom-split" data-atom="chapter_05_the_antiquity_of_civilisation--part_08" data-title="everlasting man — Chapter 5: The Antiquity Of Civilisation (part 8)" data-chapter="The Antiquity Of Civilisation" data-kind="excerpt"></span>
 
 
 That centre was the Mediterranean; which was not so much a piece of
@@ -13622,7 +13622,7 @@ Da qualche parte lungo la costa ionica, di fronte a Creta e alle isole, sorgeva 
 
 
 
-<span class="atom-split" data-atom="chapter_05_the_antiquity_of_civilisation--part_09" data-title="everlasting man — Chapter 5: The Antiquity Of Civilisation (part 9)" data-chapter="The Antiquity Of Civilisation" data-kind="excerpt" data-tags="archetype/hero,motif/city,motif/fire,motif/horse,concept/greatness,concept/history,concept/honour,concept/hope,concept/pride,concept/self,concept/survival,form/history,character/achilles,character/hamlet,character/hector"></span>
+<span class="atom-split" data-atom="chapter_05_the_antiquity_of_civilisation--part_09" data-title="everlasting man — Chapter 5: The Antiquity Of Civilisation (part 9)" data-chapter="The Antiquity Of Civilisation" data-kind="excerpt"></span>
 
 
 But in this one great human revelation of antiquity there
@@ -13689,7 +13689,7 @@ Una leggenda posteriore, un ripensamento ma non un accidente, narrò che alcuni 
 
 
 
-<span class="atom-split" data-atom="chapter_06_god_and_comparative_religion--part_01" data-title="everlasting man — Chapter 6: God And Comparative Religion (part 1)" data-chapter="God And Comparative Religion" data-kind="excerpt" data-tags="motif/chalk,motif/city,motif/nature,concept/body,concept/immortality,concept/nature,concept/truth,form/hymn,form/satire,histref/christianity,histref/islam,character/apollo,character/christ,character/jones,character/sunday"></span>
+<span class="atom-split" data-atom="chapter_06_god_and_comparative_religion--part_01" data-title="everlasting man — Chapter 6: God And Comparative Religion (part 1)" data-chapter="God And Comparative Religion" data-kind="excerpt"></span>
 
 
 IV
@@ -13889,7 +13889,7 @@ una religione.
 
 
 
-<span class="atom-split" data-atom="chapter_06_god_and_comparative_religion--part_02" data-title="everlasting man — Chapter 6: God And Comparative Religion (part 2)" data-chapter="God And Comparative Religion" data-kind="excerpt" data-tags="motif/well,concept/history,concept/self,concept/solitude,concept/sublime,concept/truth,form/history,form/sketch,histref/crusades,histref/islam"></span>
+<span class="atom-split" data-atom="chapter_06_god_and_comparative_religion--part_02" data-title="everlasting man — Chapter 6: God And Comparative Religion (part 2)" data-chapter="God And Comparative Religion" data-kind="excerpt"></span>
 
 
 In [[Truth|truth]] the Church is too unique to prove herself unique.
@@ -14057,7 +14057,7 @@ In questo [[Sketch|abbozzo]] di [[history|storia]] religiosa, con tutta la debit
 
 
 
-<span class="atom-split" data-atom="chapter_06_god_and_comparative_religion--part_03" data-title="everlasting man — Chapter 6: God And Comparative Religion (part 3)" data-chapter="God And Comparative Religion" data-kind="excerpt" data-tags="archetype/great_mother,motif/blood,motif/ghosts,motif/grave,motif/moon,motif/river,motif/secrets,motif/stars,motif/water,concept/history,form/history,form/novel,form/translation"></span>
+<span class="atom-split" data-atom="chapter_06_god_and_comparative_religion--part_03" data-title="everlasting man — Chapter 6: God And Comparative Religion (part 3)" data-chapter="God And Comparative Religion" data-kind="excerpt"></span>
 
 
 In considering the elements of pagan humanity, we must begin
@@ -14184,7 +14184,7 @@ Non sono poche le indicazioni di questo mutamento in altri luoghi. Esso è impli
 
 
 
-<span class="atom-split" data-atom="chapter_06_god_and_comparative_religion--part_04" data-title="everlasting man — Chapter 6: God And Comparative Religion (part 4)" data-chapter="God And Comparative Religion" data-kind="excerpt" data-tags="topos/golden_age,archetype/child,archetype/innocent,archetype/prophet,motif/city,motif/love,motif/moon,motif/silence,motif/time,concept/doubt,concept/friendship,concept/truth,character/christ,character/saturn"></span>
+<span class="atom-split" data-atom="chapter_06_god_and_comparative_religion--part_04" data-title="everlasting man — Chapter 6: God And Comparative Religion (part 4)" data-chapter="God And Comparative Religion" data-kind="excerpt"></span>
 
 
 Over some of the most immense and populous tracts of the world such
@@ -14304,7 +14304,7 @@ Dietro tutto il politeismo e il paganesimo io sospetto un'immensa implicazione. 
 
 
 
-<span class="atom-split" data-atom="chapter_06_god_and_comparative_religion--part_05" data-title="everlasting man — Chapter 6: God And Comparative Religion (part 5)" data-chapter="God And Comparative Religion" data-kind="excerpt" data-tags="motif/childhood,motif/city,motif/crown,motif/love,motif/memory,motif/prayer,motif/stars,motif/time,motif/well,concept/body,concept/faith,concept/greatness,concept/hope,concept/paradox,concept/reconciliation,concept/truth,form/riddle,setting/egypt,setting/mountains,character/apollo"></span>
+<span class="atom-split" data-atom="chapter_06_god_and_comparative_religion--part_05" data-title="everlasting man — Chapter 6: God And Comparative Religion (part 5)" data-chapter="God And Comparative Religion" data-kind="excerpt"></span>
 
 
 In short, there is a feeling that there is something higher
@@ -14488,7 +14488,7 @@ Il politeismo, dunque, era in realtà una sorta di fondo comune; nel senso che i
 
 
 
-<span class="atom-split" data-atom="chapter_06_god_and_comparative_religion--part_06" data-title="everlasting man — Chapter 6: God And Comparative Religion (part 6)" data-chapter="God And Comparative Religion" data-kind="excerpt" data-tags="motif/animals,motif/city,motif/cross,motif/dawn,motif/death,motif/dreams,motif/love,motif/night,motif/soul,motif/stars,motif/time,motif/well,concept/despair,concept/hope,concept/paradox,concept/truth,form/sketch,character/hector"></span>
+<span class="atom-split" data-atom="chapter_06_god_and_comparative_religion--part_06" data-title="everlasting man — Chapter 6: God And Comparative Religion (part 6)" data-chapter="God And Comparative Religion" data-kind="excerpt"></span>
 
 
 The unique possession was not available or accessible to the pagan
@@ -14584,7 +14584,7 @@ Quel possesso unico non era disponibile né accessibile al mondo pagano, poiché
 
 
 
-<span class="atom-split" data-atom="chapter_07_man_and_mythologies--part_01" data-title="everlasting man — Chapter 7: Man And Mythologies (part 1)" data-chapter="Man And Mythologies" data-kind="excerpt" data-tags="archetype/child,archetype/hero,archetype/monster,motif/animals,motif/childhood,motif/dreams,motif/flowers,motif/grave,motif/hill,motif/moon,motif/nature,motif/spring,motif/stars,motif/time,motif/well,concept/beauty,concept/doubt,concept/grotesque,concept/imagination,concept/nature,concept/temptation,concept/truth,form/fable,form/sonnet,character/diana,character/nurse,character/queen"></span>
+<span class="atom-split" data-atom="chapter_07_man_and_mythologies--part_01" data-title="everlasting man — Chapter 7: Man And Mythologies (part 1)" data-chapter="Man And Mythologies" data-kind="excerpt"></span>
 
 
 V
@@ -14751,7 +14751,7 @@ Quei [[Flowers|fiori]] sono sempre freschi.
 
 
 
-<span class="atom-split" data-atom="chapter_07_man_and_mythologies--part_02" data-title="everlasting man — Chapter 7: Man And Mythologies (part 2)" data-chapter="Man And Mythologies" data-kind="excerpt" data-tags="archetype/artist,archetype/child,archetype/ghost,archetype/king,motif/cave,motif/garden,motif/ghosts,motif/grave,motif/moon,motif/nature,motif/nightingale,motif/rose,motif/secrets,motif/snow,motif/soul,motif/time,motif/water,motif/window,concept/beauty,concept/imagination,concept/nature,concept/survival,form/allegory,setting/castle,character/polonius"></span>
+<span class="atom-split" data-atom="chapter_07_man_and_mythologies--part_02" data-title="everlasting man — Chapter 7: Man And Mythologies (part 2)" data-chapter="Man And Mythologies" data-kind="excerpt"></span>
 
 
 The true origin of all the myths has been discovered much too often.
@@ -14940,7 +14940,7 @@ Ora, noi non comprendiamo questo processo in noi stessi, e ancor meno nelle nost
 
 
 
-<span class="atom-split" data-atom="chapter_07_man_and_mythologies--part_03" data-title="everlasting man — Chapter 7: Man And Mythologies (part 3)" data-chapter="Man And Mythologies" data-kind="excerpt" data-tags="archetype/child,archetype/hero,archetype/innocent,archetype/villain,motif/city,motif/crown,motif/dance,motif/death,motif/dreams,motif/grave,motif/home,motif/nature,motif/river,motif/soul,motif/water,concept/beauty,concept/doubt,concept/nature,concept/self,histref/catholic_church,setting/castle,character/apollo,character/diana"></span>
+<span class="atom-split" data-atom="chapter_07_man_and_mythologies--part_03" data-title="everlasting man — Chapter 7: Man And Mythologies (part 3)" data-chapter="Man And Mythologies" data-kind="excerpt"></span>
 
 
 Two facts follow from this psychology of day-[[Dreams|dreams]], which must be kept
@@ -15050,7 +15050,7 @@ Come già osservato, ciò non significa che in un simile stato d'animo non vi fo
 
 
 
-<span class="atom-split" data-atom="chapter_07_man_and_mythologies--part_04" data-title="everlasting man — Chapter 7: Man And Mythologies (part 4)" data-chapter="Man And Mythologies" data-kind="excerpt" data-tags="archetype/artist,archetype/child,archetype/hero,motif/birds,motif/city,motif/dreams,motif/fire,motif/flowers,motif/memory,motif/mirror,motif/moon,motif/nature,motif/well,concept/beauty,concept/grotesque,concept/history,concept/imagination,concept/nature,concept/pride,concept/truth,concept/union,form/history,histref/christianity,histref/islam,setting/mountains,character/prometheus"></span>
+<span class="atom-split" data-atom="chapter_07_man_and_mythologies--part_04" data-title="everlasting man — Chapter 7: Man And Mythologies (part 4)" data-chapter="Man And Mythologies" data-kind="excerpt"></span>
 
 
 This is the mighty and branching tree called mythology which ramifies
@@ -15175,7 +15175,7 @@ La sostanza di ogni paganesimo simile si può riassumere così. È un tentativo 
 
 
 
-<span class="atom-split" data-atom="chapter_07_man_and_mythologies--part_05" data-title="everlasting man — Chapter 7: Man And Mythologies (part 5)" data-chapter="Man And Mythologies" data-kind="excerpt" data-tags="topos/double,archetype/child,archetype/great_mother,archetype/prophet,archetype/shadow,motif/blood,motif/death,motif/desire,motif/dreams,motif/marriage,motif/moon,motif/nature,motif/prayer,motif/river,motif/road,motif/sleep,motif/soul,motif/well,concept/body,concept/doubt,concept/hope,concept/identity,concept/imagination,concept/nature,concept/truth,form/parable,form/translation,histref/america,histref/christianity,histref/greek_tragedy,setting/america,character/adonis,character/apollo,character/proteus,character/queen_elizabeth"></span>
+<span class="atom-split" data-atom="chapter_07_man_and_mythologies--part_05" data-title="everlasting man — Chapter 7: Man And Mythologies (part 5)" data-chapter="Man And Mythologies" data-kind="excerpt"></span>
 
 
 The crux and crisis is that man found it natural to worship;
@@ -15339,7 +15339,7 @@ Coloro che parlano di Cristi pagani hanno meno simpatia per il Paganesimo di qua
 
 
 
-<span class="atom-split" data-atom="chapter_08_the_demons_and_the_philosopher--part_01" data-title="everlasting man — Chapter 8: The Demons And The Philosophers (part 1)" data-chapter="The Demons And The Philosopher" data-kind="excerpt" data-tags="archetype/detective,motif/garden,motif/nature,motif/well,concept/history,concept/hope,concept/nature,concept/original_sin,concept/truth,form/history,character/macbeth,character/witch"></span>
+<span class="atom-split" data-atom="chapter_08_the_demons_and_the_philosopher--part_01" data-title="everlasting man — Chapter 8: The Demons And The Philosophers (part 1)" data-chapter="The Demons And The Philosopher" data-kind="excerpt"></span>
 
 
 VI
@@ -15456,7 +15456,7 @@ Trattando della cosa più leggera che si chiama mitologia, ho detto poco del suo
 
 
 
-<span class="atom-split" data-atom="chapter_08_the_demons_and_the_philosopher--part_02" data-title="everlasting man — Chapter 8: The Demons And The Philosophers (part 2)" data-chapter="The Demons And The Philosopher" data-kind="excerpt" data-tags="archetype/innocent,motif/garden,motif/leaves,motif/mirror,motif/nature,motif/soul,motif/spring,motif/stars,motif/winter,concept/doubt,concept/nature,concept/self,histref/america,histref/dante,setting/america,setting/egypt,character/chorus,character/christ,character/satan"></span>
+<span class="atom-split" data-atom="chapter_08_the_demons_and_the_philosopher--part_02" data-title="everlasting man — Chapter 8: The Demons And The Philosophers (part 2)" data-chapter="The Demons And The Philosopher" data-kind="excerpt"></span>
 
 
 In the accounts given us of many rude or savage races we gather
@@ -15587,7 +15587,7 @@ Sul drago, almeno, non c'era alcun [[Doubt|dubbio]].
 
 
 
-<span class="atom-split" data-atom="chapter_08_the_demons_and_the_philosopher--part_03" data-title="everlasting man — Chapter 8: The Demons And The Philosophers (part 3)" data-chapter="The Demons And The Philosopher" data-kind="excerpt" data-tags="archetype/child,archetype/innocent,motif/childhood,motif/leaves,motif/silence,concept/fear,concept/imagination,concept/union"></span>
+<span class="atom-split" data-atom="chapter_08_the_demons_and_the_philosopher--part_03" data-title="everlasting man — Chapter 8: The Demons And The Philosophers (part 3)" data-chapter="The Demons And The Philosopher" data-kind="excerpt"></span>
 
 
 I do not raise in this connection the special controversy about Spain
@@ -15793,7 +15793,7 @@ sorta di distanza e disunione, la cui [[Union|unione]] doveva salvare il mondo.
 
 
 
-<span class="atom-split" data-atom="chapter_08_the_demons_and_the_philosopher--part_04" data-title="everlasting man — Chapter 8: The Demons And The Philosophers (part 4)" data-chapter="The Demons And The Philosopher" data-kind="excerpt" data-tags="archetype/prophet,motif/city,motif/death,motif/home,motif/love,motif/nature,motif/pain,motif/soul,motif/water,motif/well,concept/body,concept/honour,concept/nature,concept/truth,character/adonis,character/apollo"></span>
+<span class="atom-split" data-atom="chapter_08_the_demons_and_the_philosopher--part_04" data-title="everlasting man — Chapter 8: The Demons And The Philosophers (part 4)" data-chapter="The Demons And The Philosopher" data-kind="excerpt"></span>
 
 
 I have called the fourth and final division of the spiritual
@@ -16051,7 +16051,7 @@ per un'altra via.
 
 
 
-<span class="atom-split" data-atom="chapter_08_the_demons_and_the_philosopher--part_05" data-title="everlasting man — Chapter 8: The Demons And The Philosophers (part 5)" data-chapter="The Demons And The Philosopher" data-kind="excerpt" data-tags="topos/ages_of_the_world,archetype/king,archetype/shadow,motif/animals,motif/hill,motif/mirror,motif/nature,motif/night,motif/rose,motif/supernatural,motif/well,concept/body,concept/democracy,concept/history,concept/nature,concept/truth,form/history,setting/egypt,character/hamlet,character/theseus"></span>
+<span class="atom-split" data-atom="chapter_08_the_demons_and_the_philosopher--part_05" data-title="everlasting man — Chapter 8: The Demons And The Philosophers (part 5)" data-chapter="The Demons And The Philosopher" data-kind="excerpt"></span>
 
 
 One of the great philosophers said that it would be [[Well|well]]
@@ -16291,7 +16291,7 @@ il trono dei re.
 
 
 
-<span class="atom-split" data-atom="chapter_08_the_demons_and_the_philosopher--part_06" data-title="everlasting man — Chapter 8: The Demons And The Philosophers (part 6)" data-chapter="The Demons And The Philosopher" data-kind="excerpt" data-tags="archetype/king,motif/cave,motif/cross,motif/desire,motif/home,motif/leaves,motif/love,motif/time,motif/well,motif/wheel,concept/democracy,concept/pride,concept/renunciation,concept/truth,histref/christianity,histref/islam"></span>
+<span class="atom-split" data-atom="chapter_08_the_demons_and_the_philosopher--part_06" data-title="everlasting man — Chapter 8: The Demons And The Philosophers (part 6)" data-chapter="The Demons And The Philosopher" data-kind="excerpt"></span>
 
 
 The next great example I shall take of the princely sage is Gautama,
@@ -16401,7 +16401,7 @@ Ora, quando il genio del Buddha sorse ad affrontare la questione, questa sorta d
 
 
 
-<span class="atom-split" data-atom="chapter_08_the_demons_and_the_philosopher--part_07" data-title="everlasting man — Chapter 8: The Demons And The Philosophers (part 7)" data-chapter="The Demons And The Philosopher" data-kind="excerpt" data-tags="archetype/monster,motif/birds,motif/cross,motif/desire,motif/memory,motif/soul,motif/well,motif/wheel,concept/despair,concept/eternity,concept/freedom,concept/history,concept/self,concept/solitude,concept/truth,form/allegory,form/history,form/parable,histref/christianity"></span>
+<span class="atom-split" data-atom="chapter_08_the_demons_and_the_philosopher--part_07" data-title="everlasting man — Chapter 8: The Demons And The Philosophers (part 7)" data-chapter="The Demons And The Philosopher" data-kind="excerpt"></span>
 
 
 But Reincarnation is not really a mystical idea.  It is not really
@@ -16605,7 +16605,7 @@ comune perisce, tranne là dove c'è il [[Christianity|Cristianesimo]] a preserv
 
 
 
-<span class="atom-split" data-atom="chapter_08_the_demons_and_the_philosopher--part_08" data-title="everlasting man — Chapter 8: The Demons And The Philosophers (part 8)" data-chapter="The Demons And The Philosopher" data-kind="excerpt" data-tags="archetype/artist,motif/cave,motif/death,motif/garden,motif/mirror,motif/time,motif/well,motif/wheel,concept/temptation"></span>
+<span class="atom-split" data-atom="chapter_08_the_demons_and_the_philosopher--part_08" data-title="everlasting man — Chapter 8: The Demons And The Philosophers (part 8)" data-chapter="The Demons And The Philosopher" data-kind="excerpt"></span>
 
 
 It cannot otherwise exist, or at least endure, because mere thought
@@ -16717,7 +16717,7 @@ di una forma—e di un Volto.
 
 
 
-<span class="atom-split" data-atom="chapter_09_the_war_of_the_gods_and_demons--part_01" data-title="everlasting man — Chapter 9: The War Of The Gods And Demons (part 1)" data-chapter="The War Of The Gods And Demons" data-kind="excerpt" data-tags="archetype/hero,motif/dreams,motif/leaves,motif/marriage,motif/nature,concept/history,concept/nature,concept/suicide,concept/truth,form/epic,form/historical_novel,form/history,form/novel,character/witch"></span>
+<span class="atom-split" data-atom="chapter_09_the_war_of_the_gods_and_demons--part_01" data-title="everlasting man — Chapter 9: The War Of The Gods And Demons (part 1)" data-chapter="The War Of The Gods And Demons" data-kind="excerpt"></span>
 
 
 VII
@@ -16914,7 +16914,7 @@ Nessun uomo saggio desidererà mettere al mondo altre parole lunghe. Ma sia fors
 
 
 
-<span class="atom-split" data-atom="chapter_09_the_war_of_the_gods_and_demons--part_02" data-title="everlasting man — Chapter 9: The War Of The Gods And Demons (part 2)" data-chapter="The War Of The Gods And Demons" data-kind="excerpt" data-tags="archetype/shadow,motif/death,motif/home,motif/love,motif/poison,motif/soul,motif/water,motif/well,concept/history,concept/suffering,form/history,setting/paris"></span>
+<span class="atom-split" data-atom="chapter_09_the_war_of_the_gods_and_demons--part_02" data-title="everlasting man — Chapter 9: The War Of The Gods And Demons (part 2)" data-chapter="The War Of The Gods And Demons" data-kind="excerpt"></span>
 
 
 In nothing is this new [[history]] needed so much as in the psychology
@@ -17023,7 +17023,7 @@ Gli uomini, in queste cose, sono mossi da qualcosa di assai più alto e più san
 
 
 
-<span class="atom-split" data-atom="chapter_09_the_war_of_the_gods_and_demons--part_03" data-title="everlasting man — Chapter 9: The War Of The Gods And Demons (part 3)" data-chapter="The War Of The Gods And Demons" data-kind="excerpt" data-tags="motif/birds,motif/city,motif/clock,motif/flowers,motif/home,motif/nature,motif/rose,motif/well,concept/despair,concept/greatness,concept/history,concept/nature,concept/paradox,concept/truth,form/history,form/riddle,histref/ancient_rome,setting/ancient_rome,setting/italy,setting/new_york,setting/paris,character/saturn,character/sunday"></span>
+<span class="atom-split" data-atom="chapter_09_the_war_of_the_gods_and_demons--part_03" data-title="everlasting man — Chapter 9: The War Of The Gods And Demons (part 3)" data-chapter="The War Of The Gods And Demons" data-kind="excerpt"></span>
 
 
 The ancient religion of [[Italy]] was on the whole that mixture which we
@@ -17159,7 +17159,7 @@ In un capitolo precedente ho accennato a qualcosa della psicologia che sta dietr
 
 
 
-<span class="atom-split" data-atom="chapter_09_the_war_of_the_gods_and_demons--part_04" data-title="everlasting man — Chapter 9: The War Of The Gods And Demons (part 4)" data-chapter="The War Of The Gods And Demons" data-kind="excerpt" data-tags="archetype/artist,archetype/child,motif/city,motif/desert,motif/love,motif/nature,motif/road,motif/stars,motif/time,motif/well,motif/wind,concept/courage,concept/despair,concept/honour,concept/hope,concept/imagination,concept/nature,setting/desert,setting/italy,setting/mountains"></span>
+<span class="atom-split" data-atom="chapter_09_the_war_of_the_gods_and_demons--part_04" data-title="everlasting man — Chapter 9: The War Of The Gods And Demons (part 4)" data-chapter="The War Of The Gods And Demons" data-kind="excerpt"></span>
 
 
 The first stages of the political or commercial quarrel can be
@@ -17325,7 +17325,7 @@ che gli dèi avevano loro donato invano.
 
 
 
-<span class="atom-split" data-atom="chapter_09_the_war_of_the_gods_and_demons--part_05" data-title="everlasting man — Chapter 9: The War Of The Gods And Demons (part 5)" data-chapter="The War Of The Gods And Demons" data-kind="excerpt" data-tags="archetype/shadow,motif/city,motif/death,motif/garden,motif/home,motif/nature,motif/rose,motif/soul,motif/well,concept/despair,concept/faith,concept/fear,concept/hope,concept/mercy,concept/nature,histref/christianity,character/satan,character/venus"></span>
+<span class="atom-split" data-atom="chapter_09_the_war_of_the_gods_and_demons--part_05" data-title="everlasting man — Chapter 9: The War Of The Gods And Demons (part 5)" data-chapter="The War Of The Gods And Demons" data-kind="excerpt"></span>
 
 
 Why do men entertain this queer idea that what is sordid must always
@@ -17525,7 +17525,7 @@ Deleta est Carthago.
 
 
 
-<span class="atom-split" data-atom="chapter_10_the_end_of_the_world--part_01" data-title="everlasting man — Chapter 10: The End Of The World (part 1)" data-chapter="The End Of The World" data-kind="excerpt" data-tags="archetype/shadow,motif/city,motif/dawn,motif/decay,motif/dreams,motif/garden,motif/love,motif/memory,motif/nature,motif/soul,motif/summer,motif/time,concept/democracy,concept/despair,concept/history,concept/imagination,concept/nature,concept/self,concept/suffering,concept/truth,form/history,character/apollo,character/christ,character/kent"></span>
+<span class="atom-split" data-atom="chapter_10_the_end_of_the_world--part_01" data-title="everlasting man — Chapter 10: The End Of The World (part 1)" data-chapter="The End Of The World" data-kind="excerpt"></span>
 
 
 VIII
@@ -17699,7 +17699,7 @@ Per cominciare, va notato che il rapporto di Roma con Cartagine si ripeté in pa
 
 
 
-<span class="atom-split" data-atom="chapter_10_the_end_of_the_world--part_02" data-title="everlasting man — Chapter 10: The End Of The World (part 2)" data-chapter="The End Of The World" data-kind="excerpt" data-tags="archetype/child,motif/autumn,motif/city,motif/cross,motif/dance,motif/decay,motif/horse,motif/love,motif/nature,motif/well,concept/doubt,concept/eternity,concept/history,concept/honour,concept/melancholy,concept/nature,concept/pride,concept/providence,concept/truth,form/allegory,form/epic,form/history,histref/christianity,character/achilles,character/hector"></span>
+<span class="atom-split" data-atom="chapter_10_the_end_of_the_world--part_02" data-title="everlasting man — Chapter 10: The End Of The World (part 2)" data-chapter="The End Of The World" data-kind="excerpt"></span>
 
 
 Burdened like all mortal things with all mortal sin and weakness,
@@ -17841,7 +17841,7 @@ In breve, basta chiedersi perché esista una pastorella di porcellana e non un b
 
 
 
-<span class="atom-split" data-atom="chapter_10_the_end_of_the_world--part_03" data-title="everlasting man — Chapter 10: The End Of The World (part 3)" data-chapter="The End Of The World" data-kind="excerpt" data-tags="archetype/child,archetype/fool,motif/garden,motif/love,motif/moon,motif/nature,motif/sleep,motif/time,motif/well,concept/history,concept/nature,form/history,setting/italy,character/christ"></span>
+<span class="atom-split" data-atom="chapter_10_the_end_of_the_world--part_03" data-title="everlasting man — Chapter 10: The End Of The World (part 3)" data-chapter="The End Of The World" data-kind="excerpt"></span>
 
 
 For the shepherds were dying because their gods were dying.
@@ -18063,7 +18063,7 @@ sia anche un prestigiatore.
 
 
 
-<span class="atom-split" data-atom="chapter_10_the_end_of_the_world--part_04" data-title="everlasting man — Chapter 10: The End Of The World (part 4)" data-chapter="The End Of The World" data-kind="excerpt" data-tags="archetype/king,motif/blood,motif/dance,motif/death,motif/fire,motif/lightning,motif/soul,motif/stars,motif/time,concept/beauty,concept/despair,concept/history,concept/imagination,concept/truth,form/history"></span>
+<span class="atom-split" data-atom="chapter_10_the_end_of_the_world--part_04" data-title="everlasting man — Chapter 10: The End Of The World (part 4)" data-chapter="The End Of The World" data-kind="excerpt"></span>
 
 
 Many moderns have insisted on the smallness of that Mediterranean world;
@@ -18234,7 +18234,7 @@ Con una strana rapidità, come i mutamenti di [[A Dream|un sogno]], le proporzio
 
 
 
-<span class="atom-split" data-atom="chapter_11_the_god_in_the_cave--part_01" data-title="everlasting man — Chapter 11: The God In The Cave (part 1)" data-chapter="The God In The Cave" data-kind="excerpt" data-tags="archetype/child,archetype/shadow,motif/animals,motif/cave,motif/childhood,motif/cross,motif/nature,motif/night,motif/stars,motif/time,concept/education,concept/faith,concept/history,concept/imagination,concept/mercy,concept/nature,concept/paradox,form/epigram,form/history,form/parable,form/sketch,histref/christianity,character/christ"></span>
+<span class="atom-split" data-atom="chapter_11_the_god_in_the_cave--part_01" data-title="everlasting man — Chapter 11: The God In The Cave (part 1)" data-chapter="The God In The Cave" data-kind="excerpt"></span>
 
 
 I
@@ -18362,7 +18362,7 @@ Qui comincia, non c'è bisogno di dirlo, un'altra possente influenza per l'umani
 
 
 
-<span class="atom-split" data-atom="chapter_11_the_god_in_the_cave--part_02" data-title="everlasting man — Chapter 11: The God In The Cave (part 2)" data-chapter="The God In The Cave" data-kind="excerpt" data-tags="archetype/hero,motif/cave,motif/home,motif/nature,motif/seasons,motif/soul,motif/time,motif/water,motif/well,concept/faith,concept/imagination,concept/nature,concept/paradox,concept/slavery,concept/wonder,form/fable,form/parody,form/riddle,setting/mountains,character/christ"></span>
+<span class="atom-split" data-atom="chapter_11_the_god_in_the_cave--part_02" data-title="everlasting man — Chapter 11: The God In The Cave (part 2)" data-chapter="The God In The Cave" data-kind="excerpt"></span>
 
 
 It might be suggested, in a somewhat violent image, that nothing
@@ -18484,7 +18484,7 @@ Gli uomini del popolo, come i pastori, gli uomini della tradizione popolare, era
 
 
 
-<span class="atom-split" data-atom="chapter_11_the_god_in_the_cave--part_03" data-title="everlasting man — Chapter 11: The God In The Cave (part 3)" data-chapter="The God In The Cave" data-kind="excerpt" data-tags="motif/cave,motif/decay,motif/dreams,motif/time,concept/fear,concept/history,form/history,setting/italy"></span>
+<span class="atom-split" data-atom="chapter_11_the_god_in_the_cave--part_03" data-title="everlasting man — Chapter 11: The God In The Cave (part 3)" data-chapter="The God In The Cave" data-kind="excerpt"></span>
 
 
 And the thing they found was of a kind with the things they sought.
@@ -19742,7 +19742,7 @@ disse con calma e quasi con noncuranza, come chi si volge a guardare oltre la sp
 
 
 
-<span class="atom-split" data-atom="chapter_13_the_strangest_story_in_the_wor--part_01" data-title="everlasting man — Chapter 13: The Strangest Story In The World (part 1)" data-chapter="The Strangest Story In The Wor" data-kind="excerpt" data-tags="motif/city,motif/soul,concept/imagination,character/christ"></span>
+<span class="atom-split" data-atom="chapter_13_the_strangest_story_in_the_wor--part_01" data-title="everlasting man — Chapter 13: The Strangest Story In The World (part 1)" data-chapter="The Strangest Story In The Wor" data-kind="excerpt"></span>
 
 
 III
@@ -19964,7 +19964,7 @@ sopra le creature piatte che vivono soltanto su un piano.
 
 
 
-<span class="atom-split" data-atom="chapter_13_the_strangest_story_in_the_wor--part_02" data-title="everlasting man — Chapter 13: The Strangest Story In The World (part 2)" data-chapter="The Strangest Story In The Wor" data-kind="excerpt" data-tags="topos/double,archetype/fool,archetype/monster,archetype/prophet,motif/crown,motif/stars,concept/paradox,concept/self,concept/truth,form/parable,histref/christianity,character/christ"></span>
+<span class="atom-split" data-atom="chapter_13_the_strangest_story_in_the_wor--part_02" data-title="everlasting man — Chapter 13: The Strangest Story In The World (part 2)" data-chapter="The Strangest Story In The Wor" data-kind="excerpt"></span>
 
 
 This quality of something that can only be called subtle
@@ -20088,7 +20088,7 @@ In verità, coloro che sanno davvero prenderla (come io qui ipoteticamente la pr
 
 
 
-<span class="atom-split" data-atom="chapter_13_the_strangest_story_in_the_wor--part_03" data-title="everlasting man — Chapter 13: The Strangest Story In The World (part 3)" data-chapter="The Strangest Story In The Wor" data-kind="excerpt" data-tags="archetype/innocent,motif/birds,motif/death,motif/desire,motif/home,motif/journey,motif/love,motif/nature,motif/road,motif/time,motif/well,concept/nature,concept/paradox,concept/poverty,concept/renunciation,concept/truth,character/apollonius,character/christ,character/speed"></span>
+<span class="atom-split" data-atom="chapter_13_the_strangest_story_in_the_wor--part_03" data-title="everlasting man — Chapter 13: The Strangest Story In The World (part 3)" data-chapter="The Strangest Story In The Wor" data-kind="excerpt"></span>
 
 
 Even on the purely human and sympathetic side, therefore, the Jesus
@@ -20222,7 +20222,7 @@ Ora, a confronto di questi erranti, la vita di Gesù procedette rapida e diritta
 
 
 
-<span class="atom-split" data-atom="chapter_13_the_strangest_story_in_the_wor--part_04" data-title="everlasting man — Chapter 13: The Strangest Story In The World (part 4)" data-chapter="The Strangest Story In The Wor" data-kind="excerpt" data-tags="topos/quest,archetype/hero,motif/city,motif/cross,motif/death,motif/garden,motif/journey,motif/night,motif/road,motif/stars,motif/storm,motif/supernatural,motif/time,motif/well,concept/paradox,concept/self,concept/truth,form/tragedy,setting/mountains,character/apollonius,character/christ,character/ulysses"></span>
+<span class="atom-split" data-atom="chapter_13_the_strangest_story_in_the_wor--part_04" data-title="everlasting man — Chapter 13: The Strangest Story In The World (part 4)" data-chapter="The Strangest Story In The Wor" data-kind="excerpt"></span>
 
 
 Therefore the story of [[Christ]] is the story of a [[Journey|journey]],
@@ -20424,7 +20424,7 @@ in debolezza e la sapienza del mondo che si mutava in follia.
 
 
 
-<span class="atom-split" data-atom="chapter_13_the_strangest_story_in_the_wor--part_05" data-title="everlasting man — Chapter 13: The Strangest Story In The World (part 5)" data-chapter="The Strangest Story In The Wor" data-kind="excerpt" data-tags="motif/city,motif/cross,motif/dawn,motif/garden,motif/grave,motif/hill,motif/lightning,motif/moon,motif/night,motif/secrets,motif/silence,motif/soul,motif/time,motif/well,concept/body,concept/eternity,concept/heroism,concept/history,concept/truth,concept/wonder,form/history,character/chorus,character/christ"></span>
+<span class="atom-split" data-atom="chapter_13_the_strangest_story_in_the_wor--part_05" data-title="everlasting man — Chapter 13: The Strangest Story In The World (part 5)" data-chapter="The Strangest Story In The Wor" data-kind="excerpt"></span>
 
 
 In this story of Good Friday it is the best things in the world that are
@@ -20682,7 +20682,7 @@ nel fresco non della sera ma dell'[[Dawn|alba]].
 
 
 
-<span class="atom-split" data-atom="chapter_14_the_witness_of_the_heretics--part_01" data-title="everlasting man — Chapter 14: The Witness Of The Heretics (part 1)" data-chapter="The Witness Of The Heretics" data-kind="excerpt" data-tags="motif/decay,motif/night,motif/prison,motif/secrets,motif/time,motif/well,concept/doubt,concept/faith,concept/history,concept/self,form/allegory,form/history,histref/america,histref/christianity,setting/america,character/christ"></span>
+<span class="atom-split" data-atom="chapter_14_the_witness_of_the_heretics--part_01" data-title="everlasting man — Chapter 14: The Witness Of The Heretics (part 1)" data-chapter="The Witness Of The Heretics" data-kind="excerpt"></span>
 
 
 IV
@@ -20890,7 +20890,7 @@ Vi sono, in questa materia, certe affermazioni riconosciute e accettate che, per
 
 
 
-<span class="atom-split" data-atom="chapter_14_the_witness_of_the_heretics--part_02" data-title="everlasting man — Chapter 14: The Witness Of The Heretics (part 2)" data-chapter="The Witness Of The Heretics" data-kind="excerpt" data-tags="motif/blood,motif/decay,motif/memory,motif/prayer,motif/time,motif/well,concept/beauty,concept/faith,concept/history,form/history,form/tragedy,histref/catholic_church,histref/christianity,character/christ,character/tolstoy"></span>
+<span class="atom-split" data-atom="chapter_14_the_witness_of_the_heretics--part_02" data-title="everlasting man — Chapter 14: The Witness Of The Heretics (part 2)" data-chapter="The Witness Of The Heretics" data-kind="excerpt"></span>
 
 
 In this level of cosmopolitan culture arose the Christian
@@ -21010,7 +21010,7 @@ Possiamo dunque cominciare da queste due negazioni. È un'assurdità dire che la
 
 
 
-<span class="atom-split" data-atom="chapter_14_the_witness_of_the_heretics--part_03" data-title="everlasting man — Chapter 14: The Witness Of The Heretics (part 3)" data-chapter="The Witness Of The Heretics" data-kind="excerpt" data-tags="archetype/prophet,motif/blood,motif/decay,motif/desert,motif/dreams,motif/hill,motif/nature,motif/night,motif/rose,motif/time,motif/well,concept/body,concept/fanaticism,concept/history,concept/nature,concept/renunciation,concept/self,concept/suicide,concept/truth,form/history,histref/christianity,setting/court,setting/desert"></span>
+<span class="atom-split" data-atom="chapter_14_the_witness_of_the_heretics--part_03" data-title="everlasting man — Chapter 14: The Witness Of The Heretics (part 3)" data-chapter="The Witness Of The Heretics" data-kind="excerpt"></span>
 
 
 At the beginning of this book I ventured on a general summary of it,
@@ -21141,7 +21141,7 @@ Prendiamo qualche esempio pratico del principio; il principio secondo cui, se vi
 
 
 
-<span class="atom-split" data-atom="chapter_14_the_witness_of_the_heretics--part_04" data-title="everlasting man — Chapter 14: The Witness Of The Heretics (part 4)" data-chapter="The Witness Of The Heretics" data-kind="excerpt" data-tags="motif/death,motif/dust,motif/love,motif/marriage,motif/moon,motif/nature,motif/river,motif/stars,motif/water,motif/winter,concept/faith,concept/nature,concept/procreation,concept/resurrection,concept/truth,form/tragedy,character/christ"></span>
+<span class="atom-split" data-atom="chapter_14_the_witness_of_the_heretics--part_04" data-title="everlasting man — Chapter 14: The Witness Of The Heretics (part 4)" data-chapter="The Witness Of The Heretics" data-kind="excerpt"></span>
 
 
 Now the most extraordinary thing about this is that it is all quite true;
@@ -21251,7 +21251,7 @@ Ora, quella purezza fu preservata mediante definizioni ed esclusioni dogmatiche.
 
 
 
-<span class="atom-split" data-atom="chapter_14_the_witness_of_the_heretics--part_05" data-title="everlasting man — Chapter 14: The Witness Of The Heretics (part 5)" data-chapter="The Witness Of The Heretics" data-kind="excerpt" data-tags="archetype/child,archetype/ghost,motif/birds,motif/dawn,motif/fire,motif/love,motif/marriage,motif/nature,motif/night,motif/rose,motif/time,motif/well,concept/conversion,concept/eternity,concept/history,concept/nature,concept/renunciation,concept/self,concept/truth,form/history,histref/christianity,character/apollo,character/christ"></span>
+<span class="atom-split" data-atom="chapter_14_the_witness_of_the_heretics--part_05" data-title="everlasting man — Chapter 14: The Witness Of The Heretics (part 5)" data-chapter="The Witness Of The Heretics" data-kind="excerpt"></span>
 
 
 That the early Church was itself full of an ecstatic enthusiasm
@@ -21403,7 +21403,7 @@ Ma vi era qualcosa che non finì. Si era levato, in quell'ora della [[history|st
 
 
 
-<span class="atom-split" data-atom="chapter_14_the_witness_of_the_heretics--part_06" data-title="everlasting man — Chapter 14: The Witness Of The Heretics (part 6)" data-chapter="The Witness Of The Heretics" data-kind="excerpt" data-tags="motif/cross,motif/dance,motif/decay,motif/love,motif/soul,motif/time,concept/faith,concept/truth,histref/christianity,histref/islam"></span>
+<span class="atom-split" data-atom="chapter_14_the_witness_of_the_heretics--part_06" data-title="everlasting man — Chapter 14: The Witness Of The Heretics (part 6)" data-chapter="The Witness Of The Heretics" data-kind="excerpt"></span>
 
 
 That this purely Christian dogma actually for a second [[Time|time]] rebelled
@@ -22697,7 +22697,7 @@ visione di un Dottore in Teologia.
 
 
 
-<span class="atom-split" data-atom="chapter_16_the_five_deaths_of_the_faith--part_04" data-title="everlasting man — Chapter 16: The Five Deaths Of The Faith (part 4)" data-chapter="The Five Deaths Of The Faith" data-kind="excerpt" data-tags="motif/blood,motif/death,motif/decay,motif/dreams,motif/home,motif/nature,motif/night,motif/time,motif/water,concept/beauty,concept/faith,concept/freedom,concept/history,concept/nature,form/apologetics,form/history,histref/christianity,histref/french_revolution,histref/renaissance,character/christ"></span>
+<span class="atom-split" data-atom="chapter_16_the_five_deaths_of_the_faith--part_04" data-title="everlasting man — Chapter 16: The Five Deaths Of The Faith (part 4)" data-chapter="The Five Deaths Of The Faith" data-kind="excerpt"></span>
 
 
 There are people who say they wish Christianity to remain as a spirit.
@@ -22918,7 +22918,7 @@ o il congelarsi della stella.
 
 
 
-<span class="atom-split" data-atom="chapter_17_conclusion--part_01" data-title="everlasting man — Chapter 17: CONCLUSION (part 1)" data-chapter="CONCLUSION" data-kind="excerpt" data-tags="archetype/king,motif/crown,motif/dance,motif/fire,motif/ghosts,motif/moon,motif/nature,motif/stars,concept/body,concept/doubt,concept/history,concept/nature,concept/truth,form/history,form/short_story,setting/mountains"></span>
+<span class="atom-split" data-atom="chapter_17_conclusion--part_01" data-title="everlasting man — Chapter 17: CONCLUSION (part 1)" data-chapter="CONCLUSION" data-kind="excerpt"></span>
 
 
 CONCLUSION
@@ -23212,7 +23212,7 @@ né rilegata in alcun altro modo.
 
 
 
-<span class="atom-split" data-atom="chapter_17_conclusion--part_02" data-title="everlasting man — Chapter 17: CONCLUSION (part 2)" data-chapter="CONCLUSION" data-kind="excerpt" data-tags="archetype/prophet,motif/desire,motif/dust,motif/nature,motif/well,motif/wind,concept/honour,concept/nature,histref/catholic_church"></span>
+<span class="atom-split" data-atom="chapter_17_conclusion--part_02" data-title="everlasting man — Chapter 17: CONCLUSION (part 2)" data-chapter="CONCLUSION" data-kind="excerpt"></span>
 
 
 Meanwhile the minority, the sages or thinkers, had withdrawn apart
@@ -23418,7 +23418,7 @@ e gli uomini che non l'hanno ancora udito, o non riescono ancora a crederlo.
 
 
 
-<span class="atom-split" data-atom="chapter_17_conclusion--part_03" data-title="everlasting man — Chapter 17: CONCLUSION (part 3)" data-chapter="CONCLUSION" data-kind="excerpt" data-tags="motif/birds,motif/death,motif/flowers,motif/home,motif/lightning,motif/soul,motif/stars,motif/supernatural,motif/time,motif/window,concept/faith,concept/fear,concept/history,concept/madness,concept/self_sacrifice,concept/suicide,concept/truth,form/history,form/riddle,histref/catholic_church,character/chorus,character/christ,character/speed"></span>
+<span class="atom-split" data-atom="chapter_17_conclusion--part_03" data-title="everlasting man — Chapter 17: CONCLUSION (part 3)" data-chapter="CONCLUSION" data-kind="excerpt"></span>
 
 
 But when we translate the terms of that strange tale back into the more
@@ -23547,7 +23547,7 @@ Ma questa [[Madness|follia]] è rimasta sana. La [[Madness|follia]] è rimasta s
 
 
 
-<span class="atom-split" data-atom="chapter_18_appendix_i" data-title="everlasting man — Chapter 18: APPENDIX I" data-chapter="APPENDIX I" data-kind="chapter" data-tags="motif/grave,motif/lightning,motif/well,concept/hope,concept/suffering"></span>
+<span class="atom-split" data-atom="chapter_18_appendix_i" data-title="everlasting man — Chapter 18: APPENDIX I" data-chapter="APPENDIX I" data-kind="chapter"></span>
 
 
 APPENDIX I
@@ -23617,7 +23617,7 @@ Rileggendo queste pagine sento di aver tentato in molti luoghi, e con molte paro
 
 
 
-<span class="atom-split" data-atom="chapter_19_appendix_ii" data-title="everlasting man — Chapter 19: APPENDIX II" data-chapter="APPENDIX II" data-kind="chapter" data-tags="archetype/child,motif/desert,histref/ancient_greece,setting/desert"></span>
+<span class="atom-split" data-atom="chapter_19_appendix_ii" data-title="everlasting man — Chapter 19: APPENDIX II" data-chapter="APPENDIX II" data-kind="chapter"></span>
 
 
 APPENDIX II

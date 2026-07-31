@@ -1245,11 +1245,13 @@ wrongs. Exit
 | A. AFTER | 2.2.22<br>And God knows whether those that bawl out the ruins of thy linen shall inherit his kingdom—but the midwives say the children are not in the fault, whereupon the world increases, and kindreds are mightily strengthened. |
 | B. AFTER | ‘LIQUORS!’, 3.1-52<br>O, if this were seen,<br>The happiest youth, viewing his progress through,<br>What perils past, what crosses to ensue,<br>Would shut the book and sit him down and die. |
 | C. AFTER | ‘FAMINE.’, 3.2.309<br>yet lecherous as a monkey; and the whores called him ‘mandrake’. A came ever in the rearward of the fashion, and sung those tunes to the overscutched hussies that he heard the carmen whistle, and sware they were his fancies or his good-nights. |
+| MUCH ADO ABOUT NOTHING | Much Ado About Nothing is not mentioned in the list of plays by Shakespeare given by Francis Meres in his Palladis Tamia, published in the [[Autumn\|autumn]] of 1598. Certain speech-prefixes of the first edition, published in 1600, suggest that as Shakespeare wrote he had in mind for the role of [[Dogberry]] the comic actor Will Kemp, who is believed to have left the Lord Chamberlain’s Men during 1599. Probably Shakespeare wrote the play between [[Summer\|summer]] 1598 and [[Spring\|spring]] 1599.<br>The action is set in Sicily, where [[Don Pedro]], Prince of Aragon, has recently defeated his half-brother, the bastard [[Don John]], in a military engagement. Apparently reconciled, they return to the capital, Messina, as guests of the Governor, [[Leonato]]. There Count [[Claudio]], a young nobleman serving in [[Don Pedro]]’s army, falls in [[Love\|love]] with [[Hero]], [[Leonato]]’s daughter, whom [[Don Pedro]] woos on his behalf. The play’s central plot, written mainly in verse, shows how [[Don John]] maliciously deceives [[Claudio]] into believing that [[Hero]] has taken a [[Lover\|lover]] on the eve of her [[Marriage\|marriage]], causing [[Claudio]] to repudiate her publicly, at the altar. This is a variation on an old tale that existed in many versions; it had been told in Italian verse by Ariosto, in his [[Orlando]] Furioso (1516, translated into English verse by Sir John Harington, 1591), in Italian prose by Matteo Bandello in his Novelle (1554, adapted into French by P. de Belleforest, 1569), in English prose by George Whetstone (The Rock of Regard, 1576), in English verse by [[Edmund]] Spenser (The Faerie Queene, Book 2, canto 4, 1590), and in a number of plays including Luigi Pasqualigo’s II Fedele (1579), adapted into English—perhaps by Anthony Munday—as Fedele and Fortunio (published in 1583). Shakespeare, whose plot is an independent reworking of the traditional story, seems to owe most to Ariosto and Bandello, perhaps indirectly.<br>[[Don John]]’s [[Deception\|deception]], with its tragicomical resolution, is offset by a parallel plot written mainly in prose, portraying another, more light-hearted [[Deception\|deception]], by which [[Hero]]’s cousin, [[Beatrice]], and [[Benedick]]—friend of [[Don Pedro]] and [[Claudio]]—are tricked into acknowledging, first to themselves and then to each other, that they are in [[Love\|love]]. This part of the play seems to be of Shakespeare’s invention: the juxtaposition of this clever, sophisticated, apparently unillusioned pair with the more naive [[Claudio]] and [[Hero]] recalls Shakespeare’s earlier contrast of romantic and antiromantic attitudes to [[Love\|love]] and [[Marriage\|marriage]] in The Taming of the Shrew. The play’s third main strand is provided by Constable [[Dogberry]], his partner Verges, and the Watchmen, clearly English rather than Sicilian in origin. Although [[Benedick]] and [[Beatrice]] are, technically, subordinate characters, they have dominated the [[Imagination\|imagination]] of both readers and playgoers. |
+| THE PERSONS OF THE | PLAY |
 
 
 
 
-<span class="atom-split" data-atom="act_1--scene_1" data-title="2 Henry IV — Act I, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="topos/double,archetype/king,motif/blood,motif/death,motif/decay,motif/fire,motif/horse,motif/nature,motif/night,motif/poison,motif/time,motif/well,concept/body,concept/courage,concept/fear,concept/honour,concept/nature,concept/revenge,concept/truth,character/cain,character/henry_iv,character/hotspur,character/prince_john,character/richard,character/speed"></span>
+<span class="atom-split" data-atom="act_1--scene_1" data-title="2 Henry IV — Act I, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="topos/double,archetype/king,motif/blood,motif/clock,motif/death,motif/decay,motif/fire,motif/hill,motif/home,motif/horse,motif/jewel,motif/lion,motif/nature,motif/night,motif/poison,motif/sleep,motif/time,motif/water,motif/well,motif/wind,concept/body,concept/courage,concept/fear,concept/honour,concept/hope,concept/imprisonment,concept/nature,concept/poverty,concept/pride,concept/revenge,concept/truth,character/cain,character/earl_of_northumberland,character/falstaff,character/henry_iv,character/hotspur,character/lord_chief_justice,character/prince_john,character/richard,character/speed"></span>
 
 
 | Speaker | Line |
@@ -1302,6 +1304,80 @@ wrongs. Exit
 | LORD BARDOLPH | We all that are engaged to this loss<br>Knew that we ventured on such dangerous seas<br>That if we wrought out life was ten to one;<br>And yet we ventured for the gain proposed,<br>Choked the respect of likely peril feared;<br>And since we are o’erset, venture again.<br>Come, we will all put forth [[Body\|body]] and goods. |
 | MORTON | ‘Tis more than [[Time\|time]]; and, my most noble lord,<br>I hear for certain, and dare speak the [[Truth\|truth]],<br>The gentle Archbishop of York is up<br>With [[Well\|well]]-appointed powers. He is a man<br>Who with a [[Double\|double]] surety binds his followers.<br>My lord, your son had only but the corpse,<br>But shadows and the shows of men, to fight;<br>For that same word ‘rebellion’ did divide<br>The action of their bodies from their souls,<br>And they did fight with queasiness, constrained,<br>As men drink potions, that their weapons only<br>Seemed on our side; but, for their spirits and souls,<br>This word ‘rebellion’, it had froze them up,<br>As fish are in a pond. But now the Bishop<br>Turns insurrection to religion.<br>Supposed sincere and holy in his thoughts,<br>He’s followed both with [[Body\|body]] and with mind,<br>And doth enlarge his rising with the [[Blood\|blood]]<br>Of fair [[King]] [[Richard]], scraped from Pomfret stones;<br>Derives from heaven his quarrel and his cause;<br>Tells them he doth bestride a bleeding land<br>Gasping for life under great Bolingbroke;<br>And more and less do flock to follow him. |
 | NORTHUMBERLAND | I knew of this before, but, to speak [[Truth\|truth]],<br>This present grief had wiped it from my mind.<br>Go in with me, and counsel every man<br>The aptest way for safety and [[Revenge\|revenge]].<br>Get posts and letters, and make friends with [[Speed\|speed]].<br>Never so few, and never yet more need. Exeunt |
+| *(didascalia)* | 1.2 Enter Sir John [[Falstaff]], followed by his Page bearing his [[Sword\|sword]] and buckler |
+| SIR JOHN | Sirrah, you giant, what says the doctor to my [[Water\|water]]? |
+| PAGE | He said, sir, the [[Water\|water]] itself was a good healthy [[Water\|water]], but, for the party that owed it, he might have more diseases than he knew for. |
+| SIR JOHN | Men of all sorts take a [[Pride\|pride]] to gird at me. The brain of this foolish-compounded clay, man, is not able to invent anything that tends to laughter more than I invent, or is invented on me. I am not only witty in myself, but the cause that wit is in other men. I do here walk before thee like a sow that hath o‘erwhelmed all her litter but one. If the Prince put thee into my service for any other reason than to set me off, why then, I have no judgement. Thou whoreson mandrake, thou art fitter to be worn in my cap than to wait at my heels. I was never manned with an agate till now; but I will set you neither in gold nor silver, but in vile apparel, and send you back again to your master for a [[Jewel\|jewel]]—the juvenal the Prince your master, whose chin is not yet fledge. I will sooner have a beard grow in the palm of my hand than he shall get one off his cheek; and yet he will not stick to say his face is a face-royal. God may finish it when he will; ’tis not a hair amiss yet. He may keep it still at a face-royal, for a barber shall never earn sixpence out of it. And yet he’ll be crowing as if he had writ man ever since his father was a bachelor. He may keep his own grace, but he’s almost out of mine, I can assure him. What said Master Dumbleton about the satin for my short cloak and slops? |
+| PAGE | He said, sir, you should procure him better assurance than Bardolph. He would not take his bond and yours; he liked not the security. |
+| SIR JOHN | Let him be damned like the glutton! Pray God his tongue be hotter! A whoreson Achitophel, a rascally yea-forsooth knave, to bear a gentleman in hand and then stand upon security! The whoreson smooth-pates do now wear nothing but high shoes and bunches of keys at their girdles; and if a man is through with them in honest taking-up, then they must stand upon security. I had as lief they would put ratsbane in my mouth as offer to stop it with security. I looked a should have sent me two-and-twenty yards of satin, as I am a true knight, and he sends me ‘security’! [[Well]], he may [[Sleep\|sleep]] in security, for he hath the horn of abundance, and the lightness of his wife shines through it; and yet cannot he see, though he have his own lanthorn to light him. Where’s Bardolph? |
+| PAGE | He’s gone in Smithfield to buy your worship a [[Horse\|horse]]. |
+| SIR JOHN | I bought him in Paul’s, and he’ll buy me a [[Horse\|horse]] in Smithfield. An I could get me but a wife in the stews, I were manned, horsed, and wived. |
+| *(didascalia)* | Enter the [[Lord Chief Justice]] and his Servant |
+| PAGE | Sir, here comes the nobleman that committed the<br>Prince for striking him about Bardolph. |
+| *(didascalia)* | SIR JOHN moving away Wait close; I will not see him. |
+| [[Lord Chief Justice\|LORD CHIEF JUSTICE]] | (to his Servant) What’s he that goes there ? |
+| SERVANT | [[Falstaff]], an’t please your lordship. |
+| [[Lord Chief Justice\|LORD CHIEF JUSTICE]] | He that was in question for the robbery? |
+| SERVANT | He, my lord; but he hath since done good service at Shrewsbury, and, as I hear, is now going with some charge to the Lord John of Lancaster. |
+| [[Lord Chief Justice\|LORD CHIEF JUSTICE]] | What, to York? Call him back again. |
+| SERVANT | Sir John [[Falstaff]]! |
+| SIR JOHN | Boy, tell him I am deaf. |
+| PAGE | (to the Servant) You must speak louder; my master is deaf. |
+| [[Lord Chief Justice\|LORD CHIEF JUSTICE]] | I am sure he is to the hearing of anything good. (To the Servant) Go pluck him by the elbow; I must speak with him. |
+| SERVANT | Sir John! |
+| SIR JOHN | What, a young knave and begging! Is there not wars? Is there not employment? Doth not the [[King]] lack subjects? Do not the rebels want soldiers? Though it be a shame to be on any side but one, it is worse shame to beg than to be on the worst side, were it worse than the name of rebellion can tell how to make it. |
+| SERVANT | You mistake me, sir. |
+| SIR JOHN | Why, sir, did I say you were an honest man? Setting my knighthood and my soldiership aside, I had lied in my throat if I had said so. |
+| SERVANT | I pray you, sir, then set your knighthood and your soldiership aside, and give me leave to tell you you lie in your throat if you say I am any other than an honest man. 88 |
+| SIR JOHN | I give thee leave to tell me so? I lay aside that which grows to me? If thou gettest any leave of me, hang me. If thou takest leave, thou wert better be hanged. You hunt counter. Hence, avaunt! |
+| SERVANT | Sir, my lord would speak with you. |
+| [[Lord Chief Justice\|LORD CHIEF JUSTICE]] | Sir John [[Falstaff]], a word with you. |
+| SIR JOHN | My good lord! God give your lordship good [[Time\|time]] of day. I am glad to see your lordship abroad. I heard say your lordship was sick. I [[Hope\|hope]] your lordship goes abroad by advice. Your lordship, though not clean past your youth, have yet some smack of age in you, some relish of the saltness of [[Time\|time]] in you; and I most humbly beseech your lordship to have a reverent care of your health. |
+| [[Lord Chief Justice\|LORD CHIEF JUSTICE]] | Sir John, I sent for you before your expedition to Shrewsbury. |
+| SIR JOHN | An’t please your lordship, I hear his majesty is returned with some discomfort from Wales. |
+| [[Lord Chief Justice\|LORD CHIEF JUSTICE]] | I talk not of his majesty. You would not come when I sent for you. |
+| SIR JOHN | And I hear, moreover, his highness is fallen into this same whoreson apoplexy. |
+| [[Lord Chief Justice\|LORD CHIEF JUSTICE]] | [[Well]], God mend him! I pray you, let me speak with you. |
+| SIR JOHN | This apoplexy is, as I take it, a kind of lethargy, an’t please your lordship, a kind of sleeping in the [[Blood\|blood]], a whoreson tingling. |
+| [[Lord Chief Justice\|LORD CHIEF JUSTICE]] | What tell you me of it? Be it as it is. |
+| SIR JOHN | It hath it original from much grief, from study, and perturbation of the brain. I have read the cause of his effects in Galen. It is a kind of deafness. |
+| [[Lord Chief Justice\|LORD CHIEF JUSTICE]] | I think you are fallen into the disease, for you hear not what I say to you. |
+| SIR JOHN | Very [[Well\|well]], my lord, very [[Well\|well]]. Rather, an’t please you, it is the disease of not listening, the malady of not marking, that I am troubled withal. |
+| [[Lord Chief Justice\|LORD CHIEF JUSTICE]] | To punish you by the heels would amend the attention of your ears, and I care not if I do become your physician. |
+| SIR JOHN | I am as poor as Job, my lord, but not so patient.<br>Your lordship may minister the potion of [[Imprisonment\|imprisonment]] to me in respect of [[Poverty\|poverty]]; but how I should be your patient to follow your prescriptions, the wise may make some dram of a scruple, or indeed a scruple itself. |
+| [[Lord Chief Justice\|LORD CHIEF JUSTICE]] | I sent for you, when there were matters against you for your life, to come speak with me. |
+| SIR JOHN | As I was then advised by my learned counsel in the laws of this land-service, I did not come. |
+| [[Lord Chief Justice\|LORD CHIEF JUSTICE]] | [[Well]], the [[Truth\|truth]] is, Sir John, you live in great infamy. |
+| SIR JOHN | He that buckles himself in my belt cannot live in less. |
+| [[Lord Chief Justice\|LORD CHIEF JUSTICE]] | Your means are very slender, and your waste is great. |
+| SIR JOHN | I would it were otherwise; I would my means were greater and my waist slenderer. |
+| [[Lord Chief Justice\|LORD CHIEF JUSTICE]] | You have misled the youthful Prince. |
+| SIR JOHN | The young Prince hath misled me. I am the fellow with the great belly, and he my dog. |
+| [[Lord Chief Justice\|LORD CHIEF JUSTICE]] | [[Well]], I am loath to gall a new-healed wound. Your day’s service at Shrewsbury hath a little gilded over your [[Night\|night]]’s exploit on Gads [[Hill]]. You may thank th‘unquiet [[Time\|time]] for your quiet o’erposting that action. |
+| SIR JOHN | My lord— |
+| [[Lord Chief Justice\|LORD CHIEF JUSTICE]] | But since all is [[Well\|well]], keep it so. Wake not a sleeping wolf. |
+| SIR JOHN | To wake a wolf is as bad as smell a fox. |
+| [[Lord Chief Justice\|LORD CHIEF JUSTICE]] | What! You are as a candle, the better part burnt out. |
+| SIR JOHN | A wassail candle, my lord, all tallow—if I did say of wax, my growth would approve the [[Truth\|truth]]. |
+| [[Lord Chief Justice\|LORD CHIEF JUSTICE]] | There is not a white hair in your face but should have his effect of gravity. |
+| SIR JOHN | His effect of gravy, gravy, gravy. |
+| [[Lord Chief Justice\|LORD CHIEF JUSTICE]] | You follow the young Prince up and down like his ill angel. |
+| SIR JOHN | Not so, my lord; your ill angel is light, but I [[Hope\|hope]] he that looks upon me will take me without weighing. And yet in some respects, I grant, I cannot go. I cannot tell, virtue is of so little regard in these costermongers’ times that true valour is turned bearherd; pregnancy is made a tapster, and his quick wit wasted in giving reckonings; all the other gifts appertinent to man, as the malice of this age shapes them, are not worth a gooseberry. You that are old consider not the capacities of us that are young. You do measure the heat of our livers with the bitterness of your galls. And we that are in the vanguard of our youth, I must confess, are wags too. |
+| [[Lord Chief Justice\|LORD CHIEF JUSTICE]] | Do you set down your name in the scroll of youth, that are written down old with all the characters of age? Have you not a moist eye, a dry hand, a yellow cheek, a white beard, a decreasing leg, an increasing belly? Is not your voice broken, your [[Wind\|wind]] short, your chin [[Double\|double]], your wit single, and every part about you blasted with antiquity? And will you yet call yourself young? Fie, fie, fie, Sir John! |
+| *(didascalia)* | SIR JOHN My lord, I was born about three of the [[Clock\|clock]] in the afternoon with a white head, and something a round belly. For my voice, I have lost it with hallowing and singing of anthems. To approve my youth further, I will not. The [[Truth\|truth]] is, I am only old in judgement and understanding; and he that will caper with me for a thousand marks, let him lend me the money, and have at him! For the box of th’ear that the Prince gave you, he gave it like a rude prince, and you took it like a sensible lord. I have checked him for it, and the young [[Lion\|lion]] repents—aside marry, not in ashes and sackcloth, but in new silk and old sack. |
+| [[Lord Chief Justice\|LORD CHIEF JUSTICE]] | [[Well]], God send the Prince a better companion! |
+| SIR JOHN | God send the companion a better prince! I cannot rid my hands of him. |
+| [[Lord Chief Justice\|LORD CHIEF JUSTICE]] | [[Well]], the [[King]] hath severed you and Prince Harry. I hear you are going with Lord John of Lancaster against the Archbishop and the [[Earl of Northumberland]]. |
+| SIR JOHN | Yea, I thank your pretty sweet wit for it. But look you pray, all you that kiss my lady Peace at [[Home\|home]], that our armies join not in a hot day; for, by the Lord, I take but two shirts out with me, and I mean not to sweat extraordinarily. If it be a hot day and I brandish anything but my bottle, would I might never spit white again. There is not a dangerous action can peep out his head but I am thrust upon it. [[Well]], I cannot last ever. But it was alway yet the trick of our English nation, if they have a good thing, to make it too common. If ye will needs say I am an old man, you should give me rest. I would to God my name were not so terrible to the enemy as it is. I were better to be eaten to [[Death\|death]] with a rust than to be scoured to nothing with perpetual motion. |
+| [[Lord Chief Justice\|LORD CHIEF JUSTICE]] | [[Well]], be honest, be honest, and God bless your expedition. |
+| SIR JOHN | Will your lordship lend me a thousand pound to furnish me forth? |
+| [[Lord Chief Justice\|LORD CHIEF JUSTICE]] | Not a penny, not a penny. You are too impatient to bear crosses. Fare you [[Well\|well]]. Commend me to my cousin Westmorland. |
+| *(didascalia)* | Exeunt [[Lord Chief Justice]] and his Servant |
+| SIR JOHN | If I do, fillip me with a three-man beetle. A man can no more separate age and covetousness than a can part young limbs and lechery; but the gout galls the one and the pox pinches the other, and so both the degrees prevent my curses. Boy! |
+| PAGE | Sir. |
+| SIR JOHN | What money is in my purse? |
+| PAGE | Seven groats and two pence. |
+| *(didascalia)* | SIR JOHN I can get no remedy against this consumption of the purse. Borrowing only lingers and lingers it out, but the disease is incurable. (Giving letters) Go bear this letter to my lord of Lancaster; this to the Prince; this to the Earl of Westmorland; and this to old Mistress Ursula, whom I have weekly sworn to marry since I perceived the first white hair of my chin. About it. You know where to find me. Exit Pagel A pox of this gout!—or a gout of this pox!—for the one or the other plays the rogue with my great toe. ’Tis no matter if I do halt; I have the wars for my colour, and my pension shall seem the more reasonable. A good wit will make use of anything. I will turn diseases to commodity. Exit |
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -1915,7 +1991,7 @@ wrongs. Exit
 
 
 
-<span class="atom-split" data-atom="act_2--scene_3" data-title="2 Henry IV — Act II, Scene 3" data-chapter="Scene 3" data-kind="scene" data-tags="archetype/ghost,archetype/king,motif/blood,motif/grave,motif/home,motif/nature,motif/time,concept/honour,concept/nature,character/arthur,character/earl_of_northumberland,character/henry_iv,character/hotspur"></span>
+<span class="atom-split" data-atom="act_2--scene_3" data-title="2 Henry IV — Act II, Scene 3" data-chapter="Scene 3" data-kind="scene" data-tags="archetype/fool,archetype/ghost,archetype/king,archetype/villain,motif/blood,motif/chains,motif/death,motif/desire,motif/fire,motif/grave,motif/hill,motif/home,motif/love,motif/nature,motif/night,motif/rose,motif/sleep,motif/stars,motif/time,motif/well,motif/wheel,motif/wind,concept/body,concept/faith,concept/fear,concept/honour,concept/nature,concept/revenge,concept/suffering,concept/truth,setting/court,setting/london,character/agamemnon,character/arthur,character/doll_tearsheet,character/earl_of_northumberland,character/falstaff,character/hector,character/henry_iv,character/hotspur,character/lucifer,character/mistress_quickly,character/pistol,character/saturn,character/venus"></span>
 
 
 | Speaker | Line |
@@ -1929,6 +2005,188 @@ wrongs. Exit
 | LADY NORTHUMBERLAND | O fly to Scotland,<br>Till that the nobles and the armed commons<br>Have of their puissance made a little taste. |
 | LADY PERCY | If they get ground and vantage of the [[King]],<br>Then join you with them like a rib of steel,<br>To make strength stronger; but, for all our loves,<br>First let them try themselves. So did your son.<br>He was so suffered. So came I a widow,<br>And never shall have length of life enough<br>To rain upon remembrance with mine eyes,<br>That it may grow and sprout as high as heaven<br>For recordation to my noble husband. |
 | NORTHUMBERLAND | Come, come, go in with me. ’Tis with my mind<br>As with the tide swelled up unto his height,<br>That makes a still stand, running neither way.<br>Fain would I go to meet the Archbishop,<br>But many thousand reasons hold me back.<br>I will resolve for Scotland. There am I<br>Till [[Time\|time]] and vantage crave my company. Exeunt |
+| *(didascalia)* | 2.4 A table and chairs set forth. Enter a Drawer With [[Wind\|wind]] and another Drawer With a dish of apple-johns |
+| *(didascalia)* | FIRST DRAWER What the devil hast thou brought there—apple-johns? Thou knowest Sir John cannot endure an apple-john. |
+| *(didascalia)* | SECOND DRAWER Mass, thou sayst true. The Prince once set a dish of apple-johns before him; and told him, there were five more Sir Johns; and, putting off his hat, said ‘I will now take my leave of these six dry, round, old, withered knights.’ It angered him to the heart. But he hath forgot that. |
+| *(didascalia)* | FIRST DRAWER Why then, cover, and set them down; and see if thou canst find out Sneak’s noise. Mistress Tearsheet would fain hear some music. |
+| *(didascalia)* | Exit the Second Drawer |
+| *(didascalia)* | The First Drawer covers the table. |
+| *(didascalia)* | Enter the Second Drawer |
+| *(didascalia)* | SECOND DRAWER Sirrah, here will be the Prince and Master Poins anon, and they will put on two of our jerkins and aprons, and Sir John must not know of it. Bardolph hath brought word. |
+| *(didascalia)* | FIRST DRAWER By the mass, here will be old utis! It will be an excellent stratagem. |
+| *(didascalia)* | SECOND DRAWER I’ll see if I can find out Sneak. Exeunt Enter [[Mistress Quickly]] and [[Doll Tearsheet]], drunk |
+| [[Mistress Quickly\|MISTRESS QUICKLY]] | I‘[[Faith\|faith]], sweetheart, methinks now you are in an excellent good temperality. Your pulsidge beats as extraordinarily as heart would [[Desire\|desire]], and your colour, I warrant you, is as red as any [[Rose\|rose]], in good [[Truth\|truth]], la; but i’[[Faith\|faith]], you have drunk too much canaries, and that’s a marvellous searching wine, and it perfumes the [[Blood\|blood]] ere we can say ‘What’s this?’ How do you now? |
+| [[Doll Tearsheet\|DOLL TEARSHEET]] | Better than I was.—Hem! |
+| [[Mistress Quickly\|MISTRESS QUICKLY]] | Why, that’s [[Well\|well]] said! A good heart’s worth gold. |
+| *(didascalia)* | Enter Sir John [[Falstaff]] |
+| [[Mistress Quickly\|MISTRESS QUICKLY]] | Lo, here comes Sir John. |
+| *(didascalia)* | SIR JOHN (sings) ‘When [[arthur\|Arthur]] first in [[Court\|court]]’—Calls Empty the jordan!—(Sings) ‘And was a worthy [[King\|king]]’—How now, Mistress Doll? |
+| [[Mistress Quickly\|MISTRESS QUICKLY]] | Sick of a qualm, yea, good [[Faith\|faith]]. |
+| SIR JOHN | So is all her sect; an they be once in a calm, they are sick. |
+| [[Doll Tearsheet\|DOLL TEARSHEET]] | A pox damn you, you muddy rascal! Is that all the comfort you give me? |
+| SIR JOHN | You make fat rascals, Mistress Doll. |
+| [[Doll Tearsheet\|DOLL TEARSHEET]] | I make them? Gluttony and diseases make them; I make them not. |
+| SIR JOHN | If the cook help to make the gluttony, you help to make the diseases, Doll. We catch of you, Doll, we catch of you; grant that, my poor virtue, grant that. |
+| [[Doll Tearsheet\|DOLL TEARSHEET]] | Yea, Jesu, our [[Chains\|chains]] and our jewels. |
+| SIR JOHN | ’Your brooches, pearls, and ouches’—for to serve bravely is to come halting off, you know; to come off the breach with his pike bent bravely, and to surgery bravely; to venture upon the charged chambers bravely. |
+| [[Mistress Quickly\|MISTRESS QUICKLY]] | By my troth, this is the old fashion. You two never meet but you fall to some discord. You are both, i’ good [[Truth\|truth]], as rheumatic as two dry toasts; you cannot one bear with another’s confirmities. What the goodyear, one must bear, (to Doll) and that must be you. You are the weaker vessel, as they say, the emptier vessel. |
+| [[Doll Tearsheet\|DOLL TEARSHEET]] | Can a weak empty vessel bear such a huge full hogshead? There’s a whole merchant’s venture of Bordeaux stuff in him; you have not seen a hulk better stuffed in the hold.—Come, I’ll be friends with thee, Jack. Thou art going to the wars, and whether I shall ever see thee again or no there is nobody cares. |
+| *(didascalia)* | Enter a Drawer |
+| DRAWER | Sir, Ensign [[Pistol]]’s below, and would speak with you. |
+| [[Doll Tearsheet\|DOLL TEARSHEET]] | Hang him, swaggering rascal, let him not come hither. It is the foul-mouthedest rogue in England. |
+| [[Mistress Quickly\|MISTRESS QUICKLY]] | If he swagger, let him not come here. No, by my [[Faith\|faith]]! I must live among my neighbours; I’ll no swaggerers. I am in good name and fame with the very best. Shut the door; there comes no swaggerers here. I have not lived all this while to have swaggering now. Shut the door, I pray you. |
+| SIR JOHN | Dost thou hear, hostess? |
+| [[Mistress Quickly\|MISTRESS QUICKLY]] | Pray ye pacify yourself, Sir John. There comes no swaggerers here. |
+| SIR JOHN | Dost thou hear? It is mine ensign. |
+| [[Mistress Quickly\|MISTRESS QUICKLY]] | Tilly-fally, Sir John, ne‘er tell me. Your ensign-swaggerer comes not in my doors. I was before Master Tisick the debuty t’other day, and, as he said to me—’twas no longer ago than Wed‘sday last, i’ good [[Faith\|faith]]—‘Neighbour Quickly,’ says he—Master Dumb our minister was by then—‘Neighbour Quickly,’ says he, ‘receive those that are civil, for,’ said he, ‘you are in an ill name.’ Now a said so, I can tell whereupon. ‘For,’ says he, ‘you are an honest woman, and [[Well\|well]] thought on; therefore take heed what guests you receive. Receive,‘ says he, ‘no swaggering companions.’ There comes none here. You would bless you to hear what he said. No, I’ll no swaggerers. |
+| *(didascalia)* | SIR JOHN He’s no swaggerer, hostess—a tame cheater, i’[[Faith\|faith]]. You may stroke him as gently as a puppy greyhound. He’ll not swagger with a Barbary hen, if her feathers turn back in any show of resistance.—Call him up, drawer. Exit Drawer |
+| [[Mistress Quickly\|MISTRESS QUICKLY]] | Cheater call you him? I will bar no honest man my [[house]], nor no cheater, but I do not [[Love\|love]] swaggering, by my troth, I am the worse when one says ‘swagger’. Feel, masters, how I shake, look you, I warrant you. |
+| [[Doll Tearsheet\|DOLL TEARSHEET]] | So you do, hostess. |
+| [[Mistress Quickly\|MISTRESS QUICKLY]] | Do I? Yea, in very [[Truth\|truth]] do I, an ’twere an aspen leaf. I cannot abide swaggerers. |
+| *(didascalia)* | Enter [[Pistol]], Bardolph, and the Page |
+| [[Pistol\|PISTOL]] | God save you, Sir John. |
+| SIR JOHN | Welcome, Ensign [[Pistol]]. Here, [[Pistol]], I charge you with a cup of sack. Do you discharge upon mine hostess. |
+| [[Pistol\|PISTOL]] | I will discharge upon her, Sir John, with two bullets. |
+| SIR JOHN | She is [[Pistol\|pistol]]-proof, sir, you shall not hardly offend her. |
+| [[Mistress Quickly\|MISTRESS QUICKLY]] | Come, I’ll drink no proofs, nor no bullets. I’ll drink no more than will do me good, for no man’s pleasure, I. |
+| [[Pistol\|PISTOL]] | Then to you, Mistress Dorothy! I will charge you. |
+| [[Doll Tearsheet\|DOLL TEARSHEET]] | Charge me? I scorn you, scurvy companion. What, you poor, base, rascally, cheating, lack-linen mate! Away, you mouldy rogue, away! I am meat for your master. |
+| [[Pistol\|PISTOL]] | I know you, Mistress Dorothy. |
+| [[Doll Tearsheet\|DOLL TEARSHEET]] | Away, you cutpurse rascal, you filthy bung, away! By this wine, I’ll thrust my knife in your mouldy chaps an you play the saucy cuttle with me! |
+| *(didascalia)* | She brandishes a knife |
+| [[Doll Tearsheet\|DOLL TEARSHEET]] | Away, you bottle-ale rascal, you basket-hilt stale juggler, you! |
+| *(didascalia)* | [[Pistol]] draws his [[Sword\|sword]] |
+| [[Doll Tearsheet\|DOLL TEARSHEET]] | Since when, I pray you, sir? God’s light, with two points on your shoulder! Much! |
+| [[Pistol\|PISTOL]] | God let me not live, but I will murder your ruff for this. |
+| [[Mistress Quickly\|MISTRESS QUICKLY]] | No, good Captain [[Pistol]]; not here, sweet captain. |
+| [[Doll Tearsheet\|DOLL TEARSHEET]] | Captain? Thou abominable damned cheater, art thou not ashamed to be called ‘captain’? An captains were of my mind, they would truncheon you out, for taking their names upon you before you have earned them. You a captain? You slavel For what? For tearing a poor whore’s ruff in a bawdy-[[house]]! He a captain? Hang him, rogue, he lives upon mouldy stewed prunes and dried cakes. A captain? God’s light, these villains will make the word ’captain’ odious; therefore captains had need look to’t. |
+| BARDOLPH | Pray thee, go down, good ensign. |
+| SIR JOHN | Hark thee hither, Mistress Doll.<br>He takes her aside |
+| [[Pistol\|PISTOL]] | Not II I tell thee what, Corporal Bardolph, I could tear her! I’ll be revenged of her. |
+| PAGE | Pray thee, go down. |
+| [[Pistol\|PISTOL]] | I’ll see her damned first<br>To Pluto’s damned lake, by this hand,<br>To th’infernal deep,<br>Where Erebus, and tortures vile also.<br>‘Hold hook and line!’ say I.<br>Down, down, [[dogs]]; down, Fates.<br>Have we not Hiren here? |
+| [[Mistress Quickly\|MISTRESS QUICKLY]] | Good Captain Pizzle, be quiet. ‘Tis very late, i’[[Faith\|faith]]. I beseek you now, aggravate your choler. |
+| [[Pistol\|PISTOL]] | These be good humours indeed!<br>Shall pack-horses<br>And hollow pampered jades of Asia,<br>Which cannot go but thirty mile a day,<br>Compare with Caesars and with cannibals,<br>And Trojan Greeks?<br>Nay, rather damn them with [[King]] Cerberus,<br>And let the welkin roar. Shall we fall foul for toys? |
+| [[Mistress Quickly\|MISTRESS QUICKLY]] | By my troth, captain, these are very bitter words. |
+| BARDOLPH | Be gone, good ensign; this will grow to a brawl anon. |
+| [[Pistol\|PISTOL]] | Die men like [[dogs]]! Give crowns like pins!<br>Have we not Hiren here? |
+| [[Mistress Quickly\|MISTRESS QUICKLY]] O’ | my word, captain, there’s none such here. What the goodyear, do you think I would deny her? For God’s sake, be quiet. |
+| [[Pistol\|PISTOL]] | Then feed and be fat, my fair Calipolis.<br>Come, give’s some sack.<br>Si fortune me tormente, sperato me contento.<br><br>[[Fear]] we broadsides? No; let the fiend give [[Fire\|fire]]!<br>Give me some sack; and, sweetheart, lie thou there. |
+| *(didascalia)* | He lays down his [[Sword\|sword]] |
+| [[Pistol\|PISTOL]] | Come we to full points here? And are etceteras nothings? |
+| *(didascalia)* | He drinks |
+| SIR JOHN | [[Pistol]], I would be quiet. |
+| [[Pistol\|PISTOL]] | Sweet knight, I kiss thy neaf. What, we have seen the seven [[Stars\|stars]]! |
+| [[Doll Tearsheet\|DOLL TEARSHEET]] | For God’s sake, thrust him downstairs. I cannot endure such a fustian rascal. |
+| [[Pistol\|PISTOL]] | Thrust him downstairs? Know we not Galloway nags? |
+| SIR JOHN | Quoit him down, Bardolph, like a shove-groat shilling. Nay, an a do nothing but speak nothing, a shall be nothing here. |
+| BARDOLPH | (to [[Pistol]]) Come, get you downstairs. |
+| *(didascalia)* | [[Pistol\|PISTOL]] taking up his [[Sword\|sword]] |
+| BARDOLPH | What, shall we have incision? Shall we imbrue?<br>Then [[Death\|death]] rock me asleep, abridge my doleful days.<br>Why then, let grievous, ghastly, gaping wounds<br>Untwine the Sisters Three. Come, Atropos, I say! |
+| [[Mistress Quickly\|MISTRESS QUICKLY]] | Here’s goodly stuff toward! |
+| SIR JOHN | Give me my rapier, boy. |
+| [[Doll Tearsheet\|DOLL TEARSHEET]] | I pray thee, Jack, I pray thee, do not draw. |
+| SIR JOHN | (taking his rapier and speaking to [[Pistol]]) Get you downstairs.<br>Sir John, Bardolph, and [[Pistol]] brawl |
+| [[Mistress Quickly\|MISTRESS QUICKLY]] | Here’s a goodly tumult! I’ll forswear keeping [[house]] afore I’ll be in these tirrits and frights! |
+| *(didascalia)* | Sir John thrusts at [[Pistol]] |
+| [[Mistress Quickly\|MISTRESS QUICKLY]] | So! |
+| *(didascalia)* | [[Pistol]] thrusts at Sir John |
+| [[Mistress Quickly\|MISTRESS QUICKLY]] | Murder, I warrant now! Alas, alas, put up your naked<br>weapons, put up your naked weapons! |
+| *(didascalia)* | Exit [[Pistol]], pursued by Bardolph |
+| [[Doll Tearsheet\|DOLL TEARSHEET]] | I pray thee, Jack, be quiet; the rascal’s gone. Ah, you whoreson little valiant [[Villain\|villain]], you! |
+| [[Mistress Quickly\|MISTRESS QUICKLY]] | (to Sir John) Are you not hurt i’th’ groin? Methought a made a shrewd thrust at your belly. |
+| *(didascalia)* | Enter Bardolph |
+| SIR JOHN | Have you turned him out o’doors? |
+| BARDOLPH | Yea, sir. The rascal’s drunk. You have hurt him, sir, i’th’ shoulder. |
+| SIR JOHN | A rascal, to brave me! |
+| [[Doll Tearsheet\|DOLL TEARSHEET]] | Ah, you sweet little rogue, you! Alas, poor ape, how thou sweatest! Come, let me wipe thy face; come on, you whoreson chops. Ah rogue, i’[[Faith\|faith]], I [[Love\|love]] thee. Thou art as valorous as [[Hector]] of Troy, worth five of [[Agamemnon]], and ten times better than the Nine Worthies. Ah, [[Villain\|villain]]! |
+| SIR JOHN | A rascally slave! I will toss the rogue in a blanket. |
+| [[Doll Tearsheet\|DOLL TEARSHEET]] | Do, an thou darest for thy heart. An thou dost, I’ll canvas thee between a pair of sheets. |
+| *(didascalia)* | Enter musicians |
+| PAGE | The music is come, sir. |
+| SIR JOHN | Let them play.—Play, sirs! |
+| *(didascalia)* | Music plays |
+| SIR JOHN | Sit on my knee, Doll. A rascal bragging slave! The rogue fled from me like quicksilver. |
+| [[Doll Tearsheet\|DOLL TEARSHEET]] | I‘[[Faith\|faith]], and thou followed’st him like a church. Thou whoreson little tidy Bartholomew boar-pig, when wilt thou leave fighting o‘days, and foining o’nights, and begin to patch up thine old [[Body\|body]] for heaven? |
+| *(didascalia)* | Enter Prince Harry and Poins, disguised as drawers |
+| SIR JOHN | Peace, good Doll, do not speak like a [[Death\|death]]’s-head, do not bid me remember mine end. |
+| [[Doll Tearsheet\|DOLL TEARSHEET]] | Sirrah, what [[Humour\|humour]]’s the Prince of? |
+| SIR JOHN | A good shallow young fellow. A would have made a good pantler; a would ha’ chipped bread [[Well\|well]]. |
+| [[Doll Tearsheet\|DOLL TEARSHEET]] | They say Poins has a good wit. |
+| SIR JOHN | He a good wit? Hang him, baboon! His wit’s as thick as Tewkesbury mustard; there’s no more conceit in him than is in a mallet. |
+| [[Doll Tearsheet\|DOLL TEARSHEET]] | Why does the Prince [[Love\|love]] him so, then? |
+| SIR JOHN | Because their legs are both of a bigness, and a plays at quoits [[Well\|well]], and eats conger and fennel, and drinks off candles’ ends for flap-dragons, and rides the wild mare with the boys, and jumps upon joint-stools, and swears with a good grace, and wears his boot very smooth like unto the sign of the leg, and breeds no bate with telling of discreet stories, and such other gambol faculties a has that show a weak mind and an able [[Body\|body]]; for the which the Prince admits him; for the Prince himself is such another—the weight of a hair will turn the scales between their avoirdupois. |
+| PRINCE HARRY | (aside to Poins) Would not this nave of a [[Wheel\|wheel]] have his ears cut off? |
+| POINS | Let’s beat him before his whore. |
+| PRINCE HARRY | Look whe’er the withered elder hath not his poll clawed like a parrot. |
+| POINS | Is it not strange that [[Desire\|desire]] should so many years outlive performance? |
+| SIR JOHN | Kiss me, Doll.<br>They kiss |
+| PRINCE HARRY | (aside to Poins) [[Saturn]] and [[Venus]] this year in conjunction! What says th’almanac to that? |
+| POINS | And look whether the fiery Trigon his man be not lisping to his master’s old tables, his note-book, his counsel-keeper! |
+| SIR JOHN | (to Doll) Thou dost give me flattering busses. |
+| [[Doll Tearsheet\|DOLL TEARSHEET]] | By my troth, I kiss thee with a most constant heart. |
+| SIR JOHN | I am old, I am old. |
+| [[Doll Tearsheet\|DOLL TEARSHEET]] | I [[Love\|love]] thee better than I [[Love\|love]] e’er a scurvy young boy of them all. |
+| SIR JOHN | What stuff wilt have a kirtle of? I shall receive money o’[[thursday\|Thursday]]; shalt have a cap tomorrow.—A merry [[Song\|song]]! |
+| *(didascalia)* | The music plays again |
+| SIR JOHN | Come, it grows late; we’ll to bed. Thou’lt forget me when I am gone. |
+| [[Doll Tearsheet\|DOLL TEARSHEET]] | By my troth, thou‘lt set me a-weeping an thou sayst so. Prove that ever I dress myself handsome till thy return—[[Well\|well]], hearken a’th’ end. |
+| SIR JOHN | Some sack, Francis. |
+| PRINCE | and POINS (coming forward) Anon, anon, sir. |
+| SIR JOHN | Ha, a bastard son of the [[King]]’s !—And art not thou Poins his brother? |
+| PRINCE HARRY | Why, thou globe of sinful continents, what a life dost thou lead! |
+| SIR JOHN | A better than thou: I am a gentleman, thou art a drawer. |
+| PRINCE HARRY | Very true, sir, and I come to draw you out by the ears. |
+| [[Mistress Quickly\|MISTRESS QUICKLY]] | O, the Lord preserve thy grace! By my troth, welcome to [[London]]! Now the Lord bless that sweet face of thine! O Jesu, are you come from Wales? |
+| SIR JOHN | (to Prince Harry) Thou whoreson mad compound of majesty! By this light—flesh and corrupt [[Blood\|blood]], thou art welcome. |
+| [[Doll Tearsheet\|DOLL TEARSHEET]] | How, you fat [[Fool\|fool]]? I scorn you. |
+| POINS | (to Prince Harry) My lord, he will drive you out of your [[Revenge\|revenge]] and turn all to a merriment, if you take not the heat. |
+| PRINCE HARRY | (to Sir John) You whoreson candlemine you, how vilely did you speak of me now, before this honest, virtuous, civil gentlewoman! |
+| [[Mistress Quickly\|MISTRESS QUICKLY]] | God’s blessing of your good heart, and so she is, by my troth! |
+| SIR JOHN | (to Prince Harry) Didst thou hear me? |
+| PRINCE HARRY | Yea, and you knew me as you did when you ran away by Gads [[Hill]]; you knew I was at your back, and spoke it on purpose to try my patience. |
+| SIR JOHN | No, no, no, not so, I did not think thou wast within hearing. |
+| PRINCE HARRY | I shall drive you, then, to confess the wilful abuse, and then I know how to handle you. |
+| SIR JOHN | No abuse, Hal; o’mine [[Honour\|honour]], no abuse. |
+| PRINCE HARRY | Not? To dispraise me, and call me ‘pantler’ and ‘bread-chipper’ and I know not what? |
+| SIR JOHN | No abuse, Hal. |
+| POINS | No abuse? |
+| SIR JOHN | No abuse, Ned, i’th’ world, honest Ned, none. I dispraised him before the wicked, that the wicked might not fall in [[Love\|love]] with him; (to Prince Harry) in which doing I have done the part of a careful friend and a true subject, and thy father is to give me thanks for it. No abuse, Hal; none, Ned, none; no, [[Faith\|faith]], boys, none. |
+| PRINCE HARRY | See now whether pure [[Fear\|fear]] and entire cowardice doth not make thee wrong this virtuous gentlewoman to close with us. Is she of the wicked? Is thine hostess here of the wicked? Or is thy boy of the wicked? Or honest Bardolph, whose zeal burns in his nose, of the wicked? |
+| POINS | (to Sir John) Answer, thou dead elm, answer. |
+| SIR JOHN | The fiend hath pricked down Bardolph irrecoverable, and his face is [[Lucifer]]’s privy kitchen, where he doth nothing but roast malt-worms. For the boy, there is a good angel about him, but the devil outbids him, too. |
+| PRINCE HARRY | For the women? |
+| SIR JOHN | For one of them, she’s in hell already, and burns poor souls. For th’other, I owe her money, and whether she be damned for that I know not. |
+| [[Mistress Quickly\|MISTRESS QUICKLY]] | No, I warrant you. |
+| SIR JOHN | No, I think thou art not; I think thou art quit for that. Marry, there is another indictment upon thee, for [[Suffering\|suffering]] flesh to be eaten in thy [[house]], contrary to the law, for the which I think thou wilt howl. |
+| [[Mistress Quickly\|MISTRESS QUICKLY]] | All victuallers do so. What’s a joint of mutton or two in a whole Lent? |
+| PRINCE HARRY | You, gentlewoman— |
+| [[Doll Tearsheet\|DOLL TEARSHEET]] | What says your grace? |
+| SIR JOHN | His grace says that which his flesh rebels against.<br>Peto knocks at door within |
+| [[Mistress Quickly\|MISTRESS QUICKLY]] | Who knocks so loud at door? (Calls)<br>Look to th’ door there, Francis. |
+| *(didascalia)* | Enter Peto |
+| PRINCE HARRY | Peto, how now, what news? |
+| PETO | The [[King]] your father is at Westminster;<br>And there are twenty weak and wearied posts<br>Come from the north; and as I came along<br>I met and overtook a dozen captains,<br>Bareheaded, sweating, knocking at the taverns,<br>And asking every one for Sir John [[Falstaff]]. |
+| PRINCE HARRY | By heaven, Poins, I feel me much to blame<br>So idly to profane the precious [[Time\|time]],<br>When tempest of commotion, like the south<br>Borne with black vapour, doth begin to melt<br>And drop upon our bare unarmed heads.—<br>Give me my [[Sword\|sword]] and cloak.—[[Falstaff]], good [[Night\|night]]. |
+| *(didascalia)* | Exeunt Prince Harry and Poins |
+| SIR JOHN | Now comes in the sweetest morsel of the [[Night\|night]],<br>and we must hence and leave it unpicked. 371 |
+| *(didascalia)* | Knocking within. Exit Bardolph |
+| SIR JOHN | More knocking at the door! |
+| *(didascalia)* | Enter Bardolph |
+| SIR JOHN | How now, what’s the matter? |
+| BARDOLPH | You must away to [[Court\|court]], sir, presently.<br>A dozen captains stay at door for you. |
+| *(didascalia)* | SIR JOHN to the Page Pay the musicians, sirrah. Farewell, hostess; farewell, Doll. You see, my good wenches, how men of merit are sought after. The undeserver may [[Sleep\|sleep]], when the man of action is called on. Farewell, good wenches. If I be not sent away post, I will see you again ere I go. Exeunt musicians |
+| *(didascalia)* | [[Doll Tearsheet\|DOLL TEARSHEET]] weeping I cannot speak. If my heart be not ready to burst—[[Well\|well]], sweet Jack, have a care of thyself. |
+| SIR JOHN | Farewell, farewell! 385 |
+| *(didascalia)* | Exit with Bardolph, Peto, and the Page |
+| [[Mistress Quickly\|MISTRESS QUICKLY]] | [[Well]], fare thee [[Well\|well]]. I have known thee these twenty-nine years come peascod-[[Time\|time]], but an honester and truer-hearted man—[[Well\|well]], fare thee [[Well\|well]]. |
+| *(didascalia)* | Enter Bardolph |
+| BARDOLPH | Mistress Tearsheet! |
+| [[Mistress Quickly\|MISTRESS QUICKLY]] | What’s the matter? 390 |
+| BARDOLPH | Bid Mistress Tearsheet come to my master. |
+| *(didascalia)* | Exit |
+| [[Mistress Quickly\|MISTRESS QUICKLY]] | O run, Doll; run, run, good Doll! |
+| *(didascalia)* | Exeunt Doll at one door, [[Mistress Quickly]] at another door |
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -3285,7 +3543,7 @@ wrongs. Exit
 
 
 
-<span class="atom-split" data-atom="act_5--scene_2" data-title="2 Henry IV — Act V, Scene 2" data-chapter="Scene 2" data-kind="scene" data-tags="archetype/king,motif/blood,motif/grave,motif/love,motif/nature,motif/prison,motif/soul,motif/tears,motif/time,motif/well,concept/body,concept/faith,concept/fear,concept/greatness,concept/honour,concept/hope,concept/nature,concept/truth,concept/vanity,setting/court,character/clarence,character/earl_of_warwick,character/falstaff,character/gloucester,character/henry_iv,character/lord_chief_justice,character/prince_john,character/young_king"></span>
+<span class="atom-split" data-atom="act_5--scene_2" data-title="2 Henry IV — Act V, Scene 2" data-chapter="Scene 2" data-kind="scene" data-tags="topos/double,archetype/king,motif/blood,motif/grave,motif/horse,motif/love,motif/nature,motif/night,motif/prison,motif/silence,motif/soul,motif/tears,motif/time,motif/well,motif/wind,concept/body,concept/faith,concept/fear,concept/greatness,concept/honour,concept/hope,concept/nature,concept/truth,concept/vanity,setting/court,setting/london,character/bottom,character/clarence,character/earl_of_warwick,character/falstaff,character/gloucester,character/henry_iv,character/lord_chief_justice,character/master_page,character/pistol,character/prince_john,character/robin_hood,character/young_king"></span>
 
 
 | Speaker | Line |
@@ -3322,6 +3580,84 @@ wrongs. Exit
 | PRINCE HARRY | No? How might a prince of my great hopes forget<br>So great indignities you laid upon me?<br>What—rate, rebuke, and roughly send to [[Prison\|prison]]<br>Th’immediate heir of England? Was this easy?<br>May this be washed in Lethe and forgotten ? |
 | [[Lord Chief Justice\|LORD CHIEF JUSTICE]] | I then did use the person of your father.<br>The image of his power lay then in me;<br>And in th’administration of his law,<br>Whiles I was busy for the commonwealth,<br>Your highness pleased to forget my place,<br>The majesty and power of law and justice,<br>The image of the [[King]] whom I presented,<br>And struck me in my very seat of judgement;<br>Whereon, as an offender to your father,<br>I gave bold way to my authority<br>And did commit you. If the deed were ill,<br>Be you contented, wearing now the garland,<br>To have a son set your decrees at naught—<br>To pluck down justice from your awe-full bench,<br>To trip the course of law, and blunt the [[Sword\|sword]]<br>That guards the peace and safety of your person,<br>Nay, more, to spurn at your most royal image,<br>And mock your workings in a second [[Body\|body]]?<br>Question your royal thoughts, make the case yours,<br>Be now the father, and propose a son;<br>Hear your own dignity so much profaned,<br>See your most dreadful laws so loosely slighted,<br>Behold yourself so by a son disdained;<br>And then imagine me taking your part,<br>And in your power soft silencing your son.<br>After this cold considerance, sentence me;<br>And, as you are a [[King\|king]], speak in your state<br>What I have done that misbecame my place,<br>My person, or my liege’s sovereignty. |
 | PRINCE HARRY | You are right Justice, and you weigh this [[Well\|well]].<br>Therefore still bear the balance and the [[Sword\|sword]];<br>And I do wish your honours may increase<br>Till you do live to see a son of mine<br>Offend you and obey you as I did.<br>So shall I live to speak my father’s words:<br>‘Happy am I that have a man so bold<br>That dares do justice on my proper son,<br>And not less happy having such a son<br>That would deliver up his [[Greatness\|greatness]] so<br>Into the hands of justice.’ You did commit me,<br>For which I do commit into your hand<br>Th‘unstainèd [[Sword\|sword]] that you have used to bear,<br>With this remembrance: that you use the same<br>With the like bold, just, and impartial spirit<br>As you have done ’gainst me. There is my hand.<br>You shall be as a father to my youth;<br>My voice shall sound as you do prompt mine ear,<br>And I will stoop and humble my intents<br>To your [[Well\|well]]-practised wise directions.—<br>And princes all, believe me, I beseech you,<br>My father is gone wild into his [[Grave\|grave]],<br>For in his tomb lie my affections;<br>And with his spirits sadly I survive<br>To mock the expectation of the world,<br>To frustrate prophecies, and to raze out<br>Rotten opinion, who hath writ me down<br>After my seeming. The tide of [[Blood\|blood]] in me<br>Hath proudly flowed in [[Vanity\|vanity]] till now.<br>Now doth it turn, and ebb back to the sea,<br>Where it shall mingle with the state of floods,<br>And flow henceforth in formal majesty.<br>Now call we our high [[Court\|court]] of Parliament,<br>And let us choose such limbs of noble counsel<br>That the great [[Body\|body]] of our state may go<br>In equal rank with the best-governed nation;<br>That war, or peace, or both at once, may be<br>As things acquainted and familiar to us;<br>(To [[Lord Chief Justice]])<br>In which you, father, shall have foremost hand.<br>(To all) Our coronation done, we will accite,<br>As I before remembered, all our state;<br>And, God consigning to my good intents,<br>No prince nor peer shall have just cause to say,<br>‘God shorten Harry’s happy life one day.’ Exeunt |
+| *(didascalia)* | 5.3 A table and chairs set forth. Enter Sir John [[Falstaff]], Shallow, [[Silence]], Davy With vessels for the table, Bardolph, and the Page |
+| SHALLOW | (to Sir John) Nay, you shall see my orchard, where, in an arbour, we will eat a last year’s pippin of mine own grafting, with a dish of caraways, and so forth—come, cousin [[Silence]]—and then to bed. |
+| SIR JOHN | Fore God, you have here a goodly dwelling and a rich. |
+| SHALLOW | Barren, barren, barren; beggars all, beggars all,<br>Sir John. Marry, good air.—Spread, Davy; spread, Davy. |
+| *(didascalia)* | Davy begins to spread the table |
+| SHALLOW | [[Well]] said, Davy. |
+| SIR JOHN | This Davy serves you for good uses; he is your serving-man and your husband. |
+| SHALLOW | A good varlet, a good varlet, a very good varlet, Sir John.—By the mass, I have drunk too much sack at supper.—A good varlet. Now sit down, now sit down. (To [[Silence]]) Come, cousin. |
+| [[Silence\|SILENCE]] | Ah, sirrah, quoth-a, we shall<br>(sings)<br>Do nothing but eat, and make good cheer,<br>And praise God for the merry year,<br>When flesh is cheap and females dear,<br>And lusty lads roam here and there<br>So merrily,<br>And ever among so merrily. |
+| SIR JOHN | There’s a merry heart, good Master [[Silence]]! I’ll give you a health for that anon. |
+| SHALLOW | Good Master Bardotph!—Some wine, Davy. |
+| *(didascalia)* | DAVY to Sir john Sweet sir, sit. To Bardolph I’ll be with you anon. To Sir John Most sweet sir, sit. [[Master Page\|Master page]], good [[Master Page\|master page]], sit. |
+| *(didascalia)* | All but Davy sit. Davy pours wine |
+| SHALLOW | Proface! What you want in meat, we’ll have in drink; but you must bear; the heart’s all. |
+| SHALLOW | Be merry, Master Bardolph and my little soldier there, be merry. |
+| [[Silence\|SILENCE]] | (sings)<br>Be merry, be merry, my wife has all,<br>For women are shrews, both short and tall,<br>’Tis merry in hall when beards wags all,<br>And welcome merry shrovetide.<br>Be merry, be merry. |
+| JOHN | I did not think Master [[Silence]] had been a man of this mettle. |
+| [[Silence\|SILENCE]] | Who, I? I have been merry twice and once ere now. |
+| *(didascalia)* | Enter Davy With a dish of apples |
+| DAVY | There’s a dish of leather-coats for you. |
+| SHALLOW | Davy! |
+| *(didascalia)* | DAVY Your worship! I’ll be with you straight. To Sir John A cup of wine, sir? |
+| *(didascalia)* | [[Silence\|SILENCE]] sings |
+| SHALLOW | A cup of wine<br>That’s brisk and fine,<br>And drink unto thee, leman mine,<br>And a merry heart lives long-a. |
+| SIR JOHN | [[Well]] said, Master [[Silence]]. |
+| [[Silence\|SILENCE]] | And we shall be merry; now comes in the sweet o’th’ [[Night\|night]]. |
+| SIR JOHN | Health and long life to you, Master [[Silence]]! He drinks |
+| [[Silence\|SILENCE]] | Fill the cup and let it come. I’ll pledge you a mile to th’ [[Bottom\|bottom]]. |
+| SHALLOW | Honest Bardolph, welcome! If thou want’st anything and wilt not call, beshrew thy heart! (To the Page) Welcome, my little tiny thief, and welcome indeed, too!-I’ll drink to Master Bardolph, and to all the cavalieros about [[London]].<br>He drinks |
+| DAVY | I [[Hope\|hope]] to see [[London]] once ere I die. |
+| BARDOLPH | An I might see you there, Davy! |
+| SHALLOW | By the mass, you’ll crack a quart together, ha, will you not, Master Bardolph? |
+| BARDOLPH | Yea, sir, in a pottle-pot. |
+| SHALLOW | By God’s liggens, I thank thee. The knave will stick by thee, I can assure thee that; a will not out; ’tis true-bred. |
+| BARDOLPH | And I’ll stick by him, sir. |
+| SHALLOW | Why, there spoke a [[King\|king]]! Lack nothing, be merry!<br>One knocks at the door within<br>Look who’s at door there, ho! Who knocks? |
+| *(didascalia)* | Exit Davy |
+| *(didascalia)* | [[Silence]] drinks |
+| *(didascalia)* | SIR JOHN to [[Silence]] Why, now you have done me right! |
+| *(didascalia)* | [[Silence\|SILENCE]] sings Do me right, |
+| SHALLOW | And dub me knight—<br>Samingo.<br>Is’t not so? |
+| SIR JOHN | ’Tis so. |
+| [[Silence\|SILENCE]] | Is’t so?—Why then, say an old man can do somewhat. |
+| *(didascalia)* | Enter Davy |
+| DAVY | An’t please your worship, there’s one [[Pistol]] come from the [[Court\|court]] with news. |
+| SIR JOHN | From the [[Court\|court]]? Let him come in. |
+| *(didascalia)* | Enter [[Pistol]] |
+| SIR JOHN | How now, [[Pistol]]? |
+| [[Pistol\|PISTOL]] | Sir John, God save you. |
+| SIR JOHN | What [[Wind\|wind]] blew you hither, [[Pistol]]? |
+| [[Pistol\|PISTOL]] | Not the ill [[Wind\|wind]] which blows no man to good.<br>Sweet knight, thou art now one of the greatest men in<br>this realm. |
+| [[Silence\|SILENCE]] | By‘r Lady, I think a be—but goodman Puff of Bar’son. |
+| [[Pistol\|PISTOL]] | Puff?<br>Puff in thy teeth, most recreant coward base!—<br>Sir John, I am thy [[Pistol]] and thy friend,<br>And helter-skelter have I rode to thee,<br>And tidings do I bring, and lucky joys,<br>And golden times, and happy news of price. |
+| SIR JOHN | I pray thee now, deliver them like a man of this world. |
+| [[Pistol\|PISTOL]] | A foutre for the world and worldlings base!<br>I speak of Africa and golden joys. |
+| SIR JOHN | O base Assyrian knight, what is thy news?<br>Let [[King]] Cophetua know the [[Truth\|truth]] thereof. |
+| *(didascalia)* | [[Silence\|SILENCE]] singing |
+| SIR JOHN | ‘And [[Robin Hood]], Scarlet, and John.’ |
+| [[Pistol\|PISTOL]] | Shall dunghill curs confront the Helicons?<br>And shall good news be baffled?<br>Then [[Pistol]] lay thy head in Furies’ lap. |
+| SHALLOW | Honest gentleman, I know not your breeding. |
+| [[Pistol\|PISTOL]] | Why then, lament therefor. |
+| SHALLOW | Give me pardon, sir. If, sir, you come with news from the [[Court\|court]], I take it there’s but two ways: either to utter them, or conceal them. I am, sir, under the [[King]] in some authority. |
+| [[Pistol\|PISTOL]] | Under which [[King\|king]], besonian? Speak, or die. |
+| SHALLOW | Under [[King]] Harry. |
+| [[Pistol\|PISTOL]] | Harry the Fourth, or Fifth? |
+| SHALLOW | Harry the Fourth. |
+| [[Pistol\|PISTOL]] | A foutre for thine office!<br>Sir John, thy tender lambkin now is [[King\|king]].<br>Harry the Fifth’s the man. I speak the [[Truth\|truth]].<br>When [[Pistol]] lies, do this, (making the fig) and fig me,<br>Like the bragging Spaniard. |
+| SIR JOHN | What, is the old [[King]] dead? |
+| [[Pistol\|PISTOL]] | As nail in door. The things I speak are just. |
+| SIR JOHN | Away, Bardolph, saddle my [[Horse\|horse]]! Master Robert Shallow, choose what office thou wilt in the land; ’tis thine. [[Pistol]], I will [[Double\|double]]-charge thee with dignities. |
+| BARDOLPH | O joyful day!<br>I would not take a knighthood for my fortune. |
+| [[Pistol\|PISTOL]] | What, I do bring good news? |
+| SIR JOHN | (to Davy) Carry Master [[Silence]] to bed. |
+| *(didascalia)* | Exit Davy with [[Silence]] |
+| SIR JOHN | Master Shallow—my lord Shallow—be what thou wilt, I am fortune’s steward—get on thy boots; we’ll ride all [[Night\|night]].—O sweet [[Pistol]]!—Away, Bardolph! |
+| *(didascalia)* | Exit Bardolph |
+| SIR JOHN | Come, [[Pistol]], utter more to me, and withal devise something to do thyself good. Boot, boot, Master Shallow! I know the [[Young King\|young King]] is sick for me. Let us take any man’s horses—the laws of England are at my commandment. Blessed are they that have been my friends, and woe to my [[Lord Chief Justice]]. |
+| [[Pistol\|PISTOL]] | Let vultures vile seize on his lungs also!<br>‘Where is the life that late I led?’ say they.<br>Why, here it is. Welcome these pleasant days. Exeunt |
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -3577,7 +3913,7 @@ wrongs. Exit
 
 
 
-<span class="atom-split" data-atom="act_5--scene_5" data-title="2 Henry IV — Act V, Scene 5" data-chapter="Scene 5" data-kind="scene" data-tags="archetype/fool,archetype/king,motif/clock,motif/dance,motif/death,motif/desire,motif/fire,motif/grave,motif/home,motif/night,motif/pain,motif/prison,motif/time,motif/well,concept/body,concept/conscience,concept/doubt,concept/fear,concept/reform,concept/revenge,concept/self,concept/truth,character/clarence,character/falstaff,character/gloucester,character/helen,character/henry_iv,character/lord_chief_justice,character/pistol,character/prince_john,character/queen"></span>
+<span class="atom-split" data-atom="act_5--scene_5" data-title="2 Henry IV — Act V, Scene 5" data-chapter="Scene 5" data-kind="scene" data-tags="archetype/fool,archetype/hero,archetype/king,archetype/lover,motif/autumn,motif/clock,motif/dance,motif/death,motif/desire,motif/fire,motif/grave,motif/home,motif/love,motif/marriage,motif/night,motif/pain,motif/prison,motif/spring,motif/summer,motif/time,motif/well,concept/body,concept/conscience,concept/deception,concept/doubt,concept/fear,concept/imagination,concept/reform,concept/revenge,concept/self,concept/truth,character/beatrice,character/benedick,character/clarence,character/claudio,character/dogberry,character/don_john,character/don_pedro,character/edmund,character/falstaff,character/gloucester,character/helen,character/henry_iv,character/leonato,character/lord_chief_justice,character/orlando,character/pistol,character/prince_john,character/queen"></span>
 
 
 | Speaker | Line |
@@ -3637,6 +3973,8 @@ wrongs. Exit
 | A. AFTER | 2.2.22<br>And God knows whether those that bawl out the ruins of thy linen shall inherit his kingdom—but the midwives say the children are not in the fault, whereupon the world increases, and kindreds are mightily strengthened. |
 | B. AFTER | ‘LIQUORS!’, 3.1-52<br>O, if this were seen,<br>The happiest youth, viewing his progress through,<br>What perils past, what crosses to ensue,<br>Would shut the book and sit him down and die. |
 | C. AFTER | ‘FAMINE.’, 3.2.309<br>yet lecherous as a monkey; and the whores called him ‘mandrake’. A came ever in the rearward of the fashion, and sung those tunes to the overscutched hussies that he heard the carmen whistle, and sware they were his fancies or his good-nights. |
+| MUCH ADO ABOUT NOTHING | Much Ado About Nothing is not mentioned in the list of plays by Shakespeare given by Francis Meres in his Palladis Tamia, published in the [[Autumn\|autumn]] of 1598. Certain speech-prefixes of the first edition, published in 1600, suggest that as Shakespeare wrote he had in mind for the role of [[Dogberry]] the comic actor Will Kemp, who is believed to have left the Lord Chamberlain’s Men during 1599. Probably Shakespeare wrote the play between [[Summer\|summer]] 1598 and [[Spring\|spring]] 1599.<br>The action is set in Sicily, where [[Don Pedro]], Prince of Aragon, has recently defeated his half-brother, the bastard [[Don John]], in a military engagement. Apparently reconciled, they return to the capital, Messina, as guests of the Governor, [[Leonato]]. There Count [[Claudio]], a young nobleman serving in [[Don Pedro]]’s army, falls in [[Love\|love]] with [[Hero]], [[Leonato]]’s daughter, whom [[Don Pedro]] woos on his behalf. The play’s central plot, written mainly in verse, shows how [[Don John]] maliciously deceives [[Claudio]] into believing that [[Hero]] has taken a [[Lover\|lover]] on the eve of her [[Marriage\|marriage]], causing [[Claudio]] to repudiate her publicly, at the altar. This is a variation on an old tale that existed in many versions; it had been told in Italian verse by Ariosto, in his [[Orlando]] Furioso (1516, translated into English verse by Sir John Harington, 1591), in Italian prose by Matteo Bandello in his Novelle (1554, adapted into French by P. de Belleforest, 1569), in English prose by George Whetstone (The Rock of Regard, 1576), in English verse by [[Edmund]] Spenser (The Faerie Queene, Book 2, canto 4, 1590), and in a number of plays including Luigi Pasqualigo’s II Fedele (1579), adapted into English—perhaps by Anthony Munday—as Fedele and Fortunio (published in 1583). Shakespeare, whose plot is an independent reworking of the traditional story, seems to owe most to Ariosto and Bandello, perhaps indirectly.<br>[[Don John]]’s [[Deception\|deception]], with its tragicomical resolution, is offset by a parallel plot written mainly in prose, portraying another, more light-hearted [[Deception\|deception]], by which [[Hero]]’s cousin, [[Beatrice]], and [[Benedick]]—friend of [[Don Pedro]] and [[Claudio]]—are tricked into acknowledging, first to themselves and then to each other, that they are in [[Love\|love]]. This part of the play seems to be of Shakespeare’s invention: the juxtaposition of this clever, sophisticated, apparently unillusioned pair with the more naive [[Claudio]] and [[Hero]] recalls Shakespeare’s earlier contrast of romantic and antiromantic attitudes to [[Love\|love]] and [[Marriage\|marriage]] in The Taming of the Shrew. The play’s third main strand is provided by Constable [[Dogberry]], his partner Verges, and the Watchmen, clearly English rather than Sicilian in origin. Although [[Benedick]] and [[Beatrice]] are, technically, subordinate characters, they have dominated the [[Imagination\|imagination]] of both readers and playgoers. |
+| THE PERSONS OF THE | PLAY |
 
 
 <span class="qlang-split" data-lang="it"></span>

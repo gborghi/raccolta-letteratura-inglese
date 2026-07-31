@@ -42,7 +42,7 @@ tags:
 
 ## Testo / Text
 
-- [job](/testi/chesterton/atomized/job#job)
+- [job (part 2)](/testi/chesterton/atomized/job#part--part_02-(desktop-l2ks9qk's-conflicted-copy-2026-07-31))
 
 ## Parti / Parts
 

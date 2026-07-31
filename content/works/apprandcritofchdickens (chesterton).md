@@ -162,7 +162,7 @@ tags:
 
 ## Testo / Text
 
-- [ApprAndCritOfChDickens](/testi/chesterton/atomized/apprandcritofchdickens#apprandcritofchdickens)
+- [Book 2: celebrated characters who are both especially exuberant and (part 27)](/testi/chesterton/atomized/apprandcritofchdickens#chapter_02_celebrated_characters_who_are--part_27-(desktop-l2ks9qk's-conflicted-copy-2026-07-31))
 
 ## Connections
 

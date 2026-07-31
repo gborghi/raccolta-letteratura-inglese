@@ -11,6 +11,532 @@ tags:
 <div class="atom-reader" data-work="testi/chesterton/atomized/whatisawinamerica" data-author="Chesterton" data-workhref="works/whatisawinamerica-(chesterton)"></div>
 
 
+<span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_03-(desktop-l2ks9qk's-conflicted-copy-2026-07-31)" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 3)" data-chapter="The Spirit Of England 281" data-kind="intro" data-tags="archetype/innocent,motif/nature,motif/well,concept/democracy,concept/nature,concept/poverty,histref/america,histref/inquisition,histref/spanish_inquisition,setting/america"></span>
+
+
+world. In its [[Nature|nature]] it is as broad as its scheme for a brotherhood of
+
+all men. In its [[Nature|nature]] it is limited by its definition of the [[Nature|nature]] of
+
+all men. This was true of the Christian Church, which was truly said to
+
+exclude neither Jew nor Greek, but which did definitely substitute
+
+something else for Jewish religion or Greek [[philosophy]]. It was truly
+
+said to be a net drawing in of all kinds; but a net of a certain
+
+pattern, the pattern of Peter the Fisherman. And this is true even of
+
+the most disastrous distortions or degradations of that creed; and true
+
+among others of the [[Spanish Inquisition]]. It may have been narrow
+
+touching theology, it could not confess to being narrow about
+
+nationality or ethnology. The [[Spanish Inquisition]] might be admittedly
+
+Inquisitorial; but the [[Spanish Inquisition]] could not be merely Spanish.
+
+Such a Spaniard, even when he was narrower than his own creed, had to be
+
+broader than his own empire. He might burn a philosopher because he was
+
+heterodox; but he must accept a barbarian because he was orthodox. And
+
+we see, even in modern times, that the same Church which is blamed for
+
+making sages heretics is also blamed for making savages priests. Now in
+
+a much vaguer and more evolutionary fashion, there is something of the
+
+same idea at the back of the great American experiment; the experiment
+
+of a [[Democracy|democracy]] of diverse races which has been compared to a
+
+melting-pot. But even that metaphor implies that the pot itself is of a
+
+certain shape and a certain substance; a pretty solid substance. The
+
+melting-pot must not melt. The original shape was traced on the lines of
+
+Jeffersonian [[Democracy|democracy]]; and it will remain in that shape until it
+
+becomes shapeless. [[America]] invites all men to become citizens; but it
+
+implies the dogma that there is such a thing as citizenship. Only, so
+
+far as its primary ideal is concerned, its exclusiveness is religious
+
+because it is not racial. The missionary can condemn a cannibal,
+
+precisely because he cannot condemn a Sandwich Islander. And in
+
+something of the same spirit the American may exclude a polygamist,
+
+precisely because he cannot exclude a Turk.
+
+Now for [[America]] this is no idle theory. It may have been theoretical,
+
+though it was thoroughly sincere, when that great Virginian gentleman
+
+declared it in surroundings that still had something of the character of
+
+an English countryside. It is not merely theoretical now. There is
+
+nothing to prevent [[America]] being literally invaded by Turks, as she is
+
+invaded by Jews or Bulgars. In the most exquisitely inconsequent of the
+
+_Bab Ballads_, we are told concerning Pasha Bailey Ben:--
+
+One morning knocked at half-past eight
+
+A tall Red Indian at his gate.
+
+In Turkey, as you 'r' p'raps aware,
+
+Red Indians are extremely rare.
+
+But the converse need by no means be true. There is nothing in the
+
+[[Nature|nature]] of things to prevent an emigration of Turks increasing and
+
+multiplying on the plains where the Red Indians wandered; there is
+
+nothing to necessitate the Turks being extremely rare. The Red Indians,
+
+alas, are likely to be rarer. And as I much prefer Red Indians to Turks,
+
+not to mention Jews, I speak without prejudice; but the point here is
+
+that [[America]], partly by original theory and partly by historical
+
+accident, does lie open to racial admixtures which most countries would
+
+think incongruous or comic. That is why it is only fair to read any
+
+American definitions or rules in a certain light, and relatively to a
+
+rather unique position. It is not fair to compare the position of those
+
+who may meet Turks in the back street with that of those who have never
+
+met Turks except in the _Bab Ballads_. It is not fair simply to compare
+
+[[America]] with England in its regulations about the Turk. In short, it is
+
+not fair to do what almost every Englishman probably does; to look at
+
+the American international examination paper, and laugh and be satisfied
+
+with saying, 'We don't have any of that nonsense in England.'
+
+We do not have any of that nonsense in England because we have never
+
+attempted to have any of that [[philosophy]] in England. And, above all,
+
+because we have the enormous advantage of feeling it natural to be
+
+national, because there is nothing else to be. England in these days is
+
+not [[Well|well]] governed; England is not [[Well|well]] educated; England suffers from
+
+wealth and [[Poverty|poverty]] that are not [[Well|well]] distributed. But England is
+
+English; _esto perpetua_. England is English as France is French or
+
+Ireland Irish; the great mass of men taking certain national traditions
+
+for granted. Now this gives us a totally different and a very much
+
+easier task. We have not got an [[Inquisition|inquisition]], because we have not got a
+
+creed; but it is arguable that we do not need a creed, because we have
+
+got a character. In any of the old nations the national [[unity]] is
+
+preserved by the national type. Because we have a type we do not need to
+
+have a test.
+
+Take that [[Innocent|innocent]] question, 'Are you an anarchist?' which is
+
+intrinsically quite as impudent as 'Are you an optimist?' or 'Are you a
+
+philanthropist?' I am not discussing here whether these things are
+
+right, but whether most of us are in a position to know them rightly.
+
+Now it is quite true that most Englishmen do not find it necessary to go
+
+about all day asking each other whether they are anarchists. It is quite
+
+true that the phrase occurs on no British forms that I have seen. But
+
+this is not only because most of the Englishmen are not anarchists. It
+
+is even more because even the anarchists are Englishmen. For instance,
+
+it would be easy to make fun of the American formula by noting that the
+
+cap would fit all sorts of bald academic heads. It might [[Well|well]] be
+
+maintained that Herbert Spencer was an anarchist. It is practically
+
+certain that Auberon Herbert was an anarchist. But Herbert Spencer was
+
+
+
+
+<span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_57-(desktop-l2ks9qk's-conflicted-copy-2026-07-31)" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 57)" data-chapter="The Spirit Of England 281" data-kind="intro" data-tags="motif/nature,motif/time,concept/charity,concept/faith,concept/hope,concept/imagination,concept/nature,concept/truth,histref/america,setting/america,setting/russia"></span>
+
+
+are always advertising; for all the world as if the anthropoid had been
+
+photographed before he absconded. The scientific diagram may be a
+
+hypothesis; it may be a fancy; it may be a forgery. But it is always an
+
+idol in the true sense of an image; and an image in the true sense of a
+
+thing mastering the [[Imagination|imagination]] and not the reason. The power of these
+
+talismanic pictures is almost hypnotic to modern humanity. We can never
+
+forget that we have seen a portrait of the Missing Link; though we
+
+should instantly detect the lapse of [[logic]] into superstition, if we were
+
+told that the old Greek agnostics had made a statue of the Unknown God.
+
+But there is a still stranger fashion in which we fall victims to the
+
+same trick of fancy. We accept in a blind and literal spirit, not only
+
+images of speculation, but even figures of speech. The nineteenth
+
+century prided itself on having lost its [[Faith|faith]] in myths, and proceeded
+
+to put all its [[Faith|faith]] in metaphors. It dismissed the old doctrines about
+
+the way of life and the light of the world; and then it proceeded to
+
+talk as if the light of [[Truth|truth]] were really and literally a light, that
+
+could be absorbed by merely opening our eyes; or as if the path of
+
+progress were really and truly a path, to be found by merely following
+
+our noses. Thus the purpose of God is an idea, true or false; but the
+
+purpose of [[Nature]] is merely a metaphor; for obviously if there is no God
+
+there is no purpose. Yet while men, by an imaginative instinct, spoke of
+
+the purpose of God with a grand agnosticism, as something too large to
+
+be seen, something reaching out to worlds and to [[eternities]], they speak
+
+of the purpose of [[Nature]] in particular and practical problems of curing
+
+babies or cutting up rabbits. This power of the modern metaphor must be
+
+understood, by way of an introduction, if we are to understand one of
+
+the chief errors, at once evasive and pervasive, which perplex the
+
+problem of [[America]].
+
+[[America]] is always spoken of as a young nation; and whether or no this be
+
+a valuable and suggestive metaphor, very few people notice that it is a
+
+metaphor at all. If somebody said that a certain deserving [[Charity|charity]] had
+
+just gone into trousers, we should recognise that it was a figure of
+
+speech, and perhaps a rather surprising figure of speech. If somebody
+
+said that a daily paper had recently put its hair up, we should know it
+
+could only be a metaphor, and possibly a rather strained metaphor. Yet
+
+these phrases would mean the only thing that can possibly be meant by
+
+calling a corporate association of all sorts of people 'young'; that is,
+
+that a certain institution has only existed for a certain [[Time|time]]. I am not
+
+now denying that such a corporate nationality may happen to have a
+
+psychology comparatively analogous to the psychology of youth. I am not
+
+even denying that [[America]] has it. I am only pointing out, to begin with,
+
+that we must free ourselves from the talismanic tyranny of a metaphor
+
+which we do not recognise as a metaphor. Men realised that the old
+
+mystical doctrines were mystical; they do not realise that the new
+
+metaphors are metaphorical. They have some sort of hazy notion that
+
+American society must be growing, must be promising, must have the
+
+virtues of [[Hope|hope]] or the faults of ignorance, merely _because_ it has only
+
+had a separate existence since the eighteenth century. And that is
+
+exactly like saying that a new chapel must be growing taller, or that a
+
+limited liability company will soon have its second teeth.
+
+Now in [[Truth|truth]] this particular conception of American hopefulness would be
+
+anything but hopeful for [[America]]. If the argument really were, as it is
+
+still vaguely supposed to be, that [[America]] must have a long life before
+
+it, because it only started in the eighteenth century, we should find a
+
+very fatal answer by looking at the other political systems that did
+
+start in the eighteenth century. The eighteenth century was called the
+
+Age of Reason; and there is a very real sense in which the other systems
+
+were indeed started in a spirit of reason. But starting from reason has
+
+not saved them from ruin. If we survey the Europe of to-day with real
+
+clarity and historic comprehension, we shall see that it is precisely
+
+the most recent and the most rationalistic creations that have been
+
+ruined. The two great States which did most definitely and emphatically
+
+deserve to be called modern states were Prussia and [[Russia]]. There was no
+
+real Prussia before Frederick the Great; no real Russian Empire before
+
+Peter the Great. Both those innovators recognised themselves as
+
+rationalists bringing a new reason and order into an indeterminate
+
+barbarism; and doing for the barbarians what the barbarians could not do
+
+for themselves. They did not, like the kings of England or France or
+
+Spain or Scotland, inherit a sceptre that was the symbol of a historic
+
+and patriotic people. In this sense there was no [[Russia]] but only an
+
+Emperor of [[Russia]]. In this sense Prussia was a kingdom before it was a
+
+nation; if it ever was a nation. But anyhow both men were particularly
+
+modern in their whole mood and mind. They were modern to the extent of
+
+being not only anti-traditional, but almost anti-patriotic. Peter forced
+
+the science of the West on [[Russia]] to the regret of many Russians.
+
+Frederick talked the French of Voltaire and not the German of Luther.
+
+The two experiments were entirely in the spirit of Voltairean
+
+rationalism; they were built in broad daylight by men who believed in
+
+nothing but the light of common day; and already their day is done.
+
+If then the promise of [[America]] were in the fact that she is one of the
+
+latest births of progress, we should point out that it is exactly the
+
+latest born that were the first to die. If in this sense she is praised
+
+as young, it may be answered that the young have died young, and have
+
+
+
+
+<span class="atom-split" data-atom="story_10_the_spirit_of_england_281--part_81-(desktop-l2ks9qk's-conflicted-copy-2026-07-31)" data-title="WhatISawInAmerica — The Spirit Of England                281 (part 81)" data-chapter="The Spirit Of England 281" data-kind="intro" data-tags="archetype/child,motif/childhood,motif/moon,motif/stars,motif/time,concept/charity,concept/faith,concept/friendship,concept/self,concept/truth,concept/wonder,histref/christianity"></span>
+
+
+wise, by what they wish to be.
+
+There are truths that have almost become untrue by becoming untruthful.
+
+There are statements so often stale and insincere that one hesitates to
+
+use them, even when they stand for something more subtle. This point
+
+about curiosity is not the conventional complaint against the American
+
+interviewer. It is not the ordinary joke against the American [[Child|child]]. And
+
+in the same way I feel the danger of it being identified with the cant
+
+about 'a young nation' if I say that it has some of the attractions, not
+
+of American [[Childhood|childhood]], but of real [[Childhood|childhood]]. There is some [[Truth|truth]] in the
+
+tradition that the children of wealthy Americans tend to be too
+
+precocious and luxurious. But there is a sense in which we can really
+
+say that if the children are like adults, the adults are like children.
+
+And that sense is in the very best sense of [[Childhood|childhood]]. It is something
+
+which the modern world does not understand. It is something that modern
+
+Americans do not understand, even when they possess it; but I think they
+
+do possess it.
+
+The devil can quote Scripture for his purpose; and the text of Scripture
+
+which he now most commonly quotes is, 'The kingdom of heaven is within
+
+you.' That text has been the stay and support of more Pharisees and
+
+prigs and [[Self|self]]-righteous spiritual bullies than all the dogmas in
+
+creation; it has served to identify [[Self|self]]-satisfaction with the peace
+
+that passes all understanding. And the text to be quoted in answer to it
+
+is that which declares that no man can receive the kingdom except as a
+
+little [[Child|child]]. What we are to have inside is the childlike spirit; but
+
+the childlike spirit is not entirely concerned about what is inside. It
+
+is the first mark of possessing it that one is interested in what is
+
+outside. The most childlike thing about a [[Child|child]] is his curiosity and his
+
+appetite and his power of [[Wonder|wonder]] at the world. We might almost say that
+
+the whole advantage of having the kingdom within is that we look for it
+
+somewhere else.
+
+_The Spirit of England_
+
+Nine times out of ten a man's broad-mindedness is necessarily the
+
+narrowest thing about him. This is not particularly paradoxical; it is,
+
+when we come to think of it, quite inevitable. His vision of his own
+
+village may really be full of varieties; and even his vision of his own
+
+nation may have a rough resemblance to the reality. But his vision of
+
+the world is probably smaller than the world. His vision of the universe
+
+is certainly much smaller than the universe. Hence he is never so
+
+inadequate as when he is universal; he is never so limited as when he
+
+generalises. This is the fallacy in the many modern attempts at a
+
+creedless creed, at something variously described as essential
+
+[[Christianity]] or undenominational religion or a world [[Faith|faith]] to embrace
+
+all the faiths in the world. It is that every sectarian is more
+
+sectarian in his unsectarianism than he is in his sect. The emancipation
+
+of a Baptist is a very Baptist emancipation. The [[Charity|charity]] of a Buddhist
+
+is a very Buddhist [[Charity|charity]], and very different from Christian [[Charity|charity]].
+
+When a [[philosophy]] embraces everything it generally squeezes everything,
+
+and squeezes it out of shape; when it digests it necessarily
+
+assimilates. When a theosophist absorbs [[Christianity]] it is rather as a
+
+cannibal absorbs Christian missionaries. In this sense it is even
+
+possible for the larger thing to be swallowed by the smaller; and for
+
+men to move about not only in a Clapham sect but in a Clapham cosmos
+
+under Clapham [[Moon|moon]] and [[Stars|stars]].
+
+But if this danger exists for all men, it exists especially for the
+
+Englishman. The Englishman is never so insular as when he is imperial;
+
+except indeed when he is international. In private life he is a good
+
+friend and in practical politics generally a good ally. But theoretical
+
+politics are more practical than practical politics. And in theoretical
+
+politics the Englishman is the worst ally the world ever saw. This is
+
+all the more curious because he has passed so much of his historical
+
+life in the character of an ally. He has been in twenty great alliances
+
+and never understood one of them. He has never been farther away from
+
+European politics than when he was fighting heroically in the thick of
+
+them. I myself think that this splendid isolation is sometimes really
+
+splendid; so long as it is isolation and does not imagine itself to be
+
+imperialism or internationalism. With the idea of being international,
+
+with the idea of being imperial, comes the frantic and farcical idea of
+
+being impartial. Generally speaking, men are never so mean and false and
+
+hypocritical as when they are occupied in being impartial. They are
+
+performing the first and most typical of all the actions of the devil;
+
+they are claiming the throne of God. Even when it is not hypocrisy but
+
+only mental confusion, it is always a confusion worse and worse
+
+confounded. We see it in the impartial historians of the Victorian Age,
+
+who now seem far more Victorian than the partial historians. Hallam
+
+wrote about the Middle Ages; but Hallam was far less mediaeval than
+
+Macaulay; for Macaulay was at least a fighter. Huxley had more mediaeval
+
+sympathies than Herbert Spencer for the same reason; that Huxley was a
+
+fighter. They both fought in many ways for the limitations of their own
+
+rationalistic epoch; but they were nearer the [[Truth|truth]] than the men who
+
+simply assumed those limitations as rational. The war of the
+
+controversionalists was a wider thing than the peace of the arbiters.
+
+And in the same way the Englishman never cuts a less convincing figure
+
+before other nations than when he tries to arbitrate between them.
+
+I have by this [[Time|time]] heard a great deal about the necessity of saving
+
+Anglo-American [[Friendship|friendship]], a necessity which I myself feel rather too
+
+
+
+
 <span class="atom-split" data-atom="whatisawinamerica" data-title="WhatISawInAmerica" data-chapter="" data-kind="intro"></span>
 
 

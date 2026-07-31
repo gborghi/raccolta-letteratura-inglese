@@ -3735,6 +3735,40 @@ GEORGE ALFRED WILLIAMS.
 _Chatham, N.J._
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+PREFAZIONE
+
+Le qualità combinate del realista e dell'idealista che Dickens possedeva in modo notevole, insieme al suo atteggiamento naturalmente gioviale verso la vita in generale, sembrano avergli dato una sensazione di felicità straordinaria nei confronti del Natale, anche se le privazioni e le difficoltà della sua infanzia non gli avrebbero permesso molta esperienza reale con questo giorno dei giorni.
+
+Dickens died il primo espressione formale ai suoi pensieri natalizi nella sua serie di libri brevi, il primo dei quali era la famosa "Veglia di Natale" [[carol|Carol]], l'unica crisolite perfetta. Il [[success|successo]] del libro fu immediato. Thackeray scrisse a proposito: "Chi può ascoltare obiezioni riguardanti un libro come questo? Mi sembra un beneficio nazionale, e per ogni uomo o donna che lo legge, una gentilezza personale."
+
+Questo volume fu pubblicato in modo molto accattivante, con illustrazioni di John Leech, che fu il primo [[Artist|artista]] a far vivere questi personaggi, e i suoi disegni erano variati e pieni di spirito.
+
+A questi ne seguirono altri quattro: “Le campane”, “Il grillo del focolare”,
+“La battaglia della vita” e “L'uomo infestato”, illustrati al loro primo apparire da Doyle, Maclise ed altri. Oggi i cinque sono conosciuti come le “Storie di Natale”. Tra tutti il “[[carol|Carol]]” è quello più noto e amato, mentre “Il grillo del focolare”, sebbene terzo della serie, forse lo segue in popolarità ed è particolarmente familiare agli americani grazie all'interpretazione di [[Caleb Plummer]] da parte di Joseph Jefferson.
+
+Dickens sembra aver messo il suo intero [[Self|io]] in queste luminose storie.
+Chiunque veda solo una furba storia di un [[Ghost|fantasma]] nel "Villanello di Natale"
+non coglie il suo fascino e la sua lezione principali, perché c'è un significato diverso
+nei movimenti di Scrooge e degli spiriti che lo accompagnano. Una nuova vita è
+portata a Scrooge quando lui, "correndo alla sua [[Window|finestra]], l'apre e ci affaccia la testa.
+Niente nebbia, niente foschia; aria chiara, luminosa, gioiosa, vivace fredda;
+freddo che fa fischiare il [[Blood|sangue]] per farlo [[Dance|danzare]]; luce dorata del sole; cielo celestiale;
+aria dolce e fresca; [[Bells|campane]] allegre. Oh, glorioso! Glorioso!" Tutta questa
+luce ha la sua [[Shadow|ombra]] che l'accompagna, e dal cuore infantile emerge
+quella vera nota di pathos, il brindisi sempre memorabile di [[Tiny Tim|Timmy]]:
+"Dio ci benedica tutti!". "Il grillotalpa sul focolare" suona una
+nota diversa. In modo affascinante e poetico, il dolce [[carol|canto]] del piccolo
+grillotalpa è associato ai sentimenti e alle azioni umane, e nel momento cruciale
+della storia decide il destino e la fortuna del carrettiere e di sua moglie.
+
+Il più grande dono di Dickens era la caratterizzazione, e nessun altro scrittore inglese,
+tranne Shakespeare, ha creato così tanti personaggi così vari. Sarebbe altrettanto assurdo interpretarli tutti come caricature quanto negare a Dickens i suoi grandi e variegati poteri di creazione. Dickens esagerava molti dei suoi personaggi comici e satirici, come era suo diritto, perché la [[Satire|caricatura]] e la [[Comedy|satira]] sono molto strettamente correlate, mentre l'esagerazione è proprio l'essenza della [[Humour|commedia]]. Ma rimane un gran numero di personaggi segnati dall'[[Grotesque|umorismo]] e dal pathos. Eppure la rappresentazione pittorica dei personaggi di Dickens ha sempre tendenzialmente puntato verso il [[Novel|grottesco]]. Le interpretazioni in questo volume mirano a eliminare le fasi più grossolane della caricatura a favore di quelle più umane. Se le interpretazioni sembrano [[Resurrection|originali]], se Scrooge non è come lo si è dipinto, ciò è dovuto al fatto che si desiderava un Scrooge più umano, un Scrooge non del tutto cattivo, un Scrooge dal cuore migliore, un Scrooge per il quale la resurrezione descritta in questa storia fosse possibile. L'obiettivo dell'illustratore è stato quello di far vivere queste persone in una forma più pienamente coerente con i loro tipi.
+
+GEORGE ALFRED WILLIAMS.
+_Chatham, N.J._
+
 
 
 <span class="atom-split" data-atom="story_02_the_cricket_on_the_hearth" data-title="The Cricket on the Hearth — The Cricket On The Hearth" data-chapter="The Cricket On The Hearth" data-kind="story" data-tags="motif/fire,concept/fear"></span>
@@ -3774,6 +3808,34 @@ to chirp!_                                                        166
 [Illustration]
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+IL GRILLÒ SUL CAMINO
+
+Indice
+
+_Cricchetto Primo_                                              103
+_Cricchetto Secondo_                                            132
+_Cricchetto Terzo_                                              165
+
+
+
+Elenco delle illustrazioni
+
+«Padre, sono solo al buio. Voglio i miei occhi, i miei occhi pazienti e volonterosi».»                                                   103
+
+«Un punto e, » qui lanciò un'occhiata al bambino «un punto e porto, non lo dirò per [[Fear|paura]] di rovinarlo, ma ero proprio sul punto di fare una battuta.»
+
+_Tilly Slowboy_                                                   112
+
+«Così l'ho trovato seduto al bordo della strada! Dritto come un pietra miliare.»   118
+
+_Ma improvvisamente il [[Fire|fuoco]] che faticava illuminò tutta la
+caminata con un bagliore di luce, e il Grillo del Focolare cominciò a
+cinguettare!_                                                        166
+
+[illustrazione]
+
 
 
 <span class="atom-split" data-atom="story_03_the_cricket_on_the_hearth" data-title="The Cricket on the Hearth — The Cricket On The Hearth" data-chapter="The Cricket On The Hearth" data-kind="story" data-tags="motif/home"></span>
@@ -3783,6 +3845,12 @@ THE CRICKET ON THE HEARTH
 
 A FAIRY TALE OF [[Home|HOME]]
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+IL GRILLÒ SUL CAMINO
+
+UN RACCONTO FATATO DI [[Home|CASA]]
 
 
 
@@ -3894,6 +3962,41 @@ bright example--performed a sort of jig, and clattered like a deaf and
 dumb young cymbal that had never known the use of its twin brother.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+PRIMO CUCÙ
+
+Il bollitore ha cominciato! Non ditemi quello che ha detto la signora Peerybingle. Lo so io.
+La signora Peerybingle può lasciare registrato fino alla fine dei [[Time|tempi]] che non sapeva dire quale di loro avesse cominciato; ma io dico che è stato il bollitore. Dovrei saperlo, spero? Il bollitore ha cominciato, cinque minuti prima del piccolo orologio olandese [[Clock|dall'aspetto cereo]] nell'angolo, secondo l'orologio, che il Grillo emettesse un canto.
+
+Come se l'[[Clock|orologio]] non avesse finito di battere e il piccolo falciatore convulso sulla cima,
+scuotendosi a destra e a sinistra con una falce davanti a un palazzo moresco, non avesse mietuto mezzo
+acro d'erba immaginaria prima che il Grillo si unisse al coro!
+
+Perché io non sono naturalmente positivo. Tutti sanno che non contrapporrei mai la mia opinione a quella della signora Peerybingle, se non fossi assolutamente sicuro di qualsiasi cosa. Nulla mi indurrebbe a farlo. Ma questa è una questione di fatto. E il fatto è che il bollitore ha iniziato almeno cinque minuti prima che il Grillo desse qualche segno di esistere. Contradditemi e io dirò dieci.
+
+Permettetemi di raccontare esattamente come è successo. Avrei dovuto farlo già con la mia prima parola, se non fosse per questa semplice considerazione: se devo raccontare una storia, devo cominciare dall'inizio; e come si può iniziare dall'inizio senza partire dal bollitore?
+
+Si sarebbe detto che ci fosse una specie di gara o prova d'abilità,
+dovete capire, tra il bollitore e il Grillo. E questo è ciò che la
+provocò e come avvenne.
+
+La signora Peerybingle, uscendo nella cruda penombra e camminando sui ciottoli bagnati con un paio di zoccoli che lasciavano innumerevoli grezze impronte della prima proposizione di Euclide dappertutto nel cortile, riempì il bollitore alla [[Water|cisterna]]. Tornando poco dopo senza gli zoccoli (e molto più bassa, perché erano alti e la signora Peerybingle era piuttosto piccola), mise il bollitore sul [[Fire|fuoco]]. Mentre lo faceva perse le staffe o le smarrì per un istante; infatti l'[[Water|acqua]] era sgradevolmente fredda e in quel genere di stato scivoloso, fangoso, piovigginoso che sembra penetrare attraverso ogni tipo di sostanza, inclusi gli zoccoli - aveva raggiunto le dita dei piedi della signora Peerybingle e addirittura schizzato le sue gambe. E quando siamo piuttosto orgogliosi (e con ragione) delle nostre gambe e ci teniamo particolarmente in ordine per quanto riguarda i calzini, troviamo questo, al momento, difficile da sopportare.
+
+Inoltre, il bollitore era irritante e ostinato. Non si lasciava sistemare sul supporto superiore; non voleva saperne di adattarsi gentilmente ai pezzi di carbone; _voleva_ inclinarsi in avanti con aria ubriaca, e gocciolare come un vero e proprio Idiota di bollitore, sul focolare. Era litigioso, e sibilava e crepitava malumorevolmente contro il [[Fire|fuoco]]. Per riassumere tutto, il coperchio, resistendo alle dita della signora Peerybingle, prima si capovolse, e poi, con un'ingegnosa pertinacia degna di una causa migliore, si immerse lateralmente -- fino in [[Bottom|fondo]] al bollitore. E la chiglia del Royal George non ha mai opposto nemmeno metà della mostruosa resistenza per uscire dall'[[Water|acqua]] che il coperchio di quel bollitore oppose alla signora Peerybingle prima che riuscisse a rimetterlo su.
+
+Sembrava abbastanza ostinato e testardo anche allora; portava il manico con aria di sfida e puntava il beccuccio in modo impertinente e canzonatorio verso la signora Peerybingle, come se dicesse: «Non bollirò. Niente mi farà cambiare idea!»
+
+Ma la signora Peerybingle, con il buon [[Humour|umore]] riacquistato, si strofinò le sue manine paffute l'una contro l'altra e sedette davanti al bollitore ridendo. Nel frattempo, la allegra fiamma sorgeva e cadeva, lampeggiando e brillando sul piccolo mietitore di fieno in cima all'orologio olandese [[Clock|orologio]], fino a far pensare che egli stesse immobile davanti al Palazzo moresco, e che nulla fosse in movimento se non la fiamma.
+
+Era però in movimento; e aveva i suoi spasmi, due al secondo, tutti giusti e regolari. Ma le sue sofferenze quando la [[Clock|campana]] stava per suonare erano spaventose da vedere; e quando un cuculo sbucò da una botola nel Palazzo e cantò sei volte, lo scosse, ogni [[Time|volta]], come una voce spettrale - o come qualcosa di filiforme che tirava alle sue gambe.
+
+Non fu finché un violento trambusto e un ronzio tra i pesi e le corde sotto di lui non si furono completamente placati che questo spaventato fienaiolo tornò in sé. E non era senza ragione che si sentiva così turbato; perché questi scheletrici, scricchiolanti scheletri d'orologio sono davvero sconcertanti nel loro funzionamento, e io [[Wonder|mi chiedo]] molto come un gruppo di uomini, ma soprattutto i fiamminghi, abbiano potuto avere la voglia di inventarli. Esiste una credenza popolare secondo cui ai fiamminghi piacciono le forme ampie e molti indumenti per il loro corpo inferiore; e avrebbero dovuto sapere meglio che lasciare i loro orologi così magri e inermi, davvero.
+
+Ora era, come noterete, che il bollitore iniziava la serata. Ora era che il bollitore, diventando melodioso e musicale, cominciò ad avere gorgoglii irrefrenabili nella sua gola e a concedersi brevi sbuffi vocali, che soffocava sul nascere, come se non avesse ancora deciso di farsi compagnia. Ora era che dopo due o tre vani tentativi di reprimere i suoi sentimenti conviviali, scacciò ogni malinconia e riservatezza ed eruppe in un flusso di [[Song|canzone]] così accogliente e allegra come nessun mesto [[Nightingale|usignolo]] avrebbe mai potuto immaginare.
+
+Così semplice! Dio vi benedica, avreste potuto capirlo come un libro - meglio di certi libri che tu e io potremmo citare, forse. Con il suo caldo respiro che fuoriusciva in una leggera nuvola che salì allegra e graziosa per qualche piede, poi si fermò nell'angolo del camino come fosse il suo cielo domestico, intonava la sua [[Song|canzone]] con tale energia gioiosa da far vibrare e ronzare il suo ferro [[Body|corpo]] sul [[Fire|fuoco]]; e lo stesso coperchio, quello ribelle di poco fa - tale è l'influenza di un esempio luminoso - fece una specie di giga e tintinnò come un giovane piatto sordo-muto che non aveva mai conosciuto l'uso del suo gemello.
+
 
 
 <span class="atom-split" data-atom="story_04_chirp_the_first--part_02" data-title="The Cricket on the Hearth — Chirp The First (part 2)" data-chapter="Chirp The First" data-kind="excerpt" data-tags="motif/clock,motif/fire,motif/frost,motif/home,motif/horse,motif/leaves,motif/night,motif/summer,motif/time,motif/water,motif/well,motif/wind,motif/window,concept/body,concept/doubt,concept/fear,concept/pride,concept/wonder,character/chorus"></span>
@@ -4000,6 +4103,56 @@ weather. So no [[Wonder|wonder]]."
 Peerybingle: pouting in a way that clearly showed she _did_ like it very
 much.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Che questa [[Song|canzone]] del bollitore fosse una [[Song|canzone]] di invito e benvenuto a qualcuno fuori: a qualcuno che in quel momento si stava avvicinando al piccolo accogliente [[Home|focolare]] e al crepitante [[Fire|fuoco]]: non c'è assolutamente alcun [[Doubt|dubbio]]. La signora Peerybingle lo sapeva perfettamente, mentre sedeva meditabonda davanti al focolare. È una buia [[Night|notte]], cantava il bollitore, e le marce [[Leaves|foglie]] giacciono lungo la strada; e sopra tutto è nebbia e oscurità, e sotto tutto è fango e argilla; e c'è solo un sollievo in tutta l'aria triste e torbida; ma non so se sia davvero uno, perché non è altro che un bagliore; di profondo e irato cremisi, dove il sole e il [[Wind|vento]] insieme; hanno impresso una croce sulle nuvole per aver osato permettere un tempo simile; e la più vasta campagna aperta è una lunga noiosa striscia di nero; e c'è gelo bianco sull'indicatore, e disgelo sulla pista; e il ghiaccio non è [[Water|acqua]], e l'[[Water|acqua]] non è libera; e non si potrebbe dire che qualcosa sia quello che dovrebbe essere; ma lui sta arrivando, arriva, arriva!--
+
+E qui, se volete, il Grillo HA effettivamente fatto sentire la sua voce! con un Cric,
+Cric, Cric di tale magnitudo, in modo di [[Chorus|coro]]; con una voce così
+sbalorditivamente sproporzionata alle sue dimensioni, rispetto al bollitore;
+(dimensioni! non lo si poteva vedere!) che, se allora e lì avesse fatto esplodere sé stesso
+come un fucile troppo carico, se fosse caduto vittima sul posto,
+e avesse cricciato il suo piccolo [[Body|corpo]] in cinquanta pezzi, sarebbe sembrata una
+conseguenza naturale e inevitabile, per la quale aveva espressamente lavorato.
+
+Il bollitore aveva concluso la sua ultima esibizione solista. Persisteva con ardore immutato; ma il Grillo prese il primo violino e lo mantenne.
+Buon Dio, come friniva! La sua voce stridula, acuta, penetrante risuonava per tutta la [[house|casa]], e sembrava scintillare nell'oscurità esterna come una stella. C'era un piccolo trillo indescrivibile e un tremito nel suo frinire più forte, che suggeriva che fosse stato sollevato da terra e fatto saltare di nuovo dal suo stesso entusiasmo intenso. Eppure andavano molto [[Well|bene]] insieme, il Grillo e il bollitore. Il motivo della [[Song|canzone]] era ancora lo stesso; e più forte, sempre più forte, cantavano in competizione l'uno con l'altro.
+
+La graziosa piccola ascoltatrice -- perché graziosa lo era e giovane; anche se con qualcosa di quella che si chiama la forma del gnocco; ma io non ci trovo nulla da ridire -- accese una candela, lanciò un'occhiata al Mietitore sulla cima della [[Clock|clessidra]], che stava raccogliendo una bella media di minuti; e guardò fuori dalla [[Window|finestra]], dove non vide nulla, a causa dell'oscurità, se non il suo stesso volto riflesso nel vetro. E la mia opinione è (e lo sarebbe stata anche la tua) che avrebbe potuto guardare lontano e non vedere nulla di altrettanto piacevole. Quando tornò e si sedette nuovamente al suo posto, il Grillo e il bollitore continuavano ancora a competere con una furia perfetta. Il punto debole del bollitore era chiaramente che non sapeva quando era sconfitto.
+
+C'era tutta l'eccitazione di una corsa. Cric, cric, cric!
+Il grillotalpa un miglio avanti. Brrr, brrr, brrr--m--m! Il bollitore che gioca in
+lontananza, come una grande trottola. Cric, cric, cric! Il grillotalpa dietro l'angolo. Brrr,
+brrr, brrr--m--m! Il bollitore che lo segue a modo suo; senza alcuna intenzione di
+arrendersi. Cric, cric, cric! Il grillotalpa più fresco che mai. Brrr, brrr, brrr--m--m!
+Il bollitore lento e costante. Cric, cric, cric! Il grillotalpa pronto a finirlo. Brrr,
+brrr, brrr--m--m! Il bollitore non si lascia finire.
+Finché alla fine si confusero così tanto, nella fretta disordinata e
+caotica della partita, che se fosse il bollitore a fare cric e il grillotalpa a fare brrr,
+oppure il grillotalpa a fare cric e il bollitore a fare brrr, o se entrambi facessero cric e
+brrr allo stesso tempo, ci sarebbe voluto un cervello più lucido del mio o del tuo per poterlo
+decidere con una certa sicurezza. Ma di questo non c'è [[Doubt|dubbio]]: che il bollitore e il
+grillotalpa, nello stesso istante, e grazie a un potere di amalgama noto solo a loro,
+mandarono ognuno la propria [[Song|canzone]] domestica di conforto in un raggio della candela che si
+intravedeva attraverso la [[Window|finestra]], e per tutta la lunghezza del vicolo.
+E questa luce, che colpì una certa persona che, in quell'istante,
+si avvicinava verso di essa tra le tenebre, gli rivelò tutto, letteralmente in un batter
+d'occhio, e gridò: "Ben [[Home|tornato]], vecchio mio! Ben [[Home|tornato]], ragazzo mio!"
+
+Raggiunto questo scopo, il bollitore, esausto, traboccò e fu tolto dal [[Fire|fuoco]]. La signora Peerybingle corse quindi alla porta dove, tra le ruote di un carretto, lo scalpitio di un [[Horse|cavallo]], la voce di un uomo, l'andirivieni frenetico di un cane eccitato e la sorprendente e misteriosa comparsa di un bambino, ben presto si scatenò il più completo dei casini.
+
+Da dove venisse il bambino o come la signora Peerybingle lo avesse preso in quel lampo di [[Time|tempo]], non lo so. Ma un bambino vivo c'era tra le braccia della signora Peerybingle; e sembrava che ne fosse piuttosto [[Pride|orgogliosa]] quando fu delicatamente condotta al [[Fire|fuoco]] da una figura robusta di uomo, molto più alto e molto più anziano di lei, che dovette chinarsi parecchio per baciarla. Ma ne valeva la pena. Anche un uomo alto sei piedi e sei pollici con il mal di schiena avrebbe potuto farlo.
+
+“Oh, buon Dio, John!” disse la signora P. “In che stato siete con questo tempo!”
+
+[Illustrazione: «"Un punto e" -- qui lanciò un'occhiata al bambino -- "un punto e si riporta -- non lo dirò, per [[Fear|paura]] di rovinarlo; ma ero proprio sul punto di fare una battuta."»]
+
+Era indubbiamente peggio di prima. La fitta nebbia si era addensata sui suoi cigli come sciroppo cristallizzato; e tra la foschia e il [[Fire|fuoco]] insieme, c'erano arcobaleni nei suoi baffi stessi.
+
+"Ebbene, vedi, Dot", rispose John lentamente, mentre si sfilava una sciarpa dal collo e si riscaldava le mani; "non è esattamente tempo di [[Summer|estate]]. Quindi non c'è da [[Wonder|meravigliarsi]]."
+
+«Vorrei che non mi chiamassi Dot, John. Non mi piace», disse la signora Peerybingle, facendo il broncio in un modo che dimostrava chiaramente che le piacesse moltissimo.
 
 
 
@@ -4132,6 +4285,54 @@ differing from fondling by one vowel's length, is very different in
 meaning, and expresses quite another thing.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+«E allora, che altro sei?» rispose John, guardandola dall'alto con un sorriso e dandole una leggera stretta alla vita, la più delicata che la sua enorme mano e braccio potessero dare. «Un punto e» -- qui lanciò uno sguardo al bambino -- «un punto e riporto -- non lo dirò per [[Fear|paura]] di rovinarlo; ma ero molto vicino a fare una battuta. Non so se sono mai stato così vicino».
+
+Era spesso vicino a qualcosa di molto intelligente, secondo il suo stesso racconto:
+questo John goffo, lento e onesto; questo John così pesante ma così leggero
+di spirito; così ruvido in superficie, ma così gentile nel profondo;
+così ottuso all'esterno, così acuto all'interno; così stolido, ma così buono!
+Oh, Madre [[Nature|Natura]], dona ai tuoi figli la vera poesia del cuore che si nascondeva
+nel petto di questo povero facchino - era solo un facchino, tra l'altro -
+e potremo sopportare di vederli parlare in prosa e condurre vite di prosa;
+e sopporteremo di benedirti per la loro compagnia!
+
+Era piacevole vedere Dot, con la sua piccola figura e il suo bambino tra le braccia: un vero e proprio bebè-bambola: che lanciava sguardi pensierosi e civettuoli verso il [[Fire|fuoco]], inclinando appena la sua delicata testolina da una parte, giusto quel tanto che bastava per farla riposare in modo strano, a metà tra naturale ed affettato, del tutto accoccolato e piacevole, sulla grande figura robusta del Facchino. Era piacevole vederlo lui, con la sua goffa tenerezza, che cercava di adattare il suo ruvido sostegno alle sue esigenze leggere, e trasformare la sua imponente mezza età in un bastone da passeggio non del tutto sproporzionato alla sua giovinezza fiorita. Era piacevole osservare come [[Tilly Slowboy]], che aspettava in disparte il bambino, prendesse nota (anche se era ancora una ragazzina) di questo gruppo; e rimanesse con la bocca e gli occhi spalancati, e la testa protesa in avanti, come se stesse respirando aria. Non era meno piacevole osservare come John il Facchino, quando Dot faceva riferimento al suddetto bambino, trattenesse la mano sul punto di toccarlo, quasi temesse di romperlo; e chinandosi in avanti lo esaminasse da una distanza di sicurezza, con un genere di [[Pride|orgoglio]] perplesso che si potrebbe attribuire a un mastino amichevole se un giorno si trovasse padre di un giovane canarino.
+
+«Non è bello, John? Non sembra prezioso nel suo [[Sleep|sonno]]?»
+
+«Molto prezioso», disse John. «Proprio così. Di solito è addormentato, no?»
+
+«Oh, John! Buon Dio, no!»
+
+“Oh!” disse Giovanni, riflettendo. “Credevo che i suoi occhi fossero generalmente chiusi.
+Ehi!”
+
+«Oh, John, come mi hai spaventata!»
+
+«Non è giusto che lui li faccia così», disse il portatore stupito,
+«non è vero? Guarda come strizza entrambi gli occhi nello stesso momento!
+E guarda la sua bocca! Perbacco, sta ansimando come un pesce d'oro e
+d'argento!»
+
+"Non meriti di essere un padre, no davvero", disse Dot con tutta la dignità di una matrona esperta. "Ma come potresti sapere quali piccoli disturbi affliggono i bambini, John? Non ne conosceresti nemmeno i nomi, stupido." E dopo aver girato il bebè sul suo braccio sinistro e gli avere dato delle pacche sulla schiena per rianimarlo, pizzicò l'orecchio del marito ridendo.
+
+"No," disse John togliendosi il soprabito. "È proprio vero, Dot. Non ne so molto. So solo che ho lottato piuttosto duramente contro il [[Wind|vento]] stasera. Ha soffiato da nord-est, dritto verso la carretta, per tutto il tragitto di [[Home|casa]]."
+
+"Povero vecchio, proprio così!" esclamò la signora Peerybingle, diventando subito molto attiva. "Ecco, prendi il prezioso tesoro, Tilly, mentre mi rendo utile. Benedetto lui, lo potrei soffocare di baci, sì! Avanti allora, buon cane! Avanti, Boxer, ragazzo mio! Solo lascia che prepari prima il tè, John; e poi ti aiuterò con i pacchi, come un'ape operosa. 'Come fa la piccola'--e tutto il resto, sai, John. Hai mai imparato 'Come fa la piccola', quando andavi a scuola, John?"
+
+«Non conoscerla del tutto», rispose John. «Una volta ero molto vicino a farlo. Ma l'avrei solo rovinata, immagino».
+
+«Ah, ah!» rise Dot. Aveva la risatina più allegra che si fosse mai sentita.
+«Che caro vecchio tesoro di un imbecille sei, John, davvero!»
+
+Senza mettere in discussione questa posizione, John uscì per assicurarsi che il ragazzo con la lanterna, che aveva danzato avanti e indietro davanti alla porta e alla [[Window|finestra]], come un fuoco fatuo, prendesse debita cura del [[Horse|cavallo]]; che era più grasso di quanto crediate, se vi dicessi le sue misure, e così vecchio che il suo compleanno si perdeva nella nebbia dell'antichità. Boxer, sentendo che le sue attenzioni erano dovute alla famiglia in generale, e dovevano essere distribuite imparzialmente, entrava ed usciva con un'incoerenza sconcertante; ora descriveva un cerchio di brevi abbai intorno al [[Horse|cavallo]], che veniva strofinato alla porta della stalla; ora fingeva di fare selvagge cariche contro la sua padrona, e si fermava bruscamente in modo faceto; ora strappava un urlo a [[Tilly Slowboy]], nella bassa poltrona per l'allattamento vicino al [[Fire|fuoco]], con l'applicazione inaspettata del suo naso umido sul suo volto; ora mostrava un interesse invadente nel bambino; ora girava e rigirava intorno al focolare, e si sdraiava come se si fosse stabilito per la [[Night|notte]]; ora si rialzava di nuovo, e portava fuori quel nulla di coda mozzata che aveva nel tempo, come se avesse appena ricordato un appuntamento, ed era già partito al trotto veloce, per mantenerlo.
+
+"Ecco! La teiera è pronta sul fornello!", disse Dot; attiva e vivace come un [[Child|bambino]] che gioca a fare la [[house|casa]]. "E c'è il resto freddo del prosciutto, e c'è il burro, e c'è il pane croccante, e tutto! Ecco un cesto per i vestiti per i pacchetti più piccoli, John, se ne hai qualcuno lì. Dove sei, John? Non far cadere la cara [[Child|bambina]] sotto al focolare, Tilly, a nessun costo!"
+
+Si può notare di Miss Slowboy che, nonostante avesse respinto il consiglio con una certa vivacità, aveva un raro e sorprendente talento nel mettere questo bambino nei guai: ed era già riuscita a mettere in pericolo la sua breve vita diverse volte, in modo tranquillo e peculiare. La giovane signorina aveva una figura magra e snella, tanto che i suoi vestiti sembravano essere in costante pericolo di scivolare da quei ganci appuntiti, le sue spalle, su cui erano appesi con poca attenzione. Il suo abbigliamento era notevole per lo sviluppo parziale, in ogni occasione possibile, di qualche indumento di flanella di struttura singolare; e anche per offrire scorci, nella regione della schiena, di un corsetto o di una paia di sottogonne, di colore verde spento. Essendo sempre in uno stato di ammirazione sbalordita per tutto, e assorbita, oltre a ciò, nella contemplazione perpetua delle perfezioni della sua padrona e del bambino, si può dire che Miss Slowboy, nei suoi piccoli errori di giudizio, abbia reso pari [[Honour|onore]] alla sua testa e al suo cuore; e sebbene questi abbiano reso meno [[Honour|onore]] alla testa del bambino, con cui occasionalmente entravano in contatto portandola a sbattere contro porte di legno, credenze, ringhiere delle scale, montanti dei letti e altre sostanze estranee, erano comunque il risultato onesto dello costante stupore di [[Tilly Slowboy]] nel trovarsi trattata così gentilmente e installata in una [[Home|casa]] così confortevole. Infatti i genitori di Slowboy erano ugualmente sconosciuti alla fama, e Tilly era stata cresciuta dalla pubblica [[Charity|beneficenza]], come un trovatello; termine che, sebbene differisca da "fanciullo" solo per la lunghezza di una vocale, ha un significato molto diverso ed esprime qualcosa di completamente opposto.
+
 
 
 <span class="atom-split" data-atom="story_04_chirp_the_first--part_04" data-title="The Cricket on the Hearth — Chirp The First (part 4)" data-chapter="Chirp The First" data-kind="excerpt" data-tags="archetype/child,motif/home,motif/love,motif/marriage,motif/night,motif/time,motif/well,concept/fear,concept/hope,concept/truth,concept/wonder,character/tackleton"></span>
@@ -4262,6 +4463,76 @@ good-humouredly, as he drew a chair to the round table, and began at
 the cold ham. "As to eating, I eat but little; but that little I enjoy,
 Dot."
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Avreste trovato altrettanto divertente vedere la piccola signora Peerybingle tornare con il marito, tirando alla disperata la cesta della biancheria e facendo i più strenui sforzi per non fare assolutamente nulla (perché era lui a portarla), quasi quanto lo trovava divertente lui. Forse anche il Grillo si è divertito, chissà; ma di certo in quel momento ha ricominciato a frinire con vigore.
+
+Tilly Slowboy #
+
+«Festa!» disse John nel suo modo lento. «È più allegra che mai [[Night|questa]] sera, credo.»
+
+«E sicuramente ci porterà fortuna, John! È sempre stato così. Avere un Grillo sul Focolare è la cosa più fortunata di tutto il mondo!»
+
+John la guardò come se avesse quasi afferrato l'idea che lei fosse il suo Grillo Parlante e che ne fosse pienamente d'accordo; ma probabilmente fu una delle sue strette di scampato pericolo, perché non disse nulla.
+
+"La prima [[Time|volta]] che ho sentito il suo allegro canto, John, fu quella
+[[Night|notte]] in cui mi hai portato [[Home|a casa]]--quando mi hai condotto nella mia nuova [[Home|casa]] qui;
+dalla sua piccola padrona. Quasi un anno fa. Te lo ricordi, John?"
+
+Oh, sì! John ricordava. Certo che sì!
+
+Il suo canto era per me un benvenuto così gradito! Mi sembrava pieno di promesse e incoraggiamenti. Sembrava dirmi: "Sarai gentile e affettuoso con me, e non ti aspetterai (ne avevo [[Fear|paura]], John, allora) di trovare una testa vecchia sulle spalle della tua sciocca piccola moglie".
+
+John accarezzò pensieroso una delle spalle e poi la testa, come se volesse dire: No, no; non aveva avuto un'aspettativa del genere; era stato ben contento di prenderli così come erano. E in realtà ne aveva tutte le ragioni. Erano molto belli.
+
+"Ha detto la [[Truth|verità]], John, quando sembrava dirlo: perché sei sempre stato,
+ne sono sicura, il migliore, il più premuroso, il più affettuoso dei mariti per me.
+Questa è stata una [[Home|casa]] felice, John; e io [[Love|amo]] il Grillo per questo!"
+
+«Ebbene, lo faccio anch'io», disse il vetturale. «Lo faccio anch'io, Dot».
+
+"Lo [[Love|amo]] per le tante volte che l'ho ascoltato e i tanti pensieri che la sua innocua musica mi ha ispirato. A volte, al crepuscolo, quando mi sentivo un po' sola e abbattuta, John - prima che il bambino arrivasse a tenermi compagnia e rendere la [[house|casa]] allegra - quando pensavo a quanto ti saresti sentito solo se fossi morta; a quanto mi sarei sentita sola, se avessi saputo che mi avevi persa, caro mio; il suo Cric-Cric-Cric sul focolare sembrava dirmi di un'altra vocina così dolce, così cara per me, al cui suono i miei problemi svanivano come [[A Dream|un sogno]]. E quando temevo - una volta ho avuto [[Fear|paura]], John; ero molto giovane, lo sai - che il nostro potesse rivelarsi un [[Marriage|matrimonio]] sbagliato, io essendo così una [[Child|bambina]], e tu più simile al mio tutore che a mio marito; e che nonostante tutti i tuoi sforzi, forse non avresti imparato ad [[Love|amarmi]] come speravi e pregavi di fare; il suo Cric-Cric-Cric mi ha risollevata, riempiendomi di nuova fiducia. Pensavo a queste cose stasera, caro, mentre ti aspettavo; e [[Love|amo]] il Grillo per questo!"
+
+"E lo spero anch'io," ripeté John. "Ma, Dot! _Io_ [[Hope|spero]] e prego di imparare ad [[Love|amarti]]? Come parli! Avevo già imparato molto prima di portarti qui per essere la piccola padrona del Grillo, Dot!"
+
+Gli posò la mano sul braccio per un istante e lo guardò con aria agitata,
+come se volesse dirgli qualcosa. Un attimo dopo era già inginocchiata davanti al cesto; parlava con voce allegra, intenta a sistemare i pacchetti.
+
+"Non ce ne sono molti stasera, John, ma ho visto delle merci dietro il carro poco fa; e anche se forse danno più problemi, pagano comunque [[Well|bene]]; quindi non abbiamo motivo di lamentarci, vero? Inoltre, immagino che tu abbia fatto consegne mentre venivi qui?"
+
+“Oh, sì!” disse John. “Un bel po'.”
+
+«Ecco una scatola rotonda! Cuore mio, John, è una torta nuziale!»
+
+"Lasciate una donna [[Alone|sola]] per scoprire questo," disse John ammirato.
+"Un uomo non ci avrebbe mai pensato! Mentre, secondo me, se voi metteste
+una torta nuziale in un baule del tè o in un letto a scomparsa o in una botte di salmone affumicato,
+o qualsiasi altra cosa improbabile, una donna lo scoprirebbe subito.
+Sì; l'ho ordinata dal pasticcere."
+
+«E pesa non so quanto, centinaia di chili!» esclamò Dot facendo un gran gesto come se cercasse di sollevarlo. «Di chi è, John? Dove lo portano?»
+
+«Leggi la scritta sull'altro lato», disse John.
+
+«Ma, John! Mio Dio, John!»
+
+«Ah! chi l'avrebbe mai detto?» rispose John.
+
+"Non vorrai mai dire", proseguì Dot seduta sul pavimento e scuotendo la testa verso di lui, "che è Gruff e [[Tackleton]] il fabbricante di giocattoli!"
+
+John annuì.
+
+La signora Peerybingle annuì anche lei almeno cinquanta volte. Non in segno di assenso, ma per lo stupore muto e compassionevole; intanto stringeva le labbra con tutta la loro piccola forza (non erano state fatte per essere strette così, su questo sono categorico) e guardava il buon facchino attraverso e oltre, nella sua astrazione. Nel frattempo la signorina Slowboy, che aveva un potere meccanico di riprodurre frammenti della conversazione corrente per il diletto del bambino, privandoli di ogni senso e trasformando tutti i sostantivi al plurale, chiedeva ad alta voce a quella piccola creatura se erano Gruffs e Tackletons i giocattolai, se sarebbe passata dai [[Home|pasticcieri]] per le torte nuziali, se le sue madri riconoscevano le scatole quando i padri le portavano a casa; e così via.
+
+"E questo accadrà davvero!", disse Dot. "Eh sì, eravamo ragazze alla stessa scuola, John".
+
+Forse stava pensando a lei, o quasi pensando a lei, forse,
+come era in quel [[Time|periodo]] scolastico. La guardò con un piacere riflessivo, ma non rispose.
+
+"E ha la sua età! È così diverso da lei! -- Ma dì un po', quanti anni più di te ha Gruff e [[Tackleton]], John?"
+
+"Mi chiedo quante altre tazze di tè dovrò bere stasera in un sol colpo, più di quelle che Gruff e [[Tackleton]] hanno mai bevuto in quattro," rispose John con buon umore, mentre spostava una sedia verso il tavolo rotondo e cominciava a mangiare il prosciutto crudo. "Per quanto riguarda il cibo, ne mangio poco; ma quel poco lo godo, Dot."
 
 
 
@@ -4414,6 +4685,88 @@ back of that garment the [[Inscription|inscription]] G & T in large black capita
 the word GLASS in bold characters.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Anche questo, il suo solito sentimento durante i pasti, una delle sue [[Innocent|innocenti]] illusioni (perché il suo appetito era sempre ostinato e lo contraddiceva apertamente), non suscitò un sorriso sul volto della sua giovane moglie, che stava in mezzo ai pacchi, spingendo lentamente la scatola delle torte con il piede, senza mai guardare, anche se i suoi occhi erano abbassati, l'elegante scarpa di cui generalmente era così attenta. Assorbita nei suoi pensieri, rimase lì, indifferente sia al tè che a John (anche se lui la chiamava e batteva sul tavolo con il coltello per spaventarla), fino a quando non si [[Rose|alzò]] e le toccò il braccio; allora lei lo guardò per un momento, e corse al suo posto dietro il vassoio del tè, ridendo della sua negligenza. Ma non come aveva riso prima. Il modo e la musica erano completamente cambiati.
+
+Anche il grilli aveva smesso di cantare. In qualche modo la stanza non era più così allegra come prima. Niente affatto.
+
+"Ebbene, questi sono tutti i pacchi, vero, John?", disse lei, rompendo un lungo [[Silence|silenzio]], che l'onesto vetturino aveva dedicato a dimostrare in modo pratico una parte del suo sentimento preferito: certamente stava gustando ciò che mangiava, se non si poteva ammettere che ne mangiasse poco. "Ebbene, questi sono tutti i pacchi, vero, John?"
+
+«Questo è tutto», disse John. «Perché, no, io» - posando coltello e forchetta, e facendo un lungo respiro - «dichiaro, ho completamente dimenticato il vecchio signore!»
+
+«Il vecchio signore?»
+
+«Nel carro» disse John «dormiva tra la paglia, l'ultima [[Time|volta]] che l'ho visto.
+Mi è quasi venuto in mente due volte da quando sono entrato; ma poi mi è uscito di nuovo dalla testa. Ehi! Yahip là! Svegliati! Questo è il mio amico!»
+
+John disse queste ultime parole fuori dalla porta, dove si era precipitato con la candela in mano.
+
+La signorina Slowboy, conscia di un misterioso riferimento al Vecchio Signore e associando nella sua [[Imagination|immaginazione]] confusa certe idee di carattere [[Nature|religioso]] alla frase, fu così turbata che si alzò in fretta dalla bassa sedia accanto al [[Fire|fuoco]] per cercare rifugio vicino alle gonne della sua padrona; ma venne a contatto con uno straniero anziano mentre attraversava la porta e, istintivamente, gli si scagliò contro con l'unica arma offensiva che aveva a portata di mano. Poiché quell'arma era il bambino, ne seguì grande confusione e allarme, che l'astuzia di Boxer contribuì piuttosto ad accrescere; infatti quel bravo cane, più previdente del suo padrone, aveva osservato il vecchio signore mentre dormiva per timore che se ne andasse via con alcuni giovani pioppi legati sul retro della carrozza e continuava a seguirlo da vicino, addirittura mordendogli gli stivali e puntando minacciosamente i bottoni.
+
+«Siete un dormiglione così innegabilmente buono, signore», disse John quando la tranquillità fu ristabilita (nel frattempo il vecchio gentiluomo era rimasto in piedi, senza cappello e immobile, al centro della stanza), «che ho mezza voglia di chiedervi dove sono gli altri sei, solo che sarebbe uno scherzo, e so che lo rovinerei. Ma ci siamo andati vicino», mormorò il Carrier con una risatina; «ci siamo andati vicino!»
+
+Lo Straniero, che aveva lunghi capelli bianchi, tratti regolari, singolarmente decisi e [[Well|ben]] definiti per un vecchio, e occhi scuri, luminosi e penetranti, guardò intorno con un sorriso e salutò la moglie del Facchino inclinando gravemente il capo.
+
+Il suo abbigliamento era molto stravagante e bizzarro - un lungo, lunghissimo passo indietro rispetto al [[Time|tempo]]. Il colore era marrone dappertutto. In mano teneva un grande bastone da passeggio o una clava marrone; e colpendolo sul pavimento, si divise in due parti e divenne una sedia. Su cui si sedette con la massima calma.
+
+"Ecco!" disse il vetturino rivolgendosi alla moglie. "Questo è il modo in cui l'ho trovato,
+seduto al bordo della strada! Dritto come un pietrone. E quasi
+così sordo."
+
+«Siede all'aria aperta, John?»
+
+«All'aperto», rispose il vetturino, «proprio al crepuscolo. Ha detto: "Spese di trasporto pagate", e mi ha dato diciotto pence. Poi è salito. E lì c'è».
+
+«Se ne va, John, credo!»
+
+Niente affatto. Voleva solo parlare.
+
+«Se non le dispiace, dovevo essere lasciato qui finché non mi avessero chiamato», disse lo Straniero con dolcezza. «Non faccia caso a me».
+
+Con ciò tirò fuori un paio di occhiali da una delle sue grandi tasche,
+e un libro da un'altra, e cominciò con calma a leggere. Non facendo più
+caso di Boxer che se fosse stato un [[house|casa]] [[Lamb|agnello]]!
+
+Il vetturale e sua moglie si scambiarono uno sguardo perplesso. Lo Straniero alzò la testa e, guardando prima l'uno poi l'altra, disse:
+
+«Sua figlia, mio buon amico?»
+
+«Moglie», rispose John.
+
+«Nipote?» disse lo Sconosciuto.
+
+«Moglie!» ruggì John.
+
+«Davvero?» osservò lo Sconosciuto. «Sicuramente? Molto giovane!»
+
+Si girò tranquillamente e riprese a leggere; ma prima che potesse aver letto due righe si interruppe di nuovo per dire:
+
+«Bambino suo?»
+
+Giovanni gli fece un cenno gigantesco: equivalente a una risposta
+affermativa, data attraverso un megafono.
+
+«Ragazza?»
+
+«Ragazzo!» ruggì John.
+
+«Anche molto giovane, eh?»
+
+La signora Peerybingle intervenne subito. "Due mesi e tre gior-ni.
+Vaccinato appena sei settimane fa-a! Ha reagito molto bene-e! Considerato,
+dal dottore, un bambino di una bellezza stra-ordinaria! All'altezza della
+media dei bambini di cinque me-si! Si accorge delle cose in modo assolutamente [[Wonder|straord]]-inario!
+Potrà sembrarvi impossibile, ma già sente le sue gambe!"
+
+[Illustrazione: «Ecco come l'ho trovato, seduto sul ciglio della strada! Dritto come un pietra miliare.»]
+
+Qui la piccola madre senza fiato, che aveva gridato queste brevi frasi nell'orecchio del vecchio fino a quando il suo grazioso viso non era diventato rosso fuoco, gli presentò il Bambino come un fatto ostinato e trionfante; mentre [[Tilly Slowboy]], con un melodioso grido di "Ketcher, Ketcher" -- che suonava come delle parole sconosciute adattate a uno starnuto popolare -- eseguì alcune gambette bovine intorno a quell'[[Innocent|Innocente]] del tutto inconsapevole.
+
+«Ascolta! È stato chiamato, è sicuro», disse John. «C'è qualcuno alla porta. Aprila, Tilly».
+
+Prima che potesse raggiungerla, tuttavia, la porta fu aperta dall'esterno; era una porta di tipo primitivo, con un chiavistello che chiunque poteva sollevare se lo desiderava - e molte persone lo desideravano, perché tutti i tipi di vicini amavano scambiare qualche parola allegra con il Corriere, anche se lui stesso non era molto loquace. Essendo stata aperta, la porta diede accesso a un uomo piccolo, magro, pensieroso e dal volto scuro, che sembrava aver fatto un grande cappotto dalla copertura di sacco di qualche vecchia cassa; infatti, quando si voltò per chiudere la porta e tenere fuori il maltempo, rivelò sulla schiena di quel capo d'abbigliamento l'[[Inscription|iscrizione]] G & T in grandi lettere maiuscole nere. Anche la parola VETRO in caratteri audaci.
+
 
 
 <span class="atom-split" data-atom="story_04_chirp_the_first--part_06" data-title="The Cricket on the Hearth — Chirp The First (part 6)" data-chapter="Chirp The First" data-kind="excerpt" data-tags="archetype/child,motif/chalk,motif/home,motif/nature,motif/road,motif/soul,motif/supernatural,motif/time,motif/well,concept/hope,concept/nature,character/caleb_plummer,character/tackleton"></span>
@@ -4562,6 +4915,83 @@ mind of any young gentleman between the ages of six and eleven, for the
 whole Christmas or Midsummer Vacation.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+«Buonasera, John!» disse l'uomo piccolo. «Buonasera, mamma! Buonasera,
+Tilly! Buonasera, Unbeknown! Come sta il Bimbo, mamma? Spero che Boxer stia abbastanza [[Well|bene]] e lo [[Hope|spero]]?»
+
+"Tutto prospera, Caleb", rispose Dot. "Sono sicura che basta guardare il caro [[Child|bambino]] per saperlo".
+
+«E sono sicuro che ho solo bisogno di guardarti per un altro», disse Caleb.
+
+Non la guardò però; aveva uno sguardo errante e pensieroso che sembrava sempre proiettarsi in un altro [[Time|tempo]] e luogo, non importa cosa dicesse; una descrizione che si può applicare altrettanto bene alla sua voce.
+
+«O a John per un altro», disse Caleb. «O a Tilly, tanto per quel che vale. O certamente a Boxer».
+
+«Occupato in questo momento, Caleb?» chiese il facchino.
+
+«Perché, abbastanza [[Well|bene]], John», rispose con l'aria distratta di un uomo che stava perlomeno cercando la pietra filosofale. «Abbastanza così. Al momento c'è una certa richiesta per le Arche di Noè. Avrei voluto migliorare la Famiglia, ma non vedo come si possa fare a quel prezzo. Sarebbe un sollievo per la mente rendere più chiaro chi fossero Sem e Cam e quali fossero le Mogli. Le mosche non sono su quella scala neanche loro, se paragonate agli elefanti, lo sai! Ah, [[Well|bene]]! Hai qualcosa in linea di pacchi per me, John?»
+
+Il vetturino mise la mano nella tasca del cappotto che si era tolto e tirò fuori un piccolo vasetto da fiori, conservato con cura tra muschio e carta.
+
+«Ecco fatto!» disse, sistemandolo con grande cura. «Nemmeno una foglia danneggiata. Pieno di gemme!»
+
+L'occhio opaco di Caleb si illuminò mentre lo prendeva e lo ringraziava.
+
+«Caro, Caleb», disse il facchino «molto caro in questa stagione».
+
+«Non importa. Per me sarebbe un affare, qualunque cosa costasse», rispose il piccoletto. «Altro, John?»
+
+«Una scatolina», rispose il facchino. «Ecco a voi!»
+
+«Per [[Caleb Plummer]]», disse l'omino, leggendo ad alta voce il destinatario. «Con denaro contante». Con denaro contante, John? Non credo che sia per me».
+
+«Con cautela», rispose il vetturino, guardandosi alle spalle. «Dove si fa cassa?»
+
+"Oh! Certo!" disse Caleb. "Va tutto bene. Con cura! Sì, sì;
+è mio. Avrebbe potuto essere con contanti, infatti, se il mio caro ragazzo nelle
+Americhe d'Oro fosse vissuto, John. Lo amavi come un figlio; non è vero?
+Non devi dire che lo hai fatto. _Io_ so, naturalmente. '[[Caleb Plummer]]. Con cura.' Sì, sì, va tutto bene. È una scatola di occhi per bambole per il lavoro delle mie figlie. Vorrei fosse la sua vista in una scatola, John."
+
+«Vorrei che fosse così o potesse esserlo!» esclamò il facchino.
+
+«Grazie», disse l'omino. «Parlate con grande cordialità. Pensare che non vedrà mai più le bambole - e loro che la fissano così sfacciatamente tutto il giorno! Questo è ciò che fa male. Quanto costa, John?»
+
+«Vi farò del male», disse Giovanni, «se fate domande. Dot! Siamo quasi arrivati?»
+
+«[[Well|Beh]]! è proprio da te dirlo», osservò l'omino, «è il tuo modo gentile di fare. Vediamo un po'. Credo che sia tutto».
+
+«Non credo», disse il vetturale. «Prova ancora».
+
+«Qualcosa per il nostro Governatore, eh?» disse Caleb dopo aver riflettuto un po' «Certo. È per questo che sono venuto; ma ho la testa così piena di quelle Arche e cose del genere! Non è stato qui, vero?»
+
+«Non lui», rispose il vetturale. «È troppo occupato a corteggiare».
+
+"Comunque sta tornando in sé," disse Caleb; "perché mi ha detto di tenere la parte della [[Road|strada]] più vicina andando [[Home|a casa]], e c'erano dieci probabilità contro una che mi avrebbe preso con sé.
+È meglio che vada, tra l'altro.--Non potreste avere la gentilezza di lasciarmi afferrare per un attimo la coda di Boxer, signora?"
+
+«Ma, Caleb, che domanda è questa!»
+
+"Oh, non importa, mamma!" disse il piccolo uomo. "Forse non gli piacerebbe.
+È appena arrivato un piccolo ordine per abbaio di [[dogs|cani]]; e vorrei avvicinarmi alla Natura quanto più possibile con sei pence. Questo è tutto. Non importa, mamma."
+
+Per fortuna Boxer, senza aver ricevuto lo stimolo proposto,
+cominciò ad abbaiare con grande zelo. Ma poiché ciò implicava l'arrivo di un nuovo visitatore, Caleb rinviando il suo studio dal vero a una stagione più opportuna, si mise in spalla la scatola rotonda e prese commiato affrettandosi. Si sarebbe potuto risparmiare questo disturbo, perché incontrò il visitatore sulla soglia.
+
+"Oh! Siete qui, eh? Aspettate un attimo. Vi accompagno [[Home|a casa]]. John Peerybingle, sono al vostro servizio. E anche alla disposizione della vostra graziosa moglie. Più bella ogni giorno! Anche migliore, se possibile! E più giovane", rifletté l'interlocutore a bassa voce, "questo è il diavolo!"
+
+"Sarei sorpresa se mi facessi dei complimenti, signor [[Tackleton]]", disse Dot senza troppa grazia, "ma considerando la tua condizione, "
+
+«Allora sapete tutto?»
+
+«Sono riuscita a crederci in qualche modo», disse Dot.
+
+«Dopo una dura lotta, immagino?»
+
+«Molto».
+
+[[Tackleton]], il commerciante di giocattoli, era generalmente conosciuto come Gruff e [[Tackleton]] -- perché questa era la ditta, sebbene Gruff fosse stato rilevato da tempo; lasciando solo il suo nome, e, secondo alcuni, la sua [[Nature|natura]], nel senso che ne dà il dizionario, nell'attività -- [[Tackleton]] il commerciante di giocattoli era un uomo la cui vocazione era stata completamente fraintesa dai suoi genitori e tutori. Se lo avessero fatto diventare un usuraio, o un avvocato spregiudicato, o un ufficiale dello sceriffo, o un rigattiere, avrebbe potuto seminare i suoi semi di malcontento da giovane e, dopo aver dato libero sfogo alla sua natura intransigente in affari poco raccomandabili, sarebbe forse diventato amabile, alla fine, per il gusto della novità. Ma, costretto e infastidito nell'impresa pacifica della fabbricazione di giocattoli, era un Ogre domestico che aveva vissuto di bambini tutta la vita ed era il loro nemico implacabile. Disprezzava tutti i giocattoli; non ne avrebbe comprato uno per tutto l'oro del mondo; si divertiva, nella sua malvagità, a insinuare espressioni sinistre nei volti dei contadini di carta velina che portavano maiali al mercato, dei banditori che cercavano coscienze perdute di avvocati, delle vecchiette mobili che rattoppavano calzini o tagliavano torte; e altri simili esemplari del suo assortimento. In maschere spaventose; Jack-in-the-Box orribili, pelosi, con occhi rossi; aquiloni vampiri; tumbler demoniaci che non volevano stare fermi e volavano continuamente in avanti per fissare i bambini fino a farli impallidire; la sua [[Soul|anima]] si abbandonava completamente. Erano il suo unico sollievo, la sua valvola di sfogo. Era bravissimo in queste invenzioni. Qualsiasi cosa che suggerisse l'idea di una [[nightmare|incubo]] equestre era deliziosa per lui. Aveva persino perso denaro (e si era molto appassionato a questo giocattolo) realizzando lastre grottesche per lanterne [[Magic|magiche]], su cui i Poteri delle Tenebre erano raffigurati come una sorta di crostacei [[Supernatural|soprannaturali]] con facce umane. Per intensificare il ritratto dei Giganti, aveva investito un bel po' di capitale; e, sebbene non fosse pittore lui stesso, sapeva indicare, per istruire i suoi artisti, con un pezzo di [[chalk|gessetto]], una certa espressione furtiva da dare ai volti di quei mostri, che era sicura di distruggere la pace d'animo di qualsiasi giovane gentiluomo tra i sei e gli undici anni per tutta la vacanza di Natale o di metà estate.
+
 
 
 <span class="atom-split" data-atom="story_04_chirp_the_first--part_07" data-title="The Cricket on the Hearth — Chirp The First (part 7)" data-chapter="Chirp The First" data-kind="excerpt" data-tags="motif/dreams,motif/fire,motif/home,motif/night,motif/time,motif/well,motif/window,concept/body,concept/doubt,concept/imagination,concept/self,concept/truth,character/tackleton"></span>
@@ -4696,6 +5126,85 @@ think there's anything more in it?"
 be sure! Doubtless you would. Of course. I'm certain of it. Good [[Night|night]].
 Pleasant [[Dreams|dreams]]!"
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Era nei giocattoli ciò che la maggior parte degli uomini è nelle altre cose. Potete facilmente immaginare quindi che sotto il grande mantello verde, che gli arrivava alle caviglie, fosse chiuso fino al mento un uomo straordinariamente piacevole; e che fosse uno spirito raro e una compagnia gradevole come non mai in un paio di stivali dall'aspetto robusto con punte color mogano.
+
+Eppure, [[Tackleton]], il mercante di giocattoli, stava per sposarsi. Nonostante tutto questo, stava per sposarsi. E con una giovane moglie, addirittura, una bellissima giovane moglie.
+
+Non aveva l'aspetto di uno sposo mentre stava in cucina dal facchino,
+con una smorfia sul suo viso secco, e un'attitudine rigida nel suo [[Body|corpo]], e il cappello tirato sulla punta del naso, e le mani infilate fino in fondo alle tasche, e tutto il suo sarcasmo, la sua natura sgradevole che sbucava da un angolino di un occhio, come l'essenza concentrata di una quantità infinita di corvi. Ma uno sposo intendeva essere.
+
+"Tra tre giorni. [[thursday|Giovedì]] prossimo. L'ultimo giorno del primo mese dell'anno. Sarà il mio giorno di nozze", disse [[Tackleton]].
+
+Ho detto che aveva sempre un occhio spalancato e uno quasi chiuso, e che l'occhio quasi chiuso era quello espressivo? Non credo di averlo fatto.
+
+"Questo è il giorno del mio matrimonio!" disse [[Tackleton]], facendo tintinnare i suoi soldi.
+
+«Ma è anche il nostro giorno di matrimonio», esclamò il vetturale.
+
+«Ah, ah!» rise [[Tackleton]]. «Che strano! Siete proprio un'altra coppia del genere. Proprio così!»
+
+L'indignazione di Dot per questa affermazione presuntuosa non si può descrivere. E cosa sarebbe successo dopo? La sua [[Imagination|immaginazione]] avrebbe potuto comprendere la possibilità di un altro Bambino del genere, forse. L'uomo era pazzo.
+
+"Dico io! Una parola con voi", mormorò [[Tackleton]], gomito nell'incavo del braccio del Vetturino,
+e portandolo un po' da parte. "Verrete al matrimonio?
+Siamo nella stessa barca, sapete."
+
+«Come nella stessa barca?» chiese il vetturale.
+
+"Una piccola disparità, sapete", disse [[Tackleton]] con un'altra gomitata.
+"Venite a passare una serata con noi prima di allora".
+
+«Perché?» chiese John, stupito da questa insistente ospitalità.
+
+«Perché?» ribatté l'altro. «Questo è un modo nuovo di accettare un invito.
+Ma per il piacere, la socialità, sapete, e tutto quanto.»
+
+«Pensavo che non fossi mai socievole», disse John nel suo modo semplice.
+
+"Tchah! Non serve essere altro che sinceri con voi, vedo," disse [[Tackleton]]. "Allora, la [[Truth|verità]] è che avete un, come dicono quelli del tè, una specie di aspetto confortevole insieme, tu e tua moglie. Noi sappiamo meglio, lo sai, ma----"
+
+«No, non lo sappiamo meglio», intervenne John. «Di cosa state parlando?»
+
+"[[Well|Bene]]! Allora non sappiamo fare di meglio," disse [[Tackleton]]. "Diremo che non possiamo. Come preferite; che importa? Stavo per dire, dato che avete quell'aspetto, la vostra compagnia produrrà un effetto favorevole su Mrs. [[Tackleton]] e questo è quanto. E anche se non credo che la vostra buona signora sia molto amichevole con me in questa faccenda, comunque non può fare a meno di cadere nella mia prospettiva, perché c'è una compattezza e un aspetto accogliente in lei che sempre si fa sentire, anche in un caso indifferente. Direte che verrete?"
+
+«Abbiamo deciso di trascorrere il giorno delle nostre nozze (per quel che può valere) a [[Home|casa]]», disse John. «Ci siamo fatti questa promessa sei mesi fa. Pensiamo, capite, che la [[Home|casa]], »
+
+"Mah! che cos'è la [[Home|casa]]?" esclamò [[Tackleton]]. "Quattro mura e un soffitto! (Perché non uccidi quel Grillo? _Io_ lo farei! Lo faccio sempre. Odio il loro rumore.) Ci sono quattro mura e un soffitto nella mia [[house|casa]]. Venite da me!"
+
+«Uccidi i tuoi Grilli, eh?» disse John.
+
+«Le faccia ingoiare, signore», rispose l'altro, appoggiando pesantemente il tallone sul pavimento. «Mi dirà che verrà? È tanto nel suo interesse quanto nel mio che le donne si convincano a vicenda di essere tranquille e contente, e che non potrebbero stare meglio. Conosco i loro metodi. Qualunque cosa dica una donna, un'altra è sempre decisa ad aggiungere qualcosa. C'è tra loro tale spirito di emulazione, signore, che se sua moglie dice alla mia: "Sono la donna più felice del mondo e mio marito è il migliore al mondo, e lo adoro", la mia dirà la stessa cosa alla sua, o anche di più, e ci crederà a metà.»
+
+«Vuoi dire che non lo fa?» chiese il vetturale.
+
+"Non farlo!" esclamò [[Tackleton]] con una risata breve e aspra. "Non fare cosa?"
+
+Il vetturino aveva un'idea vaga di aggiungere: «si affezioni a voi». Ma,
+trovandosi per caso davanti all'occhio semi-chiuso che brillava su di lui sopra il bavero della giacca, che era sul punto di spingerlo fuori,
+sentì che era una parte così improbabile e un pezzo di qualcosa da amare,
+che lo sostituì con: «che lei non ci creda?»
+
+«Ah, cane che non sei altro! Stai scherzando», disse [[Tackleton]].
+
+Ma il vetturino, sebbene lento nel comprendere appieno il senso delle sue parole,
+lo guardò con tale serietà che fu costretto ad essere un po' più esplicito.
+
+"Abbiamo l'[[Humour|umorismo]]", disse [[Tackleton]], tenendo in alto le dita della mano sinistra e battendo sull'indice per dire: "Ecco, sono io, [[Tackleton]]": "Ho l'[[Humour|umorismo]], signore, di sposare una moglie giovane e carina"; qui batté sul mignolo per indicare la Sposa; non con parsimonia ma con decisione, quasi con un senso di potere. "Sono in grado di soddisfare questo [[Humour|umorismo]] e lo faccio. È il mio capriccio. Ma, ora guardi lì!"
+
+Indicò il punto in cui Dot era seduta, pensierosa davanti al [[Fire|fuoco]],
+appoggiando il suo mento incavato sulla mano e osservando le fiamme luminose.
+Il Carrier la guardò, poi lui, poi di nuovo lei e infine ancora lui.
+
+"La onora e la obbedisce, senza alcun [[Doubt|dubbio]], sapete," disse [[Tackleton]]; "e questo,
+poiché non sono un uomo di sentimenti, è più che sufficiente per _me_. Ma pensate
+che ci sia qualcosa in più?"
+
+«Penso», osservò il vetturino, «che buttarei fuori dalla [[Window|finestra]] chiunque dicesse che non c'è.»
+
+«Esattamente così», rispose l'altro con un'insolita prontezza di assenso. «Certo! Senza dubbio lo fareste. Naturalmente. Ne sono certo. Buona [[Night|notte]]. Sogni [[Dreams|piacevoli]]!»
 
 
 
@@ -4835,6 +5344,103 @@ husband; filled his pipe and gave it him; and took her usual little
 stool beside him on the hearth.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Il vetturino era perplesso e si sentiva a disagio ed incerto, malgrado se stesso.
+Non poteva fare a meno di darlo a vedere nel suo comportamento.
+
+"[[Night|Buona]] notte, mio caro amico!" disse [[Tackleton]] con compassione. "Me ne vado.
+Siamo esattamente uguali in realtà, vedo. Non ci darai la serata di domani?
+[[Well|Bene]]! Il giorno dopo esci a fare visite, lo so. Ti incontrerò
+lì e porterò mia moglie che sarà. Le farà bene. Sei
+d'accordo? Grazie. Cos'è quello?"
+
+Fu un grido forte della moglie del Carrier: un grido forte, acuto e improvviso,
+che fece risuonare la stanza come un recipiente di vetro. Si era alzata dal suo
+posto ed era rimasta immobile come se fosse stata inchiodata dalla paura e dalla sorpresa. Lo Straniero
+si era avvicinato alla [[Fire|fiamma]] per scaldarsi, e si trovava a pochi passi dalla sua sedia. Ma del tutto immobile.
+
+«Dot!» gridò il vetturale «Mary! Tesoro! Che succede?»
+
+In un attimo furono tutti intorno a lei. Caleb, che si era assopito sulla scatola della torta, nel primo momento di recupero imperfetto del suo stato di coscienza sospeso, afferrò Miss Slowboy per i capelli ma subito si scusò.
+
+«Maria!» esclamò il vetturale sostenendola tra le braccia «Sei malata?
+Che cosa c'è? Dimmelo, tesoro!»
+
+Rispose solo battendo le mani l'una contro l'altra e scoppiando in una risata isterica. Poi, sprofondando a terra dalla sua presa, si coprì il viso con il grembiule e pianse amaramente. E poi rise di nuovo, e poi piangeva ancora, e poi disse quanto aveva freddo, e lo lasciò condurre verso la [[Fire|fiamma]], dove si sedette come prima. L'anziano uomo rimase in piedi, immobile come prima.
+
+«Sto meglio, John», disse lei «Sono completamente [[Well|guarita]] ora, io, »
+
+«Giovanni!» Ma Giovanni era dall'altra parte di lei. Perché girare il viso verso l'insolito vecchio signore come se lo stesse apostrofando? Era forse in preda al delirio?
+
+«Solo un'illusione, caro John -- una specie di scossa -- qualcosa che è apparso improvvisamente davanti ai miei occhi -- non so cosa fosse. È sparito del tutto, sparito del tutto».
+
+"Ne sono contento che se ne sia andato", borbottò [[Tackleton]], girando il suo espressivo occhio per tutta la stanza. "Mi [[Wonder|domando]] dove sia finito e cosa fosse. Humph! Caleb, vieni qui! Chi è quello con i capelli grigi?"
+
+«Non lo so, signore», rispose Caleb sussurrando. «Non l'ho mai visto prima in tutta la mia vita. Una bella figura per un rompinoce; un modello completamente nuovo. Con una mascella a vite che si apre fino al gilè sarebbe perfetto».
+
+"Non abbastanza brutto", disse [[Tackleton]].
+
+"O per una [[Fire|scatola]] degli accendini", osservò Caleb in profonda contemplazione,
+"che modello! Svitagli la testa per metterci dentro i fiammiferi; giralo a testa in giù
+per l'accensione; e che [[Fire|scatola]] degli accendini per lo scaffale del caminetto di un gentiluomo,
+proprio così com'è!"
+
+"Non è nemmeno abbastanza brutto", disse [[Tackleton]]. "Non ha niente di speciale. Avanti,
+porta quella scatola! Ora va bene, spero [[Hope|spero]]?"
+
+"Ah, se n'è andato del tutto! Se n'è andato del tutto!", disse la piccola donna, allontanandolo in fretta con un gesto della mano. "Buona [[Night|notte]]!".
+
+"Buona [[Night|notte]]!" disse [[Tackleton]]. "Buona [[Night|notte]], [[John Peerybingle]]! Fai attenzione a come porti quella scatola, Caleb. Se la lasci cadere, ti ammazzo! Buio pesto e il tempo peggio che mai, eh? Buona [[Night|notte]]!"
+
+Così, dopo un altro sguardo penetrante in giro per la stanza, uscì dalla porta,
+seguito da Caleb con la torta nuziale sulla testa.
+
+Il vetturale era stato così sorpreso dalla sua giovane moglie e si era dedicato con tanto impegno a calmarla e prendersi cura di lei che non aveva quasi notato la presenza dello Sconosciuto fino ad ora, quando questi si trovava nuovamente lì, loro unico ospite.
+
+«Non gli appartiene, capite», disse John. «Devo dargli un suggerimento di andarsene».
+
+"Mi scusi, amico," disse il vecchio gentiluomo avvicinandosi;
+"tanto più che [[Fear|temo]] sua moglie non sia stata [[Well|bene]]; ma l'Assistente
+che la mia infermità," si toccò le orecchie e scosse il capo, "rende quasi indispensabile,
+non essendo arrivato, [[Fear|temo]] ci debba essere qualche errore. La brutta [[Night|notte]] che ha reso così accettabile la protezione del suo comodo carro (che io non possa mai trovarne uno peggiore!) è ancora pessima come prima.
+Mi permetterebbe, nella sua gentilezza, di affittare un letto qui?"
+
+«Sì, sì», esclamò Dot. «Sì! Certo!»
+
+"Ah!" disse il vetturale, sorpreso dalla prontezza di questo consenso. "Ebbene! Non ho nulla in contrario, ma non sono ancora del tutto sicuro che ----"
+
+«Sst!» lo interruppe «Caro John!»
+
+«Ma è sordo come un mattone», insistette John.
+
+«So che lo è, ma----Sì, signore, certamente. Sì, certamente! Gli preparerò subito un letto, John».
+
+Mentre si affrettava a farlo, il tremito dei suoi nervi e l'agitazione del suo comportamento erano così strani che il facchino rimase a guardarla allontanarsi, completamente sconcertato.
+
+«Le sue mamme gli preparavano il letto, allora!» gridò la signorina Slowboy al Bambino; «e i suoi capelli diventavano castani e ricci quando si toglieva il cappellino, e lo spaventavano, tesoro mio, mentre stava seduto accanto al fuoco!»
+
+Con quell'incomprensibile attrazione della mente verso le sciocchezze,
+che spesso accompagna uno stato di [[Doubt|dubbio]] e confusione, il vetturino,
+mentre camminava lentamente avanti e indietro, si ritrovò a ripetere mentalmente
+anche queste assurde parole, molte volte. Tante volte che le imparò a memoria,
+e continuava ancora a ripeterle più e più volte, come una lezione, quando Tilly,
+dopo aver strofinato la piccola testa calva con la mano quanto riteneva salutare
+(secondo l'usanza delle balie), aveva di nuovo legato il cappellino del Bambino.
+
+"E spaventarla, una cara creatura che sta seduta accanto al fuoco! Cosa ha spaventato Dot, mi [[Wonder|domando]]?", meditò il vetturino, camminando avanti e indietro.
+
+Scartò, dal profondo del cuore, le insinuazioni del mercante di giocattoli,
+eppure queste lo riempivano di un vago e indefinito disagio. Perché [[Tackleton]]
+era svelto e astuto; e lui stesso aveva quella penosa consapevolezza, di essere
+un uomo dalla percezione lenta, per cui ogni accenno sfuggente lo tormentava.
+Non aveva certamente alcuna intenzione di collegare qualcosa che
+[[Tackleton]] aveva detto con il comportamento insolito della moglie,
+ma i due argomenti di riflessione gli venivano in mente insieme, e non riusciva
+a tenerli separati.
+
+Il letto fu presto pronto e il visitatore, rifiutando ogni altra offerta di cibo tranne una tazza di tè, si ritirò. Poi Dot - che era completamente [[Well|guarita]], disse, completamente [[Well|guarita]] - sistemò la grande poltrona nell'angolo del camino per suo marito; gli riempì la pipa e gliela diede; e prese il suo solito piccolo sgabello accanto a lui sul focolare.
+
 
 
 <span class="atom-split" data-atom="story_04_chirp_the_first--part_09" data-title="The Cricket on the Hearth — Chirp The First (part 9)" data-chapter="Chirp The First" data-kind="excerpt" data-tags="archetype/shadow,motif/clock,motif/fire,motif/flowers,motif/home,character/tackleton"></span>
@@ -4892,6 +5498,28 @@ ever repeating "Married! and not to me!"
 Oh, Dot! Oh, failing Dot! There is no place for it in all your husband's
 visions. Why has its [[Shadow|shadow]] fallen on his hearth?
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Lei si sedeva sempre su quel piccolo sgabello. Penso che dovesse avere una specie di idea che fosse uno sgabello accattivante e persuasivo.
+
+Direi che fosse, senza alcun dubbio, la migliore riempitrice di pipa dei quattro angoli del globo. Vedere il suo ditino grassottello infilarsi nella ciotola e poi soffiare nel cannello per liberarlo dal tabacco, fingendo poi di credere che ci fosse ancora qualcosa da rimuovere e soffiando una dozzina di volte, portandosela all'occhio come un telescopio con un'espressione facciale davvero esasperante mentre la osservava, era uno spettacolo brillante. Per quanto riguarda il tabacco, ne padroneggiava l'uso alla perfezione; e accendere la pipa con una striscia di carta quando il Carrier se la portava in bocca - avvicinandola così tanto al suo naso senza bruciarlo - era un'arte, un'alta arte.
+
+E il Grillo e il Bollitore, riapparendo, lo riconobbero! Il [[Fire|fuoco]] luminoso,
+riaccendendosi, lo riconobbe! Lo spazzino sul [[Clock|orologio]], nel suo lavoro ignorato,
+lo riconobbe! Il Corriere, lisciandosi la fronte e illuminando il volto, lo
+riconobbe per primo.
+
+E mentre fumava con sobrietà e riflessione la sua vecchia pipa, e mentre l'[[Clock|orologio]] olandese ticchettava, e il [[Fire|fuoco]] rosso brillava, e il Grillo cantava, quel Genio del suo Focolare e della [[Home|Casa]] (perché tale era il Grillo) uscì in forma fatata nella stanza e convocò intorno a sé molte forme di [[Home|Casa]]. Dots di tutte le età e dimensioni riempirono la camera. C'erano Dots che erano bambini allegri, che correvano davanti a lui raccogliendo [[Flowers|fiori]] nei campi; Dots timide, che si ritraevano ma cedevano alle preghiere della sua rozza immagine; Dots appena sposate, che scendevano dalla carrozza e prendevano possesso delle chiavi di casa con stupore; piccole Dots materne, accompagnate da lenti fattorini immaginari, portando bambini per il battesimo; Dots matrone, ancora giovani e fiorite, che osservavano le figlie Dots mentre danzavano ai balli rustici; Dots grasse, circondate e assediate da schiere di nipoti rosei; Dots avvizzite, che si appoggiavano a bastoni e zoppicavano nel camminare. Apparvero anche vecchi Carrettieri con i loro cani Boxer ciechi sdraiati ai loro piedi; carri più nuovi con conducenti più giovani ("Fratelli Peerybingle" sulla tettoia); vecchi carrettieri malati, curati dalle mani più gentili; e tombe di vecchi carrettieri morti e sepolti, verdi nel cimitero. E mentre il Grillo gli mostrava tutte queste cose - le vedeva chiaramente, sebbene i suoi occhi fossero fissi sul [[Fire|fuoco]] - il cuore del Carrettiere si fece leggero e felice, e ringraziò con tutta la sua forza i suoi Dei domestici, e non gli importava più di Gruff e [[Tackleton]] di quanto ne importasse a voi.
+
+*     *     *     *     *
+
+Ma che cosa era quella giovane figura d'uomo, che la stessa Fata Grillo
+pose così vicino allo sgabello di Lei, e che rimase lì, da solo e [[Alone|solo]]? Perché
+indugiava ancora, così vicino a lei, con il braccio sul caminetto,
+ripetendo sempre "Sposata! E non con me!"
+
+"Oh, Dot! Oh, fallace Dot! Non c'è posto per lei in tutte le visioni di tuo marito. Perché la sua [[Shadow|ombra]] è caduta sul suo focolare?"
 
 
 
@@ -5006,6 +5634,33 @@ remote, in [[Caleb Plummer]]'s room. And not in an exaggerated form, for
 very little handles will move men and women to as strange performances
 as any Toy was ever made to undertake.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+IL SECONDO CHIRP
+
+[[Caleb Plummer]] e sua figlia cieca vivevano tutti [[Alone|soli]] da soli, come dicono i libri di fiabe - e la mia benedizione, insieme alla vostra, per sostenere questa affermazione, lo [[Hope|spero]], sui libri di fiabe, che dicono qualcosa in questo mondo fatto di lavoro quotidiano! - Caleb Plummer e sua figlia cieca vivevano tutti [[Alone|soli]] da soli, in una piccola casa di legno, un guscio di noce crepato, che era, in [[Truth|verità]], nient'altro che un brufolo sul prominente naso di mattoni rossi della ditta Gruff e [[Tackleton]]. Gli uffici di Gruff e [[Tackleton]] erano la grande attrazione della strada; ma avreste potuto abbattere l'abitazione di [[Caleb Plummer]] con un martello o due, e portar via i pezzi su una carretta.
+
+Se qualcuno avesse fatto all'abitazione di [[house|Caleb Plummer]] l'[[]]onore]] di non notarla dopo un tale assalto, senza dubbio ne avrebbe approvato la demolizione come un grande miglioramento. Era attaccata ai locali di Gruff e [[Tackleton]] come una balena alla chiglia di una [[Ship|nave]], o una lumaca a una porta, o un piccolo gruppo di funghi velenosi al tronco di un albero. Ma era il germe da cui era nato il grande albero di Gruff e [[Tackleton]]; e sotto il suo tetto cadente, l'ultimo dei Gruff aveva, in piccolo, fabbricato giocattoli per una generazione di vecchi ragazzi e ragazze che ci avevano giocato, li avevano scoperti, rotti e poi erano andati a [[Sleep|dormire]].
+
+Ho detto che Caleb e la sua povera figlia cieca vivevano qui. Avrei dovuto dire che Caleb viveva qui, e la sua povera figlia cieca da qualche altra parte -- in una [[Home|casa]] incantata arredata da Caleb, dove non esistevano né scarsità né miseria, e mai entrava il dispiacere. Caleb non era un mago; ma nell'unica arte [[Magic|magica]] che ci resta ancora, la [[Magic|magia]] dell'[[Love|amore]] devoto e immortale, la [[Nature|Natura]] gli fu maestra di studio; e da questa sua istruzione venne tutto il [[Wonder|meraviglioso]].
+
+La Ragazza Cieca non sapeva mai che i soffitti erano scoloriti, le pareti macchiate e prive di intonaco qua e là, alte crepe non tappate e sempre più larghe ogni giorno, travi in decomposizione e tendenti verso il basso. La Ragazza Cieca non sapeva mai che il ferro si arrugginisse, il legno marcisse, la carta si staccasse; le dimensioni, la forma e la vera proporzione dell'abitazione, che andavano scomparendo. La Ragazza Cieca non sapeva mai che brutte forme di delfo e terracotta fossero sulla tavola; che il [[house|dolore]] e lo scoraggiamento fossero nella [[Tackleton|casa]]; che i radi capelli di Caleb si stessero ingrigendo sempre più davanti al suo volto cieco. La Ragazza Cieca non sapeva mai che avessero un padrone, freddo, esigente e disinteressato - non sapeva mai che [[Tackleton]] fosse Tackleton, in breve; ma viveva nella convinzione di uno umorista eccentrico, che amava scherzare con loro, e che, mentre era l'Angelo Custode delle loro vite, disdegnava di sentire una parola di gratitudine.
+
+E tutto era opera di Caleb; tutta l'opera del suo semplice padre! Ma anche lui aveva un Grillo sul Focolare e, ascoltando tristemente la sua musica quando la cieca [[Child|bambina]] senza madre era molto giovane, quello Spirito lo aveva ispirato con il pensiero che persino la sua grande privazione potesse essere quasi trasformata in una benedizione e che la ragazza potesse essere resa felice con questi piccoli mezzi. Poiché tutti i Grilli sono Spiriti potenti, anche se le persone che conversano con loro non lo sanno (il che accade spesso), e nel mondo invisibile non ci sono voci più dolci e più vere su cui si possa fare affidamento implicitamente o che siano così certe di dare solo consigli tenerissimi come le Voci con cui gli Spiriti del Focolare e dell'Ardere si rivolgono all'umanità.
+
+Caleb e sua figlia lavoravano insieme nella loro solita stanza di lavoro,
+che fungeva anche da sala da pranzo; ed era un luogo strano. C'erano case lì dentro, finite e
+incompiute, per Bambole di tutte le condizioni sociali. Alloggi suburbani per
+Bambole di modeste risorse; cucine e monolocali per Bamolle delle
+classi inferiori; residenze cittadine di lusso per Bambole di alto lignaggio. Alcuni di
+questi alloggi erano già arredati secondo preventivo, in vista della comodità di Bambole a reddito limitato; altri potevano essere allestiti sul più costoso piano, in un attimo, da interi scaffali di sedie e tavoli, divani, letti e tappezzeria. La nobiltà e la borghesia e il pubblico in generale, per i quali questi alloggi erano progettati, giacevano qua e là, nei cesti, fissando dritto verso il soffitto; ma nel denotare i loro gradi nella società,
+e confinarli alle rispettive condizioni (cosa che l'esperienza dimostra
+essere deplorabilmente difficile nella vita reale), i creatori di queste Bambole avevano molto migliorato la [[Nature|Natura]], che è spesso ostinata e perversa; poiché, non accontentandosi di marchi arbitrari come raso, stampa di cotone e pezzi di straccio,
+avevano aggiunto notevoli differenze personali che non lasciavano adito a equivoci. Così, la [[Well|Bambola]]-signora distinta aveva arti di cera di perfetta
+simmetria; ma solo lei e le sue pari. Il grado successivo nella scala sociale era fatto di pelle, e quello dopo di stoffa grezza. Quanto alla gente comune, avevano appena tanti fiammiferi da scatole per accendere fuoco per i loro braccia e gambe, ed eccoli lì--stabiliti nella loro sfera in un attimo, al di là della possibilità di uscirne.
+
+Nella stanza di [[Caleb Plummer]] c'erano vari altri esempi del suo lavoro artigianale oltre alle bambole. C'erano archi di Noè, in cui gli uccelli e le bestie erano un adattamento straordinariamente stretto, ve lo assicuro; anche se potevano essere stipati comunque, sul tetto, e scossi fino a ridurli alle dimensioni più piccole. Per una licenza poetica audace, la maggior parte di questi archi di Noè aveva batacchi alle porte; appendici incoerenti, forse, che suggerivano visitatori mattutini e un postino, ma un piacevole completamento all'esterno dell'edificio. C'erano decine di carrettini [[Melancholy|malinconici]], che quando le ruote giravano eseguivano musica molto triste. Molti piccoli violini, tamburi e altri strumenti di tortura; cannoni, scudi, spade, lance e fucili senza fine. C'erano dei piccoli acrobati in pantaloni rossi che si arrampicavano incessantemente su alti ostacoli di nastro rosso e scendevano a testa in giù dall'altra parte; e c'erano innumerevoli vecchietti di aspetto rispettabile, per non dire venerabile, che volavano follemente sopra chiodi orizzontali, inseriti allo scopo nelle loro stesse porte di strada. C'erano bestie di ogni tipo; cavalli in particolare, di ogni razza, dal barile maculato su quattro chiodi con una piccola sciarpa per la criniera, al cavallo da corsa più purosangue nel suo massimo vigore. Come sarebbe stato difficile contare le dozzine e dozzine di figure [[Grotesque|grottesche]] sempre pronte a commettere ogni sorta di assurdità alla rotazione di una manopola, così non sarebbe stato un compito facile menzionare qualsiasi follia umana, vizio o debolezza che non avesse il suo tipo, immediato o remoto, nella stanza di [[Caleb Plummer]]. E non in forma esagerata, perché manopole molto piccole possono spingere uomini e donne a performance strane quanto qualsiasi giocattolo sia mai stato fatto per intraprendere.
 
 
 
@@ -5141,6 +5796,85 @@ way.
 "Oh! [[Well|well]]; quite [[Well|well]]! And as happy as even you can wish me to be. As
 happy as you would make the whole world, if you could!"
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Tra tutti questi oggetti, Caleb e sua figlia sedevano al lavoro:
+la ragazza cieca era indaffarata come una sarta di vestiti per bambole;
+Caleb dipingeva e verniciava il primo piano di un desiderabile palazzo familiare.
+
+La cura impressa nelle linee del volto di Caleb e il suo atteggiamento assorto e sognante,
+che si sarebbe addirittura adattato [[Well|bene]] a qualche alchimista o studioso profondo, erano a prima vista un contrasto strano con la sua occupazione e le futilità che lo circondavano. Ma le cose banali, inventate e perseguite per guadagnarsi il pane quotidiano, diventano questioni di fatto molto serie: e, a parte questa considerazione, non sono affatto preparato a dire io stesso che se Caleb fosse stato un Lord Ciambellano o un Membro del Parlamento o un avvocato o anche un grande speculatore, avrebbe commerciato in giocattoli meno eccentrici, mentre ho moltissimi [[Doubt|dubbi]] sul fatto che sarebbero stati altrettanto innocui.
+
+"Quindi sei uscito sotto la pioggia ieri [[Night|notte]], padre, nel tuo bellissimo nuovo pastrano", disse la figlia di Caleb.
+
+«Nel mio bellissimo nuovo pastrano», rispose Caleb, guardando verso un filo da bucato nella stanza su cui era stato accuratamente appeso ad asciugare l'indumento di sacco precedentemente descritto.
+
+«Oh, quanto sono felice che l'abbiate comprata, padre!»
+
+«E di un sarto del genere!» disse Caleb «Un sarto alla moda,
+è troppo bello per me».
+
+La fanciulla cieca riposò dal suo lavoro e rise di gioia: «Troppo buono, padre! Che cosa può essere troppo buono per voi?»
+
+«Mi vergogno quasi di portarlo», disse Caleb, osservando l'effetto delle sue parole sul viso che si illuminava, «sul mio onore! Quando sento i ragazzi e la gente dire alle mie spalle: 'Ehi! Che eleganza!', non so più dove guardare. E quando il mendicante non voleva andarsene [[Night|ieri notte]]; e, quando ho detto che ero un uomo molto [[Common Man|comune]], ha risposto: 'No, vostro [[Honour|Onore]]! Benedetto il vostro [[Honour|Onore]], non dica così!', mi sono sentito davvero in imbarazzo. Mi è sembrato di non avere il diritto di portarlo».
+
+Felice fanciulla cieca! Quanto era allegra nella sua esultanza!
+
+«Vi vedo, padre», disse stringendosi le mani, «chiaramente come se avessi gli occhi che non mi servono mai quando siete con me. Un cappotto blu, »
+
+«Blu acceso», disse Caleb.
+
+"Sì, sì! Blu brillante!" esclamò la ragazza, alzando il suo viso radioso;
+"il colore che riesco appena a ricordare nel cielo benedetto! Mi hai detto prima che era blu! Un cappotto blu brillante----"
+
+«Adattato alla figura», suggerì Caleb.
+
+"Sì! largo alla figura!" esclamò la fanciulla cieca ridendo di cuore; "e in essa tu, caro padre, con il tuo occhio allegro, il tuo volto sorridente, il tuo passo libero e i tuoi capelli scuri - che sembri così giovane e bello!"
+
+«Ehi! Ehi!» disse Caleb. «Tra poco diventerò vanitoso!»
+
+«Io credo che tu lo sia già», gridò la fanciulla cieca indicandolo con gioia. «Ti riconosco, padre! Ah, ah, ah! Ti ho scoperto, vedi?»
+
+Quale diversità tra l'immagine che aveva in mente e Caleb, mentre sedeva osservandola! Lei aveva parlato del suo passo libero. Aveva ragione su questo punto. Per anni e anni non era mai entrato oltre quella soglia con il proprio ritmo lento, ma sempre con un passo simulato per i suoi orecchi; e mai, neppure quando il cuore gli pesava di più, aveva dimenticato la leggerezza del passo che avrebbe reso così allegro e coraggioso quello di lei!
+
+Dio lo sa! Ma credo che la vaga confusione di Caleb possa essere in parte nata dal fatto che si è reso confuso riguardo a se stesso e a tutto ciò che gli stava intorno, per [[Love|amore]] della sua cieca figlia. Come avrebbe potuto quell'uomo piccolo non essere altro che disorientato, dopo aver lavorato per così tanti anni per distruggere la propria [[Identity|identità]], e quella di tutti gli oggetti che vi avevano un qualche rapporto?
+
+"Ecco fatto", disse Caleb, arretrando di un passo o due per poter meglio giudicare il suo lavoro; "tanto vicino alla cosa reale quanto sei pence di mezzi penny lo siano a sei pence. Che peccato che l'intera facciata della [[house|casa]] si apra tutta insieme! Se ci fosse solo una scala e porte regolari per le stanze da cui entrare! Ma questo è il peggio del mio mestiere, mi illudo sempre e mi frego."
+
+«Parlate molto dolcemente. Non siete stanco, padre?»
+
+«Stanco!» ripeté Caleb con un grande scoppio di vivacità «Cosa dovrebbe stancarmi, Bertha? Io non sono mai stato stanco. Cosa vuol dire?»
+
+Per dare maggiore forza alle sue parole, si trattenne in una involontaria [[Imitation|imitazione]] di due figure a mezzo busto che si stiracchiavano e sbadigliavano sullo scaffale del caminetto, rappresentate come in uno stato eterno di stanchezza dalla vita in su; e intonò un [[Fragment|frammento]] di una [[Song|canzone]]. Era una [[Song|canzone]] bacchica, qualcosa riguardante una Coppa Scintillante. La cantava assumendo una voce da chi se ne infischia, che rendeva il suo volto mille volte più magro e pensieroso che mai.
+
+"Che cosa? Stai cantando, eh?" disse [[Tackleton]], mettendo la testa dentro dalla porta. "Continua così! Io non so cantare."
+
+Nessuno avrebbe mai sospettato di lui una cosa del genere. Non aveva affatto quel che si suole chiamare un volto da cantante.
+
+"Non posso permettermi di cantare", disse [[Tackleton]]. "Sono contento che _tu_ possa. Spero [[Hope|spero]]
+che tu possa anche lavorare. A malapena c'è [[Time|tempo]] per entrambe le cose, credo?"
+
+«Se solo potessi vederlo, Bertha, come mi fa l'occhiolino!» sussurrò Caleb. «Che uomo scherzoso! Se non lo conoscessi penseresti che è serio sul serio - vero?»
+
+La ragazza cieca sorrise e annuì.
+
+"L'uccello che può cantare e non canta deve essere costretto a cantare, dicono,"
+borbottò [[Tackleton]]. "E la civetta che non sa cantare, e non dovrebbe
+cantare, e invece canta; c'è qualcosa che _lei_ dovrebbe fare?"
+
+«Fino a che punto sta strizzando l'occhio in questo momento!» sussurrò Caleb alla figlia. «Oh, mio Dio!»
+
+«Sempre allegra e di buon cuore con noi!» esclamò la sorridente Bertha.
+
+"Ah! sei qui, allora?" rispose [[Tackleton]]. "Povero idiota!"
+
+Egli credeva davvero che fosse una sciocca e questa convinzione era basata,
+non saprei dire se consapevolmente o no, sul fatto che lei lo amasse.
+
+«[[Well|Bene]]! E visto che ci siamo, come state?» disse [[Tackleton]] nel suo modo avaro.
+
+"Ah! [[Well|bene]]; proprio [[Well|bene]]! E felice come anche tu puoi desiderare che io sia. Così felice come vorresti rendere tutto il mondo, se potessi!"
 
 
 
@@ -5291,6 +6025,101 @@ the handsome coat?" said Bertha, touching him.
 one arm round his neck, "tell me something about May. She is very fair?"
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+"Stupido idiota!" borbottò [[Tackleton]]. "Nemmeno un barlume di ragione. Nemmeno uno!"
+
+La ragazza cieca prese la sua mano e la baciò; la tenne per un momento tra le sue due mani; e vi appoggiò teneramente contro la guancia prima di lasciarla. C'era in quell'atto una tale indescrivibile affezione e una tale fervente gratitudine, che persino [[Tackleton]] si sentì commosso a dire, con un brontolio più mite del solito:
+
+«Che cosa c'è adesso?»
+
+"La tenni vicina al mio cuscino quando mi addormentai ieri [[Night|notte]], e la ricordai nei miei [[Dreams|sogni]]. E quando il giorno si levò, e apparve il glorioso sole rosso - il _rosso_ sole, padre?"
+
+«Rosso al mattino e alla sera, Bertha», disse il povero Caleb con uno sguardo afflitto verso il suo datore di lavoro.
+
+"Quando si [[Rose|alzò]], e la luce luminosa contro cui quasi [[Fear|temo]] di scontrarmi camminando entrò nella stanza, girai il piccolo albero verso di essa e ringraziai il Cielo per aver creato cose così preziose, e vi ringraziai per avermele mandate a consolarmi!"
+
+«È scoppiato il pandemonio!» disse [[Tackleton]] sottovoce. «Arriveremo presto al camiciotto di forza e ai fazzoletti. Procediamo bene!»
+
+Caleb, con le mani intrecciate l'una nell'altra in modo rilassato, fissava il vuoto davanti a sé mentre sua figlia parlava, come se fosse veramente incerto (e credo lo fosse) su se [[Tackleton]] avesse fatto qualcosa per meritare i suoi ringraziamenti o meno. Se in quel momento avesse potuto essere un agente perfettamente libero, obbligato, a [[Pain|pena]] di [[Death|morte]], a dare un calcio al venditore di giocattoli o a cadere ai suoi piedi, secondo i suoi meriti, credo che ci sarebbe stata una possibilità su due che avrebbe scelto l'una o l'altra opzione. Eppure Caleb sapeva che con le sue stesse mani aveva portato [[Home|a casa]] per lei il piccolo albero di [[Rose|rose]] così attentamente, e che con le sue stesse labbra aveva forgiato la [[Deception|menzogna]] [[Innocent|innocente]] che avrebbe dovuto aiutare a impedirle di sospettare quanto, quanto molto, si negasse ogni giorno affinché lei potesse essere più felice.
+
+«Bertha!», disse [[Tackleton]], assumendo per un attimo una certa cordialità. «Vieni qui».
+
+«Oh, posso venire direttamente da voi! Non c'è bisogno che mi guidiate!» replicò lei.
+
+«Devo dirti un segreto, Bertha?»
+
+«Se lo desiderate!» rispose lei con entusiasmo.
+
+Quanto è luminoso il volto oscurato! Quanto è adornato di luce la testa che ascolta!
+
+"Questo è il giorno in cui la piccola cosa-che-si-chiama, la viziata [[Child|bambina]],
+la moglie di Peerybingle, ti fa la sua visita regolare -- organizza qui il suo fantastico
+pic-nic, no?" disse [[Tackleton]] con una forte espressione di disgusto per tutta quella faccenda.
+
+"Sì", rispose Bertha. "È questo il giorno".
+
+"Lo pensavo anch'io", disse [[Tackleton]]. "Mi piacerebbe unirmi alla compagnia".
+
+«Avete sentito, padre?» esclamò la fanciulla cieca in estasi.
+
+"Sì, sì, lo sento", mormorò Caleb con l'occhiata fissa di un [[Sleep|sonnambulo]]; "ma non ci credo. È una delle mie bugie, ne sono senza [[Doubt|dubbio]]."
+
+"Vedete, io, voglio avvicinare un po' di più i Peerybingle a [[May Fielding]]", disse [[Tackleton]]. "Mi sposerò con May".
+
+«Sposato!» esclamò la fanciulla cieca, ritraendosi da lui.
+
+"È una dannata idiota," borbottò [[Tackleton]], "che avevo paura che non mi avrebbe mai capito. Ah, Bertha! Sposata! Chiesa, pastore, chierichetto,
+sagrestano, carrozza di vetro, [[Bells|campane]], colazione, torta nuziale, coriandoli, midolle d'osso,
+coltelli da macellaio e tutto il resto della pagliacciata. Un matrimonio, sai; un
+matrimonio. Non sai cos'è un matrimonio?"
+
+«Lo so», rispose la fanciulla cieca con tono gentile. «Capisco!»
+
+"Voi siete d'accordo?", mormorò [[Tackleton]]. "È più di quanto mi aspettassi. [[Well|Bene]]! Per questo motivo voglio unirmi alla festa e portare May e sua madre. Manderò qualcosa prima del pomeriggio, una coscia di montone fredda o qualche altro piatto confortevole del genere. Mi aspetterete?"
+
+«Sì», rispose lei.
+
+Aveva abbassato la testa e voltato le spalle; così rimase in piedi con le mani incrociate, pensierosa.
+
+"Non credo che lo farai", borbottò [[Tackleton]] guardandola, "perché sembra tu l'abbia già dimenticato del tutto. Caleb!"
+
+«Posso azzardarmi a dire che sono qui, immagino», pensò Caleb. «Signore!»
+
+«Fate attenzione che non dimentichi quello che le ho detto».
+
+«Lei non dimentica mai», rispose Caleb. «È una delle poche cose per cui non è intelligente».
+
+«Ogni uomo crede che le sue oche siano cigni», osservò il venditore di giocattoli con una scrollata di spalle. «Povero diavolo!»
+
+Dopo aver espresso questo commento con infinito disprezzo, il vecchio Gruff e [[Tackleton]] si ritirarono.
+
+Bertha rimase dove lui l'aveva lasciata, persa nella meditazione. La gaiezza era scomparsa dal suo volto abbassato e appariva molto triste. Tre o quattro volte scosse il capo come se piangesse un ricordo o una perdita; ma i suoi pensieri dolorosi non trovarono sfogo in parole.
+
+Non fu fino a quando Caleb non ebbe occupato un po' di [[Time|tempo]] ad attaccare una squadra di cavalli a un carro con il processo sommario di inchiodare la bardatura alle parti vitali dei loro corpi, che lei si avvicinò al suo banco di lavoro e, sedendosi accanto a lui, disse:
+
+«Padre, sono solo al buio. Voglio i miei occhi, i miei occhi pazienti e volonterosi».
+
+«Eccoli qui», disse Caleb. «Sempre pronti. Sono più tuoi che miei,
+Bertha, a qualsiasi ora delle ventiquattro. Cosa faranno i tuoi occhi per te, cara?»
+
+«Guardi in giro per la stanza, padre».
+
+"Va bene", disse Caleb. "Detto fatto, Bertha".
+
+«Dimmi tutto».
+
+"È più o meno come al solito", disse Caleb. "Semplice, ma molto accogliente. I colori vivaci sulle pareti; i brillanti [[Flowers|fiori]] sui piatti e le stoviglie; il legno lucido dove ci sono travi o pannelli; la generale allegria e pulizia dell'edificio, -- lo rendono molto grazioso."
+
+Era allegro e ordinato ovunque le mani di Bertha potessero darsi da fare.
+Ma non c'era altro posto dove l'allegria e la pulizia fossero possibili nella vecchia baracca malandata che Caleb trasformava con la sua fantasia.
+
+«Avete indosso il vostro abito da lavoro e non siete così elegante come quando portate quel bel cappotto?» disse Bertha toccandolo.
+
+«Non proprio così coraggioso», rispose Caleb. «Ma piuttosto vivace».
+
+«Padre», disse la Ragazza Cieca, avvicinandosi al suo fianco e passando un braccio intorno al collo di lui «ditemi qualcosa su Maggio. È molto bionda?»
+
 
 
 <span class="atom-split" data-atom="story_05_chirp_the_second--part_04" data-title="The Cricket on the Hearth — Chirp The Second (part 4)" data-chapter="Chirp The Second" data-kind="excerpt" data-tags="archetype/innocent,motif/horse,motif/love,motif/road,motif/sleep,motif/soul,motif/time,motif/well,concept/body,concept/doubt,concept/suffering,concept/truth,character/nurse"></span>
@@ -5418,6 +6247,67 @@ This monosyllable was addressed to the [[Horse|horse]], who didn't mind it at al
 things behind me. The basket's safe enough."
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+«È proprio lei», disse Caleb. E lo era davvero. Era una cosa piuttosto rara per Caleb non dover fare affidamento sulla sua inventiva.
+
+«I suoi capelli sono scuri», disse Bertha pensierosa, «più scuri dei miei. La sua voce è dolce e melodiosa, lo so. Mi è sempre piaciuto ascoltarla. Il suo, »
+
+Non c'è una bambola in tutta la stanza che le sia pari, disse Caleb. E i suoi occhi!
+
+Si fermò; perché Bertha si era stretta più vicino al suo collo e, dal braccio che gli cingeva il corpo, giungeva una pressione di avvertimento che lui capiva troppo [[Well|bene]].
+
+Tossì per un momento, martellò per un momento e poi ricadde sulla [[Song|canzone]] della coppa scintillante, la sua risorsa infallibile in tutte queste difficoltà.
+
+"Il nostro amico, il padre, il nostro benefattore. Sai bene che non mi stanco mai di sentir parlare di lui. -- Ma l'ho mai fatto?", disse in fretta.
+
+«Certo che no», rispose Caleb «e con ragione».
+
+"Ah! Con quanta ragione!" esclamò la ragazza cieca. Con tale fervore,
+che Caleb, sebbene i suoi motivi fossero così puri, non poté sopportare di incontrare il suo sguardo;
+ma abbassò gli occhi, come se lei avesse potuto leggere in essi la sua
+[[Innocent|innocente]] menzogna.
+
+«Allora raccontami di nuovo di lui, caro padre», disse Bertha.
+«Molte volte ancora! Il suo volto è benevolo, gentile e tenero. Onesto e sincero,
+ne sono sicura. Il cuore virile che cerca di nascondere ogni favore con un'apparenza
+di ruvidità e riluttanza, batte in ogni suo sguardo e occhiata».
+
+«E lo rende nobile», aggiunse Caleb nella sua tranquilla disperazione.
+
+«E lo rende nobile», esclamò la fanciulla cieca. «È più vecchio di maggio, papà».
+
+«Sì-ì», disse Caleb con riluttanza. «È un po' più grande di Maggio, ma non ha importanza».
+
+"Oh, padre, sì! Essere la sua paziente compagna nella debolezza e nella vecchiaia; essere la sua dolce [[Nurse|infermiera]] in malattia, e il suo costante amico nel [[Suffering|dolore]] e nel cordoglio; non conoscere stanchezza nel lavorare per lui; vegliarlo, curarlo, sedergli accanto al letto e parlargli da sveglio, pregare per lui mentre dorme; che privilegi sarebbero questi! Che opportunità di dimostrare tutta la sua [[Truth|fedeltà]] e il suo affetto verso di lui! Lo farebbe tutto questo, caro padre?"
+
+"Nessun [[Doubt|dubbio]]," disse Caleb.
+
+"La [[Love|amo]], padre; posso [[Love|amarla]] con tutta la mia [[Soul|anima]]!" esclamò la ragazza cieca.
+E, dicendo così, appoggiò il suo povero volto cieco sulla spalla di Caleb e pianse,
+e pianse ancora, tanto che lui si pentì quasi di averle procurato quella felicità lacrimosa.
+
+Nel frattempo c'era stata una bella agitazione a casa di John Peerybingle, perché la piccola signora Peerybingle naturalmente non poteva pensare di andare da nessuna parte senza il Bambino; e mettere in moto il Bambino richiedeva [[Time|tempo]]. Non che ci fosse molto del Bambino, parlando di lui come di una cosa di peso e misura, ma c'era un'enorme quantità di cose da fare intorno a lui, e tutto doveva essere fatto con calma. Per esempio, quando il Bambino era stato portato, in un modo o nell'altro, a un certo punto dell'abbigliamento, e si poteva ragionevolmente supporre che un altro tocco o due lo avrebbero finito, trasformandolo in un Bambino eccezionale che sfidava il mondo, veniva inaspettatamente spento sotto una cuffia di flanella e spedito a letto; dove sobbolliva (per così dire) tra due coperte per la maggior parte di un'ora. Da questo stato d'inazione era poi richiamato, splendente e urlante furiosamente, a prendere partecipare a--[[Well|beh]]? Preferirei dire, se mi permettete di parlare in generale--a uno spuntino leggero. Dopo di che tornava a [[Sleep|dormire]]. La signora Peerybingle approfittò di questo intervallo per farsi bella in modo modesto come non avete mai visto nessuno in tutta la vostra vita; e, durante lo stesso breve tregua, la signorina Slowboy si insinuò in uno spencer di una moda così sorprendente e ingegnosa, che non aveva alcuna connessione con lei stessa o con qualsiasi altra cosa nell'universo, ma era un fatto indipendente, rimpicciolito e logoro ai bordi, che proseguiva il suo corso solitario senza la minima considerazione per chiunque. A questo [[Time|punto]], il Bambino, essendo di nuovo tutto vivo, fu investito, grazie agli sforzi congiunti della signora Peerybingle e della signorina Slowboy, di un mantello color crema per il suo [[Body|corpo]] e una specie di berretto rigido in nankeen per la sua testa; e così, col passare del [[Time|tempo]], tutti e tre arrivarono alla porta, dove il vecchio [[Horse|cavallo]] aveva già preso più che l'intero valore della sua tariffa giornaliera dal Fondo delle Barriere, strappando la [[Road|strada]] con le sue impazienti autografi; e da dove Boxer poteva essere vagamente visto in prospettiva remota, in piedi che guardava indietro, invitandolo a venire avanti senza ordini.
+
+Per quanto riguarda una sedia o qualcosa del genere per aiutare la signora Peerybingle a salire sul carro, non sapete nulla di John se pensate che fosse necessario. Prima ancora che poteste vederlo sollevarla da terra, eccola lì al suo posto, fresca e rosea, dicendo: «John! Come _puoi_? Pensa a Tilly!»
+
+Se mi fosse permesso di accennare alle gambe di una giovane signora in qualsiasi modo, osserverei che quelle della signorina Slowboy erano soggette a un destino che le rendeva straordinariamente inclini ad essere scorticate; e che lei non compiva mai la minima salita o discesa senza registrare l'evento su di esse con una tacca, come Robinson Crusoe segnava i giorni sul suo calendario di legno. Ma poiché ciò potrebbe essere considerato poco gentile, ci penserò su.
+
+«John! Hai preso il cesto con la torta di vitello e prosciutto e le altre cose,
+e le bottiglie di birra?» disse Dot. «Se non li hai devi tornare indietro
+proprio in questo minuto».
+
+«Sei un bel pezzo di articolo», rispose il vetturino, «a parlare di girarti,
+dopo avermi fatto perdere un quarto d'ora del mio [[Time|tempo]].»
+
+«Mi dispiace, John», disse Dot in un grande trambusto, «ma non potevo proprio pensare di andare da Bertha — non lo avrei fatto, John, per nessuna ragione — senza la torta di vitello e prosciutto e altre cose, e le bottiglie di birra. Ehi!»
+
+Questo monosillabo era rivolto al [[Horse|cavallo]], che non se ne preoccupò affatto.
+
+“Oh, _per favore_, John!” disse la signora Peerybingle “Ti prego!”
+
+"Avremo [[Time|modo]] di farlo", rispose John, "quando comincerò a lasciare qualcosa alle mie spalle. Il cesto è al sicuro".
+
 
 
 <span class="atom-split" data-atom="story_05_chirp_the_second--part_05" data-title="The Cricket on the Hearth — Chirp The Second (part 5)" data-chapter="Chirp The Second" data-kind="excerpt" data-tags="archetype/monster,motif/home,motif/journey,motif/nature,motif/night,motif/road,motif/silence,motif/time,concept/body,concept/honour,concept/hope,concept/nature,concept/wonder,character/john_peerybingle,character/tilly_slowboy"></span>
@@ -5532,6 +6422,68 @@ more sound asleep, though its capacity is great in both respects, than
 that blessed young Peerybingle was, all the way.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+"Che [[Monster|mostro]] dal cuore di pietra devi essere, John, a non averlo detto subito e a non avermi risparmiato una tale emozione! Ti giuro che non andrei da Bertha senza il pasticcio di vitello e prosciutto e altre cose del genere, e le bottiglie di birra, per nessuna somma. Da quando siamo sposati, John, abbiamo fatto il nostro piccolo picnic lì regolarmente una volta ogni due settimane. Se qualcosa dovesse andare storto, penserei quasi che non saremo mai più fortunati."
+
+"È stato un pensiero gentile all'inizio", disse il vetturino; "e ti [[Honour|onoro]] per questo, piccola donna".
+
+«Mio caro John!» rispose Dot arrossendo vivamente «non parlare di onorarmi. Buon Dio!»
+
+"A proposito", osservò il vetturino, "quel vecchio signore, "
+
+Ancora così visibilmente e immediatamente imbarazzato!
+
+"È un tipo strano", disse il Vetturino, guardando dritto lungo la [[Road|strada]] davanti a loro.
+"Non riesco a capirlo. Non credo che ci sia del male in lui."
+
+«Nessuno. Io, io sono sicuro che non ce ne siano affatto».
+
+"Sì", disse il vetturale, attirato dal grande fervore del suo modo di fare verso il volto di lei. "Sono contento che tu ne sia così certa, perché è una conferma per me. È curioso che gli sia venuto in mente di chiedere il permesso di continuare a vivere con noi; non trovi? Le cose accadono in modo così strano."
+
+«Così stranamente», replicò con voce bassa, appena percettibile.
+
+"Tuttavia è un vecchio signore di buon carattere", disse John, "e paga come un gentiluomo e credo che la sua parola sia affidabile, come quella di un gentiluomo. Ho parlato a lungo con lui questa mattina: dice che già mi sente meglio, man mano che si abitua alla mia voce. Mi ha raccontato molto di sé e io gli ho raccontato molto di me; mi ha fatto una quantità incredibile di domande. Gli ho dato informazioni sul fatto che ho due percorsi, sapete, nel mio lavoro: un giorno vado a destra dalla nostra [[house|casa]] e torno indietro; un altro giorno vado a sinistra dalla nostra [[house|casa]] e torno indietro (perché è uno straniero e non conosce i nomi dei luoghi qui intorno); e sembrava davvero contento. 'Ebbene, allora stasera tornerò a [[Home|casa]] per la vostra strada', ha detto, 'mentre pensavo che sareste venuto in direzione esattamente opposta. Ottimo! Forse vi disturberò ancora per un passaggio, ma prometto di non addormentarmi così profondamente di nuovo'. Era proprio addormentato, sicuramente!--Dot! a cosa stai pensando?"
+
+«Pensavi a John? Io, io ti ascoltavo».
+
+«Oh! Va benissimo!» disse l'onesto vetturino. «Mi preoccupavo che dal tuo viso si vedesse che avevo parlato così a lungo da farti pensare ad altro. Ero proprio vicino, ne sono certo.»
+
+Dot non rispondendo, proseguirono per un po' di [[Time|tempo]] in [[Silence|silenzio]].
+Ma non era facile rimanere in silenzio a lungo nel carro di [[John Peerybingle]],
+perché tutti sulla [[Road|strada]] avevano qualcosa da dire. Anche se poteva
+essere solo un "Come stai?" e, infatti, molto spesso non era altro,
+tuttavia, per rispondere a tono con lo spirito di cordialità richiesto,
+non bastava un cenno del capo e un sorriso, ma bisognava anche fare
+un bel respiro profondo come se si stesse pronunciando un lungo discorso parlamentare. A volte,
+i passeggeri a piedi o a cavallo camminavano per un po' accanto al carro,
+proprio per chiacchierare; e allora c'era molto da dire da entrambe le parti.
+
+Poi, Boxer diede occasione a più riconoscimenti cordiali da parte del
+Facchino e nei suoi confronti di quanti ne avrebbero fatti mezza dozzina
+di cristiani! Tutti lo conoscevano lungo tutta la [[Road|strada]]--soprattutto i polli e i maiali, che,
+quando lo vedevano avvicinarsi, con il suo [[Body|corpo]] tutto da un lato, le orecchie
+tese in atteggiamento indagatore e quel nodo di coda che si dava un sacco
+di arie nell'aria, immediatamente si ritiravano in remoti retrocortili,
+senza aspettare il [[Honour|onore]] di una conoscenza più ravvicinata. Aveva da fare
+altrove; percorreva tutti i vicoli, guardava dentro tutti i pozzi,
+entrava e usciva da tutte le casette, si lanciava in mezzo a tutte le
+scuole materne, faceva volare via tutti i piccioni, ingrandiva le code di
+tutti i gatti e trotterellava nelle osterie come un cliente abituale.
+Ovunque andasse, qualcuno poteva essere sentito gridare: "Ehi! ecco Boxer!" e subito usciva quel qualcuno,
+accompagnato da almeno altri due o tre qualcunisimi, per augurare a John
+Peerybingle e alla sua graziosa moglie buongiorno.
+
+I pacchi e i paccoletti per il carretto delle commissioni erano numerosi;
+e ci furono molte soste per prenderli e distribuirli, che non erano affatto le parti peggiori del [[Journey|viaggio]]. Alcune persone erano così piene di
+aspettativa riguardo ai loro pacchi, e altre persone erano così piene di [[Wonder|meraviglia]]
+riguardo ai loro pacchi, e altre persone erano così piene di istruzioni inesauribili riguardo ai loro pacchi, e John aveva un interesse così vivo
+per tutti i pacchi, che era come assistere a una commedia. Allo stesso modo, c'erano articoli da trasportare, che richiedevano di essere considerati e discussi, e per l'aggiustamento e la disposizione dei quali dovevano essere tenuti consigli dal Vetturale e dai mittenti: ai quali Boxer solitamente assisteva,
+in brevi momenti di attenzione più stretta, e lunghi periodi in cui girava a ruota intorno
+ai saggi riuniti, abbaiando fino a farsi rauco. Di tutti questi piccoli incidenti, Dot era la spettatrice divertita e con gli occhi spalancati dalla sua sedia sul carretto; e mentre sedeva lì, guardando -- un affascinante ritratto incorniciato all'ammirazione dal telone -- non mancavano gomitate e sguardi e bisbigli e invidie tra i giovani. E questo deliziava John il Vetturale oltre misura; perché era orgoglioso che la sua piccola moglie fosse ammirata, sapendo che a lei non dispiaceva -- anzi, forse le piaceva anche un po'.
+
+Il viaggio era un po' nebbioso, è vero, con quel tempo di gennaio; e faceva freddo e umido. Ma a chi importavano queste piccolezze? Non certo a Dot. Neppure alla [[Tilly Slowboy]], che riteneva sedersi su un carro, in qualsiasi condizione, il più alto dei piaceri umani; la circostanza culminante della [[Hope|speranza]] terrena. E neppure al Bambino, lo giuro; perché non è nella [[Nature|natura]] del Bambino essere più caldo o addormentarsi più profondamente, sebbene abbia grande capacità in entrambi gli aspetti, di quanto quel benedetto giovane Peerybingle fosse per tutto il tragitto.
+
 
 
 <span class="atom-split" data-atom="story_05_chirp_the_second--part_06" data-title="The Cricket on the Hearth — Chirp The Second (part 6)" data-chapter="Chirp The Second" data-kind="excerpt" data-tags="motif/fire,motif/frost,motif/home,motif/river,motif/sleep,motif/soul,motif/summer,motif/time,motif/wind,concept/honour,character/bottom,character/john_peerybingle,character/may_fielding,character/tackleton"></span>
@@ -5637,6 +6589,49 @@ conversation, and then plunging wildly over and over, a great many
 times, without halting for breath--as in a frantic state of delight with
 the whole proceedings.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Non si poteva vedere molto lontano nella nebbia, naturalmente; ma si poteva vedere un sacco di cose! È sorprendente quante cose si possono vedere in una nebbia più fitta di quella, se solo ci si prende la briga di cercarle. Per esempio, anche sedersi a guardare i cerchi fatati nei campi e le macchie di [[Frost|brina]] che ancora indugiavano all'ombra, vicino ai cespugli e agli alberi, era un'occupazione piacevole, senza parlare delle forme inaspettate con cui gli stessi alberi emergevano dalla nebbia per poi scomparirci di nuovo. I cespugli erano intricati e spogli, e agitavano una moltitudine di ghirlande appassite nel [[Wind|vento]]; ma in questo non c'era nulla di scoraggiante. Era piacevole contemplarlo; perché rendeva il focolare più caldo nella sua presenza e l'[[Summer|estate]] più verde nell'attesa. Il [[River|fiume]] sembrava freddo; ma era in movimento, e si muoveva a buon ritmo -- il che era un punto importante. Il canale era piuttosto lento e torpido; questo bisogna ammetterlo. Non importa. Si sarebbe ghiacciato prima quando la [[Frost|brina]] avesse preso bene, e allora ci sarebbero stati pattinaggio e scivolate; e le vecchie chiatte pesanti, gelate da qualche parte vicino a un molo, fumerebbero i loro arrugginiti camini di ferro tutto il giorno, e avrebbero una [[Time|vita]] tranquilla.
+
+In un punto c'era una grande montagna di erbacce o stoppie che bruciavano;
+e osservarono il [[Fire|fuoco]], così bianco durante il giorno, che ardeva attraverso la nebbia,
+con solo qua e là una sfumatura rossastra, finché, come
+osservò lei, a causa del fumo "che le saliva al naso", Miss Slowboy
+si mise a tossire - poteva fare qualsiasi cosa di quel genere, anche per il più piccolo
+motivo - e svegliò il Bambino, che non volle più andare [[Sleep|a dormire]]. Ma
+Boxer, che era in avanscoperta a circa mezzo miglio o giù di lì, aveva già
+oltrepassato gli avamposti della città ed era arrivato all'angolo della strada
+dove vivevano Caleb e sua figlia; e molto prima che loro raggiungessero la porta,
+lui e la Ragazza Cieca erano sul marciapiede ad aspettarli.
+
+A proposito di Boxer, tra l'altro, faceva certe distinzioni delicate da parte sua,
+nella comunicazione con Bertha, che mi convincono pienamente che sapeva che era cieca.
+Non cercava mai di attirare la sua attenzione guardandola, come spesso faceva con altre persone,
+ma la toccava invariabilmente. Non so quale esperienza potesse mai aver avuto con le persone cieche o i [[dogs|cani]] ciechi.
+Non aveva mai vissuto con un padrone cieco; né lo avevano fatto il signor Boxer maggiore, né la signora Boxer,
+né nessun altro della sua rispettabile famiglia da entrambe le parti, che io sappia, era stato colpito dalla cecità.
+Forse l'aveva scoperto da solo, ma in qualche modo se ne era fatto un'idea;
+e quindi aveva preso Bertha per la gonna e non mollava, finché
+la signora Peerybingle e il Bambino, e la signorina Slowboy e il cesto, furono tutti al sicuro dentro casa.
+
+[[May Fielding]] era già arrivata; e così sua madre -- una piccola signora anziana brontolona con un viso scontroso, che, per il fatto di aver conservato una vita stretta come un montante del letto, si credeva una figura davvero straordinaria; e che, in conseguenza di essere stata un tempo più agiata, o di nutrire l'impressione che avrebbe potuto esserlo se fosse successo qualcosa che non è mai accaduto e sembrava non dovesse mai accadere -- ma è la stessa cosa -- era davvero gentile e patrona. Anche Gruff e [[Tackleton]] erano lì, facendo il simpatico, con la sensazione evidente di sentirsi perfettamente a [[Home|casa]], e senza dubbio nel loro elemento, come un giovane salmone fresco in cima alla Grande Piramide.
+
+«Maggio! Mia cara vecchia amica!» esclamò Dot correndo incontro a lei «Che felicità rivederti!»
+
+La sua vecchia amica era, in pieno, altrettanto cordiale e contenta quanto lei; ed era davvero,
+se mi credete, una vista piuttosto piacevole vederle abbracciarsi.
+[[Tackleton]] era un uomo di gusto, senza alcun dubbio. May era molto carina.
+
+A volte, sapete, quando si è abituati a un bel viso, capita che,
+mettendolo in contatto e in confronto con un altro bel viso, sembri per
+un momento banale e sbiadito, e non meriti quasi l'alta opinione che ne avete. Ora, questo non era affatto il caso né di Dot né di May; perché il volto di May valorizzava quello di Dot, e il volto di Dot valorizzava quello di May, in modo così naturale e piacevole, che, come [[John Peerybingle]] stava per dire quando entrò nella stanza, avrebbero dovuto essere sorelle - l'unica cosa che si poteva suggerire.
+
+[[Tackleton]] aveva portato la sua coscia di montone e, cosa meravigliosa da raccontare, anche una torta -- ma non ci preoccupiamo un po' di dissipazione quando le nostre spose sono in gioco; non ci sposiamo ogni giorno -- e, oltre a queste prelibatezze, c'erano la Torta di vitello e prosciutto e "le cose", come le chiamava la signora Peerybingle; che erano principalmente noci e arance, e dolci, e simili piccole prelibatezze. Quando il pasto fu disposto sulla tavola, fiancheggiato dal contributo di Caleb, che era una grande ciotola di legno piena di patate fumanti (gli era stato proibito, per solenne accordo, di produrre altri cibi), [[Tackleton]] condusse la sua futura suocera al posto d'[[Honour|onore]]. Per meglio adornare questo luogo nella grande festa, l'imponente vecchia [[Soul|anima]] si era abbellita con un cappello, calcolato per ispirare ai sconsiderati sentimenti di riverenza. Indossava anche i suoi guanti. Ma cerchiamo di essere gentili, o moriremo!
+
+Caleb sedeva accanto a sua figlia; Dot e la sua vecchia compagna di scuola erano fianco a fianco; il buon Carrier si occupava della [[Bottom|parte bassa]] del tavolo. Miss Slowboy era isolata, per il [[Time|momento]], da ogni oggetto d'arredamento tranne la sedia su cui sedeva, affinché non avesse altro contro cui sbattere la testa del Bambino.
+
+Mentre Tilly guardava intorno alle bambole e ai giocattoli, questi la fissavano insieme agli altri presenti. I venerabili vecchi signori sulle porte delle case (che erano tutti in piena attività) mostrarono un interesse particolare per il gruppo, fermandosi di tanto in tanto prima di saltare, come se stessero ascoltando la conversazione, e poi lanciandosi selvaggiamente una volta dopo l'altra, molte volte, senza fermarsi a riprendere fiato - come in uno stato frenetico di gioia per tutto ciò che accadeva.
 
 
 
@@ -5757,6 +6752,54 @@ returned in the evening, he called for Dot, and took another rest on his
 way [[Home|home]]. This was the order of the day on all the Picnic occasions, and
 had been ever since their institution.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Certamente, se questi vecchi signori provassero una gioia diabolica nel contemplare la disfatta di [[Tackleton]], avevano buone ragioni per essere soddisfatti. [[Tackleton]] non riusciva a cavarsela affatto; e più la sua futura sposa diventava allegra in compagnia di Dot, meno gli piaceva, anche se li aveva messi insieme proprio con quell'intenzione. Perché era un vero cane nella mangiatoia, [[Tackleton]]; e quando loro ridevano e lui non poteva ridere, subito si convinceva che dovevano stare ridendo di lui.
+
+«Ah, Maggio!» disse Dot. «Cara, cara, che cambiamenti! Parlare di quei giorni allegramente trascorsi a scuola ci fa tornare giovani».
+
+«Ma non sei particolarmente vecchio in nessun [[Time|momento]], vero?» disse [[Tackleton]].
+
+«Guardate mio marito sobrio e laborioso» rispose Dot «mi fa sembrare almeno venti anni più vecchia. Non è vero, John?»
+
+«Quaranta», rispose John.
+
+«Non so quanti anni aggiungerai tu agli anni di Mary», disse Dot ridendo «ma non può avere meno di cent'anni il suo prossimo compleanno».
+
+"Ah, ah!" rise il riso di [[Tackleton]]. Un riso vuoto come un tamburo, però. E aveva l'aria di poter torcere comodamente il collo a Dot.
+
+«Oh, oh!» disse Dot. «Solo per ricordare come parlavamo a scuola degli sposi che avremmo scelto. Non so quanto giovane e bello e allegro e vivace non doveva essere il mio! E quello di Maggio! — Ah, cara! Non so se ridere o piangere quando penso a quanto fossimo sciocche noi ragazze».
+
+A maggio sembrava sapere cosa fare: il colore le tornò sul viso e le [[Tears|lacrime]] le salirono agli occhi.
+
+"Anche le persone stesse -- giovani uomini veri e viventi -- a volte li sceglievamo," disse Dot. "Non avremmo mai pensato che le cose sarebbero andate così. Io non ho mai scelto John, sono sicura; non ho mai nemmeno pensato a lui. E se ti avessi detto che saresti dovuta sposare il signor [[Tackleton]], beh, mi avresti dato uno schiaffo. Non è vero, May?"
+
+Anche se Maggio non disse di sì, certamente non disse neanche di no o esprime un rifiuto in alcun modo.
+
+[[Tackleton]] rise una risata - anzi un urlo, tanto forte rideva. Anche [[John Peerybingle]]
+rideva, nel suo solito modo buono e contento; ma la sua era solo una risatina sussurrata a confronto di quella di [[Tackleton]].
+
+"Non potevate farne a meno, nonostante tutto. Non potevate resisterci,
+vedete", disse [[Tackleton]]. "Eccoci qui! Eccoci qui! Dove sono ora i vostri giovani sposi?"
+
+«Alcuni di loro sono morti», disse Dot, «e alcuni dimenticati. Alcuni,
+se potessero stare in mezzo a noi in questo momento, non crederebbero che siamo le stesse persone; non crederebbero che ciò che vedono e sentono sia reale, e che noi _possiamo_ dimenticarli così. No! Non crederebbero una sola parola di tutto questo!»
+
+«Ma, Dot!» esclamò il vetturale «Piccola donna!»
+
+Aveva parlato con tanta serietà e [[Fire|foga]] che aveva bisogno di essere richiamata all'ordine,
+senza alcun [[Doubt|dubbio]]. Il rimprovero del marito fu molto gentile, perché intervenne solo per
+difendere il vecchio [[Tackleton]], come pensava; ma si rivelò efficace, perché lei si fermò e non disse altro.
+C'era un'agitazione insolita anche nel suo [[Silence|silenzio]], che l'accorto
+[[Tackleton]], che aveva puntato su di lei il suo occhio semi-chiuso, notò attentamente,
+e ricordò a scopo.
+
+May non pronunciò parola, né buona né cattiva, ma rimase perfettamente immobile, con lo sguardo abbassato, e non diede alcun segno di interesse per quanto era accaduto. La sua brava madre intervenne allora, osservando in primo luogo che le ragazze sono ragazze, e che il passato è passato, e che finché i giovani sono giovani e sconsiderati, probabilmente si comporteranno come persone giovani e sconsiderate: con altre due o tre affermazioni di un carattere non meno sano e incontrovertibile. Poi osservò in tono devoto che ringraziava il cielo di aver sempre trovato nella figlia May una [[Child|figlia]] obbediente e rispettosa: per cui non si attribuiva alcun merito, sebbene avesse ogni ragione di credere che ciò fosse interamente dovuto a lei. Per quanto riguarda il signor [[Tackleton]], disse, era sotto l'aspetto morale un individuo indiscutibile e sotto l'aspetto conveniente uno sposo desiderabile, su questo nessuno in pieno possesso delle proprie facoltà mentali poteva [[Doubt|dubitare]]. (Qui fu molto enfatica.) Per quanto riguarda la famiglia nella quale stava per essere ammesso, dopo qualche sollecitazione, credeva che il signor [[Tackleton]] sapesse che, sebbene ridotta nelle finanze, aveva alcune pretese alla nobiltà; e che se certe circostanze, non del tutto disgiunte, anzi direbbe quasi collegate al commercio dell'indaco, ma alle quali non voleva riferirsi più particolarmente, fossero andate diversamente, forse avrebbe potuto essere in possesso di ricchezza. Poi osservò che non avrebbe fatto cenno al passato e non avrebbe menzionato che sua figlia aveva per qualche [[Time|tempo]] respinto le attenzioni del signor [[Tackleton]]; e che non avrebbe detto molte altre cose che disse invece in gran lunghezza. Infine, espose come risultato generale delle sue osservazioni ed esperienze che i matrimoni nei quali c'era meno di quel che veniva romanticamente e stupidamente chiamato [[Love|amore]], erano sempre i più felici; e che si aspettava la massima quantità possibile di beatitudine -- non una beatitudine rapita, ma un articolo solido e costante -- dai prossimi sponsali. Concluse informando gli ospiti che il giorno dopo era quello per cui aveva vissuto appositamente; e che, quando fosse passato, non [[Desire|desiderava]] niente di meglio che essere imballata e sistemata in qualsiasi luogo di sepoltura decoroso.
+
+Poiché queste osservazioni erano del tutto inconfutabili - che è la felice proprietà di tutte le osservazioni sufficientemente lontane dal punto - cambiarono il corso della conversazione e distolsero l'attenzione generale verso la torta di vitello e prosciutto, l'agnello freddo, le patate e la crostata. Per evitare che la birra in bottiglia fosse trascurata, [[John Peerybingle]] propose il giorno seguente: il giorno delle nozze; e li invitò a brindarvi con un bicchiere prima di proseguire nel suo [[Journey|viaggio]].
+
+Dovreste sapere che si fermò solo per riposarsi e dare da mangiare al vecchio [[Horse|cavallo]]. Doveva proseguire ancora per quattro o cinque miglia; e quando tornava la sera, chiamava Dot e faceva un altro riposo sulla via del [[Home|ritorno]]. Questo era l'ordine del giorno in tutte le occasioni di picnic, ed era stato così fin dalla loro istituzione.
 
 
 
@@ -6008,6 +7051,50 @@ in the chimney-corner, and leave to sit quite silent and look pleasantly
 about him, is all he cares for. He's easily pleased."
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+«Grande Potenza!» esclamò suo padre, colpito in un solo istante dalla [[Truth|verità]], «l'ho ingannata fin dalla culla per poi spezzarle il cuore alla fine?»
+
+Fu una fortuna per tutti che ci fosse Dot, quella raggiante, utile e operosa piccola Dot - perché tale era, nonostante i suoi difetti, e anche se forse imparerete a odiarla, col [[Time|tempo]] - fu una fortuna, dico, che ci fosse lei, altrimenti chissà come sarebbe finita. Ma Dot, riprendendosi dal suo smarrimento, intervenne prima che May potesse rispondere o Caleb dire un'altra parola.
+
+«Dai, dai, cara Bertha! vieni con me! Dille di prenderti sottobraccio, May! Ecco fatto.
+Vedi com'è già calma; e che gentile da parte sua preoccuparsi per noi», disse la piccola donna allegra, baciandola sulla fronte. «Vieni, cara Bertha! Vieni! e suo buon padre verrà con lei, vero Caleb? Certo che sì!»
+
+[[Well|Bene]], [[Well|bene]]! Era una nobile piccola Dot in queste cose, e doveva essere una [[Nature|natura]] ostinata quella che avrebbe potuto resistere alla sua influenza. Quando ebbe allontanato il povero Caleb e la sua Bertha, affinché potessero confortarsi a vicenda, come sapeva fosse l'unico modo possibile, tornò presto indietro, saltellando - si dice fresca come un margherita; io dico più fresca - per fare la guardia a quel piccolo pezzo di importanza con il cappello e i guanti, e impedire alla cara vecchia creatura di fare scoperte.
+
+"Portami dunque il prezioso Bambino, Tilly", disse lei, avvicinando una sedia al [[Fire|fuoco]]; "e mentre lo terrò in grembo, ecco che la signora Fielding, Tilly, mi dirà tutto sulla cura dei Bambini e mi metterà a posto su venti punti nei quali sono completamente sbagliata. Non è vero, signora Fielding?"
+
+Nemmeno il Gigante Gallesese, che secondo l'espressione popolare era così "lento" da compiere un'operazione chirurgica fatale su se stesso, imitando uno scherzo di prestigio realizzato dal suo acerrimo nemico durante la [[Time|colazione]]; nemmeno lui cadde nella trappola preparata per lui come la vecchia signora in questa astuta insidia. Il fatto che [[Tackleton]] fosse uscito a passeggio; e, per giunta, che due o tre persone avessero parlato tra loro da lontano per due minuti, lasciandola ai suoi propri mezzi; sarebbe stato più che sufficiente a metterla in guardia e a farle piangere quella misteriosa convulsione nel commercio dell'indaco per ventiquattro ore. Ma questa deferenza così appropriata alla sua esperienza da parte della giovane madre era irresistibile, tanto che dopo una breve messa in scena di [[Humility|umiltà]], cominciò a illuminarla con la massima grazia; e seduta ben dritta davanti alla malvagia Dot, riuscì in mezz'ora a impartire più ricette domestiche infallibili e precetti che (se messi in pratica) avrebbero completamente distrutto e finito quel giovane Peerybingle, anche se fosse stato un Bambino Sansone.
+
+Per cambiare argomento, Dot fece un po' di cucito -- portava in tasca il contenuto di un intero nécessaire; non so come facesse -- poi si dedicò a un po' d'infermieristica; quindi a un altro po' di cucito; infine ebbe una breve chiacchierata sussurrata con May, mentre la vecchia signora faceva un pisolino; e così, tra piccoli trambusti che erano proprio il suo modo d'essere, trovò che il pomeriggio passava in fretta. Poi, quando calò l'oscurità, e dato che era parte solenne di questa Istituzione del Picnic che lei svolgesse tutti i compiti domestici di Bertha, accese il [[Fire|fuoco]], spazzò il focolare, apparecchiò la tavola per il tè, tirò le tende e accese una candela. Poi suonò un paio di melodie su una rozza specie di arpa che Caleb aveva costruito per Bertha, e le suonò molto [[Well|bene]]; perché la [[Nature|Natura]] le aveva donato quell'orecchio delicato tanto adatto alla musica quanto lo sarebbe stato ai gioielli, se ne avesse avuti da indossare. A quest'[[Time|ora]] era l'ora stabilita per prendere il tè; e [[Tackleton]] tornò di nuovo a condividere il pasto e trascorrere la serata.
+
+Caleb e Bertha erano tornati qualche [[Time|tempo]] prima, e Caleb si era seduto al lavoro del pomeriggio. Ma non riusciva a concentrarsi, il poveretto, preoccupato e pentito per sua figlia. Era commuovente vederlo seduto in ozio sulla sua sedia da lavoro, che la guardava così malinconicamente, e sempre dire con il volto: "L'ho forse ingannata fin dalla culla solo per spezzarle il cuore?"
+
+Quando fu [[Night|notte]], e il tè era finito, e Dot non aveva più nulla da fare nel lavare le tazze e i piattini; in una parola -- perché devo arrivare al dunque, e non serve rimandarlo -- quando si avvicinava l'[[Time|ora]] di aspettarsi il ritorno del facchino in ogni rumore di ruote lontane, il suo comportamento cambiò ancora una volta, il suo colorito andava e veniva, ed era molto irrequieta. Non come lo sono le brave mogli quando ascoltano i loro mariti. No, no, no. Era un'altra sorta di inquietudine da quella.
+
+Si sentivano delle ruote. Gli zoccoli di un [[Horse|cavallo]]. Il latrato di un cane. L'avvicinarsi graduale di tutti i rumori. La zampa che graffia la porta di Boxer!
+
+«Chi è quel passo?» esclamò Bertha, alzandosi di scatto.
+
+«Di chi è il passo?» rispose il Vetturino, fermo nel portale, con la sua faccia bruna arrossata come un frutto d'[[Winter|inverno]] dal pungente vento [[Night|notturno]]. «Perché, mio.»
+
+«L'altro passo», disse Bertha. «Il passo dell'uomo dietro di voi!»
+
+"Non si lascia ingannare", osservò il vetturale ridendo. "Vieni avanti,
+signore. Sarai benvenuto, non aver mai [[Fear|paura]]!"
+
+Parlò ad alta voce e mentre parlava entrò il vecchio signore sordo.
+
+"Non è così estraneo che non l'abbiate visto una volta, Caleb",
+disse il vetturino. "Gli darete ospitalità in [[house|casa]] finché ce ne andiamo?"
+
+"Ma certo, John, e consideralo un [[Honour|onore]]!"
+
+"È la compagnia migliore del mondo per confidare i [[Secrets|segreti]]", disse John. "Ho polmoni ragionevolmente buoni, ma lui li mette alla prova ve lo dico io. Si accomodi, signore.
+Qui tutti sono amici e felici di vederla!"
+
+Quando ebbe dato questa rassicurazione con una voce che corroborava ampiamente ciò che aveva detto sui suoi polmoni, aggiunse nel suo tono naturale: «Una sedia nell'angolo del caminetto e il permesso di stare seduto in silenzio a guardarsi piacevolmente intorno è tutto ciò che desidera. È facilmente contento».
+
 
 
 <span class="atom-split" data-atom="story_05_chirp_the_second--part_10" data-title="The Cricket on the Hearth — Chirp The Second (part 10)" data-chapter="Chirp The Second" data-kind="excerpt" data-tags="archetype/shadow,motif/fire,motif/home,motif/horse,motif/lion,motif/nature,motif/night,motif/silence,motif/stars,motif/time,motif/window,concept/nature,concept/suffering,concept/wonder,character/john_peerybingle,character/nurse,character/tackleton"></span>
@@ -6151,6 +7238,93 @@ fantastic [[Wonder|wonder]] at Dot being false, or [[Tackleton]] beloved, under 
 combination of circumstances.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Bertha aveva ascoltato con attenzione. Chiamò Caleb al suo fianco,
+quando ebbe sistemato la sedia, e gli chiese a bassa voce di descrivere il loro
+ospite. Quando lo ebbe fatto (ora veramente, con scrupolosa fedeltà), si mosse per la prima [[Time|volta]] da quando era entrato, sospirò e sembrò non avere più interesse riguardo a lui.
+
+Il vetturale era di ottimo umore, bravo ragazzo com'era, e più affezionato che mai alla sua piccola moglie.
+
+«Che goffa era questa pomeriggio!» disse, cingendola col suo braccio ruvido mentre ella stava in disparte dagli altri «eppure mi piace in qualche modo. Guarda laggiù, Dot!»
+
+Lui indicò il vecchio. Lei guardò in basso. Penso che tremasse.
+
+«È, ah, ah, ah!, è pieno di ammirazione per voi!» disse il facchino.
+«Non ha parlato d'altro durante tutto il viaggio qui. Ma è un vecchio ragazzo coraggioso! Mi piace proprio per questo!»
+
+"Vorrei che avesse un tema migliore, John", disse con uno sguardo inquieto
+intorno alla stanza. Soprattutto verso [[Tackleton]].
+
+"Un argomento migliore!" esclamò il gioviale John. "Non c'è niente di simile. Avanti!
+toglietevi il soprabito, toglietevi lo scialle pesante, toglietevi gli indumenti caldi! e un'accogliente mezz'ora accanto al [[Fire|fuoco]]. I miei umili servigi, padrona. Una partita a cribbage, tu ed io? Questo sì che è cordiale. Le carte e il tabellone, Dot. E un bicchiere di birra qui, se ne è rimasta ancora qualcuna, piccola moglie!"
+
+La sua sfida era rivolta alla vecchia signora che, accettandola con graziosa prontezza, ben presto si impegnarono nel gioco. All'inizio il Carrier guardava intorno talvolta sorridendo o di tanto in tanto chiamava Dot per dare un'occhiata alle sue carte da sopra la sua spalla e consigliarlo su qualche punto spinoso. Ma poiché l'avversaria era una disciplinariana rigida, soggetta a occasionali debolezze rispetto al fatto di piazzare più punti di quanti ne avesse diritto, richiedeva da parte sua tale vigilanza che non gli lasciava né occhi né orecchie liberi. Così la sua attenzione si concentrò gradualmente sulle carte e non pensò ad altro finché una mano sulla sua spalla lo riportò alla consapevolezza di [[Tackleton]].
+
+«Mi dispiace disturbarla, ma una parola subito».
+
+«Io mi occuperò io» rispose il vetturale «È una crisi».
+
+"È così", disse [[Tackleton]]. "Vieni qui, uomo!"
+
+C'era qualcosa nel suo volto pallido che fece alzare subito l'altro e gli chiese di fretta cosa fosse successo.
+
+"Ssst! [[John Peerybingle]]", disse [[Tackleton]], "mi dispiace per questo. Mi dispiace davvero. Ne avevo paura. L'ho sospettato fin dall'inizio."
+
+«Che cos'è?» chiese il vetturale con aria spaventata.
+
+«Ssst! Ve lo mostro io, se venite con me».
+
+Il vetturale lo accompagnò senza dire altro. Attraversarono un cortile dove le [[Stars|stelle]] splendevano, e da una piccola porta laterale entrarono nel [[house|ufficio]] contabile di [[Tackleton]], dove c'era una [[Window|finestra]] di vetro che dava sulla sala merci, chiusa per la [[Night|notte]]. Non c'era luce nell'[[house|ufficio]] contabile in sé, ma c'erano delle lampade nella lunga e stretta sala merci; e quindi la [[Window|finestra]] era luminosa.
+
+"Un momento!", disse [[Tackleton]]. "Credi di poter sopportare di guardare attraverso quella [[Window|finestra]]?".
+
+«E perché no?» rispose il vetturale.
+
+«Un momento ancora», disse [[Tackleton]]. «Non commetta alcuna violenza. Non serve a nulla. È anche pericoloso. Lei è un uomo robusto e potrebbe uccidere prima di rendersene conto».
+
+Il vetturino lo guardò in faccia e indietreggiò di un passo come se fosse stato colpito. Con un solo passo fu alla [[Window|finestra]] e vide----
+
+[[Shadow|Ombra]] sul focolare! O cricket veritiero! O moglie perfida!
+
+La vide con il vecchio - non più vecchio, ma eretto e galante -
+che teneva in mano la falsa chioma bianca che gli aveva aperto la strada
+verso quella desolata e miserabile [[Home|casa]]. La vide ascoltarlo mentre si chinava a sussurrarle all'orecchio; e permettergli di cingerla alla vita, mentre scendevano lentamente lungo il cupo corridoio di legno verso la porta da cui erano entrati. Li vide fermarsi, e la vide voltarsi - per presentargli quel volto, il volto che amava così tanto! - e la vide aggiustare con le sue stesse mani quella menzogna sulla sua testa, ridendo mentre lo faceva della sua ingenua [[Nature|natura]]!
+
+All'inizio strinse il suo forte pugno destro come se volesse abbattere un [[Lion|leone]]. Ma aprendolo subito di nuovo lo allargò davanti agli occhi di [[Tackleton]] (perché anche allora gli era tenero), e così, mentre uscivano, cadde su una scrivania ed era debole come un bambino.
+
+Era avvolto fino al mento e occupato con il suo [[Horse|cavallo]] e i pacchi quando lei entrò nella stanza, pronta per tornare a [[Home|casa]].
+
+"Ora, caro John! Buona [[Night|notte]], May! Buona [[Night|notte]], Bertha!"
+
+Poteva baciarli? Poteva essere allegra e di buon umore nel congedarsi?
+Poteva osare rivelare loro il suo volto senza arrossire? Sì.
+[[Tackleton]] la osservò attentamente, e lei fece tutto questo.
+
+Tilly stava cullando il bambino e passò davanti a [[Tackleton]] una dozzina di volte ripetendo con voce assonnata:
+
+«Fu dunque la consapevolezza che sarebbero diventate mogli a straziare i loro cuori quasi fino alla rottura, e furono forse i padri a ingannarle fin dalla culla solo per spezzare infine il loro cuore!»
+
+"Ora, Tilly, dammi il Bambino! Buona [[Night|notte]], signor [[Tackleton]]. Dov'è John, per amor del cielo?"
+
+"Camminerà accanto alla testa della [[Horse|cavalla]]", disse [[Tackleton]], che l'aiutò a salire in sella.
+
+"Caro John! Camminare? [[Night|Questa]] sera?"
+
+La figura avvolta del marito fece un rapido cenno affermativo;
+e, con lo straniero falso e la piccola [[Nurse|balia]] al loro posto, il vecchio [[Horse|cavallo]] si mise in moto. Boxer, l'ignaro Boxer, che correva davanti,
+correva indietro, girava intorno alla carrozza, abbaiando
+trionfalmente e allegramente come al solito.
+
+Quando anche [[Tackleton]] se ne fu andato scortando May e sua madre a [[Home|casa]],
+il povero Caleb si sedette accanto al [[Fire|fuoco]] vicino alla figlia, angosciato e
+rimorso nel cuore; ripetendo ancora, nella sua malinconica contemplazione di lei:
+"Avrò ingannato mia figlia fin dalla culla per poi spezzarle il cuore?"
+
+I giocattoli che erano stati messi in moto per il Bambino si erano fermati e
+fermati molto tempo fa. Nella luce fioca e nel [[Silence|silenzio]], le bambole imperturbabilmente
+calme, i cavalli dondolanti agitati con occhi e narici dilatati, i vecchi signori alle porte della strada, in piedi mezzo piegati sulle loro ginocchia e caviglie vacillanti, le sgangherate noci sgusciatrici, persino le Bestie sulla via verso l'Arca, a coppie, come una Scuola Residenziale fuori a passeggio, si sarebbe potuto immaginare che fossero colpiti da immobilità con fantastico [[Wonder|meraviglia]] per il fatto che Dot fosse falsa, o che [[Tackleton]] fosse amato, in qualsiasi combinazione di circostanze.
+
 
 
 <span class="atom-split" data-atom="story_06_chirp_the_third--part_01" data-title="The Cricket on the Hearth — Chirp The Third (part 1)" data-chapter="Chirp The Third" data-kind="excerpt" data-tags="archetype/child,archetype/innocent,archetype/lover,archetype/villain,motif/blood,motif/clock,motif/fire,motif/love,motif/moon,motif/nature,motif/night,motif/rose,motif/sleep,motif/tears,motif/time,motif/water,motif/wind,motif/window,concept/mercy,concept/nature,concept/pride,concept/revenge,concept/truth,concept/wonder,character/tackleton"></span>
@@ -6265,6 +7439,55 @@ from a frightful dream; and put the gun aside. Clasping his hands before
 his face, he then sat down again beside the [[Fire|fire]], and found relief in
 [[Tears|tears]].
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+CHIRP TERZO
+
+L'orologio [[Clock|a pendolo]] olandese nell'angolo batté le dieci quando il vetturale si sedette accanto al caminetto. Era così turbato e provato dal dolore che sembrava spaventare il cuculo, il quale, dopo aver abbreviato quanto più possibile i suoi dieci melodiosi annunci, si tuffò di nuovo nel palazzo moresco e chiuse la sua piccola porta alle spalle, come se lo spettacolo insolito fosse troppo per i suoi sentimenti.
+
+Se il piccolo mietitore fosse stato armato del più affilato dei falcetti e avesse colpito a ogni movimento nel cuore del facchino, non lo avrebbe mai ferito e sfigurato come aveva fatto Dot.
+
+Era un cuore così pieno di [[Love|amore]] per lei; così avvolto e tenuto insieme da innumerevoli fili di dolci ricordi, tessuti dal quotidiano operare delle sue molteplici qualità che incantavano; era un cuore nel quale ella si era consacrata con tanta delicatezza e vicinanza; un cuore così singolo e sincero nella sua [[Truth|Verità]], così forte nel giusto, così debole nell'ingiusto,--che non poteva nutrire né passione né [[Revenge|vendetta]] inizialmente, e aveva solo spazio per custodire l'immagine infranta del suo Idolo.
+
+Ma lentamente, lentamente, mentre il Carrier sedeva a rimuginare sul suo focolare ormai freddo e buio, altri pensieri più feroci cominciarono ad affacciarsi in lui, come un [[Wind|vento]] infuriato che si leva nella [[Night|notte]]. Lo Straniero era sotto il suo tetto oltraggiato. Tre passi lo avrebbero portato alla porta della sua camera. Un colpo l'avrebbe sfondata. "Potresti commettere un omicidio prima ancora di accorgertene", aveva detto Tackleton. Come poteva essere omicidio, se dava al [[Villain|villain]] [[Time|time]] per affrontarlo corpo a corpo? Era l'uomo più giovane.
+
+Fu un pensiero fuori luogo, negativo per il suo umore cupo. Fu un pensiero rabbioso che lo spingeva a compiere qualche atto di vendetta, trasformando la [[house|casa]] allegra in un luogo infestato da fantasmi, dove i viaggiatori solitari avrebbero temuto di passare di [[Night|notte]]; e dove i timorosi avrebbero visto ombre lottare nelle finestre rovinate quando la [[Moon|luna]] era fioca, e udire rumori selvaggi durante le tempeste.
+
+Era un uomo più giovane! Sì, sì; qualche [[Lover|amante]] che aveva conquistato il cuore che lui non era mai riuscito a sfiorare. Un certo [[Lover|amante]] della sua prima scelta, di cui lei aveva pensato e sognato, per il quale si era consumata e consumata ancora, mentre lui immaginava che fosse così felice al suo fianco. Oh, agonia anche solo pensarci!
+
+Era stata di sopra con il Bambino; lo metteva a letto. Mentre lui sedeva accanto al focolare immerso nei suoi pensieri, lei si avvicinò senza che se ne accorgesse - nel girovagare della sua grande sofferenza aveva perso ogni altro rumore - e mise il suo piccolo sgabello ai suoi piedi. Se ne rese conto solo quando sentì la sua mano sulla propria, e vide che lo guardava in faccia.
+
+Con [[Wonder|meraviglia]]? No. Fu la sua prima impressione e desiderò guardarla di nuovo per correggerla. No, non con [[Wonder|meraviglia]]. Con uno sguardo ansioso e indagatore; ma non con [[Wonder|meraviglia]]. All'inizio era preoccupato e serio; poi cambiò in un sorriso strano, selvaggio, terribile di riconoscimento dei suoi pensieri; infine rimasero solo le sue mani giunte sulla fronte, la testa china e i capelli che cadevano.
+
+Anche se avesse potuto disporre del potere dell'Omnipotenza in quel momento,
+aveva troppo della sua proprietà più divina di [[Mercy|Misericordia]] nel suo petto, per averne
+voltato anche solo un peso di piuma contro di lei. Ma non riusciva a sopportare il vederla
+accovacciata sul piccolo sedile dove spesso l'aveva guardata con [[Love|amore]] e [[Pride|orgoglio]], così [[Innocent|innocente]] e allegra; e, quando lei si [[Rose|alzò]] e lo lasciò,
+singhiozzando mentre andava via, provò un sollievo ad avere il posto vuoto
+accanto a sé piuttosto che la sua presenza tanto a lungo accarezzata. Questo di per sé era una sofferenza più acuta di tutte, ricordandogli quanto fosse diventato desolato e come il grande legame della sua vita fosse stato strappato.
+
+[Illustrazione: _Quando improvvisamente il [[Fire|fuoco]] che lottava illuminò tutta la
+caminata con un bagliore di luce e il Grillo del Focolare iniziò a
+Cinguettare!_]
+
+Più sentiva questo e più sapeva che avrebbe potuto sopportare meglio di vederla giacere prematuramente morta davanti a lui con il suo piccolo [[Child|bambino]] sul seno, tanto più alto e forte [[Rose|sorgeva]] il suo furore contro il nemico. Si guardò intorno in cerca di un'arma.
+
+C'era un fucile appeso al muro. Lo prese e si mosse di un passo o due verso la porta della stanza dello Straniero perfido. Sapeva che il fucile era carico. Un'idea vaga che fosse giusto sparare a quell'uomo come se fosse una bestia selvaggia lo colse, e si dilatò nella sua mente fino a diventare un demone mostruoso in pieno possesso di lui, scacciando tutti i pensieri più miti e instaurando il suo impero indiviso.
+
+Questa frase è sbagliata. Non scacciando i suoi pensieri più miti, ma trasformandoli abilmente.
+Cambiandoli in fruste per spingerlo avanti. Trasformando [[Water|acqua]] in [[Blood|sangue]], [[Love|amore]] in odio, dolcezza in ferocia cieca. La sua
+immagine, addolorata, umiliata, ma ancora che implorava la sua tenerezza e la sua
+[[Mercy|pietà]] con un potere irresistibile, non lo abbandonò mai; ma rimanendo lì, lo spinse verso la porta;
+sollevò l'arma alla sua spalla; preparò e irrigidì le sue dita sul grilletto; e gridò "Uccidilo! Nel suo letto!"
+
+Invertì il fucile per battere la canna sulla porta; lo teneva già sollevato nell'aria; qualche vaga idea gli frullava nella mente di chiamarlo a gran voce e dirgli di scappare, per l'amor di Dio, dalla [[Window|finestra]]----
+
+Quando improvvisamente il [[Fire|fuoco]] che faticava illuminò tutta la cappa del camino con un bagliore di luce, e il Grillo del Focolare cominciò a Cinguettare!
+
+Nessun suono che avrebbe potuto udire, nessuna voce umana, neppure quella di lei, poteva così commuoverlo e ammorbidirlo. Le parole semplici con cui gli aveva raccontato del suo [[Love|amore]] per lo stesso Grillo furono nuovamente pronunciate; il suo tremante, sincero comportamento in quel momento fu di nuovo davanti a lui; la sua piacevole voce - oh, che voce era quella per fare musica domestica accanto al focolare di un uomo onesto! - lo attraversò fino alla sua migliore [[Nature|natura]], e la risvegliò in vita e azione.
+
+Si ritrasse dalla porta come un uomo che cammina nel suo [[Sleep|sonno]] e si sveglia da un sogno terribile; e mise da parte il fucile. Giungendo le mani davanti al viso, poi si sedette di nuovo accanto al [[Fire|fuoco]], trovando sollievo nelle [[Tears|lacrime]].
 
 
 
@@ -6388,6 +7611,66 @@ again, and showed her to him once more, bright and beautiful, they
 cheered in the most inspiring manner.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Il Grillo del Focolare uscì nella stanza e si presentò davanti a lui con forma fatata.
+
+«"Lo [[Love|amo]]",» disse la Voce Fatata ripetendo ciò che lui ricordava [[Well|bene]],
+«per le molte volte in cui l'ho ascoltato e i molti pensieri che la sua innocua musica mi ha ispirato.»
+
+«L'ha detto!» gridò il vetturale. «È vero!»
+
+«Questa è stata una felice [[Home|casa]], John! e io [[Love|amo]] il Grillo per questo!»
+
+«È stato così, Dio sa», rispose il vetturale. «L'ha reso felice,
+sempre, fino ad ora».
+
+«Così gentilmente di buon umore; così domestica, gioiosa, attiva e spensierata!» disse la Voce.
+
+«Altrimenti non avrei mai potuto amarla come l'ho amata», rispose il vetturale.
+
+La Voce lo corresse e disse «fa».
+
+Il vetturale ripeté: «Come feci io». Ma non con fermezza. La sua lingua incerta resisteva al suo controllo e parlava a modo suo per conto proprio e del padrone.
+
+La figura, con un gesto di invocazione, alzò la mano e disse:
+
+"Sul tuo focolare, "
+
+«Il focolare che ha rovinato», intervenne il vetturale.
+
+"La mensa che ha -- quante volte! -- benedetto e illuminato," disse il Grillo, "la mensa che senza di lei sarebbe solo un mucchio di pietre, mattoni e sbarre arrugginite, ma che è stata, grazie a lei, l'[[Home|Altare]] della vostra [[Nature|Casa]]; su cui avete sacrificato ogni sera qualche piccola passione, egoismo o preoccupazione, e offerto l'omaggio di una mente tranquilla, un'anima fiduciosa e un cuore traboccante; così che il fumo da questo umile camino è salito con un profumo migliore del più ricco incenso bruciato davanti ai più ricchi altari in tutti i sontuosi templi di questo mondo! -- Sulla vostra stessa mensa; nel suo tranquillo santuario; circondati dalle sue dolci influenze e associazioni; ascoltatela! Ascoltate me! Ascoltate tutto ciò che parla la lingua della vostra mensa e del vostro [[Home|focolare]]!"
+
+"E implora per lei?", chiese il vetturale.
+
+"Tutte le cose che parlano la lingua del tuo focolare e della tua [[Home|casa]] devono implorare per lei!", rispose il Grillo. "Perché esse dicono la [[Truth|verità]]."
+
+E mentre il Vetturino, con la testa tra le mani, continuava a sedere meditando sulla sua sedia,
+la Presenza stette accanto a lui, suggerendo i suoi pensieri col suo potere e presentandoglieli come in uno specchio o un quadro. Non era una Presenza solitaria. Dal focolare, dal camino, dalla [[Clock|clessidra]], la pipa, il bollitore e la culla; dal pavimento, dalle pareti, dal soffitto e dalle scale; dal carro fuori e dall'armadio dentro, e dagli utensili domestici; da ogni cosa e luogo con cui era mai stata familiare, e a cui aveva intrecciato un ricordo di sé nella mente del suo infelice marito,--uscivano in folla le Fate. Non per stare accanto a lui come faceva il Grillo, ma per darsi da fare e star attive. Per rendere tutti gli [[Honour|onori]] alla sua immagine. Per tirarlo per la giacca e indicargliela quando appariva. Per raggrupparsi intorno ad essa, abbracciarla e spargere dei [[Flowers|fiori]] su cui calpestare. Per cercare di [[Crown|incoronare]] il suo bel capo con le loro manine. Per mostrare che ne erano affezionate e l'amavano; e che non c'era una sola creatura brutta, malvagia o accusatoria a rivendicare la conoscenza di lei--nessuna se non i loro stessi giocosi ed approvanti sé.
+
+I suoi pensieri erano costantemente rivolti alla sua immagine. Era sempre lì.
+
+Ella sedeva cucendo davanti al [[Fire|fuoco]], cantando tra sé. Che allegra,
+vigorosa e costante piccola Dot! Le figure delle fate si voltarono verso di lui
+tutte insieme, d'improvviso, con un'unica enorme occhiata concentrata, e
+sembravano dire: «È questa la moglie leggera per cui stai piangendo?»
+
+Fuori si udivano suoni di allegria, strumenti musicali e voci chiassose e risate.
+Una folla di giovani festaioli irruppe all'interno, tra cui [[May Fielding]] e una ventina di ragazze graziose. Dot era la più bella di tutte; ed era anche la più giovane. Erano venuti a invitarla a unirsi alla loro compagnia. Si trattava di una [[Dance|danza]]. Se mai ci fu un piedino fatto per danzare, quello era proprio il suo. Ma lei rise e scosse la testa e indicò i suoi piatti sul [[Fire|fuoco]] e la tavola apparecchiata; con una sfida trionfante che la rendeva più affascinante di prima. E così li congedò allegramente, salutando uno dopo l'altro i suoi pretendenti in uscita con un'indifferenza comica tale da spingerli a buttarsi nel fiume immediatamente se fossero stati suoi ammiratori - e lo erano di certo, più o meno; non poteva essere altrimenti. Eppure l'indifferenza non era il suo carattere. Oh no! Infatti poco dopo arrivò un certo Corriere alla porta; e, benedetta lei, che accoglienza gli fece!
+
+Ancora una volta le figure fissanti si rivolsero a lui tutte insieme e sembrarono dire: «Questa è la moglie che ti ha abbandonato?»
+
+Una [[Shadow|ombra]] cadde sullo [[Mirror|specchio]] o sulla pittura: chiamatela come volete. Una grande [[Shadow|ombra]] dello Straniero, quando si fermò per la prima volta sotto il loro tetto; copriva tutta la superficie e oscurava tutti gli altri oggetti. Ma le agili Fate lavorarono come delle [[Bees|api]] per rimuoverla di nuovo. E Dot era di nuovo lì, ancora luminosa e bella.
+
+Cullando il suo piccolo Bambino nella culla, cantandogli dolcemente e appoggiando la testa su una spalla che aveva la sua controparte nella figura meditabonda accanto alla quale stava lo Spirito Grillo.
+
+La [[Night|notte]] -- intendo la vera [[Night|notte]]: non secondo gli orologi delle fate -- era già avanzata;
+e, a questo punto dei pensieri del Corriere, la [[Moon|luna]] si fece strada,
+splendendo luminosa nel cielo. Forse anche nella sua mente era sorta
+qualche luce calma e tranquilla; e poteva riflettere più sobriamente su quanto era accaduto.
+
+Sebbene l'[[Shadow|ombra]] dello Sconosciuto cadesse a intervalli sul vetro - sempre distinta, grande e perfettamente definita - non cadde mai così oscuramente come all'inizio. Ogni volta che appariva, i Folletti emettevano un grido generale di costernazione e si davano da fare con le loro piccole braccia e gambe con un'attività inconcepibile per strofinarla via. E ogni volta che riuscivano a raggiungere nuovamente Dot e la mostravano di nuovo a lui, luminosa e bella, acclamavano in modo davvero entusiasmante.
+
 
 
 <span class="atom-split" data-atom="story_06_chirp_the_third--part_03" data-title="The Cricket on the Hearth — Chirp The Third (part 3)" data-chapter="Chirp The Third" data-kind="excerpt" data-tags="archetype/shadow,motif/crown,motif/dance,motif/flowers,motif/home,motif/horse,motif/love,motif/marriage,motif/moon,motif/night,motif/noon,motif/road,motif/rose,motif/stars,motif/time,concept/hope,concept/self,character/caleb_plummer,character/john_peerybingle,character/tackleton,character/tilly_slowboy"></span>
@@ -6503,6 +7786,51 @@ knocked; and he too failed to get the least reply. But he thought of
 trying the handle of the door; and, as it opened easily, he peeped in,
 looked in, went in, and soon came running out again.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Non la mostrarono mai diversa da bella e luminosa, perché erano Spiriti Domestici per i quali il falso è un'annichilazione; e essendo così, quale Dot poteva essere per loro se non quella creatura vivace, raggiante, piacevole che era stata la luce e il sole della [[Home|Casa]] del Carrier?
+
+Le fate erano incredibilmente eccitate quando le mostrarono la Bambina che chiacchierava con un gruppo di sagge vecchie matrone e cercava di sembrare molto vecchia e matronale anche lei, appoggiandosi in modo composto e modesto al braccio del marito, tentando - lei! una così tenera piccola donna - di dare l'idea di aver rinunciato alle vanità del mondo in generale e di essere il tipo di persona per cui non era affatto una novità essere madre; tuttavia, nello stesso respiro, le mostrarono che rideva del Corriere perché goffo, tirando su il colletto della sua camicia per fargli apparire più elegante, e danzando allegramente in quella stessa stanza per insegnargli come [[Dance|ballare]]!
+
+Si voltarono e lo fissarono intensamente quando la presentarono con la Ragazza Cieca; perché, sebbene portasse allegria e vivacità ovunque andasse, riversò quelle influenze nella [[Caleb Plummer|casa]] di [[Home|Caleb Plummer]], accumulandole fino a farle traboccare. L'[[Love|amore]] della Ragazza Cieca per lei, la fiducia in lei e la gratitudine verso di lei; il suo modo di mettere da parte i ringraziamenti di Bertha; le sue piccole abilità nel riempire ogni momento della visita facendo qualcosa di utile alla [[house|casa]], lavorando davvero sodo mentre fingeva di fare festa; la sua abbondante provvista di quei piatti prelibati, il Pasticcio di Vitello e Prosciutto e le bottiglie di Birra; il suo viso radioso che arrivava alla porta e si congedava; l'espressione meravigliosa in tutta la sua [[Self|persona]], dal suo piede ben curato alla [[Crown|cima]] della testa, di essere parte integrante dell'ambiente, qualcosa di necessario a esso, senza cui non potrebbe esistere, tutto questo le Fate ne gioivano e l'amavano per questo. E ancora una volta lo guardarono tutti insieme, con aria supplichevole, e sembrarono dire, mentre alcune tra loro si annidavano nel suo abito e la accarezzavano: "È questa la moglie che ha tradito la tua fiducia?"
+
+Più di una volta, o due volte, o tre volte, nella lunga notte pensosa [[Night|notte]], gliela mostrarono seduta sul suo posto preferito, con la testa china, le mani giunte sulla fronte, i capelli che cadevano. Come l'aveva vista l'ultima volta.
+E quando la trovarono così, non si voltarono né lo guardarono, ma si strinsero intorno a lei, la consolarono e la baciarono, e si premurarono gli uni con gli altri per dimostrarle simpatia e gentilezza, e dimenticarono completamente lui.
+
+Così passò la [[Night|notte]]. La [[Moon|luna]] tramontò; le [[Stars|stelle]] impallidirono; il freddo giorno sorse; il sole si [[Rose|alzò]]. Il Vetturale era ancora seduto, pensieroso, nell'angolo del camino. Era rimasto lì, con la testa tra le mani, tutta la [[Night|notte]]. Tutta la [[Night|notte]] il fedele Grillo aveva continuato a fare Cric, Cric, Cric sul focolare. Tutta la [[Night|notte]] egli aveva ascoltato la sua voce. Tutta la [[Night|notte]] le Fate domestiche erano state occupate con lui. Tutta la [[Night|notte]] ella era stata amabile e senza colpa nello specchio, tranne quando quella unica [[Shadow|ombra]] vi cadde sopra.
+
+Si [[Rose|alzò]] quando era pieno giorno, si lavò e vestì. Non poteva dedicarsi alle sue consuete allegre occupazioni: non ne aveva lo spirito; ma importava poco che fosse il giorno delle nozze di [[Tackleton]], e aveva organizzato di fare i suoi giri per procura. Aveva pensato di andare allegramente in chiesa con Dot. Ma tali piani erano finiti. Era anche il loro giorno di nozze. Ah! Quanto poco si era aspettato una fine del genere a un anno così!
+
+Il vetturale si aspettava che [[Tackleton]] gli facesse una visita presto; e aveva ragione.
+Non era passato molto tempo da quando camminava avanti e indietro davanti alla sua porta, quando vide arrivare il mercante di giocattoli in carrozza lungo la [[Road|strada]]. Mentre la carrozza si avvicinava, notò che [[Tackleton]] era vestito elegantemente per le sue [[Marriage|nozze]], e aveva decorato il capo del suo [[Horse|cavallo]] con [[Flowers|fiori]] e nastri.
+
+Il [[Horse|cavallo]] aveva un aspetto molto più da sposo di quello di [[Tackleton]], il cui occhio semi-chiuso era più sgradevolmente espressivo che mai. Ma il Vetturale non ci fece molto caso. I suoi pensieri erano occupati altrove.
+
+«[[John Peerybingle]]!» disse [[Tackleton]] con aria di condoglianze. «Mio buon amico, come vi sentite questa mattina?»
+
+"Ho passato una [[Night|notte]] poco riposante, signor [[Tackleton]]", rispose il Carrier,
+scuotendo la testa: "perché sono stato molto turbato. Ma ora è finita! Può concedermi mezz'ora o giù di lì per una chiacchierata in privato?"
+
+"Sono venuto appositamente", rispose [[Tackleton]] scendendo. "Non preoccupatevi del [[Horse|cavallo]]. Starà tranquillo abbastanza, con le redini su questo palo, se gli darete un boccone di fieno."
+
+Il vetturino l'aveva portato dal suo fienile e lo aveva messo davanti a lui, così entrarono nella [[house|casa]].
+
+"Non siete sposati prima di [[Noon|mezzogiorno]]", disse, "credo?"
+
+"No", rispose [[Tackleton]], "c'è tutto il [[Time|tempo]] del mondo. C'è tutto il [[Time|tempo]] del mondo."
+
+Quando entrarono in cucina, [[Tilly Slowboy]] stava bussando alla porta dello Straniero; che si trovava a pochi passi da lì. Uno dei suoi occhi molto rossi (perché Tilly aveva pianto tutta la [[Night|notte]], perché anche la sua padrona piangeva) era sul buco della serratura; e stava bussando forte, ed era spaventata.
+
+"Se non le dispiace, non riesco a farmi sentire da nessuno", disse Tilly guardandosi intorno. "[[Hope|Spero]] che nessuno sia morto se non le dispiace!"
+
+Questa pia intenzione la signorina Slowboy enfatizzò con vari nuovi colpi e calci alla porta, che non portarono a nessun risultato.
+
+«Devo andare?» disse [[Tackleton]]. «È curioso».
+
+Il vetturale, che aveva voltato il viso dalla porta, gli fece cenno di andarsene se lo desiderava.
+
+Così [[Tackleton]] andò a soccorrere [[Tilly Slowboy]]; e anche lui calciava e sbatteva; e anche lui non riusciva ad ottenere la minima risposta. Ma pensò di provare con la maniglia della porta; e, dato che si apriva facilmente, vi diede un'occhiata, guardò dentro, entrò e ben presto uscì correndo di nuovo.
 
 
 
@@ -6634,6 +7962,71 @@ known under this roof bear witness! It will be some help and comfort to
 me when I am here [[Alone|alone]]."
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+«[[John Peerybingle]]», disse [[Tackleton]] all'orecchio suo, «spero che non ci sia stato nulla, niente di avventato durante la [[Night|notte]]?»
+
+Il vetturale si voltò rapidamente verso di lui.
+
+«Perché è andato via!» disse [[Tackleton]]; «e la [[Window|finestra]] è aperta. Non vedo tracce, certo che è quasi allo stesso livello del [[Garden|giardino]], ma temevo ci fosse stato qualche, alterco. Eh?»
+
+Gli chiuse quasi del tutto l'occhio espressivo; lo guardava così intensamente.
+E diede al suo occhio e al suo volto e alla sua intera persona un brusco torsione,
+come se volesse strappargli la [[Truth|verità]].
+
+«Non preoccupatevi», disse il Vetturale. «È entrato in quella stanza la [[Night|scorsa]] notte, senza che io gli dicessi o facessi nulla di male, e da allora non è più entrato nessuno. Se n'è andato per sua libera volontà. Uscirei volentieri da quella porta e chiederei l'elemosina da [[house|casa]] in [[house|casa]], per tutta la vita, se potessi cambiare il passato in modo che non fosse mai venuto. Ma è venuto ed è andato via. E ho finito con lui!»
+
+"Beh! — [[Well|Bene]], penso che se la sia cavata piuttosto facilmente", disse [[Tackleton]] prendendo una sedia.
+
+Il sarcasmo non fece presa sul vetturino, che si sedette anche lui e si coprì il volto con la mano per qualche breve [[Time|tempo]] prima di continuare.
+
+«Mi hai mostrato ieri [[Night|sera]]», disse infine, «mia moglie, la donna che io [[Love|amo]], in segreto, »
+
+"E con tenerezza", insinuò [[Tackleton]].
+
+«--Tollerare il travestimento di quell'uomo e dargli l'occasione di incontrarla [[Alone|da sola]]. Penso che non ci sia vista al mondo che avrei preferito vedere. Penso che non ci sia uomo al mondo a cui avrei preferito mostrarlo.»
+
+«Confesso di aver sempre avuto i miei sospetti», disse [[Tackleton]], «e questo mi ha reso antipatico qui, lo so.»
+
+"Ma poiché me l'avete mostrato", continuò il vetturale senza badargli; "e poiché avete visto lei, mia moglie, la donna che io [[Love|amo]]"--la sua voce, lo sguardo e la mano divennero più fermi mentre ripeteva queste parole: evidentemente in seguito a uno scopo ben preciso--"poiché l'avete vista in questa situazione di svantaggio, è giusto che voi possiate anche vedere con i miei occhi, guardare nel mio cuore e sapere cosa ne penso sull'argomento. Perché la decisione è presa", disse il vetturale osservandolo attentamente. "E ora nulla potrà farla vacillare."
+
+[[Tackleton]] mormorò alcune parole generiche di assenso sul fatto che fosse necessario difendere qualcosa; ma era intimidito dal comportamento del suo compagno. Pur essendo semplice e privo di raffinatezza, aveva in sé qualcosa di dignitoso e nobile, che solo l'[[Soul|anima]] dell'[[Honour|onore]] generoso risiedente nell'uomo avrebbe potuto conferire.
+
+"Sono un uomo semplice e rude," continuò il vetturino "e non ho molto da offrire.
+Non sono un uomo intelligente, come sapete [[Well|benissimo]]. Non sono giovane. Ho amato la mia piccola Dot perché l'ho vista crescere, fin da quando era una
+[[Child|bambina]], nella [[house|casa]] di suo padre; perché sapevo quanto fosse preziosa;
+perché è stata la mia vita per anni e anni. Ci sono molti uomini con cui non posso competere, che mai avrebbero potuto amare la mia piccola Dot come me, credo!"
+
+Fece una pausa e per un breve [[Time|periodo]] batté dolcemente il terreno con il piede prima di riprendere:
+
+«Spesso pensavo che sebbene non fossi abbastanza buono per lei, sarei stato un marito gentile e forse l'avrei apprezzata più di altri; ed è così che mi riconciliai con me stesso e finii col credere che fosse possibile che ci sposassimo. E alla fine accadde: _ci_ sposammo!»
+
+"Ah!" disse [[Tackleton]] con un significativo scuotimento della testa.
+
+«Mi ero studiato; avevo fatto esperienza di me stesso; sapevo quanto l'amassi e quanto sarei stato felice», continuò il vetturino, «ma non avevo - ora lo sento - considerato a sufficienza lei.»
+
+"Per essere sicuri", disse [[Tackleton]], "vertigini, frivolezza, incoerenza, [[Love|amore]]
+per l'ammirazione! Non considerati! Tutti lasciati fuori dalla vista! Ah!"
+
+«Faresti meglio a non interrompermi», disse il Vetturino con un certo rigore,
+«finché non mi avrai capito; e sei lontano dal farlo. Se ieri
+avrei colpito quell'uomo al volo, chiunque osasse dire una parola contro di lei,
+oggi gli metterei il piede sul viso, anche se fosse mio fratello!»
+
+Il venditore di giocattoli lo fissò stupito. Continuò con tono più dolce:
+
+"Mi sono chiesto," disse il Vetturino, "che la prendessi--alla sua età e con la sua [[Beauty|bellezza]]--lontano dai suoi giovani compagni e dalle tante scene di cui era l'ornamento; in cui era la più luminosa stellina che mai abbia brillato, per rinchiuderla giorno dopo giorno nella mia noiosa [[house|casa]], e tenerle compagnia con le mie lunghe chiacchiere? Mi sono chiesto quanto fossi poco adatto al suo vivace [[Humour|umore]], e quanto un uomo lento come me debba essere pesante per una persona dallo spirito così rapido? Mi sono chiesto che non fosse merito mio, né diritto mio, amarla, quando tutti quelli che la conoscevano dovevano farlo? Mai. Ho approfittato della sua promettente [[Nature|natura]] e del suo carattere allegro; e l'ho sposata. Vorrei non averlo mai fatto! Per il suo bene, non per il mio!"
+
+Il mercante di giocattoli lo fissò senza batter ciglio. Anche l'occhio semichiuso era ora aperto.
+
+"Il cielo la benedica!", disse il Carrier, "per l'allegra costanza con cui ha cercato di tenermi all'oscuro di questa cosa! E che il cielo mi aiuti, perché nella mia mente ottusa non me ne sono accorto prima! Povera [[Child|bambina]]! Povera Dot! _Io_ non capirlo, io che ho visto i suoi occhi riempirsi di [[Tears|lacrime]] quando si parlava di un [[Marriage|matrimonio]] come il nostro! Io che l'ho vista tremare in segreto sulle labbra cento volte e non mi sono mai accorto di nulla, fino a ieri [[Night|sera]]! Poverina! Che io abbia mai potuto [[Hope|sperare]] che lei si sarebbe affezionata a me! Che io abbia mai potuto credere che lo fosse!"
+
+«Ne ha fatto una scenata», disse [[Tackleton]]. «Ha fatto una tale scenata che, per dirle la [[Truth|verità]], è stata l'origine dei miei dubbi.»
+
+E qui egli affermò la superiorità di [[May Fielding]], che certamente non faceva alcun tipo di mostra di essere affezionata a lui.
+
+«Ha fatto del suo meglio», disse il povero Carrier con più emozione di quanta ne avesse mai mostrata; «solo ora comincio a capire quanto si sia impegnata per essere la moglie devota e zelante che è. Quanto è stata buona, quanto ha fatto, quanto coraggio e forza d'animo ha dimostrato! Che il felice matrimonio vissuto sotto questo tetto ne sia testimonianza! Sarà di qualche aiuto e conforto per me quando sarò qui [[Alone|solo]].»
+
 
 
 <span class="atom-split" data-atom="story_06_chirp_the_third--part_05" data-title="The Cricket on the Hearth — Chirp The Third (part 5)" data-chapter="Chirp The Third" data-kind="excerpt" data-tags="archetype/innocent,archetype/lover,motif/clock,motif/flowers,motif/home,motif/horse,motif/leaves,motif/marriage,motif/night,motif/pain,motif/soul,motif/time,motif/well,concept/courage,concept/forgiveness,concept/self,concept/truth,character/john_peerybingle,character/tackleton"></span>
@@ -6762,6 +8155,73 @@ bursting out into a howl--she looked at the moment uncommonly like
 Boxer. "Ow, if you please, don't! Ow, what has everybody gone and been
 and done with everybody, making everybody else so wretched? Ow-w-w-w!"
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+«Qui [[Alone|sola]]?» disse [[Tackleton]]. «Oh! Allora intendete davvero prestare un po' di attenzione a questo?»
+
+"Voglio dire," rispose il Vetturino, "di farle la più grande gentilezza e di riparare al meglio delle mie possibilità. Posso liberarla dal [[Pain|dolore]] quotidiano di un [[Marriage|matrimonio]] disuguale e dalla lotta per nasconderlo. Sarà libera quanto posso renderla."
+
+"Faccia ammenda _lei_!" esclamò [[Tackleton]], torcendo e girando le sue grandi orecchie con le mani. "Qui deve esserci qualcosa che non va. Non l'ha detto, naturalmente."
+
+Il vetturino afferrò il colletto del mercante di giocattoli e lo scosse come un giunco.
+
+«Ascoltatemi!» disse «e fate attenzione a capirmi bene. Ascoltatemi.
+Parlo in modo chiaro?»
+
+«Molto chiaramente infatti», rispose [[Tackleton]].
+
+«Come se lo pensassi sul serio?»
+
+«Proprio come se lo pensassi sul serio».
+
+"Sedetti su quel focolare ieri [[Night|sera]], tutta la [[Night|notte]]," esclamò il Carrier.
+"Nel punto in cui spesso si è seduta accanto a me, con il suo dolce volto
+che mi guardava. Ho richiamato alla mente tutta la sua vita giorno per giorno. Avevo la sua cara [[Self|persona]], in ogni suo passaggio, in rassegna davanti a me. E, sulla mia [[Soul|anima]], è [[Innocent|innocente]], se c'è Uno che giudica gli [[Innocent|innocenti]] e i colpevoli!"
+
+Fedele Grillo del Focolare! Leali Fate della Casa!
+
+"La passione e il sospetto mi hanno abbandonato!", disse il Vetturino; "e non rimane altro che la mia tristezza. In un momento infelice, qualche vecchio [[Lover|amante]], più adatto ai suoi gusti e alla sua età di me, forse abbandonato per causa mia contro la sua volontà, è tornato. In un momento infelice, presa di sorpresa e senza il [[Time|tempo]] di riflettere su ciò che faceva, si è resa complice della sua tradimento nascondendolo. La scorsa [[Night|notte]] lo ha visto nell'incontro a cui abbiamo assistito. Era sbagliato. Ma, al di là di questo, lei è [[Innocent|innocente]], se c'è ancora la [[Truth|verità]] sulla terra!"
+
+"Se questa è la sua opinione ----" cominciò [[Tackleton]].
+
+"E allora lasciatela andare!", continuò il vetturino. "Andatevene, con la mia benedizione per le tante ore di felicità che mi avete dato e il mio [[Forgiveness|perdono]] per ogni dolore che mi avete causato. Andatevene e godetevi la pace interiore che vi auguro! Non mi odierà mai. Imparerà a volermi bene quando non sarò più un peso per lei, e porterà più leggermente la catena che le ho forgiato. Oggi è il giorno in cui l'ho portata via da [[Home|casa]] sua, senza pensare minimamente al suo benessere. Oggi tornerà a casa, e io non la disturberò mai più. Suo padre e sua madre saranno qui oggi - avevamo fatto un piccolo piano per stare insieme - e la riporteranno [[Home|a casa]]. Posso fidarmi di loro, o di chiunque altro. Mi lascia senza rimproveri, ne sono sicuro, e vivrà bene. Se dovessi morire - forse mentre è ancora giovane; ho perso un po' di [[Courage|coraggio]] in poche ore - troverà che mi ricordavo di lei, e l'ho amata fino all'ultimo! Questa è la fine di quello che mi avete mostrato. Ora è finita!"
+
+"Oh no, John, non è finita! Non dire che è finita ancora! Non proprio ora. Ho ascoltato le tue nobili parole. Non potevo andarmene via di nascosto, fingendo di ignorare ciò che mi ha colmata di una gratitudine così profonda. Non dire che è finita fino a quando l'[[Clock|orologio]] non avrà battuto ancora!"
+
+Era entrata poco dopo [[Tackleton]], e vi era rimasta. Non guardava mai [[Tackleton]], ma teneva gli occhi fissi su suo marito. Ma si manteneva lontana da lui, lasciando tra loro lo spazio più ampio possibile; e, sebbene parlasse con la massima serietà appassionata, non si avvicinava a lui nemmeno allora. Quanto diversa in questo dal suo vecchio [[Self|io]]!
+
+"Nessuna mano può fare l'[[Clock|orologio]] che per me batterà di nuovo le ore passate", rispose il Carrier con un pallido sorriso. "Ma sia come vuoi, mia cara. Batterà presto. Non ha molta importanza quello che diciamo. Cercherei di accontentarti anche in casi più difficili."
+
+"[[Well|Bene]]!" borbottò [[Tackleton]]. "Devo proprio andarmene, perché quando la [[Clock|campana]] suonerà di nuovo dovrò essere già in cammino verso la chiesa. Buongiorno, [[John Peerybingle]]. Mi dispiace non poter godere della sua compagnia. Mi spiace per la perdita e anche per il motivo che l'ha causata!"
+
+«Ho parlato chiaramente?», disse il vetturale accompagnandolo alla porta.
+
+“Oh, perfettamente!”
+
+"E ricorderete quello che ho detto?"
+
+«Perché, se mi costringete a fare l'osservazione», disse [[Tackleton]],
+prendendo prima la precauzione di salire sulla sua carrozza, «devo dire che è stato così inaspettato da farmi pensare che non lo dimenticherò facilmente».
+
+«Meglio per tutti e due», rispose il vetturale. «Addio! Vi auguro ogni bene!»
+
+"Vorrei poterlo dare a _te_", disse [[Tackleton]]. "Ma non posso, grazie.
+Tra noi (come ti ho già detto prima, eh?) non credo che la mia vita da sposato sarà meno felice perché May non è stata troppo premurosa nei miei confronti e troppo dimostrativa. Addio! Prenditi cura di te stesso."
+
+Il vetturale rimase a guardarlo finché non fu più piccolo in lontananza dei [[Horse|fiori]] e delle decorazioni del suo [[Flowers|cavallo]] da vicino; poi, con un profondo sospiro, si mise a vagare come un uomo irrequieto e distrutto tra alcuni olmi vicini, senza voler tornare finché il [[Clock|orologio]] non fosse sul punto di suonare.
+
+La sua giovane moglie, rimasta [[Alone|sola]], singhiozzava pietosamente; ma spesso si asciugava gli occhi e si controllava per dire quanto fosse buono lui, quanto fosse eccellente!
+e una o due volte rise; così di cuore, trionfalmente e
+incoerentemente (piangendo ancora tutto il [[Time|tempo]], che Tilly ne fu completamente
+sconvolta.
+
+«Oh, se non vi dispiace, no!» disse Tilly. «È già abbastanza per uccidere e seppellire il Bambino, così è se non vi dispiace».
+
+«Lo porterai a volte a trovare suo padre, Tilly», chiese la sua padrona,
+asciugandosi gli occhi, «quando non potrò più vivere qui e sarò tornata nella mia vecchia [[Home|casa]]?»
+
+«Oh, per favore, no!» gridò Tilly, gettando indietro la testa e scoppiando in un pianto disperato: in quel momento somigliava stranamente a Boxer. «Oh, per favore, no! Oh, che cosa hanno fatto tutti con tutti, rendendo così infelici gli altri? Oh-oh-oh-oh!»
 
 
 
@@ -7033,6 +8493,99 @@ and, flinging away his hat into the air, came sweeping down upon them.
 "Is it over?" cried Dot.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Poco dopo udì più distintamente la voce del Grillo e, nonostante fosse cieca, percepì la Presenza che aleggiava intorno a suo padre.
+
+«Maria», disse la Ragazza Cieca, «dimmi com'è la mia [[Home|casa]]. Com'è veramente».
+
+"È un posto povero, Bertha; molto povero e spoglio davvero. La [[house|casa]] non riuscirà quasi più a tenere fuori il [[Wind|vento]] e la pioggia in un altro [[Winter|inverno]]. È protetta dalle intemperie in modo altrettanto rudimentale, Bertha," continuò Dot con voce bassa e chiara, "come tuo povero padre nel suo sacco di iuta."
+
+La Ragazza Cieca, molto agitata, si [[Rose|alzò]] e condusse la giovane moglie del Facchino in disparte.
+
+«Quei regali che ho custodito con tanta cura; che sono arrivati quasi per mio desiderio e mi hanno fatto così tanto piacere», disse tremando, «da dove venivano? Li hai mandati tu?»
+
+"No."
+
+«E allora chi?»
+
+Dot vide che lei già sapeva e rimase in silenzio. La ragazza cieca si coprì di nuovo il viso con le mani. Ma questa volta in modo completamente diverso.
+
+«Cara Mary, un momento. Un attimo solo. Più da questa parte. Parla dolcemente con me. Sei sincera lo so. Non mi inganneresti ora; vero?»
+
+“No, Bertha, davvero!”
+
+«No, sono sicuro che non lo faresti. Hai troppa pietà di me. Mary, guarda dall'altra parte della stanza dove siamo stati poco fa - dove c'è mio padre - mio padre così compassionevole e affettuoso con me - e dimmi cosa vedi».
+
+"Capisco", disse Dot, che la comprendeva [[Well|benissimo]], "un vecchio seduto su una sedia e appoggiato con tristezza allo schienale, con il viso poggiato sulla mano. Come se fosse suo [[Child|figlio]] a consolarlo, Bertha."
+
+«Sì, sì. Lo farà. Continua».
+
+"È un vecchio uomo, consumato dalle preoccupazioni e dal lavoro.
+È un uomo magro, abbattuto, pensieroso, dai capelli grigi. Lo vedo ora,
+disperato e curvo, che lotta contro nulla. Ma, Bertha, l'ho visto molte
+volte prima, e impegnarsi duramente in molti modi, per un grande oggetto sacro.
+E [[Honour|onoro]] la sua testa grigia, e lo benedico!"
+
+La ragazza cieca si staccò da lei e, gettandosi in ginocchio davanti a lui,
+gli prese la testa grigia tra le braccia.
+
+«È la mia vista che è tornata. È la mia vista!» esclamò. «Ero cieca e ora i miei occhi sono aperti. Non l'ho mai conosciuto davvero! Pensare che avrei potuto morire senza aver mai visto veramente il padre che è stato così affettuoso con me!»
+
+Non c'erano parole per descrivere l'emozione di Caleb.
+
+"Non c'è una figura galante su questa terra", esclamò la Ragazza Cieca,
+tenendolo tra le sue braccia, "che io [[Love|amerò]] così teneramente e che
+custodirò con tanto amore come questo! Più è grigio e più è logoro, più è caro,
+padre! Non lasciare mai dire di nuovo che sono cieca. Non c'è una ruga sul suo
+viso, non c'è un capello sulla sua testa, che sarà dimenticato nelle mie
+preghiere e nei miei ringraziamenti al Cielo!"
+
+Caleb riuscì a dire: «La mia Bertha!»
+
+"E nella mia cecità gli ho creduto", disse la ragazza accarezzandolo con [[Tears|lacrime]] di squisita affetto, "così diverso. E avendolo al mio fianco giorno dopo giorno, così premuroso sempre nei miei confronti, non ho mai sospettato nulla!"
+
+«Il padre fresco e ben vestito nel cappotto blu, Bertha», disse il povero Caleb,
+«Se n'è andato!»
+
+«Nulla è perduto», rispose lei. «Carissimo padre, no! Tutto è qui, in te.
+Il padre che ho tanto [[Well|amato]]; il padre che non ho mai abbastanza amato e che non ho mai conosciuto; il benefattore che ho cominciato a venerare e ad [[Love|amare]] perché aveva tanta compassione per me, sono tutti qui in te. Nulla è morto per me. L'[[Soul|anima]] di tutto ciò che era più caro a me
+è qui, qui, con il volto segnato e la testa grigia. E NON sono più cieca, padre!»
+
+L'attenzione di Dot era stata tutta concentrata, durante questo discorso,
+sul padre e sulla figlia; ma guardando ora verso il piccolo mietitore nella prateria moresca,
+vide che l'[[Clock|orologio]] mancavano pochi minuti alla battuta delle ore
+e cadde immediatamente in uno stato di nervosismo ed eccitazione.
+
+«Padre!» disse Bertha esitando «Maria!»
+
+«Sì, mia cara», rispose Caleb. «Ecco qui».
+
+«Non c'è cambiamento in lei? Non mi hai mai detto nulla di lei che non fosse vero?»
+
+«Avrei dovuto farlo, mia cara», rispose Caleb, «se fossi riuscito a renderla migliore di quanto fosse. Ma l'avrei resa peggiore se l'avessi cambiata in qualche modo. Niente poteva migliorarla, Bertha».
+
+La Cieca era stata sicura di sé quando aveva posto la domanda, ma il suo entusiasmo e la sua [[Pride|fierezza]] nella risposta, e l'abbraccio rinnovato a Dot, erano incantevoli da vedere.
+
+"Potrebbero verificarsi più cambiamenti di quanti pensiate, però, mia cara", disse Dot.
+"Cambiamenti in meglio, voglio dire; cambiamenti che procureranno grande gioia ad alcuni di noi.
+Non dovete lasciarvi spaventare troppo se mai dovesse accadere qualcosa del genere
+che vi riguardi. Sono quelle ruote sulla [[Road|strada]]? Avete un orecchio fine, Bertha. Sono ruote?"
+
+«Sì. Sta arrivando molto in fretta».
+
+"I--I--Io so che hai un orecchio fine," disse Dot, posando la mano sul cuore e parlando evidentemente il più velocemente possibile per nascondere i suoi battiti palpitanti, "perché l'ho notato spesso, e perché sei stato così rapido a scoprire quel passo strano [[Night|notte]]. Anche se non capisco perché tu abbia detto, come ricordo molto [[Well|bene]] che hai detto, Bertha, 'Di chi è quel passo?' e perché tu ne abbia fatto più caso di qualsiasi altro passo. Sebbene, come ho appena detto, ci sono grandi cambiamenti nel mondo: grandi cambiamenti: e non possiamo fare di meglio che prepararci a essere sorpresi da quasi tutto."
+
+Caleb si chiedeva che cosa significasse tutto ciò; capì che lei gli stava parlando tanto quanto alla figlia. La vide con stupore così agitata e angosciata da non riuscire quasi più a respirare, e dover afferrare una sedia per evitare di cadere.
+
+"Sono davvero ruote!" ansimò. "Si stanno avvicinando! Più vicino! Molto
+vicino! E ora le sentite fermarsi al cancello del [[Garden|giardino]]! E ora sentite un passo fuori dalla porta--è lo stesso passo, Bertha, non è vero?--e
+ora----!"
+
+Ella emise un grido selvaggio di gioia incontenibile e correndo da Caleb gli pose le mani sugli occhi mentre un giovane irrompeva nella stanza e, scagliando il cappello per aria, si avventava su di loro.
+
+«È finita?» esclamò Dot.
+
 
 
 <span class="atom-split" data-atom="story_06_chirp_the_third--part_08" data-title="The Cricket on the Hearth — Chirp The Third (part 8)" data-chapter="Chirp The Third" data-kind="excerpt" data-tags="motif/desire,motif/love,motif/marriage,motif/nature,motif/night,motif/road,motif/tears,motif/well,concept/honour,concept/hope,concept/nature,concept/truth,character/john_peerybingle,character/tackleton"></span>
@@ -7161,6 +8714,69 @@ in your face, that you had seen me walking in the gallery with Edward,
 and when I knew what you thought, I felt how giddy and how wrong it was.
 But oh, dear John, how could you, could you think so?"
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+"Sì, davvero!"
+
+«Finita felicemente?»
+
+"Sì, davvero!"
+
+«Ti ricordi la voce, caro Caleb? L'hai mai sentita prima d'ora?» esclamò Dot.
+
+«Se mio figlio nelle auree Americhe del Sud fosse vivo!» disse Caleb tremando.
+
+«È vivo!» gridò Dot, togliendo le mani dai suoi occhi e battendole in estasi. «Guardatelo! Vedete come sta davanti a voi, sano e forte? Vostro figlio tanto caro. Vostro fratello tanto caro, vivente e affettuoso, Bertha!»
+
+Tutto l'[[Honour|onore]] alla piccola creatura per i suoi trasporti! Tutto l'[[Honour|onore]] alle sue [[Tears|lacrime]] e risate, quando i tre erano stretti tra le braccia gli uni degli altri! Tutto l'[[Honour|onore]] alla cordialità con cui andò incontro a metà strada al marinaio abbronzato, con i suoi capelli scuri che gli cadevano sulla fronte, e non distolse mai la sua piccola bocca rosea, ma lo lasciò baciarla liberamente e stringerla al suo cuore pulsante!
+
+E [[Honour|onore]] anche al cuculo -- perché no? -- per essere sbucato dal portello nel Palazzo moresco come un scassinatore e aver dato dodici colpi di singhiozzo davanti all'assemblea, come se fosse ubriaco di gioia!
+
+Il vetturino, entrando, indietreggiò. E [[Well|ben]] gli stava, trovandosi in così buona compagnia.
+
+«Guarda, John!» disse Caleb trionfante «guarda qui! Il mio ragazzo delle Americhe d'Oro! Mio figlio! Colui che hai attrezzato e mandato via tu stesso! Colui per cui sei sempre stato un tale amico!»
+
+Il vetturino si fece avanti per stringergli la mano, ma poi indietreggiò perché qualche tratto del suo volto gli ricordava l'uomo sordo sul carro e disse:
+
+«Edward! Sei stato tu?»
+
+«Ora digli tutto!» gridò Dot. «Digli tutto, Edward; e non risparmiarmi,
+perché nulla mi farà risparmiare me stessa ai suoi occhi, mai più».
+
+«Ero io quell'uomo», disse Edoardo.
+
+"E avresti potuto rubare, travestito, nella [[house|casa]] del tuo vecchio amico?"
+ribatté il Carrier. "C'era una volta un ragazzo schietto: quanti anni sono,
+Caleb, da quando abbiamo saputo che era morto e ne abbiamo avuto la prova,
+pensavamo? - che mai lo avrebbe fatto."
+
+«C'era una volta un mio generoso amico; più un padre per me che un amico», disse Edward, «che non avrebbe mai giudicato me o nessun altro uomo senza averlo prima ascoltato. Lei era quell'uomo. E così sono certo che mi ascolterà anche adesso».
+
+Il vetturino, con uno sguardo turbato verso Dot che continuava a tenersi lontana da lui, rispose: «[[Well|Bene]]! è giusto così. Lo farò».
+
+"Devi sapere che quando sono partito da qui ragazzo," disse Edward,
+"ero [[Love|innamorato]] e il mio [[Love|amore]] era corrisposto. Era una ragazza molto giovane, che forse
+(mi dirai) non sapeva cosa volesse davvero. Ma io lo sapevo, e provavo un
+grande amore per lei."
+
+«L'hai avuto!» esclamò il vetturale «Tu!»
+
+«Infatti l'ho avuta», rispose l'altro. «E lei me la restituì. Da allora ho sempre creduto che lo facesse e ora ne sono certo».
+
+«Dio mi aiuti!» disse il vetturale «questo è peggio di tutto».
+
+"Costante nei suoi confronti", disse Edward, "e tornando pieno di [[Hope|speranza]] dopo molte difficoltà e pericoli a riscattare la mia parte del nostro vecchio contratto, ho saputo, a venti miglia da qui, che lei mi era stata infedele; che mi aveva dimenticato; e si era data a un altro uomo più ricco. Non avevo alcuna intenzione di rimproverarla; ma desideravo vederla, e dimostrare senza ombra di dubbio che ciò fosse vero. Speravo che potesse essere stata costretta contro la sua volontà e il suo [[Desire|desiderio]]. Non sarebbe stato un grande conforto, ma ne avrebbe pur sempre dato un po', pensai, e così sono venuto. Per avere la [[Truth|verità]], la vera [[Truth|verità]], osservando liberamente da solo e giudicando da solo senza ostacoli da una parte o presentando la mia influenza (se ne avessi avuta) davanti a lei, dall'altra, mi sono vestito in modo diverso dal solito - sapete come; e ho atteso sulla [[Road|strada]] - sapete dove. Non avevate alcun sospetto su di me; né lo aveva, lei", indicando Dot, "fino a quando le ho sussurrato all'orecchio accanto al caminetto, e lei è stata sul punto di tradirmi."
+
+"Ma quando seppe che Edward era vivo e che era tornato", singhiozzò Dot, ora parlando per sé stessa, come aveva bruciato dal fare durante tutta questa narrazione; "e quando conobbe il suo proposito, lo esortò a tutti i costi a mantenere il segreto; perché il suo vecchio amico [[John Peerybingle]] era troppo aperto nella sua [[Nature|natura]], e troppo goffo in ogni artificio - essendo un uomo goffo in generale", disse Dot, tra le risate e i singhiozzi - "per mantenerlo per lui. E quando lei -- cioè io, John", singhiozzò la piccola donna -- "gli raccontò tutto, e come la sua fidanzata avesse creduto che fosse morto; e come alla fine era stata troppo persuasa dalla madre a un [[Marriage|matrimonio]] che quella sciocca, cara vecchia cosa chiamava vantaggioso; e quando lei -- cioè io di nuovo, John -- gli disse che non erano ancora sposati (anche se ci mancava poco), e che sarebbe stato solo un sacrificio se fosse andata avanti, perché non c'era alcun [[Love|amore]] da parte sua; e quando lui impazzì quasi di gioia nel sentire questo -- allora lei -- cioè io ancora una volta -- disse che si sarebbe messa in mezzo tra loro, come aveva spesso fatto prima nei vecchi tempi, John, e avrebbe sondato la sua fidanzata, per essere sicura che quello che lei -- di nuovo io, John -- diceva e pensava fosse giusto. E lo ERA, John! E sono stati riuniti, John! E si sono sposati, John, un'ora fa! Ed ecco la Sposa! E Gruff e [[Tackleton]] possano morire scapoli! E io sono una felice piccola donna, Dio ti benedica!"
+
+Era una donna irresistibile, se questo ha qualche importanza; e mai così irresistibilmente come nei suoi attuali trasporti d'animo. Mai ci furono congratulazioni tanto affettuose e deliziose quanto quelle che riversò su di sé e sulla Sposa.
+
+In mezzo al tumulto di emozioni nel suo petto, il leale Carrier era rimasto confuso. Ora che correva verso di lei, Dot allungò la mano per fermarlo e indietreggiò come prima.
+
+"No, John, no! Ascolta tutto! Non [[Love|amarmi]] più, John, finché non avrai ascoltato ogni parola che ho da dire. È stato sbagliato tenerti un segreto, John.
+Mi dispiace molto. Non pensavo facesse alcun male, fino a quando sono venuta e mi sono seduta accanto a te sullo sgabello la scorsa [[Night|sera]]. Ma quando ho capito, da ciò che era scritto nel tuo volto, che avevi visto me camminare in galleria con Edward,
+e quando ho saputo cosa pensavi, mi sono resa conto di quanto fosse sconsiderato e sbagliato. Ma oh, caro John, come hai potuto, come hai potuto pensare una cosa del genere?"
 
 
 
@@ -7307,6 +8923,70 @@ and mineral. Nothing was in use that day that didn't come, at some [[Time|time]]
 or other, into close acquaintance with it.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Povera donna, come piangeva di nuovo! [[John Peerybingle]] l'avrebbe presa tra le braccia. Ma no: lei non glielo permise.
+
+"Non [[Love|amarmi]] ancora, ti prego, John! Non per un lungo [[Time|periodo]] ancora! Quando ero triste per questo [[Marriage|matrimonio]] previsto, caro, era perché ricordavo May ed Edward come giovani [[lovers|innamorati]]; e sapevo che il suo cuore era lontano da [[Tackleton]]. Ci credi adesso, vero, John?"
+
+John stava per lanciarsi in un altro tentativo di persuasione con quell'appello,
+ma lei lo fermò ancora una volta.
+
+"No; resta lì, per favore, John! Quando rido di te, come a volte faccio,
+John, e ti chiamo goffo e un caro vecchio stupido, e nomi del genere,
+è perché ti [[Love|amo]], John, così [[Well|tanto]], e provo tanto piacere per i tuoi
+modi, e non vorrei vederti cambiato nel minimo rispetto a farti diventare un [[King|re]] domani."
+
+«Hurrà!» disse Caleb con insolita energia «La mia opinione!»
+
+«E quando parlo di persone che sono nella mezza età e stabili, John, e fingo che siamo una coppia noiosa, che va avanti in un modo monotono, è solo perché sono così sciocca, John, che mi piace, a volte, fare come se giocassi con il bambino, e tutto questo: e fingere.»
+
+Vide che stava arrivando e lo fermò di nuovo. Ma era quasi troppo tardi.
+
+"No, non mi [[Love|amare]] per un altro minuto o due, se non ti dispiace, John! Quello che più desideravo dirti te l'ho tenuto per ultimo. Mio caro, buono e generoso John, quando l'altra [[Night|sera]] parlavamo del Grillo, avevo sulle labbra di dire che all'inizio non ti [[Love|amavo]] tanto quanto faccio ora; quando sono venuta qui per la prima volta [[Home|a casa]], temevo quasi di non imparare ad [[Love|amarti]] ogni briciolo quanto speravo e pregavo di fare -- ero così giovane, John! Ma, caro John, giorno dopo giorno, ora dopo ora ti ho amato sempre più. E se avessi potuto amarti meglio di come faccio, le nobili parole che ti ho sentito dire questa mattina mi avrebbero spinta a farlo. Ma non posso. Tutto l'affetto che avevo (era molto, John) te lo ho dato da tempo immemorabile, e tu lo [[Well|meritavi]] davvero, e non ne ho più da darti. Ora, mio caro marito, riprendimi nel tuo cuore! Questo è il mio [[Home|casa]], John; e non pensare mai, mai di mandarmi in un altro posto!"
+
+Non avrete mai tanto piacere nel vedere una splendida donnina tra le braccia di un terzo come ne avreste provato se aveste visto Dot correre tra le braccia del Corriere. Era il più completo, sfrenato e [[Soul|anima]]-carico pezzetto di serietà che abbiate mai visto in tutta la vostra vita.
+
+Potete star certi che il vetturino era in uno stato di perfetta estasi; e potete star certi che Dot lo fosse pure; e potete star certi che tutti lo erano, compresa la signorina Slowboy, che piangeva copiosamente per la gioia e, desiderando includere il suo giovane protetto nello scambio generale di congratulazioni, passò in giro il Bambino a tutti uno dopo l'altro, come se fosse qualcosa da bere.
+
+Ma ora si udì di nuovo il rumore delle ruote fuori dalla porta e qualcuno esclamò che Gruff e [[Tackleton]] erano tornati. Poco dopo apparve quel degno gentiluomo, con l'aria accaldata e confusa.
+
+"Ma che diavolo succede, [[John Peerybingle]]?" disse [[Tackleton]]. "C'è un errore. Ho chiesto alla signora [[Tackleton]] di incontrarmi in chiesa e giuro di averla incrociata sulla [[Road|strada]], mentre veniva qui. Oh! eccola! Le chiedo scusa, signore; non ho l'onore di conoscerla; ma se può farmi il favore di lasciare libera questa giovane donna, ha un impegno piuttosto particolare stamattina."
+
+«Ma non posso rinunciare a lei», rispose Edward. «Non potrei nemmeno pensarci».
+
+"Cosa intendi dire, tu vagabondo?" disse [[Tackleton]].
+
+«Voglio dire che, come posso comprendere il vostro disappunto», rispose l'altro con un sorriso, «sono sordo alle parole dure questa mattina quanto lo ero a qualsiasi parola ieri [[Night|notte]].»
+
+Lo sguardo che [[Tackleton]] gli rivolse e il sobbalzo che fece!
+
+«Mi dispiace, signore», disse Edoardo, mostrando la mano sinistra di May e in particolare il terzo dito, «che la giovane signorina non possa accompagnarla in chiesa; ma dato che vi è già stata questa mattina, forse vorrà scusarla.»
+
+[[Tackleton]] guardò attentamente il terzo dito e prese un piccolo pezzo di carta argentata, che conteneva apparentemente un anello, dal taschino del panciotto.
+
+«Signorina Slowboy», disse [[Tackleton]], «vuole avere la gentilezza di gettarlo nel [[Fire|fuoco]]? Grazie.»
+
+«Era un impegno precedente, un impegno piuttosto vecchio, quello che ha impedito a mia moglie di mantenere l'appuntamento con voi, ve lo assicuro», disse Edward.
+
+"Il signor [[Tackleton]] mi renderà giustizia riconoscendo che glielo ho rivelato fedelmente e che gli dissi molte volte di non poterlo mai dimenticare", disse May arrossendo.
+
+"Ah, certo!", disse [[Tackleton]]. "Certo, senza dubbio! Ah, tutto a posto,
+tutto perfettamente in regola! La signora Edward Plummer, presumo?".
+
+«Questo è il nome», rispose lo sposo.
+
+«Ah! Non vi avrei riconosciuto, signore», disse [[Tackleton]], scrutando attentamente il suo volto e facendo un profondo inchino. «Vi do i miei auguri, signore!»
+
+«Grazie».
+
+«Signora Peerybingle», disse [[Tackleton]], voltandosi improvvisamente verso il punto in cui lei stava con suo marito; «mi dispiace. Non mi avete fatto un grande favore, ma, sulla mia vita, mi dispiace. Siete migliore di quanto pensassi. John Peerybingle, mi dispiace. Mi capite; è sufficiente. È del tutto corretto, signore e signori tutti, e perfettamente soddisfacente. Buongiorno!»
+
+Con queste parole se lo portò via e si portò via anche lui: si fermò solo sulla porta per togliere i [[Flowers|fiori]] e le decorazioni dalla testa del suo [[Horse|cavallo]], e dare una pedata alle costole dell'animale, come modo di fargli sapere che c'era un ingranaggio fuori posto nei suoi piani.
+
+Naturalmente, divenne un dovere importante fare di quel giorno una festa che segnasse questi eventi come una grande celebrazione nel calendario dei Peerybingle per sempre. Di conseguenza, Dot si mise al lavoro per organizzare uno spettacolo che riflettesse [[Honour|onore]] immortale sulla [[house|casa]] e su tutti i coinvolti; e in un brevissimo lasso di [[Time|tempo]], era già fino ai gomiti impanati nella farina, e imbiancava il cappotto del facchino ogni [[Time|volta]] che si avvicinava a lei, fermandolo per dargli un bacio.
+Quel bravo ragazzo lavò gli spinaci, pelò le rape, ruppe i piatti, rovesciò pentole di [[Water|acqua]] fredda sul [[Fire|fuoco]] e si rese utile in ogni sorta di modi: mentre una coppia di assistenti professionisti, chiamati in tutta fretta da qualche parte dei dintorni come se fosse questione di vita o [[Death|morte]], si scontravano l'uno con l'altra in tutte le porte e intorno a tutti gli angoli, e tutti inciampavano su [[Tilly Slowboy]] e il Bambino ovunque. Tilly non era mai stata così presente prima d'ora. La sua ubiquità fu oggetto di ammirazione generale. Era un ostacolo nel corridoio alle 14:25; una trappola per uomini in cucina esattamente alle 14:30; e una buca nella soffitta alle 14:35. La testa del Bambino era, per così dire, un test e una [[Touchstone|prova]] per ogni tipo di materia, animale, vegetale o minerale. Quel giorno non c'era nulla che non entrasse in stretta familiarità con essa a un certo [[Time|momento]].
+
 
 
 <span class="atom-split" data-atom="story_06_chirp_the_third--part_10" data-title="The Cricket on the Hearth — Chirp The Third (part 10)" data-chapter="Chirp The Third" data-kind="excerpt" data-tags="motif/grave,motif/home,motif/night,motif/road,motif/time,character/bottom,character/john_peerybingle,character/nurse,character/tackleton"></span>
@@ -7421,6 +9101,48 @@ him, to have effected such a change?
 "John! you won't send me [[Home|home]] this evening, will you?" whispered Dot.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Poi fu organizzata una grande spedizione per andare a trovare la signora Fielding; e per pentirsi amaramente con quella eccellente gentildonna; e per riportarla indietro, con la forza se necessario, perché fosse felice e magnanima. E quando la Spedizione la scoprì per la prima volta, non volle ascoltare nessuna proposta, ma disse un numero inenarrabile di volte che mai avrebbe pensato di vivere fino a quel giorno! e non si riusciva a farla dire altro se non "Ora portatemi alla [[Grave|tomba]]": il che sembrava assurdo, dato che lei non era morta, o anche solo lontanamente simile. Dopo un [[Time|po']] di tempo cadde in uno stato di terribile calma e osservò che quando quella sfortunata serie di circostanze si era verificata nel commercio dell'indaco aveva previsto che sarebbe stata esposta, per tutta la sua vita, a ogni sorta di insulto e oltraggio; e che era contenta di scoprire che così era stato; e li pregò di non disturbarsi per lei,--perché cos'era lei?--oh Signore! una nessuno!--ma di dimenticare che un essere del genere esisteva, e di proseguire il loro corso nella vita senza di lei. Da questo umore amaramente sarcastico passò a uno arrabbiato, in cui diede sfogo alla notevole espressione che anche il verme si rivolta se calpestato; e dopo ciò cedette a un tenero rimpianto e disse che se solo le avessero dato fiducia, cosa non avrebbe potuto suggerire! Approfittando di questa crisi nei suoi sentimenti, la Spedizione l'abbracciò; e ben presto lei si ritrovò con i guanti addosso e in viaggio verso casa di [[John Peerybingle]] in uno stato di impeccabile gentilezza; con un pacco di carta al suo fianco contenente una corona d'oro quasi alta, e rigida quanto un mitra.
+
+Poi c'erano il padre e la madre di Dot che dovevano arrivare con un'altra piccola carrozza; ma erano in ritardo rispetto al loro [[Time|orario]]; si temeva per loro; e tutti scrutavano lungo la [[Road|strada]] alla ricerca dei nuovi arrivati; e la signora Fielding guardava sempre nella direzione sbagliata, moralmente impossibile; e, informati di ciò, speravano che lei potesse prendersi la libertà di guardare dove voleva. Alla fine arrivarono: una coppia grassottella che procedeva tranquillamente in un modo accogliente e confortevole che apparteneva completamente alla famiglia Dot; e Dot e sua madre, fianco a fianco, erano meravigliose da vedere. Si assomigliavano così tanto.
+
+Poi la madre di Dot dovette rinnovare la sua conoscenza con la madre di May;
+e la madre di May si atteneva sempre alla sua gentilezza; e la madre di Dot non si appoggiava mai a nulla se non ai suoi piccoli piedi attivi. E il vecchio Dot -- così chiamavo il padre di Dot, mi ero dimenticato che non era il suo vero nome, ma poco importa -- prese confidenza, strinse la mano al primo incontro e sembrava pensare che un cappello fosse solo amido e mussola, e non si dimostrò affatto rispettoso del commercio dell'indaco, dicendo che ormai non c'era più nulla da fare; e, secondo il resoconto della signora Fielding, era una specie di uomo buono -- ma volgare, mia cara.
+
+Non avrei rinunciato per tutto l'oro del mondo a vedere Dot, che faceva gli onori di casa nel suo abito da sposa, con la mia benedizione sul suo viso radioso! No! né al buon Carrier, così gioviale e così rubicondo, seduto alla [[Bottom|fine]] della tavola. Né il marinaio dal colorito scuro e fresco, e sua moglie di bell'aspetto. E nemmeno a nessun altro tra loro. Perdere la cena sarebbe stato perdere un pasto così allegro e sostanzioso che non c'è bisogno che l'uomo ne mangi altri; e perdere le coppe traboccanti con cui brindavano al Giorno delle Nozze sarebbe stata la più grande mancanza di tutte.
+
+Dopo cena Caleb cantò la [[Song|canzone]] sulla Ciotola Scintillante. Lo giuro come sono un uomo in vita e spero di rimanerlo per uno o due anni ancora, l'ha cantata tutta intera.
+
+E, tra l'altro, proprio mentre finiva l'ultimo verso,
+accadde un episodio del tutto inaspettato.
+
+Ci fu un colpo alla porta; e un uomo entrò barcollando senza dire "con permesso" o "se permettete", con qualcosa di pesante sulla testa. Appoggiandolo al centro del tavolo, simmetricamente nel mezzo delle noci e delle mele, disse:
+
+"Il signor [[Tackleton]] si scusa e, dato che lui non ha bisogno della torta,
+forse la mangerete voi".
+
+E con queste parole se ne andò.
+
+Ci fu qualche sorpresa tra gli ospiti, come potete immaginare. La signora Fielding, essendo una donna di infinita perspicacia, suggerì che la torta fosse avvelenata e raccontò la storia di una torta che, a sua conoscenza, aveva reso blu un collegio per giovani fanciulle. Ma fu zittita con acclamazioni; e la torta fu tagliata da May con molta cerimonia e gioia.
+
+Non credo che nessuno l'avesse ancora assaggiata quando si udì di nuovo bussare alla porta e apparve lo stesso uomo con sotto il braccio un enorme pacco avvolto in carta marrone.
+
+"Il signor [[Tackleton]] si scusa e ha mandato qualche giocattolo per il Bimbo. Non sono brutti".
+
+Dopo aver espresso tali considerazioni, si ritirò nuovamente.
+
+Tutta la compagnia avrebbe trovato grande difficoltà a trovare parole per esprimere il proprio stupore,
+anche se avesse avuto tutto il [[Time|tempo]] del mondo per cercarle.
+Ma non ne avevano affatto; perché il messaggero aveva appena chiuso la porta
+dietro di sé, quando si udì un altro colpetto e [[Tackleton]] stesso entrò.
+
+"Signora Peerybingle!" disse il mercante di giocattoli, con il cappello in mano, "mi dispiace. Mi dispiace più di quanto mi dispiacesse questa mattina. Ho avuto [[Time|tempo]] per pensarci. John Peerybingle! Sono acido per natura; ma non posso fare a meno di dolcificarmi, più o meno, trovandomi faccia a faccia con un uomo come te. Caleb! Questa piccola e inconsapevole [[Nurse|balia]] mi ha dato ieri [[Night|sera]] un indizio frammentario del quale ho trovato il filo. Arrossisco al pensiero di quanto facilmente avrei potuto legare a me te e tua figlia, e che miserabile idiota sono stato quando l'ho scambiata per tale! Amici, tutti quanti, la mia [[house|casa]] è molto solitaria stasera. Non ho nemmeno un Grillo al Focolare. Li ho allontanati tutti. Siate gentili con me: lasciatemi unirmi a questa felice compagnia!"
+
+Era a [[Home|casa]] in cinque minuti. Non avete mai visto un tipo del genere. Cosa aveva fatto di sé tutta la vita, per non aver mai saputo prima della sua grande capacità di essere gioviale? O cosa gli avevano fatto le Fate, per aver provocato un cambiamento così radicale?
+
+«John, non mi manderai a [[Home|casa]] questa sera, vero?» sussurrò Dot.
+
 
 
 <span class="atom-split" data-atom="story_06_chirp_the_third--part_11" data-title="The Cricket on the Hearth — Chirp The Third (part 11)" data-chapter="Chirp The Third" data-kind="excerpt" data-tags="archetype/child,motif/dance,motif/dust,motif/fire,motif/home,motif/horse,motif/journey,motif/time,motif/well,character/tackleton,character/tilly_slowboy"></span>
@@ -7481,3 +9203,35 @@ Dot, for one last glimpse of a little figure very pleasant to me, she
 and the rest have vanished into air, and I am left [[Alone|alone]]. A Cricket
 sings upon the Hearth; a broken [[Child|child]]'s toy lies upon the ground: and
 nothing else remains.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Era stato però molto vicino a farlo.
+
+Manca solo una creatura vivente per completare il gruppo; e in un batter
+d'occhio eccolo lì, molto assetato dopo la corsa disperata, impegnato in
+infruttuosi tentativi di infilare la testa in un broccante troppo stretto.
+Era andato con il carro fino alla fine del suo [[Journey|viaggio]], disgustatissimo
+dell'assenza del padrone e ribelle in maniera straordinaria al Vice. Dopo
+aver vagabondato per qualche poco [[Time|tempo]] intorno alla stalla, cercando
+invano di spingere il vecchio [[Horse|cavallo]] a un atto di ammutinamento e a
+tornare per conto suo, era entrato nella sala da tè e si era sdraiato davanti al
+[[Fire|fuoco]]. Ma, cedendo improvvisamente alla convinzione che il Vice fosse
+un impostore e dovesse essere abbandonato, si era rialzato, aveva girato la
+coda ed era tornato [[Home|a casa]].
+
+La sera ci fu una [[Dance|danza]]. Con questa menzione generale di quel passatempo, avrei dovuto lasciarla [[Alone|perdere]], se non avessi avuto qualche motivo per supporre che si trattasse di una [[Dance|danza]] del tutto originale e di una figura assai insolita. Si formò in modo strano; in questo modo.
+
+Edward, quel marinaio - un tipo allegro e spavaldo, era - aveva raccontato loro varie meraviglie riguardanti pappagalli, miniere, messicani e polvere [[Dust|d'oro]], quando all'improvviso gli venne in mente di alzarsi dal suo posto e proporre una [[Dance|danza]]; perché l'arpa di Bertha era lì, ed essa suonava così bene che non si sente spesso. Dot (piccola creatura sorniona quando voleva) disse che i suoi giorni da ballerina erano finiti; credo perché il Carrier stava fumando la pipa e a lei piaceva stare seduta accanto a lui. La signora Fielding non aveva altra scelta, naturalmente, se non dire _i suoi_ giorni da ballerina erano finiti, dopo di che tutti dissero lo stesso, tranne May; May era pronta.
+
+Così, tra grandi applausi, May ed Edward si alzano per [[Dance|ballare]] [[Alone|da soli]], e Bertha suona la sua melodia più vivace.
+
+[[Well|Ecco]]! se mi credete, non avevano danzato cinque minuti che improvvisamente il Carrier scaglia via la pipa, prende Dot in vita, si lancia nella stanza e parte con lei, tallone e punta, davvero meravigliosamente. [[Tackleton]] appena lo vede fa un balzo verso Mrs. Fielding, le cinge la vita e segue l'esempio. Non appena Old Dot lo vede si alza tutto vivace, trascina Mrs. Dot nel bel mezzo della [[Dance|danza]], e si ritrova in prima fila. Caleb non appena lo vede afferra [[Tilly Slowboy]] per entrambe le mani e parte a razzo; Miss Slowboy, ferma nella convinzione che tuffarsi rovente tra gli altri ballerini ed effettuare un numero infinito di collisioni con loro sia l'unico principio del ballo.
+
+Ascolta! come il Grillo si unisce alla musica col suo Cric, Cric, Cric;
+e come fischia il bollitore!
+
+*     *     *     *     *
+
+Ma che cos'è questo? Mentre li ascolto allegramente e mi giro verso Dot, per dare un ultimo sguardo ad una piccola figura molto cara a me, lei e gli altri sono svaniti nell'aria, e io rimango [[Alone|solo]]. Un Grillo canta sul Focolare; un giocattolo di [[Child|bambino]] rotto giace a terra: e non resta più nulla.

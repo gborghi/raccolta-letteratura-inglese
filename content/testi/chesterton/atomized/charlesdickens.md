@@ -11,6 +11,217 @@ tags:
 <div class="atom-reader" data-work="testi/chesterton/atomized/charlesdickens" data-author="Chesterton" data-workhref="works/charlesdickens-(chesterton)"></div>
 
 
+<span class="atom-split" data-atom="chapter_07--part_03-(desktop-l2ks9qk's-conflicted-copy-2026-07-31)" data-title="CharlesDickens — Chapter 6 (part 3)" data-chapter="Chapter 07" data-kind="intro" data-tags="motif/blood,motif/lion,motif/night,motif/sleep,motif/soul,motif/time,motif/well,concept/democracy,concept/freedom,concept/self,concept/truth,concept/wonder,histref/america,setting/america,character/bottom"></span>
+
+
+He landed in [[America]], and he liked it.  As John Forster very truly says,
+it is due to him, as [[Well|well]] as to the great country that welcomed him,
+that his first good impression should be recorded, and that it should be
+"considered independently of any modification it afterwards underwent."
+But the modification it afterwards underwent was, as I have said above,
+simply a sudden kicking against cant, that is, against repetition.
+He was quite ready to believe that all Americans were free men.
+He would have believed it if they had not all told him so.
+He was quite prepared to be pleased with [[America]].  He would have been
+pleased with it if it had not been so much pleased with itself.
+The "modification" his views underwent did not arise from any modification
+of [[America]] as he first saw it.  His admiration did not change
+because [[America]] changed.  It changed because [[America]] did not change.
+The Yankees enraged him at last, not by saying different things,
+but by saying the same things.  They were a republic; they were
+a new and vigorous nation; it seemed natural that they should
+say so to a famous foreigner first stepping on to their shore.
+But it seemed maddening that they should say so to each other
+in every car and drinking saloon from morning till [[Night|night]].
+It was not that the Americans in any way ceased from praising him.
+It was rather that they went on praising him.  It was not merely
+that their praises of him sounded beautiful when he first heard them.
+Their praises of themselves sounded beautiful when he first heard them.
+That [[democracy]] was grand, and that Charles Dickens was a remarkable
+person, were two truths that he certainly never doubted to his dying day.
+But, as I say, it was a soulless repetition that stung his sense
+of [[Humour|humour]] out of [[Sleep|sleep]]; it woke like a wild beast for hunting,
+the [[Lion|lion]] of his laughter.  He had heard the [[Truth|truth]] once too often.
+He had heard the [[Truth|truth]] for the nine hundred and ninety-ninth [[Time|time]],
+and he suddenly saw that it was falsehood.
+
+It is true that a particular circumstance sharpened and defined
+his disappointment.  He felt very hotly, as he felt everything,
+whether selfish or unselfish, the injustice of the American piracies
+of English literature, resulting from the American copyright laws.
+He did not go to [[America]] with any idea of discussing this; when, some [[Time|time]]
+afterwards, somebody said that he did, he violently rejected the view as
+only describable "in one of the shortest words in the English language."
+But his entry into [[America]] was almost triumphal; the rostrum or
+pulpit was ready for him; he felt strong enough to say anything.
+He had been most warmly entertained by many American men of letters,
+especially by Washington Irving, and in his consequent glow of confidence
+he stepped up to the dangerous question of American copyright.
+He made many speeches attacking the American law and theory of
+the matter as unjust to English writers and to American readers.
+The effect appears to have astounded him.  "I believe there is
+no country," he writes, "on the face of the earth where there is
+less [[Freedom|freedom]] of opinion on any subject in reference to which there
+is a broad difference of opinion than in this.  There!  I write
+the words with reluctance, disappointment, and sorrow; but I believe
+it from the [[Bottom|bottom]] of my [[Soul|soul]]. . . . The notion that I, a man [[Alone|alone]]
+by myself in [[America]], should venture to suggest to the Americans
+that there was one point on which they were neither just to their
+own countrymen nor to us, actually struck the boldest dumb!
+Washington Irving, Prescott, Hoffman, Bryant, Halleck, Dana,
+Washington Allston--every man who writes in this country is devoted
+to the question, and not one of them dares to raise his voice
+and complain of the atrocious state of the law. . . . The [[Wonder|wonder]]
+is that a breathing man can be found with temerity enough to suggest
+to the Americans the possibility of their having done wrong.
+I wish you could have seen the faces that I saw down both sides
+of the table at Hartford when I began to talk about Scott.  I wish
+you could have heard how I gave it out.  My [[Blood|blood]] so boiled when I
+thought of the monstrous injustice that I felt as if I were twelve
+feet high when I thrust it down their throats."
+
+That is almost a portrait of Dickens.  We can almost see the erect
+little figure, its face and hair like a flame.
+
+For such reasons, among others, Dickens was angry with [[America]].  But if
+[[America]] was angry with Dickens, there were also reasons for it.
+I do not think that the rage against his copyright speeches was,
+as he supposed, merely national insolence and [[Self|self]]-satisfaction.
+[[America]] is a mystery to any good Englishman; but I think Dickens
+managed somehow to touch it on a queer nerve.  There is one thing,
+at any rate, that must strike all Englishmen who have the good
+fortune to have American friends; that is, that while there is
+no materialism so crude or so material as American materialism,
+there is also no idealism so crude or so ideal as American idealism.
+[[America]] will always affect an Englishman as being soft in the wrong
+place and hard in the wrong place; coarse exactly where all civilised
+men are delicate, delicate exactly where all grown-up men are coarse.
+Some beautiful ideal runs through this people, but it runs aslant.
+The only existing picture in which the thing I mean has been
+embodied is in Stevenson's "Wrecker," in the blundering delicacy of
+Jim Pinkerton.  [[America]] has a new delicacy, a coarse, rank refinement.
+But there is another way of embodying the idea, and that is to say this--
+that nothing is more likely than that the Americans thought it
+very shocking in Dickens, the divine author, to talk about being
+done out of money.  Nothing would be more American than to expect
+a genius to be too high-toned for trade.  It is certain that they
+deplored his selfishness in the matter; it is probable that they
+deplored his indelicacy.  A beautiful young dreamer, with flowing
+brown hair, ought not to be even conscious of his copyrights.
+For it is quite unjust to say that the Americans worship the dollar.
+They really do worship intellect--another of the passing superstitions
+of our [[Time|time]].
+
+
+
+
+<span class="atom-split" data-atom="chapter_11--part_05-(desktop-l2ks9qk's-conflicted-copy-2026-07-31)" data-title="CharlesDickens — Chapter 8 (part 5)" data-chapter="Chapter 11" data-kind="intro" data-tags="motif/love,motif/nature,motif/prison,motif/silence,motif/time,concept/body,concept/fear,concept/hope,concept/madness,concept/nature,concept/pride,concept/revenge,concept/self,concept/truth,form/satire,setting/court,character/david_copperfield,character/harold_skimpole,character/nicholas_nickleby,character/sir_leicester_dedlock"></span>
+
+
+There are other effective things in "[[David Copperfield]];" they are
+not all autobiographical, but they nearly all have this new note
+of quietude and reality.  Micawber is gigantic; an immense assertion
+of the [[Truth|truth]] that the way to live is to exaggerate everything.
+But of him I shall have to speak more fully in another connection.
+Mrs. Micawber, artistically speaking, is even better.  She is very
+nearly the best thing in Dickens.  Nothing could be more absurd,
+and at the same [[Time|time]] more true, than her clear argumentative manner
+of speech as she sits smiling and expounding in the midst of ruin.
+What could be more lucid and logical and unanswerable than her
+statement of the prolegomena of the Medway problem, of which
+the first step must be to "see the Medway," or of the coal-trade,
+which required talent and capital.  "Talent Mr. Micawber has.
+Capital Mr. Micawber has not."  It seems as if something should have come
+at last out of so clear and scientific an arrangement of the ideas.
+Indeed if (as has been suggested) we regard "[[David Copperfield]]"
+as an unconscious defence of the poetic view of life, we might regard
+Mrs. Micawber as an unconscious [[Satire|satire]] on the logical view of life.
+She sits as a monument of the hopelessness and helplessness of reason
+in the face of this romantic and unreasonable world.
+
+As I have taken "Dombey and Son" as the book before
+the transition, and "[[David Copperfield]]" as typical of
+the transition itself, I may perhaps take "Bleak [[house|House]]"
+as the book after the transition, and so complete the description.
+Bleak [[house|House]] has every characteristic of his new realistic culture.
+Dickens never now, as in his early books, revels in the parts
+he likes and scamps the parts he does not, after the manner
+of Scott.  He does not, as in previous tales, leave his heroes
+and heroines mere walking gentlemen and ladies with nothing at
+all to do but walk:  he expends upon them at least ingenuity.
+By the expedients (successful or not) of the [[Self|self]]-revelation
+of Esther or the humorous inconsistencies of Rick, he makes
+his younger figures if not lovable at least readable.
+Everywhere we see this tighter and more careful grip.
+He does not, for instance, when he wishes to denounce a
+dark institution, sandwich it in as a mere episode in a rambling
+story of adventure, as the debtor's [[Prison|prison]] is embedded in
+the [[Body|body]] of "[[Pickwick]]" or the low Yorkshire school in the [[Body|body]]
+of "[[Nicholas Nickleby]]."  He puts the [[Court]] of Chancery in the
+centre of the stage, a sombre and sinister temple, and groups
+round it in artistic relation decaying and frantic figures,
+its offspring and its satirists, An old dipsomaniac keeps
+a rag and bone shop, type of futility and antiquity, and calls
+himself the Lord Chancellor.  A little mad old maid hangs about
+the courts on a forgotten or imaginary lawsuit, and says with
+perfect and pungent irony, "I am expecting a judgment shortly.
+On the Day of Judgment."  Rick and Ada and Esther are not
+mere strollers who have strayed into the [[Court|court]] of law,
+they are its children, its symbols, and its victims.
+The righteous indignation of the book is not at the red heat
+of anarchy, but at the white heat of art.  Its anger is patient
+and plodding, like some historic [[Revenge|revenge]].  Moreover, it slowly
+and carefully creates the real psychology of oppression.
+The endless formality, the endless unemotional urbanity,
+the endless [[Hope|hope]] deferred, these things make one feel the fact
+of injustice more than the [[Madness|madness]] of Nero.  For it is not
+the activeness of tyranny that maddens, but its passiveness.
+We hate the deafness of the god more than his strength.
+[[Silence]] is the unbearable repartee.
+
+Again we can see in this book strong traces of an increase
+in social experience.  Dickens, as his fame carried him into
+more fashionable circles, began really to understand something
+of what is strong and what is weak in the English upper class.
+[[Sir Leicester Dedlock]] is a far more effective condemnation of oligarchy
+than the ugly swagger of Sir Mulberry Hawk, because [[Pride|pride]] stands out
+more plainly in all its impotence and insolence as the one weakness
+of a good man, than as one of the million weaknesses of a bad one.
+Dickens, like all young Radicals, had imagined in his youth
+that aristocracy rested upon the hardness of somebody; he found,
+as we all do, that it rests upon the softness of everybody.
+It is very hard not to like [[Sir Leicester Dedlock]], not to applaud
+his silly old speeches, so foolish, so manly, so genuinely English,
+so disastrous to England.  It is true that the English people [[Love|love]]
+a lord, but it is not true that they [[Fear|fear]] him; rather, if anything,
+they pity him; there creeps into their [[Love|love]] something of the feeling
+they have towards a baby or a black man.  In their hearts they think it
+admirable that [[Sir Leicester Dedlock]] should be able to speak at all.
+And so a system, which no iron laws and no bloody battles could
+possibly force upon a people, is preserved from generation to
+generation by pure, weak good-[[Nature|nature]].
+
+In "Bleak [[house|House]]" occurs the character of [[Harold Skimpole]],
+the character whose alleged likeness to Leigh Hunt has laid
+Dickens open to so much disapproval.  Unjust disapproval,
+I think, as far as fundamental morals are concerned.
+In method he was a little clamorous and clumsy, as, indeed, he was
+apt to be.  But when he said that it was possible to combine
+a certain tone of conversation taken from a particular man
+with other characteristics which were not meant to be his,
+he surely said what all men who write stories know.
+A work of fiction often consists in combining a pair of
+whiskers seen in one street with a crime seen in another.
+He may quite possibly have really meant only to make
+Leigh Hunt's light [[philosophy]] the mask for a new kind of scamp,
+as a variant on the pious mask of Pecksniff or the candid mask
+of Bagstock.  He may never once have had the unfriendly thought,
+"Suppose Hunt behaved like a rascal!" he may have only had
+the fanciful thought, "Suppose a rascal behaved like Hunt!"
+
+
+
+
 <span class="atom-split" data-atom="charlesdickens" data-title="CharlesDickens" data-chapter="" data-kind="intro"></span>
 
 

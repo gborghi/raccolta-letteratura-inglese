@@ -42,3 +42,6 @@ gkc_tower_cache.jsonl.*.bak
 
 # master full ranked search index — large, regenerable, never deployed/committed
 data/search-full-index.json
+
+# Derived translation cache: >100MB, regenerable via scripts/translate/gkc_emit_vault.py; synced across machines by Dropbox, not git
+data/translations_pages.jsonl
