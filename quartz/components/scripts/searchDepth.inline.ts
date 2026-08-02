@@ -10,17 +10,15 @@
 // plugin is disabled in quartz.config.yaml.
 import FlexSearch from "flexsearch"
 import MiniSearch from "minisearch"
-import {
-  Doc,
-  Entry,
-  mergeTier,
-  clampStop,
-  STOP_LABELS,
-  stopHint,
-  mergeResults,
-} from "./searchDepth"
+import { Doc, Entry, mergeTier, clampStop, STOP_LABELS, stopHint } from "./searchDepth"
 
 const NUM_RESULTS = 8
+// Pull a WIDE candidate pool from FlexSearch, then re-rank it ourselves (see search()).
+// FlexSearch's built-in order for a common term returns whatever it resolves first — with
+// ~19k atoms and a term like "disgrace" in ~190 of them, the late-indexed entries (all of
+// Shakespeare sorts last) never made the old 8-result cut, so e.g. Sonnet 29 was invisible.
+// A big pool + relevance re-rank fixes recall without depending on insertion order.
+const CANDIDATE_LIMIT = 250
 // How many FlexSearch (re)index operations to run before yielding the main thread back to
 // the browser. The Deep/Max tiers add ~19k per-atom docs; doing them all in one synchronous
 // loop froze the tab (the whole point of this file's async plumbing), so we cooperatively
@@ -124,29 +122,93 @@ async function buildFuzzy(): Promise<void> {
   )
 }
 
+// Count non-overlapping occurrences of `needle` in `hay` (both already lower-cased).
+function countOcc(hay: string, needle: string): number {
+  if (!needle) return 0
+  let n = 0
+  let i = hay.indexOf(needle)
+  while (i !== -1) {
+    n++
+    i = hay.indexOf(needle, i + needle.length)
+  }
+  return n
+}
+
+// Relevance score for a candidate against the query tokens. A title hit dominates; in the
+// body, a term that RECURS scores higher — the stored content is a prose snippet PLUS the
+// doc's top tf-idf terms, so a word central to a short entry (a sonnet whose theme *is*
+// "disgrace") appears in both halves and outscores an incidental mention in a long chapter.
+// Returns -1 for a doc that matches no token so it can be dropped (keeps OR-recall, but
+// only over things that actually matched).
+function scoreDoc(d: Doc, tokens: string[]): number {
+  const title = (d.title || "").toLowerCase()
+  const content = (d.content || "").toLowerCase()
+  let score = 0
+  let matched = false
+  for (const tk of tokens) {
+    const tHits = countOcc(title, tk)
+    const cHits = countOcc(content, tk)
+    if (tHits) {
+      score += 100 + tHits * 10 // title match dominates
+      matched = true
+    }
+    if (cHits) {
+      score += cHits * 10 // body prominence (snippet + tf-idf terms => recurrence)
+      matched = true
+    }
+  }
+  return matched ? score : -1
+}
+
+// Collapse the multi-part splits of ONE section ("chapter_04…--part_01..07") to a single
+// result, so a query doesn't waste the whole page on near-identical fragments of the same
+// chapter. Distinct chapters and distinct sonnets (no "--part" suffix) stay separate.
+function sectionKey(slug: string): string {
+  return slug.replace(/--part_\d+$/, "")
+}
+
 function search(q: string): Doc[] {
   const query = q.trim()
   if (!index || !query) return []
-  const flexIds: string[] = []
+  const tokens = query.toLowerCase().split(/\s+/).filter(Boolean)
   const seen = new Set<string>()
-  for (const group of index.search(query, { limit: NUM_RESULTS, enrich: false }) as any[]) {
-    for (const id of group.result ?? group) {
-      if (!seen.has(id)) {
-        seen.add(id)
-        flexIds.push(id)
-      }
+  const pool: string[] = []
+  const push = (id: string) => {
+    if (!seen.has(id)) {
+      seen.add(id)
+      pool.push(id)
     }
   }
-  let ids = flexIds
-  // Fuzzy top-up: only when FlexSearch under-fills a page and the Max tier is loaded.
-  if (flexIds.length < NUM_RESULTS && fuzzy) {
-    const fuzzyIds = fuzzy.search(query).map((r: any) => r.id as string)
-    ids = mergeResults(flexIds, fuzzyIds, NUM_RESULTS)
+  // Wide candidate pool from FlexSearch (prefix/token match across title+content+tags)…
+  for (const group of index.search(query, { limit: CANDIDATE_LIMIT, enrich: false }) as any[]) {
+    for (const id of group.result ?? group) push(id)
   }
-  return ids
-    .slice(0, NUM_RESULTS)
+  // …plus MiniSearch's typo-tolerant hits once the Max tier is loaded (its own ranking is
+  // discarded here; both feed the same re-rank below so exact and fuzzy are scored alike).
+  if (fuzzy) {
+    for (const r of (fuzzy.search(query, { prefix: true }) as any[]).slice(0, CANDIDATE_LIMIT)) {
+      push(r.id as string)
+    }
+  }
+  // Re-rank the whole pool by relevance. This is what surfaces a prominent-but-late-indexed
+  // hit (a Shakespeare sonnet for "disgrace") that FlexSearch's raw top-N would have dropped.
+  const ranked = pool
     .map((id) => store.get(id))
-    .filter(Boolean) as Doc[]
+    .filter(Boolean)
+    .map((d) => ({ d: d as Doc, s: scoreDoc(d as Doc, tokens) }))
+    .filter((x) => x.s >= 0)
+    .sort((a, b) => b.s - a.s)
+  // Take the page, collapsing multi-part splits of the same section so results stay diverse.
+  const out: Doc[] = []
+  const usedSection = new Set<string>()
+  for (const { d } of ranked) {
+    const k = sectionKey(d.slug)
+    if (usedSection.has(k)) continue
+    usedSection.add(k)
+    out.push(d)
+    if (out.length >= NUM_RESULTS) break
+  }
+  return out
 }
 
 function hitHref(d: Doc): string {
