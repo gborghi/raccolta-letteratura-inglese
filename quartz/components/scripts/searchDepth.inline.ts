@@ -19,16 +19,17 @@ const NUM_RESULTS = 8
 // Shakespeare sorts last) never made the old 8-result cut, so e.g. Sonnet 29 was invisible.
 // A big pool + relevance re-rank fixes recall without depending on insertion order.
 const CANDIDATE_LIMIT = 250
-// How many FlexSearch (re)index operations to run before yielding the main thread back to
-// the browser. The Deep/Max tiers add ~19k per-atom docs; doing them all in one synchronous
-// loop froze the tab (the whole point of this file's async plumbing), so we cooperatively
-// yield every REINDEX_CHUNK docs to keep the UI — spinner, typing, closing — responsive.
-const REINDEX_CHUNK = 400
-const store = new Map<string, Doc>()
-let index: any = null
-let fuzzy: MiniSearch | null = null
-let loadedStop = -1
-let loading = false
+// Building a deeper index means adding up to ~18k docs to a FRESH FlexSearch index (see
+// setDepth). Do it in batches with a yield between them so the build never blocks the tab.
+const BUILD_CHUNK = 400
+
+const store = new Map<string, Doc>() // every doc ever fetched, accumulated across tiers
+let index: any = null // the ACTIVE FlexSearch index that search() queries
+let fuzzy: MiniSearch | null = null // ACTIVE MiniSearch (Max tier only), else null
+let activeStop = -1 // tier the active index currently represents
+let fetchedStop = -1 // highest tier whose shard file is merged into `store`
+let building = false // a background (re)build is in flight
+let queuedStop: number | null = null // newest target requested while a build was running
 
 // Yield to the event loop so the browser can paint / handle input between heavy batches.
 function yieldToUI(): Promise<void> {
@@ -41,10 +42,6 @@ function basePath(): string {
 function isMobile(): boolean {
   return matchMedia("(max-width: 800px)").matches || matchMedia("(pointer: coarse)").matches
 }
-function savedStop(): number {
-  return clampStop(parseInt(localStorage.getItem("search-depth") ?? "0", 10), isMobile())
-}
-
 function newIndex(): any {
   return new (FlexSearch as any).Document({
     document: { id: "id", index: ["title", "content", "tags"], store: false },
@@ -61,8 +58,8 @@ async function fetchJson(file: string): Promise<any> {
   }
 }
 
-// Merge one shard file (either {entries} or, for t2, a {buckets:[…]} manifest whose
-// bucket files are fetched + merged) into the store + FlexSearch.
+// Merge one shard file into `store` ONLY (no indexing here — the index is (re)built
+// separately in setDepth). Handles the t2 {buckets:[…]} manifest by fetching each bucket.
 async function mergeFile(file: string): Promise<void> {
   const j = await fetchJson(file)
   if (!j) return
@@ -70,56 +67,91 @@ async function mergeFile(file: string): Promise<void> {
     for (const b of j.buckets) await mergeFile(b)
     return
   }
-  const changed = mergeTier(store, (j.entries ?? []) as Entry[])
-  let i = 0
-  for (const id of changed) {
-    const d = store.get(id)!
-    index.remove(id)
-    index.add({ id: d.id, title: d.title, content: d.content, tags: (d.tags || []).join(" ") })
-    // Deep/Max tiers reindex ~19k docs; yield periodically so the tab never freezes.
-    if (++i % REINDEX_CHUNK === 0) await yieldToUI()
-  }
+  mergeTier(store, (j.entries ?? []) as Entry[])
 }
 
-// The delta file(s) each stop adds on top of the shallower tier.
+// The shard file for each tier.
 function stopFile(s: number): string {
   return ["search-t0.json", "search-t1.json", "search-t2.json", "search-t3.json"][s]
 }
 
-// Load every tier up to `target`, merging into the store + FlexSearch. At Max, also
-// build the MiniSearch fuzzy index off the accumulated store.
-async function loadUpTo(target: number): Promise<void> {
-  if (loading) return
-  loading = true
-  try {
-    if (!index) index = newIndex()
-    for (let s = loadedStop + 1; s <= target; s++) {
-      await mergeFile(stopFile(s))
-      loadedStop = s
-    }
-    if (target >= 3) await buildFuzzy()
-    document.dispatchEvent(new CustomEvent("searchdepth-loaded", { detail: { stop: loadedStop } }))
-  } finally {
-    loading = false
-  }
+// Docs that belong in a tier's index: 0-1 are works only (no "#"); 2-3 add the per-atom
+// entries. (Content in `store` is always the deepest fetched, which only helps recall — the
+// tier really governs WHICH docs are searchable.)
+function docsForStop(target: number): Doc[] {
+  const all = [...store.values()]
+  return target >= 2 ? all : all.filter((d) => !d.id.includes("#"))
 }
 
-async function buildFuzzy(): Promise<void> {
-  fuzzy = new MiniSearch({
+// Build a FRESH FlexSearch index for `target` off the accumulated store, yielding between
+// batches. Returns the new index WITHOUT touching the active one.
+async function buildIndex(target: number): Promise<any> {
+  const idx = newIndex()
+  let i = 0
+  for (const d of docsForStop(target)) {
+    idx.add({ id: d.id, title: d.title, content: d.content, tags: (d.tags || []).join(" ") })
+    if (++i % BUILD_CHUNK === 0) await yieldToUI()
+  }
+  return idx
+}
+
+// Build a fresh MiniSearch fuzzy index (Max tier). addAllAsync chunks + yields.
+async function buildFuzzy(target: number): Promise<MiniSearch> {
+  const fz = new MiniSearch({
     fields: ["title", "content", "tags"],
     storeFields: [],
     searchOptions: { fuzzy: 0.2, prefix: true, boost: { title: 3, tags: 2 } },
   })
-  // addAllAsync chunks the ~19k-doc build and yields between chunks, so indexing the Max
-  // tier no longer blocks the main thread (addAll did, freezing the tab on every open).
-  await fuzzy.addAllAsync(
-    [...store.values()].map((d) => ({
+  await fz.addAllAsync(
+    docsForStop(target).map((d) => ({
       id: d.id,
       title: d.title,
       content: d.content,
       tags: (d.tags || []).join(" "),
     })),
   )
+  return fz
+}
+
+// Switch the search depth to `target`, DOUBLE-BUFFERED: the current index keeps answering
+// queries the entire time; the new index (+ fuzzy at Max) is fetched and built entirely in
+// the background and only hot-swapped in — dropping the old ones for GC — once it's ready.
+// So moving the slider never freezes search; it just keeps working on the old index until
+// the new one goes live, then keeps working on the new one. `onSwap` refreshes the results
+// after a swap. Overlapping requests coalesce to the latest target.
+async function setDepth(target: number, onSwap?: () => void): Promise<void> {
+  if (target === activeStop) return
+  if (building) {
+    queuedStop = target
+    return
+  }
+  building = true
+  try {
+    // 1. Ensure `store` holds every tier up to the target (network-bound, cheap CPU).
+    for (let s = fetchedStop + 1; s <= target; s++) {
+      await mergeFile(stopFile(s))
+      fetchedStop = s
+    }
+    // 2. Build the new index (+ fuzzy at Max) in the background — old index still serving.
+    const nextIndex = await buildIndex(target)
+    const nextFuzzy = target >= 3 ? await buildFuzzy(target) : null
+    // 3. Hot-swap. The old index/fuzzy are now unreferenced and get collected.
+    index = nextIndex
+    fuzzy = nextFuzzy
+    activeStop = target
+    document.dispatchEvent(new CustomEvent("searchdepth-loaded", { detail: { stop: activeStop } }))
+    onSwap?.()
+  } finally {
+    building = false
+    // A newer target arrived mid-build → chase it now.
+    if (queuedStop !== null && queuedStop !== activeStop) {
+      const q = queuedStop
+      queuedStop = null
+      void setDepth(q, onSwap)
+    } else {
+      queuedStop = null
+    }
+  }
 }
 
 // Count non-overlapping occurrences of `needle` in `hay` (both already lower-cased).
@@ -250,7 +282,7 @@ function ensureUI(): void {
 
   // --- depth slider ---
   const maxStop = isMobile() ? 1 : 3
-  const cur = savedStop()
+  const cur = 0 // ALWAYS start at the slimmest tier on page load (deepen on demand)
   wrap.innerHTML = `
     <input class="sd-slider" type="range" min="0" max="${maxStop}" step="1" value="${cur}" aria-label="Search depth" />
     <span class="sd-slider-label"></span>
@@ -275,17 +307,18 @@ function ensureUI(): void {
       .join("")
   }
 
-  slider.addEventListener("change", async () => {
+  slider.addEventListener("change", () => {
     const want = clampStop(+slider.value, isMobile())
     slider.value = String(want)
-    localStorage.setItem("search-depth", String(want))
     paint()
-    if (want > loadedStop) {
-      spin.hidden = false
-      await loadUpTo(want)
-      spin.hidden = true
+    render() // keep search working on the CURRENT index while the new one builds
+    if (want !== activeStop) {
+      spin.hidden = false // non-blocking indicator; search stays usable during the build
+      void setDepth(want, () => {
+        spin.hidden = true
+        render() // refresh results once the new index is live
+      })
     }
-    render()
   })
 
   let t: number | undefined
@@ -294,17 +327,14 @@ function ensureUI(): void {
     t = window.setTimeout(render, 90)
   })
 
-  const open = async () => {
+  const open = () => {
     modal.classList.add("active")
     document.documentElement.style.overflow = "hidden"
-    const want = savedStop()
-    if (loadedStop < want) {
-      spin.hidden = false
-      await loadUpTo(want)
-      spin.hidden = true
-    }
-    input.focus()
+    input.focus() // never blocks: the slimmest index is built in the background at init
   }
+
+  // Kick off the slimmest index in the background so search is ready without deep-loading.
+  if (activeStop < 0 && !building) void setDepth(0, render)
   const close = () => {
     modal.classList.remove("active")
     document.documentElement.style.overflow = ""
