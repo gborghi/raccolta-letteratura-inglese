@@ -377,7 +377,9 @@ table.lt-table td.lt-num:last-child {
 // Mobile: the works table's numeric columns (Links, Flesch, Grade, Fog) overflow
 // a phone viewport — and are empty for verse/letters anyway. Hide them; keep
 // Title / Author / Cluster. Belt-and-suspenders horizontal scroll on the wrapper.
-#opere-table { overflow-x: auto; }
+#opere-table {
+  overflow-x: auto;
+}
 @media (max-width: 640px) {
   #opere-table table.lt-table th:nth-child(n + 4),
   #opere-table table.lt-table td:nth-child(n + 4) {
@@ -889,16 +891,15 @@ details.cerca-facet > summary {
 .rw-label-anchor .rw-label {
   white-space: normal;
 }
-// The emblems shrink as the ring fills up (radialWheel's tileSize), which opens a clear
-// band inside them for the labels — but the band is only ~13% of the stage wide at 15
-// spokes, so a 20%-wide label still reached under the plates on the diagonals. Narrower
-// box, tighter type: the label has to fit the band, not merely sit at its centre.
+// Labels now live in the band OUTSIDE the emblem ring, whose circumference grows with the
+// radius — so it is roomier than the old inner band and a crowded label can be a touch
+// wider and larger than before while still not colliding with its neighbours.
 .rw-stage[data-crowded] .rw-label-anchor {
-  max-width: 15%;
+  max-width: 18%;
 }
 .rw-stage[data-crowded] .rw-label {
-  font-size: 0.68rem;
-  padding: 0.08rem 0.28rem;
+  font-size: 0.72rem;
+  padding: 0.09rem 0.3rem;
   line-height: 1.15;
 }
 .rw-tilespoke:hover,
@@ -1096,121 +1097,384 @@ ul.tags {
 }
 
 /* ---- Tiered depth search (searchDepth.inline.ts) --------------------------- */
-.sd-button { display: inline-flex; align-items: center; gap: .4rem; font: inherit; cursor: pointer;
-  border: 1px solid var(--lightgray); background: var(--light); color: var(--dark);
-  border-radius: 7px; padding: .35rem .7rem; }
-.sd-button:hover { border-color: var(--secondary); color: var(--secondary); }
-.sd-button-icon { font-size: .95rem; line-height: 1; }
-.sd-modal { display: none; position: fixed; inset: 0; z-index: 60; padding: 8vh 1rem 1rem;
-  background: color-mix(in srgb, var(--dark) 32%, transparent); backdrop-filter: blur(2px); }
-.sd-modal.active { display: block; }
-.sd-inner { box-sizing: border-box; max-width: 640px; margin: 0 auto; background: var(--light); border: 1px solid var(--lightgray);
-  border-radius: 12px; box-shadow: 0 18px 60px rgba(0, 0, 0, .28); padding: 1rem; }
+.sd-button {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  font: inherit;
+  cursor: pointer;
+  border: 1px solid var(--lightgray);
+  background: var(--light);
+  color: var(--dark);
+  border-radius: 7px;
+  padding: 0.35rem 0.7rem;
+}
+.sd-button:hover {
+  border-color: var(--secondary);
+  color: var(--secondary);
+}
+.sd-button-icon {
+  font-size: 0.95rem;
+  line-height: 1;
+}
+.sd-modal {
+  display: none;
+  position: fixed;
+  inset: 0;
+  z-index: 60;
+  padding: 8vh 1rem 1rem;
+  background: color-mix(in srgb, var(--dark) 32%, transparent);
+  backdrop-filter: blur(2px);
+}
+.sd-modal.active {
+  display: block;
+}
+.sd-inner {
+  box-sizing: border-box;
+  max-width: 640px;
+  margin: 0 auto;
+  background: var(--light);
+  border: 1px solid var(--lightgray);
+  border-radius: 12px;
+  box-shadow: 0 18px 60px rgba(0, 0, 0, 0.28);
+  padding: 1rem;
+}
 // border-box, or the input runs past the panel: `width: 100%` resolves to the panel's
 // CONTENT width and then its own .7rem side padding and 1px border are added outside that,
 // so the field ends ~7px beyond the rounded edge on the right. The page's box-sizing is
 // content-box, so this cannot be left to inherit.
-.sd-input { box-sizing: border-box; width: 100%; font: inherit; font-size: 1.05rem; padding: .6rem .7rem; color: var(--dark);
-  background: var(--light); border: 1px solid var(--lightgray); border-radius: 8px; }
-.sd-input:focus { outline: none; border-color: var(--secondary); }
-.sd-slider-wrap { display: flex; align-items: center; gap: .6rem; margin: .7rem .1rem .3rem; }
-.sd-slider { flex: 0 0 9rem; accent-color: var(--secondary); cursor: pointer; }
-.sd-slider-label { flex: 1; font-size: .78rem; color: var(--darkgray); }
-.sd-spin { display: inline-block; width: .85em; height: .85em; border: 2px solid var(--lightgray);
-  border-top-color: var(--secondary); border-radius: 50%; animation: sd-spin .7s linear infinite; }
-.sd-spin[hidden] { display: none; }
-@keyframes sd-spin { to { transform: rotate(360deg); } }
-@media (prefers-reduced-motion: reduce) { .sd-spin { animation-duration: 2s; } }
-.sd-results { list-style: none; margin: .5rem 0 0; padding: 0; max-height: 55vh; overflow-y: auto; }
-.sd-results:empty { display: none; }
-.sd-hit { display: block; text-decoration: none; color: var(--dark); padding: .5rem .6rem;
-  border-radius: 7px; border: 1px solid transparent; }
-.sd-hit:hover { background: color-mix(in srgb, var(--secondary) 12%, transparent); border-color: var(--lightgray); }
-.sd-hit-title { font-weight: 600; }
+.sd-input {
+  box-sizing: border-box;
+  width: 100%;
+  font: inherit;
+  font-size: 1.05rem;
+  padding: 0.6rem 0.7rem;
+  color: var(--dark);
+  background: var(--light);
+  border: 1px solid var(--lightgray);
+  border-radius: 8px;
+}
+.sd-input:focus {
+  outline: none;
+  border-color: var(--secondary);
+}
+.sd-slider-wrap {
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+  margin: 0.7rem 0.1rem 0.3rem;
+}
+.sd-slider {
+  flex: 0 0 9rem;
+  accent-color: var(--secondary);
+  cursor: pointer;
+}
+.sd-slider-label {
+  flex: 1;
+  font-size: 0.78rem;
+  color: var(--darkgray);
+}
+.sd-spin {
+  display: inline-block;
+  width: 0.85em;
+  height: 0.85em;
+  border: 2px solid var(--lightgray);
+  border-top-color: var(--secondary);
+  border-radius: 50%;
+  animation: sd-spin 0.7s linear infinite;
+}
+.sd-spin[hidden] {
+  display: none;
+}
+@keyframes sd-spin {
+  to {
+    transform: rotate(360deg);
+  }
+}
+@media (prefers-reduced-motion: reduce) {
+  .sd-spin {
+    animation-duration: 2s;
+  }
+}
+.sd-results {
+  list-style: none;
+  margin: 0.5rem 0 0;
+  padding: 0;
+  max-height: 55vh;
+  overflow-y: auto;
+}
+.sd-results:empty {
+  display: none;
+}
+.sd-hit {
+  display: block;
+  text-decoration: none;
+  color: var(--dark);
+  padding: 0.5rem 0.6rem;
+  border-radius: 7px;
+  border: 1px solid transparent;
+}
+.sd-hit:hover {
+  background: color-mix(in srgb, var(--secondary) 12%, transparent);
+  border-color: var(--lightgray);
+}
+.sd-hit-title {
+  font-weight: 600;
+}
 
 /* ---- Reading-page SPA (atomRouter.inline.ts) ------------------------------- */
-.atom-reader { display: flex; flex-direction: column; gap: 0; margin: 0 0 2rem; }
+.atom-reader {
+  display: flex;
+  flex-direction: column;
+  gap: 0;
+  margin: 0 0 2rem;
+}
 .ar-bar {
-  position: sticky; top: 0; z-index: 5; display: flex; align-items: center; gap: .6rem;
-  padding: .5rem .2rem; margin-bottom: .4rem;
+  position: sticky;
+  top: 0;
+  z-index: 5;
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+  padding: 0.5rem 0.2rem;
+  margin-bottom: 0.4rem;
   background: color-mix(in srgb, var(--light) 90%, transparent);
-  backdrop-filter: blur(6px); border-bottom: 1px solid var(--lightgray);
+  backdrop-filter: blur(6px);
+  border-bottom: 1px solid var(--lightgray);
 }
-.ar-bar .ar-spacer { flex: 1; }
-.ar-crumb { font-size: .82rem; color: var(--darkgray); }
-.ar-crumb b { color: var(--secondary); }
-.ar-crumb .ar-count { color: var(--gray); font-variant-numeric: tabular-nums; margin-left: .5rem; font-size: .78rem; }
-.ar-lang { display: inline-flex; border: 1px solid var(--lightgray); border-radius: 999px; overflow: hidden; }
-.ar-lang button { font: inherit; font-weight: 600; font-size: .78rem; border: 0; background: transparent;
-  color: var(--darkgray); padding: .25rem .7rem; cursor: pointer; }
-.ar-lang button.active { background: var(--secondary); color: var(--light); }
-.ar-pager { display: inline-flex; gap: .3rem; }
-.ar-pager button, .ar-tocbtn {
-  font: inherit; border: 1px solid var(--lightgray); background: var(--light); color: var(--dark);
-  width: 1.9rem; height: 1.9rem; border-radius: 7px; cursor: pointer; line-height: 1; font-size: 1rem;
+.ar-bar .ar-spacer {
+  flex: 1;
 }
-.ar-pager button:disabled { opacity: .35; cursor: default; }
-.ar-pager button:hover:not(:disabled), .ar-tocbtn:hover { border-color: var(--secondary); color: var(--secondary); }
-.ar-tocbtn { display: none; }
+.ar-crumb {
+  font-size: 0.82rem;
+  color: var(--darkgray);
+}
+.ar-crumb b {
+  color: var(--secondary);
+}
+.ar-crumb .ar-count {
+  color: var(--gray);
+  font-variant-numeric: tabular-nums;
+  margin-left: 0.5rem;
+  font-size: 0.78rem;
+}
+.ar-lang {
+  display: inline-flex;
+  border: 1px solid var(--lightgray);
+  border-radius: 999px;
+  overflow: hidden;
+}
+.ar-lang button {
+  font: inherit;
+  font-weight: 600;
+  font-size: 0.78rem;
+  border: 0;
+  background: transparent;
+  color: var(--darkgray);
+  padding: 0.25rem 0.7rem;
+  cursor: pointer;
+}
+.ar-lang button.active {
+  background: var(--secondary);
+  color: var(--light);
+}
+.ar-pager {
+  display: inline-flex;
+  gap: 0.3rem;
+}
+.ar-pager button,
+.ar-tocbtn {
+  font: inherit;
+  border: 1px solid var(--lightgray);
+  background: var(--light);
+  color: var(--dark);
+  width: 1.9rem;
+  height: 1.9rem;
+  border-radius: 7px;
+  cursor: pointer;
+  line-height: 1;
+  font-size: 1rem;
+}
+.ar-pager button:disabled {
+  opacity: 0.35;
+  cursor: default;
+}
+.ar-pager button:hover:not(:disabled),
+.ar-tocbtn:hover {
+  border-color: var(--secondary);
+  color: var(--secondary);
+}
+.ar-tocbtn {
+  display: none;
+}
 // ---- global left-sidebar toggle (sidebarToggle.inline.ts) ----
 // Fixed ☰/✕ that collapses/expands the left sidebar site-wide. Desktop/tablet only:
 // below the mobile breakpoint the sidebar is a top bar and the Explorer nav is toggled
 // by the existing core hamburger instead (see the <800px block near the file end).
 .site-nav-toggle {
-  position: fixed; top: .7rem; left: .7rem; z-index: 40;
-  width: 1.9rem; height: 1.9rem; border-radius: 7px; cursor: pointer;
-  border: 1px solid var(--lightgray); background: var(--light); color: var(--dark);
-  font-size: 1rem; line-height: 1; transition: left .18s ease;
-  display: inline-flex; align-items: center; justify-content: center;
+  position: fixed;
+  top: 0.7rem;
+  left: 0.7rem;
+  z-index: 40;
+  width: 1.9rem;
+  height: 1.9rem;
+  border-radius: 7px;
+  cursor: pointer;
+  border: 1px solid var(--lightgray);
+  background: var(--light);
+  color: var(--dark);
+  font-size: 1rem;
+  line-height: 1;
+  transition: left 0.18s ease;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
 }
-.site-nav-toggle:hover { border-color: var(--secondary); color: var(--secondary); }
+.site-nav-toggle:hover {
+  border-color: var(--secondary);
+  color: var(--secondary);
+}
 // The ✕ stays at the screen's top-LEFT corner whether open or closed — i.e. above-left
 // of the sidebar, never over the center page <h1>. The sidebar's own masthead
 // (H2.page-title) also lives at that top-left corner, so while the sidebar is open drop
 // the masthead below the button so the ✕ never covers the site title.
 @media (min-width: 800px) {
-  body.nav-open #quartz-body > .sidebar.left > .page-title { padding-top: 2.9rem; }
+  body.nav-open #quartz-body > .sidebar.left > .page-title {
+    padding-top: 2.9rem;
+  }
 }
-@media (max-width: 799.98px) { .site-nav-toggle { display: none; } }
-.ar-shell { display: grid; grid-template-columns: 230px minmax(0,1fr); gap: 1.4rem; }
-.ar-toc { align-self: start; position: sticky; top: 3.2rem; max-height: calc(100vh - 4rem);
-  overflow: auto; padding-right: .6rem; border-right: 1px solid var(--lightgray); font-size: .84rem; }
-.ar-toc-list, .ar-toc-list ul { list-style: none; margin: 0; padding: 0; }
-.ar-toc-chap { margin: .5rem 0; }
-.ar-toc-chaplabel { display: block; font-weight: 600; color: var(--secondary); padding: .2rem .3rem; }
-.ar-toc-chap > ul { border-left: 1px solid var(--lightgray); margin-left: .3rem; }
-.ar-toc-link { display: block; text-decoration: none; color: var(--darkgray);
-  padding: .22rem .5rem; border-left: 2px solid transparent; margin-left: -1px; border-radius: 0 5px 5px 0; }
-.ar-toc-top .ar-toc-link { font-weight: 600; color: var(--dark); }
-.ar-toc-link:hover { background: var(--lightgray); color: var(--dark); }
-.ar-toc-link.active { color: var(--secondary); border-left-color: var(--secondary);
-  background: color-mix(in srgb, var(--secondary) 8%, transparent); font-weight: 600; }
-.ar-pane { min-width: 0; }
-.ar-pane > :first-child { margin-top: 0; }
-.ar-notr { color: var(--gray); font-style: italic; text-align: center; margin: 2rem 0; }
+@media (max-width: 799.98px) {
+  .site-nav-toggle {
+    display: none;
+  }
+}
+.ar-shell {
+  display: grid;
+  grid-template-columns: 230px minmax(0, 1fr);
+  gap: 1.4rem;
+}
+.ar-toc {
+  align-self: start;
+  position: sticky;
+  top: 3.2rem;
+  max-height: calc(100vh - 4rem);
+  overflow: auto;
+  padding-right: 0.6rem;
+  border-right: 1px solid var(--lightgray);
+  font-size: 0.84rem;
+}
+.ar-toc-list,
+.ar-toc-list ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+.ar-toc-chap {
+  margin: 0.5rem 0;
+}
+.ar-toc-chaplabel {
+  display: block;
+  font-weight: 600;
+  color: var(--secondary);
+  padding: 0.2rem 0.3rem;
+}
+.ar-toc-chap > ul {
+  border-left: 1px solid var(--lightgray);
+  margin-left: 0.3rem;
+}
+.ar-toc-link {
+  display: block;
+  text-decoration: none;
+  color: var(--darkgray);
+  padding: 0.22rem 0.5rem;
+  border-left: 2px solid transparent;
+  margin-left: -1px;
+  border-radius: 0 5px 5px 0;
+}
+.ar-toc-top .ar-toc-link {
+  font-weight: 600;
+  color: var(--dark);
+}
+.ar-toc-link:hover {
+  background: var(--lightgray);
+  color: var(--dark);
+}
+.ar-toc-link.active {
+  color: var(--secondary);
+  border-left-color: var(--secondary);
+  background: color-mix(in srgb, var(--secondary) 8%, transparent);
+  font-weight: 600;
+}
+.ar-pane {
+  min-width: 0;
+}
+.ar-pane > :first-child {
+  margin-top: 0;
+}
+.ar-notr {
+  color: var(--gray);
+  font-style: italic;
+  text-align: center;
+  margin: 2rem 0;
+}
 // per-leaf tag chips (data-tags on the atom-split marker), rebuilt on every atom nav
-.ar-tags { display: flex; flex-wrap: wrap; gap: .35rem; margin: 0 0 .8rem; }
-.ar-tags:empty { display: none; margin: 0; }
+.ar-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35rem;
+  margin: 0 0 0.8rem;
+}
+.ar-tags:empty {
+  display: none;
+  margin: 0;
+}
 .ar-tag {
-  display: inline-flex; align-items: center; padding: .18rem .6rem;
-  border: 1px solid var(--lightgray); border-radius: 999px;
+  display: inline-flex;
+  align-items: center;
+  padding: 0.18rem 0.6rem;
+  border: 1px solid var(--lightgray);
+  border-radius: 999px;
   background: color-mix(in srgb, var(--secondary) 8%, var(--light));
-  color: var(--darkgray); font-size: .74rem; line-height: 1.3;
+  color: var(--darkgray);
+  font-size: 0.74rem;
+  line-height: 1.3;
   text-decoration: none;
 }
 // clickable chips (axis has a matching /cerca facet) deep-link to faceted search
-a.ar-tag { cursor: pointer; }
-a.ar-tag:hover, a.ar-tag:focus-visible {
+a.ar-tag {
+  cursor: pointer;
+}
+a.ar-tag:hover,
+a.ar-tag:focus-visible {
   background: color-mix(in srgb, var(--secondary) 18%, var(--light));
-  border-color: var(--secondary); color: var(--secondary);
+  border-color: var(--secondary);
+  color: var(--secondary);
 }
 @media (max-width: 800px) {
-  .ar-tocbtn { display: inline-flex; align-items: center; justify-content: center; }
-  .ar-shell { grid-template-columns: 1fr; }
-  .ar-toc { position: fixed; inset: 3.5rem auto 0 0; width: 78%; max-width: 300px; z-index: 8;
-    background: var(--light); border-right: 1px solid var(--lightgray); padding: 1rem;
-    transform: translateX(-102%); transition: transform .22s ease; box-shadow: 0 0 24px rgba(0,0,0,.15); }
-  .ar-shell.toc-open .ar-toc { transform: none; }
+  .ar-tocbtn {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .ar-shell {
+    grid-template-columns: 1fr;
+  }
+  .ar-toc {
+    position: fixed;
+    inset: 3.5rem auto 0 0;
+    width: 78%;
+    max-width: 300px;
+    z-index: 8;
+    background: var(--light);
+    border-right: 1px solid var(--lightgray);
+    padding: 1rem;
+    transform: translateX(-102%);
+    transition: transform 0.22s ease;
+    box-shadow: 0 0 24px rgba(0, 0, 0, 0.15);
+  }
+  .ar-shell.toc-open .ar-toc {
+    transform: none;
+  }
 }
 
 // ---- .center grid pin (always-on) ----
@@ -1247,26 +1511,39 @@ body.reading-page {
   // #quartz-body sits under .page, not directly under body — use a descendant
   // combinator, not a child one.
   @media all and (min-width: 1200px) {
-    & #quartz-body { grid-template-columns: 0 auto 320px; }
+    & #quartz-body {
+      grid-template-columns: 0 auto 320px;
+    }
   }
   @media all and (min-width: 800px) and (max-width: 1199.98px) {
-    & #quartz-body { grid-template-columns: 0 auto; }
+    & #quartz-body {
+      grid-template-columns: 0 auto;
+    }
   }
   @media (min-width: 800px) {
-    & #quartz-body > .sidebar.left { display: none; }
+    & #quartz-body > .sidebar.left {
+      display: none;
+    }
     // display:none frees the grid-sidebar-left cell; the auto-placed .center would
     // otherwise greedily flow into that (now 0-width) column and collapse. Pin it
     // to the center track explicitly.
-    & #quartz-body > .center { grid-area: grid-center; min-width: 0; }
+    & #quartz-body > .center {
+      grid-area: grid-center;
+      min-width: 0;
+    }
   }
   // Open on desktop/tablet: SQUEEZE the page right (no overlay, no scrim) so the
   // reader's own chapter TOC (ar-toc) stays fully visible beside the restored sidebar.
   // The left grid column gets its width back and the sidebar returns to normal flow.
   @media all and (min-width: 1200px) {
-    &.left-open #quartz-body { grid-template-columns: 320px auto 320px; }
+    &.left-open #quartz-body {
+      grid-template-columns: 320px auto 320px;
+    }
   }
   @media all and (min-width: 800px) and (max-width: 1199.98px) {
-    &.left-open #quartz-body { grid-template-columns: 320px auto; }
+    &.left-open #quartz-body {
+      grid-template-columns: 320px auto;
+    }
   }
   @media (min-width: 800px) {
     // Restore the sidebar into its (now 320px) grid column. Keep base's sticky,
@@ -1275,28 +1552,59 @@ body.reading-page {
     // aggregator grows the sidebar unbounded, which (since grid-sidebar-left spans
     // all rows) inflates the grid rows and shoves the reading content down the page.
     &.left-open #quartz-body > .sidebar.left {
-      display: flex; position: sticky; top: 0; inset: auto; align-self: start;
-      width: auto; max-width: none; height: 100vh; overflow-y: auto;
-      background: transparent; box-shadow: none; z-index: auto; padding: 0;
+      display: flex;
+      position: sticky;
+      top: 0;
+      inset: auto;
+      align-self: start;
+      width: auto;
+      max-width: none;
+      height: 100vh;
+      overflow-y: auto;
+      background: transparent;
+      box-shadow: none;
+      z-index: auto;
+      padding: 0;
     }
   }
   // Open on mobile: overlay drawer + dimming scrim (no horizontal room to squeeze).
   @media (max-width: 799.98px) {
     &.left-open #quartz-body > .sidebar.left {
-      display: flex; position: fixed; inset: 0 auto 0 0; width: 320px; max-width: 85vw;
-      height: 100vh; overflow: auto; background: var(--light); z-index: 30;
-      padding: 5rem 1.5rem 2rem; box-shadow: 0 0 28px rgba(0, 0, 0, 0.22);
+      display: flex;
+      position: fixed;
+      inset: 0 auto 0 0;
+      width: 320px;
+      max-width: 85vw;
+      height: 100vh;
+      overflow: auto;
+      background: var(--light);
+      z-index: 30;
+      padding: 5rem 1.5rem 2rem;
+      box-shadow: 0 0 28px rgba(0, 0, 0, 0.22);
     }
-    &.left-open::after { content: ""; position: fixed; inset: 0; background: rgba(0, 0, 0, 0.28); z-index: 29; }
+    &.left-open::after {
+      content: "";
+      position: fixed;
+      inset: 0;
+      background: rgba(0, 0, 0, 0.28);
+      z-index: 29;
+    }
   }
 }
 
 // ---- normal (non-reading) page: collapse the whole left sidebar to widen the text ----
 // Shown by default; the fixed ☰/✕ (sidebarToggle.inline.ts) adds body.left-collapsed.
 @media (min-width: 800px) {
-  body.left-collapsed:not(.reading-page) #quartz-body { grid-template-columns: 0 auto 320px; }
-  body.left-collapsed:not(.reading-page) #quartz-body > .sidebar.left { display: none; }
-  body.left-collapsed:not(.reading-page) #quartz-body > .center { grid-area: grid-center; min-width: 0; }
+  body.left-collapsed:not(.reading-page) #quartz-body {
+    grid-template-columns: 0 auto 320px;
+  }
+  body.left-collapsed:not(.reading-page) #quartz-body > .sidebar.left {
+    display: none;
+  }
+  body.left-collapsed:not(.reading-page) #quartz-body > .center {
+    grid-area: grid-center;
+    min-width: 0;
+  }
 }
 
 // ---- mobile (<800): the sidebar is a top bar; only the Explorer nav collapses ----
@@ -1308,10 +1616,18 @@ body.reading-page {
 // right for tap-to-close (Escape also closes).
 @media (max-width: 799.98px) {
   body.explorer-open .explorer-content {
-    transform: none !important; visibility: visible !important;
-    width: 82% !important; max-width: 320px !important;
+    transform: none !important;
+    visibility: visible !important;
+    width: 82% !important;
+    max-width: 320px !important;
   }
-  body.explorer-open::after { content: ""; position: fixed; inset: 0; background: rgba(0, 0, 0, 0.28); z-index: 29; }
+  body.explorer-open::after {
+    content: "";
+    position: fixed;
+    inset: 0;
+    background: rgba(0, 0, 0, 0.28);
+    z-index: 29;
+  }
 
   // That top bar is a nowrap flex row of title + theme/search buttons + Explorer
   // toggle. The buttons and toggle are fixed-size, so on a 320px screen the row's

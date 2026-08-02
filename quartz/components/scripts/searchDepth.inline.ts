@@ -21,11 +21,21 @@ import {
 } from "./searchDepth"
 
 const NUM_RESULTS = 8
+// How many FlexSearch (re)index operations to run before yielding the main thread back to
+// the browser. The Deep/Max tiers add ~19k per-atom docs; doing them all in one synchronous
+// loop froze the tab (the whole point of this file's async plumbing), so we cooperatively
+// yield every REINDEX_CHUNK docs to keep the UI — spinner, typing, closing — responsive.
+const REINDEX_CHUNK = 400
 const store = new Map<string, Doc>()
 let index: any = null
 let fuzzy: MiniSearch | null = null
 let loadedStop = -1
 let loading = false
+
+// Yield to the event loop so the browser can paint / handle input between heavy batches.
+function yieldToUI(): Promise<void> {
+  return new Promise((r) => setTimeout(r, 0))
+}
 
 function basePath(): string {
   return document.body.dataset.basepath ?? ""
@@ -63,10 +73,13 @@ async function mergeFile(file: string): Promise<void> {
     return
   }
   const changed = mergeTier(store, (j.entries ?? []) as Entry[])
+  let i = 0
   for (const id of changed) {
     const d = store.get(id)!
     index.remove(id)
     index.add({ id: d.id, title: d.title, content: d.content, tags: (d.tags || []).join(" ") })
+    // Deep/Max tiers reindex ~19k docs; yield periodically so the tab never freezes.
+    if (++i % REINDEX_CHUNK === 0) await yieldToUI()
   }
 }
 
@@ -86,20 +99,22 @@ async function loadUpTo(target: number): Promise<void> {
       await mergeFile(stopFile(s))
       loadedStop = s
     }
-    if (target >= 3) buildFuzzy()
+    if (target >= 3) await buildFuzzy()
     document.dispatchEvent(new CustomEvent("searchdepth-loaded", { detail: { stop: loadedStop } }))
   } finally {
     loading = false
   }
 }
 
-function buildFuzzy(): void {
+async function buildFuzzy(): Promise<void> {
   fuzzy = new MiniSearch({
     fields: ["title", "content", "tags"],
     storeFields: [],
     searchOptions: { fuzzy: 0.2, prefix: true, boost: { title: 3, tags: 2 } },
   })
-  fuzzy.addAll(
+  // addAllAsync chunks the ~19k-doc build and yields between chunks, so indexing the Max
+  // tier no longer blocks the main thread (addAll did, freezing the tab on every open).
+  await fuzzy.addAllAsync(
     [...store.values()].map((d) => ({
       id: d.id,
       title: d.title,

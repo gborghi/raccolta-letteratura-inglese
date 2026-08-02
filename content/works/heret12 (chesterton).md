@@ -57,7 +57,6 @@ tags:
 
 - [The Moods of Mr. George Moore](/testi/chesterton/atomized/heret12#story_08_the_moods_of_mr_george_moore)
 - [On Sandals and Simplicity](/testi/chesterton/atomized/heret12#story_09_on_sandals_and_simplicity)
-- [Celts and Celtophiles](/testi/chesterton/atomized/heret12#story_12_celts_and_celtophiles-(desktop-l2ks9qk's-conflicted-copy-2026-07-31))
 - [Celts and Celtophiles](/testi/chesterton/atomized/heret12#story_12_celts_and_celtophiles)
 
 

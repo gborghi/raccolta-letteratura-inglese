@@ -12,6 +12,6 @@ Subject of the opening essay, praised as the novelist who proved emotional truth
 
 ## Works
 
-<div class="concept-works" data-slug="characters/charlotte-brontë"></div>
+<div class="concept-works" data-slug="characters/charlotte-brontë"></div>
 
 #graph/character

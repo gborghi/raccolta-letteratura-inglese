@@ -70,7 +70,7 @@ tags:
 
 ## Testo / Text
 
-- [The Miracle of Moon Crescent (part 5)](/testi/chesterton/atomized/incredulity#story_04_the_miracle_of_moon_crescent--part_05-(desktop-l2ks9qk's-conflicted-copy-2026-07-31))
+- [Incredulity](/testi/chesterton/atomized/incredulity#incredulity)
 
 
 <div class="work-readability" style="border:1px solid var(--lightgray,#e5e5e5);border-radius:8px;padding:.5rem .7rem;margin:.7rem 0;font-size:.9rem"><span style="color:var(--gray,#888);text-transform:uppercase;font-size:.72rem;letter-spacing:.03em;margin-right:.4rem">Readability (prose)</span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">72.6</b> <span style="color:var(--gray,#888);font-size:.8em">Flesch ease</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">8.1</b> <span style="color:var(--gray,#888);font-size:.8em">FK grade</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">11.3</b> <span style="color:var(--gray,#888);font-size:.8em">Fog</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">8%</b> <span style="color:var(--gray,#888);font-size:.8em">complex</span></span><span style="display:inline-block;margin:0 .5rem"><b style="font-size:1.05em">20.1</b> <span style="color:var(--gray,#888);font-size:.8em">words/sent</span></span></div>

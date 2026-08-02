@@ -1,7 +1,9 @@
 // Reusable radial "option wheel": renders <div class="radial-wheel" data-wheel="...">
 // placeholders into a circle of clickable emblem tiles, with a center medallion and
-// upright labels placed on the INNER side of each emblem in a top layer (so a label
-// is always in the foreground and never hidden when the emblem is hovered/scaled).
+// upright labels placed on the OUTER side of each emblem (in the band between the emblem
+// ring and the stage edge) in a top layer (so a label is always in the foreground and
+// never hidden when the emblem is hovered/scaled). The emblem ring is drawn a little
+// smaller than the stage to leave room for that outer label band.
 // A grid fallback kicks in on narrow screens. Data: quartz/static/wheel.json.
 
 interface Spoke {
@@ -135,13 +137,14 @@ function healSeam(stage: HTMLElement, tiles: HTMLElement[], before: Node, n: num
 }
 
 // Emblem diameter as a % of the stage, derived from how many spokes have to share the
-// ring rather than fixed at 27%. The arc available to one spoke is the ring's
-// circumference (2π·tileR, already in % units) divided by n; at 15 spokes that is ~15.5%
-// against a 27% tile, i.e. each emblem covered most of its neighbour and the labels had
-// nowhere to sit. OVERLAP keeps a deliberate slight shingle — the wheel is meant to read
-// as overlapping plates — while CAP stops sparse wheels (8 axes) from ballooning.
+// ring rather than fixed. The arc available to one spoke is the ring's circumference
+// (2π·tileR, already in % units) divided by n. OVERLAP keeps a deliberate slight shingle
+// — the wheel is meant to read as overlapping plates — while CAP stops sparse wheels (8
+// axes) from ballooning. CAP is held down (was 27) because labels now live OUTSIDE the
+// emblems: a fat sparse tile would push its outer edge, and its label with it, past the
+// stage edge.
 const OVERLAP = 1.12
-const TILE_CAP = 27
+const TILE_CAP = 20
 const TILE_MIN = 11
 
 function tileSize(n: number, tileR: number): number {
@@ -151,21 +154,21 @@ function tileSize(n: number, tileR: number): number {
 
 function layoutCircle(tiles: HTMLElement[], labels: HTMLElement[]) {
   const n = tiles.length
-  const tileR = 37 // emblem ring radius (% of stage)
-  // For crowded wheels (≥10 spokes) alternate between two inner radii so adjacent
-  // labels sit at different distances and don't overlap each other.
+  const tileR = 30 // emblem ring radius (% of stage) — held in from the edge (was 37) so
+  // the labels have a clear band OUTSIDE the emblems to sit in.
+  // For crowded wheels (≥10 spokes) alternate between two radii so adjacent labels sit at
+  // different distances and don't overlap each other.
   const crowded = n >= 10
-  // Labels sit in the clear band between the centre medallion and the inner edge of the
-  // emblems. That edge moves with the tile size now, so the radii are derived from it
-  // rather than hard-coded — with smaller plates the old outer ring (33) would have sat
-  // underneath them.
-  const labelBase = tileR - tileSize(n, tileR) / 2 - 4
+  // Labels sit in the clear band between the OUTER edge of the emblems and the stage edge.
+  // That edge moves with the tile size, so the radius is derived from it rather than
+  // hard-coded — bigger plates push the label band further out.
+  const labelBase = tileR + tileSize(n, tileR) / 2 + 3 // 3% gap just outside the emblems
   // Crowded wheels alternate between two radii so adjacent labels sit at different
   // distances: long multi-word cluster names ("Unrequited Frustrated Love") collide with
-  // their neighbours otherwise.
-  // 16 is the floor: the centre medallion is 30% wide, so its edge sits at 15%.
-  const labelR_inner = crowded ? Math.max(16, labelBase - 7) : labelBase // closer ring
-  const labelR_outer = labelBase // farther ring (odd spokes, still inside the emblems)
+  // their neighbours otherwise. Both radii stay outside the emblems; the farther one is
+  // clamped to 46 so it doesn't run off the stage.
+  const labelR_inner = labelBase // closer ring (just outside the emblems)
+  const labelR_outer = crowded ? Math.min(46, labelBase + 4.5) : labelBase // farther ring
   // A circular shingle can only ever be monotone up to ONE seam — z-index is a
   // total order, so somewhere around the ring the "each tile above its counter-
   // clockwise neighbour" rule must reverse. Only immediate neighbours overlap
@@ -250,9 +253,9 @@ function renderWheel(root: HTMLElement, spokes: Spoke[], prefix: string, imgPref
 }
 
 async function init() {
-  const roots = Array.from(
-    document.querySelectorAll<HTMLElement>("div.radial-wheel"),
-  ).filter((el) => !el.dataset.rendered)
+  const roots = Array.from(document.querySelectorAll<HTMLElement>("div.radial-wheel")).filter(
+    (el) => !el.dataset.rendered,
+  )
   if (!roots.length) return
 
   const slug = document.body.dataset.slug || ""

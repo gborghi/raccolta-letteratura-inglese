@@ -2152,7 +2152,7 @@ Exit
 
 
 
-<span class="atom-split" data-atom="act_2--scene_1" data-title="Troilus and Cressida — Act II, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="archetype/fool,archetype/king,motif/blood,motif/death,motif/dreams,motif/home,motif/horse,motif/nature,motif/prayer,motif/sleep,motif/soul,motif/tears,motif/time,motif/well,concept/beauty,concept/courage,concept/doubt,concept/fear,concept/greatness,concept/honour,concept/nature,concept/revenge,concept/truth,setting/paris,character/achilles,character/agamemnon,character/ajax,character/apollo,character/bottom,character/cressida,character/hector,character/helen,character/queen,character/thersites,character/troilus,character/ulysses,character/witch"></span>
+<span class="atom-split" data-atom="act_2--scene_1" data-title="Troilus and Cressida — Act II, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="archetype/fool,motif/horse,motif/prayer,motif/well,concept/beauty,concept/greatness,character/achilles,character/agamemnon,character/ajax,character/cressida,character/hector,character/helen,character/thersites,character/troilus,character/ulysses,character/witch"></span>
 
 
 | Speaker | Line |
@@ -2247,35 +2247,6 @@ Exit
 | *(didascalia)* | He knew his man. Exeunt [[Achilles]] and Patroclus |
 | [[Ajax\|AJAX]] | O, meaning you? I will go learn more of it. |
 | *(didascalia)* | Exit |
-| *(didascalia)* | 2.2 Sennet. Enter [[King]] Priam, [[Hector]], [[Troilus]], [[Paris]], and Helenus |
-| PRIAM | After so many hours, lives, speeches spent,<br>Thus once again says Nestor from the Greeks:<br>‘Deliver [[Helen]], and all damage else—<br>As [[Honour\|honour]], loss of [[Time\|time]], travail, expense,<br>Wounds, friends, and what else dear that is consumed<br>In hot digestion of this cormorant war—<br>Shall be struck off.’ [[Hector]], what say you to’t? |
-| [[Hector\|HECTOR]] | Though no man lesser fears the Greeks than I,<br>As far as toucheth my particular, yet, dread Priam,<br>There is no lady of more softer bowels,<br>More spongy to suck in the sense of [[Fear\|fear]],<br>More ready to cry out, ‘Who knows what follows?’<br>Than [[Hector]] is. The wound of peace is surety,<br>Surety secure; but modest [[Doubt\|doubt]] is called<br>The beacon of the wise, the tent that searches<br>To th’ [[Bottom\|bottom]] of the worst. Let [[Helen]] go.<br>Since the first [[Sword\|sword]] was drawn about this question,<br>Every tithe-[[Soul\|soul]], ’mongst many thousand dimes,<br>Hath been as dear as [[Helen]]—I mean, of ours.<br>If we have lost so many tenths of ours<br>To guard a thing not ours—nor worth to us,<br>Had it our name, the value of one ten—<br>What merit’s in that reason which denies<br>The yielding of her up? |
-| [[Troilus\|TROILUS]] | Fie, fie, my brother!<br>Weigh you the worth and [[Honour\|honour]] of a [[King\|king]]<br>So great as our dread father in a scale<br>Of common ounces? Will you with counters sum<br>The past-proportion of his infinite,<br>And buckle in a waist most fathomless<br>With spans and inches so diminutive<br>As fears and reasons? Fie, for godly shame! |
-| HELENUS | No marvel though you bite so sharp at reasons,<br>You are so empty of them. Should not our father<br>Bear the great sway of his affairs with reason<br>Because your speech hath none that tells him so? |
-| [[Troilus\|TROILUS]] | You are for [[Dreams\|dreams]] and slumbers, brother priest.<br>You fur your gloves with ‘reason’. Here are your<br>reasons:<br>You know an enemy intends you harm,<br>You know a [[Sword\|sword]] employed is perilous,<br>And reason flies the object of all harm.<br>Who marvels then, when Helenus beholds<br>A Grecian and his [[Sword\|sword]], if he do set<br>The very wings of reason to his heels<br>And fly like chidden Mercury from Jove,<br>Or like a star disorbed? Nay, if we talk of reason,<br>Let’s shut our gates and [[Sleep\|sleep]]. Manhood and [[Honour\|honour]]<br>Should have hare hearts, would they but fat their<br>thoughts<br>With this crammed reason. Reason and respect<br>Make livers pale and lustihood deject. |
-| [[Hector\|HECTOR]] | Brother, she is not worth what she doth cost<br>The holding. |
-| [[Troilus\|TROILUS]] | What’s aught but as ’tis valued? |
-| [[Hector\|HECTOR]] | But value dwells not in particular will.<br>It holds his estimate and dignity<br>As [[Well\|well]] wherein ‘tis precious of itself<br>As in the prizer. ’Tis mad idolatry<br>To make the service greater than the god;<br>And the will dotes that is inclinable<br>To what infectiously itself affects<br>Without some image of th’affected merit. |
-| [[Troilus\|TROILUS]] | I take today a wife, and my election<br>Is led on in the conduct of my will;<br>My will enkindled by mine eyes and ears,<br>Two traded pilots ‘twixt the dangerous shores<br>Of will and judgement. How may I avoid—<br>Although my will distaste what it elected—<br>The wife I chose? There can be no evasion<br>To blench from this and to stand firm by [[Honour\|honour]].<br>We turn not back the silks upon the merchant<br>When we have spoiled them; nor the remainder viands<br>We do not throw in unrespective sewer<br>Because we now are full. It was thought meet<br>[[Paris]] should do some vengeance on the Greeks.<br>Your breath of full consent bellied his sails;<br>The seas and winds, old wranglers, took a truce<br>And did him service. He touched the ports desired,<br>And for an old aunt whom the Greeks held captive<br>He brought a Grecian [[Queen\|queen]], whose youth and freshness<br>Wrinkles [[Apollo]]’s and makes stale the morning.<br>Why keep we her? The Grecians keep our aunt.<br>Is she worth keeping? Why, she is a pearl<br>Whose price hath launched above a thousand ships<br>And turned crowned kings to merchants.<br>If you’ll avouch ’twas wisdom [[Paris]] went—<br>As you must needs, for you all cried, ‘Go, go!’;<br>If you’ll confess he brought [[Home\|home]] noble prize—<br>As you must needs, for you all clapped your hands<br>And cried, ‘Inestimable!’—why do you now<br>The issue of your proper wisdoms rate,<br>And do a deed that never fortune did:<br>Beggar the estimation which you prized<br>Richer than sea and land? O theft most base,<br>That we have stol’n what we do [[Fear\|fear]] to keep!<br>But thieves unworthy of a thing so stol’n,<br>That in their country did them that disgrace<br>We [[Fear\|fear]] to warrant in our native place. |
-| *(didascalia)* | CASSANDRA within |
-| [[Troilus\|TROILUS]] | Cry, Trojans, cry! |
-| PRIAM | What noise? What shriek is this? |
-| [[Troilus\|TROILUS]] | ’Tis our mad sister. I do know her voice. |
-| *(didascalia)* | CASSANDRA within Cry, Trojans! |
-| [[Hector\|HECTOR]] | It is Cassandra. |
-| *(didascalia)* | Enter Cassandra raving, with her hair about her ears |
-| CASSANDRA | Cry, Trojans, cry! Lend me ten thousand eyes<br>And I will fill them with prophetic [[Tears\|tears]]. |
-| [[Hector\|HECTOR]] | Peace, sister, peace. |
-| CASSANDRA | Virgins and boys, mid-age, and wrinkled old,<br>Soft infancy that nothing canst but cry,<br>Add to my clamours. Let us pay betimes<br>A moiety of that mass of moan to come.<br>Cry, Trojans, cry! Practise your eyes with [[Tears\|tears]].<br>Troy must not be, nor goodly Ilium stand.<br>Our firebrand brother, [[Paris]], burns us all.<br>Cry, Trojans, cry! Ah [[Helen]], and ah woe!<br>Cry, cry ‘Troy burns!’—or else let [[Helen]] go. Exit |
-| [[Hector\|HECTOR]] | Now, youthful [[Troilus]], do not these high strains<br>Of divination in our sister work<br>Some touches of remorse? Or is your [[Blood\|blood]]<br>So madly hot that no discourse of reason,<br>Nor [[Fear\|fear]] of bad [[success]] in a bad cause,<br>Can qualify the same? |
-| [[Troilus\|TROILUS]] | Why, brother [[Hector]],<br>We may not think the justness of each act<br>Such and no other than the event doth form it,<br>Nor once deject the [[Courage\|courage]] of our minds<br>Because Cassandra’s mad. Her brainsick raptures<br>Cannot distaste the goodness of a quarrel<br>Which hath our several honours all engaged<br>To make it gracious. For my private part,<br>I am no more touched than all Priam’s sons.<br>And Jove forbid there should be done amongst us<br>Such things as might offend the weakest spleen<br>To fight for and maintain. |
-| [[Paris\|PARIS]] | Else might the world convince of levity<br>As [[Well\|well]] my undertakings as your counsels.<br>But I attest the gods, your full consent<br>Gave wings to my propension and cut off<br>All fears attending on so dire a project.<br>For what, alas, can these my single arms?<br>What propugnation is in one man’s valour<br>To stand the push and enmity of those<br>This quarrel would excite? Yet I protest,<br>Were I [[Alone\|alone]] to pass the difficulties<br>And had as ample power as I have will,<br>[[Paris]] should ne’er retract what he hath done<br>Nor faint in the pursuit. |
-| PRIAM | [[Paris]], you speak<br>Like one besotted on your sweet delights.<br>You have the honey still, but these the gall.<br>So to be valiant is no praise at all. |
-| [[Paris\|PARIS]] | Sir, I propose not merely to myself<br>The pleasures such a [[Beauty\|beauty]] brings with it,<br>But I would have the soil of her fair rape<br>Wiped off in honourable keeping her.<br>What treason were it to the ransacked [[Queen\|queen]],<br>Disgrace to your great worths, and shame to me,<br>Now to deliver her possession up<br>On terms of base compulsion? Can it be<br>That so degenerate a strain as this<br>Should once set footing in your generous bosoms?<br>There’s not the meanest spirit on our party<br>Without a heart to dare or [[Sword\|sword]] to draw<br>When [[Helen]] is defended; nor none so noble<br>Whose life were ill bestowed or [[Death\|death]] unfamed<br>Where [[Helen]] is the subject. Then I say:<br>[[Well]] may we fight for her whom we know [[Well\|well]]<br>The world’s large spaces cannot parallel. |
-| [[Hector\|HECTOR]] | [[Paris]] and [[Troilus]], you have both said [[Well\|well]],<br>But on the cause and question now in hand<br>Have glossed but superficially—not much<br>Unlike young men, whom Aristotle thought<br>Unfit to hear moral [[philosophy]].<br>The reasons you allege do more conduce<br>To the hot passion of distempered [[Blood\|blood]]<br>Than to make up a free determination<br>‘Twixt right and wrong; for pleasure and [[Revenge\|revenge]]<br>Have ears more deaf than adders to the voice<br>Of any true decision. [[Nature]] craves<br>All dues be rendered to their owners. Now,<br>What nearer debt in all humanity<br>Than wife is to the husband? If this law<br>Of [[Nature\|nature]] be corrupted through affection,<br>And that great minds, of partial indulgence<br>To their benumbed wills, resist the same,<br>There is a law in each [[Well\|well]]-ordered nation<br>To curb those raging appetites that are<br>Most disobedient and refractory.<br>If [[Helen]] then be wife to Sparta’s [[King\|king]],<br>As it is known she is, these moral laws<br>Of [[Nature\|nature]] and of nations speak aloud<br>To have her back returned. Thus to persist<br>In doing wrong extenuates not wrong,<br>But makes it much more heavy. [[Hector]]’s opinion<br>Is this in way of [[Truth\|truth]]—yet ne’ertheless,<br>My sprightly brethren, I propend to you<br>In resolution to keep [[Helen]] still;<br>For ’tis a cause that hath no mean dependence<br>Upon our joint and several dignities. |
-| [[Troilus\|TROILUS]] | Why, there you touched the life of our design.<br>Were it not glory that we more affected<br>Than the performance of our heaving spleens,<br>I would not wish a drop of Trojan [[Blood\|blood]]<br>Spent more in her defence. But, worthy [[Hector]],<br>She is a theme of [[Honour\|honour]] and renown,<br>A spur to valiant and magnanimous deeds,<br>Whose present [[Courage\|courage]] may beat down our foes,<br>And fame in [[Time\|time]] to come canonize us—<br>For I presume brave [[Hector]] would not lose<br>So rich advantage of a promised glory<br>As smiles upon the forehead of this action<br>For the wide world’s revenue. |
-| [[Hector\|HECTOR]] | I am yours,<br>You valiant offspring of great Priamus.<br>I have a roisting challenge sent amongst<br>The dull and factious nobles of the Greeks<br>Will shriek amazement to their drowsy spirits.<br>I was advertised their great general slept<br>Whilst emulation in the army crept;<br>This I presume will wake him. |
-| *(didascalia)* | Flourish. Exeunt |
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -3585,7 +3556,7 @@ Exit
 
 
 
-<span class="atom-split" data-atom="act_4--scene_6" data-title="Troilus and Cressida — Act IV, Scene 6" data-chapter="Scene 6" data-kind="scene" data-tags="archetype/lover,archetype/villain,motif/blood,motif/city,motif/death,motif/desire,motif/home,motif/journey,motif/love,motif/soul,motif/time,motif/well,motif/winter,concept/aspiration,concept/body,concept/courage,concept/faith,concept/fear,concept/honour,concept/hope,concept/pride,concept/wonder,setting/paris,character/achilles,character/agamemnon,character/ajax,character/cressida,character/hector,character/helen,character/troilus,character/ulysses,character/venus"></span>
+<span class="atom-split" data-atom="act_4--scene_6" data-title="Troilus and Cressida — Act IV, Scene 6" data-chapter="Scene 6" data-kind="scene" data-tags="archetype/villain,motif/blood,motif/desire,motif/home,motif/love,motif/soul,motif/time,motif/well,motif/winter,concept/aspiration,concept/body,concept/courage,concept/hope,concept/pride,setting/paris,character/achilles,character/agamemnon,character/ajax,character/cressida,character/hector,character/helen,character/troilus,character/ulysses,character/venus"></span>
 
 
 | Speaker | Line |
@@ -3663,74 +3634,6 @@ Exit
 | NESTOR | Now, [[Ajax]], hold thine own! |
 | [[Troilus\|TROILUS]] | [[Hector]], thou steep’st! Awake thee! |
 | *(didascalia)* | His blows are [[Well\|well]] disposed. There, [[Ajax]]! Exeunt |
-| *(didascalia)* | 4.7 Enter [[Hector]] and [[Ajax]] fighting, and Aeneas and |
-| *(didascalia)* | Diomedes interposing. Trumpets cease |
-| DIOMEDES | You must no more. |
-| AENEAS | Princes, enough, so please you. |
-| [[Ajax\|AJAX]] | I am not warm yet. Let us fight again. |
-| DIOMEDES | As [[Hector]] pleases. |
-| [[Hector\|HECTOR]] | Why then will I no more.—<br>Thou art, great lord, my father’s sister’s son,<br>A cousin-german to great Priam’s seed.<br>The obligation of our [[Blood\|blood]] forbids<br>A gory emulation ‘twixt us twain.<br>Were thy commixtion Greek and Trojan so<br>That thou couldst say ’This hand is Grecian all,<br>And this is Trojan; the sinews of this leg<br>All Greek, and this all Troy; my mother’s [[Blood\|blood]]<br>Runs on the dexter cheek, and this sinister<br>Bounds in my father‘s,’ by Jove multipotent<br>Thou shouldst not bear from me a Greekish member<br>Wherein my [[Sword\|sword]] had not impressure made<br>Of our rank feud. But the just gods gainsay<br>That any drop thou borrowed’st from thy mother,<br>My sacred aunt, should by my mortal [[Sword\|sword]]<br>Be drained. Let me embrace thee, [[Ajax]].<br>By him that thunders, thou hast lusty arms.<br>[[Hector]] would have them fall upon him thus.<br>Cousin, all [[Honour\|honour]] to thee. |
-| [[Ajax\|AJAX]] | I thank thee, [[Hector]].<br>Thou art too gentle and too free a man.<br>I came to kill thee, cousin, and bear hence<br>A great addition earned in thy [[Death\|death]]. |
-| [[Hector\|HECTOR]] | Not Neoptolemus so mirable,<br>On whose bright crest Fame with her loud‘st oyez<br>Cries ’This is he!’, could promise to himself<br>A thought of added [[Honour\|honour]] torn from [[Hector]]. |
-| AENEAS | There is expectance here from both the sides<br>What further you will do. |
-| [[Hector\|HECTOR]] | We’ll answer it:<br>The issue is embracement.—[[Ajax]], farewell. |
-| [[Ajax\|AJAX]] | If I might in entreaties find [[success]],<br>As seld I have the chance, I would [[Desire\|desire]]<br>My famous cousin to our Grecian tents. |
-| DIOMEDES | ’Tis [[Agamemnon]]’s wish—and great [[Achilles]]<br>Doth long to see unarmed the valiant [[Hector]]. |
-| [[Hector\|HECTOR]] | Aeneas, call my brother [[Troilus]] to me,<br>And signify this loving interview<br>To the expecters of our Trojan part. |
-| *(didascalia)* | [[Desire]] them [[Home\|home]]. Exit Aeneas |
-| [[Hector\|HECTOR]] | Give me thy hand, my cousin.<br>I will go eat with thee, and see your knights. |
-| *(didascalia)* | Enter [[Agamemnon]] and the rest: Aeneas, [[Ulysses]], |
-| [[Hector\|HECTOR]] | Menelaus, Nestor, [[Achilles]], Patroclus, [[Troilus]], and<br><br>others |
-| [[Ajax\|AJAX]] | Great [[Agamemnon]] comes to meet us here. |
-| [[Hector\|HECTOR]] | (to Aeneas)<br>The worthiest of them, tell me name by name.<br>But for [[Achilles]], mine own searching eyes<br>Shall find him by his large and portly size. |
-| [[Agamemnon\|AGAMEMNON]] | (embracing him)<br>Worthy of arms, as welcome as to one<br>That would be rid of such an enemy.<br>But that’s no welcome. Understand more clear:<br>What’s past and what’s to come is strewed with husks<br>And formless ruin of oblivion,<br>But in this extant moment [[Faith\|faith]] and troth,<br>Strained purely from all hollow bias-drawing,<br>Bids thee with most divine integrity<br>From heart of very heart, ‘Great [[Hector]], welcome!’ |
-| [[Hector\|HECTOR]] | I thank thee, most imperious [[Agamemnon]]. |
-| *(didascalia)* | [[Agamemnon\|AGAMEMNON]] to [[Troilus]] |
-| [[Hector\|HECTOR]] | My [[Well\|well]]-famed lord of Troy, no less to you. |
-| MENELAUS | Let me confirm my princely brother’s greeting.<br>You brace of warlike brothers, welcome hither. |
-| *(didascalia)* | He embraces [[Hector]] and [[Troilus]] |
-| [[Hector\|HECTOR]] | (to Aeneas)<br>Who must we answer? |
-| AENEAS | The noble Menelaus. |
-| [[Hector\|HECTOR]] | O, you, my lord! By Mars his gauntlet, thanks.<br>Mock not that I affect th’untraded oath.<br>Your quondam wife swears still by [[Venus]]’ glove.<br>She’s [[Well\|well]], but bade me not commend her to you. |
-| MENELAUS | Name her not now, sir. She’s a deadly theme. |
-| [[Hector\|HECTOR]] | O, pardon. I offend. |
-| NESTOR | I have, thou gallant Trojan, seen thee oft,<br>Labouring for destiny, make cruel way<br>Through ranks of Greekish youth, and I have seen thee<br>As hot as Perseus spur thy Phrygian steed,<br>And seen thee scorning forfeits and subduements,<br>When thou hast hung th‘advancèd [[Sword\|sword]] i’th’ air,<br>Not letting it decline on the declined,<br>That I have said unto my standers-by,<br>‘Lo, Jupiter is yonder, dealing life’.<br>And I have seen thee pause and take thy breath,<br>When that a ring of Greeks have hemmed thee in,<br>Like an Olympian, wrestling. This have I seen;<br>But this thy countenance, still locked in steel,<br>I never saw till now. I knew thy grandsire<br>And once fought with him. He was a soldier good,<br>But—by great Mars, the captain of us all—<br>Never like thee. Let an old man embrace thee;<br>And, worthy warrior, welcome to our tents.<br>He embraces [[Hector]] |
-| AENEAS | (to [[Hector]]) ’Tis the old Nestor. |
-| [[Hector\|HECTOR]] | Let me embrace thee, good old chronicle,<br>That hast so long walked hand in hand with [[Time\|time]].<br>Most reverend Nestor, I am glad to clasp thee. |
-| NESTOR | I would my arms could match thee in contention<br>As they contend with thee in courtesy. |
-| [[Hector\|HECTOR]] | I would they could. |
-| NESTOR | Ha! By this white beard I’d fight with thee tomorrow.<br>[[Well]], welcome, welcome! I have seen the [[Time\|time]]. |
-| [[Ulysses\|ULYSSES]] | I [[Wonder\|wonder]] now how yonder [[City\|city]] stands<br>When we have here her base and pillar by us? |
-| [[Hector\|HECTOR]] | I know your favour, Lord [[Ulysses]], [[Well\|well]].<br>Ah, sir, there’s many a Greek and Trojan dead<br>Since first I saw yourself and Diomed<br>In Ilium on your Greekish embassy. |
-| [[Ulysses\|ULYSSES]] | Sir, I foretold you then what would ensue.<br>My prophecy is but half his [[Journey\|journey]] yet;<br>For yonder walls that pertly front your town,<br>Yon towers whose wanton tops do buss the clouds,<br>Must kiss their own feet. |
-| [[Hector\|HECTOR]] | I must not believe you.<br>There they stand yet, and modestly I think<br>The fall of every Phrygian stone will cost<br>A drop of Grecian [[Blood\|blood]]. The end crowns all,<br>And that old common arbitrator [[Time]]<br>Will one day end it. |
-| [[Ulysses\|ULYSSES]] | So to him we leave it.<br>Most gentle and most valiant [[Hector]], welcome. |
-| *(didascalia)* | He embraces him |
-| [[Ulysses\|ULYSSES]] | After the General, I beseech you next<br>To feast with me and see me at my tent. |
-| *(didascalia)* | I shall forestall thee, Lord [[Ulysses]]. To [[Hector]] Thou! |
-| [[Achilles\|ACHILLES]] | Now, [[Hector]], I have fed mine eyes on thee.<br>I have with exact view perused thee, [[Hector]],<br>And quoted joint by joint. |
-| [[Hector\|HECTOR]] | Is this [[Achilles]]? |
-| [[Achilles\|ACHILLES]] | I am [[Achilles]]. |
-| [[Hector\|HECTOR]] | Stand fair, I pray thee, let me look on thee. |
-| [[Achilles\|ACHILLES]] | Behold thy fill. |
-| [[Hector\|HECTOR]] | Nay, I have done already. |
-| [[Achilles\|ACHILLES]] | Thou art too brief. I will the second [[Time\|time]],<br>As I would buy thee, view thee limb by limb. |
-| [[Hector\|HECTOR]] | O, like a book of sport thou‘lt read me o’er.<br>But there’s more in me than thou understand’st.<br>Why dost thou so oppress me with thine eye? |
-| [[Achilles\|ACHILLES]] | Tell me, you heavens, in which part of his [[Body\|body]]<br>Shall I destroy him—whether there, or there, or<br>there—<br>That I may give the local wound a name,<br>And make distinct the very breach whereout<br>[[Hector]]’s great spirit flew? Answer me, heavens. |
-| [[Hector\|HECTOR]] | It would discredit the blest gods, proud man,<br>To answer such a question. Stand again.<br>Think’st thou to catch my life so pleasantly<br>As to prenominate in nice conjecture<br>Where thou wilt hit me dead? |
-| [[Achilles\|ACHILLES]] | I tell thee, yea. |
-| [[Hector\|HECTOR]] | Wert thou the oracle to tell me so,<br>I’d not believe thee. Henceforth guard thee [[Well\|well]].<br>For I’ll not kill thee there, nor there, nor there,<br>But, by the forge that stithied Mars his helm,<br>I’ll kill thee everywhere, yea, o‘er and o’er.—<br>You wisest Grecians, pardon me this brag:<br>His insolence draws folly from my lips.<br>But I’ll endeavour deeds to match these words,<br>Or may I never— |
-| [[Ajax\|AJAX]] | Do not chafe thee, cousin.—<br>And you, [[Achilles]], let these threats [[Alone\|alone]],<br>Till accident or purpose bring you to’t.<br>You may have every day enough of [[Hector]],<br>If you have stomach. The general state, I [[Fear\|fear]],<br>Can scarce entreat you to be odd with him. |
-| [[Hector\|HECTOR]] | (to [[Achilles]])<br>I pray you, let us see you in the field.<br>We have had pelting wars since you refused<br>The Grecians’ cause. |
-| [[Achilles\|ACHILLES]] | Dost thou entreat me, [[Hector]]?<br>Tomorrow do I meet thee, fell as [[Death\|death]];<br>Tonight, all friends. |
-| [[Hector\|HECTOR]] | Thy hand upon that match. |
-| [[Agamemnon\|AGAMEMNON]] | First, all you peers of Greece, go to my tent.<br>There in the full convive you. Afterwards,<br>As [[Hector]]’s leisure and your bounties shall<br>Concur together, severally entreat him.<br>Beat loud the taborins, let the trumpets blow,<br>That this great soldier may his welcome know. |
-| *(didascalia)* | Flourish. Exeunt all but [[Troilus]] and [[Ulysses]] |
-| [[Troilus\|TROILUS]] | My Lord [[Ulysses]], tell me, I beseech you,<br>In what place of the field doth Calchas keep? |
-| [[Ulysses\|ULYSSES]] | At Menelaus’ tent, most princely [[Troilus]].<br>There Diomed doth feast with him tonight—<br>Who neither looks on heaven nor on earth,<br>But gives all gaze and bent of amorous view<br>On the fair Cressid. |
-| [[Troilus\|TROILUS]] | Shall I, sweet lord, be bound to you so much,<br>After we part from [[Agamemnon]]’s tent,<br>To bring me thither? |
-| [[Ulysses\|ULYSSES]] | You shall command me, sir.<br>As gentle tell me, of what [[Honour\|honour]] was<br>This [[Cressida]] in Troy? Had she no [[Lover\|lover]] there<br>That wails her absence? |
-| [[Troilus\|TROILUS]] | O sir, to such as boasting show their scars<br>A mock is due. Will you walk on, my lord?<br>She was beloved, she loved; she is, and doth.<br>But still sweet [[Love\|love]] is food for fortune’s tooth. Exeunt |
 
 
 <span class="qlang-split" data-lang="it"></span>

@@ -1092,17 +1092,11 @@ The [[Tragedy]] of [[Julius Caesar]]
 | *(didascalia)* | Within my tent his bones tonight shall lie, |
 | OCTAVIUS | Most like a soldier, ordered honourably.<br>So call the field to rest, and let’s away<br>To part the glories of this happy day. |
 | *(didascalia)* | Exeunt [with [[Brutus]]’ [[Body\|body]]] |
-| AS YOU LIKE IT | As You Like It is first heard of in the Stationers’ Register on 4 August 1600, and was probably written not long before. In spite of its early entry for publication, it was not printed until 1623. This play, with its contrasts between [[Court\|court]] and country, its bucolic as [[Well\|well]] as its aristocratic characters, its inset [[songs]] and [[Poems\|poems]], its predominantly woodland setting, its conscious artifice and its romantic ending, is the one in which Shakespeare makes most use of the conventions of [[Pastoral\|pastoral]] literature, though he does not wholly endorse them.<br>The story of the [[Love\|love]] between a high-born maiden—[[Rosalind]]—oppressed by the uncle—[[Duke Frederick]]—who has usurped his elder brother’s dukedom, and [[Orlando]], the third and youngest son of [[Duke Frederick]]’s old enemy Sir Rowland de Bois, himself oppressed by his tyrannical eldest brother [[Oliver]], derives from Thomas Lodge’s Rosalynde, a prose [[Romance\|romance]] interspersed with verses, which first appeared in 1590 and was several times reprinted. There are many indications that Shakespeare thought of the action as taking place in the Ardenne area of France, as in Rosalynde, even though there was also a Forest of Arden in Warwickshire. Like Lodge, Shakespeare counterpoints the developing [[Love\|love]] between [[Rosalind]]—who for much of the action is disguised as a boy, Ganymede—with the idealized [[Pastoral\|pastoral]] [[Romance\|romance]] of [[Silvius]] and [[Phoebe]]; he adds the down-to-earth, unromantic affair between the jester [[Touchstone]] and Audrey. Once [[Rosalind]] and her cousin [[Celia]] (also disguised) reach the forest, plot is virtually suspended in favour of a series of scintillating conversations making much use of prose. The sudden flowering of [[Love\|love]] between [[Celia]] and [[Orlando]]’s brother [[Oliver]], newly converted to virtue, is based on Rosalynde, but Shakespeare alters the climax of the story, bringing Hymen, the god of [[Marriage\|marriage]], on stage to resolve all complications. As [[Well\|well]] as [[Touchstone]], Shakespeare added the [[Melancholy\|melancholy]] courtier [[Jaques]], both of whom act as commentators, though from very different standpoints.<br>The first performances of Shakespeare’s text after his own [[Time\|time]] were given in 1740. It rapidly established itself in the theatrical repertoire, and has also been appreciated for its literary qualities. It has usually been played in picturesque settings, often since the late nineteenth century in the open air. [[Rosalind]] (written originally, of course, for a boy actor) is the dominant character, but other roles, especially [[Jaques]], [[Touchstone]], Audrey, Corin, and—in his single scene—William, have proved particularly effective when played by performers with a strong sense of their latent individuality. |
-| THE PERSONS OF THE | PLAY |
-| DUKE | SENIOR, living in banishment<br>[[Rosalind\|ROSALIND]], his daughter, later disguised as Ganymede |
-| [[Duke Frederick\|DUKE FREDERICK]] | [[Celia\|CELIA]], his daughter, later disguised as Aliena |
-| LE | BEAU, a courtier attending on him<br>CHARLES, [[Duke Frederick]]’s wrestler<br>[[Touchstone\|TOUCHSTONE]], a jester<br><br>[[Oliver\|OLIVER]], eldest son of Sir Rowland de Bois<br>ADAM, a former servant of Sir Rowland<br><br>DENIS, [[Oliver]]’s servant |
-| SIR [[Oliver\|OLIVER]] | MARTEXT, a country clergyman<br>CORIN, an old shepherd<br>[[Silvius\|SILVIUS]], a young shepherd, in [[Love\|love]] with [[Phoebe]]<br>[[Phoebe\|PHOEBE]], a shepherdess<br>WILLIAM, a countryman, in [[Love\|love]] with Audrey<br>AUDREY, a goatherd, betrothed to [[Touchstone]]<br><br>HYMEN, god of [[Marriage\|marriage]]<br><br>Lords, pages, and other attendants |
 
 
 
 
-<span class="atom-split" data-atom="act_1--scene_1" data-title="Julius Caesar — Act I, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="archetype/king,archetype/shadow,motif/blood,motif/crown,motif/death,motif/fire,motif/flowers,motif/home,motif/love,motif/night,motif/silence,motif/sleep,motif/soul,motif/stars,motif/tears,motif/time,motif/well,motif/winter,concept/ambition,concept/body,concept/conscience,concept/fear,concept/honour,concept/hope,concept/self,character/antonio,character/brutus,character/calpurnia,character/casca,character/cassius,character/flavius,character/julius_caesar,character/mark_antony,character/pompey,character/portia,character/speed"></span>
+<span class="atom-split" data-atom="act_1--scene_1" data-title="Julius Caesar — Act I, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="motif/blood,motif/flowers,motif/home,motif/tears,motif/time,concept/conscience,concept/hope,character/flavius,character/julius_caesar,character/pompey"></span>
 
 
 | Speaker | Line |
@@ -1129,104 +1123,6 @@ The [[Tragedy]] of [[Julius Caesar]]
 | MURELLUS | May we do so?<br>You know it is the Feast of Lupercal. |
 | [[Flavius\|FLAVIUS]] | It is no matter. Let no images<br>Be hung with Caesar’s trophies. I’ll about,<br>And drive away the vulgar from the streets;<br>So do you too where you perceive them thick.<br>These growing feathers plucked from Caesar’s wing<br>Will make him fly an ordinary pitch,<br>Who else would soar above the view of men<br>And keep us all in servile fearfulness. |
 | *(didascalia)* | Exeunt |
-| *(didascalia)* | 1.2 Loud music. Enter Caesar, Antony stripped for the course, [[Calpurnia]], [[Portia]], Decius, Cicero, [[Brutus]], [[Cassius]], [[Casca]], a Soothsayer, a throng of citizens; after them, Murellus and [[Flavius]] |
-| CAESAR | [[Calpurnia]]. |
-| *(didascalia)* | [[Casca\|CASCA]] Peace, ho! Caesar speaks. Music ceases |
-| CAESAR | [[Calpurnia]]. |
-| CALPURMA | Here, my lord. |
-| CAESAR | Stand you directly in [[Antonio]]’s way<br>When he doth run his course.—[[Antonio]]. |
-| ANTONY | Caesar, my lord. |
-| CAESAR | Forget not in your [[Speed\|speed]], [[Antonio]],<br>To touch [[Calpurnia]], for our elders say<br>The barren, touched in this holy chase,<br>Shake off their sterile curse. |
-| ANTONY | I shall remember:<br>When Caesar says ‘Do this’, it is performed. |
-| CAESAR | Set on, and leave no ceremony out. |
-| *(didascalia)* | music |
-| SOOTHSAYER | Caesar! |
-| CAESAR | Ha! Who calls? |
-| [[Casca\|CASCA]] | Bid every noise be still. Peace yet again. |
-| *(didascalia)* | Music ceases |
-| CAESAR | Who is it in the press that calls on me?<br>I hear a tongue shriller than all the music<br>Cry ‘Caesar!’ Speak. Caesar is turned to hear. |
-| SOOTHSAYER | Beware the ides of March. |
-| CAESAR | What man is that? |
-| [[Brutus\|BRUTUS]] | A soothsayer bids you beware the ides of March. |
-| CAESAR | Set him before me; let me see his face. |
-| [[Cassius\|CASSIUS]] | Fellow, come from the throng; look upon Caesar.<br>The Soothsayer comes forward |
-| CAESAR | What sayst thou to me now? Speak once again. |
-| SOOTHSAYER | Beware the ides of March. |
-| CAESAR | He is a dreamer. Let us leave him. Pass! |
-| *(didascalia)* | Sennet. Exeunt all but [[Brutus]] and [[Cassius]] |
-| [[Cassius\|CASSIUS]] | Will you go see the order of the course? |
-| [[Brutus\|BRUTUS]] | Not I. |
-| [[Cassius\|CASSIUS]] | I pray you, do. |
-| [[Brutus\|BRUTUS]] | I am not gamesome; I do lack some part<br>Of that quick spirit that is in Antony.<br>Let me not hinder, [[Cassius]], your desires.<br>I’ll leave you. |
-| [[Cassius\|CASSIUS]] | [[Brutus]], I do observe you now of late.<br>I have not from your eyes that gentleness<br>And show of [[Love\|love]] as I was wont to have.<br>You bear too stubborn and too strange a hand<br>Over your friend that loves you. |
-| [[Brutus\|BRUTUS]] | [[Cassius]],<br>Be not deceived. If I have veiled my look,<br>I turn the trouble of my countenance<br>Merely upon myself. Vexed I am<br>Of late with passions of some difference,<br>Conceptions only proper to myself,<br>Which give some soil, perhaps, to my behaviours.<br>But let not therefore my good friends be grieved—<br>Among which number, [[Cassius]], be you one—<br>Nor construe any further my neglect<br>Than that poor [[Brutus]], with himself at war,<br>Forgets the shows of [[Love\|love]] to other men. |
-| [[Cassius\|CASSIUS]] | Then, [[Brutus]], I have much mistook your passion,<br>By means whereof this breast of mine hath buried<br>Thoughts of great value, worthy cogitations.<br>Tell me, good [[Brutus]], can you see your face? |
-| [[Brutus\|BRUTUS]] | No, [[Cassius]], for the eye sees not itself<br>But by reflection, by some other things. |
-| [[Cassius\|CASSIUS]] | ’Tis just;<br>And it is very much lamented, [[Brutus]],<br>That you have no such mirrors as will turn<br>Your hidden worthiness into your eye,<br>That you might see your [[Shadow\|shadow]]. I have heard<br>Where many of the best respect in Rome—<br>Except immortal Caesar—speaking of [[Brutus]],<br>And groaning underneath this age’s yoke,<br>Have wished that noble [[Brutus]] had his eyes. |
-| [[Brutus\|BRUTUS]] | Into what dangers would you lead me, [[Cassius]],<br>That you would have me seek into myself<br>For that which is not in me? |
-| [[Cassius\|CASSIUS]] | Therefor, good [[Brutus]], be prepared to hear.<br>And since you know you cannot see yourself<br>So [[Well\|well]] as by reflection, I, your glass,<br>Will modestly discover to yourself<br>That of yourself which you yet know not of.<br>And be not jealous on me, gentle [[Brutus]].<br>Were I a common laughter, or did use<br>To stale with ordinary oaths my [[Love\|love]]<br>To every new protester; if you know<br>That I do fawn on men and hug them hard,<br>And after scandal them; or if you know<br>That I profess myself in banqueting<br>To all the rout: then hold me dangerous. |
-| *(didascalia)* | Flourish and shout within |
-| [[Brutus\|BRUTUS]] | What means this shouting? I do [[Fear\|fear]] the people<br>Choose Caesar for their [[King\|king]]. |
-| [[Cassius\|CASSIUS]] | Ay, do you [[Fear\|fear]] it?<br>Then must I think you would not have it so. |
-| [[Brutus\|BRUTUS]] | I would not, [[Cassius]]; yet I [[Love\|love]] him [[Well\|well]].<br>But wherefore do you hold me here so long?<br>What is it that you would impart to me?<br>If it be aught toward the general good,<br>Set [[Honour\|honour]] in one eye and [[Death\|death]] i’th’ other,<br>And I will look on both indifferently;<br>For let the gods so [[Speed\|speed]] me as I [[Love\|love]]<br>The name of [[Honour\|honour]] more than I [[Fear\|fear]] [[Death\|death]]. |
-| [[Cassius\|CASSIUS]] | I know that virtue to be in you, [[Brutus]],<br>As [[Well\|well]] as I do know your outward favour.<br>[[Well]], [[Honour\|honour]] is the subject of my story.<br>I cannot tell what you and other men<br>Think of this life; but for my single [[Self\|self]],<br>I had as lief not be, as live to be<br>In awe of such a thing as I myself.<br>I was born free as Caesar, so were you.<br>We both have fed as [[Well\|well]], and we can both<br>Endure the [[Winter\|winter]]’s cold as [[Well\|well]] as he.<br>For once upon a raw and gusty day,<br>The troubled Tiber chafing with her shores,<br>Said Caesar to me ‘Dar’st thou, [[Cassius]], now<br>Leap in with me into this angry flood,<br>And swim to yonder point?’ Upon the word,<br>Accoutred as I was I plungèd in,<br>And bade him follow. So indeed he did.<br>The torrent roared, and we did buffet it<br>With lusty sinews, throwing it aside,<br>And stemming it with hearts of controversy.<br>But ere we could arrive the point proposed,<br>Caesar cried ‘Help me, [[Cassius]], or I sinkl’<br>Ay, as Aeneas our great ancestor<br>Did from the flames of Troy upon his shoulder<br>The old Anchises bear, so from the waves of Tiber<br>Did I the tired Caesar. And this man<br>Is now become a god, and [[Cassius]] is<br>A wretched creature, and must bend his [[Body\|body]]<br>If Caesar carelessly but nod on him.<br>He had a fever when he was in Spain,<br>And when the fit was on him, I did mark<br>How he did shake. ‘Tis true, this god did shake.<br>His coward lips did from their colour fly;<br>And that same eye whose bend doth awe the world<br>Did lose his lustre. I did hear him groan,<br>Ay, and that tongue of his that bade the Romans<br>Mark him and write his speeches in their books,<br>‘Alas!’ it cried, ‘Give me some drink, Titinius’,<br>As a sick girl. Ye gods, it doth amaze me<br>A man of such a feeble temper should<br>So get the start of the majestic world,<br>And bear the palm [[Alone\|alone]]! |
-| *(didascalia)* | Flourish and shout within |
-| [[Brutus\|BRUTUS]] | Another general shout!<br>I do believe that these applauses are<br>For some new honours that are heaped on Caesar. |
-| [[Cassius\|CASSIUS]] | Why, man, he doth bestride the narrow world<br>Like a Colossus, and we petty men<br>Walk under his huge legs, and peep about<br>To find ourselves dishonourable graves.<br>Men at sometime were masters of their fates.<br>The fault, dear [[Brutus]], is not in our [[Stars\|stars]],<br>But in ourselves, that we are underlings.<br>[[Brutus]] and Caesar: what should be in that ‘Caesar’?<br>Why should that name be sounded more than yours?<br>Write them together: yours is as fair a name. |
-| *(didascalia)* | Sound them: it doth become the mouth as [[Well\|well]]. |
-| [[Cassius\|CASSIUS]] | Weigh them: it is as heavy. Conjure with ‘em:<br>‘[[Brutus]]’ will start a spirit as soon as ‘Caesar’.<br>Now in the names of all the gods at once,<br>Upon what meat doth this our Caesar feed<br>That he is grown so great? Age, thou art shamed.<br>Rome, thou hast lost the breed of noble bloods.<br>When went there by an age since the great flood,<br>But it was famed with more than with one man?<br>When could they say till now, that talked of Rome,<br>That her wide walls encompassed but one man?<br>Now is it Rome indeed, and room enough<br>When there is in it but one only man.<br>O, you and I have heard our fathers say<br>There was a [[Brutus]] once that would have brooked<br>Th’eternal devil to keep his state in Rome<br>As easily as a [[King\|king]]. |
-| [[Brutus\|BRUTUS]] | That you do [[Love\|love]] me I am nothing jealous.<br>What you would work me to I have some aim.<br>How I have thought of this and of these times<br>I shall recount hereafter. For this present,<br>I would not, so with [[Love\|love]] I might entreat you,<br>Be any further moved. What you have said<br>I will consider. What you have to say<br>I will with patience hear, and find a [[Time\|time]]<br>Both meet to hear and answer such high things.<br>Till then, my noble friend, chew upon this:<br>[[Brutus]] had rather be a villager<br>Than to repute himself a son of Rome<br>Under these hard conditions as this [[Time\|time]]<br>Is like to lay upon us. |
-| [[Cassius\|CASSIUS]] | I am glad<br>That my weak words have struck but thus much show<br>Of [[Fire\|fire]] from [[Brutus]]. |
-| *(didascalia)* | music. Enter Caesar and his train |
-| [[Brutus\|BRUTUS]] | The games are done, and Caesar is returning. |
-| [[Cassius\|CASSIUS]] | As they pass by, pluck [[Casca]] by the sleeve,<br>And he will, after his sour fashion, tell you<br>What hath proceeded worthy note today. |
-| [[Brutus\|BRUTUS]] | I will do so. But look you, [[Cassius]],<br>The angry spot doth glow on Caesar’s brow,<br>And all the rest look like a chidden train.<br>[[Calpurnia]]’s cheek is pale, and Cicero<br>Looks with such ferret and such fiery eyes<br>As we have seen him in the Capitol<br>Being crossed in conference by some senators. |
-| [[Cassius\|CASSIUS]] | [[Casca]] will tell us what the matter is. |
-| CAESAR | [[Antonio]]. |
-| ANTONY | Caesar. |
-| CAESAR | Let me have men about me that are fat,<br>Sleek-headed men, and such as [[Sleep\|sleep]] a-nights.<br>Yon [[Cassius]] has a lean and hungry look.<br>He thinks too much. Such men are dangerous. |
-| ANTONY | [[Fear]] him not, Caesar, he’s not dangerous.<br>He is a noble Roman, and [[Well\|well]] given. |
-| CAESAR | Would he were fatter! But I [[Fear\|fear]] him not.<br>Yet if my name were liable to [[Fear\|fear]],<br>I do not know the man I should avoid<br>So soon as that spare [[Cassius]]. He reads much,<br>He is a great observer, and he looks<br>Quite through the deeds of men. He loves no plays,<br>As thou dost, Antony; he hears no music.<br>Seldom he smiles, and smiles in such a sort<br>As if he mocked himself, and scorned his spirit<br>That could be moved to smile at anything.<br>Such men as he be never at heart’s ease<br>Whiles they behold a greater than themselves,<br>And therefore are they very dangerous.<br>I rather tell thee what is to be feared<br>Than what I [[Fear\|fear]], for always I am Caesar.<br>Come on my right hand, for this ear is deaf,<br>And tell me truly what thou think’st of him. |
-| *(didascalia)* | Sennet. Exeunt Caesar and his train. [[Brutus]], [[Cassius]], and [[Casca]] remain |
-| [[Casca\|CASCA]] | (to [[Brutus]]) You pulled me by the cloak. Would you speak with me? |
-| [[Brutus\|BRUTUS]] | Ay, [[Casca]]. Tell us what hath chanced today,<br>That Caesar looks so sad. |
-| [[Casca\|CASCA]] | Why, you were with him, were you not? |
-| [[Brutus\|BRUTUS]] | I should not then ask [[Casca]] what had chanced. |
-| [[Casca\|CASCA]] | Why, there was a [[Crown\|crown]] offered him; and being offered him, he put it by with the back of his hand, thus; and then the people fell a-shouting. |
-| [[Brutus\|BRUTUS]] | What was the second noise for? |
-| [[Casca\|CASCA]] | Why, for that too. |
-| [[Cassius\|CASSIUS]] | They shouted thrice. What was the last cry for? |
-| [[Casca\|CASCA]] | Why, for that too. |
-| [[Brutus\|BRUTUS]] | Was the [[Crown\|crown]] offered him thrice? |
-| [[Casca\|CASCA]] | Ay, marry, was’t; and he put it by thrice, every [[Time\|time]] gentler than other; and at every putting by, mine honest neighbours shouted. |
-| [[Cassius\|CASSIUS]] | Who offered him the [[Crown\|crown]]? |
-| [[Casca\|CASCA]] | Why, Antony. |
-| [[Brutus\|BRUTUS]] | Tell us the manner of it, gentle [[Casca]]. |
-| [[Casca\|CASCA]] | I can as [[Well\|well]] be hanged as tell the manner of it. It was mere foolery, I did not mark it. I saw [[Mark Antony]] offer him a [[Crown\|crown]]—yet ‘twas not a [[Crown\|crown]] neither, ’twas one of these coronets—and as I told you he put it by once; but for all that, to my thinking he would fain have had it. Then he offered it to him again; then he put it by again—but to my thinking he was very loath to lay his fingers off it. And then he offered it the third [[Time\|time]]; he put it the third [[Time\|time]] by. And still as he refused it, the rabblement hooted, and clapped their chapped hands, and threw up their sweaty nightcaps, and uttered such a deal of stinking breath because Caesar refused the [[Crown\|crown]] that it had almost choked Caesar; for he swooned and fell down at it. And for mine own part, I durst not laugh for [[Fear\|fear]] of opening my lips and receiving the bad air. |
-| [[Cassius\|CASSIUS]] | But soft, I pray you. What, did Caesar swoon? |
-| [[Casca\|CASCA]] | He fell down in the market-place, and foamed at mouth, and was speechless. |
-| [[Brutus\|BRUTUS]] | ‘Tis very like: he hath the falling sickness. |
-| [[Cassius\|CASSIUS]] | No, Caesar hath it not; but you and I<br>And honest [[Casca]], we have the falling sickness. |
-| [[Casca\|CASCA]] | I know not what you mean by that, but I am sure Caesar fell down. If the tag-rag people did not clap him and hiss him, according as he pleased and displeased them, as they use to do the players in the theatre, I am no true man. |
-| [[Brutus\|BRUTUS]] | What said he when he came unto himself? |
-| [[Casca\|CASCA]] | Marry, before he fell down, when he perceived the common herd was glad he refused the [[Crown\|crown]], he plucked me ope his doublet and offered them his throat to cut. An I had been a man of any occupation, if I would not have taken him at a word, I would I might go to hell among the rogues. And so he fell. When he came to himself again, he said, if he had done or said anything amiss, he desired their worships to think it was his infirmity. Three or four wenches where I stood cried ‘Alas, good [[Soul\|soul]]!’ and forgave him with all their hearts. But there’s no heed to be taken of them: if Caesar had stabbed their mothers they would have done no less. |
-| [[Brutus\|BRUTUS]] | And after that he came thus sad away? |
-| [[Casca\|CASCA]] | Ay. |
-| [[Cassius\|CASSIUS]] | Did Cicero say anything? |
-| [[Casca\|CASCA]] | Ay, he spoke Greek. |
-| [[Cassius\|CASSIUS]] | To what effect? |
-| [[Casca\|CASCA]] | Nay, an I tell you that, I’ll ne‘er look you i’th’ face again. But those that understood him smiled at one another, and shook their heads. But for mine own part, it was Greek to me. I could tell you more news, too. Murellus and [[Flavius]], for pulling scarves off Caesar’s images, are put to [[Silence\|silence]]. Fare you [[Well\|well]]. There was more foolery yet, if I could remember it. [[Cassius\|CASSIUS]] Will you sup with me tonight, [[Casca]]? |
-| [[Casca\|CASCA]] | No, I am promised forth. |
-| [[Cassius\|CASSIUS]] | Will you dine with me tomorrow? |
-| [[Casca\|CASCA]] | Ay, if I be alive, and your mind hold, and your dinner worth the eating. |
-| [[Cassius\|CASSIUS]] | Good; I will expect you. |
-| [[Casca\|CASCA]] | Do so. Farewell both. Exit |
-| [[Brutus\|BRUTUS]] | What a blunt fellow is this grown to be!<br>He was quick mettle when he went to school. |
-| [[Cassius\|CASSIUS]] | So is he now, in execution<br>Of any bold or noble enterprise,<br>However he puts on this tardy form.<br>This rudeness is a sauce to his good wit,<br>Which gives men stomach to digest his words<br>With better appetite. |
-| [[Brutus\|BRUTUS]] | And so it is. For this [[Time\|time]] I will leave you.<br>Tomorrow, if you please to speak with me,<br>I will come [[Home\|home]] to you; or if you will,<br>Come [[Home\|home]] to me and I will wait for you. |
-| [[Cassius\|CASSIUS]] | I will do so. Till then, think of the world. |
-| *(didascalia)* | Exit [[Brutus]] |
-| [[Cassius\|CASSIUS]] | [[Well]], [[Brutus]], thou art noble; yet I see<br>Thy honourable mettle may be wrought<br>From that it is disposed. Therefore it is meet<br>That noble minds keep ever with their likes;<br>For who so firm that cannot be seduced?<br>Caesar doth bear me hard, but he loves [[Brutus]].<br>If I were [[Brutus]] now, and he were [[Cassius]],<br>He should not [[Humour\|humour]] me. I will this [[Night\|night]]<br>In several hands in at his windows throw–<br>As if they came from several citizens—<br>Writings, all tending to the great opinion<br>That Rome holds of his name, wherein obscurely<br>Caesar’s [[Ambition\|ambition]] shall be glanced at.<br>And after this, let Caesar seat him sure,<br>For we will shake him, or worse days endure. Exit |
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -3294,7 +3190,7 @@ The [[Tragedy]] of [[Julius Caesar]]
 
 
 
-<span class="atom-split" data-atom="act_5--scene_5" data-title="Julius Caesar — Act V, Scene 5" data-chapter="Scene 5" data-kind="scene" data-tags="archetype/ghost,motif/death,motif/fire,motif/love,motif/marriage,motif/nature,motif/night,motif/time,motif/well,concept/body,concept/history,concept/honour,concept/melancholy,concept/nature,form/history,setting/court,character/brutus,character/celia,character/duke_frederick,character/jaques,character/julius_caesar,character/mark_antony,character/oliver,character/orlando,character/phoebe,character/rosalind,character/silvius,character/touchstone"></span>
+<span class="atom-split" data-atom="act_5--scene_5" data-title="Julius Caesar — Act V, Scene 5" data-chapter="Scene 5" data-kind="scene" data-tags="archetype/ghost,motif/death,motif/fire,motif/love,motif/nature,motif/night,motif/time,motif/well,concept/body,concept/history,concept/honour,concept/nature,form/history,character/brutus,character/julius_caesar,character/mark_antony"></span>
 
 
 | Speaker | Line |
@@ -3347,12 +3243,6 @@ The [[Tragedy]] of [[Julius Caesar]]
 | *(didascalia)* | Within my tent his bones tonight shall lie, |
 | OCTAVIUS | Most like a soldier, ordered honourably.<br>So call the field to rest, and let’s away<br>To part the glories of this happy day. |
 | *(didascalia)* | Exeunt [with [[Brutus]]’ [[Body\|body]]] |
-| AS YOU LIKE IT | As You Like It is first heard of in the Stationers’ Register on 4 August 1600, and was probably written not long before. In spite of its early entry for publication, it was not printed until 1623. This play, with its contrasts between [[Court\|court]] and country, its bucolic as [[Well\|well]] as its aristocratic characters, its inset [[songs]] and [[Poems\|poems]], its predominantly woodland setting, its conscious artifice and its romantic ending, is the one in which Shakespeare makes most use of the conventions of [[Pastoral\|pastoral]] literature, though he does not wholly endorse them.<br>The story of the [[Love\|love]] between a high-born maiden—[[Rosalind]]—oppressed by the uncle—[[Duke Frederick]]—who has usurped his elder brother’s dukedom, and [[Orlando]], the third and youngest son of [[Duke Frederick]]’s old enemy Sir Rowland de Bois, himself oppressed by his tyrannical eldest brother [[Oliver]], derives from Thomas Lodge’s Rosalynde, a prose [[Romance\|romance]] interspersed with verses, which first appeared in 1590 and was several times reprinted. There are many indications that Shakespeare thought of the action as taking place in the Ardenne area of France, as in Rosalynde, even though there was also a Forest of Arden in Warwickshire. Like Lodge, Shakespeare counterpoints the developing [[Love\|love]] between [[Rosalind]]—who for much of the action is disguised as a boy, Ganymede—with the idealized [[Pastoral\|pastoral]] [[Romance\|romance]] of [[Silvius]] and [[Phoebe]]; he adds the down-to-earth, unromantic affair between the jester [[Touchstone]] and Audrey. Once [[Rosalind]] and her cousin [[Celia]] (also disguised) reach the forest, plot is virtually suspended in favour of a series of scintillating conversations making much use of prose. The sudden flowering of [[Love\|love]] between [[Celia]] and [[Orlando]]’s brother [[Oliver]], newly converted to virtue, is based on Rosalynde, but Shakespeare alters the climax of the story, bringing Hymen, the god of [[Marriage\|marriage]], on stage to resolve all complications. As [[Well\|well]] as [[Touchstone]], Shakespeare added the [[Melancholy\|melancholy]] courtier [[Jaques]], both of whom act as commentators, though from very different standpoints.<br>The first performances of Shakespeare’s text after his own [[Time\|time]] were given in 1740. It rapidly established itself in the theatrical repertoire, and has also been appreciated for its literary qualities. It has usually been played in picturesque settings, often since the late nineteenth century in the open air. [[Rosalind]] (written originally, of course, for a boy actor) is the dominant character, but other roles, especially [[Jaques]], [[Touchstone]], Audrey, Corin, and—in his single scene—William, have proved particularly effective when played by performers with a strong sense of their latent individuality. |
-| THE PERSONS OF THE | PLAY |
-| DUKE | SENIOR, living in banishment<br>[[Rosalind\|ROSALIND]], his daughter, later disguised as Ganymede |
-| [[Duke Frederick\|DUKE FREDERICK]] | [[Celia\|CELIA]], his daughter, later disguised as Aliena |
-| LE | BEAU, a courtier attending on him<br>CHARLES, [[Duke Frederick]]’s wrestler<br>[[Touchstone\|TOUCHSTONE]], a jester<br><br>[[Oliver\|OLIVER]], eldest son of Sir Rowland de Bois<br>ADAM, a former servant of Sir Rowland<br><br>DENIS, [[Oliver]]’s servant |
-| SIR [[Oliver\|OLIVER]] | MARTEXT, a country clergyman<br>CORIN, an old shepherd<br>[[Silvius\|SILVIUS]], a young shepherd, in [[Love\|love]] with [[Phoebe]]<br>[[Phoebe\|PHOEBE]], a shepherdess<br>WILLIAM, a countryman, in [[Love\|love]] with Audrey<br>AUDREY, a goatherd, betrothed to [[Touchstone]]<br><br>HYMEN, god of [[Marriage\|marriage]]<br><br>Lords, pages, and other attendants |
 
 
 <span class="qlang-split" data-lang="it"></span>

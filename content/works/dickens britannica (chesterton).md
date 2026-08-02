@@ -84,7 +84,7 @@ tags:
 
 ## Testo / Text
 
-- [dickens Britannica (part 7)](/testi/chesterton/atomized/dickens_britannica#part--part_07-(desktop-l2ks9qk's-conflicted-copy-2026-07-31))
+- [dickens Britannica](/testi/chesterton/atomized/dickens_britannica#dickens_britannica)
 
 ## Parti / Parts
 

@@ -74,7 +74,6 @@ tags:
 - [My Six Conversions](/testi/chesterton/atomized/well_and_shallows#story_07_my_six_conversions)
 - [My Six Conversions](/testi/chesterton/atomized/well_and_shallows#story_08_my_six_conversions)
 - [My Six Conversions](/testi/chesterton/atomized/well_and_shallows#story_09_my_six_conversions)
-- [My Six Conversions](/testi/chesterton/atomized/well_and_shallows#story_10_my_six_conversions-(desktop-l2ks9qk's-conflicted-copy-2026-07-31))
 - [My Six Conversions](/testi/chesterton/atomized/well_and_shallows#story_10_my_six_conversions)
 - [Levity--Or Levitation](/testi/chesterton/atomized/well_and_shallows#story_13_levity_or_levitation)
 - [The Case For Hermits](/testi/chesterton/atomized/well_and_shallows#story_14_the_case_for_hermits)
